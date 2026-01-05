@@ -7222,6 +7222,7 @@ lo que **está ordenado** es **el abandono** del **pensamiento** de que estas **
 </details>
 
 
+#### सयम्-प्रयोजन-कैङ्कर्य-हानिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु उत्तर-कृत्य-परम् अऩ्ऱिक्के  
@@ -7253,7 +7254,6 @@ y la palabra parityajya **ocurre** allí.
 
 इङ्गु उत्तरकृत्यपरमऩ्ऱिक्के उपायविधायकमायिरुक्किऱ विव्वाक्यत्तिऱ् सॊल्लुगैयाले 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7322,7 +7322,7 @@ y **no podrían ser** un fin en sí mismos).
 
 </details>
 
-
+#### नैरपेक्ष्य-हानिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् उपायत्तुक्कुच् चॊल्लुगिऱ धर्मान्तर-नैरपेक्ष्यमुङ् किडैयादु।
@@ -7357,7 +7357,7 @@ que **se dice que** es la característica única de prapatti.
 दूषणान्तरङ्गळै आपादिक्किऱार् इव्वुपायत्तुक्कु इत्यादिना । 
 </details>
 
-
+#### अ-किञ्चनाधिकार-हानिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् उपायम् अ-किञ्चनाधिकारम् अऩ्ऱिक्केय् ऒऴियुम्। 
@@ -7385,6 +7385,7 @@ Así este upāya **dejaría** de **estar** dentro de la competencia del hombre *
 इव्वुपायम् अकिञ्चनाधिकारमऩ्ऱिक्केयॊऴियुम्। 
 </details>
 
+#### पूर्व-परिहार-व्यर्थता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7450,7 +7451,6 @@ sin el **pensamiento** de que **son** upāyas
 उपायमाऩवऱ्ऱिल् उपायबुद्धि त्यागम्बण्णि अनुष्ठिक्कैयावदु पऴैयवुपासनादिगळिल् निलैयाम्। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु उपाय-बुद्धि-त्यागम् पॊरुळ् आगच् चॊल्लुगिऱ पक्षत्तिल्  
@@ -7483,9 +7483,130 @@ y eso del **rendimiento** al **decir** que la diferencia **se** se debe a las pe
 </details>
 
 
-It is only if the text is held to enjoin the giving up of the dharmas themselves, there would arise any such conflict. If it is held that the adoption of karma, jñāna and bhakti , but without the thought that they are upāyas is an aṅga to prapatti, there would be no essential difference between the bhakta and the prapanna. The difference would only be nominal.)  the man who has bhakti  as the main and independent means and prapatti as an accessory to it could be called a bhakta and the man who adopts prapatti as the main and independent means and bhakti  as an accessory to it would be called a prapanna, but both would perform the same dharmas and there would be no difference in their action.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-It may be argued that, in regard to accessory activity, there need not be fullness or perfection of performance and that some short-comings might be allowed therein ; but this argument is not sound. Has it not been stated:-"A rite or observance performed for the attainment of a certain fruit will yield the desired fruit, only when all the accessory rites or aṅgas are duly performed?" (Pūrva Mīmāmsā).
+इङ्गु स्व-रूप-त्यागञ् जॊल्लुम् बोद् इऱे,  
+इव् विरोध-प्रसङ्गम् उळ्ळदु।
+</details>
+
+<details><summary>English</summary>
+
+It **is** only if the text **is held to enjoin the giving up** of the dharmas themselves,  
+there **would arise** any such conflict. 
+</details>
+
+<details><summary>Español</summary>
+
+**Lo es** sólo si el texto **se sostiene para ordenar el abandono** de los dharmas mismos,  
+allí **surgiría** cualquier conflicto de este tipo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु स्वरूपत्यागञ्जॊल्लुम्बोदिऱे, इव् विरोधप्रसङ्गमुळ्ळदु।
+</details>
+
+#### भक्त-प्रपन्न-व्यत्यासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि बुद्धि-विशेष-त्याग-पूर्वक-- कर्म-ज्ञान-भक्तिगळै प्रपत्तिक्क् अङ्गम् आगव् इसैयुम् पक्षत्तिल् 
+</details>
+
+<details><summary>English</summary>
+
+If it **is held** that the adoption of karma, jñāna and bhakti ,  
+but without the **thought** that they **are** upāyas **is** an aṅga to prapatti, 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que la adopción del karma, jñāna y bhakti,  
+pero sin el **pensamiento** de que **son** upāyas **es** un aṅga para prapatti,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि बुद्धिविशेषत्यागपूर्वककर्मज्ञानभक्तिकळै प्रपत्तिक्कङ्गमागविसैयुम् पक्षत्तिल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपासन-प्रपदनङ्गळुक्कु अङ्गाङ्गि-व्यपदेशत्तिल् माऱाट्टमेय् उळ्ळदु।
+</details>
+
+<details><summary>English</summary>
+
+there **would be no** essential difference between the bhakta and the prapanna.  
+
+(The difference **would only be** nominal.  
+The man who **has** bhakti  as the main and independent means  
+and prapatti as an accessory to it  
+**could be called** a bhakta  
+
+and the man who **adopts** prapatti as the main and independent means  
+and bhakti as an accessory to it  
+would be **called** a prapanna,  
+but both **would perform** the same dharmas  
+and there **would be no** difference in their action.)
+</details>
+
+<details><summary>Español</summary>
+
+**no habría** diferencia esencial entre el bhakta y el prapanna.  
+
+(La diferencia **sólo sería** nominal.  
+El hombre que **tiene** bhakti como medio principal e independiente  
+y prapatti como accesorio  
+**podría llamarse** un bhakta  
+
+y el hombre que **adopta** prapatti como medio principal e independiente  
+y bhakti como accesorio  
+Sería **llamado** prapanna,  
+pero ambos **realizarían** los mismos dharmas  
+y **no habría** ninguna diferencia en su acción.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासनप्रपदनङ्गळुक्कु अङ्गाङ्गिव्यपदेशत्तिल् माऱाट्टमेयुळ्ळदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अङ्ग-भावत्तिल् यथा-कथञ्चिद् अनुष्ठानम् अमैयुम् 
+
+ऎऩ्गिऱ वैषम्यमुम् मन्दम्। 
+</details>
+
+<details><summary>English</summary>
+
+It may be argued that, in regard to accessory activity,  
+there **need not be** fullness or perfection of performance  
+and that some short-comings **might be allowed** therein ;  
+but this **argument is not** sound. 
+</details>
+
+<details><summary>Español</summary>
+
+Se **puede argumentar** que, en lo que respecta a la actividad accesoria,  
+**No tiene por qué haber** plenitud o perfección en el desempeño.  
+y que **podrían permitirse** algunas deficiencias en el mismo;  
+pero este **argumento no** es sólido.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्गभावत्तिल् यथाकथञ्चिदनुष्ठानममैयुमॆऩ्गिऱ वैषम्यमुम् मन्दम्। 
+</details>
+
+
+
+Has it not been stated:-"A rite or observance performed for the attainment of a certain fruit will yield the desired fruit, only when all the accessory rites or aṅgas are duly performed?" (Pūrva Mīmāmsā).
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
