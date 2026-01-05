@@ -7222,7 +7222,7 @@ lo que **está ordenado** es **el abandono** del **pensamiento** de que estas **
 </details>
 
 
-#### सयम्-प्रयोजन-कैङ्कर्य-हानिः
+#### स्वयम्-प्रयोजन-कैङ्कर्य-हानिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु उत्तर-कृत्य-परम् अऩ्ऱिक्के  
@@ -7604,43 +7604,225 @@ pero este **argumento no** es sólido.
 अङ्गभावत्तिल् यथाकथञ्चिदनुष्ठानममैयुमॆऩ्गिऱ वैषम्यमुम् मन्दम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सकलाङ्गोपसंहारे  
+काम्यं कर्म प्रसिध्यति’’ 
+
+ऎऩ्ऱु चॊल्लप् पट्टद् इऱे।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सकलाङ्गोपसंहारे  
+काम्यं कर्म प्रसिध्यति’’ 
+
+</details>
 
 
-Has it not been stated:-"A rite or observance performed for the attainment of a certain fruit will yield the desired fruit, only when all the accessory rites or aṅgas are duly performed?" (Pūrva Mīmāmsā).
+<details><summary>English</summary>
+
+**Has it not been stated**:-  
+
+> "A rite or observance **performed** for the **attainment** of a certain fruit  
+**will yield** the desired fruit,  
+only when all the accessory rites or aṅgas are duly **performed**?" (Pūrva Mīmāmsā).
+</details>
+
+<details><summary>Español</summary>
+
+**¿No se ha indicado**?:-  
+
+> "Un rito u observancia **realizada** para la **obtención** de un determinado fruto  
+**dará** el fruto deseado,  
+¿Sólo cuando todos los ritos accesorios o aṅgas **sean debidamente realizados**?"  
+(Pūrva Mīmāmsā).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सकलाङ्गोपसंहारे काम्यं कर्म प्रसिध्यति’’ ऎऩ्ऱु चॊल्लप्पट्टदिऱे।  
+</details>
+
+#### सङ्ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् स्वरूप-त्यागोक्तौ  
+कैङ्कर्यस्यापचारता ।  
+उपायत्व-मति-त्यागे तत्-  
+स्व-रूपाङ्गता भवेत् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतस् स्वरूप-त्यागोक्तौ  
+कैङ्कर्यस्यापचारता ।  
+उपायत्व-मति-त्यागे तत्-  
+स्व-रूपाङ्गता भवेत् ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Thus if it **is stated** that the dharmas themselves in their essential form **should be given up**,  
+even the **rendering** of **service would become an offence**.  
+If it **is said** that  
+what **is to be given up** is only the **thought** that they are upāyas,  
+then the dharmas in their essential form **would become** an aṅga (of prapatti).
+</details>
+
+<details><summary>Español</summary>
+
+Así, si **se afirma** que los dharmas mismos en su forma esencial **deben abandonarse**,  
+incluso la **prestación** de **servicio se convertiría** en un **delito**.  
+Si **se dice** que  
+lo que **hay que abandonar** es sólo el **pensamiento** de que **son** upāyas,  
+entonces los dharmas en su forma esencial **se convertirían** en un aṅga (de prapatti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतस्स्वरूपत्यागोक्तौ कैङ्कर्यस्यापचारता ।  
+उपायत्वमतित्यागे तत्स्वरूपाङ्गता भवेत् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सात्त्विक-त्याग-युक्तानां  
+धर्माणाम् एतद्-अङ्गता ।  
+नूनं विस्मृत-काकादि-  
++++(तादृग्-धर्माङ्ग-रहित-)+++ वृत्तान्तैर् **उपवर्णिता** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सात्त्विक-त्याग-युक्तानां  
+धर्माणाम् एतद्-अङ्गता ।  
+नूनं विस्मृत-काकादि-  
++++(तादृग्-धर्माङ्ग-रहित-)+++ वृत्तान्तैर् **उपवर्णिता** ॥  
+</details>
+
+<details><summary>English</summary>
+
+It **is** only those who **have forgotten** the episodes of Kakasura and the like  
+that **would maintain**, as aṅgas of prapatti,  
+these dharmas without the **thought** that they **are** upāyas  
+and that the person **is** himself the **doer** of the **action** and its **beneficiary**  
+(for the doership and the benefit are God's).
+
+(Kākāsura **performed** prapatti (to Śrī Rāma)  
+without any of the rites due to varṇa or āśrama.)
+</details>
+
+<details><summary>Español</summary>
+
+**Son** solo aquellos que **han olvidado** los episodios de Kakasura y similares.  
+
+que **mantendría**, como aṅgas de prapatti,  
+estos dharmas sin el **pensamiento** de que **son** upāyas  
+
+y que la persona **es** ella misma el **hacedor** de la **acción** y su **beneficiario**  
+(porque el **hacedor** y el beneficio **son** de Dios).
+
+(Kākāsura **realizó** prapatti (a Śrī Rāma)  
+sin ninguno de los ritos debidos a varṇa o āśrama.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सात्त्विकत्यागयुक्तानां धर्माणामेतदङ्गता ।  
+नूनं विस्मृतकाकादिवृत्तान्तैरुपवर्णिता ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सकृत्-प्रपदनेनैव  
+धर्मान्तर-दवीयसा ।  
+तत्-क्षणेऽभिमतं पूर्वे  
+**संप्रापुर्** इति **शुश्रुम** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सकृत्-प्रपदनेनैव  
+धर्मान्तर-दवीयसा ।  
+तत्-क्षणेऽभिमतं पूर्वे  
+**संप्रापुर्** इति **शुश्रुम** ॥  
+</details>
+
+<details><summary>English</summary>
+
+We have (also ) **heard** that,  
+by a single **performance** alone of prapatti  
+far removed from any other dharma,  
+the ancients **obtained** at once what they **desired**.
+</details>
+
+<details><summary>Español</summary>
+
+**Hemos** (también) **escuchado** que,  
+por una sola **actuación** sola de prapatti  
+muy **alejado** de cualquier otro dharma,  
+los antiguos **obtuvieron** de inmediato lo que **deseaban**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सकृत्प्रपदनेनैव धर्मान्तरदवीयसा ।  
+तत्क्षणेऽभिमतं पूर्वे संप्रापुरिति शुश्रुम ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अतस्स्वरूपत्यागोक्तौ कैङ्कर्यस्यापचारता ।  
-उपायत्वमतित्यागे तत्स्वरूपाङ्गता भवेत् ॥  
-सात्त्विकत्यागयुक्तानां धर्माणामेतदङ्गता ।  
-नूनं विस्मृतकाकादिवृत्तान्तैरुपवर्णिता ॥  
-सकृत्प्रपदनेनैव धर्मान्तरदवीयसा ।  
-तत्क्षणेऽभिमतं पूर्वे संप्रापुरिति शुश्रुम ॥  
-प्रसक्ताङ्गत्वबाधे तु ब्रह्मास्त्रसमतेजसः ।  
-उपायस्य प्रभावश्च कैङ्कर्यादि च सुस्थिरम् ॥
++++(धर्मान्तर-[बुद्धि]-त्यागः→)+++ प्रसक्ताङ्गत्व-**बाधे** तु  
+ब्रह्मास्त्र-सम-तेजसः ।  
++++(अन्य-निरपेक्ष-प्रपत्तेः)+++ उपायस्य **प्रभावश्** च,  
++++(स्वयम्-प्रयोजन-)+++कैङ्कर्यादि च **सुस्थिरम्** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(धर्मान्तर-[बुद्धि]-त्यागः→)+++ प्रसक्ताङ्गत्व-**बाधे** तु  
+ब्रह्मास्त्र-सम-तेजसः ।  
++++(अन्य-निरपेक्ष-प्रपत्तेः)+++ उपायस्य **प्रभावश्** च,  
++++(स्वयम्-प्रयोजन-)+++कैङ्कर्यादि च **सुस्थिरम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+If it **is maintained** that the aṅgas of bhakti yoga  
+which **might be presumed** as **necessary** also for prapatti  
+**are declared** to be **not necessary** for prapatti  
+and **as being no** aṅgas to it,  
+the potency of the upāya (prapatti), which **is** equal in might to the Brahma missile,  
+**becomes** well established  
+and the **rendering** of **service** and the like will also become appropriate.
+</details>
+
+<details><summary>Español</summary>
+
+Si **se mantiene** que los aṅgas del bhakti yoga  
+que **podría presumirse** como **necesario** también para prapatti  
+**se declaran** **no necesarios** para prapatti  
+y **como si no fuera** aṅgas para ello,  
+la potencia del upāya (prapatti), que **es** igual en poder al misil Brahma,  
+**se vuelve** bien **establecida**  
+y la **prestación** de **servicio** y similares también **serán** apropiadas.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-अतस्स्वरूपत्यागोक्तौ कैङ्कर्यस्यापचारता ।  
-उपायत्वमतित्यागे तत्स्वरूपाङ्गता भवेत् ॥  
-सात्त्विकत्यागयुक्तानां धर्माणामेतदङ्गता ।  
-नूनं विस्मृतकाकादिवृत्तान्तैरुपवर्णिता ॥  
-सकृत्प्रपदनेनैव धर्मान्तरदवीयसा ।  
-तत्क्षणेऽभिमतं पूर्वे संप्रापुरिति शुश्रुम ॥  
 प्रसक्ताङ्गत्वबाधे तु ब्रह्मास्त्रसमतेजसः ।  
 उपायस्य प्रभावश्च कैङ्कर्यादि च सुस्थिरम् ॥
 </details>
 
-Thus if it is stated that the dharmas themselves in their essential forn should be given up, even the rendering of service would become an offence. If it is said that what is to be given up is only the thought that they are upāyas, then the dharmas in their essential form would become an aṅga (of prapatti).
 
-It is only those who have forgotten the episodes[^106] of Kakasura and the like that world maintain, as aṅgas of prapatti, these dharmas without the thought that they are upāyas and that the person is himself the doer of the action and its beneficiary (for the doership and the benetit are God's).
-
-[^106]: Kākāsura performed prapatti (to Śrī Rāma) without any of the rites due to varṇa or āśrama.
-
-We have (also ) heard that, by a single performance alone of prapatti far removed from any other dharma, the ancients obtained at once what they desired.
-
-If it is maintained that the aṅgas of bhakti yoga which might be presumed as necessary also for prapatti are declared to be not necessary for prapatti and as being no aṅgas to it, the potency of the upāya (prapatti), which is equal in might to the Brahma missile, becomes well established and the rendering of service and the like will also become appropriate.
 
 Therefore the view that here (in parityajya) the giving up of all dharmas, (rites, observances and the like) is enjoined (for prapatti) and the view that what is enjoined to be given up is only the thought of their being upāyas and the thought that they are aṅgas to it -- these views conflict with such śāstras as ordain the observance of the commandments, with the śāstras which state that prapatti does not require anything else, with the traditional observances of former ācāryas and with the code of conduct followed by virtuous men in former times who had become prapannas. Thus owing to the objections pointed out so far, the giving up of all dharmas is not an aṅga to prapatti ; nor is the performance of these dharmas in their essential form an aṅga (without the thought of their being upāyas or aṅgas to prapatti), because as has been stated before, prapatti does not require the performance of any other dharma. Therefore this injunction or ordinance about ‘giving up' (tyāga) has, for its purport, the statement that prapatti does not require any (aid) from any other dharma.
 
