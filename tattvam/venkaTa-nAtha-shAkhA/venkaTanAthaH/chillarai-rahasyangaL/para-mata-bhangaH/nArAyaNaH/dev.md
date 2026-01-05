@@ -5,7 +5,7 @@ title = "परमत-भङ्गः (dev)"
 
 TODO: Correction needed।
 
-Source: [TW](https://archive।org/details/blGM_paramata-bhanga-of-nigamanta-mahadesika-desikasaya-prakash-comm-by-narayanachary)
+Source: [TW](https://archive.org/details/blGM_paramata-bhanga-of-nigamanta-mahadesika-desikasaya-prakash-comm-by-narayanachary)
 
 SRT PIGAMANTA MAHADESIKA'S 
 PARAMATA BHANGAM 
