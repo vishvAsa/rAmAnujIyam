@@ -8109,6 +8109,8 @@ Esta **es** la **interpretación** correcta del texto aquí.
 इप्पडि अङ्गत्वप्रसङ्गत्वमुडैय सर्वधर्मङ्गळालुम् इदुक्कपेक्षैयिल्लै यॆऩ्गै यिव्विडत्तुक्कुचितम्। 
 </details>
 
+### शक्य-करणं कैङ्कर्य-मात्रम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत् धर्मङ्गळुक्कु 
@@ -8137,22 +8139,151 @@ como **se dice** que **son** para upāsana en Brahma Sūtras (3.4 -33),
 इत् धर्मङ्गळुक्कु ‘‘सहकारित्वेन च’’(ब्रह्मसूत्रम् ३-४-३३) ऎऩ्ऱ सूत्रत् तिऱ्सॊऩ्ऩ विद्यासहकारित्ववेषन् दविर्न्दालुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ‘‘विहितत्वाच् चाश्रम-कर्मापि’’  
+(ब्रह्मसूत्रम् ३-४-३२) 
 
+ऎऩ्ऱु सूत्रान्तरत्तिऱ् सॊऩ्ऩ विनियोगान्तरत्तुक्कु  
+प्रपन्नऩ् पक्कल् निवारकर् इल्लै। 
+</details>
 
+<details><summary>English</summary>
 
 yet as **stated** in another sūtra (3 - 4 - 32),  
-the karmas **ordained** for the different āśramas **have to be performed**, as they are enjoined as ordinances or commands; there is nothing to prevent their perfornuance by the prapanna (since commandments have to be obeyed as such (and for no other reason).
+the karmas **ordained** for the different āśramas **have to be performed**,  
+as they **are enjoined** as ordinances or commands;  
+there **is nothing** to **prevent** their **performance** by the prapanna  
+since **commandments have to be obeyed** as such (and for no other reason).
+</details>
 
-CONCLUSION: page543
+<details><summary>Español</summary>
 
-Therefore, as neither the performance of these dharmas nor their giving up is an aṅga to prapatti; to be without the desire to do what is beyond one's ability is a mark of competency (for prapatti). The performance of those duties or rites which are nitya and naimittika and which are within the range of one's ability takes rank as mere service consisting in the observance of a command,
+sin embargo, como **se indica** en otro sūtra (3 - 4 - 32),  
+los karmas **ordenados** para los diferentes āśramas **tienen que ser realizados**,  
+como **están ordenados** como ordenanzas o mandatos;  
+**no hay** nada que **pueda impedir** su **desempeño** por parte del prapanna.  
+ya que **los mandamientos hay que obedecerlos** como tales (y por ningún otro motivo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विहितत्वाच्चाश्रमकर्मापि’’(ब्रह्मसूत्रम् ३-४-३२) ऎऩ्ऱु सूत्रान्तरत्तिऱ्सॊऩ्ऩ विनियोगान्तरत्तुक्कु प्रपन्नऩ्बक्कल् निवारकरिल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+CONCLUSION: page 543
+</details>
+
+<details><summary>Español</summary>
+
+CONCLUSIÓN: página 543
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इद् धर्मङ्गळिऩ्-उडैयव् अनुष्ठानमुम्  
+धर्मङ्गळै त्यजिक्कैयुम्  
+प्रपत्तिक्क् अङ्गम् अल्लामैयाल्  
+अ-शक्यङ्गळिल् नैराश्यम् अधिकारत्तिले सॊरुगुम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore, as neither the **performance** of these dharmas  
+nor their **giving up** **is** an aṅga to prapatti;  
+**to be** without the **desire** to do what is beyond one's ability  
+**is** a mark of competency (for prapatti). 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, como ni la **realización** de estos dharmas  
+**ni** su **abandono** **es** un aṅga para prapatti;  
+**estar** sin el **deseo** de **hacer** lo que está más allá de la propia capacidad  
+**es** una marca de competencia (para prapatti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इत् धर्मङ्गळिऩुडैय वनुष्ठानमुम् धर्मङ्गळै त्यजिक्कैयुम् प्रपत्तिक्कङ्गमल्लामैयाल् अशक्यङ्गळिल् नैराश्यमधिकारत्तिले सॊरुगुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शक्यम् आऩ नित्य-नैमिक्तिकङ्गळ्-उडैयव् अनुष्ठानम्  
+आज्ञानुपालनम् आऩ कैङ्कर्य-मात्रमाम्। 
+</details>
+
+<details><summary>English</summary>
+
+The **performance** of those duties or rites which **are** nitya and naimittika  
+and which **are** within the range of one's ability  
+**takes** rank as mere **service**  
+**consisting** in the **observance** of a command.
+</details>
+
+<details><summary>Español</summary>
+
+El **desempeño** de aquellos deberes o ritos que **son** nitya y naimittika  
+y cuáles **están** dentro del rango de la propia capacidad  
+**toma** rango como mero **servicio**  
+**consistente** en la **observancia** de un comando.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शक्यमाऩ नित्यनैमिक्तिकङ्गळुडैय वनुष्ठानम् आज्ञानुपालनमाऩ कैङ्कर्यमात्रमाम्। 
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-सङ्कल्पमात्रमेवाङ्गं श्रुतमाचरणं पुनः ।  
-अनङ्गमाज्ञया प्राप्तं न सङ्कल्पनिबन्धनम् ॥
+सङ्कल्पमात्रम् एवाङ्गं  
+श्रुतम्, आचरणं पुनः ।  
+अनङ्गम् आज्ञया **प्राप्तं**,  
+न सङ्कल्प-निबन्धनम् ॥
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सङ्कल्पमात्रम् एवाङ्गं  
+श्रुतम्, आचरणं पुनः ।  
+अनङ्गम् आज्ञया **प्राप्तं**,  
+न सङ्कल्प-निबन्धनम् ॥
+</details>
+
+<details><summary>English</summary>
+
+It **is** only the **thought** or the **will to do** what **is pleasing** to the Lord  
+that **is** stated (in the Śāstras) as an aṅga of prapatti.  
+The **action arising** out of that will or **thought** **is not** an aṅga.  
+The rites of the varṇa and āśrama **are** the proper thing **to do**  
+in virtue of their **being** the Lord's command  
+and not because it **is** the **consequence** of the will or the thought  
+**to do** what **is pleasing** to Him.
+</details>
+
+<details><summary>Español</summary>
+
+**Es** sólo el **pensamiento** o la **voluntad de hacer** lo que **agrada** al Señor.  
+eso **se** afirma (en los Śāstras) como un aṅga de prapatti.  
+La **acción que surge** de esa voluntad o **pensamiento** **no es** un aṅga.  
+Los ritos del varṇa y āśrama **son** lo correcto **que se debe hacer**  
+en virtud de que **son** el mandato del Señor  
+y no porque **sea** la **consecuencia** de la voluntad o del pensamiento  
+**hacer** lo que **le agrada**.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -8160,7 +8291,7 @@ Therefore, as neither the performance of these dharmas nor their giving up is an
 अनङ्गमाज्ञया प्राप्तं न सङ्कल्पनिबन्धनम् ॥
 </details>
 
-It is only the thought or the will to do what is pleasing to the Lord that is stated (in the Śāstras) as an aṅga of prapatti, The action arising out of that will or thought is not an aṅga. The rites of the varṇa and āśrama are the proper thing to do in virtue of their being the Lord's command and not because it is the consequence of the will or the thought to do what is pleasing to Him,
+
 
 If so, it may be asked: "What is the purpose or object of performing those manifold and great acts of service which cannot be included among the commands to perform nitya and naimittika karma ?" These cannot be included among any of the other upāyas for mokṣa (because they are not performed with the object of attaining mokṣa); nor are they aṅgas or accessories to prapatti, because it does not require any such aṅgas or aids. The person does not perform them because of the fear that the Lord would be offended at their non-performance, nor does he perform them with the desire that they would bring about, by themselves, extinction of his sins or the attainment of such fruits as svarga, cattle, children and the like. Neither does he perform them merely for his own delight just like worldly men playing dice and the like, nor does he perform them to please the Lord having seen, like the freed souls, by actual observation, what would be approved of by Him. If so, why does he perform them, it may be asked. (The answer is as follows) - He proceeds to perform them because it is evident from the śāstras that these acts of service have, for their fruit, the propitiation of the Lord (just like other fruits) As one in whose nature the quality of sattvam predominates, he acquires a taste for pleasing the Lord and follows the light shed by the lamp of the śāstras in trying to give delight to the Lord who stands in varied relationships to him (as father, mother etc.), in the same way as he shows his love to his friends, children and the like.
 
