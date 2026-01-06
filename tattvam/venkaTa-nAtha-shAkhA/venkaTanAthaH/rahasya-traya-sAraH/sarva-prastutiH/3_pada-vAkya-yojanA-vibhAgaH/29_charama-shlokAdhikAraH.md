@@ -8747,18 +8747,99 @@ que **son apropiados** para el śeṣa.
 > शेषिय् उगन्द कैङ्कर्यत्तिऩ् प्रकारम् इदु; 
 </details>
 
+<details><summary>English</summary>
+
+- In what manner service **should be rendered**  
+in order that it **may please** the śeṣī, 
+
+</details>
+
+<details><summary>Español</summary>
+
+- De qué manera **debe prestarse el servicio**  
+para que **pueda complacer** al śeṣī,
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अल्लदु शेषियुगन्द कैङ्कर्यत्तिऩ् प्रकारमिदु; 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The knowledge of one's essential nature cannot indicate, unequivocally, 
+> इक् कैङ्कर्यत्तुक्क् उपायङ्गळ् इवैय् 
+</details>
 
-> In what manner service **should be rendered**  
-in order that it **may please** the śeṣī, 
+<details><summary>English</summary>
 
-and what upāyas should be adopted for this service. This being so, if one ignores the Śāstras and renders service with forbidden substances (like opium, say) or even among substances that are permitted, to render service with substances acquired unjustly and thus render service according to one's own sweet will and pleasure in ways opposed to what is enjoined in the śāstras, then there would be no difference between reverential conduct and offence. Then since there is no criterion besides one's own taste, one might think of performing as service all that is considered as forbidden and therefore avoided by seekers after mukti. The author of Śrī Bhāṣya has stated (in regard to the offering of food (havis) to Archi):- " Having "collected those things which are not prohibited in the śāstras etc." Therefore the proper thing is to render such forms of service as are enjoined in the Śāstras as competent to the person concerned and subject to the dictates of the śāstras. The teaching contained in the śloka :- "To know what ought to be done and what ought . not to be done, the only authority that you have is the śāstra. Therefore while you are here, understand the karma  enjoined in the śāstra just as it is” – this teaching is common to all ( whatever their competency). Śrī Aḷavandār in his Gitarthasaṅgraha says:-"Among these ekantins ( who are devoted exclusively to the Lord), the wise man (jnani) is called paramaikanti, one who has supreme devotion to the Lord to the exclusion of all other interests. His being alive is solely dependent on the Lord, To be united with Him is his only delight; to part from Him is his (only ) pain. His mind is always with the Lord. He considers himself as an entity only becanse of his meditating on Him, of visiting holy places (sacred to Him), and of speaking of Him to others, of bowing to Him and uttering his sacred names. His actions are performed with his life-breath, mind, will and the senses all dedicated to Him. He performs all the duties pertaining to him and also practises bhakti  inspired solely by love. He should give up the idea of their being upāyas and place the upāya in the Lord without any fear". In these ślokas what Aḷavandār meant by the words "inspired solely by love" was not that he should ignore the śāstras. His idea was to emphasise the great inspiration arising from his love (of the Lord), whose śeṣa he is, to perform those acts of service which he can understand only from the śāstras, in order to give delight to Him. When these ślokas are considered in relation to the man who practises upāsanas and the like, its aim is to show that these upāsanas are most pleasing to the person himself, that they are not the direct means of attaining the supreme end, but are the means of winning the favour of the Saviour who is the direct means or upāya for obtaining this end, and that the Lord of all who is pleased by these upāsanas stands, as the direct upāya for the attainment of this end. When the ślokas are considered in relation to the man who has adopted prapatti as the principal and independent means, their aim is to show that, though he performs the ordinances of nitya and naimittika karma and such other rites just as they are enjoined for bhakti yoga, since he does not perform them for the sake of other objects like svarga and mokṣa and perforins them solely for pleasing the Lord, he has not adopted any other upāya (for mokṣa and has no other interests or object. (Their aim is also) to show that, as he is destitute of other upāyas, the Lord Himself stands in the place of those upāyas and rewards him with the desired fruit.
+- and what upāyas should be adopted for this service. 
+</details>
+
+<details><summary>Español</summary>
+
+- y qué upāyas **deberían adoptarse** para este servicio.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इक् कैङ्कर्यत्तुक्कुपायङ्गळिवैय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु स्वरूपज्ञानम् नियमित्तुक् काट्टादु।
+</details>
+
+<details><summary>English</summary>
+
+The knowledge of one's essential nature cannot indicate, unequivocally, (the above).
+</details>
+
+<details><summary>Español</summary>
+
+El **conocimiento** de la propia naturaleza esencial **no puede indicar**, inequívocamente, (lo anterior).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु स्वरूपज्ञानम् नियमित्तुक् काट्टादु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ बिऩ्बु  
+शास्त्रत्तैय् अनादरित्तु  
+निषिद्ध-द्रव्यङ्गळैक् कॊण्डादल्, 
+</details>
+
+<details><summary>English</summary>
+
+This being so,  
+if one **ignores** the Śāstras  
+and **renders service** with forbidden substances (like opium, say)  
+</details>
+
+<details><summary>Español</summary>
+
+**Siendo** esto así,  
+si uno **ignora** los Śāstras  
+y **presta servicio** con sustancias prohibidas (como el opio, por ejemplo)
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु शास्त्रत्तै यनादरित्तुनिषिद्धद्रव्यङ्गळैक् कॊण्डादल्, 
+</details>
+
+
+
+
+
+or even among substances that **are permitted**, to render service with substances acquired unjustly and thus render service according to one's own sweet will and pleasure in ways opposed to what is enjoined in the śāstras, then there would be no difference between reverential conduct and offence. Then since there is no criterion besides one's own taste, one might think of performing as service all that is considered as forbidden and therefore avoided by seekers after mukti. The author of Śrī Bhāṣya has stated (in regard to the offering of food (havis) to Archi):- " Having "collected those things which are not prohibited in the śāstras etc." Therefore the proper thing is to render such forms of service as are enjoined in the Śāstras as competent to the person concerned and subject to the dictates of the śāstras. The teaching contained in the śloka :- "To know what ought to be done and what ought . not to be done, the only authority that you have is the śāstra. Therefore while you are here, understand the karma  enjoined in the śāstra just as it is” – this teaching is common to all ( whatever their competency). Śrī Aḷavandār in his Gitarthasaṅgraha says:-"Among these ekantins ( who are devoted exclusively to the Lord), the wise man (jnani) is called paramaikanti, one who has supreme devotion to the Lord to the exclusion of all other interests. His being alive is solely dependent on the Lord, To be united with Him is his only delight; to part from Him is his (only ) pain. His mind is always with the Lord. He considers himself as an entity only becanse of his meditating on Him, of visiting holy places (sacred to Him), and of speaking of Him to others, of bowing to Him and uttering his sacred names. His actions are performed with his life-breath, mind, will and the senses all dedicated to Him. He performs all the duties pertaining to him and also practises bhakti  inspired solely by love. He should give up the idea of their being upāyas and place the upāya in the Lord without any fear". In these ślokas what Aḷavandār meant by the words "inspired solely by love" was not that he should ignore the śāstras. His idea was to emphasise the great inspiration arising from his love (of the Lord), whose śeṣa he is, to perform those acts of service which he can understand only from the śāstras, in order to give delight to Him. When these ślokas are considered in relation to the man who practises upāsanas and the like, its aim is to show that these upāsanas are most pleasing to the person himself, that they are not the direct means of attaining the supreme end, but are the means of winning the favour of the Saviour who is the direct means or upāya for obtaining this end, and that the Lord of all who is pleased by these upāsanas stands, as the direct upāya for the attainment of this end. When the ślokas are considered in relation to the man who has adopted prapatti as the principal and independent means, their aim is to show that, though he performs the ordinances of nitya and naimittika karma and such other rites just as they are enjoined for bhakti yoga, since he does not perform them for the sake of other objects like svarga and mokṣa and perforins them solely for pleasing the Lord, he has not adopted any other upāya (for mokṣa and has no other interests or object. (Their aim is also) to show that, as he is destitute of other upāyas, the Lord Himself stands in the place of those upāyas and rewards him with the desired fruit.
 
 Those who have not studied Vedānta might ask (in this connection:- Both these adhikārīs (the bhakta and the prapanna) are devoted solely and exclusively to the Lord as stated (in the ślokas):-" Wise men do not worship Brahma, Rudra and other gods, for the reward that can he given by them is limited," "They are "my devotees who have no devotion to other deities, who love those that are devoted to me and who seek me alone as their upāya" and "He who has attained the lotus feet of Viṣṇu should not worship other deities." If these two adhikāris should perform the rites and observances of their castes and āśramas as stated (ia Aḷavandār's ślokas! (viz., all the karma s pertaining to them and also bhakti ), would not their supreme and exclusive devotion to the Lord be adversely affected in as much as these rites or dharmas are mixed up with (the worship of) such gods as Agoi and lndra?" Here, as explained in the Brahma Sūtras (1-2-29), names like Agni may be considered, on the authority of Jaimini, as directly referring to Brahman or Bhagavān for Agni and other such words may be etymologically derived as agram nayati. (He who receives the best part of the offering for Himself) etc. There is no worship or contact with other deities, because they are like the sacred names found in Sahasranama (etymologically applicable to Bhagavān). The author of Śrī Bhāṣya has stated in his Nitya:--"Having pleased the gods, the rishis and the Manes with oblations and with the thought that they have Bhagavān as their inner self" etc. So it is perfectly in accordance with the śāstras to perform these respective rites meditating that the Supreme Being has the respective deities as His body In "Pratardana vidyā and the like we are taught in the śāstras that the Supreme Being may be meditated on (or worshipped) in three forms: (one) in His own divine and essential nature, (two), the Supreme Being as having sentient beings as His attribute (or body), and ( three) the Supreme Being as having non-sentient things as His attribute (or body). Though He is worshipped in these three ways, the worship is really to the Supreme Being and not to His attributes (or bodies) (namely . the sentient and non-sentient beings). In the same way here also, the bhakta or prapanna does not adore the gods, the rishis and the Manes, who are really attributes or bodies of the Supreme Being.
 
