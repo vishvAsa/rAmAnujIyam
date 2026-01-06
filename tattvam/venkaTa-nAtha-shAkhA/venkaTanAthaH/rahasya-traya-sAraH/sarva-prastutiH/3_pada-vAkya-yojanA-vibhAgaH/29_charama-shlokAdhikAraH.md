@@ -8109,7 +8109,7 @@ Esta **es** la **interpretación** correcta del texto aquí.
 इप्पडि अङ्गत्वप्रसङ्गत्वमुडैय सर्वधर्मङ्गळालुम् इदुक्कपेक्षैयिल्लै यॆऩ्गै यिव्विडत्तुक्कुचितम्। 
 </details>
 
-### शक्य-करणं कैङ्कर्य-मात्रम्
+#### नित्यादौ शक्यानुष्ठानं कैङ्कर्य-मात्रम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8291,11 +8291,474 @@ y no porque **sea** la **consecuencia** de la voluntad o del pensamiento
 अनङ्गमाज्ञया प्राप्तं न सङ्कल्पनिबन्धनम् ॥
 </details>
 
+#### काम्य-कैङ्कर्य-कारणम् भिन्नम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडिय् आगिल्  
+इवऩुक्कु नित्य-नैमित्तिकङ्गळिल् अडैक्क वॊण्णाद प्रभूत-कैङ्कर्यङ्गळुक्कुप् प्रयोजकर् आर् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+If so, it **may be asked**:  
+
+> "What **is** the **purpose** or object of **performing** those manifold and great acts of **service**  
+which **cannot be included** among the commands to **perform** nitya and naimittika karma ?" 
+
+</details>
+
+<details><summary>Español</summary>
+
+Si **es** así, **se puede preguntar**:  
+
+> "¿Cuál **es** el **propósito** u objeto de **realizar** esos múltiples y grandes actos de **servicio**  
+Cuál **no puede incluirse** entre los comandos para **realizar** nitya y naimittika karma?"
+</details>
 
 
-If so, it may be asked: "What is the purpose or object of performing those manifold and great acts of service which cannot be included among the commands to perform nitya and naimittika karma ?" These cannot be included among any of the other upāyas for mokṣa (because they are not performed with the object of attaining mokṣa); nor are they aṅgas or accessories to prapatti, because it does not require any such aṅgas or aids. The person does not perform them because of the fear that the Lord would be offended at their non-performance, nor does he perform them with the desire that they would bring about, by themselves, extinction of his sins or the attainment of such fruits as svarga, cattle, children and the like. Neither does he perform them merely for his own delight just like worldly men playing dice and the like, nor does he perform them to please the Lord having seen, like the freed souls, by actual observation, what would be approved of by Him. If so, why does he perform them, it may be asked. (The answer is as follows) - He proceeds to perform them because it is evident from the śāstras that these acts of service have, for their fruit, the propitiation of the Lord (just like other fruits) As one in whose nature the quality of sattvam predominates, he acquires a taste for pleasing the Lord and follows the light shed by the lamp of the śāstras in trying to give delight to the Lord who stands in varied relationships to him (as father, mother etc.), in the same way as he shows his love to his friends, children and the like.
+<details><summary>मूलम्</summary>
 
-In this connection some may ask :- "In the case of the wise man who has made a complete surrender of all responsibility to the Lord of all, is not the criterion for deciding what should be given up and what taken up, the knowledge of his own essential nature (svarūpa?) So he is bound (only) by the knowledge of his own essential nature (to do or not to do this or that); why, then, should he follow the dictates of the śāstras?". This question is improper, for, if it is determined what his essential nature is with the help of the śāstras, then there is no other guide for him than the śāstras, until the time of his attaining mukti, to help him to understand what aims in life he should avoid as also the upāyas therefor, and what aims he should have and also the upāyas for securing these aims. From the knowledge that he is śeṣa to the Lord and the like, it is just possible to know a few things that are appropriate to the śeṣa. The knowledge of one's essential nature cannot indicate, unequivocally, in what manner service should be rendered in order that it may please the śeṣī, and what upāyas should be adopted for this service. This being so, if one ignores the Śāstras and renders service with forbidden substances (like opium, say) or even among substances that are permitted, to render service with substances acquired unjustly and thus render service according to one's own sweet will and pleasure in ways opposed to what is enjoined in the śāstras, then there would be no difference between reverential conduct and offence. Then since there is no criterion besides one's own taste, one might think of performing as service all that is considered as forbidden and therefore avoided by seekers after mukti. The author of Śrī Bhāṣya has stated (in regard to the offering of food (havis) to Archi):- " Having "collected those things which are not prohibited in the śāstras etc." Therefore the proper thing is to render such forms of service as are enjoined in the Śāstras as competent to the person concerned and subject to the dictates of the śāstras. The teaching contained in the śloka :- "To know what ought to be done and what ought . not to be done, the only authority that you have is the śāstra. Therefore while you are here, understand the karma  enjoined in the śāstra just as it is” – this teaching is common to all ( whatever their competency). Śrī Aḷavandār in his Gitarthasaṅgraha says:-"Among these ekantins ( who are devoted exclusively to the Lord), the wise man (jnani) is called paramaikanti, one who has supreme devotion to the Lord to the exclusion of all other interests. His being alive is solely dependent on the Lord, To be united with Him is his only delight; to part from Him is his (only ) pain. His mind is always with the Lord. He considers himself as an entity only becanse of his meditating on Him, of visiting holy places (sacred to Him), and of speaking of Him to others, of bowing to Him and uttering his sacred names. His actions are performed with his life-breath, mind, will and the senses all dedicated to Him. He performs all the duties pertaining to him and also practises bhakti  inspired solely by love. He should give up the idea of their being upāyas and place the upāya in the Lord without any fear". In these ślokas what Aḷavandār meant by the words "inspired solely by love" was not that he should ignore the śāstras. His idea was to emphasise the great inspiration arising from his love (of the Lord), whose śeṣa he is, to perform those acts of service which he can understand only from the śāstras, in order to give delight to Him. When these ślokas are considered in relation to the man who practises upāsanas and the like, its aim is to show that these upāsanas are most pleasing to the person himself, that they are not the direct means of attaining the supreme end, but are the means of winning the favour of the Saviour who is the direct means or upāya for obtaining this end, and that the Lord of all who is pleased by these upāsanas stands, as the direct upāya for the attainment of this end. When the ślokas are considered in relation to the man who has adopted prapatti as the principal and independent means, their aim is to show that, though he performs the ordinances of nitya and naimittika karma and such other rites just as they are enjoined for bhakti yoga, since he does not perform them for the sake of other objects like svarga and mokṣa and perforins them solely for pleasing the Lord, he has not adopted any other upāya (for mokṣa and has no other interests or object. (Their aim is also) to show that, as he is destitute of other upāyas, the Lord Himself stands in the place of those upāyas and rewards him with the desired fruit.
+इप्पडियागिल् इवऩुक्कु नित्यनैमित्तिकङ्गळिलडैक्कवॊण्णाद प्रभूतकैङ्कर्यङ्गळुक्कुप् प्रयोजकरारॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवै इवऩुक्क् उपायान्तरत्तिऱ् पुगादु, 
+</details>
+
+<details><summary>English</summary>
+
+These **cannot be included** among any of the other upāyas for mokṣa  
+(because they **are not performed** with the object of **attaining** mokṣa); 
+</details>
+
+<details><summary>Español</summary>
+
+Estos **no pueden incluirse** entre ninguno de los otros upāyas para mokṣa.  
+(porque **no se realizan** con el objeto de **alcanzar** mokṣa);
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवै इवऩुक्कुपायान्तरत्तिऱ् पुगादु, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गान्तर-निरपेक्षैय् आऩ प्रपत्तिक्कु परिकरङ्गळुम् आगादु।
+</details>
+
+<details><summary>English</summary>
+
+**nor are** they aṅgas or accessories to prapatti,  
+because it **does not require** any such aṅgas or aids. 
+</details>
+
+<details><summary>Español</summary>
+
+**tampoco son** aṅgas o accesorios de prapatti,  
+porque **no requiere** tales aṅgas o ayudas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्गान्तर निरपेक्षैयाऩ प्रपत्तिक्कु परिकरङ्गळुमागादु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अकरणत्तिल् ईश्वरऩ् वॆऱुक्कुम्+++(=कुप्यति)+++ 
+
+ऎऩ्ऱु सॆय्गिऱाऩुम् अल्लऩ्, 
+</details>
+
+<details><summary>English</summary>
+
+The person **does not perform** them because of the fear that the Lord **would be offended** at their **non-performance**, 
+</details>
+
+<details><summary>Español</summary>
+
+La persona **no las realiza** por temor a que el Señor **se ofenda** por su **incumplimiento**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकरणत्तिल् ईश्वरऩ् वॆऱुक्कुमॆऩ्ऱु सॆय्गिऱाऩुमल्लऩ्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩिये इवै  
+तऩक्क् ऒरु पाप-क्षय-- स्वर्ग-पशु-पुत्रादि फलान्तरत्तैय् आसैप्-पट्टुच् चॆय्गिऱाऩुम् अल्लऩ्, 
+</details>
+
+<details><summary>English</summary>
+
+nor does he **perform** them  
+with the **desire** that they **would bring about**, by themselves, **extinction** of his sins or the **attainment** of such fruits as svarga, cattle, children and the like. 
+</details>
+
+<details><summary>Español</summary>
+
+**ni** los **realiza**  
+con el **deseo** de que ellos **provocaran**, por sí mismos, la **extinción** de sus pecados o la **obtención** de frutos tales como svarga, ganado, niños y similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩिये इवै तऩक्कॊरु पापक्षयस्वर्गपशुपुत्रादि फलान्तरत्तै यासैप्पट्टुच् चॆय्गिऱाऩुमल्लऩ्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लौकिकर् आऩवर्गळ् द्यूतादिगळ् पण्णुमाप् पोले  
+केवलं तऩ्ऩ् उगप्पाले प्रवर्तिक्किऱाऩुम् अल्लऩ्,
+</details>
+
+<details><summary>English</summary>
+
+**Neither** does he **perform** them  
+merely for his own **delight**  
+just like worldly men **playing** dice and the like, 
+</details>
+
+<details><summary>Español</summary>
+
+**Tampoco** los **realiza**  
+simplemente para su propio **deleite**  
+al igual que los hombres mundanos **jugando** a los dados y cosas por el estilo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लौकिकराऩवर्गळ् द्यूतादिगळ् पण्णुमाप्पोले केवलम् तऩ्ऩुगप्पाले प्रवर्तिक्किऱाऩुमल्लऩ्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तरैप् पोले भगवद्-अभिप्रायत्तै प्रत्यक्षम् आगक् कण्डु  
+अवऩैय् उगप्पिक्कैक्कु प्रवर्तिक्किऱाऩुम् अल्लऩ्।
+</details>
+
+<details><summary>English</summary>
+
+**nor does he perform** them to **please** the Lord  
+**having seen**, like the freed souls, by actual **observation**,  
+what **would be approved** of by Him. 
+</details>
+
+<details><summary>Español</summary>
+
+**ni los realiza** para **agradar** al Señor  
+**habiendo visto**, como las almas liberadas, por **observación** real,  
+lo que **sería aprobado** por Él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुक्तरैप्पोले भगवदभिप्रायत्तै प्रत्यक्षमागक् कण्डु अवऩैयुगप्पिक्कैक्कु प्रवर्तिक्किऱाऩुमल्लऩ्।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"मऱ्ऱ् ऎङ्ङऩेय्" ऎऩ्ऩिल्;  
+इक् कैङ्कर्यङ्गळुक्कुम् फलान्तरङ्गळ् पोले  
+भगवत्प्-रीतियुम् फलम् आग शास्त्र-सिद्धम् आगैयाले
+</details>
+
+<details><summary>English</summary>
+
+> If so, why **does he perform** them,  
+
+it may be asked.  
+(The **answer is** as follows) -  
+He **proceeds** to **perform** them  
+because it **is evident** from the śāstras that  
+these acts of **service have**, for their fruit, the **propitiation** of the Lord (just like other fruits). 
+</details>
+
+<details><summary>Español</summary>
+
+> Si **es** así, ¿por qué **los realiza**?  
+
+**se puede preguntar**.  
+(La **respuesta es** la siguiente) -  
+Él **procede** a **realizarlos**  
+porque **es evidente** de los śāstras que  
+estos actos de **servicio tienen**, como fruto, la **propiciación** del Señor (al igual que otros frutos).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱॆङ्ङऩेयॆऩ्ऩिल्; इक् कैङ्कर्यङ्गळुक्कुम् फलान्तरङ्गळ् पोले भगवत्प्रीतियुम् फलमाग शास्त्रसिद्धमागैयाले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऩ्+++(→भगवद्)+++-उगप्पिले  
+सत्त्वोत्तरऩ् आऩ तऩ् प्रकृति-स्वभावत्ताले  
+रुचि पिऱक्कैयाले +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+As one in whose nature the quality of sattvam **predominates**,  
+he **acquires** a taste for **pleasing** the Lord  
+</details>
+
+<details><summary>Español</summary>
+
+Como alguien en cuya naturaleza la cualidad de sattvam **predomina**,  
+**adquiere** el gusto por **agradar** al Señor
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऩुगप्पिले सत्वोत्तरऩाऩ तऩ् प्रकृतिस्वभावत्ताले रुचि पिऱक्कैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुहृत्-पुत्राद्य्-उपलालनङ्गळिऱ् पोले  
+सर्व-विध-बन्धुव् आऩ् अवऩ्-उडैय प्रीणनङ्गळिले  
+शास्त्रङ् कै-विळक्क् आग प्रवर्तिक्किऱाऩ्।  
+</details>
+
+<details><summary>English</summary>
+
+and **follows** the light **shed** by the lamp of the śāstras  
+in **trying** to give **delight** to the Lord  
+who **stands** in varied **relationships** to him (as father, mother etc.),  
+in the same way as he **shows** his love to his friends, children and the like.
+
+</details>
+
+<details><summary>Español</summary>
+
+y **sigue** la luz **derramada** por la lámpara de los śāstras  
+en **tratar** de darle **deleite** al Señor  
+que **tiene** varias **relaciones** con él (como padre, madre, etc.),  
+de la misma manera que **muestra** su amor a sus amigos, hijos y similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुहृत्पुत्राद्युपलालनङ्गळिऱ्पोले सर्वविधबन्धुवाऩवऩुडैय प्रीणनङ्गळिले शास्त्रङ् गैविळक्काग प्रवर्तिक्किऱाऩ्।  
+</details>
+
+#### कैङ्कर्ये शास्त्र-प्रयोजनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-इडत्तिले सिलर् 
+
+> सर्वेश्वरऩ् पक्कलिले सर्वभरन्यासम् पण्णिऩ विवेकिक्कु  
+त्याज्योपादेय-विभाग-निर्णायकम् स्व-रूपज्ञानम् अऩ्ऱो?
+</details>
+
+<details><summary>English</summary>
+
+In this connection some **may ask** :- 
+
+> "In the case of the wise man who **has made** a complete **surrender** of all **responsibility** to the Lord of all,  
+**is not** the criterion for **deciding** what **should be given up**  
+and what **taken up**,  
+the **knowledge** of his own essential nature (svarūpa)?  
+</details>
+
+<details><summary>Español</summary>
+
+En este sentido, algunos **pueden preguntar**: - 
+
+> "En el caso del hombre sabio que **ha hecho** una **entrega** completa de toda **responsabilidad** al Señor de todo,  
+> 
+> **no es** el criterio para **decidir** a qué **debería renunciar**  
+y lo **tomado**,  
+el **conocimiento** de su propia naturaleza esencial (svarūpa)?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिले सिलर् सर्वेश्वरऩ् पक्कलिले सर्वभरन्यासम् पण्णिऩ विवेकिक्कु त्याज्योपादेयविभागनिर्णायकम् स्वरूपज्ञानमऩ्ऱो;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडि इवऩ्--स्व-रूप--वश्यऩ् आम् अत्तऩै बोक्कि  
+शास्त्र-वश्यऩ् आम् बडिय् ऎऩ्ऩ् +++(5)+++
+
+ऎऩ्ऱु सॊल्लुवर्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+> So he **is bound** (only) by the knowledge of his own essential nature (**to do** or **not to do** this or that);  
+why, then, **should he follow** the **dictates** of the śāstras?". 
+</details>
+
+<details><summary>Español</summary>
+
+> Entonces él **está obligado** (sólo) por el **conocimiento** de su propia naturaleza esencial (**hacer** o **no hacer** esto o aquello);  
+¿Por qué, entonces, **debería seguir** los **dictados** de los śāstras?".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इवऩ् स्वरूपवश्यऩामत्तऩैबोक्कि शास्त्रवश्यऩाम्बडि यॆऩ्ऩॆऩ्ऱु सॊल्लुवर्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुवुम् अनुपपन्नम्। 
+</details>
+
+<details><summary>English</summary>
+
+This question is improper, 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **pregunta** es **inapropiada**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुवुमनुपपन्नम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+"स्वरूपम् इऩ्ऩ-बडिय् इरुक्कुम्" ऎऩ्ऱु  
+शास्त्रत्तैक् कॊण्ड् अऱुदिय्+++(=निर्णय)+++ इट्टाल्  
+</details>
+
+<details><summary>English</summary>
+
+for, if it **is determined** what his essential nature **is** with the **help** of the śāstras,  
+</details>
+
+<details><summary>Español</summary>
+
+porque, si **se determina** cuál es su naturaleza esencial con la **ayuda** de los śāstras,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; स्वरूपमिऩ्ऩबडियिरुक्कुमॆऩ्ऱु शास्त्रत्तैक्कॊण्डऱुदियिट्टाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इस्-स्वरूपत्तुक्क्  
+इऩ्ऩ पुरुषार्थमुम् तद्-उपायमुम् त्याज्यम्,  
+इऩ्ऩ पुरुषार्थमुम् तद्-उपायमुम् उपादेयम् 
+
+ऎऩ्ऱु पिरित्तुत् तॆळिगैक्कु  
+मुक्तऩ् आम् अळवुम्  
+शास्त्रम् ऒऴिय वऴिय् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+then there **is no** other guide for him than the śāstras,  
+until the time of his **attaining** mukti,  
+to **help** him to **understand** 
+
+what aims in life he **should avoid**  
+as also the upāyas therefor,  
+and what aims he **should have**  
+and also the upāyas for **securing** these aims. 
+</details>
+
+<details><summary>Español</summary>
+
+entonces **no hay** otra guía para él que los śāstras,  
+hasta el momento de **alcanzar** mukti,  
+**ayudarlo** a **comprender** 
+
+qué objetivos en la vida **debe evitar**  
+como también los upāyas correspondientes,  
+
+y qué objetivos **debería tener**  
+y también los upāyas para **asegurar** estos objetivos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस्स्वरूपत्तुक्किऩ्ऩ पुरुषार्थमुम् तदुपायमुम् त्याज्यम्, इऩ्ऩ पुरुषार्थमुम् तदुपायमुमुपादेयमॆऩ्ऱु पिरित्तुत्तॆळिगैक्कु मुक्तऩामळवुम् शास्त्रमॊऴिय वऴियिल्लै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वरूपत्तिल् शेषत्वादिगळैक् कॊण्डु  
+सिलव् औचित्य-मात्रम् अऱियलाम् अत्तऩै,
+</details>
+
+<details><summary>English</summary>
+
+From the **knowledge** that he is śeṣa to the Lord and the like,  
+it **is** just **possible to know** a few things  
+that **are appropriate** to the śeṣa. 
+</details>
+
+<details><summary>Español</summary>
+
+Del **conocimiento** de que él es śeṣa para el Señor y cosas por el estilo,  
+**es** simplemente **posible saber** algunas cosas  
+que **son apropiados** para el śeṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वरूपत्तिल् शेषत्वादिगळैक् कॊण्डु सिल वौचित्यमात्रमऱियलामत्तऩै,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु 
+
+> शेषिय् उगन्द कैङ्कर्यत्तिऩ् प्रकारम् इदु; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लदु शेषियुगन्द कैङ्कर्यत्तिऩ् प्रकारमिदु; 
+</details>
+
+
+The knowledge of one's essential nature cannot indicate, unequivocally, 
+
+> In what manner service **should be rendered**  
+in order that it **may please** the śeṣī, 
+
+and what upāyas should be adopted for this service. This being so, if one ignores the Śāstras and renders service with forbidden substances (like opium, say) or even among substances that are permitted, to render service with substances acquired unjustly and thus render service according to one's own sweet will and pleasure in ways opposed to what is enjoined in the śāstras, then there would be no difference between reverential conduct and offence. Then since there is no criterion besides one's own taste, one might think of performing as service all that is considered as forbidden and therefore avoided by seekers after mukti. The author of Śrī Bhāṣya has stated (in regard to the offering of food (havis) to Archi):- " Having "collected those things which are not prohibited in the śāstras etc." Therefore the proper thing is to render such forms of service as are enjoined in the Śāstras as competent to the person concerned and subject to the dictates of the śāstras. The teaching contained in the śloka :- "To know what ought to be done and what ought . not to be done, the only authority that you have is the śāstra. Therefore while you are here, understand the karma  enjoined in the śāstra just as it is” – this teaching is common to all ( whatever their competency). Śrī Aḷavandār in his Gitarthasaṅgraha says:-"Among these ekantins ( who are devoted exclusively to the Lord), the wise man (jnani) is called paramaikanti, one who has supreme devotion to the Lord to the exclusion of all other interests. His being alive is solely dependent on the Lord, To be united with Him is his only delight; to part from Him is his (only ) pain. His mind is always with the Lord. He considers himself as an entity only becanse of his meditating on Him, of visiting holy places (sacred to Him), and of speaking of Him to others, of bowing to Him and uttering his sacred names. His actions are performed with his life-breath, mind, will and the senses all dedicated to Him. He performs all the duties pertaining to him and also practises bhakti  inspired solely by love. He should give up the idea of their being upāyas and place the upāya in the Lord without any fear". In these ślokas what Aḷavandār meant by the words "inspired solely by love" was not that he should ignore the śāstras. His idea was to emphasise the great inspiration arising from his love (of the Lord), whose śeṣa he is, to perform those acts of service which he can understand only from the śāstras, in order to give delight to Him. When these ślokas are considered in relation to the man who practises upāsanas and the like, its aim is to show that these upāsanas are most pleasing to the person himself, that they are not the direct means of attaining the supreme end, but are the means of winning the favour of the Saviour who is the direct means or upāya for obtaining this end, and that the Lord of all who is pleased by these upāsanas stands, as the direct upāya for the attainment of this end. When the ślokas are considered in relation to the man who has adopted prapatti as the principal and independent means, their aim is to show that, though he performs the ordinances of nitya and naimittika karma and such other rites just as they are enjoined for bhakti yoga, since he does not perform them for the sake of other objects like svarga and mokṣa and perforins them solely for pleasing the Lord, he has not adopted any other upāya (for mokṣa and has no other interests or object. (Their aim is also) to show that, as he is destitute of other upāyas, the Lord Himself stands in the place of those upāyas and rewards him with the desired fruit.
 
 Those who have not studied Vedānta might ask (in this connection:- Both these adhikārīs (the bhakta and the prapanna) are devoted solely and exclusively to the Lord as stated (in the ślokas):-" Wise men do not worship Brahma, Rudra and other gods, for the reward that can he given by them is limited," "They are "my devotees who have no devotion to other deities, who love those that are devoted to me and who seek me alone as their upāya" and "He who has attained the lotus feet of Viṣṇu should not worship other deities." If these two adhikāris should perform the rites and observances of their castes and āśramas as stated (ia Aḷavandār's ślokas! (viz., all the karma s pertaining to them and also bhakti ), would not their supreme and exclusive devotion to the Lord be adversely affected in as much as these rites or dharmas are mixed up with (the worship of) such gods as Agoi and lndra?" Here, as explained in the Brahma Sūtras (1-2-29), names like Agni may be considered, on the authority of Jaimini, as directly referring to Brahman or Bhagavān for Agni and other such words may be etymologically derived as agram nayati. (He who receives the best part of the offering for Himself) etc. There is no worship or contact with other deities, because they are like the sacred names found in Sahasranama (etymologically applicable to Bhagavān). The author of Śrī Bhāṣya has stated in his Nitya:--"Having pleased the gods, the rishis and the Manes with oblations and with the thought that they have Bhagavān as their inner self" etc. So it is perfectly in accordance with the śāstras to perform these respective rites meditating that the Supreme Being has the respective deities as His body In "Pratardana vidyā and the like we are taught in the śāstras that the Supreme Being may be meditated on (or worshipped) in three forms: (one) in His own divine and essential nature, (two), the Supreme Being as having sentient beings as His attribute (or body), and ( three) the Supreme Being as having non-sentient things as His attribute (or body). Though He is worshipped in these three ways, the worship is really to the Supreme Being and not to His attributes (or bodies) (namely . the sentient and non-sentient beings). In the same way here also, the bhakta or prapanna does not adore the gods, the rishis and the Manes, who are really attributes or bodies of the Supreme Being.
 
