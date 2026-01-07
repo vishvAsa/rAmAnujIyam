@@ -1,5 +1,5 @@
-ट्+++
-title = "परमत-भङ्गः"
++++
+title = "परमत-भङ्गः १"
 +++
 
 TODO: Correction needed.

@@ -1,6 +1,6 @@
-
-title = "परमत-भङ्गः (dev)"
-
++++
+title = "परमत-भङ्गः (dev १)"
++++
 
 
 TODO: Correction needed।
