@@ -10053,17 +10053,377 @@ y en **comer** la comida **ofrecida** (a estos dioses).
 देवतान्तर-स्पर्श-दोषं वारादु।+++(4)+++
 </details>
 
+<details><summary>English</summary>
+
+Similarly there **is no association** for him with other deities  
+whom, **obeying** the **injunctions** (**contained** in the śastras,  
+he **worships** the Supreme Being  
+**having**, for His attributes, sentient beings and non-sentient things. 
+</details>
+
+<details><summary>Español</summary>
+
+De manera similar, **no hay asociación** para él con otras deidades.  
+quien, **obedeciendo** los **mandatos** (**contenidos** en los śastras,  
+él **adora** al Ser Supremo  
+**teniendo**, para Sus atributos, seres sintientes y cosas no sintientes.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 आराध्यविशेषणमाग विधिबलप्राप्तङ्गळाऩजेतनाचेतनङ्गळाल् देवतान्तरस्पर्शदोषम् वारादु।
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नारायणं परित्यज्य  
+हृदि-स्थं प्रभुम् ईश्वरं ।  
+योऽन्यम् **अर्चयते** देवं  
+पर-बुद्ध्या स पाप-भाक्॥’’  
+(प्राजापत्य-स्मृतिः), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नारायणं परित्यज्य  
+हृदि-स्थं प्रभुम् ईश्वरं ।  
+योऽन्यम् **अर्चयते** देवं  
+पर-बुद्ध्या स पाप-भाक्॥’’  
+(प्राजापत्य-स्मृतिः), 
+</details>
+
+<details><summary>English</summary>
+
+> “ He who **worships** as the Supreme Being any deity other than Nārāyaṇa  
+who **dwells** in his heart,  
+who **controls** him  
+and **is** his Lord and Master--  
+he **is** a sinner," 
+</details>
+
+<details><summary>Español</summary>
+
+> “Aquel que **adora** como Ser Supremo a cualquier deidad que no sea Nārāyaṇa  
+que **habita** en su corazón,  
+quien **lo controla**  
+y **es** su Señor y Maestro--  
+él **es** un pecador",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नारायणं परित्यज्य हृदिस्थं प्रभुमीश्वरं । योऽन्यमर्चयते देवं परबुद्ध्या स पापभाक्’’(प्राजापत्य-स्मृति), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यस् तु नारायणन् देवं  
+सामान्येनाभिमन्यते ।  
+स याति नरकं घोरं  
+यावच् चन्द्र-दिवाकरम्॥’’  
+(भारतम् ऎऩ्बर्गळ्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यस् तु नारायणन् देवं  
+सामान्येनाभिमन्यते ।  
+स याति नरकं घोरं  
+यावच् चन्द्र-दिवाकरम्॥’’  
+
+</details>
+
+<details><summary>English</summary>
+
+> " He who **considers** Nārāyaṇa as being (only) equal to other deities ----  
+he **will stay** in hell  
+as long as the sun and the moon **last**”, 
+</details>
+
+<details><summary>Español</summary>
+
+> "Aquel que **considera** a Nārāyaṇa como (sólo) igual a otras deidades ----  
+él **se quedará** en el infierno
+mientras **duren** el sol y la luna”,
+</details>
 
 
-Similarly there is no association for him with other deities whom, obeying the injunctions (contained in the śastras, he worships the Supreme Being having, for His attributes, sentient beings and non-sentient things. It has been said, “ He who worships as the Supreme Being any deity other thun Nārāyaṇa who dwells in his heart, who controls him and is his Lord and Master--he is a sinner," " He who considers Nārāyaṇa as being (only) equal to other deities ---- he will stay in hell as long as the sun and the moon last”, and “One should not go near the places where Buddha, Rudra and the like are worshipped and so also near the cremation ground, near a corpse, near a forest and near the capital city of a kingdom." As stated (in these ślokas), it would be a sin for a paramaikantin if other deities are looked upon by him as the Supreme Being, if they are considered equal (to Nārāyaṇa) and if he goes to places where other deities are worshipped, when these deities have nothing to do with his nitya and naimittika rites and observances. Since these deities stand in the position of bodies to the Supreme Being who is the inner self of all and who is the object of adoration in these sites and observances (nitya and naimittika), there is no thought in the mind of the man (with supreme and exclusive devotion to the Lord) of these deities being the Supreme Self, of their being equal to Bhagavān, of their being independent of the Lord, of their being objects of adoration or of their being the dispensers of the fruits of actions. Therefore in the same way as by Prana, Vaisvanara, and the three worlds which are the attributes of the Supreme Being in the Vidyās or meditations called Vaisvanara vidyā and the like. he is not affected, so also his exclusive devotion to the Lord is not (in the least) affected by such attributes as Agni (which are associated with these rites and observances, nitya and naimittika).
+<details><summary>मूलम्</summary>
 
-While proceeding to state the adoration of Bhagavān to be performed by the prapanna in the day and the night, Vaṅgīpuram Nambi has described the dharmas of the castes and the āśramas with their respective mantras (in the following passages) :-" (The prapanna) should spend his time by performing duly all the rites ordained for the time of the sandhyā, after sipping the water (achamana) with the prescribed mantras; after this he should perform the homa to the sacrificial fires during the Agnihotra rites with the prescribed mantras and with samit (fuel), ghee and other such substances. He should do every karma  at the time prescribed for them in the śāstras". Then he says: "He should "perform, without being lazy, all the rites from the bath to Brahma yajna prescribed in the Vedas for his āśrama as fit to be done at noon", He continues : "Then he should perform the prescribed yajna to the gods and to the pitṛs (Manes), after which he should eat the food offered to Bhagavān (which act is called anuyāga)". Bhattar and Koorathalvan, too, in their respective nityas, have stated as follows:-- " With the vertical mark (ūrdhvapuṇḍra) on his forehead, (he) should perform the rites ordained in the śrutis, and smṛtis as far as it lies in his power, with the thought that they form the adoration of the Supreme Being and then offer oblations of water (tarpaṇam)". Peria Jeer (Nanjeer) begins by performing obeisance with the words: "I seek the feet of Parāśara Bhattārya". By this he reminds us of the special tradition concerning the homage to be paid to gurus and the like. After this, he says “I will now describe the manner in which service should be rendered to the lotus feet of Bhagavān every day by men with exclusive devotion to him (ekāntins)”. He then says " (The Ekāntin) should sprinkle water on himself by uttering the mantra beginning with Āpohi and then sip water (āchamana) with the utterance of the mantras which denote Bhagavān; after this he should offer arghya to the Supreme Being who is in the sphere of the sun and then perform japa, meditating on Bhagavān with the mantra of Gāyatri. After the japa, he should offer praise to Puruṣottama. Oblations of water (tarpana) should then be made to the gods, the rishis and the pitṛs (Manes, who have Narayaṇa as their inner self." We see also that, in all families which follow the tradition of the author of Śrī Bhāṣya, until the present day, weddings and upanayanas (initiation with the sacred thread) have been performed in accordance with their respective (Gṛhya) sūtras, (Āpastamba and the like) with the respective mantras denoting the respective deities. It is also well-known to all that the great ācāryas like Peria Nambi performed yajnas (sacrifices) and the like in accordance with their respective sūtras. Therefore in the case of those who follow the teaching of the author of Śrī Bhāṣya, his disciples and their disciples, it is not proper to perforin any rites (like those of weddings) with the mantras in certain samhitās following the doctrines of the Āgamas (Pāñcharātra)[^107] which are prescribed specially (to those who follow them).
+‘‘यस्तु नारायणन्देवं सामान्येनाभिमन्यते । स याति नरकं घोरं यावच्चन्द्रदिवाकरं’’(भारतमॆऩ्बर्गळ्), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘बुद्ध-रुद्रादि-वसतिं  
+श्मशानं शवम् एव च ।  
+अटवीं राज-धानीञ् च  
+दूरतः परिवर्जयेत्॥’’  
+(शाण्डिल्य-स्मृतिः ४-१९१)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘बुद्ध-रुद्रादि-वसतिं  
+श्मशानं शवम् एव च ।  
+अटवीं राज-धानीञ् च  
+दूरतः परिवर्जयेत्॥’’  
+(शाण्डिल्य-स्मृतिः ४-१९१)
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “One **should not go** near the places where Buddha, Rudra and the like **are worshipped**  
+and so also near the cremation ground, near a corpse, near a forest and near the capital city of a kingdom." 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> “Uno **no debe acercarse** a los lugares donde **son adorados** Buda, Rudra y similares  
+y así también cerca del lugar de cremación, cerca de un cadáver, cerca de un bosque y cerca de la ciudad capital de un reino."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘बुद्धरुद्रादिवसतिं श्मशानं शवमेव च । अटवीं राजधानीञ्च दूरतः परिवर्जये’’(शाण्डिल्य-स्मृतिः ४-१९१)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
+देवतान्तरङ्गळिले परत्व-बुद्धि पण्णुदल्,  
+समत्व-बुद्धि पण्णुदल्,  
+नित्य-नैमित्तिकङ्गळिल् तुवक्क् अऱ्ऱ देवतान्तर-स्थलङ्गळिले सॆल्लुदल्  
+सॆय्यिल् परमैकान्तिक्कु दोषम् आम् 
+</details>
+
+<details><summary>English</summary>
+
+As **stated** (in these ślokas),  
+it **would be** a sin for a paramaikantin if other deities **are looked upon** by him as the Supreme Being,  
+if they **are considered** equal (to Nārāyaṇa)  
+and if he **goes** to places where other deities **are worshipped**,  
+when these deities **have nothing to do** with his nitya and naimittika rites and **observances**. 
+</details>
+
+<details><summary>Español</summary>
+
+Como **indicado** (en estos ślokas),  
+**sería** un pecado para un paramaikantin si otras deidades **son consideradas** por él como el Ser Supremo,  
+si **son considerados** iguales (a Nārāyaṇa)  
+y si **va** a lugares donde **se adoran** otras deidades,  
+cuando estas deidades **no tienen** nada que **ver** con sus ritos y **observancias** nitya y naimittika.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये देवतान्तरङ्गळिले परत्वबुद्धिपण्णुदल्, समत्वबुद्धिपण्णुदल्, नित्यनैमित्तिकङ्गळिल् तुवक्कऱ्ऱ देवतान्तरस्थलङ्गळिले सॆल्लुदल् सॆय्यिल् परमैकान्तिक्कु दोषमाम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु नित्य-नैमित्तिकङ्गळिल् आराध्यऩ् आऩ  
+सर्वान्तर्यामिक्कु शरीरम् आय् निऱ्किऱ निलैयिल् इद्-देवतैगळ् पक्कल्  
+परत्व-बुद्धियुम्, साम्य-बुद्धियुम्, स्व-निष्ठत्व+++(=स्वातन्त्र्य)+++-बुद्धियुम्, आराध्यत्व-बुद्धियुम्, फल-प्रदत्व-बुद्धियुम् इल्लामैयाले
+</details>
+
+<details><summary>English</summary>
+
+Since these deities **stand** in the position of bodies to the Supreme Being  
+who **is** the inner self of all  
+and who **is** the object of **adoration** in these rites and **observances** (nitya and naimittika),  
+there **is no thought** in the mind of the man  
+(with supreme and exclusive **devotion** to the Lord)  
+of these deities **being** the Supreme Self,  
+of their **being** equal to Bhagavān,  
+of their **being** independent of the Lord,  
+of their **being** objects of **adoration**  
+or of their **being** the **dispensers** of the fruits of **actions**.  
+</details>
+
+<details><summary>Español</summary>
+
+Dado que estas deidades **están** en la posición de cuerpos para el Ser Supremo  
+quien **es** el yo interior de todos  
+and who **is** the object of **adoration** in these rites and **observances** (nitya and naimittika),  
+there **is no thought** in the mind of the man  
+(con **devoción** suprema y exclusiva al Señor)  
+de estas deidades **siendo** el Ser Supremo,  
+de su **ser** igual a Bhagavān,  
+de su **ser** independiente del Señor,  
+de que **sean** objetos de **adoración**  
+o de que **sean** los **dispensadores** de los frutos de las **acciones**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अल्लदु नित्यनैमित्तिकङ्गळिलाराध्यऩाऩ सर्वान्तर्यामिक्कु शरीरमाय् निऱ्किऱ निलैयिलिद्देवतैकळ् पक्कल् परत्वबुद्धियुम् साम्यबुद्धियुम् स्वनिष्ठत्वबुद्धियुम् आराध्यत्वबुद्धियुम् फलप्रदत्वबुद्धियुमिल्लामैयाले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(तासु तासु विद्यासु)+++ उपास्य-विशेषणङ्गळ् आऩ प्राण-वैश्वानर--त्रैलोक्यादिगळाल् इवऩुक्कु व्यभिचारम् वारादाप् पोले 
+</details>
+
+<details><summary>English</summary>
+
+Therefore in the same way as by Prana, Vaisvanara, and the three worlds  
+which **are** the attributes of the Supreme Being in the Vidyās or meditations called Vaisvanara vidyā and the like  
+he **is not affected**,  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, de la misma manera que Prana, Vaisvanara y los tres mundos  
+que **son** los atributos del Ser Supremo en los Vidyās o meditaciones llamadas Vaisvanara vidyā y similares  
+él **no está afectado**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपास्य विशेषणङ्गळाऩ प्राणवैश्वानरत्रैलोक्यादिगळालिवऩुक्कु व्यभिचारम् वारादाप्पोले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-सिद्धङ्गळ् आऩ अग्नीन्द्रादि-विशेषणङ्गळालुम्  
+इवऩुक्कु ऐकान्त्य-विरोधम् वारादु। 
+</details>
+
+<details><summary>English</summary>
+
+so also his exclusive **devotion** to the Lord **is not** (in the least) **affected** by such attributes as Agni (and Indra) (which **are associated** with these rites and observances, nitya and naimittika).
+</details>
+
+<details><summary>Español</summary>
+
+así también su **devoción** exclusiva al Señor **no** (en lo más mínimo) **afectada** por atributos tales como Agni (e Indra) (que **están asociados** con estos ritos y **observancias**, nitya y naimittika).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रसिद्धङ्गळाऩ अग्नीन्द्रादिविशेषणङ्गळालुमिवऩुक्कु ऐकान्त्यविरोधम् वारादु। 
+</details>
+
+#### वङ्गि-पुर-पूर्णोक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वङ्गि-बुरत्तु नम्बियुम् प्रपन्नऩुक्क् अहो-रात्र-कृत्यम् आऩ भगवत्-समाराधनत्तैच् चॊल्लव् इऴिन्दु
+</details>
+
+<details><summary>English</summary>
+
+While **proceeding** to **state** the **adoration** of Bhagavān to be **performed** by the prapanna in the day and the night,  
+Vaṅgīpuram Nambi 
+</details>
+
+<details><summary>Español</summary>
+
+Mientras **procede** a **declarar** que la **adoración** de Bhagavān será **realizada** por el prapanna durante el día y la noche,  
+Vaṅgīpuram Nambi
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वङ्गिबुरत्तु नम्बियुम् प्रपन्नऩुक्कहोरात्रकृत्यमाऩ भगवत्समाराधनत्तैच् चॊल्लविऴिन्दु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> गायत्री-जप-पर्यन्तं  
+मन्त्राचमन-पूर्वकम् ।  
+सान्ध्यं कर्माखिलं साधु  
+**समाप्य** च यथाविधि ॥ 77
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> गायत्री-जप-पर्यन्तं  
+मन्त्राचमन-पूर्वकम् ।  
+सान्ध्यं कर्माखिलं साधु  
+**समाप्य** च यथाविधि ॥ 77
+</details>
+
+
+<details><summary>English</summary>
+
+> **performing** duly all the rites **ordained** for the time of the sandhyā,  
+after **sipping** the water (achamana) with the prescribed mantras;  
+</details>
+
+<details><summary>Español</summary>
+
+> **realizando** debidamente todos los ritos **ordenados** para el tiempo del sandhyā,  
+después de **sorber** el agua (achamana) con los mantras prescritos;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> गायत्रीजपपर्यन्तं मन्त्राचमनपूर्वकम् ।  
+सान्ध्यं कर्माखिलं साधु समाप्य च यथाविधि ॥ 77
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समिद्-आज्यादिभिर् द्रव्यैः  
+मन्त्रैर् अपि यथोदितैः ॥ 84
+**हुत्वाग्नीन्** अग्निहोत्रादौ  
+**उक्तं** कालम् अपि **क्षिपन्** ।  
+</details>
+
+<details><summary>English</summary>
+
+> after this he **should perform** the homa to the sacrificial fires during the Agnihotra rites with the **prescribed** mantras and with samit (fuel), ghee and other such substances.  
+He **should do** every karma  at the time **prescribed** for them in the śāstras.  
+(The prapanna) **should spend** his time by (the above).
+</details>
+
+<details><summary>Español</summary>
+
+> después de esto **debe realizar** el homa a los fuegos de sacrificio durante los ritos de Agnihotra con los mantras **prescritos** y con samit (combustible), ghee y otras sustancias similares.  
+Él **debe hacer** cada karma en el momento **prescrito** para ellos en los śāstras.  
+(El prapanna) **debe dedicar** su tiempo a (lo anterior).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+समिदाज्यादिभिर्द्रव्यैः मन्त्रैरपि यथोदितैः ।  
+हुत्वाग्नीनग्निहोत्रादावुक्तं कालमपि क्षिपन्॥ ऎऩ्ऱुम्, 
+</details>
+
+
+**has described** the dharmas of the castes and the āśramas  
+with their respective mantras (in the following passages) :-
+
+
+
+
+Then he says: 
+
+"He **should perform**, without **being** lazy,  
+all the rites from the bath to Brahma yajna **prescribed** in the Vedas for his āśrama as fit **to be done** at noon", 
+
+He continues : "Then he should perform the prescribed yajna to the gods and to the pitṛs (Manes), after which he should eat the food offered to Bhagavān (which act is called anuyāga)". Bhattar and Koorathalvan, too, in their respective nityas, have stated as follows:-- " With the vertical mark (ūrdhvapuṇḍra) on his forehead, (he) should perform the rites ordained in the śrutis, and smṛtis as far as it lies in his power, with the thought that they form the adoration of the Supreme Being and then offer oblations of water (tarpaṇam)". Peria Jeer (Nanjeer) begins by performing obeisance with the words: "I seek the feet of Parāśara Bhattārya". By this he reminds us of the special tradition concerning the homage to be paid to gurus and the like. After this, he says “I will now describe the manner in which service should be rendered to the lotus feet of Bhagavān every day by men with exclusive devotion to him (ekāntins)”. He then says " (The Ekāntin) should sprinkle water on himself by uttering the mantra beginning with Āpohi and then sip water (āchamana) with the utterance of the mantras which denote Bhagavān; after this he should offer arghya to the Supreme Being who is in the sphere of the sun and then perform japa, meditating on Bhagavān with the mantra of Gāyatri. After the japa, he should offer praise to Puruṣottama. Oblations of water (tarpana) should then be made to the gods, the rishis and the pitṛs (Manes, who have Narayaṇa as their inner self." We see also that, in all families which follow the tradition of the author of Śrī Bhāṣya, until the present day, weddings and upanayanas (initiation with the sacred thread) have been performed in accordance with their respective (Gṛhya) sūtras, (Āpastamba and the like) with the respective mantras denoting the respective deities. It is also well-known to all that the great ācāryas like Peria Nambi performed yajnas (sacrifices) and the like in accordance with their respective sūtras. Therefore in the case of those who follow the teaching of the author of Śrī Bhāṣya, his disciples and their disciples, it is not proper to perforin any rites (like those of weddings) with the mantras in certain samhitās following the doctrines of the Āgamas (Pāñcharātra)[^107] which are prescribed specially (to those who follow them).
 
 [^107]: Sātvatam : Padmam: Jayākhyam, etc. these are the āgama samhitās.
 
