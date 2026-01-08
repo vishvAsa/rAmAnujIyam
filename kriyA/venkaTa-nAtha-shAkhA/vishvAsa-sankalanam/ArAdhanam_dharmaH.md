@@ -674,10 +674,7 @@ vAda-grantha-s tell one's side how the other side is wrong. Beyond a point, "The
 फलापेक्षां विना देवालयगतिर् मङ्गलाशासनम् उच्यते श्रीवैष्णवैः।  
 तत् स्वभावतः प्राप्तम्, अनुज्ञातं च। 
 
-#### मन्दिरेषु सत्-सम्प्रदाय-रक्षा
-In temple control fights, the elders' greatest care is about serving varada correctly, avoiding degeneracy, preserving if not propagating the proper way. 
-
-vidvAns, though not foot-soldiers themselves, are indeed quite involved. If there is an opportunity, of course they will happily debate. If there isn't, they'll limit themselves to making things clear to their own side.
+मन्दिर-सेवा ऽन्यत्रोक्ता। 
 
 ### अभिचारः
 भागवत-हितायाप्य् वेद-विहितानुज्ञा-कैङ्कर्यत्वेन पराशर-भट्टेनापि परिगणितो ऽभिचारो ऽनुज्ञातस् स्यात्।  
