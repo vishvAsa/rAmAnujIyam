@@ -266,6 +266,31 @@ There is no prominent "vaDakalai" type faction among gauDIya-s.
 
 किञ्च हन्त - मूले स्वरूपतो हि निरनुतापो नित्य-नैमित्तिक-कर्म-त्याग उक्तः ("*कर्माणि* नित्य-नैमित्तिकादीनि")। 
 
+## सिद्धान्तः
+यामुन आह गीतार्थसङ्ग्रहे -
+
+> भगवद्-ध्यान-योगोक्ति-  
+वन्दन-स्तुति-कीर्तनैः ।  
+**लब्धात्मा** तद्-**गत**-प्राण-  
+मनो-बुद्धीन्द्रिय-क्रियः ॥  
+> निजकर्मादि-भक्त्य्-अन्तं  
+**कुर्यात्** प्रीत्यैव कारितः ।  
+उपायतां **परित्यज्य**  
+**न्यस्येद्** देवे तु ताम् +++(उपायताम्)+++ अभीः॥
+
+> He **considers** himself as an entity  
+only because of his **meditating** on Him,  
+of **visiting** holy places (sacred to Him),  
+and of **speaking** of Him to others,  
+of **bowing** to Him and **uttering** his sacred names.  
+> His actions **are performed** with his life-breath, mind, will and the senses all dedicated to Him.
+>
+> He **performs** all the duties **pertaining** to him  
+and also **practises** bhakti  inspired solely by love.  
+He **should give up** the idea of their **being** upāyas  
+and **place** the upāya in the Lord without any fear".
+
+
 ## प्रत्युक्तिः
 ### धर्म-परित्याग-वचनानि
 धर्म-परित्याग-वचनान्य् एवम् ऋजुतरं स्वारस्येनावगम्यन्ते।  
@@ -287,25 +312,27 @@ Particularly, rAmAnuja takes such verses to refer to "karma-yoga" - which is und
 Even non-forbidden kAmya-karma-s, without attachment to the fruit or primary doership, is allowed.  
 (यत्राकरणे प्रत्यवायाभावः, करणे ऽभ्युदयो यत्र, तद् अनिषिद्धं काम्यं कर्म। यथा - देवालय-गमनादि।)
 
-This approach is far simpler to understand, defend and practice compared to the confusion and complexity of the approach proposed by bhakti-sandarbha 173. The decision tree instead would be:
+The decision tree instead would be:
 
 सर्वैर् अपि नित्य-नैमित्तिक-कर्माण्य् अवश्यम् अनुष्ठेयानि।  
-वर्णाश्रमधर्मो न त्याज्यः - योद्धव्यम् एवार्जुनेन।  
+वर्णाश्रमधर्मो न त्याज्यः - योद्धव्यम् एवार्जुनेन।
 
 कर्म-योगस् त्याज्यो वा न वा?  
 कस्मिन्न् अपि त्याज्यम् इति प्रतिबन्धो नास्ति (अतोऽनुवर्तने न हानिः)।  
 एषु तु **न त्याज्यम्** एव -
 
-- ज्ञान-भक्ति-योगयोर् **अनर्हेषु**।  
+- ज्ञान-भक्ति-योगयोर् **अनर्हेषु**।
 - ज्ञान-योगे ऽर्हेषु **सुप्रतिष्ठितेषु** (लोकसङ्ग्रहार्थम्)
 
 
-अत्रैतावान् एव विचारः भक्तियोग-मार्गगश् चेत् - 
+अत्रैतावान् एव विचारः भक्तियोग-मार्गगश् चेत् -
 
 > मया ऽऽत्म-साक्षात्कारो लब्धः? शरीर-सम्बद्ध-पुत्रादिभिर् न मुह्यामि?  
 > अहम् समाजे प्रतिष्ठितः?
 
-शरणागति-मार्ग-ग्राहिषु सा ऽपि चिन्ता नास्ति। 
+शरणागति-मार्ग-ग्राहिषु सा ऽपि चिन्ता नास्ति।
+
+This approach is far simpler to understand, defend and practice compared to the confusion and complexity of the approach proposed by bhakti-sandarbha 173. (see जीवगोस्वामी → सम्भ्रमः section.)
 
 #### लोक-सङ्ग्रह-विषयः
 Indeed, even this karma yoga (not nitya-naimittika) is urged on to jNAna-yogins for loka-sangraha/ guidance of karma-yogins in -
@@ -333,10 +360,6 @@ It only expresses the भजन् स्वधर्मत्यक्ता , 
 
 People mistake relative statement for absolute; and consolation for approval. For, if he is "sinless", whence the "fall"?
 
-
-#### Reconciliation technique
-sAmAnya-visheSha-vyavasthA is indeed a good way to resolve the verse conflict -  
-however, it is superior to make the differentiation in action (as SV-s have done), rather than the performer (as gauDIya-s have done).
 
 ### भक्तेष्व् अपि प्रत्यवाय-सद्भावः
 vedAntadeshika would say - disobeying AjNA is contrary to sharaNAgati, and will have consequences - albeit smaller.  
