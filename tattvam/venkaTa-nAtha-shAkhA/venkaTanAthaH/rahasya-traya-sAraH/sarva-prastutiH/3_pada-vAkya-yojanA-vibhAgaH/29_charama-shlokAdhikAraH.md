@@ -9820,7 +9820,7 @@ y no a Sus atributos (o cuerpos) (es decir, los seres sintientes y no sintientes
 ‘‘उपासा त्रैविध्यात्’’(ब्रह्मसूत्रम् १-१-३२) ऎऩ्गिऱबडिये प्रतर्दनविद्यादिगळिल् विशेष्यमाऩ दिव्यात्मस्वरूपत्तालुम् चेतनाचेतनविशिष्टऩागवुम् परमात्मावै उपासियानिऩ्ऱालुम् विशेषणमाऩ चेतनाचेतनङ्गळिलाराध्यत्वमिल्लादाप्पोले 
 </details>
 
-
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् इडत्तिलुम्  
@@ -9849,9 +9849,219 @@ quienes **son** realmente atributos o cuerpos del Ser Supremo.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अहं हि सर्व-यज्ञानां  
+भोक्ता च प्रभुर् एव च’’  
+(गीता ९-२४), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अहं हि सर्व-यज्ञानां  
+भोक्ता च प्रभुर् एव च’’  
+(गीता ९-२४), 
+
+</details>
+
+<details><summary>English</summary>
+
+> "In all yajnas, it **is** I that **am worshipped**  
+and it is also I myself that **rewards**  
+(those who **perform** them) with the fruits thereof," 
+</details>
+
+<details><summary>Español</summary>
+
+> "En todos los yajñas, **soy** yo quien **soy adorado**  
+y también **soy** yo quien **recompensa**  
+(aquellos que **los realizan**) con los frutos de los mismos",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अहं हि सर्वयज्ञानां भोक्ताच प्रभुरेव च’’(गीता ९-२४), 
+</details>
 
 
-As stated in the following ślokas: "In all yajnas, it is I that am worshipped and it is also I myself that rewards (those who perforın them) with the fruits thereof," "It is Thou alone that assumest the forms of the Pitrs and the gods and receivest the offerings (havis) (made to the gods) and the offerings (kavya) made to the Manes in sraddhas" and "Those who propitiate the Pitṛs, the gods, the Brahmins and Agni--they propitiate only Viṣṇu who is the inner self of all things"-as stated in these ślokas, it is only the Supreme Being, who is the inner self of all, that is the object of adoration to the wise man. Therefore to the man who performs kaiṅkarya or service according to the Śāstras with this knowledge, there is no association with other upāyas; there is no association for him with other objects or purposes in acquiring the necessary substances for worship and in eating the food offered (to these gods). Similarly there is no association for him with other deities whom, obeying the injunctions (contained in the śastras, he worships the Supreme Being having, for His attributes, sentient beings and non-sentient things. It has been said, “ He who worships as the Supreme Being any deity other thun Nārāyaṇa who dwells in his heart, who controls him and is his Lord and Master--he is a sinner," " He who considers Nārāyaṇa as being (only) equal to other deities ---- he will stay in hell as long as the sun and the moon last”, and “One should not go near the places where Buddha, Rudra and the like are worshipped and so also near the cremation ground, near a corpse, near a forest and near the capital city of a kingdom." As stated (in these ślokas), it would be a sin for a paramaikantin if other deities are looked upon by him as the Supreme Being, if they are considered equal (to Nārāyaṇa) and if he goes to places where other deities are worshipped, when these deities have nothing to do with his nitya and naimittika rites and observances. Since these deities stand in the position of bodies to the Supreme Being who is the inner self of all and who is the object of adoration in these sites and observances (nitya and naimittika), there is no thought in the mind of the man (with supreme and exclusive devotion to the Lord) of these deities being the Supreme Self, of their being equal to Bhagavān, of their being independent of the Lord, of their being objects of adoration or of their being the dispensers of the fruits of actions. Therefore in the same way as by Prana, Vaisvanara, and the three worlds which are the attributes of the Supreme Being in the Vidyās or meditations called Vaisvanara vidyā and the like. he is not affected, so also his exclusive devotion to the Lord is not (in the least) affected by such attributes as Agni (which are associated with these rites and observances, nitya and naimittika).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘हव्य-कव्य-भुग् एकस् त्वं  
+पितृ-देव--स्व-रूप-**धृत्**’’  
+(विष्णु-पुराणम् १-१९-७३),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘हव्य-कव्य-भुग् एकस् त्वं  
+पितृ-देव--स्व-रूप-**धृत्**’’  
+(विष्णु-पुराणम् १-१९-७३),
+</details>
+
+<details><summary>English</summary>
+
+> "It **is** Thou alone that **assumest** the forms of the Pitrs and the gods  
+and **receivest** the offerings (havis) (**made** to the gods)  
+and the **offerings** (kavya) **made** to the Manes in sraddhas" 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Eres** Sólo Tú quien **asumes** las formas de los Pitrs y los dioses.  
+y **recibir** las **ofrendas** (havis) (**hechas** a los dioses)  
+y las **ofrendas** (kavya) **hechas** a los Manes en sraddhas"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘हव्यकव्यभुगेकस्त्वं पितृदेवस्वरूपधृत्’’(विष्णुपुराणम् १-१९-७३),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ये यजन्ति पितृन् देवान्  
+ब्राह्मणान् स-हुताशनान् ।  
+सर्व-भूतान्तर्-आत्मानं  
+विष्णुम् एव यजन्ति ते॥’’  
+(भारतम् शान्ति-पर्व ३५५-४१, दक्ष-स्मृति)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘ये यजन्ति पितृन् देवान्  
+ब्राह्मणान् स-हुताशनान् ।  
+सर्व-भूतान्तर्-आत्मानं  
+विष्णुम् एव यजन्ति ते॥’’  
+(भारतम् शान्ति-पर्व ३५५-४१, दक्ष-स्मृति)
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "Those who **propitiate** the Pitṛs, the gods, the Brahmins and Agni--  
+they **propitiate** only Viṣṇu  
+who **is** the inner self of all things"  
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Aquellos que **propician** a los Pitṛs, los dioses, los Brahmins y Agni--  
+ellos **propician** sólo a Viṣṇu  
+quien **es** el yo interior de todas las cosas"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ये यजन्ति पितृन्देवान् ब्राह्मणान् सहुताशनान् । सर्वभूतान्तरात्मानं विष्णुमेव यजन्ति ते’’(भारतम् शान्ति-पर्व ३५५-४१। (दक्ष-स्मृति))
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ पडिये  
+सर्वान्तर्-यामिय् आऩ् अवऩे  
+प्रतिबुद्धऩ् आऩव् इवऩुक्क् आराध्यऩ् आगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+\- as **stated** in these ślokas,  
+it **is** only the Supreme Being,  
+who **is** the inner self of all,  
+that **is** the object of **adoration** to the wise man.  
+</details>
+
+<details><summary>Español</summary>
+
+\- como **indicado** en estos ślokas,  
+**es** sólo el Ser Supremo,  
+quien **es** el yo interior de todos,  
+que **es** objeto de **adoración** del sabio.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱ पडिये सर्वान्तर्यामियाऩवऩे प्रतिबुद्धऩाऩविवऩुक्काराध्यऩागैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि तॆळिन्द् अनुष्ठिक्कुम् अवऩुक्कु  
+यथा-शास्त्रम् अनुष्ठिक्किऱ कैङ्कर्यङ्गळाल् उपायान्तर-स्पर्शम् वारादाप् पोलवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+Therefore to the man who **performs** kaiṅkarya or service **according** to the Śāstras with this knowledge,  
+there **is no association** with other upāyas;  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, para el hombre que **realiza** kaiṅkarya o servicio **de acuerdo** a los Śāstras con este **conocimiento**,  
+**no hay asociación** con otros upāyas;  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि तॆळिन्दनुष्ठिक्कुमवऩुक्कु यथाशास्त्रमनुष्ठिक्किऱ कैङ्कर्यङ्गळालुपायान्तरस्पर्शम् वारादाप्पोलवुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कैङ्कर्यार्थङ्गळ् आऩ द्रव्यार्जन-निवेदितोपयोगादिगळाल्  
+प्रयोजनान्तरस्पर्शम् वारादाप् पोलवुम् 
+</details>
+
+<details><summary>English</summary>
+
+there **is no association** for him with other objects or purposes  
+in **acquiring** the necessary substances for worship  
+and in **eating** the food **offered** (to these gods). 
+
+</details>
+
+<details><summary>Español</summary>
+
+no **hay asociación** para él con otros objetos o propósitos  
+en **adquirir** las sustancias necesarias para el culto  
+y en **comer** la comida **ofrecida** (a estos dioses).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कैङ्कर्यार्थङ्गळाऩ द्रव्यार्जन निवेदितोपयोगादिगळाल् प्रयोजनान्तरस्पर्शम् वारादाप्पोलवुम् 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आराध्य-विशेषणम् आग विधि-बल-प्राप्तङ्गळ् आऩ चेतनाचेतनङ्गळाल्  
+देवतान्तर-स्पर्श-दोषं वारादु।+++(4)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+आराध्यविशेषणमाग विधिबलप्राप्तङ्गळाऩजेतनाचेतनङ्गळाल् देवतान्तरस्पर्शदोषम् वारादु।
+</details>
+
+
+
+
+Similarly there is no association for him with other deities whom, obeying the injunctions (contained in the śastras, he worships the Supreme Being having, for His attributes, sentient beings and non-sentient things. It has been said, “ He who worships as the Supreme Being any deity other thun Nārāyaṇa who dwells in his heart, who controls him and is his Lord and Master--he is a sinner," " He who considers Nārāyaṇa as being (only) equal to other deities ---- he will stay in hell as long as the sun and the moon last”, and “One should not go near the places where Buddha, Rudra and the like are worshipped and so also near the cremation ground, near a corpse, near a forest and near the capital city of a kingdom." As stated (in these ślokas), it would be a sin for a paramaikantin if other deities are looked upon by him as the Supreme Being, if they are considered equal (to Nārāyaṇa) and if he goes to places where other deities are worshipped, when these deities have nothing to do with his nitya and naimittika rites and observances. Since these deities stand in the position of bodies to the Supreme Being who is the inner self of all and who is the object of adoration in these sites and observances (nitya and naimittika), there is no thought in the mind of the man (with supreme and exclusive devotion to the Lord) of these deities being the Supreme Self, of their being equal to Bhagavān, of their being independent of the Lord, of their being objects of adoration or of their being the dispensers of the fruits of actions. Therefore in the same way as by Prana, Vaisvanara, and the three worlds which are the attributes of the Supreme Being in the Vidyās or meditations called Vaisvanara vidyā and the like. he is not affected, so also his exclusive devotion to the Lord is not (in the least) affected by such attributes as Agni (which are associated with these rites and observances, nitya and naimittika).
 
 While proceeding to state the adoration of Bhagavān to be performed by the prapanna in the day and the night, Vaṅgīpuram Nambi has described the dharmas of the castes and the āśramas with their respective mantras (in the following passages) :-" (The prapanna) should spend his time by performing duly all the rites ordained for the time of the sandhyā, after sipping the water (achamana) with the prescribed mantras; after this he should perform the homa to the sacrificial fires during the Agnihotra rites with the prescribed mantras and with samit (fuel), ghee and other such substances. He should do every karma  at the time prescribed for them in the śāstras". Then he says: "He should "perform, without being lazy, all the rites from the bath to Brahma yajna prescribed in the Vedas for his āśrama as fit to be done at noon", He continues : "Then he should perform the prescribed yajna to the gods and to the pitṛs (Manes), after which he should eat the food offered to Bhagavān (which act is called anuyāga)". Bhattar and Koorathalvan, too, in their respective nityas, have stated as follows:-- " With the vertical mark (ūrdhvapuṇḍra) on his forehead, (he) should perform the rites ordained in the śrutis, and smṛtis as far as it lies in his power, with the thought that they form the adoration of the Supreme Being and then offer oblations of water (tarpaṇam)". Peria Jeer (Nanjeer) begins by performing obeisance with the words: "I seek the feet of Parāśara Bhattārya". By this he reminds us of the special tradition concerning the homage to be paid to gurus and the like. After this, he says “I will now describe the manner in which service should be rendered to the lotus feet of Bhagavān every day by men with exclusive devotion to him (ekāntins)”. He then says " (The Ekāntin) should sprinkle water on himself by uttering the mantra beginning with Āpohi and then sip water (āchamana) with the utterance of the mantras which denote Bhagavān; after this he should offer arghya to the Supreme Being who is in the sphere of the sun and then perform japa, meditating on Bhagavān with the mantra of Gāyatri. After the japa, he should offer praise to Puruṣottama. Oblations of water (tarpana) should then be made to the gods, the rishis and the pitṛs (Manes, who have Narayaṇa as their inner self." We see also that, in all families which follow the tradition of the author of Śrī Bhāṣya, until the present day, weddings and upanayanas (initiation with the sacred thread) have been performed in accordance with their respective (Gṛhya) sūtras, (Āpastamba and the like) with the respective mantras denoting the respective deities. It is also well-known to all that the great ācāryas like Peria Nambi performed yajnas (sacrifices) and the like in accordance with their respective sūtras. Therefore in the case of those who follow the teaching of the author of Śrī Bhāṣya, his disciples and their disciples, it is not proper to perforin any rites (like those of weddings) with the mantras in certain samhitās following the doctrines of the Āgamas (Pāñcharātra)[^107] which are prescribed specially (to those who follow them).
 
