@@ -9214,15 +9214,642 @@ En estos ślokas lo que Aḷavandār **quiso decir** con las palabras
 प्रेरकत्वातिशयञ् जॊल्लुगैयिले तात्पर्यम्।
 </details>
 
+<details><summary>English</summary>
+
+His idea **was** to **emphasise** the great inspiration  
+**arising** from his love (of the Lord),  
+whose śeṣa he **is**,  
+to **perform** those **acts** of **service**  
+which he **can understand** only from the śāstras,  
+in order to **give delight** to Him. 
+</details>
+
+<details><summary>Español</summary>
+
+Su idea **era enfatizar** la gran inspiración  
+**surgiendo** de su amor (por el Señor),  
+de quién śeṣa él **es**,  
+para **realizar** esos **actos** de **servicio**  
+que él **puede entender** sólo a partir de los śāstras,  
+para **darle deleite**.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इङ्गु शास्त्रङ्गॊण्डेयऱियवेण्डुगिऱ कैङ्कर्यन्दऩ्ऩिल् स्वामिसन्तोषजनकत्वमडियाग शेषभूतऩाऩ तऩक्कुप्पिऱक्किऱ प्रीतियिऩुडैय प्रेरकत्वातिशयञ्जॊल्लुगैयिले तात्पर्यम्।
 </details>
 
+##### उपासके
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-His idea was to emphasise the great inspiration arising from his love (of the Lord), whose śeṣa he is, to perform those acts of service which he can understand only from the śāstras, in order to give delight to Him. When these ślokas are considered in relation to the man who practises upāsanas and the like, its aim is to show that these upāsanas are most pleasing to the person himself, that they are not the direct means of attaining the supreme end, but are the means of winning the favour of the Saviour who is the direct means or upāya for obtaining this end, and that the Lord of all who is pleased by these upāsanas stands, as the direct upāya for the attainment of this end. When the ślokas are considered in relation to the man who has adopted prapatti as the principal and independent means, their aim is to show that, though he performs the ordinances of nitya and naimittika karma and such other rites just as they are enjoined for bhakti yoga, since he does not perform them for the sake of other objects like svarga and mokṣa and perforins them solely for pleasing the Lord, he has not adopted any other upāya (for mokṣa and has no other interests or object. (Their aim is also) to show that, as he is destitute of other upāyas, the Lord Himself stands in the place of those upāyas and rewards him with the desired fruit.
+इश् श्लोकङ्गळै उपासनाधिकारि-पक्कलिले योजिक्कुम् बोदु  
+उपासनादिगळ्-उडैय स्वादुतमत्वत्तैयुम्, 
+</details>
 
-Those who have not studied Vedānta might ask (in this connection:- Both these adhikārīs (the bhakta and the prapanna) are devoted solely and exclusively to the Lord as stated (in the ślokas):-" Wise men do not worship Brahma, Rudra and other gods, for the reward that can he given by them is limited," "They are "my devotees who have no devotion to other deities, who love those that are devoted to me and who seek me alone as their upāya" and "He who has attained the lotus feet of Viṣṇu should not worship other deities." If these two adhikāris should perform the rites and observances of their castes and āśramas as stated (ia Aḷavandār's ślokas! (viz., all the karma s pertaining to them and also bhakti ), would not their supreme and exclusive devotion to the Lord be adversely affected in as much as these rites or dharmas are mixed up with (the worship of) such gods as Agoi and lndra?" Here, as explained in the Brahma Sūtras (1-2-29), names like Agni may be considered, on the authority of Jaimini, as directly referring to Brahman or Bhagavān for Agni and other such words may be etymologically derived as agram nayati. (He who receives the best part of the offering for Himself) etc. There is no worship or contact with other deities, because they are like the sacred names found in Sahasranama (etymologically applicable to Bhagavān). The author of Śrī Bhāṣya has stated in his Nitya:--"Having pleased the gods, the rishis and the Manes with oblations and with the thought that they have Bhagavān as their inner self" etc. So it is perfectly in accordance with the śāstras to perform these respective rites meditating that the Supreme Being has the respective deities as His body In "Pratardana vidyā and the like we are taught in the śāstras that the Supreme Being may be meditated on (or worshipped) in three forms: (one) in His own divine and essential nature, (two), the Supreme Being as having sentient beings as His attribute (or body), and ( three) the Supreme Being as having non-sentient things as His attribute (or body). Though He is worshipped in these three ways, the worship is really to the Supreme Being and not to His attributes (or bodies) (namely . the sentient and non-sentient beings). In the same way here also, the bhakta or prapanna does not adore the gods, the rishis and the Manes, who are really attributes or bodies of the Supreme Being.
+<details><summary>English</summary>
+
+When these ślokas **are considered** in relation to the man who **practises** upāsanas and the like -  
+
+
+that these upāsanas  
+**are** most **pleasing** to the person himself,  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando estos ślokas **son considerados** en relación con el hombre que **practica** upāsanas y similares -  
+
+que estos upāsanas  
+**son** los más **agradables** para la persona misma,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इश् श्लोकङ्गळै उपासनाधिकारिपक्कलिले योजिक्कुम्बोदु उपासनादिगळुडैय स्वादुतमत्वत्तैयुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फलोपायम् आऩ शरण्यऩुक्कु प्रसादनम् आय्क् कॊण्डु  
+फलत्तुक्कु साक्षाद्-उपायम् अऩ्ऱिक्के निऱ्किऱ निलैयुम्, 
+</details>
+
+<details><summary>English</summary>
+
+that they **are not** the direct means of **attaining** the supreme end,  
+but **are** the means of **winning** the favour of the Saviour  
+who **is** the direct means or upāya for **obtaining** this end,  
+</details>
+
+<details><summary>Español</summary>
+
+que **no son** el medio directo para **alcanzar** el fin supremo,  
+pero **son** los medios para **ganar** el favor del Salvador  
+quien **es** el medio directo o upāya para **obtener** este fin,
+</details>
+
+<details><summary>मूलम्</summary>
+
+फलोपायमाऩ शरण्यऩुक्कु प्रसादनमाय्क्कॊण्डु फलत्तुक्कु साक्षादुपायमऩ्ऱिक्के निऱ्किऱ निलैयुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् उपासनत्ताले प्रसन्नऩ् आऩ सर्वेश्वरऩ् ऱाऩे  
+फलत्तुक्कु साक्षाद्-उपायम् आय् निऱ्किऱ निलैयुञ्  
+
+जॊल्लुगैयिले, नोक्क् आगक् कडवदु। 
+</details>
+
+<details><summary>English</summary>
+
+and that the Lord of all  
+who **is pleased** by these upāsanas  
+**stands**, as the direct upāya for the **attainment** of this end
+
+\- its aim **is** to **show** (the above).
+</details>
+
+<details><summary>Español</summary>
+
+y que el Señor de todos  
+Quién **está complacido** con estos upāsanas  
+**es**, como el upāya directo para el **logro** de este fin.
+
+\- su objetivo **es** **mostrar** (lo anterior).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वुपासनत्ताले प्रसन्नऩाऩ सर्वेश्वरऩ्ऱाऩे फलत्तुक्कु साक्षादुपायमाय् निऱ्किऱ निलैयुञ् जॊल्लुगैयिले नोक्कागक्कडवदु। 
+</details>
+
+##### प्रपन्ने
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-तन्त्र--प्रपत्ति-निष्ठऩ् तिऱत्तिल्  
+इश् श्लोकङ्गळै योजिक्कुम् बोदु  
+इवऩ् आज्ञानुज्ञैगळाले पण्णुम् कैङ्कर्यम् ऎल्लाम्  
+भक्ति-योगादिगळिऩ् कट्टळै कुलैयाद् इरुन्दालुम्
+</details>
+
+<details><summary>English</summary>
+
+When the ślokas **are considered** in relation to the man who **has adopted** prapatti as the principal and independent means -  
+
+Though he **performs** the ordinances of nitya and naimittika karma and such other rites  
+just as they **are enjoined** for bhakti yoga, 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando los ślokas **son considerados** en relación con el hombre que **ha adoptado** prapatti como medio principal e independiente,  
+
+aunque **realiza** las ordenanzas de nitya y naimittika karma y otros ritos similares  
+tal como **están recomendados** para el bhakti yoga,
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रप्रपत्तिनिष्ठऩ्दिऱत्तिल् इश् श्लोकङ्गळै योजिक्कुम्बोदु इवऩ् आज्ञानुज्ञैकळाले पण्णुम् कैङ्कर्यमॆल्लाम् भक्तियोगादिगळिऩ् कट्टळैगुलैयादिरुन्दालुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वामि-सन्तोषम् ऒऴिय  
+वेऱ् ऒरु स्वर्ग-मोक्षादि-प्रयोजनत्तुक्क् उपायम् आग अनुष्ठिक्किऱाऩ् अल्लामैयाले
+</details>
+
+<details><summary>English</summary>
+
+since he **does not perform** them for the sake of other objects like svarga and mokṣa  
+and **performs** them solely for **pleasing** the Lord,  
+</details>
+
+<details><summary>Español</summary>
+
+ya que él **no los realiza** por otros objetos como svarga y mokṣa  
+y **los realiza** únicamente para **agradar** al Señor,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वामिसन्तोषमॊऴिय वेऱॊरु स्वर्गमोक्षादि प्रयोजनत्तुक्कुपायमाग अनुष्ठिक्किऱाऩल्लामैयाले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्क् अनन्योपायतैयुम् अनन्य-प्रयोजनतैयुङ् कुलैयादेय् इरुक्किऱ बडियैयुम् 
+</details>
+
+<details><summary>English</summary>
+
+he **has not adopted** any other upāya (for mokṣa)  
+and **has no** other interests or object. 
+</details>
+
+<details><summary>Español</summary>
+
+él **no ha adoptado** ningún otro upāya (para mokṣa)  
+y **no tiene** otros intereses u objetivos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कनन्योपायतैयुम् अनन्यप्रयोजनतैयुङ्गुलैयादेय् इरुक्किऱबडियैयुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अकिञ्चनऩ् आऩव् इवऩुक्कु  
+ईश्वरऩ् ऱाऩे उपायान्तर-स्थानत्तिले निऩ्ऱु  
+फलङ् कॊडुक्किऱ बडियैयुञ् 
+
+जॊल्लुगैयिले तात्पर्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+As he **is** destitute of other upāyas,  
+the Lord Himself **stands** in the place of those upāyas  
+and **rewards** him with the **desired** fruit.
+
+Their aim is to show (the above).
+</details>
+
+<details><summary>Español</summary>
+
+Como **está** desprovisto de otros upāyas,  
+el Señor mismo **está** en el lugar de esos upāyas  
+y **lo premia** con el fruto **deseado**.
+
+Su objetivo **es mostrar** (lo anterior).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकिञ्चनऩाऩविवऩुक्कु ईश्वरऩ्ऱाऩे उपायान्तरस्थानत्तिले निऩ्ऱु फलङ्गॊडुक्किऱबडियैयुञ्जॊल्लुगैयिले तात्पर्यम्। 
+</details>
+
+### न देवतान्तर-द्वारक-धर्म-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इरण्ड् अधिकारिगळुम् 
+> 
+> > ‘‘प्रतिबुद्धा न सेवन्ते’’  
+(भारतम् शान्ति-पर्व ३५०-३६), 
+</details>
+
+<details><summary>English</summary>
+
+> Both these adhikārīs (the bhakta and the prapanna)  …  
+> 
+> > " Wise men **do not worship** Brahma, Rudra and other gods,  
+for the reward that can **be given** by them **is** limited," 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Ambos adhikārīs (el bhakta y el prapanna)…  
+> 
+> > "Los hombres sabios **no adoran** a Brahma, Rudra y otros dioses,  
+porque la recompensa que **pueden dar** ellos **es** limitada",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इरण्डधिकारिकळुम् ‘‘प्रतिबुद्धा न सेवन्ते’’(भारतम् शान्ति-पर्व ३५०-३६), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘अनन्य-देवता-भक्ताः’’  
+(भारतम् आश्वमेधिक-पर्व १०४-९१),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘अनन्य-देवता-भक्ताः’’  
+(भारतम् आश्वमेधिक-पर्व १०४-९१),
+</details>
+
+<details><summary>English</summary>
+
+> > "They **are** my devotees  
+who **have no devotion** to other deities,  
+who **love** those that **are devoted** to me  
+and who **seek me** alone as their upāya" 
+
+</details>
+
+<details><summary>Español</summary>
+
+> > "Ellos **son** mis **devotos**  
+que **no tienen devoción** a otras deidades,  
+que **aman** a los que **son devotos** de mí  
+y que **me buscan** solo como su upāya"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अनन्यदेवताभक्ताः’’(भारतम् आश्वमेधिक-पर्व १०४-९१),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘नान्यं देवं नमस्कुर्याद्’’  
+(बादरायण इति श्रीपाञ्चरात्ररक्षा)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘नान्यं देवं नमस्कुर्याद्’’  
+(बादरायण इति श्रीपाञ्चरात्ररक्षा)  
+</details>
+
+<details><summary>English</summary>
+
+> and 
+>
+> > "He **who has attained** the lotus feet of Viṣṇu  
+**should not worship** other deities." 
+
+</details>
+
+<details><summary>Español</summary>
+
+> y 
+>
+> > "Aquel **que ha alcanzado** los pies de loto de Viṣṇu  
+**No deberías adorar** otras deidades."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नान्यं देवं नमस्कुर्याद्’’(बादरायण इति श्रीपाञ्चरात्ररक्षा)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत्य्-आदिगळिऱ् पडिये  
+परमैकान्तिगळ् आय् इरुक्क, 
+</details>
+
+<details><summary>English</summary>
+
+> **are devoted** solely and exclusively to the Lord  
+**as stated** (in the above ślokas)
+</details>
+
+<details><summary>Español</summary>
+
+> **son devotos** única y exclusivamente al Señor  
+**como se indica** (en los ślokas anteriores)
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये परमैकान्तिगळायिरुक्क, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इङ्गु ‘‘निजकर्मादि-भक्त्यन्तं’’ ऎऩ्ऱ् अरुळिच् चॆय्द पडिये  
+वर्णाश्रमादि-धर्मङ्गळै इवर्गळ् अनुष्ठिक्कप् पुक्काल्
+</details>
+
+<details><summary>English</summary>
+
+> If these two adhikāris **should perform** the rites and observances of their castes and āśramas  
+**as stated** (in Aḷavandār's ślokas)  
+viz., "all the karmas **pertaining** to them and also bhakti",  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Si estos dos adhikāris **deberían realizar** los ritos y observancias de sus castas y āśramas  
+**como se indica** (en los ślokas de Aḷavandār)  
+a saber, "todos los karmas **pertenecientes** a ellos y también al bhakti",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ‘‘निजकर्मादि-भक्त्यन्तं’’ ऎऩ्ऱरुळिच्चॆय्दबडिये वर्णाश्रमादिधर्मङ्गळै इवर्गळनुष्ठिक्कप्पुक्काल्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अग्नीन्द्रादि-देवता-व्यामिश्रतैयाले परमैकान्तित्वङ् कुलैयादोव् ?
+</details>
+
+<details><summary>English</summary>
+
+> **would not** their supreme and exclusive **devotion** to the Lord  
+**be** adversely **affected**  
+in as much as these rites or dharmas **are mixed up** with (the worship of) such gods as Agni and Indra?" 
+</details>
+
+<details><summary>Español</summary>
+
+> **no** su suprema y exclusiva **devoción** al Señor  
+**ser afectado negativamente**  
+En la medida en que estos ritos o dharmas **están mezclados** con (la adoración de) dioses como Agni e Indra?"
+</details>
+
+<details><summary>मूलम्</summary>
+
+अग्नीन्द्रादि देवताव्यामिश्रतैयाले परमैकान्तित्वङ् गुलैयादोव् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु वेदान्त-व्युत्पत्ति-पण्णादार्  
+चोद्यम् पण्णुवर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+Those who **have not studied** Vedānta might **ask** (in this connection, the above).
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **no han estudiado** Vedānta **podrían preguntar** (en este sentido, lo anterior).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु वेदान्तव्युत्पत्तिपण्णादार् चोद्यम् पण्णुवर्गळ्।
+</details>
+
+#### व्युत्पत्त्या भगवद्-आराधनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्  
+
+> ‘‘साक्षाद् अप्य् अविरोधं जैमिनिः’’(परह्मसूत्रम् १-२-२९) 
+
+ऎऩ्गिऱ सूत्रत्तिऩ् बडिये
+</details>
+
+<details><summary>English</summary>
+
+Here, as **explained** in the Brahma Sūtras (1-2-29), 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí, como **explica** en los Brahma Sūtras (1-2-29),
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् ‘‘साक्षादप्यविरोधं जैमिनिः’’(परह्मसूत्रम् १-२-२९) ऎऩ्गिऱ सूत्रत्तिऩ्बडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अग्र-नयनादि-व्युत्पत्ति-वशत्ताले  
+अग्न्य्-आदि-शब्दङ्गळै सर्वेश्वरऩुक्कु साक्षाद्-वाचकङ्गळ् आग निर्वहिक्कल् आम् इडत्तिल्  
+इवै श्री-सहस्र-नामत्तिऩ् तिरु-नामङ्गळिऩ् बडिये निऱ्कैयाले  
+इवऱ्ऱिल् देवतान्तर-स्पर्शम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+names like Agni **may be considered**, on the authority of Jaimini,  
+as directly **referring** to Brahman or Bhagavān  
+for Agni and other such words **may be** etymologically **derived** as "agram nayati".  
+(He who **receives** the best part of the offering for Himself) etc.  
+There **is no** worship or **contact** with other deities,  
+because they **are** like the sacred names found in Sahasranama (etymologically applicable to Bhagavān). 
+</details>
+
+<details><summary>Español</summary>
+
+nombres como Agni **pueden considerarse**, **según** la autoridad de Jaimini,  
+como **refiriéndose** directamente a Brahman o Bhagavān  
+porque Agni y otras palabras similares **pueden** etimológicamente **derivarse** como "agram nayati".  
+(El que **recibe** la mejor parte de la **ofrenda** para Sí mismo) etc.  
+**No hay adoración** ni **contacto** con otras deidades,  
+porque **son** como los nombres sagrados que se encuentran en Sahasranama (etimológicamente **aplicables** a Bhagavān).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अग्रनयनादिव्युत्पत्तिवशत्ताले अग्न्यादिशब्दङ्गळै सर्वेश्वरऩुक्कु साक्षाद्वाचकङ्गळाग निर्वहिक्कलामिडत्तिल् इवै श्रीसहस्रनामत्तिऩ् तिरुनामङ्गळिऩ्बडिये निऱ्कैयाले इवऱ्ऱिल् देवतान्तरस्पर्शमिल्लै। 
+</details>
+
+#### शरीर-शरीरि-भावतो भगवद्-आराधनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘देवान् ऋषीन् पितृन् भगवद्-आत्मकान् ध्यात्वा सन्तर्प्य’’  
+(नित्यम्) 
+
+ऎऩ्ऱु नित्य-प्रभृतिगळिल् श्री-भाष्य-कारर् अरुळिच्चॆय्द बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘देवान् ऋषीन् पितृन् भगवद्-आत्मकान् ध्यात्वा सन्तर्प्य’’  
+(नित्यम्) 
+
+</details>
+
+<details><summary>English</summary>
+
+The author of Śrī Bhāṣya **has stated** in his Nitya:--
+
+> "**Having pleased** the gods, the rishis and the Manes  
+with **oblations** and with the **thought** that they have Bhagavān as their inner self" 
+
+etc. 
+</details>
+
+<details><summary>Español</summary>
+
+El autor de Śrī Bhāṣya **ha declarado** en su Nitya:--
+
+> "**Habiendo complacido** a los dioses, los rishis y los Manes  
+con **oblaciones** y con el **pensamiento** de que **tienen** a Bhagavān como su yo interior" 
+
+etc.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘देवानृषीन् पितृन् भगवदात्मकान् ध्यात्वा सन्तर्प्य’’(नित्यम्) ऎऩ्ऱु नित्यप्रभृतिकळिल् श्रीभाष्यकारररुळिच्चॆय्दबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-तद्-देवता-शरीरकऩ् आग परमात्मावै अनुसन्धित्तुक् कॊण्डु  
+तत्-तत्-कर्मङ्गळै अनुष्ठिक्कै  
+शास्त्र-बल-सिद्धम् आऩव् इडत्तिल्
+</details>
+
+<details><summary>English</summary>
+
+So it **is** perfectly in **accordance** with the śāstras  
+to **perform** these respective rites **meditating** that the Supreme Being has the respective deities as His body. 
+</details>
+
+<details><summary>Español</summary>
+
+Así que **está** perfectamente en **concordancia** con los śāstras.  
+para **realizar** estos respectivos ritos **meditando** que el Ser Supremo **tiene** como Su cuerpo a las respectivas deidades.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्तद्देवताशरीरकऩाग परमात्मावै अनुसन्धित्तुक्कॊण्डु तत्तत्कर्मङ्गळै अनुष्ठिक्कै शास्त्रबलसिद्धमाऩविडत्तिल्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उपासा त्रैविध्यात् +++(←स्वरूपस्य, चेतन-विशिष्टस्य, अचेन-विशिष्टस्य)+++’’  
+(ब्रह्मसूत्रम् १-१-३२) 
+
+ऎऩ्गिऱ बडिये  
+प्रतर्दन-विद्यादिगळिल्  
+विशेष्यम् आऩ दिव्यात्म--स्व-रूपत्तालुम्,  
+चेतनाचेतन-विशिष्टऩ् आगवुम्, परमात्मावै उपासिया निऩ्ऱालुम्  
+विशेषणम् आऩ चेतनाचेतनङ्गळिल् आराध्यत्वम् इल्लादाप् पोले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘उपासा त्रैविध्यात् +++(←स्वरूपस्य, चेतन-विशिष्टस्य, अचेन-विशिष्टस्य)+++’’  
+(ब्रह्मसूत्रम् १-१-३२) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+In Pratardana vidyā and the like, **we are taught** in the śāstras  
+that the Supreme Being **may be meditated** on (or worshipped) in three forms:  
+
+- (one) in His own divine and essential nature,  
+- (two), the Supreme Being as **having** sentient beings as His attribute (or body),  
+- and ( three) the Supreme Being as **having** non-sentient things as His attribute (or body). 
+
+Though He **is worshipped** in these three ways,  
+the worship **is** really to the Supreme Being  
+and not to His attributes (or bodies) (namely the sentient and non-sentient beings).  
+</details>
+
+<details><summary>Español</summary>
+
+En Pratardana vidyā y similares, **nos enseñan** en los śāstras  
+que el Ser Supremo **puede ser meditado** (o adorado) en tres formas:  
+
+- (uno) en Su propia naturaleza divina y esencial,  
+- (dos), el Ser Supremo **tiene** seres sintientes como Su atributo (o cuerpo),  
+- y (tres) el Ser Supremo que **tiene** cosas no sensibles como Su atributo (o cuerpo).
+
+Aunque Él **es adorado** de estas tres maneras,  
+la adoración **es** realmente al Ser Supremo  
+y no a Sus atributos (o cuerpos) (es decir, los seres sintientes y no sintientes).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘उपासा त्रैविध्यात्’’(ब्रह्मसूत्रम् १-१-३२) ऎऩ्गिऱबडिये प्रतर्दनविद्यादिगळिल् विशेष्यमाऩ दिव्यात्मस्वरूपत्तालुम् चेतनाचेतनविशिष्टऩागवुम् परमात्मावै उपासियानिऩ्ऱालुम् विशेषणमाऩ चेतनाचेतनङ्गळिलाराध्यत्वमिल्लादाप्पोले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिलुम्  
+विशेषणम् आऩ देव-र्षि-पित्रादिगळै इवऩ् आराधिक्किऱाऩ् अल्लऩ्।
+</details>
+
+<details><summary>English</summary>
+
+In the same way here also,  
+the bhakta or prapanna **does not adore** the gods, the rishis and the Manes,  
+who **are** really attributes or bodies of the Supreme Being.
+
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera aquí también,  
+el bhakta o prapanna **no adora** a los dioses, a los rishis y a los Manes,  
+quienes **son** realmente atributos o cuerpos del Ser Supremo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिलुम् विशेषणमाऩ देवर्षिपित्रादिगळै इवऩाराधिक्किऱाऩल्लऩ्।
+</details>
+
+
+
 
 As stated in the following ślokas: "In all yajnas, it is I that am worshipped and it is also I myself that rewards (those who perforın them) with the fruits thereof," "It is Thou alone that assumest the forms of the Pitrs and the gods and receivest the offerings (havis) (made to the gods) and the offerings (kavya) made to the Manes in sraddhas" and "Those who propitiate the Pitṛs, the gods, the Brahmins and Agni--they propitiate only Viṣṇu who is the inner self of all things"-as stated in these ślokas, it is only the Supreme Being, who is the inner self of all, that is the object of adoration to the wise man. Therefore to the man who performs kaiṅkarya or service according to the Śāstras with this knowledge, there is no association with other upāyas; there is no association for him with other objects or purposes in acquiring the necessary substances for worship and in eating the food offered (to these gods). Similarly there is no association for him with other deities whom, obeying the injunctions (contained in the śastras, he worships the Supreme Being having, for His attributes, sentient beings and non-sentient things. It has been said, “ He who worships as the Supreme Being any deity other thun Nārāyaṇa who dwells in his heart, who controls him and is his Lord and Master--he is a sinner," " He who considers Nārāyaṇa as being (only) equal to other deities ---- he will stay in hell as long as the sun and the moon last”, and “One should not go near the places where Buddha, Rudra and the like are worshipped and so also near the cremation ground, near a corpse, near a forest and near the capital city of a kingdom." As stated (in these ślokas), it would be a sin for a paramaikantin if other deities are looked upon by him as the Supreme Being, if they are considered equal (to Nārāyaṇa) and if he goes to places where other deities are worshipped, when these deities have nothing to do with his nitya and naimittika rites and observances. Since these deities stand in the position of bodies to the Supreme Being who is the inner self of all and who is the object of adoration in these sites and observances (nitya and naimittika), there is no thought in the mind of the man (with supreme and exclusive devotion to the Lord) of these deities being the Supreme Self, of their being equal to Bhagavān, of their being independent of the Lord, of their being objects of adoration or of their being the dispensers of the fruits of actions. Therefore in the same way as by Prana, Vaisvanara, and the three worlds which are the attributes of the Supreme Being in the Vidyās or meditations called Vaisvanara vidyā and the like. he is not affected, so also his exclusive devotion to the Lord is not (in the least) affected by such attributes as Agni (which are associated with these rites and observances, nitya and naimittika).
 
