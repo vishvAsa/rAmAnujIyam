@@ -8109,6 +8109,7 @@ Esta **es** la **interpretación** correcta del texto aquí.
 इप्पडि अङ्गत्वप्रसङ्गत्वमुडैय सर्वधर्मङ्गळालुम् इदुक्कपेक्षैयिल्लै यॆऩ्गै यिव्विडत्तुक्कुचितम्। 
 </details>
 
+### न कैङ्कर्य-त्यागः
 #### नित्यादौ शक्यानुष्ठानं कैङ्कर्य-मात्रम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8563,14 +8564,14 @@ de la misma manera que **muestra** su amor a sus amigos, hijos y similares.
 सुहृत्पुत्राद्युपलालनङ्गळिऱ्पोले सर्वविधबन्धुवाऩवऩुडैय प्रीणनङ्गळिले शास्त्रङ् गैविळक्काग प्रवर्तिक्किऱाऩ्।  
 </details>
 
-#### कैङ्कर्ये शास्त्र-प्रयोजनम्
+### न कैङ्कर्ये शास्त्र-त्यागः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व्-इडत्तिले सिलर् 
 
 > सर्वेश्वरऩ् पक्कलिले सर्वभरन्यासम् पण्णिऩ विवेकिक्कु  
-त्याज्योपादेय-विभाग-निर्णायकम् स्व-रूपज्ञानम् अऩ्ऱो?
+त्याज्योपादेय-विभाग-निर्णायकम् स्व-रूप-ज्ञानम् अऩ्ऱो?
 </details>
 
 <details><summary>English</summary>
@@ -8856,11 +8857,370 @@ o incluso entre sustancias que **están permitidas**, para **prestar servicio** 
 विहितङ्गळ् तऩ्ऩिलुम् न्यायार्जितमल्लाद द्रव्यङ्गळैक् कॊण्डादल् 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩक्कु रुचित्त बडिये  
+शास्त्र-विरुद्धम् आय् इरुक्कुङ् कट्टळैयिले  
+कैङ्कर्यत्तै नडत्तप् पार्त्ताल्  
+उपचारापचारङ्गळुक्कुप् पिरिव् इल्लैय् आम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+and thus **render service** according to one's own sweet will and pleasure  
+in ways **opposed** to what **is enjoined** in the śāstras,  
+then there **would be** no difference between reverential conduct and offence.  
+</details>
+
+<details><summary>Español</summary>
+
+y así **prestar servicio** según la propia dulce voluntad y placer  
+en formas **opuestas** a lo que **está ordenado** en los śāstras,  
+entonces **no habría** diferencia entre conducta reverencial y ofensa.
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+तऩक्कु रुचित्तबडिये शास्त्रविरुद्धमा यिरुक्कुङ्गट्टळैयिले कैङ्कर्यत्तै नडत्तप् पार्त्ताल् उपचारापचारङ् गळुक्कुप् पिरिविल्लैयाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु तऩ् रुचिय् ऒऴिय वेऱु नियामकम् अल्लामैयाले  
+मुमुक्षुक्कळ् तविर्न्दु बोरुगिऱ सर्व-निषिद्धङ्गळैयुम्  
+तऩ् रुचि-मात्रत्ताले कैङ्कर्यम् आग अनुष्ठिक्क प्रसङ्गिक्कुम्।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Then since there **is no** criterion besides one's own taste,  
+one **might think** of **performing** as **service**  
+all that **is considered** as **forbidden**  
+and therefore **avoided** by **seekers** after mukti.  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces como **no hay** ningún criterio aparte del propio gusto,
+uno **podría pensar** en **actuar** como **servicio**  
+todo lo que **está considerado** como **prohibido**  
+y por lo tanto **evitado** por los **buscadores** de mukti.
+</details>
 
 
-and thus render service according to one's own sweet will and pleasure in ways opposed to what is enjoined in the śāstras, then there would be no difference between reverential conduct and offence. Then since there is no criterion besides one's own taste, one might think of performing as service all that is considered as forbidden and therefore avoided by seekers after mukti. The author of Śrī Bhāṣya has stated (in regard to the offering of food (havis) to Archi):- " Having "collected those things which are not prohibited in the śāstras etc." Therefore the proper thing is to render such forms of service as are enjoined in the Śāstras as competent to the person concerned and subject to the dictates of the śāstras. The teaching contained in the śloka :- "To know what ought to be done and what ought . not to be done, the only authority that you have is the śāstra. Therefore while you are here, understand the karma  enjoined in the śāstra just as it is” – this teaching is common to all ( whatever their competency). Śrī Aḷavandār in his Gitarthasaṅgraha says:-"Among these ekantins ( who are devoted exclusively to the Lord), the wise man (jnani) is called paramaikanti, one who has supreme devotion to the Lord to the exclusion of all other interests. His being alive is solely dependent on the Lord, To be united with Him is his only delight; to part from Him is his (only ) pain. His mind is always with the Lord. He considers himself as an entity only becanse of his meditating on Him, of visiting holy places (sacred to Him), and of speaking of Him to others, of bowing to Him and uttering his sacred names. His actions are performed with his life-breath, mind, will and the senses all dedicated to Him. He performs all the duties pertaining to him and also practises bhakti  inspired solely by love. He should give up the idea of their being upāyas and place the upāya in the Lord without any fear". In these ślokas what Aḷavandār meant by the words "inspired solely by love" was not that he should ignore the śāstras. His idea was to emphasise the great inspiration arising from his love (of the Lord), whose śeṣa he is, to perform those acts of service which he can understand only from the śāstras, in order to give delight to Him. When these ślokas are considered in relation to the man who practises upāsanas and the like, its aim is to show that these upāsanas are most pleasing to the person himself, that they are not the direct means of attaining the supreme end, but are the means of winning the favour of the Saviour who is the direct means or upāya for obtaining this end, and that the Lord of all who is pleased by these upāsanas stands, as the direct upāya for the attainment of this end. When the ślokas are considered in relation to the man who has adopted prapatti as the principal and independent means, their aim is to show that, though he performs the ordinances of nitya and naimittika karma and such other rites just as they are enjoined for bhakti yoga, since he does not perform them for the sake of other objects like svarga and mokṣa and perforins them solely for pleasing the Lord, he has not adopted any other upāya (for mokṣa and has no other interests or object. (Their aim is also) to show that, as he is destitute of other upāyas, the Lord Himself stands in the place of those upāyas and rewards him with the desired fruit.
+<details><summary>मूलम्</summary>
+
+अप्पोदु तऩ् रुचियॊऴिय वेऱु नियामकमल्लामैयाले मुमुक्षुक्कळ् तविर्न्दुबोरुगिऱ सर्वनिषिद्धङ्गळैयुम् तऩ् रुचिमात्रत्ताले कैङ्कर्यमाग अनुष्ठिक्क प्रसङ्गिक्कुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हविर्-निवेदनत्तिलुम् श्रीभाष्यकारर् 
+
+> ‘‘शास्त्राविरुद्धानि संभृत्य’’(नित्यम्) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>English</summary>
+
+The author of Śrī Bhāṣya **has stated** (in regard to the **offering** of food (havis) to Archi):- 
+
+> "**Having collected** those things  
+which **are not prohibited** in the śāstras etc." 
+</details>
+
+<details><summary>Español</summary>
+
+El autor de Śrī Bhāṣya **ha declarado** (con respecto a la **ofrecimiento** de comida (havis) a Archi):- 
+
+> "**Habiendo coleccionado** esas cosas  
+que **no están prohibidos** en los śāstras, etc."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हविर्निवेदनत्तिलुम् श्रीभाष्यकारर् ‘‘शास्त्राविरुद्धानि संभृत्य’’(नित्यम्) ऎऩ्ऱरुळिच्चॆय्दार्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् शास्त्र-वश्यऩ् आय्त्  
+तऩ्ऩ् अधिकारत्तुक्कु शास्त्रम् अडैत्त कैङ्कर्यङ्गळैये पण्णप् प्राप्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore the proper thing **is** to **render** such forms of **service**  
+as **are enjoined** in the Śāstras  
+as **competent** to the person concerned  
+and **subject** to the **dictates** of the śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto lo correcto **es prestar** tales formas de **servicio**  
+como **están ordenados** en los Śāstras  
+como **competente** para la persona interesada  
+y **sujeto** a los **dictados** de los śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् शास्त्रवश्यऩाय्त् तऩ्ऩधिकारत्तुक्कु शास्त्रमडैत्त कैङ्कर्यङ्गळैये पण्णप् प्राप्तम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> २४‘‘तस्माच् छास्त्रं प्रमाणन् ते  
+कार्याकार्य-व्यवस्थितौ ।  
+ज्ञात्वा शास्त्र-विधानोक्तं  
+कर्म कर्तुम् इहार्हसि॥’’  
+(गीता १६-२४) 
+
+ऎऩ्ऱव् उपदेशम्  
+सर्वाधिकारिगळुक्कुम् पॊदुव् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> २४‘‘तस्माच् छास्त्रं प्रमाणन् ते  
+कार्याकार्य-व्यवस्थितौ ।  
+ज्ञात्वा शास्त्र-विधानोक्तं  
+कर्म कर्तुम् इहार्हसि॥’’  
+(गीता १६-२४) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+The **teaching contained** in the śloka :- 
+
+> "To **know** what ought **to be done** and what **ought not to be done**,  
+the only authority that you **have** is the śāstra.  
+Therefore while you **are** here,  
+**understand** the karma **enjoined** in the śāstra just as it is”  
+
+– this **teaching is** common to all ( whatever their **competency**). 
+</details>
+
+<details><summary>Español</summary>
+
+La **enseñanza contenida** en el śloka:- 
+
+> "Para **saber** qué **se debe hacer** y qué **no se debe hacer**,  
+la única autoridad que ustedes **tienen** es el śāstra.  
+Por lo tanto, mientras estés aquí,  
+**comprende** el karma **prescrito** en el śāstra tal como es”  
+
+– esta **enseñanza** es común a todos (cualquiera que **sea** su **competencia**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+२४‘‘तस्माच्छास्त्रं प्रमाणन्ते कार्याकार्यव्यवस्थितौ । ज्ञात्वा शास्त्र विधानोक्तं कर्म कर्तुमिहार्हसि’’(गीता १६-२४) ऎऩ्ऱवुपदेशम् सर्वाधिकारिकळुक्कुम् पॊदुवायिरुक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आळ-वन्दार् श्रीगीतार्थ-संग्रहत्तिले 
+
+> २५‘‘ज्ञानी तु परमैकान्ती  
+परायत्तात्म-जीवनः ।  
+तत्-संश्लेष-वियोगैक-  
+सुख-दुःखस् तद्-एकधीः ॥ 
+</details>
+
+#### यामुनोक्तिः
+<details><summary>नीलमेघः (सं)</summary>
+
+> २५‘‘ज्ञानी तु परमैकान्ती  
+परायत्तात्म-जीवनः ।  
+तत्-संश्लेष-वियोगैक-  
+सुख-दुःखस् तद्-एकधीः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> २५‘‘ज्ञानी तु परमैकान्ती  
+परायत्तात्म-जीवनः ।  
+तत्-संश्लेष-वियोगैक-  
+सुख-दुःखस् तद्-एकधीः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+Śrī Aḷavandār in his Gitarthasaṅgraha **says**:-
+
+> "Among these ekantins  
+( who **are devoted** exclusively to the Lord),  
+the wise man (jnani) **is called** paramaikanti,  
+one who **has** supreme devotion to the Lord  
+to the **exclusion** of all other interests.  
+His **being alive is** solely **dependent** on the Lord.  
+To **be united** with Him **is** his only delight;  
+to **part** from Him **is** his (only ) pain.  
+His mind **is** always with the Lord. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Śrī Aḷavandār en su Gitarthasaṅgraha **dice**:-
+
+> "Entre estos ekantins  
+(que **son devotos** exclusivamente del Señor),  
+el hombre sabio (jnani) **se llama** paramaikanti,  
+aquel que **tiene** devoción suprema al Señor  
+con la **exclusión** de todos los demás intereses.  
+Su **estar vivo depende** únicamente del Señor.  
+**Estar unido** con Él **es** su único deleite;  
+**separarse** de Él **es** su (único) dolor.  
+Su mente **está** siempre con el Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आळवन्दार् श्रीगीतार्थसंग्रहत्तिले २५‘‘ज्ञानी तु परमैकान्ती परायत्तात्मजीवनः । तत्संश्लेषवियोगैक सुखदुःखस्तदेकधीः ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भगवद्-ध्यान-योगोक्ति-  
+वन्दन-स्तुति-कीर्तनैः ।  
+**लब्धात्मा** तद्-**गत**-प्राण-  
+मनो-बुद्धीन्द्रिय-क्रियः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> भगवद्-ध्यान-योगोक्ति-  
+वन्दन-स्तुति-कीर्तनैः ।  
+**लब्धात्मा** तद्-**गत**-प्राण-  
+मनो-बुद्धीन्द्रिय-क्रियः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> He **considers** himself as an entity  
+only because of his **meditating** on Him,  
+of **visiting** holy places (sacred to Him),  
+and of **speaking** of Him to others,  
+of **bowing** to Him and **uttering** his sacred names.  
+> His actions **are performed** with his life-breath, mind, will and the senses all dedicated to Him.  
+</details>
+
+<details><summary>Español</summary>
+
+> Él **se considera** a sí mismo como una entidad.  
+sólo gracias a que **medita** en Él,  
+de **visitar** lugares santos (sagrados para Él),  
+y de **hablar** de Él a los demás,  
+de **inclinarse** ante Él y **pronunciar** sus sagrados nombres.  
+> Sus acciones **se realizan** con su aliento vital, mente, voluntad y todos los sentidos **dedicados** a Él.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवद्ध्यानयोगोक्तिवन्दनस्तुतिकीर्तनैः । लब्धात्मा तद्गतप्राणमनोबुद्धीन्द्रियक्रियः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निजकर्मादि-भक्त्य्-अन्तं  
+**कुर्यात्** प्रीत्यैव कारितः ।  
+उपायतां **परित्यज्य**  
+**न्यस्येद्** देवे तु ताम् +++(उपायताम्)+++ अभीः॥  
+(गीतार्थ-सङ्ग्रहः ३२)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> निजकर्मादि-भक्त्य्-अन्तं  
+**कुर्यात्** प्रीत्यैव कारितः ।  
+उपायतां **परित्यज्य**  
+**न्यस्येद्** देवे तु ताम् +++(उपायताम्)+++ अभीः॥  
+(गीतार्थ-सङ्ग्रहः ३२)
+</details>
+
+
+<details><summary>English</summary>
+
+> He **performs** all the duties **pertaining** to him  
+and also **practises** bhakti  inspired solely by love.  
+He **should give up** the idea of their **being** upāyas  
+and **place** the upāya in the Lord without any fear". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Él **realiza** todos los deberes **que le pertenecen**  
+y también **practica** bhakti inspirado únicamente por el amor.  
+Él **debería abandonar** la idea de que ellos **sean** upāyas.  
+y **colocar** el upāya en el Señor sin ningún temor".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निजकर्मादिभक्त्यन्तं कुर्यात्प्रीत्यैव कारितः । उपायतां परित्यज्य न्यस्येद्देवे तु तामभीः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् अरुळिच्चॆय्दव् इडत्तिल् 
+
+> ‘‘प्रीत्यैव कारितः’’ 
+
+ऎऩ्ऱ् अदुवुम्  
+"शास्त्रं वेण्डाव्" ऎऩ्ऱ बडिय् अऩ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+In these ślokas what Aḷavandār **meant** by the words  
+"**inspired** solely by love"  
+**was not** that he **should ignore** the śāstras.
+</details>
+
+<details><summary>Español</summary>
+
+En estos ślokas lo que Aḷavandār **quiso decir** con las palabras  
+"**inspirado** únicamente por el amor"  
+**no era** que él **debiera ignorar** los śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱरुळिच्चॆय्दविडत्तिल् ‘‘प्रीत्यैव कारितः’’ ऎऩ्ऱदुवुम् शास्त्रंवेण्डावॆऩ्ऱबडियऩ्ऱु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु शास्त्रङ् कॊण्डेय् अऱिय वेण्डुगिऱ कैङ्कर्यन् तऩ्ऩिल्  
+स्वामि-सन्तोष-जनकत्वम् अडिय् आग  
+शेष-भूतऩ् आऩ तऩक्कुप् पिऱक्किऱ प्रीतियिऩ्-उडैय  
+प्रेरकत्वातिशयञ् जॊल्लुगैयिले तात्पर्यम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु शास्त्रङ्गॊण्डेयऱियवेण्डुगिऱ कैङ्कर्यन्दऩ्ऩिल् स्वामिसन्तोषजनकत्वमडियाग शेषभूतऩाऩ तऩक्कुप्पिऱक्किऱ प्रीतियिऩुडैय प्रेरकत्वातिशयञ्जॊल्लुगैयिले तात्पर्यम्।
+</details>
+
+
+His idea was to emphasise the great inspiration arising from his love (of the Lord), whose śeṣa he is, to perform those acts of service which he can understand only from the śāstras, in order to give delight to Him. When these ślokas are considered in relation to the man who practises upāsanas and the like, its aim is to show that these upāsanas are most pleasing to the person himself, that they are not the direct means of attaining the supreme end, but are the means of winning the favour of the Saviour who is the direct means or upāya for obtaining this end, and that the Lord of all who is pleased by these upāsanas stands, as the direct upāya for the attainment of this end. When the ślokas are considered in relation to the man who has adopted prapatti as the principal and independent means, their aim is to show that, though he performs the ordinances of nitya and naimittika karma and such other rites just as they are enjoined for bhakti yoga, since he does not perform them for the sake of other objects like svarga and mokṣa and perforins them solely for pleasing the Lord, he has not adopted any other upāya (for mokṣa and has no other interests or object. (Their aim is also) to show that, as he is destitute of other upāyas, the Lord Himself stands in the place of those upāyas and rewards him with the desired fruit.
 
 Those who have not studied Vedānta might ask (in this connection:- Both these adhikārīs (the bhakta and the prapanna) are devoted solely and exclusively to the Lord as stated (in the ślokas):-" Wise men do not worship Brahma, Rudra and other gods, for the reward that can he given by them is limited," "They are "my devotees who have no devotion to other deities, who love those that are devoted to me and who seek me alone as their upāya" and "He who has attained the lotus feet of Viṣṇu should not worship other deities." If these two adhikāris should perform the rites and observances of their castes and āśramas as stated (ia Aḷavandār's ślokas! (viz., all the karma s pertaining to them and also bhakti ), would not their supreme and exclusive devotion to the Lord be adversely affected in as much as these rites or dharmas are mixed up with (the worship of) such gods as Agoi and lndra?" Here, as explained in the Brahma Sūtras (1-2-29), names like Agni may be considered, on the authority of Jaimini, as directly referring to Brahman or Bhagavān for Agni and other such words may be etymologically derived as agram nayati. (He who receives the best part of the offering for Himself) etc. There is no worship or contact with other deities, because they are like the sacred names found in Sahasranama (etymologically applicable to Bhagavān). The author of Śrī Bhāṣya has stated in his Nitya:--"Having pleased the gods, the rishis and the Manes with oblations and with the thought that they have Bhagavān as their inner self" etc. So it is perfectly in accordance with the śāstras to perform these respective rites meditating that the Supreme Being has the respective deities as His body In "Pratardana vidyā and the like we are taught in the śāstras that the Supreme Being may be meditated on (or worshipped) in three forms: (one) in His own divine and essential nature, (two), the Supreme Being as having sentient beings as His attribute (or body), and ( three) the Supreme Being as having non-sentient things as His attribute (or body). Though He is worshipped in these three ways, the worship is really to the Supreme Being and not to His attributes (or bodies) (namely . the sentient and non-sentient beings). In the same way here also, the bhakta or prapanna does not adore the gods, the rishis and the Manes, who are really attributes or bodies of the Supreme Being.
 
