@@ -3212,7 +3212,7 @@ y aquellos que **imponen** bhakti yoga y similares).
 
 
 ## अधिकार-भ्रमाः
-### पूर्वाचार्य-चर्चाविषयः
+### पूर्वाचार्य-चर्चाविषयोऽन्यः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8960,7 +8960,7 @@ que si una persona **realizara** todos los karma-s o ritos con cualquier mantra 
 
 आऩ बिऩ्बु मुक्तऩ् आम् अळवुम्  
 स्वाधिकारानुगुणम् आग कैङ्कर्यम् बण्ण  
-विरग्+++(=??)+++ इल्लै। 
+विरग्+++(=उपाय[भेदो])+++ इल्लै। 
 </details>
 
 <details><summary>English</summary>
@@ -8977,17 +8977,232 @@ Por lo tanto, hasta el momento de **alcanzar** mukti,
 de cualquier manera distinta a la que **está ordenada** en los śāstras como **apropiada** para cada adhikārī.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आऩबिऩ्बु मुक्तऩामळवुम् स्वाधिकारानुगुणमाग कैङ्कर्यम्बण्ण विरगिल्लै। 
+</details>
+
+## न शास्त्रोक्त-कैङ्कर्य-हानम् - निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि प्रपन्नऩुक्कुम् शास्त्र-वश्यऩ् आय्  
+शास्त्रोक्त-कैङ्कर्यमे पण्ण वेण्डुगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+Hence since even the prapanna **is subject** to the authority of the sastras  
+and **should perform** only such **service** as **is permitted** or **enjoined** by them
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, dado que incluso el prapanna **está sujeto** a la autoridad de los sastras  
+y **debe realizar** únicamente el **servicio** que **esté permitido** o **prohibido** por ellos
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि प्रपन्नऩुक्कुम् शास्त्रवश्यऩाय् शास्त्रोक्तकैङ्कर्यमे पण्ण वेण्डुगैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विधि-निषेध-लङ्घन-पक्षमुम् 
+</details>
+
+<details><summary>English</summary>
+
+> (1) Both those **commands** that **are enjoined** as positive rites or actions  
+and those that **forbid** certain activities **should be violated** ; 
+</details>
+
+<details><summary>Español</summary>
+
+> (1) Tanto aquellos **comandos** que **están ordenados** como ritos o acciones positivas  
+y aquellos que **prohiben** ciertas actividades **deben ser violadas**;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विधिनिषेधलङ्घनपक्षमुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विहित-निषिद्ध-त्याग-पक्षमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> (2) Both those activities and rites that **are enjoined**  
+and those that **are forbidden**  
+**should be given up** 
+</details>
+
+<details><summary>Español</summary>
+
+> (2) Tanto aquellas actividades como ritos que **están prohibidos**  
+y los que **están prohibidos**  
+**debe ser abandonado**
+</details>
+
+<details><summary>मूलम्</summary>
+
+विहितनिषिद्धत्यागपक्षमुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वर्णाश्रम-धर्मङ्गळ् +++(शरीरतः→)+++ औपाधिकङ्गळ् आगैयाले  
+स्व-रूप--ज्ञानम् पिऱन्दवऩुक्कु त्याज्यङ्गळ् 
+
+ऎऩ्गिऱ पक्षमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> (3) The rites and **observances** of the variṭas and āśramas **are dependent** only on the bodies (of Brahmins and the like)  
+and **may** therefore **be given up** by the person  
+who **has attained** a true knowledge of the essential nature of his self (which is different from the body ). 
+</details>
+
+<details><summary>Español</summary>
+
+> (3) Los ritos y **observancias** de los variṭas y āśramas **dependen** únicamente de los cuerpos (de los brahmanes y similares)  
+y **puede** por lo tanto **ser renunciado** por la persona  
+quien **ha alcanzado** un verdadero conocimiento de la naturaleza esencial de su yo (que **es** diferente del cuerpo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वर्णाश्रम-धर्मङ्गळ् औपाधिकङ्गळागैयाले स्वरूपज्ञानम् पिऱन्दवऩुक्कु त्याज्यङ् गळॆऩ्गिऱ पक्षमुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवै सॆय्यवुम् आम्, तविरवुम् आम् 
+
+ऎऩ्गिऱ पक्षमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> (4) They **may be performed** or **may not be performed** 
+</details>
+
+<details><summary>Español</summary>
+
+> (4) **Podrán realizarse** o **no podrán realizarse**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवै सॆय्यवुमाम्, तविरवुमामॆऩ्गिऱ पक्षमुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवै तविर्न्दालुम् उगप्प् इऴक्कुम् अत्तऩैये  
+वेऱ् ऒरु प्रत्यवायम् इल्लैय् 
+
+ऎऩ्गिऱ पक्षमुम्
+</details>
+
+<details><summary>English</summary>
+
+> (5) Even if they **are given up**,  
+**no harm will result**  
+except the **loss** of the Lord's **pleasure** 
+</details>
+
+<details><summary>Español</summary>
+
+> (5) Incluso si **se abandonan**,  
+**no habrá ningún daño**  
+excepto la **pérdida** del **placer** del Señor
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवै तविर्न्दालुमुगप्पिऴक्कुमत्तऩैये वेऱॊरु प्रत्यवायमिल्लैयॆऩ्गिऱ पक्षमुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवैय् अनुष्ठियाद बोदु  
+लोक-विरोध-मात्रमे प्रत्यवायम् 
+
+ऎऩ्गिऱ पक्षमुम् 
+</details>
+
+<details><summary>English</summary>
+
+> (6) The only **harm** that **would result** in their **being given up**  
+**is** the ill will of society 
+</details>
+
+<details><summary>Español</summary>
+
+> (6) El único **daño** que **resultaría** en **ser abandonado**  
+**es** la mala voluntad de la sociedad
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवैयनुष्ठियादबोदु लोकविरोधमात्रमे प्रत्यवायमॆऩ्गिऱ पक्षमुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱुम् इप्-पुडैगळिल्+++(=पार्श्वतः)+++ उळ्ळ पक्षङ्गळ् ऎल्लाम्  
+सम्यङ्-न्यायानुगृहीत-- शास्त्र-संप्रदाय-विरुद्धङ्गळ् आऩ पडियाले  
+सत्त्व-स्थर्क्क् अनुपादेयङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+and other such (erroneous) views -  
+
+the above (heretical) views which are **opposed** to the scriptures and the traditional **observances** (of the good)  
+**supported** by right reason or logic  
+**are not to be accepted**  
+by those who **desire** to **stand** in sattvam. 
+</details>
+
+<details><summary>Español</summary>
+
+y otras opiniones similares (erróneas) -  
+
+los puntos de vista (heréticos) anteriores que se **oponen** a las Escrituras y las **observancias** tradicionales (del bien)  
+**respaldado** por una razón o lógica correcta  
+**no se aceptan**  
+por aquellos que **desean** **estar** en sattvam.
+</details>
+
+
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुमिप्पुडैगळिलुळ्ळ पक्षङ्गळॆल्लाम् सम्यङ्न्यायानुगृहीतशास्त्रसंप्रदायविरुद्धङ्गळाऩ पडियाले सत्त्वस्थर्क्कनुपादेयङ्गळ्।
 </details>
 
 
 
 
 
-Hence since even the prapanna is subject to the authority of the sastrus and should perform only such service as is permitted or enjoined by them, the following (heretical) views which are opposed to the scriptures and the traditional observances (of the good) supported by right reason or logic are not to be accepted by those who desire to stand in sattvam. (views such as the following): (1) Both those commands that are enjoined as positive rites or actions and those that forbid certain activities should be violated ; (2) Both those activities and rites that are enjoined and those that are forbidden should be given up. (3) The rites and observances of the variṭas and āśramas are dependent only on the bodies (of Brahmins and the like) and may therefore be given up by the person who has attained a true knowledge of the essential nature of his self (which is different from the body ). (4) They may be performed or may not be performed (5) Even if they are given up, no harm will result except the loss of the Lord's pleasure (6) The only harm that would result in their being given up is the ill.will of society and other such (erroneous) views.
+
+
+
 
 It is true that, as for those in the āśrama of the Sannyasin, to whom certain old rites and observances (of the grihasthāśrama) are forbidden and certain new rites and observances enjoined, (so also) for those who are Bhāgavatas, as a consequence of their being snch, certain things are forbidden and certain new things are enjoined. But no karma  or rite which has been ordained as compulsory of performance should (on any account) be given up. For it has been stated :- "The man who does not perform the rites pertaining to the sandhyā is always impure and is unfit for the performance of any (other) rite. Whatever other rite or karma  he may perform, he will not obtain the fruit thereof”. As in the differences in the manner of performing the sandhyā meditation or worship that are found in the sūtras and the different Dharma Śāstras (Manu, Āpastamba and the like) those differences that are found in the different samhitas of the Lord's śāstra (Parcā. rātra) and also such differences in the sandhya meditation as are stated in the Itihāsas and the Purāṇas -- these differences should be observed respectively by those who follow these respective Śāstras. Conduct like the following which is enjoined in the śāstras and the Itihasas, Namely, "At the time of the parvas, one should pray to the deities for protection" and "One should bow in front of places where the gods are worshipped -- (conduct like this) is restricted in the case of the man who is supremely and exclusively devoted to Bhagavān (Paramaikantin) owing to the authority of the Śāstra (i,e. the only deity or God that he should pay homage to is Bhagavān). Therefore no śāstra is violated.
 
