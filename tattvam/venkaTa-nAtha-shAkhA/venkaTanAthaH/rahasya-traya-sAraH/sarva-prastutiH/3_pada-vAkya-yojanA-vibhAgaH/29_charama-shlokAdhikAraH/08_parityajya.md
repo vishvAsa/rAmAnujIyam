@@ -9189,32 +9189,579 @@ por aquellos que **desean** **estar** en sattvam.
 </details>
 
 
-
-
 <details><summary>मूलम्</summary>
 
 मऱ्ऱुमिप्पुडैगळिलुळ्ळ पक्षङ्गळॆल्लाम् सम्यङ्न्यायानुगृहीतशास्त्रसंप्रदायविरुद्धङ्गळाऩ पडियाले सत्त्वस्थर्क्कनुपादेयङ्गळ्।
 </details>
 
+### कर्म-विभागः
+#### अवश्यं कार्याणि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सन्न्यासाश्रम-स्थर्क्कुप् पण्ड्+++(=प्राचीन)+++-उळ्ळ्-अवै सिलवऱ्ऱै निषेधित्तुप्  
+पुदिद् आग सिलवऱ्ऱै विधिक्कुमाप् पोले 
+</details>
+
+<details><summary>English</summary>
+
+It **is** true that,  
+as for those in the āśrama of the Sannyasin,  
+to whom certain old rites and observances (of the grihasthāśrama) **are forbidden**  
+and certain new rites and observances **enjoined**,  
+</details>
+
+<details><summary>Español</summary>
+
+**Es** cierto que,  
+en cuanto a aquellos en el āśrama de los Sannyasin,  
+a quien ciertos antiguos ritos y observancias (del grihasthāśrama) **están prohibidos**  
+y ciertos nuevos ritos y observancias **impuestos**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सन्न्यासाश्रमस्थर्क्कुप् पण्डुळ्ळवै सिलवऱ्ऱै निषेधित्तुप् पुदिदाग सिलवऱ्ऱै विधिक्कुमाप्पोले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भागवतत्वम् अडियागच् सिलवऱ्ऱै निषेधित्तुच्  
+सिलवऱ्ऱै अपूर्वम् आग विधित्तालुम् 
+</details>
+
+<details><summary>English</summary>
+
+(so also) for those who **are** Bhāgavatas,  
+as a consequence of their being such,  
+certain things **are forbidden** and certain new things **are enjoined**.  
+</details>
+
+<details><summary>Español</summary>
+
+(así también) para aquellos que **son** Bhāgavatas,  
+como consecuencia de **serlo**,  
+ciertas cosas **están prohibidas**  
+y ciertas cosas nuevas **están prohibidas**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भागवतत्वमडियागच् चिलवऱ्ऱै निषेधित्तुच् चिलवऱ्ऱै अपूर्वमाग विधित्तालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सन्ध्या-हीनो ऽशुचिर् नित्यम्  
+अनर्हस् सर्व-कर्मसु’’  
+(दक्ष-स्मृति) 
+
+इत्य्-आदिगळाले अवश्य-कर्तव्यङ्गळ् आगच् चॊल्लप्-पट्ट कर्मङ्गळै विडव् ऒण्णादु+++(=अयुक्तम्)+++। 
+</details>
+
+<details><summary>English</summary>
+
+But no karma or rite which **has been ordained** as compulsory of performance  
+**should** (on any account) **be given up**.  
+For it **has been stated** :-  
+
+> "The man who **does not perform** the rites pertaining to the sandhyā  
+**is** always impure and **is** unfit for the performance of any (other) rite.  
+Whatever other rite or karma he **may perform**,  
+he **will not obtain** the fruit thereof”. 
+</details>
+
+<details><summary>Español</summary>
+
+Pero ningún karma o rito que **ha sido ordenado** como obligatorio de realizar  
+**debería** (por cualquier motivo) **renunciarse**.  
+Porque **se ha dicho** :-  
+
+> "El hombre que **no realiza** los ritos pertenecientes al sandhyā  
+**es** siempre impuro y **es** no apto para la realización de cualquier (otro) rito.  
+Cualquier otro rito o karma que **realice**,  
+él **no obtendrá** el fruto de ello”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सन्ध्याहीनोऽशुचिर्नित्यमनर्हस्सर्वकर्मसु’’(दक्ष-स्मृति) इत्यादिगळाले अवश्यकर्तव्यङ्गळागच् चॊल्लप्पट्ट कर्मङ्गळै विडवॊण्णादु। 
+</details>
+
+#### सन्ध्योपास्ति-विधौ व्यवस्थित-विकल्पः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्म-शास्त्र-सूत्र-भेदङ्गळिऱ् पोले  
+भगवच्-छास्त्र-संहिता-भेदङ्गळिलुम्  
+इतिहास-पुराणङ्गळिलुम् सॊल्लुम् सन्ध्योपासन-भेदङ्गळ्  
+अव्वो शास्त्रङ्गळिलेय् इऴिन्द्-अवर्गळ्-अनुष्ठिक्कक् कडवर्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+As in the differences in the manner of **performing** the sandhyā **meditation** or **worship** that are found in the sūtras and the different Dharma Śāstras (Manu, Āpastamba and the like)  
+those **differences** that **are found** in the different samhitas of the Lord's śāstra (Pancārātra) and also such differences in the sandhya **meditation**  
+as **are stated** in the Itihāsas and the Purāṇas --  
+these differences **should be observed**  
+respectively by those who **follow** these **respective** Śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+Como en las diferencias en la manera de **realizar** la sandhyā **meditación** o **adoración** que **se encuentran** en los sūtras y los diferentes Dharma Śāstras (Manu, Āpastamba y similares)  
+esas **diferencias** que **se encuentran** en los diferentes samhitas del śāstra (Pancārātra) del Señor y también tales diferencias en la **meditación** sandhya  
+como **se afirma** en los Itihāsas y los Purāṇas—  
+estas diferencias **deben observarse**  
+respectivamente por aquellos que **siguen** estos **respectivos** Śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+धर्मशास्त्रसूत्रभेदङ्गळिऱ्पोले भगवच्छास्त्रसंहिताभेदङ्गळिलुम् इतिहासपुराणङ्गळिलुम् सॊल्लुम् सन्ध्योपासनभेदङ्गळ् अव्वो शास्त्रङ्गळिलेयिऴिन्दवर्गळ नुष्ठिक्कक्कडवर्गळ्। 
+</details>
+
+#### देवताभिगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘दैवतान्य् अभिगच्छेत् तु’’  
+(मनुस्मृति ४-१५३) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘दैवतान्य् अभिगच्छेत् तु’’  
+(मनुस्मृति ४-१५३) 
+</details>
+
+
+<details><summary>English</summary>
+
+> "At the time of the parvas,  
+one **should pray** to the deities **for protection**" 
+</details>
+
+<details><summary>Español</summary>
+
+> "En el momento de las parvas,  
+uno **debe orar** a las deidades **para protección**"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘दैवतान्यभिगच्छेत्तु’’(मनुस्मृति ४-१५३) ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘देव-स्थान-प्रणामनं’’  
+(आनुशाासनिकमॆऩ्ऱु पूर्वर्गळ्)
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘देव-स्थान-प्रणामनं’’  
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "One **should bow** in front of places  
+where the gods **are worshipped**" 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Uno **debe inclinarse** delante de lugares  
+donde los dioses **son adorados**"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘देवस्थानप्रणामनं’’(आनुशाासनिकमॆऩ्ऱु पूर्वर्गळ्)ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पुडैगळिले+++(=पक्षेषु)+++ धर्म-शास्त्रेतिहासादिगळिऱ् सॊऩ्ऩव् आचारमुम्  
+परमैकान्तिक्कु शास्त्र-बलत्ताले भगवद्-विषयत्तिले नियतम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Conduct like the above which **is enjoined** in the śāstras and the Itihasas,  
+**is restricted** in the case of the man  
+who **is** supremely and exclusively **devoted** to Bhagavān (Paramaikantin)  
+owing to the authority of the Śāstra  
+(i,e. the only deity or God that he **should pay homage** to is Bhagavān).  
+</details>
+
+<details><summary>Español</summary>
+
+Conducta como la anterior que **está ordenada** en los śāstras y los Itihasas,  
+**está restringido** en el caso del hombre  
+quien **está** suprema y exclusivamente **dedicado** a Bhagavān (Paramaikantin)  
+debido a la autoridad del Śāstra  
+(es decir, la única deidad o Dios a la que **debe rendir homenaje** es Bhagavān).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पुडैगळिले धर्मशास्त्रेतिहासादिगळिऱ् सॊऩ्ऩवाचारमुम् परमैकान्तिक्कु शास्त्रबलत्ताले भगवद्विषयत्तिले नियतम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् ऒरु शास्त्रङ् गळुक्कुम् विरोधमिल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore no śāstra **is violated**.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, ningún śāstra **es violado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ऒरु शास्त्रङ् गळुक्कुम् विरोधमिल्लै। 
+</details>
+
+#### मन्त्रान्तर-जपः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तस्माद् अष्टाक्षरं मन्त्रं  
+मद्-भक्तैर् वीत-कल्मषैः ।  
+सन्ध्याकालेषु जप्तव्यं  
+सततञ् चात्म-शुद्धये॥’’  
+(भारतम् आस्वमेदिग-पर्व ९८-६९) 
+
+ऎऩ्ऱु श्रीवैष्णव-धर्म-शास्त्रङ्गळिऱ् सॊऩ्ऩ्-अदुवुम्
+</details>
+
+<details><summary>English</summary>
+
+> "Therefore the mantra called aṣṭākṣara **should be repeated** at the time of the sandhya, by pure-minded devotees of mine always  
+in order to **purify** their selves", 
+
+Injunctions such as the above in shrI-vaiShNava-dharma-shAstra-s,
+</details>
+
+<details><summary>Español</summary>
+
+> "Por lo tanto, el mantra llamado aṣṭākṣara **debe ser repetido** en el momento del sandhya, por mis devotos de mente pura siempre  
+para **purificarse** ellos mismos",
+
+Mandatos como los anteriores en shrI-vaiShNava-dharma-shAstra-s,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तस्मादष्टाक्षरं मन्त्रं मद्भक्तैर्वीतकल्मषैः । सन्ध्याकालेषु जप्तव्यं सततञ्चात्मशुद्धये’’(भारतम् आस्वमेदिग-पर्व ९८-६९) ऎऩ्ऱु श्रीवैष्णव-धर्मशास्त्रङ्गळिऱ्सॊऩ्ऩदुवुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘द्वयम् अर्थानुसन्धानेन सह सदैवं वक्ता’’  
+(शरणागति-गद्यम्) 
+
+ऎऩ्ऱु गद्यत्तिल् अरुळिच्चॆय्द्-अदुवुम्
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "**uttering** the Dvaya always in this manner  
+with its meaning at heart" 
+
+in the Gadya -  
+
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "**pronunciar** el Dvaya siempre de esta manera  
+con su significado en el corazón" 
+
+in the Gadya -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘द्वयमर्थानुसन्धानेन सह सदैवं वक्ता’’(शरणागति-गद्यम्) ऎऩ्ऱु गद्यत्तिलरुळिच्चॆय्ददुवुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱुम् इप्-पुडैगळिल् उळ्ळवैय् ऎल्लाम्  
+अवश्य-कर्तव्यङ्गळ् आऩ नित्य-नैमित्तिकङ्गळुक्कु विरोधम् वाराद बडि  
+अवऱ्ऱुक्कुप् पोक्कि,  
+मिक्क कालत्तिलेयेय् आगक् कडवदु। 
+</details>
+
+<details><summary>English</summary>
+
+these instructions **should be carried out**  
+without any conflict with the **performance** of the rites (nitya and naimittika)  
+which **are compulsory** of **performance**  
+and at such times as **are left over** after their performance. 
+</details>
+
+<details><summary>Español</summary>
+
+estas instrucciones **deben llevarse a cabo**  
+sin ningún conflicto con la **realización** de los ritos (nitya y naimittika)  
+que **son obligatorias** de **actuación**  
+y en aquellos momentos que **sobran** después de su actuación.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुमिप्पुडैगळिलुळ्ळवै यॆल्लाम् अवश्यकर्तव्यङ्गळाऩ नित्यनैमित्तिकङ्गळुक्कु विरोधम् वारादबडि अवऱ्ऱुक्कुप्पोक्कि मिक्क कालत्तिलेयेयागक्कडवदु। 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘श्रौत-स्मार्ताविरुद्धेषु  
+कालेषु जपम् आचरेत्’  
+
+ऎऩ्ऱु नारदादिगळुम् सॊऩ्ऩार्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘श्रौत-स्मार्ताविरुद्धेषु  
+कालेषु जपम् आचरेत्’  
+
+</details>
+
+<details><summary>English</summary>
+
+Nārada and others **have also stated**:-
+
+“The japa (namely, the repetition of Aṣṭākṣara) **should be performed**  
+at such times as **do not conflict** with the performance of rites **ordained** in the śrutis and the smṛtis." 
+</details>
+
+<details><summary>Español</summary>
+
+Nārada y otros **también han declarado**:-
+
+“El japa (es decir, la repetición de Aṣṭākṣara) **debe realizarse**  
+en momentos que **no entren en conflicto** con la **realización** de los ritos **ordenados** en los śrutis y los smṛtis."ṛtis."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘श्रौतस्मार्ताविरुद्धेषु कालेषु जपमाचरेत्’’ ऎऩ्ऱु नारदादिगळुम् सॊऩ्ऩार्गळ्।
+</details>
+
+### शिष्टाचारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ''हुत्वाऽग्निहोत्रादाव्  
+उक्तं कालम् अपि क्षिपन्’’ 
+
+ऎऩ्ऱु वङ्गिबुरत्तु नम्बियुम् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ''हुत्वाऽग्निहोत्रादाव्  
+उक्तं कालम् अपि क्षिपन्’’ 
+
+</details>
 
 
 
+<details><summary>English</summary>
+
+Vaṅgīpuram Nambi, too, **has said**: -
+
+> " **Having spent** your time in **performing** the homa in rites like Agnihotra etc" 
+</details>
+
+<details><summary>Español</summary>
+
+Vaṅgīpuram Nambi también **ha dicho**: -
+
+> " **Haber dedicado** tu tiempo a **realizar** el homa en ritos como el Agnihotra, etc."
+</details>
 
 
-It is true that, as for those in the āśrama of the Sannyasin, to whom certain old rites and observances (of the grihasthāśrama) are forbidden and certain new rites and observances enjoined, (so also) for those who are Bhāgavatas, as a consequence of their being snch, certain things are forbidden and certain new things are enjoined. But no karma  or rite which has been ordained as compulsory of performance should (on any account) be given up. For it has been stated :- "The man who does not perform the rites pertaining to the sandhyā is always impure and is unfit for the performance of any (other) rite. Whatever other rite or karma  he may perform, he will not obtain the fruit thereof”. As in the differences in the manner of performing the sandhyā meditation or worship that are found in the sūtras and the different Dharma Śāstras (Manu, Āpastamba and the like) those differences that are found in the different samhitas of the Lord's śāstra (Parcā. rātra) and also such differences in the sandhya meditation as are stated in the Itihāsas and the Purāṇas -- these differences should be observed respectively by those who follow these respective Śāstras. Conduct like the following which is enjoined in the śāstras and the Itihasas, Namely, "At the time of the parvas, one should pray to the deities for protection" and "One should bow in front of places where the gods are worshipped -- (conduct like this) is restricted in the case of the man who is supremely and exclusively devoted to Bhagavān (Paramaikantin) owing to the authority of the Śāstra (i,e. the only deity or God that he should pay homage to is Bhagavān). Therefore no śāstra is violated.
+<details><summary>मूलम्</summary>
 
-Such injunctions as the following :-"Therefore the mantra called aṣṭākṣara should be repeated at the time of the sandhya, by pure-minded devotees of mine always in order to purify their selves", and "uttering the Dvaya always in this manner with its meaning at heart" in the Gadya - these instructions should be carried out without any conflict with the performance of the rites nitya and naimittika) which are compulsory of performance and at such times as are left over after their performance, Nārada and others have also stated:-“The japa (namely, the repetition of Aṣṭākṣara) should be performed at such times as do not conflict with the performance of rites ordained in the śrutis and the smṛtis." Vaṅgīpuram Nambi, too, has said: -" Having spent your time in performing the homa in rites like Agnihotra etc" Even in his last days, the author of Śrī Bhāṣya stood up with great difficulty and offered the anjali of water at the time of sandhyā. Therefore giving up the rites of the varṇas and the āśramas on the pretext that they are dependent on the upadhi of the body is opposed to such things as the traditional observances of the ancients. If this pretext were sound, since even such special forms of service (in temples) as the weaving of garlands and the lighting of lamps cannot be performed without the upādhi (or conditioning factor) of the body, the senses and the like-even these would have to be given up (by the man who has realised his essential nature (svarūpa). If the perforınance of such services is desired, the external purity (āchāra) and the purificatory rites (samskāras) which qualify (a person) for such service, cannot be given up.
+''हुत्वाऽग्निहोत्रादावुक्तं कालमपि क्षिपन्’’ ऎऩ्ऱु वङ्गिबुरत्तु नम्बियुमरुळिच्चॆय्दार्। 
+</details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीभाष्यकारर् अन्तिम-दशैयिलुम् वरुन्दिय्+++(=श्रान्त्वा)+++ ऎऴुन्द्+++(=उत्थाय)+++ इरुन्दु+++(=स्थित्वा)+++  
+सन्ध्या-कालत्तिले जलाञ्जलि प्रक्षेपम् पण्णिय् अरुळिऩार्।
+</details>
+
+<details><summary>English</summary>
+
+Even in his last days, the author of Śrī Bhāṣya **stood up** with great difficulty  
+and **offered** the anjali of water at the time of sandhyā. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en sus últimos días, el autor de Śrī Bhāṣya **se puso de pie** con gran dificultad  
+y **ofreció** el anjali de agua en el momento de sandhyā.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीभाष्यकारर् अन्तिमदशैयिलुम् वरुन्दियॆऴुन्दिरुन्दु सन्ध्याकालत्तिले जलाञ्जलि प्रक्षेपम् पण्णियरुळिऩार्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् "वर्णाश्रम-धर्मङ्गळ् औपाधिकङ्गळ्" ऎऩ्ऱु त्यजिक्कै पूर्वानुष्ठानादि-विरुद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore **giving up** the rites of the varṇas and the āśramas  
+on the pretext that they **are** dependent on the upadhi of the body  
+**is opposed** to such things as the traditional **observances** of the ancients. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **renunciar** a los ritos de los varṇas y los āśramas.  
+con el pretexto de que **son** dependientes del upadhi del cuerpo  
+**se opone** a cosas como las **observancias** tradicionales de los antiguos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् वर्णाश्रमधर्मङ्गळ् औपाधिकङ्गळॆऩ्ऱु त्यजिक्कै पूर्वानुष्ठानादिविरुद्धम्।
+</details>
+
+### औपाधिकता न त्याग-हेतुः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि +++(वर्णाश्रमधर्मङ्गळ् औपाधिकङ्गळॆऩ्ऱु)+++ त्यजिक्किल्  
+देहेन्द्रियाद्य्-उपाधिगळैय् ऒऴिय  
+माला-करण-- दीपारोपणादि- विशेष-कैङ्कर्यङ्गळुम् अनुष्ठिक्क वॊण्णामैयाल्  
+अवैयुम् ऎल्लाम् औपाधिकङ्गळ् आय् त्याज्यङ्गळ् आम्।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If this pretext **were** sound,  
+since even such special forms of service (in temples) as the **weaving** of garlands and the lighting of lamps  
+**cannot be performed** without the upādhi (or conditioning factor) of the body, the senses and the like-  
+even these **would have to be given up** (by the man who **has realised** his essential nature (svarūpa)).  
+</details>
+
+<details><summary>Español</summary>
+
+Si este pretexto **fuese** sólido,  
+ya que incluso formas especiales de servicio (en los templos) como **tejer** guirnaldas y **encender** lámparas  
+**no se puede realizar** sin el upādhi (o factor condicionante) del cuerpo, los sentidos y similares -  
+incluso estos **tendrían que ser abandonados** (por el hombre que **ha realizado** su naturaleza esencial (svarūpa)).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि त्यजिक्किल् देहेन्द्रियाद्युपाधिकळैयॊऴिय मालाकरणदीपारोपणादि विशेषकैङ्कर्यङ्गळुमनुष्ठिक्कवॊण्णामैयाल् अवैयु मॆल्लाम् औपाधिकङ्गळाय् त्याज्यङ्गळाम्।
+</details>
+
+### योग्यतापादनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवैय् अनुष्ठिक्कव् आसैप् पडिल्  
+अवऱ्ऱुक्कु योग्यताऽऽपादकङ्गळ् आऩ आचार-संस्कारादिगळैयुम् विडव् ऒण्णादु। 
+</details>
+
+<details><summary>English</summary>
+
+If the **performance** of such services **is desired**,  
+the external purity (āchāra) and the purificatory rites (samskāras) which **qualify** (a person) for such service,  
+**cannot be given up**.
+
+</details>
+
+<details><summary>Español</summary>
+
+Si **la prestación** de dichos servicios **se desea**,  
+la pureza externa (āchāra) y los ritos purificatorios (samskāras) que **califican** (a una persona) para tal servicio,  
+**no se puede renunciar**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवै यनुष्ठिक्कवासैप्पडिल् अवऱ्ऱुक्कु योग्यतापादकङ्गळाऩ आचारसंस्कारादिगळैयुम् विड वॊण्णादु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩबिऩ्बु,
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आहारग्रहमन्त्रार्थजात्यादि नियमैर्युतः ।  
 कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥  
-मङ्गळ्यसूत्रवस्त्रादीन् संरक्षति यथा वधूः ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+आहारग्रहमन्त्रार्थजात्यादि नियमैर्युतः ।  
+कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+मङ्गल्यसूत्रवस्त्रादीन् संरक्षति यथा वधूः ।  
 तथा प्रपन्नश्शास्त्रीयपतिकैङ्कर्यपद्धतिम् ॥  
-यद्वन्मङ्गळ्यसूत्रादेस्त्यागे संरक्षणेऽपि वा ।  
+यद्वन्मङ्गल्यसूत्रादेस्त्यागे संरक्षणेऽपि वा ।  
 रक्षेन्निरोधैर्भोगैर्वा पतिस्तद्वदिहापि नः ॥  
 अवज्ञार्थमनर्थाय भक्तजन्मादिचिन्तनम् ।  
 शास्त्रव्यवस्थामात्रार्थं न तु तद्दुष्यति क्वचित् ॥  
@@ -9238,9 +9785,9 @@ Such injunctions as the following :-"Therefore the mantra called aṣṭākṣar
 
 आहारग्रहमन्त्रार्थजात्यादि नियमैर्युतः ।  
 कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥  
-मङ्गळ्यसूत्रवस्त्रादीन् संरक्षति यथा वधूः ।  
+मङ्गल्यसूत्रवस्त्रादीन् संरक्षति यथा वधूः ।  
 तथा प्रपन्नश्शास्त्रीयपतिकैङ्कर्यपद्धतिम् ॥  
-यद्वन्मङ्गळ्यसूत्रादेस्त्यागे संरक्षणेऽपि वा ।  
+यद्वन्मङ्गल्यसूत्रादेस्त्यागे संरक्षणेऽपि वा ।  
 रक्षेन्निरोधैर्भोगैर्वा पतिस्तद्वदिहापि नः ॥  
 अवज्ञार्थमनर्थाय भक्तजन्मादिचिन्तनम् ।  
 शास्त्रव्यवस्थामात्रार्थं न तु तद्दुष्यति क्वचित् ॥  
