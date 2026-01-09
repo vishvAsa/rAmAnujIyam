@@ -10412,20 +10412,416 @@ He **should do** every karma  at the time **prescribed** for them in the śāstr
 </details>
 
 
-**has described** the dharmas of the castes and the āśramas  
-with their respective mantras (in the following passages) :-
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ततो माध्यन्दिनं कर्म  
+स्वोचितं श्रुति-चोदितम् ।  
+स्नानादि-ब्रह्म-यज्ञान्तं  
+**कृत्वा** ऽखिलम् अतन्द्रितः ॥ 90
 
+ऎऩ्ऱुम्, 
+</details>
 
+<details><summary>English</summary>
 
 Then he says: 
 
-"He **should perform**, without **being** lazy,  
+> "He **should perform**, without **being** lazy,  
 all the rites from the bath to Brahma yajna **prescribed** in the Vedas for his āśrama as fit **to be done** at noon", 
 
-He continues : "Then he should perform the prescribed yajna to the gods and to the pitṛs (Manes), after which he should eat the food offered to Bhagavān (which act is called anuyāga)". Bhattar and Koorathalvan, too, in their respective nityas, have stated as follows:-- " With the vertical mark (ūrdhvapuṇḍra) on his forehead, (he) should perform the rites ordained in the śrutis, and smṛtis as far as it lies in his power, with the thought that they form the adoration of the Supreme Being and then offer oblations of water (tarpaṇam)". Peria Jeer (Nanjeer) begins by performing obeisance with the words: "I seek the feet of Parāśara Bhattārya". By this he reminds us of the special tradition concerning the homage to be paid to gurus and the like. After this, he says “I will now describe the manner in which service should be rendered to the lotus feet of Bhagavān every day by men with exclusive devotion to him (ekāntins)”. He then says " (The Ekāntin) should sprinkle water on himself by uttering the mantra beginning with Āpohi and then sip water (āchamana) with the utterance of the mantras which denote Bhagavān; after this he should offer arghya to the Supreme Being who is in the sphere of the sun and then perform japa, meditating on Bhagavān with the mantra of Gāyatri. After the japa, he should offer praise to Puruṣottama. Oblations of water (tarpana) should then be made to the gods, the rishis and the pitṛs (Manes, who have Narayaṇa as their inner self." We see also that, in all families which follow the tradition of the author of Śrī Bhāṣya, until the present day, weddings and upanayanas (initiation with the sacred thread) have been performed in accordance with their respective (Gṛhya) sūtras, (Āpastamba and the like) with the respective mantras denoting the respective deities. It is also well-known to all that the great ācāryas like Peria Nambi performed yajnas (sacrifices) and the like in accordance with their respective sūtras. Therefore in the case of those who follow the teaching of the author of Śrī Bhāṣya, his disciples and their disciples, it is not proper to perforin any rites (like those of weddings) with the mantras in certain samhitās following the doctrines of the Āgamas (Pāñcharātra)[^107] which are prescribed specially (to those who follow them).
+</details>
 
-[^107]: Sātvatam : Padmam: Jayākhyam, etc. these are the āgama samhitās.
+<details><summary>Español</summary>
+
+Luego **dice**: 
+
+> "Él **debe actuar**, sin **ser** perezoso,  
+todos los ritos desde el baño hasta Brahma yajna **prescritos** en los Vedas  
+para su āśrama como aptos **para realizarse** al mediodía",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततो माध्यन्दिनं कर्म स्वोचितं श्रुतिचोदितम् ।  
+स्नानादिब्रह्मयज्ञान्तं कृत्वाऽखिलमतन्द्रितः ॥ 90 ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘होमं पितृ-क्रियां पश्चाद्  
+अनुयागादिकञ्च यत्’’  
+(वङ्गिबुरत्तु नम्बि नित्यम् ७७-९६)
+
+ऎऩ्ऱुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘होमं पितृ-क्रियां पश्चाद्  
+अनुयागादिकञ्च यत्’’  
+(वङ्गिबुरत्तु नम्बि नित्यम् ७७-९६)
+
+</details>
+
+<details><summary>English</summary>
+
+He **continues** : 
+
+> "Then he **should perform** the **prescribed** yajna to the gods and to the pitṛs (Manes),  
+after which **he should eat** the food **offered** to Bhagavān (which act is called anuyāga)". 
+</details>
+
+<details><summary>Español</summary>
+
+Él **continúa**: 
+
+> "Entonces él **debe realizar** el yajna **prescrito** a los dioses y a los pitṛs (Manes),  
+después de lo cual **debe comer** la comida **ofrecida** a Bhagavān (cuyo **acto se llama** anuyāga)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘होमं पितृक्रियां पश्चादनुयागादिकञ्च यत्’’(वङ्गिबुरत्तु नम्बि नित्यम् ७७-९६)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-प्रकारङ्गळिले तत्-तन्-मन्त्र-पूर्वकङ्गळ् आऩ वर्णाश्रम-धर्मङ्गळैय् अरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>English</summary>
+
+(Thus he) **has described** the dharmas of the castes and the āśramas  
+with their respective mantras (in the above passages).
+</details>
+
+<details><summary>Español</summary>
+
+(Así él) **ha descrito** los dharmas de las castas y los āśramas  
+con sus respectivos mantras (en los pasajes anteriores).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्रकारङ्गळिले तत्तन्मन्त्रपूर्वकङ्गळाऩ वर्णाश्रमधर्मङ्गळै यरुळिच्चॆय्दार्।
+</details>
+
+
+#### अन्य-नित्य-ग्रन्थोक्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भट्टरुम्, आऴ्वाऩुम् तन्-दाङ्गळ् अरुळिच् चॆय्द नित्यङ्गळिले
+</details>
+
+<details><summary>English</summary>
+
+Bhattar and Koorathalvan, too, in their respective nityas, 
+</details>
+
+<details><summary>Español</summary>
+
+Bhattar y Koorathalvan también, en sus respectivos nityas,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भट्टरुम्, आऴ्वाऩुम् तन्दाङ्ग ळरुळिच्चॆय्द नित्यङ्गळिले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘श्रुति-स्मृत्य्-उदितं कर्म  
+यावच्-छक्ति परात्मनः ।  
+आराधनत्वेनापाद्य  
+सोर्ध्व-पुण्ड्रश् च **तर्पयेत्**॥’’  
+(पराशरभट्ट-नित्य-ग्रन्थः)  
+
+इत्य्-आदिगळैय् अरुळिच् चॆय्दार्गळ्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘श्रुति-स्मृत्य्-उदितं कर्म  
+यावच्-छक्ति परात्मनः ।  
+**आराधनत्वेनापाद्य**  
+सोर्ध्व-पुण्ड्रश् च **तर्पयेत्**॥’’  
+(पराशरभट्ट-नित्य-ग्रन्थः)  
+
+</details>
+
+<details><summary>English</summary>
+
+**have stated** as **follows**:-- 
+
+> " With the vertical mark (ūrdhvapuṇḍra) on his forehead,  
+(he) **should perform** the rites **ordained** in the śrutis, and smṛtis  
+as far as it **lies** in his power,  
+with the **thought** that they form the **adoration** of the Supreme Being  
+and then **offer oblations** of water (tarpaṇam)". 
+</details>
+
+<details><summary>Español</summary>
+
+**he declarado** lo siguiente:-- 
+
+> "Con la marca vertical (ūrdhvapuṇḍra) en su frente,  
+(él) **debe realizar** los ritos **ordenados** en los śrutis y smṛtis  
+en la medida en que **esté** en su poder,  
+con el **pensamiento** de que **forman** la **adoración** del Ser Supremo  
+y luego **ofrecer oblaciones** de agua (tarpaṇam)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘श्रुतिस्मृत्युदितं कर्म यावच्छक्तिपरात्मनः । आराधनत्वेनापाद्य सोर्द्ध्वपुण्ड्रश्च तर्पयेत्॥’’(पराशरभट्ट-नित्य-ग्रन्थः)  इत्यादिगळै यरुळिच्चॆय्दार्गळ्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पॆरिय जीयरुम् 
+
+> ‘‘श्रीपराशर-भट्टार्य-चरणौ संश्रयेमहि’’(पॆरिय-जीयर्-नित्य-ग्रन्थः) 
+
+इत्य्-आदियाले संप्रदाय-विशेष-ज्ञापनार्थम् आग  
+गुरु-नमस्-कारादिगळैप् पण्णि 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘श्रीपराशर-भट्टार्य-चरणौ संश्रयेमहि’’(पॆरिय-जीयर्-नित्य-ग्रन्थः) 
+</details>
+
+<details><summary>English</summary>
+
+Periya Jeer **begins** by **performing obeisance** with the words: 
+
+> "I **seek** the feet of Parāśara Bhattārya". 
+
+By this he **reminds us** of the special tradition  
+**concerning** the **homage to be paid** to gurus and the like. 
+</details>
+
+<details><summary>Español</summary>
+
+Periya Jeer **comienza** **realizando una reverencia** con las palabras: 
+
+> "Yo **busco** los pies de Parāśara Bhattārya". 
+
+Con esto **nos recuerda** la tradición especial  
+**sobre** el **homenaje** que **se debe rendir** a los gurús y similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पॆरिय जीयरुम् ‘‘श्रीपराशरभट्टार्यचरणौ संश्रयेमहि’’(पॆरिय-जीयर्-नित्य-ग्रन्थः) इत्यादियाले संप्रदायविशेषज्ञापनार्थमाग गुरुनमस्कारादिगळैप्पण्णि 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘भगवच्-चरणाम्भोज-  
+परिचर्या-विधि-क्रमम् ।  
+एकान्तिभिर् अनुष्ठेयं  
+नित्यं **समभिदध्महे**॥’’  
+(पॆरिय-जीयर्-नित्य-ग्रन्थः) 
+
+ऎऩ्ऱु तुडङ्गि
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘भगवच्-चरणाम्भोज-  
+परिचर्या-विधि-क्रमम् ।  
+एकान्तिभिर् अनुष्ठेयं  
+नित्यं **समभिदध्महे**॥’’  
+(पॆरिय-जीयर्-नित्य-ग्रन्थः) 
+
+</details>
+
+<details><summary>English</summary>
+
+After this, he **says**  
+
+“I **will** now **describe** the **manner** in which **service should be rendered**  
+to the lotus feet of Bhagavān every day  
+by men with exclusive **devotion** to him (ekāntins)”. 
+</details>
+
+<details><summary>Español</summary>
+
+Después de esto, él **dice**  
+
+“Ahora **describiré** la **manera** en la que **se debe prestar el servicio**  
+a los pies de loto de Bhagavān todos los días  
+por hombres con **devoción** exclusiva hacia él (ekāntins)”.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘भगवच्चरणाम्भोज परिचर्याविधिक्रमम् । एकान्तिभिरनुष्ठेयं नित्यं समभिदध्महे’’(पॆरिय-जीयर्-नित्य-ग्रन्थः) ऎऩ्ऱु तुडङ्गि
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आपो हीत्यादिभिर् मन्त्रैर्  
+वाचकैः परमात्मनः ।  
+**संप्रोक्ष्य** मन्त्राचमनम्  
+मन्त्रैस् तत्-**प्रतिपादकैः** ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> आपो हीत्यादिभिर् मन्त्रैर्  
+वाचकैः परमात्मनः ।  
+**संप्रोक्ष्य** मन्त्राचमनम्  
+मन्त्रैस् तत्-**प्रतिपादकैः** ॥ 
+</details>
+
+<details><summary>English</summary>
+
+He then **says** 
+
+> " (The Ekāntin) **should sprinkle** water on himself  
+by **uttering** the mantra beginning with Āpohi  
+and then **sip** water (āchamana)  
+with the **utterance** of the mantras which **denote** Bhagavān;  
+
+</details>
+
+<details><summary>Español</summary>
+
+Luego **dice** 
+
+> " (El Ekāntin) **debe rociar** agua sobre sí mismo  
+**pronunciando** el mantra que **comienza** con "Āpohi"  
+y luego **sorber** agua (āchamana)  
+con la **expresión** de los mantras que **denotan** Bhagavān;
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘आपो हीत्यादिभिर्मन्त्रैर्वाचकैः परमात्मनः । संप्रोक्ष्य मन्त्राचमनम्मन्त्रैस्तत्प्रतिपादकैः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आदित्यान्तस्-स्थितस्यार्घ्यं  
+**वितीर्य** परमात्मनः ।  
+**प्रतिपादिकया** विष्णोस्  
+सावित्र्या तं **जपेद्** धरिम् ॥ +++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> आदित्यान्तस्-स्थितस्यार्घ्यं  
+**वितीर्य** परमात्मनः ।  
+**प्रतिपादिकया** विष्णोस्  
+सावित्र्या तं **जपेद्** धरिम् ॥ +++(4)+++
+</details>
+
+
+<details><summary>English</summary>
+
+> after this he **should offer** arghya to the Supreme Being  
+who **is** in the sphere of the sun  
+and then **perform** japa,  
+**meditating** on Bhagavān with the mantra of Gāyatri. 
+</details>
+
+<details><summary>Español</summary>
+
+> después de esto **debería ofrecer** arghya al Ser Supremo  
+quien **está** en la esfera del sol  
+y luego **realizar** japa,  
+**meditando** en Bhagavān con el mantra de Gāyatri.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आदित्यान्तस्स्थितस्यार्घ्यं वितीर्य परमात्मनः । प्रतिपादिकया विष्णोस्सावित्र्या तं जपेद्धरिम् ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ध्यायन् **जप्त्वोपतिष्ठेत**  
+तम् एव पुरुषोत्तमम् ।  
+नारायणात्मकान् देवान्  
+ऋषीन् **सन्तर्पयेत्** पितॄन्’’ 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ध्यायन् **जप्त्वोपतिष्ठेत**  
+तम् एव पुरुषोत्तमम् ।  
+नारायणात्मकान् देवान्  
+ऋषीन् **सन्तर्पयेत्** पितॄन्’’ 
+
+</details>
+
+<details><summary>English</summary>
+
+> After the japa, he **should offer** praise to Puruṣottama.  
+**Oblations** of water (tarpana) **should** then be made to the gods, the rishis and the pitṛs (Manes, who have Narayaṇa as their inner self)." 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Después del japa, él **debe ofrecer** alabanza a Puruṣottama.  
+**Las oblaciones** de agua (tarpana) **deberían** entonces **hacerse** a los dioses, los rishis y los pitṛs (Manes, que **tienen** a Narayaṇa como su yo interior)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ध्यायन् जप्त्वोपतिष्ठेत तमेव पुरुषोत्तमम् । नारायणात्मकान् देवानृषीन् सन्तर्पयेत्पितॄन्’’ ऎऩ्ऱरुळिच्चॆय्दार्।
+</details>
+
+
+#### शिष्टाचरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भाष्य-कार-संप्रदायत्तिल् उळ्ळ कुलङ्गळ् ऎल्लाम्  
+इऩ्ऱ्-अऱुदिय्+++(=समाप्तं)+++ आग  
+स्व-सूत्रोक्तम् आऩ पडिये  
+तत्-तद्-देवता-मन्त्रङ्गळैक् कॊण्डु  
+विवाहोपनयनादिगळ् अनुष्ठिक्कवुङ् काणा निऩ्ऱोम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+भाष्यकारसंप्रदायत्तिलुळ्ळ कुलङ्गळॆल्लाम् इऩ्ऱऱुदियाग स्वसूत्रोक्तमाऩ पडिये तत्तद्देवतामन्त्रङ्गळैक्कॊण्डु विवाहोपनयनादिगळनुष्ठिक्कवुङ् गाणा निऩ्ऱोम्। 
+</details>
+
+
+**We see** also that, in all families which follow the tradition of the author of Śrī Bhāṣya, until the present day,  
+weddings and upanayanas (initiation with the sacred thread) have been performed  
+in accordance with their respective (Gṛhya) sūtras, (Āpastamba and the like)  
+with the respective mantras denoting the respective deities.+++(5)+++  
+
+It is also well-known to all that the great ācāryas like Periya Nambi **performed** yajnas (sacrifices) and the like  
+in accordance with their respective sūtras. 
+
+#### पाञ्चरात्र-विध्य्-अधिकारः
+Therefore in the case of those who **follow** the teaching of the author of Śrī Bhāṣya, his disciples and their disciples,  
+it **is not proper** to perform any rites (like those of weddings)  
+with the mantras in certain samhitās following the doctrines of the Āgamas (Pāñcharātra)  
+which **are prescribed** specially (to those who follow them).
+
+(Sātvatam, Padmam, Jayākhyam, etc. these **are** the āgama samhitās.)
 
 We have already shown in Śrī pañcarātrarakṣā (The Defence of Pāñcarātra) that the Pāñcarātra is of four kinds or systems (Āgama Siddhānta, Mantra Siddhānta, Tantra Siddhānta and Tantrāntara Siddhānta) in accordance with the competency and the like (ability) of the person concerned, that the principle holds good that what is not stated in any one of them should be taken from the others, provided there is no conflict or opposition and that, in all the four kinds of systems of Pāñcha rātra, the direct means or upāya of attaining mokṣa is set forth and that by every one of them there is the attainment of mokṣa, just in the same way as to all the four āśramas there are Brahma Vidyās (bhakti  and prapatti) and that to every one of them there is the possibility of attaining mokṣa. It has also been stated there, at considerable length, that if a person were to perform all karma s or rites with any mantras of his own liking, ignoring what is enjoined in those sustras as the proper thing for each kind or system, he should perform expiatory rites (prāyaścitta) and the like. Therefore until the time of attaining mukti, there is no authority for rendering service or kaiṅkarya (to the Lord) in any manner other than what is ordained in the śāstras as appropriate for each adhikārī.
 
