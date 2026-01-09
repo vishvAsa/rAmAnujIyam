@@ -4671,6 +4671,12 @@ servirá (también) como el **rendimiento** de la NITYA (por esa **actuación** 
 </details>
 
 
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
