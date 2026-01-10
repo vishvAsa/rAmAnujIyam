@@ -9745,32 +9745,299 @@ la pureza externa (āchāra) y los ritos purificatorios (samskāras) que **calif
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आहारग्रहमन्त्रार्थजात्यादि नियमैर्युतः ।  
-कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥  
+आहार-ग्रह-मन्त्रार्थ-  
+जात्य्-आदि **नियमैर् युतः** ।  
+**कुर्याल्** लक्ष्मीश-**कैङ्कर्यं**  
+शक्त्या ऽनन्य-प्रयोजनः ॥  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आहार-ग्रह-मन्त्रार्थ-  
+जात्य्-आदि **नियमैर् युतः** ।  
+**कुर्याल्** लक्ष्मीश-**कैङ्कर्यं**  
+शक्त्या ऽनन्य-प्रयोजनः ॥  
+</details>
+
+<details><summary>English</summary>
+
+**Observing** the **restrictions** concerning food,  
+residence (One **should live** near Bhagavatas) (if the reading is ‘gṛha’)  
+or **receiving** from the good ācārya the mantras **prescribed** for the person,  
+money (Money **should not be received** as a gift from the unworthy) ,  
+caste and the like,  
+one **should render service** to the Lord of Lakṣmī  
+in accordance with one's ability  
+and with no other aim or purpose.
+</details>
+
+<details><summary>Español</summary>
+
+**Respetando** las **restricciones** relativas a la **alimentación**,  
+**residencia** (Uno **debe vivir** cerca de Bhagavatas) (si la **lectura es** 'gṛha')  
+o **recibir** del buen ācārya los mantras **prescritos** para la persona,  
+dinero (el dinero **no debe recibirse** como regalo de personas indignas),  
+casta y similares,  
+uno **debe rendir servicio** al Señor de Lakṣmī  
+de acuerdo con la capacidad de cada uno  
+y sin ningún otro fin o finalidad.
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
-आहारग्रहमन्त्रार्थजात्यादि नियमैर्युतः ।  
+आहारग्रह(गृह)मन्त्रार्थजात्यादि नियमैर्युतः ।  
 कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मङ्गल्य-सूत्र-वस्त्रादीन्  
+**संरक्षति** यथा वधूः ।  
+तथा प्रपन्नश् शास्त्रीय-  
+पतिकैङ्कर्य-पद्धतिम् ॥  +++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मङ्गल्य-सूत्र-वस्त्रादीन्  
+**संरक्षति** यथा वधूः ।  
+तथा प्रपन्नश् शास्त्रीय-  
+पतिकैङ्कर्य-पद्धतिम् ॥  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Just in the same way as a chaste wife **looks after** her auspicious thread, clothes and the like with the greatest care,  
+the prapanna should **preserve** the path and manner **prescribed** in the Śāstras for the **service** of the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera que una esposa casta **cuida** su auspicioso hilo, ropa y cosas similares con el mayor cuidado,  
+el prapanna debe **preservar** el camino y la manera **prescritos** en los Śāstras para el **servicio** del Señor.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+मङ्गल्यसूत्रवस्त्रादीन् संरक्षति यथा वधूः ।  
+तथा प्रपन्नश्शास्त्रीयपतिकैङ्कर्यपद्धतिम् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्वन् मङ्गल्य-सूत्रादेस्  
+**त्यागे संरक्षणे** ऽपि वा ।  
+**रक्षेन्** निरोधैर् भोगैर् वा  
+पतिस् तद्वद् इहापि नः ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+यद्वन् मङ्गल्य-सूत्रादेस्  
+**त्यागे संरक्षणे** ऽपि वा ।  
+**रक्षेन्** निरोधैर् भोगैर् वा  
+पतिस् तद्वद् इहापि नः ॥  
+</details>
+
+<details><summary>English</summary>
+
+The husband **takes proper care** of his wife  
+either with **punishment** or with favours, respectively,  
+when she **loses** her thread and the like  
+or **guards them** with care.  
+So also **will** the Lord (his devotee for **giving up** or **performing** the enjoined rites).
+</details>
+
+<details><summary>Español</summary>
+
+El marido **cuida adecuadamente** a su esposa  
+ya sea con **castigo** o con favores, respectivamente,  
+cuando **pierde** su hilo y cosas así  
+o **los protege** con cuidado.  
+Así también **lo hará** el Señor (su devoto por **renunciar** o **realizar** los ritos ordenados).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद्वन्मङ्गल्यसूत्रादेस्त्यागे संरक्षणेऽपि वा ।  
+रक्षेन्निरोधैर्भोगैर्वा पतिस्तद्वदिहापि नः ॥  
+</details>
+
+### जाति-नियमाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवज्ञार्थम् अनर्थाय  
+भक्त-जन्मादि-चिन्तनम् ।  
+शास्त्र-व्यवस्था-मात्रार्थं  
+**न** तु तद् **दुष्यति** क्वचित् ॥  +++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अवज्ञार्थम् अनर्थाय  
+भक्त-जन्मादि-चिन्तनम् ।  
+शास्त्र-व्यवस्था-मात्रार्थं  
+**न** तु तद् **दुष्यति** क्वचित् ॥  +++(5)+++
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+"जाति-प्रश्नो मातृयोनिपरीक्षणम्" इति यद् उक्तम्, तत्र प्रसज्यते।  
+</details>
+
+<details><summary>English</summary>
+
+To **reflect** on such things as the caste of devotees  
+merely for the purpose of **treating them** with disregard **will** bring ruin;  
+but if it **is done** only for understanding the **restrictions enjoined** in the śāstras,  
+there **is no harm** in it anywhere.
+</details>
+
+<details><summary>Español</summary>
+
+**Reflexionar** sobre cosas como la casta de los devotos  
+simplemente con el propósito de **tratarlos** con desprecio **traerá** ruina;  
+pero si **se hace** sólo para comprender las **restricciones impuestas** en los śāstras,  
+no **hay ningún daño** en ello en ninguna parte.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवज्ञार्थमनर्थाय भक्तजन्मादिचिन्तनम् ।  
+शास्त्रव्यवस्थामात्रार्थं न तु तद्दुष्यति क्वचित् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव हि शास्त्रेषु  
+तत्-तज्-जात्यैव **दर्शिताः** ।  
+धर्म-व्याध--तुला-धार--  
+शबरी-विदुरादयः ॥ +++(5)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत एव हि शास्त्रेषु  
+तत्-तज्-जात्यैव **दर्शिताः** ।  
+धर्म-व्याध--तुला-धार--  
+शबरी-विदुरादयः ॥ +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+That **is** the reason why, in the Śāstras, Dharmavyadha Tuladhara, Sabari, Vidura and others  
+**are described** only by their respective castes.
+</details>
+
+<details><summary>Español</summary>
+
+Esa **ES** la razón por la cual, en los śāstras, Dharmavyadha Tuladhara, Sabari, Vidura y otros  
+**Están descritos** únicamente por sus respectivas castas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत एव हि शास्त्रेषु तत्तज्जात्यैव दर्शिताः ।  
+धर्मव्याधतुलाधारशबरीविदुरादयः ॥  
 
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-जात्य्-अनुगुणैवैषां  
+**वृत्तिर्** अप्य् ऐतिहासिकी ।  
+विशेष-विधि-**सिद्धन्** तु  
+तद्-बलात् तत्र **युज्यते** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-जात्य्-अनुगुणैवैषां  
+**वृत्तिर्** अप्य् ऐतिहासिकी ।  
+विशेष-विधि-**सिद्धन्** तु  
+तद्-बलात् तत्र **युज्यते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+Their **conduct**, too, as **described** in the Itihasas,  
+**was** only in accordance with their castes;  
+if there **was** any exceptional circumstances (in their lives against the rules of their caste),  
+it **was** due to the exceptional instructions or regulations. 
+
+(Vidura **was cremated** according to Brahma Medha rites  
+because an aerial voice **ordered** it.)
+</details>
+
+<details><summary>Español</summary>
+
+Su **conducta** también, como **descrita** en los Itihasas,  
+**era** sólo de acuerdo con sus castas;  
+si **hubo** alguna circunstancia excepcional (en sus vidas en contra de las reglas de su casta),  
+**fue** debido a instrucciones o regulaciones excepcionales. 
+
+(Vidura **fue incinerada** según los ritos de Brahma Medha  
+porque una voz aérea **lo ordenó**.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वजात्यनुगुणैवैषां वृत्तिरप्यैतिहासिकी ।  
+विशेषविधिसिद्धन्तु तद्बलात्तत्र युज्यते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देशकालाधिकार्य्-आदि-  
+विशेषेषु व्यवस्थिताः ।  
+**न** धर्माः **प्राप्तिम् अर्हन्ति**  
+देश-कालान्तरादिषु ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+देशकालाधिकार्य्-आदि-  
+विशेषेषु व्यवस्थिताः ।  
+**न** धर्माः **प्राप्तिम् अर्हन्ति**  
+देश-कालान्तरादिषु ॥  
+</details>
+
+<details><summary>English</summary>
+
+The dharmas or rites **prescribed** for a certain place, a certain period of time, a certain adhikārī and the like  
+**should not be adopted** at a different place and a different time or by another adhikārī.
+</details>
+
+<details><summary>Español</summary>
+
+Los dharmas o ritos **prescritos** para un determinado lugar, un determinado período de tiempo, un **determinado** adhikārī y similares  
+**no debe ser adoptado** en un lugar diferente y en un momento diferente o por otro adhikārī.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देशकालाधिकार्यादिविशेषेषु व्यवस्थिताः ।  
+न धर्माः प्राप्तिमर्हन्ति देशकालान्तरादिषु ॥  
+
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-मङ्गल्यसूत्रवस्त्रादीन् संरक्षति यथा वधूः ।  
-तथा प्रपन्नश्शास्त्रीयपतिकैङ्कर्यपद्धतिम् ॥  
-यद्वन्मङ्गल्यसूत्रादेस्त्यागे संरक्षणेऽपि वा ।  
-रक्षेन्निरोधैर्भोगैर्वा पतिस्तद्वदिहापि नः ॥  
-अवज्ञार्थमनर्थाय भक्तजन्मादिचिन्तनम् ।  
-शास्त्रव्यवस्थामात्रार्थं न तु तद्दुष्यति क्वचित् ॥  
-अत एव हि शास्त्रेषु तत्तज्जात्यैव दर्शिताः ।  
-धर्मव्याधतुलाधारशबरीविदुरादयः ॥  
-स्वजात्यनुगुणैवैषां वृत्तिरप्यैतिहासिकी ।  
-विशेषविधिसिद्धन्तु तद्बलात्तत्र युज्यते ॥  
-देशकालाधिकार्यादिविशेषेषु व्यवस्थिताः ।  
-न धर्माः प्राप्तिमर्हन्ति देशकालान्तरादिषु ॥  
 केचित्तत्तदुपाख्यानतात्पर्यग्रहणाक्षमाः ।  
 कलिकोलाहलक्रीडां वर्धयन्ति रमापतेः ॥  
 मातृभिः पितृभिश्चैताः पतिभिर्देवरैस्तथा ।  
@@ -9783,20 +10050,6 @@ la pureza externa (āchāra) y los ritos purificatorios (samskāras) que **calif
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-आहारग्रहमन्त्रार्थजात्यादि नियमैर्युतः ।  
-कुर्याल्लक्ष्मीशकैङ्कर्यं शक्त्यानन्यप्रयोजनः ॥  
-मङ्गल्यसूत्रवस्त्रादीन् संरक्षति यथा वधूः ।  
-तथा प्रपन्नश्शास्त्रीयपतिकैङ्कर्यपद्धतिम् ॥  
-यद्वन्मङ्गल्यसूत्रादेस्त्यागे संरक्षणेऽपि वा ।  
-रक्षेन्निरोधैर्भोगैर्वा पतिस्तद्वदिहापि नः ॥  
-अवज्ञार्थमनर्थाय भक्तजन्मादिचिन्तनम् ।  
-शास्त्रव्यवस्थामात्रार्थं न तु तद्दुष्यति क्वचित् ॥  
-अत एव हि शास्त्रेषु तत्तज्जात्यैव दर्शिताः ।  
-धर्मव्याधतुलाधारशबरीविदुरादयः ॥  
-स्वजात्यनुगुणैवैषां वृत्तिरप्यैतिहासिकी ।  
-विशेषविधिसिद्धन्तु तद्बलात्तत्र युज्यते ॥  
-देशकालाधिकार्यादिविशेषेषु व्यवस्थिताः ।  
-न धर्माः प्राप्तिमर्हन्ति देशकालान्तरादिषु ॥  
 केचित्तत्तदुपाख्यानतात्पर्यग्रहणाक्षमाः ।  
 कलिकोलाहलक्रीडां वर्धयन्ति रमापतेः ॥  
 मातृभिः पितृभिश्चैताः पतिभिर्देवरैस्तथा ।  
@@ -9807,23 +10060,10 @@ la pureza externa (āchāra) y los ritos purificatorios (samskāras) que **calif
 भक्तम्लेच्छादिपूजोक्तिरेवमेव नियम्यताम् ॥
 </details>
 
-Observing the restrictions concerning food, residence[^108] (if the reading is ‘gṛha’) or receiving from the good ācārya the mantras prescribed for the person, money[^109] , caste and the like, one should render service to the Lord of Lakṣmī in accordance with one's ability and with no other aim or purpose.
 
-[^108]: One should live near Bhagavatas:
 
-[^109]: Money should not be received as a gift from the unworthy,
 
-Just in the same way as a chaste wife looks after her auspicious thread, clothes and the like with the greatest care, the pra panna should preserve the path and manner prescribed in the Śāstras for the service of the Lord.
 
-The husband takes proper care of his wife either with punishment or with favours, respectively, when she loses her thread and the like or guards them with care. So also will the Lord (his devotee for giving up or performing the enjoined rites).
-
-To reflect on such things as the caste of devotees merely for the purpose of treating them with disregard will bring ruin; but if it is done only for understanding the restrictions enjoined in the śāstras, there is no harm in it anywhere.
-
-That is the reason why, in the Śāstras, Dharmavyadha Tuladhara, Sabari, Vidura and others are described only by their respective castes.
-
-Their conduct, too, as described in the Itihasas, was only in accordance with their castes; if there was any exceptional[^110] circumstances (in their lives against the rules of their caste), it was due to the exceptional instructions or regulations. The dharmas or rites prescribed for a certain place, a certain period of time, a certain adhikārī and the like should not be adopted at a different place and a different time or by another adhikārī.
-
-[^110]: Vidura was cremated according to Brahma Medha rites because an aerial voice ordered it.
 
 Some (people) who cannot understand the purport of certain episodes (in the Itihasas and Purāṇas) increase the līlā rasa which Bhagavān enjoys in Kaliyuga. " Daughters-in-law should be treated with regard and properly adorned by their mothers-in-law, their fathers-in-law, their husbands and so also by their brothers-in-law who desire to have varied prosperity. Those houses which are cursed by daughters-in-law on account of their ill treatment will fall into ruin as if pulled down by evil spirits". In statements like the above, the injunction about treating (the daughter-in-law) with regard has, on account of propriety, to be determined with proper restrictions in each case (the mother-in-law's regard is shown differently from that of the husband or the brother-in-law and so on). So also injunctions regarding the respect to be shown to devotees among mlecchas and the like have to be understood with proper reservations and restrictions.
 
