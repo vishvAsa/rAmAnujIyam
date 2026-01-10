@@ -3202,7 +3202,7 @@ y aquellos que **imponen** bhakti yoga y similares).
 
 <details><summary>मूलम्</summary>
 
-इप्पडियाऩा लॊरु प्रमाणङ्गळुक्कुम् विरोधमिल्लै।
+इप्पडियाऩालॊरु प्रमाणङ्गळुक्कुम् विरोधमिल्लै।
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -3211,8 +3211,7 @@ y aquellos que **imponen** bhakti yoga y similares).
 </details>
 
 
-## अधिकार-भ्रमाः
-### पूर्वाचार्य-चर्चाविषयोऽन्यः
+## पूर्वाचार्य-योजना-भेदः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3518,6 +3517,7 @@ eso **se demostró** que **no tenía** ningún fundamento por parte de maestros 
 
 
 
+## अधिकार-भ्रमाः
 ### ज्ञतृता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3917,7 +3917,8 @@ cuando **está sin** la **habilidad** de **adoptar** ese (upāsana),
 (रामायणम् सुन्दरकाण्डम् ३९-३०) 
 > 
 > ऎऩ्गिऱप् पडिये  
-रक्षकऩ् कै पार्त्तुत् ताऩ् कैवाङ्गियिरुक्कैयऩ्ऱो उचितम् 
+रक्षकऩ् कै पार्त्तुत्  
+ताऩ् कै वाङ्गिय् इरुक्कैय् अऩ्ऱो उचितम् 
 
 ऎऩ्ऩिल्
 </details>
@@ -10564,6 +10565,22 @@ y esto **se declara** mediante el **orden contenido** en la palabra parityajya (
 **न** तद्-अर्थं **समार्जयेत्** ॥
 </details>
 
+<details><summary>English</summary>
+
+1. Therefore one **should not perform**, for the sake of prapatti,  
+those things of which one **is capable**,  
+nor should one **acquire**, for the sake of prapatti, the ability or skill **needed** to **accomplish** what one **is incapable** of.
+</details>
+
+<details><summary>Español</summary>
+
+1. Por lo tanto, uno **no debe realizar**, por el bien de prapatti,  
+aquellas cosas de las que uno **es capaz**,  
+
+ni uno debe **adquirir**, por el bien de prapatti, la habilidad o destreza  
+**necesaria** para **lograr** lo que uno **es incapaz** de hacer.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -10571,9 +10588,43 @@ y esto **se declara** mediante el **orden contenido** en la palabra parityajya (
 अशक्येषु च सामर्थ्यं न तदर्थं समार्जयेत् ॥
 </details>
 
-1. Therefore one **should not perform**, for the sake of prapatti, those things of which one is capable, nor should one acquire, for the sake of prapatti, the ability or skill needed to accomplish what one is incapable of.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-According to this interpretation ( of the word parityajya in the Carama śloka ), ākiñcanya or being destitute of upāyas which confers competence (adhikāra) for prapatti is suggested by the sentence which states "Do not grieve". If parityajya, on the other hand, is considered as an anuvāda or expression of what has already occurred (namely, the person being incapable of any upāya), then, the word ‘eka’ (me alone) indicates that among those rites which arise from the Lord's command and those which are approved of by him, there is no connection between such of them as are performed as being within the range of a man's ability and prapatti. In this interpretation, the sentence ma śuchah (Do not grieve) makes clear the qualification (adhikāra) needed for prapatti which has already been expressed (in parityajya) and indicates also the manner in which the prapanna should conduct himself after the performance of prapatti (i.e.) being free from all care or anxiety.
+इन्द योजऩैयिल्  
+
+> अधिकारम् आऩव् आकिञ्चन्यमुम्  
+शोकियादे कॊळ्ळ्  
+
+ऎऩ्ऱु तेऱ्ऱु+++(=सान्त्वनं)+++ विक्किऱ वाक्यत्ताले सूचितम्। 
+</details>
+
+<details><summary>English</summary>
+
+According to this **interpretation** ( of the word parityajya in the Carama śloka ),  
+ākiñcanya or **being destitute** of upāyas  
+which **confers** competence (adhikāra) for prapatti  
+**is suggested** by the sentence which **states**  
+"**Do not grieve**". 
+</details>
+
+<details><summary>Español</summary>
+
+Según esta **interpretación** (de la palabra parityajya en el Carama śloka),  
+ākiñcanya o **estar indigente** de upāyas  
+que **confiere** competencia (adhikāra) para prapatti  
+**se sugiere** en la frase que **dice**  
+"**No te aflijas**".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द योजऩैयिल् अधिकारमाऩवाकिञ्चन्यमुम् शोकियादे कॊळ् ळॆऩ्ऱु तेऱ्ऱुविक्किऱ वाक्यत्ताले सूचितम्। 
+</details>
+
+
+
+
+If parityajya, on the other hand, is considered as an anuvāda or expression of what has already occurred (namely, the person being incapable of any upāya), then, the word ‘eka’ (me alone) indicates that among those rites which arise from the Lord's command and those which are approved of by him, there is no connection between such of them as are performed as being within the range of a man's ability and prapatti. In this interpretation, the sentence ma śuchah (Do not grieve) makes clear the qualification (adhikāra) needed for prapatti which has already been expressed (in parityajya) and indicates also the manner in which the prapanna should conduct himself after the performance of prapatti (i.e.) being free from all care or anxiety.
 
 There are some other ways of interpreting the word (parityajya) without treating the injunction regarding 'giving up' as having no authority :
 
