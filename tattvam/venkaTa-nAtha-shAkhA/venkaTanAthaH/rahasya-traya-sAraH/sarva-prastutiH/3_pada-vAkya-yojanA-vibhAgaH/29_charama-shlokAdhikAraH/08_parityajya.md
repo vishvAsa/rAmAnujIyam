@@ -10031,89 +10031,547 @@ Los dharmas o ritos **prescritos** para un determinado lugar, un determinado per
 
 देशकालाधिकार्यादिविशेषेषु व्यवस्थिताः ।  
 न धर्माः प्राप्तिमर्हन्ति देशकालान्तरादिषु ॥  
+</details>
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+केचित् तत्-तद्-उपाख्यान-  
+तात्पर्य-ग्रहणाक्षमाः ।  
+कलि-कोलाहल-क्रीडां  
+वर्धयन्ति रमा-पतेः ॥ +++(4)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+केचित् तत्-तद्-उपाख्यान-  
+तात्पर्य-ग्रहणाक्षमाः ।  
+कलि-कोलाहल-क्रीडां  
+वर्धयन्ति रमा-पतेः ॥ +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+Some (people) who **cannot understand** the purport of certain episodes (in the Itihasas and Purāṇas)  
+**increase** the līlā rasa which Bhagavān enjoys in Kaliyuga. 
+</details>
+
+<details><summary>Español</summary>
+
+Algunas (personas) que **no pueden entender** el significado de ciertos episodios (en los Itihasas y Purāṇas)  
+**aumentar** el līlā rasa que Bhagavān **disfruta** en Kaliyuga.
+</details>
+
+<details><summary>मूलम्</summary>
+
+केचित्तत्तदुपाख्यानतात्पर्यग्रहणाक्षमाः ।  
+कलिकोलाहलक्रीडां वर्धयन्ति रमापतेः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मातृभिः पितृभिश् चैताः  
+पतिभिर् देवरैस् तथा ।  
+**पूज्या** भूषयितव्याश् च  
+बहु-कल्याणम् **ईप्सुभिः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मातृभिः पितृभिश् चैताः  
+पतिभिर् देवरैस् तथा ।  
+**पूज्या** भूषयितव्याश् च  
+बहु-कल्याणम् **ईप्सुभिः** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+> Daughters-in-law **should be treated** with regard and properly adorned by their mothers-in-law, their fathers-in-law, their husbands and so also by their brothers-in-law  
+who **desire** to have varied prosperity. 
+</details>
+
+<details><summary>Español</summary>
+
+> Las nueras **deben ser tratadas** con respeto y **adornadas** adecuadamente por sus suegras, sus suegros, sus maridos y también por sus cuñados  
+que **desean tener** prosperidad variada.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+मातृभिः पितृभिश्चैताः पतिभिर्देवरैस्तथा ।  
+पूज्या भूषयितव्याश्च बहुकल्याणमीप्सुभिः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जामयो+++(=स्नुषा)+++ यानि गेहानि  
+**शपन्त्य् अप्रतिपूजिताः** ।  
+तानि कृत्याहतानीव  
+**विनश्यन्ति** समन्ततः ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> जामयो+++(=स्नुषा)+++ यानि गेहानि  
+**शपन्त्य् अप्रतिपूजिताः** ।  
+तानि कृत्याहतानीव  
+**विनश्यन्ति** समन्ततः ॥  
+</details>
+
+<details><summary>English</summary>
+
+> Those houses which **are cursed** by daughters-in-law  
+on account of their **ill treatment**  
+**will fall** into **ruin**  
+as if **pulled down** by evil spirits". 
+</details>
+
+<details><summary>Español</summary>
+
+> Esas casas que **están maldecidas** por las nueras  
+a causa de sus **malos tratos**  
+**caerán** en **ruina**  
+como **derribadas** por espíritus malignos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जामयो यानि गेहानि शपन्त्य प्रतिपूजिताः ।  
+तानि कृत्याहतानीव विनश्यन्ति समन्ततः ॥  
 </details>
 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-केचित्तत्तदुपाख्यानतात्पर्यग्रहणाक्षमाः ।  
-कलिकोलाहलक्रीडां वर्धयन्ति रमापतेः ॥  
-मातृभिः पितृभिश्चैताः पतिभिर्देवरैस्तथा ।  
-पूज्या भूषयितव्याश्च बहुकल्याणमीप्सुभिः ॥  
-जामयो यानि गेहानि शपन्त्य प्रतिपूजिताः ।  
-तानि कृत्याहतानीव विनश्यन्ति समन्ततः ॥  
+एवम्-आदिषु **पूजोक्तिर्**  
+यथौचित्यान् **नियम्यते** ।  
+भक्त-म्लेच्छादि-पूजोक्तिर्  
+एवम् एव **नियम्यताम्** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवम्-आदिषु पूजोक्तिर्  
+यथौचित्यान् **नियम्यते** ।  
+भक्त-म्लेच्छादि-पूजोक्तिर्  
+एवम् एव **नियम्यताम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+In statements like the above, the **injunction** about **treating** (the daughter-in-law) with regard **has**, on account of propriety,  
+to **be determined** with proper restrictions in each case  
+(the mother-in-law's regard **is shown** differently from that of the husband or the brother-in-law and so on). 
+
+So also **injunctions regarding** the respect to be shown to devotees among mlecchas and the like  
+**have to be understood** with proper reservations and restrictions.
+</details>
+
+<details><summary>Español</summary>
+
+En declaraciones como las anteriores, el **orden** sobre **tratar** (a la nuera) con respeto **tiene**, por razones de decoro,  
+**por determinar** con las restricciones adecuadas en cada caso  
+(la **consideración** de la suegra **se muestra** diferente a la del marido o el cuñado, etc.). 
+
+Así también **mandatos respecto** del respeto que **se debe mostrar** a los devotos entre mlecchas y similares.  
+**deben entenderse** con las reservas y restricciones adecuadas.
+</details>
+
+
+<details><summary>मूलम् (सं॰प॰)</summary>
+
 एवमादिषु पूजोक्तिर्यथौचित्यान्नियम्यते ।  
 भक्तम्लेच्छादिपूजोक्तिरेवमेव नियम्यताम् ॥
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-केचित्तत्तदुपाख्यानतात्पर्यग्रहणाक्षमाः ।  
-कलिकोलाहलक्रीडां वर्धयन्ति रमापतेः ॥  
-मातृभिः पितृभिश्चैताः पतिभिर्देवरैस्तथा ।  
-पूज्या भूषयितव्याश्च बहुकल्याणमीप्सुभिः ॥  
-जामयो यानि गेहानि शपन्त्य प्रतिपूजिताः ।  
-तानि कृत्याहतानीव विनश्यन्ति समन्ततः ॥  
-एवमादिषु पूजोक्तिर्यथौचित्यान्नियम्यते ।  
-भक्तम्लेच्छादिपूजोक्तिरेवमेव नियम्यताम् ॥
+इन् नियमगळ् ऎल्लाम् संप्रतिपन्न-शिष्टानुष्ठान-परं-परैयालुम् सिद्धङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+These **reservations** and **restrictions** **are established** also by the **practice** of successive generations of men  
+**accepted** on all hands as wise and virtuous. 
+</details>
+
+<details><summary>Español</summary>
+
+Estas **reservas** y **restricciones** **están establecidas** también por la **práctica** de sucesivas generaciones de hombres  
+**aceptado** por todos como sabio y virtuoso.
 </details>
 
 
+<details><summary>मूलम्</summary>
+
+इन् नियमकळॆल्लाम् संप्रतिपन्नशिष्टानुष्ठानपरंपरैयालुम् सिद्धङ्गळ्। 
+</details>
+
+### परमैकान्तिवाविरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्, तऩ् वर्णाश्रमादिगळुक्क् अडैत्त नियमङ्गळोडे  
+भगवत्-कैङ्कर्यम् पण्णुगै  
+परमैकान्तित्व-विरुद्धम् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore the **performance** of the Lord's **service** along  
+with the **observance** of the regulations  
+**enjoined** for the respective castes and āśramas  
+**is not opposed** to the state of supreme and exclusive **devotion** to the Lord (paramaikāntitva).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la **realización** del **servicio** del Señor junto con  
+con el **cumplimiento** de la normativa  
+**ordenada** para las respectivas castas y āśramas  
+**no se opone** al estado de **devoción** suprema y exclusiva al Señor (paramaikāntitva).
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+आगैयाल् तऩ् वर्णाश्रमादिगळुक्कडैत्त नियमङ्गळोडे भगवत्कैङ्कर्यम् पण्णुगै परमैकान्तित्वविरुद्धमऩ्ऱु। 
+</details>
+
+#### सार-कल्क-विभागः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साक्षाल् लक्ष्मी-पताव् एव  
+कृतं कैङ्कर्यम् अञ्जसा ।  
+सार-कल्क-विभागेन  
+द्विधा सद्भिर् **उदीर्यते** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+साक्षाल् लक्ष्मी-पताव् एव  
+कृतं कैङ्कर्यम् अञ्जसा ।  
+सार-कल्क-विभागेन  
+द्विधा सद्भिर् **उदीर्यते** ॥  
+</details>
 
 
-Some (people) who cannot understand the purport of certain episodes (in the Itihasas and Purāṇas) increase the līlā rasa which Bhagavān enjoys in Kaliyuga. " Daughters-in-law should be treated with regard and properly adorned by their mothers-in-law, their fathers-in-law, their husbands and so also by their brothers-in-law who desire to have varied prosperity. Those houses which are cursed by daughters-in-law on account of their ill treatment will fall into ruin as if pulled down by evil spirits". In statements like the above, the injunction about treating (the daughter-in-law) with regard has, on account of propriety, to be determined with proper restrictions in each case (the mother-in-law's regard is shown differently from that of the husband or the brother-in-law and so on). So also injunctions regarding the respect to be shown to devotees among mlecchas and the like have to be understood with proper reservations and restrictions.
+<details><summary>English</summary>
 
-These reservations and restrictions are established also by the practice of successive generations of men accepted on all hands as wise and virtuous. Therefore the performance of the Lord's service along with the observance of the regulations enjoined for the respective castes and āśramas is not opposed to the state of supreme and exclusive devotion to the Lord (paramaikāntitva).
+Even the **service rendered** directly to the Lord of Lakṣmī  
+**is** surely **divided** by good men into two classes : valuable and worthless.
+</details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+<details><summary>Español</summary>
+
+Incluso el **servicio rendido** directamente al Señor de Lakṣmī  
+**está** seguramente **dividido** por los hombres buenos en dos clases: valiosos y sin valor.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 साक्षाल्लक्ष्मीपतावेव कृतं कैङ्कर्यमञ्जसा ।  
 सारकल्कविभागेन द्विधा सद्भिरुदीर्यते ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृत-कृत्यस्य **कैङ्कर्यं**  
+यद् अन्-अन्य-प्रयोजनम् ।  
+गुर्व्-आदि-रक्षणार्थं वा  
+तत् सारं **संप्रचक्षते** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कृत-कृत्यस्य **कैङ्कर्यं**  
+यद् अन्-अन्य-प्रयोजनम् ।  
+गुर्व्-आदि-रक्षणार्थं वा  
+तत् सारं **संप्रचक्षते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+That (service) **is declared** to be valuable service  
+which **is rendered** by the man  
+who **has done** what he **ought to do** (i.e. the prapanna)  
+with no other aim  
+and for no other purpose (i.e. for its own sake)  
+or for the **protection** of such persons as gurus.
+</details>
+
+<details><summary>Español</summary>
+
+Ese (servicio) **se declara** como un servicio valioso  
+que **es prestado** por el hombre  
+quien **ha hecho** lo que **debería hacer** (es decir, la prapanna)  
+sin otro objetivo  
+y sin ningún otro propósito (es decir, por sí mismo)  
+o para la **protección** de personas como gurús.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 कृतकृत्यस्य कैङ्कर्यं यदनन्यप्रयोजनम् ।  
 गुर्वादिरक्षणार्थं वा तत्सारं संप्रचक्षते ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+डंभार्थं परपीडार्थं  
+तन्-निरोधार्थम् एव वा ।  
+प्रयोजनान्तरार्थं वा  
+**कैङ्कर्यं** कल्क **इष्यते** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+डंभार्थं परपीडार्थं  
+तन्-निरोधार्थम् एव वा ।  
+प्रयोजनान्तरार्थं वा  
+**कैङ्कर्यं** कल्क **इष्यते** ॥
+</details>
+
+<details><summary>English</summary>
+
+That (service) **is declared** to **be** of no value  
+which **is rendered** for ostentation (or vanity), for **injuring** others, for **preventing** others from rendering service or for the sake of some gain.
+</details>
+
+<details><summary>Español</summary>
+
+Ese (**servicio**) **se declara** como **sin valor**  
+que **se presta** por ostentación (o vanidad), por **dañar** a otros, por **impedir** que otros presten servicio o por el bien de alguna ganancia.
+</details>
+
+<details><summary>मूलम् (सं॰प॰)</summary>
+
 डंभार्थं परपीडार्थं तन्निरोधार्थमेव वा ।  
 प्रयोजनान्तरार्थं वा कैङ्कर्यं कल्क इष्यते ॥
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
 
-साक्षाल्लक्ष्मीपतावेव कृतं कैङ्कर्यमञ्जसा ।  
-सारकल्कविभागेन द्विधा सद्भिरुदीर्यते ॥  
-कृतकृत्यस्य कैङ्कर्यं यदनन्यप्रयोजनम् ।  
-गुर्वादिरक्षणार्थं वा तत्सारं संप्रचक्षते ॥  
-डंभार्थं परपीडार्थं तन्निरोधार्थमेव वा ।  
-प्रयोजनान्तरार्थं वा कैङ्कर्यं कल्क इष्यते ॥
+
+
+#### ग्रहणे तारतम्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परमैकान्तिगळ् अल्लादार् पण्णुम् कैङ्कर्यत्तै  
+सर्वेश्वरऩ् तिरुव्-अडिगळाले कैक् कॊळ्ळुम्  
+
+ऎऩ्ऩुमिडत्तैयुम्, 
 </details>
 
-Even the service rendered directly to the Lord of Lakṣmī is surely divided by good men into two classes : valuable and worthless.
+<details><summary>English</summary>
 
-That (service) is declared to be valuable service which is rendered by the man who has done what he ought to do (i.e. the prapanna) with no other aim and for no other purpose (i.e. for its own sake) or for the protection of such persons as gurus.
+The Lord of all **receives**, with His feet,  
+the **service rendered** by those who **have no** supreme and exclusive **devotion** to Him 
+</details>
 
-That (service) is declared to be of no value which is rendered for ostentation (or vanity), for injuring others, for preventing others from rendering service or for the sake of some gain.
+<details><summary>Español</summary>
 
-The Lord of all receives, with His feet, the service rendered by those who have no supreine and exclusive devotion to Him and that done by those who have supreme and exclusive devotion to Him, with His head. This idea is expressed by Bhagavān Veda Vyasa in the following (passages ):" That which is offered to the gods and the Pitṛs (Manes) in accordance with the prescribed rules
+El Señor de todo **recibe**, con Sus pies,  
+el **servicio prestado** por aquellos que **no tienen** **devoción** suprema y exclusiva hacia Él
+</details>
 
-reaches the feet of the God of gods. The rites performed by wise men who have supreme and exclusive devotion to Bhagavān - these Bhagavān receives with His head".
 
-The rites, nitya and naimittika, which are performed in this way as commandments of the Lord (ājñā) and those valuable services which are rendered by a man for the pleasure of the Lord as those approved by Him (anujñā) - these have no connection with prapatti and this is declared by the injunction contained in the word parityajya (having given up) (in the carama śloka ).
+<details><summary>मूलम्</summary>
+
+परमैकान्तिकळल्लादार् पण्णुम् कैङ्कर्यत्तै सर्वेश्वरऩ् तिरुवडिगळाले कैक्कॊळ्ळुमॆऩ्ऩुमिडत्तैयुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परमैकान्तिगळ् पण्णुम् कैङ्कर्यत्तैत्  
+तिरु-मुडियाले कैक्-कॊळ्ळुम् 
+
+ऎऩ्ऩुम् इडत्तैयुम् 
+</details>
+
+<details><summary>English</summary>
+
+and (**receives**) that **done** by those who **have** supreme and exclusive devotion to Him, with His head. 
+</details>
+
+<details><summary>Español</summary>
+
+y (**recibe**) aquello **hecho** por aquellos que **tienen devoción** suprema y exclusiva hacia Él, con Su cabeza.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमैकान्तिकळ् पण्णुम् कैङ्कर्यत्तैत् तिरुमुडियाले कैक्कॊळ्ळुमॆऩ्ऩुमिडत्तैयुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तत् सर्वन् देव-देवस्य  
+चरणाव् उपतिष्ठते’’  
+(भारतम् शान्ति-पर्व ३५८-६३) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तत् सर्वन् देव-देवस्य  
+चरणाव् उपतिष्ठते’’  
+(भारतम् शान्ति-पर्व ३५८-६३) 
+
+</details>
+
+<details><summary>English</summary>
+
+> That which **is offered** to the gods and the Pitṛs (Manes) in accordance with the prescribed rules **reaches** the feet of the God of gods.  
+</details>
+
+<details><summary>Español</summary>
+
+> Aquello que **se ofrece** a los dioses y a los Pitṛs (Manes) de acuerdo con las reglas **prescritas llega** a los pies del Dios de dioses.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तत्सर्वन्देवदेवस्य चरणावुपतिष्ठते’’(भारतम् शान्ति-पर्व ३५८-६३) ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘याः **क्रियास् संप्रयुक्तास्** स्युर्  
+एकान्त-गत-बुद्धिभिः ।  
+तास् सर्वाश् शिरसा देवः  
+**प्रतिगृह्णाति** वै स्वयम्’’  
+(भारतम् शान्ति-पर्व ३५८-६४) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘याः **क्रियास् संप्रयुक्तास्** स्युर्  
+एकान्त-गत-बुद्धिभिः ।  
+तास् सर्वाश् शिरसा देवः  
+**प्रतिगृह्णाति** वै स्वयम्’’  
+(भारतम् शान्ति-पर्व ३५८-६४) 
+</details>
+
+<details><summary>English</summary>
+
+> The rites **performed** by wise men who have supreme and exclusive **devotion** to Bhagavān -  
+these Bhagavān **receives** with His head.
+</details>
+
+<details><summary>Español</summary>
+
+> Los ritos **realizados** por hombres sabios que **tienen devoción** suprema y exclusiva a Bhagavān -  
+estos Bhagavān **los recibe** con Su cabeza.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘याः क्रियास्संप्रयुक्तास्स्युरेकान्तगतबुद्धिभिः । तास्सर्वाश्शिरसादेवः प्रतिगृह्णाति वै स्वयम्’’(भारतम् शान्ति-पर्व ३५८-६४) ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्री-वेद-व्यास-भगवाऩ् अरुळिच् चॆय्दाऩ्।
+</details>
+
+<details><summary>English</summary>
+
+This idea **is expressed** by Bhagavān Veda Vyasa in the above (passages ).
+</details>
+
+<details><summary>Español</summary>
+
+Esta idea **es expresada** por Bhagavān Veda Vyasa en los (pasajes) anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीवेदव्यासभगवाऩरुळिच् चॆय्दाऩ्।
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् इवऩ् भगवद्-आज्ञैयालेय् अनुष्ठिक्किऱ नित्य-नैमित्तिकङ्गळुम्,  
+भगवद्-अनुज्ञैयाले इवऩ्+++(=भगवद्)+++-उगप्पे प्रयोजनम् आगव् अनुष्ठिक्किऱव् एऱ्ऱम् आऩ कैङ्कर्यङ्गळुम्  
+
+इप्-प्रपत्तियोडु तुवक्क्-अऱ्ऱु निऩ्ऱ निलै  
+
+‘‘सर्व-धर्मान् परित्यज्य’’  
+ऎऩ्गिऱ विधानत्ताले सिद्धम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+The rites, nitya and naimittika, which **are performed** in this way as commandments of the Lord (ājñā)  
+
+and those valuable **services** which **are rendered** by a man for the **pleasure** of the Lord  
+as those **approved** by Him (anujñā) - 
+
+these **have no connection** with prapatti  
+and this **is declared** by the **injunction contained** in the word parityajya (**having given up**) (in the carama śloka ).
+</details>
+
+<details><summary>Español</summary>
+
+Los ritos, nitya y naimittika, que **se realizan** de esta manera como **mandamientos** del Señor (ājñā)  
+
+y esos **servicios** valiosos que **son prestados** por un hombre para el **deleite** del Señor  
+como aquellos **aprobados** por Él (anujñā) - 
+
+estos **no tienen conexión** con prapatti  
+y esto **se declara** mediante el **orden contenido** en la palabra parityajya (**habiéndose rendido**) (en el carama śloka).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियिवऩ् भगवदाज्ञैयाले यनुष्ठिक्किऱ नित्यनैमित्तिकङ्गळुम् भगवदनुज्ञैयाले इवऩुगप्पे प्रयोजनमागवनुष्ठिक्किऱवेऱ्ऱमाऩ कैङ्कर्यङ्गळुम् इप्प्रपत्तियोडु तुवक्कऱ्ऱु निऩ्ऱ निलै ‘‘सर्वधर्मान् परित्यज्य’’ ऎऩ्गिऱ विधानत्ताले सिद्धमायिऱ्ऱु। 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+अतश् **शक्यानि** सर्वाणि  
+**न** प्रपत्त्य्-अर्थम् **आचरेत्** ।  
+अ-शक्येषु च सामर्थ्यं  
+**न** तद्-अर्थं **समार्जयेत्** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतश् **शक्यानि** सर्वाणि  
+**न** प्रपत्त्य्-अर्थम् **आचरेत्** ।  
+अ-शक्येषु च सामर्थ्यं  
+**न** तद्-अर्थं **समार्जयेत्** ॥
+</details>
+
+
+<details><summary>मूलम् (सं॰प॰)</summary>
 
 अतश्शक्यानि सर्वाणि न प्रपत्त्यर्थमाचरेत् ।  
 अशक्येषु च सामर्थ्यं न तदर्थं समार्जयेत् ॥
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
-
-अतश्शक्यानि सर्वाणि न प्रपत्त्यर्थमाचरेत् ।  
-अशक्येषु च सामर्थ्यं न तदर्थं समार्जयेत् ॥
-</details>
-
-1. Therefore one should not perform, for the sake of prapatti, those things of which one is capable, nor should one acquire, for the sake of prapatti, the ability or skill needed to accomplish what one is incapable of.
+1. Therefore one **should not perform**, for the sake of prapatti, those things of which one is capable, nor should one acquire, for the sake of prapatti, the ability or skill needed to accomplish what one is incapable of.
 
 According to this interpretation ( of the word parityajya in the Carama śloka ), ākiñcanya or being destitute of upāyas which confers competence (adhikāra) for prapatti is suggested by the sentence which states "Do not grieve". If parityajya, on the other hand, is considered as an anuvāda or expression of what has already occurred (namely, the person being incapable of any upāya), then, the word ‘eka’ (me alone) indicates that among those rites which arise from the Lord's command and those which are approved of by him, there is no connection between such of them as are performed as being within the range of a man's ability and prapatti. In this interpretation, the sentence ma śuchah (Do not grieve) makes clear the qualification (adhikāra) needed for prapatti which has already been expressed (in parityajya) and indicates also the manner in which the prapanna should conduct himself after the performance of prapatti (i.e.) being free from all care or anxiety.
 
