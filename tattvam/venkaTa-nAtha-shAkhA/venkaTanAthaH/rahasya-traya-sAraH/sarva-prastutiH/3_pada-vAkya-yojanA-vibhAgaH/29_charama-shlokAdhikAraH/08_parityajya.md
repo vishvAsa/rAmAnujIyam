@@ -7608,6 +7608,10 @@ que estos upāsanas
 फलत्तुक्कु साक्षाद्-उपायम् अऩ्ऱिक्के निऱ्किऱ निलैयुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+फलोपाय-भूत-शरण्य- प्रसादन-रूपतया साक्षाद् उपायत्व-वैधुर्येणावस्थितेः, 
+</details>
 
 
 <details><summary>English</summary>
@@ -7637,6 +7641,15 @@ quien **es** el medio directo o upāya para **obtener** este fin,
 
 जॊल्लुगैयिले, नोक्क् आगक् कडवदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेनोपासनेन प्रसन्नस्य सर्वेश्वरस्यैव  
+फलं प्रति साक्षाद् उपायरूपेणावस्थितेश् च  
+
+प्रतिपादने तात्पर्यं भवितुम् अर्हति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7670,6 +7683,15 @@ Quién **está complacido** con estos upāsanas
 भक्ति-योगादिगळिऩ् कट्टळै कुलैयाद् इरुन्दालुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-तन्त्र-प्रपत्ति-निष्ठ-विषये  
+एषां श्लोकानां योजने,  
+अनेन +++(प्रपन्नेन)+++ आज्ञानुज्ञाभिः क्रियमाणेषु कैङ्कर्येषु सर्वेषु  
+भक्ति-योगादि-विधि-व्यवस्था-भङ्गं विनैवानुष्ठेयेष्व् अपि 
+</details>
+
+
 <details><summary>English</summary>
 
 When the ślokas **are considered** in relation to the man who **has adopted** prapatti as the principal and independent means -  
@@ -7697,6 +7719,14 @@ tal como **están recomendados** para el bhakti yoga,
 वेऱ् ऒरु स्वर्ग-मोक्षादि-प्रयोजनत्तुक्क् उपायम् आग अनुष्ठिक्किऱाऩ् अल्लामैयाले
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वामि-सन्तोषं विना  
+अन्यस्य कस्यचिन् मोक्षादि-प्रयोजनस्य  
+उपायत्वेनैतद्-अननुष्ठानाद्  
+</details>
+
+
 <details><summary>English</summary>
 
 since he **does not perform** them for the sake of other objects like svarga and mokṣa  
@@ -7720,6 +7750,12 @@ y **los realiza** únicamente para **agradar** al Señor,
 
 इवऩुक्क् अनन्योपायतैयुम् अनन्य-प्रयोजनतैयुङ् कुलैयादेय् इरुक्किऱ बडियैयुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्यानुष्ठातुर् अनन्योपायताया अनन्यप्रयोजनतायाश् चाभङ्गस्य, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7747,6 +7783,15 @@ y **no tiene** otros intereses u objetivos.
 
 जॊल्लुगैयिले तात्पर्यम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अकिञ्चनम् एतं प्रति  
+ईश्वरस्यैवोपायन्तर-स्थाने स्थित्वा फलप्रदातृत्वस्य च  
+प्रतिपादने तात्पर्यम् ॥  
+[[P365]]
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7780,6 +7825,15 @@ Su objetivo **es mostrar** (lo anterior).
 > > ‘‘प्रतिबुद्धा न सेवन्ते’’  
 (भारतम् शान्ति-पर्व ३५०-३६), 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> उभयेष्व् अप्य् अधिकारिषु  
+> 
+> > ‘‘प्रतिबुद्धा न सेवन्ते’’  
+(भारतम् शान्ति-पर्व ३५०-३६), 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7882,6 +7936,13 @@ y que **me buscan** solo como su upāya"
 परमैकान्तिगळ् आय् इरुक्क, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> इत्य्-आद्य्-उक्त-रीत्या  
+परमैकान्तिषु सत्सु 
+</details>
+
+
 <details><summary>English</summary>
 
 > **are devoted** solely and exclusively to the Lord  
@@ -7905,6 +7966,13 @@ y que **me buscan** solo como su upāya"
 > इङ्गु ‘‘निजकर्मादि-भक्त्यन्तं’’ ऎऩ्ऱ् अरुळिच् चॆय्द पडिये  
 वर्णाश्रमादि-धर्मङ्गळै इवर्गळ् अनुष्ठिक्कप् पुक्काल्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत्र "निज-कर्मादि भक्त्यन्तम्" इत्य्-उक्तरीत्या  
+वर्णाश्रम-धर्माणाम् अनुष्ठानार्थम् एषां प्रवृत्तौ 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7932,6 +8000,13 @@ a saber, "todos los karmas **pertenecientes** a ellos y también al bhakti",
 > अग्नीन्द्रादि-देवता-व्यामिश्रतैयाले परमैकान्तित्वङ् कुलैयादोव् ?
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अग्नीन्द्रादि-देवताव्यामिश्रत्वात्  
+परमैकान्तित्वं किं न भ्रश्येद्? 
+</details>
+
+
 <details><summary>English</summary>
 
 > **would not** their supreme and exclusive **devotion** to the Lord  
@@ -7958,6 +8033,12 @@ En la medida en que estos ritos o dharmas **están mezclados** con (la adoració
 चोद्यम् पण्णुवर्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इति वेदान्त-व्युत्पत्ति-शून्याश् चोद्यं कुर्युः ।
+</details>
+
+
 <details><summary>English</summary>
 
 Those who **have not studied** Vedānta might **ask** (in this connection, the above).
@@ -7979,10 +8060,20 @@ Aquellos que **no han estudiado** Vedānta **podrían preguntar** (en este senti
 
 इव्व् इडत्तिल्  
 
-> ‘‘साक्षाद् अप्य् अविरोधं जैमिनिः’’(परह्मसूत्रम् १-२-२९) 
+> ‘‘साक्षाद् अप्य् अविरोधं जैमिनिः’’(ब्रह्म-सूत्रम् १-२-२९) 
 
 ऎऩ्गिऱ सूत्रत्तिऩ् बडिये
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 
+
+> ‘‘साक्षाद् अप्य् अविरोधं जैमिनिः’’(ब्रह्म-सूत्रम् १-२-२९) 
+
+इति सूत्रोक्त-रीत्या 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7996,7 +8087,7 @@ Aquí, como **explica** en los Brahma Sūtras (1-2-29),
 
 <details><summary>मूलम्</summary>
 
-इव्विडत्तिल् ‘‘साक्षादप्यविरोधं जैमिनिः’’(परह्मसूत्रम् १-२-२९) ऎऩ्गिऱ सूत्रत्तिऩ्बडिये
+इव्विडत्तिल् ‘‘साक्षादप्यविरोधं जैमिनिः’’(ब्रह्म-सूत्रम् १-२-२९) ऎऩ्गिऱ सूत्रत्तिऩ्बडिये
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
