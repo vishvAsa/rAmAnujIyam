@@ -5362,6 +5362,14 @@ con respecto a aquellos dharmas que **no son** upāyas.
 +++(येन फलेद् एव)+++।   
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उपायेषूपायबुद्धित्याग-पूर्वकम् अनुष्ठानं तावत्  
+प्राचीनोपासनादिषु स्थितिर् एव  
++++(येन फलेद् एव)+++।   
+</details>
+
+
 <details><summary>English</summary>
 
 So the **performance** of those dharmas which **are** upāyas  
@@ -5387,9 +5395,21 @@ sin el **pensamiento** de que **son** upāyas
 
 इङ्गु उपाय-बुद्धि-त्यागम् पॊरुळ् आगच् चॊल्लुगिऱ पक्षत्तिल्  
 
-त्याग-विधिक्कुम्, अनुष्ठान-विधिक्कुम् -  
+त्याग-विधिक्कुम्, अनुष्ठान-विधिक्कुम् +++(→विरोधम् परिहरित्त…)+++ -  
 अधिकारि-भेदत्ताले विरोधम् परिहरित्तव् इडमुम्  
 अनपेक्षित वचनम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(इति) 
+
+> अत्रोपायत्व-बुद्धि-त्यागो ऽर्थ  
+
+इति प्रतिपादनपरे पक्षे,  
+त्याग-विधेर्, अनुष्ठान-विधेर् - +++(→विरोध-परिहार…)+++  
+अधिकारि-भेदेन विरोध-परिहार-वर्णनम् अप्य्  
+अनपेक्षित-वचनम् । 
 </details>
 
 <details><summary>English</summary>
@@ -5421,6 +5441,12 @@ y eso del **rendimiento** al **decir** que la diferencia **se** se debe a las pe
 इव् विरोध-प्रसङ्गम् उळ्ळदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र स्व-रूप-त्यागय् उच्यमाने किलायं विरोध-प्रसङ्गो भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 It **is** only if the text **is held to enjoin the giving up** of the dharmas themselves,  
@@ -5445,6 +5471,13 @@ allí **surgiría** cualquier conflicto de este tipo.
 इप्-पडि बुद्धि-विशेष-त्याग-पूर्वक-- कर्म-ज्ञान-भक्तिगळै प्रपत्तिक्क् अङ्गम् आगव् इसैयुम् पक्षत्तिल् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं बुद्धि-विशेष-- त्याग-पूर्वक- कर्म-ज्ञान-भक्तीनां  
+प्रपत्त्य्-अङ्गत्वेन स्वीकार-पक्षे  
+</details>
+
+
 <details><summary>English</summary>
 
 If it **is held** that the adoption of karma, jñāna and bhakti ,  
@@ -5467,6 +5500,12 @@ pero sin el **pensamiento** de que **son** upāyas **es** un aṅga para prapatt
 
 उपासन-प्रपदनङ्गळुक्कु अङ्गाङ्गि-व्यपदेशत्तिल् माऱाट्टमेय् उळ्ळदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उपासन-प्रपदनयोर् अङ्गाङ्गि-व्यपदेश-व्यत्यास-मात्रं स्यात् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5514,6 +5553,15 @@ y **no habría** ninguna diferencia en su acción.)
 ऎऩ्गिऱ वैषम्यमुम् मन्दम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अङ्ग-भावे यथा-कथंचिद् अनुष्ठानम् अपि पर्याप्तम् 
+
+इति वैषम्यम् अपि मन्दम् । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 It may be argued that, in regard to accessory activity,  
@@ -5549,6 +5597,8 @@ pero este **argumento no** es sólido.
 > ‘‘सकलाङ्गोपसंहारे  
 काम्यं कर्म प्रसिध्यति’’ 
 
+इत्य्-उक्तं किल ।  
+[[P361]]
 </details>
 
 
@@ -5763,6 +5813,17 @@ y la **prestación** de **servicio** y similares también **serán** apropiadas.
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः 
+
+> अत्र सर्व-धर्माणां स्व-रूप--त्यागो ऽङ्गत्वेन विधीयत 
+
+इति, 
+</details>
+
+
+
 <details><summary>English</summary>
 
 Therefore the **view** that here (in parityajya) the **giving up** of all dharmas, (rites, observances and the like) **is enjoined** (for prapatti)  
@@ -5786,6 +5847,15 @@ Por lo tanto, la **visión** de que aquí (en parityajya) **se ordena** (para pr
 
 ऎऩ्ऱुञ् जॊल्लुगिऱ पक्षङ्गळ् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तद् अङ्गत्वानुगुणम्  
+अत्र बुद्धि-विशेष-त्याग-मात्रं विधीयत 
+
+इति प्रतिपाद्यमानौ पक्षौ 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5812,6 +5882,16 @@ y el **pensamiento** de que son aṅgas para ello—
 पूर्वाचार्य-संप्रदायङ्गळुक्कुम्  
 प्रपन्नराय्प् पोन्द पूर्व-शिष्टर्गळ्-उडैय आचारत्तुक्कुम्  
 विरुद्धङ्गळ् आम्।
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आज्ञानुपालनादि-शास्त्राणां,   
+प्रपत्तेर् नैरपेक्ष्य-प्रतिपादक-शास्त्राणां,  
+पूर्वाचार्य-संप्रदायानां,  
+प्रपन्नतया स्थितानां पूर्वशिष्टानाम् आचारस्य च  
+विरुद्धौ ॥
 </details>
 
 <details><summary>English</summary>
@@ -5845,12 +5925,19 @@ y con el código de conducta **seguido** por los hombres virtuosos en tiempos pa
 आज्ञानुपालनादिशास्त्रङ्गळुक्कुम् प्रपत्तिक्कु नैरपेक्ष्यञ् जॊल्लुगिऱ शास्त्रङ्गळुक्कुम् पूर्वाचार्यसंप्रदायङ्गळुक्कुम् प्रपन्नराय्प् पोन्द पूर्वशिष्टर्गळुडैय आचारत्तुक्कुम् विरुद्धङ्गळाम्।
 </details>
 
-
+### सङ्ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिय् उक्त-दोषङ्गळाले  
 धर्मङ्गळिऩ्-उडैय स्व-रूप--त्यागमुम् प्रपत्तिक्क् अङ्गम् अऩ्ऱु; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् उक्तैर् दोषैर्  
+धर्माणाम् स्व-रूप-त्यागः प्रपत्तेर् नाङ्गम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5875,6 +5962,14 @@ el **abandono** de todos los dharmas **no es** un aṅga para prapatti;
 
 उक्त-नैरपेक्ष्यत्ताले अन्द धर्मङ्गळिऩ्-उडैय स्व-रूपमुम् इदुक्क् अङ्गम् अऩ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उक्त-नैरपेक्ष्यात्  
+तेषां धर्माणाम् स्वरूपम् अपि  
+अस्या नाङ्गम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5906,6 +6001,16 @@ prapatti **no requiere** la **realización** de ningún otro dharma.
 इत् त्याग-विधिक्कुत् तात्पर्यम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अतो ऽत्रान्येषां केषाम् अपि धर्माणाम् अपेक्षा  
+अस्याः प्रपत्तेर् नास्ति
+
+इति प्रतिपादने  
+अस्य त्यागविधेस् तात्पर्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore this **injunction** or **ordinance** about **‘giving up'** (tyāga)  
@@ -5932,6 +6037,12 @@ la **declaración** de que prapatti **no requiere** ninguna (ayuda) de ningún o
 इप्-पडि प्रतिषेधिक्कैक्कु प्रसङ्गम् वेणुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं प्रतिषेधस्य प्रसङ्गो ऽपेक्ष्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 To **make** this **denial**,  
@@ -5951,8 +6062,18 @@ Para **hacer** esta **negación**,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्गु ऎऩ्ऩ धर्मङ्गळ् प्रसक्तङ्गळ् आय् प्रतिषेधिक्कप् पडुगिऱऩव् ऎऩ्ऩिल्; 
+> इङ्गु ऎऩ्ऩ धर्मङ्गळ् प्रसक्तङ्गळ् आय् प्रतिषेधिक्कप् पडुगिऱऩव् 
+
+ऎऩ्ऩिल्; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> इह के धर्माः प्रसक्ताः प्रतिषिध्यन्त 
+
+इति चेत् — 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5980,6 +6101,20 @@ y **se** luego **se indica** que es innecesario (la respuesta **es** la siguient
 विद्यान्तरत्तिलुम् वरुमाप् पोले  
 न्यास-विद्यैयिलुम् इवै तुल्य-न्यायतैयाले अङ्गङ्गळ् आय् वरप् पुग, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P362]]
+
+वेदान्त-चोदितासु विद्यासु  
+मध्ये कासुचिद् विद्यास्व् आम्नाता  
+अङ्गत्वेन प्रतीता  
+वर्णाश्रम-धर्मा, गति-चिन्तनादयश् च  
+विद्यान्तरेषु यथा प्राप्नुवन्ति,  
+तथा न्यास-विद्यायाम् अपि  
+एतेषु तुल्य-न्यायतयाऽङ्गत्वेन प्राप्तेषु, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6019,6 +6154,16 @@ estos **podrían ser necesarios** como accesorios.
 ऎऩ्गैय् इव्विडत्तुक्क् उचितम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवम् अङ्गत्व-प्रसक्तिमतां सर्वेषां धर्माणाम् अपेक्षा  
+अस्या नास्ति
+
+इति प्रतिपादनम्  
+अस्य स्थलस्योचितम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 To **correct** this **presumption**, here (in parityajya),  
@@ -6053,6 +6198,18 @@ Esta **es** la **interpretación** correcta del texto aquí.
 
 ऎऩ्ऱ सूत्रत्तिऱ् सॊऩ्ऩ विद्या-सह-कारित्व-वेषन् तविर्न्दालुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषां धर्माणाम्  
+
+> "सहकारित्वेन च" 
+(ब्रह्मसूत्रम् ३-४-३३) 
+
+इति सूत्रोक्ते विद्या-सहकारित्व-वेषे निवृत्ते ऽपि,  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10621,7 +10778,8 @@ que **confiere** competencia (adhikāra) para prapatti
 इन्द योजऩैयिल् अधिकारमाऩवाकिञ्चन्यमुम् शोकियादे कॊळ् ळॆऩ्ऱु तेऱ्ऱुविक्किऱ वाक्यत्ताले सूचितम्। 
 </details>
 
-## शब्दान्तरौचित्यम्
+## अनुवाद-पक्षे शब्दान्तर-समन्वयः
+### एकम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुवाद-पक्षत्तिल् 
@@ -10669,86 +10827,503 @@ y prapatti.
 अनुवादपक्षत्तिल् तऩ्ऩशक्तियाले कऴिन्दवैयॊऴिय शक्यमाय्च् चॆय्गिऱवाज्ञानुपालनादिगळुम् प्रपत्तियिल् तुवक्कॊण्णादॆऩ्ऩुमिडम् एकशब्दत्तिले विवक्षितमागक् कडवदु।
 </details>
 
+### मा शुचः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पक्षत्तिल् "मा शुचः" ऎऩ्गिऱ वाक्यं,  
+‘‘सर्व-धर्मान् परित्यज्य’’ ऎऩ्ऱु उक्तम् आऩव् अधिकारत्तै व्यक्तम् आक्किक् कॊण्डु 
+</details>
+
+<details><summary>English</summary>
+
+In this **interpretation**, the sentence ma śuchah (Do not grieve) **makes clear** the qualification (adhikāra) **needed** for prapatti  
+which **has already been expressed** (in parityajya)  
+</details>
+
+<details><summary>Español</summary>
+
+En esta **interpretación**, la oración ma śuchah (No te aflijas) **aclara** la calificación (adhikāra) **necesaria** para prapatti.  
+que **ya ha sido expresado** (en parityajya)
+</details>
 
 
-In this interpretation, the sentence ma śuchah (Do not grieve) makes clear the qualification (adhikāra) needed for prapatti which has already been expressed (in parityajya) and indicates also the manner in which the prapanna should conduct himself after the performance of prapatti (i.e.) being free from all care or anxiety.
+<details><summary>मूलम्</summary>
 
-There are some other ways of interpreting the word (parityajya) without treating the injunction regarding 'giving up' as having no authority :
+इप्पक्षत्तिल् मा शुचः ऎऩ्गिऱ वाक्यं, ‘‘सर्वधर्मान् परित्यज्य’’ ऎऩ्ऱु उक्तमाऩवधिकारत्तै व्यक्तमाक्किक् कॊण्डु 
+</details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मेल्-उळ्ळ निर्भरत्वादिगळै मुऩ्ऩ् इट्टु  
+उत्तर-कालत्तिल् इरुक्कक् कडव पडियैय् ऎल्लाम्  
+उपलक्षिक्किऱदु।
+</details>
+
+<details><summary>English</summary>
+
+and **indicates** also the manner in which the prapanna **should conduct** himself  
+after the **performance** of prapatti -  
+(i.e.) **being** free from all care or anxiety.
+</details>
+
+<details><summary>Español</summary>
+
+e **indica** también la manera en que el prapanna **debe comportarse**  
+después de la **actuación** de prapatti -  
+(es decir) **estar** libre de todo cuidado o ansiedad.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मेलुळ्ळ निर्भरत्वादिगळै मुऩ्ऩिट्टु उत्तरकालत्तिलिरुक्कक् कडव पडियैयॆल्लामुबलक्षिक्किऱदु।
+</details>
+
+## त्याग-विधि-पक्ष-सङ्ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्याग-विधि-पक्षत्तुक्कु प्रमाण-विरोधम् वाराद बडिय्  
+इऩ्ऩमुम् सिल गतिगळुण्डु।  
+</details>
+
+<details><summary>English</summary>
+
+There **are** some other ways of **interpreting** the word (parityajya)  
+without **treating** the **injunction** regarding '**giving up**'  
+as **having** no authority.
+</details>
+
+<details><summary>Español</summary>
+
+**Hay** algunas otras formas de **interpretar** la palabra (parityajya)  
+sin **tratar** la **orden** relativa a '**renunciar**'  
+como sin autoridad.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्यागविधिपक्षत्तुक्कु प्रमाणविरोधम् वारादबडियिऩ्ऩमुम् सिल गतिकळुण्डु।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्माशक्य-**वृथायास**  
+**निवारणम्** इहापि वा ।  
+लज्जा-पुरस्-सर-**त्याग**-  
+**वादो** ऽप्य् अत्र **नियम्यताम्** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आत्माशक्य-**वृथायास**  
+**निवारणम्** इहापि वा ।  
+लज्जा-पुरस्-सर-**त्याग**-  
+**वादो** ऽप्य् अत्र **नियम्यताम्** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+What **is asked** to **be given up**  
+**may be stated** to be the **prevention** of the vain effort  
+**to perform** what one **is not capable** of  
+or the **giving up** of such vain effort  along with the shame or remorse due to one's inability (to do it in full).
+
+</details>
+
+<details><summary>Español</summary>
+
+Lo que **se pide** que **se abandone**  
+**puede decirse** que es la **prevención** del esfuerzo vano  
+**realizar** lo que uno **no es capaz** de **hacer**  
+o el **abandono** de tal esfuerzo vano  
+junto con la vergüenza o el **remordimiento**  
+debido a la propia incapacidad (de **hacerlo** por completo).
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 आत्माशक्यवृथायास निवारणमिहापि वा ।  
 लज्जापुरस्सरत्यागवादोऽप्यत्र नियम्यताम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-दुष्-करेषु धर्मेषु  
+कुश-काशावलम्बतः ।  
+आशा-लेशानुवृत्तिर् वा  
+**त्यागोक्त्या विनिवार्यते** ॥  
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-दुष्-करेषु धर्मेषु  
+कुश-काशावलम्बतः ।  
+आशा-लेशानुवृत्तिर् वा  
+**त्यागोक्त्या विनिवार्यते** ॥  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 स्वदुष्करेषु धर्मेषु कुशकाशावलंबतः ।  
 आशालेशानुवृत्तिर्वा त्यागोक्त्या विनिवार्यते ॥  
+</details>
+
+<details><summary>English</summary>
+
+The word tyāga **contained** in parityajya  
+may also **be considered** as  
+**preventing** the **continuance** of the trivial **desire**  
+to **perform** (these rites)  
+like a **drowning** man **catching** at a reed or a blade of grass.
+</details>
+
+<details><summary>Español</summary>
+
+La palabra tyāga **contenida** en parityajya  
+también puede **ser considerado** como  
+**impedir** la **continuación** del **deseo** trivial  
+para **realizar** (estos ritos)  
+como un hombre **ahogándose** **atrapándose** una caña o una brizna de hierba.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+अ-विशिष्ट-फलत्वेन  
+विकल्पो यश् च **सूत्रितः** ।  
+तन्-मुखेनापि वा **ऽत्रेष्टं**  
++++(प्रपत्ति→)+++ ब्रह्मास्त्र+++(-अवमान)+++-न्याय-**सूचनम्** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-विशिष्ट-फलत्वेन  
+विकल्पो यश् च **सूत्रितः** ।  
+तन्-मुखेनापि वा **ऽत्रेष्टं**  
++++(प्रपत्ति→)+++ ब्रह्मास्त्र+++(-अवमान)+++-न्याय-**सूचनम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+In the Brahma Sūtras,  
+**it is declared** that  
+any one of the vidyās (thirty two vidyās or forms of meditation described in the Upaniṣads) **may be adopted** at one's option,  
+as all of them **yield** the same fruit.  
+
+By **drawing** our **attention** to it,  
+the **injunction** for tyāga  
+**contained** in "parityajya"  
+may also **be taken to suggest** that  
+prapatti is like the Brahma missile,  
+which **proves ineffective** if any other upāya is also **adopted**.
+</details>
+
+<details><summary>Español</summary>
+
+En los Brahma Sutras,  
+**se declara** que  
+cualquiera de los vidyās (treinta y dos vidyās o formas de **meditación descritas** en los Upaniṣads) **puede adoptarse** a **elección** de cada uno,  
+ya que todos **dan** el mismo fruto.  
+
+Al **llamar** nuestra **atención** a ello,  
+el **mandato** para tyāga  
+**contenido** en "parityajya"  
+también puede **ser tomado** para **sugerir** que  
+prapatti **es** como el misil Brahma,  
+lo cual **resulta ineficaz**  
+si también se **adopta** cualquier otro upāya.
+</details>
+
+
+<details><summary>मूलम् (सं॰प॰)</summary>
+
 अविशिष्टफलत्वेन विकल्पो यश्च सूत्रितः ।  
 तन्मुखेनापि वाऽत्रेष्टं ब्रह्मास्त्रन्यायसूचनम् ॥
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
 
-आत्माशक्यवृथायास निवारणमिहापि वा ।  
-लज्जापुरस्सरत्यागवादोऽप्यत्र नियम्यताम् ॥  
-स्वदुष्करेषु धर्मेषु कुशकाशावलंबतः ।  
-आशालेशानुवृत्तिर्वा त्यागोक्त्या विनिवार्यते ॥  
-अविशिष्टफलत्वेन विकल्पो यश्च सूत्रितः ।  
-तन्मुखेनापि वाऽत्रेष्टं ब्रह्मास्त्रन्यायसूचनम् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-शक्यत्तिले प्रवृत्तऩैत् "तविर्"+++(=निवर्तस्व)+++ ऎऩ्गैयुम्, 
 </details>
 
-2. What is asked to be given up may be stated to be the prevention of the vain effort to perform what one is not capable of or the giving up of such vain effort along with the shame or remorse due to one's inability (to do it in full).
+<details><summary>English</summary>
 
-3 The word tyāga contained in parityajya may also be considered as preventing the continuance of the trivial desire to perform (these rites) like a drowning man catching at a reed or a blade of grass.
+1\. To the man who **proceeds** to **adopt** what he **is not capable** of, it **says** “Don't".
+</details>
 
-4. In the Brahma Sūtras, it is declared that any one of the vidyās (thirty two vidyās or forms of meditation described in the Upaniṣads) may be adopted at one's option, as all of them yield the same fruit. By drawing our attention to it, the injunction for tyāga contained in parityajya may also be to suggest that prapatti is like the Brahma missile, which proves ineffective if any other upāya is also adopted:
+<details><summary>Español</summary>
 
-(To sum up :-) The forms of injunction may be such as follows:
+1\. Al hombre que **procede** a **adoptar** lo que **no es capaz** de **hacer**,  
+le **dice** **“No lo hagas”**.
+</details>
 
-1. To the man who proceeds to adopt what he is not capable of, it says “Don't".
 
-2. To the man who is firmly determined to do what is not in his power, it says, "Give up this determination ".
+<details><summary>मूलम्</summary>
 
-3. If a man were to adopt one of the upāyas (other than prapatti) which are left open to the option (of the aspirant to mukti), it says to him that, by the principle of the Brahma missile, it would conflict with the effectiveness of prapatti.
+अशक्यत्तिले प्रवृत्तऩैत् तविरॆऩ्गैयुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩक्कु दुष्-करङ्गळ् आय्क् कऴिन्दु निऱ्किऱ् अवऱ्ऱिले  
+अभिनिवेशम् उडैयवऩै  
+"इदु वेण्डाव्" ऎऩ्गैयुम्,
+</details>
+
+<details><summary>English</summary>
+
+2\. To the man who **is** firmly **determined** to **do** what **is not** in his power,  
+it **says**, "**Give up** this **determination**".
+</details>
+
+<details><summary>Español</summary>
+
+2\. Al hombre que **está** firmemente **decidido** a **hacer** lo que **no está** en su poder,  
+**dice**, "**Renuncia** a esta **determinación**".
+</details>
+
+<details><summary>मूलम्</summary>
+
+तऩक्कु दुष्करङ्गळाय्क् कऴिन्दु निऱ्किऱवऱ्ऱिले अभिनिवेशमुडैयवऩै इदु वेण्डावॆऩ्गैयुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विकल्पित्त उपायान्तरङ्गळिले ऒऩ्ऱैय्  
+इङ्गे कूट्टिल्  
+ब्रह्मास्त्र-न्यायत्ताले विरोधिक्कुम् 
+
+ऎऩ्ऱु कऴिक्कैयुम् 
+
+विधि-प्रकारङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+3\. "If a man **were to adopt** one of the upāyas (other than prapatti)  
+which **are left open** to the option (of the **aspirant** to mukti)",  
+it **says** to him that,  
+"by the principle of the Brahma missile,  
+it **would conflict** with the **effectiveness** of prapatti."
+
+(To sum up :-) The forms of **injunction may be** such as above.
+</details>
+
+<details><summary>Español</summary>
+
+3\. "Si un hombre **adoptara** uno de los upāyas (que **no sea** prapatti)  
+que **quedan abiertos** a la opción (del **aspirante** a mukti)",  
+le **dice** que,  
+"por el principio del misil Brahma,  
+**entraría en conflicto** con la **efectividad** de prapatti."
+
+(Para **resumir** :-) Las formas de **orden pueden ser** como las anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विकल्पित्त उपायान्तरङ्गळिले ऒऩ्ऱैयिङ्गे कूट्टिल् ब्रह्मास्त्रन्यायत्ताले विरोधिक्कुमॆऩ्ऱु कऴिक्कैयुम् विधिप्रकारङ्गळ्। 
+</details>
+
+
+## सङ्ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽशक्ताधिकारत्वम्  
+आकिञ्चन्य-**पुरस्-क्रिया** ।  
+**अन्-अङ्ग-भावो** धर्माणाम्  
+**अ-शक्यारम्भ-वारणम्** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो ऽशक्ताधिकारत्वम्  
+आकिञ्चन्य-**पुरस्-क्रिया** ।  
+**अन्-अङ्ग-भावो** धर्माणाम्  
+**अ-शक्यारम्भ-वारणम्** ॥  
+</details>
+
+<details><summary>English</summary>
+
+Therefore -
+
+(1) **incompetence** to **do** those things  
+that **are not** within one's power  
+**gives competence** for prapatti; and 
+
+(2) (as an anga of prapatti, putting forth) **being destitute** of all other upāyas ~~is a qualification for prapatti~~;
+
+(3) the dharmas or rites **being no accessory** or aṅga to prapatti;
+
+(4) the **prevention** of effort in **trying** to **do** what **is not possible** for one;
+
+(5) the **giving up** of the **desire** to **do** what **is** beyond one's ability;
+
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto -
+
+(1) **incompetencia** para **hacer** esas cosas  
+que **no están** dentro del poder de uno  
+**da competencia** para prapatti; y 
+
+(2) (como un anga de prapatti, **presentando**) **estar desprovisto** de todos los demás upāyas;
+
+(3) los dharmas o ritos **no son accesorios** o aṅga de prapatti;
+
+(4) la **prevención** del esfuerzo al **intentar hacer** lo que **no es posible** para uno;
+
+(5) **renunciar** al **deseo** de **hacer** lo que **está** más allá de la propia capacidad;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतोऽशक्ताधिकारत्वमाकिञ्चन्यपुरस्क्रिया ।  
+अनङ्गभावो धर्माणामशक्यारम्भवारणम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत् प्रत्य् **आशा-प्रशमनं**  
+ब्रह्मास्त्र-न्याय-**सूचनम्** ।  
+सर्व-धर्म-परित्याग-  
+शब्दार्थास् साधु-**सम्मताः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत् प्रत्य् **आशा-प्रशमनं**  
+ब्रह्मास्त्र-न्याय-**सूचनम्** ।  
+सर्व-धर्म-परित्याग-  
+शब्दार्थास् साधु-**सम्मताः** ॥  
+</details>
+
+<details><summary>English</summary>
+
+(6) the **indication** of the principle of the Brahma missile.
+
+The **meanings** of the words "sarva-dharmān parityajya" (**giving up** all dharmas)  
+which **are approved** of by the wise  
+**are** as above.
+</details>
+
+<details><summary>Español</summary>
+
+(6) la **indicación** del principio del misil Brahma.
+
+Los **significados** de las palabras "sarva-dharmān parityajya" (**renunciar** a todos los dharmas)  
+que **son aprobados** por los sabios  
+**son** como arriba.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्प्रत्याशाप्रशमनं ब्रह्मास्त्रन्यायसूचनम् ।  
+सर्वधर्मपरित्यागशब्दार्थास्साधुसम्मताः ॥  
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अतोऽशक्ताधिकारत्वमाकिञ्चन्यपुरस्क्रिया ।  
-अनङ्गभावो धर्माणामशक्यारंभवारणम् ॥  
-तत्प्रत्याशाप्रशमनं ब्रह्मास्त्रन्यायसूचनम् ।  
-सर्वधर्मपरित्यागशब्दार्थास्साधुसम्मताः ॥  
-देवतान्तरधर्मादित्यागोक्तिरविरोधिनी ।  
-उपासकेऽपि तुल्यत्वादिह सा न विशेषिका ॥
+देवतान्तर-धर्मादि-  
+**त्यागोक्तिर् अ-विरोधिनी** ।  
+उपासके ऽपि तुल्यत्वाद्  
+इह +++(प्रपत्ति-पर-प्रकरणे)+++ सा **न विशेषिका** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+देवतान्तर-धर्मादि-  
+**त्यागोक्तिर् अ-विरोधिनी** ।  
+उपासके ऽपि तुल्यत्वाद्  
+इह +++(प्रपत्ति-पर-प्रकरणे)+++ सा **न विशेषिका** ॥
+</details>
+
+<details><summary>English</summary>
+
+The **interpretation** (which **is given** by some)  
+that what **is asked** to **be given up**  
+**is** the dharmas or rites **associated** with other deities (than Bhagavān)  
+**is not objectionable**,  
+but as this **applies** to both the man who **adopts** bhakti or upāsana and the man who **adopts** prapatti,  
+this **interpretation is inappropriate** here  
+(in the context especially **relating** to the prapanna ).
+</details>
+
+<details><summary>Español</summary>
+
+La **interpretación** (que **la dan** algunos)  
+que, lo que **se pide** se **renuncia**  
+**son** los dharmas o ritos **asociados** con otras deidades (además de Bhagavān)  
+**no es objetable**,  
+
+pero como esto **se aplica** tanto al hombre que **adopta** bhakti o upāsana como al hombre que **adopta** prapatti,  
+esta **interpretación es inapropiada** aquí  
+(en el contexto especialmente **relacionado** con prapanna).
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-अतोऽशक्ताधिकारत्वमाकिञ्चन्यपुरस्क्रिया ।  
-अनङ्गभावो धर्माणामशक्यारंभवारणम् ॥  
-तत्प्रत्याशाप्रशमनं ब्रह्मास्त्रन्यायसूचनम् ।  
-सर्वधर्मपरित्यागशब्दार्थास्साधुसम्मताः ॥  
 देवतान्तरधर्मादित्यागोक्तिरविरोधिनी ।  
 उपासकेऽपि तुल्यत्वादिह सा न विशेषिका ॥
 </details>
 
-Therefore the meanings of the words sarva dharmān parityajya (giving up all dharmas) which are approved of by the wise are as follows:
+## वचनान्तर-निर्वाहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(1) incompetence to do those things that are not within one's
+‘‘उपायापाय-सन्त्यागी’’  
+(लक्ष्मीतन्त्रम्) 
 
-power gives competence for prapatti; and  being destitute of all other upāyas is a qualification for prapatti;
+इत्य्-आदिगळिऱ् सॊऩ्ऩ उपाय-त्यागमुम्  
+इप् प्रकारङ्गळिले निर्वाह्यम्। 
+</details>
 
-(3) the dharmas or rites being no accessory or aṅga to prapatti;
+<details><summary>English</summary>
 
-(4) the prevention of effort in trying to do what is not possible
+"The **giving up** of upāyas"  
 
-for one;
+**stated** in such passages as the **following** :-  
 
-(5) the giving up of the desire to do what is beyond one's ability;
+> One **should give up** the upāyas and also the apāyas (those activities that **are forbidden** )  
 
-(6) the indication of the principle of the Brahma missile.
 
-The interpretation (which is given by some) that what is asked to be given up is the dharmas or rites associated with other deities (than Bhagavān) is not objectionable, but as this applies to both the man who adopts bhakti  or upāsana and the man who adopts prapatti, this interpretation is inappropriate here (in the context especially relating to the prapanna ).
+**should** also **be interpreted** in the same way.
+</details>
 
-"The giving "up of upāyas" stated in such passages as the following :-One should give up the upāyas and also the apāyas (those activities that are forbidden )" should also be interpreted in the same way.
+<details><summary>Español</summary>
 
+> "El **abandono** de los upāyas"  
+
+**indicado** en pasajes como el **siguiente**:-  
+
+> Uno **debe abandonar** los upāyas y también los apāyas (aquellas actividades que **están prohibidas**)  
+
+**debería** también **interpretarse** de la misma manera.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘उपायापायसन्त्यागी’’(लक्ष्मीतन्त्रम्) त्यादिगळिऱ् सॊऩ्ऩ उपायत्यागमुमिप् प्रकारङ्गळिले निर्वाह्यम्। 
+</details>
+
+
+
+
+## उपसंहारः
 (<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
