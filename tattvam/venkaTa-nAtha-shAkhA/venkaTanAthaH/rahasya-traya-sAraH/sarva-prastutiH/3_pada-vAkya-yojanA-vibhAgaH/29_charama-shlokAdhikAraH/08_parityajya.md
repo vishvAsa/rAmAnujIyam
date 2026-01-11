@@ -8098,6 +8098,15 @@ Aquí, como **explica** en los Brahma Sūtras (1-2-29),
 इवऱ्ऱिल् देवतान्तर-स्पर्शम् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अग्र-नयनादि-व्युत्पत्ति-वशाद्  
+अग्न्य्-आदि-शब्दानां सर्वेश्वरस्य साक्षाद् वाचकत्वेन निर्वहणे  
+एषां श्रीसहस्र-नामस्य श्रीनामवद् अवस्थानाद्  
+एतेषु न देवतान्तर-स्पर्शः । 
+</details>
+
+
 <details><summary>English</summary>
 
 names like Agni **may be considered**, on the authority of Jaimini,  
@@ -8138,6 +8147,7 @@ porque **son** como los nombres sagrados que se encuentran en Sahasranama (etimo
 > ‘‘देवान् ऋषीन् पितृन् भगवद्-आत्मकान् ध्यात्वा सन्तर्प्य’’  
 (नित्यम्) 
 
+इति नित्य-प्रभृतिषु श्रीभाष्यकारैर् उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -8172,6 +8182,13 @@ etc.
 तत्-तत्-कर्मङ्गळै अनुष्ठिक्कै  
 शास्त्र-बल-सिद्धम् आऩव् इडत्तिल्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-तद्-देवता-शरीरकं परमात्मानम् अनुसन्धाय  
+तत्-तत्-कर्मणाम् अनुष्ठानस्य शास्त्र-सिद्धत्वे  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8209,6 +8226,11 @@ para **realizar** estos respectivos ritos **meditando** que el Ser Supremo **tie
 > ‘‘उपासा त्रैविध्यात् +++(←स्वरूपस्य, चेतन-विशिष्टस्य, अचेन-विशिष्टस्य)+++’’  
 (ब्रह्मसूत्रम् १-१-३२) 
 
+इत्य्-उक्तरीत्या  
+प्रतर्दन-विद्यादिषु  
+विशेष्य-दिव्यात्म-स्वरूपेण, चेतनाचेतन-विशिष्टतया च  
+परमात्मन उपासने क्रियमाणे  
+विशेषणी-भूत-चेतनाचेतनेषु यथा आराध्यत्वं नास्ति 
 </details>
 
 
@@ -8253,6 +8275,12 @@ y no a Sus atributos (o cuerpos) (es decir, los seres sintientes y no sintientes
 विशेषणम् आऩ देव-र्षि-पित्रादिगळै इवऩ् आराधिक्किऱाऩ् अल्लऩ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तथाऽत्राप्य् अयं विशेषणी-भूत-देव-र्षि-पित्रादीन् नाराधयति । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the same way here also,  
@@ -8287,7 +8315,6 @@ quienes **son** realmente atributos o cuerpos del Ser Supremo.
 > ‘‘अहं हि सर्व-यज्ञानां  
 भोक्ता च प्रभुर् एव च’’  
 (गीता ९-२४), 
-
 </details>
 
 <details><summary>English</summary>
@@ -8361,7 +8388,6 @@ y las **ofrendas** (kavya) **hechas** a los Manes en sraddhas"
 सर्व-भूतान्तर्-आत्मानं  
 विष्णुम् एव यजन्ति ते॥’’  
 (भारतम् शान्ति-पर्व ३५५-४१, दक्ष-स्मृति)
-
 </details>
 
 <details><summary>English</summary>
@@ -8396,6 +8422,14 @@ quien **es** el yo interior de todas las cosas"
 प्रतिबुद्धऩ् आऩव् इवऩुक्क् आराध्यऩ् आगैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-उक्त-रीत्या  
+सर्वान्तर्यामिण एव  
+प्रतिबुद्धेनानेनाराध्यत्वाद् 
+</details>
+
+
 <details><summary>English</summary>
 
 \- as **stated** in these ślokas,  
@@ -8425,6 +8459,14 @@ que **es** objeto de **adoración** del sabio.
 यथा-शास्त्रम् अनुष्ठिक्किऱ कैङ्कर्यङ्गळाल् उपायान्तर-स्पर्शम् वारादाप् पोलवुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं विज्ञाय अनुतिष्ठतो ऽस्य  
+यथा-शास्त्रम् अनुष्ठीयमानैः कैङ्कर्यैर्  
+उपायान्तर-स्पर्शस्याप्रसङ्गवत् 
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore to the man who **performs** kaiṅkarya or service **according** to the Śāstras with this knowledge,  
@@ -8449,6 +8491,15 @@ Por lo tanto, para el hombre que **realiza** kaiṅkarya o servicio **de acuerdo
 कैङ्कर्यार्थङ्गळ् आऩ द्रव्यार्जन-निवेदितोपयोगादिगळाल्  
 प्रयोजनान्तरस्पर्शम् वारादाप् पोलवुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P366]]
+
+कैङ्कर्यार्थ-द्रव्यार्जन- निवेदितोपयोगादिभिः  
+प्रयोजनान्तर-स्पर्शस्याप्रसङ्गवच् च  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8478,6 +8529,13 @@ y en **comer** la comida **ofrecida** (a estos dioses).
 आराध्य-विशेषणम् आग विधि-बल-प्राप्तङ्गळ् आऩ चेतनाचेतनङ्गळाल्  
 देवतान्तर-स्पर्श-दोषं वारादु।+++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आराध्य-विशेषणतया विधि-बल-प्राप्तैश् चेतनाचेतनैर्  
+देवतान्तर-स्पर्श-दोषो न प्रसज्यते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8558,7 +8616,6 @@ y **es** su Señor y Maestro--
 सामान्येनाभिमन्यते ।  
 स याति नरकं घोरं  
 यावच् चन्द्र-दिवाकरम्॥’’  
-
 </details>
 
 <details><summary>English</summary>
@@ -8628,8 +8685,16 @@ y así también cerca del lugar de cremación, cerca de un cadáver, cerca de un
 देवतान्तरङ्गळिले परत्व-बुद्धि पण्णुदल्,  
 समत्व-बुद्धि पण्णुदल्,  
 नित्य-नैमित्तिकङ्गळिल् तुवक्क् अऱ्ऱ देवतान्तर-स्थलङ्गळिले सॆल्लुदल्  
-सॆय्यिल् परमैकान्तिक्कु दोषम् आम् 
+सॆय्यिल् परमैकान्तिक्कु दोषम् आम् ।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आद्य्-उक्त-रीत्या  
+देवतान्तरेषु परत्व-बुद्धेः, समत्व-बुद्धेः, नित्य-नैमित्तिकासंबद्ध-देवतान्तर-स्थलेषु गमनस्य वा करणे एव  
+परमैकान्तिनो दोषो भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8662,6 +8727,14 @@ cuando estas deidades **no tienen** nada que **ver** con sus ritos y **observanc
 सर्वान्तर्यामिक्कु शरीरम् आय् निऱ्किऱ निलैयिल् इद्-देवतैगळ् पक्कल्  
 परत्व-बुद्धियुम्, साम्य-बुद्धियुम्, स्व-निष्ठत्व+++(=स्वातन्त्र्य)+++-बुद्धियुम्, आराध्यत्व-बुद्धियुम्, फल-प्रदत्व-बुद्धियुम् इल्लामैयाले
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(अन्यथा)+++ नित्य-नैमित्तिकेष्व् आराध्यस्य  
+सर्वान्तर्यामिणः शरीरत्वेनावतिष्ठमानास्व् आसु देवतासु  
+परत्व-बुद्धेः, साम्य-बुद्धेः, स्वनिष्ठत्व-बुद्धेर्, आराध्यत्व-बुद्धेः, फल-प्रदत्व-बुद्धेर् वाऽभावात्
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8703,6 +8776,12 @@ o de que **sean** los **dispensadores** de los frutos de las **acciones**.
 +++(तासु तासु विद्यासु)+++ उपास्य-विशेषणङ्गळ् आऩ प्राण-वैश्वानर--त्रैलोक्यादिगळाल् इवऩुक्कु व्यभिचारम् वारादाप् पोले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
++++(तासु तासु विद्यासु)+++  उपास्य-विशेषणी-भूत-- प्राण-वैश्वानर-त्रैलोक्यादिभिर् अस्य व्यभिचाराप्रसङ्गवत् 
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore in the same way as by Prana, Vaisvanara, and the three worlds  
@@ -8729,6 +8808,12 @@ que **son** los atributos del Ser Supremo en los Vidyās o meditaciones llamadas
 इवऩुक्कु ऐकान्त्य-विरोधम् वारादु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+शास्त्र-सिद्धैर् अग्नीन्द्रादि-विशेषणैर् अप्य् अस्यैकान्त्य-विरोधो न प्रसज्यते ।
+</details>
+
+
 <details><summary>English</summary>
 
 so also his exclusive **devotion** to the Lord **is not** (in the least) **affected** by such attributes as Agni (and Indra) (which **are associated** with these rites and observances, nitya and naimittika).
@@ -8750,6 +8835,13 @@ así también su **devoción** exclusiva al Señor **no** (en lo más mínimo) *
 
 वङ्गि-बुरत्तु नम्बियुम् प्रपन्नऩुक्क् अहो-रात्र-कृत्यम् आऩ भगवत्-समाराधनत्तैच् चॊल्लव् इऴिन्दु
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीवङ्गि-पूर्णो ऽपि  
+प्रपन्नस्याहोरात्र-कृत्यं भगवत्-समाराधनं वक्तुं प्रवृत्त्य 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8814,6 +8906,8 @@ después de **sorber** el agua (achamana) con los mantras prescritos;
 मन्त्रैर् अपि यथोदितैः ॥ 84
 **हुत्वाग्नीन्** अग्निहोत्रादौ  
 **उक्तं** कालम् अपि **क्षिपन्** ।  
+
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -8846,6 +8940,16 @@ He **should do** every karma  at the time **prescribed** for them in the śāstr
 **कृत्वा** ऽखिलम् अतन्द्रितः ॥ 90
 
 ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ततो माध्यन्दिनं कर्म  
+स्वोचितं श्रुति-चोदितम् ।  
+स्नानादि-ब्रह्म-यज्ञान्तं  
+**कृत्वा** ऽखिलम् अतन्द्रितः ॥ 90
+
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -8888,6 +8992,7 @@ para su āśrama como aptos **para realizarse** al mediodía",
 अनुयागादिकञ्च यत्’’  
 (वङ्गिबुरत्तु नम्बि नित्यम् ७७-९६)
 
+इति 
 </details>
 
 <details><summary>English</summary>
@@ -8917,6 +9022,12 @@ después de lo cual **debe comer** la comida **ofrecida** a Bhagavān (cuyo **ac
 इप्-प्रकारङ्गळिले तत्-तन्-मन्त्र-पूर्वकङ्गळ् आऩ वर्णाश्रम-धर्मङ्गळैय् अरुळिच् चॆय्दार्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+चैभिः प्रकारैस् तत्-तन्-मन्त्र-पूर्वकान् वर्णाश्रम-धर्मान् अनुजग्राह । 
+</details>
+
+
 <details><summary>English</summary>
 
 (Thus he) **has described** the dharmas of the castes and the āśramas  
@@ -8942,6 +9053,13 @@ con sus respectivos mantras (en los pasajes anteriores).
 
 भट्टरुम्, आऴ्वाऩुम् तन्-दाङ्गळ् अरुळिच् चॆय्द नित्यङ्गळिले
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीभट्टार्याः श्रीकूरेशाश् च   
+स्व-स्वानुगृहीत-नित्य-ग्रन्थयोः  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8978,6 +9096,9 @@ Bhattar y Koorathalvan también, en sus respectivos nityas,
 सोर्ध्व-पुण्ड्रश् च **तर्पयेत्**॥’’  
 (पराशरभट्ट-नित्य-ग्रन्थः)  
 
+[[P367]]
+
+इत्य्-आदिकम् अनुजगृहुः । 
 </details>
 
 <details><summary>English</summary>
@@ -9021,7 +9142,11 @@ y luego **ofrecer oblaciones** de agua (tarpaṇam)".
 
 <details><summary>नीलमेघः (सं)</summary>
 
+महायतिर् अपि 
+
 > ‘‘श्रीपराशर-भट्टार्य-चरणौ संश्रयेमहि’’(पॆरिय-जीयर्-नित्य-ग्रन्थः) 
+
+इत्य्-आदिना संप्रदाय-विशेष-ज्ञापनार्थं गुरु-नमस्-कारादीनि कृत्वा 
 </details>
 
 <details><summary>English</summary>
@@ -9070,6 +9195,7 @@ Con esto **nos recuerda** la tradición especial
 नित्यं **समभिदध्महे**॥’’  
 (पॆरिय-जीयर्-नित्य-ग्रन्थः) 
 
+इत्य्-आरभ्य, 
 </details>
 
 <details><summary>English</summary>
@@ -9195,6 +9321,7 @@ y luego **realizar** japa,
 नारायणात्मकान् देवान्  
 ऋषीन् **सन्तर्पयेत्** पितॄन्’’ 
 
+इत्य् अनुजग्राह । 
 </details>
 
 <details><summary>English</summary>
@@ -9227,6 +9354,15 @@ y luego **realizar** japa,
 विवाहोपनयनादिगळ् अनुष्ठिक्कवुङ् काणा निऩ्ऱोम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-भाष्य-कार-संप्रदाय-स्थैः कुलैः सर्वैर् अप्य्  
+अद्य यावत् स्व-सूत्रोक्त-रीत्या  
+तत्-तद्-देवता-मन्त्रैर् एव  
+विवाहोपनयनादीनि अनुष्ठीयमानानि पश्यामः । 
+</details>
+
+
 <details><summary>English</summary>
 
 **We see** also that, in all families which follow the tradition of the author of Śrī Bhāṣya, until the present day,  
@@ -9255,6 +9391,17 @@ con los respectivos mantras que **denotan** las respectivas deidades.+++(5)+++
 तन्-दाम् सूत्रङ्गळिऩ् पडिये  
 यज्ञादिगळ् पण्णिऩार्गळ् ऎऩ्ऩुम् इडम् सर्वर्क्कुम् प्रसिद्धम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> श्री-महा-पूर्ण-प्रभृतयः परमाचार्या  
+अखिल-वेद-शाखोपशाखोक्त-रीत्या  
+यज्ञादीन् अन्वतिष्ठन्न्  
+
+इत्य् एतत् सर्वेषां प्रसिद्धम् ।
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9286,6 +9433,8 @@ de acuerdo con sus respectivos sūtras.
 
 क्रिया-विशेषङ्गळ् अनुष्ठिक्कवॊण्णादु।
 </details>
+
+
 
 <details><summary>English</summary>
 
