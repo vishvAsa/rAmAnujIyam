@@ -6062,9 +6062,17 @@ Para **hacer** esta **negación**,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्गु ऎऩ्ऩ धर्मङ्गळ् प्रसक्तङ्गळ् आय् प्रतिषेधिक्कप् पडुगिऱऩव् ऎऩ्ऩिल्; 
+> इङ्गु ऎऩ्ऩ धर्मङ्गळ् प्रसक्तङ्गळ् आय् प्रतिषेधिक्कप् पडुगिऱऩव् 
+
+ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> इह के धर्माः प्रसक्ताः प्रतिषिध्यन्त 
+
+इति चेत् — 
+</details>
 
 
 <details><summary>English</summary>
@@ -6093,6 +6101,20 @@ y **se** luego **se indica** que es innecesario (la respuesta **es** la siguient
 विद्यान्तरत्तिलुम् वरुमाप् पोले  
 न्यास-विद्यैयिलुम् इवै तुल्य-न्यायतैयाले अङ्गङ्गळ् आय् वरप् पुग, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P362]]
+
+वेदान्त-चोदितासु विद्यासु  
+मध्ये कासुचिद् विद्यास्व् आम्नाता  
+अङ्गत्वेन प्रतीता  
+वर्णाश्रम-धर्मा, गति-चिन्तनादयश् च  
+विद्यान्तरेषु यथा प्राप्नुवन्ति,  
+तथा न्यास-विद्यायाम् अपि  
+एतेषु तुल्य-न्यायतयाऽङ्गत्वेन प्राप्तेषु, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6132,6 +6154,16 @@ estos **podrían ser necesarios** como accesorios.
 ऎऩ्गैय् इव्विडत्तुक्क् उचितम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवम् अङ्गत्व-प्रसक्तिमतां सर्वेषां धर्माणाम् अपेक्षा  
+अस्या नास्ति
+
+इति प्रतिपादनम्  
+अस्य स्थलस्योचितम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 To **correct** this **presumption**, here (in parityajya),  
@@ -6166,6 +6198,18 @@ Esta **es** la **interpretación** correcta del texto aquí.
 
 ऎऩ्ऱ सूत्रत्तिऱ् सॊऩ्ऩ विद्या-सह-कारित्व-वेषन् तविर्न्दालुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषां धर्माणाम्  
+
+> "सहकारित्वेन च" 
+(ब्रह्मसूत्रम् ३-४-३३) 
+
+इति सूत्रोक्ते विद्या-सहकारित्व-वेषे निवृत्ते ऽपि,  
+
+</details>
+
 
 <details><summary>English</summary>
 
