@@ -6207,7 +6207,6 @@ Esta **es** la **interpretación** correcta del texto aquí.
 (ब्रह्मसूत्रम् ३-४-३३) 
 
 इति सूत्रोक्ते विद्या-सहकारित्व-वेषे निवृत्ते ऽपि,  
-
 </details>
 
 
@@ -6238,6 +6237,16 @@ como **se dice** que **son** para upāsana en Brahma Sūtras (3.4 -33),
 प्रपन्नऩ् पक्कल् निवारकर् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विहितत्वाच् चाश्रम-कर्मापि’’  
+(ब्रह्मसूत्रम् ३-४-३२) 
+
+इति सूत्रान्तरोक्तस्य विनियोगान्तरस्य  
+प्रपन्नविषये निवारकं नास्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 yet as **stated** in another sūtra (3 - 4 - 32),  
@@ -6262,6 +6271,7 @@ ya que **los mandamientos hay que obedecerlos** como tales (y por ningún otro m
 ‘‘विहितत्वाच्चाश्रमकर्मापि’’(ब्रह्मसूत्रम् ३-४-३२) ऎऩ्ऱु सूत्रान्तरत्तिऱ्सॊऩ्ऩ विनियोगान्तरत्तुक्कु प्रपन्नऩ्बक्कल् निवारकरिल्लै। 
 </details>
 
+
 <details><summary>English</summary>
 
 CONCLUSION: page 543
@@ -6280,6 +6290,14 @@ CONCLUSIÓN: página 543
 प्रपत्तिक्क् अङ्गम् अल्लामैयाल्  
 अ-शक्यङ्गळिल् नैराश्यम् अधिकारत्तिले सॊरुगुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत एषां धर्माणाम्  
+अनुष्ठानस्य धर्मत्यागस्य च प्रपत्त्य्-अङ्गत्वाभावात्  
+अशक्येषु नैराश्यम् अधिकारे निविशते ; 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6309,6 +6327,14 @@ Por lo tanto, como ni la **realización** de estos dharmas
 शक्यम् आऩ नित्य-नैमिक्तिकङ्गळ्-उडैयव् अनुष्ठानम्  
 आज्ञानुपालनम् आऩ कैङ्कर्य-मात्रमाम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शक्यानां नित्यनैमित्तिकानाम् अनुष्ठानम्  
+आज्ञानुपालन-रूपं कैङ्कर्यमात्रं भवति ॥
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6390,6 +6416,14 @@ y no porque **sea** la **consecuencia** de la voluntad o del pensamiento
 ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं सति, अस्य (प्रपन्नस्य) नित्य-नैमित्तिकेष्व् अनन्तर्भाव्याणां प्रभूत-कैङ्कर्याणां प्रयोजकः क 
+
+इति चेत् — 
+</details>
+
+
 <details><summary>English</summary>
 
 If so, it **may be asked**:  
@@ -6418,6 +6452,12 @@ Cuál **no puede incluirse** entre los comandos para **realizar** nitya y naimit
 इवै इवऩुक्क् उपायान्तरत्तिऱ् पुगादु, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इमानि अस्योपायान्तर-कोटौ न प्रविशन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 These **cannot be included** among any of the other upāyas for mokṣa  
@@ -6441,6 +6481,13 @@ Estos **no pueden incluirse** entre ninguno de los otros upāyas para mokṣa.
 
 अङ्गान्तर-निरपेक्षैय् आऩ प्रपत्तिक्कु परिकरङ्गळुम् आगादु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अङ्गान्तर-निरपेक्षायाः प्रपत्तेः  
+परिकरा अपि न भवन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6467,6 +6514,14 @@ porque **no requiere** tales aṅgas o ayudas.
 ऎऩ्ऱु सॆय्गिऱाऩुम् अल्लऩ्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अकरणे ईश्वरः कुप्येद् 
+
+इति धिया न करोति । 
+</details>
+
+
 <details><summary>English</summary>
 
 The person **does not perform** them because of the fear that the Lord **would be offended** at their **non-performance**, 
@@ -6488,6 +6543,13 @@ La persona **no las realiza** por temor a que el Señor **se ofenda** por su **i
 तऩिये इवै  
 तऩक्क् ऒरु पाप-क्षय-- स्वर्ग-पशु-पुत्रादि फलान्तरत्तैय् आसैप्-पट्टुच् चॆय्गिऱाऩुम् अल्लऩ्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पृथग् एवैषां किम् अपि पाप-क्षय-- स्वर्ग-पशु-पुत्रादि-फलान्तरम् आशास्य च न करोति । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -6514,6 +6576,13 @@ con el **deseo** de que ellos **provocaran**, por sí mismos, la **extinción** 
 केवलं तऩ्ऩ् उगप्पाले प्रवर्तिक्किऱाऩुम् अल्लऩ्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+लौकिका द्यूतादीनि यथा कुर्वन्ति  
+तथा केवलं स्वेच्छया न प्रवर्तते । 
+</details>
+
+
 <details><summary>English</summary>
 
 **Neither** does he **perform** them  
@@ -6539,6 +6608,15 @@ al igual que los hombres mundanos **jugando** a los dados y cosas por el estilo,
 मुक्तरैप् पोले भगवद्-अभिप्रायत्तै प्रत्यक्षम् आगक् कण्डु  
 अवऩैय् उगप्पिक्कैक्कु प्रवर्तिक्किऱाऩुम् अल्लऩ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मुक्तवद् भगवद्-अभिप्रायं प्रत्यक्षी कृत्य  
+तत्-प्रीणनार्थं प्रवर्तत 
+
+इत्य् अपि न । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6568,6 +6646,16 @@ lo que **sería aprobado** por Él.
 इक् कैङ्कर्यङ्गळुक्कुम् फलान्तरङ्गळ् पोले  
 भगवत्प्-रीतियुम् फलम् आग शास्त्र-सिद्धम् आगैयाले
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P363]]  
+"तर्हि कथम्" इति चेत् —  
+एषां कैङ्कर्याणां फलान्तरवद् भगवत्-प्रीतेर् अपि  
+फलत्वेन शास्त्र-सिद्धत्वात्  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6604,6 +6692,12 @@ estos actos de **servicio tienen**, como fruto, la **propiciación** del Señor 
 रुचि पिऱक्कैयाले +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-प्रीणने सत्त्वोत्तर--स्व-प्रकृति-स्वभावात् रुचेर् जननात् 
+</details>
+
+
 <details><summary>English</summary>
 
 As one in whose nature the quality of sattvam **predominates**,  
@@ -6629,6 +6723,14 @@ Como alguien en cuya naturaleza la cualidad de sattvam **predomina**,
 सर्व-विध-बन्धुव् आऩ् अवऩ्-उडैय प्रीणनङ्गळिले  
 शास्त्रङ् कै-विळक्क् आग प्रवर्तिक्किऱाऩ्।  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सुहृत्-पुत्राद्य्-उपलालनेष्व् इव  
+सर्व-विध-बन्धोस् तस्य प्रीणने  
+शास्त्रं करदीपं गृहीत्वा प्रवर्तते ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6662,6 +6764,15 @@ de la misma manera que **muestra** su amor a sus amigos, hijos y similares.
 > सर्वेश्वरऩ् पक्कलिले सर्वभरन्यासम् पण्णिऩ विवेकिक्कु  
 त्याज्योपादेय-विभाग-निर्णायकम् स्व-रूप-ज्ञानम् अऩ्ऱो?
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र केचित् — 
+
+> सर्वेश्वर-सन्निधौ सर्व-भर-न्यासं कृतवतो विवेकिनस्  
+त्याज्योपादेय-विभाग-निर्णायकं स्व-रूप-ज्ञानं किल ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6699,6 +6810,15 @@ el **conocimiento** de su propia naturaleza esencial (svarūpa)?
 ऎऩ्ऱु सॊल्लुवर्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> इत्थम् अस्य स्व-रूप--वश्यत्वातिरेकेण  
+शास्त्र-वश्यत्वं कथम् 
+
+इत्य् आचक्षते । 
+</details>
+
+
 <details><summary>English</summary>
 
 > So he **is bound** (only) by the knowledge of his own essential nature (**to do** or **not to do** this or that);  
@@ -6723,6 +6843,12 @@ why, then, **should he follow** the **dictates** of the śāstras?".
 इदुवुम् अनुपपन्नम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अप्य् अनुपपन्नम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 This question is improper, 
@@ -6745,6 +6871,13 @@ Esta **pregunta** es **inapropiada**,
 "स्वरूपम् इऩ्ऩ-बडिय् इरुक्कुम्" ऎऩ्ऱु  
 शास्त्रत्तैक् कॊण्ड् अऱुदिय्+++(=निर्णय)+++ इट्टाल्  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम् इति चेत् —  
+"स्वरूपम् एवं-विधम्" इति शास्त्र-साह्येन निर्णीते सति,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6772,6 +6905,18 @@ porque, si **se determina** cuál es su naturaleza esencial con la **ayuda** de 
 मुक्तऩ् आम् अळवुम्  
 शास्त्रम् ऒऴिय वऴिय् इल्लै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्य स्वरूपस्य  
+अमुकः पुरुषार्थस् तद्-उपायश् च त्याज्यौ,  
+अमुकः पुरुषार्थस् तद्-उपायश् चोपादेयाव् 
+
+इति विभज्य विज्ञानार्थम्  
+आ-मुक्तत्व-सिद्धेः  
+शास्त्रं विना मार्गो नास्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6810,6 +6955,14 @@ y también los upāyas para **asegurar** estos objetivos.
 सिलव् औचित्य-मात्रम् अऱियलाम् अत्तऩै,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वरूपे शेषत्वादिकम् अवलम्ब्य  
+किंचिद् औचित्य-मात्रं ज्ञातुं शक्यम्  
+इत्य् एतावद् एव । 
+</details>
+
+
 <details><summary>English</summary>
 
 From the **knowledge** that he is śeṣa to the Lord and the like,  
@@ -6837,6 +6990,14 @@ que **son apropiados** para el śeṣa.
 > शेषिय् उगन्द कैङ्कर्यत्तिऩ् प्रकारम् इदु; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+~~न तु~~ तद्-अन्तरा
+
+> शेष्य्-अभिमत-कैङ्कर्यस्यायं प्रकारः । 
+</details>
+
+
 <details><summary>English</summary>
 
 - In what manner service **should be rendered**  
@@ -6861,6 +7022,12 @@ para que **pueda complacer** al śeṣī,
 > इक् कैङ्कर्यत्तुक्क् उपायङ्गळ् इवैय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्य कैङ्कर्यस्योपाया इमे 
+</details>
+
+
 <details><summary>English</summary>
 
 - and what upāyas should be adopted for this service. 
@@ -6881,6 +7048,13 @@ para que **pueda complacer** al śeṣī,
 
 ऎऩ्ऱु स्वरूपज्ञानम् नियमित्तुक् काट्टादु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति कांश्चित्  
+स्वरूपज्ञानं नियततया न प्रदर्शयेत् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6906,6 +7080,14 @@ El **conocimiento** de la propia naturaleza esencial **no puede indicar**, inequ
 निषिद्ध-द्रव्यङ्गळैक् कॊण्ड् आदल्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतश् च  
+शास्त्राण्य् अनादृत्य,  
+निषिद्ध-द्रव्यैर् वा,  
+</details>
+
+
 <details><summary>English</summary>
 
 This being so,  
@@ -6930,6 +7112,12 @@ y **presta servicio** con sustancias prohibidas (como el opio, por ejemplo)
 विहितङ्गळ्-तऩ्ऩिलुम् न्यायार्जितम् अल्लाद द्रव्यङ्गळैक् कॊण्ड् आदल् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+विहितेष्व् अपि न्यायार्जित-भिन्नैर् द्रव्यैर् वा 
+</details>
+
+
 <details><summary>English</summary>
 
 or even among substances that **are permitted**, to **render service** with substances **acquired** unjustly  
@@ -6953,6 +7141,14 @@ o incluso entre sustancias que **están permitidas**, para **prestar servicio** 
 कैङ्कर्यत्तै नडत्तप् पार्त्ताल्  
 उपचारापचारङ्गळुक्कुप् पिरिव् इल्लैय् आम्। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-रुच्य्-अनुरोधेन  
+शास्त्र-विरुद्ध-प्रकारैः कैङ्कर्यस्य करणे प्रवृत्तौ  
+उपचारापचारयोर् भेदो न स्यात् । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6980,6 +7176,14 @@ entonces **no habría** diferencia entre conducta reverencial y ofensa.
 मुमुक्षुक्कळ् तविर्न्दु बोरुगिऱ सर्व-निषिद्धङ्गळैयुम्  
 तऩ् रुचि-मात्रत्ताले कैङ्कर्यम् आग अनुष्ठिक्क प्रसङ्गिक्कुम्।+++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा स्व-रुचि-व्यतिरेकेणान्यस्य कस्यचिन् नियामकस्याभावात्  
+मुमुक्षुभिस् त्यज्यमानानि सर्वाणि निषिद्धानि  
+स्व-रुचि-मात्रेण कैङ्कर्यतयाऽनुष्ठेयानि प्रसज्येरन् । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7012,6 +7216,15 @@ y por lo tanto **evitado** por los **buscadores** de mukti.
 ऎऩ्ऱ् अरुळिच् चॆय्दार्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+हविर्-निवेदने ऽपि श्रीभाष्यकारः, 
+
+> “शास्त्राविरुद्धानि संभृत्य” 
+
+इत्य् अनुजग्राह । 
+</details>
+
 <details><summary>English</summary>
 
 The author of Śrī Bhāṣya **has stated** (in regard to the **offering** of food (havis) to Archi):- 
@@ -7040,6 +7253,13 @@ que **no están prohibidos** en los śāstras, etc."
 आगैयाल् शास्त्र-वश्यऩ् आय्त्  
 तऩ्ऩ् अधिकारत्तुक्कु शास्त्रम् अडैत्त कैङ्कर्यङ्गळैये पण्णप् प्राप्तम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः शास्त्र-वश्येन सता  
+स्वाधिकार्यतया शास्त्र-विहितानि कैङ्कर्याण्य् एव कर्तुम् उचितानि । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7083,6 +7303,7 @@ y **sujeto** a los **dictados** de los śāstras.
 कर्म कर्तुम् इहार्हसि॥’’  
 (गीता १६-२४) 
 
+इत्य्-उपदेशः सर्वाधिकारि-साधारणो भवति । [[P364]]
 </details>
 
 
@@ -7117,6 +7338,7 @@ Por lo tanto, mientras estés aquí,
 </details>
 
 
+### यामुनोक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आळ-वन्दार् श्रीगीतार्थ-संग्रहत्तिले 
@@ -7127,16 +7349,9 @@ Por lo tanto, mientras estés aquí,
 सुख-दुःखस् तद्-एकधीः ॥ 
 </details>
 
-### यामुनोक्तिः
 <details><summary>नीलमेघः (सं)</summary>
 
-> २५‘‘ज्ञानी तु परमैकान्ती  
-परायत्तात्म-जीवनः ।  
-तत्-संश्लेष-वियोगैक-  
-सुख-दुःखस् तद्-एकधीः ॥ 
-</details>
-
-<details><summary>नीलमेघः (सं)</summary>
+श्रीयामुनाचार्यैः श्रीगीतार्थसंग्रहे, 
 
 > २५‘‘ज्ञानी तु परमैकान्ती  
 परायत्तात्म-जीवनः ।  
@@ -7275,6 +7490,18 @@ y **colocar** el upāya en el Señor sin ningún temor".
 "शास्त्रं वेण्डाव्" ऎऩ्ऱ बडिय् अऩ्ऱु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इति [विशेष]-प्रतिपादन-स्थले 
+
+> "प्रीत्यैव कारितः" 
+
+इतीदम् अपि  
+"शास्त्रम् अनपेक्षितम्" इत्य् एवं-परं न । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 In these ślokas what Aḷavandār **meant** by the words  
@@ -7302,6 +7529,16 @@ En estos ślokas lo que Aḷavandār **quiso decir** con las palabras
 शेष-भूतऩ् आऩ तऩक्कुप् पिऱक्किऱ प्रीतियिऩ्-उडैय  
 प्रेरकत्वातिशयञ् जॊल्लुगैयिले तात्पर्यम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+किं तु,  
+इह शास्त्रम् अवलम्ब्यैव ज्ञातव्येषु कैङ्कर्येषु  
+स्वामि-सन्तोष-जनकत्व-निबन्धनायाः  
+शेष-भूतस्य स्वस्य जायमानायाः प्रीतेः  
+प्रेरकत्वातिशयस्य प्रतिपादने तत्परम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7335,6 +7572,13 @@ para **darle deleite**.
 उपासनादिगळ्-उडैय स्वादुतमत्वत्तैयुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एषां श्लोकानाम् उपासनाधिकारि-विषये योजने क्रियमाणे  
+उपासनादीनां स्वादुतमत्वस्य,  
+</details>
+
+
 <details><summary>English</summary>
 
 When these ślokas **are considered** in relation to the man who **practises** upāsanas and the like -  
@@ -7363,6 +7607,8 @@ que estos upāsanas
 फलोपायम् आऩ शरण्यऩुक्कु प्रसादनम् आय्क् कॊण्डु  
 फलत्तुक्कु साक्षाद्-उपायम् अऩ्ऱिक्के निऱ्किऱ निलैयुम्, 
 </details>
+
+
 
 <details><summary>English</summary>
 
