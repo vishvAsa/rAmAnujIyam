@@ -3517,7 +3517,7 @@ eso **se demostró** que **no tenía** ningún fundamento por parte de maestros 
 
 
 
-## अधिकार-भ्रमाः
+## अधिकार-सङ्कोचे ऽविरोधः
 ### ज्ञतृता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4672,8 +4672,8 @@ It **is** in **consideration** of this circumstance that (Bhattar) **wrote**:-
 इप्पडि अपेक्षितकालत्तिलुम् फलप्रदानम् पण्णक्कूडिय उपायम् वेऱु इरुप्पदाग तॆरिन्दु कॊळ्ळाद इव्विळम्बाक्षमऩुक्कुम् अवऩे उपायमॆऩ्गिऱदु जगति गतिमित्यादि ऎऩ्गिऱार् इप् प्रकारत्तै निऩैत्तु इत्यादियाल्। 
 </details>
 
-
-### व्यासादयो न मन्दाः
+### उपासना-ग्रहणम्
+#### व्यासादयो न मन्दाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यासादिगळ् +++(भगवद्-कर्मणि)+++ अधिकारि-पुरुषर्गळ् आगैयाले  
@@ -4767,7 +4767,7 @@ antes de **pensar** en **logro**.)
 </details>
 
 
-### प्रपत्ति-त्याग-कुहेतवः
+#### प्रपत्ति-त्याग-कुहेतवः
 <details><summary>English</summary>
 
 (If **it be asked**,  
@@ -4923,7 +4923,7 @@ Ambos śāstras (los de upāsana y los de prapatti) **tienen** su propio propós
 </details>
 
 
-### स्व-धर्मे प्रतिपत्तिः
+#### स्व-धर्मे प्रतिपत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इरण्ड् अधिकारिगळुक्कुम्  
@@ -10621,10 +10621,57 @@ que **confiere** competencia (adhikāra) para prapatti
 इन्द योजऩैयिल् अधिकारमाऩवाकिञ्चन्यमुम् शोकियादे कॊळ् ळॆऩ्ऱु तेऱ्ऱुविक्किऱ वाक्यत्ताले सूचितम्। 
 </details>
 
+## शब्दान्तरौचित्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुवाद-पक्षत्तिल् 
+
+> तऩ्ऩ् अ-शक्तियाले कऴिन्द्-अवैय् ऒऴिय+++(=विहाय)+++,  
+शक्यम् आय्च् चॆय्गिऱव् आज्ञानुपालनादिगळुम्  
+प्रपत्तियिल् तुवक्क् ऒण्णाद् 
+
+ऎऩ्ऩुम् इडम्  
+एक-शब्दत्तिले विवक्षितम् आगक् कडवदु।
+</details>
+
+<details><summary>English</summary>
+
+If parityajya, ~~on the other hand~~, **is considered** as an anuvāda or **expression** of what has already **occurred**  
+(namely, the person **being incapable** of any upāya),  
+
+then, the word ‘eka’ (me alone) **indicates** that  
+among those rites **which arise** from the Lord's command  
+and those which **are approved** of by him,  
+
+there **is no connection** between such of them  
+as **are performed** as **being** within the range of a man's ability,  
+and prapatti.  
+</details>
+
+<details><summary>Español</summary>
+
+Si "parityajya" **se considera** como una anuvāda o **expresión** de lo que ya **ocurrió**  
+(es decir, la persona **siendo incapaz** de cualquier upāya),  
+
+entonces, la palabra 'eka' (yo solo) **indica** que  
+
+entre aquellos ritos **que surgen** del mandato del Señor  
+y aquellos que **son aprobados** por él,  
+
+**No hay** conexión entre ellos  
+como **se realizan** como **estando** dentro del rango de la capacidad de un hombre,  
+y prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुवादपक्षत्तिल् तऩ्ऩशक्तियाले कऴिन्दवैयॊऴिय शक्यमाय्च् चॆय्गिऱवाज्ञानुपालनादिगळुम् प्रपत्तियिल् तुवक्कॊण्णादॆऩ्ऩुमिडम् एकशब्दत्तिले विवक्षितमागक् कडवदु।
+</details>
 
 
 
-If parityajya, on the other hand, is considered as an anuvāda or expression of what has already occurred (namely, the person being incapable of any upāya), then, the word ‘eka’ (me alone) indicates that among those rites which arise from the Lord's command and those which are approved of by him, there is no connection between such of them as are performed as being within the range of a man's ability and prapatti. In this interpretation, the sentence ma śuchah (Do not grieve) makes clear the qualification (adhikāra) needed for prapatti which has already been expressed (in parityajya) and indicates also the manner in which the prapanna should conduct himself after the performance of prapatti (i.e.) being free from all care or anxiety.
+In this interpretation, the sentence ma śuchah (Do not grieve) makes clear the qualification (adhikāra) needed for prapatti which has already been expressed (in parityajya) and indicates also the manner in which the prapanna should conduct himself after the performance of prapatti (i.e.) being free from all care or anxiety.
 
 There are some other ways of interpreting the word (parityajya) without treating the injunction regarding 'giving up' as having no authority :
 
