@@ -9434,6 +9434,16 @@ de acuerdo con sus respectivos sūtras.
 क्रिया-विशेषङ्गळ् अनुष्ठिक्कवॊण्णादु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तस्मात् श्रीभाष्य-कारस्य तच्-छिष्य-प्रशिष्याणां च  
+उपदेशानुष्ठानयोर् निष्ठावद्भिः  
+
+आगम-सिद्धान्तानुवर्ति-संहिताविशेषेषु  
+प्रतिनियततयोक्तैर् मन्त्र-विशेषैः 
+
+क्रिया-विशेषाणाम् अनुष्ठानं न युक्तम् । 
+</details>
 
 
 <details><summary>English</summary>
@@ -9469,6 +9479,14 @@ que **están prescritos** especialmente (a quienes los siguen).
 चतुर्-विध-पञ्च-रात्रमुम् विभक्तम् आय् निऱ्कुम् निलैयुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अधिकाराद्य्-आनुरूप्येण  
++++(मन्त्र-+आगम-तन्त्र-तन्त्रान्तर-सिद्धान्त-विभागैः)+++  
+चतुर्-विध-पाञ्चरात्रस्य विभक्ततयाऽवस्थितिम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 That the Pāñcarātra **is** of four kinds or systems (Āgama Siddhānta, Mantra Siddhānta, Tantra Siddhānta and Tantrāntara Siddhānta) in **accordance** with the competency and the like (ability) of the person concerned, 
@@ -9489,6 +9507,13 @@ Que el Pāñcarātra **es** de cuatro tipos o sistemas (Āgama Siddhānta, Mantr
 वचन-विरोधम् इल्लादव् इडत्तिल्  
 ‘‘अनुक्तम् अन्यतो ग्राह्यं’’ ऎऩ्गिऱ न्यायम् नडक्कुम् बडियुम्  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(स्व)वचन-विरोध-रहित-स्थले  
+"अनुक्तम् अन्यतो ग्राह्यम्" इति न्यायस्य प्रवृत्ति-प्रकारम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9524,6 +9549,20 @@ siempre que **no haya conflicto** u **oposición**,
 ऎऩ्ऱुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P368]]
+
+> चतुर्ष्व् आश्रमेषु व्रत-विद्या-मोक्ष-लाभश् चास्ति
+
+इति शारीरकादिषु यथा समर्थितम्, तथा 
+
+> आगम-सिद्धान्तादिषु चतुर्षु साक्षान्-मोक्षोपायो मोक्षप्राप्तिश् चास्ति
+
+इत्य् एतच् च  
+</details>
+
+
 <details><summary>English</summary>
 
 And that, in all the four kinds of systems of Pāñcharātra, the direct means or upāya of attaining mokṣa **is set forth**  
@@ -9552,6 +9591,13 @@ y que para cada uno de ellos **existe** la posibilidad de **alcanzar** mokṣa.
 श्रीपाञ्च-रात्र-रक्षैयिले उपपादित्तोम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-पाञ्च-रात्र-रक्षायाम् उपापादिषाम । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 We have already shown (the above) in Śrī pañcarātrarakṣā (The Defence of Pāñcarātra). 
@@ -9576,6 +9622,14 @@ Ya **hemos mostrado** (lo anterior) en Śrī pañcarātrarakṣā (La Defensa de
 सर्व-कर्मङ्गळैयुम् अनुष्ठित्ताल्  
 प्रायश्चित्तादिगळुम् परक्कच्+++(=विस्तरेण)+++ चॊल्लप् पट्टदु। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषु शास्त्रेषु व्यवस्थित-विधान-रीतिम् उत्सृज्य  
+स्व-स्वाभिमत-मन्त्रैः सर्व-कर्मणाम् अनुष्ठाने  
+प्रायश्चित्तादीनि विस्तरेण प्रतिपादितानि ।+++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9607,6 +9661,14 @@ que si una persona **realizara** todos los karma-s o ritos con cualquier mantra 
 विरग्+++(=उपाय[भेदो])+++ इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत आ-मुक्तत्व-सिद्धेः  
+स्वाधिकारानुगुण-रूपेण शास्त्रोक्तं नियमं विना  
+कैङ्कर्यं कर्तुम् उपायो +++(ऽन्यो)+++ नास्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore until the time of **attaining** mukti,  
@@ -9633,6 +9695,14 @@ de cualquier manera distinta a la que **está ordenada** en los śāstras como *
 शास्त्रोक्त-कैङ्कर्यमे पण्ण वेण्डुगैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं प्रपन्नेनापि शास्त्र-वश्येन सता  
+शास्त्रोक्त-कैङ्कर्यस्यैव कर्तव्यत्वाद् 
+</details>
+
+
+
 <details><summary>English</summary>
 
 Hence since even the prapanna **is subject** to the authority of the sastras  
@@ -9656,6 +9726,12 @@ y **debe realizar** únicamente el **servicio** que **esté permitido** o **proh
 विधि-निषेध-लङ्घन-पक्षमुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+विधि-निषेध-लङ्घन-पक्षः, 
+</details>
+
+
 <details><summary>English</summary>
 
 > (1) Both those **commands** that **are enjoined** as positive rites or actions  
@@ -9678,6 +9754,12 @@ y aquellos que **prohiben** ciertas actividades **deben ser violadas**;
 
 विहित-निषिद्ध-त्याग-पक्षमुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विहित-निषिद्ध-त्याग-पक्षः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9707,6 +9789,14 @@ y los que **están prohibidos**
 ऎऩ्गिऱ पक्षमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> वर्णाश्रम-धर्मा औपाधिकत्वाज् जात-स्वरूप-ज्ञानेन त्याज्या 
+
+इति पक्षः, 
+</details>
+
+
 <details><summary>English</summary>
 
 > (3) The rites and **observances** of the variṭas and āśramas **are dependent** only on the bodies (of Brahmins and the like)  
@@ -9735,6 +9825,14 @@ quien **ha alcanzado** un verdadero conocimiento de la naturaleza esencial de su
 ऎऩ्गिऱ पक्षमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एते कार्या वा त्याज्या वेत्य् अविशेष 
+
+इति पक्षः, 
+</details>
+
+
 <details><summary>English</summary>
 
 > (4) They **may be performed** or **may not be performed** 
@@ -9753,11 +9851,19 @@ quien **ha alcanzado** un verdadero conocimiento de la naturaleza esencial de su
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> इवै तविर्न्दालुम् उगप्प् इऴक्कुम् अत्तऩैये  
+> इवै तविर्न्दालुम् +++(भगवत्-)+++उगप्प् इऴक्कुम् अत्तऩैये  
 वेऱ् ऒरु प्रत्यवायम् इल्लैय् 
 
 ऎऩ्गिऱ पक्षमुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एषां त्यागे +++(भगवत्-)+++प्रीति-हानिम् अन्तराऽन्यः कश्चित् प्रत्यवायो नास्ति
+
+इति पक्षः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9787,6 +9893,15 @@ excepto la **pérdida** del **placer** del Señor
 ऎऩ्गिऱ पक्षमुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एषाम् अननुष्ठाने  
+लोक-विरोध-मात्रम् एव प्रत्यवाय 
+
+इति पक्षः, 
+</details>
+
+
 <details><summary>English</summary>
 
 > (6) The only **harm** that **would result** in their **being given up**  
@@ -9811,6 +9926,15 @@ excepto la **pérdida** del **placer** del Señor
 सम्यङ्-न्यायानुगृहीत-- शास्त्र-संप्रदाय-विरुद्धङ्गळ् आऩ पडियाले  
 सत्त्व-स्थर्क्क् अनुपादेयङ्गळ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्ये ऽप्य् एवं-प्रकाराः पक्षाः सर्वे ऽपि  
+सम्यङ्-न्यायानुगृहीत-शास्त्र-संप्रदाय-विरुद्धत्वात्   
+सत्त्व-स्थानाम् अनुपादेयाः ।
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -9846,6 +9970,13 @@ por aquellos que **desean** **estar** en sattvam.
 पुदिद् आग सिलवऱ्ऱै विधिक्कुमाप् पोले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+संन्यासाश्रम-स्थानां प्राचीनानि कानिचित् निषिध्य  
+नूतनानां केषांचिद् विधानवत् 
+</details>
+
+
 <details><summary>English</summary>
 
 It **is** true that,  
@@ -9874,6 +10005,14 @@ y ciertos nuevos ritos y observancias **impuestos**,
 भागवतत्वम् अडियागच् सिलवऱ्ऱै निषेधित्तुच्  
 सिलवऱ्ऱै अपूर्वम् आग विधित्तालुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भागवतत्वं निमित्तीकृत्य  
+कानिचिन् निषिध्य  
+केषांचिद् अपूर्वाणां विधाने ऽपि 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9904,6 +10043,16 @@ y ciertas cosas nuevas **están prohibidas**.
 
 इत्य्-आदिगळाले अवश्य-कर्तव्यङ्गळ् आगच् चॊल्लप्-पट्ट कर्मङ्गळै विडव् ऒण्णादु+++(=अयुक्तम्)+++। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सन्ध्या-हीनो ऽशुचिर् नित्यम्  
+अनर्हस् सर्व-कर्मसु’’  
+(दक्ष-स्मृति) 
+
+इत्य्-आदिभिर् अवश्य-कर्तव्यतया विहितानि कर्माणि न त्याज्यानि । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9945,6 +10094,15 @@ Cualquier otro rito o karma que **realice**,
 अव्वो शास्त्रङ्गळिलेय् इऴिन्द्-अवर्गळ्-अनुष्ठिक्कक् कडवर्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+धर्म-शास्त्र-सूत्र-भेदेष्व् इव  
+भगवच्-छास्त्र-संहिता-भेदेषु  
+इतिहास-पुराणेषु चोच्यमानाः सन्ध्योपासन-भेदास्  
+तच्-छास्त्र-स्थैर् अनुष्ठेयाः । 
+</details>
+
+
 <details><summary>English</summary>
 
 As in the differences in the manner of **performing** the sandhyā **meditation** or **worship** that are found in the sūtras and the different Dharma Śāstras (Manu, Āpastamba and the like)  
@@ -9982,6 +10140,8 @@ respectivamente por aquellos que **siguen** estos **respectivos** Śāstras.
 
 > ‘‘दैवतान्य् अभिगच्छेत् तु’’  
 (मनुस्मृति ४-१५३) 
+
+इति
 </details>
 
 
@@ -10007,7 +10167,7 @@ uno **debe orar** a las deidades **para protección**"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘देव-स्थान-प्रणामनं’’  
-(आनुशाासनिकमॆऩ्ऱु पूर्वर्गळ्)
+(आनुशाासनिकम् ऎऩ्ऱु पूर्वर्गळ्)
 
 ऎऩ्ऱुम् 
 </details>
@@ -10015,6 +10175,7 @@ uno **debe orar** a las deidades **para protección**"
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘देव-स्थान-प्रणामनं’’  
+
 </details>
 
 <details><summary>English</summary>
@@ -10045,6 +10206,15 @@ donde los dioses **son adorados**"
 परमैकान्तिक्कु शास्त्र-बलत्ताले भगवद्-विषयत्तिले नियतम्। +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आदि-रीत्या  
+धर्म-शास्त्रेतिहासादिषूक्ता आचाराश् च  
+परमैकान्तिनः शास्त्र-बलाद् भगवद्-विषये नियताः । +++(5)+++  
+[[P369]]
+</details>
+
+
 <details><summary>English</summary>
 
 Conduct like the above which **is enjoined** in the śāstras and the Itihasas,  
@@ -10074,6 +10244,13 @@ debido a la autoridad del Śāstra
 आगैयाल् ऒरु शास्त्रङ् गळुक्कुम् विरोधमिल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः कैश्चिद् अपि शास्त्रैर् न विरोधः । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 Therefore no śāstra **is violated**.
@@ -10101,6 +10278,18 @@ Por lo tanto, ningún śāstra **es violado**.
 
 ऎऩ्ऱु श्रीवैष्णव-धर्म-शास्त्रङ्गळिऱ् सॊऩ्ऩ्-अदुवुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तस्माद् अष्टाक्षरं मन्त्रं  
+मद्-भक्तैर् वीत-कल्मषैः ।  
+सन्ध्याकालेषु जप्तव्यं  
+सततञ् चात्म-शुद्धये॥’’  
+(भारतम् आस्वमेदिग-पर्व ९८-६९) 
+
+इति श्रीवैष्णव-धर्म-शास्त्रेषूक्तम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10131,6 +10320,15 @@ Mandatos como los anteriores en shrI-vaiShNava-dharma-shAstra-s,
 
 ऎऩ्ऱु गद्यत्तिल् अरुळिच्चॆय्द्-अदुवुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘द्वयम् अर्थानुसन्धानेन सह सदैवं वक्ता’’  
+(शरणागति-गद्यम्) 
+
+इति गद्योक्तम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10166,6 +10364,14 @@ in the Gadya -
 अवऱ्ऱुक्कुप् पोक्कि,  
 मिक्क कालत्तिलेयेय् आगक् कडवदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यान्य् अप्य् एवं-भूतानि सर्वाणि  
+अवश्य-कर्तव्य- नित्य-नैमित्तिकाविरोघेन  
+तद्-आस्कन्दित-कालेभ्य इतरेषु कालेषु नियम्यानि । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10204,6 +10410,7 @@ y en aquellos momentos que **sobran** después de su actuación.
 > ‘श्रौत-स्मार्ताविरुद्धेषु  
 कालेषु जपम् आचरेत्’  
 
+इति नारदादयो ऽप्य् ऊचुः । 
 </details>
 
 <details><summary>English</summary>
@@ -10242,6 +10449,7 @@ en momentos que **no entren en conflicto** con la **realización** de los ritos 
 > ''हुत्वाऽग्निहोत्रादाव्  
 उक्तं कालम् अपि क्षिपन्’’ 
 
+इति वङ्गिपुरपूर्णो ऽप्य् अनुजग्राह । 
 </details>
 
 
@@ -10274,6 +10482,13 @@ Vaṅgīpuram Nambi también **ha dicho**: -
 सन्ध्या-कालत्तिले जलाञ्जलि प्रक्षेपम् पण्णिय् अरुळिऩार्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीभाष्यकारा अन्तिम-दशायाम् अपि  
+क्लेशेनोत्थाय सन्ध्याकाले जलाञ्जलि-प्रक्षेपम् अकार्षुः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Even in his last days, the author of Śrī Bhāṣya **stood up** with great difficulty  
@@ -10296,6 +10511,13 @@ y **ofreció** el anjali de agua en el momento de sandhyā.
 
 आगैयाल् "वर्णाश्रम-धर्मङ्गळ् औपाधिकङ्गळ्" ऎऩ्ऱु त्यजिक्कै पूर्वानुष्ठानादि-विरुद्धम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो वर्णाश्रमधर्माणाम् औपाधिकत्व-बुद्ध्या त्यागः  
+पूर्वानुष्ठानादि-विरुद्धः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10326,6 +10548,16 @@ con el pretexto de que **son** dependientes del upadhi del cuerpo
 अवैयुम् ऎल्लाम् औपाधिकङ्गळ् आय् त्याज्यङ्गळ् आम्।+++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं त्यजने  
+देहेन्द्रियाद्य्-उपाधीन् विना  
+माला-करण-- दीपारोपणादि- विशेष-कैङ्कर्याणाम् अप्य् अनुष्ठातुम् अशक्यत्वात्  
+तान्य् अपि सर्वाणि  
+औपाधिकत्वात् त्याज्यानि स्युः ।+++(5)+++ 
+</details>
+
+
 <details><summary>English</summary>
 
 If this pretext **were** sound,  
@@ -10355,6 +10587,13 @@ incluso estos **tendrían que ser abandonados** (por el hombre que **ha realizad
 अवऱ्ऱुक्कु योग्यताऽऽपादकङ्गळ् आऩ आचार-संस्कारादिगळैयुम् विडव् ऒण्णादु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-अनुष्ठानाशायां तद्-योग्यतापादका आचार-संस्कारादयो ऽपि  
+त्यक्तुं न युज्यन्ते । 
+</details>
+
+
 <details><summary>English</summary>
 
 If the **performance** of such services **is desired**,  
@@ -10379,6 +10618,11 @@ la pureza externa (āchāra) y los ritos purificatorios (samskāras) que **calif
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आऩबिऩ्बु,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः -
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10838,6 +11082,15 @@ Así también **mandatos respecto** del respeto que **se debe mostrar** a los de
 इन् नियमगळ् ऎल्लाम् संप्रतिपन्न-शिष्टानुष्ठान-परं-परैयालुम् सिद्धङ्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P370]]
+
+एते नियमाः सर्वे ऽपि  
+संप्रतिपन्न-शिष्टानुष्ठान-परम्-परयाऽपि सिद्धाः ।
+</details>
+
+
 <details><summary>English</summary>
 
 These **reservations** and **restrictions** **are established** also by the **practice** of successive generations of men  
@@ -10863,6 +11116,14 @@ Estas **reservas** y **restricciones** **están establecidas** también por la *
 भगवत्-कैङ्कर्यम् पण्णुगै  
 परमैकान्तित्व-विरुद्धम् अऩ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः, स्व-वर्णाश्रमादि-व्यवस्थित-नियमैः सह  
+भगवत्-कैङ्कर्य-करणं  
+न परमैकान्तित्व-विरुद्धम् ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11015,6 +11276,19 @@ que **se presta** por ostentación (o vanidad), por **dañar** a otros, por **im
 ऎऩ्ऩुमिडत्तैयुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+
+[[P371]]
+
+> परमैकान्ति-भिन्नैः क्रियमाणं कैङ्कर्यं  
+सर्वेश्वरः पादाभ्यां स्वीकरोति
+
+इत्य् एतत्, 
+</details>
+
+
+
 <details><summary>English</summary>
 
 The Lord of all **receives**, with His feet,  
@@ -11041,6 +11315,15 @@ el **servicio prestado** por aquellos que **no tienen** **devoción** suprema y 
 
 ऎऩ्ऩुम् इडत्तैयुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> परमैकान्तिभिः क्रियमाणं कैङ्कर्यं  
+शिरसा प्रतिगृह्णाति
+
+इत्य् एतच् च, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11073,6 +11356,7 @@ y (**recibe**) aquello **hecho** por aquellos que **tienen devoción** suprema y
 चरणाव् उपतिष्ठते’’  
 (भारतम् शान्ति-पर्व ३५८-६३) 
 
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -11110,6 +11394,8 @@ y (**recibe**) aquello **hecho** por aquellos que **tienen devoción** suprema y
 तास् सर्वाश् शिरसा देवः  
 **प्रतिगृह्णाति** वै स्वयम्’’  
 (भारतम् शान्ति-पर्व ३५८-६४) 
+
+इति च 
 </details>
 
 <details><summary>English</summary>
@@ -11134,6 +11420,11 @@ estos Bhagavān **los recibe** con Su cabeza.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्री-वेद-व्यास-भगवाऩ् अरुळिच् चॆय्दाऩ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-वेद-व्यास-भगवान् अनुजग्राह ।
 </details>
 
 <details><summary>English</summary>
@@ -11163,6 +11454,16 @@ Esta idea **es expresada** por Bhagavān Veda Vyasa en los (pasajes) anteriores.
 ‘‘सर्व-धर्मान् परित्यज्य’’  
 ऎऩ्गिऱ विधानत्ताले सिद्धम् आयिऱ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अनेन भगवद्-आज्ञया ऽनुष्ठीयमानानां नित्य-नैमित्तिक-कैङ्कर्याणां  
+भगवद्-अनुज्ञया +एतत्-प्रीति-मात्र-प्रयोजनोद्देशेन  
+अनुष्ठीयमानानाम् अधिकानां कैङ्कर्याणां च  
+अनया प्रपत्त्या सह संबन्धराहित्येनावस्थितिः,  
+"सर्वधर्मान् परित्यज्य" इति विधानेन सिद्धा ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11231,15 +11532,25 @@ ni uno debe **adquirir**, por el bien de prapatti, la habilidad o destreza
 अशक्येषु च सामर्थ्यं न तदर्थं समार्जयेत् ॥
 </details>
 
+## अनुवाद-पक्षे शब्दान्तर-समन्वयः
+### मा शुचः - आकिञ्चन्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द योजऩैयिल्  
+अधिकारम् आऩव् आकिञ्चन्यमुम्  
 
-> अधिकारम् आऩव् आकिञ्चन्यमुम्  
-शोकियादे कॊळ्ळ्  
+> शोकियादे कॊळ्ळ् +++(→"मा शुचः")+++  
 
 ऎऩ्ऱु तेऱ्ऱु+++(=सान्त्वनं)+++ विक्किऱ वाक्यत्ताले सूचितम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्यां योजनायाम्  
+अधिकारभूतम् आकिञ्चन्यम्,  
+"मा शुचः" इति समाश्वासनवाक्ये सूचितम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11264,8 +11575,9 @@ que **confiere** competencia (adhikāra) para prapatti
 इन्द योजऩैयिल् अधिकारमाऩवाकिञ्चन्यमुम् शोकियादे कॊळ् ळॆऩ्ऱु तेऱ्ऱुविक्किऱ वाक्यत्ताले सूचितम्। 
 </details>
 
-## अनुवाद-पक्षे शब्दान्तर-समन्वयः
-### एकम्
+
+
+### एकम् - नैरपेक्ष्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुवाद-पक्षत्तिल् 
@@ -11277,6 +11589,20 @@ que **confiere** competencia (adhikāra) para prapatti
 ऎऩ्ऩुम् इडम्  
 एक-शब्दत्तिले विवक्षितम् आगक् कडवदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P372]]  
+अनुवादपक्षे  
+
+> स्वाशक्त्या त्यक्तेभ्यो व्यतिरिक्तानि  
+शक्यत्वात् क्रियमाणान्य् आज्ञानुपालनादीनि  
+प्रपत्त्या न संबध्यन्त 
+
+इत्य् एतत्  
+"एक"-शब्दे विवक्षितं भवितुम् अर्हति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11313,12 +11639,20 @@ y prapatti.
 अनुवादपक्षत्तिल् तऩ्ऩशक्तियाले कऴिन्दवैयॊऴिय शक्यमाय्च् चॆय्गिऱवाज्ञानुपालनादिगळुम् प्रपत्तियिल् तुवक्कॊण्णादॆऩ्ऩुमिडम् एकशब्दत्तिले विवक्षितमागक् कडवदु।
 </details>
 
-### मा शुचः
+### मा शुचः - उत्तरकृत्ये नैर्भर्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पक्षत्तिल् "मा शुचः" ऎऩ्गिऱ वाक्यं,  
 ‘‘सर्व-धर्मान् परित्यज्य’’ ऎऩ्ऱु उक्तम् आऩव् अधिकारत्तै व्यक्तम् आक्किक् कॊण्डु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् पक्षे  
+"मा शुचः" इति वाक्यं  
+“सर्वधर्मान् परित्यज्य” इत्य्-उक्तम् अधिकारं व्यक्तं कुर्वत् सत्  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11345,6 +11679,13 @@ que **ya ha sido expresado** (en parityajya)
 उपलक्षिक्किऱदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अग्रिमानि निर्भरत्वादीनि पुरस्कृत्य  
+उत्तरकाले ऽपेक्षितान् स्थिति-प्रकारान् सर्वान् उपलक्षयति ।
+</details>
+
+
 <details><summary>English</summary>
 
 and **indicates** also the manner in which the prapanna **should conduct** himself  
@@ -11370,6 +11711,12 @@ después de la **actuación** de prapatti -
 त्याग-विधि-पक्षत्तुक्कु प्रमाण-विरोधम् वाराद बडिय्  
 इऩ्ऩमुम् सिल गतिगळुण्डु।  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+त्याग-विधिपक्षस्य प्रमाण-विरोध-प्रसङ्ग-रहिता अन्या अपि काश्चिद् गतयो भवन्ति-
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11539,6 +11886,11 @@ si también se **adopta** cualquier otro upāya.
 अ-शक्यत्तिले प्रवृत्तऩैत् "तविर्"+++(=निवर्तस्व)+++ ऎऩ्गैयुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अशक्येषु प्रवृत्तं प्रति "त्यजे"त्य्-उक्तिः, 
+</details>
+
 <details><summary>English</summary>
 
 1\. To the man who **proceeds** to **adopt** what he **is not capable** of, it **says** “Don't".
@@ -11562,6 +11914,14 @@ le **dice** **“No lo hagas”**.
 अभिनिवेशम् उडैयवऩै  
 "इदु वेण्डाव्" ऎऩ्गैयुम्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-दुष्करेषु स्वत एव निवृत्तेषु  
+अभिनिवेशवन्तं प्रति  
+"अयं नापेक्षित" इत्य्-उक्तिः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11590,6 +11950,15 @@ it **says**, "**Give up** this **determination**".
 
 विधि-प्रकारङ्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> विकल्पितेषूपायान्तरेषु कस्यचिद् अत्र मेलने  
+ब्रह्मास्त्रन्यायेन विरोधः स्याद् 
+
+इति निवर्तनं चात्र विधिप्रकाराः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11777,6 +12146,18 @@ esta **interpretación es inapropiada** aquí
 इप् प्रकारङ्गळिले निर्वाह्यम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+‘‘उपायापाय-सन्त्यागी’’  
+(लक्ष्मीतन्त्रम्) 
+
+[[P373]]
+
+इत्य्-आदिषूक्त उपाय-त्यागो ऽपि  
+एभिः प्रकारैर् निर्वाह्यः ।
+</details>
+
+
 <details><summary>English</summary>
 
 "The **giving up** of upāyas"  
@@ -11812,11 +12193,25 @@ esta **interpretación es inapropiada** aquí
 ## उपसंहारः
 (<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
+मूण्डालु मरियदनिन् मुयल वेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
 वेण्डादु सरणनॆऱि वेऱोर्गूट्टु वेण्डि लयनत्तिरम्बोल् वॆळ्गि निऱ्‌कुम्  
 नीण्डागुनिऱैमदियोर् नॆऱियिऱ्‌कूडा निऩ्ऱनिमै तुणैयाग वॆऩ्ऱन् पादम्  
 पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆऩ्ऱ पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. ॥ 42 ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उद्योगे ऽपि अशक्ये नोद्योक्तव्यम् ;  
+पूर्वं तस्मिन्न् आशायास् त्यागः श्रेष्ठः ;  
+नापेक्षेत शरण-मार्गो ऽन्यं कमपि सहायम् ;  
+(सहायान्तर)-चिकीर्षायाम्, (अयं) ब्रह्मास्त्रवल् लज्जितो वर्तेत ;  
+दीर्घ-काल-साध्ये पूर्ण-ज्ञानानाम् उचिते मार्गे ऽन्वय-रहितस्य तव केवलतां (आकिञ्चन्यं)  
+सहायत्वेन स्वीकृत्य  
+मम पादस्याश्रयणे  
+तवापराधान् सर्वान् क्षमिष्य  
+इत्य्-उक्तवतः पुण्यस्य गुणान् सर्वान् वर्णयेम ॥
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
