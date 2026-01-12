@@ -615,11 +615,569 @@ del cual la suciedad (prakṛti) **ha sido eliminada**?"
 नामिवर्गळै अऴुक्कुक्कऴऱ्ऱिऩ वाभरणत्तैप्पोले अङ्कीकरिप्पदॆऩ्गिऱ अभिप्रायत्ताले सत्वरऩाय्त् तऩ् पेऱाग फलङ्गॊडुक्क निऱ्किऱ निलै ‘‘अहं’’ ऎऩ्गिऱ पदत्तिले काट्टप्पडुगिऱदु।
 </details>
 
+## माम् एकं शरणं व्रज
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि अकिञ्चनऩ् आऩ अधिकारिक्कु  
+यथा-विधि रक्षाऽपेक्षा-पूर्वक-भर-न्यासत्तैय् ऒऴिय +++(4)+++  
+वेऱ् ऒऩ्ऱाल् अपेक्षैय् इल्लाद सिद्धोपायत्तै  
+‘‘माम् एकं’’ ऎऩ्ऱु काट्टि  
+</details>
+
+<details><summary>English</summary>
+
+Thus the carama śloka **indicates** by the words mām and ekam (me alone) the Siddhopāya  
+who **does not require** anything else than the surrender of responsibility (bharanyāsa)  
+with the **prayer** for **protection** **performed** according to the **injunction**. 
+</details>
+
+<details><summary>Español</summary>
+
+Así, el carama śloka **indica** con las palabras mām y ekam (yo solo) el Siddhopāya.  
+que **no requiere** nada más que la **rendición** de responsabilidad (bharanyāsa)  
+con la **oración** de **protección** **realizada** de acuerdo con el **orden**.
+</details>
 
 
-Thus the carama śloka indicates by the words mām and ekam (me alone) the Siddhopāya who does not require anything else than the surrender of responsibility (bharanyāsa) with the prayer for protection performed according to the injunction. And by the words saranam vraja (seek as refuge or upāya) it shows, in the form of an injunction (vidhi) Sādhyopāya (namely, prapatti) which is the means of winning His grace. Since the vidyā called prapatti, which is here enjoined, is ordained as a means of propitiating the Saviour, it becomes an upāya and resembles in that respect bhakti  yoga. Iśvara who is propitiated thereby is the direct means or upāya for mokṣa. What has to be understood as a distinguishing feature of this vidyāi (prapatti) is its being an upāya which does not require (any aid or accessory). All the attributes necessary for this purpose are also signified in the words mām and ekam (me alone).
+<details><summary>मूलम्</summary>
 
-By the word mām (me) which denotes the Saviour whose nature is indicated in such ślokas as the following: "This Nārāyaṇa who has the ocean of milk as His abode has now come to the city of Madhura leaving His bed of Adiśeṣa" by this word ( mām) are disclosed His being the Universal Saviour, His being the universal Śeṣī, His being the Lord of Śrī, His being Nārāyaṇa (the resting place of Naras) which are revealed in Tirumantra and Dvaya, and so also the qualities which can be inferred from them, namely, omniscience, omnipotence and the like, and, 30 also, such qualities as Ilis being supremely compassionate, His good nature (sauśīlya) and His love which are all the marks of supremacy and accessibility. ('The word mām also discloses ), like the word having the dual termination, viz, caraṇau (the two feet) in Dvaya, the divinely auspicious form of Pārthasārathi which suggests both His being the Supreme Being and His easy accessibility and which is our auspicious refuge. Here these four qualities of His, namely, His love, His being the Master, His good nature (sauśīlya) and His accessibility which are stated in such passages as the following :-- "O Thou that hast incomparable attributes, Thou that ownest the three worlds, Thou that art my Saviour! Thou that dwellest on Mount Veṅkatam, which is eagerly longed for by hosts of incomparable gods and rishis!" - these four qualities are revealed when Śrī Kṛṣṇa did not treat Arjuna's misplaced compassion and affection at the beginning with disregard, when He Himself declared : " There is no one higher than I ", when He served as charioteer to Arjuna who addressed Him as “O, Krishṇa O Yādava" and said " Drive my chariot and station it between the two armies" and when, at Arjuna's request, He revealed to Him His universal form immanent in all things and when later, as soon as he prayed to see His former delightful form as Śrī Kṛṣṇa, He stood before him once again as his charioteer. Among the aforesaid qualities of the Saviour, the most important attributes that are essential for the protection of those who seek Him have been briefly set forth in the Bhagavat Śāstra: "Though Bhagavān who keeps all under His control is both omniscient and compassionate, He expects a prayer for protection, since He has to conduct the course of the world of saṁsāra" anil in this śloka of the wise āchārya, “In the face of 'Thy omniscience, omnipotence and compassion, my sins cannot bear fruit." Among these three qualities, knowledge and might tre required in common for conferring punishment and favour. l'he Lord's being the Master serves the purpose both of His deriving the delight of Līlā from man in saṁsāra and His deriving enjoyment or bhoga in Vaikuṇṭha from the soul that has obtained mukti, So this attribute of Lordship cannot restrain the Lord's jñāna or knowledge and śakti or might so as to operate only in the work of protection. Compassion and its varieties (literally - branches) good nature, love and the like are solely responsible for the conferment of favours. The ancients who appreciated this distinguishing feature of mercy wrote as follows:--"O Thou "that art the Lord of Brahma, the god of the gods! I have not the ability to adore Thee or to praise Thee. (Therefore) with compassion alone in Thy heart, bestow Thy grace on me." "I relied on Thy compassion alone for protection." "I will not believe that I could be saved by anything other than Thy compassion," "I look to Thy compassion alone for salvation," "O Thou that, in spite of having the glorious Lakṣmī, art so full of compassion as to come and abide permanently in my heart", It is impossible" to protect me except with Thy holy compassion," "I will sweep Thy temple (and render such other service) being the recipient of Thy compassion and the compassion of Thy consort who dwells in the lotus," "Showing" Thy mercy with the exclamation 'Ha! Ha!!", "Show me only Thy compassion so that I, Thy servant, may realise that I have nothing else to attain than Thee and that I have no other upāya (than Thee ) and so that I may find delight only in rendering service to Thee." "O Lord of Hastigiri! Those that are devoted to Thee by their qualities and actions with the knowledge of Thee -- it is Thy compassion which has made them devoted to thee. I consider that only that compassion is a source of strength to me who am destitute of upāyas." In these Ways, these ancients looked lipon (the Lord's) compassion by their refuge and considered the relationship of the śeṣī to the śeṣa and other qualities (of the Lord) as the obedient servants of compassion and became solely dependent on the Lord's mercy, Sītā devi also said, in spite of the existence of other qualities: "Rāma, the descendant of Kakustha, extended his protection to him (Kakasura), out of compassion, though he deserved the punishment of being killed”.
+इप्पडि अकिञ्चनऩाऩ अधिकारिक्कु यथाविधि रक्षापेक्षापूर्वकभरन्यासत्तै यॊऴिय वेऱॊऩ्ऱालपेक्षैयिल्लाद सिद्धोपायत्तै ‘‘मामेकं’’ ऎऩ्ऱु काट्टि 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिऩ्-उडैय वशी-करणार्थम् आऩ साध्योपायत्तै  
+‘‘शरणं व्रज’’ ऎऩ्ऱु विधियाले काट्टुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+And by the words "saranam vraja" (seek as refuge or upāya)  
+it **shows**, in the form of an **injunction** (vidhi) Sādhyopāya (namely, prapatti)  
+which **is** the means of **winning** His grace. 
+</details>
+
+<details><summary>Español</summary>
+
+Y por las palabras "saranam vraja" (**buscar refugio** o upāya)  
+**muestra**, en forma de **orden** (vidhi) Sādhyopāya (es decir, prapatti)  
+que **es** el medio de **ganar** Su gracia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिऩुडैय वशीकरणार्थमाऩ साध्योपायत्तै ‘‘शरणं व्रज’’ ऎऩ्ऱु विधियाले काट्टुगिऱदु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि विधिक्किऱ प्रपत्ति-रूप-विद्यैक्कु  
+शरण्य-प्रसादनम् आग चोदितत्वत्ताले वरुगिऱ उपायत्वम्  
+भक्ति-योग-तुल्यम्।
+</details>
+
+<details><summary>English</summary>
+
+Since the vidyā called prapatti, which **is** here **enjoined**,  
+**is ordained** as a means of **propitiating** the Saviour,  
+it **becomes** an upāya  
+and **resembles** in that respect bhakti yoga. 
+</details>
+
+<details><summary>Español</summary>
+
+Desde la vidyā **llamado** prapatti, que **está** aquí **ordenada**,  
+**es ordenada** como medio para **propiciar** al Salvador,  
+se **convierte** en un upāya  
+y **se parece** en ese sentido al bhakti yoga.
+</details>
+
+### साध्योपायः
+<details><summary>मूलम्</summary>
+
+इप्पडि विधिक्किऱ प्रपत्तिरूपविद्यैक्कु शरण्यप्रसादनमाग चोदितत्वत्ताले वरुगिऱ उपायत्वम् भक्तियोगतुल्यम्।
+</details>
+
+### सिद्धोपायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदऩाले प्रसन्नऩ् आऩ ईश्वरऩ्  
+मोक्षत्तुक्कु साक्षाद्-उपायम्।
+</details>
+
+<details><summary>English</summary>
+
+Iśvara who **is propitiated** thereby  
+**is** the direct means or upāya for mokṣa. 
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara quien **es propiciado** por ello  
+**es** el medio directo o upāya para mokṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदऩाले प्रसन्नऩाऩ ईश्वरऩ् मोक्षत्तुक्कु साक्षादुपायम्।
+</details>
+
+
+### नैरपेक्ष्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् विद्यैक्कु विशेषित्तु वेद्याकारम्  
+निरपेक्षोपायत्वम्। 
+</details>
+
+<details><summary>English</summary>
+
+What has to be **understood** as a distinguishing feature of this vidyā (prapatti)  
+**is** its **being** an upāya  
+which **does not require** (any aid or accessory). 
+</details>
+
+<details><summary>Español</summary>
+
+Lo que debe **ser entendido** como un rasgo distintivo de este vidyā (prapatti)  
+**es** es **ser** un upāya  
+el cual **no requiere** (ningún tipo de ayuda o accesorio).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव् विद्यैक्कु विशेषित्तु वेद्याकारम्निरपेक्षोपायत्वम्। 
+</details>
+
+
+## माम् एकम् - शरण्य-गुणाः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्क् उपयुक्ताकारङ्गळ् ऎल्लाम्  
+‘‘मामेकं’’ ऎऩ्गिऱ पदङ्गळिले विवक्षितङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+All the attributes **necessary** for this purpose  
+**are** also **signified** in the words mām and ekam (me alone).
+</details>
+
+<details><summary>Español</summary>
+
+Todos los atributos **necesarios** para este propósito  
+**también** están **significados** en las palabras mām y ekam (yo solo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कुपयुक्ताकारङ्गळॆल्लाम् ‘‘मामेकं’’ ऎऩ्गिऱ पदङ्गळिले विवक्षितङ्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एष नारायणश् श्रीमान्’’(हरिवंशः ११३-६२) 
+</details>
+
+<details><summary>English</summary>
+
+> "This Nārāyaṇa who **has** the ocean of milk as His abode  
+**has now come** to the city of Madhura  
+**leaving** His bed of Adiśeṣa" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Este Nārāyaṇa que **tiene** el océano de leche como Su morada  
+ahora **ha llegado** a la ciudad de Madhura  
+**dejando** Su lecho de Adiśeṣa"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘एष नारायणश्श्रीमान्’’(हरिवंशः ११३-६२) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिले निर्दिष्ट-प्रकारऩ् आऩ  
+शरण्यऩैच् चॊल्लुगिऱ ‘‘मां’’ ऎऩ्गिऱ पदत्ताले 
+</details>
+
+<details><summary>English</summary>
+
+By the word mām (me) which **denotes** the Saviour  
+whose nature **is indicated** in such ślokas as the above,  
+</details>
+
+<details><summary>Español</summary>
+
+Por la palabra mām (yo) que **denota** el Salvador  
+cuya naturaleza **está indicada** en ślokas como los anteriores,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले निर्दिष्टप्रकारऩाऩ शरण्यऩैच् चॊल्लुगिऱ ‘‘मां’’ ऎऩ्गिऱ पदत्ताले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-मन्त्रत्तिलुम् द्वयत्तिलुम् प्रकाशितम् आऩ  
+सर्व-रक्षकत्वमुम्, सर्व-शेषित्वमुम्, श्रियः-पतित्वमुम्, नारायणत्वमुम्  
+इवऱ्ऱाल् आकृष्टम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+(by this word  mām) **are disclosed**  
+
+His **being** the Universal Saviour,  
+His **being** the universal Śeṣī,  
+His **being** the Lord of Śrī,  
+His **being** Nārāyaṇa (the resting place of Naras) 
+
+which **are revealed** in Tirumantra and Dvaya, 
+</details>
+
+<details><summary>Español</summary>
+
+(por esta palabra mām) **se revelan**  
+
+Su **ser** el Salvador Universal,  
+Su **ser** el Śeṣī universal,  
+Su **siendo** el Señor de Śrī,  
+Su **ser** Nārāyaṇa (el lugar de descanso**** de Naras) 
+
+que **se revelan** en Tirumantra y Dvaya,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुमन्त्रत्तिलुम् द्वयत्तिलुम् प्रकाशितमाऩ सर्वरक्षकत्वमुम् सर्वशेषित्वमुम् श्रियःपतित्वमुम् नारायणत्वमुम् इवऱ्ऱालाकृष्टमाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परत्व-सौलभ्यङ्गळुक्क् उऱुप्प्+++(=अङ्गम्)+++ आय् वरुगिऱ  
+सर्व-ज्ञत्व– सर्व-शक्तित्वादिगळुम्  
+परम-कारुणिकत्व-- सौशील्य-- वात्सल्यादिगळुम्
+</details>
+
+<details><summary>English</summary>
+
+and so also the qualities which **can be inferred** from them, namely,  
+omniscience, omnipotence and the like,  
+and, so also, such qualities as His being supremely compassionate,  
+His good nature (sauśīlya)  
+and His love  
+which **are** all the marks of supremacy and accessibility.  
+</details>
+
+<details><summary>Español</summary>
+
+y también las cualidades que **pueden inferirse** de ellos, a saber,  
+omnisciencia, omnipotencia y similares,  
+y, así también, cualidades tales como ser supremamente compasivo,  
+Su buena naturaleza (sauśīlya)  
+y su amor  
+que **son** todas las marcas de supremacía y accesibilidad.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परत्वसौलभ्यङ्गळुक्कुऱुप्पाय् वरुगिऱ सर्वज्ञत्व सर्वशक्तित्वादिगळुम् परमकारुणिकत्व सौशील्य वात्सल्यादिगळुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वयत्तिल् +++(चरणौ→)+++ द्वि-वचनान्त-पदत्ताले तोऱ्ऱिऩ शुभाश्रयम् आय्  
+परत्व-सौलभ्य-व्यञ्जकम् आऩ  
+पार्थ-सारथियिऩ्-उडैय दिव्य-मङ्गल-विग्रह-विशेषमुङ् काट्टप् पडुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+(The word "mām" also **discloses** ), like the word **having** the dual termination, viz, caraṇau (the two feet) in Dvaya,  
+the divinely auspicious form of Pārthasārathi  
+which **suggests** both His **being** the Supreme Being  
+and His easy accessibility  
+and which **is** our auspicious **refuge**. 
+
+</details>
+
+<details><summary>Español</summary>
+
+(La palabra "mām" también **revela**), como la palabra **que tiene** la terminación dual, a saber, caraṇau (los dos pies) en Dvaya,  
+
+la forma divinamente auspiciosa de Pārthasārathi  
+lo cual **sugiere** tanto  
+
+Su **ser** el Ser Supremo  
+y su fácil **accesibilidad**  
+y que **es** nuestro auspicioso **refugio**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+द्वयत्तिल् द्विवचनान्तपदत्ताले तोऱ्ऱिऩ शुभाश्रयमाय् परत्वसौलभ्यव्यञ्जकमाऩ पार्थसारथियिऩुडैय दिव्यमङ्गळ विग्रहविशेषमुङ्गाट्टप्पडुगिऱदु।
+</details>
+
+### कथायां सूचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गे 
+
+’’निगर्+++(=सम)+++ इल् पुगऴाय्”( तिरुवाय्मॊऴि ६-१०-१०) 
+
+इत्य्-आदिगळिऱ् सॊल्लुगिऱ 
+</details>
+
+<details><summary>English</summary>
+
+Here, as **are stated** in such passages as the **following** :-- 
+
+> "O Thou that **hast** incomparable attributes,  
+Thou that **ownest** the three worlds,  
+Thou that **art** my Saviour!  
+Thou that **dwellest** on Mount Veṅkatam,  
+which **is** eagerly **longed for** by hosts of incomparable gods and rishis!" 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí, como **se indica** en pasajes como el **siguiente**:-- 
+
+> "Oh Tú que **tienes** atributos incomparables,  
+Tú que **posees** los tres mundos,  
+¡Tú que **eres** mi Salvador!  
+Tú que **habitas** en el monte Veṅkatam,  
+que **es** ansiosamente **anhelado** por huestes de dioses y rishis incomparables!"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गे ’’निगरिल् पुगऴाय्”( तिरुवाय्मॊऴि ६-१०-१०) इत्यादिगळिऱ्सॊल्लुगिऱ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वात्सल्य-स्वामित्व- सौशील्य-सौलभ्य-रूपम् आऩ इग्-गुण-चतुष्टयमुम् अडियिले 
+</details>
+
+<details><summary>English</summary>
+
+these four qualities of His, namely,  
+His love, His **being** the Master, His good nature (sauśīlya) and His **accessibility** -  
+</details>
+
+<details><summary>Español</summary>
+
+estas cuatro cualidades suyas, a saber,  
+Su amor, Su **ser** el Maestro, Su buena naturaleza (sauśīlya) y Su **accesibilidad** -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वात्सल्यस्वामित्वसौशील्यसौलभ्यरूपमाऩ इग् गुणचतुष्टयमुमडियिले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्थान-स्नेहादिगळाले कलङ्गिऩ अर्जुनऩैय् अनादरियामैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+when Śrī Kṛṣṇa **did not treat** Arjuna's misplaced compassion and affection at the beginning with disregard, 
+</details>
+
+<details><summary>Español</summary>
+
+cuando Śrī Kṛṣṇa **no trató** la compasión y el afecto, fuera de lugar, de Arjuna al principio con desprecio,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्थानस्नेहादिगळाले कलङ्गिऩ अर्जुनऩै यनादरियामैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मत्तः परतरन् नान्यत्’’(गीता ७-७) 
+
+ऎऩ्ऱु ताऩेय् अरुळिच् चॆय्गैयालुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मत्तः परतरन् नान्यत्’’(गीता ७-७) 
+</details>
+
+<details><summary>English</summary>
+
+when He Himself **declared** : 
+
+> " There **is no** one higher than I ", 
+</details>
+
+<details><summary>Español</summary>
+
+cuando Él mismo **declaró**: 
+
+> " **No hay nadie** más alto que yo ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘मत्तः परतरन्नान्यत्’’(गीता ७-७) ऎऩ्ऱु ताऩेयरुळिच्चॆय्गैयालुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘हे कृष्ण हे यादव’’(गीता ११-४१), 
+
+> ‘‘रथं स्थापय मेऽच्युत’’(गीता १-२१) 
+
+ऎऩ्ऩुम् बडि  
+निऩ्ऱु सारथ्यादिगळैप् पण्णुगैयालुम्
+</details>
+
+<details><summary>English</summary>
+
+when He **served** as charioteer to Arjuna  
+who **addressed** Him as “O, Krishṇa O Yādava"  
+and said 
+
+> " **Drive** my chariot and **station it** between the two armies" 
+</details>
+
+<details><summary>Español</summary>
+
+cuando **sirvió** como auriga de Arjuna  
+quien **se dirigió** a Él como "Oh, Krishṇa, oh Yādava"  
+y **dijo** 
+
+> " **Conduce** mi carro y **colocalo** entre los dos ejércitos"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘हे कृष्ण हे यादव’’(गीता ११-४१), ‘‘रथं स्थापय मेऽच्युत’’(गीता १-२१) ऎऩ्ऩुम्बडि निऩ्ऱु सारथ्यादिगळैप् पण्णुगैयालुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"काण-वेणुम्" ऎऩ्ऩ स्व-वैश्वरूप्यत्तैक् काट्टि  
+
+> मीण्डुम् पऴय सौम्य-विग्रहत्तैक् काट्ट-वेणुम् 
+
+ऎऩ्ऩव्  
+अप्-पोदे सारथि-रूपऩ् आय्त् तोऱ्ऱि निऱ्कैयालुम्
+
+व्यञ्जितमायिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+and when, at Arjuna's **request**,  
+He **revealed** to Him His universal form  
+**immanent** in all things  
+and when later, as soon as he **prayed** to **see** His former delightful form as Śrī Kṛṣṇa,  
+He **stood** before him once again as his charioteer. 
+
+these four qualities **are revealed**.
+</details>
+
+<details><summary>Español</summary>
+
+y cuando, a **petición** de Arjuna,  
+Él **le reveló** Su forma universal  
+**inmanente** en todas las cosas  
+y cuando más tarde, tan pronto como **oró** para **ver** Su antigua y deliciosa forma como Śrī Kṛṣṇa,  
+Él **estuvo** delante de él una vez  
+más como su auriga.
+
+estas cuatro cualidades **se revelan**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+काणवेणुमॆऩ्ऩ स्ववैश्वरूप्यत्तैक् काट्टि मीण्डुम् पऴय सौम्यविग्रहत्तैक् काट्टवेणुमॆऩ्ऩ वप्पोदे सारथिरूपऩाय्त् तोऱ्ऱि निऱ्कैयालुम् व्यञ्जितमायिऱ्ऱु।
+</details>
+
+### आश्रित-रक्षणे प्रधानाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्तम् आऩ शरण्यगुणङ्गळिल्  
+आश्रित-संरक्षणत्तुक्कु प्रधानतमङ्गळ्
+</details>
+
+<details><summary>English</summary>
+
+Among the aforesaid qualities of the Saviour,  
+the most important attributes that **are** essential  
+for the **protection** of those who seek Him  
+</details>
+
+<details><summary>Español</summary>
+
+Entre las cualidades antes **mencionadas** del Salvador,  
+los atributos más importantes que **son** esenciales  
+para la **protección** de aquellos que lo **buscan**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उक्तमाऩ शरण्यगुणङ्गळिल् आश्रितसंरक्षणत्तुक्कु प्रधानतमङ्गळ्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्वज्ञोऽपि हि विश्वेशस्  
+सदा कारुणिकोऽपि सन्’’  
+(लक्ष्मीतन्त्रम् १७-७८) 
+
+ऎऩ्ऱु भगवच्-छास्त्रत्तिलुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सर्वज्ञोऽपि हि विश्वेशस्  
+सदा कारुणिकोऽपि सन्’’  
+(लक्ष्मीतन्त्रम् १७-७८) 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वज्ञोऽपि हि विश्वेशस्सदा कारुणिकोऽपि सन्’’(लक्ष्मीतन्त्रम् १७-७८) ऎऩ्ऱु भगवच्छास्त्रत्तिलुम्
+</details>
+
+**have been** briefly **set forth** in the Bhagavat Śāstra: 
+
+> "Though Bhagavān who **keeps** all under His **control** is both omniscient and compassionate, He expects a prayer for protection, since He has to conduct the course of the world of saṁsāra" anil in this śloka of the wise āchārya, “In the face of 'Thy omniscience, omnipotence and compassion, my sins cannot bear fruit." Among these three qualities, knowledge and might tre required in common for conferring punishment and favour. l'he Lord's being the Master serves the purpose both of His deriving the delight of Līlā from man in saṁsāra and His deriving enjoyment or bhoga in Vaikuṇṭha from the soul that has obtained mukti, So this attribute of Lordship cannot restrain the Lord's jñāna or knowledge and śakti or might so as to operate only in the work of protection. Compassion and its varieties (literally - branches) good nature, love and the like are solely responsible for the conferment of favours. The ancients who appreciated this distinguishing feature of mercy wrote as follows:--"O Thou "that art the Lord of Brahma, the god of the gods! I have not the ability to adore Thee or to praise Thee. (Therefore) with compassion alone in Thy heart, bestow Thy grace on me." "I relied on Thy compassion alone for protection." "I will not believe that I could be saved by anything other than Thy compassion," "I look to Thy compassion alone for salvation," "O Thou that, in spite of having the glorious Lakṣmī, art so full of compassion as to come and abide permanently in my heart", It is impossible" to protect me except with Thy holy compassion," "I will sweep Thy temple (and render such other service) being the recipient of Thy compassion and the compassion of Thy consort who dwells in the lotus," "Showing" Thy mercy with the exclamation 'Ha! Ha!!", "Show me only Thy compassion so that I, Thy servant, may realise that I have nothing else to attain than Thee and that I have no other upāya (than Thee ) and so that I may find delight only in rendering service to Thee." "O Lord of Hastigiri! Those that are devoted to Thee by their qualities and actions with the knowledge of Thee -- it is Thy compassion which has made them devoted to thee. I consider that only that compassion is a source of strength to me who am destitute of upāyas." In these Ways, these ancients looked lipon (the Lord's) compassion by their refuge and considered the relationship of the śeṣī to the śeṣa and other qualities (of the Lord) as the obedient servants of compassion and became solely dependent on the Lord's mercy, Sītā devi also said, in spite of the existence of other qualities: "Rāma, the descendant of Kakustha, extended his protection to him (Kakasura), out of compassion, though he deserved the punishment of being killed”.
 
 Since Śrī Rāmānuja has also written in his Gadya "At [^111] the time of the death of the body, you will, by my grace alone, become wise and have a vision of me etc.," the primary importance of (the Lord's) compassion is indicated. Facing (Arjuna) with this primary quality so essential for protection and other attributes which are ancillary to it, Śrī Kṛṣṇa referred to Himself as mām (me).
 
