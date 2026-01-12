@@ -1169,15 +1169,426 @@ para la **protección** de aquellos que lo **buscan**
 
 </details>
 
+<details><summary>English</summary>
+
+in the Bhagavat Śāstra: 
+
+> "Though Bhagavān who **keeps** all under His **control** is both omniscient and compassionate,  
+He **expects** a **prayer** for **protection**,  
+since He **has to conduct** the course of the world of saṁsāra" 
+</details>
+
+<details><summary>Español</summary>
+
+en el Bhagavat Śāstra: 
+
+> "Aunque Bhagavān, que **mantiene** todo bajo Su **control**, es omnisciente y compasivo,  
+Él **espera** una **oración** de **protección**,  
+ya que Él **tiene que conducir** el curso del mundo del saṁsāra"
+</details>
 
 <details><summary>मूलम्</summary>
 
 ‘‘सर्वज्ञोऽपि हि विश्वेशस्सदा कारुणिकोऽपि सन्’’(लक्ष्मीतन्त्रम् १७-७८) ऎऩ्ऱु भगवच्छास्त्रत्तिलुम्
 </details>
 
-**have been** briefly **set forth** in the Bhagavat Śāstra: 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> "Though Bhagavān who **keeps** all under His **control** is both omniscient and compassionate, He expects a prayer for protection, since He has to conduct the course of the world of saṁsāra" anil in this śloka of the wise āchārya, “In the face of 'Thy omniscience, omnipotence and compassion, my sins cannot bear fruit." Among these three qualities, knowledge and might tre required in common for conferring punishment and favour. l'he Lord's being the Master serves the purpose both of His deriving the delight of Līlā from man in saṁsāra and His deriving enjoyment or bhoga in Vaikuṇṭha from the soul that has obtained mukti, So this attribute of Lordship cannot restrain the Lord's jñāna or knowledge and śakti or might so as to operate only in the work of protection. Compassion and its varieties (literally - branches) good nature, love and the like are solely responsible for the conferment of favours. The ancients who appreciated this distinguishing feature of mercy wrote as follows:--"O Thou "that art the Lord of Brahma, the god of the gods! I have not the ability to adore Thee or to praise Thee. (Therefore) with compassion alone in Thy heart, bestow Thy grace on me." "I relied on Thy compassion alone for protection." "I will not believe that I could be saved by anything other than Thy compassion," "I look to Thy compassion alone for salvation," "O Thou that, in spite of having the glorious Lakṣmī, art so full of compassion as to come and abide permanently in my heart", It is impossible" to protect me except with Thy holy compassion," "I will sweep Thy temple (and render such other service) being the recipient of Thy compassion and the compassion of Thy consort who dwells in the lotus," "Showing" Thy mercy with the exclamation 'Ha! Ha!!", "Show me only Thy compassion so that I, Thy servant, may realise that I have nothing else to attain than Thee and that I have no other upāya (than Thee ) and so that I may find delight only in rendering service to Thee." "O Lord of Hastigiri! Those that are devoted to Thee by their qualities and actions with the knowledge of Thee -- it is Thy compassion which has made them devoted to thee. I consider that only that compassion is a source of strength to me who am destitute of upāyas." In these Ways, these ancients looked lipon (the Lord's) compassion by their refuge and considered the relationship of the śeṣī to the śeṣa and other qualities (of the Lord) as the obedient servants of compassion and became solely dependent on the Lord's mercy, Sītā devi also said, in spite of the existence of other qualities: "Rāma, the descendant of Kakustha, extended his protection to him (Kakasura), out of compassion, though he deserved the punishment of being killed”.
+> ‘‘त्वज्-ज्ञान-शक्ति-करुणासु सतीषु’’  
+(अदिमानुषस्तवम् ६१) 
+
+ऎऩ्गिऱ अभियुक्त-वाक्यत्तिलुम् संग्रहिक्कप् पट्टऩ।
+</details>
+
+<details><summary>English</summary>
+
+and in this śloka of the wise āchārya, 
+
+> “In the face of Thy omniscience, omnipotence and compassion,  
+my sins **cannot bear fruit**." 
+
+(these) **have been** briefly **set forth**.
+</details>
+
+<details><summary>Español</summary>
+
+y en este śloka del sabio āchārya, 
+
+> “Frente a Tu omnisciencia, omnipotencia y compasión,  
+mis pecados **no pueden dar fruto**." 
+
+(Estos) **han sido** brevemente **expuestos**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वज्ज्ञानशक्तिकरुणासु सतीषु’’(अदिमानुषस्तवम् ६१) ऎऩ्गिऱ अभियुक्तवाक्यत्तिलुम् संग्रहिक्कप्पट्टऩ।
+</details>
+
+#### ज्ञान-शक्ती
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवै मूऩ्ऱिलुम् ज्ञान-शक्तिगळ् निग्रहानुग्रह-साधारणङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+Among these three qualities, knowledge and might **are required** in common  
+for **conferring punishment** and favour. 
+</details>
+
+<details><summary>Español</summary>
+
+Entre estas tres cualidades, el conocimiento y el poder **se requieren** en común  
+por **conferir castigo** y favor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवै मूऩ्ऱिलुम् ज्ञानशक्तिकळ् निग्रहानुग्रहसाधारणङ्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वामित्वमुम्  
++++(संसारे विशिष्य)+++ लीलोपकरणम् आक्कुगैक्कुम्,  
++++(वैकुण्ठे विशिष्य)+++ भोगोपकरणम् आक्कुगैक्कुम्  
+पॊदुव् आगैयाले  
+ज्ञान-शक्तिगळै रक्षणैकान्तङ्गळ् आग नियमिक्क माट्टादु।
+</details>
+
+<details><summary>English</summary>
+
+The Lord's **being** the Master **serves** the purpose both of His **deriving** the delight of Līlā from man in saṁsāra  
+and His **deriving enjoyment** or bhoga in Vaikuṇṭha  
+from the soul that **has obtained** mukti.  
+So this attribute of Lordship **cannot restrain** the Lord's jñāna or knowledge and śakti or might  
+so as to **operate** only in the work of **protection**. 
+</details>
+
+<details><summary>Español</summary>
+
+El hecho de que el Señor **sea** el Maestro  
+**sirve** al propósito de **derivar** 
+
+el deleite de Līlā del hombre en saṁsāra  
+y Su **disfrute derivado** o bhoga en Vaikuṇṭha  
+del alma que **ha obtenido** mukti.  
+
+Así que este atributo de Señorío **no puede restringir** el jñāna o conocimiento y śakti o poder del Señor.  
+para **operar** sólo en el trabajo de **protección**.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+स्वामित्वमुम् लीलोपकरणमाक्कुगैक्कुम् भोगोपकरणमाक्कुगैक्कुम् पॊदु वागैयाले ज्ञानशक्तिकळै रक्षणैकान्तङ्गळाग नियमिक्कमाट्टादु।
+</details>
+
+#### कारुण्यादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कारुण्यमुम्, इदिऩ् कवडुगळ्+++(=शाखा)+++ आऩ सौशील्य-वात्सल्यादिगळुम्  
+अनुग्रहत्तुक्क् एकान्तङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+Compassion and its varieties (literally - branches) good nature, love and the like  
+**are** solely **responsible** for the **conferment** of favours. 
+</details>
+
+<details><summary>Español</summary>
+
+Compasión y sus variedades (literalmente, ramas), buena naturaleza, amor y cosas por el estilo  
+**son** los únicos **responsables** de la **concesión** de favores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कारुण्यमुम् इदिऩ् कवडुगळाऩ सौशील्यवात्सल्यादिगळुम् अनुग्रहत्तुक्केकान्तङ्गळ्।
+</details>
+
+
+##### पूर्वाचार्य-स्तुतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि इक् कारुण्यत्तिऩुडैय वासियैक्+++(=वरत्वं)+++ कण्ड पूर्वर्गळ् 
+</details>
+
+<details><summary>English</summary>
+
+The ancients who **appreciated** this distinguishing feature of mercy 
+</details>
+
+<details><summary>Español</summary>
+
+Los antiguos que **apreciaban** este rasgo distintivo de la misericordia
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इक् कारुण्यत्तिऩुडैय वासियैक् कण्ड पूर्वर्गळ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सोऽहन् ते देव-देवेश  
+**नार्चनादौ स्तुतौ** न च ।  
+सामर्थ्यवान्, कृपा-मात्र-  
+मनो-वृत्तिः **प्रसीद** मे’’  
+(विष्णुपुराणम् ५-७-७०) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सोऽहन् ते देव-देवेश  
+**नार्चनादौ स्तुतौ** न च ।  
+सामर्थ्यवान्, कृपा-मात्र-  
+मनो-वृत्तिः **प्रसीद** मे’’  
+(विष्णुपुराणम् ५-७-७०) 
+
+</details>
+
+<details><summary>English</summary>
+
+> "O Thou that **art** the Lord of Brahma, the god of the gods!  
+**I have not** the ability to **adore** Thee or to **praise** Thee.  
+(Therefore) with compassion alone in Thy heart,  
+**bestow** Thy grace on me." 
+</details>
+
+<details><summary>Español</summary>
+
+> "¡Oh Tú que **eres** el Señor de Brahma, el dios de los dioses!  
+**No tengo** la capacidad de **adorarte** ni de **alabarte**.  
+(Por lo tanto) con compasión sola en Tu corazón,  
+**concede** Tu gracia sobre mí."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सोऽहन्ते देवदेवेश नार्चनादौ स्तुतौ न च । सामर्थ्यवान् कृपामात्रमनोवृत्तिः प्रसीद मे’’(विष्णुपुराणम् ५-७-७०) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६३’’निऩ्ऩ्-अरुळे पुरिन्द् इरुन्देऩ्’’(पॆरियाऴ्वार् तिरुमॊऴि ५-४-१)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "I **relied** on Thy compassion alone for **protection**." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Yo **confié** únicamente en Tu compasión para **protección**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६३’’निऩ्ऩरुळे पुरिन्दिरुन्देऩ्’’(पॆरियाऴ्वार् तिरुमॊऴि ५-४-१)  ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६४’’तुणियेऩ् इऩि निऩ्ऩ्-अरुळल्-अल्लद् ऎऩक्क्’’(पॆरियदिरुमॊऴि ११-८-८)  
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+> "**I will not believe** that  
+**I could be saved**  
+by anything other than Thy compassion," 
+</details>
+
+<details><summary>Español</summary>
+
+> "**No voy a creer** que  
+**Podría salvarme**  
+por cualquier otra cosa  
+que no sea tu compasión",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६४’’तुणियेऩिऩि निऩ्ऩरुळलल्लदॆऩक्क्’’(पॆरियदिरुमॊऴि ११-८-८)  ऎऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६५’’उऩ्ऩ्-अरुळे पार्प्पऩ्+++(=वीक्षमाणः)+++ अडियेऩ्’’  
+(पॆरुमाळ् तिरुमॊऴि ५-४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "**I look** to Thy compassion alone for salvation," 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Miro** sólo a Tu compasión para la salvación",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६५’’उऩ्ऩरुळे पार्प्पऩडियेऩ्’’(पॆरुमाळ् तिरुमॊऴि ५-४) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६६’’तिरु-मा-मगळैप् पॆऱ्ऱुम्+++(=लब्ध्वाऽपि)+++ ऎऩ्-ऩॆञ्जङ्-कोयिल् कॊण्ड पेर्-अरुळ्-आळऩ्’’(तिरु-विरुत्तम् ६२)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "O Thou that, in spite of **having** the glorious Lakṣmī,  
+**art** so full of compassion  
+as to **come** and **abide** permanently in my heart", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Oh Tú que, a pesar de **tener** al glorioso Lakṣmī,  
+**arte** tan lleno de compasión  
+como para **venir** y **permanecer** permanentemente en mi corazón",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६६’’तिरुमामगळैप् पॆऱ्ऱुमॆऩ्ऩॆञ्जङ् गोयिल् कॊण्ड पेररुळाळऩ्’’(तिरुविरुत्तम् ६२)  ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६७’’निऩ्ऱ् इरुव् अरुळाल् अऩ्ऱिक् काप्प् अरिद्+++(=अज्ञातम्)+++’’(तिरुवाय्मॊऴि ९-२-१)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "It **is impossible** to **protect** me  
+except with Thy holy compassion," 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Es **es imposible** **protegerme**  
+excepto con tu santa compasión",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६७’’निऩ्ऱिरुवरुळालऩ्ऱिक् काप्परिद्’’(तिरुवाय्मॊऴि ९-२-१)  ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६८’’निऩ्ऱ्-इरुव्-अरुळुम्,  
+पङ्गयत्ताळ् तिरुव्-अरुळुम्’’(तिरुवाय्मॊऴि ५-१-५)  ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "**I will sweep** Thy temple  
+(and **render** such other **service**)  
+**being** the recipient of Thy compassion  
+and the compassion of Thy consort  
+who **dwells** in the lotus," 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "**Barreré** Tu templo  
+(y **prestar** ese otro **servicio**)  
+**siendo** el destinatario de Tu compasión  
+y la compasión de tu consorte  
+que **habita** en el loto",
+</details>
+
+<details><summary>मूलम्</summary>
+
+६८’’निऩ्ऱिरुवरुळुम् पङ्गयत्ताळ् तिरुवरुळुम्’’(तिरुवाय्मॊऴि ५-१-५)  ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६९’’आव्! आव्! ऎऩ्ऱ् अरुळ् सॆय्द्’’()  
+
+ऎऩ्ऱुम्
+</details>
+
+<details><summary>English</summary>
+
+> "Showing Thy mercy with the exclamation 'Ha! Ha!!'", 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Mostrando** Tu misericordia con la exclamación '¡Ja! ¡¡Ja!!'",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६९’’आवावॆऩ्ऱरुळ्सॆय्द्’’()  ऎऩ्ऱुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ७०‘‘कृपया केवलम् आत्मसात्-कुरु’’  
+(आळवन्दार्-स्तोत्रम् ४८) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ७०‘‘कृपया केवलम् आत्मसात्-कुरु’’  
+(आळवन्दार्-स्तोत्रम् ४८) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+७०‘‘कृपया केवलमात्मसात्कुरु’’(आळवन्दार्-स्तोत्रम् ४८) 
+</details>
+
+
+wrote as follows:--
+
+
+
+> "Show me only Thy compassion so that I, Thy servant, may realise that I have nothing else to attain than Thee and that I have no other upāya (than Thee ) and so that I may find delight only in rendering service to Thee." "O Lord of Hastigiri! Those that are devoted to Thee by their qualities and actions with the knowledge of Thee -- it is Thy compassion which has made them devoted to thee. I consider that only that compassion is a source of strength to me who am destitute of upāyas." In these Ways, these ancients looked lipon (the Lord's) compassion by their refuge and considered the relationship of the śeṣī to the śeṣa and other qualities (of the Lord) as the obedient servants of compassion and became solely dependent on the Lord's mercy, Sītā devi also said, in spite of the existence of other qualities: "Rāma, the descendant of Kakustha, extended his protection to him (Kakasura), out of compassion, though he deserved the punishment of being killed”.
 
 Since Śrī Rāmānuja has also written in his Gadya "At [^111] the time of the death of the body, you will, by my grace alone, become wise and have a vision of me etc.," the primary importance of (the Lord's) compassion is indicated. Facing (Arjuna) with this primary quality so essential for protection and other attributes which are ancillary to it, Śrī Kṛṣṇa referred to Himself as mām (me).
 
