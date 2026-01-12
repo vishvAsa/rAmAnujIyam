@@ -442,6 +442,15 @@ pero como **se ve** en el mundo,
 आश्रयणीयऩुम् आय् प्राप्यऩुम् आगिऱाऩ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः, केवल-सुलभ-तृणादि-वैधर्म्येण श्लाघ्यः,  
+दुर्लभ-मेरु-वैधर्म्येण सुलभः  
+परश् च शरण्य  
+आश्रयणीयः प्राप्यश् च भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 The Saviour who **is** both **accessible** and supreme  
@@ -484,6 +493,13 @@ y **capaz** de **ser alcanzado**.
 रक्षणत्तुक्क् अवसरम् पार्त्तु निऱ्किऱ निलैयुन् तोऱ्ऱुगिऱदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनयोर् उभयोः पदयोः  
+सर्व-रक्षकस्य सर्व-शेषिणो रक्षणावसर-प्रतीक्षण-दशा प्रतीयते । 
+</details>
+
+
 <details><summary>English</summary>
 
 In these two words mām and aham,  
@@ -516,9 +532,12 @@ En estas dos palabras mām y aham,
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इत्थम् अवसर-प्रतीक्षस्येश्वरस्य 
+
 > ‘‘रक्षाऽपेक्षां प्रतीक्षते’’  
 (लक्ष्मीतन्त्रम् १७-७८) 
 
+इत्य्-उक्तरीत्या,
 </details>
 
 <details><summary>English</summary>
@@ -552,6 +571,15 @@ como **indicado** en el pasaje:--
 
 ऎऩ्ऱु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> कदाऽस्मान् इमे अपेक्षेरन् 
+
+इत्य् अभिप्रायेणाभिमुख्येनावस्थितिर्  
+"माम्" इति पदेन सूचिता । [[P375]]
+</details>
+
 
 <details><summary>English</summary>
 
@@ -589,6 +617,18 @@ Esta actitud Suya **es sugerida** por la palabra mām (yo).
 ‘‘अहं’’ ऎऩ्गिऱ पदत्तिले काट्टप् पडुगिऱदु।+++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> कदा वयम् इमान् शोधित-मलान्  
++++(स्व-धरणाय)+++ आभरणवद् अङ्गीकुर्याम 
+
+इत्य् अभिप्रायेण 
+स-त्वरस्य स्व-प्रयोजन-भावेन फल-दाने औत्सुक्येन स्थितिर्  
+"अहम्" इति पदेन प्रदर्श्यते ।+++(5)+++
+
+</details>
+
+
 <details><summary>English</summary>
 
 The word aham (1) **shows** His attitude of **readiness**  
@@ -624,6 +664,15 @@ del cual la suciedad (prakṛti) **ha sido eliminada**?"
 ‘‘माम् एकं’’ ऎऩ्ऱु काट्टि  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अ-किञ्चनस्याधिकारिणो  
+यथा-विधि रक्षाऽपेक्षा-पूर्वक- भर-न्यासातिरेकेण  
+अन्यत् किम् अप्य् अनपेक्षमाणं सिद्धोपायं  
+“माम् एकम्” इति प्रदर्श्य 
+</details>
+
+
 <details><summary>English</summary>
 
 Thus the carama śloka **indicates** by the words mām and ekam (me alone) the Siddhopāya  
@@ -649,6 +698,12 @@ con la **oración** de **protección** **realizada** de acuerdo con el **orden**
 अदिऩ्-उडैय वशी-करणार्थम् आऩ साध्योपायत्तै  
 ‘‘शरणं व्रज’’ ऎऩ्ऱु विधियाले काट्टुगिऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-वशी-करणार्थं साध्योपायम्, "शरणं व्रजे"ति विधिना दर्शयति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -676,6 +731,14 @@ que **es** el medio de **ganar** Su gracia.
 शरण्य-प्रसादनम् आग चोदितत्वत्ताले वरुगिऱ उपायत्वम्  
 भक्ति-योग-तुल्यम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं विधीयमानायाः प्रपत्ति-रूप-विद्यायाः  
+शरण्य-प्रसादनत्वेन चोदितत्व-निबन्धनम् उपायत्वं  
+भक्ति-योग-तुल्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -706,6 +769,13 @@ y **se parece** en ese sentido al bhakti yoga.
 मोक्षत्तुक्कु साक्षाद्-उपायम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनया प्रसन्न ईश्वरो  
+मोक्षस्य साक्षाद् उपायः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Iśvara who **is propitiated** thereby  
@@ -728,9 +798,16 @@ Iśvara quien **es propiciado** por ello
 ### नैरपेक्ष्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव् विद्यैक्कु विशेषित्तु वेद्याकारम्  
+इव् विद्यैक्कु विशेषित्तु वेद्याकारम् +++(→वैशिष्ट्यम्)+++  
 निरपेक्षोपायत्वम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्या विद्याया विशिष्य वेद्याकारो +++(→वैशिष्ट्यम्)+++  
+निर्-अपेक्षोपायत्वम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -761,6 +838,14 @@ el cual **no requiere** (ningún tipo de ayuda o accesorio).
 ‘‘मामेकं’’ ऎऩ्गिऱ पदङ्गळिले विवक्षितङ्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-उपयुक्ता आकाराः सर्वे ऽपि  
+"माम् एकम्" इति पदयोर् विवक्षिताः ॥
+
+</details>
+
+
 <details><summary>English</summary>
 
 All the attributes **necessary** for this purpose  
@@ -783,6 +868,12 @@ Todos los atributos **necesarios** para este propósito
 
 > ‘‘एष नारायणश् श्रीमान्’’(हरिवंशः ११३-६२) 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एष नारायणश् श्रीमान्’’(हरिवंशः ११३-६२) 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -810,6 +901,14 @@ ahora **ha llegado** a la ciudad de Madhura
 शरण्यऩैच् चॊल्लुगिऱ ‘‘मां’’ ऎऩ्गिऱ पदत्ताले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आदिषु निर्दिष्ट-प्रकारस्य 
+ शरण्यस्य प्रतिपादके "माम्" इति पदे 
+</details>
+
+
+
 <details><summary>English</summary>
 
 By the word mām (me) which **denotes** the Saviour  
@@ -832,9 +931,14 @@ cuya naturaleza **está indicada** en ślokas como los anteriores,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिरु-मन्त्रत्तिलुम् द्वयत्तिलुम् प्रकाशितम् आऩ  
-सर्व-रक्षकत्वमुम्, सर्व-शेषित्वमुम्, श्रियः-पतित्वमुम्, नारायणत्वमुम्  
-इवऱ्ऱाल् आकृष्टम् आय् 
+सर्व-रक्षकत्वमुम्, सर्व-शेषित्वमुम्, श्रियः-पतित्वमुम्, नारायणत्वमुम् +++(←नाराणाम् अयनता)+++  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीमन्त्रे द्वये च प्रकाशितानि सर्व-रक्षकत्व-- सर्व-शेषित्व-- श्री-पतित्व-- नारायणत्वानि +++(←नाराणाम् अयनता)+++  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -863,15 +967,25 @@ que **se revelan** en Tirumantra y Dvaya,
 
 <details><summary>मूलम्</summary>
 
-तिरुमन्त्रत्तिलुम् द्वयत्तिलुम् प्रकाशितमाऩ सर्वरक्षकत्वमुम् सर्वशेषित्वमुम् श्रियःपतित्वमुम् नारायणत्वमुम् इवऱ्ऱालाकृष्टमाय् 
+तिरुमन्त्रत्तिलुम् द्वयत्तिलुम् प्रकाशितमाऩ सर्वरक्षकत्वमुम् सर्वशेषित्वमुम् श्रियःपतित्वमुम् नारायणत्वमुम् 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+इवऱ्ऱाल् आकृष्टम् आय्  
 परत्व-सौलभ्यङ्गळुक्क् उऱुप्प्+++(=अङ्गम्)+++ आय् वरुगिऱ  
 सर्व-ज्ञत्व– सर्व-शक्तित्वादिगळुम्  
 परम-कारुणिकत्व-- सौशील्य-- वात्सल्यादिगळुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-आकृष्टानि  
+परत्व-सौलभ्योपयुक्ततया प्राप्तानि  
+सर्व-ज्ञत्व-- सर्व-शक्तित्वादीनि  
+परम-कारुणिकत्व-- सौशील्य-वात्सल्यादीनि, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -896,7 +1010,7 @@ que **son** todas las marcas de supremacía y accesibilidad.
 
 <details><summary>मूलम्</summary>
 
-परत्वसौलभ्यङ्गळुक्कुऱुप्पाय् वरुगिऱ सर्वज्ञत्व सर्वशक्तित्वादिगळुम् परमकारुणिकत्व सौशील्य वात्सल्यादिगळुम्
+इवऱ्ऱालाकृष्टमाय् परत्वसौलभ्यङ्गळुक्कुऱुप्पाय् वरुगिऱ सर्वज्ञत्व सर्वशक्तित्वादिगळुम् परमकारुणिकत्व सौशील्य वात्सल्यादिगळुम्
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -905,6 +1019,13 @@ que **son** todas las marcas de supremacía y accesibilidad.
 परत्व-सौलभ्य-व्यञ्जकम् आऩ  
 पार्थ-सारथियिऩ्-उडैय दिव्य-मङ्गल-विग्रह-विशेषमुङ् काट्टप् पडुगिऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+द्वये +++(चरणौ→)+++ द्वि-वचनान्त-पदेन प्रतीतश् शुभाश्रयः,  
+परत्व-सौलभ्य-व्यञ्जकः पार्थसारथेर् दिव्य-मङ्गल-विग्रह-विशेषश् च प्रदर्श्यन्ते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -944,6 +1065,12 @@ y que **es** nuestro auspicioso **refugio**.
 इत्य्-आदिगळिऱ् सॊल्लुगिऱ 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र "अनुपम-गुण" इत्य्-आदिषूक्तं 
+</details>
+
+
 <details><summary>English</summary>
 
 Here, as **are stated** in such passages as the **following** :-- 
@@ -975,8 +1102,14 @@ que **es** ansiosamente **anhelado** por huestes de dioses y rishis incomparable
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वात्सल्य-स्वामित्व- सौशील्य-सौलभ्य-रूपम् आऩ इग्-गुण-चतुष्टयमुम् अडियिले 
+वात्सल्य-स्वामित्व- सौशील्य-सौलभ्य-रूपम् आऩ इग्-गुण-चतुष्टयमुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वात्सल्य-स्वामित्व- सौशील्य-सौलभ्य-रूपैतद्-गुण-चतुष्टयम् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -998,8 +1131,14 @@ Su amor, Su **ser** el Maestro, Su buena naturaleza (sauśīlya) y Su **accesibi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्थान-स्नेहादिगळाले कलङ्गिऩ अर्जुनऩैय् अनादरियामैयालुम् 
+अडियिले अस्थान-स्नेहादिगळाले कलङ्गिऩ अर्जुनऩैय् अनादरियामैयालुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आदाव् अ-स्थान-स्नेहादिभिर् व्यामुह्यतो ऽर्जुनस्यानादराकरणात्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1014,7 +1153,7 @@ cuando Śrī Kṛṣṇa **no trató** la compasión y el afecto, fuera de lugar
 
 <details><summary>मूलम्</summary>
 
-अस्थानस्नेहादिगळाले कलङ्गिऩ अर्जुनऩै यनादरियामैयालुम् 
+अडियिले अस्थानस्नेहादिगळाले कलङ्गिऩ अर्जुनऩै यनादरियामैयालुम् 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1027,6 +1166,8 @@ cuando Śrī Kṛṣṇa **no trató** la compasión y el afecto, fuera de lugar
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘मत्तः परतरन् नान्यत्’’(गीता ७-७) 
+
+इति स्वयम् एवोपदेशनात्, [[P376]]
 </details>
 
 <details><summary>English</summary>
@@ -1057,6 +1198,17 @@ cuando Él mismo **declaró**:
 ऎऩ्ऩुम् बडि  
 निऩ्ऱु सारथ्यादिगळैप् पण्णुगैयालुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘हे कृष्ण हे यादव’’(गीता ११-४१), 
+
+> ‘‘रथं स्थापय मेऽच्युत’’(गीता १-२१) 
+
+इति यथोच्येत  
+तथाऽवस्थाय, सारथ्यादीनां करणात्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1095,6 +1247,18 @@ y **dijo**
 व्यञ्जितमायिऱ्ऱु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"द्रष्टव्यम्" इति प्रार्थिते सति  
+स्व-वैश्वरूप्यं प्रदर्श्य,  
+
+> पुनर् अपि प्राचीनः सौम्य-विग्रह एव प्रदर्शनीय 
+
+इति प्रार्थिते सति  
+तदैव सारथि-रूपेणाविर्भूयावस्थानाच् च व्यञ्जितम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 and when, at Arjuna's **request**,  
@@ -1130,6 +1294,13 @@ estas cuatro cualidades **se revelan**.
 उक्तम् आऩ शरण्यगुणङ्गळिल्  
 आश्रित-संरक्षणत्तुक्कु प्रधानतमङ्गळ्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उक्तेषु शरण्यगुणेषु  
+आश्रित-संरक्षणस्य प्रधानतमाः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1167,6 +1338,7 @@ para la **protección** de aquellos que lo **buscan**
 सदा कारुणिकोऽपि सन्’’  
 (लक्ष्मीतन्त्रम् १७-७८) 
 
+इति भगवच्-छास्त्रे, 
 </details>
 
 <details><summary>English</summary>
@@ -1195,10 +1367,19 @@ ya que Él **tiene que conducir** el curso del mundo del saṁsāra"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘त्वज्-ज्ञान-शक्ति-करुणासु सतीषु’’  
-(अदिमानुषस्तवम् ६१) 
+(अति-मानुष-स्तवः ६१) 
 
 ऎऩ्गिऱ अभियुक्त-वाक्यत्तिलुम् संग्रहिक्कप् पट्टऩ।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘त्वज्-ज्ञान-शक्ति-करुणासु सतीषु’’  
+(अति-मानुष-स्तवः ६१) 
+
+इत्य्-अभियुक्त-वाक्ये च संगृहीताः ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1223,7 +1404,7 @@ mis pecados **no pueden dar fruto**."
 
 <details><summary>मूलम्</summary>
 
-‘‘त्वज्ज्ञानशक्तिकरुणासु सतीषु’’(अदिमानुषस्तवम् ६१) ऎऩ्गिऱ अभियुक्तवाक्यत्तिलुम् संग्रहिक्कप्पट्टऩ।
+‘‘त्वज्ज्ञानशक्तिकरुणासु सतीषु’’(अति-मानुष-स्तवः ६१) ऎऩ्गिऱ अभियुक्तवाक्यत्तिलुम् संग्रहिक्कप्पट्टऩ।
 </details>
 
 #### ज्ञान-शक्ती
@@ -1231,6 +1412,13 @@ mis pecados **no pueden dar fruto**."
 
 इवै मूऩ्ऱिलुम् ज्ञान-शक्तिगळ् निग्रहानुग्रह-साधारणङ्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषु त्रिष्व् अपि  
+ज्ञान-शक्ती निग्रहानुग्रह-साधारणे । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1258,6 +1446,16 @@ por **conferir castigo** y favor.
 पॊदुव् आगैयाले  
 ज्ञान-शक्तिगळै रक्षणैकान्तङ्गळ् आग नियमिक्क माट्टादु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वामित्वम् अपि  
++++(संसारे विशिष्य)+++ लीलोपकरणत्वापादनस्य  
++++(वैकुण्ठे विशिष्य)+++ भोगोपकरणत्वापादनस्य च  
+साधारण-हेतुत्वाद्  
+ज्ञान-शक्त्योः रक्षणैकान्ततया नियमने ऽसमर्थम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1295,6 +1493,12 @@ para **operar** sólo en el trabajo de **protección**.
 अनुग्रहत्तुक्क् एकान्तङ्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कारुण्यम्, एतद् अवान्तरभेदाः सौशील्य-वात्सल्यादयश् चानुग्रहैकान्तानि । 
+</details>
+
+
 <details><summary>English</summary>
 
 Compassion and its varieties (literally - branches) good nature, love and the like  
@@ -1320,14 +1524,23 @@ Compasión y sus variedades (literalmente, ramas), buena naturaleza, amor y cosa
 इप्पडि इक् कारुण्यत्तिऩुडैय वासियैक्+++(=वरत्वं)+++ कण्ड पूर्वर्गळ् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवम् अस्य कारुण्यस्य विशेषं दृष्टवन्तः पूर्वे –, 
+</details>
+
+
+
 <details><summary>English</summary>
 
-The ancients who **appreciated** this distinguishing feature of mercy 
+The ancients who **appreciated** this distinguishing feature of mercy  
+(wrote as follows:--)
 </details>
 
 <details><summary>Español</summary>
 
-Los antiguos que **apreciaban** este rasgo distintivo de la misericordia
+Los antiguos que **apreciaban** este rasgo distintivo de la misericordia  
+(**escribieron** lo siguiente:--)
 </details>
 
 
@@ -1355,6 +1568,7 @@ Los antiguos que **apreciaban** este rasgo distintivo de la misericordia
 मनो-वृत्तिः **प्रसीद** मे’’  
 (विष्णुपुराणम् ५-७-७०) 
 
+इति
 </details>
 
 <details><summary>English</summary>
@@ -1387,6 +1601,12 @@ Los antiguos que **apreciaban** este rasgo distintivo de la misericordia
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"त्वत्-कृपाम् एव विश्वसितवान् आसम्" इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "I **relied** on Thy compassion alone for **protection**." 
@@ -1410,6 +1630,15 @@ Los antiguos que **apreciaban** este rasgo distintivo de la misericordia
 
 ऎऩ्ऱुम्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “नाध्यवस्येयम् इतः परं  
+त्वत्कृपाव्-यतिरिक्तं मम" 
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1435,11 +1664,19 @@ que no sea tu compasión",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ६५’’उऩ्ऩ्-अरुळे पार्प्पऩ्+++(=वीक्षमाणः)+++ अडियेऩ्’’  
+> ६५’’उऩ्ऩ्-अरुळे पार्प्पऩ्+++(=उदीक्षमाणः)+++ अडियेऩ्’’  
 (पॆरुमाळ् तिरुमॊऴि ५-४) 
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "त्वत्-कृपाम् एव प्रतीक्षे दासो ऽहम्” 
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1459,10 +1696,19 @@ que no sea tu compasión",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ६६’’तिरु-मा-मगळैप् पॆऱ्ऱुम्+++(=लब्ध्वाऽपि)+++ ऎऩ्-ऩॆञ्जङ्-कोयिल् कॊण्ड पेर्-अरुळ्-आळऩ्’’(तिरु-विरुत्तम् ६२)  
+> ६६’’तिरु-मा-मगळैप् पॆऱ्ऱुम्+++(=लब्ध्वाऽपि)+++ ऎऩ्-ऩॆञ्जङ्-कोयिल्+++(=प्रासादं)+++ कॊण्ड पेर्-अरुळ्-आळऩ्’’(तिरु-विरुत्तम् ६२)  
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "श्री-महा-लक्ष्मीं लब्ध्वाऽपि  
+मम हृदयं वास-स्थानत्वेन स्वीकृतवतो महा-दयावतः" 
+
+इति,
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1487,10 +1733,18 @@ como para **venir** y **permanecer** permanentemente en mi corazón",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ६७’’निऩ्ऱ् इरुव् अरुळाल् अऩ्ऱिक् काप्प् अरिद्+++(=अज्ञातम्)+++’’(तिरुवाय्मॊऴि ९-२-१)  
+> ६७’’निऩ्-+तिरुव् अरुळाल् अऩ्ऱिक् काप्प् अरिद्+++(=अज्ञातम्)+++’’(तिरुवाय्मॊऴि ९-२-१)  
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P377]]
+
+> "त्वच्-छ्री-कृपाम् अन्तरा रक्षणं दुर्लभम्”, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1514,9 +1768,19 @@ excepto con tu santa compasión",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ६८’’निऩ्ऱ्-इरुव्-अरुळुम्,  
-पङ्गयत्ताळ् तिरुव्-अरुळुम्’’(तिरुवाय्मॊऴि ५-१-५)  ऎऩ्ऱुम्, 
+> ६८’’निऩ्-+तिरुव्-अरुळुम्,  
+पङ्गयत्ताळ् तिरुव्-अरुळुम्’’(तिरुवाय्मॊऴि ५-१-५)  
+
+ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “तव श्रीकृपां पङ्कजाङ्गनायाः श्रीकृपाम्” 
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1549,6 +1813,14 @@ que **habita** en el loto",
 ऎऩ्ऱुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "हा हेति कृपां कृत्वा" 
+
+इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "Showing Thy mercy with the exclamation 'Ha! Ha!!'", 
@@ -1577,6 +1849,23 @@ que **habita** en el loto",
 (आळवन्दार्-स्तोत्रम् ४८) 
 </details>
 
+<details><summary>English</summary>
+
+> "**Show me** only Thy compassion  
+so that I, Thy servant, **may realise** that  
+**I have** nothing else to **attain** than Thee  
+and that **I have no** other upāya (than Thee )  
+and so that **I may find delight** only in **rendering service** to Thee." 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Muéstrame** sólo tu compasión  
+para que yo, tu **siervo**, **pueda darme cuenta** de que  
+**No tengo** nada más que **alcanzar** que Ti  
+y que **no tengo** otro upāya (que Tú)  
+y para que **pueda encontrar deleite** sólo en **prestarte servicio**."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1584,11 +1873,62 @@ que **habita** en el loto",
 </details>
 
 
-wrote as follows:--
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ७१‘‘करीश तेषाम् अपि तावकी दया  
+तथात्व-कृत्, सैव तु मे बलं मतं’’  
+(वरदराजस्तवम् ९४) 
+
+ऎऩ्ऱुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ७१‘‘करीश तेषाम् +++(भागवतानां)+++ अपि तावकी दया  
++++(भागवतत्व→)+++तथात्व-कृत्, सैव तु मे बलं मतं’’  
+(वरदराजस्तवम् ९४) 
+
+इति च
+</details>
+
+<details><summary>English</summary>
+
+> "O Lord of Hastigiri!  
+Those that **are devoted** to Thee by their qualities and actions with the knowledge of Thee --  
+it **is** Thy compassion which **has made** them **devoted** to thee.  
+**I consider** that only that compassion **is** a source of strength to me  
+who **am destitute** of upāyas." 
+</details>
+
+<details><summary>Español</summary>
+
+> "¡Oh Señor de Hastigiri!  
+Aquellos que **están dedicados** a Ti por sus cualidades y acciones con el conocimiento de Ti,  
+es **es** Tu compasión la que **ha hecho** que sean **devotos** de ti.  
+**Considero** que sólo esa compasión **es** una fuente de fortaleza para mí  
+que **estoy desprovisto** de upāyas."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+७१‘‘करीश तेषामपि तावकी दया तथात्वकृत्सैव तु मे बलं मतं’’(वरदराजस्तवम् ९४) ऎऩ्ऱुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-प्रकारङ्गळिले इक्-कृपा-गुणत्तैत् तञ्जम्+++(=शरणम्)+++ आग अनुसन्धित्तु 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्प्रकारङ्गळिले इक् कृपागुणत्तैत् तञ्जमाग अनुसन्धित्तु 
+</details>
 
 
 
-> "Show me only Thy compassion so that I, Thy servant, may realise that I have nothing else to attain than Thee and that I have no other upāya (than Thee ) and so that I may find delight only in rendering service to Thee." "O Lord of Hastigiri! Those that are devoted to Thee by their qualities and actions with the knowledge of Thee -- it is Thy compassion which has made them devoted to thee. I consider that only that compassion is a source of strength to me who am destitute of upāyas." In these Ways, these ancients looked lipon (the Lord's) compassion by their refuge and considered the relationship of the śeṣī to the śeṣa and other qualities (of the Lord) as the obedient servants of compassion and became solely dependent on the Lord's mercy, Sītā devi also said, in spite of the existence of other qualities: "Rāma, the descendant of Kakustha, extended his protection to him (Kakasura), out of compassion, though he deserved the punishment of being killed”.
+In these Ways, these ancients looked lipon (the Lord's) compassion by their refuge and considered the relationship of the śeṣī to the śeṣa and other qualities (of the Lord) as the obedient servants of compassion and became solely dependent on the Lord's mercy, Sītā devi also said, in spite of the existence of other qualities: "Rāma, the descendant of Kakustha, extended his protection to him (Kakasura), out of compassion, though he deserved the punishment of being killed”.
 
 Since Śrī Rāmānuja has also written in his Gadya "At [^111] the time of the death of the body, you will, by my grace alone, become wise and have a vision of me etc.," the primary importance of (the Lord's) compassion is indicated. Facing (Arjuna) with this primary quality so essential for protection and other attributes which are ancillary to it, Śrī Kṛṣṇa referred to Himself as mām (me).
 
