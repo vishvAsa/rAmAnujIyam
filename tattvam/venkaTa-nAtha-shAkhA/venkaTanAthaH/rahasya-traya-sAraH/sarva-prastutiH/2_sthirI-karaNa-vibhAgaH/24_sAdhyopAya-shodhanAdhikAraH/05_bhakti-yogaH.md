@@ -1849,7 +1849,7 @@ quien **tiene** las respectivas deidades como su cuerpo.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् स्व-तन्त्रम् आग सिल देवतैगळैप् पऱ्ऱिऩालुम्,  
-फलान्तर-कामनैयाले  
+फलान्तर-कामनैयाले +++(न तु भगवद्-भागवत-प्रीत्यर्थं)+++  
 तऩ्ऩ्-उडैय नित्य-नैमित्तिकङ्गळुक्कुप् पुऱम्ब् आऩ +++(पारतन्त्र्य-भावनयाऽपि)+++ देवतान्तरान्वयम् वरिलुम्,  
 परमैकान्तित्वत्तुक्कु विरुद्धम् आम्। +++(5)+++
 </details>
@@ -1857,7 +1857,7 @@ quien **tiene** las respectivas deidades como su cuerpo.
 <details><summary>नीलमेघः (सं)</summary>
 
 अतः स्वातन्त्रयेण कासांचिद् देवतानाम् आश्रयणे सति,  
-फलान्तर-कामनया  
+फलान्तर-कामनया +++(न तु भगवद्-भागवत-प्रीत्यर्थं)+++  
 +++(पारतन्त्र्य-भावनयाऽपि)+++ स्व-नित्य-नैमित्तिक-बहिर्-भूत-देवतान्तरान्वये सति च  
 परमैकान्तित्वं विरुद्ध्यते । +++(5)+++
 </details>
@@ -2039,7 +2039,7 @@ Los hombres **pueden tener** fe en el Śāstra.)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुमुक्षुवुक्कु प्राप्य-प्रापकङ्गळ् एकम् आगैयाले  
+> मुमुक्षुवुक्कु प्राप्य-प्रापकङ्गळ् एकम् आगैयाले  
 प्राप्यानुरूपम् आऩ उपायम् सर्वेश्वरऩ् ऒरुवऩुमे; 
 </details>
 
@@ -2052,7 +2052,7 @@ Los hombres **pueden tener** fe en el Śāstra.)
 
 <details><summary>English</summary>
 
-To the aspirant for mukti,  
+> To the aspirant for mukti,  
 the end or object of attainment  
 and the means of attaining it  
 are both one and the same.  
