@@ -1877,7 +1877,7 @@ y para que **pueda encontrar deleite** sólo en **prestarte servicio**."
 
 > ७१‘‘करीश तेषाम् अपि तावकी दया  
 तथात्व-कृत्, सैव तु मे बलं मतं’’  
-(वरदराजस्तवम् ९४) 
+(वरद-राज-स्तवः ९४) 
 
 ऎऩ्ऱुम्
 </details>
@@ -1886,7 +1886,7 @@ y para que **pueda encontrar deleite** sólo en **prestarte servicio**."
 
 > ७१‘‘करीश तेषाम् +++(भागवतानां)+++ अपि तावकी दया  
 +++(भागवतत्व→)+++तथात्व-कृत्, सैव तु मे बलं मतं’’  
-(वरदराजस्तवम् ९४) 
+(वरद-राज-स्तवः ९४) 
 
 इति च
 </details>
@@ -1912,7 +1912,7 @@ que **estoy desprovisto** de upāyas."
 
 <details><summary>मूलम्</summary>
 
-७१‘‘करीश तेषामपि तावकी दया तथात्वकृत्सैव तु मे बलं मतं’’(वरदराजस्तवम् ९४) ऎऩ्ऱुम्
+७१‘‘करीश तेषामपि तावकी दया तथात्वकृत्सैव तु मे बलं मतं’’(वरद-राज-स्तवः ९४) ऎऩ्ऱुम्
 </details>
 
 
@@ -1951,6 +1951,12 @@ De esta manera, estos antiguos **consideraban** la compasión (del Señor) como 
 ताङ्गळ् कारुण्यैकान्तिगळाप् पोन्दार्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+संबन्धं, गुणान्तराणि च  
+कारुण्यस्याज्ञा-कारीणि कृत्वा  
+स्वयं कारुण्यैकान्तिनः संजाताः ॥ 
+</details>
 
 
 <details><summary>English</summary>
@@ -1984,6 +1990,18 @@ y **se convirtieron** únicamente **dependiente** de la misericordia del Señor.
 ऎऩ्ऱ् अरुळिच् चॆय्दाळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीजानकिर् अपि गुणान्तरेषु सत्सु 
+
+> ‘‘वधार्हम् अपि काकुत्स्थः  
+कृपया पर्यपालयत्’’  
+(रामायणम् सुन्दरकाण्डम् ३८-३३) 
+
+इत्य् अनुजग्राह । 
+</details>
+
+
 <details><summary>English</summary>
 
 Sītā devi also **said**, in spite of the **existence** of other qualities: 
@@ -2011,6 +2029,13 @@ aunque **merecía** el **castigo** de **ser asesinado**”.
 गद्यत्तिलुम् ‘‘मदीययैव दयया’’(शरणागति-गद्यम्) ऎऩ्गैयाले  
 इक्-कृपैयिऩ् प्राधान्यम् विवक्षितम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+गद्ये च ‘‘मदीययैव दयया’’(शरणागति-गद्यम्) इत्य्-उक्ततया  
+अस्याः कृपायाः प्राधान्यं विवक्षितम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2052,6 +2077,14 @@ y **tiene** una visión mía, etc."
 ‘‘मां’’ ऎऩ्ऱु निर्देशित्त् अरुळिऩाऩ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् आश्रित-रक्षणस्य कृते  
+प्रधानैः परिकरैश् च भवद्भिः सर्वाकारैर् विशिष्टः  
+स्वम् अभिमुखस्थितो "माम्” इति निर्दिदेश ॥
+</details>
+
+
 <details><summary>English</summary>
 
 Facing (Arjuna) with this primary quality so essential for **protection** and other attributes which **are ancillary** to it,  
@@ -2082,11 +2115,18 @@ THE MEANING OF EKAM IN THE CARAMA ŚLOKA: page564
 LA **RESPUESTA** DE EKAM EN EL CARAMA ŚOKA: página 564
 </details>
 
+### फलोपायैक्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘मां’’ ऎऩ्गिऱ पदत्तिले  
-एक-वचनत्ताले एकत्वम् तोऱ्ऱा निऱ्कप् पिऩ्बुम् 
+एक-वचनत्ताले एकत्वम् तोऱ्ऱा निऱ्कप्  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(1) "माम्" इति पदे एकवचनेनैकत्वे प्रतीते सति 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2101,29 +2141,587 @@ LA **RESPUESTA** DE EKAM EN EL CARAMA ŚOKA: página 564
 
 <details><summary>मूलम्</summary>
 
-‘‘मां’’ ऎऩ्गिऱ पदत्तिले एकवचनत्ताले एकत्वम् तोऱ्ऱानिऱ्कप् पिऩ्बुम् 
+‘‘मां’’ ऎऩ्गिऱ पदत्तिले एकवचनत्ताले एकत्वम् तोऱ्ऱानिऱ्कप् 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एक-शब्दम् 
+पिऩ्बुम् एक-शब्दम् 
 
-> ’’तऩ्ऩैत् तन्द कऱ्पगम्’’  
+> ’’तऩ्ऩैत् तन्द कऱ्पकम्+++(=कल्पकः → कल्प-वृक्षः)+++’’  
 (तिरुवाय्मॊऴि २-७-११)  
 
-ऎऩ्गिऱ बडिये 
+ऎऩ्गिऱ बडिये  
+
+> प्राप्यऩ् आऩवऩ् ताऩे  
+प्रापकऩ् आऩ बडियाले  
+उपाय-फलैक्यत्तैच् चॊल्लुगिऱद्  
+
+ऎऩ्ऱुम् योजिप्पर्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पुनर् अप्य् उपात्त एक-शब्दः  
+
+> "स्वात्म-दः कल्पकः+++(→ कल्प-वृक्षः)+++" 
+
+इत्य्-उक्त-रीत्या 
+
+> प्राप्यस्यैव प्रापकत्वसत्त्वाद्  
+उपाय-फलैक्यम् आचष्ट 
+
+इति [च] योजयन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+the further **use** of the word ekam  
+**is**, according to some, to **disclose** that  
+
+He who **is** the object of **attainment**  
+**is** Himself the means or upāya for that **attainment**  
+
+like the (celestial) kalpaka tree **giving** itself (to those that **ask**). 
+
+Thus (these commentators) **suggest** that  
+the **use** of "ekam" after "mām" **is** to suggest the identity of the object of **attainment**  
+and the means of **attaining** it. 
+</details>
+
+<details><summary>Español</summary>
+
+el **uso** posterior de la palabra "ekam"  
+**es**, según algunos, **revelar** que  
+
+El que **es** el objeto de **logro**  
+**es** Él mismo el medio o upāya para ese **logro**  
+
+como el árbol (celestial) kalpaka **entregándose** (a aquellos que **piden**).
+
+Por lo tanto (estos comentaristas) **sugieren** que  
+el **uso** de "ekam" después de "mām" **es** para **sugerir** la identidad del objeto de **logro**  
+y los medios para **alcanzarlo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पिऩ्बुम् एकशब्दम् ’’तऩ्ऩैत्तन्द कऱ्पगम्’’(तिरुवाय्मॊऴि २-७-११)  ऎऩ्गिऱबडिये प्राप्यऩाऩवऩ् ताऩे प्रापकऩाऩबडियाले उपायफलैक्यत्तैच् चॊल्लुगिऱदॆऩ्ऱुम् योजिप्पर्गळ्। 
+</details>
+
+#### भागवत-वचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु 
+
+> ‘‘माम् एकम् एव शरणं’’(श्रीभागवतम् ११-१२-१४) 
+
+ऎऩ्गिऱ समान-प्रकरण-वाक्यमुम् अनुगुणम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य 
+
+> ‘‘माम् एकम् एव शरणं’’(श्रीभागवतम् ११-१२-१४) 
+
+इति समान-प्रकरण-वाक्यम् अप्य् अनुगुणम् । 
+</details>
+
+<details><summary>English</summary>
+
+This **interpretation finds support** in the sentence "mām ekam eva" in a similar context :- 
+
+> " By all means, **seek** the **protection** only of me alone  
+who **am** the inner self of all beings,  
+You will then **have no** fear of any kind." 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **interpretación encuentra apoyo** en la **oración** "mām ekam eva" en un contexto similar - 
+
+> "Por supuesto, **busca** la **protección** sólo de mí solo  
+que **soy** el yo interior de todos los seres,  
+Entonces **no tendrás** miedo de ningún tipo".
 </details>
 
 <details><summary>मूलम्</summary>
 
-एकशब्दम् ’’तऩ्ऩैत्तन्द कऱ्पगम्’’(तिरुवाय्मॊऴि २-७-११)  ऎऩ्गिऱबडिये 
+इदुक्कु ‘‘मामेकमेव शरणं’’(श्रीभागवतम् ११-१२-१४) ऎऩ्गिऱ समानप्रकरणवाक्यमुमनुगुणम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एव-कारम् उण्ड् आय् इरुक्क  
+एक-शब्दङ् किडन्दाल्  
+इदुक्क् अवधारणम् ऒऴिय  
+वेऱे बॊरुळ् कॊळ्ळुगैय् उचितम् इऱे। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एव-कारे सत्य् एव  
+एक-शब्दे सति  
+अस्य अवधारण-व्यतिरिक्तार्थस्याभ्युपगम उचितः किल ।  
+[[P378]]
+</details>
+
+
+<details><summary>English</summary>
+
+Since the word "eva" (only) **is** already **present**,  
+it **is** but proper to **seek** some other **purpose**  
+for the **existence** or **use** of the word "ekam" in addition to only.  
+
+(This **purpose is** the **declaration** of the oneness of the means and the end).
+</details>
+
+<details><summary>Español</summary>
+
+Dado que la palabra "eva" (sólo) **está** ya **presente**,  
+**es** pero apropiado **buscar** algún otro **propósito**  
+por la **existencia** o **uso** de la palabra "ekam" además de únicamente.  
+
+(Este **propósito es** la **declaración** de la unidad de los medios y el fin).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवकारमुण्डायिरुक्क एकशब्दङ्गिडन्दालिदुक्कवधारणमॊऴिय वेऱेबॊरुळ् कॊळ्ळुगैयुचितमिऱे। 
 </details>
 
 
 
-the further use of the word ekam is, according to some, to disclose that He who is the object of attainment is Himself the means or upāya for that attainment like the (celestial) kalpaka tree giving itself (to those that ask). Thus (these commentators) suggest that the use of ekam after mām is to suggest the identity of the object of attainment and the means of attaining it. This interpretation finds support in the sentence mām ekam eva in a similar context :- " By all means, seek the protection only of me alone who am the inner self of all beings, You will then have no fear of any kind." Since the word eva (only) is already present, it is but proper to seek some other purpose for the existence or use of the word ekam in addition to only. (This purpose is the declaration of the oneness of the means and the end).
+### अवधारणं सिद्धोपाये
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(2) As against this, others say that the word ekam which has the following nieanings: 'chief', 'something other than', and ‘there is no other than thiś, is, in this sentence, a mere synonym of 'no other' and means 'only' or 'alone' as in the ślokas, “Those who seek me alone (and no other) as their refuge will surmount the insurmountable māyā" and "Seek the protection of Him alone (and no other)". In this way they mention that by emphasising the fullness of the qualities of the Saviour, one is made to understand that one cannot adopt an upāya by one's own independence. If it be asked how, the answer is as follows:-"As the man adopts, for his own protection, the means ordained for Him by the śāstras for propitiating (the Lord), it is just possible that he might think of himself also as doing something for his protection on an equal footing with the Saviour who is the Siddhopāya. Taking into account this possibility, the word eka denies that there is any upāya other than the Lord to make the upāyas two. If it be asked how this denial is made, the answer is as follows: It is true that the jīva is the doer according to the pramāṇas, for it is stated: - "He is the doer; otherwise the śāstras could have no meaning or purpose". Still this doership of the jīva is dependent on the Supreme Being and is very limited (in its scope) besides being subject to hindrances. Therefore though he adopts the upāya, it is only on account of the Lord's grace as stated in the śloka :-- " Without Thy compassion, O Varada, even the prayer that Thou shouldst be my upāya would not arise from me." When the Lord withholds His help and stimulation, the jīva cannot even stretch out his limbs or bend them. Therefore he practises the upāya revealed by the Lord, with the help of the body and the senses given by Him and with His help and looks up to Him like the chātaka bird for the desired fruit to be given by Him. So it is improper for the intelligent aspirant to mukti to consider himself, as another Siddhopāya equal to the Lord, who is absolutely independent of others and whose activities extend everywhere and can meet with no hindrances or obstacles. This is, according to these commentators, the purport of the word eka. (only He and no other). (3) Following this line of reasoning, they say also that the word eka (one) is used to prevent the consideration of prapatti which is sādhyopāya as being equal to Siddhopāya. If it be asked how, the answer is as follows:- Although like bhakti . yoga, prapatti too, has been enjoined as an endeavour to propiti. ate (the Lord), yet its purpose is merely to allay the displeasure of the Supreme Ruler who has innate compassion and other such qualities. For the direct attainment of the desired fruit, it is only the will of the Lord who has, by His very nature, the ability and the compassion (necessary for protecting the jīva) - it is only His will that is the cause. He accepts the responsibility for protecting the prapanna who is absolutely destitute of upāyas and Himself stands in the place of such more difficult upāyas as bhakti  yoga. He expects only the vyāja (pretext or gesture ) of prapatti accompanied by such things as the will to do what is pleasing to Him. This nyāsa vidyā does not require any ancillary rite or accessory and has this as its distinguishing feature. Therefore in this vidyā, He is the only upāya to be prayed for as stated in the following passages: "Śaraṇāgati consists in the thought "I pray that Thou alone shouldst be my upāya"; "I made Him the subject of the thought that the Lord should be my upāya. Even this became possible only by virtue of His compassion." "O Lord that mad'st me consent and placed me beneath Thy feet I" As stated in these passages, to piace the mere vyāja or pretext vis. prapatti, which too was inspired only by Him acting as the upāya to place it on an equal footing with Him is not proper. This is the purport of the word eka (only · no other).
+इङ्ङऩ् अऩ्ऱिक्के  
+
+> ‘‘मुख्यान्य-केवलेष्व् एकम्’’() 
+
+ऎऩ्गिऱ बडिये  
+बह्वर्थम् आऩ एक-शब्दम्  
+इङ्गु "केवल"-पर्यायमाय्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(2) एवम् अनुक्त्वा,  
+"मुख्यान्य-केवलेष्व् एकम्" इत्य्-उक्तरीत्या  
+बहुष्व् अर्थेषु प्रसिद्ध एक-शब्दः  
+केवल-पर्यायः सन्  
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मुख्यान्य-केवलेष्व् एकम्’’() 
+</details>
+
+<details><summary>English</summary>
+
+(2) As against this, (others say that)  
+the word "ekam" which **has** the following meanings:  
+
+'chief',  
+'something other than',  
+and ‘there is no other than this', 
+
+**is**, in this sentence, a mere synonym of 'no other'  
+</details>
+
+<details><summary>Español</summary>
+
+(2) En contra de esto, (otros dicen que)  
+la palabra "ekam" que **tiene** los siguientes significados:  
+
+'principal',  
+'algo distinto de',  
+y '**no hay** otra que esto', 
+
+**es**, en esta frase, un mero sinónimo de "ningún otro"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩऩ्ऱिक्के ‘‘मुख्यान्यकेवलेष्वेकम्’’() ऎऩ्गिऱबडिये बह्वर्थमाऩ एकशब्दमिङ्गु केवलपर्यायमाय्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘माम् एव ये **प्रपद्यन्ते**’’  
+(गीता ७-१४), 
+
+> ‘‘तम् एव **शरणङ् गच्छ**’’  
+(गीता १८-६२) 
+
+इत्य्-आदिगळिऱ् पडिये अवधारणार्थमाय् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘माम् एव ये **प्रपद्यन्ते**’’  
+(गीता ७-१४), 
+
+> ‘‘तम् एव **शरणङ् गच्छ**’’  
+(गीता १८-६२) 
+
+इत्य्-आद्य्-उक्त-रीत्या ऽवधारणार्थः 
+</details>
+
+<details><summary>English</summary>
+
+and others say that (it) **means** 'only' or 'alone' (as in the ślokas), 
+
+> “Those who **seek** me alone (and no other) as their refuge  
+**will surmount** the **insurmountable** māyā" 
+
+and 
+
+> "**Seek** the **protection** of Him alone (and no other)". 
+</details>
+
+<details><summary>Español</summary>
+
+y otros **dicen** que **significa** 'sólo' o 'solo' (como en los ślokas), 
+
+> “Aquellos que **me buscan** solo (y a ningún otro) como refugio  
+**superará** la **insuperable** māyā" 
+
+y 
+
+> "**Busca** la **protección** sólo de Él (y de ningún otro)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मामेव ये प्रपद्यन्ते’’(गीता ७-१४), ‘‘तमेव शरणङ्गच्छ’’(गीता १८-६२) इत्यादिगळिऱ्पडिये अवधारणार्थमाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> शरण्य-गुण-पौष्कल्यत्ताले स्व+++(→जीव)+++-स्वातन्त्र्यादिगळै निवर्तिप्पिक्किऱद्  
+
+ऎऩ्ऱुञ् जॊल्लुवर्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> शरण्य-गुण-पौष्कल्यात् स्व+++(→जीव)+++-स्वातन्त्र्यादीनि निवर्तयति
+
+इति चाचक्षते । 
+</details>
+
+
+<details><summary>English</summary>
+
+In this way, they **mention** that  
+by **emphasising** the fullness of the qualities of the Saviour,  
+one **is made to understand** that  
+one **cannot adopt** an upāya by one's own independence. 
+</details>
+
+<details><summary>Español</summary>
+
+De esta manera **mencionan** que  
+**enfatizando** la plenitud de las cualidades del Salvador,  
+a uno **se le hace entender** que  
+uno **no puede adoptar** un upāya por su propia independencia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरण्यगुणपौष्कल्यत्ताले स्वस्वातन्त्र्यादिगळै निवर्तिप्पिक्किऱदॆऩ्ऱुञ् जॊल्लुवर्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+स्व-रक्षैक्क् उपयुक्तङ्गळ् आऩ वशी-करणङ्गळै  
+शास्त्र-नियुक्तऩ् आऩ ताऩ् अनुष्ठिक्कैयाले  
+रक्षैयिले तऩक्कुम् कर्तृत्वन् तोऱ्ऱि  
+</details>
+
+
+
+<details><summary>English</summary>
+
+If it **be asked** how,  
+the **answer is** as **follows**:-
+
+As the man **adopts**, for his own **protection**,  
+the means **ordained** for Him by the śāstras  
+for **propitiating** (the Lord),  
+</details>
+
+<details><summary>Español</summary>
+
+Si **se pregunta** cómo,  
+la **respuesta es** la **siguiente**:-
+
+Mientras el hombre **adopta**, para su propia **protección**,  
+los medios **ordenados** para Él por los śāstras  
+por **propiciar** (al Señor),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; स्वरक्षैक्कुपयुक्तङ्गळाऩ वशीकरणङ्गळै शास्त्रनियुक्तऩाऩ ताऩनुष्ठिक्कैयाले रक्षैयिले तऩक्कुम् कर्तृत्वन् तोऱ्ऱि  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिद्धोपाय-भूतऩ् आऩ शरण्यऩोड् ऒक्कत् तऩ्ऩैयुम् उपायमागवॆण्णप्पुग,
+</details>
+
+<details><summary>English</summary>
+
+it **is** just **possible** that he **might think** of himself also as **doing something** for his **protection**  
+on an equal footing with the Saviour  
+who **is** the Siddhopāya. 
+</details>
+
+<details><summary>Español</summary>
+
+**es** simplemente **posible** que él **pueda pensar** en sí mismo también **haciendo algo** para su **protección**  
+en pie de igualdad con el Salvador  
+quién **es** el Siddhopāya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिद्धोपायभूतऩाऩ शरण्यऩोडॊक्कत् तऩ्ऩैयुमुपायमागवॆण्णप्पुग,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि प्रसक्तम् आऩ उपाय-द्वित्वत्तैक् कऴिक्किऱदु एक-शब्दम्। 
+</details>
+
+<details><summary>English</summary>
+
+**Taking** into account this possibility,  
+the word "eka" **denies** that there is any upāya other than the Lord **to make** the upāyas two. 
+</details>
+
+<details><summary>Español</summary>
+
+**Teniendo** en cuenta esta posibilidad,  
+la palabra "eka" **niega** que exista algún upāya aparte del Señor **para hacer** los upāyas dos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि प्रसक्तमाऩ उपायद्वित्वत्तैक् कऴिक्किऱदु एकशब्दम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अदु कऴिन्द बडिय् ऎऩ्ऩ् 
+
+ऎऩ्ऩिल्; 
+
+> ‘‘कर्ता शास्त्रार्थवत्वात्’’  
+(ब्रह्मसूत्रम् २-३-३३) 
+
+ऎऩ्गिऱ बडिये जीवऩुक्कु कर्तृत्वम् प्रामाणिकमेय् आगिलुम् 
+</details>
+
+<details><summary>English</summary>
+
+If it **be asked** how this **denial is made**,  
+the **answer** is as **follows**: 
+
+It **is** true that the jīva **is** the **doer**  
+according to the pramāṇas,  
+for it **is stated**: - 
+
+> "He **is** the **doer**;  
+otherwise the śāstras **could have** no meaning or purpose". 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se pregunta** cómo **se hace** esta **negación**,  
+la **respuesta** es la **siguiente**: 
+
+**Es** cierto que la jīva **es** el **hacedor**  
+**según** los pramāṇas,  
+porque **se dice**: - 
+
+> "Él **es** el **hacedor**;  
+de lo contrario los śāstras **no podrían tener** ningún significado o propósito".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदु कऴिन्दबडि यॆऩ्ऩॆऩ्ऩिल्; ‘‘कर्ता शास्त्रार्थवत्वात्’’(ब्रह्मसूत्रम् २-३-३३) ऎऩ्गिऱबडिये जीवऩुक्कु कर्तृत्वम् प्रामाणिकमेयागिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु पराधीनमुम् आय्  
+अल्प-विषयमुम् आय्  
+प्रतिहति-योग्यमुम् आय् इरुक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+Still this **doership** of the jīva  
+**is dependent** on the Supreme Being  
+and **is** very limited (in its scope)  
+besides **being** subject to **hindrances**. 
+</details>
+
+<details><summary>Español</summary>
+
+Sigue siendo este **hacedor** de la jīva  
+**depende** del Ser Supremo  
+y **es** muy limitado (en su alcance)  
+además de **estar** sujeto a **obstáculos**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु पराधीनमुमाय् अल्पविषयमुमाय् प्रतिहतियोग्यमुमा यिरुक्कुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इवऩ् ताऩ् उपायानुष्ठानम् पण्णिऱ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+Therefore though he **adopts** the upāya,  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, aunque **adopte** el upāya,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इवऩ् ताऩुबायानुष्ठानम् पण्णिऱ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘वरद! तव खलु प्रसादाद् ऋते  
+शरणम् इति वचोऽपि मे नोदियात्’’  
+(वरद-राज-स्तवः ८८) 
+
+ऎऩ्ऱु सॊल्लुगिऱ बडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘वरद! तव खलु प्रसादाद् ऋते  
+शरणम् इति वचोऽपि मे नोदियात्’’  
+(वरद-राज-स्तवः ८८) 
+
+</details>
+
+<details><summary>English</summary>
+
+as **stated** in the śloka :-- 
+
+> " Without Thy compassion, O Varada,  
+even the **prayer** that Thou **shouldst** be my upāya  
+**would not arise** from me." 
+</details>
+
+<details><summary>Español</summary>
+
+como **indica** en el śloka:-- 
+
+> "Sin Tu compasión, oh Varada,  
+incluso la **oración** de que Tú **debes** ser mi upāya  
+**no surgiría** de mí."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘वरद! तव खलु प्रसादादृते शरणमिति वचोऽपि मे नोदियात्’’(वरद-राज-स्तवः ८८) ऎऩ्ऱु सॊल्लुगिऱबडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऩ् कटाक्षम् अडिय् आग वरुगैयाल्  
+अवऩाले प्रेरितऩ् आय् 
+</details>
+
+<details><summary>English</summary>
+
+it **is** only on account of the Lord's grace.
+</details>
+
+<details><summary>Español</summary>
+
+**es** sólo por la gracia del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऩ् कटाक्षमडियाग वरुगैयाल् अवऩाले प्रेरितऩाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऩ् सह-कारिय् आगाद बोदु  
++++(अङ्गानि)+++ नीट्ट+++(=प्रसरणं)+++ मुडक्क+++(=सङ्कोचं)+++ माट्टादे  
+</details>
+
+<details><summary>English</summary>
+
+When the Lord **withholds** His help and **stimulation**,  
+the jīva **cannot** even **stretch** out his limbs or **bend** them. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el Señor **retiene** Su ayuda y **estimulación**,  
+la jīva **ni siquiera puede estirar** sus extremidades o **doblarlas**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवऩ् सहकारियागादबोदु नीट्टमुडक्क माट्टादे 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऩ् कॊडुत्त करण-कलेवरङ्गळैक् कॊण्डु  
+अवऩ् काट्टिऩव् उपायत्तै  
+अवऩ् तुणै सॆय्यव् अनुष्ठित्तु  
+अवऩ् कॊडुक्कप् पुगुगिऱ फलत्तुक्कु  
+चातकम् पोलेय् अण्णान्द् इरुक्किऱ विवऩै
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवऩ् कॊडुत्त करणकळेबरङ्गळैक् कॊण्डु अवऩ् काट्टिऩवुपायत्तै अवऩ् तुणैसॆय्य वनुष्ठित्तु अवऩ् कॊडुक्कप्पुगुगिऱ फलत्तुक्कु चातकम् पोलेयण् णान्दिरुक्किऱ विवऩै
+</details>
+
+
+Therefore he practises the upāya revealed by the Lord, with the help of the body and the senses given by Him and with His help and looks up to Him like the chātaka bird for the desired fruit to be given by Him. So it is improper for the intelligent aspirant to mukti to consider himself, as another Siddhopāya equal to the Lord, who is absolutely independent of others and whose activities extend everywhere and can meet with no hindrances or obstacles. This is, according to these commentators, the purport of the word eka. (only He and no other). (3) Following this line of reasoning, they say also that the word eka (one) is used to prevent the consideration of prapatti which is sādhyopāya as being equal to Siddhopāya. If it be asked how, the answer is as follows:- Although like bhakti . yoga, prapatti too, has been enjoined as an endeavour to propiti. ate (the Lord), yet its purpose is merely to allay the displeasure of the Supreme Ruler who has innate compassion and other such qualities. For the direct attainment of the desired fruit, it is only the will of the Lord who has, by His very nature, the ability and the compassion (necessary for protecting the jīva) - it is only His will that is the cause. He accepts the responsibility for protecting the prapanna who is absolutely destitute of upāyas and Himself stands in the place of such more difficult upāyas as bhakti  yoga. He expects only the vyāja (pretext or gesture ) of prapatti accompanied by such things as the will to do what is pleasing to Him. This nyāsa vidyā does not require any ancillary rite or accessory and has this as its distinguishing feature. Therefore in this vidyā, He is the only upāya to be prayed for as stated in the following passages: "Śaraṇāgati consists in the thought "I pray that Thou alone shouldst be my upāya"; "I made Him the subject of the thought that the Lord should be my upāya. Even this became possible only by virtue of His compassion." "O Lord that mad'st me consent and placed me beneath Thy feet I" As stated in these passages, to piace the mere vyāja or pretext vis. prapatti, which too was inspired only by Him acting as the upāya to place it on an equal footing with Him is not proper. This is the purport of the word eka (only · no other).
 
 Taking into consideration the fact that Sādhyopāya is a inere pretext or gesture (vyāja) in relation to Siddhopāya and is without any importance, some (writers) exaggerated its insignificance by stating that prapatti consists merely in (1) the knowledge of the relation of the śeṣa to the śeshī (2) the mere knowledge that the Lord is the Siddhopāya, (3) nonresistance (to His grace) (4) mere acceptance or receptivity (5) the attitude of being different from acit or non-sentient matter (6) the activity of the sentient being and (7) serenity of mind (8) an attribute of the adhikārī. From these (exaggerated statements) it is not proper to conclude that any of them is the real meaning of prapatti, for the purport (of these exaggerations) is quite different. All these interpretations are opposed to the positive injunction contained in śaraṇam vraja (seek me as Thy Saviour). They would also lead to too wide an application (atiprasaṅga). We will explain how:- (1) & (2) If prapatti were to consist only in the knowledge of the relationship of the śeṣa to the śeṣin or in the knowledge that the Lord is Siddhopāya, then since this knowledge would of itself arise from the sentence or text (stating it), there would be no need to state it in the form of an injunction (ordaining 'know this "). If it be said that mokṣa might result from mere knowledge and without doing the thing enjoined in a vidhi or injunction, it would, as explained in Śrī Bhāṣya and elsewhere (Vedārthasaṅgraha), be opposed to (the spirit of) the injunctions directing one to upāsanas; if it be held that the man who has a knowledge of the truth should thereby acquire a different kind of knowledge called prapatti, then the essential nature (svarūpa) of this knowledge should be understood in accordance with the texts or passages ordaining the dharma (ś'araṇam vraja), those that describe or define its characteristics (that it can yield fruits not attainable otherwise etc.) and those that prescribe the manner of adopting it (anushṭhāna) (the utterance of the Dvaya and the like). If the statement that prapatti consists only in the acceptance of Siddhopāya were true, it would mean that the man should first know Siddhopāya and then perform the action called 'surrender of responsibility (bharanyāsa) for which he is competent and that this surrender should be preceded by the prayer enjoined in the vidhis or injunctions, (3) If prapatti were to consist in mere non-resistance (to the Lord's grace), it would mean (a) that it was possible for him to resist Iśvara owing to superior strength. This would imply that Iśvara is not omnipotent or (b) If resistance means resisting the Lord's grace by committing an offence and incurring punishment, it would follow that prapatti is only a means of propitiation (c) If resistance means resisting in means of one's own activity to protect oneself, then since there is no such resistance of the nature of activity in such states as pralaya and suṣupti (dreamless sleep) and so also in the waking stake when the man is capable of action but does not act, Iśvara would have to
 
