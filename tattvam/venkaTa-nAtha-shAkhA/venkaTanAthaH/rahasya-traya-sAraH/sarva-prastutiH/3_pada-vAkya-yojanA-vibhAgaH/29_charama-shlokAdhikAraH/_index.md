@@ -1407,7 +1407,7 @@ mis pecados **no pueden dar fruto**."
 ‘‘त्वज्ज्ञानशक्तिकरुणासु सतीषु’’(अति-मानुष-स्तवः ६१) ऎऩ्गिऱ अभियुक्तवाक्यत्तिलुम् संग्रहिक्कप्पट्टऩ।
 </details>
 
-#### ज्ञान-शक्ती
+#### न ज्ञान-शक्ती
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवै मूऩ्ऱिलुम् ज्ञान-शक्तिगळ् निग्रहानुग्रह-साधारणङ्गळ्। 
@@ -1518,7 +1518,7 @@ Compasión y sus variedades (literalmente, ramas), buena naturaleza, amor y cosa
 </details>
 
 
-##### पूर्वाचार्य-स्तुतिः
+#### पूर्वाचार्य-निर्णयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि इक् कारुण्यत्तिऩुडैय वासियैक्+++(=वरत्वं)+++ कण्ड पूर्वर्गळ् 
@@ -1696,7 +1696,7 @@ que no sea tu compasión",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ६६’’तिरु-मा-मगळैप् पॆऱ्ऱुम्+++(=लब्ध्वाऽपि)+++ ऎऩ्-ऩॆञ्जङ्-कोयिल्+++(=प्रासादं)+++ कॊण्ड पेर्-अरुळ्-आळऩ्’’(तिरु-विरुत्तम् ६२)  
+> ६६’’तिरु-मा-मगळैप् पॆऱ्ऱुम्+++(=लब्ध्वाऽपि)+++ ऎऩ्-ऩॆञ्जङ्-कोयिल्+++(=प्रासादं)+++ कॊण्ड पेर्-अरुळ्-आळऩ्’’(पॆरिय-तिरुमॊऴि ९-५-१०)  
 
 ऎऩ्ऱुम्, 
 </details>
@@ -1728,7 +1728,7 @@ como para **venir** y **permanecer** permanentemente en mi corazón",
 
 <details><summary>मूलम्</summary>
 
-६६’’तिरुमामगळैप् पॆऱ्ऱुमॆऩ्ऩॆञ्जङ् गोयिल् कॊण्ड पेररुळाळऩ्’’(तिरुविरुत्तम् ६२)  ऎऩ्ऱुम्, 
+६६’’तिरुमामगळैप् पॆऱ्ऱुमॆऩ्ऩॆञ्जङ् गोयिल् कॊण्ड पेररुळाळऩ्’’(पॆरिय-तिरुमॊऴि ९-५-१०)  ऎऩ्ऱुम्, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1921,23 +1921,207 @@ que **estoy desprovisto** de upāyas."
 इप्-प्रकारङ्गळिले इक्-कृपा-गुणत्तैत् तञ्जम्+++(=शरणम्)+++ आग अनुसन्धित्तु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एभिः प्रकारैर् इमं कृपा-गुणं रक्षकत्वेनानुसन्धाय, 
+</details>
+
+
+<details><summary>English</summary>
+
+In these Ways, these ancients **looked upon** (the Lord's) compassion as their refuge  
+</details>
+
+<details><summary>Español</summary>
+
+De esta manera, estos antiguos **consideraban** la compasión (del Señor) como **su refugio**.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इप्प्रकारङ्गळिले इक् कृपागुणत्तैत् तञ्जमाग अनुसन्धित्तु 
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In these Ways, these ancients looked lipon (the Lord's) compassion by their refuge and considered the relationship of the śeṣī to the śeṣa and other qualities (of the Lord) as the obedient servants of compassion and became solely dependent on the Lord's mercy, Sītā devi also said, in spite of the existence of other qualities: "Rāma, the descendant of Kakustha, extended his protection to him (Kakasura), out of compassion, though he deserved the punishment of being killed”.
+सम्बन्धत्तैयुम्, गुणान्तरङ्गळैयुम्  
+कारुण्यत्तुक्कुच् चॊल्लिऱ्ऱुच् +++(आज्ञा-)+++ चॆय्वार् आक्कित्  
+ताङ्गळ् कारुण्यैकान्तिगळाप् पोन्दार्गळ्।
+</details>
 
-Since Śrī Rāmānuja has also written in his Gadya "At [^111] the time of the death of the body, you will, by my grace alone, become wise and have a vision of me etc.," the primary importance of (the Lord's) compassion is indicated. Facing (Arjuna) with this primary quality so essential for protection and other attributes which are ancillary to it, Śrī Kṛṣṇa referred to Himself as mām (me).
 
-[^111]: Bhagavan's words to Sri Rāmanuja
+
+<details><summary>English</summary>
+
+and **considered** the relationship of the śeṣī to the śeṣa and other qualities (of the Lord)  
+as the obedient **servants** of **compassion**  
+and became solely **dependent** on the Lord's mercy.
+</details>
+
+<details><summary>Español</summary>
+
+y **consideraron** la relación del śeṣī con el śeṣa y otras cualidades (del Señor)  
+como los obedientes **siervos** de la **compasión**  
+y **se convirtieron** únicamente **dependiente** de la misericordia del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सम्बन्धत्तैयुम् गुणान्तरङ्गळैयुम् कारुण्यत्तुक्कुच् चॊल्लिऱ्ऱुच् चॆय्वाराक्कित् ताङ्गळ् कारुण्यैकान्तिकळाप्पोन्दार्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिराट्टियुम् गुणान्तरङ्गळ् इरुक्क 
+
+> ‘‘वधार्हम् अपि काकुत्स्थः  
+कृपया पर्यपालयत्’’  
+(रामायणम् सुन्दरकाण्डम् ३८-३३) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दाळ्। 
+</details>
+
+<details><summary>English</summary>
+
+Sītā devi also **said**, in spite of the **existence** of other qualities: 
+
+> "Rāma, the descendant of Kakustha, **extended** his **protection** to him (Kakasura), out of compassion,  
+though he **deserved** the punishment of being killed”.
+</details>
+
+<details><summary>Español</summary>
+
+Sītā devi también **dijo**, a pesar de la **existencia** de otras cualidades: 
+
+> "Rāma, el descendiente de Kakustha, **le extendió** su **protección** a él (Kakasura), por compasión,  
+aunque **merecía** el **castigo** de **ser asesinado**”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पिराट्टियुम् गुणान्तरङ्गळिरुक्क ‘‘वधार्हमपि काकुत्स्थः कृपया पर्यपालयत्’’(रामायणम् सुन्दरकाण्डम् ३८-३३) ऎऩ्ऱरुळिच्चॆय्दाळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गद्यत्तिलुम् ‘‘मदीययैव दयया’’(शरणागति-गद्यम्) ऎऩ्गैयाले  
+इक्-कृपैयिऩ् प्राधान्यम् विवक्षितम्। 
+</details>
+
+<details><summary>English</summary>
+
+Since Śrī Rāmānuja has also **written** in his Gadya 
+
+> "At the time of the **death** of the body,  
+you will, by my grace alone, **become** wise  
+and **have** a vision of me etc.,"  
+(Bhagavan's words to Sri Rāmanuja)
+
+the primary importance of (the Lord's) compassion **is indicated**. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que Śrī Rāmānuja también **escribió** en su Gadya 
+
+> "En el momento de la **muerte** del cuerpo,  
+Sólo por mi gracia, **te volverás** sabio  
+y **tiene** una visión mía, etc."  
+(Palabras de Bhagavan a Sri Rāmanuja)
+
+**se indica** la importancia primordial de la compasión (del Señor).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गद्यत्तिलुम् ‘‘मदीययैव दयया’’(शरणागति-गद्यम्) ऎऩ्गैयाले इक् कृपैयिऩ् प्राधान्यम् विवक्षितम्। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि आश्रित-रक्षणत्तुक्कुप्  
+प्रधानम् आयुम्, परिकरम् आयुम् उळ्ळ सर्वाकारङ्गळालुम्  
+विशिष्टऩ् आऩ तऩ्ऩै  
+अभिमुख-स्थितियिले  
+‘‘मां’’ ऎऩ्ऱु निर्देशित्त् अरुळिऩाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+Facing (Arjuna) with this primary quality so essential for **protection** and other attributes which **are ancillary** to it,  
+Śrī Kṛṣṇa **referred** to Himself as mām (me).
+</details>
+
+<details><summary>Español</summary>
+
+Frente a (Arjuna) esta cualidad primaria tan esencial para la **protección** y otros atributos que **son auxiliares** de ella,  
+Śrī Kṛṣṇa **se refirió** a Sí mismo como mām (me).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि आश्रितरक्षणत्तुक्कुप् प्रधानमायुम् परिकरमायुमुळ्ळ सर्वाकारङ्गळालुम् विशिष्टऩाऩ तऩ्ऩै अभिमुखस्थितियिले ‘‘मां’’ ऎऩ्ऱु निर्देशित्तरुळिऩाऩ्। 
+</details>
+
 
 ## एकम्
-THE MEANING OF EKAM IN THE CARAMA ŚLOKA: page564
+<details><summary>English</summary>
 
-(1: While the singular form mām(me) itself indicates the idea of alone' (ekam), the further use of the word ekam is, according to some, to disclose that He who is the object of attainment is Himself the means or upāya for that attainment like the (celestial) kalpaka tree giving itself (to those that ask). Thus (these commentators) suggest that the use of ekam after mām is to suggest the identity of the object of attainment and the means of attaining it. This interpretation finds support in the sentence mām ekam eva in a similar context :- " By all means, seek the protection only of me alone who am the inner self of all beings, You will then have no fear of any kind." Since the word eva (only) is already present, it is but proper to seek some other purpose for the existence or use of the word ekam in addition to only. (This purpose is the declaration of the oneness of the means and the end).
+THE MEANING OF EKAM IN THE CARAMA ŚLOKA: page564
+</details>
+
+<details><summary>Español</summary>
+
+LA **RESPUESTA** DE EKAM EN EL CARAMA ŚOKA: página 564
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘मां’’ ऎऩ्गिऱ पदत्तिले  
+एक-वचनत्ताले एकत्वम् तोऱ्ऱा निऱ्कप् पिऩ्बुम् 
+</details>
+
+<details><summary>English</summary>
+
+(1) While the singular form mām (me) itself **indicates** the idea of 'alone' (ekam),  
+</details>
+
+<details><summary>Español</summary>
+
+(1) Mientras que la forma singular mām (yo) misma **indica** la idea de 'solo' (ekam),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मां’’ ऎऩ्गिऱ पदत्तिले एकवचनत्ताले एकत्वम् तोऱ्ऱानिऱ्कप् पिऩ्बुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एक-शब्दम् 
+
+> ’’तऩ्ऩैत् तन्द कऱ्पगम्’’  
+(तिरुवाय्मॊऴि २-७-११)  
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकशब्दम् ’’तऩ्ऩैत्तन्द कऱ्पगम्’’(तिरुवाय्मॊऴि २-७-११)  ऎऩ्गिऱबडिये 
+</details>
+
+
+
+the further use of the word ekam is, according to some, to disclose that He who is the object of attainment is Himself the means or upāya for that attainment like the (celestial) kalpaka tree giving itself (to those that ask). Thus (these commentators) suggest that the use of ekam after mām is to suggest the identity of the object of attainment and the means of attaining it. This interpretation finds support in the sentence mām ekam eva in a similar context :- " By all means, seek the protection only of me alone who am the inner self of all beings, You will then have no fear of any kind." Since the word eva (only) is already present, it is but proper to seek some other purpose for the existence or use of the word ekam in addition to only. (This purpose is the declaration of the oneness of the means and the end).
 
 (2) As against this, others say that the word ekam which has the following nieanings: 'chief', 'something other than', and ‘there is no other than thiś, is, in this sentence, a mere synonym of 'no other' and means 'only' or 'alone' as in the ślokas, “Those who seek me alone (and no other) as their refuge will surmount the insurmountable māyā" and "Seek the protection of Him alone (and no other)". In this way they mention that by emphasising the fullness of the qualities of the Saviour, one is made to understand that one cannot adopt an upāya by one's own independence. If it be asked how, the answer is as follows:-"As the man adopts, for his own protection, the means ordained for Him by the śāstras for propitiating (the Lord), it is just possible that he might think of himself also as doing something for his protection on an equal footing with the Saviour who is the Siddhopāya. Taking into account this possibility, the word eka denies that there is any upāya other than the Lord to make the upāyas two. If it be asked how this denial is made, the answer is as follows: It is true that the jīva is the doer according to the pramāṇas, for it is stated: - "He is the doer; otherwise the śāstras could have no meaning or purpose". Still this doership of the jīva is dependent on the Supreme Being and is very limited (in its scope) besides being subject to hindrances. Therefore though he adopts the upāya, it is only on account of the Lord's grace as stated in the śloka :-- " Without Thy compassion, O Varada, even the prayer that Thou shouldst be my upāya would not arise from me." When the Lord withholds His help and stimulation, the jīva cannot even stretch out his limbs or bend them. Therefore he practises the upāya revealed by the Lord, with the help of the body and the senses given by Him and with His help and looks up to Him like the chātaka bird for the desired fruit to be given by Him. So it is improper for the intelligent aspirant to mukti to consider himself, as another Siddhopāya equal to the Lord, who is absolutely independent of others and whose activities extend everywhere and can meet with no hindrances or obstacles. This is, according to these commentators, the purport of the word eka. (only He and no other). (3) Following this line of reasoning, they say also that the word eka (one) is used to prevent the consideration of prapatti which is sādhyopāya as being equal to Siddhopāya. If it be asked how, the answer is as follows:- Although like bhakti . yoga, prapatti too, has been enjoined as an endeavour to propiti. ate (the Lord), yet its purpose is merely to allay the displeasure of the Supreme Ruler who has innate compassion and other such qualities. For the direct attainment of the desired fruit, it is only the will of the Lord who has, by His very nature, the ability and the compassion (necessary for protecting the jīva) - it is only His will that is the cause. He accepts the responsibility for protecting the prapanna who is absolutely destitute of upāyas and Himself stands in the place of such more difficult upāyas as bhakti  yoga. He expects only the vyāja (pretext or gesture ) of prapatti accompanied by such things as the will to do what is pleasing to Him. This nyāsa vidyā does not require any ancillary rite or accessory and has this as its distinguishing feature. Therefore in this vidyā, He is the only upāya to be prayed for as stated in the following passages: "Śaraṇāgati consists in the thought "I pray that Thou alone shouldst be my upāya"; "I made Him the subject of the thought that the Lord should be my upāya. Even this became possible only by virtue of His compassion." "O Lord that mad'st me consent and placed me beneath Thy feet I" As stated in these passages, to piace the mere vyāja or pretext vis. prapatti, which too was inspired only by Him acting as the upāya to place it on an equal footing with Him is not proper. This is the purport of the word eka (only · no other).
 
