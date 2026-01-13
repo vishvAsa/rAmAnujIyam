@@ -4963,13 +4963,13 @@ He is my father, my kinsman, my king."
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘पिता त्वं, माता त्वं’’  
-(आळवन्दार् स्तोत्रम् ६०)
+(आळवन्दार्-स्तोत्रम् ६०)
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘पिता त्वं, माता त्वं’’  
-(आळवन्दार् स्तोत्रम् ६०)
+(आळवन्दार्-स्तोत्रम् ६०)
 </details>
 
 <details><summary>English</summary>
@@ -5005,7 +5005,7 @@ Por lo tanto, la carga de **protegerme es** tuya ".
 
 <details><summary>मूलम्</summary>
 
-‘‘पिता त्वं माता त्वं’’(आळवन्दार् स्तोत्रम् ६०)
+‘‘पिता त्वं माता त्वं’’(आळवन्दार्-स्तोत्रम् ६०)
 </details>
 
 

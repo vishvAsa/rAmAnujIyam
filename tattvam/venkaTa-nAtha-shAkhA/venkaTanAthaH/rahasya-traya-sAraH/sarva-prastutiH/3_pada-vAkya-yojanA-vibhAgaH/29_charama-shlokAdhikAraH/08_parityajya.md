@@ -825,13 +825,13 @@ y **no tengo** medios para **salvarme**
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘न धर्म-निष्ठो ऽस्मि’’  
-(आळवन्दार् स्तोत्रम् २२) 
+(आळवन्दार्-स्तोत्रम् २२) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘न धर्म-निष्ठो ऽस्मि’’  
-(आळवन्दार् स्तोत्रम् २२) 
+(आळवन्दार्-स्तोत्रम् २२) 
 </details>
 
 
@@ -856,7 +856,7 @@ y
 
 <details><summary>मूलम्</summary>
 
-‘‘न धर्मनिष्ठोस्मि’’(आळवन्दार् स्तोत्रम् २२) 
+‘‘न धर्मनिष्ठोस्मि’’(आळवन्दार्-स्तोत्रम् २२) 
 </details>
 
 
@@ -1313,13 +1313,13 @@ que **tiene** la marca de **adorar** los tres fuegos después de la **ablución*
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘न धर्मनिष्ठोऽस्मि’’  
-(आळवन्दार् स्तोत्रम्) 
+(आळवन्दार्-स्तोत्रम्) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘न धर्मनिष्ठोऽस्मि’’  
-(आळवन्दार् स्तोत्रम्) 
+(आळवन्दार्-स्तोत्रम्) 
 </details>
 
 <details><summary>English</summary>
@@ -1342,7 +1342,7 @@ en la **realización** del dharma,
 
 <details><summary>मूलम्</summary>
 
-‘‘न धर्मनिष्ठोऽस्मि’’(आळवन्दार् स्तोत्रम्) 
+‘‘न धर्मनिष्ठोऽस्मि’’(आळवन्दार्-स्तोत्रम्) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -584,7 +584,7 @@ te brindaré el servicio" (dice Lakṣmaṇa):
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“तया सहासीनम् अनन्त-भोगिनि” (आळवन्दार् स्तोत्रम् 39)  
+“तया सहासीनम् अनन्त-भोगिनि” (आळवन्दार्-स्तोत्रम् 39)  
 </details>
 
 <details><summary>English</summary>
@@ -599,7 +599,7 @@ te brindaré el servicio" (dice Lakṣmaṇa):
 
 <details><summary>मूलम्</summary>
 
-“तया सहासीनमनन्त-भोगिनि” (आळवन्दार् स्तोत्रम् 39)  
+“तया सहासीनमनन्त-भोगिनि” (आळवन्दार्-स्तोत्रम् 39)  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
