@@ -2450,6 +2450,13 @@ uno **no puede adoptar** un upāya por su propia independencia.
 रक्षैयिले तऩक्कुम् कर्तृत्वन् तोऱ्ऱि  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कथम् इति चेत् —  
+स्व-रक्षाया उपयुक्तानां वशी-करणानां  
+शास्त्रनियुक्तेन स्वेनानुष्ठानाद्  
+रक्षायां स्वस्यापि कर्तृत्वे प्रतीते  
+</details>
 
 
 <details><summary>English</summary>
@@ -2483,6 +2490,13 @@ por **propiciar** (al Señor),
 सिद्धोपाय-भूतऩ् आऩ शरण्यऩोड् ऒक्कत् तऩ्ऩैयुम् उपायमागवॆण्णप्पुग,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सिद्धोपाय-भूतेन शरण्येन सह समतया  
+स्वस्मिन्न् अपि उपायत्वस्याभिमाने प्रसज्यमाने, 
+</details>
+
+
 <details><summary>English</summary>
 
 it **is** just **possible** that he **might think** of himself also as **doing something** for his **protection**  
@@ -2506,6 +2520,12 @@ quién **es** el Siddhopāya.
 
 इप्पडि प्रसक्तम् आऩ उपाय-द्वित्वत्तैक् कऴिक्किऱदु एक-शब्दम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं प्रसक्तम् उपाय-द्वित्वं निवर्तयत्य् एक-शब्दः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2536,6 +2556,18 @@ la palabra "eka" **niega** que exista algún upāya aparte del Señor **para hac
 
 ऎऩ्गिऱ बडिये जीवऩुक्कु कर्तृत्वम् प्रामाणिकमेय् आगिलुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तस्य निवृत्तिः कथम् इति चेत् — 
+
+> “कर्ता शास्त्रार्थवत्त्वात्"  
+(ब्रह्मसूत्रम् २-३-३३) 
+
+इत्य्-उक्त-रीत्या  
+जीवस्य कर्तृत्वे प्रामाणिके सत्य् अपि  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2576,6 +2608,12 @@ de lo contrario los śāstras **no podrían tener** ningún significado o propó
 प्रतिहति-योग्यमुम् आय् इरुक्कुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं पराधीनम् अल्प-विषयं प्रतिहति-योग्यं च वर्तते । 
+</details>
+
+
 <details><summary>English</summary>
 
 Still this **doership** of the jīva  
@@ -2601,6 +2639,12 @@ además de **estar** sujeto a **obstáculos**.
 
 आगैयाल् इवऩ् ताऩ् उपायानुष्ठानम् पण्णिऱ्ऱुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत एतत्-कृतोपायानुष्ठानस्यापि  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2634,6 +2678,7 @@ Por lo tanto, aunque **adopte** el upāya,
 शरणम् इति वचोऽपि मे नोदियात्’’  
 (वरद-राज-स्तवः ८८) 
 
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -2666,6 +2711,13 @@ incluso la **oración** de que Tú **debes** ser mi upāya
 अवऩाले प्रेरितऩ् आय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-कटाक्षात् निदानाद् उत्पद्यमानत्वात्,  
+तत्-प्रेरितस्य 
+</details>
+
+
 <details><summary>English</summary>
 
 it **is** only on account of the Lord's grace.
@@ -2688,6 +2740,13 @@ it **is** only on account of the Lord's grace.
 अवऩ् सह-कारिय् आगाद बोदु  
 +++(अङ्गानि)+++ नीट्ट+++(=प्रसरणं)+++ मुडक्क+++(=सङ्कोचं)+++ माट्टादे  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तस्मिन्न् +++(भगवति)+++ अ-सह-कुर्वाणे  
+प्रसारणाकुञ्चनयोर् अप्य् असमर्थस्य, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2714,6 +2773,8 @@ la jīva **ni siquiera puede estirar** sus extremidades o **doblarlas**.
 अवऩ् कॊडुक्कप् पुगुगिऱ फलत्तुक्कु  
 चातकम् पोलेय् अण्णान्द् इरुक्किऱ विवऩै
 </details>
+
+
 
 <details><summary>मूलम्</summary>
 
