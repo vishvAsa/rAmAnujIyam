@@ -2295,7 +2295,7 @@ por la **existencia** o **uso** de la palabra "ekam" además de únicamente.
 
 
 
-### अवधारणं सिद्धोपाये
+### अवधारणम् - सिद्धोपायैक्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्ङऩ् अऩ्ऱिक्के  
@@ -2771,9 +2771,30 @@ la jīva **ni siquiera puede estirar** sus extremidades o **doblarlas**.
 अवऩ् काट्टिऩव् उपायत्तै  
 अवऩ् तुणै सॆय्यव् अनुष्ठित्तु  
 अवऩ् कॊडुक्कप् पुगुगिऱ फलत्तुक्कु  
-चातकम् पोलेय् अण्णान्द् इरुक्किऱ विवऩै
+चातकम् पोलेय् अण्णान्द्+++(=मुखं विवृत्य)+++ इरुक्किऱव् इवऩै
 </details>
 
+<details><summary>English</summary>
+
+Therefore he **practises** the upāya  
+**revealed** by the Lord,  
+with the **help** of the body and the senses **given** by Him  
+and with His **help**  
+and **looks** up to Him like the chātaka bird  
+for the **desired** fruit  
+**to be given** by Him. 
+</details>
+
+<details><summary>Español</summary>
+
+Por eso él **practica** el upāya.  
+**revelado** por el Señor,  
+con la **ayuda** del cuerpo y los sentidos **dados** por Él  
+y con Su **ayuda**  
+y **lo admira** como el pájaro chataka  
+para la fruta **deseada**  
+**para ser dado** por Él.
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -2781,10 +2802,590 @@ la jīva **ni siquiera puede estirar** sus extremidades o **doblarlas**.
 अवऩ् कॊडुत्त करणकळेबरङ्गळैक् कॊण्डु अवऩ् काट्टिऩवुपायत्तै अवऩ् तुणैसॆय्य वनुष्ठित्तु अवऩ् कॊडुक्कप्पुगुगिऱ फलत्तुक्कु चातकम् पोलेयण् णान्दिरुक्किऱ विवऩै
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Therefore he practises the upāya revealed by the Lord, with the help of the body and the senses given by Him and with His help and looks up to Him like the chātaka bird for the desired fruit to be given by Him. So it is improper for the intelligent aspirant to mukti to consider himself, as another Siddhopāya equal to the Lord, who is absolutely independent of others and whose activities extend everywhere and can meet with no hindrances or obstacles. This is, according to these commentators, the purport of the word eka. (only He and no other). (3) Following this line of reasoning, they say also that the word eka (one) is used to prevent the consideration of prapatti which is sādhyopāya as being equal to Siddhopāya. If it be asked how, the answer is as follows:- Although like bhakti . yoga, prapatti too, has been enjoined as an endeavour to propiti. ate (the Lord), yet its purpose is merely to allay the displeasure of the Supreme Ruler who has innate compassion and other such qualities. For the direct attainment of the desired fruit, it is only the will of the Lord who has, by His very nature, the ability and the compassion (necessary for protecting the jīva) - it is only His will that is the cause. He accepts the responsibility for protecting the prapanna who is absolutely destitute of upāyas and Himself stands in the place of such more difficult upāyas as bhakti  yoga. He expects only the vyāja (pretext or gesture ) of prapatti accompanied by such things as the will to do what is pleasing to Him. This nyāsa vidyā does not require any ancillary rite or accessory and has this as its distinguishing feature. Therefore in this vidyā, He is the only upāya to be prayed for as stated in the following passages: "Śaraṇāgati consists in the thought "I pray that Thou alone shouldst be my upāya"; "I made Him the subject of the thought that the Lord should be my upāya. Even this became possible only by virtue of His compassion." "O Lord that mad'st me consent and placed me beneath Thy feet I" As stated in these passages, to piace the mere vyāja or pretext vis. prapatti, which too was inspired only by Him acting as the upāya to place it on an equal footing with Him is not proper. This is the purport of the word eka (only · no other).
+स्वाधीन-सर्व-विषयाप्रतिहत-कर्तत्वम् उडैयवऩोडे  
+तुल्यम् आगव् इरण्डाम् सिद्धोपायम् आगव् ऎण्णुगै  
+विवेकिय् आऩ मुमुक्षुवुक्क् उचितम् अऩ्ऱ् 
 
-Taking into consideration the fact that Sādhyopāya is a inere pretext or gesture (vyāja) in relation to Siddhopāya and is without any importance, some (writers) exaggerated its insignificance by stating that prapatti consists merely in (1) the knowledge of the relation of the śeṣa to the śeshī (2) the mere knowledge that the Lord is the Siddhopāya, (3) nonresistance (to His grace) (4) mere acceptance or receptivity (5) the attitude of being different from acit or non-sentient matter (6) the activity of the sentient being and (7) serenity of mind (8) an attribute of the adhikārī. From these (exaggerated statements) it is not proper to conclude that any of them is the real meaning of prapatti, for the purport (of these exaggerations) is quite different. All these interpretations are opposed to the positive injunction contained in śaraṇam vraja (seek me as Thy Saviour). They would also lead to too wide an application (atiprasaṅga). We will explain how:- (1) & (2) If prapatti were to consist only in the knowledge of the relationship of the śeṣa to the śeṣin or in the knowledge that the Lord is Siddhopāya, then since this knowledge would of itself arise from the sentence or text (stating it), there would be no need to state it in the form of an injunction (ordaining 'know this "). If it be said that mokṣa might result from mere knowledge and without doing the thing enjoined in a vidhi or injunction, it would, as explained in Śrī Bhāṣya and elsewhere (Vedārthasaṅgraha), be opposed to (the spirit of) the injunctions directing one to upāsanas; if it be held that the man who has a knowledge of the truth should thereby acquire a different kind of knowledge called prapatti, then the essential nature (svarūpa) of this knowledge should be understood in accordance with the texts or passages ordaining the dharma (ś'araṇam vraja), those that describe or define its characteristics (that it can yield fruits not attainable otherwise etc.) and those that prescribe the manner of adopting it (anushṭhāna) (the utterance of the Dvaya and the like). If the statement that prapatti consists only in the acceptance of Siddhopāya were true, it would mean that the man should first know Siddhopāya and then perform the action called 'surrender of responsibility (bharanyāsa) for which he is competent and that this surrender should be preceded by the prayer enjoined in the vidhis or injunctions, (3) If prapatti were to consist in mere non-resistance (to the Lord's grace), it would mean (a) that it was possible for him to resist Iśvara owing to superior strength. This would imply that Iśvara is not omnipotent or (b) If resistance means resisting the Lord's grace by committing an offence and incurring punishment, it would follow that prapatti is only a means of propitiation (c) If resistance means resisting in means of one's own activity to protect oneself, then since there is no such resistance of the nature of activity in such states as pralaya and suṣupti (dreamless sleep) and so also in the waking stake when the man is capable of action but does not act, Iśvara would have to
+ऎऩ्ऱु एक-शब्दत्ताले सॊल्लिऱ्ऱ् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+So it **is** improper for the intelligent **aspirant** to mukti  
+to **consider** himself, as another Siddhopāya equal to the Lord,  
+who **is** absolutely independent of others  
+and whose activities **extend** everywhere  
+and **can meet** with **no hindrances** or **obstacles**.  
+This **is**, according to these **commentators**, the **purport** of the word "eka" (only He and no other). 
+</details>
+
+<details><summary>Español</summary>
+
+Así que **es** impropio que el **aspirante** inteligente mukti  
+**considerarse** a sí mismo, como otro Siddhopāya igual al Señor,  
+que **es** absolutamente independiente de los demás  
+y cuyas actividades **se extienden** por todas partes  
+y **puede cumplir** sin **obstáculos**.  
+
+Este **es**, según estos **comentaristas**, el **significado** de la palabra "eka" (sólo Él y ningún otro).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वाधीनसर्वविषयाप्रतिहतकर्तत्वम् उडैयवऩोडे तुल्यमाग विरण्डाम् सिद्धोपायमाग वॆण्णुगै विवेकियाऩ मुमुक्षुवुक्कुचितमऩ्ऱॆऩ्ऱु एकशब्दत्ताले सॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+
+### सिद्धोपाय-प्राधान्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इक्-कट्टळैयिले  
+
+> साध्योपायम् आऩ प्रपत्तियैयुम्  
+सिद्धोपायत्तोड् ऒरु कोवैय्+++(=ततिः)+++ आगव् ऎण्णाव्+++(=गणनां)+++ ऎण्णामैक्क् आग  
+एक-शब्दम् 
+
+ऎऩ्ऱुञ् जॊल्लुवर्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+(3) **Following** this line of reasoning,  
+they **say** also that  
+
+> the word eka (one) **is used** to **prevent** the **consideration** of prapatti  
+which **is** sādhyopāya  
+as **being** equal to Siddhopāya. 
+</details>
+
+<details><summary>Español</summary>
+
+(3) **Following** this line of reasoning,  
+they **say** also that  
+
+> the word eka (one) **is used** to **prevent** the **consideration** of prapatti  
+which **is** sādhyopāya  
+as **being** equal to Siddhopāya. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इक्कट्टळैयिले साध्योपायमाऩ प्रपत्तियैयुम् सिद्धोपायत्तोडॊरु कोवैयाग वॆण्णावॆण्णामैक्काग एकशब्दमॆऩ्ऱुञ् जॊल्लुवर्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदॆङ्ङऩेय् ऎऩ्ऩिल्;  
+
+इप्-प्रपत्तियुम्, भक्ति-योगम् बोले प्रसादनम् आग विधिक्कप् पट्टिरुन्ददेय् आगिलुम् 
+</details>
+
+<details><summary>English</summary>
+
+If it be **asked** how,  
+the answer **is** as **follows**:- 
+
+Although like bhakti yoga, prapatti too, **has been enjoined** as an **endeavour** to **propitiate** (the Lord),  
+</details>
+
+<details><summary>Español</summary>
+
+**Si se pregunta** cómo,  
+la **respuesta es** la **siguiente**:- 
+
+Aunque, al igual que el bhakti yoga, el prapatti también **ha sido ordenado** como un **esfuerzo** para **propiciar** (al Señor),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदॆङ्ङऩेयॆऩ्ऩिल्; इप् प्रपत्तियुम् भक्तियोगम्बोले प्रसादनमाग विधिक्कप्पट्टिरुन्ददेयागिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सहज-कारुण्यादि-विशिष्टऩ् आऩ सर्वेश्वरऩ्-उडैय  
+कालुष्य-शमन-मात्रार्थम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+yet its **purpose is** merely to **allay** the **displeasure** of the Supreme Ruler  
+who **has** innate compassion and other such qualities. 
+</details>
+
+<details><summary>Español</summary>
+
+sin embargo, su **propósito** es simplemente **calmar** el **descontento** del Gobernante Supremo  
+que **tiene** compasión innata y otras cualidades similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सहजकारुण्यादिविशिष्टऩाऩ सर्वेश्वरऩुडैय कालुष्यशमनमात्रार्थमाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साक्षात्-फलत्तुक्कु सह-ज--सामर्थ्य-कारुण्य-विशिष्टऩ् आऩव् इवऩ् निऩैवे कारणम् आम् पडिय् आय्
+</details>
+
+<details><summary>English</summary>
+
+For the direct **attainment** of the **desired** fruit,  
+it **is** only the will of the Lord who **has**, by His very nature, the ability and the compassion (**necessary** for **protecting** the jīva) -  
+it **is** only His **will** that **is** the cause. 
+</details>
+
+<details><summary>Español</summary>
+
+Para la **consecución** directa del fruto **deseado**,  
+**es** sólo la voluntad del Señor quien **tiene**, por Su propia naturaleza, la capacidad y la compasión (**necesarias** para **proteger** a la jīva) -  
+**es** sólo Su **voluntad** la que **es** la causa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+साक्षात्फलत्तुक्कु सहजसामर्थ्यकारुण्यविशिष्टऩाऩविवऩ् निऩैवे कारणमाम् पडियाय्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऩ् ताऩे अत्यन्ताकिञ्चनऩ् आऩ प्रपन्नऩुक्कु  
+भर-स्वीकारत्ताले भक्ति-योगादिगळ् आऩ गुरुतरोपायङ्गळिऩ् नेरे+++(=पङ्क्तौ)+++ निऩ्ऱु  
+इव्व्-आनुकूल्य-सङ्कल्पादि-युक्त प्रपत्ति-मात्र-व्याज-सापेक्षऩ् आय्
+</details>
+
+<details><summary>English</summary>
+
+He **accepts** the **responsibility** for **protecting** the prapanna who **is** absolutely **destitute** of upāyas  
+and Himself **stands** in the place of such more difficult upāyas as bhakti yoga.  
+He **expects** only the vyāja (pretext or **gesture** ) of prapatti  
+**accompanied** by such things as the **will** to **do** what **is pleasing** to Him. 
+</details>
+
+<details><summary>Español</summary>
+
+Él **acepta** la **responsabilidad** de **proteger** al prapanna que **está** absolutamente **desprovisto** de upāyas  
+
+y Él mismo **está** en el lugar de upāyas más difíciles como el bhakti yoga.  
+
+Él **espera** sólo el vyāja (pretexto o **gesto**) de prapatti  
+**acompañado** de cosas tales como la **voluntad** de **hacer** lo que **le agrada**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऩ् ताऩे अत्यन्ताकिञ्चनऩाऩ प्रपन्नऩुक्कु भरस्वीकारत्ताले भक्तियोगादिगळाऩ गुरुतरोपायङ्गळिऩ् नेरे निऩ्ऱु इव्वानुकूल्यसङ्कल्पादियुक्त प्रपत्तिमात्रव्याजसापेक्षऩाय्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेऱ् ऒऩ्ऱाल् अपेक्षैय् इल्लामैयाल्  
+निरपेक्षोपायत्वमे इन्-न्यास-विद्यैक्कु वेद्याकारम् आगक् कॊण्डु
+</details>
+
+<details><summary>English</summary>
+
+This nyāsa vidyā **does not require** any ancillary rite or accessory  
+and **has** this as its distinguishing feature. 
+</details>
+
+<details><summary>Español</summary>
+
+Este nyāsa vidyā **no requiere** ningún rito o accesorio auxiliar  
+y **tiene** esto como su característica distintiva.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वेऱॊऩ्ऱालपेक्षैयिल्लामैयाल् निरपेक्षोपायत्वमे इन्न्यासविद्यैक्कु वेद्याकारमागक्कॊण्डु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘त्वम् एवोपाय-भूतो मे भव’’  
+(अहिर्बुध्न्य-संहिता ३७-३१) 
+
+ऎऩ्ऱु अपेक्षणीयऩ् आय् इरुक्क, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘त्वम् एवोपाय-भूतो मे भव’’  
+(अहिर्बुध्न्य-संहिता ३७-३१) 
+
+</details>
+
+<details><summary>English</summary>
+
+Therefore in this vidyā,  
+He **is** the only upāya to be **prayed for**  
+as **stated** in the **following** passages: 
+
+> "Śaraṇāgati **consists** in the **thought**  
+> 
+> > "I **pray** that Thou alone **shouldst be** my upāya"; 
+
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, en este vidyā,  
+Él **es** el único upāya por quien **se reza**  
+como **indicado** en los **siguientes** pasajes: 
+
+> "Śaraṇāgati **consiste** en el **pensamiento**  
+> 
+> > "Yo **rezo** para que sólo Tú **seas** mi upāya";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वमेवोपायभूतो मे भव’’(अहिर्बुध्न्य-संहिता ३७-३१) ऎऩ्ऱु अपेक्षणीयऩायिरुक्क, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’ऎऩ्ऩ् उणर्विऩ्+++(=ज्ञानस्य)+++ उळ्ळेय् +++(देवम् उपायत्वेन)+++ इरुत्तिऩेऩ्  
+अदुवुम् अवऩ तिऩ्ऩ्+++(=स्थूल)+++-अरुळेय्’’  
+(तिरु-वाय्-मॊऴि ८-८-३) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "I **made** Him the subject of the **thought**  
+that the Lord **should be** my upāya.  
+Even this **became possible** only by virtue of His compassion." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Yo **lo hice** el tema del **pensamiento**  
+que el Señor **debe ser** mi upāya.  
+Incluso esto **fue posible** sólo en virtud de Su compasión".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’ऎऩ्ऩुणर्विऩुळ्ळेय् इरुत्तिऩेऩदुवुमवऩ तिऩ्ऩरुळे’’(तिरुवाय्मॊऴि ८-८-३) यॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’इसैवित्त्+++(=अङ्गीकार्य)+++ ऎऩ्ऩैय् उऩ् ताळ्+++(=अङ्घ्रि)+++-इणैक्+++(=द्वन्द्व)+++ कीऴ् इरुत्तुम् अम्माऩेय्+++(=पितः)+++’’  
+(तिरुवाय्मॊऴि ५-८-९)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>English</summary>
+
+> "O Lord that **mad'st me consent**  
+and **placed** me beneath Thy feet" 
+
+As stated in these passages, 
+</details>
+
+<details><summary>Español</summary>
+
+> "Oh Señor, que **me enojas consientes**  
+y **me pusiste** bajo Tus pies" 
+
+Como **se afirma** en estos pasajes,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’इसैवित्तॆऩ्ऩै युऩ् ताळिणैक् कीऴिरुत्तुमम्माऩेय्’’(तिरुवाय्मॊऴि ५-८-९)  ऎऩ्ऱुञ्जॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-भूतऩ् आऩव् इवऩ् सॆय्विक्कच् चॆय्गिऱ व्याज-मात्रत्तैय्  
+अवऩोड् ऒक्क+++(=समम्)+++ उपायम् आगव् ऎण्णुगै  
+उचितम् अऩ्ऱ् 
+
+ऎऩ्ऱु एक-शब्दत्तुक्कुत् तात्पर्यम्।
+</details>
+
+<details><summary>English</summary>
+
+to **place** the mere vyāja or pretext vis. prapatti,  
+which too **was inspired** only by Him **acting** as the upāya -  
+
+to **place** it on an equal footing with Him  
+**is not** proper. 
+
+This **is** the **purport** of the word eka (only, no other).
+</details>
+
+<details><summary>Español</summary>
+
+**colocar** el mero vyāja o pretexto vis. prapatti,  
+que también **fue inspirado** sólo por Él **actuando** como el upāya -  
+
+para **colocarlo** en pie de igualdad con Él  
+**no es** apropiado. 
+
+Este **es** el **significado** de la palabra eka (únicamente, ningún otro).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायभूतऩाऩ विवऩ् सॆय्विक्कच् चॆय्गिऱ व्याजमात्रत्तै यवऩोडॊक्क उपायमागवॆण्णुगै उचितमऩ्ऱॆऩ्ऱु एकशब्दत्तुक्कुत् तात्पर्यम्।
+</details>
+
+#### अतिवादाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि सिद्धोपायत्तैप् पऱ्ऱ साध्योपायम् व्याज-मात्रम् आय्  
+प्रधानम् अऩ्ऱिक्के निऱ्किऱ निलैयैप् पऱ्ऱ; 
+</details>
+
+<details><summary>English</summary>
+
+Taking into **consideration** the fact that Sādhyopāya **is** a mere pretext or **gesture** (vyāja) in relation to Siddhopāya  
+and **is without** any importance,  
+</details>
+
+<details><summary>Español</summary>
+
+**Tomando** en **consideración** el hecho de que Sādhyopāya **es** un mero pretexto o **gesto** (vyāja) en relación con Siddhopāya  
+y **no** tiene ninguna importancia,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सिद्धोपायत्तैप् पऱ्ऱ साध्योपायम् व्याजमात्रमाय् प्रधानमऩ्ऱिक्के निऱ्किऱ निलैयैप् पऱ्ऱ; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम्बन्ध-ज्ञान-मात्रम्,  
+सिद्धोपाय-प्रतिपत्तिमात्रम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सम्बन्ध-ज्ञान-मात्रम्,  
+सिद्धोपाय-प्रतिपत्तिमात्रम्, 
+</details>
+
+<details><summary>English</summary>
+
+(1) the **knowledge** of the **relation** of the śeṣa to the śeshī  
+(2) the mere **knowledge** that the Lord is the Siddhopāya, 
+</details>
+
+<details><summary>Español</summary>
+
+(1) el **conocimiento** de la **relación** de la śeṣa con la śeshī  
+(2) el mero **conocimiento** de que el Señor es el Siddhopāya,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सम्बन्धज्ञानमात्रम्, सिद्धोपायप्रतिपत्तिमात्रम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनिवारण-मात्रम्, अनुमति-मात्रम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनिवारण-मात्रम्, अनुमति-मात्रम्, 
+</details>
+
+<details><summary>English</summary>
+
+(3) non-resistance (to His grace) (4) mere acceptance or receptivity 
+</details>
+
+<details><summary>Español</summary>
+
+(3) **no resistencia** (a Su gracia) (4) mera **aceptación** o **receptividad**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनिवारणमात्रम्, अनुमतिमात्रम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-चिद्-व्यावृत्ति-मात्रम्, चैतन्य-कृत्यम्, चित्तसमाधानम्, 
+</details>
+
+<details><summary>English</summary>
+
+(5) the attitude of **being** different from acit or non-sentient matter  
+(6) the **activity** of the sentient being  
+and (7) (an act for) serenity of mind 
+</details>
+
+<details><summary>Español</summary>
+
+(5) la actitud de **ser** diferente de un acit o materia no sensible  
+(6) la **actividad** del ser sintiente  
+and (7) (un acto para) la serenidad mental
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अचिद्व्यावृत्तिमात्रम्, चैतन्यकृत्यम्, चित्तसमाधानम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अधिकारि-विशेषणम् 
+</details>
+
+<details><summary>English</summary>
+
+(8) an attribute of the adhikārī. 
+</details>
+
+<details><summary>Español</summary>
+
+(8) un atributo del adhikārī.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अधिकारिविशेषणम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱिप् पुडैगळिले  
+अतिवादम् पण्णिऩार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+\- some (writers) **exaggerated** its insignificance  
+by **stating** that prapatti **consists** merely in (the above). 
+
+</details>
+
+<details><summary>Español</summary>
+
+\- algunos (escritores) **exageraron** su insignificancia  
+**afirmando** que prapatti **consiste** simplemente en (lo anterior).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱिप्पुडैगळिले अतिवादम् पण्णिऩार्गळ्।
+</details>
+
+#### अतिवाद-परिहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अन्य-परोक्तियैक् कॊण्डु  
+"इवै ताऩेय् अर्थम्" ऎऩ्ऱ् अऱुदिय् इड वॊण्णादु।
+</details>
+
+<details><summary>English</summary>
+
+From these (**exaggerated** statements)  
+it **is not proper** to **conclude** that  
+any of them **is** the real meaning of prapatti,  
+for the purport (of these exaggerations) **is** quite different. 
+</details>
+
+<details><summary>Español</summary>
+
+De estas (declaraciones **exageradas**)  
+**no es apropiado** **concluir** que  
+cualquiera de ellos **es** el verdadero significado de prapatti,  
+porque el significado (de estas exageraciones) **es** bastante diferente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वन्यपरोक्तियैक् कॊण्डु इवैदाऩे यर्थमॆऩ्ऱऱुदियिड वॊण्णादु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् ऎल्लाम् ‘‘शरणं व्रज’’ ऎऩ्गिऱ विधिक्कु विरुद्धङ्गळ् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+All these **interpretations are opposed** to the positive **injunction contained** in "śaraṇam vraja" (**seek me** as Thy Saviour). 
+</details>
+
+<details><summary>Español</summary>
+
+Todas estas **interpretaciones se oponen** al **orden positivo contenido** en "śaraṇam vraja" (**búscame** como Tu Salvador).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवै यॆल्लाम् ‘‘शरणं व्रज’’ ऎऩ्गिऱ विधिक्कु विरुद्धङ्गळाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतिप्रसङ्गादि-दोषङ्गळुम् उण्डु। 
+</details>
+
+<details><summary>English</summary>
+
+They would also **lead to** too wide an application (atiprasaṅga). 
+</details>
+
+<details><summary>Español</summary>
+
+También **conducirían** a una aplicación demasiado amplia (atiprasaṅga).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतिप्रसङ्गादिदोषङ्गळुमुण्डु। 
+</details>
+
+
+
+We **will explain** how:-  
+(1) & (2) If prapatti **were to consist** only in the **knowledge** of the **relationship** of the śeṣa to the śeṣin or in the knowledge that the Lord is Siddhopāya,  
+then since this **knowledge** would of itself arise from the sentence or text (**stating** it),  
+there **would be no need** to **state** it in the form of an **injunction**  
+(**ordaining** 'know this "). 
+
+If it be said that mokṣa might result from mere knowledge and without doing the thing enjoined in a vidhi or injunction, it would, as explained in Śrī Bhāṣya and elsewhere (Vedārthasaṅgraha), be opposed to (the spirit of) the injunctions directing one to upāsanas; if it be held that the man who has a knowledge of the truth should thereby acquire a different kind of knowledge called prapatti, then the essential nature (svarūpa) of this knowledge should be understood in accordance with the texts or passages ordaining the dharma (ś'araṇam vraja), those that describe or define its characteristics (that it can yield fruits not attainable otherwise etc.) and those that prescribe the manner of adopting it (anushṭhāna) (the utterance of the Dvaya and the like). If the statement that prapatti consists only in the acceptance of Siddhopāya were true, it would mean that the man should first know Siddhopāya and then perform the action called 'surrender of responsibility (bharanyāsa) for which he is competent and that this surrender should be preceded by the prayer enjoined in the vidhis or injunctions, (3) If prapatti were to consist in mere non-resistance (to the Lord's grace), it would mean (a) that it was possible for him to resist Iśvara owing to superior strength. This would imply that Iśvara is not omnipotent or (b) If resistance means resisting the Lord's grace by committing an offence and incurring punishment, it would follow that prapatti is only a means of propitiation (c) If resistance means resisting in means of one's own activity to protect oneself, then since there is no such resistance of the nature of activity in such states as pralaya and suṣupti (dreamless sleep) and so also in the waking stake when the man is capable of action but does not act, Iśvara would have to
 
 award mokṣa to him. (4) If prapatti were to consist in mere acceptance, it would then stand on the same footing as upāsana. There would be no difference between the bhakta and the prapanna. (5) If prapatti were to consist merely in being different from non-sentient things, it would be present even when the man acts against the will of God. This, certainly, could not be the cause of being saved or protected. (6) If prapatti were to consist in the mere activity of the sentient being, not only upāsanas but other activities of the sentient being (like eating, breathing, etc.,) would lie the cause of salvation. There would then be no difference between prapatti and all these activities. If it be said that prapatti is what happens to a man of its own accord, there would then be no need for instructions (upadeśa') concerning it. (7) If it be said that prapatti means serenity of mind without the purpose of obtaining any fruit, then it would vary with different individuals in accordance with their respective tastes. (8) If prapatti were a mere attribute of the adhikāri (and not something to be done), the word vraja would be improper, for it lays down something to be done and there is no reference to any fruit or the desire for it (and the like). So it would not be proper to call prapatti an attribute of the adhikārī[^112] . If it were possible to condemn (the performance of) prapatti in these ways, although it is enjoined as something to be performed, it would be equally possible to condemn also upāsanas and the like in the same manner In that case, the attempt to distinguish prapatti from upāsanas and the like (which was the reason for the argument) would fail. If it be said that though this Siddhopāya (Iśvara ) has accepted the responsibility of protecting one and is bent op granting the (desired) fruit, yet the man should consider that this acceptance is unnecessary, prapatti would then be a case of meditating on what is not true (drishti vidhi)[^113] (and it would not lead to mokṣa ).
 
