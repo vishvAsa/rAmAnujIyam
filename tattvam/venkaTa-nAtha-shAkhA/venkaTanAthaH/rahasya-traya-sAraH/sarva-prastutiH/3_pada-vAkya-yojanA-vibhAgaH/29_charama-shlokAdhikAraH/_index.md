@@ -3878,6 +3878,14 @@ Esto, ciertamente, **no podría ser** la causa de **ser salvo** o **protegido**.
 इदुक्क् ऒरु वासि सॊल्लिऱ्ऱ् आगादु। +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"चैतन्य-कृत्यम्" इति वादे  
+उपासनादीनाम्, अन्यासां चेतन-वृत्तीनां च सर्वासां चैतन्य-कृत्यत्वाद्  
+अस्याः कश्चिद् विशेषो नोक्तः स्यात् । +++(5)+++  
+</details>
+
+
 <details><summary>English</summary>
 
 (6) If prapatti **were to consist** in the mere **activity** of the sentient being,  
@@ -3906,6 +3914,13 @@ Entonces **no habría** diferencia entre prapatti y todas estas **actividades**.
 उपदेशादिगळ् वेण्डाद् ऒऴियुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"चेतनस्य स्वयम् एव जायमानम्" इति विवक्षणे  
+उपदेशादयो ऽनपेक्ष्याः स्युः ॥ 
+</details>
+
+
 <details><summary>English</summary>
 
 If it **be said** that prapatti **is** what **happens** to a man of its own accord,  
@@ -3932,6 +3947,13 @@ entonces **no habría necesidad** de **instrucciones** (upadeśa) al respecto.
 प्रतिपुरुषम् वेऱु बडुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"फलानुपयुक्त-चित्त-समाधान-मात्रम्" इति वादे  
+स्व-स्व-रुच्य्-अनुरूपं प्रतिपुरुषं भिद्येत । 
+</details>
+
+
 <details><summary>English</summary>
 
 (7) If it be said that prapatti **means** serenity of mind without the purpose of **obtaining** any fruit,  
@@ -3957,6 +3979,14 @@ entonces **varía** con diferentes individuos de acuerdo con sus respectivos gus
 +++(अधिकारि-विशेषणापेक्षित-)+++ फल--तत्-कामनादिगळ् अऩ्ऱिक्केय् इरुक्किऱव् इत्तै  
 अधिकारि-विशेषणम् ऎऩ्ऩव् ऒण्णादु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P381]]  
+"व्रज" इति विधेयतया फल-तत्-कामनाऽऽदि-रूपताम् अन्तरा च विद्यमानम् इदम्  
+अधिकारि-विशेषणम् इति वक्तुं न शक्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4001,6 +4031,14 @@ En esta frase, el adhikārī **se ve** como aquel que **desea** un **determinado
 उपासनादिगळैयुम् इप्-पडि कण्ण् अऴिक्कल् आम्।+++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कर्तव्यत्वेन विधीयमानायां  
+प्रपत्ताव् एवैवं यस्य कस्यचित् +++(कर्तव्य-)+++लोप-प्रकारस्य गवेषणे  
+उपासनादीनाम् अप्य् एवं +++(कर्तव्य-)+++लोपापादनं सुकरम् । +++(5)+++
+</details>
+
+
 <details><summary>English</summary>
 
 If it **were possible** to **condemn** (the performance of) prapatti in these ways,  
@@ -4028,6 +4066,12 @@ aunque **está ordenado** como algo **que debe realizarse**,
 तलैक्-कट्टादु। +++(4)+++s
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा एभिर् मुखैः प्रपत्तेर् उपासनादिभ्यो व्यावृत्तेर् अभिधित्सा न निर्वहेत । 
+</details>
+
+
 <details><summary>English</summary>
 
 In that case, the attempt to **distinguish** prapatti from upāsanas and the like  
@@ -4054,12 +4098,23 @@ En ese caso, el intento de **distinguir** prapatti de upāsanas y similares
 > +++(सिद्धोपायः)+++ स्व-विषय--स्वीकार-विशिष्टम् आय्क् कॊण्डु  
 फल-प्रदम् आगा निऱ्कच् चॆय्दे  
 > 
-> "इस्-सिद्धोपायं +++(कृतोपायं प्रति)+++ स्वी-कारत्तालुं निरपेक्षम्" 
+> "इस्-सिद्धोपायं +++(कृतोपायं प्रत्येव)+++ स्वी-कारत्तालुं निरपेक्षम्" 
 > 
 > ऎऩ्ऱु +++(दृष्टि-विधिवत्)+++ बुद्धि पण्ण वेणुम् 
 
 ऎऩ्ऩिल्;
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-विषय--स्वीकार-विशिष्टस्य सतः +++(सिद्धोपायस्य)+++  
+फल-प्रदतयाऽवस्थितत्वे ऽपि  
+
+> अयं सिद्धोपायः +++(कृतोपायं प्रत्येव)+++ स्वीकारेणापि निरपेक्ष 
+
+इति बुद्धिः कर्तव्येति चेत् — 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4088,8 +4143,14 @@ esta **aceptación es innecesaria**,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु दृष्टि-विधि-पोले आरोपितम् आदल्  
+इदु दृष्टि-विधि-पोले आरोपितम् आदल् +++(तेन प्रपत्तिकर्तव्यताया ऽविरोधी)+++  
 +++("शरणं व्रज"→)+++ स्व-वचन-विरुद्धम् आदल् आम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं दृष्टि-विधिवद् आरोपितं वा +++(→तेन प्रपत्तिकर्तव्यताया ऽविरोधी)+++  
++++("शरणं व्रज"→)+++ स्व-वचन-विरुद्धं वा भवति ।
 </details>
 
 <details><summary>English</summary>
@@ -4131,6 +4192,12 @@ Si **significa** el **pensamiento** de que la **aceptación** por parte de Iśva
 प्रधानम् आऩ सिद्धोपायम्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत ईश्वरः प्रसादनीयः सन् प्रधानः सिद्धोपायः।
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore Iśvara **is** the object of **propitiation**  
@@ -4157,6 +4224,13 @@ y **es** de gran importancia.
 प्रधानम् अल्लाद साध्योपायङ्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भक्ति-प्रपत्ती द्वे अपि प्रसादन-भूताव् अ-प्रधान-साध्योपायाव् इति 
+</details>
+
+
+
 <details><summary>English</summary>
 
 Both bhakti and prapatti **are** ways of **propitiation**  
@@ -4181,6 +4255,14 @@ y **son** Sādhyopāyas que **no** son tan importantes.
 इदैय् इरण्डत्त् ऒऩ्ऱिले  
 यथाऽधिकारम् +++(मुमुक्षोर्)+++ निलैय् आगक् कडवदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनयोर् द्वयोर् मध्ये कस्यांचिद् एकस्यां  
+यथाधिकारं स्थितिर् युज्यते ॥
+
+</details>
+
 
 <details><summary>English</summary>
 
