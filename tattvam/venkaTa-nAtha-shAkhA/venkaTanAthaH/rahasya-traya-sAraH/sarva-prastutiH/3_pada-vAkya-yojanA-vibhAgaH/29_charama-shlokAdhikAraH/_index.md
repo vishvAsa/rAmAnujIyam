@@ -3309,7 +3309,7 @@ by **stating** that prapatti **consists** merely in (the above).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् अन्य-परोक्तियैक् कॊण्डु  
-"इवै ताऩेय् अर्थम्" ऎऩ्ऱ् अऱुदिय् इड वॊण्णादु।
+"इवै ताऩेय् अर्थम्" ऎऩ्ऱ् अऱुदिय् इडव् ऒण्णादु।
 </details>
 
 <details><summary>English</summary>
@@ -3377,17 +3377,243 @@ También **conducirían** a una aplicación demasiado amplia (atiprasaṅga).
 अतिप्रसङ्गादिदोषङ्गळुमुण्डु। 
 </details>
 
+##### सम्बन्ध-ज्ञान-मात्रम्?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+अद् ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+"सम्बन्ध-ज्ञान-मात्रम्" ऎऩ्ऱालुम्  
+"सिद्धोपाय-प्रतिपत्ति-मात्रम्" ऎऩ्ऱालुम्  
+इदु वाक्य-मात्र-जन्यम् आगिल्  
++++("जानीही"त्य् अपि)+++ विधि-विषयम् आग-माट्टादु। 
+</details>
+
+<details><summary>English</summary>
 
 We **will explain** how:-  
-(1) & (2) If prapatti **were to consist** only in the **knowledge** of the **relationship** of the śeṣa to the śeṣin or in the knowledge that the Lord is Siddhopāya,  
+(1) & (2) If prapatti **were to consist** only in the **knowledge** of the **relationship** of the śeṣa to the śeṣin  
+or in the knowledge that the Lord is Siddhopāya,  
 then since this **knowledge** would of itself arise from the sentence or text (**stating** it),  
 there **would be no need** to **state** it in the form of an **injunction**  
-(**ordaining** 'know this "). 
+(**ordaining** "know this"). 
 
-If it be said that mokṣa might result from mere knowledge and without doing the thing enjoined in a vidhi or injunction, it would, as explained in Śrī Bhāṣya and elsewhere (Vedārthasaṅgraha), be opposed to (the spirit of) the injunctions directing one to upāsanas; if it be held that the man who has a knowledge of the truth should thereby acquire a different kind of knowledge called prapatti, then the essential nature (svarūpa) of this knowledge should be understood in accordance with the texts or passages ordaining the dharma (ś'araṇam vraja), those that describe or define its characteristics (that it can yield fruits not attainable otherwise etc.) and those that prescribe the manner of adopting it (anushṭhāna) (the utterance of the Dvaya and the like). If the statement that prapatti consists only in the acceptance of Siddhopāya were true, it would mean that the man should first know Siddhopāya and then perform the action called 'surrender of responsibility (bharanyāsa) for which he is competent and that this surrender should be preceded by the prayer enjoined in the vidhis or injunctions, (3) If prapatti were to consist in mere non-resistance (to the Lord's grace), it would mean (a) that it was possible for him to resist Iśvara owing to superior strength. This would imply that Iśvara is not omnipotent or (b) If resistance means resisting the Lord's grace by committing an offence and incurring punishment, it would follow that prapatti is only a means of propitiation (c) If resistance means resisting in means of one's own activity to protect oneself, then since there is no such resistance of the nature of activity in such states as pralaya and suṣupti (dreamless sleep) and so also in the waking stake when the man is capable of action but does not act, Iśvara would have to
+</details>
 
-award mokṣa to him. (4) If prapatti were to consist in mere acceptance, it would then stand on the same footing as upāsana. There would be no difference between the bhakta and the prapanna. (5) If prapatti were to consist merely in being different from non-sentient things, it would be present even when the man acts against the will of God. This, certainly, could not be the cause of being saved or protected. (6) If prapatti were to consist in the mere activity of the sentient being, not only upāsanas but other activities of the sentient being (like eating, breathing, etc.,) would lie the cause of salvation. There would then be no difference between prapatti and all these activities. If it be said that prapatti is what happens to a man of its own accord, there would then be no need for instructions (upadeśa') concerning it. (7) If it be said that prapatti means serenity of mind without the purpose of obtaining any fruit, then it would vary with different individuals in accordance with their respective tastes. (8) If prapatti were a mere attribute of the adhikāri (and not something to be done), the word vraja would be improper, for it lays down something to be done and there is no reference to any fruit or the desire for it (and the like). So it would not be proper to call prapatti an attribute of the adhikārī[^112] . If it were possible to condemn (the performance of) prapatti in these ways, although it is enjoined as something to be performed, it would be equally possible to condemn also upāsanas and the like in the same manner In that case, the attempt to distinguish prapatti from upāsanas and the like (which was the reason for the argument) would fail. If it be said that though this Siddhopāya (Iśvara ) has accepted the responsibility of protecting one and is bent op granting the (desired) fruit, yet the man should consider that this acceptance is unnecessary, prapatti would then be a case of meditating on what is not true (drishti vidhi)[^113] (and it would not lead to mokṣa ).
+<details><summary>Español</summary>
+
+**Le explicaremos** cómo:-  
+
+(1) y (2) Si prapatti **consistiera** sólo en el **conocimiento** de la **relación** del śeṣa con el śeṣin  
+o en el **conocimiento** de que el Señor es Siddhopāya,  
+entonces, dado que este **conocimiento** surgiría por sí mismo de la oración o texto (**declararlo**),  
+**no habría necesidad** de **declararlo** en forma de **orden**  
+(**ordenando** 'sepa esto').
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदॆङ्ङऩे यॆऩ्ऩिल्; सम्बन्धज्ञानमात्रमॆऩ्ऱालुम् सिद्धोपायप्रतिपत्तिमात्रमॆऩ्ऱालुम् इदु वाक्यमात्रजन्यमागिल् विधिविषयमागमाट्टादु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अ-विधेय-ज्ञानत्ताले मोक्षम्" ऎऩ्बार्क्कु  
+उपासनादि-विधि-विरोधम् भाष्यादि-सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+If it **be said** that mokṣa might **result** from mere knowledge  
+and **without doing** the thing **enjoined** in a vidhi or injunction,  
+it would, as **explained** in Śrī Bhāṣya and elsewhere (Vedārthasaṅgraha),  
+**be opposed** to (the spirit of) the injunctions  
+**directing** one to upāsanas; 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se dice** que mokṣa **podría resultar** del mero **conocimiento**  
+y **sin hacer** lo **ordenado** en un vidhi o mandato,  
+**sería**, como **explicado** en Śrī Bhāṣya y en otros lugares (Vedārthasaṅgraha),  
+**oponerse** a (el espíritu de) los mandatos  
+**dirigiendo** a uno hacia upāsanas;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अविधेयज्ञानत्ताले मोक्षमॆऩ्बार्क्कु उपासनादिविधिविरोधम् भाष्यादिसिद्धम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्त्व-ज्ञानम् उडैयवऩुक्कुप्  
+पिऩ्बु कर्तव्यम् आऩ +++(प्रपत्त्य्-आख्य-)+++ज्ञानान्तरम् आगिल्  
+
+प्रपत्तियिऩ्-उडैय +++("शरणं व्रज"→)+++ विधि-+++(षडङ्गत्वादि-)+++लक्षणानुष्ठान+++(→द्वयोच्चारणादि)+++-वाक्यङ्गळ् सॊल्लुगिऱ बडिये  
+इदिऩ् +++(→ज्ञानस्यापि)+++ स्व-रूपम् अङ्गीकरिक्क वेणुम्।
+</details>
+
+<details><summary>English</summary>
+
+If it be held that the man who **has** a **knowledge** of the truth **should** thereby **acquire** a different kind of knowledge **called** prapatti,  
+then the essential nature (svarūpa) of this knowledge **should be understood** in accordance with the texts or passages **ordaining** the dharma (śaraṇam vraja),  
+those that **describe** or **define** its characteristics  
+(that it **can yield** fruits **not attainable** otherwise etc.)  
+and those that **prescribe** the manner of **adopting** it (anushṭhāna)  
+(the **utterance** of the Dvaya and the like). 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que el hombre que **tiene** un **conocimiento** de la verdad **debería** por ello **adquirir** un tipo diferente de **conocimiento llamado** prapatti,  
+entonces la naturaleza esencial (svarūpa) de este **conocimiento debe entenderse** de acuerdo con los textos o pasajes **que ordenan** el dharma ("śaraṇam vraja"),  
+aquellos que **describen** o **definen** sus características  
+(que **puede producir** frutos **no alcanzables** de lo contrario, etc.)  
+y los que **prescriben** la manera de **adoptarlo** (anushṭhāna)  
+(la **expresión** del Dvaya y similares).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्त्वज्ञानमुडैयवऩुक्कुप् पिऩ्बु कर्तव्यमाऩ ज्ञानान्तरमागिल् प्रपत्तियिऩुडैय विधिलक्षणानुष्ठानवाक्यङ्गळ् सॊल्लुगिऱबडिये इदिऩ् स्वरूपमङ्गीकरिक्क वेणुम्।
+</details>
+
+##### सिद्धोपाय-स्वीकारः?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"सिद्धोपाय-स्वीकारम्" ऎऩ्ऱ पासुरत्तुक्कुम्  
+सिद्धोपायत्तैय् अऱिन्दु  
+अदु तऩक्कुक् कार्य-करम् आम् बडि पण्णुगिऱ  
+विधि-प्राप्त-- प्रार्थना-पूर्वक- भर-न्यास-रूपाधिकारि-कृत्यत्तिलेय् इऱे तात्पर्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+If the **statement** that prapatti **consists** only in the **acceptance** of Siddhopāya **were** true,  
+it **would mean** that the man **should** first **know** Siddhopāya  
+
+and then **perform** the **action** called **surrender** of **responsibility** (bharanyāsa)  
+for which he **is competent**  
+and that this **surrender should be preceded** by the prayer **enjoined** in the vidhis or injunctions. 
+</details>
+
+<details><summary>Español</summary>
+
+Si la **afirmación** de que prapatti **consiste** sólo en la **aceptación** de Siddhopāya **fuese** cierta,  
+**significaría** que el hombre **debería** **conocer** primero a Siddhopāya  
+
+y luego **realizar** la **acción llamada rendición** de **responsabilidad** (bharanyāsa)  
+para lo cual **es competente**  
+y que esta **rendición debe ser precedida** por la **oración ordenada** en los vidhis o mandatos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिद्धोपायस्वीकारमॆऩ्ऱ पासुरत्तुक्कुम् सिद्धोपायत्तैयऱिन्दु अदु तऩक्कुक् कार्यकरमाम्बडि पण्णुगिऱ विधिप्राप्त प्रार्थनापूर्वक भरन्यासरूपाधिकारिकृत्यत्तिलेयिऱे तात्पर्यम्। 
+</details>
+
+##### अनिवारण-मात्रम्?
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनिवारण-मात्रम् ऎऩ्ऱदु  
+विलक्काद मात्रम् आऩाल्  
+रक्षकऩ् आऩ ईश्वरऩै  
+इवऩ् मुऩ्बु प्रबलऩ् आय् विलक्किऩाऩ् आगिल्  
+ईश्वरऩ्-उडैय ईश्वरत्वम् सङ्कुचितम् आम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+(3) If prapatti **were to consist** in mere **non-resistance** (to the Lord's grace),  
+it **would mean** 
+
+(a) that it **was possible** for him to **resist** Iśvara owing to superior strength.  
+This **would imply** that Iśvara **is not omnipotent** 
+</details>
+
+<details><summary>Español</summary>
+
+(3) Si prapatti **consistiese** en mera **no resistencia** (a la gracia del Señor),  
+**significaría** 
+
+(a) que **le era posible resistir** a Iśvara debido a su fuerza superior.  
+Esto **implicaría** que Iśvara **no es omnipotente**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनिवारणमात्रमॆऩ्ऱदु विलक्काद मात्रमाऩाल् रक्षकऩाऩ ईश्वरऩै इवऩ् मुऩ्बु प्रबलऩाय् विलक्किऩाऩागिल् ईश्वरऩुडैय ईश्वरत्वम् सङ्कुचितमाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपराधत्ताले निग्रहत्तैय् उण्डाक्कि विलक्किऩाऩ् आगिल्  
+इवऩ् पण्णुगिऱ प्रपत्ति प्रसादनमेय् आग वेणुम्। 
+</details>
+
+<details><summary>English</summary>
+
+or (b) If **resistance means resisting** the Lord's grace  
+by **committing** an **offence** and **incurring punishment**,  
+it would **follow** that prapatti **is** only a means of **propitiation** 
+</details>
+
+<details><summary>Español</summary>
+
+o (b) Si **resistencia significa resistir** la gracia del Señor  
+al **cometer** un **delito** e **incurrir** en un **castigo**,  
+De ello **se desprendería** que prapatti **es** sólo un medio de **propiciación**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपराधत्ताले निग्रहत्तैयुण्डाक्कि विलक्किऩाऩागिल् इवऩ् पण्णुगिऱ प्रपत्ति प्रसादनमेयागवेणुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्व-रक्षणार्थ-व्यापारत्ताले विलक्किऩाऩ् 
+
+ऎऩ्ऩिल्;  
+निर्व्यापारम् आऩ सुषुप्ति-प्रलयाद्य्-अवस्थैगळिलुम् व्यापरिक्क योग्यऩ् आय् इरुक्किऱ  
+जाग्रद्-दशैयिल् विलक्कादेय् इरुक्कुम् पोदुम्  
+ईश्वरऩ् मोक्ष प्रदानम् पण्णप् प्रसङ्गिक्कुम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+(c) If **resistance means resisting** in means of one's own **activity** to **protect** oneself,  
+then since there **is no** such **resistance** of the nature of activity  
+in such states as pralaya and suṣupti (dreamless sleep)  
+and so also in the **waking** state when the man **is capable** of **action** but **does not act**, Iśvara **would have to award** mokṣa to him. 
+</details>
+
+<details><summary>Español</summary>
+
+(c) Si **resistencia significa resistir** mediante la propia **actividad** para **protegerse**,  
+entonces, dado que **no hay** tal **resistencia** de la naturaleza de la actividad  
+en estados tales como pralaya y suṣupti (**sueño** sin sueños)  
+y así también en el estado de **vigilia** cuando el hombre **es capaz** de **acción** pero **no actúa**, Iśvara **tendría que otorgarle** mokṣa.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+स्वरक्षणार्थव्यापारत्ताले विलक्किऩाऩॆऩ्ऩिल्; निर्व्यापारमाऩ सुषुप्तिप्रळयाद्यवस्थैकळिलुम् व्यापरिक्क योग्यऩायिरुक्किऱ जाग्रद्दशैयिल् विलक्कादेयिरुक्कुम् पोदुम् ईश्वरऩ् मोक्ष प्रदानम् पण्णप् प्रसङ्गिक्कुम्।
+</details>
+
+
+
+(4) If prapatti were to consist in mere acceptance, it would then stand on the same footing as upāsana. There would be no difference between the bhakta and the prapanna. (5) If prapatti were to consist merely in being different from non-sentient things, it would be present even when the man acts against the will of God. This, certainly, could not be the cause of being saved or protected. (6) If prapatti were to consist in the mere activity of the sentient being, not only upāsanas but other activities of the sentient being (like eating, breathing, etc.,) would lie the cause of salvation. There would then be no difference between prapatti and all these activities. If it be said that prapatti is what happens to a man of its own accord, there would then be no need for instructions (upadeśa') concerning it. (7) If it be said that prapatti means serenity of mind without the purpose of obtaining any fruit, then it would vary with different individuals in accordance with their respective tastes. (8) If prapatti were a mere attribute of the adhikāri (and not something to be done), the word vraja would be improper, for it lays down something to be done and there is no reference to any fruit or the desire for it (and the like). So it would not be proper to call prapatti an attribute of the adhikārī[^112] . If it were possible to condemn (the performance of) prapatti in these ways, although it is enjoined as something to be performed, it would be equally possible to condemn also upāsanas and the like in the same manner In that case, the attempt to distinguish prapatti from upāsanas and the like (which was the reason for the argument) would fail. If it be said that though this Siddhopāya (Iśvara ) has accepted the responsibility of protecting one and is bent op granting the (desired) fruit, yet the man should consider that this acceptance is unnecessary, prapatti would then be a case of meditating on what is not true (drishti vidhi)[^113] (and it would not lead to mokṣa ).
 
 [^112]: “He who desires svarga should perform Jyotiṣṭoma". In this sentence, the adhikārī is seen to be one who desires a certain fruit, namely Svarga.
 
