@@ -4955,6 +4955,12 @@ de modo que **no es necesario adoptar** ninguno de los medios (como upāsana)
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि एकशब्दत्तिऱ्कु योजनान्तरमरुळिच् चॆय्गिऱार् अपेक्षितफलत्तुक्कुपायमाग विधित्त साधनान्तरङ्गळै इत्यादिना । उपासकऩ् अङ्गमाग प्रपत्तियैप्पण्णि अनन्तरम् उपासनत्तैयुम् पण्णिऩाल् प्रसन्नऩागुम् ईश्वरऩ् स्ततन्त्रप्रपत्तिनिष्ठऩ् विषयत्तिल् प्रपत्तिक्कु अनन्तरम् साधनान्तरङ्गळै अपेक्षिक्कामल् साधनान्तरस्थानत्तिल् ताऩॊरुवऩे निऩ्ऱु फलम् कॊडुक्कैयाल् ‘‘मामेकं’’ ऎऩ्गिऱदु ऎऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद् ऎङ्ङऩेय् ऎऩ्ऩिल्;  
@@ -4997,6 +5003,11 @@ el Salvador **se convierte** en el upāya del fruto **deseado**.
 अदॆङ्ङऩे यॆऩ्ऩिल्; प्रपत्तियुम्बण्णि अनन्तरमदडियाग उपासनादिगळुमनुष्ठित्ताल् फलोपायमागक् कडवऩाऩ शरण्यऩ्
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इत्तै उपपादिक्किऱार् अदॆङ्ङऩेयॆऩ्ऩिलित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5034,6 +5045,10 @@ el mismo Iśvara **toma**, sobre sus propias cualidades, la carga que **yace** e
 अकिञ्चनऩाय् विळम्बक्षमऩल्लादविवऩ् तिऱत्तिल् प्रपत्तिक्कुम् तऩक्कुम् नडुवे निऱ्पदॊरु सुमै सुमत्तादे इवऩ् सुमैयैत् तऩ् गुणङ्गळिऩ् मेलेयेऱिट्टु 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सुमै सुमत्तादे इति । उपासकऩुक्कु अङ्गप्रपत्तियैप् पण्णि अनन्तरम् अनुष्ठेयमाऩ उपासनमाऩदु इवऩुक्कु अनुष्ठिक्क शक्यमल्लामैयाले अदै सुमै ऎऩ्गिऱदु। अदैसुमत्तादे - अदै इवऩुम् पण्णवेण्डुमॆऩ्ऱु विधियादे ऎऩ्ऱबडि। तऩ् गुणङ्गळिऩ् मेले येऱिट्टु इति । तऩ् गुणङ्गळिल् सुमैयैयेऱिडुगै यावदु:- अकिञ्चनऩाऩ इवऩ् नडुवे भक्त्युपायत्तैयुम् पण्णक्कडवऩल्लऩ्; अदैप् पण्णिऩाल् तरक्कडव फलङ्गळै केवलदयैयिऩाले नामे इवऩुक्कुत् तरक्कडवोमॆऩ्ऱु सङ्गल्बिक्कै। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5086,6 +5101,12 @@ y **alcanza** Tu morada, Vaikuṇṭha”,
 ‘‘शरणं त्वां प्रपन्ना ये ध्यानयोगविवर्जिताः । तेऽपि मृत्युमतिक्रम्य यान्ति तद्वैष्णवं पदम्’’(ब्राह्म-पुराणम्) ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अकिञ्चनविषयत्तिल् भक्तियोगमिल्लामले स्वतन्त्रप्रपत्तिमात्रत्तुक्कु फलम् कॊडुप्पऩॆऩ्बदिल् प्रमाणङ्गाट्टुगिऱार् शरणं त्वां प्रपन्ना ये इति । इदिल् ध्यानयोगविवर्जिताः त्वां प्रपन्नाः ये तेऽपि मृत्युमतिक्रम्य ऎऩ्ऱिरुप्पदाल् केवलप्रपत्तिक्के फलङ्गॊडुप्पऩॆऩ्बदिल् इदु प्रमाणमॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ’’आऱ्+++(=गतिर् →प्राप्यं)+++ ऎऩक्कु +++(सन्)+++  
@@ -5132,6 +5153,10 @@ y como el upāya para **alcanzarlo**"
 ’’आऱॆऩक्कु निऩ्बादमे सरणागत् तन्दॊऴिन्दाय्’’(तिरुवाय्मॊऴि ५-७-१०)  ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदिल् आऴ्वार् श्रीसूक्तियुम् प्रमाणमॆऩ्गिऱार् आऱॆऩक्किति । ऎऩक्कु - अकिञ्चनऩाऩ ऎऩक्कु, निऩ्बादमे आऱु सरणाग - मुख्योपायमाग, तन्दॊऴिन्दाय् - तन्दायॆऩ्ऱबडि। इङ्गु आऱु सरण् ऎऩ्गिऱ द्विरुक्तियाले मुख्योपायत्वम् सॊल्लप्पट्टदु। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5171,6 +5196,12 @@ y **búscame** sólo a Mí para tu **salvación**".
 
 गुणविशिष्टऩाऩ ताऩे निरपेक्षफलप्रदऩाय् निऱ्कुम् निलैयै अनुसन्धित्तुक् कॊण्डु शरणमागवडैयॆऩ्ऱु इङ्गु सॊल्लिऱ्ऱायिऱ्ऱु।  
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+निरपेक्षफलप्रदऩाय् निऱ्कुम् निलैयै इति । भक्त्युपायत्तैयपेक्षिक्कामले फलप्रदऩाग इरुक्कुम् इरुप्पै ऎऩ्ऱबडि।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5228,6 +5259,12 @@ bajo la **impresión** de que ellos también **forman** upāyas para **propiciar
 इप्पडिये परिपूर्णऩाऩ तऩ्ऩै प्रपत्तिपण्णुम्बोदु आनुकूल्यसङ्कल्पादिगळै यॊऴिय वेऱॊरु परिकरत्तै यिदिले विद्यान्तरत्तिऱ्पोले सॊरुगिक्कॊण्डु अदुवुम् प्रसादनमाऩ उपायकोटियिले निऱ्किऱदॆऩ्ऱुम् निऩैवैक् कऴिक्कैक्काग एकशब्दऩॆऩ्ऱुम् सॊल्लुवर्गळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि प्रपत्तिक्कु आनुकूल्यसङ्कल्पाद्यङ्गङ्गळैयॊऴिय वर्णाश्रमधर्मङ्गळ् तुणैयऩ्ऱु। ऎऩ्ऩैयॊरुवऩैये तुणैयागप् पऱ्ऱु ऎऩ्बदिल् एकशब्दत्तिऱ्कु नोक्कु ऎऩ्ऱु योजनान्तरमरुळिच्चॆय्गिऱार् इप्पडिये परिपूर्णऩाऩ तऩ्ऩै इत्यादियाल्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5235,38 +5272,659 @@ bajo la **impresión** de que ellos también **forman** upāyas para **propiciar
 प्रपत्तिक्कुत् तुणैय् अऩ्ऱु। 
 </details>
 
-<details><summary>मूलम्</summary>
-
-आज्ञानुज्ञैयाले अनुष्ठिक्कुम् कर्तव्यान्तरङ्गळुमॆल्लाम् प्रपत्तिक्कुत् तुणैयऩ्ऱु। 
-</details>
-
-
-
-
-The Lord's **purport** (in the śloka) is as **follows** --
+<details><summary>English</summary>
 
 > " Prapatti **does not require** any aids  
 such as **are performed**  
 either because they **are** my commands  
 or because **their performance is approved** of by me.  
-When I **become** gracious  
-owing to the performance of prapatti,  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Prapatti **no requiere** ninguna ayuda  
+como **se realizan**  
+ya sea porque **son** mis comandos  
+o porque **su desempeño es aprobado** por mí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आज्ञानुज्ञैयाले अनुष्ठिक्कुम् कर्तव्यान्तरङ्गळुमॆल्लाम् प्रपत्तिक्कुत् तुणैयऩ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+वर्णाश्रमधर्मङ्गळ् तुणैयऩ्ऱु ऎऩ्बदै ईश्वरोक्तियाले उपपादिक्किऱार् आज्ञानुज्ञेत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप् प्रपत्तियाले वशी-कृतऩ् आय्  
+फलन् तरव् इरुक्किऱ नाऩ् ऒरुवऩुमे  
+इक्-क्षणिकोपायत्तुक्कुप् प्रतिभूव् आय् निऩ्ऱेऩ्।
+</details>
+
+<details><summary>English</summary>
+
+> When **I become** gracious  
+owing to the **performance** of prapatti,  
 **I am bent** on **granting** the **desired** fruit  
 and **stand** as the one and only surety for this upāya  
 which **is capable** of being **performed** in an instant.  
-In regard to the fruit of this prapatti,  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Cuando **me vuelvo** amable  
+debido a la **actuación** de prapatti,  
+**Estoy empeñado** en **conceder** el fruto **deseado**  
+y **ser** como la única garantía de este upāya  
+que **es capaz** de **realizarse** en un instante.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप् प्रपत्तियाले वशीकृतऩाय् फलन्दरविरुक्किऱनाऩॊरुवऩुमे इक्क्षणिकोपायत्तुक्कुप् प्रतिभूवाय् निऩ्ऱेऩ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप् प्रपत्ति-फलत्तैप् पऱ्ऱ  
+वेऱ् ऒरु तेवै सॆय्य वेण्डा।
+</details>
+<details><summary>English</summary>
+
+> In regard to the fruit of this prapatti,  
 nothing else **need be performed**.  
-**I do not require** any such aid in regard 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Con respecto al fruto de este prapatti,  
+**no es necesario realizar** nada más.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप् प्रपत्ति फलत्तैप्पऱ्ऱ वेऱॊरु तेवै सॆय्यवेण्डा।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अत्-तेवैयैत् तुणैय् आगक् कॊण्डु  
+उऩ्ऩै नाऩ् रक्षिक्कप् पुगुगिऱेऩ् अल्लेऩ् 
+
+ऎऩ्ऱु तात्पर्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+> **I do not require** any such aid in regard 
 to my **determination** to **save** Thee". 
 
+The Lord's **purport** (in the śloka) is as above.
+</details>
 
-This amounts to saying that, with the exception of such things as the will to do what is pleasing (to the Lord), no other auxiliary causes should be added on in the name of ancillaries to prapatti.
+<details><summary>Español</summary>
 
-As stated (in the Śaraṇāgati Gadya " Thou that utterest the Dvaya in some manner or other" and in Varadarāja stava. “By the mere words which state prapatti, I long to see Thee - Thee that canst not be attained by bhakti ", even though a man has not the clear understanding necessary for the full and perfect performance of prapatti, this upāya will be effective even if it be adopted in a less satisfactory manner. Therefore there is certainly no need to seek ancillary rites or dharmas for this upāya.
+> **No necesito** ninguna ayuda de este tipo con respecto 
+a mi **determinación** de **salvarte**". 
 
-(It is true that) (in the Rāmāyaṇa) it is stated :- " Then Rāma," the slayer of his enemies, spread kuśa grass on the beach, had his arm shining like the body of a serpent for his pillow, folded his hands in añjali and lay down facing the east and expecting the arrival of the god of the ocean" and, likewise, in the story of Brahmadatta in the episode of Saptavyādha, “The king was in great danger and sought with devotion Nārāyaṇa, the chief of the gods, the Saviour and the Ruler over all, as his upāya with concentration of mind and fasting for six nights. The renowned king saw in his contemplation (dhyāna) the Lord Nārāyaṇa" But these ancillary rites that are described in the Rāmāyaṇa and Harivamśa) are not necessary for prapatti. In these two places, what is of importance is the ritual of sitting with the intention of starving onto death and therefore the ancillary actions described there are proper. The same explanation holds good in the case of namaskāra well performed. (There is no prapatti in all these cases). But in prapatti, no other requisites are needed except such as the will to do what is pleasing to the Lord - such as are stated in the chapters on Prapatti. We do not find any ancillary rites except such requisites, at the time, as the will to do what is pleasing. in the following instances of those who performed prapatti with only their being destitute of all upāyas for their sole wealth. (a) Draupadi, (b) Damayanti, (c) Rākṣasis, (d) Vibhishana, (e) Kshatrabandbu, (f) Muchukunda, (g) Gajendra, (h) the pāṇḍavas, (i) the gods, (j) Sumukha. (k) Triśanku, (1) Śunaśśepha, (m) Kirāta, (n) kāka, (o) Kapota[^114] and the like. We find that, by the instantaneous performance of mere prapatti without any other requisites, the desired fruit was obtained) by each of these that sought protection in the same manner, even in prapatti performed for the sake of mokṣa, there is nothing to prevent the attainment of the fruit at the desired time. This is the purport also of the words mā śuchah (Do not grieve).
+El **significado** del Señor (en el śloka) es el anterior.
+</details>
 
-[^114]: (a) to Kr̥ṣṇa at the time of the removal of her sari: (b) to the gods at the time of the Swayamvara: (c) Trijata to Sita: d) to Rāma: e) to Bhagavan after Narada's advice (f) when the Lord appeared before him; (g) to Bhagavan; h) to Bhagavan (i to Bhagavan; (j) to Upendra in dread of garuda; (k) to Visvamitra; (1) to Visvamitra; (m) to the pigeon; (n) to Rāma; (o) to Sibi
+
+<details><summary>मूलम्</summary>
+
+अत्तेवैयैत् तुणैयागक् कॊण्डु उऩ्ऩै नाऩ् रक्षिक्कप्पुगुगिऱेऩल्लेऩॆऩ्ऱु तात्पर्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् आनुकूल्य-सङ्कल्पादि-विशिष्ट- प्रपत्तिय् ऒऴिय  
+प्रपत्ति-परिकरम् ऎऩ्ऱु पेर् इट्टुत्  
+तऩक्कु वेऱ् ऒरु सह-कारि-कारणत्तैक् कूट्ट वेण्डाव् 
+
+ऎऩ्ऱु सॊल्लिऱ्ऱ् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+This **amounts** to **saying** that,  
+with the exception of such things as the will to **do** what **is pleasing** (to the Lord),  
+no other auxiliary causes **should be added on**  
+in the name of ancillaries to prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+Esto **equivale** a **decir** que,  
+con excepción de cosas tales como la voluntad de **hacer** lo **que agrada** (al Señor),  
+**no se deben agregar** otras causas auxiliares   
+en nombre de auxiliares de prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताल् आनुकूल्यसङ्कल्पादिविशिष्टप्रपत्तियॊऴिय प्रपत्तिपरिकरमॆऩ्ऱु पेरिट्टुत् तऩक्कु वेऱॊरु सहकारिकारणत्तैक् कूट्ट वेण्डावॆऩ्ऱु सॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+### विकल-प्रपत्ताव् अपि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘येन केनापि प्रकारेण द्वय-वक्ता त्वम्’’(शरणागति-गद्यम्) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘येन केनापि प्रकारेण द्वय-वक्ता त्वम्’’(शरणागति-गद्यम्) 
+</details>
+
+<details><summary>English</summary>
+
+As **stated** (in the Śaraṇāgati Gadya) 
+
+> " Thou that **utterest** the Dvaya in some manner or other" 
+
+</details>
+
+<details><summary>Español</summary>
+
+Como **indicado** (en el Śaraṇāgati Gadya) 
+
+> "Tú que **pronuncias** el Dvaya de una forma u otra"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘येन केनापि प्रकारेण द्वयवक्ता त्वं’’(शरणागति-गद्यम्) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इव्वर्थत्तै पूर्णप्रपत्तियिल् तॆळिविल्लादवऩुडैय समुदायज्ञानपूर्वकसकृदुच्चारणरूपोक्ति प्रपत्तियेफलप्रदमायिरुक्क पूर्णप्रपत्तिक्कु परिकरान्तरापेक्षै वेण्डुमो ऎऩ्ऱु कैमुतिकन्यायत्ताले दृढीकरिक्किऱार् येन केनापीत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रपत्ति-वाचैव निरीक्षितुं वृणे’’(वरदराज-स्तवः ९२) 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रपत्ति-वाचैव निरीक्षितुं वृणे’’(वरदराज-स्तवः ९२) 
+</details>
+
+
+<details><summary>English</summary>
+
+and in Varadarāja stava 
+
+> “By the mere words which **state** prapatti,  
+**I long** to **see** Thee -  
+Thee that **canst not be attained** by bhakti ", 
+</details>
+
+<details><summary>Español</summary>
+
+y en Varadarāja stava 
+
+> “Por las meras palabras que **declaran** prapatti,  
+**Anhelo verte** -  
+Tú que **no puedes ser alcanzado** por bhakti",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रपत्तिवाचैव निरीक्षितुं वृणे’’(वरदराज-स्तवः ९२) ऎऩ्ऱुञ्जॊल्लुगिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्ण-प्रपत्तिक्क् अपेक्षितम् आऩ तॆळिव् इल्लाविडिलुम् 
+</details>
+
+<details><summary>English</summary>
+
+even though a man **has not** the clear **understanding necessary** for the full and perfect **performance** of prapatti,  
+</details>
+
+<details><summary>Español</summary>
+
+aunque un hombre **no tenga** la clara **comprensión necesaria** para la completa y perfecta **ejecución** de prapatti,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्णप्रपत्तिक्कपेक्षितमाऩ तॆळिविल्लाविडिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा-कथञ्चिद् अनुष्ठानत्ताले कार्यञ् जॆय्गिऱ इव्व्-उपायत्तुक्कु  
+वेऱ् ऒरु परिकरत्तैत् तेड प्रसङ्गम् इल्लैय् इऱे।
+</details>
+
+<details><summary>English</summary>
+
+this upāya **will be effective**  
+even if it **be adopted** in a less satisfactory manner.  
+Therefore there **is** certainly **no need** to **seek** ancillary rites or dharmas for this upāya.
+
+</details>
+
+<details><summary>Español</summary>
+
+este upāya **será efectivo**  
+incluso si **se adopta** de manera menos satisfactoria.  
+Por lo tanto **no hay** ciertamente **ninguna necesidad** de **buscar** ritos o dharmas auxiliares para este upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथाकथञ्चिदनुष्ठानत्ताले कार्यञ्जॆय्गिऱ इव्वुपायत्तुक्कु वेऱॊरु परिकरत्तैत्तेड प्रसङ्गमिल्लैयिऱे।
+</details>
+
+### अनुष्ठाने ऽनङ्गानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ततस् सागर-वेलायां  
+दर्भान् **आस्तीर्य** राघवः ।  
+बाहुं भुज-ग-भोगाभम्  
+उपधायारि-सूदनः ॥  
+अञ्जलिं प्राङ्-मुखः **कृत्वा**  
+**प्रतिशिश्ये** महोदधेः।’’  
+(रामायणम् युद्ध-काण्डम् २१-१, २) 
+
+ऎऩ्ऱु पॆरुमाळ् समुद्रत्तैप् पऱ्ऱ शरणागति पण्णव् इडत्तिलुम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘ततस् सागर-वेलायां  
+दर्भान् **आस्तीर्य** राघवः ।  
+बाहुं भुज-ग-भोगाभम्  
+उपधायारि-सूदनः ॥  
+अञ्जलिं प्राङ्-मुखः **कृत्वा**  
+**प्रतिशिश्ये** महोदधेः।’’  
+(रामायणम् युद्ध-काण्डम् २१-१, २) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+(It **is** true that) (in the Rāmāyaṇa)  
+it **is stated** :-  
+
+> " Then Rāma, the **slayer** of his **enemies**,  
+**spread** kuśa grass on the beach,  
+**had** his arm **shining** like the body of a serpent for his pillow, **folded** his hands in añjali  
+and **lay down** facing the east  
+and **expecting** the **arrival** of the god of the ocean" 
+
+and, likewise, 
+</details>
+
+<details><summary>Español</summary>
+
+(**Es** cierto que) (en el Rāmāyaṇa)  
+**se dice**:-  
+
+> " Entonces Rāma, el **asesino** de sus **enemigos**,  
+**esparce** hierba kuśa en la playa,  
+**tenía** su brazo **brillante** como el cuerpo de una serpiente por su almohada, **cruzó** sus manos en añjali  
+y **acuéstate** mirando hacia el este  
+y **esperando** la **llegada** del dios del océano"
+
+y, asimismo,
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘ततस्सागरवेलायां दर्भानास्तीर्य राघवः । बाहुं भुजगभोगाभमुपधायारिसूदनः ॥ अञ्जलिं प्राङ्मुखः कृत्वा प्रतिशिश्ये महोदधेः’’(रामायणम् युद्ध-काण्डम् २१-१, २) ऎऩ्ऱु पॆरुमाळ् समुद्रत्तैप्पऱ्ऱ शरणागति पण्णविडत्तिलुम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पॆरुमाळ् समुद्रराजऩै शरणमडैन्द पोदुम् हरिवंशत्तिल् सप्तव्याधोपाख्यानत्तिल् सॊऩ्ऩ ब्रह्मदत्तचरित्रत्तिलुळ्ळ अवऩुडैय शरणागतियिलुम् दर्भास्तरण निराहारत्वादिपरिकरङ्गळ् काणप्पडुगिऩ्ऱऩवे ऎऩ्ऩ वरुळिच् चॆय्गिऱार् ततस्सागरवेलायामिति । 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘स राजा परमापन्नो  
+देव-श्रेष्ठम् **अगात्** तदा ।  
+शरण्यं सर्व-भूतेशं  
+भक्त्या नारायणं हरिम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘स राजा परमापन्नो  
+देव-श्रेष्ठम् **अगात्** तदा ।  
+शरण्यं सर्व-भूतेशं  
+भक्त्या नारायणं हरिम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> “The king **was** in great danger  
+and **sought** with devotion Nārāyaṇa, the chief of the gods, the **Saviour** and the **Ruler** over all,  
+</details>
+
+<details><summary>Español</summary>
+
+> “El rey **estaba** en gran peligro  
+y **busqué** con devoción a Nārāyaṇa, el jefe de los dioses, el **Salvador** y el **Gobernante** sobre todo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘स राजा परमापन्नो देवश्रेष्ठमगात्तदा । शरण्यं सर्वभूतेशं भक्त्या नारायणं हरिम् ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समाहितो निराहारष्  
+षड्-रात्रेण महा-यशाः ।  
+**ददर्श +++(ध्यान-)+++दर्शने** राजा  
+देवं नारायणं प्रभुम्॥’’  
+(हरिवंशः २७-११,१३) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> समाहितो निराहारष्  
+षड्-रात्रेण महा-यशाः ।  
+**ददर्श +++(ध्यान-)+++दर्शने** राजा  
+देवं नारायणं प्रभुम्॥’’  
+(हरिवंशः २७-११,१३) 
+</details>
+
+<details><summary>English</summary>
+
+> as his upāya with concentration of mind  
+and **fasting** for six nights.  
+The **renowned** king **saw** in his contemplation (dhyāna) the Lord Nārāyaṇa" 
+</details>
+
+<details><summary>Español</summary>
+
+> como su upāya con concentración mental  
+y **ayuno** durante seis noches.  
+El rey **reconocido** **vio** en su contemplación (dhyāna) al Señor Nārāyaṇa"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+समाहितो निराहारष्षड्रात्रेणमहायशाः । ददर्श दर्शने राजा देवं नारायणं प्रभुम्’’(हरिवंशः २७-११,१३) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु सप्त-व्याधोपाख्यानत्तिले ब्रह्म-दत्त-चरितत्तिलुञ् 
+</details>
+
+<details><summary>English</summary>
+
+(thus) in the story of Brahmadatta in the episode of Saptavyādha … 
+</details>
+
+<details><summary>Español</summary>
+
+(así) en la historia de Brahmadatta en el episodio de Saptavyādha...
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु सप्तव्याधोपाख्यानत्तिले ब्रह्मदत्तचरितत्तिलुञ् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जॊऩ्ऩ +++(अनुष्ठान-)+++प्रकारङ्गळुमॆल्लाम् प्रपत्तिक्कङ्गमऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+But these ancillary rites that **are described** (in the Rāmāyaṇa and Harivamśa) **are not necessary** for prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+Pero estos ritos auxiliares que **se describen** (en el Rāmāyaṇa y el Harivamśa) **no son necesarios** para prapatti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+जॊऩ्ऩ प्रकारङ्गळुमॆल्लाम् प्रपत्तिक्कङ्गमऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इरण्ड् इडमुम्  
+स-परिकर-प्रतिशयनादि-प्रधानम् आगैयाले  
+अङ्ग् अन्द नियमङ्गळ् सॊल्लप् प्राप्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+In these two places, what **is** of importance  
+**is** the **ritual** of **sitting** with the **intention** of **starving** onto death  
+and therefore the ancillary **actions described** there **are** proper. 
+</details>
+
+<details><summary>Español</summary>
+
+En estos dos lugares, qué **es** importante  
+**es** el **ritual** de **sentarse** con la **intención** de **morir de hambre** hasta morir  
+y por lo tanto las **acciones auxiliares descritas** allí **son** apropiadas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विरण्डिडमुम् सपरिकरप्रतिशयनादिप्रधानमागैयाले अङ्गन्द नियमङ्गळ् सॊल्लप् प्राप्तम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सपरिकरप्रतिशयनादिप्रधानमागैयाले इति । अव्विरण्डिडत्तिलुम् प्रतिशयनमे अङ्गियागच् चॊल्लप्पडुगैयाले दर्भास्तरणादिगळ् अदऱ्कु परिकरङ्गळागच् चॊल्लप्पट्टदे यॊऴिय प्रपत्तिक्कु परिकरङ्गळागच् चॊल्लप् पडविल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि सुकृत-प्रणामत्तिलुङ् कण्डुगॊळ्वदु।
+</details>
+
+<details><summary>English</summary>
+
+The same **explanation holds good** in the case of namaskāra well **performed**.  
+(There **is** no prapatti in all these cases). 
+</details>
+
+<details><summary>Español</summary>
+
+La misma **explicación es válida** en el caso de namaskāra bien **realizado**.  
+(**No hay** prapatti en todos estos casos).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सुकृतप्रणामत्तिलुङ्गण्डुगॊळ्वदु।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘एकोऽपि कृष्णे सुकृतप्रणामः’’ ऎऩ्ऱारम्बित्तु ‘‘कृष्णप्रणामी न पुनर्भवाय’’ ऎऩ्ऱु पुनर्जन्मनिवर्तकमागच् चॊल्लप्पट्ट सुकृतप्रणामम् शरणागतियऩ्ऱो? अदु शरणागतियागिल् अदिऩ् स्वरूपम् बाहुभ्यां त्रिरायाममञ्जलिकरणं, त्रिराजानुप्रसरणं, ललाटनासा-कपोलानां त्रिर्भूस्पर्शो यथा भवति तता साष्टाङ्गप्रणामस्य द्वादशावृत्तिः ऎऩ्ऱु सॊल्लप्पट्टिरुप्पदाल्अदऱ्कु भूस्पर्शादिपरिकरापेक्षै यवर्जनीयमऩ्ऱोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडि सुकृतप्रणामत्तिलुम् कण्डुगॊळ्वदु इति । सुकृतप्रणामम् शरणागतियऩ्ऱु; पुनर्जन्मनिवर्तकमाऩ भगवत्प्रसादकारणीभूतमाऩ ऒरु प्रणामरूपक्रियाविशेषम्। आगैयाल् अङ्गु सॊऩ्ऩ परिकरङ्गळ् प्रपत्तिक्कु अङ्गङ्गळागादु ऎऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु प्रपत्त्य्-अध्यायादिगळिऱ् सॊऩ्ऩव् आनुकूल्य-सङ्कल्पादि-परिकरङ्गळ् ऒऴिय  
+वेऱ् ऒरु नियमङ्गळ् वेण्डा।
+</details>
+
+<details><summary>English</summary>
+
+But in prapatti, no other requisites **are needed**  
+except such as the will to do what **is pleasing** to the Lord -  
+such as **are stated** in the chapters on Prapatti.  
+</details>
+
+<details><summary>Español</summary>
+
+Pero en prapatti, **no se necesitan** otros requisitos  
+excepto la **voluntad** de **hacer** lo que **agrada** al Señor -  
+como **se indican** en los capítulos sobre Prapatti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु प्रपत्त्यध्यायादिगळिऱ् सॊऩ्ऩ वानुकूल्यसङ्कल्पादिपरिकरङ्गळॊऴिय वेऱॊरु नियमङ्गळ् वेण्डा।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि आनुकूल्यसङ्कल्पादिगळ् तविर प्रपत्तिक्कु परिकरान्तरम् वेण्डामॆऩ्बदै पूर्वाचारत्तैक् काट्टि स्थिरीकरिक्किऱार् इङ्गु प्रपत्त्यद्ध्यायादिगळिऱ् सॊऩ्ऩ इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकिञ्चन्यैक-धनर् आऩ  
++++(कृष्णे→)+++ द्रौपदी-  
++++(स्वयंवरे ५-नल-दर्शने देवेषु→)+++ दमयन्ती-  
++++(सीतायां→)+++ राक्षसी- +++(रामे→)+++विभीषण-  
++++(नारदोपदेशतो ब्रह्मणि)+++ क्षत्र-बन्धु-  
++++(कालयवन-दाहात् परं कृष्णे→)+++ मुचुकुन्द-  
++++(विष्णौ→)+++ गजेन्द्र-पाण्डव-देव-  
++++(विष्णौ गरुड-भीत-)+++सुमुख-  
++++(विश्वामित्रे→)+++ त्रिशङ्कु-शुनश्शेप-  
++++(बुभुक्षित-)+++किरात- 
+काक-  
++++(शिबि-)+++कपोतादिगळ्  
+शरणागतर् आगिऱ बोदु 
+</details>
+
+<details><summary>English</summary>
+
+In the following instances of those who **performed** prapatti  
+with only their **being destitute** of all upāyas for their sole wealth - 
+
+(a) Draupadi (to Kr̥ṣṇa at the time of the removal of her sari),  
+(b) Damayanti (to the gods at the time of the Swayamvara),  
+(c) Rākṣasis, (Trijata to Sita)  
+(d) Vibhishana (to Rāma),  
+(e) Kshatrabandbu (to Bhagavan after Narada's advice),  
+(f) Muchukunda (when the Lord appeared before him),  
+(g) Gajendra,  (h) the pāṇḍavas, (i) the gods, (to Bhagavan)  
+(j) Sumukha (to Upendra in dread of garuda)  
+(k) Triśanku, (l) Śunaśśepha, (to Visvamitra)  
+(m) Kirāta (to the pigeon),  
+(n) kāka (to Rāma),  
+(o) Kapota (to Sibi)  
+and the like, 
+</details>
+
+<details><summary>Español</summary>
+
+En los siguientes casos de aquellos que **realizaron** prapatti  
+con solo **estar desprovistos** de todos los upāyas como única riqueza - 
+
+(a) Draupadi (a Kr̥ṣṇa en el momento de quitarse el sari),  
+(b) Damayanti (a los dioses en la época de Swayamvara),  
+(c) Rākṣasis, (Trijata a Sita)  
+(d) Vibhishana (a Rāma),  
+(e) Kshatrabandbu (a Bhagavan después del **consejo** de Narada),  
+(f) Muchukunda (cuando el Señor **apareció** ante él),  
+(g) Gajendra, (h) los pāṇḍavas, (i) los dioses, (a Bhagavan)  
+(j) Sumukha (a Upendra por temor a garuda)  
+(k) Triśanku, (l) Śunaśśepha, (a Visvamitra)  
+(m) Kirāta (a la paloma),  
+(n) kāka (a Rāma),  
+(o) Kapota (a Sibi)  
+y similares,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आकिञ्चन्यैकधनराऩ द्रौपदी-दमयन्ती-राक्षसी-विभीषण-क्षत्रबन्धु-मुचुकुन्द-गजेन्द्र-पाण्डव-देव-सुमुख-त्रिशङ्कु-शुनश्शेप-किरात-काक-कपोतादिगळ् शरणागतरागिऱबोदु 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+दमयन्ती – नळपत्नी ।  
+इवळ् विवाहगालत्तिल् ऐन्दु नळऩ्गळ् तोऱ्ऱानिऱ्क, नाऩ् पोडुगिऱ मालै साक्षान्नळऩ् कऴुत्तिलेये विऴवेण्डुमॆऩ्ऱॆण्णि  
+‘‘शरणं प्रतिदेवानां प्राप्तकालममन्यत’’  
+ऎऩ्गिऱबडि शरणागति पण्णिऩाळ्।  
+
+राक्षसी – त्रिजडै। इवळ् पिराट्टियिडत्तिल् शरणागतियैच् चॆय्दाळ् 
+
+सुमुखऩ् - पितृहन्तावाऩ गरुडऩिडत्तिल् भयत्ताले भगवाऩै सरणमडैन्द  
+मातलि जामाताव् आऩ सर्पराजकुमारऩ्। परिकरान्तरनिरपेक्षमाऩ शरणागतियाले अवर्गळुक्कॆल्लाम् फलम् सिद्धित्तदो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् क्षणकालसाध्यमायिति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदै आनुकूल्यादिगळैय् ऒऴिय  
+वेऱ् ऒरु इति-कर्तव्यतैयैच् चॊल्लक् कण्डिलोम्।
+</details>
+<details><summary>English</summary>
+
+**We do not find** any ancillary rites except such requisites, at the time,  
+as the will **to do** what **is pleasing**. 
+</details>
+
+<details><summary>Español</summary>
+
+**No encontramos** ningún rito auxiliar excepto dichos requisitos, en ese momento,  
+como la voluntad de **hacer** lo que **es agradable**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदै आनुकूल्यादिगळै यॊऴिय वेऱॊरु इतिकर्तव्यतैयैच् चॊल्लक् कण्डिलोम्।
+</details>
+
+
+
+
+We find that, by the instantaneous performance of mere prapatti without any other requisites, the desired fruit was obtained) by each of these that sought protection in the same manner, even in prapatti performed for the sake of mokṣa, there is nothing to prevent the attainment of the fruit at the desired time. This is the purport also of the words mā śuchah (Do not grieve).
+
 
 If parityajya is interpreted to mean that there is nothing else required for prapatti, this interpretation of the word eka may be considered as confirming or emphasizing this. (It need not therefore be looked upon as redundant). Or the word eka may be considered to have another meaning, namely, the idea of the upāya and the upeya being the same. If the word eka is considered as stating that prapatti does not require anything else, then the word parityajya may be considered as having the other meanings stated before.
 
