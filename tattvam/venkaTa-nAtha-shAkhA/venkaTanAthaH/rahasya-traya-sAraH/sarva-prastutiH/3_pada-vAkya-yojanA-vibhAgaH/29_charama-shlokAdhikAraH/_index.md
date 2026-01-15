@@ -4893,10 +4893,374 @@ en cualquiera de estos dos, **según** su competencia.
 गुरुलघुक्कळाऩ भक्तिप्रपत्तिकळुक्कु विगल्बम् कूडुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इवैयिरण्डत्तॊऩ्ऱिल् यथाधिकारम् निलैयागक् कडवदु इति । गुरुलघुक्कळुक्कु समविकल्पम् कूडादागिलुम् शक्ताशक्तभेदत् ताले व्यवस्थितविकल्पम् कूडुमॆऩ्ऱु करुत्तु।
 </details>
 
+### उपायान्तरस्थानय् एकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपेक्षित-फलत्तुक्क् उपायम् आग विधित्त साधनान्तरङ्गळैय्  
+इडैय्+++(=मध्यं)+++ इड वेण्डाद बडि  
+
+प्रपत्तिक्क् अनन्तरम्  
+भर-स्वीकारम् पण्णिऩ शरण्यऩ्  
+तऩित्तु निऱ्कुम् निलैयैप् पऱ्ऱ  
+
+"एक"-शब्दम् ऎऩ्ऱुञ् जॊल्लुवर्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(4) अपेक्षित-फलार्थम् उपायत्वेन विहितानि  
+साधनान्तराणि  
+यथा न द्वार-कार्याणि स्युः,  
+तथा प्रपत्तेर् अनन्तरं  
+स्वी-कृत--भरस्य शरण्यस्य  
+एकाकित्वेनावस्थिति-प्रकारम् अभिप्रेत्य् एक-शब्द   
+इत्य् आचक्षते ।
+</details>
+
+
+<details><summary>English</summary>
+
+(4) It has also **been stated** by some (ācāryas) that  
+the word eka **is employed** to **indicate** 
+
+how the Saviour,  
+who **has accepted** the **responsibility**, **stands** alone,  
+
+**requiring** nothing else  
+after the **performance** of prapatti,  
+
+so that there **need be no adoption** of any of the means (like upāsana)  
+**prescribed** for the **attainment** of the **desired** fruit. 
+</details>
+
+<details><summary>Español</summary>
+
+(4) Algunos (ācāryas) también **han afirmado** que  
+la palabra "eka" **se emplea** para **indicar** 
+
+cómo el Salvador,  
+quien **ha aceptado** la **responsabilidad**, **está** solo,  
+
+**no requiere** nada más  
+después de la **actuación** de prapatti,  
+
+de modo que **no es necesario adoptar** ninguno de los medios (como upāsana)  
+**prescrito** para la **consecución** del fruto **deseado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपेक्षितफलत्तुक्कुपायमाग विधित्त साधनान्तरङ्गळै यिडै यिडवेण्डादबडि प्रपत्तिक्कनन्तरम् भरस्वीकारम् पण्णिऩ शरण्यऩ् तऩित्तु निऱ्कुम् निलैयैप्पऱ्ऱ एकशब्दमॆऩ्ऱुञ्जॊल्लुवर्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद् ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+प्रपत्तियुम् +++(अङ्गत्वेन)+++ बण्णि  
+अनन्तरम् अद्-अडिय् आग  
++++(अङ्गित्वेन)+++ उपासनादिगळुम् अनुष्ठित्ताल्  
+फलोपायम् आगक् कडवऩ् आऩ शरण्यऩ्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"तत् कथम्" इति चेत् —  
++++(अङ्ग-)+++प्रपत्तिं कृत्वा  
+तद् अनन्तरम् +++(अङ्ग्य्-)+++उपासनादीनाम् अप्य् अनुष्ठाने कृते सति  
+फलोपायो भवन् शरण्यः 
+</details>
+
+
+<details><summary>English</summary>
+
+This **may be explained** as **follows** :---  
+
+If a person **has performed** prapatti as an aṅga  
+and then **adopts** also upāsanas and the like as angī,  
+the Saviour **becomes** the upāya for the fruit **desired**.  
+</details>
+
+<details><summary>Español</summary>
+
+Esto **puede explicarse** como **sigue** :---  
+
+Si una persona **ha realizado** prapatti como aṅga  
+y luego **adopta** también upāsanas y similares como angī,  
+el Salvador **se convierte** en el upāya del fruto **deseado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदॆङ्ङऩे यॆऩ्ऩिल्; प्रपत्तियुम्बण्णि अनन्तरमदडियाग उपासनादिगळुमनुष्ठित्ताल् फलोपायमागक् कडवऩाऩ शरण्यऩ्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अकिञ्चनऩ् आय् विळम्ब-क्षमऩ्-अल्लादव् इवऩ् तिऱत्तिल्  
+प्रपत्तिक्कुम् तऩक्कुम् नडुवे निऱ्पद् ऒरु चुमै+++(=भारं)+++ चुमत्तादे  
+इवऩ् सुमैयैत् तऩ् गुणङ्गळिऩ् मेलेय् एऱ् इट्टु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अकिञ्चनस्य विलम्बाक्षमस्यास्य विषये  
+प्रपत्तेः स्वस्य च मध्ये ऽवस्थितं  
+कम् अपि भारम् अनारोपयन्न् एव  
+अस्य भारं स्वगुणेष्व् आरोप्य, 
+</details>
+
+
+<details><summary>English</summary>
+
+In the case of the man who **adopts** prapatti as a direct and independent means,  
+**being destitute** of the other upAyas and impatient of delay,  
+the same Iśvara **takes**, upon his own qualities, the burden that **lies** between prapatti and Himself.  
+</details>
+
+<details><summary>Español</summary>
+
+En el caso del hombre que **adopta** prapatti como medio directo e independiente,  
+**siendo desprovisto** de los otros upAyas e impaciente por la demora,  
+el mismo Iśvara **toma**, sobre sus propias cualidades, la carga que **yace** entre prapatti y Él mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकिञ्चनऩाय् विळम्बक्षमऩल्लादविवऩ् तिऱत्तिल् प्रपत्तिक्कुम् तऩक्कुम् नडुवे निऱ्पदॊरु सुमै सुमत्तादे इवऩ् सुमैयैत् तऩ् गुणङ्गळिऩ् मेलेयेऱिट्टु 
+</details>
 
 
 
-(4) It has also been stated by some (ācāryas) that the word eka is employed to indicate how the Saviour, who has accepted the responsibility, stands alone, requiring nothing else after the performance of prapatti, so that there need be no adoption of any of the means (like upāsana) prescribed for the attainment of the desired fruit. This may be explained as follows :--- If a person has performed prapatti as an aṅga and then adopts also upāsanas  and the like as angī, the Saviour becomes the upāya for the fruit desired. In the case of the man who adopts prapatti as a direct and independent means, being destitute of the other pros and impatient of delay, the game Iśvara takes, upon his own qualities, the burden that lies between prapatti and Himself. As stated in the following passages :- " Those who are incapable of bhaktı yoga and seek Thee as upāya they, too, pass beyond saṁsāra and reach Thy abode, Vaikuṇṭha”, and "Thou hast Thyself given Thy feet as the fruit of my attainment and as the upāya for attaining it" - as stated here, the Lord himself, who is endowed with the qualities essential for it, stands as the Dispenser of the fruit desired, without requiring any ancillary rite or dharma. Therefore what is stated in the carama.śloka comes to this :- " Bear this in mind and seek Me alone for your salvation". (5) It is said by some that the word eka is used here for the purpose of making it clear that, when prapatti is performed to Him who is perfect in every way, nothing else is required except such as the will to do what is pleasing to the Lord. Therefore the Lord teaches that one should not introduce, into this, ancillary rites such as are required for the vidyās, under the impression that they, too, form upāyas for propitiating Him. The Lord's purport (in the śloka) is as follows --" Prapatti does not require any aids such as are performed either because they are my commands or because their performance is approved of by me. When I become gracious owing to the performance of prapatti, I am bent on granting the desired fruit and stand as the one and only surety for this upāya which is capable of being performed in an instant. In regard to the fruit of this prapatti, nothing else need be performed. I do not require any such aid in regard to my determination to save Thee". This amounts to saying that, with the exception of such things as the will to do what is pleasing (to the Lord), no other auxiliary causes should be added on in the name of ancillaries to prapatti.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘शरणं त्वां **प्रपन्ना** ये  
+**ध्यान-योग-विवर्जिताः** ।  
+तेऽपि मृत्युम् **अतिक्रम्य**  
+**यान्ति** तद् वैष्णवं पदम्॥’’  
+(ब्राह्म-पुराणम्) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘शरणं त्वां **प्रपन्ना** ये  
+**ध्यान-योग-विवर्जिताः** ।  
+तेऽपि मृत्युम् **अतिक्रम्य**  
+**यान्ति** तद् वैष्णवं पदम्॥’’  
+(ब्राह्म-पुराणम्) 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+As **stated** in the following passages :- 
+
+> " Those who **are incapable** of bhakti yoga  
+and **seek** Thee as upāya  
+they, too, **pass** beyond saṁsāra  
+and **reach** Thy abode, Vaikuṇṭha”, 
+
+</details>
+
+<details><summary>Español</summary>
+
+Como **indicado** en los siguientes pasajes: - 
+
+> "Aquellos que **son incapaces** de bhakti yoga  
+y **buscarte** como upāya  
+ellos también **pasan** más allá del saṁsāra  
+y **alcanza** Tu morada, Vaikuṇṭha”,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘शरणं त्वां प्रपन्ना ये ध्यानयोगविवर्जिताः । तेऽपि मृत्युमतिक्रम्य यान्ति तद्वैष्णवं पदम्’’(ब्राह्म-पुराणम्) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’आऱ्+++(=गतिर् →प्राप्यं)+++ ऎऩक्कु +++(सन्)+++  
+निऩ्-पादमे शरण् आगत् +++(→उपायत्वेन)+++ तन्द् ऒऴिन्दाय्’’  
+(तिरुवाय्मॊऴि ५-७-१०)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "गतिर् +++(→प्राप्यम्)+++ मम +++(सन्)+++  
+त्वच् चरणाव् एव शरणं +++(उपायत्वेन)+++ दत्तवान् असि"  
+
+इति चोक्त-रीत्या  
+[[P382]]
+
+</details>
+
+
+<details><summary>English</summary>
+
+and 
+
+> "Thou **hast** Thyself **given** Thy feet as the fruit of my **attainment**  
+and as the upāya for **attaining** it" 
+
+\- as stated here, 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Tú te **has dado** Tus pies como fruto de mi **logro**  
+y como el upāya para **alcanzarlo**"
+
+\- como **se indica** aquí,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’आऱॆऩक्कु निऩ्बादमे सरणागत् तन्दॊऴिन्दाय्’’(तिरुवाय्मॊऴि ५-७-१०)  ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुण-विशिष्टऩ् आऩ ताऩे निरपेक्ष-फल-प्रदऩ् आय् निऱ्कुम् निलैयै अनुसन्धित्तुक् कॊण्डु  
+
+> +++(माम् एकं)+++ शरणम् आगव् अडैय् 
+
+ऎऩ्ऱु इङ्गु सॊल्लिऱ्ऱ् आयिऱ्ऱु।  
+</details>
+
+<details><summary>English</summary>
+
+the Lord himself, who **is endowed** with the qualities essential for it,  
+**stands** as the **Dispenser** of the fruit **desired**,  
+without **requiring** any ancillary rite or dharma.  
+Therefore what **is stated** in the carama śloka **comes** to this :- 
+
+> "**Bear** this in mind  
+and **seek** Me alone for your **salvation**". 
+</details>
+
+<details><summary>Español</summary>
+
+el Señor mismo, que **está dotado** de las cualidades esenciales para ello,  
+**se sitúa** como el **Dispensador** de la fruta **deseada**,  
+sin **requerir** ningún rito o dharma auxiliar.  
+
+Por lo tanto, lo que **se dice** en el carama śloka **viene** a esto:- 
+
+> "**Ten** esto en cuenta  
+y **búscame** sólo a Mí para tu **salvación**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुणविशिष्टऩाऩ ताऩे निरपेक्षफलप्रदऩाय् निऱ्कुम् निलैयै अनुसन्धित्तुक् कॊण्डु शरणमागवडैयॆऩ्ऱु इङ्गु सॊल्लिऱ्ऱायिऱ्ऱु।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिये परिपूर्णऩ् आऩ तऩ्ऩै +++(→भगवन्तम् उपायत्वेन)+++  
+प्रपत्ति पण्णुम् बोदु  
+
+आनुकूल्य-सङ्कल्पादिगळैय् ऒऴिय  
+वेऱ् ऒरु परिकरत्तैय्  
+
+> इदिले विद्यान्तरत्तिऱ् पोले सॊरुगिक्+++(=निवेशं)+++ कॊण्डु  
+अदुवुम् प्रसादनम् आऩ उपाय-कोटियिले निऱ्किऱद् 
+
+ऎऩ्ऱुम् निऩैवैक् ऴिक्कैक्क् आग  
+एक-शब्दऩ् 
+
+ऎऩ्ऱुम् सॊल्लुवर्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+(5) It **is said** by some  
+that the word eka **is used** here for the purpose of **making** it clear that,  
+
+when prapatti **is performed** to Him who **is** perfect in every way,  
+
+nothing else **is required**  
+except such as the will to **do** what **is pleasing** to the Lord.  
+
+Therefore the Lord **teaches** that  
+one **should not introduce**, into this,  
+ancillary rites such as **are required** for the vidyās,  
+under the **impression** that they, too, **form** upāyas for **propitiating** Him.  
+</details>
+
+<details><summary>Español</summary>
+
+(5) **Se dice** por algunos  
+que la palabra eka **se usa** aquí con el propósito de **dejar** claro que,  
+
+cuando prapatti **se realiza** a Aquel que **es** perfecto en todos los sentidos,  
+
+nada más **se requiere**  
+excepto la voluntad de **hacer** lo que **agrada** al Señor.
+
+Por eso el Señor **enseña** que  
+uno **no debe introducir**, en esto,  
+ritos auxiliares como **son requeridos** para los vidyās,  
+bajo la **impresión** de que ellos también **forman** upāyas para **propiciarlo**.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिये परिपूर्णऩाऩ तऩ्ऩै प्रपत्तिपण्णुम्बोदु आनुकूल्यसङ्कल्पादिगळै यॊऴिय वेऱॊरु परिकरत्तै यिदिले विद्यान्तरत्तिऱ्पोले सॊरुगिक्कॊण्डु अदुवुम् प्रसादनमाऩ उपायकोटियिले निऱ्किऱदॆऩ्ऱुम् निऩैवैक् कऴिक्कैक्काग एकशब्दऩॆऩ्ऱुम् सॊल्लुवर्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आज्ञानुज्ञैयाले अनुष्ठिक्कुम् कर्तव्यान्तरङ्गळुम् ऎल्लाम्  
+प्रपत्तिक्कुत् तुणैय् अऩ्ऱु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आज्ञानुज्ञैयाले अनुष्ठिक्कुम् कर्तव्यान्तरङ्गळुमॆल्लाम् प्रपत्तिक्कुत् तुणैयऩ्ऱु। 
+</details>
+
+
+
+
+The Lord's **purport** (in the śloka) is as **follows** --
+
+> " Prapatti **does not require** any aids  
+such as **are performed**  
+either because they **are** my commands  
+or because **their performance is approved** of by me.  
+When I **become** gracious  
+owing to the performance of prapatti,  
+**I am bent** on **granting** the **desired** fruit  
+and **stand** as the one and only surety for this upāya  
+which **is capable** of being **performed** in an instant.  
+In regard to the fruit of this prapatti,  
+nothing else **need be performed**.  
+**I do not require** any such aid in regard 
+to my **determination** to **save** Thee". 
+
+
+This amounts to saying that, with the exception of such things as the will to do what is pleasing (to the Lord), no other auxiliary causes should be added on in the name of ancillaries to prapatti.
 
 As stated (in the Śaraṇāgati Gadya " Thou that utterest the Dvaya in some manner or other" and in Varadarāja stava. “By the mere words which state prapatti, I long to see Thee - Thee that canst not be attained by bhakti ", even though a man has not the clear understanding necessary for the full and perfect performance of prapatti, this upāya will be effective even if it be adopted in a less satisfactory manner. Therefore there is certainly no need to seek ancillary rites or dharmas for this upāya.
 
