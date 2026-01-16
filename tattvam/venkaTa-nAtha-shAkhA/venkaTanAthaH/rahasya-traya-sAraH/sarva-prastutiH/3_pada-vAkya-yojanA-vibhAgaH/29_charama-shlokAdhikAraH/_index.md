@@ -5819,7 +5819,7 @@ como **se indican** en los capítulos sobre Prapatti.
 इप्पडि आनुकूल्यसङ्कल्पादिगळ् तविर प्रपत्तिक्कु परिकरान्तरम् वेण्डामॆऩ्बदै पूर्वाचारत्तैक् काट्टि स्थिरीकरिक्किऱार् इङ्गु प्रपत्त्यद्ध्यायादिगळिऱ् सॊऩ्ऩ इति । 
 </details>
 
-
+#### पूर्वानुष्ठानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकिञ्चन्यैक-धनर् आऩ  
@@ -5921,9 +5921,43 @@ como la voluntad de **hacer** lo que **es agradable**.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षण-काल-साध्यम् आय्  
+निर्-अपेक्षम् आऩ प्रपत्ति-मात्रत्ताले  
+कडुग अव्व्-ओ शरणागतर्क्कु  
+अव्व्-ओ अपेक्षित-सिद्धियुङ् गण्डोम्।
+</details>
+
+<details><summary>English</summary>
+
+We **find** that,  
+by the instantaneous **performance** of mere prapatti  
+without any other requisites,  
+the **desired** fruit **was obtained**  
+by each of these that sought **protection** in the same manner.  
+</details>
+
+<details><summary>Español</summary>
+
+**Encontramos** que,  
+por la **actuación** instantánea de mera prapatti  
+sin ningún otro requisito,  
+**se obtuvo** el fruto **deseado**  
+por cada uno de estos que **buscaron** **protección** de la misma manera.
+</details>
 
 
-We find that, by the instantaneous performance of mere prapatti without any other requisites, the desired fruit was obtained) by each of these that sought protection in the same manner, even in prapatti performed for the sake of mokṣa, there is nothing to prevent the attainment of the fruit at the desired time. This is the purport also of the words mā śuchah (Do not grieve).
+<details><summary>मूलम्</summary>
+
+क्षणकालसाध्यमाय् निरपेक्षमाऩ प्रपत्तिमात्रत्ताले कडुग अव्वो शरणागतर्क्कु अव्वो अपेक्षितसिद्धियुङ्गण्डोम्।
+</details>
+
+
+
+
+
+Even in prapatti performed for the sake of mokṣa, there is nothing to prevent the attainment of the fruit at the desired time. This is the purport also of the words mā śuchah (Do not grieve).
 
 
 If parityajya is interpreted to mean that there is nothing else required for prapatti, this interpretation of the word eka may be considered as confirming or emphasizing this. (It need not therefore be looked upon as redundant). Or the word eka may be considered to have another meaning, namely, the idea of the upāya and the upeya being the same. If the word eka is considered as stating that prapatti does not require anything else, then the word parityajya may be considered as having the other meanings stated before.
