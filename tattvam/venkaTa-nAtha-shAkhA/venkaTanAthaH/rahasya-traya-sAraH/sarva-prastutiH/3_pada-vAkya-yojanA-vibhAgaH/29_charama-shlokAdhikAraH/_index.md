@@ -5954,45 +5954,256 @@ por cada uno de estos que **buscaron** **protección** de la misma manera.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि मोक्षार्थ-प्रपत्तियिलुम्  
+इवऩ् कोलिऩ कालत्तिले फल-सिद्धिक्कुक् कुऱैय् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Even in prapatti **performed** for the sake of mokṣa, there **is nothing** to **prevent** the **attainment** of the fruit at the **desired** time. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en prapatti **realizado** por el bien de mokṣa,  
+**no hay nada** que **impida** el **alcance** del fruto  
+en el momento **deseado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि मोक्षार्थप्रपत्तियिलुम् इवऩ् कोलिऩ कालत्तिले फलसिद्धिक्कुक् कुऱैयिल्लै। 
+</details>
 
 
 
-Even in prapatti performed for the sake of mokṣa, there is nothing to prevent the attainment of the fruit at the desired time. This is the purport also of the words mā śuchah (Do not grieve).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु ‘‘मा शुचः’’ ऎऩ्गिऱ वाक्यत्तिऱ्कुम् तात्पर्यम्।
+</details>
+
+<details><summary>English</summary>
+
+This **is** the **purport** also of the words "mā śuchah" (**Do not grieve**).
+</details>
+
+<details><summary>Español</summary>
+
+Este **es** el **significado** también de las palabras "mā śuchah" (**No te aflijas**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु ‘‘मा शुचः’’ ऎऩ्गिऱ वाक्यत्तिऱ्कुम् तात्पर्यम्।
+</details>
+
+### नैरपेक्ष्ये पुनरुक्तिः?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘परित्यज्य’’ ऎऩ्गिऱव् इडत्तिले  
+परिकरान्तर-नैरपेक्ष्यञ् जॊऩ्ऩ पॊरुळिले  
+एक-शब्दत्तिल् इन्द योजऩै  
+दृढी-करणार्थम् आगक् कडवदु।
+</details>
+
+<details><summary>English</summary>
+
+If parityajya **is interpreted** to **mean** that  
+there **is nothing** else **required** for prapatti,  
+this **interpretation** of the word eka **may be considered** as **confirming** or **emphasizing** this.  
+(It **need not** therefore be **looked upon** as **redundant**). 
+</details>
+
+<details><summary>Español</summary>
+
+Si parityajya **se interpreta** como **significa** que  
+no **hay nada** más **requerido** para prapatti,  
+esta **interpretación** de la palabra eka **puede considerarse** como **confirmando** o **enfatizando** esto.  
+(Por lo tanto, **no es necesario** que se **considere** como **redundante**).
+</details>
 
 
-If parityajya is interpreted to mean that there is nothing else required for prapatti, this interpretation of the word eka may be considered as confirming or emphasizing this. (It need not therefore be looked upon as redundant). Or the word eka may be considered to have another meaning, namely, the idea of the upāya and the upeya being the same. If the word eka is considered as stating that prapatti does not require anything else, then the word parityajya may be considered as having the other meanings stated before.
+<details><summary>मूलम्</summary>
 
-If it be asked why the word eka should be used as an adjective of the Saviour, when (properly speaking), it should qualify prapatti (so that it might mean that prapatti alone is necessary without any ancillary dharmas), the answer is as follows: The words, mām ekam (me alone) are employed to show that, in the case of the man destitute of other upāyas, these ancillary dharmas other than prapatti are in no way connected with the Saviour as the means of propitiating Him. (6) It is also stated by some (commentators) that, as in the first half of the śloka we find the words sarva dharmān (all dharmas) and in the second half the word sarva pāpebhyo (from all sins), the word eka stands here as the counterpart or counterpoise to the world all. If this be admitted, then the gist of the carama śloka would be:
+‘‘परित्यज्य’’ ऎऩ्गिऱविडत्तिले परिकरान्तरनैरपेक्ष्यञ्जॊऩ्ऩ पॊरुळिले एकशब्दत्तिलिन्द योजऩैदृढीकरणार्थमागक्कडवदु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु अर्थान्तरं +++(→उपायोपेयैक्यम्)+++ विवक्षितम् आगवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Or the word eka **may be considered** to have another meaning,  
+namely, the idea of the upāya and the upeya **being** the same. 
+</details>
+
+<details><summary>Español</summary>
+
+O **se puede considerar** que la palabra "eka" **tiene** otro significado,  
+es decir, la idea de que upāya y upeya **son** lo mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु अर्थान्तरम् विवक्षितमागवुमाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एक-शब्दत्तुक्क् इदु पॊरुळ् आऩाल्  
+‘‘परित्यज्य’’ ऎऩ्गिऱव् इदुक्क्  
+अङ्गु सॊऩ्ऩ अर्थान्तरङ्गळैक् कॊळ्ळवुम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+If the word eka **is considered** as **stating** that  
+prapatti **does not require** anything else,  
+then the word parityajya **may be considered** as **having** the other meanings **stated** before.
+</details>
+
+<details><summary>Español</summary>
+
+Si la palabra eka **se considera** como **que indica** que  
+prapatti **no requiere** nada más,  
+entonces la palabra parityajya **puede considerarse** como **que tiene** los otros significados **indicados** antes.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकशब्दत्तुक्किदुबॊरुळाऩाल् ‘‘परित्यज्य’’ ऎऩ्गिऱ विदुक्कङ्गु सॊऩ्ऩ अर्थान्तरङ्गळैक् कॊळ्ळवुमाम्।
+</details>
+
+### सर्व-शब्द-प्रतिद्वन्द्विता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स-परिकर-प्रपत्तिक्कु  
+उपासनादिगळ् आऩ अङ्गिगळैयुम्,  
+इवऱ्ऱिऩ् परिकरङ्गळ् आऩ धर्मान्तरङ्गळैयुङ् कऴिक्किऱव् इप्-पॊरुळ्गळिल्+++(→तः)+++  
+>
+> इव्व् एक-शब्दं +++(प्रपत्ति-विशेषण-स्थाने)+++ शरण्यऩै विशेषित्त बडिय् ऎऩ्ऩ्? 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+If it **be asked** why the word eka **should be used** as an adjective of the Saviour,  
+when (properly speaking),  
+it **should qualify** prapatti  
+(so that it **might mean** that prapatti alone **is necessary**  
+without any ancillary dharmas),  
+the **answer is** as **follows**: 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se pregunta** por qué la palabra "eka" **debería usarse** como adjetivo del Salvador,  
+cuando (propiamente hablando),  
+**debería calificar** prapatti  
+(por lo que **podría significar** que solo prapatti **es necesario**  
+sin ningún dharma auxiliar),  
+la **respuesta es** la **siguiente**:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सपरिकरप्रपत्तिक्कु उपासनादिगळाऩ अङ्गिकळैयुम् इवऱ्ऱिऩ् परिकरङ्गळाऩ धर्मान्तरङ्गळैयुङ् गऴिक्किऱव् इप् पॊरुळ्गळिल् इव्वेकशब्दम् शरण्यऩै विशेषित्तबडि यॆऩ्ऩॆऩ्ऩिल्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अकिञ्चनऩ् पक्कलिले इवै प्रसादनम् आय्क् कॊण्डु  
+शरण्यऩोडु तुवक्क् अऱ्ऱमै काट्टुगैक्क् आग
+</details>
+
+<details><summary>English</summary>
+
+The words, "mām ekam" (me alone) **are employed** to **show** that,  
+in the case of the man **destitute** of other upāyas,  
+these ancillary dharmas other than prapatti **are** in no way **connected** with the Saviour  
+as the means of **propitiating** Him.  
+</details>
+
+<details><summary>Español</summary>
+
+Las palabras "mām ekam" (yo solo) **se emplean** para **mostrar** que,  
+en el caso del hombre **indigente** de otros upāyas,  
+Estos dharmas auxiliares distintos de prapatti **no están** de ninguna manera **conectados** con el Salvador  
+como medio para **propiciarlo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकिञ्चनऩ् पक्कलिले इवै प्रसादनमाय्क्कॊण्डु शरण्यऩोडु तुवक्कऱ्ऱमै काट्टुगैक्काग
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मामेकं’’ ऎऩ्गिऱदु  
+‘‘सर्वधर्मान्’’ ऎऩ्गिऱ कीऴिल् सर्व-शब्दत्तैयुम्,  
+‘‘सर्व-पापेभ्यः’’ ऎऩ्गिऱ मेलिल् सर्व-शब्दत्तैयुम् पार्त्त्  
+इव्व्-एक-शब्दम् सर्व-शब्दत्तुक्कुप् प्रतिसम्बन्धिय् आय्  
+निऱ्किऱद् +++(4)+++
+
+ऎऩ्ऱुञ् जॊल्लुवर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+(6) It is also **stated** by some (commentators) that,  
+as in the first half of the śloka **we find** the words "sarva-dharmān" (all dharmas)  
+and in the second half the word "sarva-pāpebhyo" (from all sins),  
+the word eka **stands** here as the counterpart or counterpoise to the word "all". 
+</details>
+
+<details><summary>Español</summary>
+
+(6) Algunos (**comentaristos**) también **afirman** que,  
+como en la primera mitad del śloka **encontramos** las palabras "sarva-dharmān" (todos los dharmas)  
+y en la segunda mitad la palabra "sarva-pāpebhyo" (de todos los pecados),  
+la palabra "eka" **está** aquí como la contraparte o contrapeso de la palabra "todos".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मामेकं’’ ऎऩ्गिऱदु ‘‘सर्वधर्मान्’’ ऎऩ्गिऱ कीऴिल् सर्वशब्दत्तैयुम्, ‘‘सर्वपापेभ्यः’’ ऎऩ्गिऱ मेलिल् सर्वशब्दत्तैयुम् पार्त्तिव्वेगशब्दम् सर्वशब्दत्तुक्कुप् प्रतिसम्बन्धियाय् निऱ्किऱदॆऩ्ऱुञ् जॊल्लुवर्गळ्।
+</details>
+
+
+
+
+If this be admitted, then the gist of the carama śloka would be:
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-सुदुष्करेण शोचेद् यो  
+अप्पोदु, 
+
+सुदुष्करेण **शोचेद्** यो  
 येन येनेष्ट-हेतुना+++(=साधनेन)+++ ।  
 स स तस्याहम् एवेति  
 चरम-श्लोक-संग्रहः ॥
 </details>
 
-<details><summary>English</summary>
-
-If a man is in despair  
-because of his inability to adopt such means or upāyas as will yield the respective fruits desired by him,  
-then, I myself (single as I am) will stand for him as the respective means or upāya  
-to enable him to secure that fruit.
-</details>
-
-<details><summary>Español</summary>
-
-If a man is in despair  
-because of his inability to adopt such means or upāyas as will yield the respective fruits desired by him,  
-then, I myself (single as I am) will stand for him as the respective means or upāya  
-to enable him to secure that fruit.
-</details>
+<details><summary>नीलमेघः (सं)</summary>
 
 
-<details><summary>मूलम् (सं॰प॰)</summary>
-
-सुदुष्करेण शोचेद्यो येनयेनेष्टहेतुना ।  
-स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥
+सुदुष्करेण **शोचेद्** यो  
+येन येनेष्ट-हेतुना+++(=साधनेन)+++ ।  
+स स तस्याहम् एवेति  
+चरम-श्लोक-संग्रहः ॥
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -6005,11 +6216,59 @@ to enable him to secure that fruit.
 दुष्यन्त इति घुष्यताम् ॥२३॥
 </details>
 
+<details><summary>English</summary>
+
+If a man **is** in despair  
+because of his inability to **adopt** such means or upāyas  
+as will **yield** the respective fruits **desired** by him,  
+then, I myself (single as I am) **will stand** for him as the respective means or upāya  
+to **enable** him to **secure** that fruit.
+</details>
+
+<details><summary>Español</summary>
+
+Si un hombre **está** desesperado  
+debido a su incapacidad para **adoptar** tales medios o upāyas  
+como **producirá** los respectivos frutos **deseados** por él,  
+
+entonces, yo mismo (soltero como soy) **representaré** a él como el respectivo medio o upāya  
+para **permitirle asegurar** esa fruta.
+</details>
+
+
+<details><summary>मूलम् (सं॰प॰)</summary>
+
+अप्पोदु,  
+सुदुष्करेण शोचेद्यो येनयेनेष्टहेतुना ।  
+स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"इत्ताले ऎऩ् सॊल्लिऱ्ऱ् आयिऱ्ऱ्" ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+This statement may be explained as follows: 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **afirmación se puede explicar** de la **siguiente** manera:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताले ऎऩ् सॊल्लिऱ्ऱायिऱ्ऱॆऩ्ऩिल्; 
+</details>
 
 
 
 
-This statement may be explained as follows: "Whatever be the object that a man, whoever be may be, wishes to attain and whatever be the means or upāyas by which he cannot attain them and likewise, the attainment of mokṣa desired by the aspirant, which cannot be attained by karma  yoga, jñāna yoga and bhakti  yoga, all these fruits, can, O great sage, be attained by prapatti. The place desired by the aspirant to mukti is that supreme abode from which the man who reaches it never returns". As declared (in the passage cited above), when a man falls into grief because he cannot obtain any one of the fruits desired by him either because of ignorance of the means prescribed in the śāstras for acquiring the respective fruit, or because even while possessing that knowledge, he is unable to adopt the prescribed means, or because, while possessing both (the knowledge and the ability), he is too impatient to wait until the time when the fruit will be attained thereby - (when a man falls into grief in this way) the Carama-śloka declares to him, “ You need not go about in search of these means. I will myself be the only and sole upāya for your attainment of all these fruits, provided I am propitiated by the performance of prapatti. The Carama Śloka says, as it were :- " This single and sovereign medicine will give you all the health which a larger number of other medicines may confer on you. It is enough, if, instead of falling into despair, you take this single medicine. This will cure all the ailments that can be cured by other medicines. After taking this medicine, you can enjoy all pleasures. Therefore you need not fall into despair thinking that you have lost your health and the pleasures." This is, as it were, the meaning of the Carama śloka.
+
+"Whatever be the object that a man, whoever be may be, wishes to attain and whatever be the means or upāyas by which he cannot attain them and likewise, the attainment of mokṣa desired by the aspirant, which cannot be attained by karma  yoga, jñāna yoga and bhakti  yoga, all these fruits, can, O great sage, be attained by prapatti. The place desired by the aspirant to mukti is that supreme abode from which the man who reaches it never returns". As declared (in the passage cited above), when a man falls into grief because he cannot obtain any one of the fruits desired by him either because of ignorance of the means prescribed in the śāstras for acquiring the respective fruit, or because even while possessing that knowledge, he is unable to adopt the prescribed means, or because, while possessing both (the knowledge and the ability), he is too impatient to wait until the time when the fruit will be attained thereby - (when a man falls into grief in this way) the Carama-śloka declares to him, “ You need not go about in search of these means. I will myself be the only and sole upāya for your attainment of all these fruits, provided I am propitiated by the performance of prapatti. The Carama Śloka says, as it were :- " This single and sovereign medicine will give you all the health which a larger number of other medicines may confer on you. It is enough, if, instead of falling into despair, you take this single medicine. This will cure all the ailments that can be cured by other medicines. After taking this medicine, you can enjoy all pleasures. Therefore you need not fall into despair thinking that you have lost your health and the pleasures." This is, as it were, the meaning of the Carama śloka.
 
 Though the word eka stands as the counter-part of the word sarva (all) and qualifies the Saviour as He is most important being the Sidhopāya, yet it is tantamount to stating that prapatti alone is enjoined as the single dharma in the place of all other dharmas, as in the phrase " by nyāsa alone" From this it follows that even those who desire the three ends (other than mokṣa (viz). (dharma, artha and kāma) may perform prupatti to Bhagavān for securing them. So it is not proper to have any contact with other deities except as they figure as attributes to the Lord in the performance of the nitya and naimittika rites, as stated in such ślokas as the following:-"I am propitiating Him from whom, O lndra, you have obtained your position of lordship. I will not adore you. Here is my anjali to you. You may strike me with your thunderbolt or abstain from doing so. I will never adore any one but Govinda."
 
