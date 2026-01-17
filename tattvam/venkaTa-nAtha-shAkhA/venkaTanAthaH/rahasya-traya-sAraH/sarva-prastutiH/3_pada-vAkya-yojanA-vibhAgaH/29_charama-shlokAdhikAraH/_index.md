@@ -6265,10 +6265,96 @@ Esta **afirmación se puede explicar** de la **siguiente** manera:
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यद् येन काम-कामेन  
+**न साध्यं** साधनान्तरैः ।  
+मुमुक्षुणा यत् साङ्ख्येन  
+योगेन न च भक्तितः ॥  
+प्राप्यते परमं धाम  
+यतो **नावर्तते** यतिः । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यद् येन काम-कामेन  
+**न साध्यं** साधनान्तरैः ।  
+मुमुक्षुणा यत् साङ्ख्येन  
+योगेन न च भक्तितः ॥  
+प्राप्यते परमं धाम  
+यतो **नावर्तते** यतिः । 
+</details>
+
+<details><summary>English</summary>
+
+> "Whatever **be** the object that a man, whoever be may be, **wishes** to **attain**  
+and whatever **be** the means or upāyas by which he **cannot attain** them  
+and likewise, the **attainment** of mokṣa **desired** by the **aspirant**,  
+which **cannot be attained** by karma  yoga, jñāna yoga and bhakti yoga,  
+(The place **desired** by the **aspirant** to mukti **is** that supreme abode  
+from which the man who **reaches it never returns**)
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Cualquiera que **sea** el objeto que un hombre, **sea** quien **sea, desea alcanzar**  
+y cualesquiera que **sean** los medios o upāyas por los cuales él **no pueda alcanzarlos**  
+y asimismo, el **alcance** de mokṣa **deseado** por el **aspirante**,  
+que **no puede alcanzarse** mediante karma yoga, jñāna yoga y bhakti yoga,  
+(El lugar **deseado** por el **aspirante** a mukti **es** esa morada suprema  
+del cual el hombre que **alcanza nunca regresa**)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यद्येनकामकामेन न साध्यं साधनान्तरैः ।  
+मुमुक्षुणा यत्साङ्ख्येन योगेन न च भक्तितः ॥  
+प्राप्यते परमं धाम यतो नावर्तते यतिः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तेन **तेनाप्यते** तत् तन्  
+न्यासेनैव महामुने ।  
+परमात्मा च तेनैव  
+**साध्यते** पुरुषोत्तमः ॥  
+(अहिर्बुध्न्य-संहिता ३७-२५)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तेन **तेनाप्यते** तत् तन्  
+न्यासेनैव महामुने ।  
+परमात्मा च तेनैव  
+**साध्यते** पुरुषोत्तमः ॥  
+(अहिर्बुध्न्य-संहिता ३७-२५)
+
+</details>
+
+<details><summary>English</summary>
+
+> all these fruits, can, O great sage, **be attained** by prapatti.  
+(The supreme being is obtained by this itself)". 
+</details>
+
+<details><summary>Español</summary>
+
+> todos estos frutos, oh gran sabio, **pueden ser alcanzados** mediante prapatti.  
+(El ser supremo **se obtiene** por este mismo)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेनतेनाप्यते तत्तन् न्यासेनैव महामुने । परमात्मा च तेनैव साध्यते पुरुषोत्तमः ॥'' (अहिर्बुध्न्य-संहिता ३७-२५)
+</details>
 
 
 
-"Whatever be the object that a man, whoever be may be, wishes to attain and whatever be the means or upāyas by which he cannot attain them and likewise, the attainment of mokṣa desired by the aspirant, which cannot be attained by karma  yoga, jñāna yoga and bhakti  yoga, all these fruits, can, O great sage, be attained by prapatti. The place desired by the aspirant to mukti is that supreme abode from which the man who reaches it never returns". As declared (in the passage cited above), when a man falls into grief because he cannot obtain any one of the fruits desired by him either because of ignorance of the means prescribed in the śāstras for acquiring the respective fruit, or because even while possessing that knowledge, he is unable to adopt the prescribed means, or because, while possessing both (the knowledge and the ability), he is too impatient to wait until the time when the fruit will be attained thereby - (when a man falls into grief in this way) the Carama-śloka declares to him, “ You need not go about in search of these means. I will myself be the only and sole upāya for your attainment of all these fruits, provided I am propitiated by the performance of prapatti. The Carama Śloka says, as it were :- " This single and sovereign medicine will give you all the health which a larger number of other medicines may confer on you. It is enough, if, instead of falling into despair, you take this single medicine. This will cure all the ailments that can be cured by other medicines. After taking this medicine, you can enjoy all pleasures. Therefore you need not fall into despair thinking that you have lost your health and the pleasures." This is, as it were, the meaning of the Carama śloka.
+
+As declared (in the passage cited above), when a man falls into grief because he cannot obtain any one of the fruits desired by him either because of ignorance of the means prescribed in the śāstras for acquiring the respective fruit, or because even while possessing that knowledge, he is unable to adopt the prescribed means, or because, while possessing both (the knowledge and the ability), he is too impatient to wait until the time when the fruit will be attained thereby - (when a man falls into grief in this way) the Carama-śloka declares to him, “ You need not go about in search of these means. I will myself be the only and sole upāya for your attainment of all these fruits, provided I am propitiated by the performance of prapatti. The Carama Śloka says, as it were :- " This single and sovereign medicine will give you all the health which a larger number of other medicines may confer on you. It is enough, if, instead of falling into despair, you take this single medicine. This will cure all the ailments that can be cured by other medicines. After taking this medicine, you can enjoy all pleasures. Therefore you need not fall into despair thinking that you have lost your health and the pleasures." This is, as it were, the meaning of the Carama śloka.
 
 Though the word eka stands as the counter-part of the word sarva (all) and qualifies the Saviour as He is most important being the Sidhopāya, yet it is tantamount to stating that prapatti alone is enjoined as the single dharma in the place of all other dharmas, as in the phrase " by nyāsa alone" From this it follows that even those who desire the three ends (other than mokṣa (viz). (dharma, artha and kāma) may perform prupatti to Bhagavān for securing them. So it is not proper to have any contact with other deities except as they figure as attributes to the Lord in the performance of the nitya and naimittika rites, as stated in such ślokas as the following:-"I am propitiating Him from whom, O lndra, you have obtained your position of lordship. I will not adore you. Here is my anjali to you. You may strike me with your thunderbolt or abstain from doing so. I will never adore any one but Govinda."
 
