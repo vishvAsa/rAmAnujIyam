@@ -1,9 +1,9 @@
 +++
 title = "उपादानकारणता"
 +++
-ब्रह्मण उपादानकारणत्वानङ्गीकारे दोषाः
+ब्रह्मण उपादानकारणत्वानङ्गीकारे दोषाः॥
 
-माध्वाः ब्रह्मणो जगतो ऽभिन्ननिमित्तोपादानकारणत्वं नाङ्गीकुर्वन्ति।  
+माध्वा ब्रह्मणो जगतो ऽभिन्ननिमित्तोपादानकारणत्वं नाङ्गीकुर्वन्ति।  
 तेषां मते ब्रह्म केवलं निमित्तकारणम्,  
 उपादानकारणं तु प्रकृतिमात्रम्।  
 एषा स्थितिः बहुभिर्दोषैः दूषिता।  
@@ -51,7 +51,7 @@ title = "उपादानकारणता"
 
 > “यदि ब्रह्मोपादानकारणं स्यात्,  
 > तर्हि विकारः प्रसज्येत;  
-> अतः तानि वाक्यानि अन्यथा व्याख्यातव्यानि”—
+> अतः तानि वाक्यान्य् अन्यथा व्याख्यातव्यानि”—
 
 इति, तत्र ब्रूमः—  
 ब्रह्मणो निर्विकारत्वं न बाध्यते।  
@@ -72,7 +72,7 @@ title = "उपादानकारणता"
 यथा ऊर्णनाभिः स्वजालस्य +उपादाननिमित्तकारणम् उभयम्,  
 तथा ब्रह्मापि।
 
-## निमित्तकारणत्वे दोषाः
+## निमित्तमात्रकारणत्वे दोषाः
 अथ चेत् पृच्छ्यते—
 
 > “ब्रह्मणः केवलं निमित्तकारणत्वे को दोषः?”—
@@ -112,3 +112,36 @@ title = "उपादानकारणता"
 ## निगमनम्
 अतो वेदान्त-सिद्धान्तः सुनिश्चित एव  
 ब्रह्मैव जगतः अभिन्ननिमित्तोपादानकारणम्।
+
+## Video
+brahma=upAdAna kAraNa? rAmAnuja, madhva, shankara, bhAskara, abhinavagupta
+
+
+<div class="videoEmbed"  caption="Video" src="https://youtu.be/ZZQ1XtbU4ek"></div>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - Intro.
+00:45 - upAdAna kAraNa / material cause
+01:15 - nimitta kAraNa / instrumental cause
+01:45 - causes of pot
+02:15 - cause of jagat
+02:45 - upAdAna is brahman + avidyA? shAnkara illusion
+03:15 - upAdAna is brahman? - svAbhAvika bhedAbheda - abhinava-gupta, yAdava-prakAsha
+04:45 - upAdAna is brahman + upAdhis? - bhAskara aupAdika-dvaita
+05:35 - upAdAna is prakRti, not brahman - madhva, nayyAyikas
+06:00 - savisheShAdvaita/ vishiShTAdvaita - rAmAnuja. body of brahman is upAdAna.
+07:30 - dismissal of shAnkara illusion
+08:10 - dismissal of bhAskara aupAdika-dvaita
+11:00 - dismissal of svAbhAvika bhedAbheda - abhinava-gupta, yAdava-prakAsha
+14:40 - anIk tivAri's dismissal of madhva, nayyAyikas
+16:00 - pUrvapaxa
+17:00 - opposition of shabda - pAncharAtra Agama - ahirbudhnya-saMhitA
+18:44 - nirvikAratA
+21:00 - spider weaving web
+22:20 - states of the body
+23:45 - Opposition of "dissolution into the material cause" shruti
+24:20 - Opposition of "meditate on the material cause" shruti
+25:20 - Conclusion
+</details>
