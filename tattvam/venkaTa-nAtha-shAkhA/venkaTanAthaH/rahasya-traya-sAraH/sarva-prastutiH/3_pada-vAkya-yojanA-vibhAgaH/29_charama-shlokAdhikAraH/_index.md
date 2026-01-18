@@ -7139,7 +7139,7 @@ como **indicado** en ślokas como el anterior.
 नित्यनैमित्तिकङ्गळिल् विशेषणमाय्प् पुगुमळवॊऴिय मऱ्ऱुम् सर्वावस्थैयिलुम् देवतान्तरस्पर्शमऱ्ऱिरुक्कै उचितम्।
 </details>
 
-#### उपायान्तराङ्ग-प्रपत्तिः
+#### अङ्गाङ्गित्वे प्रपत्तेः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोक्षत्तुक्क् उपायान्तरार्थिगळ् आय्  
@@ -7295,26 +7295,205 @@ prapatti **will help** to **get rid** of the **hindrances** to the **attainment*
 ऒऩ्ऱैय् अरुळिच् चॆय्द बडिय् अऩ्ऱु। 
 </details>
 
+<details><summary>English</summary>
+
+It **does not mean** that, in those two places,  
+Śrī Rāmānuja **expresses** one of these two ideas  
+in **disregard** of the other. 
+</details>
+
+<details><summary>Español</summary>
+
+**No significa** que, en esos dos lugares,  
+Śrī Rāmānuja **expresa** una de estas dos ideas  
+**sin tener en cuenta** al otro.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इवै यिरण्डिडत्तिलुमॊऩ्ऱैयनादरित्तॊऩ्ऱै यरुळिच्चॆय्दबडियऩ्ऱु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरण्ड् इडमुम्  
+सर्वाभिमत-साधनम् आऩ इव्व्-उपायत्तिऩ् प्रभावत्तुक्कु उदाहरण-परम्।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Both passages **illustrate** the potency of this upāya (prapatti)  
+which **can secure** all **desired** ends. 
+</details>
+
+<details><summary>Español</summary>
+
+Ambos pasajes **ilustran** la potencia de este upāya (prapatti)  
+que **puede asegurar** todos los extremos **deseados**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इरण्डिडमुम् सर्वाभिमतसाधनमाऩ इव्वुपायत्तिऩ् प्रभावत्तुक्कु उदाहरणपरम्।
+</details>
+
+##### प्रणववत्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवम्  
+मन्त्रान्तरत्तिल् प्रवेशित्तु निऩ्ऱु  
+स्व-तन्त्रम् आयुम् निऱ्कुमाप् पोले  
+इप् प्रपत्ति  
+अधिकारि-विशेषत्तिले भक्त्य्-अङ्गमुम् आय्  
+अधिकार्य्-अन्तरत्तिले स्व-तन्त्रमुम् आय् इरुक्कै  
+वचन-बलत्ताले सिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+The praṇava (aum) **enters** into the body of another mantra, viz. namo Nārāyaṇāya as a part thereof  
+and yet **is** itself an independent mantra. 
+
+So also this prapatti **forms** an aṅga to bhakti in the case of others.  
+This **is** evident from the authority of the texts.  
+</details>
+
+<details><summary>Español</summary>
+
+El praṇava (aum) **entra** en el cuerpo de otro mantra, a saber namo Nārāyaṇāya  
+como parte del mismo  
+y, sin embargo, **es** en sí mismo un mantra independiente.
+
+Así también este prapatti **forma** un aṅga para el bhakti en el caso de otros.  
+Esto **es** evidente por la autoridad de los textos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणवम् मन्त्रान्तरत्तिल् प्रवेशित्तु निऩ्ऱु स्वतन्त्रमायुम् निऱ्कुमाप्पोले इप् प्रपत्ति अधिकारिविशेषत्तिले भक्त्यङ्गमुमाय् अधिकार्यन्तरत्तिले स्वतन्त्रमुमायिरुक्कै वचनबलत्ताले सिद्धम्।
+</details>
+
+##### विकल्प-वचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि नियताधिकारम् आग  
+भक्ति-प्रपत्तिगळ् विकल्पित्तु निऱ्किऱ निलै  
+
+> “भक्त्या वापि प्रपत्त्या वा महामते’’() 
+
+इत्य्-आदिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+That bhakti and prapatti **stand** as alternative upāyas  
+**determined** by the competence of the persons concerned  
+**is evident** from such passages as the **following**: 
+
+> "I **am capable** of **being attained**  
+O, Thou of great wisdom,  
+either by deep bhakti or by prapatti  
+on the part of those who **desire** to **render service** to me,  
+I **cannot be attained** by any other means ".
+</details>
+
+<details><summary>Español</summary>
+
+Que bhakti y prapatti **son** upāyas alternativos  
+**determinado** por la competencia de las personas interesadas  
+**es evidente** en pasajes como el **siguiente**: 
+
+> "Yo **soy capaz** de **ser alcanzado**  
+Oh, tú de gran sabiduría,  
+ya sea por bhakti profundo o por prapatti  
+por parte de aquellos que **desean prestarme servicio**,  
+Yo **no puedo ser alcanzado** por ningún otro medio".
+</details>
 
 
-It **does not mean** that, in those two places, Śrī Rāmānuja expresses one of these two ideas in disregard of the other. Both passages illustrate the potency of this upāya (prapatti) which cın secure all desired ends. The praṇavan (aum) enters into the body of another mantra, viz. namo Nārāyaṇāya as a part thereof and yet is itself an independent mantra. So also this prapatti forms an aṅga to bhakti  in the case of others. This is evident from the authority of the texts. That bhakti  and prapatti stand as alternative upāyas determined by the competence of the persons concerned is evident from such passages as the following: "I am capable of being attained O, Thou of great wisdom, either by deep bhakti  or by prapatti on the part of those who desire to render service to me, I cannot be attained by any other means ".
+<details><summary>मूलम्</summary>
 
-(There is a well-known śloka which says):- "A man attains mokṣa either by right knowledge, or by death in the waters of the Gaṅga or by namaskāra well-performed or by bhakti ". In such passages those that are direct means of attaining mukti are stated along with others that are not direct but only auxiliary. This is only a way of exaggerating the importance of these indirect means.
+इप्पडि नियताधिकारमाग भक्तिप्रपत्तिकळ् विकल्पित्तु निऱ्किऱ निलै “भक्त्या वापि प्रपत्त्या वा महामत’’() इत्यादिगळिले प्रसिद्धम्। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> “सम्यज्-**ज्ञानेन** वा मोक्षं  
+गङ्गायां **मरणेन** वा ।  
+**प्रणामाद्** वापि सुकृताद्  
+**भक्त्या** वा **लभते** नर’’() 
+</details>
+
+<details><summary>English</summary>
+
+(There **is** a well-**known** śloka which **says**):- 
+
+> "A man **attains** mokṣa  
+either by right **knowledge**,  
+or by **death** in the waters of the Gaṅga  
+or by namaskāra well-**performed**  
+or by bhakti ".  
+
+</details>
+
+<details><summary>Español</summary>
+
+(**Hay** un śloka muy **conocido** que **dice**):- 
+
+> "Un hombre **alcanza** mokṣa  
+ya sea por derecho **conocimiento**,  
+o por **muerte** en las aguas del Gaṅga  
+o por namaskāra bien **interpretado**  
+o por bhakti ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् “सम्यज्ज्ञानेन वा मोक्षं गङ्गायां मरणेन वा । प्रणामाद्वापि सुकृताद्भक्त्या वा लभते नर’’() </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिले  
+साक्षाद्-उपायत्तोडे कूड  
+परंपरोपायङ्गळैय् ऎडुत्त्-अदुवुम्  
+अवऱ्ऱिऩ्-उडैय प्राशस्त्यातिशयन् तोऱ्ऱुगैक्क् आगव् अत्तऩै।
+</details>
+
+<details><summary>English</summary>
+
+In such passages, those that **are** direct means of **attaining** mukti  
+**are stated** along with others that **are not** direct but only auxiliary.  
+This **is** only a way of **exaggerating** the importance of these indirect means.
+</details>
+
+<details><summary>Español</summary>
+
+En tales pasajes, aquellos que **son** medios directos para **alcanzar** mukti  
+**se indican** junto con otras que **no** son directas sino sólo auxiliares.  
+Esto **es** sólo una manera de **exagerar** la importancia de estos medios indirectos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले साक्षादुपायत्तोडे कूड परंपरोपायङ्गळै यॆडुत्तदुवुम् अवऱ्ऱिऩुडैय प्राशस्त्यातिशयन् दोऱ्ऱुगैक्काग वत्तऩै।
+</details>
 
 
 ### निगमनम्
-CONCLUSION IN REGARD TO THE MEANING OF
+<details><summary>English</summary>
 
+CONCLUSION IN REGARD TO THE MEANING OF THE WORD EKA  page575
+</details>
 
+<details><summary>Español</summary>
 
-THE WORD EKA  page575
+CONCLUSIÓN SOBRE EL SIGNIFICADO DE LA PALABRA EKA pág.575
+</details>
 
 
 
@@ -7375,24 +7554,34 @@ THE WORD EKA  page575
 Six meanings have (thus) been pointed out byācāryas for the word eka. They are (1) the identity of the object of attainment (Bhagavān) and the means or upāya for that attainment (2) the denial of one's own importance (i. e. of the jīva's works); (3) prapatti being only a mere pretext or gesture (vyāja). (4) the absence of any relation or connection between prapatti and other upāyas; (5) and likewise, the absence of any relation or connection between prapatti and the aṅgas or ancillary dharmas (karma  yoga, etc.) of other upāyas (like bhakti ) and (6) prapatti as a single means of securing all desired ends without any distinction whatsoever.
 
 
+### श्रीमत्त्वम्
+<details><summary>English</summary>
 
-THE SAVIOUR IS BHAGAVAN WITH ŚRĪ AS HIS
+THE SAVIOUR IS BHAGAVAN WITH ŚRĪ AS HIS ATTRIBUTE: page575
+</details>
 
+<details><summary>Español</summary>
 
+EL SALVADOR ES BHAGAVAN CON ŚRĪ COMO SU ATRIBUTO: página 575
+</details>
 
-ATTRIBUTE: page575
 
 
 
 There are some commentators who state that the meaning of the word eka (a single one) declares that the Saviour is only one (namely, Bhagavān) and that Śrī has nothing to do with salvation). But their contention does not stand to reason. Just as qualities and forms qualify the Lord as His attributes, so also Śrī is an attribute of His (inseparable from Him). She is the ruler over all beings and is dear to Bhagavān and is declared in the śrutis as sharing in His duties and as ever bent on protecting those that seek her help. Though it is stated (in the Chandogya Upaniṣad and other Vedic texts) that the material cause of the Universe is only one (sat), yet other things that are requisite as material causes are understood as existing as His attributes (viz. cit and acit in their subtle and unmanifested forms) on the authority of the pramāṇas. So also in this context, Śrī should be understood, although not distinctly stated. Even when a single form of upāsana or meditation is enjoined, the qualities that are connected with the object of meditation enter also into it. Similarly though a single deity is enjoined as the Saviour to be sought, Śrī, who is His attribute, should also be considered as being associated with Him (in the act of salvation). The Siddhopāya (namely, Bhagavān ) is (of course) single but His qualities remain with Him (though not explicitly stated). In the same way, in the opinion of those who see with the eye of the Śāstra, Lakṣmī (His spouse) is associated inseparably with Him as an attribute, Light and the object emitting light (are inseparable from each other) and when one is mentioned , the other is also presint by association. Likewise when either (Bhagavān or Śrī) is mentioned, the other is also present by virtue of their being always with each other. Sages have declared in the smṛtis that she helps (jīvas) to cross the sea of saṁsāra and both of them (Bhagavān and Śrī) have themselves spoken to the same effect in such (samhitas) treatises as sātvatam. In Dvaya it is considered appropriate that kaiṅkarya or service in the state of attainment (mokṣa) should extend to Śrī (as to Bhagavān) So Śrī is equally connected with Him in both the states, that of the endeavour for attaining mokṣa (the first half of Dvaya) and that after attainment (the second half of it). Therefore, on the authority of many Vedic texts and Śrutis which cannot be stated to have some other purport, the single one who is to be sought as the Saviour is the Lord with His attribute Śrī who is His consort.
 
 
+## शरणम्
+<details><summary>English</summary>
 
-THE MEANING OF THE WORD SARANAM IN THE
+THE MEANING OF THE WORD SARANAM IN THE CARAMA-ŚLOKA: page576
+</details>
 
+<details><summary>Español</summary>
 
+EL SIGNIFICADO DE LA PALABRA SARANAM EN CARAMA-ŚLOKA: página 576
+</details>
 
-CARAMA-ŚLOKA: page576
 
 
 
@@ -7401,9 +7590,18 @@ The meanings that have (already) been given to the word ś'araṇam occurring in
 [^115]: VI chapter, 18: Desirous of mukti I seek refuge of HIM who created Brahma before and taught him the Vedas.
 
 
+## व्रज
 
+<details><summary>English</summary>
 
 THE MEANING OF THE WORD VRAJA: page577
+</details>
+
+<details><summary>Español</summary>
+
+EL SIGNIFICADO DE LA PALABRA VRAJA: página577
+</details>
+
 
 
 
@@ -7529,12 +7727,17 @@ If this is admitted, the knowledge of the relationship between the jīva and Iś
 "I am the means as well as the end to be attained. The aspirant (to.mukti) should become subject to me and seek my protection. The upāya called śaraṇāgati is not the direct means for the attainment. Sadhanas or means like bhakti  yoga and karma  yoga are no aids to prapatti; other troublesome aṅgas are not required for prapatti. I will myself stand in the place of all such means (as are prescribed for attaining the desired fruits). I am the messenger and the master. Seek me as your refuge and be free from all anxiety". So says the Lord and surrounds me on all sides).
 
 
+## अहम्
+<details><summary>English</summary>
 
-THE MEANING OF THE WORD AHAM (1) IN
+THE MEANING OF THE WORD AHAM (1) IN THE SECOND HALF OF THE ŚLOKA                  page587
+</details>
 
+<details><summary>Español</summary>
 
-
-THE SECOND HALF OF THE ŚLOKA                  page587
+EL SIGNIFICADO DE LA PALABRA AHAM (1)  
+EN LA SEGUNDA MITAD DEL ŚLOKA página 587
+</details>
 
 
 
@@ -7547,20 +7750,34 @@ Thus in the first half of the carama śloka, Śrī Kṛṣṇa enjoins, for a pa
 Here from the first person singular, mokṣayiṣyāmi (I) will set Thee free). (from this) itself, the meaning 'l' is evident. So the use of the word aham (I) has the purpose of indicating. by virtue of its meaning, the power of accomplishing what is to others impossible, for this is essential for setting (one) free from all sins. Its purport is this:- "I that bound the offender with fetters and that am destitute of equals and superiors am now full of compassion as the result of a vyāja or pretext and am bent on granting him pardon. (When I am thus inclined) there is no one to prevent me. Nor is there any one else who is capable of making him attain freedom (from sins)". This idea is well-known from such passages as the following:--"Bhagavān Viṣṇu is the giver of mokṣa". "The jīvas have been bound with the bonds of karma by the Supreme Being for His līlā and they can be liberated from these bonds only by Him. No one else is capable of doing so." In this word aham (1), Bhagavān's natural compassion is the superior aiding force and the graciousness of the Lord which results from prapatti acts as a subordinate aiding force and His independence and omnipotence, which are irresistible, stand as the foremost and siree ageury to dispel all obstacles. If it be asked how, the answer is as follows.--. "His natural compassion makes Him so gracious as to overlook countless offences in consideration of some slight vyāja or pretext. This graciousness accompanied by compassion makes the Lord's independence and omnipotence operate for the removal of all hindrances that stand in the way of prapannas. 'Thus Iśvara, who has all the qualities essential for granting freedom from all sins, can act towards that end without requiring any aid. This is the purport of the aham or (I) and it amounts to saying " I myself (without the help of anybody else)".
 
 
+## त्वा
+<details><summary>English</summary>
 
-THE MEANING OF THE WORD TWĀ (THEE) :  page588
+THE MEANING OF THE WORD TVĀ (THEE) :  page588
+</details>
+
+<details><summary>Español</summary>
+
+EL SIGNIFICADO DE LA PALABRA TVĀ (TI): página 588
+</details>
+
+
 
 
 
 The word tvā (Thee) means: Thou that hast acquired the power of discrimination (viveka) necessary to understand the (nature of the) three tattvas (reals) viz., cit, acit and Iśvara, and hast realised such defects or demerits as triviality and transience which are inherent in such ends of life as wealth and lordship, Thou that art eager to attain the supreme end of life which consists in attaining me, Thou that hast given up all connexion with extremely difficult upāyas which have been taught for that purpose, Thou that hast surrendered the responsibility for protecting to me who is the object of attainment and who is capable of removing all obstacles, Thou that having done what ought to be done, hast nothing else to do towards the attainment of the desired fruit
 
 
+## सर्व-पापेभ्यः
+<details><summary>English</summary>
 
-THE MEANINGS OF SARVA PĀPEBHYO (FROM ALL
+THE MEANINGS OF SARVA PĀPEBHYO (FROM ALL SINS) : page589
+</details>
 
+<details><summary>Español</summary>
 
-
-SINS) : page589
+LOS SIGNIFICADOS DE SARVA PĀPEBHYO (DE TODOS LOS PECADOS): página 589
+</details>
 
 
 
@@ -7671,12 +7888,16 @@ TAMIL VERSE
 The Lord, whose will is irresistible and who creates, in the minds of those who do not care for him, all their desires and who also frustrates them -- the Lord has turned my mind today froni saṁsāra or bondage and has placed me beneath His two feet for protection. He has been pleased to forget His wrath caused by my actions in the past prompted by my mind before the performance of prapatti and has appeared already (as avatars and arcā) to grant me mukti. He smiles gently, wondering whether we shall accept His grace today or tomorrow.
 
 
+## मोक्षयिष्यामि
+<details><summary>English</summary>
 
-THE MEANING OF THE WORD MOKṢAYIṢYĀMI
+THE MEANING OF THE WORD MOKṢAYIṢYĀMI (I WILL SET THEE FREE)   page595
+</details>
 
+<details><summary>Español</summary>
 
-
-(I WILL SET THEE FREE)   page595
+EL SIGNIFICADO DE LA PALABRA MOKṢAYIṢYĀMI (TE HARÉ LIBRE) página 595
+</details>
 
 
 
@@ -7796,12 +8017,16 @@ Before starting on the archirādi route, when a man understands the essential na
 
 
 
+## मा शुचः
+<details><summary>English</summary>
 
-THE MEANING OF ‘MĀ ŚUCHAH’ (DO NOT GRIEVE - DO
+THE MEANING OF ‘MĀ ŚUCHAH’ (DO NOT GRIEVE - DO NOT DESPAIR)  page609
+</details>
 
+<details><summary>Español</summary>
 
-
-NOT DESPAIR)  page609
+EL SIGNIFICADO DE ‘MĀ ŚUCHAH’ (NO TE LLORES - NO DESESPERES) página 609
+</details>
 
 
 
@@ -7974,12 +8199,16 @@ with my glory as Siddhopāya who has accepted the responsibility of protecting y
 Among the words of this śloka (caramaśloka) are expressed explicitly by the words themselves or suggested implicitly by their meaning, the following ideas concerning this upāya :(1) the person who is competent for it, the preliminary condition of being destitute (of all other upāyas), the needlessness, for it, of any auxiliary rites which are too difficult to perform, the inappropriateness of trying to perform actions which are beyond one's power, the futility of obstinately attempting to do what is impossible (for one) this upāya being such as will not tolerate (the adoption of any other upāya); (2) the Saviour who alone can be of use to the aspirant for mukti, the Saviour's being perfect and full in such qualities as accessibility and good nature; the Saviour being the teacher of what is most salutary (hita); the end of attainment (viz, the Lord) being Himself the means of attainment; His being capable of acting in all matters without being hindered (by any one) and without the aid of any one else ; His expecting a mere pretext (or vyāja) for protecting (one): His not requiring the intervention of any other upāya: His being capable of being propitiated without any other auxiliary rites: His being the Saviour who can grant whatever fruit is desired; His intolerance of the acceptance of any other protector; His being ever in the company of Śrī (or Lakṣmī); His capacity for being placed in the position of other upāyas; His readiness to accept the responsibility or burden (of protecting one); (3) the Sādhyopāya which is of the nature of the surrender of responsibility; its ancillaries; its being within the competency of every one; its requiring to be perforined only once; its being easy of performance; its capacity to bear fruit without delay its being potent enough to annul prarabdhakarma ; (4) the man who performs prapatti being a doer or agent subject to the Supreme Self; his being subject to the authority of the śastras; (5) The Saviour's supreme compassion; His being ever gracious; His independence and freedom from subservience to any one else ; His being irresistible; His not requiring any other aid, His waiting for a pretext (to protect the jīva); (6) the prapanna being one who has done what he onght to do; the absence, on his part, of any need to do anything else (than prapatti) in regard to the upāya adopted by him or the fruit expected from it; his being extremely dear to Bhagavān; (7) the many obstacles ( to mukti) past, present and future; and the varied nature of the different groups of obstacles, their being capable of annulment by the mere will of Iśvara, the time of this annulment being dependent on the will of the prapanna: the nature of the annulment of these obstacles; (8) the manifestation of one's real and essential nature (svarūpa), which is different from the mere enjoyment of one's dis-embodied self : the full and perfect enjoyment of Bhagavān ; service of all kinds; freedom from coming back (to saṁsāra); (9) the manifold causes of grief or despair before (the performance of prapatti), the freedom from such grief or despair after (its performance); freedom from all uncertainty, at all times of reflection; freedom from grief, freedom from fear, a peculiar delight, biding the time when the body will perish and the delight in the performance of service free froin offence; these are the principal ideas (suggested) along with other things required for them.
 
 
+## अर्थ-सङ्ग्रहः
+<details><summary>English</summary>
 
-A SUMMARY OF THE MEANING OF THE
+A SUMMARY OF THE MEANING OF THE CARAMA ŚLOKA:--  page622
+</details>
 
+<details><summary>Español</summary>
 
-
-CARAMA ŚLOKA:--  page622
+A SUMMARY OF THE MEANING OF THE CARAMA ŚLOKA:--  page622
+</details>
 
 
 
