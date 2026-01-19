@@ -5449,19 +5449,166 @@ Lakṣmī (Su esposa) **está asociada inseparablemente** con Él como un atribu
 एवं पत्नीविशिष्टत्वेऽप्यभीष्टं शास्त्रचक्षुषाम् ॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+प्रभा-प्रभावतोर् यद्वद्  
+**एकोक्ताव् इतरान्वयः** ।  
+एवम् **अन्यतरोक्तौ** स्यात्  
+सह-**वृत्त्य्-अभिधानतः** ॥+++(5)+++  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रभा-प्रभावतोर् यद्वद्  
+**एकोक्ताव् इतरान्वयः** ।  
+एवम् **अन्यतरोक्तौ** स्यात्  
+सह-**वृत्त्य्-अभिधानतः** ॥+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+Light and the object emitting light (**are inseparable** from each other)  
+and when one **is mentioned** ,  
+the other is also **present** by **association**. +++(5)+++  
+Likewise when either (Bhagavān or Śrī) **is mentioned**, the other is also **present**  
+by virtue of their **being** always with each other. 
+
+</details>
+
+<details><summary>Español</summary>
+
+La luz y el objeto que **la emite** (**son inseparables** entre sí)  
+y cuando uno **se menciona**,  
+el otro también está **presente** por **asociación**. +++(5)+++  
+Del mismo modo, cuando cualquiera de (Bhagavān o Śrī) **es mencionado**, el otro también está **presente**  
+en virtud de su **estar** siempre uno con el otro.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 प्रभाप्रभावतोर्यद्वदेकोक्तावितरान्वयः ।  
 एवमन्यतरोक्तौ स्यात्सहवृत्त्यभिधानतः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**स्मरन्ति** चैनां मुनयस्  
+संसारार्णव-**तारिणीम्** ।  
+**ऊचतुस्** स्वयम् अप्य् एतत्  
+सात्वतादिषु ताव् उभौ ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**स्मरन्ति** चैनां मुनयस्  
+संसारार्णव-**तारिणीम्** ।  
+**ऊचतुस्** स्वयम् अप्य् एतत्  
+सात्वतादिषु ताव् उभौ ॥  
+</details>
+
+<details><summary>English</summary>
+
+Sages **have declared** in the smṛtis  
+that she **helps** (jīvas) to **cross** the sea of saṁsāra  
+and both of them (Bhagavān and Śrī) have themselves **spoken** to the same effect in such (samhitas) treatises as sātvatam. 
+</details>
+
+<details><summary>Español</summary>
+
+Los sabios **han declarado** en los smṛtis  
+que ella **ayuda** (jīvas) a **cruzar** el mar de saṁsāra  
+y ambos (Bhagavān y Śrī) **han hablado** en el mismo sentido en tratados (samhitas) como sātvatam.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 स्मरन्ति चैनां मुनयस्संसारार्णवतारिणीम् ।  
-ऊचतुस्स्वयमप्येतस्सात्वतादिषु तावुभौ ॥  
+ऊचतुस्स्वयमप्येतत्सात्वतादिषु तावुभौ ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायोपेय-दशयोर् +++(पूर्वोत्तरार्धयोः)+++  
+द्वये +++(मन्त्रे)+++ ऽपि श्रीस् **समन्विता** ।  
++++(तत्रैव द्वये)+++ **इष्टा** च शेषिणी द्वन्द्वे  
+शेष-**वृत्तिर्** यथोचिता ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उपायोपेय-दशयोर् +++(पूर्वोत्तरार्धयोः)+++  
+द्वये +++(मन्त्रे)+++ ऽपि श्रीस् **समन्विता** ।  
++++(तत्रैव द्वये)+++ **इष्टा** च शेषिणी द्वन्द्वे  
+शेष-**वृत्तिर्** यथोचिता ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+In Dvaya it **is considered appropriate** that kaiṅkarya or service in the state of attainment (mokṣa)  
+**should extend** to Śrī (as to Bhagavān).  
+So Śrī is equally **connected** with Him in both the states,  
+that of the **endeavour** for **attaining** mokṣa (the first half of Dvaya)  
+and that after **attainment** (the second half of it). 
+</details>
+
+<details><summary>Español</summary>
+
+En Dvaya **se considera apropiado** que kaiṅkarya o servicio en el estado de logro (mokṣa)  
+**debe extenderse** a Śrī (como a Bhagavān).  
+Entonces Śrī está igualmente **conectado** con Él en ambos estados,  
+el del **esfuerzo** por **alcanzar** mokṣa (la primera mitad de Dvaya)  
+y eso después de **logro** (la segunda mitad del mismo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 उपायोपेयदशयोर्द्वयेऽपि श्रीस्समन्विता ।  
-इष्टा च शेषिणी द्वंद्वे शेषवृत्तिर्यथोचिता ॥  
+इष्टा च शेषिणी द्वन्द्वे शेषवृत्तिर्यथोचिता ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो +++(स्पष्ट→)+++ऽनन्य-परानेक-  
+श्रुति-स्मृत्य्-**अनुसारतः** ।  
+पत्नी-**विशिष्ट** एवैकः  
+**प्रपत्तव्य इहोदितः** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो +++(स्पष्ट→)+++ऽनन्य-परानेक-  
+श्रुति-स्मृत्य्-**अनुसारतः** ।  
+पत्नी-**विशिष्ट** एवैकः  
+**प्रपत्तव्य इहोदितः** ॥
+</details>
+
+<details><summary>English</summary>
+
+Therefore, on the authority of many Vedic texts and Śrutis 
+which **cannot be stated** to have some other purport,  
+the single one who **is to be sought** as the **Saviour**  
+**is** the Lord with His attribute Śrī who **is** His consort.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, basándose en la autoridad de muchos textos védicos y Śrutis 
+que **no se puede afirmar** que **tenga** algún otro significado,  
+el único que **hay que buscar** como el **Salvador**  
+**es** el Señor con Su atributo Śrī quien **es** Su consorte.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अतोऽनन्यपरानेकश्रुतिस्मृत्यनुसारतः ।  
 पत्नीविशिष्ट एवैकः प्रपत्तव्य इहोदितः ॥
 </details>
-
-  
-Light and the object emitting light (are inseparable from each other) and when one is mentioned , the other is also presint by association. Likewise when either (Bhagavān or Śrī) is mentioned, the other is also present by virtue of their being always with each other. Sages have declared in the smṛtis that she helps (jīvas) to cross the sea of saṁsāra and both of them (Bhagavān and Śrī) have themselves spoken to the same effect in such (samhitas) treatises as sātvatam. In Dvaya it is considered appropriate that kaiṅkarya or service in the state of attainment (mokṣa) should extend to Śrī (as to Bhagavān) So Śrī is equally connected with Him in both the states, that of the endeavour for attaining mokṣa (the first half of Dvaya) and that after attainment (the second half of it). Therefore, on the authority of many Vedic texts and Śrutis which cannot be stated to have some other purport, the single one who is to be sought as the Saviour is the Lord with His attribute Śrī who is His consort.
 
