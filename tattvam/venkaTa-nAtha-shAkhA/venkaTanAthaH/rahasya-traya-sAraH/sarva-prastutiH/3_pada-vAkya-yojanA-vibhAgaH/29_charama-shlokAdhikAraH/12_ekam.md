@@ -5134,14 +5134,72 @@ CONCLUSION IN REGARD TO THE MEANING OF THE WORD EKA  page575
 CONCLUSIÓN SOBRE EL SIGNIFICADO DE LA PALABRA EKA pág.575
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राप्यस्यैव **प्रापकत्वं**,  
+स्व+++(→जीव)+++-प्राधान्य-**निवारणम्** ।  
+प्रपत्तेर् **व्याज**-मात्रत्वम्,  
+अन्योपायैर् अनन्वयः ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्राप्यस्यैव **प्रापकत्वं**,  
+स्व+++(→जीव)+++-प्राधान्य-**निवारणम्** ।  
+प्रपत्तेर् **व्याज**-मात्रत्वम्,  
+अन्योपायैर् अनन्वयः ॥  
+</details>
+
+<details><summary>English</summary>
+
+(1) the identity of the object of **attainment** (Bhagavān) and the means or upāya for that **attainment**  
+(2) the **denial** of one's own importance (i. e. of the jīva's works);  
+(3) prapatti being only a mere **pretext** or **gesture** (vyāja).  
+(4) the **absence** of any relation or connection between prapatti and other upāyas; 
+</details>
+
+<details><summary>Español</summary>
+
+(1) la identidad del objeto de **logro** (Bhagavān) y los medios o upāya para ese **logro**  
+(2) la **negación** de la propia importancia (es decir, de las obras de la jīva);  
+(3) **siendo** prapatti sólo un mero **pretexto** o **gesto** (vyāja).  
+(4) la **ausencia** de cualquier relación o conexión entre prapatti y otros upāyas;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् ।  
+प्रपत्तेर्व्याजमात्रत्वमन्योपायैरनन्वयः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-अङ्गैर् अप्य् असंबन्धस्,  
+सर्व-साध्येष्व् अ-भिन्नता ।  
+इत्थम् अर्थाष् षड् आचार्यैर्  
+एक-शब्दस्य **दर्शिताः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-अङ्गैर् अप्य् असंबन्धस्,  
+सर्व-साध्येष्व् अ-भिन्नता ।  
+इत्थम् अर्थाष् षड् आचार्यैर्  
+एक-शब्दस्य **दर्शिताः** ॥  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदङ्गैरप्यसंबन्धस्सर्वसाध्येष्वभिन्नता ।  
+इत्थमर्थाष्षडाचार्यैरेकशब्दस्य दर्शिताः ॥  
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् ।  
-प्रपत्तेर्व्याजमात्रत्वमन्योपायैरनन्वयः ॥  
-तदङ्गैरप्यसंबन्धस्सर्वसाध्येष्वभिन्नता ।  
-इत्थमर्थाष्षडाचार्यैरेकशब्दस्य दर्शिताः ॥  
 केचित्त्विहैकशब्दार्थं शरण्यैक्यं प्रचक्षते ।  
 विशिनष्टि तथापि श्रीर्गुणविग्रहवत् प्रभुम् ॥  
 ईश्वरी सर्वभूतानामियं भगवतः प्रिया ।  
@@ -5190,7 +5248,12 @@ CONCLUSIÓN SOBRE EL SIGNIFICADO DE LA PALABRA EKA pág.575
 
 
 
-Six meanings have (thus) been pointed out byācāryas for the word eka. They are (1) the identity of the object of attainment (Bhagavān) and the means or upāya for that attainment (2) the denial of one's own importance (i. e. of the jīva's works); (3) prapatti being only a mere pretext or gesture (vyāja). (4) the absence of any relation or connection between prapatti and other upāyas; (5) and likewise, the absence of any relation or connection between prapatti and the aṅgas or ancillary dharmas (karma  yoga, etc.) of other upāyas (like bhakti ) and (6) prapatti as a single means of securing all desired ends without any distinction whatsoever.
+These six meanings have (thus) been pointed out byācāryas for the word eka. 
+
+
+
+(5) and likewise, the **absence** of any **relation** or **connection** between prapatti and the aṅgas or ancillary dharmas (karma  yoga, etc.) of other upāyas (like bhakti )  
+and (6) prapatti as a single means of **securing** all **desired** ends without any **distinction** whatsoever.
 
 
 ## श्रीमत्त्वम्
