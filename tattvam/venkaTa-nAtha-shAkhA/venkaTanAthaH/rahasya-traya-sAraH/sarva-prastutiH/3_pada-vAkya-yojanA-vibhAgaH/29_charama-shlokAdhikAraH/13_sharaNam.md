@@ -184,12 +184,121 @@ Tú **eres** el **refugio** y el **Salvador** de aquellos que **han buscado** Tu
 ‘‘शरण्यं शरणं च त्वां’’(रामायणम् युद्ध-काण्डम् १२०-१८), 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘योगो+++(→सिद्धोपायः)+++ योग-विदां नेता’’  
+(श्रीविष्णुसहस्र-नाम-स्तोत्रम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘योगो+++(→सिद्धोपायः)+++ योग-विदां नेता’’  
+(श्रीविष्णुसहस्र-नाम-स्तोत्रम्), 
+</details>
+
+<details><summary>English</summary>
+
+> "He **is** the "Yoga (upāya)  
+and the one who **leads** those who **know** bhakti yoga to their goal"
+</details>
+
+<details><summary>Español</summary>
+
+> "Él **es** el "Yoga (upāya)  
+y el que **guia** a aquellos que **conocen** bhakti yoga hacia su meta"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘योगो योगविदां नेता’’(श्रीविष्णुसहस्र-नाम-स्तोत्रम्), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अमृतं साधनं साध्यम्’’  
+(विष्णुधर्मः ७२-४)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अमृतं साधनं साध्यम्’’  
+(विष्णुधर्मः ७२-४)  
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "Bhagavān whom the wise **call** the eternal means (upāya) and the goal of **attainment**" -- 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Bhagavān a quien los sabios **llaman** el medio eterno (upāya) y la meta de **logro**" --
+</details>
 
 
 
-Similarly in such passages as the following :- 
+<details><summary>मूलम्</summary>
 
-"He is the "Yoga (upāya) and the one who leads those who know bhakti  yoga to their goal". and "Bhagavān whom the wise call the eternal means (upāya) and the goal of attainment" -- (in such passages ) also, since there is no limitation of meaning, it has to be understood that the Saviour is for all. The only requisite for seeking Him as the Saviour or Refuge is that the person should be destitute of any other refuge or protector.
+‘‘अमृतं साधनं साध्यम्’’(विष्णुधर्मः ७२-४)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिलुम्  
+सङ्कोचम् इल्लामैयाले सर्व-विषयत्वम् विवक्षितम्। 
+</details>
+
+<details><summary>English</summary>
+
+(in such passages ) also, since there is **no limitation** of meaning,  
+it has to **be understood** that the **Saviour is** for all. 
+</details>
+
+<details><summary>Español</summary>
+
+(en tales pasajes) también, dado que **no hay limitación** de significado,  
+se debe **entender** que el **Salvador** es para todos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिलुम् सङ्कोचमिल्लामैयाले सर्वविषयत्वम् विवक्षितम्। 
+</details>
+
+## अनन्य-शरण्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् इवऩ् शरणम् आग वरणीयऩ् आम् बोदैक्कुत्+++(=पक्वतायै)+++  
+ताऩ् अनन्य-शरणऩ् आगैये वेण्डुवदु।
+</details>
+
+<details><summary>English</summary>
+
+The only **requisite** for **seeking** Him as the Saviour or Refuge  
+**is** that the person **should be destitute** of any other refuge or **protector**.
+</details>
+
+<details><summary>Español</summary>
+
+El único **requisito** para **buscarlo** como Salvador o Refugio  
+**es** que la persona **debe estar desposeída** de cualquier otro refugio o **protector**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियिवऩ् शरणमाग वरणीयऩाम्बोदैक्कुत् ताऩनन्यशरणऩागैये वेण्डुवदु।
+</details>
+
+
+
 
 
 
