@@ -1,8 +1,10 @@
 +++
-title = "काल-क्षेपः"
+title = "प्रचारः"
 +++
 
-## Presentations
+
+## काल-क्षेपः
+### Presentations
 Video: who is a (learned) shrIvaiShNava? pancha-saMskAra initiation, 4 book kAlakShepa, upanyAsa, fakes  
 
 Source: [TW](https://youtu.be/782Kgtp3yA4)
@@ -25,3 +27,6 @@ Source: [TW](https://youtu.be/782Kgtp3yA4)
 21:00 - kAlakShepa vs upanyAsa
 23:00 - Conclusion, proper shrIvaiShNavas.
 </details>
+
+## यात्राः
+Usually there is an organizer for the Matha. Same organizer also facilitates for any accompanying shishyas. Technically it is two separate trips that are independently organized to co-occur. Advertized in Nrisimha Priya magazine in case of ahobila maTha.
