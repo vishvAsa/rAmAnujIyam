@@ -5190,71 +5190,30 @@ CONCLUSIÓN SOBRE EL SIGNIFICADO DE LA PALABRA EKA pág.575
 एक-शब्दस्य **दर्शिताः** ॥  
 </details>
 
+<details><summary>English</summary>
+
+(5) and likewise, the **absence** of any **relation** or **connection** between prapatti and the aṅgas or ancillary dharmas (karma  yoga, etc.) of other upāyas (like bhakti )  
+and (6) prapatti as a single means of **securing** all **desired** ends without any **distinction** whatsoever.
+
+
+These six meanings have (thus) **been pointed out** by ācāryas for the word eka. 
+</details>
+
+<details><summary>Español</summary>
+
+(5) y asimismo, la **ausencia** de cualquier **relación** o **conexión** entre prapatti y los aṅgas o dharmas auxiliares (karma yoga, etc.) de otros upāyas (como bhakti)  
+y (6) prapatti como un medio único para **asegurar** todos los fines **deseados** sin **distinción** alguna.
+
+Estos seis significados (así) **han sido señalados** por los ācāryas para la palabra "eka".
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
 तदङ्गैरप्यसंबन्धस्सर्वसाध्येष्वभिन्नता ।  
 इत्थमर्थाष्षडाचार्यैरेकशब्दस्य दर्शिताः ॥  
 </details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-केचित्त्विहैकशब्दार्थं शरण्यैक्यं प्रचक्षते ।  
-विशिनष्टि तथापि श्रीर्गुणविग्रहवत् प्रभुम् ॥  
-ईश्वरी सर्वभूतानामियं भगवतः प्रिया ।  
-संश्रितत्राणदीक्षायां सहधर्मचरी स्मृता ॥  
-एकं जगदुपादानमित्युक्तेऽपि प्रमाणतः ।  
-यथापेक्षितवैशिष्ट्यं तथात्रापि भविष्यति ॥  
-एकोपास्तिविधानेऽपि गुणादीनां यथान्वयः ।  
-तथैकशरणव्रज्याविधानेऽप्यनुमन्यताम् ॥  
-यथा गुणादिवैशिष्टे सिद्धोपायैक्यमक्षतम् ।  
-एवं पत्नीविशिष्टत्वेऽप्यभीष्टं शास्त्रचक्षुषाम् ॥  
-प्रभाप्रभावतोर्यद्वदेकोक्तावितरान्वयः ।  
-एवमन्यतरोक्तौ स्यात्सहवृत्त्यभिधानतः ॥  
-स्मरन्ति चैनां मुनयस्संसारार्णवतारिणीम् ।  
-ऊचतुस्स्वयमप्येतस्सात्वतादिषु तावुभौ ॥  
-उपायोपेयदशयोर्द्वयेऽपि श्रीस्समन्विता ।  
-इष्टा च शेषिणी द्वंद्वे शेषवृत्तिर्यथोचिता ॥  
-अतोऽनन्यपरानेकश्रुतिस्मृत्यनुसारतः ।  
-पत्नीविशिष्ट एवैकः प्रपत्तव्य इहोदितः ॥
-</details>
-
-<details><summary>मूलम् (सं॰प॰)</summary>
-
-प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् ।  
-प्रपत्तेर्व्याजमात्रत्वमन्योपायैरनन्वयः ॥  
-तदङ्गैरप्यसंबन्धस्सर्वसाध्येष्वभिन्नता ।  
-इत्थमर्थाष्षडाचार्यैरेकशब्दस्य दर्शिताः ॥  
-केचित्त्विहैकशब्दार्थं शरण्यैक्यं प्रचक्षते ।  
-विशिनष्टि तथापि श्रीर्गुणविग्रहवत् प्रभुम् ॥  
-ईश्वरी सर्वभूतानामियं भगवतः प्रिया ।  
-संश्रितत्राणदीक्षायां सहधर्मचरी स्मृता ॥  
-एकं जगदुपादानमित्युक्तेऽपि प्रमाणतः ।  
-यथापेक्षितवैशिष्ट्यं तथात्रापि भविष्यति ॥  
-एकोपास्तिविधानेऽपि गुणादीनां यथान्वयः ।  
-तथैकशरणव्रज्याविधानेऽप्यनुमन्यताम् ॥  
-यथा गुणादिवैशिष्टे सिद्धोपायैक्यमक्षतम् ।  
-एवं पत्नीविशिष्टत्वेऽप्यभीष्टं शास्त्रचक्षुषाम् ॥  
-प्रभाप्रभावतोर्यद्वदेकोक्तावितरान्वयः ।  
-एवमन्यतरोक्तौ स्यात्सहवृत्त्यभिधानतः ॥  
-स्मरन्ति चैनां मुनयस्संसारार्णवतारिणीम् ।  
-ऊचतुस्स्वयमप्येतस्सात्वतादिषु तावुभौ ॥  
-उपायोपेयदशयोर्द्वयेऽपि श्रीस्समन्विता ।  
-इष्टा च शेषिणी द्वंद्वे शेषवृत्तिर्यथोचिता ॥  
-अतोऽनन्यपरानेकश्रुतिस्मृत्यनुसारतः ।  
-पत्नीविशिष्ट एवैकः प्रपत्तव्य इहोदितः ॥
-</details>
-
-
-
-These six meanings have (thus) been pointed out byācāryas for the word eka. 
-
-
-
-(5) and likewise, the **absence** of any **relation** or **connection** between prapatti and the aṅgas or ancillary dharmas (karma  yoga, etc.) of other upāyas (like bhakti )  
-and (6) prapatti as a single means of **securing** all **desired** ends without any **distinction** whatsoever.
-
 
 ## श्रीमत्त्वम्
 <details><summary>English</summary>
@@ -5267,8 +5226,242 @@ THE SAVIOUR IS BHAGAVAN WITH ŚRĪ AS HIS ATTRIBUTE: page575
 EL SALVADOR **ES** BHAGAVAN CON ŚRĪ COMO SU ATRIBUTO: página 575
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+केचित् त्व् इहैक-शब्दार्थं  
+शरण्यैक्यं **प्रचक्षते** ।  
+**विशिनष्टि** तथापि श्रीर्  
+गुण-विग्रहवत् प्रभुम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+केचित् त्व् इहैक-शब्दार्थं  
+शरण्यैक्यं **प्रचक्षते** ।  
+**विशिनष्टि** तथापि श्रीर्  
+गुण-विग्रहवत् प्रभुम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+There **are** some **commentators** who **state** that  
+the **meaning** of the word eka (a single one) **declares** that the Saviour **is** only one (namely, Bhagavān)  
+and that Śrī **has nothing to do** with **salvation**.  
+But their **contention does not stand** to reason.  
+Just as qualities and forms **qualify** the Lord as His attributes,  
+so also Śrī **is** an attribute of His  
+(**inseparable** from Him). 
+
+</details>
+
+<details><summary>Español</summary>
+
+Hay **algunos comentaristos** que **afirman** que  
+el **significado** de la palabra eka (uno solo) **declara** que el Salvador **es** sólo uno (es decir, Bhagavān)  
+y que Śrī **no tiene nada** que **ver** con **la salvación**.  
+
+Pero su **afirmación no es** razonable.  
+
+Así como las cualidades y formas **califican** al Señor como Sus atributos,  
+así también Śrī **es** un atributo de Su  
+(**inseparable** de Él).
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-There are some commentators who state that the meaning of the word eka (a single one) declares that the Saviour is only one (namely, Bhagavān) and that Śrī has nothing to do with salvation). But their contention does not stand to reason. Just as qualities and forms qualify the Lord as His attributes, so also Śrī is an attribute of His (inseparable from Him). She is the ruler over all beings and is dear to Bhagavān and is declared in the śrutis as sharing in His duties and as ever bent on protecting those that seek her help. Though it is stated (in the Chandogya Upaniṣad and other Vedic texts) that the material cause of the Universe is only one (sat), yet other things that are requisite as material causes are understood as existing as His attributes (viz. cit and acit in their subtle and unmanifested forms) on the authority of the pramāṇas. So also in this context, Śrī should be understood, although not distinctly stated. Even when a single form of upāsana or meditation is enjoined, the qualities that are connected with the object of meditation enter also into it. Similarly though a single deity is enjoined as the Saviour to be sought, Śrī, who is His attribute, should also be considered as being associated with Him (in the act of salvation). The Siddhopāya (namely, Bhagavān ) is (of course) single but His qualities remain with Him (though not explicitly stated). In the same way, in the opinion of those who see with the eye of the Śāstra, Lakṣmī (His spouse) is associated inseparably with Him as an attribute, Light and the object emitting light (are inseparable from each other) and when one is mentioned , the other is also presint by association. Likewise when either (Bhagavān or Śrī) is mentioned, the other is also present by virtue of their being always with each other. Sages have declared in the smṛtis that she helps (jīvas) to cross the sea of saṁsāra and both of them (Bhagavān and Śrī) have themselves spoken to the same effect in such (samhitas) treatises as sātvatam. In Dvaya it is considered appropriate that kaiṅkarya or service in the state of attainment (mokṣa) should extend to Śrī (as to Bhagavān) So Śrī is equally connected with Him in both the states, that of the endeavour for attaining mokṣa (the first half of Dvaya) and that after attainment (the second half of it). Therefore, on the authority of many Vedic texts and Śrutis which cannot be stated to have some other purport, the single one who is to be sought as the Saviour is the Lord with His attribute Śrī who is His consort.
+केचित्त्विहैकशब्दार्थं शरण्यैक्यं प्रचक्षते ।  
+विशिनष्टि तथापि श्रीर्गुणविग्रहवत् प्रभुम् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरी सर्व-भूतानाम्  
+इयं भगवतः **प्रिया** ।  
+**संश्रित-त्राण**-दीक्षायां  
+सह-धर्म-**चरी** **स्मृता** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वरी सर्व-भूतानाम्  
+इयं भगवतः **प्रिया** ।  
+**संश्रित-त्राण**-दीक्षायां  
+सह-धर्म-**चरी** **स्मृता** ॥  
+</details>
+
+<details><summary>English</summary>
+
+She **is** the **ruler** over all beings  
+and **is** dear to Bhagavān  
+and **is declared** in the śrutis as **sharing** in His **duties**  
+and as ever **bent** on **protecting** those that **seek** her **help**. 
+</details>
+
+<details><summary>Español</summary>
+
+Ella **es** la **gobernante** de todos los seres  
+y **es** querida por Bhagavān  
+y **es declarada** en los śrutis como **compartir** Sus **deberes**  
+y como siempre **empeñada** en **proteger** a aquellos que **buscan** su **ayuda**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरी सर्वभूतानामियं भगवतः प्रिया ।  
+संश्रितत्राणदीक्षायां सहधर्मचरी स्मृता ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकं जगद्-उपादानम्  
+इत्य् उक्तेऽपि, प्रमाणतः ।  
+यथा **ऽपेक्षित+++(चिद्-अचिद्-)+++-वैशिष्ट्यं**  
+तथा ऽत्रापि **भविष्यति** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एकं जगद्-उपादानम्  
+इत्य् उक्तेऽपि, प्रमाणतः ।  
+यथा **ऽपेक्षित+++(चिद्-अचिद्-)+++-वैशिष्ट्यं**  
+तथा ऽत्रापि **भविष्यति** ॥  
+</details>
+
+<details><summary>English</summary>
+
+Though it **is stated** (in the Chandogya Upaniṣad and other Vedic texts)  
+that the material cause of the Universe **is** only one (sat),  
+yet other things that **are requisite** as material causes  
+**are understood** as **existing** as His attributes  
+(viz. cit and acit in their subtle and unmanifested forms)  
+on the authority of the pramāṇas.  
+So also in this context, Śrī **should be understood**,  
+although **not distinctly stated**. 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque **se afirma** (en el Chandogya Upaniṣad y otros textos védicos)  
+que la causa material del Universo **es** sólo una (sat),  
+otras cosas más que **son necesarias** como causas materiales  
+**se entienden** como **existentes** como Sus atributos  
+(a saber, cit y acit en sus formas sutiles y **no manifestadas**)  
+sobre la autoridad de los pramāṇas.  
+Así también en este contexto, Śrī **debe entenderse**,  
+aunque **no se indica claramente**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकं जगदुपादानमित्युक्तेऽपि प्रमाणतः ।  
+यथापेक्षितवैशिष्ट्यं तथात्रापि भविष्यति ॥  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**एकोपास्ति-विधाने** ऽपि  
+गुणादीनां यथा ऽन्वयः ।  
+तथैक-**शरण-व्रज्या**-  
+**विधाने** ऽप्य् **अनुमन्यताम्** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**एकोपास्ति-विधाने** ऽपि  
+गुणादीनां यथा ऽन्वयः ।  
+तथैक-**शरण-व्रज्या**-  
+**विधाने** ऽप्य् **अनुमन्यताम्** ॥  
+</details>
+
+<details><summary>English</summary>
+
+Even when a single form of upāsana or meditation **is enjoined**,  
+the qualities that **are connected** with the object of **meditation enter** also into it.  
+Similarly though a single deity **is enjoined** as the Saviour to be **sought**,  
+Śrī, who **is** His attribute,  
+should also be **considered**  
+as **being associated** with Him (in the act of **salvation**). 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso cuando **se recomienda** una sola forma de upāsana o meditación,  
+las cualidades que **están conectadas** con el objeto de **meditación entran** también en él.  
+De manera similar, aunque se **ordena** una sola deidad como Salvador a **ser buscado**,  
+Śrī, quien **es** Su atributo,  
+También **debe ser considerada**  
+como **estar asociada** con Él (en el acto de **salvación**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकोपास्तिविधानेऽपि गुणादीनां यथान्वयः ।  
+तथैकशरणव्रज्याविधानेऽप्यनुमन्यताम् ॥  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा गुणादि-**वैशिष्ट्ये**  
+सिद्धोपायैक्यम् **अक्षतम्** ।  
+एवं पत्नी-**विशिष्टत्वे**  
+ऽप्य् **अभीष्टं** शास्त्र-चक्षुषाम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+यथा गुणादि-**वैशिष्ट्ये**  
+सिद्धोपायैक्यम् **अक्षतम्** ।  
+एवं पत्नी-**विशिष्टत्वे**  
+ऽप्य् **अभीष्टं** शास्त्र-चक्षुषाम् ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+The Siddhopāya (namely, Bhagavān ) **is** (of course) single  
+but His qualities **remain** with Him (though **not explicitly stated**).  
+In the same way, in the opinion of those who **see** with the eye of the Śāstra,  
+Lakṣmī (His spouse) **is associated inseparably** with Him as an attribute.
+</details>
+
+<details><summary>Español</summary>
+
+El Siddhopāya (es decir, Bhagavān) **es** (por supuesto) único  
+pero Sus cualidades **permanecen** con Él (aunque **no se declaran explícitamente**).  
+De la misma manera, en opinión de aquellos que **ven** con el ojo del Śāstra,  
+Lakṣmī (Su esposa) **está asociada inseparablemente** con Él como un atributo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा गुणादिवैशिष्ट्ये सिद्धोपायैक्यमक्षतम् ।  
+एवं पत्नीविशिष्टत्वेऽप्यभीष्टं शास्त्रचक्षुषाम् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+प्रभाप्रभावतोर्यद्वदेकोक्तावितरान्वयः ।  
+एवमन्यतरोक्तौ स्यात्सहवृत्त्यभिधानतः ॥  
+स्मरन्ति चैनां मुनयस्संसारार्णवतारिणीम् ।  
+ऊचतुस्स्वयमप्येतस्सात्वतादिषु तावुभौ ॥  
+उपायोपेयदशयोर्द्वयेऽपि श्रीस्समन्विता ।  
+इष्टा च शेषिणी द्वंद्वे शेषवृत्तिर्यथोचिता ॥  
+अतोऽनन्यपरानेकश्रुतिस्मृत्यनुसारतः ।  
+पत्नीविशिष्ट एवैकः प्रपत्तव्य इहोदितः ॥
+</details>
+
+  
+Light and the object emitting light (are inseparable from each other) and when one is mentioned , the other is also presint by association. Likewise when either (Bhagavān or Śrī) is mentioned, the other is also present by virtue of their being always with each other. Sages have declared in the smṛtis that she helps (jīvas) to cross the sea of saṁsāra and both of them (Bhagavān and Śrī) have themselves spoken to the same effect in such (samhitas) treatises as sātvatam. In Dvaya it is considered appropriate that kaiṅkarya or service in the state of attainment (mokṣa) should extend to Śrī (as to Bhagavān) So Śrī is equally connected with Him in both the states, that of the endeavour for attaining mokṣa (the first half of Dvaya) and that after attainment (the second half of it). Therefore, on the authority of many Vedic texts and Śrutis which cannot be stated to have some other purport, the single one who is to be sought as the Saviour is the Lord with His attribute Śrī who is His consort.
 
