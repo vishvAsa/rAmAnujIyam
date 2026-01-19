@@ -1,4 +1,4 @@
 +++
-title = "+०१ kAlaxepa-paramparA"
+title = "+०१ काल-क्षेप-परम्परा"
 
 +++
