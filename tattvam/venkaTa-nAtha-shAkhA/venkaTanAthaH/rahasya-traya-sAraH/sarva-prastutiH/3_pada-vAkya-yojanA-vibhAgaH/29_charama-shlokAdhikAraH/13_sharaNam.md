@@ -18,6 +18,14 @@ EL SIGNIFICADO DE LA PALABRA SARANAM EN CARAMA-ŚLOKA: página 576
 द्वयाधिकारत्तिऱ् सॊऩ्ऩ पॊरुळैय् अनुसन्धित्तुक्कु गॊळ्वदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P387]]  
+इहत्यस्य शरण-शब्दस्यापि  
+द्वयाधिकारे उक्तो ऽर्थो ऽनुसन्धेयः । 
+</details>
+
+
 <details><summary>English</summary>
 
 The **meanings** that have (already) **been given** to the word śaraṇam **occurring** in Dvayam  
@@ -44,6 +52,12 @@ con respecto a la palabra śaraṇam **empleada** aquí en el carama-śloka.
 इन्द शरण-वरणम्  
 अर्जुनऩैक् कुऱित्त् उपदेशिक्कप् पट्टदेय् आगिलुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं शरण-वरणम् अर्जुनं प्रत्युपदिष्टं सद् अपि,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -76,6 +90,10 @@ aunque **le enseñó** a Arjuna,
 
 > ‘‘अनालोचित-विशेषाशेष-लोक-शरण्य’’  
 (शरणागति-गद्यम्) 
+
+इत्य्-उक्त-रीत्या  
+"सर्व-विषयम्" इत्य् एतत्  
+श्वेताश्वतर-श्रुति-प्रसिद्धम् । 
 </details>
 
 <details><summary>English</summary>
@@ -129,7 +147,6 @@ y **le enseñó** los Vedas.
 
 > ‘‘कृष्णं धर्मं सनातनं’’  
 (भारतम् आरण्य-पर्व ७१-१२३),
-
 </details>
 
 <details><summary>English</summary>
@@ -254,6 +271,14 @@ y
 सङ्कोचम् इल्लामैयाले सर्व-विषयत्वम् विवक्षितम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आदिष्व् अपि  
+सङ्कोचाभावात् सर्वविषयत्वं विवक्षितम् । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 (in such passages ) also, since there is **no limitation** of meaning,  
@@ -278,6 +303,13 @@ se debe **entender** que el **Salvador** es para todos.
 इप्-पडिय् इवऩ् शरणम् आग वरणीयऩ् आम् बोदैक्कुत्+++(=पक्वतायै)+++  
 ताऩ् अनन्य-शरणऩ् आगैये वेण्डुवदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अस्य शरणतया वरणीयत्वाय  
+स्वस्यानन्य-शरणत्वम् एवापेक्षितम् ॥
+</details>
+
 
 <details><summary>English</summary>
 
