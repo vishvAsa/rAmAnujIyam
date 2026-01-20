@@ -12,17 +12,383 @@ THE MEANING OF THE WORD VRAJA: page577
 EL SIGNIFICADO DE LA PALABRA VRAJA: página577
 </details>
 
+## प्रपद्येवत्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘व्रज’’ ऎऩ्गिऱ शब्दमुम्  
++++(द्वयमन्त्रे)+++ ‘‘प्रपद्ये’’ ऎऩ्गिऱव् इडत्तिल् अऱुदिय् इट्ट  
+स-परिकरात्म-निक्षेपत्तैये सॊल्लुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+The word "vraja" also, like the word prapadye (in Dvaya )  
+**enjoins self-surrender** with all its auxiliaries. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra "vraja" también, como la palabra prapadye (en Dvaya)  
+**ordena la autoentrega** con todos sus auxiliares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘व्रज’’ ऎऩ्गिऱ शब्दमुम् ‘‘प्रपद्ये’’ ऎऩ्गिऱविडत्तिलऱुदियिट्ट सपरिकरात्मनिक्षेपत्तैये सॊल्लुगिऱदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व् इडम् +++(→"प्रपद्ये")+++  
+अनुष्ठाताविऩ्-उडैय अनुसन्धानम् आऩ बडियाले  
+उत्तमऩ् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+In the word (prapadye in Dvaya), the first person **is used**,  
+because it **is** the **thought** or **meditation** in the mind of the man  
+who **performs** prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+En la palabra (prapadye en Dvaya), **se usa** la primera persona,  
+porque **es** el **pensamiento** o **meditación** en la mente del hombre  
+quien **realiza** prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्विडमनुष्ठाताविऩुडैय अनुसन्धानमाऩबडियाले उत्तमऩायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडम् 
+
+> ‘‘शिष्यस्तेऽहं शाधि मां’’(गीता २-७) 
+
+ऎऩ्ऱ् अभिमुखऩ् आग निऩ्ऱ् अवऩैक् कुऱित्तु विधिक्किऱदागैयाले  
+मध्यमऩ् आयिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+Here (in the caramaśloka) it **is** in the second person,  
+since the injunction **is addressed** to the man (Arjuna)  
+who **stands** opposite to the Lord (i.e.) Śrī Kṛṣṇa **saying**: 
+
+> "**I am** Thy disciple  
+and (it **is** only fitting that) Thou **shouldst order me** to **do** what **is** right". 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí (en el caramaśloka) **está** en segunda persona,  
+ya que el mandato **está dirigido** al hombre (Arjuna)  
+quien **está** opuesto al Señor (es decir) Śrī Kṛṣṇa **diciendo**: 
+
+> "**Yo soy** Tu discípulo  
+y (es** justo que) Tú **debes ordenarme** que **haga** lo que **es** correcto".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडम् ‘‘शिष्यस्तेऽहं शाधि मां’’(गीता २-७) ऎऩ्ऱभिमुखऩागनिऩ्ऱवऩैक् कुऱित्तु विधिक्किऱदागैयाले मध्यमऩायिऱ्ऱु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् आनुकूल्य-सङ्कल्पाद्य्-अङ्गान्तरङ्गळुम् इङ्गे सूचितम् आऩ बडियै  
+द्वयत्तिऱ् पोले उचित-पदङ्गळिले कण्डुगॊळ्वदु।
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+आनुकूल्य--प्रातिकूल्य-वर्जन–सङ्कल्पौ "माम्" इत्यत्र,  
+कार्पण्यानुसन्धानम् "परित्यज्य" इत्यत्र,  
+महाविश्वासः, स्वाभिप्रायनिवेदनं च "शरणम्" इत्यत्र सूच्यन्ते। 
+</details>
 
 
 
-The word vraja also, like the word prapadye (in Dvaya ) enjoins self-surrender with all its auxiliaries. In the word (prapadye in Dvaya), the first person is used, because it is the thought or meditation in the mind of the man who performs prapatti. Here (in the caramaśloka) it is in the second person, since the injunction is addressed to the man (Arjuna) who stands opposite to the Lord (i.e.) Śrī Kṛṣṇa saying: "I am Thy disciple and (it is only fitting that) Thou shouldst order me to do what is right". Auxiliaries like the will to do what is pleasing to the Lord are also indicated here and may be found suggested in [^116] suitable words as in Dvaya, There is a ( well-known) principle which states: “When an action is enjoined in the śāstra, a single performance of it satisfies the requirements of the Śāstra". The upāsana however, is an exception to this general rule because it requires frequent repetition. But prapatti is no such exception (and hence a single performance will quite do ). This statement is confirmed also by such words as the following: -"To the man who performs prapatti only once and says "I exist for Thee " - to that man I grant freedom from fear from all beings. This is my vow". To the man who performs bharanyāsa (the surrender of responsibility) to the generous and omnipotent (Lord), there is no reason for delay in the attainment except his own desire. Therefore in the case of this nyāsa vidyā, the peculiarity is that it arrests even the consequences of past karma which have already begun to operate (prarabdha karma ).
+<details><summary>English</summary>
 
-[^116]: The will to do what is pleasing and to avoid what is displeasing in ‘mām’; being destitute of all means in ‘parityajya’ and intense faith, and the prayer for protection in ‘śaraṇam vraja’.
+Auxiliaries like the will to **do** what **is pleasing** to the Lord  
+are also **indicated** here  
+and **may be found suggested** in suitable words as in Dvaya. 
+
+(The will to **do** what **is pleasing**  
+and to **avoid** what **is displeasing** in ‘mām’;  
+being **destitute** of all means in ‘parityajya’  
+and intense faith, and the prayer for protection in ‘śaraṇam vraja’.)
+</details>
+
+<details><summary>Español</summary>
+
+Auxiliares como la voluntad de **hacer** lo que **agrada** al Señor  
+también están **indicados** aquí  
+y **puede encontrarse sugerido** en palabras adecuadas como en Dvaya. 
+
+(La voluntad de **hacer** lo que **es agradable**  
+y **evitar** lo que **desagrada** en ‘mām’;  
+**estar desprovisto** de todos los medios en 'parityajya'  
+y fe intensa, y la **oración** por **protección** en ‘śaraṇam vraja’.)
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+इव्वानुकूल्यसङ्कल्पाद्यङ्गान्तरङ्गळुमिङ्गे सूचितमाऩबडियै द्वयत्तिऱ्पोले उचितपदङ्गळिले कण्डुगॊळ्वदु।
+</details>
+
+## आवृत्ति-राहित्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सकृत् कृतश् शास्त्रार्थः’’()  
+
+ऎऩ्गिऱ निर्णयत्तुक्कु  
++++(आवृत्ति-विधि-सहित→)+++ उपासनत्तिऱ् पोले  
+इङ्ग् आवृत्ति वेण्डुम् बडि अपवादम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+There **is** a ( well-known) principle which **states**: 
+
+> “When an **action is enjoined** in the śāstra,  
+a single **performance** of it **satisfies** the **requirements** of the Śāstra". 
+
+The upāsana however, **is** an **exception** to this general rule  
+because it **requires** frequent **repetition**.  
+But prapatti **is no such exception**  
+(and hence a single **performance** will quite do ).  
+</details>
+
+<details><summary>Español</summary>
+
+Hay **existe** un principio (bien conocido) que **establece**: 
+
+> “Cuando **se prescribe** una **acción** en el śāstra,  
+una sola **ejecución** del mismo **satisface** los **requisitos** del Śāstra". 
+
+El upāsana, sin embargo, **es** una **excepción** a esta regla general  
+porque **requiere repetición** frecuente.  
+Pero prapatti **no es tal excepción**  
+(y por lo tanto una sola **actuación será suficiente**).
+</details>
 
 
-In this connection some (commentators) ask "An action may be enjoined for performance only by a man who has freedom of will and action, How can an action be enjoined (in the word vraja) for performance by one who has been taught as being absolutely dependent (on the Lord) in the Vedānta and other śāstras treating of the self and in such as the mool mantra? This (question) is the result of an inadequate understanding of what is meant by complete dependence on another the Lord). As determined in Vedānta (śāstras), “He (i.e.)the jīva is the doer; otherwise the śāstras which enjoin dharmas would have no purpose or meaning", and " The doership (of the jīva) is dependent on the Supreme Self, for the śruti says so". Since the jīva is an agent or doer subject to the will of Bhagavān, there is nothing to prevent an injunction asking him to do something.
+<details><summary>मूलम्</summary>
+
+१०१‘‘सकृत्कृतश्शास्त्रार्थः’’() ऎऩ्गिऱ निर्णयत्तुक्कु  
+उपासनत्तिऱ्पोले इङ्गावृत्तिवेण्डुम्बडि अपवादमिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्थम् 
+
+> १०२‘‘सकृदेव प्रपन्नाय’’(रामायणम् युद्ध-काण्डम् १८-३३) 
+
+इत्य्-आदि-वचनत्तालुम् सुप्रतिष्ठितम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १०२‘‘सकृदेव प्रपन्नाय’’(रामायणम् युद्ध-काण्डम् १८-३३) 
+</details>
+
+<details><summary>English</summary>
+
+This **statement is confirmed** also by such words as the **following**: -
+
+> "To the man who **performs** prapatti only once  
+and **says** "**I exist** for Thee " -  
+to that man I **grant** freedom from fear  
+from all beings.  
+This **is** my vow". 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **declaración se confirma** también con palabras como las **siguientes**: -
+
+> "Para el hombre que **realiza** prapatti sólo una vez  
+y **dice** "**Yo existo** para Ti" -  
+A ese hombre **le concedo libertad** del miedo.  
+de todos los seres.  
+Este **es** mi voto".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् १०२‘‘सकृदेव प्रपन्नाये’’(रामायणम् युद्ध-काण्डम् १८-३३) त्यादि वचनत्तालुम् सुप्रतिष्ठितम्।
+</details>
+
+## विलम्ब-हेतुः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि महोदारऩ् आऩ सर्व-शक्ति-पक्कलिले भर-न्यासम् पण्णुम्-अवऩुक्कु  
+स्वाभिप्राय-विशेषम् ऒऴिय  
+फल-विलम्बत्तुक्कु हेतुव् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+To the man who **performs** bharanyāsa (the **surrender** of responsibility) to the generous and omnipotent (Lord),  
+there **is no** reason for **delay** in the **attainment**  
+except his own **desire**. 
+</details>
+
+<details><summary>Español</summary>
+
+Al hombre que **realiza** bharanyāsa (la **entrega** de responsabilidad) al generoso y omnipotente (Señor),  
+**no hay** ninguna razón para **retraso** en el **logro**  
+excepto su propio **deseo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि महोदारऩाऩ सर्वशक्तिपक्कलिले भरन्यासम् पण्णुमवऩुक्कु स्वाभिप्रायविशेषमॊऴिय फलविळम्बत्तुक्कु हेतुविल्लै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले इन्-न्यास-विद्यैक्कु प्रारब्ध-निवर्तकत्वम् विशेषम् आगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Therefore in the case of this nyāsa vidyā,  
+the peculiarity **is** that it **arrests** even the consequences of past karma  
+which have already **begun** to **operate** (prarabdha karma ).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, en el caso de este nyāsa vidyā,  
+la peculiaridad **es** que **detiene** incluso las consecuencias del karma pasado  
+que ya **comenzaron** a **operar** (prarabdha karma).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाले इन् न्यासविद्यैक्कु प्रारब्ध निवर्तकत्वम् विशेषमागिऱदु।
+</details>
+
+## परिमित-स्वातन्त्र्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिले सिलर् 
+
+> स्व-तन्त्रऩैक् कुऱित्त् अऩ्ऱोव्  
+ऒऩ्ऱै विधिप्पदु; 
+</details>
+
+<details><summary>English</summary>
+
+In this connection some (commentators) (**ask**) 
+
+> "An action **may be enjoined** for **performance**  
+only by a man who **has** freedom of will and action. 
+</details>
+
+<details><summary>Español</summary>
+
+En este sentido algunos (comentaristos) (**preguntan**) 
+
+> "Una acción **puede ser prohibida** para **rendimiento**  
+sólo por un hombre que **tiene** libertad de voluntad y acción.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिले सिलर् स्वतन्त्रऩैक् कुऱित्तऩ्ऱो वॊऩ्ऱै विधिप्पदु; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अत्यन्त-पर-तन्त्रऩ् आग  
+अध्यात्म-शास्त्रङ्गळिलुम्, मूल-मन्त्रादिगळिलुम् शिक्षितऩ् आऩ  
+अधिकारियैक् कुऱित्तु  
+‘‘व्रज’’ ऎऩ्ऱ् ऒरु कर्तव्यत्तै विधिक्कुम् बडिय् ऎऩ्ऩ् 
+
+ऎऩ्ऱु सॊल्लुवर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+> How can an **action** be **enjoined** (in the word vraja) for **performance** by one  
+who **has been taught** as being absolutely **dependent** (on the Lord) in the Vedānta and other śāstras **treating** of the self  
+and in such as the mUla-mantra?  
+</details>
+
+<details><summary>Español</summary>
+
+> ¿Cómo **se puede prohibir** una **acción** (en la palabra vraja) para **ejecución** por parte de uno  
+a quien **se le ha enseñado** que es absolutamente **dependiente** (del Señor) en el Vedānta y otros śāstras **que tratan** del ser  
+y en como el mUla-mantra?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्यन्तपरतन्त्रऩाग अध्यात्मशास्त्रङ्गळिलुम् मूलमन्त्रादिगळिलुम् शिक्षितऩाऩ अधिकारियैक् कुऱित्तु ‘‘व्रज’’ ऎऩ्ऱॊरु कर्तव्यत्तै विधिक्कुम्बडि यॆऩ् ऩॆऩ्ऱु सॊल्लुवर्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु पारतन्त्र्य-काष्ठैयैप् परामर्शियामऱ् सॊऩ्ऩ पडि।
+</details>
+
+<details><summary>English</summary>
+
+This (question) **is** the **result** of an inadequate **understanding** of what **is meant** by complete **dependence** on another (the Lord). 
+</details>
+
+<details><summary>Español</summary>
+
+Esta (**pregunta**) **es** el **resultado** de una **comprensión** inadecuada  
+de lo que **se entiende**  
+por **dependencia** completa de otro (el Señor).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु पारतन्त्र्यकाष्ठैयैप् परामर्शियामऱ्सॊऩ्ऩ पडि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+
+> ‘‘कर्ता शास्त्रार्थवत्त्वात्’’  
+(ब्रह्मसूत्रम् २-३-३३।), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; ‘‘कर्ता शास्त्रार्थवत्त्वात्’’(ब्रह्मसूत्रम् २-३-३३।  ), 
+</details>
+
+
+ 
+As **determined** in Vedānta (śāstras), “He (i.e.)the jīva is the doer; otherwise the śāstras which enjoin dharmas would have no purpose or meaning", and " The doership (of the jīva) is dependent on the Supreme Self, for the śruti says so". Since the jīva is an agent or doer subject to the will of Bhagavān, there is nothing to prevent an injunction asking him to do something.
 
 
 
