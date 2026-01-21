@@ -373,6 +373,7 @@ por **dependencia** completa de otro (el Señor).
 इदु पारतन्त्र्यकाष्ठैयैप् परामर्शियामऱ्सॊऩ्ऩ पडि।
 </details>
 
+### ब्रह्मसूत्रोक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎङ्ङऩेय् ऎऩ्ऩिल्;  
@@ -477,6 +478,7 @@ no **hay nada** que **impida** una **orden**
 ऎऩ्ऱु वेदान्तत्तिलऱुदियिट्टबडिये इवऩुक्कु भगवदधीनकर्तृत्वमुण्डागैयाले इवऩैप्पऱ्ऱ विधिक्कक् कुऱैयिल्लै।
 </details>
 
+### गुणवत् स्वातन्त्र्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचित्तुक्कळ् शब्दादिगळै +++(गुणान्)+++ ईश्वरऩ् उण्डाक्कच् चुमक्किऱाप् पोले  
@@ -502,6 +504,7 @@ La **dependencia** absoluta de la jīva respecto de Iśvara **consiste en soport
 अचित्तुक्कळ् शब्दादिगळै ईश्वरऩुण्डाक्कच् चुमक्किऱाप्पोले इव्वळवु स्वातन्त्र्यत्तै यॆडुत्तुच् चुमक्कैयुमिवऩुक्कु भगवत्पारतन्त्र्यकाष्ठैयिरुन्दबडि।
 </details>
 
+### साङ्ख्यादि-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इवऩुक्क् ऒरु वऴियालुं कर्तृत्वम् इल्लैय् 
@@ -531,10 +534,35 @@ que **atribuyen la responsabilidad** (respectivamente) a prakṛti y avidyā (Sa
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"कर्तृत्वं स्वाधीनम्" ऎऩ्ऩिल्;  
+सर्वात्म-म्नियन्ताव् ऒरुवऩ् ऎऩ्गिऱ अर्थङ् किडैयामैयाले  
+निरीश्वर-सिद्धान्तप् पडिय् आम्।
+</details>
+
+<details><summary>English</summary>
+
+If (on the other hand) it **be maintained** that the jīva's **doership is dependent** only on himself (and on nobody else),  
+then since it **would resemble** the **heresy** which **does not admit** the existence of one who **is** in supreme control of all selves,  
+it **would be** a form of atheism.
+</details>
+
+<details><summary>Español</summary>
+
+Si (por otro lado) **se mantiene** que la **capacidad de hacedor** de la jīva depende sólo de sí mismo (y de nadie más),  
+entonces, dado que **se parecería** a la **herejía** que **no admite** la existencia de alguien que **está** en control supremo de todos los seres,  
+**sería** una forma de ateísmo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्तृत्वम् स्वाधीनमॆऩ्ऩिल्; सर्वात्मनियन्ता वॊरुव ऩॆऩ्गिऱ अर्थङ्गिडैयामैयाले निरीश्वरसिद्धान्तप्पडियाम्।
+</details>
 
 
 
-If (on the other hand) it be maintained that the jīva's doership is dependent only on himself (and on nobody else), then since it would resemble the heresy which does not admit the existence of one who is in supreme control of all selves, it would be a form of atheism.  If it is held that the doership which comes from the will of the Lord is merely the state of being the knower, there would be no such thing as a desire for the ends of life (puruṣārtha) and the endeavour to attain them. It it be held that apart from the knowledge and the particular form of knowledge called desire, there is no such thing as effort (or mental activity), it would be impossible to adopt any means for securing objects that are tangible or intangible and for rendering service for its own sake . Therefore it has to be admitted that the self has these three (attributes):--knowledge, desire, and effort (knowing, feeling and willing). Among these (three), desire and effort are only different modifications or states of knowledge and this may be understood from the principle of logical economy [^117] adopted by Śrī Rāmānuja in his Vedārthasaṅgraha.
+If it is held that the doership which comes from the will of the Lord is merely the state of being the knower, there would be no such thing as a desire for the ends of life (puruṣārtha) and the endeavour to attain them. It it be held that apart from the knowledge and the particular form of knowledge called desire, there is no such thing as effort (or mental activity), it would be impossible to adopt any means for securing objects that are tangible or intangible and for rendering service for its own sake . Therefore it has to be admitted that the self has these three (attributes):--knowledge, desire, and effort (knowing, feeling and willing). Among these (three), desire and effort are only different modifications or states of knowledge and this may be understood from the principle of logical economy [^117] adopted by Śrī Rāmānuja in his Vedārthasaṅgraha.
 
 [^117]: Logical Economy:  Instead of saying that the fragrance of a flower is known to be or is experienced as agreeable and that this knowledge or experience gives rise to pleasure (or sukha ), we may, as well. say that the agreeable is itself pleasure and is therefore a form or state of knowledge.
 
