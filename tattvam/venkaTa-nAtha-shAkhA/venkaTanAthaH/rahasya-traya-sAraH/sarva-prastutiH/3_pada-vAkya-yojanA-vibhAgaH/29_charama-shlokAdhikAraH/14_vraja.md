@@ -560,20 +560,520 @@ entonces, dado que **se parecería** a la **herejía** que **no admite** la exis
 कर्तृत्वम् स्वाधीनमॆऩ्ऩिल्; सर्वात्मनियन्ता वॊरुव ऩॆऩ्गिऱ अर्थङ्गिडैयामैयाले निरीश्वरसिद्धान्तप्पडियाम्।
 </details>
 
+### ज्ञान-चिकीर्षा-प्रयत्नाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ईश्वराधीनम् आग वरुम् कर्तृत्वन् ताऩुम् ज्ञातृत्व-मात्रम् 
+
+ऎऩ्ऩिल्;  
+पुरुषार्थ-संपादन-रुचियुम्, तद्-उपाय-प्रवृत्तियुम् तविरप् प्रसङ्गिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If it **is held** that the **doership** which **comes** from the will of the Lord **is** merely the state of being the **knower**,  
+there **would be** no such thing as a desire for the ends of life (puruṣārtha)  
+and the **endeavour** to **attain** them. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que el **hacedor** que **proviene** de la voluntad del Señor **es** meramente el estado de ser el **conocedor**,  
+**no existiría** el deseo de alcanzar los fines de la vida (puruṣārtha)  
+y el **esfuerzo** de **alcanzarlos**.
+</details>
 
 
-If it is held that the doership which comes from the will of the Lord is merely the state of being the knower, there would be no such thing as a desire for the ends of life (puruṣārtha) and the endeavour to attain them. It it be held that apart from the knowledge and the particular form of knowledge called desire, there is no such thing as effort (or mental activity), it would be impossible to adopt any means for securing objects that are tangible or intangible and for rendering service for its own sake . Therefore it has to be admitted that the self has these three (attributes):--knowledge, desire, and effort (knowing, feeling and willing). Among these (three), desire and effort are only different modifications or states of knowledge and this may be understood from the principle of logical economy [^117] adopted by Śrī Rāmānuja in his Vedārthasaṅgraha.
+<details><summary>मूलम्</summary>
 
-[^117]: Logical Economy:  Instead of saying that the fragrance of a flower is known to be or is experienced as agreeable and that this knowledge or experience gives rise to pleasure (or sukha ), we may, as well. say that the agreeable is itself pleasure and is therefore a form or state of knowledge.
+ईश्वराधीनमाग वरुम् कर्तृत्वन्दाऩुम् ज्ञातृत्वमात्रमॆऩ्ऩिल्; पुरुषार्थसंपादनरुचियुम् तदुपाय प्रवृत्तियुम् तविरप् प्रसङ्गिक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ज्ञानमुम् अदिऩ् अवस्था-विशेषम् आऩ इच्छैयुमेय् उळ्ळदु। वेऱॊरु व्यापारम् इल्लैय् 
+
+ऎऩ्ऩिलुम्; 
+</details>
+
+<details><summary>English</summary>
+
+If it **be held** that  
+apart from the knowledge and the particular form of knowledge **called desire**,   
+there **is no** such thing as **effort** (or mental activity), 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que  
+aparte del **conocimiento** y la forma particular de conocimiento **llamado deseo**,   
+**no existe** el **esfuerzo** (o actividad mental),
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानमुम् अदिऩवस्थाविशेषमाऩ इच्छैयुमे युळ्ळदु। वेऱॊरु व्यापारमिल्लैयॆऩ्ऩिलुम्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दृष्टादृष्टार्थङ्गळ् आऩव् ऒर् उपायङ्गळैयुम्  
+स्वयं-प्रयोजनम् आऩ कैङ्कर्यङ्गळैयुम्  
+अनुष्ठिक्क विरगिल्लै।
+</details>
+
+<details><summary>English</summary>
+
+it **would be impossible** to **adopt** any means for **securing** objects  
+that **are** tangible or intangible  
+and for **rendering service** for its own sake . 
+</details>
+
+<details><summary>Español</summary>
+
+**sería imposible adoptar** cualquier medio para **asegurar** los objetos  
+que **son** tangibles o intangibles  
+y para **prestar servicios** por sí mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दृष्टादृष्टार्थङ्गळाऩ वॊरुपायङ्गळैयुम् स्वयंप्रयोजनमाऩ कैङ्कर्यङ्गळैयुमनुष्ठिक्क विरगिल्लै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् ज्ञान-चिकीर्षा-प्रयत्नङ्गळ् मूऩ्ऱुम् आत्मावुक्कु उण्डु।
+</details>
+
+<details><summary>English</summary>
+
+Therefore it has to **be admitted** that  
+the self **has** these three (attributes):--  
+knowledge, desire, and effort  
+(knowing, feeling and willing). 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto **hay** que **admitir** que  
+el yo **tiene** estos tres (atributos):--  
+conocimiento, ganas y esfuerzo  
+(saber, sentir y querer).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ज्ञानचिकीर्षाप्रयत्नङ्गळ् मूऩ्ऱुम् आत्मावुक्कु उण्डु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदिल् चिकीर्षा-प्रयत्नङ्गळ् ज्ञानत्तिऩ्-उडैय अवस्था-विशेषङ्गळ् 
+
+ऎऩ्ऩुम् इडत्तै  
+वेदार्थ-संग्रहत्तिल् अरुळिच् चॆय्द लाघव-युक्तियाले कण्डु-गॊळ्वदु।
+</details>
+
+<details><summary>English</summary>
+
+Among these (three), desire and effort **are** only different **modifications** or states of **knowledge**  
+and this **may be understood** from the principle of logical economy **adopted** by Śrī Rāmānuja in his Vedārthasaṅgraha.
+
+(Logical Economy:   
+Instead of **saying** that the fragrance of a flower **is known to be** or **is experienced** as agreeable  
+and that this knowledge or experience **gives rise to pleasure** (or sukha ),  
+we may, as well **say** that  
+the agreeable **is** itself pleasure  
+and **is** therefore a form or state of knowledge.)
+</details>
+
+<details><summary>Español</summary>
+
+Entre estos (tres), el deseo y el esfuerzo **son** sólo **modificaciones** o estados de **conocimiento** diferentes  
+y esto **puede entenderse** a partir del principio de economía lógica **adoptado** por Śrī Rāmānuja en su Vedārthasaṅgraha.
+
+(Economía Lógica:   
+En lugar de **decir** que la fragancia de una flor **se sabe** o **se experimenta** como agradable  
+y que este conocimiento o experiencia **da** lugar al **placer** (o sukha),  
+También **podemos decir** que  
+lo agradable **es** en sí mismo placer  
+y **es** por lo tanto una forma o estado de conocimiento.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् चिकीर्षाप्रयत्नङ्गळ् ज्ञानत्तिऩुडैय अवस्थाविशेषङ्गळॆऩ्ऩुमिडत्तै वेदार्थसंग्रहत् तिलरुळिच्चॆय्दलाघवयुक्तियाले कण्डुगॊळ्वदु।
+</details>
 
 
 
+### प्रयत्नाश्रयता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The doership or agentship which consists in being the seat (āśraya) of an action (or the place where an action takes place) is a common attribute of both sentient beings and non sentient things (for the latter also move about and undergo changes). But the seat (āśraya) of an effort or endeavour (prayatna) is (an attribute) peculiar to sentient beings. Effort or endeavour (prayatna) is a form of knowledge or will that is the cause of stimulating one to exercise the body (the senses and the like). When one is the seat of mere knowledge and of mere enjoyment (bhoga), there is only the doership which consists in being the seat of such action as is common to sentient beings and non-sentient things.
+क्रियाश्रयत्व-रूपम् आऩ कर्तृत्वम्  
+चेतनाचेतन-साधारणम्;  
+प्रयत्नाश्रयत्व-रूपम् आऩ कर्तृत्वम् चेतनैकान्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+The doership or agentship which **consists** in **being** the seat (āśraya) of an action  
+(or the place where an action **takes place**)  
+**is** a common attribute of both sentient beings and non sentient things  
+(for the latter also **move about** and **undergo changes**).  
+
+But the seat (āśraya) of an effort or **endeavour** (prayatna) **is** (an attribute) peculiar to sentient beings.  
+</details>
+
+<details><summary>Español</summary>
+
+El hacedor o agencia que **consiste** en **ser** la sede (āśraya) de una acción  
+(o el lugar donde **tiene** lugar una **acción**)  
+**es** un atributo común tanto de los seres sintientes como de las cosas no sintientes  
+(para este último también **moverse** y **sufrir cambios**).  
+
+Pero la sede (āśraya) de un esfuerzo o **empeño** (prayatna) **es** (un atributo) peculiar de los seres sintientes.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-When a person is stimulated by his will to act in a particular manner, he becomes the seat of endeavour or effort (prayatna) and is a doer of that particular form. It cannot justly be maintained that this form of doership is found only in rendering kaiṅkarya or service. Even in this case, the man must have adopted an upāya with a view to attaining the end called the love of the Lord. If all this is admitted, it is only the doership that takes the form of an endeavour or effort which would lead to bondage - it is only this form of doership that should be avoided. If it be asked what that form of doership is, the answer is as follows:- Iśvara has given the jīva such qualities as knowledge and ability and also such things as the senses and the body. He supports the jīva and stimulates him (to action). He enjoys also the fruit of (that) action. When He is thus rendering help (to the jīva), if the latter should consider himself as being different from this and if, even when he considers his position in the right spirit, he adopts an upāya for some (worldly) purpose - the endeavour would lead to bondage. Even bhakti and prapatti would certainly lead to bondnge in the case of the man who performs them for securing other ends (than mokṣa). Therefore just like the doership in the state of attainment (mukti) of the man who longs for rendering service to the Lord by virtue of his very nature and with no other purpose, the doership in the state when he adopts an upāya (for the sake of mukti and service) is not improper. The doership of varied forms of service (to the Lord) in the state of attainment (i. e. mukti) results from the self’s own longing (to render service) combined with the varied desires of the Lord (which have no connection with karma). The doership in the state of saṁsāra is of different kinds corresponding to the conditioning factor (upādhi) in the forms of sattva, rajas and tamas which have been evolved in accordance with the past karma  and by the will of Iśvara. That doership which results from rajas and tamas and so also from that sattva which is the cause of attachment to other interests (than mokṣa) - that doership leads to bondage. That doership (on the other hand) which results from the form of superior sattvam which creates a longing for he attainment of Bhagavān -- that doership leads to mokṣa. In the state of mukti, the doership will have no connection at all with any of these three qualities.
+क्रियाश्रयत्वरूपमाऩ कर्तृत्वम् चेतनाचेतनसाधारणम्; प्रयत्नाश्रयत्वरूपमाऩ कर्तृत्वम् चेतनैकान्तम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रयत्नम् आवदु  
+शरीरादि-प्रेरण-हेतुव् आऩ बुद्धि-विशेषम्। 
+</details>
+
+<details><summary>English</summary>
+
+Effort or endeavour (prayatna) **is** a form of knowledge or will  
+that **is** the cause of **stimulating** one to **exercise** the body (the senses and the like). 
+</details>
+
+<details><summary>Español</summary>
+
+El esfuerzo o empeño (prayatna) **es** una forma de **conocimiento** o voluntad  
+eso **es** la causa de **estimular** a uno a **ejercitar** el cuerpo (los sentidos y similares).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रयत्नमावदु शरीरादिप्रेरणहेतुवाऩ बुद्धिविशेषम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-मात्रत्तुक्क् आश्रयम् आऩ बोदुम्  
+भोग-मात्रत्तुक्क् आश्रयम् आऩ बोदुम्  
+क्रियाऽऽश्रयत्व-मात्रम् आऩ सामान्य-कर्तृत्वमेय् उळ्ळदु। 
+</details>
+
+<details><summary>English</summary>
+
+When one **is** the seat of mere **knowledge** and of mere **enjoyment** (bhoga),  
+there **is** only the **doership**  
+which **consists** in **being** the seat of such action  
+as **is** common to sentient beings and non-sentient things.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando uno **es** la sede del mero **conocimiento** y del mero **disfrute** (bhoga),  
+**existe** sólo el **hacedor**  
+que **consiste** en **ser** la sede de dicha acción  
+como **es** común a los seres sintientes y a las cosas no sintientes.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानमात्रत्तुक्काश्रयमाऩबोदुम् भोगमात्रत्तुक्काश्रयमाऩबोदुम् क्रियाश्रयत्वमात्रमाऩ सामान्य कर्तृत्वमे युळ्ळदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऒऩ्ऱैत् तऩ् बुद्धियाले उत्पादिक्कुम् बोदु  
+प्रयत्नाश्रयत्व-रूपम् आऩ कर्तृत्वम्। 
+</details>
+
+<details><summary>English</summary>
+
+When a person **is stimulated** by his will to **act** in a particular manner,  
+he **becomes** the seat of **endeavour** or effort (prayatna)  
+and **is** a **doer** of that particular form. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando una persona **es estimulada** por su voluntad a **actuar** de una manera particular,  
+él **se convierte** en la sede del **esfuerzo** (prayatna)  
+y **es** un **hacedor** de esa forma particular.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऒऩ्ऱैत् तऩ् बुद्धियाले उत्पादिक्कुम्बोदु प्रयत्नाश्रयत्वरूपमाऩ कर्तृत्वम्। 
+</details>
+
+#### न कैङ्कर्यमात्रे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडिप्-पट्ट कर्तृत्वम्  
+कैङ्कर्य-मात्रत्तिलेय् 
+
+ऎऩ्गैयुम् उचितम् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+It **cannot** justly **be maintained** that  
+this form of **doership is found** only in **rendering** kaiṅkarya or **service**. 
+</details>
+
+<details><summary>Español</summary>
+
+**No** se **puede sostener** con justicia que  
+esta forma de **hacedor se encuentra** solo en **rendir** kaiṅkarya o **servicio**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिप्पट्ट कर्तृत्वम् कैङ्कर्यमात्रत्तिले यॆऩ्गैयुमुचितमऩ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गुम्, भगवत्-प्रीतिय् ऎऩ्ऱ् ऒरु प्रयोजनत्तै उद्देशित्त्  
+उपायानुष्ठानम् पण्णिऩाऩ् आय् इऱेय् इरुप्पदु। 
+</details>
+
+<details><summary>English</summary>
+
+Even in this case, the man **must have adopted** an upāya  
+with a view to **attaining** the end called the love of the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en este caso, el hombre **debe haber adoptado** un upāya  
+con miras a **alcanzar** el fin **llamado** el amor del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्गुम् भगवत्प्रीतियॆऩ्ऱॊरु प्रयोजनत्तै उद्देशित्तुपायानुष्ठानम् पण्णिऩाऩायिऱे यिरुप्पदु। 
+</details>
+
+### कर्तृत्वे त्याज्यांशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ बिऩ्बु कर्तृत्वत्तिल् बन्ध-हेतुव् आऩ आकारमे त्याज्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+If all this **is admitted**,  
+it **is** only the **doership** that takes the form of an **endeavour** or effort  
+which **would lead** to **bondage** -  
+it **is** only this form of **doership**  
+that **should be avoided**. 
+</details>
+
+<details><summary>Español</summary>
+
+Si todo esto **se admite**,  
+**es** sólo la **haceción** que toma la forma de un **esfuerzo**  
+lo cual **conduciría** a **esclavitud** -  
+**es** sólo esta forma de **hacedor**  
+eso **debe evitarse**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु कर्तृत्वत्तिल् बन्धहेतुवाऩ आकारमे त्याज्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अद् ऎद्" ऎऩ्ऩिल्; 
+
+ईश्वरऩ् कॊडुत्त ज्ञान-शक्त्य्-आदिगळैयुम्  
+करण-कळेबरादिगळॆयुङ् गॊण्डु 
+</details>
+
+<details><summary>English</summary>
+
+If it **be asked** what that form of **doership is**,  
+the **answer is** as follows:-  
+
+Iśvara **has given** the jīva such qualities as knowledge and ability  
+and also such things as the senses and the body.
+</details>
+
+<details><summary>Español</summary>
+
+Si **se pregunta** cuál es esa forma de **hacedor**,  
+la **respuesta es** la siguiente:-  
+
+Iśvara **ha dado** a la jīva cualidades tales como conocimiento y habilidad.  
+y también cosas como los sentidos y el cuerpo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदॆदॆऩ्ऩिल्; ईश्वरऩ् कॊडुत्त ज्ञानशक्त्यादिगळैयुम् करणकळेबरादिगळॆयुङ् गॊण्डु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऩ् प्रेरकऩुम् आय्, धारकऩुम् आय्, फलियुम् आय्क् कॊण्डु सहकरिक्क 
+</details>
+
+<details><summary>English</summary>
+
+He **supports** the jīva and **stimulates** him (to action).  
+He **enjoys** also the fruit of (that) action.  
+
+When He is thus **rendering help** (to the jīva), 
+</details>
+
+<details><summary>Español</summary>
+
+Él **apoya** a la jīva y la **estimula** (a la acción).  
+Él **disfruta** también el fruto de (esa) acción.
+
+Cuando Él está así **prestando ayuda** (a la jīva),
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवऩ् प्रेरकऩुमाय् धारकऩुमाय् फलियुमाय्क्कॊण्डु सहकरिक्कप् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रवर्तिक्किऱ तऩ्ऩैय् इदुक्कु विपरीतम् आग अनुसन्धित्त् इरुक्कैयुम्  
+</details>
+
+<details><summary>English</summary>
+
+if the latter +++(jIva)+++ **should consider** himself as **being different** from this  
+</details>
+
+<details><summary>Español</summary>
+
+si este último +++(jIva)+++ **debería considerarse** a sí mismo como **diferente** de este
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रवर्तिक्किऱ तऩ्ऩैयिदुक्कु विपरीतमाग अनुसन्धित्तिरुक्कैयुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अनुसन्धानत्तिल् तिरुत्तम्+++(=सम्यक्ता)+++ उण्डेय् आगिलुम्  
+इदिले प्रयोजनान्तरत्तैय् इडुक्कि अनुष्ठिक्कैयुम् बन्धकम्।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+and if, even when **he considers** his position in the right spirit,  
+he **adopts** an upāya for some (worldly) purpose -  
+the endeavour **would lead** to **bondage**. 
+</details>
+
+<details><summary>Español</summary>
+
+y si, incluso cuando **considera** su posición con el espíritu correcto,  
+él **adopta** un upāya para algún propósito (mundano) -  
+el esfuerzo **conduciría** a la **esclavitud**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वनुसन्धानत्तिल् तिरुत्तमुण्डेयागिलुम् 
+इदिले प्रयोजनान्तरत्तै यिडुक्कि अनुष्ठिक्कैयुम् बन्धकम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भक्ति-प्रपत्तिगळ् ताऩुम्  
+प्रयोजनान्तर-परऩुक्कु बन्धकम् आय् इऱेय् इरुप्पदु। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Even bhakti and prapatti **would certainly lead** to **bondage**  
+in the case of the man who **performs** them  
+for **securing** other ends (than mokṣa). 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso bhakti y prapatti **ciertamente llevarían** a la **esclavitud**  
+en el caso del hombre que **los realiza**  
+para **asegurar** otros fines (además de mokṣa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भक्तिप्रपत्तिकळ् ताऩुम् प्रयोजनान्तरपरऩुक्कु बन्धकमायिऱे यिरुप्पदु। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् स्वाभाविक-कैङ्कर्यार्थिय् आय्  
+अनन्य-प्रयोजनऩ् आय् इरुक्कुम् अवऩुक्कुम्  
+
+फल-दशैयिल् कर्तृत्वम् पोले  
+उपाय-दशैयिल् कर्तृत्वम् उम् विरुद्धमऩ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+Therefore just like the **doership** in the state of attainment (mukti)  
+of the man who **longs** for **rendering service** to the Lord by virtue of his very nature and with no other purpose,  
+the **doership** in the state when he **adopts** an upāya (for the sake of mukti and service) **is not** improper. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, al igual que **hacedor** en el estado de logro (mukti)  
+del hombre que **anhela rendir servicio** al Señor en virtud de su propia naturaleza y sin otro propósito,  
+el **hacedor** en el estado en el que **adopta** un upāya (por el bien de mukti y el servicio) **no** es inapropiado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् स्वाभाविककैङ्कर्यार्थियाय् अनन्यप्रयोजनऩायिरुक्कुमवऩुक्कुम् फलदशैयिल् कर्तृत्वम् पोले उपायदशैयिल् कर्तृत्वमुम् विरुद्धमऩ्ऱु।
+</details>
+
+
+The doership of varied forms of service (to the Lord) in the state of attainment (i. e. mukti) results from the self’s own longing (to render service) combined with the varied desires of the Lord (which have no connection with karma). The doership in the state of saṁsāra is of different kinds corresponding to the conditioning factor (upādhi) in the forms of sattva, rajas and tamas which have been evolved in accordance with the past karma  and by the will of Iśvara. That doership which results from rajas and tamas and so also from that sattva which is the cause of attachment to other interests (than mokṣa) - that doership leads to bondage. That doership (on the other hand) which results from the form of superior sattvam which creates a longing for he attainment of Bhagavān -- that doership leads to mokṣa. In the state of mukti, the doership will have no connection at all with any of these three qualities.
 
 
 
