@@ -381,18 +381,160 @@ por **dependencia** completa de otro (el Señor).
 (ब्रह्मसूत्रम् २-३-३३।), 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘कर्ता शास्त्रार्थवत्त्वात्’’  
+(ब्रह्मसूत्रम् २-३-३३।), 
+
+</details>
+
+
+<details><summary>English</summary>
+
+> “He (i.e.) the jīva **is** the **doer**;  
+otherwise the śāstras which **enjoin** dharmas  
+**would have no** purpose or meaning", 
+</details>
+
+<details><summary>Español</summary>
+
+> “Él (es decir) la jīva **es** el **hacedor**;  
+de lo contrario, los śāstras que **ordenan** dharmas  
+**no tendría** propósito o significado",
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऎङ्ङऩेयॆऩ्ऩिल्; ‘‘कर्ता शास्त्रार्थवत्त्वात्’’(ब्रह्मसूत्रम् २-३-३३।  ), 
 </details>
 
 
- 
-As **determined** in Vedānta (śāstras), “He (i.e.)the jīva is the doer; otherwise the śāstras which enjoin dharmas would have no purpose or meaning", and " The doership (of the jīva) is dependent on the Supreme Self, for the śruti says so". Since the jīva is an agent or doer subject to the will of Bhagavān, there is nothing to prevent an injunction asking him to do something.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘+++(कर्तृत्वं)+++ परात् तु तच्-छ्रुतेः’’  
+(ब्रह्मसूत्रम् २-३-४०) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘+++(कर्तृत्वं)+++ परात् तु तच्-छ्रुतेः’’  
+(ब्रह्मसूत्रम् २-३-४०) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> " The **doership** (of the jīva) **is dependent** on the Supreme Self,  
+for the śruti **says** so". 
+
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> " La **hacedora** (de la jīva) **depende** del Ser Supremo,  
+pues el śruti **dice** así".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘परात्तु तच्छ्रुतेः’’(ब्रह्मसूत्रम् २-३-४०) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु वेदान्तत्तिल् अऱुदिय् इट्ट बडिये  
+इवऩुक्कु भगवद्-अधीन-कर्तृत्वम् उण्ड्-आगैयाले  
+इवऩैप् पऱ्ऱ विधिक्कक् कुऱैयिल्लै।
+</details>
+
+<details><summary>English</summary>
+
+Thus, as **determined** in Vedānta (śāstras),  
+Since the jīva **is** an agent or **doer**  
+**subject** to the will of Bhagavān,  
+there **is nothing** to **prevent** an **injunction**  
+**asking him** to **do** something.
+
+</details>
+
+<details><summary>Español</summary>
+
+Así, como **determinado** en el Vedānta (śāstras),  
+Dado que la jīva **es** un agente o **hacedor**  
+**sujeto** a la voluntad de Bhagavān,  
+no **hay nada** que **impida** una **orden**  
+**pidiéndole** que **haga** algo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु वेदान्तत्तिलऱुदियिट्टबडिये इवऩुक्कु भगवदधीनकर्तृत्वमुण्डागैयाले इवऩैप्पऱ्ऱ विधिक्कक् कुऱैयिल्लै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अचित्तुक्कळ् शब्दादिगळै +++(गुणान्)+++ ईश्वरऩ् उण्डाक्कच् चुमक्किऱाप् पोले  
+इव्व्-अळवु स्वातन्त्र्यत्तैय् ऎडुत्तुच् चुमक्कैयुम्  
+इवऩुक्कु +++(चेतनाय)+++ भगवत्-पारतन्त्र्य-काष्ठैय् इरुन्द बडि। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Just as non-sentient things (acit) like ether and fire **bear** the attributes respectively of sound and heat **created** by Iśvara,  
+the jīva's absolute **dependence** on Iśvara **consists in bearing** this burden of free will (and responsibility) (**granted** to him by Iśvara). 
+</details>
+
+<details><summary>Español</summary>
+
+Así como las cosas no sensibles (acit) como el éter y el fuego **tienen** los atributos respectivamente de sonido y calor **creados** por Iśvara,  
+La **dependencia** absoluta de la jīva respecto de Iśvara **consiste en soportar** esta carga de libre albedrío (y responsabilidad) (**concedida** a él por Iśvara).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अचित्तुक्कळ् शब्दादिगळै ईश्वरऩुण्डाक्कच् चुमक्किऱाप्पोले इव्वळवु स्वातन्त्र्यत्तै यॆडुत्तुच् चुमक्कैयुमिवऩुक्कु भगवत्पारतन्त्र्यकाष्ठैयिरुन्दबडि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवऩुक्क् ऒरु वऴियालुं कर्तृत्वम् इल्लैय् 
+
+ऎऩ्ऩिल्;  
+प्रकृत्य्--अ-विद्यादिगळुक्कु कर्तृत्वञ् जॊल्लुगिऱ +++(साङ्ख्य-शाङ्कर-)+++ सिद्धान्त-तुल्यम् आम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If it **be maintained** that he **has no responsibility** at all as a doer or agent,  
+it **would be** like the heresies (siddhānta)  
+which **attribute doership** (respectively) to prakṛti and avidyā (Sankhya and Advaita). 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se mantiene** que él **no tiene ninguna responsabilidad** en absoluto como **hacedor** o agente,  
+**sería** como las herejías (siddhānta)  
+que **atribuyen la responsabilidad** (respectivamente) a prakṛti y avidyā (Sankhya y Advaita).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कॊरुवऴि यालुम् कर्तृत्वमिल्लैयॆऩ्ऩिल्; प्रकृत्यविद्यादिगळुक्कु कर्तृत्वञ्जॊल्लुगिऱसिद्धान्ततुल्यमाम्।
+</details>
 
 
 
-Just as non-sentient things (acit) like ether and fire bear the attributes respectively of sound and heat created by Iśvara, the jīva's absolute dependence on Iśvara consists in bearing this burden of free will (and responsibility) (granted to him by Iśvara). If it be maintained that he has no responsibility at all as a doer or agent, it would be like the heresies (siddhānta) which attribute doership (respectively) to prakṛti and avidyā (Sankhya and Advaita). If (on the other hand) it be maintained that the jīva's doership is dependent only on himself (and on nobody else), then since it would resemble the heresy which does not admit the existence of one who is in supreme control of all selves, it would be a form of atheism.  If it is held that the doership which comes from the will of the Lord is merely the state of being the knower, there would be no such thing as a desire for the ends of life (puruṣārtha) and the endeavour to attain them. It it be held that apart from the knowledge and the particular form of knowledge called desire, there is no such thing as effort (or mental activity), it would be impossible to adopt any means for securing objects that are tangible or intangible and for rendering service for its own sake . Therefore it has to be admitted that the self has these three (attributes):--knowledge, desire, and effort (knowing, feeling and willing). Among these (three), desire and effort are only different modifications or states of knowledge and this may be understood from the principle of logical economy [^117] adopted by Śrī Rāmānuja in his Vedārthasaṅgraha.
+
+
+If (on the other hand) it be maintained that the jīva's doership is dependent only on himself (and on nobody else), then since it would resemble the heresy which does not admit the existence of one who is in supreme control of all selves, it would be a form of atheism.  If it is held that the doership which comes from the will of the Lord is merely the state of being the knower, there would be no such thing as a desire for the ends of life (puruṣārtha) and the endeavour to attain them. It it be held that apart from the knowledge and the particular form of knowledge called desire, there is no such thing as effort (or mental activity), it would be impossible to adopt any means for securing objects that are tangible or intangible and for rendering service for its own sake . Therefore it has to be admitted that the self has these three (attributes):--knowledge, desire, and effort (knowing, feeling and willing). Among these (three), desire and effort are only different modifications or states of knowledge and this may be understood from the principle of logical economy [^117] adopted by Śrī Rāmānuja in his Vedārthasaṅgraha.
 
 [^117]: Logical Economy:  Instead of saying that the fragrance of a flower is known to be or is experienced as agreeable and that this knowledge or experience gives rise to pleasure (or sukha ), we may, as well. say that the agreeable is itself pleasure and is therefore a form or state of knowledge.
 
