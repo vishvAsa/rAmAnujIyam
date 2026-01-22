@@ -20,6 +20,13 @@ EL SIGNIFICADO DE LA PALABRA VRAJA: página577
 स-परिकरात्म-निक्षेपत्तैये सॊल्लुगिऱदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"व्रजे"त्य् अयं शब्दः  
+"प्रपद्ये" इत्यत्र निर्णीतं स-परिकरात्म-निक्षेपम् एव वक्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 The word "vraja" also, like the word prapadye (in Dvaya )  
@@ -43,8 +50,14 @@ La palabra "vraja" también, como la palabra prapadye (en Dvaya)
 
 अव्व् इडम् +++(→"प्रपद्ये")+++  
 अनुष्ठाताविऩ्-उडैय अनुसन्धानम् आऩ बडियाले  
-उत्तमऩ् आयिऱ्ऱु। 
+उत्तमऩ् +++(पुरुषः)+++ आयिऱ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++("प्रपद्ये"→)+++ तत्रानुष्ठातुः स्वानुसन्धान-रूपत्वाद् उत्तमः +++(पुरुषः)+++ प्रयुक्तः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -70,11 +83,25 @@ quien **realiza** prapatti.
 
 इव्व् इडम् 
 
-> ‘‘शिष्यस्तेऽहं शाधि मां’’(गीता २-७) 
+> ‘‘शिष्यस्तेऽहं शाधि माम्’’  
+(गीता २-७) 
 
 ऎऩ्ऱ् अभिमुखऩ् आग निऩ्ऱ् अवऩैक् कुऱित्तु विधिक्किऱदागैयाले  
 मध्यमऩ् आयिऱ्ऱु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 
+
+> ‘‘शिष्यस् तेऽहं शाधि माम् (त्वां प्रपन्नम्)’’  
+(गीता २-७) 
+
+इत्य् अभिमुखतया स्थितं प्रति विधान-परत्वाद्  
+मध्यम आसीत् । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -108,14 +135,20 @@ y (es** justo que) Tú **debes ordenarme** que **haga** lo que **es** correcto".
 द्वयत्तिऱ् पोले उचित-पदङ्गळिले कण्डुगॊळ्वदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एषाम् आनुकूल्य-सङ्कल्पाद्य्-अङ्गान्तराणाम् अप्य्  
+अत्र सूचितत्व-प्रकारो  
+द्वये इवोचित-पदेषु द्रष्टव्यः । 
+</details>
+
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 आनुकूल्य--प्रातिकूल्य-वर्जन–सङ्कल्पौ "माम्" इत्यत्र,  
 कार्पण्यानुसन्धानम् "परित्यज्य" इत्यत्र,  
 महाविश्वासः, स्वाभिप्रायनिवेदनं च "शरणम्" इत्यत्र सूच्यन्ते। 
 </details>
-
-
 
 <details><summary>English</summary>
 
@@ -155,6 +188,14 @@ y fe intensa, y la **oración** por **protección** en ‘śaraṇam vraja’.)
 ऎऩ्गिऱ निर्णयत्तुक्कु  
 +++(आवृत्ति-विधि-सहित→)+++ उपासनत्तिऱ् पोले  
 इङ्ग् आवृत्ति वेण्डुम् बडि अपवादम् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सकृत् कृतश् शास्त्रार्थः’’()  
+
+इति निर्णयस्य,  
++++(आवृत्ति-विधि-सहित→)+++ उपासने इवात्र आवृत्ति-परो ऽपवादो नास्ति । 
 </details>
 
 <details><summary>English</summary>
@@ -202,7 +243,12 @@ Pero prapatti **no es tal excepción**
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> १०२‘‘सकृदेव प्रपन्नाय’’(रामायणम् युद्ध-काण्डम् १८-३३) 
+अयम् अर्थः, 
+
+> १०२‘‘सकृद् एव प्रपन्नाय’’  
+(रामायणम् युद्ध-काण्डम् १८-३३) 
+
+इत्य्-आदि-वचनेनापि सुप्रतिष्ठितः । 
 </details>
 
 <details><summary>English</summary>
@@ -241,6 +287,15 @@ Este **es** mi voto".
 फल-विलम्बत्तुक्कु हेतुव् इल्लै।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(एवं) महोदारस्य सर्वशक्तेः सन्निधौ  
+भरन्यासं कुर्वतः  
+स्वाभिप्राय-विशेषातिरेकेण  
+फल-विलम्बस्य हेतुर् नास्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 To the man who **performs** bharanyāsa (the **surrender** of responsibility) to the generous and omnipotent (Lord),  
@@ -266,6 +321,13 @@ excepto su propio **deseo**.
 
 आगैयाले इन्-न्यास-विद्यैक्कु प्रारब्ध-निवर्तकत्वम् विशेषम् आगिऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो ऽस्या न्यास-विद्यायाः प्रारब्ध-निवर्तकत्वं विशेषो भवति ॥  
+[[P388]]
+</details>
+
 
 <details><summary>English</summary>
 
@@ -295,6 +357,14 @@ que ya **comenzaron** a **operar** (prarabdha karma).
 > स्व-तन्त्रऩैक् कुऱित्त् अऩ्ऱोव्  
 ऒऩ्ऱै विधिप्पदु; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र केचित् -  
+
+> स्वतन्त्रं प्रति किल किंचिद् विधातुं युज्यते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -329,6 +399,17 @@ sólo por un hombre que **tiene** libertad de voluntad y acción.
 ऎऩ्ऱु सॊल्लुवर्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत्यन्त--पर-तन्त्रतया  
+ऽध्यात्म-शास्त्रेषु मूल-मन्त्रादिषु च शिक्षितम् अधिकारिणं प्रति  
+"व्रज" +इति कस्यचित् कर्तव्यस्य विधानं कथम्? 
+
+\--- इत्याचक्षते । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 > How can an **action** be **enjoined** (in the word vraja) for **performance** by one  
@@ -354,6 +435,12 @@ y en como el mUla-mantra?
 
 इदु पारतन्त्र्य-काष्ठैयैप् परामर्शियामऱ् सॊऩ्ऩ पडि।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं पारतन्त्र्यकाष्ठाम् अ-परामृश्योक्त-रूपम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -384,9 +471,10 @@ por **dependencia** completa de otro (el Señor).
 
 <details><summary>नीलमेघः (सं)</summary>
 
+कथम् इति चेत् — 
+
 > ‘‘कर्ता शास्त्रार्थवत्त्वात्’’  
 (ब्रह्मसूत्रम् २-३-३३।), 
-
 </details>
 
 
@@ -453,6 +541,14 @@ pues el śruti **dice** así".
 इवऩैप् पऱ्ऱ विधिक्कक् कुऱैयिल्लै।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इति वेदान्त-निर्णीत-रीत्या  
+अस्य भगवद्-अधीन-कर्तृत्वस्य सत्त्वाद्  
+एतं प्रति विधाने न दोषः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Thus, as **determined** in Vedānta (śāstras),  
@@ -486,6 +582,14 @@ no **hay nada** que **impida** una **orden**
 इवऩुक्कु +++(चेतनाय)+++ भगवत्-पारतन्त्र्य-काष्ठैय् इरुन्द बडि। +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अचिद्भिः शब्दादीनाम् +++(गुणानाम्)+++ ईश्वरोत्पादितानां वहनवद्  
+एतावतः स्वातन्त्र्यस्य ग्रहणं वहनम् अप्य् अस्य  
+भगवत्-पारतन्त्र्य-काष्ठायाः स्थिति-प्रकारः ।+++(5)+++
+</details>
+
+
 <details><summary>English</summary>
 
 Just as non-sentient things (acit) like ether and fire **bear** the attributes respectively of sound and heat **created** by Iśvara,  
@@ -512,6 +616,13 @@ La **dependencia** absoluta de la jīva respecto de Iśvara **consiste en soport
 ऎऩ्ऩिल्;  
 प्रकृत्य्--अ-विद्यादिगळुक्कु कर्तृत्वञ् जॊल्लुगिऱ +++(साङ्ख्य-शाङ्कर-)+++ सिद्धान्त-तुल्यम् आम्। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"अस्य कयाऽपि विधया कर्तृत्वं नास्ती"ति चेत्  
+प्रकृत्य्--अ-विद्यादीनां कर्तृत्वं (वदद्भिः)पर-सिद्धान्तैस् तुल्यता प्रसज्येत । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -541,6 +652,14 @@ que **atribuyen la responsabilidad** (respectivamente) a prakṛti y avidyā (Sa
 निरीश्वर-सिद्धान्तप् पडिय् आम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"कर्तृत्वं स्वाधीनम्" इति चेत्  
+"सर्वात्म-नियन्तैको ऽस्ती"त्य् अस्यार्थस्यासिद्ध्या  
+निरीश्वर-सिद्धान्त-प्रकारः प्रसज्येत । 
+</details>
+
+
 <details><summary>English</summary>
 
 If (on the other hand) it **be maintained** that the jīva's **doership is dependent** only on himself (and on nobody else),  
@@ -569,6 +688,16 @@ entonces, dado que **se parecería** a la **herejía** que **no admite** la exis
 पुरुषार्थ-संपादन-रुचियुम्, तद्-उपाय-प्रवृत्तियुम् तविरप् प्रसङ्गिक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ईश्वराधीनतया प्राप्तं कर्तृत्वम् अपि  
+ज्ञातृत्वमात्रम् 
+
+इति चेत्-  
+पुरुषार्थ-संपादन-रुचेस् तद् उपाय-प्रवृत्तेश् चाभावः प्रसज्येत । 
+</details>
+
+
 <details><summary>English</summary>
 
 If it **is held** that the **doership** which **comes** from the will of the Lord **is** merely the state of being the **knower**,  
@@ -595,6 +724,15 @@ y el **esfuerzo** de **alcanzarlos**.
 
 ऎऩ्ऩिलुम्; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ज्ञानं तद्-अवस्था-विशेष इच्छा चास्ति,  
+अन्यः कश्चिद् अपि व्यापारो नास्ति
+
+इत्य् उक्तौ-  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -623,6 +761,14 @@ aparte del **conocimiento** y la forma particular de conocimiento **llamado dese
 अनुष्ठिक्क विरगिल्लै।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+दृष्टादृष्टार्थानां केषाञ्चिद् उपायानां  
+स्वयं-प्रयोजन-भूतानां कैङ्कर्याणां च  
+अनुष्ठानस्य हेतुर् न स्यात् । 
+</details>
+
+
 <details><summary>English</summary>
 
 it **would be impossible** to **adopt** any means for **securing** objects  
@@ -648,6 +794,12 @@ y para **prestar servicios** por sí mismo.
 
 आगैयाल् ज्ञान-चिकीर्षा-प्रयत्नङ्गळ् मूऩ्ऱुम् आत्मावुक्कु उण्डु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो ज्ञान-चिकीर्षा-प्रयत्नास् त्रयो ऽप्य् आत्मनः सन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -678,6 +830,14 @@ conocimiento, ganas y esfuerzo
 ऎऩ्ऩुम् इडत्तै  
 वेदार्थ-संग्रहत्तिल् अरुळिच् चॆय्द लाघव-युक्तियाले कण्डु-गॊळ्वदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत्र चिकीर्षा-प्रयत्नौ ज्ञानस्यावस्था-विशेषाव् 
+
+इत्य् एतत् वेदार्थ-संग्रह-प्रतिपादित- लाघव-युक्त्या द्रष्टव्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -718,8 +878,15 @@ y **es** por lo tanto una forma o estado de conocimiento.)
 
 क्रियाश्रयत्व-रूपम् आऩ कर्तृत्वम्  
 चेतनाचेतन-साधारणम्;  
-प्रयत्नाश्रयत्व-रूपम् आऩ कर्तृत्वम् चेतनैकान्तम्। 
+प्रयत्नाश्रयत्व-रूपम् आऩ कर्तृत्वम् चेतनैकान्तम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+क्रियाश्रयत्व-रूपं कर्तृत्वं चेतनाचेतन-साधारणम् ।  
+प्रयत्नाश्रयत्व-रूपं कर्तृत्वं चेतनैकान्तम् । +++(4)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -754,6 +921,15 @@ Pero la sede (āśraya) de un esfuerzo o **empeño** (prayatna) **es** (un atrib
 शरीरादि-प्रेरण-हेतुव् आऩ बुद्धि-विशेषम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P389]]  
+प्रयत्नो नाम -  
+शरीरादि-प्रेरण-हेतु-भूतो बुद्धि-विशेषः ।
+
+</details>
+
+
 <details><summary>English</summary>
 
 Effort or endeavour (prayatna) **is** a form of knowledge or will  
@@ -776,8 +952,16 @@ eso **es** la causa de **estimular** a uno a **ejercitar** el cuerpo (los sentid
 
 ज्ञान-मात्रत्तुक्क् आश्रयम् आऩ बोदुम्  
 भोग-मात्रत्तुक्क् आश्रयम् आऩ बोदुम्  
-क्रियाऽऽश्रयत्व-मात्रम् आऩ सामान्य-कर्तृत्वमेय् उळ्ळदु। 
+क्रियाऽऽश्रयत्व-मात्रम् आऩ +++(चिद्-अचित्-)+++सामान्य-कर्तृत्वमेय् उळ्ळदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-मात्राश्रयत्व-दशायां  
+भोग-मात्राश्रयत्व-दशायां च  
+क्रियाश्रयत्व-मात्र-रूपं +++(चिद्-अचित्-)+++सामान्य-कर्तृत्वम् एवास्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -804,9 +988,16 @@ como **es** común a los seres sintientes y a las cosas no sintientes.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऒऩ्ऱैत् तऩ् बुद्धियाले उत्पादिक्कुम् बोदु  
+ऒऩ्ऱैत् +++(साध्यं)+++ तऩ् बुद्धियाले उत्पादिक्कुम् बोदु  
 प्रयत्नाश्रयत्व-रूपम् आऩ कर्तृत्वम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कस्यचित् +++(साध्यस्य)+++ स्व-बुद्ध्योत्पादन-समये  
+प्रयत्नाश्रयत्व-रूपं कर्तृत्वं भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -837,6 +1028,15 @@ y **es** un **hacedor** de esa forma particular.
 ऎऩ्गैयुम् उचितम् अऩ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवम्-भूतं कर्तृत्वं  
+कैङ्कर्य-मात्र-विषयकम् 
+
+इत्य् उक्तिर् अपि नोचिता । 
+</details>
+
+
 <details><summary>English</summary>
 
 It **cannot** justly **be maintained** that  
@@ -859,6 +1059,13 @@ esta forma de **hacedor se encuentra** solo en **rendir** kaiṅkarya o **servic
 
 अङ्गुम्, भगवत्-प्रीतिय् ऎऩ्ऱ् ऒरु प्रयोजनत्तै उद्देशित्त्  
 उपायानुष्ठानम् पण्णिऩाऩ् आय् इऱेय् इरुप्पदु। 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्रापि भगवत्-प्रीति-रूपं प्रयोजनम् उद्दिश्य  
+उपायानुष्ठानं कृतवान् किल भवति ।
 </details>
 
 <details><summary>English</summary>
@@ -884,6 +1091,12 @@ con miras a **alcanzar** el fin **llamado** el amor del Señor.
 
 आऩ बिऩ्बु कर्तृत्वत्तिल् बन्ध-हेतुव् आऩ आकारमे त्याज्यम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः कर्तृत्वे बन्ध-हेतु-भूत आकार एव त्याज्यः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -917,6 +1130,13 @@ eso **debe evitarse**.
 करण-कळेबरादिगळॆयुङ् गॊण्डु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"स क" इति चेत् —  
+ईश्वर-प्रदत्तान् करण-कलेवरादीन् ज्ञान-शक्त्य्-आदींश् चावलम्ब्य 
+</details>
+
+
 <details><summary>English</summary>
 
 If it **be asked** what that form of **doership is**,  
@@ -947,6 +1167,12 @@ y también cosas como los sentidos y el cuerpo.
 अवऩ् प्रेरकऩुम् आय्, धारकऩुम् आय्, फलियुम् आय्क् कॊण्डु सहकरिक्क 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तस्मिन् प्रेरकतया धारकतया फल-दातृतया चावस्थाय सह कुर्वाणे सति 
+</details>
+
+
 <details><summary>English</summary>
 
 He **supports** the jīva and **stimulates** him (to action).  
@@ -973,6 +1199,12 @@ Cuando Él está así **prestando ayuda** (a la jīva),
 प्रवर्तिक्किऱ तऩ्ऩैय् इदुक्कु विपरीतम् आग अनुसन्धित्त् इरुक्कैयुम्  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रवृत्तिशीले स्वस्मिन्  
+एतद्-विपरीततयाऽनुसन्धानम्, 
+</details>
+
 <details><summary>English</summary>
 
 if the latter +++(jIva)+++ **should consider** himself as **being different** from this  
@@ -991,9 +1223,16 @@ si este último +++(jIva)+++ **debería considerarse** a sí mismo como **difere
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व् अनुसन्धानत्तिल् तिरुत्तम्+++(=सम्यक्ता)+++ उण्डेय् आगिलुम्  
+इव्व् +++(सीमित-कर्तृत्व-)+++ अनुसन्धानत्तिल् तिरुत्तम्+++(=सम्यक्ता)+++ उण्डेय् आगिलुम्  
 इदिले प्रयोजनान्तरत्तैय् इडुक्कि अनुष्ठिक्कैयुम् बन्धकम्।+++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन्न् +++(सीमित-कर्तृत्व-)+++ अनुसन्धाने यथावत् संपन्ने ऽपि  
+अत्र प्रयोजनान्तरम् अन्तर्-भाव्यानुष्ठानं च बन्धकम् ।+++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1022,6 +1261,13 @@ el esfuerzo **conduciría** a la **esclavitud**.
 प्रयोजनान्तर-परऩुक्कु बन्धकम् आय् इऱेय् इरुप्पदु। +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भक्तिप्रपत्ती अपि  
+प्रयोजनान्तर-परस्य बन्धिके किल भवतः । +++(5)+++
+</details>
+
+
 <details><summary>English</summary>
 
 Even bhakti and prapatti **would certainly lead** to **bondage**  
@@ -1042,7 +1288,7 @@ para **asegurar** otros fines (además de mokṣa).
 भक्तिप्रपत्तिकळ् ताऩुम् प्रयोजनान्तरपरऩुक्कु बन्धकमायिऱे यिरुप्पदु। 
 </details>
 
-### निगमनम्
+### फलदशावत् कर्तृता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् स्वाभाविक-कैङ्कर्यार्थिय् आय्  
@@ -1051,6 +1297,14 @@ para **asegurar** otros fines (además de mokṣa).
 फल-दशैयिल् कर्तृत्वम् पोले  
 उपाय-दशैयिल् कर्तृत्वम् उम् विरुद्धमऩ्ऱु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः स्वाभाविक-कैङ्कर्यार्थिनो ऽनन्य-प्रयोजनस्य च सतो ऽस्य  
+फल-दशायां कर्तृत्वम् इव  
+उपाय-दशायां कर्तृत्वम् अपि न विरुद्धम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1072,12 +1326,247 @@ el **hacedor** en el estado en el que **adopta** un upāya (por el bien de mukti
 आगैयाल् स्वाभाविककैङ्कर्यार्थियाय् अनन्यप्रयोजनऩायिरुक्कुमवऩुक्कुम् फलदशैयिल् कर्तृत्वम् पोले उपायदशैयिल् कर्तृत्वमुम् विरुद्धमऩ्ऱु।
 </details>
 
+#### मुक्तौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The doership of varied forms of service (to the Lord) in the state of attainment (i. e. mukti) results from the self’s own longing (to render service) combined with the varied desires of the Lord (which have no connection with karma). The doership in the state of saṁsāra is of different kinds corresponding to the conditioning factor (upādhi) in the forms of sattva, rajas and tamas which have been evolved in accordance with the past karma  and by the will of Iśvara. That doership which results from rajas and tamas and so also from that sattva which is the cause of attachment to other interests (than mokṣa) - that doership leads to bondage. That doership (on the other hand) which results from the form of superior sattvam which creates a longing for he attainment of Bhagavān -- that doership leads to mokṣa. In the state of mukti, the doership will have no connection at all with any of these three qualities.
+फल-दशैयिल् विविध-विचित्र-कैङ्कर्य-कर्तृत्वम्  
+केवलम् ईश्वरेच्छा-वैचित्रियोडे पॊरुन्दिऩ+++(=संवलित)+++ स्वेच्छैयालेय् आय् इरुक्कुम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+फल-दशायां विविध-विचित्र-कैङ्कर्य-कर्तृत्वं  
+केवलम् ईश्वरेच्छा-वैचित्री-संवलित-- स्वेच्छा-निबन्धनं भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+The **doership** of varied forms of **service** (to the Lord) in the state of **attainment** (i. e. mukti)  
+**results from** the self’s own **longing** (to **render service**)  
+**combined** with the varied desires of the Lord  
+(which **have no connection** with karma). 
+</details>
+
+<details><summary>Español</summary>
+
+La **hacedora** de diversas formas de **servicio** (al Señor) en el estado de **logro** (es decir, mukti)  
+**resulta del** propio **anhelo** del yo (de **prestar servicio**)  
+**combinado** con los variados deseos del Señor  
+(que **no tienen conexión** con el karma).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलदशैयिल् विविधविचित्रकैङ्कर्यकर्तृत्वम् केवलमीश्वरेच्छावैचित्रियोडे पॊरुन्दिऩ स्वेच्छैयालेयायिरुक्कुम्।
+</details>
+
+#### संसारे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसार-दशैयिल् उळ्ळ कर्तृत्वम् ऎल्लाम्  
+
+कर्मानुरूपम् आग  
+ईश्वरऩ् परिणमिप्पित्त सत्त्व-रजस्-तमस्सुक्कळै उपाधिय् आगक् कॊण्डु  
+
+बहु-विधम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+संसार-दशा-कालिकं कर्तृत्वं सर्वं  
+कर्मानुरूपम् ईश्वरेण परिणमितानि  
+सत्त्व-रजस्-तमांस्य् उपाधित्वेनावलम्ब्य  
+बहुविधं वर्तते । 
+</details>
+
+
+<details><summary>English</summary>
+
+The **doership** in the state of saṁsāra **is** of different kinds **corresponding** to the conditioning factor (upādhi) in the forms of sattva, rajas and tamas  
+which **have been evolved** in accordance with the past karma and by the will of Iśvara. 
+</details>
+
+<details><summary>Español</summary>
+
+El **hacedor** en el estado de saṁsāra **es** de diferentes tipos **correspondiente** al factor condicionante (upādhi) en las formas de sattva, rajas y tamas.  
+que **han evolucionado** de acuerdo con el karma pasado y por la voluntad de Iśvara.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संसारदशैयिलुळ्ळ कर्तृत्वमॆल्लाम् कर्मानुरूपमाग ईश्वरऩ् परिणमिप्पित्त सत्वरजस्तमस्सुक्कळै उपाधियागक्कॊण्डु बहुविधमायिरुक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् रजस्सालुम्, तमस्सालुम्, प्रयोजनान्तर-सङ्ग-हेतुव् आऩ सत्त्वत्तालुं वरुं कर्तृत्वम् बन्धकम्।+++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र रजसा तमसा प्रयोजनान्तर-- सङ्ग-हेतु-भूत-सत्त्वेन च जायमानं कर्तृत्वं  
+बन्धकम् । +++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+That **doership** which **results** from rajas and tamas  
+and so also from that sattva which **is** the cause of **attachment** to other interests (than mokṣa) -  
+that **doership leads to bondage**. 
+</details>
+
+<details><summary>Español</summary>
+
+Ese **hacedor** que **resulta** de rajas y tamas  
+y así también de ese sattva que **es** la causa del **apego** a otros intereses (que mokṣa) -  
+que **el hacedor conduce** a la **esclavitud**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् रजस्सालुम् तमस्सालुम् प्रयोजनान्तरसङ्गहेतुवाऩ सत्त्वत्तालुंवरुम् कर्तृत्वम् बन्धकम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-प्राप्तियिले सङ्गत्तैप् पुणर्क्कुम्+++(=योजकं)+++  
+प्रकृष्ट-सत्त्व-विशेषम् अडिय् आग वरुं कर्तृत्वम्  
+मोक्ष-कारणम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-प्रीति-सङ्ग-जनक- प्रकृष्ट-सत्त्व-विशेष-निबन्धनं कर्तृत्वं  
+मोक्ष-कारणम् । +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+That **doership** (on the other hand) which results from the form of superior sattvam  
+which **creates** a **longing** for the **attainment** of Bhagavān --  
+that **doership leads** to mokṣa. +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+Ese **hacedor** (por otro lado) que **resulta** de la forma de sattvam superior  
+lo cual **crea** un **anhelo** por **el logro** de Bhagavān--  
+ese **hacedor conduce** a mokṣa. +++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्राप्तियिले सङ्गत्तैप् पुणर्क्कुम् प्रकृष्टसत्वविशेषमडियाग वरुम् कर्तृत्वम् मोक्षकारणम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इक् गुण-त्रयत्तोडु तुवक्क्-अऱ्ऱ् इरुक्कुम् मुक्त-दशैयिल् कर्तृत्वम्।
+</details>
+
+<details><summary>English</summary>
+
+In the state of mukti, the **doership will have no connection** at all  
+with any of these three qualities.
+</details>
+
+<details><summary>Español</summary>
+
+En el estado de mukti, el **hacedor no tendrá ninguna conexión** en absoluto  
+con cualquiera de estas tres cualidades.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इक् गुणत्रयत्तोडु तुवक्कऱ्ऱिरुक्कुम् मुक्तदशैयिल् कर्तृत्वम्।
+</details>
+
+### कर्तृत्वाभावे विषय-व्यवस्था
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् इरुक्कैयाल्  
+"आत्मावुक्कु कर्तृत्वम् इल्लैय्" ऎऩ्गिऱ वाक्यङ्गळुक्कुम्  
+"कर्तृत्वम् उण्ड्" ऎऩ्गिऱ वाक्यङ्गळुक्कुम्  
+विषय-व्यवस्थैय् उण्डागैयाले  
+विरोधम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+Therefore between the texts which **state** that the self **is not a doer**  
+and the texts which **state** that the self **is a doer**,  
+there **is no conflict**,  
+since it **is possible** to **discriminate**  
+wherein it **has doership**  
+and wherein it **has no doership**. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, entre los textos que **afirman** que el yo **no es un hacedor**  
+y los textos que **afirman** que el yo **es un hacedor**,  
+no **hay conflicto**,  
+ya que **es posible** **discriminar**  
+donde **tiene autoría**  
+y en el que **no tiene autoría**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि यिरुक्कैयाल् आत्मावुक्कु कर्तृत्वमिल्लैयॆऩ्गिऱ वाक्यङ्गळुक्कुम् कर्तृत्वमुण्डॆऩ्गिऱ वाक्यङ्गळुक्कुम् विषयव्यवस्थैयुण्डागैयाले विरोधमिल्लै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अद् ऎङ्ङऩेय्" ऎऩ्ऩिल्;  
+कर्तृत्वम् इल्लैय् ऎऩ्गिऱ वाक्यङ्गळ्  
+
+> ईश्वराधीनम् आयुम्, तदायत्त-प्रकृति-गुणाधीनम् आयुम् वरुम् कर्तृत्वत्तै  
+निरपेक्षम् ऎऩ्ऱु निऩैक्कल् आगाद् 
+
+ऎऩ्गिऱऩ। 
+</details>
+
+<details><summary>English</summary>
+
+If it **be asked** how this **could be understood**,  
+the **answer is** as **follows**:- 
+
+> The texts which **declare** that the self **is not** a **doer** or agent  
+**have**, for their purport, the truth that  
+the **doership** of the self which **is dependent** on Iśvara and on the qualities of prakṛti (sattva, rajas and tamas)  
+**should not be considered** as independent of other (forms). 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se pregunta** cómo **podría entenderse** esto,  
+la **respuesta es** la **siguiente**:- 
+
+> Los textos que **declaran** que el yo **no es** un **hacedor** o agente  
+**tienen**, a su entender, la verdad de que  
+el **hacedor** del yo que **depende** de Iśvara y de las cualidades de prakṛti (sattva, rajas y tamas)  
+**no debe considerarse** como independiente de otras (formas).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदॆङ्ङऩे यॆऩ्ऩिल्; कर्तृत्वमिल्लै यॆऩ्गिऱ वाक्यङ्गळ् ईश्वराधीनमायुम् तदायत्तप्रकृतिगुणाधीनमायुम् वरुम् कर्तृत्वत्तै निरपेक्षमॆऩ्ऱु निऩैक्कलागा तॆऩ्गिऱऩ। 
+</details>
 
 
 
-Therefore between the texts which state that the self is not a doer and the texts which state that the self is a doer, there is no conflict, since it is possible to discriminate wherein it has doership and wherein it has no doership. If it be asked how this could be understood, the answer is as follows:- The texts which declare that the self is not a doer or agent have, for their purport, the truth that the doership of the self which is dependent on Iśvara and on the qualities of prakṛti (sattva, rajas and tamas) should not be considered as independent of other (forms). The texts which declare that the self is a doer or agent have, for their purport, the truth that, of the jñāna or knowledge and its particular forms called desire to perform and effort which have come to him in accordance with such things as the desire of Iśvara, the jīva is himself the seat or āsraya. This conclusion has been taught clearly by the Gītācārya Himself in the ślokas beginning with the following --" It is ascertained that when a man does any action with his body, speech or mind, there are five causes that contribute to that action, viz, the body, the self, the senses, the vital breath and fifthly Divinity or daivam In that context the Divinity that is called the fifth (cause) is Puruṣottama. When Puruṣottama stimulates the jīva to perform in action, He is called the kārayitā or one who causes that action, He is (also ) called the kartā or doer in regard to those actions like the awarding of the fruit ( to the jīva) and the creation of the world. When He does not prevent the sentient being from performing an action, He is said to be indifferent. Since he permits it, He is said to be anumantā (i.e.) one who acquiesces. As Iśvara, sometimes, acts like an expert porter who carries a heavy weight to help an apprentice who can carry only a light burden, He is also said to co-operate (with the jīva ) (sahakārī). In such things as the
+
+
+The texts which declare that the self is a doer or agent have, for their purport, the truth that, of the jñāna or knowledge and its particular forms called desire to perform and effort which have come to him in accordance with such things as the desire of Iśvara, the jīva is himself the seat or āsraya. This conclusion has been taught clearly by the Gītācārya Himself in the ślokas beginning with the following --" It is ascertained that when a man does any action with his body, speech or mind, there are five causes that contribute to that action, viz, the body, the self, the senses, the vital breath and fifthly Divinity or daivam In that context the Divinity that is called the fifth (cause) is Puruṣottama. When Puruṣottama stimulates the jīva to perform in action, He is called the kārayitā or one who causes that action, He is (also ) called the kartā or doer in regard to those actions like the awarding of the fruit ( to the jīva) and the creation of the world. When He does not prevent the sentient being from performing an action, He is said to be indifferent. Since he permits it, He is said to be anumantā (i.e.) one who acquiesces. As Iśvara, sometimes, acts like an expert porter who carries a heavy weight to help an apprentice who can carry only a light burden, He is also said to co-operate (with the jīva ) (sahakārī). In such things as the
 
 creation (of the world), since differences like gods and men are due to the conditioning factor (upādhi) of their respective past karma, Iśvara is declared not to be the doer as stated in the śloka: "The four castes were created by me in accordance with such qualities as sattva that are found in jīvas and also with their past karma . Though I perform the act of creation, I am not the real cause nor am I tainted by it." Thus from Iśvara who has the common and general doership of all things without exception, the jīva acquires the power to make an effort and act in accordance with his own will. Therefore it is evident that the jīva is fit to be directed to do a thing and the word vraja may justly enjoin the performance of an action.
 
