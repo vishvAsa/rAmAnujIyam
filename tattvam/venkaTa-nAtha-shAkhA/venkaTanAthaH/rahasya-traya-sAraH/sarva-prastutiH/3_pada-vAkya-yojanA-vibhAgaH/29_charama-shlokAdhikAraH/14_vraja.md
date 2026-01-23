@@ -46,6 +46,17 @@ La palabra "vraja" también, como la palabra prapadye (en Dvaya)
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+व्रज-धातु गत्य्-अर्थकम् आऩालुम्  
+
+गत्य्-अर्थानां बुद्ध्यर्थत्वम् उण्डागैयाले  
+व्रज ऎऩ्गिऱ शब्दम्  
+द्वयत्तिल् प्रपद्ये ऎऩ्गिऱ शब्दम्बोले  
+स-परिकरात्म-निक्षेप-रूप- बुद्धि-विशेषत्तैये सॊल्लुगिऱद् ऎऩ्गिऱार् "व्रज" ऎऩ्गिऱ शब्दमुमिति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव्व् इडम् +++(→"प्रपद्ये")+++  
@@ -78,6 +89,13 @@ quien **realiza** prapatti.
 
 अव्विडमनुष्ठाताविऩुडैय अनुसन्धानमाऩबडियाले उत्तमऩायिऱ्ऱु। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+द्वयत्तिल् अनुष्ठातृविषयामगैयाले उत्तमऩ्; इव्विडत्तिल् अभिमुखचेतनविषयमागैयाले मध्यमऩ्; अर्थत्तिल् भेदमिल्लै यॆऩ्गिऱार् अव्विडमित्यादिवाक्यद्वयत्ताले। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -142,6 +160,11 @@ y (es** justo que) Tú **debes ordenarme** que **haga** lo que **es** correcto".
 द्वये इवोचित-पदेषु द्रष्टव्यः । 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परित्यज्याविल् सॊल्लप्पट्ट कार्पण्यत् तैक्काट्टिलुम् वेऱुबट्ट आनुकूल्यसङ्कल्पाद्यङ्गङ्गळुम् इङ्गे उचितपदङ्गळिल्अनुसन्धेयङ्गळॆऩ्गिऱार् इव्वानुकूल्यसङ्कल्पाद्यङ्गान्तरङ्गळुमिङ्गे इति । 
+</details>
+
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -179,6 +202,12 @@ y fe intensa, y la **oración** por **protección** en ‘śaraṇam vraja’.)
 
 इव्वानुकूल्यसङ्कल्पाद्यङ्गान्तरङ्गळुमिङ्गे सूचितमाऩबडियै द्वयत्तिऱ्पोले उचितपदङ्गळिले कण्डुगॊळ्वदु।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उचितपदङ्गळिले इति । प्रथमपादत्तिल् उपायान्तराशादिपरित्यागत्तैच् चॊल्लुगैयाले प्रातिकूल्यवर्जनमुम्, अव्विडत्तिलेये अर्थादानुकूल्यसङ्कल्पमुम्, बुद्ध्यर्थकमाऩ व्रजशब्दत्तिल् महाविश्वासमुम्, शरणशब्दोपश्लिष्टमाऩ व्रजशब्दत्तिलेये गोप्तृत्ववरणमुम् अनुसन्धेयमॆऩ्ऱु करुत्तु।
+</details>
+
 
 ## आवृत्ति-राहित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -231,6 +260,12 @@ Pero prapatti **no es tal excepción**
 उपासनत्तिऱ्पोले इङ्गावृत्तिवेण्डुम्बडि अपवादमिल्लै। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रथमपादस्याधिकारिपरत्वे मा शुचः ऎऩ्गिऱविडत्तिल् आकिञ्चन्यानुसन्धानरूपकार्पण्यम् अनुसन्धेयम्। भक्तिस्थानत्तिल् विधिक्कप्पडुगैयाले इन्द प्रपत्ति अदुबोले असकृदावृत्तमागवेण्डुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् सकृत्कृतश्शास्त्रार्थः ऎऩ्गिऱ निर्णयत्तुक्कु इति । इदु भक्तिपोले मोक्षजनकतया भक्तिस्थानापन्नमाऩालुम् भक्तिपोले इदऱ्कु सकृत्कृतश्शास्त्रार्थः ऎऩ्गिऱ अंशत्तिल् अपवादमिल्लैयागैयाल् आवृत्तिप्रसङ्गम् वारादॆऩ्ऱु करुत्तु।
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -279,6 +314,12 @@ Este **es** mi voto".
 इव्वर्थम् १०२‘‘सकृदेव प्रपन्नाये’’(रामायणम् युद्ध-काण्डम् १८-३३) त्यादि वचनत्तालुम् सुप्रतिष्ठितम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अपवादमिल्लाददोडु प्रपत्तिक्कु सकृत्कर्तव्यत्वे अनुग्राहकप्रमाणमु मुण्डॆऩ्गिऱार् इव्वर्थमिति । 
+</details>
+
+
 ## विलम्ब-हेतुः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -316,6 +357,12 @@ excepto su propio **deseo**.
 इप्पडि महोदारऩाऩ सर्वशक्तिपक्कलिले भरन्यासम् पण्णुमवऩुक्कु स्वाभिप्रायविशेषमॊऴिय फलविळम्बत्तुक्कु हेतुविल्लै।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि प्रपत्ति सकृत्कृतमाय्क्कॊण्डे मोक्षजनकमॆऩ्ऩिल् प्रपत्त्युत्तरक्षणत्तिलेये मोक्षम् वर प्रसङ्गियादो ऎऩ्ऩ वरुळिच् चॆय्गिऱार् इप्पडि महोदारऩाऩ इति ।  
+स्वाभिप्रायविशेषमॊऴिय इति । शास्त्रार्थत्तै अनुष्टित्त पिऱगुम् फलविळम्बत्तिऱ्कुक् कारणम् महोदारऩाऩ भगवाऩुडैय औदार्यत्तिऩ् कुऱैयिऩालऩ्ऱु। सर्वशक्तऩाऩ अवऩुडैय शक्तियिऩ् कुऱैविऩालऩ्ऱु; किन्तु प्रपत्ति पण्णुमवऩुडैय फलकालत्तैक् कुऱिक्किऱ अभिप्रायविशेषमे ऎऩ्ऱु तात्पर्यम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -348,6 +395,12 @@ que ya **comenzaron** a **operar** (prarabdha karma).
 
 आगैयाले इन् न्यासविद्यैक्कु प्रारब्ध निवर्तकत्वम् विशेषमागिऱदु।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वाभिप्रायविशेषमेयॊऴिय फलविळम्बत्तुक्कु वेऱु हेदुविल्लैयॆऩ्ऱदाल् स्वाभिप्रेतकालत्तिल् फलजनकत्वम् सिद्धिक्कैयाले अदु प्रारब्धनिवर्तकत्वं विना अनुपपन्नमागैयाल् इन्द प्रपत्तिविद्यैक्कु प्रारब्धनिवर्तकत्वम् भक्त्यपेक्षया विशेषमाग फलिक्किऱदॆऩ्गिऱार् आगैयाले इति । आगैयाले - स्वाभिप्रायव्यतिरिक्तमाऩ विळम्बहेतु इल्लामैयाले। 
+</details>
+
 
 ## परिमित-स्वातन्त्र्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -386,6 +439,11 @@ sólo por un hombre que **tiene** libertad de voluntad y acción.
 <details><summary>मूलम्</summary>
 
 इव्विडत्तिले सिलर् स्वतन्त्रऩैक् कुऱित्तऩ्ऱो वॊऩ्ऱै विधिप्पदु; 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शरणं व्रज ऎऩ्ऱु जीवऩैक्कुऱित्तु शरणवरणत्तै विधिक्कक् कूडुमो? वेदान्तत्तिल् ‘‘य आत्मनि तिष्ठन् य आत्मानमन्तरो यमयति’’ ऎऩ्ऱुम्, मूलमन्त्रत्तिल् नमः ऎऩ्ऱुम् अत्यन्तपरतन्त्रऩाग शिक्षिक्कप्पट्ट जीवऩुक्कु शरणवरणम् कर्तव्यतया विधेयमाग आगादे ऎऩ्गिऱ पक्षत्तै अनुवदिक्किऱार् इव्विडत्तिले सिलरित्यादिना । 
 </details>
 
 
@@ -460,6 +518,12 @@ por **dependencia** completa de otro (el Señor).
 इदु पारतन्त्र्यकाष्ठैयैप् परामर्शियामऱ्सॊऩ्ऩ पडि।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदै निरसिक्किऱार् इदु पारतन्त्र्यकाष्ठैयैप् परामर्शियामऱ् सॊऩ्ऩबडि इति । 
+</details>
+
+
 ### ब्रह्मसूत्रोक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -497,6 +561,10 @@ de lo contrario, los śāstras que **ordenan** dharmas
 ऎङ्ङऩेयॆऩ्ऩिल्; ‘‘कर्ता शास्त्रार्थवत्त्वात्’’(ब्रह्मसूत्रम् २-३-३३।  ), 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परामर्शियामैयै स्पष्टीकरिक्किऱार् ऎङ्ङऩेयॆऩ्ऩिलिति । 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -531,6 +599,12 @@ pues el śruti **dice** así".
 <details><summary>मूलम्</summary>
 
 ‘‘परात्तु तच्छ्रुतेः’’(ब्रह्मसूत्रम् २-३-४०) 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+साङ्ख्यादिगळ् सॊल्लुगिऱबडि जीवऩै अत्यन्तोदासीनऩाक्कि अवऩुक्कु कर्तृत्वमे इल्लैयॆऩ्ऱु सॊल्लामल्, जीवः कर्ता, विधिनिषेधशास्त्रयोः प्रयोजनवत्वात्, ऎऩ्ऱु अवऩुक्कु कर्तृत्वत्तै स्थापित्तु ‘‘परात्तु तच्छ्रुतेः’’ ऎऩ्ऱु अदऱ्कु पराधीनत्वत्तैच् चॊल्लियिरुप्पदाले अवऩैक्कुऱित्तु ऒरु कार्यत्तैप् पण्णुम्बडि विधिक्कैयिलुम्, अन्द कर्तृत्वम् पराधीनमागैयाले अवऩ् विधित्तबडि अन्द कार्यत्तैप् पण्णुगैयिलुम् ऒरु विधि बाधकमिल्लै। आगैयाल् विधिकूडा तॆऩ्बदु सम्यक्परामर्शमूलमऩ्ऱु ऎऩ्ऱु करुत्तु।
 </details>
 
 
@@ -608,6 +682,14 @@ La **dependencia** absoluta de la jīva respecto de Iśvara **consiste en soport
 अचित्तुक्कळ् शब्दादिगळै ईश्वरऩुण्डाक्कच् चुमक्किऱाप्पोले इव्वळवु स्वातन्त्र्यत्तै यॆडुत्तुच् चुमक्कैयुमिवऩुक्कु भगवत्पारतन्त्र्यकाष्ठैयिरुन्दबडि।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि कर्तृत्वत्तै इवऩुक्कु ऒप्पुक्कॊण्डु अवऩुम् अदैच् चुमन्दाल् इवऩुडैय पारतन्त्र्यत्तोडे अदु विरोधियादोवॆऩ्ऩिल्; अवऩ् कॊडुत्त कर्तृत्वत्तै सुमक्कैये पारतन्त्र्यत्तुक्कु अत्यन्तानुगुणम्। अदैच् चुमक्कामैये पारतन्त्र्यविरोधि ऎऩ्ऱु सदृष्टान्तमाग उपपादिक् किऱार् अचित्तुक्कळिति । 
+
+सुमक्किऱाप्पोले इति । आकाशादिगळ् शब्दादिगुणङ्गळैच् चुमक्किऱाप्पोले ऎऩ्ऱबडि। 
+</details>
+
+
 ### साङ्ख्यादि-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -644,6 +726,14 @@ que **atribuyen la responsabilidad** (respectivamente) a prakṛti y avidyā (Sa
 इवऩुक्कॊरुवऴि यालुम् कर्तृत्वमिल्लैयॆऩ्ऩिल्; प्रकृत्यविद्यादिगळुक्कु कर्तृत्वञ्जॊल्लुगिऱसिद्धान्ततुल्यमाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इवऩुक्कु कर्तृत्वत्तैयॊप्पुक्कॊण्डु अदु पराधीनमॆऩ्बदैक् काट्टिलुम् कर्तृत्वमे इल्लैयॆऩ्ऱु सॊल्वदु युक्तमागादोवॆऩ्ऩिल्; अदु ‘‘योऽन्तरो यमयती’’ त्यादि श्रुतिविरुद्धमागैयाले साङ्ख्यादिमततुल्यमा मॆऩ्गिऱार् इवऩुक्कॊरु वऴियालुम् कर्तृत्वमिल्लैयॆऩ्ऩिलिति । 
+
+प्रकृत्यविद्यादिगळुक्कु इति । इङ्गु आदिपदत्ताले क्षणिकविज्ञानसन्ततिक्कु परिग्रहम्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -678,6 +768,18 @@ entonces, dado que **se parecería** a la **herejía** que **no admite** la exis
 
 कर्तृत्वम् स्वाधीनमॆऩ्ऩिल्; सर्वात्मनियन्ता वॊरुव ऩॆऩ्गिऱ अर्थङ्गिडैयामैयाले निरीश्वरसिद्धान्तप्पडियाम्।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रकृतिक्कु कर्तृत्वम् सॊल्लुगिऱदु साङ्ख्यासिद्धान्तम्; अविद्यैक्कु कर्तृत्वम् सॊल्लुगिऱदु मायावादिसिद्धान्तम्; विज्ञानसन्ततिक्कु कर्तृत्वम् सॊल्लुगिऱदु बौद्धसिद्धान्तम्; ननु स्वाधीनकर्तृत्वाभ्युपगमत्तालेये कीऴ्च्चॊऩ्ऩ मतत्रयङ्गळ् व्यावृत्तमागादो? अदऱ्कु पराधीनत्वत्तैयुमॊप्पुक् कॊळ्ळवेण्डुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् कर्तृत्वम् स्वाधीनमॆऩ्ऩिलिति । 
+
+सर्वात्मनियन्ता वॊरुवऩॆऩ्गिऱ अर्थङ् गिडैयामैयाले इति । अन्तर्यामिब्राह्मणत्तिल् 
+
+> ‘‘य इमञ्च लोकं, परञ् च लोकं, सर्वाणि च भूतानि योऽन्तरो यमयति’’ 
+
+ऎऩ्ऱु ऒरुवऩुक्के सर्वात्मनियन्तृत्वम् सॊल्लुगिऱ श्रुत्यर्थम् घटियादागैयाले यॆऩ्गै। निरीश्वरसिद्धान्तप् पडियाम् - निरीश्वरमीमांसकसिद्धान्ततुल्यमाम्। 
+</details>
+
 
 ### ज्ञान-चिकीर्षा-प्रयत्नाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -718,6 +820,14 @@ y el **esfuerzo** de **alcanzarlos**.
 ईश्वराधीनमाग वरुम् कर्तृत्वन्दाऩुम् ज्ञातृत्वमात्रमॆऩ्ऩिल्; पुरुषार्थसंपादनरुचियुम् तदुपाय प्रवृत्तियुम् तविरप् प्रसङ्गिक्कुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रसङ्गात् कीऴ्च्चॊऩ्ऩ पराधीनकर्तृत्वस्वरूपत्तै शोधित्तु निष्कर्षिक्किऱार् ईश्वराधीनमाग वरुम् कर्तृत्वन्दाऩुमिति । 
+
+ज्ञानचिकिर्षाकृतिमत्वम् कर्तृत्वमॆऩ्ऱु स्थापिक्कप्पोगिऱवराय् मुदलिल् ज्ञातृत्वमात्रमे कर्तृत्वमॆऩ्गिऱ पक्षत्तिल् दोषमरुळिच्चॆय्गिऱार् ज्ञातृत्वमात्रमॆऩ्ऩिलित्यादिना । इच्छैयिल्लामैयाले पुरुषार्थरुचि तविर प्रसङ्गिक्कुम्; प्रयत्नाभावात् तदुपायानुष्ठानम् तविर प्रसङ्गिक्कुमॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ज्ञानमुम् अदिऩ् अवस्था-विशेषम् आऩ इच्छैयुमेय् उळ्ळदु। वेऱॊरु व्यापारम् इल्लैय् 
@@ -751,6 +861,12 @@ aparte del **conocimiento** y la forma particular de conocimiento **llamado dese
 <details><summary>मूलम्</summary>
 
 ज्ञानमुम् अदिऩवस्थाविशेषमाऩ इच्छैयुमे युळ्ळदु। वेऱॊरु व्यापारमिल्लैयॆऩ्ऩिलुम्; 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ज्ञातृत्वमुम् इच्छावत्वमुम् सेर्न्दे कर्तृत्वरूपमॆऩ्ऩिल् दूषणमरुळिच्चॆय्गिऱार् ज्ञानमुम् अदिऩवस्था विशेषमाऩ इच्छैयुमेयुळ्ळदु इत्यादिना । कर्तृत्वम् प्रवृत्तिघटितमल्लामैयाले ऒरु विधोपायानुष्ठाानमुम् फलमाऩ कैङ्कर्यानुष्ठानमुम् घटियातॆऩ्ऱु करुत्तु।
+
 </details>
 
 
@@ -817,11 +933,16 @@ conocimiento, ganas y esfuerzo
 (saber, sentir y querer).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आगैयाल् ज्ञानचिकीर्षाप्रयत्नङ्गळ् मूऩ्ऱुम् आत्मावुक्कु उण्डु।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि ज्ञानादिगळिल् प्रत्येकत्तै कर्तृत्वरूपमॆऩ्ऱालुम् उभयम् कर्तृत्वरूपमॆऩ्ऱालुम् अनिष्टम् प्रसङ्गिक्कैयाल् उत्तरोत्तरावस्थाश्रयङ्गळाऩ मूऩ्ऱैयुम् सेर्न्दे कर्तृत्वमॆऩ्ऱु कॊळ्ळ वेण्डुमागैयाले इवै मूऩ्ऱुम् जीवऩुक्कुण्डॆऩ्गिऱार् आगैयालिति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -871,6 +992,12 @@ y **es** por lo tanto una forma o estado de conocimiento.)
 इदिल् चिकीर्षाप्रयत्नङ्गळ् ज्ञानत्तिऩुडैय अवस्थाविशेषङ्गळॆऩ्ऩुमिडत्तै वेदार्थसंग्रहत् तिलरुळिच्चॆय्दलाघवयुक्तियाले कण्डुगॊळ्वदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि ज्ञानचिकीर्षा प्रयत्नङ्गळ् मूऩ्ऱुम् आत्मावुक्कुण्डॆऩ्ऱाल् ज्ञानातिरिक्तेच्छाप्रयत्नङ्गळ् इल्लै ऎऩ्गिऱ भवदीयसिद्धान्तविरोधम् वारादो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इदिल्चिकीर्षाप्रयत्नङ्गळिति । 
+
+लाघवयुक्तियाले इति । चिकीर्षाप्रयत्नङ्गळै पृथग्गुणङ्गळाग ऒप्पुक् कॊळ्ळुगिऱ नैयायिकमतत्तिलेये गौरवम्। अवैगळै अवस्था विशेषापन्नज्ञानमागवे ऒप्पुक्कॊण्डाल् लाघवमॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
 
 
 ### प्रयत्नाश्रयता
@@ -914,6 +1041,11 @@ Pero la sede (āśraya) de un esfuerzo o **empeño** (prayatna) **es** (un atrib
 क्रियाश्रयत्वरूपमाऩ कर्तृत्वम् चेतनाचेतनसाधारणम्; प्रयत्नाश्रयत्वरूपमाऩ कर्तृत्वम् चेतनैकान्तम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि ज्ञानचिकीर्षाप्रयत्नाश्रयत्वम् कर्तृत्वमॆऩ्ऱाल् ज्ञानादिशून्यङ्गळाऩ रथादिगळुक्कु कर्तृत्वम् सॊल्लुगिऱ ‘‘रथो गच्छती’’ त्यादिव्यवहारविरोधम् वारादो ऎऩ्ऩवरुळिच्चॆय्गिऱार् क्रियाश्रयत्वरूपमाऩ कर्तृत्वमित्यादिना । तथाच कर्तृत्वम् द्विविधम् क्रियाश्रयत्वमॆऩ्ऱुम् प्रयत्नाश्रयत्वमॆऩ्ऱुम्। अदिल् क्रियाश्रयत्वरूपकर्तृत्वम् चेतनाचेतनासाधारणमागैयाल् रथो गच्छतीत्याद्यचेतनकर्तृत्वव्यवहारत्तिऱ्कु ऒरुविद बाधकमिल्लै। प्रयत्नाश्रयत्वरूपकर्तृत्वम् चेतनैकान्तमामॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -947,6 +1079,12 @@ eso **es** la causa de **estimular** a uno a **ejercitar** el cuerpo (los sentid
 
 प्रयत्नमावदु शरीरादिप्रेरणहेतुवाऩ बुद्धिविशेषम्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि प्रयत्नमुम् ज्ञानरूपमॆऩ्ऱाल् अदु कीदृशज्ञानरूपम् ऎऩ्ऱु निरूपिक्कमुडियुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् प्रयत्नमावदु शरीरादीति । तथाच शरीरेन्द्रियव्यापारजनकज्ञानत्वम् प्रयत्नत्वमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -986,6 +1124,12 @@ como **es** común a los seres sintientes y a las cosas no sintientes.
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+चेतनऩुक्कु सर्वत्र प्रयत्नाश्रयत्वमे सम्भविया निऱ्क क्रियाश्रयत्वरूपकर्तृत्वत् तिऱ्कु चेतनसाधारण्यम् कूडुवदु ऎङ्ङऩे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् ज्ञानमात्रत्तुक्कु इत्यादिना । जानाति, भुङ्क्ते ऎऩ्गिऱ विडङ्गळिल् आख्यातत्तिऱ्कु आश्रयत्वमे अर्थम् कॊळ्ळ वेण्डुमागैयाल् तादृशस्थलङ्गळिल् धात्वर्थज्ञानादिरूपक्रियाश्रयत्वमुम् अर्थमागक् कॊळ्ळ वेण्डुमागैयाल् क्रियाश्रयत्वरूपकर्तृत्वम् चेतनसाधारणमागिऱदु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऒऩ्ऱैत् +++(साध्यं)+++ तऩ् बुद्धियाले उत्पादिक्कुम् बोदु  
@@ -1018,6 +1162,13 @@ y **es** un **hacedor** de esa forma particular.
 
 ऒऩ्ऱैत् तऩ् बुद्धियाले उत्पादिक्कुम्बोदु प्रयत्नाश्रयत्वरूपमाऩ कर्तृत्वम्। 
 </details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रयत्नाश्रयत्वरूपमाऩ चेतनैकान्तकर्तृत्वम् सॊल्लुमिडत्तैक् काट्टुगिऱार् ऒऩ्ऱैत् तऩ् बुद्धियाले उत्पादिक्कुम्बोदु इति । 
+</details>
+
 
 #### न कैङ्कर्यमात्रे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1055,6 +1206,12 @@ esta forma de **hacedor se encuentra** solo en **rendir** kaiṅkarya o **servic
 इप्पडिप्पट्ट कर्तृत्वम् कैङ्कर्यमात्रत्तिले यॆऩ्गैयुमुचितमऩ्ऱु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तऩ् बुद्धियाले - इच्छावस्थापन्न ज्ञानत्ताले, इप्पडिप्पट्ट इच्छापूर्वककर्तृत्वम् फलदशैयिल् कैङ्कर्यविषयत्तिल् स्वरूपानुगुणमाऩालुम् उपायविषयत्तिल् अदु स्वरूपविरुद्धमागैयाल् अदै व्रज ऎऩ्ऱु विधिक्कक्कूडुमो ऎऩ्ऱु सिलर् सॊल्लुम् शङ्गैयै परिहरिक्किऱार् इप्पडिप्पट्ट कर्तृत्वम् कैङ्कर्यमात्रत्तिले यॆऩ्गैयुमुचितमऩ्ऱु इति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गुम्, भगवत्-प्रीतिय् ऎऩ्ऱ् ऒरु प्रयोजनत्तै उद्देशित्त्  
@@ -1085,6 +1242,12 @@ con miras a **alcanzar** el fin **llamado** el amor del Señor.
 
 अङ्गुम् भगवत्प्रीतियॆऩ्ऱॊरु प्रयोजनत्तै उद्देशित्तुपायानुष्ठानम् पण्णिऩाऩायिऱे यिरुप्पदु। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उचितमागामैयै उपपादिक्किऱार् अङ्गुमिति । कैङ्कर्यमुम् भगवत्प्रीतिहेतुवागैयाले उपायमाग मुडिगैयाल् उपायकर्तृत्वम् स्वरूपविरुद्धमॆऩ्ऱु सॊल्लुबवर्गळुक्कु अदुवुम् घटियादु ऎऩ्ऱु करुत्तु।
+</details>
+
 
 ### कर्तृत्वे त्याज्यांशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1121,6 +1284,12 @@ eso **debe evitarse**.
 
 आऩबिऩ्बु कर्तृत्वत्तिल् बन्धहेतुवाऩ आकारमे त्याज्यम्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि कैङ्कर्यकर्तृत्वम्बोले उपायकर्तृत्वमुम् स्वरूपानुगुणमागिल् कर्तृत्वत्यागम् सॊल्लुगिऱ शास्त्रत्तिल्त्याज्यमागच् चॊल्लियिरुक्किऱ कर्तृत्वम् ऎदु ऎऩ्ऩ वरुळिच्चॆय्गिऱार् आऩ पिऩ्बु कर्तृत्वत्तिल् बन्धहेतुवाऩ आकारमे त्याज्यमिति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1159,6 +1328,11 @@ y también cosas como los sentidos y el cuerpo.
 <details><summary>मूलम्</summary>
 
 अदॆदॆऩ्ऩिल्; ईश्वरऩ् कॊडुत्त ज्ञानशक्त्यादिगळैयुम् करणकळेबरादिगळॆयुङ् गॊण्डु 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अन्द आकारत्तै विविच्य उपपादिक्किऱार् अदॆऩ्ऩिलित्यादिना । 
 </details>
 
 
@@ -1254,6 +1428,11 @@ el esfuerzo **conduciría** a la **esclavitud**.
 इदिले प्रयोजनान्तरत्तै यिडुक्कि अनुष्ठिक्कैयुम् बन्धकम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इव्वनुसन्धानत्तिल् तिरुत्तमुण्डेयागिलुम् - वैशद्यमुण्डेयागिलुम्, इडुक्कि - कूट्टि, प्रयोजनान्तरत्तैयुमुद्देशित्तु ऎऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1287,6 +1466,12 @@ para **asegurar** otros fines (además de mokṣa).
 
 भक्तिप्रपत्तिकळ् ताऩुम् प्रयोजनान्तरपरऩुक्कु बन्धकमायिऱे यिरुप्पदु। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऐश्वर्यकैवल्यादि प्रयोजनान्तरपरर्गळुक्कु भक्तिप्रपत्तिकळुम् बन्धकङ्गळागवे सिद्धङ्गळॆऩ्गिऱार् भक्तिप्रपत्तिकळ्दाऩुमिति । 
+</details>
+
 
 ### फलदशावत् कर्तृता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1326,6 +1511,12 @@ el **hacedor** en el estado en el que **adopta** un upāya (por el bien de mukti
 आगैयाल् स्वाभाविककैङ्कर्यार्थियाय् अनन्यप्रयोजनऩायिरुक्कुमवऩुक्कुम् फलदशैयिल् कर्तृत्वम् पोले उपायदशैयिल् कर्तृत्वमुम् विरुद्धमऩ्ऱु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि प्रयोजनान्तरार्थमाग कर्तृत्वमे त्याज्यमागैयाल् अनन्यप्रयोजनऩुक्कु कैङ्कर्यकर्तृत्वम् पोल् उपायकर्तृत्वमुम् स्वरूपानुगुणमे ऎऩ्ऱु मुडिक्किऱार् आगैयालिति । 
+</details>
+
+
 #### मुक्तौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1361,6 +1552,15 @@ La **hacedora** de diversas formas de **servicio** (al Señor) en el estado de *
 
 फलदशैयिल् विविधविचित्रकैङ्कर्यकर्तृत्वम् केवलमीश्वरेच्छावैचित्रियोडे पॊरुन्दिऩ स्वेच्छैयालेयायिरुक्कुम्।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि फलदशैयिलुळ्ळ कर्तृत्वत्तिऱ्कुम्, संसारदशैयिलुळ्ळ कर्तृत्वत्तिऱ्कुम् वासि यरुळिच्चॆय्गिऱार् फलदशैयिल् विविधविचित्रकैङ्कर्य कर्तृत्वमिति । 
+
+ईश्वरेच्छावैचित्रियोडे पॊरुन्दिऩ स्वेच्छैयाले इति ।  
+अङ्गुम् कैङ्कर्यकर्तृत्वम् स्वाच्छन्द्यत्ताले वरुमागिलुम् अदु ईश्वरानुगुणमागवे इरुक्कुमॆऩ्ऱबडि।
+</details>
+
 
 #### संसारे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1400,6 +1600,14 @@ que **han evolucionado** de acuerdo con el karma pasado y por la voluntad de Iś
 संसारदशैयिलुळ्ळ कर्तृत्वमॆल्लाम् कर्मानुरूपमाग ईश्वरऩ् परिणमिप्पित्त सत्वरजस्तमस्सुक्कळै उपाधियागक्कॊण्डु बहुविधमायिरुक्कुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+संसारदशैयिलुळ्ळ कर्तृत्वमॆल्लामिति ।  
+कैङ्कर्यकर्तृत्वमुम् उपायानुष्ठानकर्तृत्वमुम् सांसारिकव्यापारकर्तृत्वमुमॆऩ्ऱबडि।  
+बहुविधमायिरुक्कुमिति । कर्मानुगुणमाग वरुगैयालुम् रजस्तम उपाधिकङ्गळागैयालुम् इङ्गुळ्ळ कैङ्कर्यकर्तृत्वमुम् पुरुषभेदेन विचित्रमायिरुक्कुमॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदिल् रजस्सालुम्, तमस्सालुम्, प्रयोजनान्तर-सङ्ग-हेतुव् आऩ सत्त्वत्तालुं वरुं कर्तृत्वम् बन्धकम्।+++(5)+++
@@ -1431,6 +1639,12 @@ que **el hacedor conduce** a la **esclavitud**.
 
 इदिल् रजस्सालुम् तमस्सालुम् प्रयोजनान्तरसङ्गहेतुवाऩ सत्त्वत्तालुंवरुम् कर्तृत्वम् बन्धकम्।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द सांसारिककर्तृत्वङ्गळिल् बन्धककर्तृत्वत्तै विविच्य प्रदर्शिप्पिक्किऱार् इदिलित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1465,6 +1679,12 @@ ese **hacedor conduce** a mokṣa. +++(5)+++
 भगवत्प्राप्तियिले सङ्गत्तैप् पुणर्क्कुम् प्रकृष्टसत्वविशेषमडियाग वरुम् कर्तृत्वम् मोक्षकारणम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मोक्षकारणकर्तृत्वत्तै निरूपिक्किऱार् भगवत्प्राप्तियिले इत्यादिना ।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक् गुण-त्रयत्तोडु तुवक्क्-अऱ्ऱ् इरुक्कुम् मुक्त-दशैयिल् कर्तृत्वम्।
@@ -1487,7 +1707,13 @@ con cualquiera de estas tres cualidades.
 इक् गुणत्रयत्तोडु तुवक्कऱ्ऱिरुक्कुम् मुक्तदशैयिल् कर्तृत्वम्।
 </details>
 
-### कर्तृत्वाभावे विषय-व्यवस्था
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मुक्तदशैयिल् कर्तृत्वम् रजस्तम उपाधिकमल्लामैयाल् विलक्षणमॆऩ्गिऱार् इक् गुणत्रयत्तोडु इति । 
+</details>
+
+
+### कर्तृत्वाभाव-वाक्येषु विषय-व्यवस्था
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिय् इरुक्कैयाल्  
@@ -1522,6 +1748,17 @@ y en el que **no tiene autoría**.
 
 इप्पडि यिरुक्कैयाल् आत्मावुक्कु कर्तृत्वमिल्लैयॆऩ्गिऱ वाक्यङ्गळुक्कुम् कर्तृत्वमुण्डॆऩ्गिऱ वाक्यङ्गळुक्कुम् विषयव्यवस्थैयुण्डागैयाले विरोधमिल्लै।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि जीवऩुडैय कर्तृत्वत्तै बहुविधमाग निरूपिक्कैयाल् ‘‘कर्ता भोक्ता विज्ञानात्मा पुरुषः’’ ऎऩ्ऱु जीवऩुक्कु कर्तृत्वम् सॊल्लुगिऱ वाक्यङ्गळुक्कुम्, 
+
+> ‘‘न कर्तृत्वन् न कर्माणि  
+लोकस्य सृजति प्रभुः’’ 
+
+ऎऩ्ऱु जीवऩुक्कु कर्तृत्वमिल्लै यॆऩ्गिऱ वाक्यङ्गळुक्कुम् विषयव्यवस्थैयाले विरोधपरिहारम् सिद्धमागुमॆऩ्गिऱार् इप्पडियिरुक्कैयालिति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1562,21 +1799,230 @@ el **hacedor** del yo que **depende** de Iśvara y de las cualidades de prakṛt
 अदॆङ्ङऩे यॆऩ्ऩिल्; कर्तृत्वमिल्लै यॆऩ्गिऱ वाक्यङ्गळ् ईश्वराधीनमायुम् तदायत्तप्रकृतिगुणाधीनमायुम् वरुम् कर्तृत्वत्तै निरपेक्षमॆऩ्ऱु निऩैक्कलागा तॆऩ्गिऱऩ। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विरोधम् इल्लामैयै उपपादित्तुक् काट्टुगिऱार् अदॆङ्ङऩेयॆऩ्ऩिलिति ।  
+
+"कर्तृत्वम् इल्लैय्" ऎऩ्ऱु सॊल्लुगिऱ प्रमाणम्  
+जीवऩुक्कु कर्तृत्व-सामान्य-निषेध-परम् अऩ्ऱु;  
+किन्तु इवऩुडैय कर्तृत्वत्तिऱ्कु प्रकृति-गुणाधीनत्वत्तैयुम्, ईश्वराधीनत्वत्तैयुम् सॊल्लुगिऱ प्रमाणानुरोधेन  
+निरपेक्षकर्तृत्वनिषेध-परम् ऎऩ्ऱुम्,  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"कर्तृत्वम् उण्ड्" ऎऩ्गिऱ वाक्यङ्गळ् ईश्वरेच्छादिगळ् अडिय् आगवे वन्द ज्ञानत्तुक्कुम् तद्-विशेषङ्गळ् आऩ चिकीर्षा-प्रयत्नङ्गळुक्कुम्  
-इवऩे आश्रयम् ऎऩ्ऩुम् इडत्तैच् चॊल्लुगिऱऩ। 
+"कर्तृत्वम् उण्ड्" ऎऩ्गिऱ वाक्यङ्गळ्  
+ईश्वरेच्छादिगळ् अडिय् आगवे वन्द ज्ञानत्तुक्कुम्  
+तद्-विशेषङ्गळ् आऩ चिकीर्षा-प्रयत्नङ्गळुक्कुम्  
+इवऩे आश्रयम् ऎऩ्ऩुम् इडत्तैच् चॊल्लुगिऱऩ। +++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+The texts which **declare** that the self is a **doer** or agent **have**, for their purport, the truth that,  
+of the jñāna or knowledge and its particular forms called desire to perform and effort  
+which **have come** to him in accordance with such things as the desire of Iśvara, the jīva is himself the seat or āsraya. 
+</details>
+
+<details><summary>Español</summary>
+
+Los textos que **declaran** que el yo es un **hacedor** o agente **tienen**, como significado, la verdad de que,  
+del jñāna o conocimiento y sus formas particulares llamadas deseo de realizar y esfuerzo  
+que **han llegado** a él de acuerdo con cosas tales como el deseo de Iśvara, la jīva es en sí misma el asiento o āsraya.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 कर्तृत्वमुण्डॆऩ्गिऱ वाक्यङ्गळ् ईश्वरेच्छादिगळडियागवे वन्द ज्ञानत्तुक्कुम् तद्विशेषङ्गळाऩ चिकीर्षा प्रयत्नङ्गळुक्कुमिवऩे आश्रयमॆऩ्ऩुमिडत्तैच् चॊल्लुगिऱऩ। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कर्तृत्वम् उण्ड् ऎऩ्ऱु सॊल्लुम् प्रमाणम् ईश्वराधीनमाग वरुम् ज्ञानचिकीर्षाप्रयत्नरूपङ्गळाऩ कर्तृत्वम् जीवऩै आश्रयित्तिरुक्कुमॆऩ्ऱु सॊल्लुगिऱदॆऩ्ऱुम् विषयव्यवस्थै कॊण्डाल् विरोधमिल्लैयॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+#### भगवद्-उक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् निष्कर्ष-प्रकारत्तै  
+
+> (अधिष्ठानं तथा कर्ता  
+करणं च पृथग्विधम् ।  
+विविधाश्च पृथक् चेष्टा  
+दैवञ् चैवात्र पञ्चमम्॥)  
+> ‘‘शरीर-वाङ्-मनोभिर् यत्’’  
+(कर्म प्रारभते नरः।  
+न्याय्यं वा विपरीतं वा  
+**पञ्चैते तस्य +++(कर्मणो)+++ हेतवः**॥)
+
+ऎऩ्ऱु तुडङ्गि गीताचार्यऩ् ताऩे अरुदियिट्टाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+This conclusion **has been taught** clearly by the Gītācārya Himself  
+in the ślokas **beginning** with the **following** -- 
 
 
-The texts which declare that the self is a doer or agent have, for their purport, the truth that, of the jñāna or knowledge and its particular forms called desire to perform and effort which have come to him in accordance with such things as the desire of Iśvara, the jīva is himself the seat or āsraya. This conclusion has been taught clearly by the Gītācārya Himself in the ślokas beginning with the following --" It is ascertained that when a man does any action with his body, speech or mind, there are five causes that contribute to that action, viz, the body, the self, the senses, the vital breath and fifthly Divinity or daivam In that context the Divinity that is called the fifth (cause) is Puruṣottama. When Puruṣottama stimulates the jīva to perform in action, He is called the kārayitā or one who causes that action, He is (also ) called the kartā or doer in regard to those actions like the awarding of the fruit ( to the jīva) and the creation of the world. When He does not prevent the sentient being from performing an action, He is said to be indifferent. Since he permits it, He is said to be anumantā (i.e.) one who acquiesces. As Iśvara, sometimes, acts like an expert porter who carries a heavy weight to help an apprentice who can carry only a light burden, He is also said to co-operate (with the jīva ) (sahakārī). In such things as the
+> "It **is ascertained** that  
+when a man **does** any **action** with his body, speech or mind,  
+there **are** five causes that **contribute** to that action,  
+> viz, the body, the self, the senses, the vital breath and fifthly Divinity or daivam.  
+</details>
+
+<details><summary>Español</summary>
+
+Esta conclusión **ha sido enseñada** claramente por el propio Gītācārya.  
+en los ślokas **comenzando** con lo **siguiente** --
+
+> "**Se constata** que  
+cuando un hombre **hace** cualquier **acción** con su cuerpo, palabra o mente,  
+**hay** cinco causas que **contribuyen** a esa acción,  
+> a saber, el cuerpo, el yo, los sentidos, el aliento vital y en quinto lugar la Divinidad o daivam.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन् निष्कर्षप्रकारत्तै ‘‘शरीरवाङ्मनोभिर्यत्’’ ऎऩ्ऱु तुडङ्गि गीताचार्यऩ् ताऩे अरुदियिट्टाऩ्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन् निष्कर्षप्रकारम् गीतैयिल् सॊल्लप्पट्ट तॆऩ्गिऱार् इन् निष्कर्षप्रकारत्तै इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्
+
+> ‘‘दैवञ् चैवात्र पञ्चमम्’’  
+
+ऎऩ्ऱु पुरुषोत्तमऩैच् चॊल्लुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+In that context the Divinity that **is called** the fifth (cause) **is** Puruṣottama.  
+</details>
+
+<details><summary>Español</summary>
+
+En ese contexto la Divinidad que **se llama** la quinta (causa) **es** Puruṣottama.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इ(अ)व्विडत्तिल् ‘‘दैवञ् चैवात्र पञ्चमं’’ ऎऩ्ऱु पुरुषोत्तमऩैच् चॊल्लुगिऱदु। 
+</details>
+
+### ईश्वर-कर्तृता-प्रकाराः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩ् जीवऩैय्  
+ऒरु कार्यत्तिल् प्रवर्तिप्पिक्कुम् बोदु  
+इक् कार्यत्तैप् पऱ्ऱ "कारयिताव्" ऎऩ्ऱु सॊल्लप्पडुम्, 
+</details>
+
+<details><summary>English</summary>
+
+When Puruṣottama **stimulates** the jīva to **perform** in action,  
+He **is called** the kārayitā or one who **causes** that action, 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando Puruṣottama **estimula** a la jīva para **realizar** acción,  
+Él **se llama** el kārayitā o aquel que **causa** esa acción,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩ् जीवऩैयॊरु कार्यत्तिल् प्रवर्तिप्पिक्कुम्बोदु इक् कार्यत्तैप्पऱ्ऱ कारयितावॆऩ्ऱु सॊल्लप्पडुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताऩे प्रवर्तिक्कुम् फल-प्रदानादिगळिलुम्, सृष्ट्य्-आदिगळिलुम् कर्ताव् ऎऩ्ऱु सॊल्लप्-पडुम्, 
+</details>
+
+<details><summary>English</summary>
+
+He is (also ) **called** the kartā or **doer**  
+in regard to those actions like the **awarding** of the fruit ( to the jīva)  
+and the **creation** of the world. 
+</details>
+
+<details><summary>Español</summary>
+
+Él es (también) **llamado** el karta o **hacedor**  
+con respecto a aquellas acciones como la **concesión** del fruto (a la jīva)  
+y la **creación** del mundo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ताऩे प्रवर्तिक्कुम् फलप्रदानादिगळिलुम् सृष्ट्यादिगळिलुम् कर्तावॆऩ्ऱु सॊल्लप्पडुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऒऩ्ऱिले प्रवृत्तऩ् आऩ चेतनऩै  
+विलक्कादव् अळविल् **उपेक्षकऩ्**; 
+</details>
+
+<details><summary>English</summary>
+
+When He **does not prevent** the sentient being from **performing** an action,  
+He **is said** to **be indifferent**. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando Él **no impide** que el ser sintiente **realice** una acción,  
+Él **se dice** que **es indiferente**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऒऩ्ऱिले प्रवृत्तऩाऩ चेतनऩै विलक्कादवळविल् उपेक्षकऩ्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोद् इसैन्द् इरुक्कैयाले अनुमन्ता; 
+</details>
+
+<details><summary>English</summary>
+
+Since he **permits** it,  
+He **is said to be** anumantā (i.e.)  
+one who **acquiesces**. 
+</details>
+
+<details><summary>Español</summary>
+
+Since he **permits** it,  
+Él **se dice que** es anumantā (es decir)  
+one who **acquiesces**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदिसैन्दिरुक्कैयाले अनुमन्ता; 
+</details>
+
+
+As Iśvara, sometimes, acts like an expert porter who carries a heavy weight to help an apprentice who can carry only a light burden, He is also said to co-operate (with the jīva ) (sahakārī). In such things as the
 
 creation (of the world), since differences like gods and men are due to the conditioning factor (upādhi) of their respective past karma, Iśvara is declared not to be the doer as stated in the śloka: "The four castes were created by me in accordance with such qualities as sattva that are found in jīvas and also with their past karma . Though I perform the act of creation, I am not the real cause nor am I tainted by it." Thus from Iśvara who has the common and general doership of all things without exception, the jīva acquires the power to make an effort and act in accordance with his own will. Therefore it is evident that the jīva is fit to be directed to do a thing and the word vraja may justly enjoin the performance of an action.
 
