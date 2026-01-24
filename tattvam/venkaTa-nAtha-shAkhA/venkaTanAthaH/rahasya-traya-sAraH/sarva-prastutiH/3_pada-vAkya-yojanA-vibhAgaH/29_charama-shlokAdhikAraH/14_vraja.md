@@ -2010,9 +2010,9 @@ one who **acquiesces**.
 
 <details><summary>Español</summary>
 
-Since he **permits** it,  
-Él **se dice que** es anumantā (es decir)  
-one who **acquiesces**.
+Ya que él lo **permite**,  
+Él **se dice que** es "anumantā" (es decir)  
+aquel que **acepta**.
 </details>
 
 
@@ -2022,9 +2022,120 @@ one who **acquiesces**.
 </details>
 
 
-As Iśvara, sometimes, acts like an expert porter who carries a heavy weight to help an apprentice who can carry only a light burden, He is also said to co-operate (with the jīva ) (sahakārī). In such things as the
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-creation (of the world), since differences like gods and men are due to the conditioning factor (upādhi) of their respective past karma, Iśvara is declared not to be the doer as stated in the śloka: "The four castes were created by me in accordance with such qualities as sattva that are found in jīvas and also with their past karma . Though I perform the act of creation, I am not the real cause nor am I tainted by it." Thus from Iśvara who has the common and general doership of all things without exception, the jīva acquires the power to make an effort and act in accordance with his own will. Therefore it is evident that the jīva is fit to be directed to do a thing and the word vraja may justly enjoin the performance of an action.
+इळन्दलै सुमक्कुम् अवऩुक्कु  
+प्रबलऩ् पॆरुन्दलै+++(=संमिश्र्य)+++ सुमक्कुमाप् पोले  
+कूडप् प्रवर्तिक्कैयाले सह-कारि । 
+</details>
+
+<details><summary>English</summary>
+
+As Iśvara, sometimes, **acts** like an expert porter  
+**who carries** a heavy weight to **help** an apprentice  
+who **can carry** only a light burden,  
+He **is** also **said** to **co-operate** (with the jīva ) (sahakārī). 
+</details>
+
+<details><summary>Español</summary>
+
+Como Iśvara, a veces, **actúa** como un **porteador** experto  
+**que lleva** un gran peso para **ayudar** a un aprendiz  
+que **sólo puede llevar** una carga ligera,  
+Él también **se dice** que **coopera** (con la jīva) (sahakārī).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इळन्दलै सुमक्कुमवऩुक्कु प्रबलऩ् पॆरुन्दलै सुमक्कुमाप्पोले कूडप् प्रवर्तिक्कैयाले सहकारि । 
+</details>
+
+
+#### शरीरभेदे न कर्तृता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सृष्ट्य्-आदिगळिल्  
+देव-मनुष्यादि-वैषम्यं जीव-कर्म-विशेषोपाधिकम् आगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+In such things as the **creation** (of the world),  
+since differences like gods and men **are** due to the conditioning factor (upādhi) of their respective past karma, 
+</details>
+
+<details><summary>Español</summary>
+
+En cosas tales como la **creación** (del mundo),  
+ya que las diferencias como dioses y hombres **se se deben** al factor **condicionante** (upādhi) de su respectivo karma pasado,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सृष्ट्यादिगळिल् देवमनुष्यादिवैषम्यम् जीवकर्मविशेषोपाधिकमागैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १०५‘‘चातुर्वर्ण्यं मया सृष्टं  
+गुण-कर्म-विभागशः ।  
+तस्य कर्तारम् अपि मां  
+विद्ध्य् अ-कर्तारम् अव्ययम्॥’’  
+(गीता ४-१३) 
+
+ऎऩ्ऱु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १०५‘‘चातुर्वर्ण्यं मया सृष्टं  
+गुण-कर्म-विभागशः ।  
+तस्य कर्तारम् अपि मां  
+विद्ध्य् अ-कर्तारम् अव्ययम्॥’’  
+(गीता ४-१३) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+as **stated** in the śloka:  
+
+> "The four castes **were created** by me  
+in accordance with such qualities as sattva  
+that **are found** in jīvas  
+and also with their past karma .  
+Though I **perform** the act of **creation**,  
+I **am not** the real cause  
+**nor am I tainted** by it." 
+</details>
+
+<details><summary>Español</summary>
+
+como **indica** en el śloka:  
+
+> "Las cuatro castas **fueron creadas** por mí  
+de acuerdo con cualidades tales como sattva  
+que **se encuentran** en jīvas  
+y también con su karma pasado.  
+Aunque **realizo** el acto de **creación**,  
+Yo **no soy** la verdadera causa  
+**ni estoy contaminado** por eso."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१०५‘‘चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः । तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम्’’ (गीता ४-१३) ऎऩ्ऱु
+</details>
+
+
+Iśvara is declared not to be the doer 
+
+Thus from Iśvara who has the common and general doership of all things without exception, the jīva acquires the power to make an effort and act in accordance with his own will. Therefore it is evident that the jīva is fit to be directed to do a thing and the word vraja may justly enjoin the performance of an action.
 
 
 
