@@ -2133,41 +2133,503 @@ Yo **no soy** la verdadera causa
 </details>
 
 
-Iśvara is declared not to be the doer 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Thus from Iśvara who has the common and general doership of all things without exception, the jīva acquires the power to make an effort and act in accordance with his own will. Therefore it is evident that the jīva is fit to be directed to do a thing and the word vraja may justly enjoin the performance of an action.
+ईश्वरऩुक्कु कर्तृत्व-निषेधम् पण्णुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+Iśvara is declared not to be the doer. 
+</details>
+
+<details><summary>Español</summary>
+
+**Se declara** que Iśvara **no es** el hacedor.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Since the dharma called śaraṇāgati can rightly be enjoined for performance, just like such things as bhakti, the statement of Tirukkurukai Piran Pillan (the foremost of the disciples of Śrī Rāmānuja) that the good we do for ourselves is like milk that is bought (in the market) and that the good that comes from Iśvara is like mother's milk should be understood to mean that we should remember that bhakti, prapatti and the like result (from the grace of) God and that the jīva is solely dependent (on Iśvara). (It does not mean that we are not right in performing bhakti or prapatti and should leave everything to God.)
+ईश्वरऩुक्कु कर्तृत्वनिषेधम् पण्णुगिऱदु। 
+</details>
 
 
+### ईश्वर-दत्त-स्वातन्त्र्यांशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि सर्व-विषय-साधारण- कर्तृत्वम्-उडैय ईश्वरऩ्-अडिय्-आग  
+
+जीवऩुक्कु +++(5)+++स्व--बुद्धि-पूर्व-प्रवृत्ति- शक्ति-रूपम् आऩ  
+नियोग-योग्यत्वम् सिद्धम् आगैयाले  
+इङ्गु ‘‘व्रज’’ ऎऩ्ऱु विधिक्कक् कुऱैय् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Thus from Iśvara who **has** the common and general **doership** of all things without exception,  
+the jīva **acquires** the power to **make** an effort and **act** in accordance with his own will.  
+
+Therefore it **is evident** that  
+the jīva **is fit** to **be directed** to **do** a thing  
+and the word "vraja" may justly **enjoin** the **performance** of an action.
+</details>
+
+<details><summary>Español</summary>
+
+Así, de Iśvara quien **tiene** la **autoría** común y general de todas las cosas sin excepción,  
+la jīva **adquiere** el poder de **hacer** un esfuerzo y **actuar** de acuerdo con su propia voluntad.  
+
+Por lo tanto **es evidente** que  
+la jīva **es apta** para **ser dirigida** a **hacer** una cosa  
+y la palabra "vraja" puede justamente **prohibir** la **realización** de una acción.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सर्वविषयसाधारण कर्तृत्वमुडैय ईश्वरऩडियाग जीवऩुक्कु स्वबुद्धिपूर्वप्रवृत्ति शक्तिरूपमाऩ नियोगयोग्यत्वम् सिद्धमागैयाले इङ्गु ‘‘व्रज’’ ऎऩ्ऱु विधिक्कक्कुऱैयिल्लै। 
+</details>
+
+
+### कूरेश-वाक्यार्थः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि भक्त्य्-आदिगळ् पोले  
+शरणागति धर्ममुम् कर्तव्यम् आग विधिक्कप् पडुगैयाल् 
+</details>
+
+<details><summary>English</summary>
+
+Since the dharma **called** śaraṇāgati can rightly **be enjoined** for **performance**,  
+just like such things as bhakti,  
+</details>
+
+<details><summary>Español</summary>
+
+Dado que el dharma **llamado** śaraṇāgati **puede** con razón **ser ordenado** para **ejecución**,  
+al igual que cosas como el bhakti,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि भक्त्यादिगळ् पोले शरणागति धर्ममुम् कर्तव्यमाग विधिक्कप्पडुगैयाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’तऩ्ऩाल् वरुम् नऩ्मै विलैप्-पाल्-पोले,  
+ईश्वरऩाल् वरुम् नऩ्मै मुलैप्-पाल्-बोले’’ 
+
+ऎऩ्ऱु पिळ्ळाऩ्-वार्तैक्कु 
+</details>
+
+<details><summary>English</summary>
+
+the statement of Tirukkurukai Piran Pillan (the foremost of the disciples of Śrī Rāmānuja) that  
+
+> the good **we do** for ourselves is like milk that **is bought** (in the market)  
+and that the good that **comes** from Iśvara  
+**is** like mother's milk 
+
+</details>
+
+<details><summary>Español</summary>
+
+la **declaración** de Tirukkurukai Piran Pillan (el más destacado de los discípulos de Śrī Rāmānuja) de que  
+
+> el bien **que hacemos** por nosotros mismos es como la leche que **se compra** (en el mercado)  
+y que el bien que **viene** de Iśvara  
+**es** como la leche materna
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’तऩ्ऩाल् वरुम् नऩ्मै विलैप्पाल् पोले, ईश्वरऩाल् वरुम् नऩ्मै मुलैप्पाल्बोले’’ ऎऩ्ऱु पिळ्ळाऩ् वार्तैक्कु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> भक्ति-प्रपत्त्य्-आदिगळ् ऎल्लाम्  
+अवऩाले वरुगिऱद् 
+>
+> ऎऩ्ऱु निऩैक्क वेणुम् 
+
+ऎऩ्ऱु  
+तऩ्ऩ्-उडैय पराधीन-कर्तृत्वत्तिले तात्पर्यम्।
+</details>
+
+<details><summary>English</summary>
+
+**should be understood to mean** that  
+we **should remember** that  
+bhakti, prapatti and the like **result** from (the grace of) God  
+and that the jīva is solely **dependent** (on Iśvara). 
+
+(It **does not mean** that **we are not right** in **performing** bhakti or prapatti  
+and **should leave** everything to God.)
+
+</details>
+
+<details><summary>Español</summary>
+
+**debe entenderse en el sentido** de que  
+**debemos recordar** que  
+bhakti, prapatti y similares **resultado** de (la gracia de) Dios  
+y que la jīva es únicamente **dependiente** (de Iśvara).
+
+(Esto **no significa** que **no estemos bien** al **realizar** bhakti o prapatti,  
+y **debemos dejar** todo en manos de Dios.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भक्तिप्रपत्त्यादिगळॆल्लाम् अवऩाले वरुगिऱदॆऩ्ऱु निऩैक्कवेणुमॆऩ्ऱु तऩ्ऩुडैय पराधीनकर्तृत्वत्तिले तात्पर्यम्।
+</details>
+
+
+## भक्तिर् अप्य् उपायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्य+++(→प्रपत्ति)+++-**विश्वास-सिद्ध्य्**-अर्थं  
+**भक्त्य्-उपाय-विधिं वदन्** ।   
+सर्व-शास्त्रेष्व् अ-विश्वासम्  
+**आधत्ते** मुख-भेदतः ॥   
+</details>
+
+<details><summary>English</summary>
+
+He who **states** that the texts which **declare** bhakti to be an upāya  
+**are** only for the purpose of **creating** faith in prapatti  
+**is undermining** faith in every śāstra  
+**without directly appearing** to do so.
+</details>
+
+<details><summary>Español</summary>
+
+Aquel que **afirma** que los textos que **declaran** que bhakti es un upāya  
+**son** sólo con el propósito de **crear** fe en prapatti  
+**está socavando** la fe en cada śāstra  
+**sin aparecer** directamente para **hacerlo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+*अन्यविश्वाससिद्ध्यर्थं भक्त्युपायविधिं वदन् ।   
+सर्वशास्त्रेष्वविश्वासमाधत्ते मुखभेदतः ॥   
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अन्यविश्वाससिद्ध्यर्थं भक्त्युपायविधिं वदन् ।  
-सर्वशास्त्रेष्वविश्वासमाधत्ते मुखभेदतः ॥  
-मद्योपहतपात्रस्थतीर्थदृष्टान्तवर्णनम् ।  
-अहङ्कारान्वये तु स्यात् प्रपत्तावपि भक्तिवत् ॥
+मद्योपहत-पात्र-**स्थ**-  
+तीर्थ-**दृष्टान्त-वर्णनम्** ।  
+अहङ्-कारान्वये तु **स्यात्**  
+प्रपत्ताव् अपि भक्तिवत् ॥
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मद्योपहत-पात्र-**स्थ**-  
+तीर्थ-**दृष्टान्त-वर्णनम्** ।  
+अहङ्-कारान्वये तु **स्यात्**  
+प्रपत्ताव् अपि भक्तिवत् ॥
+</details>
+
+<details><summary>English</summary>
+
+Bhakti as an upāya **has been compared** (by some critics of it)  
+to "water from a sacred river  
+**contained** in a pitcher  
+but **mingled** with a drop of liquor". 
+
+But this **comparison** or simile **would hold good**  
+only when egoism **is mingled** with (bhakti ).  
+The same **condemnation would hold good** in the case of prapatti also,  
+when it **is mingled** with egoism or ahankāra.
+</details>
+
+<details><summary>Español</summary>
+
+Bhakti como upāya **ha sido comparado** (por algunos críticos)  
+al "agua de un río sagrado  
+**contenido** en una jarra  
+pero **mezclado** con una gota de licor". 
+
+Pero esta **comparación** o símil **sería válida**  
+sólo cuando el egoísmo **se mezcla** con (bhakti).  
+
+La misma **condena sería válida** también en el caso de prapatti,  
+cuando **está mezclado** con egoísmo o ahankāra.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-अन्यविश्वाससिद्ध्यर्थं भक्त्युपायविधिं वदन् ।  
-सर्वशास्त्रेष्वविश्वासमाधत्ते मुखभेदतः ॥  
 मद्योपहतपात्रस्थतीर्थदृष्टान्तवर्णनम् ।  
 अहङ्कारान्वये तु स्यात् प्रपत्तावपि भक्तिवत् ॥
 </details>
 
-He who states that the texts which declare bhakti  to be an upāya are only for the purpose of creating faith in prapatti is undermining faith in every śāstra without directly appearing to do so.
+## प्रपत्तिमात्रं नापराधः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> ‘‘प्रसीद मद्-वृत्तम् अ-चिन्तयित्वा’’(आळवन्दार्-स्तोत्रम् ६५) 
+
+इत्य्-आदिगळ् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रसीद मद्-वृत्तम् अ-चिन्तयित्वा’’(आळवन्दार्-स्तोत्रम् ६५) 
+</details>
+
+<details><summary>English</summary>
+
+In the following śloka 
+
+> "In **consideration** of my grandfather, Nāthamuni,  
+and **ignoring** what I myself **have done**,  
+**vouchsafe** unto me Thy grace." 
+</details>
+
+<details><summary>Español</summary>
+
+En el siguiente śloka 
+
+> "En **consideración** de mi abuelo, Nāthamuni,  
+y **ignorando** lo que yo mismo **he hecho**,  
+**concédeme** Tu gracia."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘प्रसीद मद्वृत्तमचिन्तयित्वा’’(आळवन्दार्-स्तोत्रम् ६५) इत्यादिगळ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मुऩ्बु ताऩ् पण्णिऩ प्रपत्तिक्कु क्षमै कॊळ्ळुगिऱ बडि 
+
+यॆऩ्ऱु सिलर् सॊल्लुम् अदुवुम्  
+
+अहङ्-कार-स्पर्शादि-शङ्कैयैप् पऱ्ऱव् आम् अत्तऩै।
+</details>
+
+<details><summary>English</summary>
+
+It **is stated** by some that  
+Aḷavandār **begs** forgiveness for having performed prapatti. 
+
+Here Aḷavandār **is seeking pardon** for any trace af egoism (ahaṅkāra) that **might have been present** in him  
+and no more than that. 
+</details>
+
+<details><summary>Español</summary>
+
+Algunos **afirman** que  
+Aḷavandār **pide** perdón por haber realizado prapatti. 
+
+Aquí Aḷavandār **está buscando perdón** por cualquier rastro de egoísmo (ahaṅkāra) que **podría haber estado presente** en él  
+y nada más que eso.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुऩ्बु ताऩ् पण्णिऩ प्रपत्तिक्कु क्षमै कॊळ्ळुगिऱबडि यॆऩ्ऱु सिलर् सॊल्लुमदुवुम् अहङ्कारस्पर्शादिशङ्कैयैप् पऱ्ऱवामत्तऩै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु यथा-शास्त्रम् अनुष्ठित्त प्रपत्ति  
+अपराधम् आय्  
+अदुक्कु क्षमै कॊळ्ळुगिऱ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+He **is not seeking pardon** for the prapatti which he **performed** in accordance with the Śāstras,  
+on the ground that the **performance was an offence**.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Él **no busca perdón** por el prapatti que **realizó** de acuerdo con los Śāstras,  
+sobre la base de que la **desempeño fue un delito**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लदु यथाशास्त्रमनुष्ठित्त प्रपत्ति अपराधमाय् अदुक्कु क्षमै कॊळ्ळुगिऱबडियऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडिय् आगिल्  
+
+> ‘‘पितामहं नाथमुनिं विलोक्य  
+प्रसीद’’ 
+
+ऎऩ्गिऱ पूर्वाचार्य-पुरस्-कारादिगळुम्  
+ताऩ् सॆय्गिऱद् आगैयाले  
+इदुक्कु क्षमै कॊळ्ळ वेण्डिय्  
+अनवस्थैयाम्। +++(५ ←क्षमा-याचने क्षमा-याचनम्, तस्मिन्नपीत्यादि …)+++ 
+</details>
+
+<details><summary>English</summary>
+
+If it **were** for having **performed** prapatti,  
+he **should beg** the **pardon** (of the Lord)  
+for **having shown reverence** to previous ācāryas,  
+for this, too, **would be an offence**,  
+**being an action** of his.  
+
+Thus there **would be** no end to the **making of apologies** (anavasthā (i.e.) infinite regress). +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+Si **fuera** por **haber realizado** prapatti,  
+
+él **debería rogar** el **perdón** (del Señor)  
+por **haber mostrado reverencia** a ācāryas anteriores,  
+porque esto también **sería una ofensa**,  
+**siendo una acción** suya.  
+
+Por lo tanto, **no habría** fin a la **presentación de disculpas** (anavasthā, es decir, regresión infinita). +++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडियागिल् ‘‘पितामहं नाथमुनिं विलोक्य प्रसीद’’ ऎऩ्गिऱ पूर्वाचार्यपुरस्कारादिगळुम् ताऩ् सॆय्गिऱदागैयाले इदुक्कु क्षमै कॊळ्ळवेण्डियनवस्थैयाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु +++(क्षमा-याचनम्)+++ स्व-पर-निर्वाहकम् आगिल्  
+इदु बोले मुऩ्बु पण्णिऩ प्रपदनमुम्  
+स्व-पर-निर्वाहकम् ऎऩ्ऩल् आम्।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If it **is argued** that this second **begging** of **forgiveness**  
+**is** both for itself and for other offences,  
+it might also **be argued** that  
+the previous **performance** of prapatti **is** also **begging forgiveness** for that action and for previous actions. +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+Si **se argumenta** que esta segunda **solicitud** de **perdón**  
+**es** tanto para sí mismo como para otros delitos,  
+También se podría **argumentar** que  
+la **actuación** anterior de prapatti **es** también **pedir perdón** por esa acción y por acciones anteriores. +++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु स्वपरनिर्वाहकमागिल् इदुबोले मुऩ्बु पण्णिऩ प्रपदनमुम् स्वपरनिर्वाहकमॆऩ्ऩलाम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु सॊल्लुम् कु-तर्कङ्गळाले  
+पूर्वर्गळ् पण्णिऩ प्रपत्तियुम् अपराधम् आयऱुगैयाले  
+पूर्वर्गळै मुऩ्ऩ्-इडवुम् ऒण्णाद् ऒऴियुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If these fallacious **arguments were adopted**,  
+it **would follow** that the ancients, too, **sinned** in **performing** prapatti  
+and that it **was not proper** to show **reverence** to them. 
+</details>
+
+<details><summary>Español</summary>
+
+Si estos **argumentos falaces fueran adoptados**,  
+**se deduciría** que los antiguos también **pecaron** al **realizar** prapatti.  
+y que **no era apropiado mostrarles reverencia**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सॊल्लुम् कुतर्कङ्गळाले पूर्वर्गळ् पण्णिऩ प्रपत्तियुमपराधमायऱु कैयाले पूर्वर्गळै मुऩ्ऩिडवुमॊण्णादॊऴियुम्। 
+</details>
+
+### आचार्य-पुरस्कार-हेतुः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्, इस् स्तोत्रत्तिल् आद्य्-अन्तङ्गळिल् पण्णिऩ आचार्य-पुरस्कारम्  
+इङ्ग् अरुळिच् चॆय्गिऱ प्रपत्तिक्क् अपेक्षितम् आय् आदल्,  
+वैकल्य-परिहारार्थम् आय् आदल्  
+उपयुक्तम् आय् वन्दद् इत्तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+So the **reverence shown** in this stotra (by Aḷavandār) (to his grandfather etc,) at the beginning and at the end  
+**is** either for the purpose of **satisfying** the **requirements** of the prapatti **done** here  
+or for **removing** any **defects** in the **performance**. 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces la **reverencia mostrada** en este stotra (por Aḷavandār) (a su abuelo, etc.) al principio y al final  
+**es** ya sea con el propósito de **satisfacer** los **requisitos** del prapatti **hecho** aquí  
+o para **eliminar** cualquier **defecto** en el **rendimiento**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इस् स्तोत्रत्तिल् आद्यन्तङ्गळिल् पण्णिऩ आचार्य पुरस्कारम् इङ्गरुळिच्चॆय्गिऱ प्रपत्तिक्कपेक्षितमायादल् वैकल्य परिहारार्थमायादल् उपयुक्तमाय् वन्ददित्तऩै। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् आचार्य-पुरस्-कारत्तिऱ् पोले  
+प्रपत्त्य्-आदिगळिलुम् पराधीन-कर्तत्वम् दोषम् अऩ्ऱु। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+As in this **reverence shown** to āchāryas, in prapatti and the like also,  
+the **doership** that **is subject** to the will of another (viz Iśvara ) **is no fault**. 
+</details>
+
+<details><summary>Español</summary>
+
+Como en esta **reverencia mostrada** a los āchāryas, en prapatti y similares también,  
+el **hacedor** que **está sujeto** a la voluntad de otro (a saber, Iśvara) **no es culpa**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वाचार्यपुरस्कारत्तिऱ्पोले प्रपत्त्यादिगळिलुम् पराधीनकर्तत्वम् दोषमऩ्ऱु। 
+</details>
 
 
 
-Bhakti as an upāya has been compared (by some critics of it) " to water from a sacred river contained in a pitcher but mingled with a drop of liquor". But this comparison or simile would hold good only when egoism is mingled with (bhakti ). The same condemnation would hold good in the case of prapatti also, when it is mingled with egoism or ahankāra.
 
-
-
-It is stated by some that Aḷavandār begs, in the following śloka, forgiveness for having performed prapatti - "In consideration* of my grandfather, Nāthamuni, and ignoring what I myself have done, vouchsafe unto me Thy grace." Here Aḷavandār is not seeking pardon for the prapatti which he performed in accordance with the Śāstras, on the ground that the performance was an offence. He is seeking pardon for any trace af egoism (ahaṅkāra) that might have been present in him and no more than that. If it were for having performed prapatti, he should beg the pardon (of the Lord) for having shown reverence to previousācāryas, for this, too, would be an offence, being an action of his. Thus there would be no end to the making of apologies (anavasthā (i.e.) infinite regress). If it is argued that this second begging of forgiveness is both for itself and for other offences, it might also be argued that the previous performance of prapatti is also begging forgiveness for that action and for previous actions. If these fallacious arguments were adopted, it would follow that the ancients, too, sinned in performing prapatti and that it was not proper to show reverence to them. So the reverence shown in this stotra (by Aḷavandār) (to his grandfather etc,) at the beginning and at the end is either for the purpose of satisfying the requirements of the prapatti done here or for removing any defects in the performance. As in this reverence shown to āchāryas, in prapatti and the like also, the doership that is subject to the will of another (viz Iśvara ) is no fault. There is a (wrong ) view that since the doership of the jīva is subject (to the will of Iśvara ), the self has no real doership and therefore if a man knows this real nature of his (that he is not a doer), none of the forbidden actions that might be performed by him will leave any stain on him. This view finds its refutation (also in what has been said so far.)
+There is a (wrong ) view that since the doership of the jīva is subject (to the will of Iśvara ), the self has no real doership and therefore if a man knows this real nature of his (that he is not a doer), none of the forbidden actions that might be performed by him will leave any stain on him. This view finds its refutation (also in what has been said so far.)
 
 In the Upaniṣads, it is stated that the aspirant to mukti should be like a child. Some writers argue from this that he might act just as he pleases (doing even forbidden things). 'Being like a child' means 'remaining without revealing his "greatness' and this is established in the sūtra “Without revealing his greatness) for this fits in with the vidyā” (and not behaving in a childish manner.)
 
