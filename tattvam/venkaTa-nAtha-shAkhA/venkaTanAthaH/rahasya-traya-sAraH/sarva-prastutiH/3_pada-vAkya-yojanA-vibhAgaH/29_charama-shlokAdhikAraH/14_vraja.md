@@ -2626,10 +2626,55 @@ el **hacedor** que **está sujeto** a la voluntad de otro (a saber, Iśvara) **n
 इव्वाचार्यपुरस्कारत्तिऱ्पोले प्रपत्त्यादिगळिलुम् पराधीनकर्तत्वम् दोषमऩ्ऱु। 
 </details>
 
+## निषिद्ध-कर्मालेपो न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि 
+
+> पराधीन-कर्तृत्वम् प्रामाणिकम् आगैयाले  
+आत्मावुक्कु कर्तृत्वम् इल्लामैयाले  
+स्वरूपन् तॆळिन्द्-अवऩै निषिद्ध-कर्मङ्गळ् ऒऩ्ऱुम् लेपियाद् 
+
+ऎऩ्गिऱ पक्षमुम् निरस्तम्।
+</details>
+
+<details><summary>English</summary>
+
+There **is** a (wrong ) **view** that 
+
+> since the **doership** of the jīva **is subject** (to the will of Iśvara ),  
+the self **has no** real **doership**  
+and therefore if a man **knows** this real nature of his (that he **is not** a **doer**),  
+**none** of the **forbidden** actions that **might be performed** by him  
+**will leave** any stain on him.  
+
+This **view finds** its **refutation**  
+(also in what **has been said** so far.)
+</details>
+
+<details><summary>Español</summary>
+
+**Hay** una **vista** (incorrecta) que 
+
+> dado que el **hacedor** de la jīva **está sujeto** (a la voluntad de Iśvara),  
+el yo **no tiene** real **hacedor**  
+y por lo tanto, si un hombre **conoce** esta verdadera naturaleza suya (que **no es** un **hacedor**),  
+**ninguna** de las acciones **prohibidas** que **podría realizar** él  
+**dejará** cualquier mancha en él.  
+
+Esta **visión encuentra** su **refutación**  
+(también en lo que **se ha dicho** hasta ahora).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि पराधीनकर्तृत्वम् प्रामाणिकमागैयाले आत्मावुक्कु कर्तृत्वमिल्लामैयाले स्वरूपन् तॆळिन्दवऩै निषिद्धकर्मङ्गळॊऩ्ऱुम् लेपियादॆऩ्गिऱ पक्षमुम् निरस्तम्।
+</details>
 
 
 
-There is a (wrong ) view that since the doership of the jīva is subject (to the will of Iśvara ), the self has no real doership and therefore if a man knows this real nature of his (that he is not a doer), none of the forbidden actions that might be performed by him will leave any stain on him. This view finds its refutation (also in what has been said so far.)
+
 
 In the Upaniṣads, it is stated that the aspirant to mukti should be like a child. Some writers argue from this that he might act just as he pleases (doing even forbidden things). 'Being like a child' means 'remaining without revealing his "greatness' and this is established in the sūtra “Without revealing his greatness) for this fits in with the vidyā” (and not behaving in a childish manner.)
 
