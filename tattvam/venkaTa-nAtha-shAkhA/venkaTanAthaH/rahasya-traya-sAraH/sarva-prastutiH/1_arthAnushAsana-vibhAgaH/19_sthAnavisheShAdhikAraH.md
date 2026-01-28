@@ -1950,6 +1950,12 @@ Por lo tanto, como **se indica** en el Śloka:-
 अन्यकालत्तिल् कीऴ्च्चॊऩ्ऩ विशेषम् वाराद् ऎऩ्ऱु ज्ञापिक्कप्पट्टदु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+"""
+"""
+"""
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
