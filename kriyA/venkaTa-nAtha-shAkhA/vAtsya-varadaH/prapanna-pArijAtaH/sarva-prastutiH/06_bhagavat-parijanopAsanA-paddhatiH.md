@@ -688,7 +688,7 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् यद् **विभूतिमत्** सत्त्वं  
+> यद् यद् **विभूतिमत्** सत्त्वं  
 श्रिया जुष्टं विशेषतः  
 राग-द्वेष-विहीनं तु  
 स्वतो बलवद् उल्बणम् ।  
@@ -733,7 +733,7 @@ Such persons as these, who are governed by Divine manifestation, are all of them
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**आविष्ट-मात्रास्** ते सर्वे  
+> **आविष्ट-मात्रास्** ते सर्वे  
 **कार्यार्थम्** अमित-द्युते ।  
 **अनर्च्याः** सर्व एवैते  
 विरुद्धत्वान् महामते ! ।  
@@ -754,7 +754,7 @@ Such persons as these, who are governed by Divine manifestation, are all of them
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**अहङ्कृति-युताश्** चैते  
+> **अहङ्कृति-युताश्** चैते  
 जीव-मिश्रा ह्य् अधिष्ठिताः  
 **प्रादुर्भावास्** तु **मुख्या** ये  
 मद्-अंशत्वाद् विशेषतः ।  
@@ -775,7 +775,7 @@ And they, even though dwelt in by me, do, indeed, partake of the nature of jtva 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अजहत्-स्व--स्व-भावा हि  
+> अजहत्-स्व--स्व-भावा हि  
 दिव्याप्राकृत-विग्रहाः ।  
 दीपाद् दीपा इवोत्पन्ना  
 जगतो रक्षणाय ते ।  
