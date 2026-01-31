@@ -2672,11 +2672,94 @@ Esta **visión encuentra** su **refutación**
 इप्पडि पराधीनकर्तृत्वम् प्रामाणिकमागैयाले आत्मावुक्कु कर्तृत्वमिल्लामैयाले स्वरूपन् तॆळिन्दवऩै निषिद्धकर्मङ्गळॊऩ्ऱुम् लेपियादॆऩ्गिऱ पक्षमुम् निरस्तम्।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(उपनिषत्सु)+++ मुमुक्षुवुक्कुच् चॊऩ्ऩ बाल्यम्  
+बाल-कृत्यङ्गळ् आऩ काम-चारादिगळ् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+In the Upaniṣads, it **is stated** that  
+the aspirant to mukti **should be** like a child. 
+
+Some **writers argue** from this that  
+he **might act** just as he **pleases**  
+(**doing** even **forbidden** things).  
+(This **is mistaken**.)
+</details>
+
+<details><summary>Español</summary>
+
+En los Upaniṣads, **se afirma** que  
+el **aspirante** a mukti **debe ser** como un niño.
+
+Algunos **escritores argumentan** a partir de esto que  
+él **podría actuar** tal como **le gusta**  
+(**haciendo** incluso cosas **prohibidas**).  
+(Esto **está equivocado**.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुवुक्कुच् चॊऩ्ऩ बाल्यम् बालकृत्यङ्गळाऩ कामचारादिगळऩ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-माहात्म्यानाविष्कार-मात्रम् ऎऩ्ऩुम् इडम्  
+
+> ‘‘+++(स्व-माहात्म्यम्)+++ अनाविष्-कुर्वन्न्, अनन्वयात्’’  
+(ब्रह्मसूत्रम् ३-३-४९) 
+
+ऎऩ्गिऱ सूत्रत्तिले समर्थितम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘+++(स्व-माहात्म्यम्)+++ अनाविष्-कुर्वन्न्, अनन्वयात्’’  
+(ब्रह्मसूत्रम् ३-३-४९) 
+
+</details>
+
+<details><summary>English</summary>
+
+'**Being** like a child' **means**  
+'**remaining without revealing** his greatness'  
+and  
+this **is established** in the sūtra 
+
+> “Without **revealing** (his greatness)  
+for this **fits** in with the vidyā”  
+(and **not behaving** in a childish manner.)
+</details>
+
+<details><summary>Español</summary>
+
+> '**Ser** como un niño' 
+
+**significa**  
+
+> '**permaneciendo sin revelar** su grandeza'  
+
+y  
+esto **está establecido** en el sūtra 
+
+> “Sin **revelar** (su grandeza)  
+porque esto **encaja** con el vidyā”  
+(y **no comportarse** de manera infantil).
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वमाहात्म्यानाविष्कारमात्रमॆऩ्ऩुमिडम् ‘‘अनाविष्कुर्वन्ननन्वयात्’’(ब्रह्मसूत्रम् ३-३-४९) ऎऩ्गिऱ सूत्रत्तिले समर्थितम्।
+</details>
 
 
 
 
-In the Upaniṣads, it is stated that the aspirant to mukti should be like a child. Some writers argue from this that he might act just as he pleases (doing even forbidden things). 'Being like a child' means 'remaining without revealing his "greatness' and this is established in the sūtra “Without revealing his greatness) for this fits in with the vidyā” (and not behaving in a childish manner.)
+
+
 
 (The Gītā says :-)
 
