@@ -42,17 +42,9 @@ title = "शठारिः"
 तस्मात्प्रत्यहम् एतौश्री-  
 पादुकौ शिरसा वहेत्॥ 7
 
-## माध्व-भ्रमः
-विचित्रकल्पनाः श्रुताः - श्रीवैष्णवदेवालयेषु शठारि-नाम्ना शिरसि स्थाप्यमानम् पादाभरणं रामानुजपादप्रतिनिधिर् इति। तद् अप्य् असत् - विष्णोर् एव पादौ, शठकोपाख्यस्य पादजस्य (=शूद्रस्य) नाम्ना ऽभिमतौ।
-
-### भक्त-प्रतिष्ठाभावः
-In any Agamika temple, whether or not an object is an actual body of an AtmA (be it a jIva like shaThakopa or Ishvara like viShNu) depends on whether it is consecrated as such. If there has been no pratiShThA ritual consecrating pAduke as nammALvAr, the idenfication is purely symbolic, and not ritually "real". 
-
-> in temples like Vanamamalai, where there is no separate Nammalwar vigraham and the Shatari itself is treated as Alwar. During viniyogam, once the Shatari is placed on the heads of bhagavatas and kept down, it is not lifted again. 
-> 
-> I have personally experienced this. Arriving late meant missing Shatari, and the archaka explicitly said “Alwar tirumbu ezhappanna mudiyad,” directly referring to the Shatari as Nammalwar himself.
-
-In the case of vAnamAmalai, it may be the case (one should ask), but ordinarily it is not so (see verses quoted earlier).
+## माध्वाङ्गीकाराः
+### यत्य्-अङ्गीकारः
+Many Madhwa sannyasis at Tirumala do accept Shatari with full reverence. Eg. satyAtmatIrtha in tirupati [TW](https://www.youtube.com/shorts/ieirIgNFdzA) and in vAnamAmalai (where the shaThAri has an image of nammALvAr).
 
 ### गोश्रीपुर-मन्दिरे रविलोचनः
 > The chief priest visits all the sub shrines inside with the **Paduka** (sandals) of the Lord and performs Pooja there and also touches these paduka onto the head of those idols as a gesture of god’s blessing to them.
@@ -76,4 +68,30 @@ Source: [TW](https://youtu.be/BzyIMFVlelU)
 07:30 - Conclusion
 </details>
 
-Many Madhwa sannyasis at Tirumala do accept Shatari with full reverence.
+
+## भक्त-प्रतिष्ठा-भ्रमः
+विचित्रकल्पनाः श्रुताः - श्रीवैष्णवदेवालयेषु शठारि-नाम्ना शिरसि स्थाप्यमानम् पादाभरणं रामानुजपादप्रतिनिधिर् इति। तद् अप्य् असत् - विष्णोर् एव पादौ, शठकोपाख्यस्य पादजस्य (=शूद्रस्य) नाम्ना ऽभिमतौ।
+
+
+### भक्त-प्रतिष्ठाऽभावः
+In any Agamika temple, whether or not an object is an actual body of an AtmA (be it a jIva like shaThakopa or Ishvara like viShNu) depends on whether it is consecrated as such. If there has been no pratiShThA ritual consecrating pAduke as nammALvAr, the idenfication is purely symbolic, and not ritually "real".
+
+> in temples like Vanamamalai, where there is no separate Nammalwar vigraham and the Shatari itself is treated as Alwar.
+>
+> During viniyogam, once the Shatari is placed on the heads of bhagavatas and kept down, it is not lifted again. I have personally experienced this. Arriving late meant missing Shatari, and the archaka explicitly said “Alwar tirumbu ezhappanna mudiyad,” directly referring to the Shatari as Nammalwar himself.
+
+In the case of vAnamAmalai, it may be the case (one should ask), but ordinarily it is not so (see verses quoted earlier).
+
+
+## भक्तादि-पादुके
+> It is convention to refer to any acharyas 'thiruvadi' by their principal shishya. Thus if you go to Nammazhvar's sannidhi, you don't say - offer his shataari; You say - offer his madhurakavi. - vijayaH 
+
+### रामानुजस्य
+रामानुज-पादुके मुदलिय्-आण्डाऩ् इति मन्यते कैश्चित्, तिरुपद्यां त्व् अनन्त-पिळ्ळाय् इति। 
+
+Per Vadakalai GPP it is Tirukkurukaipiran Pillan.
+
+> ज्ञानात्मजो यतिपतेर् अपि पादुकेति  
+श्रीकूरनाथ--मुख-देशिक-पूजितो यः।  
+व्याख्यातवान् शठरिपोश् चरम-प्रबन्धं  
+वन्देय देशिकम् अहं कुरुकेश्वरम् तम् ॥

@@ -374,7 +374,7 @@ These forms + Bhagavān’s Ugramūrtis (Gajāri, Kāmāri, Kālāri & Tripurār
 **अनुपास्याः** मुमुक्षूणां  
 यथेन्द्राग्न्य्-आदि-देवताः ॥ १३ ॥
 
-इति प्रपन्न-पारिजाते। [TW](rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vAtsya-varadaH/prapanna-pArijAtaH/sarva-prastutiH/06_bhagavat-parijanopAsanA-paddhatiH)
+इति प्रपन्न-पारिजाते। [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vAtsya-varadaH/prapanna-pArijAtaH/sarva-prastutiH/06_bhagavat-parijanopAsanA-paddhatiH)
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -422,10 +422,15 @@ These forms + Bhagavān’s Ugramūrtis (Gajāri, Kāmāri, Kālāri & Tripurār
 
 यद्य् अप्य् एते साम्प्रत-संस्करणेषु दुर्लभाः,  
 तथापि तत्रोक्ता युक्तिस् तिष्ठत्य् एव। 
+
+वृद्ध-हारित-स्मृतौ च –
+
+> हयग्रीवं जगद्योनिं पूजयेद्वैष्णवोत्तमः  
+नार्चयेद्भार्गवं बुद्धं सर्वत्रापि च कर्मसु
 </details>
 
 
-##### माध्व-भेदः
+##### माध्व-विमतिः
 mAdhva avatAra-confusion vs pAncharAtra (kn) - balarAma, chaitanya, svAmi-nArAyaNa, vyAsa
 
 Source: [TW](https://youtu.be/UZrqMZz8yiM)

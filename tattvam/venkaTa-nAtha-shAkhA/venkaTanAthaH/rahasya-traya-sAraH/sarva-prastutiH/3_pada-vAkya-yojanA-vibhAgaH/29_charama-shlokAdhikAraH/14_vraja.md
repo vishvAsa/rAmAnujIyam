@@ -591,7 +591,7 @@ for the śruti **says** so".
 
 y 
 
-> " La **hacedora** (de la jīva) **depende** del Ser Supremo,  
+> " La **agencia** (de la jīva) **depende** del Ser Supremo,  
 pues el śruti **dice** así".
 </details>
 
@@ -809,7 +809,7 @@ and the **endeavour** to **attain** them.
 
 <details><summary>Español</summary>
 
-Si **se sostiene** que el **hacedor** que **proviene** de la voluntad del Señor **es** meramente el estado de ser el **conocedor**,  
+Si **se sostiene** que la **agencia** que **proviene** de la voluntad del Señor **es** meramente el estado de ser el **conocedor**,  
 **no existiría** el deseo de alcanzar los fines de la vida (puruṣārtha)  
 y el **esfuerzo** de **alcanzarlos**.
 </details>
@@ -1027,7 +1027,7 @@ But the seat (āśraya) of an effort or **endeavour** (prayatna) **is** (an attr
 
 <details><summary>Español</summary>
 
-El hacedor o agencia que **consiste** en **ser** la sede (āśraya) de una acción  
+El agencia que **consiste** en **ser** la sede (āśraya) de una acción  
 (o el lugar donde **tiene** lugar una **acción**)  
 **es** un atributo común tanto de los seres sintientes como de las cosas no sintientes  
 (para este último también **moverse** y **sufrir cambios**).  
@@ -1112,7 +1112,7 @@ as **is** common to sentient beings and non-sentient things.
 <details><summary>Español</summary>
 
 Cuando uno **es** la sede del mero **conocimiento** y del mero **disfrute** (bhoga),  
-**existe** sólo el **hacedor**  
+**existe** sólo la **hacedor**  
 que **consiste** en **ser** la sede de dicha acción  
 como **es** común a los seres sintientes y a las cosas no sintientes.
 </details>
@@ -1197,7 +1197,7 @@ this form of **doership is found** only in **rendering** kaiṅkarya or **servic
 <details><summary>Español</summary>
 
 **No** se **puede sostener** con justicia que  
-esta forma de **hacedor se encuentra** solo en **rendir** kaiṅkarya o **servicio**.
+esta forma de **agencia se encuentra** solo en **rendir** kaiṅkarya o **servicio**.
 </details>
 
 
@@ -1275,7 +1275,7 @@ that **should be avoided**.
 Si todo esto **se admite**,  
 **es** sólo la **haceción** que toma la forma de un **esfuerzo**  
 lo cual **conduciría** a **esclavitud** -  
-**es** sólo esta forma de **hacedor**  
+**es** sólo esta forma de **agencia**  
 eso **debe evitarse**.
 </details>
 
@@ -1317,7 +1317,7 @@ and also such things as the senses and the body.
 
 <details><summary>Español</summary>
 
-Si **se pregunta** cuál es esa forma de **hacedor**,  
+Si **se pregunta** cuál es esa forma de **agencia**,  
 la **respuesta es** la siguiente:-  
 
 Iśvara **ha dado** a la jīva cualidades tales como conocimiento y habilidad.  
@@ -1500,9 +1500,9 @@ the **doership** in the state when he **adopts** an upāya (for the sake of mukt
 
 <details><summary>Español</summary>
 
-Por lo tanto, al igual que **hacedor** en el estado de logro (mukti)  
+Por lo tanto, al igual que **agencia** en el estado de logro (mukti)  
 del hombre que **anhela rendir servicio** al Señor en virtud de su propia naturaleza y sin otro propósito,  
-el **hacedor** en el estado en el que **adopta** un upāya (por el bien de mukti y el servicio) **no** es inapropiado.
+el **agencia** en el estado en el que **adopta** un upāya (por el bien de mukti y el servicio) **no** es inapropiado.
 </details>
 
 
@@ -1541,7 +1541,7 @@ The **doership** of varied forms of **service** (to the Lord) in the state of **
 
 <details><summary>Español</summary>
 
-La **hacedora** de diversas formas de **servicio** (al Señor) en el estado de **logro** (es decir, mukti)  
+La **agencia** de diversas formas de **servicio** (al Señor) en el estado de **logro** (es decir, mukti)  
 **resulta del** propio **anhelo** del yo (de **prestar servicio**)  
 **combinado** con los variados deseos del Señor  
 (que **no tienen conexión** con el karma).
@@ -1590,7 +1590,7 @@ which **have been evolved** in accordance with the past karma and by the will of
 
 <details><summary>Español</summary>
 
-El **hacedor** en el estado de saṁsāra **es** de diferentes tipos **correspondiente** al factor condicionante (upādhi) en las formas de sattva, rajas y tamas.  
+El **agencia** en el estado de saṁsāra **es** de diferentes tipos **correspondiente** al factor condicionante (upādhi) en las formas de sattva, rajas y tamas.  
 que **han evolucionado** de acuerdo con el karma pasado y por la voluntad de Iśvara.
 </details>
 
@@ -1629,9 +1629,9 @@ that **doership leads to bondage**.
 
 <details><summary>Español</summary>
 
-Ese **hacedor** que **resulta** de rajas y tamas  
+Ese **agencia** que **resulta** de rajas y tamas  
 y así también de ese sattva que **es** la causa del **apego** a otros intereses (que mokṣa) -  
-que **el hacedor conduce** a la **esclavitud**.
+que **el agencia conduce** a la **esclavitud**.
 </details>
 
 
@@ -1668,9 +1668,9 @@ that **doership leads** to mokṣa. +++(5)+++
 
 <details><summary>Español</summary>
 
-Ese **hacedor** (por otro lado) que **resulta** de la forma de sattvam superior  
+Ese **agencia** (por otro lado) que **resulta** de la forma de sattvam superior  
 lo cual **crea** un **anhelo** por **el logro** de Bhagavān--  
-ese **hacedor conduce** a mokṣa. +++(5)+++
+ese **agencia conduce** a mokṣa. +++(5)+++
 </details>
 
 
@@ -1698,7 +1698,7 @@ with any of these three qualities.
 
 <details><summary>Español</summary>
 
-En el estado de mukti, el **hacedor no tendrá ninguna conexión** en absoluto  
+En el estado de mukti, el **agencia no tendrá ninguna conexión** en absoluto  
 con cualquiera de estas tres cualidades.
 </details>
 
@@ -1739,8 +1739,8 @@ Por lo tanto, entre los textos que **afirman** que el yo **no es un hacedor**
 y los textos que **afirman** que el yo **es un hacedor**,  
 no **hay conflicto**,  
 ya que **es posible** **discriminar**  
-donde **tiene autoría**  
-y en el que **no tiene autoría**.
+donde **tiene agencia**  
+y en el que **no tiene agencia**.
 </details>
 
 
@@ -1789,7 +1789,7 @@ la **respuesta es** la **siguiente**:-
 
 > Los textos que **declaran** que el yo **no es** un **hacedor** o agente  
 **tienen**, a su entender, la verdad de que  
-el **hacedor** del yo que **depende** de Iśvara y de las cualidades de prakṛti (sattva, rajas y tamas)  
+la **hacedor** del yo que **depende** de Iśvara y de las cualidades de prakṛti (sattva, rajas y tamas)  
 **no debe considerarse** como independiente de otras (formas).
 </details>
 
@@ -1920,6 +1920,12 @@ En ese contexto la Divinidad que **se llama** la quinta (causa) **es** Puruṣot
 इ(अ)व्विडत्तिल् ‘‘दैवञ् चैवात्र पञ्चमं’’ ऎऩ्ऱु पुरुषोत्तमऩैच् चॊल्लुगिऱदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अव्विडत्तिल् ‘‘अधिष्ठानन्तथा कर्ता’’ ऎऩ्गिऱ श्लोकत्तिल् ‘‘दैवञ्चैवात्र पञ्चमं’’ ऎऩ्ऱु ईश्वराधीनत्वमुम् सॊल्लप्पट्टदॆऩ्गिऱार् अव्विडत्तिलिति । 
+</details>
+
+
 ### ईश्वर-कर्तृता-प्रकाराः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1946,6 +1952,12 @@ Cuando Puruṣottama **estimula** a la jīva para **realizar** acción,
 इवऩ् जीवऩैयॊरु कार्यत्तिल् प्रवर्तिप्पिक्कुम्बोदु इक् कार्यत्तैप्पऱ्ऱ कारयितावॆऩ्ऱु सॊल्लप्पडुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘न दैवं केशवात्परं’’, ‘‘दैवाधीनं जगत्सर्वं’’, इत्यादौ दैवशब्दम् पुरुषोत्तमपरमाग प्रयुक्तमिऱे। इऩि प्रसङ्गात् ईश्वरऩुडैय कारयितृत्वकर्तृत्वोपेक्षकत्वानुमन्तृत्वसहकारित्वङ्गळै विविच्य प्रदर्शिप्पिक्कप्पोगिऱवराय् कारयितृत्वत्तिऱ्कु विषयम् काट्टुगिऱार् इवऩ् जीवऩै इति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताऩे प्रवर्तिक्कुम् फल-प्रदानादिगळिलुम्, सृष्ट्य्-आदिगळिलुम् कर्ताव् ऎऩ्ऱु सॊल्लप्-पडुम्, 
@@ -1971,6 +1983,12 @@ y la **creación** del mundo.
 ताऩे प्रवर्तिक्कुम् फलप्रदानादिगळिलुम् सृष्ट्यादिगळिलुम् कर्तावॆऩ्ऱु सॊल्लप्पडुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कर्तृत्वत्तिऱ्कु विषयम् काट्टुगिऱार् ताऩे प्रवर्तिक्कुम्बोदु इति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऒऩ्ऱिले प्रवृत्तऩ् आऩ चेतनऩै  
@@ -1993,6 +2011,11 @@ Cuando Él **no impide** que el ser sintiente **realice** una acción,
 <details><summary>मूलम्</summary>
 
 ऒऩ्ऱिले प्रवृत्तऩाऩ चेतनऩै विलक्कादवळविल् उपेक्षकऩ्; 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपेक्षकत्वत्तिऱ्कु विषयम् काट्टुगिऱार् ऒऩ्ऱिले इति । 
 </details>
 
 
@@ -2019,6 +2042,13 @@ aquel que **acepta**.
 <details><summary>मूलम्</summary>
 
 अप्पोदिसैन्दिरुक्कैयाले अनुमन्ता; 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदै प्रथमप्रवृत्तियिले कण्डुगॊळ्वदु। अनुमन्तृत्वतैक् काट्टुगिऱार् अप्पोदु इति । 
+
+इसैन्दिरुक्कैयाले - अन्द कार्यत्तैये सॆय्युम्बडि ऒप्पुक्कॊण्डिरुक्कैयाले, 
 </details>
 
 
@@ -2051,6 +2081,12 @@ que **sólo puede llevar** una carga ligera,
 इळन्दलै सुमक्कुमवऩुक्कु प्रबलऩ् पॆरुन्दलै सुमक्कुमाप्पोले कूडप् प्रवर्तिक्कैयाले सहकारि । 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सहकारित्वत्तैक् काट्टुगिऱार् इळन्दलै सुमक्कुमवऩुक्किति । अडि पॆरुत्तु नुणियिल् कृशमायिरुक्किऱ ऒरु मरत्तिल् इळदाऩ नुणि भागत्तैच् चुमक्कुम् बालऩुक्कु बलिष्ठऩाऩ ऒरुवऩ् पॆरियदाऩ अडि भागत्तैच् चुमन्दु सहकरिक्कुमाप् पोले ऎऩ्ऱबडि। इङ्गु ऒरु कार्यविषयत्तिल् जीवऩैक्काट्टिलुम् ईश्वरऩुक्कु प्रवृत्ति अधिकमॆऩ्ऱु तोऱ्ऱुगैक्काग इळन्दलै पॆरुन्दलै यॆऩ्ऱदु। 
+</details>
+
+
 
 #### शरीरभेदे न कर्तृता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2075,6 +2111,11 @@ ya que las diferencias como dioses y hombres **se se deben** al factor **condici
 <details><summary>मूलम्</summary>
 
 सृष्ट्यादिगळिल् देवमनुष्यादिवैषम्यम् जीवकर्मविशेषोपाधिकमागैयाले 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सिल विडत्तिल् ईश्वरऩुक्कुम् कर्तृत्वमिल्लैयॆऩ्बदुबोल् सॊल्लुगिऱ वचनङ्गळुक्कु तात्पर्यमरुळिच्चॆय्गिऱार् सृष्ट्यादिगळिलित्यादिना । ईश्वरऩ् देवादिसृष्टिकळुक्कु कर्तावाग इरुन्दालुम् देवादिगळुडैय देवत्वमनुष्यत्वादिवैषम्यङ्गळुक्कु अवरवर्गळुडैय कर्ममे कारणमागैयाले अदैप्पऱ्ऱि अकर्तृत्वम् सॊल्लुगिऱदॆऩ्ऱु तात्पर्यम्। 
 </details>
 
 
@@ -2133,6 +2174,12 @@ Yo **no soy** la verdadera causa
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+गुणकर्मविभागश इति । सत्वादिगुणैश्शमादिकर्मभिश्च विभज्य सृष्टमॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईश्वरऩुक्कु कर्तृत्व-निषेधम् पण्णुगिऱदु। 
@@ -2153,6 +2200,7 @@ Iśvara is declared not to be the doer.
 
 ईश्वरऩुक्कु कर्तृत्वनिषेधम् पण्णुगिऱदु। 
 </details>
+
 
 
 ### ईश्वर-दत्त-स्वातन्त्र्यांशः
@@ -2192,6 +2240,12 @@ y la palabra "vraja" puede justamente **prohibir** la **realización** de una ac
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि जीवऩ् परतन्त्रऩाऩालुम् सर्वविषयसाधारणकर्तृत्वमुडैय ईश्वरऩाले अवऩुक्कु स्वबुद्धिपूर्वकप्रवृत्तिशक्ति कॊडुक्कप्पट्टिरुप्पदाल् अवऩैक्कुऱित्तु व्रज ऎऩ्ऱु विधिक्कक् कुऱैयिल्लै ऎऩ्ऱु निगमिक्किऱार् इप्पडि इत्यादियाल्। 
+</details>
+
+
 ### कूरेश-वाक्यार्थः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2216,6 +2270,12 @@ al igual que cosas como el bhakti,
 
 इप्पडि भक्त्यादिगळ् पोले शरणागति धर्ममुम् कर्तव्यमाग विधिक्कप्पडुगैयाल् 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि जीवऩुक्कु विधिविषयमाम्बडियाऩ कर्तृत्वमुण्डाऩालुम् अदै तऩ्ऩाल् वरुम् नऩ्मै विलैप्पाल्बोले,ईश्वरऩाल् वरुम् नऩ्मै मुलैप्पाल्बोले ऎऩ्ऱु पिळ्ळाऩ् निन्दित्तिरुप्पदाले व्रज ऎऩ्ऱु विधिक्कक्कूडुमो वॆऩ्ऩ पिळ्ळाऩ् वार्तैक्कु भावमरुळिच् चॆय्गिऱार् इप्पडि इत्यादियाल्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2291,6 +2351,12 @@ y **debemos dejar** todo en manos de Dios.)
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अवऩाले वरुगिऱदॆऩ्ऱु निऩैक्क वेणुमॆऩ्ऱु तऩ्ऩुडैय पराधीनकर्तृत्वत्तिले तात्पर्यमिति । तऩ्ऩुडैय भक्तिप्रपत्त्यादिकर्तृत्वमुम् अवऩालेये वन्ददॆऩ्ऱु निऩैत्ताल् तऩ्ऩुडैय कर्तृत्वमुम् अदडियाग वरुम् कार्यङ्गळुम् ईश्वरऩाल् वरुम् नऩ्मैयाग मुडियुमागैयाले मुलैप्पाल् तुल्यमामॆऩ्ऱु तिरुवुळ्ळमेयॊऴिय पराधीनकर्तृत्वत्तिऱ्कु निन्दै सॊऩ्ऩबडियऩ्ऱु ऎऩ्ऱु तात्पर्यम्। 
+</details>
+
+
 ## भक्तिर् अप्य् उपायः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2322,6 +2388,12 @@ Aquel que **afirma** que los textos que **declaran** que bhakti es un upāya
 *अन्यविश्वाससिद्ध्यर्थं भक्त्युपायविधिं वदन् ।   
 सर्वशास्त्रेष्वविश्वासमाधत्ते मुखभेदतः ॥   
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ननु भक्त्यादिगळ्बोले शरणागतिधर्ममुम् कर्तव्यतया विधिक्कप्पडुगैयाल् ऎऩ्ऱु सॊऩ्ऩदु कूडुमो? प्रपत्तियिल् विश्वासजननार्थम् शास्त्रत्तिल् भक्ति विधिक्कप्पडुगिऱदे यॊऴिय भक्तिविधियिलेये शास्त्रत्तिऱ्कु तात्पर्यमिल्लैये ऎऩ्ऱु सिलर् सॊल्लुम् चोद्यत्तै ऒरु कारिकैयाले अनुवदित्तु परिहरिक्किऱार् अन्येति । इङ्गु अन्यशब्दम् प्रपत्तिपरम्। वदन्निति । वादीति शेषः । प्रथमतो भक्तिं विधाय अदिल् दुश्शकतैयैक् काण्बित्तु सुलभमाऩ प्रपत्तियिल् विश्वासत्तै युण्डुबण्णुवदऱ्काग भक्तिविधानमे यॊऴिय अदैये साक्षान्मोक्षोपायमाग विधिप्पदिल् शास्त्रत्तिऱ्कु तात्पर्यमिल्लैयॆऩ्ऱु सॊल्लुम् वादियाऩवऩ् सर्वशास्त्रङ्गळिलुम् अत एव प्रपत्तिशास्त्रत्तिलुम् प्रकारभेदत्ताले अविश्वासत्तै युण्डुबण्णुगिऱाऩॆऩ्गै। इप्पडिये लघुवाऩ अग्निहोत्रत्तिल् विश्वास सिद्ध्यर्थम् ज्योतिष्टोमविधानमॆऩ्ऱुम्, लघुवाऩ नामसङ्कीर्तनत्तिल् विश्वाससिद्ध्यर्थं प्रपत्तिविधानमॆऩ्ऱुम्, प्रक्रियैयाले विहिदङ्गळाऩ सर्वशास्त्रार्थङ्गळिलुम् अविश्वासत्तै युण्डुबण्णु किऱाऩॆऩ्ऱु करुत्तु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -2373,20 +2445,33 @@ cuando **está mezclado** con egoísmo o ahankāra.
 अहङ्कारान्वये तु स्यात् प्रपत्तावपि भक्तिवत् ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सिलर् 
+
+> मदिराबिन्दुमिश्रम् आऩ शातकुम्भमय-कुम्भ-गत- तीर्थ-सलिलम् बोले  
+अहङ्कारमिश्रमाऩ उपायान्तरम् ऎऩ्गिऱ पिळ्ळाऩ् वाक्यत्तैक्कॊण्डु भक्ति अहङ्कारगर्भमा कैयाल् स्वरूपविरुद्धम् 
+
+ऎऩ्बर्गळ्। अदु अनुपपन्नम्। विहितसात्त्विकत्यागपुरस्सरमागप् पण्णुम् भक्तिक्कु अहङ्कारगर्भत्वमे वारादु। अप्पडि वन्दाल् स्वरूपविरुद्धम् ताऩे यॆऩ्ऱाल् प्रपत्तियिलुम् अहं करोमि ऎऩ्ऱु अहङ्कारम् कलसिऩाल् अदुवुम् स्वरूपविरुद्धमागवे मुडियुमॆऩ्गिऱार् मद्योपहत ऎऩ्गिऱ कारिगैयाल्। 
+</details>
+
+
 ## प्रपत्तिमात्रं नापराधः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् 
 
-> ‘‘प्रसीद मद्-वृत्तम् अ-चिन्तयित्वा’’(आळवन्दार्-स्तोत्रम् ६५) 
+> (पितामहं नाथमुनिं विलोक्य)  
+‘‘प्रसीद मद्-वृत्तम् अ-चिन्तयित्वा’’(आळवन्दार्-स्तोत्रम् ६५) 
 
 इत्य्-आदिगळ् 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘प्रसीद मद्-वृत्तम् अ-चिन्तयित्वा’’(आळवन्दार्-स्तोत्रम् ६५) 
+> (पितामहं नाथमुनिं विलोक्य)  
+‘‘प्रसीद मद्-वृत्तम् अ-चिन्तयित्वा’’(आळवन्दार्-स्तोत्रम् ६५) 
 </details>
 
 <details><summary>English</summary>
@@ -2412,6 +2497,12 @@ y **ignorando** lo que yo mismo **he hecho**,
 
 आगैयाल् ‘‘प्रसीद मद्वृत्तमचिन्तयित्वा’’(आळवन्दार्-स्तोत्रम् ६५) इत्यादिगळ् 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सिलर् स्तोत्ररत्नत्तिल् अवसानत्तिलुळ्ळ ‘‘पितामहं नाथमुनिं विलोक्य प्रसीद मद्वृत्तमचिन्तयित्वा’’ ऎऩ्गिऱ श्लोकत्तिले सॆय्यप्पट्ट अपराधक्षामणम् ‘‘त्वत्पादमूलं शरणं प्रपद्ये’’ ऎऩ्ऱु ताऩ् मुऩ्बु पण्ण शरणागतिक्कु प्रायश्चित्तमागच् चॆय्ददु ऎऩ्बर्। अदैयुम् ताऩ् प्रपत्तिपण्णिऩबोदु अहङ्कारस्पर्शम् नेर्न्दिरुक्कुमो ऎऩ्गिऱ शङ्गैयाले क्षामणम् पण्णिऩारॆऩ्बदाग निर्वहिक्कवेण्डुमेयॊऴिय ताऩ् पण्णिऩ प्रपत्तियैये अपराधमाक्कि अदऱ्कु क्षामणम् पण्णिऩारॆऩ्बदाग ऎण्णलागादॆऩ्गिऱार् आगैयाल् प्रसीद मद्वृत्तमचिन्तयित्वेति । प्रपत्ति शास्त्रीयमाऩालुम् अदै अस्वतन्त्रऩाऩ ताऩ् सॆय्गैयाल् अपराधमाग मुडियुम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2515,6 +2606,12 @@ Por lo tanto, **no habría** fin a la **presentación de disculpas** (anavasthā
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आगैयाले अदऱ्कागवे अन्तिमश्लोकत्तिल् क्षामणमॆऩ्ऩिल्; ‘‘पितामहं नाथमुनिं विलोक्य प्रसीद मद्वृत्तमचिन्तयित्वा’’ ऎऩ्गिऱ पूर्वाचार्यपुरस्कारादिरूपमाऩ अन्द क्षामणत्तैयुम् अस्वतन्त्रऩाऩ ताऩ् पण्णुगैयाल् अदुवुम् अपराधमाय् मुडिन्दु अदऱ्कागवुम् क्षामणम् पण्णवेण्डिवरुमागैयाल् अनवस्थै प्रसङ्गिक्कुमॆऩ्गिऱार् अप्पडियागिलित्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु +++(क्षमा-याचनम्)+++ स्व-पर-निर्वाहकम् आगिल्  
@@ -2544,6 +2641,11 @@ la **actuación** anterior de prapatti **es** también **pedir perdón** por esa
 इदु स्वपरनिर्वाहकमागिल् इदुबोले मुऩ्बु पण्णिऩ प्रपदनमुम् स्वपरनिर्वाहकमॆऩ्ऩलाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऱ्कु परिहारत्तै शङ्गित्तु प्रतिबन्द्या समाधानमरुळिच्चॆय्गिऱार् इदु स्वपरनिर्वाहकमागिलिति । इदु - इन्द क्षामणमाऩदु, स्वपरनिर्वाहकमागिल् – स्वानुष्ठानत्ताले वरुमपराधत्तिऱ्कुम् परमाऩ प्रपत्त्यनुष्ठानत्ताले वरुमपराधत्तुक्कुम् क्षामणमागुमॆऩ्ऩिल्, प्रपदनमुम् स्वपरनिर्वाहकमॆऩ्ऩलामिति । पापङ्गळुक्कॆल्लाम् प्रायश्चित्तमागप् पण्णिऩ मुऩ्बु सॆय्द प्रपत्तिये स्वानुष्ठानत्ताले वन्द दोषत्तिऱ्कुम् प्रायश्चित्तमागलामॆऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2569,8 +2671,16 @@ y que **no era apropiado mostrarles reverencia**.
 
 <details><summary>मूलम्</summary>
 
-इङ्गु सॊल्लुम् कुतर्कङ्गळाले पूर्वर्गळ् पण्णिऩ प्रपत्तियुमपराधमायऱु कैयाले पूर्वर्गळै मुऩ्ऩिडवुमॊण्णादॊऴियुम्। 
+इङ्गु सॊल्लुम् कुतर्कङ्गळाले पूर्वर्गळ् पण्णिऩ प्रपत्तियुमपराधमायऱुकैयाले पूर्वर्गळै मुऩ्ऩिडवुमॊण्णादॊऴियुम्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि यथाशास्त्रानुष्ठितमाऩ प्रपत्तियैयुम् कुतर्कङ्गळाले दोषमाक्किऩाल् इदै अनुष्ठित्त पूर्वाचार्यर्गळॆल्लाम् दुष्टर्गळाग मुडिगैयाल् अवर्गळै मुऩ्ऩिडुवदे दोषमामॆऩ्ऱु इप्पक्षत्तिल् दूषणान्तरमरुळिच्चॆय्गिऱार् इङ्गु सॊल्लुम् कुतर्कङ्गळाले इति ।
+
+अऱुगैयाले - तीरुगैयाले, मुडिगैयाले यॆऩ्ऱबडि। इप्पडि प्रपदनम् अपराधरूपमागादु। 
+</details>
+
 
 ### आचार्य-पुरस्कार-हेतुः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2601,6 +2711,21 @@ o para **eliminar** cualquier **defecto** en el **rendimiento**.
 आगैयाल् इस् स्तोत्रत्तिल् आद्यन्तङ्गळिल् पण्णिऩ आचार्य पुरस्कारम् इङ्गरुळिच्चॆय्गिऱ प्रपत्तिक्कपेक्षितमायादल् वैकल्य परिहारार्थमायादल् उपयुक्तमाय् वन्ददित्तऩै। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदऱ्काग क्षामणम् वेण्डामॆऩ्ऱाल् स्तोत्रत्तिल् आद्यन्तङ्गळिल् आचार्यपुरस्सरणत्तिऱ्कु प्रयोजनमॆऩ् ऎऩ्ऩ वरुळिच्चॆय् किऱार् आगैयाल् इस् स्तोत्रत्तिलिति । आगैयाल् - अहङ्कारस्पर्शमिल्लाद प्रपदनमपराधमागादागैयाले, 
+
+अपेक्षितमायादलिति । 
+
+> ‘‘गुरुं प्रपद्य प्रथमन्  
+तद्गुरूंश्च ततो हरिम्’’  
+
+इत्यादिगळिऱ्पडि भगवत्प्रपत्तिक्कु आचार्यपुरस्कारमपेक्षितमॆऩ्ऱु करुत्तु।
+
+वैकल्यपरिहारार्थमायादलिति । प्रातिकूल्यवर्जनाद्यङ्गङ्गळिल् सम्भावितमाऩ वैकल्य परिहारार्थमायॆऩ्ऱबडि। 
+</details>
+
+
 ### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2617,7 +2742,7 @@ the **doership** that **is subject** to the will of another (viz Iśvara ) **is 
 <details><summary>Español</summary>
 
 Como en esta **reverencia mostrada** a los āchāryas, en prapatti y similares también,  
-el **hacedor** que **está sujeto** a la voluntad de otro (a saber, Iśvara) **no es culpa**.
+la **agencia** que **está sujeto** a la voluntad de otro (a saber, Iśvara) **no es culpa**.
 </details>
 
 
@@ -2625,6 +2750,12 @@ el **hacedor** que **está sujeto** a la voluntad de otro (a saber, Iśvara) **n
 
 इव्वाचार्यपुरस्कारत्तिऱ्पोले प्रपत्त्यादिगळिलुम् पराधीनकर्तत्वम् दोषमऩ्ऱु। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि स्तोत्रत्तिल् सफलमाग स्थापिक्कप्पट्ट आचार्यपुरस्कारकर्तृत्वत्तै दृष्टान्तमाक्कि शास्त्रीयङ्गळाऩ भक्तिप्रपत्तिकळिऩ् पराधीनकर्तृत्वत्तिलुम् दोषमिल्लै यॆऩ्ऱु मुडिक्किऱार् इव् वाचार्य पुरस्कारत्तिऱ्पोले इति । प्रपत्त्यादिगळिलिति । इङ्गु आदिपदत्ताल् भक्तिपरिग्रहः । 
+</details>
+
 
 ## निषिद्ध-कर्मालेपो न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2656,8 +2787,8 @@ This **view finds** its **refutation**
 
 **Hay** una **vista** (incorrecta) que 
 
-> dado que el **hacedor** de la jīva **está sujeto** (a la voluntad de Iśvara),  
-el yo **no tiene** real **hacedor**  
+> dado que la **agencia** de la jīva **está sujeto** (a la voluntad de Iśvara),  
+el yo **no tiene agencia** real  
 y por lo tanto, si un hombre **conoce** esta verdadera naturaleza suya (que **no es** un **hacedor**),  
 **ninguna** de las acciones **prohibidas** que **podría realizar** él  
 **dejará** cualquier mancha en él.  
@@ -2672,6 +2803,18 @@ Esta **visión encuentra** su **refutación**
 इप्पडि पराधीनकर्तृत्वम् प्रामाणिकमागैयाले आत्मावुक्कु कर्तृत्वमिल्लामैयाले स्वरूपन् तॆळिन्दवऩै निषिद्धकर्मङ्गळॊऩ्ऱुम् लेपियादॆऩ्गिऱ पक्षमुम् निरस्तम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+निषेधशास्त्रम् कर्तृत्वमात्रावलम्बियागैयालुम् जीवऩुक्कु पराधीनकर्तृत्वम् प्रामाणिकमॆऩ्ऱु इङ्गे स्थापिक्कप्पट्टबडियालुम् 
+
+> ’’जीवऩुक्कु कर्तृत्वमे किडैयादागैयालुम्  
+पारतन्त्र्यज्ञानमिरुप्पदालुम् पापम् लेपियादु’’ 
+
+ऎऩ्गिऱ पक्षमुम् निरस्तमॆऩ्गिऱार् इप्पडि पराधीनकर्तृत्वम् प्रामाणिकमागैयाले इति । 
+</details>
+
+
+### मुमुक्षूणां बालत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(उपनिषत्सु)+++ मुमुक्षुवुक्कुच् चॊऩ्ऩ बाल्यम्  
@@ -2705,12 +2848,18 @@ Algunos **escritores argumentan** a partir de esto que
 मुमुक्षुवुक्कुच् चॊऩ्ऩ बाल्यम् बालकृत्यङ्गळाऩ कामचारादिगळऩ्ऱु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मुमुक्षुवैक् कुऱित्ते ‘‘बाल्येन-तिष्ठासेत्’’ ऎऩ्ऱु उपनिषत्तिल् कामचारत्तै विधित्तदुबोल् तोऩ्ऱुगैयाल् प्रपन्नऩुक्कु निषिद्धम् लेपियादु ऎऩ्ऱु सॊल्लवेण्डावो ऎऩ्ऩ, अङ्गु सॊऩ्ऩ बाल्यम् कामचारमऩ्ऱॆऩ्गिऱार् मुमुक्षुवुक्कु इत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-माहात्म्यानाविष्कार-मात्रम् ऎऩ्ऩुम् इडम्  
 
 > ‘‘+++(स्व-माहात्म्यम्)+++ अनाविष्-कुर्वन्न्, अनन्वयात्’’  
-(ब्रह्मसूत्रम् ३-३-४९) 
+(ब्रह्म-सूत्रम् ३-३-४९) 
 
 ऎऩ्गिऱ सूत्रत्तिले समर्थितम्।
 </details>
@@ -2718,7 +2867,7 @@ Algunos **escritores argumentan** a partir de esto que
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘+++(स्व-माहात्म्यम्)+++ अनाविष्-कुर्वन्न्, अनन्वयात्’’  
-(ब्रह्मसूत्रम् ३-३-४९) 
+(ब्रह्म-सूत्रम् ३-३-४९) 
 
 </details>
 
@@ -2755,22 +2904,204 @@ porque esto **encaja** con el vidyā”
 स्वमाहात्म्यानाविष्कारमात्रमॆऩ्ऩुमिडम् ‘‘अनाविष्कुर्वन्ननन्वयात्’’(ब्रह्मसूत्रम् ३-३-४९) ऎऩ्गिऱ सूत्रत्तिले समर्थितम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
+कामचारमऩ्ऱागिल् मऱ्ऱॆदॆऩ्ऩ वरुळिच् चॆय्गिऱार् स्वमाहात्म्यानाविष्कारमात्तिरमॆऩ्ऩुमिडमिति । वयोऽवस्थाविशेषरूपमाऩबाल्यत्तै विधिक्क मुडियादागैयालुम् कामचारादिगळ् ‘‘नाविरतो दुश्चरितात्’’ ऎऩ्ऱु निषिद्धङ्गळागैयालुम् स्वमाहात्म्यानाविष्करणरूपबाल्यमे विधेयमॆऩ्ऱु अनाविष्काराधिकरणत्तिले समर्थितमॆऩ्ऱबडि। 
+</details>
 
+### गीतोक्ति-परिमितिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ‘‘अनिष्टम् इष्टं मिश्रञ् च’’  
+(त्रिविधं कर्मणः **फलम्**।  
+भवत्य् **अत्यागिनां** प्रेत्य  
+न तु संन्यासिनां क्वचित्॥)  
+(गीता १८-१२), 
+</details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
+> ‘‘अनिष्टम् इष्टं मिश्रञ् च’’  
+(त्रिविधं कर्मणः **फलम्**।  
+भवत्य् **अत्यागिनां** प्रेत्य  
+न तु संन्यासिनां क्वचित्॥)  
+(गीता १८-१२), 
+</details>
+
+<details><summary>English</summary>
 
 (The Gītā says :-)
 
-"To those that have not renounced their doership and the fruit of their actions, the fruits of their karma  will (certainly) follow and they will be of three kinds, what is undesirable, what is desirable and what is partly desirable and partly undesirable. These consequences of karma never affect those who have renounced." and " He who, while performing an action, does not think that it is done by him and whose mind has no attachment to the fruits of that action -- . he does not slay any one even though he has slain all those that live in these three worlds"'These passages do not refer, as shown in GitaBhāṣya to sins committed deliberately after the renunciation. Otherwise they would conflict with many śāstras. Further the words "though he has slain" apply to what is done in a righteous war.
+> "To those that **have not renounced** their **doership** and the fruit of their actions,  
+the fruits of their karma will (certainly) **follow**  
+and they **will be** of three kinds,  
+what **is undesirable**, what is desirable and what **is** partly **desirable** and partly **undesirable**.  
+These **consequences** of karma **never affect** those who **have renounced**." 
+</details>
+
+<details><summary>Español</summary>
+
+(El Gītā **dice** -)
+
+> "A aquellos que **no han renunciado** a su **agencia** y al fruto de sus acciones,  
+los frutos de su karma (ciertamente) **seguirán**  
+y **serán** de tres clases,  
+qué **es indeseable**, qué es deseable y qué **es** en parte **deseable** y en parte **indeseable**.  
+Estas **consecuencias** del karma **nunca afectan** a quienes **han renunciado**."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अनिष्टमिष्टं मिश्रञ्च’’(गीता १८-१२), 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘अनिष्टमिष्टं मिश्रञ्च’’, ‘‘हत्वापि स इमान् लोकान्’’ इत्यादौ प्रपन्नऩुक्कु (सन्न्यासिक्कु) बुद्धिपूर्वोत्तराघम् लेपियादॆऩ्ऱु गीताचार्यऩरुळिच्चॆय्यविल्लैयो वॆऩ्ऩ अन्द वसनङ्गळुक्कु भावमरुळिच्चॆय्गिऱार् अनिष्टमिष्टमिति । 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यस्य नाहङ्कृतो भाव’’  
+(बुद्धिर् यस्य न लिप्यते +++(स्वतन्त्र-कर्तृत्व-भोक्तृत्वादिना)+++।  
++++(धर्मयुद्धादौ)+++ **हत्वा** ऽपि स इमाल्ँ लोकान्  
+**न हन्ति** न निबध्यते॥)  
+(गीता १८-१७) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यस्य नाहङ्कृतो भाव’’  
+(बुद्धिर् यस्य न लिप्यते +++(स्वतन्त्र-कर्तृत्व-भोक्तृत्वादिना)+++।  
++++(धर्मयुद्धादौ)+++ **हत्वा** ऽपि स इमाल्ँ लोकान्  
+**न हन्ति** न निबध्यते॥)  
+(गीता १८-१७) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> " He who, while **performing** an **action**, **does not think** that  
+it **is done** by him  
+and whose mind **has no attachment** to the fruits of that **action** --  
+he **does not slay** any one  
+even though he **has slain** all those that **live** in these three worlds"
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> " El que, mientras **realiza** una **acción**, **no piensa** que  
+**lo hace** él  
+y cuya mente **no tiene apego** a los frutos de esa **acción** --  
+él **no mata** a nadie  
+aunque él **ha matado** a todos los que **viven** en estos tres mundos"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यस्य नाहङ्कृतो भाव’’(गीता १८-१७) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदि-वचनङ्गळ्  
+बुद्धि-पूर्वोत्तराघ-विषयङ्गळ् अऩ्ऱ् 
+
+ऎऩ्ऩुम् इडम्  
+बहु-शास्त्र-विरोधम् वारामैक्क् आग  
+भाष्यादिगळिले समर्थिक्कप् पट्टदु।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+These passages **do not refer**, as **shown** in GitaBhāṣya  
+to sins **committed** deliberately after the **renunciation**.  
+Otherwise they **would conflict** with many śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+Estos pasajes **no se refieren**, como **se muestra** en GitaBhāṣya  
+a los pecados **cometidos** deliberadamente después de la **renuncia**.  
+De lo contrario, **entrarían en conflicto** con muchos śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिवचनङ्गळ् बुद्धिपूर्वोत्तराघविषयङ्गळऩ् ऱॆऩ्ऩुमिडम् बहुशास्त्रविरोधम् वारामैक्काग भाष्यादिगळिले समर्थिक्कप् पट्टदु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘हत्वापि’’ ऎऩ्ऱ्-अदुवुम् धर्म-युद्धादि-विषयम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘हत्वापि’’ ऎऩ्ऱदुवुम् धर्मयुद्धादिविषयम्। 
+</details>
+
+<details><summary>English</summary>
+
+Further the words "though he **has slain**" **apply** to what **is done** in a righteous war.
+</details>
+
+<details><summary>Español</summary>
+
+Además, las palabras "aunque **ha matado**" **se aplican** a lo que **se hace** en una guerra justa.
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+हत्वापि ऎऩ्बदुम् प्रकरणात् धर्मयुद्धविषयमॆऩ्गिऱार् हत्वापीति ।  
+</details>
+
+### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-उपभुक्तौषधन्यायादुत्तरापथ्यमर्दनम् ।  
-अनन्यपरनिर्बाधश्रुतिस्मृतिशतैर्हतम् ॥
+**उपभुक्तौषध**-न्यायाद्  
+उत्तरापथ्य-**मर्दनम्** ।  
+अनन्य-पर--निर्बाध-  
+श्रुति-स्मृति-शतैर् **हतम्** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**उपभुक्तौषध**-न्यायाद्  
+उत्तरापथ्य-**मर्दनम्** ।  
+अनन्य-पर--निर्बाध-  
+श्रुति-स्मृति-शतैर् **हतम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+The **contention** that like a potent medicine which **is taken** now  
+**acting** like a cure for unwholesome things  
+that **may be done** in the future,  
+prapatti **will destroy** any sins that **might be committed** after its **performance** -  
+this **contention is disproved** by hundreds of texts in the śrutis and the smritis  
+which are directly **applicable** to the prapanna  
+and **are not sublated** by other texts.
+</details>
+
+<details><summary>Español</summary>
+
+La **afirmación** de que es un medicamento potente que **se toma** ahora  
+**actuando** como una cura para cosas nocivas  
+que **puede hacerse** en el futuro,  
+prapatti **destruirá** cualquier pecado que **pudiera cometerse** después de su **ejecución** -  
+Esta **afirmación es refutada** por cientos de textos en los śrutis y los smritis  
+que **son** directamente **aplicables** al prapanna  
+y **no están reemplazados** por otros textos.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -2779,11 +3110,179 @@ porque esto **encaja** con el vidyā”
 अनन्यपरनिर्बाधश्रुतिस्मृतिशतैर्हतम् ॥
 </details>
 
-The contention that like a potent medicine which is taken now acting like a cure for unwholesome things that may be done in the future, prapatti will destroy any sins that might be committed after its performance - this contention is disproved by hundreds of texts in the śrutis and the stritis which are directly applicable to the prapanna and are not sublated by other texts.
+### मन्वादि-वचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In such ślokas as the following, Manu and others, too, prescribed the conditions under which transgressions may be permitted: " When there is a real fear that want of food might cause death, if a man eats food obtained from wherever it was possible, he will not be tainted by the sin thereof, in the same way as mire does not stain ether (ākāśa)" "At a time" when there is a fear that want of food might cause death, the man that eats the food obtained by him, whatever the source might be, will not be stained by the sin thereof, in the same way as water does not wet the leaf of the lotus." That this rule applies equally to the man who knows or meditates on Brahman is seen stated in the Sūtra which says, "At a time when death is feared ( owing to starvation ), the man (the man who meditates on Brahman) may eat any food, whatsoever, for the śāstras say so ” and this is taught there with the help of an illustration[^118] . Therefore the view that the self is not a doer and that it is entirely dependent (on Iśvara) and hence will not be stained by any sins committed after prapatti though they are deliberate and that no further prapatti need be performed (for their expiation) - this view is opposed to our siddhānta (Śrī Rāmānuja's doctrine ).
+मन्व्-आदिगळुम् 
 
-[^118]: ILLUSTRATION. Ushasti was a seer and when owing to starvation, he feared he might die, he ate the cooked grain given to him by a man of a low caste. But when this fear did not exist, he refused what was offered to him afterwards viz. water.
+> ‘‘जीवितात्ययम् **आपन्नो**  
+यो ऽन्नम् **अत्ति** यतस् ततः ।  
+आकाश इव पङ्केन  
+**न** स पापेन **लिप्यते॥**’’  
+(मनुस्मृति ६-१९४), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘जीवितात्ययम् **आपन्नो**  
+यो ऽन्नम् **अत्ति** यतस् ततः ।  
+आकाश इव पङ्केन  
+**न** स पापेन **लिप्यते॥**’’  
+(मनुस्मृति ६-१९४), 
+</details>
+
+<details><summary>English</summary>
+
+Manu and others, too, In such ślokas as the following, 
+
+> " When there **is** a real fear  
+that want of food **might cause** death,  
+if a man **eats** food **obtained** from wherever **it was possible**,  
+he **will not be tainted** by the sin thereof,  
+in the same way as mire **does not stain** ether (ākāśa)" 
+</details>
+
+<details><summary>Español</summary>
+
+Manu y otros también, en ślokas como el siguiente, 
+
+> "Cuando **hay** un miedo real  
+que la falta de comida **podría causar** la muerte,  
+si un hombre **come** alimentos **obtenidos** de donde **fue posible**,  
+él **no será contaminado** por su pecado,  
+de la misma manera que el fango **no mancha** el éter (ākāśa)"
+</details>
+
+<details><summary>मूलम्</summary>
+
+मन्वादिगळुम् ‘‘जीवितात्ययमापन्नो योऽन्नमत्ति यतस्ततः । आकाश इव पङ्केन न स पापेन लिप्यते’’(मनुस्मृति ६-१९४), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्राण-संशयम् आपन्नो  
+योऽन्नम् अत्ति यतस् ततः ।  
+**लिप्यते न** स पापेन  
+पद्म-पत्रम् इवांभसा॥’’()  
+
+ऎऩ्ऱु नियमित्तार्गळ्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्राण-संशयम् आपन्नो  
+योऽन्नम् अत्ति यतस् ततः ।  
+**लिप्यते न** स पापेन  
+पद्म-पत्रम् इवांभसा॥’’()  
+
+
+</details>
+
+<details><summary>English</summary>
+
+> "At a time when there **is** a fear that  
+want of food **might cause death**,  
+the man that **eats** the food **obtained** by him,  
+whatever the source **might be**,  
+**will not be stained** by the sin thereof,  
+in the same way as water **does not wet** the leaf of the lotus." 
+
+(They) **prescribed** the conditions under which  
+**transgressions may be permitted**. 
+</details>
+
+<details><summary>Español</summary>
+
+> "En un momento en el que **existe** el temor de que  
+la falta de comida **podría causar la muerte**,  
+el hombre que **come** el alimento **obtenido** por él,  
+cualquiera que sea la fuente **podría ser**,  
+**no será manchado** por su pecado,  
+de la misma manera que el agua **no moja** la hoja del loto." 
+
+(Ellos) **prescribieron** las condiciones bajo las cuales  
+**se pueden permitir transgresiones**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘प्राणसंशयमापन्नो योऽन्नमत्ति यतस्ततः । लिप्यते न स पापेन पद्मपत्रमिवांभसा’’() ऎऩ्ऱु नियमित्तार्गळ्।  
+</details>
+
+
+### ब्रह्म-विद्य् अपि प्रसक्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु ब्रह्म-वित्तुक्कुम् तुल्यम् ऎऩ्ऩुम् इडम् 
+
+> ‘‘सर्वान्नानुमतिश् च प्राणात्यये - तद्-दर्शनात्’’  
+(ब्रह्मसूत्रम् ३-४-२७) 
+
+ऎऩ्गिऱ सूत्रत्तिले दृष्टान्त-रूपेण साधितम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सर्वान्नानुमतिश् च प्राणात्यये - तद्-दर्शनात्’’  
+(ब्रह्मसूत्रम् ३-४-२७) 
+
+</details>
+
+<details><summary>English</summary>
+
+That this rule **applies** equally to the man who **knows** or **meditates** on Brahman  
+**is seen stated** in the Sūtra which **says**, 
+
+> "At a time when death **is feared** ( owing to **starvation** ),  
+the man (the man who **meditates** on Brahman) **may eat** any food, whatsoever,  
+for the śāstras **say so** ” 
+
+and this **is taught** there with the **help** of an **illustration**. 
+
+
+(ILLUSTRATION.  
+Ushasti **was** a seer  
+and when **owing** to **starvation**, he **feared** he **might die**,  
+he **ate** the cooked grain **given** to him by a man of a low caste.  
+But when this fear **did not exist**,  
+he **refused** what was offered to him afterwards viz. water.)
+</details>
+
+<details><summary>Español</summary>
+
+Que esta regla **se aplica** igualmente al hombre que **conoce** o **medita** en Brahman  
+**se ve indicado** en el Sūtra que **dice**, 
+
+> "En un momento en el que **se teme** la muerte (debido al **inanición**),  
+el hombre (el hombre que **medita** en Brahman) **puede comer** cualquier alimento, sea cual sea,  
+porque los śāstras **lo dicen**” 
+
+y esto **se enseña** allí con la **ayuda** de una **ilustración**. 
+
+
+(ILUSTRACIÓN.  
+Ushasti **era** una vidente  
+y cuando **debido** al **hambre**, **temió** **morir**,  
+**comió** el grano cocido **que le dio** un hombre de casta inferior.  
+Pero cuando este miedo **no existía**,  
+él **rechazó** lo que **le ofrecieron** después, a saber, agua.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु ब्रह्मवित्तुक्कुम् तुल्यमॆऩ्ऩुमिडम् ‘‘सर्वान्नानुमतिश्च प्राणात्यये तद्दर्शनात्’’(ब्रह्मसूत्रम् ३-४-२७) ऎऩ्गिऱ सूत्रत्तिले दृष्टान्तरूपेण साधितमायिऱ्ऱु। 
+</details>
+
+
+
+
+
+Therefore the view that the self is not a doer and that it is entirely dependent (on Iśvara) and hence will not be stained by any sins committed after prapatti though they are deliberate and that no further prapatti need be performed (for their expiation) - this view is opposed to our siddhānta (Śrī Rāmānuja's doctrine ).
+
+
 
 
 In this context some ( commentators) explain the meaning of vraja otherwise ((i.e. that it does not enjoin any action) and state that to the aspirant to mukti, there is no upāya to be adopted except the knowledge of relationship that is learnt from the śāstrās to exist between the jīva and Iśvara. They find support for this view in the following ślokas without comprehending their real purport. The ślokas are:- "The self is the property of Bhagavan. He who considers his self as belonging to himself, is a thief of the self. Is there any form of sin that is not committed by him?" " Bhagavan controls all beings in the universe from within the sphere of the sun and He is the ruler over all. He is within your heart and if you have no quarrel with him, you need not go (on a pilgrimage) to the Gaṅga or to Kurukṣetra" and "Remember always that the Lord is the master, that the self or atma is His servant and that this relationship exists always by your very nature." This argument is opposed to the natural and self evident injunction for bhakti , prapatti and the like. Since listening to Vedānta and reflecting on it arise from mere desire, there is no need also to enjoin the knowledge (of relationship) which arises from the śastras. ( There is no need for the Śāstra to enjoin something which a man will do of his own accord). As is well known, it has been established (in Śrī Bhāṣya) that if knowledge which need not be enjoined is called the means of attaining mukti, it would be opposed to the injunction ordaining certain things for performance and there would be other objections too; (the injunction made in the śāstras would serve no purpose at all).

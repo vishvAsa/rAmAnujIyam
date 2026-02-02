@@ -601,7 +601,7 @@ besides **being** subject to **hindrances**.
 
 <details><summary>Español</summary>
 
-Sigue siendo este **hacedor** de la jīva  
+Sigue siendo este **agencia** de la jīva  
 **depende** del Ser Supremo  
 y **es** muy limitado (en su alcance)  
 además de **estar** sujeto a **obstáculos**.
