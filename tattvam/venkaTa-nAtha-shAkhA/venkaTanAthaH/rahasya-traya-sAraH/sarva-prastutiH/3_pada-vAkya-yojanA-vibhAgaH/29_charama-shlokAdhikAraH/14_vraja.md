@@ -3065,7 +3065,7 @@ Además, las palabras "aunque **ha matado**" **se aplican** a lo que **se hace**
 हत्वापि ऎऩ्बदुम् प्रकरणात् धर्मयुद्धविषयमॆऩ्गिऱार् हत्वापीति ।  
 </details>
 
-### निगमनम्
+### उपभुक्तौषध-न्यायो न
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 **उपभुक्तौषध**-न्यायाद्  
@@ -3276,16 +3276,367 @@ Pero cuando este miedo **no existía**,
 इदु ब्रह्मवित्तुक्कुम् तुल्यमॆऩ्ऩुमिडम् ‘‘सर्वान्नानुमतिश्च प्राणात्यये तद्दर्शनात्’’(ब्रह्मसूत्रम् ३-४-२७) ऎऩ्गिऱ सूत्रत्तिले दृष्टान्तरूपेण साधितमायिऱ्ऱु। 
 </details>
 
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् "कर्तृत्वम् आत्मावुक्क् इल्लैय्" ऎऩ्ऱ् आदल्  
+पारतन्त्र्य-ज्ञान-मात्रत्तैक् कॊण्ड् आदल्  
+
+> बुद्धि-पूर्वोत्तराघम् ऒरु बडिक्कुम् लेपियाद् 
+
+ऎऩ्गैयुम्  
+
+> इत्तैप् पऱ्ऱ पुनः प्रपदनम् वेण्डाव् 
+
+ऎऩ्गैयुम्  
+पर-पक्षम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, (based on) the **view**  
+that the self **is not** a **doer**  
+~~and~~ (or) that it is entirely **dependent** (on Iśvara)  
+
+(the view that the self) ~~and~~ hence **will not be stained** by any sins **committed** after prapatti  
+though they **are deliberate**  
+
+and that no further prapatti **need be performed** (for their **expiation**) -  
+
+this view is opposed to our siddhānta (Śrī Rāmānuja's doctrine ).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, (basado en) la **vista**  
+que el yo **no es** un **hacedor**  
+o que **es** completamente **dependiente** (de Iśvara)  
+
+(la visión de que el yo), por lo tanto, **no será manchado** por ningún pecado **cometido** después de prapatti  
+aunque **son deliberados**  
+
+y que **no es necesario realizar** más prapatti (para su **expiación**) -  
+
+este punto de vista **se opone** a nuestro siddhānta (la doctrina de Śrī Rāmānuja).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् कर्तृत्वमात्मावुक्किल्लैयॆऩ्ऱादल् पारतन्त्र्यज्ञानमात्रत्तैक्कॊण्डादल् बुद्धिपूर्वोत्तराघमॊरुबडिक्कुम् लेपियादॆऩ्गैयुमित्तैप्पऱ्ऱ पुनः प्रपदनम् वेण्डावॆऩ्गैयुम् परपक्षमाम्।
+</details>
+
+
+## न सम्बन्ध-ज्ञान-मात्रम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिले सिलर्  
+‘‘व्रजे’’त्यादि-विधिगळै अन्य-परङ्गळ् आक्कि 
+</details>
+
+<details><summary>English</summary>
+
+In this context some ( commentators) **explain** the meaning of vraja otherwise  
+((i.e. that it **does not enjoin** any **action**) 
+</details>
+
+<details><summary>Español</summary>
+
+En este contexto, algunos (comentaristas) **explican** el significado de vraja de otra manera.  
+((es decir, que **no impone** ninguna **acción**)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिले सिलर् ‘‘व्रजे’’त्यादि-विधिकळै अन्यपरङ्गळाक्कि 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ११३‘‘योऽन्यथा **सन्तम्** आत्मानम्  
+अन्यथा **प्रतिपद्यते** ।  
+किन् तेन **न कृतं** पापं  
+चोरेणात्मापहारिणा’’  
+(भारतम् उद्योग-पर्व ४२-३५),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ११३‘‘योऽन्यथा सन्तम् आत्मानम्  
+अन्यथा प्रतिपद्यते ।  
+किन् तेन न कृतं पापं  
+चोरेणात्मापहारिणा’’  
+(भारतम् उद्योग-पर्व ४२-३५),
+
+</details>
+
+<details><summary>English</summary>
+
+> "The self **is** the property of Bhagavan.  
+He who **considers** his self as **belonging** to himself, **is** a thief of the self.  
+**Is there** any form of sin  
+that **is not committed** by him?" 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "El yo **es** propiedad de Bhagavan.  
+El que **se considera** a sí mismo como **perteneciente** a sí mismo, **es** un **ladrón** de sí mismo.  
+**¿Existe** alguna forma de pecado?  
+que **no es cometido** por él?"
+</details>
 
 
 
+<details><summary>मूलम्</summary>
 
-Therefore the view that the self is not a doer and that it is entirely dependent (on Iśvara) and hence will not be stained by any sins committed after prapatti though they are deliberate and that no further prapatti need be performed (for their expiation) - this view is opposed to our siddhānta (Śrī Rāmānuja's doctrine ).
+११३‘‘योऽन्यथा सन्तमात्मानमन्यथा प्रतिपद्यते । किन्तेन न कृतं पापं चोरेणात्मापहारिणा’’(भारतम् उद्योग-पर्व ४२-३५),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ११४‘‘यमो वैवस्वतो राजा  
+यस् तवैष हृदि **स्थितः** ।  
+तेन चेद् **अविवादस्** ते  
+**मा** गङ्गां मा कुरून् **गमः**॥’’  
+(मनुस्मृति ८-९२),
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ११४‘‘यमो वैवस्वतो राजा  
+यस् तवैष हृदि **स्थितः** ।  
+तेन चेद् **अविवादस्** ते  
+**मा** गङ्गां मा कुरून् **गमः**॥’’  
+(मनुस्मृति ८-९२),
+
+</details>
+
+<details><summary>English</summary>
+
+> " Bhagavan **controls** all beings in the universe from within the sphere of the sun  
+and He **is** the **ruler** over all.  
+He **is** within your heart  
+and if you **have no quarrel** with him,  
+you **need not go** (on a pilgrimage) to the Gaṅga or to Kurukṣetra" 
+
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Bhagavan **controla** todos los seres del universo desde dentro de la esfera del sol.  
+y Él **es** el **gobernante** sobre todo.  
+Él **está** dentro de tu corazón  
+y si **no tienes nada en contra** con él,  
+**no necesitas ir** (en peregrinación) al Gaṅga o a Kurukṣetra"
+</details>
 
 
 
+<details><summary>मूलम्</summary>
 
-In this context some ( commentators) explain the meaning of vraja otherwise ((i.e. that it does not enjoin any action) and state that to the aspirant to mukti, there is no upāya to be adopted except the knowledge of relationship that is learnt from the śāstrās to exist between the jīva and Iśvara. They find support for this view in the following ślokas without comprehending their real purport. The ślokas are:- "The self is the property of Bhagavan. He who considers his self as belonging to himself, is a thief of the self. Is there any form of sin that is not committed by him?" " Bhagavan controls all beings in the universe from within the sphere of the sun and He is the ruler over all. He is within your heart and if you have no quarrel with him, you need not go (on a pilgrimage) to the Gaṅga or to Kurukṣetra" and "Remember always that the Lord is the master, that the self or atma is His servant and that this relationship exists always by your very nature." This argument is opposed to the natural and self evident injunction for bhakti , prapatti and the like. Since listening to Vedānta and reflecting on it arise from mere desire, there is no need also to enjoin the knowledge (of relationship) which arises from the śastras. ( There is no need for the Śāstra to enjoin something which a man will do of his own accord). As is well known, it has been established (in Śrī Bhāṣya) that if knowledge which need not be enjoined is called the means of attaining mukti, it would be opposed to the injunction ordaining certain things for performance and there would be other objections too; (the injunction made in the śāstras would serve no purpose at all).
+११४‘‘यमो वैवस्वतो राजा यस्तवैष हृदि स्थितः । तेन चेदविवादस्ते मा गङ्गां मा कुरून् गमः’’(मनुस्मृति ८-९२),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ११५ ‘‘आत्मदास्यं हरेस्स्वाम्यं  
+स्वभावञ् च सदा स्मर।’’  
+(विष्णु-तत्त्वम्) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ११५ ‘‘आत्मदास्यं हरेस्स्वाम्यं  
+स्वभावञ् च सदा स्मर।’’  
+(विष्णु-तत्त्वम्) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "Remember always that the Lord **is** the master,  
+that the self or atma **is** His **servant**  
+and that this relationship **exists** always by your very nature." 
+
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> “**Recordad** siempre que el Señor **es** el amo,  
+que el yo o atma **es** Su **sirviente**  
+y que esta relación **existe** siempre por tu propia naturaleza".
+</details>
+
+<details><summary>मूलम्</summary>
+
+११५ ‘‘आत्मदास्यं हरेस्स्वाम्यं स्वभावञ्च सदा स्मर’’(विष्णु-तत्त्वम्) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिल् तात्पर्य-गतिगळैयुम् परामर्शियादे 
+</details>
+
+<details><summary>English</summary>
+
+\- In the above ślokas, without **comprehending** their real purport, 
+</details>
+
+<details><summary>Español</summary>
+
+\- En los ślokas anteriores, sin **comprender** su verdadero significado,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिल् तात्पर्यगतिकळैयुम् परामर्शियादे 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱैक् कॊण्डु,  
+शास्त्र-जन्य-सम्बन्ध-ज्ञानम् ऒऴिय  
+वेऱु मुमुक्षुवुक्क् अनुष्ठेयम् आय् इरुप्पद् ऒरु उपायम् इल्लैय् ऎऩ्बर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+they **find support** for this **view** that  
+to the aspirant to mukti,  
+there **is no** upāya to **be adopted** except the **knowledge** of **relationship**  
+that **is learnt** from the śāstrās  
+to **exist** between the jīva and Iśvara. 
+</details>
+
+<details><summary>Español</summary>
+
+ellos **encuentran apoyo** para esta **visión** que  
+al **aspirante** a mukti,  
+**no hay** ningún upāya que **ser adoptado** excepto el **conocimiento** de la **relación**  
+eso **se aprende** de los śāstrās  
+**existir** entre la jīva y Iśvara.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱैक्कॊण्डु शास्त्रजन्यसम्बन्धज्ञानमॊऴिय वेऱु मुमुक्षुवुक्कनुष्ठेयमायिरुप्पदॊरु उपायमिल्लै यॆऩ्बर्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु भक्ति-प्रपत्त्य्-आदि-विधि-स्वारस्य-विरुद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+This **argument is opposed** to the natural and self evident **injunction** for bhakti , prapatti and the like. 
+</details>
+
+<details><summary>Español</summary>
+
+Este **argumento se opone** al natural y evidente **orden** para bhakti, prapatti y similares.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु भक्तिप्रपत्त्यादिविधिस्वारस्यविरुद्धम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+राग-प्राप्त--श्रवण-मननङ्गळाले सिद्धम् आऩ  
+शास्त्र-जन्य-ज्ञानत्तै विधिक्कवुम् वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+Since **listening** to Vedānta and **reflecting** on it  
+**arise** from mere desire,  
+there **is no need** also to **enjoin** the **knowledge** (of relationship)  
+which **arises** from the śastras. 
+( There **is no need** for the Śāstra to **enjoin** something  
+which a man **will do** of his own accord). 
+</details>
+
+<details><summary>Español</summary>
+
+Desde que **escuché** el Vedānta y **reflexioné** sobre él  
+**surgen** del mero deseo,  
+**no hay necesidad** también de **imponer** el **conocimiento** (de la relación)  
+que **surge** de los śastras. 
+(**No hay necesidad** de que el Śāstra **ordene** algo  
+que un hombre **hará** por su propia voluntad).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रागप्राप्तश्रवणमननङ्गळाले सिद्धमाऩ शास्त्रजन्यज्ञानत्तै विधिक्कवुम् वेण्डा। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-विधेय-ज्ञानत्तै मोक्ष-साधनम् आगच् चॊल्लुवार्क्कु  
+विधि-विरोधादि-दोषङ्गळुम् वरुम् ऎऩ्ऱु +++(श्री-भाष्ये)+++ साधित्तद् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+As is well known, it **has been established** (in Śrī Bhāṣya) that  
+if **knowledge** which **need not be enjoined**  
+**is called** the means of **attaining** mukti,  
+
+it **would be opposed** to the **injunction** **ordaining** certain things for **performance**  
+
+and there **would be** other **objections** too;  
+(the **injunction made** in the śāstras **would serve no purpose** at all).
+</details>
+
+<details><summary>Español</summary>
+
+Como **es** bien **sabido**,  
+**ha sido establecido** (en Śrī Bhāṣya) que  
+si el **conocimiento** que **no necesita ser ordenado**  
+**se llama** el medio para **alcanzar** mukti,  
+
+**se opondría** a la **orden** **que ordena** ciertas cosas para el **desempeño**  
+
+y **habría** otras **objeciones** también;  
+(el **mandato hecho** en los śāstras **no serviría para nada** en absoluto).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अविधेयज्ञानत्तै मोक्षसाधनमागच् चॊल्लुवार्क्कु विधिविरोधादिदोषङ्गळुम् वरुमॆऩ्ऱु साधित्तदिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ बिऩ्बु सर्व-विद्या-निष्ठर् आऩ मुमुक्षुक्कळुक्कुम्  
+पॊदुव् आय् परं-परयोपकारकम् आऩ  
+जीव-परमात्म सम्बन्धज्ञानम् शास्त्रत्ताले पिऱन्दवऩुक्कु 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु सर्वविद्यानिष्ठराऩ मुमुक्षुक्कळुक्कुम् पॊदुवाय्परंपरयोपकारकमाऩ जीवपरमात्म सम्बन्धज्ञानम् शास्त्रत्ताले पिऱन्दवऩुक्कु 
+</details>
+
 
 
 
