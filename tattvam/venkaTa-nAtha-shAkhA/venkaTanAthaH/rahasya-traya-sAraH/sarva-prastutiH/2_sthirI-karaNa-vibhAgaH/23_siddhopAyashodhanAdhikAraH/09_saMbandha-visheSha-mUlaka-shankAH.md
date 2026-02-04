@@ -1441,7 +1441,7 @@ without the faults of the desire for renown, gain, honour or benefit, and of att
 
 Este **es** el formulario **prescrito**  
 para **permitirnos meditar** en bhagavān  
-Sin las fallas del deseo de renombre, ganancia, honor o beneficio, y de **apego** a la fruta, la noción de que uno **es** el **hacedora** (independiente) y **tener** un upāya.
+Sin las fallas del deseo de renombre, ganancia, honor o beneficio, y de **apego** a la fruta, la noción de que uno **es** el **hacedor** (independiente) y **tener** un upāya.
 </details>
 
 
