@@ -3110,6 +3110,22 @@ y **no están reemplazados** por otros textos.
 अनन्यपरनिर्बाधश्रुतिस्मृतिशतैर्हतम् ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऒरुवऩ् सिद्धौषधत्तै सेवित्ताऩागिल् अदिऩ् माहात्म्यत्ताले औषधसेवोत्तरकालिकापथ्यमॆल्लाम् पोक्कडिक्कप्पडविल्लैयो, अदुबोले ऒरुवऩ् प्रपत्तियै अनुष्ठित्ताल् अदुदाऩे प्रपत्त्युत्तरकालिकबुद्धिपूर्वोत्तराघत्तैयुम् उपमर्दम् सॆय्यादो इत्यादिकुचोद्यङ्गळॆल्लाम् 
+
+> ‘‘इहैव केचिद् उपक्लेशा भवन्ति’’, 
+
+> ‘‘अपाय-सम्प्लवे सद्यः  
+प्रायश्चित्तं समाचरेत्’’ 
+
+> ‘‘प्रायश्-चित्तिर् इयं सात्र  
+यत् पुनश् शरणं व्रजेत्’’ 
+
+इत्यादिबहुशास्त्रङ्गळाले ध्वंसितमॆऩ्गिऱार् उपभुक्तौषधेति ।
+</details>
+
+
 ### मन्वादि-वचनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3157,6 +3173,12 @@ de la misma manera que el fango **no mancha** el éter (ākāśa)"
 
 मन्वादिगळुम् ‘‘जीवितात्ययमापन्नो योऽन्नमत्ति यतस्ततः । आकाश इव पङ्केन न स पापेन लिप्यते’’(मनुस्मृति ६-१९४), 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मन्वादिगळ् बुद्धिपूर्वोत्तराघम् जीवितात्ययादिरूपापत्कालत्तिल् लेपियादॆऩ्ऱे व्यवस्थै पण्णिऩार् कळॆऩ्गिऱार् मन्वादिगळुमिति । आदिशब्दत्ताले व्यासरुक्कु ग्रहणम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3276,6 +3298,12 @@ Pero cuando este miedo **no existía**,
 इदु ब्रह्मवित्तुक्कुम् तुल्यमॆऩ्ऩुमिडम् ‘‘सर्वान्नानुमतिश्च प्राणात्यये तद्दर्शनात्’’(ब्रह्मसूत्रम् ३-४-२७) ऎऩ्गिऱ सूत्रत्तिले दृष्टान्तरूपेण साधितमायिऱ्ऱु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मन्वादिगळ् सॊऩ्ऩदु अब्रह्मविद्विषयमऩ्ऱो, उत्कृष्टतरर्गळाऩ ब्रह्मवित्तुक्कळुक्कु उत्तराघम् अनापत्तिलुम् लेपियादॆऩ्ऱु सॊल्लवेण्डावो वॆऩ्ऩवरुळिच् चॆय्गिऱार् इदु ब्रह्मवित्तुक्कुमिति । दृष्टान्तरूपेण साधितमायिऱ्ऱु इति । ‘‘तद्दर्शना’’ दिति सूत्रखण्डेन ब्रह्मविदग्रेसरस्य चाक्रायणस्योषस्तेः प्राणसंशयापत्तावेव इभ्यात्कुल्माषखादनत्तै दृष्टान्तमागक् काट्टि अब्रह्मवित्ताऩ प्राणविद्यानिष्ठऩुक्कु सर्वान्नीनत्वत्तै साधित्तिरुप्पदाल् ब्रह्मवित्तुक्कुम् आपत्कालत्तिलेये सर्वान्नीनत्वम् ऎऩ्बदु तुल्यमॆऩ्ऱु करुत्तु।
+</details>
+
+
 ### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3326,6 +3354,16 @@ este punto de vista **se opone** a nuestro siddhānta (la doctrina de Śrī Rām
 आगैयाल् कर्तृत्वमात्मावुक्किल्लैयॆऩ्ऱादल् पारतन्त्र्यज्ञानमात्रत्तैक्कॊण्डादल् बुद्धिपूर्वोत्तराघमॊरुबडिक्कुम् लेपियादॆऩ्गैयुमित्तैप्पऱ्ऱ पुनः प्रपदनम् वेण्डावॆऩ्गैयुम् परपक्षमाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उत्तराघाश्लेषनिरसनत्तैनिगमिक्किऱार् आगैयालिति । आगैयाल् - आत्मावुक्कु पराधीनकर्तृत्वमुण्डॆऩ्ऱु साधिक्कप्पट्टबडियालुम् निषेधशास्त्रम् कर्तृत्वमात्रावलम्बियागैयालुमॆऩ्ऱबडि, ऒरुबडिक्कुम् - आपत्तिलो अनापत्तिलो ऎऩ्ऱबडि, परपक्षमाम् - भाष्यकारसिद्धान्तभिन्नसिद्धान्तमाम्। इङ्गु सिलर् 
+
+> ‘‘आत्मदास्यं हरेः स्वाम्यं  
+स्वभावञ्च सदा स्मर’’ 
+
+इत्यादिगळै आपाततः ग्रहणम्बण्णि सम्बन्धज्ञानामात्रमे मोक्षसाधनमागैयाल् व्रज ऎऩ्ऱु मोक्षसाधनमाग वेऱु ज्ञानम् विधेयमऩ्ऱॆऩ्बर्। 
+</details>
+
 
 ## न सम्बन्ध-ज्ञान-मात्रम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3351,6 +3389,12 @@ En este contexto, algunos (comentaristas) **explican** el significado de vraja d
 
 इव्विडत्तिले सिलर् ‘‘व्रजे’’त्यादि-विधिकळै अन्यपरङ्गळाक्कि 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अवर्गळ् मदत्तैयनुवदित्तु निरसिक्किऱार् इव्विडत्तिले सिलरिति । 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3503,6 +3547,12 @@ y que esta relación **existe** siempre por tu propia naturaleza".
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अन्यपरङ्गळाक्कि – इममर्थञ्जानीहि ऎऩ्बदु पोल् ऎऩ्ऩै उपायमागत् तॆरिन्दुगॊळ् ऎऩ्ऱु उपायत्वज्ञानबोधनपरमाक्कि, इत्यादिगळिल् तात्पर्यगतिकळैयुम् परामर्शियादे इति । इव्वचनङ्गळिऩ् तात्पर्यत्तै परामर्शित्ताल् प्रपत्तिक्कुम् मूलमाऩ सम्बन्धज्ञानत्तिऩ् प्राशस्त्यम् सॊऩ्ऩदाग मुडियुमेयॊऴिय विधेयमाऩ प्रपत्तियै निषेधित्तदाग आगादॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवऱ्ऱैक् कॊण्डु,  
@@ -3555,6 +3605,12 @@ Este **argumento se opone** al natural y evidente **orden** para bhakti, prapatt
 इदु भक्तिप्रपत्त्यादिविधिस्वारस्यविरुद्धम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदु भक्तिप्रपत्त्यादिविधिस्वारस्यविरुद्धमिति । व्रज, शरणं श्रयेत्, तमेव शरणङ्गच्छ इत्यादिविधिस्वारस्यविरुद्धमॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राग-प्राप्त--श्रवण-मननङ्गळाले सिद्धम् आऩ  
@@ -3585,6 +3641,11 @@ que un hombre **hará** por su propia voluntad).
 <details><summary>मूलम्</summary>
 
 रागप्राप्तश्रवणमननङ्गळाले सिद्धमाऩ शास्त्रजन्यज्ञानत्तै विधिक्कवुम् वेण्डा। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शास्त्र जन्यसम्बन्धज्ञानमे इङ्गु विधेयमागलागादो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् रागप्राप्तश्रवणमननङ्गळाले इति । शास्त्रजन्यज्ञानत्तै - शास्त्रजन्य सम्बन्धज्ञानत्तै, 
 </details>
 
 
@@ -3625,11 +3686,35 @@ y **habría** otras **objeciones** también;
 अविधेयज्ञानत्तै मोक्षसाधनमागच् चॊल्लुवार्क्कु विधिविरोधादिदोषङ्गळुम् वरुमॆऩ्ऱु साधित्तदिऱे। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सम्बन्धज्ञानम् विधेयमल्लाविडिलुम् अविधेयमाऩ अन्द ज्ञानत्तालेये मोक्षम् वरलागादो ऎऩ्ऩ, वारादॆऩ्ऱु पूर्वमेव स्थापितमॆऩ्गिऱार् अविधेयज्ञानत्तै इति । ‘‘योऽन्यथा सन्तमात्मानम्’’  इत्यादिगळुक्कुम् प्रपत्त्यादिविधिकळुक्कुम् विरोधमिल्लै। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आऩ बिऩ्बु सर्व-विद्या-निष्ठर् आऩ मुमुक्षुक्कळुक्कुम्  
 पॊदुव् आय् परं-परयोपकारकम् आऩ  
-जीव-परमात्म सम्बन्धज्ञानम् शास्त्रत्ताले पिऱन्दवऩुक्कु 
+जीव-परमात्म सम्बन्धज्ञानम्  
+शास्त्रत्ताले पिऱन्दवऩुक्कु 
+</details>
+
+<details><summary>English</summary>
+
+If this **is admitted**,  
+the **knowledge** of the **relationship** between the jīva and Iśvara is indirectly **helpful** to all **aspirants** to mukti,  
+whatever vidyā  they **may adopt**.  
+When a man **has acquired** this **knowledge** from the śāstras,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Si esto **se admite**,  
+el **conocimiento** de la **relación** entre la jīva e Iśvara **es** indirectamente **útil** para todos los **aspirantes** a mukti,  
+cualquier vidyā que **puedan adoptar**.  
+Cuando un hombre **ha adquirido** este **conocimiento** de los śāstras,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3639,8 +3724,98 @@ y **habría** otras **objeciones** también;
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-If this is admitted, the knowledge of the relationship between the jīva and Iśvara is indirectly helpful to all aspirants to mukti, whatever vidyā  they may adopt. When a man has acquired this knowledge from the śāstras, the question then arises “ What is the means or upāya for attaining Bhagavān, the Lord of Śrī, who is our master and who imparts unsurpassed bliss ?" When this question has arisen, the answer is that these means or upāyas are certain other forms of knowledge (other than the knowledge of relationship) which are enjoined for the purpose in accordance with each man's competence and they are bhakti  and prapatti. Of these, prapatti is the surrender of the responsibility for one's protection along with its auxiliaries as stated in the following passage: "When the question  arises : " To whom is this self to be surrendered for protection ? the answer is "To Viṣṇu ". In order to show that this (prapatti) should be performed with the knowledge of the relationship existing between one's self and Iśvara, it was stated that prapatti is the knowledge of the relationship. (It does not mean that prapatti is merely that knowledge and nothing else). We have already described at great length the essential nature (svarūpa) of this prapatti, its auxiliaries and the like (pages).
+> नम्म्-उडैय स्वामिय् आय्  
+निरतिशय-भोग्यऩ् आऩ श्रियः-पतियै प्रापिक्कैक्कु  
+विरग्+++(=उपाय)+++ ऎद् 
+
+ऎऩ्गिऱ उपायाकांक्षै पिऱन्दव् अस्ळविल् 
+</details>
+
+<details><summary>English</summary>
+
+the question then **arises** 
+
+> “ What **is** the means or upāya for **attaining** Bhagavān, the Lord of Śrī,  
+who **is** our master  
+and who **imparts** unsurpassed bliss ?" 
+
+When this question **has arisen**, the answer **is** that … 
+</details>
+
+<details><summary>Español</summary>
+
+la **pregunta** entonces **surge** 
+
+> “¿Cuál **es** el medio o upāya para **alcanzar** a Bhagavān, el Señor de Śrī,  
+quien **es** nuestro maestro  
+¿Y quién **imparte** dicha insuperable?" 
+
+Cuando **ha surgido** esta pregunta, la respuesta **es** que…
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नम्मुडैय स्वामियाय् निरतिशयभोग्यऩाऩ श्रियःपतियै प्रापिक्कैक्कु विरगॆदॆऩ्गिऱ उपायाकांक्षै पिऱन्दवळविल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गेय् अव्व्-ओ अधिकारि-विशेषानुरूपम् आग विधिक्कप् पडुगिऱ ज्ञानान्तरङ्गळ्  
+भक्ति-प्रपत्तिगळ्।
+</details>
+
+<details><summary>English</summary>
+
+these means or upāyas **are** certain other forms of **knowledge** (other than the knowledge of relationship)  
+which **are enjoined** for the purpose  
+in accordance with each man's competence  
+and they **are** bhakti  and prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+estos medios o upāyas **son** ciertas otras formas de **conocimiento** (aparte del **conocimiento** de la relación)  
+que **están ordenados** con el propósito  
+de acuerdo con la competencia de cada hombre  
+y ellos **son** bhakti y prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गे यव्वो अधिकारिविशेषानुरूपमाग विधिक्कप्पडुगिऱ ज्ञानान्तरङ्गळ् भक्तिप्रपत्तिकळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऱ्ऱिल् प्रपत्तिय् आवदु 
+
+> ‘‘यत् संरक्ष्यतया ऽर्प्यत’’  
+(अहिर्-बुध्न्य-संहिता ५२-३५) 
+
+इत्य्-आदिगळिऱ् पडिये  
+स-परिकरम् आऩ स्व-रक्षा-भर-समर्पणम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवऱ्ऱिल् प्रपत्तियावदु ‘‘यत्संरक्ष्यतयार्प्यत’’(अहिर्बुध्न्य-संहिता ५२-३५) इत्यादिगळिऱ्पडिये सपरिकरमाऩ स्वरक्षाभरसमर्पणम्।
+</details>
+
+
+Of these, prapatti **is** the **surrender** of the **responsibility** for one's **protection**  
+along with its auxiliaries  
+as **stated** in the following passage: 
+
+> When the **question  arises** :  
+To whom is this self **to be surrendered** for **protection** ?  
+the answer is "To Viṣṇu ".  
+
+In order to **show** that this (prapatti) **should be performed** with the **knowledge** of the relationship existing between one's self and Iśvara, it was stated that prapatti is the knowledge of the relationship. (It does not mean that prapatti is merely that knowledge and nothing else). We have already described at great length the essential nature (svarūpa) of this prapatti, its auxiliaries and the like (pages).
 
 
 
