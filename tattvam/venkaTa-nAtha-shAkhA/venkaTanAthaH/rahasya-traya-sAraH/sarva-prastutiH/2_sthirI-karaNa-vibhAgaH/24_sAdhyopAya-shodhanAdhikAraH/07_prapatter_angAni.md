@@ -199,14 +199,14 @@ El gran **apreciará** esto ",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
->> ‘‘यदि वा रावणस्स्वयं’’(रामायणम् युद्ध-काण्डम् १४-३४।) 
+>> ‘‘यदि वा रावणस्स्वयम्’’(रामायणम् युद्ध-काण्डम् १४-३४।) 
 > 
 > ऎऩ्ऱुञ् 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
->> ‘‘यदि वा रावणस्स्वयं’’(रामायणम् युद्ध-काण्डम् १४-३४।) 
+>> ‘‘यदि वा रावणस्स्वयम्’’(रामायणम् युद्ध-काण्डम् १४-३४।) 
 > 
 > इति च
 </details>
@@ -293,6 +293,12 @@ y que **fue amable** incluso para sus enemigos
 >
 > इति किल पूर्वेषां वचः । 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+वात्सल्य-लक्षणम् इदम्। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -639,12 +645,12 @@ y que **estos** accesorios **se requieren** solo una vez y así sucesivamente.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(प्रपत्ति-रूप-)+++ब्रह्मास्त्रमुम् स्वाङ्ग-सापेक्षम् आय् इऱेय् इरुप्पदु। 
++++(प्रपत्ति-रूप-)+++ब्रह्मास्त्रमुम् +++(मन्त्रवचनादि-)+++ स्वाङ्ग-सापेक्षम् आय् इऱेय् इरुप्पदु। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-+++(प्रपत्ति-रूप-)+++ब्रह्मास्त्रम् अपि स्वाङ्ग-सापेक्षं किल भवति । 
++++(प्रपत्ति-रूप-)+++ब्रह्मास्त्रम् अपि +++(मन्त्रवचनादि-)+++स्वाङ्ग-सापेक्षं किल भवति । 
 </details>
 
 <details><summary>English</summary>
@@ -771,12 +777,12 @@ que **se puede encontrar** (en una prapanna) y no como un aṅga.
 
 
 ## विश्वास-महत्त्वम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
 
 WHY SHOULD INTENSE FAITH BE CALLED AN AṅGA INSTEAD OF MERE FAITH ?
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Español</summary>
 
 ¿Por qué **debería llamarse** fe intensa a Aṅga en lugar de mera fe?
 </details>
@@ -1647,7 +1653,7 @@ Simplemente por la diferencia en la actitud mental (de aquellos que los **adopta
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> वापकस्याभिसन्धि-भेदेनैकस्यैव बीजस्य फलान्तर-जनकत्वं किम् अपश्याम?
+> वापकस्याभिसन्धि-भेदेनैकस्यैव बीजस्य फलान्तर-जनकत्वं किम् अपश्याम? +++(५)+++
 
 इति केचिद् उत्पश्यन्ति । 
 </details>
@@ -1685,8 +1691,9 @@ Algunos pueden preguntar (lo anterior).
 
 इदुक्कुप् परिहारम्;  
 न्यायङ्गळाले बाधिक्कव् ऒण्णाद पडि  
-प्रत्यक्षादिगळैप् पोले स्व-विषयत्तिल् प्रमाणम् आऩ  
-शास्त्रङ् गाट्टुगैयाल्  
+प्रत्यक्षादिगळैप् पोले  
+स्व-विषयत्तिल् प्रमाणम् आऩ  
+शास्त्रङ् गाट्टुगैयाल् +++(५)+++  
 इप्-पडिक् कूडुम्। 
 </details>
 
@@ -1694,7 +1701,7 @@ Algunos pueden preguntar (lo anterior).
 
 अस्य परिहारो यथा—  
 न्यायाबाध्यत्व-रूपेण  
-प्रत्यक्षादिवत् स्व-विषये प्रमाणेन शास्त्रेण प्रदश्यमानत्वाद्  
+प्रत्यक्षादिवत् स्व-विषये प्रमाणेन शास्त्रेण प्रदश्यमानत्वाद् +++(५)+++  
 एवम्-भावो युज्यते ।  
 </details>
 
