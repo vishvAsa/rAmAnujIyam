@@ -2074,7 +2074,7 @@ y **no puede** por lo tanto **ser anulado** por la forma dual, es decir, los dos
 ### पति-प्राधान्यात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चरणान् इति **वक्तव्यम्**  
+"चरणान् इति **वक्तव्यम्**"  
 इति यच् च **प्रसञ्जितम्** ।  
 ग्रन्थ-ज्ञैर् **अपहास्यं** तत्  
 पति-प्राधान्यतो **ऽन्वयात्** ॥  
@@ -2082,11 +2082,10 @@ y **no puede** por lo tanto **ser anulado** por la forma dual, es decir, los dos
 
 <details><summary>नीलमेघः (सं)</summary>
 
-चरणान् इति **वक्तव्यम्**  
+"चरणान् इति **वक्तव्यम्**"  
 इति यच् च **प्रसञ्जितम्** ।  
 ग्रन्थ-ज्ञैर् **अपहास्यं** तत्  
 पति-प्राधान्यतो **ऽन्वयात्** ॥  
-
 </details>
 
 
