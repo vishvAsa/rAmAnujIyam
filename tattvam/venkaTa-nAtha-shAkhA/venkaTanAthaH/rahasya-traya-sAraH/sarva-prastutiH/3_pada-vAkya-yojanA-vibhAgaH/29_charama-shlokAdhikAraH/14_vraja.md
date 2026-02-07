@@ -3722,6 +3722,10 @@ Cuando un hombre **ha adquirido** este **conocimiento** de los śāstras,
 आऩबिऩ्बु सर्वविद्यानिष्ठराऩ मुमुक्षुक्कळुक्कुम् पॊदुवाय्परंपरयोपकारकमाऩ जीवपरमात्म सम्बन्धज्ञानम् शास्त्रत्ताले पिऱन्दवऩुक्कु 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रत्युत सम्बन्धज्ञानम् परम्परया उपकारकमॆऩ्गिऱार् आऩबिऩ्बु इति । आऩबिऩ्बु - अविधेयमाऩ सम्बन्धज्ञानमात्रम् मोक्षसाधनमागादाऩबिऩ्बु, 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3730,7 +3734,7 @@ Cuando un hombre **ha adquirido** este **conocimiento** de los śāstras,
 निरतिशय-भोग्यऩ् आऩ श्रियः-पतियै प्रापिक्कैक्कु  
 विरग्+++(=उपाय)+++ ऎद् 
 
-ऎऩ्गिऱ उपायाकांक्षै पिऱन्दव् अस्ळविल् 
+ऎऩ्गिऱ उपायाकांक्षै पिऱन्दव् अळविल् 
 </details>
 
 <details><summary>English</summary>
@@ -3801,11 +3805,7 @@ y ellos **son** bhakti y prapatti.
 स-परिकरम् आऩ स्व-रक्षा-भर-समर्पणम्।
 </details>
 
-<details><summary>मूलम्</summary>
-
-अवऱ्ऱिल् प्रपत्तियावदु ‘‘यत्संरक्ष्यतयार्प्यत’’(अहिर्बुध्न्य-संहिता ५२-३५) इत्यादिगळिऱ्पडिये सपरिकरमाऩ स्वरक्षाभरसमर्पणम्।
-</details>
-
+<details><summary>English</summary>
 
 Of these, prapatti **is** the **surrender** of the **responsibility** for one's **protection**  
 along with its auxiliaries  
@@ -3814,9 +3814,82 @@ as **stated** in the following passage:
 > When the **question  arises** :  
 To whom is this self **to be surrendered** for **protection** ?  
 the answer is "To Viṣṇu ".  
+</details>
 
-In order to **show** that this (prapatti) **should be performed** with the **knowledge** of the relationship existing between one's self and Iśvara, it was stated that prapatti is the knowledge of the relationship. (It does not mean that prapatti is merely that knowledge and nothing else). We have already described at great length the essential nature (svarūpa) of this prapatti, its auxiliaries and the like (pages).
+<details><summary>Español</summary>
 
+De estos, prapatti **es** la **rendición** de la **responsabilidad** de la propia **protección**  
+junto con sus auxiliares  
+como **indicado** en el siguiente pasaje: 
+
+> Cuando surge la **pregunta**:  
+¿A quién debe **entregarse** este yo para **protección**?  
+la **respuesta es** "Para Viṣṇu".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऱ्ऱिल् प्रपत्तियावदु ‘‘यत्संरक्ष्यतयार्प्यत’’(अहिर्बुध्न्य-संहिता ५२-३५) इत्यादिगळिऱ्पडिये सपरिकरमाऩ स्वरक्षाभरसमर्पणम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रपत्तिस्वरूपत्तै प्रदर्शिप्पिक्किऱार् अवऱ्ऱिलिति । भक्तिप्रपत्त्योर्मध्य इत्यर्थः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदु सम्बन्धानुसन्धान-गर्भम् आग वेणुम् 
+
+ऎऩ्गैक्क् आग  
+"सम्बन्ध-ज्ञानम् प्रपत्तिय्" ऎऩ्ऱु सॊऩ्ऩार्गळ् अत्तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+In order to **show** that this (prapatti) **should be performed** with the **knowledge** of the **relationship existing** between one's self and Iśvara,  
+it **was stated** that prapatti **is** the knowledge of the relationship.  
+(It **does not mean** that prapatti **is** merely that knowledge and nothing else). 
+</details>
+
+<details><summary>Español</summary>
+
+Para **mostrar** que esto (prapatti) **debe realizarse** con el **conocimiento** de la **relación existente** entre uno mismo e Iśvara,  
+**se afirmó** que prapatti **es** el **conocimiento** de la relación.  
+(Esto **no significa** que prapatti **sea** simplemente ese conocimiento y nada más).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु सम्बन्धानुसन्धानगर्भमागवेणुमॆऩ्गैक्काग सम्बन्धज्ञानम् प्रपत्तियॆऩ्ऱु सॊऩ्ऩार्गळत्तऩै। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब् भर-न्यास-रूप-प्रपत्तियिऩ् स्वरूप--परिकराधिकारादिगळै  
+मुऩ्बे परक्कच् चॊऩ्ऩोम्।  
+</details>
+
+<details><summary>English</summary>
+
+We **have already described** at great length the essential nature (svarūpa) of this prapatti,  
+its auxiliaries and the like.
+</details>
+
+<details><summary>Español</summary>
+
+**Ya hemos descrito** detalladamente la naturaleza esencial (svarūpa) de este prapatti,  
+sus auxiliares y similares.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इब् भरन्यासरूपप्रपत्तियिऩ् स्वरूपपरिकराधिकारादिगळै मुऩ्बे परक्कच् चॊऩ्ऩोम्।  
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
@@ -3827,7 +3900,7 @@ In order to **show** that this (prapatti) **should be performed** with the **kno
 चादनङ्गळिन्निलैक्कोरिडैयिनिल्ला  
 वेदनैसेर् वेऱङ्गमिदनिल् वेण्डा वेऱॆल्ला निऱ्‌कुनिलै नाने निऱ्‌पन्  
 तूदनुमा नादनुमा मॆन्नैप् पऱ्ऱिच्  
-चोगन्दीरॆन वुरैत्तान् सूऴ्गिऩ्ऱाने. // 43 //
+चोगन्दीरॆन वुरैत्तान् सूऴ्गिऩ्ऱाने. ॥ 43 ॥
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -3838,7 +3911,7 @@ In order to **show** that this (prapatti) **should be performed** with the **kno
 चादनङ्गळिन्निलैक्कोरिडैयिनिल्ला  
 वेदनैसेर् वेऱङ्गमिदनिल् वेण्डा वेऱॆल्ला निऱ्‌कुनिलै नाने निऱ्‌पन्  
 तूदनुमा नादनुमा मॆन्नैप् पऱ्ऱिच्  
-चोगन्दीरॆन वुरैत्तान् सूऴ्गिऩ्ऱाने. // 43 //
+चोगन्दीरॆन वुरैत्तान् सूऴ्गिऩ्ऱाने. ॥ 43 ॥
 </details>
 
 "I am the means as well as the end to be attained. The aspirant (to.mukti) should become subject to me and seek my protection. The upāya called śaraṇāgati is not the direct means for the attainment. Sadhanas or means like bhakti  yoga and karma  yoga are no aids to prapatti; other troublesome aṅgas are not required for prapatti. I will myself stand in the place of all such means (as are prescribed for attaining the desired fruits). I am the messenger and the master. Seek me as your refuge and be free from all anxiety". So says the Lord and surrounds me on all sides).
