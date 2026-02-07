@@ -784,8 +784,6 @@ para **alcanzar** el fruto (deseado).
 लोक-दृष्टि--गुरूक्तिभिः ।  
 श्रुत्या स्मृत्या च संसिद्धं  
 घटकार्थावलम्बनम्” 
-
-
 </details>
 
 <details><summary>English</summary>
@@ -817,7 +815,8 @@ y así también por el śruti y el smṛti,
 
 <details><summary>मूलम्</summary>
 
-“अर्थस्वभावानुष्ठानलोकदृष्टिगुरूक्तिभिः । श्रुत्या स्मृत्या च संसिद्धं घटकार्थावलम्बनं” </details>
+“अर्थस्वभावानुष्ठानलोकदृष्टिगुरूक्तिभिः । श्रुत्या स्मृत्या च संसिद्धं घटकार्थावलम्बनम्” 
+</details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
