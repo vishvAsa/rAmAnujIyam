@@ -3212,7 +3212,7 @@ Tú que **no puedes ser alcanzado** por bhakti",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पूर्ण-प्रपत्तिक्क् अपेक्षितम् आऩ तॆळिव् इल्लाविडिलुम् 
+पूर्ण-प्रपत्तिक्क् अपेक्षितम् आऩ तॆळिव् इल्ला विडिलुम्+++(←विडुत्तल्)+++ 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
