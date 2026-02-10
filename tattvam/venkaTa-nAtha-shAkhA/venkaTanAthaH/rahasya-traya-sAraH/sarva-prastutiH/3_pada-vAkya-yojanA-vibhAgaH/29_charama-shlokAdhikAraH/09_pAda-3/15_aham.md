@@ -13,8 +13,45 @@ EN LA SEGUNDA MITAD DEL ŚLOKA página 587
 </details>
 
 
+## उत्तरार्धावतारणम्
 
-Thus in the first half of the carama śloka, Śrī Kṛṣṇa enjoins, for a particular person (adhikārī), the adoption of that upāya (prapatti) which is referred to in the first part of Dvaya and which has (in itself) the potency of all dharmas or rites and, at the same time a peculiar and unique potency of its own which none of them possesses (for it can destroy even that karma  which has already begun to operate and yield its consequences). He has explained that this upāya does not require any special or ancillary dharmas on the part of the adhikārī and has to be performed only once. In the second half of the śloka, he graciously explains, at length, the fruit to be attained (by adopting this upāya), which is (only) briefly indicated by the word namas in the second part of Dvaya. In the first half of the śloka, Śrī Kṛṣṇa stated that which has to be done by the person or adhikārī (seeking mukti). In the second half. He states what He, as the Saviour who has accepted the responsibility of protecting, will perform and comforts the man who has done what he ought to do (i.e.) performed prapatti.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि पूर्वार्धत्ताले  
+ओर् अधिकारि-विशेषत्तुक्कु द्वयत्तिल् अनुसन्धेयम् आय् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि पूर्वार्धत्ताले ओरधिकारिविशेषत्तुक्कु द्वयत्तिल् अनुसन्धेयमाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वधर्मङ्गळुक्कुमुळ्ळ प्रभावत्तैयुम् अवऱ्ऱुक्किल्लाद स्वासाधारणप्रभावत्तैयुमुडैत्ताऩ 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वधर्मङ्गळुक्कुमुळ्ळ प्रभावत्तैयुम् अवऱ्ऱुक्किल्लाद स्वासाधारणप्रभावत्तैयुमुडैत्ताऩ 
+</details>
+
+
+
+
+
+Thus in the first half of the carama śloka, Śrī Kṛṣṇa **enjoins**,  
+for a particular person (adhikārī),  
+the **adoption** of that upāya (prapatti)  
+which **is referred to** in the first part of Dvaya  
+and which **has** (in itself) the potency of all dharmas or rites  
+and, at the same time a peculiar and unique potency of its own  
+which none of them **possesses**  
+(for it **can destroy** even that karma  
+which has already **begun to operate**  
+and **yield** its consequences). 
+
+He has explained that this upāya does not require any special or ancillary dharmas on the part of the adhikārī and has to be performed only once. In the second half of the śloka, he graciously explains, at length, the fruit to be attained (by adopting this upāya), which is (only) briefly indicated by the word namas in the second part of Dvaya. In the first half of the śloka, Śrī Kṛṣṇa stated that which has to be done by the person or adhikārī (seeking mukti). In the second half. He states what He, as the Saviour who has accepted the responsibility of protecting, will perform and comforts the man who has done what he ought to do (i.e.) performed prapatti.
 
 
 
