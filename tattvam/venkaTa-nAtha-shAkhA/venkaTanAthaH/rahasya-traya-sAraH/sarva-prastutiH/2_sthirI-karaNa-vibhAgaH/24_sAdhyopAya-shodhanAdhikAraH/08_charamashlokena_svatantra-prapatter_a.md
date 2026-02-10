@@ -2,6 +2,7 @@
 title = "०८ चरमश्लोकेन स्वतन्त्र-प्रपत्तेर् अपि विधिः"
 
 +++
+## भक्त्यङ्गत्वम् एव?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेऱे सिलर्  
@@ -305,7 +306,7 @@ Esta afirmación de las suyas **es** inapropiada.
 इदुवुमनुपपन्नमित्यादि परिहारपरम्। 
 </details>
 
-
+## प्रपत्ति-प्रमाणानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘शरणं त्वां **प्रपन्ना** ये  
@@ -507,7 +508,7 @@ La **capacidad** de **meditar** constantemente en Nārāyaṇa como **se indica*
 अशक्तऩुक्कु फलतया ऽन्वयत्तिऱ्कुम् विरोधम् इल्लैय् ऎऩ्ऱबडि। +++(4)+++  
 </details>
 
-
+## भक्ति-स्थानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु अरोगऩुक्कुम् आरोग्यार्थिक्कुम् क्षीरं सेव्यम् ऎऩ्ऱदोड् ऒक्कुम्। +++(5)+++
@@ -555,11 +556,11 @@ como para el hombre que **está** en mal estado.
 
 
 
-## अ-वैदिक-ध्यानाधिकारः
+### अ-वैदिक-ध्यानाधिकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साङ्गम् आऩ ध्यान-विशेषम् सर्वाधिकारम् अऩ्ऱेय् आगिलुम्  
-भगवद्-विषयत्तिल् अधिकारानुरूपम् आग वऱियल् आम् अळवुम् 
+भगवद्-विषयत्तिल् अधिकारानुरूपम् आगव् अऱियल् आम् अळवुम् 
 
 > ’’निरन्तरम् निऩैप्पद् आग  
 नी निऩैक्क वेण्डुमे’’  
@@ -772,4 +773,155 @@ Uno **debería meditar** de esta manera ".
 
 ‘‘ततश्च प्रत्यहमात्मोज्जीवनायैवमनुस्मरेत्’’(वैकुण्ठ-गद्यम्) ऎऩ्ऱु तुडङ्गि अरुळिच्चॆय्दार्। 
 </details>
+
+## आराधन-ध्याने स्वयम्-प्रयोजने
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रपन्नऩुक्कु ’’पूजित्तुम् पोक्किऩेऩ् पोद्’’(नाऩ्मुगऩ् तिरुवन्दादि ६३)  
+
+ऎऩ्गिऱ अन्-अन्य-प्रयोजनम् आऩ पूजा-विशेषत्तै 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य प्रपन्नस्य 
+
+> “1 पूजयित्वा ऽयापयं कालम्" 
+
+इत्य्-उक्तम् अनन्य-प्रयोजनं पूजा-विशेषम् 
+</details>
+
+
+<details><summary>English</summary>
+
+The special form of worship (poojā),  
+which seeks no other interest or profit,  
+which is referred to in  
+
+> "I spent my time  
+in studying the books which mention the attributes of the Lord,  
+in listening to others reading them  
+and in worshipping Him," 
+
+</details>
+
+<details><summary>Español</summary>
+
+La forma especial de **adoración** (poojā),  
+que **no busca** otro interés o **ganancia**,  
+que **se menciona** en
+
+> "**Pasé** mi tiempo  
+Al **estudiar** los libros que **mencionan** los atributos del Señor,  
+Al **escuchar** a otros **leyéndolos**  
+y al **adorarlo** "
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् प्रपन्नऩुक्कु ’’पूसित्तुम्बोक्किऩेऩ् पोद्’’(नाऩ्मुगऩ् तिरुवन्दादि ६३)  ऎऩ्गिऱ अनन्यप्रयोजनमाऩ पूजाविशेषत्तै 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द ध्यान विशेषत्तैयेयरुळिच्चॆय्दारॆऩ्गिऱार् इप् प्रपन्नऩुक्कु इत्यादिना ।  
+स्वतन्त्रप्रपत्तिनिष्ठऩुक्कु ध्यानम् स्वयम्प्रयोजनमाग अन्वयिक्किऱदु ऎऩ्ऱार्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अथ परमैकान्तिनो भगवद्-आराधन-प्रयोगं वक्ष्ये,  
+भगवत्-कैङ्कयैक-रतिः परमैकान्ती भूत्वा’’  
+(नित्यम्) 
+
+ऎऩ्ऱुदुडङ्गि नित्यत्तिले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अथ परमैकान्तिनो भगवद्-आराधन-प्रयोगं वक्ष्ये,  
+भगवत्-कैङ्कयैक-रतिः परमैकान्ती भूत्वा’’  
+(नित्यम्) 
+
+इत्य्-आरभ्य नित्ये, 
+</details>
+
+
+<details><summary>English</summary>
+
+The author of Śrī Bhāṣya has also described in his Nitya.   
+
+(The description) begins (with the sentence):- 
+
+> "I will now explain the manner in which  
+the man with exclusive devotion to Bhagavān should perform the adoration (ārādhana) of the Lord,  
+Having become a worshipper with supreme and exclusive devotion to Him  
+and with a desire only to serve Him", 
+</details>
+
+<details><summary>Español</summary>
+
+El autor de Śrī Bhāṣya también **ha descrito** en su nitya.
+
+(La descripción) **comienza** (con la **oración**):-
+
+> "Ahora **explicaré** la manera en que  
+El hombre con devoción exclusiva a Bhagavān **debe realizar** la **adoración** (ārādhana) del Señor,  
+**Haberse convertido** en un **adorador** de suprema y exclusiva devoción a él  
+y con el deseo solo de **servirle** ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अथ परमैकान्तिनो भगवदाराधनप्रयोगं वक्ष्ये, भगवत्कैङ्कयैकरतिः परमैकान्ती भूत्वा’’(नित्यम्) ऎऩ्ऱुदुडङ्गि नित्यत्तिले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अत्यर्थ-प्रियाविरत-विशदतम-प्रत्यक्ष-रूपानुध्यानेन ध्यायन्न् आसीत’’  
+(नित्यम्) 
+
+ऎऩ्ऱुम् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अत्यर्थ-प्रियाविरत-विशदतम-प्रत्यक्ष-रूपानुध्यानेन ध्यायन्न् आसीत’’  
+(नित्यम्) 
+
+इत्य् अनुजग्राह । 
+</details>
+
+
+<details><summary>English</summary>
+
+he goes on to say, 
+
+> "Remain meditating (on the Lord) with a vision as clear as visual perception and with extreme love ( to Him)".
+</details>
+
+<details><summary>Español</summary>
+
+**Continúa diciendo**
+
+> "**Sigue meditando** (en el Señor) con una **visión** tan clara como la **percepción** visual y con amor extremo (para él)".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अत्यर्थप्रियाविरतविशदतमप्रत्यक्षरूपानुध्यानेन ध्यायन्नासीत’’(नित्यम्) ऎऩ्ऱुमरुळिच्चॆय्दार्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अप्पडिये नित्यत्तिल्  
+
+> ‘‘अथ परमैकान्तिनो भगवदाराधनप्रयोगं वक्ष्ये’’  
+
+ऎऩ्ऱु इन्द निष्ठैयैयुडैय परमैकान्तिक्के अनन्यप्रयोजनपूजाविशेषत्तैच् चॊल्लत्तुडङ्गि अत्यर्थ-प्रियेत्यादिना ।  
+</details>
+
 
