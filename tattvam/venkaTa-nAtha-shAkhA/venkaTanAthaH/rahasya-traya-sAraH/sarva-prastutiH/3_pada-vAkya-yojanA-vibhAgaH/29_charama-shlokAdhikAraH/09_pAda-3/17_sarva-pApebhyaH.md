@@ -11,9 +11,68 @@ THE MEANINGS OF SARVA PĀPEBHYO (FROM ALL SINS) : page589
 LOS SIGNIFICADOS DE SARVA PĀPEBHYO (DE TODOS LOS PECADOS): página 589
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि बन्ध-मोक्ष-शक्तऩ् आऩ मोक्ष-प्रदऩैयुम्;  
+अ-शक्तऩ् आय्, अवऩ् पक्कलिले न्यस्त-भरऩ् आऩ मुमुक्षुवैयुञ्  
+जॊल्लि, 
+</details>
+
+<details><summary>English</summary>
+
+Having thus **referred** 
+
+to the **Dispenser** of mukti  
+who **is capable** of **putting** the jīva in **bondage** or out of it  
+
+and also to the **aspirant** to mukti  
+who **is incapable** (of any endeavour)  
+and who **has surrendered** (to the Lord) the **responsibility** for his **protection**, 
+</details>
+
+<details><summary>Español</summary>
+
+Habiendo así **referido** 
+
+al **Dispensador** de mukti  
+¿Quién **es capaz** de **poner** a la jīva en **esclavitud** o fuera de ella?  
+
+y también al **aspirante** a mukti  
+quien **es incapaz** (de cualquier esfuerzo)  
+y quien **ha rendido** (al Señor) la **responsabilidad** de su **protección**,
+</details>
 
 
-Having thus referred to the Dispenser of mukti who is capable of putting the jīva in bondage or out of it and also to the aspirant to mukti who is incapable (of any endeavour) and who has surrendered (to the Lord) the responsibility for his protection, the śloka proceeds to speak of the bonds in the word sarvapūpebhyo (from all sins). Sin is the cause of evil and what it is can be understood from the śāstras. Evil means 'becoming subject to what is disagreeable and losing what is agreeable.' Here (in the carama - śloka) sin denotes also acts of merit (puṇya) which lead to enjoyment in saṁsāra (which includes svarga), for they, too, are to the aspirant to mukti, productive of undesirable fruits. It has been said:-"This svarga and other such places are, my child, like hell when compared with the abode of the Supreme Being". Thus to the aspirant to mukti, even such places as svarga are like hell. In the case of the aspirant, therefore, that which leads to svarga is, in no way, different from that which leads to hell. That is why the aspirant to mukti is enjoined to give up those means which lead to dharma, artha (wealth) and kāma (pleasure), in the same way as he is enjoined to give up sinful actions. Indeed the Śrutis and the Smṛtis declare that good deeds and evil deeds are both to be avoided by the aspirant to mukti, for it is stated "Giving up puṇya and papa of which are both of the nature, karma which are hard to give up etc."
+<details><summary>मूलम्</summary>
+
+इप्पडि बन्धमोक्षशक्तऩाऩ मोक्षप्रदऩैयुम् अशक्तऩायवऩ् पक्कलिले न्यस्तभरऩाऩ मुमुक्षुवैयुञ्जॊल्लि, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मेल् ‘‘सर्व-पापेभ्यः’’ ऎऩ्ऱु बन्धकङ्गळैच् चॊल्लुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+the śloka proceeds to **speak** of the bonds in the word sarvapApebhyo (from all sins). 
+</details>
+
+<details><summary>Español</summary>
+
+el śloka **procede** a **hablar** de los vínculos en la palabra sarvapApebhyo (de todos los pecados).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मेल् ‘‘सर्वपापेभ्यः’’ ऎऩ्ऱु बन्धकङ्गळैच् चॊल्लुगिऱदु। 
+</details>
+
+
+
+
+Sin is the cause of evil and what it is can be understood from the śāstras. Evil means 'becoming subject to what is disagreeable and losing what is agreeable.' Here (in the carama - śloka) sin denotes also acts of merit (puṇya) which lead to enjoyment in saṁsāra (which includes svarga), for they, too, are to the aspirant to mukti, productive of undesirable fruits. It has been said:-"This svarga and other such places are, my child, like hell when compared with the abode of the Supreme Being". Thus to the aspirant to mukti, even such places as svarga are like hell. In the case of the aspirant, therefore, that which leads to svarga is, in no way, different from that which leads to hell. That is why the aspirant to mukti is enjoined to give up those means which lead to dharma, artha (wealth) and kāma (pleasure), in the same way as he is enjoined to give up sinful actions. Indeed the Śrutis and the Smṛtis declare that good deeds and evil deeds are both to be avoided by the aspirant to mukti, for it is stated "Giving up puṇya and papa of which are both of the nature, karma which are hard to give up etc."
 
 
 
