@@ -167,7 +167,7 @@ Meaning - even the lokasangraha compulsion is directed at influential people onl
   - अजात-श्रद्धेषु
   - जात-श्रद्धेषु 
     - प्रतिष्ठितेषु (लोकसङ्ग्रहकृत्सु)
-    - वैशिष्ट्यकामेषु ("स्वर्ण-सिद्धि-लिप्सोर् इव सदा तद्-अनुवृत्ति-चेष्टैव …")
+    - वैशिष्ट्य-कामेषु ("स्वर्ण-सिद्धि-लिप्सोर् इव सदा तद्-अनुवृत्ति-चेष्टैव …")
     - महद्-अपराध-विवारयिषुषु ("अत एव चित्रकेतोः श्री-महादेवापराधस् …")
 - एषु त्याज्यम्
   - जात-श्रद्धेष्व् अप्रतिष्ठितेषु 
@@ -185,6 +185,8 @@ Meaning - even the lokasangraha compulsion is directed at influential people onl
 > कर्मस्व् अनुवर्ते चेन् मम दोषो भवति वा? अहं कर्मण्य् अधिकारी वा?
 
 इत्यादौ। 
+
+If, as an ordinary person, you're into varNAshramadharma, you don't have uttamA bhakti; and vice versa... based on the "natural commentary" (bhAgavata) of brahmasUtra-s (which says no such thing).  Wonder how they manage it.
 
 #### विश्वनाथ-चक्रवर्ती
 
