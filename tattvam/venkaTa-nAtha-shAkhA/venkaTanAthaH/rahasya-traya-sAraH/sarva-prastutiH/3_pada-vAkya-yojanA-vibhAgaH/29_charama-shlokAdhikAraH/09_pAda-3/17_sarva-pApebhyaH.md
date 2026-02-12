@@ -743,8 +743,19 @@ La respuesta **es** la **siguiente**:-
 इप्पडियिरुक्क यिव्विडत्तिल् आरब्धकार्यत्तै क्षमिक्कैयावदॆऩ्ऩॆऩ्ऩिल्; 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“Even in the case of karmas which have begun to bear fruit, if the man who has adopted prapatti as the direct and independent upāya considers as evil and undesirable those parts which would lead to another birth or (even) another day's existence and grieves on that account, Iśvara will give him pardon even in respect of all that karma. If the prapanna is so impatient as to feel that he cannot bear to live without the immediate attainment of mokṣa, the lord will, at that very instant, pardon even all that karma  which has begun to bear fruit so that no trace of it may be left over. Therefore there is no reason why one should not pray for pardon even in respect of that karma  which has begun to bear fruit (prārabdha).
+फल-प्रदान-प्रवृत्तम् आऩ कर्मत्तिलुम्,  
+जन्मान्तर- दिवसान्तर-स्थित्य्-आदिगळुक्क् आरम्भकम् आऩ अंशमुम्
+</details>
+
+<details><summary>मूलम्</summary>
+
+फलप्रदानप्रवृत्तमाऩ कर्मत्तिलुम् जन्मान्तर दिवसान्तरस्थित्यादिगळुक्कारंभकमाऩ अंशमुम्
+</details>
+
+Even in the case of karmas which **have begun** to **bear** fruit,  
+if the man who has adopted prapatti as the direct and independent upāya considers as evil and undesirable those parts which would lead to another birth or (even) another day's existence and grieves on that account, Iśvara will give him pardon even in respect of all that karma. If the prapanna is so impatient as to feel that he cannot bear to live without the immediate attainment of mokṣa, the lord will, at that very instant, pardon even all that karma  which has begun to bear fruit so that no trace of it may be left over. Therefore there is no reason why one should not pray for pardon even in respect of that karma  which has begun to bear fruit (prārabdha).
 
 
 
