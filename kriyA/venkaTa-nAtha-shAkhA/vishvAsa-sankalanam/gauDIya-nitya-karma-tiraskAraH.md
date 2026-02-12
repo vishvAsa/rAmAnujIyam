@@ -229,6 +229,10 @@ If, as an ordinary person, you're into varNAshramadharma, you don't have uttamA 
 इति साधारणावस्थायां सदाचारः प्रशस्यते। 
 
 ### अर्वाचीनाः
+> One should refer to the published translation(not very good and needs corrections) of Karma vivritti and published sections of Karmādhikāra nirnaya by Sarvabhauma Krishnadeva Bhattacharya. 
+
+इति परीक्षणीयम्।
+
 #### सर्व-कर्म-त्याग-पक्षः
 > "A bhakta has no faith in varṇāśrama duties."
 >
