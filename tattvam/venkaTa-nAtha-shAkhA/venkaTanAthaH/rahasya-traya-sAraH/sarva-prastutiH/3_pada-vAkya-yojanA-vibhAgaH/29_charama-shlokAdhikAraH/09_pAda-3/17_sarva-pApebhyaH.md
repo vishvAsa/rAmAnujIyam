@@ -1,6 +1,7 @@
 +++
 title = "१७ सर्व-पापेभ्यः"
 +++
+## सङ्गतिः
 <details><summary>English</summary>
 
 THE MEANINGS OF SARVA PĀPEBHYO (FROM ALL SINS) : page589
@@ -17,6 +18,14 @@ LOS SIGNIFICADOS DE SARVA PĀPEBHYO (DE TODOS LOS PECADOS): página 589
 अ-शक्तऩ् आय्, अवऩ् पक्कलिले न्यस्त-भरऩ् आऩ मुमुक्षुवैयुञ्  
 जॊल्लि, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं बन्ध-मोक्ष-शक्तं मोक्ष-प्रदम्,  
+अ-शक्तं तत्-सन्निधौ न्यस्त-भरं मुमुक्षुं च  
+उक्त्वा  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -59,6 +68,12 @@ y quien **ha rendido** (al Señor) la **responsabilidad** de su **protección**,
 मेल् ‘‘सर्व-पापेभ्यः’’ ऎऩ्ऱु बन्धकङ्गळैच् चॊल्लुगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अग्रे "सर्वपापेभ्यः" इति बन्धकान्य् उच्यन्ते । 
+</details>
+
+
 <details><summary>English</summary>
 
 the śloka proceeds to **speak** of the bonds in the word sarvapApebhyo (from all sins). 
@@ -82,6 +97,12 @@ el śloka **procede** a **hablar** de los vínculos en la palabra sarvapApebhyo 
 
 पापम् आवदु शास्त्र-वेद्यम् आऩ अन्-अर्थ-साधनम्।+++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पापं नाम - शास्त्र-वेद्यम् अनर्थ-साधनम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -112,6 +133,12 @@ y lo que **es puede entenderse** a partir de los śāstras.
 अन्-अर्थम् आवदु, प्रतिकूल-प्राप्तियुम्, अनुकूल-निवृत्तियुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनर्थो नाम - प्रतिकूल-प्राप्तिर् अनुकूल-निवृत्तिश् च । 
+</details>
+
+
 <details><summary>English</summary>
 
 Evil **means** '**becoming** subject to what **is** disagreeable and **losing** what **is** agreeable.' 
@@ -140,6 +167,11 @@ Maldad **significa** '**volverse** sujeto a lo **es** desagradable y **perder** 
 मुमुक्षुवैप् पऱ्ऱव् अन्-इष्ट-फलङ्गळ् आऩ सांसारिक-पुण्यङ्गळैयुञ् जॊल्लुगिऱदु। +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र पाप-शब्दो  
+मुमुक्षुं प्रत्य् अनिष्ट-फलानि सांसारिक-पुण्यान्य् अपि वक्ति । +++(5)+++
+</details>
 
 
 <details><summary>English</summary>
@@ -185,6 +217,7 @@ porque ellos también **son** para el **aspirante** a mukti,
 स्थानस्य परमात्मनः।’’  
 (भारतम् शान्ति-पर्व १९६-६) 
 
+इत्य्-उक्तेः
 </details>
 
 <details><summary>English</summary>
@@ -221,6 +254,14 @@ cuando **se compara** con la morada del Ser Supremo".
 स्वर्गादिगळुम् मुमुक्षुवुक्कु नरकम् आगैयाल्  
 इवऩुक्कु स्वर्ग-हेतुवोडु नरक-हेतुवोडु वासिय् इल्लै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वर्गादीनाम् अपि मुमुक्षुं प्रति नरकत्वाद्  
+अस्य स्वर्ग-हेतुषु नरक-हेतुषु च  
+नास्ति विशेषः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -259,6 +300,12 @@ de aquello que **conduce** al infierno.
 मुमुक्षुवुक्कु पापङ्गळै विडच् चॊल्लुगिऱाप् पोले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत एव मुमुक्षोः पाप-त्याग-विधानवत्, 
+</details>
+
+
 <details><summary>English</summary>
 
 That **is** why the **aspirant** to mukti,  
@@ -285,8 +332,10 @@ de la misma manera que **se le ordena** **renunciar** a las acciones pecaminosas
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘त्रैवर्गिकांस् त्यजेद् धर्मान्’’
+> ‘‘त्रैवर्गिकांस् त्यजेद् धर्मान्’’  
+(विष्णुपुराणाद् इति केचित्)
 
+इति विधीयते ।
 </details>
 
 <details><summary>English</summary>
@@ -313,11 +362,19 @@ aquellos medios que **conducen** al dharma, artha (riqueza) y kāma (placer).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ’’इरु वल्+++(=बलवत्)+++ विऩैगळुञ्+++(=कर्माणि)+++ जरित्त्+++(=स्खलयित्वा)+++’’  
+> ’’इरु+++(=उभय)+++-वल्+++(=बलवत्)+++-विऩैगळुञ्+++(=कर्माणि)+++ जरित्त्+++(=स्खलयित्वा)+++’’  
 (तिरुवाय्मॊऴि १-५-१०)  
 
 ऎऩ्गिऱ बडिये 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "उभय-विध-प्रबल-कर्माणि पातयित्वा" 
+
+इत्य्-उक्त-रीत्या 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -355,6 +412,14 @@ que **son** difíciles de **renunciar** etc."
 श्रुति-स्मृतिगळ् सॊल्लुगिऱदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सु-कृत--दुष्कृतान्य् उभयान्य् अपि  
+मुमुक्षोर् निःशेषी-करणीयतया किल  
+श्रुति-स्मृती प्रतिपादयतः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Indeed the Śrutis and the Smṛtis **declare** that  
@@ -388,6 +453,13 @@ Las buenas y malas acciones **deben** ser **evitadas** por el **aspirante** a mu
 इप्-पडि पुण्य-पाप-रूपम् आऩ बन्ध-कारणत्तै पाप-शब्दत्ताले सॊल्लि  
 बहु-वचनत्ताले पुण्य-पापङ्गळिऩ्-उडैयव् आनन्त्यत्तै विवक्षिक्किऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं पुण्य-पाप-रूपं बन्ध-कारणं पाप-शब्देनोक्त्वा  
+बहु-वचनेन पुण्य-पापयोर् आनन्त्यं विवक्षति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -423,6 +495,15 @@ el śloka **indica**, por el plural de la palabra pāpa (a saber, pāpebhyah), s
 
 प्राप्ति-विरोधिय् आऩ कर्मत्तुक्कुक् कारणम् आयुम्, कार्यम् आयुम् वरुगिऱ 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इतः परं +++(आनन्त्यय् उक्ते)+++  
+सर्व-शब्देन विशेषणं किम् अर्थम् इति चेत्-  
+
+प्राप्ति-विरोध-कर्मणः कारण-भूतायाः कार्य-भूतायाश् च भवन्त्याः 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -460,6 +541,13 @@ Porque éstas **son** las causas del karma y también los productos del karma:
 विपरीत-रुचियैयुम्  
 +++(सृष्टौ→)+++स्थूल-+++(लये→)+++सूक्ष्म-रूप-प्रकृति-सम्बन्धत्तैयुम्  पाप-राशियिले सेर्क्कैक्क् आग। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अविद्यायाः, विपरीत-वासनायाः, विपरीत-रुचेः, स्थूल-सूक्ष्म-रूप--प्रकृति-संबन्धस्य [[P397]] च  
+पापराशौ घटनार्थम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -505,6 +593,14 @@ tanto en su estado denso como en su estado sutil (en pralaya).
 शाब्दम् आगवुम्, आर्थम् आगवुम् अरुळिच् चॆय्दार्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं "सर्व-पापेभ्यः" इत्य्-उक्तं विरोधि-वर्गं  
+सर्वं "मनो-वाक्-कायैः" इत्य्-आरभ्य तिसृभिश् चूर्णिकाभिः  
+शाब्दतया आर्थतया च प्रतिपादयाम् आस ।
+</details>
+
+
 <details><summary>English</summary>
 
 (In the Śaraṇāgati Gadya), Śrī Rāmānuja has, in three clauses cūrṇikas, **indicated**, both explicitly by the words themselves and implicitly from their meaning,  
@@ -542,6 +638,7 @@ Los tres pasajes **comienzan** con 'manovākkāyaih' (por la mente, la palabra y
 
 
 ## प्रारब्ध-कर्म
+### अधिकार्य्-उपासकेभ्यो भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > ‘‘**क्षपयित्वा** ऽधिकारान् स्वान्  
@@ -552,6 +649,18 @@ Los tres pasajes **comienzan** con 'manovākkāyaih' (por la mente, la palabra y
 > 
 > ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘**क्षपयित्वा** ऽधिकारान् स्वान्  
+शश्वत् कालेन भूयसा ।  
+वेधसो यत्र **मोदन्ते**  
+शङ्करास् स-पुरन्दराः॥’’  
+(लक्ष्मीतन्त्रम् १७-१८) 
+> 
+> इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -604,7 +713,7 @@ donde jīvas que **eran** anteriormente Brahmas, Indras y Rudras,
 
 > > ‘‘यावद्-अधिकारम् अवस्थितिर् आधिकारिकाणां’’(ब्रह्मसूत्रम् ३-३-३१) 
 >
-> 
+> इति चोक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -638,6 +747,13 @@ hasta el **vencimiento** de su período de **administración**".
 > सिलर्क्कु अधिकारावसानत्तिले मोक्षम् आय् इरुन्ददु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> केषांचिद् अधिकारावसाने मोक्ष  
+इति स्थितम् । 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 सिलर्क्कु अधिकारावसानत्तिले मोक्षमायिरुन्ददु।
@@ -656,7 +772,11 @@ hasta el **vencimiento** de su período de **administración**".
 
 <details><summary>नीलमेघः (सं)</summary>
 
+> अधिकारि-व्यतिरिक्तानाम् अपि 
+> 
 > > १२५‘‘अनारब्ध-कार्ये +++(पुण्य-पापे)+++ एव तु +++(विद्योत्पत्तेः)+++ पूर्वे - तद्-अवधेः +++(उक्तत्वात्)+++’’  (ब्रह्मसूत्रम् ४-१-१५) 
+> 
+> इत्य्-उक्त-रीत्या प्रारब्ध-कर्म-भोगावसान इति स्थितम् । 
 </details>
 
 
@@ -719,6 +839,15 @@ que **han comenzado** a **operar** (prārabdha).
 ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं स्थिते सति  
+अत्रारब्ध-कार्यस्य क्षन्तव्यत्वोक्तिः कथम् 
+
+इति चेत् — 
+</details>
+
+
 <details><summary>English</summary>
 
 > The question may be asked:-  
@@ -743,19 +872,129 @@ La respuesta **es** la **siguiente**:-
 इप्पडियिरुक्क यिव्विडत्तिल् आरब्धकार्यत्तै क्षमिक्कैयावदॆऩ्ऩॆऩ्ऩिल्; 
 </details>
 
+### नाशोक्ताव् औचित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 फल-प्रदान-प्रवृत्तम् आऩ कर्मत्तिलुम्,  
-जन्मान्तर- दिवसान्तर-स्थित्य्-आदिगळुक्क् आरम्भकम् आऩ अंशमुम्
+जन्मान्तर- दिवसान्तर-स्थित्य्-आदिगळुक्क् आरम्भकम् आऩ अंशमुम्  
+इस् स्वतन्त्र-प्रपत्ति-निष्ठऩुक्क् अनिष्टम् आय्  
+
+अत्तैयुम् पऱ्ऱव् इवऩ् शोकिक्किल्  
+अव्व् अंशत्तैयुम् ईश्वरऩ् क्षमिक्कुम्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+फल-प्रदान-प्रवृत्ते कर्मणि  
+जन्मान्तर-दिवसान्तर-स्थित्य्-आदीनाम्  
+आरम्भकस्यांशस्यापि  
+एतं स्वतन्त्र-प्रपत्तिनिष्ठं प्रत्य् अनिष्टत्वे  
+तद्-विषये ऽप्य् अनेन शोके क्रियमाणे,  
+तम् अंशम् अपीश्वरः क्षाम्यति । 
+</details>
+
+
+<details><summary>English</summary>
+
+Even in the case of karmas which **have begun** to **bear** fruit,  
+if the man who **has adopted** prapatti as the direct and independent upāya  
+**considers** as evil and undesirable those parts which would lead to another birth or (even) another day's **existence**  
+and **grieves** on that account,  
+Iśvara **will give him pardon** even in respect of all that karma. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en el caso de karmas que **han comenzado** a **dar** frutos,  
+si el hombre que **ha adoptado** prapatti como el upāya directo e independiente  
+**considera** como malas e indeseables aquellas partes que **conducirían** a otro nacimiento o (incluso) a la **existencia** de otro día.  
+y **se entristece** por ello,  
+Iśvara **le dará perdón** incluso con respecto a todo ese karma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलप्रदानप्रवृत्तमाऩ कर्मत्तिलुम् जन्मान्तर दिवसान्तरस्थित्यादिगळुक्कारंभकमाऩ अंशमुम् इस् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कनिष्टमाय् अत्तैयुम् पऱ्ऱविवऩ् शोकिक्किल् अव् वंशत्तैयुम् ईश्वरऩ् क्षमिक्कुम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदे मोक्षम् पॆऱ्ऱ् अऩ्ऱि धरिक्क माट्टादव् आर्त्य्-अतिशयम्-उडैयार्क्कु  
+
+अक्-क्षणत्तिले प्रारब्ध-कार्यम् आऩ कर्मत्तै निश्शेषम् आग क्षमिक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदैव (सद्य एव) मोक्ष-प्राप्तिम् अन्तरा [आत्म]धारणस्याभावे  
+प्रयोजकम् आर्त्त्य्-आतिशयं बिभ्रतां  
+तत्क्षण एव प्रारब्ध-कार्यं कर्म  
+निःशेषं क्षाम्यति ! 
+</details>
+
+
+<details><summary>English</summary>
+
+If the prapanna **is** so impatient as to **feel** that  
+he **cannot bear** to **live** without the immediate attainment of mokṣa,  
+the lord will, at that very instant, **pardon** even all that karma  
+which **has begun** to **bear** fruit  
+so that no trace of it **may be left over**. 
+</details>
+
+<details><summary>Español</summary>
+
+Si el prapanna **es** tan impaciente como para **sentir** que  
+él **no puede soportar** **vivir** sin el logro inmediato de mokṣa,  
+el señor, en ese mismo instante, **perdona** incluso todo ese karma  
+que **ha comenzado** a **dar** frutos  
+para que **no quede** ningún **rastro** de él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदे मोक्षम् पॆऱ्ऱऩ्ऱि धरिक्क माट्टाद वार्त्यतिशयमुडैयार्क्कु अक्क्षणत्तिले प्रारब्धकार्यमाऩ कर्मत्तैनिश्शेषमाग क्षमिक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् आरब्ध-कार्यत्तै क्षमिक्क वेणुम् 
+ऎऩ्ऱ् अपेक्षिक्कक् कुऱैय् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः आरब्ध-कार्यं क्षन्तव्यम्  
+इत्य् अपेक्षणे न दोषः ॥
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore there **is no reason**  
+why one **should not pray** for **pardon**  
+even in respect of that karma  
+which **has begun** to bear fruit (prārabdha).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto **no hay** ninguna razón  
+Por qué uno **no debería orar** por **perdón**  
+incluso con respecto a ese karma  
+que **ha comenzado** a dar frutos (prārabdha).
 </details>
 
 <details><summary>मूलम्</summary>
 
-फलप्रदानप्रवृत्तमाऩ कर्मत्तिलुम् जन्मान्तर दिवसान्तरस्थित्यादिगळुक्कारंभकमाऩ अंशमुम्
+आगैयाल् आरब्धकार्यत्तै क्षमिक्कवेणुमॆऩ्ऱपेक्षिक्कक्कुऱैयिल्लै। 
 </details>
 
-Even in the case of karmas which **have begun** to **bear** fruit,  
-if the man who has adopted prapatti as the direct and independent upāya considers as evil and undesirable those parts which would lead to another birth or (even) another day's existence and grieves on that account, Iśvara will give him pardon even in respect of all that karma. If the prapanna is so impatient as to feel that he cannot bear to live without the immediate attainment of mokṣa, the lord will, at that very instant, pardon even all that karma  which has begun to bear fruit so that no trace of it may be left over. Therefore there is no reason why one should not pray for pardon even in respect of that karma  which has begun to bear fruit (prārabdha).
+
+## क्रियमाणं कर्म
 
 
 
