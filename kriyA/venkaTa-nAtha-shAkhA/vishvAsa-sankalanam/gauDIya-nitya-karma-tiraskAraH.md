@@ -304,6 +304,8 @@ There is no prominent "vaDakalai" type faction among gauDIya-s.
 तद्-आचार्य-कृताम् बुद्धि-पूर्वक-कर्म-परित्याग-चोदनाम् अपह्नोतुं यतन्ते (सम्प्रदायान्तर-भर्त्सना-विवारिषया)।  
 तद् अपनोत्तुं जीवगोस्वामिनो भक्तिसन्दर्भोल्लेखान् उपर्य् उक्तान् द्रष्टुम् अलम्।  
 
+Their texts being black and white, themselves having posted links which say it as it is, the gall of some gauDIya-s in dissimulating otherwise reminds one of shAnkara-s painting shankara as a hariharAbhedavAdin - or rather- him not being prachChanna-bauddha. [TW](https://x.com/agnimaan/status/2022124692661055494)
+
 ## सिद्धान्तः
 यामुन आह गीतार्थसङ्ग्रहे -
 
