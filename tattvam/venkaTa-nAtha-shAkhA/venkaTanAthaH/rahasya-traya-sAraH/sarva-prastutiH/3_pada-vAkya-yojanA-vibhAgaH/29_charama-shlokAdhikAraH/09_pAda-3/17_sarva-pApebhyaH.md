@@ -996,9 +996,21 @@ que **ha comenzado** a dar frutos (prārabdha).
 
 ## क्रियमाणं कर्म
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्  
+प्रपत्ति-कालत्तुक्कु मुऩ्ब्-उळ्ळ्-अवऱ्ऱै ‘‘कृतान्’’ ऎऩ्ऱॆडुत्तुप् पिऩ्बुळ्ळवऱ्ऱै ‘‘करिष्यमाणान्’’ ऎऩ्ऱु सॊल्लानिऩ्ऱदु।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् प्रपत्तिकालत्तुक्कु मुऩ्बुळ्ळवऱ्ऱै ‘‘कृतान्’’ ऎऩ्ऱॆडुत्तुप् पिऩ्बुळ्ळवऱ्ऱै ‘‘करिष्यमाणान्’’ ऎऩ्ऱु सॊल्लानिऩ्ऱदु।
+</details>
 
 
-(In the Śaraṇāgatigadya  Śrī Rāmānuja says:-) "Pardon all sins without exception, (sins) past, future, and present - committed by the mind, the speech, or the body." Here past (sins) refer to those committed before prapatti and future (sins) refer to those that might be committed after the performance of prapatti. We do not see any sins committed at the instant of performing prapatti. What, then, is the meaning of present (kriyamāṇa) sins? (The answer is):- By the word 'present' (kriyamāṇa) is meant that which was begun before and which will be completed in future? According to this definition, those sins which were begun before and which require a long time for their completion and thus that might be done on account of negligence or carelessness at the instant of performing prapatti - these are called present (sins) - Future (sins) are those that may begin after prapatti. Among those sins which are committed after prapatti and which may be partly of the present and partly of the future, those which are not committed deliberately will be pardoned by Iśvara and will leave no trace at all (on the self). Those that are committed deliberately can be atoned for by the performance again of prapatti, for it is said:-"If an offence be committed, expiation should be made therefor and the expiation to be made is only the performance of prapatti again." When it is said that if Iśvara is bent on granting mokṣa, even deadly sins cannot stand in the way, and that there will be no punishment for sins committed delibe. rately after prapatti, what is meant is not that there is no need for expiation or prāyaścitta, but that if Iśvara is again propitiated by prapatti, (which is the prāyaścitta), mokṣa is sure to follow. It is the result of God's forgiveness that the man is induced to perform expiation by a further prapatti.
+(In the Śaraṇāgatigadya  Śrī Rāmānuja says:-) "Pardon all sins without exception, (sins) past, future, and present - committed by the mind, the speech, or the body."  
+
+Here past (sins) refer to those committed before prapatti and future (sins) refer to those that might be committed after the performance of prapatti. We do not see any sins committed at the instant of performing prapatti. What, then, is the meaning of present (kriyamāṇa) sins? (The answer is):- By the word 'present' (kriyamāṇa) is meant that which was begun before and which will be completed in future? According to this definition, those sins which were begun before and which require a long time for their completion and thus that might be done on account of negligence or carelessness at the instant of performing prapatti - these are called present (sins) - Future (sins) are those that may begin after prapatti. Among those sins which are committed after prapatti and which may be partly of the present and partly of the future, those which are not committed deliberately will be pardoned by Iśvara and will leave no trace at all (on the self). Those that are committed deliberately can be atoned for by the performance again of prapatti, for it is said:-"If an offence be committed, expiation should be made therefor and the expiation to be made is only the performance of prapatti again." When it is said that if Iśvara is bent on granting mokṣa, even deadly sins cannot stand in the way, and that there will be no punishment for sins committed delibe. rately after prapatti, what is meant is not that there is no need for expiation or prāyaścitta, but that if Iśvara is again propitiated by prapatti, (which is the prāyaścitta), mokṣa is sure to follow. It is the result of God's forgiveness that the man is induced to perform expiation by a further prapatti.
 
 
 
