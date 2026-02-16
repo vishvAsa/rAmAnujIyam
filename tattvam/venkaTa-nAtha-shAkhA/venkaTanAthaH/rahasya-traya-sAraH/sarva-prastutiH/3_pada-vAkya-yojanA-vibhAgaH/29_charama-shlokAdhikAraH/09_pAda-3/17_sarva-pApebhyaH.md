@@ -999,18 +999,171 @@ que **ha comenzado** a dar frutos (prārabdha).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् इडत्तिल्  
-प्रपत्ति-कालत्तुक्कु मुऩ्ब्-उळ्ळ्-अवऱ्ऱै ‘‘कृतान्’’ ऎऩ्ऱॆडुत्तुप् पिऩ्बुळ्ळवऱ्ऱै ‘‘करिष्यमाणान्’’ ऎऩ्ऱु सॊल्लानिऩ्ऱदु।
+प्रपत्ति-कालत्तुक्कु मुऩ्ब्-उळ्ळ्-अवऱ्ऱै ‘‘कृतान्’’ ऎऩ्ऱ् ऎडुत्तुप्  
+पिऩ्ब् उळ्ळ्-अवऱ्ऱै ‘‘करिष्यमाणान्’’ ऎऩ्ऱु सॊल्ला निऩ्ऱदु +++(शरणागति-गद्ये)+++।
 </details>
+
+<details><summary>English</summary>
+
+(In the Śaraṇāgatigadya  Śrī Rāmānuja says:- 
+
+> "**Pardon** all sins without exception,  
+(sins) past, future, and present -  
+**committed** by the mind, the speech, or the body."  )
+
+Here past (sins) **refer** to those **committed** before prapatti  
+and future (sins) **refer** to those that **might be committed** after the **performance** of prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+(En el Śaraṇāgati-gadya Śrī Rāmānuja dice:- 
+
+> "**Perdona** todos los pecados sin excepción,  
+(pecados) pasado, futuro y presente -  
+**cometido** por la mente, el habla o el cuerpo." )
+
+Aquí los (pecados) pasados **se refieren** a aquellos **cometidos** antes de prapatti  
+y los (pecados) futuros **se refieren** a aquellos que **podrían cometerse** después de la **ejecución** de prapatti.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इव्विडत्तिल् प्रपत्तिकालत्तुक्कु मुऩ्बुळ्ळवऱ्ऱै ‘‘कृतान्’’ ऎऩ्ऱॆडुत्तुप् पिऩ्बुळ्ळवऱ्ऱै ‘‘करिष्यमाणान्’’ ऎऩ्ऱु सॊल्लानिऩ्ऱदु।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(In the Śaraṇāgatigadya  Śrī Rāmānuja says:-) "Pardon all sins without exception, (sins) past, future, and present - committed by the mind, the speech, or the body."  
+> प्रपत्ति-कालत्तिले पण्णुवऩ सिल पापङ्गळ् काण्गिऱ्-इलोम्;  
+इप्-पडिय् इरुक्क  
+क्रियमाणङ्गळै क्षमिक्कैय् आवद् ऎऩ्ऩ् 
 
-Here past (sins) refer to those committed before prapatti and future (sins) refer to those that might be committed after the performance of prapatti. We do not see any sins committed at the instant of performing prapatti. What, then, is the meaning of present (kriyamāṇa) sins? (The answer is):- By the word 'present' (kriyamāṇa) is meant that which was begun before and which will be completed in future? According to this definition, those sins which were begun before and which require a long time for their completion and thus that might be done on account of negligence or carelessness at the instant of performing prapatti - these are called present (sins) - Future (sins) are those that may begin after prapatti. Among those sins which are committed after prapatti and which may be partly of the present and partly of the future, those which are not committed deliberately will be pardoned by Iśvara and will leave no trace at all (on the self). Those that are committed deliberately can be atoned for by the performance again of prapatti, for it is said:-"If an offence be committed, expiation should be made therefor and the expiation to be made is only the performance of prapatti again." When it is said that if Iśvara is bent on granting mokṣa, even deadly sins cannot stand in the way, and that there will be no punishment for sins committed delibe. rately after prapatti, what is meant is not that there is no need for expiation or prāyaścitta, but that if Iśvara is again propitiated by prapatti, (which is the prāyaścitta), mokṣa is sure to follow. It is the result of God's forgiveness that the man is induced to perform expiation by a further prapatti.
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+> We **do not see** any sins **committed** at the instant of **performing** prapatti.  
+What, then, **is** the meaning of present (kriyamāṇa) sins? 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Nosotros **no vemos** ningún pecado **cometido** en el instante de **realizar** prapatti.  
+¿Cuál es entonces **el significado** de los pecados presentes (kriyamāṇa)?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिकालत्तिले पण्णुवऩ सिल पापङ्गळ् काण्गिऱिलोम्; इप्पडियिरुक्क क्रियमाणङ्गळै क्षमिक्कैयावदॆऩ्ऩॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रारब्धोपरि समाप्तश् च वर्तमानः’’() 
+
+ऎऩ्गिऱ प्रक्रियैयाले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रारब्धो ऽपरिसमाप्तश् च वर्तमानः’’() 
+</details>
+
+<details><summary>English</summary>
+
+(The **answer is**):- 
+
+By the word 'present' (kriyamāṇa) **is** meant  
+
+> that which **was begun** before  
+and which **will be completed** in future.  
+
+According to this **definition**, 
+</details>
+
+<details><summary>Español</summary>
+
+(La **respuesta es**):- 
+
+Por la palabra 'presente' (kriyamāṇa) **se quiere decir**  
+
+> lo que **fue comenzado** antes  
+y que **se completará** en el futuro'.  
+
+Según esta **definición**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रारब्धोऽपरिसमाप्तश्च वर्तमानः’’() ऎऩ्गिऱ प्रक्रियैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्तिक्कु मुऩ्बे तुडङ्गिप्  
+पिऩ्बे तलैक्-कट्ट-वेण्डुम् बडि  
+चिर-काल-साध्यम् आय् इरुक्कुम् अवऱ्ऱैयुम्  
+
+तत्-क्षणत्तिल् प्रामादिकङ्गळैयुम्  
+
+इङ्गु "क्रियमाणङ्गळ्" ऎऩ्गिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+those sins which **were begun** before  
+and which **require** a long time for their **completion**  
+
+and ~~thus~~ that **might be done** on account of negligence or carelessness at the instant of performing prapatti -  
+
+these **are called** present (sins). 
+</details>
+
+<details><summary>Español</summary>
+
+esos pecados que **comenzaron** antes  
+y que **requieren** mucho tiempo para su **finalización**  
+
+y eso **podría hacerse** por negligencia o descuido en el momento de **realizar** prapatti -  
+
+estos **son llamados** presentes (pecados).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिक्कु मुऩ्बे तुडङ्गिप् पिऩ्बे तलैक्कट्टवेण्डुम्बडि चिरकालसाध्यमायिरुक्कु मवऱ्ऱैयुम् तत्क्षणत्तिल् प्रामादिकङ्गळैयुम् इङ्गु क्रियमाणङ्गळॆऩ्गिऱदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+करिष्यमाणङ्गळ् आवऩ  
+पिऩ्बु तुडङ्गुम् अवै। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+करिष्यमाणङ्गळावऩ पिऩ्बु तुडङ्गुमवै। 
+</details>
+
+<details><summary>English</summary>
+
+Future (sins) **are** those that **may begin** after prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+Los (pecados) futuros **son** aquellos que **pueden comenzar** después de prapatti. 
+</details>
+
+
+Among those sins which are committed after prapatti and which may be partly of the present and partly of the future, those which are not committed deliberately will be pardoned by Iśvara and will leave no trace at all (on the self). Those that are committed deliberately can be atoned for by the performance again of prapatti, for it is said:-"If an offence be committed, expiation should be made therefor and the expiation to be made is only the performance of prapatti again." When it is said that if Iśvara is bent on granting mokṣa, even deadly sins cannot stand in the way, and that there will be no punishment for sins committed delibe. rately after prapatti, what is meant is not that there is no need for expiation or prāyaścitta, but that if Iśvara is again propitiated by prapatti, (which is the prāyaścitta), mokṣa is sure to follow. It is the result of God's forgiveness that the man is induced to perform expiation by a further prapatti.
 
 
 
