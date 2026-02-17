@@ -1147,11 +1147,6 @@ estos **son llamados** presentes (pecados).
 पिऩ्बु तुडङ्गुम् अवै। 
 </details>
 
-<details><summary>मूलम्</summary>
-
-करिष्यमाणङ्गळावऩ पिऩ्बु तुडङ्गुमवै। 
-</details>
-
 <details><summary>English</summary>
 
 Future (sins) **are** those that **may begin** after prapatti. 
@@ -1160,6 +1155,23 @@ Future (sins) **are** those that **may begin** after prapatti.
 <details><summary>Español</summary>
 
 Los (pecados) futuros **son** aquellos que **pueden comenzar** después de prapatti. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+करिष्यमाणङ्गळावऩ पिऩ्बु तुडङ्गुमवै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि क्रियमाणैक-देशङ्गळ् आयुम्  
+करिष्यमाणङ्गळ् आयुम् उळ्ळ  
+उत्तराघत्तिल् बुद्धिपूर्वकमल्लादवै ईश्वरऩ् क्षमिक्क श्लेषियादेबोम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि क्रियमाणैक देशङ्गळायुम् करिष्यमाणङ्गळायुमुळ्ळ उत्तराघत्तिल् बुद्धिपूर्वकमल्लादवै ईश्वरऩ् क्षमिक्क श्लेषियादेबोम्। 
 </details>
 
 
