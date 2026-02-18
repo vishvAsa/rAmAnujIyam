@@ -820,6 +820,12 @@ Pero que el Kulam **será** diferente.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
+तिरु सुरभिय् आनालुम् इति DT-ताताचार्य-विग्रहः। 
+</details>
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
 > After swami desikan meeting pillai lokacharyar  / Periya vachan pillai, he was so much convinced and realized he made a mistake (with this statement). Only then he composed muni-vahana-bhogam.
 
 इति प्रवादो वर्तते। 
