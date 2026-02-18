@@ -1162,11 +1162,32 @@ Los (pecados) futuros **son** aquellos que **pueden comenzar** después de prapa
 करिष्यमाणङ्गळावऩ पिऩ्बु तुडङ्गुमवै। 
 </details>
 
+### अबुद्धिपूर्वकम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि क्रियमाणैक-देशङ्गळ् आयुम्  
-करिष्यमाणङ्गळ् आयुम् उळ्ळ  
-उत्तराघत्तिल् बुद्धिपूर्वकमल्लादवै ईश्वरऩ् क्षमिक्क श्लेषियादेबोम्। 
+करिष्यमाणङ्गळ् आयुम् उळ्ळ उत्तराघत्तिल्  
+बुद्धि-पूर्वकम् अल्लादवै  
+ईश्वरऩ् क्षमिक्क,  
+श्लेषियादे बोम्। 
+</details>
+
+<details><summary>English</summary>
+
+Among those sins which **are committed** after prapatti  
+and which **may be** partly of the present and partly of the future,  
+those which **are not committed** deliberately  
+**will be pardoned** by Iśvara  
+and **will leave** no trace at all (on the self). 
+</details>
+
+<details><summary>Español</summary>
+
+Entre los pecados que **se cometen** después de prapatti  
+y que **puede ser** en parte del presente y en parte del futuro,  
+aquellos que **no se cometen** deliberadamente  
+**será perdonado** por Iśvara  
+y **no dejará** ningún rastro (en uno mismo).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1175,23 +1196,948 @@ Los (pecados) futuros **son** aquellos que **pueden comenzar** después de prapa
 </details>
 
 
-Among those sins which are committed after prapatti and which may be partly of the present and partly of the future, those which are not committed deliberately will be pardoned by Iśvara and will leave no trace at all (on the self). Those that are committed deliberately can be atoned for by the performance again of prapatti, for it is said:-"If an offence be committed, expiation should be made therefor and the expiation to be made is only the performance of prapatti again." When it is said that if Iśvara is bent on granting mokṣa, even deadly sins cannot stand in the way, and that there will be no punishment for sins committed delibe. rately after prapatti, what is meant is not that there is no need for expiation or prāyaścitta, but that if Iśvara is again propitiated by prapatti, (which is the prāyaścitta), mokṣa is sure to follow. It is the result of God's forgiveness that the man is induced to perform expiation by a further prapatti.
+### बुद्धिपूर्वकम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बुद्धि-पूर्वकङ्गळ् आऩवै प्रपन्नऩुक्कु
+
+> ‘‘प्रायश्-चित्तिर् इयं सात्र  
+यत् पुनश् शरणं श्रयेत्’’  
+(लक्ष्मीतन्त्रम् १७-९२) 
+
+ऎऩ्गैयाले  
+पुनः-प्रपत्तियाले शमिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+Those that **are committed** deliberately **can be atoned** for  
+by the **performance** again of prapatti,  
+for it **is said**:-
+
+> "If an **offence be committed**,  
+**expiation** should be made therefor  
+and the **expiation to be made is** only the **performance** of prapatti again." 
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **se cometen** deliberadamente **pueden ser expiados** por  
+por la **actuación** nuevamente de prapatti,  
+porque **se dice**:-
+
+> "Si **se comete** un **delito**,  
+**se debe hacer expiación** por ello  
+y la **expiación a hacer es** sólo la **realización** de prapatti nuevamente."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बुद्धिपूर्वकङ्गळाऩवै प्रपन्नऩुक्कु‘‘प्रायश्चित्तिरियं सात्र यत्पुनश्शरणं श्रयेत्’’(लक्ष्मीतन्त्रम् १७-९२) ऎऩ्गैयाले पुनःप्रपत्तियाले शमिक्कुम्। 
+</details>
+
+### ईश्वर-क्षमा-प्राधान्यं कथम्?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्वेश्वरऩ् +++(ता)+++ऱाऩ् मोक्षन् तर निऩैक्कुम् बोदु  
+पातकङ्गळुम् विलक्क् आगाद् 
+
+ऎऩ्ऩुम् वार्तैयुम्  
+
+> बुद्धि-पूर्वोत्तराघत्तिल् निग्रहमुम् वारादु,  
+प्रायश्चित्तमुम् वेण्डाव् 
+
+ऎऩ्ऱ बडिय् अऩ्ऱु; 
+</details>
+
+<details><summary>English</summary>
+
+When it **is said** that  
+
+> if Iśvara **is bent** on **granting** mokṣa,  
+even deadly sins **cannot stand** in the way,  
+
+and that 
+
+> there **will be no punishment** for sins committed deliberately after prapatti,  
+
+what **is meant is not** that there **is no need** for expiation or prāyaścitta,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se dice** que  
+
+> si Iśvara **está empeñado** en **conceder** mokṣa,  
+Incluso los pecados capitales **no pueden interponerse** en el camino,  
+
+y eso 
+
+> **no habrá ningún castigo** por los pecados **cometidos** deliberadamente después de prapatti,  
+
+lo que **se quiere decir no es** que **no hay necesidad** de **expiación** o prāyaścitta,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वेश्वरऩ्ऱाऩ् मोक्षन्दर निऩैक्कुम्बोदु पातकङ्गळुम् विलक् कागादॆऩ्ऩुम् वार्तैयुम् बुद्धिपूर्वोत्तराघत्तिल् निग्रहमुम् वारादु प्रायश्चित्तमुम् वेण्डावॆऩ्ऱबडियऩ्ऱु, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रसादनत्ताले अवऩ्-प्रसन्नऩ् आऩाल्  
+मोक्षम् अवश्यं-भाविय् 
+
+ऎऩ्ऱ बडि। 
+</details>
+
+<details><summary>English</summary>
+
+but that if Iśvara **is** again **propitiated** by prapatti, (which **is** the prāyaścitta),  
+mokṣa **is** sure to **follow**.  
+</details>
+
+<details><summary>Español</summary>
+
+pero que si Iśvara **es** nuevamente **propiciado** por prapatti, (que **es** la prāyaścitta),  
+mokṣa **está** seguro de **seguir**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रसादनत्ताले अवऩ् प्रसन्नऩाऩाल् मोक्षमवश्यंभावियॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्क् इप्-पडि ईश्वरऩ् पुनः-प्रपत्तिय् आगिऱ प्रायश्चित्तत्तिले मूट्टुगिऱदुवुम्  
+क्षमा-फलम्, 
+</details>
+
+<details><summary>English</summary>
+
+It **is** the **result** of God's **forgiveness**  
+that the man **is induced** to **perform expiation** by a further prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+**Es** el **resultado** del **perdón** de Dios  
+que el hombre **es inducido** a **realizar la expiación** mediante un prapatti adicional.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदुक्किप्पडि ईश्वरऩ् पुनःप्रपत्तियागिऱ प्रायश्चित्तत्तिले मूट्टुगिऱदुवुम् क्षमाफलम्, 
+</details>
+
+
+### दोष-भोग्यता क्व?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रियतमैय्-उडम्बिल् अऴुक्कुम्  
+वत्सत्तिऩ्-उडैय-वऴुम्बुम्+++(=जरायु)+++ पोले  
+प्रपन्नऩ्-उडैय दोषम् 
+
+ऎऩ्गिऱ वार्तैयुम्  
+दुष्टरुम् शरणागतर् आऩाल्  
+ईश्वरऩ् कै-विडादे तिरुत्तुम्  
+ऎऩ्ऱ बडि।
+</details>
+
+<details><summary>English</summary>
+
+It **has been said** (by some ācāryas) that,  
+
+> to Iśvara, the **sins** or **offences** of the jīva **are** (agreeable)  
+like the dirt on the body of a beloved wife  
+and like the slime on the body of the newborn calf to the cow.  
+
+This only means that  
+even if wicked men **should perform** prapatti,  
+Iśvara **will not forsake** them  
+and **will bring** them round to righteous ways. 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho** (por algunos ācāryas) que,  
+
+> para Iśvara, los **pecados** u **ofensas** de la jīva **son** (**agradables**)  
+como la suciedad en el cuerpo de una amada esposa  
+y como la baba en el cuerpo del ternero recién **nacido** a la vaca.  
+
+Esto sólo significa que  
+incluso si los hombres malvados **deberían realizar** prapatti,  
+Iśvara **no los abandonará**  
+y **los llevará** a caminos rectos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रियतमैयुडम्बिलऴुक्कुम् वत्सत्तिऩुडैयवऴुम्बुम् पोले प्रपन्नऩुडैय दोषमॆऩ्गिऱ वार्तैयुम् दुष्टरुम् शरणागतराऩाल् ईश्वरऩ् कैविडादे तिरुत्तुमॆऩ्ऱबडि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩऩ् अऩ्ऱिक्के  
+बुद्धि-पूर्वोत्तराघमुम् ईश्वरऩुक्कु भोग्यम् ऎऩ्ऱु विवक्षितम् आगिल्  
+प्रपन्नऩुक्क् इदुवे यथा-शक्ति संपाद्यम् आम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+It **does not mean** that sins **committed** deliberately  
+would **give delight** to Iśvara.  
+If so, the prapanna **should have**, by all the means in his power, to **commit** such sins.
+</details>
+
+<details><summary>Español</summary>
+
+**No significa** que los pecados **cometidos** deliberadamente  
+**daría deleite** a Iśvara.  
+Si **es** así, el prapanna **debería**, por todos los medios a su alcance, **cometir** tales pecados.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩऩ्ऱिक्के बुद्धिपूर्वोत्तराघमुम् ईश्वरऩुक्कु भोग्यमॆऩ्ऱु विवक्षितमागिल् प्रपन्नऩुक्किदुवे यथाशक्ति संपाद्यमाम्। 
+</details>
+
+
+### लघुर् दण्डः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकृति-विशेष-स्वभावत्ताले  
+अपराधङ्गळ् बुद्धि-पूर्वकम् आग वन्दालुम्  
+पुनः-प्रपत्ति पण्णादार् बक्कलिलुम्
+</details>
+
+<details><summary>English</summary>
+
+Even if **offences are committed** deliberately  
+owing to the peculiar nature of a man's prakṛti,  
+even if a further prapatti **is not performed** (by way of **expiation**), 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si **los delitos se cometen** deliberadamente  
+debido a la naturaleza peculiar de la prakṛti del hombre,  
+incluso si **no se realiza** otro prapatti (a modo de **expiación**),
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रकृति विशेषस्वभावत्ताले अपराधङ्गळ् बुद्धिपूर्वकमाग वन्दालुम्पुनःप्रपत्तिपण्णादार्बक्कलिलुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘देवं शार्ङ्ग-धरं विष्णुं  
+ये **प्रपन्नाः** परायणम् ।  
+न तेषां यम-सालोक्यं  
+न च ते नरकौकसः॥’’  
+(वामन-पुराणम् ९४-४३), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘देवं शार्ङ्ग-धरं विष्णुं  
+ये **प्रपन्नाः** परायणम् ।  
+न तेषां यम-सालोक्यं  
+न च ते नरकौकसः॥’’  
+(वामन-पुराणम् ९४-४३), 
+</details>
+
+<details><summary>English</summary>
+
+> “Those who **consider** Viṣṇu, the **bearer** of ṣārṅga, as the supreme end of life  
+and who **perform** prapatti to Him  
+**never go** to the world of Yama" 
+</details>
+
+<details><summary>Español</summary>
+
+> “Aquellos que **consideran** a Viṣṇu, el **portador** de ṣārṅga, como el fin supremo de la vida  
+y quienes **realizan** prapatti para Él  
+**nunca vayas** al mundo de Yama"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘देवं शार्ङ्गधरं विष्णुं ये प्रपन्नाः परायणम् । न तेषां यमसालोक्यं न च ते नरकौकसः’’(वामनपुराणम् ९४-४३), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यस्मिन् कस्मिन् कुले **जाता**  
+यत्र-कुत्र **निवासिनः** ।  
+वासु-देव-रता नित्यं  
+यम-लोकन् **न यान्ति** त’’() 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “Whatever be the family into which they **are born**,  
+and wherever they **may live**,  
+those who are ever **attached** to Vāsudeva  
+**never go** to hell" 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> “Cualquiera que **sea** la familia en la que **nacen**,  
+y donde **quiera** que **vivan**,  
+aquellos que siempre **están apegados** a Vāsudeva  
+**nunca vayas** al infierno"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यस्मिन् कस्मिन् कुले जाता यत्रकुत्र निवासिनः । वासुदेवरता नित्यं यमलोकन्न यान्ति त’’() 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
+नरकादिगळ् वाराद बडि पण्णि 
+</details>
+
+<details><summary>English</summary>
+
+So when it **is said** that  
+there **is no** hell for the prapanna  
+as in the above ślokas;  
+He **sees** to it that  
+such prapannas **do not go** to hell 
+
+</details>
+
+<details><summary>Español</summary>
+
+Entonces cuando **se dice** que  
+**No hay** infierno para la prapanna.  
+como en los ślokas anteriores;  
+Él **se encarga** de que  
+tales prapannas **no vayan** al infierno
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये नरकादिगळ् वारादबडि पण्णि 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+राज-पुत्राद्य्-अपराधत्तिऱ् पोले  
+लघु-प्रत्यवायत्ताले कण्ण्-अऴिक्किऱदुवुम्  
+क्षमा-विशेषम्। 
+</details>
+
+<details><summary>English</summary>
+
+and 
+that He **awards** them light punishments (sufferings)  
+as (kings do) in the case of their offending sons  
+
+\- this **is** the peculiar characteristic of Iśvara's forgiveness.  
+</details>
+
+<details><summary>Español</summary>
+
+y 
+que Él les **otorgue** ligeros **castigos** (sufrimientos)  
+como (lo **hacen** los reyes) en el caso de sus hijos transgresores  
+
+\- esta **es** la característica peculiar del perdón de Iśvara.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+राजपुत्राद्यपराधत्तिऱ् पोले लघुप्रत्यवायत्ताले कण्णऴिक्किऱदुवुम् क्षमाविशेषम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पापङ्गळुक्कु दृष्ट-प्रत्यवायङ्गळुम्  
+नरकादि-प्रत्यवायङ्गळुम् उण्ड् आय् इरुक्क 
+</details>
+
+<details><summary>English</summary>
+
+Sins **lead to sufferings**  
+that **are seen**  
+and that **are tangible**  
+and also to **sufferings** like those in hell.  
+</details>
+
+<details><summary>Español</summary>
+
+Los **pecados conducen** al **sufrimiento**  
+que **se ven**  
+y que **son tangibles**  
+
+y también a **sufrimientos** como los del infierno.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पापङ्गळुक्कु दृष्ट प्रत्यवायङ्गळुम् नरकादिप्रत्यवायङ्गळुमुण्डायिरुक्क 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नरकादिगळ् इवऩुक्क् इल्लैय् 
+
+ऎऩ्ऱु विशेष-वचनङ्गळ् सॊऩ्ऩाल्  
+दृष्ट-प्रत्यवायङ्गळुक्कु बाधकर् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+when such statements **are made** to the effect that  
+there **is no** hell for them,  
+there **is nothing** in them  
+to **deny** that they **will not have** any **sufferings** in this life itself  
+(like blindness). 
+</details>
+
+<details><summary>Español</summary>
+
+cuando tales **declaraciones se hagan** en el sentido de que  
+**No hay** infierno para ellos.  
+
+**no hay** nada en ellos  
+**negar** que **no tendrán** ningún **sufrimiento**  
+en esta vida misma  
+(como la ceguera).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नरकादिगळिवऩुक्किल्लैयॆऩ्ऱु विशेषवचनङ्गळ् सॊऩ्ऩाल् दृष्टप्रत्यवायङ्गळुक्कु बाधकरिल्लै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वचन-विरोधत्तिल् न्यायम् प्रवर्तियादु। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Logic **cannot repudiate** explicit **statements** (**made** in the śruti and the smṛti). 
+</details>
+
+<details><summary>Español</summary>
+
+La lógica **no puede repudiar declaraciones** explícitas (**hechas** en el śruti y el smṛti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वचनविरोधत्तिल् न्यायम् प्रवर्तियादु।
+</details>
+
+#### प्रत्यक्ष-प्रकाराः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सापराधरुम् आय्  
+अनुतापमुम् अऩ्ऱिक्के  
+पुनः-प्रपत्तियुम् पण्णादेय् इरुप्पार्  
+सिल प्रपन्नर्क्कु  
+उपक्लेशङ्गळ् आगच् चॊऩ्ऩ काणत्वादि दृष्ट-प्रत्यवायङ्गळ् काणाद् इरा निऩ्ऱोम् 
+
+ऎऩ्गै मन्द-चोद्यम्; 
+</details>
+
+<details><summary>English</summary>
+
+It **is** idle to **say** that,  
+
+> even in some of those who **have committed offences**  
+and who have **not repented** for them  
+by **performing** a further prapatti,  
+we **do not see** such visible **sufferings** as blindness  
+which **are stated** to be their **punishments**. 
+</details>
+
+<details><summary>Español</summary>
+
+**Es** inútil **decir** eso,  
+
+> incluso en algunos de los que **han cometido delitos**  
+y que **no se han arrepentido** por ellos  
+**realizando** otro prapatti,  
+nosotros **no vemos sufrimientos** tan **visibles** como la ceguera  
+que **se declaran** como sus **castigos**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सापराधरुमाय् अनुतापमुमऩ्ऱिक्के पुनःप्रपत्तियुम् पण्णादेयिरुप्पार् सिल प्रपन्नर्क्कु उपक्लेशङ्गळागच् चॊऩ्ऩ काणत्वादि दृष्टप्रत्यवायङ्गळ् काणादिरा निऩ्ऱोमॆऩ्गै मन्दचोद्यम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवर्गळुक्कुम् अपराधादि-तारतम्यत्तुक्क् ईड् आग  
+नाना-प्रकार-ताप-त्रयानुभवम्, 
+</details>
+
+<details><summary>English</summary>
+
+Even in their lives,  
+(**we may see**) such **sufferings** as the following  
+in **accordance** with the seriousness of their offences :--  
+many varieties of **suffering** due to the three well-known causes (the elements of nature, the body and supernatural powers), 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en sus vidas,  
+(**podemos ver**) **sufrimientos** como los siguientes  
+**de acuerdo** con la gravedad de sus delitos:--  
+muchas variedades de **sufrimiento** debido a las tres causas bien **conocidas** (los elementos de la naturaleza, el cuerpo y los poderes sobrenaturales),
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवर्गळुक्कुम् अपराधादितारतम्यत्तुक्कीडाग नानाप्रकारतापत्रयानुभवम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपयुक्त-ज्ञान-मान्द्यम्,  
+</details>
+
+<details><summary>English</summary>
+
+dullness of the intelligence **required** for the Lord's service, 
+</details>
+
+<details><summary>Español</summary>
+
+embotamiento de la inteligencia **requerida** para el **servicio** del Señor,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपयुक्तज्ञानमान्द्यम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ग्-उळ्ळ भगवद्-अनुभव-रस सङ्कोच-विच्छेदङ्गळ्, 
+</details>
+
+<details><summary>English</summary>
+
+the **diminution** of delight  
+and the **absence** of it  
+in the **enjoyment** of Bhagavān, 
+</details>
+
+<details><summary>Español</summary>
+
+la **disminución** del deleite  
+y la **ausencia** del mismo  
+en el **disfrute** de Bhagavān,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गुळ्ळ भगवदनुभवरस सङ्कोच विच्छेदङ्गळ्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-भागवत-कैङ्कर्य-रस-विच्छेदम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **absence** of delight in **rendering service** to Bhagavān and His devotees, 
+</details>
+
+<details><summary>Español</summary>
+
+la **ausencia** de deleite en **prestar servicio** a Bhagavān y Sus devotos,
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवद्भागवतकैङ्कर्यरसविच्छेदम्, 
+</details>
 
 
 
-It has been said (by some ācāryas) that, to Iśvara, the sins or offences of the jīva are (agreeable) like the dirt on the body of a beloved wife and like the slime on the body of the newborn calf to the cow. This only means that even if wicked men should perform prapatti, Iśvara will not forsake them and will bring them round to righteous ways. It does not mean that sins committed deliberately would give delight to Iśvara. If so, the prapanna should have, by all the means in his power, to commit such sins.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-अपचार--भागवतापचारादिगळ्, 
+</details>
+
+<details><summary>English</summary>
+
+**offences** against the Lord and His devotees, 
+</details>
+
+<details><summary>Español</summary>
+
+**ofensas** contra el Señor y Sus devotos,
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवदपचारभागवतापचारादिगळ्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शिष्ट-गर्हा--बहिष्-कारादिगळ्, 
+</details>
+
+<details><summary>English</summary>
+
+the **censure**, the **boycott** and the like by the virtuous, 
+</details>
+
+<details><summary>Español</summary>
+
+la **censura**, el **boicot** y cosas similares por parte de los virtuosos,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शिष्टगर्हाबहिष्कारादिगळ्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुकृत-विशेष-नाशम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **destruction** of their good deeds, 
+</details>
+
+<details><summary>Español</summary>
+
+la **destrucción** de sus buenas obras,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुकृतविशेषनाशम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सात्त्विकानादरम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **loss** of the esteem in which they were formerly held by good men, 
+</details>
+
+<details><summary>Español</summary>
+
+la **pérdida** de la estima  
+que antes **tenían** los hombres buenos,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सात्त्विकानादरम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनो-रथ-भङ्ग-क्लेशम् 
+</details>
+
+<details><summary>English</summary>
+
+the **suffering** done in the **frustration** of their ambitions and desires, 
+</details>
+
+<details><summary>Español</summary>
+
+el **sufrimiento hecho** en la **frustración** de sus ambiciones y deseos,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मनोरथभङ्गक्लेशम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् इप्-पुडैगळिल्  
+एद् एऩुम् ऒरु उपक्लेश-रूपम् आऩ प्रत्यवायङ् काणालाम्। 
+</details>
+
+<details><summary>English</summary>
+
+and such other  forms of sorrow (may be seen). 
+</details>
+
+<details><summary>Español</summary>
+
+y otras formas de tristeza (**pueden verse**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱिप्पुडैगळिल् एदेऩुमॊरु उपक्लेशरूपमाऩ प्रत्यवायङ् गाणालाम्। 
+</details>
+
+#### वैविध्योक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-कृत्य-करण-- कृत्याकरणादि-रूपङ्गळ् आऩ नाना-विध-पापङ्गळुक्क्  
+इप्-पडि नाना-विध-दृष्ट-प्रत्यवाय-करत्वमुम्  
+श्रुतिगळिलुम्, मन्व्-आदि-धर्म-शास्त्रङ्गळिलुम्, इतिहास-पुराण--भगवच्-छास्त्रादिगळिलुम् प्रसिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+It **is well-known** from the śrutis, the Dharma śāstras of Manu and others and from the Itihasas, Purāṇas and the Pāñcarātra that,  
+for varied kinds of sins of **omission** and **commission**,  
+there **are** varied kinds of visible **suffering**.  
+</details>
+
+<details><summary>Español</summary>
+
+**Es bien sabido** por los śrutis, los Dharma śāstras de Manu y otros y por los Itihasas, Purāṇas y el Pāñcarātra que,  
+por variados tipos de pecados de **omisión** y **comisión**,  
+**hay** varios tipos de **sufrimiento visibles**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकृत्यकरणकृत्याकरणादिरूपङ्गळाऩ नानाविधपापङ्गळुक्किप्पडि नानाविधदृष्टप्रत्यवायकरत्वमुम् श्रुतिकळिलुम् मन्वादि धर्मशास्त्रङ्गळिलुम् इतिहासपुराण भगवच्छास्त्रादिगळिलुम् प्रसिद्धम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्, 
+
+> काणत्वाद्य्-उपक्लेश-विशेषोदाहरणम् उपलक्षणम् 
+
+ऎऩ्ऩुम् इडम्  
+वाक्योपक्रमत्तिल् समुदाय-निर्देशादिगळाले सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore when blindness and the like **are taken** by way of example,  
+it **should be taken** only as one instance  
+(and not as an invariable form of suffering).  
+This **is evident** from the opening words of the sentence  
+which speak of **sufferings** in the world in general.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, cuando la ceguera y cosas similares **se toman** a modo de ejemplo,  
+**debe tomarse** sólo como un ejemplo.  
+(y no como una forma **invariable** de **sufrimiento**).  
+Esto **es evidente** por las palabras **iniciales** de la **oración**,  
+que hablan de **sufrimientos** en el mundo en general.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् काणत्वाद्युपक्लेश विशेषोदाहरण मुपलक्षणमॆऩ्ऩुमिडम् वाक्योपक्रमत्तिल् समुदायनिर्देशादिगळाले सिद्धम्। 
+</details>
+
+#### प्रारब्धान्तर-फल-मात्रं न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वचन-बल-सिद्धम् आय्  
+बुद्धि-पूर्वोत्तराघ-फलम् आऩ उपक्लेश-वर्गत्तै  
+"प्रारब्ध-कर्म-विशेष-फलम्" ऎऩ्ऱु निष्कर्षिक्क विरग् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+It **is not possible** to **argue**, with any **certainty**,  
+that the varied **sufferings** which **come** to a man as the fruit of sins **committed** deliberately after prapatti  
+and which **find support** in the authority of the texts  
+**are** due to past karma  
+which **has begun** to yield its fruit. 
+</details>
+
+<details><summary>Español</summary>
+
+**No es posible argumentar**, con **certeza**,  
+
+que los variados **sufrimientos** que **vienen** a un hombre  
+como fruto de pecados **cometidos** deliberadamente después de prapatti  
+y que **encuentran apoyo** en la autoridad de los textos  
+
+**son** debido al karma pasado  
+que **ha comenzado** a dar sus frutos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वचनबलसिद्धमाय् बुद्धिपूर्वोत्तराघफलमाऩ उपक्लेशवर्गत्तैप्रारब्धकर्मविशेषफलमॆऩ्ऱु निष्कर्षिक्क विरगिल्लै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवै यथा-संभवम् उभय-विध-कर्मत्तालुम् वरुम्।
+</details>
+
+<details><summary>English</summary>
+
+These **may come** as the result of either of the two kinds of karma . 
+</details>
+
+<details><summary>Español</summary>
+
+Estos **pueden venir** como **resultado** de cualquiera de los dos tipos de karma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवै यथासंभवम् उभयविधकर्मत्तालुम् वरुम्।
+</details>
+
+#### सात्त्विक-भयम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयालेय् इऱे  
+बुद्धि-पूर्वोत्तराघत्तुक्कु सात्त्विकर् अञ्जिप् पोरुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+That **is** why good men (sātvikas) **dread offences** that **might be committed** deliberately. 
+</details>
+
+<details><summary>Español</summary>
+
+Por eso los hombres buenos (sātvikas) **temen las ofensas** que **podrían cometerse** deliberadamente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयालेयिऱे बुद्धिपूर्वोत्तराघत्तुक्कु सात्त्विकरञ्जिप् पोरुगिऱदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ्-अल्लाद बोदु  
+पुनः प्रपत्ति-विधायक-शास्त्रमुम्  
+अप्-पडिक्कु शिष्टानुष्ठानमुम्  
+पूर्व-संप्रदायमुम्  
+विरोधिक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+If this **were** otherwise,  
+it **would be opposed** to the śāstra  
+which **enjoins** a further prapatti  
+
+and to the code of conduct **followed** by virtuous men  
+and to ancient tradition.
+</details>
+
+<details><summary>Español</summary>
+
+Si esto **fuera** diferente,  
+**se opondría** al śāstra  
+que **impone** un prapatti adicional  
+
+y al código de conducta **seguido** por los hombres virtuosos  
+y a la antigua tradición.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु पुनः प्रपत्तिविधायकशास्त्रमुम् अप्पडिक्कु शिष्टानुष्ठानमुम् पूर्वसंप्रदायमुम् विरोधिक्कुम्।
+</details>
+
+### अनुतापः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अपचारानन्तरम् अनुतापम् पिऱन्दद् इल्लैय् आगिल्  
++++(तस्य पूर्वम् एव)+++ ज्ञानम् बिऱन्दद् इल्लैय् आगक् कडवद् 
+
+ऎऩ्ऱु नञ्जीयर्-वार्त्तैक्कुम्  
+अनुतापम् पिऱवादार्-उडैय ज्ञान-मान्द्यत्तिले तात्पर्यम् +++(न तु प्रपत्त्य्-अभावे)+++।
+</details>
+
+<details><summary>English</summary>
+
+(It is true) Nanjiyar **stated** that  
+
+> if a man **does not feel repentant**  
+after **committing** an **offence**,  
+he **should be considered** as without knowledge. 
+
+But what **is meant is** that his **omission** to **repent**  
+**is** due to dullness of intelligence  
+and not that the prapatti **was not fulfilled**. 
+</details>
+
+<details><summary>Español</summary>
+
+(Es cierto) Nanjiyar **declaró** que  
+
+> si un hombre **no se siente arrepentido**  
+después de **cometer** un **delito**,  
+él **debe ser considerado** como sin **conocimiento**. 
+
+Pero lo que **se quiere decir es** que  
+su **omisión** de **arrepentirse**  
+**es** debido a embotamiento de la inteligencia  
+y **no es** que el prapatti **no se haya cumplido**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपचारानन्तरमनुतापम् पिऱन्ददिल्लै यागिल् ज्ञानम्बिऱन्ददिल्लैयागक्कडवदॆऩ्ऱु नञ्जीयर्वार्त्तैक्कुम् अनुतापम् पिऱवादारुडैय ज्ञानमान्द्यत्तिले तात्पर्यम्।
+</details>
 
 
 
-Even if offences are committed deliberately owing to the peculiar nature of a man's prakṛti, and even if a further prapatti is not performed (by way of expiation), it is the peculiar characteristic of Iśvara's forgiveness that He sees to it that such prapannas do not go to hell and that He awards them light punishments (sufferings) as (kings do) in the case of their offending sons. Sins lead to sufferings that are seen and that are tangible and also to sufferings like those in hell. So when it is said that there is no hell for the prapanna as in the following ślokas :- “Those who consider Viṣṇu, the bearer of ṣārṅga, as the supreme end of life and who perform prapatti to Him never go to the world of Yama" and “Whatever be the family into which they are born, and wherever they may live, those who are ever attached to Vāsudeva never go to hell" when such statements are made to the effect that there is no hell for them, there is nothing in them to deny that they will not have any sufferings in this life itself (like blindness). Logic cannot repudiate explicit statements (made in the śruti and the smṛti). It is idle to say that, even in some of those who have committed offences and who have not repented for them by performing a further prapatti. we do not see such visible sufferings as blindness which are stated to be their punishments. Even in their lives, we may see such sufferings as the following in accordance with the seriousness of their offences :-- many varieties of suffering due to the three well-known causes (the elements of nature, the body and supernatural powers), dullness of the intelligence required for the Lord's service, the diminution of delight and the absence of it in the enjoyment of Bhagavān, the absence of delight in rendering service to Bhagavān and His devotees, offences against the Lord and His devotees, the censure, the boycott and the like by the virtuous, the destruction of their good deeds, the loss of the esteem in which they were formerly held by good men, the suffering done in the frustration of their ambitions and desires, and such other  forms of sorrow. It is well-known from the śrutis, the Dharma śāstras of Manu and others and from the Itihasas, Purāṇas and the Pāñcarātra that, for varied kinds of sins of omission and commission, there are varied kinds of visible suffering. Therefore when blindness and the like are taken by way of example, it should be taken only as one instance (and not as an invariable form of suffering). This is evident from the opening words of the sentence which speak of sufferings in the world in general,
-
-
-
-It is not possible to argue, with any certainty, that the varied sufferings which come to a man as the fruit of sins committed deliberately after prapatti and which find support in the authority of the texts are due to past karma  which has begun to yield its fruit. These may come as the result of either of the two kinds of karma . That is why good men (sātvikas) dread offences that might be committed deliberately. If this were otherwise, it would be opposed to the śāstra which enjoins a further prapatti and to the code of conduct followed by virtuous men and to ancient tradition.
-
-
-
-(It is true) Nanjiyar stated that if a man does not feel repentant after committing an offence, he should be considered as without knowledge. But what is meant is that his omission to repent is due to dullness of intelligence and not that the prapatti was not fulfilled. Deliberate offences which would meet with Bhagavān's disapproval would not be committed by some men as these result from conditions created by past karma . In the case of some others who commit such offences, repentance and the like put an end to them. Men of hard hearts may not repent at all. Therefore if deliberate offences happen to be committed, the man should repent and perform prapatti again. If he does not, they would lead to light punishments or sufferings in accordance with what is said in the śrutis and the like.
+Deliberate offences which would meet with Bhagavān's disapproval would not be committed by some men as these result from conditions created by past karma . In the case of some others who commit such offences, repentance and the like put an end to them. Men of hard hearts may not repent at all. Therefore if deliberate offences happen to be committed, the man should repent and perform prapatti again. If he does not, they would lead to light punishments or sufferings in accordance with what is said in the śrutis and the like.
 
 
 
