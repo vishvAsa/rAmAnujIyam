@@ -872,6 +872,8 @@ La respuesta **es** la **siguiente**:-
 इप्पडियिरुक्क यिव्विडत्तिल् आरब्धकार्यत्तै क्षमिक्कैयावदॆऩ्ऩॆऩ्ऩिल्; 
 </details>
 
+
+
 ### नाशोक्ताव् औचित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -917,6 +919,8 @@ Iśvara **le dará perdón** incluso con respecto a todo ese karma.
 
 फलप्रदानप्रवृत्तमाऩ कर्मत्तिलुम् जन्मान्तर दिवसान्तरस्थित्यादिगळुक्कारंभकमाऩ अंशमुम् इस् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कनिष्टमाय् अत्तैयुम् पऱ्ऱविवऩ् शोकिक्किल् अव् वंशत्तैयुम् ईश्वरऩ् क्षमिक्कुम्; 
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2135,17 +2139,147 @@ y **no es** que el prapatti **no se haya cumplido**.
 अपचारानन्तरमनुतापम् पिऱन्ददिल्लै यागिल् ज्ञानम्बिऱन्ददिल्लैयागक्कडवदॆऩ्ऱु नञ्जीयर्वार्त्तैक्कुम् अनुतापम् पिऱवादारुडैय ज्ञानमान्द्यत्तिले तात्पर्यम्।
 </details>
 
+#### अभावे दण्डः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कर्मणा)+++ सोपाधिकङ्गळ् आऩ भगवद्-अभिप्राय-भेदङ्गळुक्क् ईड्-आग वरुम्  
+बुद्धि-पूर्वापचारम् सिलर्क्कुप् पिऱवादु, 
+</details>
+
+<details><summary>English</summary>
+
+Deliberate **offences** which **would meet** with Bhagavān's **disapproval**  
+**would not be committed** by some men  
+as these **result** from conditions **created** by past karma . 
+</details>
+
+<details><summary>Español</summary>
+
+**Ofensas** deliberadas que **encontrarían** la **desaprobación** de Bhagavān  
+**no sería cometido** por algunos hombres  
+ya que estos **resultan** de condiciones **creadas** por karma pasado.
+</details>
 
 
-Deliberate offences which would meet with Bhagavān's disapproval would not be committed by some men as these result from conditions created by past karma . In the case of some others who commit such offences, repentance and the like put an end to them. Men of hard hearts may not repent at all. Therefore if deliberate offences happen to be committed, the man should repent and perform prapatti again. If he does not, they would lead to light punishments or sufferings in accordance with what is said in the śrutis and the like.
+<details><summary>मूलम्</summary>
+
+सोपाधिकङ्गळाऩ भगवदभिप्रायभेदङ्गळुक्कीडाग वरुम् बुद्धिपूर्वापचारम् सिलर्क्कुप्पिऱवादु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिलर्क्कुप् पिऱन्दवै  
+अनुतापादिगळाले कऴियुम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the case of some others who **commit** such **offences**,  
+**repentance** and the like **put an end** to them. 
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de otras personas que **cometen** tales **delitos**,  
+**arrepentimiento** y cosas similares **ponerles fin**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिलर्क्कुप्पिऱन्दवै अनुतापादिगळाले कऴियुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कठिन-प्रकृतिगळुक्कु अनुतापमुम् पिऱवादु। 
+</details>
+
+<details><summary>English</summary>
+
+Men of hard hearts **may not repent** at all. 
+</details>
+
+<details><summary>Español</summary>
+
+Los hombres de corazón duro **pueden no arrepentirse** en absoluto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कठिनप्रकृतिकळुक्कु अनुतापमुम् पिऱवादु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् बुद्धि-पूर्वोत्तराघम् पिऱन्दाल्  
+अनुतप्तऩ् आय्  
+पुनः प्रपत्ति पण्णाद बोदु  
+उपक्लेशञ् जॊल्लुगिऱ श्रुत्य्-आदिगळिऩ् कट्टळैयिले  
+लघु-प्रत्यवायत्ताले तीरुम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore if deliberate offences **happen to be committed**,  
+the man **should repent**  
+and **perform** prapatti again.  
+If he **does not**,  
+they **would lead** to light **punishments** or **sufferings**  
+in accordance with what **is said** in the śrutis and the like.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, si **se cometen delitos deliberados**,  
+el hombre **debería arrepentirse**  
+y **realiza** prapatti nuevamente.  
+
+Si él **no hace**,  
+ellos **conducirían** a **castigos** o **sufrimientos** leves  
+de acuerdo con lo que **se dice** en los śrutis y similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् बुद्धिपूर्वोत्तराघम् पिऱन्दाल् अनुतप्तऩाय् पुनः प्रपत्तिपण्णादबोदु उपक्लेशञ्जॊल्लुगिऱश्रुत्यादिगळिऩ् कट्टळैयिले लघुप्रत्यवायत्ताले तीरुम्।
+</details>
 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-विवेकिनां प्रपन्नानां धीपूर्वाघस्यनुद्यमः ।  
-मध्यानामनुतापादिश्शिक्षा कठिनचेतसाम् ॥
+विवेकिनां प्रपन्नानां  
+धी-पूर्वाघस्य् **अनुद्यमः** ।  
+मध्यानाम् अनुतापादिश्  
+**शिक्षा** कठिन-चेतसाम् ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विवेकिनां प्रपन्नानां  
+धी-पूर्वाघस्य् **अनुद्यमः** ।  
+मध्यानाम् अनुतापादिश्  
+**शिक्षा** कठिन-चेतसाम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Wise men who **have performed** prapatti  
+**would never think** of **committing** offences deliberately,  
+men of a mediocre intelligence **repent** (for such offences.)  
+Hard - hearted men **meet** with **punishment** for them.
+</details>
+
+<details><summary>Español</summary>
+
+Sabios que **han realizado** prapatti  
+**nunca pensaría** en **cometer** delitos deliberadamente,  
+los hombres de inteligencia mediocre **se arrepienten** (por tales ofensas).  
+Los hombres de corazón duro **encuentran** **castigo** por ellos.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -2153,65 +2287,180 @@ Deliberate offences which would meet with Bhagavān's disapproval would not be c
 मध्यानामनुतापादिश्शिक्षा कठिनचेतसाम् ॥
 </details>
 
-Wise men who have performed prapatti would never think of committing offences deliberately, men of a mediocre intelligence repent (for such offences.) Hard - hearted men meet with punishment for them.
+### वारण-प्रयासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ बिऩ्बु, ऒरु बडियालुम् भगवन्-निग्रहम् वारामैक्क् आग  
+बुद्धि-पूर्वापराधम् परिहरणीयम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore in order that there **may be no punishment** of any kind,  
+one **should guard against** deliberate **offences**.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, para que **no haya castigo** de ningún tipo,  
+Uno **debe protegerse** contra **ofensas** deliberadas.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Therefore in order that there may be no punishment of any kind, one should guard against deliberate offences.
-
+आऩबिऩ्बु ऒरुबडियालुम् भगवन्निग्रहम् वारामैक्काग बुद्धिपूर्वापराधम् परिहरणीयम्। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रीतिमेव समुद्दिश्य स्वतंत्राज्ञानुपालने ।  
-निग्रहानुदयोप्यस्य नान्तरीयक एव वा ॥
+प्रीतिम् एव **समुद्दिश्य**  
+**स्वतन्त्राज्ञाऽनुपालने** ।  
+**निग्रहानुदयो** ऽप्य् अस्य,  
++++(प्रीणनापेक्षया)+++ नान्तरीयक +++(→अकाङ्क्षित)+++ एव वा ॥ +++(4)+++
 </details>
+
+<details><summary>English</summary>
+
+When one **performs** the **commands** of the omnipotent Lord (nitya and naimittika karma )  
+solely for the purpose of **pleasing** Him,  
+**no punishment will ensue**,  
+though he **may not have thought** (of avoiding any such punishment).
+</details>
+
+<details><summary>Español</summary>
+
+Cuando uno **ejecuta** las **órdenes** del omnipotente Señor (nitya y naimittika karma)  
+únicamente con el propósito de **agradarle**,  
+**no habrá castigo**,  
+aunque él **puede** que **no haya pensado** (en **evitar** tal **castigo**).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-प्रीतिमेव समुद्दिश्य स्वतंत्राज्ञानुपालने ।  
+प्रीतिमेव समुद्दिश्य स्वतन्त्राज्ञानुपालने ।  
 निग्रहानुदयोप्यस्य नान्तरीयक एव वा ॥
 </details>
 
-When one performs the commands of the omnipotent Lord (nitya and naimittika karma ) solely for the purpose of pleasing Him, no punishment will ensue, though he may not have thought (of avoiding any such punishment).
+### भागवतापचार-परिहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि यथा-शक्ति अपराधङ्गळैप् परिहरित्तुक् कॊण्डु पोरा निऩ्ऱाल्  
+भागवतापचारमुम्, अद्-उडैयारोडु संसर्गमुम् पोरप् परिहरणीयम्।  
+</details>
+
+<details><summary>English</summary>
+
+If a prapanna **should try**,  
+as much as it **lies** in his power, to **avoid offences**,  
+he **should avoid**, even more carefully, **offences** against the devotees of Bhagavān  
+and association with those who **commit** such offences.
+</details>
+
+<details><summary>Español</summary>
+
+Si un prapanna **debería intentarlo**,  
+por mucho que **está** en su poder, **evitar ofensas**,  
+él **debe evitar**, aún más cuidadosamente, **ofensas** contra los devotos de Bhagavān  
+y asociación con quienes **cometen** tales delitos.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-If a prapanna should try, as much as it lies in his power, to avoid offences, he should avoid. even more carefully, offences against the devotees of Bhagavān and association with those who commit such offences.
+इप्पडि यथाशक्ति अपराधङ्गळैप् परिहरित्तुक्कॊण्डु पोरानिऩ्ऱाल् भागवतापचारमुम् अदुडैयारोडु संसर्गमुम् पोरप् परिहरणीयम्।  
+</details>
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-वित्-पाप-वर्गाणाम्  
+अनन्तानां महीयसाम् ।  
+तद्-द्वेषि-**संक्रमं जानन्**  
+**त्रस्येत्** तद्-**अपराधतः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ब्रह्म-वित्-पाप-वर्गाणाम्  
+अनन्तानां महीयसाम् ।  
+तद्-द्वेषि-**संक्रमं जानन्**  
+**त्रस्येत्** तद्-**अपराधतः** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+The countless and serious sins **committed** by the man who **meditates** on Brahman (Brahmavit)  
+**will be transferred** to the man who **hates** him.  
+**Realising** this,  
+one **should dread committing** any **offence** against a Brahma-vit.
+</details>
+
+<details><summary>Español</summary>
+
+Los innumerables y graves pecados **cometidos** por el hombre que **medita** en Brahman (Brahma-vit)  
+**será transferido** al hombre que **lo odia**.  
+
+**Al darse cuenta** de esto,  
+uno **debe temer cometer** cualquier **ofensa** contra un Brahma-vit.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मवित्पापवर्गाणाम् अनन्तानां महीयसाम् ।  
+तद्वेषिसंक्रमं जानन् त्रस्येत्तदपराधतः ॥  
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-ब्रह्मवित्पापवर्गाणाम् अनन्तानां महीयसाम् ।  
-तद्वेषिसंक्रमं जानन् त्रस्येत्तदपराधतः ॥  
-सापराधेषु संसर्गेप्यपराधान् वहत्यसौ ।  
-वोढुमीश्वरकृत्यानि तद्विरोधादभीप्सति ॥
+सापराधेषु **संसर्गे** ऽप्य्  
++++(ब्रह्म-विदः सङ्क्रान्तान्)+++ **अपराधान् वहत्य्** असौ ।  
+**वोढुम्** ईश्वर-**कृत्यानि**  
+तद्-**विरोधाद् अभीप्सति** ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-ब्रह्मवित्पापवर्गाणाम् अनन्तानां महीयसाम् ।  
-तद्वेषिसंक्रमं जानन् त्रस्येत्तदपराधतः ॥  
 सापराधेषु संसर्गेप्यपराधान् वहत्यसौ ।  
 वोढुमीश्वरकृत्यानि तद्विरोधादभीप्सति ॥
 </details>
 
-The countless and serious sins committed by the man who meditates on Brahman (Brahmavit) will be transferred to the man who hates him. Realising this, one should dread committing any offence against a Brahmavit.
 
 
 
-Even by associating with one who has offended against the devotees of Brahman, a man will incur sins. (At the same time) a man should not hate one who offends against the devotees of Iśvara, who alone is competent to punish him.
+
+Even by **associating** with one who **has offended** against the devotees of Brahman,  
+a man **will incur** sins.  
+(At the same time) a man **should not hate** one who **offends** against the **devotees** of Iśvara,  
+who alone **is competent** to **punish** him.
 
 
 
-TAMIL VERSE
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्निनैविल्विलक्किऩ्ऱित् तन्नै नण्णार् निनैवनैत्तुन् दान्विळैत्तुम् विलक्कुनादन्  
 ऎन्निनैवै यिप्पवत्ति लिऩ्ऱु माऱ्ऱि  
 यिणैयडिक्की ऴडैक्कलमॆऩ्ऱॆन्नैवैत्तु  
 मुन्निनैवाल् यान् मुयऩ्ऱ विनैयाल् वन्द मुनिवयर्न्दु मुत्तिदर मुन्ने तोऩ्ऱि  
 नन्निनैवानामिसैयुङ्गालमिऩ्ऱो नाळैयोवॆऩ्ऱु नगै सॆय्गिऩ्ऱाने. ॥ 44 ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन्निनैविल्विलक्किऩ्ऱित् तन्नै नण्णार् निनैवनैत्तुन् दान्विळैत्तुम् विलक्कुनादन्  
+ऎन्निनैवै यिप्पवत्ति लिऩ्ऱु माऱ्ऱि  
+यिणैयडिक्की ऴडैक्कलमॆऩ्ऱॆन्नैवैत्तु  
+मुन्निनैवाल् यान् मुयऩ्ऱ विनैयाल् वन्द मुनिवयर्न्दु मुत्तिदर मुन्ने तोऩ्ऱि  
+नन्निनैवानामिसैयुङ्गालमिऩ्ऱो नाळैयोवॆऩ्ऱु नगै सॆय्गिऩ्ऱाने. ॥ 44 ॥
+
+</details>
+
 
 The Lord, whose will is irresistible and who creates, in the minds of those who do not care for him, all their desires and who also frustrates them -- the Lord has turned my mind today froni saṁsāra or bondage and has placed me beneath His two feet for protection. He has been pleased to forget His wrath caused by my actions in the past prompted by my mind before the performance of prapatti and has appeared already (as avatars and arcā) to grant me mukti. He smiles gently, wondering whether we shall accept His grace today or tomorrow.
 
