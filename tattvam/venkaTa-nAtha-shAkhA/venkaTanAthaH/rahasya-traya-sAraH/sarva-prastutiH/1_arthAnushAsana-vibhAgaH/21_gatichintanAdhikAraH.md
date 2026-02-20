@@ -2350,6 +2350,12 @@ y quién (en adelante) **son** de la misma clase que él.
 
 </details>
 
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+(२०) हिन्दॆ सर्वेश्वरनु नडॆसिद हत्तॊम्भत्तु वाक्य-खण्डगळल्लि उपपादितगळाद महत्ताद उपकारगळन्नॆल्ला सङ्ग्रहिसि हेळुत्तारॆ :- 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि समस्त-प्रतिबन्धक-निवृत्ति-पूर्वकम् आगवुम्,  
@@ -2403,6 +2409,8 @@ para que estos servicios **puedan durar** mientras su alma dure.
 </details>
 
 <details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि** - ई मेलॆ उपपादिसिद रीतियल्लि,
 
 ""
 ""
