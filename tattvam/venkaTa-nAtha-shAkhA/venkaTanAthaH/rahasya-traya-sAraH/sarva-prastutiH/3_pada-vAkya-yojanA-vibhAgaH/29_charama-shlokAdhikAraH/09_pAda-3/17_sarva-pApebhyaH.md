@@ -2664,8 +2664,14 @@ y **no es** que el prapatti **no se haya cumplido**.
 #### अभावे दण्डः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(कर्मणा)+++ सोपाधिकङ्गळ् आऩ भगवद्-अभिप्राय-भेदङ्गळुक्क् ईड्-आग वरुम्  
++++(जीव-कर्मणा)+++ सोपाधिकङ्गळ् आऩ भगवद्-अभिप्राय-भेदङ्गळुक्क् ईड्-आग वरुम्  
 बुद्धि-पूर्वापचारम् सिलर्क्कुप् पिऱवादु, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(जीव-कर्मणा→)+++ सोपाधिक-भगवद्-अभिप्राय-भेदानुगुणं जननार्हा बुद्धि-पूर्वापचाराः  
+केषांचिन् न जायन्ते । 
 </details>
 
 
@@ -2709,6 +2715,12 @@ ya que estos **resultan** de condiciones **creadas** por karma pasado.
 अनुतापादिगळाले कऴियुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+केषांचित् जाता अनुतापादिभिर् नश्यन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the case of some others who **commit** such **offences**,  
@@ -2730,6 +2742,12 @@ En el caso de otras personas que **cometen** tales **delitos**,
 
 कठिन-प्रकृतिगळुक्कु अनुतापमुम् पिऱवादु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कठिन-प्रकृतीनाम् अनुतापो ऽपि नोदियात् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2755,6 +2773,16 @@ Los hombres de corazón duro **pueden no arrepentirse** en absoluto.
 उपक्लेशञ् जॊल्लुगिऱ श्रुत्य्-आदिगळिऩ् कट्टळैयिले  
 लघु-प्रत्यवायत्ताले तीरुम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो बुद्धि-पूर्वोत्तराघे जाते ऽनुतप्तेन  
+पुनः-प्रपत्तेर् अकरणे  
+
+उपक्लेश-प्रतिपादक-श्रुत्य्-आदि-रीत्या  
+लघु-प्रत्यवायेन निस्तारो भवति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2837,6 +2865,15 @@ Los hombres de corazón duro **encuentran** **castigo** por ellos.
 बुद्धि-पूर्वापराधम् परिहरणीयम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं सिद्धे  
+येन केनापि प्रकारेण  
+भगवन्निग्रहस्यानुत्पत्तये  
+बुद्धि-पूर्वोत्तराघं परिहरणीयम् ॥
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore in order that there **may be no punishment** of any kind,  
@@ -2869,6 +2906,15 @@ Uno **debe protegerse** contra **ofensas** deliberadas.
 **निग्रहानुदयो** ऽप्य् अस्य,  
 +++(प्रीणनापेक्षया)+++ नान्तरीयक +++(→अकाङ्क्षित)+++ एव वा ॥ +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रीतिम् एव **समुद्दिश्य**  
+**स्वतन्त्राज्ञाऽनुपालने** ।  
+**निग्रहानुदयो** ऽप्य् अस्य +++(उद्देशः)+++,  
++++(प्रीणनापेक्षया)+++ नान्तरीयक +++(→अकाङ्क्षित)+++ एव वा ॥ +++(4)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2905,6 +2951,14 @@ aunque él **puede** que **no haya pensado** (en **evitar** tal **castigo**).
 इप्-पडि यथा-शक्ति अपराधङ्गळैप् परिहरित्तुक् कॊण्डु पोरा निऩ्ऱाल्  
 भागवतापचारमुम्, अद्-उडैयारोडु संसर्गमुम् पोरप् परिहरणीयम्।  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं यथा-शक्त्य् अपराधान् परिहृत्य व्याप्रियमाणैर्  
+भागवतापचारस्, तद्वद्भिः संसर्गश् च  
+सर्वथा परिहरणीयः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3106,15 +3160,61 @@ un hombre **incurrirá** en pecados.
 </details>
 
 
-
+## पाद-सङ्ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्-निनैविल् विलक्क् इऩ्ऱित् तन्नै नण्णार् निनैवनैत्तुन् तान् विळैत्तुम् विलक्कुनादन्  
-ऎन्निनैवै यिप्पवत्ति लिऩ्ऱु माऱ्ऱि  
-यिणैयडिक्की ऴडैक्कलमॆऩ्ऱॆन्नैवैत्तु  
-मुन्निनैवाल् यान् मुयऩ्ऱ विनैयाल् वन्द मुनिवयर्न्दु मुत्तिदर मुन्ने तोऩ्ऱि  
-नन्निनैवानामिसैयुङ्गालमिऩ्ऱो नाळैयोवॆऩ्ऱु नगै सॆय्गिऩ्ऱाने. ॥ 44 ॥
+तन्-निनैविल् **विलक्क्**+++(=मोघतां)+++ इऩ्ऱित्, 
+
+तन्नै नण्णार्+++(=अनभ्युपेयुषाम्)+++ निनैव् अनैत्तुन्, तान् **विळैत्तुम्**, **विलक्कु**+++(ं = उपेक्षमाणो)+++ नाथन्  
+
+ऎन्-निनैवैय् इब्-भवत्तिल् इऩ्ऱु **माऱ्ऱिय्** इणैय्+++(=युग्म)+++-अडिक्-कीऴ्-अडैक्कलम्+++(=रक्ष्य-वस्तु)+++ ऎऩ्ऱ् ऎन्नै **वैत्तु**  
++++(प्रपत्तेः→)+++ मुन्-निनैवाल् यान् मुयऩ्ऱ+++(=उत्सोढ)+++ विनैयाल् **वन्द** मुनिव्+++(→क्रोधं)+++ **अयर्न्दु**+++(=विस्मृत्य)+++, मुत्ति+++(क्ति)+++ **तर** मुन्ने **तोऩ्ऱि**+++(=दर्शयित्वा)+++,  
+नन्+++(ल्)+++-निनैवा+++(ल्)+++ नाम् **इसैयुङ्** कालम् "इऩ्ऱो नाळैयोव्?" ऎऩ्ऱु **नगै सॆय्गिऩ्ऱाने**. ॥ 44 ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P401]]
+
+अ-प्रतिहत-स्व-सङ्कल्पो भूत्वा  
+स्वम् अनाश्रितानां सङ्कल्पान् सर्वान्  
+स्वयम् उत्पाद्यापि निवारयन् नाथः  
+भवे प्रवृत्तम् अस्मत्-सङ्कल्पम् अस्माद्-भवाद् अद्य परिवर्त्य,  
+द्वयोश् चरणयोर् अधस्ताद् रक्ष्य-वस्तुत्वेनास्मान् निक्षिप्य,  
+अस्माभिर् अभिनिविश्य +++(प्रपत्तेः→)+++प्राक्तन-सङ्कल्पेन कृतात् कर्मणो जातं क्रोधं विस्मृत्य  
+मुक्तिं दातुं पुरत आविर्भूय समीचीन-सङ्कल्पेनास्माभिर् अभ्युपगम्यमानः कालः अद्येति वा श्व इति वेति स्मितं करोति ॥
+</details>
+
+<details><summary>English</summary>
+
+The Lord, whose will **is irresistible**  
+and who **creates**, in the minds of those who **do not care** for him,  
+all their desires and who also **frustrates** them --  
+the Lord **has turned** my mind today from saṁsāra or bondage  
+and **has placed me** beneath His two feet for **protection**.  
+He **has been pleased** to forget His wrath caused by my **actions** in the past  
+**prompted** by my mind before the **performance** of prapatti  
+and **has appeared** already (as avatars and arcā) to **grant me** mukti.  
+He **smiles** gently,  
+**wondering** whether **we shall accept** His grace today or tomorrow.
+
+</details>
+
+<details><summary>Español</summary>
+
+El Señor, cuya voluntad **es irresistible**  
+y quien **crea**, en la mente de aquellos que **no se preocupan** por él,  
+todos sus deseos y quien también los **frustra**--  
+El Señor **ha apartado** mi mente hoy del saṁsāra o **esclavitud**  
+y **me ha colocado** debajo de Sus dos pies para **protección**.  
+Él **se ha complacido** en **olvidar** Su ira **causada** por mis **acciones** en el pasado  
+**impulsado** por mi mente  
+antes de la **actuación** de prapatti  
+y **ya ha aparecido** (como avatares y arcā) para **concederme** mukti.  
+Él **sonríe** suavemente,  
+**preguntándome** si **aceptaremos** Su gracia hoy o mañana.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3127,5 +3227,17 @@ un hombre **incurrirá** en pecados.
 </details>
 
 
-The Lord, whose will is irresistible and who creates, in the minds of those who do not care for him, all their desires and who also frustrates them -- the Lord has turned my mind today froni saṁsāra or bondage and has placed me beneath His two feet for protection. He has been pleased to forget His wrath caused by my actions in the past prompted by my mind before the performance of prapatti and has appeared already (as avatars and arcā) to grant me mukti. He smiles gently, wondering whether we shall accept His grace today or tomorrow.
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नालाम् पादत्तिल् मोक्षयिष्यामि ऎऩ्ऱु लृट्प्रयोगम् पण्णिऩदऱ्कु भावत्तै ऒरु पाट्टाले सङ्ग्रहित्तुक् काट्टुगिऱार् तऩ्ऩिऩैविलित्यादियाल्। तऩ्ऩिऩैविल् - तऩ्ऩुडैय सङ्गल्बत्तिल्, विलक्किऩ्ऱि - तडङ्गलऩ्ऱिक्के, अप्रतिहतसङ्कल्पऩा यॆऩ्ऱबडि। तऩ्ऩै नण्णार् - तऩ्ऩैक् किट्टादवर्गळुडैय, निऩै वऩैत्तुम् - सांसारिकभोगविषयमाऩ सङ्गल्बङ्गळैयॆल्लाम्, ताऩ् विळैत्तुम् - ताऩे उण्डुबण्णियुम्, विलक्कु नादऩ् - विलक्कुमवऩाऩ स्वामी, इप्पवत्तिल् - इन्द संसारत्तिल्, ऎऩ्ऩिऩैवै – ऎऩ्ऩुडैय सङ्गल्बत्तै, संसारविषयमाऩ ऎऩ्ऩुडैय आसैयै ऎऩ्ऱबडि। इऩ्ऱु - इप्पॊऴुदु, यादृच्छिकसुकृतादिमूलमाग उपायेच्छै पिऱन्द इप्पॊऴुदु ऎऩ्ऱबडि। माऱ्ऱि - पोक्कडित्तु, इणै - सेर्न्ददाऩ, अडि - तिरुवडिगळुडैय कीऴ् - अधः प्रदेशत्तिले, अडैक्कलमॆऩ्ऱु - रक्ष्यवस्तुवॆऩ्ऱु, ऎऩ्ऩै वैत्तु - रक्ष्यतया निवेशिप्पित्तु ऎऩ्ऱबडि। 
+
+मुऩ्ऩिऩैवाल् - मुऩ्बु ऎऩक्कुण्डायिरुन्द अज्ञान-भ्रान्त्यादिगळाले, याऩ् मुयऩ्ऱ - नाऩ् मुयऱ्सियोडु सॆय्द, विऩैयाल् - पाबत्ताल्, वन्द - उण्डाऩ, मुऩिवु - निग्रहसङ्कल्पत्तै, अयर्न्दु - तविर्न्दु, विट्टु विट्टु ऎऩ्ऱबडि। मुत्ति तर - मोक्षत्तैक् कॊडुप्पदऱ्काग, मुऩ्ऩे तोऩ्ऱि - विभवादिरूपत्तोडु ऎऩक्कु ऎदिरे वन्दु निऩ्ऱु। नऩ्ऩिऩैवाल् - नल्ल ऎण्णत्तोडु, नामिसैयुम् कालम् - नाम् मोक्षत्तै विरुम्बुम् कालम्, इऩ्ऱो - इऩ्ऱैय तिऩमो, नाळैयो - नाळैय तिऩमो, इदु देहावसानादिगळिलेयो ऎऩ्बदऱ्कुम् उबलक्षणम्। ऎऩ्ऱु नगैसॆय्गिऩ्ऱाऩे - मन्दहासम् सॆय्दु निऱ्किऩ्ऱाऩे। 
+
+इवऩ् सॆय्द कुऱ्ऱङ्गळैयॆल्लाम् पॊऱुत्तु इवऩुक्कु मोक्षम् कॊडुप्पदाग नाम् सिद्धमाग वन्दु विट्टोम्। 
+इवऩ् नल्ल ऎण्णत्तोडु इन्द मोक्षत्तै अभ्युपगमम् पण्णुम् कालम् इऩ्ऱैय तिऩमो, नाळैय तिऩमो अल्लदु देहावसानत्तिलो ऎऩ्ऱु मन्दहासंसॆय्गिऱाऩ् ऎऩ्ऱबडि। 
+
+इदु मोचयामि ऎऩ्ऱु सॊल्लामल्  
+मोक्षयिष्यामि ऎऩ्ऱु लृट्प्रयोगत् ताले उत्प्रेक्षिक्कप्पडुगिऱदु,  
+
+</details>
 
