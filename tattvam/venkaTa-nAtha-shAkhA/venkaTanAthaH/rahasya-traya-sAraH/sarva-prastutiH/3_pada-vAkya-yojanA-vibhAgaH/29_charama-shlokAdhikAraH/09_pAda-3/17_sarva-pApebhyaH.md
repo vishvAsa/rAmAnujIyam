@@ -1028,6 +1028,11 @@ que **ha comenzado** a dar frutos (prārabdha).
 पिऩ्ब् उळ्ळ्-अवऱ्ऱै ‘‘करिष्यमाणान्’’ ऎऩ्ऱु सॊल्ला निऩ्ऱदु +++(शरणागति-गद्ये)+++।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र प्रपत्तिकालात् प्राक्तनान् "कृतान्" इत्य् उपादाय,  
+पाश्चात्याः "करिष्यमाणान्" इत्य्-उक्ताः । 
+</details>
 
 
 <details><summary>English</summary>
@@ -1075,6 +1080,16 @@ y los (pecados) futuros **se refieren** a aquellos que **podrían cometerse** de
 ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P398]]  
+
+> प्रपत्तिकाले क्रियमाणानां क्षन्तव्यत्वोक्तिः कथम् 
+
+इति चेत् — 
+</details>
+
+
 <details><summary>English</summary>
 
 > We **do not see** any sins **committed** at the instant of **performing** prapatti.  
@@ -1104,6 +1119,8 @@ What, then, **is** the meaning of present (kriyamāṇa) sins?
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘प्रारब्धो ऽपरिसमाप्तश् च वर्तमानः’’() 
+
+इति प्रक्रियया 
 </details>
 
 <details><summary>English</summary>
@@ -1146,6 +1163,16 @@ Según esta **definición**,
 
 इङ्गु "क्रियमाणङ्गळ्" ऎऩ्गिऱदु।
 </details>
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपत्तेः प्राग् आरभ्य  
+पश्चाद् एव समापनीयतया  
+चिर-काल-साध्यतया स्थिताः,  
+तत्-क्षणे प्रामादिकाश् चात्र  
+"क्रियमाणान्" इत्य् उच्यन्ते ।
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -1188,6 +1215,13 @@ estos **son llamados** presentes (pecados).
 पिऩ्बु तुडङ्गुम् अवै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+करिष्यमाणा नाम -  
+पश्चात् प्रारप्स्यमानाः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Future (sins) **are** those that **may begin** after prapatti. 
@@ -1218,6 +1252,8 @@ Los (pecados) futuros **son** aquellos que **pueden comenzar** después de prapa
 ईश्वरऩ् क्षमिक्क,  
 श्लेषियादे बोम्। 
 </details>
+
+
 
 <details><summary>English</summary>
 
