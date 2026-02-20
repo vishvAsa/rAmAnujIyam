@@ -1253,6 +1253,13 @@ Los (pecados) futuros **son** aquellos que **pueden comenzar** después de prapa
 श्लेषियादे बोम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं क्रियमाणैकदेशेषु करिष्यमाणेषु च  
+(बुद्धि-पूर्वकेभ्यो भिन्नान्  
+ईश्वरे क्षममाणे  
+श्लेषं विना ऽपगच्छन्ति।)  
+</details>
 
 
 <details><summary>English</summary>
@@ -1296,6 +1303,18 @@ y **no dejará** ningún rastro (en uno mismo).
 ऎऩ्गैयाले  
 पुनः-प्रपत्तियाले शमिक्कुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बुद्धि-पूर्वकाः प्रपन्नस्य 
+
+> ‘‘प्रायश्-चित्तिर् इयं सात्र  
+यत् पुनश् शरणं श्रयेत्’’  
+(लक्ष्मीतन्त्रम् १७-९२) 
+
+इत्य्-उक्तेः पुनः प्रपत्त्या शाम्यन्ति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1344,6 +1363,21 @@ y la **expiación a hacer es** sólo la **realización** de prapatti nuevamente.
 
 ऎऩ्ऱ बडिय् अऩ्ऱु; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "सर्वेश्वरेण मोक्ष-प्रदान-सङ्कल्पे कृते  
+पातकान्य् अपि निवारकाणि न भवन्ति" 
+
+इति वार्ताऽपि  
+
+> बुद्धिपूर्वोत्तराघे जाते ऽपि  
+निग्रहो नोदेति,  
+प्रायश्चित्तं नापेक्षितम् 
+
+इत्य्-एवं-परा न ; 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1394,6 +1428,15 @@ lo que **se quiere decir no es** que **no hay necesidad** de **expiación** o pr
 ऎऩ्ऱ बडि। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> किं तु प्रसादनेन तस्मिन् प्रसन्ने संपन्ने  
+मोक्षो ऽवश्यम्-भावी
+
+इत्य्-एवम्-परा । 
+</details>
+
+
 <details><summary>English</summary>
 
 but that if Iśvara **is** again **propitiated** by prapatti, (which **is** the prāyaścitta),  
@@ -1418,6 +1461,15 @@ mokṣa **está** seguro de **seguir**.
 इदुक्क् इप्-पडि ईश्वरऩ् पुनः-प्रपत्तिय् आगिऱ प्रायश्चित्तत्तिले मूट्टुगिऱदुवुम्  
 क्षमा-फलम्, 
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-अर्थम्  
+एवम् ईश्वरेण पुनः प्रपत्ति-रूपे प्रायश्चित्ते प्रवर्तनम् अपि  
+क्षमा-फलम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1450,10 +1502,27 @@ que el hombre **es inducido** a **realizar la expiación** mediante un prapatti 
 प्रपन्नऩ्-उडैय दोषम् 
 
 ऎऩ्गिऱ वार्तैयुम्  
-दुष्टरुम् शरणागतर् आऩाल्  
+
+> दुष्टरुम् शरणागतर् आऩाल्  
 ईश्वरऩ् कै-विडादे तिरुत्तुम्  
+
 ऎऩ्ऱ बडि।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "प्रियतमा-देह-मालिन्यवत्  
+[प्रसव-समय-लग्न]- वत्स-देह-मालिन्यवच् च  
+प्रपन्नस्य दोषः" 
+
+इति वार्तापि,  
+
+> दुष्टानाम् अपि शरणागतत्वे  
+ईश्वरस् तान् परित्यज्य न शोषयेद्  
+
+इत्य्-एवम्-परा । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1502,6 +1571,17 @@ y **los llevará** a caminos rectos.
 प्रपन्नऩुक्क् इदुवे यथा-शक्ति संपाद्यम् आम्। +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा,  
+
+> बुद्धि-पूर्वोत्तराघम् अपि ईश्वरस्य भोग्यम् 
+
+इति विवक्षितत्वे,  
+प्रपन्नेनेदम् एव यथा-शक्ति संपाद्यं स्यात् । 
+</details>
+
+
 <details><summary>English</summary>
 
 It **does not mean** that sins **committed** deliberately  
@@ -1542,6 +1622,14 @@ Si **es** así, el prapanna **debería**, por todos los medios a su alcance, **c
 अपराधङ्गळ् बुद्धि-पूर्वकम् आग वन्दालुम्  
 पुनः-प्रपत्ति पण्णादार् बक्कलिलुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रकृति-विशेष-स्वभावाद्  
+अपराधेषु बुद्धि-पूर्वं जातेष्व् अपि  
+पुनः-प्रपदनम् अकुर्वतां विषये ऽपि,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1610,8 +1698,17 @@ y quienes **realizan** prapatti para Él
 > ‘‘यस्मिन् कस्मिन् कुले **जाता**  
 यत्र-कुत्र **निवासिनः** ।  
 वासु-देव-रता नित्यं  
-यम-लोकन् **न यान्ति** त’’() 
+यम-लोकन् **न यान्ति** ते’’() 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यस्मिन् कस्मिन् कुले **जाता**  
+यत्र-कुत्र **निवासिनः** ।  
+वासु-देव-रता नित्यं  
+यम-लोकन् **न यान्ति** ते’’() 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1645,6 +1742,14 @@ aquellos que siempre **están apegados** a Vāsudeva
 नरकादिगळ् वाराद बडि पण्णि 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P399]]
+इत्य्-आद्य्-उक्त-रीत्या  
+नरकादि-प्रसङ्गं निराकृत्य 
+</details>
+
+
 <details><summary>English</summary>
 
 So when it **is said** that  
@@ -1677,6 +1782,13 @@ tales prapannas **no vayan** al infierno
 क्षमा-विशेषम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+राज-पुत्राद्य्-अपराध इव  
+लघु-प्रत्यवायेन निर्वीर्यत्वापादनम् अपि क्षमाविशेषः । 
+</details>
+
+
 <details><summary>English</summary>
 
 and 
@@ -1707,6 +1819,12 @@ como (lo **hacen** los reyes) en el caso de sus hijos transgresores
 पापङ्गळुक्कु दृष्ट-प्रत्यवायङ्गळुम्  
 नरकादि-प्रत्यवायङ्गळुम् उण्ड् आय् इरुक्क 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पापानां दृष्ट-प्रत्यवायेषु, नरकादि-प्रत्यवायेषु च सत्सु  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1753,6 +1871,16 @@ y también a **sufrimientos** como los del infierno.
 दृष्ट-प्रत्यवायङ्गळुक्कु बाधकर् इल्लै।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"नरकादयो ऽस्य न भवन्ती"ति  
+विशेष-वचनैः प्रतिपादितत्वे  
+
+दृष्ट-प्रत्यवायानां बाधका  
+न सन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 when such statements **are made** to the effect that  
@@ -1783,6 +1911,12 @@ en esta vida misma
 
 वचन-विरोधत्तिल् न्यायम् प्रवर्तियादु। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वचनविरोधे न्यायो न प्रवर्तेत । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1821,6 +1955,16 @@ La lógica **no puede repudiar declaraciones** explícitas (**hechas** en el śr
 
 ऎऩ्गै मन्द-चोद्यम्; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सापराधानाम् अनुताप-शून्यतया  
+पुनः-प्रपत्तिम् अकृतवतां सतां केषांचित् प्रपन्नानाम्  
+उपक्लेशत्वेनोक्तान् काणत्वादि-दृष्ट-प्रत्यवायान् न पश्यामः स्म किल
+
+इत्य् अपि मन्द-चोद्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1862,6 +2006,13 @@ que **se declaran** como sus **castigos**.
 नाना-प्रकार-ताप-त्रयानुभवम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तेषाम् अप्य् अपराधादि-तारतम्यानुसारेण  
+नाना-प्रकार-ताप-त्रयानुभवः, 
+</details>
+
+
 <details><summary>English</summary>
 
 Even in their lives,  
@@ -1894,6 +2045,11 @@ muchas variedades de **sufrimiento** debido a las tres causas bien **conocidas**
 उपयुक्त-ज्ञान-मान्द्यम्,  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उपयुक्त-ज्ञान-मान्द्यम्,  
+</details>
+
 <details><summary>English</summary>
 
 dullness of the intelligence **required** for the Lord's service, 
@@ -1921,6 +2077,12 @@ embotamiento de la inteligencia **requerida** para el **servicio** del Señor,
 इङ्ग्-उळ्ळ भगवद्-अनुभव-रस सङ्कोच-विच्छेदङ्गळ्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इहत्य-भगवद्-अनुभव-सङ्कोच-विच्छेदौ, 
+</details>
+
+
 <details><summary>English</summary>
 
 the **diminution** of delight  
@@ -1946,6 +2108,13 @@ en el **disfrute** de Bhagavān,
 भगवद्-भागवत-कैङ्कर्य-रस-विच्छेदम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+
+भगवद्-भागवत-कैङ्कर्य-रस-विच्छेदः, 
+</details>
+
+
 <details><summary>English</summary>
 
 the **absence** of delight in **rendering service** to Bhagavān and His devotees, 
@@ -1966,6 +2135,11 @@ la **ausencia** de deleite en **prestar servicio** a Bhagavān y Sus devotos,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवद्-अपचार--भागवतापचारादिगळ्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवद्-अपचार--भागवतापचारादयः, 
 </details>
 
 <details><summary>English</summary>
@@ -2008,6 +2182,12 @@ la **ausencia** de deleite en **prestar servicio** a Bhagavān y Sus devotos,
 शिष्ट-गर्हा--बहिष्-कारादिगळ्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+शिष्ट-गर्हा--बहिष्-कारादयः,
+</details>
+
+
 <details><summary>English</summary>
 
 the **censure**, the **boycott** and the like by the virtuous, 
@@ -2029,6 +2209,12 @@ la **censura**, el **boicot** y cosas similares por parte de los virtuosos,
 सुकृत-विशेष-नाशम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सुकृत-विशेष-नाशः, 
+</details>
+
+
 <details><summary>English</summary>
 
 the **destruction** of their good deeds, 
@@ -2049,6 +2235,12 @@ la **destrucción** de sus buenas obras,
 सात्त्विकानादरम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सात्त्विकानादरः, 
+</details>
+
+
 <details><summary>English</summary>
 
 the **loss** of the esteem in which they were formerly held by good men, 
@@ -2068,6 +2260,11 @@ que antes **tenían** los hombres buenos,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनो-रथ-भङ्ग-क्लेशम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मनो-रथ-भङ्ग-क्लेशः
 </details>
 
 <details><summary>English</summary>
@@ -2092,6 +2289,13 @@ el **sufrimiento hecho** en la **frustración** de sus ambiciones y deseos,
 एद् एऩुम् ऒरु उपक्लेश-रूपम् आऩ प्रत्यवायङ् काणालाम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य् एतेषु प्रकारेषु  
+यः कश्चिद् उपक्लेशरूपः प्रत्यवायः सुदर्शः । 
+</details>
+
+
 <details><summary>English</summary>
 
 and such other  forms of sorrow (may be seen). 
@@ -2114,6 +2318,14 @@ y otras formas de tristeza (**pueden verse**).
 इप्-पडि नाना-विध-दृष्ट-प्रत्यवाय-करत्वमुम्  
 श्रुतिगळिलुम्, मन्व्-आदि-धर्म-शास्त्रङ्गळिलुम्, इतिहास-पुराण--भगवच्-छास्त्रादिगळिलुम् प्रसिद्धम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-कृत्य-करण-- कृत्याकरणादि-रूपाणां नाना-विध-पापानाम्  
+इत्थं नाना-विध-दृष्ट-प्रत्यवाय-करत्वम् अपि  
+श्रुतिषु, मन्व्-आदि-धर्म-शास्त्रेषु, इतिहास-पुराण-भगवच्-छास्त्रादिषु च प्रसिद्धम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2151,8 +2363,19 @@ por variados tipos de pecados de **omisión** y **comisión**,
 > काणत्वाद्य्-उपक्लेश-विशेषोदाहरणम् उपलक्षणम् 
 
 ऎऩ्ऩुम् इडम्  
-वाक्योपक्रमत्तिल् समुदाय-निर्देशादिगळाले सिद्धम्। 
++++("इहैवैषां केचिद् उपक्लेशा भवन्ति"→)+++ वाक्योपक्रमत्तिल् समुदाय-निर्देशादिगळाले सिद्धम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः 
+
+> काणत्वाद्य्-उपक्लेश-विशेषोदाहरणम् उपलक्षणम् 
+
+इत्य् एतत्  
++++("इहैवैषां केचिद् उपक्लेशा भवन्ति"→)+++ वाक्योपक्रमे समुदाय-निर्देशादिभिः सिद्धम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2198,6 +2421,13 @@ que hablan de **sufrimientos** en el mundo en general.
 "प्रारब्ध-कर्म-विशेष-फलम्" ऎऩ्ऱु निष्कर्षिक्क विरग् इल्लै।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+वचन-बल-सिद्धो बुद्धि-पूर्वोत्तराघ-फल-भूत उपक्लेश-वर्गः  
+"प्रारब्ध-कर्म-विशेष-फलम्" इति निष्कर्षणे हेतुर् नास्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 It **is not possible** to **argue**, with any **certainty**,  
@@ -2239,6 +2469,12 @@ que **ha comenzado** a dar sus frutos.
 इवै यथा-संभवम् उभय-विध-कर्मत्तालुम् वरुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एते यथा-संभवम् उभय-विध-कर्मणाऽपि जायेरन् । 
+</details>
+
+
 <details><summary>English</summary>
 
 These **may come** as the result of either of the two kinds of karma . 
@@ -2272,6 +2508,14 @@ Estos **pueden venir** como **resultado** de cualquiera de los dos tipos de karm
 बुद्धि-पूर्वोत्तराघत्तुक्कु सात्त्विकर् अञ्जिप् पोरुगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P400]]  
+अत एव किल  
+बुद्धिपूर्वोत्तराघात् सात्त्विका बिभ्यति । 
+</details>
+
+
 <details><summary>English</summary>
 
 That **is** why good men (sātvikas) **dread offences** that **might be committed** deliberately. 
@@ -2301,6 +2545,13 @@ Por eso los hombres buenos (sātvikas) **temen las ofensas** que **podrían come
 पूर्व-संप्रदायमुम्  
 विरोधिक्कुम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा, पुनः-प्रपत्ति-विधायकं शास्त्रं,  
+तद्-अनुसारि-शिष्टानुष्ठानं, पूर्व-संप्रदायश् च विरुध्येरन् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2344,6 +2595,16 @@ y a la antigua tradición.
 ऎऩ्ऱु नञ्जीयर्-वार्त्तैक्कुम्  
 अनुतापम् पिऱवादार्-उडैय ज्ञान-मान्द्यत्तिले तात्पर्यम् +++(न तु प्रपत्त्य्-अभावे)+++।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अपचारा(पराधा)नन्तरम् अनुतापानुदये  
+ज्ञानं नोत्पन्नम् इति सिद्ध्यतीति  
+
+(वेदान्ति-मुनि)(नञ्जीयर)-वार्ताया अपि  
+अनुदितानुतापानां ज्ञान-मान्द्ये तात्पर्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2406,6 +2667,8 @@ y **no es** que el prapatti **no se haya cumplido**.
 +++(कर्मणा)+++ सोपाधिकङ्गळ् आऩ भगवद्-अभिप्राय-भेदङ्गळुक्क् ईड्-आग वरुम्  
 बुद्धि-पूर्वापचारम् सिलर्क्कुप् पिऱवादु, 
 </details>
+
+
 
 <details><summary>English</summary>
 
