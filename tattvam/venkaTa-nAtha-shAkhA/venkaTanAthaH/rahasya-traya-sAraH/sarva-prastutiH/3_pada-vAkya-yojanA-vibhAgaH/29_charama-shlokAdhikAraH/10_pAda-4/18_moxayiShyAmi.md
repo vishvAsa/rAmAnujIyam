@@ -11,19 +11,365 @@ THE MEANING OF THE WORD MOKṢAYIṢYĀMI (I WILL SET THEE FREE)   page595
 EL SIGNIFICADO DE LA PALABRA MOKṢAYIṢYĀMI (TE HARÉ LIBRE) página 595
 </details>
 
+## इष्ट-कालः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘मोक्षयिष्यामि’’ ऎऩ्ऱदु  
+
+> उऩक्क् इष्टम् आऩ बोदु  
+मुक्तऩ् आक्कुवऩ् 
+
+ऎऩ्ऱ बडि। 
+</details>
+
+<details><summary>English</summary>
+
+The word mokṣayishyami ('I will set thee free from all sins') means 
+
+> "I will grant thee release (from the bondage of saṁsāra)  
+at the time when you **want** it".
+</details>
+
+<details><summary>Español</summary>
+
+La palabra mokṣayishyami ('te liberaré de todos los pecados') **significa** 
+
+> "**Te concederé** la **liberación** (de la **esclavitud** del saṁsāra)  
+en el momento que lo **quieras**".
+</details>
 
 
-The word mokṣayishyami 'I will set thee free from all sins means "I will grant thee release (from the bondage of saṁsāra) at the time when you want it".
+<details><summary>मूलम्</summary>
+
+‘‘मोक्षयिष्यामि’’ ऎऩ्ऱदु उऩक्किष्टमाऩबोदु मुक्तऩाक्कुवऩ् ऎऩ्ऱबडि। 
+</details>
+
+
+## न शुष्क-सान्त्वनम्, उपायापेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सिल पाबङ्गळै ‘‘न क्षमामि’’ ऎऩ्गैयुम्  
+इङ्गे ‘‘सर्व-पापेभ्यो मोक्षयिष्यामि’’ ऎऩ्गैयुम् विरुद्धम् अऩ्ऱो;  
+आगैयाल् इदुव् उपच्छन्दनम् आम् अत्तऩैय् अऩ्ऱोव्?- 
+
+ऎऩ्ऩिल्;
+</details>
+
+<details><summary>English</summary>
+
+It **may be asked** :--
+
+> "(In another context) the Lord says, “I will never pardon".  
+**Is it not opposed** to what **is stated** here viz.  
+"I will set thee free from all sins?";  
+therefore this **should be** merely to **give** a little seeming comfort in words  
+and is not to be **taken** literally." 
+
+The **answer** to this question **is** as **follows**:--
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede preguntar** :--
+
+> “(En otro contexto) el Señor **dice**: “Nunca **perdonaré**”.  
+**¿No se opone** a lo que **se afirma** aquí, a saber  
+"Te **liberaré** de todos los pecados?";  
+>
+> por lo tanto, esto **debería ser** simplemente para **dar** un poco de aparente consuelo en palabras  
+y **no debe ser tomado** literalmente." 
+
+La **respuesta** a esta pregunta **es** la **siguiente**:--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिल पाबङ्गळै ‘‘न क्षमामि’’ ऎऩ्गैयुमिङ्गे ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्गैयुम् विरुद्धमऩ्ऱो; आगैयालिदु वुपच्छन्दनमामत्तऩैयऩ्ऱो वॆऩ्ऩिल्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् इरण्डुम् भिन्न-विषयम् आगैयाले  
+विरोधम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+There **is no conflict** between these two statements  
+for they **apply** to different cases. 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** ningún **conflicto** entre estas dos **declaraciones**  
+porque **se aplican** a diferentes casos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवैयिरण्डुम् भिन्नविषयमागैयाले विरोधमिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘न क्षमामि’’ ऎऩ्ऱदु 
+
+> ‘‘पद्म-पत्र-शतेनापि  
+न क्षमामि वसुन्धरे,  
+उपचार-शतेनापि  
+न क्षमामि वसुन्धरे’’  
+(वराहपुराणम्) 
+
+ऎऩ्ऱाऱ्पोले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+‘‘न क्षमामि’’ 
+
+
+> ‘‘पद्म-पत्र-शतेनापि  
+न क्षमामि वसुन्धरे,  
+उपचार-शतेनापि  
+न क्षमामि वसुन्धरे’’  
+(वराहपुराणम्) 
+
+सॊल्लुगिऱ पोलिय्+++(=अनुकृतिमात्रम्)+++ आऩ प्रायश्चित्तान्तरङ्गळाल् क्षमियेऩ् ऎऩ्ऱबडि।
+</details>
+
+<details><summary>English</summary>
+
+"**I will not forgive**" occurs in the śloka : 
+
+> “Though a man **adores** me with a hundred lotuses, O Goddess of the earth,  
+whichever  devotee of Viṣṇu **touches** blood even unawares  
+**I will not pardon** him.  
+I **will never pardon** his **offence**, O Goddess of the Earth,  
+even if he **tries to show** me a hundred marks of reverent **attention** (upacāra)". 
+
+It only means  
+
+> "**I will not forgive** the man  
+for such trivial forms of **expiation**  
+(as the **offering** of lotuses and external marks of attention). 
+</details>
+
+<details><summary>Español</summary>
+
+"**No perdonaré**" **aparece** en el śloka: 
+
+> “Aunque un hombre me **adora** con cien lotos, oh Diosa de la tierra,  
+cualquier devoto de Viṣṇu **toca** la sangre incluso **sin darse cuenta**  
+**No lo perdonaré**.  
+Yo **nunca perdonaré** su **ofensa**, oh Diosa de la Tierra,  
+incluso si **trata de mostrarme** cien marcas de reverente **atención** (upacāra)".
+
+Solo significa  
+
+> "**No perdonaré** al hombre  
+por formas tan triviales de **expiación**  
+(como la **ofrenda** de lotos y marcas externas de atención).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न क्षमामि’’ ऎऩ्ऱदु ‘‘पद्मपत्रशतेनापि न क्षमामि वसुन्धरे, उपचारशतेनापि न क्षमामि वसुन्धरे’’(वराहपुराणम्) ऎऩ्ऱाऱ्पोले सॊल्लुगिऱ बोलियाऩ प्रायश्चित्तान्तरङ्गळाल् क्षमियेऩ् ऎऩ्ऱबडि।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु सर्व-पाप-प्रायश्चित्तम् आगय् इरुप्पद् ऒरु उपाय-विशेषत्तालेय्  
+ऎल्लात्तैयुम् क्षमिप्पेऩ् ऎऩ्गिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Here in the Carama-śloka, the word mokṣayiṣyami **means**  
+
+> “**I will forgive** all (**offences)**  
+if the man **adopts** the particular upāya  
+which **is** an **atonement** for all **sins**.” 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí en el Carama-śloka, la palabra mokṣayiṣyami **significa**  
+
+> “**Perdonaré** todas (**ofensas)**  
+si el hombre **adopta** el upāya particular  
+que **es** una **expiación** por todos los **pecados**”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सर्वपापप्रायश्चित्तमाग यिरुप्पदॊरु उपायविशेषत्ताले यॆल्लात्तैयुम् क्षमिप्पेऩॆऩ्गिऱदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यदि वा रावणः स्वयं’’  
+(रामायणम् युद्ध-काण्डम् १८-३४) 
+
+ऎऩ्ऱ् इऱे शरण्याभिप्रायम् इरुप्पदु। 
+</details>
+
+<details><summary>English</summary>
+
+The **intention** of the Saviour **is expressed** indeed in the śloka :---
+
+> "Be it Vibhīṣaṇa or Rāvaṇa himself,  
+**bring him** here, O Sugrīva.  
+**I will grant** him **pardon**." 
+</details>
+
+<details><summary>Español</summary>
+
+La **intención** del Salvador **se expresa** de hecho en el śloka :---
+
+> "Ya **sea** Vibhīṣaṇa o el mismo Rāvaṇa,  
+**tráelo** aquí, oh Sugrīva.  
+Le **concederé** el **perdón**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यदि वा रावणः स्वयं’’(रामायणम् युद्ध-काण्डम् १८-३४) ऎऩ्ऱिऱे शरण्याभिप्रायमिरुप्पदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि व्यवस्थित-विषयम् आग  
+वचनङ्गळ् ताऩे काट्टुगैयाले  
+विरोधम् इल्लामैयाल्  
+इदु उपच्छन्दन-मात्रम् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+These words **are not seeming-pleasant**,  
+for there **is no conflict** between what is **stated** (in Varāhapurāṇam)  
+and what **is stated** in the Gita,  
+as they **apply** to different situations. 
+</details>
+
+<details><summary>Español</summary>
+
+Estas palabras **no superficialmente agradable**,  
+porque **no hay ningún conflicto** entre lo que **se dice** (en Varāhapurāṇam)  
+y lo que **se dice** en el Gita,  
+ya que **se aplican** a diferentes situaciones.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि व्यवस्थितविषयमाग वचनङ्गळ् ताऩे काट्टुगैयाले विरोधमिल्लामैयालिदु उपच्छन्दनमात्रमऩ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु  
+भक्ति-प्रपत्ति-रूप-मोक्षोपायङ्गळै विधिक्किऱ शास्त्रङ्गळ् ऎल्लाम्  
+अत्यन्त-व्याकुलङ्गळ् आम्।
+</details>
+
+<details><summary>English</summary>
+
+If they **are** to be **taken** as only seeming-pleasant,  
+all the texts in the Śāstras which **enjoin** bhakti  and prapatti  
+**would be** void of authority.
+</details>
+
+<details><summary>Español</summary>
+
+Si **deben** ser **tomado** como sólo aparentemente agradable,  
+todos los textos de los Śāstras que **ordenan** bhakti y prapatti  
+**estaría** desprovisto de autoridad.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु भक्तिप्रपत्तिरूपमोक्षोपायङ्गळै विधिक्किऱ शास्त्रङ्गळॆल्लाम् अत्यन्तव्याकुलङ्गळाम्।
+</details>
+
+
+## निग्रह-सङ्कल्प-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु "पापङ्गळि+++(ल्)+++-ऩिऩ्ऱुम् विडुविक्कैय्" आवदु;  
+अनादिय् आऩ विपरीतानुष्ठानत्ताले पिऱन्द निग्रहाभिप्रायत्तै ईश्वरऩ् दाऩ् विडुगै।
+</details>
+
+<details><summary>English</summary>
+
+Here “**Releasing** from sins" **means**  
+Iśvara **giving up** His intention to **punish** the sinner  
+for **having violated** His commands from beginningless time. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí “**Liberar** de los pecados" **significa**  
+Iśvara **renuncia** a su intención de **castigar** al **pecador**  
+por **haber violado** Sus mandamientos desde el tiempo sin principio.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु पापङ्गळिऩिऩ्ऱुम् विडुविक्कैयावदु; अनादियाऩ विपरीतानुष्ठानत्ताले पिऱन्द निग्रहाभिप्रायत्तै ईश्वरऩ्दाऩ् विडुगै।
+</details>
 
 
 
-It may be asked :--"(ln another context) the. Lord says, “I will never pardon". Is it not opposed to what is stated here viz. "I will set thee free from all sins?"; therefore this should be merely to give a little seeming comfort in words and is not to be taken literally." The answer to this question is as follows:--
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-• There is no conflict between these two statements for they apply to different cases. "I will not forgive" occurs in the śloka : “Though a man adores me with a hundred lotuses, O Goddess of the earth, whichever  devotee of Viṣṇu touches blood even unawares I will not pardon him. I will never pardon his offence, O Goddess of the Earth, even if he tries to show me a hundred marks of reverent attention (upacāra)". It only means  "I will not forgive the man for such trivial forms of expiation (as the offering of lotuses and external marks of attention). Here in the Caramaśloka, the word mokṣayiṣyami (means “I will forgive all (offences) if the man adopts the particular upāya which is an atonement for all sins.” The intention of the Saviour is expressed indeed in the śloka :---"Be it Vibhīṣaṇa or Rāvaṇa himself, bring him here, O Sugrīva. I will grant him pardon." These words are not seeming-pleasant, for there is no conflict between what is stated (in Varāhapurāṇam) and what is stated in the Gita, as they apply to different situations. If they are to be taken as only seeming-pleasant, all the texts in the Śāstras which enjoin bhakti  and prapatti would be void of authority,
+इन् निग्रह-निवृत्तियाले  
+निग्रह-कार्यङ्गळ् आऩ अविद्यादिगळ् ऎल्लाम् निवृत्तङ्गळ् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+By this **turning** away (of Iśvara) from the **thought** of **punishment**,  
+the effects of His **punishment**, such as avidyā or ignorance, would all **cease** to exist. 
+</details>
+
+<details><summary>Español</summary>
+
+Al **alejarse** (de Iśvara) del **pensamiento** de **castigo**,  
+todos los efectos de Su **castigo**, como avidyā o ignorancia, **dejarían** de **existir**.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Here “Releasing from sins " means Iśvara giving up His intention to punish the sinner for having violated His commands from beginningless time. By this turning away (of Iśvara) from the thought of punishment, the effects of His punishment, such as avidyā or ignorance, would all cease to exist. Iśvara's turning away from the thought of punishment means His will which takes the form: “By my grace will the man who performs all his duties as for me and as being done by me attain the world that is eternal". The cessation of such things as avidyā in the jīva means the expansion of intelligence, knowledge, wisdom and such others.
+इन् निग्रहनिवृत्तियाले निग्रहकार्यङ्गळाऩ अविद्यादिगळॆल्लाम् निवृत्तङ्गळाम्। 
+</details>
+
+
+### मत्-प्रसादात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩ्-उडैय निग्रह-निवृत्तिय् आवदु,  
+‘‘मत्-प्रसादात्’’ ऎऩ्गिऱ अभिप्राय-विशेषम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩुडैय निग्रहनिवृत्तियावदु, ‘‘मत्प्रसादात्’’ ऎऩ्गिऱ अभिप्रायविशेषम्। 
+</details>
+
+
+Iśvara's turning away from the thought of punishment means His will which takes the form: “By my grace will the man who performs all his duties as for me and as being done by me attain the world that is eternal". The cessation of such things as avidyā in the jīva means the expansion of intelligence, knowledge, wisdom and such others.
 
 
 
