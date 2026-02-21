@@ -474,13 +474,12 @@ provided they **are not** such as **have already begun** to **yield** their frui
 
 <details><summary>Español</summary>
 
-The **hindrances** to the **adoption** of the upāya **have disappeared** already by their respective causes  
-(~~such as the **performance** of the rites and duties of varṇas and āśramas~~),  
-then the puṇyas and papas **done** before the adoption of the upāya  
-which **are opposed** to the **attainment** (of mukti)  
-**will disappear** without any trace  
-at the beginning of the **adoption** of the upāya,  
-provided they **are not** such as **have already begun** to **yield** their fruit (prarabdha). 
+Los **obstáculos** para la **adopción** del upāya **han desaparecido** ya por sus respectivas causas,  
+luego los puṇyas y papas **hechos** antes de la adopción del upāya  
+que **se oponen** al **logro** (de mukti)  
+**desaparecerá** sin dejar rastro  
+al comienzo de la **adopción** del upāya,  
+siempre que **no sean** tales como **ya han comenzado** a **dar** su fruto (prarabdha).
 </details>
 
 
@@ -491,9 +490,41 @@ provided they **are not** such as **have already begun** to **yield** their frui
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तरङ्गळ् आऩ पापङ्गळिल्  
+बुद्धि-पूर्वम् अल्लाद्-अवैयुम्,  
+देश-काल-वैगुण्यादिगळाल् वरुम् अवैयुम्  
+ऒऩ्ऱुम् लेपियादु। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Among sins committed after prapatti,  
+those offences which **may be committed** without any awareness of them  
+and which **are** the **result** of unfavourable conditions of place, time and the like  
+**will not** in the least **taint** (the self).  
+
+</details>
+
+<details><summary>Español</summary>
+
+Entre los pecados cometidos después de prapatti,  
+aquellos delitos que **pueden cometerse** sin conocimiento de ellos  
+y que **son** el **resultado** de condiciones desfavorables de lugar, tiempo y similares  
+**no** en lo más mínimo **contaminará** (al yo).
+</details>
 
 
-Among sins committed after prapatti, those offences which may be committed without any awareness of them and which are the result of unfavourable conditions of place, time and the like will not in the least taint (the self). Those offences which are committed deliberately when there is no danger of death will cease either by some form of atonement or expiation which is within the man's power or by experiencing the fruit of the karma  which would be of the nature of a light punishment. That portion of the karma  which has begun to yield its fruit to the prapanna that will have to be experienced within the time desired by him (for mukti) will disappear either by the experience or enjoyment of the fruit or by an intervening rite of expiation. That which remains will disappear by the potency of the upāya (prapatti).
+<details><summary>मूलम्</summary>
+
+उत्तरङ्गळाऩ पापङ्गळिल् बुद्धिपूर्वमल्लादवैयुम्, देशकालवैगुण्यादिगळाल् वरुमवैयुम् ऒऩ्ऱुम् लेपियादु। 
+</details>
+
+
+
+
+Those offences which are committed deliberately when there is no danger of death will cease either by some form of atonement or expiation which is within the man's power or by experiencing the fruit of the karma  which would be of the nature of a light punishment. That portion of the karma  which has begun to yield its fruit to the prapanna that will have to be experienced within the time desired by him (for mukti) will disappear either by the experience or enjoyment of the fruit or by an intervening rite of expiation. That which remains will disappear by the potency of the upāya (prapatti).
 
 
 
