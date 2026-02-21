@@ -2912,6 +2912,13 @@ y que **caminan** por la ruta al mundo de Viṣṇu
 तेषां वै क्षेममध्वानं गच्छतां द्विजसत्तम ॥  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वलोकतमो-हन्ता  
@@ -2927,7 +2934,6 @@ y que **caminan** por la ruta al mundo de Viṣṇu
 ज्वालामाली महातेजा  
 येनेदं **धार्यते** जगत् ॥  
 </details>
-
 
 
 <details><summary>English</summary>
