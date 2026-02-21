@@ -360,20 +360,140 @@ todos los efectos de Su **castigo**, como avidyā o ignorancia, **dejarían** de
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईश्वरऩ्-उडैय निग्रह-निवृत्तिय् आवदु,  
-‘‘मत्-प्रसादात्’’ ऎऩ्गिऱ अभिप्राय-विशेषम्। 
+
+> (मच्-चित्तः **सर्व-दुर्गाणि**)  
+मत्-प्रसादात् (**तरिष्यसि**)। 
+
+ऎऩ्गिऱ अभिप्राय-विशेषम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> (मच्-चित्तः **सर्व-दुर्गाणि**)  
+मत्-प्रसादात् (**तरिष्यसि**)। 
+
+
+</details>
+
+<details><summary>English</summary>
+
+Iśvara's **turning away** from the **thought** of **punishment means**  
+His will which **takes** the form:  
+
+> “By my grace **will** the man who **performs** all his duties as for me  
+and as **being done** by me  
+**attain** the world that **is** eternal". 
+</details>
+
+<details><summary>Español</summary>
+
+El **alejamiento** de Iśvara del **pensamiento** de **medios de castigo**  
+Su voluntad que **toma** la forma:  
+
+> “Por mi gracia el hombre que **realiza** todos sus deberes en **cuanto** a mí  
+y como **siendo hecho** por mí  
+**alcanzar** el mundo que **es** eterno".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ईश्वरऩुडैय निग्रहनिवृत्तियावदु, ‘‘मत्प्रसादात्’’ ऎऩ्गिऱ अभिप्रायविशेषम्। 
 </details>
 
+## अविद्या-निवृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Iśvara's turning away from the thought of punishment means His will which takes the form: “By my grace will the man who performs all his duties as for me and as being done by me attain the world that is eternal". The cessation of such things as avidyā in the jīva means the expansion of intelligence, knowledge, wisdom and such others.
+जीवऩुक्क् अविद्याऽऽदिगळ्-उडैय निवृत्तिय् आवदु  
+ज्ञान-विकासादिगळ्। 
+</details>
+
+<details><summary>English</summary>
+
+The **cessation** of such things as avidyā in the jīva  
+**means** the **expansion** of intelligence, knowledge, wisdom and such others.
+</details>
+
+<details><summary>Español</summary>
+
+El **cese** de cosas como avidyā en la jīva  
+**significa** la **expansión** de la inteligencia, el conocimiento, la sabiduría y otros similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवऩुक्कविद्यादिगळुडैय निवृत्तियावदु ज्ञानविकासादिगळ्। 
+</details>
+
+
+## कर्म-निवृत्ति-क्रमः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवऩुक्क् इप्-पडि पुण्य-पाप-रूपम् आऩ संसार-कारणङ् कऴियुम् क्रमम् ऎद् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+The manner and the order in which the causes of saṁsāra,  
+which **are** of the nature of puṇya and papa  
+**will disappear, are** as **follows** - 
+</details>
+
+<details><summary>Español</summary>
+
+La manera y el orden en que las causas del saṁsāra,  
+que **son** de la naturaleza de puṇya y papa  
+**desaparecerá, son** como **sigue** -
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्किप्पडि पुण्यपापरूपमाऩ संसारकारणङ्गऴियुम् क्रममॆदॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**उपाय-विरोधिगळ्** मुऩ्बे स्व-हेतुक्कळाले कऴिन्दाल्  
+प्रारब्धेतरङ्गळ् आय् **प्राप्ति-विरोधिगळ्** आग वल्ल पूर्व-पुण्य-पापङ्गळ्  
+उपायारम्भत्तिले निश्शेषम् आगक् कऴियुम्।
+</details>
+
+<details><summary>English</summary>
+
+The **hindrances** to the **adoption** of the upāya **have disappeared** already by their respective causes  
+(~~such as the **performance** of the rites and duties of varṇas and āśramas~~),  
+then the puṇyas and papas **done** before the adoption of the upāya  
+which **are opposed** to the **attainment** (of mukti)  
+**will disappear** without any trace  
+at the beginning of the **adoption** of the upāya,  
+provided they **are not** such as **have already begun** to **yield** their fruit (prarabdha). 
+</details>
+
+<details><summary>Español</summary>
+
+The **hindrances** to the **adoption** of the upāya **have disappeared** already by their respective causes  
+(~~such as the **performance** of the rites and duties of varṇas and āśramas~~),  
+then the puṇyas and papas **done** before the adoption of the upāya  
+which **are opposed** to the **attainment** (of mukti)  
+**will disappear** without any trace  
+at the beginning of the **adoption** of the upāya,  
+provided they **are not** such as **have already begun** to **yield** their fruit (prarabdha). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायविरोधिकळ्मुऩ्बे स्वहेतुक्कळाले कऴिन्दाल् प्रारब्धेतरङ्गळाय् प्राप्तिविरोधिकळाग वल्ल पूर्वपुण्यपापङ्गळ् उपायारंभत्तिले निश्शेषमागक् कऴियुम्।
+</details>
 
 
 
-The manner and the order in which the causes of saṁsāra, which are of the nature of puṇya and papa will disappear are as follows - The hindrances to the adoption of the upāya have disappeared already by their respective causes (such as the performance of the rites and duties of varṇas and āśramas), then the puṇyas and papas done before the adoption of the upāya which are opposed to the attainment (of mukti) will disappear without any trace at the beginning of the adoption of the upāya, provided they are not such as have already begun to yield their fruit (prarabdha). Among sins committed after prapatti, those offences which may be committed without any awareness of them and which are the result of unfavourable conditions of place, time and the like will not in the least taint (the self). Those offences which are committed deliberately when there is no danger of death will cease either by some form of atonement or expiation which is within the man's power or by experiencing the fruit of the karma  which would be of the nature of a light punishment. That portion of the karma  which has begun to yield its fruit to the prapanna that will have to be experienced within the time desired by him (for mukti) will disappear either by the experience or enjoyment of the fruit or by an intervening rite of expiation. That which remains will disappear by the potency of the upāya (prapatti).
+
+
+Among sins committed after prapatti, those offences which may be committed without any awareness of them and which are the result of unfavourable conditions of place, time and the like will not in the least taint (the self). Those offences which are committed deliberately when there is no danger of death will cease either by some form of atonement or expiation which is within the man's power or by experiencing the fruit of the karma  which would be of the nature of a light punishment. That portion of the karma  which has begun to yield its fruit to the prapanna that will have to be experienced within the time desired by him (for mukti) will disappear either by the experience or enjoyment of the fruit or by an intervening rite of expiation. That which remains will disappear by the potency of the upāya (prapatti).
 
 
 
