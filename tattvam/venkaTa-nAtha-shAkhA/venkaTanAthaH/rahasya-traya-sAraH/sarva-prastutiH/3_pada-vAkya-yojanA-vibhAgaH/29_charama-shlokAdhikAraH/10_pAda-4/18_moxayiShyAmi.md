@@ -1481,11 +1481,18 @@ quien **es** extremadamente querido por el Señor.
 <details><summary>English</summary>
 
 If we take the interpretation given in the śloka "suduShkareNa shoched yaH", 
+
+(This interpretation:- “If a man is in despair at the thought that he is incapable of performing whatever will produce the ends desired by him, I myself stand in the place of those actions.’ )
 </details>
 
 <details><summary>Español</summary>
 
 Si **tomamos** la **interpretación dada** en el śloka "suduShkareNa shoched yaH",
+
+(Esta **interpretación**: “Si un hombre está **desesperado** al **pensar**  
+que **es** incapaz de **realizar** cualquier cosa  
+que **produzca** los fines **deseados** por él,  
+yo mismo **estoy** en el lugar de esas acciones”.)
 </details>
 
 
@@ -1920,7 +1927,7 @@ Porque Bhagavan Śaunaka **dice** así.
 ऎऩ्ऱु श्री शौनकभगवाऩरुळिच्चॆय्दाऩ्। 
 </details>
 
-### आविर्-भाव-प्रयोगौचित्यम्
+### "आविर्-भाव"-प्रयोगौचित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञान-द्रव्यमुम्,  
@@ -1990,7 +1997,25 @@ y otras cosas similares y las formas de servicio o kaiṅkarya **surgen** de nue
 
 इवै निवृत्त-प्रतिबन्ध-स्वरूपोपाधिकङ्गळ् आगैयाले  
 
-मेल् मुऴुक्क नडक्कुम् बडि तोऱ्ऱुगैक्क् आगव्  
+मेल् मुऴुक्क+++(=पूर्णतः)+++ नडक्कुम् बडि तोऱ्ऱुगैक्क् आगव्  
+</details>
+
+<details><summary>English</summary>
+
+Still as their origin **depends** on the conditional factor (upādhi),  
+namely, the **removal** of **hindrances** thereto,  
+
+in order to show that when the hindrances disappear,  
+these services will automatically follow; 
+</details>
+
+<details><summary>Español</summary>
+
+Aún así como su origen **depende** del factor condicional (upādhi),  
+a saber, la **eliminación** de **obstáculos** al respecto,  
+
+para **demostrar** que cuando los obstáculos **desaparecen**,  
+estos servicios **seguirán** automáticamente;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2007,26 +2032,282 @@ y otras cosas similares y las formas de servicio o kaiṅkarya **surgen** de nue
 इत्य्-आदिगळाले आविर्-भाव-शब्दम् प्रयुक्तम् आगिऱदु। 
 </details>
 
+<details><summary>English</summary>
+
+the word '**manifestation**' (āvirbhāva) **is used** in such places as the 
+
+> **performances** of different kinds of service  
+which **are** natural to myself  
+**manifest** themselves.
+</details>
+
+<details><summary>Español</summary>
+
+la palabra '**manifestación**' (āvirbhāva) **se usa** en lugares como el 
+
+> **prestaciones** de diferentes tipos de servicio  
+que **son** naturales para mí  
+**se manifiestan** ellos mismos.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इवऱ्ऱिल् १३६‘‘आविस्स्युर्मम सहजकैङ्कर्यविधय’’(अष्टश्लोकी ३) इत्यादिगळाले आविर्भावशब्दम् प्रयुक्तमागिऱदु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Still as their origin **depends** on the conditional factor (upādhi),  
-namely, the **removal** of **hindrances** thereto,  
+स्व-रूप-योग्यत्वत्ताले  
 
-the word '**manifestation**' (āvirbhāva) **is used** in such places as the **performance** of different kinds of service  
+कर्मोपाधिकम् आग बहु-विधम् आऩ आनुकूल्य-प्रातिकूल्यङ्गळ् नडन्द  
+भगवद्-विभूतिय् आऩ वस्तुक्कळुक्कु  
 
-which **are** natural to myself manifest itself." This is in order to show that when the hindrances disappear, these services will automatically follow. (In the state of saṁsāra), the objects (in the Universe) which are all the glorious possessions of Bhagavān appear disagreeable in various ways or (only) slightly agreeable as a result of the conditioning factor (upādhi), namely, karma . In the state of mokṣa, they would all become agreeable (since karma  has disappeared), as agreeableness is their natural quality. Therefore in that state, too, the word 'manifestation' (of agreeableness) may justly be used. Therefore the words "I will release thee from all sins"make it evident that the self will have a new state in which all things will manifest their natural agreeableness to it.
+मेल् ऎल्लाम् मोक्ष-दशैयिल् आनुकूल्यमे स्वरूप-प्राप्तम् आगैयाले  
+
+अदिलुम् आविर्भाव-शब्दत्तुक्कु विरोधम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+(In the state of saṁsāra), the objects (in the Universe) which **are** all the glorious possessions of Bhagavān **appear disagreeable** in various ways  
+or (only) slightly **agreeable** as a result of the conditioning factor (upādhi), namely, karma . 
+
+In the state of mokṣa, they would all **become agreeable** (since karma **has disappeared**),  
+as agreeableness **is** their natural quality. 
+
+Therefore in that state, too, the word '**manifestation**' (of **agreeableness**) may justly be **used**. 
+</details>
+
+<details><summary>Español</summary>
+
+(En el estado de saṁsāra), los objetos (en el Universo) que **son** todas las gloriosas posesiones de Bhagavān **parecen desagradables** de diversas maneras  
+o (sólo) ligeramente **agradable** como **resultado** del factor condicionante (upādhi), es decir, karma. 
+
+En el estado de mokṣa, todos ellos **se volverían agradables** (ya que el karma **ha desaparecido**),  
+ya que la amabilidad **es** su cualidad natural. 
+
+Por lo tanto, también en ese estado, la palabra '**manifestación**' (de **amabilidad**) **puede usarse** con justicia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वरूपयोग्यत्वत्ताले कर्मोपाधिकमाग बहुविधमाऩ आनुकूल्य प्रातिकूल्यङ्गळ् नडन्द भगवद्विभूतियाऩ वस्तुक्कळुक्कु मेलॆल्लाम् मोक्षदशैयिलानुकूल्यमे स्वरूपप्राप्तमागैयाले अदिलुमाविर्भावशब्दत्तुक्कु विरोधमिल्लै। 
+</details>
+
+### सर्वानुकूल्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऩव्  
+इव्व्-अनुकूलावस्थान्तरम् सिद्धम् आयिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+Therefore the words  
+"**I will release** thee from all sins"  
+**make it evident** that  
+the self **will have** a new state  
+in which all things **will manifest** their natural agreeableness to it.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto las palabras  
+"**Te liberaré** de todos los pecados"  
+**hacer evidente** que  
+el yo **tendrá** un nuevo estado  
+en el que todas las cosas **manifestarán** su agrado natural hacia él.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऩविव्वनुकूलावस्थान्तरम् सिद्धमायिऱ्ऱु।
+</details>
+
+### उपायोपेयैक्यतः
+#### एक-शब्द-सङ्गतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**एक**-शब्दत्तुक्कु उपाय-फलैक्यम् पॊरुळ् आऩ बोदु  
+इव्व् इष्ट-प्राप्तियुम्  
+इश्-श्लोकत्तिले सुव्यक्तम् आगच् चॊल्लिऱ्ऱाम्।
+</details>
+
+<details><summary>English</summary>
+
+If the word ekam **means** the identity of the upāya and the upeya or the end of **attainment** (as **has already been indicated**),  
+this **attainment** of the **desired** end **is** also **made** plain. 
+</details>
+
+<details><summary>Español</summary>
+
+Si la palabra "ekam" **significa** la identidad del upāya y el upeya o el fin del **logro** (como **ya se ha indicado**),  
+este **logro** del fin **deseado** también **se hace claro**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकशब्दत्तुक्कु उपायफलैक्यम् पॊरुळाऩबोदु इव्विष्टप्राप्तियुमिश्श्लोकत्तिले सुव्यक्तमागच् चॊल्लिऱ्ऱाम्।
+</details>
+
+#### माम् एवैष्यसि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्, 
+
+> (**मन्-मना भव** मद्-भक्तो  
+मद्-याजी मां नमस्कुरु।)  
+**माम् एवैष्यसि** (सत्यं ते  
+प्रतिजाने - प्रियोऽसि मे)॥
+
+
+ऎऩ्ऱु कीऴिल् श्लोकत्तिल् विशदम् आगच् चॊऩ्ऩ अर्थं
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+
+> (**मन्-मना भव** मद्-भक्तो  
+मद्-याजी मां नमस्कुरु।)  
+**माम् एवैष्यसि** (सत्यं ते  
+प्रतिजाने - प्रियोऽसि मे)॥
+
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore the idea that **was expressed** clearly in the śloka (Gītā - 18 - 65), namely 
+
+> “Thou **wilt come** to me" 
+
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la idea que **fue expresada** claramente en el śloka (Gītā - 18 - 65), es decir 
+
+> “Tú **vendrás** a mí"
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘मामेवैष्यसि’’ ऎऩ्ऱु कीऴिल् श्लोकत्तिल् विशदम् आगच् चॊऩ्ऩ अर्थं
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… इङ्गु प्राप्ति-विरोधियैक् कऴिक्कैयालुम्  
+"एक"-शब्दत्तिल् विवक्षा-विशेषत्तालुञ्  
+जॊल्लिऱ्ऱ् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+**may be considered** to be **stated** in the carama śloka (also)  
+
+by the meaning implicit in the word "ekam",  
+
+and by the **statement** that  
+the **hindrances** to that **attainment are destroyed**‌.  
+("**I will release** thee from all sins"). 
+</details>
+
+<details><summary>Español</summary>
+
+**puede considerarse indicado** en el carama śloka (también)  
+
+por el significado **implícito** en la palabra "ekam",  
+
+y por la **declaración** que  
+los **obstáculos** para ese **logro son destruidos**‌.  
+("**Te liberaré** de todos los pecados").
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु कऴिक्कैयालुम् एकशब्दत्तिल् विवक्षा विशेषत्तालुञ् जॊल्लिऱ्ऱाम्। 
+</details>
+
+##### न तच्-छेषः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ बिऩ्बु +++(तत्रोक्तम् अत्र पृथग् उक्तत्वात्)+++, इदु,  
+
+सापेक्षम् आय्क् कॊण्डु  
+कीऴिल् श्लोकत्तिऱ्कु शेषम् आगिऱद्  
+
+अऩ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+Therefore the carama-śloka **cannot be said** to **supplement** or **explain** what has been stated in the preceding śloka.
+
+(The author **declares** that the charama-sloka **is not explanatory** of the previous sloka (Gita 18-65)  
+as **stated** by some  
+who **consider** it to **refer** to bhaktiyoga.  
+It **is** independent of the previous sloka  
+and **concerns** itself with prapatti.)
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **no se puede decir** que carama-śloka **complemente** o **explique** lo que **se ha dicho** en el śloka anterior.
+
+(El autor **declara** que el charama-sloka **no explica** el sloka anterior (Gita 18-65)  
+como **indicado** por algunos  
+quienes **consideran** que **se refiere** al bhaktiyoga.  
+**Es** independiente del sloka anterior.  
+y **se preocupa** por prapatti.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु इदु सापेक्षमाय्क्कॊण्डु कीऴिल् श्लोकत्तिऱ्कु शेषमागिऱदऩ्ऱु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्व-पापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऱ इव्व्-अळवाल्  
+‘‘माम् एवैष्यसि’’ ऎऩ्ऱु सॊऩ्ऩ भगवत्-प्राप्ति सिद्धिक्कुमो; 
+</details>
+
+<details><summary>English</summary>
+
+> "When it **is said**  
+"**I will release** thee from all sins",  
+does it **follow** from those words alone that  
+the **release** from sins **would lead** to the **attainment** of Bhagavān  
+**stated** in "Thou **wilt reach** me?"  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Cuando **se dice**  
+"**Te liberaré** de todos los pecados",  
+¿**Se deduce** solo de esas palabras que  
+la **liberación** de los pecados **conduciría** al **alcance** de Bhagavān  
+**indicado** en "¿**Me alcanzarás**?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ऎऩ्ऱ इव्वळवाल् ‘‘मामेवैष्यसि’’ ऎऩ्ऱु सॊऩ्ऩ भगवत्प्राप्ति सिद्धिक्कुमो; 
+</details>
 
 
 
-If the word ekam means the identity of the upāya and the upeya or the end of attainment (as has already been indicated), this attainment of the desired end is also made plain. Therefore the idea that was expressed clearly in the śloka (Gītā - 18 - 65), namely “Thou wilt come to me" may be considered to be stated in the carama śloka (also) by the meaning implicit in the word ekam, and by the statement that the hindrances to that attainment are destroyed ----(I will release thee from all sins). Therefore the carama-śloka cannot be said to supplement or explain what has been stated in the preceding śloka.[^f2] *
 
+Here an **objection** that has no soundness in it may be raised to this effect:-
 
-
-Here an objection that has no soundness in it may be raised to this effect:-"When it is said "I will release thee from all sins", does it follow from those words alone that the release from sins would lead to the attainment of Bhagavān stated in "Thou wilt reach me?" Is it not possible that, with the removal or pardon of all sins, the self may attain the state called kaivalya in which it enjoys only itself without attaining Bhagavān ? That there is a state called kaivalya, has, it is well known, been declared in such treatises as Nāradīya kalpam, where we find the śloka :-- "This mantra enables a man to obtain wealth and lordship in this world, svarga and the like in the world beyond, kaivalya (the enjoyment of one's own self) and the enjoyment of Bhagavān". Aḷavandār also says " To those who desire to have wealth and lordship, the enjoyment of their own self dissociated from the body and, likewise, the performance of kaiṅkarya or service at the feet of the Lord etc. etc." He says also (elsewhere):  Without the grace  of Lakṣmī, the beloved consort of the Lord with the lotus eyes, we cannot have the valuable things desired (by men) in saṁsāra, the enjoyment of the disembodied self (in kaivalya) and the enjoyment of Bhagavān". In the Gadya, also, is found quoted (the sentence) in Jitante stotra - “Leaving all desired pleasures and the enjoyment of the (disembodied) self, I have reached Thy feet." This truth is also stated at length in Śrī Rāmānuja's GitāBhāṣya and such other writings. Therefore should not the freedom from all sins which results from the statement "I will release thee from all sins" be considered common to kaivalya and the enjoyment of Bhagavan ?".
+**Is it not possible** that, with the removal or pardon of all sins, the self may attain the state called kaivalya in which it enjoys only itself without attaining Bhagavān ? That there is a state called kaivalya, has, it is well known, been declared in such treatises as Nāradīya kalpam, where we find the śloka :-- "This mantra enables a man to obtain wealth and lordship in this world, svarga and the like in the world beyond, kaivalya (the enjoyment of one's own self) and the enjoyment of Bhagavān". Aḷavandār also says " To those who desire to have wealth and lordship, the enjoyment of their own self dissociated from the body and, likewise, the performance of kaiṅkarya or service at the feet of the Lord etc. etc." He says also (elsewhere):  Without the grace  of Lakṣmī, the beloved consort of the Lord with the lotus eyes, we cannot have the valuable things desired (by men) in saṁsāra, the enjoyment of the disembodied self (in kaivalya) and the enjoyment of Bhagavān". In the Gadya, also, is found quoted (the sentence) in Jitante stotra - “Leaving all desired pleasures and the enjoyment of the (disembodied) self, I have reached Thy feet." This truth is also stated at length in Śrī Rāmānuja's GitāBhāṣya and such other writings. Therefore should not the freedom from all sins which results from the statement "I will release thee from all sins" be considered common to kaivalya and the enjoyment of Bhagavan ?".
 
 
 
