@@ -4180,9 +4180,7 @@ que es como la sombra de un sandalia.
 
 [[P1817]]
 
-""
-""
-""
+[[TODO: परिष्कार्यम्]] page number P1818 तथा P1819 missing
 
 </details>
 
