@@ -2418,11 +2418,11 @@ La **iniciación** en vidyās (upāsanas), mantras y similares **debe ser** solo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘शूद्र-योनाव् अहं जातो  
-नातोऽन्यद् वक्तुम् उत्सहे।’’+++(4)+++  
+> ‘‘शूद्र-योनाव् अहं **जातो** 
+नातोऽन्यद् **वक्तुम्** उत्सहे।’’+++(4)+++  
 (भारतम् उद्योग-पर्व ४१-५) 
 
-ऎऩ्ऱ श्री-विदुर-वाक्यत्ताले सिद्धम्। 
+ऎऩ्ऱ श्री-विदुर-वाक्यत्ताले **सिद्धम्**। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2436,10 +2436,10 @@ La **iniciación** en vidyās (upāsanas), mantras y similares **debe ser** solo
 
 <details><summary>English</summary>
 
-This is clearly established from Vidura's words:-
+This **is** clearly **established** from Vidura's words:-
 
-> "As I was born a Śūdra,  
-I cannot teach any further."
+> "As I **was born** a Śūdra,  
+I **cannot teach** any further."
 </details>
 
 <details><summary>Español</summary>
@@ -2549,8 +2549,8 @@ cuando **han perdido** su rumbo.
 
 ऎऩ्ऱारम्बित्तु 
 
-> ‘‘स्पर्धां जहि महाप्राज्ञ  
-ततः प्राप्स्यसि यत्फलम्।’’ 
+> ‘‘स्पर्धां जहि महा-प्राज्ञ  
+ततः प्राप्स्यसि यत् फलम्।’’ 
 
 इत्यन्तत्ताले भूतहित परत्व भूताद्रोहावञ्चन-- सर्वसौहार्द-- स्पर्धा-शून्यत्वादि-रूपङ्गळ् आऩ अन्दन्द धर्मङ्गळैच्चॊल्ल,  
 जाजलि अदैक्केट्टु  
@@ -2869,8 +2869,8 @@ Si un hombre **trata** a un devoto de la misma manera que **trataría** a otros 
 
 > ‘‘यश् शूद्रं भगवद्-भक्तं’’  
 > (निषादं श्वपचं तथा ।  
-वीक्षते जातिसामान्यात्  
-स याति नरकं नरः॥)  
+**वीक्षते** जातिसामान्यात्  
+स **याति** नरकं नरः॥)  
 (इतिहास-समुच्चयः २७-२६) 
 
 ऎऩ्ऱु तुडङ्गि महर्षि संग्रहित्ताऩ्।
@@ -3197,7 +3197,7 @@ El hombre **alcanza** su fin **adorando** a Bhagavān con la **actuación** de s
 पुरुषेण परः पुमान् ।  
 विष्णुर् **आराध्यते** पन्था  
 नान्यस् तत्-**तोष-कारकः**॥’’  
-(विष्णुपुराणम् ३-८-९), 
+(विष्णु-पुराणम् ३-८-९), 
 </details>
 
 
@@ -3207,7 +3207,7 @@ El hombre **alcanza** su fin **adorando** a Bhagavān con la **actuación** de s
 पुरुषेण परः पुमान् ।  
 विष्णुर् **आराध्यते** पन्था  
 नान्यस् तत्-**तोष-कारकः**॥’’  
-(विष्णुपुराणम् ३-८-९), 
+(विष्णु-पुराणम् ३-८-९), 
 </details>
 
 <details><summary>विषयः</summary>
@@ -3294,14 +3294,14 @@ y **nunca hace** alguna **acción** de violencia (himsā) -
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्य्-आदिगळाले  
-भागवतऩुक्के यथा-पूर्वं जाति-व्यवस्थैयुम्  
+*भागवतऩुक्के* यथा-पूर्वं जाति-व्यवस्थैयुम्  
 अदुक्क् अनुरूपम् आऩ वृत्त-व्यवस्थैयुम्  
 सु-स्पष्टम् आगच् चॊल्लप् पट्टदु।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-इत्य्-आदिभिर् भागवतस्यैव यथा-पूर्वं जातिव्यवस्था, तद्-अनुरूप-वृत्त-व्यवस्था च  
+इत्य्-आदिभिर् *भागवतस्यैव* यथा-पूर्वं जातिव्यवस्था, तद्-अनुरूप-वृत्त-व्यवस्था च  
 सुस्पष्टं प्रतिपादिता । 
 </details>
 
