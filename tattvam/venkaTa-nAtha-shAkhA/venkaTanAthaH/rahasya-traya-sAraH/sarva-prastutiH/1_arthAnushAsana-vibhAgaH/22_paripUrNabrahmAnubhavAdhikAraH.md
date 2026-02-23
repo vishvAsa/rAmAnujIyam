@@ -140,6 +140,13 @@ Y sin ninguna cuestión de su **regreso** nuevamente (a Saṁsāra), **alcanza**
 ऎऩ्ऱु श्रुतियिल् सॊल्लप्पट्ट परमसाम्यत्तै, भजति - अडै किऱाऩॆऩ्गै।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
+
 ## परिपूर्णता
 <details><summary>English</summary>
 
