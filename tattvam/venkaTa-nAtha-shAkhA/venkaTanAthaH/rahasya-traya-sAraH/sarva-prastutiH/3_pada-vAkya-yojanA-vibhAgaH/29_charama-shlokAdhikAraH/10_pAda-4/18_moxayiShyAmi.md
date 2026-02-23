@@ -1354,38 +1354,671 @@ el que **sembró** debe **segar** la cosecha".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदुवुम् मुमुक्षु-विषयत्तिल् अनुकूल--प्रतिकूलर्क्क् उपचारापचार-रूपम् आऩ कर्मम् अडियाग वरुगिऱद् आगैयाले  
+इदुवुम् मुमुक्षु-विषयत्तिल् अनुकूल--प्रतिकूलर्क्क् उपचारापचार-रूपम् आऩ कर्मम् अडिय् आग वरुगिऱद् आगैयाले  
 अतिप्रसङ्गम् इल्लै। +++(4)+++
 </details>
+
+<details><summary>English</summary>
+
+The answer **is** this:-  
+There **will be no** such unfairness due to too wide an application (atiprasaṅga),  
+because the rewards and punishments **are awarded** in accordance with the **obligations** or **offences done**, respectively,  
+by these friends and foes to the aspirant for mukti. 
+</details>
+
+<details><summary>Español</summary>
+
+La respuesta **es** esta:-  
+**No habrá** tal injusticia debido a una aplicación demasiado amplia (atiprasaṅga),  
+porque las recompensas y castigos **se otorgan** de acuerdo con las **obligaciones** o **delitos cometidos**, respectivamente,  
+por estos amigos y enemigos al **aspirante** a mukti.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इदुवुम् मुमुक्षुविषयत्तिल् अनुकूलप्रतिकूलर्क्कुपचारापचाररूपमाऩगर्ममडियाग वरुगिऱदागैयाले अतिप्रसङ्गमिल्लै। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयालेय् इऱे  
+
+> उदासीनर् पक्कल् सुकृत-दुष्कृतङ्गळ् इरण्डुम् संक्रमिक्कुम् 
+
+ऎऩ्ऩाद् ऒऴिगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+That **is** why it **is** nowhere **stated** that  
+
+> these good deeds and bad deeds **are transferred** to those who **are** neither friends nor foes. 
+</details>
+
+<details><summary>Español</summary>
+
+Por eso **en** ninguna parte **se dice** que  
+
+> estas buenas y malas acciones **son transferidas** a aquellos que **no son** ni amigos ni enemigos.
+</details>
 
 
-The answer is this:- There will be no such unfairness due to too wide an application (atiprasaṅga), because the rewards and punishments are awarded in accordance with the obligations or offences done, respectively, by these friends and foes to the aspirant for mukti. That is why it is nowhere stated that these good deeds and bad deeds are transferred to those who are neither friends nor foes. The word 'transfer’ is used here in the sense that (their friends and foes) will have fruits similar to those of the karmas said to be transferred. This śruti which speaks of the transfer of good and bad deeds suggests the extreme of pleasure and displeasure that the Lord would feel, if the obligations and offences are done to the jñānī (the man of wisdom) who is extremely dear to the Lord.
+<details><summary>मूलम्</summary>
 
-If we take the *[^f1] interpretation given in the śloka (on page ), sarva pāpebhyah (from all sins) would briefly include, as desired by the man, all hindrances to the attainment of the Lord, all hindrances to the proper adoption of the upāya and also the causes of experiencing disagreeable things.
+आगैयालेयिऱे उदासीनर् पक्कल् सुकृतदुष्कृतङ्गळिरण्डुम् संक्रमिक्कु मॆऩ्ऩादॊऴिगिऱदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फल-सारूप्य-मात्रत्तालेय् इङ्गु संक्रमणोपचारम्।+++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+The word 'transfer’ **is used** here in the sense that (their friends and foes) **will have** fruits similar to those of the karmas **said** to **be transferred**. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra '**transferir**' **se usa** aquí en el sentido de que (sus amigos y enemigos) **tendrán** frutos similares a los de los karmas que **se dice** que **se transferirán**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलसारूप्यमात्रत्ताले यिङ्गु संक्रमणोपचारम्। 
+</details>
+
+#### भगवद्-भाव-तीव्रता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् सुकृत-दुष्कृत-संक्रान्ति सॊल्लुगिऱ श्रुतियाले  
+ईश्वरऩुक्क् अत्यर्थ-प्रियऩ् आऩ ज्ञानि-विषयत्तिऱ् पण्णिऩ उपचारापचारङ्गळाल्  
+वरुम् प्रीति कोपङ्गळिऩ्-उडैय तीव्रतमत्वम् सूचितम् आयिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+This śruti which **speaks** of the **transfer** of good and bad deeds **suggests** the extreme of pleasure and displeasure  
+that the Lord **would feel**, if the obligations and offences **are done** to the jñānī (the man of wisdom)  
+who **is** extremely dear to the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+Este śruti que **habla** de la **transferencia** de buenas y malas acciones **sugiere** el extremo del placer y el disgusto.  
+que el Señor **sentiría**, si las obligaciones y ofensas **se hacen** al jñānī (el hombre de sabiduría)  
+quien **es** extremadamente querido por el Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस् सुकृतदुष्कृतसंक्रान्ति सॊल्लुगिऱ श्रुतियाले ईश्वरऩुक्कत्यर्थप्रियऩाऩ ज्ञानिविषयत् तिऱ् पण्णिऩ उपचारापचारङ्गळाल् वरुम् प्रीति कोपङ्गळिऩुडैय तीव्रतमत्वम् सूचितमायिऱ्ऱु।
+</details>
+
+## दुष्करतापाकृतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘सुदुष्करेण शोचेद् यः’’  
+(येन येनेष्ट-हेतुना+++(=साधनेन)+++ ।  
+स स तस्याहम् एवेति  
+चरम-श्लोक-संग्रहः ॥)
+
+ऎऩ्गिऱ श्लोकत्तिऱ् सॊऩ्ऩ योजऩैयिल्  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+‘‘सुदुष्करेण शोचेद् यः’’  
+(येन येनेष्ट-हेतुना+++(=साधनेन)+++ ।  
+स स तस्याहम् एवेति  
+चरम-श्लोक-संग्रहः ॥)
+
+</details>
+
+<details><summary>English</summary>
+
+If we take the interpretation given in the śloka "suduShkareNa shoched yaH", 
+</details>
+
+<details><summary>Español</summary>
+
+Si **tomamos** la **interpretación dada** en el śloka "suduShkareNa shoched yaH",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सुदुष्करेण शोचेद्यः’’ ऎऩ्गिऱ श्लोकत्तिऱ्सॊऩ्ऩ योजऩैयिल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"सर्वपापेभ्यः" ऎऩ्ऱदु  
+अधिकारिय्-उडैयव् अपेक्षैक्क् ईड् आग  
+प्राप्ति-विरोधिगळैयुम्, उपाय-विरोधिगळैयुम्, प्रतिकूलानुभव-हेतुक्कळैयुम् संग्रहिक्किऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+"sarva pāpebhyah" (from all sins) would briefly **include**, as **desired** by the man,  
+all **hindrances** to the **attainment** of the Lord,  
+all **hindrances** to the proper **adoption** of the upāya  
+and also the causes of **experiencing** disagreeable things.
+</details>
+
+<details><summary>Español</summary>
+
+"sarva pāpebhyah" (de todos los pecados) brevemente **incluirá**, como **deseado** por el hombre,  
+todos los **obstáculos** para el **alcance** del Señor,  
+todos los **obstáculos** para la **adopción** adecuada del upāya  
+y también las causas de **experimentar** cosas desagradables.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वपापेभ्यः ऎऩ्ऱदु अधिकारियुडैयवपेक्षैक्कीडाग प्राप्तिविरोधिकळैयुमुपायविरोधिकळैयुम् प्रतिकूलानुभवहेतुक्कळैयुम् संग्रहिक्किऱदु। 
+</details>
+
+### प्राप्ति-विरोधीनि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु प्राप्ति-विरोधिय् आवदु;  
+
+> सापराधऩ् आऩव् इवऩ्  
+नम्मै अनुभविक्कक् कडवऩ् अल्लऩ्  
+
+ऎऩ्गिऱ भगवत्सङ्कल्पम्। 
+</details>
+
+<details><summary>English</summary>
+
+Here the **hindrance** to the **attainment** of the Lord  
+**is** the Lord's will that  
+the offender **shall not enjoy** Him. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí el **obstáculo** para el **alcance** del Señor  
+**es** la voluntad del Señor que  
+el **infractor no disfrutará** de Él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु प्राप्तिविरोधियावदु; सापराधऩाऩविवऩ् नम्मै अनुभविक्कक् कडवऩल्लऩॆऩ्गिऱ भगवत्सङ्कल्पम्। 
+</details>
+
+### उपाय-विरोधि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-विरोधिय् आवदु;  
+नम्मैय् इवऩ् तॆळिन्दु  
+वशी-करिक्क कडवऩ् अल्लऩ्  
+ऎऩ्गिऱ सङ्कल्पम्। 
+</details>
+
+<details><summary>English</summary>
+
+The hindrance to the upāya **is** the Lord's will that  
+
+the offender **shall not understand** Him aright  
+and **do** what **is necessary** to **propitiate** Him. 
+</details>
+
+<details><summary>Español</summary>
+
+El **obstáculo** para el upāya **es** la voluntad del Señor de que  
+
+el delincuente **no lo entenderá** correctamente  
+y **haz** lo que **sea necesario** para **propiciarlo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायविरोधियावदु; नम्मैयिवऩ् तॆळिन्दु वशीकरिक्ककडवऩल्ल ऩॆऩ्गिऱ सङ्कल्पम्। 
+</details>
+
+### प्रतिकूलानुभव-हेतुः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिकूलानुभव-हेतुव् आवदु;  
+अव्व्-ओ प्रतिकूल-कर्मानुष्ठानङ्गळाले वन्द  
+अव्व्-ओ फल-प्रदान सङ्कल्पम्। 
+</details>
+
+<details><summary>English</summary>
+
+The causes of **experiencing disagreeable** things  
+**consist** in the will of God that  
+the man **shall experience** the consequences or fruits of doing such karmas  
+as **displeased** Him.
+</details>
+
+<details><summary>Español</summary>
+
+Las causas de **experimentar** cosas desagradables  
+**consiste** en la voluntad de Dios que  
+el hombre **experimentará** las consecuencias o frutos de realizar tales karmas  
+como **disgustado** Él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतिकूलानुभव हेतुवावदु; अव्वो प्रतिकूल कर्मानुष्ठानङ्गळाले वन्द अव्वो फलप्रदान सङ्कल्पम्। 
+</details>
+
+## अचित्-सम्बन्धादि-नाशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षुवैप् पऱ्ऱ सर्व-निग्रहङ्गळुम् निवृत्तङ्गळ् आऩाल्  
+निग्रह-कार्यङ्गळ् आऩव् अचित्-सम्बन्धादिगळ्  
+निग्रह-निवृत्ति-रूप-प्रसादत्ताले निवृत्तङ्गळ् आम्।
+</details>
+
+<details><summary>English</summary>
+
+If all punishments **are cancelled** in the case of the aspirant for mukti,  
+the **effects** of such **punishments**, namely, **contact** with acit and the like  
+**will stand cancelled** by the Lord's grace  
+which **cancelled** the **punishments**. 
+</details>
+
+<details><summary>Español</summary>
+
+Si todos los castigos **son cancelados** en el caso del aspirante a mukti,  
+los **efectos** de tales **castigos**, a saber, **el contacto** con acit y similares  
+**quedará cancelado** por la gracia del Señor  
+que **canceló** los **castigos**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुवैप् पऱ्ऱ सर्वनिग्रहङ्गळुम् निवृत्तङ्गळाऩाल् निग्रहकार्यङ्गळाऩ वचित्सम्बन्धादिगळ् निग्रहनिवृत्तिरूपप्रसादत्ताले निवृत्तङ्गळाम्।
+</details>
+
+### अनिवृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिऩ्बु कारणाभावत्ताले  
+कार्यम् आऩ प्रतिकूलङ्गळ् ऒऩ्ऱुं वारादु। 
+</details>
+
+<details><summary>English</summary>
+
+Thereafter since there **are no** causes,  
+there **will be no** such effects as disagreeable **experiences**.  
+</details>
+
+<details><summary>Español</summary>
+
+A partir de entonces, dado que **no hay** causas,  
+**No habrá** efectos tales como **experiencias** desagradables.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पिऩ्बु कारणाभावत्ताले कार्यमाऩ प्रतिकूलङ् गळॊऩ्ऱुम् वारादु। 
+</details>
+
+
+### ब्रह्म-सूत्रोक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+> ‘‘अनावृत्तिश् शब्दात्’’  
+(ब्रह्मसूत्रम् ४-५-२२) 
+
+ऎऩ्गिऱ सूत्रत्तिले विवक्षितम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अनावृत्तिश् शब्दात्’’  
+(ब्रह्मसूत्रम् ४-५-२२) 
+
+</details>
+
+<details><summary>English</summary>
+
+This **is indicated** in the sūtra:  
+
+> "The man who **has attained**  mokṣa  
+**will never return** to saṁsāra,  
+for the śrutis **say** so".
+</details>
+
+<details><summary>Español</summary>
+
+Esto **está indicado** en el sūtra:  
+
+> "El hombre que **ha alcanzado** mokṣa  
+**nunca regresará** al saṁsāra,  
+porque los śrutis **dicen** así".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु ‘‘अनावृत्तिश्शब्दात्’’(ब्रह्मसूत्रम् ४-५-२२) ऎऩ्गिऱ सूत्रत्तिलेविवक्षितम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द निष्कर्षङ्गळ् ऎल्लाम्  
+भाष्यत्तिले सत्-संप्रदायत्तोडे कूड  
+चिर-परिचयम् पण्णिऩ महा-प्राज्ञरुक्कु  
+निलम्+++(=भूः)+++ आय् इरुक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+These **conclusions are** within the reach of the knowledge of those very wise men  
+who **have studied** Śrī Bhāṣya for a long time along with the traditions of the good.
+</details>
+
+<details><summary>Español</summary>
+
+Estas **conclusiones** están al **alcance** del **conocimiento** de aquellos muy sabios  
+quienes **han estudiado** Śrī Bhāṣya durante mucho tiempo junto con las tradiciones del bien.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द निष्कर्षङ्गळॆल्लाम् भाष्यत्तिले सत्संप्रदायत्तोडे कूड चिरपरिचयम् पण्णिऩ महाप्राज्ञरुक्कु निलमायिरुक्कुम्।
+</details>
+
+## परिपूर्णानुभवाविर्भावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऱु  कार्य-कारण-रूप- समस्त-प्रतिबन्ध-प्रवाह-निवृत्तियैच् चॊल्ल  
+स्वतः प्राप्तम् आऩ परिपूर्ण-भगवद्-अनुभवाविर्भावञ् जॊल्लिऱ्ऱ् आयिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+Thus (the words) 
+
+> "**I will release** thee from all sins" 
+
+**speak** of the **removal** of the stream of all **hindrances**  
+which **are** of the nature of either causes (the Lord's will to **punish**) or effects (avidyā and the like);  
+
+it **means** the same thing as **saying** that  
+the self will (then) **have** the **manifestation** (āvirbhāva) of the perfect enjoyment of Bhagavān. 
+</details>
+
+<details><summary>Español</summary>
+
+Así (las palabras) 
+
+> "**Te liberaré** de todos los pecados" 
+
+**habla** de la **eliminación** de la corriente de todos los **obstáculos**  
+que **son** de la naturaleza de causas (la voluntad del Señor de **castigar**) o efectos (avidyā y similares);  
+
+**significa** lo mismo que **decir** que  
+el yo (entonces) **tendrá** la **manifestación** (āvirbhāva) del perfecto **disfrute** de Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऱु कार्यकारणरूपसमस्तप्रतिबन्धप्रवाहनिवृत्तियैच् चॊल्ल स्वतः प्राप्तमाऩ परिपूर्णभगवदनुभवाविर्भावञ्जॊल्लिऱ्ऱायिऱ्ऱु।
+</details>
+
+### आविर्भावोक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यथा **न क्रियते** ज्योत्स्ना  
+मल-**प्रक्षालनान्** मणेः ।  
+दोष-**प्रहाणान् न** ज्ञानम्  
+आत्मनः **क्रियते** तथा ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यथा **न क्रियते** ज्योत्स्ना  
+मल-**प्रक्षालनान्** मणेः ।  
+दोष-**प्रहाणान् न** ज्ञानम्  
+आत्मनः **क्रियते** तथा ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> "When the dirt **is washed** away,  
+the gem **shines** of itself,  
+but the sheen **is not** newly **produced**.  
+In the same way, when the self **casts off** its blemishes or faults,  
+jñāna **is not** newly **created** in it  
+(for it **is** already there).  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Cuando la suciedad **se lava**,  
+la gema **brilla** por sí misma,  
+pero el brillo **no es** recién **producido**.  
+De la misma manera, cuando el yo **se deshace** de sus imperfecciones o faltas,  
+jñāna **no es** recién **creado** en él  
+(porque **ya** está ahí).
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यथा न क्रियते ज्योत्स्ना मलप्रक्षाळनान्मणेः । दोषप्रहाणान्न ज्ञानमात्मनः क्रियते तथा ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यथोदपान-करणात्  
+**क्रियते न** जलाम्बरम्+++(=जलावकाशप्रद आकाशः)+++ ।  
+सद् एव **नीयते व्यक्तिम्**  
+**अ-सतः सम्भवः** कुतः ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> यथोदपान+++(←कूपादि)+++-करणात्  
+**क्रियते न** जलाम्बरम्+++(=जलावकाशप्रद आकाशः)+++ ।  
+सद् एव **नीयते व्यक्तिम्**  
+**अ-सतः सम्भवः** कुतः ॥  
+</details>
+
+<details><summary>English</summary>
+
+> When a tank **is dug**,  
+water and space **are not** newly **created**.  
+What **is** already **present is** now **brought** to **manifestation**.  
+How can a thing which **did not exist** before **arise** anew? 
+</details>
+
+<details><summary>Español</summary>
+
+> Cuando se **cava** un tanque,  
+el agua y el espacio **no son** de nueva **creación**.  
+Lo que **está** ya **presente** ahora **traído** a **manifestación**.  
+¿Cómo **puede** algo que **no existía** antes **surgir** de nuevo?
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथोदपानकरणात् क्रियते न जलाम्बरम् । सदेव नीयते व्यक्तिमसतस्संभवः कुतः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तथा हेय-गुण-**ध्वंसाद्**  
+अवबोधादयो गुणाः ।
+**प्रकाश्यन्ते न जन्यन्ते**  
+नित्या एवात्मनो हि ते ।  
+(विष्णुधर्मः १०४-५५-५७)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तथा हेय-गुण-**ध्वंसाद्**  
+अवबोधादयो गुणाः ।
+**प्रकाश्यन्ते न जन्यन्ते**  
+नित्या एवात्मनो हि ते ।  
+(विष्णुधर्मः १०४-५५-५७)
+</details>
+
+<details><summary>English</summary>
+
+> So by the **casting off** of evil qualities,  
+good qualities like jnaana **shine** forth.  
+They **are not** newly **produced**,  
+for it **has been stated** (in the śāstras) that  
+they **are** eternal qualities of the self". 
+</details>
+
+<details><summary>Español</summary>
+
+> Entonces, al **deshacernos** de las malas cualidades,  
+buenas cualidades como jñaana **brillar**.  
+**No son** recién **producidos**,  
+porque **se ha dicho** (en los śāstras) que  
+son **son** cualidades eternas del yo".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हेयगुणध्वंसादवबोधादयो गुणाः । प्रकाश्यन्ते न जन्यन्ते नित्या एवात्मनो हि ते’’  
+(विष्णुधर्मः १०४-५५-५७)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु श्री-शौनक-भगवान् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+For Bhagavan Śaunaka says thus.
+</details>
+
+<details><summary>Español</summary>
+
+Porque Bhagavan Śaunaka **dice** así.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु श्री शौनकभगवाऩरुळिच्चॆय्दाऩ्। 
+</details>
+
+### आविर्-भाव-प्रयोगौचित्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-द्रव्यमुम्,  
+इदिऩ्-उडैय सर्व-विषय-विकासत्तुक्कु स्व-रूप--योग्यता-रूपैय् आऩ शक्तियुम्  
+
+नित्यङ्गळ् आगैयालेय्  
+अवऱ्ऱिल् आविर्-भावशब्दम् मुख्यम्।
+</details>
+
+<details><summary>English</summary>
+
+Since the substance called**** jñāna or knowledge  
+and its inherent power to **cover** all objects  
+**are** both eternal,  
+the right word to use **is 'manifestation'** -  
+(i.e.) it **is used** in its primary sense.
+</details>
+
+<details><summary>Español</summary>
+
+Dado que la sustancia **llamada** jñāna o **conocimiento**  
+y su poder inherente para **cubrir** todos los objetos  
+**son** ambos eternos,  
+la palabra correcta a **usar es 'manifestación'** -  
+(es decir,) **se usa** en su sentido primario.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानद्रव्यमुम् इदिऩुडैय सर्वविषयविकासत्तुक्कु स्वरूपयोग्यतारूपैयाऩ शक्तियुम् नित्यङ्गळागैयाले यवऱ्ऱिलाविर्भावशब्दम् मुख्यम्।
+</details>
 
 
 
-Here the hindrance to the attainment of the Lord is the Lord's will that the offender shall not enjoy Him. The hindrance to the upāya is the Lord's will that the offender shall not understand Him aright and do what is necessary to propitiate Him. The causes of experiencing disagreeable things consist in the will of God that the man shall experience the consequences or fruits of doing such karmas as displeased Him.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-विषय-विकासमुम्,  
+दुःख-निवृत्त्य्-आदिगळुम्,  
+सङ्कल्पादिगळुम्, कैङ्कर्यङ्गळुम्  
+आगन्तुकङ्गळ् आय् इरुक्क
+</details>
+
+<details><summary>English</summary>
+
+(It **is** true that) the **expansion** of jñāna or knowledge to **cover** all objects,  
+the **freedom** from pain, sorrow and the like,  
+The will **to do** what **is** good  
+and other such things and the forms of service or kaiṅkarya **arise** anew.  
+</details>
+
+<details><summary>Español</summary>
+
+(**Es** cierto que) la **expansión** de jñāna o **conocimiento** para **cubrir** todos los objetos,  
+la **libertad** del dolor, la tristeza y cosas similares,  
+La voluntad de **hacer** lo que **es** bueno  
+y otras cosas similares y las formas de servicio o kaiṅkarya **surgen** de nuevo.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-If all punishments are cancelled in the case of the aspirant for mukti, the effects of such punishments, namely, contact with acit and the like will stand cancelled by the Lord's grace which cancelled the punishments. Thereafter since there are no causes, there will be no such effects as disagreeable experiences. This is indicated in the sūtra: "The man who has attained  mokṣa will never return to saṁsāra, for the śrutis say so", These conclusions are within the reach of the knowledge of those very wise men who have studied Śrī Bhāṣya for a long time along with the traditions of the good.
+सर्वविषयविकासमुम्दुःखनिवृत्त्यादिगळुम् सङ्कल्पादिगळुम् कैङ्कर्यङ्गळुम् आगन्तुकङ्गळायिरुक्क
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवै निवृत्त-प्रतिबन्ध-स्वरूपोपाधिकङ्गळ् आगैयाले  
+
+मेल् मुऴुक्क नडक्कुम् बडि तोऱ्ऱुगैक्क् आगव्  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवै निवृत्तप्रतिबन्धस्वरूपोपाधिकङ्गळागैयाले मेल् मुऴुक्क नडक्कुम्बडि तोऱ्ऱुगैक्कागव्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल्
+
+> १३६‘‘आविस् स्युर् मम सहज-कैङ्कर्य-विधय’’(अष्टश्लोकी ३) 
+
+इत्य्-आदिगळाले आविर्-भाव-शब्दम् प्रयुक्तम् आगिऱदु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् १३६‘‘आविस्स्युर्मम सहजकैङ्कर्यविधय’’(अष्टश्लोकी ३) इत्यादिगळाले आविर्भावशब्दम् प्रयुक्तमागिऱदु। 
+</details>
 
 
+Still as their origin **depends** on the conditional factor (upādhi),  
+namely, the **removal** of **hindrances** thereto,  
 
-Thus (the words) "I will release thee from all sins" speak of the removal of the stream of all hindrances which are of the nature of either causes (the Lord's will to punish) or effects (avidyā and the like); it means the same thing as saying that the self will (then) have the manifestation (āvirbhāva) of the perfect enjoyment of Bhagavān. For Bhagavan Śaunaka says:-"When the dirt is washed away, the gem shines of itself, but the sheen is not newly produced. In the saine way, when the self casts off its blemishes or faults, jñāna is not newly created in it (for it is already there). When a tank is dug, water and space are not newly created. What is already present is now brought to manifestation. How can a thing which did not exist before arise anew? So by the casting off of evil qualities, good qualities like jnūna shine forth. They are not newly produced, for it has been stated (in the śāstras) that they are eternal qualities of the self". Since the substance called jñāna or knowledge and its inherent power to cover all objects are both eternal, the right word to use is 'manifestation' (i.e.) it is used in its primary sense.
+the word '**manifestation**' (āvirbhāva) **is used** in such places as the **performance** of different kinds of service  
 
-
-
-
-
-(It is true that) the expansion of jñāna or knowledge to cover all objects, the freedom from pain, sorrow and the like. The will to do what is good and other such things and the forms of service or kaiṅkarya arise anew. Still as their origin depends on the conditional factor (upādhi), namely, the removal of hindrances thereto, the word 'manifestation' (āvirbhāva) is used in such places as the performance of different kinds of service which are natural to myself manifest itself." This is in order to show that when the hindrances disappear, these services will automatically follow. (In the state of saṁsāra), the objects (in the Universe) which are all the glorious possessions of Bhagavān appear disagreeable in various ways or (only) slightly agreeable as a result of the conditioning factor (upādhi), namely, karma . In the state of mokṣa, they would all become agreeable (since karma  has disappeared), as agreeableness is their natural quality. Therefore in that state, too, the word 'manifestation' (of agreeableness) may justly be used. Therefore the words "I will release thee from all sins"make it evident that the self will have a new state in which all things will manifest their natural agreeableness to it.
+which **are** natural to myself manifest itself." This is in order to show that when the hindrances disappear, these services will automatically follow. (In the state of saṁsāra), the objects (in the Universe) which are all the glorious possessions of Bhagavān appear disagreeable in various ways or (only) slightly agreeable as a result of the conditioning factor (upādhi), namely, karma . In the state of mokṣa, they would all become agreeable (since karma  has disappeared), as agreeableness is their natural quality. Therefore in that state, too, the word 'manifestation' (of agreeableness) may justly be used. Therefore the words "I will release thee from all sins"make it evident that the self will have a new state in which all things will manifest their natural agreeableness to it.
 
 
 
