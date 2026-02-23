@@ -5130,7 +5130,7 @@ así también jñāna o conocimiento **no se produce** en el alma (de nuevo).
 
 <details><summary>English</summary>
 
-> When a tank or a well **is dug**,  
+> > When a tank or a well **is dug**,  
 the water and the ether (space) **are not created**  
 but simply **come into prominence** (**having** already **been** there).  
 It **is** only what already **exists** that **is manifested** clearly,  
@@ -5139,7 +5139,7 @@ How **can there be** the **production** of a thing which **did not exist** ?
 
 <details><summary>Español</summary>
 
-> Cuando **se cava** un tanque o un pozo,  
+> > Cuando **se cava** un tanque o un pozo,  
 el agua y el éter (espacio) **no son creados**  
 sino simplemente **llegar a la prominencia** (**haber estado** allí).  
 **es** solo lo que ya **existe** lo que **se manifiesta** claramente,  
