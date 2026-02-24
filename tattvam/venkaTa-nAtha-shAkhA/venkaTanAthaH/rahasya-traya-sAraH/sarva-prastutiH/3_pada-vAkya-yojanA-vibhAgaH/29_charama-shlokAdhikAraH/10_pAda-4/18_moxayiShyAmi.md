@@ -2270,7 +2270,8 @@ y **se preocupa** por prapatti.)
 आऩबिऩ्बु इदु सापेक्षमाय्क्कॊण्डु कीऴिल् श्लोकत्तिऱ्कु शेषमागिऱदऩ्ऱु।
 </details>
 
-
+### न कैवल्य-मात्रम्
+#### संशयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘सर्व-पापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऱ इव्व्-अळवाल्  
@@ -2303,11 +2304,142 @@ la **liberación** de los pecados **conduciría** al **alcance** de Bhagavān
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्व-पाप-निवृत्तिय् उण्ड् आये  
+भगवत्-प्राप्तिय् अऩ्ऱिक्के  
+स्वात्म-मात्रानुभव-रूपम् आऩ कैवल्यम् पॆऱुवारुम् इल्लैयो!
+</details>
+
+<details><summary>English</summary>
+
+> **Is it not possible** that,  
+with the **removal** or **pardon** of all sins,  
+the self **may attain** the state **called** kaivalya  
+in which it **enjoys** only itself  
+without **attaining** Bhagavān ? 
+</details>
+
+<details><summary>Español</summary>
+
+> **¿No es posible** que,  
+con la **eliminación** o **perdón** de todos los pecados,  
+el yo **puede alcanzar** el estado **llamado** kaivalya  
+en el que **disfruta** sólo de sí mismo  
+sin **alcanzar** Bhagavān?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वपाप निवृत्ति युण्डाये भगवत्प्राप्तियऩ्ऱिक्के स्वात्ममात्रानुभवरूपमाऩ कैवल्यम् पॆऱुवारुमिल्लैयो!
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भगवत्-प्राप्तियिऱ् काट्टिल्  
+वेऱु-पट्ट कैवल्यम्  
+> 
+> > ‘‘ऐहलौकिकम् ऐश्वर्यं  
+स्वर्गाद्यं पार-लौकिकम् ।  
+कैवल्यं भगवन्तञ् च  
+मन्त्रोऽयं **साधयिष्यति**॥’’  
+(नारदीय-कल्पः) 
+> 
+> ऎऩ्ऱु नारदादिगळाले सॊल्लप्-पट्टद् इऱे। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> 
+> 
+> > ‘‘ऐहलौकिकम् ऐश्वर्यं  
+स्वर्गाद्यं पार-लौकिकम् ।  
+कैवल्यं भगवन्तञ् च  
+मन्त्रोऽयं **साधयिष्यति**॥’’  
+(नारदीय-कल्पः) 
+> 
+> 
+</details>
+
+<details><summary>English</summary>
+
+> That there **is** a state **called** kaivalya,  
+has, it is well **known**, **been declared** in such treatises as Nāradīya kalpam,  
+where **we find** the śloka :-- 
+>
+>> "This mantra **enables** a man to **obtain** wealth and lordship in this world, svarga and the like in the world beyond,  
+kaivalya (the enjoyment of one's own self)  
+and the **enjoyment** of Bhagavān". 
+</details>
+
+<details><summary>Español</summary>
+
+> Que **existe** un estado **llamado** kaivalya,  
+**es** bien **conocido**, **ha sido declarado** en tratados como Nāradīya kalpam,  
+donde **encontramos** el śloka :-- 
+>
+>> "Este mantra **permite** a un hombre **obtener** riqueza y señorío en este mundo, svarga y similares en el mundo más allá,  
+kaivalya (el disfrute de uno mismo)  
+y el **disfrute** de Bhagavān".
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्राप्तियिऱ् काट्टिल् वेऱुबट्ट कैवल्यम् ‘‘ऐहलौकिकमैश्वर्यं स्वर्गाद्यं पारलौकिकम् । कैवल्यं भगवन्तञ्च मन्त्रोऽयं साधयिष्यति’’(नारदीय-कल्पः) ऎऩ्ऱु नारदादिगळाले सॊल्लप्पट्टदिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आळवन्दारुम् 
+>
+>> ‘‘ऐश्वर्याक्षर-याथात्म्य--  
+भगवच्-चरणार्थिनाम्’’  
+(गीतार्थ सङ्ग्रहम् १२) 
+>
+> ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> 
+>
+>> ‘‘ऐश्वर्याक्षर-याथात्म्य--  
+भगवच्-चरणार्थिनाम्’’  
+(गीतार्थ सङ्ग्रहम् १२) 
+>
+> 
+</details>
+
+<details><summary>English</summary>
+
+> Aḷavandār also **says**  
+>
+> > " To those who **desire** to have wealth and lordship,  
+the **enjoyment** of their own self dissociated from the body  
+and, likewise, the **performance** of kaiṅkarya or **service** at the feet of the Lord etc. etc." 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Aḷavandār también **dice**  
+>
+> > "A aquellos que **desean tener** riquezas y señorío,  
+el **disfrute** de su propio yo disociado del cuerpo  
+y, igualmente, la **realización** de kaiṅkarya o **servicio** a los pies del Señor, etc., etc."
+</details>
+
+<details><summary>मूलम्</summary>
+
+आळवन्दारुम् ‘‘ऐश्वर्याक्षरयाथात्म्यभगवच्चरणार्थिनां’’(गीतार्थ सङ्ग्रहम् १२) ऎऩ्ऱुम्, 
+</details>
 
 
 Here an **objection** that has no soundness in it may be raised to this effect:-
 
-**Is it not possible** that, with the removal or pardon of all sins, the self may attain the state called kaivalya in which it enjoys only itself without attaining Bhagavān ? That there is a state called kaivalya, has, it is well known, been declared in such treatises as Nāradīya kalpam, where we find the śloka :-- "This mantra enables a man to obtain wealth and lordship in this world, svarga and the like in the world beyond, kaivalya (the enjoyment of one's own self) and the enjoyment of Bhagavān". Aḷavandār also says " To those who desire to have wealth and lordship, the enjoyment of their own self dissociated from the body and, likewise, the performance of kaiṅkarya or service at the feet of the Lord etc. etc." He says also (elsewhere):  Without the grace  of Lakṣmī, the beloved consort of the Lord with the lotus eyes, we cannot have the valuable things desired (by men) in saṁsāra, the enjoyment of the disembodied self (in kaivalya) and the enjoyment of Bhagavān". In the Gadya, also, is found quoted (the sentence) in Jitante stotra - “Leaving all desired pleasures and the enjoyment of the (disembodied) self, I have reached Thy feet." This truth is also stated at length in Śrī Rāmānuja's GitāBhāṣya and such other writings. Therefore should not the freedom from all sins which results from the statement "I will release thee from all sins" be considered common to kaivalya and the enjoyment of Bhagavan ?".
+> He **says** also (elsewhere):  Without the grace  of Lakṣmī, the beloved consort of the Lord with the lotus eyes, we cannot have the valuable things desired (by men) in saṁsāra, the enjoyment of the disembodied self (in kaivalya) and the enjoyment of Bhagavān". In the Gadya, also, is found quoted (the sentence) in Jitante stotra - “Leaving all desired pleasures and the enjoyment of the (disembodied) self, I have reached Thy feet." This truth is also stated at length in Śrī Rāmānuja's GitāBhāṣya and such other writings. Therefore should not the freedom from all sins which results from the statement "I will release thee from all sins" be considered common to kaivalya and the enjoyment of Bhagavan ?".
 
 
 
