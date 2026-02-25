@@ -35,7 +35,7 @@ His eyes are as beautiful as lotuses.
 He is the god of me, my father, my grandfather and his father.  
 O ignorant mind! Worship him.  
 
-२८९३ नॆञ्जमे नल्लै नल्लै उन्नैप् पॆट्राल्  
+२८९३ नॆञ्जमे नल्लै नल्लै उन्नैप् पॆऱ्ऱाल्  
 ऎन् सॆय्योम्? इनि ऎन्न कुऱैविनम्?  
 मैन्दनै मलराळ् मणवाळनैत्  
 तुञ्जुम्बोदुम् विडादु तॊडर्गण्डाय् (४)  
@@ -56,7 +56,7 @@ You have found him.
 You will get whatever you want  
 without even having to think about it.  
 
-२८९५ नीयुम् नानुम् इन् नेर्निऱ्‌किल् मेल् मट्रोर्  
+२८९५ नीयुम् नानुम् इन् नेर्निऱ्‌किल् मेल् मऱ्ऱोर्  
 नोयुम् सार्गॊडान् नॆञ्जमे सॊन्नेन्  
 तायुम् तन्दैयुम् आय् इव् उलगिनिल्  
 वायुम् ईसन् मणिवण्णन् ऎन्दैये (६)  

@@ -56,7 +56,7 @@ and give you his grace so you will not be born again.
 
 ३१०५ कॊळ्ळुम् पयन् इल्लै कुप्पै किळर्त्तन्न सॆल्वत्तै  
 वळ्ळल् पुगऴ्न्दु नुम् वाय्मै इऴक्कुम् पुलवीर्गाळ्  
-कॊळ्ळक् कुऱैवु इलन् वेण्डिट्रु ऎल्लाम् तरुम् कोदु इल् ऎन्  
+कॊळ्ळक् कुऱैवु इलन् वेण्डिऱ्ऱु ऎल्लाम् तरुम् कोदु इल् ऎन्  
 वळ्ळल् मणिवण्णन् तन्नैक् कवि सॊल्ल वम्मिनो (५)  
 ३१०५। O poets,  
 you praise wicked people to get their corrupt wealth  
@@ -79,9 +79,9 @@ still they will go to Thirumaal,
 ornamented with a shining beautiful crown.  
 
 ३१०७ सेरुम् कॊडै पुगऴ् ऎल्लै इलानै ओर् आयिरम्  
-पेरुम् उडैय पिरानै अल्लाल् मट्रु यान् किलेन्  
+पेरुम् उडैय पिरानै अल्लाल् मऱ्ऱु यान् किलेन्  
 मारि अनैय कै माल् वरै ऒक्कुम् तिण् तोळ् ऎण्ड्रु  
-पारिल् ओर् पट्रैयैप् पच्चैप् पसुम् पॊय्गळ् पेसवे (७)  
+पारिल् ओर् पऱ्ऱैयैप् पच्चैप् पसुम् पॊय्गळ् पेसवे (७)  
 ३१०७। There is no limit to his generosity and fame.  
 He is praised with a thousand names.  
 I will not praise anyone but him.  
@@ -114,7 +114,7 @@ and you will attain moksha," and he grants me moksha.
 ३११० निण्ड्रुनिण्ड्रु पल नाळ् उय्क्कुम् इव् उडल् नीङ्गिप्पोय्  
 सॆण्ड्रु सॆण्ड्रु आगिलुम् कण्डु सन्मम् कऴिप्पान् ऎण्णि  
 ऒण्ड्रिऒण्ड्रि उलगम् पडैत्तान् कवि आयिनेऱ्‌कु  
-ऎण्ड्रुम् ऎण्ड्रुम् इनि मट्रॊरुवर् कवि एऱ्‌कुमे? (१०)  
+ऎण्ड्रुम् ऎण्ड्रुम् इनि मऱ्ऱॊरुवर् कवि एऱ्‌कुमे? (१०)  
 ३११०। This body stays in the world for many days  
 and after it leaves it returns to the world, taking many births.  
 I want only to praise him and compose poems about him  

@@ -121,7 +121,7 @@ If devotees every day praise Thirukkaṇṇapuram
 surrounded by stone walls  
 they will have no trouble in their lives.  
 
-३७८२ पाडु साराविनै पट्रु अऱ वेण्डुवीर्  
+३७८२ पाडु साराविनै पऱ्ऱु अऱ वेण्डुवीर्  
 माडम् नीडु गुरुगूर्च् चडगोबन् सॊल्  
 पाडलान तमिऴ् आयिरत्तुळ् इप्पत्तुम्  
 पाडि आडिप् पणिमिन् अवन् ताळ्गळे (११)  

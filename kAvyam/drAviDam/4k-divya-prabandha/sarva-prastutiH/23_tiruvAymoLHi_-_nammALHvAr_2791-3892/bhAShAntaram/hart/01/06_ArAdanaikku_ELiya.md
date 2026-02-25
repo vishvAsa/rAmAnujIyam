@@ -42,7 +42,7 @@ like those who are in frenzy.
 
 २८४९ अणङ्गु ऎन आडुम् ऎन् अङ्गम्  
 वणङ्गि वऴिबडुम् ईसन्  
-पिणङ्गि अमरर् पितट्रुम्  
+पिणङ्गि अमरर् पितऱ्ऱुम्  
 कुणङ्गॆऴु कॊळ्गैयिनाने (४)  
 २८४९। The gods in the sky worship and praise him  
 raving about his superior nature.  
@@ -61,7 +61,7 @@ He is nectar for those who keep him in their minds.
 
 २८५१ अमुदम् अमरर्गट्कु ईन्द  
 निमिर् सुडर् आऴि नॆडुमाल्  
-अमुदिलुम् आट्र इनियन्  
+अमुदिलुम् आऱ्ऱ इनियन्  
 निमिर् तिरै नीळ् कडलाने (६)  
 २८५१। Our god Neḍumaal carries a shining discus  
 and he gave nectar to the gods.  

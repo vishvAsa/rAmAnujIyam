@@ -64,7 +64,7 @@ I will not forget him ever and I will be happy.
 २९९६ मगिऴ् कॊळ् तॆय्वम् उलोकम् अलोकम्  
 मगिऴ् कॊळ् सोदि मलर्न्द अम्माने  
 मगिऴ् कॊळ् सिन्दै सॊल् सॆय्गै कॊण्डु ऎण्ड्रुम्  
-मगिऴ्वुट्रु उन्नै वणङ्ग वाराये (६)  
+मगिऴ्वुऱ्ऱु उन्नै वणङ्ग वाराये (६)  
 २९९६। You created the gods and make them happy.  
 You are the knowledge and ignorance of the world.  
 You are the light that gives joy to all.  
@@ -83,7 +83,7 @@ You have not granted me your grace so I may reach your feet.
 You have not entered my heart.  
 Come and stay in my heart always and in all situations.  
 
-२९९८ ऎक्कालत्तु ऎन्दैयाय् ऎन्नुळ् मन्निल् मट्रु  
+२९९८ ऎक्कालत्तु ऎन्दैयाय् ऎन्नुळ् मन्निल् मऱ्ऱु  
 ऎक् कालत्तिलुम् यादॊण्ड्रुम् वेण्डेन्  
 मिक्कार् वेद विमलर् विऴुङ्गुम् ऎन्  
 अक्कारक् कनिये उन्नै याने (८)  

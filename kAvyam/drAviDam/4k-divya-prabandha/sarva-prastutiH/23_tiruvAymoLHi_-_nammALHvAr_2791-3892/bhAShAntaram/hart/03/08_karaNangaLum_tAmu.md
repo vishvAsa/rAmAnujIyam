@@ -19,7 +19,7 @@ You have the color of a cloud.
 You are the tallest among all the gods in heaven."  
 
 ३०९१ नॆञ्जमे नीळ् नगर् आग इरुन्द ऎन्  
-तञ्जने तण् इलङ्गैक्कु इऱैयैच् चॆट्र  
+तञ्जने तण् इलङ्गैक्कु इऱैयैच् चॆऱ्ऱ  
 नञ्जने ञालम् कॊळ्वान् कुऱळ् आगिय  
 वञ्जने ऎन्नुम् ऎप्पोदुम् ऎन् वाचकमे (२)  
 ३०९१। You are my refuge and you stay in my heart.  
@@ -60,7 +60,7 @@ My ears want to hear the noise of the wings
 of Garuḍa that sound like the singing of the Sama Veda.  
 
 ३०९५ सॆविगळाल् आर निन् कीर्त्तिक् कनि ऎन्नुम्  
-कविगळे कालप् पण् तेन् उऱैप्पत् तुट्रु  
+कविगळे कालप् पण् तेन् उऱैप्पत् तुऱ्ऱु  
 पुवियिन्मेल् पॊन् नॆडुम् सक्करत्तु उन्नैये  
 अविवु इण्ड्रि आदरिक्कुम् ऎनदु आविये (६)  
 ३०९५। O lord, you carry a discus.  
@@ -108,7 +108,7 @@ You are strong and you ride on an eagle.
 When will the time come that I join with you?  
 
 ३०९९ पॊरुन्दिय मा मरुदिन् इडै पोय ऎम्  
-पॆरुन्दगाय् उन् कऴल् काणिय पेदुट्रु  
+पॆरुन्दगाय् उन् कऴल् काणिय पेदुऱ्ऱु  
 वरुन्दि नान् वाचकमालै कॊण्डु उन्नैये  
 इरुन्दु इरुन्दु ऎत्तनै कालम् पुलम्बुवने? (१०)  
 ३०९९। O great god,  

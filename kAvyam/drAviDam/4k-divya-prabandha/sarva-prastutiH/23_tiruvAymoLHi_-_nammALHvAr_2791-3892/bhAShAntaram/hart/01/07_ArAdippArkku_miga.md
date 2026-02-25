@@ -37,7 +37,7 @@ I drank and drank his grace
 and all my delusion went away.  
 
 २८६० मयर्वु अऱ ऎन् मनत्ते मन्निनान् तन्नै  
-उयर्विनैये तरुम् ऒण् सुडर्क् कट्रैयै  
+उयर्विनैये तरुम् ऒण् सुडर्क् कऱ्ऱैयै  
 अयर्वु इल् अमरर्गळ् आदिक् कॊऴुन्दै ऎन्  
 इसैविनै ऎन् सॊल्लि यान् विडुवेनो? (४)  
 २८६०। He entered my mind and took away all my delusions.  
@@ -91,7 +91,7 @@ whose arms are as lovely as bamboo.
 २८६५ अमरर् मुऴुमुदल् आगिय आदियै  
 अमरर्क्कु अमुदु ईन्द आयर् कॊऴुन्दै  
 अमर अऴुम्बत् तुऴावि ऎन् आवि  
-अमरत् तऴुविट्रु इनि अगलुम्मो? (९)  
+अमरत् तऴुविऱ्ऱु इनि अगलुम्मो? (९)  
 २८६५। He is the ancient one and the highest of the gods.  
 He is the tender child of the cowherds  
 and he gave nectar to the gods.  

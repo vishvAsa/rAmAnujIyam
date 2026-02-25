@@ -97,7 +97,7 @@ and it will bring you good fortune.
 
 ३०१० वऴक्कु ऎन निनैमिन् वल्विनै मूऴ्गादु  
 अऴक्कॊडि अट्टान् अमर् पॆरुङ्गोयिल्  
-मऴक् कळिट्रु इनम् सेर् मालिरुञ्जोलै  
+मऴक् कळिऱ्ऱु इनम् सेर् मालिरुञ्जोलै  
 तॊऴक् करुदुवदे तुणिवदु सूदे (९)  
 ३०१०। Do not think it is just a custom to circle the temple.  
 If you circle the temple in Thirumalirunjolai  

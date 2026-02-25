@@ -19,7 +19,7 @@ is where Thirumaal stays.
 ३८६१ पेरे उऱैगिण्ड्र पिरान् इण्ड्रु वन्दु  
 पेरेन् ऎण्ड्रु ऎन् नॆञ्जु निऱैयप् पुगुन्दान्  
 कार् एऴ् कडल् एऴ् मलै एऴ् उलगु उण्डुम्  
-आरा वयिट्रानै अडङ्गप् पिडित्तेने (२)  
+आरा वयिऱ्ऱानै अडङ्गप् पिडित्तेने (२)  
 ३८६१। The lord of Thiruperur came, entered my heart  
 and said,"I will not leave you."  
 Even though he swallowed all the seven clouds in the sky,  
@@ -52,7 +52,7 @@ that is pure and divine.
 
 ३८६४ वाने तरुवान् ऎनक्काय् ऎन्नोडु ऒट्टि  
 ऊन् एय् कुरम्बै इदनुळ् पुगुन्दु इण्ड्रु  
-ताने तडुमाट्र विनैगळ् तविर्त्तान्  
+ताने तडुमाऱ्ऱ विनैगळ् तविर्त्तान्  
 तेन् एय् पॊऴिल् तॆन् तिरुप्पेर् नगराने (५)  
 ३८६४। The god of southern Thiruperur  
 surrounded by groves dripping with honey  
@@ -62,7 +62,7 @@ He removed the karma that gives me confusion.
 ३८६५ तिरुप्पेर् नगरान् तिरुमालिरुञ्जोलैप्  
 पॊरुप्पे उऱैगिण्ड्र पिरान् इण्ड्रु वन्दु  
 इरुप्पेन् ऎण्ड्रु ऎन् नॆञ्जु निऱैयप् पुगुन्दान्  
-विरुप्पे पॆट्रु अमुदम् उण्डु कळित्तेने (६)  
+विरुप्पे पॆऱ्ऱु अमुदम् उण्डु कळित्तेने (६)  
 ३८६५। The god of Thiruperur  
 who stays in the hills of Thirumalirunjolai  
 came to me today, said, "I will stay with you!"  
@@ -71,7 +71,7 @@ I received his love
 and am blissful, as if I had drunk nectar.  
 
 ३८६६ उण्डु कळित्तेऱ्‌कु उम्बर् ऎन् कुऱै मेलैत्  
-तॊण्डु उगळित्तु अन्दि तॊऴुम् सॊल्लुप् पॆट्रेन्  
+तॊण्डु उगळित्तु अन्दि तॊऴुम् सॊल्लुप् पॆऱ्ऱेन्  
 वण्डु कळिक्कुम् पॊऴिल् सूऴ् तिरुप्पेरान्  
 कण्डु कळिप्प कण्णुळ् निण्ड्रु अगलाने? (७)  
 ३८६६। I am happy because I drank his nectar.  
@@ -99,7 +99,7 @@ truly entered my heart today.
 ३८६८ इण्ड्रु ऎन्नैप् पॊरुळाक्कि तन्नै ऎन्नुळ् वैत्तान्  
 अण्ड्रु ऎन्नैप् पुऱम्बोगप् पुणर्त्तदु ऎन् सॆय्वान्?  
 कुण्ड्रु ऎन्नत् तिगऴ् माडङ्गळ् सूऴ् तिरुप्पेरान्  
-ऒण्ड्रु ऎनक्कु अरुळ् सॆय्य उणर्त्तल् उट्रेने (९)  
+ऒण्ड्रु ऎनक्कु अरुळ् सॆय्य उणर्त्तल् उऱ्ऱेने (९)  
 ३८६८। He made me important today.  
 He entered my heart and I keep him there.  
 Why did he make me wander about,  
@@ -110,10 +110,10 @@ surrounded by shining hills that are like palaces
 gave me his grace  
 and I understood why I was hurt by my senses.  
 
-३८६९ उट्रेन् उगन्दु पणिसॆय्दु उन् पादम्  
-पॆट्रेन् ईदे इन्नम् वेण्डुवदु ऎन्दाय्  
-कट्रार् मऱैवाणर्गळ् सूऴ् तिरुप्पेराऱ्‌कु  
-अट्रार् अडियार् तमक्कु अल्लल् निल्लावे (१०)  
+३८६९ उऱ्ऱेन् उगन्दु पणिसॆय्दु उन् पादम्  
+पॆऱ्ऱेन् ईदे इन्नम् वेण्डुवदु ऎन्दाय्  
+कऱ्ऱार् मऱैवाणर्गळ् सूऴ् तिरुप्पेराऱ्‌कु  
+अऱ्ऱार् अडियार् तमक्कु अल्लल् निल्लावे (१०)  
 ३८६९। I served you and received the grace to worship your feet.  
 O my father, this is the only thing I ever want.  
 If devotees give up their desire for the world  

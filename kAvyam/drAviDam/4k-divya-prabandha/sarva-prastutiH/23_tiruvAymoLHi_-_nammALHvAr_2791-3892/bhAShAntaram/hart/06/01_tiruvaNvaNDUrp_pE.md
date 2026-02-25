@@ -62,7 +62,7 @@ who suffers and melts with love for him."
 ३३४७ उणर्त्तल् ऊडल् उणर्न्दु उडन् मेयुम् मड अन्नङ्गाळ्  
 तिणर्त्त वण्डल्गळ्मेल् सङ्गु सेरुम् तिरुवण्वण्डूर्  
 पुणर्त्त पून् दण् तुऴाय् मुडि नम् पॆरुमानैक् कण्डु  
-पुणर्त्त कैयिनराय् अडियेनुक्कुम् पोट्रुमिने (५)  
+पुणर्त्त कैयिनराय् अडियेनुक्कुम् पोऱ्ऱुमिने (५)  
 ३३४७। She says, "O lovely swans,  
 you know how it is to fight and make up with your mates  
 and you wander together happily without being apart from them.  
@@ -72,10 +72,10 @@ He stays in Thiruvaṇvaṇḍur
 where the waves bring conches and pile them on the shore.  
 Go and bow to him, fold your hands and praise him for me also."  
 
-३३४८ पोट्रि यान् इरन्देन् पुन्नैमेल् उऱै पूङ् गुयिल्गाळ्  
-सेट्रिल् वाळै तुळ्ळुम् तिरुवण्वण्डूर् उऱैयुम्  
-आट्रल् आऴि अङ्गै अमरर् पॆरुमानैक् कण्डु  
-माट्रम् कॊण्डरुळीर् मैयल् तीर्वदु ऒरुवण्णमे (६)  
+३३४८ पोऱ्ऱि यान् इरन्देन् पुन्नैमेल् उऱै पूङ् गुयिल्गाळ्  
+सेऱ्ऱिल् वाळै तुळ्ळुम् तिरुवण्वण्डूर् उऱैयुम्  
+आऱ्ऱल् आऴि अङ्गै अमरर् पॆरुमानैक् कण्डु  
+माऱ्ऱम् कॊण्डरुळीर् मैयल् तीर्वदु ऒरुवण्णमे (६)  
 ३३४८। She says, "O beautiful cuckoo birds.  
 You stay in the punnai trees.  
 I praise you and implore you.  
@@ -127,7 +127,7 @@ Talk to him secretly and tell him how I am suffering."
 
 ३३५२ वेऱुगॊण्डु उम्मै यान् इरन्देन् वॆऱि वण्डिनङ्गाळ्  
 तेऱु नीर्प् पम्बै वडबालैत् तिरुवण्वण्डूर्  
-माऱु इल् पोर् अरक्कन् मदिळ् नीऱु ऎऴच् चॆट्रु उगन्द  
+माऱु इल् पोर् अरक्कन् मदिळ् नीऱु ऎऴच् चॆऱ्ऱु उगन्द  
 एऱु सेवगनार्क्कु ऎन्नैयुम् उळळ् ऎन्मिन्गळे (१०)  
 ३३५२। She says, "O swarm of bees  
 flying around fragrant flowers,  
