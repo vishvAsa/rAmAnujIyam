@@ -2437,26 +2437,907 @@ y, igualmente, la **realización** de kaiṅkarya o **servicio** a los pies del 
 </details>
 
 
-Here an **objection** that has no soundness in it may be raised to this effect:-
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> He **says** also (elsewhere):  Without the grace  of Lakṣmī, the beloved consort of the Lord with the lotus eyes, we cannot have the valuable things desired (by men) in saṁsāra, the enjoyment of the disembodied self (in kaivalya) and the enjoyment of Bhagavān". In the Gadya, also, is found quoted (the sentence) in Jitante stotra - “Leaving all desired pleasures and the enjoyment of the (disembodied) self, I have reached Thy feet." This truth is also stated at length in Śrī Rāmānuja's GitāBhāṣya and such other writings. Therefore should not the freedom from all sins which results from the statement "I will release thee from all sins" be considered common to kaivalya and the enjoyment of Bhagavan ?".
+> > ‘‘संसृत्य्-अक्षर-वैष्णवाध्वसु’’  
+(चतुः-श्लोकी ३) 
+> 
+> ऎऩ्ऱुम् अरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘संसृत्य्-अक्षर-वैष्णवाध्वसु’’  
+(चतुः-श्लोकी ३) 
+>
+> 
+</details>
+
+<details><summary>English</summary>
+
+> He **says** also (elsewhere):   
+> 
+> > Without the grace  of Lakṣmī, the beloved consort of the Lord with the lotus eyes,  
+**we cannot have** the valuable things desired (by men) in saṁsāra, the enjoyment of the disembodied self (in kaivalya) and the enjoyment of Bhagavān". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Él **dice** también (en otro lugar):   
+> 
+> > Sin la gracia de Lakṣmī, la amada consorte del Señor con los ojos de loto,  
+**no podemos tener** las cosas valiosas **deseadas** (por los hombres) en saṁsāra, el **disfrute** del ser incorpóreo (en kaivalya) y el **disfrute** de Bhagavān".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘संसृत्यक्षरवैष्णवाध्वसु’’(चतुः-श्लोकी ३) ऎऩ्ऱुमरुळिच्चॆय्दार्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> गद्यत्तिलुम् 
+> 
+> > ‘‘सर्व-कामांश् च साक्षरान्’’  
+(शरणागति-गद्यम्) 
+> 
+> ऎऩ्गिऱ वाक्यम् उपात्तम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> 
+> 
+> > ‘‘सर्व-कामांश् च साक्षरान्’’  
+(शरणागति-गद्यम्) 
+> 
+> 
+</details>
+
+<details><summary>English</summary>
+
+> In the Gadya, also, **is found quoted** (the sentence) in Jitante stotra -  
+>
+> > “**Leaving** all **desired** pleasures and the **enjoyment** of the (disembodied) self,  
+**I have reached** Thy feet." 
+
+</details>
+
+<details><summary>Español</summary>
+
+> En Gadya, también, **se encuentra citado** (la oración) en Jitante stotra -  
+>
+> > “**Dejando** todos los placeres **deseados** y el **disfrute** del yo (incorpóreo),  
+**He llegado** a tus pies."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गद्यत्तिलुम् ‘‘सर्वकामांश्च साक्षरान्’’(शरणागति-गद्यम्) ऎऩ्गिऱ वाक्यमुपात्तमायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीगीता-भाष्यादिगळिलुम् इव्व्-अर्थम् प्रपञ्चितम्। 
+</details>
+
+<details><summary>English</summary>
+
+> This truth **is** also **stated** at length in Śrī Rāmānuja's GitāBhāṣya  
+and such other **writings**. 
+</details>
+
+<details><summary>Español</summary>
+
+> Esta verdad **es** también **expuesta** detalladamente en el GitāBhāṣya de Śrī Rāmānuja.  
+y otros **escritos** similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीगीताभाष्यादिगळिलुमिव्वर्थम् प्रपञ्चितम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयाल् ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऱ सर्व-पाप-निवृत्ति  
+कैवल्यत्तुक्कुम्, भगवत्-प्राप्तिक्कुम् पॊदुव् अऩ्ऱोव्? 
+
+ऎऩ्गै मन्द-चोद्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+> Therefore should not the **freedom** from all sins  
+which **results** from the statement  
+"**I will release** thee from all sins"  
+**be considered** common to kaivalya and the **enjoyment** of Bhagavan ?".
+
+(Such) an **objection** that has no soundness in it  
+**may be raised** to this effect.
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto, ¿la **libertad** de todos los pecados   
+que **resulta** de la declaración  
+"**Te liberaré** de todos los pecados"  
+>
+> **no debería ser considerado** común a kaivalya y el **disfrute** de Bhagavan?".
+
+(Tal) **objeción** que **no tiene** fundamento  
+**puede aumentarse** a este efecto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऱ सर्वपापनिवृत्ति कैवल्यत्तुक्कुम् भगवत्प्राप्तिक्कुम् पॊदुवऩ्ऱो वॆऩ्गै मन्दचोद्यम्। 
+</details>
+
+#### सर्वपापक्षयय् उत्तमम् फलम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+
+सर्व-पापङ्गळुङ् कऴिन्दाल्  
+
+स्वतः-प्राप्तम् आऩ भगवद्-अनुभवत्तैय्  
+इऴन्दु किडक्कैक्कुक् कारणम् इल्लामैयाले  
+
+अप्-पोदु भगवद्-अनुभव-रहितम् आऩ आत्म-मात्रानुभवम् घटियादु।
+</details>
+
+<details><summary>English</summary>
+
+The objection (stated so far) **is unsound** for the following reasons:-  
+
+If all sins **have disappeared**,  
+there **is no** reason  
+why the self **should be** without the **experience** of Bhagavān,  
+which **is** its natural and inherent right.  
+
+Therefore the state of the **enjoyment** of the mere self (kaivalya)  
+without the **enjoyment** of Bhagavān  
+**would not be** the goal of **attainment** then. 
+</details>
+
+<details><summary>Español</summary>
+
+The objection (stated so far) **is unsound** for the following reasons:-  
+
+If all sins **have disappeared**,  
+there **is no** reason  
+why the self **should be** without the **experience** of Bhagavān,  
+which **is** its natural and inherent right.  
+
+Por lo tanto, el estado de **disfrute** del mero yo (kaivalya)  
+sin el **disfrute** de Bhagavān  
+**no sería** la meta de **logro** entonces.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩे यॆऩ्ऩिल्; सर्वपापङ्गळुङ्गऴिन्दाल् स्वतःप्राप्तमाऩ भगवदनुभवत्तै यिऴन्दु किडक्कैक्कुक् कारणमिल्लामैयाले अप्पोदु भगवदनुभवरहितमाऩ आत्ममात्रानुभवम् घटियादु।
+</details>
+
+#### अपूर्ण-कर्म-क्षयः, कैवल्यत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्, अव्व्-+++(कैवल्य-)+++अवस्थैयिल्  
+ऐश्वर्यमुम्, जरा-मरणादि-दुःखङ्गळुम्  
+वरुगैक्क् ईड् आऩ कर्मङ्गळ् कऴिन्दु
+</details>
+
+<details><summary>English</summary>
+
+Hence in that state (kaivalya), (**we should understand** that)  
+the karma-s which **produce** wealth, and such **sufferings** as old age and death **have disappeared**  
+
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, en ese estado (kaivalya), (**debemos entender** que)  
+los karma-s que **producen** riqueza, y **sufrimientos** como la vejez y la muerte **han desaparecido**
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् अव्ववस्थैयिल् ऐश्वर्यमुम् जरामरणादि दुःखङ्गळुम् वरुगैक्कीडाऩ कर्मङ्गळ् कऴिन्दु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परिपूर्ण-भगवद्-अनुभवत्तुक्कुप् प्रतिबन्धकम् आऩ कर्मङ् कऴियादे किडक्किऱव् अळविले
+</details>
+
+<details><summary>English</summary>
+
+but that the karma which **is** a **hindrance** to the perfect **enjoyment** of Bhagavān  
+**has not** yet been **destroyed**.  
+</details>
+
+<details><summary>Español</summary>
+
+pero que el karma que **es** un **obstáculo** para el perfecto **disfrute** de Bhagavān  
+**aún no** ha sido **destruido**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परिपूर्णभगवदनुभवत्तुक्कुप् प्रतिबन्धकमाऩ कर्मङ्गऴियादे किडक्किऱवळविले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यं लब्ध्वा चापरं लाभं  
+मन्यते नाधिकं ततः’’  
+(गीता ६-२२) 
+
+ऎऩ्ऩुम् बडिय् इरुप्पद् ऒरु स्वात्मानुभवानन्द-विशेषम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यं लब्ध्वा चापरं लाभं  
+मन्यते नाधिकं ततः’’  
+(गीता ६-२२) 
+
+</details>
+
+<details><summary>English</summary>
+
+Of this state it **has been said** :-
+
+> "lo that experience of the self,  
+the self **feels** that  
+there **is nothing** greater than it",  
+
+
+This state (of kaivalya) **is** a particular kind of **enjoyment**  
+which **consists** in the **experience** of one's own disembodied self.  
+
+</details>
+
+<details><summary>Español</summary>
+
+De este estado **se ha dicho** :-
+
+> "**mira** esa experiencia del yo,  
+el yo **siente** que  
+**no hay nada** mayor que eso",  
+
+Este estado (de kaivalya) **es** un tipo particular de **disfrute**  
+que **consiste** en la **experiencia** del propio yo incorpóreo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः’’(गीता ६-२२) ऎऩ्ऩुम्बडि यिरुप्पदॊरु स्वात्मानुभवानन्दविशेषम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आत्मार्थी चेत् त्रयो ऽप्य् एते +++(योगाः)+++  
+तत्+++(=आत्म)+++-कैवल्यस्य साधकाः’’  
+(गीतार्थ सङ्ग्रहम् २७) 
+
+ऎऩ्ऱु सॊल्लुगिऱबडिये 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आत्मार्थी चेत् त्रयो ऽप्य् एते +++(योगाः)+++  
+तत्+++(=आत्म)+++-कैवल्यस्य साधकाः’’  
+(गीतार्थ सङ्ग्रहम् २७) 
+</details>
+
+<details><summary>English</summary>
+
+and also,  
+
+> “If a man **desires** this **enjoyment** of the (disembodied) self,  
+these three (karma  yoga, jñāna yoga and bhakti  yoga) **will enable** him to **attain** that extreme  
+which **is called** kaivalya". 
+</details>
+
+<details><summary>Español</summary>
+
+y también,  
+
+> “Si un hombre **desea** este **disfrute** del yo (incorpóreo),  
+estos tres (karma yoga, jñāna yoga y bhakti yoga) **le permitirán alcanzar** ese extremo.  
+que **se llama** kaivalya".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आत्मार्थी चेत्त्रयोऽप्येते तत्कैवल्यस्य साधकाः’’(गीतार्थ सङ्ग्रहम् २७) ऎऩ्ऱु सॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩक्कु शक्यम् आयिरुप्पद् ऒरु उपाय-विशेषत्ताले  
+सिद्धित्त इव्व्-अनुभवत्तै  
+
+अचिद्-अनुभवत्तोडुम् भगवद्-अनुभवत्तोडुन् तुवक्क् इल्लाद बडियाले  
+**कैवल्यम्** ऎऩ्ऱु बेर् इट्टार्गळ्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+As stated (in these ślokas), this **experience** in which  
+there **is** neither **contact** with acit or matter  
+nor **enjoyment** of Bhagavān  
+and which **results** from the **adoption** of a particular upāya within the man's ability  
+**was called** kaivalya,  
+because it **is** the **enjoyment** of the mere (kevala) self  
+without **association** with either acit or Bhagavān. 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se afirma** (en estos ślokas), esta **experiencia** en la que  
+**no hay** ni **contacto** con acit o materia  
+ni **disfrute** de Bhagavān  
+y que **resulta** de la **adopción** de un upāya particular dentro de la capacidad del hombre  
+**se llamaba** kaivalya,  
+porque **es** el **disfrute** del mero yo (kevala)  
+sin **asociación** ni con acit ni con Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩक्कु शक्यमायिरुप्पदॊरु उपायविशेषत्ताले सिद्धित्त इव्वनुभवत्तै अचिदनुभवत्तोडुम् भगवदनुभवत्तोडुन्दुवक्किल्लादबडियाले कैवल्यमॆऩ्ऱुबेरिट्टार्गळ्।
+</details>
 
 
 
-The objection (stated so far) is unsound for the following reasons:- " If all sins have disappeared, there is no reason why the self should be without the experience of Bhagavān, which is its natural and inherent right. Therefore the state of the enjoyment of the mere self (kaivalya) without the enjoyment of Bhagavān would not be the goal of attainment then. Hence in that state (kaivalya), (we should understand that) the karma s which produce wealth, and such sufferings as old age and death have disappeared but that the karma  which is a hindrance to the perfect enjoyment of Bhagavān has not yet been destroyed. This state (of kaivalya) is a particular kind of enjoyment which consists in the experience of one's own disembodied self. Of this state it has been said :-"lo that experience of the self, the self feels that there is nothing greater than it", and also, “If a man desires! this enjoyment of the (disembodied) self, these three (karma  yoga, jñāna yoga and bhakti  yoga) will enable him to attain that extreme which is called kaivalya". As stated (in these ślokas), this experience in which there is neither contact with acit or matter nor enjoyment of Bhagavān and which results from the adoption of a particular upāya within the man's ability was called kaivalya, because it is the enjoyment of the mere (kevala) self without association with either acit or Bhagavān. qq604
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-प्राप्तियिल् कैवल्य-शब्दम्  
+सर्वोपाधि+++(←कर्म)+++-निवृत्तियै निऩैक्किऱदु। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+(In some places) mukti or the attainment of Bhagavān **is called** by the word kaivalya  
+in order to **show** that all upādhis or conditioning factors  
+**have ceased** to **exist** in mukti. 
+</details>
+
+<details><summary>Español</summary>
+
+(En algunos lugares) mukti o el logro de Bhagavān **se llama** con la palabra kaivalya  
+para **mostrar** que todos los upādhis o factores condicionantes  
+**han dejado** de **existir** en mukti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्राप्तियिल् कैवल्यशब्दम् सर्वोपाधि निवृत्तियै निऩैक्किऱदु। 
+</details>
+
+#### मुक्तेर् गौण-प्रयोगाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-मात्रानुभव-विषयम् आग 
+
+> ‘‘स्वात्मानुभूतिर् इति या किल मुक्तिर् उक्ता’’ 
+(वरद-राज-स्तवः ८१) 
+
+इत्य्-आदिगळिल् प्रयुक्तम् आऩ मुक्ति-शब्दमुम्
+</details>
+
+<details><summary>English</summary>
+
+So also the word mukti **is** sometimes **employed** to **denote** the **experience** of the disembodied self  
+as in the śloka 
+
+> "O, Lord of Hastigiri, **I look** upon all the **enjoyments** of this world,  
+the title of Brahma, the high position of Rudra, and the experience of the disembodied self,  
+which **is called** mukti -  
+**I look** upon these as water **poured** in the soil **saturated** with salt.  
+**I know** the bliss of **rendering service** to Thee". 
+</details>
+
+<details><summary>Español</summary>
+
+Así también la palabra mukti **a veces **se **emplea** para **denotar** la **experiencia** del yo incorpóreo.  
+como en el śloka 
+
+> "Oh, Señor de Hastigiri, **miro** todos los **disfrutes** de este mundo,  
+el título de Brahma, la elevada posición de Rudra y la experiencia del yo incorpóreo,  
+que **se llama** mukti -  
+**Los considero** como agua **vertida** en el suelo **saturada** con sal.  
+**Conozco** la dicha de **prestarte servicio**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्ममात्रानुभवविषयमाग ‘‘स्वात्मानुभूतिरिति या किल मुक्तिरुक्ता’’(वरद-राज-स्तवः ८१) इत्यादिगळिल् प्रयुक्तमाऩ मुक्तिशब्दमुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विगतेच्छा-भय-क्रोधो  
+यस् सदा मुक्त एव स’’ +++(4)+++  
+(गीता ५-२८) 
+
+इत्य्-आदिगळिऱ् पोले निर्वाह्यम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विगतेच्छा-भय-क्रोधो  
+यस् सदा मुक्त एव स’’ +++(4)+++  
+(गीता ५-२८) 
+
+</details>
+
+<details><summary>English</summary>
+
+The word mukti **employed** here **should be explained** as in the śloka :- 
+
+> " The man who **is free** from desire, fear and anger -  
+he **is** always a mukta (even here in saṁsāra)." 
+
+It only **means** "He **resembles** a mukta".  
+</details>
+
+<details><summary>Español</summary>
+
+La palabra mukti **empleada** aquí **debe explicarse** como en el śloka:- 
+
+> "El hombre que **está libre** del deseo, del miedo y de la ira -  
+él **es** siempre un mukta (incluso aquí en saṁsāra)". 
+
+Sólo **significa** "Él **parece** un mukta".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘विगतेच्छाभयक्रोधो यस्सदा मुक्त एव स’’(गीता ५-२८) इत्यादिगळिऱ्पोले निर्वाह्यम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘जरा-मरण-मोक्षाय’’  
+(गीता ७-२९) 
+
+ऎऩ्ऱदुवुम्  
+देवर्गळ्-उडैय अमरत्व-व्यपदेशम् बोले आपेक्षिकम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘जरा-मरण-मोक्षाय’’  
+(गीता ७-२९) 
+
+
+</details>
+
+
+<details><summary>English</summary>
+
+It **may be asked** 
+
+> "**Is** it (kaivalya) **not stated** to be  
+**freedom** from old age, and death ? " 
+
+The answer **is** that  
+it **is** just like **calling** the gods immortal (amara).  
+(That **is** : they **are not** truly immortal.)  
+Compared with human beings,  
+they **may be said** to be relatively immortal,  
+for they **live** much longer. 
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede preguntar** 
+
+> "**¿Es** (kaivalya) **no declarado** ser  
+**libertad** de la vejez y la muerte? " 
+
+La **respuesta es** que  
+**es** como **llamar** a los dioses inmortales (amara).  
+(Eso **es**: ellos **no son** verdaderamente inmortales.)  
+En comparación con los seres humanos,  
+**se puede decir** que **son** relativamente inmortales,  
+porque **viven** mucho más.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘जरामरणमोक्षाय’’(गीता ७-२९) ऎऩ्ऱदुवुम् देवर्गळुडैय अमरत्वव्यपदेशम्बोले आपेक्षिकम्। 
+</details>
+
+##### क्रम-मुक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्रमेण मुक्ति-पर्यन्तम् आम् विषयत्तैप् पऱ्ऱच् चॊल्लुगिऱद् आगवुमाम्।
+</details>
+<details><summary>English</summary>
+
+Or it **may be explained** as **stating** that kaivalya **will lead**, in course of time, to mukti.  
+</details>
+
+<details><summary>Español</summary>
+
+O **puede explicarse** como **afirmando** que kaivalya **conducirá**, con el paso del tiempo, a mukti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्रमेण मुक्तिपर्यन्तमाम् विषयत्तैप् पऱ्ऱच् चॊल्लुगिऱदागवुमाम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि विभव-व्यूह-सालोक्यादि-मात्रत्तिल् मुक्ति-शब्दमुम् निर्वाह्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the same way **should be explained** the **use** of the word mukti  
+when it **is intended** to **mean** merely the **attainment** of the same abode or loka as that of the vibhavas or vyuhas and also sAmIpya and sārūpya.
+
+(NOTE: He who **worships** or **meditates** on the Vibhavas (avatars) or Vyuhas **will**, after **death**, go to the world of the Vibhavas or Vvuhas  
+in accordance with the principle called tat-kratu -  
+
+> As he **meditates**, so will he **be**. 
+
+From that world, after **meditation** on the Supreme Being,  
+he **will reach** Paramapada, which **is** true moksha.)
+
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera **debe explicarse** el **uso** de la palabra "mukti"  
+cuando **tiene la intención** de **significar** simplemente el **logro** de la misma morada o loka que la de los vibhavas o vyuhas y también sAmIpya y sārūpya.
+
+(NOTA: Aquel que **adora** o **medita** en los Vibhavas (avatares) o Vyuhas **irá**, después de la **muerte**, al mundo de los Vibhavas o Vvuhas.  
+de acuerdo con el principio **llamado** tat-kratu -  
+
+> En la forma en que **medita**, así **será**. 
+
+Desde ese mundo, después de **meditar** en el Ser Supremo,  
+él **alcanzará** Paramapada, que **es** verdadero moksha.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि विभवव्यूहसालोक्यादिमात्रत्तिल् मुक्तिशब्दमुम् निर्वाह्यम्। 
+</details>
 
 
 
-(In some places) mukti or the attainment of Bhagavān is called by the word kaivalya in order to show that all upādhis or conditioning factors have ceased to exist in mukti. So also the word mukti is sometimes employed to denote the experience of the disembodied self as in the śloka "O, Lord of Hastigiri," I look upon all the enjoyments of this world, the title of Brahma, the high position of Rudra, and the experience of the disembodied self, which is called mukti - I look upon these as water poured in the soil saturated with salt. I know the bliss of rendering service to Thee". The word mukti employed here should be explained as in the śloka :- " The man who is free from desire, fear and anger - he is always a mukta (aven here in saṁsāra). It only means "He resembles a mukta". It may be asked "Is it (kaivalya) not stated to be freedom from old age, and death ? " The answer is that it is just like calling the gods immortal (amara), (That is : they are not truly immortal.) Compared
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-with human beings, they may be said to be relatively immortal, for they live much longer. Or it may be explained as stating that kaivalya will lead, in course of time, to mukti. In the same way should be explained the use of the word mukti when it is intended to mean merely the attainment of the same abode or loka as that of [^f3] the vibhavas or vyuhas and also samipya and sārūpya.
+> ‘‘लोकेषु विष्णोर् **निवसन्ति** केचित्  
+समीपम् **ऋच्छन्ति** च केचिद् अन्ये ।  
+अन्ये तु रूपं सदृशं **भजन्ते**  
+**सायुज्यम्** अन्ये - स तु मोक्ष **उक्तः**॥’’ 
+(श्री भागवतम्) 
 
-[^f3]: Note (2)
+ऎऩ्ऱु नियमिक्कप् पट्टद् इऱे।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘लोकेषु विष्णोर् **निवसन्ति** केचित्  
+समीपम् **ऋच्छन्ति** च केचिद् अन्ये ।  
+अन्ये तु रूपं सदृशं **भजन्ते**  
+**सायुज्यम्** अन्ये - स तु मोक्ष **उक्तः**॥’’ 
+(श्री भागवतम्) 
+
+</details>
+
+<details><summary>English</summary>
+
+It **has been declared** that real mukti **is** different from the others  
+in the (following) śloka:-
+
+> "Some **live** in the worlds of Viṣṇu.  
+This **is** sālokyam (**living** in the same loka or world as Viṣṇu).  
+Some **reach** near Him. This is sāmipyam (**attaining** a place near Viṣṇu).  
+Some others **attain** a form **resembling** that of Viṣṇu.  
+This **is** sārupyam  
+(having a form **resembling** His).  
+Others still **attain** sayujyam  
+and it **is** this which **goes by** the name mokṣa". 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha declarado** que el verdadero mukti **es** diferente de los demás.  
+en el (**siguiente**) śloka:-
+
+> "Algunos **viven** en los mundos de Viṣṇu.  
+Esto **es** sālokyam (**vivir** en el mismo loka o mundo que Viṣṇu).  
+Algunos **se acercan** a Él. Esto es sāmipyam (**alcanzar** un lugar cerca de Viṣṇu).  
+Algunos otros **alcanzan** una forma **parecida** a la de Viṣṇu.  
+Esto **es** sarupyam  
+(que **tiene** una forma **parecida** a la suya).  
+Otros todavía **alcanzan** sayujyam  
+y **es** esto que **lleva** por el nombre mokṣa".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘लोकेषु विष्णोर्निवसन्ति केचित्समीपमृच्छन्ति च केचिदन्ये । अन्ये तु रूपं सदृशं भजन्ते सायुज्यमन्ये स तु मोक्ष उक्तः’’(श्री भागवतम्) ऎऩ्ऱु नियमिक्कप्पट्टदिऱे।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिऱ् सॊऩ्ऩ **सायुज्यम्**  
+परम-पदत्तिऱ् सॆऩ्ऱवऩ्-उडैय भोग-साम्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+The "sayujyam" **referred to** here  
+**is going** to Paramapada  
+and **enjoying** the same bliss as that of Bhagavān  
+(and this alone **is** real and true mukti). 
+</details>
+
+<details><summary>Español</summary>
+
+El "sayujyam" **mencionado** aquí 
+**es ir** a Paramapada  
+y **disfrutando** la misma bienaventuranza que la de Bhagavān  
+(y esto solo **es** mukti real y verdadero).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिऱ्सॊऩ्ऩसायुज्यम् परमपदत्तिऱ् सॆऩ्ऱवऩुडैय भोगसाम्यम्। 
+</details>
+
+
+##### कैवल्यम् अ-मुक्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"केवलात्मानुभवं नित्यम् अऩ्ऱ्" ऎऩ्ऩुम् इडमुम्  
+"साक्षान्-मोक्षम् अऩ्ऱ्" ऎऩ्ऩुम् इडमुम् 
+</details>
+
+<details><summary>English</summary>
+
+That the **experience** of the mere disembodied self **is not** eternal  
+and that it **is not** real mokṣa  
+(**are evident** from these ślokas) :- 
+</details>
+
+<details><summary>Español</summary>
+
+Que la **experiencia** del mero yo incorpóreo **no es** eterna  
+y que **no es** mokṣa real  
+(**son evidentes** de estos ślokas):-
+</details>
+
+<details><summary>मूलम्</summary>
+
+केवलात्मानुभवम् नित्यमऩ्ऱॆऩ्ऩुमिडमुम् साक्षान्मोक्षमऩ्ऱॆऩ्ऩुमिडमुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘चतुर्-विधा मम जना  
+**भक्ता** एव हि ते **श्रुताः** ।  
+तेषाम् एकान्तिनः श्रेष्ठास्  
+ते चैवानन्य-देवताः ॥
+अहम् एव गतिस् तेषां  
+निराशीः कर्म-कारिणाम् । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘चतुर्-विधा मम जना  
+**भक्ता** एव हि ते **श्रुताः** ।  
+तेषाम् एकान्तिनः श्रेष्ठास्  
+ते चैवानन्य-देवताः ॥  
+अहम् एव गतिस् तेषां  
+निराशीः कर्म-कारिणाम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+> "**There are** four kinds of people  
+who **are** mine  
+and who **are called** my devotees.  
+Among them, those who **are** exclusively **attached** to me (ekantins)  
+**are** the best,  
+for they **worship** no other deities.  
+To these men who **perform** their duties and rites  
+without any **attachment** or **desire** for their fruit,  
+**I am** alone the goal. 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Hay** cuatro tipos de personas  
+quienes **son** míos  
+y quienes **se llaman** mis devotos.  
+Entre ellos, aquellos que **están** exclusivamente **apegados** a mí (ekantins)  
+**son** los mejores,  
+porque ellos **adoran** a ninguna otra deidad.  
+A estos hombres que **realizan** sus deberes y ritos  
+sin ningún **apego** ni **deseo** por su fruto,  
+**Yo soy** solo la meta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘चतुर्विधा मम जना भक्ता एव हि ते श्रुताः । तेषामेकान्तिनः श्रेष्ठास्ते चैवानन्यदेवताः ॥  
+अहमेव गतिस्तेषां निराशीः कर्मकारिणाम् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ये तु शिष्टास् त्रयो भक्ताः  
+फल-कामा हि ते मताः ॥  
+सर्वे च्यवन-धर्माणः  
+प्रतिबुद्धस् तु मोक्ष-भाक्॥’’  
+(भारतम् शान्ति-पर्व ३५०-३३-३३५) 
+
+ऎऩ्गिऱ वचनत्ताले सिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ये तु शिष्टास् त्रयो भक्ताः  
+फल-कामा हि ते मताः ॥  
+सर्वे च्यवन-धर्माणः  
+प्रतिबुद्धस् तु मोक्ष-भाक्॥’’  
+(भारतम् शान्ति-पर्व ३५०-३३-३३५) 
+
+</details>
+
+<details><summary>English</summary>
+
+> The other three virtuous kinds of bhaktas or devotees **are said** to be **desirous** of certain ends.  
+All these (three) **are liable** to **fall** (from their high state)  
+but the jnani (who **is** an ekāntin) **attains** mokṣa." 
+</details>
+
+<details><summary>Español</summary>
+
+> **Se dice** que los otros tres tipos virtuosos de bhaktas o devotos **están deseosos** de ciertos fines.  
+Todos estos (tres) **están sujetos** a **caer** (de su estado elevado)  
+pero el jnani (que **es** un ekāntin) **alcanza** mokṣa."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ये तु शिष्टास्त्रयोभक्ताः फलकामाहि ते मताः ॥ सर्वे च्यवनधर्माणः प्रतिबुद्धस्तु मोक्षभाक्’’(भारतम् शान्ति-पर्व ३५०-३३-३३५) ऎऩ्गिऱ वचनत्ताले सिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मुच्येतार्तस् तथा रोगात्  
+श्रुत्वेमाम् आदितः कथाम् ।  
+जिज्ञासुर् +++(→आत्म-निष्ठः)+++ लभते भक्तिं  
+भक्तो भक्त-गतिं लभेत्॥’’  
+(भारतम् शान्ति-पर्व ३४८-८१) 
+
+ऎऩ्गैयाले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मुच्येतार्तस् तथा रोगात्  
+**श्रुत्वेमाम्** आदितः कथाम् ।  
+जिज्ञासुर् +++(→आत्म-निष्ठः)+++ **लभते** भक्तिं  
+भक्तो भक्त-गतिं **लभेत्**॥’’  
+(भारतम् शान्ति-पर्व ३४८-८१) 
+</details>
+
+<details><summary>English</summary>
+
+(Again it **is said**) : 
+
+> " **Having  listened** to this story,  
+the man who **has lost** his wealth  
+**will become free** from the sorrow due to it;  
+the man (jijnasu) who **wants to enjoy** his disembodied self  
+**will attain** bhakti or **devotion** (to the Lord),  
+the bhakta or devotee **will attain** mokṣa". 
+</details>
+
+<details><summary>Español</summary>
+
+(Otra vez **se dice**): 
+
+> " **Habiendo escuchado** esta historia,  
+
+el hombre que **ha perdido** su riqueza  
+**será libre** del dolor debido a ello;  
+
+el hombre (jijnasu) que **quiere disfrutar** de su yo incorpóreo  
+**alcanzará** bhakti o **devoción** (al Señor),  
+
+el bhakta o devoto **alcanzará** mokṣa".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मुच्येतार्तस्तथारोगात् श्रुत्वेमामादितः कथाम् । जिज्ञासुर्लभते भक्तिं भक्तो भक्तगतिं लभेत्’’(भारतम् शान्ति-पर्व ३४८-८१) ऎऩ्गैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्री-गीतैयिल् ‘‘जिज्ञासुः’’ ऎऩ्गिऱव् आत्म-निष्ठऩुम् क्रमेण ज्ञानिय् आम् ऎऩ्ऱ् उक्तम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+This amounts to **stating** that the jijnasuh **spoken of** in the Gita,  
+who **is desirous** of **experiencing** his self,  
+**will**, in course of time, **become** a jnani. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **equivale** a **afirmar** que el jijnasuh del que **se habla** en el Gita,  
+quien **está deseoso** de **experimentar** su yo,  
+**se**, con el paso del tiempo, **se convertirá** en un jnani.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्री गीतैयिल् ‘‘जिज्ञासुः’’ ऎऩ्गिऱवात्मनिष्ठऩुम् क्रमेण ज्ञानियामॆऩ्ऱुक्तमायिऱ्ऱु। 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-It has been declared that real mukti is different from the others in the (following) śloka:-"Some live  in the worlds of Viṣṇu. This is sālokyam (living in the same loka or world as Viṣṇu). Some reach near Him. This is sāmipyam (attaining a place near Viṣṇu). Some others attain a form resembling that of Viṣṇu. This is sārupyam (having a form resembling His). Others still attain sayujyam and it is this which goes by the name mokṣa". The sayujyam referred to here is going to Paramapada and enjoying the same bliss as that of Bhagavān (and this alone is real and true mukti). That the experience of the mere disembodied self is not eternal and that it is not real mokṣa are evident from these ślokas :- "There are four kinds of people who are mine and who are called my devotees. Among them, those who are exclusively attached to me (ekantins) are the best, for they worship no other deities. To these men who perform their duties and rites without any attachment or desire for their fruit. I am alone the goal. The other three virtuous kinds of bhaktas or devotees are said to be desirous of certain ends. All these (three) are liable to fall (from their high state) but the jnani (who is an ekāntin attains mokṣa " (Again it is said) : " Having  listened to this story, the man who has lost his wealth will become free from the sorrow due to it; the man (jijnasu) who wants to enjoy his disembodied self will attain bhakti  or devotion (to the Lord), the bhakta or devotee will attain mokṣa". This amounts to stating that the jijnasuh spoken of in the Gita, who is desirous of experiencing his self, will, in course of time, become a jnani. It has been said :- “When the attachment to the pleasures of life ceases, the self, which is different from the body and which is happy, will become manifest. Without being caught (in this state) viz, kaivalya, if you want to realise that your essential nature consists in being śeṣa to Bhagavān and in being eternal, get hold of Bhagavān and then give up the pleasures of worldly objects." In this (Tamil verse) the enjoyment of Bhagavān is said to be eternal and the experience of the disembodied self, which is distinguished fronı it, is indirectly stated to be not eternal. (It is true that) the experience of the measureless self is described as imperishable or without changes like diminution or increase; - like the statement of the fruit of the rite called cāturmāsya being imperishable; it only means that it will last for a very long time (i.e.) many and many a kalpa (and not that it is eternal). This locality where the self enjoys itself is thus described :-- " The place called the amṛtam of yogis is the place to which those who want to enjoy their own self go." That this locality is not Paramapada is also evident from another siloka in the very same context: "Those who are yogins and who, being ekāntins, are constantly meditating on Brahman, reach that supreme abode which the eternal suris are gazing at. (It is clear from this, that the ekāntin who is desirous of attaining Bhagavān is here stated to go to a place other than that (to which the man who is desirous of enjoying his self would go) and that it is a place gazed at by the suris,
+> ’’मऩ्ऩुऱिल्’’(तिरुवाय्मॊऴि १-२-५) 
+
+ऎऩ्ऱु भगवद्-अनुभवत्तै नित्यम् ऎऩ्गैयालुम्  
+इदुक्कु व्यवच्छेद्यमागच् चॊल्लुमात्ममात्रानुभवम् नित्यमऩ्ऱॆऩ्ऩुमिडम् व्यञ्जितम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’मऩ्ऩुऱि’’(तिरुवाय्मॊऴि १-२-५)लॆऩ्ऱु भगवदनुभवत्तै नित्यमॆऩ्गैयालुम् इदुक्कु व्यवच्छेद्यमागच् चॊल्लुमात्ममात्रानुभवम् नित्यमऩ्ऱॆऩ्ऩुमिडम् व्यञ्जितम्।
+</details>
+
+
+
+It has been said :- “When the attachment to the pleasures of life ceases, the self, which is different from the body and which is happy, will become manifest. Without being caught (in this state) viz, kaivalya, if you want to realise that your essential nature consists in being śeṣa to Bhagavān and in being eternal, get hold of Bhagavān and then give up the pleasures of worldly objects." In this (Tamil verse) the enjoyment of Bhagavān is said to be eternal and the experience of the disembodied self, which is distinguished fronı it, is indirectly stated to be not eternal. (It is true that) the experience of the measureless self is described as imperishable or without changes like diminution or increase; - like the statement of the fruit of the rite called cāturmāsya being imperishable; it only means that it will last for a very long time (i.e.) many and many a kalpa (and not that it is eternal). This locality where the self enjoys itself is thus described :-- " The place called the amṛtam of yogis is the place to which those who want to enjoy their own self go." That this locality is not Paramapada is also evident from another siloka in the very same context: "Those who are yogins and who, being ekāntins, are constantly meditating on Brahman, reach that supreme abode which the eternal suris are gazing at. (It is clear from this, that the ekāntin who is desirous of attaining Bhagavān is here stated to go to a place other than that (to which the man who is desirous of enjoying his self would go) and that it is a place gazed at by the suris,
 
 
 
