@@ -7,8 +7,8 @@ title = "०२ तिरुवनन्दबुरत्तैच् चेर
 सॆय्यलाम् ऎण्ड्रु कूऱुदल् (तिरुवनन्दबुरम्)  
 
 ३७९४ कॆडुम् इडर् आय ऎल्लाम् केसवा ऎन्न नाळुम्  
-कॊडुविनै सॆय्युम् कूट्रिन् तमर्गळुम् कुऱुगगिल्लार्  
-विडम् उडै अरविल् पळ्ळि विरुम्बिनान् सुरुम्बु अलट्रुम्  
+कॊडुविनै सॆय्युम् कूऱ्ऱिन् तमर्गळुम् कुऱुगगिल्लार्  
+विडम् उडै अरविल् पळ्ळि विरुम्बिनान् सुरुम्बु अलऱ्ऱुम्  
 तडम् उडै वयल् अनन्दबुरनगर् पुगुदुम् इण्ड्रे (१)  
 ३७९४। If you say, "Kesavan!" all your troubles will disappear.  
 The cruel messengers of Yama will not be able to approach you.  
@@ -71,10 +71,10 @@ O devotees, listen to what I say.
 We should go and approach Govindan.  
 He took away the trouble of Shiva, the father of Kumaran.  
 
-३८०० तुडैत्त कोविन्दनारे उलगु उयिर् तेवुम् मट्रुम्  
+३८०० तुडैत्त कोविन्दनारे उलगु उयिर् तेवुम् मऱ्ऱुम्  
 पडैत्त ऎम् परम मूर्त्ति पाम्बु अणैप् पळ्ळि कॊण्डान्  
 मडैत्तलै वाळै पायुम् वयल् अणि अनन्दबुरम्  
-कडैत्तलै सीय्क्कप्पॆट्राल् कडुविनै कळैयलामे (७)  
+कडैत्तलै सीय्क्कप्पॆऱ्ऱाल् कडुविनै कळैयलामे (७)  
 ३८००। Govindan removes the troubles of his devotees.  
 The highest god sleeps on a snake bed  
 and created all the creatures of the world and the gods.  

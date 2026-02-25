@@ -69,7 +69,7 @@ because she loves the highest god of gods
 ३४०३ कऱ्‌पगक् का अन नल् पल तोळऱ्‌कु  
 पॊन् सुडर्क् कुण्ड्रु अन्न पून् दण् मुडियऱ्‌कु  
 नल् पल तामरै नाळ् मलर्क् कैयऱ्‌कु ऎन्  
-विल् पुरुवक्कॊडि तोट्रदु मॆय्ये (६)  
+विल् पुरुवक्कॊडि तोऱ्ऱदु मॆय्ये (६)  
 ३४०३। His many arms are like the branches of the Karpaga garden.  
 He wears a beautiful crown like a shining hill.  
 He has lovely lotus-like hands.  
@@ -98,8 +98,8 @@ because she loves him.
 
 ३४०६ माण्बु अमै कोलत्तु ऎम् मायक् कुऱळऱ्‌कु  
 सेण् सुडर्क् कुण्ड्रु अन्न सॆञ्जुडर् मूर्त्तिक्कु  
-काण् पॆरुम् तोट्रत्तु ऎम् कागुत्त नम्बिक्कु ऎन्  
-पूण् पुनै मॆन्मुलै तोट्रदु पॊऱ्‌पे (९)  
+काण् पॆरुम् तोऱ्ऱत्तु ऎम् कागुत्त नम्बिक्कु ऎन्  
+पूण् पुनै मॆन्मुलै तोऱ्ऱदु पॊऱ्‌पे (९)  
 ३४०६। He took the form of a lovely magic dwarf  
 and cheated king Mahabali.  
 His shines like a lustrous hill.  

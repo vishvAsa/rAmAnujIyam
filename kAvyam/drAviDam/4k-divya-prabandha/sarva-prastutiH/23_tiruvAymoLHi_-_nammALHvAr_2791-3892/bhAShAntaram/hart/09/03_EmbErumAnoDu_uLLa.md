@@ -19,7 +19,7 @@ and he is truly Narayanan, our dear lord.
 ३६९६ अवने अगल् ञालम् पडैत्तु इडन्दान्  
 अवने अह्दु उण्डु उमिऴ्न्दान् अळन्दान्  
 अवने अवनुम् अवनुम् अवनुम्  
-अवने मट्रु ऎल्लामुम् अऱिन्दनमे (२)  
+अवने मऱ्ऱु ऎल्लामुम् अऱिन्दनमे (२)  
 ३६९६। He created the wide world and split it open.  
 He swallowed the world and spit it out.  
 He measured the world.  
@@ -39,7 +39,7 @@ and know him as the remedy for any sickness.
 He gave me the fortune of knowing him truly.  
 
 ३६९८ मरुन्दे नङ्गळ् पोग मगिऴ्च्चिक्कु ऎण्ड्रु  
-पॆरुम् तेवर् कुऴाङ्गळ् पितट्रुम् पिरान्  
+पॆरुम् तेवर् कुऴाङ्गळ् पितऱ्ऱुम् पिरान्  
 करुम् तेवन् ऎम्मान् कण्णन् विण् उलगम्  
 तरुम् तेवनैच् चोरेल् कण्डाय् मनमे (४)  
 ३६९८। The great group of gods prattle and praise him  

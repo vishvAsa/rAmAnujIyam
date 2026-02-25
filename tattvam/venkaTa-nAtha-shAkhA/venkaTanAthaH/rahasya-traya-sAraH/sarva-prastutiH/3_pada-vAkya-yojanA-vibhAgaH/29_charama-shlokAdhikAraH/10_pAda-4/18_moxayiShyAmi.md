@@ -22,6 +22,8 @@ EL SIGNIFICADO DE LA PALABRA MOKṢAYIṢYĀMI (TE HARÉ LIBRE) página 595
 ऎऩ्ऱ बडि। 
 </details>
 
+
+
 <details><summary>English</summary>
 
 The word mokṣayishyami ('I will set thee free from all sins') means 
@@ -125,19 +127,6 @@ porque **se aplican** a diferentes casos.
 ऎऩ्ऱाऱ्पोले 
 </details>
 
-<details><summary>नीलमेघः (सं)</summary>
-
-‘‘न क्षमामि’’ 
-
-
-> ‘‘पद्म-पत्र-शतेनापि  
-न क्षमामि वसुन्धरे,  
-उपचार-शतेनापि  
-न क्षमामि वसुन्धरे’’  
-(वराहपुराणम्) 
-
-सॊल्लुगिऱ पोलिय्+++(=अनुकृतिमात्रम्)+++ आऩ प्रायश्चित्तान्तरङ्गळाल् क्षमियेऩ् ऎऩ्ऱबडि।
-</details>
 
 <details><summary>English</summary>
 
@@ -177,6 +166,22 @@ por formas tan triviales de **expiación**
 <details><summary>मूलम्</summary>
 
 ‘‘न क्षमामि’’ ऎऩ्ऱदु ‘‘पद्मपत्रशतेनापि न क्षमामि वसुन्धरे, उपचारशतेनापि न क्षमामि वसुन्धरे’’(वराहपुराणम्) ऎऩ्ऱाऱ्पोले सॊल्लुगिऱ बोलियाऩ प्रायश्चित्तान्तरङ्गळाल् क्षमियेऩ् ऎऩ्ऱबडि।
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘न क्षमामि’’ 
+
+
+> ‘‘पद्म-पत्र-शतेनापि  
+न क्षमामि वसुन्धरे,  
+उपचार-शतेनापि  
+न क्षमामि वसुन्धरे’’  
+(वराहपुराणम्) 
+
+सॊल्लुगिऱ पोलिय्+++(=अनुकृतिमात्रम्)+++ आऩ प्रायश्चित्तान्तरङ्गळाल् क्षमियेऩ् ऎऩ्ऱबडि।
+
 </details>
 
 
@@ -3117,7 +3122,7 @@ y **disfrutando** la misma bienaventuranza que la de Bhagavān
 </details>
 
 
-##### कैवल्यम् अ-मुक्तिः
+#### कैवल्यम् अ-मुक्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3321,23 +3326,164 @@ quien **está deseoso** de **experimentar** su yo,
 </details>
 
 
-
+#### कैवल्यम् अ-स्थिरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ’’मऩ्ऩुऱिल्’’(तिरुवाय्मॊऴि १-२-५) 
+> ("अऱ्ऱ् अदु **पऱ्ऱ्**" ऎऩिल्, **उऱ्ऱदु**+++(=भवति)+++ वीड्+++(=[कैवल्य-]मुक्तिं)+++ उयिर्+++(=प्राणाः→आत्मा)+++,  
+**सॆऱ्ऱ्**+++(=अवज्ञाय)+++ अदु,) मऩ्ऩ्+++(=स्थिरं)+++ **उऱिल्**+++(=भाविते)+++ (अऱ्ऱ् इऱै+++(=ईश्वरं)+++ **पऱ्ऱे**+++(=प्राप्तिः)+++।)
+(तिरुवाय्मॊऴि १-२-५) 
 
 ऎऩ्ऱु भगवद्-अनुभवत्तै नित्यम् ऎऩ्गैयालुम्  
-इदुक्कु व्यवच्छेद्यमागच् चॊल्लुमात्ममात्रानुभवम् नित्यमऩ्ऱॆऩ्ऩुमिडम् व्यञ्जितम्।
+</details>
+
+<details><summary>English</summary>
+
+It **has been said** :- 
+
+> “When the **attachment** to the **pleasures** of life **ceases**,  
+the self, which **is different** from the body  
+and which **is** happy,  
+**will become manifest**.  
+Without **being caught** (in this state) viz, kaivalya,  
+if you **want to realise** that  
+your essential nature **consists** in **being** śeṣa to Bhagavān  
+and in **being eternal**,  
+get **hold** of Bhagavān  
+and then **give up** the pleasures of worldly objects." 
+
+In this (Tamil verse) the **enjoyment** of Bhagavān **is said to be** eternal  
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho** :- 
+
+> “Cuando el **apego** a los **placeres** de la vida **cesa**,  
+el yo, que **es diferente** del cuerpo  
+y que **es** feliz,  
+**se hará manifiesto**.  
+>
+> Sin **ser atrapado** (en este estado), es decir, kaivalya,  
+si **quieres darte cuenta** de eso que  
+tu naturaleza esencial **consiste** en **ser** śeṣa para Bhagavān  
+y en **ser eterno**,  
+**agarrar apoderarse** de Bhagavān  
+y luego **renunciar** a los placeres de los objetos mundanos". 
+
+En este (verso tamil) se dice que el **disfrute** de Bhagavān **es** eterno.
 </details>
 
 <details><summary>मूलम्</summary>
 
-’’मऩ्ऩुऱि’’(तिरुवाय्मॊऴि १-२-५)लॆऩ्ऱु भगवदनुभवत्तै नित्यमॆऩ्गैयालुम् इदुक्कु व्यवच्छेद्यमागच् चॊल्लुमात्ममात्रानुभवम् नित्यमऩ्ऱॆऩ्ऩुमिडम् व्यञ्जितम्।
+’’मऩ्ऩुऱि’’(तिरुवाय्मॊऴि १-२-५)लॆऩ्ऱु भगवदनुभवत्तै नित्यमॆऩ्गैयालुम् इदुक्कु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदुक्कु व्यवच्छेद्यम् आगच् चॊल्लुम् आत्म-मात्रानुभवम्  
+नित्यम् अऩ्ऱ् 
+
+ऎऩ्ऩुम् इडम् व्यञ्जितम्।
+</details>
+
+<details><summary>English</summary>
+
+and the **experience** of the disembodied self,  
+which **is distinguished** from it,  
+**is** indirectly **stated** to be not eternal. 
+</details>
+
+<details><summary>Español</summary>
+
+y la **experiencia** del yo incorpóreo,  
+que **se distingue** de ella,  
+**se** indirectamente **se dice** que no es eterno.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु व्यवच्छेद्यमागच् चॊल्लुमात्ममात्रानुभवम् नित्यमऩ्ऱॆऩ्ऩुमिडम् व्यञ्जितम्।
+</details>
+
+##### अन्यथोद्गाराः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु 
+
+> ’’इऱुदि कूडाव्’’  
+(तिरुवाय्मॊऴि ६-९-१०)  
+
+इत्य्-आदिगळिल् "नाशम् इल्लैय्" ऎऩ्गिऱ पासुरमुम् 
+</details>
+
+<details><summary>English</summary>
+
+(It is true that) the **experience** of the **measureless** self **is described** as **imperishable** or without changes like **diminution** or **increase** -  
+</details>
+
+<details><summary>Español</summary>
+
+(Es cierto que) la **experiencia** del yo **inmensurable se describe** como **imperecedera** o sin cambios como **disminución** o **aumento** -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु ’’इऱुदि कूडाव्’’(तिरुवाय्मॊऴि ६-९-१०)  इत्यादिगळिल् नाशमिल्लैयॆऩ्गिऱ पासुरमुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चातुर्-मास्यादि-कर्म-फल-विशेषङ्गळिल् अक्षय्यत्वोक्तिपोले 
+</details>
+
+<details><summary>English</summary>
+
+like the **statement** of the fruit of the rite called cāturmāsya **being imperishable**; 
+</details>
+
+<details><summary>Español</summary>
+
+como la **afirmación** del fruto del rito **llamado** cāturmāsya **siendo imperecedero**;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चातुर्मास्यादिकर्मफलविशेषङ्गळिल् अक्षय्यत्वोक्तिपोले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+’’ऎऩैय्+++(=कियत्)+++ ऊऴिय्+++(=चिरायत्)+++” ऎऩ्गिऱव् अतिचिर-काल-स्थायित्वाभिप्रायम्।
+</details>
+
+<details><summary>English</summary>
+
+it only **means** that  
+**it will last** for a very long time  
+(i.e.) many and many a kalpa  
+(and not that it **is eternal**). 
+</details>
+
+<details><summary>Español</summary>
+
+sólo **significa** que  
+**durará** por mucho tiempo  
+(**es decir**) muchos y muchos kalpa  
+(y **no es** que **sea eterno**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’ऎऩैयूऴि” यॆऩ्गिऱ वतिचिरकालस्थायित्वाभिप्रायम्।
 </details>
 
 
 
-It has been said :- “When the attachment to the pleasures of life ceases, the self, which is different from the body and which is happy, will become manifest. Without being caught (in this state) viz, kaivalya, if you want to realise that your essential nature consists in being śeṣa to Bhagavān and in being eternal, get hold of Bhagavān and then give up the pleasures of worldly objects." In this (Tamil verse) the enjoyment of Bhagavān is said to be eternal and the experience of the disembodied self, which is distinguished fronı it, is indirectly stated to be not eternal. (It is true that) the experience of the measureless self is described as imperishable or without changes like diminution or increase; - like the statement of the fruit of the rite called cāturmāsya being imperishable; it only means that it will last for a very long time (i.e.) many and many a kalpa (and not that it is eternal). This locality where the self enjoys itself is thus described :-- " The place called the amṛtam of yogis is the place to which those who want to enjoy their own self go." That this locality is not Paramapada is also evident from another siloka in the very same context: "Those who are yogins and who, being ekāntins, are constantly meditating on Brahman, reach that supreme abode which the eternal suris are gazing at. (It is clear from this, that the ekāntin who is desirous of attaining Bhagavān is here stated to go to a place other than that (to which the man who is desirous of enjoying his self would go) and that it is a place gazed at by the suris,
+This locality where the self enjoys itself is thus described :-- " The place called the amṛtam of yogis is the place to which those who want to enjoy their own self go." That this locality is not Paramapada is also evident from another siloka in the very same context: "Those who are yogins and who, being ekāntins, are constantly meditating on Brahman, reach that supreme abode which the eternal suris are gazing at. (It is clear from this, that the ekāntin who is desirous of attaining Bhagavān is here stated to go to a place other than that (to which the man who is desirous of enjoying his self would go) and that it is a place gazed at by the suris,
 
 
 

@@ -122,7 +122,7 @@ shining like a flood of light."
 मै कॊळ् माडत् तिरुक्कुऱुङ्गुडि  
        नम्बियै नान् कण्डबिन्  
 सॆय्य तामरैक् कण्णुम् अल्गुलुम्  
-       सिट्रिडैयुम् वडिवुम्  
+       सिऱ्ऱिडैयुम् वडिवुम्  
 मॊय्य नीळ् कुऴल् ताऴ्न्द तोळ्गळुम्  
        पावियेन् मुन् निऱ्‌कुमे (८)  
 ३२८४। She says, "O mothers, you are upset  
@@ -170,12 +170,12 @@ surrounded by a flood-like crowd of gods worshipping him.
 I don’t know how it happened—my heart rejoices."  
 
 ३२८७ अऱिवु अरिय पिरानै  
-       आऴि अङ्गैयनैये अलट्रि  
+       आऴि अङ्गैयनैये अलऱ्ऱि  
 नऱिय नन् मलर् नाडि  
        नन् गुरुगूर्च् चडगोबन् सॊन्न  
 कुऱि कॊळ् आयिरत्तुळ् इवै पत्तुम्  
        तिरुक्कुऱुङ्गुडि अदन्मेल्  
-अऱियक् कट्रु वल्लार्  
+अऱियक् कऱ्ऱु वल्लार्  
        वैट्टवर् आऴ् कडल् ञालत्तुळ्ळे (११)  
 ३२८७। Sadagopan of rich Thirukurungur,  
 composed a thousand pasurams on the lord  

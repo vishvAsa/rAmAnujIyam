@@ -118,7 +118,7 @@ when I, your devotee, come and join your feet?
 सॆडि आर् विनैगळ् तीर् मरुन्दे  
 तिरुवेङ्गडत्तु ऎम् पॆरुमाने  
 नॊडि आर् पॊऴुदुम् उन पादम्  
-काण नोलादु आट्रेने (७)  
+काण नोलादु आऱ्ऱेने (७)  
 ३४४८। You are my nectar.  
 and I, your devotee, enjoy worshipping you.  
 You are the lord of the gods and you carry an eagle flag.  
@@ -128,7 +128,7 @@ You are the god of Thiruvenkaṭam.
 I suffer wanting to see your feet every moment  
 and I cannot bear it.  
 
-३४४९ नोलादु आट्रेन् उन पादम्  
+३४४९ नोलादु आऱ्ऱेन् उन पादम्  
 काण ऎण्ड्रु नुण् उणर्विन्  
 नील् आर् कण्डत्तु अम्मानुम्  
 निऱै नान्मुगनुम् इन्दिरनुम्  
@@ -188,7 +188,7 @@ I am your slave and I have come to you to sit beneath your feet.
 पऴनक् गुरुगूर्च् चडगोबन्  
 मुडिप्पान् सॊन्न आयिरत्तुत्  
 तिरुवेङ्गडत्तुक्कु इवै पत्तुम्  
-पिडित्तार् पिडित्तार् वीट्रिरुन्दु  
+पिडित्तार् पिडित्तार् वीऱ्ऱिरुन्दु  
 पॆरिय वानुळ् निलावुवरे। (११)  
 ३४५२। Sadagopan of Thirukuruhur flourishing with paddy fields  
 composed a thousand pasurams on the matchless lord  

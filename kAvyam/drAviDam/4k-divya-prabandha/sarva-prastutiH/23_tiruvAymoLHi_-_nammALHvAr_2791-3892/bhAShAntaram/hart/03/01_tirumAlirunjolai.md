@@ -29,7 +29,7 @@ You are the highest light.
 All the praises of you that this world utters  
 are merely meaningless.  
 
-३०१५ परञ्जोदि नी परमाय् निन् इगऴ्न्दु पिन् मट्रु ओर्  
+३०१५ परञ्जोदि नी परमाय् निन् इगऴ्न्दु पिन् मऱ्ऱु ओर्  
 परम् सोदि इन्मैयिन् पडि ओवि निगऴ्गिण्ड्र  
 परञ्जोदि निन्नुळ्ळे पडर् उलगम् पडैत्त ऎम्  
 परञ्जोदि कोविन्दा पण्बु उरैक्कमाट्टेने (३)  
@@ -113,7 +113,7 @@ in this wide world your brightness will diminish?
 ३०२२ मऱै आय नाल् वेदत्तुळ् निण्ड्र मलर्च् चुडरे  
 मुऱैयाल् इव् उलगु ऎल्लाम् पडैत्तु इडन्दु उण्डु उमिऴ्न्दु अळन्दाय्  
 पिऱै एऱु सडैयानुम् नान्मुगनुम् इन्दिरनुम्  
-इऱै आदल् अऱिन्दु एत्त वीट्रिरुत्तल् इदु वियप्पे? (१०)  
+इऱै आदल् अऱिन्दु एत्त वीऱ्ऱिरुत्तल् इदु वियप्पे? (१०)  
 ३०२२। You are a bright light and a blooming flower.  
 You are the inner meaning of the four Vedas.  
 You create this world, swallow it and spit it out  

@@ -9,7 +9,7 @@ title = "०१ तिरुमोगूर्प् पॆरुमानैच
 ३७८३ ताळ तामरैत् तडम् अणि वयल् तिरुमोगूर्  
 नाळुम् मेवि नन्गु अमर्न्दु निण्ड्रु असुररैत् तगर्क्कुम्  
 तोळुम् नान्गु उडैच् चुरि कुऴल् कमलक् कण् कनि वाय्क्  
-काळमेगत्तै अण्ड्रि मट्रॊण्ड्रु इलम् गतिये (१)  
+काळमेगत्तै अण्ड्रि मऱ्ऱॊण्ड्रु इलम् गतिये (१)  
 ३७८३। He has the color of a dark cloud,  
 a mouth sweet as a fruit, lotus eyes, curly hair and four arms.  
 He destroys the Asurans.  
@@ -18,7 +18,7 @@ surrounded by flourishing fields and ponds
 blooming with lotuses on stalks.  
 I have no refuge but the dark cloud-colored god.  
 
-३७८४ इलम् गति मट्रॊण्ड्रु ऎम्मैक्कुम् ईन् तण् तुऴायिन्  
+३७८४ इलम् गति मऱ्ऱॊण्ड्रु ऎम्मैक्कुम् ईन् तण् तुऴायिन्  
 अलङ्गल् अम् कण्णि आयिरम् पेर् उडै अम्मान्  
 नलम् कॊळ् नान्मऱै वाणर्गळ् वाऴ् तिरुमोगूर्  
 नलम् कऴल् अवन् अडि निऴल् तडम् अण्ड्रि यामे (२)  
@@ -30,7 +30,7 @@ ornamented with sounding anklets.
 He is the god of Thirumogur where Brahmins live  
 who know all the good four Vedas.  
 
-३७८५ अण्ड्रि याम् ऒरु पुगलिडम् इलम् ऎण्ड्रु ऎण्ड्रु अलट्रि  
+३७८५ अण्ड्रि याम् ऒरु पुगलिडम् इलम् ऎण्ड्रु ऎण्ड्रु अलऱ्ऱि  
 निण्ड्रु नान्मुगन् अरनॊडु तेवर्गळ् नाड  
 वॆण्ड्रु इम् मूवुलगु अळित्तु उऴल्वान् तिरुमोगूर्  
 नण्ड्रु नाम् इनि नणुगुदुम् नमदु इडर् कॆडवे (३)  
@@ -68,10 +68,10 @@ where abundant sugarcane and good paddy grow.
 Let us go there, circle the temple,  
 worship the lord and dance the kuthu dance.  
 
-३७८८ कूत्तन् कोवलन् कुदट्रु वल् असुरर्गळ् कूट्रम्  
+३७८८ कूत्तन् कोवलन् कुदऱ्ऱु वल् असुरर्गळ् कूऱ्ऱम्  
 एत्तुम् नङ्गट्कुम् अमरर्क्कुम् मुनिवर्क्कुम् इन्बन्  
 वाय्त्त तण् पणै वळ वयल् सूऴ् तिरुमोगूर्  
-आत्तन् तामरै अडि अण्ड्रि मट्रु इलम् अरणे (६)  
+आत्तन् तामरै अडि अण्ड्रि मऱ्ऱु इलम् अरणे (६)  
 ३७८८। He dances the kuthu dance.  
 He grazes the cows.  
 He is Yama for the Asurans and destroys them all.  
@@ -80,10 +80,10 @@ He is the god of Thirumogur surrounded
 with flourishing cool fields and water ponds.  
 There is no protection except the lotus feet of the god, the friend of all.  
 
-३७८९ मट्रु इलम् अरण् वान् पॆरुम् पाऴ् तनि मुदलाच्  
-चुट्रुम् नीर् पडैत्तु अदन् वऴित् तॊल् मुनि मुदला  
-मुट्रुम् तेवरोडु उलगुसॆय्वान् तिरुमोगूर्  
-सुट्रि नाम् वलञ् जॆय्य नम् तुयर् कॆडुम् कडिदे (७)  
+३७८९ मऱ्ऱु इलम् अरण् वान् पॆरुम् पाऴ् तनि मुदलाच्  
+चुऱ्ऱुम् नीर् पडैत्तु अदन् वऴित् तॊल् मुनि मुदला  
+मुऱ्ऱुम् तेवरोडु उलगुसॆय्वान् तिरुमोगूर्  
+सुऱ्ऱि नाम् वलञ् जॆय्य नम् तुयर् कॆडुम् कडिदे (७)  
 ३७८९। We have no protection but him.  
 He created the sky, the wide worlds  
 and the oceans around them.  
@@ -96,7 +96,7 @@ all our troubles will swiftly disappear.
 ३७९० तुयर् कॆडुम् कडिदु अडैन्दु वन्दु अडियवर् तॊऴुमिन्  
 उयर् कॊळ् सोलै ऒण् तडम् अणि ऒळि तिरुमोगूर्  
 पॆयर्गळ् आयिरम् उडैय वल् अरक्कर् पुक्कु अऴुन्द  
-तयरदन् पॆट्र मरगद मणित् तडत्तिनैये (८)  
+तयरदन् पॆऱ्ऱ मरगद मणित् तडत्तिनैये (८)  
 ३७९०। O devotees, come and worship him  
 and all your troubles will swiftly disappear.  
 He has a thousand names.  
@@ -130,7 +130,7 @@ Think only of the many names of the god
 of Thirumogur, recite them and praise him.  
 
 ३७९३ एत्तुमिन् नमर्गाळ् ऎण्ड्रु तान् कुडम् आडु  
-कूत्तनैक् गुरुगूर्च् चडगोबन् कुट्रेवल्गळ्  
+कूत्तनैक् गुरुगूर्च् चडगोबन् कुऱ्ऱेवल्गळ्  
 वाय्त्त आयिरत्तुळ् इवै वण् तिरुमोगूर्क्कु  
 ईत्त पत्तु इवै एत्त वल्लार्क्कु इडर् कॆडुमे (११)  
 ३७९३। Saḍagopan of Thirukuruhur  

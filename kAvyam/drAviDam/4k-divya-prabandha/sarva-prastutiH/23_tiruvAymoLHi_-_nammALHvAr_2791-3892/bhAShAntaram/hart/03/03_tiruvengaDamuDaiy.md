@@ -61,7 +61,7 @@ He is the creator of the Vedas
 and nectar for Brahmins, the scholars of the Vedas.  
 He stays in the Thiruvenkaṭam hills that have faultless fame.  
 
-३०४० वेम् कडङ्गळ् मॆय्मेल् विनै मुट्रवुम्  
+३०४० वेम् कडङ्गळ् मॆय्मेल् विनै मुऱ्ऱवुम्  
 ताङ्गळ् तङ्गट्कु नल्लनवे सॆय्वार्  
 वेङ्गडत्तु उऱैवार्क्कु नम ऎन्नल्  
 आम् कडमैअदु सुमन्दार्गट्के (६)  

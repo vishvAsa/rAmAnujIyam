@@ -40,7 +40,7 @@ See, the devotees who worship the feet of the lord
 are my masters and I will serve them in all my births.  
 
 ३०८२ उडै आर्न्द आडैयन् कण्डिगैयन् उडै नाणिनन्  
-पुडै आर् पॊन् नूलिनन् पॊन् मुडियन् मट्रुम् पल्गलन्  
+पुडै आर् पॊन् नूलिनन् पॊन् मुडियन् मऱ्ऱुम् पल्गलन्  
 नडैया उडैत् तिरुनारणन् तॊण्डर् तॊण्डर् कण्डीर्  
 इडै आर् पिऱप्पिडैदोऱु ऎमक्कु ऎम् पॆरुमक्कळे (४)  
 ३०८२। He wears beautiful garments.  
@@ -53,7 +53,7 @@ are the great ones for me in all my births.
 
 ३०८३ पॆरुमक्कळ् उळ्ळवर् तम् पॆरुमानै अमरर्गट्कु  
 अरुमै ऒऴिय अण्ड्रु आर् अमुदु ऊट्टिय अप्पनै  
-पॆरुमै पितट्र वल्लारैप् पितट्रुम् अवर् कण्डीर्  
+पॆरुमै पितऱ्ऱ वल्लारैप् पितऱ्ऱुम् अवर् कण्डीर्  
 वरुमैयुम् इम्मैयुम् नम्मै अळिक्कुम् पिराक्कळे (५)  
 ३०८३। He is the lord of good devotees. He is our father.  
 He gave nectar to the gods so their troubles would be removed.  
@@ -78,7 +78,7 @@ and protect us in this birth and in all our future births.
 
 ३०८५ सन्म सन्मान्दरम् कात्तु अडियार्गळैक् कॊण्डुबोय्  
 तन्मै पॆऱुत्तित् तन् ताळिणैक्कीऴ्क् कॊळ्ळुम् अप्पनै  
-तॊन्मै पितट्र वल्लारैप् पितट्रुम् अवर् कण्डीर्  
+तॊन्मै पितऱ्ऱ वल्लारैप् पितऱ्ऱुम् अवर् कण्डीर्  
 नन्मै पॆऱुत्तु ऎम्मै नाळ् उय्यक्कॊळ्गिण्ड्र नम्बरे (७)  
 ३०८५। Our father gives his grace to his devotees  
 so that they will not be born again and takes them to moksha.  
@@ -117,8 +117,8 @@ As a dwarf he measured the world.
 We are the devotees of the devotees of the devotees  
 of the devotees of his devotees.  
 
-३०८९ अडि ओङ्गु नूट्रुवर् वीय अण्ड्रु ऐवर्क्कु अरुळ्सॆय्द  
-नॆडियोनैत् तॆन् गुरुगूर्च् चडगोबन् कुट्रेवल्गळ्  
+३०८९ अडि ओङ्गु नूऱ्ऱुवर् वीय अण्ड्रु ऐवर्क्कु अरुळ्सॆय्द  
+नॆडियोनैत् तॆन् गुरुगूर्च् चडगोबन् कुऱ्ऱेवल्गळ्  
 अडि आर्न्द आयिरत्तुळ् इवै पत्तु अवन् तॊण्डर्मेल्  
 मुडिवु आरक् कऱ्‌किऱ्‌किल् सन्मम् सॆय्यामै मुडियुमे (११)  
 ३०८९। Saḍagopan of southern Thirukuruhur  

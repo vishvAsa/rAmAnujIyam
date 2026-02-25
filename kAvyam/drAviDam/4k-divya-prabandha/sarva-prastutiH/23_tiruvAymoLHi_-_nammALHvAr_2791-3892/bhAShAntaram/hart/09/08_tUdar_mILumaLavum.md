@@ -72,7 +72,7 @@ where the bees sing.
 You are the lord of the cowherds.  
 
 ३७५६ को आगिय मा वलियै निलम् कॊण्डाय्  
-तेवासुरम् सॆट्रवने तिरुमाले  
+तेवासुरम् सॆऱ्ऱवने तिरुमाले  
 नावाय् उऱैगिण्ड्र ऎन् नारण नम्बी  
 आआ अडियान् इवन् ऎण्ड्रु अरुळाये (७)  
 ३७५६। As a dwarf you took the land from king Mahabali.  

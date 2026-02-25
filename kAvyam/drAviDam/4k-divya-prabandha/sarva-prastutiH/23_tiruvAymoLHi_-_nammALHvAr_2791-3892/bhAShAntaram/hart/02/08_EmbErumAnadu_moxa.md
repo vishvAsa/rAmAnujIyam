@@ -16,7 +16,7 @@ He is a friend of all creatures.
 He gives moksha to all his devotees.  
 He is the boat for those who would cross the ocean of birth.  
 
-२९८१ नीन्दुम् तुयर्प् पिऱवि उट्पड मट्रु ऎव् ऎवैयुम्  
+२९८१ नीन्दुम् तुयर्प् पिऱवि उट्पड मऱ्ऱु ऎव् ऎवैयुम्  
 नीन्दुम् तुयर् इल्ला वीडु मुदल् आम्  
 पून् दण् पुनल् पॊय्गै यानै इडर् कडिन्द  
 पून् दण् तुऴाय् ऎन् तनि नायगन् पुणर्प्पे (२)  
@@ -40,7 +40,7 @@ He exists everywhere and in everything you see in the world.
 
 २९८३ पुलन् ऐन्दु मेयुम् पॊऱि ऐन्दुम् नीङ्गि  
 नलम् अन्दम् इल्लदु ओर् नाडु पुगुवीर्  
-अलमन्दु वीय असुररैच् चॆट्रान्  
+अलमन्दु वीय असुररैच् चॆऱ्ऱान्  
 पलम् मुन्दु सीरिल् पडिमिन् ऒवादे (४)  
 २९८३। O devotees, if you control your five senses  
 and the pleasures that they give  
@@ -48,7 +48,7 @@ you will enter endless moksha that is pure goodness.
 He is strong and he killed the Asurans.  
 You praise his divine qualities and stay with him always.  
 
-२९८४ ओवात् तुयर्प् पिऱवि उट्पड मट्रु ऎव् ऎवैयुम्  
+२९८४ ओवात् तुयर्प् पिऱवि उट्पड मऱ्ऱु ऎव् ऎवैयुम्  
 मूवात् तनि मुदलाय् मूवुलगुम् कावलोन्  
 मा आगि आमै आय् मीन् आगि मानिडम् आम्  
 तेवादि तेव पॆरुमान् ऎन् तीर्त्तने (५)  
@@ -87,8 +87,8 @@ Who can understand the things
 that he does out of love for the earth goddess?  
 
 २९८७ काण्बार् आर् ऎम् ईसन् कण्णनै? ऎन् काणुमाऱु?  
-ऊण् पेसिल् ऎल्ला उलगुम् ओर् तुट्रु आट्रा  
-सेण् पाल वीडो उयिरो मट्रु ऎप् पॊरुट्कुम्  
+ऊण् पेसिल् ऎल्ला उलगुम् ओर् तुऱ्ऱु आऱ्ऱा  
+सेण् पाल वीडो उयिरो मऱ्ऱु ऎप् पॊरुट्कुम्  
 एण् पालुम् सोरान् परन्दु उळन् आम् ऎङ्गुमे (८)  
 २९८७। Who can see our Esan?  
 Is there any way someone could see our dear Kaṇṇan?  
@@ -112,7 +112,7 @@ Who can understand the power of him
 who took the form of a lion?  
 
 २९८९ सीर्मै कॊळ् वीडु सुवर्क्कम् नरगु ईऱा  
-ईर्मै कॊळ् तेवर् नडुवा मट्रु ऎप् पॊरुट्कुम्  
+ईर्मै कॊळ् तेवर् नडुवा मऱ्ऱु ऎप् पॊरुट्कुम्  
 वेर् मुदल् आय् वित्तु आय् परन्दु तनि निण्ड्र  
 कार् मुगिल् पोल् वण्णन् ऎन् कण्णनै नान् कण्डेने (१०)  
 २९८९। He is the lord of the divine world of the gods,  
@@ -125,7 +125,7 @@ I saw the dark cloud-colored Kaṇṇan.
 २९९० कण् तलङ्गळ् सॆय्य करु मेनि अम्मानै  
 वण्डु अलम्बुम् सोलै वऴुदि वळ नाडन्  
 पण् तलैयिल् सॊन्न तमिऴ् आयिरत्तु इप् पत्तुम् वलार्  
-विण् तलैयिल् वीट्रिरुन्दु आळ्वर् ऎम् मा वीडे (११)  
+विण् तलैयिल् वीऱ्ऱिरुन्दु आळ्वर् ऎम् मा वीडे (११)  
 २९९०। Sadagopan from the flourishing Pandya country  
 filled with groves where bees swarm  
 composed a thousand Tamil pasurams with music  

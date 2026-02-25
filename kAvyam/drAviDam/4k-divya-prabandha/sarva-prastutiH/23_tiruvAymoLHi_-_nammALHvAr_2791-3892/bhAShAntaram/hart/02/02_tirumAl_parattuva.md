@@ -67,7 +67,7 @@ and his rule spreads over all the world.
 He carries a discus and sleeps beautifully on the ocean.  
 
 २९१८ पळ्ळि आल् इलै एऴ् उलगुम् कॊळ्ळुम्  
-वळ्ळल् वल् वयिट्रुप् पॆरुमान्  
+वळ्ळल् वल् वयिऱ्ऱुप् पॆरुमान्  
 उळ् उळ् आर् अऱिवार् अवन् तन्  
 कळ्ळ माय मनक्करुत्ते? (७)  
 २९१८। He is generous and the almighty.  
@@ -97,7 +97,7 @@ He created Naanmuhan who has faces in all directions,
 Indra and the other gods and all the divine worlds in the sky.  
 
 २९२१ कळ्वा ऎम्मैयुम् एऴ् उलगुम् निन्  
-उळ्ळे तोट्रिय इऱैव ऎण्ड्रु br> वॆळ् एऱन् नान्मुगन् इन्दिरन् वानवर्  
+उळ्ळे तोऱ्ऱिय इऱैव ऎण्ड्रु br> वॆळ् एऱन् नान्मुगन् इन्दिरन् वानवर्  
 पुळ् ऊर्दि कऴल् पणिन्दु एत्तुवरे (१०)  
 २९२१। Shiva who rides on a white bull,  
 Nanmuhan, Indra and the other gods in the sky  

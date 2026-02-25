@@ -147,7 +147,7 @@ She doesn’t praise anything except his names."
 करवु आर् तडम्दॊऱुम् तामरैक् कयम्  
 तीविगै निण्ड्रु अलरुम्  
 पुरवु आर् कऴनिगळ् सूऴ् तिरुप्पुलियूर्प्  
-पुगऴ् अण्ड्रि मट्रे (९)  
+पुगऴ् अण्ड्रि मऱ्ऱे (९)  
 ३६५९। Her friend says,  
 "Your daughter’s eyes are filled with tears  
 and night and day she doesn’t praise anything  
@@ -158,7 +158,7 @@ and the sound of the Vedas that the Brahmins recite
 resounds like the sound of the ocean  
 and the lotuses in the large ponds bloom like bright lamps.  
 
-३६६० अण्ड्रि मट्रोर् उपायम् ऎन् इवळ् अम्  
+३६६० अण्ड्रि मऱ्ऱोर् उपायम् ऎन् इवळ् अम्  
 तण् तुऴाय् कमऴ्दल्  
 कुण्ड्र मा मणि माड माळिगैक् कोलक्  
 कुऴाङ्गळ् मल्गि  

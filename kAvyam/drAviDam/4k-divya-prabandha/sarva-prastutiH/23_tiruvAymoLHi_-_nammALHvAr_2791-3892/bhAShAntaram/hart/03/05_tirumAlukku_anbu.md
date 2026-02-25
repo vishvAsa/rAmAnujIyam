@@ -81,11 +81,11 @@ to defeat Kamsan who troubled the sages.
 What can those who do not sing, praise, dance and worship him  
 do before sages who worship him, knowing all the sastras?  
 
-३०६२ मनिसरुम् मट्रुम् मुट्रुम् आय्  
+३०६२ मनिसरुम् मऱ्ऱुम् मुऱ्ऱुम् आय्  
        मायप् पिऱवि पिऱन्द  
 तनियन् पिऱप्पिलि तन्नै  
        तडङ् गडल् सेर्न्द पिरानै  
-कनियै करुम्बिन् इन् साट्रै  
+कनियै करुम्बिन् इन् साऱ्ऱै  
        कट्टियै तेनै अमुदै  
 मुनिवु इण्ड्रि एत्तिक् कुनिप्पार्  
        मुऴुदु उणर् नीर्मैयिनारे (६)  
@@ -98,7 +98,7 @@ He is sweet as a fruit, sugarcane juice, jaggery, honey and nectar.
 If devotees praise him with songs and dance without ever growing tired  
 they will receive the wisdom of understanding all things.  
 
-३०६३ नीर्मै इल् नूट्रुवर् वीय  
+३०६३ नीर्मै इल् नूऱ्ऱुवर् वीय  
        ऐवर्क्कु अरुळ्सॆय्दु निण्ड्रु  
 पार् मल्गु सेनै अवित्त  
        परञ्जुडरै निनैन्दु आडि  
@@ -116,7 +116,7 @@ melting in their hearts with devotion for the god?
 
 ३०६४ वार् पुनल् अम् तण् अरुवि  
        वड तिरुवेङ्गडत्तु ऎन्दै  
-पेर् पल सॊल्लिप् पितट्रि  
+पेर् पल सॊल्लिप् पितऱ्ऱि  
        पित्तर् ऎण्ड्रे पिऱर् कूऱ  
 ऊर् पल पुक्कुम् पुगादुम्  
        उलोकर् सिरिक्क निण्ड्रु आडि  
@@ -137,7 +137,7 @@ will be worshiped by the gods in the sky.
 अमरत् तुणिय वल्लार्गळ्  
        ऒऴिय अल्लादवर् ऎल्लाम्  
 अमर निनैन्दु ऎऴुन्दु आडि  
-       अलट्रुवदे करुममे (९)  
+       अलऱ्ऱुवदे करुममे (९)  
 ३०६५। The gods in the sky worship him.  
 He is the highest lord of the whole world.  
 Devotees who do yoga and think in their minds  
@@ -154,7 +154,7 @@ sing, dance and prattle his names will join him.
 ऒरुमै मनत्तिनुळ् वैत्तु  
        उळ्ळम् कुऴैन्दु ऎऴुन्दु आडि  
 पॆरुमैयुम् नाणुम् तविर्न्दु  
-       पितट्रुमिन् पेदैमै तीर्न्दे (१०)  
+       पितऱ्ऱुमिन् पेदैमै तीर्न्दे (१०)  
 ३०६६। He is our actions and the result of our actions.  
 He is the reason for everything.  
 He has a beautiful sapphire color.  

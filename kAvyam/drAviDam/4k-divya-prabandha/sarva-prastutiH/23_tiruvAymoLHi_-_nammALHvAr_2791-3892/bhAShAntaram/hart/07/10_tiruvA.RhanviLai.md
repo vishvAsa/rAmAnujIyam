@@ -8,11 +8,11 @@ title = "१० तिरुवाऱन्विळै सॆण्ड्रु
 
 ३५५२ इन्बम् पयक्क ऎऴिल् मलर् मादरुम् तानुम्  
 इव् एऴ् उलगै  
-इन्बम् पयक्क इनिदु उडन् वीट्रिरुन्दु  
+इन्बम् पयक्क इनिदु उडन् वीऱ्ऱिरुन्दु  
 आळ्गिण्ड्र ऎङ्गळ् पिरान्  
-अन्बुट्रु अमर्न्दु उऱैगिण्ड्र अणि पॊऴिल्  
+अन्बुऱ्ऱु अमर्न्दु उऱैगिण्ड्र अणि पॊऴिल्  
 सूऴ् तिरुवाऱन्विळै  
-अन्बुट्रु अमर्न्दु वलञ्जॆय्दु कैदॊऴुम्  
+अन्बुऱ्ऱु अमर्न्दु वलञ्जॆय्दु कैदॊऴुम्  
 नाळ्गळुम् आगुम्गॊलो? (१)  
 ३५५२। Our lord rules this world and gives happiness to all.  
 He stays with Lakshmi  
@@ -23,7 +23,7 @@ where the lord stays happily
 and circle around the hill and worship him?  
 
 ३५५३ आगुम्गॊल् ऐयम् ऒण्ड्रु इण्ड्रि? अगल् इडम्  
-मुट्रवुम् ईर् अडिये  
+मुऱ्ऱवुम् ईर् अडिये  
 आगुम्बरिसु निमिर्न्द तिरुक्कुऱळ् अप्पन्  
 अमर्न्दु उऱैयुम्  
 मागम् तिगऴ् कॊडि माडङ्गळ् नीडु  
@@ -85,7 +85,7 @@ If I keep his lotus-like feet in my heart always,
 worship him and sing his fame that spreads in all the worlds,  
 all my karma will be destroyed and go away.  
 
-३५५७ ऒण्ड्रुम् निल्ला कॆडुम् मुट्रवुम् तीविनै उळ्ळित्  
+३५५७ ऒण्ड्रुम् निल्ला कॆडुम् मुऱ्ऱवुम् तीविनै उळ्ळित्  
 तॊऴुमिन् तॊण्डीर्!  
 अण्ड्रु अङ्गु अमर् वॆण्ड्रु उरुप्पिणि नङ्गै  
 अणि नॆडुम् तोळ् पुणर्न्दान्  
@@ -108,7 +108,7 @@ all your bad karma will go away.
 वाणबुरम् पुक्कु मुक्कण् पिरानैत् तॊलैय  
 वॆम् पोर्गळ् सॆय्दु  
 वाणनै आयिरम् तोळ् तुणित्तान् सरण्  
-अण्ड्रि मट्रु ऒण्ड्रु इलमे (७)  
+अण्ड्रि मऱ्ऱु ऒण्ड्रु इलमे (७)  
 ३५५८। Neḍumaal, Kaṇṇan, the king of the gods in the sky,  
 went to the kingdom of Vaaṇan, fought a cruel war with the Asuran  
 and cut off his thousand arms.  
@@ -118,7 +118,7 @@ There is no other refuge than the feet of the god
 of great Thiruvaaṛanviḷai  
 surrounded by groves blooming with flowers.  
 
-३५५९ अण्ड्रि मट्रु ऒण्ड्रु इलम् निन् सरणे ऎण्ड्रु  
+३५५९ अण्ड्रि मऱ्ऱु ऒण्ड्रु इलम् निन् सरणे ऎण्ड्रु  
 अगल् इरुम् पॊय्गैयिन्वाय्  
 निण्ड्रु तन् नीळ् कऴल् एत्तिय आनैयिन्  
 नॆञ्जु इडर् तीर्त्त पिरान्  
@@ -137,7 +137,7 @@ If you go there and circle the hill
 the bad karma that troubles your mind will go away.  
 
 ३५६० तीविनै उळ्ळत्तिन् सार्वु अल्ल आगि  
-तॆळि विसुम्बु एऱलुट्राल्  
+तॆळि विसुम्बु एऱलुऱ्ऱाल्  
 नाविनुळ्ळुम् उळ्ळत्तुळ्ळुम् अमैन्द  
 तॊऴिलिनुळ्ळुम् नविण्ड्रु  
 यावरुम् वन्दु वणङ्गुम् पॊऴिल्  
@@ -153,14 +153,14 @@ with their tongues, hearts and all their actions.
 My heart suffers not knowing when I will be able to go,  
 circle the hill there and worship him.  
 
-३५६१ सिन्दै मट्रॊण्ड्रिन् तिऱत्तदु अल्लात् तन्मै  
+३५६१ सिन्दै मऱ्ऱॊण्ड्रिन् तिऱत्तदु अल्लात् तन्मै  
 तेव पिरान् अऱियुम्  
 सिन्दैयिनाल् सॆय्व तान् अऱियादन  
 मायङ्गळ् ऒण्ड्रुम् इल्लै  
 सिन्दैयिनाल् सॊल्लिनाल् सॆय्गैयाल् निलत्तेवर्  
 कुऴु वणङ्गुम्  
 सिन्दै मगिऴ् तिरुवाऱन्विळै उऱै  
-तीर्त्तनुक्कु अट्र पिन्ने (१०)  
+तीर्त्तनुक्कु अऱ्ऱ पिन्ने (१०)  
 ३५६१। The god of the gods knows that a person’s heart  
 does not leave the thoughts it is involved in.  
 There is nothing magical that one cannot achieve  
@@ -170,7 +170,7 @@ after I give myself to the god of Thiruvaaṛanviḷai
 where the gods come to the earth and praise him  
 with their minds and deeds.  
 
-३५६२ तीर्त्तनुक्कु अट्रबिन् मट्रु ओर् सरण्  
+३५६२ तीर्त्तनुक्कु अऱ्ऱबिन् मऱ्ऱु ओर् सरण्  
 इल्लै ऎण्ड्रु ऎण्णि तीर्त्तनुक्के  
 तीर्त्त मनत्तनन् आगि सॆऴुङ्  
 गुरुगूर्च् चडगोबन् सॊन्न  
