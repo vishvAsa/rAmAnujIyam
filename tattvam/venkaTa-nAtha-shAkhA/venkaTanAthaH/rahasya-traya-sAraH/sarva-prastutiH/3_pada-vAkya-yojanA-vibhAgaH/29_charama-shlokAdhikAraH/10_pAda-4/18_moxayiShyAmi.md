@@ -3324,7 +3324,9 @@ quien **está deseoso** de **experimentar** su yo,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ’’मऩ्ऩुऱिल्’’(तिरुवाय्मॊऴि १-२-५) 
+> ("अऱ्ऱ् अदु **पऱ्ऱ्**" ऎऩिल्, **उऱ्ऱदु**+++(=भवति)+++ वीड्+++(=[कैवल्य-]मुक्तिं)+++ उयिर्+++(=प्राणाः→आत्मा)+++,  
+**सॆऱ्ऱ्**+++(=अवज्ञाय)+++ अदु,) मऩ्ऩ्+++(=स्थिरं)+++ **उऱिल्**+++(=भाविते)+++ (अऱ्ऱ् इऱै+++(=ईश्वरं)+++ **पऱ्ऱे**+++(=प्राप्तिः)+++।)
+(तिरुवाय्मॊऴि १-२-५) 
 
 ऎऩ्ऱु भगवद्-अनुभवत्तै नित्यम् ऎऩ्गैयालुम्  
 </details>
@@ -3355,11 +3357,12 @@ In this (Tamil verse) the **enjoyment** of Bhagavān **is said to be** eternal
 el yo, que **es diferente** del cuerpo  
 y que **es** feliz,  
 **se hará manifiesto**.  
-Sin **ser atrapado** (en este estado), es decir, kaivalya,  
-si quieres darte cuenta de eso  
+>
+> Sin **ser atrapado** (en este estado), es decir, kaivalya,  
+si **quieres darte cuenta** de eso que  
 tu naturaleza esencial **consiste** en **ser** śeṣa para Bhagavān  
 y en **ser eterno**,  
-agarrar **apoderarse** de Bhagavān  
+**agarrar apoderarse** de Bhagavān  
 y luego **renunciar** a los placeres de los objetos mundanos". 
 
 En este (verso tamil) se dice que el **disfrute** de Bhagavān **es** eterno.
@@ -3372,8 +3375,26 @@ En este (verso tamil) se dice que el **disfrute** de Bhagavān **es** eterno.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदुक्कु व्यवच्छेद्यम् आगच् चॊल्लुम् आत्म-मात्रानुभवम् नित्यम् अऩ्ऱ् ऎऩ्ऩुम् इडम् व्यञ्जितम्।
+> इदुक्कु व्यवच्छेद्यम् आगच् चॊल्लुम् आत्म-मात्रानुभवम्  
+नित्यम् अऩ्ऱ् 
+
+ऎऩ्ऩुम् इडम् व्यञ्जितम्।
 </details>
+
+<details><summary>English</summary>
+
+and the **experience** of the disembodied self,  
+which **is distinguished** from it,  
+**is** indirectly **stated** to be not eternal. 
+</details>
+
+<details><summary>Español</summary>
+
+y la **experiencia** del yo incorpóreo,  
+que **se distingue** de ella,  
+**se** indirectamente **se dice** que no es eterno.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3384,9 +3405,7 @@ En este (verso tamil) se dice que el **disfrute** de Bhagavān **es** eterno.
 
 
 
-and the **experience** of the disembodied self,  
-which **is distinguished** from it,  
-**is** indirectly **stated** to be not eternal. (It is true that) the experience of the measureless self is described as imperishable or without changes like diminution or increase; - like the statement of the fruit of the rite called cāturmāsya being imperishable; it only means that it will last for a very long time (i.e.) many and many a kalpa (and not that it is eternal). This locality where the self enjoys itself is thus described :-- " The place called the amṛtam of yogis is the place to which those who want to enjoy their own self go." That this locality is not Paramapada is also evident from another siloka in the very same context: "Those who are yogins and who, being ekāntins, are constantly meditating on Brahman, reach that supreme abode which the eternal suris are gazing at. (It is clear from this, that the ekāntin who is desirous of attaining Bhagavān is here stated to go to a place other than that (to which the man who is desirous of enjoying his self would go) and that it is a place gazed at by the suris,
+(It is true that) the experience of the measureless self is described as imperishable or without changes like diminution or increase; - like the statement of the fruit of the rite called cāturmāsya being imperishable; it only means that it will last for a very long time (i.e.) many and many a kalpa (and not that it is eternal). This locality where the self enjoys itself is thus described :-- " The place called the amṛtam of yogis is the place to which those who want to enjoy their own self go." That this locality is not Paramapada is also evident from another siloka in the very same context: "Those who are yogins and who, being ekāntins, are constantly meditating on Brahman, reach that supreme abode which the eternal suris are gazing at. (It is clear from this, that the ekāntin who is desirous of attaining Bhagavān is here stated to go to a place other than that (to which the man who is desirous of enjoying his self would go) and that it is a place gazed at by the suris,
 
 
 
