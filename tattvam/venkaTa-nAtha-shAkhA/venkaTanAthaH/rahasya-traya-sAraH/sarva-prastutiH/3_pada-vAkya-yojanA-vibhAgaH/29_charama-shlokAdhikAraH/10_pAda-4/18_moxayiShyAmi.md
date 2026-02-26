@@ -22,6 +22,16 @@ EL SIGNIFICADO DE LA PALABRA MOKṢAYIṢYĀMI (TE HARÉ LIBRE) página 595
 ऎऩ्ऱ बडि। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+("मोक्षयिष्यामि" शब्दार्थः)
+
+"मोक्षयिष्यामि" इत्य् अनेनोच्यते,  
+
+> त्वद् इष्ट-समये (त्वां) मुक्तम् आपादयेयम् 
+
+इति ।
+</details>
 
 
 <details><summary>English</summary>
@@ -46,6 +56,13 @@ en el momento que lo **quieras**".
 ‘‘मोक्षयिष्यामि’’ ऎऩ्ऱदु उऩक्किष्टमाऩबोदु मुक्तऩाक्कुवऩ् ऎऩ्ऱबडि। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द भावत्तै मोक्षयिष्यामिक्कु “उऩक्किष्टमाऩ पोदु मुक्तऩाक्कुवेऩ्” ऎऩ्गिऱ व्याख्यानत्ताल् वॆळियिट्टार्।  
+    
+उऩक्किष्टमाऩबोदु इति । इदऩाल् प्रारब्धावसानत्तिलेये मोक्षत्तैप् पॆऱुगिऱ भक्तऩैक्काट्टिलुम् इष्टमुळ्ळबोदु मोक्षम् पॆऱुगिऱ प्रपन्नऩुक्कु वासि सॊल्लप्पट्टदु। 
+</details>
+
 
 ## न शुष्क-सान्त्वनम्, उपायापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -56,6 +73,19 @@ en el momento que lo **quieras**".
 
 ऎऩ्ऩिल्;
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> केषांचित् पापानां विषये  
+"न क्षमामि" इत्य्-उक्तिः,  
+अत्र “सर्वपापेभ्यो मोक्षयिष्यामि” इत्य्-उक्तिश् च  
+किं न परस्-पर-विरुद्धे ?  
+अत इयम् उपच्छन्दन-मात्र-रूपा किं न भवति? 
+
+इति चेत् — 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -90,11 +120,27 @@ La **respuesta** a esta pregunta **es** la **siguiente**:--
 सिल पाबङ्गळै ‘‘न क्षमामि’’ ऎऩ्गैयुमिङ्गे ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्गैयुम् विरुद्धमऩ्ऱो; आगैयालिदु वुपच्छन्दनमामत्तऩैयऩ्ऱो वॆऩ्ऩिल्;
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ‘‘पद्मपत्रशतेनापि न क्षमामि वसुन्धरे’’, ‘‘उपचार शतेनापि न क्षमामि वसुन्धरे’’ इत्यादि वचनकळिल् सिल पाबङ्गळै क्षमिक्किऱेऩल्लेऩ् ऎऩ्ऱु भगवाऩे सॊल्लियिरुक्क इङ्गु अवऩे सर्वपापेभ्यो मोक्षयिष्यामि ऎऩ्ऱु सॊऩ्ऩाल् वचनद्वयत्तिऱ्कु विरोधम् वारादो? आगैयाल् इदु प्रपत्तियिऩ् उपच्छन्दनमाग अदावदु प्रीतिजननार्थमागच् चॊऩ्ऩदु ऎऩ्ऱु कॊळ्ळवेण्डामो? 
+
+ऎऩ्ऱु शङ्गित्तु विषयभेदमिरुप्पदाल् विरोधमिल्लैयॆऩ्गिऱार् सिल पापङ्गळै इत्यादियाल्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवैय् इरण्डुम् भिन्न-विषयम् आगैयाले  
+इवैय् इरण्डुम् भिन्न-+++(प्रायश्चित्त-)+++विषयम् आगैयाले  
 विरोधम् इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P402]]  
+एतयोर् भिन्न-+++(प्रायश्चित्त-)+++विषयत्वात्  
+न विरोधः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -114,19 +160,42 @@ porque **se aplican** a diferentes casos.
 </details>
 
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘न क्षमामि’’ ऎऩ्ऱदु 
 
-> ‘‘पद्म-पत्र-शतेनापि  
+> > ‘‘पद्म-पत्र-शतेनापि  
 न क्षमामि वसुन्धरे,  
-उपचार-शतेनापि  
+> 
+> उपचार-शतेनापि  
 न क्षमामि वसुन्धरे’’  
 (वराहपुराणम्) 
+> 
+>>  ऎऩ्ऱाऱ् पोले सॊल्लुगिऱ  
+पोलिय्+++(=अनुकृतिमात्रम्)+++ आऩ प्रायश्चित्तान्तरङ्गळाल् क्षमियेऩ् 
 
-ऎऩ्ऱाऱ्पोले 
+ऎऩ्ऱ बडि।
 </details>
 
+
+<details><summary>नीलमेघः (सं)</summary>
+
+‘‘न क्षमामि’’ इत्य्-उक्तिः 
+
+> > ‘‘पद्म-पत्र-शतेनापि  
+न क्षमामि वसुन्धरे,  
+> 
+> > उपचार-शतेनापि  
+न क्षमामि वसुन्धरे’’  
+(वराहपुराणम्) 
+> 
+> इति(वद् उक्तैर्)  
+अल्पप्रभावैः प्रायश्चित्तान्तरैर्  
+न क्षाम्येयम्  
+
+इत्य् एवम्परा । 
+</details>
 
 <details><summary>English</summary>
 
@@ -171,17 +240,9 @@ por formas tan triviales de **expiación**
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-‘‘न क्षमामि’’ 
+इदु, सर्वपापेभ्यो मोक्षयिष्यामि ऎऩ्गिऱ वचनम् भिन्नविषयत्वत्तै उपपादिक्किऱार् न क्षमामि ऎऩ्ऱदु इत्यादिना । 
 
-
-> ‘‘पद्म-पत्र-शतेनापि  
-न क्षमामि वसुन्धरे,  
-उपचार-शतेनापि  
-न क्षमामि वसुन्धरे’’  
-(वराहपुराणम्) 
-
-सॊल्लुगिऱ पोलिय्+++(=अनुकृतिमात्रम्)+++ आऩ प्रायश्चित्तान्तरङ्गळाल् क्षमियेऩ् ऎऩ्ऱबडि।
-
+पोलियाऩ - अल्पप्रभावमाऩ, 
 </details>
 
 
@@ -190,6 +251,17 @@ por formas tan triviales de **expiación**
 इङ्गु सर्व-पाप-प्रायश्चित्तम् आगय् इरुप्पद् ऒरु उपाय-विशेषत्तालेय्  
 ऎल्लात्तैयुम् क्षमिप्पेऩ् ऎऩ्गिऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 
+
+> सर्व-पाप-प्रायश्-चित्तात्मना वर्तमानेन केनचिद् उपाय-विशेषेण  
+सर्वाणि क्षाम्येयम् 
+
+इत्य् उच्यते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -215,6 +287,11 @@ que **es** una **expiación** por todos los **pecados**”.
 इङ्गु सर्वपापप्रायश्चित्तमाग यिरुप्पदॊरु उपायविशेषत्ताले यॆल्लात्तैयुम् क्षमिप्पेऩॆऩ्गिऱदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इङ्गु – चरमश्लोकत्तिल्, सर्वपाप प्रायश्चित्तमागयिरुप्प तॊरु उपायविशेषत्ताले इति । इदऩाल् प्रपत्ति रूपोपायविशेषत्तिऱ्कु सर्वपापप्रायश्चित्तत्वरूपमाऩ महाप्रभावम् सॊल्लप्पट्टदु। एतेन महाप्रभाववत्ताऩ प्रपत्तियिऩाले सर्वपापविमोक्षणमुम्, अल्पप्रभाववत्ताऩ पद्मपत्रार्चनादिगळुक्कु कतिपयपापनिवर्तकत्वाभावमुम् विरुद्धमऩ्ऱागैयाले सर्वपापेभ्यो मोक्षयिष्यामि ऎऩ्ऱदु स्तुतिरूपमाय् प्रपत्तिक्कु उपच्छन्दनमागादु ऎऩ्ऱु सूचितमायिऱ्ऱु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,6 +300,15 @@ que **es** una **expiación** por todos los **pecados**”.
 
 ऎऩ्ऱ् इऱे शरण्याभिप्रायम् इरुप्पदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यदि वा रावणः स्वयं’’  
+(रामायणम् युद्ध-काण्डम् १८-३४) 
+
+इति किल शरण्याभिप्रायो वर्तते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -249,12 +335,25 @@ Le **concederé** el **perdón**".
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द शरणागतिरूपोपायविशेषत्ताले सर्वपापङ्गळैयुम् क्षमिप्पऩ् ऎऩ्बदऱ्कु ज्ञापकमुण्डो ऎऩ्ऩवरुळिच्चॆय्गिऱार् यदि वा रावणः स्वयमिति । रावणऩाऩालुम् शरणागतऩाग वन्दाल् अवऩै विडमाट्टेऩ् ऎऩ्गैयाल् शरणागतियाले सर्वपापत्तैयुम् क्षमिप्पऩॆऩ्ऱु ज्ञापितमागिऱदु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि व्यवस्थित-विषयम् आग  
 वचनङ्गळ् ताऩे काट्टुगैयाले  
 विरोधम् इल्लामैयाल्  
 इदु उपच्छन्दन-मात्रम् अऩ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं व्यवस्थित-विषयत्वस्य वचनैः  
+स्वयम् एव प्रदर्शितत्वेन विरोधाभावात्  
+नेदम् उपच्छन्दनमात्रम् । 
 </details>
 
 <details><summary>English</summary>
@@ -279,12 +378,25 @@ ya que **se aplican** a diferentes situaciones.
 इप्पडि व्यवस्थितविषयमाग वचनङ्गळ् ताऩे काट्टुगैयाले विरोधमिल्लामैयालिदु उपच्छन्दनमात्रमऩ्ऱु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि वचनङ् गळॆल्लाम् भिन्न भिन्नविषयङ्गळाग व्यवस्थितङ्गळागैयाल् सर्वपापेभ्यः ऎऩ्ऱदु उपच्छन्दनमागादॆऩ्ऱु मुडिक्किऱार् इप्पडि इत्यादियाल्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्ङऩ् अल्लाद बोदु  
 भक्ति-प्रपत्ति-रूप-मोक्षोपायङ्गळै विधिक्किऱ शास्त्रङ्गळ् ऎल्लाम्  
 अत्यन्त-व्याकुलङ्गळ् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा भक्ति-प्रपत्ति-रूप-- मोक्षोपाय-विधायकानि सर्वाणि शास्त्राणि  
+अत्यन्तं व्याकुलानि भवेयुः ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -306,6 +418,11 @@ todos los textos de los Śāstras que **ordenan** bhakti y prapatti
 इङ्ङऩल्लादबोदु भक्तिप्रपत्तिरूपमोक्षोपायङ्गळै विधिक्किऱ शास्त्रङ्गळॆल्लाम् अत्यन्तव्याकुलङ्गळाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अन्यथा ‘‘सर्वे पाप्मानः प्रदूयन्ते’’ ऎऩ्बदुम् भक्तिक्कु उपच्छन्दनरूपमाय् मुडियुमागैयाले सर्वपापनिवृत्त्यर्थमाग भक्तिप्रपत्तिविधायकशास्त्रङ्गळॆल्लाम् वास्तविकमऩ्ऱिक्के व्याकूलङ्गळामॆऩ्गिऱार् इङ्ङऩल्लादबोदु इति । 
+</details>
+
 
 ## निग्रह-सङ्कल्प-त्यागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,6 +430,13 @@ todos los textos de los Śāstras que **ordenan** bhakti y prapatti
 इङ्गु "पापङ्गळि+++(ल्)+++-ऩिऩ्ऱुम् विडुविक्कैय्" आवदु;  
 अनादिय् आऩ विपरीतानुष्ठानत्ताले पिऱन्द निग्रहाभिप्रायत्तै ईश्वरऩ् दाऩ् विडुगै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र "पापेभ्यो मोक्षणं" नाम - अनादि-विपरीतानुष्ठान-मूलक- निग्रहाभिप्रायस्ये  
+ईश्वरेण स्वयं त्यजनम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -341,6 +465,14 @@ por **haber violado** Sus mandamientos desde el tiempo sin principio.
 इन् निग्रह-निवृत्तियाले  
 निग्रह-कार्यङ्गळ् आऩ अविद्यादिगळ् ऎल्लाम् निवृत्तङ्गळ् आम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनया निग्रह-निवृत्त्या  
+निग्रह-कार्या अविद्यादयः सर्वे ऽपि  
+निवृत्ता भवन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -374,10 +506,12 @@ todos los efectos de Su **castigo**, como avidyā o ignorancia, **dejarían** de
 
 <details><summary>नीलमेघः (सं)</summary>
 
+ईश्वरस्य निग्रह-निवृत्तिर् नाम 
+
 > (मच्-चित्तः **सर्व-दुर्गाणि**)  
 मत्-प्रसादात् (**तरिष्यसि**)। 
 
-
+इत्य्-उक्तो ऽभिप्रायविशेषः । 
 </details>
 
 <details><summary>English</summary>
@@ -413,6 +547,12 @@ y como **siendo hecho** por mí
 ज्ञान-विकासादिगळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+जीवस्याविद्यादीनां निवृत्तिर् नाम -  
+ज्ञान-विकासादिः ।
+</details>
+
 <details><summary>English</summary>
 
 The **cessation** of such things as avidyā in the jīva  
@@ -440,6 +580,14 @@ El **cese** de cosas como avidyā en la jīva
 ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्येत्थं-भूत- पुण्य-पाप-रूप-- संसार-कारण-निवृत्तिक्रमः कीदृश? 
+
+इति चेत् — 
+</details>
+
+
 <details><summary>English</summary>
 
 The manner and the order in which the causes of saṁsāra,  
@@ -466,6 +614,14 @@ que **son** de la naturaleza de puṇya y papa
 प्रारब्धेतरङ्गळ् आय् **प्राप्ति-विरोधिगळ्** आग वल्ल पूर्व-पुण्य-पापङ्गळ्  
 उपायारम्भत्तिले निश्शेषम् आगक् कऴियुम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**उपाय-विरोधिषु** पूर्वम् एव स्वहेतुभिर् निवृत्तेषु,  
+प्रारब्धेतराणि **प्राप्ति-विरोधि-भूतानि** पूर्व-पुण्य-पापानि  
+उपायारम्भे निःशेषं निवर्तेरन् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -500,9 +656,17 @@ siempre que **no sean** tales como **ya han comenzado** a **dar** su fruto (prar
 
 उत्तरङ्गळ् आऩ पापङ्गळिल्  
 बुद्धि-पूर्वम् अल्लाद्-अवैयुम्,  
-देश-काल-वैगुण्यादिगळाल् वरुम् अवैयुम्  
+देश-काल-वैगुण्यादिगळाल्+++(→आपदा)+++ वरुम् अवैयुम्  
 ऒऩ्ऱुम् लेपियादु। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उत्तरेषु पापेषु  
+बुद्धि-पूर्वेतराणि देश-काल-वैगुण्यादि+++(→आपत्)+++-जनितानि च  
+कान्य् अपि न लिप्येयुः । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -533,6 +697,15 @@ y que **son** el **resultado** de condiciones desfavorables de lugar, tiempo y s
 अनापत्तिल् बुद्धि-पूर्वोत्तराघङ्गळ् स्वाधिकारानुगुण- प्रायश्चित्त-विशेषत्तालेय् आदल्, शिक्षार्थम् आऩ लघु-फल-विशेषत्तालेय् आदल्  
 तीरुम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P403]]  
+अनापदि बुद्धि-पूर्वोतराघानि  
+स्वाधिकारानुगुण-प्रायश्-चित्त--विशेषेण वा  
+शिक्षार्थ-लघु-फल-विशेषेण वा निवर्तेरन् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -568,6 +741,13 @@ lo cual **sería** de la naturaleza de un **castigo** leve.
 अनुभवत्तालुम्, अवान्तर-प्रायश्चित्तत्तालुम् नाश्यम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपन्नस्य प्रारब्धे ऽभ्युपगत-कालाभ्यन्तरे निवर्तनीयो भवन् कर्मांशः  
+अनुभवेन, अवान्तर-प्रायश्चित्तेन वा नाश्यः । 
+</details>
+
+
 <details><summary>English</summary>
 
 That portion of the karma which **has begun** to **yield** its fruit to the prapanna  
@@ -597,6 +777,12 @@ o mediante un rito intermedio de **expiación**.
 मेल्-उळ्ळदुवुम् उपाय-माहात्म्यत्ताले कऴियुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अवशिष्टश् च उपाय-माहात्म्येन निवर्तेत । 
+</details>
+
+
 <details><summary>English</summary>
 
 That which **remains will disappear** by the potency of the upāya (prapatti).
@@ -622,6 +808,16 @@ Lo que **queda - desaparecerá** por la potencia del upāya (prapatti).
 
 फल-प्रदानत्ताले कऴियुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(मोक्ष-संसार→)+++उभय-भावना-क्रमेण जातेषु बुद्धि-पूर्वोत्तर-पुण्येषु 
+
+प्रतिबन्धक-शून्यानि  
+उपासकस्य विद्यानुगुण+++(→अनुकूल)+++-पूर्वोत्तर-+++(-अर्जित)+++पुण्यानि च  
+फल-प्रदानेन नश्यन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -662,6 +858,20 @@ estos **desaparecerán** después de **haber dado** su fruto.
 
 अन्तिम-कालत्तिले कऴियुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विद्यानुपयुक्तेषु बुद्धि-पूर्वोत्तर-पुण्येषु  
+प्रतिबद्ध-फलानि,  
+
+विद्योपयुक्त-पूर्वोत्तर-पुण्येषु  
+अनुकूल-प्रतिकूल-प्रबल-कर्मान्तर-फलैर् निरुद्धावसराणि  
+
+अ-दत्त-फलतया ऽधिक्येन स्थितानि च  
+
+अन्तिमकाले निवर्तेरन् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -713,10 +923,13 @@ estos también **desaparecerán** en los últimos momentos de la vida del hombre
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अयम् अर्थः, 
+
 > ‘‘इतरस्याप्य् एवम् असंश्लेषः,  
 पाते तु’’  
 (ब्रह्मसूत्रम् ४-१-१४) 
 
+इति सूत्रे ऽभिप्रेतः ।
 </details>
 
 <details><summary>English</summary>
@@ -757,6 +970,14 @@ que **son necesarios** para la **ejecución** del vidyā)
 अवऱ्ऱुक्कु अ-श्लेषञ् जॊल्ल वेण्डा। +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-प्रीति-मात्र-फलोद्देशेनानुष्ठितानि केवल-कैङ्कर्य-रूप-सुकृतानि  
+तदैव दत्त-फलानीति  
+तेषाम् अश्लेषो न वक्तव्यः । +++(5)+++
+</details>
+
+
 <details><summary>English</summary>
 
 Since those good deeds which **were performed** solely for **pleasing** the Lord  
@@ -786,6 +1007,13 @@ y que **eran** meramente de naturaleza de servicio
 तऩक्कप् पडिये भगवद्-आज्ञा-सिद्धङ्गळ् आगैयालेय्  
 अवैयुम् इवऩुक्कु केवल-कैङ्कर्यङ्गळ् आय्  
 दत्त-फलङ्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+लोक-संग्रहार्थ-विधिना ऽनुष्ठीयमानान्य् अपि  
+स्वस्य तथैव भगवद्-आज्ञा-सिद्धानीति  
+तान्य् अप्य् अस्य केवल-कैङ्कर्य-रूपाणि दत्त-फलानि । 
 </details>
 
 <details><summary>English</summary>
@@ -818,6 +1046,13 @@ y ya **han dado** sus frutos.
 इवऱ्ऱिल् अनवधानत्ताले सात्त्विक-त्याग-रहितम् आग अनुष्ठितङ्गळ् उण्डागिल्  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एषु अनवधानेन सात्त्विक-त्याग-रहिततया ऽनुष्ठितानां सद्-भावे,  
+</details>
+
+
+
 <details><summary>English</summary>
 
 Among them, if any such good deeds **were done** without the renunciation of egoism (sātvikatyāga) out of carelessness,  
@@ -846,6 +1081,18 @@ Entre ellos, si alguna de esas buenas acciones **fuese realizada sin renunciar**
 
 मोक्षयिष्यामिक्कु विषयम् आम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तानि सर्वाण्य् अपि,  
+
+> ‘‘तान्य् एव भावोपहतानि कल्कः’’  
+(भारतम् आदि-पर्व १-३०१) 
+
+इत्य्-उक्त-रीत्या  
+पाप-तुल्यानि "मोक्षयिष्यामि" इत्यस्य विषयाः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -896,6 +1143,13 @@ Estos (pecados) **estarán sujetos** a la **liberación prometida** en "mokṣay
 दत्त-फलङ्गळ् आय्प् पोम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+फलान्तरार्थं कृतानि प्रपत्त्य्-अन्तराणि  
+दत्त-फलान्य् अपयन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 Those prapattis that **were performed** for other ends (than mukti)  
@@ -920,6 +1174,14 @@ Aquellos prapattis que **fueron realizados** para otros fines (además de mukti)
 पुनः-प्रपत्ति पण्णुगै  
 महा-विश्वासत्तोडे कूड अनुष्ठित्त पूर्व-प्रपत्ति-प्रतिसन्धानत्ताले कूडादु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पूर्व-प्रपत्ति-साध्यतयोद्दिष्ट-फलार्थतया पुनः प्रपत्त्य्-अनुष्ठानं  
+महा-विश्वास-साहित्येनानुष्ठित-पूर्व-प्रपत्ति-प्रतिसन्धानात्  
+न घटते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -954,6 +1216,16 @@ y con la intensa y gran fe con la que **se realizó** el primer prapatti.
 उपायान्तरच्-छायैय् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अनेक-प्रपत्तयो ऽप्य् एक-फल-साधनानि
+
+इति मत्वा अनुष्ठाने कृते  
+उपायान्तर-च्छाया स्यात् ।  
+[[P404]]
+</details>
+
+
 <details><summary>English</summary>
 
 If one **were to perform** more than one prapatti  
@@ -986,6 +1258,13 @@ por el bien de un único fin a la vista,
 ईश्वरऩ् इवऱ्ऱुक्कुप् प्राप्तम् आऩ फल-प्रदानाभिसन्धियै विडुगै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+विद्यामाहात्म्येनैषां कर्मणां विनाशो नाम -  
+ईश्वरेणैतद्-विषये प्राप्तस्य फल-प्रदानाभिसन्धेस् त्यजनम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The disappearance or destruction of past karma (by the greatness of vidyA)  
@@ -1009,6 +1288,15 @@ La **desaparición** o **destrucción** del karma (por la grandeza de vidyA) pas
 इव्व्-आश्रितर् तिऱत्तिल्  
 इक् कर्म-फल-प्रदानाभिसन्धिय् उदियाद्-ऒऴिगै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-श्लेषो नाम -  
+एषाम् आश्रितानां विषये  
+अस्य कर्म-फल-प्रदानाभिसन्धेर् अनुदयः ।
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1040,6 +1328,15 @@ en el caso de aquellos **que han buscado** Su **protección**
 
 ऎऩ्ऩिल्; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> इत्थं सर्व-कर्मसु निवर्तमानेषु सत्सु  
+सुहृद्भिर् द्विषद्भिश् च विभज्य गृह्यमाणानि कानि
+
+इति चेत् — 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1076,6 +1373,13 @@ Si las buenas y malas acciones (por karna pasado) **son** todas **destruidas** d
 अश्लेष-विनाश-विषयङ्गळुम्  
 बुद्धि-पूर्वोत्तर-पुण्यङ्गळिल् कर्मान्तर-प्रतिबद्ध-फलङ्गळुम्। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अश्लेष-विनाश-विषय-भूतानि,  
+बुद्धि-पूर्वोत्तर-पुण्येषु कर्मान्तर-प्रतिबद्ध-फलानि च । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1117,6 +1421,15 @@ debido a un karma más fuerte.
 ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एतान्य् उपायारम्भे सुहृत्सु द्विषत्सु चेश्वरः कुतो न संक्रामयति ;  
+अन्तिम-दशापर्यन्तं प्रतीक्षणं किम्-अर्थं करोति
+
+इति चेत् — 
+</details>
+
+
 <details><summary>English</summary>
 
 (It **is said** in the śrutis) that Iśvara **distributes** these among the man's friends and foes at the time of his death.  
@@ -1152,6 +1465,16 @@ Las **respuestas** a estas preguntas **son las siguientes**:
 इस् सुकृतङ्गळै संक्रमिप्पियाद् ऒऴिगैक्क् आगवुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एषाम् आश्रितानां विषये  
++++(अपरेण)+++ कृतस्यानुकूलस्य  
+उत्तरकाले विपरीतय् आचरिते  
+एषां सुकृतानाम् अ-संक्रमणार्थम्, 
+</details>
+
+
+
 <details><summary>English</summary>
 
 A man **may have behaved** with favourable intentions towards the devotee at first,  
@@ -1180,6 +1503,13 @@ En tales circunstancias, las buenas acciones **no deberían haber sido regaladas
 मेल् क्षमै गॊळ्ळ अवसरङ् कॊडुक्कैक्क् आगवुम्  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आश्रित-विषये कृतस्य प्रातिकूल्यस्य  
+पश्चात् क्षमा-याचनार्थम् अवसर-दानाय च
+</details>
+
+
 <details><summary>English</summary>
 
 Further the Lord **desires** to **give** opportunities to foes  
@@ -1204,6 +1534,13 @@ que **han hecho** mal al devoto para **pedir** perdón.
 इव्व्-आश्रितर्-उडैयव् अन्तिम-शरीर-विश्लेषत्त् अळवुम्  
 इवर्गळ्-उडैय पुण्य-पापङ्गळैयसल् पिळन्द् एऱिडाद् ऒऴिगिऱाऩ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषाम् आश्रितानाम् अन्तिम-शरीर-विश्लेष-पर्यन्तम्  
+एषां पुण्य-पापान्य् अन्यत्रासंक्रामयन् वर्तते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1231,6 +1568,15 @@ hasta los últimos momentos del devoto.
 मुमुक्षुवुक्कु पापम् आगैयालेय्  
 अदु मुमुक्षुव् आऩ सुहृत्तिऩ् पक्कल् संक्रमियादु। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वर्गाद्य्-अर्थ-सुकृतस्य  
+मुमुक्षुं प्रति पाप-रूपत्वात्  
+तन् मुमुक्षौ सुहृदि  
+न संक्रान्तं भवति ॥+++(4)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1262,6 +1608,15 @@ si este último **es un aspirante** a mukti.
 ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> येन केनचित् कृतानां कर्मणाम्  
+अन्येषु केषुचित् संक्रमणं नाम किम्? 
+
+इति चेत् — 
+</details>
+
+
 <details><summary>English</summary>
 
 It **may be asked**,  
@@ -1290,6 +1645,15 @@ It **may be asked**,
 इवऩ्-उडैय शत्रु-मित्रर्गळ् पक्कलिले  
 निग्रहानुग्रहङ्गळ् उदिक्कै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतस्य कर्तुर् विषये  
+ईश्वरस्य जायमानौ यौ निग्रहानुग्रहौ,  
+तत्-समान-भूतयोर् निग्रहानुग्रहयोर्  
+एतच्-छत्रु-मित्र-विषयय् उदयः ॥ 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1322,6 +1686,16 @@ ahora **se transfiere** a sus enemigos y amigos en igual medida".
 
 ऎऩ्ऩिल्; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> यैः कैश्चिद् अनुष्ठितैः कर्मभिर्  
+अन्येषां येषां केषांचिद् विषये निग्रहानुग्रहयोर् उत्पत्तौ सत्याम्  
+अतिप्रसङ्गः किं न स्याद् 
+
+इति चेत् — 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1363,6 +1737,14 @@ el que **sembró** debe **segar** la cosecha".
 अतिप्रसङ्गम् इल्लै। +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P405]]  
+एतौ मुमुक्षु-विषयय् अनुकूल-प्रतिकूलयोर् उपचारापचार-रूपे कर्मणी निमित्तीकृत्य जायेते  
+इति नातिप्रसङ्गः ।+++(4)+++ 
+</details>
+
+
 <details><summary>English</summary>
 
 The answer **is** this:-  
@@ -1394,6 +1776,14 @@ por estos amigos y enemigos al **aspirante** a mukti.
 ऎऩ्ऩाद् ऒऴिगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत एव किल -  
+उदासीनेषु सुकृत-दुष्कृतयोर् द्वयोः संक्रमणानुक्तिः ।  
+
+</details>
+
+
 <details><summary>English</summary>
 
 That **is** why it **is** nowhere **stated** that  
@@ -1418,6 +1808,11 @@ Por eso **en** ninguna parte **se dice** que
 
 फल-सारूप्य-मात्रत्तालेय् इङ्गु संक्रमणोपचारम्।+++(4)+++ 
 </details>
+<details><summary>नीलमेघः (सं)</summary>
+
+फल-सारूप्य-मात्राद् अत्र संक्रमणोपचारः ।+++(4)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1440,8 +1835,17 @@ La palabra '**transferir**' **se usa** aquí en el sentido de que (sus amigos y 
 
 इस् सुकृत-दुष्कृत-संक्रान्ति सॊल्लुगिऱ श्रुतियाले  
 ईश्वरऩुक्क् अत्यर्थ-प्रियऩ् आऩ ज्ञानि-विषयत्तिऱ् पण्णिऩ उपचारापचारङ्गळाल्  
-वरुम् प्रीति कोपङ्गळिऩ्-उडैय तीव्रतमत्वम् सूचितम् आयिऱ्ऱु।
+वरुम् प्रीति कोपङ्गळिऩ्-उडैय तीव्रतमत्वम् सूचितम् आयिऱ्ऱु।+++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनया सु-कृत--दुष्-कृत--संक्रान्ति-प्रतिपादिकया श्रुत्या  
+ईश्वरस्यात्यर्थ-प्रिय-ज्ञानि-विषये कृताभ्याम् उपचारापचाराभ्यां  
+जायमानयोः प्रीति-कोपयोस्  
+तीव्रतमत्वं सूचितं भवति ।+++(4)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1481,6 +1885,7 @@ quien **es** extremadamente querido por el Señor.
 स स तस्याहम् एवेति  
 चरम-श्लोक-संग्रहः ॥)
 
+इति श्लोक-प्रतिपादित-योजनायां 
 </details>
 
 <details><summary>English</summary>
@@ -1512,6 +1917,13 @@ yo mismo **estoy** en el lugar de esas acciones”.)
 अधिकारिय्-उडैयव् अपेक्षैक्क् ईड् आग  
 प्राप्ति-विरोधिगळैयुम्, उपाय-विरोधिगळैयुम्, प्रतिकूलानुभव-हेतुक्कळैयुम् संग्रहिक्किऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“सर्वपापेभ्यः” इत्य् एतत्  
+अधिकार्य्-अपेक्षानुरोधेन प्राप्ति-विरोधीन्य्, उपाय-विरोधीनि, प्रतिकूलानुभव-हेतूंश् च संगृह्णाति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1545,6 +1957,16 @@ y también las causas de **experimentar** cosas desagradables.
 
 ऎऩ्गिऱ भगवत्सङ्कल्पम्। 
 </details>
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र प्राप्तिविरोधी तावत् — 
+
+> सापराधो ऽयम्  
+अस्माकम् अनुभविता मा भूद् 
+
+इति भगवतः सङ्कल्पः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1569,11 +1991,22 @@ el **infractor no disfrutará** de Él.
 ### उपाय-विरोधि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपाय-विरोधिय् आवदु;  
++++(विकल-प्रपत्तौ)+++ उपाय-विरोधिय् आवदु;  
 नम्मैय् इवऩ् तॆळिन्दु  
 वशी-करिक्क कडवऩ् अल्लऩ्  
 ऎऩ्गिऱ सङ्कल्पम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(विकल-प्रपत्तौ)+++ उपाय-विरोधी तावत् —  
+
+> अस्मान् अयं विशदं विज्ञाय  
+वशी-कर्ता मा भूद् 
+
+इति सङ्कल्पः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1605,6 +2038,14 @@ y **haz** lo que **sea necesario** para **propiciarlo**.
 अव्व्-ओ फल-प्रदान सङ्कल्पम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रतिकूलानुभव-हेतुस् तावत्  
+तत्-तत्-प्रतिकूल-कर्मानुष्ठान-जनितः  
+स स फल-प्रदान-सङ्कल्पः । 
+</details>
+
+
 <details><summary>English</summary>
 
 The causes of **experiencing disagreeable** things  
@@ -1635,6 +2076,16 @@ como **disgustado** Él.
 निग्रह-निवृत्ति-रूप-प्रसादत्ताले निवृत्तङ्गळ् आम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मुमुक्षोर् विषये  
+सर्वे निग्रहा निवृत्ताश् चेत्  
+निग्रह-कार्या अ-चित्-संबन्धादयो  
+निग्रह-निवृत्ति-रूप-प्रसादेन निवृत्ता भवन्ति । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 If all punishments **are cancelled** in the case of the aspirant for mukti,  
@@ -1663,6 +2114,14 @@ que **canceló** los **castigos**.
 पिऩ्बु कारणाभावत्ताले  
 कार्यम् आऩ प्रतिकूलङ्गळ् ऒऩ्ऱुं वारादु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ततः परं कारणाभावात्  
+कार्याणि प्रतिकूलानि कान्य् अपि न जायेरन् । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -1695,9 +2154,12 @@ A partir de entonces, dado que **no hay** causas,
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इदम् 
+
 > ‘‘अनावृत्तिश् शब्दात्’’  
 (ब्रह्मसूत्रम् ४-५-२२) 
 
+इति सूत्रे विवक्षितम् । 
 </details>
 
 <details><summary>English</summary>
@@ -1731,6 +2193,14 @@ porque los śrutis **dicen** así".
 निलम्+++(=भूः)+++ आय् इरुक्कुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इमे निष्कर्षाः सर्वे ऽपि  
+भाष्ये सत्-संप्रदाय-पूर्वकं चिर-परिचयं कृतवतां महा-प्राज्ञानां  
+गोचरा भवन्ति ॥
+</details>
+
+
 <details><summary>English</summary>
 
 These **conclusions are** within the reach of the knowledge of those very wise men  
@@ -1755,6 +2225,16 @@ quienes **han estudiado** Śrī Bhāṣya durante mucho tiempo junto con las tra
 इप्-पडि ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऱु  कार्य-कारण-रूप- समस्त-प्रतिबन्ध-प्रवाह-निवृत्तियैच् चॊल्ल  
 स्वतः प्राप्तम् आऩ परिपूर्ण-भगवद्-अनुभवाविर्भावञ् जॊल्लिऱ्ऱ् आयिऱ्ऱु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P406]]  
+इत्थं "सर्वपापेभ्यो मोक्षयिष्यामि"  
+इति कार्य-कारण-रूप-- समस्त-प्रतिबन्ध-प्रवाह-निवृत्ताव् उक्तायां  
+
+स्वतः प्राप्तः परिपूर्ण-भगवद्-अनुभवाविर्भाव उक्त एव भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1916,6 +2396,12 @@ son **son** cualidades eternas del yo".
 ऎऩ्ऱु श्री-शौनक-भगवान् अरुळिच् चॆय्दाऩ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इति शौनक-भगवान् अनुजग्राह । 
+</details>
+
+
 <details><summary>English</summary>
 
 For Bhagavan Śaunaka says thus.
@@ -1936,11 +2422,22 @@ Porque Bhagavan Śaunaka **dice** así.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञान-द्रव्यमुम्,  
+
 इदिऩ्-उडैय सर्व-विषय-विकासत्तुक्कु स्व-रूप--योग्यता-रूपैय् आऩ शक्तियुम्  
 
 नित्यङ्गळ् आगैयालेय्  
 अवऱ्ऱिल् आविर्-भावशब्दम् मुख्यम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-द्रव्यस्य,  
+
+एतदीय+++(→जीव)+++-- सर्व-विषय-विकासौपयिक- स्व-रूप--योग्यता-रूप-शक्तेश् च 
+
+नित्यत्वात् - तयोर् आविर्-भाव-शब्दो मुख्यः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1972,9 +2469,15 @@ la palabra correcta a **usar es 'manifestación'** -
 
 सर्व-विषय-विकासमुम्,  
 दुःख-निवृत्त्य्-आदिगळुम्,  
-सङ्कल्पादिगळुम्, कैङ्कर्यङ्गळुम्  
++++(दास-)+++सङ्कल्पादिगळुम्, कैङ्कर्यङ्गळुम्  
 आगन्तुकङ्गळ् आय् इरुक्क
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-विषय-विकासस्य, दुःख-निवृत्य्-आदीनां, +++(दास-)+++सङ्कल्पादीनां, कैङ्कर्याणां चागन्तुकत्वे ऽपि  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2004,6 +2507,13 @@ y otras cosas similares y las formas de servicio o kaiṅkarya **surgen** de nue
 
 मेल् मुऴुक्क+++(=पूर्णतः)+++ नडक्कुम् बडि तोऱ्ऱुगैक्क् आगव्  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषां निवृत्त-प्रतिबन्ध-स्वरूपोपाधिकतया  
+अग्रे यावत्-काल-तत्त्वं संभवस्य द्योतनार्थम् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2035,6 +2545,15 @@ estos servicios **seguirán** automáticamente;
 > १३६‘‘आविस् स्युर् मम सहज-कैङ्कर्य-विधय’’(अष्टश्लोकी ३) 
 
 इत्य्-आदिगळाले आविर्-भाव-शब्दम् प्रयुक्तम् आगिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषु, 
+
+> १३६‘‘आविस् स्युर् मम सहज-कैङ्कर्य-विधय’’(अष्टश्लोकी ३) 
+
+इत्य्-आदिषु आविर्-भाव-शब्दः प्रयुक्तो भवति । 
 </details>
 
 <details><summary>English</summary>
@@ -2073,6 +2592,19 @@ que **son** naturales para mí
 अदिलुम् आविर्भाव-शब्दत्तुक्कु विरोधम् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[स्वरूप-योग्यत्व-भावात्]  
+कर्मोपाधिकतया बहु-विधानुकूल्य--प्रातिकूल्योः संभवस्याधिकरण-भूतानां  
+भगवद्-विभूति-भूतानां वस्तूनाम्  
+
+अग्रे यावत्-काल-तत्त्वं मोक्ष-दशायाम्  
+आनुकूल्यस्यैव स्व-रूप-प्राप्तत्वात्  
+
+तत्राप्य् आविर्-भाव-शब्दस्य न विरोधः । 
+</details>
+
+
 <details><summary>English</summary>
 
 (In the state of saṁsāra), the objects (in the Universe) which **are** all the glorious possessions of Bhagavān **appear disagreeable** in various ways  
@@ -2108,6 +2640,13 @@ Por lo tanto, también en ese estado, la palabra '**manifestación**' (de **amab
 इव्व्-अनुकूलावस्थान्तरम् सिद्धम् आयिऱ्ऱु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः "सर्वपापेभ्यो मोक्षयिष्यामि" इत्य्-उक्ते  
+इदम् अनुकूलावस्थान्तरं सिद्धं भवति ।
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore the words  
@@ -2139,6 +2678,14 @@ en el que todas las cosas **manifestarán** su agrado natural hacia él.
 इव्व् इष्ट-प्राप्तियुम्  
 इश्-श्लोकत्तिले सुव्यक्तम् आगच् चॊल्लिऱ्ऱाम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एक-शब्दस्योपाय-फलैक्यार्थकत्वे  
+इयम् इष्ट-प्राप्तिर् (अपि)  
+अस्मिन् श्लोके सुव्यक्तं प्रतिपादिता भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2173,12 +2720,14 @@ este **logro** del fin **deseado** también **se hace claro**.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अतः 
 
 > (**मन्-मना भव** मद्-भक्तो  
 मद्-याजी मां नमस्कुरु।)  
 **माम् एवैष्यसि** (सत्यं ते  
 प्रतिजाने - प्रियोऽसि मे)॥
 
+इति पूर्व-श्लोके विशदम् उक्तो ऽर्थः  
 </details>
 
 
@@ -2208,6 +2757,13 @@ Por lo tanto, la idea que **fue expresada** claramente en el śloka (Gītā - 18
 "एक"-शब्दत्तिल् विवक्षा-विशेषत्तालुञ्  
 जॊल्लिऱ्ऱ् आम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र प्राप्ति-विरोधि-निवर्तन-बलात्  
+एकशब्दे विवक्षा-विशेषेण चोक्तो भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2242,11 +2798,20 @@ los **obstáculos** para ese **logro son destruidos**‌.
 
 आऩ बिऩ्बु +++(तत्रोक्तम् अत्र पृथग् उक्तत्वात्)+++, इदु,  
 
-सापेक्षम् आय्क् कॊण्डु  
-कीऴिल् श्लोकत्तिऱ्कु शेषम् आगिऱद्  
+सापेक्षम् आय्क् कॊण्डु कीऴिल् श्लोकत्तिऱ्कु शेषम् आगिऱद्  
 
 अऩ्ऱु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं सिद्धे +++(तत्रोक्तम् अत्र पृथग् उक्तत्वात्)+++, 
+
+अयं  
+सापेक्षः सन् पूर्वश्लोकस्याशेषो न भवति ।
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -2283,6 +2848,18 @@ y **se preocupa** por prapatti.)
 ‘‘माम् एवैष्यसि’’ ऎऩ्ऱु सॊऩ्ऩ भगवत्-प्राप्ति सिद्धिक्कुमो; 
 </details>
 
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P407]]
+
+> > “सर्व-पापेभ्यो मोक्षयिष्यामि" 
+> 
+> इत्य् एतावता  
+"माम् एवैष्यसि" इत्य्-उक्ता भगवत्-प्राप्तिः  
+कथं नु सिध्येत्? 
+</details>
+
 <details><summary>English</summary>
 
 > "When it **is said**  
@@ -2315,6 +2892,15 @@ la **liberación** de los pecados **conduciría** al **alcance** de Bhagavān
 भगवत्-प्राप्तिय् अऩ्ऱिक्के  
 स्वात्म-मात्रानुभव-रूपम् आऩ कैवल्यम् पॆऱुवारुम् इल्लैयो!
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सर्व-पाप-निवृत्तौ सत्याम् एव,  
+भगवत्-प्राप्तिं विनैव  
+स्वात्म-मात्रानुभव-रूपं कैवल्यं प्राप्नुवन्तः  
+किं न भवन्ति ? 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2357,15 +2943,15 @@ sin **alcanzar** Bhagavān?
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> 
+> भगवत्-प्राप्तितो भिन्नं कैवल्यम्, 
 > 
 > > ‘‘ऐहलौकिकम् ऐश्वर्यं  
-स्वर्गाद्यं पार-लौकिकम् ।  
+स्वर्गाद्यं पारलौकिकम् ।  
 कैवल्यं भगवन्तञ् च  
-मन्त्रोऽयं **साधयिष्यति**॥’’  
+मन्त्रो ऽयं **साधयिष्यति**॥’’  
 (नारदीय-कल्पः) 
 > 
-> 
+> इति नारदादिभिर् उक्तं किल । 
 </details>
 
 <details><summary>English</summary>
@@ -2408,13 +2994,13 @@ y el **disfrute** de Bhagavān".
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> 
+> श्रीयामुनाचार्या अपि 
 >
 >> ‘‘ऐश्वर्याक्षर-याथात्म्य--  
 भगवच्-चरणार्थिनाम्’’  
 (गीतार्थ सङ्ग्रहम् १२) 
 >
-> 
+> इति, 
 </details>
 
 <details><summary>English</summary>
@@ -2455,7 +3041,7 @@ y, igualmente, la **realización** de kaiṅkarya o **servicio** a los pies del 
 > > ‘‘संसृत्य्-अक्षर-वैष्णवाध्वसु’’  
 (चतुः-श्लोकी ३) 
 >
-> 
+> इति चानुजगृहुः । 
 </details>
 
 <details><summary>English</summary>
@@ -2493,12 +3079,12 @@ y, igualmente, la **realización** de kaiṅkarya o **servicio** a los pies del 
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> 
+> गद्ये ऽपि, 
 > 
 > > ‘‘सर्व-कामांश् च साक्षरान्’’  
 (शरणागति-गद्यम्) 
 > 
-> 
+> इति वाक्यम् उक्तम् । 
 </details>
 
 <details><summary>English</summary>
@@ -2526,8 +3112,14 @@ y, igualmente, la **realización** de kaiṅkarya o **servicio** a los pies del 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रीगीता-भाष्यादिगळिलुम् इव्व्-अर्थम् प्रपञ्चितम्। 
+> श्रीगीता-भाष्यादिगळिलुम् इव्व्-अर्थम् प्रपञ्चितम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> श्री-गीता-भाष्यादिषु चायम् अर्थः प्रपञ्चितः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2553,6 +3145,15 @@ y otros **escritos** similares.
 कैवल्यत्तुक्कुम्, भगवत्-प्राप्तिक्कुम् पॊदुव् अऩ्ऱोव्? 
 
 ऎऩ्गै मन्द-चोद्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अतः 'सर्वपापेभ्यो मोक्षयिष्यामि' इत्य्-उक्ता सर्व-पाप-निवृत्तिः  
+कैवल्यस्य भगवत्-प्राप्तेश् च  
+किं न साधारणी भवति - 
+
+इत्य् एतन् मन्द-चोद्यम् । 
 </details>
 
 <details><summary>English</summary>
@@ -2597,6 +3198,15 @@ que **resulta** de la declaración
 अप्-पोदु भगवद्-अनुभव-रहितम् आऩ आत्म-मात्रानुभवम् घटियादु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम् इति चेत्-  
+सर्वपापेषु निवृत्तेषु  
+स्वतः प्राप्तं भगवद्-अनुभवं हित्वा ऽवस्थाने कारणाभावात्  
+तदा भगवद्-अनुभव-रहित आत्म-मात्रानुभवो न घटते । 
+</details>
+
+
 <details><summary>English</summary>
 
 The objection (stated so far) **is unsound** for the following reasons:-  
@@ -2638,6 +3248,14 @@ sin el **disfrute** de Bhagavān
 वरुगैक्क् ईड् आऩ कर्मङ्गळ् कऴिन्दु
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतस् तस्याम् अवस्थायाम्  
+ऐश्वर्यस्य जरा-मरण-दुःखानां च प्राप्तेः कारणेषु कर्मसु निवृत्तेषु  
+
+</details>
+
+
 <details><summary>English</summary>
 
 Hence in that state (kaivalya), (**we should understand** that)  
@@ -2661,6 +3279,12 @@ los karma-s que **producen** riqueza, y **sufrimientos** como la vejez y la muer
 
 परिपूर्ण-भगवद्-अनुभवत्तुक्कुप् प्रतिबन्धकम् आऩ कर्मङ् कऴियादे किडक्किऱव् अळविले
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परिपूर्ण-भगवद्-अनुभव-प्रतिबन्धकेषु कर्मस्व् अविनष्टेषु सत्सु, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2695,6 +3319,8 @@ pero que el karma que **es** un **obstáculo** para el perfecto **disfrute** de 
 मन्यते नाधिकं ततः’’  
 (गीता ६-२२) 
 
+इत्य् एवं वक्तव्य-रूपेणावतिष्ठते  
+कश्चित् स्वात्मानुभवानन्द-विशेषः । 
 </details>
 
 <details><summary>English</summary>
@@ -2743,6 +3369,8 @@ que **consiste** en la **experiencia** del propio yo incorpóreo.
 > ‘‘आत्मार्थी चेत् त्रयो ऽप्य् एते +++(योगाः)+++  
 तत्+++(=आत्म)+++-कैवल्यस्य साधकाः’’  
 (गीतार्थ सङ्ग्रहम् २७) 
+
+इत्य्-उक्तरीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -2778,6 +3406,15 @@ que **se llama** kaivalya".
 अचिद्-अनुभवत्तोडुम् भगवद्-अनुभवत्तोडुन् तुवक्क् इल्लाद बडियाले  
 **कैवल्यम्** ऎऩ्ऱु बेर् इट्टार्गळ्।+++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-शक्येन केनचिद् उपाय-विशेषेण सिध्यतो ऽस्यानुभवस्य  
+अचिद्-अनुभवेन, भगवद्-अनुभवेन च सह संबन्धाभावात्  
+**कैवल्यम्** इति नाम चक्रुः । +++(4)+++ 
+[[P408]]
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2815,6 +3452,13 @@ sin **asociación** ni con acit ni con Bhagavān.
 सर्वोपाधि+++(←कर्म)+++-निवृत्तियै निऩैक्किऱदु। +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-प्राप्तौ कैवल्य-शब्दः  
+सर्वोपाधि-निवृत्तिम् अभिप्रेति । +++(4)+++ 
+</details>
+
+
 <details><summary>English</summary>
 
 (In some places) mukti or the attainment of Bhagavān **is called** by the word kaivalya  
@@ -2845,6 +3489,17 @@ para **mostrar** que todos los upādhis o factores condicionantes
 
 इत्य्-आदिगळिल् प्रयुक्तम् आऩ मुक्ति-शब्दमुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आत्म-मात्रानुभव-विषयकेषु 
+
+> ‘‘स्वात्मानुभूतिर् इति या किल मुक्तिर् उक्ता’’ 
+(वरद-राज-स्तवः ८१) 
+
+इत्य्-आदिषु प्रयुक्तो मुक्ति-शब्दो ऽपि 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2892,6 +3547,7 @@ que **se llama** mukti -
 यस् सदा मुक्त एव स’’ +++(4)+++  
 (गीता ५-२८) 
 
+इत्य्-आदिष्व् इव निर्वाह्यः । 
 </details>
 
 <details><summary>English</summary>
@@ -2934,7 +3590,8 @@ Sólo **significa** "Él **parece** un mukta".
 > ‘‘जरा-मरण-मोक्षाय’’  
 (गीता ७-२९) 
 
-
+इत्य् एतद् अपि  
+देवानाम् अ-मरत्व-व्यपदेशवद् आपेक्षिकम् ; 
 </details>
 
 
@@ -2979,6 +3636,13 @@ porque **viven** mucho más.
 
 क्रमेण मुक्ति-पर्यन्तम् आम् विषयत्तैप् पऱ्ऱच् चॊल्लुगिऱद् आगवुमाम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+क्रमेण मुक्ति-पर्यन्ततया भवन-रूपं विषयं प्रतिपादयतीति वा । 
+</details>
+
+
 <details><summary>English</summary>
 
 Or it **may be explained** as **stating** that kaivalya **will lead**, in course of time, to mukti.  
@@ -2998,6 +3662,12 @@ O **puede explicarse** como **afirmando** que kaivalya **conducirá**, con el pa
 
 इप्-पडि विभव-व्यूह-सालोक्यादि-मात्रत्तिल् मुक्ति-शब्दमुम् निर्वाह्यम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं विभव-व्यूह-सालोक्यादि-मात्रे मुक्ति-शब्दो ऽपि निर्वाह्यः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3055,6 +3725,7 @@ Desde ese mundo, después de **meditar** en el Ser Supremo,
 **सायुज्यम्** अन्ये - स तु मोक्ष **उक्तः**॥’’ 
 (श्री भागवतम्) 
 
+इति नियमितं किल । 
 </details>
 
 <details><summary>English</summary>
@@ -3099,6 +3770,13 @@ y **es** esto que **lleva** por el nombre mokṣa".
 परम-पदत्तिऱ् सॆऩ्ऱवऩ्-उडैय भोग-साम्यम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रोक्तं **सायुज्यं**  
+परम-पदं गतस्य भोगसाम्यम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 The "sayujyam" **referred to** here  
@@ -3129,6 +3807,13 @@ y **disfrutando** la misma bienaventuranza que la de Bhagavān
 "केवलात्मानुभवं नित्यम् अऩ्ऱ्" ऎऩ्ऩुम् इडमुम्  
 "साक्षान्-मोक्षम् अऩ्ऱ्" ऎऩ्ऩुम् इडमुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+केवलात्मानुभवो नित्यो नेत्य् अयम् अर्थः,  
+साक्षान् मोक्षो नेत्य् अयम् अर्थश् च
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3223,6 +3908,7 @@ sin ningún **apego** ni **deseo** por su fruto,
 प्रतिबुद्धस् तु मोक्ष-भाक्॥’’  
 (भारतम् शान्ति-पर्व ३५०-३३-३३५) 
 
+इति वचनेन सिद्धौ । 
 </details>
 
 <details><summary>English</summary>
@@ -3264,6 +3950,8 @@ pero el jnani (que **es** un ekāntin) **alcanza** mokṣa."
 जिज्ञासुर् +++(→आत्म-निष्ठः)+++ **लभते** भक्तिं  
 भक्तो भक्त-गतिं **लभेत्**॥’’  
 (भारतम् शान्ति-पर्व ३४८-८१) 
+
+इत्य्-उक्तत्वात् 
 </details>
 
 <details><summary>English</summary>
@@ -3305,6 +3993,13 @@ el bhakta o devoto **alcanzará** mokṣa".
 श्री-गीतैयिल् ‘‘जिज्ञासुः’’ ऎऩ्गिऱव् आत्म-निष्ठऩुम् क्रमेण ज्ञानिय् आम् ऎऩ्ऱ् उक्तम् आयिऱ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-गीतार्थे "जिज्ञासुर्" इत्य्-उक्त आत्मनिष्ठो ऽपि  
+क्रमेण ज्ञानी भवतीत्य् उक्तं भवति ।
+</details>
+
+
 <details><summary>English</summary>
 
 This amounts to **stating** that the jijnasuh **spoken of** in the Gita,  
@@ -3335,6 +4030,14 @@ quien **está deseoso** de **experimentar** su yo,
 
 ऎऩ्ऱु भगवद्-अनुभवत्तै नित्यम् ऎऩ्गैयालुम्  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "स्थिरे ऽभिनिविष्टश् चेत्”  
+
+इति भगवद्-अनुभवस्य नित्यत्वोक्तेर् (अपि) 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3386,6 +4089,15 @@ En este (verso tamil) se dice que el **disfrute** de Bhagavān **es** eterno.
 ऎऩ्ऩुम् इडम् व्यञ्जितम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P409]]  
+> एतद्-व्यवच्छेद्यत्वेनोच्यमान आत्म-मात्रानुभवो नित्यो न
+
+इत्य् एतद् व्यञ्जितम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 and the **experience** of the disembodied self,  
@@ -3411,11 +4123,18 @@ que **se distingue** de ella,
 
 इदुक्कु 
 
-> ’’इऱुदि कूडाव्’’  
+> ’’इऱुदि+++(=मिति)+++ कूडाव्’’  
 (तिरुवाय्मॊऴि ६-९-१०)  
 
 इत्य्-आदिगळिल् "नाशम् इल्लैय्" ऎऩ्गिऱ पासुरमुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य 'नाशरहितः' इति गाथादिषु  
+नाशाभाव-प्रतिपादकं वचो ऽपि 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3439,6 +4158,12 @@ que **se distingue** de ella,
 चातुर्-मास्यादि-कर्म-फल-विशेषङ्गळिल् अक्षय्यत्वोक्तिपोले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+चातुर्मास्यादि-कर्म-फल-विशेषेष्व् अक्षय्यत्वोक्तिवत् 
+</details>
+
+
 <details><summary>English</summary>
 
 like the **statement** of the fruit of the rite called cāturmāsya **being imperishable**; 
@@ -3457,7 +4182,12 @@ como la **afirmación** del fruto del rito **llamado** cāturmāsya **siendo imp
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-’’ऎऩैय्+++(=कियत्)+++ ऊऴिय्+++(=चिरायत्)+++” ऎऩ्गिऱव् अतिचिर-काल-स्थायित्वाभिप्रायम्।
+’’ऎऩैय्+++(=कियत्)+++ ऊऴिय्+++(=कल्प)+++” ऎऩ्गिऱव् अतिचिर-काल-स्थायित्वाभिप्रायम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"बहुकल्पम्" इत्य्-उक्तातिचिर-काल- स्थायित्वाभिप्रायम् । 
 </details>
 
 <details><summary>English</summary>
