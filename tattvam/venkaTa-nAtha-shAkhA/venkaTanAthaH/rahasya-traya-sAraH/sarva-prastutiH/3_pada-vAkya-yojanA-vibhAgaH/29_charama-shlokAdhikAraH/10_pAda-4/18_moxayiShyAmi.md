@@ -4522,9 +4522,9 @@ quien **está deseoso** de **experimentar** su yo,
 #### कैवल्यम् अ-स्थिरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ("अऱ्ऱ् अदु **पऱ्ऱ्**" ऎऩिल्, **उऱ्ऱदु**+++(=भवति)+++ वीड्+++(=[कैवल्य-]मुक्तिं)+++ उयिर्+++(=प्राणाः→आत्मा)+++,  
-**सॆऱ्ऱ्**+++(=अवज्ञाय)+++ अदु,) मऩ्ऩ्+++(=स्थिरं)+++ **उऱिल्**+++(=भाविते)+++ (अऱ्ऱ् इऱै+++(=ईश्वरं)+++ **पऱ्ऱे**+++(=प्राप्तिः)+++।)
-(तिरुवाय्मॊऴि १-२-५) 
+> ("**अऱ्ऱ्**+++(=विहाय)+++ अदु **पऱ्ऱ्**+++(=सङ्गः)+++" ऎऩिल्, **उऱ्ऱदु**+++(=भवति)+++ वीड्+++(=[कैवल्य-]मुक्तिं)+++ उयिर्+++(=प्राणाः→आत्मा)+++,  
+**सॆऱ्ऱ्**+++(=अवज्ञाय)+++ अदु,) मऩ्ऩ्+++(=स्थिरं)+++ **उऱिल्**+++(=भाविते)+++ (**अऱ्ऱ्**+++(=विजहि)+++ इऱै+++(=ईश्वरं)+++ **पऱ्ऱे**+++(=अवलम्ब्य)+++।)
+(तिरु-वाय्-मॊऴि १-२-५) 
 
 ऎऩ्ऱु भगवद्-अनुभवत्तै नित्यम् ऎऩ्गैयालुम्  
 </details>
@@ -4947,7 +4947,7 @@ Sin embargo, de acuerdo con el principio **explicado** en el madhu vidyā, final
 मधुविद्यान्यायत्ताले ब्रह्मप्राप्तिपर्यन्तमाय् विडुम्। 
 </details>
 
-#### आत्मानुसन्धानान्तरे फल-भेदः
+#### फल-भेदः, गति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृति-संसृष्टम् आय् आदल्, प्रकृति-वियुक्तम् आय् आदल् इरुक्कुम् आत्म-वस्तुवै  
@@ -5073,7 +5073,7 @@ Entonces, si **medita** solo en sí mismo, **se convertirá** en el yo (y **no a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘श्रुतोपनिषत्क-गत्य्-अभिधानाच् च’’(ब्रह्मसूत्रम् १-२-१७) 
+> ‘‘श्रुतोपनिषत्क-गत्य्-अभिधानाच् च’’(ब्रह्म-सूत्रम् १-२-१७) 
 
 ऎऩ्गिऱ सूत्रत्तिलुम्  
 ऒरु विद्या-विशेषत्तिल् उपास्यऩ् परमात्माव् ऎऩ्गैक्कु  
@@ -5081,12 +5081,7 @@ Entonces, si **medita** solo en sí mismo, **se convertirá** en el yo (y **no a
 हेतुव् आगक् कॊण्डु साधिक्कैयाले
 </details>
 
-<details><summary>मूलम्</summary>
-
-‘‘श्रुतोपनिषत्कगत्यभिधानाच्च’’(ब्रह्मसूत्रम् १-२-१७) ऎऩ्गिऱ सूत्रत्तिलुम् ऒरु विद्याविशेषत्तिलुपास्यऩ् परमात्मावॆऩ्गैक्कु अर्चिरादिगति सॊऩ्ऩदै हेतुवागक्कॊण्डु साधिक्कैयाले
-</details>
-
-
+<details><summary>English</summary>
 
 In another context, to **prove** that the **being meditated** on in that vidyā **is** (not the jīva but) the Supreme Being or Brahman,  
 the Sūtrakāra **gives** this as his reason for **saying** so:  
@@ -5096,14 +5091,219 @@ the Sūtrakāra **gives** this as his reason for **saying** so:
 
 This **is done** in the sūtra 
 
-> “since  mention is made of the route meditated on by those who have listened to the Upaniṣads” (i.e.) to those who meditate on Brahman.
+> “since **mention is made** of the route **meditated** on  
+by those who **have listened** to the Upaniṣads” (i.e. to those who **meditate** on Brahman).
 
-[^f4]: Note (3)
+</details>
+
+<details><summary>Español</summary>
+
+En otro contexto, para **probar** que el **ser meditado** en ese vidyā **es** (no la jīva sino) el Ser Supremo o Brahman,  
+el Sūtrakāra **da** esta como su razón para **decir** eso:  
+
+> "Ya que la persona que **medita según** este vidyā  
+**se dice** que **pasa** por la ruta archirādi”. 
+
+Esto **se hace** en el sūtra. 
+
+> “ya que **se hace mención** de la ruta **meditada** en  
+por aquellos que **han escuchado** los Upaniṣads” (es decir, por aquellos que **meditan** en Brahman).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘श्रुतोपनिषत्कगत्यभिधानाच्च’’(ब्रह्मसूत्रम् १-२-१७) ऎऩ्गिऱ सूत्रत्तिलुम् ऒरु विद्याविशेषत्तिलुपास्यऩ् परमात्मावॆऩ्गैक्कु अर्चिरादिगति सॊऩ्ऩदै हेतुवागक्कॊण्डु साधिक्कैयाले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जीव-मात्रोपासकऩुक्क् अर्चिर्-आदि-गतिय् इल्लैय्  
+
+ऎऩ्ऩुम् इडम् सिद्धम् आयिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+(Hence it is established that  
+for one who meditates solely on the self,  
+there is no movement along the archirAdi route.)
+
+</details>
+
+<details><summary>Español</summary>
+
+(Por lo tanto **se establece** que  
+para aquel que **medita** únicamente en sí mismo,  
+**no hay movimiento** a lo largo de la ruta archirAdi.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवमात्रोपासकऩुक्कर्चिरादिगतियिल्लै यॆऩ्ऩुमिडम् सिद्धमायिऱ्ऱु।
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् ब्रह्म-प्राप्तिय् इल्लादार्क्क् इश्-श्लोकत्तिऱ्सॊल्लुगिऱ सर्व-पाप-निवृत्तिय् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore to those who **do not attain** Brahman,  
+there **should not have been** the **cancellation** of all sins  
+**spoken** of in the carama śloka. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, a aquellos que **no alcanzan** Brahman,  
+**No debería haber habido** la **cancelación** de todos los pecados  
+**hablado** en el carama śloka.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ब्रह्मप्राप्तियिल्लादार्क्किश् श्लोकत्तिऱ्सॊल्लुगिऱ सर्वपापनिवृत्तियिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-पाप-निवृत्तिय्-उडैयार्क्कु  
+ब्रह्मानुभव-सङ्कोचम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+To those whose sins **have been pardoned** or **cancelled**,  
+there **is no limitation** in regard to the **enjoyment** of Brahman. 
+</details>
+
+<details><summary>Español</summary>
+
+A aquellos cuyos pecados **han sido perdonados** o **cancelados**,  
+**no hay limitación** con respecto al **disfrute** de Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वपापनिवृत्तियुडैयार्क्कु ब्रह्मानुभवसङ्कोचमिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् इङ्गु सर्व-पाप-निवृत्तियैच् चॊल्लुगैयाले  
+
+केवलात्मानुभवत्तुक्कुक् कारणम् आय्  
+परिपूर्ण-ब्रह्मानुभवत्तुक्कुप् प्रतिबन्धकम् आऩ कर्म-विशेषमुङ् कऴिकैयाले
+</details>
+
+<details><summary>English</summary>
+
+Thus since in this śloka,  
+the **annulment** of all sins **is declared**,  
+(we **have to understand** that)  
+even that particular karma which **resulted** in the **experience** of the mere self  
+and which **stood** as a **hindrance** to the full and perfect **enjoyment** of Brahman  
+**is annulled** or **cancelled**. 
+</details>
+
+<details><summary>Español</summary>
+
+Así, dado que en este śloka,  
+la **anulación** de todos los pecados **se declara**,  
+(**tenemos** que **entender** eso)  
+incluso ese karma particular que **resultó** en la **experiencia** del mero yo  
+y que **surgió** como un **obstáculo** para el pleno y perfecto **disfrute** de Brahman  
+**se anula** o **se cancela**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि यिङ्गु सर्वपापनिवृत्तियैच् चॊल्लुगैयाले केवलात्मानुभवत्तुक्कुक् कारणमाय् परिपूर्णब्रह्मानुभवत्तुक्कुप् प्रतिबन्धकमाऩ कर्मविशेषमुङ् गऴिगैयाले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘माम् एवैष्यसि’’ ऎऩ्ऱु कीऴ्-श्लोकत्तिऱ् सॊऩ्ऩ अर्थम्  
+इङ्गुम् +++(चरम-श्लोके)+++ सिद्धम् आयिऱ्ऱु।  
+</details>
+
+<details><summary>English</summary>
+
+From this it **would follow** that  
+what **is stated** in the previous śloka, namely, "Thou **wilt attain** myself” **is declared** in this śloka also.  
+</details>
+
+<details><summary>Español</summary>
+
+De esto **se seguiría** que  
+lo que **se afirma** en el śloka anterior, es decir, "Tú **me alcanzarás** a mí mismo" **se declara** también en este śloka.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘मामेवैष्यसि’’ ऎऩ्ऱु कीऴ्श्लोकत्तिऱ्सॊऩ्ऩ अर्थमिङ्गुम् सिद्धमायिऱ्ऱु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘मामेवैष्यसि’’ ऎऩ्गिऱ प्राप्तियावदु परिपूर्णानुभवम्।
+</details>
+
+<details><summary>English</summary>
+
+"mām eva eṣyasi" / "Thou **wilt attain** myself" **means** "the full and perfect **enjoyment** of Brahman'. 
+</details>
+
+<details><summary>Español</summary>
+
+"mām eva eṣyasi" / "Tú **me alcanzarás** a mí mismo" **significa** "el pleno y perfecto **disfrute** de Brahman".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘मामेवैष्यसि’’ ऎऩ्गिऱ प्राप्तियावदु परिपूर्णानुभवम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् परिपूर्णानुभव-सिद्धिक्क् आग  
+अर्चिर्-आदि-गतियुम्  
+देश-विशेष-प्राप्तियुम्  
+उण्ड् आगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+In order that this perfect **enjoyment** **may happen**,  
+the archirādi route **has** to **be traversed**  
+and a particular region or locality has also to be **reached**.
+</details>
+
+<details><summary>Español</summary>
+
+Para que este perfecto **disfrute pueda suceder**,  
+la ruta archirādi **tiene** que **ser atravesada**  
+y también **se debe llegar** a una región o localidad en particular.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप् परिपूर्णानुभवसिद्धिक्काग अर्चिरादिगतियुम् देशविशेषप्राप्तियुमुण्डागिऱदु। 
+</details>
 
 
 
 
-Therefore to those who do not attain Brahman, there should not have been the cancellation of all sins spoken of in the carama śloka. To those whose sins have been pardoned or cancelled, there is no limitation in regard to the enjoyment of Brahman, Thus since in this śloka, the annulment of all sins is declared, (we have to understand that) even that particular karma  which resulted in the experience of the mere self and which stood as a hindrance to the fall and perfect enjoyment of Brahman is annulled or cancelled. From this it would follow that what is stated in the previous śloka namely, " 'Thou wilt attain myself” is declared in this śloka also mām eva eṣyasi. "Thou wilt attain myself" means "the full and perfect enjoyment of Brahman'. In order that this perfect enjoyment may happen, the archirādi route has to be traversed and a particular region or locality has also to be reached.
 
 
 
