@@ -4991,19 +4991,14 @@ no **existe** el paso por la ruta arcirādi, ni el **alcanzo** de Brahman.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘+++(ध्याने)+++ अ-+++(ब्रह्म-)+++प्रतीकालम्बनान् नयतीति बादरायणः,  
-उभयथा च दोषात् तत्-क्रतुश्च ’’  
+> ‘‘+++(स्वात्म-मात्र-ध्यानादिभिर्)+++ अ-प्रतीक+++(-मात्र)++++आलम्बनान् +++(अर्चिरादि-मार्गेण)+++ नयतीति बादरायणः,  
++++(कार्यम् उपासीनान् नयतीति, परम् एवोपासीनान् इति च →)+++ उभयथा च +++(श्रुति-विरोध-)+++दोषात्, तत्-क्रतुश् च +++(न्यायः प्रयोक्तव्यः)+++’’  
 (ब्रह्मसूत्रम् ४-३-१४) 
 
 ऎऩ्गिऱ सूत्रत्तिलेय् अरुळिच् चॆय्दार्।
 </details>
 
-<details><summary>मूलम्</summary>
-
-‘‘अप्रतीकालम्बनान्नयतीति बादरायणः, उभयथा च दोषात्तत्क्रतुश्च’’(ब्रह्मसूत्रम् ४-३-१४) ऎऩ्गिऱ सूत्रत्तिले यरुळिच्चॆय्दार्।
-</details>
-
-
+<details><summary>English</summary>
 
 This **is declared** in the following :--  
 
@@ -5012,7 +5007,96 @@ In either of the other alternatives,
 there **is conflict** (with the śrutis)  
 and also with the principle of tat-kratu. 
 
-In another context to prove that the being meditated on in that vidyā is (not the jīva (but) the Supreme Being or Brahman, the Sūtrakāra gives this as his reason for saying so: "Since the person who meditates according to this vidyā is said to pass along the archirādi route.” This is done in the sūtra “since  mention[^f4] *  is made of the route meditated on by those who have listened to the Upaniṣads” (i.e.) to those who meditate on Brahman.
+(If it **is said** that only those who **meditate** on Brahman **will attain** Brahman,  
+it **would conflict** with panchagni vidya,  
+according to which he who **meditates** on his self with Brahman as its inner self  
+**will travel** along the archiradi route and reach Brahman.  
+
+If on the other hand, it **is said** that  
+those who **meditate** on (not the cause i e) - Brahman (but) on the effect such as prakriti, nama (name) and the like,  
+it **would conflict** with what is stated in Sadvidya.  
+
+Therefore Badarayana **expresses** his **conclusion** negatively thus : 
+
+> The escort **leads**, by the archiradi route,  
+those who **do not meditate** on parts or aspects of Brahman pratikas.  
+
+From this it **would follow** that  
+those who **meditate** on Brahman alone **would take** the archiradi route  
+and also those who **meditate** on the self but with Brahman as its inner self.  
+Tat-kratu **is** the principle which states the truth -  
+
+> As a man **meditates**, so will he be. 
+
+So if he **meditates** on the self alone, he will **become** the self (and **not attain** Brahman).)
+</details>
+
+<details><summary>Español</summary>
+
+Esto **se declara** en lo siguiente:--  
+
+> Bādarāyana **es** de **opinión** que los Ativāhikās (escoltas) **lideran** a aquellos que **no meditan** en pratikas (es decir) partes o aspectos (de Brahman).  
+En cualquiera de las otras alternativas,  
+hay **conflicto** (con los śrutis)  
+y también con el principio de tat-kratu.
+
+(Si **se dice** que sólo aquellos que **meditan** en Brahman **alcanzarán** Brahman,  
+**entraría en conflicto** con panchagni vidya,  
+**según** el cual aquel que **medita** en sí mismo con Brahman como su yo interior  
+**viajará** a lo largo de la ruta archiradi y **llegará** a Brahman.  
+
+Si por el contrario **se dice** que  
+aquellos que **meditan** en (no la causa, es decir, e) - Brahman (sino) en el efecto como prakriti, nama (nombre) y similares,  
+**entraría en conflicto** con lo que **se afirma** en Sadvidya.  
+
+Por lo tanto Badarayana **expresa** su **conclusión** negativamente así: 
+
+> La escolta **conduce**, por la ruta archiradi,  
+aquellos que **no meditan** en partes o aspectos de Brahman pratikas.  
+
+De esto **se seguiría** que  
+aquellos que **meditan** sólo en Brahman **tomarían** la ruta archiradi  
+y también aquellos que **meditan** en sí mismos pero con Brahman como su yo interior.  
+Tat-kratu **es** el principio que **establece** la verdad-  
+
+> Como un hombre **medita**, así será. 
+
+Entonces, si **medita** solo en sí mismo, **se convertirá** en el yo (y **no alcanzará** Brahman).)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अप्रतीकालम्बनान्नयतीति बादरायणः, उभयथा च दोषात्तत्क्रतुश्च’’(ब्रह्मसूत्रम् ४-३-१४) ऎऩ्गिऱ सूत्रत्तिले यरुळिच्चॆय्दार्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘श्रुतोपनिषत्क-गत्य्-अभिधानाच् च’’(ब्रह्मसूत्रम् १-२-१७) 
+
+ऎऩ्गिऱ सूत्रत्तिलुम्  
+ऒरु विद्या-विशेषत्तिल् उपास्यऩ् परमात्माव् ऎऩ्गैक्कु  
+अर्चिर्-आदि-गति सॊऩ्ऩदै  
+हेतुव् आगक् कॊण्डु साधिक्कैयाले
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘श्रुतोपनिषत्कगत्यभिधानाच्च’’(ब्रह्मसूत्रम् १-२-१७) ऎऩ्गिऱ सूत्रत्तिलुम् ऒरु विद्याविशेषत्तिलुपास्यऩ् परमात्मावॆऩ्गैक्कु अर्चिरादिगति सॊऩ्ऩदै हेतुवागक्कॊण्डु साधिक्कैयाले
+</details>
+
+
+
+In another context, to **prove** that the **being meditated** on in that vidyā **is** (not the jīva but) the Supreme Being or Brahman,  
+the Sūtrakāra **gives** this as his reason for **saying** so:  
+
+> "Since the person who **meditates** according to this vidyā  
+**is said** to **pass** along the archirādi route.” 
+
+This **is done** in the sūtra 
+
+> “since  mention is made of the route meditated on by those who have listened to the Upaniṣads” (i.e.) to those who meditate on Brahman.
 
 [^f4]: Note (3)
 
