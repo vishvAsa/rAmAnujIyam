@@ -4735,16 +4735,284 @@ sólo **significa** que
 ऎऩैयूऴि ऎऩ्गिऱ इति । इन्द पदम् ऎत्तऩैयो कालम् मुडिविल्लामैयैच् चॊल्लुगैयालुम् नित्यत्वत्तैच् चॊल्लादागैयालुम् इदऩालेये चिरकालस्थायित्वम् ज्ञापिक्कप्पडुगिऱदॆऩ्ऱु करुत्तु।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-This locality where the self enjoys itself is thus described :-- " The place called the amṛtam of yogis is the place to which those who want to enjoy their own self go." That this locality is not Paramapada is also evident from another siloka in the very same context: "Those who are yogins and who, being ekāntins, are constantly meditating on Brahman, reach that supreme abode which the eternal suris are gazing at. (It is clear from this, that the ekāntin who is desirous of attaining Bhagavān is here stated to go to a place other than that (to which the man who is desirous of enjoying his self would go) and that it is a place gazed at by the suris,
+> ‘‘योगिनाम् अमृतं स्थानं  
+स्वात्म-सन्तोष-कारिणाम्’’  
+(विष्णुपुराणम् १-६-२८) 
+
+ऎऩ्ऱु इव्व् आत्मानुभव-स्थान-विशेषमुञ् जॊल्लप् पट्टदु। 
+</details>
+
+#### स्थान-भेदः
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘योगिनाम् अमृतं स्थानं  
+स्वात्म-सन्तोष-कारिणाम्’’  
+(विष्णुपुराणम् १-६-२८) 
+
+</details>
+
+<details><summary>English</summary>
+
+This locality where the self **enjoys** itself is thus **described** :-- 
+
+> " The place **called** the amṛtam of yogis  
+**is** the place to which  
+those who **want to enjoy** their own self **go**." 
+</details>
+
+<details><summary>Español</summary>
+
+Esta localidad donde el yo **disfruta** se **describe** así:-- 
+
+> "El lugar **llamado** el amṛtam de los yoguis  
+**es** el lugar al que  
+aquellos que **quieren disfrutar** de sí mismos **van**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘योगिनाममृतं स्थानं स्वात्मसन्तोषकारिणाम्’’(विष्णुपुराणम् १-६-२८) ऎऩ्ऱु इव्वात्मानुभवस्थानविशेषमुञ्जॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् स्थान-विशेषम् परम-पदम् अऩ्ऱ् ऎऩ्ऩुम् इडम्  
+इप् प्रकरणन् तऩ्ऩिले 
+</details>
+
+<details><summary>English</summary>
+
+That this locality **is not** Paramapada  
+**is** also **evident** from another sloka in the very same context: 
+</details>
+
+<details><summary>Español</summary>
+
+Que esta localidad **no es** Paramapada  
+**es** también **evidente** de otro sloka en el mismo contexto:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस् स्थानविशेषम् परमपदमऩ्ऱॆऩ्ऩु मिडम् इप् प्रकरणन्दऩ्ऩिले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एकान्तिनस् सदा ब्रह्म  
+**ध्यायिनो योगिनो** हि ये ।  
+तेषां तत्-परमं स्थानं  
+यद् वै **पश्यन्ति** सूरयः॥’’  
+(विष्णु-पुराणम् १-६-३९) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एकान्तिनस् सदा ब्रह्म  
+**ध्यायिनो योगिनो** हि ये ।  
+तेषां तत्-परमं स्थानं  
+यद् वै **पश्यन्ति** सूरयः॥’’  
+(विष्णु-पुराणम् १-६-३९) 
+</details>
+
+<details><summary>English</summary>
+
+> "Those who **are** yogins and who, **being** ekāntins, **are** constantly **meditating** on Brahman,  
+**reach** that supreme abode which the eternal suris **are gazing** at.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Aquellos que **son** yoguis y quienes, **siendo** ekāntins, **están** constantemente **meditando** en Brahman,  
+**alcanza** esa morada suprema que los eternos suris **están contemplando**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘एकान्तिनस्सदा ब्रह्मध्यायिनो योगिनो हि ये । तेषां तत्परमं स्थानं यद्वै पश्यन्ति सूरयः’’(विष्णुपुराणम् १-६-३९) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु भगवत्-प्राप्ति-कामऩ् आऩ परमैकान्तिक्कु  
+सूरि-दृश्यम् आऩ स्थानान्तरञ् जॊल्लुगैयाले सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+It **is clear** from this,  
+that the ekāntin who **is desirous** of **attaining** Bhagavān  
+**is** here **stated** to **go** to a place other than that (to which the man who **is desirous** of **enjoying** his self **would go**)  
+and that it **is** a place **gazed** at by the suris.
+</details>
+
+<details><summary>Español</summary>
+
+**Está claro** de esto,  
+que el ekāntin que **está deseoso** de **alcanzar** Bhagavān  
+**está** aquí **declarado ir** a un lugar distinto de ese (al cual el hombre que **está deseoso** de **disfrutar** de sí mismo **iría**)  
+y que **es** un lugar **mirado** por los suris.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु भगवत्प्राप्तिकामऩाऩ परमैकान्तिक्कु सूरिदृश्यमाऩ स्थानान्तरञ् जॊल्लुगैयाले सिद्धम्। 
+</details>
+
+
+#### ब्रह्मात्मक-स्वात्मानुसन्धानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पञ्चाग्नि-विद्यादिगळिऱ् सॊऩ्ऩ ब्रह्मात्मक-स्वात्मानुसन्धानम् पण्णुवार्क्कु  
+भाष्यादिगळिले अर्चिर्-आदिगतियुम्  
+ब्रह्म-प्राप्तियुञ् जॊल्लप् पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
+In such treatises as Śrī Bhāṣya (and GitāBhāṣya )  
+it **has been stated** that  
+those who **meditate** on their self with Brahman as its inner self, as in Pañcāgni-vidyā and the like,  
+**pass** (after death) along the arcirādi route  
+and **attain** Brahman.
+</details>
+
+<details><summary>Español</summary>
+
+En tratados como Śrī Bhāṣya (y GitāBhāṣya)  
+**se ha dicho** que  
+aquellos que **meditan** en sí mismos con Brahman como su yo interior, como en Pañcāgni-vidyā y similares,  
+**pase** (después de la muerte) a lo largo de la ruta arcirādi  
+y **alcanzar** Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पञ्चाग्निविद्यादिगळिऱ् सॊऩ्ऩ ब्रह्मात्मकस्वात्मानुसन्धानम् पण्णुवार्क्कु भाष्यादिगळिले अर्चिरादिगतियुम् ब्रह्मप्राप्तियुञ्जॊल्लप्पट्टदु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इप्-पञ्चाग्नि-विद्या-निष्ठर्क्कु  
+आत्म-मात्रानुभव-रूपम् आऩव् अवान्तर-फलम् वन्दालुम्
+</details>
+
+<details><summary>English</summary>
+
+Therefore to those that **meditate** on their self according to the Pañcāgni vidyā,  
+there **is** an intermediate result or **experience**  
+**consisting** in the **enjoyment** of the mere self. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, a aquellos que **meditan** en sí mismos según el Pañcāgni vidyā,  
+**hay** un resultado intermedio o **experiencia**  
+**consistente** en el **disfrute** del mero yo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इप् पञ्चाग्निविद्यानिष्ठर्क्कु आत्ममात्रानुभवरूपमाऩववान्तरफलम् वन्दालुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मधु-विद्या-न्यायत्ताले ब्रह्म-प्राप्ति-पर्यन्तम् आय् विडुम्। 
+</details>
+
+<details><summary>English</summary>
+
+However, according to the principle **explained** in the madhu vidyā, they will ultimately **attain** Brahman. 
+</details>
+
+<details><summary>Español</summary>
+
+Sin embargo, de acuerdo con el principio **explicado** en el madhu vidyā, finalmente **alcanzarán** Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मधुविद्यान्यायत्ताले ब्रह्मप्राप्तिपर्यन्तमाय् विडुम्। 
+</details>
+
+#### आत्मानुसन्धानान्तरे फल-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकृति-संसृष्टम् आय् आदल्, प्रकृति-वियुक्तम् आय् आदल् इरुक्कुम् आत्म-वस्तुवै  
+स्व-रूपेणव् आदल्, ब्रह्म-दृष्टियालेय् आदल् पण्णुम् अनुसन्धानङ्गळ् नालुक्कुम्  
+
++++(ब्रह्म-दृष्ट्या)+++ नामाद्य्-उपासनङ्गळुक्कुप् पोले  
+अर्चिर्-आदि-गतियुम्, ब्रह्म-प्राप्तियुम् इल्लैय् 
+
+ऎऩ्ऩुम् इडत्तै
+</details>
+
+<details><summary>English</summary>
+
+If, however, the **meditation** is on the self either as associated with prakṛti or matter  
+or as **disembodied** or **dissociated** from matter,  
+whether the self **is meditated** on in its essential nature (svarūpa)  
+or as if it **were** Brahman, --  
+
+in all these four cases, as when name (nāma) and the like **are meditated** on  
+as if they **were** (Brahman),  
+there **is neither** the passage along the arcirādi route, nor the **attainment** of Brahman. 
+</details>
+
+<details><summary>Español</summary>
+
+Sin embargo, si la **meditación** es sobre el yo, ya sea **asociado** con prakṛti o con la materia  
+o como **incorpóreo** o **disociado** de la materia,  
+si **se medita** en el yo en su naturaleza esencial (svarūpa)  
+o como si **fuese** Brahman, --  
+
+en todos estos cuatro casos, como cuando el nombre (nāma) y cosas similares **son meditadas** en  
+como si **fueran** (Brahman),  
+no **existe** el paso por la ruta arcirādi, ni el **alcanzo** de Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रकृतिसंसृष्टमायादल् प्रकृतिवियुक्तमायादलिरुक्कुम् आत्मवस्तुवै स्वरूपेणवादल् ब्रह्मदृष्टियालेयादल् पण्णुम् अनुसन्धानङ्गळ् नालुक्कुम् नामाद्युपासनङ्गळुक्कुप्पोले अर्चिरादिगतियुम् ब्रह्मप्राप्तियुमिल्लैयॆऩ्ऩुमिडत्तै
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘+++(ध्याने)+++ अ-+++(ब्रह्म-)+++प्रतीकालम्बनान् नयतीति बादरायणः,  
+उभयथा च दोषात् तत्-क्रतुश्च ’’  
+(ब्रह्मसूत्रम् ४-३-१४) 
+
+ऎऩ्गिऱ सूत्रत्तिलेय् अरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अप्रतीकालम्बनान्नयतीति बादरायणः, उभयथा च दोषात्तत्क्रतुश्च’’(ब्रह्मसूत्रम् ४-३-१४) ऎऩ्गिऱ सूत्रत्तिले यरुळिच्चॆय्दार्।
+</details>
 
 
 
-In such treatises as Śrī Bhāṣya (and GitāBhāṣya ) it has been stated that those who meditate on their self with Brahman as its inner self as in Pañcāgni-vidyā and the like pass (after death) along the arcirādi route and attain Brahman.
+This **is declared** in the following :--  
 
+> Bādarāyana **is** of **opinion** that the Ativāhikās (escorts) **lead** those who **do not meditate** on pratikas (i.e.) parts or aspects (of Brahman).  
+In either of the other alternatives,  
+there **is conflict** (with the śrutis)  
+and also with the principle of tat-kratu. 
 
-
-Therefore to those that meditate on their self according to the Pañcāgni vidyā, there is an intermediate result or experience consisting in the enjoyment of the mere self. However, according to the principle explained in the madhu vidyā, they will ultimately attain Brahman. If, however, the meditation is on the self either as associated with prakṛti or matter or as disembodied or dissociated from matter, whether the self is meditated on in its essential nature (svarūpa) or as if it were Brahman, -- in all these four cases, as when name (nāma) and the like are meditated on as if they were (Brahman), there is neither the passage along the arcirādi route for the attainment of Brahman. This is declared in the following :-- Bādarāyana is of opinion that the Ativāhikās (escorts) lead those who do not meditate on pratikas (i.e.) parts or aspects (of Brahman). In either of the other alternatives, there is conflict (with the śrutis) and also with the principle of tat-kratu. In another context to prove that the being meditated on in that vidyā is (not the jīva (but) the Supreme Being or Brahman, the Sūtrakāra gives this as his reason for saying so: "Since the person who meditates according to this vidyā is said to pass along the archirādi route.” This is done in the sūtra “since  mention[^f4] *  is made of the route meditated on by those who have listened to the Upaniṣads” (i.e.) to those who meditate on Brahman.
+In another context to prove that the being meditated on in that vidyā is (not the jīva (but) the Supreme Being or Brahman, the Sūtrakāra gives this as his reason for saying so: "Since the person who meditates according to this vidyā is said to pass along the archirādi route.” This is done in the sūtra “since  mention[^f4] *  is made of the route meditated on by those who have listened to the Upaniṣads” (i.e.) to those who meditate on Brahman.
 
 [^f4]: Note (3)
 
