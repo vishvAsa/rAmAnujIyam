@@ -5302,17 +5302,206 @@ y también **se debe llegar** a una región o localidad en particular.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इक् क्रमत्तिले +++(←अर्चिरादि-गतेः, वैकुण्ठ-प्राप्तेः परम्)+++ इव्व्-अनुभवङ् कॊडुप्पद् आग  
+स्व-तन्त्रऩ् अन्-आदिय् आग नियमित्तु वैत्ताऩ्  
+
+ऎऩ्ऩुम् इडम्  
+इग्-गति-विशेषादिगळैप् प्रतिपादिक्किऱ शास्त्रङ्गळाले सिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+It **is clear** from the śāstras which **speak** of such things as this route that,  
+from beginningless time, the independent and omnipotent Lord **has made** it a rule that  
+the full and perfect **enjoyment** (of Himself) **should be granted** in this order  
+(namely, the archiraadi route,  
+the **entrance** into the region or locality  
+and then the **enjoyment**).
+</details>
+
+<details><summary>Español</summary>
+
+**Está claro** en los śāstras que **hablan** de cosas como esta ruta que,  
+desde el tiempo sin principio, el independiente y omnipotente Señor **ha hecho** una regla que  
+el pleno y perfecto **disfrute** (de Sí Mismo) **debe concederse** en este orden  
+(es decir, la ruta archiraadi,  
+la **entrada** a la región o localidad  
+y luego el **disfrute**).
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+इक् क्रमत्तिले इव्वनुभवङ्गॊडुप्पदाग स्वतन्त्रऩनादियाग नियमित्तु वैत्ताऩॆऩ्ऩुमिडम् इग्गतिविशेषादिगळैप् प्रतिपादिक्किऱ शास्त्रङ्गळाले सिद्धम्।
+</details>
+
+### अनुभवान्तरास्थिरता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इग्-गति-विशेषत्तुक्कु मुऩ्बु  
+
+शास्त्रत्ताले ब्रह्म-स्वरूपत्तैय् अऱिगिऱ पोदुम्  
+योगत्ताले साक्षात्-करिक्किऱ पोदुम्  
+विभव-लोकादिगळिल् प्रापिक्कुम् बोदुम्  
+पिऱक्कुम् प्रकाशम्  
+</details>
+
+<details><summary>English</summary>
+
+Before **starting** on the archirādi route,  
+
+when a man **understands** the essential nature (svarūpa) of Brahman with the **help** of the śāstras  
+and so also when he **has** a **vision** of Brahman with the **help** of yoga  
+and when he **reaches** such worlds as those of Vibhava,  
+
+(Vihhava : The avatars are called Vibhavas. He who meditates on a Vihhava - Rama, Krishna, Nnsimha and the like will reach the world or loka of Rama, Krishna, Nrisimha and the like. From there, after meditation on the Supreme Being, he will go to Paramapada. This is how two scholars of repute explained this passage to me.)
+
+the **vision** or **realisation** which he gets …
+</details>
+
+<details><summary>Español</summary>
+
+Antes de **comenzar** la ruta archirādi,  
+
+cuando un hombre **comprende** la naturaleza esencial (svarūpa) de Brahman con la **ayuda** de los śāstras  
+y así también cuando **tiene** una **visión** de Brahman con la **ayuda** del yoga  
+y cuando **alcanza** mundos como los de Vibhava,  
+
+(Vihhava: Los avatares **se llaman** Vibhavas. Aquel que **medita** en un Vihhava - Rama, Krishna, Nnsimha y similares **alcanzará** el mundo o loka de Rama, Krishna, Nrisimha y similares. Desde allí, después de **meditar** en el Ser Supremo, irá a Paramapada. Así **es** como dos eruditos de renombre **me explicaron** este pasaje.)
+
+la **visión** o **realización** que obtiene...
+</details>
+
+<details><summary>मूलम्</summary>
+
+इग्गतिविशेषत्तुक्कु मुऩ्बु शास्त्रत्ताले ब्रह्मस्वरूपत्तै यऱिगिऱ पोदुम् योगत्ताले साक्षात्करिक्किऱ पोदुम् विभवलोकादिगळिल् प्रापिक्कुम्बोदुम् पिऱक्कुम् प्रकाशम् 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-It is clear from the śāstras which speak of such things as this route that, from beginningless time, the independent and omnipotent Lord has made it a rule that the full and perfect enjoyment (of Himself) should be granted in this order (namely, the archiridi route, the entrance into the region or locality and then the enjoyment).
+सुकृताधीनम् आय्, करणायत्तम् आय् वरुगिऱद् आगैयाले  
+परिमितमुम् आय् विच्छेदवत्तुम् आय् इरुक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+**results** from some specific good deeds  
+and **is dependent** on the instruments of knowledge.  
+Therefore this **vision will be partial** or **limited**  
+and **liable** to **interruption**. 
+</details>
+
+<details><summary>Español</summary>
+
+**resultados** de algunas buenas acciones específicas  
+y **depende** de los instrumentos de conocimiento.  
+Por lo tanto esta **visión será parcial** o **limitada**  
+y **responsable** de **interrupción**.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Before starting on the archirādi route, when a man understands the essential nature (svarūpa) of Brahman with the help of the śāstras and so also when he has a vision of Brahman with the help of yoga and when he reaches such worlds as those of *[^f5] Vibhava, the vision or realisation which he gets results from some specific good deeds and is dependent on the instruments of knowledge. Therefore this vision will be partial or limited and liable to interruption. But the vision that results in the state of mukti is full and perfect, because there are no factors that limit or diminish the experience nor is it liable to any further interruption or break, As an Overflow (parivāha) of this enjoyment arises the perfect service or kaiṅkarya in which the śeṣī (the Lord) finds delight and this idea is expressed in the śloka: "Though you live for a hundred years, I will always be your servant. Therefore give me orders saying . " Do this in this beautiful place." Here all the successive stages of realisation (or fruit) which are stated (by Śrī Rāmānuja , in the (Śaraṇāgati) Gadya in the sentence with the word pāramarthika are also implicitly suggested in accordance with the pramāṇas.
+सुकृताधीनमाय् करणायत्तमाय् वरुगिऱदागैयाले परिमितमुमाय् विच्छेदवत्तुमायिरुक्कुम्।
+</details>
 
-[^f5]: 1.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्त-दशैयिऱ् पिऱक्किऱ प्रकाशम्  
+सङ्कोच-विच्छेदङ् कळुक्कुक् कारणम् ऒऩ्ऱुम् इल्लामैयाले  
+परिपूर्ण-विषयमुम् आय् पुनर्-विच्छेद-रहितमुम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+But the **vision** that **results** in the state of mukti **is** full and perfect,  
+because there **are no** factors that **limit** or **diminish** the **experience**  
+**nor is it liable** to any further **interruption** or **break**.  
+</details>
+
+<details><summary>Español</summary>
+
+Pero la **visión** que **resulta** en el estado de mukti **es** plena y perfecta,  
+porque **no hay** factores que **limitan** o **disminuyen** la **experiencia**  
+**tampoco es responsable** de ninguna **interrupción** o **rotura** adicional.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुक्तदशैयिऱ् पिऱक्किऱ प्रकाशम् सङ्कोच विच्छेदङ्गळुक्कुक् कारणमॊऩ्ऱुमिल्लामैयाले परिपूर्णविषयमुमाय् पुनर्विच्छेदरहितमुमायिरुक्कुम्। 
+</details>
+
+### परिपूर्ण-कैङ्कर्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अनुभव-परीवाहम् आय् 
+
+> ‘‘क्रियताम् इति मां वद’’  
+(रामायणम् आरण्यकाण्डम् १५-७) 
+
+ऎऩ्गिऱ बडिये  
+शेषिय् उगन्द परिपूर्ण-कैङ्कर्यं वरुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+As an **Overflow** (parivāha) of this **enjoyment arises** the perfect service or kaiṅkarya  
+in which the śeṣī (the Lord) **finds delight**  
+and this idea **is expressed** in the śloka:  
+
+> "Though **you live** for a hundred years,  
+I will always **be** your **servant**.  
+Therefore **give me orders saying** - "**Do** this in this beautiful place."  
+</details>
+
+<details><summary>Español</summary>
+
+Como un **desbordamiento** (parivāha) de este **disfrute** surge el servicio perfecto o kaiṅkarya  
+en el que el śeṣī (el Señor) **encuentra deleite**  
+y esta idea **se expresa** en el śloka:  
+
+> "Aunque **vivas** cien años,  
+Siempre seré **tu **sirviente**.  
+Por eso **dame órdenes diciendo** - "**Haz** esto en este hermoso lugar".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वनुभवपरीवाहमाय् ‘‘क्रियतामिति मां वद’’(रामायणम् आरण्यकाण्डम् १५-७) ऎऩ्गिऱबडिये शेषियुगन्द परिपूर्णकैङ्कर्यम् वरुगिऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘पारमार्थिक’’ ऎऩ्गिऱ गद्य-वाक्यत्तिऱ् सॊऩ्ऩ फल-पर्व-परं-परैय् ऎल्लाम्  
+इङ्गे यथा-प्रमाणम् विवक्षिक्कप् पडुगिऱदु।  
+</details>
+
+<details><summary>English</summary>
+
+Here all the successive stages of **realisation** (or fruit) which **are stated** by Śrī Rāmānuja , in the (Śaraṇāgati) Gadya  
+in the sentence with the word pāramarthika  
+**are** also implicitly **suggested** in accordance with the pramāṇas.
+
+</details>
+
+<details><summary>Español</summary>
+
+Aquí todas las etapas sucesivas de **realización** (o fruto) que **son declaradas** por Śrī Rāmānuja, en el (Śaraṇāgati) Gadya  
+en la oración con la palabra pāramarthika  
+**son** también implícitamente **sugeridos** de acuerdo con los pramāṇas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘पारमार्थिक’’ ऎऩ्गिऱ गद्यवाक्यत्तिऱ्सॊऩ्ऩ फलपर्वपरंपरैयॆल्लाम् इङ्गे यथाप्रमाणम् विवक्षिक्कप् पडुगिऱदु।  
+</details>
 
 
