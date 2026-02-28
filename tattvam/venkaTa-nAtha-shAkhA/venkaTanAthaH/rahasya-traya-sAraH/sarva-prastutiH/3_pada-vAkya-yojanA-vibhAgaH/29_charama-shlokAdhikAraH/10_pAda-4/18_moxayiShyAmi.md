@@ -3529,7 +3529,7 @@ y otros **escritos** similares.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आगैयाल् ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऱ सर्व-पाप-निवृत्ति  
+> आगैयाल् ‘‘सर्व-पापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऱ सर्व-पाप-निवृत्ति  
 कैवल्यत्तुक्कुम्, भगवत्-प्राप्तिक्कुम् पॊदुव् अऩ्ऱोव्? 
 
 ऎऩ्गै मन्द-चोद्यम्। 
@@ -3537,7 +3537,7 @@ y otros **escritos** similares.
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> अतः 'सर्वपापेभ्यो मोक्षयिष्यामि' इत्य्-उक्ता सर्व-पाप-निवृत्तिः  
+> अतः 'सर्व-पापेभ्यो मोक्षयिष्यामि' इत्य्-उक्ता सर्व-पाप-निवृत्तिः  
 कैवल्यस्य भगवत्-प्राप्तेश् च  
 किं न साधारणी भवति - 
 
@@ -4735,6 +4735,7 @@ sólo **significa** que
 ऎऩैयूऴि ऎऩ्गिऱ इति । इन्द पदम् ऎत्तऩैयो कालम् मुडिविल्लामैयैच् चॊल्लुगैयालुम् नित्यत्वत्तैच् चॊल्लादागैयालुम् इदऩालेये चिरकालस्थायित्वम् ज्ञापिक्कप्पडुगिऱदॆऩ्ऱु करुत्तु।
 </details>
 
+#### स्थान-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘योगिनाम् अमृतं स्थानं  
@@ -4744,13 +4745,13 @@ sólo **significa** que
 ऎऩ्ऱु इव्व् आत्मानुभव-स्थान-विशेषमुञ् जॊल्लप् पट्टदु। 
 </details>
 
-#### स्थान-भेदः
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘योगिनाम् अमृतं स्थानं  
 स्वात्म-सन्तोष-कारिणाम्’’  
 (विष्णुपुराणम् १-६-२८) 
 
+इति अस्यात्मानुभवस्य स्थान-विशेषो ऽप्य् अभ्यधायि । 
 </details>
 
 <details><summary>English</summary>
@@ -4778,11 +4779,26 @@ aquellos que **quieren disfrutar** de sí mismos **van**".
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ननु स्वात्मानुभवस्थानम् परमपदमागिल् अदु नित्यमायिरुक्क स्वात्मानुभवरूपकैवल्यत्तिऱ्कु अनित्यत्वम् सॊल्लक् कूडुमोव् 
+
+ऎऩ्ऩ केवलस्वात्मानुभवस्थानम् परमपदानन्तर्भूतस्थान विशेषमॆऩ्ऱु सप्रमाणम् काट्टुगिऱार् योगिनाममृतं स्थानमित्यादियाल्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इस् स्थान-विशेषम् परम-पदम् अऩ्ऱ् ऎऩ्ऩुम् इडम्  
 इप् प्रकरणन् तऩ्ऩिले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं स्थान-विशेषः परम-पदं नेत्य् एतत्   
+अस्मिन् प्रकरणे, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4799,7 +4815,23 @@ Que esta localidad **no es** Paramapada
 
 <details><summary>मूलम्</summary>
 
-इस् स्थानविशेषम् परमपदमऩ्ऱॆऩ्ऩु मिडम् इप् प्रकरणन्दऩ्ऩिले 
+इस् स्थानविशेषम् परमपदमऩ्ऱॆऩ्ऩुम् इडम् इप् प्रकरणन्दऩ्ऩिले 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदु अमृतं स्थानमॆऩ्बदाल् परमपदमाऩा लोवॆऩ्ऩिल् अरुळिच्चॆय्गिऱार् इस् स्थानविशेषम् परमपदमऩ्ऱॆऩ्ऩुमिडमिति । इन्द प्रकरणत्तिल् सदा ब्रह्मध्यायिकळाऩ परमैगान्दिगळुक्कु ‘‘सदा पश्यन्ति सूरयः’’ ऎऩ्ऱु सूरिदृश्यमागच् चॊल्लप्पट्ट परमपदस्थानमॆऩ्ऱु पृथक्कागच् चॊल्लियिरुप्पदाल् इदु परमबदमागमाट्टादॆऩ्ऱु करुत्तु।
+
+मेलुम् इप् प्रकरणत्तिल् ‘‘प्राजापत्यं ब्राह्मणानां’’ ऎऩ्ऱारम्बित्तु अर्वाचीनस्थानविशेषङ्गळैच् चॊल्लिक्कॊण्डु वरुगैयालुम्, इन्द श्लोकव्यख्यान श्रीविष्णुचित्तीयत्तिल् 
+
+> ‘‘योगिनाम् इति ।  
+आश्रमिष्व् एव ये प्रतीकोपासका योगिनः  
+तेषां,  
+अमृतम् इति । विष्णुपदाख्यं, ध्रुवाद् उपरि-स्थानं,  
+यतो गङ्गा प्रवहतीति वक्ष्यमाणं’’ 
+
+ऎऩ्ऱु इन्द स्थानत्तै केवल जीवऩै स्वरूपत्तालेयो ब्रह्मदृष्टियालेयो उपासनंसॆय्गिऱ प्राणविद्यानिष्ठऩाऩ प्रतीकोपासकऩुक्कु स्थानमॆऩ्ऱुम्, इदु गङ्गै प्रवहिक्किऱ ध्रुवमण्डलत्तिऱ्कु मेलुळ्ळदॆऩ्ऱुम् सॊल्लियिरुप्पदालुम् परमबदमऩ्ऱॆऩ्ऱु कण्डु कॊळ्वदु। +++(4)+++
 </details>
 
 
@@ -4840,11 +4872,20 @@ Que esta localidad **no es** Paramapada
 ‘‘एकान्तिनस्सदा ब्रह्मध्यायिनो योगिनो हि ये । तेषां तत्परमं स्थानं यद्वै पश्यन्ति सूरयः’’(विष्णुपुराणम् १-६-३९) 
 </details>
 
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्ऱु भगवत्-प्राप्ति-कामऩ् आऩ परमैकान्तिक्कु  
 सूरि-दृश्यम् आऩ स्थानान्तरञ् जॊल्लुगैयाले सिद्धम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति भगवत्-प्राप्ति-कामस्य परमैकान्तिनः  
+सूरिदृश्यस्य स्थानान्तरस्य प्रतिपादनात् सिद्धम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4877,6 +4918,13 @@ y que **es** un lugar **mirado** por los suris.
 ब्रह्म-प्राप्तियुञ् जॊल्लप् पट्टदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+पञ्चाग्नि-विद्यादिषूक्तं ब्रह्मात्मक-स्वात्मानुसन्धानं कुर्वतां  
+भाष्यादिष्व् अर्चिर्-आदि-गतिर् ब्रह्म-प्राप्तिश् चाभ्यधायिषाताम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 In such treatises as Śrī Bhāṣya (and GitāBhāṣya )  
@@ -4901,11 +4949,24 @@ y **alcanzar** Brahman.
 पञ्चाग्निविद्यादिगळिऱ् सॊऩ्ऩ ब्रह्मात्मकस्वात्मानुसन्धानम् पण्णुवार्क्कु भाष्यादिगळिले अर्चिरादिगतियुम् ब्रह्मप्राप्तियुञ्जॊल्लप्पट्टदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ननु ब्रह्मात्मकस्वात्मानुसन्धानरूपमाऩ पञ्चाग्निविद्यानिष्ठर्क्कु अन्तरायमाग वरुम् स्वात्मानुभवम् योगिना मॆऩ्ऱु सॊऩ्ऩ इन्द स्थानत्तिलेये ऎऩ्ऱु सॊल्ल वेण्डावो? इदु अनित्यमॆऩ्ऱु सॊऩ्ऩाल् पञ्चाग्नि विद्यानिष्ठऩुक्कु वरुम् फलम् नित्यमॆऩ्ऱु सॊल्लुगिऱ सिद्धान्तम् अप्पोदु ऎप्पडि सङ्गतमामॆऩ्ऩ वरुळिच् चॆय्गिऱार् पञ्चाग्निविद्यादिगळिल् सॊऩ्ऩ ब्रह्मात्मकस्वात्मानुसन्धानम् पण्णुवार्क्कु इत्यादियाल्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् इप्-पञ्चाग्नि-विद्या-निष्ठर्क्कु  
 आत्म-मात्रानुभव-रूपम् आऩव् अवान्तर-फलम् वन्दालुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत एषां पञ्चाग्निविद्या-निष्ठानाम्  
+आत्म-मात्रानुभवरूपम् अवान्तर-फलं प्राप्तम् अपि  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4931,6 +4992,12 @@ Por lo tanto, a aquellos que **meditan** en sí mismos según el Pañcāgni vidy
 मधु-विद्या-न्यायत्ताले ब्रह्म-प्राप्ति-पर्यन्तम् आय् विडुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मधु-विद्या-न्यायाद् ब्रह्म-प्राप्ति-पर्यन्तं संपद्येत ।
+</details>
+
+
 <details><summary>English</summary>
 
 However, according to the principle **explained** in the madhu vidyā, they will ultimately **attain** Brahman. 
@@ -4947,6 +5014,24 @@ Sin embargo, de acuerdo con el principio **explicado** en el madhu vidyā, final
 मधुविद्यान्यायत्ताले ब्रह्मप्राप्तिपर्यन्तमाय् विडुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मधुविद्यान्यायत्ताले ब्रह्मप्राप्तिपर्यन्तमाय्विडुमिति । मधुविद्यानिष्ठऩुक्कु वस्वादिपद प्राप्तिरूपावान्तरफलम् अनित्यमाऩालुम् अनन्तरम् 
+
+> ‘‘अथ तत ऊर्ध्वं उदेत्य नैवोदेता नास्तमेता,  
+एकल एव मध्ये स्थाता ।’’ 
+
+ऎऩ्ऱु सॊऩ्ऩ ब्रह्म-प्राप्ति-रूप नित्य-फल-सिद्धि उण्डागिऱाप् पोले  
+पञ्चाग्नि-विद्या-निष्ठऩुक्कुम् अवान्तरमाग वरुम् स्वात्मानुभवस्थानमुम् स्वात्ममात्रानुभवमुम् अनित्यम् आऩालुम्  
+पञ्चाग्निविद्यैयिल् 
+
+> ‘‘अर्चिषम् एव ते सर्वे गच्छन्ति,  
+स एनान् ब्रह्म गमयति’’ 
+
+ऎऩ्ऱु सॊऩ्ऩ ब्रह्मप्राप्तिरूपनित्यफलम् सिद्धिक्कुमागैयाल् ऒरुविद असाङ्गत्यमुमिल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
 #### फल-भेदः, गति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4958,6 +5043,15 @@ Sin embargo, de acuerdo con el principio **explicado** en el madhu vidyā, final
 
 ऎऩ्ऩुम् इडत्तै
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रकृति-संसृष्टस्य प्रकृति-वियुक्तस्य वा स्थितस्यात्म-वस्तुनो विषये  
+स्वरूपेण वा ब्रह्म-दृष्ट्या वा क्रियमाणानाम् अनुसन्धानानां चतुर्णां  
+
++++(ब्रह्म-दृष्ट्या)+++ नामाद्य्-उपासनानाम् इवार्चिर्-आदि-गतिर् ब्रह्म-प्राप्तिश् च नास्तीत्य् एतम् अर्थम्  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4989,6 +5083,48 @@ no **existe** el paso por la ruta arcirādi, ni el **alcanzo** de Brahman.
 प्रकृतिसंसृष्टमायादल् प्रकृतिवियुक्तमायादलिरुक्कुम् आत्मवस्तुवै स्वरूपेणवादल् ब्रह्मदृष्टियालेयादल् पण्णुम् अनुसन्धानङ्गळ् नालुक्कुम् नामाद्युपासनङ्गळुक्कुप्पोले अर्चिरादिगतियुम् ब्रह्मप्राप्तियुमिल्लैयॆऩ्ऩुमिडत्तै
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि विष्णुपदाख्यकैवल्यस्थानत्तिल् स्वात्मानुभवत्तैप् पण्णुम् केवलर्गळिल् पञ्चाग्निविद्यानिष्ठऩाऩ केवलऩुक्कव्वनुभवम् मुक्तिपर्यन्तमामॆऩ्ऱाल् प्राणविद्यानिष्ठर्गळाय् स्वात्मानुभवम् पण्णुगिऱ केवलर्गळुक्कुम् अदु ब्रह्मप्राप्तिपर्यन्तमागादो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् प्रकृतिसंसृष्टमायादलित्यादिना । 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः - आत्मोपासक-भेदाः</summary>
+
+आत्मोपासनम् पण्णुमवर्गळ् ऐवर्।  
+अदिल् स्वात्म-विशेष्यक-ब्रह्मात्मकत्व- प्रकारकोपासनम् पण्णुमवऩ् पञ्चाग्निविद्यानिष्ठऩ्।  
+
+इन्द पञ्चाग्नि-विद्यैयिल् परिपूर्णम् आऩ ब्रह्ममे स्वात्मावुक्कु प्रकारम् आगत् तोऩ्ऱुगैयाल्  
+अन्द विद्यैयुम् ब्रह्मोपासनरूपमे। उक्तञ्च सारे । 
+
+> उभयेऽपि हि परिपूर्ण-ब्रह्मोपासते मुखभेदेन 
+
+इति ।  
+
+> ब्रह्म-विशेष्यकाहम्-अर्थ-प्रकारकम् आऩ ब्रह्माहम् अस्मि 
+
+ऎऩ्ऱु उपासिक्कुम् ब्रह्मविद्या-निष्ठऩुक्कुम्,  
+
+> स्वात्म-विशेष्यक-ब्रह्म-प्रकारकम् आऩ अहं ब्रह्मास्मि  
+
+ऎऩ्ऱु उपासिक्कुम् पञ्चाग्निविद्या-निष्ठऩुक्कुम्  
+उपासनत्तिल् विशेष्य-प्रकार-माऱाट्टम् इरुन्दालुम्  
+अव्व्-इरुवर्गळुम् परिपूर्णब्रह्मत्तैये उपासिक्किऱार्गळ् ऎऩ्बदु अदिऩर्थम्।  
+
+इत्थञ्च पञ्चाग्निविद्यानिष्ठऩुम् ब्रह्मोपासकऩागैयाले अवऩुक्कु स्वात्मानुभवरूप कैवल्यम् भगवद्-अनुभव-पर्यन्तम् आगलाम्। 
+
+प्राण-विद्या-निष्ठर् आऩ केवलर्गळ्  
+प्रकृति-विशिष्ट-जीवऩै ब्रह्म-दृष्टियिऩालेयो स्वरूपत्तालेयो उपासिप्पवर्गळ्  
+ऎऩ्ऱु इरुवर्गळ्।  
+
+अप्-पडिये प्रकृति-वियुक्त-जीवऩै ब्रह्म-दृष्टियिऩालेयो स्वरूपत्तालेयो उपासिप्पवर्गळ् ऎऩ्ऱु इरुवर्गळ्।  
+इन् नाल्वर्गळुम् जीव-मात्रोपासकर्गळेय् ऒऴिय ब्रह्मोपासकर्गळऩ्ऱु।  
+
+इन् नाल्वर्गळुम् ब्रह्मत्तिऱ्कु प्रतीकमाऩ अदावदु अवयवमाऩ जीवमात्रोपासकर्गळ् आगैयाल्  
+नामाद्य्-उपासकर्गळ् पोल् प्रतीकोपासकर्गळ्।  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘+++(स्वात्म-मात्र-ध्यानादिभिर्)+++ अ-प्रतीक+++(-मात्र)++++आलम्बनान् +++(अर्चिरादि-मार्गेण)+++ नयतीति बादरायणः,  
@@ -4997,6 +5133,16 @@ no **existe** el paso por la ruta arcirādi, ni el **alcanzo** de Brahman.
 
 ऎऩ्गिऱ सूत्रत्तिलेय् अरुळिच् चॆय्दार्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘+++(स्वात्म-मात्र-ध्यानादिभिर्)+++ अ-प्रतीक+++(-मात्र)++++आलम्बनान् +++(अर्चिरादि-मार्गेण)+++ नयतीति बादरायणः,  
++++(कार्यम् उपासीनान् नयतीति, परम् एवोपासीनान् इति च →)+++ उभयथा च +++(श्रुति-विरोध-)+++दोषात्, तत्-क्रतुश् च +++(न्यायः प्रयोक्तव्यः)+++’’  
+(ब्रह्मसूत्रम् ४-३-१४) 
+
+इति सूत्रे ऽनुजग्राह । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5070,15 +5216,35 @@ Entonces, si **medita** solo en sí mismo, **se convertirá** en el yo (y **no a
 ‘‘अप्रतीकालम्बनान्नयतीति बादरायणः, उभयथा च दोषात्तत्क्रतुश्च’’(ब्रह्मसूत्रम् ४-३-१४) ऎऩ्गिऱ सूत्रत्तिले यरुळिच्चॆय्दार्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आगैयाल् प्रतीकोपासकव्यतिरिक्तर्गळाऩ साक्षात् ब्रह्मोपासकर्गळैयुम् पञ्चाग्नि-विद्या-निष्ठर्गळैयुमे अर्चिरादिगणम् ब्रह्मत्तै नयिप्पिक्किऱदु ऎऩ्गिऱ 
+
+> ‘‘अप्रतीकालम्बनान् नयतीति बादरायणः’’ 
+
+ऎऩ्गिऱ सूत्रत्तिऩ्बडि इन्नाल्वर्गळुक्कुम् स्वात्मानुभवम् अर्चिरादिना ब्रह्मप्राप्ति पर्यन्तमाग मुडियादु ऎऩ्ऱु तिरुवुळ्ळम्।
+
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘श्रुतोपनिषत्क-गत्य्-अभिधानाच् च’’(ब्रह्म-सूत्रम् १-२-१७) 
 
 ऎऩ्गिऱ सूत्रत्तिलुम्  
-ऒरु विद्या-विशेषत्तिल् उपास्यऩ् परमात्माव् ऎऩ्गैक्कु  
+ऒरु विद्या-विशेषत्तिल् "उपास्यऩ् परमात्माव्" ऎऩ्गैक्कु  
 अर्चिर्-आदि-गति सॊऩ्ऩदै  
 हेतुव् आगक् कॊण्डु साधिक्कैयाले
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘श्रुतोपनिषत्क-गत्य्-अभिधानाच् च’’(ब्रह्म-सूत्रम् १-२-१७) 
+
+इति सूत्रे ऽपि क्वचित् [[P410]]  
+विद्या-विशेषय् "उपास्यः परमात्मा" इत्य्-अस्य  
+अर्चिर्-आदि-गति-प्रतिपादनं हेतुं कृत्वा साधनात् 
 </details>
 
 <details><summary>English</summary>
@@ -5116,12 +5282,32 @@ por aquellos que **han escuchado** los Upaniṣads” (es decir, por aquellos qu
 ‘‘श्रुतोपनिषत्कगत्यभिधानाच्च’’(ब्रह्मसूत्रम् १-२-१७) ऎऩ्गिऱ सूत्रत्तिलुम् ऒरु विद्याविशेषत्तिलुपास्यऩ् परमात्मावॆऩ्गैक्कु अर्चिरादिगति सॊऩ्ऩदै हेतुवागक्कॊण्डु साधिक्कैयाले
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि जीवमात्रोपासकर्गळ् प्रतीकालम्बनर्गळ् आगैयाल् अर्चिरादिगतियिल्लै यॆऩ्ऱु ‘‘अप्रतीकालम्बनान्नयतीति बादरायणः’’ ऎऩ्गिऱ सूत्रत्ताले साधित्तु,  
+उपकोसल-विद्यैयिल् वेद्यम् आऩदु ब्रह्मम् ऎऩ्ऱु साधिप्पदऱ्कु  
+अर्चिर्-आदि-गत्य्-अभिधानत्तै लिङ्गम् आगच् चॊल्लिय् इरुप्पदाल्  
+जीवोपासकऩुक्कुम् अर्चिरादिगति वरुम् ऎऩ्ऱाल्  
+अन्द हेतु-व्यभिचरितम् आय् विडुम् आगैयालुम्  
+केवल-जीवोपासकर्गळुक्कु अर्चिर्-आदि-गतिय् इल्लैय् ऎऩ्ऱु सिद्धम् आयिऱ्ऱ्  
+ऎऩ्गिऱार् श्रुतोपनिषत्कगत्यभिधानाच्छेत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > जीव-मात्रोपासकऩुक्क् अर्चिर्-आदि-गतिय् इल्लैय्  
 
 ऎऩ्ऩुम् इडम् सिद्धम् आयिऱ्ऱु।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> जीव-मात्रोपासकस्यार्चिर्-आदि-गतिर् न
+
+इत्य् एतत् सिद्धं भवति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5138,17 +5324,29 @@ para aquel que **medita** únicamente en sí mismo,
 **no hay movimiento** a lo largo de la ruta archirAdi.)
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 जीवमात्रोपासकऩुक्कर्चिरादिगतियिल्लै यॆऩ्ऩुमिडम् सिद्धमायिऱ्ऱु।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि सर्वपाप निवृत्ति वन्दाल् ब्रह्मप्राप्तिये वन्दु तीरुमे यॊऴिय कैवल्यम् वारादु। 
+</details>
+
 
 #### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् ब्रह्म-प्राप्तिय् इल्लादार्क्क् इश्-श्लोकत्तिऱ्सॊल्लुगिऱ सर्व-पाप-निवृत्तिय् इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो ब्रह्म-प्राप्ति-रहितानाम्  
+अस्मिन् श्लोके उच्यमाना सर्व-पाप-निवृत्तिर् नास्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5169,12 +5367,25 @@ Por lo tanto, a aquellos que **no alcanzan** Brahman,
 आगैयाल् ब्रह्मप्राप्तियिल्लादार्क्किश् श्लोकत्तिऱ्सॊल्लुगिऱ सर्वपापनिवृत्तियिल्लै। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कैवल्यत्तिल् सर्वपापनिवृत्तिय् इल्लामैयाल्  
+ऎऩ्ऱु प्रथमप्रकृतत्तै अन्वयव्यतिरेकङ्गळैक् काट्टि निगमिक्किऱार् आगैयाले ब्रह्मप्राप्तीत्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-पाप-निवृत्तिय्-उडैयार्क्कु  
 ब्रह्मानुभव-सङ्कोचम् इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-पाप-निवृत्तिमतां ब्रह्मानुभव-सङ्कोचो नास्ति ।
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -5203,6 +5414,14 @@ A aquellos cuyos pecados **han sido perdonados** o **cancelados**,
 परिपूर्ण-ब्रह्मानुभवत्तुक्कुप् प्रतिबन्धकम् आऩ कर्म-विशेषमुङ् कऴिकैयाले
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अत्र सर्व-पाप-निवृत्तेः प्रतिपादनेन  
+
+केवलात्मानुभव-कारणस्य परिपूर्ण-ब्रह्मानुभव-प्रतिबन्धकस्य कर्म-विशेषस्य निवृत्ति-सिद्धेः  
+</details>
+
+
 <details><summary>English</summary>
 
 Thus since in this śloka,  
@@ -5228,11 +5447,26 @@ y que **surgió** como un **obstáculo** para el pleno y perfecto **disfrute** d
 इप्पडि यिङ्गु सर्वपापनिवृत्तियैच् चॊल्लुगैयाले केवलात्मानुभवत्तुक्कुक् कारणमाय् परिपूर्णब्रह्मानुभवत्तुक्कुप् प्रतिबन्धकमाऩ कर्मविशेषमुङ् गऴिगैयाले
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि सर्वपापनिवृत्तियैच् चॊऩ्ऩदाले अदु परिपूर्णब्रह्मानुभवप्रतिबन्धकमाऩ पापत्तोडु कूडिय कैवल्यमागादागैयालुम् कीऴ्च्चॊऩ्ऩ अन्वयव्यतिरेकङ्गळालुम् पूर्वश्लोकत्तिल् मामेवैष्यसि ऎऩ्ऱु सॊऩ्ऩ ब्रह्मप्राप्तिरूपमागवे मुडियुमॆऩ्गिऱार् इप्पडि यिङ्गु इत्यादियाल्। 
+
+इङ्गु – चरमश्लोकत्तिल्,
+
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘माम् एवैष्यसि’’ ऎऩ्ऱु कीऴ्-श्लोकत्तिऱ् सॊऩ्ऩ अर्थम्  
 इङ्गुम् +++(चरम-श्लोके)+++ सिद्धम् आयिऱ्ऱु।  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"माम् एवैष्यसि" इति पूर्वश्लोकोक्तो ऽर्थो ऽत्र +++(चरम-श्लोके)+++ सिद्धो भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5257,6 +5491,12 @@ lo que **se afirma** en el śloka anterior, es decir, "Tú **me alcanzarás** a 
 ‘‘मामेवैष्यसि’’ ऎऩ्गिऱ प्राप्तियावदु परिपूर्णानुभवम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"माम् एवैष्यसि" इत्य् उक्ता प्राप्तिर् नाम - परिपूर्णानुभवः । 
+</details>
+
+
 <details><summary>English</summary>
 
 "mām eva eṣyasi" / "Thou **wilt attain** myself" **means** "the full and perfect **enjoyment** of Brahman'. 
@@ -5272,6 +5512,11 @@ lo que **se afirma** en el śloka anterior, es decir, "Tú **me alcanzarás** a 
 ‘‘मामेवैष्यसि’’ ऎऩ्गिऱ प्राप्तियावदु परिपूर्णानुभवम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इङ्गु मामेवैष्यसि ऎऩ्ऱदु मुख्यमोक्षपरमॆऩ्गिऱार् मामेवैष्यसि ऎऩ्गिऱ प्राप्तियावदु परिपूर्णानुभवमिति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5280,6 +5525,13 @@ lo que **se afirma** en el śloka anterior, es decir, "Tú **me alcanzarás** a 
 देश-विशेष-प्राप्तियुम्  
 उण्ड् आगिऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य परिपूर्णानुभवस्य सिद्ध्य्-अर्थम्  
+अर्चिर्-आदि-गतिर्, देश-विशेष-प्राप्तिश् च भवतः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5301,18 +5553,337 @@ y también **se debe llegar** a una región o localidad en particular.
 इप् परिपूर्णानुभवसिद्धिक्काग अर्चिरादिगतियुम् देशविशेषप्राप्तियुमुण्डागिऱदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ब्रह्मम् विभुवागैयाले सर्वपापमुम् कऴिन्दवऩुक्कु इव्विडत्तिले परिपूर्णब्रह्मानुभवम् वरलागादो वॆऩ्ऩ वरुळिच् चॆय्गिऱार् इप्परिपूर्णानुभवसिद्धिक्काग इति । अर्चिरादिना गमनमुम् देशविशेषप्राप्तियुम् परिपूर्णब्रह्मानुभवत्तिऱ्कुक् कारणमागैयाल् अव्विरण्डुमऩ्ऱिक्के सर्वपापनिवृत्ति वन्दालुम् इव्विडत्तिलेये परिपूर्णाब्रह्मानुभवसिद्धियुण्डागादॆऩ्ऱु करुत्तु।
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इक् क्रमत्तिले +++(←अर्चिरादि-गतेः, वैकुण्ठ-प्राप्तेः परम्)+++ इव्व्-अनुभवङ् कॊडुप्पद् आग  
+स्व-तन्त्रऩ् अन्-आदिय् आग नियमित्तु वैत्ताऩ्  
+
+ऎऩ्ऩुम् इडम्  
+इग्-गति-विशेषादिगळैप् प्रतिपादिक्किऱ शास्त्रङ्गळाले सिद्धम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अनेन क्रमेणैतद्-अनुभव-प्रदानं  
+स्वतन्त्रो ऽनादित्वेन नियमितवान् अस्ति
+
+इत्य् एषो ऽर्थः   
+एतद् गति-विशेषादि-प्रतिपादक-शास्त्रैः सिद्धः ।
+</details>
+
+
+<details><summary>English</summary>
+
+It **is clear** from the śāstras which **speak** of such things as this route that,  
+from beginningless time, the independent and omnipotent Lord **has made** it a rule that  
+the full and perfect **enjoyment** (of Himself) **should be granted** in this order  
+(namely, the archiraadi route,  
+the **entrance** into the region or locality  
+and then the **enjoyment**).
+</details>
+
+<details><summary>Español</summary>
+
+**Está claro** en los śāstras que **hablan** de cosas como esta ruta que,  
+desde el tiempo sin principio, el independiente y omnipotente Señor **ha hecho** una regla que  
+el pleno y perfecto **disfrute** (de Sí Mismo) **debe concederse** en este orden  
+(es decir, la ruta archiraadi,  
+la **entrada** a la región o localidad  
+y luego el **disfrute**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इक् क्रमत्तिले इव्वनुभवङ्गॊडुप्पदाग स्वतन्त्रऩनादियाग नियमित्तु वैत्ताऩॆऩ्ऩुमिडम् इग्गतिविशेषादिगळैप् प्रतिपादिक्किऱ शास्त्रङ्गळाले सिद्धम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि इव्विरण्डुम् उण्डाऩ पिऱगे परिपूर्णानुभवम् सिद्धिक्कुमॆऩ्बदऱ्कु नियामकमॆऩ्ऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् इक् क्रमत्तिले इत्यादियाल्। इक् क्रमत्तिले - अर्चिरादिगतिदेशविशेषप्राप्तियागिऱ इक् क्रमत्ताले, तथाच 
+
+> तेऽर्चिषम् अभि सम्भवन्ति  
+स एनान् ब्रह्म गमयति  
+सर्वं ह पश्यः पश्यति  
+मनसैतान् कामान् पश्यन् रमते  
+स एते ब्रह्मलोके’’ 
+
+इत्यादिशास्त्रङ्गळ् अर्चिरादिना देशविशेषत्तिल् ब्रह्मत्तै यडैन्दवऩुक्के परिपूर्णब्रह्मानुभवत्तैच् चॊल्लुगैयाल् तादृशशास्त्रत्ताले वेद्यमाऩ अर्चिरादियाले देशविशेषत्तैयडैन्दवऩुक्के नम्मुडैय परिपूर्णानुभवत्तैत् तरक्कडवोमॆऩ्गिऱ भगवत्सङ्कल्पमे इदिल् नियामकमागैयाल् ऒरुविद चोद्यत्तिऱ्कु मवकाशमिल्लै यॆऩ्ऱु करुत्तु।
+
+</details>
+
+
+### अनुभवान्तरास्थिरता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इग्-गति-विशेषत्तुक्कु मुऩ्बु  
+
+शास्त्रत्ताले ब्रह्म-स्वरूपत्तैय् अऱिगिऱ पोदुम्  
+योगत्ताले साक्षात्-करिक्किऱ पोदुम्  
+विभव-लोकादिगळिल् प्रापिक्कुम् बोदुम्  
+पिऱक्कुम् +++(ज्ञानम्→)+++ प्रकाशम्  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य गति-विशेषस्य सिद्धेः पूर्वं  
+
+शास्त्रेण ब्रह्म-स्वरूपस्य ज्ञानस्य काले,  
+योगेन साक्षात्-कारस्य काले,  
+विभव-लोकादि-प्राप्तेः काले च  
+जायमानः +++(ज्ञानम्→)+++ प्रकाशः  
+</details>
 
 
 
-It is clear from the śāstras which speak of such things as this route that, from beginningless time, the independent and omnipotent Lord has made it a rule that the full and perfect enjoyment (of Himself) should be granted in this order (namely, the archiridi route, the entrance into the region or locality and then the enjoyment).
+<details><summary>English</summary>
+
+Before **starting** on the archirādi route,  
+
+when a man **understands** the essential nature (svarūpa) of Brahman with the **help** of the śāstras  
+and so also when he **has** a **vision** of Brahman with the **help** of yoga  
+and when he **reaches** such worlds as those of Vibhava,  
+
+(Vihhava : The avatars are called Vibhavas. He who meditates on a Vihhava - Rama, Krishna, Nnsimha and the like will reach the world or loka of Rama, Krishna, Nrisimha and the like. From there, after meditation on the Supreme Being, he will go to Paramapada. This is how two scholars of repute explained this passage to me.)
+
+the **vision** or **realisation** which he gets …
+</details>
+
+<details><summary>Español</summary>
+
+Antes de **comenzar** la ruta archirādi,  
+
+cuando un hombre **comprende** la naturaleza esencial (svarūpa) de Brahman con la **ayuda** de los śāstras  
+y así también cuando **tiene** una **visión** de Brahman con la **ayuda** del yoga  
+y cuando **alcanza** mundos como los de Vibhava,  
+
+(Vihhava: Los avatares **se llaman** Vibhavas. Aquel que **medita** en un Vihhava - Rama, Krishna, Nnsimha y similares **alcanzará** el mundo o loka de Rama, Krishna, Nrisimha y similares. Desde allí, después de **meditar** en el Ser Supremo, irá a Paramapada. Así **es** como dos eruditos de renombre **me explicaron** este pasaje.)
+
+la **visión** o **realización** que obtiene...
+</details>
+
+<details><summary>मूलम्</summary>
+
+इग्गतिविशेषत्तुक्कु मुऩ्बु शास्त्रत्ताले ब्रह्मस्वरूपत्तै यऱिगिऱ पोदुम् योगत्ताले साक्षात्करिक्किऱ पोदुम् विभवलोकादिगळिल् प्रापिक्कुम्बोदुम् पिऱक्कुम् प्रकाशम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अर्चिरादिना देशविशेषत्तै यडैन्दवऩुक्के परिपूर्णब्रह्मानुभवमॆऩ्ऱु सॊल्ललामो? शास्त्रत्ताले अऱियुम्बोदुम् योगत्ताले साक्षात्करिक्कुम्बोदुम् विभवलोकादिगळिल् अनुभविक्कुम्बोदुम् परिपूर्णब्रह्मानुभवमिल्लैयो? इल्लामैक्कुक् कारणम् ताऩुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इग् गतिविशेषत्तुक्कु मुऩ्बु इत्यादियाल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुकृताधीनम् आय्, करणायत्तम् आय् वरुगिऱद् आगैयाले  
+परिमितमुम् आय् विच्छेदवत्तुम् आय् इरुक्कुम्।
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सुकृताधीनः करणायत्तश् च भवतीत्य् अतः   
+परिमितो विच्छेदवांश् च भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+**results** from some specific good deeds  
+and **is dependent** on the instruments of knowledge.  
+Therefore this **vision will be partial** or **limited**  
+and **liable** to **interruption**. 
+</details>
+
+<details><summary>Español</summary>
+
+**resultados** de algunas buenas acciones específicas  
+y **depende** de los instrumentos de conocimiento.  
+Por lo tanto esta **visión será parcial** o **limitada**  
+y **responsable** de **interrupción**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुकृताधीनमाय् करणायत्तमाय् वरुगिऱदागैयाले परिमितमुमाय् विच्छेदवत्तुमायिरुक्कुम्।
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आऩाल् गतिविशेषत्तिऱ्कु मुऩ्बु वरुम् ब्रह्मानुभवम् कीदृशमायिरुक्कुमॆऩ्ऩिल् अरुळिच्चॆय्गिऱार् सुकृताधीनमाय् कारणायत्तमाय् वरुगिऱदागैयाले परिमितमुमाय् विच्छेदवत्तुमायिरुक्कुमिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्त-दशैयिऱ् पिऱक्किऱ प्रकाशम्  
+सङ्कोच-विच्छेदङ् कळुक्कुक् कारणम् ऒऩ्ऱुम् इल्लामैयाले  
+परिपूर्ण-विषयमुम् आय् पुनर्-विच्छेद-रहितमुम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्त-दशायां जायमानः प्रकाशः  
+सङ्कोच-विकास-कारणस्य कस्याप्य् अभावात्  
+परिपूर्ण-विषयः, पुनर्-विच्छेद-रहितश् च भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+But the **vision** that **results** in the state of mukti **is** full and perfect,  
+because there **are no** factors that **limit** or **diminish** the **experience**  
+**nor is it liable** to any further **interruption** or **break**.  
+</details>
+
+<details><summary>Español</summary>
+
+Pero la **visión** que **resulta** en el estado de mukti **es** plena y perfecta,  
+porque **no hay** factores que **limitan** o **disminuyen** la **experiencia**  
+**tampoco es responsable** de ninguna **interrupción** o **rotura** adicional.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुक्तदशैयिऱ् पिऱक्किऱ प्रकाशम् सङ्कोच विच्छेदङ्गळुक्कुक् कारणमॊऩ्ऱुमिल्लामैयाले परिपूर्णविषयमुमाय् पुनर्विच्छेदरहितमुमायिरुक्कुम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि मुक्तदशैयिल् ब्रह्मानुभवम् सङ्कोच विच्छेदत्तिऱ्कु कारणमिल्लामैयाल् परिपूर्णमागवे इरुक्कुमॆऩ्गिऱार् मुक्तदशैयिल् पिऱक्किऱ प्रकाशमिति । 
+</details>
+
+
+## परिपूर्ण-कैङ्कर्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अनुभव-परीवाहम् आय् 
+
+> ‘‘क्रियताम् इति मां वद’’  
+(रामायणम् आरण्यकाण्डम् १५-७) 
+
+ऎऩ्गिऱ बडिये  
+शेषिय् उगन्द परिपूर्ण-कैङ्कर्यं वरुगिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-अनुभव-परीवाहात्मना 
+
+> ‘‘क्रियताम् इति मां वद’’  
+(रामायणम् आरण्यकाण्डम् १५-७) 
+
+इत्य्-उक्त-रीत्या  
+शेष्य्-अभिमतं परिपूर्-णकैङ्कर्यं प्राप्नोति । 
+</details>
+
+
+<details><summary>English</summary>
+
+As an **Overflow** (parivāha) of this **enjoyment arises** the perfect service or kaiṅkarya  
+in which the śeṣī (the Lord) **finds delight**  
+and this idea **is expressed** in the śloka:  
+
+> "Though **you live** for a hundred years,  
+I will always **be** your **servant**.  
+Therefore **give me orders saying** - "**Do** this in this beautiful place."  
+</details>
+
+<details><summary>Español</summary>
+
+Como un **desbordamiento** (parivāha) de este **disfrute** surge el servicio perfecto o kaiṅkarya  
+en el que el śeṣī (el Señor) **encuentra deleite**  
+y esta idea **se expresa** en el śloka:  
+
+> "Aunque **vivas** cien años,  
+Siempre seré **tu **sirviente**.  
+Por eso **dame órdenes diciendo** - "**Haz** esto en este hermoso lugar".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वनुभवपरीवाहमाय् ‘‘क्रियतामिति मां वद’’(रामायणम् आरण्यकाण्डम् १५-७) ऎऩ्गिऱबडिये शेषियुगन्द परिपूर्णकैङ्कर्यम् वरुगिऱदु। 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि सर्वपापनिवृत्ति सॊऩ्ऩदाल् कीऴ् श्लोकत्तिल् मामेवैष्यसि ऎऩ्ऱु सॊऩ्ऩ भगवत्प्राप्तिरूपपरिपूर्ण ब्रह्मानुभवम् सॊऩ्ऩदाग सिद्धित्तालुम् भगवत्कैङ्कर्यरूपपुरुषार्थसिद्धि सॊऩ्ऩदाग आगविल्लैये ऎऩ्ऩ? अदुवुम् अव्वनुभवजनितप्रीतिकारितया तत्परीवाहमागैयाले सॊऩ्ऩ प्रायमॆऩ्गिऱार् इव्वनुभवपरीवाहमायिति । 
+</details>
+
+## फल-पर्वाणि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘पारमार्थिक’’ ऎऩ्गिऱ गद्य-वाक्यत्तिऱ् सॊऩ्ऩ फल-पर्व-परं-परैय् ऎल्लाम्  
+इङ्गे यथा-प्रमाणम् विवक्षिक्कप् पडुगिऱदु।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"पारमार्थिक" इति गद्य-वाक्योक्तानि फल-पर्वाणि सर्वाण्य् अपि  
+अत्र यथा-प्रमाणं विवक्षितानि भवन्ति ॥
+[[P411]]
+
+</details>
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> पारमार्थिक-भगवच्-चरण+अरविन्द-युगल…--  
+**पर-भक्ति+++(=उत्तरोत्तर-साक्षात्-काराभिनिवेश)+++--  
+पर-ज्ञान+++(=साक्षात्कार)+++--  
+परम-भक्ति-कृत+++(=उत्तरोत्तरानुभवाभिनिवेशः)+++**--  
+परिपूर्ण…--**भगवद्-अनुभव--जनित**--  
+…**प्रीति-कारित**--  
+**नित्य-कैङ्कर्य--प्राप्ति**…
+
+इति क्रमस् तत्रोक्तः। 
+</details>
 
 
 
-Before starting on the archirādi route, when a man understands the essential nature (svarūpa) of Brahman with the help of the śāstras and so also when he has a vision of Brahman with the help of yoga and when he reaches such worlds as those of *[^f5] Vibhava, the vision or realisation which he gets results from some specific good deeds and is dependent on the instruments of knowledge. Therefore this vision will be partial or limited and liable to interruption. But the vision that results in the state of mukti is full and perfect, because there are no factors that limit or diminish the experience nor is it liable to any further interruption or break, As an Overflow (parivāha) of this enjoyment arises the perfect service or kaiṅkarya in which the śeṣī (the Lord) finds delight and this idea is expressed in the śloka: "Though you live for a hundred years, I will always be your servant. Therefore give me orders saying . " Do this in this beautiful place." Here all the successive stages of realisation (or fruit) which are stated (by Śrī Rāmānuja , in the (Śaraṇāgati) Gadya in the sentence with the word pāramarthika are also implicitly suggested in accordance with the pramāṇas.
+<details><summary>English</summary>
 
-[^f5]: 1.
+Here all the successive stages of **realisation** (or fruit) which **are stated** by Śrī Rāmānuja , in the (Śaraṇāgati) Gadya  
+in the sentence with the word pāramarthika  
+**are** also implicitly **suggested** in accordance with the pramāṇas.
+
+</details>
+
+<details><summary>Español</summary>
+
+Aquí todas las etapas sucesivas de **realización** (o fruto) que **son declaradas** por Śrī Rāmānuja, en el (Śaraṇāgati) Gadya  
+en la oración con la palabra pāramarthika  
+**son** también implícitamente **sugeridos** de acuerdo con los pramāṇas.
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+‘‘पारमार्थिक’’ ऎऩ्गिऱ गद्यवाक्यत्तिऱ्सॊऩ्ऩ फलपर्वपरंपरैयॆल्लाम् इङ्गे यथाप्रमाणम् विवक्षिक्कप् पडुगिऱदु।  
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि परिपूर्णब्रह्मानुभवत्तैच् चॊल्ल तत्परीवाहमाग शेषि युगन्द कैङ्कर्यमुम् विवक्षितमागिऱाप्पोले अन्द कैङ्कर्यत्तिले वरुम् ‘‘पारमार्थिक’’ ऎऩ्गिऱ गद्यत्तिऱ् सॊऩ्ऩ फलपर्वभेदङ्गळुम् विवक्षितङ्गळामॆऩ्गिऱार् ‘‘पारमार्थिक’’ ऎऩ्गिऱ इत्यादियाल्। 
+
+फलपर्वपरम्परैयावऩ:- 
+
+‘‘पारमार्थिक-भगवच्-चरणारविन्द-युगलैकान्तिकात्यन्तिक-परभक्त्य्-आदि-कृतत्व परिपूर्णत्व, अनवरतत्व, नित्यत्व, विशदतमत्व, अनन्यप्रयोजनत्व, अनवधिकातिशयप्रियत्व, विशिष्टभगवदनुभवजनितत्व, अनवधिकातिशयप्रीतिकारितत्व, अशेषावस्थोचितत्व, अशेषशेषतैकरतिरूपत्व, नित्यत्वविशिष्ट-कैङ्कर्यङ्गळ्। 
+
+यथाप्रमाणमिति ।  
+गद्यभाष्योक्तप्रमाणानतिक्रमत्ताले यॆऩ्ऱबडि।  
+</details>

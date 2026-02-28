@@ -13,6 +13,7 @@ EL SIGNIFICADO DE ‘MĀ ŚUCHAH’ (NO TE LLORES - NO DESESPERES) página 609
 
 
 
+
 Thereafter the words,  "Do not grieve” reveal the certainty of what has been stated before ".
 
 
