@@ -3,6 +3,10 @@ title = "+काञ्ची-तातार्य-परम्परा"
 +++
 A small section of tataryas (mostly belonging to the addanki branch and some belonging to srimushnam branch with a few others) are tenkalais. More than 95% of tataryas must be vdk.
 
+## सङ्ख्या
+२०२६ इति वर्षे ५-६ वा समाश्रयणादिकं कुर्वन्ति।  
+काल्क्षेपस् तु दुर्लभः। 
+
 ## राजाश्रयः
 कृष्णदेवराय-मुख्यानां राजगुरवस् तातार्य-वंश्याः।
 

@@ -8,9 +8,18 @@ THE MEANING OF ‘MĀ ŚUCHAH’ (DO NOT GRIEVE - DO NOT DESPAIR)  page609
 
 <details><summary>Español</summary>
 
-EL SIGNIFICADO DE ‘MĀ ŚUCHAH’ (NO TE LLORES - NO DESESPERES) página 609
+EL SIGNIFICADO DE ‘MĀ ŚUCHAH’ (**NO TE LLORES - NO DESESPERES**) página 609
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इऩि मेल् ‘‘मा शुचः’’ ऎऩ्गिऱव् इत्ताले कीऴरुळिच्चॆय्दवर्थत्तिल् तीर्वु प्रकाशितमागिऱदु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इऩिमेल् ‘‘मा शुचः’’ ऎऩ्गिऱवित्ताले कीऴरुळिच्चॆय्दवर्थत्तिल् तीर्वु प्रकाशितमागिऱदु। 
+</details>
 
 
 
