@@ -194,7 +194,7 @@ y **tiene** como objetivo **confirmar** la fe del hombre.
 आगैयाल् इव्वुपायत्तिलिऴियुमवऩुक्कु शोकहेतुक्कळॆल्लाङ् गऴिगैयाले शोकिक्कवेण्डावॆऩ्ऩुमिडत्तैच् चॊल्लिक्कॊण्डु विश्वासत्तै दृढीकरिक्कैयिले तात्पर्यम्।
 </details>
 
-## सर्व-शोक-हानिः
+## दुष्करोपाय-शोक-हानिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बन्धु-नाशादयः पूर्वं  
@@ -211,6 +211,18 @@ y **tiene** como objetivo **confirmar** la fe del hombre.
 उपदेशैर् **अपोदिताः** ॥  
 </details>
 
+<details><summary>English</summary>
+
+Many causes of sorrow (in the case of Arjuna) like those concerning the **destruction** of relatives  
+**have already been removed** by appropriate and excellent **teaching**.  
+</details>
+
+<details><summary>Español</summary>
+
+Muchas causas de tristeza (en el caso de Arjuna), como aquellas relacionadas con la **destrucción** de familiares  
+**ya han sido eliminados** mediante una **enseñanza** adecuada y excelente.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -223,25 +235,376 @@ y **tiene** como objetivo **confirmar** la fe del hombre.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-सुदुष्करत्वाद्धर्माणामपारत्वाद्विरोधिनाम् ।  
-सिद्धः फलविळंबाच्च शोकोऽद्य विनिवार्यते ॥
+सु-दुष्करत्वाद् धर्माणाम्  
+अ-पारत्वाद् विरोधिनाम् ।  
+**सिद्धः** फल-विलंबाच् च  
+शोकोऽद्य **विनिवार्यते** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सु-दुष्करत्वाद् धर्माणाम्  
+अ-पारत्वाद् विरोधिनाम् ।  
+**सिद्धः** फल-विलंबाच् च  
+शोकोऽद्य **विनिवार्यते** ॥
+</details>
+
+<details><summary>English</summary>
+
+Now the sorrow or despair **caused** by the **thought** that the dharma or rites **enjoined** (for mukti) **are** too difficult to **perform**,  
+that the hindrances to mukti **are insuperable**  
+and that the end in view **can be attained** only after protracted delay -  
+it **is** this sorrow  
+that **is** now dispelled.
+</details>
+
+<details><summary>Español</summary>
+
+Ahora bien, el dolor o la desesperación **causados** por el **pensamiento** de que el dharma o los ritos **prescritos** (para mukti) **son** demasiado difíciles de **realizar**,  
+que los obstáculos para mukti **son insuperables**  
+y que el fin a la vista **puede lograrse** sólo después de un retraso prolongado -  
+es **es** esta pena  
+eso **está** ahora **disipado**.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 सुदुष्करत्वाद्धर्माणामपारत्वाद्विरोधिनाम् ।  
-सिद्धः फलविळंबाच्च शोकोऽद्य विनिवार्यते ॥
+सिद्धः फलविलंबाच्च शोकोऽद्य विनिवार्यते ॥
 </details>
 
-Many causes of sorrow (in the case of Arjuna) like those concerning the destruction of relatives have already been removed by appropriate and excellent teaching. Now the sorrow or despair caused by the thought that the dharma or rites enjoined (for mukti) are too difficult to perform, that the hindrances to mukti are insuperable and that the end in view can be attained only after protracted delay - it is this sorrow that is now dispelled.
+### भगवद्-अभिप्रायः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अभिमत-फलत्तुक्कु दुष्-कर-साधनमुम् अऩ्ऱिक्के सर्व-विरोधि--निवर्तन-क्षममुम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+> (After **I have taught you** this upāya), which,  
+without **being** too hard to **adopt** for the end **desired** by you,  
+**is** also **capable** of **annulling** all **hindrances**  
+that **stand** in the way  
+</details>
+
+<details><summary>Español</summary>
+
+> (Después de **te he enseñado** este upāya), que,  
+sin **ser** demasiado difícil de **adoptar** para el fin **deseado** por ti,  
+**es** también **capaz** de **anular** todos los **obstáculos**  
+que **se interponen** en el camino
+</details>
+
+<details><summary>मूलम्</summary>
+
+अभिमतफलत्तुक्कु दुष्करसाधनमुमऩ्ऱिक्के सर्वविरोधिनिवर्तनक्षममुमाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> फल-विलम्बमुम् अऩ्ऱिक्केय् इरुक्किऱ  
+इव् उपाय विशेषम्
+</details>
+
+<details><summary>English</summary>
+
+and **is not liable** to **cause** any (undue) delay in the **attainment** of that aim -- 
+</details>
+
+<details><summary>Español</summary>
+
+y **no es responsable** de **causar** ningún **retraso** (indebido) en el **logro** de ese objetivo – 
+</details>
+
+<details><summary>मूलम्</summary>
+
+फलविळम्बमुमऩ्ऱिक्के यिरुक्किऱ इव् उपाय विशेषम्
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(The Lord) intends to say: After I have taught you this upāya, which, without being too hard to adopt for the end desired by you, is also capable of annulling all hindrances that stand in the way and is not liable to cause any (undue) delay in the attainment of that aim -- after this has been taught to you, there is no room for despair due to such things is the difficulty of adopting an upāya. If you adopt this upāya, your welfare is my burden or responsibility and I shall myself be interested in looking after it. If I do not protect you, it will be a reproach to me. You are, as it were, muy property or wealth (to look after) and there is no reason why you should grieve".
+> … उपदिष्टम् आऩ पिऩ्बु  
+उपाय-दौष्कर्यादिगळ् अडिय् आगव्  
+उऩक्कु शोकिक्कप् प्राप्तिय् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+> after this **has been taught** to you,  
+there **is** no room for **despair** due to such things as the difficulty of **adopting** an upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+> después de que esto te **haya sido enseñado**,  
+**No hay** lugar para **la desesperación** debido a cosas como la dificultad de **adoptar** un upāya.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-The grief that is here put an end to is not the old sorrow caused (in Arjuna's mind) by the thought of killing (his) relatives. It is a different kind of grief that has to be consistent with the context. If it be asked how, the answer is as follows :- "The rich qualities  that distinguish the nature of the gods lead to mokṣa, the qualities that make for the nature of the Asuras are the causes that lead to bondage". When the two were thus distinguished, Arjuna was grieved at the thought of what he should do if he belonged to the class of Asuras. Śrī Kṛṣṇa, who understood this, said to him :- "O Pandava! do not grieve. You are born to attain the rich qualities of the gods". Similarly here, when (Arjuna) is extremely desirous of attaining the supreme end, he grieves at the thought that the upāya taught so far has to be adopted for a long time, and is subject to many hindrances, while being extremely difficult of performance even for those who are very careful. At the thought of that upāya and of his own (want of) capacity for adopting it, he grieves, saying to himself "How can I succeed in adopting this upāya and secure the end in view?" To Arjuna who was in despair (at this thought), Śrī Kṛṣṇa shows another upāya which can be only performed in a single instant, which is without any obstacles, and which is (also) easy of performance. By doing so, He makes Arjuna care-free and certain in regard to the attainment of the desired end and then says, “ Do not grieve". So the words should certainly be understood as intended to dispel the despair due to such things as the difficulty of adopting the (former) upāya. (It is only this grief that is here put an end to and no other).
+उपदिष्टमाऩ पिऩ्बु उपायदौष्कर्यादिगळडियाग वुऩक्कु शोकिक्कप् प्राप्तियिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इव्व् उपायम् अनुष्ठित्ताल्  
+उऩ् कार्यम् ऎऩक्कु भरम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+> If you **adopt** this upāya,  
+your welfare **is** my burden or responsibility  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Si **adoptas** este upāya,  
+tu bienestar **es** mi carga o responsabilidad
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायमनुष्ठित्ताल् उऩ् कार्यमॆऩक्कु भरमाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नाऩे फलियुम् आय्  
+उऩ्ऩै रक्षियाद बोदु  
+ऎऩक्क् अवद्यम् आम् बडिय् आय् इरुक्कुम् दशैयिलुम् 
+</details>
+
+<details><summary>English</summary>
+
+> and I shall myself **be interested** in **looking** after it.  
+If I **do not protect** you,  
+it **will be** a **reproach** to me.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> y yo mismo **estaré interesado** en **cuidar** de ello.  
+Si **no te protejo**,  
+**será** un **reproche** para mí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाऩे फलियुमाय् उऩ्ऩै रक्षियादबोदु ऎऩक्कवद्यमाम्बडियायिरुक्कुम् दशैयिलुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> धनादि-तुल्यऩ् आऩव् उऩक्कु  
+शोकिक्कप् प्राप्तिय् उण्डोव् 
+
+ऎऩ्ऱु तिरुव्-उळ्ळम्।
+</details>
+
+<details><summary>English</summary>
+
+> You **are**, as it were, my property or wealth (to look after)  
+and there **is no** reason why you **should grieve**".
+
+(The Lord) **intends** to **say** (this). 
+</details>
+
+<details><summary>Español</summary>
+
+> Tú **eres**, por así **decirlo**, mi propiedad o riqueza (debo cuidar)  
+y **no hay ninguna** razón por la que **debas llorar**".
+
+(El Señor) **tiene la intención** de **decir** (esto).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+धनादितुल्यऩाऩ वुऩक्कु शोकिक्कप् प्राप्तियुण्डो वॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+### बन्धु-नाश-शोकाद् भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु कऴिक्किऱ शोकम्  
+यथाऽवस्थितात्मोपदेशादिगळाले कऴिन्द  
+बन्धु-वधादि-निमित्तम् आऩ पऴैय शोकम् अऩ्ऱु;  
+प्रकरणानुगुणम् आऩ शोकान्तरम्। 
+</details>
+
+<details><summary>English</summary>
+
+The grief that **is** here **put an end to**  
+**is not** the old sorrow **caused** (in Arjuna's mind) by the **thought** of **killing** (his) relatives.  
+It **is** a different kind of grief  
+that **has to be consistent** with the context. 
+</details>
+
+<details><summary>Español</summary>
+
+El dolor que **está** aquí **ponle fin**  
+**no es** el antiguo dolor **causado** (en la mente de Arjuna) por el **pensamiento** de **matar** a (sus) parientes.  
+**Es** un tipo diferente de dolor.  
+eso **tiene** que **ser consistente** con el contexto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु कऴिक्किऱ शोकम् यथावस्थितात्मोपदेशादिगळाले कऴिन्द बन्धुवधादिनिमित्तमाऩ पऴैय शोकमऩ्ऱु; प्रकरणानुगुणमाऩ शोकान्तरम्। 
+</details>
+
+#### आसुर-सम्पदि शोकवत्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+If it **be asked** how, the **answer is** as **follows** :- 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se le pregunta** cómo, la **respuesta es** la **siguiente**:
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘दैवी +++(गुण-)+++सम्पद् **विमोक्षाय**  
+**निबन्धाया** ऽऽसुरी **मता**।’’ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘दैवी +++(गुण-)+++सम्पद् **विमोक्षाय**  
+**निबन्धाया** ऽऽसुरी **मता**।’’ 
+</details>
+
+<details><summary>English</summary>
+
+> "The rich qualities that **distinguish** the nature of the gods **lead** to mokṣa,  
+the qualities that **make** for the nature of the Asuras  
+**are** the causes that **lead** to bondage". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Las ricas cualidades que **distinguen** la naturaleza de los dioses **conducen** a mokṣa,  
+las cualidades que **hacen** la naturaleza de los Asuras  
+**son** las causas que **conducen** a la esclavitud".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘दैवी संपद्विमोक्षाय निबन्धायाऽऽसुरी मता’’ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऎऩ्ऱु पिरित्तुच् चॊऩ्ऩ वाऱे+++(=रीत्यैव)+++  
+नाम् आसुर-प्रकृतिगळ् आगिऱ् सॆय्वद् ऎऩ्ऩ् 
+
+ऎऩ्ऱु शोकित्त अर्जुनऩैप् पऱ्ऱ
+</details>
+
+<details><summary>English</summary>
+
+When the two were thus **distinguished**,  
+Arjuna **was grieved** at the **thought** of what he **should do**  
+if he **belonged** to the class of Asuras.  
+Śrī Kṛṣṇa, who **understood** this, **said** to him :- 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando los dos fueron así **distinguidos**,  
+Arjuna **estaba afligido** al **pensar** en lo que **debería hacer**  
+si **perteneciera** a la clase de Asuras.  
+Śrī Kṛṣṇa, quien **comprendió** esto, **le dijo**:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु पिरित्तुच् चॊऩ्ऩवाऱे नाम् आसुरप्रकृतिकळागिऱ्सॆय्वदॆऩ्ऩॆऩ्ऱु शोकित्त अर्जुनऩैप् पऱ्ऱ
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**मा शुचस्** सम्पदन् दैवीम् +++(प्राप्तुम्)+++  
+**अभिजातोऽसि** पाण्डव।’’  
+(गीता १६-५) 
+
+ऎऩ्ऱाऱ् पोले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘**मा शुचस्** सम्पदन् दैवीम् +++(प्राप्तुम्)+++  
+**अभिजातोऽसि** पाण्डव।’’  
+(गीता १६-५) 
+</details>
+
+<details><summary>English</summary>
+
+> "O Pandava! **do not grieve**.  
+You **are born** to **attain** the rich qualities of the gods". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "¡Oh Pandava! **No te aflijas**.  
+**Naciste** para **alcanzar** las ricas cualidades de los dioses".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मा शुचस्संपदन्दैवीमभिजातोऽसि पाण्डव’’(गीता १६-५) ऎऩ्ऱाऱ्पोले 
+</details>
+
+#### दौष्कर्ये शोकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु सीरिय+++(=उत्तम)+++ फलत्तिल् तीव्र-सङ्गम् नडवा निऱ्क  
+
+चिर-काल-सेव्यम् आय्  
+अन्तराय-बहुलम् आय्  
+अत्यन्तावहितर्क्कुम् कृच्छ्र-साध्यम् आऩ उपायत्तैयुम्  
+
+तऩ्ऩ् अळवैयुङ् कण्डु
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सीरिय फलत्तिल् तीव्रसङ्गम् नडवा निऱ्क चिरकालसेव्यमाय् अन्तरायबहुळमाय् अत्यन्तावहितर्क्कुम् कृच्छ्रसाध्यमाऩ उपायत्तैयुम् तऩ्ऩळवैयुङ्गण्डु
+</details>
+
+
+Similarly here, when (Arjuna) **is** extremely **desirous** of **attaining** the supreme end, he grieves at the thought that the upāya taught so far has to be adopted for a long time, and is subject to many hindrances, while being extremely difficult of performance even for those who are very careful. At the thought of that upāya and of his own (want of) capacity for adopting it, he grieves, saying to himself "How can I succeed in adopting this upāya and secure the end in view?" To Arjuna who was in despair (at this thought), Śrī Kṛṣṇa shows another upāya which can be only performed in a single instant, which is without any obstacles, and which is (also) easy of performance. By doing so, He makes Arjuna care-free and certain in regard to the attainment of the desired end and then says, “ Do not grieve". So the words should certainly be understood as intended to dispel the despair due to such things as the difficulty of adopting the (former) upāya. (It is only this grief that is here put an end to and no other).
 
 
 
