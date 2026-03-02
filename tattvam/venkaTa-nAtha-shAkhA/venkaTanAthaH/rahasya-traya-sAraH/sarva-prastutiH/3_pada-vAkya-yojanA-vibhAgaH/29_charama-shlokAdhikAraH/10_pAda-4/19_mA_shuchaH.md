@@ -1,6 +1,8 @@
 +++
 title = "१९ मा शुचः"
 +++
+
+## प्रवेशः
 <details><summary>English</summary>
 
 THE MEANING OF ‘MĀ ŚUCHAH’ (DO NOT GRIEVE - DO NOT DESPAIR)  page609
@@ -36,28 +38,197 @@ A partir de entonces las palabras,
 इऩिमेल् ‘‘मा शुचः’’ ऎऩ्गिऱवित्ताले कीऴरुळिच्चॆय्दवर्थत्तिल् तीर्वु प्रकाशितमागिऱदु। 
 </details>
 
+## न विधिः
+### संशयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिलर् 
+
+> ‘‘मा शुचः’’ ऎऩ्गिऱ विधियाले  
+प्रपन्नऩ् आऩ पिऩ्बु  
+शोकिक्कै विध्य्-अतिलङ्घनम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+There **are** some (commentators) who **hold** that 
+
+> "**Do not grieve**" **enjoins** something to **be avoided**.  
+(According to them ), if, after a man **has performed** prapatti,  
+he **grieved** or **fell** into **despair**,  
+he **would be violating** the **injunction**  
+</details>
+
+<details><summary>Español</summary>
+
+**Hay** algunos (**comentaristos**) que **sostienen** eso 
+
+> "**No te aflijas**" **ordena** algo que **debe evitarse**.  
+(Según ellos), si, después de que un hombre **ha realizado** prapatti,  
+él **se entristeció** o **cayó** en **desesperación**,  
+él **estaría violando** la **orden**
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+सिलर् ‘‘मा शुचः’’ ऎऩ्गिऱ विधियाले प्रपन्नऩाऩ पिऩ्बु शोकिक्कै विध्यतिलङ्घनमाय् 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवऩै उपाय-भूतऩ् आऩ शरण्यऩ् नॆगिऴ्न्दु+++(=त्यक्त्वा)+++  
+तऩ् कार्यत्तुक्कुत् ताऩे कडवऩ् आगैय्  
+आगिऱ प्रत्यवायम् उण्ड् आम्
+</details>
+
+<details><summary>English</summary>
+
+and the Saviour who **is** the upāya  
+**would become indifferent**  
+and **leave** him to **look** after himself.  
+The man would thus **become liable**, in their opinion, to this disadvantage or risk. 
+</details>
+
+<details><summary>Español</summary>
+
+y el Salvador que **es** el upāya  
+**se volvería indiferente**  
+y **déjalo** para que **cuide** de sí mismo.  
+El hombre sería así **responsable**, en su opinión, de esta desventaja o riesgo.
+</details>
 
 
-There are some commentators) who hold that "Do not grieve" enjoins something to be avoided. (According to them ), if, after a man has performed prapatti, he grieved or fell into despair, he would be violating the injunction and the Saviour who is the upāya would become indifferent and leave him to look after himself. The man would thus become liable, in their opinion, to this disadvantage or risk. This view is opposed to their own commentary on the sins committed deliberately after prapatti and on the words " from all sins". It is also opposed to the texts in the śrutis and the smṛtis which declare that the Saviour will never forsake the man who has sought His protection. Therefore since all causes for grief or despair have disappeared in the case of the man who has adopted this upāya, it repeats that there is absolutely no cause for despair and aims at confirming the man's faith.
+<details><summary>मूलम्</summary>
+
+इवऩै उपायभूतऩाऩ शरण्यऩ् नॆगिऴ्न्दु दऩ् कार्यत्तुक्कुत् ताऩे कडवऩागैयागिऱ प्रत्यवायमुण्डाम्
+</details>
+
+### बुद्धि-पूर्वोत्तराघ-क्षमा-विरोधः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु सॊऩ्ऩव् इडम्  
+बुद्धि-पूर्वोत्तराघत्तैयुम् ‘‘सर्व-पापेभ्यः’’ ऎऩ्गिऱव् इडत्तिले कूट्टित्  
+ताङ्गळे पण्णिऩ व्याख्यानत्तुक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+This view (**is opposed**) to their own **commentary** on the words "from all sins"  
+**showing** there the sins **committed** deliberately after prapatti. +++(Commentary corrected.)+++ 
+</details>
+
+<details><summary>Español</summary>
+
+Este punto de vista (**se opone**) a su propio **comentario** sobre las palabras "de todos los pecados"  
+**mostrando** allí los pecados **cometidos** deliberadamente después de prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु सॊऩ्ऩविडम् बुद्धिपूर्वोत्तराघत्तैयुम् ‘‘सर्वपापेभ्यः’’ ऎऩ्गिऱविडत्तिले कूट्टित् ताङ्गळे पण्णिऩ व्याख्यानत्तुक्कुम्, 
+</details>
+
+### शास्त्र-विरोधः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रपन्नऩै शरण्यऩ् ऒरु पडियालुङ् कै विडाऩ् 
+
+ऎऩ्गिऱ वाक्यङ्गळुक्कुम् विरुद्धम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+It is also **opposed** to the texts in the śrutis and the smṛtis  
+which **declare** that  
+the Saviour **will never forsake** the man who **has sought** His **protection**. 
+</details>
+
+<details><summary>Español</summary>
+
+También se **opone** a los textos de los śrutis y los smṛtis.  
+que **declaran** que  
+el Salvador **nunca desamparará** al hombre que **ha buscado** Su **protección**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रपन्नऩै शरण्यऩॊरु पडियालुङ्गैविडाऩॆऩ्गिऱ वाक्यङ्गळुक्कुम् विरुद्धमाम्।
+</details>
+
+## विश्वास-दृढीकरणम्, हेतूक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इव्व् उपायत्तिल् इऴियुम् अवऩुक्कु  
+
+> शोक-हेतुक्कळ् ऎल्लाङ् कऴिगैयाले  
+शोकिक्क वेण्डाव् 
+
+ऎऩ्ऩुम् इडत्तैच् चॊल्लिक् कॊण्डु  
+विश्वासत्तै दृढीकरिक्कैयिले तात्पर्यम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore since all causes for grief or despair **have disappeared** in the case of the man who **has adopted** this upāya,  
+it **repeats** that  
+there **is** absolutely no cause for despair  
+and **aims** at **confirming** the man's faith.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, dado que todas las causas de pena o desesperación **han desaparecido** en el caso del hombre que **ha adoptado** este upāya,  
+**se repite** eso  
+**No hay** absolutamente ningún motivo para la **desesperación**  
+y **tiene** como objetivo **confirmar** la fe del hombre.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इव्वुपायत्तिलिऴियुमवऩुक्कु शोकहेतुक्कळॆल्लाङ् गऴिगैयाले शोकिक्कवेण्डावॆऩ्ऩुमिडत्तैच् चॊल्लिक्कॊण्डु विश्वासत्तै दृढीकरिक्कैयिले तात्पर्यम्।
+</details>
+
+## सर्व-शोक-हानिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बन्धु-नाशादयः पूर्वं  
+बहवश् शोक-हेतवः ।  
+तत्-तत्-समुचितैस् सम्यग्  
+उपदेशैर् **अपोदिताः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बन्धु-नाशादयः पूर्वं  
+बहवश् शोक-हेतवः ।  
+तत्-तत्-समुचितैस् सम्यग्  
+उपदेशैर् **अपोदिताः** ॥  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बन्धुनाशादयः पूर्वं बहवश्शोकहेतवः ।  
+तत्तत्समुचितैस्सम्यगुपदेशैरपोदिताः ॥  
+</details>
+
 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-बन्धुनाशादयः पूर्वं बहवश्शोकहेतवः ।  
-तत्तत्समुचितैस्सम्यगुपदेशैरपोदिताः ॥  
 सुदुष्करत्वाद्धर्माणामपारत्वाद्विरोधिनाम् ।  
 सिद्धः फलविळंबाच्च शोकोऽद्य विनिवार्यते ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-बन्धुनाशादयः पूर्वं बहवश्शोकहेतवः ।  
-तत्तत्समुचितैस्सम्यगुपदेशैरपोदिताः ॥  
 सुदुष्करत्वाद्धर्माणामपारत्वाद्विरोधिनाम् ।  
 सिद्धः फलविळंबाच्च शोकोऽद्य विनिवार्यते ॥
 </details>
