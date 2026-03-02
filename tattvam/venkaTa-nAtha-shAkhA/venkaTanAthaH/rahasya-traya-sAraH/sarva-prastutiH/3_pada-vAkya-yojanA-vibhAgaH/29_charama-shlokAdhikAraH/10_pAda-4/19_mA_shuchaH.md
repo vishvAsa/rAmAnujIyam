@@ -16,6 +16,21 @@ EL SIGNIFICADO DE ‘MĀ ŚUCHAH’ (**NO TE LLORES - NO DESESPERES**) página 6
 इऩि मेल् ‘‘मा शुचः’’ ऎऩ्गिऱव् इत्ताले कीऴरुळिच्चॆय्दवर्थत्तिल् तीर्वु प्रकाशितमागिऱदु। 
 </details>
 
+<details><summary>English</summary>
+
+Thereafter the words,  
+"**Do not grieve**”  
+**reveal** the certainty of what **has been stated** before.
+</details>
+
+<details><summary>Español</summary>
+
+A partir de entonces las palabras,  
+"**No te aflijas**”  
+**revela** la certeza de lo que **se ha dicho** antes.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इऩिमेल् ‘‘मा शुचः’’ ऎऩ्गिऱवित्ताले कीऴरुळिच्चॆय्दवर्थत्तिल् तीर्वु प्रकाशितमागिऱदु। 
@@ -23,7 +38,7 @@ EL SIGNIFICADO DE ‘MĀ ŚUCHAH’ (**NO TE LLORES - NO DESESPERES**) página 6
 
 
 
-Thereafter the words,  "Do not grieve” reveal the certainty of what has been stated before ".
+
 
 
 
