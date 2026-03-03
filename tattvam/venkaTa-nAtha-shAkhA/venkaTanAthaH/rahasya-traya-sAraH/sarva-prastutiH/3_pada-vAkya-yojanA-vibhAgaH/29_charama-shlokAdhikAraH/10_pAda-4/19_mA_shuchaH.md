@@ -598,17 +598,288 @@ You **are born** to **attain** the rich qualities of the gods".
 तऩ्ऩ् अळवैयुङ् कण्डु
 </details>
 
+<details><summary>English</summary>
+
+Similarly here, when (Arjuna) **is** extremely **desirous** of **attaining** the supreme end,  
+he **grieves** at the **thought** that the upāya **taught** so far **has to be adopted** for a long time,  
+and **is subject** to many **hindrances**,  
+while **being** extremely difficult of **performance**  
+even for those who **are** very careful. 
+
+At the **thought** of that upāya  
+and of his own (want of) capacity for **adopting** it,  
+</details>
+
+<details><summary>Español</summary>
+
+De manera similar aquí, cuando (Arjuna) **está** extremadamente **deseado** de **alcanzar** el fin supremo,  
+él **se lamenta** ante el **pensamiento** de que el upāya **enseñado** hasta ahora **tiene** que **ser adoptado** durante mucho tiempo,  
+y **está sujeto** a muchos **obstáculos**,  
+mientras que **siendo** extremadamente difícil de **rendimiento**  
+incluso para aquellos que **son** muy cuidadosos. 
+
+Ante el **pensamiento** de ese upāya  
+y de su propia (falta de) capacidad para **adoptar**,
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इङ्गु सीरिय फलत्तिल् तीव्रसङ्गम् नडवा निऱ्क चिरकालसेव्यमाय् अन्तरायबहुळमाय् अत्यन्तावहितर्क्कुम् कृच्छ्रसाध्यमाऩ उपायत्तैयुम् तऩ्ऩळवैयुङ्गण्डु
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Similarly here, when (Arjuna) **is** extremely **desirous** of **attaining** the supreme end, he grieves at the thought that the upāya taught so far has to be adopted for a long time, and is subject to many hindrances, while being extremely difficult of performance even for those who are very careful. At the thought of that upāya and of his own (want of) capacity for adopting it, he grieves, saying to himself "How can I succeed in adopting this upāya and secure the end in view?" To Arjuna who was in despair (at this thought), Śrī Kṛṣṇa shows another upāya which can be only performed in a single instant, which is without any obstacles, and which is (also) easy of performance. By doing so, He makes Arjuna care-free and certain in regard to the attainment of the desired end and then says, “ Do not grieve". So the words should certainly be understood as intended to dispel the despair due to such things as the difficulty of adopting the (former) upāya. (It is only this grief that is here put an end to and no other).
+> नमक्क् इव्व् उपायन् तलैक्-कट्टि  
+ऎङ्गे इप्-फल-सिद्धिय् उण्डागप् पुगुगिऱद् 
+
+ऎऩ्ऱु शोकित्त अर्जुनऩुक्कु 
+</details>
+
+<details><summary>English</summary>
+
+he **grieves**, **saying** to himself 
+
+> "How **can I succeed** in **adopting** this upāya  
+and **secure** the end in view?" 
+
+To Arjuna who **was** in **despair** (at this **thought**),  
+</details>
+
+<details><summary>Español</summary>
+
+él **se entristece**, **se dice** a sí mismo 
+
+> "¿Cómo **puedo tener éxito** en **adoptar** este upāya?  
+y **asegurar** el final a la vista?" 
+
+A Arjuna, que **estaba desesperado** (ante este **pensamiento**),
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-In this Bhagavadgītā, the Gītācārya, at first, imparts a knowledge of the difference between prakṛti (matter, the body) and the soul or self; then He describes karma  yoga and jñāna yoga which are indirect means leading to mokṣa; thereafter he teaches bhakti  yoga with its aṅgas, which has been enjoined as the direct means of attaining mokṣa and says:-- "Thus has been taught to you the jñāna which is the most secret of all secrets. Consider all these and then do what you desire to do". Though He perceived the dissatisfaction that passed over Arjuna's face at that instant, Śrī Kṛṣṇa did not at once favour him with instructions concerning the easier upāya, for it has been said: "The Lord of the world tests the minds of those who are weak of heart". Instead of declaring the final conclusion by saying: " This is the direct means of attaining mokṣa and is supremely good to you. Act in accordance with this." - instead of saying so, he says:-"Do whatever you wish to do," as if He were indifferent (and not interested in Arjuna's spiritual welfare) like one who tells a traveller, " This route leads to the land of the Vidarbhas and this other to the land of the Kosalas. (Take whichever you choose)". Śrī Kṛṣṇa makes others think that this is the cause of Arjuna's mental depression and enjoys the līlā of instructing him once again in the principal means of attaining mokṣa  viz., bhakti  yoga. He begins by stating : " I will teach you again this greatest secret of all ", and in two ślokas explains to him, conclusively and with deep earnestness, what it is, so that he may remember that it is just what has already been taught. On seeing that Arjuna's depression has become twice as great as before, the Supreme Ruler, who is (now) the Charioteer, feels that Arjuna is now in a state of fitness to receive instruction in regard to the means of attaining mokṣa (viz. prapatti) which is the supreme secret and is, at the same time, extremely easy of adoption. Without the least delay, even without prefacing that upāya with any praise, the Lord immediately teaches him to perform śaraṇāgati towards Himself. Thus acting as the Charioteer also to the chariot of Arjuna's mind, (i.e. to all his aspirations), the Lord dispels all his griefs. That the grief which is here put an end to is therefore different from the old grief (concerning the destruction of his relatives etc.) thus becomes clear after a careful consideration of the context (in which the words occur).
+नमक्किव्वुपायन्दलैक्कट्टि ऎङ्गे इप्फलसिद्धियुण्डागप्पुगुगिऱदॆऩ्ऱु शोकित्त अर्जुनऩुक्कु 
+</details>
+
+#### सरलोपाय-दर्शनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षण-काल-साध्यम् आय्  
+सर्वान्तराय-रहितम् आय्  
+सुकरम् आऩ उपायत्तैक् काट्टिक् कॊडुत्तु 
+</details>
+
+<details><summary>English</summary>
+
+Śrī Kṛṣṇa **shows** another upāya  
+which **can be** only **performed** in a single instant,  
+which **is without** any **obstacles**,  
+and which **is** (also) easy of **performance**. 
+</details>
+
+<details><summary>Español</summary>
+
+Śrī Kṛṣṇa **muestra** otro upāya  
+que **puede **sólo **realizarse** en un solo instante,  
+que **está sin** ningún **obstáculo**,  
+y que **es** (también) fácil de **rendimiento**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+क्षणकालसाध्यमाय् सर्वान्तरायरहितमाय् सुकरमाऩ उपायत्तैक् काट्टिक्कॊडुत्तु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अम् मुखत्ताले फल-सिद्धियिल्  
+निर्भरऩुम् आय्  
+निस्-संशयऩुम् आम् बडि पण्णि
+</details>
+
+<details><summary>English</summary>
+
+By **doing** so,  
+He **makes** Arjuna care-free  
+and **certain** in regard to the **attainment** of the desired end  
+</details>
+
+<details><summary>Español</summary>
+
+Al **hacer** esto,  
+Él **hace** que Arjuna **esté libre** de preocupaciones  
+y **cierto** con respecto al **logro** del fin deseado
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अम् मुखत्ताले फलसिद्धियिल् निर्भरऩुमाय् निस्संशयऩुमाम्बडिबण्णि
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘मा शुचः’’ ऎऩ्ऱु सॊऩ्ऩाल् 
+</details>
+
+<details><summary>English</summary>
+
+and then **says**,  
+“**Do not grieve**". 
+</details>
+
+<details><summary>Español</summary>
+
+y luego **dice**,  
+“**No te aflijas**".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘मा शुचः’’ ऎऩ्ऱु सॊऩ्ऩाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु उपायान्तर-दौष्कर्यादिगळ् अडिय् आगप् पिऱन्द शोकत्तैक् कऴिक्किऱद् आम् इत्तऩैय् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+So the words should certainly **be understood** as **intended** to **dispel** the **despair**  
+due to such things as the difficulty of **adopting** the (former) upāya.  
+
+(It **is** only this grief  
+that **is** here put an end to  
+and no other).
+
+</details>
+
+<details><summary>Español</summary>
+
+Así que las palabras ciertamente **deben ser entendidas** como **destinadas** a **disipar** la **desesperación**  
+debida a cosas tales como la dificultad de **adoptar** el (anterior) upāya.  
+
+(Es **es** sólo este dolor  
+eso **está** aquí **poner** fin a  
+y ningún otro).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु उपायान्तरदौष्कर्यादिगळडियागप् पिऱन्द शोकत्तैक् कऴिक्किऱदामित्तऩैयिऱे। 
+</details>
+
+### गीता-सङ्गतिः
+#### आत्म-विवेकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब् भगवद्-गीतैयिल्  
+मुऱ्-पड प्रकृत्य्-आत्म-विवेकत्तैय् उण्डाक्किप् 
+</details>
+
+<details><summary>English</summary>
+
+In this Bhagavadgītā, the Gītācārya, at first, **imparts** a **knowledge** of the difference between prakṛti (matter, the body) and the soul or self;  
+</details>
+
+<details><summary>Español</summary>
+
+En este Bhagavadgītā, el Gītācārya, al principio, **imparte** un **conocimiento** de la diferencia entre prakṛti (la materia, el cuerpo) y el alma o yo;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इब् भगवद्गीतैयिल् मुऱ्पड प्रकृत्यात्म विवेकत्तै युण्डाक्किप् 
+</details>
+
+
+### योग-त्रय-बोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिऩ्बु परंपरया मोक्ष-कारणङ्गळ् आऩ कर्म-योग-ज्ञान-योगङ्गळैयुम्  
+
+साक्षान्-मोक्ष-साधनम् आग वेदान्त-विहितम् आऩ भक्ति-योगत्तैयुम् 
+
+स-परिकरम् आग उपदेशित्तु 
+</details>
+
+<details><summary>English</summary>
+
+then He **describes** karma yoga and jñāna yoga  
+which **are** indirect means **leading** to mokṣa;  
+
+thereafter he **teaches** bhakti yoga with its aṅgas,  
+which **has been enjoined** as the direct means of **attaining** mokṣa  
+</details>
+
+<details><summary>Español</summary>
+
+luego Él **describe** karma yoga y jñāna yoga.  
+los cuales **son** medios indirectos **que conducen** a mokṣa;  
+
+a partir de entonces **enseña** bhakti yoga con sus aṅgas,  
+que **ha sido ordenado** como medio directo para **alcanzar** mokṣa
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पिऩ्बु परंपरया मोक्षकारणङ्गळाऩ कर्मयोगज्ञानयोगङ्गळैयुम् साक्षान्मोक्षसाधनमाग वेदान्तविहितमाऩ भक्तियोगत्तैयुम् सपरिकरमाग उपदेशित्तु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘इति ते ज्ञानम् आख्यातं  
+गुह्याद् गुह्यतरम् मया ।  
+विमृश्यैतद् अ-शेषेण  
+यथेच्छसि तथा कुरु’’(गीता १८-६३) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्द वाऱे  
+अर्जनऩ्-उडैय मुखत्तिल् उऱावुद् अलैक् कण्ड् अरुळिय् इरुक्कच् चॆय्दे  
+कडुग लघूपायत्तैय् अरुळिच् चॆय्यादे 
+</details>
+
+
+<details><summary>English</summary>
+
+and **says**:-- 
+
+> "Thus **has been taught** to you the jñāna  
+which **is** the most secret of all secrets.  
+Consider all these  
+and then **do** what you **desire to do**". 
+
+Though He **perceived** the dissatisfaction that **passed** over Arjuna's face at that instant,  
+Śrī Kṛṣṇa **did not** at once **favour** him with **instructions** concerning the easier upāya,  
+</details>
+
+<details><summary>Español</summary>
+
+y **dice**:-- 
+
+> "Así **te ha sido enseñado** el jñāna  
+que **es** el más secreto de todos los secretos.  
+Considere todos estos  
+y luego **haz** lo que **deseas hacer**". 
+
+Aunque **percibió** la insatisfacción que **pasó** por el rostro de Arjuna en ese instante,  
+Śrī Kṛṣṇa **no** lo **favoreció** de inmediato con **instrucciones** relativas al upāya más fácil,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरम्मया । विमृश्यैतदशेषेण यथेच्छसि तथा कुरु’’(गीता १८-६३) ऎऩ्ऱरुळिच्चॆय्दवाऱे अर्जनऩुडैय मुखत्तिलुऱावुदलैक्कण्ड् अरुळियिरुक्कच्चॆय्दे कडुग लघूपायत्तै यरुळिच्चॆय्यादे 
+</details>
+
+
+for it **has been said**: "The Lord of the world tests the minds of those who are weak of heart". Instead of declaring the final conclusion by saying: " This is the direct means of attaining mokṣa and is supremely good to you. Act in accordance with this." - instead of saying so, he says:-"Do whatever you wish to do," as if He were indifferent (and not interested in Arjuna's spiritual welfare) like one who tells a traveller, " This route leads to the land of the Vidarbhas and this other to the land of the Kosalas. (Take whichever you choose)". Śrī Kṛṣṇa makes others think that this is the cause of Arjuna's mental depression and enjoys the līlā of instructing him once again in the principal means of attaining mokṣa  viz., bhakti  yoga. He begins by stating : " I will teach you again this greatest secret of all ", and in two ślokas explains to him, conclusively and with deep earnestness, what it is, so that he may remember that it is just what has already been taught. On seeing that Arjuna's depression has become twice as great as before, the Supreme Ruler, who is (now) the Charioteer, feels that Arjuna is now in a state of fitness to receive instruction in regard to the means of attaining mokṣa (viz. prapatti) which is the supreme secret and is, at the same time, extremely easy of adoption. Without the least delay, even without prefacing that upāya with any praise, the Lord immediately teaches him to perform śaraṇāgati towards Himself. Thus acting as the Charioteer also to the chariot of Arjuna's mind, (i.e. to all his aspirations), the Lord dispels all his griefs. That the grief which is here put an end to is therefore different from the old grief (concerning the destruction of his relatives etc.) thus becomes clear after a careful consideration of the context (in which the words occur).
 
 
 
