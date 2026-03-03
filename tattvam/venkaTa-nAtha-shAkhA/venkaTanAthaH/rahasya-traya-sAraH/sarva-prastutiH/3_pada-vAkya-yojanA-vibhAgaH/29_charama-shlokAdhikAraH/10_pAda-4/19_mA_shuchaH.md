@@ -799,7 +799,7 @@ En este Bhagavadgītā, el Gītācārya, al principio, **imparte** un **conocimi
 </details>
 
 
-### योग-त्रय-बोधः
+#### योग-त्रय-बोधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिऩ्बु परंपरया मोक्ष-कारणङ्गळ् आऩ कर्म-योग-ज्ञान-योगङ्गळैयुम्  
@@ -833,6 +833,7 @@ que **ha sido ordenado** como medio directo para **alcanzar** mokṣa
 पिऩ्बु परंपरया मोक्षकारणङ्गळाऩ कर्मयोगज्ञानयोगङ्गळैयुम् साक्षान्मोक्षसाधनमाग वेदान्तविहितमाऩ भक्तियोगत्तैयुम् सपरिकरमाग उपदेशित्तु 
 </details>
 
+#### ताटस्थ्यतः शोकाभिनयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘इति ते ज्ञानम् आख्यातं  
@@ -878,8 +879,320 @@ Aunque **percibió** la insatisfacción que **pasó** por el rostro de Arjuna en
 ‘‘इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरम्मया । विमृश्यैतदशेषेण यथेच्छसि तथा कुरु’’(गीता १८-६३) ऎऩ्ऱरुळिच्चॆय्दवाऱे अर्जनऩुडैय मुखत्तिलुऱावुदलैक्कण्ड् अरुळियिरुक्कच्चॆय्दे कडुग लघूपायत्तै यरुळिच्चॆय्यादे 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-for it **has been said**: "The Lord of the world tests the minds of those who are weak of heart". Instead of declaring the final conclusion by saying: " This is the direct means of attaining mokṣa and is supremely good to you. Act in accordance with this." - instead of saying so, he says:-"Do whatever you wish to do," as if He were indifferent (and not interested in Arjuna's spiritual welfare) like one who tells a traveller, " This route leads to the land of the Vidarbhas and this other to the land of the Kosalas. (Take whichever you choose)". Śrī Kṛṣṇa makes others think that this is the cause of Arjuna's mental depression and enjoys the līlā of instructing him once again in the principal means of attaining mokṣa  viz., bhakti  yoga. He begins by stating : " I will teach you again this greatest secret of all ", and in two ślokas explains to him, conclusively and with deep earnestness, what it is, so that he may remember that it is just what has already been taught. On seeing that Arjuna's depression has become twice as great as before, the Supreme Ruler, who is (now) the Charioteer, feels that Arjuna is now in a state of fitness to receive instruction in regard to the means of attaining mokṣa (viz. prapatti) which is the supreme secret and is, at the same time, extremely easy of adoption. Without the least delay, even without prefacing that upāya with any praise, the Lord immediately teaches him to perform śaraṇāgati towards Himself. Thus acting as the Charioteer also to the chariot of Arjuna's mind, (i.e. to all his aspirations), the Lord dispels all his griefs. That the grief which is here put an end to is therefore different from the old grief (concerning the destruction of his relatives etc.) thus becomes clear after a careful consideration of the context (in which the words occur).
+> ‘‘परीक्षाञ् च जगन्नाथः  
+करोत्य् अ-दृढ-चेतसाम्।’’  
+(विष्णुधर्मः ७४-८९।) 
+
+ऎऩ्गिऱ कट्टळैयैक् कण्डरुळि
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘परीक्षाञ् च जगन्नाथः  
+करोत्य् अ-दृढ-चेतसाम्।’’  
+(विष्णुधर्मः ७४-८९।) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+for it **has been said**: 
+
+> "The Lord of the world **tests** the minds of those  
+who **are** weak of heart". 
+</details>
+
+<details><summary>Español</summary>
+
+porque **se ha dicho**: 
+
+> "El Señor del mundo **prueba** las mentes de aquellos  
+que **son** débiles de corazón".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘परीक्षाञ्च जगन्नाथः करोत्यदृढचेतसां’’(विष्णुधर्मः ७४-८९।) ऎऩ्गिऱ कट्टळैयैक् कण्डरुळि
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नाम् +++(एव)+++ इऩ्ऩ्-अद्+++(=ईदृक्)+++ उऩक्कु  साक्षान्-मोक्ष-साधनम् आऩ परम-हितम्,  
+इत्तै प्रधानम् आगक् कणिसित्तु  
+इदुक्क् अनुरूपम् आग वर्तिय् 
+
+ऎऩ्ऱु निगमियादे
+</details>
+
+
+<details><summary>English</summary>
+
+Instead of **declaring** the final conclusion by **saying**: 
+
+> " ~~This is~~ We **are** the direct means of **attaining** mokṣa  
+and (this) **is** supremely good to you.  
+**Act** in accordance with this." 
+
+- instead of **saying** so,  
+</details>
+
+<details><summary>Español</summary>
+
+En lugar de **declarar** la conclusión final **diciendo**: 
+
+> " ~~Esto es~~ Nosotros **somos** el medio directo para **alcanzar** mokṣa  
+y (esto) **es** sumamente bueno contigo.  
+**Actúa** de acuerdo con esto." 
+
+- en lugar de **decir** eso,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाम् इऩ्ऩदुऩक्कु साक्षान्मोक्ष साधनमाऩ परमहितम्, इत्तै प्रधानमागक् कणिसित्तु इदुक्कनुरूपमाग वर्तियॆऩ्ऱु निगमियादे
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘एष पन्था विदर्भाणाम्  
+एष यास्यति कोसलान्’’  
+(भारतम् आरण्य-पर्व ५०-४८) 
+> 
+> ऎऩ्ऩुमाप् पोले  
+उपेक्षकत्व-शङ्कै पण्णलाम् बडि  
+> 
+> > ‘‘यथेच्छसि तथा कुरु’’  
+> 
+> ऎऩ्ऱु सॊल्लित् तलैक्-कट्टिऩोम् 
+
+ऎऩ्ऱु 
+</details>
+
+<details><summary>English</summary>
+
+he **says**:-  
+
+> "**Do** whatever you **wish to do**," 
+
+as if He **were** indifferent  
+(and **not interested** in Arjuna's spiritual welfare)  
+
+like one who **tells** a traveller, 
+
+> " This route **leads** to the land of the Vidarbhas  
+and this other to the land of the Kosalas.  
+(**Take** whichever you choose)". 
+</details>
+
+<details><summary>Español</summary>
+
+él **dice**:-  
+
+> "**Haz** lo que **deseas hacer**", 
+
+como **si fuera** indiferente  
+(y **no interesado** en el bienestar espiritual de Arjuna)
+
+como quien le **cuenta** a un **viajero**, 
+
+> " Esta ruta **conduce** a la tierra de los Vidarbhas  
+y este otro a la tierra de los Kosalas.  
+(**Toma** lo que **elijas**)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘एष पन्था विदर्भाणामेष यास्यति कोसलान्’’(भारतम् आरण्य-पर्व ५०-४८) ऎऩ्ऩुमाप्पोले उपेक्षकत्वशङ्कै पण्णलाम्बडि ‘‘यथेच्छसि तथा कुरु’’ ऎऩ्ऱु सॊल्लित् तलैक्कट्टिऩोम् ऎऩ्ऱु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदु व्याजम् आग शोकित्ताऩ् 
+
+ऎऩ्ऱु भावित्तु
+</details>
+
+<details><summary>English</summary>
+
+Śrī Kṛṣṇa **makes** others **think** that  
+this **is** the cause of Arjuna's mental depression  
+</details>
+
+<details><summary>Español</summary>
+
+Śrī Kṛṣṇa **hace** que otros **piensen** que  
+Esta **es** la causa de la depresión mental de Arjuna
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु व्याजमाग शोकित्ताऩ् ऎऩ्ऱु भावित्तु 
+</details>
+
+#### भक्ति-योग-निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इऩ्ऩम् ऒरु निलै प्रधानम् आऩ भक्ति-योगत्तै निष्कर्षित्त् उपदेशित्तुप् पार्प्पोम् 
+
+ऎऩ्ऱु इदॊरु विनोदत्तै गणिसित्त् अरुळिप्
+</details>
+
+<details><summary>English</summary>
+
+and **enjoys** the līlā of **instructing** him once again  
+in the principal means of **attaining** mokṣa  
+</details>
+
+<details><summary>Español</summary>
+
+y **disfruta** el līlā de **instruirlo** una vez más  
+en el medio principal para **alcanzar** mokṣa, es decir, bhakti yoga.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इऩ्ऩमॊरु निलै प्रधानमाऩ भक्तियोगत्तै निष्कर्षित्तुपदेशित्तुप् पार्प्पोमॆऩ्ऱु इदॊरु विनोदत्तै कणिसित्तरुळिप्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पण्ड्+++(=प्राचीन)+++-उपदेशित्त भक्ति-योगन् तऩ्ऩैये  
+‘‘सर्व-गुह्यतमं भूयः’’  
+ऎऩ्ऱु तुडङ्गि 
+</details>
+
+<details><summary>English</summary>
+
+He **begins** (again bhakti-yoga) by **stating** : 
+
+> "**I will teach** you again  
+this greatest secret of all ", 
+</details>
+
+<details><summary>Español</summary>
+
+Él **comienza** (de nuevo bhakti-yoga) **afirmando**: 
+
+> "**Te enseñaré** otra vez  
+este mayor secreto de todos",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पण्डुपदेशित्त भक्तियोगन्दऩ्ऩैये ‘‘सर्वगुह्यतमं भूयः’’ ऎऩ्ऱु तुडङ्गि 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरण्डु श्लोकत्ताले अत्य्-आदरन् तोऱ्ऱ  
+स-प्रत्यभिज्ञम् आम् बडि निष्कर्षित्तु निगमिक्क
+</details>
+
+<details><summary>English</summary>
+
+and in two ślokas **explains** to him, conclusively and with deep earnestness,  
+what it **is**,  
+so that he **may remember** that  
+it **is** just what has already **been taught**. 
+</details>
+
+<details><summary>Español</summary>
+
+y en dos ślokas **le explica**, de manera concluyente y con profunda seriedad,  
+qué **es**,  
+para que **recuerde** que  
+es **es** justo lo que ya **se ha enseñado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इरण्डु श्लोकत्ताले अत्यादरन्दोऱ्ऱ सप्रत्यभिज्ञमाम्बडि निष्कर्षित्तु निगमिक्क
+</details>
+
+#### पुनः शोकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व्-अळविलुम् इवऩ्  
+शोकम् इरट्टित्तुत्+++(=द्विगुणितम्)+++ तोऱ्ऱिऩ बडियैक् कण्ड् अरुळिऩ  
+सारथिरूपऩ् आऩ सर्वेश्वरऩ् 
+</details>
+
+<details><summary>English</summary>
+
+On **seeing** that Arjuna's depression **has become** twice as great as before,  
+the Supreme Ruler, who **is** (now) the Charioteer,  
+</details>
+
+<details><summary>Español</summary>
+
+Al **ver** que la depresión de Arjuna **se ha vuelto** dos veces mayor que antes,  
+el Gobernante Supremo, que **es** (ahora) el Auriga,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्वळविलुमिवऩ् शोकमिरट्टित्तुत् तोऱ्ऱिऩबडियैक् कण्डरुळिऩ सारथिरूपऩाऩ सर्वेश्वरऩ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इऩिय् इवऩ् परम-रहस्यम् आय्  
+अतिलघुव् आऩ मोक्षोपायत्तै उपदेशिक्कैक्कु  
+पूर्ण-पात्रम् आऩाऩ् 
+
+ऎऩ्ऱु तिरुव्-उळ्ळम् बऱ्ऱि 
+</details>
+
+<details><summary>English</summary>
+
+**feels** that Arjuna **is** now in a state of fitness  
+to **receive instruction** in regard to the means of attaining mokṣa (viz. prapatti)  
+which **is** the supreme secret  
+and **is**, at the same time, extremely easy of **adoption**. 
+</details>
+
+<details><summary>Español</summary>
+
+**siente** que Arjuna **está** ahora en buen estado físico  
+**recibir instrucción** con respecto a los medios para **alcanzar** mokṣa (a saber, prapatti)  
+que **es** el secreto supremo  
+y **es**, al mismo tiempo, extremadamente fácil de **adopción**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इऩियिवऩ् परमरहस्यमायतिलघुवाऩ मोक्षोपायत्तै उपदेशिक्कैक्कु पूर्णपात्रमाऩाऩॆऩ्ऱु तिरुवुळ्ळम्बऱ्ऱि 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अरुळिच् चॆय्यप् पुगुगिऱ सीरिय लघूपायत्तुक्कुप् प्रशंसारूपमाग वॊरु कालक्षेपम् पण्णादे 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अरुळिच्चॆय्यप् पुगुगिऱ सीरिय लघूपायत्तुक्कुप् प्रशंसारूपमाग वॊरु कालक्षेपम् पण्णादे 
+</details>
+
+
+
+
+
+Without the least delay, even without prefacing that upāya with any praise, the Lord immediately teaches him to perform śaraṇāgati towards Himself. Thus acting as the Charioteer also to the chariot of Arjuna's mind, (i.e. to all his aspirations), the Lord dispels all his griefs. That the grief which is here put an end to is therefore different from the old grief (concerning the destruction of his relatives etc.) thus becomes clear after a careful consideration of the context (in which the words occur).
 
 
 
