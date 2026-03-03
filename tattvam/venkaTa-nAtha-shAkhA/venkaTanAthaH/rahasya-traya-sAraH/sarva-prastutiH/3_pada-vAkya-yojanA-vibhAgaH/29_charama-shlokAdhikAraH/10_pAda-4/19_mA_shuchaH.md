@@ -1177,10 +1177,23 @@ y **es**, al mismo tiempo, extremadamente fácil de **adopción**.
 इऩियिवऩ् परमरहस्यमायतिलघुवाऩ मोक्षोपायत्तै उपदेशिक्कैक्कु पूर्णपात्रमाऩाऩॆऩ्ऱु तिरुवुळ्ळम्बऱ्ऱि 
 </details>
 
-
+#### शरणागत्य्-उपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अरुळिच् चॆय्यप् पुगुगिऱ सीरिय लघूपायत्तुक्कुप् प्रशंसारूपमाग वॊरु कालक्षेपम् पण्णादे 
+अरुळिच् चॆय्यप् पुगुगिऱ सीरिय लघूपायत्तुक्कुप्  
+प्रशंसा-रूपम् आगव् ऒरु काल-क्षेपम् पण्णादे 
+</details>
+
+<details><summary>English</summary>
+
+Without the least delay,  
+even **without prefacing** that upāya with any **praise**, 
+</details>
+
+<details><summary>Español</summary>
+
+Sin la menor demora,  
+incluso **sin anteponer** ese upāya con ningún **elogio**,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1189,29 +1202,788 @@ y **es**, al mismo tiempo, extremadamente fácil de **adopción**.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कडुग सकल-फल-साधनम् आऩ  
+स्व-विषय-शरणागतियै उपदेशित्तु 
+</details>
+
+<details><summary>English</summary>
+
+the Lord immediately **teaches** him to **perform** śaraṇāgati towards Himself. 
+</details>
+
+<details><summary>Español</summary>
+
+el Señor inmediatamente **le enseña** a **realizar** śaraṇāgati hacia Sí mismo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कडुग सकलफलसाधनमाऩ स्वविषयशरणागतियै उपदेशित्तु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩ्-उडैय मनो-रथत्तुक्कुं सारथिय् आय्  
+सर्व-शोकत्तैयुङ् कऴिक्किऱाऩ् आगैयालेय्
+</details>
+
+<details><summary>English</summary>
+
+Thus **acting** as the **Charioteer** also to the chariot of Arjuna's mind, (i.e. to all his aspirations),  
+the Lord **dispels** all his griefs. 
+</details>
+
+<details><summary>Español</summary>
+
+Así **actuando** como el **Auriga** también para el carro de la mente de Arjuna (es decir, para todas sus aspiraciones),  
+el Señor **disipa** todos sus dolores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुडैय मनोरथत्तुक्कुम् सारथियाय् सर्वशोकत्तैयुङ् गऴिक्किऱाऩागैयालेय्
+</details>
+
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इङ्गु निवारिक्किऱ शोकम्  
+पऴैय शोकङ्गळिल् वेऱु पट्टद् 
+
+ऎऩ्ऩुम् इडम्  
+प्रकरण-परामर्शत्ताले सुव्यक्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+That the grief which **is** here **put an end to**  
+**is** therefore different from the old grief  
+(concerning the **destruction** of his relatives etc.)  
+Thus **becomes clear** after a careful **consideration** of the context (in which the words **occur**).
+</details>
+
+<details><summary>Español</summary>
+
+Que la pena que **hay** aquí **ponga** fin a  
+**es** por lo tanto diferente del antiguo dolor  
+(sobre la **destrucción** de sus familiares, etc.)  
+
+Por lo tanto, **queda claro** después de una **consideración** cuidadosa del contexto (en el que **aparecen** las palabras).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु निवारिक्किऱ शोकम् पऴैय शोकङ्गळिल् वेऱुबट्टदॆऩ्ऩुमिडम् प्रकरणपरामर्शत्ताले सुव्यक्तम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायान्तर-रहितऩ् आऩ्-अवऩैक् कुऱित्तु  
+
+> ‘‘मामेकं शरणं व्रज’’ 
+
+ऎऩ्ऱु विधित्त कट्टळैयिले
+</details>
+
+<details><summary>English</summary>
+
+In the first half of this śloka,  
+since (the Lord) **says** to the man  
+who **is destitute** of all other upāyas, 
+
+> "**Take refuge** under me alone," 
+
+</details>
+
+<details><summary>Español</summary>
+
+En la primera mitad de este śloka,  
+ya que (el Señor) **dice** al hombre  
+quien **está desprovisto** de todos los demás upāyas, 
+
+> "**Refúgiate** solo debajo de mí",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायान्तररहितऩाऩवऩैक् कुऱित्तु ‘‘मामेकं शरणं व्रज’’ ऎऩ्ऱु विधित्त कट्टळैयिले
+</details>
+
+### निगमनम्
+#### कारण-ततिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अशक्तऩ् आऩवऩ् शक्तऩ्-कैयिले भर-समर्पणम् पण्णुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+the man who **is** incapable (of **making** any **endeavour**)  
+**surrenders** the responsibility of his **protection**  
+into the hands of One who **has** the ability. 
+</details>
+
+<details><summary>Español</summary>
+
+el hombre que **es** incapaz (de **hacer** cualquier **esfuerzo**)  
+**entrega** la responsabilidad de su **protección**  
+en manos de Aquel que **tiene** la capacidad.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अशक्तऩाऩवऩ् शक्तऩ् कैयिले भरसमर्पणम् पण्णुगैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-तन्त्र-कारुणिकऩ् आऩ शेषि  
+भर-स्वीकारम् पण्णुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Further the independent and omnipotent śeṣī,  
+who **is** compassionate,  
+**accepts** the **responsibility**.  
+</details>
+
+<details><summary>Español</summary>
+
+Además, el independiente y omnipotente śeṣī,  
+que **es** compasivo,  
+**acepta** la **responsabilidad**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रकारुणिकऩाऩ शेषि भरस्वीकारम् पण्णुगैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रपन्नऩुक्कु इश् श्लोकत्तिल् पूर्वार्धत्तिले निर्भरत्वमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+Therefore (in the first half of the śloka), the prapanna **becomes free** from all **responsibility**  
+in regard to his own protection. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto (en la primera mitad del śloka), el prapanna **se vuelve libre** de toda **responsabilidad**  
+en lo que respecta a su propia protección.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप् प्रपन्नऩुक्कु इश् श्लोकत्तिल् पूर्वार्धत्तिले निर्भरत्वमुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-शक्तिय् आय् स्वीकृत-भरऩ् आय्  
+आश्रित-विषयत्तिल् सत्य-वादिय् आऩ शेषि
+</details>
+
+<details><summary>English</summary>
+
+And since the śeṣī, who **is** omnipotent  
+and **is** ever truthful towards those who **have sought** His **protection**,  
+**has accepted** the **responsibility** 
+</details>
+
+<details><summary>Español</summary>
+
+Y dado que el śeṣī, que **es** omnipotente  
+y **es** siempre veraz hacia aquellos que **han buscado** Su **protección**,  
+**ha aceptado** la **responsabilidad**
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वशक्तियाय् स्वीकृतभरऩाय् आश्रितविषयत्तिल् सत्यवादियाऩ शेषि
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि’’ 
+
+ऎऩ्ऱ् अरुळिच् चॆय्गैयाले 
+</details>
+
+<details><summary>English</summary>
+
+and is so gracious as to **say** - 
+
+> "**I will release** you from all sins", 
+</details>
+
+<details><summary>Español</summary>
+
+y es tan amable como para **decir** - 
+
+> "Yo **te liberaré** de todos los pecados",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्ऱरुळिच् चॆय्गैयाले 
+</details>
+
+#### अभयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न्यस्त-भरऩ् आऩव् इवऩुक्क्  
+इऩि आगामि-नरकादि-प्रत्यवाय -शङ्का-प्रसङ्गम् इल्लामैयाले निर्भयत्वमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+there **is** absolutely no likelihood of any evils like hell **ensuing** in the future. Freedom from fear **results** from this śloka, 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** absolutamente ninguna probabilidad de que **se produzcan** males como el infierno en el futuro.  
+La libertad del miedo **resulta** de este śloka,
+</details>
+
+<details><summary>मूलम्</summary>
+
+न्यस्तभरऩाऩविवऩुक्किऩि आगामिनरकादिप्रत्यवायशङ्काप्रसङ्गमिल्लामैयाले निर्भयत्वमुम्, 
+</details>
+
+#### असंशयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् श्लोकम् सॆम्मैय्+++(=श्री)+++-उडैय तिरुव्-अरङ्गर्  
+ताम् भणित्त मॆय्म्मैप्+++(=सत्य)+++ पॆरु-वार्त्तैय् आगैयाले  
+
+निस्संशयत्वम् फलितम्।
+</details>
+
+<details><summary>English</summary>
+
+as also freedom from all doubt,  
+because these **are** the glorious and true words of Śrī Raṅganātha Himself,  
+who **is** ever truthful.
+
+(NOTE : Here the **reference is** to the words of Sri Ranganatha  
+as **recorded** in Saranagati Gadya :  
+“ Therefore **be free** from all uncertainty about the **attainment** of **knowledge concerning** myself,  
+about **having** a **vision** of myself  
+and also about the **attainment** of myself.")
+</details>
+
+<details><summary>Español</summary>
+
+como también libre de toda duda,  
+porque estas **son** las gloriosas y verdaderas palabras del propio Śrī Raṅganātha,  
+quien **es** siempre veraz.
+
+(NOTA: Aquí la **referencia es** a las palabras de Sri Ranganatha  
+como **registrado** en Saranagati Gadya:  
+“Por lo tanto, **sé libre** de toda incertidumbre sobre el **alcance** del **conocimiento** que me **concierne**,  
+sobre **tener** una **visión** de mí mismo  
+y también sobre el **logro** de mí mismo.")
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इश् श्लोकम् सॆम्मैयुडैय तिरुवरङ्गर् ताम् पणित्त मॆय्म्मैप् पॆरुवार्त्तैयागैयाले निस्संशयत्वम् फलितम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इङ्गु उपाय-विशेष-श्रवणानुष्ठानङ्गळ् वन्दाल्  
+उपायानुबन्धिय् आयुम् वरुम् शोकत्तिल् प्राप्तिय् इल्लैय् ऎऩ्गिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, if one **has been told** about this special upāya  
+and if one **adopts** it,  
+one **will have no** grief or despair, at all, in connection with that upāya.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, si a uno **le han dicho** acerca de este upāya especial  
+y si uno lo **adopta**,  
+uno **no tendrá** dolor o desesperación, en absoluto, en relación con ese upāya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयालिङ्गु उपाय विशेषश्रवणानुष्ठानङ्गळ् वन्दाल् उपायानुबन्धियायुम् वरुम् शोकत्तिल् प्राप्तियिल्लै यॆऩ्गिऱदु।
+</details>
+
+## मा भैषीश्च
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत्ताले "शोक-विशेषाविष्टऩ् प्रपत्तिक्क् अधिकारिय्" ऎऩ्ऱु तोऱ्ऱानिऱ्क
+</details>
+
+<details><summary>English</summary>
+
+Here it **may be asked** :-- 
+
+> From the words **“Do not grieve"**,  
+it **is** evident that grief ( at one's being without upāyas) **makes** one competent for prapatti;  
+
+</details>
+
+<details><summary>Español</summary>
+
+Aquí **se puede preguntar** :-- 
+
+> De las palabras **“No te aflijas"**,  
+**es** evidente que el dolor (por el hecho de estar sin upāyas) **lo hace** competente para prapatti;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताले शोकविशेषाविष्टऩ् प्रपत्तिक्कधिकारि यॆऩ्ऱु तोऱ्ऱानिऱ्क
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘अहं भीतोऽस्मि’’(जितन्ता-स्तोत्रम् १-८) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> as shown in the following śloka :-
+> 
+> > "**I dread**, O, best of gods,  
+at the sight of this saṁsāra which **fills me** with fear.  
+**Save me**, O Lord of the lotus eyes.  
+**I know** of no other upāya than Thee ", 
+</details>
+
+<details><summary>Español</summary>
+
+> como se muestra en el siguiente śloka: -
+> 
+> > "**Me temo**, oh, el mejor de los dioses,  
+ante la vista de este saṁsāra que **me llena** de miedo.  
+**Sálvame**, oh Señor de los ojos de loto.  
+**No conozco** ningún otro upāya que Tú ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अहं भीतोऽस्मि’’(जितन्ता-स्तोत्रम् १-८) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ’’पावी! "तऴुव्"+++(=आलिङ्गस्व [ज्वलत्-स्तम्भं])+++ ऎऩ मॊऴिवदऱ्क्+++(=वचनाय)+++ अञ्जि  
+नम्बऩे+++(=विश्वस्त)+++! वन्द् उऩ्-तिरुव्-अडिय् अडैन्देऩ्+++(=शरणं गतः)+++’’  
+(तिरु-मॊऴि १-६-४)  
+> 
+> ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+> and in the Tamil verse:-
+> 
+> > “ **Embrace** this red-hot iron pillar, O, sinner"; 
+> in dread at these words,  
+**I have come** and **sought** Thy feet for **protection**.” 
+</details>
+
+<details><summary>Español</summary>
+
+> y en el verso tamil:-
+> 
+> > “ **Abraza** este pilar de hierro candente, oh pecador"; 
+> aterrorizado ante estas palabras,  
+**He venido** y **busqué** Tus pies para **protección**”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’पावी तऴुवॆऩ मॊऴिवदऱ्कञ्जि नम्बऩे वन्दुऩ् तिरुवडिय टैन्देऩ्’’(तिरुमॊऴि १-६-४)  ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> भीतऩ् आऩवऩ् प्रपत्तिक्क् अधिकारिय् 
+>
+> ऎऩ्ऱुञ् जॊल्लुगिऱ बडिय् ऎऩ्ऩ् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+> how then **could it be stated** that  
+fear **is** also one of the marks of competency for prapatti?  
+
+To this **question** the **answer is** as **follows**:- 
+</details>
+
+<details><summary>Español</summary>
+
+> ¿Cómo entonces **podría afirmarse** que  
+¿El miedo **es** también una de las marcas de competencia de prapatti?  
+
+A esta **pregunta** la **respuesta es** la **siguiente**:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भीतऩाऩवऩ् प्रपत्तिक्कधिकारि यॆऩ्ऱुञ् जॊल्लुगिऱबडि यॆऩ्ऩॆऩ्ऩिल्; 
+</details>
+
+### समाधानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कीऴ्-अभिमतम् सिद्धियादे निऩ्ऱ निलैयैप् पार्त्तु शोकमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+**Having realised** that the end **desired** by him  
+**has not been** so far **attained**,  
+the man **grieves**; 
+</details>
+
+<details><summary>Español</summary>
+
+**Habiendo comprendido** que el fin **deseado** por él  
+**no se ha alcanzado** hasta el momento,  
+el hombre **se entristece**;
+</details>
+
+<details><summary>मूलम्</summary>
+
+कीऴभिमतम् सिद्धियादे निऩ्ऱ निलैयैप् पार्त्तु शोकमुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मेल् अभिमतत्तुक्कुप् प्रतिबन्धकङ्गळ् आऩ प्रबल-विरोधिगळैप् पार्त्तु भयमुम्
+</details>
+
+<details><summary>English</summary>
+
+he **is** also afraid at the prospect, in future, of formidable obstacles to the end **desired** by him. 
+</details>
+
+<details><summary>Español</summary>
+
+**tiene** también miedo ante la perspectiva, en el futuro, de obstáculos formidables para el fin **deseado** por él.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मेल् अभिमतत्तुक्कुप् प्रतिबन्धकङ्गळाऩ प्रबलविरोधिकळैप् पार्त्तु भयमुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… नडैय्-आडुगिऱद् आगैयाले  
+
+मुमुक्षुवुक्क् अनिष्ट-निवृत्तियिलुम् इष्ट-प्राप्तियिलुम्  
+ऒऩ्ऱैच् चॊल्लव् इरण्डुम् वरुमाप् पोले  
+
+अधिकारत्तिलुम् भय-शोकङ्गळिल् ऒऩ्ऱैच् चॊल्लव्  
+इरण्डुम् सिद्धिक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore ( he **has** both grief and fear).  
+
+In the case of the aspirant to mukti, when either of the two viz., the **annulment** of what **is** undesirable  
+and the **attainment** of what **is** desired **is mentioned**,  
+the other also comes (to the mind).  
+
+In the same way, when either of the two marks of competency for prapatti, viz., grief and fear, **is mentioned**, the other **is** also taken for granted. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto (él **tiene** pena y miedo).  
+
+En el caso del aspirante a mukti, cuando cualquiera de los dos es decir, la **anulación** de lo que **es** indeseable  
+y **se menciona** la **consecución** de lo **deseado**,  
+el otro también **viene** (a la mente).  
+
+De la misma manera, cuando **se menciona** cualquiera de las dos marcas de competencia para prapatti, es decir, dolor y miedo,  
+la otra **también se da** por sentada.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नडैयाडुगिऱदागैयाले मुमुक्षुवुक्कनिष्टनिवृत्तियिलुम् इष्टप्राप्तियिलुम् ऒऩ्ऱैच् चॊल्लविरण्डुम् वरुमाप्पोले अधिकारत्तिलुम् भयशोकङ्गळिलॊऩ्ऱैच् चॊल्ल विरण्डुम् सिद्धिक्कुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्यन्ताकिञ्चनऩुक्कु इब् भयशोकङ्गळ् इरण्डुम् विञ्जिय्+++(=वृद्ध्वा)+++ इरुक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+In the man who **is** absolutely without upāyas  
+(and **is** therefore fit for **performing** prapatti),  
+these two, grief and fear, **are** excessive. 
+</details>
+
+<details><summary>Español</summary>
+
+En el hombre que **está** absolutamente sin upāyas  
+(y **es** por lo tanto apto para **realizar** prapatti),  
+estos dos, el dolor y el miedo, **son** excesivos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्यन्ताकिञ्चनऩुक्कु इब् भयशोकङ्गळिरण्डुम् विञ्जियिरुक्कुम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इङ्ग् अतिशयित-शोकाविष्टऩ् आऩ अधिकारि-विशेषत्तुक्क् अनुगुणम् आऩ  
+उपाय-विशेषत्तैक् काट्टि 
+</details>
+
+<details><summary>English</summary>
+
+Therefore 
+this adhikārī who **is** overwhelmed with excessive grief  
+**is taught** the upāya which **is** appropriate for him,  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto,  
+este adhikārī que **está abrumado** por un dolor excesivo  
+**se enseña** el upāya que **es** apropiado para él,
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इङ्गतिशयितशोकाविष्टऩाऩ अधिकारिविशेषत्तुक् कनुगुणमाऩ उपायविशेषत्तैक्काट्टि 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩै निस्संशयऩुम् आय्, निर्भरऩुम् आय्, निर्भयऩुम् आय्, हृष्ट-मनावुम् आक्कित्  
+तलैक् कट्टुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+and **is** thereby **made free** of all doubt,  
+free from all responsibility (concerning his protection),  
+free from all fear  
+and thus delighted at heart  -  
+by way of **conclusion**. 
+</details>
+
+<details><summary>Español</summary>
+
+y **queda** así **libre** de toda duda,  
+libre de toda responsabilidad (relativa a su protección),  
+libre de todo miedo  
+y así **encantado** en el corazón -  
+a modo de **conclusión**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩै निस्संशयऩुमाय् निर्भरऩुमाय् निर्भयऩुमाय्, हृष्टमनावुमाक्कित् तलैक्कट्टुगिऱदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अतिशयित-भयत्तैप् पऱ्ऱ 
+
+> "अञ्जिऩ नीय् ऎऩ्ऩैय् अडैय्" ऎऩ्ऱार् वन्दार्  
+(तिरुच्चिऩ्ऩमालै ८)  
+
+ऎऩ्ऱुञ् जॊऩ्ऩोम्। 
+</details>
+
+<details><summary>English</summary>
+
+On this extreme fear, we have already **stated** as follows :- 
+
+> " The Lord **has come** -  
+the Lord who **said**: -  
+“ Thou that **art afraid** of saṁsāra,  
+**come** and **seek protection** from me".
+</details>
+
+<details><summary>Español</summary>
+
+Sobre este miedo extremo, ya **hemos declarado** lo siguiente:- 
+
+> "El Señor **ha venido** -  
+el Señor que **dijo**: -  
+“Tú que **tienes miedo** del saṁsāra,  
+**ven** y **busca protección** de mí".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वतिशयितभयत्तैप्पऱ्ऱ ’’अञ्जिऩ नी यॆऩ्ऩै यडैयॆऩ्ऱार् वन्दार्’’(तिरुच्चिऩ्ऩमालै ८)  ऎऩ्ऱुञ् जॊऩ्ऩोम्। 
+</details>
+
+
+## नित्य-कर्मासु हर्षः
+### अनिवार्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि कृत-कृत्यऩ् आऩ इवऩुक्कु 
+
+> ‘‘तत् तु कर्म समाचरेत्’’  
+(लक्ष्मीतन्त्रम् १७) 
+
+ऎऩ्ऱु विहितम् आऩ कर्तव्यान्तरम्  
+
+> कैङ्कर्यानुप्रविष्ट-सद्-आचार-विशेषम् 
+
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>English</summary>
+
+The prapanna who **has done** what he **ought to do** (i.e) prapatti,  
+**should (continue to) perform** the rites and duties  
+(**ordained** for his varṇa and āśrama) (nitya and naimittika),  
+which **are** among the kaiṅkaryas **done** by the virtuous :  
+such karma as **is described** in the following śloka -  
+
+> " **Do** that karma which, when **performed**, **does not yield** any fruit  
+and which, when **omitted**,  
+**will bring** in evil.” 
+</details>
+
+<details><summary>Español</summary>
+
+El prapanna que **ha hecho** lo que **debe hacer** (es decir) prapatti,  
+**debe (continuar) realizando** los ritos y deberes  
+(**ordenado** para su varṇa y āśrama) (nitya y naimittika),  
+que **están** entre los kaiṅkaryas **hechos** por los virtuosos:  
+tal karma como **se describe** en el **siguiente** śloka:  
+
+> " **Haz** ese karma que, cuando **realizado**, **no da** ningún fruto  
+y que, cuando **se omite**,  
+**traerá** el mal”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि कृतकृत्यऩाऩ इवऩुक्कु ‘‘तत्तु कर्म समाचरेत्’’(लक्ष्मीतन्त्रम् १७) ऎऩ्ऱु विहितमाऩ कर्तव्यान्तरम् कैङ्कर्यानुप्रविष्टसदाचारविशेषमॆऩ्ऩुमिडम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(लक्ष्मी-तन्त्रे हि)+++ पूर्वापर-ग्रन्थङ्गळालुम्,  
+इश् श्लोकन्-तऩ्ऩिल्  
+
+> ‘‘अक्रियावद् अनर्थाय’’(लक्ष्मीतन्त्रम् १७) 
+
+ऎऩ्गैयालुम् सिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अक्रियावद् अनर्थाय’’(लक्ष्मीतन्त्रम् १७) 
+</details>
+
+<details><summary>English</summary>
+
+This **is evident** from the passages  
+which **are found** before and after this śloka  
+and also in this very śloka,  
+where it **is said** that the **omission** will **cause** evil. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es evidente** en los pasajes  
+que **se encuentran** antes y después de este śloka  
+y también en este mismo śloka,  
+donde **se dice** que la **omisión causará** mal.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पूर्वापरग्रन्थङ्गळालुम्, इश् श्लोकन्दऩ्ऩिल् ‘‘अक्रियावदनर्थाय’’(लक्ष्मीतन्त्रम् १७) ऎऩ्गैयालुम् सिद्धम्। 
+</details>
+
+### हर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् मेल् फल-सिद्धियिल् संशयम् इल्लामैयालुम्, 
+</details>
+
+<details><summary>English</summary>
+
+Therefore since the prapanna **has no** uncertainty  
+concerning the **attainment** of the desired end,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, dado que prapanna **no tiene** incertidumbre  
+concerniente al **logro** del fin deseado,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् मेल् फलसिद्धियिल् संशयमिल्लामैयालुम्, 
+</details>
 
 
 
-Without the least delay, even without prefacing that upāya with any praise, the Lord immediately teaches him to perform śaraṇāgati towards Himself. Thus acting as the Charioteer also to the chariot of Arjuna's mind, (i.e. to all his aspirations), the Lord dispels all his griefs. That the grief which is here put an end to is therefore different from the old grief (concerning the destruction of his relatives etc.) thus becomes clear after a careful consideration of the context (in which the words occur).
+since he **has nothing** further to **do** for the sake of mokṣa,  
+since what he **has yet to perform is** only the **keeping** of (the Lord's) commands  
+for their own sake, 
 
+and since, if offences **should be committed** (thereafter),  
+they **could easily be atoned** for by **repentance** and the like  
+as pointed out in another chapter --  
+there **is no** reason why he **should not** feel delighted at heart. 
 
-
-In the first half of this śloka, since (the Lord) says to the man who is destitute of all other upāyas, "Take refuge under me alone," the man who is incapable (of making any endeavour) surrenders the responsibility of his protection) into the hands of One who has the ability. Further the independent and omnipotent śeṣī, who is compassionate, accepts the responsibility. Therefore (in the first half of the śloka), the prapanna becomes free from all responsibility in regard to his own protection. And since the śeṣī, who is omnipotent and is ever truthful towards those who have sought His protection, has accepted the responsibility and is so gracious as to say .-"I will release you from all sins", there is absolutely no likelihood of any evils like hell ensuing in the future. Freedom from fear results from this śloka, as also freedom from all doubt, , because these are the glorious and true words of Śrī *[^f6] Raṅganātha Himself, who is ever truthful.
-
-[^f6]::2.
-
-
-
-
-Therefore, if one has been told about this special upāya and if one adopts it, one will have no grief or despair, at all, in connection with that upāya.
-
-
-
-Here it may be asked :-- From the words “Do not grieve", it is evident that grief ( at one's being without upāyas) makes one competent for prapatti; how then could it be stated that fear is also one of the marks of competency for prapatti, as shown in the following śloka :-"I dread, O, best of gods, at the sight of this saṁsāra which fills me with fear, Save me, O Lord of the lotus eyes. I know of no other upāya than Thee ", and in the Tamil verse:-“ Embrace this red-hot iron pillar, O, sinner"; in dread at these words, I have come and sought Thy feet for protection.” To this question the answer is as follows:- Having realised that the end desired by him has not been so far attained, the man grieves; he is also afraid at the prospect, in future, of formidable obstacles to the end desired by him. Therefore ( he has both grief and fear) In the case of the aspirant to mukti, when either of the two viz., the annulment of what is undesirable and the attainment of what is desired is mentioned, the other also comes (to the mind). In the same way when either of the two marks of competency for prapatti, viz., grief and fear, is mentioned, the other is also taken for granted. In the man who is absolutely without upāyas (and is therefore fit for performing prapatti), these two, grief and fear, are excessive. Therefore by way of conclusion, this adhikārī who is overwhelmed with excessive grief is taught the upāya which is appropriate for him, and is thereby made free of all doubt, free from all responsibility (concerning his protection), free from all fear and thus delighted at heart. On this extreme fear, we have already stated as follows :- " The Lord has ???? - the Lord who said: - “ Thou that art afraid of saṁsāra, come and seek protection from me".
-
-
-
-The prapanna who has done what he ought to do (i.e) prapatti, should (continue to) perform the rites and duties (ordained for his varṇa and āśrama) (nitya and naimittika), which are among the kaiṅkaryas done by the virtuous : such karma  as is described in the following śloka - " Do that karma which, when performed, does not yield any fruit and which, when omitted, will bring in evil.” This is evident from the passages which are found before and after this śloka and also in this very śloka, where it is said that the omission will cause evil. Therefore since the prapanna has no uncertainty concerning the attainment of the desired end, since he has nothing further to do for the sake of mokṣa, since what he has yet to perform is only the keeping of (the Lord's) commands for their own sake, and since, if offences should be committed (thereafter), they could easily be atoned for by repentance and the like as pointed out in another chapter -- there is no reason why he should not feel delighted at heart. Though this delight is mingled with disgust (nirveda) in the intelligent (prapanna) who is still connected with such unwholesome things as the body, yet the two may exist without any inconsistency as the disgust and the delight are due to different factors respectively.
+Though this delight is mingled with disgust (nirveda) in the intelligent (prapanna) who is still connected with such unwholesome things as the body, yet the two may exist without any inconsistency as the disgust and the delight are due to different factors respectively.
 
 
 

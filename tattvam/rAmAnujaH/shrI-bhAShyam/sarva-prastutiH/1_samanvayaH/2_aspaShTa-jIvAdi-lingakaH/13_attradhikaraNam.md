@@ -316,7 +316,7 @@ and hence such enjoyment--meaning general reabsorption--can belong to the highes
 
 <details><summary>English</summary>
 
-10. And on account of the context.
+10. And on account of the topic of the whole section.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -335,7 +335,7 @@ and hence such enjoyment--meaning general reabsorption--can belong to the highes
 
 <details><summary>English</summary>
 
-And this context refers to the highest Brahman only—'The wise who knows the Self as great and polyvalent, does not grieve' (Ka. Up. I, 2, 22); 
+Moreover the highest Brahman constitutes the topic of the entire section. Cp. 'The wise who knows the Self as great and omnipresent does not grieve' (Ka. Up. I, 2, 22);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -356,7 +356,7 @@ And this context refers to the highest Brahman only—'The wise who knows the Se
 
 <details><summary>English</summary>
 
-'This Self cannot be gained by speech, nor by understanding, nor by much learning.He whom the Self chooses, by him the Self can be gained, and to him the Self reveals its own form' (I, 2, 23).
+'That Self cannot be gained by the Veda, nor by understanding, nor by much learning. He whom the Self chooses, by him the Self can be gained; the Self chooses him as his own' (I, 2, 23).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -374,7 +374,7 @@ And this context refers to the highest Brahman only—'The wise who knows the Se
 
 <details><summary>English</summary>
 
-The passage 'Who then knows where he is' (I, 2, 25) refers back to the same difficulty of knowing the Self, previously mentioned, which can only be overcome by His grace.
+Moreover, the clause (forming part of the text under discussion), 'Who knows him (i.e. the being which constitutes the topic of the section) where he is?' clearly shows that we have to recognise here the Self of which it had previously been said that it is hard to know unless it assists us with its grace.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -395,7 +395,9 @@ The passage 'Who then knows where he is' (I, 2, 25) refers back to the same diff
 
 <details><summary>English</summary>
 
-But, a new objection may be raised, the person suggested by the food consisting of Brahmans and Kshattriyas is not the highest Self who is free from all evil; for the following text—
+To this conclusion a new objection presents itself.--
+
+> Further on in the same Upanishad (I, 3, 1) we meet with the following text:
 </details>
 
 <details><summary>मूलम्</summary>
@@ -415,11 +417,7 @@ But, a new objection may be raised, the person suggested by the food consisting 
 
 <details><summary>English</summary>
 
-> 'There are the two drinking their reward in the world of their own works, entered into the cave, dwelling on the highest summit —  
-those who know Brahman call them shadow and light,  
-> as also those who perform the five fire-sacrifices and those who have three times performed the Nachiketa sacrifice' (Ka. Up. I, 3, 1)—
-
-mentions the enjoyer of the fruit of works together with a second.
+> 'There are two, drinking their reward in the world of their own works, entered into the cave, dwelling on the highest summit; those who know Brahman call them shade and light, likewise those householders who perform the Triṇāciketa-sacrifice.' Now this text clearly refers to the individual soul which enjoys the reward of its works, together with an associate coupled to it.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -429,12 +427,12 @@ mentions the enjoyer of the fruit of works together with a second.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वितीयः च प्राणः बुद्धिः वा स्यात् ।
+> द्वितीयः च प्राणः बुद्धिः वा स्यात् ।
 </details>
 
 <details><summary>English</summary>
 
-And that second is either the breath or the intellect.
+> And this associate is either the vital breath, or the organ of knowledge (buddhi).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -444,12 +442,14 @@ And that second is either the breath or the intellect.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋतपानं हि कर्मफलभोग एव ; स च परमात्मनो न सम्भवति ; बुद्धि-प्राणयोः तु भोक्तुः जीवस्य उपकरणभूतयोः यथा कथञ्चित् पाने अन्वयः सम्भवति इति तयोः अन्यतरेण सद्वितीयः जीव एव प्रतिपाद्यते , तदेकप्रकरणत्वात् पूर्वप्रस्तुतः अत्ता अपि स एव भवितुम् अर्हाति – इति ।
+> ऋतपानं हि कर्मफलभोग एव ; स च परमात्मनो न सम्भवति ; बुद्धि-प्राणयोः तु भोक्तुः जीवस्य उपकरणभूतयोः यथा कथञ्चित् पाने अन्वयः सम्भवति इति तयोः अन्यतरेण सद्वितीयः जीव एव प्रतिपाद्यते , तदेकप्रकरणत्वात् पूर्वप्रस्तुतः अत्ता अपि स एव भवितुम् अर्हाति 
+
+– इति ।
 </details>
 
 <details><summary>English</summary>
 
-Drinking 'rita' (the truth) is the enjoyment of the fruit of works; this is not possible for the highest Self. For the intellect and breath, however, which are instruments of the enjoying soul, the term 'drinking' may be used in a metaphorical sense. Thus the soul is here described in association with one of these two; and as the context is the same, the 'eater' mentioned before must also be the individual soul.
+> For the drinking of 'r̥ta' is the enjoyment of the fruit of works, and such enjoyment does not suit the highest Self. The buddhi, or the vital breath, on the other hand, which are instruments of the enjoying embodied soul, may somehow be brought into connexion with the enjoyment of the fruit of works. As the text is thus seen to refer to the embodied soul coupled with some associate, we infer, on the ground of the two texts belonging to one section, that also the 'eater' described in the former text is none other than the individual soul.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -482,8 +482,7 @@ To this we reply:
 
 <details><summary>English</summary>
 
-> 11\. The two entered into the cave are the two Selves,  
-> because this is seen.
+11\. The 'two entered into the cave' are the two Selfs; on account of this being seen.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -500,7 +499,7 @@ To this we reply:
 
 <details><summary>English</summary>
 
-It is not breath and the soul, or intellect and the soul, that are said to have entered into the cave and to drink rita; but rather the individual Self and the highest Self.
+The two, entered into the cave and drinking their reward, are neither the embodied soul together with the vital breath, nor the embodied soul together with the buddhi; it is rather the embodied Self and the highest Self which are designated by those terms.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -516,7 +515,7 @@ It is not breath and the soul, or intellect and the soul, that are said to have 
 
 <details><summary>English</summary>
 
-Why? Because this is seen. In this same context, the entry into the cave is attributed to both the individual and the highest Selves.
+For this is seen, i.e. it is seen that in that section the individual Self and the highest Self only are spoken of as entered into the cave.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -539,7 +538,7 @@ Why? Because this is seen. In this same context, the entry into the cave is attr
 
 <details><summary>English</summary>
 
-Of the highest Self it is said: 'The wise who by means of meditation on his Self recognizes the Ancient who is difficult to be seen, who has entered into the dark, who is hidden in the cave, who dwells in the abyss, as God, he leaves joy and sorrow far behind' (Ka. Up. I, 2, 12).
+To the highest Self there refers I, 2, 12, 'The wise who by meditation on his Self recognises the Ancient who is difficult to see, who has entered into the dark, who is hidden in the cave, who dwells in the abyss, as God, he indeed leaves joy and sorrow far behind.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -561,7 +560,7 @@ Of the highest Self it is said: 'The wise who by means of meditation on his Self
 
 <details><summary>English</summary>
 
-And of the individual Self: 'She who is Aditi, the mother of the gods, who arises with breath, who having entered into the cave abides there, who was born together with the elements' (II, 4, 7).
+And to the individual soul there refers I, 4, 7, 'Who is together with the vital breath, who is Aditi, who is made of the deities, who entering into the cave abides therein, who was born variously through the elements.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -576,7 +575,7 @@ And of the individual Self: 'She who is Aditi, the mother of the gods, who arise
 
 <details><summary>English</summary>
 
-The soul is called 'Aditi' because it eats (ad) the fruits of works.
+Aditi here means the individual soul which enjoys (atti) the fruits of its works;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -591,7 +590,7 @@ The soul is called 'Aditi' because it eats (ad) the fruits of works.
 
 <details><summary>English</summary>
 
-'Arises with breath' means that it exists together with breath.
+which is associated with the vital breath;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -606,7 +605,7 @@ The soul is called 'Aditi' because it eats (ad) the fruits of works.
 
 <details><summary>English</summary>
 
-'Mother of the gods' means that its enjoyments are dependent on the sense-organs (devas).
+which is made of the deities, i.e. whose enjoyment is dependent on the different sense-organs;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -621,7 +620,7 @@ The soul is called 'Aditi' because it eats (ad) the fruits of works.
 
 <details><summary>English</summary>
 
-'Entered into the cave' means abiding in the interior of the heart-lotus.
+which abides in the hollow of the heart;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -639,7 +638,7 @@ The soul is called 'Aditi' because it eats (ad) the fruits of works.
 
 <details><summary>English</summary>
 
-'Born together with the elements' means that it is produced in various forms, such as gods and so on, together with the elements like earth, etc.
+and which, being connected with the elementary substances, earth, and so on, is born in various forms--human, divine, &c.--
 </details>
 
 <details><summary>मूलम्</summary>
@@ -657,7 +656,7 @@ The soul is called 'Aditi' because it eats (ad) the fruits of works.
 
 <details><summary>English</summary>
 
-This being so, the expression 'the two drinking rita' is to be understood like the phrase 'the men with umbrellas are walking' (where only some have umbrellas).
+That the text speaks of the two Selfs as drinking their reward (while actually the individual soul only does so) is to be understood in the same way as the phrase 'there go the umbrella-bearers' (one of whom only carries the umbrella).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -673,7 +672,7 @@ This being so, the expression 'the two drinking rita' is to be understood like t
 
 <details><summary>English</summary>
 
-Or else, the agency in drinking can be attributed to both the individual and the highest Self in the sense of the one being the actual drinker and the other being the cause of his drinking.
+Or else we may account for this on the ground that both are agents with regard to the drinking, in so far as the 'drinking' individual soul is caused to drink by the highest Self.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -707,7 +706,7 @@ Or else, the agency in drinking can be attributed to both the individual and the
 
 <details><summary>English</summary>
 
-In this whole section, the individual soul and the highest Self are everywhere distinguished by specific qualities, as being respectively the meditator and the object of meditation, the attainer and the object attained.
+Everywhere in that section we meet with statements of distinctive attributes of the two Selfs, the highest Self being represented as the object of meditation and attainment, and the individual Self as the meditating and attaining subject.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -727,7 +726,7 @@ In this whole section, the individual soul and the highest Self are everywhere d
 
 <details><summary>English</summary>
 
-Thus: 'Having known and recognized that adorable god who is born of Brahman (brahma-ja-jña), he goes to this eternal peace' (Ka. Up. I, 1, 17).
+The passage 'When he has known and understood that which is born from Brahman, the intelligent, to be divine and venerable, then he obtains everlasting peace' (I, 1, 17) refers to the meditating individual soul which recognises itself as being of the nature of Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -784,7 +783,7 @@ Thus: 'Having known and recognized that adorable god who is born of Brahman (bra
 
 <details><summary>English</summary>
 
-Further: 'We are able to master the Nachiketa fire, which is the bridge for sacrificers, and also the highest imperishable Brahman, the shore of safety for those who wish to cross' (I, 3, 2). Here the highest Brahman is mentioned as the object of meditation.
+On the other hand, I, 3, 2, 'That which is a bridge for sacrificers. the highest imperishable Brahman for those who wish to cross over to the fearless shore, the Nāciketa, may we be able to know that,' refers to the highest Self as the object of meditation;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -799,7 +798,7 @@ Further: 'We are able to master the Nachiketa fire, which is the bridge for sacr
 
 <details><summary>English</summary>
 
-'Nachiketam' means that which is to be attained by the Nachiketa rite.
+'Nāciketa' here meaning that which is to be reached through the Nāciketa-rite.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -817,7 +816,7 @@ Further: 'We are able to master the Nachiketa fire, which is the bridge for sacr
 
 <details><summary>English</summary>
 
-By 'Know the Self to be the rider and the body the chariot' (I, 3, 3) and so on, the individual soul is spoken of as the meditator.
+Again, the passage 'Know the Self to be sitting in the chariot and the body to be the chariot' (I, 3, 3) refers to the meditating individual soul;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -840,12 +839,12 @@ By 'Know the Self to be the rider and the body the chariot' (I, 3, 3) and so on,
 
 <details><summary>English</summary>
 
-And in 'He reaches the end of his journey, and that is the highest place of Vishṇu' (I, 3, 9), the attainer and the object attained are declared to be the individual and the highest Selves.
+and the verse, I, 3, 9, 'But he who has understanding for his charioteer, and holds the reins of the mind, he reaches the end of his journey, and that is the highest place of Vishṇu.' refers to the embodied and the highest Selfs as that which attains and that which is to be attained.
 </details>
 
 <details><summary>मूलम्</summary>
 
-तथा विज्ञानसारथिर्यस्तु मनःप्रग्रहवान्नरः। सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् (कठ.१.३.९) इति प्राप्यप्राप्तारावभिधीयेते जीवपरमात्मानौ।
+तथा विज्ञानसारथिर्यस्तु मनःप्रग्रहवाननरः। सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् (कठ.१.३.९) इति प्राप्यप्राप्तारावभिधीयेते जीवपरमात्मानौ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -855,7 +854,7 @@ And in 'He reaches the end of his journey, and that is the highest place of Vish
 
 <details><summary>English</summary>
 
-Similarly, in the passage under discussion, the two are distinguished as 'shadow and light,' representing ignorance and omniscience respectively.
+And in the text under discussion also (I, 3, 1), the two Selfs are distinctly designated as light and shade, the one being all-knowing, the other devoid of knowledge.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -884,7 +883,7 @@ Similarly, in the passage under discussion, the two are distinguished as 'shadow
 
 <details><summary>English</summary>
 
-But, it may be argued, the whole of this section must be about the individual soul, because it begins with a question about the real nature of the soul: 'There is this doubt when a man is dead—some say he is, others say he is not' (Ka. Up. I, 1, 20).
+But, a new objection is raised, the initial passage, I, 1, 20, 'That doubt which there is when a man is dead--some saying, he is; others, he is not,' clearly asks a question as to the true nature of the individual soul, and we hence conclude that that soul forms the topic of the whole chapter.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -904,7 +903,7 @@ But, it may be argued, the whole of this section must be about the individual so
 
 <details><summary>English</summary>
 
-This is not so. The question does not concern the existence or non-existence of the soul as something distinct from the body; for if that were the case, the first two boons chosen by Nachiketas would be inconsistent.
+--Not so, we reply. That question does not spring from any doubt as to the existence or non-existence of the soul apart from the body; for if this were so the two first boons chosen by Nāciketas would be unsuitable.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -935,7 +934,7 @@ This is not so. The question does not concern the existence or non-existence of 
 
 <details><summary>English</summary>
 
-[Detailed explanation of the first boon... indicating Nachiketas already knows the soul exists apart from the body].
+For the story runs as follows: When the sacrifice offered by the father of Nāciketas... Yama on his return... allows him to choose three boons. Nāciketas, thereupon... chooses as his first boon that his father should forgive him. Now it is clear that conduct of this kind would not be possible in the case of one not convinced of the soul having an existence independent of the body.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -952,7 +951,7 @@ This is not so. The question does not concern the existence or non-existence of 
 
 <details><summary>English</summary>
 
-By the second boon he chose the knowledge of the fire-sacrifice, which leads to results to be enjoyed after the soul has left the body; this also would be impossible for one who did not know the soul to be distinct from the body.
+For his second boon, again, he chooses the knowledge of a sacrificial fire, which has a result to be experienced only by a soul that has departed from the body; and this choice also can clearly be made only by one who knows that the soul is something different from the body.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -976,7 +975,7 @@ By the second boon he chose the knowledge of the fire-sacrifice, which leads to 
 
 <details><summary>English</summary>
 
-Therefore, the third boon refers to the true nature of the liberation (Moksha) which consists in attaining Brahman, and the knowledge of the higher and lower Selves as the means to that end.
+When, therefore, he chooses for his third boon the clearing up of his doubt as to the existence of the soul after death (as stated in v. 20), it is evident that his question is prompted by the desire to acquire knowledge of the true nature of the highest Self--which knowledge has the form of meditation on the highest Self--, and by means thereof, knowledge of the true nature of final Release which consists in obtaining the highest Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -993,7 +992,7 @@ Therefore, the third boon refers to the true nature of the liberation (Moksha) w
 
 <details><summary>English</summary>
 
-Thus 'when a man is dead' (prete) does not mean mere separation from the body, but complete release from all bondage.
+The passage, therefore, is not concerned merely with the problem as to the separation of the soul from the body, but rather with the problem of the Self freeing itself from all bondage whatever.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1003,12 +1002,12 @@ Thus 'when a man is dead' (prete) does not mean mere separation from the body, b
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा - न प्रेत्य संज्ञाऽस्ति (बृ.४.४.१२) इति ।
+यथा - न +++(मोक्षं)+++ प्रेत्य संज्ञाऽस्ति (बृ.४.४.१२) इति ।
 </details>
 
 <details><summary>English</summary>
 
-Just as in the passage: 'There is no consciousness after departure (pretya)' (Bri. Up. IV, 4, 12).
+--the same problem, in fact, with which another scriptural passage also is concerned, viz. 'When he has departed there is no more knowledge' (Br̥. Up. II, 4, 12).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1032,7 +1031,7 @@ Just as in the passage: 'There is no consciousness after departure (pretya)' (Br
 
 <details><summary>English</summary>
 
-The meaning is: regarding a man who is liberated (prete) from all bonds, there is this doubt based on conflicting views—some say he exists (in a specific state), others say he does not. To remove this doubt, I wish to be taught by you the true nature of that state.
+The full purport of Nāciketas' question, therefore, is as follows: When a man qualified for Release has died and thus freed himself from all bondage, there arises a doubt as to his existence or non-existence--a doubt due to the disagreement of philosophers as to the true nature of Release; in order to clear up this doubt I wish to learn from thee the true nature of the state of Release.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1047,6 +1046,11 @@ The meaning is: regarding a man who is liberated (prete) from all bonds, there i
 तथा हि बहुधा विप्रतिपद्यन्ते – 
 </details>
 
+<details><summary>English</summary>
+
+Philosophers, indeed, hold many widely differing opinions as to what constitutes Release.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा हि बहुधा विप्रतिपद्यन्ते – 
@@ -1057,6 +1061,11 @@ The meaning is: regarding a man who is liberated (prete) from all bonds, there i
 १. केचिद् वित्ति-मात्रस्य आत्मनः स्वरूपोच्छित्ति-लक्षणं मोक्षम् आचक्षते । 
 </details>
 
+<details><summary>English</summary>
+
+1. Some hold that the Self is constituted by consciousness only, and that Release consists in the total destruction of this essential nature of the Self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 १. केचिद् वित्ति-मात्रस्य आत्मनः स्वरूपोच्छित्ति-लक्षणं मोक्षम् आचक्षते । 
@@ -1065,6 +1074,11 @@ The meaning is: regarding a man who is liberated (prete) from all bonds, there i
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 २. अन्ये वित्ति-मात्रस्य एव सतो ऽविद्या-ऽस्तमयम् । 
+</details>
+
+<details><summary>English</summary>
+
+2. Others, while holding the same opinion as to the nature of the Self, define Release as the passing away of Nescience (avidyā).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1076,6 +1090,11 @@ The meaning is: regarding a man who is liberated (prete) from all bonds, there i
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 3. अपरे – पाषाणकल्पस्याऽत्मनो ज्ञानाद्य्-अशेष-वैशेषिक-गुणोच्छेद-लक्षणं कैवल्यरूपम्। 
+</details>
+
+<details><summary>English</summary>
+
+3. Others hold that the Self is in itself non-sentient, like a stone, but possesses, in the state of bondage, certain distinctive qualities, such as knowledge, and so on. Release then consists in the total removal of all these qualities, the Self remaining in a state of pure isolation (kaivalya).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1090,6 +1109,11 @@ The meaning is: regarding a man who is liberated (prete) from all bonds, there i
 तस्यैवोपाधि-संसर्ग-निमित्त- जीव-भावस्य  
 उपाध्य्-अपगमेन  
 तद्-भाव-लक्षणं मोक्षम् आतिष्ठन्ते।
+</details>
+
+<details><summary>English</summary>
+
+4. Others, again, who acknowledge a highest Self free from all imperfection, maintain that through connexion with limiting adjuncts that Self enters on the condition of an individual soul; Release then means the pure existence of the highest Self, consequent on the passing away of the limiting adjuncts.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1119,7 +1143,7 @@ The meaning is: regarding a man who is liberated (prete) from all bonds, there i
 
 <details><summary>English</summary>
 
-5. But those well-versed in the Upanishads (Vedantins) maintain that Moksha is the manifestation of the soul's natural state—which is infinite, blissful knowledge and the experience of the highest Brahman—after the destruction of the ignorance in the form of beginningless Karma.
+5. Those, however, who understand the Vedānta, teach as follows: There is a highest Brahman which is the sole cause of the entire universe, which is antagonistic to all evil, whose essential nature is infinite knowledge and blessedness, which comprises within itself numberless auspicious qualities of supreme excellence, which is different in nature from all other beings, and which constitutes the inner Self of all. Of this Brahman, the individual souls--whose true nature is unlimited knowledge, and whose only essential attribute is the intuition of the supreme Self--are modes, in so far, namely, as they constitute its body. The true nature of these souls is, however, obscured by Nescience, i.e. the influence of the beginningless chain of works; and by Release then we have to understand that intuition of the highest Self, which is the natural state of the individual souls, and which follows on the destruction of Nescience.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1156,7 +1180,7 @@ The meaning is: regarding a man who is liberated (prete) from all bonds, there i
 
 <details><summary>English</summary>
 
-Therefore, when Nachiketas asks to know the nature of Moksha and its means, Yama first tests his fitness and then teaches him the knowledge of the higher and lower Selves and the meditation on Brahman, ending with 'He reaches the end of his journey, that is the highest place of Vishṇu.' Thus all is consistent.
+When Nāciketas desires Yama graciously to teach him the true nature of Release and the means to attain it, Yama at first tests him by dwelling on the difficulty of comprehending Release, and by tempting him with various worldly enjoyments. But having in this way recognised the boy's thorough fitness, he in the end instructs him as to the kind of meditation on the highest Self which constitutes knowledge of the highest Reality, as to the nature of Release--which consists in reaching the abode of the highest Self--, and as to all the required details. This instruction begins, I, 2, 12, 'The Ancient one who is difficult to see,' &c., and extends up to I, 3, 9. 'and that is the highest place of Vishṇu.'--It thus is an established conclusion that the 'eater' is no other than the highest Self.
 </details>
 
 <details><summary>मूलम्</summary>
