@@ -1972,9 +1972,30 @@ concerniente al **logro** del fin deseado,
 आगैयाल् मेल् फलसिद्धियिल् संशयमिल्लामैयालुम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+मोक्षोपायम् आगव् ऒरु कर्तव्य-शेषम् इल्लामैयालुम्, 
+</details>
+
+<details><summary>English</summary>
 
 since he **has nothing** further to **do** for the sake of mokṣa,  
+</details>
+
+<details><summary>Español</summary>
+
+ya que él **no tiene** nada más que **hacer** por el bien de mokṣa,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मोक्षोपायमागवॊरु कर्तव्यशेषमिल्लामैयालुम्, 
+</details>
+
+
+
+
 since what he **has yet to perform is** only the **keeping** of (the Lord's) commands  
 for their own sake, 
 

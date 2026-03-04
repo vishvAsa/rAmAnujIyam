@@ -9526,7 +9526,8 @@ y luego **ofrecer oblaciones** de agua (tarpaṇam)".
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-नायं नञ्जीयर् इति केचित्। 
+पॆरिय-जीयर् नाम पराशर-भट्ट-शिष्यः श्रीसूक्त-भाष्यस्य नित्यग्रन्थस्य च प्रणेता ।  
+विस्तारो [ऽत्र](/vedAH_Rk/shAkalam/khilam/2/06_shrI-sUktam_hiraNya-varNAm/TIkA/ranganAtha-muniH) ।
 </details>
 
 
