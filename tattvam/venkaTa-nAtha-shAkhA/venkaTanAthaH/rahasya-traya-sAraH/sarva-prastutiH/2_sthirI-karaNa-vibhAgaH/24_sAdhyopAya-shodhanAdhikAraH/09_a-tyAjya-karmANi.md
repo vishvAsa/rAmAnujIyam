@@ -267,7 +267,7 @@ Vaṅgīpuram Nambi lo **resumió** brevemente en su nitya en las palabras **cit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि पॆरिय जीयर् उळ्ळ्-इट्टार् नित्यङ्गळिलुङ् गण्डुगॊळ्वदु।
+इप्-पडि पॆरिय जीयर् उळ्ळ्-इट्टार् नित्यङ्गळिलुङ् कण्डुगॊळ्वदु।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -278,7 +278,8 @@ Vaṅgīpuram Nambi lo **resumió** brevemente en su nitya en las palabras **cit
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-> Today periya jeeyar term is used to refer to Manavala Mamunigal. But Swami Desikan has also used this term. For him, this term must have been a reference to Nanjiyar or Kura Narayana Jiyar.
+पॆरिय-जीयर् नाम पराशर-भट्ट-शिष्यः श्रीसूक्त-भाष्यस्य नित्यग्रन्थस्य च प्रणेता ।  
+विस्तारो [ऽत्र](/vedAH_Rk/shAkalam/khilam/2/06_shrI-sUktam_hiraNya-varNAm/TIkA/ranganAtha-muniH) । 
 </details>
 
 
@@ -302,7 +303,7 @@ en el **tratado** sobre la **vida** diaria
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-पॆरिय जीयर् - नञ्जीयर् +++(नेति केचित्)+++, 
+पॆरिय जीयर् - नञ्जीयर् +++(नेति केचित् - विश्वास-टिप्पन्यां विस्तारः।)+++, 
 </details>
 
 

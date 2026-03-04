@@ -1726,6 +1726,12 @@ Como adjetivo para Śrī de esta manera:-
 अपेक्षितार्थङ्गळ् ऎल्लाम् उपपादित्तार्। 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+पॆरिय-जीयर् नाम पराशर-भट्ट-शिष्यः श्रीसूक्त-भाष्यस्य नित्यग्रन्थस्य च प्रणेता ।  
+विस्तारो [ऽत्र](/vedAH_Rk/shAkalam/khilam/2/06_shrI-sUktam_hiraNya-varNAm/TIkA/ranganAtha-muniH) ।
+</details>
+
 <details><summary>नीलमेघः (सं)</summary>
 
 श्रीसूक्तभाष्ये महा-यतिर् अपि  
@@ -1748,15 +1754,6 @@ en su comentario sobre Śrī Sukta.
 
 श्रीसूक्तभाष्यत्तिले पॆरिय जीयरुम् अपेक्षितार्थङ्गळॆल्लाम् उपपादित्तार्। 
 </details>
-
-<details><summary>विश्वास-टिप्पनी</summary>
-
-> पॆरिय जीयरुम् - नारायणमुनियॆऩ्गिऱ नञ्जीयरुम्।
-
-इति सारबोधिन्य्-उक्तिर् न साधु भाति।  
-कूरनारायणमुनिर् अयम् इत्य् अन्यत्र प्रतिपादितम्। 
-</details>
-
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
