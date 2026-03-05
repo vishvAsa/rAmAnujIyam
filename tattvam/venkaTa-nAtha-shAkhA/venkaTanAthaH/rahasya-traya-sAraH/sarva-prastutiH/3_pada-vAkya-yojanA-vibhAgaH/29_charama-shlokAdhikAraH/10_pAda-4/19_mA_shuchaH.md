@@ -1993,18 +1993,133 @@ ya que él **no tiene** nada más que **hacer** por el bien de mokṣa,
 मोक्षोपायमागवॊरु कर्तव्यशेषमिल्लामैयालुम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+इवऩुक्क् उळ्ळ कर्तव्यम्  
+आज्ञानुपालन-रूपम् आऩ स्वयं-प्रयोजनम् आगैयालुम्,
+</details>
 
+<details><summary>English</summary>
 
 since what he **has yet to perform is** only the **keeping** of (the Lord's) commands  
 for their own sake, 
 
+</details>
+
+<details><summary>Español</summary>
+
+ya que lo que aún **tiene que realizar** es sólo **cumplir** los mandamientos (del Señor)  
+por su propio bien,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कुळ्ळ कर्तव्यम् आज्ञानुपालनरूपमाऩ स्वयंप्रयोजनमागैयालुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपराधम् प्रसक्तम् आऩाल्  
+अधिकारान्तरत्तिऱ् सॊऩ्ऩ कट्टळैयिले  
+अनुतापादिगळाले सुपरिहरम् आगैयालुम्
+</details>
+
+<details><summary>English</summary>
+
 and since, if offences **should be committed** (thereafter),  
 they **could easily be atoned** for by **repentance** and the like  
 as pointed out in another chapter --  
-there **is no** reason why he **should not** feel delighted at heart. 
 
-Though this delight is mingled with disgust (nirveda) in the intelligent (prapanna) who is still connected with such unwholesome things as the body, yet the two may exist without any inconsistency as the disgust and the delight are due to different factors respectively.
+</details>
+
+<details><summary>Español</summary>
+
+y dado que, si **se cometieran delitos** (en adelante),  
+ellos **podrían ser expiados** fácilmente mediante el **arrepentimiento** y cosas similares  
+como **se señaló** en otro capítulo:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपराधम् प्रसक्तमाऩालधिकारान्तरत्तिऱ्सॊऩ्ऩ कट्टळैयिले अनुतापादिगळाले सुपरिहरमागैयालुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩ् हृष्ट-मनाव् आगक् कुऱैय् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+there **is no** reason why he **should not** feel delighted at heart. 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** ninguna razón por la que  
+él **no deba sentirse encantado** en el corazón.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩ् हृष्टमनावागक् कुऱै यिल्लै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द हर्षम् -  
+विवेकियुम् आय्  
+हेयम् आऩ शरीरादिगळोडे तुवक्क् उण्ड् इरुक्किऱव् इवऩुक्कु  -  
+निर्वेद-मिश्रम् आय् नडन्ददेयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Though this delight **is mingled** with disgust (nirveda)  
+in the intelligent (prapanna) who **is** still **connected** with such unwholesome things as the body,  
+</details>
+
+<details><summary>Español</summary>
+
+Aunque este deleite **se mezcla** con disgusto (nirveda)  
+en el inteligente (prapanna) que **está** todavía **conectado** con cosas tan insanas como el cuerpo,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द हर्षम् विवेकियुमाय् हेयमाऩ शरीरादिगळोडे तुवक्कुण्डिरुक्किऱ विवऩुक्कु निर्वेदमिश्रमाय् नडन्ददेयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् निर्वेदमुम्, इश् शोक-निवृत्तियुम् भिन्न-विषयङ्गळ् आगैयाले  
+विरोधम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+yet the two **may exist** without any inconsistency  
+as the disgust and the delight **are** due to different factors respectively.+++(4)+++
+</details>
+
+<details><summary>Español</summary>
+
+sin embargo, los dos **pueden existir** sin ninguna inconsistencia  
+ya que el disgusto y el deleite **se deben** a diferentes factores respectivamente.+++(4)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन् निर्वेदमुम् इश्शोकनिवृत्तियुम् भिन्नविषयङ्गळागैयाले विरोधमिल्लै।
+</details>
+
 
 
 
