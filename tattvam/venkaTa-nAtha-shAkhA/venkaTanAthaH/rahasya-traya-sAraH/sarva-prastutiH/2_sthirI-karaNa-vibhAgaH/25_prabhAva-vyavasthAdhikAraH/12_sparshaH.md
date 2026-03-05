@@ -221,6 +221,11 @@ como **están ordenados** en los Śāstras.
 ( भारतम् आनुशासनिक-पर्व १६१-९७), 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+आहारनियमे व्याख्यातं देशिकेन॥ 
+</details>
+
 
 <details><summary>English</summary>
 
