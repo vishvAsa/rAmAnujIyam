@@ -12,7 +12,7 @@ THE PERFORMANCE OF THE RITES OF THE VARṆAS AND ĀŚRAMAS IS OBLIGATORY:
 El **rendimiento** de los **ritos** de los varṇas y āśramas es obligatorio:
 </details>
 
-## तामस-त्यागः
+## तामस-त्यागो ऽज्ञानात् स्वरूपतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > वेद--वैदिक-शास्त्रङ्गळिऱ् सॊल्लुगिऱ नियमङ्गळै  
@@ -67,7 +67,7 @@ Que este tipo de **renuncia se debe** a los tamas ...
 कर्मणो **नोपपद्यते** ।  
 मोहात् तस्य परित्यागस्  
 तामसः **परिकीर्तितः**॥’’  
-(गीता १८-७) 
+(गीता १८-७) +++(५)+++
 
 ऎऩ्गिऱ श्लोकत्तालेय् अरुळिच् चॆय्दाऩ्। 
 </details>
@@ -78,10 +78,16 @@ Que este tipo de **renuncia se debe** a los tamas ...
 कर्मणो **नोपपद्यते** ।  
 मोहात् तस्य परित्यागस्  
 तामसः **परिकीर्तितः**॥’’  
-(गीता १८-७) 
+(गीता १८-७) +++(५)+++
 
 इति श्लोकेनानुजग्राह । 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+चरमश्लोकाध्याये ह्य् अस्तीदम् इत्य् अवधेयम्!
+</details>
+
 
 <details><summary>English</summary>
 
@@ -112,7 +118,7 @@ es declarado por Bhagavān en el Śloka:-
 </details>
 
 
-## राजस-त्यागः
+## राजस-त्याग आलस्यात् स्वरूपतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कुटुम्ब-भरणादिगळुक्क् अलैन्दु  
@@ -234,7 +240,7 @@ y **no obtiene** el fruto de la **renuncia** ".
 </details>
 
 
-## सात्त्विक-त्यागः
+## सात्त्विक-त्यागः कर्तृत्व-फलयोः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -677,12 +683,12 @@ Tal código de conducta **es** el límite más alto de **renuncia** debido a Sat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु पसित्त् उण्बार् मात्रम्;
+इदु +++(अवन्तरार्थान्तरापेक्षाभावात्)+++ पसित्त् उण्बार् मात्रम्;
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-इदं बुभुक्षु-भोजन-मात्रम् । 
+इदं +++(अवन्तरार्थान्तरापेक्षाभावात्)+++ बुभुक्षु-भोजन-मात्रम् । 
 </details>
 
 
@@ -709,12 +715,12 @@ Esto **es** como **comer** comida cuando los hombres **tienen** hambre.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्ङऩ् अल्लाद बोदु ऒट्टत्तुक्क्+++(→स्पर्धया)+++ अप्पम् +++(=दोषाम्)+++ तिऩ्बार् मात्रम्। +++(4)+++  
+इङ्ङऩ् अल्लाद बोदु +++(अर्थान्तरार्थत्वात्)+++ ऒट्टत्तुक्क्+++(→स्पर्धया)+++ अप्पम् +++(=दोषापूपम्)+++ तिऩ्बार् मात्रम्। +++(4)+++  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-अन्यथा पण-बन्धार्थापूप-भक्षणमात्रम् । 
+अन्यथा +++(अर्थान्तरार्थत्वात्)+++ पण-बन्धार्थापूप-भक्षणमात्रम् । 
 </details>
 
 
