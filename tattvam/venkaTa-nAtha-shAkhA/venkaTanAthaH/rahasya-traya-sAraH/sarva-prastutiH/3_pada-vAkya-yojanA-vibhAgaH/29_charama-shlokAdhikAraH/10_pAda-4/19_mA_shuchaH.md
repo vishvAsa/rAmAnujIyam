@@ -2120,14 +2120,154 @@ ya que el disgusto y el deleite **se deben** a diferentes factores respectivamen
 इन् निर्वेदमुम् इश्शोकनिवृत्तियुम् भिन्नविषयङ्गळागैयाले विरोधमिल्लै।
 </details>
 
+## आर्ते ऽविलम्बः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘मा शुचः’’ ऎऩ्गिऱव् इदुवे  
+
+शोक-निमित्तम् आऩवैय् ऎल्लाम्  
+मोचनीयम् आगैक्कु नियामकम् आगैयाले,  
+प्रारब्ध-कर्मत्तालुम् शोक-निमित्तांशम् ऎल्लाङ् कऴिगैयाल्  
+
+आर्त्य्-अतिशयम् उडैय्-अवऩुक्कु  
+अप्-पोदे मोक्षम् सिद्धिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+The words "**Do not grieve**" **are**, themselves, an **indication** of the **cancellation** of all causes of grief;  
+even that portion of the karma which **has already begun** to **operate** (prarabdha)  
+and which **will cause** grief **will be cancelled**  
+
+and the man who **is** so impatient as **not to be capable** of **existing** even for a moment longer  
+**will attain** mokṣa at that very instant.  
+</details>
+
+<details><summary>Español</summary>
+
+Las palabras "**No te aflijas**" **son**, en sí mismas, una **indicación** de la **cancelación** de todas las causas del duelo;  
+incluso esa porción del karma que **ya ha comenzado** a **operar** (prarabdha)  
+y que **causará** dolor **será cancelado**  
+
+y el hombre que **es** tan impaciente como para **no ser capaz** de **existir** ni siquiera por un momento más  
+**alcanzará** mokṣa en ese mismo instante.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मा शुचः’’ ऎऩ्गिऱ विदुवे शोक निमित्तमाऩवैयॆल्लाम् मोचनीयमागैक्कु नियामकमागैयाले प्रारब्धकर्मत्तालुम् शोकनिमित्तांशमॆल्लाङ्गऴिगैयाल् आर्त्यतिशयमुडैयवऩुक्कु अप्पोदे मोक्षम् सिद्धिक्कुम्। 
+</details>
 
 
 
-The words "Do not grieve" are, themselves, an indication of the cancellation of all causes of grief; even that portion of the karma  which has already begun to operate (prarabdha) and which will cause grief will be cancelled and the man who is so impatient as not to be capable of existing even for a moment longer will attain mokṣa  at that very instant. As stated in the Tamil verse : "The Lord is one who, to those that seek His protection, grants Vaikuṇṭha at the time of their death”, we have to believe that all that unexpired part of the karma  which has already begun to operate (prārabdha) will be annulled and that mokṣa  will be at the death of this body. Therefore if, in this bodily existence itself, it be felt (by a man) that what remains of this life is an evil, it will also certainly be cancelled by the will of the omnipotent Lord whose grace has been secured by prapatti.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’मरणम् आऩाल् वैकुन्दङ् कॊडुक्कुम् पिराऩ्’’ 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in the Tamil verse : 
+
+> "The Lord **is** one who, to those that **seek** His protection, **grants** Vaikuṇṭha at the time of their death”, 
+</details>
+
+<details><summary>Español</summary>
+
+Como **indica** en el verso tamil: 
+
+> “El Señor **es** aquel que, a aquellos que **buscan** Su **protección**, **concede** Vaikuṇṭha en el momento de su **muerte”**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’मरणमाऩाल् वैगुन्दङ् गॊडुक्कुम् पिराऩ्’’ इत्यादिगळिऱ्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रारब्ध-कर्मत्तिल् मेल्-उळ्ळद् ऎल्लाङ् कऴिन्दु इश् शरीरावसानत्तिले मोक्षम्  
+
+ऎऩ्ऱ् इसैय वेण्डियदाल् 
+</details>
+
+<details><summary>English</summary>
+
+**we have to believe** that  
+all that **unexpired** part of the karma  
+which has already **begun to operate** (prārabdha)  
+**will be annulled**  
+and that mokṣa **will be** at the **death** of this body.  
+
+Therefore ... 
+</details>
+
+<details><summary>Español</summary>
+
+**tenemos que creer** que  
+toda esa parte **viviente** del karma  
+que ya **comenzó a operar** (prārabdha)  
+**será anulado**  
+y ese mokṣa **será** en la **muerte** de este cuerpo.  
+
+Por lo tanto ...
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रारब्धकर्मत्तिल् मेलुळ्ळदॆल्लाङ्गऴिन्दु इश् शरीरावसानत्तिले मोक्षमॆऩ्ऱिसैय वेण्डियदाल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् शरीरन् तऩ्ऩिलुम् आयुश्-शेषम् अन्-इष्टम् आऩ बोदु  
+इदुवुम् प्रपत्ति-वशी-कृत- सर्व-शक्ति-सङ्कल्पत्ताले कऴियक् कुऱैय् इल्लैय् इऱे।
+</details>
+
+<details><summary>English</summary>
+
+if, in this bodily **existence** itself, it be **felt** (by a man) that  
+what **remains** of this life **is** an evil,  
+it will also certainly **be cancelled** by the will of the omnipotent Lord  
+whose grace **has been secured** by prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+si, en esta **existencia** corporal misma, **siente** (por un hombre) que  
+lo **queda** de esta vida **es** un mal,  
+también ciertamente **será cancelado** por la voluntad del omnipotente Señor  
+cuya gracia **ha sido asegurada** por prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इश् शरीरन्दऩ्ऩिलुम् आयुश्शेषमनिष्टमाऩबोदु इदुवुम् प्रपत्तिवशीकृतसर्वशक्तिसङ्कल्पत्ताले कऴियक् कुऱैयिल्लैयिऱे।
+</details>
 
 
 
-(In this connection it may be asked whether it is not a sin to desire to die immediately after performing prapatti). The answer is as follows:-)
+
+<details><summary>English</summary>
+
+(In this connection it may be asked whether it is not a sin to desire to die immediately after performing prapatti. The answer is as follows:-)
+</details>
+
+<details><summary>Español</summary>
+
+(A este respecto **cabe preguntarse** si  
+**no es** pecado **desear morir** inmediatamente  
+después de **realizar** prapatti.  
+La **respuesta es** la **siguiente**:-)
+</details>
 
 
 
