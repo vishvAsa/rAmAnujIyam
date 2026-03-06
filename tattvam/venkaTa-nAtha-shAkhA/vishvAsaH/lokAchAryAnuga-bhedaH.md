@@ -50,6 +50,10 @@ One such dubious aitihyam, regarding nADAdUr ammAL, used by them is this - They 
 भक्तिप्रपत्ती यदि दुष्करे वो  
 ??रामानुजाय नम इत्य् अवादि?? ॥
 
+## कर्तृत्वं जीवस्य
+जीवस्य कर्तृत्वं कैङ्कर्ये हि, न तूपायय् इति केचित्। चिल्लरै-रहस्य-ग्रन्थेषु सारसारे प्रायेणोदाह्रियते वेङ्कटनाथार्येण।  
+किञ्च कैङ्कर्यम् भगवत्-प्रीत्यर्थक उपाय एव। 
+
 ## प्रपत्तौ  
 प्रयोग-विचारो [ऽन्यत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAchAryAnuga-bhedAH) । 
 
