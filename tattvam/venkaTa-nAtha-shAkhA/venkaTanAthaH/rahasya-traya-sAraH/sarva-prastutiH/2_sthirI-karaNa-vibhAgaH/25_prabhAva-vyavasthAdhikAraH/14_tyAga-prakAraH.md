@@ -1104,6 +1104,11 @@ Y esto **muestra** cómo Prapatti **no requiere** ninguna **ayuda** (después de
 इत्य्-अत्र तात्पर्यम् । 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+चरमश्लोकाधिकारे विस्तारः। 
+</details>
+ 
 
 <details><summary>English</summary>
 
@@ -1180,7 +1185,7 @@ Prapatti **no requiere** que **se realice** nada más.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि ‘‘परित्यज्य’’ ऎऩ्गिऱव् इडत्तिल्  
-अधिकारम् विवक्षितम् आऩाल्  
+अधिकारं विवक्षितम् आऩाल्  
 ‘‘माम् एकं’’ ऎऩ्गिऱव् इडत्तिले  
 नैरपेक्ष्यम् अनुसन्धिक्कप् प्राप्तम्। 
 </details>
