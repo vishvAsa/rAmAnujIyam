@@ -251,6 +251,15 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 > This work was the start of an open revolt against vaidikas among vaishnavas. Eg. "You guys follow Rishi gotras . We belong to azhvaar gotra .."  
 > इति रविलोचनः। 
 
+## पल्लमडैयार्
+> To give context, Erumbiappa says the following in the Vilakshana Mokshadhikari Nirnayam. He says that when Yadavaprakasha decided to convert to Sri Vaishnavism become Ramanujacharya's shishya, Yadavaprakasha's son and former shishyas decided to take revenge on Ramanujacharya by infiltrating the Sri Vaishnava Sampradayam and propagating false notions within it, like the notion that rules of Dharma and Adharma don't apply after you do Sharanagati. While Ramanujacharya was alive, they kept their mouth shut, because they knew Ramanujacharya would immediately refute the false doctrines. But as soon as Ramanujacharya departed the Earth, they started propagating these doctrines, pretending like that that's what Sri Vaishnavism teaches.
+> 
+> Erumbiappa says that while those shishyas eventually died, their successors continued propagating these falsehoods generation after generation, their successors being called Pallamadaiyars. And he says that Pillai Lokacharya wrote the Sri Vachana Bhushanam in part to refute these Pallamadaiyars, and Erumbiappa says that he is writing the Vilakshana Mokshadhikari Nirnayam to finish the job.
+> 
+> In the avatarikai of Sri Vachana Bhushanam vyakyanam, Periya Jeeyar mentions Pallamadaiyars as one of the groups that Pillai Lokacharya sought to refute through the Sri Vachana Bhushanam.
+
+तत्रैतिह्यं न विस्रब्धुं योग्यम्। तादृशा अपि "श्रीवैष्णवा" आसन्न् इति तु ग्राह्यम्।
+
 ## प्रदेशाः
 ### राजास्थाने 
 डीडवाना-झालरिया 
