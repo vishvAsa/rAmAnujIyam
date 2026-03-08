@@ -3425,14 +3425,157 @@ y la **realización** de mí mismo".
 > ‘‘अतस्त्वं तव तत्त्वतो मद्-ज्ञान-दर्शन-प्राप्तिषु निस्संशयः सुखम् आस्व’’ 
 </details>
 
+## ज्ञानानुष्ठानाभ्याम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु सॊल्लुगिऱ शोक-निवृत्तिक्कु ऒरु बडियालुम् सङ्कोचकर् इल्लामैयाले  
+इव्व्-उपाय-विशेष-ज्ञानत्तालुम्, अनुष्ठानत्तालुम् आग  
+सर्व-प्रकार-शोक-हेतुक्कळ् ऎल्लाम् कऴियुम् बडि सॊल्लिऱ्ऱ् आगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+The freedom from grief that **is stated** here (in the carama śloka)  
+**has no limiting** factors.  
+
+Therefore the causes of all forms of grief **are stated** here to **be annulled** for the man  
+who **has** a **knowledge** of this upāya  
+and **adopts** it.  
+</details>
+
+<details><summary>Español</summary>
+
+La **libertad** del dolor que **se afirma** aquí (en el carama śloka)  
+**no tiene** factores **limitantes**.  
+
+Por lo tanto, las causas de todas las formas de duelo **se establecen** aquí para **ser anuladas** para el hombre  
+Quién **tiene** un **conocimiento** de este upāya  
+y lo **adopta**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सॊल्लुगिऱ शोकनिवृत्तिक्कु ऒरुबडियालुम् सङ्कोचकरिल्लामैयाले इव्वुपायविशेषज्ञानत्तालुम् अनुष्ठानत्तालुमाग सर्वप्रकारशोकहेतुक्कळॆल्लाम् कऴियुम्बडि सॊल्लिऱ्ऱागिऱदु।
+</details>
+
+### अनुष्ठानापेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुष्ठान-पर्यन्तम् अल्लाद ज्ञान-मात्रम् इव्व्-उपदेशत्ताले पिऱन्दालुम् 
+</details>
+
+<details><summary>English</summary>
+
+By the **teaching given** here,  
+mere knowledge (of the upāya) **may exist**  
+without its **adoption**, 
+</details>
+
+<details><summary>Español</summary>
+
+Por la **enseñanza dada** aquí,  
+el mero **conocimiento** (del upāya) **puede existir**  
+sin su **adopción**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुष्ठानपर्यन्तमल्लाद ज्ञानमात्रम् इव्वुपदेशत्ताले पिऱन्दालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**न** गाथा गाथिनं **शास्ति**  
+बहु चेद् अपि **गायति** ।  
++++(स्वव्यवहारेषु स्व-)+++प्रकृतिं **यान्ति** भूतानि,  
+कुलिङ्ग-शकुनिर् यथा’’   
++++("मा साहसं कुर्व्" इति रुत्वापि सिंहमुखस्थ-मांसं चिखादिषति)+++  
+(भारतम् सबा-पर्व ४२-२१) 
+
+ऎऩ्गिऱ कणक्काय् निष्प्रयोजनम् आगैयाले
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘**न** गाथा गाथिनं **शास्ति**  
+बहु चेद् अपि **गायति** ।  
++++(स्वव्यवहारेषु स्व-)+++प्रकृतिं **यान्ति** भूतानि,  
+कुलिङ्ग-शकुनिर् यथा’’   
++++("मा साहसं कुर्व्" इति रुत्वापि सिंहमुखस्थ-मांसं चिखादिषति)+++  
+(भारतम् सबा-पर्व ४२-२१) 
+
+</details>
+
+
+
+<details><summary>English</summary>
+
+but as **stated** in the śloka - 
+
+> "The song **does not regulate** (the actions of) the man  
+though he **may sing** it very often.  
+Creatures **behave** in accordance with their past impressions (vāsana)  
+like the bird \*Kulinga', which, though it utters the words "mā sāhasam kuru", (Do not behave rashly), **continues** to **behave** rashly". 
+
+it **would be** of **no use** at all.
+
+(Kulinga : a fabulous bird whose **cries are said** to **resemble** the words "ma sahasam kuru". The bird, however, **attempts** to **snatch** the flesh  
+from between the jaws of the lion.)
+</details>
+
+<details><summary>Español</summary>
+
+pero como **indica** en el śloka - 
+
+> "La canción **no regula** (las acciones del) hombre  
+aunque **puede** que **la cante** muy a menudo.  
+Las criaturas **se comportan** de acuerdo con sus impresiones pasadas (vāsana)  
+como el pájaro \*Kulinga', que, aunque **pronuncia** las palabras "mā sāhasam kuru", (No te **comportes** precipitadamente), **continúa** **comportándose** precipitadamente". 
+
+**sería** **inútil** en absoluto.
+
+
+(Kulinga: un pájaro fabuloso cuyos **gritos se dice** que **se parecen** a las palabras "ma sahasam kuru".  
+El pájaro, sin embargo, **intenta arrebatar** la carne  
+de entre las fauces del león.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न गाथा गाथिनं शास्ति बहु चेदपि गायति । प्रकृतिं यान्ति भूतानि कुलिङ्गशकुनिर्यथा’’(भारतम् सबा-पर्व ४२-२१) ऎऩ्गिऱ कणक्काय् निष्प्रयोजनमागैयाले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानानुष्ठानङ्गळ् इरण्डिऩ्-उडैयवुम् फलम् आऩ शोक-निवृत्तियैय् ऎल्लाम्  
+इङ्गु विवक्षिक्किऱदु।
+</details>
+
+<details><summary>English</summary>
+
+So in this śloka, it **is implied** that **annulment** of grief **would be** the fruit of a **combination** of both knowledge and action.
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, en este śloka, **está implícito** que **la anulación** del dolor **sería** el fruto de una **combinación** de conocimiento y acción.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानानुष्ठानङ्गळिरण्डिऩुडैयवुम् फलमाऩ शोकनिवृत्तियैयॆल्लाम् इङ्गु विवक्षिक्किऱदु।
+</details>
 
 
 
 
 
-The freedom from grief that is stated here (in the carama śloka) has no limiting factors. Therefore the causes of all forms of grief are stated here to be annulled for the man who has a knowledge of this upāya and adopts it. By the teaching given here, mere knowledge (of the upāya) may exist without its adoption, but it would be of no use at all as stated in the śloka. "The song does not regulate (the actions of) the man though he may sing it very often. Creatures behave in accordance with their past impressions (vāsana) like the bird [^f7] *Kulinga', which, though it utters the words mā sāhasam kuru, (Do not behave rashly), continues to behave rashly". So in this śloka, it is implied that annulment of grief would be the fruit of a combination of both knowledge and action.
-
-[^f7]:
 
 
 
