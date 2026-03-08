@@ -3031,29 +3031,402 @@ La palabra ārta-prapanna **se usa** aquí para **denotar** a esta persona.
 ऎऩ्गिऱव् इडत्तिऱ् सॊल्लप् पट्ट्-अवऩ् अल्लऩ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आर्तो जिज्ञासुर् अर्थार्थी’’  
+(गीता ७-१६) 
+
+</details>
+
+<details><summary>English</summary>
+
+He **is not** the ārta **referred to** in the Gitā (7.16) "ārto, jijñāsuh, arthārthī, etc.,"  
+where ārta **means**  
+"one who **prays** for the recovery of his lost wealth or lordship "
+</details>
+
+<details><summary>Español</summary>
+
+Él **no es** el ārta al que **se hace referencia** en el Gitā (7.16) "ārto, jijñāsuh, arthārthī, etc."  
+donde ārta **significa**  
+"aquel que **reza** por la **recuperación** de su riqueza o señorío perdido"
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अल्लदु ‘‘आर्तो जिज्ञासुरर्थार्थी’’(गीता ७-१६) ऎऩ्गिऱविडत् तिऱ्सॊल्लप्पट्टवऩल्लऩ्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-He is not the ārta referred to in the Gitā (7.16) "ārto, jijñāsuh, arthārthī, etc.," where ārta means "one who prays for the recovery of his lost wealth or lordship "
-
-
-
-There are some who are of opinion that, in Śrī Rāma’s words:. " Whether the man is an ārta (who cannot bear delay in the attainment of the desired end) or a dṛpta ( who has no such impatience), the man who seeks refuge should (always ) be protected", there is ativāda or exaggeration in that even the dripta who is proud or arrogant is stated to be worthy of protection. Whatever that may be, there is no room for dispute in regard to this passage where mokṣa  is promised to the man who grieves for the evils of saṁsāra but can bear to live till the end of this life and then attain mokṣa, for he is not one who is proud or arrogant.
+आर्तशब्दत्तिल् आपात प्रतीतार्थत्तै निवर्तिप्पिक्किऱार् अल्लदु आर्तो जिज्ञासुरिति । 
+</details>
 
 
 
-The use of the future tense in mokṣayishyāmi (I will release you) is not inappropriate in the case of the ārta who prays for immediate release from the body, for the end desired is to come after the adoption of the upāya and the word is used at the time when the upāya is taught (i.e. before the adoption of the upāya),
+### दृप्तस्यापि मोक्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आर्तो वा यदि वा दृप्तः’’  
+(रामायणम् युद्ध-काण्डम् १८-२८) 
+
+ऎऩ्गिऱव् इडम् अतिवादम् ऎऩ्बार्क्कुम्  
+इङ्ग् इव्व् अर्थ-स्थितियिल् +++(गर्वाभावान् मोक्ष-दाने)+++ विवादम् पण्ण वॊण्णादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आर्तो वा यदि वा दृप्तः’’  
+(रामायणम् युद्ध-काण्डम् १८-२८) 
+
+</details>
+
+<details><summary>English</summary>
+
+There **are** some who **are** of **opinion** that, 
+
+> in Śrī Rāma’s words:
+>
+> > " Whether the man **is** an ārta  
+(who **cannot bear delay** in the **attainment** of the **desired** end)  
+or a dṛpta ( who **has no** such impatience),  
+the man who **seeks refuge** should (always ) **be protected**", 
+>
+> there **is** ativāda or **exaggeration** in that  
+even the drpta who **is** proud or arrogant  
+**is stated** to be worthy of **protection**. 
+
+Whatever that **may be**,  
+there **is no** room for **dispute** in regard to this passage  
+where mokṣa **is promised** to the man who **grieves** for the evils of saṁsāra  
+but can **bear to live** till the end of this life  
+and then **attain** mokṣa,  
+for he **is not** one who is proud or arrogant.
+
+</details>
+
+<details><summary>Español</summary>
+
+**Hay** algunos que **son** de **opinión** de que, 
+
+> en palabras de Śrī Rāma:
+>
+> > " Si el hombre **es** un ārta  
+(que **no puede soportar** la **demora** en la **consecución** del fin **deseado**)  
+o un dṛpta (que **no tiene** tanta impaciencia),  
+el hombre que **busca refugio debe** (siempre) **ser protegido**", 
+>
+> **hay** ativāda o **exageración** en eso  
+Incluso el drpta que **es** orgulloso o arrogante  
+**se afirma** que **es** digno de **protección**. 
+
+Cualquiera que sea **que sea**,  
+**No hay** lugar para **disputas** con respecto a este pasaje.  
+donde mokṣa **se promete** al hombre que **se lamenta** por los males del saṁsāra  
+pero **puedo soportar vivir** hasta el final de esta vida  
+y luego **alcanzar** mokṣa,  
+porque él **no es** alguien orgulloso o arrogante.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘आर्तो वा यदि वा दृप्तः’’(रामायणम् युद्ध-काण्डम् १८-२८) ऎऩ्गिऱविडम् अतिवादमॆऩ्बार्क्कुम् इङ्गिव् वर्थस्थितियिल् विवादम् पण्णवॊण्णादु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ‘‘आर्तो वा यदि वा दृप्तः  
+परेषां शरणागतः ।  
+अरिः प्राणान् परित्यज्य  
+रक्षितव्यः कृतात्मना॥’’ 
+
+ऎऩ्गिऱ विडत्तिल् दृप्तपदत्तै गर्वितपरमागच् चॊल्लवेण्डुगैयाल् अवऩुक्कु रक्षितव्यत्वम् सॊऩ्ऩदु अतिवादमॆऩ्ऱु सिलर् सॊल्लविल्लैयो?  
+
+अदुबोले दृप्तऩैक् कुऱित्तुम् मोक्षयिष्यामि ऎऩ्बदुम् अतिवादमागादो ऎऩ्ऩिल्, ‘‘आर्तो वा यदि वा दृप्तः’’ ऎऩ्गिऱ वसनत्तिलुळ्ळ दृप्त शब्दत्तै गर्वितपरमाक्कि तद्रक्षणमतिवादमॆऩ्ऱु सॊल्लुवार्क्कुम् इङ्गु जन्मान्तरासहिष्णुवाय् एतद्देहमात्राभ्युपगन्तावाऩ दृप्तप्रपन्नऩ् गर्वाद्यनात्म गुणरहितऩागैयाल् अवऩ् विषयत्तिल् मोक्षयिष्यामि ऎऩ्ऱु सॊल्वदु अतिवादमागात् ऎऩ्गिऱार् आर्तो वेति । 
+</details>
+
+
+### आर्ते भविष्यत्-कालः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायानुष्ठानत्तुक्कुप् पिऩ्बु  
+फलम् आगैयालुम्  
+
+इदु उपदेश-वेळैयागैयालुम्  
+इव्व्-आर्तऩ्-+तिऱत्तिलुम्+++(=पक्षेऽपि)+++  
+
+‘‘मोक्षयिष्यामि’’ ऎऩ्ऱु भविष्यन्-निर्देशत्तिऱ्कुक् कुऱैयिल्लै।
+</details>
+
+<details><summary>English</summary>
+
+The use of the future tense in mokṣayishyāmi (I will release you) **is not inappropriate** in the case of the ārta  
+who **prays** for immediate **release** from the body,  
+for the end **desired is to come** after the **adoption** of the upāya  
+and the word **is used** at the time  
+when the upāya **is taught** (i.e. before the **adoption** of the upāya).
+</details>
+
+<details><summary>Español</summary>
+
+El **uso** del tiempo futuro en mokṣayishyāmi (te liberaré) **no es inapropiado** en el caso del ārta  
+quien **reza** por la **liberación** inmediata del cuerpo,  
+
+porque el fin **deseado está por llegar** después de la **adopción** del upāya  
+
+y la palabra **se usa** en ese momento  
+cuando el upāya **se enseña** (es decir, antes de la **adopción** del upāya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायानुष्ठानत्तुक्कुप् पिऩ्बु फलमागैयालुम् इदु उपदेशवेळैयागैयालुम् इव्वार्तऩ्ऱिऱत्तिलुम् ‘‘मोक्षयिष्यामि’’ ऎऩ्ऱु भविष्यन्निर्देशत्तिऱ्कुक् कुऱैयिल्लै।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आर्तप्रपत्ति पण्णिऩवऩुक्कु अप्पोदे मोक्षमायिरुक्क अवऩ् विषयत्तिल् मोक्षयिष्यामि ऎऩ्ऱु भविष्यत्प्रयोगम् कूडुमोवॆऩ्ऩ कूडुमॆऩ्गिऱार् उपायानुष्ठानत्तुक्कुप् पिऩ्बु इत्यादिना । आर्त प्रपत्ति मोक्षत्तिऱ्कु उपायमागैयालुम् (कारणमागैयालुम्) मोक्षरूपमाऩ कार्यम् कारणमाऩ उपायत्तुक्कुप् पिऩ्बे वरवेण्डु मागैयालुम् उपायापेक्षयापि भविष्यन्निर्देशम् कूडुम्। चरमश्लोकमुपदेशरूपमागैयाले उपदेशजन्यज्ञानत्तैक्कॊण्डु आर्तप्रपत्तियै अनुष्ठित्तबिऱगे मोक्षमागैयालुम् उपदेशापेक्षयापि भविष्यन्निर्देशम् कूडुमॆऩ्ऱु करुत्तु।
+</details>
+
+
+### विभाग-स्रोतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् आर्त-दृप्तादि-विभागङ्गळ् ऎल्लाम्  
+सुकृत-तारतम्य-मूलम् आऩ  
+भगवद्-अनुग्रह-तारतम्यत्ताले वरुम्। 
+</details>
+
+<details><summary>English</summary>
+
+These **classifications** into ārtas and drptas **arise** on account of **differences** in the intensity of the Lord's grace  
+which **are** due to the **differences** in the good deeds **performed** by them before.
+</details>
+
+<details><summary>Español</summary>
+
+Estas **clasificaciones** en ārtas y drptas **surgen** debido a **diferencias** en la intensidad de la gracia del Señor.  
+los cuales **se deben** a las **diferencias** en las buenas obras **realizadas** por ellos antes.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वार्तदृप्तादिविभागङ्गळॆल्लाम् सुकृत तारतम्यमूलमाऩ भगवदनुग्रहतारतम्यत्ताले वरुम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऒरुवऩ् आर्त्यतिशयमुण्डाय् आर्तप्रपन्नऩा वाऩेऩ्, मऱ्ऱॊरुवऩ् आर्तिमान्द्यत्ताले देहावसानत्तिल् मोक्षापेक्षया प्रपत्ति पण्णि दृप्तप्रपन्नऩावाऩेऩ्? इप्पडि इवर्गळ् विभक्तर्गळागुगैक्कु मूलकारणमॆऩ्ऩॆऩ वरुळिच्चॆय्गिऱार् इव्वार्तदृप्तादिविभागङ्गळॆल्लामिति । 
+</details>
+
+
+### प्रारब्ध-भोगोक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रारब्ध-मात्र-भुक् तत्र  
+तत्त्ववित् सुखम् आप्नुयाद्’’()  
+
+इत्यादि वचनङ्गळ् आर्त-प्रपन्न-विषयत्तिल् निर्-अवकाशङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+Such **statements** as **are made** in the ślokas -- 
+
+> " The man who **has performed** prapatti after **learning** the truth experiences, in this **life**,  
+the consequences of his prārabdha karma alone (i.e. that karma  which has **begun to yield** its fruit in this **life**),  
+and there after **attains** mokṣa" 
+
+\- such statements **do not apply** to the ārta. 
+</details>
+
+<details><summary>Español</summary>
+
+**Declaraciones** como las que **se hacen** en los ślokas: 
+
+> "El hombre que **ha realizado** prapatti después de **aprender** la verdad **experimenta**, en esta **vida**,  
+las **consecuencias** de su prārabdha karma únicamente (**es decir**, ese karma que ha **comenzado a dar** su fruto en esta **vida**),  
+y allí después **alcanza** mokṣa" 
+
+\- tales declaraciones **no se aplican** al ārta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रारब्धमात्रभुक्तत्र तत्त्ववित् सुखमाप्नुयाद्’’()  इत्यादि वचनङ्गळ् आर्तप्रपन्नविषयत्तिल्निरवकाशङ्गळ्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ननु  
+>
+> > ‘‘प्रारब्ध-मात्र-भुक् तत्र  
+तत्त्व-वित् सुखम् आप्नुयात्’’ 
+> 
+> ऎऩ्गिऱ वचनम्  
+तत्त्ववित्तायिरुन्दालुम् 
+>
+>> तत्त्ववित् सुखमाप्नुयात् 
+>
+> ऎऩ्गिऱ वचनम् तत्त्ववित्तायिरुन्दालुम् अनुभवित्ते ब्रह्मानुभवसुखत्तै अनुभविप्पऩॆऩ्ऱु सॊल्लियिरुक्क  
+आर्त प्रपन्नऩुक्कु अप्पोदे प्रारब्धम् कऴिन्दु मोक्षम् पोवाऩ् ऎऩ्ऱु सॊल्लक्कूडुमोव् 
+
+ऎऩ्ऩ  
+
+> ‘‘आर्तेष्वाशुफला’’,  
+
+> ‘‘सकृदेव कृता ह्यसौ’’ 
+
+ऎऩ्गिऱ वचनम् आर्तऩ् विषयत्तिल् आर्तप्रपत्ति अप्पोदे प्रारब्धत्तै कऴित्तु फलत्तै कॊडुक्कुमॆऩ्ऱु सॊल्लियिरुप्पदाल् उत्सर्गापवादन्यायत्ताले प्रारब्धमात्रभुक् ऎऩ्गिऱ वचनम्  
+आर्तप्रपन्न-व्यतिरिक्त-विषयम् ऎऩ्गिऱार्  
+प्रारब्ध मात्रेति । 
+
+>‘‘दृप्तानामपि जन्तूनां  
+देहान्तर-निवारिणी’’ 
+
+ऎऩ्गिऱ वचनम्  
+दृप्त प्रपन्नऩुक्कुम् अनभ्युपगत-देहान्तर-प्राप्ति- हेतु-भूत-प्रारब्ध-कर्मत्तैप् पोक्कुम्  
+ऎऩ्ऱु सॊल्लुगैयाल्  
+प्रारब्धमात्रभुक् ऎऩ्ऱु प्रारब्ध-सामान्यानुभवानन्तरमे फलम्  
+ऎऩ्ऱु सॊल्लुगिऱ वचनम्  
+दृप्तप्रपन्नेतरविषयमागवे आग वेण्डुमॆऩ्ऱुम् तिरुवुळ्ळम्। +++(4)+++
+</details>
+
+
+## उत्तर-कृत्यांशे
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दृप्त-प्रपन्नऩ् +तिऱत्तिल्+++(=पक्षे)+++  
+उत्तर-कृत्यांशत्तैप् पऱ्ऱ ‘‘मा शुचः’’ ऎऩ्गिऱ वाक्यत्तिऩ् करुत्तै  
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+उत्तर-कृत्यांशाः -  
+ताप-त्रय-सहिष्णुत्वम्,  
+सदा सार्थ-द्वयानुसन्धानम्,  
+उचित-क्षेत्र-वासादि,  
+भगवद्-ज्ञान-दर्शन-प्राप्तिषु निस्संशयत्वम् …  
+</details>
 
 
 
-• These classifications into ārtas and driptas arise on account of differences in the intensity of the Lord's grace which are due to the differences in the good deeds performed by them before.
+<details><summary>मूलम्</summary>
+
+दृप्तप्रपन्नऩ्ऱिऱत्तिल् उत्तरकृत्यांशत्तैप् पऱ्ऱ ‘‘मा शुचः’’ ऎऩ्गिऱ वाक्यत्तिऩ् करुत्तै 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि आर्तप्रपन्नऩ् विषयत्तिल्  
+"मा शुचः" ऎऩ्बदाल् अवऩुक्कु असाधारणमाऩ आयुश्शेषत्तैप्पऱ्ऱ वरुम् शोक-निषेधम् सॊल्लिऱ्ऱॆऩ्ऱु सॊल्लि  
+दृप्तप्रपन्नऩ् विषयत्तिल् "मा शुचः" ऎऩ्बदाल् उत्तरकृत्यांशत्तिल् वरुम् शोकङ्गळिऩ् निषेधम्  
+श्रीभाष्यकारराले गद्यत्तिल् वॆळिय् इडप्-पट्टद् ऎऩ्गिऱार्  
+दृप्तप्रपन्नऩ् ऱिऱत्तिलित्यादिना । 
+
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आध्यात्मिक+आधिभौतिक(+आधिदैविक-दुःख-गन्ध-रहितस् त्वं द्वयं … वक्ता … श्रीरङ्गे सुखम् आस्व ॥)
+
+ऎऩ्ऱु तुडङ्गि  
+
+> ‘‘अतस् त्वं  
+तव तत्त्वतो मद्-ज्ञान-दर्शन-प्राप्तिषु निस्संशयस्  
+सुखम् **आस्व**’’  
+(शरणागति-गद्यम्) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> आध्यात्मिक+आधिभौतिक(+आधिदैविक-दुःख-गन्ध-रहितस् त्वं द्वयं … वक्ता … श्रीरङ्गे सुखम् आस्व ॥)
+
+> ‘‘अतस् त्वं  
+तव तत्त्वतो मद्-ज्ञान-दर्शन-प्राप्तिषु निस्संशयस्  
+सुखम् **आस्व**’’  
+(शरणागति-गद्यम्) 
+
+</details>
+
+<details><summary>English</summary>
+
+(Śrī Rāmānuja) **has described** what the dṛptaprapanna **should do** after the **performance** of prapatti, in his Gadya,  
+in the passages **beginning** with:-
+
+> “ You **will be free** from all trace of suffering or hindrance **caused** by the body, the elements (earth, water, fire, etc.,) or the gods "
+
+and ending with 
+
+> "**Be free** from all uncertainty in regard to **knowledge concerning** me  
+and the **vision**  
+and the **attainment**  of myself".
+</details>
+
+<details><summary>Español</summary>
+
+(Śrī Rāmānuja) **ha descrito** lo que el dṛptaprapanna **debe hacer** después de la **ejecución** de prapatti, en su Gadya,  
+en los pasajes que **comienzan** con:-
+
+> “**Estarás libre** de todo rastro de sufrimiento o obstáculo **provocado** por el cuerpo, los elementos (tierra, agua, fuego, etc.,) o los dioses "
+
+y **terminando** con 
+
+> "**Sé libre** de toda incertidumbre en respecto del **conocimiento** que **me concierne**  
+y la **visión**  
+y la **realización** de mí mismo".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आध्यात्मिकाधिभौतिक’’ ऎऩ्ऱु तुडङ्गि ‘‘अतस्त्वं तव तत्त्वतो मद्ज्ञानदर्शनप्राप्तिषु निस्संशयस्सुखमास्व’’(शरणागति-गद्यम्) ऎऩ्ऱरुळिच् चॆय्दार्।
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उत्तरकृत्यांशङ्गळ् आवऩ:-  
+ताप-त्रय-सहिष्णुत्वम्, द्वयार्थानुसन्धानम्,  
+भगवद्-ज्ञान-दर्शन-प्राप्तिषु निस्संशयत्वम्,  
+उचित-क्षेत्र-वासादिगळ्। +++(5)+++
+
+अदिल् तापत्रयसहिष्णुत्वांशम् 
+
+> ‘‘आध्यात्मिकाधिभौतिकाधिदैविक- दुःख-विघ्न-गन्ध-रहितस्त्वम्’’  
+
+ऎऩ्बदाल् वॆळिय् इडप् पट्टदु। 
+
+द्वयार्थानुसन्धानांशम्  
+
+> ‘‘द्वयमर्थानुसन्धानेन सह सदैवं वक्ता’’ 
+
+ऎऩ्बदाल् वॆळियिडप्पट्टदु। 
+
+उचित-क्षेत्र-वासांशम्  
+
+> ‘‘यावच्छरीरपातमत्रैव श्रीरङ्गे सुखमास्व’’ 
+
+ऎऩ्बदाल् वॆळियिडप्पट्टदु। 
+
+
+भगवद्-ज्ञान-दर्शन-प्राप्तिषु निस्संशयत्वांशम् 
+
+> ‘‘अतस्त्वं तव तत्त्वतो मद्-ज्ञान-दर्शन-प्राप्तिषु निस्संशयः सुखम् आस्व’’ 
+</details>
 
 
 
-Such statements as are made in the ślokas -- " The man who has performed prapatti after learning the truth experiences, in this life, the consequences of his prārabdha karma  alone (i.e.) that karma  which has begun to yield its fruit in this life, and there after attains mokṣa" - such statements do not apply to the ārta. (Śrī Rāmānuja) has described what the dṛptaprapanna should do after the performance of prapatti, in his Gadya, in the passages beginning with:-“ You will be free from all trace of suffering or hindrance caused by the body, the elements (earth, water, fire, etc.,) or the gods "and ending with "Be free from all uncertainty in regard to knowledge concerning me and the vision and the attainment  of myself".
 
 
 
