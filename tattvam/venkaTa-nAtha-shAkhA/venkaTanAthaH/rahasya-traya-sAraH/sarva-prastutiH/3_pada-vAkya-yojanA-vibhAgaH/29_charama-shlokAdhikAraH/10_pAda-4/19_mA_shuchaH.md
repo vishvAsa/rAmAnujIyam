@@ -3573,22 +3573,161 @@ Entonces, en este śloka, **está implícito** que **la anulación** del dolor *
 </details>
 
 
+## उपायानुष्ठान-शोकाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् उपायानुष्ठानत्तिल्  
+पूर्वापर-मध्य-दशैगळैप् पऱ्ऱ  
+संभावितम् आऩ शोकम् ऎल्लाम्  
+इङ्गे कऴिक्कप् पडुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore, here, all grief or despair that **might arise** in regard to the **adoption** of the upāya,  
+whether before its **adoption** or after it, or in the middle of it -  
+all this grief is here (said to be) **annulled**.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, aquí, todo dolor o desesperación que **pueda surgir** con respecto a la **adopción** del upāya,  
+ya sea antes de su **adopción** o después de ella, o en medio de ella -  
+Todo este dolor está aquí (se dice que está) **anulado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालुपायानुष्ठानत्तिल् पूर्वापरमध्यदशैकळैप्पऱ्ऱ संभावितमाऩ शोकमॆल्लामिङ्गे कऴिक्कप्पडुगिऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+अधिकार-विशेषत्तैयुम्, उपाय-विशेषत्तैयुम्, उत्तर-कृत्य-विशेषत्तैयुम्, परिपूर्ण-कैङ्कर्य-पर्यन्त-फल-सिद्धियैयुम् पऱ्ऱप्  
+पल-बडिय् आग शोकम् संभावितम्।
+</details>
+
+<details><summary>English</summary>
+
+If it **be asked** how,  
+the **answer is** as **follows**;  
+Despair **may arise** in many forms ;-  
+(1) in regard to one's competency for the upāya,  
+(2) in regard to (the potency of) the upāya itself,  
+(3) in regard to the things that the prapanna **should do** after prapatti,  
+and so also (4) in regard to the end to be **attained** including the full and perfect **service** or kaiṅkarya to be **rendered**. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Si **se pregunta** cómo,  
+la **respuesta es** como **sigue**;  
+La desesperación **puede surgir** de muchas formas ;-  
+(1) con respecto a la competencia de uno para el upāya,  
+(2) con respecto a (la potencia de) el upāya mismo,  
+(3) con respecto a las cosas que prapanna **debe hacer** después de prapatti,  
+y lo mismo también (4) con respecto al fin a **alcanzar** incluyendo el completo y perfecto **servicio** o kaiṅkarya a **prestar**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; अधिकारविशेषत्तैयुम् उपायविशेषत्तैयुम् उत्तरकृत्यविशेषत्तैयुम् परिपूर्णकैङ्कर्यपर्यन्तफलसिद्धियैयुम् पऱ्ऱप् पलबडियाग शोकम् संभावितम्।
+</details>
+
+### अधिकारे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् अनुष्ठिक्कप् पुगुगिऱ शरणागति-धर्मम्  
+ऒरु जाति-वर्णाश्रमादि-विशेष-नियतम् अल्लामैयाले  
++++(प्रापके)+++ प्राप्य-रुचियुम्, प्रापक-विश्वासमुम्, आकिञ्चन्य-ज्ञानादिगळुम् उण्ड् आऩ बोद्  
+ऒर्-उवर्क्कुम् "नाम् इदुक्कु अधिकारिगळ् अल्लोम्"  
+ऎऩ्ऱु शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+(1) Among them, this dharma **called** śaraṇāgati,  
+which **is to be adopted**, **is not confined** to any particular family (jāti) caste or āśrama.  
+Provided there **are** the desire for **attaining** the end in view  
+and faith in the upāya which **is** the means for that **attainment**  
+and such things as **knowledge** of one's being destitute (of other upāyas),  
+there **is no** reason why any one **should despair** at the thought that  
+he **may not be competent** (to **adopt** the upāya).
+</details>
+
+<details><summary>Español</summary>
+
+(1) Entre ellos, este dharma **llamado** śaraṇāgati,  
+que **debe ser adoptado**, **no está limitado** a ninguna casta familiar (jāti) o āśrama en particular.  
+Siempre que **exista** el deseo de **alcanzar** el fin a la vista  
+y fe en el upāya que **es** el medio para ese **logro**  
+y cosas como el **conocimiento** de que uno es indigente (de otros upāyas),  
+**No hay** ninguna razón por la que alguien **deba desesperarse** ante la idea de que  
+él **puede no ser competente** (para **adoptar** el upāya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् अनुष्ठिक्कप् पुगुगिऱ शरणागतिधर्मम् ऒरु जाति वर्णाश्रमादिविशेषनियतमल्लामैयाले प्राप्यरुचियुम् प्रापक विश्वासमुम् आकिञ्चन्यज्ञानादिगळुमुण्डाऩबोदॊरुवर्क्कुम् नामिदुक्कु अधिकारिकळल्लोमॆऩ्ऱु शोकिक्कवेण्डा। 
+</details>
+
+### स्वरूपे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्वुपाय विशेषम्  
+स-परिकरम् आग क्षण-काल-साध्यम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+(2) The (sādhya) upāya (prapatti) **is capable** of being **performed** or **adopted** in a single instant with all its accessories, 
+</details>
+
+<details><summary>Español</summary>
+
+(2) The (sādhya) upāya (prapatti) **is capable** of being **performed** or **adopted** in a single instant with all its accessories, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपाय विशेषम् सपरिकरमाग क्षणकालसाध्यमाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुकरम् आय्, आवृत्ति-निरपेक्षम् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+it **is** easy of **performance**;  
+it **does not need** to **be repeated**; 
+</details>
+
+<details><summary>Español</summary>
+
+**es** fácil de **rendimiento**;  
+**no necesita** ser **repetido**;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुकरमाय् आवृत्तिनिरपेक्षमाय् 
+</details>
 
 
 
 
-
-
-
-Therefore, here, all grief or despair that might arise in regard to the adoption of the upāya, whether before its adoption or after it, or in the middle of it - all this grief is here (said to be) annulled,
-
-
-
-If it be asked how, the answer is as follows; Despair may arise in many forms ;- (1) in regard to one's competency for the upāya, (2) in regard to (the potency of) the upāya itself, (3) in regard to the things that the prapanna should do after prapatti, and so also (4) in regard to the end to be attained including the full and perfect service or kaiṅkarya to be rendered. (1) Among them, this dharma called śaraṇāgati, which is to be adopted, is not confined to any particular family (jāti) caste or āśrama. Provided there are the desire for attaining the end in view and faith in the upāya which is the means for that attainment and such things as knowledge of one's being destitute (of other upāyas), there is no reason why any one should despair at the thought that he may not be competent (to adopt the upāya).
-
-
-
-(2) The (sādhya) upāya (prapatti) is capable of being performed or adopted in a single instant with all its accessories, it is easy of performance; it does not need to be repeated; it does not take long to bear fruit; its accessories are not difficult; it is capable of yielding the desired fruit just at the time when it is desired; therefore to the man who is destitute (of other upāyas ) and who is afraid of delay (in attaining the desired end), there is no reason for despair at all thinking that he may have to adopt other upāyas like bhakti , which have to be practised for a long time with all accessories thereof, which are difficult of performance even to those who are very careful and whose accessories are also equally difficult to accomplish and which yield the desired fruit only after a long time,
+it does not take long to bear fruit; its accessories are not difficult; it is capable of yielding the desired fruit just at the time when it is desired; therefore to the man who is destitute (of other upāyas ) and who is afraid of delay (in attaining the desired end), there is no reason for despair at all thinking that he may have to adopt other upāyas like bhakti , which have to be practised for a long time with all accessories thereof, which are difficult of performance even to those who are very careful and whose accessories are also equally difficult to accomplish and which yield the desired fruit only after a long time,
 
 
 
