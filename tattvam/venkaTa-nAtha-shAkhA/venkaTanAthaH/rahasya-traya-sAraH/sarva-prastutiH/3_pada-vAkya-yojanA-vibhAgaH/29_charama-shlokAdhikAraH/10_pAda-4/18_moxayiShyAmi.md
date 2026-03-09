@@ -1416,7 +1416,7 @@ La **desaparición** o **destrucción** del karma (por la grandeza de vidyA) pas
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ-श्लेषम् आवदु;  
-इव्व्-आश्रितर् तिऱत्तिल्  
+इव्व्-आश्रितर् तिऱत्तिल्+++(=पक्षे)+++  
 इक् कर्म-फल-प्रदानाभिसन्धिय् उदियाद्-ऒऴिगै। 
 </details>
 
