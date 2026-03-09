@@ -2699,13 +2699,13 @@ ni siquiera por un momento (ārta).
 
 <details><summary>English</summary>
 
-On the other hand, the prapanna who **desires** to **live** a long life (dripta) **commits** an offence,  
+On the other hand, the prapanna who **desires** to **live** a long life (drpta) **commits** an offence,  
 if he **violates** the rule in the śāstras which **enjoins** the **protection** of one's own life.
 </details>
 
 <details><summary>Español</summary>
 
-Por otro lado, el prapanna que **desea** **vivir** una larga vida (dripta) **comete** una ofensa,  
+Por otro lado, el prapanna que **desea** **vivir** una larga vida (drpta) **comete** una ofensa,  
 si **viola** la regla de los śāstras que **ordena** la **protección** de la propia vida.
 </details>
 
@@ -2833,9 +2833,9 @@ De hecho, el ārtaprapanna que **reza** por la **muerte** inmediata **es** aquel
 
 <details><summary>English</summary>
 
-Prapannas **are spoken of** as **belonging** to two classes ārtas and driptas  
+Prapannas **are spoken of** as **belonging** to two classes ārtas and drptas  
 on account of the **difference** in the intensity of the grief **felt** by them respectively.  
-(It should not, therefore, **be thought** that the latter viz., the dripta **has no** grief.) 
+(It should not, therefore, **be thought** that the latter viz., the drpta **has no** grief.) 
 </details>
 
 <details><summary>Español</summary>
@@ -4250,6 +4250,7 @@ y **desaparecer** rápidamente.
 </details>
 
 ### देहानुवृत्तौ
+#### आर्त-प्रपन्ने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्त-प्रपन्नऩुक्क् अप्-पोदे फल-सिद्धिय् उण्डाम् बडिय् इरुक्कैयाले
@@ -4275,17 +4276,275 @@ en el mismo momento de **realizar** prapatti,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘देहे चेत् प्रीतिमान् मूढो  
+**भविता** नरकेऽपि सः’’  
+(विष्णुपुराणम् १-१७-६२) 
+
+ऎऩ्ऩुम् बडि 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘देहे चेत् प्रीतिमान् मूढो  
+**भविता** नरकेऽपि सः’’  
+(विष्णुपुराणम् १-१७-६२) 
+
+</details>
+
+<details><summary>English</summary>
+
+(for the body **has been** thus **described**):- 
+
+> "If a man **is fond** of his body constituted of flesh, blood, pus, foecal matter, urine, muscle, fat and bone --  
+then he **should be fond** also of hell".
+</details>
+
+<details><summary>Español</summary>
+
+(pues el cuerpo **ha sido** así **descrito**):- 
+
+> "Si un hombre **tiene cariño** a su cuerpo compuesto de carne, sangre, pus, materia fecal, orina, músculos, grasa y huesos...  
+entonces **debería gustar** también el infierno".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘देहे चेत् प्रीतिमान् मूढो भविता नरकेऽपि सः’’(विष्णुपुराणम् १-१७-६२) ऎऩ्ऩुम्बडि 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नरक-तुल्यम् आऩ इश् शरीरम् अनुवर्तिक्किऱदोव् 
+
+ऎऩ्ऱु शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+there **is no** reason why he **should feel grieved**  
+at the **thought** that the body which **resembles** hell **would continue**, 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** ninguna razón por la que él **deba sentirse** afligido.  
+ante el **pensamiento** de que el cuerpo que **parece** el infierno **continuaría**,
+</details>
 
 
-there is no reason why he should feel grieved at the thought thar the body which resembles hell would continue, (for the body has been thus described):- " If a man is fond of his body constituted of flesh, blood, pus, foecal matter, urine, muscle, fat and bone -- then he should be fond also of hell".
+<details><summary>मूलम्</summary>
 
+नरकतुल्यमाऩ इश् शरीरमनुवर्तिक्किऱदोवॆऩ्ऱु शोकिक्क वेण्डा। 
+</details>
 
+#### दृप्त-प्रपन्ने
+
+<details><summary>English</summary>
 
 As for the dṛptaprapanna :
+</details>
+
+<details><summary>Español</summary>
+
+En cuanto al dṛptaprapanna:
+</details>
 
 
 
-All rites or dharmas of renunciation such as karma yoga will never be in vain as stated in the śloka :-- "The beginning that has been made in this karma -yoga will never prove futile. There is no harm in its being left incomplete; even a fraction of it saves a man from the great fear of saṁsāra" " The foundation that is laid is, as it were, a foundation of stone and especially with regard to the man who has performed śaraṇāgati, it has been stated: "I will never forsake him. Further the dripta prapanna is certain of attaining what he desired, though it is delayed until the time specified by him. So the dripta prapanna has no reason to feel grieved at the thought that the good deed in the form of prapatti might be counteracted by certain evil deeds which might be thought capable of doing so, as has been said in the śloka “ A yajna ""performed by one loses its effect by untruthfulness, tapas perishes by arrogance, age becomes diminished by contemptuous talk of Brahmins and gifts of charity lose their virtue by their revelation.” since he has prayed for mokṣa at the end of this life, he has no reason to feel grieved at the thought that, owing to certain prarabdha karma  ( which has begun to yield its fruit), he might have to take another birth.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्म-योगम् मुदल् आऩ निवृत्ति-धर्मङ्गळ् ऎल्लाम् 
+
+> ‘‘नेहाभिक्रम-नाशोऽस्ति’’  
+(गीता २-४०) 
+
+इत्य्-आदिगळिऱ् पडियेय्  
+इट्ट-पडै कऱ्-पडैय् आगैयालुम्
+</details>
+
+<details><summary>English</summary>
+
+All rites or dharmas of **renunciation** such as karma yoga  
+**will never be** in vain  
+as **stated** in the śloka :-- 
+
+> "The **beginning** that **has been made** in this karma-yoga  
+**will never prove** futile.  
+There **is no** harm in its being left incomplete;  
+even a fraction of it **saves** a man from the great fear of saṁsāra" 
+
+The foundation that **is laid is**, as it were, a foundation of stone  
+</details>
+
+<details><summary>Español</summary>
+
+Todos los ritos o dharmas de **renuncia** como el karma yoga.  
+**nunca será** en vano  
+como **indica** en el śloka:-- 
+
+> "El **comienzo** que **se ha hecho** en este karma-yoga  
+**nunca resultará** inútil.  
+**No hay** ningún daño en dejarlo incompleto;  
+incluso una fracción de ello **salva** a un hombre del gran miedo al saṁsāra" 
+
+El fundamento que **se pone** es, por así decirlo, un fundamento de piedra
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्मयोगम् मुदलाऩ निवृत्ति धर्मङ्गळॆल्लाम् ‘‘नेहाभिक्रमनाशोऽस्ति’’(गीता २-४०) इत्यादिगळिऱ्पडिये यिट्ट पडै कऱ्पडैयागैयालुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश्-शरणागतऩैप् पऱ्ऱ विशेषित्तु  
+
+> ‘‘**न त्यजेयं** कथंचन’’ 
+
+ऎऩ्गैयालुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘**न त्यजेयं** कथंचन’’ 
+</details>
+
+<details><summary>English</summary>
+
+and especially with regard to the man who has performed śaraṇāgati, it **has been stated**: 
+
+> **I will never forsake** him. 
+</details>
+
+<details><summary>Español</summary>
+
+y especialmente con respecto al hombre que ha realizado śaraṇāgati, **se ha dicho**: 
+
+> **Nunca lo abandonaré**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इश्शरणागतऩैप् पऱ्ऱ विशेषित्तु ‘‘न त्यजेयं कथं चन’’ ऎऩ्गैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दृप्त-प्रपन्नऩुक्कुङ् कोलिऩ कालत्त् अळवुम् विळम्बित्तालुम्  
+फल-सिद्धियिल् संशयम् इल्लामैयाले 
+</details>
+
+<details><summary>English</summary>
+
+Further the drpta prapanna **is certain** of **attaining** what he **desired**,  
+though it **is delayed** until the time **specified** by him.  
+</details>
+
+<details><summary>Español</summary>
+
+Además, el drpta prapanna **está seguro** de **alcanzar** lo que **deseaba**,  
+aunque **se retrasa** hasta el momento **especificado** por él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दृप्तप्रपन्नऩुक्कुङ्गोलिऩ कालत्तळवुम् विळम्बित्तालुम् फलसिद्धियिल् संशयमिल्लामैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘यज्ञो ऽनृतेन **क्षरति**  
+तपः **क्षरति** +++(गर्वि-कृताद्)+++ विस्मयात् ।  
+आयुर् विप्र-परीवादाद्  
+दानञ् च परिकीर्तनात्॥’’  
+(मऩुस्मृति ४-२३७)  
+> 
+> इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘यज्ञो ऽनृतेन **क्षरति**  
+तपः **क्षरति** +++(गर्वि-कृताद्)+++ विस्मयात् ।  
+आयुर् विप्र-परीवादाद्  
+दानञ् च परिकीर्तनात्॥’’  
+(मऩुस्मृति ४-२३७)  
+
+</details>
+
+<details><summary>English</summary>
+
+> as **has been said** in the śloka  
+> 
+> > “ A yajna **performed** by one **loses** its effect by untruthfulness,  
+tapas **perishes** by arrogance,  
+age **becomes diminished** by contemptuous talk of Brahmins  
+and gifts of charity **lose** their virtue by their revelation.” 
+
+</details>
+
+<details><summary>Español</summary>
+
+> como **se ha dicho** en el śloka  
+
+> > “Un yajña **realizado** por uno **pierde** su efecto por la falsedad,  
+tapas **perece** por la soberbia,  
+la edad **disminuye** al **hablar** despectivamente de los brahmanes  
+y los regalos de caridad **pierden** su virtud por su **revelación**”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यज्ञोऽनृतेन क्षरति तपः क्षरति विस्मयात् । आयुर्विप्रपरीवादाद्दानञ्च परिकीर्तनात्’’(मऩुस्मृति ४-२३७)  इत्यादिगळिऱ्पडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सुकृत-नाशकङ्गळ् आय् इरुप्पऩ सिल दुष्कृतङ्गळाले  
+इप् प्रपत्ति-रूपम् आऩ सुकृतम् नशित्तु  
+फलङ् किडैयाद् ऒऴियिल्  
+सॆय्वद् ऎऩ्ऩ् 
+
+ऎऩ्ऱु शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+> the good deed in the form of prapatti  
+**might be counteracted** by certain evil deeds  
+which **might be thought** capable of **doing** so.  
+
+So the drpta prapanna **has no** reason to **feel grieved** at this **thought**.
+</details>
+
+<details><summary>Español</summary>
+
+> la buena acción en forma de prapatti  
+**podría ser contrarrestado** por ciertas malas acciones  
+que **podría pensarse** capaz de **hacerlo**.  
+
+Así que drpta prapanna **no tiene** motivos para **sentirse afligido** por este **pensamiento**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुकृतनाशकङ्गळायिरुप्पऩ सिल दुष्कृतङ्गळाले इप् प्रपत्तिरूपमाऩ सुकृतम् नशित्तु फलङ् गिडैयादॊऴियिल् सॆय्वदॆऩ् ऩॆऩ्ऱु शोकिक्कवेण्डा। 
+</details>
+
+
+
+
+
+since he has prayed for mokṣa at the end of this life, he has no reason to feel grieved at the thought that, owing to certain prarabdha karma  ( which has begun to yield its fruit), he might have to take another birth.
 
 
 
