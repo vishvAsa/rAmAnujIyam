@@ -388,6 +388,12 @@ eso **está** ahora **disipado**.
 > अभिमत-फलत्तुक्कु दुष्-कर-साधनमुम् अऩ्ऱिक्के सर्व-विरोधि--निवर्तन-क्षममुम् आय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अभिमत-फलार्थं दुष्-कर-साधन-विलक्षणे सर्व-विरोधि-निवर्तन-क्षमे 
+</details>
+
+
 <details><summary>English</summary>
 
 > (After **I have taught you** this upāya), which,  
@@ -426,6 +432,12 @@ que **se interponen** en el camino
 इव् उपाय विशेषम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> फल-विलम्ब-रहिते ऽस्मिन्न् उपाय-विशेषे 
+</details>
+
+
 <details><summary>English</summary>
 
 and **is not liable** to **cause** any (undue) delay in the **attainment** of that aim -- 
@@ -454,6 +466,13 @@ y **no es responsable** de **causar** ningún **retraso** (indebido) en el **log
 उऩक्कु शोकिक्कप् प्राप्तिय् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> … उपदिष्टे जाते सति  
+उपाय-दौष्कर्यादि-निबन्धनस्य तव शोचनस्य प्राप्तिर् नास्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 > after this **has been taught** to you,  
@@ -479,6 +498,13 @@ there **is** no room for **despair** due to such things as the difficulty of **a
 > इव्व् उपायम् अनुष्ठित्ताल्  
 उऩ् कार्यम् ऎऩक्कु भरम् आय् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्मिन्न् उपाये अनुष्ठिते,  
+त्वत्-कार्ये मम भरत्वेनावस्थिते 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -506,6 +532,14 @@ tu bienestar **es** mi carga o responsabilidad
 उऩ्ऩै रक्षियाद बोदु  
 ऎऩक्क् अवद्यम् आम् बडिय् आय् इरुक्कुम् दशैयिलुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मयि च फल-दातृत्वेनावस्थिते,  
+त्वद्-अरक्षणे ममावद्यावहे च सति  
+अस्यां दशायां 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -542,6 +576,15 @@ Si **no te protejo**,
 ऎऩ्ऱु तिरुव्-उळ्ळम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> धनादि-तुल्येन त्वया शोचनस्य  
+किं प्राप्तिर् अस्ति?
+
+इत्य्-अत्र तात्पर्यम् ॥
+[[P412]]
+</details>
+
 <details><summary>English</summary>
 
 > You **are**, as it were, my property or wealth (to look after)  
@@ -572,6 +615,14 @@ y **no hay ninguna** razón por la que **debas llorar**".
 बन्धु-वधादि-निमित्तम् आऩ पऴैय शोकम् अऩ्ऱु;  
 प्रकरणानुगुणम् आऩ शोकान्तरम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इह निवर्त्यमानः शोको  
+यथाऽवस्थितात्मोपदेशादिभिर् निवृत्तो बन्धु-वधादि-निमित्तः प्राचीनः शोको न ;  
+किं तु प्रकरणानुगुणं शोकान्तरम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -607,6 +658,11 @@ eso **tiene** que **ser consistente** con el contexto.
 ऎङ्ङऩेय् ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम्भूतम् इति चेत् — 
+</details>
+
 <details><summary>English</summary>
 
 If it **be asked** how, the **answer is** as **follows** :- 
@@ -630,13 +686,13 @@ Si **se le pregunta** cómo, la **respuesta es** la **siguiente**:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > ‘‘दैवी +++(गुण-)+++सम्पद् **विमोक्षाय**  
+> ‘‘दैवी +++(गुण-)+++सम्पद् **विमोक्षाय**  
 **निबन्धाया** ऽऽसुरी **मता**।’’ 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> > ‘‘दैवी +++(गुण-)+++सम्पद् **विमोक्षाय**  
+> ‘‘दैवी +++(गुण-)+++सम्पद् **विमोक्षाय**  
 **निबन्धाया** ऽऽसुरी **मता**।’’ 
 </details>
 
@@ -664,11 +720,22 @@ las cualidades que **hacen** la naturaleza de los Asuras
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ऎऩ्ऱु पिरित्तुच् चॊऩ्ऩ वाऱे+++(=रीत्यैव)+++  
-नाम् आसुर-प्रकृतिगळ् आगिऱ् सॆय्वद् ऎऩ्ऩ् 
+ऎऩ्ऱु पिरित्तुच् चॊऩ्ऩ वाऱे+++(=रीत्यैव)+++  
+
+> नाम् आसुर-प्रकृतिगळ् आगिऱ् सॆय्वद् ऎऩ्ऩ् 
 
 ऎऩ्ऱु शोकित्त अर्जुनऩैप् पऱ्ऱ
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति विभज्योक्त-मात्र एव,  
+
+> 'वयम् आसुर-प्रकृतयश् चेत् किं कुर्याम' 
+
+इति शोचन्तम् अर्जुनं प्रति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -712,6 +779,8 @@ si **perteneciera** a la clase de Asuras.
 > ‘‘**मा शुचस्** सम्पदन् दैवीम् +++(प्राप्तुम्)+++  
 **अभिजातोऽसि** पाण्डव।’’  
 (गीता १६-५) 
+
+इति यथोपादेशि—  
 </details>
 
 <details><summary>English</summary>
