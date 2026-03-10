@@ -15,9 +15,17 @@ EL SIGNIFICADO DE ‘MĀ ŚUCHAH’ (**NO TE LLORES - NO DESESPERES**) página 6
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इऩि मेल् ‘‘मा शुचः’’ ऎऩ्गिऱव् इत्ताले कीऴरुळिच्चॆय्दवर्थत्तिल् तीर्वु प्रकाशितमागिऱदु। 
+इऩि मेल् ‘‘मा शुचः’’ ऎऩ्गिऱव् इत्ताले  
+कीऴ् अरुळिच् चॆय्दव् अर्थत्तिल्  
+तीर्वु+++(=निश्चयः)+++ प्रकाशितम् आगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इतः परं "मा शुचः" इत्य् अनेन 
+पूर्वोक्तार्थे यत् फलितं  
+तत् प्रकाशितं भवति । 
+</details>
 
 
 <details><summary>English</summary>
@@ -56,6 +64,16 @@ A partir de entonces las palabras,
 प्रपन्नऩ् आऩ पिऩ्बु  
 शोकिक्कै विध्य्-अतिलङ्घनम् आय् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कैश्चित्, 
+
+> "मा शुचः" इत्य्-अस्य विधित्वात्  
+प्रपन्नेन सता  
+पश्चाच् छोचनस्य विध्य्-अतिलङ्घन-रूपत्वात् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -109,6 +127,15 @@ he **would be violating** the **injunction**
 आगिऱ प्रत्यवायम् उण्ड् आम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एतम् उपाय-भूतः शरण्य उपेक्षत इति  
+अस्य स्वकार्यस्य स्वयम् एव निर्वाहकः स्याद्  
+इत्य् एवं- रूपः प्रत्यवायः स्याद्  
+
+</details>
+
+
 <details><summary>English</summary>
 
 and the Saviour who **is** the upāya  
@@ -136,14 +163,24 @@ El hombre sería así **responsable**, en su opinión, de esta desventaja o ries
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्ऱु सॊऩ्ऩव् इडम्  
+
 बुद्धि-पूर्वोत्तराघत्तैयुम् ‘‘सर्व-पापेभ्यः’’ ऎऩ्गिऱव् इडत्तिले कूट्टित्  
 ताङ्गळे पण्णिऩ व्याख्यानत्तुक्कुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य् उक्तम् अपि (उक्तम् ; तद् अपि)  
+
+बुद्धि-पूर्वोत्तराघस्यापि "सर्व-पापेभ्यः” इत्य्-अत्र समुच्चयं कृत्वा  
+स्व-कृतस्य व्याख्यानस्य 
+</details>
+
+
 <details><summary>English</summary>
 
 This view (**is opposed**) to their own **commentary** on the words "from all sins"  
-**showing** there the sins **committed** deliberately after prapatti. +++(Commentary corrected.)+++ 
+**showing** there the sins **committed** deliberately after prapatti. +++(Translation corrected.)+++ 
 </details>
 
 <details><summary>Español</summary>
@@ -166,6 +203,14 @@ Este punto de vista (**se opone**) a su propio **comentario** sobre las palabras
 
 ऎऩ्गिऱ वाक्यङ्गळुक्कुम् विरुद्धम् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रपन्नं शरण्यः कथंचिद् अपि न त्यजेद्  
+
+इति वाक्यस्य च विरुद्धम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -197,6 +242,18 @@ el Salvador **nunca desamparará** al hombre que **ha buscado** Su **protección
 ऎऩ्ऩुम् इडत्तैच् चॊल्लिक् कॊण्डु  
 विश्वासत्तै दृढीकरिक्कैयिले तात्पर्यम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः, अस्मिन्न् उपाये प्रवर्तमानस्य  
+
+> शोक-हेतूनां सर्वेषां निवृत्तेर्  
+न शोचितव्यम् 
+
+इत्य् एतद्-अर्थ-प्रतिपादनेन  
+विश्वास-दृढी-करणे [अस्य] तात्पर्यं [-एन] भाव्यम् ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4249,7 +4306,7 @@ y **desaparecer** rápidamente.
 प्रपन्नऩुक्कु मिऩ्ऩॊळिप्पोले तोऱ्ऱि निलै यिल्लादे पोगिऱ बुद्धिपूर्वापराधलेशङ्गळाले नरकादिमहाक्लेशङ्गळ्वरिल् सॆय्वदॆऩ्ऩॆऩ्ऱु शङ्कित्तु शोकिक्कवेण्डा।
 </details>
 
-### देहानुवृत्तौ
+### फल-प्राप्तौ
 #### आर्त-प्रपन्ने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4541,22 +4598,193 @@ Así que drpta prapanna **no tiene** motivos para **sentirse afligido** por este
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इश् शरीरानन्तरम् मोक्षम् पॆऱ वेणुम् 
+
+ऎऩ्ऱु कालङ् कुऱिक्कैयाले  
+
+> जन्मान्तरादि-हेतुक्कळ् आऩ प्रारब्ध-कर्म-विशेषङ्गळाले  
+नमक्कु जन्मान्तरङ्गळ् वरिल् सॆय्वद् ऎऩ्ऩ् 
+
+ऎऩ्ऱु शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+Since he **has prayed** for mokṣa at the end of this life,  
+he **has no** reason to **feel** grieved at the **thought** that,  
+owing to certain prarabdha karma  ( which **has begun** to **yield** its fruit),  
+he **might have** to **take** another **birth**.
+</details>
+
+<details><summary>Español</summary>
+
+Puesto que él **ha orado** por mokṣa al final de esta vida,  
+él **no tiene** motivos para **sentirse** afligido ante el **pensamiento** de que,  
+debido a cierto prarabdha karma (que **ha comenzado** a **dar** su fruto),  
+él **podría tener** que **dar** otro **nacimiento**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इश् शरीरानन्तरम् मोक्षम् पॆऱवेणुमॆऩ्ऱु कालङ्गुऱिक्कैयाले जन्मान्तरादिहेतुक्कळाऩ प्रारब्धकर्मविशेषङ्गळाले नमक्कुजन्मान्तरङ्गळ्वरिल् सॆय्वदॆऩ्ऩॆऩ्ऱु शोकिक्क वेण्डा। 
+</details>
 
 
 
-since he has prayed for mokṣa at the end of this life, he has no reason to feel grieved at the thought that, owing to certain prarabdha karma  ( which has begun to yield its fruit), he might have to take another birth.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्य-प्रयोजनऩ् आय् प्रपन्नऩ् आऩ इवऩुक्कु  
+प्रतिबन्धकङ्गळ् आऩ सर्व-पापङ्गळुङ् कऴिकैयाले  
+
+> केवलात्मानुभवादिगळ् आऩ अन्तरायङ्गळाले परम-फलत्तुक्कु विलम्बं वरुगिऱदोव् 
+
+ऎऩ्ऱु शोकिक्कवेण्डा।
+</details>
+
+<details><summary>English</summary>
+
+Since he **is** a prapanna for no other object (than mokṣa)  
+all his sins which **might act** as **obstacles**  
+**will be absolved**;  
+therefore he **has no** reason to **grieve** that  
+the supreme end **desired** by him **would suffer delay**  
+owing to such **hindrances** as the **enjoyment** of his mere disembodied self.
+</details>
+
+<details><summary>Español</summary>
+
+Ya que él **es** un prapanna para ningún otro objeto (que mokṣa)  
+todos sus pecados que **podrían actuar** como **obstáculos**  
+**será absuelto**;  
+
+por lo tanto él **no tiene** ninguna razón para **lamentarse** de que  
+el fin supremo **deseado** por él **sufriría retraso**  
+debido a **obstáculos** como el **disfrute** de su mero yo incorpóreo.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Since he is a prapanna for no other object (than mokṣa). all his sins which might act as obstacles will be absolved; therefore he hus no reason to grieve that the supreme end desired by him would suffer delay owing to such hindrances as the enjoyment of his mere disembodied self.
+अनन्यप्रयोजनऩाय् प्रपन्नऩाऩ इवऩुक्कु प्रतिबन्धकङ्गळाऩ सर्वपापङ्गळुङ्गऴिगैयाले केवलात्मानुभवादिगळाऩ अन्तरायङ्गळाले परमफलत्तुक्कु विळम्बम् वरुगिऱदोवॆऩ्ऱु शोकिक्कवेण्डा।
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडि सर्व-प्रकार-शोक-हेतुक्कळुङ् कऴियुम् पडि  
+ऎऩक्क् अनुग्रह-विषय-भूतऩ् आऩ नी 
+</details>
+
+<details><summary>English</summary>
+
+> “You **have become** the **recipient** of my grace  
+which **can cancel** the causes of all forms of grief.  
+</details>
+
+<details><summary>Español</summary>
+
+> “Tú **te has convertido** en el **destinatario** de mi gracia  
+que **puede cancelar** las causas de todas las formas de duelo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सर्वप्रकारशोकहेतुक्कळुङ् गऴियुम् पडि ऎऩक्कनुग्रहविषयभूतऩाऩ नी 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The Lord intends to say :- “You have become the recipient of my grace which can cancel the causes of all forms of grief. So if, hereafter, you should entertain grief or despair, it would be as foolish as when you had no grief or despair before performing prapatti, while being subject to punishment by me. This grief or despair is not in keeping with the peculiar potency of this upāya,
+> इऩि शोकिक्कैय् आवदु  
+मुऩ्बु निग्रह-विषय-भूतऩ् आय् निऩ्ऱ दशैयिल् शोकियादाप् पोले  
+अनिपुण-कृत्यम् आय् 
+</details>
 
-with my glory as Siddhopāya who has accepted the responsibility of protecting you and with your state as one who has done what he ought to do by the surrender of all responsibilities to me." In their last momentsācāryas teach their good disciples the purport given above of this last sentence,’ mā śucah’ "Do not grieve", which is the quintessence of the carama-śloka (the last śloka ),
+<details><summary>English</summary>
+
+> So if, hereafter, you **should entertain** grief or despair,  
+it **would be** as foolish as when  
+you **had no** grief or despair  
+before **performing** prapatti,  
+while **being** subject to **punishment** by me. 
+</details>
+
+<details><summary>Español</summary>
+
+> Entonces, si en el futuro **abrigas** pena o desesperación,  
+**sería** tan tonto como cuando  
+>
+> **No tenías** pena ni desesperación  
+antes de **realizar** prapatti,  
+mientras **siendo** sujeto a **castigo** por mi parte.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Among the words of this śloka (caramaśloka) are expressed explicitly by the words themselves or suggested implicitly by their meaning, the following ideas concerning this upāya :(1) the person who is competent for it, the preliminary condition of being destitute (of all other upāyas), the needlessness, for it, of any auxiliary rites which are too difficult to perform, the inappropriateness of trying to perform actions which are beyond one's power, the futility of obstinately attempting to do what is impossible (for one) this upāya being such as will not tolerate (the adoption of any other upāya); (2) the Saviour who alone can be of use to the aspirant for mukti, the Saviour's being perfect and full in such qualities as accessibility and good nature; the Saviour being the teacher of what is most salutary (hita); the end of attainment (viz, the Lord) being Himself the means of attainment; His being capable of acting in all matters without being hindered (by any one) and without the aid of any one else ; His expecting a mere pretext (or vyāja) for protecting (one): His not requiring the intervention of any other upāya: His being capable of being propitiated without any other auxiliary rites: His being the Saviour who can grant whatever fruit is desired; His intolerance of the acceptance of any other protector; His being ever in the company of Śrī (or Lakṣmī); His capacity for being placed in the position of other upāyas; His readiness to accept the responsibility or burden (of protecting one); (3) the Sādhyopāya which is of the nature of the surrender of responsibility; its ancillaries; its being within the competency of every one; its requiring to be perforined only once; its being easy of performance; its capacity to bear fruit without delay its being potent enough to annul prarabdhakarma ; (4) the man who performs prapatti being a doer or agent subject to the Supreme Self; his being subject to the authority of the śastras; (5) The Saviour's supreme compassion; His being ever gracious; His independence and freedom from subservience to any one else ; His being irresistible; His not requiring any other aid, His waiting for a pretext (to protect the jīva); (6) the prapanna being one who has done what he onght to do; the absence, on his part, of any need to do anything else (than prapatti) in regard to the upāya adopted by him or the fruit expected from it; his being extremely dear to Bhagavān; (7) the many obstacles ( to mukti) past, present and future; and the varied nature of the different groups of obstacles, their being capable of annulment by the mere will of Iśvara, the time of this annulment being dependent on the will of the prapanna: the nature of the annulment of these obstacles; (8) the manifestation of one's real and essential nature (svarūpa), which is different from the mere enjoyment of one's dis-embodied self : the full and perfect enjoyment of Bhagavān ; service of all kinds; freedom from coming back (to saṁsāra); (9) the manifold causes of grief or despair before (the performance of prapatti), the freedom from such grief or despair after (its performance); freedom from all uncertainty, at all times of reflection; freedom from grief, freedom from fear, a peculiar delight, biding the time when the body will perish and the delight in the performance of service free froin offence; these are the principal ideas (suggested) along with other things required for them.
+इऩि शोकिक्कैयावदु मुऩ्बु निग्रहविषयभूतऩाय् निऩ्ऱ दशैयिल् शोकियाताप्पोले अनिपुणकृत्यमाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इव् उपाय-विशेष-वैलक्षण्यत्तुक्कुम्,  
+रक्षण-भरम् एऱ् इट्टुक् कॊळ्ळुगिऱ सिद्धोपाय-भूतऩ् आऩव् ऎऩ् प्रभावत्तुक्कुम्,  
+ऎऩ् पक्कलिले सर्व-भर-न्यासम् पण्णि  
+कृत-कृत्यऩ् आय् इरुक्किऱव् उऩ् ऩिलैक्कुन्,  तगुदिय्+++(=योग्यम्)+++ अऩ्ऱ् 
+
+ऎऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+<details><summary>English</summary>
+
+The Lord **intends to say** :- 
+
+
+> This grief or despair **is not** in **keeping** with the peculiar potency of this upāya,  
+with my glory as Siddhopāya who **has accepted** the **responsibility** of **protecting** you  
+and with your state as one who **has done** what he **ought to do** by the **surrender** of all **responsibilities** to me." 
+</details>
+
+<details><summary>Español</summary>
+
+El Señor **tiene la intención de decir** :- 
+
+
+> Este dolor o desesperación **no** está **en consonancia** con la potencia peculiar de este upāya,  
+con mi gloria como Siddhopāya quien **ha aceptado** la **responsabilidad** de **protegerte**  
+y con tu estado como alguien que **ha hecho** lo que **debe hacer** mediante la **entrega** de todas las **responsabilidades** hacia mí."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव् उपायविशेषवैलक्षण्यत्तुक्कुम् रक्षणभरमेऱिट्टुक्कॊळ्ळुगिऱ सिद्धोपायभूतऩाऩ वॆऩ् प्रभावत्तुक्कुम् ऎऩ् पक्कलिले सर्वभरन्यासम् पण्णि कृतकृत्यऩायिरुक्किऱ वुऩ्ऩिलैक्कुन् दगुदियऩ्ऱॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि चरम-श्लोकत्तिल् सारतमम् आऩ ‘‘मा शुचः’’ ऎऩ्गिऱ चरम-वाक्यत्तिल्  
+तात्पर्यत्तैत् तङ्गळ् चरम-दशैयिले आचार्यर्गळ् सच्-छिष्यर्गळुक्क् उपदेशिप्पर्गळ्।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+In their last moments ācāryas **teach** their good disciples the purport **given** above of this last sentence, ’mā śucah’ "**Do not grieve**",  
+which **is** the quintessence of the carama-śloka (the last śloka ).
+</details>
+
+<details><summary>Español</summary>
+
+En sus últimos momentos, los ācāryas **enseñan** a sus buenos discípulos el significado **dado** arriba de esta última frase, ’mā śucah’ "**No te aflijas**",  
+que **es** la quintaesencia del carama-śloka (el último śloka).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि चरमश्लोकत्तिल् सारतममाऩ ‘‘मा शुचः’’ ऎऩ्गिऱ चरमवाक्यत्तिल् तात्पर्यत्तैत् तङ्गळ् चरमदशैयिले आचार्यर्गळ् सच्छिष्यर्गळुक्कुपदेशिप्पर्गळ्।
+</details>
 
