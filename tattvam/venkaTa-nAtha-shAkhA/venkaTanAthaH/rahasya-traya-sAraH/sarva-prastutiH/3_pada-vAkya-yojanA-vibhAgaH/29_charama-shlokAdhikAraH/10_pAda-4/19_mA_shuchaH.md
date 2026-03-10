@@ -2699,13 +2699,13 @@ ni siquiera por un momento (ārta).
 
 <details><summary>English</summary>
 
-On the other hand, the prapanna who **desires** to **live** a long life (dripta) **commits** an offence,  
+On the other hand, the prapanna who **desires** to **live** a long life (drpta) **commits** an offence,  
 if he **violates** the rule in the śāstras which **enjoins** the **protection** of one's own life.
 </details>
 
 <details><summary>Español</summary>
 
-Por otro lado, el prapanna que **desea** **vivir** una larga vida (dripta) **comete** una ofensa,  
+Por otro lado, el prapanna que **desea** **vivir** una larga vida (drpta) **comete** una ofensa,  
 si **viola** la regla de los śāstras que **ordena** la **protección** de la propia vida.
 </details>
 
@@ -2833,9 +2833,9 @@ De hecho, el ārtaprapanna que **reza** por la **muerte** inmediata **es** aquel
 
 <details><summary>English</summary>
 
-Prapannas **are spoken of** as **belonging** to two classes ārtas and driptas  
+Prapannas **are spoken of** as **belonging** to two classes ārtas and drptas  
 on account of the **difference** in the intensity of the grief **felt** by them respectively.  
-(It should not, therefore, **be thought** that the latter viz., the dripta **has no** grief.) 
+(It should not, therefore, **be thought** that the latter viz., the drpta **has no** grief.) 
 </details>
 
 <details><summary>Español</summary>
@@ -3329,8 +3329,6 @@ y allí después **alcanza** mokṣa"
 दृप्तप्रपन्नऩ् विषयत्तिल् "मा शुचः" ऎऩ्बदाल् उत्तरकृत्यांशत्तिल् वरुम् शोकङ्गळिऩ् निषेधम्  
 श्रीभाष्यकारराले गद्यत्तिल् वॆळिय् इडप्-पट्टद् ऎऩ्गिऱार्  
 दृप्तप्रपन्नऩ् ऱिऱत्तिलित्यादिना । 
-
-
 </details>
 
 
@@ -3459,6 +3457,8 @@ y lo **adopta**.
 इङ्गु सॊल्लुगिऱ शोकनिवृत्तिक्कु ऒरुबडियालुम् सङ्कोचकरिल्लामैयाले इव्वुपायविशेषज्ञानत्तालुम् अनुष्ठानत्तालुमाग सर्वप्रकारशोकहेतुक्कळॆल्लाम् कऴियुम्बडि सॊल्लिऱ्ऱागिऱदु।
 </details>
 
+
+
 ### अनुष्ठानापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3573,48 +3573,978 @@ Entonces, en este śloka, **está implícito** que **la anulación** del dolor *
 </details>
 
 
+## उपायानुष्ठान-शोकाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् उपायानुष्ठानत्तिल्  
+पूर्वापर-मध्य-दशैगळैप् पऱ्ऱ  
+संभावितम् आऩ शोकम् ऎल्लाम्  
+इङ्गे कऴिक्कप् पडुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore, here, all grief or despair that **might arise** in regard to the **adoption** of the upāya,  
+whether before its **adoption** or after it, or in the middle of it -  
+all this grief is here (said to be) **annulled**.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, aquí, todo dolor o desesperación que **pueda surgir** con respecto a la **adopción** del upāya,  
+ya sea antes de su **adopción** o después de ella, o en medio de ella -  
+Todo este dolor está aquí (se dice que está) **anulado**.
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+आगैयालुपायानुष्ठानत्तिल् पूर्वापरमध्यदशैकळैप्पऱ्ऱ संभावितमाऩ शोकमॆल्लामिङ्गे कऴिक्कप्पडुगिऱदु। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+अधिकार-विशेषत्तैयुम्, उपाय-विशेषत्तैयुम्, उत्तर-कृत्य-विशेषत्तैयुम्, परिपूर्ण-कैङ्कर्य-पर्यन्त-फल-सिद्धियैयुम् पऱ्ऱप्  
+पल-बडिय् आग शोकम् संभावितम्।
+</details>
+
+<details><summary>English</summary>
+
+If it **be asked** how,  
+the **answer is** as **follows**;  
+Despair **may arise** in many forms ;-  
+(1) in regard to one's competency for the upāya,  
+(2) in regard to (the potency of) the upāya itself,  
+(3) in regard to the things that the prapanna **should do** after prapatti,  
+and so also (4) in regard to the end to be **attained** including the full and perfect **service** or kaiṅkarya to be **rendered**. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Si **se pregunta** cómo,  
+la **respuesta es** como **sigue**;  
+La desesperación **puede surgir** de muchas formas ;-  
+(1) con respecto a la competencia de uno para el upāya,  
+(2) con respecto a (la potencia de) el upāya mismo,  
+(3) con respecto a las cosas que prapanna **debe hacer** después de prapatti,  
+y lo mismo también (4) con respecto al fin a **alcanzar** incluyendo el completo y perfecto **servicio** o kaiṅkarya a **prestar**.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Therefore, here, all grief or despair that might arise in regard to the adoption of the upāya, whether before its adoption or after it, or in the middle of it - all this grief is here (said to be) annulled,
+ऎङ्ङऩेयॆऩ्ऩिल्; अधिकारविशेषत्तैयुम् उपायविशेषत्तैयुम् उत्तरकृत्यविशेषत्तैयुम् परिपूर्णकैङ्कर्यपर्यन्तफलसिद्धियैयुम् पऱ्ऱप् पलबडियाग शोकम् संभावितम्।
+</details>
+
+### अधिकारे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् अनुष्ठिक्कप् पुगुगिऱ शरणागति-धर्मम्  
+ऒरु जाति-वर्णाश्रमादि-विशेष-नियतम् अल्लामैयाले  
++++(प्रापके)+++ प्राप्य-रुचियुम्, प्रापक-विश्वासमुम्, आकिञ्चन्य-ज्ञानादिगळुम् उण्ड् आऩ बोद्  
+ऒर्-उवर्क्कुम् "नाम् इदुक्कु अधिकारिगळ् अल्लोम्"  
+ऎऩ्ऱु शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+(1) Among them, this dharma **called** śaraṇāgati,  
+which **is to be adopted**, **is not confined** to any particular family (jāti) caste or āśrama.  
+Provided there **are** the desire for **attaining** the end in view  
+and faith in the upāya which **is** the means for that **attainment**  
+and such things as **knowledge** of one's being destitute (of other upāyas),  
+there **is no** reason why any one **should despair** at the thought that  
+he **may not be competent** (to **adopt** the upāya).
+</details>
+
+<details><summary>Español</summary>
+
+(1) Entre ellos, este dharma **llamado** śaraṇāgati,  
+que **debe ser adoptado**, **no está limitado** a ninguna casta familiar (jāti) o āśrama en particular.  
+Siempre que **exista** el deseo de **alcanzar** el fin a la vista  
+y fe en el upāya que **es** el medio para ese **logro**  
+y cosas como el **conocimiento** de que uno es indigente (de otros upāyas),  
+**No hay** ninguna razón por la que alguien **deba desesperarse** ante la idea de que  
+él **puede no ser competente** (para **adoptar** el upāya).
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-If it be asked how, the answer is as follows; Despair may arise in many forms ;- (1) in regard to one's competency for the upāya, (2) in regard to (the potency of) the upāya itself, (3) in regard to the things that the prapanna should do after prapatti, and so also (4) in regard to the end to be attained including the full and perfect service or kaiṅkarya to be rendered. (1) Among them, this dharma called śaraṇāgati, which is to be adopted, is not confined to any particular family (jāti) caste or āśrama. Provided there are the desire for attaining the end in view and faith in the upāya which is the means for that attainment and such things as knowledge of one's being destitute (of other upāyas), there is no reason why any one should despair at the thought that he may not be competent (to adopt the upāya).
+अदिल् अनुष्ठिक्कप् पुगुगिऱ शरणागतिधर्मम् ऒरु जाति वर्णाश्रमादिविशेषनियतमल्लामैयाले प्राप्यरुचियुम् प्रापक विश्वासमुम् आकिञ्चन्यज्ञानादिगळुमुण्डाऩबोदॊरुवर्क्कुम् नामिदुक्कु अधिकारिकळल्लोमॆऩ्ऱु शोकिक्कवेण्डा। 
+</details>
 
+### स्वरूपे
+#### साध्योपाये
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+इव्वुपाय विशेषम्  
+स-परिकरम् आग क्षण-काल-साध्यम् आय् 
+</details>
 
-(2) The (sādhya) upāya (prapatti) is capable of being performed or adopted in a single instant with all its accessories, it is easy of performance; it does not need to be repeated; it does not take long to bear fruit; its accessories are not difficult; it is capable of yielding the desired fruit just at the time when it is desired; therefore to the man who is destitute (of other upāyas ) and who is afraid of delay (in attaining the desired end), there is no reason for despair at all thinking that he may have to adopt other upāyas like bhakti , which have to be practised for a long time with all accessories thereof, which are difficult of performance even to those who are very careful and whose accessories are also equally difficult to accomplish and which yield the desired fruit only after a long time,
+<details><summary>English</summary>
 
+(2) The (sādhya) upāya (prapatti) **is capable** of being **performed** or **adopted** in a single instant with all its accessories, 
+</details>
 
+<details><summary>Español</summary>
 
-The Saviour who is propitiated by this easier upāya and who is to grant the desired end is easily accessible to all, inspires confidence, is supremely compassionate and is independent and omnipotent without subjection to any one else). Therefore there is no reason why one should despair at the thought of the Siddhopāya (the Lord).
-
-
-
-(3) After the performance of this upāya, none of the good deeds that may be done by a man either by say of keeping the commands (of the Lord) or winning His approval is an auxiliary or aṅga for prapatti. Therefore even if, owing to adverse circumstances of place and time, !here are shortcomings in their performance, there is no reason for grief or despair at the thought that these shortcomings might adversely affect the accessories (for they are not its accessories ).
-
-
-
-If, in dread of certain sins due to prārabdha karma  which render a man absolutely unfit for all karma  like a piece of burnt cloth, by causing a man to offend the great devotees (of God) deliberately, if, in such cases, the man desires at the time of the first prapatti that his actions after prapatti should be free from all such offence or if he performs a later prapatti for avoiding these offences - if he does these, there is no reason for grief.or sorrow at the thought that offences may happen to be committed in future. Even if, at the time of the first prapatti, one has not prayed for a later life free of all offence, in case offences are committed deliberately, the Saviour of those that have no (other) refuge who stated, "I will never forsake the man who comes to me in the guise of a friend" will create repentance in his mind, and induce him to perform expiation or prayascitta which (in this case) is a further prapatti. If the man is too stubborn to feel repentant, (the Lord) will cause sufferings by way of punishment and thus prevent him from committing further offences. Thus before the time when the attainment of the desired end is prayed for the expiation will be over, Therefore the prapanna need not feel grieved at the thought that great sufferings like those of hell would come to him as a result of deliberate offences committed by him which flash like lightning and disappear quickly.
-
-
-
-(4) Since the ārtaprapanna will have the desired end at the very time of performning prapatti, there is no reason why he should feel grieved at the thought thar the body which resembles hell would continue, (for the body has been thus described):- " If a man is fond of his body constituted of flesh, blood, pus, foecal matter, urine, muscle, fat and bone -- then he should be fond also
-
-of hell".
+(2) The (sādhya) upāya (prapatti) **is capable** of being **performed** or **adopted** in a single instant with all its accessories, 
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+इव्वुपाय विशेषम् सपरिकरमाग क्षणकालसाध्यमाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुकरम् आय्, आवृत्ति-निरपेक्षम् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+it **is** easy of **performance**;  
+it **does not need** to **be repeated**; 
+</details>
+
+<details><summary>Español</summary>
+
+**es** fácil de **rendimiento**;  
+**no necesita** ser **repetido**;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुकरमाय् आवृत्तिनिरपेक्षमाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायान्तर-व्यवधानमुम् दुष्-कर--परिकरान्तरमुम् अऩ्ऱिक्केय् इरुप्पद् आय्
+</details>
+
+<details><summary>English</summary>
+
+it **does not take** long to bear fruit;  
+its accessories **are not** difficult; 
+</details>
+
+<details><summary>Español</summary>
+
+**no tarda** mucho en dar fruto;  
+sus accesorios **no son** difíciles;
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपायान्तरव्यवधानमुम् दुष्करपरिकरान्तरमुमऩ्ऱिक्केयिरुप्पदाय्क्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कोलिऩ कालत्तिले अपेक्षित-फलङ्गळ् ऎल्लात्तैयुन् तरुवद् आय् इरुक्कैयाल्  
+</details>
+
+<details><summary>English</summary>
+
+it **is capable** of **yielding** the **desired** fruit  
+just at the time when it **is desired**;   
+therefore 
+</details>
+
+<details><summary>Español</summary>
+
+**es capaz** de **dar** el fruto **deseado**  
+justo en el momento en que **se desea**;  
+por lo tanto
+</details>
+
+<details><summary>मूलम्</summary>
+
+कोलिऩ कालत्तिले अपेक्षितफलङ्गळॆल्लात्तैयुन् दरुवदाय् इरुक्कैयाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकिञ्चन्यमुम्, फल-विलम्ब-भयमुम् उडैय नमक्कु  
+</details>
+
+<details><summary>English</summary>
+
+to the man who **is destitute** (of other upāyas )  
+and who **is** afraid of delay (in attaining the desired end),  
+</details>
+
+<details><summary>Español</summary>
+
+al hombre que **es indigente** (de otros upāyas)  
+y quién **teme** la demora (en **alcanzar** el fin **deseado**),
+</details>
+
+<details><summary>मूलम्</summary>
+
+आकिञ्चन्यमुम्फलविळम्बभयमुमुडैय नमक्कु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स-परिकरम् आग चिर-कालानुवर्तनीयम् आय् 
+अत्यन्तावहितर्क्कुम् कृच्छ्र-साध्यम् आय्  
+तथा-विध-+++(=कृच्छ्र-साध्य-)+++ परिकरान्तर-सापेक्षमुम् आय्  
+फल-विलम्बम्-उडैत्त् आऩ  
+उपायान्तरत्तिले अलैय वेण्डुगिऱदोव्  
+
+ऎऩ्ऱु शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+there **is no** reason for despair at all  
+**thinking** that 
+
+he **may have** to **adopt** other upāyas like bhakti,  
+which **have to be practised** for a long time with all accessories thereof,  
+which **are** difficult of **performance**  
+even to those who **are** very careful  
+and whose accessories **are** also equally difficult **to accomplish**  
+and which **yield** the **desired** fruit only after a long time.
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** ningún motivo para desesperarse  
+**pensando** que 
+
+él **puede tener** que **adoptar** otros upāyas como bhakti,  
+que **hay que practicar** durante mucho tiempo con todos sus accesorios,  
+que **son** difíciles de **rendimiento**  
+incluso a aquellos que **son** muy cuidadosos  
+y cuyos accesorios **son** también igualmente difíciles **de lograr**  
+y que **dan** el fruto **deseado** sólo después de mucho tiempo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सपरिकरमाग चिरकालानुवर्तनीयमाय् अत्यन्तावहितर्क्कुम् कृच्छ्रसाध्यमाय् तथाविध परिकरान्तरसापेक्षमुमाय् फलविळम्बमुडैत्ताऩ उपायान्तरत्तिले अलैयवेण्डुगिऱदोवॆऩ्ऱु शोकिक्कवेण्डा। 
+</details>
+
+#### सिद्धोपाये
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि लघूपाय-मात्रत्ताले वशी-कार्यऩ् आय् 
+</details>
+
+<details><summary>English</summary>
+
+The Saviour who **is propitiated** by this easier upāya  
+</details>
+
+<details><summary>Español</summary>
+
+El Salvador que **es propiciado** por este upāya más fácil
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि लघूपायमात्रत्ताले वशीकार्यऩाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फल-प्रदानम् पण्णव् इरुक्किऱ शरण्यऩ् सर्व-सुलभऩ् आय् 
+</details>
+
+<details><summary>English</summary>
+
+and who **is to grant** the **desired** end **is** easily **accessible** to all, 
+</details>
+
+<details><summary>Español</summary>
+
+y quién **ha de conceder** que el fin **deseado** **sea** fácilmente **accesible** para todos,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलप्रदानम् पण्णविरुक्किऱ शरण्यऩ् सर्वसुलभऩाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विश्वसनीयतमऩ् आय्, परम-कारुणिकऩ् आय्,
+</details>
+
+<details><summary>English</summary>
+
+**inspires** confidence,  
+**is** supremely compassionate 
+</details>
+
+<details><summary>Español</summary>
+
+**inspira** confianza,  
+**es** sumamente compasivo
+</details>
+
+<details><summary>मूलम्</summary>
+
+विश्वसनीयतमऩाय् परमकारुणिकऩाय्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरङ्कुश-स्वातन्त्र्यऩ् आय् इरुक्कैयाल्  
+सिद्धोपायत्तैप् पऱ्ऱ शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+and **is** independent and omnipotent  
+without **subjection** to any one else.  
+Therefore there **is no** reason why one **should despair** at the **thought** of the Siddhopāya (the Lord).
+</details>
+
+<details><summary>Español</summary>
+
+y **es** independiente y omnipotente  
+sin **sujeción** a nadie más.  
+Por lo tanto, **no hay** razón por la cual uno **deba desesperarse** ante el **pensamiento** del Siddhopāya (el Señor).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निरङ्कुशस्वातन्त्र्यऩायिरुक्कैयाल् सिद्धोपायत्तैप्पऱ्ऱ शोकिक्कवेण्डा। 
+</details>
+
+
+### उत्तर-कृत्ये
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-उपायानुष्ठानत्तुक्कुप् पिऩ्बु  
+आज्ञानुज्ञैगळाले पण्णुम् सत्-कर्मङ्गळ् ऎल्लाम्  
+इप् प्रपत्तिक्क् अङ्गम् अल्लामैयाले 
+</details>
+
+<details><summary>English</summary>
+
+(3) After the **performance** of this upāya,  
+none of the good **deeds** that **may be done** by a man either by way of **keeping** the commands (of the Lord) or **winning** His **approval**  
+**is** an auxiliary or aṅga for prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+(3) Después de la **ejecución** de este upāya,  
+ninguna de las buenas **obras** que **puede hacer** un hombre ya **sea** para **guardar** los **mandamientos** (del Señor) o para **ganar** Su **aprobación**  
+**es** un auxiliar o aṅga para prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायानुष्ठानत्तुक्कुप् पिऩ्बु आज्ञानुज्ञैगळाले पण्णुम् सत्कर्मङ्गळॆल्लाम् इप् प्रपत्तिक्कङ्गमल्लामैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऱ्ऱुक्कु देश-कालादि-वैगुण्यत्ताले  
+सिल वैकल्यम् उण्डाऩालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Therefore even if, owing to adverse circumstances of place and time, there **are** shortcomings in their **performance**, 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, incluso si, debido a circunstancias adversas de lugar y tiempo, **hay** deficiencias en su **desempeño**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऱ्ऱुक्कु देशकालादिवैगुण्यत्ताले सिल वैकल्यमुण्डाऩालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उपासनत्तुक्कुप् पोल् इदुक्कु परिकर-वैकल्यम् पिऱक्किऱदोव्  
+
+ऎऩ्ऱु शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+there **is no** reason for **grief** or despair at the **thought** that  
+these shortcomings might adversely affect the accessories, as in the case of upAsanas (for they **are not** its accessories ).
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** motivo para **dolor** o desesperación ante el **pensamiento** de que  
+estas deficiencias **podrían afectar** negativamente a los accesorios, como en el caso de upAsanas (ya que **no son** sus accesorios).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासनत्तुक्कुप्पोल् इदुक्कु परिकर वैकल्यम् पिऱक्किऱदोवॆऩ्ऱु शोकिक्कवेण्डा। 
+</details>
+
+#### उत्तराघ-वारक-प्रपत्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-कैङ्कर्यादिगळुक्क् अनर्हतैयैय् उण्डाक्कुम्  
+बुद्धि-पूर्व-महा-भागवतापचारादिगळै विळैवित्तु  
+दग्ध-पटम् पोलेय् आक्क वल्ल  
+प्रारब्ध-फलम् आऩ पाप-विशेषत्तुक्क् अञ्जि
+</details>
+
+<details><summary>English</summary>
+
+If, in dread of certain sins due to prārabdha karma  
+which **render** a man absolutely unfit for all karma  
+like a piece of burnt cloth, by **causing** a man to **offend** the great devotees (of God) deliberately,  
+</details>
+
+<details><summary>Español</summary>
+
+Si, por temor a ciertos pecados debidos al prārabdha karma  
+que **hacen** a un hombre absolutamente incapaz de **soportar** todo karma  
+como un trozo de tela **quemada**,  
+al **hacer** que un hombre **ofenda** a los grandes devotos (de Dios) deliberadamente,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवत्कैङ्कर्यादिगळुक्कनर्हतैयै युण्डाक्कुम् बुद्धिपूर्वमहाभागवतापचारादिगळै विळैवित्तु दग्धपटम् पोले याक्कवल्ल प्रारब्धफलमाऩ पापविशेषत्तुक्कञ्जि
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रथम-प्रपत्ति-कालत्तिलेय् आदल्  
+पिऩ्ब् ऒरुक् काल् अदुक्क् आग प्रपत्ति पण्णिय् आदल्  
+निरपराधम् आऩव् उत्तर-कृत्यत्तै अपेक्षित्ताल् मेलपराधप्रसङ्गत्तैयुम् पऱ्ऱ शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+if, in such cases, the man **desires** at the time of the first prapatti  
+that his **actions** after prapatti **should be free** from all such offence  
+
+or if he **performs** a later prapatti for **avoiding** these offences -  
+
+if he **does** these,  
+there **is no** reason for grief or sorrow  
+at the **thought** that **offences may happen** to be **committed** in future.  
+</details>
+
+<details><summary>Español</summary>
+
+si, en tales casos, el hombre **desea** en el momento del primer prapatti  
+que sus **acciones** después de prapatti **deberían estar libres** de todo tipo de ofensas  
+
+o si **realiza** un prapatti posterior para **evitar** estas ofensas -  
+
+si él **hace** esto,  
+**No hay ninguna** razón para **sentir** pena o tristeza  
+ante el **pensamiento** de que **puede ocurrir** que **se cometan** delitos en el futuro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रथमप्रपत्तिकालत्तिलेयादल् पिऩ्बॊरुक्काल् अदुक्काग प्रपत्तिपण्णियादल् निरपराधमाऩवुत्तरकृत्यत्तै अपेक्षित्ताल् मेलपराधप्रसङ्गत्तैयुम् पऱ्ऱ शोकिक्क वेण्डा। 
+</details>
+
+#### उत्तराघे ऽनुतापादि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि निर्-अपराधम् आऩ उत्तर-कृत्यत्तै अपेक्षियादार्क्कुम्  
+मेल् बुद्धि-पूर्वापराधम् वन्दालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Even if, at the time of the first prapatti, one **has not prayed** for a later life free of all offence,  
+in case offences **are committed** deliberately, 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si, en el momento del primer prapatti, uno **no ha orado** por una vida posterior libre de toda ofensa,  
+en caso de que los delitos **se cometan** deliberadamente,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि निरपराधमाऩ उत्तरकृत्यत्तै अपेक्षियादार्क्कुम् मेल् बुद्धिपूर्वापराधम् वन्दालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न त्यजेयं कथंचन’’  
+(रामायणम् युद्ध-काण्डम् १८-३) 
+
+ऎऩ्ऱ् इरुक्कक् कडव अ-शरण्य-शरण्यऩ् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न त्यजेयं कथंचन’’  
+(रामायणम् युद्ध-काण्डम् १८-३) 
+
+</details>
+
+<details><summary>English</summary>
+
+the Saviour of those that **have no** (other) **refuge** who **stated**, 
+
+> "**I will never forsake** the man  
+who **comes** to me in the guise of a friend" 
+</details>
+
+<details><summary>Español</summary>
+
+el **Salvador** de aquellos que **no tienen** (otro) **refugio** quien **declaró**, 
+
+> "**Nunca abandonaré** al hombre  
+que **viene** a mí disfrazado de amigo"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न त्यजेयं कथंचन’’(रामायणम् युद्ध-काण्डम् १८-३) ऎऩ्ऱिरुक्कक्कडव अशरण्यशरण्यऩ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्क् अनुतापत्तैय् उण्डाक्कि  
+पुनः-प्रपत्तिय् आगिऱ प्रायश्चित्त-विशेषत्तिले मूट्टियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+will **create repentance** in his mind,  
+and **induce** him to **perform expiation** or prayascitta  
+which (in this case) **is** a further prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+**creará arrepentimiento** en su mente,  
+e **inducirlo** a **realizar la expiación** o Prayascitta  
+que (en este caso) **es** un prapatti adicional.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कनुतापत्तैयुण्डाक्कि पुनःप्रपत्तियागिऱ प्रायश्चित्तविशेषत्तिले मूट्टियुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदुवुङ् कै-तप्पुम् बडिय् आऩ कठिन-प्रकृतिगळुक्कु  
+शिक्षा-रूपङ्गळ् आऩ उपक्लेश-मात्रङ्गळैक् काट्टि  
+मेल्-अपराधम् पण्णाद बडि विलक्कियुम्
+</details>
+
+<details><summary>English</summary>
+
+If the man **is** too stubborn to **feel** repentant,  
+(the Lord) **will cause sufferings** by way of **punishment**  
+and thus **prevent** him from **committing** further offences.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Si el hombre **es** demasiado terco para **sentirse** arrepentido,  
+(el Señor) **causará sufrimientos** a modo de **castigo**  
+y así **evitar** que **cometa** más delitos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदुवुङ्गैदप्पुम्बडि याऩ कठिनप्रकृतिकळुक्कु शिक्षारूपङ्गळाऩ उपक्लेशमात्रङ्गळैक् काट्टि मेलपराधम् पण्णादबडि विलक्कियुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(मोक्ष-)+++फलङ् कोलिऩ कालत्तुक्कु मुऩ्बे +++(अघस्य)+++ कण्ण्-अऴिक्कैयाले  
+</details>
+
+<details><summary>English</summary>
+
+Thus before the time when the **attainment** of the desired end **is prayed** for  
+the **expiation will be over**.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Así, antes del momento en que **se ore** por **el logro** del fin deseado  
+la **expiación habrá terminado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलङ्गोलिऩ कालत्तुक्कु मुऩ्बे कण्णऴिक्कैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नऩुक्कु मिऩ्ऩ्-ऒळिप्-पोले तोऱ्ऱि  
+निलैय् इल्लादे पोगिऱ बुद्धि-पूर्वापराध-लेशङ्गळाले 
+
+> नरकादि-महा-क्लेशङ्गळ् वरिल् सॆय्वद् ऎऩ्ऩ् 
+
+ऎऩ्ऱु शङ्कित्तु शोकिक्क वेण्डा।
+</details>
+
+<details><summary>English</summary>
+
+Therefore the prapanna **need not feel** grieved at the **thought** that  
+great **sufferings** like those of hell **would come** to him  
+as a result of deliberate offences **committed** by him  
+which **flash** like lightning  
+and **disappear** quickly.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el prapanna **no necesita sentirse** afligido ante el **pensamiento** de que  
+grandes **sufrimientos** como los del infierno **vendrían** a él  
+como resultado de delitos deliberados **cometidos** por él  
+que **destellan** como un relámpago  
+y **desaparecer** rápidamente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपन्नऩुक्कु मिऩ्ऩॊळिप्पोले तोऱ्ऱि निलै यिल्लादे पोगिऱ बुद्धिपूर्वापराधलेशङ्गळाले नरकादिमहाक्लेशङ्गळ्वरिल् सॆय्वदॆऩ्ऩॆऩ्ऱु शङ्कित्तु शोकिक्कवेण्डा।
+</details>
+
+### देहानुवृत्तौ
+#### आर्त-प्रपन्ने
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आर्त-प्रपन्नऩुक्क् अप्-पोदे फल-सिद्धिय् उण्डाम् बडिय् इरुक्कैयाले
+</details>
+
+<details><summary>English</summary>
+
+(4) Since the ārtaprapanna **will have** the desired end  
+at the very time of **performing** prapatti,  
+
+</details>
+
+<details><summary>Español</summary>
+
+(4) Dado que el ārtaprapanna **tendrá** el fin **deseado**  
+en el mismo momento de **realizar** prapatti,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आर्तप्रपन्नऩुक्कप्पोदे फलसिद्धियुण्डाम्बडियिरुक्कैयाले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘देहे चेत् प्रीतिमान् मूढो  
+**भविता** नरकेऽपि सः’’  
+(विष्णुपुराणम् १-१७-६२) 
+
+ऎऩ्ऩुम् बडि 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘देहे चेत् प्रीतिमान् मूढो  
+**भविता** नरकेऽपि सः’’  
+(विष्णुपुराणम् १-१७-६२) 
+
+</details>
+
+<details><summary>English</summary>
+
+(for the body **has been** thus **described**):- 
+
+> "If a man **is fond** of his body constituted of flesh, blood, pus, foecal matter, urine, muscle, fat and bone --  
+then he **should be fond** also of hell".
+</details>
+
+<details><summary>Español</summary>
+
+(pues el cuerpo **ha sido** así **descrito**):- 
+
+> "Si un hombre **tiene cariño** a su cuerpo compuesto de carne, sangre, pus, materia fecal, orina, músculos, grasa y huesos...  
+entonces **debería gustar** también el infierno".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘देहे चेत् प्रीतिमान् मूढो भविता नरकेऽपि सः’’(विष्णुपुराणम् १-१७-६२) ऎऩ्ऩुम्बडि 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नरक-तुल्यम् आऩ इश् शरीरम् अनुवर्तिक्किऱदोव् 
+
+ऎऩ्ऱु शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+there **is no** reason why he **should feel grieved**  
+at the **thought** that the body which **resembles** hell **would continue**, 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** ninguna razón por la que él **deba sentirse** afligido.  
+ante el **pensamiento** de que el cuerpo que **parece** el infierno **continuaría**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नरकतुल्यमाऩ इश् शरीरमनुवर्तिक्किऱदोवॆऩ्ऱु शोकिक्क वेण्डा। 
+</details>
+
+#### दृप्त-प्रपन्ने
+
+<details><summary>English</summary>
 
 As for the dṛptaprapanna :
+</details>
+
+<details><summary>Español</summary>
+
+En cuanto al dṛptaprapanna:
+</details>
 
 
 
-All rites or dharmas of renunciation such as karma yoga will never be in vain as stated in the śloka :-- "The beginning that has been made in this karma -yoga will never prove futile. There is no harm in its being left incomplete; even a fraction of it saves a man from the great fear of saṁsāra" " The foundation that is laid is, as it were, a foundation of stone and especially with regard to the man who has performed śaraṇāgati, it has been stated: "I will never forsake him. Further the dripta prapanna is certain of attaining what he desired, though it is delayed until the time specified by him. So the dripta prapanna has no reason to feel grieved at the thought that the good deed in the form of prapatti might be counteracted by certain evil deeds which might be thought capable of doing so, as has been said in the śloka “ A yajna ""performed by one loses its effect by untruthfulness, tapas perishes by arrogance, age becomes diminished by contemptuous talk of Brahmins and gifts of charity lose their virtue by their revelation.” since he has prayed for mokṣa at the end of this life, he has no reason to feel grieved at the thought that, owing to certain prarabdha karma  ( which has begun to yield its fruit), he might have to take another birth.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्म-योगम् मुदल् आऩ निवृत्ति-धर्मङ्गळ् ऎल्लाम् 
+
+> ‘‘नेहाभिक्रम-नाशोऽस्ति’’  
+(गीता २-४०) 
+
+इत्य्-आदिगळिऱ् पडियेय्  
+इट्ट-पडै कऱ्-पडैय् आगैयालुम्
+</details>
+
+<details><summary>English</summary>
+
+All rites or dharmas of **renunciation** such as karma yoga  
+**will never be** in vain  
+as **stated** in the śloka :-- 
+
+> "The **beginning** that **has been made** in this karma-yoga  
+**will never prove** futile.  
+There **is no** harm in its being left incomplete;  
+even a fraction of it **saves** a man from the great fear of saṁsāra" 
+
+The foundation that **is laid is**, as it were, a foundation of stone  
+</details>
+
+<details><summary>Español</summary>
+
+Todos los ritos o dharmas de **renuncia** como el karma yoga.  
+**nunca será** en vano  
+como **indica** en el śloka:-- 
+
+> "El **comienzo** que **se ha hecho** en este karma-yoga  
+**nunca resultará** inútil.  
+**No hay** ningún daño en dejarlo incompleto;  
+incluso una fracción de ello **salva** a un hombre del gran miedo al saṁsāra" 
+
+El fundamento que **se pone** es, por así decirlo, un fundamento de piedra
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्मयोगम् मुदलाऩ निवृत्ति धर्मङ्गळॆल्लाम् ‘‘नेहाभिक्रमनाशोऽस्ति’’(गीता २-४०) इत्यादिगळिऱ्पडिये यिट्ट पडै कऱ्पडैयागैयालुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश्-शरणागतऩैप् पऱ्ऱ विशेषित्तु  
+
+> ‘‘**न त्यजेयं** कथंचन’’ 
+
+ऎऩ्गैयालुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘**न त्यजेयं** कथंचन’’ 
+</details>
+
+<details><summary>English</summary>
+
+and especially with regard to the man who has performed śaraṇāgati, it **has been stated**: 
+
+> **I will never forsake** him. 
+</details>
+
+<details><summary>Español</summary>
+
+y especialmente con respecto al hombre que ha realizado śaraṇāgati, **se ha dicho**: 
+
+> **Nunca lo abandonaré**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इश्शरणागतऩैप् पऱ्ऱ विशेषित्तु ‘‘न त्यजेयं कथं चन’’ ऎऩ्गैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दृप्त-प्रपन्नऩुक्कुङ् कोलिऩ कालत्त् अळवुम् विळम्बित्तालुम्  
+फल-सिद्धियिल् संशयम् इल्लामैयाले 
+</details>
+
+<details><summary>English</summary>
+
+Further the drpta prapanna **is certain** of **attaining** what he **desired**,  
+though it **is delayed** until the time **specified** by him.  
+</details>
+
+<details><summary>Español</summary>
+
+Además, el drpta prapanna **está seguro** de **alcanzar** lo que **deseaba**,  
+aunque **se retrasa** hasta el momento **especificado** por él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दृप्तप्रपन्नऩुक्कुङ्गोलिऩ कालत्तळवुम् विळम्बित्तालुम् फलसिद्धियिल् संशयमिल्लामैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘यज्ञो ऽनृतेन **क्षरति**  
+तपः **क्षरति** +++(गर्वि-कृताद्)+++ विस्मयात् ।  
+आयुर् विप्र-परीवादाद्  
+दानञ् च परिकीर्तनात्॥’’  
+(मऩुस्मृति ४-२३७)  
+> 
+> इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘यज्ञो ऽनृतेन **क्षरति**  
+तपः **क्षरति** +++(गर्वि-कृताद्)+++ विस्मयात् ।  
+आयुर् विप्र-परीवादाद्  
+दानञ् च परिकीर्तनात्॥’’  
+(मऩुस्मृति ४-२३७)  
+
+</details>
+
+<details><summary>English</summary>
+
+> as **has been said** in the śloka  
+> 
+> > “ A yajna **performed** by one **loses** its effect by untruthfulness,  
+tapas **perishes** by arrogance,  
+age **becomes diminished** by contemptuous talk of Brahmins  
+and gifts of charity **lose** their virtue by their revelation.” 
+
+</details>
+
+<details><summary>Español</summary>
+
+> como **se ha dicho** en el śloka  
+
+> > “Un yajña **realizado** por uno **pierde** su efecto por la falsedad,  
+tapas **perece** por la soberbia,  
+la edad **disminuye** al **hablar** despectivamente de los brahmanes  
+y los regalos de caridad **pierden** su virtud por su **revelación**”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यज्ञोऽनृतेन क्षरति तपः क्षरति विस्मयात् । आयुर्विप्रपरीवादाद्दानञ्च परिकीर्तनात्’’(मऩुस्मृति ४-२३७)  इत्यादिगळिऱ्पडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सुकृत-नाशकङ्गळ् आय् इरुप्पऩ सिल दुष्कृतङ्गळाले  
+इप् प्रपत्ति-रूपम् आऩ सुकृतम् नशित्तु  
+फलङ् किडैयाद् ऒऴियिल्  
+सॆय्वद् ऎऩ्ऩ् 
+
+ऎऩ्ऱु शोकिक्क वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+> the good deed in the form of prapatti  
+**might be counteracted** by certain evil deeds  
+which **might be thought** capable of **doing** so.  
+
+So the drpta prapanna **has no** reason to **feel grieved** at this **thought**.
+</details>
+
+<details><summary>Español</summary>
+
+> la buena acción en forma de prapatti  
+**podría ser contrarrestado** por ciertas malas acciones  
+que **podría pensarse** capaz de **hacerlo**.  
+
+Así que drpta prapanna **no tiene** motivos para **sentirse afligido** por este **pensamiento**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुकृतनाशकङ्गळायिरुप्पऩ सिल दुष्कृतङ्गळाले इप् प्रपत्तिरूपमाऩ सुकृतम् नशित्तु फलङ् गिडैयादॊऴियिल् सॆय्वदॆऩ् ऩॆऩ्ऱु शोकिक्कवेण्डा। 
+</details>
+
+
+
+
+
+since he has prayed for mokṣa at the end of this life, he has no reason to feel grieved at the thought that, owing to certain prarabdha karma  ( which has begun to yield its fruit), he might have to take another birth.
 
 
 
