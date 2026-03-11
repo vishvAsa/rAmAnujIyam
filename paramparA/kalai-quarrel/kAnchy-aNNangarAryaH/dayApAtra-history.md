@@ -18,6 +18,7 @@ Presentation
   - Labored misinterpretation of parAshara-saMhitA and cobra mark.
   - "deshika was tenkalai".
     - Doctrinal dismissals clear in his texts. Here he pleads it's a "Tough subject".
+  - Claim (in sat-sampradAyArtha-sAranidhi) that in rahasya-traya-jIvAtu, ahobila yati opposes deshika. Also, wrong access-number.
 - Bad inferences
   - venkaTAdhvari's notes on tenkalais
   - saptati-ratna-mAlikA - Poor editing is not malice.
@@ -676,7 +677,7 @@ In that sacred temple of Lord Ranganatha, Ramanuja himself appointed many Achary
 Contemporary role - jeeyar has no rights. Sometime in the 16th century, they were srikaryam for a decade when Tatacharyas were in Vijayanagar. Later Tatacharyas took direct control of the temple. From inscriptions it is clear that Tatacharyas were srikaryam even in 14th century. So all one can say is that when TTs left for vnagar, jeeyar was handling affairs for about one decade (most probably with their permission). Tk vdk lafda is quite recent. There was no such bad blood back then (at max it was restricted to some philosophical differences)
 </details>
 
-    
+
 Here again, some of these noble mathadhipatis have been obstructed from receiving their honours; but, that is recent history. The fact to be noted down here too, is, that not a single Vadakalai Yati is included in this category, too. Some people might be again tempted to say that there is a Vadakalai Mathadhipati, too. But, alas! they will have to hang their head down, when the direct question is put to them, "When did that Mathadhipati cast off his original Tenkalai creed and adopted the new one, please?" We will deal with this matter, in detail, at a later stage. So, it is clear, that all the Mathadhipatis appointed by Ramanuja are Tenkalai.
 
 ### Araiyars
