@@ -45,6 +45,46 @@ Presentation
 </details>
 
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Source: [TW](https://youtu.be/cwlrsQ_KepA)
+
+20th CE kAnchI PB aNNangarAchArya errs - rAmAnuja-dayApAtra hatred, parakAla / ahobila yati slander.
+
+00:00 - Intro
+01:55 - aNNangarAchArya good qualities, post 40-s vedAdhyayana. Good sentiments. Devotion to abhinava-ranganAtha, etc..
+03:40 - His own criteria for truth.
+05:45 - **Verifiable lies** - rAmAnuja dayApAtra shloka was well over 300 years old, not as claimed.
+07:30 -  maisUru edict 1649 misrepresented - primary source not quoted. Convenient blame on unnamed kannaDa text.
+13:05 - periya parakAla-yati reign - 1677-1738(C.E.) is after this edict. But is slandered to have invented and propagated the shloka.
+18:30 - rAmAnuja-dayA-pAtra taniyan actually found in manuscripts (eg. Sajjana-vaibhava) - but he claims otherwise.
+21:10 - Presence of vaDakalai AchArya worship/ vigraha-s in shrines.
+22:00  - Labored misinterpretation of parAshara-saMhitA and cobra mark. (vaDakalai vs tenkalai tilaka)
+30:00 - "deshika was tenkalai". Doctrinal dismissals clear in his texts. Here he pleads it's a "Tough subject".
+32:30 - Claim (in sat-sampradAyArtha-sAranidhi) that in rahasya-traya-jIvAtu, ahobila yati opposes deshika. Also, wrong access-number.
+33:15 - **Bad inferences** - venkaTAdhvari's notes on tenkalais
+36:50 - saptati-ratna-mAlikA - Poor editing is not malice.
+38:15 - improprieties in divyadesa-s as devas' hardships. Cuts both ways.
+39:30 - Tanjore district temple conversions.
+39:30  - Where did archaka-s in shrIrangam come from if tenkalai shrIranga-shrI continues as it did? koil olugu incompletenss in 1803.
+42:50 - Avoidence of desecrated tenkalai shrines = deshika's refusal to be adored in VK way.
+46:25 - **Unverifiable slander** - parAshara-bhaTTa as an opponent of unnamed vaDakalais
+47:15 - In Ahobilam, that Mathadhipati's efforts to efface the Tenkalai marks.
+47:45 - **Selective quotes & twists** - Krishna Tatacharya's order to destroy tenkalai mark on deshika shrine; court's order in his favor not quoted.
+49:25 - Unnamed "Govenment records" reveal - Ahobila matha temple conversion - Tiruvellore. Contrary court order not cited.
+50:10 - Azhagiyamanavalamuni's temporary role in kAnchI.
+50:40 - Suspicious viShNu-chittIya pATha inclusion.
+55:15 - **To be checked** - Madras Oriental Library - R. No. 104-H. 38-14 . Vedanta Desika Vaibhava Prakasika. RL to follow up.
+55:40  - Open **Hatred** - Portayal of parakAla-yati (singular number used),  
+57:40 - portayal of ahobila-yati
+59:15 - Glee at the plight of **shrIranga archakas**. "cannot prostrate... twice"
+1:00:10 - Funeral restrictions too!
+1:02:00 - No Adhyayanotsava role for deshika or nAthamuni in shrIranga.
+1:03:40 - His own statement - "bigotry makes even a learned person err".
+1:06:40 - Conclusion.
+</details>
+
+
 RAMANUJADAYAPATRA CHARITRAM  
 **OR**  
 HISTORY OF THE VERSE COMMENCING WITH THE WORD RAMANUJADAYAPATRAM
@@ -271,7 +311,7 @@ This is false. 1649 (not 1709, where king was a deaf/ dumb infant under tk care)
 > मेलुकोटॆ चामैगॆ बरसि कळुहिद निरूप आदागि -  
 मेलुकोटॆ तिरुनारायण-स्वामियवर सन्निधियल्लि  
 मॊदलाद सन्निधिगळल्लि  
-प्रबन्धानु-सन्धानगळु  
+प्रबन्धानुसन्धानगळु  
 देवरायनवर अरभ्य, नम्म कर्तारय्यनवर दिवसद वरॆगु  
 **रामानुज दयापात्र** तनियन्नु आव रीतिगॆ नडॆदु बन्तुय्  
 इगलु अदॆ रीतिगॆ  
@@ -793,7 +833,18 @@ This we can safely conclude, because of the statement of Desika himself, who say
 59. We will next proceed to discuss the nature of, and authority for, the Tenkalai mark, with the help of suitable figures. Figures 1, 2 and 3 in page 53 show the different stages of development of this Urdhvapundra. According to certain Pancharatra texts, the mark must be made in the form of the Lord's feet, taking its root from the nose. हरेः पादद्वयाकृतिम्....। नासिकामूलमारभ्य...। The root on the nose is again described in those Sastras as meaning a third part of the nose. So it comes to this, viz. the marks have to be made beginning from the third part of the nose and resembling the two feet of the Lord. This form is illustrated in Fig. 1. It will be seen that in strict conformity with this rule, we will have to cover up a part of both the eyes, too. So, for convenience, a portion of the marks that cover the eyes is deleted. The shape resulting out of this correction is shown in Fig. 2. Again, certain other texts ordain that the Urdhvapundra must be beautiful to look at and should not contain any loose lines, etc. The final perfected form after these modifications is shown in Fig. 3. These Urdhvapundra marks are made not only upon the forehead, but also upon many other parts of the body, such as the stomach, chest, neck, shoulders etc. In these places, there are no eyes to obstruct a part of them and so no modification is necessary. This explains why, in these places, they are worn in a form different from that on the forehead. The marks made on the walls, towers etc. of temples, are yet made to resemble the mark on the forehead, because, the face is the most important part of the body.
 
 ### Parasara Samhita
-60. The Parasara Samhita, explicitly lays down that a pada, two angulas in length, must be made on the nose (नासादौ द्व्यङ्गुलं पादम् ।). The word Pada occurring in this passage seems to give some difficulty to certain people, who try to interpret it as meaning feet and then argue that it refers to the two marks made on the forehead itself, and not on the nose. +++(5)+++This is not the correct interpretation of the text in question, because, in that case, the word नासादौ meaning 'at the root of the nose', becomes meaningless. The word द्व्यङ्गुलम् means two angulas (an angula means a length equal to a finger's width). The mark on the forehead is, to be sure, not confined to two angulas in length. So the word pada must have a different meaning. It means root, according to the Upanishat which describes the Urdhvapundra as a tree, having a root, one angula in length—एकाङ्गुले पुण्ड्रतरोस्तु मूलम् । Even in classical Sanskrit, the word pada means root. That is why trees are called padapa (पादप) because they drink water with their roots and the Vatavriksha or banyan tree is called Bahupat or Bahupada because it has many roots. So, the Parasara Samhita and the Upanishat quoted above lay down that the Urdhvapundra in the face, is to be treated as a tree and must be made to stand upon a root, which is situated on the nose and is one or two angulas in length.
+60. The Parasara Samhita, explicitly lays down that a pada, two angulas in length, must be made on the nose (नासादौ द्व्यङ्गुलं पादम् ।). 
+    
+<details><summary>विश्वास-टिप्पनी</summary>
+
+नासादौ द्व्यङ्गुलं पादं  
+मध्यं सार्धाङ्गुलं भवेत् ।  
+पार्श्वावङ्गुलमात्रौ  
+सुस्पष्टं धारयेत् द्विजः ॥
+</details>
+
+
+The word Pada occurring in this passage seems to give some difficulty to certain people, who try to interpret it as meaning feet and then argue that it refers to the two marks made on the forehead itself, and not on the nose. +++(5)+++This is not the correct interpretation of the text in question, because, in that case, the word नासादौ meaning 'at the root of the nose', becomes meaningless. The word द्व्यङ्गुलम् means two angulas (an angula means a length equal to a finger's width). The mark on the forehead is, to be sure, not confined to two angulas in length. So the word pada must have a different meaning. It means root, according to the Upanishat which describes the Urdhvapundra as a tree, having a root, one angula in length—एकाङ्गुले पुण्ड्रतरोस्तु मूलम् । Even in classical Sanskrit, the word pada means root. That is why trees are called padapa (पादप) because they drink water with their roots and the Vatavriksha or banyan tree is called Bahupat or Bahupada because it has many roots. So, the Parasara Samhita and the Upanishat quoted above lay down that the Urdhvapundra in the face, is to be treated as a tree and must be made to stand upon a root, which is situated on the nose and is one or two angulas in length.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -803,12 +854,13 @@ This we can safely conclude, because of the statement of Desika himself, who say
 ### Cobra mark
 Certain other texts lay down that the Urdhvapundra is to resemble the two feet of the Lord, placed upon the hood of a coiled serpent, 
 
-> कुण्डलीकृतसर्पस्थहरिपादद्वयाकृतिम् ।  
+> कुण्डली-कृत-सर्प-स्थ-  
+> हरि-पाद-द्वयाकृतिम् ।  
 
 Some people again, try to interpret this text, as meaning, the mark of the Lord's feet which are to be seen on the hood of the Cobra. (The cobra has a mark upon its head, which is supposed by some to be the mark of lord Sri Krishna's feet, made when he danced upon the fierce cobra Kaliya, who was doing havoc in the waters of the Yamuna.) This is not the correct interpretation of the passage in question, because, in that case, the word Kundalikrita which qualifies the sarpa becomes meaningless. The text lays down that the serpent must be a coiled one. The mark also is said to be Sarpastha and not phanastha, i. e., resting on the serpent and not 'seen on the hood'. So, the mark upon the hood is not referred to here. On the other hand it means that the two feet of the Lord must be placed on the head of a coiled serpent. Of course, the serpent has to be placed on the nose, and the feet upon the forehead. Here again the serpent's 'coils have to be modified, lest the eyes should be covered. The resultant form is shown in Fig 4. In the other parts of the body, where no obstruction can be caused by the eyes, the coils are not modified at all, and the resulting form is shown in Fig. 5.
 
 ### Lotus and feet
-61. Some other texts have ruled that the two feet of the Lord have to be placed upon a lotus flower (उत्फुल्लकमलस्थायिहरिपादद्वयाकृतिम्) or upon an Ashtami Chandra or half-moon (अष्टमीन्दुकलाधारहरिपाद-द्वयाकृतिम्). Here the lotus or semi-circle is placed upon the nose and the two feet rest upon them. The resulting form is shown in Fig. 6 and 7. Thus it will be seen that all these forms of Urdhvapundra bearing resemblance of the Lord's feet develop into the Tenkalai mark, and that there is good cause for difference in forms in the face with those in other parts of the body.
+61. Some other texts have ruled that the two feet of the Lord have to be placed upon a lotus flower (उत्फुल्ल-कमल-स्थायि-हरि-पाद-द्वयाकृतिम्) or upon an Ashtami Chandra or half-moon (अष्टमीन्दु-कलाधार-हरि-पाद-द्वयाकृतिम्). Here the lotus or semi-circle is placed upon the nose and the two feet rest upon them. The resulting form is shown in Fig. 6 and 7. Thus it will be seen that all these forms of Urdhvapundra bearing resemblance of the Lord's feet develop into the Tenkalai mark, and that there is good cause for difference in forms in the face with those in other parts of the body.
 
 62. Let the reader kindly take note of the fact that in discussing and describing all these matters we have stuck to such authentic works as Parikara Vijaya of Chanda marutham Doddayacharya Swami.
 
