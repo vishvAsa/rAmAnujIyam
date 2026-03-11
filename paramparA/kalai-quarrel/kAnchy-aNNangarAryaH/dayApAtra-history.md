@@ -2,6 +2,47 @@
 title = "dayApAtra history"
 +++
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Having read the entire screed, I am so glad that he was not an AchArya who actually wrote valuable vAda-grantha-s against other sampradAya-s. Quality of arguments is very poor. Would've expected something more ... formidable.
+
+Presentation 
+
+- aNNangarAchArya good qualities, intro.
+- His own criteria for truth.
+- Verifiable lies
+  - maisUru edict 1649 misrepresented - primary source not quoted. Convenient blame on unnamed kannaDa text.
+  - periya parakAla-yati reign - 1677-1738(C.E.) is after this edict.
+  - rAmAnuja-dayA-pAtra taniyan actually found in manuscripts (eg. Sajjana-vaibhava) - but he claims otherwise.
+  - Presence of vaDakalai AchArya worship/ vigraha-s in shrines.
+  - Labored misinterpretation of parAshara-saMhitA and cobra mark.
+  - "deshika was tenkalai".
+    - Doctrinal dismissals clear in his texts. Here he pleads it's a "Tough subject".
+- Bad inferences
+  - venkaTAdhvari's notes on tenkalais
+  - saptati-ratna-mAlikA - Poor editing is not malice.
+  - improprieties in divyadesa-s as devas' hardships. Cuts both ways.
+  - Tanjore district temple conversions.
+  - Where did archaka-s in shrIrangam come from if tenkalai shrIranga-shrI continues as it did? koil olugu incompletenss in 1803.
+  - Avoidence of desecrated tenkalai shrines = deshika's refusal to be adored in VK way.
+- Unverifiable slander
+  - parAshara-bhaTTa as an opponent of unnamed vaDakalais
+  - In Ahobilam, that Mathadhipati's efforts to efface the Tenkalai marks.
+- Selective quotes & twists
+  - Krishna Tatacharya's order to destroy tenkalai mark on deshika shrine; court's order in his favor not quoted.
+  - Unnamed "Govenment records" reveal - Ahobila matha temple conversion - Tiruvellore. Contrary court order not cited.
+  - Azhagiyamanavalamuni's temporary role in kAnchI.
+  - Suspicious viShNu-chittIya pATha inclusion. Source: [TW](/purANam_vaiShNavam/viShNu-purANam/viShNuchitta-TIkA/mUlam_me/01/08)
+- To be checked
+  - Madras Oriental Library - R. No. 104-H. 38-14 . Vedanta Desika Vaibhava Prakasika. RL to follow up; copy awaited from shaThakopa tAtArya.
+- Hatred 
+  - Portayal of parakAla-yati, ahobila-yati
+  - Glee at the plight of shrIranga archakas. "cannot prostrate... twice"
+  - No Adhyayanotsava role for deshika or nAthamuni in shrIranga.
+- His own statement - "bigotry makes even a learned person err".
+</details>
+
+
 RAMANUJADAYAPATRA CHARITRAM  
 **OR**  
 HISTORY OF THE VERSE COMMENCING WITH THE WORD RAMANUJADAYAPATRAM
@@ -20,7 +61,7 @@ Published by:
 
 Printed at Rathnam Press, MADRAS-1.
 
-**1954]**
+**1954**
 **/Price: Re. 1-0-0**
 
 ***
@@ -68,7 +109,15 @@ Similarly, they ought to bid good-bye to the imitation Patra verse which was inv
 Upon reading all this, some people might be overcome with rage and tempted to shower curses upon us. But we request them to kindly note that the use of abusive language is no reply to the solid arguments advanced by us. Let great Vadakalai pandits like Srimat Koziyalam Swami, who can write good works without having resort to abusive language, kindly go through this work and let the world know, what they really feel about it. That will certainly be a great service to the cause of Knowledge.
 
 ### Deshika praise
-We wish to state outright, that we bear no ill-will against Desika's laudations, old are new. As a proof of this, we request our readers to kindly go through the Nrisimha Priya (Hindi Edition) of the last month. There, they will have a pleasant surprise to see the Tamil Vazhithirunamam of Desika, translated by us into Sanskrit, at the request of the Editor. Nobody can say that our Acharyas should not be praised by new laudations. There is absolutely no harm in it. But, what is important is, that they should not be allowed to work to the detriment of others.
+We wish to state outright, that we bear no ill-will against Desika's laudations, old are new. As a proof of this, we request our readers to kindly go through the Nrisimha Priya (Hindi Edition) of the last month. There, they will have a pleasant surprise to see the Tamil Vazhithirunamam of Desika, translated by us into Sanskrit, at the request of the Editor. 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+How could he slander ahobila maTha and still be allowed to publish in nRsiMhapriya? I suppose they found deshika-praise from one such as him "valuable badge".
+</details>
+
+
+Nobody can say that our Acharyas should not be praised by new laudations. There is absolutely no harm in it. But, what is important is, that they should not be allowed to work to the detriment of others.
 
 The present volume has been brought out, to let the world know the complete history of this new Patra verse. So we request our readers, once again to kindly go through this book dispassionately and appreciate the force of the statements made herein.
 
@@ -134,14 +183,14 @@ It is therefore clear that the author of Viswagunadarsam made it known without a
 
 It is worthwhile considering whether this author of Viswagunadarsan would at all have said anything like this if Vadakalais who practised Vaisvadevam had also then really taken to Tamil Prabandhams. Everything actually noticed by him he has recorded, as though simply holding mirror to the then existing facts. It is now 250 years since that book was written. 
 
-It is a known fact that the Vadakalai group now dominate certain temples. The Viswagunadarsan refers to these also. But there is no mention whatever of any Vadakalais in those temples. Under such circumstances is it not true to say that at that time the Vadakalais were unknown in any Divyadesam? +++(नैवम्॥)+++
+It is a known fact that the Vadakalai group now dominate certain temples. The Viswagunadarsan refers to these also. But there is no mention whatever of any Vadakalais in those temples. Under such circumstances is it not true to say that at that time the Vadakalais were unknown in any Divyadesam? +++(नैवम्!)+++
 
 
 There is another matter to note in this context. 
 
 The same author Arasanipalai Venkatadhwari has written another big work by name Lakshmisahasram which consists of 1000 slokas in praise of Shri Mahalaxmi. In the Aisvarya Sthabaka (ऐश्वर्यस्तबक) thereof there is a Sloka (14) beginning with the words "Srimad Ramavarajasaranim" श्रीमद्-रामावरज-सरणिम् in which certain Acharyas belonging to the school of Ramanuja are stated to be holding that the nature of the soul of Srimahalakshmi is atomic (Anu) instead of being infinite (Vibhu). 
 
-As to who can be such Acharyas, the Vadakalai group people themselves have written and published commentaries in which they have mentioned that Bhattar (son of Kurathalwan) and other acharyas hold such views. From this it follows that this group also held Bhattar, who is an acharya as great as Ramanuja, as an opponent. +++(नैवम्॥)+++
+As to who can be such Acharyas, the Vadakalai group people themselves have written and published commentaries in which they have mentioned that Bhattar (son of Kurathalwan) and other acharyas hold such views. From this it follows that this group also held Bhattar, who is an acharya as great as Ramanuja, as an opponent. +++(नैवम्!)+++
 
 ### Litigation
 8. There is a recent authority besides. Sriman V. V. Srinivasa Iyengar, a leading advocate of Madras (also a High Court Judge for sometime) and who is a prominent member of the Vadakalai sect, wrote an article in the Swadesmitran of 22nd. July 1938 under the heading "Ramanujadayapatra Mahotsavam". Therein he has written as quoted below:
@@ -156,9 +205,18 @@ Vadakalai group of people had no taste in Divya Prabbandams. Even now the Vadaka
 9. The present day Vadakalais may argue that "Whatever might have been the former state at present some of them atleast are believers in Divya Prabhandams". It is not necessary to deny this. It is good that taste in good things arises at some time or other. Nor is it relevent in this context. 
    
 #### Relevance
-What is mainly sought to be established herein is that from the time this group began to take part in Prabhandas after having remained indifferent for a long time, they have been only creating disturbances which have been growing from day to day without any break. We shall now explain in detail without leaving anything as to how this Vadakalai sect left off despising Prabhandas and began to participate in them. The devotion of the Vadakalai group to the Tamil Vedas can be said to be sincere only after they completely give up their Ramanujadayapatra Thanian which is a mere innovation with no sanctity attached to and hence has been condemned everywhere. +++(नैवम्॥)+++
+What is mainly sought to be established herein is that from the time this group began to take part in Prabhandas after having remained indifferent for a long time, they have been only creating disturbances which have been growing from day to day without any break. We shall now explain in detail without leaving anything as to how this Vadakalai sect left off despising Prabhandas and began to participate in them. The devotion of the Vadakalai group to the Tamil Vedas can be said to be sincere only after they completely give up their Ramanujadayapatra Thanian which is a mere innovation with no sanctity attached to and hence has been condemned everywhere. +++(नैवम्!)+++
 
 ## periya parakAla svAmI
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+The story presented here does not make chronological sense. periya parakAla-yati reign - 1677-1738(C.E.) is after the edict mentioned here. Source: [TW](/purANam_vaiShNavam/history/yadu-giriH_melukoTe/records)
+
+It is said that he did prapatti under the thiruvaDi of Abhinava Ranganatha Parakala Yati. This doesn't seem credible given that he portrays periya-parakAla yati as a cunning manipulative fraud. So, likely to be some self-consolation by some. Others say - There is a Telugu work of his detailing his experiences with svAmI.
+</details>
+
+
 ### Intro
 10. About 200 years ago the Maharaja of Mysore of the time desiring to spend his time always in Godly Pravachanas, invited a Thenkalai Jeer Swami from Melkote and was listening to his discourses in the mornings on Eedu i. e. Tamil Veda meanings. 
     
@@ -206,7 +264,7 @@ Then disputes arose and the Thenkalais petitioned to the Mysore State authoritie
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-This is false. 1649/ 1709 kaNThIrava narasarAja actually says. 
+This is false. 1649 (not 1709, where king was a deaf/ dumb infant under tk care) kaNThIrava narasarAja actually says - 
 
 > मेलुकोटॆ चामैगॆ बरसि कळुहिद निरूप आदागि -  
 मेलुकोटॆ तिरुनारायण-स्वामियवर सन्निधियल्लि  
@@ -313,7 +371,11 @@ In the same book, (i. e. the Guruparampara prabhava) are also related the lives 
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-> Again, this is a lie. For example, both the Sajjana vaibhava that we found in GOML has RDP taniyan in the beginning. - RL
+> Again, this is a lie. For example, both the Sajjana-vaibhava that we found in GOML Madras has RDP taniyan in the beginning. - RL
+
+Details - Palm leaf, grantha, sanskrit, NO. OF FOLIO 121. PAGES 44. 58 a to 796. Record number 1078. Acc No SD.2255. DEC NO D: 5395.
+
+
 </details>
 
 
@@ -554,7 +616,7 @@ In yet other places, especially in Andhra, Some Vaikhanasa Archakas, among whom 
     
 
 ### AchArya worship
-Among Ramanuja's desciples, Srivatsachihnamisra Swami (Kurathazhwan), Govindaswami (Embar), Dasarathi Swami (Mudaliyandan) and others belong to one line of descendants; whereas Kurukesa Swamy (Tirukkurukai-ppiran-pillan), Kidambi Achan and others belong to another line. The Vadakalais claim, that, of these two paramparas (or lines) the latter is their guruparampara. Be it so. But, there is no temple dedicated to these Acharyas, anywhere in our land, whereas the idols of the Acharyas mentioned in the former group have been installed and worshipped, not only in their birth-places, but in numerous other places, too. 
+Among Ramanuja's desciples, Srivatsachihnamisra Swami (Kurathazhwan), Govindaswami (Embar), Dasarathi Swami (Mudaliyandan) and others belong to one line of descendants; whereas Kurukesa Swamy (Tirukkurukaip-piran-pillan), Kidambi Achan and others belong to another line. The Vadakalais claim, that, of these two paramparas (or lines) the latter is their guruparampara. Be it so. But, there is no temple dedicated to these Acharyas, anywhere in our land, whereas the idols of the Acharyas mentioned in the former group have been installed and worshipped, not only in their birth-places, but in numerous other places, too. 
 
 
 Now, if we ask the Vadakalais, "why are your gurus not worshipped in the same manner as the Tenkalai Acharyas?", they will scratch their heads and look blank for a while, and whisper with a deep sigh, "Oh! that is because originally we were not interested in the temples and kept at a safe distance from them; So, we could not think of installing their idols." +++(4)+++
@@ -607,6 +669,13 @@ In that sacred temple of Lord Ranganatha, Ramanuja himself appointed many Achary
 
 ### Mathadhipathis
 47. Let us illustrate another point. It is a well-known fact that Sri Ramanuja appointed certain mendicants, as Mathadhipathis, in many temples charging them to supervise and assist in the temple services. Even a casual examination of the list of these Yatis will show, that they are all Tenkalais. Sriranganarayana Jeeyar at Srirangam, the two mathadhipatis at Tirumalai Tirupati and connected temples, Azhagiyamanavalamuni at Kancheepuram, and the many other Sanyasis at various places like Melkote, Vanamamalai, Tirukkurungudi, Azhwar Tirunagari, Srivilliputtur, Tirumalirumsolai, Tirukkovalur, Sriperumbudur and so on, have all been ordained to serve in the temples and are receiving worthy honours to this day. 
+
+
+<details><summary>रविलोचनः</summary>
+
+Contemporary role - jeeyar has no rights. Sometime in the 16th century, they were srikaryam for a decade when Tatacharyas were in Vijayanagar. Later Tatacharyas took direct control of the temple. From inscriptions it is clear that Tatacharyas were srikaryam even in 14th century. So all one can say is that when TTs left for vnagar, jeeyar was handling affairs for about one decade (most probably with their permission). Tk vdk lafda is quite recent. There was no such bad blood back then (at max it was restricted to some philosophical differences)
+</details>
+
     
 Here again, some of these noble mathadhipatis have been obstructed from receiving their honours; but, that is recent history. The fact to be noted down here too, is, that not a single Vadakalai Yati is included in this category, too. Some people might be again tempted to say that there is a Vadakalai Mathadhipati, too. But, alas! they will have to hang their head down, when the direct question is put to them, "When did that Mathadhipati cast off his original Tenkalai creed and adopted the new one, please?" We will deal with this matter, in detail, at a later stage. So, it is clear, that all the Mathadhipatis appointed by Ramanuja are Tenkalai.
 
@@ -679,6 +748,8 @@ In Ahobilam, that Mathadhipati's efforts to efface the Tenkalai marks found in t
 <details><summary>मालोलः</summary>
 
 No thenkalai naamam is found in shrines of Ahobilam both Hills and in Lower Ahobilam. Random rocks in the forest and mandapas have them. Can remove them if needed now at no cost by the matha still as they are too insignificant no one cares.
+
+Old inscription with vaDakalai mark seen in shrine. Source: [TW](/purANam-vaiShNavam/history/ahobilam/images/sannidhi-slab.jpg)
 </details>
 
 
@@ -757,6 +828,15 @@ Tough subject because you'll be caught?? If anyone gets the sanskrit edition, pl
 66. Many Government records, in Tamil, pertaining to the temple at Tiruvellore, which is under the management of the Ahobila Math, have already been published by us. In that temple, the head of the Ahobila Math used to begin the recital of the Divya Prabandhas, beginning with the mantram Srisailesadayapatram. Recently, however, he changed the custom. This gave birth to many litigations as is evident from many Government records. But finally the new Patra gained ground mainly because the number of Tenkalai residents of that place dwindled considerably. That is a different matter. 
     
 Government orders prohibiting the recital of the new verse show that these people effected this deliberate change only recently and in spite of the prohibitory orders.+++(??)+++ What is the Math's explanation for this? They wrote last year, "See the present; why bother about what happened one or two generations ago?"
+
+<details><summary>मालोलः</summary>
+
+A false claim. No proof except an affidavit filed by Thenkalais for this and the court didn't conclude so in the documents I've gone through.
+
+The temple has a very prachina Vedanta Desika shrine and prominent old sculptures of VK Urdhwapundra otoh.
+
+The only relationship that has records of TKs and thiruEvvul is a TK Asuri family holding some tirthakara rights in the temple which Ahobilamatha removed for them after a kalai quarrel.
+</details>
 
 
 
