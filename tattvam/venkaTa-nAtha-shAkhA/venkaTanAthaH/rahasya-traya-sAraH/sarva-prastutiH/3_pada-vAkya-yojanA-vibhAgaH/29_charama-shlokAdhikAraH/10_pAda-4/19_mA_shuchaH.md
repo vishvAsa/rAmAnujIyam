@@ -2371,6 +2371,16 @@ he **is** also afraid at the prospect, in future, of formidable obstacles to the
 इरण्डुम् सिद्धिक्कुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+… अनुवर्तमानतया,  
+
+मुमुक्षोर् अनिष्ट-निवृत्तीष्ट-प्राप्त्योर् अन्य-तराभिधाने ऽप्य्  
+उभयोः प्राप्तिवत्,  
+
+अधिकारे ऽपि भय-शोकयोर् अन्यतरस्याभिधाने ऽप्य्  
+उभयं सिध्येत् । 
+</details>
 
 
 <details><summary>English</summary>
@@ -2407,6 +2417,13 @@ la otra **también se da** por sentada.
 अत्यन्ताकिञ्चनऩुक्कु इब् भयशोकङ्गळ् इरण्डुम् विञ्जिय्+++(=वृद्ध्वा)+++ इरुक्कुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्यन्ताकिञ्चनस्येमौ भय-शोकाव् उभाव् अपि  
+अतिशयितौ भवतः । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the man who **is** absolutely without upāyas  
@@ -2438,6 +2455,13 @@ estos dos, el dolor y el miedo, **son** excesivos.
 आगैयाल् इङ्ग् अतिशयित-शोकाविष्टऩ् आऩ अधिकारि-विशेषत्तुक्क् अनुगुणम् आऩ  
 उपाय-विशेषत्तैक् काट्टि 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो ऽत्रातिशयित-शोकाविष्टस्य+ अधिकारि-विशेषस्य  
+अनुगुणम् उपायविशेषं प्रदर्श्य  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2471,6 +2495,12 @@ este adhikārī que **está abrumado** por un dolor excesivo
 तलैक् कट्टुगिऱदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं निःसंशयं निर्भरं निर्भयं हृष्टमनसं चापाद्य समाप्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 and **is** thereby **made free** of all doubt,  
@@ -2500,10 +2530,20 @@ a modo de **conclusión**.
 इव्व् अतिशयित-भयत्तैप् पऱ्ऱ 
 
 > "अञ्जिऩ नीय् ऎऩ्ऩैय् अडैय्" ऎऩ्ऱार् वन्दार्  
-(तिरुच्चिऩ्ऩमालै ८)  
+(तिरुच्-चिऩ्ऩ-मालै ८)  
 
 ऎऩ्ऱुञ् जॊऩ्ऩोम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अतिशयित-भयम् अभिप्रेत्य, 
+
+> "भीतस् त्वं माम् आश्रयेत्य् ऊचिवान् आययौ" 
+
+इत्य् अवोचाम । [[P415]]
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2562,6 +2602,7 @@ el Señor que **dijo**: -
 अक्रियावद् अनर्थाय)  
 तत् तु कर्म समाचरेत् ॥  
 (लक्ष्मीतन्त्रम् १७) 
+
 
 </details>
 

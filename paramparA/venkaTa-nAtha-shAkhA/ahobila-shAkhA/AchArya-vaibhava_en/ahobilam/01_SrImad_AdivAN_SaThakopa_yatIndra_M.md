@@ -178,7 +178,7 @@ That night NammAzhvAr appeared in the dream of jIyar and directed him to consecr
 
 purvam yastu mukundadevavibhunA skandhe dhrtAndoLikaH prAptaH SrIpurushottamam racitavAn bhakta- pratishThApanam | labdhvA danti-turanga-ratna-SibikA-chatradvayI-cAmara- dvandvAdIni yayau punaSca vijayI karNATa- simhAsanam ||
 
-Thozhappar becomes disciple
+## Thozhappar becomes disciple
 
 The King of Karnataka was deeply devoted to the jIyar and was worshipping him with utmost faith. SrImad Adi vaN SaThakopa yatIndra mahAdeSikan was doing upadeSams to his SishyAs on SrI BhAshyam and other granthams. On seeing and hearing the style in which this MahAdeSikan conducting the kAlakshepams, the erudite scholars there were telling amongst themselves that the jIyar is the second incarnation of Vyasa Maharshi, another Suka Maharshi, another [[202]] PuNDArIkar, another bhakta PrahlAdan a great tapasvi, mastery over tarka (logic), vyAkaraNam (grammar), mImAsa granthams, sAmAnya SAstrAs, ubhaya vedAntAs, and that he is no match to any one and is a sarvatantra vedamArga pratishThApanAcAryar (presiding as the master of all subjects and establishing and propagating the ultimately superior path of Veda).
 
