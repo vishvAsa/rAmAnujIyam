@@ -136,14 +136,27 @@ I was in the Archeological Department library collecting particulars useful for 
 
 Hence as requested by him I tried for such particulars also. To my surprise I did not come across even a single inscription about Parakala mutt or its Jeeyar in the TTD inscriptions. While going through Epigraphia Carnatika, Mysore Gazetteer, History of Vijayanagar etc. also I did not find any reference to Parakala Mutt till the year 1800 A.D. 
 
-<details><summary>विश्वास-टिप्पनी</summary>
+<details><summary>रविलोचनः</summary>
 
-हास्यास्पदम् इदम्। बहु तु लभ्यते - Source: [TW](/purANam_vaiShNavam/history/yadu-giriH_melukoTe/records) । 
+Copper plate grant of 1722 CE at Srirangapatnam by Sri Krishnaraja Wodeyar identifies Srinivasa yati as the guru of the ruler. This is a direct reference to Dodda Parakalaswamy aka Periya Parakalaswamy who moved from Tirumala to Mysore on the request of the Mysore kings. 
+
+The Tenkalai text ‘Pazhanadai Vilakkam’ which attempts to deny authenticity of Parakala Mutt lineage – quoted by Sri PB Annangarachar Swamy as well as Rajagopalan in their favour – refers to this fact that Periya Parakalaswamy became the Rajaguru of Mysore kingdom.
+
+Another Sannad from 1762 records a gift to Parakala swamy mutt – as an order given to Hyder Ali by the Maharaja and his mother. A sannad of 1775 CE mentions the grant given to Parakala mutt by Krishnappa Nayaka of Belur. The yati is praised as ‘kavi kathaka kanthirava charana nalina yugala vinyasta’ – referring to his devotion to the feet of Sri Vedanta Desika. The same title is held by all Parakalaswamis – including the present pontiff. The yati is also called ‘asmad asadharana swami’ – thus declaring the yati as the acharya of Krishnappa Nayaka as well.
+A 1783 CE Sannad of Tipu Sultan orders that the sannad itself shall be preserved in Parakala Mutt. It records that both Sri sailesha and Ramanuja dayapatrams shall be recited at Melkote temple – to be fair to both Tenkalais and Vadakalais. (Due to the lack of evidence of the Srishailesha dayapatra thaniyan pre this order of Tipu Sultan, one can conclude that the Thenkalais of Mysore [Like Shyama Iyengar] got the rights of recitation of the said thaniyan by Lobbying Tipu Sultan)
+
 </details>
 
 
 ### Anantham Pillai Thirumalachariar
 Contrary to it I found Ananthan Pillai family members being the Raja guru as well as Diwans to Mysore Maharaja continuously upto 1800 AD. I have [[6]] elaborated this point in my book "Thirumalai Ananthalwan and his descendants", published in the year 2003, May.
+
+<details><summary>रविलोचनः</summary>
+
+His claims about Tirumalai Ananthanpillai being rajaguru of Mysore royals till 1800CE or being rajaguru of Krishnaraya is baseless as well. 
+</details>
+
+
 
 The Queen mother of Mysore Maharaja was confined to prison along with Diwan and their relatives and other faithful officers by Hyder Ali and Tippu Sultan in the year 1783 A.D. But Diwan Thirumalai Anantham Pillai Thirumalachariar could not be caught by Tippu as he was taking shelter at Tanjore. It is due to the effort of this Thirumalarya the Hindu Dynasty was re-established in Mysore with Lakshmi Ammani as Queen. Reference to Parakala Jeeyar and his Mutt could be traced only after her adopted son took over the kingdom.
 
@@ -337,15 +350,25 @@ On the contrary, rAmanAtha ayyar says -
 
 It is this time, the Ahobila mutt seem to have been converted in to Vadakalai. The way it was converted is a peculiar one as told by our elders. Since there was no enmity among Srivaishnavas following Sri Bhashya Parampara and Bhagavath Vishaya Parampara and both were calling themselves as Ubaya Vedanthacharyas, following same traditions after Sri Ramanuja, a person from Vadakalai sect was made the pontiff of Ahobila mutt. Since they were also following same customs and reciting Thanian (the invoking verse) "Sri Sailesa Dayapathram" in their mutt, temples and in private houses they were not barred from holding the Pontiffical seat. 
 
+<details><summary>रविलोचनः</summary>
+
+The claim that the mutt became vadakalai only post 1800 is too ridiculous. Pazhanadai Vilakkam itself is from the previous century and it does identify Ahobila mutt as Vadakalai mutt by that time. Though it tries to claim that it was originally Tenkalai but that their acharyas taught Vadakalai granthas to the sishyas who wanted to follow Desika sampradayam. One does wonder why it cannot be vice versa - that it was a Vadakalai matha all along which did teach Tennacharya granthas to those sishyas who wanted to follow the Tenkalai sampradaya. The very acts of the founder Jiyar doesn’t match with Tenkalai philosophy as mentioned earlier. Also, the drama Vasantika parinayam indicates that the matha followed Desika sampradaya only even in the early days of its existence.
+</details>
+
+
 Till a very recent period they were following same customs as that of Thenkalai and even today performing Krishna Jayanti, Sandhya vandam, reciting of Thiruvoimozhi and giving lectures on Eedu etc., on a similar manner. 
 
 But unexpectedly the pontiff converted his mutt, Ahobilam temple and Veeraraghava swamy Temple at Tiruvallore which were under their control into Vadakalai.
 
-The photo of Veeraraghava swamy temple as given in a book "South Indian Shrines" by Sri Jagadesa lyer which is available in Major libraries show that it had Thenkalai Thiruman. Actually Ahobilam Jeeyar was punished by court for having recited "Ramanuja Daya [[17]] Pathram" Thanian in 1835 AD at Tiruvallore Veeraraghava Swamy temple.??
+The photo of Veeraraghava swamy temple as given in a book "South Indian Shrines" by Sri Jagadesa lyer which is available in Major libraries show that it had Thenkalai Thiruman. Actually Ahobilam Jeeyar was punished by court for having recited "Ramanuja Daya [[17]] Pathram" Thanian in 1835 AD at Tiruvallore Veeraraghava Swamy temple.
 
-<details><summary>मालोलः</summary>
+<details><summary>रविलोचनः</summary>
 
 A false claim. No proof except an affidavit filed by Thenkalais for this and the court didn't conclude so in the documents I've gone through.
+</details>
+
+
+<details><summary>मालोलः</summary>
 
 The temple has a very prachina Vedanta Desika shrine and prominent old sculptures of VK Urdhwapundra otoh.
 
@@ -481,9 +504,11 @@ Another wonderful act of Ahobilam Jeeyar is annexing the fame of Annamacharia in
 
 Contrary to the above, the statue of Sri Annamayya at Thalappakkam and the inscription available there telling about him are having only Thenkalai Thiruman.?? Even the statues kept in a mantap on the bank of Swamy Pushkarani at Thirumala of Annamacharya, his son and his grand son, only Thenkalai Thiruman is found. 
 
-<details><summary>विस्तारः - श्रीवा॰</summary>
+<details><summary>विस्तारः</summary>
 
-This is a recently established temple. His descendants sport the vk namam only.
+> This is a recently established temple. His descendants sport the vk namam only.  - श्रीवा॰
+
+Annamacharya copper pate inscription from mid 1500s bears vaDakalai tirumaN only.
 </details>
 
 
@@ -581,7 +606,7 @@ Chrompet, Chennai-44
 [[30]]
 
 ## THE HISTORY OF AHOBILA MUTT
-
+### Old kShetra
 Though Ahobilam is considered to be an old kshetram (holy place) even from the period of Prahlad and it is a Divyadesam sung by Alwar there is no record to show that Sri Ramanuja paved way for worship as in other main Divyadesams. Here one "Muktha Sloka" composed by Sri Parasara Bhattar gives us the real position.
 
 ஸ்ரீரங்கம் கரிஸைலமஞ்ஜநகிபூரிம்  
@@ -596,15 +621,10 @@ Though Ahobilam is considered to be an old kshetram (holy place) even from the p
 
 This sloka describing the places considered holy and toured by Emperumanar in his life time was composed by Sri Bhattar in order to chant the same daily viz. "Nithyanusandhanam".
 
-In this Muktha sloka the name of Ahobila kshetra does find place can be noted. "Ramanujarya Divya Saritha" by Pillailokam Jeeyar, a work of 16th century describes that Ramanuja visited Ahobilam. History does not say that a Jeeyar was installed by Sri Ramanuja or
+In this Muktha sloka the name of Ahobila kshetra does find place can be noted. "Ramanujarya Divya Saritha" by Pillailokam Jeeyar, a work of 16th century describes that Ramanuja visited Ahobilam. History does not say that a Jeeyar was installed by Sri Ramanuja or [[31]] Sri Manavala Mamunigal as in the case of Srirangam, Thirumala, Alwar Thirunagari, Vanamamalai, Thirumalirumcholai etc. However, considering the avathar of Narasimha and having sung by Thirumangai Alwar we have it as one among 108 Divyadesams. But no mutt was established there. 
 
-
-
-***
-
-[[31]]
-
-Sri Manavala Mamunigal as in the case of Srirangam, Thirumala, Alwar Thirunagari, Vanamamalai, Thirumalirumcholai etc. However, considering the avathar of Narasimha and having sung by Thirumangai Alwar we have it as one among 108 Divyadesams. But no mutt was established there. Even 'Prataparudrium' (poems composed in praise of Pradapa Rudra who was a Kokatia King) does not reveal any information about any mutt there though it says that Prataparudra donated one Narasimha idol to one of the Ahobilam temples in about 1310-1325 AD. It is said that it was the practice of Prataparudra to cast daily one gold idol of Siva and perform pooja to it.
+### Prataparudrium
+Even 'Prataparudrium' (poems composed in praise of Pradapa Rudra who was a Kokatia King) does not reveal any information about any mutt there though it says that Prataparudra donated one Narasimha idol to one of the Ahobilam temples in about 1310-1325 AD. It is said that it was the practice of Prataparudra to cast daily one gold idol of Siva and perform pooja to it.
 
 One day he was staying in Rudravaram a town named after him which was ten miles away from lower Ahobilam. He ordered for a new Vigraham (idol) of Siva for his worship and it turned out to be that of Narasimha. Though he ordered to make Siva Vigraha for the second time it also turned out to be that of Lord Narasimha only. So he gave that idol to the nearest place Ahobilam as there was only Moola Vigraha of Narasimha there. It is also said that Proleya Vema kings who were sub-ordinate to Kakatia Prataparudra constructed steps to Ahobilam as well as Simhachalam. They also constructed Mantapas there. However there is no information of any mutt having been there.
 
@@ -614,9 +634,11 @@ One day he was staying in Rudravaram a town named after him which was ten miles 
 
 [[32]]
 
+### maTha mention
 Now there is a mutt and Madathipathi at Ahobilam. The TTD inscriptions mention about Ahobila mutt for the first time in the year 1494 AD. through a foot note. In reality it is an information about Van-satakopan mutt only. And there was not even any mention about Parakala Mutt.
 
-The traditional account about Ahobila mutt says that the first Jeeyar whom they call as Adhi-Van-Sata kopan was born in 1379 AD and was given Sanyas or Gadi by Lord Narasimha himself even when he was a Brahmacharin. It adds further that the Narasimha idol came on its own accord and sat on the lap of Van-Satakopa Jeeyar and so on in order to infuse in the minds of people Godliness to the Jeeyar so that many people would admire and become disciples of the Jeeyar. There are some more incidents told about this Jeeyar. Perhaps they wanted to connect the episode of donating an idol by king Prataparudra, to show that this mutt had its origin as early as that. But it is proved to be a mistake as detailed below:
+### Traditional account mismatch
+The traditional account about Ahobila mutt says that the first Jeeyar whom they call as Adi-Van-Sata kopan was born in 1379 AD and was given Sanyas or Gadi by Lord Narasimha himself even when he was a Brahmacharin. It adds further that the Narasimha idol came on its own accord and sat on the lap of Van-Satakopa Jeeyar and so on in order to infuse in the minds of people Godliness to the Jeeyar so that many people would admire and become disciples of the Jeeyar. There are some more incidents told about this Jeeyar. Perhaps they wanted to connect the episode of donating an idol by king Prataparudra, to show that this mutt had its origin as early as that. But it is proved to be a mistake as detailed below:
 
 The explanatory notes given for the inscriptions in TTD volumes clearly indicate that it is for the first time in 1494 AD a mention is made about Van Satakopan Mutt. The foot note only calls it as Ahobila mutt.
 
@@ -628,22 +650,19 @@ The table at sl.no.88 in Vol.7 of TTD Epigraphical volumes gives the period of A
 
 [[33]]
 
-1st Jeeyar Adhi-Van-Satakopa 1437-1516 - 79 years
+1st Jeeyar Adhi-Van-Satakopa 1437-1516 - 79 years  
 1st Jeeyar (two dates are given) 1456-1516 - 62 years
 
 Both the above dates seems to be incorrect unless a person lives for a full life time he cannot be a pontiff or Jeeyar for 79 years or even for 62 years. Moreover, the span of later Jeeyars viz. 2nd and 3rd are very much less being for 13 years.
 
-In one of a monthly journal (Gokulam Kadir, Jan 2004) some one writes that Adi-Van-Satakopan was born in 1379 AD. Even in "Ladies Special" Deepavali Malar of 1999 the same year was given. Even granting that one takes Sanyas as a bachelor he cannot be a Sanyasi for 62 or 79 years. If we calculate the period from 1379 AD upto the date of second Jeeyar who became the pontiff in 1516 AD as given in TTD Table referred to above it comes to 136 years of life which is unbelievable under Indian climatic conditions. Normally Srivaishnava Jeeyars are called Thrithandis who take Sanyas or Gadi after married life viz. Brahmacharyam (boyhood), Grahastha (married) and then only take Sanyas and become Madathipathis.
+In one of a monthly journal (Gokulam Kadir, Jan 2004) some one writes that Adi-Van-Satakopan was born in 1379 AD. Even in "Ladies Special" Deepavali Malar of 1999 the same year was given. 
 
-Now we will see what historical records say about this. Page 109 and 113 of TTD inscriptions, Vol.I gives
+Even granting that one takes Sanyas as a bachelor he cannot be a Sanyasi for 62 or 79 years. If we calculate the period from 1379 AD upto the date of second Jeeyar who became the pontiff in 1516 AD as given in TTD Table referred to above it comes to 136 years of life which is unbelievable under Indian climatic conditions. 
 
+Normally Srivaishnava Jeeyars are called Thrithandis who take Sanyas or Gadi after married life viz. Brahmacharyam (boyhood), Grahastha (married) and then only take Sanyas and become Madathipathis.
 
-
-***
-
-[[34]]
-
-us information that one Singayya Dannayaka established two mutts known as Sitakaragandan Mutts one at Thirumala and another at Thirupathi (Ref.354 TT); these mutts were left under the in charge of certain Jeeyars for their management along with Arisanalayam Nandavanam and Vansatakopan Nandavanam with a condition that on the demise of the Jeeyar the properties were to revert to the Dannayaka for whom the rights are reserved or he can appoint Desanthris as the head of the mutts. This is in saka 1243 (1323 AD) and as well as 1347-48 AD also.
+### Historical records
+Now we will see what historical records say about this. Page 109 and 113 of TTD inscriptions, Vol.I gives [[34]] us information that one Singayya Dannayaka established two mutts known as Sitakaragandan Mutts one at Thirumala and another at Thirupathi (Ref.354 TT); these mutts were left under the in charge of certain Jeeyars for their management along with Arisanalayam Nandavanam and Vansatakopan Nandavanam with a condition that on the demise of the Jeeyar the properties were to revert to the Dannayaka for whom the rights are reserved or he can appoint Desanthris as the head of the mutts. This is in saka 1243 (1323 AD) and as well as 1347-48 AD also.
 
 In the course of time the Vaishnava Acharya who looked after Arisanalaya Nandavanam became a Koil Kelvi Jeeyar at Thirumala. Van Satakopan Nandavanam was not having the name Ahobila Mutt. This is the mutt of Sitakaragandam, property of Immidi Rahutharayan Singayya Dannayaka in the name of Van Satakopa Nandavanam in 1347-48 AD. SI. 111 of Vol.I, TTD 434 TT clearly states that this is the Mutt of Sitakaragandam Immadi Rahutharayan Singayya Danayakar, sl.112-676 TT also indicates the same.
 
@@ -1275,15 +1294,15 @@ A book "Rahasyathraya Jeevathu" authored by the Van-Satakopa Jeeyar (about 1550 
 
 Sri Mukkur Lakshmi Narasimhachariar also wrote in the same manner in his book "Kurai Onrrumillai". It may be noted that he was a Vadakalai preceptor of 20th century and very much devoted to Ahobila Narasimhar.
 
-Since Trivallore temple was under the control of
+Since Trivallore temple was under the control of [[76]] Ahobilam Jeeyar it was easy for him to convert the same to Vadakalai. Sri.U.Ve.P.B.Annangarachariar Swamy of Kancheepuram states in one of his issues of "Ramanujan" a Monthly Journal that in 1835 AD, one Ranganatha Satakopa Jeeyar, for the first time recited "Ramanuja Dayapathram" a Vadakalai Thanian at Trivallore. For such recitation the Jeeyar and his agents were fined by the Dy.Collector H.Richardson on 25.8.1835.
 
+<details><summary>रविलोचनः</summary>
 
+Given the number of lies and obfuscations that we have seen here till now, I have serious doubts about the veracity of this claim. He doesn’t explain why Tenakalais did not pursue legal action post 1835 if indeed it is true that the temple was following their traditions till then. They had fought legal cases everywhere else. So, there is enough reason to doubt this as a spurious claim.
 
-***
+Even if we presume it to be true, this still doesn’t prove Ahobila Mutt as originally Tenkalai. Rather, it would be a case where they did not interfere with the practices of local sthalattars when the temple came under their control first and later, they might have imposed their practices on the temple in the 1800s reinforcing their control when the Tenakalai-Vadakalai fights were fought bitterly – most probably to protect their control of the temple. 
+</details>
 
-[[76]]
-
-Ahobilam Jeeyar it was easy for him to convert the same to Vadakalai. Sri.U.Ve.P.B.Annangarachariar Swamy of Kancheepuram states in one of his issues of "Ramanujan" a Monthly Journal that in 1835 AD, one Ranganatha Satakopa Jeeyar, for the first time recited "Ramanuja Dayapathram" a Vadakalai Thanian at Trivallore. For such recitation the Jeeyar and his agents were fined by the Dy.Collector H.Richardson on 25.8.1835.
 
 Sri Mukkur Lakshmi Narasimhachariar Swamy in his book "Kurai Onrum Illai" quotes from Vedantha Desika's works that those who had darshan of Lord Ranganatha, those who are having darshan of Him, and those who are going to have dharshan of Him all should note his "Abaya Hastha" (right hand palm) and it is just turned to tell us that it is enough to prostrate before him only once, and only those who are not pure in their heart and do it as a formality should do it more than once. If one does it more than once it will mean that they have no complete faith in Lord Ranganatha.
 

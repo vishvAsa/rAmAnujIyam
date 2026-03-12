@@ -237,7 +237,7 @@ was upset when ranganAtha of shrIrangam decided in favor of VD's work represente
 
 #### स्मार्त-भागवताः
 केचिद् द्राविडाः स्मार्ताश् चन्दन-पुण्ड्रधारिणो कृष्ण-प्रेमि-सुत- रङ्गनाथ-निभाः ([YT](https://www.youtube.com/watch?v=-amOdFBStKI))।  
-रङ्गनाथादयः पॆरियव्-आच्चान्-पिळ्ळै-दुहितृ-प्रजा इति वदन्ति।  
+रङ्गनाथादयः पॆरियव्-आच्चान्-पिळ्ळै-प्रजा इति वदन्ति - सगोत्रजा इति केचित्, दुहितृ-प्रजा इत्य् अन्ये।  
 
 
 ### प्रपत्तौ व्यावृत्तिः
@@ -264,10 +264,28 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 ### राजास्थाने 
 डीडवाना-झालरिया 
 
-> Even this Jhalarya matha mahant does kalakshepas Atleast for sribhashya.
+> Was the rajaguru of many small rajput rajas and baniyas (including the founder of Allen coaching institute and Bangur cements ).
+> 
+> Even this Jhalarya matha mahant does kalakshepas atleast for sribhashya. 
+> 
+> it was started by 14th AS. and they regularly came and did kalakshepas from Ahobila yatis. Last connection was 34th pontiff. After that no Samashrena bharanyasa kalakshepa. They did kalakshepam from srivilliputhur tatacharyas after that. They are practically independent now. Which is the lore behind their arayar hat 😂😂
+> 
+> Many AM granthas are found in Oudh, Delhi and places like Bikaner Alwar Baroda etc.
+> 
+> \- SM
 
 ### उत्तर-प्रदेशे
 > Have heard vishvesh prapannacharya maharaj of UP takes grantha chatushtaya kalakshepas In Hindi to a few vedadhyayis etc in UP.
+
+### लाटदेशे
+14th AS started a mahant peetha in vadodra too. 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+25th March 2025 marked an extremely auspicious day of Ekadashi + Sravanam, when Srimad Jagadguru Ramanujacharya Swami Venkateshacharyaji Maharaj, 16th Peetadhipathi of Sri Uttara Ahobila Shreevatsa Math, Vadodara underwent Bharanyasam at the lotus feet of Srimad Azhagiyasingar, Srivan Shatakopa SriRanganatha Yatheendra Mahadesikan at the divine hills of Tirumala. The Uttara Ahobila Shreevatsa Math was established by Srimad Jagadguru Ramanujacharya Swami Sriyacharyaji Maharaj, a great scholar and shishya of Sri Ahobila Math, during the period of the 16th Srimad Azhagiyasingar. The current Srimad Azhagiyasingar visited and performed his Mangalashasanams at the
+| Math's Sri Venkatesh Balaji Mandir, Vadodara in 2018.
+</details>
+
 
 ### महाराष्ट्रे
 There were some SVs in Pune even in 18th and 19th centuries. A parakala matha yati had even administered samashrayana to some of the Brahmins there during a dharma dig vijaya in mid 19th century iirc.

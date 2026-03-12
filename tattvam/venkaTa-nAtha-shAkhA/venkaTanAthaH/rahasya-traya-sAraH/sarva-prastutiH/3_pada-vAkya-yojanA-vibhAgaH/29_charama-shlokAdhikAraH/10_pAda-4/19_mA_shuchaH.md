@@ -2867,6 +2867,14 @@ there **is no** reason why he **should not** feel delighted at heart.
 निर्वेद-मिश्रम् आय् नडन्ददेयालुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं हर्षो  
+विवेकिनो शरीरादि-संबद्धस्यास्य  
+निर्वेद-मिश्र एव यद् यपि,  
+</details>
+
+
 <details><summary>English</summary>
 
 Though this delight **is mingled** with disgust (nirveda)  
@@ -2897,6 +2905,13 @@ en el inteligente (prapanna) que **está** todavía **conectado** con cosas tan 
 इन् निर्वेदमुम्, इश् शोक-निवृत्तियुम् भिन्न-विषयङ्गळ् आगैयाले  
 विरोधम् इल्लै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तथाऽपि, अस्य निर्वेदस्यास्याः शोक-निवृत्तेश् च  
+भिन्न-विषयत्वान् नास्ति विरोधः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2930,6 +2945,16 @@ ya que el disgusto y el deleite **se deben** a diferentes factores respectivamen
 आर्त्य्-अतिशयम् उडैय्-अवऩुक्कु  
 अप्-पोदे मोक्षम् सिद्धिक्कुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शोक-निमित्तस्य सर्वस्य मोचनीयत्वे  
+"मा शुचः" इत्य् एतस्यैव नियामकत्वात्  
+
+प्रारब्ध-कर्मण्य् अपि शोक-निमित्तांशस्य सर्वस्य निवृत्तेः  
+आर्त्य्-अतिशयवतस् तदैव मोक्षः सिध्यति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2970,6 +2995,14 @@ y el hombre que **es** tan impaciente como para **no ser capaz** de **existir** 
 इत्य्-आदिगळिऱ् पडिये 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "मरणे जाते वैकुण्ठ-प्रद उपकारकः" 
+
+इत्य्-आद्य्-उक्त-रीत्या 
+</details>
+
+
 <details><summary>English</summary>
 
 As **stated** in the Tamil verse : 
@@ -3003,6 +3036,17 @@ Como **indica** en el verso tamil:
 
 ऎऩ्ऱ् इसैय वेण्डियदाल् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रारब्ध-कर्मण्य् अप्य्  
+अग्रिमस्य सर्वस्य निवृत्ताव्  
+एतच्-छरीरावसाने मोक्ष 
+
+इत्य् अभ्युपगन्तव्यतया
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -3038,6 +3082,14 @@ Por lo tanto ...
 इश् शरीरन् तऩ्ऩिलुम् आयुश्-शेषम् अन्-इष्टम् आऩ बोदु  
 इदुवुम् प्रपत्ति-वशी-कृत- सर्व-शक्ति-सङ्कल्पत्ताले कऴियक् कुऱैय् इल्लैय् इऱे।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् शरीरे ऽप्य् आयुः-शेषस्यानिष्टत्वे  
+अयम् अपि प्रपत्ति-वशी-कृत-- सर्व-शक्ति-सङ्कल्पेन निवर्तेत  
+इत्य्-अत्र नास्ति हि दोषः ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3243,6 +3295,17 @@ si **viola** la regla de los śāstras que **ordena** la **protección** de la p
 युग-विशेष-नियममुम् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P416]]
+
+योगिभिर् योग-विशेषेण देह-न्यास-करणवद्  
+आर्त्य्-अतिशयवता प्रपत्त्या देह-न्यास-करणस्य  
+तीर्थ-प्रवेशादिष्व् इव  
+युग-विशेष-नियमो नास्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the same way as yogis **cast off** their bodies in virtue of certain yogas **practised** by them,  
@@ -3297,6 +3360,13 @@ como **entrada** a las aguas benditas por **entregar** la vida allí.
 इव्व्-आर्त-प्रपन्नऩे ऎल्लारिलुङ् कडुगव् आत्म-रक्षणम् पण्णुगिऱ्-अवऩ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् आर्त-प्रपन्न एव  
+सर्वेभ्यो ऽपि झटित्य् आत्म-रक्षण-कारी । 
+</details>
+
+
 <details><summary>English</summary>
 
 In fact the ārtaprapanna who **prays** for immediate **death is** one who **saves** his self sooner than all others.
@@ -3330,6 +3400,15 @@ De hecho, el ārtaprapanna que **reza** por la **muerte** inmediata **es** aquel
 इप्-पडि आर्तऩ्, दृप्तऩ् ऎऩ्गिऱ पिरिवुम्  
 इवऩुक्कुप् पिऱन्द शोकत्तिल् वैषम्यम् अडिय् आगच् चॊल्लुगिऱद् अत्तऩै,  
 ऒर्-उवऩुक्कु शोकम् इल्लामैय् अऩ्ऱु। 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+क इत्थम् आर्तः, को दृप्त इति विभागो ऽपि  
+एतस्य जाते शोके वैषम्यं निमित्ती-कृत्योच्यत  
+इत्य् एतावद् एव ; 
+ न त्व् एकस्य शोकाभावं (निमित्ती-कृत्योच्यते) । 
 </details>
 
 <details><summary>English</summary>
@@ -3367,6 +3446,16 @@ debido a la **diferencia** en la intensidad del dolor **sentido** por ellos resp
 इङ्गु दृप्तऩ्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> जन्मान्तरादि-मात्रे शोक-निमित्ततया ऽवस्थिते सति  
+यस्मिन् कस्मिंश्चिद् दिने मोक्षं प्राप्स्यामि
+
+इति समाश्वस्ततया वर्तमानो ऽत्र दृप्तः ;  
+</details>
+
+
+
 <details><summary>English</summary>
 
 The dṛpta-prapanna **is** one who **grieves** at the **thought** of another janma  
@@ -3397,6 +3486,12 @@ y **tiene** la paciencia de **esperar** hasta el final de esta **existencia**.
 
 अल्लदु उत्कृष्ट-जनावमानादि-हेतुव् आऩ गर्व-रूपम् आऩव् अन्-आत्म-गुणत्तैय् उडैयवऩ् अल्लऩ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+न तूत्कृष्ट-जनावमानादि-हेतु-भूत- गर्व-रूपानात्म-गुणवान् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3431,6 +3526,15 @@ y **lleva** a uno a **tratar** a los hombres buenos con desestimación.
 इदु परिपूर्ण-भगवद्-अनुभव-विरोधिय् आऩ पडियाले  
 इव्-वर्तमान-देह-सम्बन्धमुङ् कूड महाग्नि-पोले दुस्सहम् आय्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् शरीरे  
+चतुर्मुखैश्वर्ये लब्धे ऽप्य्  
+अस्य परिपूर्ण-भगवद्-अनुभव-विरोधित्वाद्  
+अस्मिन् वर्तमान-देह-संबन्धे ऽपि महाग्निवद् दुःसहे सति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3469,6 +3573,14 @@ que **siente** que su actual **asociación** con el cuerpo **es insoportable** c
 ऎऩ्ऩुम् बडि 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "देह-प्राणयोर् नाशम् अनुमन्यस्व" 
+
+इति यथोच्येत तथा  
+</details>
+
+
 <details><summary>English</summary>
 
 like one who **prays**, 
@@ -3500,6 +3612,8 @@ como quien **reza**,
 
 प्रपत्त्य्-अनुष्ठानानन्तरम् क्षण-मात्र-विलम्ब-क्षमऩ् अल्लाद्-अवऩ् आर्त-प्रपन्नऩ्।
 </details>
+
+
 
 <details><summary>English</summary>
 

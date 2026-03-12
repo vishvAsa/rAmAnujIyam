@@ -310,15 +310,10 @@ Senapati. But then.
 
 राजा -भगवन्, 
 
-त्रय्य्-अन्त-**स्थापको** ऽयं, दृढतरम् अमुना तत्त्व-दृष्टिश्च **दिष्टा**  
-दिष्ट्या **चादिष्टमेतद्** दिशि दिशि लडहो डिण्डिमस्ताडनीयः ।  
-शुष्कोपन्यास शिक्षापटिमकटुरटद्वैरिविद्वत्करोटी- 
-
-[^230]:
-     सुदृढं------ङ च छ
-
-
-कुट्टाकक्रीडमष्टापदकटकमसौ वामपादे विभर्तु ॥ १०१ ॥
+त्रय्य्-अन्त-**स्थापको** ऽयं, दृढतरम् अमुना तत्त्व-दृष्टिश् च **दिष्टा**  
+दिष्ट्या **चादिष्टम्** एतद् दिशि दिशि लडहो+++(=बन्धुरो)+++ डिण्डिमस् **ताडनीयः** ।  
+शुष्कोपन्यास-शिक्षा-पटिम--कटु-**रटद्**-वैरि-विद्वत्-करोटी+++(=शिरोस्थि)+++- 
+कुट्टाक-क्रीडम् अष्टा-पद-कटकम् असौ वामपादे विभर्तु ॥ १०१ ॥
 </details>
 
 <details><summary>मूलम् - १०१</summary>
@@ -332,8 +327,8 @@ Senapati. But then.
 त्रय्यन्तस्थापकोऽयं दृढतरममुना तत्वदृष्टिश्च दिष्टा 
 
 दिष्ट्या चादिष्टमेतद्दिशि दिशि लडहो+++(=बन्धुरो)+++ डिण्डिमस् **ताडनीयः** ।  
-शुष्कोपन्यास-शिक्षा-पटिम--कटु-रटद्-वैरि-विद्वत्-करोटी+++(=कपाल)+++--  
-कुट्टाक+++(=कर्तन)+++-क्रीडम् अष्टा-पद+++(=स्वर्ण)+++-कटकम् असौ वामपादे **बिभर्तु** ॥ १०१ ॥
+**शुष्कोपन्यास**-शिक्षा-पटिम--कटु-**रटद्**-वैरि-विद्वत्-करोटी+++(=कपाल)+++--  
+कुट्टाक+++(=कर्तन)+++-क्रीडम् अष्टा-पद+++(=स्वर्ण)+++-कटकम् असौ वाम-पादे **बिभर्तु** ॥ १०१ ॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -344,7 +339,11 @@ Pupil.--Great king! This holy sire deserveth it.
 Guru.--Thou too, (pupil !) by my mandate.  
 King.-Holy sire!  
 
-1\.   He (thy disciple) hath stoutly defended Vedanta. He hath also spread the knowledge of Truth. Gladly, I bid diminutive Dindimas (1. A species of kettle-drum) to be drummed in all directions. May he wear this gold bangle round his left foot, to serve as the toyish skull-splitter of those noisy wiseacre foes, firm in the faded farrago of their teachings. 
+1\.   He (thy disciple) hath stoutly defended Vedanta. He hath also spread the knowledge of Truth.  
+Gladly, I bid diminutive Dindimas (1. A species of kettle-drum) to be drummed in all directions. 
+May he wear this gold bangle round his left foot,  
+to serve as the toyish skull-splitter of those noisy wiseacre foes,  
+firm in the faded farrago of their teachings. 
 
 </details>
 
