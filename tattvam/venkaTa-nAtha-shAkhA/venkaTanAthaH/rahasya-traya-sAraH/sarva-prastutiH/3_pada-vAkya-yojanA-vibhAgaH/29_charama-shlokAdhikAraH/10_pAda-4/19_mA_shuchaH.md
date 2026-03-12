@@ -2597,13 +2597,19 @@ el Señor que **dijo**: -
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इत्थं कृतकृत्यस्यास्य 
+
 > (क्रियमाणं **न** कस्मैचित्  
 यद् अर्थाय **प्रकल्पते** ।  
 अक्रियावद् अनर्थाय)  
 तत् तु कर्म समाचरेत् ॥  
 (लक्ष्मीतन्त्रम् १७) 
 
+इति विहितं कर्तव्यान्तरं 
 
+> कैङ्कर्यानुप्रविष्ट-सद्-आचार-विशेष 
+
+इत्य् एतत् 
 </details>
 
 
@@ -2651,14 +2657,21 @@ y que, cuando **se omite**,
 +++(लक्ष्मी-तन्त्रे हि)+++ पूर्वापर-ग्रन्थङ्गळालुम्,  
 इश् श्लोकन्-तऩ्ऩिल्  
 
-> ‘‘अक्रियावद् अनर्थाय’’(लक्ष्मीतन्त्रम् १७) 
+> ‘‘अक्रियावद् अनर्थाय’’  
+(लक्ष्मीतन्त्रम् १७) 
 
 ऎऩ्गैयालुम् सिद्धम्। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘अक्रियावद् अनर्थाय’’(लक्ष्मीतन्त्रम् १७) 
++++(लक्ष्मी-तन्त्रे हि)+++ पूर्वापरग्रन्थाभ्याम्,  
+अस्मिन् श्लोक एव  
+
+> ‘‘अक्रियावद् अनर्थाय’’  
+(लक्ष्मीतन्त्रम् १७) 
+
+इत्य्-उक्त्या च सिद्धम् ।
 </details>
 
 <details><summary>English</summary>
@@ -2694,6 +2707,12 @@ donde **se dice** que la **omisión causará** mal.
 आगैयाल् मेल् फल-सिद्धियिल् संशयम् इल्लामैयालुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो ऽग्रे फल-सिद्धौ संशयाभावात्  
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore since the prapanna **has no** uncertainty  
@@ -2724,6 +2743,12 @@ concerniente al **logro** del fin deseado,
 मोक्षोपायम् आगव् ऒरु कर्तव्य-शेषम् इल्लामैयालुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मोक्षोपायत्वेन कस्यचित् कर्तव्य-शेषस्याभावात्  
+</details>
+
+
 <details><summary>English</summary>
 
 since he **has nothing** further to **do** for the sake of mokṣa,  
@@ -2746,11 +2771,16 @@ ya que él **no tiene** nada más que **hacer** por el bien de mokṣa,
 आज्ञानुपालन-रूपम् आऩ स्वयं-प्रयोजनम् आगैयालुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्येहत्य-कर्तव्यस्याज्ञानुपालन-- स्वयं-प्रयोजन-भावात्,  
+</details>
+
+
 <details><summary>English</summary>
 
 since what he **has yet to perform is** only the **keeping** of (the Lord's) commands  
 for their own sake, 
-
 </details>
 
 <details><summary>Español</summary>
@@ -2770,6 +2800,12 @@ por su propio bien,
 अधिकारान्तरत्तिऱ् सॊऩ्ऩ कट्टळैयिले  
 अनुतापादिगळाले सुपरिहरम् आगैयालुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अपराधे प्रसक्ते ऽधिकारान्तरोक्त-रीत्याऽनुतापादिभिः सुपरिहरत्वाच् च  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2797,6 +2833,13 @@ como **se señaló** en otro capítulo:
 
 इवऩ् हृष्ट-मनाव् आगक् कुऱैय् इल्लै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य हृष्ट-मनस्त्व-संपत्तेर्  
+न कापि क्षतिः ॥ 
+</details>
+
 
 <details><summary>English</summary>
 
