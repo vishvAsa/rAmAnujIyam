@@ -3140,7 +3140,7 @@ y **no es** dharma en el sentido principal de la palabra
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आगैयाल् फल-विशेष-नियम-विशेषङ्गळोडे कूडिऩ अहिंसादिगळै विडुगैय् आवदु  
+> आगैयाल् फल-विशेष-नियम-विशेषङ्गळोडे **कूडिऩ** अहिंसादिगळै विडुगैय् आवदु  
 फलङ्गळैयुम् नियमङ्गळैयुम् विडुगै। 
 </details>
 
@@ -3152,10 +3152,10 @@ y **no es** dharma en el sentido principal de la palabra
 
 <details><summary>English</summary>
 
-Therefore to give up non-violence undertaken for the sake of an object  
+Therefore to give up non-violence **undertaken** for the sake of an object  
 and in accordance with rules and restraints (niyama) means  
 to give up the object aimed at,  
-and the rules and restraints in practising it. 
+and the rules and restraints in **practising** it. 
 </details>
 
 <details><summary>Español</summary>
@@ -3189,7 +3189,7 @@ y las reglas y **restricciones** para practicarlo.
 
 <details><summary>English</summary>
 
-> Beyond this, there is no authority for giving up the abstention from forbidden things that is prescribed in the nivṛtti śāstras (i.e.) śāstras for securing mukti,
+> Beyond this, there **is** no authority for **giving up** the abstention from forbidden things that is prescribed in the nivṛtti śāstras (i.e.) śāstras for **securing** mukti,
 </details>
 
 <details><summary>Español</summary>
