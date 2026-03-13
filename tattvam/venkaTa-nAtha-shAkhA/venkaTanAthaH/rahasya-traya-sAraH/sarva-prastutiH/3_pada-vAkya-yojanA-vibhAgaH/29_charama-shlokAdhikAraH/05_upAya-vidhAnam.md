@@ -11,8 +11,6 @@ title = "०५ उपाय-विधानम्"
 अत्र पूर्वार्धम् उपाय-विधायकम् । 
 </details>
 
-
-
 <details><summary>English</summary>
 
 The first half of this (śloka) **enjoins** the upāya, 
