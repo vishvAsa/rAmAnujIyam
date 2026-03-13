@@ -9,7 +9,7 @@ title = "+अहोबिल-परम्परा"
 
 <details><summary>आदिमाहोबिलमठाचार्यस्य काले रविलोचनः</summary>
 
-His period should have started about 1458.. 60 yrs (one samvatsara cycle) later than the traditional dates claimed by the matha. That shall also explain how allasani peddanna (who was in krishnarayas durbar) calls him as his acharya among other things - like inscriptions of his successor from 1515 or so CE.
+अन्यत्र द्रष्टव्यम्। 
 </details>
 
 भूतशुद्धिमन्त्रेषु व्यत्यासो विद्यते -  
