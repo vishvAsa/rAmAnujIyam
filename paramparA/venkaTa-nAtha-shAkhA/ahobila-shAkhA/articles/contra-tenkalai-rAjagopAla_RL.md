@@ -11,38 +11,8 @@ Vaṇśaṭhakōpadayā
 ## Intro
 There exists this book “The origin and growth of Ahobila maTha – A study based on inscriptions” authored by a certain TA Rajagopalan. While it purports to be a scholarly work tracing the Origins of Ahobila maTha and Vadakalai Lineages in General, it is anything but scholarly and is filled with lies and fraud interspersed with few truths and illogical conclusions based on the facts presented. Instead of the scholarly stature claimed, all we come across is preposterous ahistorical claims and abuses on the ‘other side’ fuelling sectarian hatred. In contrast, our approach here strongly favours facts, and objectivity.
 
-## 0. Basic facts
 
-### vaDakalai sect antiquity
-At the outset, let me state a couple of basic facts.
-
-Firstly, the author has tried to portray that the Vadakalai sect came into existence around 1800 CE or perhaps around 1700 CE (based on which page of the book you are reading). 
-
-#### Symbol
-One of the main thrusts of his argument is based on the namam found in older inscriptions being of Tenkalai variant. It is now well known that the strict division in tilaka (namam) had occurred between the two schools – Vadakalai and Tenkalai – only within the last 2-3 centuries. So, mere presence of Tenkalai type of namam does not mean non-existence of Vadakalai school. 
-
-In fact, the author ignores the fact that the namams are seen only from the Vijayanagar era and even then, the padam in the namam is a mere short stub – to enable the tilaka to touch the top of the nose. This can be seen in the dvarapalakas of Vijaya Vitthala temple in Hampi. In the case of the Narasimha idol in Hampi, the tilaka is U shaped like Vadakalai namam – and in Hazara Rama temple(and many other temples of that area), the Vadakalai Urdhwapundra is found. It should be noted that all these Temples of Hampi were abandoned after battle of Talikota in 1560s. The surviving temples in the surroundings like in Anegundi have Vadakalai Sampradayam being followed there. 
-
-In current practice, The Tenkalais have lengthened the stub/padam significantly in general – whereas the Vadakalais seem to have simply rounded it off to touch the nose. Since this sharp difference seems to have occurred only in the past 2-3 centuries, using the tilaka to deduce the existence of Vadakalai school at any point of time in the past before the 1700s is fraught with mischief. If one goes by Pancharatra agamas, can find Pramanas of both the style of urdhvapundras throughout these texts, though it should be noted Vaikhanasa agama just has pramanas for Vadakalai Urdhvapundra. Concluding Kalai based on the thiruman in Historical instances is nonsensical.
-
-![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-5.png?w=1024)
-
-### Founding date
-Secondly, the founding date of Ahobila maTha is traditionally held to be 1398 CE by the maTha but it has been established as early as 1930s that the date has to be corrected by about 60 years (to be adjusted due to 60-year cycle being wrongly considered).+++(5)+++ We concur with this finding – which makes perfect sense based on inscriptions and other historical data related to some of the early pontiffs of this maTha. 
-
-Inscriptions referring to the 1st Jiyar, 2nd Jiyar, 3rd Jiyar and 6th Jiyar are attached below that confirm this. The dates of first 10 Jiyars must be adjusted by 60 years and the long reigns of 11th and 12th Jiyars that lack any inscriptions from their eras or texts authored by these Jiyars should be reduced to adjust.+++(5)+++ 
-
-The Matha’s dating since the 13th Jiyar’s days matches well with the historical evidences available.
-
-![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-6.png?w=1024)
-
-![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-7.png?w=782)
-
-![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-8.png?w=1024)
-
-![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-9.png?w=1024)
-
-## 1. Author, conclusions 
+## Author, conclusions 
 About the author and some of his conclusions.
 
 ### Clan
@@ -75,94 +45,55 @@ If at all no division existed till the 17th century, why claim that there was so
 
 The attempt to wipe away this fact by completely illogical line of “argument” seems to be due to the need to deny the existence of the Vadakalai sect as an authentic tradition reaching back to Ramanuja through Vedanta Desika. We shall proceed to now look through the claims of this book and see how they hold up against truth.  
 
-## 2. Parakala maTha, tAtAchAryas
-Historicity of Parakala maTha and the Tatacharya Family
+## vaDakalai antiquity
+The author has tried to portray that the Vadakalai sect came into existence around 1800 CE or perhaps around 1700 CE (based on which page of the book you are reading).
 
-### parakAla maTha antiquity
-In page 5, Rajagopalan claims that no reference to Parakala maTha was found till 1800 CE and that Ananthan Pillai family members served as Rajagurus till 1800 CE. This claim is a blatant lie.+++(5)+++ 
+### Symbol
+One of the main thrusts of his argument is based on the namam found in older inscriptions being of Tenkalai variant. It is now well known that the strict division in tilaka (namam) had occurred between the two schools – Vadakalai and Tenkalai – only within the last 2-3 centuries. So, mere presence of Tenkalai type of namam does not mean non-existence of Vadakalai school.
 
-On the contrary, there is enough evidence for the claim that Parakala maTha of the Vadakalai sect must have been rajagurus of the Mysore Royal family from much before 1800 CE. Copper plate grant of 1722 CE at Srirangapatnam by Sri Krishnaraja Wodeyar identifies Srinivasa yati as the guru of the ruler.+++(5)+++ This is a direct reference to Dodda Parakalaswamy aka Periya Parakalaswamy who moved from Tirumala to Mysore on the request of the Mysore kings. 
+In fact, the author ignores the fact that the namams are seen only from the Vijayanagar era and even then, the padam in the namam is a mere short stub – to enable the tilaka to touch the top of the nose. This can be seen in the dvarapalakas of Vijaya Vitthala temple in Hampi. In the case of the Narasimha idol in Hampi, the tilaka is U shaped like Vadakalai namam – and in Hazara Rama temple(and many other temples of that area), the Vadakalai Urdhwapundra is found. It should be noted that all these Temples of Hampi were abandoned after battle of Talikota in 1560s. The surviving temples in the surroundings like in Anegundi have Vadakalai Sampradayam being followed there.
 
-The Tenkalai text ‘Pazhanadai Vilakkam’ which attempts to deny authenticity of Parakala maTha lineage – quoted by Sri PB Annangarachar Swamy as well as Rajagopalan in their favour – refers to this fact that Periya Parakalaswamy became the Rajaguru of Mysore kingdom. 
+In current practice, The Tenkalais have lengthened the stub/padam significantly in general – whereas the Vadakalais seem to have simply rounded it off to touch the nose. Since this sharp difference seems to have occurred only in the past 2-3 centuries, using the tilaka to deduce the existence of Vadakalai school at any point of time in the past before the 1700s is fraught with mischief. If one goes by Pancharatra agamas, can find Pramanas of both the style of urdhvapundras throughout these texts, though it should be noted Vaikhanasa agama just has pramanas for Vadakalai Urdhvapundra. Concluding Kalai based on the thiruman in Historical instances is nonsensical.
 
-But the blind hatred towards Vadakalai sect combined with a need to be vainglorious seems to have made Rajagopalan to ignore this fact and make such baseless claims as above. 
+![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-5.png?w=1024)
 
-Sannads from the 17th century prove categorically that the Vadakalai sect of Srivaishnavism was followed by Mysore kings right from the era of Raja Wodeyar (1578 – 1617).  
+### ALvArs
+> 8\.  Brazen lies are told as well:
+“*In 1700 AD there was some sudden
+activity erupted in Divyadesams by the newly formed sect Vadakalai
+which tried to usurp powers in conduct of rituals in temples. A sect
+which was not seen in temples during earlier times and which did not
+have much respect for Alwars on a plea that there are members in it
+belonging to lower castes*“
 
-Following sannads from Annual report of Mysore Archaeological Department (1938) prove conclusively that Rajagopalan is lying brazenly:
+8\.  We have already quoted above a sanad from 1649 which shows that
+Ramanuja Dayapatram was being recited in Melkote since the 16th
+century. Thus, Vadakalai school was very much in existence much
+before 1700 as seen in the Pakshas of authors earlier.
+
+It is a
+brazen lie that Vadakalais do not respect Azhwars. Rather, we see
+that Vadakalais also treat Divya prabandham with great reverence.
+Desika had great reverence for the acharyas and vadakalais have even
+written their own commentaries on prabandhams – starting from Desika
+himself. Periya Parakalaswamy, whom the Tenkalais hold as the person
+behind the popularity of the Vadakalai sect, himself wrote a
+commentary on the entire Divya Prabandham.
+
+Keshava Shatakopa Jiyar
+of Ahobila Matha around late 1600s wrote his own Manipravala
+commentary on Thiruvaymozhi. So, the claim that they did not/do not
+respect Azhwars is thoroughly disproved.
+
+Just because there are
+relatively fewer (Tamil) Thenkalai scholars in Sanskrit Texts, a
+relative lack of an independent kalakshepa parampara of Vadakalai
+acharyas and many who prioritize just Azhwar’s works exists, it does
+not mean Vadakalais lack Scholarship over Azhwar’s Srisuktis and
+have their own independent learning and commentarial tradition on
+Divyaprabandhas since the times of Desika.
 
 
-A sanad from 1649 (erroneously written as 1709 – the 1709 kaNThIravanarasarAja was a deaf and dumb infant under the care of a melukoTe tenkalai Tirumalai Iyengar who would not have issued an order exclusively favoring the vaDakalai side) mentions that Ramanuja dayapatram alone was being recited in all sannidhis of Melkote Tirunarayanaswamy temple during prabandham recitation from the times of Raja Wodeyar and that the same shall continue henceforth as well.  
-
-![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-10.png?w=968)
-
-Another sanad from 1762 records a gift to Parakala swamy maTha – as an order given to Hyder Ali by the Maharaja and his mother.  
-A sanad of 1775 CE mentions the grant given to Parakala maTha by Krishnappa Nayaka of Belur. The yati is praised as ‘kavi kathaka kanthirava charana nalina yugala vinyasta’ – referring to his devotion to the feet of Sri Vedanta Desika. The same title is held by all Parakalaswamis – including the present pontiff. The yati is also called ‘asmad asadharana swami’ – thus declaring the yati as the acharya of Krishnappa Nayaka as well. 
-
-A 1783 CE sanad of Tipu Sultan orders that the sanad itself shall be preserved in Parakala maTha. It records that both Sri sailesha and Ramanuja dayapatrams shall be recited at Melkote temple – to be fair to both Tenkalais and Vadakalais. (Due to the lack of evidence of the Srishailesha dayapatra thaniyan before this order of Tipu Sultan, one can conclude that the Thenkalais of Mysore \[Like Shyama Iyengar\] got the rights of recitation of the said thaniyan by lobbying Tipu Sultan). (Attached below the record of Thenkalais lobbying Tipu for their rights)
-
-![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-11.png?w=1024)
-
-  
-<https://archive.org/details/dli.ministry.09552/page/117/mode/2up> : Refer this document for more records of this kind. 
-
-### tAtAchAryas
-Moving on to his false inferences on Tatacharyas:
-
-#### periya-tirumalai-nambi
-> In Page 9 and 10 of the book, the Person claims *“Though
-> Thathachariars claim to be the descendants of Periya Thirumalai Nambi,
-> the actual position is a different one. Peria Thirumalai Nambi had
-> only one son who died at his early years even before marriage.
-> Thirumalai Nambi was without heir then. He expressed this position
-> categorically at the time just before leaving this world. Speaking to
-> his personal deity whose name was “Vennaikadum Pillai” (one who will
-> dance for getting butter), Periya Thirumalai Nambi says ‘Swamin, I am
-> at a stage to leave this world to attain the feet of my Acharya
-> (guru). Hence you may select a person who will continue to offer you
-> butter and perform Thiruvaradhana to you’. ‘சாயலொடுமணிமாமை தளர்ந்தேன்நான்,
-> இனிஉனது வாயலகில் இன்னடிசில் வைப்பாரை நாடாயே’*
-
-##### Textual contradiction
-Now this is absolutely a false inference. Vaduga Nambi’s Yatiraja Vaibhavam Clearly mentions Thirukkurugai piran Pillan as being the son of Periya Thirumalai Nambi. Another Guruparampara Text authored by the Prasishya of Manavala Mamuni – Periya Thirumudi Adaivu again states Thirukkurugai Piran Pillan as being the Son of Periya Thirumalai Nambi.+++(5)+++ 
-
-##### Family lores
-The Vamsha of Periya Tirumalai Nambi exists in both the Kalais – Addanki Tatacharya family of Thenkalais who live in Srimushnam, Thirukkovalur and Srirangam.  
-And Vadakalai Tatacharyas who are more famed. 
-
-The familial records of both point out to them being Descendants of Thirukkurukai piran Pillan and that he was the son of Periya Tirumalai Nambi. 
-
-There is another family Thozhappars in Tirupati and surroundings who are the descendants of Thozhappachar who was another son of Periya Thirumalai nambi. 
-
-Inscriptions in Tirumala goes on to give kainkaryas to these two families. 
-
-##### IDu opinion
-The cited Tamil verse from Eedu does not point out anything regarding the stories he claims. They just say that none are there for me now in my last days and PTN informing Perumal to not search for the person who has been giving Sweet to Perumal. This taken into account with the hagiographies and records of the family actually validates the story that the kids of Periya Tirumalai nambi went to become Sishyas of Ramanuja (who was Periya Tirumalai Nambi’s nephew). 
-
-#### tAta-samudra-tilakas
-The Thathasamudram Tank and surrounding Hanuman temple has a majority of Vadakalai Thirumans and a few Thenkalai thirumans here and there. Again as discussed earlier – Thiruman’s barely matter in defining Kalai historically, but still a majority of sculptures do carry the U mark around the temple.
-
-![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-12.png?w=278)
-
-#### Miracle conversion
-> *“At the tail end of Vijayanagar power, some Thathachariars moved
-> towards Mysore and from there some of them moved to Kancheepuram. At
-> this period some miracle seems to have happened and a section of
-> Thathachariars family became Vadakalai due to coercion and returned to
-> Kancheepuram from Mysore.”*
-
-The miracle here is how no evidence for this conversion claim exists. 
-
-#### 1650 attack - tenkalai entry
-In the late 1650s after the Vijayanagara Empire fell, Kanchipuram was invaded by Muslim rulers. Large sections of the temple were destroyed during the invasion and the Utsava Vigrahas were taken to Uddayarpalayam by Archakas, the Tatacharyas went to Mysore for refuge from the Muslims who were targeting them as they were the royal preceptors of the Vijayanagara King. 
-
-During this era the temple was barely functional with Civil order non-existent. Members of the Gomatam Family of Thenkalai Sampradayam were administering the temple in this state and those of PBA family got Tirtham in this period. +++(??)+++
-
-#### Restoration
-When Civil rule returned during the reign of Arcot Nawab and the Madhva prime Minister Baburayan, the old norms (which are also recorded in the temple’s inscriptions) were returned to the Tatacharyas who returned from Mysore. Mandapas like the one in front of Perundevi Thayar hillock were built by Baburayan and the full rights over Temple returned to Tatacharyas. 
-
-#### Attan jIyar reward
-Later when Athan Jiyar retrieved the Utsava Vigrahas from Uddayarpalayam, the claim is they got Divyaprabandha recitation rights as a reward for this, though it should be noted that this Agreement does not exist in original form and just an affidavit does. The forthcoming pages goes on doing baseless rants.  
 
 ### Sectarian texts
 In page 13, he goes on to lie more brazenly : 
@@ -188,122 +119,152 @@ Duruhasiksha (the title calls the “assumptions” of Thenkalais as Dur – Uha
 
 One can also find veiled criticisms of Thenkalai Pakshas in Granthas starting from that of Vedanta Desika in Srimad Rahasyatraya Sara, the sanskrit Rahasyatrayasarartha sangraha of Kumara Varadacharya, the texts of Narayana Muni (discussed later) and Shatakratu tatacharya.
 
-## 3. Ahobila maTha
-Regarding Ahobila maTha’s history
+9\.  Lack of early separate philosophical works condemning other sects
+does not mean two sects did not exist. The earliest surviving book
+on exclusive condemnation of Advaita is Shatadushani which is
+centuries after Ramanuja authored Sribhashya or Nathamuni’s Nyaya
+tattva. Sribhashya itself has parts starting from Jignyasadhikarana
+condemning Advaita pakshas. Similarly, Desika’s Srimad
+Rahasyatrayasara lists out and condemns theological points held by
+thenkalais based on Acharya Hrudayam and its commentaries. Separate
+texts came a few centuries later like Purushakara Mimamsa or
+Sritattva Siddhanjana.
 
-Rajagopalan now moves to his main target, Ahobila maTha. The points he lists there are:  
 
-1.  TTD inscriptions talk about Van Satakopa maTha only from 1493 CE and
-    that the maTha belonged to Tenkalai sect till 1800 CE 2.  Krishnadevaraya’s guru was Ananthan Pillai Govindachariar and that
-    the king appointed one Thathacharya as manager of South Indian
-    temples 3.  Kotikanyadanam thathacharya could not have conducted one crore
-    marriages 4.  So-called Tenkalai namams found on the inscriptions of the
-    Thathacharyas from the 16th century supposedly prove that they
-    belonged to Tenkalai school 5.  Thathacharyas provided funds for food offerings to various Azhvars
-    and Acharyas including Manavala Mamunigal. Hence, they could not be
-    Vadakalai. 6.  Kotikanyadanam Thathacharya belonged to Tenkalai school. At the end
-    of Vijayanagar period, some thathacharyas moved to Mysore and then
-    came back to Kanchi. During this time, some of them became vadakalai
-    due to coercion. 7.  Presence of Tenkalai Thathacharyas in Srimusham, (Melkote?)Edur,
-    Addanki, Thirukkovilur etc are supposedly proof for all
-    Thathacharyas being Tenkalai. 8.  Brazen lies are told as well: “*In 1700 AD there was some sudden
-    activity erupted in Divyadesams by the newly formed sect Vadakalai
-    which tried to usurp powers in conduct of rituals in temples. A sect
-    which was not seen in temples during earlier times and which did not
-    have much respect for Alwars on a plea that there are members in it
-    belonging to lower castes*“ 9.  *An important point to be noted here is that there was no separate
-    literature for Vadakalai Sect, till 1700 AD explaining their
-    difference with Thenkalai Sect. It is only in the 18th century
-    Thirumazhisai Annavappayangar wrote Pazhanadai Vilakkam explaining
-    the difference between the two sects*…..”
+## tAtAchAryas
+Moving on to his false inferences on Tatacharyas:
 
-We shall answer them in brief as follows:
+### periya-tirumalai-nambi
+> In Page 9 and 10 of the book, the Person claims *“Though
+> Thathachariars claim to be the descendants of Periya Thirumalai Nambi,
+> the actual position is a different one. Peria Thirumalai Nambi had
+> only one son who died at his early years even before marriage.
+> Thirumalai Nambi was without heir then. He expressed this position
+> categorically at the time just before leaving this world. Speaking to
+> his personal deity whose name was “Vennaikadum Pillai” (one who will
+> dance for getting butter), Periya Thirumalai Nambi says ‘Swamin, I am
+> at a stage to leave this world to attain the feet of my Acharya
+> (guru). Hence you may select a person who will continue to offer you
+> butter and perform Thiruvaradhana to you’. ‘சாயலொடுமணிமாமை தளர்ந்தேன்நான்,
+> இனிஉனது வாயலகில் இன்னடிசில் வைப்பாரை நாடாயே’*
 
-1.  The date of Adi Van Satakopa has been corrected by historians and
-    Vidvans and the same is acceptable to us. As for the claim about the
-    maTha being Tenkalai till 1800, we will deal with it in detail later.
-    For now, the Second Jiyar (of late 1400s and early 1500s) of Ahobila
-    Matha’s granthas obtained in Public libraries can be seen to be of
-    Vadakalai Paksha and containing Vyakhyanas and Citations of Swamy
-    desikan’s granthas. The 6th Azhagiyasingar (of 1550s) has authored a
-    Bharanyasakrama found in GOML Chennai- a paddathi grantha on doing a
-    separate Bharanyasa. 2.  All popular narratives and Inscription alludes to Tatacharya and
-    Vyasaraya (of Madhva tradition) being the Rajagurus of the empire.
-    Rajagopalan has a compulsive disorder forcing him to identify any
-    and all Ananthanpillai men associated with rulers based on unrelated
-    inscriptions as their Rajagurus. 3.  Rajagopalan should be objecting to every athishayokti prayoga in
-    literature. His own vamsha agree that it is a few lakh marriages and
-    not a Crore. 4.  This has been answered before, the structures built by Tatacharyas
-    have both U and Y next to each other too in cases. This is not a
-    proper line of argument for anyone with historical literacy. 5.  Krishnadevaraya mentions Manavala Mamuni, Adivan Satakopa as well as
-    Vedanta Desika in Amuktamalyada 6.66. All three are seen as avataras
-    of Ramanuja by Krishna Raya. There was no dvesha in that era despite
-    philosophical differences. Thathacaryas were giving endowments for
-    all Azhwars and Acharyas in the temple – no reason why they should
-    single out Manavala Mamuni by not endowing him. Rajagopalan is
-    imposing modern fights on ancient acharyas. One can see in
-    inscription 32 here of Tatacharyas executing utsavas for
-    Manavalamamuni in Kanchi temples using the funds given by a certain
-    Thoppur Tirumala Nayakkar
-    <https://archive.org/details/kanchipuram-maavata-kalvettukal-vol-iii/page/84/mode/2up> 6.  Why would someone coerce them? Who did it for what reasons? Are
-    baseless allegations. There is a prominent Vedanta Desika shrine in
-    Varadaraja temple right in front of the temple of a separate
-    structure – while the Manavalamamuni sannidhi was built through a
-    different vigraha in a temple Mandapa relatively recently. Similar
-    history of Tatacharya agraharas around Kanchi having prominent
-    Vedanta Desika shrines while no trace of Manavalamamuni shrines
-    could be found. This shows that though they respected Manavalamamuni
-    and conducted utsavas for them, prominence was given to Vedanta
-    Desika throughout 7.  No one denies there exists Thenkalai tatacharya’s – As far as I
-    could find they carry the Eddur-Attangi title. Their family Thaniyan
-    lists and Lineage claims (can contact the Triplicane Attangi swamy
-    Thirumaligaiyar) descent from Periya Tirumalai nambi and
-    Thirukkurukai Piran Pillan (some thing this author denied earlier)
-    and some descendants of Pillan ended up being a sishya of
-    Manavalamamuni/Koil Kandhadai annan (Ettur Singaracharyar). There
-    are Thenkalai and Vadakalai descendants of most Simhasanadhipatis,
-    so is it in the case of Periya Tirumalai Nambi. 8.  We have already quoted above a sanad from 1649 which shows that
-    Ramanuja Dayapatram was being recited in Melkote since the 16th
-    century. Thus, Vadakalai school was very much in existence much
-    before 1700 as seen in the Pakshas of authors earlier. It is a
-    brazen lie that Vadakalais do not respect Azhwars. Rather, we see
-    that Vadakalais also treat Divya prabandham with great reverence.
-    Desika had great reverence for the acharyas and vadakalais have even
-    written their own commentaries on prabandhams – starting from Desika
-    himself. Periya Parakalaswamy, whom the Tenkalais hold as the person
-    behind the popularity of the Vadakalai sect, himself wrote a
-    commentary on the entire Divya Prabandham. Keshava Shatakopa Jiyar
-    of Ahobila Matha around late 1600s wrote his own Manipravala
-    commentary on Thiruvaymozhi. So, the claim that they did not/do not
-    respect Azhwars is thoroughly disproved. Just because there are
-    relatively fewer (Tamil) Thenkalai scholars in Sanskrit Texts, a
-    relative lack of an independent kalakshepa parampara of Vadakalai
-    acharyas and many who prioritize just Azhwar’s works exists, it does
-    not mean Vadakalais lack Scholarship over Azhwar’s Srisuktis and
-    have their own independent learning and commentarial tradition on
-    Divyaprabandhas since the times of Desika. 9.  Lack of early separate philosophical works condemning other sects
-    does not mean two sects did not exist. The earliest surviving book
-    on exclusive condemnation of Advaita is Shatadushani which is
-    centuries after Ramanuja authored Sribhashya or Nathamuni’s Nyaya
-    tattva. Sribhashya itself has parts starting from Jignyasadhikarana
-    condemning Advaita pakshas. Similarly, Desika’s Srimad
-    Rahasyatrayasara lists out and condemns theological points held by
-    thenkalais based on Acharya Hrudayam and its commentaries. Separate
-    texts came a few centuries later like Purushakara Mimamsa or
-    Sritattva Siddhanjana.  
+#### Textual contradiction
+Now this is absolutely a false inference. Vaduga Nambi’s Yatiraja Vaibhavam Clearly mentions Thirukkurugai piran Pillan as being the son of Periya Thirumalai Nambi. Another Guruparampara Text authored by the Prasishya of Manavala Mamuni – Periya Thirumudi Adaivu again states Thirukkurugai Piran Pillan as being the Son of Periya Thirumalai Nambi.+++(5)+++
 
-## 4. Regarding Kanchi, Tatacharyas and Parakala Matha
+#### Family lores
+The Vamsha of Periya Tirumalai Nambi exists in both the Kalais – Addanki Tatacharya family of Thenkalais who live in Srimushnam, Thirukkovalur and Srirangam.  
+And Vadakalai Tatacharyas who are more famed.
+
+The familial records of both point out to them being Descendants of Thirukkurukai piran Pillan and that he was the son of Periya Tirumalai Nambi.
+
+There is another family Thozhappars in Tirupati and surroundings who are the descendants of Thozhappachar who was another son of Periya Thirumalai nambi.
+
+Inscriptions in Tirumala goes on to give kainkaryas to these two families.
+
+#### IDu opinion
+The cited Tamil verse from Eedu does not point out anything regarding the stories he claims. They just say that none are there for me now in my last days and PTN informing Perumal to not search for the person who has been giving Sweet to Perumal. This taken into account with the hagiographies and records of the family actually validates the story that the kids of Periya Tirumalai nambi went to become Sishyas of Ramanuja (who was Periya Tirumalai Nambi’s nephew).
+
+### tAta-samudra-tilakas
+The Thathasamudram Tank and surrounding Hanuman temple has a majority of Vadakalai Thirumans and a few Thenkalai thirumans here and there. Again as discussed earlier – Thiruman’s barely matter in defining Kalai historically, but still a majority of sculptures do carry the U mark around the temple.
+
+![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-12.png?w=278)
+
+### rAjaguru
+> 2\.  Krishnadevaraya’s guru was Ananthan Pillai Govindachariar and that
+the king appointed one Thathacharya as manager of South Indian temples
+
+2\.  All popular narratives and Inscription alludes to Tatacharya and
+Vyasaraya (of Madhva tradition) being the Rajagurus of the empire.
+Rajagopalan has a compulsive disorder forcing him to identify any
+and all Ananthanpillai men associated with rulers based on unrelated
+inscriptions as their Rajagurus.
+
+### marriage count
+> 3\.  Kotikanyadanam thathacharya could not have conducted one crore marriages
+
+3\.  Rajagopalan should be objecting to every athishayokti prayoga in
+literature. His own vamsha agree that it is a few lakh marriages and
+not a Crore.
+
+### Sect
+> 4\.  So-called Tenkalai namams found on the inscriptions of the Thathacharyas from the 16th century supposedly prove that they belonged to Tenkalai school
+
+4\.  This has been answered before, the structures built by Tatacharyas
+have both U and Y next to each other too in cases. This is not a
+proper line of argument for anyone with historical literacy.
+
+> 5\ .  Thathacharyas provided funds for food offerings to various Azhvars and Acharyas including Manavala Mamunigal. Hence, they could not be Vadakalai.
+
+5\.  Krishnadevaraya mentions Manavala Mamuni, Adivan Satakopa as well as
+Vedanta Desika in Amuktamalyada 6.66. All three are seen as avataras
+of Ramanuja by Krishna Raya. There was no dvesha in that era despite
+philosophical differences. Thathacaryas were giving endowments for
+all Azhwars and Acharyas in the temple – no reason why they should
+single out Manavala Mamuni by not endowing him. Rajagopalan is
+imposing modern fights on ancient acharyas. One can see in
+inscription 32 here of Tatacharyas executing utsavas for
+Manavalamamuni in Kanchi temples using the funds given by a certain
+Thoppur Tirumala Nayakkar
+<https://archive.org/details/kanchipuram-maavata-kalvettukal-vol-iii/page/84/mode/2up>
+
+### Miracle conversion
+> *“At the tail end of Vijayanagar power, some Thathachariars moved
+> towards Mysore and from there some of them moved to Kancheepuram. At
+> this period some miracle seems to have happened and a section of
+> Thathachariars family became Vadakalai due to coercion and returned to
+> Kancheepuram from Mysore.”*
+
+The miracle here is how no evidence for this conversion claim exists.
+
+### Shrines
+6\.  Why would someone coerce them? Who did it for what reasons? Are
+baseless allegations. There is a prominent Vedanta Desika shrine in
+Varadaraja temple right in front of the temple of a separate
+structure – while the Manavalamamuni sannidhi was built through a
+different vigraha in a temple Mandapa relatively recently.
+
+Similar history of Tatacharya agraharas around Kanchi having prominent
+Vedanta Desika shrines while no trace of Manavalamamuni shrines
+could be found. This shows that though they respected Manavalamamuni
+and conducted utsavas for them, prominence was given to Vedanta
+Desika throughout
+
+### Descendents
+> 7\.  Presence of Tenkalai Thathacharyas in Srimusham, (Melkote?)Edur,
+Addanki, Thirukkovilur etc are supposedly proof for all
+Thathacharyas being Tenkalai.
+
+7\.  No one denies there exists Thenkalai tatacharya’s – As far as I
+could find they carry the Eddur-Attangi title. Their family Thaniyan
+lists and Lineage claims (can contact the Triplicane Attangi swamy
+Thirumaligaiyar) descent from Periya Tirumalai nambi and
+Thirukkurukai Piran Pillan (some thing this author denied earlier)
+and some descendants of Pillan ended up being a sishya of
+Manavalamamuni/Koil Kandhadai annan (Ettur Singaracharyar). There
+are Thenkalai and Vadakalai descendants of most Simhasanadhipatis,
+so is it in the case of Periya Tirumalai Nambi.
+
+
+### 1650 attack - tenkalai entry
+In the late 1650s after the Vijayanagara Empire fell, Kanchipuram was invaded by Muslim rulers. Large sections of the temple were destroyed during the invasion and the Utsava Vigrahas were taken to Uddayarpalayam by Archakas, the Tatacharyas went to Mysore for refuge from the Muslims who were targeting them as they were the royal preceptors of the Vijayanagara King.
+
+During this era the temple was barely functional with Civil order non-existent. Members of the Gomatam Family of Thenkalai Sampradayam were administering the temple in this state and those of PBA family got Tirtham in this period. +++(??)+++
+
+### Restoration
+When Civil rule returned during the reign of Arcot Nawab and the Madhva prime Minister Baburayan, the old norms (which are also recorded in the temple’s inscriptions) were returned to the Tatacharyas who returned from Mysore. Mandapas like the one in front of Perundevi Thayar hillock were built by Baburayan and the full rights over Temple returned to Tatacharyas.
 
 > “*It is in this period in about 1711 AD Thathachariars came to
 > Kancheepuram and claimed some rights in Varadarajaswamy temple using
 > the influence of Lakshmi kumara Thathachariar of Kotikanyadanam family
-> had with Vijayanagar Empire. Sri.U.Ve.P.B.Annagarachariar Swamy of
-> Kanchee in his monthly journal “Ramanujan” (No.356) wrote an article
-> titled “Sri Varadaraja Swamy Temple”. In that article he states as
-> follows: “The nature of wave of fanaticism and conversion started by
-> Periya Parakala Jeeyar to which Thathachariars of that place should
-> have succumbed and became Vadakalais”. He also quotes references from
-> “Pazhanadai Vilakkam” in support of his argument. With a fond hope
+> had with Vijayanagar Empire.
+
+Post Vijayanagar era, the Tenkalais were in the temple \[which was part destroyed and utsava vigrahas taken to Uddayarpalayam\] since Thathacharyas had moved to Mysore to escape invading Muslims armies who would have targeted the Rajagurus of Vijayanagar. Now, they simply wanted to retain their privilege in the temple after utsava vigrahas returned and succeeded in retaining Adhyapaka Miras alone.
+
+### Attan jIyar reward
+Later when Athan Jiyar retrieved the Utsava Vigrahas from Uddayarpalayam, the claim is they got Divyaprabandha recitation rights as a reward for this, though it should be noted that this Agreement does not exist in original form and just an affidavit does. The forthcoming pages goes on doing baseless rants.
+
+#### Dead Vijayanagara "supports"
+> With a fond hope
 > that the temple can derive much help from the Vijaya nagar Kingdom,
 > the then Administrator and the Right holder Sri Athan Jeeyar, (Guru of
 > Raja Thodarmal, who was instrumental in bringing back the image of
@@ -319,13 +280,14 @@ We shall answer them in brief as follows:
 > and in the houses of temple servants. Sri Lakshmikumara Thathachariar
 > was made a Theerthakar only and in no other capacity. The Jeeyar
 > continued to be the trustee. There were many Theertha kars with miras
-> belonging to Thenkalai sect for centuries*”
+> belonging to Thenkalai sect for centuries”
 
 Both PB Annanagarchar Swamy and Rajagopalan are making nonsensical claims here. The Vijayanagar empire was destroyed in the 1650s. Which Vijayanagar empire’s support was expected by Athan Jeeyar in 1711? He even contradicts himself within 2 paragraphs. He says that Thathacharya was given first theertham and certain privileges. In the very next paragraph, he says that he “was made a theerthakar only and in no other capacity”. He should first decide whether there were any other privileges or not.
 
-What the Athan Jeeyar inscription actually tells us is this – the 1709 CE sanad mentioned earlier is true. Ramanuja Dayapatram was also very much in vogue during this time. Post Vijayanagar era, the Tenkalais were in the temple \[which was part destroyed and utsava vigrahas taken to Uddayarpalayam\] since Thathacharyas had moved to Mysore to escape invading Muslims armies who would have targeted the Rajagurus of Vijayanagar. Now, they simply wanted to retain their privilege in the temple after utsava vigrahas returned and succeeded in retaining Adhyapaka Miras alone. One should also note that as said earlier, the original agreement does not exist anywhere.
+What the Athan Jeeyar inscription actually tells us is this – the 1649 CE sanad mentioned earlier is true. Ramanuja Dayapatram was also very much in vogue during this time.+++(5)+++
 
-Rajagopalan is a compulsive liar. It is unfortunate that Krishnamachariar seems to have taken his lies at their face value and endorsed them as such – it seems bigotry can blind anyone. He says:  
+### Inscription forgery claim
+Rajagopalan is a compulsive liar. It is unfortunate that Krishnamachariar seems to have taken his lies at their face value and endorsed them as such – it seems bigotry can blind anyone. He says:
 
 > *“I am giving these details about Thathachariars simply because they
 > are the main party responsible, in their capacity as Honorary Trustees
@@ -339,18 +301,115 @@ Rajagopalan is a compulsive liar. It is unfortunate that Krishnamachariar seems 
 > himself raised objections to the contents of it while explaining the
 > inscription in Epigraphia Indica volume itself.”*
 
-Epigraphia Indica Vol 25 is where Sri Ramanatha Iyer gives details about this inscription in pages 318-326. He has raised no objections to the contents of the inscription per se. He has even stated that there is no issue with the orthography of the inscription – if it was indeed a bogus inscription created centuries later, then the epigraphists would be identifying the same through problems in orthography. But Sri Iyer has no problems with the inscription. In fact, there are certain aspects of this inscription which establishes it as an authentic inscription of that era. The manager of the temple is identified as Perumal Tatan – there were Tatacharyas using the title Tatan who managed the temple in that era. Also, guruparampara texts talk about Brahamatantra svatantra being given the title by Desika himself. A later bogus inscription would have mentioned the story as such or made Desika as the person who requested Perumal. Instead, we see that the name of Perumal Tatan is mentioned here.  
+Epigraphia Indica Vol 25 is where Sri Ramanatha Iyer gives details about this inscription in pages 318-326. He has raised no objections to the contents of the inscription per se. He has even stated that there is no issue with the orthography of the inscription – if it was indeed a bogus inscription created centuries later, then the epigraphists would be identifying the same through problems in orthography.
 
-## 5. Accusations based on Assumptions and doing fraud on Ahobila Matha
+But Sri Iyer has no problems with the inscription.  
+In fact, there are certain aspects of this inscription which establishes it as an authentic inscription of that era. The manager of the temple is identified as Perumal Tatan – there were Tatacharyas using the title Tatan who managed the temple in that era.
 
+#### Poor forgery
+Also, guruparampara texts talk about Brahamatantra svatantra being given the title by Desika himself. A later bogus inscription would have mentioned the story as such or made Desika as the person who requested Perumal. Instead, we see that the name of Perumal Tatan is mentioned here.
+
+### Book insertion claim
+
+> But an inscription has been created perhaps after creating a story as said above during the Honorary Trusteeship of Thathachariars after 1800 AD at Arulalapperumal Temple and they have also successfully made it included in [[19]] Epigraphia Indica, a book of Archeological Department created by the British Government.
+
+Strange conspiracy theory to dismiss contrary evidence.
+
+Also, this conflicts with their own claim that the author of the Epigraphia Indica article "objected" to the inscription contents.
+
+
+## Ahobila maTha
+Regarding Ahobila maTha’s history
+
+### Dates
+Secondly, the founding date of Ahobila maTha is traditionally held to be 1398 CE by the maTha but it has been established as early as 1930s that the date has to be corrected by about 60 years (to be adjusted due to 60-year cycle being wrongly considered).+++(5)+++ We concur with this finding – which makes perfect sense based on inscriptions and other historical data related to some of the early pontiffs of this maTha.
+
+Inscriptions referring to the 1st Jiyar, 2nd Jiyar, 3rd Jiyar and 6th Jiyar are attached below that confirm this. The dates of first 10 Jiyars must be adjusted by 60 years and the long reigns of 11th and 12th Jiyars that lack any inscriptions from their eras or texts authored by these Jiyars should be reduced to adjust.+++(5)+++
+
+The Matha’s dating since the 13th Jiyar’s days matches well with the historical evidences available.
+
+> 1\.  TTD inscriptions talk about Van Satakopa maTha only from 1493 CE and
+that the maTha belonged to Tenkalai sect till 1800 CE
+
+The date of Adi Van Satakopa has been corrected by historians and Vidvans and the same is acceptable to us. As for the claim about the maTha being Tenkalai till 1800, we will deal with it in detail later.
+
+
+#### jIyar 1 - saluva narasiMha (1485 – c.1491)
+
+at this rate, (the respective balances of the offerings made) to AỊagiya-Śingar your āchārya Van Śaṭhakōpa-Jīyar¹ and the successive line of his disciples shall receive on behalf of the workmen engaged in the cultivation of your *nandavanam*.
+
+Inscription from The days of Saluva Narasimha from the Last parts of 1400s referring to Van'Saṭhakopajīyar (Tirumala Inscriptions Volume 2 no 101
+
+***
+
+![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-6.png?w=1024)
+
+#### jIyar 2 - 1516
+TIRUPATI DEVASTHANAM INSCRIPTIONS: — Vol. III
+
+**Translation**
+
+1-2. May prosperity abide! Hail! On Wednesday,' combined with the star Rōhiṇi, being the 8th lunar day of the dark fortnight of the Simha month in the cyclic year Dhātu, corresponding to the year 1438 of the Śaka era, the Sthānattār (Trustees) of Tirumalai executed this śilāśāsanam in favour of Śrīman Nārāyaṇa Jīyar, the disciple of Sri-Van-Saṭhakōpa Jīyar, to wit.,
+
+2-7. nar-paṇam 1,860 is the capital which you deposited this day into the Śrī-Bhaṇḍāram (Temple treasury) with the stipulation of offering the following paḍis in your name on the prescribed days :—
+
+1 tiruvōḷakkam, 1 atirasa-paḍi, 1 vaḍai-paḍi, 1 gōdhi-paḍi, 1 sukhiyan-paḍi and 1 iḍḍali paḍi, 5 paḍi in total to be offered to Śrī Vēnkaṭēśa as Tirumōli-paḍi on the 4th festival day of the first 10 days of Adhyayanōtsavam celebrated for TiruvāymoỊudaiyān at Tirumalai ;
+
+Record of 2nd Jiyar of Ahobila Matha instituting Kainkaryams to vanshatakopa swamy in 1516 June 2 - Matching the +60 yrs from Older dates of initial pontiffs of the Mutt No 110 Tirumala Inscriptions Volume 3
+
+
+
+![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-7.png?w=782)
+#### jIyar 3 - 1539
+**Image 3**
+
+Inscription from the reign of Achyutaraya from 1539 AD talking about a donation made by the Third Jiyar of Ahobila Matha in Varadaraja Temple, Kanchi District inscriptions Volume 3 197. The next inscription no 198 is also a record of donation made by the third Jiyar of Ahobila Matha
+
+***
+
+
+![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-8.png?w=1024)
+#### jIyar 6 - 1554
+**Image 4**
+
+No. 199.
+(A. R. No. 65 of 1915.)
+(CHINNA-AHŌBALAM, SIRVEL TALUK, KURNOOL DISTRICT.
+On a slab set up in the court-yard of the Narasimhasvāmi temple.
+Sadāśiva, 1554 A.D.
+
+This is dated Śaka 1477 (current), Ānanda, Mārgaśira ba. 5, corresponding to 1554 A.D., December 14. (Friday).
+
+It registers the *dāsovada* grant of land in the village of Peḍakalūru to Mahāmaṇḍa-lēśvara Avubhaļarāju, son of Kōnēṭirājayya and grandson of Rāmarāju Peḍa-Koṇḍaya-dēva Mahārāja of the lunar race, by Parānkuśā Vaṁ Śaṭhagōpayajīya, the trustee of the temple, Hariharanāthuni Peḍdayya, the agent of Mahāmaṇḍalēśvara Aliya Rāmap-payya and the *adhikārin-diru*, for his having constructed the tank Kōnasamudram alias Śrīmannārā-yaṇasamudram to the north-east of Ālamūru.
+
+An inscription from 1554 AD in Chinna Ahobilam (Published in South Indian inscriptions Volume 16) refers to Shashta Parankusha Swamy (6th Jiyar) as the trustee of the temple.
+
+![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-9.png?w=1024)
+
+### Sect
+
+#### Early works
+For now, the Second Jiyar (of late 1400s and early 1500s +++(a tAtAchArya)+++) of Ahobila Matha’s granthas obtained in Public libraries can be seen to be of
+    Vadakalai Paksha and containing Vyakhyanas and Citations of Swamy desikan’s granthas. The 6th Azhagiyasingar (of 1550s) has authored a Bharanyasakrama found in GOML Chennai- a paddathi grantha on doing a separate Bharanyasa.
+
+
+
+
+#### pAncharAtra customs
 > About Ahobila maTha, he says – “*It is this time, the Ahobila maTha seem
 > to have been converted in to Vadakalai*……*Till a very recent period
 > they were following same customs as that of Then kalai and even today
-> perfor ming Krishna Jayanti, Sandhya vandam, reciting of Thiruvoimozhi
+> performing Krishna Jayanti, Sandhya vandam, reciting of Thiruvoimozhi
 > and giving lectures on Eedu etc., on a similar manner.* “
 
-Ahobila maTha simply follows Pancaratra in celebration of festivals- because the primary deity Malolan is utsava Vigraha of pancharatra temple. There is nothing specifically Tenkalai about Pancaratra. As for the maTha supposedly using Eedu as well in their lectures, it should be noted that the Samashrayana Parampara of Adivan Satakopa Swami was through Vadakku thiruveedhi Pillai while their Grantha Kalakshepa Parampara is through Brahmatantra Svatantra Jiyar and Vedanta Desika. The maTha has accepted it very clearly in their [website](https://www.ahobilamutt.org/us/acharya/lineage/lineage.asp) itself. As such, there is nothing surprising that they refer to Eedu in their lectures. Just because Manavalamamuni gave kalakshepas based on Eedu it does not become the property of Thenkalais, the text was authored earlier and an unbiased read of it will show it has some aspects that are explicitly pro-Vadakalai but lacks any such places regarding Thenkalai pakshas.
+Ahobila maTha simply follows Pancaratra in celebration of festivals- because the primary deity Malolan is utsava Vigraha of pancharatra temple. There is nothing specifically Tenkalai about Pancaratra. 
 
+#### IDu
+As for the maTha supposedly using Eedu as well in their lectures, it should be noted that the Samashrayana Parampara of Adivan Satakopa Swami was through Vadakku thiruveedhi Pillai while their Grantha Kalakshepa Parampara is through Brahmatantra Svatantra Jiyar and Vedanta Desika. The maTha has accepted it very clearly in their [website](https://www.ahobilamutt.org/us/acharya/lineage/lineage.asp) itself. As such, there is nothing surprising that they refer to Eedu in their lectures. 
+
+Just because Manavalamamuni gave kalakshepas based on Eedu it does not become the property of Thenkalais, the text was authored earlier and an unbiased read of it will show it has some aspects that are explicitly pro-Vadakalai but lacks any such places regarding Thenkalai pakshas.+++(5)+++
+
+### Temple conversion
 > “*But unexpectedly the pontiff converted his maTha, Ahobilam temple and
 > Veeraraghava swamy Temple at Tiruvallore which were under their
 > control into Vadakalai*“
@@ -361,8 +420,13 @@ Ahobila maTha simply follows Pancaratra in celebration of festivals- because the
 
 ![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-14.png?w=626)
 
-When one goes through the book’s copy obtainable online [Jagadesa Iyer’s South indian shrines](https://dn790008.ca.archive.org/0/items/pli.kerala.rare.22199/pli.kerala.rare.22199.pdf) here, this Picture is nowhere to be found to verify these claims. No Public records of another book of the same name by the same author is to be found, nor a volume 2. Kindly requesting Mr TA Rajagopalan to provide the source of this image in a better quality for verification. This doubt arises due to inscriptional fraud described below.
+When one goes through the book’s copy obtainable online [Jagadesa Iyer’s South indian shrines](https://dn790008.ca.archive.org/0/items/pli.kerala.rare.22199/pli.kerala.rare.22199.pdf) here, this Picture is nowhere to be found to verify these claims. No Public records of another book of the same name by the same author is to be found, nor a volume 2. Kindly requesting Mr TA Rajagopalan to provide the source of this image in a better quality for verification. 
 
+This doubt arises due to inscriptional fraud described below.
+
+
+### sIta-karagaNDa-nandavanam fraud
+#### Data check
 In page 48, 59 and 61:
 
 > *“(a) Sl.118-611 TT of Saka 1439 (AD 1517) in Vol.III refers to an
@@ -430,17 +494,49 @@ The terms “Vansatakopa Nandavanam” or “Sita Karagandan Nandavanam” does 
 
 One can go through these inscriptions in the pages/numbers TA Rajagopalan cited in [Volume 2](https://ia800803.us.archive.org/4/items/in.ernet.dli.2015.162087/2015.162087.Inscription-Of-Saluva-Narasimhas-Time-Vol-2.pdf) [Volume 3](https://archive.org/stream/in.ernet.dli.2015.162090/2015.162090.Inscription-Of-Krisahnarayas-Time-Vol-3_djvu.txt) [Volume 4](https://archive.org/details/inscriptionsofac014883mbp)
 
-Rajagopalan wants to claim that Adi Van Satakopa Jiyar was the pontiff taking care of Sitakaragandam maTha and nandavanam (which predate the Jiyar and were actually the mutts & nandavanams which became the origin of the Kelvi appan Jiyars) – hence, he makes bold-faced lies about the contents of the earliest inscription which refers to the acharya as well as the other inscriptions. On the other hand, it is clearly stated that the nandavanam attached to Van Satakopan maTha was called Thiruvural Nandavanam (no. 10 in Vol 6 of TTD inscriptions).
-
+##### Verify!
 Its a Pity many Thenkalaiyars are falling for such claims based on forgery that could be easily verifiable with the source book. One can just assume it is similar to people falling for Scam e-mails one finds in their inbox that have obvious spelling mistakes.
 
-  
-Rajagopalan makes a valiant effort in his book to connect Van Satakopa Jiyar as well as Van Satakopa Matham with Sitakaragandan matham (which is the origin of today’s Periya Kelvi Appan Jiyar) set up by Singaya Dandanayaka (Nos.104 & 111 in Vol 1 of TTD inscriptions) and his 2 nandavanams (one of which was named Van Satakopan nandavanam and the other Arisanalayan Nandavanam) set up in 13^(th) century. But this attempt falls flat on face because the first inscriptions referring to Van Satakopa Matham is only from 1494 CE (no.112 in Vol 2 of TTD inscriptions) – after their first reference to Van Satakopa Jiyar in 1485 & 1493 (nos.83 & 101 in vol 2 of TTD inscriptions). Nothing in these inscriptions connect the Van Satakopa Jiyar and his matham with the nandavanam set up/supported by Sitakaragandan/Singayya. Singaya set up 2 mathams – one in Tirumala and another in Tirupati. In 1390 CE, we see that the Koil Kelvi Jiyars (according to aitihya one set up by ramanuja) were occupying the Mathams established by this Singanna (no.187 in Vol 1 of TTD inscriptions) and the Tirumala matham set up by Singayya was already being called Arisanalayan matham. Since, there was no second matham established by Singayya at Tirumala, there is no question of the Van sathakopan matham of Adi Van Satakopa jeeyar being the same as Sitakaragandan matha mentioned above.
+#### Motivation
+Rajagopalan wants to claim that Adi Van Satakopa Jiyar was the pontiff taking care of Sitakaragandam maTha and nandavanam (which predate the Jiyar and were actually the mutts & nandavanams which became the origin of the Kelvi appan Jiyars) – hence, he makes bold-faced lies about the contents of the earliest inscription which refers to the acharya as well as the other inscriptions. 
 
-What is clear and evident to us is not seen at all by Rajagopalan due to preconceived conclusions or most probably, he is deliberately twisting facts to match his fantasies(like his lies about the inscriptions pointed above). Singayya set up 2 mathams and 2 nandavanams. Of these, Arisanalayan Nandavanam was set up in Tirumala and had a matha attached to it. He built another matha at Tirupati – so it should be understood that the Van Satakopa Nandavanam would have been attached to the matha at Tirupati. By the time of Vijayanagar empire, the same Sitakaragandan (after Singayya’s name) was forgotten – and the Tirumala matha came to be known after the name of the Nandavanam itself. These 2 mathas of Singayya would have been under the control of the Koil Kelvi Jiyars. But the matha of Adi Van Satakopa was in Tirumala along with Van Satakopan Mandapam (vide no.112 in Vol 2 of TTD Inscriptions). This matha could not be the matham established by Singayya. The nandavanam attached to Van Satakopan maTha was Thriuvural nandavanam as mentioned above. Rajagopalan is deliberately obfuscating facts in this regard.  
-Much is made of the fact that Koil Kelvi Jiyar is mentioned as donor for a tirumanjanam festival on Chitra nakshatra of Chitra month (corresponding to Chitra Pournami) and that said utsavam occurred in Van Satakopa maTha (no 10 in Vol 6 of TTD inscriptions). He wrongly mentions it as a maTha in Tirupati and the utsavam being that of Govindaraja whereas the inscription mentions about the maTha being in Tirumala and the utsavam being that of Venkatesha. Even today, we do see Vadakalai acharyas offering prayers at Tenkalai temples and vice versa. In Melukote the first Tirthakara of Manavala Mamuni and Pillailokacharya sannidhis even now is Parakala Matha and Vadakalais regularly donate to the shrine’s functioning. There is no reason why the Koil Kelvi Jiyar would have refused to offer donations for Chitra Pournami festival – merely because it happened in a matha belonging to Desika Sampradayam. To this day, in certain days during Govindaraja Utsavas, whenever Govindaraja comes to Ahobila Matha, the kainkaryas to both Govindaraja and AdivanShatakopa is being conducted by the Koil Kelvi Jiyar. As said before, Rajagopalan simply imposes his bigotry on the Acharyas of the past.  
+On the other hand, it is clearly stated that the nandavanam attached to Van Satakopan maTha was called Thiruvural Nandavanam (no. 10 in Vol 6 of TTD inscriptions).
 
-## 6. Copes regarding facts that are contrarian
+Rajagopalan makes a valiant effort in his book to connect Van Satakopa Jiyar as well as Van Satakopa Matham with Sitakaragandan matham (which is the origin of today’s Periya Kelvi Appan Jiyar) set up by Singaya Dandanayaka (Nos.104 & 111 in Vol 1 of TTD inscriptions)  
+and the 2 nandavanams (one of which was named Van Satakopan nandavanam and the other Arisanalayan Nandavanam) set up in 13th century. 
+
+
+#### Date mismatch
+But this attempt falls flat on face because the first inscriptions referring to Van Satakopa Matham is only from 1494 CE (no.112 in Vol 2 of TTD inscriptions) – after their first reference to Van Satakopa Jiyar in 1485 & 1493 (nos.83 & 101 in vol 2 of TTD inscriptions). 
+
+#### Content mismatch
+Nothing in these inscriptions connect the Van Satakopa Jiyar and his matham with the nandavanam set up/supported by Sitakaragandan/Singayya. Singaya set up 2 mathams – one in Tirumala and another in Tirupati. In 1390 CE, we see that the Koil Kelvi Jiyars (according to aitihya one set up by ramanuja) were occupying the Mathams established by this Singanna (no.187 in Vol 1 of TTD inscriptions) and the Tirumala matham set up by Singayya was already being called Arisanalayan matham. 
+
+Since, there was no second matham established by Singayya at Tirumala, there is no question of the Van sathakopan matham of Adi Van Satakopa jeeyar being the same as Sitakaragandan matha mentioned above.
+
+
+#### Difference
+What is clear and evident to us is not seen at all by Rajagopalan due to preconceived conclusions or most probably, he is deliberately twisting facts to match his fantasies(like his lies about the inscriptions pointed above). Singayya set up 2 mathams and 2 nandavanams. 
+
+Of these, Arisanalayan Nandavanam was set up in Tirumala and had a matha attached to it. 
+
+He built another matha at Tirupati – so it should be understood that the Van Satakopa Nandavanam would have been attached to the matha at Tirupati. 
+
+By the time of Vijayanagar empire, the same Sitakaragandan (after Singayya’s name) was forgotten – and the Tirumala matha came to be known after the name of the Nandavanam itself. These 2 mathas of Singayya would have been under the control of the Koil Kelvi Jiyars. 
+
+
+But the matha of Adi Van Satakopa was in Tirumala along with Van Satakopan Mandapam (vide no.112 in Vol 2 of TTD Inscriptions). This matha could not be the matham established by Singayya. The nandavanam attached to Van Satakopan maTha was Thriuvural nandavanam as mentioned above. Rajagopalan is deliberately obfuscating facts in this regard.  
+
+#### Festival sponsorship
+Much is made of the fact that Koil Kelvi Jiyar is mentioned as donor for a tirumanjanam festival on Chitra nakshatra of Chitra month (corresponding to Chitra Pournami) and that said utsavam occurred in Van Satakopa maTha (no 10 in Vol 6 of TTD inscriptions). He wrongly mentions it as a maTha in Tirupati and the utsavam being that of Govindaraja whereas the inscription mentions about the maTha being in Tirumala and the utsavam being that of Venkatesha.+++(4)+++ 
+
+Even today, we do see Vadakalai acharyas offering prayers at Tenkalai temples and vice versa. 
+
+In Melukote the first Tirthakara of Manavala Mamuni and Pillailokacharya sannidhis even now is Parakala Matha and Vadakalais regularly donate to the shrine’s functioning. +++(5)+++
+
+There is no reason why the Koil Kelvi Jiyar would have refused to offer donations for Chitra Pournami festival – merely because it happened in a matha belonging to Desika Sampradayam. To this day, in certain days during Govindaraja Utsavas, whenever Govindaraja comes to Ahobila Matha, the kainkaryas to both Govindaraja and AdivanShatakopa is being conducted by the Koil Kelvi Jiyar. As said before, Rajagopalan simply imposes his bigotry on the Acharyas of the past.  
+
+## Inconvenient data
 
 Another favorite method of Rajagopalan is to deride all facts which are inconvenient to his views. Since the inscription referring to Brahmatantra Svatantra Jiyar is inconvenient to his thesis, he calls it a forgery. Perhaps a person who did forgery as demonstrated above while citing inscriptions, sees forgery everywhere?  
 
@@ -644,3 +740,43 @@ Said Mukkur swami did not do just one dandavat namaskaram. He did it four times.
 Given the number of lies and obfuscations that we have seen here till now, I have serious doubts about the veracity of this claim. He doesn’t explain why Tenakalais did not pursue legal action post 1835 if indeed it is true that the temple was following their traditions till then. They had fought legal cases everywhere else. So, there is enough reason to doubt this as a spurious claim. Only an affidavit describing this incident exists and lacks official records.
 
 In conclusion, it is seen that the so-called research work is full of lies, misdirection and obfuscation of facts. The claim that Vadakalai sampradaya began only after 1700 CE or 1800 CE is without basis. The claim that Ahobila matha was originally Tenkalai which converted into Vadakalai later on is also without any factual evidence supporting such claim. His claims about Tirumalai Ananthanpillai being rajaguru of Mysore royals till 1800CE or being rajaguru of Krishnaraya is baseless as well. The book is nothing but a bunch of vitriol based on forgery aimed at maligning the Vadakalai sampradaya and acharyas in general. This attempt is merely a step towards setting the record straight. The two sampradayas have existed since long and were not known to have existed any ill-will towards the other till about 200-300 years ago. It is better to go back to the old practice of holding to one’s opinion while respecting the other – than whatever is happening at present.  
+
+## parakAla maTha
+### Antiquity
+In page 5, Rajagopalan claims that no reference to Parakala maTha was found till 1800 CE and that Ananthan Pillai family members served as Rajagurus till 1800 CE. This claim is a blatant lie.+++(5)+++
+
+On the contrary, there is enough evidence for the claim that Parakala maTha of the Vadakalai sect must have been rajagurus of the Mysore Royal family from much before 1800 CE. Copper plate grant of 1722 CE at Srirangapatnam by Sri Krishnaraja Wodeyar identifies Srinivasa yati as the guru of the ruler.+++(5)+++ This is a direct reference to Dodda Parakalaswamy aka Periya Parakalaswamy who moved from Tirumala to Mysore on the request of the Mysore kings.
+
+The Tenkalai text ‘Pazhanadai Vilakkam’ which attempts to deny authenticity of Parakala maTha lineage – quoted by Sri PB Annangarachar Swamy as well as Rajagopalan in their favour – refers to this fact that Periya Parakalaswamy became the Rajaguru of Mysore kingdom.
+
+But the blind hatred towards Vadakalai sect combined with a need to be vainglorious seems to have made Rajagopalan to ignore this fact and make such baseless claims as above.
+
+Sannads from the 17th century prove categorically that the Vadakalai sect of Srivaishnavism was followed by Mysore kings right from the era of Raja Wodeyar (1578 – 1617).
+
+Following sannads from Annual report of Mysore Archaeological Department (1938) prove conclusively that Rajagopalan is lying brazenly:
+
+
+A sanad from 1649 (erroneously written as 1709 – the 1709 kaNThIravanarasarAja was a deaf and dumb infant under the care of a melukoTe tenkalai Tirumalai Iyengar who would not have issued an order exclusively favoring the vaDakalai side) mentions that Ramanuja dayapatram alone was being recited in all sannidhis of Melkote Tirunarayanaswamy temple during prabandham recitation from the times of Raja Wodeyar and that the same shall continue henceforth as well.
+
+![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-10.png?w=968)
+
+Another sanad from 1762 records a gift to Parakala swamy maTha – as an order given to Hyder Ali by the Maharaja and his mother.  
+A sanad of 1775 CE mentions the grant given to Parakala maTha by Krishnappa Nayaka of Belur. The yati is praised as ‘kavi kathaka kanthirava charana nalina yugala vinyasta’ – referring to his devotion to the feet of Sri Vedanta Desika. The same title is held by all Parakalaswamis – including the present pontiff. The yati is also called ‘asmad asadharana swami’ – thus declaring the yati as the acharya of Krishnappa Nayaka as well.
+
+A 1783 CE sanad of Tipu Sultan orders that the sanad itself shall be preserved in Parakala maTha. It records that both Sri sailesha and Ramanuja dayapatrams shall be recited at Melkote temple – to be fair to both Tenkalais and Vadakalais. (Due to the lack of evidence of the Srishailesha dayapatra thaniyan before this order of Tipu Sultan, one can conclude that the Thenkalais of Mysore \[Like Shyama Iyengar\] got the rights of recitation of the said thaniyan by lobbying Tipu Sultan). (Attached below the record of Thenkalais lobbying Tipu for their rights)
+
+![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-11.png?w=1024)
+
+
+<https://archive.org/details/dli.ministry.09552/page/117/mode/2up> : Refer this document for more records of this kind.
+
+### Slander
+
+> Sri.U.Ve.P.B.Annagarachariar Swamy of
+> Kanchee in his monthly journal “Ramanujan” (No.356) wrote an article
+> titled “Sri Varadaraja Swamy Temple”. In that article he states as
+> follows: “The nature of wave of fanaticism and conversion started by
+> Periya Parakala Jeeyar to which Thathachariars of that place should
+> have succumbed and became Vadakalais”.
+> He also quotes references from
+> “Pazhanadai Vilakkam” in support of his argument. 
