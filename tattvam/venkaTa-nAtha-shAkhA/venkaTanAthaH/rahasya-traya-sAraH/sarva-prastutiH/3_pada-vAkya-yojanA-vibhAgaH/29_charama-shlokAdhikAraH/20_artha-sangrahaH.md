@@ -1667,6 +1667,8 @@ o **sugerido** implícitamente por su significado.</details>
 आग प्रधानङ्गळाऩ ऐम्बत्तुमूऩ्ऱु अर्थङ्गळुम् अदऱ्कपेक्षितङ्गळाऩ अर्थङ्गळुम् शब्दशक्तियिऩालेयुम् अर्थस्वभावत्तालेयुम् अनुक्रमेण शासितङ्गळॆऩ्ऱबडि। 
 </details>
 
+## तात्पर्य-गद्यम्
+### सर्व-धर्मान् परित्यज्य - प्राप्ता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अल्प-ज्ञऩ् आय्, अल्प-शक्तिय् आय्, परिमित-काल-वर्तिय् आय्, विलम्ब-क्षमऩुम् अऩ्ऱिक्केय् इरुक्किऱव् उऩ्ऩाले 
@@ -1695,7 +1697,6 @@ y tú también **estás** impaciente por el **retraso**.
 अल्पज्ञऩाय्, अल्पशक्तियाय्, परिमितकालवर्तियाय् विळम्बक्षमऩुम् अऩ्ऱिक्केयिरुक्किऱ वुऩ्ऩाले 
 </details>
 
-## तात्पर्य-गद्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अऱियवुम् अनुष्ठिक्कवुम् अरिद्+++(=दुष्करम्)+++ आय्  
@@ -1725,7 +1726,7 @@ sólo después de mucho **retraso**.
 अऱियवुमनुष्ठिक्कवुमरिदाय् फलविळम्बमुमुण्डा यिरुक्किऱ उपायान्तरङ्गळिललैयादे 
 </details>
 
-
+### माम् एकम् - सिद्धोपायः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सर्व-सुलभऩ् आय्, सर्व-लोक-शरण्यऩ् आय्,  
@@ -1758,31 +1759,225 @@ y que **estoy dotado** de todos los atributos **esenciales** para un **Salvador*
 सर्वसुलभऩाय्, सर्वलोकशरण्यऩाय्, शरण्यत्वोपयुक्तसर्वाकारविशिष्टऩाऩ वॆऩ्ऩै यॊरुवऩैयुमे उपायमाग अध्यवसित्तुक्कॊण्डु
 </details>
 
+### शरणं व्रज - साध्योपायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अङ्ग-पञ्चक-संपन्नम् आऩ आत्म-रक्षा-भर-समर्पणत्तैप् पण्णु। 
+</details>
+
+<details><summary>English</summary>
+
+> and **perform** the **surrender** of the **responsibility** of **protecting** your self to me with its five aṅgas.  
+</details>
+
+<details><summary>Español</summary>
+
+> y **realiza** la **rendición** de la **responsabilidad** de **protegerte** a mí con sus cinco aṅgas.
+</details>
 
 
-\*This **is** the sum and substance of the meaning of the śloka :
+<details><summary>मूलम्</summary>
 
-and **perform** the **surrender** of the **responsibility** of **protecting** your self to me with its five aṅgas.  
-When you **have adopted** this upāya,  
+अङ्गपञ्चकसंपन्नमाऩ आत्मरक्षाभरसमर्पणत्तैप्पण्णु। 
+</details>
+
+### त्वा 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडि अनुष्ठितोपायऩ् आय्,  
+कृत-कृत्यऩ् आय्,  
+ऎऩक्क् अडैक्कलम्+++(=रक्ष्य-वस्तु)+++ आय्,  
+अत्यर्थ प्रियऩ् आऩव् उऩ्ऩै 
+</details>
+
+<details><summary>English</summary>
+
+> When you **have adopted** this upāya,  
 you **will have done** what you **ought to do**,  
 you **will become** my ward  
 and **be** extremely dear to me.  
-Supremely compassionate and gracious, independent and omnipotent,  
-**I will**, myself, by my mere will  
-and without any other aid,  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Cuando **has adoptado** este upāya,  
+**habrás hecho** lo que **deberías hacer**,  
+**te convertirás** en mi pupilo  
+y **ser** extremadamente querido para mí.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अनुष्ठितोपायऩाय्, कृतकृत्यऩाय्, ऎऩक्कडैक्कलमाय्, अत्यर्थ प्रियऩाऩ वुऩ्ऩै 
+</details>
+
+### अहम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परम-कारुणिकऩ् आय्, सुप्रसन्नऩ् आय्, निरङ्कुश-स्वान्तंत्र्यऩ् आय्, स्वार्थ-प्रवृत्तऩ् आऩ नाऩे 
+</details>
+
+<details><summary>English</summary>
+
+> Supremely compassionate and gracious, independent and omnipotent,  
+**I will**, myself,  
 and for the **fulfilment** of my own purposes,  
-**free you** from the manifold, endless, and insurmountable groups of **obstacles**  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Supremamente compasivo y gracioso, independiente y omnipotente,  
+**Lo haré**, yo mismo,  
+y para el **cumplimiento** de mis propios propósitos,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमकारुणिकऩाय्, सुप्रसन्नऩाय्, निरङ्कुशस्वान्तंत्र्यऩाय्, स्वार्थप्रवृत्तऩाऩ नाऩे 
+</details>
+
+### सर्व-पापेभ्यो मोक्षयिष्यामि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऎऩ् सङ्कल्प-मात्रमे तुणैय् आगक् कॊण्डु 
+</details>
+
+<details><summary>English</summary>
+
+> by my mere will  
+and without any other aid,  
+</details>
+
+<details><summary>Español</summary>
+
+> por mi mera voluntad  
+y sin ninguna otra ayuda,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ् सङ्कल्पमात्रमे तुणैयागक्कॊण्डु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> बहु-प्रकारम् आय्, अनन्तम् आय्, दुरत्ययम् आऩ सर्व-विरोधि-वर्गत्तोडुम्  
+पिऩ् तुडर्च्चिय्+++(=अनुवृत्तिः)+++ इल्लाद बडि तुवक्क् अऱुत्तु 
+</details>
+
+<details><summary>English</summary>
+
+> **free you** from the manifold, endless, and insurmountable groups of **obstacles**  
 **without leaving** any trace of them.  
-**I will enable** you to **have enjoyments**  
+</details>
+
+<details><summary>Español</summary>
+
+> **liberarte** de los múltiples, interminables e insuperables grupos de **obstáculos**  
+**sin dejar** ningún rastro de ellos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बहुप्रकारमाय् अनन्तमाय्, दुरत्ययमाऩ सर्वविरोधिवर्गत्तोडुम् पिऩ्दुडर्च्चियिल्लादबडि तुवक्कऱुत्तु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऎऩ्ऩोड् ऒक्कव्,  
+ऎऩ्ऩुडैय आत्मात्मीयङ्गळैय् ऎल्लाम् अनुभविक्कैयाले  
+तुल्य-भोगऩ् आक्कि
+</details>
+
+<details><summary>English</summary>
+
+> **I will enable** you to **have enjoyments**  
 similar to mine own,  
 since you **will enjoy** myself  
 and all that **belongs** to me.  
-**I will find** delight  
+</details>
+
+<details><summary>Español</summary>
+
+> **Te permitiré tener disfrute**  
+similar al mío,  
+ya que tú **me disfrutaré**  
+y todo eso **me pertenece**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऩोडॊक्क वॆऩ्ऩुडैय आत्मात्मीयङ्गळै यॆल्लामनुभविक्कैयाले तुल्यभोगऩाक्कि
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परिपूर्णानुभव-परीवाह-रूपम् आऩ  
+सर्व-देश-- सर्व-काल-- सर्वावस्थोचित-- सर्व-विध--  
+कैङ्कर्यत्तैय् उन् तन्द् उगप्पऩ्।
+</details>
+
+<details><summary>English</summary>
+
+> **I will find delight**  
 in **making** you **render** all forms of **service** in all places, at all times and in all circumstances —  
-**service** which **will be** of the nature of the **overflow** of the full and perfect enjoyment**** (of myself).  
-**You have** absolutely no cause for grief."
+**service** which **will be** of the nature of the **overflow** of the full and perfect enjoyment (of myself).  
+
+</details>
+
+<details><summary>Español</summary>
+
+> **Encontraré deleite**  
+al **hacer** usted **presta** todas las formas de **servicio** en todos los lugares, en todo momento y en todas las circunstancias —  
+**servicio** que **será** de la naturaleza del **desbordamiento** del goce pleno y perfecto (de mí mismo).
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+परिपूर्णानुभवपरीवाहरूपमाऩ सर्वदेशसर्वकाल सर्वावस्थोचित सर्वविधकैङ्कर्यत्तैयुन्दन्दुगप्पऩ्।
+</details>
+
+### मा शुचः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नीय् ऒऩ्ऱुक्कुम् शोकिक्क वेण्डाव् 
+
+ऎऩ्ऱु चरम-श्लोकत्तिऩ् तिरण्डबॊरुळ्। 
+</details>
+
+<details><summary>English</summary>
+
+> **You have** absolutely no cause for grief."
+
+\*This **is** the sum and substance of the meaning of the śloka.
+</details>
+
+<details><summary>Español</summary>
+
+> **No tienes** absolutamente ningún motivo para **sentir** pena".
+
+\*Esto **es** la suma y sustancia del significado del śloka.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नीयॊऩ्ऱुक्कुम्  
+शोकिक्कवेण्डावॆऩ्ऱु चरमश्लोकत्तिऩ् तिरण्डबॊरुळ्। 
+</details>
+
+
+## सत्-सम्प्रदाय-प्राप्तम् इदम्
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -1811,11 +2006,11 @@ and who (by so doing) **became free** from (all) grief.
 
 <details><summary>Español</summary>
 
-This path (prapatti) **has been disclosed** (to us)  
-by ācāryas who **resorted** to that unique dharma (Siddhopāya)  
-which **can grant** all (**desired** objects)  
-and which **is** ever **accompanied** by Śrī  
-and who (by so doing) **became free** from (all) grief.
+Este camino (prapatti) **ha sido revelado** (para nosotros)  
+por ācāryas que **recurrieron** a ese dharma único (Siddhopāya)  
+que **puede otorgar** todos (**objetos** deseados)  
+y que **está** siempre **acompañado** por Śrī  
+y quien (al hacerlo) **se liberó** de (todo) dolor.
 </details>
 
 
