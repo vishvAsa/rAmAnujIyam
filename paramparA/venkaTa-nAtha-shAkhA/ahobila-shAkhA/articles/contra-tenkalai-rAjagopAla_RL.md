@@ -656,7 +656,7 @@ This doubt arises due to inscriptional fraud described below.
 Given the number of lies and obfuscations that we have seen here till now, I have serious doubts about the veracity of this claim. He doesn’t explain why Tenakalais did not pursue legal action post 1835 if indeed it is true that the temple was following their traditions till then. They had fought legal cases everywhere else. So, there is enough reason to doubt this as a spurious claim. Only an affidavit describing this incident exists and lacks official records.
 
 
-### sIta-karagaNDa-nandavanam fraud
+### sita-kara-gaNDa-nandavanam fraud
 #### Data check
 In page 48, 59 and 61:
 
@@ -1000,9 +1000,6 @@ His problems with Periya Parakalaswami is the claim supposedly made by the Parak
 
 Marathas had made enemies of Mysore kingdom and as such, when Aurangzeb invaded Maratha lands, Mysore did not support Marathas but rather sent envoys to Aurangzeb who responded with several gifts and titles. It is quite possible that he would have sent a gift to the Rajaguru as well – which is mentioned by the Matha.
 
-## ANDavan
-About Kadanthethi Andavan, he quotes some articles written in a two-pence magazine called Gopura Dharisanam where even the dates are given wrongly. He sets up this article as his strawman and claims victory by beating it to ground. It is funny that he doesn’t attempt to get information from Andavan Ashramam or its publications but from popular magazines.
-
 ## Annamacharya
 Rajagopalan also wants to claim that Tallapaka Annamacharya was a sishya of Tirumalai Ananthanpillai family (not Ahobila maTha) and that he was a Tenkalai. We have already put to rest any and all arguments based on namam from that era – but still as a fact, the sculptures in Tirumala of Annamacharya and his vigraha carry Vadakalai Thiruman – and these are the older ones. 
 
@@ -1014,3 +1011,7 @@ Rajagopalan has to give concrete evidence before making such blind claims.
 Just because the poet sung about Ananthazhwan(who is respected by Vadakalais as well – for that matter), he doesn’t become a sishya of Ananthanpillai – rather is a respect to the role Ananthazhwan played in the temple’s kainkaryas. 
 
 It is to be noted that Annamayya has written a beautiful kriti on Adi Van Satakopa yati as well where he has been hailed as the boat for his disciples to cross Viraja and reach Vaikuntha (see pg.49 of Ahobilam Sri Narasimha Swamy temple by Prof Vasantha, TTD publication, 2001), while Annamayya does not sing on the Ananthanpillai acharyapurusha of Tirumala who lived in 1400s.  +++(5)+++
+
+## ANDavan
+About Kadanthethi Andavan, he quotes some articles written in a two-pence magazine called Gopura Dharisanam where even the dates are given wrongly. He sets up this article as his strawman and claims victory by beating it to ground. It is funny that he doesn’t attempt to get information from Andavan Ashramam or its publications but from popular magazines.
+
