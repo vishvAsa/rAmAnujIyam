@@ -1,6 +1,17 @@
 +++
-title = "तिरुमऴिसै अण्णवप्पङ्गार्"
+title = "तिरुमऴिसै अण्णावप्पङ्गार्"
 +++
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Pazhanadai vilakkam. பழநடை விளக்கம்
+
+Seems to be the first text to dispute Vadakalai Hagiograhies, make Wrong claims on Vedanta Desika's history etc.
+
+Was a text heavily cited by PB Annangarachar
+</details>
+
+
 
 <details open><summary>मूलम्</summary>
 
@@ -10,10 +21,17 @@ title = "तिरुमऴिसै अण्णवप्पङ्गार्"
 
 <details><summary>English</summary>
 
-They have been upholding and preserving this tradition. Their introductory statement, found in the aforementioned treatise titled *Rahasyatraya Jeevathu*, is recorded as follows: "It is the established tradition of our *Acharyas* (spiritual preceptors) that Vishnu alone grants *Moksha* (liberation), and that His consort, Lakshmi, serves merely as an intermediary (*Purushakara*) in this process. In contrast, the *Rahasyatraya Jeevathu* notes that *Vedantacharya* posits that Lakshmi herself serves as a means (*Upaya*) for attaining *Moksha*." From this introductory statement, it becomes abundantly clear that the Ahobila Matha regards the *Thennacharyas* (Southern School Acharyas) as their own spiritual preceptors, while not acknowledging *Vedantacharya* as their Acharya.
+They have been upholding and preserving this tradition. Their introductory statement, found in the aforementioned treatise titled *Rahasyatraya Jeevathu*, is recorded as follows: 
+
+> "It is the established tradition of our *Acharyas* (spiritual preceptors) that Vishnu alone grants *Moksha* (liberation), and that His consort, Lakshmi, serves merely as an intermediary (*Purushakara*) in this process. 
+
+
+In contrast, the *Rahasyatraya Jeevathu* notes that *Vedantacharya* posits that Lakshmi herself serves as a means (*Upaya*) for attaining *Moksha*." 
+
+From this introductory statement, it becomes abundantly clear that the Ahobila Matha regards the *Thennacharyas* (Southern School Acharyas) as their own spiritual preceptors, while not acknowledging *Vedantacharya* as their Acharya.
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-रहस्य-त्रय-जीवातौ नैवं वर्तते। 
+रहस्य-त्रय-जीवातौ नैवं वर्तते। It mentions TK paxa-s and goes on to say VK ones are right.
 </details>

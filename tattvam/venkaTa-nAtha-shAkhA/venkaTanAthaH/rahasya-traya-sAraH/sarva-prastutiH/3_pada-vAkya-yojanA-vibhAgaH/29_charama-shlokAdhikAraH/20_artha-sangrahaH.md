@@ -1651,11 +1651,10 @@ or **suggested** implicitly by their meaning.
 
 <details><summary>Español</summary>
 
-these the principal ideas **concerning** this upāya  
-(suggested) along with other things **required** for them  
-**are expressed** explicitly by the words themselves  
-or **suggested** implicitly by their meaning.  
-</details>
+Estas son las ideas principales **concernientes** a este upāya.  
+(**sugerido**) junto con otras cosas **requeridas** para ellos  
+**se expresan** explícitamente por las palabras mismas  
+o **sugerido** implícitamente por su significado.</details>
 
 
 <details><summary>मूलम्</summary>
@@ -1668,25 +1667,101 @@ or **suggested** implicitly by their meaning.
 आग प्रधानङ्गळाऩ ऐम्बत्तुमूऩ्ऱु अर्थङ्गळुम् अदऱ्कपेक्षितङ्गळाऩ अर्थङ्गळुम् शब्दशक्तियिऩालेयुम् अर्थस्वभावत्तालेयुम् अनुक्रमेण शासितङ्गळॆऩ्ऱबडि। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+अल्प-ज्ञऩ् आय्, अल्प-शक्तिय् आय्, परिमित-काल-वर्तिय् आय्, विलम्ब-क्षमऩुम् अऩ्ऱिक्केय् इरुक्किऱव् उऩ्ऩाले 
+</details>
 
-
-
-\*This **is** the sum and substance of the meaning of the śloka :
+<details><summary>English</summary>
 
 > " Your **knowledge is** limited;  
 your ability **is** insignificant;  
 your life **is** short  
 and you **are** also impatient of **delay**.  
-Therefore **do not go about seeking** other upāyas  
+
+</details>
+
+<details><summary>Español</summary>
+
+> " Tu **conocimiento es** limitado;  
+tu habilidad **es** insignificante;  
+tu vida **es** corta  
+y tú también **estás** impaciente por el **retraso**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अल्पज्ञऩाय्, अल्पशक्तियाय्, परिमितकालवर्तियाय् विळम्बक्षमऩुम् अऩ्ऱिक्केयिरुक्किऱ वुऩ्ऩाले 
+</details>
+
+## तात्पर्य-गद्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अऱियवुम् अनुष्ठिक्कवुम् अरिद्+++(=दुष्करम्)+++ आय्  
+फल-विलम्बमुम् उण्ड् आय् इरुक्किऱ उपायान्तरङ्गळिल् अलैयादे 
+</details>
+
+<details><summary>English</summary>
+
+> Therefore **do not go about seeking** other upāyas  
 which you **cannot** (fully) **understand**,  
 which you **cannot** easily **adopt**  
 and which **can bear** fruit  
 only after much **delay**.  
-Realise that I who **am** easy of **access** to all,  
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto **no busques** otros upāyas  
+que **no puedes** (completamente) **comprender**,  
+que **no puedes** fácilmente **adoptar**  
+y que **puede dar** fruto  
+sólo después de mucho **retraso**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अऱियवुमनुष्ठिक्कवुमरिदाय् फलविळम्बमुमुण्डा यिरुक्किऱ उपायान्तरङ्गळिललैयादे 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्व-सुलभऩ् आय्, सर्व-लोक-शरण्यऩ् आय्,  
+शरण्यत्वोपयुक्त-सर्वाकार-विशिष्टऩ् आऩव् ऎऩ्ऩैय् ऒरुवऩैयुमे  
+उपायम् आग अध्यवसित्तुक् कॊण्डु
+</details>
+
+<details><summary>English</summary>
+
+> **Realise** that I  
+who **am** easy of **access** to all,  
 who **am** the **Saviour** of all the worlds,  
 and who **am endowed** with all the attributes **essential** for a Saviour,  
 **am** the only upāya  
+
+</details>
+
+<details><summary>Español</summary>
+
+> **Me doy cuenta** de que yo  
+que **soy** de fácil **acceso** para todos,  
+que **soy** el **Salvador** de todos los mundos,  
+y que **estoy dotado** de todos los atributos **esenciales** para un **Salvador**,  
+**soy** el único upāya
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वसुलभऩाय्, सर्वलोकशरण्यऩाय्, शरण्यत्वोपयुक्तसर्वाकारविशिष्टऩाऩ वॆऩ्ऩै यॊरुवऩैयुमे उपायमाग अध्यवसित्तुक्कॊण्डु
+</details>
+
+
+
+\*This **is** the sum and substance of the meaning of the śloka :
+
 and **perform** the **surrender** of the **responsibility** of **protecting** your self to me with its five aṅgas.  
 When you **have adopted** this upāya,  
 you **will have done** what you **ought to do**,  
