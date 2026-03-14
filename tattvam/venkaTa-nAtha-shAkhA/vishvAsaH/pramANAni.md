@@ -331,4 +331,27 @@ Neither do they guarantee correct understanding and practice of vedas (as proved
 It's also wrong to think that exposure to DP would have altered shankara's perceptions. S had some exposure to pAncharAtra, but was not as interested in that as he was in the gauDapAda quasi-bauddha view. He knowingly twisted BS. No reason to think exposre to DP would've hindered him.  
 Neither R or VD state this lack of exposure as a reason. Rather, they point out how they have failed to use the shruti/ smRti/ sUtra pramANas properly.
 
+## ऐतिह्यम्
+ऐतिह्येषु प्रक्षेपातिशयोक्त्य्-आदेर् अधिका सम्भावना।  
+ततस् तद् अत्यन्तम् अवरम् प्रमाणम्।  
+यथाह वेङ्कटनाथार्य आऴ्वार्-विषये - 
+
+> अवर्गळ् वृत्तान्तङ्गळैयुम् आराय्न्दाल्  
+स्व-जाति-नियमत्तैक् कडन्दमैय् इल्लै।  
+> (तेषां वृत्तान्तेषु परिशीलितेषु  
+स्व-जाति-नियमातिक्रमो नोपलभ्यते च । )
+
+येनान्यथाख्यातिर् मिथ्येति गम्यते। 
+
+So, implication is that all hagiographies which claim jAti-niyama transgressions are false, careless exaggerations.  
+This applies to rAmAnuja etc. too.
+
+अन्यथापि, महात्मचरितानि नास्मद्-अनुष्ठानाय दृष्टान्ती-कार्याणीति वेङ्कटनाथार्यः -
+
+> विदुरादिगळिलुम् उत्कृष्ट-प्रभावर् आऩ आऴ्वार्गळ्-उडैय वृत्तान्त-विशेषङ्गळै  
++++(व्यक्ति-विशेषालौकिकोत्कर्षम् अवगत्य)+++  
+नम्म्-अनुष्ठानत्तुक्कु दृष्टान्तम् आक्कल् आगादु।  
+> विदुरादिभ्यो ऽप्य् उत्कृष्टप्रभावाणां दिव्य-सूरीणां वृत्तान्त-विशेषा  
++++(व्यक्ति-विशेषालौकिकोत्कर्षम् अवगत्य)+++  
+अस्मद्-अनुष्ठानस्य न दृष्टान्ती कार्याः । 
 

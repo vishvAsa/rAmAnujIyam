@@ -2203,6 +2203,11 @@ porque **está** en contra de los textos (en los Śastras).
 अस्मद्-अनुष्ठानस्य न दृष्टान्ती कार्याः । 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अनेन लोकाचार्य--सौम्य-जामातृ-निभै राम-कृष्ण-विदुरादीनां दृष्टान्तीकरणम् अयुक्तम् इति गम्यते। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2261,6 +2266,8 @@ a quienes **poseían** poderes incluso superiores a los de Vidura y otros
 शठकोपः स्वापेक्षया प्राप्तवेदानाम् भागवतानाम् अधिकम् भाग्यम् अवदत्।  
 
 ‘‘कृष्णानां व्रीहीणां नखनिर्भिन्नम्’’ इति श्रुतिम् भक्तिसारो ऽभिनयेन स्मारयाम् आस। 
+
+So, implication is that all hagiographies which claim jAti-niyama transgressions are false, careless exaggerations. This applies to rAmAnuja etc. too.
 </details>
 
 
