@@ -1641,6 +1641,14 @@ y el deleite en la **realización** del **servicio** libre de ofensa;
 शब्द-शक्तियालुम्, अर्थ-स्वभावत्तालुम् अनुशिष्टङ्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य् एते ऽर्थाः प्रधानरूपेण  
+अन्ये चैतद्-अपेक्षिताः सर्वे ऽपि  
+शब्दशक्त्याऽर्थस्वभावेन चानुशिष्टाः ॥
+</details>
+
+
 <details><summary>English</summary>
 
 these the principal ideas **concerning** this upāya  
@@ -1671,8 +1679,14 @@ o **sugerido** implícitamente por su significado.</details>
 ### सर्व-धर्मान् परित्यज्य - प्राप्ता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अल्प-ज्ञऩ् आय्, अल्प-शक्तिय् आय्, परिमित-काल-वर्तिय् आय्, विलम्ब-क्षमऩुम् अऩ्ऱिक्केय् इरुक्किऱव् उऩ्ऩाले 
+> अल्प-ज्ञऩ् आय्, अल्प-शक्तिय् आय्, परिमित-काल-वर्तिय् आय्, विलम्ब-क्षमऩुम् अऩ्ऱिक्केय् इरुक्किऱव् उऩ्ऩाले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अल्पज्ञो ऽल्पशक्तिः परिमित-काल-वर्ती विलम्ब-क्षमता-राहित्येन चावस्थितस् त्वं 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1697,11 +1711,28 @@ y tú también **estás** impaciente por el **retraso**.
 अल्पज्ञऩाय्, अल्पशक्तियाय्, परिमितकालवर्तियाय् विळम्बक्षमऩुम् अऩ्ऱिक्केयिरुक्किऱ वुऩ्ऩाले 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द चरमश्लोकम् मूऩ्ऱु अवान्तर-वाक्य-घटितम् आय् इरुन्दालुम्  
+अनुसन्धान-सौकर्यार्थम् आग  
+इदिल् ऒरु महावाक्यार्थत्तैक्काट्टुगिऱार् अल्पज्ञऩायित्यादिमहावाक्यत्ताले। 
+
+अल्पज्ञऩायित्यादि अनुवादपक्षलब्धार्थङ्गळ्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अऱियवुम् अनुष्ठिक्कवुम् अरिद्+++(=दुष्करम्)+++ आय्  
 फल-विलम्बमुम् उण्ड् आय् इरुक्किऱ उपायान्तरङ्गळिल् अलैयादे 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वेन ज्ञातुम् अनुष्ठातुं चाशक्येषु  
+फल-विलम्बवत्सु उपायान्तरेष्व् अ-परिभ्रमन् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1726,6 +1757,12 @@ sólo después de mucho **retraso**.
 अऱियवुमनुष्ठिक्कवुमरिदाय् फलविळम्बमुमुण्डा यिरुक्किऱ उपायान्तरङ्गळिललैयादे 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपायान्तरङ् गळिललैयादे ऎऩ्बदु सर्वधर्मान् परित्यज्य ऎऩ्बदिऩ् अर्थम्। 
+</details>
+
+
 ### माम् एकम् - सिद्धोपायः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1733,6 +1770,12 @@ sólo después de mucho **retraso**.
 शरण्यत्वोपयुक्त-सर्वाकार-विशिष्टऩ् आऩव् ऎऩ्ऩैय् ऒरुवऩैयुमे  
 उपायम् आग अध्यवसित्तुक् कॊण्डु
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सर्व-सुलभं सर्व-लोक-शरण्यं शरण्यत्वोपयुक्त-सर्वाकार-विशिष्टं माम् एकम् एवोपायत्वेनाध्यवस्यन् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1759,11 +1802,25 @@ y que **estoy dotado** de todos los atributos **esenciales** para un **Salvador*
 सर्वसुलभऩाय्, सर्वलोकशरण्यऩाय्, शरण्यत्वोपयुक्तसर्वाकारविशिष्टऩाऩ वॆऩ्ऩै यॊरुवऩैयुमे उपायमाग अध्यवसित्तुक्कॊण्डु
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वसुलभऩायित्यादि मां ऎऩ्बदिऩर्थम्।  
+ऒरुवऩैयुमे ऎऩ्बदु एकशब्दार्थम्। 
+उपायमाग अध्यवसित्तु ऎऩ्बदु शरणं व्रज ऎऩ्बदिऩर्थम्।
+</details>
+
+
 ### शरणं व्रज - साध्योपायः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अङ्ग-पञ्चक-संपन्नम् आऩ आत्म-रक्षा-भर-समर्पणत्तैप् पण्णु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अङ्ग-पञ्चक-संपन्नम् आत्म-रक्षा-भर-समर्पणं कुरु । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1789,6 +1846,11 @@ y que **estoy dotado** de todos los atributos **esenciales** para un **Salvador*
 ऎऩक्क् अडैक्कलम्+++(=रक्ष्य-वस्तु)+++ आय्,  
 अत्यर्थ प्रियऩ् आऩव् उऩ्ऩै 
 </details>
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवम् अनुष्ठितोपायं कृत-कृत्यं मद्-रक्ष्य-वस्तु-भूतम् अत्य्-अर्थ-प्रियं [प्रिययतमं] त्वां 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1812,11 +1874,23 @@ y **ser** extremadamente querido para mí.
 इप्पडि अनुष्ठितोपायऩाय्, कृतकृत्यऩाय्, ऎऩक्कडैक्कलमाय्, अत्यर्थ प्रियऩाऩ वुऩ्ऩै 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अनुष्ठितेत्यादि त्वा शब्दार्थम्। अडैक्कलमावदु रक्ष्यवस्तु । 
+</details>
+
+
 ### अहम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > परम-कारुणिकऩ् आय्, सुप्रसन्नऩ् आय्, निरङ्कुश-स्वान्तंत्र्यऩ् आय्, स्वार्थ-प्रवृत्तऩ् आऩ नाऩे 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> परम-कारुणिकः सु-प्रसन्नो निरङ्कुश-स्वातन्त्र्यः स्वार्थ-प्रवृत्तो ऽहम् एव 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1839,12 +1913,21 @@ y para el **cumplimiento** de mis propios propósitos,
 परमकारुणिकऩाय्, सुप्रसन्नऩाय्, निरङ्कुशस्वान्तंत्र्यऩाय्, स्वार्थप्रवृत्तऩाऩ नाऩे 
 </details>
 
-### सर्व-पापेभ्यो मोक्षयिष्यामि
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परमकारुणिकेत्यादि अहं शब्दार्थम्। नाऩे ऎऩ्ऱदाल् अहं शब्दम् सावधारणमॆऩ्ऱु तोऩ्ऱुदोऩ्ऱुगिऱदु। 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ऎऩ् सङ्कल्प-मात्रमे तुणैय् आगक् कॊण्डु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मत्-सङ्कल्प-मात्रम् एव सहायं कृत्वा  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1864,11 +1947,25 @@ y sin ninguna otra ayuda,
 ऎऩ् सङ्कल्पमात्रमे तुणैयागक्कॊण्डु 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द अवधारणफलितार्थम् ऎऩ् सङ्कल्पमात्रमे तुणैयाग कॊण्डु ऎऩ्बदु। 
+</details>
+
+### सर्व-पापेभ्यो मोक्षयिष्यामि
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > बहु-प्रकारम् आय्, अनन्तम् आय्, दुरत्ययम् आऩ सर्व-विरोधि-वर्गत्तोडुम्  
 पिऩ् तुडर्च्चिय्+++(=अनुवृत्तिः)+++ इल्लाद बडि तुवक्क् अऱुत्तु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> बहु-प्रकाराणाम् अनन्तानां दुरत्ययानां सर्व-विध-विरोधि-वर्गाणाम्  
+अ-पुनः-संबन्ध-संभावनं यथा तथा संबन्धं विच्छिद्य 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1888,6 +1985,12 @@ y sin ninguna otra ayuda,
 बहुप्रकारमाय् अनन्तमाय्, दुरत्ययमाऩ सर्वविरोधिवर्गत्तोडुम् पिऩ्दुडर्च्चियिल्लादबडि तुवक्कऱुत्तु 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+बहुप्रकारेत्यादि सर्वपापशब्दार्थम्।  
+तुवक्कऱुत्तु ऎऩ्बदु मोक्षयिष्यामि ऎऩ्बदिऩर्थम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1895,6 +1998,12 @@ y sin ninguna otra ayuda,
 ऎऩ्ऩुडैय आत्मात्मीयङ्गळैय् ऎल्लाम् अनुभविक्कैयाले  
 तुल्य-भोगऩ् आक्कि
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मन्-निर्विशेषं मदीयानाम् आत्मात्मीयानां सर्वेषाम् अनुभवात् तुल्य-भोगं कृत्वा  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1918,6 +2027,11 @@ y todo eso **me pertenece**.
 ऎऩ्ऩोडॊक्क वॆऩ्ऩुडैय आत्मात्मीयङ्गळै यॆल्लामनुभविक्कैयाले तुल्यभोगऩाक्कि
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऎऩ्ऱोड् ऒक्क इत्यादि अर्थसिद्धमाऩ इष्टप्राप्तियै सॊल्लुगिऱदु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1925,6 +2039,12 @@ y todo eso **me pertenece**.
 सर्व-देश-- सर्व-काल-- सर्वावस्थोचित-- सर्व-विध--  
 कैङ्कर्यत्तैय् उन् तन्द् उगप्पऩ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> परिपूर्णानुभव-परीवाह-रूपं सर्व-देश--सर्व-काल--सर्वावस्थोचितं सर्व-विध-कैङ्कर्यम् अपि दत्त्वा प्रीयेय । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1952,8 +2072,18 @@ al **hacer** usted **presta** todas las formas de **servicio** en todos los luga
 
 > नीय् ऒऩ्ऱुक्कुम् शोकिक्क वेण्डाव् 
 
-ऎऩ्ऱु चरम-श्लोकत्तिऩ् तिरण्डबॊरुळ्। 
+ऎऩ्ऱु चरम-श्लोकत्तिऩ् तिरण्ड+++(=समुदितः)+++ बॊरुळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> त्वया कस्यापि कृते न शोचितव्यम् 
+
+इति चरमश्लोके समुदितो ऽर्थः ॥  
+[[P422]]
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -1976,136 +2106,8 @@ al **hacer** usted **presta** todas las formas de **servicio** en todos los luga
 शोकिक्कवेण्डावॆऩ्ऱु चरमश्लोकत्तिऩ् तिरण्डबॊरुळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-## सत्-सम्प्रदाय-प्राप्तम् इदम्
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-एकं सर्व-**प्रदं** धर्मं  
-श्रिया **जुष्टं समाश्रितैः** ।  
-अपेत-शोकैर् आचार्यैर्  
-अयं पन्थाः **प्रदर्शितः** ॥
+मा शुचः ऎऩ्बदिऩर्थम् नीयॊऩ्ऱुक्कुमित्यादि । तिरण्ड पॊरुळ् - महावाक्यार्थम्।  
 </details>
 
-<details><summary>नीलमेघः (सं)</summary>
-
-एकं सर्व-**प्रदं** धर्मं  
-श्रिया **जुष्टं समाश्रितैः** ।  
-अपेत-शोकैर् आचार्यैर्  
-अयं पन्थाः **प्रदर्शितः** ॥
-</details>
-
-<details><summary>English</summary>
-
-This path (prapatti) **has been disclosed** (to us)  
-by ācāryas who **resorted** to that unique dharma (Siddhopāya)  
-which **can grant** all (**desired** objects)  
-and which **is** ever **accompanied** by Śrī  
-and who (by so doing) **became free** from (all) grief.
-</details>
-
-<details><summary>Español</summary>
-
-Este camino (prapatti) **ha sido revelado** (para nosotros)  
-por ācāryas que **recurrieron** a ese dharma único (Siddhopāya)  
-que **puede otorgar** todos (**objetos** deseados)  
-y que **está** siempre **acompañado** por Śrī  
-y quien (al hacerlo) **se liberó** de (todo) dolor.
-</details>
-
-
-<details><summary>मूलम् (सं॰प॰)</summary>
-
-एकं सर्वप्रदं धर्मं श्रिया जुष्टं समाश्रितैः ।  
-अपेतशोकैराचार्यैरयं पन्थाः प्रदर्शितः ॥
-</details>
-
-
-
-
-
-<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
-
-कुऱिप्प्-उडन् मेवुन् धरुमङ्गळ् इऩ्ऱिय् अक्कोवलनार्  
-वॆऱित्तुळवक्कऴल् मॆय्यरणॆऩ्ऱु विरैन्दडैन्दु  
-पिरित्त विनैत्तिरळ् पिऩ्ऱुडरावगैयप्पॆरियोर्  
-मऱिप्पुडै मन्नरुळ् वासगत्तान् मरुळऱ्ऱनमे. ( 45 )
-</details>
-
-<details><summary>मूलम् (त॰प॰)</summary>
-
-कुऱिप्पुडन् मेवुन् दरुमङ्गळिऩ्ऱि यक्कोवलनार्  
-वॆऱित्तुळवक्कऴल् मॆय्यरणॆऩ्ऱु विरैन्दडैन्दु  
-पिरित्त विनैत्तिरळ् पिऩ्ऱुडरावगैयप्पॆरियोर्  
-मऱिप्पुडै मन्नरुळ् वासगत्तान् मरुळऱ्ऱनमे. ( 45 )
-</details>
-
-Giving up those dharmas which have to be performed with extreme care, we were convinced that the true refuge for us is the feet of that Gopala which are fragrant with tulasi and we resorted to them at once. By the gracious and fascinating words of that Supreme Person, we have become free from ignorance so that the karma  which has been separated from us can never follow us.
-
-
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-व्यासाम्नाय--पयो-धि--कौस्तुभ-निभं हृद्यं हरेर् उत्तमं श्लोकं  
-केचन लोक-वेद-पदवी--**विश्वासितार्थं विदुः** ।  
-येषाम् **उक्तिषु** मुक्ति-सौध-विशिखा+++(=मुख्य-मार्ग)+++- सोपान-पङ्क्तिष्व् अमी  
-वैशंपायन-शौनक-प्रभृतयः श्रेष्ठाश् शिरः-**कम्पिनः** ॥ ६८ ॥
-</details>
-
-<details><summary>English</summary>
-
-There **are** some (ācāryas) who **have understood** the noble and charming śloka  
-**uttered** by Hari  
-which **is** like the gem kaustubha  
-**taken out** of the ocean of Vyasa's Veda (Mahābhārata).  
-Its meaning **finds confirmation** in the ways of the world (or the smṛtis) and in the paths of the Vedas.  
-On **hearing** the words of these (ācharyas)  
-which **are** like steps in the staircase  
-that **leads** to the mansion of mukti,  
-great souls like Vaiśampāyana and Śounaka **nod** their heads (in **approval** and **admiration**).
-</details>
-
-<details><summary>Español</summary>
-
-There **are** some (ācāryas) who **have understood** the noble and charming śloka  
-**uttered** by Hari  
-which **is** like the gem kaustubha  
-**taken out** of the ocean of Vyasa's Veda (Mahābhārata).  
-Its meaning **finds confirmation** in the ways of the world (or the smṛtis) and in the paths of the Vedas.  
-On **hearing** the words of these (ācharyas)  
-which **are** like steps in the staircase  
-that **leads** to the mansion of mukti,  
-great souls like Vaiśampāyana and Śounaka **nod** their heads (in **approval** and **admiration**).
-</details>
-
-
-<details><summary>मूलम् (सं॰प॰)</summary>
-
-व्यासाम्नायपयोधिकौस्तुभनिभं हृद्यं हरेरुत्तमं श्लोकं  
-केचन लोकवेदपदवी विश्वासितार्थं विदुः ।  
-येषामुक्तिषु मुक्तिसौधविशिखा सोपानपङ्क्तिष्वमी  
-वैशंपायनशौनकप्रभृतयः श्रेष्ठाश्शिरःकम्पिनः ॥ ६८ ॥
-</details>
-
-
-
-
-
-<details><summary>English</summary>
-
-Here **ends** the third part of Śrīmad Rahasyatrayasara  
-**called** 
-
-> “ The **Interpretation** of the meaning of the three rahasyas or mysteries  
-by a **study** of the grammatical construction of the words and sentences in them".
-
-</details>
-
-<details><summary>Español</summary>
-
-Here **ends** the third part of Śrīmad Rahasyatrayasara  
-**called** 
-
-> “ The **Interpretation** of the meaning of the three rahasyas or mysteries  
-by a **study** of the grammatical construction of the words and sentences in them".
-</details>
