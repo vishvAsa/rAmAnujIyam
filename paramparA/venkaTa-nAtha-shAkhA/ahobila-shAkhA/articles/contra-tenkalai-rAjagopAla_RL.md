@@ -11,6 +11,16 @@ Vaṇśaṭhakōpadayā
 ## Intro
 There exists this book “The origin and growth of Ahobila maTha – A study based on inscriptions” authored by a certain TA Rajagopalan. While it purports to be a scholarly work tracing the Origins of Ahobila maTha and Vadakalai Lineages in General, it is anything but scholarly and is filled with lies and fraud interspersed with few truths and illogical conclusions based on the facts presented. Instead of the scholarly stature claimed, all we come across is preposterous ahistorical claims and abuses on the ‘other side’ fuelling sectarian hatred. In contrast, our approach here strongly favours facts, and objectivity.
 
+### Conclusion
+
+In conclusion, it is seen that the so-called research work is full of lies, misdirection and obfuscation of facts. The claim that Vadakalai sampradaya began only after 1700 CE or 1800 CE is without basis.
+
+The claim that Ahobila matha was originally Tenkalai which converted into Vadakalai later on is also without any factual evidence supporting such claim.
+
+His claims about Tirumalai Ananthanpillai being rajaguru of Mysore royals till 1800CE or being rajaguru of Krishnaraya is baseless as well.
+
+The book is nothing but a bunch of vitriol based on forgery aimed at maligning the Vadakalai sampradaya and acharyas in general. This attempt is merely a step towards setting the record straight.  
+The two sampradayas have existed since long and were not known to have existed any ill-will towards the other till about 200-300 years ago. It is better to go back to the old practice of holding to one’s opinion while respecting the other – than whatever is happening at present.
 
 ## Author, conclusions 
 About the author and some of his conclusions.
@@ -45,10 +55,11 @@ If at all no division existed till the 17th century, why claim that there was so
 
 The attempt to wipe away this fact by completely illogical line of “argument” seems to be due to the need to deny the existence of the Vadakalai sect as an authentic tradition reaching back to Ramanuja through Vedanta Desika. We shall proceed to now look through the claims of this book and see how they hold up against truth.  
 
-## vaDakalai antiquity
+## vaDakalai 
+### Antiquity challenge
 The author has tried to portray that the Vadakalai sect came into existence around 1800 CE or perhaps around 1700 CE (based on which page of the book you are reading).
 
-### Symbol
+#### Symbol
 One of the main thrusts of his argument is based on the namam found in older inscriptions being of Tenkalai variant. It is now well known that the strict division in tilaka (namam) had occurred between the two schools – Vadakalai and Tenkalai – only within the last 2-3 centuries. So, mere presence of Tenkalai type of namam does not mean non-existence of Vadakalai school.
 
 In fact, the author ignores the fact that the namams are seen only from the Vijayanagar era and even then, the padam in the namam is a mere short stub – to enable the tilaka to touch the top of the nose. This can be seen in the dvarapalakas of Vijaya Vitthala temple in Hampi. In the case of the Narasimha idol in Hampi, the tilaka is U shaped like Vadakalai namam – and in Hazara Rama temple(and many other temples of that area), the Vadakalai Urdhwapundra is found. It should be noted that all these Temples of Hampi were abandoned after battle of Talikota in 1560s. The surviving temples in the surroundings like in Anegundi have Vadakalai Sampradayam being followed there.
@@ -57,45 +68,10 @@ In current practice, The Tenkalais have lengthened the stub/padam significantly 
 
 ![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-5.png?w=1024)
 
-### ALvArs
-> 8\.  Brazen lies are told as well:
-“*In 1700 AD there was some sudden
-activity erupted in Divyadesams by the newly formed sect Vadakalai
-which tried to usurp powers in conduct of rituals in temples. A sect
-which was not seen in temples during earlier times and which did not
-have much respect for Alwars on a plea that there are members in it
-belonging to lower castes*“
-
-8\.  We have already quoted above a sanad from 1649 which shows that
-Ramanuja Dayapatram was being recited in Melkote since the 16th
-century. Thus, Vadakalai school was very much in existence much
-before 1700 as seen in the Pakshas of authors earlier.
-
-It is a
-brazen lie that Vadakalais do not respect Azhwars. Rather, we see
-that Vadakalais also treat Divya prabandham with great reverence.
-Desika had great reverence for the acharyas and vadakalais have even
-written their own commentaries on prabandhams – starting from Desika
-himself. Periya Parakalaswamy, whom the Tenkalais hold as the person
-behind the popularity of the Vadakalai sect, himself wrote a
-commentary on the entire Divya Prabandham.
-
-Keshava Shatakopa Jiyar
-of Ahobila Matha around late 1600s wrote his own Manipravala
-commentary on Thiruvaymozhi. So, the claim that they did not/do not
-respect Azhwars is thoroughly disproved.
-
-Just because there are
-relatively fewer (Tamil) Thenkalai scholars in Sanskrit Texts, a
-relative lack of an independent kalakshepa parampara of Vadakalai
-acharyas and many who prioritize just Azhwar’s works exists, it does
-not mean Vadakalais lack Scholarship over Azhwar’s Srisuktis and
-have their own independent learning and commentarial tradition on
-Divyaprabandhas since the times of Desika.
 
 
 
-### Sectarian texts
+#### Sectarian texts
 In page 13, he goes on to lie more brazenly : 
 
 > “An important point to
@@ -130,6 +106,126 @@ thenkalais based on Acharya Hrudayam and its commentaries. Separate
 texts came a few centuries later like Purushakara Mimamsa or
 Sritattva Siddhanjana.
 
+#### tiruvahIndra-puram
+> In page 51, he says –  
+> *“An interesting and valuable information is noticed in the Diary of
+> Sri Anandarangam Pillai a Dubashi of the then French government in
+> which Military informations are mainly recorded. It says that a
+> Sanyasin took a sum of 300 (Three hundred) pagodas from Thirupathy to
+> Thiruvahendrapuram for Vaikasi festival there in 1748 AD April.
+> Another note on 3.10.1749 also refers to this.
+>
+> As money can be moved
+> from one Thenkalai Devasthanam to another similar devasthanam it is
+> inferred that Thiruvanheendra puram Temple was Thenkalai upto 1749 AD
+> and only after that it might have been converted into Vadakalai or
+> usurped by Vadakalais.”*
+
+In fact Tirumalai has a majority of Vadakalai urdhwapundras in the temple’s especially sculptures, thus it is a movement of funds between the same Kalai (Vadakalai) while the thenkalai sannyasis of the jiyar Mathas are employed merely as Oozhiyam Seyvaar employees of the Tirumala Temple. +++(4)+++ Also, let us extend this logic.
+
+Parakala Matha had made offerings and even provided for festivals in Alwar Tirunagari during the 19^(th) Century. Should we identify Alwar Tirunagari as Vadakalai temple during that period?
+
+Thiruvahindrapuram has always been the place of Desika Sampradayam minded followers. Even as early as the period of Acharya Hrdayam, we see this. It is recorded in Acharya Hrdayam (work by a contemporary of Desika) that one person from Srivilliputtur (who adhered to Tennacharya ideals) did his nityakarma anusthanams in a separate place since he held that the locals were following their varnasharama dharma while he (the Villiputtur person) doesn’t believe in it being part of his sadhana to attain moksha.+++(4)+++
+
+This shows that the division in philosophy is perhaps even older than Desika. There were always a set of Sri Vaishnavas who held that karma is essential even for prapannas while another set of people considered it as unnecessary. Former being the ancestors of today’s Vadakalai and latter being the ancestors of today’ s Tenkalais.
+
+Given that the Thiruvahindrapuram residents were those who were following the Vadakalai philosophy even at the time of 14^(th) century (the Tennacharya person had to stand alone as he could not find anyone similar to him there), it is inconceivable to think that the temple was under Tenkalais ever. The village was and continues to be dominated by Vadakalais. No evidence of a significant Thenkalai population till 1800 is provided.
+
+### ALvArs
+> 8\.  Brazen lies are told as well:
+“*In 1700 AD there was some sudden
+activity erupted in Divyadesams by the newly formed sect Vadakalai
+which tried to usurp powers in conduct of rituals in temples. A sect
+which was not seen in temples during earlier times and which did not
+have much respect for Alwars on a plea that there are members in it
+belonging to lower castes*“
+
+8\.  We have already quoted above a sanad from 1649 which shows that
+Ramanuja Dayapatram was being recited in Melkote since the 16th
+century. Thus, Vadakalai school was very much in existence much
+before 1700 as seen in the Pakshas of authors earlier.
+
+It is a
+brazen lie that Vadakalais do not respect Azhwars. Rather, we see
+that Vadakalais also treat Divya prabandham with great reverence.
+Desika had great reverence for the acharyas and vadakalais have even
+written their own commentaries on prabandhams – starting from Desika
+himself.
+
+Periya Parakalaswamy, whom the Tenkalais hold as the person
+behind the popularity of the Vadakalai sect, himself wrote a
+commentary on the entire Divya Prabandham.
+
+Keshava Shatakopa Jiyar
+of Ahobila Matha around late 1600s wrote his own Manipravala
+commentary on Thiruvaymozhi. So, the claim that they did not/do not
+respect Azhwars is thoroughly disproved.
+
+
+His hatred towards Vadakalai sampradayam makes him to state extraordinary lies. Regarding the inscriptions related to Ahobila jeeyars in Tirumala, he says:
+
+> *“Then Sl.13, 14 and 15 were gifts made for offerings during
+> Adyayanothsavams. This Uthsava is specifically celebrated during the
+> month of Margali (Dec.-Jan) for ten days during day time called
+> Pagalpathu and in continuation for Ten days during Erappathu. The
+> final day of Erappathu festival is celebrated to denote the attainment
+> of moksha at the feet of Lord by Nammalwar.
+>
+> This festival is intended
+> for recitation of Divyaprabandam by Alwars which is important only to
+> Thenkalai sect who give importance to Divyaprabandam. So it can be
+> concluded that Ahobila maTha Jeeyar and the Temple belonged to
+> Thenkalai tradition.
+>
+> It can be ascertained that upto the beginning of
+> the 19th century the Vadakalai school did not accept celebrations of
+> this festival as they did not give importance to the recitation of
+> Divyaprabandham*.*”*
+
+Even from the period of Desika, his followers have given due and
+equal respect to both Sanskrit and Dravida veda/divyaprabandha.
+Desika has written a Stotra Dramidopanishat Tatparya Ratnavali
+summarizing Thiruvaymozhi in Pasurams and calling it Dramidopanishad
+
+
+Venkatadhvari, a Desika sampradaya follower and a (daughter way)
+descendant of Tatacharya, lived in the early 1600s. He wrote Acharya
+Panchashat on Vedanta Desika where he praises the knowledge and
+interest of Swami Desikan in Azhwar Prabandhams.
+
+Ranga Ramanuja muni, the Upanishad bhashyakara of Sri Vaishnava
+world, was also a Vadakalai by philosophy. He was a sishya of
+Jnanabdhi Parakala Jiyar and spent his life near Desika’s birthplace
+in Thooppul. He has written commentary on Nyaya Siddhanjana in which
+Desika differs from Tennacharyas on issues like status of Kaivalyam.
+
+
+Ranga Ramanuja Muni wrote Sanskrit commentary on Tiruppavai for the
+benefit of non Tamil speakers to enjoy the Arthas of Thiruppavai.
+This could not be the act of someone who hates or does not celebrate
+prabandhams
+
+#### Coping for sanskrit-paucity
+Just because there are
+relatively fewer (Tamil) Thenkalai scholars in Sanskrit Texts, a
+relative lack of an independent kalakshepa parampara of Vadakalai
+acharyas and many who prioritize just Azhwar’s works exists, it does
+not mean Vadakalais lack Scholarship over Azhwar’s Srisuktis and
+have their own independent learning and commentarial tradition on
+Divyaprabandhas since the times of Desika.
+
+##### Students mainly
+Nonsensical claims regarding Vadakalais and Divyaprabandhams probably stems from a large section of the Author’s Thennacharya sampradaya people, (especially of TamilNadu) not being good Scholars in the Sanskrit Vedas, Samanya Shastras and as a consequence unable to expound Sribhashya of Bhagavad Ramanuja as intended – regularly resorting to Vadakalai Shastra Vidvans (including people like Puttur Krishnamachar, Velukkudi varadachar and his grandson, Dr Venkatesh of Kumbakonam or Current Thirukkovalur Jiyar) for their Shastra Adhyayana to know Ramanuja’s granthas properly.
+
+
+##### Lip service
+Other Thenkalais who do not learn from Vadakalais or from the small amount of Thenkalai scholars of such shastras end up paying lip service to the Samskrita Vedanta Prasthana and resorting to expounding exclusively Bhagavad Vishayam or Manipravala Rahasyas.
+
+##### ubhaya-vedAntitvam
+This is not seen in Vadakalais who are true to the concept of Ubhaya Vedanta and scholars of both the Samskrita Prasthana (Sribhashya – Gitabhashya, the upakarana samanya shastras and Vedas) and Dravida Prasthana (Bhagavad Vishayam and Rahasyas) exist in great numbers.
+
+##### Inferirory complex
+Due to the inferiority complex this creates amongst Thenkalais (like the Author of this text) they project an image of Vadakalais not taking Tamil seriously to cope for their own lack of Sanskrit scholarship.
 
 ## tAtAchAryas
 Moving on to his false inferences on Tatacharyas:
@@ -386,16 +482,127 @@ An inscription from 1554 AD in Chinna Ahobilam (Published in South Indian inscri
 
 ![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-9.png?w=1024)
 
-### Sect
+### paramparA
+**Table No. 87.**
 
-#### Early works
+[The following succession list of Āchāryas is prepared as instructed in Yatirāja Saptati of Śrī Vēdānta Dēśika (1267–1369 A.D.) and Sannidhi-Guruparamparā of Ahōbila-Maṭhaṁ]
+
+Viṣṇu (Lord)
+|
+Śrī (Śrī Mahā-Lakshmī)
+|
+Sēnānī or Pratanāpati (=Śrī Vishvaksēna)
+|
+Śaṭhakōpa (=NammāỊvār), (born on 43rd day of Kaliyuga)
+|
+Śrīnātha==Nāthamuni-Yōgi (823 A. D.)
+|
+Padmākshapa==Uyyakkoṇḍār (Kali 3927)
+|
+Rāma (=Maṇakkāl Nambi), (Kali 4030)
+|
+Yāmuna alias Yāmunāchārya==ĀỊavandār (918-1038 A. D.)
+|
+Pūrṇāmiśra==Periya Nambi==Mahāpūrṇa (4090)
+|
+Yatirāja==Uḍaiyavar==Śrī Rāmānuja (1017-1137 A. D.)
+
+---
+#### Samāśrayaṇa-paramparā
+**[SECTION I]**
+(Samāśrayaṇa-paramparā)
+|
+Gōvinda==Embār (Kali 4126)
+|
+Bhaṭṭār==Śrī Parāśara Bhaṭṭar (1063 A. D.)
+|
+Vēdānti==Nañjīyar (Kali 4214)
+|
+Kalipramāthi==NampiỊỊai (Kali 4308)
+|
+Śrī Kṛishṇapāda==Vaḍakku-TiruvīdhippiỊỊai (author of 36000 paḍi,) (Kali 4328)
+|
+Śrīraṅgēśvara==Kiḍāmbi Śrīraṅgāchārya (Kali 4360)
+|
+Kēśavārya I (Kali 4392)
+|
+Kamalāvāsa==Śrīnivāsa (Kali 4423)
+|
+Kēśava II (Kali 4443)
+|
+Śrīnivāsa (=Ādi-Vaṇ-Śaṭhakōpa Jīyar (1437–1516 A. D.) (the founder of the Ahōbila-Maṭhaṁ)
+
+---
+
+#### Grantha-paramparā
+**[SECTION II]**
+(Grantha-paramparā)
+|
+Kiḍāmbi Āchchān==Māhānaśika of Yatirāja, alias Pragaṭārthīhara (Kali 4157)
+|
+Kiḍāmbi Rāmānuja PiỊỊān (Kali 4208)
+|
+Kiḍāmbi Śrīraṅgarāja (Kali 4263)
+|
+Kiḍāmbi AppiỊỊān (=Vādihamsāmbuvāha), (Kali 4321)
+|
+Tirukkurukaipirān PiỊỊān of Tirumalai (6000 paḍi)
+|
+ĒngalāỊvān
+|
+Naḍādūr AmmāỊ==Vātsya Varadārya of Kāñchī
+|
+Śrī Vēdānta Dēśika (1267–1369 A. D.)
+|
+Nainārāchārya (1296–1410 A. D.)
+|
+Ghaṭikāśatam AmmāỊ==Varada-Vishṇu-
+|
+Brahmatantra-svatantra
+|
+Ādi-Vaṇ-Śaṭhakōpa Jīyar (1437–1516 A. D.)
+
+
+### Early works
 For now, the Second Jiyar (of late 1400s and early 1500s +++(a tAtAchArya)+++) of Ahobila Matha’s granthas obtained in Public libraries can be seen to be of
     Vadakalai Paksha and containing Vyakhyanas and Citations of Swamy desikan’s granthas. The 6th Azhagiyasingar (of 1550s) has authored a Bharanyasakrama found in GOML Chennai- a paddathi grantha on doing a separate Bharanyasa.
 
+#### Rahasyatraya Jivatu
+> Rajagopalan uses Pazhanadai Vilakkam indirectly by using PBA swami’s
+> quote from said book:
+>
+> “*Sri.U.Ve.P.B.Annagarachariar Swamy of Kanchee asserts that Ahobila
+> maTha Jeeyars wrote “Purushakara Mimasa”, “Rahasyathraya Jeevathu” etc.
+> granthas according to Thenkalai tenets only and established that they
+> belong to Thenkalai Sampradaya only. (Ref. page 81 of “Sath
+> Sampradayartha Saranidhi”.) 
+> 
+> A book “Rahasyathraya Jeevathu” authored
+> by the Van-Satakopa Jeeyar (about 1550 or 1560 AD) asserts that it is
+> only Sriman Narayana who can and will give “Moksham”. His consort Sri
+> Mahalakshmi will only recommend to Sriman Narayana to give moksha to a
+> “Chetana”. Her action is called Purusha Karathvam only, which is one
+> of the fundamental tenets of Thenkalai Sampradaya.
+
+To verify the claim regarding Rahasyatraya Jivatu of 2nd Azhagiyasingar (Who is said to have authored 60 texts on Srivaishnavism) being of Thenkalai Pakshas (Claimed by multiple people fraudulently from Thirumazhisai Annavappangar or PB Annangarachar of Kanchi), multiple Manuscripts of the text from Public Manuscript Libraries of **GOML, Adyar, VORI, ORI-Mysore and Melukote** were consulted, and all of them are same and conclude in Vadakalai Pakshas as written by Vedanta Desika. 
+
+A **PhD thesis** made by Mrs M Gajalakshmi based on the same Manuscripts has the full text of Rahasyatraya Jivatu, attached below. 
+
+Requesting anyone having Contrarian opinions on this text to point out where Thenkalai Pakshas are described. On the contrary, pirAtti being Ishvari and ample examples regarding Prapatti-Bharanyasa citing Vedanta Desika Shlokas are established in the text along with veiled criticism of thenkalai pakshas. (Refer [PhD Thesis on Rahasyatraya Jivatu](https://archive.org/download/shrI-vaiShNava-tattva-granthAH/rahasya-traya-jIvAtu-samIxA.pdf)) 
+
+#### Other jIyar 2 works
+A thorough study of 2nd Azhagiyasingar’s granthas would show that many manuscripts Authored by him Like Rahasyatrayavichara, Purushartha Sudhanidhi, Stotraratna Bhashya and Nyasavimshati Vyakhya (a Desika stotra’s commentary) are found in Libraries like ORI-Mysore and VORI-Tirupati and consulting them would make one conclude that the texts are of Vadakalai Pakshas. These texts will be published soon – the manuscripts are collected and transcribing them for publishing is in progress. 
+
+#### Purushakara Mimamsa
+Regarding Purushakara Mimamsa – This text consulting Manuscripts is not of 2nd Azhagiyasingar but of 14th Azhagiyasingar (who carries the same name as 2nd Azhagiyasingar – Narayana Muni). The text attached here written based on the manuscripts available in GOML-Chennai is of Vadakalai Paksha. 
+
+The text also has a vyakhyana named “Manidipika” authored by a Thirukkurungudi Resident of Nadathur Thiruvamsham from the same era of 14th Azhagiyasingar and that too closely follows Vadakalai pakshas. ([Purushakara Mimamsa Source work](https://www.srikosha.in/scripture/purushakara-mimamsa)). 
+
+Sakshat Swamy, a preceptor of Munitraya-Tradition amongst Vadakalais, in his Sritattva Siddhanjanam while criticising Aspects of this purushakara mimamsa text, does agree that this Text follows the 5th paksha as expounded by Vedanta Desika and that the disagreement is in finer details. Refer to this [Blog on Purushakara Mimamsa](https://vansatakopadaya.wordpress.com/2025/03/08/puru%e1%b9%a3akara-mima%e1%b9%83sa-vicara/) for a better insight into this text.  
 
 
 
-#### pAncharAtra customs
+### pAncharAtra customs
 > About Ahobila maTha, he says – “*It is this time, the Ahobila maTha seem
 > to have been converted in to Vadakalai*……*Till a very recent period
 > they were following same customs as that of Then kalai and even today
@@ -404,10 +611,22 @@ For now, the Second Jiyar (of late 1400s and early 1500s +++(a tAtAchArya)+++) o
 
 Ahobila maTha simply follows Pancaratra in celebration of festivals- because the primary deity Malolan is utsava Vigraha of pancharatra temple. There is nothing specifically Tenkalai about Pancaratra. 
 
-#### IDu
+### IDu
 As for the maTha supposedly using Eedu as well in their lectures, it should be noted that the Samashrayana Parampara of Adivan Satakopa Swami was through Vadakku thiruveedhi Pillai while their Grantha Kalakshepa Parampara is through Brahmatantra Svatantra Jiyar and Vedanta Desika. The maTha has accepted it very clearly in their [website](https://www.ahobilamutt.org/us/acharya/lineage/lineage.asp) itself. As such, there is nothing surprising that they refer to Eedu in their lectures. 
 
 Just because Manavalamamuni gave kalakshepas based on Eedu it does not become the property of Thenkalais, the text was authored earlier and an unbiased read of it will show it has some aspects that are explicitly pro-Vadakalai but lacks any such places regarding Thenkalai pakshas.+++(5)+++
+
+### tenkalai jIyar lie
+> In Page 52, he lies again – “*It is accepted by Ahobilam Jeeyars
+> themselves that there were many Thenkalai Jeeyars in the initial
+> hierarchy of Ahobila maTha.”*
+
+This is again a lie. As per the maTha hagiography, only the 5th pontiff was from a family that followed Tenkalai sampradaya – he did Bharanyasa under the 4th pontiff and later learnt Grantha chatushtaya granthas of Vadakalai tradition from the 4th Pontiff.
+
+If any taking the maTha hagiographies into account as the author says, the 5th Pontiff found the Thennacharya Sampradayam improper, did bharanyasa and granthakalakshepas under Ahobila Yati and became pontiff of the maTha.
+
+We can see such instances even now where Thennacharya Sampradayastas (including famous upanyasakas and Sribhashya Adhikaris) getting Bharanyasa from Vadakalai acharyas and if they remain wearing Thenkalai urdhwapundra, end up disagreeing with many Thenkalai tenets.
+
 
 ### Temple conversion
 > “*But unexpectedly the pontiff converted his maTha, Ahobilam temple and
@@ -423,6 +642,18 @@ Just because Manavalamamuni gave kalakshepas based on Eedu it does not become th
 When one goes through the book’s copy obtainable online [Jagadesa Iyer’s South indian shrines](https://dn790008.ca.archive.org/0/items/pli.kerala.rare.22199/pli.kerala.rare.22199.pdf) here, this Picture is nowhere to be found to verify these claims. No Public records of another book of the same name by the same author is to be found, nor a volume 2. Kindly requesting Mr TA Rajagopalan to provide the source of this image in a better quality for verification. 
 
 This doubt arises due to inscriptional fraud described below.
+
+#### Fine
+> A claim made by Rajagopalan:
+>
+> “*Sri.U.Ve.P.B.Annangarachariar Swamy of Kancheepuram states in one of
+> his issues of “Ramanujan” a Monthly Journal that in 1835 AD, one
+> Ranganatha Satakopa Jeeyar, for the first time recited “Ramanuja
+> Dayapathram” a Vadakalai Thanian at Trivallore. For such recitation
+> the Jeeyar and his agents were fined by the Dy.Collector H.Richardson
+> on 25.8.1835*.”
+
+Given the number of lies and obfuscations that we have seen here till now, I have serious doubts about the veracity of this claim. He doesn’t explain why Tenakalais did not pursue legal action post 1835 if indeed it is true that the temple was following their traditions till then. They had fought legal cases everywhere else. So, there is enough reason to doubt this as a spurious claim. Only an affidavit describing this incident exists and lacks official records.
 
 
 ### sIta-karagaNDa-nandavanam fraud
@@ -577,8 +808,12 @@ Rajagopalan makes fun of the hagiography that Narasimha gave sanyasa to Sri Adi 
 
 These words have shown that Rajagopalan has not done any proper ground work before writing this ‘research book’. Rather he seems to have collated a few things here and there – mixed them with his preconceived notions and bias – giving birth to a substandard work.  
 
+##### Family shiShya testimony
+Rajagopalan has claimed in this book that Krishnadevaraya was a disciple of Thirumalai Ananthanpillai Govindachariar (pg. 7). So, let us see what the disciple of this Ananthanpillai clansman has written about Adi Van Satakopa Yati.  
 
-Rajagopalan has claimed in this book that Krishnadevaraya was a disciple of Thirumalai Ananthanpillai Govindachariar (pg. 7). So, let us see what the disciple of this Ananthanpillai clansman has written about Adi Van Satakopa Yati. In 6.66 of Amuktamalyada, he seems to consider Manavala Mamuni, Adi Van Satakopa and Vedanta Desika as avataras of Ramanuja. Of these three, he spends about one sentence on Mamuni, 3 lines on Desika and 7-8 lines on Satakopa Jiyar. This Satakopa Jiyar is described as having performed tapasya at Garudachalam (Ahobilam) in his purvashrama where Narasimha appeared before the devotee and gave him sanyasa.  
+In 6.66 of Amuktamalyada, he seems to consider Manavala Mamuni, Adi Van Satakopa and Vedanta Desika as avataras of Ramanuja. Of these three, he spends about one sentence on Mamuni, 3 lines on Desika and 7-8 lines on Satakopa Jiyar. This Satakopa Jiyar is described as having performed tapasya at Garudachalam (Ahobilam) in his purvashrama where Narasimha appeared before the devotee and gave him sanyasa.  
+
+
 The translation of the relevant portion by Srinivas Sistla is as under:  
 
 > *“…when the southern side of Yadavagiri would be occupied by those
@@ -589,15 +824,20 @@ The translation of the relevant portion by Srinivas Sistla is as under:
 > other regions with regards to the matters relating to God, as though
 > he were giving alms to them. After becoming victorious in all the
 > directions, he would perform penance in a cave atop the hill
-> Garudachalam. God Narasimha, appearing before him in the guise of a
+> Garudachalam. 
+> 
+> God Narasimha, appearing before him in the guise of a
 > sage, would give him the sacred seat of mediatation, saffron garments,
-> sacred water vessel and sacred hand stick (tridanda). He would take
+> sacred water vessel and sacred hand stick (tridanda). 
+> 
+> He would take
 > them to a Matha where he would settle down finally. He would take up
 > Phana’s (Patanjali), Kanubha’s (Kanada), Akshapada’s, Badarayana’s,
 > Kapila’s and Jaimini’s inscription like theories and would teach them
 > in clear-cut terms to the Brahmin cooks in the kitchen as well as to
 > the students residing in the Matha. He would become the supreme
 > parama-hamsa with regard to the ultimate practices of parama-hamsaas.
+> 
 > In home-like hearts and minds of all the disciples at his feet, he
 > would establish Padma and Padmaksha, the One resides in a lotus and
 > the lotus-eyed Lord, respectively, and shun away palleru thorn-like
@@ -605,81 +845,54 @@ The translation of the relevant portion by Srinivas Sistla is as under:
 > while preaching the same; and, he would make the entire world
 > sinless.”*
 
-So, Krishnadevaraya has seen Adi Van Satakopa as another Yatindra Pravana. He accepts the claim that the yati was given sanyasa by Narasimha himself at Ahobilam. He says that Van Satakopa Jiyar explained the Shad-darshanas. This one sentence would make it clear to anyone that the Jiyar was following the footsteps of Vedanta Desika (who wrote texts like Seshvara Mimamsa to interpret the Purva Mimamsa sutras according to Ramanuja’s school of thought). The Tenkalai school has never made such attempts. The practice of doing tapasya again points to Vadakalai school of thought – for the Tenkalai school does not believe in such efforts being required of Jivas. Finally, Krishnadevaraya mentions that the Jiyar established Lakshmi and Narayana in the hearts of his devotees – the importance given to Sri is again typical of the Vadakalai school of thought. Hence, while the Samashrayana parampara of Adi Van Satakopa might have come through Vadakku thiruveedhi pillai, he seems to have adhered closely to Desika’s thought when it came to his practices and beliefs. That Krishnadevaraya has praised to heavens the great acharyas of both schools of thought shows that there was no ill-feeling between the two schools in that era.
+So, Krishnadevaraya has seen Adi Van Satakopa as another Yatindra Pravana. He accepts the claim that the yati was given sanyasa by Narasimha himself at Ahobilam. 
 
-**8. Nammazhwar of Azhwar Thirunagari, Tirumala and Lineage of Jiyars**  
+#### Ideology
+He says that Van Satakopa Jiyar explained the Shad-darshanas. This one sentence would make it clear to anyone that the Jiyar was following the footsteps of Vedanta Desika (who wrote texts like Seshvara Mimamsa to interpret the Purva Mimamsa sutras according to Ramanuja’s school of thought). The Tenkalai school has never made such attempts.+++(4)+++ 
 
-In pages 42-46, Rajagopalan argues that Adi Van Satakopa Jiyar was not the person who re-established Nammazhvar at Azhwar Thirunagari after the Muslim rule. This is a classic case of setting up a strawman and beating i. Ahobila maTha hagiography doesn’t deny this either. They certainly do not claim that Adi Van Satakopa reinstalled the murti of Nammazhvar after Islamic rule. Rather, the claim is that the temple was occupied by Lingayats/Veerashaiva (that Lingayats/Veerashaiva made similar attempt in Kumbhakonam is also well known from Vijayindra tirtha’s life story and inscriptions that follows) – which was set right by the Jiyar with the help of the Pandyan king whom he converted to Vaishnavism.  
+The practice of doing tapasya again points to Vadakalai school of thought – for the Tenkalai school does not believe in such efforts being required of Jivas. 
 
-> In page 51, he says –  
-> *“An interesting and valuable information is noticed in the Diary of
-> Sri Anandarangam Pillai a Dubashi of the then French government in
-> which Military informations are mainly recorded. It says that a
-> Sanyasin took a sum of 300 (Three hundred) pagodas from Thirupathy to
-> Thiruvahendrapuram for Vaikasi festival there in 1748 AD April.
-> Another note on 3.10.1749 also refers to this. As money can be moved
-> from one Thenkalai Devasthanam to another similar devasthanam it is
-> inferred that Thiruvanheendra puram Temple was Thenkalai upto 1749 AD
-> and only after that it might have been converted into Vadakalai or
-> usurped by Vadakalais.”*  
+Finally, Krishnadevaraya mentions that the Jiyar established Lakshmi and Narayana in the hearts of his devotees – the importance given to Sri is again typical of the Vadakalai school of thought. 
 
-In fact Tirumalai has a majority of Vadakalai urdhwapundras in the temple’s especially sculptures, thus it is a movement of funds between the same Kalai (Vadakalai) while the thenkalai sannyasis of the jiyar Mathas are employed merely as Oozhiyam Seyvaar employees of the Tirumala Temple. Also, let us extend this logic. Parakala Matha had made offerings and even provided for festivals in Alwar Tirunagari during the 19^(th) Century. Should we identify Alwar Tirunagari as Vadakalai temple during that period? Thiruvahindrapuram has always been the place of Desika Sampradayam minded followers. Even as early as the period of Acharya Hrdayam, we see this. It is recorded in Acharya Hrdayam (work by a contemporary of Desika) that one person from Srivilliputtur (who adhered to Tennacharya ideals) did his nityakarma anusthanams in a separate place since he held that the locals were following their varnasharama dharma while he (the Villiputtur person) doesn’t believe in it being part of his sadhana to attain moksha. This shows that the division in philosophy is perhaps even older than Desika. There were always a set of Sri Vaishnavas who held that karma is essential even for prapannas while another set of people considered it as unnecessary. Former being the ancestors of today’s Vadakalai and latter being the ancestors of today’ s Tenkalais. Given that the Thiruvahindrapuram residents were those who were following the Vadakalai philosophy even at the time of 14^(th) century (the Tennacharya person had to stand alone as he could not find anyone similar to him there), it is inconceivable to think that the temple was under Tenkalais ever. The village was and continues to be dominated by Vadakalais. No evidence of a significant Thenkalai population till 1800 is provided.
+Hence, while the Samashrayana parampara of Adi Van Satakopa might have come through Vadakku thiruveedhi pillai, he seems to have adhered closely to Desika’s thought when it came to his practices and beliefs. 
 
-> In Page 52, he lies again – “*It is accepted by Ahobilam Jeeyars
-> themselves that there were many Thenkalai Jeeyars in the initial
-> hierarchy of Ahobila maTha.”*
+That Krishnadevaraya has praised to heavens the great acharyas of both schools of thought shows that there was no ill-feeling between the two schools in that era.
 
-This is again a lie. As per the maTha hagiography, only the 5^(th) pontiff was from a family that followed Tenkalai sampradaya – he did Bharanyasa under the 4th pontiff and later learnt Grantha chatushtaya granthas of Vadakalai tradition from the 4th Pontiff. If any taking the maTha hagiographies into account as the author says, the 5th Pontiff found the Thennacharya Sampradayam improper, did bharanyasa and granthakalakshepas under Ahobila Yati and became pontiff of the maTha. We can see such instances even now where Thennacharya Sampradayastas (including famous upanyasakas and Sribhashya Adhikaris) getting Bharanyasa from Vadakalai acharyas and if they remain wearing Thenkalai urdhwapundra, end up disagreeing with many Thenkalai tenets.  
+#### nammALHvAr
+8\. Nammazhwar of Azhwar Thirunagari, Tirumala and Lineage of Jiyars  
 
+In pages 42-46, Rajagopalan argues that Adi Van Satakopa Jiyar was not the person who re-established Nammazhvar at Azhwar Thirunagari after the Muslim rule. This is a classic case of setting up a strawman and beating it. Ahobila maTha hagiography doesn’t deny this either. They certainly do not claim that Adi Van Satakopa reinstalled the murti of Nammazhvar after Islamic rule. 
+
+Rather, the claim is that the temple was occupied by Lingayats/Veerashaiva (that Lingayats/Veerashaiva made similar attempt in Kumbhakonam is also well known from Vijayindra tirtha’s life story and inscriptions that follows) – which was set right by the Jiyar with the help of the Pandyan king whom he converted to Vaishnavism.  
+
+### brahmatantra-svatantra!
 Lying is converted into an art by Rajagoapalan.
 
 > In pg 63, he says – *“The T.T.D., vol.7, table 87 on page 57 shows
 > that the title Brahmathanthra Swathanthrar is adopted by Ahobilam
 > Jeeyars also.”*
 
+Ghaṭikāśatam AmmāỊ==Varada-Vishṇu-
+|
+Brahmatantra-svatantra
+|
+Ādi-Vaṇ-Śaṭhakōpa Jīyar (1437–1516 A. D.)
+
+---
+
+Table 87 of Vol 7 TTD inscriptions
+**Does not** list the title Brahmatantra Svatantra being Used by Van Shatakopa Jiyar
+
 ![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-25.png?w=649)
 
-Said table only shows Brahmatantra Swatantra Jiyar as a predecessor of Adi Van Satakopa in the grantha parampara of Ahobila maTha.it doesn’t say anything about the title being adopted by Ahobilam jeeyars. Perhaps Rajagopalan feels that no one will verify his claims (most probably, he believes that Tenkalai followers might believe everything he writes – after all, they are his target audience).
+Said table only shows Brahmatantra Swatantra Jiyar as a predecessor of Adi Van Satakopa in the grantha parampara of Ahobila maTha. it doesn’t say anything about the title being adopted by Ahobilam jeeyars. 
 
-His hatred towards Vadakalai sampradayam makes him to state extraordinary lies. Regarding the inscriptions related to Ahobila jeeyars in Tirumala, he says:
+Perhaps Rajagopalan feels that no one will verify his claims (most probably, he believes that Tenkalai followers might believe everything he writes – after all, they are his target audience).
 
-> *“Then Sl.13, 14 and 15 were gifts made for offerings during
-> Adyayanothsavams. This Uthsava is specifically celebrated during the
-> month of Margali (Dec.-Jan) for ten days during day time called
-> Pagalpathu and in continuation for Ten days during Erappathu. The
-> final day of Erappathu festival is celebrated to denote the attainment
-> of moksha at the feet of Lord by Nammalwar. This festival is intended
-> for recitation of Divyaprabandam by Alwars which is important only to
-> Thenkalai sect who give importance to Divyaprabandam. So it can be
-> concluded. that Ahobila maTha Jeeyar and the Temple belonged to
-> Thenkalai tradition. It can be ascertained that upto the beginning of
-> the 19th century the Vadakalai school did not accept celebrations of
-> this festival as they did not give importance to the recitation of
-> Divyaprabandham*.*”*  
+### Idol dress
+Rajagopalan’s ‘arguments’ are sometimes so unbelievable that we almost
+start pitying him. In pg 70, he says –
 
-1.  Even from the period of Desika, his followers have given due and
-    equal respect to both Sanskrit and Dravida veda/divyaprabandha.
-    Desika has written a Stotra Dramidopanishat Tatparya Ratnavali
-    summarizing Thiruvaymozhi in Pasurams and calling it Dramidopanishad 2.  Periya Parakalaswami, who is considered by Annangaracharya as the
-    main person behind growth of Vadakalais wrote commentary on all 4000
-    verses of divya prabandham 3.  Venkatadhvari, a Desika sampradaya follower and a (daughter way)
-    descendant of Tatacharya, lived in the early 1600s. He wrote Acharya
-    Panchashat on Vedanta Desika where he praises the knowledge and
-    interest of Swami Desikan in Azhwar Prabandhams. 4.  Ranga Ramanuja muni, the Upanishad bhashyakara of Sri Vaishnava
-    world, was also a Vadakalai by philosophy. He was a sishya of
-    Jnanabdhi Parakala Jiyar and spent his life near Desika’s birthplace
-    in Thooppul. He has written commentary on Nyaya Siddhanjana in which
-    Desika differs from Tennacharyas on issues like status of Kaivalyam.
-    Ranga Ramanuja Muni wrote Sanskrit commentary on Tiruppavai for the
-    benefit of non Tamil speakers to enjoy the Arthas of Thiruppavai.
-    This could not be the act of someone who hates or does not celebrate
-    prabandhams
-
-Nonsensical claims regarding Vadakalais and Divyaprabandhams probably stems from a large section of the Author’s Thennacharya sampradaya people, (especially of TamilNadu) not being good Scholars in the Sanskrit Vedas, Samanya Shastras and as a consequence unable to expound Sribhashya of Bhagavad Ramanuja as intended – regularly resorting to Vadakalai Shastra Vidvans (including people like Puttur Krishnamachar, Velukkudi varadachar and his grandson, Dr Venkatesh of Kumbakonam or Current Thirukkovalur Jiyar) for their Shastra Adhyayana to know Ramanuja’s granthas properly. Other Thenkalais who do not learn from Vadakalais or from the small amount of Thenkalai scholars of such shastras end up paying lip service to the Samskrita Vedanta Prasthana and resorting to expounding exclusively Bhagavad Vishayam or Manipravala Rahasyas. This is not seen in Vadakalais who are true to the concept of Ubhaya Vedanta and scholars of both the Samskrita Prasthana (Sribhashya – Gitabhashya, the upakarana samanya shastras and Vedas) and Dravida Prasthana (Bhagavad Vishayam and Rahasyas) exist in great numbers. Due to the inferiority complex this creates amongst Thenkalais (like the Author of this text) they project an image of Vadakalais not taking Tamil seriously to cope for their own lack of Sanskrit scholarship.
-
-> Rajagopalan’s ‘arguments’ are sometimes so unbelievable that we almost
-> start pitying him. In pg 70, he says –
->
 > *“It can be seen from the picture that this Van-Satakopa Jeeyar is
 > wearing his cloth upto his ankle in the same pattern as that of
 > Thenkalai Yathis, where as Vadakalai Jeeyars will wear the lower
@@ -689,25 +902,17 @@ This ‘evidence’ found by him is the archa-vigraha of Adi Van Satakopa Jeeyar
 
 ![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-26.png?w=649)
 
-> Rajagopalan uses Pazhanadai Vilakkam indirectly by using PBA swami’s
-> quote from said book:
->
-> “*Sri.U.Ve.P.B.Annagarachariar Swamy of Kanchee asserts that Ahobila
-> maTha Jeeyars wrote “Purushakara Mimasa”, “Rahasyathraya Jeevathu” etc.
-> granthas according to Thenkalai tenets only and established that they
-> belong to Thenkalai Sampradaya only. (Ref. page 81 of “Sath
-> Sampradayartha Saranidhi”.) A book “Rahasyathraya Jeevathu” authored
-> by the Van-Satakopa Jeeyar (about 1550 or 1560 AD) asserts that it is
-> only Sriman Narayana who can and will give “Moksham”. His consort Sri
-> Mahalakshmi will only recommend to Sriman Narayana to give moksha to a
-> “Chetana”. Her action is called Purusha Karathvam only, which is one
-> of the fundamental tenets of Thenkalai Sampradaya. Sri Mukkur Lakshmi
+### mukkUr laxmInarasimha
+
+> Sri Mukkur Lakshmi
 > Narasimhachariar also wrote in the same manner in his book “Kurai
 > Onrrumillai”. It may be noted that he was a Vadakalai preceptor of
 > 20th century and very much devoted to Ahobila Narasimhar”*
 
-To verify the claim regarding Rahasyatraya Jivatu of 2nd Azhagiyasingar (Who is said to have authored 60 texts on Srivaishnavism) being of Thenkalai Pakshas (Claimed by multiple people fraudulently from Thirumazhisai Annavappangar or PB Annangarachar of Kanchi), multiple Manuscripts of the text from Public Manuscript Libraries of GOML, Adyar, VORI, ORI-Mysore and Melukote were consulted, and all of them are same and conclude in Vadakalai Pakshas as written by Vedanta Desika. A PhD thesis made by Mrs M Gajalakshmi based on the same Manuscripts has the full text of Rahasyatraya Jivatu, attached below. Requesting anyone having Contrarian opinions on this text to point out where Thenkalai Pakshas are described. On the contrary, pirAtti being Ishvari and ample examples regarding Prapatti-Bharanyasa citing Vedanta Desika Shlokas are established in the text along with veiled criticism of thenkalai pakshas. (Refer [PhD Thesis on Rahasyatraya Jivatu](https://drive.google.com/file/d/1FEvIj_khKBoSAk9ABlXxFVd8kQMiu6ph/view?usp=sharing)) A thorough study of 2nd Azhagiyasingar’s granthas would show that many manuscripts Authored by him Like Rahasyatrayavichara, Purushartha Sudhanidhi, Stotraratna Bhashya and Nyasavimshati Vyakhya (a Desika stotra’s commentary) are found in Libraries like ORI-Mysore and VORI-Tirupati and consulting them would make one conclude that the texts are of Vadakalai Pakshas. These texts will be published soon – the manuscripts are collected and transcribing them for publishing is in progress. Regarding Purushakara Mimamsa – This text consulting Manuscripts is not of 2nd Azhagiyasingar but of 14th Azhagiyasingar (who carries the same name as 2nd Azhagiyasingar – Narayana Muni). The text attached here written based on the manuscripts available in GOML-Chennai is of Vadakalai Paksha. The text also has a vyakhyana named “Manidipika” authored by a Thirukkurungudi Resident of Nadathur Thiruvamsham from the same era of 14th Azhagiyasingar and that too closely follows Vadakalai pakshas. ([Purushakara Mimamsa Source work](https://www.srikosha.in/scripture/purushakara-mimamsa)). Sakshat Swamy, a preceptor of Munitraya-Tradition amongst Vadakalais, in his Sritattva Siddhanjanam while criticising Aspects of this purushakara mimamsa text, does agree that this Text follows the 5th paksha as expounded by Vedanta Desika and that the disagreement is in finer details. Refer to this [Blog on Purushakara Mimamsa](https://vansatakopadaya.wordpress.com/2025/03/08/puru%e1%b9%a3akara-mima%e1%b9%83sa-vicara/) for a better insight into this text.  
-The claim about Mukkur Lakshminarasimhacharya takes the cake. In Vadakalai sampradaya, Sri has Purushakaratvam and additionally, she plays the role of giving moksha along with Narayana. Never will any Vadakalai acharya say that Sri does not have Purushakaratvam. Just mentioning that pirAtti has purushakaratva does not mean they deny their role in Moksha. In fact, Rajagopalan makes a mess of Mukkur swami’s statements more than once. These instances show that he is not concerned about facts but only about ‘interpreting’ everything to suit his preconceived notions. Examples:  
+
+The claim about Mukkur Lakshminarasimhacharya takes the cake. In Vadakalai sampradaya, Sri has Purushakaratvam and additionally, she plays the role of giving moksha along with Narayana. Never will any Vadakalai acharya say that Sri does not have Purushakaratvam. Just mentioning that pirAtti has purushakaratva does not mean they deny their role in Moksha. +++(4)+++
+
+In fact, Rajagopalan makes a mess of Mukkur swami’s statements more than once. These instances show that he is not concerned about facts but only about ‘interpreting’ everything to suit his preconceived notions. Examples:
 
 > *“Sri Mukkur Lakshmi Narasimhachariar Swamy in his book “Kurai Onrum
 > Illai” quotes from Vedantha Desika’s works that those who had darshan
@@ -715,9 +920,18 @@ The claim about Mukkur Lakshminarasimhacharya takes the cake. In Vadakalai sampr
 > are going to have dharshan of Him all should note his “Abaya Hastha”
 > (right hand palm) and it is just turned to tell us that it is enough
 > to prostrate before him only once, and only those who are not pure in
-> their heart and do it as a formality should do it more than once. If
+> their heart and do it as a formality should do it more than once. 
+> 
+> If
 > one does it more than once it will mean that they have no complete
-> faith in Lord Ranganatha. He again says that while taking Lord in a
+> faith in Lord Ranganatha. 
+
+Said Mukkur swami did not do just one dandavat namaskaram. He did it four times. For that matter, even Tenkalai acharyas do dandavat namaskaram everytime they enter the temple or when they do thiruvaradhanam. Why do they repeat it?
+
+Desika talks about prapatti – that doing it once is sufficient – while also giving opportunity for prayaschitta prapatti.
+
+
+> He again says that while taking Lord in a
 > Palanquin or other, mode of vehicle (Vahana etc.) during Sandhya
 > period the Lord should not be placed at a mantapa without completing
 > the procession just to perform “Sandhya Vandanam”. Sandhya Vandanam is
@@ -727,20 +941,13 @@ The claim about Mukkur Lakshminarasimhacharya takes the cake. In Vadakalai sampr
 > stop the procession in order to perform Sandhya Vandanam is “Vikrama”
 > a wrong act. This is exactly the basic principle of Thenkalai sect.”*
 
-Said Mukkur swami did not do just one dandavat namaskaram. He did it four times. For that matter, even Tenkalai acharyas do dandavat namaskaram everytime they enter the temple or when they do thiruvaradhanam. Why do they repeat it? Desika talks about prapatti – that doing it once is sufficient – while also giving opportunity for prayaschitta prapatti. Similarly, Vadakalais never say that sandhyavandanam must be done by stopping utsavams. This opinion is common to both sects. Rather it should be stated that vadakalais don’t believe in giving up karma. They will do sandhyavandana with prayashchitta arghya – and ideally structure Utsavam and thiruvaradhanam without coinciding with Sandhya Kalams – Can be seen in even Srirangam where the Vadakalai Archakas (theoratically) have the practice of not doing aradhanam around sandhyakalam. On the other hand, some Tenkalais claim that this prayaschitta arghya in cases of Utsavas are unnecessary. That is the fundamental difference and is the basic principle of Tenkalai sampradayam. Rajagopalan should go through the rahasya grantha kalakshepams properly before making allegations against anyone.  
 
-> A claim made by Rajagopalan:
->
-> “*Sri.U.Ve.P.B.Annangarachariar Swamy of Kancheepuram states in one of
-> his issues of “Ramanujan” a Monthly Journal that in 1835 AD, one
-> Ranganatha Satakopa Jeeyar, for the first time recited “Ramanuja
-> Dayapathram” a Vadakalai Thanian at Trivallore. For such recitation
-> the Jeeyar and his agents were fined by the Dy.Collector H.Richardson
-> on 25.8.1835*.”
+Similarly, Vadakalais never say that sandhyavandanam must be done by stopping utsavams. This opinion is common to both sects. Rather it should be stated that vadakalais don’t believe in giving up karma. They will do sandhyavandana with prayashchitta arghya – and ideally structure Utsavam and thiruvaradhanam without coinciding with Sandhya Kalams – Can be seen in even Srirangam where the Vadakalai Archakas (theoratically) have the practice of not doing aradhanam around sandhyakalam. +++(4)+++
 
-Given the number of lies and obfuscations that we have seen here till now, I have serious doubts about the veracity of this claim. He doesn’t explain why Tenakalais did not pursue legal action post 1835 if indeed it is true that the temple was following their traditions till then. They had fought legal cases everywhere else. So, there is enough reason to doubt this as a spurious claim. Only an affidavit describing this incident exists and lacks official records.
+On the other hand, some Tenkalais claim that this prayaschitta arghya in cases of Utsavas are unnecessary. That is the fundamental difference and is the basic principle of Tenkalai sampradayam. 
 
-In conclusion, it is seen that the so-called research work is full of lies, misdirection and obfuscation of facts. The claim that Vadakalai sampradaya began only after 1700 CE or 1800 CE is without basis. The claim that Ahobila matha was originally Tenkalai which converted into Vadakalai later on is also without any factual evidence supporting such claim. His claims about Tirumalai Ananthanpillai being rajaguru of Mysore royals till 1800CE or being rajaguru of Krishnaraya is baseless as well. The book is nothing but a bunch of vitriol based on forgery aimed at maligning the Vadakalai sampradaya and acharyas in general. This attempt is merely a step towards setting the record straight. The two sampradayas have existed since long and were not known to have existed any ill-will towards the other till about 200-300 years ago. It is better to go back to the old practice of holding to one’s opinion while respecting the other – than whatever is happening at present.  
+Rajagopalan should go through the rahasya grantha kalakshepams properly before making allegations against anyone.
+
 
 ## parakAla maTha
 ### Antiquity
