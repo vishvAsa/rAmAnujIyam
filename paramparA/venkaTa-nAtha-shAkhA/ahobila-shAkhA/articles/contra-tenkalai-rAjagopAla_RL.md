@@ -536,23 +536,22 @@ In Melukote the first Tirthakara of Manavala Mamuni and Pillailokacharya sannidh
 
 There is no reason why the Koil Kelvi Jiyar would have refused to offer donations for Chitra Pournami festival – merely because it happened in a matha belonging to Desika Sampradayam. To this day, in certain days during Govindaraja Utsavas, whenever Govindaraja comes to Ahobila Matha, the kainkaryas to both Govindaraja and AdivanShatakopa is being conducted by the Koil Kelvi Jiyar. As said before, Rajagopalan simply imposes his bigotry on the Acharyas of the past.  
 
-## Inconvenient data
 
-Another favorite method of Rajagopalan is to deride all facts which are inconvenient to his views. Since the inscription referring to Brahmatantra Svatantra Jiyar is inconvenient to his thesis, he calls it a forgery. Perhaps a person who did forgery as demonstrated above while citing inscriptions, sees forgery everywhere?  
+### Hagiographies 
 
-He questions the traditional hagiography about Adi Van satakopa jiyar, about Periya Parakalaswami as well as Kadanthethi Andavan. We will come to the first of the three later. His problems with Periya Parakalaswami is the claim supposedly made by the Parakala maTha that the acharya was honoured by Aurangzeb – which ought to be false according to Rajagopalan as Aurangzeb was a bigot. Political realities are ignored by him. Marathas had made enemies of Mysore kingdom and as such, when Aurangzeb invaded Maratha lands, Mysore did not support Marathas but rather sent envoys to Aurangzeb who responded with several gifts and titles. It is quite possible that he would have sent a gift to the Rajaguru as well – which is mentioned by the Matha.  
+Coming back to his rants on Ahobila maTha, from page 30, he exclusively targets the maTha’s history. The issues in Ahobila Matha’s hagiographies of initial days is due to genuine errors in counting Cyclic years (discussed initially) or Confusing names of rulers with similarly named rulers of a different era. 
 
-About Kadanthethi Andavan, he quotes some articles written in a two-pence magazine called Gopura Dharisanam where even the dates are given wrongly. He sets up this article as his strawman and claims victory by beating it to ground. It is funny that he doesn’t attempt to get information from Andavan Ashramam or its publications but from popular magazines.  
+All these are natural, as after Talikota and subsequent looting of Ahobilam, the Ahobila Yatis moved primarily to reside in Tamil Nadu-Karnataka \[though Ahobilam was recovered and rituals restarted in a few decades then Ahobilam was looted again around the times of 13th Pontiff in early 1600s\] and were unaware of the Kings who ruled Deccan or being aware of Inscriptional evidences alluding to dating of early pontiffs in Temples of Tirumala and Kanchi.  
 
-Rajagopalan also wants to claim that Tallapaka Annamacharya was a sishya of Tirumalai Ananthanpillai family (not Ahobila maTha) and that he was a Tenkalai. We have already put to rest any and all arguments based on namam from that era – but still as a fact, the sculptures in Tirumala of Annamacharya and his vigraha carry Vadakalai Thiruman – and these are the older ones. Now what remains is his claim about the poet author being sishya of Ananthanpillai clan. In reality, the descendants of Tallapaka Annamayya are sishyas of Ahobila maTha today and they have no records about them being sishyas of any other acharya lineage in the past. Rajagopalan has to give concrete evidence before making such blind claims. Just because the poet sung about Ananthazhwan(who is respected by Vadakalais as well – for that matter), he doesn’t become a sishya of Ananthanpillai – rather is a respect to the role Ananthazhwan played in the temple’s kainkaryas. It is to be noted that Annamayya has written a beautiful kriti on Adi Van Satakopa yati as well where he has been hailed as the boat for his disciples to cross Viraja and reach Vaikuntha (see pg.49 of Ahobilam Sri Narasimha Swamy temple by Prof Vasantha, TTD publication, 2001), while Annamayya does not sing on the Ananthanpillai acharyapurusha of Tirumala who lived in 1400s.  
+Hence, some clarification regarding the history of the same is always welcome – as was done in the TTD inscriptions based conclusion initially. 
 
-## 7. Issues with Ahobila Matha hagiographies and it’s misinterpretation by TA Rajagopalan  
+#### pratAparudra
+But the objective of Rajagopalan is not so benign. He makes a big issue of the fact that in some texts, the maTha hagiographers have claimed that Adi Van satakopa svami was contemporary of Prataparudra of Kakatiya dynasty – which is indeed historically incorrect. But this is easily rectified if he had indeed looked at the contemporaries of the Jeeyar – the ruler of Kalinga was one Prataparudra Gajapati. Later hagiographers might have confused this Kalinga Prataparudra with the earlier Kakatiya Prataparudra (who was of greater fame) – leading to this historical inaccuracy.  
 
-Coming back to his rants on Ahobila maTha, from page 30, he exclusively targets the maTha’s history. he issues in Ahobila Matha’s hagiographies of initial days is due to genuine errors in counting Cyclic years (discussed initially) or Confusing names of rulers with similarly named rulers of a different era. All these are natural, as after Talikota and subsequent looting of Ahobilam, the Ahobila Yatis moved primarily to reside in Tamil Nadu-Karnataka \[though Ahobilam was recovered and rituals restarted in a few decades then Ahobilam was looted again around the times of 13th Pontiff in early 1600s\] and were unaware of the Kings who ruled Deccan or being aware of Inscriptional evidences alluding to dating of early pontiffs in Temples of Tirumala and Kanchi.  
-Hence, some clarification regarding the history of the same is always welcome – as was done in the TTD inscriptions based conclusion initially. But the objective of Rajagopalan is not so benign. He makes a big issue of the fact that in some texts, the maTha hagiographers have claimed that Adi Van satakopa svami was contemporary of Prataparudra of Kakatiya dynasty – which is indeed historically incorrect. But this is easily rectified if he had indeed looked at the contemporaries of the Jeeyar – the ruler of Kalinga was one Prataparudra Gajapati. Later hagiographers might have confused this Kalinga Prataparudra with the earlier Kakatiya Prataparudra (who was of greater fame) – leading to this historical inaccuracy.  
-
+#### Partiality
 We do wonder if Rajagopalan would also deride the Tenkalais about the fact that the Periya/Siriya Kelvi Appan Jiyars of Tirumalai were not installed there by Sri Ramanujacharya but that they came into existence sometime in the later half of 13^(th) century as merely custodians of the nandavanams set up in Tirumala-Tirupati. After all, what’s good for the goose is good for the gander.  
 
+#### sannyAsa
 Rajagopalan makes fun of the hagiography that Narasimha gave sanyasa to Sri Adi Van Satakopa Jiyar. He says:  
 
 > *“…Even without taking sanyas he was given the name Satakopa Yathi by
@@ -577,6 +576,8 @@ Rajagopalan makes fun of the hagiography that Narasimha gave sanyasa to Sri Adi 
 > (pg. 54)”*  
 
 These words have shown that Rajagopalan has not done any proper ground work before writing this ‘research book’. Rather he seems to have collated a few things here and there – mixed them with his preconceived notions and bias – giving birth to a substandard work.  
+
+
 Rajagopalan has claimed in this book that Krishnadevaraya was a disciple of Thirumalai Ananthanpillai Govindachariar (pg. 7). So, let us see what the disciple of this Ananthanpillai clansman has written about Adi Van Satakopa Yati. In 6.66 of Amuktamalyada, he seems to consider Manavala Mamuni, Adi Van Satakopa and Vedanta Desika as avataras of Ramanuja. Of these three, he spends about one sentence on Mamuni, 3 lines on Desika and 7-8 lines on Satakopa Jiyar. This Satakopa Jiyar is described as having performed tapasya at Garudachalam (Ahobilam) in his purvashrama where Narasimha appeared before the devotee and gave him sanyasa.  
 The translation of the relevant portion by Srinivas Sistla is as under:  
 
@@ -780,3 +781,29 @@ A 1783 CE sanad of Tipu Sultan orders that the sanad itself shall be preserved i
 > have succumbed and became Vadakalais”.
 > He also quotes references from
 > “Pazhanadai Vilakkam” in support of his argument. 
+
+
+### Inconvenient data
+
+Another favorite method of Rajagopalan is to deride all facts which are inconvenient to his views. Since the inscription referring to Brahmatantra Svatantra Jiyar is inconvenient to his thesis, he calls it a forgery. Perhaps a person who did forgery as demonstrated above while citing inscriptions, sees forgery everywhere?
+
+He questions the traditional hagiography about Adi Van satakopa jiyar, about Periya Parakalaswami as well as Kadanthethi Andavan. We will come to the first of the three later. 
+
+His problems with Periya Parakalaswami is the claim supposedly made by the Parakala maTha that the acharya was honoured by Aurangzeb – which ought to be false according to Rajagopalan as Aurangzeb was a bigot. Political realities are ignored by him. 
+
+Marathas had made enemies of Mysore kingdom and as such, when Aurangzeb invaded Maratha lands, Mysore did not support Marathas but rather sent envoys to Aurangzeb who responded with several gifts and titles. It is quite possible that he would have sent a gift to the Rajaguru as well – which is mentioned by the Matha.
+
+## ANDavan
+About Kadanthethi Andavan, he quotes some articles written in a two-pence magazine called Gopura Dharisanam where even the dates are given wrongly. He sets up this article as his strawman and claims victory by beating it to ground. It is funny that he doesn’t attempt to get information from Andavan Ashramam or its publications but from popular magazines.
+
+## Annamacharya
+Rajagopalan also wants to claim that Tallapaka Annamacharya was a sishya of Tirumalai Ananthanpillai family (not Ahobila maTha) and that he was a Tenkalai. We have already put to rest any and all arguments based on namam from that era – but still as a fact, the sculptures in Tirumala of Annamacharya and his vigraha carry Vadakalai Thiruman – and these are the older ones. 
+
+Now what remains is his claim about the poet author being sishya of Ananthanpillai clan. In reality, the descendants of Tallapaka Annamayya are sishyas of Ahobila maTha today and they have no records about them being sishyas of any other acharya lineage in the past. 
+
+### Ananthanpillai praise
+Rajagopalan has to give concrete evidence before making such blind claims. 
+
+Just because the poet sung about Ananthazhwan(who is respected by Vadakalais as well – for that matter), he doesn’t become a sishya of Ananthanpillai – rather is a respect to the role Ananthazhwan played in the temple’s kainkaryas. 
+
+It is to be noted that Annamayya has written a beautiful kriti on Adi Van Satakopa yati as well where he has been hailed as the boat for his disciples to cross Viraja and reach Vaikuntha (see pg.49 of Ahobilam Sri Narasimha Swamy temple by Prof Vasantha, TTD publication, 2001), while Annamayya does not sing on the Ananthanpillai acharyapurusha of Tirumala who lived in 1400s.  +++(5)+++
