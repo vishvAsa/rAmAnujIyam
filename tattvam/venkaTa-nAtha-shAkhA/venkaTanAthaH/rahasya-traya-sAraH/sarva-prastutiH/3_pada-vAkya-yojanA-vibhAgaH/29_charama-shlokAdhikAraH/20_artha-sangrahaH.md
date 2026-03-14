@@ -37,8 +37,13 @@ Entre las palabras de este śloka (caramaśloka) (secuencialmente) -
 इश् श्लोकत्तिल् पदङ्गळिलडैवे 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-### सर्वधर्मान्
+इऩि इच् चरमश्लोकत्तिल् पदङ्गळिल् शब्दशक्तियालुम् अर्थस्वभावत्तालुम् वरुमर्थङ्गळै क्रममागच् चॊल्लत् तुडङ्गुगिऱार् इश् श्लोकत्तिलित्यादियाल्। 
+</details>
+
+
+### सर्वधर्मान् परित्यज्य
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधिकार-विशेषम्, 
@@ -47,6 +52,25 @@ Entre las palabras de este śloka (caramaśloka) (secuencialmente) -
 <details><summary>नीलमेघः (सं)</summary>
 
 अधिकार-विशेषः, 
+</details>
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> अतो ऽशक्ताधिकारत्वम्  
+आकिञ्चन्य-**पुरस्-क्रिया** ।  
+**अन्-अङ्ग-भावो** धर्माणाम्  
+**अ-शक्यारम्भ-वारणम्** ॥  
+तत् प्रत्य् **आशा-प्रशमनं**  
+ब्रह्मास्त्र-न्याय-**सूचनम्** ।  
+सर्व-धर्म-परित्याग-  
+शब्दार्थास् साधु-**सम्मताः** ॥  
+देवतान्तर-धर्मादि-  
+**त्यागोक्तिर् अ-विरोधिनी** ।  
+उपासके ऽपि तुल्यत्वाद्  
+इह +++(प्रपत्ति-पर-प्रकरणे)+++ सा **न विशेषिका** ॥
+
+इति पूर्व-कृत-सङ्ग्रहः। 
 </details>
 
 
@@ -63,6 +87,11 @@ Entre las palabras de este śloka (caramaśloka) (secuencialmente) -
 <details><summary>मूलम्</summary>
 
 अधिकारविशेषम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदिल् मुन्दुऱ सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कु ‘‘अतोऽशक्ताधिकारत्व’’ मित्यादि श्लोकङ्गळाल् सङ्गृहीतमाऩ क्रमत्तिले अर्थमरुळिच्चॆय्गिऱार् अधिकारविशेषमिति । इदु अनुवादपक्षत्तिल् सॊऩ्ऩ आकिञ्चन्यरूपाधिकारविशेषम्। 
 </details>
 
 
@@ -92,6 +121,12 @@ la condición preliminar de **ser** indigente (de todos los demás upāyas),
 आकिञ्चन्यपुरस्कारम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आकिञ्चन्यपुरस्कारम् - आकिञ्चन्यत्तिऩुडैय पुरस्करणम्, अदावदु आकिञ्चन्यानुसन्धानात्मककार्पण्यरूपाङ्गविधानमॆऩ्ऱबडि। इदु विधिपक्षत्तिल्, दुष्करपरिकरान्तरनैर-पेक्ष्यमिति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुष्-कर-परिकरान्तर-नैरपेक्ष्यम्, 
@@ -119,7 +154,12 @@ que **son** demasiado difíciles de **realizar**,
 दुष्करपरिकरान्तरनैरपेक्ष्यम्, 
 </details>
 
-### परित्यज्य
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘अनङ्गभावो धर्माणा’’ मित्युक्त दुष्करपरिकरान्तरनैरपेक्ष्यमॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ-शक्य-प्रवृत्त्य्-अनौचित्यम्, 
@@ -145,6 +185,12 @@ lo inapropiado de **intentar realizar** acciones que **están** más allá del p
 
 अशक्यप्रवृत्त्यनौचित्यम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अशक्यप्रपत्त्यनौचित्यमिति । अशक्यारम्भवारणमॆऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,6 +219,12 @@ la inutilidad de obstinadamente **intentar hacer** lo que **es** imposible (para
 दुष्कराभिनिवेशवैयर्थ्यम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+दुष्कराभिनिवेशवैयर्थ्यमिति । तत् – प्रत्याशाप्रशमनमॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपाय-विशेषत्तिऩ् +++(पर-)+++सुणैय्+++(=स्पर्शामर्ष)+++-उडैमै, 
@@ -195,6 +247,13 @@ este upāya **ser** tal como **no tolerará** (la **adopción** de cualquier otr
 <details><summary>मूलम्</summary>
 
 उपायविशेषत्तिऩ् सुणैयुडैमै, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपायविशेषत्तिऩ् सुणैयुडमै - उपायान्तरासहिष्णुत्वरूपातिशयमुडैमै, ब्रह्मास्त्रन्यायसूचनमिति यावत् । 
+
+इवै आऱुम् सर्वधर्मपरित्यागशब्दार्थङ्गळ्। 
 </details>
 
 
@@ -220,6 +279,14 @@ este upāya **ser** tal como **no tolerará** (la **adopción** de cualquier otr
 
 मुमुक्षुवुक्कु शरण्यविशेषम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मुमुक्षुवुक्कु ऎऩ्ऱारम्बित्तु हिततमोपदेशित्वम् ऎऩ्ऱु सॊऩ्ऩ मूऩ्ऱुम् सर्वनाममाऩ मां शब्दत्तिऱ्कु अर्थङ्गळ्। 
+
+प्राप्यऩे प्रापकऩाऩमै ऎऩ्ऱारम्बित्तु शरण्यवैशिष्ट्यमॆऩ्गिऱ पर्यन्तमागच् चॊऩ्ऩ ऎट्टुम् एकशब्दार्थङ्गळ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,6 +352,26 @@ el Salvador **siendo** el **maestro** de lo más saludable (hita);
 प्राप्यस्यैव प्रापकत्वं, 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> प्राप्यस्यैव **प्रापकत्वं**,  
+स्व+++(→जीव)+++-प्राधान्य-**निवारणम्** ।  
+प्रपत्तेर् **व्याज**-मात्रत्वम्,  
+अन्योपायैर् अनन्वयः ॥  
+तद्-अङ्गैर् अप्य् असंबन्धस्,  
+सर्व-साध्येष्व् अ-भिन्नता ।  
+इत्थम् अर्थाष् षड् आचार्यैर्  
+एक-शब्दस्य **दर्शिताः** ॥  
+तद्-अङ्गैर् अप्य् असंबन्धस्,  
+सर्व-साध्येष्व् अ-भिन्नता ।  
+इत्थम् अर्थाष् षड् आचार्यैर्  
+एक-शब्दस्य **दर्शिताः** ॥  
+
+
+इति पूर्वोक्ता कारिका।
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -300,6 +387,11 @@ el fin del **logro** (es decir, el Señor) **siendo** Él mismo el medio de **lo
 <details><summary>मूलम्</summary>
 
 प्राप्यऩे प्रापकऩाऩमै, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्राप्यऩे प्रापकऩाऩमै इति । मुऩ्बु सॊऩ्ऩ कारिगैयिल् इदु प्राप्यस्यैव प्रापकत्वमॆऩ्बदिऩर्थम्। 
 </details>
 
 
@@ -332,7 +424,12 @@ sin **ser obstaculizado** (por nadie) y sin la **ayuda** de nadie más;
 निरपेक्षसर्वविषय-निष्प्रत्यूहकर्तृत्वम्, 
 </details>
 
-### शरणं
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+निरपेक्षसर्वविषयनिष्प्रत्यूहकर्तृत्वमिति । इदु स्वप्राधान्यनिवारणत्तिऱ्कु हेतुकथनम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याज-मात्र-प्रतीक्षत्वम्, 
@@ -356,6 +453,11 @@ Su **esperando** un mero pretexto (o vyāja) para **proteger** (a uno);
 <details><summary>मूलम्</summary>
 
 व्याजमात्रप्रतीक्षत्वम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+व्याजमात्रप्रतीक्षत्वमिति । इदु प्रपत्तेर्व्याजमात्रत्वमॆऩ्बदाले फलितम्। 
 </details>
 
 
@@ -384,6 +486,12 @@ His **not requiring** the intervention of any other upāya;
 उपायान्तरव्यवधाननिरपेक्षत्वम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपायान्तरव्यवधाननिरपेक्षत्वमिति । इदु अन्योपायैरनन्वयः ऎऩ्बदाले सिद्धमाऩ अर्थम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिकरान्तर-निरपेक्ष-प्रसाद्यत्वम्, 
@@ -409,6 +517,11 @@ sin ningún otro rito auxiliar;
 <details><summary>मूलम्</summary>
 
 परिकरान्तरनिरपेक्ष-प्रसाद्यत्वम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परिकरान्तर निरपेक्षत्वसाध्यत्वमिति । इदु तदङ्गैरप्यसम्बन्धः ऎऩ्बदाल् फलितम्। 
 </details>
 
 
@@ -438,6 +551,11 @@ Su **ser** el Salvador que **puede conceder** cualquier fruto **que se desee**;
 सर्वफलार्थिशरण्यत्वम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वफलार्थिशरण्यत्वमिति । इदु सर्वसाध्येष्वभिन्नत्वरूपम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -463,6 +581,12 @@ Su **intolerancia** a la **aceptación** de cualquier otro **protector**;
 
 शरण्यान्तरपरिग्रहासहत्वम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शरण्यान्तरपरिग्रहासहत्वम् शरण्यवैशिष्ट्यमॆऩ्गिऱ इरण्डुम् एकशब्दत्तिल् आर्थिकमागक् किडैक्कुमर्थङ्गळ्। 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,7 +614,12 @@ Su **estar** siempre en **compañía** de Śrī (o Lakṣmī);
 शरण्यवैशिष्ट्यम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
+शरण्यवैशिष्ट्यमावदु शरण्यऩुक्कु श्रीवैशिष्ट्यम्। 
+</details>
+
+### शरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायान्तर-स्थान-निवेश्यत्वम्, 
@@ -514,6 +643,11 @@ Su **capacidad** de **ser colocado** en la **posición** de otros upāyas;
 <details><summary>मूलम्</summary>
 
 उपायान्तर-स्थाननिवेश्यत्वम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपायान्तरस्थाननिवेश्यत्वम् भरस्वीकर्तत्वमिरण्डुम् शरणशब्दार्थङ्गळ्। 
 </details>
 
 
@@ -543,6 +677,8 @@ Su **disposición** a **aceptar** la **responsabilidad** o carga (de **proteger*
 भरस्वीकर्तृत्वम्, 
 </details>
 
+
+
 ### व्रज
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -568,6 +704,11 @@ Su **disposición** a **aceptar** la **responsabilidad** o carga (de **proteger*
 <details><summary>मूलम्</summary>
 
 भरन्यासरूपसाध्योपायविशेषम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भरन्यासरूपसाध्योपायविशेषमॆऩ्ऱारम्बित्तु प्रारब्धनिवर्तनक्षमत्वमॆऩ्गिऱ पर्यन्तम् व्रजधातुविल् शाब्दमागवुम् आर्थमागवुम् किडैक्कुमर्थङ्गळ्। 
 </details>
 
 
@@ -597,6 +738,7 @@ sus auxiliares;
 
 अदिऩ् परिकरङ्गळ्, 
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -638,11 +780,6 @@ está **estando** dentro de la **competencia** de cada uno;
 its **requiring** to be **performed** only once; 
 </details>
 
-<details><summary>Español</summary>
-
-its **requiring** to be **performed** only once; 
-</details>
-
 <details><summary>मूलम्</summary>
 
 सकृत्कर्तव्यत्वम्, 
@@ -659,11 +796,20 @@ its **requiring** to be **performed** only once;
 सुकरत्वम्, 
 </details>
 
+<details><summary>English</summary>
+
+its **being** easy of **performance**;
+</details>
+
+<details><summary>Español</summary>
+
+su **ser** fácil de **realizar**;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुकरत्वम्, 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -673,6 +819,16 @@ its **requiring** to be **performed** only once;
 <details><summary>नीलमेघः (सं)</summary>
 
 अ-विलम्बित-फल-प्रदत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+its capacity to **bear** fruit without delay;
+</details>
+
+<details><summary>Español</summary>
+
+su capacidad para **dar** fruto sin demora;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -690,11 +846,22 @@ its **requiring** to be **performed** only once;
 प्रारब्ध-निवर्तन-क्षमत्वम्, 
 </details>
 
+<details><summary>English</summary>
+
+its **being** potent enough to **annul** prarabdhakarma ;
+</details>
+
+<details><summary>Español</summary>
+
+su **ser** suficientemente potente para **anular** el prarabdhakarma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रारब्धनिवर्तनक्षमत्वम्, 
 </details>
 
+#### मध्यम-पुरुषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधिकारियिऩ्-उडैय पराधीन-कर्तृत्वम्, 
@@ -705,11 +872,27 @@ its **requiring** to be **performed** only once;
 अधिकारिणः पराधीनकर्तृत्वं, 
 </details>
 
+<details><summary>English</summary>
+
+(4) the man who **performs** prapatti being a doer or agent **subject** to the Supreme Self;
+</details>
+
+<details><summary>Español</summary>
+
+(4) el hombre que **realiza** prapatti siendo un **hacedor** o agente **sujeto** al Ser Supremo;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 अधिकारियिऩुडैय पराधीनकर्तृत्वम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अधिकारियिऩुडैय पराधीनकर्तृत्वम् शास्त्रवश्यत्वम् इव्विरण्डुम् मध्यमऩिऩर्थङ्गळ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -721,11 +904,22 @@ its **requiring** to be **performed** only once;
 शास्त्र-वश्यत्वम्, 
 </details>
 
+<details><summary>English</summary>
+
+his **being subject** to the authority of the śastras;
+</details>
+
+<details><summary>Español</summary>
+
+su **estar sujeto** a la autoridad de los śastras;
+</details>
+
 <details><summary>मूलम्</summary>
 
 शास्त्रवश्यत्वम्, 
 </details>
 
+### अहम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षकऩ्-उडैय परम-कारुणिकत्वम्, 
@@ -736,11 +930,27 @@ its **requiring** to be **performed** only once;
 रक्षकस्य परम-कारुणिकत्वं, 
 </details>
 
+<details><summary>English</summary>
+
+(5) The Saviour's supreme compassion;
+</details>
+
+<details><summary>Español</summary>
+
+(5) La compasión suprema del Salvador;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 रक्षकऩुडैय परमकारुणिकत्वम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+रक्षकऩुडैय परमकारुणिकत्वम् मुदलाऩ आऱु अर्थङ्गळ् अहं शब्दत्तिल् विवक्षितङ्गळ्। अदिल् परमकारुणिकत्वत्ताले सुप्रसन्नत्वमुम् अवसरप्रतीक्षत्वमुम् निरङ्कुशस्वातन्त्र्यत्ताले दुर्निवारत्वमुम् परानपेक्षत्वमुम्, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -750,6 +960,16 @@ its **requiring** to be **performed** only once;
 <details><summary>नीलमेघः (सं)</summary>
 
 सु-प्रसन्नत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** ever gracious;
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** siempre misericordioso;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -767,6 +987,16 @@ its **requiring** to be **performed** only once;
 निरङ्कुश-स्वातन्त्र्यम्, 
 </details>
 
+<details><summary>English</summary>
+
+His independence and freedom from **subservience** to any one else ;
+</details>
+
+<details><summary>Español</summary>
+
+Su independencia y libertad de **sumisión** a cualquier otra persona;
+</details>
+
 <details><summary>मूलम्</summary>
 
 निरङ्कुशस्वातन्त्र्यम्, 
@@ -782,6 +1012,16 @@ its **requiring** to be **performed** only once;
 दुर्निवारत्वम्, 
 </details>
 
+<details><summary>English</summary>
+
+His **being** irresistible;
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** irresistible;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुर्निवारत्वम्, 
@@ -797,6 +1037,16 @@ its **requiring** to be **performed** only once;
 परानपेक्षत्वम्, 
 </details>
 
+<details><summary>English</summary>
+
+His **not requiring** any other aid;
+</details>
+
+<details><summary>Español</summary>
+
+Su **no requerir** ninguna otra ayuda;
+</details>
+
 <details><summary>मूलम्</summary>
 
 परानपेक्षत्वम्, 
@@ -812,11 +1062,22 @@ its **requiring** to be **performed** only once;
 अवसर-प्रतीक्षत्वम्, 
 </details>
 
+<details><summary>English</summary>
+
+His **waiting** for a pretext (to **protect** the jīva);
+</details>
+
+<details><summary>Español</summary>
+
+Su **espera** de un pretexto (para **proteger** al jīva);
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवसरप्रतीक्षत्वम्, 
 </details>
 
+### त्वा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरणागतऩुडैय कृत-कृत्यत्वम्, 
@@ -827,12 +1088,28 @@ its **requiring** to be **performed** only once;
 शरणागतस्य कृतकृत्यत्वं, 
 </details>
 
+<details><summary>English</summary>
+
+(6) the prapanna **being** one who **has done** what he **ought to do**;
+</details>
+
+<details><summary>Español</summary>
+
+(6) el prapanna **siendo** aquel que **ha hecho** lo que **debía hacer**;
+</details>
+
 
 
 <details><summary>मूलम्</summary>
 
 शरणागतऩुडैय कृतकृत्यत्वम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शरणागतऩुडैय कृतकृत्यत्वम् मुदलाऩ मूऩ्ऱु अर्थङ्गळ् त्वा पदत्तिल् विवक्षितङ्गळ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -847,7 +1124,16 @@ its **requiring** to be **performed** only once;
 कर्तव्यान्तरे प्राप्तिराहित्यं, 
 </details>
 
+<details><summary>English</summary>
 
+the **absence**, on his part, of any need to do anything else (than prapatti) in regard to the upāya **adopted** by him or the fruit **expected** from it;
+</details>
+
+<details><summary>Español</summary>
+
+la **ausencia**, por su parte, de cualquier necesidad de **hacer** otra cosa (que **no sea** el prapatti)  
+con respecto al upāya **adoptado** por él o al fruto **esperado** de él;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -864,11 +1150,23 @@ its **requiring** to be **performed** only once;
 भगवद्-अत्यर्थ-प्रियत्वम्, 
 </details>
 
+<details><summary>English</summary>
+
+his **being** extremely dear to Bhagavān;
+</details>
+
+<details><summary>Español</summary>
+
+su **ser** extremadamente querido por Bhagavān;
+</details>
+
 <details><summary>मूलम्</summary>
 
 भगवदत्यर्थप्रियत्वम्, 
 </details>
 
+### सर्व-पापेभ्यः
+#### पापानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रैकालिक-विरोधि-भूयस्त्वम्, 
@@ -877,6 +1175,16 @@ its **requiring** to be **performed** only once;
 <details><summary>नीलमेघः (सं)</summary>
 
 त्रैकालिक-विरोधि-भूयस्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+(7) the many obstacles ( to mukti) past, present and future;
+</details>
+
+<details><summary>Español</summary>
+
+(7) los muchos obstáculos (para el mukti) pasados, presentes y futuros;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -884,6 +1192,13 @@ its **requiring** to be **performed** only once;
 त्रैकालिकविरोधिभूयस्त्वम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+त्रैकालिकविरोधि ऎऩ्बदु पापशब्दप्रकृत्यर्थम्। भूयस्त्वमिति बहुवचनार्थम्। 
+</details>
+
+#### सर्व
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरोधि-वर्ग-वैचित्र्यम्, 
@@ -894,11 +1209,28 @@ its **requiring** to be **performed** only once;
 विरोधि-वर्ग-वैचित्र्यम्, 
 </details>
 
+<details><summary>English</summary>
+
+and the varied nature of the different groups of obstacles,
+</details>
+
+<details><summary>Español</summary>
+
+y la naturaleza variada de los diferentes grupos de obstáculos,
+</details>
+
 <details><summary>मूलम्</summary>
 
 विरोधिवर्गवैचित्र्यम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विरोधिवर्गवैचित्र्यमिति सर्वशब्दार्थम्। 
+</details>
+
+### मोक्षयिष्यामि
+#### अनिष्ट-निवृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवऱ्ऱिऩुडैय ईश्वर-सङ्कल्प-मात्र-निवर्त्यत्वम्, 
@@ -909,11 +1241,27 @@ its **requiring** to be **performed** only once;
 तेषाम् ईश्वर-सङ्कल्प-मात्र-निवर्त्यत्वं, 
 </details>
 
+<details><summary>English</summary>
+
+their **being** capable of **annulment** by the mere will of Iśvara,
+</details>
+
+<details><summary>Español</summary>
+
+su **ser** capaces de **anulación** por la mera voluntad de Iśvara,
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 अवऱ्ऱिऩुडैय ईश्वरसङ्कल्पमात्रनिवर्त्यत्वम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अवऱ्ऱिऩुडैय ईश्वरसङ्कल्पमात्रनिवर्त्यत्वमॆऩ्ऱारम्बित्तु अपुनरावृत्ति ऎऩ्गिऱ पर्यन्तम् मोक्षयिष्यामि ऎऩ्बदिऩर्थङ्गळ्, अदिल् मुदल् मूऩ्ऱु अनिष्टनिवृत्तिरूपङ्गळ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -923,6 +1271,16 @@ its **requiring** to be **performed** only once;
 <details><summary>नीलमेघः (सं)</summary>
 
 प्रपन्नेच्छा-नियतो विरोधि-निवृत्ति-कालः, 
+</details>
+
+<details><summary>English</summary>
+
+the time of this **annulment** **being** dependent on the will of the prapanna;
+</details>
+
+<details><summary>Español</summary>
+
+el momento de esta **anulación** **siendo** dependiente de la voluntad del prapanna;
 </details>
 
 
@@ -941,11 +1299,22 @@ its **requiring** to be **performed** only once;
 विरोधि-निवृत्ति--स्व-रूपं, 
 </details>
 
+<details><summary>English</summary>
+
+the nature of the **annulment** of these obstacles;
+</details>
+
+<details><summary>Español</summary>
+
+la naturaleza de la **anulación** de estos obstáculos;
+</details>
+
 <details><summary>मूलम्</summary>
 
 विरोधिनिवृत्तिस्वरूपं, 
 </details>
 
+#### इष्ट-प्राप्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म-कैवल्य-व्यावृत्त-- यथाऽवस्थित-स्व-रूपाविर्भावं, 
@@ -956,10 +1325,26 @@ its **requiring** to be **performed** only once;
 आत्म-कैवल्य-व्यावृत्त-- यथाऽवस्थित-स्व-रूपाविर्भावं, 
 </details>
 
+<details><summary>English</summary>
+
+(8) the **manifestation** of one's real and essential nature (svarūpa), which **is different** from the mere **enjoyment** of one's dis-embodied self;
+</details>
+
+<details><summary>Español</summary>
+
+(8) la **manifestación** de la naturaleza real y esencial de uno (svarūpa), que **es diferente** del mero **disfrute** del yo incorpóreo;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आत्मकैवल्यव्यावृत्तयथावस्थितस्वरूपाविर्भावं, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आत्मकैवल्यव्यावृत्तयथावस्थितस्वरूपाविर्भावम् मुदलाऩ नालुम् इष्टप्राप्तिरूपम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -969,6 +1354,16 @@ its **requiring** to be **performed** only once;
 <details><summary>नीलमेघः (सं)</summary>
 
 परिपूर्ण-भगवद्-अनुभवः, 
+</details>
+
+<details><summary>English</summary>
+
+the full and perfect **enjoyment** of Bhagavān ;
+</details>
+
+<details><summary>Español</summary>
+
+el pleno y perfecto **disfrute** de Bhagavān;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -986,6 +1381,16 @@ its **requiring** to be **performed** only once;
 सर्व-विध-कैङ्कर्यम्, 
 </details>
 
+<details><summary>English</summary>
+
+**service** of all kinds;
+</details>
+
+<details><summary>Español</summary>
+
+**servicio** de todo tipo;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वविधकैङ्कर्यम्, 
@@ -1001,10 +1406,22 @@ its **requiring** to be **performed** only once;
 अ-पुनर्-आवृत्ति, 
 </details>
 
+<details><summary>English</summary>
+
+**freedom** from **coming back** (to saṁsāra);
+</details>
+
+<details><summary>Español</summary>
+
+**libertad** de **regresar** (al saṁsāra);
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपुनरावृत्ति, 
 </details>
+
+### मा शुचः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1016,11 +1433,27 @@ its **requiring** to be **performed** only once;
 प्राक्तनं शोक-हेतु-प्राचुर्यम्, 
 </details>
 
+<details><summary>English</summary>
+
+(9) the manifold causes of grief or despair before (the **performance** of prapatti),
+</details>
+
+<details><summary>Español</summary>
+
+(9) las múltiples causas de dolor o desesperación antes (de la **realización** del prapatti),
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 मुऩ्बु शोकहेतुप्राचुर्यम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मुऩ्बु शोकहेतुप्राचुर्यमॆऩ्ऱारम्बित्तु निरपराधकैङ्कर्यरसिकत्वमळवाऩ ऎट्टुम् मा शुचः ऎऩ्गिऱ वाक्यत्तिल् विवक्षितमाऩ अर्थङ्गळ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1030,6 +1463,16 @@ its **requiring** to be **performed** only once;
 <details><summary>नीलमेघः (सं)</summary>
 
 पश्चात् शोक-प्राप्ति-राहित्यम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **freedom** from such grief or despair after (its **performance**);
+</details>
+
+<details><summary>Español</summary>
+
+la **libertad** de tal pena o desesperación después (de su **realización**);
 </details>
 
 
@@ -1048,6 +1491,16 @@ its **requiring** to be **performed** only once;
 सर्वस्मिन्न् अपि विमर्श-काले निःसंशयत्वं, 
 </details>
 
+<details><summary>English</summary>
+
+**freedom** from all uncertainty, at all times of reflection;
+</details>
+
+<details><summary>Español</summary>
+
+**libertad** de toda incertidumbre, en todo momento de reflexión;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1064,6 +1517,16 @@ its **requiring** to be **performed** only once;
 शोक-निवृत्तिः, 
 </details>
 
+<details><summary>English</summary>
+
+**freedom** from grief,
+</details>
+
+<details><summary>Español</summary>
+
+**liberación** de la pena,
+</details>
+
 <details><summary>मूलम्</summary>
 
 शोकनिवृत्ति, 
@@ -1077,6 +1540,16 @@ its **requiring** to be **performed** only once;
 <details><summary>नीलमेघः (सं)</summary>
 
 निर्भयत्वम्
+</details>
+
+<details><summary>English</summary>
+
+**freedom** from fear,
+</details>
+
+<details><summary>Español</summary>
+
+**liberación** del miedo,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1095,6 +1568,16 @@ its **requiring** to be **performed** only once;
 हर्ष-विशेषः, 
 </details>
 
+<details><summary>English</summary>
+
+a peculiar **delight**,
+</details>
+
+<details><summary>Español</summary>
+
+un **deleite** peculiar,
+</details>
+
 <details><summary>मूलम्</summary>
 
 हर्षविशेषम्, 
@@ -1108,6 +1591,16 @@ its **requiring** to be **performed** only once;
 <details><summary>नीलमेघः (सं)</summary>
 
 शरीर-पात-काल-प्रतीक्षत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+**biding** the time when the body **will perish**
+</details>
+
+<details><summary>Español</summary>
+
+**esperando** el momento en que el cuerpo **perecerá**
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1125,10 +1618,21 @@ its **requiring** to be **performed** only once;
 निरपराध-कैङ्कर्य-रसिकत्वम्, 
 </details>
 
+<details><summary>English</summary>
+
+and the delight in the **performance** of **service** free from offence;
+</details>
+
+<details><summary>Español</summary>
+
+y el deleite en la **realización** del **servicio** libre de ofensa;
+</details>
+
 <details><summary>मूलम्</summary>
 
 निरपराधकैङ्कर्यरसिकत्वम्, 
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1159,45 +1663,10 @@ or **suggested** implicitly by their meaning.
 ऎऩ्ऱिवै प्रधानमाय् मऱ्ऱुमिवऱ्ऱुक्कपेक्षितङ्गळॆल्लाम् शब्दशक्तियालुमर्थस्वभावत्तालुमनुशिष्टङ्गळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-
-
-its **being** easy of **performance**;  
-its capacity to **bear** fruit without delay;  
-its **being** potent enough to **annul** prarabdhakarma ;  
-
-(4) the man who **performs** prapatti being a doer or agent  
-**subject** to the Supreme Self;  
-his **being subject** to the authority of the śastras;  
-(5) The Saviour's supreme compassion;  
-His **being** ever gracious;  
-His independence and freedom from **subservience** to any one else ;  
-His **being** irresistible;  
-His **not requiring** any other aid;  
-His **waiting** for a pretext (to **protect** the jīva);  
-(6) the prapanna **being** one who **has done** what he **ought to do**;  
-the **absence**, on his part, of any need to do anything else (than prapatti) in regard to the upāya **adopted** by him  
-or the fruit **expected** from it;  
-his **being** extremely dear to Bhagavān;  
-(7) the many obstacles ( to mukti) past, present and future;  
-and the varied nature of the different groups of obstacles,  
-their **being** capable of **annulment** by the mere will of Iśvara,  
-the time of this **annulment** **being** dependent on the will of the prapanna;  
-the nature of the **annulment** of these obstacles;  
-(8) the **manifestation** of one's real and essential nature (svarūpa),  
-which **is different** from the mere **enjoyment** of one's dis-embodied self;  
-the full and perfect **enjoyment** of Bhagavān ;  
-**service** of all kinds;  
-**freedom** from **coming back** (to saṁsāra);  
-(9) the manifold causes of grief or despair before (the **performance** of prapatti),  
-the **freedom** from such grief or despair after (its **performance**);  
-**freedom** from all uncertainty, at all times of reflection;  
-**freedom** from grief,  
-**freedom** from fear,  
-a peculiar **delight**,  
-**biding** the time when the body **will perish**  
-and the delight in the **performance** of **service** free from offence;  
-
+आग प्रधानङ्गळाऩ ऐम्बत्तुमूऩ्ऱु अर्थङ्गळुम् अदऱ्कपेक्षितङ्गळाऩ अर्थङ्गळुम् शब्दशक्तियिऩालेयुम् अर्थस्वभावत्तालेयुम् अनुक्रमेण शासितङ्गळॆऩ्ऱबडि। 
+</details>
 
 
 
