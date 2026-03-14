@@ -3,9 +3,7 @@ title = "३० आचार्यकृत्याधिकारः"
 
 +++
 
-30. THE CHAPTER ON THE DUTIES OF
-
-AN ĀCĀRYA. page625
+30\. THE CHAPTER ON THE DUTIES OF AN ĀCĀRYA. page625
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 

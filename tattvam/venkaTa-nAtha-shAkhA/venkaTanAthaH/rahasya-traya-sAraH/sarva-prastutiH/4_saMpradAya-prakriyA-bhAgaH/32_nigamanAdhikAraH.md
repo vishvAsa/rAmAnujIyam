@@ -281,7 +281,4 @@ Here ends the fourth part called " The path of Spiritual Tradition."
 श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारस्समाप्तः ॥
 
-20082022
-
----
 
