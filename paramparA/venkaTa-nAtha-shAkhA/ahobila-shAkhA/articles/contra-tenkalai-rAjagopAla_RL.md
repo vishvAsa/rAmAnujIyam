@@ -896,7 +896,13 @@ start pitying him. In pg 70, he says –
 > *“It can be seen from the picture that this Van-Satakopa Jeeyar is
 > wearing his cloth upto his ankle in the same pattern as that of
 > Thenkalai Yathis, where as Vadakalai Jeeyars will wear the lower
-> garment only upto knee.” \[Add thirumoghur\]*
+> garment only upto knee.” *
+
+<details><summary>विस्तारः - सुन्दरमालोलः</summary>
+
+There is a Thenkalai Yati sculpture having their lower vastra till knees in Thirumoghur near Madurai. To get pic.
+</details>
+
 
 This ‘evidence’ found by him is the archa-vigraha of Adi Van Satakopa Jeeyar from Melkote – where the saffron vastra adorning him is tied by the arcaka in such a way that it covers up to the ankles. Practical matters in tying a piece of cloth to a small vigraha is not even considered by the author. For him, anything and everything is an evidence for Tenkalai antecedents. Attached are four vigrahas of Adivan Shatakopasvami from different kshetras and the maTha’s aradhana vigraha. Can see that smaller Vigrahas have clothes till ankle due to practical constraints or the same vigraha draped some days in a larger vastra due to unavailability of smaller ones and Larger vigrahas depict till Knees as it is supposed to be usually.  
 
