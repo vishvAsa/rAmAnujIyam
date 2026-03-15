@@ -160,7 +160,7 @@ His claims about Tirumalai Ananthanpillai being rajaguru of Mysore royals till 1
 
 The Queen mother of Mysore Maharaja was confined to prison along with Diwan and their relatives and other faithful officers by Hyder Ali and Tippu Sultan in the year 1783 A.D. But Diwan Thirumalai Anantham Pillai Thirumalachariar could not be caught by Tippu as he was taking shelter at Tanjore. It is due to the effort of this Thirumalarya the Hindu Dynasty was re-established in Mysore with Lakshmi Ammani as Queen. Reference to Parakala Jeeyar and his Mutt could be traced only after her adopted son took over the kingdom.
 
-### Ahovila
+### Ahobila
 The next mutt about which I tried to collect particulars was that of Ahobila Mutt. It is a well known fact that first few Jeeyars and the mutt itself belonged to Thenkalai sect. I took interest in doing research about that mutt also. The T.T.D. inscriptions speak about Van-Satakopa Mutt only from the period 1493 AD. It is inferred that the mutt belonged Thenkalai sect atleast upto year 1800 AD and hold of the mutt by Vadakalai sect could have come into picture only after that period. +++(basis??)+++
 
 ### tAtAcharya ascent
