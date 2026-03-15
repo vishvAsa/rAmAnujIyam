@@ -2,9 +2,9 @@
 title = "Temple control"
 +++
 
-Source: mAlola
+Source: sundara-mAlola
 
-Eechambadis have rights in Thiruvaheendrapuram, Nachiyarkoil and Joint rights with Ahobila Matha in Thiruvallur. They got this rights as a representative of tatacharyas - thus historically was TT rights.
+Eechambadis have rights in Thiruvaheendrapuram, Nachiyarkoil and Had joint rights with Ahobila Matha in Thiruvallur. They got this rights as a representative of tatacharyas - thus historically was TT rights.
 
 Other than these four Divyadeshas are under Ahobila Matha nirvaha (Ahobilam Thiruvallur Adhanoor and Pullaboothankudi). Even in Srirangam temple the miniscule vadakalai rights and subshrines are either with Ahobila Matha or the Tatacharyas
 

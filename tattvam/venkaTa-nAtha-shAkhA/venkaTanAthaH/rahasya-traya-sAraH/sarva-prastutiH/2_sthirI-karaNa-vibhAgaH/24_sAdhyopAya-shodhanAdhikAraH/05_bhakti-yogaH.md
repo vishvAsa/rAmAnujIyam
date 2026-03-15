@@ -3317,6 +3317,17 @@ De la misma manera que las **abluciones** por **inmersión** completa en el agua
 इत्य्-उक्तम् ।
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> यत् तु कैश्चिद् उक्तं  
+प्रपत्तौ विश्वास-हीनानां भक्ताव् अधिकार इति,  
+तन् न -  
+प्रपत्ति-शास्त्रोपदेष्टृणां व्यासादीनां भक्त्य्-अधिकारिणां प्रपत्त्य्-अ-विश्वासाभावात् 
+
+इति कुमार-वरदः। 
+</details>
+
+
 <details><summary>English</summary>
 
 It is in regard to such men as do not understand their being incompetent ( for bhakti or upāsana )  

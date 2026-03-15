@@ -4,7 +4,7 @@ full_title = "Vaṇśaṭhakōpadayā"
 upstream_url = "https://vansatakopadaya.wordpress.com/2026/03/14/a-critical-analysis-of-the-book-the-origin-and-growth-of-ahobila-maTha-a-study-based-on-inscriptions/"
 date = "2026-03-14"
 +++
-Source: [here](https://vansatakopadaya.wordpress.com/2026/03/14/a-critical-analysis-of-the-book-the-origin-and-growth-of-ahobila-maTha-a-study-based-on-inscriptions/).
+Source: [here](https://vansatakopadaya.wordpress.com/2026/03/14/a-critical-analysis-of-the-book-the-origin-and-growth-of-ahobila-mutt-a-study-based-on-inscriptions/).
 
 Vaṇśaṭhakōpadayā
 
