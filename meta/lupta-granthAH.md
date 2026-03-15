@@ -115,3 +115,34 @@ But since Kashakrtsnas daivi mimamsa supposedly has sa vishnur aha hi and tam br
 >
 > Uttaradhi matha chronicles record that temple officials were tortured for money and valuables. It was not a good time for SVs back then. Persons named ramanuja, ramachandra etc were specifically targeted as per uttaradhi matha chronicle of satyaabhinava tirthas time. UM guys say that this ramanuja and ramachandra were the  tatacharyas of that time.  
 </details>
+
+## अप्रकाशिताः
+List of works of Kumara Varadacharya (सुन्दरमालोलतः):
+
+1. Kakuleshastava
+2. Haripa and Kokila sandesha
+3. Lakshmishataka (probably of Chinnammal IMO)
+4. Shanka Shataka
+5. Sukasandesha
+6. Desika Dinacharya
+7. Desika Mangalam
+8. Desika Prarthanashtakam
+9. Desika Vigrahadyanam
+10. Desika Prapatti
+11. Tyagashabdartha nirnaya
+12. Virodhibhanjani
+13. Pillaiyantati
+14. Adhikarana Cintamani
+15. Vada Granthas
+16. Chidacid Ishvaratattva nirupana, tattvatraya nirupana
+17. Tattvamuktakalapakanti
+18. Nyasatilaka Vyakhya
+19. Nyasavimshati Vyakhya
+20. Mimamsapaduka Paritrana
+21. Rahasyatrayasara Sangraha
+22. Rahasyatrayasarartha Sangraha
+23. Khandana Chatushtaya
+24. Muktivichara
+25. Abhayapradanasara in Sanskrit
+26. Aharaniyamashloka
+27. Prabandhasara in sanskrit
