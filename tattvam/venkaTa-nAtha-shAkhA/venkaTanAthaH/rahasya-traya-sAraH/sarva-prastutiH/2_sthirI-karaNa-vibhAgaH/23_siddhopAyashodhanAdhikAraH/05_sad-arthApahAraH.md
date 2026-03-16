@@ -83,6 +83,15 @@ Aquellos que **no hayan entendido** el dharma por el ejercicio adecuado de la ra
 मेलुम् इप्पडि समीचीन-तर्कङ्गळोडु शास्त्रार्थानुसन्धानम् पण्णादवर्गळ् विपरीतरावर्गळॆऩ्गिऱार् इव्वर्थङ्गळै समीचीनतर्कङ्गळाले तॆळियादवर्गळित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**सत्-तर्क--कु-तर्कगळ निरूपणवु.**
+
+""
+""
+""
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
