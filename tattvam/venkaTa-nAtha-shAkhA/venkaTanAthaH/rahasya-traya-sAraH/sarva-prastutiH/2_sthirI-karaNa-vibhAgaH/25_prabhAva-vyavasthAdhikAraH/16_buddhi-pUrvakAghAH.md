@@ -1421,9 +1421,6 @@ El **rendimiento** de un Prapatti adicional **es necesario**.
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-
-<details><summary>४२तमाहोबिल-यतिः</summary>
-
 स्वाधिकारानुगुणमाग ऎदऱ्कु हानम्। ऎदऱ्कुपादानमॆऩ्ऩिल् अरुळिच्चॆय्गिऱार्  
 प्रतिसन्धानत इति ।  
 पूर्वप्रपत्तिप्रति सन्धानत्तालॆऩ्ऱबडि।  
