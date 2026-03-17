@@ -39,11 +39,6 @@ Perumal idols with such are very late.
 "यच्छीलस्स्वामी"ति न्यायेन भागवतैरपि तथैवानुष्ठेयमिति चेन् न
 
 
-#### Textual reference
-> गन्ध-पुष्प-प्रदान--अलङ्कार--ऊर्ध्व-पुण्ड्र--अञ्जन-आदर्श-धूप-दीप-आचमन-ध्वज-छत्र-चामर-वाहन-शङ्ख-चिह्न-काहल-भेर्यादि-सकल-नृत्त-गीत-वाद्यादिभिः अभ्यर्च्य,
-
-इति रामानुज-नित्य-ग्रन्थे ॥
-
 #### Old depictions
 The diamond urdhvapundra used on devaraja of kanchi during one utsavam was apparently donated by achyutaraya as per inscription, iirc. So, the usage of such urdhvapundra on bhagavan Himself is definitely more than 5 centuries old -  No doubt. We see such usages in hampi as well. But not in the chola and pandya murtis.
 
@@ -58,8 +53,48 @@ And interestingly there seems to have been another variant of the Urdhvapundra f
 
 i.e. the little shvetapundra crescent below (the diamondish mark for Kurma is usually made of javvadu or kasturi)
 
+#### Textual reference
+> गन्ध-पुष्प-प्रदान--अलङ्कार--ऊर्ध्व-पुण्ड्र--अञ्जन-आदर्श-धूप-दीप-आचमन-ध्वज-छत्र-चामर-वाहन-शङ्ख-चिह्न-काहल-भेर्यादि-सकल-नृत्त-गीत-वाद्यादिभिः अभ्यर्च्य,
+
+इति रामानुज-नित्य-ग्रन्थे ॥
+
+## शास्त्रोक्तिः
+
+> भ्रुवोर् अधस्ताद् आरभ्य  
+रेखाद्वयसमन्वितम् ।  
+केशान्तं विन्यसेत् पुण्ड्रम्  
+ऊर्ध्वं नित्यं द्विजोत्तमः ॥
+
+इति वासिष्ठ-संहिता-वचनम् उदाहृतम् [आह्निकार्थ-प्रकाशिकायाम्](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/gopAla-deshikaH/Ahnikam_AhnikArtha-prakAshikA/02_abhigamanam/14_puNDradhAraNam)।
+
+सद्-अनुष्ठान-दर्पणोदाहृतं 
+
+> पारमेश्वर-संहितायां –
+>
+> > नासादौ द्व्य्-अङ्गुलं पादं मध्ये तु द्व्य्-अङ्गुलं भवेत् ।  
+पार्श्वम् अङ्गुलि-मात्रं तु सु-स्फुटं धारयेद् द्वि-जः ॥
+
+नोक्त-ग्रन्थे लभ्यते। 
+
+> अभिषिक्तं हरेः पूर्वं  
+रजनीचूर्णमुत्तमम्।  
+पुण्ड्राणां मध्यमे स्थाने  
+ऋजुदीर्घं च धारयेत्।। 16.133 ।।
+
+> ऊर्ध्वपुण्ड्रम् ऋजुं रम्यं  
+> विष्णोः पादद्वयाकृतिम्।  
+(79) सान्तरालं सुपार्श्वं च  
+> द्व्यङ्गुलं त्र्यङ्गुलं तु वा।
+
+इति च प्रश्न-संहितायाम्। 
+
+Sri prashna indeed talks about two feet. But where does it mention about where it should start in the nose? It is silent on that.
 
 ## sampradAya-difference
-सच्-चरित्र-रक्षायां वेदान्त-देशिकेन दक्षिण-कलार्येषु प्रसिद्धं शूलष्पुण्ड्रम् नोल्लिखितम् इति बहवः।
+सच्-चरित्र-रक्षायां वेदान्त-देशिकेन  
+दक्षिण-कलार्येषु प्रसिद्धं शूलष्पुण्ड्रम् नोल्लिखितम् 
+
+इति बहवः।
 
 I would go to the extent of saying that both types were in use and did not even determine which sampradaya you belonged to - till late 1600s perhaps. That one type became an identification for a particular sampradaya and another for the other sampradaya - is a later innovation. There is no evidence for a pundra difference based on sampradaya in the 1400s/1500s.
+

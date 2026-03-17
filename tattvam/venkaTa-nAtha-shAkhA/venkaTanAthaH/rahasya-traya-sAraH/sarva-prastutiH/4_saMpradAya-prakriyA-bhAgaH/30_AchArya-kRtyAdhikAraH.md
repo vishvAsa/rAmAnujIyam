@@ -315,30 +315,136 @@ y **lo imparte** a aquellos que **son** dignos
 </details>
 
 
-<details><summary>मूलम्</summary>
-
-‘‘इदन्ते नातपस्काय नाभक्ताय कदाचन । न चाशुश्रूषवे वाच्यं न च मां योभ्यसूयति ॥ 
-</details>
-
-
+<details><summary>English</summary>
 
 > " This (the Bhagavad Gitā) **is not to be taught**  
 to those who **have not performed** tapas.  
 It **should never be taught** to the man who has no devotion or bhakti  
 and who **does not show** eagerness to **learn** it.  
 It **should never be imparted** to the man who **hates** me.  
-He **who teaches** this greatest of secrets to my devotees  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Este (el Bhagavad Gitā) **no debe enseñarse**  
+a los que **no han realizado** tapas.  
+**Nunca se le debe enseñar** al hombre que **no tiene devoción** ni bhakti  
+y que **no muestra** ganas de **aprenderlo**.  
+**Nunca debería ser impartido** al hombre que **me odia**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘इदन्ते नातपस्काय नाभक्ताय कदाचन । न चाशुश्रूषवे वाच्यं न च मां योभ्यसूयति ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> य इमं परमं गुह्यं  
+मद्-भक्तेष्व् **अभिधास्यति** ।  
+**भक्तिं** मयि परां **कृत्वा**  
+माम् **एवैष्यत्य्** असंशयम्॥’’  
+(गीता १८-६७, ६८),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> य इमं परमं गुह्यं  
+मद्-भक्तेष्व् **अभिधास्यति** ।  
+**भक्तिं** मयि परां **कृत्वा**  
+माम् **एवैष्यत्य्** असंशयम्॥’’  
+(गीता १८-६७, ६८),
+</details>
+
+<details><summary>English</summary>
+
+> He **who teaches** this greatest of secrets to my devotees  
 **will show** parābhakti or deep **devotion** to me  
 and **will attain** me.  
 There **is no** doubt of this."  
 
-"This great śāstra **should not be taught** to men  
-who **are not** constantly repeating the Vedas.  
+</details>
+
+<details><summary>Español</summary>
+
+> El **que enseña** este mayor de los secretos a mis devotos  
+**me mostrará** parābhakti o profunda **devoción**  
+y **me alcanzará**.  
+**No hay** ninguna duda de esto."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति । भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयम्’’ (गीता १८-६७, ६८),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**नावेद-निष्ठस्य** जनस्य राजन्  
+**प्रदेयम्** एतत् परमं त्वया भवेत् ।  
+**विवित्समानस्य** विबोध-कारकं  
+प्रबोध-हेतोः प्रणतस्य शासनम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘**नावेद-निष्ठस्य** जनस्य राजन्  
+**प्रदेयम्** एतत् परमं त्वया भवेत् ।  
+**विवित्समानस्य** विबोध-कारकं  
+प्रबोध-हेतोः प्रणतस्य शासनम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> "This great śāstra **should not be taught** to men  
+who **are not** constantly **repeating** the Vedas.  
 This śāstra **will impart** wisdom to the man  
 who **is eager** to **learn** it  
 and **bows** devoutly to the guru  
 for **attaining** wisdom.  
-This **should not be imparted** to the man  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Este gran śāstra **no debe enseñarse** a los hombres  
+que **no están repitiendo** constantemente los Vedas.  
+Este śāstra **impartirá** sabiduría al hombre  
+que **está ansioso** por **aprenderlo**  
+y **se inclina** devotamente ante el gurú  
+para **alcanzar** sabiduría. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नावेदनिष्ठस्य जनस्य राजन् प्रदेयमेतत्परमं त्वया भवेत् । विवित्समानस्य विबोधकारकं प्रबोधहेतोः प्रणतस्य शासनम् ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **न देयम्** एतच् च तथा ऽनृतात्मने  
+शठाय क्लीबाय न जिह्म-बुद्धये ।  
+**न** +++(अहं-)+++पण्डित-ज्ञाय परोपतापिने,  
+**देयं** त्वयेदं **विनिबोध** यादृशे ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **न देयम्** एतच् च तथा ऽनृतात्मने  
+शठाय क्लीबाय न जिह्म-बुद्धये ।  
+**न** +++(अहं-)+++पण्डित-ज्ञाय परोपतापिने,  
+**देयं** त्वयेदं **विनिबोध** यादृशे ॥
+</details>
+
+<details><summary>English</summary>
+
+> This **should not be imparted** to the man  
 who **is** ever in the habit of **telling** lies;  
 (it **should not be imparted**) to deceitful men, to eunuchs, to men that are mentally perverse,  
 to those who **are** so **conceited** as to think that they **are learned**  
@@ -346,16 +452,98 @@ when they **are not** truly so,
 and to those who **cause affliction** to others.  
 **I will tell** you of the man  
 who **deserves** to be **taught** (this śāstra). **Listen**.  
-It **should be taught** to the man who **has** faith,  
+</details>
+
+<details><summary>Español</summary>
+
+> Esto **no debe ser impartido** al hombre  
+que **tiene** alguna vez la costumbre de **decir** mentiras;  
+(**no debe impartirse**) a hombres engañadores, a eunucos, a hombres mentalmente perversos,  
+a aquellos que **son** tan **engreídos** como para **pensar** que **son instruidos**  
+cuando **no son** realmente así,  
+y a los que **causan aflicción** a los demás.  
+**Te contaré** sobre el hombre.  
+quien **merece ser enseñado** (este śāstra). **Escuchar**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न देयमेतच्च तथानृतात्मने शठाय क्लीबायन जिह्मबुद्धये । न पण्डितज्ञाय परोपतापिने देयं त्वयेदं विनिबोध यादृशे ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> श्रद्धान्वितायाथ गुणान्विताय  
+परापवादाद् **विरताय** नित्यम् ।  
+विशुद्ध-योगाय, बुधाय चैव  
+क्रियावते ऽथ, +++(करण-कष्टेषु)+++ क्षमिणे, हिताय ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> श्रद्धान्वितायाथ गुणान्विताय  
+परापवादाद् **विरताय** नित्यम् ।  
+विशुद्ध-योगाय, बुधाय चैव  
+क्रियावते ऽथ, +++(करण-कष्टेषु)+++ क्षमिणे, हिताय </details>
+
+<details><summary>English</summary>
+
+> It **should be taught** to the man who **has** faith,  
 who **is** virtuous,  
 who **never indulges** in vilifying others,  
 who **can understand** sound reasoning  
 and who **is capable** of **grasping** what is taught.  
-
-(It **should be taught**) to the man who **performs** the rites and duties (ordained for him)  
+>
+> (It **should be taught**) to the man who **performs** the rites and duties (ordained for him)  
 and who **endures** the inconveniences and discomforts  
 **arising** from their **performance**,  
 to the man who **is intent** on **doing** what **is** good to the world  
+</details>
+
+<details><summary>Español</summary>
+
+> **Se debe enseñar** al hombre que **tiene** fe,  
+quien **es** virtuoso,  
+que **nunca se permite vilipendiar** a los demás,  
+¿Quién **puede entender** un razonamiento sólido?  
+y quién **es capaz** de **captar** lo que **se enseña**.  
+>
+> (**debe enseñarse**) al hombre que **realiza** los ritos y deberes (ordenados para él)  
+y quien **aguanta** los inconvenientes y malestares  
+**derivando** de su **desempeño**,  
+al hombre que **tiene la intención** de **hacer** lo que **es** bueno para el mundo
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रद्धान्वितायाथ गुणान्विताय परापवादाद्विरताय नित्यम् । विशुद्धयोगाय बुधाय चैव क्रियावतेऽथ क्षमिणे हिताय ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विविक्त-शीलाय विधि-**प्रियाय**  
+**विवाद-भीताय** बहु-श्रुताय ।  
+**विजानते** चैव तथा ऽऽहित-क्षमा-  
+दमाय नित्यात्म-समाय देहिनाम् ॥ +++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> विविक्त-शीलाय विधि-**प्रियाय**  
+**विवाद-भीताय** बहु-श्रुताय ।  
+**विजानते** चैव तथा ऽऽहित-क्षमा-  
+दमाय नित्यात्म-समाय देहिनाम् ॥ +++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विविक्तशीलाय विधिप्रियाय विवादभीताय बहुश्रुताय । विजानते चैव तथा हितक्षमादमाय नित्यात्मसमाय देहिनाम् ॥ 
+</details>
+
+
 and who **desires** to live in solitude.  
 (It **should be taught**) to the man who **delights** in the injunctions of the śāstras,  
 who **dreads** vain **argumentation**  
