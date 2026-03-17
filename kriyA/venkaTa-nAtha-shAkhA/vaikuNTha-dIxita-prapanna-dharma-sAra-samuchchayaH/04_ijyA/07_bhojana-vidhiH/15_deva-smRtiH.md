@@ -47,8 +47,7 @@ title = "१५ देव-स्मृतिः"
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH">
 
-## ३२-३६ प्राणे निविष्टः …{Loading}…
-
+<details open><summary><h2>३२-३६ प्राणे निविष्टः …{Loading}…</h2></summary>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/01_amRtopastaraNam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,7 +184,8 @@ title = "१५ देव-स्मृतिः"
 - स॒मा॒ने निवि॑श्या॒मृतँ॑ हु॒तँ, स॑मा॒नम् अन्ने॑नाप्यायस्व ।
 - ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (51)
 </details>
-</div> 
+</div>
+</details>
 
 </div>
 

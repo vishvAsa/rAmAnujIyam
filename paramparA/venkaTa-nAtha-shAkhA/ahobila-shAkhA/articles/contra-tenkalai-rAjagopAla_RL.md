@@ -520,7 +520,7 @@ Vēdānti==Nañjīyar (Kali 4214)
 |
 Kalipramāthi==NampiỊỊai (Kali 4308)
 |
-Śrī Kṛishṇapāda==Vaḍakku-TiruvīdhippiỊỊai (author of 36000 paḍi,) (Kali 4328)
+Śrī Kṛishṇapāda==Vaḍakku-TiruvīdippiỊỊai (author of 36000 paḍi,) (Kali 4328)
 |
 Śrīraṅgēśvara==Kiḍāmbi Śrīraṅgāchārya (Kali 4360)
 |
@@ -1007,7 +1007,7 @@ His problems with Periya Parakalaswami is the claim supposedly made by the Parak
 Marathas had made enemies of Mysore kingdom and as such, when Aurangzeb invaded Maratha lands, Mysore did not support Marathas but rather sent envoys to Aurangzeb who responded with several gifts and titles. It is quite possible that he would have sent a gift to the Rajaguru as well – which is mentioned by the Matha.
 
 ## Annamacharya
-Rajagopalan also wants to claim that Tallapaka Annamacharya was a sishya of Tirumalai Ananthanpillai family (not Ahobila maTha) and that he was a Tenkalai. We have already put to rest any and all arguments based on namam from that era – but still as a fact, the sculptures in Tirumala of Annamacharya and his vigraha carry Vadakalai Thiruman – and these are the older ones. 
+Rajagopalan also wants to claim that Tallapaka Annamacharya was a sishya of Tirumalai Ananthanpillai family (not Ahobila maTha) and that he was a Tenkalai. We have already put to rest any and all arguments based on namam from that era – but still as a fact, the sculptures in Tirumala of Annamacharya and his vigraha carry Vadakalai Thiruman – and these are the older ones. Tallapaka image is VK tiruman only. Source: [TW](https://www.instagram.com/reel/DV8AggSjGqq/)
 
 Now what remains is his claim about the poet author being sishya of Ananthanpillai clan. In reality, the descendants of Tallapaka Annamayya are sishyas of Ahobila maTha today and they have no records about them being sishyas of any other acharya lineage in the past. 
 
