@@ -6636,7 +6636,7 @@ Estos **no pueden incluirse** entre ninguno de los otros upāyas para mokṣa.
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-उपायान्तरत्तिऱ् पुगादु इति । मोक्षोबायमाग विहिदमल्लामैयाल् ऎऩ्ऱबडि। 
+उपायान्तरत्तिऱ् पुगादु इति । मोक्षोपायमाग विहिदमल्लामैयाल् ऎऩ्ऱबडि। 
 </details>
 
 

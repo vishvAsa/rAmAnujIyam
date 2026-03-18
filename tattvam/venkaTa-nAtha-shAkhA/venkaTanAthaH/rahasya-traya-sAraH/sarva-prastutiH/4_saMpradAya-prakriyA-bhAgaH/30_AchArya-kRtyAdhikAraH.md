@@ -732,14 +732,49 @@ De ninguna manera, ni siquiera en momentos de gran adversidad,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> मूर्खाश् च पण्डितम्-मन्या  
+अधर्मा धार्मिका इव ।  
+धर्म-युक्तान् **प्रबाधन्ते**  
+साधूनां लिङ्गम् **आस्थिताः** ॥ 
+</details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
-"Ignorant men who **consider** themselves learned  
+> मूर्खाश् च पण्डितम्-मन्या  
+अधर्मा धार्मिका इव ।  
+धर्म-युक्तान् **प्रबाधन्ते**  
+साधूनां लिङ्गम् **आस्थिताः** ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> "Ignorant men who **consider** themselves learned  
 and hypocrites who **pretend** to **observe** dharma  
 while they **are** really doing adharma -  
 these men under the disguise of the virtuous  
 **harass** (good) men who **practise** dharma.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Hombres ignorantes que se **consideran** eruditos  
+e hipócritas que **pretenden** **observar** el dharma  
+mientras ellos **están** realmente haciendo adharma -  
+estos hombres bajo el disfraz de los virtuosos  
+**acosar** a (buenos) hombres que **practican** el dharma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मूर्खाश्च पण्डितम्मन्या अधर्मा धार्मिका इव । धर्मयुक्तान् प्रबाधन्ते साधूनां लिङ्गमास्थिताः ॥ 
+</details>
+
+
+
 He who **has** skill in **performing** well such actions  
 as **would lead** to mokṣa  
 but who, elsewhere, **follows** the ways of the world --  
