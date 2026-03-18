@@ -774,21 +774,294 @@ estos hombres bajo el disfraz de los virtuosos
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-He who **has** skill in **performing** well such actions  
+> एकतस् त्वव् अपवर्गार्थम्  
+अनुष्ठानादि-कौशलम् ।  
+लोकानुसारस् त्व् एकत्र  
+गुरुः पश्चाद् +++(अनग्र-गण्यः)+++ **उदीरितः** ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एकतस् त्वव् अपवर्गार्थम्  
+अनुष्ठानादि-कौशलम् ।  
+लोकानुसारस् त्व् एकत्र  
+गुरुः पश्चाद् +++(अनग्र-गण्यः)+++ **उदीरितः** ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> He who **has** skill in **performing** well such actions  
 as **would lead** to mokṣa  
 but who, elsewhere, **follows** the ways of the world --  
 he **is looked down** upon as a guru of a low type.  
-Many **are** the men who **are** foolish;  
+
+</details>
+
+<details><summary>Español</summary>
+
+> El que **tiene** habilidad para **realizar** bien tales acciones  
+como **conduciría** a mokṣa  
+pero quién, en otros lugares, **sigue** los caminos del mundo...  
+él **es menospreciado** como un gurú de tipo inferior.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकतस्त्वपवर्गार्थमनुष्ठानादिकौशलम् । लोकानुसारस्त्वेकत्र गुरुः पश्चादुदीरितः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भवन्ति बहवो मूर्खाः  
+क्वचिद् एका विशुद्ध-धीः ।  
+**त्रासितो** ऽपि सदा मूर्खैर्  
+**अ-चलो** यस् स बुद्धिमान् ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> भवन्ति बहवो मूर्खाः  
+क्वचिद् एका विशुद्ध-धीः ।  
+**त्रासितो** ऽपि सदा मूर्खैर्  
+**अ-चलो** यस् स बुद्धिमान् ॥
+</details>
+
+<details><summary>English</summary>
+
+> Many **are** the men who **are** foolish;  
 the man with a clear intelligence **may** occasionally be found somewhere  
 and only one among many.  
 He **is** a man with all virtuous mind  
 who **will** never allow his intelligence to be clouded by men  
 that **are** silly.  
-Trust **should never be placed** in any man;  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Muchos **son** los hombres que **son** necios;  
+el hombre con una inteligencia clara **puede** ocasionalmente **encontrarse** en algún lugar  
+y sólo uno entre muchos.  
+Él **es** un hombre con toda mente virtuosa.  
+quien **nunca permitirá** que su inteligencia **sea nublada** por los hombres  
+que **son** tontos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भवन्ति बहवो मूर्खाः क्वचिदेका विशुद्धधीः । त्रासितोऽपि सदा मूर्खैरचलो यस्स बुद्धिमान् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **न विश्वासः** क्वचित् कार्यो  
+विशेषात् तु कलौ युगे ।  
+पापिष्ठा वाद-वर्षेण  
+मोहयन्त्य् अ-विचक्षणान् ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **न विश्वासः** क्वचित् कार्यो  
+विशेषात् तु कलौ युगे ।  
+पापिष्ठा वाद-वर्षेण  
+मोहयन्त्य् अ-विचक्षणान् ॥
+</details>
+
+<details><summary>English</summary>
+
+> Trust **should never be placed** in any man;  
 this **is** a matter for careful consideration,  
 especially, in Kali yuga.  
-Great sinners confound the intellects of the weak-minded with perverse reasons spouted forth like a downpour of rain. One should guard dharma from the unfit and perform dharma. Never teach any. thing to one who does not beg for it. Even when asked, secret meanings or the mysteries of religion and the true doctrine should not be revealed (lightly). To him who has sought one, with true devotion, who has constant faith in the śāstras, who is pure and is prepared to learn in accordance with the rules -- to him one should teach everything. The man who teaches the śāstras to the unworthy for winning the respect of others, for wealth, for being honoured by others and for getting rid of the suffering (caused by poverty ) - that man strays from the right path. (You) may sow the seed in a desert, give (your) daughter in marriage to a eunuch and give a garland of flowers to a monkey; but (you) should never impart (instruction) in the śāstra to one who is unworthy". "This great mantra should not be taught to an atheist, to one who is insincere, or who is not devout, to one who delights in harassing others and to a miser. This mantra is not fit to be taught to such as these. It should be taught by the ācārya to the man who is sincere, to one who has devotion to his guru, to the man who has devotion to Viṣṇu and who is intent on doing good to all beings. These two things should be borne well in mind." "Thus have I uttered words which are like a garland to the Lord and words that would delight His servants, for the sake of the enjoyment of the Lord which is sweet as ambrosia". "Here have I taught deep truths in the form of verses each of which begins with the last word of the previous verse (antādi). Considering their great value, receive them without casting them among the unworthy". As stated in such treatises as the above, viz., Sātvata, Bhagavad Gitā, the discourse between Vasiṣṭa and Karala, Śāṇḍilya Smṛti and Satyaki tantra, the ancient ācāryas would teach only to those who had such qualities as goodness and faith and who would therefore be approved of by the Saviour. (They would teach these truths) only to those who were of the nature of the gods (Devas) as described in the following ślokas :- "These are the qualities, O, Bharata, which enrich man with a nature similar to that of the gods :- fearlessness, a mind free from the taint of rajas and tamas, meditation on the essential nature of the self, charitableness, subjugation of the senses, the performance of yajnas or sacrifice, the study of ones Veda, austerities like fasting, being the same in thought, word and deed, refraining from doing evil to others, speaking that truth which will be wholesome to other beings, freedom from anger, giving up what is productive of evil to oneself, control of the mind, refraining from tale-bearing, compassion to all creatures, freedom from desires, accessibility to the good, shamefulness at the thought of doing what is wicked, serenity of mind even when the objects of sense pleasure are very near, never yielding to the vicious, forbearance even when injured by others, mental courage in continuing to do one's duties even in times of great adversity, the purity (of body and mind) that is necessary for the performance of such rites as are enjoined in the śāstra, freedom from treachery and freedom from.conceit." So also, it has been said; "Creation  is of two kinds -- the god-like and āsuric. The god like are, by nature, always full of devotion to Viṣṇu. The āsuric are the very opposite of this." Those men with a nature like that of the gods would be tested by (our)ācāryas for ascertaining their real character as stated in the following ślokas: "The disciple" shonld be tested in varions ways for a period of one year, or half of it, or (at least) three months and he should be tanght with compassion and withont any thought of gain and the like", and "If a man has come by chance from a distant land with a mind full of the love of the Lord, he should be taught what he desires withont any prolonged tests". (Having ascertained his fitness), the ācārya would reveal (spiritual truths) in such a manner that six ears could not hear them (i.e. that it could be heard only by the śiṣya's two ears and the guru's two ears and no other) and only to a disciple who had no desires and was content with what he had in regard to other things and who was keenly desirous only of learning the śastras.ācāryas of olden days would guard these secrets from asuric natures which are different and which have, as their possessions, such attributes as the following:-- Performing  dharma for the sake of praise, delight in the enjoyment of sense-pleasures which make one indifferent to the knowledge of what is good and what is evil, irrational arrogance, anger, harshness of speech and folly". They would keep the śastra hidden like a wealthy man who would (guard) a cherished treasure and see to its proper use:
+Great **sinners confound** the intellects of the weak-minded  
+with perverse reasons **spouted** forth like a **downpour** of rain. 
+</details>
+
+<details><summary>Español</summary>
+
+> La confianza **nunca debe depositarse** en ningún hombre;  
+Este **es** un asunto que **hay** que **considerar** cuidadosamente,  
+especialmente, en Kali yuga.  
+Los grandes **pecadores confunden** el intelecto de los débiles de mente  
+con razones perversas **escupidas** como un **aguacero** de lluvia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न विश्वासः क्वचित्कार्यो विशेषात्तु कलौ युगे । पापिष्ठा वादवर्षेण मोहयन्त्यविचक्षणान् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **गोपयन्न् आचरेद्** धर्मं  
+नापृष्टः किञ्चिद् **उच्चरेत्** ।  
+**पृष्टो** ऽपि **न वदेद्** अर्थं  
+गुह्यं सिद्धान्तम् एव च ॥ +++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **गोपयन्न् आचरेद्** धर्मं  
+नापृष्टः किञ्चिद् **उच्चरेत्** ।  
+**पृष्टो** ऽपि **न वदेद्** अर्थं  
+गुह्यं सिद्धान्तम् एव च ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> One **should guard** dharma from the unfit  
+and **perform** dharma.  
+**Never teach** anything to one  
+who **does not beg** for it.  
+Even when **asked**,  
+secret meanings or the mysteries of religion and the true doctrine **should not be revealed** (lightly).  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Uno **debe proteger** el dharma de los no aptos  
+y **realizar** el dharma.  
+**Nunca le enseñes** nada a uno  
+que **no ruega** por ello.  
+Incluso cuando **se le preguntó**,  
+Los significados secretos o los misterios de la religión y la verdadera doctrina **no deben ser revelados** (a la ligera).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गोपयन्नाचरेद्धर्मन्नापृष्टः किञ्चिदुच्चरेत् । पृष्टोपि न वदेदर्थं गुह्यं सिद्धान्तमेव च ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आश्रितायातिभक्ताय  
+शास्त्र-श्रद्धा-पराय च ।  
+न्यायेन **पृच्छते** सर्वं  
+**वक्तव्यं** शौच-योगिने ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> आश्रितायातिभक्ताय  
+शास्त्र-श्रद्धा-पराय च ।  
+न्यायेन **पृच्छते** सर्वं  
+**वक्तव्यं** शौच-योगिने ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> To him who **has sought** one, with true devotion,  
+who **has** constant faith in the śāstras,  
+who **is** pure  
+and **is prepared** to **learn** in accordance with the rules --  
+to him one **should teach** everything.  
+</details>
+
+<details><summary>Español</summary>
+
+> Al que **ha buscado** uno, con verdadera devoción,  
+quien **tiene** fe constante en los śāstras,  
+quien **es** puro  
+y **está preparado** para **aprender** de acuerdo con las reglas.  
+a él uno **debe enseñar** todo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आश्रितायातिभक्ताय शास्त्रश्रद्धापराय च । न्यायेन पृच्छते सर्वं वक्तव्यं शौचयोगिने ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आत्मपूजार्थम् अर्थार्थं  
+डम्भार्थम् अपि खिन्न-धीः ।  
+अ-योग्येषु **वदञ्** छास्त्रं  
+सन्-मार्गात् **प्रच्युतो** भवेत् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> आत्मपूजार्थम् अर्थार्थं  
+डम्भार्थम् अपि खिन्न-धीः ।  
+अ-योग्येषु **वदञ्** छास्त्रं  
+सन्-मार्गात् **प्रच्युतो** भवेत् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> The man **who teaches** the śāstras to the unworthy  
+for **winning** the **respect** of others, for wealth, for **being honoured** by others and for **getting rid** of the **suffering** (caused by poverty ) -  
+that man **strays** from the right path.  
+</details>
+
+<details><summary>Español</summary>
+
+> El hombre **que enseña** los śāstras a los indignos  
+por **ganarse** el **respeto** de los demás, por la riqueza, por **ser honrado** por los demás y por **deshacerse** del **sufrimiento** (**causado** por la pobreza) -  
+ese hombre **se desvía** del camino correcto.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मपूजार्थमर्थार्थं डंभार्थमपि खिन्नधीः । अयोग्येषु वदञ्छास्त्रं सन्मार्गात् प्रच्युतो भवेत् ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऊषरे **निवपेद्** बीजं  
+षण्डे कन्यां **प्रयोजयेत्** ।  
+**सृजेद्** वा वानरे मालां  
+नापात्रे शास्त्रम् **उत्सृजेत्**॥’’  
+(शाण्डिल्य-स्मृतिः ४-२५१ मुदल् २५८ वरै)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ऊषरे **निवपेद्** बीजं  
+षण्डे कन्यां **प्रयोजयेत्** ।  
+**सृजेद्** वा वानरे मालां  
+नापात्रे शास्त्रम् **उत्सृजेत्**॥’’  
+(शाण्डिल्य-स्मृतिः ४-२५१)
+</details>
+
+
+<details><summary>English</summary>
+
+> (You) **may sow** the seed in a desert,  
+**give** (your) daughter in **marriage** to a eunuch  
+and **give** a garland of flowers to a monkey;  
+but (you) **should never impart** (instruction) in the śāstra  
+to one who **is** unworthy". 
+</details>
+
+<details><summary>Español</summary>
+
+> (Tú) **puedes sembrar** la semilla en un desierto,  
+**entrega** (su) hija en **matrimonio** a un eunuco  
+y **regalar** una guirnalda de flores a un mono;  
+pero (tú) **nunca debes impartir** (instrucción) en el śāstra  
+a aquel que **es** indigno".
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऊषरे निवपेद्बीजं षण्डे कन्यां प्रयोजयेत् । सृजेद्वा वानरे मालां नापात्रे शास्त्रमुत्सृजेत्’’ (शाण्डिल्य-स्मृतिः ४-२५१ मुदल् २५८ वरै)
+</details>
+
+
+
+
+"This great mantra should not be taught to an atheist, to one who is insincere, or who is not devout, to one who delights in harassing others and to a miser. This mantra is not fit to be taught to such as these. It should be taught by the ācārya to the man who is sincere, to one who has devotion to his guru, to the man who has devotion to Viṣṇu and who is intent on doing good to all beings. These two things should be borne well in mind." "Thus have I uttered words which are like a garland to the Lord and words that would delight His servants, for the sake of the enjoyment of the Lord which is sweet as ambrosia". "Here have I taught deep truths in the form of verses each of which begins with the last word of the previous verse (antādi). Considering their great value, receive them without casting them among the unworthy". As stated in such treatises as the above, viz., Sātvata, Bhagavad Gitā, the discourse between Vasiṣṭa and Karala, Śāṇḍilya Smṛti and Satyaki tantra, the ancient ācāryas would teach only to those who had such qualities as goodness and faith and who would therefore be approved of by the Saviour. (They would teach these truths) only to those who were of the nature of the gods (Devas) as described in the following ślokas :- "These are the qualities, O, Bharata, which enrich man with a nature similar to that of the gods :- fearlessness, a mind free from the taint of rajas and tamas, meditation on the essential nature of the self, charitableness, subjugation of the senses, the performance of yajnas or sacrifice, the study of ones Veda, austerities like fasting, being the same in thought, word and deed, refraining from doing evil to others, speaking that truth which will be wholesome to other beings, freedom from anger, giving up what is productive of evil to oneself, control of the mind, refraining from tale-bearing, compassion to all creatures, freedom from desires, accessibility to the good, shamefulness at the thought of doing what is wicked, serenity of mind even when the objects of sense pleasure are very near, never yielding to the vicious, forbearance even when injured by others, mental courage in continuing to do one's duties even in times of great adversity, the purity (of body and mind) that is necessary for the performance of such rites as are enjoined in the śāstra, freedom from treachery and freedom from.conceit." So also, it has been said; "Creation  is of two kinds -- the god-like and āsuric. The god like are, by nature, always full of devotion to Viṣṇu. The āsuric are the very opposite of this." Those men with a nature like that of the gods would be tested by (our)ācāryas for ascertaining their real character as stated in the following ślokas: "The disciple" shonld be tested in varions ways for a period of one year, or half of it, or (at least) three months and he should be tanght with compassion and withont any thought of gain and the like", and "If a man has come by chance from a distant land with a mind full of the love of the Lord, he should be taught what he desires withont any prolonged tests". (Having ascertained his fitness), the ācārya would reveal (spiritual truths) in such a manner that six ears could not hear them (i.e. that it could be heard only by the śiṣya's two ears and the guru's two ears and no other) and only to a disciple who had no desires and was content with what he had in regard to other things and who was keenly desirous only of learning the śastras.ācāryas of olden days would guard these secrets from asuric natures which are different and which have, as their possessions, such attributes as the following:-- Performing  dharma for the sake of praise, delight in the enjoyment of sense-pleasures which make one indifferent to the knowledge of what is good and what is evil, irrational arrogance, anger, harshness of speech and folly". They would keep the śastra hidden like a wealthy man who would (guard) a cherished treasure and see to its proper use:
 
 THE NATURE OF THE TEACHING : page630
 
