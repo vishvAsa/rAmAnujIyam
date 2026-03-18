@@ -442,8 +442,9 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“ श्रीः--  
-सकृदेव हि शास्त्रार्थः  
+श्रीः--  
+
+> सकृदेव हि शास्त्रार्थः  
 **कृतोऽयं तारयेन्** नरम् । (ल.तं. 17.92  
 उपायापाय-संयोगे  
 निष्ठया **हीयते** ऽनया ॥
@@ -463,7 +464,7 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपाय-सम्प्लवे सद्यः  
+> अपाय-सम्प्लवे सद्यः  
 **प्रायश्-चित्तं समाचरेत्** ।  
 प्रायश्-चित्तिर् इयं साऽत्र  
 यत् **पुनश् शरणं व्रजेत्** ॥  
@@ -487,7 +488,7 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"प्रायश्-चित्त-प्रसङ्गे तु  
+> "प्रायश्-चित्त-प्रसङ्गे तु  
 सर्व-पाप-समुद्भवे ।  
 माम् एकां देव-देवस्य  
 महिषीं शरणं व्रजेत्"। (ल. तं 17-102)  
@@ -540,8 +541,6 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 शक्तौ प्रतिपदोक्तं स्यात् अशक्तौ शरणागतिः ।  
 "अनन्यसाध्ये स्वाभीष्टे” इति न्यासस्य लक्षणात् ।  
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
