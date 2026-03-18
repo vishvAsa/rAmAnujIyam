@@ -517,7 +517,7 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 
 <details><summary>English</summary>
 
-25. Therefore whatever may be the sin of a Prapanna brought on either by negligence or by intention-all these, this Saranagati (refuge-seeking) aloue removes at once. 
+25. Therefore whatever may be the sin of a Prapanna brought on either by negligence or by intention-all these, this Saranagati (refuge-seeking) above removes at once. 
 </details>
 
 
@@ -545,7 +545,7 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… अन्यथा ऽतिप्रसङ्गः स्यात्  
+… अन्यथा ऽतिप्रसङ्गः स्याद्  
 अ-वैष्णव-गृहाशने ।  
 शरणागत-हन्तुः स्यात्  
 प्रपत्त्यैव परिग्रहः ॥
@@ -587,7 +587,7 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 
 <details><summary>English</summary>
 
-27. From the pride that one is a l'rapanna one shall not commit excess of sins. 
+27. From the pride that one is a Prapanna one shall not commit excess of sins. 
 The fool, even while being conscious of performing detrimental karmas, falls down. 
 </details>
 
@@ -609,7 +609,7 @@ The fool, even while being conscious of performing detrimental karmas, falls dow
 
 <details><summary>English</summary>
 
-28. The wise do not at all commit (such deeds) 1f through ignorance or mistake, they do any, getting a lucid state of mind they burn them all with the fire of knowledge. 
+28. The wise do not at all commit (such deeds) if through ignorance or mistake, they do any, getting a lucid state of mind they burn them all with the fire of knowledge. 
 </details>
 
 
