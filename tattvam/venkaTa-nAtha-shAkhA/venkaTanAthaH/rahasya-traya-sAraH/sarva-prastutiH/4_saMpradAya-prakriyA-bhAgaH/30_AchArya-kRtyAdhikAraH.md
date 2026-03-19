@@ -105,9 +105,12 @@ A QUIÉN DEBE EL ĀCĀRYA **IMPARTIR CONOCIMIENTO** ESPIRITUAL:-- página 625
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इत्थम्, 
+
 > ‘‘गुरुर् गरीयान्’’  
 (गीता ११-४३) 
 
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -152,6 +155,7 @@ por lo tanto, Tú **eres** el más grande de aquellos que **merece** ser **ser a
 आचार्यं पितरं गुरुम्’’  
 (भारतम् सभा-पर्व ४१-२१) 
 
+इति चोक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -193,6 +197,13 @@ Como **se dice** en estos ślokas,
 सदाचार्य-संप्रदाय-समागतङ्गळ् आय्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+परमाचार्यात् सर्वेश्वराद् आरभ्य  
+सदाचार्य-संप्रदाय-समागतान् 
+</details>
+
+
 <details><summary>English</summary>
 
 the Lord of all **is** the Supreme ācārya.  
@@ -221,6 +232,15 @@ la tradición espiritual de los nobles acaryas.
 ताङ्गळुम् अनुसन्धित्तु
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सिंही-स्तन्यवत् विजातीयाविज्ञात-रसान् रहस्य-त्रयार्थान्  
+संग्रहेण समुचित्य  
+स्वयम् अनुसन्धाय,
+</details>
+
+
+
 <details><summary>English</summary>
 
 The (true) acarya **collects** together the meanings of the three great secrets (mantras)  
@@ -245,7 +265,7 @@ y luego **medita** sobre ellos.
 </details>
 
 
-## शिष्य-परीक्षा
+## शिष्य-चिति-बोधनादि
 
 <details><summary>English</summary>
 
@@ -258,7 +278,8 @@ y luego **medita** sobre ellos.
 él **debe enseñar** estas verdades como **descritas** en los **siguientes** ślokas :)
 </details>
 
-
+### गुणाः
+#### शास्त्रेषु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ३ ‘‘यो **गोपायत्य्** अयोग्यानां  
@@ -1059,15 +1080,722 @@ a aquel que **es** indigno".
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न नास्तिकायानृजवे  
+नाभक्ताय कदाचन ।  
+नैव हिंसाऽभिरुचये  
+न लुब्धाय विशेषतः ॥  
+दातव्यो मन्त्रराजोऽयम्  
+मन्त्रोऽयं हि न तादृशः । 
+</details>
+
+<details><summary>English</summary>
+
+> "This great mantra **should not be taught** to an atheist, to one who is insincere, or who is not devout,  
+to one who delights in harassing others and to a miser.  
+This mantra **is not fit** to **be taught** to such as these. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Este gran mantra **no debe enseñarse** a un ateo, a alguien que **no es** sincero, o que **no es** devoto,  
+al que **se deleita** en **acosar** a los demás y al avaro.  
+Este mantra **no es apto** para **ser enseñado** a personas como éstas.
+</details>
 
 
-"This great mantra should not be taught to an atheist, to one who is insincere, or who is not devout, to one who delights in harassing others and to a miser. This mantra is not fit to be taught to such as these. It should be taught by the ācārya to the man who is sincere, to one who has devotion to his guru, to the man who has devotion to Viṣṇu and who is intent on doing good to all beings. These two things should be borne well in mind." "Thus have I uttered words which are like a garland to the Lord and words that would delight His servants, for the sake of the enjoyment of the Lord which is sweet as ambrosia". "Here have I taught deep truths in the form of verses each of which begins with the last word of the previous verse (antādi). Considering their great value, receive them without casting them among the unworthy". As stated in such treatises as the above, viz., Sātvata, Bhagavad Gitā, the discourse between Vasiṣṭa and Karala, Śāṇḍilya Smṛti and Satyaki tantra, the ancient ācāryas would teach only to those who had such qualities as goodness and faith and who would therefore be approved of by the Saviour. (They would teach these truths) only to those who were of the nature of the gods (Devas) as described in the following ślokas :- "These are the qualities, O, Bharata, which enrich man with a nature similar to that of the gods :- fearlessness, a mind free from the taint of rajas and tamas, meditation on the essential nature of the self, charitableness, subjugation of the senses, the performance of yajnas or sacrifice, the study of ones Veda, austerities like fasting, being the same in thought, word and deed, refraining from doing evil to others, speaking that truth which will be wholesome to other beings, freedom from anger, giving up what is productive of evil to oneself, control of the mind, refraining from tale-bearing, compassion to all creatures, freedom from desires, accessibility to the good, shamefulness at the thought of doing what is wicked, serenity of mind even when the objects of sense pleasure are very near, never yielding to the vicious, forbearance even when injured by others, mental courage in continuing to do one's duties even in times of great adversity, the purity (of body and mind) that is necessary for the performance of such rites as are enjoined in the śāstra, freedom from treachery and freedom from.conceit." So also, it has been said; "Creation  is of two kinds -- the god-like and āsuric. The god like are, by nature, always full of devotion to Viṣṇu. The āsuric are the very opposite of this." Those men with a nature like that of the gods would be tested by (our)ācāryas for ascertaining their real character as stated in the following ślokas: "The disciple" shonld be tested in varions ways for a period of one year, or half of it, or (at least) three months and he should be tanght with compassion and withont any thought of gain and the like", and "If a man has come by chance from a distant land with a mind full of the love of the Lord, he should be taught what he desires withont any prolonged tests". (Having ascertained his fitness), the ācārya would reveal (spiritual truths) in such a manner that six ears could not hear them (i.e. that it could be heard only by the śiṣya's two ears and the guru's two ears and no other) and only to a disciple who had no desires and was content with what he had in regard to other things and who was keenly desirous only of learning the śastras.ācāryas of olden days would guard these secrets from asuric natures which are different and which have, as their possessions, such attributes as the following:-- Performing  dharma for the sake of praise, delight in the enjoyment of sense-pleasures which make one indifferent to the knowledge of what is good and what is evil, irrational arrogance, anger, harshness of speech and folly". They would keep the śastra hidden like a wealthy man who would (guard) a cherished treasure and see to its proper use:
+<details><summary>मूलम्</summary>
 
-THE NATURE OF THE TEACHING : page630
+‘‘न नास्तिकायानृजवे नाभक्ताय कदाचन । नैव हिंसाभिरुचये न लुब्धाय विशेषतः ॥ दातव्यो मन्त्रराजोऽयम्मन्त्रोऽयं हि न तादृशः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऋजवे गुरु-भक्ताय  
+वैष्णवाय विशेषतः ॥  
+सर्व-प्राण्य्-अनुकूलाय  
+**दातव्यो** देशिकेन तु।’’  
+(सात्यकि-तन्त्रम्)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ऋजवे गुरु-भक्ताय  
+वैष्णवाय विशेषतः ॥  
+सर्व-प्राण्य्-अनुकूलाय  
+**दातव्यो** देशिकेन तु।’’  
+(सात्यकि-तन्त्रम्)
+</details>
+
+<details><summary>English</summary>
+
+> It **should be taught** by the ācārya  
+to the man who **is** sincere,  
+to one who **has devotion** to his guru,  
+to the man who **has devotion** to Viṣṇu  
+and who **is intent** on **doing** good to all beings.  
+These two things **should be borne** well in mind." 
+</details>
+
+<details><summary>Español</summary>
+
+> **Debería ser enseñado** por el ācārya  
+al hombre que **es** sincero,  
+a aquel que **tiene devoción** a su gurú,  
+al hombre que **tiene devoción** a Viṣṇu  
+y que **tiene la intención** de **hacer** el bien a todos los seres.  
+Estas dos cosas **deben tenerse** muy en cuenta."
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऋजवे गुरुभक्ताय वैष्णवाय विशेषतः ॥ सर्वप्राण्यनुकूलाय दातव्यो देशिकेन तु॥’’ (सात्यकि-तन्त्रम्)
+</details>
+
+#### दिव्य-प्रबन्धे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’तॊण्डर्क्क् अमुद्-उण्णच् चॊऩ्+++(ल्)+++-मालैगळ् सॊऩ्ऩेऩ्’’  
+(तिरुवाय्मॊऴि ९-४-९), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "दासानाम् अमृत-भोजनाय वाङ्-मालाम् अवदम्”  
+(तिरुवाय्मॊऴि ९-४-९), 
+</details>
+
+<details><summary>English</summary>
+
+> "Thus **have I uttered** words  
+which **are** like a garland to the Lord  
+and words that **would delight** His servants, for the sake of the **enjoyment** of the Lord  
+which **is** sweet as ambrosia". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Así **he pronunciado** palabras  
+que **son** como una guirnalda para el Señor  
+y palabras que **deleitarían** a Sus siervos, en aras del **disfrute** del Señor  
+que **es** dulce como la ambrosía".
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’तॊण्डर्क्कमुदुण्णच् चॊऩ्मालैगळ् सॊऩ्ऩेऩ्’’ (तिरुवाय्मॊऴि ९-४-९), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’अन्तादि मेल् **इट्ट् अऱिवित्तेऩ्** आऴ्+++(=गम्भीर)+++ पॊरुळैच् +++(अस्थाने)+++ **चिन्तामऱ्+++(ल् = अविकीर्णा)+++** **कॊळ्मिऩीर् तेर्न्दुद् +++(=निश्चित्य)+++**’’ (१० नाऩ्मुदऩ् तिरुवन्दादि १)  
+
+ऎऩ्ऱु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अन्तादि-रूपेण (गाथाः) निवेश्य आवेदयं गभीरार्थान्,  
+यथा (अ-स्थले) न भ्रश्येयुः  
+तथा निर्धार्य धारयत" 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> "Here **have I taught** deep truths  
+in the form of verses  
+each of which **begins** with the last word of the previous verse (antādi).  
+**Considering** their great value, **receive** them  
+without **casting** them among the unworthy". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Aquí **he enseñado** verdades profundas  
+en forma de versos  
+cada uno de los cuales **comienza** con la última palabra del verso anterior (antādi).  
+**Considerando** su gran valor, **recíbelos**  
+sin **echarlos** entre los indignos".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’अन्तादि मेलिट्टऱिवित्तेऩाऴ् पॊरुळैच् चिन्दामऱ् कॊळ्मिऩीर् तेर्न्दुद्’’ (१० नाऩ्मुदऩ् तिरुवन्दादि १)  ऎऩ्ऱु 
+</details>
+
+#### दैवी-प्रकृतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीसात्त्वत--भगवद्-गीता-- वसिष्ठ-कराल-संवाद-- शाण्डिल्य-स्मृति-- सात्यकि-तन्त्रादिगळिऱ्  
+सॊल्लुगिऱ बडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीसात्त्वत--भगवद्-गीता-- वसिष्ठ-कराल-संवाद-- शाण्डिल्य-स्मृति-- सात्यकि-तन्त्राद्य्-उक्त-रीत्या
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in such treatises as the above, viz., Sātvata, Bhagavad Gitā, the discourse between Vasiṣṭa and Karala, Śāṇḍilya Smṛti and Satyaki tantra, 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se afirma** en tratados como el anterior, a saber, Sātvata, Bhagavad Gitā, el discurso entre Vasiṣṭa y Karala, Śāṇḍilya Smṛti y Satyaki tantra,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीसात्त्वतभगवद्गीतावसिष्ठकराळसंवादशाण्डिल्यस्मृतिसात्यकितन्त्रादिगळिऱ् सॊल्लुगिऱबडिये
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरण्यऩ्-अनुमति-पण्णुम् बडिक्क् ईड् आऩ  
+सात्त्विकता-ऽऽस्तिक्यादि-गुणङ्गळैय्-उडैयवर् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+the ancient ācāryas **would teach** only to those who **had** such qualities as goodness and faith  
+and who **would** therefore **be approved** of by the Saviour.  
+</details>
+
+<details><summary>Español</summary>
+
+los antiguos ācāryas **enseñaban** sólo a aquellos que **tenían** cualidades tales como la bondad y la fe.  
+y quién por lo tanto **sería aprobado** por el Salvador.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरण्यऩनुमतिपण्णुम्बडिक्कीडाऩ सात्त्विकतास्तिक्यादिगुणङ्गळैयुडैयवराय्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अ-भयं सत्त्व-संशुद्धिर्  
+ज्ञान-योग-व्यवस्थितिः ।  
+दानं दमश् च यज्ञश् च  
+स्वाध्यायस् तप आर्जवम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अ-भयं सत्त्व-संशुद्धिर्  
+ज्ञान-योग-व्यवस्थितिः ।  
+दानं दमश् च यज्ञश् च  
+स्वाध्यायस् तप आर्जवम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> fearlessness, a mind **free** from the taint of rajas and tamas,  
+**meditation** on the essential nature of the self,  
+charitableness, subjugation of the senses,  
+the **performance** of yajnas or sacrifice,  
+the **study** of one's Veda,  
+**austerities** like **fasting**,  
+**being** the same in thought, word and deed, 
+</details>
+
+<details><summary>Español</summary>
+
+> valentía, una mente **libre** de la contaminación de rajas y tamas,  
+**meditación** sobre la naturaleza esencial del yo,  
+caridad, subyugación de los sentidos,  
+la **realización** de yajnas o sacrificios,  
+el **estudio** del propio Veda,  
+**austeridades** como **ayuno**,  
+**siendo** el mismo en pensamiento, palabra y obra,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अभयं सत्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः । दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अहिंसा सत्यम् अ-क्रोधस्  
+त्यागश् शान्तिर् अ-पैशुनम् ।  
+दया भूतेष्व् अलोलुप्त्वं  
+मार्दवं ह्रीर् अ-चापलम् ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अहिंसा सत्यम् अ-क्रोधस्  
+त्यागश् शान्तिर् अ-पैशुनम् ।  
+दया भूतेष्व् अलोलुप्त्वं  
+मार्दवं ह्रीर् अ-चापलम् ॥
+</details>
+
+<details><summary>English</summary>
+
+> **refraining** from **doing** evil to others,  
+**speaking** that truth which will be wholesome to other beings,  
+freedom from anger, **giving up** what **is productive** of evil to oneself,  
+**control** of the mind,  
+**refraining** from tale-bearing,  
+**compassion** to all creatures,  
+**freedom** from desires,  
+**accessibility** to the good,  
+**shamefulness** at the **thought** of **doing** what **is** wicked,  
+serenity of mind even when the objects of sense pleasure **are** very near,  
+</details>
+
+<details><summary>Español</summary>
+
+> **abstenerse** de **hacer** mal a los demás,  
+**hablando** esa verdad que será saludable para otros seres,  
+libertad de la ira, **renunciar** a lo que **es productivo** de mal para uno mismo,  
+**control** de la mente,  
+**abstenerse** de contar chismes,  
+**compasión** hacia todas las criaturas,  
+**libertad** de deseos,  
+**accesibilidad** al bien,  
+**vergüenza** ante el **pensamiento** de **hacer** lo que **es** malvado,  
+serenidad mental **incluso** cuando los objetos del placer sensorial **están** muy cerca,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अहिंसा सत्यमक्रोधस्त्यागश्शान्तिरपैशुनम् । दया भूतेष्वलोलुप्त्वंमार्दवं ह्रीरचापलम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तेजः क्षमा धृतिश् शौचम्  
+अद्रोहो नातिमानिता ।  
+**भवन्ति** संपदं दैवीम्  
+अभिजातस्य भारत॥’’  
+(गीता १६-१, २,३) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तेजः क्षमा धृतिश् शौचम्  
+अद्रोहो नातिमानिता ।  
+**भवन्ति** संपदं दैवीम्  
+अभिजातस्य भारत॥’’  
+(गीता १६-१, २,३) 
+
+</details>
+
+<details><summary>English</summary>
+
+> **never yielding** to the vicious,  
+**forbearance** even when **injured** by others,  
+mental courage in **continuing** to do one's duties even in times of great adversity,  
+the purity (of body and mind) that **is necessary** for the **performance** of such rites as **are enjoined** in the śāstra,  
+**freedom** from treachery  
+and **freedom** from conceit."   
+> "These **are** the qualities, O, Bharata, which **enrich** man with a nature similar to that of the gods."
+</details>
+
+<details><summary>Español</summary>
+
+> **nunca ceder** a los viciosos,  
+**tolerancia** incluso cuando **herido** por otros,  
+coraje mental para **continuar** cumpliendo con sus deberes incluso en tiempos de gran adversidad,  
+la pureza (de cuerpo y mente) que **es necesaria** para la **realización** de tales ritos como los **que se prescriben** en el śāstra,  
+**libertad** de la traición  
+y **libertad** de vanidad."  
+> "Éstas **son** las cualidades, oh, Bharata, que **enriquecen** al hombre con una naturaleza similar a la de los dioses."
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेजः क्षमा धृतिश्शौचमद्रोहो नातिमानिता । भवन्ति संपदं दैवीमभिजातस्य भारत’’ (गीता १६-१, २,३) ऎऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘द्विविधो भूतसर्गोऽयं  
+दैव आसुर एव च ।  
+विष्णु-भक्ति-परो दैवः’’  
+(विष्णुधर्मः १०९-७४) 
+
+ऎऩ्ऱुञ् जॊल्लप्-पट्ट दैव-प्रकृतिगळुक्कु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘द्विविधो भूतसर्गोऽयं  
+दैव आसुर एव च ।  
+विष्णु-भक्ति-परो दैवः’’  
+(विष्णुधर्मः १०९-७४) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+So also, it **has been said** - 
+
+> "**Creation is** of two kinds -- the god-like and āsuric.  
+The god-like **are**, by nature, always **full** of **devotion** to Viṣṇu.  
+The āsuric **are** the very opposite of this." 
+
+(They **would teach** these truths)  
+only to those who **were** of the nature of the gods (Devas)  
+as **described** in the above ślokas. 
+</details>
+
+<details><summary>Español</summary>
+
+Así también, **se ha dicho** - 
+
+> "**La creación es** de dos tipos: la divina y la āsúrica.  
+Los divinos **están**, por naturaleza, siempre **llenos** de **devoción** a Viṣṇu.  
+Los āsuric **son** todo lo contrario de esto." 
+
+(Ellos **enseñarían** estas verdades)  
+sólo a aquellos que **eran** de la naturaleza de los dioses (Devas)  
+como **descrito** en los ślokas anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘द्विविधो भूतसर्गोऽयं दैव आसुर एव च । विष्णुभक्तिपरो दैवः’’ (विष्णुधर्मः १०९-७४) ऎऩ्ऱुञ् जॊल्लप्पट्ट दैवप्रकृतिकळुक्कु
+</details>
+
+
+### परीक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १३ ‘‘संवत्सरं तद्-अर्धं वा  
+मास-त्रयम् अथापि वा ।  
+**परीक्ष्य** विविधोपायैः  
+कृपया निस्स्पृहो **वदेत्**॥’’  
+(शाण्डिल्यस्मृति १-११६), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १३ ‘‘संवत्सरं तद्-अर्धं वा  
+मास-त्रयम् अथापि वा ।  
+**परीक्ष्य** विविधोपायैः  
+कृपया निस्स्पृहो **वदेत्**॥’’  
+(शाण्डिल्यस्मृति १-११६), 
+</details>
+
+<details><summary>English</summary>
+
+> "The disciple **should be tested** in various ways  
+for a period of one year, or half of it, or (at least) three months  
+and he **should be taught** with compassion  
+and without any **thought** of **gain** and the like", 
+</details>
+
+<details><summary>Español</summary>
+
+> "El discípulo **debe ser probado** de varias maneras  
+por un período de un año, o la mitad del mismo, o (al menos) tres meses  
+y él **debe ser enseñado** con compasión  
+y sin ningún **pensamiento** de **ganancia** y cosas por el estilo",
+</details>
+
+<details><summary>मूलम्</summary>
+
+१३ ‘‘संवत्सरं तदर्धं वा मासत्रयमथापि वा । परीक्ष्य विविधोपायैः कृपया निस्स्पृहो वदेत्’’ (शाण्डिल्यस्मृति १-११६), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यद्-ऋच्छयोपसन्नानां  
+देशान्तर-निवासिनाम् ।  
+इष्टोपदेशः **कर्तव्यो**  
+नारायण-रतात्मनाम्॥’’  
+(सात्त्वत-संहिता २१-४५)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यद्-ऋच्छयोपसन्नानां  
+देशान्तर-निवासिनाम् ।  
+इष्टोपदेशः **कर्तव्यो**  
+नारायण-रतात्मनाम्॥’’  
+(सात्त्वत-संहिता २१-४५)
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "If a man **has come** by chance from a distant land  
+with a mind **full** of the love of the Lord,  
+he **should be taught** what he **desires** without any prolonged **tests**".  
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Si un hombre **ha venido** por casualidad de una tierra lejana  
+con la mente **llena** del amor del Señor,  
+a él **se le debe enseñar** lo que **desea** sin **pruebas** prolongadas".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यदृच्छयोपसन्नानां देशान्तरनिवासिनाम् । इष्टोपदेशः कर्तव्यो नारायणरतात्मनाम्’’ (सात्त्वत-संहिता २१-४५)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् सॊऩ्ऩ परीक्षादि-मूल--गुण-निश्चय-पूर्वकम् आग 
+</details>
+
+<details><summary>English</summary>
+
+Those men with a nature like that of the gods  
+**would be tested** by (our) ācāryas for **ascertaining** their real character  
+as **stated** in the above ślokas. 
+</details>
+
+<details><summary>Español</summary>
+
+Esos hombres con una naturaleza como la de los dioses  
+**sería probado** por (nuestros) ācāryas para **determinar** su verdadero carácter  
+como **indicado** en los ślokas anteriores.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्सॊऩ्ऩ परीक्षादिमूलगुणनिश्चयपूर्वकमाग 
+</details>
+
+
+### बोधनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘श्रुताद् अन्यत्र +++(अलम् इति)+++ सन्तुष्टस्  
+तत्रैव च कुतूहली’’ ()  
+
+ऎऩ्ऩलाम् अवस्थैयिले  
+अ-षट्-कर्णम् आग वॆळियि ट्टु, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘श्रुताद् अन्यत्र +++(अलम् इति)+++  सन्तुष्टस्  
+तत्रैव च कुतूहली’’ ()  
+
+</details>
+
+<details><summary>English</summary>
+
+(**Having ascertained** his fitness),  
+the ācārya **would reveal** (spiritual truths) in such a manner that  
+six ears **could not hear** them  
+(i.e. that it **could be heard** only by the śiṣya's two ears and the guru's two ears and no other)  
+and only to a **disciple** who **had no desires**  
+and **was content** with what he **had** in regard to other things  
+and who was keenly **desirous** only of **learning** the śastras. 
+</details>
+
+<details><summary>Español</summary>
+
+(**Habiendo comprobado** su estado físico),  
+el ācārya **revelaría** (verdades espirituales) de tal manera que  
+seis oídos **no podían oírlos**  
+(es decir, que **podía ser escuchado** sólo por los dos oídos del śiṣya y los dos oídos del gurú y ningún otro)  
+y sólo a un **discípulo** que **no tenía deseos**  
+y **estaba contento** con lo que **tenía** respecto a otras cosas  
+y que estaba profundamente **deseoso** sólo de **aprender** los śastras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘श्रुतादन्यत्र सन्तुष्टस्तत्रैव च कुतूहली’’ () ऎऩ्ऩलामवस्थैयिले अषट्कर्णमाग वॆळियिट्टु, 
+</details>
+
+### गोपनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘डम्भो दर्पो ऽतिमानश् च  
+क्रोधः पारुष्यम् एव च ।  
+अ-ज्ञानञ् चाभिजातस्य  
+पार्थ! सम्पदम् आसुरीम्’’  
+(गीता १६-४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘डम्भो दर्पो ऽतिमानश् च  
+क्रोधः पारुष्यम् एव च ।  
+अ-ज्ञानञ् चाभिजातस्य  
+पार्थ! सम्पदम् आसुरीम्’’  
+(गीता १६-४) 
+</details>
+
+<details><summary>English</summary>
+
+> **Performing** dharma for the sake of praise,  
+**delight** in the **enjoyment** of sense-pleasures  
+which **make** one indifferent to the **knowledge** of what is good and what is evil, irrational arrogance, anger, harshness of speech and folly".  
+Asuric natures which **have**, as their possessions, such attributes as the above... 
+
+</details>
+
+<details><summary>Español</summary>
+
+> **Realizar** el dharma en aras de la alabanza,  
+**deleite** en el **disfrute** de los placeres sensoriales  
+que **hacen** indiferente al **conocimiento** del bien y del mal, la soberbia irracional, la ira, la dureza de palabra y la necedad".   
+Naturalezas asúricas que **tienen**, como posesiones, atributos como los anteriores...
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘डंभो दर्पोऽतिमानश्च क्रोधः पारुष्यमेव च । अज्ञानञ्चाभिजातस्य पार्थ! संपदमासुरीम्’’ (गीता १६-४) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विपरीतस् तथासुरः’’ () 
+
+ऎऩ्ऱुञ् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विपरीतस् तथासुरः’’ () 
+
+
+</details>
+
+<details><summary>English</summary>
+
+and "asuric natures which are different "
+</details>
+
+<details><summary>Español</summary>
+
+y "naturalezas asúricas que **son** diferentes"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘विपरीतस्तथासुरः’’ () ऎऩ्ऱुञ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जॊल्लप्पट्ट आसुर-प्रकृतिगळुक्कु मऱैत्तु 
+</details>
+
+<details><summary>English</summary>
+
+ācāryas of olden days **would guard** these secrets from (such asuric natures).
+</details>
+
+<details><summary>Español</summary>
+
+Los ācāryas de la antigüedad **guardaban** estos secretos de (tales naturalezas asúricas).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जॊल्लप्पट्ट आसुरप्रकृतिकळुक्कु मऱैत्तु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सीरिय धनम् उडैयार् सेमित्तु+++(=रक्षित्वा)+++ वाऴुमाप् पोले चरितार्थर् आय् वर्तिप्पार्गळ् पूर्वाचार्यर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+They **would keep** the śastra **hidden** like a wealthy man who would (**guard**) a cherished treasure and **see** to its proper **use**.
+</details>
+
+<details><summary>Español</summary>
+
+Ellos **mantendrían** el śastra **escondido** como un hombre rico que (**guardaría**) un tesoro preciado y **se ocuparía** de su **uso** adecuado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सीरिय धनमुडैयार् सेमित्तु वाऴुमाप्पोले चरितार्थराय् वर्तिप्पार्गळ् पूर्वाचार्यर्गळ्।
+</details>
+
+
+## शिक्षा-विषयः
+
+<details><summary>English</summary>
+
+THE NATURE OF THE TEACHING : page 630
+</details>
+
+<details><summary>Español</summary>
+
+LA NATURALEZA DE LA ENSEÑANZA : página 630
+</details>
+
+### तत्त्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् -  
+
+देहेन्द्रियादि-व्यतिरिक्तऩ् आय्  
+नित्यऩ् आय् इरुप्पाऩ् ऒरु आत्माव् उण्डु। 
+</details>
+
+<details><summary>English</summary>
+
+(They)
+
+(1) Tattva.  
+“There **is** a self or ātmā  
+which **is** eternal and different from the body and the senses. 
+</details>
+
+<details><summary>Español</summary>
+
+(Ellos)
+
+(1) Tattva.  
+“**Existe** un yo o ātmā  
+que **es** eterno y diferente del cuerpo y de los sentidos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् देहेन्द्रियादिव्यतिरिक्तऩाय् नित्यऩायिरुप्पाऩॊरु आत्मावुण्डु। 
+</details>
+
+
 
 They would teach their śiṣyas such truths as the following:
 
-(1) Tattva. “There is a self or ātmā which is eternal and different from the body and the senses. Besides these two viz., the sentient beings and non-sentient things, there is a Supreme Self who dwells within all of them as their ruler and who is the śeṣī (for whom they exist). Other than this Supreme Self there is no one, either oneself or others, that can protect the self". (2) Hita : They will also teach the means (hita) by which the end can be trained, in the following words to be uttered by the śiṣya "From beginningless time, I have been in saṁsāra subject to the cycle of births and deaths. In order that I may not have such sufferings as dwelling within the embryo, I pray that Thou shouldst grant me Thy holy feet and save me." (With these words) and with the utterance of Dvaya , preceded by obeisance to the succession of gurus, taught graciously by the ācāryas, the  , should be taught to seek the feet of Nārāyaṇa and Śrī and surrender his self and whatever is his, as also the burdens or responsibilities connected with them, when the good acarya has thus introduced the śiṣya to the Lord, the śiṣya should be made to feel assured that the Lord would never, thereafter, forsake him so that he may live the rest of his life here in the spirit of good will to every one and free from all offence and his later life may become the prelude to mokṣa. Thus he would teach the śiṣya what he should do after the surrender of responsibility (bharanyāsa) in as brief á manner as would suit the aptitude of the śiṣya.
+Besides these two viz., the sentient beings and non-sentient things, there is a Supreme Self who dwells within all of them as their ruler and who is the śeṣī (for whom they exist). Other than this Supreme Self there is no one, either oneself or others, that can protect the self". (2) Hita : They will also teach the means (hita) by which the end can be trained, in the following words to be uttered by the śiṣya "From beginningless time, I have been in saṁsāra subject to the cycle of births and deaths. In order that I may not have such sufferings as dwelling within the embryo, I pray that Thou shouldst grant me Thy holy feet and save me." (With these words) and with the utterance of Dvaya , preceded by obeisance to the succession of gurus, taught graciously by the ācāryas, the  , should be taught to seek the feet of Nārāyaṇa and Śrī and surrender his self and whatever is his, as also the burdens or responsibilities connected with them, when the good acarya has thus introduced the śiṣya to the Lord, the śiṣya should be made to feel assured that the Lord would never, thereafter, forsake him so that he may live the rest of his life here in the spirit of good will to every one and free from all offence and his later life may become the prelude to mokṣa. Thus he would teach the śiṣya what he should do after the surrender of responsibility (bharanyāsa) in as brief á manner as would suit the aptitude of the śiṣya.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
