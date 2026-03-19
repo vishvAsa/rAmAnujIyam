@@ -226,13 +226,13 @@ Dvaya: The sacred mantra of Prapatti. The word signifies "two-fold,' being a com
 
 <details><summary>English</summary>
 
-15. "Thus in no case does Prapatti stand in need of other means. It yields (of itself) the fruits of all dosires to all persons, in all places, and at all times." 
+15. "Thus in no case does Prapatti stand in need of other means. It yields (of itself) the fruits of all desires to all persons, in all places, and at all times." 
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-" प्रपत्तेः कचिदप्येवं परापेक्षा न विद्यते ।  
+" प्रपत्तेः क्वचिदप्येवं परापेक्षा न विद्यते ।  
 सा हि सर्वत्र सर्वेषां सर्वकामफलप्रदा ॥
 </details>
 
