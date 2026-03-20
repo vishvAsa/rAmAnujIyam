@@ -1771,8 +1771,7 @@ LA NATURALEZA DE LA ENSEÑANZA : página 630
 
 (They)
 
-(1) Tattva.  
-“There **is** a self or ātmā  
+(1) “There **is** a self or ātmā  
 which **is** eternal and different from the body and the senses. 
 </details>
 
@@ -1780,8 +1779,7 @@ which **is** eternal and different from the body and the senses.
 
 (Ellos)
 
-(1) Tattva.  
-“**Existe** un yo o ātmā  
+(1) “**Existe** un yo o ātmā  
 que **es** eterno y diferente del cuerpo y de los sentidos.
 </details>
 
@@ -1791,11 +1789,219 @@ que **es** eterno y diferente del cuerpo y de los sentidos.
 इवर्गळ् देहेन्द्रियादिव्यतिरिक्तऩाय् नित्यऩायिरुप्पाऩॊरु आत्मावुण्डु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इच् चेतनाचेतनङ्गळ् इरण्डुम् ऒऴिय  
+इवऱ्ऱुक्क् अन्तर्यामिय् आय्, शेषिय् आय् इरुप्पाऩ् ऒरु परमात्माव् उण्डु। 
+</details>
+
+<details><summary>English</summary>
+
+Besides these two viz., the sentient beings and non-sentient things,  
+there **is** a Supreme Self who b within all of them as their ruler  
+and who **is** the śeṣī (for whom they **exist**). 
+</details>
+
+<details><summary>Español</summary>
+
+Además de estos dos, a saber, los seres sintientes y las cosas no sintientes,  
+**Hay** un Yo Supremo que está dentro de todos ellos como su **gobernante**.  
+y quién **es** el śeṣī (para quien **existen**).
+</details>
 
 
-They would teach their śiṣyas such truths as the following:
+<details><summary>मूलम्</summary>
 
-Besides these two viz., the sentient beings and non-sentient things, there is a Supreme Self who dwells within all of them as their ruler and who is the śeṣī (for whom they exist). Other than this Supreme Self there is no one, either oneself or others, that can protect the self". (2) Hita : They will also teach the means (hita) by which the end can be trained, in the following words to be uttered by the śiṣya "From beginningless time, I have been in saṁsāra subject to the cycle of births and deaths. In order that I may not have such sufferings as dwelling within the embryo, I pray that Thou shouldst grant me Thy holy feet and save me." (With these words) and with the utterance of Dvaya , preceded by obeisance to the succession of gurus, taught graciously by the ācāryas, the  , should be taught to seek the feet of Nārāyaṇa and Śrī and surrender his self and whatever is his, as also the burdens or responsibilities connected with them, when the good acarya has thus introduced the śiṣya to the Lord, the śiṣya should be made to feel assured that the Lord would never, thereafter, forsake him so that he may live the rest of his life here in the spirit of good will to every one and free from all offence and his later life may become the prelude to mokṣa. Thus he would teach the śiṣya what he should do after the surrender of responsibility (bharanyāsa) in as brief á manner as would suit the aptitude of the śiṣya.
+इच् चेतनाचेतनङ्गळिरण्डु मॊऴिय इवऱ्ऱुक्कन्तर्यामियाय् शेषियायिरुप् पाऩॊरु परमात्मावुण्डु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् परमात्मावैय् ऒऴिय  
+इव्व्-आत्मावुक्कुत् ताऩुम्, पिऱरुम् रक्षकर् आग-माट्टार् 
+
+ऎऩ्ऱु तत्त्वत्तैयुम्,
+</details>
+
+<details><summary>English</summary>
+
+Other than this Supreme Self there **is** no one, either oneself or others,  
+that **can protect** the self". - Tattva. 
+</details>
+
+<details><summary>Español</summary>
+
+Aparte de este Ser Supremo no **hay** nadie, ni uno mismo ni los demás,  
+que **puede proteger** el yo". - Tattva.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् परमात्मावै यॊऴिय इव्वात्मावुक्कुत् ताऩुम् पिऱरुम् रक्षकरागमाट्टारॆऩ्ऱु तत्त्वत्तैयुम्,
+</details>
+
+
+### हितम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनादिकालम् अन्तादिय् आग संसरित्तुप् पोन्दव् अडियेऩुक्कु  
+इऩिय् ऒरु गर्भ-वासादि-क्लेशम् वाराद बडि  
+तिरुव्-अडिगळैत् तन्दु रक्षित्त् अरुळ वेण्डुम् 
+
+ऎऩ्ऱु
+</details>
+
+<details><summary>English</summary>
+
+> (2) "From beginningless time, **I have been** in saṁsāra  
+**subject** to the cycle of births and deaths.  
+In order that I **may not** have such **sufferings** as **dwelling** within the embryo,  
+**I pray** that Thou **shouldst grant** me Thy holy feet and **save** me."  
+</details>
+
+<details><summary>Español</summary>
+
+> (2) "Desde tiempos sin principio, **he estado** en saṁsāra  
+**sujeto** al ciclo de **nacimientos** y **muertes**.  
+Para que **no tenga sufrimientos** como **habitar** dentro del embrión,  
+**Rezo** para que **me concedas** Tus santos pies y **me salves**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनादिकालमन्दादियाग संसरित्तुप्पोन्द वडियेऩुक्कु इऩियॊरु गर्भवासादिक्लेशम् वारादबडि तिरुवडिगळैत् तन्दु रक्षित्तरुळवेण्डुम् 
+
+ऎऩ्ऱु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आचार्यऩ् प्रसादित्त गुरु-परं-परा--पूर्वक-द्वयत्ताले  
+श्रीमाऩ् आऩ नारायणऩ्-तिरुव्-अडिगळै शरणम् आगप् पऱ्ऱि 
+</details>
+
+<details><summary>English</summary>
+
+(With these words) and with the **utterance** of Dvaya ,  
+**preceded** by **obeisance** to the succession of gurus,  
+**taught** graciously by the ācāryas,  
+the śiṣya, **should be taught** to **seek** the feet of Nārāyaṇa and Śrī  
+</details>
+
+<details><summary>Español</summary>
+
+(Con estas palabras) y con la **expresión** de Dvaya,  
+**precedido** por **obediencia** a la sucesión de gurús,  
+**enseñado** gentilmente por los ācāryas,  
+el śiṣya, **se le debe enseñar** a **buscar** los pies de Nārāyaṇa y Śrī
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आचार्यऩ् प्रसादित्त गुरुपरंपरापूर्वकद्वयत्ताले श्रीमाऩाऩ नारायणऩ् तिरुवडिगळै शरणमागप्पऱ्ऱि 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मात्मीयङ्गळैयुम्,  
+अवऱ्ऱैप् पऱ्ऱ वरुञ् +++(भाराण्यपि=)+++चुमैगळैयुम्,  
+अङ्गे समर्पिप्पद्  
+ऎऩ्ऱु हितत्तैयुम्, 
+</details>
+
+<details><summary>English</summary>
+
+and **surrender** his self and whatever is his,  
+as also the burdens or responsibilities **connected** with them.  
+They will thus also **teach** the means (hita) by which the end **can be obtained**.
+</details>
+
+<details><summary>Español</summary>
+
+y **entregar** su yo y todo lo que **es** suyo,  
+como también las cargas o responsabilidades **conectadas** con ellos.  
+
+Así también **enseñarán** los medios (hita) por los cuales **puede obtenerse** el fin.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मात्मीयङ्गळैयुम् अवऱ्ऱैप् पऱ्ऱ वरुञ् जुमैगळैयुम् अङ्गे समर्पिप्पदॆऩ्ऱु हितत्तैयुम्, 
+</details>
+
+
+### पुरुषार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सदाचार्यऩ् काट्टिक्कॊडुक्कक्  
+कैक्-कॊण्डव् ऎम्-बॆरुमाऩ्  
+इऩि नम्मैय् ऒरु बडिक्कुङ् कै विडाऩ् 
+
+ऎऩ्गिऱ +++(आश्वासनेन=)+++तेऱ्ऱत्तोडेय् 
+</details>
+
+<details><summary>English</summary>
+
+when the good acarya has thus **introduced** the śiṣya to the Lord,  
+the śiṣya **should be made to feel assured** that the Lord **would never**, thereafter, **forsake** him  
+</details>
+
+<details><summary>Español</summary>
+
+cuando el buen acarya ha **presentado** así al śiṣya al Señor,  
+el śiṣya **debe sentirse seguro** de que el Señor **nunca**, a partir de entonces, **lo abandonará**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सदाचार्यऩ् काट्टिक्कॊडुक्कक् कैक्कॊण्डवॆम्बॆरुमाऩिऩि नम्मै यॊरुबडिक्कुङ् गैविडाऩॆऩ्गिऱ तेऱ्ऱत्तोडेय्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ग् इरुन्द कालम्  
+अपवर्ग-पूर्वरङ्गम् आऩ  
+निरपराधानुकूल-वृत्तियोडे नडप्पद्  
+ऎऩ्ऱु उत्तर-कृत्यत्तैयुम् अरुळिच् चॆय्वर्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+so that he **may live** the rest of his life here  
+in the spirit of good will to every one  
+and free from all **offence**  
+and his later life **may become** the prelude to mokṣa. 
+
+They **would teach** their śiṣyas such truths as the above.
+</details>
+
+<details><summary>Español</summary>
+
+para que **pueda vivir** el resto de su vida aquí  
+con espíritu de buena voluntad para todos  
+y libre de toda **ofensa**  
+y su vida posterior **puede convertirse** en el preludio de mokṣa. 
+
+Ellos **enseñarían** a sus śiṣyas verdades como las anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गिरुन्द कालम् अपवर्गपूर्वरङ्गमाऩ निरपराधानुकूलवृत्तियोडे नडप्पदॆऩ्ऱु उत्तरकृत्यत्तैयुम् अरुळिच्चॆय्वर्गळ्। 
+</details>
+
+
+
+
+Thus he would teach the śiṣya what he should do after the surrender of responsibility (bharanyāsa) in as brief á manner as would suit the aptitude of the śiṣya.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
