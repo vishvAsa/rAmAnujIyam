@@ -7,11 +7,11 @@ Source: [TW](https://acharya.org/bk/pb/taa/pnv.pdf)
 
 पऴनडै विळक्कम्॥
 
-Seems to be the first text to dispute Vadakalai Hagiograhies, make Wrong claims on Vedanta Desika's history etc। This is said to have many fake quotes।
+Seems to be the first text to dispute Vadakalai Hagiograhies, make Wrong claims on Vedanta Desika's history etc. This is said to have many fake quotes.
 
-Author is a senior contemporary of kRShNa tAtAchArya, said to have defeated vaDakalis in debate (very doubtful considering the quality of this work)।
+Author is a senior contemporary of kRShNa tAtAchArya, said to have defeated vaDakalis in debate (very doubtful considering the quality of this work).
 
-Was a text heavily cited by PB Annangarachar।
+Was a text heavily cited by PB Annangarachar +++(क्व??)+++.
 
 परिचयो [ऽत्र](https://www।instagram।com/reels/C८qbjdWS६yD/)। 
 </details>
@@ -21,7 +21,7 @@ Was a text heavily cited by PB Annangarachar।
 
 मेल् ऎऴुदिय रहस्यत्रय-जीवादुव् ऎऩ्गिऱ ग्रन्थत्तिलेय् इरुक्किऱव् अवर्गळुडैय मुगवचनम् ऎऴुदुगिऱदु, ऎप्-पडिय् ऎऩ्ऱाल्:  
 
-> "विष्णुवेमोक्षम् प्रसादिप्पर्;  
+> "विष्णुवे मोक्षम् प्रसादिप्पर्;  
 अवर्-उडैय पत्निय् आऩ लक्ष्मि  
 अदऱ्कुप् पुरुष-कार-मात्रम् ऎऩ्ऱु नम्माचार्यर्गळ्-उडैय सम्प्रदायम् इरुप्पदु।  
 > वेदान्ताचार्यरोव् ऎऩ्ऱाल्  

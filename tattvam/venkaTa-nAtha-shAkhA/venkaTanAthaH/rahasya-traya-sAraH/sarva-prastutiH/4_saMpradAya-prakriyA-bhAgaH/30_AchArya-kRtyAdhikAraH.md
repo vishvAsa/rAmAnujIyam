@@ -1771,8 +1771,7 @@ LA NATURALEZA DE LA ENSEÑANZA : página 630
 
 (They)
 
-(1) Tattva.  
-“There **is** a self or ātmā  
+(1) “There **is** a self or ātmā  
 which **is** eternal and different from the body and the senses. 
 </details>
 
@@ -1780,8 +1779,7 @@ which **is** eternal and different from the body and the senses.
 
 (Ellos)
 
-(1) Tattva.  
-“**Existe** un yo o ātmā  
+(1) “**Existe** un yo o ātmā  
 que **es** eterno y diferente del cuerpo y de los sentidos.
 </details>
 
@@ -1791,18 +1789,267 @@ que **es** eterno y diferente del cuerpo y de los sentidos.
 इवर्गळ् देहेन्द्रियादिव्यतिरिक्तऩाय् नित्यऩायिरुप्पाऩॊरु आत्मावुण्डु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इच् चेतनाचेतनङ्गळ् इरण्डुम् ऒऴिय  
+इवऱ्ऱुक्क् अन्तर्यामिय् आय्, शेषिय् आय् इरुप्पाऩ् ऒरु परमात्माव् उण्डु। 
+</details>
+
+<details><summary>English</summary>
+
+Besides these two viz., the sentient beings and non-sentient things,  
+there **is** a Supreme Self who b within all of them as their ruler  
+and who **is** the śeṣī (for whom they **exist**). 
+</details>
+
+<details><summary>Español</summary>
+
+Además de estos dos, a saber, los seres sintientes y las cosas no sintientes,  
+**Hay** un Yo Supremo que está dentro de todos ellos como su **gobernante**.  
+y quién **es** el śeṣī (para quien **existen**).
+</details>
 
 
-They would teach their śiṣyas such truths as the following:
+<details><summary>मूलम्</summary>
 
-Besides these two viz., the sentient beings and non-sentient things, there is a Supreme Self who dwells within all of them as their ruler and who is the śeṣī (for whom they exist). Other than this Supreme Self there is no one, either oneself or others, that can protect the self". (2) Hita : They will also teach the means (hita) by which the end can be trained, in the following words to be uttered by the śiṣya "From beginningless time, I have been in saṁsāra subject to the cycle of births and deaths. In order that I may not have such sufferings as dwelling within the embryo, I pray that Thou shouldst grant me Thy holy feet and save me." (With these words) and with the utterance of Dvaya , preceded by obeisance to the succession of gurus, taught graciously by the ācāryas, the  , should be taught to seek the feet of Nārāyaṇa and Śrī and surrender his self and whatever is his, as also the burdens or responsibilities connected with them, when the good acarya has thus introduced the śiṣya to the Lord, the śiṣya should be made to feel assured that the Lord would never, thereafter, forsake him so that he may live the rest of his life here in the spirit of good will to every one and free from all offence and his later life may become the prelude to mokṣa. Thus he would teach the śiṣya what he should do after the surrender of responsibility (bharanyāsa) in as brief á manner as would suit the aptitude of the śiṣya.
+इच् चेतनाचेतनङ्गळिरण्डु मॊऴिय इवऱ्ऱुक्कन्तर्यामियाय् शेषियायिरुप् पाऩॊरु परमात्मावुण्डु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् परमात्मावैय् ऒऴिय  
+इव्व्-आत्मावुक्कुत् ताऩुम्, पिऱरुम् रक्षकर् आग-माट्टार् 
+
+ऎऩ्ऱु तत्त्वत्तैयुम्,
+</details>
+
+<details><summary>English</summary>
+
+Other than this Supreme Self there **is** no one, either oneself or others,  
+that **can protect** the self". - Tattva. 
+</details>
+
+<details><summary>Español</summary>
+
+Aparte de este Ser Supremo no **hay** nadie, ni uno mismo ni los demás,  
+que **puede proteger** el yo". - Tattva.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् परमात्मावै यॊऴिय इव्वात्मावुक्कुत् ताऩुम् पिऱरुम् रक्षकरागमाट्टारॆऩ्ऱु तत्त्वत्तैयुम्,
+</details>
+
+
+### हितम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनादिकालम् अन्तादिय् आग संसरित्तुप् पोन्दव् अडियेऩुक्कु  
+इऩिय् ऒरु गर्भ-वासादि-क्लेशम् वाराद बडि  
+तिरुव्-अडिगळैत् तन्दु रक्षित्त् अरुळ वेण्डुम् 
+
+ऎऩ्ऱु
+</details>
+
+<details><summary>English</summary>
+
+> (2) "From beginningless time, **I have been** in saṁsāra  
+**subject** to the cycle of births and deaths.  
+In order that I **may not** have such **sufferings** as **dwelling** within the embryo,  
+**I pray** that Thou **shouldst grant** me Thy holy feet and **save** me."  
+</details>
+
+<details><summary>Español</summary>
+
+> (2) "Desde tiempos sin principio, **he estado** en saṁsāra  
+**sujeto** al ciclo de **nacimientos** y **muertes**.  
+Para que **no tenga sufrimientos** como **habitar** dentro del embrión,  
+**Rezo** para que **me concedas** Tus santos pies y **me salves**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनादिकालमन्दादियाग संसरित्तुप्पोन्द वडियेऩुक्कु इऩियॊरु गर्भवासादिक्लेशम् वारादबडि तिरुवडिगळैत् तन्दु रक्षित्तरुळवेण्डुम् 
+
+ऎऩ्ऱु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आचार्यऩ् प्रसादित्त गुरु-परं-परा--पूर्वक-द्वयत्ताले  
+श्रीमाऩ् आऩ नारायणऩ्-तिरुव्-अडिगळै शरणम् आगप् पऱ्ऱि 
+</details>
+
+<details><summary>English</summary>
+
+(With these words) and with the **utterance** of Dvaya ,  
+**preceded** by **obeisance** to the succession of gurus,  
+**taught** graciously by the ācāryas,  
+the śiṣya, **should be taught** to **seek** the feet of Nārāyaṇa and Śrī  
+</details>
+
+<details><summary>Español</summary>
+
+(Con estas palabras) y con la **expresión** de Dvaya,  
+**precedido** por **obediencia** a la sucesión de gurús,  
+**enseñado** gentilmente por los ācāryas,  
+el śiṣya, **se le debe enseñar** a **buscar** los pies de Nārāyaṇa y Śrī
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आचार्यऩ् प्रसादित्त गुरुपरंपरापूर्वकद्वयत्ताले श्रीमाऩाऩ नारायणऩ् तिरुवडिगळै शरणमागप्पऱ्ऱि 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मात्मीयङ्गळैयुम्,  
+अवऱ्ऱैप् पऱ्ऱ वरुञ् +++(भाराण्यपि=)+++चुमैगळैयुम्,  
+अङ्गे समर्पिप्पद्  
+ऎऩ्ऱु हितत्तैयुम्, 
+</details>
+
+<details><summary>English</summary>
+
+and **surrender** his self and whatever is his,  
+as also the burdens or responsibilities **connected** with them.  
+They will thus also **teach** the means (hita) by which the end **can be obtained**.
+</details>
+
+<details><summary>Español</summary>
+
+y **entregar** su yo y todo lo que **es** suyo,  
+como también las cargas o responsabilidades **conectadas** con ellos.  
+
+Así también **enseñarán** los medios (hita) por los cuales **puede obtenerse** el fin.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मात्मीयङ्गळैयुम् अवऱ्ऱैप् पऱ्ऱ वरुञ् जुमैगळैयुम् अङ्गे समर्पिप्पदॆऩ्ऱु हितत्तैयुम्, 
+</details>
+
+
+### पुरुषार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सदाचार्यऩ् काट्टिक्कॊडुक्कक्  
+कैक्-कॊण्डव् ऎम्-बॆरुमाऩ्  
+इऩि नम्मैय् ऒरु बडिक्कुङ् कै विडाऩ् 
+
+ऎऩ्गिऱ +++(आश्वासनेन=)+++तेऱ्ऱत्तोडेय् 
+</details>
+
+<details><summary>English</summary>
+
+when the good acarya has thus **introduced** the śiṣya to the Lord,  
+the śiṣya **should be made to feel assured** that the Lord **would never**, thereafter, **forsake** him  
+</details>
+
+<details><summary>Español</summary>
+
+cuando el buen acarya ha **presentado** así al śiṣya al Señor,  
+el śiṣya **debe sentirse seguro** de que el Señor **nunca**, a partir de entonces, **lo abandonará**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सदाचार्यऩ् काट्टिक्कॊडुक्कक् कैक्कॊण्डवॆम्बॆरुमाऩिऩि नम्मै यॊरुबडिक्कुङ् गैविडाऩॆऩ्गिऱ तेऱ्ऱत्तोडेय्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ग् इरुन्द कालम्  
+अपवर्ग-पूर्वरङ्गम् आऩ  
+निरपराधानुकूल-वृत्तियोडे नडप्पद्  
+ऎऩ्ऱु उत्तर-कृत्यत्तैयुम् सङ्ग्रह-रुचिगळुक्कुच् सुरुङ्गव्+++(=सङ्क्षिप्य)+++ अरुळिच् चॆय्वर्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+so that he **may live** the rest of his life here  
+in the spirit of good will to every one  
+and free from all **offence**  
+and his later life **may become** the prelude to mokṣa. 
+
+They **would teach** their śiṣyas such truths as the above.
+
+Thus he **would teach** the śiṣya  
+what he **should do** after the **surrender** of **responsibility** (bharanyāsa) in as brief a manner as would **suit** the aptitude of the śiṣya.
+</details>
+
+<details><summary>Español</summary>
+
+para que **pueda vivir** el resto de su vida aquí  
+con espíritu de buena voluntad para todos  
+y libre de toda **ofensa**  
+y su vida posterior **puede convertirse** en el preludio de mokṣa. 
+
+Ellos **enseñarían** a sus śiṣyas verdades como las anteriores.
+
+Así él **enseñaría** al śiṣya  
+lo que **debe hacer** después de la **rendición** de **responsabilidad** (bharanyāsa) de una manera tan breve como **se adapte** a la aptitud del śiṣya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गिरुन्द कालम् अपवर्गपूर्वरङ्गमाऩ निरपराधानुकूलवृत्तियोडे नडप्पदॆऩ्ऱु उत्तरकृत्यत्तैयुम् सङ्ग्रहरुचिगळुक्कुच् सुरुङ्गवरुळिच्चॆय्वर्गळ्। 
+</details>
+
+
+
+
+
+### सङ्ग्रहः
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रत्येयस्तु (प्रत्यग्वस्तु) विलक्षणः प्रकृतितस्त्रातापतिस्तत्पर  
-स्तस्मिन्नात्मभरार्पणं हिततमं तच्छेषवृत्तिः फलम् ।  
-इत्थं तत्त्वहिते पुमर्थ इति नस्त्रेधा विभक्तं धनं  
-दायत्वेन दयाधनास्स्वयमदुर्दत्तात्मनां देशिकाः ॥
+प्रत्यग्-वस्तु विलक्षणः प्रकृतितस्, त्राता पतिस् तत्-परस्,  
+तस्मिन्न् आत्म-भरार्पणं हिततमं, तच्-छेष-वृत्तिः फलम् ।  
+इत्थं तत्त्व-हिते, पुम्-अर्थ इति नस् त्रेधा **विभक्तं** धनं  
+दायत्वेन दया-धनास् स्वयम् **अदुर् दत्तात्मनां देशिकाः** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रत्यग्-वस्तु विलक्षणः प्रकृतितस्, त्राता पतिस् तत्-परस्,  
+तस्मिन्न् आत्म-भरार्पणं हिततमं, तच्-छेष-वृत्तिः फलम् ।  
+इत्थं तत्त्व-हिते, पुम्-अर्थ इति नस् त्रेधा **विभक्तं** धनं  
+दायत्वेन दया-धनास् स्वयम् **अदुर् दत्तात्मनां देशिकाः** ॥
+</details>
+
+<details><summary>English</summary>
+
+> "The soul or self **is different** from prakṛti or matter ;  
+greater than the self **is** the Saviour  
+who **is** the **Ruler** (over all);  
+the supreme good of man **consists** in the **surrender** of the **responsibility** of the self to Him;  
+the end (attained thereby) **is existence** solely for the **fulfilment** of His purposes.  
+In these words our spiritual **teachers** whose sole wealth **was** their compassion  
+**gave us**, of their own accord, as a heritage,  
+the (spiritual) wealth divided into three classes (viz, tativa, hita, puruṣārtha),  
+when we **had surrendered** ourselves to them.
+</details>
+
+<details><summary>Español</summary>
+
+> "El alma o yo **es diferente** de prakṛti o materia;  
+mayor que uno mismo **es** el Salvador  
+quién **es** el **Gobernante** (sobre todo);  
+el bien supremo del hombre **consiste** en la **entrega** de la **responsabilidad** del yo hacia Él;  
+el fin (alcanzado por ello) **es la existencia** únicamente para el **cumplimiento** de Sus propósitos.  
+En estas palabras nuestros **maestros** espirituales cuya única riqueza **era** su compasión  
+**nos dio**, por su propia voluntad, como herencia,  
+la riqueza (espiritual) dividida en tres clases (a saber, tativa, hita, puruṣārtha),  
+cuando **nos habíamos rendido** a ellos.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -1813,9 +2060,23 @@ Besides these two viz., the sentient beings and non-sentient things, there is a 
 दायत्वेन दयाधनास्स्वयमदुर्दत्तात्मनां देशिकाः ॥
 </details>
 
-"The soul or self is different from prakṛti or matter ; greater than the self is the Saviour who is the Ruler (over all); the supreme good of man consists in the surrender of the responsibility of the self to Him; the end (attained thereby) is existence solely for the fulfilment of His purposeś. In these words our spiritual teachers whose sole wealth was their compassion gave us, of their own accord, as a heritage, the (spiritual) wealth divided into three classes (viz, tativa, hita, puruṣārtha), when we had surrendered ourselves to them.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-All these words of mine on the three secrets (mantras) found in the earlier and later chapters) are in accordance with the spiritual tradition of Vedānta Udayana, otherwise called, Madappalli āchān, (the preceptor in charge of the kitchen), (who propagated the truths of Vedānta like Udayana commenting on Tarkaśāstra). Kidambi Appullar made me learn these words like a parrot, just as he had learnt them from his own ācharya (his father). (Therefore ) these words are those that illumined his mind owing to the compassion of the Lord and that were guarded by him without forgetfulness and taught to me without any error.
+इप्-पडि रहस्य-त्रयत्तैप् पऱ्ऱिऩ कीऴुम् मेलुम् उळ्ळ पासुरङ्गळ् ऎल्लाम्  
++++(आत्रेयः किडाम्बि-प्रणतार्तिहरः तार्किकोदयनवद्→)+++ वेदान्तोदयन-संप्रदायम् आऩ +++(भाष्यकार-)+++मडप्+++(=पाक)+++-पळ्ळि+++(=गृहम्)+++  वार्त्तैयै आचार्यऩ् पक्कलिले ताङ् केट्ट् अरुळिऩ बडिये 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि रहस्यत्रयत्तैप्पऱ्ऱिऩ कीऴुम्मेलुमुळ्ळ पासुरङ्गळॆल्लाम् वेदान्तोदयनसंप्रदायमाऩ मडप्पळ्ळि वार्त्तैयै आचार्यऩ् पक्कलिले ताङ्गेट्टरुळिऩबडिये 
+</details>
+
+
+All these words of mine on the three secrets (mantras) found in the earlier and later chapters **are in accordance** with the spiritual tradition of Vedānta Udayana,  
+otherwise **called**, Madappalli āchān, (the **preceptor** in charge of the kitchen),  
+(who **propagated** the truths of Vedānta  
+like Udayana **commenting** on Tarkaśāstra).  
+Kidambi Appullar made me learn these words like a parrot, just as he had learnt them from his own ācharya (his father). (Therefore ) these words are those that illumined his mind owing to the compassion of the Lord and that were guarded by him without forgetfulness and taught to me without any error.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
