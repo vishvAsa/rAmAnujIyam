@@ -1969,7 +1969,7 @@ el śiṣya **debe sentirse seguro** de que el Señor **nunca**, a partir de ent
 इङ्ग् इरुन्द कालम्  
 अपवर्ग-पूर्वरङ्गम् आऩ  
 निरपराधानुकूल-वृत्तियोडे नडप्पद्  
-ऎऩ्ऱु उत्तर-कृत्यत्तैयुम् अरुळिच् चॆय्वर्गळ्। 
+ऎऩ्ऱु उत्तर-कृत्यत्तैयुम् सङ्ग्रह-रुचिगळुक्कुच् सुरुङ्गव्+++(=सङ्क्षिप्य)+++ अरुळिच् चॆय्वर्गळ्। 
 </details>
 
 <details><summary>English</summary>
@@ -1980,6 +1980,9 @@ and free from all **offence**
 and his later life **may become** the prelude to mokṣa. 
 
 They **would teach** their śiṣyas such truths as the above.
+
+Thus he **would teach** the śiṣya  
+what he **should do** after the **surrender** of **responsibility** (bharanyāsa) in as brief a manner as would **suit** the aptitude of the śiṣya.
 </details>
 
 <details><summary>Español</summary>
@@ -1990,26 +1993,39 @@ y libre de toda **ofensa**
 y su vida posterior **puede convertirse** en el preludio de mokṣa. 
 
 Ellos **enseñarían** a sus śiṣyas verdades como las anteriores.
+
+Así él **enseñaría** al śiṣya  
+lo que **debe hacer** después de la **rendición** de **responsabilidad** (bharanyāsa) de una manera tan breve como **se adapte** a la aptitud del śiṣya.
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-इङ्गिरुन्द कालम् अपवर्गपूर्वरङ्गमाऩ निरपराधानुकूलवृत्तियोडे नडप्पदॆऩ्ऱु उत्तरकृत्यत्तैयुम् अरुळिच्चॆय्वर्गळ्। 
+इङ्गिरुन्द कालम् अपवर्गपूर्वरङ्गमाऩ निरपराधानुकूलवृत्तियोडे नडप्पदॆऩ्ऱु उत्तरकृत्यत्तैयुम् सङ्ग्रहरुचिगळुक्कुच् सुरुङ्गवरुळिच्चॆय्वर्गळ्। 
 </details>
 
 
 
 
-Thus he would teach the śiṣya what he should do after the surrender of responsibility (bharanyāsa) in as brief á manner as would suit the aptitude of the śiṣya.
+
+### सङ्ग्रहः
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रत्येयस्तु (प्रत्यग्वस्तु) विलक्षणः प्रकृतितस्त्रातापतिस्तत्पर  
-स्तस्मिन्नात्मभरार्पणं हिततमं तच्छेषवृत्तिः फलम् ।  
-इत्थं तत्त्वहिते पुमर्थ इति नस्त्रेधा विभक्तं धनं  
-दायत्वेन दयाधनास्स्वयमदुर्दत्तात्मनां देशिकाः ॥
+प्रत्यग्-वस्तु विलक्षणः प्रकृतितस्, त्राता पतिस् तत्-परस्,  
+तस्मिन्न् आत्म-भरार्पणं हिततमं, तच्-छेष-वृत्तिः फलम् ।  
+इत्थं तत्त्व-हिते, पुम्-अर्थ इति नस् त्रेधा **विभक्तं** धनं  
+दायत्वेन दया-धनास् स्वयम् **अदुर् दत्तात्मनां देशिकाः** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रत्यग्-वस्तु विलक्षणः प्रकृतितस्, त्राता पतिस् तत्-परस्,  
+तस्मिन्न् आत्म-भरार्पणं हिततमं, तच्-छेष-वृत्तिः फलम् ।  
+इत्थं तत्त्व-हिते, पुम्-अर्थ इति नस् त्रेधा **विभक्तं** धनं  
+दायत्वेन दया-धनास् स्वयम् **अदुर् दत्तात्मनां देशिकाः** ॥
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
