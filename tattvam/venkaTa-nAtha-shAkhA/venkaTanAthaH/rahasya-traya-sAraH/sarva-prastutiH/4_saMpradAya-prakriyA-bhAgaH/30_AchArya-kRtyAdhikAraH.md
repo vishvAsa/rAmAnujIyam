@@ -2026,6 +2026,31 @@ lo que **debe hacer** después de la **rendición** de **responsabilidad** (bhar
 दायत्वेन दया-धनास् स्वयम् **अदुर् दत्तात्मनां देशिकाः** ॥
 </details>
 
+<details><summary>English</summary>
+
+> "The soul or self **is different** from prakṛti or matter ;  
+greater than the self **is** the Saviour  
+who **is** the **Ruler** (over all);  
+the supreme good of man **consists** in the **surrender** of the **responsibility** of the self to Him;  
+the end (attained thereby) **is existence** solely for the **fulfilment** of His purposes.  
+In these words our spiritual **teachers** whose sole wealth **was** their compassion  
+**gave us**, of their own accord, as a heritage,  
+the (spiritual) wealth divided into three classes (viz, tativa, hita, puruṣārtha),  
+when we **had surrendered** ourselves to them.
+</details>
+
+<details><summary>Español</summary>
+
+> "El alma o yo **es diferente** de prakṛti o materia;  
+mayor que uno mismo **es** el Salvador  
+quién **es** el **Gobernante** (sobre todo);  
+el bien supremo del hombre **consiste** en la **entrega** de la **responsabilidad** del yo hacia Él;  
+el fin (alcanzado por ello) **es la existencia** únicamente para el **cumplimiento** de Sus propósitos.  
+En estas palabras nuestros **maestros** espirituales cuya única riqueza **era** su compasión  
+**nos dio**, por su propia voluntad, como herencia,  
+la riqueza (espiritual) dividida en tres clases (a saber, tativa, hita, puruṣārtha),  
+cuando **nos habíamos rendido** a ellos.
+</details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -2035,9 +2060,23 @@ lo que **debe hacer** después de la **rendición** de **responsabilidad** (bhar
 दायत्वेन दयाधनास्स्वयमदुर्दत्तात्मनां देशिकाः ॥
 </details>
 
-"The soul or self is different from prakṛti or matter ; greater than the self is the Saviour who is the Ruler (over all); the supreme good of man consists in the surrender of the responsibility of the self to Him; the end (attained thereby) is existence solely for the fulfilment of His purposeś. In these words our spiritual teachers whose sole wealth was their compassion gave us, of their own accord, as a heritage, the (spiritual) wealth divided into three classes (viz, tativa, hita, puruṣārtha), when we had surrendered ourselves to them.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-All these words of mine on the three secrets (mantras) found in the earlier and later chapters) are in accordance with the spiritual tradition of Vedānta Udayana, otherwise called, Madappalli āchān, (the preceptor in charge of the kitchen), (who propagated the truths of Vedānta like Udayana commenting on Tarkaśāstra). Kidambi Appullar made me learn these words like a parrot, just as he had learnt them from his own ācharya (his father). (Therefore ) these words are those that illumined his mind owing to the compassion of the Lord and that were guarded by him without forgetfulness and taught to me without any error.
+इप्-पडि रहस्य-त्रयत्तैप् पऱ्ऱिऩ कीऴुम् मेलुम् उळ्ळ पासुरङ्गळ् ऎल्लाम्  
++++(आत्रेयः किडाम्बि-प्रणतार्तिहरः तार्किकोदयनवद्→)+++ वेदान्तोदयन-संप्रदायम् आऩ +++(भाष्यकार-)+++मडप्+++(=पाक)+++-पळ्ळि+++(=गृहम्)+++  वार्त्तैयै आचार्यऩ् पक्कलिले ताङ् केट्ट् अरुळिऩ बडिये 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि रहस्यत्रयत्तैप्पऱ्ऱिऩ कीऴुम्मेलुमुळ्ळ पासुरङ्गळॆल्लाम् वेदान्तोदयनसंप्रदायमाऩ मडप्पळ्ळि वार्त्तैयै आचार्यऩ् पक्कलिले ताङ्गेट्टरुळिऩबडिये 
+</details>
+
+
+All these words of mine on the three secrets (mantras) found in the earlier and later chapters **are in accordance** with the spiritual tradition of Vedānta Udayana,  
+otherwise **called**, Madappalli āchān, (the **preceptor** in charge of the kitchen),  
+(who **propagated** the truths of Vedānta  
+like Udayana **commenting** on Tarkaśāstra).  
+Kidambi Appullar made me learn these words like a parrot, just as he had learnt them from his own ācharya (his father). (Therefore ) these words are those that illumined his mind owing to the compassion of the Lord and that were guarded by him without forgetfulness and taught to me without any error.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
