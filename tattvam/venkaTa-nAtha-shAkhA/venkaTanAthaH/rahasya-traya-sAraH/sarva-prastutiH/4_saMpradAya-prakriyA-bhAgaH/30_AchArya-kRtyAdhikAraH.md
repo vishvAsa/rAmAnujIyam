@@ -1262,6 +1262,12 @@ Como **se afirma** en tratados como el anterior, a saber, Sātvata, Bhagavad Git
 सात्त्विकता-ऽऽस्तिक्यादि-गुणङ्गळैय्-उडैयवर् आय्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+शरण्यानुमत्य्-अर्हेभ्यः सात्त्विकतास्तिक्यादि-गुण-शालिभ्यः,
+</details>
+
+
 <details><summary>English</summary>
 
 the ancient ācāryas **would teach** only to those who **had** such qualities as goodness and faith  
@@ -1394,6 +1400,7 @@ serenidad mental **incluso** cuando los objetos del placer sensorial **están** 
 अभिजातस्य भारत॥’’  
 (गीता १६-१, २,३) 
 
+इति
 </details>
 
 <details><summary>English</summary>
@@ -1440,6 +1447,7 @@ y **libertad** de vanidad."
 विष्णु-भक्ति-परो दैवः’’  
 (विष्णुधर्मः १०९-७४) 
 
+इत्य्-उक्त-दैव-प्रकृतिभ्यः,
 </details>
 
 
@@ -1564,6 +1572,12 @@ a él **se le debe enseñar** lo que **desea** sin **pruebas** prolongadas".
 इत्य्-आदिगळिऱ् सॊऩ्ऩ परीक्षादि-मूल--गुण-निश्चय-पूर्वकम् आग 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आद्य्-उक्त-- परीक्षादि-मूलक-- गुण-निश्चय-पूर्वकं 
+</details>
+
+
 <details><summary>English</summary>
 
 Those men with a nature like that of the gods  
@@ -1599,7 +1613,11 @@ como **indicado** en los ślokas anteriores.
 > ‘‘श्रुताद् अन्यत्र +++(अलम् इति)+++  सन्तुष्टस्  
 तत्रैव च कुतूहली’’ ()  
 
+इत्य्-उक्तायाम् अवस्थायाम्  
+अष्ट्कर्णम् उपदिश्य,
+
 </details>
+
 
 <details><summary>English</summary>
 
@@ -1648,6 +1666,8 @@ y que estaba profundamente **deseoso** sólo de **aprender** los śastras.
 अ-ज्ञानञ् चाभिजातस्य  
 पार्थ! सम्पदम् आसुरीम्’’  
 (गीता १६-४) 
+
+इति,
 </details>
 
 <details><summary>English</summary>
@@ -1684,7 +1704,7 @@ Naturalezas asúricas que **tienen**, como posesiones, atributos como los anteri
 
 > ‘‘विपरीतस् तथासुरः’’ () 
 
-
+इति च
 </details>
 
 <details><summary>English</summary>
@@ -1707,6 +1727,12 @@ y "naturalezas asúricas que **son** diferentes"
 जॊल्लप्पट्ट आसुर-प्रकृतिगळुक्कु मऱैत्तु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उक्तेभ्य आसुर-प्रकृतिभ्यो गोपयित्वा 
+</details>
+
+
 <details><summary>English</summary>
 
 ācāryas of olden days **would guard** these secrets from (such asuric natures).
@@ -1726,8 +1752,15 @@ Los ācāryas de la antigüedad **guardaban** estos secretos de (tales naturalez
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सीरिय धनम् उडैयार् सेमित्तु+++(=रक्षित्वा)+++ वाऴुमाप् पोले चरितार्थर् आय् वर्तिप्पार्गळ् पूर्वाचार्यर्गळ्।
+सीरिय+++(=श्रेष्ठ)+++ धनम् उडैयार् सेमित्तु+++(=रक्षित्वा)+++ वाऴुमाप् पोले चरितार्थर् आय् वर्तिप्पार्गळ् पूर्वाचार्यर्गळ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रेष्ठ-धनाः यथा संरक्ष्य जीवन्ति  
+तथा चरितार्था अवर्तन्त पूर्वाचार्याः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1763,15 +1796,23 @@ LA NATURALEZA DE LA ENSEÑANZA : página 630
 
 इवर्गळ् -  
 
-देहेन्द्रियादि-व्यतिरिक्तऩ् आय्  
+> देहेन्द्रियादि-व्यतिरिक्तऩ् आय्  
 नित्यऩ् आय् इरुप्पाऩ् ऒरु आत्माव् उण्डु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एते, 
+
+> 'देहेन्द्रियादि-व्यतिरिक्ततया नित्यतया च अवस्थितः कश्चिद् आत्मा ऽस्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
 (They)
 
-(1) “There **is** a self or ātmā  
+> (1) “There **is** a self or ātmā  
 which **is** eternal and different from the body and the senses. 
 </details>
 
@@ -1779,7 +1820,7 @@ which **is** eternal and different from the body and the senses.
 
 (Ellos)
 
-(1) “**Existe** un yo o ātmā  
+> (1) “**Existe** un yo o ātmā  
 que **es** eterno y diferente del cuerpo y de los sentidos.
 </details>
 
@@ -1791,20 +1832,27 @@ que **es** eterno y diferente del cuerpo y de los sentidos.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इच् चेतनाचेतनङ्गळ् इरण्डुम् ऒऴिय  
+> इच् चेतनाचेतनङ्गळ् इरण्डुम् ऒऴिय  
 इवऱ्ऱुक्क् अन्तर्यामिय् आय्, शेषिय् आय् इरुप्पाऩ् ऒरु परमात्माव् उण्डु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एतच्-चेतनाचेतनोभय-व्यतिरिक्तः  
+एतयोर् अन्तर्यामितया चावस्थितः कश्चित् परमात्मा ऽस्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
-Besides these two viz., the sentient beings and non-sentient things,  
+> Besides these two viz., the sentient beings and non-sentient things,  
 there **is** a Supreme Self who b within all of them as their ruler  
 and who **is** the śeṣī (for whom they **exist**). 
 </details>
 
 <details><summary>Español</summary>
 
-Además de estos dos, a saber, los seres sintientes y las cosas no sintientes,  
+> Además de estos dos, a saber, los seres sintientes y las cosas no sintientes,  
 **Hay** un Yo Supremo que está dentro de todos ellos como su **gobernante**.  
 y quién **es** el śeṣī (para quien **existen**).
 </details>
@@ -1817,22 +1865,36 @@ y quién **es** el śeṣī (para quien **existen**).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप् परमात्मावैय् ऒऴिय  
+> इप् परमात्मावैय् ऒऴिय  
 इव्व्-आत्मावुक्कुत् ताऩुम्, पिऱरुम् रक्षकर् आग-माट्टार् 
 
 ऎऩ्ऱु तत्त्वत्तैयुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एतं परमात्मानं विहाय  
+अस्य जीवात्मनः  
+स्वात्मा परे च रक्षका न भवन्ति
+
+इति तत्त्वम्, 
+</details>
+
+
 <details><summary>English</summary>
 
-Other than this Supreme Self there **is** no one, either oneself or others,  
-that **can protect** the self". - Tattva. 
+> Other than this Supreme Self there **is** no one, either oneself or others,  
+that **can protect** the self". 
+
+\- Tattva. 
 </details>
 
 <details><summary>Español</summary>
 
-Aparte de este Ser Supremo no **hay** nadie, ni uno mismo ni los demás,  
-que **puede proteger** el yo". - Tattva.
+> Aparte de este Ser Supremo no **hay** nadie, ni uno mismo ni los demás,  
+que **puede proteger** el yo". 
+
+\- Tattva.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1851,6 +1913,17 @@ que **puede proteger** el yo". - Tattva.
 
 ऎऩ्ऱु
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अनादेः कालाद्  
+अन्तादि-रूपेण संसरतो दासस्य मम  
+इतः परं यथा कश्चिद् अपि गर्भवासादि-क्लेशो न स्यात्  
+तथा श्री-चरणौ दत्त्वा रक्षा कार्या 
+
+इति 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1883,6 +1956,13 @@ Para que **no tenga sufrimientos** como **habitar** dentro del embrión,
 श्रीमाऩ् आऩ नारायणऩ्-तिरुव्-अडिगळै शरणम् आगप् पऱ्ऱि 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आचार्य-प्रसादित-- गुरु-परम्परा-पूर्वक-द्वयेन  
+श्रीमतो नारायणस्य श्री-चरणौ शरणत्वेनाश्रित्य 
+</details>
+
+
 <details><summary>English</summary>
 
 (With these words) and with the **utterance** of Dvaya ,  
@@ -1913,6 +1993,13 @@ el śiṣya, **se le debe enseñar** a **buscar** los pies de Nārāyaṇa y Śr
 अङ्गे समर्पिप्पद्  
 ऎऩ्ऱु हितत्तैयुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आत्मात्मीयानां तद्-अनुबन्धिनां च तत्र समर्पणं कार्यम्   
+इति हितम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1946,6 +2033,15 @@ Así también **enseñarán** los medios (hita) por los cuales **puede obtenerse
 ऎऩ्गिऱ +++(आश्वासनेन=)+++तेऱ्ऱत्तोडेय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> 'सदाचार्येण प्रदर्श्य व्रतं गृहीतवान् श्रीभगवान्  
+इतः परम् अस्मान् न कथंचिद् अपि त्यजेद्  
+
+इति समाश्वासेन सह 
+</details>
+
+
 <details><summary>English</summary>
 
 when the good acarya has thus **introduced** the śiṣya to the Lord,  
@@ -1969,8 +2065,17 @@ el śiṣya **debe sentirse seguro** de que el Señor **nunca**, a partir de ent
 इङ्ग् इरुन्द कालम्  
 अपवर्ग-पूर्वरङ्गम् आऩ  
 निरपराधानुकूल-वृत्तियोडे नडप्पद्  
-ऎऩ्ऱु उत्तर-कृत्यत्तैयुम् सङ्ग्रह-रुचिगळुक्कुच् सुरुङ्गव्+++(=सङ्क्षिप्य)+++ अरुळिच् चॆय्वर्गळ्। 
+ऎऩ्ऱु उत्तर-कृत्यत्तैयुम्  
+सङ्ग्रह-रुचिगळुक्कुच् सुरुङ्गव्+++(=सङ्क्षिप्य)+++ अरुळिच् चॆय्वर्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इह जीवन-काले ऽपवर्ग-पूर्व-रङ्ग-भूत-- निरपराधानुकूल-वृत्त्या सह वर्तितव्यम्  
+इत्य् उत्तर-कृत्यं च  
+संग्रह-रुचिभ्यः संग्रहेणोपादिशन् ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2060,23 +2165,103 @@ cuando **nos habíamos rendido** a ellos.
 दायत्वेन दयाधनास्स्वयमदुर्दत्तात्मनां देशिकाः ॥
 </details>
 
+## सम्प्रदाय-शुद्धिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि रहस्य-त्रयत्तैप् पऱ्ऱिऩ कीऴुम् मेलुम् उळ्ळ पासुरङ्गळ् ऎल्लाम्  
-+++(आत्रेयः किडाम्बि-प्रणतार्तिहरः तार्किकोदयनवद्→)+++ वेदान्तोदयन-संप्रदायम् आऩ +++(भाष्यकार-)+++मडप्+++(=पाक)+++-पळ्ळि+++(=गृहम्)+++  वार्त्तैयै आचार्यऩ् पक्कलिले ताङ् केट्ट् अरुळिऩ बडिये 
++++(आत्रेयः किडाम्बि-प्रणतार्तिहरः, तार्किकोदयनवद्→)+++ वेदान्तोदयन-संप्रदायम् आऩ +++(तत्र नियुक्तत्वाद् भाष्यकार-)+++मडप्+++(=पाक)+++-पळ्ळि+++(=गृह)+++  वार्त्तैयै 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
-इप्पडि रहस्यत्रयत्तैप्पऱ्ऱिऩ कीऴुम्मेलुमुळ्ळ पासुरङ्गळॆल्लाम् वेदान्तोदयनसंप्रदायमाऩ मडप्पळ्ळि वार्त्तैयै आचार्यऩ् पक्कलिले ताङ्गेट्टरुळिऩबडिये 
+इत्थं रहस्य-त्रय-विषयकाणि पूर्वाणि पराणि च वचांसि सर्वाणि  
++++(प्रसिद्धोदयन-निभ→)+++वेदान्तोदयन- संप्रदाय-भूतां +++(तत्र नियुक्तत्वाद् भाष्यकार-)+++महानस-वार्ताम्  
 </details>
 
+
+<details><summary>English</summary>
 
 All these words of mine on the three secrets (mantras) found in the earlier and later chapters **are in accordance** with the spiritual tradition of Vedānta Udayana,  
 otherwise **called**, Madappalli āchān, (the **preceptor** in charge of the kitchen),  
 (who **propagated** the truths of Vedānta  
 like Udayana **commenting** on Tarkaśāstra).  
-Kidambi Appullar made me learn these words like a parrot, just as he had learnt them from his own ācharya (his father). (Therefore ) these words are those that illumined his mind owing to the compassion of the Lord and that were guarded by him without forgetfulness and taught to me without any error.
+
+</details>
+
+<details><summary>Español</summary>
+
+Todas estas palabras mías sobre los tres secretos (mantras) que **se encuentran** en los capítulos anteriores y posteriores **están de acuerdo** con la tradición espiritual del Vedānta Udayana,  
+de otra manera **llamado**, Madappalli āchān, (el **preceptor** a cargo de la cocina),  
+(quien **propagó** las verdades del Vedānta  
+como Udayana **comentando** sobre Tarkaśāstra).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि रहस्यत्रयत्तैप्पऱ्ऱिऩ कीऴुम्मेलुमुळ्ळ पासुरङ्गळॆल्लाम् वेदान्तोदयनसंप्रदायमाऩ मडप्पळ्ळि वार्त्तैयै 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आचार्यऩ् पक्कलिले ताङ् केट्ट् अरुळिऩ बडिये  
+किडाम्बिय्-अप्-पुळ्ळार्+++(=पक्षि-वर्यः)+++ अडियेऩैक् गिळियैप् पऴक्कु विक्कुमाप् पोले पऴक्कु विक्क 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आचार्य-सन्निधौ स्वयं श्रुत्वा  
+श्री-वादि-हंसाम्बु-दाचार्येषु तथैव दासस्य मम शुकाभ्यास-तुल्यम् अभ्यासं कारितवत्सु सत्सु 
+</details>
+
+<details><summary>English</summary>
+
+Kidambi Appullar **made me learn** these words like a parrot,  
+just as he **had learnt** them from his own ācharya (his father).  
+</details>
+
+<details><summary>Español</summary>
+
+Kidambi Appullar **me hizo aprender** estas palabras como un loro,  
+tal como él **los había aprendido** de su propio ācharya (su padre).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आचार्यऩ् पक्कलिले ताङ्गेट्टरुळिऩ बडिये किडाम्बि यप्पुळ्ळारडियेऩैक् किळियैप् पऴक्कुविक्कुमाप्पोले पऴक्कुविक्क 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवर् तिरुव्-उळ्ळत्तिल् इरक्कम्+++(=दया)+++ अडियागप्  
+पॆरु-माळ् तॆळियप् प्रकाशिप्पित्तु  
+मऱवामऱ् **कात्तुप्**, पिऴैय्+++(=दोष)+++-अऱप् पेसु-वित्त पासुरङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+(Therefore ) these words **are** those that **illumined** his mind **owing** to the compassion of the Lord  
+and that **were guarded** by him without forgetfulness  
+and **taught** to me without any error.
+</details>
+
+<details><summary>Español</summary>
+
+(Por tanto) estas palabras **son** las que **iluminaron** su mente **debido** a la compasión del Señor  
+y que **fueron custodiadas** por él sin olvido  
+y **me enseñó** sin ningún error.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवर् तिरुवुळ्ळत्तिलिरक्क मडियागप् पॆरुमाळ् तॆळियप् प्रकाशिप्पित्तु मऱवामऱ्कात्तुप् पिऴैयऱप् पेसुवित्त पासुरङ्गळ्।
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
