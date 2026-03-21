@@ -1,9 +1,8 @@
 +++
-title = "३१ शिष्यकृत्याधिकारः"
+title = "३१ शिष्य-कृत्याधिकारः"
 
 +++
 
-## प्रवेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीः ॥  
@@ -30,6 +29,7 @@ title = "३१ शिष्यकृत्याधिकारः"
 
 
 
+## कृत्य-सङ्ग्रहः
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -54,6 +54,29 @@ title = "३१ शिष्यकृत्याधिकारः"
 </details>
 
 
+<details><summary>English</summary>
+
+The śiṣya or disciple **should be** staunch in his **devotion** to the guru;  
+he **should be intent** on **doing** such things as **extending** the **renown** (of his guru) (and **rendering service** to him);  
+he **should have** the greatest **regard** for such things as his guru's property and his house,  
+he **should guard** the spiritual tradition  
+in order to hand it on to another who **is** worthy;  
+the śiṣya who **is** grateful and **is** perfect in his **performance** (of the ordained rites)  
+**is** he not sure to **attain** the treasure (viz.) Bhagavān ?
+</details>
+
+<details><summary>Español</summary>
+
+El śiṣya o discípulo **debe ser** firme en su **devoción** al gurú;  
+él **debe tener** la **intención** de **hacer** cosas tales como **extender** el **renombre** (de su gurú) (y **prestarle servicio**);  
+él **debe tener** el mayor **respeto** por cosas tales como la propiedad de su gurú y su casa,  
+él **debe guardar** la tradición espiritual  
+para **pasárselo** a otro que **sea** digno;  
+el śiṣya que **es** agradecido y **es** perfecto en su **ejecución** (de los ritos ordenados)  
+**¿No está seguro** de **alcanzar** el tesoro (a saber) Bhagavān?
+</details>
+
+
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 अशिथिलगुरुभक्तिस्तत्प्रशंसादिशीलः  
@@ -62,15 +85,338 @@ title = "३१ शिष्यकृत्याधिकारः"
 कृतविदनघवृत्तिः किन्न विन्देन्निधानम् ॥ ७१ ॥
 </details>
 
-The śiṣya or disciple should be staunch in his devotion to the guru; he should be intent on doing such things as extending the renown (of his guru) (and rendering service to him); he should have the greatest regard for such things as his guru's property and his house, he should guard the spiritual tradition in order to hand it on to another who is worthy; the śiṣya who is grateful and is perfect in his performance (of the ordained rites) is he not sure to attain the treasure (viz.) Bhagavān ?
 
-THE SERVICE RENDERED BY THE ŚIṢYA TO THE
+## उपकार-प्रज्ञा
+<details><summary>English</summary>
 
-GURU IS IN NO WAY A RECOMPENSE:
+THE SERVICE RENDERED BY THE ŚIṢYA TO THE GURU  
+IS IN NO WAY A RECOMPENSE:
 
-The śāstras say that since the ācārya reveals the meanings (and mysteries) of religion like one who reveals to a poor man the existence of a great treasure within his house, the śiṣya should feel grateful to the ācharya, who is the great benefactor, and never do anything against his interests. The śāstras declare that the śiṣya should behave in this way) merely in order that he may not be looked upon with contempt by (those who are in) the two vibhūtis (i,e.) this world, the līlā vibhūti and the region of eternal glory (nitya vibhūti) and by the Lord who has these (two) vibhūtis. (They give this advice) in order that the (śiṣya) may not resemble such men as Hiranya and Ravana who did evil to Prahlāda and Vibhishana for giving the wholesome advice. It has been stated:- "The man who steals learning ( by listening to the ācārya without his permission and in hiding, the man who does evil to his guru, and the man who speaks ill of the Vedas and of the Lord who rules over all these men, the śrutis declare, should be punished at once". So when the śiṣya is asked to behave properly to the guru, it is not to say that, by doing so, he will make due requital or recompense (for what the guru has done to him), but that he would then avoid the evil consequences for himself (referred to above).
+</details>
 
-It is said: "The śiṣya should surrender his body, his property and his life-breath to his guru", and likewise it is said, “The śiṣya should give his guru as dakṣina the whole of his wealth or one half of it or one fourth of it. If he is unable to do so, he should give whatever he can." These ślokas state only some of the duties of the śiṣya like prostration (namaskars) and salutation (abhivadana). They do not consider this gift as a requital or recompense to the ācārya, who does not expect any such return and imparts instruction merely as a matter of duty; for it is said: “The guru should teach out of compassion and without any desire (for profit)".
+<details><summary>Español</summary>
+
+EL SERVICIO **PRESTADO** POR EL ŚIṢYA AL GURU  
+DE NINGUNA MANERA **ES** UNA **RECOMPENSA**:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थङ्गळैय् ऎल्लाम्  
+मिडियऩुक्कु+++(=दरिद्राय)+++ अगत्तुक्क्+++(=गृहस्य)+++ उळ्ळे महा-निधियैक् काट्टिक् कॊडुक्कुमाप् पोले  
+वॆळिय् इडुगैयाले  
+महोपकारकऩ् आऩव् आचार्यऩ् +तिऱत्तिल्+++(=विषये)+++  
+</details>
+
+<details><summary>English</summary>
+
+The śāstras **say** that since the ācārya **reveals** the meanings (and mysteries) of religion  
+like one who **reveals** to a poor man the **existence** of a great treasure within his house,  
+to the ācharya who **is** the great benefactor, 
+</details>
+
+<details><summary>Español</summary>
+
+Los śāstras **dicen** que dado que el ācārya **revela** los significados (y misterios) de la religión  
+como quien **revela** a un pobre la **existencia** de un gran tesoro dentro de su casa,  
+al ācharya que **es** el gran benefactor,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थङ्गळैयॆल्लाम् मिडियऩुक्कु अगत्तुक्कुळ्ळे महानिधियैक् काट्टिक्कॊडुक्कुमाप्पोले वॆळियिडुगैयाले महोपकारकऩाऩ वाचार्यऩ्ऱिऱत्तिल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शिष्यऩ् कृत-ज्ञऩ् आय् इरुक्क वेणुम्  
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+the śiṣya **should feel** grateful,  
+</details>
+
+<details><summary>Español</summary>
+
+el śiṣya **debería sentirse** agradecido,
+</details>
+
+<details><summary>मूलम्</summary>
+
+शिष्यऩ् कृतज्ञऩायिरुक्कवेणुमॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्रोहम् पण्णाद् ऒऴिय वेणुम् ऎऩ्ऱुम्,  
+शास्त्रङ्गळ् सॊऩ्ऩव् इडम्  
+</details>
+
+<details><summary>English</summary>
+
+and **never do** anything against his interests.  
+The śāstras declare that the śiṣya **should behave** in this way 
+</details>
+
+<details><summary>Español</summary>
+
+y **nunca haga** nada en contra de sus intereses.  
+Los śāstras **declaran** que el śiṣya **debe comportarse** de esta manera
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्रोहम् पण्णादॊऴियवेणुमॆऩ्ऱुम्, शास्त्रङ्गळ् सॊऩ्ऩव् इडम्  
+</details>
+
+### अ-धिक्-कारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरण्डु विभूतियुम्, विभूतिमाऩुम् 
+इवऩैच् "चीच् चीय्" ऎऩ्ऩुम् बडियुम् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+— he **may be looked** upon with contempt by (those who are in) the two vibhūtis (i,e.) this world, the līlā vibhūti and the region of eternal glory (nitya vibhūti) and  
+by the Lord who **has** these (two) vibhūtis. 
+</details>
+
+<details><summary>Español</summary>
+
+— **sea visto** con desprecio por (aquellos que **están** en) los dos vibhūtis (es decir,) este mundo, el līlā vibhūti y la región de gloria eterna (nitya vibhūti) y  
+por el Señor que **tiene** estos (dos) vibhūtis.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रङ्गळ् सॊऩ्ऩविडम् इरण्डु विभूतियुम् विभूतिमाऩुम् इवऩैच् चीच्चीयॆऩ्ऩुम्बडियुमाय्, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हितञ् जॊऩ्ऩ प्रह्लाद-विभीषणादिगळुक्कु प्रतिकूलर् आऩ हिरण्य-रावणादिगळोडु तुल्यऩुम् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+— that the (śiṣya) **may resemble** such men as Hiranya and Ravana  
+who **did** evil to Prahlāda and Vibhishana  
+for **giving** the wholesome advice. 
+</details>
+
+<details><summary>Español</summary>
+
+— que el (śiṣya) **puede parecerse** a hombres como Hiranya y Ravana  
+quien **hizo** mal a Prahlāda y Vibhishana  
+por **dar** el saludable **consejo**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+हितञ् जॊऩ्ऩ प्रह्लाद विभीषणादिगळुक्कु प्रतिकूलराऩ हिरण्यरावणादिगळोडु तुल्यऩुमाय्, 
+</details>
+
+### अ-दण्ड्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १‘‘विद्या-चोरो गुरु-द्रोही  
+वेदेश्वर-विदूषकः ।  
+त एते बहु-पाप्मानस्  
+सद्यो **दण्ड्या** इति श्रुतिः॥’’  
+() 
+
+ऎऩ्गिऱ पडिये दण्ड्यऩुम्  
+आगामैक्कागव् अत्तऩै; 
+</details>
+
+<details><summary>English</summary>
+
+It **has been stated**:- 
+
+> "The man who **steals learning**  
+by **listening** to the ācārya without his **permission** and in **hiding**,  
+the man who **does** evil to his guru,  
+and the man who **speaks** ill of the Vedas  
+and of the Lord who **rules** over all these men,  
+the śrutis **declare**, **should be punished** at once".  
+
+(In this way, the śiṣya **may be punishable**.)
+
+So when the śiṣya **is asked to behave** properly to the guru,  
+(it is to say that) he **would then avoid** the evil consequences for himself (**referred** to above).
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**:- 
+
+> "El hombre que **roba el aprendizaje**  
+**escuchando** al ācārya sin su **permiso** y **escondiéndose**,  
+el hombre que **le hace** mal a su gurú,  
+y el hombre que **habla** mal de los Vedas  
+y del Señor que **gobierna** sobre todos estos hombres,  
+los śrutis **declaran**, **deben ser castigados** de inmediato".  
+
+(De esta manera, el śiṣya **puede ser castigado**.)
+
+Entonces, cuando al śiṣya **se le pide que se comporte** apropiadamente con el guru,  
+(es decir que) él **entonces evitaría** las malas consecuencias para sí mismo (**mencionadas** anteriormente).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१‘‘विद्याचोरो गुरुद्रोही वेदेश्वरविदूषकः । त एते बहुपाप्मानस्सद्यो दण्ड्या इति श्रुतिः’’() ऎऩ्गिऱ पडिये दण्ड्यऩुमागामैक्कागवत्तऩै; 
+</details>
+
+
+### न प्रत्युपकाराय
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्युपकारञ् जॊऩ्ऩ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+It **is not to say** that, by **doing** so, he **will make** due **requital** or **recompense** (for what the guru **has done** to him).
+</details>
+
+<details><summary>Español</summary>
+
+**No quiere decir** que, al **hacer** eso, él **hará** la debida **retribución** o **recompensa** (por lo que el gurú **le ha hecho**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रत्युपकारञ् जॊऩ्ऩबडियऩ्ऱु। 
+</details>
+
+## दक्षिणादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> २‘‘शरीरम् अर्थं प्राणं च  
+सद्-गुरुभ्यो निवेदयेत्।’’  
+(विहगेश्वर-संहिता) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> २‘‘शरीरम् अर्थं प्राणं च  
+सद्-गुरुभ्यो निवेदयेत्।’’  
+(विहगेश्वर-संहिता) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+It **is said**: 
+
+> "The śiṣya **should surrender** his body, his property and his life-breath to his guru", 
+</details>
+
+<details><summary>Español</summary>
+
+**Se dice**: 
+
+> "El śiṣya **debe entregar** su cuerpo, sus propiedades y su aliento vital a su gurú",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+२‘‘शरीरमर्थं प्राणं च सद्गुरुभ्यो निवेदयेत्’’(विहगेश्वर-संहिता) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ३‘‘सर्व-स्वं वा तद्-अर्धं वा  
+तद्-अर्धार्धार्धम् एव वा ।  
+गुरवे दक्षिणां **दद्याद्**  
+यथा-शक्त्य् अपि वा पुनः॥’’ ()  
+
+ऎऩ्ऱुम् इप्-पुडैगळिऱ् सॊल्लुगिऱ् अवैयुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ३‘‘सर्व-स्वं वा तद्-अर्धं वा  
+तद्-अर्धार्धार्धम् एव वा ।  
+गुरवे दक्षिणां **दद्याद्**  
+यथा-शक्त्य् अपि वा पुनः॥’’ ()  
+
+</details>
+
+<details><summary>विषयः</summary>
+
+गुरु-दक्षिणा
+</details>
+
+<details><summary>English</summary>
+
+and likewise it **is said**, 
+
+> “The śiṣya **should give** his guru as dakṣina  
+the whole of his wealth  
+or one half of it  
+or one eighth ~~fourth~~ of it.  
+If he **is unable** to do so,  
+he **should give** whatever he can." 
+</details>
+
+<details><summary>Español</summary>
+
+y así mismo **se dice**, 
+
+> “El śiṣya **debe dar** a su guru como dakṣina  
+toda su riqueza  
+o la mitad  
+o un octavo del mismo.  
+Si **no puede** hacerlo,  
+él **debería dar** todo lo que pueda".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+३‘‘सर्वस्वं वा तदर्धं वा तदर्धार्धार्धमेव वा । गुरवे दक्षिणां दद्याद्यथाशक्त्यपि वा पुनः’’() ऎऩ्ऱुमिप्पुडैगळिऱ् सॊल्लुगिऱवैयुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणिपाताभिवादनादिगळैप् पोले  
+इवऩुक्कुच् चिल कर्तव्यङ्गळैच् चॊल्लिऱ्ऱ् अत्-तऩै
+</details>
+
+<details><summary>English</summary>
+
+These ślokas **state** only some of the duties of the śiṣya like **prostration** (namaskara) and **salutation** (abhivadana). 
+</details>
+
+<details><summary>Español</summary>
+
+Estos ślokas **establecen** sólo algunos de los deberes del śiṣya como la **postración** (namaskara) y el **saludo** (abhivadana).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रणिपाताभिवादनादिगळैप्पोले इवऩुक्कुच् चिल कर्तव्यङ्गळैच् चॊल्लिऱ्ऱत्तऩै
+</details>
+
+
+They do not consider this gift as a requital or recompense to the ācārya, who does not expect any such return and imparts instruction merely as a matter of duty; for it is said: “The guru should teach out of compassion and without any desire (for profit)".
 
 When it is stated in the Vedāntas that the śiṣya should behave towards the guru as towards Bhagavān (Himself) and should have as devoted an affection to the guru as to the Lord, when it is said, “The śiṣya should never misbehave either with the mind or with the speech or with the body and should behave towards him as if he is not different or separate from himself" and further, “The śiṣya should adore the ācārya as he does Bhagavān "--when writers like Śāṇḍilya and Apastamba say so, they do not prescribe the offer of a fee or recompense. They give the advice merely in order that the śiṣya who has the śāstra for his eyes may not become blind of vision with eyes wide open, and in order that he, poor from his birth onward, may not lose this (blissful) experience which resembles the (blissful) experience of Bhagavān. That all this is no fee or recompense (to the guru) has been declared by Śāṇḍilya Bhagavān in the following śloka : “Even the gods cannot make a recompense for the gift of the knowledge of God. The śiṣya should (therefore) give whatever lies in his power to the ācārya who has given him (this) instruction." When it is said " whatever lies in his power", it means that it should be given as an outlet for his affection and regard. The śiṣya should, on no account, consider himself as having thereby recompensed his guru.
 
