@@ -204,168 +204,172 @@ Please write to us to correct any mistakes in our understanding and in our trans
 
 ## 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-## upadhESa raththina mAlai – Audio
+upadhESa raththina mAlai – Audio
 SrI: SrImathE satakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE nama:
 
 [![mamunigal-srirangam](https://divyaprabandham.koyil.org/wp-content/uploads/2015/05/mamunigal-srirangam.jpg)](https://divyaprabandham.koyil.org/wp-content/uploads/2015/05/mamunigal-srirangam.jpg)[maNavALa mAmunigaL](http://acharyas.koyil.org/index.php/mamunigal/) as giving divine dharshan at srIrangam
 
 **[Meanings](https://divyaprabandham.koyil.org/index.php/2015/11/upadhesa-raththina-malai/)**
 
-#### [Full rendering](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-full)
+[Full rendering](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-full)
 
-#### [thaniyan](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-thaniyan)
+[thaniyan](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-thaniyan)
 
-#### [pAsuram 1](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-01)
+[pAsuram 1](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-01)
 
-#### [pAsuram 2](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-02)
+[pAsuram 2](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-02)
 
-#### [pAsuram 3](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-03)
+[pAsuram 3](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-03)
 
-#### [pAsuram 4](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-04)
+[pAsuram 4](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-04)
 
-#### [pAsuram 5](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-05)
+[pAsuram 5](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-05)
 
-#### [pAsuram 6](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-06)
+[pAsuram 6](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-06)
 
-#### [pAsuram 7](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-07)
+[pAsuram 7](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-07)
 
-#### [pAsuram 8](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-08)
+[pAsuram 8](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-08)
 
-#### [pAsuram 9](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-09)
+[pAsuram 9](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-09)
 
-#### [pAsuram 10](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-10)
+[pAsuram 10](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-10)
 
-#### [pAsuram 11](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-11)
+[pAsuram 11](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-11)
 
-#### [pAsuram 12](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-12)
+[pAsuram 12](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-12)
 
-#### [pAsuram 13](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-13)
+[pAsuram 13](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-13)
 
-#### [pAsuram 14](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-14)
+[pAsuram 14](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-14)
 
-#### [pAsuram 15](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-15)
+[pAsuram 15](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-15)
 
-#### [pAsuram 16](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-16)
+[pAsuram 16](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-16)
 
-#### [pAsuram 17](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-17)
+[pAsuram 17](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-17)
 
-#### [pAsuram 18](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-18-new)
+[pAsuram 18](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-18-new)
 
-#### [pAsuram 19](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-19)
+[pAsuram 19](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-19)
 
-#### [pAsuram 20](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-20)
+[pAsuram 20](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-20)
 
-#### [pAsuram 21](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-21)
+[pAsuram 21](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-21)
 
-#### [pAsuram 22](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-22)
+[pAsuram 22](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-22)
 
-#### [pAsuram 23](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-23)
+[pAsuram 23](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-23)
 
-#### [pAsuram 24](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-24)
+[pAsuram 24](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-24)
 
-#### [pAsuram 25](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-25)
+[pAsuram 25](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-25)
 
-#### [pAsuram 26](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-26)
+[pAsuram 26](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-26)
 
-#### [pAsuram 27](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-27)
+[pAsuram 27](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-27)
 
-#### [pAsuram 28](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-28)
+[pAsuram 28](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-28)
 
-#### [pAsuram 29](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-29)
+[pAsuram 29](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-29)
 
-#### [pAsuram 30](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-30)
+[pAsuram 30](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-30)
 
-#### [pAsuram 31](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-31)
+[pAsuram 31](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-31)
 
-#### [pAsuram 32](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-32)
+[pAsuram 32](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-32)
 
-#### [pAsuram 33](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-33)
+[pAsuram 33](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-33)
 
-#### [pAsuram 34](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-34)
+[pAsuram 34](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-34)
 
-#### [pAsuram 35](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-35)
+[pAsuram 35](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-35)
 
-#### [pAsuram 36](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-36)
+[pAsuram 36](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-36)
 
-#### [pAsuram 37](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-37)
+[pAsuram 37](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-37)
 
-#### [pAsuram 38](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-38)
+[pAsuram 38](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-38)
 
-#### [pAsuram 39](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-39)
+[pAsuram 39](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-39)
 
-#### [pAsuram 40](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-40)
+[pAsuram 40](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-40)
 
-#### [pAsuram 41](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-41)
+[pAsuram 41](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-41)
 
-#### [pAsuram 42](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-42)
+[pAsuram 42](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-42)
 
-#### [pAsuram 43](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-43-new)
+[pAsuram 43](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-43-new)
 
-#### [pAsuram 44](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-44)
+[pAsuram 44](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-44)
 
-#### [pAsuram 45](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-45)
+[pAsuram 45](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-45)
 
-#### [pAsuram 46](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-46)
+[pAsuram 46](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-46)
 
-#### [pAsuram 47](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-47)
+[pAsuram 47](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-47)
 
-#### [pAsuram 48](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-48)
+[pAsuram 48](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-48)
 
-#### [pAsuram 49](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-49)
+[pAsuram 49](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-49)
 
-#### [pAsuram 50](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-50)
+[pAsuram 50](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-50)
 
-#### [pAsuram 51](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-51)
+[pAsuram 51](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-51)
 
-#### [pAsuram 52](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-52)
+[pAsuram 52](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-52)
 
-#### [pAsuram 53](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-53)
+[pAsuram 53](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-53)
 
-#### [pAsuram 54](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-54)
+[pAsuram 54](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-54)
 
-#### [pAsuram 55](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-55-new)
+[pAsuram 55](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-55-new)
 
-#### [pAsuram 56](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-56)
+[pAsuram 56](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-56)
 
-#### [pAsuram 57](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-57)
+[pAsuram 57](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-57)
 
-#### [pAsuram 58](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-58)
+[pAsuram 58](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-58)
 
-#### [pAsuram 59](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-59)
+[pAsuram 59](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-59)
 
-#### [pAsuram 60](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-60)
+[pAsuram 60](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-60)
 
-#### [pAsuram 61](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-61)
+[pAsuram 61](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-61)
 
-#### [pAsuram 62](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-62)
+[pAsuram 62](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-62)
 
-#### [pAsuram 63](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-63)
+[pAsuram 63](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-63)
 
-#### [pAsuram 64](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-64)
+[pAsuram 64](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-64)
 
-#### [pAsuram 65](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-65)
+[pAsuram 65](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-65)
 
-#### [pAsuram 66](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-66)
+[pAsuram 66](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-66)
 
-#### [pAsuram 67](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-67)
+[pAsuram 67](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-67)
 
-#### [pAsuram 68](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-68)
+[pAsuram 68](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-68)
 
-#### [pAsuram 69](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-69)
+[pAsuram 69](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-69)
 
-#### [pAsuram 70](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-70)
+[pAsuram 70](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-70)
 
-#### [pAsuram 71](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-71)
+[pAsuram 71](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-71)
 
-#### [pAsuram 72](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-72)
+[pAsuram 72](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-72)
 
-#### [pAsuram 73](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-73)
+[pAsuram 73](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-73)
 
-#### [Additional pAsuram rendered by eRumbi appA (Usually recited once at the end)](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-74)
+[Additional pAsuram rendered by eRumbi appA (Usually recited once at the end)](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-74)
 
   
 pAsurams rendered by azhagiya maNavALa rAmAnuja dhAsan
+
+</details>
+
 
 ## Introduction
 SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE nama:
@@ -512,7 +516,7 @@ srImath varavaramunayE nama:
 *than anbudan sey upadhEsa raththinamAlai thannaith*  
 *than nenju thannil tharippavar thALgaL charaN namakkE*
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-thaniyan)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-thaniyan)
 
 **Word by word meaning:**
 
@@ -661,7 +665,7 @@ srImath varavaramunayE nama:
 *pinnavarum kaRka upadhEsamAyp pEsuginREn*  
 *manniya seer veNpAvil vaiththu* 1
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-01)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-01)
 
 **Word by word meaning**
 
@@ -740,7 +744,7 @@ srImath varavaramunayE nama:
 *mAchcharyaththAl igazhil vandhadhen nenjE igazhgai*  
 *AchcharyamO thAnavarkku* 2
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-02)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-02)
 
 **Word by word meaning:**
 
@@ -808,7 +812,7 @@ srImath varavaramunayE nama:
 *uyya avargaL uraiththavaigaL thAm vAzhi*  
 *seyya maRai thannudanE sErndhu* 3
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-03)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-03)
 
 **Word by word meaning**
 
@@ -895,7 +899,7 @@ srImath varavaramunayE nama:
 *nAthan anbar thAL thULi naRpANan naRkaliyan*  
 *eedhivar thORRaththu adaivAm ingu 4*
 
-#### [pAsuram 4](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-04)
+[pAsuram 4](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-04)
 
 **Word by word meaning**
 
@@ -994,7 +998,7 @@ srImath varavaramunayE nama:
 *mAthangaL nALgaL thammai maNNulagOr thAm aRiya*  
 *eethenRu solluvOm yAm*  5
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-05)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-05)
 
   
 **Word by word meaning**
@@ -1076,7 +1080,7 @@ srImath varavaramunayE nama:
 *pEsu pugazhp poigaiyAr bhUthaththAr pEyAzhvAr*  
 *thEsudanE thOnRu siRappAl* 6
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-06)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-06)
 
   
 **Word by word meaning0**
@@ -1157,7 +1161,7 @@ srImath varavaramunayE nama:
 *enRu mudhal AzhvArgaL ennum peyar ivarkku*  
 *ninRadhu ulagaththE nighazhndhu * 7
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-07)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-07)
 
   
 **Word by word meaning**
@@ -1225,7 +1229,7 @@ srImath varavaramunayE nama:
 *vAyththa pugazh mangaiyar kOn mAnilaththil vandhu udhiththa*  
 *kArththikaiyil kArththikai nAL kAN 8*
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-08)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-08)
 
   
 **Word by word meaning**
@@ -1306,7 +1310,7 @@ srImath varavaramunayE nama:
 *kArththikaiyil kArththikai nAL inRenRu kAdhalippAr*  
 *vAyththa malarth thALgaL nenjE vAzhththu.* 9
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-09)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-09)
 
   
 **Word by word meaning**
@@ -1412,7 +1416,7 @@ srImath varavaramunayE nama:
 *anbudanE thAn amalanAdhipirAn kaRRadhar pin*  
 *nangudanE koNdAdum nAL* 10
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-10)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-10)
 
   
 **Word by word meaning**
@@ -1495,7 +1499,7 @@ srImath varavaramunayE nama:
 *mAmaRaiyOn thoNdaradippodi AzhvAr piRappAl*  
 *nAnmaRaiyOr koNdAdum nAL.* 11
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-11)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-11)
 
   
 **Word by word meaning**
@@ -1589,7 +1593,7 @@ srImath varavaramunayE nama:
 *peRRa mazhisaip pirAn piRandha nAL enRu*  
 *naRRavargaL koNdAdum nAL* 12
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-12)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-12)
 
   
 **Word by word meaning**
@@ -1691,7 +1695,7 @@ srImath varavaramunayE nama:
 *kolli nagark kOn kulasEkaran piRappAl*  
 *nallavargaL koNdAdum nAL* 13
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-13)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-13)
 
   
 **Word by word meaning**
@@ -1804,7 +1808,7 @@ srImath varavaramunayE nama:
 *vEdham thamizh seydha meyyan ezhil kurugai*  
 *nAthan avadhariththa nAL* 14
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-14)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-14)
 
   
 **Word by word meaning**
@@ -1892,7 +1896,7 @@ srImath varavaramunayE nama:
 *oru pAr thanil okkum Ur*
 15
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-15)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-15)
 
 **Word by word meaning**
 
@@ -1993,7 +1997,7 @@ SrImath varavaramunayE nama:
 *nal Anilyil sOdhi nAL*
 16
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-16)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-16)
 
 **Word by word meaning**
 
@@ -2066,7 +2070,7 @@ SrImath varavaramunayE nama:
 *eppozhudhum (eppOdhum) sindhiththu iru.*
 17
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-17)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-17)
 
 **Word by word meaning**
 
@@ -2142,7 +2146,7 @@ SrImath varavaramunayE nama:
 *parivAlE villipuththUr pattar pirAn peRRAn*  
 *periyAzhvAr ennum peyar* 18
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-18-new)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-18-new)
 
 **Word by word meaning**
 
@@ -2217,7 +2221,7 @@ SrImath varavaramunayE nama:
 *thAn mangalamAdhalAl*
 19
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-19)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-19)
 
 **Word by word meaning**
 
@@ -2293,7 +2297,7 @@ SrImath varavaramunayE nama:
 *seydhu aruLum AzhvArgaL thammil avar sey kalaiyil*  
 *paidhal nenjE nee uNarndhu pAr* 20
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-20)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-20)
 
 **Word by word meaning**
 
@@ -2375,7 +2379,7 @@ SrImath varavaramunayE nama:
 *vandhu udhiththa mAthangAL nALgaL thammin vAsiyaiyum*  
 *indha ulagOrkku uraippOm yAm* 21
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-21)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-21)
 
 **Word by word meaning**
 
@@ -2470,7 +2474,7 @@ SrImath varavaramunayE nama:
 *AzhvAr thirumagaLArAi           
 * 22
 
-#### [Liten](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-22)
+[Liten](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-22)
 
 **Word by word meaning**
 
@@ -2528,7 +2532,7 @@ SrImath varavaramunayE nama:
 *uNdO manamE uNarndhu pAr ANdALukku*  
 *uNdAgil oppu itharkum uNdu* 23
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-23)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-23)
 
 **Word by word meaning**
 
@@ -2595,7 +2599,7 @@ SrImath varavaramunayE nama:
 *pazhuththALai ANdALaip paththiyudan nALum*  
 *vazhuththAi manamE magizhndhu.* 24
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-24)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-24)
 
   
 **Word by word meaning**
@@ -2675,7 +2679,7 @@ SrImath varavaramunayE nama:
 *maRRuLLa AzhvArgaL vandhu udhiththa nALgaLilum*  
 *uRRadhu emakku enRu nenjE Or.* 25
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-25)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-25)
 
 **Word by word meaning**
 
@@ -2750,7 +2754,7 @@ SrImath varavaramunayE nama:
 *AriyargaL thAngaL aruLichchyal naduvE*  
 *sErviththAr thARpariyam thErndhu.* 26
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-26)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-26)
 
   
 **Word by word meaning  **
@@ -2837,7 +2841,7 @@ SrImath varavaramunayE nama:
 *nARRisaiyum koNdAdum nAL.
 27*
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-27)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-27)
 
 **Word by word meaning**
 
@@ -2917,7 +2921,7 @@ SrImath varavaramunayE nama:
 *seyya thiruvAdhirai*
 28
 
-#### [pAsuram 28](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-28)
+[pAsuram 28](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-28)
 
 **Word by word meaning**
 
@@ -3012,7 +3016,7 @@ SrImath varavaramunayE nama:
 *oruvAmal eppozhudum Or
 *29
 
-#### [pAsuram 29](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-29)
+[pAsuram 29](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-29)
 
 **Word by word meaning**
 
@@ -3080,7 +3084,7 @@ SrImath varavaramunayE nama:
 *Ongum uRaiyUr pANan Ur*
 30
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-30)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-30)
 
 **Word by word meaning**
 
@@ -3179,7 +3183,7 @@ SrImath varavaramunayE nama:
 *vAyththa thiruvanchikkaLam*
 31
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-31)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-31)
 
 **Word by word meaning**
 
@@ -3238,7 +3242,7 @@ SrImath varavaramunayE nama:
 *vAyndhu udhiththa UrgaL vagai*
 32
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-32)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-32)
 
 **Word by word meaning**
 
@@ -3322,7 +3326,7 @@ SrImath varavaramunayE nama:
 *madhiyArum ANdAL madhurakavi AzhvAr*  
 *ethirAsar thOnRiya Ur ingu* 33
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-33)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-33)
 
 **Word by word meaning**
 
@@ -3403,7 +3407,7 @@ SrImath varavaramunayE nama:
 *uyya avargaL sey(dha) vyAkkiyaigaL uLLadhellAm*  
 *vaiyam aRiyap pagarvOm vAyndhu* 34
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-34)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-34)
 
 **Word by word meaning**
 
@@ -3493,7 +3497,7 @@ SrImath varavaramunayE nama:
 *enRu ninaiththu nenjE eppozhudum nee avar pAl*  
 *chenRu aNugak kUsith thiri.* 35
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-35)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-35)
 
 **Word by word meaning**
 
@@ -3576,7 +3580,7 @@ SrImath varavaramunayE nama:
 *nAthamuni mudhalAm nam thEsikarai allAl*  
 *pEthai manamE uNdO pEsu.* 36
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-36)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-36)
 
 **Word by word meaning**
 
@@ -3696,7 +3700,7 @@ SrImath varavaramunayE nama:
 *Asai udaiyOrkkellAm AriyargAL kURum enRu*  
 *pEsi varambu aRuththAr pin* 37
 
-#### [pAsuram 37](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-37)
+[pAsuram 37](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-37)
 
 **Word by word meaning**
 
@@ -3800,7 +3804,7 @@ SrImath varavaramunayE nama:
 *andhach cheyal aRigaikkA.*
 38
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-38)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-38)
 
 **Word by word meaning**
 
@@ -3862,7 +3866,7 @@ SrImath varavaramunayE nama:
 *maNavALa yOgi thiruvAimozhiyaik kAththa*  
 *guNavALar enRu nenjE kURu.* 39
 
-#### [pAsuram 39](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-39)
+[pAsuram 39](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-39)
 
 **Word by word meaning**
 
@@ -3936,7 +3940,7 @@ SrImath varavaramunayE nama:
 *thiruvAimozhip poruLai thErndhu uraikka valla*  
 *guruvAr ikkAlam nenjE kUru.* 40
 
-#### [pAsuram 40](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-40)
+[pAsuram 40](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-40)
 
 **Word by word meaning**
 
@@ -4014,7 +4018,7 @@ SrImath varavaramunayE nama:
 *inbamigum ARAyiram.*
 41
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-41)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-41)
 
 **Word by word meaning**
 
@@ -4091,7 +4095,7 @@ SrImath varavaramunayE nama:
 *Er onbadhinAyiram.*
 42
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-42)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-42)
 
 **Word by word meanings**
 
@@ -4159,7 +4163,7 @@ SrImath varavaramunayE nama:
 *irupaththu nAlAyiram.*
 43
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-43-new)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-43-new)
 
 **Word by word meaning**
 
@@ -4226,7 +4230,7 @@ SrImath varavaramunayE nama:
 *eedu muppaththARayiram.*
 44
 
-#### [pAsuram 44](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-44)
+[pAsuram 44](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-44)
 
 **Word by word meaning**
 
@@ -4297,7 +4301,7 @@ SrImath varavaramunayE nama:
 *Edhamil panneerAyiram.*
 45
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-45)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-45)
 
 **Word by word meaning**
 
@@ -4411,7 +4415,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *vaiya kuruvin thambi mannu maNavALamuni*  
 *seyyumavai thAmum sila.* 47
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-47)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-47)
 
 **Word by word meaning**
 
@@ -4479,7 +4483,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *vAngi mun nampiLLai eeyuNNi mAdhavarkkuth*  
 *thAm koduththAr pin adhanaith thAn.* 48
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-48)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-48)
 
 **Word by word meaning**
 
@@ -4561,7 +4565,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *nAlUr piLLaikku avar thAm nalla maganArkku avar thAm*  
 *mElOrkku eendhAr avarE mikku.* 49
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-49)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-49)
 
 **Word by word meaning**
 
@@ -4666,7 +4670,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *sARRu thiru nAmangaL thAn enRu nannenjE*  
 *Eththu adhanaich chollu(i) nee inRu.* 50
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-50)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-50)
 
 **Word by word meanings**
 
@@ -4763,7 +4767,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *ulagAriyan ennum pEr nampiLLaikku Ongi*  
 *vilagAmal ninRadhu enRum mEl* 51
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-51)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-51)
 
 **Word by word meaning**
 
@@ -4822,7 +4826,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *maindharkkuch chARRugaiyAl vandhu parandhadhu engum*  
 *indhath thirunAmam ingu.*  52
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-52)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-52)
 
 **Word by word meaning**
 
@@ -4877,7 +4881,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *thigazh vachana bhUdaNaththin seermai onRukkillai*  
 *pugazhalla ivvArththai mey ippOdhu.* 53
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-53)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-53)
 
 **Word by word meaning**
 
@@ -4962,7 +4966,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *pEr ikkalaikku ittAr pin.*         
               54
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-54)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-54)
 
 **Word by word meaning**
 
@@ -5048,7 +5052,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *aNdAdhadhu anRO adhu.*
 55
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-55-new)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-55-new)
 
 **Word by word meaning**
 
@@ -5178,7 +5182,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *Am nilaiyil nillum aRindhu.*
 56
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-56)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-56)
 
 **Word by word meaning**
 
@@ -5245,7 +5249,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *vallArgaL thAm vachana bhUdaNaththin vAn poruLaik*  
 *kallAdhadhennO kavarndhu.* 57
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-57)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-57)
 
 **Word by word meaning**
 
@@ -5309,7 +5313,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *madhi udaiyeer maththiyaththarAy.*
 58
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-58)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-58)
 
 **Word by word meaning**
 
@@ -5397,7 +5401,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *unthamakku evvinbam uLadhAm*
 59
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-59)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-59)
 
 **Word by word meaning**
 
@@ -5486,7 +5490,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *viNNAdu thAn aLikka vENdiyirAn AdhalAl*  
 *naNNAr avargaL thirunAdu.* 60
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-60)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-60)
 
 **Word by word meaning**
 
@@ -5574,7 +5578,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *thEnAr kamalath thirumAmagaL kozhunan*  
 *thAnE vaikuntham tharum.* 61
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-61)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-61)
 
 **Word by word meaning**
 
@@ -5688,7 +5692,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *kaiyilangu nellikkani*
  62
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-62)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-62)
 
 **Word by word meaning**
 
@@ -5831,7 +5835,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *tharaththil irukka manam thAn porundha mAttAdhu*  
 *iruththal ini EdhaRiyOm yAm.* 63
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-63)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-63)
 
 **Word by word meaning**
 
@@ -5937,7 +5941,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *aRindhum adhil Asai inRi AchAriyanaip*  
 *pirindhu irupAr Ar manamE pEsu.* 64
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-64)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-64)
 
 **Word by word meaning**
 
@@ -6020,7 +6024,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *Arkkum annEr niRkai aRidhAm*
 65
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-65)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-65)
 
 **Word by word meaning**
 
@@ -6099,7 +6103,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *Ana adimaigaL sey annilaiyai nannenjE*  
 *UnamaRa eppozhudhum Or.* 66
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-66)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-66)
 
 **Word by word meaning**
 
@@ -6175,7 +6179,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *vArththaigaLaik kEttu maruLAdhE pUruvargaL*  
 *seerththa nilai thannai nenjE sEr.* 67
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-67)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-67)
 
 **Word by word meaning**
 
@@ -6250,7 +6254,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *munnavarum pinnavarum mUrkkar ena vittu naduch*  
 *chonnavarai nALum thodar.* 68
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-68)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-68)
 
 **Word by word meaning**
 
@@ -6367,7 +6371,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *kuNam udaiyOr thangaLudan kUdi iruppArkkuk*  
 *kuNam adhuvEyAm sErththi koNdu.* 69
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-69)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-69)
 
 **Word by word meaning**
 
@@ -6417,7 +6421,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *kuNam udaiyOr thangaLudan kUdi iruppArkkuk*  
 *kuNam adhuvEyAm seRivu koNdu*. 70
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-70)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-70)
 
 **Word by word meaning**
 
@@ -6468,7 +6472,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *vArththadhenbar mUrkkar AvAr.*
 71
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-71)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-71)
 
 **Word by word meaning**
 
@@ -6547,7 +6551,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *tharumA gyAlaththE inbam uRRu vAzhum theruL*  
 *tharumA thEsikanaich chErndhu.* 72
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-72)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-72)
 
   
 **Word by word meaning**
@@ -6660,7 +6664,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *ethirAsar innaruLukku enRum ilakkAgich*  
 *chathirAga vAzhndhiduvar thAm.* 73
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-73)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-73)
 
 **Word by word meaning**
 
@@ -6780,7 +6784,7 @@ SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE 
 *chiraththAlE theeNdil amAnavanum nammaik*  
 *karaththAlE theeNdal kadan.* 74
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-74)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-74)
 
   
 **Word by word meaning**
@@ -6947,7 +6951,7 @@ srImath varavaramunayE nama:
 *than anbudan sey upadhEsa raththinamAlai thannaith*  
 *than nenju thannil tharippavar thALgaL charaN namakkE*
 
-#### [Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-thaniyan)
+[Listen](http://yourlisten.com/sarathy.thothathri/upadhesaraththinamalai-thaniyan)
 
 **Word by word meaning:**
 
