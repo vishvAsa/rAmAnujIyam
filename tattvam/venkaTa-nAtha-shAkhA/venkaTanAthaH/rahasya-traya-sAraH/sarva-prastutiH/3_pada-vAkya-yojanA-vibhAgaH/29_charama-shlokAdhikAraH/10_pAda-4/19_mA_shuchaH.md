@@ -5664,6 +5664,12 @@ debido a **obstáculos** como el **disfrute** de su mero yo incorpóreo.
 ऎऩक्क् अनुग्रह-विषय-भूतऩ् आऩ नी 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> इत्थं सर्व-प्रकाराः शोक-हेतवो यथा निवृत्ता भवेयुस्  
+तथा ममानुग्रह-विषय-भूतेन त्वया  
+</details>
+
 <details><summary>English</summary>
 
 > “You **have become** the **recipient** of my grace  
@@ -5696,9 +5702,7 @@ que **puede cancelar** las causas de todas las formas de duelo.
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> इत्थं सर्व-प्रकाराः शोक-हेतवो यथा निवृत्ता भवेयुस्  
-तथा ममानुग्रह-विषय-भूतेन त्वया  
-इतः परं शोचनं  
+> इतः परं शोचनं  
 तावत् पूर्वं निग्रह-विषय-भूततया स्थिति-दशायाम् अ-शोचनवद्  
 अ-निपुण-कृत्यं सत् 
 </details>
