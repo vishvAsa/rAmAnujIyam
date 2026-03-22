@@ -415,10 +415,109 @@ Estos ślokas **establecen** sólo algunos de los deberes del śiṣya como la *
 प्रणिपाताभिवादनादिगळैप्पोले इवऩुक्कुच् चिल कर्तव्यङ्गळैच् चॊल्लिऱ्ऱत्तऩै
 </details>
 
+### न निस्स्पृहाय प्रत्युपकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-They do not consider this gift as a requital or recompense to the ācārya, who does not expect any such return and imparts instruction merely as a matter of duty; for it is said: “The guru should teach out of compassion and without any desire (for profit)".
+पोक्कि, 
 
-When it is stated in the Vedāntas that the śiṣya should behave towards the guru as towards Bhagavān (Himself) and should have as devoted an affection to the guru as to the Lord, when it is said, “The śiṣya should never misbehave either with the mind or with the speech or with the body and should behave towards him as if he is not different or separate from himself" and further, “The śiṣya should adore the ācārya as he does Bhagavān "--when writers like Śāṇḍilya and Apastamba say so, they do not prescribe the offer of a fee or recompense. They give the advice merely in order that the śiṣya who has the śāstra for his eyes may not become blind of vision with eyes wide open, and in order that he, poor from his birth onward, may not lose this (blissful) experience which resembles the (blissful) experience of Bhagavān. That all this is no fee or recompense (to the guru) has been declared by Śāṇḍilya Bhagavān in the following śloka : “Even the gods cannot make a recompense for the gift of the knowledge of God. The śiṣya should (therefore) give whatever lies in his power to the ācārya who has given him (this) instruction." When it is said " whatever lies in his power", it means that it should be given as an outlet for his affection and regard. The śiṣya should, on no account, consider himself as having thereby recompensed his guru.
+> ‘‘कृपया निःस्पृहो वदेत्’’  
+(शाण्डिल्य-स्मृतिः १-११६) 
+
+ऎऩ्ऩुम् बडिय् इरुक्किऱ  
+अनन्य-प्रयोजनऩ् आऩ आचार्यऩुक्कु  
+प्रत्युपकारञ् जॊऩ्ऩ बडिय् अऩ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+They **do not consider** this gift as a **requital** or **recompense** to the ācārya,  
+who **does not expect** any such **return**  
+and **imparts instruction** merely as a matter of duty;  
+for it **is said**: 
+
+> “The guru **should teach** out of compassion  
+and without any **desire** (for profit)".
+</details>
+
+<details><summary>Español</summary>
+
+Ellos **no consideran** este regalo como una **recompensa** al ācārya,  
+que **no espera** tal **retorno**  
+e **imparte instrucción** simplemente como una cuestión de **deber**;  
+pues **se dice**: 
+
+> “El gurú **debe enseñar** por compasión  
+y sin ningún **deseo** (de lucro)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पोक्कि, ‘‘कृपया निःस्पृहो वदेत्’’(शाण्डिल्य-स्मृतिः १-११६) ऎऩ्ऩुम्बडियिरुक्किऱ अनन्यप्रयोजनऩाऩ आचार्यऩुक्कु प्रत्युपकारञ् जॊऩ्ऩबडियऩ्ऱु।
+</details>
+
+## ??
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भगवान् पक्कलिल् पोले  
+आचार्यऩ्-पक्कलिले वर्तिप्पाऩ्  
+
+ऎऩ्ऱुम्, 
+
+> अवऩुक्कु नल्लऩ् आऩाऱ् पोले  
+आचार्यऩुक्कुम् नल्लऩ् आय् इरुप्पाऩ्  
+
+ऎऩ्ऱुम् वेदान्तङ्गळिऱ् सॊऩ्ऩदुवुम्
+</details>
+
+<details><summary>English</summary>
+
+When it **is stated** in the Vedāntas  
+That the śiṣya **should behave** towards the guru as towards Bhagavān (Himself)  
+and **should have** as **devoted** an **affection** to the guru as to the Lord,  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se afirma** en los Vedāntas
+Que el śiṣya **debe comportarse** con el guru como con Bhagavān (Él Mismo)  
+y **debería tener** como **dedicado** un **afecto** al gurú como al Señor,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवान् पक्कलिल् पोले आचार्यऩ्बक्कलिले वर्तिप्पाऩॆऩ्ऱुम्,  
+अवऩुक्कु नल्लऩाऩाऱ्पोले आचार्यऩुक्कुम् नल्लऩायिरुप्पाऩ् ऎऩ्ऱुम् वेदान्तङ्गळिऱ्सॊऩ्ऩदुवुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**न प्रमाद्येद्** गुरौ शिष्यो  
+वाङ्-मनः-काय-कर्मभिः ।  
+अ-विभज्यात्मनाऽचार्यं  
+**वर्तेतास्मिन्** यथा ऽच्युते॥”  
+(शाण्डिल्य-स्मृतिः १-११८), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘**न प्रमाद्येद्** गुरौ शिष्यो  
+वाङ्-मनः-काय-कर्मभिः ।  
+अ-विभज्यात्मनाऽचार्यं  
+**वर्तेतास्मिन्** यथा ऽच्युते॥”  
+(शाण्डिल्य-स्मृतिः १-११८), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न प्रमाद्येद्गुरौ शिष्यो वाङ्मनःकायकर्मभिः । अविभज्यात्मनाऽचार्यं वर्तेतास्मिन् यथाच्युते”(शाण्डिल्य-स्मृतिः १-११८), 
+</details>
+
+
+when it is said, “The śiṣya should never misbehave either with the mind or with the speech or with the body and should behave towards him as if he is not different or separate from himself" and further, “The śiṣya should adore the ācārya as he does Bhagavān "--when writers like Śāṇḍilya and Apastamba say so, they do not prescribe the offer of a fee or recompense. They give the advice merely in order that the śiṣya who has the śāstra for his eyes may not become blind of vision with eyes wide open, and in order that he, poor from his birth onward, may not lose this (blissful) experience which resembles the (blissful) experience of Bhagavān. That all this is no fee or recompense (to the guru) has been declared by Śāṇḍilya Bhagavān in the following śloka : “Even the gods cannot make a recompense for the gift of the knowledge of God. The śiṣya should (therefore) give whatever lies in his power to the ācārya who has given him (this) instruction." When it is said " whatever lies in his power", it means that it should be given as an outlet for his affection and regard. The śiṣya should, on no account, consider himself as having thereby recompensed his guru.
 
 THE DUTIES OF THE ŚIṢYA : page634
 
