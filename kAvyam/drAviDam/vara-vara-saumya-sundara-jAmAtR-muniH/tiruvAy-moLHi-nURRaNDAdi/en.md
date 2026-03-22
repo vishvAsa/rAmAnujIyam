@@ -1,5 +1,5 @@
 +++
-title = "thiruvAimozhi nURRandhAdhi"
+title = "En"
 +++
 Source: [TW](https://divyaprabandham.koyil.org/index.php/2018/11/thiruvaimozhi-nurrandhadhi/)
 
