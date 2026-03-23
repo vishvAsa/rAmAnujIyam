@@ -108,6 +108,15 @@ DE NINGUNA MANERA **ES** UNA **RECOMPENSA**:
 महोपकारकऩ् आऩव् आचार्यऩ् +तिऱत्तिल्+++(=विषये)+++  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एषाम् अर्थानां सर्वेषाम्,  
+परम-दरिद्रस्य गृहाभ्यन्तर एव महा-निधेः प्रदर्शनवत् प्रकाशनात्  
+परमोपकारक-भूतस्याचार्यस्य विषये  
+</details>
+
+
+
 <details><summary>English</summary>
 
 The śāstras **say** that since the ācārya **reveals** the meanings (and mysteries) of religion  
@@ -134,6 +143,12 @@ al ācharya que **es** el gran benefactor,
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+शिष्येण कृतज्ञेन भाव्यम् इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 the śiṣya **should feel** grateful,  
@@ -154,6 +169,12 @@ el śiṣya **debería sentirse** agradecido,
 द्रोहम् पण्णाद् ऒऴिय वेणुम् ऎऩ्ऱुम्,  
 शास्त्रङ्गळ् सॊऩ्ऩव् इडम्  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+द्रोहम् अकुर्वता भाव्यम् इति च शास्त्रोक्तम् अपि, [[४२९]]  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -179,6 +200,13 @@ Los śāstras **declaran** que el śiṣya **debe comportarse** de esta manera
 इवऩैच् "चीच् चीय्" ऎऩ्ऩुम् बडियुम् आय्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+विभूति-द्वयेन विभूतिमता च,  
+(~~मा भूद्~~) अयं छी छी इति वचनीयः (सन्), 
+</details>
+
+
 <details><summary>English</summary>
 
 — he **may be looked** upon with contempt by (those who are in) the two vibhūtis (i,e.) this world, the līlā vibhūti and the region of eternal glory (nitya vibhūti) and  
@@ -203,6 +231,12 @@ por el Señor que **tiene** estos (dos) vibhūtis.
 
 हितञ् जॊऩ्ऩ प्रह्लाद-विभीषणादिगळुक्कु प्रतिकूलर् आऩ हिरण्य-रावणादिगळोडु तुल्यऩुम् आय्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(~~मा च~~) हित-वादि-- प्रह्लाद-विभीषणादि-- प्रतिकूल-हिरण्य-रावणादि-तुल्यः (सन्), 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -235,6 +269,19 @@ por **dar** el saludable **consejo**.
 ऎऩ्गिऱ पडिये दण्ड्यऩुम्  
 आगामैक्कागव् अत्तऩै; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १‘‘विद्या-चोरो गुरु-द्रोही  
+वेदेश्वर-विदूषकः ।  
+त एते बहु-पाप्मानस्  
+सद्यो **दण्ड्या** इति श्रुतिः॥’’  
+() 
+
+इत्य्-उक्त-रीत्या दण्ड्यश् च   
+मा भूद् इत्य्-एतावत्-परम् एव ;
+</details>
+
 
 <details><summary>English</summary>
 
@@ -284,6 +331,12 @@ Entonces, cuando al śiṣya **se le pide que se comporte** apropiadamente con e
 प्रत्युपकारञ् जॊऩ्ऩ बडिय् अऩ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+न तु प्रत्युपकार-प्रतिपादन-परम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 It **is not to say** that, by **doing** so, he **will make** due **requital** or **recompense** (for what the guru **has done** to him).
@@ -315,7 +368,7 @@ It **is not to say** that, by **doing** so, he **will make** due **requital** or
 सद्-गुरुभ्यो निवेदयेत्।’’  
 (विहगेश्वर-संहिता) 
 
-
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -355,6 +408,7 @@ It **is said**:
 गुरवे दक्षिणां **दद्याद्**  
 यथा-शक्त्य् अपि वा पुनः॥’’ ()  
 
+इत्य्-एवं-रीत्योच्यमानम् अपि 
 </details>
 
 <details><summary>विषयः</summary>
@@ -399,6 +453,12 @@ Si **no puede** hacerlo,
 इवऩुक्कुच् चिल कर्तव्यङ्गळैच् चॊल्लिऱ्ऱ् अत्-तऩै
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रणिपाताभिवादनादिवद् अस्य केषाञ्चित् कर्तव्यानां प्रतिपादन-परम् इत्य् एतावदे् एव ;
+</details>
+
+
 <details><summary>English</summary>
 
 These ślokas **state** only some of the duties of the śiṣya like **prostration** (namaskara) and **salutation** (abhivadana). 
@@ -428,6 +488,19 @@ Estos ślokas **establecen** sólo algunos de los deberes del śiṣya como la *
 प्रत्युपकारञ् जॊऩ्ऩ बडिय् अऩ्ऱु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+न तु 
+
+> ‘‘कृपया निःस्पृहो वदेत्’’  
+(शाण्डिल्य-स्मृतिः १-११६) 
+
+इत्य्-एवं वर्तमानस्यानन्य-प्रयोजनस्याचार्यस्य विषये  
+प्रत्युपकार-प्रतिपादन-परम् । 
+
+</details>
+
+
 <details><summary>English</summary>
 
 They **do not consider** this gift as a **requital** or **recompense** to the ācārya,  
@@ -456,7 +529,7 @@ y sin ningún **deseo** (de lucro)".
 पोक्कि, ‘‘कृपया निःस्पृहो वदेत्’’(शाण्डिल्य-स्मृतिः १-११६) ऎऩ्ऩुम्बडियिरुक्किऱ अनन्यप्रयोजनऩाऩ आचार्यऩुक्कु प्रत्युपकारञ् जॊऩ्ऩबडियऩ्ऱु।
 </details>
 
-## भगवत्-सदृश आचार्यः
+### भगवत्-सदृश आचार्यः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > भगवान् पक्कलिल् पोले  
@@ -469,6 +542,18 @@ y sin ningún **deseo** (de lucro)".
 
 ऎऩ्ऱुम् वेदान्तङ्गळिऱ् सॊऩ्ऩदुवुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> भगवत्-सकाश इव  
+आचार्य-सकाशेऽपि वर्तेत,  
+
+> तस्य यथा प्रियो भवति  
+तथाऽऽचार्यस्यापि प्रियो भवेद् 
+
+इति वेदान्तेषूक्तम् अपि, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -534,11 +619,20 @@ como si **no fuera diferente** o **separado** de sí mismo".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-६”देवम् इवाचार्यम् उपासीत’’  
+> ६”देवम् इवाचार्यम् उपासीत’’  
 (६ आपस्तम्ब-धर्म-सूत्रम् २-६-१३) 
 
 ऎऩ्ऱुम् शाण्डिल्यापस्तम्बादिगळ् सॊऩ्ऩदुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ६”देवम् इवाचार्यम् उपासीत’’  
+(६ आपस्तम्ब-धर्म-सूत्रम् २-६-१३) 
+
+इति शाण्डिल्यापस्तम्बाद्युक्तम् अपि 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -560,11 +654,212 @@ como si **no fuera diferente** o **separado** de sí mismo".
 ६”देवमिवाचार्यमुपासीत’’(६ आपस्तम्ब-धर्म-सूत्रम् २-६-१३) ऎऩ्ऱुम् शाण्डिल्यापस्तम्बादिगळ् सॊऩ्ऩदुम् 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आचार्यऩुक्कुप् प्रत्युपकारञ् जॊऩ्ऩ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नाचार्यस्य विषये प्रत्युपकार-प्रतिपादन-परम् ; 
+</details>
 
 
-they do not prescribe the offer of a fee or recompense. They give the advice merely in order that the śiṣya who has the śāstra for his eyes may not become blind of vision with eyes wide open, and in order that he, poor from his birth onward, may not lose this (blissful) experience which resembles the (blissful) experience of Bhagavān. That all this is no fee or recompense (to the guru) has been declared by Śāṇḍilya Bhagavān in the following śloka : “Even the gods cannot make a recompense for the gift of the knowledge of God. The śiṣya should (therefore) give whatever lies in his power to the ācārya who has given him (this) instruction." When it is said " whatever lies in his power", it means that it should be given as an outlet for his affection and regard. The śiṣya should, on no account, consider himself as having thereby recompensed his guru.
+<details><summary>English</summary>
+
+they **do not prescribe** the offer of a fee or recompense. 
+</details>
+
+<details><summary>Español</summary>
+
+**no prescriben** la **oferta** de honorarios o **recompensas**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आचार्यऩुक्कुप् प्रत्युपकारञ्जॊऩ्ऩबडियऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-चक्षुस्स् आऩव् इवऩ् विऴि+++(=नेत्र-तारा)+++-कण्+++(-युक्त)+++-कुरुडऩ् आगामैक्कुम्  
+भगवद्-अनुभवम् पोले विलक्षणम् आऩ इव्व्-अनुभवत्तै  
+जन्म-भिक्षुव् आऩव् इवऩ् इऴवामैक्कुञ्  
+जॊल्लिऱ्ऱ् अत्तऩै।
+</details>
+
+
+
+<details><summary>English</summary>
+
+They **give** the **advice**  
+merely in order that the śiṣya who **has** the śāstra for his eyes  
+**may not become blind** of **vision** with eyes wide open, and in order that he, poor from his **birth** onward,  
+**may not lose** this (blissful) **experience** which **resembles** the (blissful) **experience** of Bhagavān. 
+</details>
+
+<details><summary>Español</summary>
+
+Ellos **dan** el **consejo**  
+simplemente para que el śiṣya que **tiene** el śāstra para sus ojos  
+**no puede quedar ciego** de **visión** con los ojos bien **abiertos**, y para que él, pobre desde su **nacimiento** en adelante,  
+**No puedes perder** esta (dichosa) **experiencia**  
+que **se asemeja** a la (dichosa) **experiencia** de Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रचक्षुस्साऩ विवऩ् विऴिगण्गुरुडऩागामैक्कुम् भगवदनुभवम् पोले विलक्षणमाऩ इव्वनुभवत्तै जन्मभिक्षुवाऩ विवऩिऴवामैक्कुञ् जॊल्लिऱ्ऱत्तऩै।
+</details>
+
+#### अशक्यः प्रत्युपकारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि इव्-विषयत्तिल् प्रत्युपकारम् इल्लैय् ऎऩ्ऩुम् इडत्तै
+</details>
+
+<details><summary>English</summary>
+
+That all this is no fee or recompense (to the guru) 
+</details>
+
+<details><summary>Español</summary>
+
+Que todo esto **no es** ningún pago ni **recompensa** (al gurú)
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इव्विषयत्तिल् प्रत्युपकारमिल्लैयॆऩ्ऩुमिडत्तै
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ब्रह्म-विद्या-**प्रदानस्य**  
+देवैर् अपि **न शक्यते** ।  
+**प्रतिप्रदानम्**, अपि वा  
+**दद्याच्** छक्तित आदरात्॥’’  
+(शाण्डिल्य-स्मृतिः १-११७) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘ब्रह्म-विद्या-**प्रदानस्य**  
+देवैर् अपि **न शक्यते** ।  
+**प्रतिप्रदानम्**, अपि वा  
+**दद्याच्** छक्तित आदरात्॥’’  
+(शाण्डिल्य-स्मृतिः १-११७) 
+</details>
+
+<details><summary>English</summary>
+
+> “Even the gods **cannot make** a **recompense** for the **gift** of the **knowledge** of God.  
+The śiṣya should (therefore) **give** whatever **lies** in his power to the ācārya  
+who **has given** him (this) **instruction**." 
+</details>
+
+<details><summary>Español</summary>
+
+> “Ni siquiera los dioses **pueden dar** una **recompensa** por el **don** del **conocimiento** de Dios.  
+El śiṣya debe (por lo tanto) **dar** todo lo que esté en su poder al ācārya  
+quien **le ha dado** (esta) **instrucción**".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘ब्रह्मविद्याप्रदानस्य देवैरपि न शक्यते । प्रतिप्रदानमपि वा दद्याच्छक्तित आदरात्’’(शाण्डिल्य-स्मृतिः १-११७) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु शाण्डिल्य-भगवाऩ् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+(This) **has been declared** by Śāṇḍilya Bhagavān in the above śloka. 
+</details>
+
+<details><summary>Español</summary>
+
+(Esto) **ha sido declarado** por Śāṇḍilya Bhagavān en el śloka anterior.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु शाण्डिल्यभगवाऩरुळिच्चॆय्दाऩ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् यथा-शक्ति-दानञ् जॊऩ्ऩ्-अदुवुम्  
+तऩ्ऩ्-आदरत्तुक्कुप् पोक्कु वीड्+++(=मोचनम्)+++ आगच् चॊऩ्ऩद् अत्तऩै।
+</details>
+
+<details><summary>English</summary>
+
+When it **is said**  
+" whatever **lies** in his power",  
+it means that it **should be given** as an outlet for his affection and regard. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se dice**  
+"lo que **está** en su poder",  
+significa que **debe darse** como una salida para su afecto y consideración.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् यथाशक्तिदानञ्जॊऩ्ऩदुवुम् तऩ्ऩादरत्तुक्कुप्पोक्कु वीडागच्चॊऩ्ऩदत्तऩै।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अळवैक् कॊण्डु  
+प्रत्युपकारम् पण्णिऩाऩ् आगत्  
+तऩ्ऩै निऩैत्त् इरुक्कप् पॆऱाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+The śiṣya should, on no account, **consider** himself as having thereby **recompensed** his guru.
+</details>
+
+<details><summary>Español</summary>
+
+El śiṣya no debe, bajo ningún concepto, **considerar** que él mismo ha **recompensado** a su guru.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वळवैक् कॊण्डु प्रत्युपकारम् पण्णिऩाऩागत् तऩ्ऩै निऩैत्तिरुक्कप्पॆऱाऩ्। 
+</details>
+
+
+
+
+<details><summary>English</summary>
 
 THE DUTIES OF THE ŚIṢYA : page634
+</details>
+
+<details><summary>Español</summary>
+
+LOS DEBERES DEL ŚIṢYA: página 634
+</details>
+
+
 
 The śiṣya, who is thus without any means of recompensing (his guru), should consider it his duty to behave as follows:-- He should not let the instructions imparted to him become useless like water kept in a skull, by actions and observances opposed to them; for it has been said : - “Water kept in a skull and milk preserved in a water-skin made of dog's leather becoine worthless owing to the impurity of the containers. So also does the śāstra taught to one who misbehaves. The śiṣya should not make mere learning an end in itself, for it is said: “That Śāstra which, having been earnt from the ācārya, does not lead to non-attachment (to worldly things), to the performance of dharma or to serenity of mind that śāstra, however beautiful in its diction and style, is as useless to the man as the cawing of a crow. He should not eat the vomit, as it were, by making the śāstra which comes out of his mouth the means of his livelihood. He should not make the śāstra the prostitute's adornment, the sandal paste (chandana) made only for sale, the bag of parched rice emptied in a thoroughfare, or the garland of flowers in the monkey's hands, for it has been said in ridicule :- Learned men who study their subjects carefully, again and again, owing to their greed for money make their learning useful to others like prostitutes adorning their persons again and again to serve (the lusts of) others."
 
