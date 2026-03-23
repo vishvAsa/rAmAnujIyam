@@ -456,7 +456,7 @@ y sin ningún **deseo** (de lucro)".
 पोक्कि, ‘‘कृपया निःस्पृहो वदेत्’’(शाण्डिल्य-स्मृतिः १-११६) ऎऩ्ऩुम्बडियिरुक्किऱ अनन्यप्रयोजनऩाऩ आचार्यऩुक्कु प्रत्युपकारञ् जॊऩ्ऩबडियऩ्ऱु।
 </details>
 
-## ??
+## भगवत्-सदृश आचार्यः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > भगवान् पक्कलिल् पोले  
@@ -510,14 +510,59 @@ y **debería tener** como **dedicado** un **afecto** al gurú como al Señor,
 (शाण्डिल्य-स्मृतिः १-११८), 
 </details>
 
+<details><summary>English</summary>
+
+> “The śiṣya **should never misbehave**  
+either with the mind or with the **speech** or with the body  
+and **should behave** towards him  
+as if he **is not different** or **separate** from himself"  
+
+</details>
+
+<details><summary>Español</summary>
+
+> “El śiṣya **nunca debe portarse mal**  
+ya sea con la mente o con el **habla** o con el cuerpo  
+y **debe comportarse** con él  
+como si **no fuera diferente** o **separado** de sí mismo".
+</details>
 
 <details><summary>मूलम्</summary>
 
 ‘‘न प्रमाद्येद्गुरौ शिष्यो वाङ्मनःकायकर्मभिः । अविभज्यात्मनाऽचार्यं वर्तेतास्मिन् यथाच्युते”(शाण्डिल्य-स्मृतिः १-११८), 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-when it is said, “The śiṣya should never misbehave either with the mind or with the speech or with the body and should behave towards him as if he is not different or separate from himself" and further, “The śiṣya should adore the ācārya as he does Bhagavān "--when writers like Śāṇḍilya and Apastamba say so, they do not prescribe the offer of a fee or recompense. They give the advice merely in order that the śiṣya who has the śāstra for his eyes may not become blind of vision with eyes wide open, and in order that he, poor from his birth onward, may not lose this (blissful) experience which resembles the (blissful) experience of Bhagavān. That all this is no fee or recompense (to the guru) has been declared by Śāṇḍilya Bhagavān in the following śloka : “Even the gods cannot make a recompense for the gift of the knowledge of God. The śiṣya should (therefore) give whatever lies in his power to the ācārya who has given him (this) instruction." When it is said " whatever lies in his power", it means that it should be given as an outlet for his affection and regard. The śiṣya should, on no account, consider himself as having thereby recompensed his guru.
+६”देवम् इवाचार्यम् उपासीत’’  
+(६ आपस्तम्ब-धर्म-सूत्रम् २-६-१३) 
+
+ऎऩ्ऱुम् शाण्डिल्यापस्तम्बादिगळ् सॊऩ्ऩदुम् 
+</details>
+
+<details><summary>English</summary>
+
+> “The śiṣya **should adore** the ācārya as he does Bhagavān "
+
+--when writers like Śāṇḍilya and Apastamba **say so**, 
+</details>
+
+<details><summary>Español</summary>
+
+> “El śiṣya **debe adorar** al ācārya como lo **hace** con Bhagavān "
+
+--cuando **escritores** como Śāṇḍilya y Apastamba **lo dicen**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६”देवमिवाचार्यमुपासीत’’(६ आपस्तम्ब-धर्म-सूत्रम् २-६-१३) ऎऩ्ऱुम् शाण्डिल्यापस्तम्बादिगळ् सॊऩ्ऩदुम् 
+</details>
+
+
+
+they do not prescribe the offer of a fee or recompense. They give the advice merely in order that the śiṣya who has the śāstra for his eyes may not become blind of vision with eyes wide open, and in order that he, poor from his birth onward, may not lose this (blissful) experience which resembles the (blissful) experience of Bhagavān. That all this is no fee or recompense (to the guru) has been declared by Śāṇḍilya Bhagavān in the following śloka : “Even the gods cannot make a recompense for the gift of the knowledge of God. The śiṣya should (therefore) give whatever lies in his power to the ācārya who has given him (this) instruction." When it is said " whatever lies in his power", it means that it should be given as an outlet for his affection and regard. The śiṣya should, on no account, consider himself as having thereby recompensed his guru.
 
 THE DUTIES OF THE ŚIṢYA : page634
 
