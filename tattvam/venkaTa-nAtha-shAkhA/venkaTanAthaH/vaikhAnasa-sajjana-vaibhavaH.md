@@ -1,6 +1,12 @@
 +++
-title = "Vaikh Anasa sajjana vaibhava H"
+title = "सज्जन-वैभवम्"
 +++
+
+<details><summary>रविलोचनः</summary>
+
+We don't know the names of all the granthas written by VD. 120 granthas is what his sishya says. But many of the so called prabandhas are merely collection of tamil verses from his rahasya granthas of same name. And this text has been mentioned in the foreword of Pancaratra raksha publication by Adyar library as a work of VD. The manuscript has VD taniyan in the beginning, colophon mentions it as work of VD and the last line also claims the same. No reason to suspect it's authenticity, unless we have specific proof that it is not his work.
+</details>
+
 
 **॥ सज्जन-वैभवम् ॥**
 
