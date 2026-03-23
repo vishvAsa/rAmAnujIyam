@@ -2638,14 +2638,6 @@ conocimiento y poder **son** cualidades que **entran** en juego tanto para el **
 </details>
 
 
-<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
-
-""
-""
-""
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारुण्यम् अनुग्रहत्तुक्क् अ-साधारणम्।
@@ -2683,6 +2675,19 @@ Mientras que la compasión **entra** en juego (solo) para **conferir** favores.
 कारुण्यम् अनुग्रहत्तुक्कसाधारणमिति । ज्ञानशक्तिकळ् निग्रहानुग्रहसाधारणङ्गळागैयालुम्, कारुण्यम् अनुग्रहत्तिऱ्के असाधारणकारणमागैयालुम् अदिलेये ऊऩ्ऱिप्पोरवडुक्कुमॆऩ्ऱु करुत्तु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+कारुण्यवु, **अनुग्रहत्तुक्कु असाधारणम्** - अनुग्रहक्कॆ मात्रवे असाधारणवु. 
+
+</details>
+
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+""
+""
+""
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
