@@ -898,7 +898,7 @@ LOS DEBERES DEL ŚIṢYA: página 634
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> इप्-पडि प्रत्युपकार-रहितऩ् आऩ इवऩुक्कुच् चॆय्य वडुप्पद्+++(=फलितम्??)+++ ऎऩ्? 
+> इप्-पडि प्रत्युपकार-रहितऩ् आऩ इवऩुक्कुच् चॆय्यव् अडुप्पद्+++(=उपगमनम्??)+++ ऎऩ्? 
 
 ऎऩ्ऩिल्; 
 </details>
@@ -1191,7 +1191,7 @@ la pasta de sándalo (chandana) **hecha** sólo para **venta**,
 </details>
 
 
-## योग्यताचिन्तया ऽविकिरणम्
+## योग्यता-चिन्ताऽनिवार्या
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अम्बलत्तिल्+++(=वीथिपार्श्वे)+++ अवल्+++(=पृथुक)+++ पॊदिय्+++(=वस्त्र-बन्धम्)+++ आक्कुदल्,  
@@ -1212,7 +1212,7 @@ the bag of parched rice **emptied** in a thoroughfare,
 अम्बलत्तिलवल्बॊदियाक्कुदल्,  
 </details>
 
-## 
+## अयोग्य-वारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुरङ्गिऩ् कैयिल् पूमालैय् आक्कुदल् सॆय्याद् ऒऴियवुम्, 
@@ -1239,18 +1239,367 @@ o la guirnalda de flores en manos del mono,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अडियिले विद्यै-ताऩ् 
+
+> ‘‘शेवधिष् टे ऽस्मि, रक्ष माम्’’  
+(मनुस्मृति २-११४) 
+
+ऎऩ्ऱु ब्राह्मणऩै अपेक्षित्त बडियिले 
+</details>
+
+<details><summary>English</summary>
+
+Learning **approached** the Brahmin and **said**, 
+
+> **I am** your wealth; **guard** me with care;  
+**do not give me** away to those  
+who **have no liking** (for me).  
+If you **guard** me in this manner  
+I **shall become** very powerful".  
+
+As **desired** in those words, ... 
+</details>
+
+<details><summary>Español</summary>
+
+El aprendizaje **se acercó** al brahmán y **dijo**: 
+
+> **Yo soy** tu riqueza; **guárdame** con cuidado;  
+**no me delates** a esos  
+que **no tienen agrado** (por mí).  
+Si me **proteges** de esta manera  
+**Me volveré** muy poderoso".  
+
+Como **deseado** en esas palabras,...
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Learning approached the Brahmin and said, I am your wealth; guard me with care; do not give me away to those who have no liking (for me). If you guard me in this manner I shall become very powerful". As desired in those words, learning should not be betrayed into the hands of those who already clasp hate and the like in their hands.
+अडियिले विद्यैताऩ् ‘‘शेवधिष्टेऽस्मि रक्ष माम्’’(मनुस्मृति २-११४) ऎऩ्ऱु ब्राह्मणऩै अपेक्षित्तबडियिले 
+</details>
 
-The śiṣya should clearly realise that he cannot make any recompense to the ācārya who has enabled him, though born blind, to become fit for the assembly of the immortals that are free from ignorance and error. As taught in the śloka: “ The man who worships Bhagavān alone (the ekāntin) should, while speaking of himself, call himself the follower of Viṣṇu. He should never refer to himself by his village, or his family, for, to him, Bhagavan is everything". Superior to this is the state (described by Viswamitra while addressing Dasaratha ): - " This is indeed befitting one who was born of a noble race and who always calls himself Vasiṣṭa's disciple. No one else would call himself so, O Best of Kings”. The śiṣya should realise that the Saviour [Śrī Rāma] Himself was born in such a family and adopted this form of referring to himself and should adopt it in his own life saying :--"You have reformed me froin wickedness. What requital can I make to you?"
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-THE IMPARTING OF INSTRUCTION SHOULD BE PRECEDED BY MEDITATION OF THE SUCCESSION OF GURUS: page636
+मुऩ्बे असूयादिगळैक् कैप्-पिडित्तु वैप्पार् +++(ततः पूर्वम् एव पूर्णे)+++ कैयिऱ् काट्टिक् कॊडादे रक्षित्तुक् कॊळ्ळवुम् +++(4)+++
+</details>
 
-When the śiṣya hands over the great wealth of the truths contained in the gist of the three mysteries (mantras) thus acquired by him(from hisācārya) to one who, as pointed out in an earlier chapter, has been found fit for it, he should impart instruction first on the succession ofācāryas and reveal also his gratitude (to them) and the sacredness of those truths. As an example are quoted the words of the Brahmarishi Śrī Parāśara to Bhagavān Maitreya:-- " Brahma, born of the lotus, the grandfather of all, first gave instruction to great sages like Dakṣa at their request, In that same way was the instruction imparted by them to King Purukutsa on the banks of the Narbada. He handed it over to Sarasvata and by Sarasvata was it imparted to me". When the
+<details><summary>English</summary>
 
-man who imparts instruction in the mysteries of the science of the soul is without a tradition and teaches (merely) on the strength of his own reading of the books or of what he overheard from (a hiding place) behind a wall, he will, like one who wears stolen jewels. be ever in dread of those that see him. Moreover it may even become sinful, for it has been said :- "The mantra which is learnt by mere chance by one in hiding, under some pretext or from books -- that mantra will be of no avail; on the other hand, it may even cause evil". Even when a man has learnt from a guru and then teaches, if he should learn and teach against the regulations enjoined for it, he would create disgust in the minds of onlookers like one who wears jewels made from the money given to him along with Kala[^122] *
+**learning should not be betrayed** into the hands of those who already **clasp** hate and the like in their hands.
+</details>
+
+<details><summary>Español</summary>
+
+**El aprendizaje no debe ser traicionado** en manos de aquellos que ya **agarran** el odio y cosas similares en sus manos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुऩ्बे असूयादिगळैक्कैप्पिडित्तुवैप्पार् कैयिऱ् काट्टिक्कॊडादे रक्षित्तुक्कॊळ्ळवुम्
+</details>
+
+## प्रत्युपकाराशक्यता-प्रज्ञा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिऱविक्-कुरुडऩ् आऩ तऩ्ऩै  
+अयर्व्+++(=दोष)+++-अऱुम् अ-मरर्गळ् परिषत्तुक्क्  
+अर्हऩ् आम् बडि तिरुत्तिऩ  
+परमोपकारकऩुक्कुच् चॆय्यल् आम् प्रत्युपकारम् इल्लै  
+
+ऎऩ्ऩुम् इडत्तैत् तॆळिन्दु, 
+</details>
+
+<details><summary>English</summary>
+
+The śiṣya should clearly **realise** that  
+he **cannot make** any **recompense** to the ācārya  
+who **has enabled** him, though **born** blind,  
+to **become** fit for the assembly of the immortals  
+that **are free** from ignorance and error.  
+</details>
+
+<details><summary>Español</summary>
+
+El śiṣya **debe darse cuenta** claramente de que  
+él **no puede dar** ninguna **recompensa** al ācārya  
+quien **le ha permitido**, aunque **nació** ciego,  
+para **volverse** apto para la asamblea de los inmortales  
+que **están libres** de ignorancia y error.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पिऱविक्कुरुडऩाऩ तऩ्ऩै अयर्वऱुममरर्गळ् परिषत्तुक्कर्हऩाम्बडि तिरुत्तिऩ परमोपकारकऩुक्कुच्चॆय्यलाम् प्रत्युपकारमिल्लै ऎऩ्ऩुमिडत्तैत् तॆळिन्दु, 
+</details>
+
+## गुरु-नाम्ना व्यपदेशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एकान्ती +++(स्वात्मना)+++ **व्यपदेष्टव्यो**  
+नैव ग्राम-कुलादिभिः ।  
+विष्णुना **व्यपदेष्टव्यस्**  
+तस्य सर्वं स एव हि॥’’  
+(विष्वक्सेन-संहिता) 
+
+ऎऩ्गिऱ निलैयिलुङ् काट्टिल्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एकान्ती +++(स्वात्मना)+++ **व्यपदेष्टव्यो**  
+नैव ग्राम-कुलादिभिः ।  
+विष्णुना **व्यपदेष्टव्यस्**  
+तस्य सर्वं स एव हि॥’’  
+(विष्वक्सेन-संहिता) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+कुलम्, कुलाभिमानः
+</details>
+
+<details><summary>English</summary>
+
+As **taught** in the śloka: 
+
+> “ The man who **worships** Bhagavān alone (the ekāntin)  
+**should**, while speaking of himself, **call** himself the follower of Viṣṇu.  
+He **should never refer** to himself by his village, or his family,  
+for, to him, Bhagavan **is** everything".  
+
+Superior to this ... 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se enseña** en el śloka: 
+
+> “El hombre que **adora** a Bhagavān solo (el ekāntin)  
+**debería**, mientras **habla** de sí mismo, **llamarse** a sí mismo el **seguidor** de Viṣṇu.  
+**Nunca debe referirse** a sí mismo por su pueblo o su familia,  
+porque, para él, Bhagavan lo **es** todo".  
+
+Superior a esto…
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘एकान्ती व्यपदेष्टव्यो नैव ग्रामकुलादिभिः । विष्णुना व्यपदेष्टव्यस्तस्य सर्वं स एव हि॥’’(विष्वक्सेनसंहिता) ऎऩ्गिऱ निलैयिलुङ्गाट्टिल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘+++(गुरु-सम्बन्धेन)+++ वसिष्ठ-व्यपदेशिनः’’  
+(रामायणम् बाल-काण्डम् १९-२) 
+
+ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘+++(गुरु-सम्बन्धेन)+++ वसिष्ठ-व्यपदेशिनः’’  
+(रामायणम् बाल-काण्डम् १९-२) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+**is** the state (described by Viswamitra while addressing Dasaratha ): - 
+
+> " This **is** indeed **befitting** one  
+who **was born** of a noble race  
+and who always **calls** himself Vasiṣṭa's disciple.  
+No one else **would call** himself so, O Best of Kings”. 
+</details>
+
+<details><summary>Español</summary>
+
+**es** el estado (descrito por Viswamitra mientras **se dirige** a Dasaratha): - 
+
+> " Esto **es** realmente **propio** de uno  
+quien **nació** de una raza noble  
+y quien siempre **se llama** discípulo de Vasiṣṭa.  
+Nadie más **se llamaría** así, oh el Mejor de los Reyes”.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘वसिष्ठव्यपदेशिनः’’(रामायणम् बाल-काण्डम् १९-२) ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> शरण्यऩ् आऩ पेरुमाळ्  
+वंश-क्रमागतम् आगप् पिऱन्दु पडैत्तुक्  कैक्-कॊण्ड निलै इन्-निलैय् 
+
+ऎऩ्ऱु परिग्रहित्तु 
+</details>
+
+<details><summary>English</summary>
+
+The śiṣya **should realise** that  
+the Saviour [Śrī Rāma] Himself **was born** in such a family  
+and **adopted** this form of referring to himself  
+</details>
+
+<details><summary>Español</summary>
+
+El śiṣya **debe darse cuenta** de que  
+el Salvador [Śrī Rāma] mismo **nació** en una familia así  
+y **adoptó** esta forma de **referirse** a sí mismo
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरण्यऩाऩबॆरुमाळ् वंशक्रमागतमागप्पिऱन्दु पडैत्तुक् कैक्कॊण्ड निलै इन्निलै यॆऩ्ऱु परिग्रहित्तु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’ऎऩ्ऩैत् ती-मऩङ् कॆडुत्ताय् +++(साधू-कृत्या)+++  
+उऩक्क् ऎऩ् सॆय्गेऩ्’’  
+(तिरुवाय्मॊऴि २-७-८) 
+
+ऎऩ्ऱ् इरुक्कवुम् प्राप्तम्।  
+</details>
+
+<details><summary>English</summary>
+
+and **should adopt** it in his own life  
+**saying** :--
+
+> "You **have reformed** me from wickedness.  
+What requital **can I make** to you?"
+</details>
+
+<details><summary>Español</summary>
+
+y **debería adoptarlo** en su propia vida  
+**diciendo** :--
+
+> "Tú **me has reformado** de la maldad.  
+¿Qué retribución **puedo hacerte**?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’ऎऩ्ऩैत् ती मऩङ्गॆडुत्तायुऩक्कॆऩ् सॆय्गेऩ्’’(तिरुवाय्मॊऴि २-७-८) ऎऩ्ऱिरुक्कवुम् प्राप्तम्।  
+</details>
+
+
+## गुरु-परम्परानुसन्धानम्
+<details><summary>English</summary>
+
+THE IMPARTING OF **INSTRUCTION**  
+**SHOULD BE PRECEDED** BY **MEDITATION** OF THE **SUCCESSION** OF GURUS: page636
+</details>
+
+<details><summary>Español</summary>
+
+LA IMPARTICIÓN DE **INSTRUCCIÓN**  
+**DEBE SER PRECEDIDO** POR **MEDITACIÓN** DE LA **SUCESIÓN** DE GURÚS: página 636
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताऩ् इप्-पडिप् पॆऱ्ऱ रहस्य-त्रय-सारार्थम् आऩ महा-धनत्तै  
+मुऩ्ऩिल् अधिकारत्तिऱ् सॊऩ्ऩ बडिये  
+उचित-स्थानम् अऱिन्दु समर्पिक्कुम् बोदु 
+</details>
+
+<details><summary>English</summary>
+
+When the śiṣya **hands over** the great wealth of the truths  
+**contained** in the gist of the three mysteries (mantras) thus **acquired** by him(from his ācārya)  
+to one who, as pointed out in an earlier chapter, **has been found fit** for it,  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el śiṣya **entrega** la gran riqueza de las verdades  
+**contenido** en la esencia de los tres misterios (mantras) así **adquiridos** por él(de su ācārya)  
+a aquel que, como se señaló en un capítulo anterior, **ha sido considerado apto** para ello,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ताऩिप्पडिप्पॆऱ्ऱ रहस्यत्रयसारार्थमाऩ महाधनत्तै मुऩ्ऩिलधिकारत्तिऱ् सॊऩ्ऩबडिये उचितस्थानमऱिन्दु समर्पिक्कुम्बोदु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**कथयामि** यथा-पूर्वं  
+दक्षाद्यैर् मुनि-सत्तमैः ।  
+**पृष्टः प्रोवाच** भगवान्  
+अब्ज-योनिः पितामहः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘**कथयामि** यथा-पूर्वं  
+दक्षाद्यैर् मुनि-सत्तमैः ।  
+**पृष्टः प्रोवाच** भगवान्  
+अब्ज-योनिः पितामहः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> " Brahma, born of the lotus, the grandfather of all, first **gave instruction** to great sages like Dakṣa at their **request**, 
+</details>
+
+<details><summary>Español</summary>
+
+> "Brahma, **nacido** del loto, el abuelo de todo, primero **dio instrucciones** a grandes sabios como Dakṣa a su **petición**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘कथयामि यथापूर्वं दक्षाद्यैर्मुनिसत्तमैः । पृष्टः प्रोवाच भगवानब्जयोनिः पितामहः ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तैश् चोक्तं पुरु-कुत्साय  
+भू-भुजे नर्मदा-तटे ।  
+सारस्वताय तेनापि  
+मम सारस्वतेन च’’  
+(विष्णुपुराणम् २-८-९) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तैश् चोक्तं पुरु-कुत्साय  
+भू-भुजे नर्मदा-तटे ।  
+सारस्वताय तेनापि  
+मम सारस्वतेन च’’  
+(विष्णुपुराणम् २-८-९) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तैश्चोक्तं पुरुकुत्साय भूभुजे नर्मदा-तटे । सारस्वताय तेनापि मम सारस्वतेन च’’(विष्णुपुराणम् २-८-९) 
+</details>
+
+
+he should impart instruction first on the succession of ācāryas and reveal also his gratitude (to them) and the sacredness of those truths. As an example are quoted the words of the Brahmarishi Śrī Parāśara to Bhagavān Maitreya:-- 
+
+> In that same way **was** the **instruction** **imparted** by them to King Purukutsa on the banks of the Narbada.  
+He **handed it** over to Sarasvata  
+and by Sarasvata **was it imparted** to me". 
+
+When the man who imparts instruction in the mysteries of the science of the soul is without a tradition and teaches (merely) on the strength of his own reading of the books or of what he overheard from (a hiding place) behind a wall, he will, like one who wears stolen jewels. be ever in dread of those that see him. Moreover it may even become sinful, for it has been said :- "The mantra which is learnt by mere chance by one in hiding, under some pretext or from books -- that mantra will be of no avail; on the other hand, it may even cause evil". Even when a man has learnt from a guru and then teaches, if he should learn and teach against the regulations enjoined for it, he would create disgust in the minds of onlookers like one who wears jewels made from the money given to him along with Kala[^122] *
 
 [^122]: Kala : When a man is dangerously ill and longs for recovery. he has the figure of a man (Kalapurusha) made with gingelly seeds, decks it with jewels and gives it to a poor man along with money. To receive such a gift is looked upon as a disgusting thing.
 
