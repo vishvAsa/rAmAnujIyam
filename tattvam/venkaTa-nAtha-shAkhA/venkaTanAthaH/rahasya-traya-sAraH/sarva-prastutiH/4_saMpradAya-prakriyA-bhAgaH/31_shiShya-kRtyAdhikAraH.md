@@ -1568,11 +1568,38 @@ a aquel que, como se señaló en un capítulo anterior, **ha sido considerado ap
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तैश् चोक्तं पुरु-कुत्साय  
+भू-भुजे नर्मदा-तटे ।  
+सारस्वताय तेनापि  
+मम सारस्वतेन च’’  
+(विष्णुपुराणम् २-८-९) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तैश् चोक्तं पुरु-कुत्साय  
+भू-भुजे नर्मदा-तटे ।  
+सारस्वताय तेनापि  
+मम सारस्वतेन च’’  
+(विष्णुपुराणम् २-८-९) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तैश्चोक्तं पुरुकुत्साय भूभुजे नर्मदा-तटे । सारस्वताय तेनापि मम सारस्वतेन च’’(विष्णुपुराणम् २-८-९) 
+</details>
+
+
 he should impart instruction first on the succession of ācāryas and reveal also his gratitude (to them) and the sacredness of those truths. As an example are quoted the words of the Brahmarishi Śrī Parāśara to Bhagavān Maitreya:-- 
 
-In that same way was the instruction imparted by them to King Purukutsa on the banks of the Narbada. He handed it over to Sarasvata and by Sarasvata was it imparted to me". When the
+> In that same way **was** the **instruction** **imparted** by them to King Purukutsa on the banks of the Narbada.  
+He **handed it** over to Sarasvata  
+and by Sarasvata **was it imparted** to me". 
 
-man who imparts instruction in the mysteries of the science of the soul is without a tradition and teaches (merely) on the strength of his own reading of the books or of what he overheard from (a hiding place) behind a wall, he will, like one who wears stolen jewels. be ever in dread of those that see him. Moreover it may even become sinful, for it has been said :- "The mantra which is learnt by mere chance by one in hiding, under some pretext or from books -- that mantra will be of no avail; on the other hand, it may even cause evil". Even when a man has learnt from a guru and then teaches, if he should learn and teach against the regulations enjoined for it, he would create disgust in the minds of onlookers like one who wears jewels made from the money given to him along with Kala[^122] *
+When the man who imparts instruction in the mysteries of the science of the soul is without a tradition and teaches (merely) on the strength of his own reading of the books or of what he overheard from (a hiding place) behind a wall, he will, like one who wears stolen jewels. be ever in dread of those that see him. Moreover it may even become sinful, for it has been said :- "The mantra which is learnt by mere chance by one in hiding, under some pretext or from books -- that mantra will be of no avail; on the other hand, it may even cause evil". Even when a man has learnt from a guru and then teaches, if he should learn and teach against the regulations enjoined for it, he would create disgust in the minds of onlookers like one who wears jewels made from the money given to him along with Kala[^122] *
 
 [^122]: Kala : When a man is dangerously ill and longs for recovery. he has the figure of a man (Kalapurusha) made with gingelly seeds, decks it with jewels and gives it to a poor man along with money. To receive such a gift is looked upon as a disgusting thing.
 
