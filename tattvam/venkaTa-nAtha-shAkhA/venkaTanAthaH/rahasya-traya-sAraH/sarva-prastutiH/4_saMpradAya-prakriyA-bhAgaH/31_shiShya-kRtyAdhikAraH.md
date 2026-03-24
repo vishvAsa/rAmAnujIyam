@@ -859,6 +859,13 @@ significa que **debe darse** como una salida para su afecto y consideración.
 तऩ्ऩै निऩैत्त् इरुक्कप् पॆऱाऩ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतावन्-मात्रम् आश्रित्य  
+अयं प्रत्युपकार-कर्तृत्वेन स्वं मन्तुम् आर्हन्तीं न बिभर्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 The śiṣya should, on no account, **consider** himself as having thereby **recompensed** his guru.
@@ -876,7 +883,7 @@ El śiṣya no debe, bajo ningún concepto, **considerar** que él mismo ha **re
 </details>
 
 
-
+## वृत्त-रक्षा
 
 <details><summary>English</summary>
 
@@ -889,8 +896,351 @@ LOS DEBERES DEL ŚIṢYA: página 634
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The śiṣya, who is thus without any means of recompensing (his guru), should consider it his duty to behave as follows:-- He should not let the instructions imparted to him become useless like water kept in a skull, by actions and observances opposed to them; for it has been said : - “Water kept in a skull and milk preserved in a water-skin made of dog's leather becoine worthless owing to the impurity of the containers. So also does the śāstra taught to one who misbehaves. The śiṣya should not make mere learning an end in itself, for it is said: “That Śāstra which, having been earnt from the ācārya, does not lead to non-attachment (to worldly things), to the performance of dharma or to serenity of mind that śāstra, however beautiful in its diction and style, is as useless to the man as the cawing of a crow. He should not eat the vomit, as it were, by making the śāstra which comes out of his mouth the means of his livelihood. He should not make the śāstra the prostitute's adornment, the sandal paste (chandana) made only for sale, the bag of parched rice emptied in a thoroughfare, or the garland of flowers in the monkey's hands, for it has been said in ridicule :- Learned men who study their subjects carefully, again and again, owing to their greed for money make their learning useful to others like prostitutes adorning their persons again and again to serve (the lusts of) others."
+> इप्-पडि प्रत्युपकार-रहितऩ् आऩ इवऩुक्कुच् चॆय्य वडुप्पद्+++(=फलितम्??)+++ ऎऩ्? 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं प्रत्युपकाररहितेनानेन  
+किं कर्तुम् उचितम् 
+
+इति चेत् — 
+</details>
+
+<details><summary>English</summary>
+
+The śiṣya, who **is** thus without any means of **recompensing** (his guru),  
+**should consider** it his duty to **behave** as **follows**:-- 
+</details>
+
+<details><summary>Español</summary>
+
+El śiṣya, que **está** así sin ningún medio de **recompensar** (su guru),  
+**debería considerar** que **es** su deber **comportarse** como **sigue**:--
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि प्रत्युपकाररहितऩाऩ इवऩुक्कुच् चॆय्यवडुप्पदॆऩ्? ऎऩ्ऩिल्; 
+</details>
+
+### विपरीत-वृत्त-वारणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩ् उपदेशित्तव् अर्थङ्गळै 
+
+> ‘‘कपालस्थं यथा तोयं  
+श्व-दृतौ च यथा पयः ।  
+दुष्टं स्यात् स्थान-दोषेण  
+वृत्तहीने तथा श्रुतम्॥’’  
+(भारतम् शान्ति-पर्व ३५-४२) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+
+> ‘‘कपालस्थं यथा तोयं  
+श्व-दृतौ च यथा पयः ।  
+दुष्टं स्यात् स्थान-दोषेण  
+वृत्तहीने तथा श्रुतम्॥’’  
+(भारतम् शान्ति-पर्व ३५-४२) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+The instructions imparted to him, 
+as **has been said** : - 
+
+> “Water **kept** in a skull  
+and milk **preserved** in a water-skin made of dog's leather **become** worthless  
+owing to the impurity of the containers.  
+So also does the śāstra **taught** to one who **misbehaves**.  
+</details>
+
+<details><summary>Español</summary>
+
+Las **instrucciones** que le impartieron, 
+como **se ha dicho**: - 
+
+> “Agua **guardada** en una calavera  
+y la leche **conservada** en un odre de agua **hecha** de cuero de perro **se vuelve** inútil  
+debido a la impureza de los contenedores.  
+Así también el śāstra **se enseña** a aquel que **se porta mal**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुबदेशित्तवर्थङ्गळै ‘‘कपालस्थं यथा तोयं श्वदृतौ च यथा पयः । दुष्टं स्यात् स्थानदोषेण वृत्तहीने तथा श्रुतम्’’(भारतम् शान्ति-पर्व ३५-४२) ऎऩ्गिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩ् विपरीतानुष्ठानङ्गळाले  
+कपाल-स्थ-तोयादिगळैप् पोले  
+अन्-उपजीव्यम् आक्काद् ऒऴियवुम्,
+</details>
+
+<details><summary>English</summary>
+
+He **should not let** (them) **become useless**  
+like water **kept** in a skull,  
+by **actions** and **observances opposed** to them; 
+</details>
+
+<details><summary>Español</summary>
+
+Él **no debe permitir** (ellos) **volverse inútiles**  
+como agua **guardada** en una calavera,  
+por **acciones** y **observancias opuestas** a ellas;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ् विपरीतानुष्ठानङ्गळाले कपालस्थतोयादिगळैप्पोले अनुपजीव्यमाक्कादॊऴियवुम्,
+</details>
+
+### अनुष्ठान-पर्यन्तता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ९‘‘यच् **छ्रुतं** न विरागाय  
+न धर्माय न शान्तये ।  
+सुबद्धमपि शब्देन  
+काक-**वाशितम्**+++(=कूजितम्)+++ एव तत्’’(इतिहास-समुच्चयः १४-४३) 
+
+ऎऩ्गिऱ बडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ९‘‘यच् **छ्रुतं** न विरागाय  
+न धर्माय न शान्तये ।  
+सुबद्धमपि शब्देन  
+काक-**वाशितम्**+++(=कूजितम्)+++ एव तत्’’(इतिहास-समुच्चयः १४-४३) 
+
+</details>
+
+<details><summary>English</summary>
+
+For it **is said**: 
+
+> “That Śāstra which, **having been learnt** from the ācārya,  
+**does not lead** to non-attachment (to worldly things),  
+to the **performance** of dharma  
+or to serenity of mind  
+that śāstra, however beautiful in its **diction** and style,  
+**is** as **useless** to the man  
+as the cawing of a crow. 
+</details>
+
+<details><summary>Español</summary>
+
+Por eso **se dice**: 
+
+> “Ese Śāstra que, **habiendo sido aprendido** del ācārya,  
+**no conduce** al desapego (a las cosas mundanas),  
+a la **realización** del dharma  
+o a la serenidad mental  
+ese śāstra, por hermoso que sea su **dicción** y estilo,  
+**es** tan **inútil** para el hombre  
+como el graznido de un cuervo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+९‘‘यच्छ्रुतं न विरागाय न धर्माय न शान्तये । सुबद्धमपि शब्देन काकवाशितमेव तत्’’(इतिहास-समुच्चयः १४-४३) ऎऩ्गिऱबडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कऱ्कैये प्रयोजनम् आक्काद् ऒऴियवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+The śiṣya **should not make** mere **learning** an end in itself.
+</details>
+
+<details><summary>Español</summary>
+
+El śiṣya **no debe hacer** del mero **aprendizaje** un fin en sí mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कऱ्कैये प्रयोजनमाक्कादॊऴियवुम्, 
+</details>
+
+
+## अनुपजीवनम्
+  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱैक् कॊण्डु  +++(उपदेश→)+++वान्ताशिय् +++(←भोजन-साधनतया)+++ आगाद् ऒऴियवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+He **should not eat** the **vomit**, as it were,  
+by **making** the śāstra which **comes** out of his mouth  
+the means of his livelihood. 
+</details>
+
+<details><summary>Español</summary>
+
+Él **no debería comer** el **vómito**, por así decirlo,  
+**haciendo** el śāstra que **sale** de su boca  
+los medios de su sustento.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱैक्कॊण्डु वान्ताशियागादॊऴियवुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱैय् ऎल्लाम् 
+
+> ‘‘पण्डितैर् अर्थ-कार्पण्यात्  
+पण्य-स्त्रिभिर् इव स्वयम् ।  
+आत्मा **संस्कृत्य संस्कृत्य**  
+**परोपकरणीकृतः**॥’’()  
+
+इत्य्-आदिगळिऱ् परिहसिक्किऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+
+> ‘‘पण्डितैर् अर्थ-कार्पण्यात्  
+पण्य-स्त्रिभिर् इव स्वयम् ।  
+आत्मा **संस्कृत्य संस्कृत्य**  
+**परोपकरणीकृतः**॥’’()  
+
+
+</details>
+
+<details><summary>English</summary>
+
+For it **has been said** in ridicule :- 
+
+> Learned men who **study** their subjects carefully, again and again,  
+owing to their greed for money  
+**make** their **learning useful** to others  
+like prostitutes **adorning** their persons again and again  
+**to serve** (the lusts of) others."
+</details>
+
+<details><summary>Español</summary>
+
+Porque **se ha dicho** en ridículo:- 
+
+> Hombres eruditos que **estudian** sus temas cuidadosamente, una y otra vez,  
+debido a su codicia por el dinero  
+**hacer** que su **aprendizaje sea útil** para los demás  
+como prostitutas **adornando** sus personas una y otra vez  
+**para servir** (las concupiscencias de) otros."
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱैयॆल्लाम् ‘‘पण्डितैरर्थकार्पण्यात् पण्यस्त्रिभिरिव स्वयम् । आत्मा संस्कृत्य संस्कृत्य परोपकरणीकृत॥’’() इत्यादिगळिऱ् परिहसिक्किऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गणिकालङ्गारम् आक्कुदल्,  
+विलैच्-चान्द्+++(=चन्दनम्)+++ आक्कुदल्, 
+</details>
+
+<details><summary>English</summary>
+
+He **should not make** the śāstra the prostitute's **adornment**,  
+the sandal paste (chandana) **made** only for **sale**,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Él **no debe hacer** del śāstra el **adorno** de la prostituta,  
+la pasta de sándalo (chandana) **hecha** sólo para **venta**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गणिकालङ्गारमाक्कुदल्, विलैच्चान्दाक्कुदल्, 
+</details>
+
+
+## योग्यताचिन्तया ऽविकिरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अम्बलत्तिल्+++(=वीथिपार्श्वे)+++ अवल्+++(=पृथुक)+++ पॊदिय्+++(=वस्त्र-बन्धम्)+++ आक्कुदल्,  
+</details>
+
+<details><summary>English</summary>
+
+the bag of parched rice **emptied** in a thoroughfare,  
+</details>
+
+<details><summary>Español</summary>
+
+the bag of parched rice **emptied** in a thoroughfare,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अम्बलत्तिलवल्बॊदियाक्कुदल्,  
+</details>
+
+## 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुरङ्गिऩ् कैयिल् पूमालैय् आक्कुदल् सॆय्याद् ऒऴियवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+or the garland of flowers in the monkey's hands,  
+
+(He **should not make** the śāstra like this.)
+</details>
+
+<details><summary>Español</summary>
+
+o la guirnalda de flores en manos del mono,
+
+(Él **no debería hacer** el śāstra así.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुरङ्गिऩ् कैयिल् पूमालैयाक्कुदल् सॆय्यादॊऴियवुम्, 
+</details>
+
+
+
+
 
 Learning approached the Brahmin and said, I am your wealth; guard me with care; do not give me away to those who have no liking (for me). If you guard me in this manner I shall become very powerful". As desired in those words, learning should not be betrayed into the hands of those who already clasp hate and the like in their hands.
 
