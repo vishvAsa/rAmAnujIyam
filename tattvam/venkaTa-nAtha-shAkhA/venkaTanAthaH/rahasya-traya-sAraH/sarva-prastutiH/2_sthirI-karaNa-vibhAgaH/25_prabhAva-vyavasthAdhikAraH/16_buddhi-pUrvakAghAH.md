@@ -815,19 +815,20 @@ Las **consecuencias** malvadas, a **saber**, la **ausencia** de placer **tendrá
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदिलुम् कऴिन्द्-अदुक्कु +++(←क्षणिक-स्वाप्रति)+++ प्रायश्चित्तम् वेण्डा। 
+> अदिलुम् कऴिन्द्-अदुक्कु +++(←क्षणिक-स्वाप्रति)+++ प्रायश्चित्तम् वेण्डा। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-तत्राप्य् अतीतस्य विषये +++(क्षणिक-स्वाप्रीतौ)+++ प्रायश्चित्तं नापेक्षितम् । 
+> तत्राप्य् अतीतस्य विषये +++(क्षणिक-स्वाप्रीतौ)+++ प्रायश्चित्तं नापेक्षितम् । 
 </details>
 
 
 <details><summary>English</summary>
 
 It may be said :-  
-(Let there be absence of pleasure;  
+
+> (Let there be absence of pleasure;  
 absence of pleasure being only a particular form of knowledge,  
 it would last only for an instant).  
 There is no reason for performing a prayascitta in connection with the absence of one's own pleasure  
@@ -837,7 +838,8 @@ which has passed away.
 <details><summary>Español</summary>
 
 **Se puede decir**:-  
-(Que **haya ausencia** de placer;  
+
+> (Que **haya ausencia** de placer;  
 La **ausencia** de placer **es** solo una forma particular de conocimiento,
 Solo duraría un instante).  
 **No hay razón** para **realizar** una Prayascitta en relación con la ausencia del propio placer
