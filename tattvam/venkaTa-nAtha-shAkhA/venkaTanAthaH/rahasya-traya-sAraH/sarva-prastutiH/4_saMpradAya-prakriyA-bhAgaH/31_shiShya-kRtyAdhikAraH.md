@@ -1586,18 +1586,77 @@ a aquel que, como se señaló en un capítulo anterior, **ha sido considerado ap
 (विष्णुपुराणम् २-८-९) 
 </details>
 
+<details><summary>English</summary>
+
+> In that same way **was** the **instruction** **imparted** by them to King Purukutsa on the banks of the Narmada.  
+He **handed it** over to Sarasvata  
+and by Sarasvata **was it imparted** to me". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> De la misma manera **fue** la **instrucción** **impartida** por ellos al Rey Purukutsa a orillas del Narmada.  
+Él **se lo entregó** a Sarasvata.  
+y por Sarasvata **me fue impartido**".
+</details>
 
 <details><summary>मूलम्</summary>
 
 तैश्चोक्तं पुरुकुत्साय भूभुजे नर्मदा-तटे । सारस्वताय तेनापि मम सारस्वतेन च’’(विष्णुपुराणम् २-८-९) 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-he should impart instruction first on the succession of ācāryas and reveal also his gratitude (to them) and the sacredness of those truths. As an example are quoted the words of the Brahmarishi Śrī Parāśara to Bhagavān Maitreya:-- 
+ऎऩ्ऱु श्री पराशर-ब्रह्म-र्षि मैत्रेय-भगवाऩुक्क् अरुळिच्-चॆय्दाऱ् पोले 
+</details>
 
-> In that same way **was** the **instruction** **imparted** by them to King Purukutsa on the banks of the Narbada.  
-He **handed it** over to Sarasvata  
-and by Sarasvata **was it imparted** to me". 
+<details><summary>English</summary>
+
+As quoted in the words of the Brahmarishi Śrī Parāśara to Bhagavān Maitreya,  
+</details>
+
+<details><summary>Español</summary>
+
+Como **se cita** en las palabras del Brahmarishi Śrī Parāśara a Bhagavān Maitreya:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु श्री पराशरब्रह्मर्षि मैत्रेयभगवाऩुक् करुळिच्चॆय्दाऱ्पोले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुरु-परं-परैयै प्रकाशिप्पित्तुक् कॊण्डु  
+तऩ् कृतज्ञतैयुम्, अर्थत्तिऩ् सीर्मैयुन् दोऱ्ऱ उपदेशिक्क वेणुम्।
+</details>
+
+<details><summary>English</summary>
+
+he **should impart instruction** first  
+on the **succession** of ācāryas  
+and **reveal** also his **gratitude** (to them)  
+and the sacredness of those truths. 
+</details>
+
+<details><summary>Español</summary>
+
+él **debe impartir instrucción** primero  
+sobre la **sucesión** de ācāryas  
+y **revelar** también su **gratitud** (hacia ellos)  
+y el carácter sagrado de esas verdades.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुरुपरंपरैयैप्रकाशिप्पित्तुक्कॊण्डु तऩ् कृतज्ञतैयुम् अर्थत्तिऩ् सीर्मैयुन्दोऱ्ऱ उपदेशिक्कवेणुम्।
+</details>
+
+
+
 
 When the man who imparts instruction in the mysteries of the science of the soul is without a tradition and teaches (merely) on the strength of his own reading of the books or of what he overheard from (a hiding place) behind a wall, he will, like one who wears stolen jewels. be ever in dread of those that see him. Moreover it may even become sinful, for it has been said :- "The mantra which is learnt by mere chance by one in hiding, under some pretext or from books -- that mantra will be of no avail; on the other hand, it may even cause evil". Even when a man has learnt from a guru and then teaches, if he should learn and teach against the regulations enjoined for it, he would create disgust in the minds of onlookers like one who wears jewels made from the money given to him along with Kala[^122] *
 
