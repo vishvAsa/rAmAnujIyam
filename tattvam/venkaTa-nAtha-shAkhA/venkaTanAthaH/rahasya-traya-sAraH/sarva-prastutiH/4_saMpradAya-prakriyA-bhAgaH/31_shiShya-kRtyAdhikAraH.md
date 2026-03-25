@@ -898,7 +898,7 @@ LOS DEBERES DEL ŚIṢYA: página 634
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> इप्-पडि प्रत्युपकार-रहितऩ् आऩ इवऩुक्कुच् चॆय्यव् अडुप्पद्+++(=उपगमनम्??)+++ ऎऩ्? 
+> इप्-पडि प्रत्युपकार-रहितऩ् आऩ इवऩुक्कुच् चॆय्यव् अडुप्पद्+++(=उचितम्)+++ ऎऩ्? 
 
 ऎऩ्ऩिल्; 
 </details>
@@ -1737,7 +1737,7 @@ por otro lado, puede incluso **causar** mal”.
 
 केट्टुच् चॊल्लच्चॆय्दे 
 
-> ‘‘तद्विद्धि प्रणिपातेन  
+> ‘‘तद् विद्धि प्रणिपातेन  
 परिप्रश्नेन सेवया’’  
 (गीता ४-३४), 
 </details>
@@ -1747,27 +1747,163 @@ por otro lado, puede incluso **causar** mal”.
 > ‘‘तद्विद्धि प्रणिपातेन  
 परिप्रश्नेन सेवया’’  
 (गीता ४-३४), 
-
 </details>
 
+<details><summary>English</summary>
+
+Even when a man **has learnt** from a guru and then **teaches**,  
+As **may be seen** in the **following** ślokas 
+
+> " **Bow** to the guru,  
+**ask** for explanations,  
+**render service** to him  
+and then **learn** the essential nature of the self".
+</details>
+
+<details><summary>Español</summary>
+
+Incluso cuando un hombre **ha aprendido** de un gurú y luego **enseña**,  
+Como **puede verse** en los **siguientes** ślokas 
+
+> " **Reverencia** al gurú,  
+**pedir** explicaciones,  
+**prestarle servicio**  
+y luego **aprender** la naturaleza esencial del yo".
+</details>
 
 <details><summary>मूलम्</summary>
 
 केट्टुच् चॊल्लच्चॆय्दे ‘‘तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया’’(गीता ४-३४), 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रणिपत्याभिवाद्य च’’(विष्णुपुराणम् १-१-१) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रणिपत्याभिवाद्य च’’(विष्णुपुराणम् १-१-१) 
+</details>
+
+<details><summary>English</summary>
+
+And as **is said** also, 
+
+> "Maitreya **prostrated** (pranipatya) before Parāśara  
+and **made salutations** to him (abhivadya)". 
+
+</details>
+
+<details><summary>Español</summary>
+
+Y como **se dice** también, 
+
+> "Maitreya **postrado** (pranipatya) ante Paraśara  
+y **le hizo saludos** (abhivadya).
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रणिपत्याभिवाद्य च’’(विष्णुपुराणम् १-१-१) 
+</details>
 
 
-Even when a man **has learnt** from a guru and then **teaches**,  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् सॊल्लुगिऱ मुऱैय् ऒऴियक् केट्टुच् चॊल्लुम् आगिल्  
+कालऩ् +++(= रोग-निवारणाय दत्ता पुत्तलिका)+++ कॊण्ड् +++(तद्-दक्षिणया)+++ आभरणम् पूण्डाऱ् पॊले  
+कण्डार् ऎल्लारुन् तऩ्ऩैय् अरुवरुक्कुम् पडिय् आम्। 
+</details>
+
+<details><summary>English</summary>
+
 if he **should learn** and **teach** against the regulations **enjoined** for it,  
 he **would create disgust** in the minds of onlookers  
-like one who **wears** jewels made from the money given to him along with Kala[^122] *
+like one who **wears** jewels made from the money **given** to him along with Kala.
 
-[^122]: Kala : When a man is dangerously ill and longs for recovery. he has the figure of a man (Kalapurusha) made with gingelly seeds, decks it with jewels and gives it to a poor man along with money. To receive such a gift is looked upon as a disgusting thing.
+(Kala : When a man **is** dangerously ill and **longs** for **recovery**,  
+he has the figure of a man (Kalapurusha) **made** with gingelly seeds,  
+**decks** it with jewels  
+and **gives** it to a poor man along with money.  
+To **receive** such a gift **is looked upon** as a disgusting thing.)
+</details>
 
-(These regulations) may be seen in the following ślokas " Bow to the guru, ask for explanations, render service to him and then learn the essential nature of the self".
+<details><summary>Español</summary>
 
-It is said also, "Maitreya prostrated (pranipatya) before Parāśara and made salutations to hiin (abhivadya)". As stated in the śloka :-"He who imparts instruction in violation of the regulations and he who learns violating the regulations — of these two, one will die or will come to hate the other" as stated here, it may even have evil consequences. Even when the man has learnt according to the regulations and then teaches, if he should not render the praise to his guru, his śiṣya may suspect that the truths revealed by him may have no basis (or authority) like parasitic plants growing (on the branches of trees) and treat them with disregard. This omission of giving due praise to one's guru before one's śiṣya is included as one among the thirty-two kinds of offences. It has been stated: “ The wise man should reveal (the greatness of) his guru and guard the mantra with great care.
+si **debería aprender** y **enseñar** en contra de las normas **impuestas** para ello,  
+él **crearía disgusto** en la mente de los espectadores  
+como alguien que **lleva** joyas hechas con el dinero **que se le da** junto con Kala.
+
+(Kala: Cuando un hombre **está** gravemente enfermo y **anhela** **recuperación**,  
+**tiene** la figura de un hombre (Kalapurusha) **hecha** con semillas de gengelly,  
+**lo adorna** con joyas  
+y **se lo da** a un pobre junto con el dinero.  
+**Recibir** tal regalo **se considera** como algo repugnante.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ् सॊल्लुगिऱ मुऱै यॊऴियक् केट्टुच् चॊल्लुमागिल् कालऩ्गॊण्डाभरणम् पूण्डाऱ् पॊले कण्डारॆल्लारुन्दऩ्ऩैयरुवरुक्कुम्बडियाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १९‘‘यश् चाधर्मेण **विब्रूते**  
+यश् चाधर्मेण **पृच्छति** ।  
+तयोर् अन्यतरः **प्रैति**  
+विद्वेषं वा **ऽधिगच्छति**॥’’  
+(भारतम् शान्ति-पर्व ३३५-५) 
+
+ऎऩ्गिऱबडिये अनर्थावहमुम् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १९‘‘यश् चाधर्मेण **विब्रूते**  
+यश् चाधर्मेण **पृच्छति** ।  
+तयोर् अन्यतरः **प्रैति**  
+विद्वेषं वा **ऽधिगच्छति**॥’’  
+(भारतम् शान्ति-पर्व ३३५-५) 
+
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in the śloka :-
+
+> "He who **imparts instruction** in **violation** of the **regulations**  
+and he who **learns violating** the **regulations** —  
+of these two, one **will die** or **will come to hate** the other" 
+
+as **stated** here, it may even have evil consequences. 
+</details>
+
+<details><summary>Español</summary>
+
+Como **indica** en el śloka:-
+
+> "El que **imparte instrucción** en **violación** de los **reglamentos**  
+y el que **aprende violando** las **regulaciones** —  
+de estos dos, uno **morirá** o **llegará a odiar** al otro" 
+
+como **se dice** aquí, incluso **puede tener** consecuencias malignas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१९‘‘यश्चाधर्मेण विब्रूते यश्चाधर्मेण पृच्छति । तयोरन्यतरः प्रैति विद्वेषं वाधिगच्छति’’(भारतम् शान्ति-पर्व ३३५-५) ऎऩ्गिऱबडिये अनर्थावहमुमाम्। 
+</details>
+
+
+## उपदेशे गुरु-स्तुतिः
+
+
+
+Even when the man has learnt according to the regulations and then teaches, if he should not render the praise to his guru, his śiṣya may suspect that the truths revealed by him may have no basis (or authority) like parasitic plants growing (on the branches of trees) and treat them with disregard. This omission of giving due praise to one's guru before one's śiṣya is included as one among the thirty-two kinds of offences. It has been stated: “ The wise man should reveal (the greatness of) his guru and guard the mantra with great care.
 
 By the omission to reveal (the former) and the omission to guard (the latter) respectively, a person's wealth and term of life suffer diminution". (By this omission), the wealth of enjoying Bhagavan with clarity of knowledge and the state of mind which consists in the thought of one being a śeṣa, which is the cause of the soul or self becoming and continuing as an entity - these two will suffer decline. If, while revealing the greatness of his guru, a man should contradict the teaching imparted to him by the guru in the śāstras, he would be called a deceiver and become also a sinner, for it is said: "He who "teaches astronomy, law, the śāstra of expiatory rites and the science of medicine against the spirit of the respective śāstras is called a Brahmaghātaka" or one who has committed the sin of killing a Brahmin ".
 
