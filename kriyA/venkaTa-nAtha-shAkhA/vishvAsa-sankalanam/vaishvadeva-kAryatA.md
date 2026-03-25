@@ -20,9 +20,15 @@ Source: [TW](https://youtu.be/djK61750fbM)
 12:45 - Overridden by smRti-s
 13:15 - yAmuna's Agama-prAmANya says so.
 15:00 - yAmuna thought sva-shAkhokta nitya-karma abandonment to lead to loss of varNa.
-18:50 - Frauds in सदनुष्ठानदर्पण by shuddha-sattva-varadAchArya.
+18:50 - Frauds in सदनुष्ठानदर्पण by shuddha-sattva-varadAchArya - https://archive.org/details/Vaishvadeva/sadanuShThAna-darpaNaH_d2/page/45/mode/1up .
 20:45 - Availability of highly respected kANva-shAkhAnuyAyins in TN.
 22:50 - Conclusion
+
+सम्बन्धेऽस्मिन्न् अनुक्तं किञ्चिद् भाष्यकारवचनम् -
+"॥18.9॥ नित्यनैमित्तिक-महायज्ञादिवर्णाश्रमविहितं *कर्म* मदाराधनरूपतया *कार्यं* स्वयम्प्रयोजनम् इति मत्वा"
+
+तादृशं पुष्कलं लभ्यते गीताभाष्ये। शरीरधारणं यावन् महायज्ञा अवश्यं कार्या इति।  
+तथा च वेङ्कटनाथार्यकृता वैश्वदेवकारिकाः स्वयम् अण्णङ्गरार्यः प्रकाशयामासेति श्रूयते।
 </details>
 
 
