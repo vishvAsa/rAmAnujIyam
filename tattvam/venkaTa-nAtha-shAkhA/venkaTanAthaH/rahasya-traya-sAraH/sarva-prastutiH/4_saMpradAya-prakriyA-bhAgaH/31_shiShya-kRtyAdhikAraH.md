@@ -944,6 +944,7 @@ El śiṣya, que **está** así sin ningún medio de **recompensar** (su guru),
 
 <details><summary>नीलमेघः (सं)</summary>
 
+उपदिष्टानाम् अर्थानाम्, 
 
 > ‘‘कपालस्थं यथा तोयं  
 श्व-दृतौ च यथा पयः ।  
@@ -951,7 +952,7 @@ El śiṣya, que **está** así sin ningún medio de **recompensar** (su guru),
 वृत्तहीने तथा श्रुतम्॥’’  
 (भारतम् शान्ति-पर्व ३५-४२) 
 
-
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -989,6 +990,12 @@ Así también el śāstra **se enseña** a aquel que **se porta mal**.
 कपाल-स्थ-तोयादिगळैप् पोले  
 अन्-उपजीव्यम् आक्काद् ऒऴियवुम्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विपरीतानुष्ठानैः कपालस्थ-तोयादीनाम् इवानुपजीव्यत्वानापादनम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1028,6 +1035,7 @@ por **acciones** y **observancias opuestas** a ellas;
 सुबद्धमपि शब्देन  
 काक-**वाशितम्**+++(=कूजितम्)+++ एव तत्’’(इतिहास-समुच्चयः १४-४३) 
 
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -1067,6 +1075,12 @@ como el graznido de un cuervo.
 कऱ्कैये प्रयोजनम् आक्काद् ऒऴियवुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अध्ययन-मात्रस्य प्रयोजनत्वानापादनम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 The śiṣya **should not make** mere **learning** an end in itself.
@@ -1090,6 +1104,12 @@ El śiṣya **no debe hacer** del mero **aprendizaje** un fin en sí mismo.
 
 इवऱ्ऱैक् कॊण्डु  +++(उपदेश→)+++वान्ताशिय् +++(←भोजन-साधनतया)+++ आगाद् ऒऴियवुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतैर् +++(उपदेशार्जित-भोक्तृत्व→)+++वान्ताशित्वानापत्तिः,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1126,13 +1146,14 @@ los medios de su sustento.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+एषां सर्वेषाम्, 
 
 > ‘‘पण्डितैर् अर्थ-कार्पण्यात्  
 पण्य-स्त्रिभिर् इव स्वयम् ।  
 आत्मा **संस्कृत्य संस्कृत्य**  
 **परोपकरणीकृतः**॥’’()  
 
-
+इत्यादिषु परिहसित-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -1168,14 +1189,20 @@ como prostitutas **adornando** sus personas una y otra vez
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गणिकालङ्गारम् आक्कुदल्,  
-विलैच्-चान्द्+++(=चन्दनम्)+++ आक्कुदल्, 
++++(परोपयोग-प्राधान्यात्)+++ विलैच्-चान्द्+++(=चन्दनम्)+++ आक्कुदल्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+गणिकालङ्कारत्वापत्तेः,  
++++(परोपयोग-प्राधान्यात्)+++ क्रय्य-चन्दन-भावापतेः 
+</details>
+
 
 <details><summary>English</summary>
 
 He **should not make** the śāstra the prostitute's **adornment**,  
 the sandal paste (chandana) **made** only for **sale**,  
-
 </details>
 
 <details><summary>Español</summary>
@@ -1194,8 +1221,14 @@ la pasta de sándalo (chandana) **hecha** sólo para **venta**,
 ## योग्यता-चिन्ताऽनिवार्या
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अम्बलत्तिल्+++(=वीथिपार्श्वे)+++ अवल्+++(=पृथुक)+++ पॊदिय्+++(=वस्त्र-बन्धम्)+++ आक्कुदल्,  
+अम्बलत्तिल्+++(=वीथिपार्श्वे)+++ अवल्+++(=पृथुक)+++ पॊदिय्+++(=राशि)+++ आक्कुदल्,  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+चत्वर-धाना-राशि-भावापतेः 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1217,6 +1250,12 @@ the bag of parched rice **emptied** in a thoroughfare,
 
 कुरङ्गिऩ् कैयिल् पूमालैय् आक्कुदल् सॆय्याद् ऒऴियवुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वानर-कर-गत-मालात्वापत्तेश् चाकरणम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1248,6 +1287,17 @@ o la guirnalda de flores en manos del mono,
 
 ऎऩ्ऱु ब्राह्मणऩै अपेक्षित्त बडियिले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आदौ विद्यया 
+
+> ‘‘शेवधिष् टे ऽस्मि, रक्ष माम्’’  
+(मनुस्मृति २-११४) 
+
+इति ब्राह्मणं प्रति स्वयं कृताम् अपेक्षाम् अनुसृत्य, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1286,6 +1336,12 @@ Como **deseado** en esas palabras,...
 मुऩ्बे असूयादिगळैक् कैप्-पिडित्तु वैप्पार् +++(ततः पूर्वम् एव पूर्णे)+++ कैयिऱ् काट्टिक् कॊडादे रक्षित्तुक् कॊळ्ळवुम् +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+पूर्वम् एव (प्रथमम् एव ) असूयादीन् कर-स्थी-कृतवतां करयोर् अ-प्रदर्शन-पूर्वं संरक्षणम्, +++(5)+++
+</details>
+
+
 <details><summary>English</summary>
 
 **learning should not be betrayed** into the hands of those who already **clasp** hate and the like in their hands.
@@ -1305,12 +1361,20 @@ Como **deseado** en esas palabras,...
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिऱविक्-कुरुडऩ् आऩ तऩ्ऩै  
-अयर्व्+++(=दोष)+++-अऱुम् अ-मरर्गळ् परिषत्तुक्क्  
+अयर्व्+++(=विस्मृति)+++-अऱुम् अ-मरर्गळ् परिषत्तुक्क्  
 अर्हऩ् आम् बडि तिरुत्तिऩ  
 परमोपकारकऩुक्कुच् चॆय्यल् आम् प्रत्युपकारम् इल्लै  
 
 ऎऩ्ऩुम् इडत्तैत् तॆळिन्दु, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+जनुषान्धं स्वं  
+विस्मृति-शून्यामर-परिषदतया परिष्कृतवतः परमोपकारकस्य  
+कर्तुम् अर्हः प्रत्युपकारो नास्तीति विज्ञाय, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1356,6 +1420,7 @@ que **están libres** de ignorancia y error.
 तस्य सर्वं स एव हि॥’’  
 (विष्वक्सेन-संहिता) 
 
+इत्य्-उक्त-दशाधिका, 
 </details>
 
 <details><summary>विषयः</summary>
@@ -1406,7 +1471,7 @@ Superior a esto…
 > ‘‘+++(गुरु-सम्बन्धेन)+++ वसिष्ठ-व्यपदेशिनः’’  
 (रामायणम् बाल-काण्डम् १९-२) 
 
-
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -1441,6 +1506,8 @@ Nadie más **se llamaría** así, oh el Mejor de los Reyes”.
 
 ऎऩ्ऱु परिग्रहित्तु 
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -2498,13 +2565,38 @@ Su ācārya también **se sentiría gratificado** de **descubrir** que, en este 
 </details>
 
 
-
+## मोक्ष-मार्ग-बोधके कार्तज्ञ्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-साक्षान्मुक्तेरुपायान् यो विद्याभेदानुपादिशत् ।  
-कथ्यते मोक्षशास्त्रेषु स तु श्रेष्ठतमो गुरुः ॥
+साक्षान् मुक्तेर् उपायान् यो  
+विद्या-भेदान् **उपादिशत्** ।  
+**कथ्यते** मोक्ष-शास्त्रेषु  
+स तु श्रेष्ठ-तमो गुरुः ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+साक्षान् मुक्तेर् उपायान् यो  
+विद्या-भेदान् **उपादिशत्** ।  
+**कथ्यते** मोक्ष-शास्त्रेषु  
+स तु श्रेष्ठ-तमो गुरुः ॥
+</details>
+
+<details><summary>English</summary>
+
+He who **imparted instruction** in the vidyās or **meditations**  
+that **lead** directly and by themselves to mokṣa --  
+he **is considered** in the Śāstras on mokṣa as the greatest of ācāryas.
+</details>
+
+<details><summary>Español</summary>
+
+El que **impartió instrucción** en los vidyās o **meditaciones**  
+que **conducen** directamente y por sí mismos a mokṣa—  
+él **es considerado** en los Śāstras sobre mokṣa como el más grande de los ācāryas.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -2512,13 +2604,40 @@ Su ācārya también **se sentiría gratificado** de **descubrir** que, en este 
 कथ्यते मोक्षशास्त्रेषु स तु श्रेष्ठतमो गुरुः ॥
 </details>
 
-He who imparted instruction in the vidyās or meditations that lead directly and by themselves to mokṣa -- he is considered in the Śāstras on mokṣa as the greatest of ācāryas.
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-आचार्यवत्तया मोक्षमामनन्ति स्मरन्ति च ।  
-इहामुत्र च तत्पादौ शरणं देशिका विदुः ॥ * ॥
+आचार्यवत्तया मोक्षम्  
+**आमनन्ति स्मरन्ति** च ।  
+इहामुत्र च तत्-पादौ  
+शरणं देशिका **विदुः** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आचार्यवत्तया मोक्षम्  
+**आमनन्ति स्मरन्ति** च ।  
+इहामुत्र च तत्-पादौ  
+शरणं देशिका **विदुः** ॥
+</details>
+
+<details><summary>English</summary>
+
+The Vedas **declare** that a man **attains** mokṣa by **having** an ācārya  
+and the same **is declared** in the Smṛtis also.  
+ācāryas **knew** that, in this world and so also, in the world beyond,  
+the feet of the ācārya **are** the refuge (for the śiṣya).
+</details>
+
+<details><summary>Español</summary>
+
+Los Vedas **declaran** que un hombre **alcanza** mokṣa **teniendo** un ācārya  
+y lo mismo **se declara** también en los Smṛtis.  
+ācāryas **sabía** que, en este mundo y también en el más allá,  
+los pies del ācārya **son** el refugio (para el śiṣya).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -2526,12 +2645,13 @@ He who imparted instruction in the vidyās or meditations that lead directly and
 इहामुत्र च तत्पादौ शरणं देशिका विदुः ॥ * ॥
 </details>
 
-The Vedas declare that a man attains mokṣa by having anācārya and the same is declared in the Smṛtis also.ācāryas knew that, in this world and so also, in the world beyond, the feet of the ācārya are the refuge (for the śiṣya).
+
+## उपसंहारः
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-एऱ्ऱि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्  
-माऱ्ऱिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्  
+एऱ्ऱि मनत्तॆऴिन् ञान-विळक्कैय् इरुळ् अनैत्तुम्  
+माऱ्ऱिनवर्क्क् ऒरु कैम् माऱु मायनुङ् गाणगिल्लान्  
 पोऱ्ऱियुगप्पदुम् पुन्दियिऱ्‌कॊळ्वदुम् पॊङ्गुबुगऴ्च्  
 चाऱ्ऱि वळर्प्पदुञ् जऱ्ऱल्लवो मुन्नम् पॆऱ्ऱदऱ्‌के. (48)
 </details>
