@@ -1,5 +1,5 @@
 +++
-title = "तिरुमऴिसै अण्णावप्पङ्गार्"
+title = "Excerpts"
 +++
 Source: [TW](https://acharya.org/bk/pb/taa/pnv.pdf)
 
