@@ -1899,15 +1899,287 @@ como **se dice** aquí, incluso **puede tener** consecuencias malignas.
 </details>
 
 
-## उपदेशे गुरु-स्तुतिः
+## उपदेशे गुरु-प्रकाशनम्
+### शिष्य-प्रत्ययाय
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा-न्यायम् केट्टुच्  
+चॊल्लच् चॆय्दे सॊल्लुम् बोदु  
+गुरुवै प्रकाशिप्पियाद् ऒऴियुम् आगिल्, 
+</details>
+
+<details><summary>English</summary>
+
+Even when the man **has learnt** according to the regulations and then **teaches**,  
+if he **should not render** the **praise** to his guru, 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso cuando el hombre **ha aprendido** según las normas y luego **enseña**,  
+si **no debe rendir** la **alabanza** a su gurú,
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथान्यायम् केट्टुच् चॊल्लच्चॆय्दे सॊल्लुम्बोदु गुरुवै प्रकाशिप्पियादॊऴियुमागिल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩ् सॊल्लुगिऱ अर्थङ्गळ्  
+वेर्+++(=मूलम्)+++-इल्लाक् कॊत्ताऩ्+++(=orchid)+++ पोलेय्  
+"अडिय्-अऱ्ऱ्-अवैयोव्" ऎऩ्ऱु  
+शिष्यऩुक्कुम् अतिशङ्कै पिऱक्कुम् बडिय् आय्  
+अनादर-विषयम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+his śiṣya **may suspect** that the truths **revealed** by him  
+**may have** no basis (or authority)  
+like parasitic plants growing (on the branches of trees)  
+and **treat** them with disregard. 
+</details>
+
+<details><summary>Español</summary>
+
+su śiṣya **puede sospechar** que las verdades **reveladas** por él  
+**puede tener** ninguna base (o autoridad)  
+como plantas parásitas que **crecen** (en las ramas de los árboles)  
+y **trátalos** con desprecio.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩ् सॊल्लुगिऱ अर्थङ्गळ् वेरिल्लाक् कॊत्ताऩ् पोले यडियऱ्ऱवैयोवॆऩ्ऱु शिष्यऩुक्कुमतिशङ्कै पिऱक्कुम्बडिया यनादरविषयमाम्। 
+</details>
+
+### पाप-वारणाय
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘स्व-गुरूणां स्व-शिष्येभ्यः  
+ख्यापनं चाकृतं तथा’’() 
+
+ऎऩ्ऱु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘स्व-गुरूणां स्व-शिष्येभ्यः  
+ख्यापनं चाकृतं तथा’’() 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘स्वगुरूणां स्वशिष्येभ्यः ख्यापनं चाकृतं तथा’’() ऎऩ्ऱु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वा-त्रिंशद्-अपचार-वर्गत्तिले  
+गुरुवै प्रकाशिप्पियाद् ऒऴिगैयुम्  
+पठिक्कप् पट्टदु। 
+</details>
+
+<details><summary>English</summary>
+
+This **omission** of **giving** due **praise** to one's guru before one's śiṣya  
+**is included** as one among the thirty-two kinds of **offences**. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **omisión** de **dar** la debida **alabanza** al propio gurú ante el propio śiṣya  
+**está incluido** como uno entre los treinta y dos tipos de **infracciones**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+द्वात्रिंशदपचारवर्गत्तिले गुरुवै प्रकाशिप्पियादॊऴिगैयुम् पठिक्कप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु 
+
+> ‘‘गुरुं **प्रकाशयेद्** धीमान्  
+मन्त्रं यत्नेन **गोपयेत्** ।  
+अ-प्रकाश-प्रकाशाभ्यां  
+**क्षीयेते** संपद्-आयुषी’’()  
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+
+> ‘‘गुरुं **प्रकाशयेद्** धीमान्  
+मन्त्रं यत्नेन **गोपयेत्** ।  
+अ-प्रकाश-प्रकाशाभ्यां  
+**क्षीयेते** संपद्-आयुषी’’()  
+
+
+</details>
+
+
+<details><summary>English</summary>
+
+It **has been stated**: 
+
+> “ The wise man **should reveal** (the greatness of) his guru  
+and **guard** the mantra with great care.  
+By the **omission** to **reveal** (the former)  
+and the **omission** to **guard** (the latter) respectively,  
+a person's wealth and term of life **suffer diminution**". 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**: 
+
+> “El hombre sabio **debe revelar** (la grandeza de) su gurú  
+y **guarda** el mantra con mucho cuidado.  
+Por la **omisión** de **revelar** (lo primero)  
+y la **omisión** de **guardar** (esta última) respectivamente,  
+la riqueza y la duración de la vida de una persona **sufren disminución**".
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु ‘‘गुरुं प्रकाशयेद्धीमान् मन्त्रं यत्नेन गोपयेत् । अप्रकाशप्रकाशाभ्यां क्षीयेते संपदायुषी’’() ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-वैशद्य-पूर्वकम् आऩ भगवद्-अनुभव-**संपत्तुम्**  
+आत्मावुक्कु सत्तानुवृत्ति-हेतुव् आऩ शेषत्वानुसन्धान-पूर्वक-- स्व-निष्ठैयुङ्  
+कुलैयुम् पडियाम्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+(By this omission), the wealth of **enjoying** Bhagavan with clarity of **knowledge**  
+and the state of mind which **consists** in the **thought** of one **being** a śeṣa,  
+which **is** the cause of the soul or self **becoming** and **continuing** as an entity -  
+these two **will suffer decline**. 
+</details>
+
+<details><summary>Español</summary>
+
+(Por esta **omisión**), la riqueza de **disfrutar** Bhagavan con claridad de **conocimiento**  
+y el estado mental que **consiste** en el **pensamiento** de uno **ser** un śeṣa,  
+que **es** la causa de que el alma o el yo **se convierta** y **continúe** como entidad -  
+estos dos **sufrirán un declive**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानवैशद्यपूर्वकमाऩ भगवदनुभवसंपत्तुम् आत्मावुक्कु सत्तानुवृत्तिहेतुवाऩ शेषत्वानुसन्धानपूर्वकस्वनिष्ठैयुङ् गुलैयुम् पडियाम्।
+</details>
+
+## शास्त्रीयोपदेशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुरुवै प्रकाशिप्पिया निऱ्कच् चॆय्दे  
+अवऩ् पण्णिऩ शास्त्रीयोपदेशत्तुक्कु विरुद्धञ् चॊल्लुम् आगिल्  
+विप्रलंभकऩ् ऎऩ्ऱु पेरुम् आय्
+</details>
+
+<details><summary>English</summary>
+
+If, while **revealing** the greatness of his guru,  
+a man **should contradict** the **teaching imparted** to him by the guru in the śāstras,  
+he **would be** called a **deceiver**  
+</details>
+
+<details><summary>Español</summary>
+
+Si, mientras **revela** la grandeza de su gurú,  
+un hombre **debe contradecir** la **enseñanza que le imparte** el guru en los śāstras,  
+él **sería** llamado **engañador**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुरुवै प्रकाशिप्पियानिऱ्कच्चॆय्दे अवऩ्बण्णिऩ शास्त्रीयोपदेशत्तुक्कु विरुद्धञ्जॊल्लुमागिल् विप्रलंभकऩॆऩ्ऱु पेरुमाय्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ज्यौतिषं व्यवहारं च  
+प्रायश्चित्तं चिकित्सकम् ।  
+विना शास्त्रेण यो **ब्रूयात्**  
+तम् **आहुर्** ब्रह्म-**घातकम्**॥’’  
+(शेष-धर्मः) 
+
+ऎऩ्गिऱ पडिये पापिष्ठऩुम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+and, **become** also a **sinner**, for it **is said**: 
+
+> "He who **teaches** astronomy, law, the śāstra of expiatory rites and the science of medicine  
+against the spirit of the respective śāstras  
+**is called** a "Brahmaghātaka"  
+or one who **has committed** the sin of **killing** a Brahmin " 
+
+</details>
+
+<details><summary>Español</summary>
+
+y, **conviértete** también en **pecador**, porque **se dice**: 
+
+> "El que **enseña** la astronomía, la ley, el śāstra de los ritos expiatorios y la ciencia de la medicina  
+contra el espíritu de los respectivos śāstras  
+**se llama** "Brahmaghātaka"  
+o aquel que **ha cometido** el pecado de **matar** a un brahmán"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ज्यौतिषं व्यवहारं च प्रायश्चित्तं चिकित्सकम् । विना शास्त्रेण यो ब्रूयात् तमाहुर्ब्रह्मघातकम्’’(शेष-धर्मः) ऎऩ्गिऱ पडिये पापिष्ठऩुमाम्।
+</details>
 
 
 
-Even when the man has learnt according to the regulations and then teaches, if he should not render the praise to his guru, his śiṣya may suspect that the truths revealed by him may have no basis (or authority) like parasitic plants growing (on the branches of trees) and treat them with disregard. This omission of giving due praise to one's guru before one's śiṣya is included as one among the thirty-two kinds of offences. It has been stated: “ The wise man should reveal (the greatness of) his guru and guard the mantra with great care.
+## सच्-छिष्यानिराकृतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-By the omission to reveal (the former) and the omission to guard (the latter) respectively, a person's wealth and term of life suffer diminution". (By this omission), the wealth of enjoying Bhagavan with clarity of knowledge and the state of mind which consists in the thought of one being a śeṣa, which is the cause of the soul or self becoming and continuing as an entity - these two will suffer decline. If, while revealing the greatness of his guru, a man should contradict the teaching imparted to him by the guru in the śāstras, he would be called a deceiver and become also a sinner, for it is said: "He who "teaches astronomy, law, the śāstra of expiatory rites and the science of medicine against the spirit of the respective śāstras is called a Brahmaghātaka" or one who has committed the sin of killing a Brahmin ".
+सच्-छिष्यऩुक्कु प्राप्त-दशैयिल् उपदेशत्तैत् तविरुम् आगिल्  
+लुब्धऩ् ऎऩ्ऱु पेरुम् आय् 
+</details>
 
-If a man should fail to impart instruction to a worthy śiṣya at the appropriate time, he would be called a miser and incur also the sin of violating the Lord's command contained in the śloka : “One should cast off one's body after imparting one's knowledge of the self to a worthy śiṣya. A man should not die without iniparting to a worthy śiṣya that knowledge which is the cause of the world's being (or which is the cause of the world's knowledge)". Therefore when the king's torch-bearer is commanded by the king to go on a certain mission, he would hand over the torch in his hand to some one who is found fit for it and then start (on his mission). When a man imparts instruction in a similar manner to a pupil who is apt for it, he should first reveal (the greatness of) his guru and then teach the truths taught to him. Even when, owing to some (favourable) circumstances, he has received divine vision and divine auditions and learnt truths with their help, he should express the truth in the following words: - "I learnt this owing to the grace of my greatācārya. I am not stating what I learnt by my own cleverness" This is what (Sañjaya), for example, says : "By the graces of Vyasa did I hear, directly, this great Yogaśāstra, which Śrī Kṛṣṇa, who has wisdom and other attributes taught in person". If he should say so, the truths that he teaches would be held in high esteem. He would (also) then be esteemed as a grateful śiṣya by sātvikas. As one who spoke the truth, he would be regarded by the Upaniṣads and by the Person revealed in the Upaniṣads as an authority having the same validity as they themselves are. Hisācārya too, would feel gratified to find that, in this grateful and diligent śiṣya, his labours have borne fruit.
+<details><summary>English</summary>
+
+If a man **should fail** to **impart instruction** to a worthy śiṣya at the appropriate time,  
+he **would be called** a miser  
+</details>
+
+<details><summary>Español</summary>
+
+Si un hombre **falla** en **impartir instrucción** a un śiṣya digno en el momento apropiado,  
+él **sería llamado** un avaro
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सच्छिष्यऩुक्कु प्राप्तदशैयिलुपदेशत्तैत् तविरुमागिल् लुब्धऩॆऩ्ऱुबेरुमाय् 
+</details>
+
+
+and incur also the sin of violating the Lord's command contained in the śloka : “One should cast off one's body after imparting one's knowledge of the self to a worthy śiṣya. A man should not die without iniparting to a worthy śiṣya that knowledge which is the cause of the world's being (or which is the cause of the world's knowledge)". Therefore when the king's torch-bearer is commanded by the king to go on a certain mission, he would hand over the torch in his hand to some one who is found fit for it and then start (on his mission). When a man imparts instruction in a similar manner to a pupil who is apt for it, he should first reveal (the greatness of) his guru and then teach the truths taught to him. Even when, owing to some (favourable) circumstances, he has received divine vision and divine auditions and learnt truths with their help, he should express the truth in the following words: - "I learnt this owing to the grace of my greatācārya. I am not stating what I learnt by my own cleverness" This is what (Sañjaya), for example, says : "By the graces of Vyasa did I hear, directly, this great Yogaśāstra, which Śrī Kṛṣṇa, who has wisdom and other attributes taught in person". If he should say so, the truths that he teaches would be held in high esteem. He would (also) then be esteemed as a grateful śiṣya by sātvikas. As one who spoke the truth, he would be regarded by the Upaniṣads and by the Person revealed in the Upaniṣads as an authority having the same validity as they themselves are. Hisācārya too, would feel gratified to find that, in this grateful and diligent śiṣya, his labours have borne fruit.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
