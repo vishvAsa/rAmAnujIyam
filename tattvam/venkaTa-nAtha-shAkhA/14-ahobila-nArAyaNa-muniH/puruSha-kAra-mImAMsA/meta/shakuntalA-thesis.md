@@ -2040,7 +2040,7 @@ is always qualified, it also becomes infinite (**ananta**). According to ŚŚ th
 
 The succeeding Kārikā[^163_146] points out another reason why Lakṣmī cannot be included in the meaning of the word 'Brahman'. The Supreme Brahman is alone **ananta**, from the viewpoint of **guṇas** and **anavadhika-atiśaya** (limitless excellence) and from the viewpoint of **Svarūpa**. This Brahman alone described as the goal (**prāpya**) in the scriptures, says NM in this Kārikā.[^163_47]
 
-ŚŚ quotes several passages from the Śrī Bhāṣya and the Śrutaprakāśikā to justify this point. The implication is that Lakṣmī does not come into the picture in so far as the definition of the term 'Brahman' is concerned. ŚŚ then takes up statements found in the ŚTŚ which imply a controversy on the meaning of the term 'Brahman' (whether Lakṣmī is included in Brahmatva or not), a contradiction which according to ŚŚ does not really exist. NM is purported to have, in his PM, declared and accepted Lakṣmī also as meaning of the word Brahman. This according to ŚŚ, is a baseless allegation. All the ācāryas like Bhāṣyakāra and Vedānta Deśika are unanimous in accepting Lord Puruṣottama alone as the meaning of the word 'Brahman', and Lakṣmī does not come into the picture anywhere. A number of passages from
+ŚŚ quotes several passages from the Śrī Bhāṣya and the Śrutaprakāśikā to justify this point. The implication is that Lakṣmī does not come into the picture in so far as the definition of the term 'Brahman' is concerned. ŚŚ then takes up statements found in the ŚTŚ which imply a controversy on the meaning of the term 'Brahman' (whether Lakṣmī is included in Brahmatva or not), a contradiction which according to ŚŚ does not really exist. NM is purported to have, in his PM, declared and accepted Lakṣmī also as meaning of the word Brahman. This according to ŚŚ, is a baseless allegation. All the ācāryas like Bhāṣyakāra and Vedānta Deśika are unanimous in accepting Lord Puruṣottama alone as the meaning of the word 'Brahman', and Lakṣmī does not come into the picture anywhere. 
 
 [^163_146]: No. 38
 [^163_47]: "तदनन्तं ब्रह्म वेद्यं तत् प्राप्यश्चेति श्रवणात्।।" [Ibid.]
@@ -2049,7 +2049,7 @@ The succeeding Kārikā[^163_146] points out another reason why Lakṣmī cannot
 [[P164]]
 151
 
-the TT and the Gadya Bhāṣya of Vedānta Deśika are quoted in support. The **Pāratantrya** of Lakṣmī is not adventitious but natural for Her. In the same way the **svātantrya** of the Lord is natural but not adventitious. Like the sun becoming unexcelled by virtue of the brilliance of his radiance, the Lord also becomes unexcelled by virtue of His association with Lakṣmī of excellent virtues.
+A number of passages from the TT and the Gadya Bhāṣya of Vedānta Deśika are quoted in support. The **Pāratantrya** of Lakṣmī is not adventitious but natural for Her. In the same way the **svātantrya** of the Lord is natural but not adventitious. Like the sun becoming unexcelled by virtue of the brilliance of his radiance, the Lord also becomes unexcelled by virtue of His association with Lakṣmī of excellent virtues.
 
 That is to say that if Lakṣmī is unexcelled even by Her Lord, it still adds to the glory of the Lord as unexcelled and unequalled (**niḥsamābhyadhika**). On the analogy of Prabhā we can also conclude that the dependency and subordinate character of Lakṣmī are natural to Lakṣmī since she is the Patnī of the Lord; and because it is dependent upon Her eternal will, her dependency on the Lord also becomes eternal. The question of **sāmya** between the Lord and Lakṣmī has already been discussed. Nobody who really understands Deśika would argue that the dependency of Lakṣmī is adventitious (**aupādhika**) and that Her independence is natural. Deśika's **Bhāṣya** on Yāmuna's **Stotraratna** makes this point clear. In other words, the **Pāratantrya** etc., of Lakṣmī are the result of mutual will which is eternal and as such, they are natural (**svābhāvika**). The word '**svābhāvika**' means '**Yāvadātmabhāvitva**',
 
@@ -3092,6 +3092,12 @@ CONTRIBUTION OF ŚRĪŚAILEŚA TO ŚRĪVAIṢṆAVISM
 
 An attempt has been made in the foregoing chapters to study 'The Concept of Puruṣakāra on the basis of the 'Puruṣakāra Mīmāṁsā' of Nārāyaṇa Muni with the help of the commentary Maṇidīpikā of Śrīśaileśa. A detailed analysis of the work has also been made in Chapter IV to understand the intricacies of the concept, highlighting some important shades of difference between ŚŚ and VR. It has already been noted that the ŚTŚ of VR was composed with the specific purpose of demolishing the PM. 
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+कथम् इदं सत्यम्??
+</details>
+
+
 It is in this context that the Maṇidīpikā of ŚŚ assumes greater importance because he has tried to answer all the objections raised by VR, quoting line by line and para by para, almost the entire text of ŚTŚ. It is really unfortunate that VR should have written ŚTŚ with the purpose of refuting the PM, root and branch. After all,both NM and VR claim to represent the great tradition of Śrī Rāmānuja as substantiated by Vedānta Deśika in his works.+++(5)+++ 
 
 The contribution of ŚŚ must be viewed as a remarkable attempt to resurrect the image of his Guru Nārāyaṇa Muni, clearing up the doubts raised in the criticism of VR.
@@ -3125,7 +3131,13 @@ It may be worthwhile to probe into the circumstances under which VR had to write
 
 इति संस्कृतभूमिकानुवादो ऽत्र। 
 
-He was misled by tenkalai polemicists like तिरुमऴिसै कोयिल् कन्दाडै अण्णा अप्पङ्गार्: [TW](/rAmAnujIyam/paramparA/kalai-quarrel/koyil-kandADai-tirumaLHisai-aNNAv-appangAr/paLHa-naDai-viLakkam), as shown below.
+He was misled by tenkalai polemicists -
+
+> "एभिर् एव पश्चात् श्रिय उपायत्व-स्थापक-ग्रन्थ-भागो ऽपि व्यलेखी"ति,  
+"स तु कैश्चित् लोपित" इति च श्री-लक्ष्मी-नृसिंहास्थान-मूर्धाभिषिक्तैः महाचार्यैः प्रत्यपादि  
+इत्य् उभय-वेदान्त-ग्रन्थ-मालायाम् ईशोपनिषन्-मुद्रणावसरे भूमिकायाम् अस्माभिर् निर्दिष्टम् अपि द्रष्टव्यम्।
+
+This error is shown below.
 </details>
 
 
@@ -3218,7 +3230,7 @@ One of the peculiar characteristics of Śrīvaiṣṇava system of thought is th
 
 **pāyatva-dīpa**,[^259_9] '**Śrī-Tattvadarpaṇa**',[^259_10] '**Śrī-Tattvaratna**';[^259_11] '**Lakṣmīmaṇidīpikā**',[^259_12] '**Lakṣmī-samārādhana-saṅgraha**',[^259_13] '**Śrī-prapatti**',[^259_14] '**Śrīyamupāyatva-samarthanam**',[^259_15] '**Lakṣmī śaraṇyatvam**',[^259_16] and '**Lakṣm yupāyatva-vicāra**'.[^259_17] It is quite probable that all these works are later to PM because even the ŚTŚ of Vedānta Rāmānuja himself was a subsequent work.
 
-Irrespective of the differences between **Vaḍagalai** and **Teṅgalai** not withstanding the controversy between PM and ŚTŚ, the **Puruṣakāra Mīmāṁsā** has its own place of eminence in the post-Vedānta Deśika **Śrīvaiṣṇava** literature.Written in crisp and sweet style, the text of the PM conveys the ideas in a simple and unambiguous manner. It may be true that the ŚTŚ of VR is more popular than the **Puruṣakāra Mīmāṁsā** among the world of scholars. It is also surprising to note that while the ŚTŚ has been printed more than once
+Irrespective of the differences between **Vaḍagalai** and **Teṅgalai** not withstanding the controversy between PM and ŚTŚ, the **Puruṣakāra Mīmāṁsā** has its own place of eminence in the post-Vedānta Deśika **Śrīvaiṣṇava** literature. Written in crisp and sweet style, the text of the PM conveys the ideas in a simple and unambiguous manner. It may be true that the ŚTŚ of VR is more popular than the **Puruṣakāra Mīmāṁsā** among the world of scholars. 
 
 [^259_9]: D.5358 (GOML)
 [^259_10]: TR 253 (Ad. Lib)
@@ -3234,7 +3246,7 @@ Irrespective of the differences between **Vaḍagalai** and **Teṅgalai** not w
 [[P260]]
 247
 
-or twice, the PM has not been printed more than once, and even that edition of PM is not available. Some traditional scholars are still of the opinion that it is incomplete but it is not true. This atleast reflects the comparative neglect to which this important works has been subjected.
+It is also surprising to note that while the ŚTŚ has been printed more than once or twice, the PM has not been printed more than once, and even that edition of PM is not available.+++(5)+++ Some traditional scholars are still of the opinion that it is incomplete - but it is not true. This atleast reflects the comparative neglect to which this important works has been subjected.
 
 The great admirable feature of the PM is its catholicity of approach to the problem. He mentions Lokācārya by name and tries to reconcile the differences between him and Vedānta Deśika.[^260_18] NM is strongly in favour of seeing points of concurrence between these two Ācāryas. The **aikakaṇṭhya** which he mentions in the spirit of a great Ācārya cannot be merely brushed aside as statement of an enthusiast. It is backed by a genuine interest in presenting the system of Rāmānuja to the scholars at large in its pure spirit of tolerance and synthesis. According to NM both Piḷḷai Lokācārya and Deśika are **āptas** or benefactors of humanity. Their works should not be subjected to narrow interpretation and limited non-synthetic understanding. The Commentary
 
