@@ -1390,12 +1390,22 @@ Keeping in mind her role as 'Puruṣakāra', the term 'Śrī' is also explained 
 ## NĀRĀYAṆA MUNI VS VEDĀNTA RĀMĀNUJA
 DIFFERENCES BETWEEN NĀRĀYAṆA MUNI AND VEDĀNTA RĀMĀNUJA
 
-Having studied the text of PM in detail it is worthwhile to note the main differences between Nārāyaṇa Muni and his chief critic Vedānta Rāmānuja Muni in a codified manner in this chapter. Our understanding of the text of PM is mainly based upon the Maṇidīpikā of ŚŚ, who, as pointed out earlier, must have been the direct disciple of NM. Scholars are of the opinion that the first five pontiffs of the Ahobila Maṭha could have been subscribers to the views of Piḷḷai Lokācārya on the essential nature and role of Lakṣmī.[^101_1] The criticism of VR against NM could have been mainly based upon this conception that what NM was trying to explain in his PM was more in keeping with his Teṅgalai tradition than with the Vaḍagalai tradition represented by Vedānta Deśika.
+Having studied the text of PM in detail it is worthwhile to note the main differences between Nārāyaṇa Muni and his chief critic Vedānta Rāmānuja Muni in a codified manner in this chapter. 
+
+Our understanding of the text of PM is mainly based upon the Maṇidīpikā of ŚŚ, who, as pointed out earlier, must have been the direct disciple of NM. Scholars are of the opinion that the first five pontiffs of the Ahobila Maṭha could have been subscribers to the views of Piḷḷai Lokācārya on the essential nature and role of Lakṣmī.[^101_1] The criticism of VR against NM could have been mainly based upon this conception that what NM was trying to explain in his PM was more in keeping with his Teṅgalai tradition than with the Vaḍagalai tradition represented by Vedānta Deśika.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+While there may be some hair-splitting disagreements with PM along the way, it wouldn't be credible that STS author should attribute absurd positions to PM.
+</details>
+
 
 NM in the very opening verse of PM, may be said to have summarised the central theme of his work.
 
-> स्वतन्त्रः स्वेच्छया सृष्टिस्थितिसंहारमोक्षणे।
-> यत्सङ्गं क्रीडतीशः तां भजे लोकमातरम्।। 1।।
+> स्वतन्त्रः स्वेच्छया सृष्टि-  
+> स्थितिस-ंहार-मोक्षणे।
+> यत्-सङ्गं क्रीडतीशस्  
+> तां भजे लोकमातरम्।। 1।। +++(5)+++
 
 [^101_1]: For details see R.C.Lester, 'Renunciation in Śrī Vaiṣṇavism', JOR, Vol.LVI-LXII, p.94.
 
@@ -1405,14 +1415,16 @@ NM in the very opening verse of PM, may be said to have summarised the central t
 
 According to NM, creation, maintenance, dissolution and liberation of the Universe are the functions of the Lord who is the only independent principle. All these activities take place due to His own free will. He does all these in the presence of the Divine Mother Lakṣmī, which activity becomes their sport. A number of ideas can be deduced from this simple verse:
 
-(1) Viṣṇu and Lakṣmī form the Divine Couple. The Lord alone is responsible for full-fledged creation, dissolution etc.
+> (1) Viṣṇu and Lakṣmī form the Divine Couple. The Lord alone is responsible for full-fledged creation, dissolution etc.
 
-(2) The role of Lakṣmī can be appreciated as the Mother of the Universe, since she is the consort of the Lord. She is not directly connected with all those cosmic functions, which the Lord performs. The commentary of ŚŚ brings out the subtleties of this view and explains that Lakṣmī can never have any activity involving or even implying **nigraha**. The subsequent verse:
+(2) The role of Lakṣmī can be appreciated as the Mother of the Universe, since she is the consort of the Lord. She is not directly connected with all those cosmic functions, which the Lord performs. 
 
-> स्वयं व्यक्तं रङ्गधाम्नि
-> तल्पे वातुल कुल्मके।
-> निवसन्तो नमाम्याद्यौ
-> दम्पती जनको विधेः।। 2।।
+The commentary of ŚŚ brings out the subtleties of this view and explains that Lakṣmī can never have any activity involving or even implying **nigraha**. The subsequent verse:
+
+> स्वयं व्यक्तं रङ्ग-धाम्नि
+> तल्पे वातूल-तूलके।  
+> निवसन्तौ नमाम्याद्यौ
+> दम्पती जनकौ विधेः।। 2।।
 
 qualifies the meaning of the first verse by declaring that this Divine Couple (identified with Lord Raṅganātha and
 
@@ -1422,7 +1434,11 @@ qualifies the meaning of the first verse by declaring that this Divine Couple (i
 
 Raṅganāyakī at Śrīraṅgam) form the parents of Brahmā the four-faced creator God. This verse points out that **jagajjanakatva** (being parents of the universe) need not be taken in a secondary sense as **pitṛtva**. It could even mean being the creators directly as in the case of Brahmā who is accepted on all hands as the son of this Divine Couple.
 
-When these two verses are read together it becomes clear that Lakṣmī, the Divine Mother could have been the direct parent of the Brahmā in the primary sense and Mother for the rest of the universe in a secondary sense. The works of VD speak of Lakṣmī as an attribute of the Lord since she is His '**patnī**'. The secondary status of the '**patnī**' cannot be denied, contends NM. There are several instances in the scriptural passages which posit similarity between the Lord and His consort. There are also passages speaking of utmost similarity (**atyanta-tulyatā**) between them. The chief purpose of PM therefore, is to decide beyond doubt if Lakṣmī the Patnī can lay claims to all the features of Her Lord, in the manner He possesses them 'patnyāḥ pativadīdrktvam asti neti nirūpyate' (PM. p.6).
+When these two verses are read together it becomes clear that Lakṣmī, the Divine Mother could have been the direct parent of the Brahmā in the primary sense and Mother for the rest of the universe in a secondary sense. 
+
+The works of VD speak of Lakṣmī as an attribute of the Lord since she is His '**patnī**'. The secondary status of the '**patnī**' cannot be denied, contends NM. There are several instances in the scriptural passages which posit similarity between the Lord and His consort. There are also passages speaking of utmost similarity (**atyanta-tulyatā**) between them. 
+
+The chief purpose of PM therefore, is to decide beyond doubt if Lakṣmī the Patnī can lay claims to all the features of Her Lord, in the manner He possesses them 'patnyāḥ pativad īdrktvam asti neti nirūpyate' (PM. p.6).
 
 Vedānta Rāmānuja Muni whose ŚTS was 'designed chiefly to demolish' the PM, takes exception to the stand taken by NM on one important issue namely Her Upāyatva.
 
@@ -1430,11 +1446,15 @@ Vedānta Rāmānuja Muni whose ŚTS was 'designed chiefly to demolish' the PM, t
 [[P104]]
 91
 
-According to NM, Lord alone is the direct means of salvation but not Lakṣmī. Lakṣmī's being the **upāya** for Mokṣa is also acknowledged in some scriptural and Āgama passages and openly expressed in the **stotras** of Ācāryas as well. But NM prefers to explain this **upāyatva** through Lakṣmī's status as an 'attribute' of the Lord and never as the substantive, that is the Lord. Regarding **nigraha** also, while VR points out **sāmarthya** (capacity) to punish the wicked as being present in the Divine Mother, NM contends that even granting this, Lakṣmī never desires to display it.
+According to NM, Lord alone is the direct means of salvation but not Lakṣmī. Lakṣmī's being the **upāya** for Mokṣa is also acknowledged in some scriptural and Āgama passages and openly expressed in the **stotras** of Ācāryas as well. But NM prefers to explain this **upāyatva** through Lakṣmī's status as an 'attribute' of the Lord and never as the substantive, that is the Lord. 
+
+Regarding **nigraha** also, while VR points out **sāmarthya** (capacity) to punish the wicked as being present in the Divine Mother, NM contends that even granting this, Lakṣmī never desires to display it.
 
 "**śaktiḥ śriyo'sti neccheti**" (Kārikā 41a)
 
-For NM the **Viśeṣaṇatva** of Lakṣmī is the key which unlocks the flood-gates of a number of features such as **kāraṇatva**, **upāsyatva**, **upāyatva** and **prāpyatva**. Her creation is marked by pure and unalloyed grace. She receives the **Bhara**, and confers upon the devotees supreme Bliss through sheer love and affection. The Lord is a **daṇḍadhara** but Lakṣmī is entirely devoid of this quality. In so far as conferring Mokṣa is concerned while VR contends that Lakṣmī is as powerful and full-fledged an **upāya** as the Lord is, NM makes her the **upāya** through the
+For NM the **Viśeṣaṇatva** of Lakṣmī is the key which unlocks the flood-gates of a number of features such as **kāraṇatva**, **upāsyatva**, **upāyatva** and **prāpyatva**. Her creation is marked by pure and unalloyed grace. She receives the **Bhara**, and confers upon the devotees supreme Bliss through sheer love and affection. The Lord is a **daṇḍadhara** but Lakṣmī is entirely devoid of this quality. 
+
+In so far as conferring Mokṣa is concerned while VR contends that Lakṣmī is as powerful and full-fledged an **upāya** as the Lord is, NM makes her the **upāya** through the
 
 ***
 [[P105]]
@@ -1506,7 +1526,11 @@ Lakṣmī's upayoga in the 'sacrifice of protection' lies in generating a steady
 [[P111]]
 98
 
-According to NM and VR Lakṣmī forms the **Puruṣakāra** also. They both agree that there is as **sāmarthya** in her. But VR tries relate this **sāmarthya** to **kriyā**, and thus, make Lakṣmī the **sahakartrī** in the act of protection. This according to him is the **upāyatva**. But according to NM as explained by ŚŚ, **sāmarthya** must necessarily involve **kriyā**, which in the case of Lakṣmī is not possible. In other words she cannot do things directly involving **nigraha** as the Lord does. Therefore there is between them what is called **aikarasya** which means **sāmarasya**. It is this 'identity of tastes' that makes Lakṣmī indirectly, a component in the scheme of **upāya**. Thus the main difference between NM and VR lies in establishing Lakṣmī's **upāyatva** through **sāmarasya** and not merely through **sāmarthya**. Even her role as **Puruṣakāra** becomes fruitful only through **sāmarasya**.[^111_9]
+According to NM and VR Lakṣmī forms the **Puruṣakāra** also. They both agree that there is as **sāmarthya** in her. But VR tries relate this **sāmarthya** to **kriyā**, and thus, make Lakṣmī the **sahakartrī** in the act of protection. This according to him is the **upāyatva**. But according to NM as explained by ŚŚ, **sāmarthya** must necessarily involve **kriyā**, which in the case of Lakṣmī is not possible. In other words she cannot do things directly involving **nigraha** as the Lord does. 
+
+Therefore there is between them what is called **aikarasya** which means **sāmarasya**. It is this 'identity of tastes' that makes Lakṣmī indirectly, a component in the scheme of **upāya**. 
+
+Thus the main difference between NM and VR lies in establishing Lakṣmī's **upāyatva** through **sāmarasya** and not merely through **sāmarthya**. Even her role as **Puruṣakāra** becomes fruitful only through **sāmarasya**.[^111_9]
 
 As a **Viśeṣaṇa** of the Lord she becomes the **kāraṇa** also, of course indirectly. She is different from gods like Brahmā and Indra who in the **Pratardanavidyā** form the **viśeṣaṇas** of the Lord. This is the difference between NM and VR: Though dependent on the Lord, Lakṣmī can grant **Mokṣa** also by granting **sāmya** etc.
 
@@ -3090,13 +3114,9 @@ The details of the commentator and his parentage have already been discussed ear
 ## CONTRIBUTION OF ŚRĪŚAILEŚA
 CONTRIBUTION OF ŚRĪŚAILEŚA TO ŚRĪVAIṢṆAVISM
 
-An attempt has been made in the foregoing chapters to study 'The Concept of Puruṣakāra on the basis of the 'Puruṣakāra Mīmāṁsā' of Nārāyaṇa Muni with the help of the commentary Maṇidīpikā of Śrīśaileśa. A detailed analysis of the work has also been made in Chapter IV to understand the intricacies of the concept, highlighting some important shades of difference between ŚŚ and VR. It has already been noted that the ŚTŚ of VR was composed with the specific purpose of demolishing the PM. 
+An attempt has been made in the foregoing chapters to study 'The Concept of Puruṣakāra on the basis of the 'Puruṣakāra Mīmāṁsā' of Nārāyaṇa Muni with the help of the commentary Maṇidīpikā of Śrīśaileśa. 
 
-<details><summary>विश्वास-टिप्पनी</summary>
-
-कथम् इदं सत्यम्??
-</details>
-
+A detailed analysis of the work has also been made in Chapter IV to understand the intricacies of the concept, highlighting some important shades of difference between ŚŚ and VR. It has already been noted that the ŚTŚ of VR was composed with the specific purpose of demolishing the PM.
 
 It is in this context that the Maṇidīpikā of ŚŚ assumes greater importance because he has tried to answer all the objections raised by VR, quoting line by line and para by para, almost the entire text of ŚTŚ. It is really unfortunate that VR should have written ŚTŚ with the purpose of refuting the PM, root and branch. After all,both NM and VR claim to represent the great tradition of Śrī Rāmānuja as substantiated by Vedānta Deśika in his works.+++(5)+++ 
 
