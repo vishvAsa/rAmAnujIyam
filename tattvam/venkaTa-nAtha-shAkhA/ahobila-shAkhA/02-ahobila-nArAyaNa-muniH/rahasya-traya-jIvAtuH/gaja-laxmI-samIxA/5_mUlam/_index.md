@@ -8,5 +8,10 @@ title = "+५ मूलम्"
 ॥ श्रीमते रामानुजाय नमः॥  
 ॥ रहस्यत्रय-जीवातुः॥
 
+[[TODO: परिष्कार्यम्]]
 
-GOML, melukote, tirupati: [सम्पादनान्तरम्](https://docs.google.com/document/d/16DWXmoyBr1JlUNDmXZoXkHEjHnbNuThw7d0f4TFYMI4/edit?tab=t.0)
+<details><summary>विश्वास-टिप्पनी</summary>
+
+This type of "editing" passes for PhD award? (Eg. actual text किं वा विरोचनस् तस्य पुत्रत्वात् परिगृह्यत इति। vs typed text "किं वा विरोध-वचनस् तस्य पुत्रत्वात् परिगृह्यत इति।") Many such spots. Guide (KE dharaNIdharan) should've caught - atleast by reading once. धिक्।
+</details>
+
