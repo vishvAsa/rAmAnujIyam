@@ -1375,7 +1375,8 @@ y **limpió** el camino para que **sea libre** de **obstáculos** -
 </details>
 
 
-### फल-स्तुतिः
+### मार्ग-स्तुतिः
+#### सुगमता
 <details><summary>English</summary>
 
 THE GOOD RESULTS THAT WILL FOLLOW FROM A STUDY OF THIS TREATISE:
@@ -1525,7 +1526,7 @@ Para aquel que **sigue** la huella de los grandes hombres,
 महर्षिकळ् नॆञ्जाऱल्बडुम् वऴिगळ् काणवेण्डा। 
 </details>
 
-
+#### अपुनर्-आवृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चाग्नि-विद्यैयिऱ् सॊऩ्ऩ बडिये -  
@@ -1572,16 +1573,638 @@ y **repitiendo** este proceso.)
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘त्वं **न्य्-अञ्चद्भिर् उद्-अञ्चद्भिः**  
+कर्म-सूत्रोपपादितैः ।  
+हरे **विहरसि** क्रीडा-  
+कन्दुकैरिव जन्तुभिः॥’’  
+(विष्णुधर्मः) 
+
+ऎऩ्गिऱ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘त्वं **न्य्-अञ्चद्भिर् उद्-अञ्चद्भिः**  
+कर्म-सूत्रोपपादितैः ।  
+हरे **विहरसि** क्रीडा-  
+कन्दुकैरिव जन्तुभिः॥’’  
+(विष्णुधर्मः) 
+
+</details>
+
+<details><summary>English</summary>
+
+It **has been said** :-- 
+
+> "O Lord, Thou **playest**, as with balls,  
+with creatures **bound** by the strings of karma  
+which are **going** up and **coming** down". 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho** :-- 
+
+> "Oh Señor, Tú **juegas**, como con pelotas,  
+con criaturas **atadas** por los hilos del karma  
+que **son subiendos** y **bajandos**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वं न्यञ्चद्भिरुदञ्चद्भिः कर्मसूत्रोपपादितैः । हरे विहरसि क्रीडाकन्दुकैरिव जन्तुभिः॥’’(विष्णुधर्मः) ऎऩ्गिऱ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवल्-लीलोपकरणम् आऩ दशै कऴिन्दु 
+</details>
+
+<details><summary>English</summary>
+
+To the man who **follows** the ways of great men,  
+the state when he **is** thus a toy for the **sport** of Bhagavān  
+**will** soon **pass away**. 
+</details>
+
+<details><summary>Español</summary>
+
+Al hombre que **sigue** los caminos de los grandes hombres,  
+el estado en el que **es** un juguete para el **deporte** de Bhagavān  
+**pronto fallecerá**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवल्लीलोपकरणमाऩ दशैकऴिन्दु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱुम् उळ्ळ अतिशयित-फलङ्गळ्  
+पॆऱप् पोम् अधिकारिगळ्-उडैय वऴिगळिऱ् काट्टिल्  
+</details>
+
+<details><summary>English</summary>
+
+He will then **go** along a path  
+which **is** superior to the paths **followed** by others  
+to **attain** high ends (like svarga),  
+</details>
+
+<details><summary>Español</summary>
+
+Luego **irá** por un camino  
+que **es** superior a los caminos **seguidos** por otros  
+para **alcanzar** extremos altos (como svarga),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुमुळ्ळ अतिशयित-फलङ्गळ् पॆऱप्पोम् अधिकारिकळुडैय वऴिगळिऱ्काट्टिल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषार्थ-भूयस्तैयालुम्, 
+पुनरावृत्तिय् इल्लामैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+because it **will lead** to an end or goal  
+greater than all others  
+and **will never result** in a **return** to saṁsāra. 
+</details>
+
+<details><summary>Español</summary>
+
+porque **conducirá** a un fin o meta  
+mayor que todos los demás  
+y **nunca resultará** en un **regreso** al saṁsāra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरुषार्थभूयस्तैयालुम्,पुनरावृत्तियिल्लामैयालुम् 
+</details>
+
+#### उत्क्रान्त्य्-उत्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तेभ्यो विशिष्टां जानामि  
+गतिम् एकान्तिनां नृणाम्’’  
+(भारतम् शान्ति-पर्व ३५८-६), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तेभ्यो विशिष्टां जानामि  
+गतिम् एकान्तिनां नृणाम्’’  
+(भारतम् शान्ति-पर्व ३५८-६), 
+</details>
+
+<details><summary>English</summary>
+
+It **has been said**:-  
+
+> "**I know** that the path  
+which **will be trodden** by the man  
+who **has** exclusive **devotion** to Bhagavān  
+**is** far superior to others"  
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**:-  
+
+> "**Sé** que el camino  
+que **será pisoteada** por el hombre  
+que **tiene devoción** exclusiva por Bhagavān  
+**es** muy superior a los demás"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तेभ्यो विशिष्टां जानामि गतिमेकान्तिनां नृणाम्’’(भारतम् शान्ति-पर्व ३५८-६), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उत्क्रामति च मार्ग-स्थश्  
+शीती-भूतो निरामयः॥’’  
+(भारतम् शान्ति-पर्व १९४-२७), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘उत्क्रामति च मार्ग-स्थश्  
+शीती-भूतो निरामयः॥’’  
+(भारतम् शान्ति-पर्व १९४-२७), 
+</details>
+
+<details><summary>English</summary>
+
+and likewise, 
+
+> “He, ( the jīva ) **starts** from the body by an excellent path,  
+which **is** so cool as to **remove** the **sufferings** of saṁsāra." 
+</details>
+
+<details><summary>Español</summary>
+
+y de la misma manera, 
+
+> “Él, (la jīva) **parte** del cuerpo por un camino excelente,  
+lo cual **es** tan genial como para **eliminar** los **sufrimientos** del saṁsāra."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘उत्क्रामति च मार्गस्थश्शीतीभूतो निरामयः’’(भारतम् शान्ति-पर्व १९४-२७), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘देवयानः परः पन्था  
+योगिनां क्लेश-संक्षयः’’() 
+
+इत्य्-आदिगळिऱ् पडिये अत्यन्त-विशिष्टम् आय् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘देवयानः परः पन्था  
+योगिनां क्लेश-संक्षयः’’() 
+
+
+</details>
+
+<details><summary>English</summary>
+
+and further, 
+
+> "to those who **have practised** yoga,  
+(all) **sufferings will cease**  
+and they will then **journey** by the Deva yāna route," 
+
+This excellent path …
+</details>
+
+<details><summary>Español</summary>
+
+y además, 
+
+> "a aquellos que **han practicado** yoga,  
+(todos) **los sufrimientos cesarán**  
+y luego **viajarán** por la ruta Deva yāna",
+
+Este excelente camino…
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘देवयानः परः पन्थाः योगिनां क्लेशसंक्षय’’() इत्यादिगळिऱ्पडिये अत्यन्तविशिष्टमाय् 
+</details>
+
+#### प्राप्योत्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १४‘‘आत्मा केवलतां **प्राप्तो**  
+यत्र **गत्वा न शोचति**।’’  
+(भारतम् शान्ति-पर्व १९६-११), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १४‘‘आत्मा केवलतां **प्राप्तो**  
+यत्र **गत्वा न शोचति**।’’  
+(भारतम् शान्ति-पर्व १९६-११), 
+</details>
+
+<details><summary>English</summary>
+
+> " It **is** a splendid region  
+on **reaching** which  
+the self **will become** (itself), (i. e.) free from avidyā  
+and consequently from **suffering**," 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Es** una región espléndida  
+al **alcanzar** cual  
+el yo **se volverá** (él mismo), (es decir) libre de avidyā  
+y en consecuencia del **sufrimiento**",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१४‘‘आत्मा केवलतां प्राप्तो यत्र गत्वा न शोचति’’(भारतम् शान्ति-पर्व १९६-११), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अत्य्-अर्कानल-दीप्तन् तत्  
+**स्थानं** विष्णोर् महात्मनः ।  
+स्वयैव प्रभया राजन्  
+दुष्प्रेक्षन् देव-दानवैः । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अत्य्-अर्कानल-दीप्तन् तत्  
+**स्थानं** विष्णोर् महात्मनः ।  
+स्वयैव प्रभया राजन्  
+दुष्प्रेक्षन् देव-दानवैः । 
+</details>
+
+<details><summary>English</summary>
+
+> " The abode of the Supreme Being, Viṣṇu, **shines** far more than the sun or the fire.  
+It **is** so dazzlingly bright  
+that even the gods and asuras **cannot gaze** at it," 
+</details>
+
+<details><summary>Español</summary>
+
+> "La morada del Ser Supremo, Viṣṇu, **brilla** mucho más que el sol o el fuego.  
+**Es** tan deslumbrantemente brillante  
+que ni siquiera los dioses y asuras **pueden contemplarlo**",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अत्यर्कानल दीप्तन्तत् स्थानं विष्णोर्महात्मनः । स्वयैव प्रभया राजन् दुष्प्रेक्षन्देव-दानवैः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यत्र गत्वा पुनर् नेमं  
+लोकम् **आयान्ति** भारत ॥  
+एते वै +++(स्वर्गादयो)+++ निरयास् तात  
+स्थानस्य परमात्मनः।’’  
+(भारतम् आरण्य-पर्व १३६-१८) 
+
+इत्य्-आदिगळिलुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> यत्र गत्वा पुनर् नेमं  
+लोकम् **आयान्ति** भारत ॥  
+एते वै +++(स्वर्गादयो)+++ निरयास् तात  
+स्थानस्य परमात्मनः।’’  
+(भारतम् आरण्य-पर्व १३६-१८) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+> “Those great souls who **have completed** their **practice** of yoga  
+and **have become** free from ignorance and illusion  
+**reach** that region  
+from which there **is no return** to this world of saṁsāra." 
+
+> "When **compared** with the region where the Supreme Being **abides**,  
+this svarga and other worlds **are**, my child, like hells". 
+</details>
+
+<details><summary>Español</summary>
+
+> “Esas grandes almas que **han completado** su **práctica** de yoga  
+y **me he vuelto** libre de la ignorancia y la ilusión  
+**llegar** a esa región  
+desde el cual **no hay retorno** a este mundo de saṁsāra."
+
+> "Cuando **comparado** con la región donde el Ser Supremo **habita**,  
+este svarga y otros mundos **son**, hija mía, como infiernos".
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्र गत्वा पुनर्नेमं लोकमायान्ति भारत ॥ एते वै निरयास्तात स्थानस्य परमात्मनः।’’(भारतम् आरण्य-पर्व १३६-१८) इत्यादिगळिलुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसाराध्वावुक्कु पारम् ऎऩ्ऱु  
+श्रुतिगळिलुम् ओदप् पडुगिऱ  
+परम-पदत्तै पर्यन्तम् आगव् उडैत्त् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+(It) **will terminate** in the region (Paramapada) **described** in the above ślokas.
+
+This path (Devayāna) **will terminate** in Paramapada  
+which **is declared** in the śrutis also  
+as the ultimate terminus of the route **leading** away from saṁsāra. 
+</details>
+
+<details><summary>Español</summary>
+
+(Él) **terminará** en la región (Paramapada) **descrita** en los ślokas anteriores.
+
+Este camino (Devayāna) **terminará** en Paramapada  
+que **está declarado** en los śrutis también  
+como el último término de la ruta que **conduce** fuera del saṁsāra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+संसाराध्वावुक्कु पारमॆऩ्ऱु श्रुतिकळिलुमोदप्पडुगिऱ परमपदत्तै पर्यन्तमाग वुडैत्ताय्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-प्रसादावलम्बनम् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+The self (that takes that path) **will have**, for its supporting staff,  
+the grace of Bhagavān, 
+</details>
+
+<details><summary>Español</summary>
+
+El yo (que toma ese camino) **tendrá**, como palo de apoyo,  
+la gracia de Bhagavān,
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्रसादावलम्बनमाय्, 
+</details>
+
+#### सन्तोष-पाथेयम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परिपूर्णम् आऩ परम-पुरुषार्थत्तैप् पॆऱप् पुगुगिऱोम्  
+
+ऎऩ्गिऱ सन्तोषत्तै पाथेयम् आगव् उडैत्ताय्, +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+and **will have**, for the victuals of its journey,  
+the delight in the **thought** that  
+it will (soon) **attain** the supreme end of life. 
+</details>
+
+<details><summary>Español</summary>
+
+y **tendrá**, para los víveres de su viaje,  
+el deleite en el **pensamiento** que  
+(pronto) **alcanzará** el fin supremo de la vida.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परिपूर्णमाऩ परमपुरुषार्थत्तैप् पॆऱप् पुगुगिऱोमॆऩ्गिऱ सन्तोषत्तै पाथेयमागवुडैत्ताय्, 
+</details>
+
+#### ईश्वरादिभिर् नयनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तत्-प्रकाशित-द्वारः’’  
+(ब्रह्मसूत्रम् ४-२-१६)  
+
+ऎऩ्गिऱ बडिये  
+हार्दऩ् आऩ ईश्वरऩ्-उडैय सौहार्दत्ताले काट्टप्पडुगिऱ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तत्-प्रकाशित-द्वारः’’  
+(ब्रह्मसूत्रम् ४-२-१६)  
+
+
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in the Brahma-sūtras  
+
+> "He **will start** from there  
+by the **opening** of the vein (nāḍi) **indicated** and **lighted** by the Lord  
+who **dwells** within the heart" 
+</details>
+
+<details><summary>Español</summary>
+
+Como **indicado** en los Brahma-sūtras  
+
+> "Él **comenzará** desde allí  
+por la **apertura** de la vena (nāḍi) **indicada** e **iluminada** por el Señor  
+que **habita** dentro del corazón"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘तत्प्रकाशितद्वारः’’(ब्रह्मसूत्रम् ४-२-१६) ऎऩ्गिऱबडिये हार्दऩाऩ ईश्वरऩुडैय सौहार्दत्ताले काट्टप्पडुगिऱ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्चिर्-आदि-मार्गत्ताले  
+अव्व्-ओ देवतैगळ् तन्-दाम् ऎल्लैगळ् तोऱुम्+++(=प्रति)+++  
+मङ्गळ-प्रदीप--पूर्ण-कुंभादिगळै मुऩ्ऩिट्टु  
+स-परिकरर् आय् ऎदिर् गॊण्डु  
+सार्वभौमोपचारङ्गळैप् पण्णि वऴि नडत्त, 
+</details>
+
+<details><summary>English</summary>
+
+and **take** the arcirādi route along which, in the respective regions of the gods,  
+he **would be greeted** and **welcomed** with honours **befitting** emperors  
+by the respective deities thereof  
+with auspicious lamps and pitchers full of water (pūrṇakumbha)  
+and **attended** by their followers.  
+They **will escort** the self on its path  
+
+</details>
+
+<details><summary>Español</summary>
+
+y **tomar** la ruta arcirādi a lo largo de la cual, en las respectivas regiones de los dioses,  
+él **sería recibido** y **bienvenido** con honores **propios** de los emperadores  
+por sus respectivas deidades  
+con lámparas auspiciosas y cántaros llenos de agua (pūrṇakumbha)  
+y **asistido** por sus seguidores.  
+Ellos **escoltarán** al yo en su camino
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्चिरादि मार्गत्ताले अव्वो देवतैकळ् तन्दामॆल्लैगळ्दोऱुम् मङ्गळ प्रदीपपूर्णकुंभादिगळै मुऩ्ऩिट्टु सपरिकरराय् ऎदिर्गॊण्डु सार्वभौमोपचारङ्गळैप् पण्णिवऴिनडत्त, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्म-लोकत्तिल् इरुन्द नाळ्  
+इऱै+++(=ऐश्वर्यम् → बलिं)+++ कोण्ड देवतैगळ् ऎल्लाङ्  
+काणिक्कैय् इट्टुक् कण्ड् अनुवर्तिक्क, 
+</details>
+
+<details><summary>English</summary>
+
+and those deities to whom the man **made offerings** in the world of karma before  
+will (now) **pay** tributes to his self. 
+</details>
+
+<details><summary>Español</summary>
+
+y aquellas deidades a quienes el hombre **hizo ofrendas** en el mundo del karma antes  
+(ahora) **pagará** homenajes a sí mismo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्मलोकत्तिलिरुन्द नाळ् इऱैगॊण्ड देवतैकळॆल्लाङ् गाणिक्कैयिट्टुक्कण्डनुवर्तिक्क, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवर्गळुक्कुम् ऎट्ट वॊण्णादव् ऎल्लैगळ् ऎल्लाङ् कडन्दु 
+</details>
+
+<details><summary>English</summary>
+
+The self then **passes** into regions which **are** beyond their range  
+</details>
+
+<details><summary>Español</summary>
+
+El yo entonces **pasa** a regiones que **están** más allá de su alcance.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवर्गळुक्कुमॆट्टवॊण्णादवॆल्लैगळॆल्लाङ्गडन्दु 
+</details>
+
+#### नित्य-सूरि-प्राप्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्य-सूरिगळ् तिरळिऱ्+++(=यूथे)+++ पुक्काल्  
+वासि+++(=वैषम्यम्)+++ तॆरियाद बडिय् आऩ  
+निरतिशय-पूर्तियैप् पॆऱ्ऱु, 
+</details>
+
+<details><summary>English</summary>
+
+and **attains** a supreme perfection  
+which **would make it** difficult  
+for it to be **distinguished** from the eternal sūris  
+when it **enters** their assembly. 
+</details>
+
+<details><summary>Español</summary>
+
+y **alcanza** una perfección suprema  
+lo cual **lo haría** difícil  
+para que **se distinga** de los eternos sūris  
+cuando **entra** en su asamblea.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यसूरिकळ् तिरळिऱ् पुक्काल् वासि तॆरियादबडियाऩ निरतिशयपूर्तियैप् पॆऱ्ऱु, 
+</details>
+
+#### भगवद्-दर्शनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ततो महति पर्यङ्के  
+मणि-काञ्चन-चित्रिते ।  
+**ददर्श** कृष्णम् **आसीनं**  
+नीलं मेराव् इवाम्बुदम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘ततो महति पर्यङ्के  
+मणि-काञ्चन-चित्रिते ।  
+**ददर्श** कृष्णम् **आसीनं**  
+नीलं मेराव् इवाम्बुदम् ॥ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ततो महति पर्यङ्के मणिकाञ्चनचित्रिते । ददर्श कृष्णमासीनं नीलं मेराविवाम्बुदम् ॥ 
+</details>
 
 
 
+The self will then **reach** under the two feet of the Supreme Ruler and His consort  
+who **are resting** on a couch in Paramapada,  
+the like of which **has been described** in the Mahābhārata and the Rāmāyaṇa  
+in connection with the avatars as their manner of **being seated**:  
 
-It has been said :-- "O. Lord,' Thou playest, as with balls, with creatures bound by the strings of karma  and going up and coming down". To the man who follows the ways of great men, the state when he is thus a toy for the sport of Bhagavān will soon pass away. He will then go along a path which is superior to the paths followed by others to attain high ends (like svarga), because it will lead to an end or goal greater than all others and will never result in a return to saṁsāra. It has been said:- "I know' that the path which will be trodden by the man who has exclusive devotion to Bhagavān is far superior to others" and likewise, “He, ( the jīva ) starts from the body by an excellent path, which is so cool as to remove the sufferings of saṁsāra." and further, "to those "who have practised yoga, (all) sufferings will cease and they will then journey by the Deva yāna route," This excellent path will terminate in the region (Paramapada) described in the following ślokas -- " It is a 'splendid region on reaching which the self will become (itself), (i. e.) free from avidyā and consequently from suffering," " The abode of the Supreme Being, Viṣṇu, shines far more than the sun or the fire.
-
-It is so dazzlingly bright that even the gods and asuras cannot gaze at it," 
-
-
-“Those great souls who have completed their practice of yoga and have become free from ignorance and illusion reach that region from which there is no return to this world of saṁsāra." "When compared with the region where the Supreme Being abides, this svarga and other worlds are, my child, like bells". This path (Devayāna) will terminate in Paramapada which is declared in the śrutis also as the ultimate terminus of the route leading away from saṁsāra. The self (that takes that path) will have, for its supporting staff, the grace of Bhagavān, and will have, for the victuals of its journey, the delight in the thought that it will (soon) attain the supreme end of life. As stated in the Brahma-sūtras "' He will start" from there by the opening of the vein (nāḍi) indicated and lighted by the Lord who dwells within the heart" and take the arcirādi route along which, in the respective regions of the gods, he would be greeted and welcomed with honours befitting emperors by the respective deities thereof with auspicious lamps and pitchers full of water (pūrṇakumbha) and attended by their followers. They will escort the self on its path and those deities to whom the man made offerings in the world of karma  before will (now) pay tributes to his self. The self then passes into regions which are beyond their range and attains a supreme perfection which would make it difficult for it to be distinguished from the eternal sūris when it enters their assembly. The self will then reach under the two feet of the Supreme „Ruler and His consort who are resting on a couch in Paramapada, the like of which has been described in the Mahābhārata and the Rāmāyaṇa in connection with the avatars as their manner of being seated:  Then he saw Śrī Kṛṣṇa seated on a throne made of gold and adorned with gems and looking like a blue cloud resting on Mount Meru. His form was radiant and adorned with ornaments of unsurpassed brilliance; he was dressed in a raiment of gold and shone like a blue gem set in gold; on his chest shone the gem kaustubha and He was like a mountain lighted up by the sun and had a crown on His head. Such was His appearance that, in all the three worlds, there could be found no one to be set in comparison with him?" and “Sumantra, the charioteer, saw Śrī Rāma seated like Kubera on a throne made of gold and having a beautiful coverlet. His body was covered with the paste of sandal red like the blood of the boar, pure, fragrant and of superior quality. Sītā was standing by him with a cāmara in her hand, like the star Citra near the moon, His splendour is like that of the sun. Sumantra, who knew the etiquette (suited to courts), bowed with respect to the invincible Śrī Rāma who ever gave what was asked of him." (Having reached the feet of the Supreme Being, the self will receive the privilege of rendering all kinds of service suited to all places, all times and all circumstances and be forever blissful as prayed for in the verse :- “We should render, so constantly and without intermission, service to the Lord - such service as will be most appropriate to all times, to all places and to all occasions".
+Then he **saw** Śrī Kṛṣṇa **seated** on a throne  
+**made** of gold and **adorned** with gems  
+and looking like a blue cloud resting on Mount Meru. His form was radiant and adorned with ornaments of unsurpassed brilliance; he was dressed in a raiment of gold and shone like a blue gem set in gold; on his chest shone the gem kaustubha and He was like a mountain lighted up by the sun and had a crown on His head. Such was His appearance that, in all the three worlds, there could be found no one to be set in comparison with him?" and “Sumantra, the charioteer, saw Śrī Rāma seated like Kubera on a throne made of gold and having a beautiful coverlet. His body was covered with the paste of sandal red like the blood of the boar, pure, fragrant and of superior quality. Sītā was standing by him with a cāmara in her hand, like the star Citra near the moon, His splendour is like that of the sun. Sumantra, who knew the etiquette (suited to courts), bowed with respect to the invincible Śrī Rāma who ever gave what was asked of him." (Having reached the feet of the Supreme Being, the self will receive the privilege of rendering all kinds of service suited to all places, all times and all circumstances and be forever blissful as prayed for in the verse :- “We should render, so constantly and without intermission, service to the Lord - such service as will be most appropriate to all times, to all places and to all occasions".
 
 Thus (both) in the state of endeavour (upāya) and in the state of attainment, the holy feet of Nārāyaṇa, the Lord of Śrī, are our support.
 
