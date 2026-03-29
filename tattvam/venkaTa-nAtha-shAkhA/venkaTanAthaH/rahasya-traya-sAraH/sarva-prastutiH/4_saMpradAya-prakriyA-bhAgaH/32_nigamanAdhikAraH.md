@@ -511,7 +511,45 @@ quien **es** el Salvador Universal
 </details>
 
 
-(14) the signs or marks by which a man could realise that this state has been attained by him (15) how, if he is not so impatient as to pray for inmediate release (by death), he should, for the rest of his life, render service (to Bhagavān and His devotees) as befitting one whose essential nature (svarūpa) is that of a śeṣa (16) how the service to Bhagavān extends as far as service to His devotees (17) how this service should be rendered in accordance with the regulations prescribed in the śāstras, since what is against the liking of the Master, who is the Ruler, cannot be called service (at all) (18) the ways in which or the means by which the man who has entered on his career of service in accordance with the śāstras could avoid offences from being committed in future and expiate or atone for those committed in the past, (19) how the fit place for the residence of the man who is to render faultless service in times free froin danger or serious adversity is the place where there are temples sacred to the Lord and which are (therefore) resorted to by His devotees. (20) how, to the man who has been living such a life, the soul's departure from the gross body may take place, by the peculiar will of the Saviour, in any place and at any time irrespective of their being usually considered worthy or unworthy (21) how the self that has started (from the body) proceeds, like a prince invited by his father to his installation as heir-apparent, in full glory to travel along the arcirādi route to Paramapada, (22) how after reaching there, the self will have the full and perfect enjoyment of Bhagavān which will include also free and voluntary service or kaiṅkarya and which is the supreme state of Lordship reserved for the mukta (23) the Siddhopāya which is the most important of what are to be known (24) the sādhyopāya which is the most important of those things that are to be performed (25) and (26) the ways in which misconceptions arising frou impure food, from association (with undesirable persons) as also from the character of the yuga and the like should be removed, misconceptions in regard to the potency of this upāya in relation to the man who has adopted it, misconceptions which describe its potency as higher or lower than what is stated in the śāstras (27, 28 & 29 ) the construction and interpretation of the words and the sentences in the three secrets or mysteries (mantras) which enable a man to meditate on all these points, (30) the regulations in regard to the imparting of instruction and the refraining from it, which have to be kept in mind by the ācārya who has to propagate a knowledge of the spiritual tradition concerning these truths in accordance with the śāstras and (31) the duties expected of the śiṣya who, on account of his inability to recompense his āchārya adequately has to remain eternally indebted to him ---
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् निष्ठै तऩक्कुप् पिऱन्दमै कण्डु  
+ताऩ् तेऱिय् इरुक्कैक्क् अडैय्-आळङ्गळुम्+++(=चिह्नानि)+++, 
+</details>
+
+<details><summary>English</summary>
+
+(14) the signs or marks by which a man **could realise** that  
+this state **has been attained** by him 
+</details>
+
+<details><summary>Español</summary>
+
+(14) los signos o marcas por los cuales un hombre **podría darse cuenta** de que  
+este estado **ha sido alcanzado** por él
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन् निष्ठै तऩक्कुप् पिऱन्दमै कण्डु ताऩ् तेऱियिरुक्कैक्कडैयाळङ्गळुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्कु आर्तियिल् मान्द्यत्ताले  
+शरीरम् अनुवर्तित्तागिल्  
+इङ्ग् इरुन्द कालत्तुक्कु स्वयं-प्रयोजनम् आय्  
+स्व-रूप--प्राप्त-शेष-वृत्ति-रूपम् आऩ कैङ्कर्यम् इरुक्कुम् बडियुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कु आर्तियिल् मान्द्यत्ताले शरीरमनुवर्तित्तागिल् इङ्गिरुन्द कालत्तुक्कु स्वयंप्रयोजनमाय् स्वरूपप्राप्तशेषवृत्तिरूपमाऩ कैङ्कर्यमिरुक्कुम्बडियुम्, 
+</details>
+
+
+(15) how, if he is not so impatient as to pray for inmediate release (by death), he should, for the rest of his life, render service (to Bhagavān and His devotees) as befitting one whose essential nature (svarūpa) is that of a śeṣa (16) how the service to Bhagavān extends as far as service to His devotees (17) how this service should be rendered in accordance with the regulations prescribed in the śāstras, since what is against the liking of the Master, who is the Ruler, cannot be called service (at all) (18) the ways in which or the means by which the man who has entered on his career of service in accordance with the śāstras could avoid offences from being committed in future and expiate or atone for those committed in the past, (19) how the fit place for the residence of the man who is to render faultless service in times free froin danger or serious adversity is the place where there are temples sacred to the Lord and which are (therefore) resorted to by His devotees. (20) how, to the man who has been living such a life, the soul's departure from the gross body may take place, by the peculiar will of the Saviour, in any place and at any time irrespective of their being usually considered worthy or unworthy (21) how the self that has started (from the body) proceeds, like a prince invited by his father to his installation as heir-apparent, in full glory to travel along the arcirādi route to Paramapada, (22) how after reaching there, the self will have the full and perfect enjoyment of Bhagavān which will include also free and voluntary service or kaiṅkarya and which is the supreme state of Lordship reserved for the mukta (23) the Siddhopāya which is the most important of what are to be known (24) the sādhyopāya which is the most important of those things that are to be performed (25) and (26) the ways in which misconceptions arising frou impure food, from association (with undesirable persons) as also from the character of the yuga and the like should be removed, misconceptions in regard to the potency of this upāya in relation to the man who has adopted it, misconceptions which describe its potency as higher or lower than what is stated in the śāstras (27, 28 & 29 ) the construction and interpretation of the words and the sentences in the three secrets or mysteries (mantras) which enable a man to meditate on all these points, (30) the regulations in regard to the imparting of instruction and the refraining from it, which have to be kept in mind by the ācārya who has to propagate a knowledge of the spiritual tradition concerning these truths in accordance with the śāstras and (31) the duties expected of the śiṣya who, on account of his inability to recompense his āchārya adequately has to remain eternally indebted to him ---
 
 
 we **have set forth**,  
