@@ -3,19 +3,84 @@ title = "३२ निगमनाधिकारः"
 
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ॥ श्रीः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे निगमनाधिकारः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे निगमनाधिकारः ॥
+</details>
+
+
+<details><summary>English</summary>
 
 32. THE CONCLUDING CHAPTER. page640
+</details>
+
+<details><summary>Español</summary>
+
+32. EL CAPÍTULO FINAL. página 640
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे निगमनाधिकारः ॥
+</details>
+
+## धन्यो ब्रह्म-वित्
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-करबदरितविश्वः कश्चिदाचार्यदृष्ट्या  
-मुषितनिखिलमोहो मूलमन्त्रादिभोगः ।  
-सगुणविषयसिद्धौ संप्रदायं प्रयच्छन्  
-सुचरितसिलहारी सूरिबृन्दाभिनन्द्यः ॥ ७३ ॥
+**कर-बदरित**-विश्वः कश्चिद् आचार्य-**दृष्ट्या**  
+**मुषित**-निखिल-मोहो मूल-मन्त्रादि-**भोगः** ।  
+स-गुण--विषय+++(→शिष्य)+++-**सिद्धौ** संप्रदायं **प्रयच्छन्**  
+**सुचरित**-सिल+++(=ऊञ्छ)+++-**हारी** सूरि-**बृन्दाभिनन्द्यः** ॥ ७३ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**कर-बदरित**-विश्वः कश्चिद् आचार्य-**दृष्ट्या**  
+**मुषित**-निखिल-मोहो मूल-मन्त्रादि-**भोगः** ।  
+स-गुण--विषय+++(→शिष्य)+++-**सिद्धौ** संप्रदायं **प्रयच्छन्**  
+**सुचरित**-सिल+++(=ऊञ्छ)+++-**हारी** सूरि-**बृन्दाभिनन्द्यः** ॥ ७३ ॥
+</details>
+
+<details><summary>English</summary>
+
+There **may be found** someone  
+who, by the grace of his ācārya, **has seen** (the truths concerning) the Universe  
+(as distinctly) as if they **were** a jubube berry (Badari fruit) in the hand,  
+whose illusions **have been dispelled**  
+and who **enjoys** (the meanings contained in) such mysteries (mantras) as the mūlamantra.  
+When a worthy śiṣya **having** the necessary virtues **has been found**,  
+he **instructs** him in the spiritual tradition  
+and **gleans**, for his own **observances**, all that **is** good in the conduct and observances of great men  
+and **becomes** worthy (himself) of the **appreciation** of the hosts of the eternal sūris.
+
+</details>
+
+<details><summary>Español</summary>
+
+**Puede que se encuentre** a alguien.  
+quien, por la gracia de su ācārya, **ha visto** (las verdades relativas) al Universo  
+(tan claramente) como si **fueran** una baya de azufaifa (fruta Badari) en la mano,  
+cuyas ilusiones **han sido disipadas**  
+y que **disfruta** (los significados **contenidos** en) misterios (mantras) como el mūlamantra.  
+Cuando **se ha encontrado** un śiṣya digno que **tiene** las virtudes necesarias,  
+él **le instruye** en la tradición espiritual  
+y **recoge**, para sus propias **observancias**, todo lo **que** es bueno en la conducta y observancias de los grandes hombres  
+y **se vuelve** digno (él mismo) del **aprecio** de las huestes de los eternos sūris.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -25,11 +90,686 @@ title = "३२ निगमनाधिकारः"
 सुचरितसिलहारी सूरिबृन्दाभिनन्द्यः ॥ ७३ ॥
 </details>
 
-There may be found someone who, by the grace of his ācārya, has seen (the truths concerning) the Universe (as distinctly) as if they were a jubube berry (Badari fruit) in the hand, whose illusions have been dispelled and who enjoys (the meanings contained in) such mysteries (mantras) as the mūlamantra. When a worthy śiṣya having the necessary virtues has been found, he instructs him in the spiritual tradition and gleans, for his own observances, all that is good in the conduct and observances of great men and becomes worthy (himself) of the appreciation of the hosts of the eternal sūris.
+
+## उक्त-सङ्ग्रहः
+<details><summary>English</summary>
 
 TOPICS TREATED OF SO FAR page640
+</details>
 
-Here (in this treatise), we have set forth, just as we learnt them ourselves and just as we believe them to be true in our heart of hearts, without giving room to any ignorance, doubt or misconception, the following topics of knowledge in accordance with what is sanctioned by the śrutis, the smṛtis, the sūtras and the ancient tradition and in accordance also with right reason: (1) How the jīvatma whose essential nature is such that he is fit to enjoy the bliss of Bhagavan just like the suris - how he has lost this fitness from beginningless time, how later he acquires the spirit of detachment (vairāgya) in some measure, how he comes in contact with a worthyācārya from whom he begins to learn the truths and the means of attaining the ends desired by him; (2) how among the pramāṇas or valid sources of knowledge, the three secrets or mysteries (mantras), are of the greatest importance; (3) how, among the meanings revealed in these (mantras), such things as the relationship of soul and body that exists between the Supreme Ruler and those which are ruled over by Him are the central and most essential doctrines to be learnt (4) how the five subjects of knowledge (artha. pañcaka) including that relationship which have been summarised by our ancientācāryas are contained in the three great secrets or mysteries (mantras) (5) what the chief aim is of those who, among these five subjects of knowledge, devote themselves to a classification and study of the three tattvas or Reals (6) how among these three Reals or tattvas, Iśvara, who is described in the sātvika śāstras is the Lord with His spouse Śrī (viz. Nārāyaṇa).(7) how the man who has clearly learnt these subjects becomes eager for mukti and seeks the upāyas for mukti (8) the classification of those who are competent to adopt the different upāyas, (9) the classification of upāyas suitable for the competency of different individuals (10) how, among the upāyas, the man who wants to adopt prapatti as a direct and independent upāya should have certain characteristics or marks of competence (11) the classification of accessories enjoined as appropriate for this upāyas which has to le performed only once (12) the nature of this important duty called the surrender of the burden or responsibility (concerning the self) with its accessories, to be performed by the man (13) how the man that has performed this prapatti with its aṅgas has done what he ought to do, in as much as he has surrendered the responsibility to one who is the Universal Saviour (14) the signs or marks by which a man could realise that this state has been attained by him (15) how, if he is not so impatient as to pray for inmediate release (by death), he should, for the rest of his life, render service (to Bhagavān and His devotees) as befitting one whose essential nature (svarūpa) is that of a śeṣa (16) how the service to Bhagavān extends as far as service to His devotees (17) how this service should be rendered in accordance with the regulations prescribed in the śāstras, since what is against the liking of the Master, who is the Ruler, cannot be called service (at all) (18) the ways in which or the means by which the man who has entered on his career of service in accordance with the śāstras could avoid offences from being committed in future and expiate or atone for those committed in the past, (19) how the fit place for the residence of the man who is to render faultless service in times free froin danger or serious adversity is the place where there are temples sacred to the Lord and which are (therefore) resorted to by His devotees. (20) how, to the man who has been living such a life, the soul's departure from the gross body may take place, by the peculiar will of the Saviour, in any place and at any time irrespective of their being usually considered worthy or unworthy (21) how the self that has started (from the body) proceeds, like a prince invited by his father to his installation as heir-apparent, in full glory to travel along the arcirādi route to Paramapada, (22) how after reaching there, the self will have the full and perfect enjoyment of Bhagavān which will include also free and voluntary service or kaiṅkarya and which is the supreme state of Lordship reserved for the mukta (23) the Siddhopāya which is the most important of what are to be known (24) the sādhyopāya which is the most important of those things that are to be performed (25) and (26) the ways in which misconceptions arising frou impure food, from association (with undesirable persons) as also from the character of the yuga and the like should be removed, misconceptions in regard to the potency of this upāya in relation to the man who has adopted it, misconceptions which describe its potency as higher or lower than what is stated in the śāstras (27, 28 & 29 ) the construction and interpretation of the words and the sentences in the three secrets or mysteries (mantras) which enable a man to meditate on all these points, (30) the regulations in regard to the imparting of instruction and the refraining from it, which have to be kept in mind by the ācārya who has to propagate a knowledge of the spiritual tradition concerning these truths in accordance with the śāstras and (31) the duties expected of the śiṣya who, on account of his inability to recompense his āchārya adequately has to remain eternally indebted to him ---
+<details><summary>Español</summary>
+
+TEMAS **TRATADOS** HASTA AHORA pág.640
+</details>
+
+### शिक्षारम्भः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि  
+इज्-जीवात्मा सूरिगळोड् ऒक्क+++(=सह)+++ भगवद्-अनुभव-रसत्तुक्कु स्व-रूप--योग्यऩ् आय् वैत्तु 
+</details>
+
+<details><summary>English</summary>
+
+Here (in this treatise),  
+
+(1) How the jīvatma whose essential nature **is** such that he **is fit** to **enjoy** the bliss of Bhagavan just like the suris -  
+</details>
+
+<details><summary>Español</summary>
+
+Aquí (en este tratado),  
+
+(1) Cómo el jīvatma cuya naturaleza esencial **es** tal que **es apto** para **disfrutar** la bienaventuranza de Bhagavan tal como los suris -  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इज्जीवात्मा सूरिकळोडॊक्क भगवदनुभवरसत्तुक्कु स्वरूपयोग्यऩाय् वैत्तु  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनादिकालम् इऴन्दु 
+</details>
+
+<details><summary>English</summary>
+
+how he **has lost** this fitness from beginningless time,  
+</details>
+
+<details><summary>Español</summary>
+
+cómo **ha perdido** esta aptitud desde el tiempo sin principio,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनादिकालमिऴन्दु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओर् अळविले पुरिन्दु 
+</details>
+
+<details><summary>English</summary>
+
+how later he **acquires** the spirit of detachment (vairāgya) in some measure, 
+</details>
+
+<details><summary>Español</summary>
+
+cómo más tarde **adquiere** el espíritu de desapego (vairāgya) en alguna medida,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ओरळविले पुरिन्दु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सदाचार्य-सम्बन्धम् उण्डाय्
+</details>
+
+<details><summary>English</summary>
+
+how he **comes** in **contact** with a worthy ācārya  
+</details>
+
+<details><summary>Español</summary>
+
+cómo **entra** en **contacto** con un ācārya digno
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सदाचार्यसम्बन्धमुण्डाय्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्त्व-हितङ्गळैय् अऱियत् तुडङ्गिऩ बडियुम्
+</details>
+
+<details><summary>English</summary>
+
+from whom he **begins** to **learn** the truths  
+and the means of **attaining** the ends **desired** by him; 
+</details>
+
+<details><summary>Español</summary>
+
+de quien **empieza** a **aprender** las verdades  
+y los medios para **alcanzar** los fines **deseados** por él;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्त्वहितङ्गळैयऱियत्तुडङ्गिऩबडियुम्
+</details>
+
+### रहस्य-त्रय-सारत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् अऱि-विक्कुम् प्रमाणङ्गळिल् रहस्य-त्रयम् सारतमम् आऩ बडियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(2) how among the pramāṇas or valid sources of knowledge,  
+the three secrets or mysteries (mantras), **are** of the greatest importance; 
+</details>
+
+<details><summary>Español</summary>
+
+(2) cómo entre los pramāṇas o fuentes válidas de **conocimiento**,  
+los tres secretos o misterios (mantras), **son** de suma importancia;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवैयऱिविक्कुम् प्रमाणङ्गळिल् रहस्यत्रयम् सारतममाऩबडियुम्, 
+</details>
+
+### शरीरात्म-भावादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱैक् कॊण्ड् अऱियुम् अर्थङ्गळिल्  
+ईशेशितव्यङ्गळिऩ्-उडैय शरीरात्म-भाव-सम्बन्धादिगळ् प्रधान-प्रतितन्त्रम् आय्  
+ज्ञातव्यङ्गळ् आऩ बडियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(3) how, among the meanings **revealed** in these (mantras),  
+such things as the relationship of soul and body  
+that **exists** between the Supreme Ruler and those which **are ruled** over by Him  
+**are** the central and most essential doctrines to **be learnt** 
+</details>
+
+<details><summary>Español</summary>
+
+(3) cómo, entre los significados **revelados** en estos (mantras),  
+Cosas como la relación entre el alma y el cuerpo.  
+que **existe** entre el Gobernante Supremo y aquellos que **son gobernados** por Él  
+**son** las doctrinas centrales y más esenciales que **se deben aprender**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱैक् कॊण्डऱियुमर्थङ्गळिल् ईशेशितव्यङ्गळिऩुडैय शरीरात्मभावसम्बन्धादिगळ् प्रधानप्रतितन्त्रमाय् ज्ञातव्यङ्गळाऩबडियुम्, 
+</details>
+
+### रहस्य-त्रये ऽर्थ-पञ्चकम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् सम्बन्धत्तोडे कूड ज्ञातव्यम् आग पूर्वाचार्य-सङ्गृहीतम् आऩ अर्थ-पञ्चकम्  
+रहस्य-त्रत्तिल् किडक्कुम् बडियुम्,
+</details>
+
+<details><summary>English</summary>
+
+(4) how the five subjects of knowledge (artha-pañcaka) including that **relationship** which **have been summarised** by our ancient ācāryas  
+**are contained** in the three great secrets or mysteries (mantras) 
+</details>
+
+<details><summary>Español</summary>
+
+(4) cómo los cinco temas de conocimiento (artha-pañcaka), incluida esa **relación** que **ha sido resumida** por nuestros antiguos ācāryas  
+**están contenidos** en los tres grandes secretos o misterios (mantras)
+</details>
+
+<details><summary>मूलम्</summary>
+
+इस् सम्बन्धत्तोडे कूड ज्ञातव्यमाग पूर्वाचार्यसङ्गृहीतमाऩ अर्थपञ्चकम् रहस्यत्रत्तिल् किडक्कुम्बडियुम्,
+</details>
+
+### तत्त्व-त्रयम् अर्थ-पञ्चके
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थ-पञ्चकत्तुक्क्-उळ्ळे तत्त्व-त्रयादि-विभाग-चिन्तै पण्णुवार्क्कुत् तात्पर्यमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(5) what the chief aim **is** of those who, among these five subjects of knowledge,  
+**devote** themselves to a classification and study of the three tattvas or Reals 
+</details>
+
+<details><summary>Español</summary>
+
+(5) cuál es el objetivo principal **es** de aquellos que, entre estos cinco temas de conocimiento,  
+**dedicarse** a una clasificación y estudio de los tres tattvas o Reales
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थपञ्चकत्तुक्कुळ्ळे तत्त्वत्रयादिविभागचिन्तै पण्णुवार्क्कुत् तात्पर्यमुम्, 
+</details>
+
+### ईश्वरः श्रियःपतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत् तत्त्व-त्रयत्तिल्  
+ईश्वरऩ् आग सात्त्विक-शास्त्रङ्गळिऱ् सॊल्लप् पट्टवऩ्  
+श्रियः-पतिय् ऎऩ्ऩुम् इडमुम्,
+</details>
+
+<details><summary>English</summary>
+
+(6) how among these three Reals or tattvas, Iśvara, who **is described** in the sātvika śāstras **is** the Lord with His spouse Śrī (viz. Nārāyaṇa).
+</details>
+
+<details><summary>Español</summary>
+
+(6) cómo entre estos tres Reales o tattvas, Iśvara, quien **es descrito** en los sātvika śāstras **es** el Señor con Su esposa Śrī (a saber, Nārāyaṇa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत् तत्त्वत्रयत्तिल् ईश्वरऩाग सात्त्विकशास्त्रङ्गळिऱ् सॊल्लप्पट्टवऩ् श्रियःपतियॆऩ्ऩुमिडमुम्,
+</details>
+
+### मुमुक्षुता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थङ्गळ् ऎल्लान् तॆळिन्दवऩ्  
+मुमुक्षुव् आय् मोक्षोपायोन्मुखऩ् आम् बडियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(7) how the man who has clearly **learnt** these subjects  
+**becomes eager** for mukti  
+and **seeks** the upāyas for mukti 
+</details>
+
+<details><summary>Español</summary>
+
+(7) cómo el hombre que claramente ha **aprendido** estos temas  
+**se vuelve** ansioso por mukti  
+y **busca** los upāyas para mukti
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव् वर्थङ्गळॆल्लान् तॆळिन्दवऩ् मुमुक्षुवाय् मोक्षोपायोन्मुखऩाम्बडियुम्, 
+</details>
+
+### अधिकार्य्-उपाय-विभागौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अधिकारि-विभागमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(8) the classification of those who are **competent** to **adopt** the different upāyas, 
+</details>
+
+<details><summary>Español</summary>
+
+(8) la clasificación de aquellos que **son competentes** para **adoptar** los diferentes upāyas,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अधिकारिविभागमुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अधिकारिगळुक्कु अनुरूपम् आऩ उपाय-विभागमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(9) the **classification** of upāyas **suitable** for the **competency** of different individuals 
+</details>
+
+<details><summary>Español</summary>
+
+(9) la **clasificación** de upāyas **adecuados** para la **competencia** de diferentes individuos
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वधिकारिकळुक्कु अनुरूपमाऩ उपाय विभागमुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् उपायङ्गळिल्  
+स्वतन्त्र-प्रपत्ति-निष्ठऩुक्क् अधिकार-विशेषम् इरुक्कुङ् कट्टळैयुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(10) how, among the upāyas, the man who **wants** to **adopt** prapatti as a direct and independent upāya  
+**should have** certain characteristics or marks of competence 
+</details>
+
+<details><summary>Español</summary>
+
+(10) cómo, entre los upāyas, el hombre que **quiere adoptar** prapatti como upāya directo e independiente  
+**debe tener** ciertas características o marcas de competencia
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायङ्गळिल् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कधिकारविशेषमिरुक्कुङ्गट्टळैयुम्, 
+</details>
+
+### प्रपत्ति-परिकर-विभागादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सकृत्-कर्तव्यम् आऩ इव् उपायत्तुक्क् अनुरूपम् आग विहितम् आऩ परिकर-विभागमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(11) the classification of accessories **enjoined** as appropriate for this upāya which has to **be performed** only once 
+</details>
+
+<details><summary>Español</summary>
+
+(11) la clasificación de accesorios **prescritos** como apropiada para este upāya que debe **realizarse** solo una vez
+</details>
+
+<details><summary>मूलम्</summary>
+
+सकृत्कर्तव्यमाऩ इव् उपायत्तुक्कनुरूपमाग विहितमाऩ परिकरविभागमुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षुवुक्कु स-परिकरम् आऩ भर-न्यास-रूप- प्रधान-कर्तव्यत्तिऩ्-उडैय सन्निवेशम् इरुक्कुम् पडियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(12) the nature of this important duty **called** the **surrender** of the burden or responsibility (concerning the self)  
+with its accessories,  
+to **be performed** by the man 
+</details>
+
+<details><summary>Español</summary>
+
+(12) la naturaleza de este importante deber **llamado** la **rendición** de la carga o responsabilidad (con respecto a uno mismo)  
+con sus accesorios,  
+para **ser realizado** por el hombre
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुवुक्कु सपरिकरमाऩ भरन्यासरूपप्रधानकर्तव्यत्तिऩुडैय सन्निवेशमिरुक्कुम् पडियुम्, 
+</details>
+
+### कृत-कृत्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि साङ्ग-प्रपदनानुष्ठानम् पण्णिऩ्-अवऩ्  
+सर्व-रक्षणाधिकृतऩ् पक्कलिले न्यस्त-भरऩ् आगैयाले  
+कृत-कृत्यऩ् आम् बडियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(13) how the man that **has performed** this prapatti with its aṅgas  
+**has done** what he **ought to do**,  
+in as much as he **has surrendered** the responsibility to one  
+who **is** the Universal Saviour 
+</details>
+
+<details><summary>Español</summary>
+
+(13) cómo el hombre que **ha realizado** este prapatti con sus aṅgas  
+**ha hecho** lo que **debía hacer**,  
+en la medida en que **ha rendido** la responsabilidad a uno  
+quien **es** el Salvador Universal
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि साङ्गप्रपदनानुष्ठानम् पण्णिऩवऩ् सर्वरक्षणाधिकृतऩ् पक्कलिले न्यस्तभरऩागैयाले कृतकृत्यऩाम्बडियुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् निष्ठै तऩक्कुप् पिऱन्दमै कण्डु  
+ताऩ् तेऱिय् इरुक्कैक्क् अडैय्-आळङ्गळुम्+++(=चिह्नानि)+++, 
+</details>
+
+<details><summary>English</summary>
+
+(14) the signs or marks by which a man **could realise** that  
+this state **has been attained** by him 
+</details>
+
+<details><summary>Español</summary>
+
+(14) los signos o marcas por los cuales un hombre **podría darse cuenta** de que  
+este estado **ha sido alcanzado** por él
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन् निष्ठै तऩक्कुप् पिऱन्दमै कण्डु ताऩ् तेऱियिरुक्कैक्कडैयाळङ्गळुम्, 
+</details>
+
+### उत्तर-कृत्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्कु आर्तियिल् मान्द्यत्ताले  
+शरीरम् अनुवर्तित्तागिल्  
+इङ्ग् इरुन्द कालत्तुक्कु स्वयं-प्रयोजनम् आय्  
+स्व-रूप--प्राप्त-शेष-वृत्ति-रूपम् आऩ कैङ्कर्यम् इरुक्कुम् बडियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(15) how, if he **is not** so impatient as to **pray** for inmediate **release** (by **death**), 
+he should, for the rest of his life, **render service** (to Bhagavān and His devotees)  
+as **befitting** one whose essential nature (svarūpa) **is** that of a śeṣa 
+</details>
+
+<details><summary>Español</summary>
+
+(15) cómo, si él **no es** tan impaciente como para **rezar** por una **liberación** inmediata (por **muerte**), 
+él **debe**, por el resto de su vida, **prestar servicio** (a Bhagavān y Sus devotos)  
+como **propio** de alguien cuya naturaleza esencial (svarūpa) **es** la de un śeṣa
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कु आर्तियिल् मान्द्यत्ताले शरीरमनुवर्तित्तागिल् इङ्गिरुन्द कालत्तुक्कु स्वयंप्रयोजनमाय् स्वरूपप्राप्तशेषवृत्तिरूपमाऩ कैङ्कर्यमिरुक्कुम्बडियुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-कैङ्कर्यत्तुक्क् ऎल्लै निलम्  
+भागवत-कैङ्कर्यम् आऩ बडियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(16) how the **service** to Bhagavān **extends** as far as **service** to His devotees 
+</details>
+
+<details><summary>Español</summary>
+
+(16) cómo el **servicio** a Bhagavān **se extiende** hasta el **servicio** a Sus devotos
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्कैङ्कर्यत्तुक्कॆल्लै निलम् भागवतकैङ्कर्यमाऩबडियुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शासिताव् आऩ स्वामिक्क् अभिमतम् अल्लादु कैङ्कर्यम् अल्लामैयाले  
+यथा-शास्त्रम् कैङ्कर्यम् अनुष्ठिक्क वेण्डिऩ बडियुम्, +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+(17) how this **service should be rendered** in **accordance** with the regulations **prescribed** in the śāstras,  
+since what **is against** the liking of the Master, who is the Ruler,  
+**cannot be called service** (at all) 
+</details>
+
+<details><summary>Español</summary>
+
+(17) cómo **se debe prestar** este **servicio** de **de acuerdo** con las regulaciones **prescritas** en los śāstras,  
+ya que lo que **va en contra** del agrado del Maestro, que es el Gobernante,  
+**no se puede llamar servicio** (en absoluto)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शासितावाऩ स्वामिक्कभिमतमल्लादु कैङ्कर्यमल्लामैयाले यथाशास्त्रम् कैङ्कर्यमनुष्ठिक्क वेण्डिऩबडियुम्,
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् शास्त्रीय-कैङ्कर्य-प्रवृत्तऩुक्कु  
+अपराधङ्गळ् पुगामैक्कुम्  
+पुगुन्दवै कऴिगैक्कुम् विरगुगळुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(18) the ways in which or the means by which the man who **has entered** on his career of **service**  
+in **accordance** with the śāstras  
+**could avoid offences** from **being committed** in future  
+and **expiate** or **atone** for those **committed** in the past, 
+</details>
+
+<details><summary>Español</summary>
+
+(18) las formas o los medios por los cuales el hombre que **ha entrado** en su carrera de **servicio**  
+de **de acuerdo** con los śāstras  
+**podría evitar** que **se cometan delitos** en el futuro  
+y **expiar** aquellos **comrometidos** en el pasado,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इश् शास्त्रीयकैङ्कर्यप्रवृत्तऩुक्कु अपराधङ्गळ् पुगामैक्कुम् पुगुन्दवै कऴिगैक्कुम् विरगुगळुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्-निरपराध कैङ्कर्यत्तुक्कु स्थानम् आग  
+अनापत्तिल् उचितम् आवदु  
+भागवताश्रितम् आऩ भगवत्-क्षेत्रम् ऎऩ्ऩुम् इडमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(19) how the fit place for the **residence** of the man who **is** to render faultless **service** in times free from danger or serious adversity  
+**is** the place where there **are** temples sacred to the Lord  
+and which **are** (therefore) **resorted** to by His devotees. 
+</details>
+
+<details><summary>Español</summary>
+
+(19) cómo es el lugar **adecuado** para la **residencia** del hombre que **debe** prestar un **servicio** impecable en tiempos libres de peligro o adversidad grave  
+**es** el lugar donde **hay** templos sagrados para el Señor  
+y a los cuales **son** (por lo tanto) **recurridos** Sus devotos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन् निरपराध कैङ्कर्यत्तुक्कु स्थानमाग अनापत्तिलुचितमावदु भागवताश्रितमाऩ भगवत्क्षेत्रमॆऩ्ऩुमिडमुम्, 
+</details>
+
+### निर्याणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडियेय् इरुन्दव् इव्व्-अधिकारिक्कु  
+शरण्य-सङ्कल्प-विशेषत्ताले प्रशस्त-देशकालादि- नियति-निरपेक्षम् आग  
+स्थूल-शरीरत्तिऩिऩ्ऱुम् निर्याणम् इरुक्कुम् बडियुम्,
+</details>
+
+<details><summary>English</summary>
+
+(20) how, to the man who **has been living** such a life,  
+the soul's **departure** from the gross body **may take place**,  
+by the peculiar will of the Saviour,  
+in any place and at any time  
+irrespective of their **being** usually **considered** worthy or unworthy 
+</details>
+
+<details><summary>Español</summary>
+
+(20) cómo, para el hombre que **ha estado viviendo** tal vida,  
+la **salida** del alma del cuerpo denso **puede tener lugar**,  
+por la peculiar voluntad del Salvador,  
+en cualquier lugar y en cualquier momento  
+independientemente de que **sean** generalmente **considerados** dignos o indignos
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियेयिरुन्दविव्वधिकारिक्कु शरण्यसङ्कल्पविशेषत्ताले प्रशस्तदेशकालादि नियति निरपेक्षमाग स्थूलशरीरत्तिऩिऩ्ऱुम् निर्याणमिरुक्कुम्बडियुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिप् पुऱप्-पट्टाल्  
+पिता यौवराज्यत्तुक्कु  
+मुडि सूडव् +++(=अलङ्करणाय)+++ अऴैत्तु विट्ट राजकुमारऩ् पोमाप् पोले  
+पॆरिय मेऩ्मैयोडे परम-पद-पर्यन्तम् आग  
+अर्चिर्-आदि-मार्गत्ताले पोम्बडियुम्,
+</details>
+
+<details><summary>English</summary>
+
+(21) how the self that **has started** (from the body) **proceeds**,  
+like a prince **invited** by his father to his **installation** as heir-apparent,  
+in full glory to **travel** along the arcirādi route to Paramapada, 
+</details>
+
+<details><summary>Español</summary>
+
+(21) cómo el yo que **ha comenzado** (desde el cuerpo) **procede**,  
+como un príncipe **invitado** por su padre a su **instalación** como heredero aparente,  
+en toda su gloria para **viajar** a lo largo de la ruta arcirādi hacia Paramapada,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडिप् पुऱप्पट्टाल् पिता यौवराज्यत्तुक्कु मुडिसूडवऴैत्तुविट्ट राजकुमारऩ् पोमाप्पोले पॆरिय मेऩ्मैयोडे परमपदपर्यन्तमाग अर्चिरादिमार्गत्ताले पोम्बडियुम्,
+</details>
+
+### परिपूर्ण-ब्रह्मानुभवः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिप् पोऩाल् अङ्गु पिऱक्कुम् स्व-च्छन्द-कैङ्कर्य-पर्यन्त- परिपूर्णानुभव-रूपम् आऩ मुक्तैश्वर्यम् इरुक्कुम् बडियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(22) how after **reaching** there,  
+the self **will have** the full and perfect **enjoyment** of Bhagavān  
+which **will include** also free and voluntary **service** or kaiṅkarya  
+and which **is** the supreme state of Lordship **reserved** for the mukta 
+</details>
+
+<details><summary>Español</summary>
+
+(22) cómo después de **llegar** allí,  
+el yo **tendrá** el pleno y perfecto **disfrute** de Bhagavān  
+que **incluirá** también **servicio** gratuito y voluntario o kaiṅkarya  
+y que **es** el estado supremo de Señorío **reservado** para el mukta
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिप् पोऩाल् अङ्गु पिऱक्कुम् स्वच्छन्दकैङ्कर्यपर्यन्तपरिपूर्णानुभवरूपमाऩ मुक्तैश्वर्यमिरुक्कुम्बडियुम्, 
+</details>
+
+
+
+(23) the Siddhopāya which is the most important of what are to be known (24) the sādhyopāya which is the most important of those things that are to be performed (25) and (26) the ways in which misconceptions arising frou impure food, from association (with undesirable persons) as also from the character of the yuga and the like should be removed, misconceptions in regard to the potency of this upāya in relation to the man who has adopted it, misconceptions which describe its potency as higher or lower than what is stated in the śāstras (27, 28 & 29 ) the construction and interpretation of the words and the sentences in the three secrets or mysteries (mantras) which enable a man to meditate on all these points, (30) the regulations in regard to the imparting of instruction and the refraining from it, which have to be kept in mind by the ācārya who has to propagate a knowledge of the spiritual tradition concerning these truths in accordance with the śāstras and (31) the duties expected of the śiṣya who, on account of his inability to recompense his āchārya adequately has to remain eternally indebted to him ---
+
+
+we **have set forth**,  
+just as we **learnt** them ourselves  
+and just as we **believe** them to **be** true in our heart of hearts,  
+without **giving** room to any ignorance, doubt or misconception,  
+the following topics of knowledge in accordance with what **is sanctioned** by the śrutis, the smṛtis, the sūtras and the ancient tradition  
+and in accordance also with right reason: 
+
 
 THE GOOD RESULTS THAT WILL FOLLOW FROM
 
