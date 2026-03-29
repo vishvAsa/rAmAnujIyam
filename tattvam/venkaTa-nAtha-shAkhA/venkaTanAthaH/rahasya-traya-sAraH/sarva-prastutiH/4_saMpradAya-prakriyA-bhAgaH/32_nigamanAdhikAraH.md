@@ -535,6 +535,7 @@ este estado **ha sido alcanzado** por él
 इन् निष्ठै तऩक्कुप् पिऱन्दमै कण्डु ताऩ् तेऱियिरुक्कैक्कडैयाळङ्गळुम्, 
 </details>
 
+### उत्तर-कृत्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवऩुक्कु आर्तियिल् मान्द्यत्ताले  
@@ -543,13 +544,223 @@ este estado **ha sido alcanzado** por él
 स्व-रूप--प्राप्त-शेष-वृत्ति-रूपम् आऩ कैङ्कर्यम् इरुक्कुम् बडियुम्, 
 </details>
 
+<details><summary>English</summary>
+
+(15) how, if he **is not** so impatient as to **pray** for inmediate **release** (by **death**), 
+he should, for the rest of his life, **render service** (to Bhagavān and His devotees)  
+as **befitting** one whose essential nature (svarūpa) **is** that of a śeṣa 
+</details>
+
+<details><summary>Español</summary>
+
+(15) cómo, si él **no es** tan impaciente como para **rezar** por una **liberación** inmediata (por **muerte**), 
+él **debe**, por el resto de su vida, **prestar servicio** (a Bhagavān y Sus devotos)  
+como **propio** de alguien cuya naturaleza esencial (svarūpa) **es** la de un śeṣa
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इवऩुक्कु आर्तियिल् मान्द्यत्ताले शरीरमनुवर्तित्तागिल् इङ्गिरुन्द कालत्तुक्कु स्वयंप्रयोजनमाय् स्वरूपप्राप्तशेषवृत्तिरूपमाऩ कैङ्कर्यमिरुक्कुम्बडियुम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(15) how, if he is not so impatient as to pray for inmediate release (by death), he should, for the rest of his life, render service (to Bhagavān and His devotees) as befitting one whose essential nature (svarūpa) is that of a śeṣa (16) how the service to Bhagavān extends as far as service to His devotees (17) how this service should be rendered in accordance with the regulations prescribed in the śāstras, since what is against the liking of the Master, who is the Ruler, cannot be called service (at all) (18) the ways in which or the means by which the man who has entered on his career of service in accordance with the śāstras could avoid offences from being committed in future and expiate or atone for those committed in the past, (19) how the fit place for the residence of the man who is to render faultless service in times free froin danger or serious adversity is the place where there are temples sacred to the Lord and which are (therefore) resorted to by His devotees. (20) how, to the man who has been living such a life, the soul's departure from the gross body may take place, by the peculiar will of the Saviour, in any place and at any time irrespective of their being usually considered worthy or unworthy (21) how the self that has started (from the body) proceeds, like a prince invited by his father to his installation as heir-apparent, in full glory to travel along the arcirādi route to Paramapada, (22) how after reaching there, the self will have the full and perfect enjoyment of Bhagavān which will include also free and voluntary service or kaiṅkarya and which is the supreme state of Lordship reserved for the mukta (23) the Siddhopāya which is the most important of what are to be known (24) the sādhyopāya which is the most important of those things that are to be performed (25) and (26) the ways in which misconceptions arising frou impure food, from association (with undesirable persons) as also from the character of the yuga and the like should be removed, misconceptions in regard to the potency of this upāya in relation to the man who has adopted it, misconceptions which describe its potency as higher or lower than what is stated in the śāstras (27, 28 & 29 ) the construction and interpretation of the words and the sentences in the three secrets or mysteries (mantras) which enable a man to meditate on all these points, (30) the regulations in regard to the imparting of instruction and the refraining from it, which have to be kept in mind by the ācārya who has to propagate a knowledge of the spiritual tradition concerning these truths in accordance with the śāstras and (31) the duties expected of the śiṣya who, on account of his inability to recompense his āchārya adequately has to remain eternally indebted to him ---
+भगवत्-कैङ्कर्यत्तुक्क् ऎल्लै निलम्  
+भागवत-कैङ्कर्यम् आऩ बडियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(16) how the **service** to Bhagavān **extends** as far as **service** to His devotees 
+</details>
+
+<details><summary>Español</summary>
+
+(16) cómo el **servicio** a Bhagavān **se extiende** hasta el **servicio** a Sus devotos
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्कैङ्कर्यत्तुक्कॆल्लै निलम् भागवतकैङ्कर्यमाऩबडियुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शासिताव् आऩ स्वामिक्क् अभिमतम् अल्लादु कैङ्कर्यम् अल्लामैयाले  
+यथा-शास्त्रम् कैङ्कर्यम् अनुष्ठिक्क वेण्डिऩ बडियुम्, +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+(17) how this **service should be rendered** in **accordance** with the regulations **prescribed** in the śāstras,  
+since what **is against** the liking of the Master, who is the Ruler,  
+**cannot be called service** (at all) 
+</details>
+
+<details><summary>Español</summary>
+
+(17) cómo **se debe prestar** este **servicio** de **de acuerdo** con las regulaciones **prescritas** en los śāstras,  
+ya que lo que **va en contra** del agrado del Maestro, que es el Gobernante,  
+**no se puede llamar servicio** (en absoluto)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शासितावाऩ स्वामिक्कभिमतमल्लादु कैङ्कर्यमल्लामैयाले यथाशास्त्रम् कैङ्कर्यमनुष्ठिक्क वेण्डिऩबडियुम्,
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् शास्त्रीय-कैङ्कर्य-प्रवृत्तऩुक्कु  
+अपराधङ्गळ् पुगामैक्कुम्  
+पुगुन्दवै कऴिगैक्कुम् विरगुगळुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(18) the ways in which or the means by which the man who **has entered** on his career of **service**  
+in **accordance** with the śāstras  
+**could avoid offences** from **being committed** in future  
+and **expiate** or **atone** for those **committed** in the past, 
+</details>
+
+<details><summary>Español</summary>
+
+(18) las formas o los medios por los cuales el hombre que **ha entrado** en su carrera de **servicio**  
+de **de acuerdo** con los śāstras  
+**podría evitar** que **se cometan delitos** en el futuro  
+y **expiar** aquellos **comrometidos** en el pasado,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इश् शास्त्रीयकैङ्कर्यप्रवृत्तऩुक्कु अपराधङ्गळ् पुगामैक्कुम् पुगुन्दवै कऴिगैक्कुम् विरगुगळुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्-निरपराध कैङ्कर्यत्तुक्कु स्थानम् आग  
+अनापत्तिल् उचितम् आवदु  
+भागवताश्रितम् आऩ भगवत्-क्षेत्रम् ऎऩ्ऩुम् इडमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(19) how the fit place for the **residence** of the man who **is** to render faultless **service** in times free from danger or serious adversity  
+**is** the place where there **are** temples sacred to the Lord  
+and which **are** (therefore) **resorted** to by His devotees. 
+</details>
+
+<details><summary>Español</summary>
+
+(19) cómo es el lugar **adecuado** para la **residencia** del hombre que **debe** prestar un **servicio** impecable en tiempos libres de peligro o adversidad grave  
+**es** el lugar donde **hay** templos sagrados para el Señor  
+y a los cuales **son** (por lo tanto) **recurridos** Sus devotos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन् निरपराध कैङ्कर्यत्तुक्कु स्थानमाग अनापत्तिलुचितमावदु भागवताश्रितमाऩ भगवत्क्षेत्रमॆऩ्ऩुमिडमुम्, 
+</details>
+
+### निर्याणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडियेय् इरुन्दव् इव्व्-अधिकारिक्कु  
+शरण्य-सङ्कल्प-विशेषत्ताले प्रशस्त-देशकालादि- नियति-निरपेक्षम् आग  
+स्थूल-शरीरत्तिऩिऩ्ऱुम् निर्याणम् इरुक्कुम् बडियुम्,
+</details>
+
+<details><summary>English</summary>
+
+(20) how, to the man who **has been living** such a life,  
+the soul's **departure** from the gross body **may take place**,  
+by the peculiar will of the Saviour,  
+in any place and at any time  
+irrespective of their **being** usually **considered** worthy or unworthy 
+</details>
+
+<details><summary>Español</summary>
+
+(20) cómo, para el hombre que **ha estado viviendo** tal vida,  
+la **salida** del alma del cuerpo denso **puede tener lugar**,  
+por la peculiar voluntad del Salvador,  
+en cualquier lugar y en cualquier momento  
+independientemente de que **sean** generalmente **considerados** dignos o indignos
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियेयिरुन्दविव्वधिकारिक्कु शरण्यसङ्कल्पविशेषत्ताले प्रशस्तदेशकालादि नियति निरपेक्षमाग स्थूलशरीरत्तिऩिऩ्ऱुम् निर्याणमिरुक्कुम्बडियुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिप् पुऱप्-पट्टाल्  
+पिता यौवराज्यत्तुक्कु  
+मुडि सूडव् +++(=अलङ्करणाय)+++ अऴैत्तु विट्ट राजकुमारऩ् पोमाप् पोले  
+पॆरिय मेऩ्मैयोडे परम-पद-पर्यन्तम् आग  
+अर्चिर्-आदि-मार्गत्ताले पोम्बडियुम्,
+</details>
+
+<details><summary>English</summary>
+
+(21) how the self that **has started** (from the body) **proceeds**,  
+like a prince **invited** by his father to his **installation** as heir-apparent,  
+in full glory to **travel** along the arcirādi route to Paramapada, 
+</details>
+
+<details><summary>Español</summary>
+
+(21) cómo el yo que **ha comenzado** (desde el cuerpo) **procede**,  
+como un príncipe **invitado** por su padre a su **instalación** como heredero aparente,  
+en toda su gloria para **viajar** a lo largo de la ruta arcirādi hacia Paramapada,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडिप् पुऱप्पट्टाल् पिता यौवराज्यत्तुक्कु मुडिसूडवऴैत्तुविट्ट राजकुमारऩ् पोमाप्पोले पॆरिय मेऩ्मैयोडे परमपदपर्यन्तमाग अर्चिरादिमार्गत्ताले पोम्बडियुम्,
+</details>
+
+### परिपूर्ण-ब्रह्मानुभवः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिप् पोऩाल् अङ्गु पिऱक्कुम् स्व-च्छन्द-कैङ्कर्य-पर्यन्त- परिपूर्णानुभव-रूपम् आऩ मुक्तैश्वर्यम् इरुक्कुम् बडियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(22) how after **reaching** there,  
+the self **will have** the full and perfect **enjoyment** of Bhagavān  
+which **will include** also free and voluntary **service** or kaiṅkarya  
+and which **is** the supreme state of Lordship **reserved** for the mukta 
+</details>
+
+<details><summary>Español</summary>
+
+(22) cómo después de **llegar** allí,  
+el yo **tendrá** el pleno y perfecto **disfrute** de Bhagavān  
+que **incluirá** también **servicio** gratuito y voluntario o kaiṅkarya  
+y que **es** el estado supremo de Señorío **reservado** para el mukta
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिप् पोऩाल् अङ्गु पिऱक्कुम् स्वच्छन्दकैङ्कर्यपर्यन्तपरिपूर्णानुभवरूपमाऩ मुक्तैश्वर्यमिरुक्कुम्बडियुम्, 
+</details>
+
+
+
+(23) the Siddhopāya which is the most important of what are to be known (24) the sādhyopāya which is the most important of those things that are to be performed (25) and (26) the ways in which misconceptions arising frou impure food, from association (with undesirable persons) as also from the character of the yuga and the like should be removed, misconceptions in regard to the potency of this upāya in relation to the man who has adopted it, misconceptions which describe its potency as higher or lower than what is stated in the śāstras (27, 28 & 29 ) the construction and interpretation of the words and the sentences in the three secrets or mysteries (mantras) which enable a man to meditate on all these points, (30) the regulations in regard to the imparting of instruction and the refraining from it, which have to be kept in mind by the ācārya who has to propagate a knowledge of the spiritual tradition concerning these truths in accordance with the śāstras and (31) the duties expected of the śiṣya who, on account of his inability to recompense his āchārya adequately has to remain eternally indebted to him ---
 
 
 we **have set forth**,  
