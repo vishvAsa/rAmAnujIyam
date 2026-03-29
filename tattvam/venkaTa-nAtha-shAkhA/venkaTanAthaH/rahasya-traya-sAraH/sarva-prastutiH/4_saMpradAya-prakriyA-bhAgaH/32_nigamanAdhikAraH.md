@@ -1375,6 +1375,17 @@ y **limpió** el camino para que **sea libre** de **obstáculos** -
 </details>
 
 
+### फल-स्तुतिः
+<details><summary>English</summary>
+
+THE GOOD RESULTS THAT WILL FOLLOW FROM A STUDY OF THIS TREATISE:
+</details>
+
+<details><summary>Español</summary>
+
+LOS BUENOS RESULTADOS QUE **SE SIGUIRAN** DEL ESTUDIO DE ESTE TRATADO:
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्-वऴि नडन्दवर्गळुक्कु 
@@ -1402,6 +1413,33 @@ y **limpió** el camino para que **sea libre** de **obstáculos** -
 गुरुः, आलम्बनम्, यात्रा, सिद्धता, साधना
 </details>
 
+<details><summary>English</summary>
+
+To those who **walk** along this path, 
+as **was said** :- 
+
+> "There **is no** rest house,  
+no staff for support,  
+no food (on the route)  
+and no one to **guide** us.  
+It **is** the path which ~~leads to hell and~~  
+**is** too dark (a forest) to **walk** along.  
+How will you **traverse** it alone ?" 
+</details>
+
+<details><summary>Español</summary>
+
+A aquellos que **caminan** por este camino, 
+como **se dijo** :- 
+
+> "**No hay** casa de **descanso**,  
+sin personal de **apoyo**,  
+sin comida (en la ruta)  
+y nadie que nos **guíe**.  
+Es **es** el camino que 
+**es** demasiado oscuro (un bosque) para **caminar**.  
+¿Cómo lo **atravesarás** solo?
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -1410,25 +1448,133 @@ y **limpió** el camino para que **sea libre** de **obstáculos** -
 </details>
 
 
-there will be no such painful anxieties as those felt by great sages 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-To those who **walk** along this path, 
-as **was said** :- 
+> ‘‘निष्पानीये निरालम्बे  
+निश्छाये निरपाश्रये ।  
+द्राघीयस्य् अशुभे मार्गे  
+यमस्य सदनं प्रति॥’’  
+(वङ्गी-पुरत्तुनम्बि नित्यम् २४) 
 
-> "There is no rest house, no staff for support, no food (on the route) and no one to guide us. It is the path which leads to hell and is too dark to walk along. How will you traverse it alone ?" and “The path leading to the house of Yama where there is no water for quenching the thirst, no staff for support, no shade to sit under, no house or lodge to rest in and which produces prolonged suffering." To one who follows the track of great men, there would be no such painful paths. They need not be tossed about to and fro like cotton cleaned of its seeds, combed, and carded before being spun and go up and come down, like the bucket in a picotah[‍?] , along the path of smoke (dhūmādi route)[^123] described in the Pañcāgni vidyā in the sixth chapter of Chāndogya upaniṣad,
+ऎऩ्ऱुम् 
+</details>
 
-[^123]: Going up to svarga and coming down to this world of saṁsāra after the fruits of good deeds have been enjoyed there and repeating this process.
+<details><summary>नीलमेघः (सं)</summary>
 
-### फल-स्तुतिः
+> ‘‘निष्पानीये निरालम्बे  
+निश्छाये निरपाश्रये ।  
+द्राघीयस्य् अशुभे मार्गे  
+यमस्य सदनं प्रति॥’’  
+(वङ्गी-पूर्ण-नित्यम् २४) 
+
+</details>
+
 <details><summary>English</summary>
 
-THE GOOD RESULTS THAT WILL FOLLOW FROM A STUDY OF THIS TREATISE:
+and 
+
+> “The path **leading** to the house of Yama  
+where there **is** no water for **quenching** the thirst, no staff for **support**,  
+no shade to **sit** under,  
+no house or lodge to **rest** in  
+and which **produces** prolonged **suffering**." 
 </details>
 
 <details><summary>Español</summary>
 
-LOS BUENOS RESULTADOS QUE **SE SIGUIRAN** DEL ESTUDIO DE ESTE TRATADO:
+y 
+
+> “El camino **que conduce** a la casa de Yama  
+donde **no hay** agua para **calmar** la sed, ni bastón de **apoyo**,  
+**no hay** sombra bajo la cual **sentarse**,  
+**No hay** casa ni albergue para **descansar**  
+y que **produce** un **sufrimiento** prolongado."
 </details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘निष्पानीये निरालम्बे निश्छाये निरपाश्रये । द्राघीयस्यशुभे मार्गे यमस्य सदनं प्रति’’(वङ्गी-पुरत्तुनम्बि नित्यम् २४) ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महर्षिगळ् नॆञ्ज् आऱल्+++(=दमनं)+++ बडुम् वऴिगळ् काण वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+there **will be no** such painful anxieties  
+as those **felt** by great sages. 
+
+To one who **follows** the track of great men,  
+there **would be no** such painful paths. 
+</details>
+
+<details><summary>Español</summary>
+
+**No habrá** angustias tan dolorosas  
+como los **sentidos** por los grandes sabios.
+
+Para aquel que **sigue** la huella de los grandes hombres,  
+**no existirían** caminos tan dolorosos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+महर्षिकळ् नॆञ्जाऱल्बडुम् वऴिगळ् काणवेण्डा। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पञ्चाग्नि-विद्यैयिऱ् सॊऩ्ऩ बडिये -  
+परुत्ति+++(=वर्त्तिका)+++ पट्ट पऩ्ऩ्-इरॆण्डुम्+++(=१२ [उत्पाटनादि])+++ **पट्टुप्**,  
+पूट्टैक्+++(=कूप-यन्त्र)+++-कुण्डिकै बोलेय्  
+एऱुवद् इऴिवद् आग  
++++(पञ्चाग्नि-विद्योक्त-)+++ धूमादि-मार्गत्तिले परिभ्रमिक्कवुम् वेण्डा।
+</details>
+
+<details><summary>English</summary>
+
+They need not be tossed about to and fro  
+like cotton **cleaned** of its seeds, **combed**, and **carded**  
+before **being spun** and **go** up and **come** down,  
+like the bucket in a picotah,  
+along the path of smoke (dhūmādi route)**described** in the Pañcāgni vidyā  
+in the sixth chapter of Chāndogya upaniṣad,
+
+(**Going** up to svarga  
+and **coming** down to this world of saṁsāra  
+after the fruits of good deeds **have been enjoyed** there  
+and **repeating** this process.)
+</details>
+
+<details><summary>Español</summary>
+
+**No es necesario moverlos** de un lado a otro  
+como algodón **limpio** de sus semillas, **peinado** y **cardado**  
+antes de **ser hecho girar** y **subir** y **bajar**,  
+como el cubo en una picotah,  
+a lo largo del camino del humo (ruta dhūmādi)**descrito** en el Pañcāgni vidyā  
+en el sexto capítulo del Chāndogya upaniṣad,
+
+(**Subiendo** a svarga  
+y **bajando** a este mundo de saṁsāra  
+después de que los frutos de las buenas obras **han sido disfrutados** allí  
+y **repitiendo** este proceso.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पञ्चाग्निविद्यैयिऱ् सॊऩ्ऩबडिये परुत्तिबट्ट पऩ्ऩिरॆण्डुम् पट्टुप्पूट्टैक् कुण्डिगैबोलेयेऱुवदिऴिवदाग धूमादिमार्गत्तिले परिभ्रमिक्कवुम् वेण्डा।
+</details>
+
+
+
+
+
 
 It has been said :-- "O. Lord,' Thou playest, as with balls, with creatures bound by the strings of karma  and going up and coming down". To the man who follows the ways of great men, the state when he is thus a toy for the sport of Bhagavān will soon pass away. He will then go along a path which is superior to the paths followed by others to attain high ends (like svarga), because it will lead to an end or goal greater than all others and will never result in a return to saṁsāra. It has been said:- "I know' that the path which will be trodden by the man who has exclusive devotion to Bhagavān is far superior to others" and likewise, “He, ( the jīva ) starts from the body by an excellent path, which is so cool as to remove the sufferings of saṁsāra." and further, "to those "who have practised yoga, (all) sufferings will cease and they will then journey by the Deva yāna route," This excellent path will terminate in the region (Paramapada) described in the following ślokas -- " It is a 'splendid region on reaching which the self will become (itself), (i. e.) free from avidyā and consequently from suffering," " The abode of the Supreme Being, Viṣṇu, shines far more than the sun or the fire.
 
