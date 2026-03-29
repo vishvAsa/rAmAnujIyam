@@ -758,34 +758,1453 @@ y que **es** el estado supremo de Señorío **reservado** para el mukta
 इप्पडिप् पोऩाल् अङ्गु पिऱक्कुम् स्वच्छन्दकैङ्कर्यपर्यन्तपरिपूर्णानुभवरूपमाऩ मुक्तैश्वर्यमिरुक्कुम्बडियुम्, 
 </details>
 
+### सिद्ध-साध्योपायौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञातव्यङ्गळिल् प्रधानम् आऩ सिद्धोपायत्तैयुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(23) the Siddhopāya which **is** the most important of what **are** to be known 
+</details>
+
+<details><summary>Español</summary>
+
+(23) el Siddhopāya que **es** el más importante de lo que **se** debe **conocer**
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञातव्यङ्गळिल् प्रधानमाऩ सिद्धोपायत्तैयुम्, 
+</details>
 
 
-(23) the Siddhopāya which is the most important of what are to be known (24) the sādhyopāya which is the most important of those things that are to be performed (25) and (26) the ways in which misconceptions arising frou impure food, from association (with undesirable persons) as also from the character of the yuga and the like should be removed, misconceptions in regard to the potency of this upāya in relation to the man who has adopted it, misconceptions which describe its potency as higher or lower than what is stated in the śāstras (27, 28 & 29 ) the construction and interpretation of the words and the sentences in the three secrets or mysteries (mantras) which enable a man to meditate on all these points, (30) the regulations in regard to the imparting of instruction and the refraining from it, which have to be kept in mind by the ācārya who has to propagate a knowledge of the spiritual tradition concerning these truths in accordance with the śāstras and (31) the duties expected of the śiṣya who, on account of his inability to recompense his āchārya adequately has to remain eternally indebted to him ---
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्तव्यङ्गळिल् प्रधानम् आऩ साध्योपायत्तैयुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(24) the sādhyopāya which **is** the most important of those things  
+that **are** to **be performed** 
+</details>
+
+<details><summary>Español</summary>
+
+(24) el sādhyopāya que **es** la más importante de esas cosas  
+que **son** para **realizarse**
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+कर्तव्यङ्गळिल् प्रधानमाऩ साध्योपायत्तैयुम्, 
+</details>
+
+### उत्तर-कृत्य-भ्रमाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-उपाय-निष्ठऩ्-उडैय प्रभावत्तिल्  
+शास्त्रङ्गळिसैयाद एऱ्ऱच् चुरुक्कङ्गळैयुम् बऱ्ऱि  
+आहार-दोष-- हैतुक-संसर्ग-- युग-स्वभावादिगळाले वरुङ् कलक्कङ्गळुक्कुप् पण्णुम् परिहार-प्रकारङ्गळुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(25) and (26) the ways in which misconceptions **arising** from impure food, from **association** (with undesirable persons),  
+as also from the character of the yuga and the like  
+**should be removed**,  
+**misconceptions** in regard to the potency of this upāya in relation to the man who **has adopted** it,  
+**misconceptions** which describe its potency as higher or lower than what **is stated** in the śāstras 
+</details>
+
+<details><summary>Español</summary>
+
+(25) y (26) las formas en que los conceptos erróneos **surgen** de alimentos impuros, de **asociación** (con personas indeseables),  
+como también del carácter del yuga y similares  
+**debe eliminarse**,  
+**conceptos** erróneos con respecto a la potencia de este upāya en relación con el hombre que **lo ha adoptado**,  
+**conceptos** erróneos que **describen** su potencia como superior o inferior a lo que **se afirma** en los śāstras
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायनिष्ठऩुडैय प्रभावत्तिल् शास्त्रङ्गळिसैयाद एऱ्ऱच् चुरुक्कङ्गळैयुम्बऱ्ऱि आहारदोषहैतुकसंसर्गयुगस्वभावादिगळाले वरुङ्गलक्कङ्गळुक्कुप् पण्णुम् परिहारप्रकारङ्गळुम्, 
+</details>
+
+
+### रहस्य-त्रय-पद-वाक्य-योजनाः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् ऎल्लाम् अनुसन्धिक्कैक्कु मुखम् आऩ रहस्य-त्रयत्तिल्  
+पद-वाक्य-योजऩैगळुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(27, 28 & 29 ) the **construction** and **interpretation** of the words and the sentences in the three secrets or mysteries (mantras)  
+which **enable** a man to **meditate** on all these points, 
+</details>
+
+<details><summary>Español</summary>
+
+(27, 28 y 29) la **construcción** e **interpretación** de las palabras y las oraciones en los tres secretos o misterios (mantras)  
+que **permiten** al hombre **meditar** sobre todos estos puntos,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवैयॆल्लामनुसन्धिक्कैक्कु मुखमाऩ रहस्यत्रयत्तिल् पदवाक्ययोजऩैगळुम्, 
+</details>
+
+### आचार्य-शिष्य-वृत्ती
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थङ्गळुक्क् ऎल्लाम्  
+यथा-शास्त्रम् संप्रदाय-प्रवर्तनम् पण्णुम् आचार्यऩुक्कु  
+उपदेशादि-प्रवृत्ति-निवृत्ति विषयङ्गळ् इरुक्कुम् बडियुम्,
+</details>
+
+<details><summary>English</summary>
+
+(30) the **regulations** in regard to the **imparting** of **instruction**  
+and the **refraining** from it,  
+which **have to be kept** in mind by the ācārya  
+who **has to propagate** a **knowledge** of the spiritual tradition  
+**concerning** these truths in **accordance** with the śāstras 
+</details>
+
+<details><summary>Español</summary>
+
+(30) las **regulaciones** con respecto a la **impartición** de **instrucciones**  
+y el **abstenerse** de ello,  
+que **deben ser tenidos** en mente por el ācārya  
+quien **tiene que propagar** un **conocimiento** de la tradición espiritual  
+**concerniente** a estas verdades **de acuerdo** con los śāstras
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थङ्गळुक्कॆल्लाम् यथाशास्त्रम् संप्रदायप्रवर्तनम् पण्णुमाचार्यऩुक्कु उपदेशादिप्रवृत्तिनिवृत्ति विषयङ्गळिरुक्कुम्बडियुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि परमोपकारकऩ् आग आचार्यऩ् +++(ति)+++ऱिऱत्तिल्+++(=विषये)+++  
+तगुदिय्+++(=योग्यम्)+++ आऩ प्रत्युपकारम् इल्लामैयाले  
+नित्य-ऋणिय् आऩ शिष्यऩुक्कुच्  
+चॆय्यव् अडुक्कुम्+++(=युक्तम्)+++ अवैयुम् 
+</details>
+
+<details><summary>English</summary>
+
+and (31) the duties **expected** of the śiṣya who,  
+on account of his inability to **recompense** his āchārya adequately  
+**has to remain** eternally **indebted** to him ---
+</details>
+
+<details><summary>Español</summary>
+
+y (31) los deberes **esperados** del śiṣya quien,  
+debido a su incapacidad para **recompensar** a su āchārya adecuadamente  
+**tiene que permanecer** eternamente **en deuda** con él ---
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि परमोपकारकऩाग आचार्यऩ्ऱिऱत्तिल् तगुदियाऩ प्रत्युपकारमिल्लामैयाले नित्यऋणियाऩ शिष्यऩुक्कुच् चॆय्यवडुक्कुमवैयुम्
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎल्लाम् -  
+श्रुति-स्मृति-सूत्र-संप्रदायङ्गळालुम्,  
+इवऱ्ऱुक्क् अनुकूलङ्गळ् आऩ समीचीन-न्यायङ्गळालुम्  
+अज्ञान-संशय-विपर्ययङ्गळ् अऱ  
+यथा-श्रुतं, यथा-हृदयम् उपपादित्तोम्। +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+(all this)
 we **have set forth**,  
 just as we **learnt** them ourselves  
 and just as we **believe** them to **be** true in our heart of hearts,  
 without **giving** room to any ignorance, doubt or misconception,  
 the following topics of knowledge in accordance with what **is sanctioned** by the śrutis, the smṛtis, the sūtras and the ancient tradition  
-and in accordance also with right reason: 
+and in accordance also with right reason.
+</details>
+
+<details><summary>Español</summary>
+
+(todo esto)
+nosotros **hemos establecido**,  
+tal como los **aprendimos** nosotros mismos  
+y así como **creemos** que **son** ciertas en el fondo de nuestro corazón,  
+sin **dar** lugar a ningún **desconocimiento**, duda o idea errónea,  
+los siguientes temas de **conocimiento** de acuerdo con lo **sancionado** por los śrutis, los smṛtis, los sūtras y la antigua tradición  
+y de acuerdo también con la recta razón.
+</details>
 
 
-THE GOOD RESULTS THAT WILL FOLLOW FROM
+<details><summary>मूलम्</summary>
 
-A STUDY OF THIS TREATISE:
+ऎल्लाम् श्रुतिस्मृतिसूत्रसंप्रदायङ्गळालुम्, इवऱ्ऱुक्कनुकूलङ्गळाऩ समीचीनन्यायङ्गळालुम् अज्ञानसंशयविपर्ययङ्गळऱ यथाश्रुतं यथाहृदयमुपपादित्तोम्।  
+</details>
 
-The śiṣya should, at first, approach the goodācārya in the proper manner and beg of him in these words : "I am your pupil and have sought you (for guidance). (Therefore) command me as to what I should do". He should listen (to the ācārya's discourse) with reverence and close attention and should also glean with care the advice which would supplement (what is taught by the ācārya) as stated in the following śloka :- “One should observe the wise words of great men and their virtuous ways of life and glean from them whatever is required for oneself, in the same way as some live on the grain gleaned in the fields. He should try to have a clear understanding of what is taught therein by repeated study.
 
-It has been said: "The dharma followed by the good is too subtle, O monkey, to be easily understood" and "There is no end to arguments. The Vedas are diverse; the rishis from whose words truth could be ascertained are many. The truth regarding dharma is hid (as it were) in a cave," and also, " Dharma' is more subtle than the sharp edge of a razor. Who is there competent to declare what it is ? " Thus where even sages have to tread with the greatest care, we have to follow what is stated in the following ślokas :- "The way that is followed by great men is the way (to be followed by others)" and "Whatever is said, even in sport, by Brahmins seated in the chariot of the dharma śāstras and armed with the sword of the Vedas --(Whatever is said by them) is considered as supreme dharma". Therefore to walk along the path followed by the ancientācāryas who depended solely on the śrutis and the smṛtis and cleared the way so that it may be free from hindrances - to walk along this way is not improper for us. To those who walk along this path, there will be no such painful anxieties as those feit by great sages when they said :- "There is no rest house, no staff for support, no food (on the route) and no one to guide us. It is the path which leads to hell and is too dark to walk along. How will you
+## ज्ञान-प्राप्ति-विधिः
+### गुरूपसत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-traverse it alone ?" and “The path leading to the house of Yama where there is no water for quenching the thirst, no staff for support, no shade to sit under, no house or lodge to rest in and which produces prolonged suffering." To one who follows the track of great men, there would be no such painful paths. They need not be tossed about to and fro like cotton cleaned of its seeds, combed, and carded before being spun and go up and come down, like the bucket in a picotah[‍?] , along the path of smoke (dhūmādi route)[^123] described in the Pañcāgni vidyā in the sixth chapter of Chāndogya upaniṣad,
+इव्व् अर्थङ्गळैय् ऎल्लाम्  
+मुऱ्-पड सत्-संप्रदायम्-उडैय सद्-आचार्यऩ् पक्कलिले  
+सम्यग्-उपसन्नऩ् आय् 
+</details>
 
-[^123]: Going up to svarga and coming down to this world of saṁsāra after the fruits of good deeds have been enjoyed there and repeating this process.
+<details><summary>English</summary>
 
-It has been said :-- "O. Lord,' Thou playest, as with balls, with creatures bound by the strings of karma  and going up and coming down". To the man who follows the ways of great men, the state when he is thus a toy for the sport of Bhagavān will soon pass away. He will then go along a path which is superior to the paths followed by others to attain high ends (like svarga), because it will lead to an end or goal greater than all others and will never result in a return to saṁsāra. It has been said:- "I know' that the path which will be trodden by the man who has exclusive devotion to Bhagavān is far superior to others" and likewise, “He, ( the jīva ) starts from the body by an excellent path, which is so cool as to remove the sufferings of saṁsāra." and further, "to those "who have practised yoga, (all) sufferings will cease and they will then journey by the Deva yāna route," This excellent path will terminate in the region (Paramapada) described in the following ślokas -- " It is a 'splendid region on reaching which the self will become (itself), (i. e.) free from avidyā and consequently from suffering," " The abode of the Supreme Being, Viṣṇu, shines far more than the sun or the fire.
+The śiṣya **should**, at first, **approach** the good ācārya in the proper manner  
+</details>
 
-It is so dazzlingly bright that even the gods and asuras cannot gaze at it," “Those great souls who have completed their practice of yoga and have become free from ignorance and illusion reach that region from which there is no return to this world of saṁsāra." "When compared with the region where the Supreme Being abides, this svarga and other worlds are, my child, like bells". This path (Devayāna) will terminate in Paramapada which is declared in the śrutis also as the ultimate terminus of the route leading away from saṁsāra. The self (that takes that path) will have, for its supporting staff, the grace of Bhagavān, and will have, for the victuals of its journey, the delight in the thought that it will (soon) attain the supreme end of life. As stated in the Brahma-sūtras "' He will start" from there by the opening of the vein (nāḍi) indicated and lighted by the Lord who dwells within the heart" and take the arcirādi route along which, in the respective regions of the gods, he would be greeted and welcomed with honours befitting emperors by the respective deities thereof with auspicious lamps and pitchers full of water (pūrṇakumbha) and attended by their followers. They will escort the self on its path and those deities to whom the man made offerings in the world of karma  before will (now) pay tributes to his self. The self then passes into regions which are beyond their range and attains a supreme perfection which would make it difficult for it to be distinguished from the eternal sūris when it enters their assembly. The self will then reach under the two feet of the Supreme „Ruler and His consort who are resting on a couch in Paramapada, the like of which has been described in the Mahābhārata and the Rāmāyaṇa in connection with the avatars as their manner of being seated:  Then he saw Śrī Kṛṣṇa seated on a throne made of gold and adorned with gems and looking like a blue cloud resting on Mount Meru. His form was radiant and adorned with ornaments of unsurpassed brilliance; he was dressed in a raiment of gold and shone like a blue gem set in gold; on his chest shone the gem kaustubha and He was like a mountain lighted up by the sun and had a crown on His head. Such was His appearance that, in all the three worlds, there could be found no one to be set in comparison with him?" and “Sumantra, the charioteer, saw Śrī Rāma seated like Kubera on a throne made of gold and having a beautiful coverlet. His body was covered with the paste of sandal red like the blood of the boar, pure, fragrant and of superior quality. Sītā was standing by him with a cāmara in her hand, like the star Citra near the moon, His splendour is like that of the sun. Sumantra, who knew the etiquette (suited to courts), bowed with respect to the invincible Śrī Rāma who ever gave what was asked of him." (Having reached the feet of the Supreme Being, the self will receive the privilege of rendering all kinds of service suited to all places, all times and all circumstances and be forever blissful as prayed for in the verse :- “We should render, so constantly and without intermission, service to the Lord - such service as will be most appropriate to all times, to all places and to all occasions".
+<details><summary>Español</summary>
+
+El śiṣya **debería**, al principio, **acercarse** al buen ācārya de la manera adecuada.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थङ्गळैयॆल्लाम् मुऱ्पड सत्संप्रदायमुडैय सदाचार्यऩ् पक्कलिले सम्यगुपसन्नऩाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘शिष्यस् तेऽहं शाधि मां त्वां प्रपन्नं’’(गीता २-७) 
+
+ऎऩ्ऱु विण्णप् पञ्जॆय्दु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘शिष्यस् तेऽहं शाधि मां त्वां प्रपन्नं’’(गीता २-७) 
+</details>
+
+<details><summary>English</summary>
+
+and **beg** of him in these words : 
+
+> "**I am** your pupil  
+and **have sought** you (for **guidance**).  
+(Therefore) **command** me as to what **I should do**". 
+</details>
+
+<details><summary>Español</summary>
+
+y **ruega** de él con estas palabras: 
+
+> "**Soy** tu alumno  
+y **te he buscado** (para **guía**).  
+(Por lo tanto) **ordename** lo que **debo hacer**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नं’’(गीता २-७) ऎऩ्ऱु विण्णप् पञ्जॆय्दु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सादरऩ् आय् विशदम् आग श्रवणम् पण्णि 
+</details>
+
+<details><summary>English</summary>
+
+He **should listen** (to the ācārya's **discourse**) with reverence and close attention  
+</details>
+
+<details><summary>Español</summary>
+
+Él **debe escuchar** (el **discurso** del ācārya) con reverencia y mucha atención.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सादरऩाय् विशदमाग श्रवणम् पण्णि 
+</details>
+
+### अन्येभ्यः शिक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱुक्क् उपयुक्तङ्गळ् आऩ नल्-वार्त्तैगळैयुम् 
+
+> ‘‘सुव्याहृतानि महतां  
+सु-कृतानि ततस् ततः ।  
+**सञ्चिन्वन्** धीर **आसीत**  
+सिल+++(=उञ्छ)+++-हारी सिलं यथा॥’’  
+(भारतम्, उद्योग-पर्व ३४-३४) +++(5)+++
+
+ऎऩ्गिऱबडिये आय्न्दॆडुत्तु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सुव्याहृतानि महतां  
+सु-कृतानि ततस् ततः ।  
+**सञ्चिन्वन्** धीर **आसीत**  
+सिल+++(=उञ्छ)+++-हारी सिलं यथा॥’’  
+(भारतम्, उद्योग-पर्व ३४-३४) 
+
+
+</details>
+
+<details><summary>विषयः</summary>
+
+शिक्षा
+</details>
+
+
+<details><summary>English</summary>
+
+and should also **glean** with care the **advice**  
+which **would supplement** (what **is taught** by the ācārya)  
+as **stated** in the **following** śloka :- 
+
+> “One **should observe** the wise words of great men and their virtuous ways of life  
+and **glean** from them whatever **is required** for oneself,  
+in the same way as some **live** on the grain **gleaned** in the fields.  
+</details>
+
+<details><summary>Español</summary>
+
+y también **debería recoger** con cuidado los **consejos**  
+que **complementaría** (lo que **se enseña** por el ācārya)  
+como **indicado** en el **siguiente** śloka:- 
+
+> “Uno **debe observar** las sabias palabras de los grandes hombres y sus virtuosos modos de vida  
+y **obtener** de ellos lo que **se requiera** para uno mismo,  
+de la misma manera que algunos **viven** del grano **recogido** en el campo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱुक्कुपयुक्तङ्गळाऩ नल्वार्त्तैगळैयुम् ‘‘सुव्याहृतानि महतां सुकृतानि ततस्ततः । सञ्चिन्वन् धीरआसीत सिलहारी सिलं यथा’’(भारतम्, उद्योग-पर्व ३४-३४) ऎऩ्गिऱबडिये आय्न्दॆडुत्तु 
+</details>
+
+### अभ्यासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अभ्यास-भूयस्तैयाले तॆळिन्दु कॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+He **should try** to **have** a clear **understanding** of what **is taught** therein  
+by repeated **study**.
+</details>
+
+<details><summary>Español</summary>
+
+Él **debe tratar** de **tener** una **comprensión** clara de lo que **se enseña** allí.  
+mediante **estudio** repetido.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अभ्यासभूयस्तैयाले तॆळिन्दुगॊळ्वदु। 
+</details>
+
+### काठिन्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सूक्ष्मः परम-दुर्-ज्ञेयस्  
+सतां धर्मः प्लवङ्गम’’  
+(रामायणम् किष्किन्दा - १८-१५) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सूक्ष्मः परम-दुर्-ज्ञेयस्  
+सतां धर्मः प्लवङ्गम’’  
+(रामायणम् किष्किन्दा - १८-१५) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+It **has been said**: 
+
+> "The dharma **followed** by the good  
+**is** too subtle, O monkey,  
+to be easily **understood**" 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**: 
+
+> "El dharma **seguido** del bien  
+**es** demasiado sutil, oh mono,  
+para ser fácilmente **entendido**"
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सूक्ष्मः परमदुर्ज्ञेयस्सतां धर्मः प्लवङ्गम’’(रामायणम् किष्किन्दा - १८-१५) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘धर्मस्य तत्त्वं निहितं गुहायाम्’’  
+(भारतम् आरण्य-पर्व ३१४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘धर्मस्य तत्त्वं निहितं गुहायाम्’’  
+(भारतम् आरण्य-पर्व ३१४) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "There **is no** end to **arguments**.  
+The Vedas **are** diverse;  
+the rishis from whose words truth **could be ascertained are** many.  
+The truth **regarding** dharma is hid (as it were) in a cave," 
+
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "**No hay** fin para los **argumentos**.  
+Los Vedas **son** diversos;  
+Los rishis de cuyas palabras **se puede determinar** la verdad son muchos.  
+La verdad con **respecto** al dharma **está escondida** (por así decirlo) en una cueva".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘धर्मस्य तत्त्वं निहितं गुहायां’’(भारतम् आरण्य-पर्व ३१४) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अणीयान् क्षुर-धारायाः  
+को धर्मं वक्तुम् अर्हति’’  
+(भारतम् आरण्य-पर्व ११९) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अणीयान् क्षुर-धारायाः  
+को धर्मं वक्तुम् अर्हति’’  
+(भारतम् आरण्य-पर्व ११९) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+and also, 
+
+> " 'Dharma' **is** more subtle than the sharp edge of a razor.  
+Who **is** there competent to **declare** what it is ? " 
+</details>
+
+<details><summary>Español</summary>
+
+y también, 
+
+> "El 'Dharma' **es** más sutil que el filo de una navaja.  
+¿Quién **es** competente para **declarar** qué **es**? "
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अणीयान् क्षुरधारायाः को धर्मं वक्तुमर्हति’’(भारतम् आरण्य-पर्व ११९) ऎऩ्ऱुम् 
+</details>
+
+#### शिष्टानुसरणम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋषिगळुक्कुङ् कूड वरुन्दि+++(=श्रान्त्वा)+++ पद-विन्यासम् पण्ण-वेण्डिय् इरुक्किऱ निलङ्गळिल् 
+
+> ‘‘महाजनो येन गतस् स पन्थाः’’  
+(भारतम् उद्योग-पर्व ३५-२९) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+
+> ‘‘महाजनो येन गतस् स पन्थाः’’  
+(भारतम् उद्योग-पर्व ३५-२९) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+Thus where even sages **have to tread** with the greatest care,  
+(we **have to follow**) what **is stated** in the following ślokas :- 
+
+> "The way that **is followed** by great men **is** the way (to be followed by others)" 
+</details>
+
+<details><summary>Español</summary>
+
+Así, donde incluso los sabios **tienen** que **pisar** con el mayor cuidado,  
+(**tenemos que seguir**) lo **que se indica** en los siguientes ślokas:- 
+
+> "El camino que **siguen** los grandes hombres **es** el camino (que **deben seguir** otros)"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऋषिकळुक्कुङ्गूड वरुन्दि पदविन्यासम् पण्णवेण्डियिरुक्किऱ निलङ्गळिल् ‘‘महाजनो येन गतस्स पन्थाः’’(भारतम् उद्योग-पर्व ३५-२९) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘धर्म-शास्त्र-रथारूढा  
+वेद-खड्ग-धरा द्विजाः ।  
+क्रीडार्थम् अपि यत् ब्रूयुस्  
+स धर्मः परमो मतः॥’’  
+(बोधायन-गृह्य-सूत्राणि १४-१-७) 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘धर्म-शास्त्र-रथारूढा  
+वेद-खड्ग-धरा द्विजाः ।  
+क्रीडार्थम् अपि यत् ब्रूयुस्  
+स धर्मः परमो मतः॥’’  
+(बोधायन-गृह्य-सूत्राणि १४-१-७) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "Whatever **is said**, even in sport, by Brahmins **seated** in the chariot of the dharma śāstras  
+and **armed** with the sword of the Vedas -- 
+(Whatever **is said** by them) **is considered** as supreme dharma". 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Todo lo que **digan**, incluso en el deporte, los brahmanes **sentados** en el carro de los dharma śāstras  
+y **armado** con la espada de los Vedas... 
+(Todo lo que **digan** ellos) **se considera** como dharma supremo".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘धर्मशास्त्ररथारूढा वेदखड्गधरा द्विजाः । क्रीडार्थमपि यत् ब्रूयुस्स धर्मः परमो मतः॥’’(बोधायन-गृह्य-सूत्राणि १४-१-७) ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रुति-स्मृति-शरणर् आऩ पूर्वाचार्यर्गळ्  
+कण्टक-शोधनम् पण्णि नडन्द वऴियिले नडक्कैयाले  
+नमक्कु वरुवद् ऒरु तप्पिल्लै। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Therefore to **walk** along the path **followed** by the ancient ācāryas  
+who **depended** solely on the śrutis and the smṛtis  
+and **cleared** the way so that it **may be free** from **hindrances** -  
+to **walk** along this way **is not** improper for us.  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **caminar** por el sendero **seguido** por los antiguos ācāryas  
+quien **dependía** únicamente de los śrutis y los smṛtis  
+y **limpió** el camino para que **sea libre** de **obstáculos** -  
+**caminar** por este camino **no** es impropio para nosotros.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रुतिस्मृतिशरणराऩ पूर्वाचार्यर्गळ् कण्टकशोधनम् पण्णि नडन्दवऴियिले नडक्कैयाले नमक्कु वरुवदॊरु तप्पिल्लै।
+</details>
+
+
+### मार्ग-स्तुतिः
+#### सुगमता
+<details><summary>English</summary>
+
+THE GOOD RESULTS THAT WILL FOLLOW FROM A STUDY OF THIS TREATISE:
+</details>
+
+<details><summary>Español</summary>
+
+LOS BUENOS RESULTADOS QUE **SE SIGUIRAN** DEL ESTUDIO DE ESTE TRATADO:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-वऴि नडन्दवर्गळुक्कु 
+
+> ‘‘अ-विश्रान्तम् अन्-आलम्बम्  
+अ-पाथेयम् अ-देशिकम् ।  
+तमःकान्तारम् अध्वानं  
+कथम् एको गमिष्यसि॥’’  
+(भारतम् शान्ति-पर्व ३३७-३४) +++(5)+++
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अ-विश्रान्तम् अन्-आलम्बम्  
+अ-पाथेयम् अ-देशिकम् ।  
+तमःकान्तारम् अध्वानं  
+कथम् एको गमिष्यसि॥’’  
+(भारतम् शान्ति-पर्व ३३७-३४) +++(5)+++
+</details>
+
+<details><summary>विषयः</summary>
+
+गुरुः, आलम्बनम्, यात्रा, सिद्धता, साधना
+</details>
+
+<details><summary>English</summary>
+
+To those who **walk** along this path, 
+as **was said** :- 
+
+> "There **is no** rest house,  
+no staff for support,  
+no food (on the route)  
+and no one to **guide** us.  
+It **is** the path which ~~leads to hell and~~  
+**is** too dark (a forest) to **walk** along.  
+How will you **traverse** it alone ?" 
+</details>
+
+<details><summary>Español</summary>
+
+A aquellos que **caminan** por este camino, 
+como **se dijo** :- 
+
+> "**No hay** casa de **descanso**,  
+sin personal de **apoyo**,  
+sin comida (en la ruta)  
+y nadie que nos **guíe**.  
+Es **es** el camino que 
+**es** demasiado oscuro (un bosque) para **caminar**.  
+¿Cómo lo **atravesarás** solo?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वऴि नडन्दवर्गळुक्कु ‘‘अविश्रान्तमनालम्बमपाथेयमदेशिकम् । तमःकान्तारमध्वानं कथमेको गमिष्यसि’’(भारतम् शान्ति-पर्व ३३७-३४) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘निष्पानीये निरालम्बे  
+निश्छाये निरपाश्रये ।  
+द्राघीयस्य् अशुभे मार्गे  
+यमस्य सदनं प्रति॥’’  
+(वङ्गी-पुरत्तुनम्बि नित्यम् २४) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘निष्पानीये निरालम्बे  
+निश्छाये निरपाश्रये ।  
+द्राघीयस्य् अशुभे मार्गे  
+यमस्य सदनं प्रति॥’’  
+(वङ्गी-पूर्ण-नित्यम् २४) 
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “The path **leading** to the house of Yama  
+where there **is** no water for **quenching** the thirst, no staff for **support**,  
+no shade to **sit** under,  
+no house or lodge to **rest** in  
+and which **produces** prolonged **suffering**." 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> “El camino **que conduce** a la casa de Yama  
+donde **no hay** agua para **calmar** la sed, ni bastón de **apoyo**,  
+**no hay** sombra bajo la cual **sentarse**,  
+**No hay** casa ni albergue para **descansar**  
+y que **produce** un **sufrimiento** prolongado."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘निष्पानीये निरालम्बे निश्छाये निरपाश्रये । द्राघीयस्यशुभे मार्गे यमस्य सदनं प्रति’’(वङ्गी-पुरत्तुनम्बि नित्यम् २४) ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महर्षिगळ् नॆञ्ज् आऱल्+++(=दमनं)+++ बडुम् वऴिगळ् काण वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+there **will be no** such painful anxieties  
+as those **felt** by great sages. 
+
+To one who **follows** the track of great men,  
+there **would be no** such painful paths. 
+</details>
+
+<details><summary>Español</summary>
+
+**No habrá** angustias tan dolorosas  
+como los **sentidos** por los grandes sabios.
+
+Para aquel que **sigue** la huella de los grandes hombres,  
+**no existirían** caminos tan dolorosos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+महर्षिकळ् नॆञ्जाऱल्बडुम् वऴिगळ् काणवेण्डा। 
+</details>
+
+#### अपुनर्-आवृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पञ्चाग्नि-विद्यैयिऱ् सॊऩ्ऩ बडिये -  
+परुत्ति+++(=वर्त्तिका)+++ पट्ट पऩ्ऩ्-इरॆण्डुम्+++(=१२ [उत्पाटनादि])+++ **पट्टुप्**,  
+पूट्टैक्+++(=कूप-यन्त्र)+++-कुण्डिकै बोलेय्  
+एऱुवद् इऴिवद् आग  
++++(पञ्चाग्नि-विद्योक्त-)+++ धूमादि-मार्गत्तिले परिभ्रमिक्कवुम् वेण्डा।
+</details>
+
+<details><summary>English</summary>
+
+They need not be tossed about to and fro  
+like cotton **cleaned** of its seeds, **combed**, and **carded**  
+before **being spun** and **go** up and **come** down,  
+like the bucket in a picotah,  
+along the path of smoke (dhūmādi route)**described** in the Pañcāgni vidyā  
+in the sixth chapter of Chāndogya upaniṣad,
+
+(**Going** up to svarga  
+and **coming** down to this world of saṁsāra  
+after the fruits of good deeds **have been enjoyed** there  
+and **repeating** this process.)
+</details>
+
+<details><summary>Español</summary>
+
+**No es necesario moverlos** de un lado a otro  
+como algodón **limpio** de sus semillas, **peinado** y **cardado**  
+antes de **ser hecho girar** y **subir** y **bajar**,  
+como el cubo en una picotah,  
+a lo largo del camino del humo (ruta dhūmādi)**descrito** en el Pañcāgni vidyā  
+en el sexto capítulo del Chāndogya upaniṣad,
+
+(**Subiendo** a svarga  
+y **bajando** a este mundo de saṁsāra  
+después de que los frutos de las buenas obras **han sido disfrutados** allí  
+y **repitiendo** este proceso.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पञ्चाग्निविद्यैयिऱ् सॊऩ्ऩबडिये परुत्तिबट्ट पऩ्ऩिरॆण्डुम् पट्टुप्पूट्टैक् कुण्डिगैबोलेयेऱुवदिऴिवदाग धूमादिमार्गत्तिले परिभ्रमिक्कवुम् वेण्डा।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘त्वं **न्य्-अञ्चद्भिर् उद्-अञ्चद्भिः**  
+कर्म-सूत्रोपपादितैः ।  
+हरे **विहरसि** क्रीडा-  
+कन्दुकैरिव जन्तुभिः॥’’  
+(विष्णुधर्मः) 
+
+ऎऩ्गिऱ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘त्वं **न्य्-अञ्चद्भिर् उद्-अञ्चद्भिः**  
+कर्म-सूत्रोपपादितैः ।  
+हरे **विहरसि** क्रीडा-  
+कन्दुकैरिव जन्तुभिः॥’’  
+(विष्णुधर्मः) 
+
+</details>
+
+<details><summary>English</summary>
+
+It **has been said** :-- 
+
+> "O Lord, Thou **playest**, as with balls,  
+with creatures **bound** by the strings of karma  
+which are **going** up and **coming** down". 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho** :-- 
+
+> "Oh Señor, Tú **juegas**, como con pelotas,  
+con criaturas **atadas** por los hilos del karma  
+que **son subiendos** y **bajandos**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वं न्यञ्चद्भिरुदञ्चद्भिः कर्मसूत्रोपपादितैः । हरे विहरसि क्रीडाकन्दुकैरिव जन्तुभिः॥’’(विष्णुधर्मः) ऎऩ्गिऱ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवल्-लीलोपकरणम् आऩ दशै कऴिन्दु 
+</details>
+
+<details><summary>English</summary>
+
+To the man who **follows** the ways of great men,  
+the state when he **is** thus a toy for the **sport** of Bhagavān  
+**will** soon **pass away**. 
+</details>
+
+<details><summary>Español</summary>
+
+Al hombre que **sigue** los caminos de los grandes hombres,  
+el estado en el que **es** un juguete para el **deporte** de Bhagavān  
+**pronto fallecerá**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवल्लीलोपकरणमाऩ दशैकऴिन्दु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱुम् उळ्ळ अतिशयित-फलङ्गळ्  
+पॆऱप् पोम् अधिकारिगळ्-उडैय वऴिगळिऱ् काट्टिल्  
+</details>
+
+<details><summary>English</summary>
+
+He will then **go** along a path  
+which **is** superior to the paths **followed** by others  
+to **attain** high ends (like svarga),  
+</details>
+
+<details><summary>Español</summary>
+
+Luego **irá** por un camino  
+que **es** superior a los caminos **seguidos** por otros  
+para **alcanzar** extremos altos (como svarga),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुमुळ्ळ अतिशयित-फलङ्गळ् पॆऱप्पोम् अधिकारिकळुडैय वऴिगळिऱ्काट्टिल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषार्थ-भूयस्तैयालुम्, 
+पुनरावृत्तिय् इल्लामैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+because it **will lead** to an end or goal  
+greater than all others  
+and **will never result** in a **return** to saṁsāra. 
+</details>
+
+<details><summary>Español</summary>
+
+porque **conducirá** a un fin o meta  
+mayor que todos los demás  
+y **nunca resultará** en un **regreso** al saṁsāra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरुषार्थभूयस्तैयालुम्,पुनरावृत्तियिल्लामैयालुम् 
+</details>
+
+#### उत्क्रान्त्य्-उत्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तेभ्यो विशिष्टां जानामि  
+गतिम् एकान्तिनां नृणाम्’’  
+(भारतम् शान्ति-पर्व ३५८-६), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तेभ्यो विशिष्टां जानामि  
+गतिम् एकान्तिनां नृणाम्’’  
+(भारतम् शान्ति-पर्व ३५८-६), 
+</details>
+
+<details><summary>English</summary>
+
+It **has been said**:-  
+
+> "**I know** that the path  
+which **will be trodden** by the man  
+who **has** exclusive **devotion** to Bhagavān  
+**is** far superior to others"  
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**:-  
+
+> "**Sé** que el camino  
+que **será pisoteada** por el hombre  
+que **tiene devoción** exclusiva por Bhagavān  
+**es** muy superior a los demás"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तेभ्यो विशिष्टां जानामि गतिमेकान्तिनां नृणाम्’’(भारतम् शान्ति-पर्व ३५८-६), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उत्क्रामति च मार्ग-स्थश्  
+शीती-भूतो निरामयः॥’’  
+(भारतम् शान्ति-पर्व १९४-२७), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘उत्क्रामति च मार्ग-स्थश्  
+शीती-भूतो निरामयः॥’’  
+(भारतम् शान्ति-पर्व १९४-२७), 
+</details>
+
+<details><summary>English</summary>
+
+and likewise, 
+
+> “He, ( the jīva ) **starts** from the body by an excellent path,  
+which **is** so cool as to **remove** the **sufferings** of saṁsāra." 
+</details>
+
+<details><summary>Español</summary>
+
+y de la misma manera, 
+
+> “Él, (la jīva) **parte** del cuerpo por un camino excelente,  
+lo cual **es** tan genial como para **eliminar** los **sufrimientos** del saṁsāra."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘उत्क्रामति च मार्गस्थश्शीतीभूतो निरामयः’’(भारतम् शान्ति-पर्व १९४-२७), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘देवयानः परः पन्था  
+योगिनां क्लेश-संक्षयः’’() 
+
+इत्य्-आदिगळिऱ् पडिये अत्यन्त-विशिष्टम् आय् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘देवयानः परः पन्था  
+योगिनां क्लेश-संक्षयः’’() 
+
+
+</details>
+
+<details><summary>English</summary>
+
+and further, 
+
+> "to those who **have practised** yoga,  
+(all) **sufferings will cease**  
+and they will then **journey** by the Deva yāna route," 
+
+This excellent path …
+</details>
+
+<details><summary>Español</summary>
+
+y además, 
+
+> "a aquellos que **han practicado** yoga,  
+(todos) **los sufrimientos cesarán**  
+y luego **viajarán** por la ruta Deva yāna",
+
+Este excelente camino…
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘देवयानः परः पन्थाः योगिनां क्लेशसंक्षय’’() इत्यादिगळिऱ्पडिये अत्यन्तविशिष्टमाय् 
+</details>
+
+#### प्राप्योत्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १४‘‘आत्मा केवलतां **प्राप्तो**  
+यत्र **गत्वा न शोचति**।’’  
+(भारतम् शान्ति-पर्व १९६-११), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १४‘‘आत्मा केवलतां **प्राप्तो**  
+यत्र **गत्वा न शोचति**।’’  
+(भारतम् शान्ति-पर्व १९६-११), 
+</details>
+
+<details><summary>English</summary>
+
+> " It **is** a splendid region  
+on **reaching** which  
+the self **will become** (itself), (i. e.) free from avidyā  
+and consequently from **suffering**," 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Es** una región espléndida  
+al **alcanzar** cual  
+el yo **se volverá** (él mismo), (es decir) libre de avidyā  
+y en consecuencia del **sufrimiento**",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१४‘‘आत्मा केवलतां प्राप्तो यत्र गत्वा न शोचति’’(भारतम् शान्ति-पर्व १९६-११), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अत्य्-अर्कानल-दीप्तन् तत्  
+**स्थानं** विष्णोर् महात्मनः ।  
+स्वयैव प्रभया राजन्  
+दुष्प्रेक्षन् देव-दानवैः । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अत्य्-अर्कानल-दीप्तन् तत्  
+**स्थानं** विष्णोर् महात्मनः ।  
+स्वयैव प्रभया राजन्  
+दुष्प्रेक्षन् देव-दानवैः । 
+</details>
+
+<details><summary>English</summary>
+
+> " The abode of the Supreme Being, Viṣṇu, **shines** far more than the sun or the fire.  
+It **is** so dazzlingly bright  
+that even the gods and asuras **cannot gaze** at it," 
+</details>
+
+<details><summary>Español</summary>
+
+> "La morada del Ser Supremo, Viṣṇu, **brilla** mucho más que el sol o el fuego.  
+**Es** tan deslumbrantemente brillante  
+que ni siquiera los dioses y asuras **pueden contemplarlo**",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अत्यर्कानल दीप्तन्तत् स्थानं विष्णोर्महात्मनः । स्वयैव प्रभया राजन् दुष्प्रेक्षन्देव-दानवैः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यत्र गत्वा पुनर् नेमं  
+लोकम् **आयान्ति** भारत ॥  
+एते वै +++(स्वर्गादयो)+++ निरयास् तात  
+स्थानस्य परमात्मनः।’’  
+(भारतम् आरण्य-पर्व १३६-१८) 
+
+इत्य्-आदिगळिलुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> यत्र गत्वा पुनर् नेमं  
+लोकम् **आयान्ति** भारत ॥  
+एते वै +++(स्वर्गादयो)+++ निरयास् तात  
+स्थानस्य परमात्मनः।’’  
+(भारतम् आरण्य-पर्व १३६-१८) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+> “Those great souls who **have completed** their **practice** of yoga  
+and **have become** free from ignorance and illusion  
+**reach** that region  
+from which there **is no return** to this world of saṁsāra." 
+
+> "When **compared** with the region where the Supreme Being **abides**,  
+this svarga and other worlds **are**, my child, like hells". 
+</details>
+
+<details><summary>Español</summary>
+
+> “Esas grandes almas que **han completado** su **práctica** de yoga  
+y **me he vuelto** libre de la ignorancia y la ilusión  
+**llegar** a esa región  
+desde el cual **no hay retorno** a este mundo de saṁsāra."
+
+> "Cuando **comparado** con la región donde el Ser Supremo **habita**,  
+este svarga y otros mundos **son**, hija mía, como infiernos".
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्र गत्वा पुनर्नेमं लोकमायान्ति भारत ॥ एते वै निरयास्तात स्थानस्य परमात्मनः।’’(भारतम् आरण्य-पर्व १३६-१८) इत्यादिगळिलुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसाराध्वावुक्कु पारम् ऎऩ्ऱु  
+श्रुतिगळिलुम् ओदप् पडुगिऱ  
+परम-पदत्तै पर्यन्तम् आगव् उडैत्त् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+(It) **will terminate** in the region (Paramapada) **described** in the above ślokas.
+
+This path (Devayāna) **will terminate** in Paramapada  
+which **is declared** in the śrutis also  
+as the ultimate terminus of the route **leading** away from saṁsāra. 
+</details>
+
+<details><summary>Español</summary>
+
+(Él) **terminará** en la región (Paramapada) **descrita** en los ślokas anteriores.
+
+Este camino (Devayāna) **terminará** en Paramapada  
+que **está declarado** en los śrutis también  
+como el último término de la ruta que **conduce** fuera del saṁsāra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+संसाराध्वावुक्कु पारमॆऩ्ऱु श्रुतिकळिलुमोदप्पडुगिऱ परमपदत्तै पर्यन्तमाग वुडैत्ताय्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-प्रसादावलम्बनम् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+The self (that takes that path) **will have**, for its supporting staff,  
+the grace of Bhagavān, 
+</details>
+
+<details><summary>Español</summary>
+
+El yo (que toma ese camino) **tendrá**, como palo de apoyo,  
+la gracia de Bhagavān,
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्रसादावलम्बनमाय्, 
+</details>
+
+#### सन्तोष-पाथेयम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परिपूर्णम् आऩ परम-पुरुषार्थत्तैप् पॆऱप् पुगुगिऱोम्  
+
+ऎऩ्गिऱ सन्तोषत्तै पाथेयम् आगव् उडैत्ताय्, +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+and **will have**, for the victuals of its journey,  
+the delight in the **thought** that  
+it will (soon) **attain** the supreme end of life. 
+</details>
+
+<details><summary>Español</summary>
+
+y **tendrá**, para los víveres de su viaje,  
+el deleite en el **pensamiento** que  
+(pronto) **alcanzará** el fin supremo de la vida.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परिपूर्णमाऩ परमपुरुषार्थत्तैप् पॆऱप् पुगुगिऱोमॆऩ्गिऱ सन्तोषत्तै पाथेयमागवुडैत्ताय्, 
+</details>
+
+#### ईश्वरादिभिर् नयनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तत्-प्रकाशित-द्वारः’’  
+(ब्रह्मसूत्रम् ४-२-१६)  
+
+ऎऩ्गिऱ बडिये  
+हार्दऩ् आऩ ईश्वरऩ्-उडैय सौहार्दत्ताले काट्टप्पडुगिऱ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तत्-प्रकाशित-द्वारः’’  
+(ब्रह्मसूत्रम् ४-२-१६)  
+
+
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in the Brahma-sūtras  
+
+> "He **will start** from there  
+by the **opening** of the vein (nāḍi) **indicated** and **lighted** by the Lord  
+who **dwells** within the heart" 
+</details>
+
+<details><summary>Español</summary>
+
+Como **indicado** en los Brahma-sūtras  
+
+> "Él **comenzará** desde allí  
+por la **apertura** de la vena (nāḍi) **indicada** e **iluminada** por el Señor  
+que **habita** dentro del corazón"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘तत्प्रकाशितद्वारः’’(ब्रह्मसूत्रम् ४-२-१६) ऎऩ्गिऱबडिये हार्दऩाऩ ईश्वरऩुडैय सौहार्दत्ताले काट्टप्पडुगिऱ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्चिर्-आदि-मार्गत्ताले  
+अव्व्-ओ देवतैगळ् तन्-दाम् ऎल्लैगळ् तोऱुम्+++(=प्रति)+++  
+मङ्गळ-प्रदीप--पूर्ण-कुंभादिगळै मुऩ्ऩिट्टु  
+स-परिकरर् आय् ऎदिर् गॊण्डु  
+सार्वभौमोपचारङ्गळैप् पण्णि वऴि नडत्त, 
+</details>
+
+<details><summary>English</summary>
+
+and **take** the arcirādi route along which, in the respective regions of the gods,  
+he **would be greeted** and **welcomed** with honours **befitting** emperors  
+by the respective deities thereof  
+with auspicious lamps and pitchers full of water (pūrṇakumbha)  
+and **attended** by their followers.  
+They **will escort** the self on its path  
+
+</details>
+
+<details><summary>Español</summary>
+
+y **tomar** la ruta arcirādi a lo largo de la cual, en las respectivas regiones de los dioses,  
+él **sería recibido** y **bienvenido** con honores **propios** de los emperadores  
+por sus respectivas deidades  
+con lámparas auspiciosas y cántaros llenos de agua (pūrṇakumbha)  
+y **asistido** por sus seguidores.  
+Ellos **escoltarán** al yo en su camino
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्चिरादि मार्गत्ताले अव्वो देवतैकळ् तन्दामॆल्लैगळ्दोऱुम् मङ्गळ प्रदीपपूर्णकुंभादिगळै मुऩ्ऩिट्टु सपरिकरराय् ऎदिर्गॊण्डु सार्वभौमोपचारङ्गळैप् पण्णिवऴिनडत्त, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्म-लोकत्तिल् इरुन्द नाळ्  
+इऱै+++(=ऐश्वर्यम् → बलिं)+++ कोण्ड देवतैगळ् ऎल्लाङ्  
+काणिक्कैय् इट्टुक् कण्ड् अनुवर्तिक्क, 
+</details>
+
+<details><summary>English</summary>
+
+and those deities to whom the man **made offerings** in the world of karma before  
+will (now) **pay** tributes to his self. 
+</details>
+
+<details><summary>Español</summary>
+
+y aquellas deidades a quienes el hombre **hizo ofrendas** en el mundo del karma antes  
+(ahora) **pagará** homenajes a sí mismo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्मलोकत्तिलिरुन्द नाळ् इऱैगॊण्ड देवतैकळॆल्लाङ् गाणिक्कैयिट्टुक्कण्डनुवर्तिक्क, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवर्गळुक्कुम् ऎट्ट वॊण्णादव् ऎल्लैगळ् ऎल्लाङ् कडन्दु 
+</details>
+
+<details><summary>English</summary>
+
+The self then **passes** into regions which **are** beyond their range  
+</details>
+
+<details><summary>Español</summary>
+
+El yo entonces **pasa** a regiones que **están** más allá de su alcance.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवर्गळुक्कुमॆट्टवॊण्णादवॆल्लैगळॆल्लाङ्गडन्दु 
+</details>
+
+#### नित्य-सूरि-प्राप्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्य-सूरिगळ् तिरळिऱ्+++(=यूथे)+++ पुक्काल्  
+वासि+++(=वैषम्यम्)+++ तॆरियाद बडिय् आऩ  
+निरतिशय-पूर्तियैप् पॆऱ्ऱु, 
+</details>
+
+<details><summary>English</summary>
+
+and **attains** a supreme perfection  
+which **would make it** difficult  
+for it to be **distinguished** from the eternal sūris  
+when it **enters** their assembly. 
+</details>
+
+<details><summary>Español</summary>
+
+y **alcanza** una perfección suprema  
+lo cual **lo haría** difícil  
+para que **se distinga** de los eternos sūris  
+cuando **entra** en su asamblea.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यसूरिकळ् तिरळिऱ् पुक्काल् वासि तॆरियादबडियाऩ निरतिशयपूर्तियैप् पॆऱ्ऱु, 
+</details>
+
+#### भगवद्-दर्शनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ततो महति पर्यङ्के  
+मणि-काञ्चन-चित्रिते ।  
+**ददर्श** कृष्णम् **आसीनं**  
+नीलं मेराव् इवाम्बुदम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘ततो महति पर्यङ्के  
+मणि-काञ्चन-चित्रिते ।  
+**ददर्श** कृष्णम् **आसीनं**  
+नीलं मेराव् इवाम्बुदम् ॥ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ततो महति पर्यङ्के मणिकाञ्चनचित्रिते । ददर्श कृष्णमासीनं नीलं मेराविवाम्बुदम् ॥ 
+</details>
+
+
+
+The self will then **reach** under the two feet of the Supreme Ruler and His consort  
+who **are resting** on a couch in Paramapada,  
+the like of which **has been described** in the Mahābhārata and the Rāmāyaṇa  
+in connection with the avatars as their manner of **being seated**:  
+
+Then he **saw** Śrī Kṛṣṇa **seated** on a throne  
+**made** of gold and **adorned** with gems  
+and looking like a blue cloud resting on Mount Meru. His form was radiant and adorned with ornaments of unsurpassed brilliance; he was dressed in a raiment of gold and shone like a blue gem set in gold; on his chest shone the gem kaustubha and He was like a mountain lighted up by the sun and had a crown on His head. Such was His appearance that, in all the three worlds, there could be found no one to be set in comparison with him?" and “Sumantra, the charioteer, saw Śrī Rāma seated like Kubera on a throne made of gold and having a beautiful coverlet. His body was covered with the paste of sandal red like the blood of the boar, pure, fragrant and of superior quality. Sītā was standing by him with a cāmara in her hand, like the star Citra near the moon, His splendour is like that of the sun. Sumantra, who knew the etiquette (suited to courts), bowed with respect to the invincible Śrī Rāma who ever gave what was asked of him." (Having reached the feet of the Supreme Being, the self will receive the privilege of rendering all kinds of service suited to all places, all times and all circumstances and be forever blissful as prayed for in the verse :- “We should render, so constantly and without intermission, service to the Lord - such service as will be most appropriate to all times, to all places and to all occasions".
 
 Thus (both) in the state of endeavour (upāya) and in the state of attainment, the holy feet of Nārāyaṇa, the Lord of Śrī, are our support.
 
