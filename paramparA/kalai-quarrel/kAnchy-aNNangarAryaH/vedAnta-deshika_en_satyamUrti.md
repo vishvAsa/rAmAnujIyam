@@ -2,7 +2,7 @@
 title = "VedAnta-deshika en satyamUrti"
 +++
 
-# A CRITICAL APPRECIATION OF SRI VEDANTA DESIKA VIS-A-VIS THE SRI VAISHNAVITE WORLD.
+A CRITICAL APPRECIATION OF SRI VEDANTA DESIKA VIS-A-VIS THE SRI VAISHNAVITE WORLD.
 
 By
 Sri. S. SATYAMURTHI IYENGAR, B. A.,
@@ -114,7 +114,7 @@ Sri Nigamanta Mahaguru (Desika) was the direct disciple of Kidambi Appullar, als
 [^16_1]: (This Sanskrit phrase is likely a citation or quote from a text).
 [^16_2]: (Another Sanskrit phrase likely a citation or quote).
 
-substituted by "Namo Ramanujaryaya..... of upocryphal origin, only to compete with the Tenkalai salutation of Thiruvoimozhi Pillai, by his disciple, Sri Manavala Mahamuni, which runs as "Namas Srisailanathaya Kunteenagara-janmane, prasada-labdha-parama prapya-kainkarya-saline". It is claimed by the present-day Desika-bhaktas that there are two distinct 'Thanians' for Sri Desika, viz: 'Sriman Venkatanatharyah Kavitharkika-kesari, Vedantacharya varyo me sannidhatham sada hhridi' (ஸ்ரீமான் வேங்கடநாதார்ய: கவிதார்க்கிக கேஸரீ, வேதாந்தாசார்யவர்யோ மே ஸந்நிதத்தாம் ஸதா ஹ்ருதி,) and 'Ramanuja-daya-patram gnana-vairagya-bhushanam.........'[ ^17_1] (ராமாநுஜதயாபாத்ரம் ஜ்ஞாநவைராக்ய பூஷணம்) the latter being distinctly known as 'Patra-Thanian', that is to say, the hymn with which the 'Divya-Prabandham' recitation is to be commenced by these votaries. To give the latter a flavour of antiquity and a semblance of authenticity, the innovators have brought out a Sloka denoting the point of time at which the latter 'Thanian' was born, although there is no such Sloka indicating precisely the time when the earlier 'Thanian' came into being. In the Connemara Library, Madras and Government Oriental Manuscripts libraries, Sri Desika's works preserved in Kadjan leaves (long before the age of printing) bear only one 'Thanian', namely, the time-honoured and universally accepted "Sreeman Venkatanatharyah"[^17_2] Thanian. Even the commentaries on Desika's works printed and published quite some years ago by some Vadakalai gentlemen, who have no part or lot in temple disputes and litigations, carry only this 'Tanian' and not the other. It is only in later editions, the court-birds have smuggled in the contentious 'Ramanuja-daya pathram.....", on account of which, there have been
+substituted by "Namo Ramanujaryaya..... of upocryphal origin, only to compete with the Tenkalai salutation of Thiruvoimozhi Pillai, by his disciple, Sri Manavala Mahamuni, which runs as "Namas Srisailanathaya Kunteenagara-janmane, prasada-labdha-parama prapya-kainkarya-saline". It is claimed by the present-day Desika-bhaktas that there are two distinct 'Thanians' for Sri Desika, viz: 'Sriman Venkatanatharyah Kavitharkika-kesari, Vedantacharya varyo me sannidhatham sada hhridi' (ஸ்ரீமான் வேங்கடநாதார்ய: கவிதார்க்கிக கேஸரீ, வேதாந்தாசார்யவர்யோ மே ஸந்நிதத்தாம் ஸதா ஹ்ருதி,) and 'Ramanuja-daya-patram gnana-vairagya-bhushanam.........'[ ^17_1] (ராமாநுஜதயாபாத்ரம் ஜ்ஞாநவைராக்ய பூஷணம்) the latter being distinctly known as 'Patra-Thanian', that is to say, the hymn with which the 'Divya-Prabandham' recitation is to be commenced by these votaries. To give the latter a flavour of antiquity and a semblance of authenticity, the innovators have brought out a Sloka denoting the point of time at which the latter 'Thanian' was born, although there is no such Sloka indicating precisely the time when the earlier 'Thanian' came into being. In the Connemara Library, Madras and Government Oriental Manuscripts libraries, Sri Desika's works preserved in Kadjan leaves (long before the age of printing) bear only one 'Thanian', namely, the time-honoured and universally accepted "Sreeman Venkatanatharyah"[^17_2] Thanian.+++(5)+++ Even the commentaries on Desika's works printed and published quite some years ago by some Vadakalai gentlemen, who have no part or lot in temple disputes and litigations, carry only this 'Tanian' and not the other. It is only in later editions, the court-birds have smuggled in the contentious 'Ramanuja-daya pathram.....", on account of which, there have been
 
 (1) serious disputes in certain pilgrim centres;
 (2) convictions, by law courts, of persons who attempted and or intended to utter it in certain temples;
@@ -139,8 +139,7 @@ In the laudatory hymn (Vazhi thirunamam) in adoration of Sri Ramanuja's greatnes
 
 set right (channelised) the entire wealth of Lord Ranganatha enshrined in Thennarangam (Srirangam)" (தென்னரங்கர் செல்வம் முற்றும் திருத்திவைத்தான்"). There is, however, a hostile propaganda afloat, trying to make out that the only reform effected by Sri Ramanuja was to change the caste-mark from 'Vadakalai' into 'Thenkalai' in the Srirangam temple and the residents of that place, that efforts are now being made by the persons in the opposite Camp to restore the temples, weaned away in this manner, to their former status and that their attempts have borne fruit, in a few cases! These very persons have thus sought to give free vent to their unmasked aversion to Sri Ramanuja and the glorious 'Ramanuja-Darsana', as such. It is this deep-seated antipathy of theirs for Sri Ramanuja that has driven them to the inexorable length of thinking in terms of a separate 'Desika Darsana' and setting up institutions for its propagation. Was it such an arch-enemy of these Desika-bhaktas that Sri Desika loved and adored even more than God Himself? Has not Sri Desika attributed God's greatness to His being worshipped by Sri Ramanuja? As regards the vast array of the Sri Vaishnava Acharyas, Sri Desika maintains that the glory and greatness of the Acharyas who preceded Sri Ramanuja were due to their connection with his head, while the Acharyas who succeeded him acquired a similar distinction through their link with his feet. In his 'Yatiraja Sapatati', Sri Desika had acknowledged that his own intellectual attainments and spiritual greatness were the outcome of his glorious connection with Sri Ramanuja and incessant praise of his auspicious qualities. Again in his 'Nyasa-Tilaka', Sri Desika expressed his grateful thanks to the Supreme Lord for having made him the disciple of no less than the great-grand-son of Kidambi Achchan, a very intimate disciple of Sri Ramanuja. That Sri Desika was perfectly sanguine of his salvation through his contact with Sri Ramanuja, however remote, has already been brought out in Section I. The crusade against Sri Ramanuja launched upon by a section, as above, therefore, cuts the crusaders adrift from Sri Desika himself and hence it is nothing but rank fanaticism, as defined in the concluding part of Section I. It is indeed difficult to predict where exactly it would land them and how far they would go. How else can we understand a recent outburst, indulged in by a Vadakalai Pandit during his discourse on 'Thiruppavai' at Bombay? He is reported to have thundered, as it were, before a bewildered audience about the atrocious transformation of the idol of Sri Desika into that of Sri Ramanuja, in the temple of Lord Venkateswara at the Tirumalai Hills, by investing it with 'Tridanda' and the Saffron robe. The said pandit is stated to have significantly added that the idol in question differs substantially from that of Sri Ramanuja, enshrined in other places with the palms joined in a worshipping posture, and is seen with the right palm in a preceptor's pose and the left holding the sacral text (Kadjan leaves) but hidden within the folds of [[P20]] the Saffron robe. As if to add insult to injury, he is stated to have invited every one of his listeners to take a trip to the Tirumalai Hills and verify the truth of his statements and even go to the length of offering to bear the to and fro expenses, by plane, of any two persons, who would fulfil this mission. A daring canard and an awful blasphemy! To call it a mere white lie will be a terrible understatement. The myth is exploded in Section III, below, along with several others. [[P21]]
 
-## (Section III)
-### MYTH EXPLODED
+##  MYTH EXPLODED
 
 The sky is indeed the limit for malignant distortions, such as the one, referred to in the concluding part of Section II, above. Or, shall we call it the height of hallucination or the bottom-most depth of depravity? Alas! the so-called Desika-bhaktas have not even taken pains to study and assimilate the works of Sri Desika. In fact, none of them could ever come anywhere near Ubhaya Vedanta [[(Maha Midwan, P. B. Annangaracharya, Swami of Sri Kanchi, in this regard|Maha Vidwan P. B. Annangaracharya Swami of Sri Kanchi]]. The reader shall not mistake this statement as mere hero-worshipper or a partisan attitude, if only he cares to go through the numerous publications of Sri P. B. A. Swami on Vedanta Desika and his works. He will then see for himself how the Swami has, as it were, taken a deep plunge into them and revelled to an extent unknown to any other scholar, with the result that he (Swami) could make his own solid contribution to the correction of mis-readings in the texts, here and there, which had crept in down the years and bring out the beauty of the works, which could scarcely be noticed by even the most eminent among those in the other Camp. Granting that the busy reader can hardly find the time for such intensive study, it would suffice if he went through at least pages 50-54 of "Excerpts from Sri P. B. A. Swami's autobiography", a publication of the Grantha Mala Office of Kanchee-puram. And now getting back to the Pandit, who harangued in Bombay to his heart's fill, he is hardly worth his salt, not being conversant with the Sloka in Sri Desika's 'Yatiraja Saptati':
 
@@ -165,7 +164,7 @@ Lies are prolific breeders and a single lie weaves a tissue of lies around, in n
 
 It would, however, be profitable to summarise, at this stage the position in this regard. It was only at the kind invitation of the Sri Vaishnava Acharyas of Srirangam that Sri Desika went to Srirangam and settled down there. That he had very good relations with them during his long stay in Srirangam could be seen from the manner in which he pined for his return to their midst during the troublesome days of Muslim invasion, when he was away. In his 'Abhithistava', he refers to them as mutual well-wishers and, in the last verse of his 'Bhagavaddhyana Sopanam', he has paid a glowing tribute to the erudite scholars and art-lovers of Srirangam, who had imparted clarity to his thoughts and enabled him to develop a facile and pleasing style. As regards the clarity of thought, gratefully acknowledged by him as above, attention of the reader is invited to Sri Ramanujan 217. Sri Desika had the requisite humility and intellectual honesty in abundance and always kept himself open to correction – corrections which he incorporated in his writings, from time to time, in one form or the other. And now, a word about the non-existent 'Nigama-Parimalam'. Even assuming that Sri Vedanta Desika had brought out this glowing commentary, which, unfortunately, could not benefit posterity, it would not be correct to say that it was compiled by him out of his dislike for, or disgust of the other commentaries, 'Bhagavad-Vishayam', etc., which were accessible to him then. The truth of this will be clear not only from Sri Ramanujan 217, but also from the fact that Sri Desika's commentary on Thiruppanazhvar's 'Amalanadipiran', known as "Munivahana-bhogam", does not contain a word of condemnation, disrespect or disapproval of the other commentaries of the 'Poorvacharyas', already extant. Fortunately, all these commentaries are available to us for our edification and enjoyment. [[P24]]
 
-## KALI'S REVENGE
+## 3 KALI'S REVENGE
 
 And now, look at the tirade indulged, in by one Mr. E. T. Srinivasan, through the hospitable pages of "Sriranganatha Paduka", a monthly religious journal, blessed and patronised by H. H. Srimad Andavan Swami, under the caption "Kavitharkika-Simham, the conqueror of Kali"[^24_1] (கவிதார்க்கிகசிம்ஹம் கலியுகசிம்மம்). As every one knows, Kali Yuga, the last of the cycle of four Yugas beginning with 'Krita, is characterised by rank materialism, abysmal ignorance and sin. But the advent of Sri Ramanuja dealt a mortal blow to these dark trends of 'Kali', which could no longer spread its tentacles and cast its evil spell. There was a return, as it were, to the golden era of Krita yuga, with the emergence of Ramanuja Divakara, the brilliant sun-rise of Sri Vaishnavism. This naturally provoked the unbounded wrath of Kali-Purusha, whose discomfiture over the collapse of his short-lived sway [[P25]]
 [^24_1]: (Likely a Tamil citation/quote).
@@ -185,7 +184,7 @@ The imaginary dialogue, as above, can hardly be appreciated as a nice piece of f
 
 The imaginary dialogue, as above, can hardly be appreciated as a nice piece of fiction or the flight of sweet and innocent fancy. It is, in fact, a part of the cantankerous campaign of vilification of the 'Poorvacharyas' freely resorted to by those in the other Camp. All the Acharyas, in between Sri Ramanuja and Sri Vedanta Desika, have been covertly put down as the evil forces of Kali, while Vedanta Desika has been depicted as the redeemer of Visishtadvaita' and restorer of its pristine purity. A grotesque misrepresentation, of course not in good taste, and surely offending against all sense of decency and decorum. However, when the reader goes through the rest of this treatise, he can perceive that the boot is actually on the other leg, in so far as all the distortions are from that end. It is hoped that he will also have a clear-cut idea of Sri Desika's own views on all these topics.
 
-## I. LORD AS DOSHA-BHOGYA' OR LOVER OF SINS
+### I. LORD AS DOSHA-BHOGYA' OR LOVER OF SINS
 
 That the Lord is a "Dosha-bhogya" has been pin-pointed by the Sastras. But none of the Acharyas has ever said or advocated that, on this account, everybody should commit only sins, looking upon them as the grist to the Divine mill. No preceptor worth the name would advocate lassitude and licentiousness and be hypocritical enough to instil in his disciples a sense of false security. To use a familiar expression, though not in a spirit of rivalry, let the lion be bearded in its own den. The position in this regard shall now be clarified and the correct perspective furnished through the works of Sri Desika's Acharyas and Sri Desika himself. [[P27]]
 
@@ -205,7 +204,7 @@ structure with its flesh and bones, nerve and muscles, guts and glands. In his '
 [^30_1]: (Likely a Sanskrit citation/quote).
 [^30_2]: (Likely a Sanskrit citation/quote).
 
-## II. RELEGATION OF SRI MAHA LAKSHMI TO THE POSITION OF AN ORDINARY JEEVA
+### II. RELEGATION OF SRI MAHA LAKSHMI TO THE POSITION OF AN ORDINARY JEEVA
 
 Mr. E. T. Srinivasan and his team mates, at all levels, go about saying that Sri Desika came into this world to counter the heresy indulged in, by the earlier Acharyas, relegating Sri Maha Lakshmi, the Divine Consort, to the level of an ordinary jeeva, thereby denying her exclusive importance and greatness, her immanence, her prowess as the independent granter of Moksha and her capacity to create the universe and ordain its functioning. It was only Sri Desika, who could dispel all such heretical notions, already spread out in this regard, and establish the real greatness of Sri Maha Lakshmi and restore her to her legitimate status. But then, let us examine what exactly were Sri Desika's views on the subject.
 
@@ -229,7 +228,7 @@ In his 'Lakshmi-Sahasram', Arasanipalai Venkatadhvari says that Lakshmi possesse
 Speaking about the prowess and glory of the Mithunam – the Divine Couple, one can't but recall what Maricha had told Ravana long, long back, by way of dissuading the latter to give up his sinister designs and to thereby avoid a confrontation with the combined might of Rama and Janaki, wielding infinitely larger power, in comparison with that exhibited by Rama singly in Maricha's earlier encounter-"Apramayam hi thath thejah yasya saa Janakaatmajaa"[^32_2] (அப்ரமேயம் ஹி தத்தேஜோ யஸ்ய ஸா ஜநகாத்மஜா) a theme which came to be popularised later through a systematic handling by the great Acharyake Alavandar, Koorathazhvan, Bhattar, Nanjoeyar, Nambillai, [[P32]]
 [^32_2]: (Likely a Sanskrit citation/quote).
 
-## V. ATTITUDE TOWARDS RITES AND RITUALS
+### V. ATTITUDE TOWARDS RITES AND RITUALS
 
 "Kriyamaanam na kasmaichith yadarthaaya prakalpathe, akriyaavada-narthaaya thath thu karma samaachareth"[^33_1] (க்ரியமாணம் ந கஸ்மைசித் யதர்த்தாய ப்ரகல்பதே. அக்ரியாவதநர்த்தாய தத்து கர்ம ஸமாசரேத்.) is an authoritative text, invoked by Sri Desika also. The attitude of the Poorvacharyas towards the performance of rites and rituals has also followed this text only, which ordains that only such of those rites and rituals need be put through, that will not make one bound down by their fruits (results) or the non-performance of which will have deleterious effects. Their observances in this regard have, therefore, closely followed this basic principle and it can be inferred that whatever was not observed by them, such as dropping the oblations (tharpanas) on all but four 'Sankramanas', (the days on which the sun transits from one house in the zodiac to the next) etc., conformed to this guiding factor. Of the fivefold form or manifestation of God (viz) Para, Vyuha, Vibhava, Antharyami and Arcchavatara, Para is the transcendental form of God; Vyuha, His operative form the galaxy of Vasudeva, Sankarshana, Pradyumna and Aniruddha, the seat of activity shifting from the High Heavens (Sri Vaikuntha) to the milky ocean; Vibhava is the incarnate form such as Sri Rama and Sri Krishna; Antaryami is the pervasive form of the Deity dwelling in the heart of every living being and realised by the Yogins through meditation; Arcchavatara is the image form in the temples and houses of worshippers, [[P33]]
 [^33_1]: (Likely a Sanskrit citation/quote).
@@ -244,8 +243,7 @@ It should now be abundantly clear that E. T. S. and others of his mental persuas
 [^35_1]: (Likely a Sanskrit citation/quote).
 [^35_2]: (Likely a Tamil citation/quote).
 
-## (Section IV)
-### (TRUTH SHALL ENDURE)
+## 4 TRUTH SHALL ENDURE
 
 The solid truth: The Lord, in His unbounded mercy, revealed Himself fully to Saint Nammazhvar. Saturated with the Lord's grace, Nammazhvar showered all that grace on Sriman Nathamuni, who, in turn, passed it on to his grand-son Yamunacharya (Alavandar) through Manakkal Nambi and thence it flowed into the expansive lake of knowledge of Sri Ramanuja through such mighty feeder channels as Sri Periya Nambi, Thirumalai Nambi, Thiruk-kottiyur Nambi and Thirumaalai Andan. "Nathopagnam pravrittham bahubhirupachitham Yamuneya-prabandhais thraatham samyag Yatheendrai-ridamakhilathamah-karsanam darsanam nah"[^35_3] (நாதோபஜ்ஞம் ப்ரவ்ருத்தம் பஹு பிருபசிதம் யாமுநேயப்ரபந்தை: த்ராதம் ஸம்யக் யதீந்த்ரை: [[இதமகில|இதமகில]] தம:கர்சனம் தர்சனம் ந:). From that huge lake, the water passed through two streams, namely (1) Embar, Azhvan, Bhattar, Nanjeeyar, Nambillai etc. and (2) Thirukkurugai-ppiran Pillan, Kidambi Aacchan, Yengalazhvan, Nadathoor Ammal etc., to irrigate this good Earth for the uplift of the surging humanity. These Acharyas spoke the same language and it would be futile to look for any difference of views among them. The only variation, if at all, could be in the [[P35]]
 [^35_3]: (Likely a Sanskrit citation/quote).
@@ -263,7 +261,7 @@ scholars. It is neither necessary nor worthwhile to dilate on the genesis of the
 
 Before concluding this treatise, it seems necessary to focus the attention of the reader on a few more topics, which, apart from the basic underlying truths, as revealed by Sri Desika himself, have assumed special importance in the light of the controversy raging round them, particularly during the last 150 to 200 years. [[P38]]
 
-## I. IS GOD'S GRACE FREE (NIRHETHUKA), OR CONDITIONAL (SAHETHUKA)?
+### I. IS GOD'S GRACE FREE (NIRHETHUKA), OR CONDITIONAL (SAHETHUKA)?
 
 While it is admitted on all hands that God's Grace is our sole means of salvation, the point for enquiry is whether it operates, unasked and unaided, or any endeavour is needed on our part to invoke and secure it. That no special conditions support God's Grace and all that is required is non-resistance or non-rejection, when Grace is forthcoming, have been lucidly established by all the Acharyas including Sri Desika, who, as a matter of fact, is right in the vanguard in this respect. In his 'Paramapada-sopanam' Sri Desika stated "அஜ்ஞாதயாத்ருச்சிக ஆநுஷங்கிக ப்ராஸங்கிக ஸாமாந்யபுத்திமூலஸுக்ருத விசேஷங்களை வியாஜமாகக்கொண்டு விசேஷகடாக்ஷம் பண்ணி"[^38_1] and later on, he categorically emphasised the 'avyaaja-kripa' (அவ்யாஜகிருபா) unconditional Grace of the Lord in 'Dramidopanishad-Tatparya-Ratnavali'. The sloka in question beginning with 'Aadaavittham parathwa'[ ^38_2] (ஆதாவஸ்த்தம் பரத்வ) refers to 'avyaajodaara bhaavaath'[ ^38_3] (அவ்யாஜோதார பாவாத்) and is based upon the commentaries on the first centum of 'Thiruvoimozhi', other than the 6000 granthas (ஆயிரப்படி) of Pillan. Sri Parasara Bhattar's observation that this particular Thiruvoimozhi spotlights the Lord's nirhethuka kripa (free or unconditional Grace) has been incorporated in these commentaries and Sri Desika's reference to 'avyajodara.bhaavaath' is. but the outcome of his study of the said commentaries of Thiruvoimozhi. This incidentally gives the lie direct to the allegation that [[P38]]
 [^38_1]: (Likely a Tamil citation/quote).
@@ -275,7 +273,7 @@ Sri Desika wrote out his own commentary known as 'Nigama Parimalam' out of his d
 
 In the face of all these, the argument, that the Lord's Grace will not be forth-coming without sufficient grounds or motivation, just skittles down. [[P39]]
 
-## WITH WHOM DOES THE INITIATIVE REST FOR THE SALVATION OF THE INDIVIDUAL (JEEVA) – GOD OR MAN?
+### WITH WHOM DOES THE INITIATIVE REST FOR THE SALVATION OF THE INDIVIDUAL (JEEVA) – GOD OR MAN?
 (Paragatha-sweekara versus Swagatha-sweekara and allied themes)
 
 God's Grace is no doubt free and unconditional, and yet it alights on man, only when he exhibits a distinct predilection for God. That is because man has free-will, whose perversity resists the free operation of God's Grace. By merely courting God, one does not secure His Grace. It is His will that prevails. Self-surrender or submission to His protection does not, therefore, constitute by itself the means to secure Him. The Sruthi in Kathopanishad "Naayamaatmaa pravachanena labhyo na medhayaa na bahunaa sruthena, yamevaisha vrunuthe thena labhyas thasyaisha aatmaa vivrunuthe thanoom swaam"[^39_2] (நாயமாத்மா ப்ரவசநேநலப்ப்யோ ந மேதயா ந பஹு நா ச்ருதேந; யமேவைஷ வ்ருணுதே தேநலப்ப்யஸ் தஸ்யைஷஆத்மாவிவ்ருணுதேதநூம் ஸ்வாம்) establishes, in no unmistaken terms, the case for 'Paragatha-sweekara (i.e.) God wooing His devotee and taking him within His grip, like unto the familiar illustration of the cat gripping its kitten by the teeth-marjara-kisora nyaya. The meaning of this upanishadic text is: The Paramatma is not attainable by the Aatma (individual soul) through mere meditation, recitation and deep learning; on the other hand, He reveals Him-self, in all His splendour, to the subject of His choice. How He excercises the choice in question is, however, not a matter for conjecture, as there is His own pronouncement: 'Gnanee thu aatmaiva may matham', [[P39]]
@@ -325,7 +323,7 @@ Rahasya thraya Sara-"Nidaanam chathraapi swayamakhila-nirmaana nipunah". (நி
 [^41_2]: (Likely a Sanskrit citation/quote).
 [^41_3]: (Likely a Sanskrit citation/quote).
 
-## V. ATTITUDE TOWARDS RITES AND RITUALS
+### V. ATTITUDE TOWARDS RITES AND RITUALS
 
 "Kriyamaanam na kasmaichith yadarthaaya prakalpathe, akriyaavada-narthaaya thath thu karma samaachareth"[^41_4] (க்ரியமாணம் ந கஸ்மைசித் யதர்த்தாய ப்ரகல்பதே. அக்ரியாவதநர்த்தாய தத்து கர்ம ஸமாசரேத்.) is an authoritative text, invoked by Sri Desika also. The attitude of the Poorvacharyas towards the performance of rites and rituals has also followed this text only, which ordains that only such of those rites and rituals need be put through, that will not make one bound down by their fruits (results) or the non-performance of which will have deleterious effects. Their observances in this regard have, therefore, closely followed this basic principle and it can be inferred that whatever was not observed by them, such as dropping the oblations (tharpanas) on all but four 'Sankramanas', (the days on which the sun transits from one house in the zodiac to the next) etc., conformed to this guiding factor. Of the fivefold form or manifestation of God (viz) Para, Vyuha, Vibhava, Antharyami and Arcchavatara, Para is the transcendental form of God; Vyuha, His operative form the galaxy of Vasudeva, Sankarshana, Pradyumna and Aniruddha, the seat of activity shifting from the High Heavens (Sri Vaikuntha) to the milky ocean; Vibhava is the incarnate form such as Sri Rama and Sri Krishna; Antaryami is the pervasive form of the Deity dwelling in the heart of every living being and realised by the Yogins through meditation; Arcchavatara is the image form in the temples and houses of worshippers, [[P41]]
 [^41_4]: (Likely a Sanskrit citation/quote).
@@ -351,8 +349,8 @@ method of presentation, but basically their teachings are indivisible. Sri Vedan
 As the proud inheritors of a priceless Treasure, vast and beautiful, we have before us the whole galaxy of the mighty builders of this Treasure beginning from Sriman Nathamuni and ending with Manavala Mahamunigal. We have thus a clear picture of "Who is Who?" and are rightly conscious of the great debt we owe them, singly and collectively. No Vaishnavite worth the name can be disrespectful to any of them and much less indulge in rilery and abuse, trying to tarnish the good name and reputation of one or the other. It also be presumptuous on the part of even the most learned among us to attempt a process of vivisection and apportion the credit and glory among these Acharyas, by indulging in loose and irreverential talk such as: So and so dug the foundation, so and so filled it up; so and so raised it to plinth level, so and so put up the structure, so and so raised additional storeys, so and so conducted marriages there and so on and so forth. Although this sort of study might tickle the intellectual vanity of individuals and afford them immense personal satisfaction, they shall be doing great disservice to the hallowed Bhagavad-Ramanuja Darsana as such, by publicising it. To hold that generations of Sri Vaishnavites are indebted only to Sri Desika, but for whose services the great rivers of Sanskrit and Tamil cultures would be flowing separately, is all of the same piece. The dispassionate reader should note that a clear grasp of the Tamil Vedas (Divya prabandham) by Sri Desika was made possible only by his study of the literature already bequeathed to him and this has been acknowledged by him: "செய்ய தமிழ்மாலைகள் நாம் தெளிய ஓதித் தெளியாத மறை நிலைகள்[[44_1]]". See also Sri Ramanujam 217. The real homage, we can and should pay to Sri Desika, shall be by way of delving deep into his numerous works, revelling in the 'full many a gem of the purest ray serene', lying embedded in them and presenting them to the world at large, for appreciating his literary genius and his enormous learning. In fact, this is how the contemporary Acharyas as well as those belonging to the later periods partook of the rich repast provided by Swami Desika and deified him, as already brought out in the earlier sections. It is not as if Sri Desika has been [[P44]]
 [^44_1]: (Likely a Tamil citation/quote).
 
-## APPENDIX-A.
-### CALENDAR OF PERSONS TRIED BEFORE C. S. CROLE ESQUIRE AG. JOINT MAGISTRATE OF CHINGLEPUT DISTRICT..
+## 1874 Trial
+CALENDAR OF PERSONS TRIED BEFORE C. S. CROLE ESQUIRE AG. JOINT MAGISTRATE OF CHINGLEPUT DISTRICT..
 No. of the Case 72 of 1874
 
 Name and description of the accused:-
@@ -370,10 +368,10 @@ The Court further remarks with extreme reprehension that the defendants or their
 Ag. Joint Magistrate,
 23-10-1874. [[P44]]
 
-## IN THE HIGH COURT OF JUDICATURE AT MADRAS.
+IN THE HIGH COURT OF JUDICATURE AT MADRAS.
 Thursday, the 19th day of April 1883.
 
-### PRESENT:
+PRESENT:
 THE HON'BLE MR. JUSTICE INNES,
 THE HON'BLE MR. JUSTICE MUTHUSAMI IYER, C. I. E.
 
@@ -417,8 +415,8 @@ We remit the case tor the trial of these issues directing a return to be made in
 
 In compliance with the above order the District Judge submitted the following
 
-## FINDING
-### 1ST ISSUE
+### FINDING
+#### 1ST ISSUE
 
 6. "3rd-The Patram is the same in both. This obviously proves nothing. The same Patram is recited in all the 18 temples of Vishnu in Conjeevaram. The Patram question was decided on the suit of 1811 in favour of the Thengalais not because theirs was the Patram of the adjacent Dipaprakasaswami; but because theirs was the Patram prevailing in all the other Vishnu Pagodas in Conjeevaram. "....... [[P46]]
 
@@ -430,7 +428,7 @@ independence of Desikar's temple. But I do not believe there is any founda-tion 
 
 14. "On the strength of the admission of the Tatacharis in 1861 and 1865 and of the evidence afforded by the Tarapadi and Pymash accounts, my finding on the 1st issue is that the temple of Vedanta Desikar is subordinate to the temple of Dipaprakasaswami." [[P47]]
 
-### 2ND ISSUE
+#### 2ND ISSUE
 
 15. "The subordination of Desikar's temple to Dipaprakasaswami's being established there is no great difficulty in arriving at the conclusion that the trustees of the latter must also be the trustees of the former............ It is probable enough that the reason why no evidence is forthcoming as to the trusteeship prior to 1861 is that it was never a question of any practical importance in the days when the Government took upon themselves a general control over the religious institutions of the country." [[P47]]
 
@@ -438,7 +436,7 @@ independence of Desikar's temple. But I do not believe there is any founda-tion 
 
 This second appeal came again for hearing on Thursday the 14th December 1882, on return to the order of the 11th July 1882, and stood over for consideration till this day, when the Court delivered the following final
 
-## JUDGMENT
+#### JUDGMENT
 
 The matter in contest in this second appeal is the trusteeship of Vedantha Desikar's temple at Vilakudi a suburb of Conjeevaram. Vilakudi is reputed to have been the birth place of Vedantha Desikar, and the temple which is dedicated to him adjoins and touches that of Dipaprakasaswami, which is one of the names under which the image of Vishnu is worshipped by all classes of Vaishnavas as that of the supreme Being. The Kakkalars or weavers residing in Vilakudi are sivhites by religion, but they do not appear to have any sectarian prejudice against the worship of Vishnu. [[P47]]
 
