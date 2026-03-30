@@ -946,12 +946,12 @@ porque **estos sufrimientos están** en la misma posición que este disgusto.
 
 <details><summary>English</summary>
 
-Therefore in order to avoid  
-(1) these sufferings  
-and (2) the interruption to the enjoyment of the Lord (Bhagavad anubhava) here and the diminution of it caused by the weakness of the senses, the fading of the intelligence, sorrow and the like and  
-(3) in the case of those whose term of life has not already been unalterably fixed,  
+Therefore in order to **avoid**  
+(1) these **sufferings**  
+and (2) the **interruption** to the **enjoyment** of the Lord (Bhagavad anubhava) here and the **diminution** of it caused by the weakness of the senses, the fading of the intelligence, sorrow and the like and  
+(3) in the case of those whose term of life has not already **been** unalterably fixed,  
 delay in the ultimate gain, viz., mokṣa by the extension of the age limit -  
-in order that this may not happen,  
+in order that this **may not happen**,  
 prapatti has to be performed again. 
 </details>
 
@@ -1030,7 +1030,7 @@ El Señor **perdonará** (incluso) el **hecho** de las cosas **prohibidas**.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> बुद्धि-पूर्वोत्तराघत्तुक्कु मेऱ्कवे प्रपत्ति-पण्णव् ऒण्णाद् 
+> बुद्धि-पूर्वोत्तराघत्तुक्कु मेऱ्कवे +++(=पूर्वम् एव)+++ प्रपत्ति-पण्णव् ऒण्णाद् 
 
 ऎऩ्ऩुम् इडमुम्  
 
@@ -1637,14 +1637,14 @@ Esta afirmación también **surge** de una ignorancia de las opiniones reales en
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महा-राजर्क्कुम् उळ्-बड  
++++(सुग्रीव-)+++महा-राजर्क्कुम् उळ्-बड  
 समयातिलङ्घन-मात्रम् आऩ अपराधम्  
 पॆरु-माळ् तिरुव्-उळ्ळत्तिले शोकाभिभवत्ताले प्रतिभासित्तु, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-महाराजस्यापि समयातिलङ्घन-मात्र-रूपेऽपराधे  
++++(सुग्रीव-)+++महाराजस्यापि समयातिलङ्घन-मात्र-रूपेऽपराधे  
 भगवतोऽन्तःकरणे शोकाभिभवात् प्रति-भासिते,
 </details>
 
@@ -1675,10 +1675,10 @@ La ofensa **causó** la **apariencia** de gran dolor en la mente de Śrī Rāma
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘न च सङ्कुचितः पन्था  
-येन वाली हतो गतः ।  
-समये तिष्ठ सुग्रीव  
-मा वालि-पथम् अन्वगाः । ’’  
+> ‘‘**न** च **सङ्कुचितः** पन्था  
+येन वाली **हतो गतः** ।  
+समये **तिष्ठ** सुग्रीव  
+**मा** वालि-पथम् **अन्वगाः** । ’’  
 (रामायणम् किष्किन्दाकाण्डम् ३०-८१) 
 
 ऎऩ्ऱ् अरुळिच् चॆय्यक् केट्टु,
@@ -1686,10 +1686,10 @@ La ofensa **causó** la **apariencia** de gran dolor en la mente de Śrī Rāma
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘न च सङ्कुचितः पन्था  
-येन वाली हतो गतः ।  
-समये तिष्ठ सुग्रीव  
-मा वालि-पथम् अन्वगाः । ’’  
+> ‘‘**न** च **सङ्कुचितः** पन्था  
+येन वाली **हतो गतः** ।  
+समये **तिष्ठ** सुग्रीव  
+**मा** वालि-पथम् **अन्वगाः** । ’’  
 (रामायणम् किष्किन्दाकाण्डम् ३०-८१) 
 
 इति वचः श्रुत्वा 
@@ -1817,6 +1817,13 @@ excepto **rogando** el perdón de Lakṣmaṇa con manos dobladas ".
 <details><summary>नीलमेघः (सं)</summary>
 
 इत्य् ऐन्द्र-व्याकरण-पण्डितो महाराजम् उपदिदेश किल । 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+नव-व्याकरण-पण्डित इत्यप्य् उच्यते।  
+तानि बहुदा श्रुतानीति रामायणे।  
+गोविन्दराजस् तु पाणिनीयव्याकरणज्ञानम् अप्य् ऊहति ततः। 
 </details>
 
 
