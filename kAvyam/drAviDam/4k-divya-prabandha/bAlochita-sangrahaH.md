@@ -4,13 +4,16 @@ title = "बालोचित-सङ्ग्रहः"
 
 <details><summary>Criteria</summary>
 
+Want to make boys memorize some 50 draviDa-gAtha-s by adding them to brahma-yajna (where they revise 1 sAman per day).
+
+- Should have high emotional value
 - Should be suitable for males with testosterone. 
 - Need not be sequential, or popular.
-
+- So should be good for uttara-kRtya, sAttvika-parigraha, tad-itara-parityAga etc.. On the other hand, AtmayAtrA will be via kAlaxepa-s culminating in sAnga prapatti, ofc.
 </details>
 
 
-## aa
+## भगवद्-गुणानुभवानन्दः
 उयर्व्+++(=औन्नत्य)+++-अऱव्+++(=इल्लाद)+++ उयर्-नलम्+++(=गुणम्|आनन्द)+++ उडैयवऩ् यवऩ् अवऩ्,  
 मयर्व्+++(=भ्रान्ति)+++-अऱ+++(=इल्लाद)+++ मति-नलम्+++(=गुणम्|आनन्द)+++ अरुळिऩऩ् यवऩ् अवऩ्,  
 अयर्व्+++(=आयास)+++-अऱुम् अमरर्गळ् अधिपति यवऩ् अवऩ्,  
