@@ -2189,22 +2189,348 @@ cuando **entra** en su asamblea.
 नीलं मेराव् इवाम्बुदम् ॥ 
 </details>
 
+<details><summary>English</summary>
+
+> Then he **saw** Śrī Kṛṣṇa **seated** on a throne  
+**made** of gold and **adorned** with gems  
+and **looking like** a blue cloud **resting** on Mount Meru.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Entonces **vio** a Śrī Kṛṣṇa **sentado** en un trono  
+**hecho** de oro y **adornado** con gemas  
+y **pareciendo** una nube azul **descansando** en el Monte Meru.
+</details>
 
 <details><summary>मूलम्</summary>
 
 ‘‘ततो महति पर्यङ्के मणिकाञ्चनचित्रिते । ददर्श कृष्णमासीनं नीलं मेराविवाम्बुदम् ॥ 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> **जाज्वल्यमानं** वपुषा  
+दिव्याभरण-**भूषितम्** ।  
+पीत-कौशेय-**संवीतं**  
+**हेम्नीवोपचितं** मणिम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **जाज्वल्यमानं** वपुषा  
+दिव्याभरण-**भूषितम्** ।  
+पीत-कौशेय-**संवीतं**  
+**हेम्नीवोपचितं** मणिम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> His form **was radiant**  
+and **adorned** with ornaments of unsurpassed brilliance;  
+he **was dressed** in a raiment of gold  
+and **shone** like a blue gem set in gold;  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Su forma **era radiante**  
+y **adornado** con ornamentos de insuperable brillo;  
+él **estaba vestido** con un vestido de oro  
+y **brilló** como una gema azul **engastada** en oro;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जाज्वल्यमानं वपुषा दिव्याभरणभूषितम् । पीतकौशेयसंवीतं हेम्नीवोपचितं मणिम् ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कौस्तुभेन ह्य् उरस्स्थेन  
+मणिना **ऽभिविराजितम्** ।  
+उद्यतेवोदयं शैलं  
+सूर्येणाप्तं, किरीटिनम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> कौस्तुभेन ह्य् उरस्स्थेन  
+मणिना **ऽभिविराजितम्** ।  
+उद्यतेवोदयं शैलं  
+सूर्येणाप्तं, किरीटिनम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> on his chest **shone** the gem kaustubha  
+and He **was** like a mountain **lighted up** by the sun  
+and **had** a crown on His head.  
+</details>
+
+<details><summary>Español</summary>
+
+> en su pecho **brillaba** la gema kaustubha  
+y Él **era** como una montaña **iluminada** por el sol  
+y **tenía** una corona en Su cabeza.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कौस्तुभेन ह्युरस्स्थेन मणिनाभिविराजितम् । उद्यतेवोदयं शैलं सूर्येणाप्तं किरीटिनम् ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **नौपम्यं विद्यते** तस्य  
+त्रिषु लोकेषु किञ्चन’’  
+(भारतम् शान्ति-पर्व ४४-१३ मुदल् १६),
+</details>
+
+<details><summary>English</summary>
+
+> Such **was** His **appearance** that,  
+in all the three worlds, there **could be found** no one  
+to **be set** in comparison with him." 
+</details>
+
+<details><summary>Español</summary>
+
+> Tal **era** Su **apariencia** que,  
+En los tres mundos, **no se pudo encontrar** a nadie  
+**ser puesto** en **comparación** con él."
+</details>
+
+<details><summary>मूलम्</summary>
+
+नौपम्यं विद्यते तस्य त्रिषु लोकेषु किञ्चन’’(भारतम् शान्ति-पर्व ४४-१३ मुदल् १६),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तं वैश्रवण-सङ्काशम्  
+उपविष्टं स्व्-अलङ्कृतम् ।  
+**ददर्श** सूतः पर्यङ्के  
+सौवर्णे सोत्तरच्छदे ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तं वैश्रवण-सङ्काशम्  
+उपविष्टं स्व्-अलङ्कृतम् ।  
+**ददर्श** सूतः पर्यङ्के  
+सौवर्णे सोत्तरच्छदे ॥ 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तं वैश्रवणसङ्काशमुपविष्टं स्वलङ्कृतम् । ददर्श सूतः पर्यङ्के सौवर्णे सोत्तरच्छदे ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वराह-रुधिराभेण  
+शुचिना च सुगन्धिना ।  
+**अनुलिप्तं** परार्ध्येन  
+चन्दनेन परन्तपम् ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> वराह-रुधिराभेण  
+शुचिना च सुगन्धिना ।  
+**अनुलिप्तं** परार्ध्येन  
+चन्दनेन परन्तपम् ॥
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “Sumantra, the charioteer, **saw** Śrī Rāma seated like Kubera on a throne made of gold  
+and **having** a beautiful coverlet.  
+His body **was covered** with the paste of sandal red like the blood of the boar,  
+pure, fragrant and of superior quality. 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> “Sumantra, el auriga, **vio** a Śrī Rāma **sentado** como Kubera en un trono hecho de oro  
+y **tener** una hermosa colcha.  
+Su cuerpo **estaba cubierto** con la pasta de sándalo rojo como la sangre del jabalí,  
+puro, fragante y de calidad superior.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वराहरुधिराभेण शुचिना च सुगन्धिना । अनुलिप्तं परार्ध्येन चन्दनेन परन्तपम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **स्थितया** पार्श्वतश् चापि  
+वाल-व्यजन-हस्तया ।  
+**उपेतं** सीतया भूयश्  
+चित्रया शशिनं यथा ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **स्थितया** पार्श्वतश् चापि  
+वाल-व्यजन-हस्तया ।  
+**उपेतं** सीतया भूयश्  
+चित्रया शशिनं यथा ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> Sītā **was standing** by him with a cāmara in her hand,  
+like the star Citra near the moon,  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Sītā **estaba parada** junto a él con una cámara en la mano,  
+como la estrella Citra cerca de la luna,
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्थितया पार्श्वतश्चापि वालव्यजनहस्तया । उपेतं सीतया भूयश्चित्रया शशिनं यथा ॥ 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तं तपन्तम् इवादित्यम्  
+**उपपन्नं** स्वतेजसा ।  
+**ववन्दे वर-दं वन्दी**  
+विनय-**ज्ञो** विनीतवत्॥’’  
+(रामायणम् अयोध्या-काण्डम् १६-८ मुदल् ११) 
+
+ऎऩ्ऱु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तं तपन्तम् इवादित्यम्  
+**उपपन्नं** स्वतेजसा ।  
+**ववन्दे वर-दं वन्दी**  
+विनय-**ज्ञो** विनीतवत्॥’’  
+(रामायणम् अयोध्या-काण्डम् १६-८ मुदल् ११) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+> His **splendour is** like that of the sun.  
+Sumantra, who **knew** the etiquette (suited to courts), **bowed** with respect to the **invincible** Śrī Rāma  
+who ever **gave** what **was asked** of him." 
+</details>
+
+<details><summary>Español</summary>
+
+> Su **esplendor es** como el del sol.  
+Sumantra, que **conocía** la etiqueta (adecuada a la corte), **se inclinó** ante el **invencible** Śrī Rāma.  
+quien alguna vez **dio** lo que **se le pidió**."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तं तपन्तमिवादित्यमुपपन्नं स्वतेजसा । ववन्दे वरदं वन्दी विनयज्ञो विनीतवत्’’(रामायणम् अयोध्या-काण्डम् १६-८ मुदल् ११) ऎऩ्ऱु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भारत-रामायणङ्गळिऱ् सॊल्लप् पट्ट अवतारासिकैयाले+++(=आसनैः)+++  
+व्यञ्जितम् आऩ परम-पद पर्यङ्कत्तिलेय्  
+ऎऴुन्द् अरुळिय् इरुक्किऱ  
+स-पत्नीकऩ् आऩ सर्वेश्वरऩ् ताळ्-इणैक्-कीऴ्
+</details>
+
+<details><summary>English</summary>
 
 The self will then **reach** under the two feet of the Supreme Ruler and His consort  
 who **are resting** on a couch in Paramapada,  
-the like of which **has been described** in the Mahābhārata and the Rāmāyaṇa  
-in connection with the avatars as their manner of **being seated**:  
+the like of which **has been described** (above) in the Mahābhārata and the Rāmāyaṇa  
+in connection with the avatars as their manner of **being seated**. 
+</details>
 
-Then he **saw** Śrī Kṛṣṇa **seated** on a throne  
-**made** of gold and **adorned** with gems  
-and looking like a blue cloud resting on Mount Meru. His form was radiant and adorned with ornaments of unsurpassed brilliance; he was dressed in a raiment of gold and shone like a blue gem set in gold; on his chest shone the gem kaustubha and He was like a mountain lighted up by the sun and had a crown on His head. Such was His appearance that, in all the three worlds, there could be found no one to be set in comparison with him?" and “Sumantra, the charioteer, saw Śrī Rāma seated like Kubera on a throne made of gold and having a beautiful coverlet. His body was covered with the paste of sandal red like the blood of the boar, pure, fragrant and of superior quality. Sītā was standing by him with a cāmara in her hand, like the star Citra near the moon, His splendour is like that of the sun. Sumantra, who knew the etiquette (suited to courts), bowed with respect to the invincible Śrī Rāma who ever gave what was asked of him." (Having reached the feet of the Supreme Being, the self will receive the privilege of rendering all kinds of service suited to all places, all times and all circumstances and be forever blissful as prayed for in the verse :- “We should render, so constantly and without intermission, service to the Lord - such service as will be most appropriate to all times, to all places and to all occasions".
+<details><summary>Español</summary>
+
+El yo entonces **alcanzará** los dos pies del Gobernante Supremo y Su consorte  
+que **están descansando** en un sofá en Paramapada,  
+algo **parecido ha sido descrito** (arriba) en el Mahābhārata y el Rāmāyaṇa  
+en conexión con los avatares como su manera de **estar sentado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भारतरामायणङ्गळिऱ् सॊल्लप्पट्ट अवतारासिकैयाले व्यञ्जितमाऩ परमपद पर्यङ्कत्तिले यॆऴुन्दरुळियिरुक्किऱ सपत्नीकऩाऩ सर्वेश्वरऩ् ताळिणैक्कीऴ्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'ऒऴिव्+++(=विच्छेद)+++-इल् कालम् ऎल्लाम् उडऩ् आय्  
+> मऩ्ऩि+++(=सह्य)+++-वऴुव्+++(=प्रमाद)+++-इलाव् अडिमै सॆय्य-वेण्डु नाम्'  
+> (तिरुवाय्मॊऴि ३-३-१) 
+
+ऎऩ्गिऱ मनोरथत्तिऩ्बडिये 
+</details>
+
+<details><summary>English</summary>
+
+> “We **should render**, so constantly and without intermission, **service** to the Lord -  
+such **service** as will **be** most **appropriate** to all times, to all places and to all occasions".
+
+as prayed for in this verse :- 
+</details>
+
+<details><summary>Español</summary>
+
+> “Debemos **dar**, de manera constante y sin interrupción, **servicio** al Señor -  
+el **servicio** que **sea** el más **apropiado** para todos los tiempos, todos los lugares y todas las ocasiones".
+
+como **se ora** en este versículo: -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’ऒऴिविल् कालमॆल्लामुडऩाय् मऩ्ऩि वऴुविला वडिमै सॆय्य वेण्डुनाम्’’(तिरुवाय्मॊऴि ३-३-१)  ऎऩ्गिऱ मनोरथत्तिऩ्बडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वदेश सर्वकाल सर्वावस्थोचित सर्वविधकैङ्कर्यङ्गळैयुम् पॆऱ्ऱु वाऴ्वार्गळ्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वदेश सर्वकाल सर्वावस्थोचित सर्वविधकैङ्कर्यङ्गळैयुम् पॆऱ्ऱु वाऴ्वार्गळ्।
+</details>
+
+
+
+
+Having reached the feet of the Supreme Being, the self will receive the privilege of rendering all kinds of service suited to all places, all times and all circumstances and be forever blissful 
 
 Thus (both) in the state of endeavour (upāya) and in the state of attainment, the holy feet of Nārāyaṇa, the Lord of Śrī, are our support.
 
