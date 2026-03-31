@@ -7,8 +7,6 @@ Source: [TW](https://archive.org/download/Vaishvadeva/sadanuShThAna-darpaNam.pdf
 
 Source: [TW](https://archive.org/details/Vaishvadeva/sadanuShThAna-darpaNaH_d2/page/44/mode/2up)
 
-TODO: द्वितीयो भागः क्व? वर्ततय् [इति](https://www.youtube.com/watch?v=BUUWUlHcmug&t=1091s) परवस्तु-वरदराजः। 
-
 
 ॥ श्रियै नमः ॥
 ॥ श्रीमते रामानुजाय नमः ॥
@@ -44,6 +42,21 @@ Tirukkannapuram Vikramam
 Ve. SOWRIRAJA IYENGAR,  
 48, North Chitra Street, Srirangam,  
 Trichy-620006.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Copies can be had from:-
+S. Kannammal,
+48, North Chitra Street, Srirangam,
+Trichy-620 006.
+&
+Dr. T. V. S. Jagannathan,
+1/30, Staff Quarters,
+Palkalai Nagar,
+Madurai-625 021.
+
+</details>
+
 ************************ 
 ********* 
 
