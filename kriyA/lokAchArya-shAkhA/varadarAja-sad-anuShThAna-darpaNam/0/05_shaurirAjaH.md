@@ -2,6 +2,56 @@
 title = "०५ शैरिराजः"
 
 +++
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Source: [TW](https://youtu.be/RtxDpqjV3n0)
+
+tenkalai shaurirAja, shuddhasattva vs dharmashAstra, shruti, vangivaMsheshvara, parAsharabhaTTa, ghaNTA
+
+00:00 - **Intro** - dharma, pramANas and shaurirAja  
+00:55 - **sad-anuShThAna-darpaNa**/ sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam  
+01:41 - showrirAjan iyengar's **Education** - ghanapATha, initiation by tAta-venkaTa, shrI-bhAShyakAla-kShepa by AsUri laxmaNa  
+02:35 - **Endorsement** by the fraud-prone kAnchi aNNangarAchArya  
+03:40 - Intro to **tenkalai sect's** AchAra deviations. venkaTAdhvari. abandonment of vaishvadeva contrary to kalpa-sUtras, rAmAnuja, venkaTanAtha etc..  
+05:00 - **Justification**. Shruti fabrication. Fanatically/ blindly following "AchArya-s"  
+06:10 - Endorsement from shAstra-s to favor shiShTa-s over shruti?  
+07:20 - **Apastamba-dharma-sUtra** - धर्मज्ञसमयः प्रमाणम्, वेदाश् च।  
+08:50 - Who is **dharma-jna**? Based on veda compatibility only. Latter more fundamental.  
+10:30 - haradatta confirms. dharma-jna is **manu** etc.., not your contemporary jIyar-s.  
+11:40 - haradatta confirms. buddha vs manu. Your respect does not make one a shiShTa. your dharma-pramANa is dharma-jna-samaya, for them veda is dharma-pramANa.  
+14:40 - shauri-rAja misleads his readers. Intention to justify tenkalai deviations.  
+15:45 - Mangling **vidyAraNya**/ mAdhava.  
+17:10 - **taittirIya shruti** / shixA valli - selectively quoted and mangled. अथ यदि ते कर्म-विचिकित्सा वा... यथा ते तत्र वर्तेरन् तथा तत्र वर्तेथाः।  
+18:55 - यान्यस्माकं सुचरितानि, तानि त्वयोपास्यानि, नो इतराणि।  
+19:50 - **mahAbhArata** quote.  
+20:30 - Who is mahAjana? How does he know dharma?  
+22:10 - **rAmAyaNa** - rAma's clarification to vAli/ vAlin  
+23:15 - rAma's statement specific to the vAnara monkey vAlin .  
+23:30 - 2nd half of shloka cunningly not quoted by shaurirAja.  
+25:15 - govindarAja clarifies.  
+25:55 - rAma's condescension towards vAlin.  
+27:00 - rAma understands. shaurirAja misleads.  
+28:00 - Claim that sad-anuShThAna-darpaNa follows **unbroken tradition of rAmAnuja** etc..  
+29:00 - **ghaNTA / ringing the bell** - tradition discarded.  
+29:30 - slippery slope - reject shruti, smRti, your own AchArya-s.  
+29:45 - **sad-anuShThAna-darpaNa** popularity.  
+30:15 - tamiL explanation  
+31:45 - Fake "pramANa". Can't go to hell - **yama-kinkara saMvAda**.  
+33:05 - **vAtsalya as doSha-bhogyatA**.  
+34:25 - **vangI-vaMsheshvara, parAshara-bhaTTa**.  
+36:55 - parAshara-bhaTTa  
+37:15 - Throwing away AchAryas' words justified?  
+38:20 - bhagavat-prIti as phala is acceptable.  
+39:50 - pApa-nAshana as part of bhAgavata-kainkarya.  
+41:10 - **Low quality argumentation**, pramANas say the opposite.  
+41:55 - vangI-vaMsheshvara, parAshara-bhaTTa **practiced what they preached**. Directed at common vaiShNava-s only.  
+43:10 - **Conclusion** - shaurirAja does not understand dharmashAstra, shruti; endorses shuddha-sattva varadAchArya who throws away AchArya's words.  
+44:40 - AchAryas were not hypocrites. Flimsy logic.  
+45:00 - **Recommendation** to tenkalai vaiShNava brothers - don't twist the words of your AchAryas.  
+45:45 - shaurirAja's error. **Good wishes**. Proper pramANa hierarchy.  
+</details>
+
+
 ॥ श्रीः ॥ 
 
 ॥ श्रियै नमः ॥ 
@@ -39,14 +89,16 @@ title = "०५ शैरिराजः"
 समयाचार-निर्णय-परम् इदं सद्-अनुष्ठान-दर्पणम्।  
 
 ## शिष्टाचार-प्रामुख्यम्
-दृश्यते हि स्मृत्यादिषु सात्त्विकाद्य्-अधिकारि-भेदेन आचार-भेदः।  
+दृश्यते हि स्मृत्य्-आदिषु सात्त्विकाद्य्-अधिकारि-भेदेन आचार-भेदः।  
 आचार-विषये शिष्ट-गरिष्ठानां पूर्विकाणाम् आचार एव मुख्यं प्रमाणम्;  
 अनन्तरं वेद इति।  
 'धर्म-ज्ञ-समयः प्रमाणं, वेदाश् च' इत्य् आह भगवान् आपस्तम्बः। +++(5)+++ 
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-विपरीतम् एतद् गदितम्। 
+विपरीतम् एतद् गदितम्।  
+धर्म-ज्ञस्य धर्म-ज्ञत्वम् अपि वेदानुकूल्यत एव।  
+विस्तारोऽन्यत्र - [TW](/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/sarva-prastutiH/1/01/01_varNadharmAdi) ।
 </details>
 
 
@@ -55,14 +107,29 @@ title = "०५ शैरिराजः"
 > स्मृतिः प्रत्यक्षम् ऐतिह्यम्  
 > अनुमानश् चतुष्टयम्
 
-इत्य्-अत्र अनुमानं शिष्टाचारः इति भाषितम्।  
+इत्य्-अत्र अनुमानं शिष्टाचारः इति भाषितम्।
+
 उपनिषदि कर्म-विचिकित्सायां शिष्ट-गरिष्ठानां गुण-पूर्णानाम् आचारं ज्ञात्वा  
 तथा वर्तितव्य  
 इति स्पष्टं प्रतिपादितम् - [[Pvii]]
 
 > अथ यदि ते कर्म-विचिकित्सा वा... यथा ते तत्र वर्तेरन् तथा तत्र वर्तेथाः।
 
-इति। महा-भारते ऽपि -  
+इति। 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+इदं श्रुत्याद्य्-अस्पष्टतायाम् एव, नान्यथा। 
+
+> यान्य् अस्माकं सुचरितानि- तानि त्वयोपास्यानि, नो इतराणि ।  
+> - तैत्तिरीय-श्रुतौ शिक्षा-वल्ली॥
+
+इति तत्रैव खलूक्तम्?  
+ततः तद्-अपेक्षया ऽपि वस्तुतः श्रुतेर् बलीयस्त्वं ह्य् उक्तम्। 
+</details>
+
+
+महा-भारते ऽपि -  
 महा-जनाचरित आचारो ग्राह्यः,  
 श्रुति-स्मृति-तर्कादिकं  
 निर्णये न प्रयोजकम् इति-  
@@ -99,13 +166,36 @@ title = "०५ शैरिराजः"
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-नात्रायम् अभिप्रायः। 
+नात्रायम् अभिप्रायः।  
+अन्यथा 
+
+> हृदिस्थः सर्वभूतानाम्  
+आत्मा वेद शुभाशुभम् ॥
+
+इत्य् उत्तरार्धम् अपि गृहीत्वा, शिष्टाचारम् अपि त्यजत।  
+
+वस्तुतस् तु "तर्हि को वेत्तीत्यत्राह हृदिस्थ इति । सर्वभूतानां हृदिस्थः सर्वान्तर्यामी" इत्येव गोविन्दराजो व्याचख्यौ।  
+पुनर् इदं वालिनम् उद्दिश्य रामेणोक्तम् - न सर्वोऽपि वालिः -  
+
+> चपलश् चपलैः सार्धं  
+वानरैर् अकृतात्मभिः ।  
+जात्यन्ध इव जात्यन्धैर्  
+मन्त्रयन् द्रक्ष्यसे नु किम् ॥ 4.18.16 ॥   
+… तद् एतत् कारणं पश्य  
+यद् अथ त्वं मया हतः ।
 </details>
 
 
-श्री-नाथ-यामुन-रामानुज-- लोक-गुरु-वेदान्ताचार्य-- वर-वर-मुनि- प्रभृतिभिः  
+श्री-नाथ--यामुन-रामानुज-- लोक-गुरु--वेदान्ताचार्य-- वर-वर-मुनि- प्रभृतिभिः  
 अ-विच्छिन्न-सम्प्रदायाचार्य-परम्परा-प्राप्ता आचार-विशेषाः  
 स-प्रमाणं प्रतिपाद्यन्ते ऽस्मिन् सद्-अनुष्ठान-दर्पणे॥
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+किं तर्हि घण्टाप्रकरणे वङ्गिवंशेश्वरादिभ्यो व्यावृत्तिर् दर्श्यते?  
+वैश्वदेवकारिकाश् च वेङ्कटनाथकृताः कुतस् तिरस्कुरुध्वे?  
+</details>
+
 
 अत्र सात्त्विक-स्मृतयः विशेषेण उदाहृताः।
 
