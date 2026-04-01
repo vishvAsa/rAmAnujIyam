@@ -692,6 +692,14 @@ para **ser realizado** por el hombre
 कृत-कृत्यऩ् आम् बडियुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(13) इत्थं साङ्ग-प्रपदनानुष्ठानं कृतवतः  
+सर्व-रक्षणाधिकृत-स्वामि-सन्निधौ न्यस्त-भरतया  
+कृत-कृत्यताम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 (13) how the man that **has performed** this prapatti with its aṅgas  
@@ -726,6 +734,14 @@ quien **es** el Salvador Universal
 ताऩ् तेऱिय् इरुक्कैक्क् अडैय्-आळङ्गळुम्+++(=चिह्नानि)+++, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(14) इमां निष्ठां  
+स्वस्य संपन्नाम् अवलोक्य  
+स्वयं समाश्वस्ततया ऽवस्थितेर् अभिज्ञानानि, 
+</details>
+
+
 <details><summary>English</summary>
 
 (14) the signs or marks by which a man **could realise** that  
@@ -758,6 +774,14 @@ este estado **ha sido alcanzado** por él
 इङ्ग् इरुन्द कालत्तुक्कु स्वयं-प्रयोजनम् आय्  
 स्व-रूप--प्राप्त-शेष-वृत्ति-रूपम् आऩ कैङ्कर्यम् इरुक्कुम् बडियुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(15) अस्यार्ति-मान्द्यात् शरीरेऽनुवृत्ते सति  
+इह जीवन-काले 
+स्वयं-प्रयोजनस्य स्वरूप-प्राप्त-- शेष-वृत्ति-रूपस्य कैङ्कर्यस्य स्थिति-प्रकारम्, 
+</details>
+
 
 <details><summary>English</summary>
 
