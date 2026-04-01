@@ -6,6 +6,8 @@ Source: [TW](https://youtu.be/djK61750fbM)
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+vaishvadeva avoidance, devatAntara-pUjA, pAncharAtra vs smRti/ sUtra, sad-anuShThAna-darpaNaH
+
 00:00 - Intro, amAvAsya rituals, sthAlIpAka, aupAsana  
 01:45 - tenkalai shrIvaiShNava claims.
 02:30 - Hypocritical unread claim to be Apastamba-sUtra, brahma-sUtra, rAmAnuja followers while opposing vaishvadeva.
@@ -20,7 +22,7 @@ Source: [TW](https://youtu.be/djK61750fbM)
 12:45 - Overridden by smRti-s
 13:15 - yAmuna's Agama-prAmANya says so.
 15:00 - yAmuna thought sva-shAkhokta nitya-karma abandonment to lead to loss of varNa.
-18:50 - Frauds in सदनुष्ठानदर्पण by shuddha-sattva-varadAchArya - https://archive.org/details/Vaishvadeva/sadanuShThAna-darpaNaH_d2/page/45/mode/1up .
+18:50 - Frauds in सदनुष्ठानदर्पण (**sad-anuShThAna-darpaNa**/ sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam) by shuddha-sattva-varadAchArya - https://archive.org/details/Vaishvadeva/sadanuShThAna-darpaNaH_d2/page/45/mode/1up .
 20:45 - Availability of highly respected kANva-shAkhAnuyAyins in TN.
 22:50 - Conclusion
 

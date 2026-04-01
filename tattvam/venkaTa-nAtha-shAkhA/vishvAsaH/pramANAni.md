@@ -331,6 +331,14 @@ Neither do they guarantee correct understanding and practice of vedas (as proved
 It's also wrong to think that exposure to DP would have altered shankara's perceptions. S had some exposure to pAncharAtra, but was not as interested in that as he was in the gauDapAda quasi-bauddha view. He knowingly twisted BS. No reason to think exposre to DP would've hindered him.  
 Neither R or VD state this lack of exposure as a reason. Rather, they point out how they have failed to use the shruti/ smRti/ sUtra pramANas properly.
 
+## शिष्टाचारः
+केचिल् लोकाचार्यानुगाः, यथा सद्-अनुष्ठान-दर्पण-सम्पादकः शौरिराजः - 
+
+> आचार-विषये शिष्ट-गरिष्ठानां पूर्विकाणाम् आचार एव मुख्यं प्रमाणम्;  
+अनन्तरं वेद इति। 
+
+तद् अबद्धम्। विस्तारो [ऽन्यत्र](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/5_internal-contradictions/hierarchy) । 
+
 ## ऐतिह्यम्
 ऐतिह्येषु प्रक्षेपातिशयोक्त्य्-आदेर् अधिका सम्भावना।  
 ततस् तद् अत्यन्तम् अवरम् प्रमाणम्।  
