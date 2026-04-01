@@ -1463,6 +1463,12 @@ y **te he buscado** (para **guía**).
 सादरऩ् आय् विशदम् आग श्रवणम् पण्णि 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सादरेण विशदं श्रुत्वा, 
+</details>
+
+
 <details><summary>English</summary>
 
 He **should listen** (to the ācārya's **discourse**) with reverence and close attention  
@@ -1494,13 +1500,15 @@ He **should listen** (to the ācārya's **discourse**) with reverence and close 
 
 <details><summary>नीलमेघः (सं)</summary>
 
+एतद्-उपयुक्ताः सद्-वार्ताश् च 
+
 > ‘‘सुव्याहृतानि महतां  
 सु-कृतानि ततस् ततः ।  
 **सञ्चिन्वन्** धीर **आसीत**  
 सिल+++(=उञ्छ)+++-हारी सिलं यथा॥’’  
 (भारतम्, उद्योग-पर्व ३४-३४) 
 
-
+इत्य्-उक्त-रीत्या विशोध्योपादाय 
 </details>
 
 <details><summary>विषयः</summary>
@@ -1548,6 +1556,12 @@ de la misma manera que algunos **viven** del grano **recogido** en el campo.
 अभ्यास-भूयस्तैयाले तॆळिन्दु कॊळ्वदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अभ्यास-भूयस्तया ज्ञातव्याः ।
+</details>
+
+
 <details><summary>English</summary>
 
 He **should try** to **have** a clear **understanding** of what **is taught** therein  
@@ -1588,7 +1602,7 @@ mediante **estudio** repetido.
 सतां धर्मः प्लवङ्गम’’  
 (रामायणम् किष्किन्दा - १८-१५) 
 
-
+इति, [[P437]]
 </details>
 
 <details><summary>English</summary>
@@ -1635,7 +1649,7 @@ para ser fácilmente **entendido**"
 > ‘‘धर्मस्य तत्त्वं निहितं गुहायाम्’’  
 (भारतम् आरण्य-पर्व ३१४) 
 
-
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -1687,7 +1701,7 @@ La verdad con **respecto** al dharma **está escondida** (por así decirlo) en u
 को धर्मं वक्तुम् अर्हति’’  
 (भारतम् आरण्य-पर्व ११९) 
 
-
+इति च 
 </details>
 
 <details><summary>English</summary>
@@ -1733,11 +1747,12 @@ y también,
 
 <details><summary>नीलमेघः (सं)</summary>
 
+ऋषिभिर् अपि क्लेशेन पद-विन्यसनस्यार्हेषु स्थलेषु, 
 
 > ‘‘महाजनो येन गतस् स पन्थाः’’  
 (भारतम् उद्योग-पर्व ३५-२९) 
 
-
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -1787,7 +1802,7 @@ Así, donde incluso los sabios **tienen** que **pisar** con el mayor cuidado,
 स धर्मः परमो मतः॥’’  
 (बोधायन-गृह्य-सूत्राणि १४-१-७) 
 
-
+इति चोक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -1826,6 +1841,14 @@ y **armado** con la espada de los Vedas...
 कण्टक-शोधनम् पण्णि नडन्द वऴियिले नडक्कैयाले  
 नमक्कु वरुवद् ऒरु तप्पिल्लै। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रुति-स्मृति-शरणैः पूर्वाचार्यैः  
+कण्टक-शोधनं कृत्वा गते मार्गे गमनाद्  
+अस्मास्व् आपतन् कश्चित् प्रत्यवायो नास्ति ।+++(4)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1884,17 +1907,22 @@ LOS BUENOS RESULTADOS QUE **SE SIGUIRAN** DEL ESTUDIO DE ESTE TRATADO:
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अस्मिन् मार्गे गतवद्भिः, 
+
 > ‘‘अ-विश्रान्तम् अन्-आलम्बम्  
 अ-पाथेयम् अ-देशिकम् ।  
 तमःकान्तारम् अध्वानं  
 कथम् एको गमिष्यसि॥’’  
 (भारतम् शान्ति-पर्व ३३७-३४) +++(5)+++
+
+इति
 </details>
 
 <details><summary>विषयः</summary>
 
 गुरुः, आलम्बनम्, यात्रा, सिद्धता, साधना
 </details>
+
 
 <details><summary>English</summary>
 
@@ -1959,6 +1987,7 @@ Es **es** el camino que
 यमस्य सदनं प्रति॥’’  
 (वङ्गी-पूर्ण-नित्यम् २४) 
 
+इति च 
 </details>
 
 <details><summary>English</summary>
@@ -2000,6 +2029,12 @@ y que **produce** un **sufrimiento** prolongado."
 महर्षिगळ् नॆञ्ज् आऱल्+++(=दमनं)+++ बडुम् वऴिगळ् काण वेण्डा। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+महर्षीणां हृदय-शोक-विषयाः पन्थानो  
+न द्रष्टव्या भवन्ति । 
+</details>
+
 <details><summary>English</summary>
 
 there **will be no** such painful anxieties  
@@ -2038,6 +2073,15 @@ Para aquel que **sigue** la huella de los grandes hombres,
 एऱुवद् इऴिवद् आग  
 +++(पञ्चाग्नि-विद्योक्त-)+++ धूमादि-मार्गत्तिले परिभ्रमिक्कवुम् वेण्डा।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पञ्चाग्नि-विद्योक्त-रीत्या  
+कार्पासानुभूतान् द्वादशापि +++(उत्पाटनादि)+++ क्लेशान् अनुभूय,  
+घटी-यन्त्र-कुण्डिकावद् आरोहणावरोहण-रूपेण  
++++(पञ्चाग्नि-विद्योक्त-)+++धूमादि-मार्गेण न परिभ्रमितव्यम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2105,6 +2149,7 @@ y **repitiendo** este proceso.)
 कन्दुकैरिव जन्तुभिः॥’’  
 (विष्णुधर्मः) 
 
+इत्य्-उक्तायां 
 </details>
 
 <details><summary>English</summary>
@@ -2143,6 +2188,12 @@ que **son subiendos** y **bajandos**".
 भगवल्-लीलोपकरणम् आऩ दशै कऴिन्दु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवल्-लीलोपकरण-दशायां निवृत्तायाम् 
+</details>
+
+
 <details><summary>English</summary>
 
 To the man who **follows** the ways of great men,  
@@ -2169,6 +2220,12 @@ el estado en el que **es** un juguete para el **deporte** de Bhagavān
 पॆऱप् पोम् अधिकारिगळ्-उडैय वऴिगळिऱ् काट्टिल्  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यान्य् अतिशयित-फलानि प्राप्नुवताम् अधिकारिणां मार्गापेक्षया 
+</details>
+
+
 <details><summary>English</summary>
 
 He will then **go** along a path  
@@ -2194,6 +2251,12 @@ para **alcanzar** extremos altos (como svarga),
 पुरुषार्थ-भूयस्तैयालुम्, 
 पुनरावृत्तिय् इल्लामैयालुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पुरुषार्थ-भूयस्तया, पुनरावृत्ति-राहित्येन च, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2318,7 +2381,7 @@ lo cual **es** tan genial como para **eliminar** los **sufrimientos** del saṁs
 > ‘‘देवयानः परः पन्था  
 योगिनां क्लेश-संक्षयः’’() 
 
-
+इत्य्-आद्य्-उक्त-रीत्या ऽत्यन्त-विलक्षणेन, 
 </details>
 
 <details><summary>English</summary>
@@ -2451,7 +2514,7 @@ que ni siquiera los dioses y asuras **pueden contemplarlo**",
 स्थानस्य परमात्मनः।’’  
 (भारतम् आरण्य-पर्व १३६-१८) 
 
-
+इत्यादिषु [[P438]], 
 </details>
 
 <details><summary>English</summary>
@@ -2488,6 +2551,12 @@ este svarga y otros mundos **son**, hija mía, como infiernos".
 श्रुतिगळिलुम् ओदप् पडुगिऱ  
 परम-पदत्तै पर्यन्तम् आगव् उडैत्त् आय्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+संसाराध्वनः पारम् इति श्रुतिषु चाम्नातं परम-पदं पर्यन्तयता 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2528,6 +2597,12 @@ como el último término de la ruta que **conduce** fuera del saṁsāra.
 भगवत्-प्रसादावलम्बनम् आय्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-प्रसादावलम्बनेन 
+</details>
+
+
 <details><summary>English</summary>
 
 The self (that takes that path) **will have**, for its supporting staff,  
@@ -2559,6 +2634,14 @@ la gracia de Bhagavān,
 
 ऎऩ्गिऱ सन्तोषत्तै पाथेयम् आगव् उडैत्ताय्, +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> परिपूर्णं परम-पुरुषार्थं प्राप्स्याम 
+
+इति सन्तोषात्मक-पाथेयवता 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2592,7 +2675,7 @@ el deleite en el **pensamiento** que
 (ब्रह्मसूत्रम् ४-२-१६)  
 
 ऎऩ्गिऱ बडिये  
-हार्दऩ् आऩ ईश्वरऩ्-उडैय सौहार्दत्ताले काट्टप्पडुगिऱ 
+हार्दऩ् आऩ ईश्वरऩ्-उडैय सौहार्दत्ताले काट्टप्पडुगिऱ अर्चिर्-आदि-मार्गत्ताले  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2600,7 +2683,8 @@ el deleite en el **pensamiento** que
 > ‘‘तत्-प्रकाशित-द्वारः’’  
 (ब्रह्मसूत्रम् ४-२-१६)  
 
-
+इत्य्-उक्त-रीत्या  
+हार्देश्वर-सौहार्द-प्रदर्शितेन अर्चिर्-आदि-मार्गेण 
 </details>
 
 <details><summary>English</summary>
@@ -2610,6 +2694,8 @@ As **stated** in the Brahma-sūtras
 > "He **will start** from there  
 by the **opening** of the vein (nāḍi) **indicated** and **lighted** by the Lord  
 who **dwells** within the heart" 
+
+(he will) **take** the arcirādi route
 </details>
 
 <details><summary>Español</summary>
@@ -2619,11 +2705,13 @@ Como **indicado** en los Brahma-sūtras
 > "Él **comenzará** desde allí  
 por la **apertura** de la vena (nāḍi) **indicada** e **iluminada** por el Señor  
 que **habita** dentro del corazón"
+
+(él) **tomará** la ruta arcirādi 
 </details>
 
 <details><summary>मूलम्</summary>
 
-‘‘तत्प्रकाशितद्वारः’’(ब्रह्मसूत्रम् ४-२-१६) ऎऩ्गिऱबडिये हार्दऩाऩ ईश्वरऩुडैय सौहार्दत्ताले काट्टप्पडुगिऱ 
+‘‘तत्प्रकाशितद्वारः’’(ब्रह्मसूत्रम् ४-२-१६) ऎऩ्गिऱबडिये हार्दऩाऩ ईश्वरऩुडैय सौहार्दत्ताले काट्टप्पडुगिऱ अर्चिरादि मार्गत्ताले 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -2638,16 +2726,24 @@ que **habita** dentro del corazón"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्चिर्-आदि-मार्गत्ताले  
 अव्व्-ओ देवतैगळ् तन्-दाम् ऎल्लैगळ् तोऱुम्+++(=प्रति)+++  
 मङ्गळ-प्रदीप--पूर्ण-कुंभादिगळै मुऩ्ऩिट्टु  
 स-परिकरर् आय् ऎदिर् गॊण्डु  
 सार्वभौमोपचारङ्गळैप् पण्णि वऴि नडत्त, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-तद्-देवतासु  
+प्रति-स्व-स्व-सीमा-भूमि-- मङ्गल-प्रदीप-- पूर्ण-कुम्भादि-पुरस्कार-पूर्वं सपरिकरासु  
+प्रत्युद्गम्य सार्वभौमोपचारान् कृत्वा अतिवहन्तीषु, 
+</details>
+
+
+
 <details><summary>English</summary>
 
-and **take** the arcirādi route along which, in the respective regions of the gods,  
+along which, in the respective regions of the gods,  
 he **would be greeted** and **welcomed** with honours **befitting** emperors  
 by the respective deities thereof  
 with auspicious lamps and pitchers full of water (pūrṇakumbha)  
@@ -2658,7 +2754,7 @@ They **will escort** the self on its path
 
 <details><summary>Español</summary>
 
-y **tomar** la ruta arcirādi a lo largo de la cual, en las respectivas regiones de los dioses,  
+a lo largo de la cual, en las respectivas regiones de los dioses,  
 él **sería recibido** y **bienvenido** con honores **propios** de los emperadores  
 por sus respectivas deidades  
 con lámparas auspiciosas y cántaros llenos de agua (pūrṇakumbha)  
@@ -2669,7 +2765,7 @@ Ellos **escoltarán** al yo en su camino
 
 <details><summary>मूलम्</summary>
 
-अर्चिरादि मार्गत्ताले अव्वो देवतैकळ् तन्दामॆल्लैगळ्दोऱुम् मङ्गळ प्रदीपपूर्णकुंभादिगळै मुऩ्ऩिट्टु सपरिकरराय् ऎदिर्गॊण्डु सार्वभौमोपचारङ्गळैप् पण्णिवऴिनडत्त, 
+अव्वो देवतैकळ् तन्दामॆल्लैगळ्दोऱुम् मङ्गळ प्रदीपपूर्णकुंभादिगळै मुऩ्ऩिट्टु सपरिकरराय् ऎदिर्गॊण्डु सार्वभौमोपचारङ्गळैप् पण्णिवऴिनडत्त, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2678,6 +2774,13 @@ Ellos **escoltarán** al yo en su camino
 इऱै+++(=ऐश्वर्यम् → बलिं)+++ कोण्ड देवतैगळ् ऎल्लाङ्  
 काणिक्कैय् इट्टुक् कण्ड् अनुवर्तिक्क, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कर्म-लोके जीवन-काले गृहीताहारासु देवतासु सर्वासु  
+उपदाः प्रदायानुवर्तमानासु 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2699,6 +2802,11 @@ y aquellas deidades a quienes el hombre **hizo ofrendas** en el mundo del karma 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवर्गळुक्कुम् ऎट्ट वॊण्णादव् ऎल्लैगळ् ऎल्लाङ् कडन्दु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ताभिर् अप्य् अगम्याः सर्वाः सीमा अतिक्रम्य 
 </details>
 
 <details><summary>English</summary>
@@ -2724,6 +2832,13 @@ El yo entonces **pasa** a regiones que **están** más allá de su alcance.
 वासि+++(=वैषम्यम्)+++ तॆरियाद बडिय् आऩ  
 निरतिशय-पूर्तियैप् पॆऱ्ऱु, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नित्य-सूरि-परिषदि प्रवेशे यथा तारतम्यं न ज्ञायेत  
+तथा निरतिशय-पूर्तिं प्राप्य, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2885,6 +3000,15 @@ y **tenía** una corona en Su cabeza.
 (भारतम् शान्ति-पर्व ४४-१३ मुदल् १६),
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> **नौपम्यं विद्यते** तस्य  
+त्रिषु लोकेषु किञ्चन’’  
+(भारतम् शान्ति-पर्व ४४-१३ मुदल् १६),
+</details>
+
+
+
 <details><summary>English</summary>
 
 > Such **was** His **appearance** that,  
@@ -3042,7 +3166,7 @@ como la estrella Citra cerca de la luna,
 विनय-**ज्ञो** विनीतवत्॥’’  
 (रामायणम् अयोध्या-काण्डम् १६-८ मुदल् ११) 
 
-
+इति 
 </details>
 
 <details><summary>English</summary>
@@ -3078,6 +3202,14 @@ quien alguna vez **dio** lo que **se le pidió**."
 ऎऴुन्द् अरुळिय् इरुक्किऱ  
 स-पत्नीकऩ् आऩ सर्वेश्वरऩ् ताळ्-इणैक्-कीऴ्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भारत-रामायणयोर् वर्णितेनावतारासिका+++(=आसन)+++-व्यञ्जितं परम-पद-पर्यङ्कम्  
+अध्यासीनस्य सपत्नीकस्य सर्वेश्वरस्य चरण-द्वन्द्वस्याधस्ताद्  
+[[P439]]  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3116,6 +3248,15 @@ en conexión con los avatares como su manera de **estar sentado**.
 ऎऩ्गिऱ मनोरथत्तिऩ्बडिये 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "अवधि-शून्यं कालं सर्वं सह-चारितया स्थित्वा  
+अप्रच्युति-कैङ्कर्यं कर्तुं वान्छामो वयम्" 
+
+इति पूर्व-कृत-मनोरथानुसारण 
+</details>
+
+
 <details><summary>English</summary>
 
 > “We **should render**, so constantly and without intermission, **service** to the Lord -  
@@ -3150,6 +3291,12 @@ como **se ora** en este versículo: -
 सर्व-देश-- सर्व-काल-- सर्वावस्थोचित-- सर्व-विध-कैङ्कर्यङ्गळैयुम् पॆऱ्ऱु वाऴ्वार्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-देश-- सर्व-काल-- सर्वावस्थोचित-- सर्व-विध-कैङ्कर्याणि प्राप्योज्जीवेयुः ।
+</details>
+
+
 <details><summary>English</summary>
 
 Having **reached** the feet of the Supreme Being,  
@@ -3183,6 +3330,13 @@ el yo **recibirá** el privilegio de **prestar** todo tipo de **servicio**,
 उपजीव्यङ्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं श्रियः पत्युर् नारायणस्य श्री-चरणाव् एव  
+उपाय-दशायां फल-दशायां चोपजीव्यौ ॥
+</details>
+
+
 <details><summary>English</summary>
 
 Thus (both) in the state of **endeavour** (upāya) and in the state of **attainment**, the holy feet of Nārāyaṇa, the Lord of Śrī, **are** our support.
@@ -3210,13 +3364,30 @@ Así, (tanto) en el estado de **esfuerzo** (upāya) como en el estado de **logro
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-उऱु+++(=बृहत्)+++-शकटम्-उडैयव् ऒरु काल् उऱ्ऱ्+++(=सावधानम्)+++ **उणर्न्दन**+++(=बुद्धे)+++ उडऩ्+++(=युक्त)+++-मरुतम्+++(-वृक्ष)+++-**ऒडियव्** ऒरु पोदिऱ् +**तवऴ्न्दन**+++(=)+++ उऱिदडवुमळवि लुरलूडुऱ्ऱु निऩ्ऱन  
-उऱुनॆऱियोर् तरुमन्विडु तूदुक्कुगन्दन मऱनॆऱियर् मुऱियबिरदानत्तुवन्दन  
-मलर्मगळ् कैवरुड मलर्बोदिऱ्‌चिवन्दन मऱुबिऱवियऱुमुनिवर् मालुक्किसैन्दन मनुमुऱैयिल् वरुवदोर् विमानत्तुऱैन्दन  
-अऱमुडैय विसयनमर् तेरिऱ्ऱिगऴ्न्दन अडलुरगबड मडियवाडिक् कडिन्दन  
-अऱुसमय मऱिवरिय तानत्तमर्न्दन अणिगुरुगै नगर्मुनिवर् नावुक्कमैन्दन वॆऱियुडैय तुळवमलर् वीऱुक्कणिन्दन विऴुगरियोर् कुमरनॆन मेविच्चिऱन्दन विऱलसुरर् पडैयडैय वीयत्तुडर्न्दन  
-विडलरिय पॆरियबॆरुमाळ् मॆय्प्पदङ्गळे. (49)
+उऱु+++(=बृहत्)+++-शकटम्-उडैयव् ऒरु काल् उऱ्ऱ्+++(=सावधानम्)+++ **उणर्न्दन**+++(=बुद्धौ ←चरणौ)+++;  उडऩ्+++(=युक्त)+++-मरुतम्+++(=अर्जुन-वृक्ष)+++-**ऒडियव्** ऒरु पोदिऱ् +**तवऴ्न्दन**+++(=सृप्तौ)+++; +++(नवनीत-पात्र-)+++उऱि+++(=शिक्य)+++-तडवुम्+++(=परामर्श)+++ अळविल् उरलूड्+++(=उलूखलेन)+++ उऱ्ऱु **निऩ्ऱन**;  
+उऱु+++(=योग्य)+++-+++(मार्गवान्=)+++नॆऱियोर् धरुमन्-विडु+++(=मोचित→प्रेरित)+++ दूतुक्क् **उगन्दन**; मऱ+++(=कोप)+++-+++(मार्गिनः=)+++नॆऱियर् मुऱिय बिरदानत्तु+++(=वृन्दावनस्य)+++ **वन्दन**;  
+मलर्-मगळ्-कै-वरुड+++(=संवाहने)+++, +++(पद्म-)+++मलर्-पोदिऱ्‌+++(=विकासात्)+++ **चिवन्दन**+++(=रक्तीभूतौ)+++; मऱु-पिऱविय्-अऱु-मुनिवर् माल्+++(=व्यामोह→भक्तिं)+++ **उक्कि सैन्दन**; +++(पक्षे ॐकार-)+++मनु-+++(वंशे/क्रमे=)+++मुऱैयिल् +++(रामद्वारा)+++ वरुवद् ओर् +++(श्रीरङ्ग-)+++विमानत् **तुऱैन्दन**+++(=निवासिनौ)+++;  
+अऱम्+++(=धर्म)+++-उडैय विजयन् अमर्+++(=अधिष्ठित)+++ तेरिऱ् +**तिगऴ्न्दन**+++(=प्रकाशितवन्तौ)+++; अडल्+++(=हिंस्र)+++-उरग-फड+++(णा)+++-**मडियव् आडिक् कडिन्दन**;  
++++(साङ्ख्य-योग-काणाद- बौद्ध-जैन-पाशुपतानि→)+++अऱु-समयम् अऱिव्+++(=ज्ञानम्)+++ अरिय+++(=दुर्लभ)+++ +++(स्)+++थानत्त् **अमर्न्दन**+++(=स्थितवन्तौ)+++; अणि+++(=भूषण)+++-कुरुगै-नगर्-मुनिवर् नावुक्क्+++(=जिह्वायै)+++ **अमैन्दन**+++(=युक्तौ)+++; वॆऱिय्+++(=गन्ध)+++-उडैय तुळव+++(=तुलसी)+++-मलर्-वीऱुक्क्+++(=महत्त्वाय)+++ **अणिन्दन**+++(=अलङ्कृतवन्तौ)+++; विऴु+++(=पतित)+++-करिय्+++(=इङ्गालं)+++ ओर् कुमरऩ् ऎऩ मेविच्+++(=अनुगृह्य)+++ **सिऱन्दन**+++(=यशस्विनौ संपन्नौ)+++; विऱल्+++(=वीर)+++-असुरर् पडैय्-अडैय **+++(नाशं=)+++वीयत् तुडर्न्दन**+++(=अनुसृतौ)+++  
+विडल्-अरिय पॆरिय पॆरु-माळ्+++(←मै)+++ मॆय्प्+++(=सत्य)+++ पदङ्गळे. (49)
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बलिष्ठः शकटो यथा भिद्येत तथैकदा सावधानं जागरूको  
+स्थितौ संहितौ अर्जुनौ यथा भज्येयातां तथैकदा कृत-चङ्क्रमणौ,  
+शिक्य-परामर्श-काले उलूखलेन सह युक्तौ स्थितवन्तौ, योग्य-मार्गस्थाद्वितीय-धर्मपुत्रेरितं दूतत्वम् अभिनन्दितवन्तौ;  
+कोप-मार्गस्था यथा नश्येयुस् तथा वृन्दावनय् आगतवन्तौ,  
+पङ्कज-वासिनी-कर-संवाहनेनापि विकसत्-पद्माद् अप्य् अत्यन्तं रक्तीभूतौ, पुनर्-जन्म-विच्छेदक-मुनि- परम-भक्त्यनुरूपौ संपन्नौ, +++(पक्षे ॐकार-)+++मनु-वंशागत+++(←रामद्वारा)+++-+अद्वितीय-+++(श्रीरङ्ग-)+++विमाने निवासिनौ,  
+धर्मवता विजयेन अधिष्ठिते रथे लब्ध-प्रकाशौ, हिंस्रोरग-फणा यथा निपतेयुस् तथा नर्तनं कृत्वा कृत-कोपौ,  
+षट्-समयी-दुर्ज्ञेय-स्थाने प्रतिष्ठितौ,  
+अलङ्कार-भूत-- कुरुका-नगरी-- मुनि-रसना-कृत-- गान-विषयीभूतौ  
+वासनावन्ति तुलसी-पुष्पाणि उत्कर्षार्थम् अलङ्कारतया धृतवन्तौ,  
+पतितेङ्गालं कश्चित् +++(परीक्षित्)+++ कुमार इत्य् अनुगृह्य यशस्विनौ संपन्नौ,  
+सामर्थ्यवती महासुर-सेना कात्स्न्येन यथा नश्येत् तथा अनुद्रुतवन्तौ,  
+दुस्त्यजौ महा-पुरुषस्य (श्रीरङ्गनाथस्य) सत्य-पादाव् एव ॥
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
