@@ -119,6 +119,13 @@ TEMAS **TRATADOS** HASTA AHORA pág.640
 इज्-जीवात्मा सूरिगळोड् ऒक्क+++(=सह)+++ भगवद्-अनुभव-रसत्तुक्कु स्व-रूप--योग्यऩ् आय् वैत्तु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम्  
+(1) अस्य जीवात्मनो नित्य-सूरिनिर्विशेषं भगद्-अनुभव-रसास्वदन-- स्वरूप-योग्यस्यापि सतः 
+</details>
+
+
 <details><summary>English</summary>
 
 Here (in this treatise),  
@@ -151,6 +158,12 @@ Aquí (en este tratado),
 अनादिकालम् इऴन्दु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनादिकालात् तद्रहितस्य 
+</details>
+
+
 <details><summary>English</summary>
 
 how he **has lost** this fitness from beginningless time,  
@@ -170,6 +183,12 @@ cómo **ha perdido** esta aptitud desde el tiempo sin principio,
 
 ओर् अळविले पुरिन्दु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कस्मिंश्चिद् अवसरे विचारपूर्वम् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -197,6 +216,12 @@ cómo más tarde **adquiere** el espíritu de desapego (vairāgya) en alguna med
 सदाचार्य-सम्बन्धम् उण्डाय्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सद्-आचार्य-संबन्धे जाते 
+</details>
+
+
 <details><summary>English</summary>
 
 how he **comes** in **contact** with a worthy ācārya  
@@ -218,6 +243,12 @@ cómo **entra** en **contacto** con un ācārya digno
 
 तत्त्व-हितङ्गळैय् अऱियत् तुडङ्गिऩ बडियुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्त्व-हित-ज्ञानाय प्रवृत्तिम् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -247,6 +278,13 @@ y los medios para **alcanzar** los fines **deseados** por él;
 
 इवैय् अऱि-विक्कुम् प्रमाणङ्गळिल् रहस्य-त्रयम् सारतमम् आऩ बडियुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(2) एतत्-प्रतिपादक-प्रमाणेषु  
+रहस्य-त्रयस्य सारतमत्वम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -278,6 +316,15 @@ los tres secretos o misterios (mantras), **son** de suma importancia;
 ईशेशितव्यङ्गळिऩ्-उडैय शरीरात्म-भाव-सम्बन्धादिगळ् प्रधान-प्रतितन्त्रम् आय्  
 ज्ञातव्यङ्गळ् आऩ बडियुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[४३५]]  
+(३) एतैर् ज्ञयमानेष्व् अर्थेषु  
+ईशेशितव्ययोः शरीरात्मभाव-संबन्धादीनां  
+प्रधान-प्रतितन्त्ररूपेण ज्ञातव्यत्वम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -316,6 +363,14 @@ que **existe** entre el Gobernante Supremo y aquellos que **son gobernados** por
 रहस्य-त्रत्तिल् किडक्कुम् बडियुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(4) अनेन सम्बन्धेन सह  
+ज्ञातव्यत्वेन पूर्वाचार्य-संगृहीतस्यार्थपञ्चकस्य  
+रहस्यत्रये ऽन्तर्भावस्य प्रकारम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 (4) how the five subjects of knowledge (artha-pañcaka) including that **relationship** which **have been summarised** by our ancient ācāryas  
@@ -344,6 +399,13 @@ que **existe** entre el Gobernante Supremo y aquellos que **son gobernados** por
 
 इव्व्-अर्थ-पञ्चकत्तुक्क्-उळ्ळे तत्त्व-त्रयादि-विभाग-चिन्तै पण्णुवार्क्कुत् तात्पर्यमुम् +++(→आत्म-प्रकृति-विवेकादि)+++, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(5) अस्मिन्न् अर्थ-पञ्चके  
+तत्त्व-त्रयादि-विभाग-चिन्तां कुर्वतां तात्पर्यम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -378,6 +440,13 @@ que **existe** entre el Gobernante Supremo y aquellos que **son gobernados** por
 श्रियः-पतिय् ऎऩ्ऩुम् इडमुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(6) अस्मिन् तत्त्व-त्रये  
+ईश्वरत्वेन सात्त्विक-शास्त्रेषूक्तः श्रियः-पतिर् इत्य् एतम् अर्थम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 (6) how among these three Reals or tattvas, Iśvara, who **is described** in the sātvika śāstras **is** the Lord with His spouse Śrī (viz. Nārāyaṇa).
@@ -406,6 +475,13 @@ que **existe** entre el Gobernante Supremo y aquellos que **son gobernados** por
 इव्व्-अर्थङ्गळ् ऎल्लान् तॆळिन्दवऩ्  
 मुमुक्षुव् आय् मोक्षोपायोन्मुखऩ् आम् बडियुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(7) इमान् अर्थान् प्रबुद्धवतो मुमुक्षु-भूतस्य  
+मोक्षोपायोन्मुखत्वम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -438,6 +514,12 @@ y **busca** los upāyas para mukti
 अधिकारि-विभागमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(8) अधिकारि-विभागम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 (8) the classification of those who are **competent** to **adopt** the different upāyas, 
@@ -464,6 +546,12 @@ y **busca** los upāyas para mukti
 
 इव्व्-अधिकारिगळुक्कु अनुरूपम् आऩ उपाय-विभागमुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(9) एषाम् अधिकारिणाम् अनुरूपोपाय-विभागम् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -492,6 +580,13 @@ y **busca** los upāyas para mukti
 इव्व् उपायङ्गळिल्  
 स्वतन्त्र-प्रपत्ति-निष्ठऩुक्क् अधिकार-विशेषम् इरुक्कुङ् कट्टळैयुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(10) एषु उपायेषु  
+स्वतन्त्र-प्रपत्ति-निष्ठस्य अधिकार-विशेष-व्यवस्थाम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -523,6 +618,13 @@ y **busca** los upāyas para mukti
 सकृत्-कर्तव्यम् आऩ इव् उपायत्तुक्क् अनुरूपम् आग विहितम् आऩ परिकर-विभागमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(11) सकृत्-कर्तव्यस्यास्योपायस्य  
+अनुरूपतया विहितं परिकर-विभागम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 (11) the classification of accessories **enjoined** as appropriate for this upāya which has to **be performed** only once 
@@ -548,6 +650,13 @@ y **busca** los upāyas para mukti
 
 मुमुक्षुवुक्कु स-परिकरम् आऩ भर-न्यास-रूप- प्रधान-कर्तव्यत्तिऩ्-उडैय सन्निवेशम् इरुक्कुम् पडियुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(12) मुमुक्षोः स-परिकर-- भर-न्यास-रूप-- प्रधान-कर्तव्यस्य  
+सन्निवेश-प्रकारम् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2960,7 +3069,7 @@ Así, (tanto) en el estado de **esfuerzo** (upāya) como en el estado de **logro
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-उऱु+++(=बृहत्)+++-शकटम्-उडैयव् ऒरु काल् उऱ्ऱ्+++(=सावधानम्)+++ **उणर्न्दन**+++(=बुद्धे)+++ उडऩ्+++(=युक्त)+++-मरुतम्+++(-वृक्ष)+++-**ऒडियव्** ऒरु पोद् इऱ्ऱवऴ्न्दन उऱिदडवुमळवि लुरलूडुऱ्ऱु निऩ्ऱन  
+उऱु+++(=बृहत्)+++-शकटम्-उडैयव् ऒरु काल् उऱ्ऱ्+++(=सावधानम्)+++ **उणर्न्दन**+++(=बुद्धे)+++ उडऩ्+++(=युक्त)+++-मरुतम्+++(-वृक्ष)+++-**ऒडियव्** ऒरु पोदिऱ् +**तवऴ्न्दन**+++(=)+++ उऱिदडवुमळवि लुरलूडुऱ्ऱु निऩ्ऱन  
 उऱुनॆऱियोर् तरुमन्विडु तूदुक्कुगन्दन मऱनॆऱियर् मुऱियबिरदानत्तुवन्दन  
 मलर्मगळ् कैवरुड मलर्बोदिऱ्‌चिवन्दन मऱुबिऱवियऱुमुनिवर् मालुक्किसैन्दन मनुमुऱैयिल् वरुवदोर् विमानत्तुऱैन्दन  
 अऱमुडैय विसयनमर् तेरिऱ्ऱिगऴ्न्दन अडलुरगबड मडियवाडिक् कडिन्दन  
