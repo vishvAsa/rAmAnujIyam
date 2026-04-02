@@ -3858,7 +3858,7 @@ y que **nunca quedará** obsoleto.
 कोद्+++(=दोष)+++-अऱ्ऱ मऩम् बॆऱ्ऱार्; +++(सदर्थी→)+++ कॊळ्वार् नऩ्मैच्;  
 +++(सङ्केतभीतिरहितः→)+++ सिऱै+++(=कारागारः)+++ वळर्क्कुञ्+++(=वर्धक)+++ सिल मान्दर्+++(=मनुष्याः)+++ सङ्केतत्ताऱ्+++(ल्)+++  
 चितैयाद+++(=अनश्यत्)+++ तिण्+++(=दृढ)+++-मतियोर्; +++(स-तृणेष्व् असक्तः→)+++ तॆरिन्द् अद् ओवार्+++(=अनङ्गीकुर्वाणाः)+++;  
-पॊऱै+++(=क्षमा)+++-निलत्तिल्+++(=विषयि/भूम्या अपि)+++ मिगुम् पुनितर् काट्टुम् ऎङ्गळ्  
+पॊऱै+++(=क्षमा)+++-निलत्तिल्+++(=विषयि/भूम्या अपि)+++ मिगुम् पुनितर् +++(आचार्याः)+++ काट्टुम् ऎङ्गळ्  
 पॊऩ्ऱाद+++(=अनश्यत्)+++ नऩ्-ऩॆऱियिऱ्+++(=मार्गे)+++ पुगुदुवारे+++(=प्रविशेयुर् हि)+++।  
 </details>
 
@@ -3875,6 +3875,39 @@ y que **nunca quedará** obsoleto.
 क्षमा-विषये भूम्य्-अपेक्षयोत्कृष्टैः पूतैः प्रदर्श्यमानम् अस्मदीयम् अविनश्वरं सन्मार्गं प्रविशेयुः ॥
 </details>
 
+<details><summary>English</summary>
+
+Those who **have** faith in the truths **revealed** in the Vedas,  
+who **have** keenness of intellect,  
+who **would never think** of **speaking** in depreciation of real merit,  
+whose minds **have become** pure  
+by the **training** which they have received from their gurus,  
+who **have** lofty aims,  
+who, being firm of mind, **would never swerve** from the right path  
+owing to the fear of perverted **judgements**  
+and who **would never care** for what **is** worthless --  
+these men **will enter** the righteous path  
+which **will never become** obsolete  
+and which **has been indicated** by our pure-minded ācāryas  
+who **had** more forbearance than even the Earth.
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **tienen** fe en las verdades **reveladas** en los Vedas,  
+que **tienen** agudeza del intelecto,  
+que **nunca pensaría** en **hablar** de **depreciación** del mérito real,  
+cuyas mentes **se han vuelto** puras  
+por el **entrenamiento** que **han recibido** de sus gurús,  
+que **tienen** objetivos elevados,  
+quien, **siendo** firme de mente, **nunca se desviaría** del camino correcto  
+por miedo a **juicios** pervertidos  
+y a quién **nunca le importaría** lo que **no vale** nada...  
+Estos hombres **entrarán** en el camino recto  
+que **nunca quedará** obsoleto  
+y que **ha sido indicado** por nuestros ācāryas de mente pura  
+quien **tenía** más paciencia que incluso la Tierra.
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -3889,51 +3922,160 @@ y que **nunca quedará** obsoleto.
 पॊऩ्ऱाद नऩ्ऩॆऱियिऱ् पुगुदुवारे।  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द श्लोकार्थत्तै मन्दमतिकळुमऱियुम्बडि द्रमिडभाषारूपमाऩ ऒरु पाट्टाले परिवर्तनम् पण्णिक्काट्टुगिऱार् मऱैयुरैक्कुमित्यादि ।  
+मऱै - वेदङ्गळ्, उरैक्कुम् - सॊल्लुगिऱ, पॊरुळॆल्लाम् - अर्थङ्गळॆल्लाम्, मॆय्यॆऩ्ऱु - शक्यमॆऩ्ऱु, ओर्वार् - अभ्युपगमम् पण्णियिरुक्किऱवर्, श्लोकत्तिल् तादृशव्यक्तिदौर्लभ्याभिप्रायत्ताले आस्तिक्यवान् इत्येकवचनम्।  
+सुकृतवशत्ताले पलरुम् सम्भविक् कलामॆऩ्गिऱ अभिप्रायत्ताले पाट्टिल् मॆय्यॆऩ्ऱोर् ऎऩ्ऱु बहुवचनम्। इदु आस्तिक्यवान् ऎऩ्गिऱ पदत्तिऱ्कर्थम्।  
+इदिल् ऎल्लाम् ऎऩ्ऱदाल् कर्मकाण्डत्तिल् सॊऩ्ऩ अर्थङ्गळे सत्यङ्गळ्। ब्रह्ममॆऩ्बदु कर्मङ्गळिल् कर्त्तावागच् चॊल्लप्पट्ट जीवऩैत् तविर वेऱिल्लैयागैयाल् ब्रह्मकाण्डमॆल्लाम् अन्द जीवऩुक्के स्तावकमे यॊऴिय जीवातिरिक्तमाग ऒरु ब्रह्मत्तैच् चॊल्लुगिऱदऩ्ऱु। अप्पडिप्पट्ट ब्रह्ममॆऩ्गिऱ ऒरु वस्तुवे किडैयादॆऩ्ऱु सॊल्लुम् कबन्धमीमांसकऩ् अदावदु निरीश्वरमीमांसकऩ् वेदान्तरूपमाऩ मऱैयिल् सॊल्लप्पट्ट ब्रह्मत्तै मॆय्यॆऩ्ऱु ऒप्पुक्कॊळ्ळादाल् अवऩ् आस्तिगऩऩ्ऱॆऩ्ऱुम्, निर्विशेषब्रह्ममे सत्यम्, कर्मकर्तक्रियादिभेदबोधकमाऩ वेदभागम् अपच्छेदन्यायत्ताले बाध्यमॆऩ्ऱुम्, अदिल् सॊल्लुवदॆल्लाम् असत्यमॆऩ्ऱुम् सॊल्लुगिऱ राहुमीमांसकऩॆऩ्ऩुम् अद्वैतियुम् आस्ति कऩऩ्ऱॆऩ्ऱुम् ज्ञापिक्कप्पट्टदु। 
+
+मऩ्ऩिय - धारणावत्ताऩ, कूर् - कूर्मैयुडैय, अदावदु नवनवोन्मेषशालिनियाऩ, मदियुडैयार् - बुद्धियै युडैयवर्गळ्। इदु निशित-बुद्धिः ऎऩ्गिऱ पदत्तिऱ्कर्थम्।  
+वण् - श्लाघ्यमाऩ, कुणत्तिल् - इतरर्गळुडैय गुणत्तिलुम्, कुऱै - कुऱैवै अदावदु दोषत्तै, उरैक्क - आरोपित्तुच्चॊल्ल, निऩैविल्लार् - ऎण्णमिल्लादवर्गळ्। इदु अनभ्यसूयुः ऎऩ्बदऱ्कु द्रामिडार्थम्। गुणङ्गळिले दोषारोपम् असूयैयिऱे।  
+कुरुक्कळ्दम्बाल् - गुरुक्कळिडत्तिले, कोदऱ्ऱ - रजस्तमोरूपमाऩ दोषङ्गळ् कलसाद, मऩम्बॆऱ्ऱार् - मऩत्तैप् पॆऱ्ऱवर्गळ्, अदावदु दोषमल्लाद बुद्धियैप्पॆऱ्ऱवर्गळॆऩ्ऱबडि। इदु सत्सम्प्रदायपरिशुद्धमनाः ऎऩ्बदऱ्कु द्रामिडार्थम्।  
+नऩ्मै - नलत्तैये, कॊळ्वार् - यासित्तागिलुम् पॆऱुवर्।  
+इदु सदर्थी ऎऩ्बदऱ्कु द्रामिडार्थम्।  
+
+सिऱै – संसारमागिऱ कारागृहत्तै, वळर्क्कुम् - वृद्धि पण्णानिऱ्किऱ, सिलमान्दर् - सिल मन्दबुद्धिकळुडैय, सङ्केतत्ताल् - नम् सम्प्रदायम् तप्पायिरुन्दलुम् नामिदै विडक्कूडादॆऩ्गिऱ कट्टुप्पाट्टाले, सिदैयाद - सिदऱिप् पोगाद, अदावदु चलित्तुप्पोगाद, तिण् - दृढमाऩ, मदियोर् - निश्चयत्तैयुडैवर्गळ्। इदु सङ्केतभीतिरहितः ऎऩ्बदऱ्कु द्रामिडार्थम्।  
+तॆरिन्ददोरारिति । तॆरिन्दु - क्षुद्रम् ऎऩ्ऱु तॆरिन्दु, अदु - ख्याति-लाभ-पूजा-रूप- क्षुद्र-पुरुषार्थत्तै, ओरार् - आसैप्पडादवर्गळ्। ख्यातिलाभादिगळिल् सङ्गमऱ्ऱवर्कळॆऩ्ऱबडि। इदु सतृणेष्वसक्तः ऎऩ्बदऱ्कु द्रामिडार्थम्।  
+पॊऱै - क्षमैयिऩ्-उडैय, निलत्तिल् - सीमाभूमियिल्, मिगुम् पुऩिदर् - मिगवुम् परिशुद्धर्गळाऩ नम् सम्प्रदायाचार्यर्गळाले, काट्टुम् - काट्टप्पट्ट, ऎङ्गळ् - नम्मुडैय, पॊऩ्ऱाद - नशियाद, शाश्वतमाऩ ऎऩ्ऱबडि। नऩ्ऩॆऱियिल् - सन्मार्गत्तिल्, पुगुदुवारे - पुगुन्दु नडप्पार्गळ्। इन्द रहस्यत्रयसारत्तिल् सॊल्लप्पट्ट सम्प्रदायागतमाऩ नम्मुडैय सन्मार्गत्तैये आश्रयित्तु अदैये अवश्यमनुष्ठिप्पार्गळॆऩ्ऱबडि। इदु सद्वर्तनीमनुविधास्यति शाश्वतीन्नः ऎऩ्बदिऩ् द्रामिडार्थम्।  
+</details>
 
 
-Those who have faith in the truths revealed in the Vedas, who have keepness of intellect, who would never think of speaking in depreciation of real merit, whose minds have become pure by the training which they have received from their gurus, who have lofty aims, who, being firm of mind, would never swerve from the right path owing to the fear of perverted judgements and who would never care for what is worthless -- these men will enter the righteous path which will never become obsolete and which has been indicated by our pure-minded ācāryas who had inore forbearance than even the Earth.
-
-
-
+## विनय-वचनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदुवऴि यिऩ्ऩमुदॆऩ्ऱवरिऩ्बुलऩ् वेऱिडुवार्   
-इदुवऴिया मलवॆऩ्ऱऱिवा रॆङ्गडेसिगरे   
-इदुवऴि यॆय्दुग वॆऩ्ऱुगप्पा लॆऩ् पिऴै पॊऱुप्पार्   
-इदुवऴि यामऱैयोररुळाल् यामिसैन्दऩमे। (५३)
+"इदु +++(ग्रन्थोक्त-)+++ वऴिय् इऩ्ऩ्-अमुद्" **ऎऩ्ऱ् अवर्** +++(अल्प-)+++इऩ्+++(=स्वादु)+++-पुलऩ्+++(=इन्द्रिय-विषयम्)+++ वेऱ् **इडुवार्**,  
+"इदु वऴिय् आम् अलव्" ऎऩ्ऱ् **अऱिवार्** ऎङ्गळ्+देशिकरे  
+"इदु +++(ग्रन्थोक्त-)+++वऴिय् ऎय्दुगव्+++(=वर्धनीयम्)+++" ऎऩ्ऱ् उगप्पाल् ऎऩ् +++([ग्रन्थ-गत])+++ पिऴै+++(=दोषम्)+++ **पॊऱुप्पार्**+++(=क्षमन्ते)+++  
+इदु वऴिय् आ+++(ग)+++ मऱैयोर् अरुळाल् याम् **इसैन्दऩमे**। (५३)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"अयं पन्थाः स्वादव् अमृतम्" इति जानन्तः,  
+भोग्य-विषयान्तराणि पृथक् कुर्वाणाः,  
+"एते न मार्गा" इति जानन्तो ऽस्मद्-देशिकाः,  
+"अयं मार्गो वर्धताम्" इति प्रीत्या मद्-+++([ग्रन्थ-गत-])+++दोषं क्षाम्येयुः,  
+"अयं पन्था" इति वेद-विदां कृपया वयम् अभिलषितं मार्गं प्राप्ताः स्मः" इति जानन्तु ॥  
+[[P443]]
+</details>
+
+
+
+<details><summary>English</summary>
+
+Our ācāryas **will say** :--  
+
+> "This **is** the right path" 
+
+and **will look** upon (this treatise) as **being** delicious like nectar;  
+they **can show** how the pleasures of the senses **are** mean  
+and **are** different from the righteous way  
+(that **is** described in this treatise).  
+Owing to their desire that the path **indicated** here **should prevail**,  
+they **will overlook** any mistakes of ours that **may be found** (in the book).  
+We **have**, by the grace of our ācāryas, **accepted** this as the proper way.
+</details>
+
+<details><summary>Español</summary>
+
+Nuestros ācāryas **dirán** :--  
+
+> "Este **es** el camino correcto" 
+
+y **considerará** (este tratado) como **ser** delicioso como el néctar;  
+ellos **pueden mostrar** cómo los placeres de los sentidos **son** malos  
+y **son** diferentes del camino recto  
+(que **se** describe en este tratado).  
+Debido a su deseo de que el camino **indicado** aquí **prevalezca**,  
+ellos **pasarán por alto** cualquier error nuestro que **pueda encontrarse** (en el libro).  
+Nosotros **hemos**, por la gracia de nuestros ācāryas, **aceptado** esto como el camino correcto.
 </details>
 
 <details><summary>मूलम्</summary>
 
 इदुवऴि यिऩ्ऩमुदॆऩ्ऱवरिऩ्बुलऩ् वेऱिडुवार्   
 इदुवऴिया मलवॆऩ्ऱऱिवा रॆङ्गडेसिगरे   
-इदुवऴि यॆय्दुग वॆऩ्ऱुगप्पा लॆऩ् पिऴै पॊऱुप्पार्   
-इदुवऴि यामऱैयोररुळाल् यामिसैन्दऩमे। (५३)
+इदुवऴिय् ऎय्दुग वॆऩ्ऱुगप्पालॆऩ् पिऴै पॊऱुप्पार्   
+इदुवऴिया मऱैयोररुळाल् यामिसैन्दऩमे। (५३)
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्-पडि इन्द प्रबन्धोक्तमार्गत्तिल् आस्तिक्यादिगुणमुडैय सिलर् सञ्चरिप्पार्गळागैयाल् इदऱ्कु अधिकारिदौर्लभ्यमिल्लैयॆऩ्ऱु श्लोकत्तालुम् पाट्टालुम् उपपादित्तु हृष्टराय् सदसद्विवेकचतुरराऩ नम्माचार्यर्गळ् इन्द प्रबन्धोक्तमार्गमे इऩिमैयाऩ मोक्षसाधनमॆऩ्ऱु उपदेशित्तु इन्द मार्गमे मेल्मेलुम् नडैबॆऱवेणुमॆऩ्गिऱ उगप्पाले इदिल् सम्भावितमाऩ मनःकालुष्यादिजनितमाऩ दोषङ्गळैयॆल्लाम् सहित्तुक्कॊळ्वार्गळॆऩ्ऱुम् वेदान्तिकळाऩ नम्माचार्यर्गळुडैय कृपैयाले इन्द मार्गमे घण्टापथमॆऩ्ऱु नाम् इसैयप्पॆऱ्ऱोमॆऩ्ऱुम् सॊल्लिसन्तुष्टरागिऱार् इदुवऴि यिऩ्ऩमुदॆऩ्ऱवरित्यादि ।  
+इदु वऴियाम् - इन्द प्रबन्धत्तिऱ् सॊऩ्ऩ भक्तिप्रपत्तिकळे मोक्षत्तिऱ्कु उपायमाम्, अल - केवलवाक्यजन्यज्ञानम् मुदलाऩदु मोक्षोपायमऩ्ऱु, ऎऩ्ऱऱिवार् - ऎऩ्ऱु दृढमागत् तॆरिन्दवर्गळाऩ, ऎङ्गळ् तेसिगरे - अस्मदाचार्यर्गळाऩ नाथयामुनयतिवरादिगळे, इङ्गु अवधारणत्ताले अस्मदाचार्यव्यतिरिक्तर्गळ् इप्पडि सदसद्विवेकम् पण्ण चतुरर्गळऩ्ऱॆऩ्ऱु द्योतितम्।  
+इदु वऴि - इन्द प्रबन्धोक्तमार्गमे, इऩ्ऩमुदु - परमानन्दमाऩ मोक्षजनकम्। ऎऩ्ऱवर् - ऎऩ्ऱु उपदेशित्तवर्गळ्, इऩ्बुलऩ् - अल्पसुखमाऩ इन्द्रियविषयङ्गळै,  
+वेऱिडुवार् - ताङ्गळुम् वेऱिट्टु आश्रितर्गळुक्कुम् वेऱिट्टु वैप्पार्गळ्।  
+परित्याज्यतया वेऱिट्टुवैत् तार्गळॆऩ्ऱबडि।  
+इदु वऴि - इन्द प्रबन्धोक्तमार्गमे, ऎय्दुगवॆऩ्ऱुगप्पाल् - मेऩ्मेलुम् अभिवृद्धमागवेण्डुमॆऩ्गिऱ (उगप्पाले) तिरुवुळ्ळत्तिऩ् सन्तोषत्ताले, ऎऩ् पिऴै पॊऱुप्पार् - इदिल् अनवधानत्ताले सम्भावितमाऩ स्खालित्यत्तैयॆल्लाम् सहित्तुक्कॊळ्वर्,  
+मऱैयोररुळाल् - वेदान्तिकळाऩ नम्माचार्यर्गळुडैय स्खालित्यसहनपूर्वकमाऩ इन्द वऴिमेऩ्मेलुम् अभिवृद्धमागवेण्डुमॆऩ्गिऱ कृपैयाले,  
+इदु - इदुवे, वऴि - सन्मार्गमॆऩ्ऱु,  
+याम् - आचार्यकृपापात्रऩाऩ याम्,  
+इसैन्दऩमे - अङ्गीगरित्तोम्।  
+आचार्यर्गळुडैय कृपैयाले आचार्यगळुगन्द इप् प्रबन्धोक्तमार्गमे सन्मार्गमॆऩ्ऱु नाम् अङ्गीगरित्तोमॆऩ्ऱबडि।  
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"Our ācāryas will say :-- "This is the right path" and will look upon (this treatise) as being delicious like nectar; they can show how the pleasures of the senses are mean and are different from the righteous way (that is described in this treatise). Owing to their desire that the path indicated here should prevail, they will overlook any mistakes of ours that may be found (in the book). We have, by the grace of our ācāryas, accepted this as the proper way.
+ऎट्टुम्+++(→८, अष्टाक्षरम्)+++ इरण्डुम्+++(→२, द्वयम्, द्वय-चरमश्लोकौ)+++ अऱियादव् ऎम्मैय् इवैय् **अऱिवित्त्**  
+ऎट्टव् ऒण्णादव् इडन् **तरुम्** ऎङ्गळ् अम्-माधवऩार्   
+"मुट्ट+++(=पूर्ण)+++ विऩैत्-तिरण्+++(ळ्=यूथः)+++ **माळ**+++(=नाशं)+++ **मुयऩ्ऱ्+++(=यत्नम्)+++ इडुम्**, **अञ्ज्+++(=भयं)+++ अल्**" ऎऩ्ऱार्   
+कट्ट्-ऎऴिल्+++(=बन्धुर)+++-वाचकत्ताऱ् कलङ्गा निलै **पॆऱ्ऱऩमे**। (५४)
+</details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+<details><summary>नीलमेघः (सं)</summary>
+
+अष्टकं+++(→८, अष्टाक्षरम्)+++ द्वयं +++(→२, द्वयम्, द्वय-चरमश्लोकौ)+++ च अजानतो ऽस्मान् एतत् प्रबोध्य   
+अप्राप्य-पद-प्रदस्य तस्य अस्मन्-माधवस्य —  
+कार्त्स्न्येन पाप-समूहो यथा नश्येत् तथा प्रयतमानस्य  
+"मा भैषीर्" इति वदतः कात्स्न्येन प्रकाशकेन वाक्येन  
+अक्षोभ्य-दशाम् अलभामहि ॥
+</details>
+
+<details><summary>English</summary>
+
+**I was** so ignorant that  
+**I did not know** even that eight and two make ten  
+(it **may mean** also  
+'**I did not know** the Dvaya (the two) nor did **I know** the aṣṭākṣara (the eight )');  
+Our Madhava who **is** eager to bestow on us Paramapada,  
+which **is** most difficult of access,  
+**has taught** me (through the ācāryas) the mantra of eight syllables and the other two mantras (Dvaya and Carama śloka).  
+By His brilliant and noble speech **saying**:  
+"**I will see** to the absolution of all your sins;  
+**Do not be afraid** "-  
+By these words **I have attained** the state of staunch faith.
+</details>
+
+<details><summary>Español</summary>
+
+**Yo era** tan ignorante que  
+**No lo sabía** Incluso que ocho y dos **son** diez.  
+(**puede significar** también  
+'**No conocía** el Dvaya (los dos) ni **yo conocía** el aṣṭākṣara (los ocho)');  
+Nuestro Madhava, que **está** deseoso de **otorgarnos** Paramapada,  
+que **es** de más difícil acceso,  
+**me ha enseñado** (a través de los ācāryas) el mantra de ocho sílabas y los otros dos mantras (Dvaya y Carama śloka).  
+Por Su brillante y noble discurso **diciendo**:  
+"**Me encargaré** de la **absolución** de todos tus pecados;  
+**No tengas miedo** "-  
+Con estas palabras **he alcanzado** el estado de fe firme.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 ऎट्टुमिरण्डु मऱियादवॆम्मै यिवैयऱिवित्  
-तॆट्टवॊण्णाद विडन्दरु मॆङ्गळम्मादवनार्  
-मुट्ट विनैत्तिरण्माळ मुयऩ्ऱिडु मञ्जलॆऩ्ऱार्  
-कट्टॆऴिल् वासगत्ताऱ्‌ कलङ्गा निलै पॆऱ्ऱनमे. (54)
+तॆट्टवॊण्णाद विडन्दरु मॆङ्गळम्मादवऩार्   
+मुट्ट विऩैत्तिरण्माळ मुयऩ्ऱिडु मञ्जलॆऩ्ऱार्   
+कट्टॆऴिल् वासगत्ताऱ् कलङ्गा निलै पॆऱ्ऱऩमे। (५४)
 </details>
 
-<details><summary>मूलम् (त॰प॰)</summary>
 
-ऎट्टुमिरण्डु मऱियादवॆम्मै यिवैयऱिवित्  
-तॆट्टवॊण्णाद विडन्दरु मॆङ्गळम्मादवनार्  
-मुट्ट विनैत्तिरण्माळ मुयऩ्ऱिडु मञ्जलॆऩ्ऱार्  
-कट्टॆऴिल् वासगत्ताऱ्‌ कलङ्गा निलै पॆऱ्ऱनमे. (54)
-</details>
 
-I was so ignorant that I did not know even that eight and two make ten[^125] * ; Our Madhava who is eager to bestow on us Paramapada, which is most difficult of access, has taught me (through the ācāryas) the mantra of eight syllables and the other two mantras (Dvaya and Carama śloka). By His brilliant and noble speech saying: "I will see to the absolution of all your sids; Do not be afraid "-By these words I have attained the state of staunch faith,
 
-[^125]: it may mean also 'I did not know the Dvaya (the two) nor did I know the aṣṭākṣara (the eight )
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
