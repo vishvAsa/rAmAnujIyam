@@ -3711,20 +3711,20 @@ sólo para el **cumplimiento** de cuyos propósitos **existimos**.
 ऎऩ्ऱु मनोरथित्तु उत्तानदत्ताननऩाय् प्रतीक्षित्तुक्कॊण्डिरुक्किऱोम्।  
 </details>
 
-### फल-स्तुतिः
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 चॆप्पच् चॆविक्क्+++(=कर्णाय)+++ अमुद् ऎऩ्ऩत् **तिगऴुञ्**+++(=काशमानम्)+++, सॆऴुङ्+++(=समृध्यद्)+++-गुणत्तुत्  
-तप्प्-अऱ्ऱ्-अवर्क्कुत् तामेय् **उगन्दु तरुन्** तगवाल्+++(=दयया)+++  
-ऒप्प्+++(=सम)+++-अऱ्ऱ नाऩ्-मऱैय्-उळ्ळक्-करुत्तिल् **उऱैत्त्+++(=उषित्वा)+++ उरैत्त+++(=उक्ता)+++**  
-मुप्पत्त्-इरण्ड् इवै मुत्+++(-विध-)+++-तमिऴ्-सेर्न्द-मॊऴित्-तिरुवे+++(=श्रीर् हि)+++. (51)
+तप्प्-अऱ्ऱ्-अवर्क्कुत् +++(शिष्येभ्यः)+++ तामेय् **उगन्दु तरुन्** तगवाल्+++(=दयया)+++  
+ऒप्प्+++(=सम)+++-अऱ्ऱ नाऩ्-मऱैय्-उळ्ळक्-करुत्तिल् **उऱैत्त्+++(=उषित्वा [मद्-द्वारा])+++ उरैत्त+++(=उक्ता)+++**  
+मुप्पत्त्-इरण्ड् इवै +++(पक्षे मणिः, वक्तृ-वचन-विषय-वैलक्षण्य→)+++मुत्+++(-विध-[प्रवाळ→])+++-तमिऴ्-सेर्न्द-+++(संस्कृत-)+++मॊऴित्-तिरुवे+++(=श्रीर् हि [ग्रन्थस्यास्य])+++. (51)
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-प्रवचने श्रवणयोर् असृतम् इति प्रकाशमानाः श्लाघ्य-गुणवद्भ्यो निर्दोषिभ्यः स्वयमेव प्रीत्या ददत्या दयया  
-निरुपम-चतुर्-वेद्यन्तःस्थ-तात्पर्यं  
-**संस्पृश्य प्रोक्ताः** द्वात्रिंशद् इमाः त्रिविध-द्राविडी-युक्त-शब्द-श्रियः॥ 
+प्रवचने श्रवणयोर् असृतम् इति प्रकाशमानाः श्लाघ्य-गुणवद्भ्यो निर्दोषिभ्यः  
+स्वयमेव प्रीत्या +++(शिष्येभ्यो)+++ ददत्या दयया  
+निरुपम-चतुर्-वेद्य्-अन्तः-स्थ-तात्पर्यं  
+**संस्पृश्य +++([मद्-द्वारा])+++ प्रोक्ताः** द्वा-त्रिंशद् इमाः +++(वक्तृ-वचन-विषय-वैलक्षण्य→)+++त्रि-विध--द्राविडी-युक्त-+++(संस्कृत-)+++शब्द-श्रियः +++([ग्रन्थस्यास्य])+++॥ 
 </details>
 
 
@@ -3736,73 +3736,182 @@ sólo para el **cumplimiento** de cuyos propósitos **existimos**.
 ऒप्पऱ्ऱ नाऩ् मऱैयुळ्ळक्करुत्तिलुऱैत्तुरैत्त मुप्पत्तिरण्डिवै मुत्तमिऴ्सेर्न्दमॊऴित्तिरुवे। (५१)
 </details>
 
+<details><summary>English</summary>
+
+These thirty-two Tamil verses, which, when recited, **are** like nectar to the ears (that hear them),  
+which **explain** clearly, the truths that **lie** deep within the four Vedas  
+the like of which **cannot be seen** elsewhere  
+and which **became possible** only owing to the compassion of those ācāryas  
+who **delight**, of their own accord, to **impart instruction** to śiṣyas,  
+when they **find** in them integrity of character and **freedom** from faults like envy ----  
+these thirty-two verses **form** an ornament to this treatise by virtue of these three qualities viz., their beautiful diction, their wealth of ideas and their fitness for being sung.
+</details>
+
+<details><summary>Español</summary>
+
+Estos treinta y dos versos tamiles, que, cuando se recitan, **son** como néctar para los oídos (que los **escuchan**),  
+que **explican** claramente las verdades que **yacen** en lo profundo de los cuatro Vedas  
+algo parecido **no se puede ver** en ningún otro lugar  
+y lo cual **fue posible** sólo debido a la compasión de esos ācāryas  
+quienes **se deleitan**, por su propia voluntad, en **impartir instrucción** a śiṣyas,  
+cuando **encuentran** en ellos integridad de carácter y **libertad** de faltas como la envidia ----  
+Estos treinta y dos versos **forman** un adorno de este tratado en virtud de estas tres cualidades, a saber, su hermosa dicción, su riqueza de ideas y su idoneidad para ser cantados.
+</details>
+
+
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इऩि निगमनाधिकारार्थसङ्ग्राहकमाऩ ऒरु पाट्टाले तत्तदधिकारार्थ सङ्ग्राहकङ्गळाऩ मुप्पत्तिरण्डु पाट्टुक्कळिऩ् महिमैयैच् चॊल्लि इवैगळे वक्तृवचनवैलक्षणङ्गळैयुडैय इन्द मणिप्रवाळरूपमाऩ रहस्यत्रयसार प्रबन्धत्तिऱ्कत्यन्तशोभावहङ् गळॆऩ्गिऱार् सॆप्पच्चॆविक्कमुदित्यादि ।  
+इऩि निगमनाधिकारार्थसङ्ग्राहकमाऩ ऒरु पाट्टाले तत्तदधिकारार्थ-सङ्ग्राहकङ्गळाऩ मुप्पत्तिरण्डु पाट्टुक्कळिऩ् महिमैयैच् चॊल्लि  
+इवैगळे वक्तृवचनवैलक्षणङ्गळैय्-उडैय  
+इन्द मणिप्रवाळरूपमाऩ रहस्यत्रयसार प्रबन्धत्तिऱ्क् अत्यन्तशोभावहङ्गळ् ऎऩ्गिऱार् सॆप्पच्चॆविक्कमुदित्यादि ।  
+
 सॆप्प - गानत्तोडु उच्चरिक्क,सॆविक्कु - श्रोताक्कळुडैय कादुगळुक्कु, अमुदॆऩ्ऩ - अमृतमॆऩ्ऩलाम्बडि,  
 तिगऴुम् - विळङ्गानिऱ्किऱ,  
 सॆऴुम् - श्लाघ्यमाऩ,  
 कुणत्तु - शमदमाद्यात्मगुणङ् गळिले,  
 तप्पऱ्ऱवर्क्कु - अवगुणलेशमिल्लाद सच्छिष्यर्गळुक्कु, उगन्दु - सन्तोषित्तु, तगवाल् - कृपैयाले,  
-तामे तरुम् - ताङ्गळे तरक्कूडिऩदुगळायुम्, उपदेशिक्कक् कूडिऩदुगळायुमॆऩ्ऱबडि।  
-ऒप्पऱ्ऱ - सदृशमल्लाददुगळाऩ, नाऩ्मऱै - सशिरस्कङ्गळाऩ नाऩ्गु वेदङ्गळुडैय, इदु स्मृतिपुराणादिगळुक्कुमुबलक्षणम्। उळ्ळक्करुत्तिल् - गूढमायुळ्ळ परमदात्पर्यत्तिल्, उऱैत्तु - सुवर्णत्तै उऱैगल्लिले तेय्प्पदु पोल् ऎऩ्ऩुडैय बुद्धियै निगर्षणम् पण्णि, वेदङ्गळिऩ् परमदात्पर्यत्तै पुनः पुनः परिचयम्बण्णि यॆऩ्ऱबडि। उरैत्त - सावधानमागच् चॊल्लप्पट्टदायुमुळ्ळ, मुप्पत्तिरण्डिवै - इन्द मुप्पत् तिरण्डुबाट्टुगळुम्, मुत्तमिऴ् सेर्न्द - वक्तृवचनविषयवैलक्षण्यरूपङ्गळाऩ मूऩ्ऱु गुणङ्गळैयुडैयप्रवाळम् पोऩ्ऱ तमिऴोडे कूडिऩदाऩ, मॊऴि - श्लाघ्यवचनरूपमाऩ इप् प्रबन्धत्तिऱ्कु, तिरुवे - श्रीये, अत्यन्तशोभावहङ्गळे ऎऩ्ऱबडि।  
+तामे तरुम् - ताङ्गळे तरक्कूडिऩदुगळ् आयुम्, उपदेशिक्कक् कूडिऩदुगळायुमॆऩ्ऱबडि।  
+ऒप्पऱ्ऱ - सदृशमल्लाददुगळाऩ, नाऩ्मऱै - सशिरस्कङ्गळाऩ नाऩ्गु वेदङ्गळुडैय, इदु स्मृतिपुराणादिगळुक्कुमुबलक्षणम्।  
+उळ्ळक्करुत्तिल् - गूढमायुळ्ळ परमदात्पर्यत्तिल्, उऱैत्तु - सुवर्णत्तै उऱैगल्लिले तेय्प्पदु पोल् ऎऩ्ऩुडैय बुद्धियै निगर्षणम् पण्णि,  
+वेदङ्गळिऩ् परमदात्पर्यत्तै पुनः पुनः परिचयम्बण्णि यॆऩ्ऱबडि।  
+उरैत्त - सावधानमागच् चॊल्लप्पट्टदायुमुळ्ळ, मुप्पत्तिरण्डिवै - इन्द मुप्पत् तिरण्डुबाट्टुगळुम्,  
+मुत्तमिऴ् सेर्न्द - वक्तृवचनविषयवैलक्षण्यरूपङ्गळाऩ मूऩ्ऱु गुणङ्गळैयुडैय प्रवाळम् पोऩ्ऱ तमिऴोडे कूडिऩदाऩ, मॊऴि - श्लाघ्यवचनरूपमाऩ इप् प्रबन्धत्तिऱ्कु, तिरुवे - श्रीये, अत्यन्तशोभावहङ्गळे ऎऩ्ऱबडि।  
 </details>
 
 
 
-These thirty-two Tamil verses, which, when recited, **are** like nectar to the ears (that hear them), which explain clearly, the truths that lie deep within the four Vedas the like of which cannot be seen elsewhere and which became possible only owing to the compassion of thoseācāryas who delight, of their own accord, to impart instruction to śiṣyas, when they find in them integrity of character and freedom from faults like envy ---- these thirty-two verses form an ornament to this treatise by virtue of these three qualities viz., their beautiful diction, their wealth of ideas and their fitness for being sung.
+## पूरो-वीक्षा
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-आस्तिक्यवान्निशितबुद्धिरनभ्यसूयुस्सत्संप्रदायपरिशुद्धमनास्सदर्थी । सङ्केतभीतिरहितस्सतृणेष्वसक्तस्सद्वर्तनीमनुविधास्यति शाश्वतीन्नः ॥ ७७ ॥
+आस्तिक्यवान् निशित-बुद्धिर् अनभ्यसूयुस्  
+सत्-संप्रदाय--परिशुद्ध-मनास् सद्-अर्थी ।  
++++(गतानुगतिकता→)+++सङ्केत-भीति-रहितस् स-तृणेष्व् अ-सक्तस्  
+सद्-वर्तनीम् **अनुविधास्यति** शाश्वतीन् नः ॥ ७७ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आस्तिक्यवान् निशित-बुद्धिर् अनभ्यसूयुस्  
+सत्-संप्रदाय--परिशुद्ध-मनास् सद्-अर्थी ।  
++++(गतानुगतिकता→)+++सङ्केत-भीति-रहितस् स-तृणेष्व् अ-सक्तस्  
+सद्-वर्तनीम् **अनुविधास्यति** शाश्वतीन् नः ॥ ७७ ॥
+</details>
+
+<details><summary>English</summary>
+
+There **will be found** someone (or other)  
+who **has** faith in religion,  
+who **is** keen of intellect and (at the same time) free from envy,  
+whose mind **has become** pure by following the righteous tradition of good men,  
+whose aim **is** to **attain** the highest goal,  
+who **is** not afraid of conventional judgments  
+and who **would look** upon wealth and worldly success  
+as if they **were** mere trash -  
+He **will** certainly **follow** the virtuous path (which is described in this treatise)  
+and which **will never become** obsolete.
+</details>
+
+<details><summary>Español</summary>
+
+Allí **se encontrará** alguien (u otro)  
+que **tiene** fe en la religión,  
+que **es** entusiasta de intelecto y (al mismo tiempo) libre de envidia,  
+cuya mente **se ha vuelto** pura al **seguir** la justa tradición de los hombres buenos,  
+cuyo objetivo **es alcanzar** la meta más alta,  
+que **no tiene** miedo de los juicios convencionales  
+y quién **miraría** la riqueza y el éxito mundano  
+como si **fueran** mera basura -  
+Él **seguramente seguirá** el camino virtuoso (que **se describe** en este tratado)  
+y que **nunca quedará** obsoleto.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 आस्तिक्यवान्निशितबुद्धिरनभ्यसूयुस्सत्संप्रदायपरिशुद्धमनास्सदर्थी । सङ्केतभीतिरहितस्सतृणेष्वसक्तस्सद्वर्तनीमनुविधास्यति शाश्वतीन्नः ॥ ७७ ॥
 </details>
 
-There will be found someone (or other) who has faith in religion, who is keen of intellect and (at the same time) free from envy, whose mind has become pure by following the righteous tradition of good men, whose aim is to attain the highest goal, who is not afraid of conventional judgments and who would look upon wealth and worldly success as if they were mere trash - He will certainly follow the virtuous path (which is described in this treatise) and which will never become obsolete.
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+इप्पडि इन्द ग्रन्थम् परमरहस्यार्थबोधकमायुम् अधिकारार्थसङ्ग्राहकङ्गळाऩ श्लोकङ्गळालुम् पासुरङ्गळालुम् अलङ्कृतमायुम् अतिसरळमाऩ मणिप्रवाळनडैयिले अमैन्दिरुन्दालुम् इदै सेवित्तु इदिल् सॊऩ्ऩ शाश्वतमाऩ सन्मार्गत्तै यारावदु आदरिप् पार्गळो वॆऩ्ऩ? ‘‘उत्पत्स्यते मम तु कोऽपि समानधर्मा कालो ह्ययं निरवधिर्विपुला च पृथ्वी’’ ऎऩ्ऱु महाकवि सॊऩ्ऩबडि नम्बोलियाऩ ऒरुवऩ् नम्मुडैय सन्मार्गत्तिलुम् नडप्पाऩागैयालिन्द ग्रन्थम् सफलमागवे आगुमॆऩ्गिऱार् आस्तिक्यवानिति । 
 
-मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆऩ्ऱोर्वार्  
-मन्निय कूर्मदियुडैयार् वण्गुणत्तिल्  
-कुऱैयुरैक्क निनैविल्लार् कुरुक्कडम्बाल्  
-कोदऱ्ऱ मनम्बॆऱ्ऱार् कॊळ्वार् नम्मैच्  
-चिऱैवळर्क्कुञ् जिलमान्दर् सङ्गेदत्ताऱ्‌
+आस्तिक्यवान् – वेदोक्तङ्गळाऩ ऎल्ला अर्थङ्गळैयुम् परमार्थमॆऩ्ऱॆण्णमुडैयवऩुम्, निशितबुद्धिः – नवनवोन्मेषशालियाऩ प्रतिभैयैयुम् मेधैयैयुमुडैयवऩुम्, अनभ्यसूयुः – सदगुणत्तिल् दोषम् सॊल्ल निऩैक्कादवऩुम्,  
+सत्सम्प्रदायपरिशुद्धमनाः – आचार्योपदिष्टमाऩ सम्प्रदायार्थश्रवणत्ताले रजस्तमस्सुक्कळऱ्ऱुप्पोऩ मऩदै युडैयवऩुम्,  
+सदर्थी – सत्पदार्थङ्गळैये ग्रहिक्किऱवऩुम्,  
+
+सङ्केतभीतरहितः – सद्-अर्थङ्गळ् समीचीनम् ऎऩ्ऱु मऩदिल् पट्ट् इरुक्कच् चॆय्देयुम्,  
+
+> तप्प् आऩालुम् नाम् ऎल्लारुम् इप्पडिये अनुष्ठिक्कक् कडवोम्  
+
+ऎऩ्गिऱ पामर-सङ्केतत्तिऱ्कु भयप् पडादवऩुम्,+++(5)+++  
+सतृणेष्वसक्तः - तृणप्रायङ्गळाऩ प्रयोजनान्तरङ्गळोडु कूडिय असन्मार्गङ्गळिले सम्बन्ध-मऱ्ऱवऩुमाऩ ऒरुवऩ्, नः – भाष्यकारप्रभृतिपरम्परया शिक्षितसम्प्रदायस्थर्गळाऩ नम्मुडैय, शाश्वतीं –आचन्द्रार्कम् नित्यमाग इरुक्कप्पोगिऱ, सद्वर्तनीं - इन्द ग्रन्थत्तिल् सॊऩ्ऩ नल्ल मार्गत्तै, अनुविधास्यति – अनुसरित्ते पोगुवऩॆऩ्गै।  
 </details>
 
-<details><summary>मूलम् (त॰प॰)</summary>
 
-मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆऩ्ऱोर्वार्  
-मन्निय कूर्मदियुडैयार् वण्गुणत्तिल्  
-कुऱैयुरैक्क निनैविल्लार् कुरुक्कडम्बाल्  
-कोदऱ्ऱ मनम्बॆऱ्ऱार् कॊळ्वार् नम्मैच्  
-चिऱैवळर्क्कुञ् जिलमान्दर् सङ्गेदत्ताऱ्‌
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(आस्तिक्यवान्→)+++ "मऱैय्-**उरैक्कुम्** पॊरुळ् ऎल्ला मॆय्य्+++(=सत्यम्)+++" ऎऩ्ऱ् **ओर्वार्**+++(=अङ्गीकुर्वाणाः)+++   
++++(निशित-बुद्धिः→)+++ मऩ्ऩिय+++(=स्थिर)+++-कूर्+++(=तीक्ष्ण)+++-मतिय्-उडैयार्; +++(अनभ्यसूयुः→)+++ वण्+++(=श्लाघ्य)+++-गुणत्तिल्  
+कुऱैय् उरैक्क निऩैव् इल्लार्; +++(सत्-सम्प्रदाय-परिशुद्ध-मनाः→)+++ गुरुक्कल्-+तम्-पाल्  
+कोद्+++(=दोष)+++-अऱ्ऱ मऩम् बॆऱ्ऱार्; +++(सदर्थी→)+++ कॊळ्वार् नऩ्मैच्;  
++++(सङ्केतभीतिरहितः→)+++ सिऱै+++(=कारागारः)+++ वळर्क्कुञ्+++(=वर्धक)+++ सिल मान्दर्+++(=मनुष्याः)+++ सङ्केतत्ताऱ्+++(ल्)+++  
+चितैयाद+++(=अनश्यत्)+++ तिण्+++(=दृढ)+++-मतियोर्; +++(स-तृणेष्व् असक्तः→)+++ तॆरिन्द् अद् ओवार्+++(=अनङ्गीकुर्वाणाः)+++;  
+पॊऱै+++(=क्षमा)+++-निलत्तिल्+++(=विषयि/भूम्या अपि)+++ मिगुम् पुनितर् काट्टुम् ऎङ्गळ्  
+पॊऩ्ऱाद+++(=अनश्यत्)+++ नऩ्-ऩॆऱियिऱ्+++(=मार्गे)+++ पुगुदुवारे+++(=प्रविशेयुर् हि)+++।  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P442]]  
++++(आस्तिक्यवान्→)+++ "वेदोक्ताः सर्वेऽर्थाः सत्या"  
+इति विश्वसन्तः,  
++++(निशित-बुद्धिः→)+++ स्थिर-तीक्ष्ण-मतिमन्तः,  
++++(अनभ्यसूयुः→)+++ श्रेष्ठ-गुणेषु दोषोक्त्य्-अभिसन्धि-रहिताः,  
++++(सत्-सम्प्रदाय-परिशुद्ध-मनाः→)+++ गुरु-विषये निर्दोषं मनः प्राप्तवन्तः,  
++++(सदर्थी→)+++ अभ्युपगन्तारो हितानाम् अर्थानाम्, +++(सङ्केतभीतिरहितः→)+++ कारागृहं वर्धयतां केषाञ्चिद् अल्प-ज्ञानां सङ्केतेनाक्षोभ्य-सुदृढ-मतयः,  
++++(स-तृणेष्व् असक्तः→)+++ परिदृश्यमानानि क्षुद्र-फलानि अगृह्णन्तः,  
+क्षमा-विषये भूम्य्-अपेक्षयोत्कृष्टैः पूतैः प्रदर्श्यमानम् अस्मदीयम् अविनश्वरं सन्मार्गं प्रविशेयुः ॥
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆऩ्ऱोर्वार्  
+मऩ्ऩिय कूर्मदियुडैयार् वण्गुणत्तिल्  
+कुऱैयुरैक्क निऩैविल्लार् कुरुक्कडम्बाल्  
+कोदऱ्ऱ मऩम्बॆऱ्ऱार् कॊळ्वार् नऩ्मैच्  
+चिऱैवळर्क्कुञ् जिलमान्दर् सङ्गेदत्ताऱ्  
 सिदैयाद तिण्मदियोर् तॆरिन्ददोवार्  
-पॊऱै निलत्तिल् मिगुम् पुनिदर् काट्टुमॆङ्गळ्  
-पॊऩ्ऱाद नन्नॆऱियिऱ्‌ पुगुदुवारे. (52)
+पॊऱै निलत्तिल् मिगुम् पुऩिदर् काट्टुमॆङ्गळ्  
+पॊऩ्ऱाद नऩ्ऩॆऱियिऱ् पुगुदुवारे।  
+</details>
+
+
 
 Those who have faith in the truths revealed in the Vedas, who have keepness of intellect, who would never think of speaking in depreciation of real merit, whose minds have become pure by the training which they have received from their gurus, who have lofty aims, who, being firm of mind, would never swerve from the right path owing to the fear of perverted judgements and who would never care for what is worthless -- these men will enter the righteous path which will never become obsolete and which has been indicated by our pure-minded ācāryas who had inore forbearance than even the Earth.
 
-<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-इदुवऴि यिन्नमुदॆऩ्ऱवरिन्बुलन् वेऱिडुवार्  
-इदुवऴिया मलवॆऩ्ऱऱिवा रॆङ्गडेसिगरे  
-इदुवऴि यॆय्दुग वॆऩ्ऱुगप्पा लॆन् पिऴै पॊऱुप्पार्  
-इदुवऴि यामऱैयोररुळाल् यामिसै न्दनमे. (53)
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुवऴि यिऩ्ऩमुदॆऩ्ऱवरिऩ्बुलऩ् वेऱिडुवार्   
+इदुवऴिया मलवॆऩ्ऱऱिवा रॆङ्गडेसिगरे   
+इदुवऴि यॆय्दुग वॆऩ्ऱुगप्पा लॆऩ् पिऴै पॊऱुप्पार्   
+इदुवऴि यामऱैयोररुळाल् यामिसैन्दऩमे। (५३)
 </details>
 
-<details><summary>मूलम् (त॰प॰)</summary>
+<details><summary>मूलम्</summary>
 
-इदुवऴि यिन्नमुदॆऩ्ऱवरिन्बुलन् वेऱिडुवार्  
-इदुवऴिया मलवॆऩ्ऱऱिवा रॆङ्गडेसिगरे  
-इदुवऴि यॆय्दुग वॆऩ्ऱुगप्पा लॆन् पिऴै पॊऱुप्पार्  
-इदुवऴि यामऱैयोररुळाल् यामिसै न्दनमे. (53)
+इदुवऴि यिऩ्ऩमुदॆऩ्ऱवरिऩ्बुलऩ् वेऱिडुवार्   
+इदुवऴिया मलवॆऩ्ऱऱिवा रॆङ्गडेसिगरे   
+इदुवऴि यॆय्दुग वॆऩ्ऱुगप्पा लॆऩ् पिऴै पॊऱुप्पार्   
+इदुवऴि यामऱैयोररुळाल् यामिसैन्दऩमे। (५३)
 </details>
+
+
 
 "Our ācāryas will say :-- "This is the right path" and will look upon (this treatise) as being delicious like nectar; they can show how the pleasures of the senses are mean and are different from the righteous way (that is described in this treatise). Owing to their desire that the path indicated here should prevail, they will overlook any mistakes of ours that may be found (in the book). We have, by the grace of our ācāryas, accepted this as the proper way.
 
