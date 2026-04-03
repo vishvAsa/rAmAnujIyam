@@ -522,7 +522,7 @@ BHAGAVĀN THE FIRST ĀCĀRYA:
 Bhagavān el primer ācārya:
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “तम् इमं सर्व-संपन्नम्  
 आचार्यं पितरं गुरुम्”  
@@ -530,14 +530,80 @@ Bhagavān el primer ācārya:
 
 ऎऩ्ऱुम्,  
 
+</details>
+
+<details><summary>English</summary>
+
+The Supreme Lord is the foremost of all ācāryas, as may be seen from the following passages - 
+
+> "Him[^f8] [^f9] (Śrīkṛṣṇa) who is possessed of all excellences, who is the ācārya[^8] , father and guru", 
+
+</details>
+
+<details><summary>Español</summary>
+
+El Señor Supremo es el principal de todos los ācāryas,  
+como se puede ver en los siguientes pasajes -
+
+> "Él [^f8] [^f9] (śrīkṛṣṇa) que posee todas las excelencias, que es el ācārya [^8], padre y guru",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तमिमं सर्वसंपन्नमाचार्यं पितरं गुरुम्” ऎऩ्ऱुम्, </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 > “ममाप्य् अखिल लोकानां  
 गुरुर् नारायणो गुरुः” 
 
 ऎऩ्ऱुम्, 
 
+</details>
+<details><summary>English</summary>
+
+> "Nārāyaṇa [^f10] who is the guru of all the world is also my guru", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Nārāyaṇa [^f10] quien es el gurú de todo el mundo  
+> también es mi guru",
+</details>
+
+<details><summary>मूलम्</summary>
+
+“ममाप्यखिल लोकानां गुरुर्नारायणो गुरुः” ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 > “त्वमेव बन्धुश् च गुरुस् त्वमेव” 
 
 ऎऩ्ऱुम्, 
+</details>
+<details><summary>English</summary>
+
+> "Thou[^f11] art my kinsman, and Thou art my guru", 
+
+and 
+</details>
+
+<details><summary>Español</summary>
+
+> "Tú [^f11] eres mi pariente, y tú eres mi guru",
+
+y
+</details>
+
+<details><summary>मूलम्</summary>
+
+“त्वमेव बन्धुश्च गुरुस्त्वमेव” ऎऩ्ऱुम्,  
+</details>
+
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
 
 > “गुरुर् असि, +++(मानुष-गुरु-वैलक्षण्येन)+++ गतिश् चासि जगताम्”  
 > +++(यामुनेन स्तोत्ररत्ने)+++
@@ -547,32 +613,19 @@ Bhagavān el primer ācārya:
 
 <details><summary>English</summary>
 
-The Supreme Lord is the foremost of all ācāryas, as may be seen from the following passages - 
 
-> "Him[^f8] [^f9] (Śrīkṛṣṇa) who is possessed of all excellences, who is the ācārya[^8] , father and guru", 
 
-> "Nārāyaṇa [^f10] who is the guru of all the world is also my guru", 
 
-> "Thou[^f11] art my kinsman, and Thou art my guru", 
-
-and 
 
 > "Thou art[^f12] the guru of all the worlds and likewise their goal". 
 </details>
 
 <details><summary>Español</summary>
 
-El Señor Supremo es el principal de todos los ācāryas,  
-como se puede ver en los siguientes pasajes -
 
-> "Él [^f8] [^f9] (śrīkṛṣṇa) que posee todas las excelencias, que es el ācārya [^8], padre y guru", ",
 
-> "Nārāyaṇa [^f10] quien es el gurú de todo el mundo  
-> también es mi guru",
 
-> "Tú [^f11] eres mi pariente, y tú eres mi guru",
 
-y
 
 > "Tú eres [^f12] el gurú de todos los mundos  
 > y de la misma manera su objetivo".
@@ -580,7 +633,7 @@ y
 
 <details><summary>मूलम्</summary>
 
-“तमिमं सर्वसंपन्नमाचार्यं पितरं गुरुम्” ऎऩ्ऱुम्, “ममाप्यखिल लोकानां गुरुर्नारायणो गुरुः” ऎऩ्ऱुम्, “त्वमेव बन्धुश्च गुरुस्त्वमेव” ऎऩ्ऱुम्, “गुरुरसि गतिश्चासि जगताम्” ऎऩ्ऱुञ् चॊल्लुगिऱप्पडिये सर्वलोकत्तुक्कुम् परमाचार्यऩाऩ सर्वेश्वरऩ्
+“गुरुरसि गतिश्चासि जगताम्” ऎऩ्ऱुञ् चॊल्लुगिऱप्पडिये सर्वलोकत्तुक्कुम् परमाचार्यऩाऩ सर्वेश्वरऩ्
 </details>
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
