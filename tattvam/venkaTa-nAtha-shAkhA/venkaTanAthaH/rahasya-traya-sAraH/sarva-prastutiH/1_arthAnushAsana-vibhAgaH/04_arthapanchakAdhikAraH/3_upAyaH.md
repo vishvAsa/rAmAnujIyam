@@ -54,7 +54,7 @@ is to be considered as indicated in Tirumantra
 in the word namas or namo  
 and in the part ayana (resting place) in Nārāyanāya ;  
 in Dvayam - in the first part,  
-and in the Carama śloka in the first half.
+and in the Carama śloka. in the first half.
 </details>
 
 <details><summary>Español</summary>

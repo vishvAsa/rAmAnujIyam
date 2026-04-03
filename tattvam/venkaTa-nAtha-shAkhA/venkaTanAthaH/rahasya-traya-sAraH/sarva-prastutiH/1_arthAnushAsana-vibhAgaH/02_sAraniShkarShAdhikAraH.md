@@ -24,7 +24,7 @@ title = "०२ सारनिष्कर्षाधिकारः"
 (2) THE CHAPTER ON THE DETERMINATION OF WHAT IS BEST ? page77
 </details>
 
-<details open><summary>प्रस्तावः</summary>
+<details><summary>English - प्रस्तावः</summary>
 
 "The Three Mysteries" have been occasionally referred to in previous chapters. ŚrīVedānta desika presumes that everyone of his readers knows what they are. It is just possible that some of them are not in the know of these mysteries. So a brief account may be necessary of these mantras.
 
