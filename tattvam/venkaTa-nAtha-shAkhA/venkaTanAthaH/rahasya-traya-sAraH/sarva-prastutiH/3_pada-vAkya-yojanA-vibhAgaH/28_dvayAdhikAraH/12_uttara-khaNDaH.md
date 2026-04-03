@@ -1151,7 +1151,7 @@ which **is essential** for all forms of **service**.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्गु चतुर्थि-तादर्थ्य-मुखत्ताले कैङ्कर्यत्तैक् गणिसिक्किऱदु।
+इङ्गु चतुर्थि-तादर्थ्य-मुखत्ताले कैङ्कर्यत्तैग् गणिसिक्किऱदु।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>

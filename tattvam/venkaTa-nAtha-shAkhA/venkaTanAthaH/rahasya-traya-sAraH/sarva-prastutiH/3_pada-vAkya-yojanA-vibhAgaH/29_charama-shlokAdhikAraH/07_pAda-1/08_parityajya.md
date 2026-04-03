@@ -410,7 +410,7 @@ o los upāyas que **producirán** los upāyas **prescritos**",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तऩक्कु दुष्करङ्गळैक् गणिसिक्कुम् दुराशैय् अऱ्ऱ् इरुक्कै। 
+तऩक्कु दुष्करङ्गळैग् गणिसिक्कुम् दुराशैय् अऱ्ऱ् इरुक्कै। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
