@@ -1410,6 +1410,16 @@ these **are** six causes that lead to the acquisition of an ācārya."
 अन्द राजकुमारनुक्कुच् चिल राजान्तरङ्गर् नेर् पट्टुप् पिऱवियैयुणर्त्ति
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि सुकृतपरिपाकादिगळाले आचार्यऩ् सन्निहितऩाऩालुम्, अवऩ् ऒरुविद प्रयोजनमुमिऩ्ऱिक्के इवऩुक्कु मोक्षान्तैश्वर्यम् वर प्रयत्नम् सॆय्वाऩोवॆऩ्ऩ, अप्पडिच्चॆय्वाऩ् ऎऩ्बदै सदृष्टान्तम् उपपादिक्किऱार् अन्द राजा इत्यादियाल् राजान्तरङ्गर् इति ।  
+इदऩाल् राजान्तरङ्गर् राजप्रीत्यर्थमागवे अन्द राजकुमारऩुडैय राज्य-प्राप्त्यनुकूलव्यापारङ्गळिले मुयलुमाप्पोले  
+कृपापरवशर्गळाऩ आचार्यर्गळुम् भगवत्-प्रीत्यर्थमागवे इवऩुडैय कैङ्कर्यसाम्राज्यप्राप्त्यनुकूलव्यापारङ्गळिले प्रयत्निक्कक्कूडुम् ऎऩ्ऩुमिडम् सूचितमागिऱदु। 
+
+पिऱवियै युणर्त्ति - इन्द राजाविऩ् कुमारऩ् नी ऎऩ्ऱु सॊल्लि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेल्-उळ्ळ प्रियतमङ्गळैयुम्  
@@ -1425,6 +1435,12 @@ these **are** six causes that lead to the acquisition of an ācārya."
 
 मेलुळ्ळ प्रियतमङ्गळैयुम् हिततमङ्गळैयुन्दॆळिवित्तु
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रियतमङ्गळ् - यौवराज्यादिगळ्। हिततमङ्गळ् - प्राप्त्युपायङ्गळ्।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1445,6 +1461,15 @@ So also with the Jīva  .
 ऒरुविरगालेयन्द राजावुक्कुम् राजकुमारनुक्कुम् परस्परसंश्लेषाकाङ्क्षैयै युत्तम्भिक्कुमाप्पोलेय् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परस्परेत्यादि ।  
+आकाङ्क्षैयै उत्तम्भिक्कैयावदु इवर्गळुपदेशत्ताल् ताऩ् राजगुमारऩ् ऎऩ्ऩुमऱिवुम्, राजसंश्लेषत्तिल् आसैयुम् इवऩुक्कुण्डाऩालुम् इत्तऩै कालम् शबरसंसर्गियाय्प्पोऩ नमक्कु राजसंश्लेषम् किडैप्पदु अरिदॆऩ्ऱु इवऩ् निराशऩागादबडि राजाविऩ् सौशील्यसम्बन्धादिगळैच् चॊल्लि संश्लेषाकाङ्क्षैयै अधिकमाक्कुगै। राजावुक्कुण्डाऩ संश्लेषाकाङ्क्षै इवऩुडैय प्राचीनवृत्तत्तै निऩैत्तु कुण्ठितमागादबडि इवऩुडैय तत्कालस्थितियै ज्ञापित्तु अदै अधिकमाक्कुगै। अकाङ्क्षाविरोधिकळै निवर्तिप्पित्तु अदै वृद्धि सॆय्गै ऎऩ्ऱु करुत्तु।
+
+इदऱ्कु मुयऩ्ऱु ऎऩ्बदोडु अन्वयम्। 
+</details>
+
+## जीवोपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवनुक्कुम्  
@@ -1455,6 +1480,33 @@ So also with the Jīva  .
 शेषो हि परमात्मनः” 
 
 ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+As the śāstras say,  
+
+> "The soul is neither God nor men,  
+neither beast nor tree.  
+Its essential nature is knowledge and bliss  
+and it is entirely dependent on the Supreme Being  
+> and exists solely for His purposes (Śeṣa)" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवनुक्कुम्  
+“नायं देवो न मर्त्यो वा न तिर्यक्स्थावरोपि वा । ज्ञानानन्दमयस्त्वात्मा शेषो हि परमात्मनः” ऎऩ्ऱुम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नायमित्यादि । इङ्गु इदऩ् उत्तरार्धत्तिल् नोक्कु। अदिल् स्वाभाविकाकारत्तालुम् कुडल्दुवक्कालुम् कैङ्कर्यार्हदै सूचिप्पिक्कप् पडुगिऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “दासभूतास् स्वतस् सर्वे  
 ह्यात्मानः परमात्मनः” 
@@ -1462,24 +1514,26 @@ So also with the Jīva  .
 ऎऩ्ऱुम् प्रमाणङ्गळ् सॊल्लुगिऱप् पडिये
 </details>
 
-<details><summary>मूलम्</summary>
-
-इवनुक्कुम्  
-“नायं देवो न मर्त्यो वा न तिर्यक्स्थावरोपि वा । ज्ञानानन्दमयस्त्वात्मा शेषो हि परमात्मनः” ऎऩ्ऱुम् “दासभूतास्स्वतस्सर्वे ह्यात्मानः परमात्मनः” ऎऩ्ऱुम् प्रमाणङ्गळ् सॊल्लुगिऱप्पडिये
-</details>
-
 <details><summary>English</summary>
 
-Do not the śāstras say, "The soul is neither God nor men, neither beast nor tree. Its essential nature is knowledge and bliss and it is entirely dependent on the Supreme Being and exists solely for His purposes (Śeṣa)" and again, "The souls are indeed the servants by nature of the Supreme[^f36] Being ?" 
+and again, 
+
+> "The souls are indeed the servants by nature of the Supreme[^f36] Being." 
 
 [^f36]: Mantrarajapadastotram
 </details>
+
+<details><summary>मूलम्</summary>
+
+“दासभूतास्स्वतस्सर्वे ह्यात्मानः परमात्मनः” ऎऩ्ऱुम् प्रमाणङ्गळ् सॊल्लुगिऱप्पडिये
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पॊङ्ग्+++(=वृद्ध)+++-ओदं+++(=समुद्र)+++ सूऴ्न्द+++(=परिवृत्त)+++  
 भुवनियुम् विण्ण्+++(=ख)+++-उलगुम्  
-अङ्ग्-आदुञ्+++(=किञ्चिद्)+++ सोरामे+++(=क्षरणं विना)+++य् आळ्गिऩ्ऱ  
+अङ्ग्-आदुञ्+++(=किञ्चिद्)+++ सोरामेय्+++(=क्षरणं विना)+++ आळ्गिऩ्ऱ  
 सॆङ्-गोल्-उडैय श्रियः-पति नारायणऩ् उडने  
 +++(सहोदरवत्)+++ कुडल्+++(=intestine)+++ तुवक्कैत्+++(=सम्बन्धम्)+++ **तॆळिवित्तु**
 </details>
@@ -1494,27 +1548,51 @@ His gurus reveal to the Jīva the intimate relation existing between him and Nā
 पॊङ्गोदञ् जूऴ्न्द पुवनियुम् विण्णुलगुमङ्गादुञ् जोरामे याळ्गिऩ्ऱ सॆङ्गोलुडैय श्रियःपति नारायणनुडने कुडल् तुवक्कैत् तॆळिवित्तु
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पॊङ्गोदम् इत्यादि । पॊङ्गु - वृद्धियडैगिऱ, ओदम् - समुद्रत्ताले। सूऴ्न्द - सूऴप्पट्ट, पुवऩि - पूमि। इदु लीलाविभूतिक्कु उपलक्षणम्। विण्णुलगु - नित्यविभूति । अङ्गु - अवैगळुक्कुळ्। आदुम् - स्वल्पांशमुम्। सोरामे - विडामल्। आळ्गिऩ्ऱ - शासनम् पण्णुगिऱ। सॆङ्गोल् - आज्ञै, श्रियःपति, नारायणऩ् ऎऩ्गिऱ पदङ्गळाल् पुरुषकारसम्बन्धमुम्, गुणाकरत्वमुम्, विवक्षितङ्गळ्। अथवा परत्वमुम् सौलभ्यमुम् विवक्षितम्। कुडल् तुवक्कु - शरीरसम्बन्धम्; स्वाभाविकसम्बन्ध मॆऩ्ऱबडि। तॆळिवित्तु - संशयादिगळिऩ्ऱिक्के प्रकाशिप्पित्तु। 
+</details>
+
+### कृपोद्यमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवनुक्कु तत्-प्राप्त्य्-उपायङ्गळिले मुयऩ्ऱु+++(=उद्यम्य)+++,  
-+++(कृपा-बाहुल्याद् आचार्याणाम् एवाधिक उद्यमः!!)+++
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+कृपा-बाहुल्याद् आचार्याणाम् एवाधिक उद्यमः!
+</details>
+
+<details><summary>English</summary>
+
+These gurus try earnestly to help the Jīva   attain the Lord 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इवनुक्कु तत्प्राप्त्युपायङ्गळिले मुयऩ्ऱु,
 </details>
 
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तत्प्राप्त्युपायङ्गळिले - भक्तिप्रपत्त्यन्यतरत्तिले। मुयऩ्ऱु - इवऩ् अन्यतरानुष्ठानानुगुणज्ञानवाऩाग वेण्डुमॆऩ्ऱु उद्योगित्तु ऎऩ्ऱबडि। 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवऩ् पॆऱुगिऱ+++(=लभ्यमान)+++ पेऱ्+++(=लाभ)+++  ए  
+इवऩ् पॆऱुगिऱ+++(=लभ्यमान)+++ पेऱे +++(=लाभ)+++    
 तङ्गळुक्कुप् पॊऩ्ऩ्+++(=स्वर्ण)+++-उलगैयुम्, भुवनि मुऴुवदैयुम्+++(=पूर्णम्)+++  
 आळुगैय् आग **उगन्दु**+++(=तुष्ट्वा)+++
 </details>
 
 <details><summary>English</summary>
 
-These gurus try earnestly to help the Jīva   attain the Lord and feel that his attainment of the glory of mokṣa  would give them as much delight as the sovereignty of Vaikuṇṭha   (Nitya vibhūti) and of the whole earth (līlā vibhūti). 
+and feel that his attainment of the glory of mokṣa  would give them as much delight as the sovereignty of Vaikuṇṭha   (Nitya vibhūti) and of the whole earth (līlā vibhūti). 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1522,11 +1600,17 @@ These gurus try earnestly to help the Jīva   attain the Lord and feel that his 
 इवऩ् पॆऱुगिऱ पेऱे तङ्गळुक्कुप् पॊऩ्ऩुलगैयुम् पुवनि मुऴुवदैयुमाळुगैयाग उगन्दु
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रयोजनमिऩ्ऱिक्के इव्वळवु उद्योगिप्पार्गळोवॆऩ्ऩ अरुळिच्चॆय्गिऱार् इवऩ् पॆऱुगिऱ इत्यादियाल्। पॊऩ्ऩुलगु - नित्यविभूति । पुवऩि - लीलाविभूति, परमकारुणिकर्गळाऩ इवर्गळ् इवऩ् पॆऱुम् पेऱ्ऱैये तङ्गळुक्कु उभयविभूत्याधिपत्यलाभमाग निऩैत्तिरुप्पदाल् इप्पडि उद्योगिप्पदु कूडुम् ऎऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्-अडिय्-आग अऩ्ऱ्-ईऩ्ऱ+++(→तद्दिने)+++  
 कऩ्ऱुक्क्+++(=वत्सं)+++ इरङ्गिच्+++(=दयित्वा)+++ सुरक्कुम् धेनुवैप् पोलेय्  
- 
+
 इद्-देशिकर् इव्व्-आत्मावुक्कु  
 अज्ञान-संशय-विपर्ययङ्गळ् तीर-वेण्डुम् ऎऩ्ऱु  
 मिगुदि+++(=अधिक)+++-कुऱैव्+++(=न्यून)+++-अऱच्+++(=इतर)+++ सुरक्कुम् **पा+++(=पाट्)+++-सुरङ्गळैक् कॊण्डु** 
@@ -1543,17 +1627,113 @@ They have as much love to him as the cow to its calf on the day of its birth whe
 इद्देशिकरिव्वात्मावुक्कु अज्ञान संशयविपर्ययङ्गळ् तीरवेण्डुम् ऎऩ्ऱु मिगुदि कुऱैवऱच् चुरक्कुम् पासुरङ्गळैक् कॊण्डु 
 </details>
 
-## रहस्य-त्रये सङ्ग्रहः
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदडियाग - अन्द उगप्पे कारणमाग, इवऩुडैय उपायज्ञानार्थम् उद्योगित्त आचार्यकृत्यत्तै सदृष्टान्तमाग अरुळिच्चॆय्गिऱार् अऩ्ऱीऩ्ऱ इत्यादियाल्। इरङ्गिच्चुरक्कुम् इति । इदऩाल् दार्ष्टान्तिकत्तिलुम् इरक्क मॊऴिय प्रयोजनान्तरम् उबदेसहेदुवऩ्ऱु ऎऩ्ऩुमिडम् सूचितम्। भगवन्मुखोल्लासमुम् इक्कारुणिगर्गळुक्कु आनुषङ्गिकमिऱे। एतादृश धेनुदृष्टान्तत्ताल् अतिवात्सल्यं सूचितम्। एतादृशर्गळे आचार्यरावर्गळ् ऎऩ्बदै सूचिप्पिक्कैक्काग इद्देशिकरिदि पुनः कथनम्। मिगुदि - अनपेक्षितविस्तारम्। कुऱैवु - अपेक्षितसङ्कोचम्। उबदेसिक्कुम् ऎऩ्ऩादे सुरक्कुम् ऎऩ्गैयाल् क्षीरवत् पासुरङ्गळिऩ् रस्यतातिशयमुम् अनायासप्रवृत्तियुम् तोऩ्ऱु किऱदु। पासुरङ्गळैक् कॊण्डु इति । श्रुतिस्मृतिपाञ्चरात्रादिगळ् अतिविस्तृतङ्गळायुम्, जितन्तादिगळ् अतिसङ्कुचितङ्गळायुमिरुप्पदाल् अवैगळाल् यथावत्प्रकाशं सुलभमागा तागैयाल् अतिवात्सल्यक्षरितङ्गळाऩ आचार्यश्रीसूक्तिकळे तॆळिवायुम् सुलभमायुम् मुमुक्षुज्ञातव्यार्थप्रकाशकङ्गळामॆऩ्ऱु तिरुवुळ्ळम्।
+
+इङ्गु पासुर शब्दत्ताल् अनेकप्रमाणवचनङ्गळुडैयवुम्, उपपत्ति निरूपणङ्गळुडैयवुम्, पूर्वाचार्यश्रीसूक्तिकळुडैयवुम्, सारसमुच्चयरूपमाऩ इन्द प्रबन्धमे प्रधानतया विवक्षितमागैयाल् आचार्यपासुरङ्गळालेये मुमुक्षुवुक्कु सर्वार्थङ्गळुम् ज्ञातव्यङ्गळागिल् इप्प्रबन्धनिर्माणत्तिऱ्कु प्रयोजनमॆऩ्ऩॆऩ्गिऱ शङ्कैक्कु अवकाशमिल्लै। 
+</details>
+
+
+## ज्ञातव्याः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(यामुन-स्तोत्ररत्नोक्त-विष्णुपुराणकृत्-पराशर-प्रशंसोक्त)+++  
++++(यामुन-स्तोत्र-रत्नोक्त-- विष्णुपुरा-णकृत्-पराशर-प्रशंसोक्त)+++  
 “तत्त्वेन यश् चिद्-अचिद्-ईश्वर--तत्-स्वभावे”त्य्-आदि-गळिऱ् ‌पडिये  
+</details>
+
+<details><summary>English</summary>
+
+As stated in the śloka - 
+
+> "He[^f37]  who teaches the truth concerning cit (sentient being) acit (non-sentient matter) and Iśvara and their essential character etc.", 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“तत्त्वेन यश्चिदचिदीश्वर तत्स्वभावे” त्यादिगळिऱ्‌पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ईश्वरऩ्-उडैयवुम् ईशितव्यङ्गळ्-उडैयवुम् स्व-रूप--स्व-भाव--संबन्धङ्गळुम्,  
+</details>
+
+<details><summary>English</summary>
+
+(they the gurus  teach him)  
+the true nature of the Lord who is the ruler of sentient and non-sentient things that are ruled by Him,  
+of their respective character and of their mutual relations to one another,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरनुडैयवुम् ईशितव्यङ्गळुडैयवुम् स्वरूपस्वभावसंबन्धङ्गळुम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘तत्स्वभाव’’ ऎऩ्गिऱविडत्तिल् सम्बन्धमुम् विवक्षितम् ऎऩ्गिऱार् स्वरूपस्वभावसम्बन्धङ्गळुम् इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 भोगापवर्गङ्गळुम्,  
 त्याज्योपादेयङ्गळ् आऩ इवऱ्ऱिऩ्-उडैयव्-उपायङ्गळुम्,  
 अवऱ्ऱिऩ् गति-प्रकारङ्गळुम्,  
+</details>
+
+<details><summary>English</summary>
+
+of enjoyment or experience in saṁsāra (including svarga)  
+and of release from that bondage  
+and of the respective means for attaining them (one to be rejected and the other to be adopted),  
+of the routes by which the soul travels to its destined abodes  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भोगापवर्गङ्गळुम्,  
+त्याज्योपादेयङ्गळाऩ इवऱ्ऱिऩुडैयवुपायङ्गळुम्,  
+अवऱ्ऱिऩ्गतिप्रकारङ्गळुम्,  
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भोगोपायम् त्याज्यम्; अपवर्गोपायम् उपादेयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 उक्तानुक्तङ्गळ् आऩ मोक्ष-विरोधिगळ् आगिऱ +++(अत्रानुक्ता)+++ इव्व्-अर्थङ्गळ्,  
-मुमुक्षुव् आऩ इव्व्-आत्मावुक्कु ज्ञातव्यङ्गळ्,  
+मुमुक्षुव् आऩ इव्व्-आत्मावुक्कु ज्ञातव्यङ्गळ्.  
+</details>
+
+
+<details><summary>English</summary>
+
+and of the obstacles, expressed and unexpressed, that stand in the way of salvation; for these are matters that should be known to every one desirous of release.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उक्तानुक्तङ्गळाऩ मोक्षविरोधिगळागिऱ इव्वर्थङ्गळ् मुमुक्षुवाऩ इव्वात्मावुक्कु ज्ञातव्यङ्गळ्. 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भोगतदुपायङ्गळ् उक्तमाऩ मोक्षविरोधिकळ्; पूर्वं अनुक्तमोक्षविरोधिकळ् अहङ्कारादिगळ्। 
+</details>
+
+
+### रहस्य-त्रये सङ्ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इव्व्-अर्थङ्गळ् ऎल्लाम्  
 अध्यात्म-विषय-शब्द-राशियिल् सार-तमम् आऩ रहस्य-त्रयत्तिले  
 प्रतितन्त्र-सारोद्धारेण **संग्रहिक्कप्पडुगिऱदुगळ्**.
@@ -1561,15 +1741,12 @@ They have as much love to him as the cow to its calf on the day of its birth whe
 
 <details><summary>English</summary>
 
-As stated in the śloka . "He[^f37]  who teaches the truth concerning cit (sentient being) acit (non-sentient matter) and Iśvara and their essential character etc.", they (the gurus ) teach him the true nature of the Lord who is the ruler of sentient and non-sentient things that are ruled by Him, of their respective character and of their mutual relations to one another, of enjoyment or experience in saṁsāra (including svarga) and of release from that bondage and of the respective means for attaining them (one to be rejected and the other to be adopted), of the routes by which the soul travels to its destined abodes and of the obstacles, expressed and unexpressed, that stand in the way of salvation; for these are matters that should be known to every one desirous of release.
-
 All these things that should be known to every mumukṣu are found concisely stated in ‘the three mysteries or secrets' (mantras) which are, as it were, the quintessence of all passages treating of the Jīva   and Iśvara and which contain the best part of all the main doctrines.
-
 </details>
 
 <details><summary>मूलम्</summary>
 
-“तत्त्वेन यश्चिदचिदीश्वर तत्स्वभावे” त्यादिगळिऱ्‌पडिये ईश्वरनुडैयवुम् ईशितव्यङ्गळुडैयवुम् स्वरूपस्वभावसंबन्धङ्गळुम्, भोगापवर्गङ्गळुम्, त्याज्योपादेयङ्गळाऩ इवऱ्ऱिनुडैयवुबायङ्गळुम्, अवऱ्ऱिऩ् गतिप्रकारङ्गळुम्, उक्तानुक्तङ् गळाऩ मोक्षविरोधिगळागिऱ इव्वर्थङ्गळ् मुमुक्षुवाऩ इव्वात्मावुक्कु ज्ञातव्यङ्गळ्, इव्वर्थङ्गळॆल्लाम् अध्यात्मविषयशब्दराशियिल् सारतममाऩ रहस्यत्रयत्तिले प्रतितन्त्रसारोद्धारेण संग्रहिक्कप्पडुगिऱदुगळ्. 
+इव्वर्थङ्गळॆल्लाम् अध्यात्मविषयशब्दराशियिल् सारतममाऩ रहस्यत्रयत्तिले प्रतितन्त्रसारोद्धारेण संग्रहिक्कप्पडुगिऱदुगळ्. 
 </details>
 
 [^f34]: Viṣṇupurāṇa   : 2-13-98
@@ -1578,6 +1755,13 @@ All these things that should be known to every mumukṣu are found concisely sta
 
 [^f37]: Aḷavandār: Stotram
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि आचार्यश्रीसूक्तिकळालेये मुमुक्षुवुक्कु सर्वार्थङ्गळुम् ज्ञातव्यङ्गळागिल् "मूऩ्ऱिऩुळ्ळम् नाळुमुगक्क" ऎऩ्ऱु पूर्वं व्याख्येयतयोपक्षिप्तमाऩ रहस्यत्रयत्ताल् उपयोगमॆऩ्ऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् इव्वर्थङ्गळॆल्लाम् इत्यादिना । सङ्ग्रहिक्कप्पडुगिऱदुगळ् इति । इदऩाल् आचार्यश्रीसूक्तिकळिल् स्पष्टमागच्चॊल्लुम् अर्थङ्गळुक्कॆल्लाम् रहस्यत्रयमे मूलप्रमाणमागैयाल् अदु व्याख्येयमागत् तट्टिल्लै ऎऩ्गिऱ तिरुवुळ्ळम् द्योतितम्। 
+</details>
+
+
+## उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 तिरुव्-उडऩ् वन्द सॆऴु+++(=शुद्ध)+++-+++(=कौस्तुभ-)+++मणि-पोल्+ तिरु-माल्+++(=मत्त)+++--इदयम्+++(=हृदयम्)+++  
@@ -1587,10 +1771,18 @@ All these things that should be known to every mumukṣu are found concisely sta
 
 <details><summary>English</summary>
 
-We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha[^18] which rose from the sea along with Lakṣmī  at the time of the great churning, we that are competent to wear, on the crown of our head, the flower-like feet of God, were in peril of being swept away by the current of the stream of karma which caught us up even while in our mother's womb, when, fortunately for us, certain great souls proficient in the knowledge of the five things that ought to be understood and likewise of the subtle doctrine that the relation of the Jīvatma to the Lord is that of the body to the soul, came to us out of compassion to save us from being lost (in that stream).
+We that **deserve** a place near the heart of Viṣṇu  
+even like the gem Kaustubha which **rose** from the sea along with Lakṣmī  
+at the time of the great churning,  
+we that **are competent** to wear, on the crown of our head, the flower-like feet of God,  
+**were** in peril of being **swept** away by the current of the stream of karma which caught us up even while in our mother's womb,  
+when, fortunately for us, certain great souls proficient in the knowledge of the five things  
+that **ought to be understood**  
+and likewise of the subtle doctrine that the relation of the Jīvatma to the Lord **is** that of the body to the soul,  
+**came** to us out of compassion  
+to **save** us from being lost (in that stream).
 
-[^18]: Kaustubha: This gem is stated in certain treatises to stand allegorically for the Jīva  .
-
+(Kaustubha: This gem **is stated** in certain treatises to **stand** allegorically for the Jīva  .)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -1603,11 +1795,20 @@ We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-कर्माविद्यादि-चक्रे प्रतिपुरुषम् इहानादि-चित्र-प्रवाहे  
-तत्-तत्-काले विपक्तिर् भवति हि विविधा सर्व-सिद्धान्त-सिद्धा ।  
-तल्-लब्ध-स्वावकाश--प्रथम-गुरु-कृपा--गृह्यमाणः कदाचिन्  
+कर्माविद्यादि-चक्रे प्रतिपुरुषम् इहानादि-चित्र-**प्रवाहे**  
+तत्-तत्-काले **विपक्तिर् भवति** हि विविधा सर्व-सिद्धान्त-**सिद्धा** ।  
+तल्-**लब्ध**-स्वावकाश--प्रथम-गुरु-कृपा--**गृह्यमाणः** कदाचिन्  
 मुक्तैश्वर्यान्त-संपन्-निधिर् अपि **भविता** कश्चिद् इत्थं विपश्चित् ॥ ७ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कर्माविद्यादि-चक्रे प्रतिपुरुषम् इहानादि-चित्र-**प्रवाहे**  
+तत्-तत्-काले **विपक्तिर् भवति** हि विविधा सर्व-सिद्धान्त-**सिद्धा** ।  
+तल्-**लब्ध**-स्वावकाश--प्रथम-गुरु-कृपा--**गृह्यमाणः** कदाचिन्  
+मुक्तैश्वर्यान्त-संपन्-निधिर् अपि **भविता** कश्चिद् इत्थं विपश्चित् ॥ ७ ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1643,6 +1844,5 @@ or tastes and aptitudes and prakṛti sambandha or association with matter.
 श्रीमद्रहस्यत्रयसारे  
 उपोद्घाताधिकारः प्रथमः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
 </details>
 
