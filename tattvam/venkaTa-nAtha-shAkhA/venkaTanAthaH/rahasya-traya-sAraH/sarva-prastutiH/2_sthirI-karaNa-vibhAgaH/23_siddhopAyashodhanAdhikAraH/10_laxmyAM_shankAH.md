@@ -3595,6 +3595,12 @@ Como **se indica** en lo siguiente:
 ’’उऩ् तिरु’’ ऎऩ्बदालुम् अप्पडिये। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
