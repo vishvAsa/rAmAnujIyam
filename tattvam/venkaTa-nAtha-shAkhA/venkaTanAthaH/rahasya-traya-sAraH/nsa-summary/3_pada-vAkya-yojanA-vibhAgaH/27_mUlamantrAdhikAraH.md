@@ -46,7 +46,7 @@ First of all, the Mantra-Devata is propitiated in the following verses:
 
 'तारं पूर्वं तदनुहृदयं तच्च नारायणाये त्याम्नायोक्तं पदमवयतां सार्थमाचार्यदत्तम् ।
 
-अंगीकुर्वन् अलसमनसां आत्मरक्षाभरं नः क्षिप्रं देवः क्षिपतु निखिलान् किंकरैश्वर्य विघ्नान्'।
+अंगीकुर्वन् अलसमनसाम् आत्मरक्षाभरं नः क्षिप्रं देवः क्षिपतु निखिलान् किंकरैश्वर्य विघ्नान्'।
 
 "May He accept the burden of our protection, which has been offered to Him by us, who are utterly helpless and who are ever reflecting upon the Holy Mantra, which is adorned with the 'Pranava' first and the 'Namas' next and
 
@@ -70,7 +70,7 @@ The chariot mentioned here is the Mulamantra. The eight wheels are the eight let
 
 In the next verse, the greatness of the Mulamantra itself, is praised and a Mangalacharanam is made for the Mantra itself -
 
-'यदन्तस्थं अशेषेण वायम् वेदवैदिकम् । तस्मै व्यापकमुख्याय मन्त्राय महते नमः ॥
+'यदन्तस्थम् अशेषेण वायम् वेदवैदिकम् । तस्मै व्यापकमुख्याय मन्त्राय महते नमः ॥
 
 "Obeisance unto that Great Mantra, which is the most celebrated of all 'Vyapaka' Mantras, and which is containing within itself totally, all expressions such as the Vedas, Smritis, Itihasas, Puranas and others." In this verse, the Mantra itself is praised. It is said
 
@@ -130,7 +130,7 @@ Mulamantradhikara
 
 287
 
-By the knowledge of Ishvara, it is opined that the jivatman or Kshetragna becomes supremely purified. If this pertains to mere Tattvajnana of the sheshin or Paramatman then it will result in termination of HESI or unfitness for upasana. If it signifies 34T4 T5 or different knowledge of the 34 it is related to Moksha. This is illustrated in the statement of orifs - ETT: 4CHITATU Mehl açar:/ तत्संबन्धानुसंधानं इति योगः प्रकीर्तितः॥
+By the knowledge of Ishvara, it is opined that the jivatman or Kshetragna becomes supremely purified. If this pertains to mere Tattvajnana of the sheshin or Paramatman then it will result in termination of HESI or unfitness for upasana. If it signifies 34T4 T5 or different knowledge of the 34 it is related to Moksha. This is illustrated in the statement of orifs - ETT: 4CHITATU Mehl açar:/ तत्संबन्धानुसंधानम् इति योगः प्रकीर्तितः॥
 
 Now, we may try to understand the profound meanings of the terms of this Mulamantra, as propounded by the shastras.
 
@@ -174,7 +174,7 @@ In the term 'Namas', the meanings such as - 'I am not the saviour of myself; all
 
 The 'Ahirbudniya Samhitha' expounds three significant meanings to this term 'Namaha'. They are known as 'Sthula', Sukshma' and 'Para'. The 'sthulartha' of 'Namas' is performance of self-surrender, accompanied with the five accessories to the Lord:
 
-भगवान् मे परो नित्यं अहं प्रत्यवरः सदा । sfa HTa 74: : 74H: HTUT : 11 नामयत्यपि वा देवं प्रह्वीभावयति ध्रुवम् । प्रह्वीभवति नीचे हि परो नैच्यं विलोकयन् ॥ अतो वा नम उद्दिष्टं यत्तन्नामयति स्वयम् ।
+भगवान् मे परो नित्यम् अहं प्रत्यवरः सदा । sfa HTa 74: : 74H: HTUT : 11 नामयत्यपि वा देवं प्रह्वीभावयति ध्रुवम् । प्रह्वीभवति नीचे हि परो नैच्यं विलोकयन् ॥ अतो वा नम उद्दिष्टं यत्तन्नामयति स्वयम् ।
 
 The Supreme Paramatman is the 'seshin' and I am ever the lowest of the low - the 'shesha-bhuta'. The reflection of the 'Sesha-Seshi-Bhava' is said to be 'Namas'. This reflection of 'sheshatva' is verily the cause of surrender. So, the reflection of the 'Sesha-Sheshi-Bhava' is the meaning of the term 'Namas'.
 
@@ -262,7 +262,7 @@ Mulamantradhikara
 
 297
 
-'बहुव्रीहि' compound as 'नाराः अयनं यस्य सः, the 'antharvyapti' or internal pervasion is known, whereas through 'तत्पुरुष' compound as 'नाराणां अयन', 'bahir-vyapti' or external pervasion is known. To pervade an entity wherever it is - so that it cannot be said that, it is not there - is internal pervasion. External pervasion is, to be even in all places, where an entity is not.
+'बहुव्रीहि' compound as 'नाराः अयनं यस्य सः, the 'antharvyapti' or internal pervasion is known, whereas through 'तत्पुरुष' compound as 'नाराणाम् अयन', 'bahir-vyapti' or external pervasion is known. To pervade an entity wherever it is - so that it cannot be said that, it is not there - is internal pervasion. External pervasion is, to be even in all places, where an entity is not.
 
 The letter 'अ' in pranava, and the term 'Nara' and 'ayana' in the term 'Narayana', serve different purposes of pointing out 'rakshakatva', 'karanarva' and 'nityatva' and 'netrutva' and 'upayatva' and upeyatva' respectively. Though Paramatman is characterised by all other entities, and though He is all pervasive, He is not tainted with the defects of those entities on account of His essential nature of 'apahatapapmatva' or being opposed to all that is defiling.
 

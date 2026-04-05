@@ -138,7 +138,7 @@ Prapatti is, like Bhaktiyoga, a means for attainment of all desires. It stands i
 
 Prapatti and Bhakti are thus meant for two different kinds of aspirants; though these two paths are different, they lead to a common goal i.c., attainment of Paramatman. The idea is the fruit of these two paths is the same. As upasanas are of different kinds, as expounded in the Upanishads and the Brahmasutras, for Prapatti also, various mantras have been prescribed by the Agamas and Samhitas. The different mantras are particularly used by different Acharyas, as authorised by the different branches of Vedas, Bhagavath Shastras and Samhitas. As namaskara is of three types viz. Vachaka, Kayaka and Manasa i.e. through words, through body actions and through mind, even in prapatti, these differentiations are mentioned. When all the three are taken together, there will be a poorna-namaskara. Similarly, when all the three are united, there will be poorna-prapatti. Manasa-prapatti is of supreme importance here.
 
-Concluding this chapter Desika says that wise people take delight in the final words of the Lord Krishna spoken to Arjuna as 'Hounfa yfir 414 moste | 36 call सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः' - 'शरण्य सारथिगिरां अन्ते रमन्ते
+Concluding this chapter Desika says that wise people take delight in the final words of the Lord Krishna spoken to Arjuna as 'Hounfa yfir 414 moste | 36 call सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः' - 'शरण्य सारथिगिराम् अन्ते रमन्ते
 
 ge:',
 

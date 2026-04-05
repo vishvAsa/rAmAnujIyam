@@ -33,7 +33,7 @@ From this, it becomes clear that the punishment that the Lord gives is verily gr
 
 273
 
-There is a statement as follows : तं मातापितृहन्तारं अपि पाति भवार्तिहा ।
+There is a statement as follows : तं मातापितृहन्तारम् अपि पाति भवार्तिहा ।
 
 It is said that the Lord would absolve even such grave sinners such as the killer of one's father or mother. What does this signify? The meaning of this verse should be followed properly. If this relates to the sins done prior to Prapatti, then there is no confusion; but, it cannot relate to the sinful deeds done after Prapatti. If such sins occur duc to prarabdha-karma' after Prapatti, then he has to seek forgiveness and surrender unto the Lord for expiation of that sin. This has already been pointed out earlier; but, when such slight defects occur, such persons should not be slighted and dishonoured at any cost. Though they are afflicted by certain handicaps, they should be considered as virtuous only. If not, it leads to 'Bhagavata-Apachara'. ai geras dal 379 a fas' is a significant statement, which glorifies a Prapanna. The idea of this statement is that the eminence of a person who has the essential knowledge of Paramatman, cannot be measured even by the 'Nityasuris'. This eminence should not be underestimated. So, even in the event of some defects happening to Bhagavatas, they should not be treated indifferently. This amounts to 'bhagavata-apachara' and one should be very cautious in not committing this kind of sin against the devotees of the Lord.
 
@@ -55,7 +55,7 @@ case of certain defects happening to them, they should
 
 A number of quotations, as noted below, are quoted by some, and conclusions are drawn that though they are averse to the Lord, they would gain moksha, if they remember the names of the Lord, in whatever manner it may be:
 
-सांकेत्यं पारिहास्यं च स्तोभं हेलनमेव च । वैकुण्ठनाम ग्रहणं अशेषापविनाशनम् ॥
+सांकेत्यं पारिहास्यं च स्तोभं हेलनमेव च । वैकुण्ठनाम ग्रहणम् अशेषापविनाशनम् ॥
 
 Uttering the name of the Lord, either for some 'sanketha' or humiliation or justing or for any other purpose, would destroy all sins.
 

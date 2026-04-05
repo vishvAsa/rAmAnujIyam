@@ -56,7 +56,7 @@ Purushartakastadhikara
 
 175
 
-Bhagavata. This is resulting out of one's own free will. As Lakshmana said 'गुणैः दास्यं उपागतः' - as a younger brother to Rama, he was subscrvient to him by nature; on account of the auspicious qualities of Rama, Lakshmana became subservient to him by his own desire. This subservience to Bhagavatas reaches such a level that one considers oneself as disposable by the Bhagavatas, according to their will.
+Bhagavata. This is resulting out of one's own free will. As Lakshmana said 'गुणैः दास्यम् उपागतः' - as a younger brother to Rama, he was subscrvient to him by nature; on account of the auspicious qualities of Rama, Lakshmana became subservient to him by his own desire. This subservience to Bhagavatas reaches such a level that one considers oneself as disposable by the Bhagavatas, according to their will.
 
 The 'dasatva' that is evolved with love towards the Lord on account of the auspicious qualities of the Lord as well as in respect of the Bhagavatas will be the cause of ever enhancing joy. The Lord causes 'Sheshitva' to all Bhagavatas by virtue of his independent will. To these Bhagavatas he causes 'Bhagavata sheshatva' also according to their desire. They attain 'Sheshitva' by virtue of becoming worthy of being disposed of by the Lord according to His will. They attain their purushartha to the maximum limit as the 'Bhagavata Sheshatva' and 'Bhagavata Kainkaryam' desired by
 

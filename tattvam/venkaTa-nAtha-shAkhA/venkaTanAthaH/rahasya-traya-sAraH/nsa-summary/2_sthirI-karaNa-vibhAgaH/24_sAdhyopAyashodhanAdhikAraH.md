@@ -21,7 +21,7 @@ It is argued by some that Prapatti is not within the competency of all people, a
 
 (1.3. 6-18) Hamai ver signifies that all castes and creeds are included in having competency for this means. Statements such as -
 
-सर्वयोग्यं अनायासं अप्रमादमन्पमम् ।
+सर्वयोग्यम् अनायासम् अप्रमादमन्पमम् ।
 
 प्रपन्नार्तिहरं विष्णुं शरणं गन्तुमर्हसि ॥ "Lord Vishnu is a refuge for all people and and the means of surrender is fit for all without any rigour and which is without an equal."
 
@@ -71,7 +71,7 @@ Knowing this reality of the Lord being the Master and the jivatman being subserv
 
 When a person has committed the sin of stealing away the atman, the expiation of that is, offering the atman at His feet. This fact of subservience to the Lord is an understanding that should qualify an aspirant after moksha. This 'sheshatva-jnanam' will certainly prevent from stealing away the atman from the Lord later.
 
-'शिष्टं ह्यात्मापहारस्य निष्कृतिः स्वभरार्पणम् । परशेषत्वधीमात्रं अधिकारि विशेषणम् ॥ पश्चादात्मापहारस्य निरोधाय च कल्पते' ।
+'शिष्टं ह्यात्मापहारस्य निष्कृतिः स्वभरार्पणम् । परशेषत्वधीमात्रम् अधिकारि विशेषणम् ॥ पश्चादात्मापहारस्य निरोधाय च कल्पते' ।
 
 For a person who has realised the knowledge of 'sheshatva' that is obtained from the shastras, it is ordained that he should surrender his self unto the Lord, having supreme faith in the saving grace of the Lord, along with the desire for gaining moksha at a particular time. Even the statement TASHKL uTaTr' implics the practice of some spiritual discipline as prescribed in statement like 'HA TH'; USEctc.
 
@@ -237,7 +237,7 @@ Sadlıyopaya Shodhanadhikara
 
 259
 
-Dhyana-Yoga with all its accessories is not within the competence of all, one is entitled to think of the Lord according to one's competence. So long as he is placed in this world, he should remember the Lord always as ordained in the Gadya by Ramanuja as 'ततश्च प्रत्यहं आत्मोजीवनाय 994544' | The medication in which a prapanna engages himself is not an upaya, but only the fruit of his Prapatti.
+Dhyana-Yoga with all its accessories is not within the competence of all, one is entitled to think of the Lord according to one's competence. So long as he is placed in this world, he should remember the Lord always as ordained in the Gadya by Ramanuja as 'ततश्च प्रत्यहम् आत्मोजीवनाय 994544' | The medication in which a prapanna engages himself is not an upaya, but only the fruit of his Prapatti.
 
 Thus, in this section, Desika has vindicated Prapatti as an independent and direct means to mukti, and has clearly established that both Bhakti-Yoga and Prapatti are valid means to the attainment of Paramatman, mcant for two different kinds of aspirants.
 

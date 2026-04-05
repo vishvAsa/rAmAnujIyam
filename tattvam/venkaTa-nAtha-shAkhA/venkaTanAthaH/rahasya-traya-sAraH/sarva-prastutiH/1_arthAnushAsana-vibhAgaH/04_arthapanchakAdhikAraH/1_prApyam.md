@@ -994,7 +994,7 @@ y que posee todas las cualidades nobles".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“तमेवं गुणसंपन्नं अप्रधृष्यपराक्रमं” (रामायणम् अ-का 1-34)  
+“तमेवं गुणसंपन्नम् अप्रधृष्यपराक्रमं” (रामायणम् अ-का 1-34)  
 </details>
 
 <details><summary>English</summary>
@@ -1013,7 +1013,7 @@ y de valor irresistible".
 
 <details><summary>मूलम्</summary>
 
-“तमेवं गुणसंपन्नं अप्रधृष्यपराक्रमं” (रामायणम् अ-का 1-34)  
+“तमेवं गुणसंपन्नम् अप्रधृष्यपराक्रमं” (रामायणम् अ-का 1-34)  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1144,7 +1144,7 @@ de todos los que están en peligro ".
 
 <details><summary>मूलम्</summary>
 
-“निवासवृक्षस्साधूनां आपन्नानां परा गतिः” (रामायणम् किष् काण्डम् 15-19)
+“निवासवृक्षस्साधूनाम् आपन्नानां परा गतिः” (रामायणम् किष् काण्डम् 15-19)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

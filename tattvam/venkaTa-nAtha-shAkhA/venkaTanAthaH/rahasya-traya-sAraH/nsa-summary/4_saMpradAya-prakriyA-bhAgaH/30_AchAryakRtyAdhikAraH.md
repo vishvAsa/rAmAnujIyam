@@ -13,7 +13,7 @@ Acharya Kritya Adhikara After expounding the meanings of the three eminent rahas
 
 The introductory verse points out the main functions of the Acharya, or spiritual preceptor:
 
-'अधिजिगमिषुराद्यम् धाम दिव्यं त्रिधाम्नः श्रुतविविधपरीक्षाशोधिते क्वापि पात्रे । अनघगुणदशायां आहितस्नेहमायः प्रदिशति निरपायं संप्रदायप्रदीपम्'।
+'अधिजिगमिषुराद्यम् धाम दिव्यं त्रिधाम्नः श्रुतविविधपरीक्षाशोधिते क्वापि पात्रे । अनघगुणदशायाम् आहितस्नेहमायः प्रदिशति निरपायं संप्रदायप्रदीपम्'।
 
 Desirous of attaining the primeval Supreme Abode of the Lord, the Acharya hands over the eternal lamp of tradition to a worthy disciple, who is tested by different tests, and when he is predominantly satvik, showering his affection on him. In this verse, the Acharya is enjoined to hand over the supreme knowledge of the atman to the deserving disciple before casting away his body. It is verily said – 'पात्रस्थमात्मज्ञानं कृत्वा पिण्डं समुत्सृजेत् '।
 
@@ -63,7 +63,7 @@ To one who approaches the master as ordained in the shastras and who requests fo
 
 It is ordained that a preceptor should not teach a disciple for gaining name or wealth or respect or for show or for gaining his livelihood. At any rate, if it is taught to one who is unworthy of it, the teacher himself will be falling from the right mode of life.
 
-आत्मपूजार्थं अर्थार्थं डम्भार्थं अपि खिन्नधीः । अयोग्येषु वदन् शास्त्रं सन्मार्गात्प्रच्युतो भवेत् ॥
+आत्मपूजार्थम् अर्थार्थं डम्भार्थम् अपि खिन्नधीः । अयोग्येषु वदन् शास्त्रं सन्मार्गात्प्रच्युतो भवेत् ॥
 
 Desika quotes a number of authorities to establish the fact that a role of an Acharya is very arduous and that the responsibilities that he carries with him are of immense importance. He has to judge carefully the ability and worthiness of a disciple, and teach him the supreme mantras and truths. Only in that case, it will lead to the good of the world. He should not hold it away from the worthy disciple.
 
