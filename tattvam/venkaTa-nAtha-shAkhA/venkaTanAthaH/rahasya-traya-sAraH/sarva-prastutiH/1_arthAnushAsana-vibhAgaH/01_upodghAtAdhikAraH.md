@@ -354,7 +354,7 @@ As has been said
 
 <details><summary>मूलम्</summary>
 
-"ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्‌प" वॆऩ्ऱुम् सॊल्लुगिऱप्पडिये 
+"ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्प" वॆऩ्ऱुम् सॊल्लुगिऱप्पडिये 
 </details>
 
 
@@ -710,7 +710,7 @@ he has fallen into the wilderness of matter (prakṛti), has had repeated births
 ताव्+++(=आलम्बनम्)+++ अऱ्ऱु+++(=विना)+++,  
 अऴुक् कडैन्द्+++(=मथित्वा)+++ ऒळिय्+++(=प्रभा)+++ अऴिन्दप्+++(=नष्ट्वा)+++ पडियाले  
 
-तत्त्व-हित-विषयम् आय् यथावत्-प्रकाश-रहितऩ् आय् निऱ्‌क;+++(5)+++
+तत्त्व-हित-विषयम् आय् यथावत्-प्रकाश-रहितऩ् आय् निऱ्क;+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -720,7 +720,7 @@ has lost the primary aim of existence, has found no comfort or consolation, has 
 
 <details><summary>मूलम्</summary>
 
-तट्टित् तावऱ्ऱु अऴुक्कडैन्दॊळियऴिन्दप्पडियाले तत्त्व-हितविषयमाय् यथावत्प्रकाशरहितनाय् निऱ्‌क;
+तट्टित् तावऱ्ऱु अऴुक्कडैन्दॊळियऴिन्दप्पडियाले तत्त्व-हितविषयमाय् यथावत्प्रकाशरहितनाय् निऱ्क;
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -750,7 +750,7 @@ The parable of the prince brought up by huntsmen.
 
 ऒरु राजा अन्तःपुरत्त् उडऩे  
 वेट्टैक्कुच् चॆऩ्ऱु-विळैयाट्टिले सक्तनाऩ्  
-अव् अळविले+++(=[काल]माने)+++ वार्त्तैय् अऱिवदऱ्‌कु मुन्बे+++(=प्राक्)+++ वऴि तप्पिऩ राजकुमारऩ्  
+अव् अळविले+++(=[काल]माने)+++ वार्त्तैय् अऱिवदऱ्कु मुन्बे+++(=प्राक्)+++ वऴि तप्पिऩ राजकुमारऩ्  
 </details>
 
 <details><summary>English</summary>
@@ -760,7 +760,7 @@ The condition of the Jīva  in saṁsāra has been aptly described in the follow
 
 <details><summary>मूलम्</summary>
 
-ऒरु राजा अन्तःपुरत्तुडने वेट्टैक्कुच्चॆऩ्ऱु विळैयाट्टिले सक्तनानवळविले वार्त्तै यऱिवदऱ्‌कु मुन्बे वऴि तप्पिऩ राजकुमारऩ्  
+ऒरु राजा अन्तःपुरत्तुडने वेट्टैक्कुच्चॆऩ्ऱु विळैयाट्टिले सक्तनानवळविले वार्त्तै यऱिवदऱ्कु मुन्बे वऴि तप्पिऩ राजकुमारऩ्  
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -785,7 +785,7 @@ and was brought up in a hamlet by tribesmen who found him wandering about (helpl
 
 <details><summary>मूलम्</summary>
 
-ऎडुत्तार् कैयिऱ्‌पिळ्ळैयाय् एदेनुमॊरु कुरुच्चियिले वळर,
+ऎडुत्तार् कैयिऱ्पिळ्ळैयाय् एदेनुमॊरु कुरुच्चियिले वळर,
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -1012,10 +1012,10 @@ and lived like a savage without even the means of being born in a better life af
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निऱ्‌कुम् आप् पोले  
+निऱ्कुम् आप् पोले  
 इवऩुम् देहात्माभिमानादिगळाले  
 तऩ्ऩ् उरुक्+++(=योग्यताम्)+++ कॊडुत्तु,  
-वेऱ्ऱ्+++(=अन्य)+++ उरुक् कॊण्डु निऱ्‌क,  
+वेऱ्ऱ्+++(=अन्य)+++ उरुक् कॊण्डु निऱ्क,  
 </details>
 
 <details><summary>English</summary>
@@ -1025,8 +1025,8 @@ Such was the condition of the prince who lost his real character and acquired a 
 
 <details><summary>मूलम्</summary>
 
-निऱ्‌कुमाप्पोले  
-इवनुम् देहात्माभिमानादिगळाले तऩ्ऩुरुक् कॊडुत्तु वेऱ्ऱुरुक् कॊण्डु निऱ्‌क,  
+निऱ्कुमाप्पोले  
+इवनुम् देहात्माभिमानादिगळाले तऩ्ऩुरुक् कॊडुत्तु वेऱ्ऱुरुक् कॊण्डु निऱ्क,  
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -1651,7 +1651,7 @@ As stated in the śloka -
 
 <details><summary>मूलम्</summary>
 
-“तत्त्वेन यश्चिदचिदीश्वर तत्स्वभावे” त्यादिगळिऱ्‌पडिये 
+“तत्त्वेन यश्चिदचिदीश्वर तत्स्वभावे” त्यादिगळिऱ्पडिये 
 </details>
 
 
