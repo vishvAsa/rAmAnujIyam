@@ -15,7 +15,16 @@ title = "०२ सारनिष्कर्षाधिकारः"
 
 (2) THE CHAPTER ON THE DETERMINATION OF WHAT IS BEST  
 page77
+
 </details>
+
+<details><summary>Español</summary>
+
+(2) EL CAPÍTULO SOBRE LA **DETERMINACIÓN** DE LO MEJOR  
+página77
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -33,23 +42,89 @@ page77
 </details>
 
 
+<details><summary>English</summary>
 
-<details><summary>English - प्रस्तावः</summary>
+"The Three Mysteries" **have been occasionally referred** to in previous chapters.  
+ŚrīVedānta-desika **presumes** that  
+everyone of his **readers knows** what they **are**.  
+It **is** just **possible** that  
+some of them **are not** in the know of these mysteries.  
+So a brief account **may be necessary** of these mantras.
 
-"The Three Mysteries" have been occasionally referred to in previous chapters. ŚrīVedānta desika presumes that everyone of his readers knows what they are. It is just possible that some of them are not in the know of these mysteries. So a brief account may be necessary of these mantras.
+1\. One of them **is called** aṣṭākṣara or Tirumantra.  
+It **consists** of eight syllables in Sanskrit which **are** in the form of three words.  
+The first word which consists of a single syllable **is** Om,  
+which **is made** of three parts a, u and m or akara, ukara and makara.  
+The second word **is** namo which, when there **is** no sandhi, is namas.  
+It means '**Obeisance**' or **adoration**!  
+The third word **is** Nārāyaṇaaya  
+which means " to Nārāyaṇa ".  
+Nārāyaṇāya is the dative (the fourth case ) singular form of Nārāyaṇa .  
+The mantra, as a whole, means "**Adoration** to Nārāyaṇa  ! '' or "**I offer** my **adoration** to Nārāyaṇa ."  
+(This **is** the meaning **appearing** at first sight.)
 
-1. One of them is called aṣṭākṣara or Tirumantra It consists of eight syllables in Sanskrit which are in the form of three words. The first word which consists of a single syllable is Om, which is made of three parts a, u and m or akara, ukara and makara. The second word is namo which, when there is no sandhi, is namas. It means 'Obeisance' or adoration! The third word is Nārāyaṇaaya which means " to Nārāyaṇa ". Nārāyaṇāya is the dative (the fourth case ) singular form of Nārāyaṇa . The mantra, as a whole, means "Adoration to Nārāyaṇa  ! '' or "I offer my adoration to Nārāyaṇa ." (This is the meaning appearing at first sight.)
+2. Another mantra or mystery **is** the “last" śloka  of Śrīkṛṣṇa's **teaching** in Bhagavadgītā  
+usually **called** the carama śloka .
 
-2. Another mantra or mystery is the “last" śloka  of Śrīkṛṣṇa's teaching in Bhagavadgītā usually called the carama śloka .
+It means: “**Having given up** rites or activities as means to **secure** mokṣa ,  
+**surrender** thyself to me alone".  
+(This **is** the first half of the śloka .)
 
-It means: “Having given up rites or activities as means to secure mokṣa , surrender thyself to me alone". (This is the first half of the śloka .)
+"I **will free** thee from all sins; **despair not**."(This is the second half of the śloka .)
 
-"I will free thee from all sins; despair not."(This is the second half of the śloka .)
+3. Yet another mystery or mantra **is** usually **called** Dvayam.  
+It **consists** of two parts;  
+the first part means "**I seek refuge** at the feet of Nārāyaṇa   
+who **is** ever inseparable from Śrī or Lakṣmī ".  
+The second part **means**:  
+"**I offer** my **adoration** to Nārāyaṇa  and Śrī".
 
-3. Yet another mystery or mantra is usually called Dvayam. It consists of two parts; the first part means "I seek refuge at the feet of Nārāyaṇa  who is ever inseparable from Śrī or Lakṣmī ". The second part means: "I offer my adoration to Nārāyaṇa  and Śrī".
-
-These, then, are the "three mysteries or mantras" which are the best of what should be known and meditated upon. The fuller and more subtle meanings of these mantras are explained in later chapters.
+These, then, **are** the "three mysteries or mantras" which **are** the best of what **should be known** and **meditated** upon.  
+The fuller and more subtle meanings of these mantras **are explained** in later chapters.
 </details>
+
+<details><summary>Español</summary>
+
+"Los Tres Misterios" **se han mencionado ocasionalmente** en capítulos anteriores.  
+Śrī Vedānta-desika **presume** que  
+cada uno de sus **lectores sabe** lo que **son**.  
+**Es** simplemente **posible** que  
+algunos de ellos **no conocen** estos misterios.  
+Así que **puede ser necesaria** una breve **descripción** de estos mantras.
+
+1\. Uno de ellos **se llama** aṣṭākṣara o Tirumantra.  
+**Consta** de ocho sílabas en sánscrito que **están** en forma de tres palabras.  
+La primera palabra que **consta** de una sola sílaba **es** Om,  
+que **está hecho** de tres partes "a", "u" y "m" o akara, ukara y makara.  
+La segunda palabra **es** namo que, cuando **no hay** sandhi, es namas.  
+Significa ¡'**Reverencia**' o **adoración**!  
+La tercera palabra **es** Nārāyaṇaaya  
+que **significa** "a Nārāyaṇa".  
+Nārāyaṇāya es la forma singular dativa (el cuarto caso) de Nārāyaṇa.  
+El mantra, en su conjunto, **significa** "¡**Adoración** a Nārāyaṇa! '' o "**Ofrezco** mi **adoración** a Nārāyaṇa.  
+(Este **es** el **significado** que **aparece** a primera vista.)
+
+2. Otro mantra o misterio **es** el “último” śloka de la **enseñanza** de Śrīkṛṣṇa en el Bhagavadgītā  
+generalmente **llamado** carama śloka.
+
+**Significa**: “**Habiendo abandonado** ritos o actividades como medio para **asegurar** mokṣa,  
+**Entrégate** a mí solo".  
+(Esta **es** la primera mitad del śloka).
+
+"Yo **te liberaré** de todos los pecados; **no desesperes**."  
+(Esta **es** la segunda mitad del śloka).
+
+3. Otro misterio o mantra más **se** suele **llamar** Dvayam.  
+**Consta** de dos partes;  
+la primera parte significa "**Busco refugio** a los pies de Nārāyaṇa   
+quien **es** siempre inseparable de Śrī o Lakṣmī".  
+La segunda parte **significa**:  
+"**Ofrezco** mi **adoración** a Nārāyaṇa y Śrī".
+
+Estos, entonces, **son** los "tres misterios o mantras" que **son** lo mejor de lo que **debe ser conocido** y **meditado**.  
+Los **significados** más completos y sutiles de estos mantras **se explican** en capítulos posteriores.
+</details>
+
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
@@ -59,19 +134,45 @@ These, then, are the "three mysteries or mantras" which are the best of what sho
 मुमुक्षुज्ञातव्यार्थ-प्रतिपादकत्वमुम्, अध्यात्म-विषय-शब्द-राशियिल् सारतमत्वमुम् हेतुक्कळाग सूचिप्पिक्कप् पट्टदुगळ्। 
 </details>
 
-
+## श्रुति-सारः
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 श्रुति–पथ–विपरीतं क्ष्वेड+++(=विष)+++–कल्पं, +++(सागरनिभायां)+++ श्रुतौ च,  
-+++(तत्रैव)+++ प्रकृति–-+++(कैवल्य-फल-)+++पुरुष–भोग–प्रापकांशो न पथ्यः ।  
-तद् इह विबुध-गुप्तं मृत्यु+++(→संसार)+++-भीता विचिन्वन्त्य् +++(अस्मभ्यम्)+++  
++++(तत्रैव)+++ प्रकृति–-+++(कैवल्य-फल-)+++पुरुष–भोग–प्रापकांशो **न पथ्यः** ।  
+तद् इह विबुध-**गुप्तं** मृत्यु+++(→संसार)+++-**भीता विचिन्वन्त्य्** +++(अस्मभ्यम्)+++  
+उपनिषद्-अमृताब्धेर् उत्तमं सारम् आर्याः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रुति–पथ–विपरीतं क्ष्वेड+++(=विष)+++–कल्पं, +++(सागरनिभायां)+++ श्रुतौ च,  
++++(तत्रैव)+++ प्रकृति–-+++(कैवल्य-फल-)+++पुरुष–भोग–प्रापकांशो **न पथ्यः** ।  
+तद् इह विबुध-**गुप्तं** मृत्यु+++(→संसार)+++-**भीता विचिन्वन्त्य्** +++(अस्मभ्यम्)+++  
 उपनिषद्-अमृताब्धेर् उत्तमं सारम् आर्याः ॥
 </details>
 
 <details><summary>English</summary>
 
-What is opposed to the way of the Vedas is like poison; even in the Śrutis or Vedas, those parts which treat of the means of attaining the enjoyment of material goods (Prakṛti bhoga) and of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not salutary. Therefore the wise who are afraid of the cycle of births and deaths ( saṁsāra) seek the best essence extracted out of the ocean of nectar called the Upaniṣads which has been guarded with great care by sages (i.e.) previous ācāryas for our benefit
+What **is opposed** to the way of the Vedas is like poison;  
+even in the Śrutis or Vedas,  
+those parts which **treat** of the **means** of attaining the **enjoyment** of material goods (Prakṛti bhoga)  
+and of the **enjoyment** of one's own atma or self (purusha-bhoga) or (Kaivalya) **are not salutary**.  
+Therefore the wise who **are afraid** of the cycle of births and deaths ( saṁsāra)  
+**seek** the best essence **extracted** out of the ocean of nectar called the Upaniṣads  
+which **has been guarded** with great care by sages (i.e.) previous ācāryas for our **benefit**.
 </details>
+
+<details><summary>Español</summary>
+
+Lo que **se opone** al camino de los Vedas es como veneno;  
+incluso en los Śrutis o Vedas,  
+aquellas partes que **tratan** de los **medios** de alcanzar el **disfrute** de los bienes materiales (Prakṛti bhoga)  
+y del **disfrute** del propio atma o ser (purusha-bhoga) o (Kaivalya) **no son saludables**.  
+Por lo tanto, los sabios que **tienen miedo** del ciclo de **nacimientos** y **muertes** (saṁsāra)  
+**busca** la mejor esencia **extraída** del océano de néctar **llamado** Upaniṣads  
+que **ha sido custodiado** con gran cuidado por los sabios (es decir) ācāryas anteriores para nuestro **beneficio**.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -81,10 +182,26 @@ What is opposed to the way of the Vedas is like poison; even in the Śrutis or V
 न्त्युपनिषदमृताब्धेरुत्तमं सारमार्याः ॥
 </details>
 
-## मन्त्र-त्रय-माहात्म्यम्
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इव्वधिकारत्तिल् सारतम-शब्दमे मुमुक्षुवुक्कु ग्राह्यम् ऎऩ्बदिलुम्, असारादिगळ् त्याज्यङ्गळ् ऎऩ्बदिलुम् वचनत्तै उपन्यसित्तु, रहस्यत्रयमे सारतममॆऩ्ऱुम्, अत एव अदुवे उपादेयतमम् ऎऩ्ऱुम् निष्कर्षिक्कप् पोगिऱवराय् इव्वधिकारार्थत्तै इष्टं हीतिन्यायेन ऒरु श्लोकत्ताल् सङ्ग्रहित्तरुळुगिऱार् श्रुतीति । इङ्गु साङ्ख्यादिबाह्यकुदृष्टिशास्त्रङ्गळै श्रुतिपथविपरीतम् ऎऩ्गिऱदु। क्ष्वेळकल्पं – विषसदृशम्। इष्टसाधनमागादवळवऩ् ऱिक्के, अनिष्टसाधकमुमागुम् ऎऩ्ऱबडि। इदऩाल् अवैगळुक्कु अव्याख्येयत्वं सूचितम्। श्रुतिविपरीतम् अव्याख्येयमाऩालुम्, नित्यनिर्दोषमाऩ वेदत्तिल् कृत्स्नांशत्तिऱ्कुम् व्याख्यानम् सॆय्यलागादोवॆऩ्ऩ अरुळिच्चॆय्गिऱार् श्रुतौ चेति । इङ्गु चकारम् नित्यनिर्दोषमाऩ श्रुतियिलुम् मुमुक्षुक्कळुक्कु त्याज्यांशम् उण्डॆऩ्बदै द्योतिप्पिक्किऱदु। प्रकृतीत्यादि । पश्वन्नवृष्ट्यादि ऐहिकफलसाधन प्रतिपादकांशत्तैयुम्, स्वर्गादि आमुष्मिकफलसाधनप्रतिपादकांशत्तैयुम् प्रकृति भोगप्रापकांशम् ऎऩ्गिऱदु। पुरुषभोगप्रापकांशमावदु केवलात्मानुभवसाधनप्रतिपादकभागम्। न पथ्यः – इप्पोदु प्रियमायिरुन्दालुम्, उदर्कदुःखहेतुवाम् ऎऩ्ऱबडि। इदऩाल् श्रुतियिलुम् सिल भागत्तिऱ्कु मुमुक्षुत्याज्यतायां कारणम् सूचितमायिऱ्ऱु। तत् – तस्मात् । इप्पडि मुमुक्षुक्कळुक्कु वेदविपरीतशास्त्रमुम् वेदैकदेशङ्गळुम् दुःखसाधनमाय् मुडिगैयालेऎऩ्ऱबडि। इह – श्रुतियिले। इदऱ्कु ‘‘उपनिषत्’’ ऎऩ्बदोडु अन्वयम्। विबुधगुप्तं – तिरुक्कोट्टियूर् नम्बि मुदलाऩ पूर्वाचार्यर्गळाल् रक्षिक्कप्पट्टदाऩ। इदऱ्कु ‘‘सारं’’ ऎऩ्बदोडन्वयम्। उपनिषदित्यादि । इङ्गु शास्त्रसामान्यं समुद्रस्थानीयम्; अदिल् साङ्ख्यादिबाह्यशास्त्रं समुद्रोत्पन्नविषतुल्यम्। वेदाख्यशास्त्रत्तिल् प्रकृतिपुरुषभोगप्रापकांशङ्गळ् समुद्रत्तिलुण्डाऩ सुरादिस्थानीयङ्गळ्। उपनिषत्तुक्कळ् अमृतस्थानीयङ्गळ्। अवैगळुम् अनन्तङ् गळागैयाल् अवैगळै अब्धित्वेन रूपित्तदु। उत्तमं सारमिति ।  
+अमृतत्तिलुम् सारभू-तैयाऩ पॆरियबिराट्टि स्थानीयम् रहस्यत्रयमॆऩ्ऱु तिरुवुळ्ळम्।
+
+इन्दत् तिरुवुळ्ळम् "अव्वंशत्तिलुम्" ऎऩ्ऱु तॊडङ्गि, "मिगवुम् सारतममायिरुक्कुम् रहस्यत्रयम्" ऎऩ्गिऱवळवाल् मेले व्यक्तमागुमिऱे। इङ्गु ‘‘विबुध गुप्तं’’, ‘‘उत्तमं सारं’’ ऎऩ्गिऱ पदङ्गळाल् व्यापकमन्त्रान्तरङ्गळैक्काट्टिलुम् रहस्यत्रयत्तिऩ् वैलक्षण्यम् द्योतितमायिऱ्ऱु। 
+
+मृत्युः – संसारम्; ‘‘भीताः’’ इत्यनेन तेडुवदिल् त्वरातिशयो व्यज्यते । आर्याः – सारासारविवेक-मुळ्ळवर्गळ्। विचिन्वन्तीति । इदऩाल् मृतसञ्जीविनिक्कुप्पोल् रहस्यत्रयत्तिऱ्कुम् अद्यापि मृग्यमाणदशै सॊल्लप्पट्टदु।   
+</details>
+
+
+## रहस्य-त्रय-माहात्म्यम्
 <details><summary>English</summary>
 
 THE GREAT VALUE OF THE THREE MANTRAS:
+</details>
+
+<details><summary>Español</summary>
+
+EL GRAN VALOR DE LOS TRES MANTRAS:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -94,19 +211,36 @@ THE GREAT VALUE OF THE THREE MANTRAS:
 > “सर्वम् अष्टाक्षरान्तस्-स्थं” 
 
 ऎऩ्गिऱप्-पडिये  
-तऩ्ऩ्-अर्थत्तै अऱिय  
-ऎल्लाव् अर्थङ्गळैयुम् अऱिन्दु-तरुम्-बडिय् आय् इरुक्कैयालुम्,  
+तऩ्ऩ्-अर्थत्तै अऱिय -  
+ऎल्लाव् अर्थङ्गळैयुम् अऱिन्दु-तरुम् बडिय् आय् इरुक्कैयालुम्,  
 </details>
 
 <details><summary>English</summary>
 
-Among these three mysteries (mantras), Tirumantra or aṣṭākṣara has[^f39] been stated to contain everything within itself and, if it is known, the meaning of everything becomes known; 
+Among these three mysteries (mantras), Tirumantra or aṣṭākṣara [^f39]**has been stated** to contain everything within itself  
+and, if it **is** known, the meaning of everything **becomes known**; 
 </details>
+
+<details><summary>Español</summary>
+
+Entre estos tres misterios (mantras), Tirumantra o aṣṭākṣara [^f39]**se ha dicho** que **contiene** todo dentro de sí mismo.  
+y, si **se conoce**, el significado de todo **se vuelve conocido**;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इन्द रहस्यत्रयत्तिल् तिरुमन्त्रम् “सर्वमष्टाक्षरान्तस्थं” ऎऩ्गिऱप्पडिये तऩ्ऩर्थत्तै अऱिय ऎल्लावर्थङ्गळैयुम् अऱिन्दुदरुम्बडियायिरुक्कैयालुम्,  
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+श्लोकत्तिल् ‘‘उत्तमं सारं’’ ऎऩ्गिऱ पदङ्गळाल् रहस्यत्रयमे विवक्षितमॆऩ्ऱु व्यञ्जिप्पित्तुक् कॊण्डे रहस्यत्रयत्तिऩ् उत्तमत्वत्तै उपपादिक्किऱार् इन्द रहस्यत्रयत्तिल् इत्यादिना । 
+
+अऱिन्दु तरुम्बडियाय् इति । अऱिवित्तुत्तरुम् पडियाय् इत्यर्थः ।  
+तमिऴिलुम् अन्तर्भावितणिच् पोल् प्रयोगमुण्डिऱे। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -116,20 +250,45 @@ Among these three mysteries (mantras), Tirumantra or aṣṭākṣara has[^f39] 
 > माम् एकं शरणं व्रज”
 
 ऎऩ्ऱु  
-ताऩ् सॊल्लुगिऱव् उपायम् ऒऩ्ऱैय् उमे अवलंबिक्क  
+ताऩ् सॊल्लुगिऱव् उपायम् ऒऩ्ऱैयुमे अवलंबिक्क  
 सर्वोपाय-फल-सिद्धिय् उण्ड् आम्  
 ऎऩ्ऱु स्थापिक्कैयालुम्,  
 </details>
 
 <details><summary>English</summary>
 
-the carama śloka , which says (in its first half) “having given up all rites and activities as means of attaining mokṣa , surrender thyself to me", establishes that the adoption of the single means taught in it, viz, self-surrender (or śaranagati) would secure the benefits of all other means prescribed elsewhere; 
+the carama śloka , which **says** (in its first half) 
+
+> “**having given up** all rites and activities as means of **attaining** mokṣa ,  
+**surrender** thyself to me", 
+
+**establishes** that the **adoption** of the single means **taught** in it, viz, self-surrender (or śaranagati)  
+**would secure** the benefits of all other means **prescribed** elsewhere; 
+
 </details>
+
+<details><summary>Español</summary>
+
+el carama śloka, que **dice** (en su primera mitad) 
+
+> “**habiendo abandonado** todos los ritos y actividades como medio para **alcanzar** mokṣa,  
+**ríndete** a mí", 
+
+**establece** que la **adopción** del single significa **enseñado** en él, a saber, autoentrega (o śaranagati)  
+**obtendría** los beneficios de todos los demás medios **prescritos** en otros lugares;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 चरमश्लोकम् “सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज”ऎऩ्ऱु ताऩ् सॊल्लुगिऱ वुबायमॊऩ्ऱैयुमे अवलंबिक्क सर्वोपायफलसिद्धियुण्डाम् ऎऩ्ऱु स्थापिक्कैयालुम्,  
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+चरमश्लोकम् इति । अनुष्ठानं विधिवाक्यपरामर्शपूर्वकमागैयाल् अदैयनुसरित्तु अनुष्ठापकद्वयात्पूर्वं इङ्गु विधायक चरमश्लोकोपादानम्। उपायमॊऩ्ऱैये अवलम्बिक्क इत्यादि । इदु ‘‘सुदुष्करेण’’ इति लोकानुसारि योजनाभिप्रायकम्।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -141,14 +300,43 @@ the carama śloka , which says (in its first half) “having given up all rites 
 कृत-कृत्यऩ् आक्क-वल्ल वैभवत्तैय् उडैत्त् आय् इरुक्कैयालुम्  
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> ‘‘यस् सकृद् उच्चारस्  
+संसार-तारको भवति’’ 
+
+इति कठ-श्रुतिः।  
+</details>
+
 <details><summary>English</summary>
 
-the Dvayam, as has been stated in Kaṭha śruti  and elsewhere, is capable of making a man perfect in the discharge of all his duties even if it is uttered only once. 
+the Dvayam, as **has been stated** in Kaṭha śruti and elsewhere,  
+**is capable** of **making** a man perfect in the **discharge** of all his **duties**  
+even if it **is uttered** only once. 
 </details>
+
+<details><summary>Español</summary>
+
+el Dvayam, como **ha sido declarado** en Kaṭha śruti y en otros lugares,  
+**es capaz** de **hacer** a un hombre perfecto en el **desempeño** de todos sus **deberes**  
+incluso si **se pronuncia** sólo una vez.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 द्वयमुम् कठश्रुत्यादिगळिऱ्‌ चॊल्लुगिऱप्पडिये तऩ्ऩै यॊरुक्कालुच्चरित्तवनै सर्वप्रकारत्तालुम् कृतकृत्यनाक्कवल्ल वैभवत्तै युडैत्तायिरुक्कैयालुम् </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कठश्रुतीति । 
+
+> ‘‘यस् सकृद् उच्चारस्  
+संसार-तारको भवति’’ 
+
+ऎऩ्बदु कठश्रुति ।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -160,23 +348,65 @@ the Dvayam, as has been stated in Kaṭha śruti  and elsewhere, is capable of m
 Therefore these three mysteries alone are of value to the seeker after salvation. 
 </details>
 
+<details><summary>Español</summary>
+
+Por lo tanto, estos tres misterios por sí solos **son** de valor para el que **busca** la **salvación**.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 रहस्य-त्रयमे मुमुक्षुक्कळुक्कु आदरणीयम्.
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि रहस्यत्रय वैलक्षण्यकथनत्ताल्  
+द्वादशाक्षरादि व्यापकमन्त्रान्तरङ्गळुम्,  
+‘‘मुमुक्षुर्वै’’ इत्यादि विधायकवाक्यान्तरङ्गळुम्,  
+‘‘श्रीमन्नारायण स्वामिन्’’इत्याद्यनुष्ठापक वाक्यान्तरङ्गळुम्  
+उपनिषत्सारङ्गळाय् इरुन्दालुम्  
+अवैगळुक्कु एतादृशमाऩ एऱ्ऱमिल्लामैयाल्  
+अवैगळ् इग्ग्रन्थत्तिऱ्कु व्याख्येयङ्गळ् आगविल्लै  
+ऎऩ्गिऱ तिरुवुळ्ळम् व्यञ्जितमागिऱदु।  
+
+रहस्यत्रयमे मुमुक्षुक्कळुक्कु आदरणीयं इति । एतादृश वैलक्षण्यमिल्लैयागैयाल् इतरङ्गळ् आदरणीयङ्गळल्ल ऎऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असारम् अल्पसारञ् च  
-सारं सारतरन् त्यजेत् ।  
+सारं सारतरन् **त्यजेत्** ।  
 भजेत् सारतमं शास्त्रे  
-रत्नाकर इवामृतम् ॥  
+रत्नाकर+++(य्)+++ इवामृतम् ॥  
 </details>
 
 <details><summary>English</summary>
 
-It has been said, “One should ignore what is of no value, what is only of slight value, and, likewise, what is valuable and even what is more valuable. It is only what is most valuable that one should prefer in the śāstra , like ambrosia in the Ocean,
+It **has been said**, 
+
+> “One **should ignore** what **is** of no value,  
+what **is** only of slight value,  
+and, likewise, what **is** valuable  
+and even what **is** more valuable.  
+It **is** only what **is** most valuable that **one should prefer** in the śāstra ,  
+like ambrosia in the Ocean,
+
 </details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**, 
+
+> “Uno **debe ignorar** lo que **no tiene** valor,  
+lo que **tiene** poco valor,  
+y, asimismo, qué **es** valioso  
+e incluso qué **es** más valioso.  
+**Es** sólo lo que **es** más valioso que **uno debería preferir** en el śāstra,  
+como ambrosía en el océano.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -184,23 +414,46 @@ It has been said, “One should ignore what is of no value, what is only of slig
 भजेत् सारतमं शास्त्रे रत्नाकर इवामृतम् ॥  
 </details>
 
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडिये "रहस्यत्रयमे" ऎऩ्ऱु सावधारणमाग अरुळिच्चॆय्यक्कूडुमो? एतादृश वैलक्षण्यमिल्लाविडिलुम्, ‘‘साङ्ख्यं योगः पाञ्चरात्रं वेदाः पाशुपतं तथा’’ ऎऩ्ऱु साङ्ख्यादिशास्त्र-ङ्गळैयुम् वेदङ्गळोडु भारतादिगळिल् सॊल्लियिरुप्पदाल्, अवैगळुम् उपादेयमागत् तट्टॆऩ्? एवं वेदत्तिल्दाऩ् पल उपादेयांशङ्गळिल्लैयो? इवैगळ् ऎल्लाम् त्याज्यम् ऎऩ्बदऱ्कुत्ताऩ् कारणमॆऩ् ऎऩ्गिऱ शङ्कैयिल्, अवैगळ् असार (अल्पसार?) सार सारतरङ्गळिल् अन्यतमङ्गळागैयाल् त्याज्यङ्गळ् ऎऩ्ऱुम्, रहस्यत्रयमे सारतम मागैयाल् उपादेयमॆऩ्ऱुम् अवैगळिऩ् स्पष्टमाऩ पॆयरैच् चॊल्लामले उपपादिक्किऱ वचनत्तै अरुळिच् चॆय्गिऱार् असारं इति । 
+
+इन्द वचनत्तै सिल व्याख्याताक्कळ्  
+श्रीदेशिकऩ् कारिकैयाग निऩैक्किऱार्गळ्;  
+दीपिकै प्रकाशिकैयै अनुसरित्तु नाम्  
+इदै प्रमाण वचनमागक् करुदुगिऱोम्।+++(5)+++  
+
+‘‘सारतमं शास्त्रे’’ ऎऩ्गिऱविडत्तिल्  
+शास्त्रशब्दम् शास्त्रशब्दवाच्य वेदतदनुयायि तद्विरुद्धसकलशास्त्रपरम्; नतु श्रुतिमात्रपरम्।  
+अप्पडियागिल् असारमाऩ बाह्यशास्त्रम् श्रुतिघटकमिल्लामैयाले ‘‘शास्त्रे असारं त्यजेत्’’ ऎऩ्गिऱ निर्धारणसप्तमि बाधितै याम्; ‘‘श्रुतिपथ विपरीतं’’ ऎऩ्गिऱ श्लोकैकरस्याभावमुम् प्रसङ्गिक्कुम्।  
+
+‘‘साङ्ख्यं योगः पाञ्चरात्रम्’’ इत्यादिगळिल् बाह्यग्रन्थङ्गळुम् शास्त्रत्वेन परिगणितङ्गळिऱे। इन्द श्लोक व्याख्यानावसरत्तिल् बाह्यकुदृष्टिशास्त्रङ्गळ् ऎऩ्ऱु अवैगळैयुम् शास्त्रङ्गळागत् तामे अरुळिच्चॆय्यप् पोगिऱारिऱे। मोक्षतदुपायङ्गळ् शब्दैक समधिगम्यङ्गळाऩालऩ्ऱो तदर्थम् सारतमशब्दमे उपादेयमॆऩ्ऩलावदु। 
+</details>
+
+
 [^f39]: Nāradīya Kalpa 1-9.
 
 ## शास्त्रैक-प्रामाण्यम्
 
 <details><summary>English</summary>
 
-THE ONLY PRAMĀṆA IN REGARD TO MOKṢA  AND  
-THE MEANS OF ATTAINING IT IS ŚĀSTRA:
-
+THE ONLY PRAMĀṆA IN REGARD TO MOKṢA  
+AND THE MEANS OF **ATTAINING** IT IS ŚĀSTRA:
 </details>
+
+<details><summary>Español</summary>
+
+LA ÚNICA PRAMĀṆA CON RESPECTO A MOKṢA  
+Y EL MEDIO PARA **ALCANZAR** ES ŚĀSTRA:
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परम-पुरुषार्थमुम्  
 तद्-उपायमुम्  
 प्रत्यक्षादि-प्रमाणङ्गळाल् अऱियव् ऒण्णाद+++(=अशक्ति)+++-पडियालेय्  
-इवऱ्ऱिऱ्‌कु
 </details>
 
 <details><summary>English</summary>
@@ -216,12 +469,18 @@ y los medios para lograrlo no son capaces de ser entendidos por la percepción s
 
 <details><summary>मूलम्</summary>
 
-परमपुरुषार्थमुम् तदुपायमुम् प्रत्यक्षादि प्रमाणङ्गळालऱियवॊण्णाद पडियालेय् इवऱ्ऱिऱ्‌कु
+परमपुरुषार्थमुम् तदुपायमुम् प्रत्यक्षादि प्रमाणङ्गळालऱियवॊण्णाद पडियालेय्
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अवैगळ् प्रत्यक्षादि वेद्यङ्गळागिल् तदर्थम् रहस्यत्रयम् उपादेय-मागवेण्डियदिल्लैयेयॆऩ्ऩ अरुळिच्चॆय्गिऱार् परमपुरुषार्थमुम् इति ।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(सञ्जयेनाश्चर्य-चकिताय सतीर्थ्याय धृतराष्ऱ्ऱ्याय यद् उक्तम् -)+++  
+इवऱ्ऱिऱ्‌कु +++(सञ्जयेनाश्चर्य-चकिताय सतीर्थ्याय धृतराष्ऱ्ऱ्याय यद् उक्तम् -)+++  
 
 > +++(भक्ति-सहित)+++“शास्त्राद् वेद्मि जनार्दनं +++(न तु त्वं धृतराष्ऱ्ऱ!)+++” 
 </details>
@@ -233,19 +492,34 @@ As stated in such passages as "It is from the [^f40] śāstra  that I know Janā
 
 <details><summary>Español</summary>
 
-Como se indica en pasajes como  
-"es del [^f40] śāstra que conozco janārdana",
+Como **se indica** en pasajes como  
+
+> "es del [^f40] śāstra que **conozco** janārdana",
 </details>
 
 <details><summary>मूलम्</summary>
 
-“शास्त्राद्वेद्मि जनार्दनं” 
+इवऱ्ऱिऱ्‌कु “शास्त्राद्वेद्मि जनार्दनं” 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शास्त्राद्वेद्मीति – इङ्गु सर्वं वाक्यं सावधारणं इति न्यायत्ताले एवकारत्तैक् कूट्टुवदु। +++(4)+++
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।”
+> “तस्माच् छास्त्रं प्रमाणं ते  
+कार्याकार्यव्यवस्थितौ ।”
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “तस्माच् छास्त्रं प्रमाणं ते  
+कार्याकार्यव्यवस्थितौ ।”
+</details>
+
 
 <details><summary>English</summary>
 
@@ -255,9 +529,9 @@ Como se indica en pasajes como
 <details><summary>Español</summary>
 
 "Por lo tanto, [^f41]  
-al determinar qué [^20] debe hacerse  
-y lo que no se debe hacer,  
-la única autoridad que debería guiarlo es Śāstra"
+al **determinar** qué [^20] **debe hacerse**  
+y lo que **no se debe hacer**,  
+la única autoridad que **debería guiarlo** es Śāstra"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -265,10 +539,20 @@ la única autoridad que debería guiarlo es Śāstra"
 “तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।”
 </details>
 
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति ॥” 
+> “शब्द-ब्रह्मणि निष्णातः  
+परं ब्रह्माधिगच्छति ॥” 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “शब्द-ब्रह्मणि निष्णातः  
+परं ब्रह्माधिगच्छति ॥” 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -277,13 +561,15 @@ and "He who is well [^f43] versed in the Āgamas or Vedas will attain Brahman",
 
 <details><summary>Español</summary>
 
-y "El que está bien [^f43] versado en los āgamas o vedas alcanzará a Brahman",  
+y "El que **está** bien [^f43] **versado** en los āgamas o vedas **alcanzará** a Brahman",  
 </details>
 
 <details><summary>मूलम्</summary>
 
 “शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति ॥” 
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
