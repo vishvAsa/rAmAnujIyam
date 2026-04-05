@@ -1,14 +1,44 @@
 +++
-title = "०३ प्रधानप्रतितन्त्राधिकारः"
+title = "०३ प्रधान-प्रतितन्त्राधिकारः"
 
 +++
 
-०३ प्रधानप्रतितन्त्राधिकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे प्रधानप्रतितन्त्राधिकारः ॥ ३ ॥  
+</details>
 
 <details><summary>English</summary>
 
 3. THE CHAPTER ON THE MOST IMPORTANT AND DISTINCTIVE DOCTRINE THAT IS UNIQUE TO VIŚIṢṬĀDVAITA. page81
 </details>
+
+<details><summary>Español</summary>
+
+3. EL CAPÍTULO SOBRE LA DOCTRINA MÁS IMPORTANTE Y DISTINTIVA QUE **ES** ÚNICA DE VIŚIṢṬĀDVAITA. página81
+</details>
+
+<details><summary>मूलम्</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे प्रधानप्रतितन्त्राधिकारः ॥ ३ ॥  
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+॥ श्रीः ॥  
+श्रीसारबोधिनीव्याख्यायां  
+प्रधानप्रतितन्त्राधिकारः ॥  
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पूर्वाधिकारत्तिल् रहस्यत्रयत्तिऩ् अत्यन्त सारतरत्वत्तिल् प्रधानप्रतितन्त्रङ्गळाऩ तत्वहितङ्गळुडैय सङ्ग्रहरूपत्वम् हेदुवागच् चॊल्लप्पट्टदु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 

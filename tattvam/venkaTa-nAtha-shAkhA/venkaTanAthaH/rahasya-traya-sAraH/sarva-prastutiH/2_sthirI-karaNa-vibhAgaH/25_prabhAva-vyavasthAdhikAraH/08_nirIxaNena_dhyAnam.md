@@ -33,7 +33,7 @@ does not refer to such things as witnessing forbidden dances.
 
 <details><summary>मूलम्</summary>
 
-‘‘तद्ध्यानं यन्नि रीक्षणं’’ ऎऩ्ऱदु निषिद्धनृत्तादिदर्शनत्तैच्चॊऩ्ऩबडियऩ्ऱु; 
+‘‘तद्ध्यानं यन्नि रीक्षणम्’’ ऎऩ्ऱदु निषिद्धनृत्तादिदर्शनत्तैच्चॊऩ्ऩबडियऩ्ऱु; 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
