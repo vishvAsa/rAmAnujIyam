@@ -12,7 +12,7 @@ At the very commencement of this great work, we find a chapter devoted to the fa
 
 introductory chapter being of the form of मङ्गलाचरणम् because the Upodghatha Adhikara commences with a Mangala beginning with the verse ‘3740197: stai
 
-अनघां आचार्यसन्ततिं वन्दें । There are introductory verses and concluding verses for this chapter of Guruparampara Sara and so is an
+अनघां आचार्यसन्ततिं वन्देम् । There are introductory verses and concluding verses for this chapter of Guruparampara Sara and so is an
 
 independent chapter altogether. 3. In the conclusion also, there is no mention in the
 

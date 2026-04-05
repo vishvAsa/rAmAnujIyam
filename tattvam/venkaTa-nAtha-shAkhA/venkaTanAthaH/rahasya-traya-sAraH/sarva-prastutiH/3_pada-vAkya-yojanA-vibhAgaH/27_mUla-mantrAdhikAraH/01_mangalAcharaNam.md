@@ -166,7 +166,7 @@ En el Dharma sobre sí mismo, que **es** característico de Krita Yuga -
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्-अन्त-**स्थम्** अशेषेण  
-वाङ्मयं वेद-वैदिकं ।  
+वाङ्मयं वेद-वैदिकम् ।  
 तस्मै **व्यापक**-मुख्याय  
 मन्त्राय महते **नमः** ॥ ६१ ॥
 </details>
@@ -174,7 +174,7 @@ En el Dharma sobre sí mismo, que **es** característico de Krita Yuga -
 <details><summary>नीलमेघः (सं)</summary>
 
 यद्-अन्त-**स्थम्** अशेषेण  
-वाङ्मयं वेद-वैदिकं ।  
+वाङ्मयं वेद-वैदिकम् ।  
 तस्मै **व्यापक**-मुख्याय  
 मन्त्राय महते **नमः** ॥ ६१ ॥
 </details>
@@ -207,7 +207,7 @@ que por su etimología, **transmite** el **significado** 'omnipresente' o 'todo 
 
 <details><summary>मूलम्</summary>
 
-यदन्तस्थमशेषेण वाङ्मयं वेदवैदिकं ।  
+यदन्तस्थमशेषेण वाङ्मयं वेदवैदिकम् ।  
 तस्मै व्यापकमुख्याय मन्त्राय महते नमः ॥ ६१ ॥
 </details>
 

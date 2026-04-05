@@ -124,7 +124,7 @@ If you say it has, then it is opposed to your statement that it is a fully
 
 Answer : The elaborate Karmas and others that are required for the three yogas such as Bhaktiyoga and others are not required for Prapatti - This is what is meant by निरपेक्षो। It does nor mean that Praparti is not having the unique and particular accessories that are established by Pramanas.
 
-'भक्तियोगादित्रयेतिकर्तव्यताभूत- गुरुतरकर्मनैरपेक्ष्यमात्रं हि अत्र विवक्षितं ।
+'भक्तियोगादित्रयेतिकर्तव्यताभूत- गुरुतरकर्मनैरपेक्ष्यमात्रं हि अत्र विवक्षितम् ।
 
 Objection : Is Sarvadharma parityaga a vidhi ? or an anuvada ? It cannot be either.
 

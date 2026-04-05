@@ -544,13 +544,13 @@ la única autoridad que **debería guiarlo** es Śāstra"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “शब्द-ब्रह्मणि निष्णातः  
-परं ब्रह्माधिगच्छति ॥” 
+परम् +++(उपासनात्मकं ज्ञानम्→)+++ ब्रह्माधिगच्छति ॥” 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > “शब्द-ब्रह्मणि निष्णातः  
-परं ब्रह्माधिगच्छति ॥” 
+परम् +++(उपासनात्मकं ज्ञानम्→)+++ ब्रह्माधिगच्छति ॥” 
 </details>
 
 
@@ -569,6 +569,16 @@ y "El que **está** bien [^f43] **versado** en los āgamas o vedas **alcanzará*
 “शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति ॥” 
 </details>
 
+<details><summary>स्रोतः</summary>
+
+शब्दब्रह्म – आगमजन्यं ज्ञानं;  
+परं ब्रह्म – विवेकादिजन्यम् उपासनात्मकं ज्ञानम्। 
+
+> ‘‘शब्दब्रह्मागममयं  
+परं ब्रह्म विवेकजम्’’ 
+
+इत्युत्तरत्र विवरणात् । 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -595,40 +605,81 @@ El único pramāṇa que existe para nuestra guía es Śabda o lo que se revela 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “अनन्तपारं बहुवेदितव्यम्  
-अल्पश्च कालो बहवश्च विघ्नाः ।  
-यत् सारभूतं तदुपाददीत  
-हंसो यथा क्षीरमिवांबुमिश्रम् ॥”
+इव्विडत्तिल्
+
+> “अनन्त-पारं बहु **वेदितव्यम्**  
+अल्पश् च कालो बहवश् च **विघ्नाः** ।  
+यत् सार-भूतं तद् **उपाददीत**  
+हंसो यथा क्षीरम् इवाम्बु-मिश्रम् ॥”
 
 ऎऩ्गिऱ श्लोकत्तिल्
+</details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अनन्त-पारं बहु **वेदितव्यम्**  
+अल्पश् च कालो बहवश् च **विघ्नाः** ।  
+यत् सार-भूतं तद् **उपाददीत**  
+हंसो यथा क्षीरम् इवाम्बु-मिश्रम् ॥”
 </details>
 
 <details><summary>English</summary>
 
-In this context it has been said, “What are[^f44] to be known are many and endless; the time (at our disposal) is short; the hindrances are many; therefore prefer only what is valuable, like the swan that separates the milk from the water with which it is mixed." 
+In this context it has been said,  
+“What are[^f44] to be known are many and endless; the time (at our disposal) is short; the hindrances are many; therefore prefer only what is valuable, like the swan that separates the milk from the water with which it is mixed." 
 </details>
 
 <details><summary>Español</summary>
 
-En este contexto se ha dicho:  
+En este contexto **se ha dicho**:  
 
-“Lo que se sabe [^f44] son muchos e infinitos;  
-El tiempo (a nuestra disposición) es corto;  
-Los obstáculos son muchos;  
-Por lo tanto, prefiere solo lo que es valioso, como el cisne que separa la leche del agua con el que se mezcla ".
+“Lo que **se sabe** [^f44] **son** muchos e infinitos;  
+El tiempo (a nuestra disposición) **es** corto;  
+Los **obstáculos son** muchos;  
+Por lo tanto, **prefiere** solo lo que es valioso, como el cisne que **separa** la leche del agua con el que **se mezcla** ".
 </details>
 
 <details><summary>मूलम्</summary>
 
-> “अनन्तपारं बहुवेदितव्यम्  
+इव्विडत्तिल् “अनन्तपारं बहुवेदितव्यम्  
 अल्पश्च कालो बहवश्च विघ्नाः ।  
 यत् सारभूतं तदुपाददीत  
-हंसो यथा क्षीरमिवांबुमिश्रम् ॥”
-
-ऎऩ्गिऱ श्लोकत्तिल्
-
+हंसो यथा क्षीरमिवांबुमिश्रम् ॥” ऎऩ्गिऱ श्लोकत्तिल्
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि शास्त्राद्वेद्मीत्यादि वचनङ्गळाल् पुरुषार्थ तदुपायङ्गळिल् सामान्यतो वेदशास्त्रं प्रमाणमॆऩ्ऱु एऱ्पडुगैयाल् वेदसामान्यमुपादेयमायिरुक्क, अदिल् एकदेशमाऩ रहस्यत्रयमे उपादेयम् ऎऩ्ऱु नियमिक्कक् कूडुमोवॆऩ्ऩ अरुळिच्चॆय्गिऱार् इव्विडत्तिल् इति । इव्विडत्तिल् - वेदरूपशास्त्रत्तिल्।  
+इदऱ्कु सारतमशब्दम् ऎऩ्बदोडन्वयम्। 
+
+अनन्तेति । वेदितव्यं – मोक्षार्थ ज्ञातव्यमाऩ सोपबृंहण वेदान्तबृन्दमाऩदु, अनन्तपारं; प्रत्येकमनिश्चितपारमित्यर्थः । इङ्गु अन्तशब्दम् दृष्टोन्तः ऎऩ्गिऱ विडत्तिल् पोल निश्चयवाची । अतएव बहुविस्तृतमायुम् इरुक्कुम् ऎऩ्ऱबडि। क्षीरमित्यादि । अम्बुमिश्रं क्षीरमिव स्थितं असाराल्पसारमिश्रितं ऎऩ्ऱु करुत्तु।
+
+यत् सारभूतं – सारभूतमाऩ शब्दवस्तु । तत् – अदै; हंसो यथा – इङ्गु ‘‘यथा’’ शब्दम् इवार्थकम्। पुरुषः ऎऩ्ऱु अध्याहार्यम्। हंसम्बोल् सारासारविवेकियाऩ पुरुषऩ् ऎऩ्ऱबडि। उपाददीत – नीरात् क्षीरं हंस इव असारात् सारं विविच्य गृह्णीयादित्यर्थः । इङ्गु ‘‘उप’’ ऎऩ्गिऱ उपसर्गं विविच्य ग्रहणद्योतकम्। इत्थं च इन्द वचनत्तिल् पुरुषार्थ तदुपायङ्गळिल् सोपबृंहण वेदसामान्यम् प्रमाणमेयाऩालुम्, अदु अनन्तमायिरुप्पदालुम् आयुस्सु परिमितमायिरुप्पदालुम् विघ्नम् बहुळमायिरुप्पदालुम् अदिल् सारांशमे उपादेयम् ऎऩ्ऱु विधिक्कप्पडुगैयाल् रहस्यत्रयमे उपादेयमॆऩ्ऱु सावधारणमाग नियमिक्कक् कूडुम् ऎऩ्ऱु तिरुवुळ्ळम्।
+
+इङ्गु ‘‘अम्बुमिश्रं क्षीरमिव’’ ऎऩ्बदोडु ‘‘स्थितं’’ ऎऩ्गिऱ पदत्तैक् कूट्टिऩदाल् दार्ष्टान्तिकमाऩ सारभूतशब्दत्तिऱ्कु असारमिश्रितत्वं द्योतितमागिऱदु।  
+आगैयाल् इन्द श्लोकत्तिल् ‘‘यथा’’ शब्दमे पोदुमायिरुक्क,  
+इवशब्दम् व्यर्थम् ऎऩ्गिऱ चोद्यत्तिऱ्कु अवकाशमिल्लै। +++(4)+++ 
+
+अथवा 
+
+> ‘‘ततः **प्रतस्थे** कौबेरीं  
+भास्वान् इव रघुर् दिशम् ।  
+शरैर् उस्रैर्+++(=किरणैर्)+++ इवोदीच्यान्  
+**उद्धरिष्यन्** रसान् इव॥’’ 
+
+ऎऩ्गिऱव् इडत्तिल् पोल्  
+इदु अनेकेवशब्द-घटितोपमैयागैयाल्  
+इव शब्द-वैयर्थ्य-शङ्कैक्के अवकाशम् इल्लै।  
+
+उक्तं च दण्डिना –  
+
+> ‘‘एकानेकेव-शब्दत्वात्  
+सा वाक्यार्थोपमा द्विधा’’ 
+
+इति ।  
+इप्पॊऴुदु उपमान स्वारस्यादेव सारभूतत्तिऱ्कु असार मिश्रितत्वं सिद्धमागिऱदु। इन्द वचनत्तिल् सारभूतमे उपादेयमॆऩ्ऱु सॊल्लियिरुक्क, इदै सारसारतरङ्गळ् त्याज्यङ्गळॆऩ्ऱुम्, सारतमशब्दमे उपादेयमॆऩ्ऱु सॊल्लुगिऱ कीऴ् वचनत्तिऩ् अर्थत्तिऱ्कु उपपादकमाय् ऎडुक्कक्कूडुमो? प्रत्युत विरुद्धमाय् मुडियादोवॆऩ्ऩ इदऩ् भावत्तै अरुळिच् चॆय्गिऱार् श्लोकत्तिल् सारभूतमॆऩ्गिऱ पदत्ताले इति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -654,9 +705,16 @@ lo que siempre es e incondicionalmente valioso.
 सारभूतमॆऩ्गिऱ पदत्ताले प्रतिपन्नमाऩ निरुपाधिक सारत्तै विषयीकरिक्किऱ सारतमशब्दमुपादेयम्. 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्दश्लोकत्तिल् सारभूतशब्दत्तिऱ्कु अल्पसार सारतर सारतम शब्दसमभिव्याहारमिल्लैयागैयालुम्, सारीभूतमॆऩ्ऱु च्विप्रत्यय समभिव्याहारमिल्लामैयालुम्, निरुपाधिकमाऩ इन्द सारभूतशब्दमे निरुपाधिक सारार्थमाऩ सारतमशब्दत्तै प्रतिपादिक्किऱदागैयाल् असारं ऎऩ्गिऱ श्लोकत्तिऱ्कु इन्द श्लोकम् उपपादकमागलामॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+### बाह्य-कुदृष्टयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बाह्य--कु-दृष्टि-शास्त्रङ्गळ् अत्यन्तासारङ्गळागैयालेय् अन्-उपादेयङ्गळ्. 
+बाह्य--कु-दृष्टि-शास्त्रङ्गळ् अत्यन्तासारङ्गळ् आगैयालेय्  
+अन्-उपादेयङ्गळ्. 
 </details>
 
 <details><summary>English</summary>
@@ -666,9 +724,9 @@ The śāstras of those who are outside the pale of the Vedas (like Buddhists ) a
 
 <details><summary>Español</summary>
 
-Los Śāstras de aquellos que están fuera del pálido de los Vedas (como los budistas)  
+Los Śāstras de aquellos que **están** fuera del pálido de los Vedas (como los budistas)  
 y también de los herejes (como Advaitins) no son valiosos y,  
-por lo tanto, deben ser ignorados.
+por lo tanto, **deben ser ignorados**.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -676,6 +734,24 @@ por lo tanto, deben ser ignorados.
 बाह्यकुदृष्टिशास्त्रङ्गळ् अत्यन्तासारङ्गळागैयालेयनु-पादेयङ्गळ्. 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि वचनद्वयाविरोधत्तैक् काट्टि असारं ऎऩ्गिऱ श्लोकत्तिऱ्कु अर्थमरुळिच् चॆय्गिऱार् बाह्येत्यादियाल्। साङ्ख्यादिशास्त्रङ्गळ् वेदविरुद्धङ्गळागैयाल् बाह्यङ्गळ्, कुदृष्टिशास्त्रङ्गळ् - शङ्करादिग्रन्थङ्गळ्। अत्यन्तासारङ्गळ् इति । सफलङ्गळागाद मात्रमऩ्ऱिक्के अनर्थावहङ्गळुमामॆऩ्ऱु करुत्तु।
+
+इवै अत्यन्तासारङ्गळॆऩ्बदु 
+
+>‘‘या वेदबाह्यास् स्मृतयो  
+याश् च काश् च कुदृष्टयः ।  
+तास् सर्वा निष्फलाः प्रेत्य  
+तमो-निष्ठा हि तास् स्मृताः ॥ 
+
+इत्यादि वचनसिद्धम्।  
+ऐहिकफलसाधनकर्मेति । इदऩाल् अन्द प्रदेशत्तिऱ्कु अल्पसारत्वम् प्रत्यक्षसिद्धमॆऩ्ऱदायिऱ्ऱु।  
+
+</details>
+
+
+### ऐहिक-फलोपायाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेदत्तिल् पूर्व-भागत्तिल्  
@@ -691,10 +767,10 @@ In the first part of the Veda, the portion which treats of rites leading to the 
 <details><summary>Español</summary>
 
 En la primera parte del Veda,  
-la parte que trata de ritos  
-que conducen al logro de bienes mundanos  
-es solo de muy ligero valor y,  
-por lo tanto, no se recurrirá.
+la parte que **trata** de **ritos**  
+que **conducen** al **logro** de bienes mundanos  
+**es** solo de muy ligero valor  
+y, por lo tanto, **no se recurrirá**.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -702,9 +778,11 @@ por lo tanto, no se recurrirá.
 वेदत्तिल् पूर्वभागत्तिल् ऐहिकफलसाधन कर्मप्रतिपादकमाऩ प्रदेशम् अल्पसारमागैयालनुपादेयम्.  
 </details>
 
+### स्वर्गादि-दर्शकम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आमुष्मिक प्रतिपादकांशम्  
+आमुष्मिक-प्रतिपादकांशम्  
 ऐहिक-फलत्तिऱ्‌ काट्टिल् अतिशयित फलत्तैय् उडैत्त्-आगैयाले  
 सिलर्क्कु सारम् ऎऩ्ऩव् आय् इरुन्ददेय् आगिलुम्  
 दुःख-मूलत्वादि दोष-दुष्टम् आगैयाले अनुपादेयम्.  
@@ -730,6 +808,14 @@ se basan en la tristeOtras características objetables.
 आमुष्मिक प्रतिपादकांशम् ऐहिकफलत्तिऱ्‌ काट्टिल् अतिशयित फलत्तैयुडैत्तागैयाले सिलर्क्कु सारमॆऩ्ऩ वायिरुन्ददेयागिलुम् दुःखमूलत्वादि दोषदुष्टमागैयाले अनुपादेयम्.  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मोक्षापेक्षया आमुष्मिक स्वर्गादिफलङ्गळुम् अतिक्षुद्रमायिरुक्क, तत्साधन प्रतिपादकांशत्तै सारमॆऩ्ऩक् कूडुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् ऐहिकफलत्तिऱ्काट्टिल् अतिशयितेति ।  
+इदऩाल् अदऩ् सारत्वम् अत्यन्ताल्पसारावधिकमागैयालुम्, निरुपाधिकमल्लामैयालुम् तथा निर्देशत्तिल् बाधकमिल्लै ऎऩ्ऱदायिऱ्ऱु। अदुवुम् अमुमुक्ष्वपेक्षया ऎऩ्गिऱार् सिलर्क्कु इति ।  
+मुमुक्ष्वपेक्षया अनुपादेयत्वे हेदुवैयरुळिच्चॆय्गिऱार् दुःखमूलत्वादीति ।  
+</details>
+
+### कैवल्य-दम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म--तत्-प्राप्ति-साधन-मात्रत्तै प्रतिपादिक्कुम् अंशमुम्  
@@ -756,6 +842,14 @@ que desean el disfrute del ser supremo.
 आत्म तत्प्राप्तिसाधनमात्रत्तै प्रतिपादिक्कुम् अंशमुम् सारतरमाग इरुन्ददेयागिलुम् अदिलुम् अत्यन्तातिशयितमाऩ परमात्मानुभवसापेक्षर्क्कु अनुपादेयम्. 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+श्रुतियिल् सिलवंशम् सारतरमायिरुप्पदऱ्कुक् कारणमरुळिच् चॆय्गिऱार् आत्म तत्प्राप्तिसाधनमात्रत्तै प्रतिपादिक्कुम् इति । ऐहिकामुष्मिकैश्वर्यत्तैक् काट्टिलुम् ज्ञानानन्दमयऩाऩ आत्मा विलक्षणऩागैयाल् अवऩैयुम् तत्प्राप्ति तत्साधनङ्गळैयुम् प्रतिपादिक्कुम् अंशम् सारतरमाम् ऎऩ्ऱु करुत्तु।
+
+आऩाल् अदु मुमुक्षुक्कळुक्कु अनुपादेयमावाऩॆऩ् ऩॆऩ्ऩ अरुळिच्चॆय्गिऱार् अत्यन्तातिशयितेति । मुमुक्षक्कळ् निरतिशय ज्ञानानन्दमय भगवदनुभवापेक्षिकळागैयाल् अवर्गळुक्कु सातिशय ज्ञानानन्दमयात्मप्राप्तिसाधन प्रतिपादकांशम् त्याज्यमाम् ऎऩ्ऱु करुत्तु।
+</details>
+
+### परमात्म-दम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परमात्म–-तत्-प्राप्ति–-तद्-उपायङ्गळै वॆळिय् इडुम् प्रदेशं  
@@ -783,6 +877,12 @@ y, por lo tanto, debe preferirse.
 परमात्म–तत्प्राप्ति–तदुपायङ्गळै वॆळियिडुम् प्रदेशं सारतममागैयाले विवेकिक्कु उपादेयम्. 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+श्रुतियिल् सिल अंशम् सारतममावदऱ्कुक् कारणमरुळिच् चॆय्गिऱार् परमात्मेति । विवेगिक्कु - हेयोपादेयक्षमऩाऩ मुमुक्षुवुक्कु। 
+</details>
+
+
 [^f40]: Mahābhārata   : Udyoga Parva: 68-5.
 
 [^f41]: Bhagavadgītā: 16–24
@@ -794,7 +894,7 @@ y, por lo tanto, debe preferirse.
 [^20]: ( Alternative meaning): "what should be attained and what should be rejected ( see Tatparya
 Chandrika: Gita; XVI: 24)
 
-## रहस्य-त्रय-प्रामुख्यम्
+### रहस्य-त्रय-सङ्ग्रहः
 <details><summary>English</summary>
 
 THE THREE MYSTERIES ARE THE MOST IMPORTANT.
@@ -802,7 +902,7 @@ THE THREE MYSTERIES ARE THE MOST IMPORTANT.
 
 <details><summary>Español</summary>
 
-Los tres misterios son los más importantes.
+Los tres misterios **son** los más importantes.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -831,16 +931,22 @@ y, por lo tanto, para ser más preferido.
 अव्वंशत्तिलुम् प्रधानप्रतितन्त्रङ्गळाऩ तत्त्वहितङ्गळुडैय संग्रह मागैयाले मिगवुम् सारतममायिरुक्कुम् रहस्यत्रयम् .  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि परमात्म तत्प्राप्ति तदुपायङ्गळै प्रतिपादिक्किऱ उपनिषद्भागमॆल्लाम् सारतममागैयाल् मुमुक्षुक्कळुक्कु उपादेयमॆऩ्ऩिल्, अदऱ्कुत्ताऩ् व्याख्यानम् सॆय्यलागादोवॆऩ्ऩ अरुळिच् चॆय्गिऱार् अव्वंशत्तिलुम् इति । सङ्ग्रहमिति । सिऱिय कण्णाडि पॆरिय उरुक्कळैक् काट्टुङ्गणक्किले उपनिषदर्थङ्गळैयॆल्लाम् सङ्ग्रहित्तु अनायासेन विशदीकरिक्कैयाले ऎऩ्ऱबडि। मिगवुम् सारतममायिरुक्कुम् रहस्यत्रयम् इति । श्लोकत्तिल् सारसारतरत्यागपूर्वक सारतमग्रहण विधानन्यायत्ताले अत्यन्त सारतमम् उपादेयतममागैयाले सारतममाऩ उपनिषद्भागमुम् इदऱ्कु व्याख्येयमागादॊऴिन्ददॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+## निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाले  
 
 > “बहुभ्यश् च महद्भ्यश् च  
 शास्त्रेभ्यो मतिमान् नरः ।  
-सर्वतस् सारम् आदद्यात्  
-पुष्पेभ्य इव षट्पदः ॥” 
+सर्वतस् सारम् **आदद्यात्**  
+पुष्पेभ्य इव षट्पदः ॥” +++(5)+++
 
-ऎऩ्गिऱप् पडिये  +++(5)+++
+ऎऩ्गिऱप् पडिये  
 </details>
 
 <details><summary>English</summary>
@@ -870,6 +976,15 @@ Estos tres misterios (mantrās).
 आगैयाले “बहुभ्यश्च महद्भ्यश्च शास्त्रेभ्यो मतिमान्नरः । सर्वतस्सारमादद्यात् पुष्पेभ्य इव षट्पदः ॥” ऎऩ्गिऱप्पडिये  
 </details>
 
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अत्यन्त सारतममे अत्यन्तोपादेयतमम्  
+ऎऩ्बदै सप्रमाणम् उपपादित्तुक्कॊण्डु अधिकारार्थत्तै उपसंहरिक्किऱार् आगैयाल् इत्यादिना । महद्भ्यः – सारतमङ्गळाऩ। सर्वतश्शास्त्रेभ्यः – सर्वाध्यात्म शास्त्रेभ्योपीत्यर्थः । मिगवुम् उपादेयमागक् कडवदु इति । मिगवुम् उपादेयमागत् तक्कदॆऩ्ऱबडि। 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 "अमैया+++(=अपर्याप्तम्)+++ इवै" ऎऩ्ऩुम् आसैयिनाल् अऱु+++(=६*)+++-मूऩ्ऱ्+++(=३)+++-उलगिल् +++(→१४ विद्यास्थानानि, ४ उपवेदाः)+++  
@@ -881,25 +996,24 @@ Estos tres misterios (mantrās).
 <details><summary>English</summary>
 
 As if what has been already learnt is not enough, the eighteen subjects of study may confront us like burdens (on the intellect); but they add only to the number (and are of no use). Therefore the ācāryas of our system (Visiştādvaitam) have, with wise discrimination, given us what the Nitya-sūris whose wisdom never languishes (literally "who never wink") speak of in exalted terms.  
-namely, the 'eight' (aṣṭākṣara) and the two' (viz) the Dvayam and the carama śloka'
+namely, the 'eight' (aṣṭākṣara) and the 'two' (viz) the Dvayam and the 'carama śloka'
 </details>
 
 <details><summary>Español</summary>
 
-Como si lo que ya se ha aprendido  
-no fuera suficiente,  
-los dieciocho sujetos de estudio pueden confrontarnos como cargas (en el intelecto);  
-Pero se suman solo al número (y no sirven de nada).  
+Como si lo que ya **se ha aprendido**  
+**no fuera suficiente**,  
+los dieciocho sujetos de **estudio pueden confrontarnos** como cargas (en el intelecto);  
+Pero **se suman** solo al número (y no sirven de nada).  
 Por lo tanto,  
-los ācāryas de nuestro sistema (Visiştādvaitam) tienen,  
-con una sabia discriminación,  
-dados  
-de lo que el nitya-sūris cuya sabiduría nunca languidece  
-(literalmente "que nunca guiño ")  
-hablan en términos exaltados -  
-A saber,  
+los ācāryas de nuestro sistema (Visiştādvaitam) **tienen**,  
+con una **sabia discriminación**,  
+**dados** de lo que el nitya-sūris cuya sabiduría **nunca languidece**  
+(literalmente "que **nunca guiño**")  
+**hablan** en términos exaltados -  
+A **saber**,  
 el 'ocho' (aṣṭākṣara)  
-y elDos '(a saber) el dvayam y el carama śloka'
+y el Dos '(a saber) el dvayam y el 'carama śloka'
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -910,6 +1024,12 @@ y elDos '(a saber) el dvayam y el carama śloka'
 समयासिरियर् सदिर्क्कुम् तनि निलै तन्दनरे. (9)
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इव्वधिकारार्थमॆल्लाम् तमक्कु आचार्यप्रसादलब्धमॆऩ्ऱु तॆरिवित्तुक् कॊण्डे इदै ऒरु पाट्टाले सङ्ग्रहिक्किऱार् अमैया इत्यादि । इवै नाम् अभ्यसित्त इन्द वित्यै। अमैयादु - पोदादु। ऎऩ्ऩुम् - ऎऩ्गिऱ। आसैयिऩाल् - इऩ्ऩुम् अभ्यसिक्क वेण्डुम् ऎऩ्गिऱ आसैयिऩाले। अभ्यस्यामानङ्गळाऩ इति शेषः । उलगिल् सुमैयाऩ - ‘‘वेदभारभराक्रान्त’’ ऎऩ्गिऱबडिये निष्फलङ् गळागैयाले केवल भारमाग लोग सिद्धङ्गळाऩ ऎऩ्ऱबडि। अऱुमूऩ्ऱु - अष्टादशङ्गळाऩ। कल्विगळ् - वित्यैगळ्। उपवेदचतुष्टयसहितङ्गळाऩ रहस्यत्रयव्यतिरिक्त चतुर्दशविद्यास्थानङ्गळ् ऎऩ्ऱबडि। सूऴ वन्दालुम् - कार्त्स्न्येन लब्धङ्गळाऩालुम्। इवै तॊगै - इवै यॆल्लाम् सङ्ख्यामात्रपूरणङ्गळ्; निस्सारङ्गळॆऩ्ऱबडि। ऎऩ्ऱु - ऎऩ्ऱु निश्चयित्तु। इदऱ्कु "ऎण्णिय" वॆऩ्बदोडु अन्वयम्। इमैया - अनिमिषर्गळाऩ। इमैयवर् - देवतैकळाले; ज्ञानसङ्कोचमिल्लाद नित्यसूरिकळाले यॆऩ्ऱबडि। एत्तिय - स्तोत्तरिक्कप्पट्ट। ऎट्टु - श्रीमदष्टाक्षरत्तैयुम्। इरण्डु - द्वयत्तैयुम्; इदु चरमश्लोकत्तिऱ्कुम् उपलक्षणम्। अथवा इरण्डु - द्वयचरमश्लोकङ्गळिरण्डैयुमॆऩ्ऩवुमाम्। ऎण्णिय - सर्वदा अनुसन्धानम् सॆय्गिऱवर्गळाऩ। नम् समयासिरियर् - नम् दर्शनप्रवर्तकर्गळाऩ आचार्यर्गळ्। सदिर्क्कुम् - सदिरैत् तरुवदाऩ, सामर्थ्यप्रदमाऩ ऎऩ्ऱबडि। तऩि निलै - अद्वितीयमाऩ इरुप्पै। असारादिगळैविट्टु सारतमत्तिलुम् मिगवुम् सारमाऩ रहस्यत्रयत्तैये उपादेयतममागक् कॊळ्ळुम्बडियाऩ स्थितियै। तन्दऩर् - कॊडुत्तार्गळ्; केवल-कृपैयाले उपदेशित्तार्गळ् ऎऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 शाखानाम् उपरि स्थितेन मनुना मूलेन **लब्धात्मकः**  
@@ -918,9 +1038,9 @@ y elDos '(a saber) el dvayam y el carama śloka'
 +++(आऽनुभव-)+++सारज्ञो यदि कश्चिद् अस्ति भुवने +++(अग्रय् उक्तानि लिङ्गानि दर्शयन्)+++, नाथस् स यूथस्य नः ॥ ९ ॥+++(5)+++
 </details>
 
-<details open><summary>विश्वास-टिप्पनी</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
-सारनिष्ठा भाष्यादिज्ञानाद् अपि मुख्या। 
+सार-निष्ठा भाष्यादि-ज्ञानाद् अपि मुख्या। 
 </details>
 
 <details><summary>English</summary>
@@ -951,5 +1071,19 @@ será el líder de todos nuestros anfitriones.
 सत्ताहेतुः सकृज्जपेन सकलं कालं द्वयेन क्षिपन् ।  
 वेदोत्तंस विहार सारथि दया गुंभेन विस्रंभितः  
 सारज्ञो यदि कश्चिदस्ति भुवने नाथस्स यूथस्य नः ॥ ९ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
+सारनिष्कर्षाधिकारः द्वितीयः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
+सारनिष्कर्षाधिकारः द्वितीयः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
 </details>
 

@@ -318,7 +318,7 @@ When words are compounded, it will be a mantra of six words -
 
 The glory of Dvayamantra is expounded in the following verse:
 
-‘एकं द्वयं त्र्यवयवम् सुखलभ्यतुर्थं व्यक्तार्थपञ्चकं उपात्तषडङ्ग योगम् । सप्तार्णवीमहिमवद्विवृताष्टवणं । रङ्गे सतामिह रसं नवमं प्रसूते '1.
+‘एकं द्वयं त्र्यवयवम् सुखलभ्यतुर्थं व्यक्तार्थपञ्चकं उपात्तषडङ्ग योगम् । सप्तार्णवीमहिमवद्विवृताष्टवणम् । रङ्गे सतामिह रसं नवमं प्रसूते '1.
 
 The Dvayamantra is of one sentence, and it is called by the name 'Dvaya'. It has got three subsidiary sentences. By
 
