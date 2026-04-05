@@ -11,6 +11,12 @@ title = "०२ सारनिष्कर्षाधिकारः"
 
 </details>
 
+<details><summary>English</summary>
+
+(2) THE CHAPTER ON THE DETERMINATION OF WHAT IS BEST  
+page77
+</details>
+
 <details><summary>मूलम्</summary>
 
 ॥ श्रीः ॥  
@@ -19,10 +25,14 @@ title = "०२ सारनिष्कर्षाधिकारः"
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-(2) THE CHAPTER ON THE DETERMINATION OF WHAT IS BEST ? page77
+॥ श्रीः ॥  
+श्रीसारबोधिनीव्याख्यायां  
+सारनिष्कर्षाधिकारः ॥  
 </details>
+
+
 
 <details><summary>English - प्रस्तावः</summary>
 
@@ -39,8 +49,16 @@ It means: “Having given up rites or activities as means to secure mokṣa , su
 3. Yet another mystery or mantra is usually called Dvayam. It consists of two parts; the first part means "I seek refuge at the feet of Nārāyaṇa  who is ever inseparable from Śrī or Lakṣmī ". The second part means: "I offer my adoration to Nārāyaṇa  and Śrī".
 
 These, then, are the "three mysteries or mantras" which are the best of what should be known and meditated upon. The fuller and more subtle meanings of these mantras are explained in later chapters.
-
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कीऴधिकारारम्भत्तिल्  
+"मूऩ्ऱिऩुळ्ळम् नाळुमुगक्क" इत्यादियाल् रहस्यत्रयम् व्याख्येयतया ज्ञापिक्कप्पट्टदु।  
+मुडिविल् तस्यैव व्याख्येयत्वे  प्रतितन्त्रसारोद्धारत्ताले  
+मुमुक्षुज्ञातव्यार्थ-प्रतिपादकत्वमुम्, अध्यात्म-विषय-शब्द-राशियिल् सारतमत्वमुम् हेतुक्कळाग सूचिप्पिक्कप् पट्टदुगळ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
