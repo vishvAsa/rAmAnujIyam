@@ -1804,7 +1804,7 @@ y que **estoy dotado** de todos los atributos **esenciales** para un **Salvador*
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-सर्वसुलभऩायित्यादि मां ऎऩ्बदिऩर्थम्।  
+सर्वसुलभऩायित्यादि माम् ऎऩ्बदिऩर्थम्।  
 ऒरुवऩैयुमे ऎऩ्बदु एकशब्दार्थम्। 
 उपायमाग अध्यवसित्तु ऎऩ्बदु शरणं व्रज ऎऩ्बदिऩर्थम्।
 </details>

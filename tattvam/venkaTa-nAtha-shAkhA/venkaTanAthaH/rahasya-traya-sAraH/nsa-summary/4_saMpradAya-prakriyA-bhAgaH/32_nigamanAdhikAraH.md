@@ -56,7 +56,7 @@ Essence of Srimad Rahasyacraya Saram
 
 The second illustration relates to Sri Ramavatara, when Sumanthra approaches Him:
 
-तं वैश्रवणसंकाशं उपविष्टं स्वलंकृतम् । ददर्श सूतः पर्यके सौवणेसौत्तरच्छदे ॥ वराहरुधिराभेण शुचिना च सुगन्धिना । अनुलिप्तं परयेन चन्दनेन परंतपम् । स्थितया पार्श्वतश्चापि वालव्यजनहस्तया । उपेतं सीतया भूयः चित्रया शशिनं यथा । तं तपन्तमिवादित्यं उपपन्नं स्वतेजसा । बवन्दे वरदं वन्दी विनयज्ञो विनीतवत् ॥
+तं वैश्रवणसंकाशम् उपविष्टं स्वलंकृतम् । ददर्श सूतः पर्यके सौवणेसौत्तरच्छदे ॥ वराहरुधिराभेण शुचिना च सुगन्धिना । अनुलिप्तं परयेन चन्दनेन परंतपम् । स्थितया पार्श्वतश्चापि वालव्यजनहस्तया । उपेतं सीतया भूयः चित्रया शशिनं यथा । तं तपन्तमिवादित्यम् उपपन्नं स्वतेजसा । बवन्दे वरदं वन्दी विनयज्ञो विनीतवत् ॥
 
 (अयोया - १६-८, ९, १०, ११) "The charioteer, Sumantra beheld Sri Rama, who was like Kubera, resplendent with ornaments and who was adorning the golden throne which was covered with costly silk. He shone brilliantly with the precious sandal Paste smeared over his body. Sita was by his side holding a fan in her handi. Just as Chitra serving the moon. He was brilliant with his lustre just like the Sun, Sumantra who was modest bowed to Sri Rama, the granter of all boons"?
 
@@ -124,7 +124,7 @@ If you say it has, then it is opposed to your statement that it is a fully
 
 Answer : The elaborate Karmas and others that are required for the three yogas such as Bhaktiyoga and others are not required for Prapatti - This is what is meant by निरपेक्षो। It does nor mean that Praparti is not having the unique and particular accessories that are established by Pramanas.
 
-'भक्तियोगादित्रयेतिकर्तव्यताभूत- गुरुतरकर्मनैरपेक्ष्यमात्रं हि अत्र विवक्षितं ।
+'भक्तियोगादित्रयेतिकर्तव्यताभूत- गुरुतरकर्मनैरपेक्ष्यमात्रं हि अत्र विवक्षितम् ।
 
 Objection : Is Sarvadharma parityaga a vidhi ? or an anuvada ? It cannot be either.
 
@@ -197,7 +197,7 @@ Index of shlokas quoted
 12 172 257
 285 182 395
 340 299
-अकृते तु भरन्यासे अतः स्वरूपत्यागोक्तो अथोपायप्रसक्तोपि अन्धोनन्धग्रहण अनादिः परमेशोयं अनित्यं असुखां लोक अनेक जन्मसहस्रीं अनेनैव तु मन्त्रेण अर्थस्वभावानुष्ठान अधिजिगमिषुराद्यं अध्यासीन तुरङ्ग वक्त्र अप्रयत्लागताः सेव्याः अपायसंप्लेवे सद्यः अभीष्टे दुस्साधे अवतारस्य सत्यत्वं अवशेनपि यन्नाम्नि आविप्लवाय धर्माणां अविवेक प्रभुत्वादेः अशक्याति कृच्छ्रेषु अशिथिल गुरुभक्तिः असारं अल्पसारं च अष्टाङ्ग योग सिद्धानां अहमस्म्यपराधानां आकर्णितो वितनुते आकारिणस्तु विज्ञानं आचार्यवत्तया मोक्ष आत्मपूजार्थं अर्थार्थं आत्माराज्यं धनंचैव आत्मैक्य दैवतैक्यं
+अकृते तु भरन्यासे अतः स्वरूपत्यागोक्तो अथोपायप्रसक्तोपि अन्धोनन्धग्रहण अनादिः परमेशोयम् अनित्यम् असुखां लोक अनेक जन्मसहस्रीम् अनेनैव तु मन्त्रेण अर्थस्वभावानुष्ठान अधिजिगमिषुराद्यम् अध्यासीन तुरङ्ग वक्त्र अप्रयत्लागताः सेव्याः अपायसंप्लेवे सद्यः अभीष्टे दुस्साधे अवतारस्य सत्यत्वम् अवशेनपि यन्नाम्नि आविप्लवाय धर्माणाम् अविवेक प्रभुत्वादेः अशक्याति कृच्छ्रेषु अशिथिल गुरुभक्तिः असारम् अल्पसारं च अष्टाङ्ग योग सिद्धानाम् अहमस्म्यपराधानाम् आकर्णितो वितनुते आकारिणस्तु विज्ञानम् आचार्यवत्तया मोक्ष आत्मपूजार्थम् अर्थार्थम् आत्माराज्यं धनंचैव आत्मैक्य दैवतैक्यं
 244 आदौ प्राप्यं 344 आब्रह्मभुवनादेते 202 आब्रह्मस्तम्बपर्यन्तं
 94 आनुकूल्यस्य संकल्पः 294 आधेयत्व प्रभृति 338 आपो नारा इतिप्रोक्ताः
 14 आभगवतः प्रथितां 138,312 आराधनानां

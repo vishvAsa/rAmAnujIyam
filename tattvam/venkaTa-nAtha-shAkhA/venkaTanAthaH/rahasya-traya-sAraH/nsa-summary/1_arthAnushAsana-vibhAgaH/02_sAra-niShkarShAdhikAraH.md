@@ -33,7 +33,7 @@ The Veda contains teachings that are required for gaining different aspirations.
 
 In this direction, the three mysterious viz. the Moolamanthra, Dwaya Manthra and Charama-sloka, are the quintessence of the teachings of the Upanishads and they are to be entertained with all effort and interest. A verse is quoted to emphasise this truth -
 
-असारं अल्पसारं च सारं सारतरं त्यजेत् । भजेत् सारतमं शास्त्रे रत्नाकर इवामृतम् ॥
+असारम् अल्पसारं च सारं सारतरं त्यजेत् । भजेत् सारतमं शास्त्रे रत्नाकर इवामृतम् ॥
 
 All those shasthras, that are beyond the Vedas, that do not admit the ultimate authority of the Veda or shastras that give a pervert interpretation of the Veda, are Asara. They must be totally discarded. The 'Alpasara' or 'a little essence signifies the Poorva-Bhaga of the Veda, where different kinds of rites and karmas are prescribed as means of attainment of worldly benefits. This is also to be discarded as they are unhelpful to a Mumukshu. Those portions of the Veda thatSaranishkarshadhikara
 

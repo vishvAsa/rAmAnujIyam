@@ -572,7 +572,7 @@ y la diosa Lakṣmī".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ऒण्+++(=भा)++++तॊडियाळ्+++(=कङ्कणा)+++ तिरु-मगळुम् नीय् उमे निला-निऱ्‌प"  
+"ऒण्+++(=भा)++++तॊडियाळ्+++(=कङ्कणा)+++ तिरु-मगळुम् नीय् उमे निला-निऱ्प"  
 (तिरुवाय्मॊऴि 4-9-1)  
 </details>
 
@@ -591,7 +591,7 @@ adornado con una llave brillante"
 
 <details><summary>मूलम्</summary>
 
-"ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्‌प" (तिरुवाय्मॊऴि 4-9-1)  
+"ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्प" (तिरुवाय्मॊऴि 4-9-1)  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -715,7 +715,7 @@ dice Śrī y permanece en tu pecho."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"नन्दा-विळक्केय् अळत्तऱ्‌क् अरिय् आय्" (पॆरियदिरुमॊऴि 3-8-1)
+"नन्दा-विळक्केय् अळत्तऱ्क् अरिय् आय्" (पॆरियदिरुमॊऴि 3-8-1)
 </details>
 
 <details><summary>English</summary>
@@ -734,7 +734,7 @@ y el eres más allá de todas las limitaciones".
 
 <details><summary>मूलम्</summary>
 
-"नन्दाविळक्के यळत्तऱ्‌करियाय्" (पॆरियदिरुमॊऴि 3-8-1)
+"नन्दाविळक्के यळत्तऱ्करियाय्" (पॆरियदिरुमॊऴि 3-8-1)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -994,7 +994,7 @@ y que posee todas las cualidades nobles".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“तमेवं गुणसंपन्नं अप्रधृष्यपराक्रमं” (रामायणम् अ-का 1-34)  
+“तमेवं गुणसंपन्नम् अप्रधृष्यपराक्रमं” (रामायणम् अ-का 1-34)  
 </details>
 
 <details><summary>English</summary>
@@ -1013,7 +1013,7 @@ y de valor irresistible".
 
 <details><summary>मूलम्</summary>
 
-“तमेवं गुणसंपन्नं अप्रधृष्यपराक्रमं” (रामायणम् अ-का 1-34)  
+“तमेवं गुणसंपन्नम् अप्रधृष्यपराक्रमं” (रामायणम् अ-का 1-34)  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1144,7 +1144,7 @@ de todos los que están en peligro ".
 
 <details><summary>मूलम्</summary>
 
-“निवासवृक्षस्साधूनां आपन्नानां परा गतिः” (रामायणम् किष् काण्डम् 15-19)
+“निवासवृक्षस्साधूनाम् आपन्नानां परा गतिः” (रामायणम् किष् काण्डम् 15-19)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -36,7 +36,7 @@ When one enlightens his disciples, if one does not proclaim one's own preceptor'
 
 Similarly, if one teaches something opposed to the instructions given by his teachers, he will be a deceiver and he will be going against the shastras. In the same way, if he fails to instruct a deserving disciple at the appropriate time, he will be committing the fault of transgressing the Divine Command. It is declared in the following verse, as follows:
 
-'पात्रस्थं आत्मज्ञानं कृत्वा पिण्डं समुत्सृजेत् । नान्तर्धाय स्वयं याति जगद्विजमबीजकृत् ॥
+'पात्रस्थम् आत्मज्ञानं कृत्वा पिण्डं समुत्सृजेत् । नान्तर्धाय स्वयं याति जगद्विजमबीजकृत् ॥
 
 'Before the fall of his body, a person should hand over the knowledge he possesses the shastra) to a virtuous and worthy disciple. The Acharya should so behave that, without enlightening - through instruction - the Veda Shastras
 

@@ -50,7 +50,7 @@ Essence of Srimad Rahasyataya Saram
 
 full competence of the aspirant for adopting the means of surrender. This is just like the statement -
 
-अनित्यमसुखं लोकं इमं प्राप्य भजस्व माम् । In this statement prapya' is not a vidhi or commandment; but, only a restatement of the form of 'प्राप्यवर्तमानः त्वम्' that means 'you who have come upon this world'. Similarly, the term 'parityajya' means you fee: 14.' -' you, who are here, having no hope of practising any other means'. So, 'parityajya' does not imply abandonment of dharmas, as an accessory to Prapatti. If 'parityajyam' is taken as a vidhi or commandment, then it should be understood that it is prescribing tug' or utter helplessness as an accessory to prapatti. Then it will signify that all dharmas or other mokshopayas are beyond his ability. So this interpretation is also feasible. If 'parityajya' is taken as a 'vidhi' or 'commandment', it is appropriate to say that for the sake of Prapatti you need not practise any dharma, as Prapatti is not in need of anything other than its accessories.
+अनित्यमसुखं लोकम् इमं प्राप्य भजस्व माम् । In this statement prapya' is not a vidhi or commandment; but, only a restatement of the form of 'प्राप्यवर्तमानः त्वम्' that means 'you who have come upon this world'. Similarly, the term 'parityajya' means you fee: 14.' -' you, who are here, having no hope of practising any other means'. So, 'parityajya' does not imply abandonment of dharmas, as an accessory to Prapatti. If 'parityajyam' is taken as a vidhi or commandment, then it should be understood that it is prescribing tug' or utter helplessness as an accessory to prapatti. Then it will signify that all dharmas or other mokshopayas are beyond his ability. So this interpretation is also feasible. If 'parityajya' is taken as a 'vidhi' or 'commandment', it is appropriate to say that for the sake of Prapatti you need not practise any dharma, as Prapatti is not in need of anything other than its accessories.
 
 If it is mentioned that the abandonment of all dharmas like Karmayoga, Jnanayoga and Bhaktiyoga, is to be done in their essential nature, as an accessory to Prapatti, then Prapatti will not be possible of being done by all, as it would apply to only those who are competent to practise Karmayoga, Jnanayoga and Bhaktiyoga. Tyaga can be ordained only in respect of one who is competent for it. As the masters of yore and the Alwars have expounded that Prapatti is applicable to one and all that are utterly helpless, this kind of abandonment of Karmayoga and others will not become compatible. In that case, the injunction 'Vraja' also will become incompatible.
 
@@ -68,7 +68,7 @@ Some masters expounded that the term 'eka' signified that this 'upaya' did not r
 
 If it is asked how there is difference amongst people who are qualified for prapatti as pointed out in the verse –
 
-इदं शरणमज्ञानां इदमेव विजानताम् । इदं तितीर्षतां पारं इदमानन्त्यमिच्छताम् ॥
+इदं शरणमज्ञानाम् इदमेव विजानताम् । इदं तितीर्षतां पारम् इदमानन्त्यमिच्छताम् ॥
 
 rse
 
@@ -90,7 +90,7 @@ Desike concludes after discussing all aspects that 'upasanas' and 'prapadana' ar
 
 'अशक्यातिकृच्छ्रेषु दुराशादायशालिनः ।
 
-कस्यचित् बुद्धिदौर्बल्यात् लघुत्यागस्य कारणम् ॥ तत्र प्रपत्त्यनर्हाणां अन्यदित्यपि युज्यते । व्यासादिषु तु नैवेषा नीतिः संशयपातिषु' ॥
+कस्यचित् बुद्धिदौर्बल्यात् लघुत्यागस्य कारणम् ॥ तत्र प्रपत्त्यनर्हाणाम् अन्यदित्यपि युज्यते । व्यासादिषु तु नैवेषा नीतिः संशयपातिषु' ॥
 
 "One who is incapable of practising other means of liberation (i.e. upasanas) but who has a strong 'durāsha' namely that there is no means other than Bhaktiyoga and that he would win 'mukti' only through Bhaktiyoga, in spite of good advice by well-wishers, will give up the 'laghu upaya' i.e. prapatti, on account of his 'buddhi-dourbalyam'
 
@@ -217,7 +217,7 @@ Though 'ekam' significs the prime means namely the siddhopaya', it also points o
 
 Thus, Desika has expounded the several significant meanings of the term 'ekam' and sumamrises them all in the following verses. Six prominent meanings are pointed out here
 
-‘प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् । प्रपत्तेः व्याजमात्रत्वं अन्योपायैरनन्वयः ॥ तदंगैरप्यसंबंधः सर्वसाध्येष्वभिन्नता । इत्थमर्थाः षडाचार्यैः एकशब्दस्य दर्शिताः' ॥
+‘प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् । प्रपत्तेः व्याजमात्रत्वम् अन्योपायैरनन्वयः ॥ तदंगैरप्यसंबंधः सर्वसाध्येष्वभिन्नता । इत्थमर्थाः षडाचार्यैः एकशब्दस्य दर्शिताः' ॥
 
 The 'prapya' alone is the 'prapaka'. The importance of the '31fefta' is set aside. Prapatti is only a 'vyaja' or occasion; it is not an equal to the 'siddhopaya'. It is not combined with other means like Bhaktiyoga. It is not requiring the accessories of Bhaktiyoga. It is the one means that can get all objects of attainment. The venerable Acharyas have thus shown the six meanings of the term 'ekam'.
 
@@ -311,7 +311,7 @@ person to person in such cases of committing intentional sins after prapatti acc
 
 So, it is an established fact that normally a prapanna does not commit any intentional sin after prapatti, and in case, on account of his past karma, such sins occur, he prays for forgiveness with repentance; and in case, one does not repent, the Lord purifics them by inflicting suitable punishment. A prapanna is, therefore, sure to attain his object of attainment with certainity.
 
-'विवेकिनां प्रपन्नानां धीपूर्वागस्यनुद्यमः । मध्यानां अनुतापादिः शिक्षा कठिनचेतसाम्'।
+'विवेकिनां प्रपन्नानां धीपूर्वागस्यनुद्यमः । मध्यानाम् अनुतापादिः शिक्षा कठिनचेतसाम्'।
 
 The term 'mokshayishyami' gives the assurance - "I am going to relieve you from samsara, when you desire." The Lord has vowed that he would not forgive certain sins When it is so, is not this statement - I free you from all sins - contradictory?
 

@@ -18,7 +18,7 @@ The Introductory verse sums up the subject matter of this section.
 
 मुकुन्दे निक्षिप्य स्वभरमनघो मुक्तवदसौ स्वतन्त्राज्ञासिद्धां स्वयमविदितस्वामिहृदयः । परित्यागे सद्यस्स्वपरविविधानर्थजननात्
 
-अलंघ्यां आमोक्षादनुसरति शास्त्रीय सरणिम् ॥ "Having placed the burden of his protection on the Lord Mukunda he is just like a liberated one. He cannot know directly the intention of the Lord as he is yet embodied. In abandoning the path of the shastras, that is of the form of the commandment of the Supreme Lord he will be causing many hazards to himself as well as others and so he will obey the dictates of the shastras till he is liberated."
+अलंघ्याम् आमोक्षादनुसरति शास्त्रीय सरणिम् ॥ "Having placed the burden of his protection on the Lord Mukunda he is just like a liberated one. He cannot know directly the intention of the Lord as he is yet embodied. In abandoning the path of the shastras, that is of the form of the commandment of the Supreme Lord he will be causing many hazards to himself as well as others and so he will obey the dictates of the shastras till he is liberated."
 
 This Prapannadhikari who is associated with a body commenced on account of his prarabdha karmas and belonging to a particular varna and asrama, subjected to the performance of the respective duties, is verily like a liberated one, though contacting that body. Having entrusted the burden of his protection to the Lord, he is similar to a liberated one. He is to devote himself to the service of the Lord. As he is yet with the body, he cannot know the will of the Lord directly, and so has to know his intention only from the shastras. If he gives up the duties of his station in life, he will be causing 3778 to himself and others.
 

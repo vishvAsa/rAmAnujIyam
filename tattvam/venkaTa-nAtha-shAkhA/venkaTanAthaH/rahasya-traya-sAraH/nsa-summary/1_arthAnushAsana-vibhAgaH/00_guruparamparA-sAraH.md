@@ -12,7 +12,7 @@ At the very commencement of this great work, we find a chapter devoted to the fa
 
 introductory chapter being of the form of मङ्गलाचरणम् because the Upodghatha Adhikara commences with a Mangala beginning with the verse ‘3740197: stai
 
-अनघां आचार्यसन्ततिं वन्दें । There are introductory verses and concluding verses for this chapter of Guruparampara Sara and so is an
+अनघाम् आचार्यसन्ततिं वन्देम् । There are introductory verses and concluding verses for this chapter of Guruparampara Sara and so is an
 
 independent chapter altogether. 3. In the conclusion also, there is no mention in the
 
@@ -38,7 +38,7 @@ commencing with Guruparampara Saram. 4. This chapter expounds that all profound 
 
 vedantha are known from the teachings of the mystic Alwars. The term 'Dampathi Jagathampathi' found in the invocatory verse (that it is devoted to the divine couple) is also found in the concluding verse of this great composition "Sharanya Dampathi Vidam Sammatah Samagruhyata" and this also indicates that the composition begins with Guruparampara Sara and concludes with Nigamana.
 
-The Mangalacharanam found in the Guruparampara Saram is continued and extended in the verse आभगवत्तः प्रथितां अनघां आचार्यसन्ततिं वन्दे' in the Upodgatha
+The Mangalacharanam found in the Guruparampara Saram is continued and extended in the verse आभगवत्तः प्रथिताम् अनघाम् आचार्यसन्ततिं वन्दे' in the Upodgatha
 
 IL
 
@@ -90,7 +90,7 @@ The Supreme Paramatman is declared as Paramacharya who taught the supreme truth 
 
 The dismal darkness of ignorance that enveloped the universe was dispelled by the Lord and the 344 HUGRI was promulgated without any cessation in the world. The Lord is therefore the supreme guru on account of the Shasthra Pravarthana, directly and indirectly.
 
-'तमिमं सर्वसंपन्नं आचार्य पितरं गुरुम्' । 'ममाप्यखिलजन्तूनां गुरुः नारायणो हरिः' 'गुरुरसि गतिश्चासि जगताम्' ।
+'तमिमं सर्वसंपन्नम् आचार्य पितरं गुरुम्' । 'ममाप्यखिलजन्तूनां गुरुः नारायणो हरिः' 'गुरुरसि गतिश्चासि जगताम्' ।
 
 Guruparampara Sara
 

@@ -21,7 +21,7 @@ In view of all these facts, Vedantha Desika has expounded the whole reality of t
 
 In an introductory vecse to this chapter, Desika declares that well-meaning people who depend upon valid means of knowledge never give credence to the different doctrines o Ishvara, proposed by unwise people. Those different doctrines arc of different forms such as
 
-आत्मैक्यं देवतैक्यं त्रिकसमधिगता तुल्यतैक्यं त्रयाणां अन्यत्रैश्वर्यमित्याद्यनिपुणफणितीः आद्रियन्ते न सन्तः । त्रय्यन्तैरेककण्ठैस्तदनुगुणमनु व्यासमुख्योक्तिभिश्च श्रीमानारायणो नः पतिरखिलतनुः मुक्तिदो मुक्तभोग्यः ॥
+आत्मैक्यं देवतैक्यं त्रिकसमधिगता तुल्यतैक्यं त्रयाणाम् अन्यत्रैश्वर्यमित्याद्यनिपुणफणितीः आद्रियन्ते न सन्तः । त्रय्यन्तैरेककण्ठैस्तदनुगुणमनु व्यासमुख्योक्तिभिश्च श्रीमानारायणो नः पतिरखिलतनुः मुक्तिदो मुक्तभोग्यः ॥
 
 Paradcvata Paramarthyadhikara
 
@@ -87,7 +87,7 @@ Paradevata Paramarthyadhikara
 
 'परो नारायणो देवः तस्माज्जातश्चतुर्मुखः । तस्मात् रुद्रोऽभवत् ।
 
-"For protecting all entities, you incorporated yourself, out of your will, in the midst of the trinity, as 'Vishnu' 'रक्षार्थं सर्वभूतानां विष्णुत्वं उपजग्मिवान्' ।
+"For protecting all entities, you incorporated yourself, out of your will, in the midst of the trinity, as 'Vishnu' 'रक्षार्थं सर्वभूतानां विष्णुत्वम् उपजग्मिवान्' ।
 
 __ "Except that one 'Purusha', the primeval Vasudeva, there is no entity either moving or non-moving that is eternal."
 
@@ -149,7 +149,7 @@ Beginning with that Brahma, all living beings are not pure and auspicious as the
 
 'कर्मणां परिपाकत्वात् आविरिश्चादमंगलम् । इतिमत्वा विरक्तस्य वासुदेवः परागतिः'।
 
-The Supreme Narayana is the 'ashrayaneeya' or ultimate refuge to all other gods. But for that Supreme Narayana, there is no one who his "ashrayaneeya". 'ममाश्रयो न कश्चित्तु सर्वेषां आश्रयोऽह्यहम् ।
+The Supreme Narayana is the 'ashrayaneeya' or ultimate refuge to all other gods. But for that Supreme Narayana, there is no one who his "ashrayaneeya". 'ममाश्रयो न कश्चित्तु सर्वेषाम् आश्रयोऽह्यहम् ।
 
 Gods take refuge in Rudra. Rurda has Brahma as his refuge and that Brahma takes refuge in me and I have no one to take refuge. I am the final refuge." - says the Lord. The Supreme Narayana is the Lord of both the Nitya vibhuti and Leela-vibhuti. All others are the vibhutis of that Supreme Lord. The auspicious term 'Narayana' itself
 

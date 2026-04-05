@@ -27,7 +27,7 @@ virtue of devotion to the Lord. Here, Desika emphasises that all devotees of the
 
 Such statements, saying that an out-caste, who has pure character and devotion, should be known as 'Brahmin' and an ascetic who has fallen from his vows should be known as an out-caste; a person - whose head has grown grey - should not be considered as 'elder' but an youngster - who has gained knowledge should be considered as 'old', prescribing praise and censure, are meant for showing respect or otherwise. They should not be literally taken as such -
 
-प्रतिपत्तिविशेषार्थं अन्यत्रान्यत्वकीर्तनम् ।
+प्रतिपत्तिविशेषार्थम् अन्यत्रान्यत्वकीर्तनम् ।
 
 Mentioning in something, a quite different thing, such as "thinking of an out-caste in a fallen brahmin, fallen ascetic, etc," is for showing particular respect or not showing respect.
 
@@ -111,7 +111,7 @@ Prabhava Vyavasthadhikara
 
 प्रायश्चित्तिरियं सात्र यत्पुनः शरणं व्रजेत् ।
 
-पुनः प्रपद्यते नाथं अभिन्दन् लोकसंग्रहम् ।
+पुनः प्रपद्यते नाथम् अभिन्दन् लोकसंग्रहम् ।
 
 From all these, it becomes established that there is a possibility of committing intentional sins, even after Prapatti. When such sins happen, one should repent and run to the Lord with a prayer to forgive those sins by performing a 'prayaschitha-prapatti'. It is ordained that non-intentional sins only, do not taint him.
 

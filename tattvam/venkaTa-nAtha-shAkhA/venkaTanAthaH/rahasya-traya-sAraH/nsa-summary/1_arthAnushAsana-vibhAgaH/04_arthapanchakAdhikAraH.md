@@ -128,7 +128,7 @@ Artha Panchakadhikara
 
 The gist of this section is summarised in one verse to the end of this chapter as follows:
 
-प्राप्यं ब्रह्म समस्तशेषिपरमं प्राप्ताहमस्योचितः प्राप्तिः दायधन क्रमादिह मम प्राप्ता स्वतः सूरिवत् । हन्तैनामतिवृत्तवानहं अहंमत्या विमत्याश्रयः सेतुः संप्रति शेषिदम्पति भरन्यासस्तु मे शिष्यते ॥
+प्राप्यं ब्रह्म समस्तशेषिपरमं प्राप्ताहमस्योचितः प्राप्तिः दायधन क्रमादिह मम प्राप्ता स्वतः सूरिवत् । हन्तैनामतिवृत्तवानहम् अहंमत्या विमत्याश्रयः सेतुः संप्रति शेषिदम्पति भरन्यासस्तु मे शिष्यते ॥
 
 The object of attainment is the Supreme Brahman, that is by nature the "sheshin" of all and that is most celebrated on account of all perfections without any defilement. I am the one who am fit to attain him by virtue of my essential nature of consciousness, purity and others. The attainment is just like the attainment of paternal property by his son and others. Even as in the case of the eternals I am the attainer on account of my essential nature Alas ! I transgressed this attainment by my own fault of the form of ego and ignorance.
 

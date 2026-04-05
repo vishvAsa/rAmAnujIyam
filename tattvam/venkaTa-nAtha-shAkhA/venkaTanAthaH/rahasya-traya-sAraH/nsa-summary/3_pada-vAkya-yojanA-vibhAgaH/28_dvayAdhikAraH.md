@@ -10,7 +10,7 @@ CHAPTER - XXVIII
 
 Dvayadhikara
 
-The Dvaya Mantra illumincs clearly the particular means of spiritual perfection that is prescribed in the middle term of the Mula Mantra, and also the particular object of attainment that is laid out in the third term of the Mula Mantra. This Holy Mantra is described by Desika as a 'Tantrika Mantra' which is expounded in the shruti. 'सकृदुच्चारः संसारतारणं भवति' - This signifies the greatness of this Mantra. The two sentences have been mentioned separately and it is ordained that it should be meditated upon with the Mantra- 'इदंपूर्णं अदं पूर्णम्' - in the middle. In Sri Pancharathra Mahopanishat - in Tantra-Jnana-Pada - in the First Chapter, the meaning of 'Dvaya Mantra' is described as follows:
+The Dvaya Mantra illumincs clearly the particular means of spiritual perfection that is prescribed in the middle term of the Mula Mantra, and also the particular object of attainment that is laid out in the third term of the Mula Mantra. This Holy Mantra is described by Desika as a 'Tantrika Mantra' which is expounded in the shruti. 'सकृदुच्चारः संसारतारणं भवति' - This signifies the greatness of this Mantra. The two sentences have been mentioned separately and it is ordained that it should be meditated upon with the Mantra- 'इदंपूर्णम् अदं पूर्णम्' - in the middle. In Sri Pancharathra Mahopanishat - in Tantra-Jnana-Pada - in the First Chapter, the meaning of 'Dvaya Mantra' is described as follows:
 
 'लक्ष्मीनारायणमयं प्रणवार्थप्रकाशकम् । सत्यज्ञानानन्दरूपं श्रीकरं तं नमाम्यहम् ॥ जीवान्तर्यामिणं देवं सर्वान्तार्यामिणं प्रभुम् । अर्चावतारं सद्विष्णुं मकारं तं नमाम्यहम् ॥
 
@@ -100,7 +100,7 @@ The meaning of 'SHARPIU'
 
 The Supreme Reality (Baratattva) that is the one Refuge of all (sarva-sharanya) is signified by this term. The unique characteristic of 'श्रियःपतित्व' and the celebrated name 'Narayana', which is praised gloriously in the Narayana Anuvaka determine the Paradevaca-svarupa. Narayana characterised by Sri, is the protector. As the goddess 'Sri' is inseparable from Narayana, we have to know Him only along with 'Sri' -
 
-'आकारिणस्तु विज्ञानं आकारज्ञानपूर्वकम् । तेनाकारं श्रियं ज्ञात्वा ज्ञातव्यो भगवान् हरिः' ।
+'आकारिणस्तु विज्ञानम् आकारज्ञानपूर्वकम् । तेनाकारं श्रियं ज्ञात्वा ज्ञातव्यो भगवान् हरिः' ।
 
 "The knowledge of a qualified object is possible only through the attribute. So, knowing first the 'Sri' who is an 'Akāra' or a 'visheshana', the 'Akāri' or 'visheshya' - the Lord is to be known".
 
@@ -190,7 +190,7 @@ The cerm 'charanau' indicates the eternal, auspicious, non-material form of the 
 
 "The Lord shows Himself to a person whose mind is devoted to these two natures of the Lord; in whose heart the eternally realised auspicious form of the Lord and the knowledge of His utmost supremacy, are present". In the term 'Sriman Narayan', one should reflect upon the supremacy combined with accessibility of the Lord, and in the term 'charanau' the fact of His possessing an eternal auspicious non-material body (Nitya Vigraha Yoga) is to be reflected.
 
-Even for those people, who have not the knowledge of the auspicious qualities of the Lord, the auspicious divine form may be the object of meditation. As the form itself is more prominent than the auspicious qualities, Bhagavan Ramanuja describes the divine form the Lord, prior to the exposition of His auspicious qualities in his Gadyam. The Divine Form of the Lord is called 'Shubhashraya'. 'परावरसुखग्राह्यं प्रेमबोधप्रसावकम् । स्वरूपात् स्वामिनो रूपं उपादेयतमं विदुः॥ 'चित्तालम्बन सौकर्यकृपोत्तम्भकतदिभिः । उपायत्वमिह स्वामिपादयोरनुसंहितम् ॥
+Even for those people, who have not the knowledge of the auspicious qualities of the Lord, the auspicious divine form may be the object of meditation. As the form itself is more prominent than the auspicious qualities, Bhagavan Ramanuja describes the divine form the Lord, prior to the exposition of His auspicious qualities in his Gadyam. The Divine Form of the Lord is called 'Shubhashraya'. 'परावरसुखग्राह्यं प्रेमबोधप्रसावकम् । स्वरूपात् स्वामिनो रूपम् उपादेयतमं विदुः॥ 'चित्तालम्बन सौकर्यकृपोत्तम्भकतदिभिः । उपायत्वमिह स्वामिपादयोरनुसंहितम् ॥
 
 The sacred feet of the Lord have the facility of being thought of by the mind and the compassion of the Lord will be aroused by one's devotion to His feet. So here, the fact of being our means of realisation is thought of, in the two feet of the Lord. The Alwars also have concentrated upon the Holy Feet of the Lord, as their means of salvation.
 
@@ -318,7 +318,7 @@ When words are compounded, it will be a mantra of six words -
 
 The glory of Dvayamantra is expounded in the following verse:
 
-‘एकं द्वयं त्र्यवयवम् सुखलभ्यतुर्थं व्यक्तार्थपञ्चकं उपात्तषडङ्ग योगम् । सप्तार्णवीमहिमवद्विवृताष्टवणं । रङ्गे सतामिह रसं नवमं प्रसूते '1.
+‘एकं द्वयं त्र्यवयवम् सुखलभ्यतुर्थं व्यक्तार्थपञ्चकम् उपात्तषडङ्ग योगम् । सप्तार्णवीमहिमवद्विवृताष्टवणम् । रङ्गे सतामिह रसं नवमं प्रसूते '1.
 
 The Dvayamantra is of one sentence, and it is called by the name 'Dvaya'. It has got three subsidiary sentences. By
 
