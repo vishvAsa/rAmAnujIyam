@@ -194,7 +194,7 @@ How the Jīvātmā lost this heritage.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रियःपतिय् आऩ सर्वेश्वरनुक्कु  
+श्रियःपतिय् आऩ सर्वेश्वरऩुक्कु  
 श्रीकौस्तुभ-स्थानीयऩ् आय्क् कॊण्डु  
 हृदयङ्-गमऩ् आय्, कुमारऩ् ऎऩ्ऱुम्, पुत्रऩ् ऎऩ्ऱुम्, शिष्यऩ् ऎऩ्ऱुम्,  
 प्रेष्यऩ् ऎऩ्ऱुम्, शेष-भूतऩ् ऎऩ्ऱुम्, दास-भूतऩ् ऎऩ्ऱुम्,  
@@ -1061,7 +1061,7 @@ In the case of the prince (of the parable) some generous benefactors who were aw
 ### उपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवनुक्कु  
+इवऩुक्कु  
 वन्देऱिय्+++(=आगन्तुकम्)+++ आऩ जात्य्-अन्तराभिमानत्तै  
 वऴि विलक्कि+++(=निष्कास्य)+++
 </details>
@@ -1074,7 +1074,7 @@ They removed from his mind his false identification of himself with the tribesme
 
 <details><summary>मूलम्</summary>
 
-इवनुक्कु वन्देऱियाऩ जात्यन्तराभिमानत्तै वऴि विलक्कि
+इवऩुक्कु वन्देऱियाऩ जात्यन्तराभिमानत्तै वऴि विलक्कि
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -1109,7 +1109,7 @@ and by discipline and training, physical and spiritual, enabled him to become gr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवनुक्कु स्वजात्य्-अनुरूपम् आऩ गुण-वृत्तङ्गळैत्  
+इवऩुक्कु स्वजात्य्-अनुरूपम् आऩ गुण-वृत्तङ्गळैत्  
 तङ्गळ् उपदेशानुष्ठानङ्गळाले कुडिप्+++(=कुलम्)+++ पुगुरव्+++(=प्रवेश)+++ इट्टु
 </details>
 
@@ -1120,7 +1120,7 @@ They made him realise, both by precept and by example, what befitted him as a pr
 
 <details><summary>मूलम्</summary>
 
-इवनुक्कु स्वजात्यनुरूपमाऩ गुणवृत्तङ्गळैत् तङ्गळु- पदेशानुष्ठानङ्गळाले कुडिप्पुगुरविट्टु
+इवऩुक्कु स्वजात्यनुरूपमाऩ गुणवृत्तङ्गळैत् तङ्गळु- पदेशानुष्ठानङ्गळाले कुडिप्पुगुरविट्टु
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -1131,7 +1131,7 @@ They made him realise, both by precept and by example, what befitted him as a pr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवनुक्कु अनेक-दोष-दुष्टङ्गळ् आऩ  
+इवऩुक्कु अनेक-दोष-दुष्टङ्गळ् आऩ  
 शबरादि-भोग्य--क्षुद्र-विषयङ्गळैय् अरुवरुप्प्+++(=जुगुप्सां)+++ इत्तु,
 </details>
 
@@ -1142,7 +1142,7 @@ and thus rendered him capable of hating the mean and gruesome enjoyments of sava
 
 <details><summary>मूलम्</summary>
 
-इवनुक्कु अनेकदोषदुष्टङ्गळाऩ शबरादि भोग्यक्षुद्रविषयङ्गळै यरुवरुप्पित्तु,
+इवऩुक्कु अनेकदोषदुष्टङ्गळाऩ शबरादि भोग्यक्षुद्रविषयङ्गळै यरुवरुप्पित्तु,
 </details>
 
 
@@ -1396,7 +1396,7 @@ these **are** six causes that lead to the acquisition of an ācārya."
 ### राज-मेलनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्द राज-कुमारनुक्कुच् चिल राजान्तरङ्गर् नेर् पट्टुप्  
+अन्द राज-कुमारऩुक्कुच् चिल राजान्तरङ्गर् नेर् पट्टुप्  
 पिऱवियैय् उणर्त्ति+++(=अवगमय्य)+++
 </details>
 
@@ -1407,7 +1407,7 @@ these **are** six causes that lead to the acquisition of an ācārya."
 
 <details><summary>मूलम्</summary>
 
-अन्द राजकुमारनुक्कुच् चिल राजान्तरङ्गर् नेर् पट्टुप् पिऱवियैयुणर्त्ति
+अन्द राजकुमारऩुक्कुच् चिल राजान्तरङ्गर् नेर् पट्टुप् पिऱवियैयुणर्त्ति
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -1445,7 +1445,7 @@ these **are** six causes that lead to the acquisition of an ācārya."
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऒरु विरगालेय् अन्द राजावुक्कुम्  
-राजकुमारनुक्कुम्  
+राजकुमारऩुक्कुम्  
 परस्पर-संश्लेषाकाङ्क्षैयैय् उत्तम्भिक्कुमाप् पोलेय्  
 </details>
 
@@ -1458,7 +1458,7 @@ So also with the Jīva  .
 
 <details><summary>मूलम्</summary>
 
-ऒरुविरगालेयन्द राजावुक्कुम् राजकुमारनुक्कुम् परस्परसंश्लेषाकाङ्क्षैयै युत्तम्भिक्कुमाप्पोलेय् 
+ऒरुविरगालेयन्द राजावुक्कुम् राजकुमारऩुक्कुम् परस्परसंश्लेषाकाङ्क्षैयै युत्तम्भिक्कुमाप्पोलेय् 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -1472,7 +1472,7 @@ So also with the Jīva  .
 ## जीवोपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवनुक्कुम्  
+इवऩुक्कुम्  
 
 > “नायं देवो न मर्त्यो वा  
 न तिर्यक् स्थावरोपि वा ।  
@@ -1496,7 +1496,7 @@ and it is entirely dependent on the Supreme Being
 
 <details><summary>मूलम्</summary>
 
-इवनुक्कुम्  
+इवऩुक्कुम्  
 “नायं देवो न मर्त्यो वा न तिर्यक्स्थावरोपि वा । ज्ञानानन्दमयस्त्वात्मा शेषो हि परमात्मनः” ऎऩ्ऱुम् 
 </details>
 
@@ -1556,7 +1556,7 @@ His gurus reveal to the Jīva the intimate relation existing between him and Nā
 ### कृपोद्यमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवनुक्कु तत्-प्राप्त्य्-उपायङ्गळिले मुयऩ्ऱु+++(=उद्यम्य)+++,  
+इवऩुक्कु तत्-प्राप्त्य्-उपायङ्गळिले मुयऩ्ऱु+++(=उद्यम्य)+++,  
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -1572,7 +1572,7 @@ These gurus try earnestly to help the Jīva   attain the Lord
 
 <details><summary>मूलम्</summary>
 
-इवनुक्कु तत्प्राप्त्युपायङ्गळिले मुयऩ्ऱु,
+इवऩुक्कु तत्प्राप्त्युपायङ्गळिले मुयऩ्ऱु,
 </details>
 
 

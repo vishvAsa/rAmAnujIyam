@@ -111,7 +111,7 @@ it reveals its own existence as well).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु ईश्वरनुक्कुम् नित्यरुक्कुम् नित्य-विभुव् आय् इरुक्कुम्.
+इदु ईश्वरऩुक्कुम् नित्यरुक्कुम् नित्य-विभुव् आय् इरुक्कुम्.
 </details>
 
 <details><summary>English</summary>
@@ -128,7 +128,7 @@ this attributive knowledge is eternally all-pervasive.
 
 <details><summary>मूलम्</summary>
 
-इदु ईश्वरनुक्कुम् नित्यरुक्कुम् नित्यविभुवायिरुक्कुम्.
+इदु ईश्वरऩुक्कुम् नित्यरुक्कुम् नित्यविभुवायिरुक्कुम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
