@@ -2,11 +2,6 @@
 title = "० परिचयः"
 +++
 
-<details><summary>Español</summary>
-
-4 \.El capítulo sobre las cinco cosas  
-Eso debería ser conocido por cada buscador después de la salvación.
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
