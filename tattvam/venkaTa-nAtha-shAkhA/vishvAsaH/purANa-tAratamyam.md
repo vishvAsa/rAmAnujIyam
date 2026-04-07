@@ -47,7 +47,7 @@ English summary of shrI-jIva's view-
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-[वेदार्थसङ्ग्रहे](/rAmAnujIyam/content/tattvam/rAmAnujaH/vedArtha-sangrahaH/sarva-prastutiH/16_ku-dRShTiH) - 
+[वेदार्थसङ्ग्रहे](/rAmAnujIyam/tattvam/rAmAnujaH/vedArtha-sangrahaH/sarva-prastutiH/16_ku-dRShTiH) - 
 
 यथोक्तं मात्स्ये
 
