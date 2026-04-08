@@ -7,7 +7,7 @@ title = "प्रमाणानि"
 
 अदुष्टम् प्रत्यक्षम् > वेदाः, ब्रह्म-सूत्राणि > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > आन्तरिक-तारतम्येन वैष्णवा आगमाः, द्रविड-गाथाः, सम्प्रदाय-रहस्य-ग्रन्थाः > राजस-तामस-पुराणानि, इतरागमाः ससाङ्ख्ययोगादयः > गुर्व्-आद्य्-आदेशः > शिष्टाचारः > ऐतिह्यम्।
 
-तत्र ब्रह्म-सूत्राणां रहस्यग्रन्थानां च निर्णायकत्वेन प्रामाण्यम्।  
+तत्र ब्रह्म-सूत्राणां रहस्यग्रन्थानां च निर्णायकत्वेन प्रामाण्यम् इति साम्प्रदायिकाः।  
 (The purpose of the Brahmasutras is to establish the right interpretation of the Shruti; hence equal priority.)
 
 
@@ -140,7 +140,7 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 ## स्मृतिः
 साधारणविचारो ऽन्यत्र द्रष्टव्यः। 
 
-स्मृतीनां काचिद् आवलिर् लभ्यते वैकुण्ठदीक्षितीये - [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/03_shAstra-nAma-nirUpaNam) । तत्र सात्त्विक-राजस-तामस-विभागो वर्तते। 
+१८ स्मृतीनां, १८ उपस्मृतीनां च काचिद् आवलिर् लभ्यते वैकुण्ठदीक्षितीये - [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/03_shAstra-nAma-nirUpaNam) । तत्र सात्त्विक-राजस-तामस-विभागो वर्तते। 
 
 
 ### पुराणापेक्षया बलीयस्त्वम्  
