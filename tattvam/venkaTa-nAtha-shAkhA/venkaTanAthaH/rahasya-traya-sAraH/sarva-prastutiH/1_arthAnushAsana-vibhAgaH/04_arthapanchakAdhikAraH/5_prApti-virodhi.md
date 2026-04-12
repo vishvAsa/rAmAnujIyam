@@ -38,6 +38,8 @@ por el karma en nacimientos anteriores
 प्राप्तिविरोधियावदु अविद्या-कर्म-वासनादि-रूपमाऩ मोक्ष-प्रतिबन्धकवर्गम्.
 </details>
 
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदिल् प्रधानम्  
