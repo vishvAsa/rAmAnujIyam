@@ -7,11 +7,8 @@ Source: [TW](https://granthams.koyil.org/thathva-thrayam-tamil/)
 
 e-book – <https://1drv.ms/b/s!AiNzc-LF3uwyhBPUAeJrDPPzj52d>
 
+## परिचयः
 पिळ्ळै उलगासिरियर् तमदु अळप्परिय निर्हेदुग किरुबैयाल् नमक्कु “तत्व त्रयम्” ऎऩुम् क्रन्द्तत्तै अरुळिच् चॆय्दुळ्ळार्। इन्नूलिऩ् उळ्ळुऱैप् पॊरुळ् सित्, असित्, ईच्वरऩ् ऎऩुम् मूऩ्ऱु तत्वङ्गळैप् पऱ्ऱिय आऴ्न्द अलसल् आगुम्। सनादऩ वेदान्द तर्मत्तै विळक्कुम् इन्नूल् “कुट्टि पाष्यम्” (श्री पाष्यत्तिऩ् सुरुक्कम्) ऎऩ्ऱे तऩ् उळ्ळुऱैप् पॊरुळिऩ् कारणमाग अऴैक्कप् पडुगिऱदु। इदऱ्कु मणवाळ मामुऩिगळ् अबार करुणैयिऩाल् ऒरु व्याख्याऩमिट्टरुळियुळ्ळार्। इव्व्याख्याऩत्ताल् इन्नूलिऩ् पॆरुमै कूडुगिऱदु।
-
-[![](https://srivaishnavagranthamstamil.files.wordpress.com/2017/09/cff8e-pl-mamunigal.jpg)](https://srivaishnavagranthamstamil.files.wordpress.com/2017/09/cff8e-pl-mamunigal.jpg)
-
-पिळ्ळै लोगासार्यर्, मणवाळ मामुऩिगळ् – श्रीबॆरुम्बूदूर्
 
 इक्कट्टुरैगळ् विळक्कुम् विषयङ्गळावऩ:
 
@@ -22,8 +19,44 @@ e-book – <https://1drv.ms/b/s!AiNzc-LF3uwyhBPUAeJrDPPzj52d>
     ऎदु?](https://granthams.koyil.org/2017/10/06/thathva-thrayam-achith-what-is-matter-tamil/) ५.  [ईच्वरऩ् – इऱैवऩ्
     यार्?](https://granthams.koyil.org/2017/10/12/thathva-thrayam-iswara-who-is-god-tamil/)
 
+<details><summary>English</summary>
 
-## श्रीवैष्णवम् – ऎळिय वऴिगाट्टि – तत्व त्रयम्
+piLLai lOkAchAryar, following in the foot steps of our pUrvAchAryas, out of his causeless mercy, blessed us with a divine grantham named “thathva thrayam (tattva trayam)”. The subject matter of this grantham involves in-depth analysis of the three entities – chith (soul), achith (matter) and Iswara (God). This grantham is called as kutti bhAshyam (mini srI bhAshyam) where the essence of sanAthana dharmam is explained. maNavALa mAmunigaL mercifully wrote a detailed vyAkyAnam (commentary) for this grantham which adds even more value to this grantham.
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_Px91OJWP2L22NK305v_R_mlC1mixrAC3SknyKJVKMcdfd8BQwRiAoQAWOetWT4bAzOPiRpGCQamtT8PbVJuu8wGUIAX5kBxvQ7t2QaBNhkw3hTyxkOTh6Dwgp0ekwEiYmIXItQVM5U/s1600/PL-mamunigal.jpg)](https://www.blogger.com/#)
+
+piLLai lOkAchAryar, maNavALa mAmunigaL – srIperumbUthUr
+
+An e-book has been prepared and can be viewed/downloaded from [*https://docs.google.com/file/d/0ByVemcKfGLucYTNsY2h1akd1SGc/edit?usp=sharing*](https://docs.google.com/file/d/0ByVemcKfGLucYTNsY2h1akd1SGc/edit?usp=sharing).  
+The following series of articles are aimed at giving this most complicated subject matter in very simple terms with pictorial explanation where applicable. Please read and enjoy the same.
+
+- Short summary –
+  <https://granthams.koyil.org/2015/12/thathva-thrayam-in-short/>
+- Introduction to piLLai lOkAchAryar’s thathva thrayam –
+  <https://granthams.koyil.org/2013/10/aippasi-anubhavam-pillai-lokacharyar-tattva-trayam/>
+- chith – Who Am I? –
+  <https://granthams.koyil.org/2013/03/06/thathva-thrayam-chith-who-am-i/>
+- achith – What is matter? –
+  <https://granthams.koyil.org/2013/03/thathva-thrayam-achith-what-is-matter/>
+- Ishwara – Who is God? –
+  <https://granthams.koyil.org/2013/03/thathva-thrayam-iswara-who-is-god/>
+
+They can also be viewed as presentations from the following links:
+
+- chith – Who Am I? –
+  <https://onedrive.live.com/fullscreen?cid=32ecdec5e2737323&id=documents&resid=32ECDEC5E2737323%21122&filename=thathva%20thrayam%20-%20chith%20-%20Who%20am%20I_.pptx&authkey=!AGY1uspTJ_mJRs0&wx=p&wv=s&wc=officeapps.live.com&wy=y&wdModeSwitchTime=1415264478538>[](https://www.blogger.com/#)
+- achith – What is matter? –
+  <https://onedrive.live.com/fullscreen?cid=32ecdec5e2737323&id=documents&resid=32ECDEC5E2737323%21118&filename=thathva%20thrayam%20-%20achith%20-%20What%20is%20matter_.pptx&authkey=!AJhYmB2HmTTUeTU&wx=p&wv=s&wc=officeapps.live.com&wy=y&wdModeSwitchTime=1415264437495>[](https://www.blogger.com/#)
+- Ishwara – Who is God? –
+  <https://onedrive.live.com/fullscreen?cid=32ecdec5e2737323&id=documents&resid=32ECDEC5E2737323%21121&filename=thathva%20thrayam%20-%20Iswara%20-%20Who%20is%20God_.pptx&authkey=!AKkPoB6T-Ktzcbc&wx=p&wv=s&wc=officeapps.live.com&wy=y&wdModeSwitchTime=1415264558053>[](https://www.blogger.com/#)
+
+adiyen sarathy ramanuja dasan
+
+</details>
+
+
+
+## ऎळिय वऴिगाट्टि – तत्व त्रयम्
 श्री:  
 श्रीमदे सडगोबाय नम:  
 श्रीमदे रामानुजाय नम:  
@@ -48,7 +81,7 @@ e-book – <https://1drv.ms/b/s!AiNzc-LF3uwyhBPUAeJrDPPzj52d>
 
 [![](https://srivaishnavagranthamstamil.files.wordpress.com/2016/04/9e5d7-paramapadhanathan.jpg)](https://srivaishnavagranthamstamil.files.wordpress.com/2013/12/02246-paramapadhanathan.jpg)
 
-ईच्वरऩ् श्रीमऩ् नारायणऩ्। श्री महालक्ष्मित् तायारुडऩ् कूडिय अवऩे परम्बॊरुळ्। पगवाऩ् ऎऩुम् सॊल्, ञानम् (अऱिवु), पलम् (वलिमै), ऐच्वर्यम् (आळुमै), वीर्यम् (तुणिवु), सक्ति (आऱ्ऱल्), तेजस् (पॊलिवु) ऎऩुम् आऱु कुणङ्गळैयुडैयवऩ् ऎऩ्ऱु पॊरुळ्बडुम्। ईस्वरऩ् ऎण्णऱ्ऱ तिरुक्कल्याण कुणङ्गळै उडैयवऩ्। अवऩ् ताऴ्न्द कुणङ्गळ् ऎदुवुमऱ्ऱवऩ्। ऎल्ला सित् असित्तुगळुम् अवऩैये आदारमागक् कॊण्डुळ्ळऩ। अवऩे अवऱ्ऱिऩ् जीवऩैयुम्, अवऱ्ऱैत् ताङ्गि निऱ्पवऩायुम् उळ्ळाऩ्। मेलुम् अऱिय <https://granthams.koyil.org/2013/03/thathva-thrayam-iswara-who-is-god/> पार्क्कवुम्।
+ईच्वरऩ् श्रीमऩ् नारायणऩ्। श्री महालक्ष्मित् तायारुडऩ् कूडिय अवऩे परम्बॊरुळ्। पगवाऩ् ऎऩुम् सॊल्, ञानम् (अऱिवु), पलम् (वलिमै), ऐच्वर्यम् (आळुमै), वीर्यम् (तुणिवु), शक्ति (आऱ्ऱल्), तेजस् (पॊलिवु) ऎऩुम् आऱु कुणङ्गळैयुडैयवऩ् ऎऩ्ऱु पॊरुळ्बडुम्। ईस्वरऩ् ऎण्णऱ्ऱ तिरुक्कल्याण कुणङ्गळै उडैयवऩ्। अवऩ् ताऴ्न्द कुणङ्गळ् ऎदुवुमऱ्ऱवऩ्। ऎल्ला सित् असित्तुगळुम् अवऩैये आदारमागक् कॊण्डुळ्ळऩ। अवऩे अवऱ्ऱिऩ् जीवऩैयुम्, अवऱ्ऱैत् ताङ्गि निऱ्पवऩायुम् उळ्ळाऩ्। मेलुम् अऱिय <https://granthams.koyil.org/2013/03/thathva-thrayam-iswara-who-is-god/> पार्क्कवुम्।
 
 इम्मूऩ्ऱऩुक्कुम् सिल ऒऱ्ऱुमैगळुमुण्डु:
 
@@ -663,17 +696,17 @@ e-book – <https://1drv.ms/b/s!AiNzc-LF3uwyhBPUAeJrDPPzj52d>
 
 - - तऩ्ऩै विरुम्बादवर् तऩ्ऩडियार् पक्कल् विरुप्पऱ्ऱवर् पाल् काट्टुम् कुणङ्गळ्:
     - सौर्यम् – वीरम्/तुणिवु
-    - वीर्यम् – आऱ्ऱल्/सक्ति
+    - वीर्यम् – आऱ्ऱल्/शक्ति
   - ऎल्लार्क्कुम् पॊदुवाय्क् काट्टुम् कुणङ्गळ्:
     - ञाऩम् – ऎल्लाम् तॆरिन्दिरुत्तल्
-    - सक्ति – आऱ्ऱल्
+    - शक्ति – आऱ्ऱल्
     - पलम् – वलिमै, ऎदैयुम् ताङ्गुम् पलम्
     - ऐच्वर्यम् – कट्टुप्पडुत्तुम् आऱ्ऱल्
     - वीर्यम् – तऩ्ऩुळ् यादॊरु माऱ्ऱमुमिऩ्ऱि ऎल्लावऱ्ऱैयुम् नडत्तुदल्
     - तेजस् – ऎदैयुम् ताऩे तऩियाय् निर्वगित्तल्
 - कल्याण कुणङ्गळ्, अवऱ्ऱिऩ् इलक्कुगळ्
   - ञाऩम् – ताम् अज्ञर् ऎऩ्ऱुळ्ळार्क्कु उदवुवदु
-  - सक्ति – आऱ्ऱल् – ताम् पलवीऩर्/आऱ्ऱलऱ्ऱोर्ऎऩ्ऱुळ्ळार्क्कु उदवुदल्
+  - शक्ति – आऱ्ऱल् – ताम् पलवीऩर्/आऱ्ऱलऱ्ऱोर्ऎऩ्ऱुळ्ळार्क्कु उदवुदल्
   - क्षमै – मऩ्ऩिक्कुम् कुणम् – ताम् तवऱुसॆय्दोम् ऎऩ वरुन्दुवोर्क्कु उदवुवदु
   - क्रुबै – तुऩ्बुऱ्ऱिरुप्पोम् ऎऩ्ऱिरुप्पोर्क्कु उदवुवदु
   - वात्सल्यम् – ताय्मै कूडिय पॊऱुमै; तवऱु सॆय्दोम् ऎऩ्ऱिरुप्पोरैप् पॊऱुत्तल्
@@ -840,7 +873,7 @@ e-book – <https://1drv.ms/b/s!AiNzc-LF3uwyhBPUAeJrDPPzj52d>
 - व्यूह वासुदेवऩ् सङ्गर्षणऩ्, प्रत्युम्ऩऩ्, अनिरुत्तऩ् ऎऩ मेलुम् मूऩ्ऱु वडिवङ्गळ्
   मेऱ्कॊळ्गिऱाऩ्
 - सङ्गर्षणऩ्
-  - ञाऩम् (अऱिवु), पलम्(ऎल्लावऱ्ऱैयुम् ताङ्गुम् सक्ति) इवऩिल् मेम्बट्टुत् तोऩ्ऱुम्
+  - ञाऩम् (अऱिवु), पलम्(ऎल्लावऱ्ऱैयुम् ताङ्गुम् शक्ति) इवऩिल् मेम्बट्टुत् तोऩ्ऱुम्
   - इवऩ् जीवर्गळिऩ् तलैवऩाय् आत्मावुक्कुम् वस्तुवुक्कुम् (प्रक्रुदिक्कुम्) वेऱुबाडुगळ्
     विळैत्तु ऒव्वॊरु वडिवुक्कु नाम रूबङ्गळ् तरुम् क्रमत्तैत् तॊडङ्गुगिऱाऩ्
   - वेदम् वेदान्दम् ऎऩ सास्त्रङ्गळैयुम् तन्दु सम्हारत्तैत् तलैमै ताङ्गि नडत्तुगिऱाऩ्
@@ -853,7 +886,7 @@ e-book – <https://1drv.ms/b/s!AiNzc-LF3uwyhBPUAeJrDPPzj52d>
     - (प्राह्मण क्षत्रिय वैच्य सूत्ररागिय) नाल् वर्णत्तु मऩिदरैप् पडैत्तल्
     - (ऎम्बॆरुमाऩिडम् इट्टुच्चॆल्लुम् नल्लियल्बाऩ) सात्विगम् कॊण्डोरैप् पडैत्तल्
 - अनिरुत्तऩ्
-  - सक्ति(आऱ्ऱल्) तेजस् (ऎदैयुम् तऩिये समाळिक्कुम् सामर्त्यम्) इवै इवऩदु विसेष
+  - शक्ति(आऱ्ऱल्) तेजस् (ऎदैयुम् तऩिये समाळिक्कुम् सामर्त्यम्) इवै इवऩदु विसेष
     कुणङ्गळ् ।
   - इवऩ् पॊऱुप्पुगळ्
     - उण्मै ञाऩम् तरुदल्
@@ -875,14 +908,14 @@ e-book – <https://1drv.ms/b/s!AiNzc-LF3uwyhBPUAeJrDPPzj52d>
     - ऒरु तिरियिल् एऱ्ऱिय विळक्कु अत्तिरियैविड ऒळिर्वदुबोल् इव्ववदारङ्गळुम्
       परत्वत्तैप् पार्क्किलुम् ऒळिमयमाऩवै
   - कौण अवदारङ्गळ्
-    - कौणम् आवदु अवऩ् तऩ् स्वरूबम् (इयल्बु). अल्लदु सक्ति (आऱ्ऱल्) इवऱ्ऱै ऒरु
+    - कौणम् आवदु अवऩ् तऩ् स्वरूबम् (इयल्बु). अल्लदु शक्ति (आऱ्ऱल्) इवऱ्ऱै ऒरु
       कुऱिप्पिट्ट लक्ष्यत्तुक्काग जीवात्माक्कळुक्कुत् तरुवदु
     - इवै मुक्यमागक् करुदप् पडविल्लै, कुऱिप्पिट्ट नोक्कत्तुक्काग वन्ददाल्
       मुमुक्षुक्कळुक्कु उबास्यमुमऩ्ऱु
     - इरण्डु वगैगळ्
       - स्वरूबावेसम्: पगवाऩ् तऩ् इयल्बै जीवात्माक्कळुक्कुत् तन्दु तऩ तिव्य वडिविल्
         वरुवदु, उदारणम्: परसुरामऩ् पोऩ्ऱोर्
-      - सक्ति आवेसम् – पगवाऩ् तऩ आऱ्ऱल्गळै मट्टुम् जीवर्गळुक्कुक् कुऱिप्पिट्ट
+      - शक्ति आवेसम् – पगवाऩ् तऩ आऱ्ऱल्गळै मट्टुम् जीवर्गळुक्कुक् कुऱिप्पिट्ट
         नोक्कङ्गळुक्कागत् तरुदल्। उदारणम्: प्रम्मऩ्, सिवऩ्, व्यासऩ् पोऩ्ऱोर्।
 - अवऩ् तऩ् इच्चैयै मुऩ्ऩिट्टे पल्वेऱु अवदारङ्गळ् सॆय्गिऱाऩ्
 - पगवाऩे इव्ववदारङ्गळिऩ् लक्ष्यत्तै विळक्कुगिऱाऩ् पगवत् कीदै ४.८ल्:
@@ -956,55 +989,3 @@ e-book – <https://1drv.ms/b/s!AiNzc-LF3uwyhBPUAeJrDPPzj52d>
 आऴ्वार् ऎम्बॆरुमाऩार् लोगासारयर् जीयर् तिरुवडिगळे सरणम्
 
 
-## thathva thrayam
-sri:  
-srimathE rAmAnujAya nama:  
-srimadh varavaramunayE nama:  
-sri vAnAchala mahAmunayE nama:
-
-piLLai lOkAchAryar, following in the foot steps of our pUrvAchAryas, out of his causeless mercy, blessed us with a divine grantham named “thathva thrayam (tattva trayam)”. The subject matter of this grantham involves in-depth analysis of the three entities – chith (soul), achith (matter) and Iswara (God). This grantham is called as kutti bhAshyam (mini srI bhAshyam) where the essence of sanAthana dharmam is explained. maNavALa mAmunigaL mercifully wrote a detailed vyAkyAnam (commentary) for this grantham which adds even more value to this grantham.
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_Px91OJWP2L22NK305v_R_mlC1mixrAC3SknyKJVKMcdfd8BQwRiAoQAWOetWT4bAzOPiRpGCQamtT8PbVJuu8wGUIAX5kBxvQ7t2QaBNhkw3hTyxkOTh6Dwgp0ekwEiYmIXItQVM5U/s1600/PL-mamunigal.jpg)](https://www.blogger.com/#)
-
-piLLai lOkAchAryar, maNavALa mAmunigaL – srIperumbUthUr
-
-An e-book has been prepared and can be viewed/downloaded from [*https://docs.google.com/file/d/0ByVemcKfGLucYTNsY2h1akd1SGc/edit?usp=sharing*](https://docs.google.com/file/d/0ByVemcKfGLucYTNsY2h1akd1SGc/edit?usp=sharing).  
-The following series of articles are aimed at giving this most complicated subject matter in very simple terms with pictorial explanation where applicable. Please read and enjoy the same.
-
-- Short summary –
-  <https://granthams.koyil.org/2015/12/thathva-thrayam-in-short/>
-- Introduction to piLLai lOkAchAryar’s thathva thrayam –
-  <https://granthams.koyil.org/2013/10/aippasi-anubhavam-pillai-lokacharyar-tattva-trayam/>
-- chith – Who Am I? –
-  <https://granthams.koyil.org/2013/03/06/thathva-thrayam-chith-who-am-i/>
-- achith – What is matter? –
-  <https://granthams.koyil.org/2013/03/thathva-thrayam-achith-what-is-matter/>
-- Ishwara – Who is God? –
-  <https://granthams.koyil.org/2013/03/thathva-thrayam-iswara-who-is-god/>
-
-They can also be viewed as presentations from the following links:
-
-- chith – Who Am I? –
-  <https://onedrive.live.com/fullscreen?cid=32ecdec5e2737323&id=documents&resid=32ECDEC5E2737323%21122&filename=thathva%20thrayam%20-%20chith%20-%20Who%20am%20I_.pptx&authkey=!AGY1uspTJ_mJRs0&wx=p&wv=s&wc=officeapps.live.com&wy=y&wdModeSwitchTime=1415264478538>[](https://www.blogger.com/#)
-- achith – What is matter? –
-  <https://onedrive.live.com/fullscreen?cid=32ecdec5e2737323&id=documents&resid=32ECDEC5E2737323%21118&filename=thathva%20thrayam%20-%20achith%20-%20What%20is%20matter_.pptx&authkey=!AJhYmB2HmTTUeTU&wx=p&wv=s&wc=officeapps.live.com&wy=y&wdModeSwitchTime=1415264437495>[](https://www.blogger.com/#)
-- Ishwara – Who is God? –
-  <https://onedrive.live.com/fullscreen?cid=32ecdec5e2737323&id=documents&resid=32ECDEC5E2737323%21121&filename=thathva%20thrayam%20-%20Iswara%20-%20Who%20is%20God_.pptx&authkey=!AKkPoB6T-Ktzcbc&wx=p&wv=s&wc=officeapps.live.com&wy=y&wdModeSwitchTime=1415264558053>[](https://www.blogger.com/#)
-
-adiyen sarathy ramanuja dasan
-
-## Home
-SrI: SrImathE SatakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE nama:
-
-Welcome to SrIvaishNava granthams portal. This is part of our <https://koyil.org> initiative. We have published a number of granthams composed by our pUrvAchAryas. We have them in many different languages as well. Please go through the different sections in our website to locate the grantham you would like to see.
-
-Starting from simplified articles of our sampradhAyam such as “Simple Guide to SrIvaishNavam”, we have up to several advanced granthams such as “SrIvachana bhUshaNam” in multiple languages.
-
-Please feel free to share your feedback to us without any hesitation. We will use those feedback as applicable and try to improve ourselves.
-
-adiyen sarathy ramanuja dasan
-
-pramEyam (goal) – [https://koyil.org](https://koyil.org/)  
-pramANam (scriptures) – <https://granthams.koyil.org>  
-pramAthA (preceptors) – <https://acharyas.koyil.org>  
-SrIvaishNava education/kids portal – [https://pillai.koyil.org](https://pillai.koyil.org/)

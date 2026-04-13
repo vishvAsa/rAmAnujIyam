@@ -340,22 +340,11 @@ confunde la mente con las opiniones de los infieles y los herejes.
 > (शरणागति-गद्यम्) 
 
 ऎऩ्गिऱ पडिये  
-इम्-मूल-प्रकृति-मुदल् आऩ मोहन-पिञ्छिकै+++(=पिच्छिकै = पर्णगुच्छम्)+++  
-तऩ्ऩाले तत्त्वाज्ञान--विपरीत-ज्ञान--विषय--प्रावण्यङ्गळैप् पण्णियुम्,  
 </details>
 
 <details><summary>English</summary>
 
-and, even in the case of those who escape this,  
-causes,  
-through the concealing agency of the peacock feather of primal matter (moola-prakṛti) 
- and its modifications, the bodies and the senses,  
-
-(1) ignorance of the truth and  
-(2) erroneous knowledge  
-and so also (3) subjection to sense-pleasures.  
-
-As ŚrīRāmānuja says,  
+And, as Śrī Rāmānuja says,  
 
 > "This [^f128] (association with matter) causes obscuration of knowledge of the essential nature of Bhagavān  
 > and also false knowledge.  
@@ -365,7 +354,52 @@ As ŚrīRāmānuja says,
 
 <details><summary>Español</summary>
 
-Y, incluso en el caso de quienes escapan de esto,  
+Y, Como dice Śrīrāmānuja,
+
+> "Esto [^f128] (asociación con la materia) causa  
+> obscena el conocimiento de la naturaleza esencial de Bhagavān  
+> y también conocimientos falsos.  
+> Además hace que el Jīva piense que  
+> Esta asociación es encantadora ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऱ्ऱिल् इऴियादवर्गळैयुम् उळ्बड  
+“भगवत्स्वरूप-तिरोधानकरीं विपरीत-ज्ञानजननीं स्वविषयायाश्च भोग्यबुद्धेर्जननीम्”(पॆरिय गद्यम्) ऎऩ्गिऱ पडिये 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऩाल् द्वारान्तर-सहकारेण शास्त्र-योग्य-देहसम्बन्धत्तिऱ्कुम् बन्धन-द्वारत्वम् सॊल्लप्पट्टदु। बाह्यादि-मतङ्गळिल् अगप्पडादार् विषयत्तिल् इदु बन्धकमागुमो वॆऩ्ऩ अरुळिच्चॆय्गिऱार् अवऱ्ऱिल् इऴियादवर्गळैयुम् उट्पड इति । उट्पड इत्यनेन इऴिन्दवर्गळुक्कु मेल्सॊल्लुम् अनर्थम् कैमुतिक-न्यायसिद्धमॆऩ्ऱदायिऱ्ऱु। 
+
+इव्वधिकारि विषयत्तिल् मूलप्रकृति तत्कार्यङ्गळाले तत्त्व अज्ञानादिगळै उण्डुबण्णि तद्द्वारा बन्धकत्वत्तै अरुळिच् चॆय्यक्कोलि मूलप्रकृति-तत्कार्यङ्गळ् तत्त्व-अज्ञानादिगळुक्कुक् कारणङ्गळामॆऩ्बदिल् गद्य-श्रीसूक्तियै प्रमाणीकरिक्किऱार् भगवत्स्वरूपेत्यादियाल्। स्वविषयाया इति बहुव्रीहिः । स्वपदम्, माया-शब्दवाच्य प्रकृति-परम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम्-मूल-प्रकृति-मुदल् आऩ मोहन-पिञ्छिकै+++(=पिच्छिकै = पर्णगुच्छम्)+++  
+तऩ्ऩाले तत्त्वाज्ञान--विपरीत-ज्ञान--विषय--प्रावण्यङ्गळैप् पण्णियुम्,  
+</details>
+
+<details><summary>English</summary>
+
+even in the case of those who escape this,  
+causes,  
+through the concealing agency of the peacock feather of primal matter (moola-prakṛti) 
+ and its modifications, the bodies and the senses,  
+
+(1) ignorance of the truth and  
+(2) erroneous knowledge  
+and so also (3) subjection to sense-pleasures.  
+</details>
+
+<details><summary>Español</summary>
+
+incluso en el caso de quienes escapan de esto,  
 causas,  
 A través de la agencia de ocultación  
 de la pluma de pavo real  de la materia primaria (Moola-Prakṛti)  
@@ -375,19 +409,11 @@ y sus modificaciones, los cuerpos y los sentidos,
 (2) Conocimiento erróneo  
 y así también (3) sujeción a las placeres sensoriales.  
 
-Como dice Śrīrāmānuja,
-
-> "Esto [^f128] (asociación con la materia) causa  
-> obscena el conocimiento de la naturaleza esencial de Bhagavān  
-> y también conocimientos falsos.  
-> Además hace que el Jīva piense que  
-> Esta asociación es encantadora ".
 </details>
 
 <details><summary>मूलम्</summary>
 
-अवऱ्ऱिल् इऴियादवर्गळैयुम् उळ्बड  
-“भगवत्स्वरूप-तिरोधानकरीं विपरीत-ज्ञानजननीं स्वविषयायाश्च भोग्यबुद्धेर्जननीम्”(पॆरिय गद्यम्) ऎऩ्गिऱ पडिये इम्मूलप्रकृति मुदलाऩ मोहन-पिञ्छिकै तऩ्ऩाले तत्त्वाज्ञान-विपरीत-ज्ञान-विषय-प्रावण्यङ्गळैप् पण्णियुम्,  
+इम्मूलप्रकृति मुदलाऩ मोहन-पिञ्छिकै तऩ्ऩाले तत्त्वाज्ञान-विपरीत-ज्ञान-विषय-प्रावण्यङ्गळैप् पण्णियुम्,  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
