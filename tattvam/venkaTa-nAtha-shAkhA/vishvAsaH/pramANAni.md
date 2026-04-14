@@ -363,3 +363,8 @@ This applies to rAmAnuja etc. too.
 +++(व्यक्ति-विशेषालौकिकोत्कर्षम् अवगत्य)+++  
 अस्मद्-अनुष्ठानस्य न दृष्टान्ती कार्याः । 
 
+<details><summary>विस्तारः</summary>
+
+Video: [TW](/content/conversations/YT/2026-04-13_aitihyas)
+
+</details>

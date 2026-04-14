@@ -552,8 +552,8 @@ Source: [TW](/rAmAnujIyam/tattvam/lokAchArya-shAkhA/saumya-jAmAtR-muniH/rahasya-
 ## अवताराः
 सौम्यजामातृ-विमतिः 
 
-- तत्त्व-त्रय-व्याख्याने बुद्धस्य साक्षाद्-अवतारत्वम् आचार्यहृदये प्रतिपादितम्। विष्वक्सेन-संहितादिषु तस्यावेशावतारत्वम् उक्तम्। Ignores viShvaksena saMhita etc॥ and says buddha is pUrNAvatAra।
-- पराशरभट्ट-विरोधेन व्यासः पूर्णावतारः कीर्तितः। Ignores parAsharabhaTTa and says vyAsa is pUrNAvatAra।  
+- तत्त्व-त्रय-व्याख्याने बुद्धस्य साक्षाद्-अवतारत्वम् आचार्यहृदये प्रतिपादितम्। विष्वक्सेन-संहितादिषु तस्यावेशावतारत्वम् उक्तम्। Ignores viShvaksena saMhita etc, and says buddha is pUrNAvatAra.
+- पराशरभट्ट-विरोधेन कृष्ण-द्वैपायनो व्यासः पूर्णावतारः कीर्तितः, यद्य् अप्य् अन्ये व्यासास् तथा न - इत्य् अलसिङ्गभट्टः। Ignores parAsharabhaTTa and says kRShNa-dvaipAyana vyAsa is pUrNAvatAra as per alasingabhaTTa.  
 
 कल्प-भेद-कल्पनया परिहरन्त्य् अलसिंगभट्टः सात्त्वत-संहिता-[व्याख्याने](/AgamaH_vaiShNavaH/pAncharAtrAgamaH/sAttvata-saMhitA/009) । 
 
