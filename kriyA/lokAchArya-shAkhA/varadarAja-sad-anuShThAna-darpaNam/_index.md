@@ -91,4 +91,10 @@ It quotes a vAsudeva saMhitA to justify vaishvadeva avoidance-
 > मद्-यागानन्तरं देवि वैश्वदेवं विना रमे ।  
 अनुयागस् तदा कार्यः परमैकान्तिभिर् द्वि-जैः ॥
 
+Videos - 
+
+- [TW](0/05_shaurirAjaH)
+- [TW](/conversations/YT/2026-04-14_sachcharitra-raxA-fraud)
+
+
 </details>
