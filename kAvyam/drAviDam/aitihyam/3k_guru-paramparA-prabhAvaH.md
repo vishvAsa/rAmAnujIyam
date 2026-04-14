@@ -15,7 +15,7 @@ All of 3k guruparamparA-prabhAva is unlikely to be by 3rd parakAla yati as claim
 Too many cock and bull stories about deshika, eg. -   
 
 - meeting of prabodha-chandrodaya author with sankalpa-sUryodaya author VD 
-- Said to mention some PVP and VD dialogue. 
+- Some versions (not others) mention some chronologically impossible PVP and VD dialogue. 
 </details>
 
 <details><summary>रविलोचनाभिप्रायः</summary>
