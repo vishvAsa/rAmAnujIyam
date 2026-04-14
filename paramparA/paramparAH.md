@@ -11,15 +11,15 @@ unicode_script = "devanagari"
 
 <details><summary>रविलोचनाभिप्रायः</summary>
 
-GPPs themselves are very late and very suspect anyway. 
 
 - Only yatiraja vaibhavam of vaduga nambi seems to be really contemporary. 
+- Almost no GP text is pre 1323 except yatiraja vaibhavam by vaduga nambi. GPPs themselves are very late and very suspect anyway.
 - Divyasuri carita seems to be actually the work of a later garuDa-vAhana pandita and not the contemporary of ramanuja.
-- Almost no GP text is pre 1323 except yatiraja vaibhavam by vaduga nambi. 
+
 
 Koyilozhuku cannot be taken too seriously beyond a limit - unless you can substantiate it with inscriptions. The kind of dates which it gives for Azhvars or even the first turushka invasion are untenable. It also leaves out several ket events which are referred to in the vijayanagar inscriptions (like visit of the vnagar emperors and their grants).
 
-6k-paDi Current text is claimed to be his (pinbazhagiya perumAL jeeyar's). But very suspect. There is a possibility that just there was a second VAMJ, a second PPJ existed. 6k has chronological impossibilities like PVP and VD having dialogues. All these stuff would not hv been there if the text was contemporary as claimed.
+6k-paDi Current text is claimed to be his (pinbazhagiya perumAL jeeyar's). But very suspect. There is a possibility that just there was a second VAMJ, a second PPJ existed. 6k (in a later extension) has chronological impossibilities like PVP and VD having dialogues. All these stuff would not hv been there if the text was contemporary as claimed.
 
 Comments elsewhere 
 
