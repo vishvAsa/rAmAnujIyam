@@ -416,12 +416,15 @@ Este **es** solo uno de los AṅGas (y no el aṅgī).
 
 [[P2218]]
 
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+
 ""
 ""
 ""
-""
-""
-""
+
 </details>
 
 ## भर-न्यासो ऽङ्गी
