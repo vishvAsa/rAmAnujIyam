@@ -40,7 +40,7 @@ It is very important to adhere to shruti and smRtis, and adhere to scripturally 
 
 एवं किल श्रीभाष्ये - 
 
-> अहर्-अहर्-अनुष्ठीयमाण-  
+> अहर्-अहर्-अनुष्ठीयमान-  
 वर्णाश्रम-धर्मानुगृहीत--  
 तद्-उपासन-रूप--  
 तत्-समाराधन-प्रीत… 

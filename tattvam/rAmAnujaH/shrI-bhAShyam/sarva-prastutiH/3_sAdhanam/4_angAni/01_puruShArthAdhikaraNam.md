@@ -1515,7 +1515,7 @@ As it thus appears that those who know Brahman give up works, knowledge cannot b
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> कथम् इदम् उपपद्यते ब्रह्म-विदां कर्मानुष्ठानम् अननुष्ठानञ्च – 
+> कथम् इदम् उपपद्यते ब्रह्म-विदां कर्मानुष्ठानम् अननुष्ठानं च – 
 </details>
 
 <details><summary>English</summary>
