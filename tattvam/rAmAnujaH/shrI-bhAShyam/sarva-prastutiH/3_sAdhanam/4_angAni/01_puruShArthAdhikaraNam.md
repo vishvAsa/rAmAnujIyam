@@ -1951,9 +1951,15 @@ For _knowledge_, in the sense of the Upanishads, is something different from mer
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा ज्योतिष्-टोमादि-कर्म-स्वरूप-विज्ञानात्  
+यथा ज्योतिष्-टोमादि--कर्म-स्वरूप-विज्ञानात्  
 फल-साधन-भूतं कर्मानुष्ठानम् अर्थान्तरम्; 
 </details>
+
+<details><summary>English</summary>
+
+In the same way as the performance of such works as the Jyotishṭoma sacrifice is something different from the cognition of the true nature of those works; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1961,41 +1967,588 @@ For _knowledge_, in the sense of the Upanishads, is something different from mer
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथाऽर्थज्ञानरूपात् ब्रह्मस्वरूपविज्ञानात् अर्थान्तरमेव ध्यानोपासनादिशब्दवाच्या पुरुषार्थसाधनभूता विद्येति न तस्याः कर्मसम्बन्धगन्धो विद्यते ॥१२॥
+तथा ऽर्थज्ञान-रूपात् ब्रह्म-स्वरूप-विज्ञानात्  
+अर्थान्तरम् एव ध्यानोपासनादि-शब्द-वाच्या पुरुषार्थ-साधन-भूता विद्या 
+</details>
+
+<details><summary>English</summary>
+
+so that vidyā, which effects the highest purpose of man, i. e. devout meditation (dhyāna, upāsanā), is something different from the mere cognition of the true nature of Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथाऽर्थज्ञानरूपात् ब्रह्मस्वरूपविज्ञानात् अर्थान्तरमेव ध्यानोपासनादिशब्दवाच्या पुरुषार्थसाधनभूता विद्या 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति न तस्याः कर्म-सम्बन्ध-गन्धो विद्यते ॥१२॥
+</details>
+
+<details><summary>English</summary>
+
+Knowledge of that kind has not the most remote connexion even with works.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति न तस्याः कर्मसम्बन्धगन्धो विद्यते ॥१२॥
+</details>
+
+
+
+## यावज्जीवं कर्म विद्याङ्गभूतम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४३१. नाविशेषात् ॥ ३–४–१३ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 13\. Not so, on account of non-specification.
+</details>
+
+<details><summary>मूलम्</summary>
 
 **४३१. नाविशेषात् ॥ ३–४–१३ ॥**
+</details>
 
-## कुर्वन्नेवेति श्रुतेः फलसाधनभूतकर्मविषयतानिषेधः
 
-यच्चोक्तं **कुर्वन्नेवेहे कर्माणि** (ईशा.२) इत्यात्मविदं ज्ञानाद्व्यावर्त्य यावज्जीवं कर्मानुष्ठाने नियमयतीति; तन्नोपपद्यते; अविशेषात् – नह्ययं नियमः फलसाधनभूतस्वतन्त्रकर्मविषय इति विशेषहेतुरस्ति, विद्याङ्गभूतकर्मविषयतयाऽप्युपपत्तेः। **कर्मणैव हि संसिद्धिमास्थिता जनकादयः** (भ.गी.३.२०) इति च विदुषस्त्वाप्रयाणादुपासनस्य अनुवर्तमानत्वात् ॥१३॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## कुर्वन्नेवेति श्रुत्याशयः सूत्रेण
+यच् चोक्तं  
+**कुर्वन्न् एवेह कर्माणि** (ईशा.२)  इत्य् आत्म-विदं ज्ञानाद् व्यावर्त्य  
+यावज् जीवं कर्मानुष्ठाने नियमयतीति; 
+</details>
+
+<details><summary>English</summary>
+
+That the text 'Doing works here,' &c., is meant to divert him who knows the Self from knowledge and restrict him to works. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यच्चोक्तं **कुर्वन्नेवेह कर्माणि** (ईशा.२) इत्यात्मविदं ज्ञानाद्व्यावर्त्य यावज्जीवं कर्मानुष्ठाने नियमयतीति; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन्नोपपद्यते; अविशेषात् – 
+</details>
+
+<details><summary>English</summary>
+
+Nor is this true -  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन्नोपपद्यते; अविशेषात् – 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अयं नियमः -  
++++(स विधिः)+++ फल-साधन-भूत--स्वतन्त्र-कर्म-विषय  
+इति +++(मन्तुं)+++ विशेष-हेतुर् अस्ति,  विद्याङ्ग-भूत-कर्म-विषयतया ऽप्य् उपपत्तेः। 
+</details>
+
+<details><summary>English</summary>
+
+For there is no special reason  
+to hold that that text refers to works as independent means of a desirable result:  
+it may as well be understood to refer to works merely subordinate to knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नह्ययं नियमः फलसाधनभूतस्वतन्त्रकर्मविषय इति विशेषहेतुरस्ति, विद्याङ्गभूतकर्मविषयतयाऽप्युपपत्तेः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **कर्मणैव हि संसिद्धिम्  
+आस्थिता जनकादयः**  
+(भ.गी.३.२०)  
+
+इति च विदुषस् त्व्  
+आप्रयाणाद् उपासनस्य अनुवर्तमानत्वात् ॥१३॥
+</details>
+
+<details><summary>English</summary>
+
+As he who knows the Self has to practise meditation as long as he lives, he may also have to practise, for the same period, works that are helpful to meditation. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**कर्मणैव हि संसिद्धिमास्थिता जनकादयः** (भ.गी.३.२०) इति च विदुषस्त्वाप्रयाणादुपासनस्य अनुवर्तमानत्वात् ॥१३॥
+</details>
+
+
+### विद्या-स्तुतये कर्मानुमतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् अर्थ-स्वाभाव्येन चोद्यं परिहृत्य  
+**कुर्वन्नेवेह कर्माणि** (ई.२) इत्यस्य वाक्यस्यार्थम् आह –
+</details>
+
+<details><summary>English</summary>
+
+Having thus refuted the objection on the ground of the reason of the matter, the Sūtrakāra proceeds to give his own interpretation of the text.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 एवमर्थस्वाभाव्येन चोद्यं परिहृत्य **कुर्वन्नेवेह कर्माणि** (ई.२) इत्यस्य वाक्यस्यार्थमाह –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४३२. स्तुतये ऽनुमितर् वा ॥ ३–४–१४ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 14\. Or the permission is for the purpose of glorification.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **४३२. स्तुतयेऽनुमितर्वा ॥ ३–४–१४ ॥**
+</details>
 
-वाशब्दोऽवधारणार्थः; **ईशावास्यिमदं सर्वम्** (ईशा.१) इति विद्याप्रकरणाद्विद्यास्तुतये सर्वदा कर्मानुष्ठानानुमतिरियम्। विद्यामाहात्म्यात्सर्वदा कर्म कुर्वन्नपि न लिप्यते कर्मभिरिति हि विद्या स्तुता भवति । वाक्यशेषश्चैवमेव दर्शयति, **एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे** (ईशा.२) इति। अतो न कर्माङ्गं विद्या ॥ १४॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वा-शब्दो ऽवधारणार्थः; 
+</details>
+
+<details><summary>English</summary>
+
+The or has assertive force. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाशब्दोऽवधारणार्थः; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **ईशा वास्यिम् इदं सर्वम्** (ईशा.१) 
+
+इति विद्या-प्रकरणाद्  
+विद्या-स्तुतये सर्वदा कर्मानुष्ठानानुमतिर् इयम्। 
+</details>
+
+<details><summary>English</summary>
+
+The introductory words of the Upanishad, 'Hidden in the Lord is all this,' show knowledge to be the subject-matter; hence the permission of works can aim only at the glorification of knowledge. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**ईशावास्यिमिदं सर्वम्** (ईशा.१) इति विद्याप्रकरणाद्विद्यास्तुतये सर्वदा कर्मानुष्ठानानुमतिरियम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विद्या-माहात्म्यात्  
+सर्वदा कर्म कुर्वन्न् अपि  
+न लिप्यते कर्मभिर्  
+इति हि विद्या स्तुता भवति । 
+</details>
+
+<details><summary>English</summary>
+
+The sense of the text therefore is--owing to the power of knowledge a man although constantly performing works is not stained by them.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विद्यामाहात्म्यात्सर्वदा कर्म कुर्वन्नपि न लिप्यते कर्मभिरिति हि विद्या स्तुता भवति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाक्य-शेषश् चैवम् एव दर्शयति,  
+
+> **एवं त्वयि नान्यथेतोऽस्ति  
+न कर्म लिप्यते नरे** (ईशा.२) 
+
+इति। 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+वाक्यशेषश्चैवमेव दर्शयति, **एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे** (ईशा.२) इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो न कर्माङ्गं विद्या ॥ १४॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो न कर्माङ्गं विद्या ॥ १४॥
+</details>
+
+
+
+## विदुषा गार्हस्थ्य-त्यागः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४३३. काम-कारेण चैके +++(गार्हास्थ्य-त्यागम् अधीयते)+++ ॥ ३–४–१५ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 15\. Some also, by proceeding according to their liking.
+</details>
+
+<details><summary>मूलम्</summary>
 
 **४३३. कामकारेण चैके ॥ ३–४–१५ ॥**
+</details>
 
-## विरक्तस्य विदुषः स्वेच्छया गार्हस्थ्यत्यागदर्शनं विद्यायाः कर्माङ्गत्वविरोधि
 
-अपि चैवमेके शाखिनः कामकारेण ब्रह्मविद्यानिष्ठस्य गार्हास्थ्यत्यागमधीयते किं प्रजया करिष्यामो येषां **नोऽयमात्माऽयं लोकः** (बृ.६.४.२२) इति। विदुषो विरक्तस्य कामकारेण गार्हास्थ्यकर्मत्यागं ब्रुवदिदं वचनं ब्रह्मविद्यायाः कर्मानङ्गत्वं दर्शयति । यज्ञादिकर्माङ्गत्वे हि विद्यायाः विद्यानिष्ठस्य कामकारेण गार्हास्थ्यत्यागो न सम्भवति । अतो न विद्या कर्माङ्गम् ॥ १५॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## विद्यया सर्वकर्मोपमर्दश्रवणमपि विद्यायाः कर्मानङ्गत्वज्ञापकम्
+अपि चैवम् एके शाखिनः  
+काम-कारेण ब्रह्म-विद्या-निष्ठस्य गार्हास्थ्य-त्यागम् अधीयते  
+
+
+> **किं प्रजया करिष्यामो  
+येषां नो ऽयम् आत्मा ऽयं लोकः**  
+(बृ.६.४.२२) 
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+In some śākhās, moreover, we read that  
+he who possesses the knowledge of Brahman may,  
+according to his liking,  
+give up the state of a householder, 
+
+> 'What shall we do with offspring,  
+we who have this Self and this world?' (Br̥. Up. V, 4, 22.) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि चैवमेके शाखिनः कामकारेण ब्रह्मविद्यानिष्ठस्य गार्हास्थ्यत्यागमधीयते किं प्रजया करिष्यामो येषां **नोऽयमात्माऽयं लोकः** (बृ.६.४.२२) इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विदुषो विरक्तस्य काम-कारेण  
+गार्हास्थ्य-कर्म-त्यागं ब्रुवद् इदं वचनं  
+ब्रह्म-विद्यायाः कर्मानङ्गत्वं दर्शयति । 
+</details>
+
+<details><summary>English</summary>
+
+This text also proves knowledge not to be subsidiary to works;  
+for if it were so subsidiary, it would not be possible for him who knows Brahman to give up householdership (with all the works obligatory on that state) according to his liking.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विदुषो विरक्तस्य कामकारेण गार्हास्थ्यकर्मत्यागं ब्रुवदिदं वचनं ब्रह्मविद्यायाः कर्मानङ्गत्वं दर्शयति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यज्ञादि-कर्माङ्गत्वे हि विद्यायाः  
+विद्या-निष्ठस्य काम-कारेण गार्हास्थ्य-त्यागो  
+न सम्भवति । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यज्ञादिकर्माङ्गत्वे हि विद्यायाः विद्यानिष्ठस्य कामकारेण गार्हास्थ्यत्यागो न सम्भवति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो न विद्या कर्माङ्गम् ॥ १५॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो न विद्या कर्माङ्गम् ॥ १५॥
+</details>
+
+
+
+## कर्मोपमर्दः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४३४. +++(सञ्चित-कर्म-)+++उपमर्दं च +++(अधीयते)+++ ॥ ३–४–१६ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 16\. And destruction.
+</details>
+
+<details><summary>मूलम्</summary>
 
 **४३४. उपमर्दं च ॥ ३–४–१६ ॥**
+</details>
 
-पुण्यापुण्यरूपस्य समस्तसांसारिकदुःखमूलस्य कर्मणो ब्रह्मविद्ययोपमर्दं च प्रतिवेदान्तमधीयते। **भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः। क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे** (मुण्ड.२.२.८) इत्यादिकम्।
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुण्यापुण्य-रूपस्य समस्त-सांसारिक-दुःख-मूलस्य कर्मणो  
+ब्रह्म-विद्ययोपमर्दं च  
+प्रतिवेदान्तम् अधीयते। 
+</details>
+
+<details><summary>English</summary>
+
+There is moreover a Vedānta-text which declares the knowledge of Brahman to destroy work-good and evil- which is the root of all the afflictions of transmigratory existence: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुण्यापुण्यरूपस्य समस्तसांसारिकदुःखमूलस्य कर्मणो ब्रह्मविद्ययोपमर्दं च प्रतिवेदान्तमधीयते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **भिद्यते हृदय-ग्रन्थिश्  
+छिद्यन्ते सर्वसंशयाः।  
+क्षीयन्ते चास्य कर्माणि  
+तस्मिन् दृष्टे परावरे**  
+(मुण्ड.२.२.८) 
+
+इत्य्-आदिकम्।
+</details>
+
+<details><summary>English</summary>
+
+> 'The knot of the heart is broken,  
+all doubts are solved,  
+all his works perish  
+when He has been beheld who is high and low'  
+(Mu. Up. II, 2, 8). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः। क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे** (मुण्ड.२.२.८) इत्यादिकम्।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् विद्यायाः कर्माङ्गत्वे न सङ्गच्छते॥१६॥
+</details>
+
+<details><summary>English</summary>
+
+This also contradicts the view of knowledge being subordinate to works.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तद्विद्यायाः कर्माङ्गत्वे न सङ्गच्छते॥१६॥
+</details>
 
-## परिव्राजकेषु विद्यादर्शनं कर्मादर्शनं चेत्येतत् विद्यायाः अनङ्गताज्ञापकम्
+
+## यतिषु ब्रह्मविद्या
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४३५. +++(ब्रह्म-विद्या)+++ ऊर्ध्वरेतस्सु च शब्दे हि ॥ ३–४–१७ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 17\. And of him who is chaste; for in Scripture (this is declared).
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **४३५. ऊर्ध्वरेतस्सु च शब्दे हि ॥ ३–४–१७ ॥**
+</details>
 
-ऊर्ध्वरेतस्स्वाश्रमेषु ब्रह्मविद्यादर्शनात्तेष्वग्निहोत्रदर्शपूर्णमासादिकर्माभावाच्च न विद्या कर्माङ्गम्। ननूर्ध्वरेतस आश्रमा न सन्त्येव **यावज्जीवमग्निहोत्रं जुहोति** (आप.श्रौत.३-१४-५) इत्यादिनाऽग्निहोत्रदर्शपूर्णमासादीनां यावज्जीवाधिकारश्रुतेः; श्रुतिविरुद्धानां स्मृतीनां चाप्रामाण्यात्। अत आह – शब्दे हि – इति । वैदिक एव हि शब्दे ते दृश्यन्ते **त्रयो धर्मस्कन्धाः** (छा.२.२३.१) ये चेमेऽरण्ये श्रद्धा तप इत्युपासते (छा.५.१०.१) **एतमेव प्रव्राजिनो लोकिमिच्छन्तः प्रव्रजन्ति** (बृह.६.४.२२) इत्यादौ। यावज्जीवश्रुतिस्त्वविरक्तविषया ॥१७॥
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऊर्ध्वरेतस्स्व् आश्रमेषु  
+ब्रह्म-विद्या-दर्शनात्  
+तेष्व् अग्निहोत्र--दर्श-पूर्ण-मासादि-र्कर्माभावाच् च  
+न विद्या कर्माङ्गम्। 
+</details>
+
+<details><summary>English</summary>
+
+The knowledge of Brahman belongs to those who have to observe chastity, and men living in that state have not to perform the Agnihotra, the Darśapūrṇamāsa, and similar works. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऊर्ध्वरेतस्स्वाश्रमेषु ब्रह्मविद्यादर्शनात्तेष्वग्निहोत्रदर्शपूर्णमासादिकर्माभावाच्च न विद्या कर्माङ्गम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननूर्ध्वरेतस आश्रमा न सन्त्य् एव  -  
+**यावज्-जीवम् अग्निहोत्रं जुहोति** (आप.श्रौत.३-१४-५)  
+इत्यादिना ऽग्नि-होत्र--दर्श-पूर्ण-मासादीनां  
+यावज्-जीवाधिकार-श्रुतेः;  
+श्रुति-विरुद्धानां स्मृतीनां चाप्रामाण्यात्।
+</details>
+
+<details><summary>English</summary>
+
+For this reason also knowledge cannot be subsidiary to works.--But, it may be objected, there is no such condition of life; for texts such as 'he is to perform the Agnihotra as long as he lives,' declare men to be obliged to perform sacrifices and the like up to the end of their lives, and Smr̥ti texts contradicting Scripture have no authority.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननूर्ध्वरेतस आश्रमा न सन्त्येव **यावज्जीवमग्निहोत्रं जुहोति** (आप.श्रौत.३-१४-५) इत्यादिनाऽग्निहोत्रदर्शपूर्णमासादीनां यावज्जीवाधिकारश्रुतेः; श्रुतिविरुद्धानां स्मृतीनां चाप्रामाण्यात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत आह – शब्दे हि – इति । 
+</details>
+
+<details><summary>English</summary>
+
+--To meet this the Sūtra adds 'for in Scripture.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत आह – शब्दे हि – इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैदिक एव हि शब्दे ते दृश्यन्ते 
+</details>
+
+<details><summary>English</summary>
+
+The three stages of life are recognised in Scripture only; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वैदिक एव हि शब्दे ते दृश्यन्ते 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**त्रयो धर्म-स्कन्धाः** (छा.२.२३.१) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**त्रयो धर्मस्कन्धाः** (छा.२.२३.१) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ये चेमेऽरण्ये श्रद्धा तप इत्युपासते (छा.५.१०.१) 
+</details>
+
+<details><summary>English</summary>
+
+cp. texts such as  
+
+> 'Those who in the forest practise penance and faith' (Cḥ. Up. V, 10, 1); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> ये चेमेऽरण्ये श्रद्धा तप इत्युपासते (छा.५.१०.१) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **एतम् एव प्रव्राजिनो लोकिम् इच्छन्तः प्रव्रजन्ति** (बृह.६.४.२२) 
+
+इत्यादौ। 
+</details>
+
+<details><summary>English</summary>
+
+'Wishing for that world only mendicants wander forth from their homes' (Br̥. Up. IV, 4, 22). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**एतमेव प्रव्राजिनो लोकिमिच्छन्तः प्रव्रजन्ति** (बृह.६.४.२२) इत्यादौ। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यावज्-जीव-श्रुतिस् त्व् अ-विरक्त-विषया ॥१७॥
+</details>
+
+<details><summary>English</summary>
+
+The text as to the lifelong obligatoriness of the Agnihotra is valid for those only who do not retire from worldly life.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यावज्जीवश्रुतिस्त्वविरक्तविषया ॥१७॥
+</details>
+
 
 ## जैमिनिमते सन्न्यासाश्रमः अवैधः
 
