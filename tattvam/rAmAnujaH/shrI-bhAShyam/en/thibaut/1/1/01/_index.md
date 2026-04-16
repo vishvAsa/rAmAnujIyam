@@ -4,7 +4,7 @@ title = "01"
 +++
 
 
-1. Then therefore the enquiry into Brahman.
+1\. Then therefore the enquiry into Brahman.
 
 In this Sūtra the word 'then' expresses immediate sequence; the word 'therefore' intimates that what has taken place (viz. the study of the karmakāṇḍa of the Veda) constitutes the reason (of the enquiry into Brahman). For the fact is that the enquiry into (lit.'the desire to know') Brahman--the fruit of which enquiry is infinite in nature and permanent--follows immediately in the case of him who, having read the Veda together with its auxiliary disciplines, has reached the knowledge that the fruit of mere works is limited and non-permanent, and hence has conceived the desire of final release.
 

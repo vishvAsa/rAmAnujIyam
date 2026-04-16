@@ -6,74 +6,905 @@ title = "०१ पुरुषार्थाधिकरणम्"
 
 **पुरुषार्थाधिकरणम्॥१॥**
 
-## अधिकरणानि – 1 – 15 सूत्राणि – 1 – 51
+
 
 <details><summary>अधिकरणार्थः</summary>
 
-कर्माङ्गकादुपासनादेव परमपुरुषार्थावाप्तिः, न तु वेदनाङ्गकात् कर्मणः
+कर्माङ्गकादुपासनादेव परमपुरुषार्थावाप्तिः, न तु वेदनाङ्गकात् कर्मणः॥
+
+ईशावास्यविद्याविचारः 3-4-33।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**४१९. पुरुषार्थो ऽतश् +++(←विद्यातः)+++ - शब्दाद् इति बादरायणः ॥ ३–४–१ ॥**
+</details>
+
+<details><summary>English</summary>
+
+1. The benefit to man results from thence, on account of scriptural statement; thus Bādarāyaṇa thinks.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 **४१९. पुरुषार्थोऽतश्शब्दादिति बादरायणः ॥ ३–४–१ ॥**
+</details>
 
-## ईशावास्यविद्याविचारः 3-4-33
 
-## अस्याधिकरणस्य पूर्वपादेन सह सङ्गतिः विचारणीयोंशश्च
+## सङ्गतिः
 
-गुणोपसंहारानुपसंहारफला विद्यैकत्वनानात्वचिन्ता कृता; इदानीं विद्यातः पुरुषार्थः, उत विद्याङ्गकात्कर्मण इति चिन्त्यते।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## सिद्धान्त्यभिमतोऽर्थः
+गुणोपसंहारानुपसंहार-फला विद्यैकत्व-नानात्व-चिन्ता कृता; 
+</details>
 
-किं युक्तम्? अतः – विद्यातः पुरुषार्थ इति भगवान् बादरायणो मन्यते; कुतः? शब्दात् – दृश्यते ह्यौपिनषदश्शब्दो विद्यातः पुरुषार्थं ब्रुवन् **ब्रह्म विदाप्नोति परम्** (तै.आ.१.अनु)
-**वेदाहमेतं पुरुषं महान्तमादित्यवर्णं तमसः परस्तात्। तमेवं विद्वानमृत इह भवति। नान्यः पन्था विद्यतेऽयनाय** (पु.सू.) **यथा नद्यः स्यन्दमानास्समुद्रे अस्तं गच्छन्ति नामरूपे विहाय। तथा विद्वान्नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम्** (मु.३.२८) इत्यादि॥१॥
+<details><summary>English</summary>
 
-## पूर्वपक्षपरं सूत्रम् – विद्यातः फलश्रुतेरर्थवादतापरम्
+We have concluded the investigation into the oneness or diverseness of meditations--the result of which is to indicate in which cases the special points mentioned in several meditations have to be combined, and in which not. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुणोपसंहारानुपसंहारफला विद्यैकत्वनानात्वचिन्ता कृता; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदानीं विद्यातः पुरुषार्थः,  
+उत विद्याङ्गकात्कर्मण इति चिन्त्यते।
+</details>
+
+<details><summary>English</summary>
+
+A further point now to be investigated is whether that advantage to the meditating devotee, which is held to accrue to him from the meditation, results from the meditation directly, or from works of which the meditations are subordinate members.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदानीं विद्यातः पुरुषार्थः, उत विद्याङ्गकात्कर्मण इति चिन्त्यते।
+</details>
+
+
+## विद्यातः पुरुषार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं युक्तम्? अतः – विद्यातः पुरुषार्थ  
+इति भगवान् बादरायणो मन्यते;
+</details>
+
+<details><summary>English</summary>
+
+--The Reverend Bādarāyaṇa holds the former view. The benefit to man results from thence, i.e. from the meditation,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं युक्तम्? अतः – विद्यातः पुरुषार्थ इति भगवान् बादरायणो मन्यते;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः? शब्दात् – 
+</details>
+
+<details><summary>English</summary>
+
+because Scripture declares this to be so. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतः? शब्दात् – 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दृश्यते ह्यौपिनषदश्शब्दो विद्यातः पुरुषार्थं ब्रुवन् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+दृश्यते ह्यौपिनषदश्शब्दो विद्यातः पुरुषार्थं ब्रुवन् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **ब्रह्मविदाप्नोति परम्** (तै.आ.१.अनु)
+</details>
+
+<details><summary>English</summary>
+
+'He who knows Brahman reaches the Highest' (Taitt. Up. II, 1, 1); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**ब्रह्मविदाप्नोति परम्** (तै.आ.१.अनु)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **वेदाहमेतं पुरुषं महान्तमादित्यवर्णं तमसः परस्तात्। तमेवं विद्वानमृत इह भवति। नान्यः पन्था विद्यतेऽयनाय** (पु.सू.) 
+</details>
+
+<details><summary>English</summary>
+
+'I know that great Person of sun-like lustre beyond the darkness. A man who knows him truly passes over death; there is no other path to go' (Śvet. Up. III, 8); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**वेदाहमेतं पुरुषं महान्तमादित्यवर्णं तमसः परस्तात्। तमेवं विद्वानमृत इह भवति। नान्यः पन्था विद्यतेऽयनाय** (पु.सू.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **यथा नद्यः स्यन्दमानास् समुद्रे  
+> अस्तं गच्छन्ति नामरूपे विहाय।  
+> तथा विद्वान् नामरूपाद् विमुक्तः  
+> परात्परं पुरुषम् उपैति दिव्यम्**   
+> (मु.३.२८) 
+
+इत्यादि॥१॥
+</details>
+
+<details><summary>English</summary>
+
+> 'As the flowing rivers disappear in the sea, losing their name and their form,  
+> thus a man who possesses knowledge, freed from name and form, goes to the divine Person who is greater than the great' (Mu. Up. III, 2, 8).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**यथा नद्यः स्यन्दमानास्समुद्रे अस्तं गच्छन्ति नामरूपे विहाय। तथा विद्वान्नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम्** (मु.३.२८) इत्यादि॥१॥
+
+</details>
+
+
+## पूर्वपक्षः 
+
+### विद्यातः कर्तृ-संस्कारो ऽर्थवादः, शेषत्वात्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र पूर्वपक्षी प्रत्यवतिष्ठते –
+</details>
+
+<details><summary>English</summary>
+
+Against this view the Pūrvapakshin raises an objection.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र पूर्वपक्षी प्रत्यवतिष्ठते –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ४२०. शेषत्वात् पुरुषार्थवादो  
+यथा ऽन्येष्व् 
+
+इति जैमिनिः ॥ ३–४–२ ॥
+</details>
+
+<details><summary>English</summary>
+
+2\. On account of (the Self) standing in a complementary relation, they are arthavādas, as in other cases; thus Jaimini opines.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **४२०. शेषत्वात्पुरुषार्थवादो यथान्येष्विति जैमिनिः ॥ ३–४–२ ॥**
+</details>
 
-नैतदेवम् – यद्विद्यातः पुरुषार्थावाप्तिश्शब्दादवगम्यते – इति। न ह्येषः **ब्रह्मविदाप्नोति परम्** (तै.आ.१) इत्यादिशब्दो वेदनात्पुरुषार्थावाप्तिमवगमयति, कर्मसु कर्तृभूतस्याऽत्मनो याथात्म्यवेदनप्रतिपादनपरत्वात्। अतः कर्तुस्संस्कारद्वारेण विद्यायाः क्रतुशेषत्वात्तत्र फलश्रुतिरर्थवादमात्रम्; यथाऽन्येषु द्रव्यादिषु – इति जैमिनिराचार्यो मन्यते। तदुक्तं **द्रव्यगुणसंस्कारकर्मसु परार्थत्वात्फलश्रुतिरर्थवादस्स्यात्** (जै.मी.सू.४.३.१) इति।
 
-## पूर्वपक्षोक्तस्य वेदान्तशब्दानां जीवयाथात्म्यपरत्वस्य आक्षेपः सिद्धान्तिनः
 
-ननु च कर्मसु कर्तुर्जीवादन्यो मुमुक्षुभिः प्राप्यतया वेदान्तेषु वेद्य उपिदश्यत इति प्रागेवोपपादितं **नेतरोऽनुपपत्तेः** (ब्र.सू..१.१.१७) **भेदव्यपदेशाच्च** (शारी.१-१-१८) **अनुपपत्तेस्तु न शारीरः** (ब्र.सू.१.२.३) **इतरपरामर्शात्स इति चेन्नासम्भवात्** (शारी.१-३-१७) इत्येवमादिभिस्सूत्रैः; तदेव ब्रह्म तत्त्वमस्यादिसामानाधिकरण्येन जीवादनतिरिक्तमित्येतदपि **अधिकं तु भेदनिर्देशात्** (ब्र.सू.२.१.२२) इत्येवमादिभिर्निरस्तम्; सामानाधिकरण्यनिर्देशश्च **ऐतदात्म्यमिदं सर्वं** (छा.६.८.७)
-**सर्वं खल्विदं ब्रह्म** (छा.३.१४.१) इति चेतनाचेतनसाधारणः;
-**यः पृथिव्यां तिष्ठन्** (बृ.५.७.३) **य आत्मनि तिष्ठन्** (बृ.६.३.२२) इत्यादिनाऽवगततत्तदात्मतयाऽवस्थितिनिबन्धन इति
-**अवस्थितेरिति काशकृत्स्नः** (ब्र.सू.६.४.२२) इत्यादिभिरुपपादितम्; तत्कथं कर्मसु कर्तुरात्मनो याथात्म्योपदेशपरा वेदान्तशब्दा इति विद्यायाः कर्माङ्गत्वं प्रतिपाद्यते?।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## प्रसक्ताक्षेपस्य पूर्वपक्षिकृतः परिहारः
+नैतदेवम् – यद् विद्यातः पुरुषार्थावाप्तिश् शब्दाद् अवगम्यते – इति। 
+</details>
 
-उच्यते – वेदान्तवाक्येष्वेव विद्यायाः कर्मप्राधान्यं सूचयद्भिर्लिगैः तदुपबृंहित-सामानाधिकरण्यनिर्देशेन च वेदान्तशब्दा देहातिरिक्तजीवस्वरूपयाथात्म्योपदेशपरा इति बलादभ्युपगमनीयमिति पूर्वपक्षिणोऽभिप्रायः।
+<details><summary>English</summary>
 
-## विद्यायाः कर्मसंस्कारद्वारा क्रत्वङ्गत्वायोगशङ्का-निरासौ
+What has been said as to Scripture intimating that a beneficial result is realised through the meditations by themselves is untenable. 
+</details>
 
-ननु च कर्तृसंस्कारमुखेन विद्यायाः क्रत्वनुप्रवेशो न शक्यते वक्तुम्, कर्तुर्लौकिकवैदिकसाधारणत्वेनाव्यभिचरितक्रतुसम्बन्धित्वाभावात्। नैवम्, लौकिकस्य कर्मणः कर्तुर्देहादव्यतिरिक्तत्वेऽप्युपपत्तेर्देहातिरक्तनित्यात्मस्वरूपस्य क्रतावेवोपयोगात् तत्स्वरूपप्रतिपादन-मुखेन क्रत्वनुप्रवेशो न विरुध्यते। अतो विद्यायाः क्रतुशेषत्वान्नातः पुरुषार्थः॥२॥
 
-## वेदान्तानां जीवस्वरूपपरत्वे लिङ्गप्रदर्शनं सूत्रतः
+<details><summary>मूलम्</summary>
 
-कानि पुनस्तानि लिङ्गानि; यदुपबृंहितसामानाधिकरण्यनिर्देशेन वेदान्तशब्दा जीवस्वरूपपरा इति निर्णीयन्ते। तत्राह –
+नैतदेवम् – यद्विद्यातः पुरुषार्थावाप्तिश्शब्दादवगम्यते – इति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् एषः 
+
+> **ब्रह्मविद् आप्नोति परम्** (तै.आ.१) 
+
+इत्य्-आदि-शब्दो  
+वेदनात् पुरुषार्थावाप्तिम् अवगमयति,  
+कर्मसु कर्तृ-भूतस्याऽत्मनो याथात्म्य-वेदन-प्रतिपादन-परत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+For texts such as 'he who knows Brahman reaches the Highest' do not teach that the highest aim of man is attained through knowledge; their purport rather is to inculcate knowledge of Truth on the part of a Self which is the agent in works prescribed. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न ह्येषः **ब्रह्मविदाप्नोति परम्** (तै.आ.१) इत्यादिशब्दो वेदनात्पुरुषार्थावाप्तिमवगमयति, कर्मसु कर्तृभूतस्याऽत्मनो याथात्म्यवेदनप्रतिपादनपरत्वात्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः कर्तुस् संस्कार-द्वारेण  
+विद्यायाः क्रतु-शेषत्वात्,  
+तत्र फल-श्रुतिर् अर्थवाद-मात्रम्;  
+यथाऽन्येषु द्रव्यादिषु –  
+इति जैमिनिर् आचार्यो मन्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Knowledge, therefore, stands in a complementary relation to sacrificial works, in so far as it imparts to the acting Self a certain mystic purification; and the texts which declare special results of knowledge, therefore, must be taken as mere arthavādas. 'As in the case of other things; so Jaimini thinks,' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतः कर्तुस्संस्कारद्वारेण विद्यायाः क्रतुशेषत्वात्तत्र फलश्रुतिरर्थवादमात्रम्; यथाऽन्येषु द्रव्यादिषु – इति जैमिनिराचार्यो मन्यते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् उक्तं 
+
+> **द्रव्य-गुण-संस्कार-कर्मसु  
+> परार्थत्वात् फल-श्रुतिर् अर्थवादस् स्यात्**  
+> (जै.मी.सू.४.३.१) 
+
+इति।
+</details>
+
+<details><summary>English</summary>
+
+i.e. as Jaimini holds that in the case of substances, qualities, and so on, the scriptural declaration of results is of the nature of arthavāda.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदुक्तं **द्रव्यगुणसंस्कारकर्मसु परार्थत्वात्फलश्रुतिरर्थवादस्स्यात्** (जै.मी.सू.४.३.१) इति।
+</details>
+
+
+### कर्त्रुपदेश-पर एव
+#### आक्षेपः - न कर्त्रुपदेशपराः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च कर्मसु कर्तुर् जीवाद् अन्यो  
+> मुमुक्षुभिः प्राप्यतया वेदान्तेषु वेद्य उपिदश्यत  
+> इति प्रागेवोपपादितं 
+</details>
+
+
+<details><summary>English</summary>
+
+> -- But it has been shown before that  
+> the Vedānta-texts represent as the object to be attained, by those desirous of Release,  
+> on the basis of the knowledge imparted by them,  
+> something different from the individual Self engaged in action; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु च कर्मसु कर्तुर्जीवादन्यो मुमुक्षुभिः प्राप्यतया वेदान्तेषु वेद्य उपिदश्यत इति प्रागेवोपपादितं 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **नेतरोऽनुपपत्तेः** (ब्र.सू..१.१.१७) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**नेतरोऽनुपपत्तेः** (ब्र.सू..१.१.१७) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **भेदव्यपदेशाच्च** (शारी.१-१-१८) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> **भेदव्यपदेशाच्च** (शारी.१-१-१८) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **अनुपपत्तेस्तु न शारीरः** (ब्र.सू.१.२.३) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**अनुपपत्तेस्तु न शारीरः** (ब्र.सू.१.२.३) 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **इतर-परामर्शात् स इति चेन्नासम्भवात्** (शारी.१-३-१७) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**इतरपरामर्शात्स इति चेन्नासम्भवात्** (शारी.१-३-१७) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत्येवमादिभिस्सूत्रैः; 
+</details>
+
+<details><summary>English</summary>
+
+> cp. on this point Sū. I, 1, 15; I, 3, 5; I, 2, 3; I, 3, 18. And Sū. II, 1, 22 and others have refuted the view that Brahman is to be considered as non-different from the personal soul, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्येवमादिभिस्सूत्रैः; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तद् एव 
+> 
+> > ब्रह्म "तत् त्वम् अस्य्"-आदि-सामानाधिकरण्येन जीवाद् अनतिरिक्तम् 
+> 
+> इत्य्-एतद् अपि  
+> **अधिकं तु भेदनिर्देशात्** (ब्र.सू.२.१.२२) इत्य् एवम्-आदिभिर् निरस्तम्; 
+</details>
+
+<details><summary>English</summary>
+
+because in texts such as 'thou art that' it is exhibited in co-ordination with the latter. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदेव ब्रह्म तत्त्वमस्यादिसामानाधिकरण्येन जीवादनतिरिक्तमित्येतदपि **अधिकं तु भेदनिर्देशात्** (ब्र.सू.२.१.२२) इत्येवमादिभिर्निरस्तम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सामानाधिकरण्य-निर्देशश्च  
+> **ऐतदात्म्यमिदं सर्वं** (छा.६.८.७)  
+**सर्वं खल्विदं ब्रह्म** (छा.३.१४.१)  
+> इति चेतनाचेतनसाधारणः  
+>
+> **यः पृथिव्यां तिष्ठन्** (बृ.५.७.३)  
+> **य आत्मनि तिष्ठन्** (बृ.६.३.२२) इत्य्-आदिना ऽवगत-तत्-तद्-आत्मतया ऽवस्थिति-निबन्धनः
+</details>
+
+<details><summary>English</summary>
+
+> And other Sūtras have proved that Brahman must, on the basis of numerous scriptural texts, be recognised as the inner Self of all things material and immaterial. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> सामानाधिकरण्यनिर्देशश्च **ऐतदात्म्यमिदं सर्वं** (छा.६.८.७)
+**सर्वं खल्विदं ब्रह्म** (छा.३.१४.१) इति चेतनाचेतनसाधारणः; **यः पृथिव्यां तिष्ठन्** (बृ.५.७.३) **य आत्मनि तिष्ठन्** (बृ.६.३.२२) इत्यादिनाऽवगततत्तदात्मतयाऽवस्थितिनिबन्धन 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इति 
+>
+> > **अवस्थितेर् इति काशकृत्स्नः** (ब्र.सू.६.४.२२) 
+>
+> इत्यादिभिर् उपपादितम्; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति **अवस्थितेरिति काशकृत्स्नः** (ब्र.सू.६.४.२२) इत्यादिभिरुपपादितम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत्कथं कर्मसु कर्तुर् आत्मनो याथात्म्योपदेश-परा वेदान्त-शब्दा  
+> इति विद्यायाः कर्माङ्गत्वं प्रतिपाद्यते?।
+</details>
+
+<details><summary>English</summary>
+
+> How then can it be said that the Vedānta-texts merely mean to give instruction as to the true nature of the active individual soul, and that hence all meditation is merely subservient to sacrificial works?--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> तत्कथं कर्मसु कर्तुरात्मनो याथात्म्योपदेशपरा वेदान्तशब्दा इति विद्यायाः कर्माङ्गत्वं प्रतिपाद्यते?।
+</details>
+
+
+
+#### परिहारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उच्यते – वेदान्तवाक्येष्व् एव  
+विद्यायाः कर्म-प्राधान्यं सूचयद्भिर् लिङ्गैः  
+तद्-उपबृंहित-+++(जीव-ब्रह्म-)+++सामानाधिकरण्य-निर्देशेन च  
+वेदान्त-शब्दा देहातिरिक्त-जीव-स्वरूप-याथात्म्योपदेशपराः  
+इति बलाद् अभ्युपगमनीयम्
+</details>
+
+<details><summary>English</summary>
+
+On the strength of numerous inferential marks, the Pūrvapakshin replies, which prove that in the Vedānta-texts all knowledge (~~meditation~~) is really viewed as subordinate to meditation (~~knowledge~~),  
+and of the declarations of co-ordination of Brahman and the individual soul (which must be taken to imply that the two are essentially of the same nature),  
+we cannot help forming the conclusion that the real purport of the Vedānta-texts is to tell us of the true nature of the individual soul in so far as different from its body.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उच्यते – वेदान्तवाक्येष्वेव विद्यायाः कर्मप्राधान्यं सूचयद्भिर्लिङ्गैः तदुपबृंहित-सामानाधिकरण्यनिर्देशेन च वेदान्तशब्दा देहातिरिक्तजीवस्वरूपयाथात्म्योपदेशपरा इति बलादभ्युपगमनीयम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति पूर्वपक्षिणोऽभिप्रायः।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति पूर्वपक्षिणोऽभिप्रायः।
+</details>
+
+
+### विद्या-कृत-संस्कारस्य क्रतुनैव सम्बन्धः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च कर्तृ-संस्कार-मुखेन  
+> विद्यायाः क्रत्व्-अनुप्रवेशो न शक्यते वक्तुम्,  
+> कर्तुर् लौकिक-वैदिक-साधारणत्वेन  
+> अव्यभिचरित-क्रतु-सम्बन्धित्वाभावात्  
+> +++(लौकिक-कर्मोचितस् स्यात् विद्या-कृतः संस्कारः)+++। 
+</details>
+
+<details><summary>English</summary>
+
+--But, again it is objected, 
+
+> the agent is connected no less with ordinary worldly works than with works enjoined by the Veda,  
+> and hence is not invariably connected with sacrifices (i.e. works of the latter type); it cannot, therefore, be maintained that meditations on the part of the agent necessarily connect themselves with sacrifices in so far as they effect a purification of the sacrificer's mind!--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु च कर्तृसंस्कारमुखेन विद्यायाः क्रत्वनुप्रवेशो न शक्यते वक्तुम्, कर्तुर्लौकिकवैदिकसाधारणत्वेनाव्यभिचरितक्रतुसम्बन्धित्वाभावात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैवम्, लौकिकस्य कर्मणः  
+कर्तुर् देहाद् अव्यतिरिक्तत्वे ऽप्य्  
+उपपत्तेर् देहातिरक्त-नित्यात्म-स्वरूपस्य  
+क्रताव् एवोपयोगात्  
+तत् स्वरूप-प्रतिपादन-मुखेन  
+क्रत्व्-अनुप्रवेशो न विरुध्यते।
+</details>
+
+<details><summary>English</summary>
+
+There is a difference, the Pūrvapakshin rejoins. Worldly works can proceed also if the agent is non-different from the body; while an agent is qualified for sacred works only in so far as he is different from the body, and of an eternal non-changing nature. Meditations, therefore, properly connect themselves with sacrifices, in so far as they teach that the agent really is of that latter nature. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैवम्, लौकिकस्य कर्मणः कर्तुर्देहादव्यतिरिक्तत्वेऽप्युपपत्तेर्देहातिरक्तनित्यात्मस्वरूपस्य क्रतावेवोपयोगात् तत्स्वरूपप्रतिपादन-मुखेन क्रत्वनुप्रवेशो न विरुध्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो विद्यायाः क्रतुशेषत्वान्नातः पुरुषार्थः॥२॥
+</details>
+
+<details><summary>English</summary>
+
+We thus adhere to the conclusion that meditations are constituents of sacrificial actions, and hence are of no advantage by themselves.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो विद्यायाः क्रतुशेषत्वान्नातः पुरुषार्थः॥२॥
+</details>
+
+### वेदान्त-शब्दा कर्तृ-स्वरूप-पराः 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कानि पुनस्तानि लिङ्गानि;  
+यद्-उपबृंहित-सामानाधिकरण्य-निर्देशेन  
+"वेदान्त-शब्दा जीव-स्वरूप-परा" इति निर्णीयन्ते। 
+</details>
+
+
+<details><summary>English</summary>
+
+--But what then are those inferential marks  
+which, as you say, fully prove that the Vedānta-texts aim at setting forth the nature of the individual soul?--  
+</details>
+
+<details><summary>मूलम्</summary>
+
+कानि पुनस्तानि लिङ्गानि; यदुपबृंहितसामानाधिकरण्यनिर्देशेन वेदान्तशब्दा जीवस्वरूपपरा इति निर्णीयन्ते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्राह –
+</details>
+
+<details><summary>English</summary>
+
+To this the next Sūtra replies.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्राह –
+</details>
+
+#### कर्म-परा ब्रह्मविदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **४२१. आचारदर्शनात् ॥ ३–४–३ ॥**
+</details>
 
-ब्रह्मविदां प्राधान्येन कर्मस्वेवाचारो दृश्यते अश्वपतिः केकयः किल आत्मवित्तमः तद्विज्ञानाय उपगतांस्तानृषीन् प्रत्याह – **यक्ष्यमाणो ह वै भगवन्तोऽहमस्मि** (छा.५.११.५) इति । तथा जनकादयो ब्रह्मविदग्रेसराः कर्मनिष्ठाः स्मृतिषु दृश्यन्ते, **कर्मणैव हि संसिद्धिमास्थिता जनकादयः** (भ.गी.३.२०) **इयाज सोऽपि सुबहून् यज्ञान् ज्ञानव्यपाश्रयः** (वि.पु.६.६.१२) इति । अतो ब्रह्मविदां कर्मप्रधानत्वदर्शनाद्विद्यायाः कर्तृस्वरूपवेदनरूपत्वेन कर्माङ्गत्वमेवेति न विद्यातः पुरुषार्थः॥३॥
+<details><summary>English</summary>
 
-## उक्तार्थे लिङ्गानुग्राह्यप्रमाणप्रदर्शनम्
+3. On account of (such) conduct being seen.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**४२१. आचारदर्शनात् ॥ ३–४–३ ॥**
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मविदां प्राधान्येन कर्मस्वेवाचारो दृश्यते 
+</details>
+
+<details><summary>English</summary>
+
+It is seen, viz in Scripture, that those who knew Brahman busied themselves chiefly with sacrifices.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मविदां प्राधान्येन कर्मस्वेवाचारो दृश्यते 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अश्वपतिः केकयः किल आत्मवित्तमः  
+तद्-विज्ञानायोपगतांस् तान् ऋषीन् प्रत्य् आह –  
+
+> **यक्ष्यमाणो ह वै भगवन्तो ऽहम् अस्मि**  
+> (छा.५.११.५) 
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+-- Aśvapati Kaikeya had a deep knowledge of the Self; but when three R̥shis had come to him to receive instruction regarding the Self, he told them 'I am about, to perform a sacrifice, Sirs' (Cḥ. Up. V, II). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अश्वपतिः केकयः किल आत्मवित्तमः तद्विज्ञानाय उपगतांस्तानृषीन् प्रत्याह – **यक्ष्यमाणो ह वै भगवन्तोऽहमस्मि** (छा.५.११.५) इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा जनकादयो ब्रह्म-विद्-अग्रेसराः कर्मनिष्ठाः स्मृतिषु दृश्यन्ते, 
+</details>
+
+<details><summary>English</summary>
+
+Similarly we learn from Smr̥ti that Janaka and other princes deeply versed in the knowledge of Brahman applied themselves to sacrificial works, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा जनकादयो ब्रह्मविदग्रेसराः कर्मनिष्ठाः स्मृतिषु दृश्यन्ते, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **कर्मणैव हि संसिद्धिम्  
+> आस्थिता जनकादयः** (भ.गी.३.२०) 
+</details>
+
+<details><summary>English</summary>
+
+'By works only Janaka and others attained to perfection'; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**कर्मणैव हि संसिद्धिमास्थिता जनकादयः** (भ.गी.३.२०) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **इयाज सोऽपि सुबहून्  
+> यज्ञान् ज्ञानव्यपाश्रयः**  
+> (वि.पु.६.६.१२) 
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+> 'He also, well founded in knowledge, offered many sacrifices.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**इयाज सोऽपि सुबहून् यज्ञान् ज्ञानव्यपाश्रयः** (वि.पु.६.६.१२) इति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ब्रह्मविदां कर्मप्रधानत्व-दर्शनाद्  
+विद्यायाः कर्तृ-स्वरूप-वेदन-रूपत्वेन  
+कर्माङ्गत्वम् एवेति  
+न विद्यातः पुरुषार्थः॥३॥
+</details>
+
+<details><summary>English</summary>
+
+And this fact--that those who know Brahman apply themselves to works chiefly--shows that knowledge (or meditation) has no independent value, but serves to set forth the true nature of the active Self, and thus is subordinate to work.--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो ब्रह्मविदां कर्मप्रधानत्वदर्शनाद्विद्यायाः कर्तृस्वरूपवेदनरूपत्वेन कर्माङ्गत्वमेवेति न विद्यातः पुरुषार्थः॥३॥
+</details>
+
+
+
+#### कर्म-प्राधान्ये श्रुतिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लिङ्गम् इदम्;  
+प्राप्तिर् उच्यताम् इत्य्-अत्राह –
+</details>
+
+<details><summary>English</summary>
+
+An even more direct proof is set forth in the next Sūtra.
+</details>
+
+<details><summary>मूलम्</summary>
 
 लिङ्गमिदम्; प्राप्तिरुच्यतामित्यत्राह –
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४२२. तच्छ्रुतेः ॥ ३–४–४ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 4. On account of direct scriptural statement.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **४२२. तच्छ्रुतेः ॥ ३–४–४ ॥**
+</details>
 
-श्रुतिरेव हि विद्यायाः कर्माङ्गत्वमाह – **यदेव विद्यया करोति श्रद्धयोपनिषदा तदेव वीर्यवत्तरं भवति** (छा.१.१.१०) इति। **नेयं श्रुतिः प्रकरणादुद्गीथमात्रविषयेति व्यवस्थापयितुं शक्या; यतः प्रकरणाच्छुतिर्बलीयसी; यदेव विद्यया करोति** (छा.१.१.१०) इति विद्यामात्रविषया हीयं श्रुतिः ॥४॥
 
-## श्रुतिदृष्टे साहित्ये विद्यायाः कर्माङ्गताज्ञापकम्
 
-**४२३. समन्वारम्भणात् ॥ ३–४–५ ॥**
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**तं विद्याकर्मणी समन्वारभेते** (बृ.६.४.२) इति विद्याकर्मणोस्साहित्यं च दृश्यते । साहित्यं चोक्तेन न्यायेन विद्यायाः कर्माङ्गत्वे सत्येव भवति ॥
+श्रुतिरेव हि विद्यायाः कर्माङ्गत्वमाह – 
+</details>
+
+<details><summary>English</summary>
+
+Scripture itself directly declares knowledge to be subordinate to works, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रुतिरेव हि विद्यायाः कर्माङ्गत्वमाह – 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **यद् एव विद्यया करोति  
+श्रद्धयोपनिषदा  
+तद् एव वीर्यवत्तरं भवति**  
+(छा.१.१.१०) 
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+> 'whatever he does with knowledge, with faith, with the Upanishad, that is more vigorous'. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**यदेव विद्यया करोति श्रद्धयोपनिषदा तदेव वीर्यवत्तरं भवति** (छा.१.१.१०) इति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नेयं श्रुतिः प्रकरणाद् उद्गीथ-मात्र-विषयेति व्यवस्थापयितुं शक्या;  
+यतः प्रकरणाच् छुतिर् बलीयसी;+++(4)+++ 
+</details>
+
+
+<details><summary>English</summary>
+
+Nor can it be said that this text refers, on the ground of leading subject-matter (prakaraṇa), to the Udgītha only; for direct scriptural statement (śuti) is stronger than subject-matter,
+</details>
+
+<details><summary>मूलम्</summary>
+
+नेयं श्रुतिः प्रकरणादुद्गीथमात्रविषयेति व्यवस्थापयितुं शक्या; यतः प्रकरणाच्छुतिर्बलीयसी; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **यद् एव विद्यया करोति** (छा.१.१.१०) 
+
+इति विद्यामात्रविषया हीयं श्रुतिः ॥४॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+and the words 'whatever he does with knowledge' clearly refer to knowledge in general.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**यद् एव विद्यया करोति** (छा.१.१.१०) इति विद्यामात्रविषया हीयं श्रुतिः ॥४॥
+
+</details>
+
+
+#### बृहदारण्यके
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४२३. +++(विद्याकर्मभ्याम्)+++ समन्वारम्भणात् ॥ ३–४–५ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 5\. On account of the taking hold together.
+</details>
+
+<details><summary>मूलम्</summary>
+
+> **४२३. समन्वारम्भणात् ॥ ३–४–५ ॥**
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **तं विद्या-कर्मणी समन्वारभेते** (बृ.६.४.२) 
+
+इति विद्या-कर्मणोस् साहित्यं च दृश्यते । 
+</details>
+
+<details><summary>English</summary>
+
+The text 'then both knowledge and work take hold of him' (Br̥. Up. IV, 4, 2) shows that knowledge and work go together, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**तं विद्याकर्मणी समन्वारभेते** (बृ.६.४.२) इति विद्याकर्मणोस्साहित्यं च दृश्यते । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साहित्यं चोक्तेन न्यायेन  
+विद्यायाः कर्माङ्गत्वे सत्य् एव भवति ॥
+</details>
+
+<details><summary>English</summary>
+
+and this going together is possible only if, in the manner stated, knowledge is subordinate to work.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+साहित्यं चोक्तेन न्यायेन विद्यायाः कर्माङ्गत्वे सत्येव भवति ॥
+</details>
+
+
 
 ## कर्मविधिषु विद्यावतः अधिकारत्वोक्तिरपि उक्तार्थज्ञापिका
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 **४२४. तद्वतो विधानात् ॥ ३–४–६ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 6\. On account of injunction for such a one.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**४२४. तद्वतो विधानात् ॥ ३–४–६ ॥**
+</details>
+
 
 विद्यावतः कर्मविधानाद्विद्या कर्माङ्गमित्यवगम्यते –
 **आचार्यकुलाद्वेदमधीत्य यथाविधानं गुरोः कर्मातिशेषेणाभिसमावृत्य कुटुम्बे शुचौ देशे** (छा.८.१५.१) इत्यादौ । **वेदमधीत्य** (छा.८.१५.१) इत्यध्ययनवतः कर्माणि विदधदर्थावबोधपर्यन्ताध्ययनवत एव विदधाति । अर्थावबोधपर्यन्तं ह्यध्ययनमिति स्थापितम् । अतो ब्रह्मविद्यापि कर्मसु विनियुक्तेति न पृथक्फलायावकल्पते ॥६॥
@@ -170,11 +1001,106 @@ title = "०१ पुरुषार्थाधिकरणम्"
 यदिदं **त्रयो धर्मस्कन्धाः** (छा.२.२.३) इत्यादौ वैदिके शब्दे ऊर्ध्वरेतस आश्रमा दृश्यन्ते; अतस्ते सन्त्येवेति; नैतदुपपद्यते; यतः **त्रयो धर्मस्कन्धाः** (छा.२.२३.१) इत्यादिषु वाक्येषु तेषामाश्रमाणां परामर्शमात्रं क्रियते – अनुवादमात्रमित्यर्थः। कुत एतत्? अचोदनात् – अविधानादित्यर्थः। न ह्यत्र विधिशब्दः श्रूयते;
 **त्रयो धर्मस्कन्धाः** (छां.२.२३.१) इत्यादिना हि प्रकृतं प्रणवेन ब्रह्मोपासनं स्तूयते, **ब्रह्मसंस्थोऽमृतत्वमेति** (छां.२.२३.१) इत्युपसंहारात् । अतोऽन्यार्थमनुवादमात्रमत्र क्रियते तेषामाश्रमाणाम् **। ये चेमेऽरण्ये श्रद्धा तप इत्युपासते** (छा.५.१०.१) इति च देवयानविधिपरत्वात्तत्रापि नाश्रमान्तरविधिसम्भवः । अपि चापवदति हि श्रुतिराश्रमान्तरं **वीरहा वा एष देवानां योऽग्निमुद्वासयते** (यजु.१.कां.५.२) इत्यादिका । अत ऊर्ध्वरेतस आश्रमा न सन्तीति जैमिनिराचार्यो मन्यते ॥१८॥
 
-**४३७. अनुष्ठेयं बादरायणस्साम्यश्रुतेः॥ ३–४–१९ ॥**
-
 ## गार्हस्थ्येतरस्याऽप्याश्रमस्य अनुष्ठेयत्वं बादरायणमते
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गृहस्थाश्रमवदाश्रमान्तरमप्यनुष्ठेयं भगवान् बादरायणो मन्यते । कुतः? **साम्यश्रुतेः** – उपादेयतयाऽभिमतगृहस्थाश्रमसाम्यं हि तेषामप्याश्रमाणां श्रूयते। **त्रयो धर्मस्कन्धाः** (छां.२.२३.१) इत्यारभ्य ब्रह्मसंस्थस्तुत्यर्थतया सङ्कीर्तनं गृहस्थाश्रमस्येतरेषां च समानम्; अथ गृहस्थाश्रमस्यानुवादः प्राप्तौ सत्यामेव संभवतीति तस्य प्राप्तिरवश्याभ्युपेत्येति मतम्; तदितरेषामपि समानमन्यत्राभिनिवेशात्।
+**४३७. +++(गृहस्थेतराश्रम-गतम् अप्य्)+++ अनुष्ठेयं +++(इति)+++ बादरायणस् - +++(अनुष्ठेयत्वे तेषु)+++ साम्यश्रुतेः॥ ३–४–१९ ॥**
+</details>
+
+<details><summary>English</summary>
+
+19. It is to be accomplished, Bādarayaṇa holds, on account of scriptural statement of equality.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**४३७. अनुष्ठेयं बादरायणस्साम्यश्रुतेः॥ ३–४–१९ ॥**
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गृहस्थाश्रमवद् आश्रमान्तरम् अप्यनुष्ठेयं भगवान् बादरायणो मन्यते ।
+</details>
+
+<details><summary>English</summary>
+
+Bādarāyaṇa is of opinion that, in the same way as the condition of householdership, those other conditions of life also are obligatory; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गृहस्थाश्रमवद् आश्रमान्तरम् अप्यनुष्ठेयं भगवान् बादरायणो मन्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः?  
+**साम्यश्रुतेः** –
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुतः?  
+**साम्यश्रुतेः** –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपादेयतया ऽभिमत-गृहस्थाश्रम-साम्यं हि  
+तेषाम् अप्य् आश्रमाणां श्रूयते।
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपादेयतया ऽभिमत-गृहस्थाश्रम-साम्यं हि  
+तेषाम् अप्य् आश्रमाणां श्रूयते।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**त्रयो धर्मस्कन्धाः** (छां.२.२३.१) इत्यारभ्य  
+ब्रह्म-संस्थ-स्तुत्य्-अर्थतया सङ्कीर्तनं  
+गृहस्थाश्रमस्येतरेषां च समानम्; 
+</details>
+
+<details><summary>English</summary>
+
+since in the section beginning 'there are three branches of sacred duty' all the three conditions of life are equally referred to,  
+with a view to glorifying him who is firmly grounded in Brahman.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**त्रयो धर्मस्कन्धाः** (छां.२.२३.१) इत्यारभ्य ब्रह्मसंस्थस्तुत्यर्थतया सङ्कीर्तनं गृहस्थाश्रमस्येतरेषां च समानम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ गृहस्थाश्रमस्यानुवादः  
+प्राप्तौ सत्याम् एव संभवतीति  
+तस्य प्राप्तिर् अवश्याभ्युपेत्येति मतम्;  
+तद्-इतरेषाम् अपि समानम्, अन्यत्राभिनिवेशात्।
+</details>
+
+<details><summary>English</summary>
+
+The reference there made to the condition of the householder  
+necessarily presupposes that condition to be already established and obligatory,  
+and the same reasoning then holds good  
+with regard to the other conditions mentioned.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ गृहस्थाश्रमस्यानुवादः प्राप्तौ सत्याम् एव संभवतीति तस्य प्राप्तिरवश्याभ्युपेत्येति मतम्; तदितरेषामपि समानमन्यत्राभिनिवेशात्।
+</details>
+
 
 ## यज्ञादीनां गृहस्थमात्रत्वशङ्का-तत्परिहारौ
 
