@@ -1409,7 +1409,7 @@ The Sūtras proceed to dispose of the so-called inferential marks.
 लिङ्गान्यपि निरस्यन्ते –
 </details>
 
-
+### ब्रह्म-विद्भिः कर्म-त्यागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **४२७. तुल्यं तु दर्शनम् ॥ ३–४–९ ॥**
@@ -1461,34 +1461,508 @@ The argument that knowledge must be held subordinate to work because we learn fr
 </details>
 
 
-ब्रह्मविदां कर्मानुष्ठानदर्शनमनैकान्तिकमित्यर्थः, अननुष्ठानस्यापि दर्शनात् । दृश्यते हि ब्रह्मविदां कर्मत्यागः ऋषयः कावषेयाः किमर्था वयमध्येष्यामहे किमर्था वयं यक्ष्यामहे इत्यादौ। अतो ब्रह्मविदां कर्मत्यागदर्शनान्न विद्या कर्माङ्गम् ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## ब्रह्मविदां कर्मानुष्ठानाननुष्ठानयोः विरोधाभासपरिहारः
+ब्रह्म-विदां कर्मानुष्ठान-दर्शनम् अनैकान्तिकम् इत्यर्थः, अननुष्ठानस्यापि दर्शनात् । 
+</details>
 
-कथमिदमुपपद्यते – ब्रह्मविदां कर्मानुष्ठानमननुष्ठानञ्च फलाभिसन्धिरहितस्य यज्ञादिकर्मणो ब्रह्मविद्याङ्गत्वात्तथाविधस्य कर्मणोऽनुष्ठानदर्शनमुपपद्यते । वक्ष्यति च **सर्वापेक्षा च यज्ञादिश्रुतेरश्ववत्** (शारी.३.४.२६) इति । फलार्थस्य तस्यैव यज्ञादेः कर्मणो मोक्षैकफलब्रह्म-विद्याविरोधित्वात् तस्याननुष्ठानदर्शनमुपपन्नतरम्। विद्यायाः कर्माङ्गत्वे कर्मत्यागः कथमपि नोपपद्यते ॥ ९॥
+<details><summary>मूलम्</summary>
 
-## विद्यासामान्यस्य कर्माङ्गतायाः श्रौतत्वनिरासः
+ब्रह्मविदां कर्मानुष्ठानदर्शनमनैकान्तिकमित्यर्थः, अननुष्ठानस्यापि दर्शनात् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दृश्यते हि ब्रह्मविदां कर्म-त्यागः -  
+
+> ऋषयः कावषेयाः किम्-अर्था वयम् अध्येष्यामहे  
+किमर्था वयं यक्ष्यामहे 
+
+इत्यादौ। 
+</details>
+
+<details><summary>English</summary>
+
+since, on the other hand, we also see that men knowing Brahman abandoned all work; cp. texts such as 'The R̥shis descended from Kavasha said: For what purpose should we study the Veda? for what purpose should we sacrifice?' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दृश्यते हि ब्रह्मविदां कर्मत्यागः ऋषयः कावषेयाः किमर्था वयमध्येष्यामहे किमर्था वयं यक्ष्यामहे इत्यादौ। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ब्रह्मविदां कर्मत्यागदर्शनान्न विद्या कर्माङ्गम् ।
+</details>
+
+<details><summary>English</summary>
+
+As it thus appears that those who know Brahman give up works, knowledge cannot be a mere auxiliary to works.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो ब्रह्मविदां कर्मत्यागदर्शनान्न विद्या कर्माङ्गम् ।
+</details>
+
+
+#### विद्याङ्ग-कर्म
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कथम् इदम् उपपद्यते ब्रह्म-विदां कर्मानुष्ठानम् अननुष्ठानञ्च – 
+</details>
+
+<details><summary>English</summary>
+
+> --But how can it be accounted for that those who know Brahman both do and do not perform works?
+</details>
+
+<details><summary>मूलम्</summary>
+
+कथमिदमुपपद्यते ब्रह्मविदां कर्मानुष्ठानमननुष्ठानञ्च – 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फलाभिसन्धिरहितस्य यज्ञादि-कर्मणो ब्रह्म-विद्याङ्गत्वात्  
+तथा-विधस्य कर्मणो ऽनुष्ठान-दर्शनम् उपपद्यते । 
+</details>
+
+<details><summary>English</summary>
+
+--Works may be performed in so far as sacrifices and the like, if performed by one not having any special wish, stand in subordinate relation to the knowledge of Brahman; hence there is no objection to texts enjoining works. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलाभिसन्धिरहितस्य यज्ञादिकर्मणो ब्रह्मविद्याङ्गत्वात्तथाविधस्य कर्मणोऽनुष्ठानदर्शनमुपपद्यते । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वक्ष्यति च 
+
+> **सर्वापेक्षा च यज्ञादि-श्रुतेर् अश्ववत्** (शारी.३.४.२६) 
+
+इति । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वक्ष्यति च **सर्वापेक्षा च यज्ञादिश्रुतेरश्ववत्** (शारी.३.४.२६) इति । 
+</details>
+
+#### फलार्थ-कर्म-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फलार्थस्य तस्यैव यज्ञादेः कर्मणो  
+मोक्षैक-फल-ब्रह्म-विद्याविरोधित्वात् तस्याननुष्ठान-दर्शनम् उपपन्नतरम्। 
+</details>
+
+<details><summary>English</summary>
+
+And as, on the other hand, sacrifices and such-like works when aiming at results of their own are opposed to the knowledge of Brahman which has Release for its only result, there is all the less objection to texts which suggest the non-performance of works.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलार्थस्य तस्यैव यज्ञादेः कर्मणो मोक्षैकफलब्रह्म-विद्याविरोधित्वात् तस्याननुष्ठानदर्शनमुपपन्नतरम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विद्यायाः कर्माङ्गत्वे कर्मत्यागः कथमपि नोपपद्यते ॥ ९॥
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, knowledge were subordinate to works, works could on no account be dispensed with.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विद्यायाः कर्माङ्गत्वे कर्मत्यागः कथमपि नोपपद्यते ॥ ९॥
+</details>
+
+
+## कर्माङ्ग-विद्या ऽसार्वत्रिकी
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् उक्तं – "श्रुत्यैव विद्यायाः कर्माङ्गत्वम् अवगम्यते" इति; तत्राह –
+</details>
+
+<details><summary>English</summary>
+
+--Against the assertion that Scripture directly declares knowledge to be subordinate to works the next Sūtra declares itself.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 यदुक्तं – श्रुत्यैव विद्यायाः कर्माङ्गत्वमवगम्यते इति; तत्राह –
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४२८. असार्वत्रिकी +++(कर्माङ्ग-विद्या-श्रुतिः)+++ ॥ ३–४–१० ॥**
+</details>
+
+<details><summary>English</summary>
+
+10\. (It is) non-comprehensive.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **४२८. असार्वत्रिकी ॥ ३–४–१० ॥**
+</details>
 
-न सर्वविद्याविषयेयं श्रुतिः; अपि तूद्गीथविद्याविषयैव
-**यदेव विद्यया करोति** (छा.१.१.१०) इति यच्छब्दस्यानिर्धारितविशेषस्य **उद्गीथमुपासीत** (छा.१.१.१) इति प्रस्तुतोद्गीथविशेषनिष्ठत्वात्। न हि यत्करोति, तद्विद्ययेति सम्बध्यते; यदेव विद्यया करोति, तदेव वीर्यवत्तरमिति विद्यया क्रियमाणं यच्छब्देन निर्दिश्य तस्य हि वीर्यवत्तरत्वमुच्यते ॥१०॥
 
-## विद्याकर्मणोः साहित्यदर्शनस्य विद्यायां कर्माङ्गत्वगमकतानिरासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न सर्वविद्याविषयेयं श्रुतिः; 
+</details>
+
+<details><summary>English</summary>
+
+The scriptural declaration does not refer to all meditations, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न सर्वविद्याविषयेयं श्रुतिः; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि तूद्गीथ-विद्या-विषयैव
+
+> **यद् एव विद्यया करोति** (छा.१.१.१०) 
+
+इति यच्-छब्दस्यानिर्धारित-विशेषस्य 
+
+> **उद्गीथम् उपासीत** (छा.१.१.१) 
+
+इति प्रस्तुतोद्गीथ-विशेष-निष्ठत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+but only to the meditation on the Udgītha. In the clause 'what he does with knowledge,' the 'what' is in itself indefinite, and therefore must be defined as connecting itself with the Udgītha mentioned in the previous clause, 'Let him meditate on the Udgītha.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि तूद्गीथविद्याविषयैव
+**यदेव विद्यया करोति** (छा.१.१.१०) इति यच्छब्दस्यानिर्धारितविशेषस्य **उद्गीथमुपासीत** (छा.१.१.१) इति प्रस्तुतोद्गीथविशेषनिष्ठत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि "यत् करोति, तद् विद्ययेति" सम्बध्यते; +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The sentence cannot be construed to mean 'whatever he does is to be done with knowledge,' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि यत्करोति, तद्विद्ययेति सम्बध्यते; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यद् एव विद्यया करोति,  
+तद् एव वीर्यवत्तरम् 
+
+इति विद्यया क्रियमाणं यच्-छब्देन निर्दिश्य  
+तस्य हि वीर्यवत्तरत्वम् उच्यते ॥१०॥
+</details>
+
+<details><summary>English</summary>
+
+but means 'that which he does with knowledge becomes more vigorous,' and _that which is_ done with knowledge that is the Udgītha. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदेव विद्यया करोति, तदेव वीर्यवत्तरमिति विद्यया क्रियमाणं यच्छब्देन निर्दिश्य तस्य हि वीर्यवत्तरत्वमुच्यते ॥१०॥
+</details>
+
+
+## विद्या-कर्म-साहित्यम्
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यच् चेदम् उक्तं  
+
+> > **तं विद्याकर्मणी समन्वारभेते** (बृ.६.४.२) 
+> 
+> इति विद्या-कर्मणोस् साहित्य-दर्शनात्  
+विद्या कर्माङ्गम् – 
+
+इति; तत्राह-
+</details>
+
+<details><summary>English</summary>
+
+The next Sūtra refutes the argument set forth in Sūtra 5.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 यच्चेदमुक्तं **तं विद्याकर्मणी समन्वारभेते** (बृ.६.४.२) इति विद्याकर्मणोस्साहित्यदर्शनात् विद्या कर्माङ्गम् – इति; तत्राह-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**४२९. विभागश् शतवत् ॥ ३–४–११ ॥**
+</details>
+
+<details><summary>English</summary>
+
+11\. There is distribution, as in the case of the hundred.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **४२९. विभागश्शतवत् ॥ ३–४–११ ॥**
+</details>
 
-**तं विद्याकर्मणी समन्वारभेते** (बृ.६.४.२) इत्यत्रोक्तेन न्यायेन विद्याकर्मणोर्भिन्नफलत्वात् विद्या स्वस्मै फलाय समन्वारभते, कर्म च स्वस्मै फलायेति विभागो द्रष्टव्यः। **शतवत्** – यथा क्षेत्ररत्नविक्रयिणं शतद्वयमन्वेतीत्युक्ते क्षेत्रार्थं शतम्, रत्नार्थंशतमिति विभागःप्रतीयते; तथेहापि ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## विद्यावतः कर्मविधानमिति शङ्कायाः परिहारः
+> **तं विद्याकर्मणी समन्वारभेते** (बृ.६.४.२) 
+
+इत्य्-अत्रोक्तेन न्यायेन  
+विद्या-कर्मणोर् भिन्न-फलत्वात्  
+विद्या स्वस्मै फलाय समन्वारभते,  
+कर्म च स्वस्मै फलायेति विभागो द्रष्टव्यः। 
+</details>
+
+<details><summary>English</summary>
+
+As knowledge and work have different results, the text 'of him knowledge and work lay hold' must be understood in a distributive sense, i.e. as meaning that knowledge lays hold of him to the end of bringing about its own particular result, and that so likewise does work. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**तं विद्याकर्मणी समन्वारभेते** (बृ.६.४.२) इत्यत्रोक्तेन न्यायेन विद्याकर्मणोर्भिन्नफलत्वात् विद्या स्वस्मै फलाय समन्वारभते, कर्म च स्वस्मै फलायेति विभागो द्रष्टव्यः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**शतवत्** –  
+यथा "क्षेत्र-रत्न-विक्रयिणं शत-द्वयम् अन्वेती"त्य्  
+उक्ते क्षेत्रार्थं शतम्,  
+रत्नार्थं शतम् इति विभागः प्रतीयते;  
+तथेहापि ॥
+</details>
+
+<details><summary>English</summary>
+
+'As in the case of a hundred,' i.e. as it is understood that, when a man selling a field and a gem is said to receive two hundred gold pieces, one hundred are given for the field and one hundred for the gem.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**शतवत्** – यथा क्षेत्ररत्नविक्रयिणं शतद्वयमन्वेतीत्युक्ते क्षेत्रार्थं शतम्, रत्नार्थंशतमिति विभागःप्रतीयते; तथेहापि ॥
+</details>
+
+
+
+## अविद्यावतोऽपि कर्म-विधिः
+### अध्ययनमात्रवतः कर्म
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४३०. अध्ययनमात्रवतः ॥ ३–४–१२ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 12\. Of him who has merely read the Veda.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **४३०. अध्ययनमात्रवतः ॥ ३–४–१२ ॥**
+</details>
 
-यदुक्तं विद्यावतः कर्मविधानाद्विद्या कर्माङ्गम् – इति; नैतद्युक्तम्, **वेदमधीत्य** (छा.८.१५.१) इत्यध्ययनमात्रवतो विधानात् । न चाध्ययनविधिरेवार्थबोधे प्रवर्तयति, आधानवदध्ययनस्याक्षरराशिग्रहणमात्रे पर्यवसानात् । गृहीतस्य च स्वाध्यायस्य फलवत्कर्मावबोधित्वदर्शनात्तन्निर्णयफले तदर्थविचारे पुरुषः स्वयमेव प्रवर्तते; ततः कर्मार्थी कर्मज्ञाने प्रवर्तते, मोक्षार्थी च ब्रह्मज्ञान इति न विद्या कर्माङ्गम् । यद्यप्यध्ययनविधिरेवार्थावबोधे प्रवर्तयति; तथापि न विद्या कर्माङ्गम्, अर्थज्ञानादर्थान्तरत्वाद्विद्यायाः। यथा ज्योतिष्टोमादि-कर्मस्वरूपविज्ञानात् फलसाधनभूतं कर्मानुष्ठानमर्थान्तरम्; तथाऽर्थज्ञानरूपात् ब्रह्मस्वरूपविज्ञानात् अर्थान्तरमेव ध्यानोपासनादिशब्दवाच्या पुरुषार्थसाधनभूता विद्येति न तस्याः कर्मसम्बन्धगन्धो विद्यते ॥१२॥
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् उक्तं 
+
+> "विद्यावतः कर्मविधानाद्  
+विद्या कर्माङ्गम्" 
+
+\– इति; 
+</details>
+
+<details><summary>English</summary>
+
+In the argument that knowledge is only auxiliary to work because works are enjoined on him who possesses knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदुक्तं विद्यावतः कर्मविधानाद्विद्या कर्माङ्गम् – इति; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैतद्युक्तम्,  
+**वेदमधीत्य** (छा.८.१५.१) इत्य् अध्ययनमात्रवतो विधानात् । 
+</details>
+
+<details><summary>English</summary>
+
+Nor is there any force (in the above) -  
+
+For the text which refers to the man 'who has read the Veda' enjoins works on him who has merely _read_ the texts, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैतद्युक्तम्, **वेदमधीत्य** (छा.८.१५.१) इत्यध्ययनमात्रवतो विधानात् । 
+</details>
+
+### अध्ययन-विधि-परिधिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चाध्ययन-विधिर् एवार्थ-बोधे प्रवर्तयति,  
+आधानवद्+++(=??)+++ अध्ययनस्याक्षर-राशि-ग्रहण-मात्रे पर्यवसानात् । 
+</details>
+
+<details><summary>English</summary>
+
+and _reading_ there means nothing more than the apprehension of the aggregate of syllables called Veda, without any insight into their meaning. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चाध्ययनविधिरेवार्थबोधे प्रवर्तयति, आधानवदध्ययनस्याक्षरराशिग्रहणमात्रे पर्यवसानात् । 
+</details>
+
+### अर्थग्रहणं रागतः प्राप्तम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गृहीतस्य च स्वाध्यायस्य फलवत्-कर्मावबोधित्व-दर्शनात्  
+तन्-निर्णय-फले तद्-अर्थ-विचारे  
+पुरुषः स्वयम् एव प्रवर्तते; 
+</details>
+
+<details><summary>English</summary>
+
+A man who has thus mastered the words of the Veda  
+apprehends therefrom that  
+it makes statements as to works having certain results,  
+and then on his own account applies himself to the enquiry into the meaning of those declarations;  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गृहीतस्य च स्वाध्यायस्य फलवत्कर्मावबोधित्वदर्शनात्तन्निर्णयफले तदर्थविचारे पुरुषः स्वयमेव प्रवर्तते; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततः कर्मार्थी कर्मज्ञाने प्रवर्तते,  
+मोक्षार्थी च ब्रह्मज्ञाने 
+</details>
+
+<details><summary>English</summary>
+
+he who is desirous of work applies himself to the knowledge of works; he who is desirous of Release applies himself to the knowledge of Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततः कर्मार्थी कर्मज्ञाने प्रवर्तते, मोक्षार्थी च ब्रह्मज्ञान 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति न विद्या कर्माङ्गम् । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति न विद्या कर्माङ्गम् । 
+</details>
+
+### अर्थग्रहणविधौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् यप्य् अध्ययन-विधिर् एवार्थावबोधे प्रवर्तयति;  
+तथापि न विद्या कर्माङ्गम्,  
+अर्थज्ञानाद् अर्थान्तरत्वाद् विद्यायाः। 
+</details>
+
+<details><summary>English</summary>
+
+And even if the injunction of _reading_ were understood as prompting to the understanding of the text also, all the same, knowledge would not be a subsidiary to works.  
+For _knowledge_, in the sense of the Upanishads, is something different from mere cognition of sense. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद्यप्यध्ययनविधिरेवार्थावबोधे प्रवर्तयति; तथापि न विद्या कर्माङ्गम्, अर्थज्ञानादर्थान्तरत्वाद्विद्यायाः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा ज्योतिष्-टोमादि-कर्म-स्वरूप-विज्ञानात्  
+फल-साधन-भूतं कर्मानुष्ठानम् अर्थान्तरम्; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा ज्योतिष्टोमादि-कर्मस्वरूपविज्ञानात् फलसाधनभूतं कर्मानुष्ठानमर्थान्तरम्; 
+</details>
+
+
+
+तथाऽर्थज्ञानरूपात् ब्रह्मस्वरूपविज्ञानात् अर्थान्तरमेव ध्यानोपासनादिशब्दवाच्या पुरुषार्थसाधनभूता विद्येति न तस्याः कर्मसम्बन्धगन्धो विद्यते ॥१२॥
 
 **४३१. नाविशेषात् ॥ ३–४–१३ ॥**
 
