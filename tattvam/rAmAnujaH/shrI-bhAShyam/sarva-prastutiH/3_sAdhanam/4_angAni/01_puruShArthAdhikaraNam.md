@@ -2393,7 +2393,7 @@ This also contradicts the view of knowledge being subordinate to works.
 </details>
 
 
-## यतिषु ब्रह्मविद्या
+## ऊर्ध्वरेतस्सु ब्रह्मविद्या
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2550,14 +2550,207 @@ The text as to the lifelong obligatoriness of the Agnihotra is valid for those o
 </details>
 
 
-## जैमिनिमते सन्न्यासाश्रमः अवैधः
+### ऊर्ध्वरेत-आश्रम-सद्भावः
+
+#### अनुवादमात्रम् इति पक्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४३६. +++(ऊर्ध्व-रेतस्सु ब्रह्मविद्याश्रुतिः)+++ परामर्शं +++(मन्यते)+++ जैमिनिर् -  
+अचोदनाच् च, अपवदति हि ॥ ३–४–१८ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 18\. A reference (only) Jaimini (holds them to be), on account of absence of injunction; for (Scripture) forbids.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **४३६. परामर्शं जैमिनिरचोदनाच्चापवदति हि ॥ ३–४–१८ ॥**
+</details>
 
-यदिदं **त्रयो धर्मस्कन्धाः** (छा.२.२.३) इत्यादौ वैदिके शब्दे ऊर्ध्वरेतस आश्रमा दृश्यन्ते; अतस्ते सन्त्येवेति; नैतदुपपद्यते; यतः **त्रयो धर्मस्कन्धाः** (छा.२.२३.१) इत्यादिषु वाक्येषु तेषामाश्रमाणां परामर्शमात्रं क्रियते – अनुवादमात्रमित्यर्थः। कुत एतत्? अचोदनात् – अविधानादित्यर्थः। न ह्यत्र विधिशब्दः श्रूयते;
-**त्रयो धर्मस्कन्धाः** (छां.२.२३.१) इत्यादिना हि प्रकृतं प्रणवेन ब्रह्मोपासनं स्तूयते, **ब्रह्मसंस्थोऽमृतत्वमेति** (छां.२.२३.१) इत्युपसंहारात् । अतोऽन्यार्थमनुवादमात्रमत्र क्रियते तेषामाश्रमाणाम् **। ये चेमेऽरण्ये श्रद्धा तप इत्युपासते** (छा.५.१०.१) इति च देवयानविधिपरत्वात्तत्रापि नाश्रमान्तरविधिसम्भवः । अपि चापवदति हि श्रुतिराश्रमान्तरं **वीरहा वा एष देवानां योऽग्निमुद्वासयते** (यजु.१.कां.५.२) इत्यादिका । अत ऊर्ध्वरेतस आश्रमा न सन्तीति जैमिनिराचार्यो मन्यते ॥१८॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## गार्हस्थ्येतरस्याऽप्याश्रमस्य अनुष्ठेयत्वं बादरायणमते
+यद् इदं 
+
+> **त्रयो धर्मस्कन्धाः** (छा.२.२.३) इत्य्-आदौ  
+वैदिके शब्दे ऊर्ध्वरेतस आश्रमा दृश्यन्ते;  
+अतस् ते +++(ऊर्ध्वरेतस आश्रमाः)+++ सन्त्य् एव
+
+इति; 
+</details>
+
+<details><summary>English</summary>
+
+The argument for the three stages of life, founded on their mention in Vedic texts, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदिदं **त्रयो धर्मस्कन्धाः** (छा.२.२.३) इत्यादौ वैदिके शब्दे ऊर्ध्वरेतस आश्रमा दृश्यन्ते; अतस्ते सन्त्येवेति; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैतद् उपपद्यते;  
+यतः **त्रयो धर्मस्कन्धाः** (छा.२.२३.१) इत्य्-आदिषु वाक्येषु  
+तेषाम् आश्रमाणां परामर्श-मात्रं क्रियते –  
+अनुवाद-मात्रम् इत्य् अर्थः। 
+</details>
+
+<details><summary>English</summary>
+
+has no force, since all those references are only of the nature of anuvāda. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नैतदुपपद्यते; यतः **त्रयो धर्मस्कन्धाः** (छा.२.२३.१) इत्यादिषु वाक्येषु तेषामाश्रमाणां परामर्शमात्रं क्रियते – अनुवादमात्रमित्यर्थः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुत एतत्? अचोदनात् – अविधानादित्यर्थः। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुत एतत्? अचोदनात् – अविधानादित्यर्थः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अत्र विधिशब्दः श्रूयते;
+</details>
+<details><summary>English</summary>
+
+For none of those texts contain injunctive forms. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न ह्यत्र विधिशब्दः श्रूयते;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **त्रयो धर्मस्कन्धाः** (छां.२.२३.१) 
+
+इत्य्-आदिना हि  
+प्रकृतं प्रणवेन ब्रह्मोपासनं स्तूयते, 
+</details>
+
+<details><summary>English</summary>
+
+The text 'There are three branches of sacred observance,' &c. (Cḥ. Up. II, 23, 1), is meant to glorify the previous meditation on Brahman under the form of the pranava, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**त्रयो धर्मस्कन्धाः** (छां.२.२३.१) इत्यादिना हि प्रकृतं प्रणवेन ब्रह्मोपासनं स्तूयते, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**ब्रह्म-संस्थो ऽमृतत्वम् एति** (छां.२.२३.१)  
+इत्य् उपसंहारात् । 
+</details>
+
+<details><summary>English</summary>
+
+as appears from the concluding clause 'he who is firmly grounded in Brahman obtains immortality'; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**ब्रह्मसंस्थोऽमृतत्वमेति** (छां.२.२३.१) इत्युपसंहारात् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽन्यार्थम् अनुवाद-मात्रम् अत्र क्रियते  
+तेषाम् आश्रमाणाम्।  
+</details>
+<details><summary>English</summary>
+
+it therefore cannot mean to enjoin the three conditions of life as valid states. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतोऽन्यार्थमनुवादमात्रमत्र क्रियते तेषामाश्रमाणाम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **ये चेमेऽरण्ये श्रद्धा तप इत्य् उपासते** (छा.५.१०.१) 
+
+इति च देव-यान-विधि-परत्वात्  
+तत्रापि नाश्रमान्तर-विधि-सम्भवः । 
+</details>
+
+
+<details><summary>English</summary>
+
+In the same way the text 'And those who in the forest practise penance and faith' refers to the statements previously made as to the path of the gods, and cannot therefore be meant to make an original declaration as to another condition of life. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**ये चेमेऽरण्ये श्रद्धा तप इत्युपासते** (छा.५.१०.१) इति च देवयानविधिपरत्वात्तत्रापि नाश्रमान्तरविधिसम्भवः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि चापवदति हि श्रुतिर् आश्रमान्तरं  
+
+> **वीरहा वा एष देवानां  
+योऽग्निम् उद्वासयते**  
+(यजु.१.कां.५.२) 
+
+इत्य्-आदिका । 
+</details>
+
+<details><summary>English</summary>
+
+Scripture moreover expressly forbids that other condition, 'a murderer of men is he who removes the fire,' &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि चापवदति हि श्रुतिराश्रमान्तरं **वीरहा वा एष देवानां योऽग्निमुद्वासयते** (यजु.१.कां.५.२) इत्यादिका । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत ऊर्ध्वरेतस आश्रमा न सन्तीति जैमिनिराचार्यो मन्यते ॥१८॥
+</details>
+
+<details><summary>English</summary>
+
+There are therefore no conditions of life in which men are bound to observe chastity. This is the opinion of the teacher Jaimini.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत ऊर्ध्वरेतस आश्रमा न सन्तीति जैमिनिराचार्यो मन्यते ॥१८॥
+</details>
+
+
+#### अनुष्ठेयत्वं बादरायणमते
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **४३७. +++(गृहस्थेतराश्रम-गतम् अप्य्)+++ अनुष्ठेयं +++(इति)+++ बादरायणस् - +++(अनुष्ठेयत्वे तेषु)+++ साम्यश्रुतेः॥ ३–४–१९ ॥**
@@ -2593,7 +2786,7 @@ Bādarāyaṇa is of opinion that, in the same way as the condition of household
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुतः?  
-**साम्यश्रुतेः** –
+**साम्य-श्रुतेः** –
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2637,10 +2830,15 @@ with a view to glorifying him who is firmly grounded in Brahman.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ गृहस्थाश्रमस्यानुवादः  
+अथ 
+
+> गृहस्थाश्रमस्यानुवादः  
 प्राप्तौ सत्याम् एव संभवतीति  
-तस्य प्राप्तिर् अवश्याभ्युपेत्येति मतम्;  
-तद्-इतरेषाम् अपि समानम्, अन्यत्राभिनिवेशात्।
+तस्य प्राप्तिर् अवश्याभ्युपेया+++(~~त्य~~)+++
+
+इति मतम्;  
+तद्-इतरेषाम् अपि समानम्,  
+अन्यत्राभिनिवेशात्।
 </details>
 
 <details><summary>English</summary>
