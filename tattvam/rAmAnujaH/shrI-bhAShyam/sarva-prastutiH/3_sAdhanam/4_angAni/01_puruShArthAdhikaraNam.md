@@ -2856,18 +2856,324 @@ with regard to the other conditions mentioned.
 </details>
 
 
-## यज्ञादीनां गृहस्थमात्रत्वशङ्का-तत्परिहारौ
+##### त्रयो धर्म-स्कन्धाः
 
-न च गार्हास्थ्यधर्म एव **यज्ञोऽध्ययनं दानं तपो ब्रह्मचर्यम्** (छां.२.२३.१) इति सर्वैश्शब्दैरभिधीयते, ब्रह्मचर्यतपसोर्गृहस्थस्यैव सम्भवादिति युक्तम्, **त्रयो धर्मस्कन्धाः** (छा.२.२३.१) इति त्रित्वेन संगृह्य **प्रथमः**… **द्वितीयः**…. **तृतीयः**…. (छां.२.२३.११) इति विभागवचनानुपपत्तेः। अतः **यज्ञोऽध्ययनं दानम्** (छा.२.२३.१) इति गृहस्थाश्रम उच्यते। अध्ययनशब्दो वेदाभ्यासपरः। तपश्शब्देन वैखानसपारिव्राज्ययोर्ग्रहणम्, उभयोः तपः प्रधानत्वात्। तपश्शब्दो हि कायक्लेशे रूढः, स च द्वयोरपि समानः। ब्रह्मचारिधर्म एव ब्रह्मचर्यशब्देनाभिधीयते। **ब्रह्मसंस्थोऽमृतत्वमेति** (छा.२.२३.१) इति परत्र श्रूयमाणो ब्रह्मसंस्थशब्दो यौगिकः सर्वाश्रमसाधारणः, सर्वेषामाश्रमिणां ब्रह्मसंस्थासम्भवात्। ब्रह्मणि संस्था – संस्थितिः ब्रह्मसंस्थत्वम्; तच्च सर्वेषां सम्भवत्येव। ब्रह्मनिष्ठाविकलाः केवलाश्रमिणः पुण्यलोकभाजः; तेष्वेव ब्रह्मनिष्ठोऽमृतत्वभाग्भवति। तदेतद्विस्पष्टमुक्तं भगवता पराशरेण
-**प्राजापत्यं ब्राह्मणानाम्** (वि.पु.१.६.३४) इत्यारभ्य **ब्राह्मं संन्यासिनां स्मृतम्** (वि.पु.१.६.३७) इत्यन्तेन वर्णानामाश्रमाणां च केवलानां ब्रह्मलोकप्राप्त्यन्तं फलमभिधाय **एकान्तिनस्सदा ब्रह्मध्यायिनो योगिनो हि ये। तेषां तत्परमं स्थानं यद्वै पश्यन्ति सूरयः** (वि.पु.१.६.३९) इति तेष्वेव ब्रह्मनिष्ठानां ब्रह्मप्राप्तिमभिदधता। अतो गृहस्थाश्रमतुल्याः ऊर्ध्वरेतस आश्रमा अपि दृश्यन्त इति तेऽप्यनुष्ठेयाः। **ये चेमेऽरण्ये श्रद्धा तप इत्युपासते** (छा.५.१०.१) इति च अरण्ये इति तपः प्रधानाश्रमप्राप्त्यपेक्षत्वाद्देवयानविधानस्य तत्रापि तत्प्राप्तिरङ्गीकरणीया ॥ १९॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## उक्तश्रुतेः सर्वाश्रमविधिपरत्वम्
+न च 
+
+> गार्हास्थ्यधर्म एव  
+> 
+> > **यज्ञोऽध्ययनं दानं तपो ब्रह्मचर्यम्** (छां.२.२३.१) 
+> 
+> इति सर्वैश् शब्दैर् अभिधीयते,  
+ब्रह्मचर्य-तपसोर् गृहस्थस्यैव सम्भवाद् 
+
+इति युक्तम्, 
+</details>
+
+<details><summary>English</summary>
+
+Nor must it be said that the special duties mentioned at the beginning of the section--  
+sacrifice, study, charity, austerity, Brahmacarya--  
+all of them belong to the state of the householder  
+(in which case the text would contain no reference to the other conditions of life); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च गार्हास्थ्यधर्म एव **यज्ञोऽध्ययनं दानं तपो ब्रह्मचर्यम्** (छां.२.२३.१) इति सर्वैश्शब्दैरभिधीयते, ब्रह्मचर्यतपसोर्गृहस्थस्यैव सम्भवादिति युक्तम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **त्रयो धर्मस्कन्धाः** (छा.२.२३.१) 
+
+इति त्रित्वेन संगृह्य  
+
+> +++(यज्ञोऽध्ययनं दानम् इति)+++ **प्रथमः**   
++++(तप एव)+++ **द्वितीयः**… 
++++(ब्रह्मचार्याचार्यकुलवासी)+++**तृतीयः** …. (छां.२.२३.११) 
+
+इति विभाग-वचनानुपपत्तेः। 
+</details>
+
+<details><summary>English</summary>
+
+for on that supposition the definite reference to a threefold division of duties, 'Sacrifice, &c. are the first, austerity the second, Brahmacarya the third,' would be unmeaning. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**त्रयो धर्मस्कन्धाः** (छा.२.२३.१) इति त्रित्वेन संगृह्य **प्रथमः**… **द्वितीयः**…. **तृतीयः**…. (छां.२.२३.११) इति विभागवचनानुपपत्तेः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः **यज्ञोऽध्ययनं दानम्** (छा.२.२३.१) इति गृहस्थाश्रम उच्यते। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+The proper explanation is to take the words ' sacrifice, study, and charity' as descriptive of the condition of the householder; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतः **यज्ञोऽध्ययनं दानम्** (छा.२.२३.१) इति गृहस्थाश्रम उच्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अध्ययनशब्दो वेदाभ्यासपरः। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अध्ययनशब्दो वेदाभ्यासपरः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तपश्शब्देन वैखानस-पारिव्राज्ययोर् ग्रहणम्,  
+उभयोः तपः-प्रधानत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+the word 'austerity' as descriptive of the duties of the Vaikhānasa and the wandering mendicant, who both practise mortification; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तपश्शब्देन वैखानसपारिव्राज्ययोर्ग्रहणम्, उभयोः तपः प्रधानत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तपश्शब्दो हि कायक्लेशे रूढः, स च द्वयोरपि समानः। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तपश्शब्दो हि कायक्लेशे रूढः, स च द्वयोरपि समानः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-चारि-धर्म एव ब्रह्म-चर्य-शब्देनाभिधीयते। 
+</details>
+
+<details><summary>English</summary>
+
+and the word 'Brahmacarya' as referring to the duties of the Brahmacarin. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मचारिधर्म एव ब्रह्मचर्यशब्देनाभिधीयते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**ब्रह्म-संस्थोऽमृतत्वम् एति** (छा.२.२३.१) 
+
+इति परत्र श्रूयमाणो ब्रह्म-संस्थ-शब्दो यौगिकः सर्वाश्रम-साधारणः,  
+सर्वेषामाश्रमिणां ब्रह्म-संस्था-सम्भवात्। 
+</details>
+
+<details><summary>English</summary>
+
+The term 'Brahmasaṁstha' finally, in the concluding clause, refers to all the three conditions of life, as men belonging to all those conditions may be founded on Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**ब्रह्मसंस्थोऽमृतत्वमेति** (छा.२.२३.१) इति परत्र श्रूयमाणो ब्रह्मसंस्थशब्दो यौगिकः सर्वाश्रमसाधारणः, सर्वेषामाश्रमिणां ब्रह्मसंस्थासम्भवात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मणि संस्था – संस्थितिः ब्रह्म-संस्थत्वम्;  
+तच्च सर्वेषां सम्भवत्येव। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मणि संस्था – संस्थितिः ब्रह्मसंस्थत्वम्; तच्च सर्वेषां सम्भवत्येव। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-निष्ठा-विकलाः केवलाश्रमिणः पुण्य-लोक-भाजः;  
+तेष्व् एव ब्रह्म-निष्ठो ऽमृतत्व-भाग् भवति। 
+</details>
+
+<details><summary>English</summary>
+
+Those, the text means to say, who are destitute of this foundation on Brahman and only perform the special duties of their condition of life, obtain the worlds of the blessed;  
+while he only who at the same time founds himself on Brahman attains to immortality.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मनिष्ठाविकलाः केवलाश्रमिणः पुण्यलोकभाजः; तेष्वेव ब्रह्मनिष्ठोऽमृतत्वभाग्भवति। 
+</details>
+
+##### विष्णु-पुराणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एतद् विस्पष्टम् उक्तं भगवता पराशरेण  
+**प्राजापत्यं ब्राह्मणानाम्** (वि.पु.१.६.३४) इत्य् आरभ्य  
+**ब्राह्मं संन्यासिनां स्मृतम्** (वि.पु.१.६.३७) इत्य्-अन्तेन  
+वर्णानाम् आश्रमाणां च केवलानां ब्रह्म-लोक-प्राप्त्य्-अन्तं फलम् अभिधाय 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+तदेतद्विस्पष्टमुक्तं भगवता पराशरेण
+**प्राजापत्यं ब्राह्मणानाम्** (वि.पु.१.६.३४) इत्यारभ्य **ब्राह्मं संन्यासिनां स्मृतम्** (वि.पु.१.६.३७) इत्यन्तेन वर्णानामाश्रमाणां च केवलानां ब्रह्मलोकप्राप्त्यन्तं फलमभिधाय 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **एकान्तिनस् सदा ब्रह्म-  
+ध्यायिनो योगिनो हि ये।  
+तेषां तत् परमं स्थानं  
+यद्वै पश्यन्ति सूरयः**  
+(वि.पु.१.६.३९) 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+**एकान्तिनस्सदा ब्रह्मध्यायिनो योगिनो हि ये। तेषां तत्परमं स्थानं यद्वै पश्यन्ति सूरयः** (वि.पु.१.६.३९) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति तेष्वेव ब्रह्मनिष्ठानां ब्रह्मप्राप्तिम् अभिदधता। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति तेष्वेव ब्रह्मनिष्ठानां ब्रह्मप्राप्तिमभिदधता। 
+</details>
+
+##### निगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो गृहस्थाश्रमतुल्याः ऊर्ध्वरेतस आश्रमा अपि दृश्यन्त इति तेऽप्यनुष्ठेयाः। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो गृहस्थाश्रमतुल्याः ऊर्ध्वरेतस आश्रमा अपि दृश्यन्त इति तेऽप्यनुष्ठेयाः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **ये चेमेऽरण्ये श्रद्धा तप इत्युपासते** (छा.५.१०.१) 
+
+इति च  
+"अरण्ये" इति तपः-प्रधानाश्रम-प्राप्त्य्-अपेक्षत्वाद्  
+देवयान-विधानस्य तत्रापि तत्-प्राप्तिर् अङ्गीकरणीया ॥ १९॥
+</details>
+
+<details><summary>English</summary>
+
+--In the text 'and those who in the forest,' &c. the mention made of the forest shows that the statement as to the path of the gods has for its presupposition the fact that that stage of life which is especially connected with the forest is one generally recognised.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**ये चेमेऽरण्ये श्रद्धा तप इत्युपासते** (छा.५.१०.१) इति च अरण्ये इति तपः प्रधानाश्रमप्राप्त्यपेक्षत्वाद्देवयानविधानस्य तत्रापि तत्प्राप्तिरङ्गीकरणीया ॥ १९॥
+</details>
+
+
+#### आश्रम-विधिर् एव
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परामर्शपक्षे विधानपक्षे च  
+गृहस्थाश्रम-तुल्यम् एषाम् अप्यनुष्ठेयत्वम् इत्य् उपपाद्य  
+विधिर् एवायाम् आश्रमाणां सर्वेषां,  
+नानुवाद इत्युपपादयितुमाह –
+</details>
+
+<details><summary>English</summary>
+
+--So far it has been shown that the other stages of life are no less obligatory than that of the householder, whether we take the text under discussion as containing merely a reference to those stages (as established by independent means of proof) or as directly enjoining them. The next Sūtra is meant to show that the latter view is after all the right one.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 परामर्शपक्षे विधानपक्षे च गृहस्थाश्रमतुल्यमेषामप्यनुष्ठेयत्वमित्युपपाद्य विधिरेवायामाश्रमाणां सर्वेषां, नानुवाद इत्युपपादयितुमाह –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४३८. विधिर् वा धारणवत् ॥ ३–४–२० ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 20\. Or an injunction, as in the case of the carrying.
+</details>
+
+<details><summary>मूलम्</summary>
 
 **४३८. विधिर्वा धारणवत् ॥ ३–४–२० ॥**
+</details>
 
-वा शब्दोऽवधारणार्थः । विधिरेवायमाश्रमाणाम्; धारणवत् – यथा दिष्टाग्निहोत्रे, अधस्तात्समिधं धारयन्ननुद्रवेदुपरि हि देवेभ्यो धारयति इत्यत्रानुवादसरूपादपि वाक्यादुपरि धारणस्याप्राप्तत्वाद्विधिराश्रीयते; तदुक्तं शेषलक्षणे **विधिस्तु धारणोऽपूर्वत्वात्** (पू.मी.सू.३.४.१५) इति; तथाऽत्राप्यप्राप्तत्वाद्विधिरेवाश्रयणीयः ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वा-शब्दोऽवधारणार्थः । 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+वा शब्दोऽवधारणार्थः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विधिर् एवायम् आश्रमाणाम्; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विधिरेवायमाश्रमाणाम्; 
+</details>
+
+
+धारणवत् – यथा दिष्टाग्निहोत्रे, अधस्तात्समिधं धारयन्ननुद्रवेदुपरि हि देवेभ्यो धारयति इत्यत्रानुवादसरूपादपि वाक्यादुपरि धारणस्याप्राप्तत्वाद्विधिराश्रीयते; तदुक्तं शेषलक्षणे **विधिस्तु धारणोऽपूर्वत्वात्** (पू.मी.सू.३.४.१५) इति; तथाऽत्राप्यप्राप्तत्वाद्विधिरेवाश्रयणीयः ॥
 
 ## अस्यार्थस्य कृत्वाचिन्तया विवरणरूपत्वम्
 
