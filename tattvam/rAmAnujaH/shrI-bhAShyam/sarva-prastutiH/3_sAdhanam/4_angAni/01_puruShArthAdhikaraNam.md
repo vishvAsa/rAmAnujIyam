@@ -554,7 +554,7 @@ We thus adhere to the conclusion that meditations are constituents of sacrificia
 अतो विद्यायाः क्रतुशेषत्वान्नातः पुरुषार्थः॥२॥
 </details>
 
-### वेदान्त-शब्दा कर्तृ-स्वरूप-पराः 
+### कर्म-प्राधान्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -832,7 +832,7 @@ and the words 'whatever he does with knowledge' clearly refer to knowledge in ge
 </details>
 
 
-#### बृहदारण्यके
+#### विद्या-कर्म-साचर्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -887,11 +887,11 @@ and this going together is possible only if, in the manner stated, knowledge is 
 
 
 
-## कर्मविधिषु विद्यावतः अधिकारत्वोक्तिरपि उक्तार्थज्ञापिका
+#### विद्यावतः कर्म-विधिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**४२४. तद्वतो विधानात् ॥ ३–४–६ ॥**
+**४२४. +++(विद्या→)+++तद्वतो विधानात् ॥ ३–४–६ ॥**
 </details>
 
 <details><summary>English</summary>
@@ -899,30 +899,265 @@ and this going together is possible only if, in the manner stated, knowledge is 
 > 6\. On account of injunction for such a one.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 **४२४. तद्वतो विधानात् ॥ ३–४–६ ॥**
 </details>
 
 
-विद्यावतः कर्मविधानाद्विद्या कर्माङ्गमित्यवगम्यते –
-**आचार्यकुलाद्वेदमधीत्य यथाविधानं गुरोः कर्मातिशेषेणाभिसमावृत्य कुटुम्बे शुचौ देशे** (छा.८.१५.१) इत्यादौ । **वेदमधीत्य** (छा.८.१५.१) इत्यध्ययनवतः कर्माणि विदधदर्थावबोधपर्यन्ताध्ययनवत एव विदधाति । अर्थावबोधपर्यन्तं ह्यध्ययनमिति स्थापितम् । अतो ब्रह्मविद्यापि कर्मसु विनियुक्तेति न पृथक्फलायावकल्पते ॥६॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## समग्रस्यायुषः कर्मनैयत्यात् विद्याया अङ्गतैव
+विद्यावतः कर्म-विधानाद्  
+विद्या कर्माङ्गमित्यवगम्यते –
+</details>
+
+<details><summary>English</summary>
+
+That knowledge is subordinate to works follows therefrom also that works are enjoined on him only who possesses knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विद्यावतः कर्मविधानाद्विद्या कर्माङ्गमित्यवगम्यते –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **आचार्य-कुलाद् वेदम् अधीत्य  
+> यथाविधानं गुरोः कर्मातिशेषेणाभिसमावृत्य  
+> कुटुम्बे शुचौ देशे** (छा.८.१५.१) 
+
+इत्यादौ । 
+</details>
+
+<details><summary>English</summary>
+
+For texts such as 'He who has learnt the Veda from a family of teachers,' &c. (Cḥ. Up. VIII, 15), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**आचार्यकुलाद्वेदमधीत्य यथाविधानं गुरोः कर्मातिशेषेणाभिसमावृत्य कुटुम्बे शुचौ देशे** (छा.८.१५.१) इत्यादौ । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**वेदम् अधीत्य** (छा.८.१५.१)  
+इत्य् अध्ययनवतः कर्माणि विद-तद्-अर्थावबोध-पर्यन्ताध्ययनवत एव विदधाति । 
+</details>
+
+<details><summary>English</summary>
+
+enjoin works on him only who has mastered the sacred texts so as fully to understand their meaning-- 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**वेदमधीत्य** (छा.८.१५.१) इत्यध्ययनवतः कर्माणि विदतदर्थावबोधपर्यन्ताध्ययनवत एव विदधाति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्थावबोधपर्यन्तं ह्यध्ययनमिति स्थापितम् । 
+</details>
+
+<details><summary>English</summary>
+
+for this is the sense of the term 'learning' (adhyayana).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्थावबोधपर्यन्तं ह्यध्ययनमिति स्थापितम् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ब्रह्मविद्या ऽपि कर्मसु विनियुक्तेति  
+न पृथक्-फलायावकल्पते ॥६॥
+</details>
+
+<details><summary>English</summary>
+
+Hence the knowledge of Brahman also is enjoined with a view to works only:  
+it has no independent result of its own.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो ब्रह्मविद्यापि कर्मसु विनियुक्तेति न पृथक्फलायावकल्पते ॥६॥
+</details>
+
+
+#### यावज्जीवं कर्म
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**४२५. नियमात् +++(यावज्जीवं कर्म)+++ ॥ ३–४–७ ॥**
+</details>
+
+<details><summary>English</summary>
+
+7\. On account of definite rule.
+</details>
+
+<details><summary>मूलम्</summary>
 
 **४२५. नियमात् ॥ ३–४–७ ॥**
+</details>
 
-इतश्च न विद्यातः पुरुषार्थः। कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः (ईश.२) इत्यात्मविदः, पुरुषायुषस्य सर्वस्य कर्मसु नियमेन विनियोगात्कर्मण एव फलमित्यवगम्यते। विद्या तु कर्माङ्गमिति ॥७॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इतश्च न विद्यातः पुरुषार्थः - 
+</details>
+
+<details><summary>English</summary>
+
+Another argument for our conclusion is that 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इतश्च न विद्यातः पुरुषार्थः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः (ईश.२) 
+
+इत्यात्मविदः, 
+</details>
+
+<details><summary>English</summary>
+
+the text 'Doing works here let a man desire to live a hundred years,' &c. (Is. Up. II), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः (ईश.२) इत्यात्मविदः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषायुषस्य सर्वस्य  
+कर्मसु नियमेन विनियोगात्  
+कर्मण एव फलम्  
+इत्य् अवगम्यते। 
+</details>
+
+<details><summary>English</summary>
+
+expressly enjoins lifelong works on him who knows the Self. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुरुषायुषस्य सर्वस्य कर्मसु नियमेन विनियोगात्कर्मण एव फलमित्यवगम्यते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विद्या तु कर्माङ्गमिति ॥७॥
+</details>
+
+<details><summary>English</summary>
+
+The general conclusion, therefore, is that knowledge (meditation) is merely auxiliary to works. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विद्या तु कर्माङ्गमिति ॥७॥
+</details>
+
+
 
 ## सिद्धान्तारम्भः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एवं प्राप्ते प्रचक्ष्महे –
+</details>
 
-**४२६. अधिकोपदेशात्तु बादरायणस्यैवं तद्दर्शनात् ॥ ३–४–८ ॥**
+<details><summary>English</summary>
 
-तुशब्दात्पक्षो व्यावृत्तः; विद्यात एव पुरुषार्थः; कुतः?
-अधिकोपदेशात् – कर्मसु कर्तुर्जीवात् हेयप्रत्यनीकानवधिकातिशयासंख्येयकल्याणगुणाकरत्वेनाधिकस्य अर्थान्तरभूतस्य परस्य ब्रह्मणो वेद्यतयोपदेशात् भगवतो बादरायणस्य विद्यातः फलं इत्येवमेव मतम् । लिङ्गानि तिष्ठन्तु; वेद्यतयोपदेशस्तु तावत्कर्तुः प्रत्यगात्मनोऽधिकस्यैव। कथम्? तद्दर्शनात् – प्रत्यगात्मन्यशुद्धे शुद्धेऽप्यसम्भावनीयानन्तगुणाकरस्य वेद्यस्य निरस्तनिखिलहेयगन्धस्य स्वसङ्कल्पकृत-जगदुदयविभवलयलीलस्य सर्वज्ञस्य सर्वशक्तेर्वाङ्मनसा अपरिच्छेद्यानन्दस्य जीवाधिपस्य कृत्स्नस्य प्रशासितुः परस्य ब्रह्मणो वेदनोपदेशवाक्येषु दर्शनात् – **अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामस्सत्यसङ्कल्पः** (छा.८.१.५) **तदैक्षत बहु स्यां प्रजायेयेति तत्तेजोऽसृजत** (छा.६.२.३) **यस्सर्वज्ञस्सर्ववित्** (मुण्ड.१.१.९)
+Of this view the next Sūtra finally disposes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं प्राप्ते प्रचक्ष्महे –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४२६. अधिकोपदेशात् तु बादरायणस्यैवं +++(सिद्धान्तः)+++ - तद्-दर्शनात् ॥ ३–४–८ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 8\. But on account of the teaching of the different one, Badarāyaṇa's (view is valid); as this is seen.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> **४२६. अधिकोपदेशात्तु बादरायणस्यैवं तद्दर्शनात् ॥ ३–४–८ ॥**
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तुशब्दात् पक्षो व्यावृत्तः; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तुशब्दात्पक्षो व्यावृत्तः; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विद्यात एव पुरुषार्थः; 
+</details>
+
+<details><summary>English</summary>
+
+Knowledge by itself benefits man; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विद्यात एव पुरुषार्थः;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः? अधिकोपदेशात् –  
+कर्मसु कर्तुर् जीवात् हेयप्रत्यनीकानवधिकातिशयासंख्येयकल्याणगुणाकरत्वेनाधिकस्य अर्थान्तरभूतस्य परस्य ब्रह्मणो वेद्यतयोपदेशात् भगवतो बादरायणस्य विद्यातः फलं इत्येवमेव मतम् । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुतः? अधिकोपदेशात् –  
+कर्मसु कर्तुर्जीवात् हेयप्रत्यनीकानवधिकातिशयासंख्येयकल्याणगुणाकरत्वेनाधिकस्य अर्थान्तरभूतस्य परस्य ब्रह्मणो वेद्यतयोपदेशात् भगवतो बादरायणस्य विद्यातः फलं इत्येवमेव मतम् । 
+</details>
+
+
+लिङ्गानि तिष्ठन्तु; वेद्यतयोपदेशस्तु तावत्कर्तुः प्रत्यगात्मनोऽधिकस्यैव। कथम्? तद्दर्शनात् – प्रत्यगात्मन्यशुद्धे शुद्धेऽप्यसम्भावनीयानन्तगुणाकरस्य वेद्यस्य निरस्तनिखिलहेयगन्धस्य स्वसङ्कल्पकृत-जगदुदयविभवलयलीलस्य सर्वज्ञस्य सर्वशक्तेर्वाङ्मनसा अपरिच्छेद्यानन्दस्य जीवाधिपस्य कृत्स्नस्य प्रशासितुः परस्य ब्रह्मणो वेदनोपदेशवाक्येषु दर्शनात् – **अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामस्सत्यसङ्कल्पः** (छा.८.१.५) **तदैक्षत बहु स्यां प्रजायेयेति तत्तेजोऽसृजत** (छा.६.२.३) **यस्सर्वज्ञस्सर्ववित्** (मुण्ड.१.१.९)
 **पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च** (श्वे.६.८) **स एको ब्रह्मण आनन्दः** (तै.आन.८.४) **यतो वाचो निवर्तन्ते अप्राप्य मनसा सह आनन्दं ब्रह्मणो विद्वान् न बिभेति कुतश्चनेति** (तै.आन.४.१) **एष सर्वेश्वर एष भूताधिपतिरेष भूतपाल एष सेतुर्विधरणः** (बृ.६.४.२२) **स कारणं करणाधिपाधिपो, नचास्य कश्चिज्जनिता नचाधिपः** (श्वे.६-९)
 **एतस्य वा अक्षरस्य प्रशासने गार्गि सूर्याचन्द्रमसौ विधृतौ तिष्ठतः** (बृ.५.७.९) **भीषास्माद्वातः पवते । भीषोदेति सूर्यः। भीषास्मादग्निश्चेन्द्रश्च। मृत्युर्धावति पञ्चमः** (तै.आ.८.१) इत्यादिषु। तस्माद्वेदनोपदेशशब्देषु कर्तुः प्रत्यगात्मनः खद्योतकल्पस्य अविद्यादिदेहसम्बन्धयोग्यस्य गन्धोऽपि नास्तीति परमपुरुषविषयाया विद्यायास्तत्प्राप्तिरूपममृतत्वं तत्र तत्र श्रूयमाणं फलमिति विद्यातः पुरुषार्थ इति सुष्ठूक्तम् ॥८॥
 
