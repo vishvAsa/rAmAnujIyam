@@ -3007,7 +3007,7 @@ The term 'Brahmasaṁstha' finally, in the concluding clause, refers to all the 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मणि संस्था – संस्थितिः ब्रह्म-संस्थत्वम्;  
-तच्च सर्वेषां सम्भवत्येव। 
+तच् च सर्वेषां सम्भवत्येव। 
 </details>
 
 
@@ -3137,7 +3137,7 @@ while he only who at the same time founds himself on Brahman attains to immortal
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> **४३८. विधिर् वा धारणवत् ॥ ३–४–२० ॥**
+> **४३८. विधिर् वा +++(अनुवादप्राय-वाक्य-विहित-समिद्-)+++धारणवत् ॥ ३–४–२० ॥**
 </details>
 
 <details><summary>English</summary>
@@ -3173,19 +3173,180 @@ while he only who at the same time founds himself on Brahman attains to immortal
 </details>
 
 
-धारणवत् – यथा दिष्टाग्निहोत्रे, अधस्तात्समिधं धारयन्ननुद्रवेदुपरि हि देवेभ्यो धारयति इत्यत्रानुवादसरूपादपि वाक्यादुपरि धारणस्याप्राप्तत्वाद्विधिराश्रीयते; तदुक्तं शेषलक्षणे **विधिस्तु धारणोऽपूर्वत्वात्** (पू.मी.सू.३.४.१५) इति; तथाऽत्राप्यप्राप्तत्वाद्विधिरेवाश्रयणीयः ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## अस्यार्थस्य कृत्वाचिन्तया विवरणरूपत्वम्
+धारणवत् – यथा दिष्टाग्निहोत्रे,  
 
-**ब्रह्मचर्यं समाप्य गृही भवेत् गृहाद्वनी भूत्वा प्रव्रजेत् यदि वेतरथा ब्रह्मचर्यादेव प्रव्रजेत् गृहाद्वा वनाद्वा यदहरेव विरजेत् तदहरेव प्रव्रजेत्** (जाबा.उ.४) इति जाबालानामाश्रमविधिमसन्तमिव कृत्वा, एतेष्वन्यपरेष्वपि वाक्येष्वाश्रमप्राप्तिरवश्याश्रयणीया इत्युपपादितम् ।
+> अधस्तात् समिधं धारयन्न् अनुद्रवेद्  
+उपरि हि देवेभ्यो धारयति  
 
-## विविधश्रुतीनां तात्पर्यसमीकरणम्
+इत्य्-अत्रानुवाद-+++(~~स~~)+++स्वरूपाद् अपि वाक्याद्  
+उपरि धारणस्याप्राप्तत्वाद्  
+विधिर् आश्रीयते; 
+</details>
 
-एवमाश्रमान्तरविधानात् ऋणश्रुतिर्यावज्जीवश्रुतिरपवादश्रुतिश्चाविरक्तविषया एवेति वेदितव्याः। अन्याश्च ब्रह्मविदः कर्मणामाप्रयाणात् अवश्यकर्तव्यताविधायिन्यः श्रुतयः स्मृतयश्च स्वस्वाश्रमधर्मविषयाः ।
+<details><summary>English</summary>
 
-अत ऊर्ध्वरेतस्सु च ब्रह्मविद्याविधानाद्विद्यातः पुरुषार्थ इति
-सिद्धम् ॥२०॥
+As the second part of the text  
+
+> 'Let him approach carrying the firewood below the ladle;  
+for above he carries it for the gods'  
+(which refers to a certain form of the Agnihotra), 
+
+although having the form of an anuvāda,  
+yet must be interpreted as an injunction,  
+since the carrying of firewood above is not established by any other injunction;  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+धारणवत् – यथा दिष्टाग्निहोत्रे, अधस्तात्समिधं धारयन्ननुद्रवेदुपरि हि देवेभ्यो धारयति इत्यत्रानुवादसरूपादपि वाक्यादुपरि धारणस्याप्राप्तत्वाद्विधिराश्रीयते; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदुक्तं शेषलक्षणे **विधिस्तु धारणोऽपूर्वत्वात्** (पू.मी.सू.३.४.१५) इति; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदुक्तं शेषलक्षणे **विधिस्तु धारणोऽपूर्वत्वात्** (पू.मी.सू.३.४.१५) इति; 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथाऽत्राप्य् अप्राप्तत्वाद्  
+विधिर् एवाश्रयणीयः ॥
+</details>
+
+<details><summary>English</summary>
+
+so the text under discussion also must be taken as an injunction of the different stages of life (which are not formally enjoined elsewhere). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथाऽत्राप्यप्राप्तत्वाद्विधिरेवाश्रयणीयः ॥
+</details>
+
+
+#### जाबाल-विधिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **ब्रह्मचर्यं समाप्य  
+गृही भवेत्  
+गृहाद् वनी भूत्वा प्रव्रजेत्  
+यदि वेतरथा ब्रह्मचर्याद् एव प्रव्रजेत्  
+गृहाद् वा, वनाद् वा,  
+यदहरेव विरजेत् तद्-अहरेव प्रव्रजेत्** (जाबा.उ.४) 
+</details>
+
+<details><summary>English</summary>
+
+'Having completed his studentship he is to become a householder,' &c., 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**ब्रह्मचर्यं समाप्य गृही भवेत् गृहाद्वनी भूत्वा प्रव्रजेत् यदि वेतरथा ब्रह्मचर्यादेव प्रव्रजेत् गृहाद्वा वनाद्वा यदहरेव विरजेत् तदहरेव प्रव्रजेत्** (जाबा.उ.४) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति जाबालानाम् आश्रम-विधिम् असन्तम् इव कृत्वा,  
+एतेष्व् अन्य-परेष्व् अपि वाक्येष्व्  
+आश्रम-प्राप्तिर् अवश्याश्रयणीया  
+इत्य् उपपादितम् ।
+</details>
+
+<details><summary>English</summary>
+
+No account being taken of the text of the Jābālas,  
+it is thus a settled conclusion that the texts discussed,  
+although primarily concerned with other topics,  
+must at the same time be viewed as proving the validity of the several conditions of life.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति जाबालानामाश्रमविधिमसन्तमिव कृत्वा, एतेष्वन्यपरेष्वपि वाक्येष्वाश्रमप्राप्तिरवश्याश्रयणीया इत्युपपादितम् ।
+</details>
+
+
+
+### निगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् आश्रमान्तर-विधानात्  
+ऋण-श्रुतिर् यावज्-जीव-श्रुतिर् अपवाद-श्रुतिश्+++(=??-)+++ चाविरक्त-विषया एवेति वेदितव्याः। 
+</details>
+
+<details><summary>English</summary>
+
+From this it follows that the text enjoining the performance of the Agnihotra up to the end of life, and similar texts, are not universally binding, but concern those only who do not retire from worldly life.--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवमाश्रमान्तरविधानात् ऋणश्रुतिर्यावज्जीवश्रुतिरपवादश्रुतिश्चाविरक्तविषया एवेति वेदितव्याः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्याश् च ब्रह्म-विदः  
+कर्मणाम् आप्रयाणात् अवश्य-कर्तव्यता-विधायिन्यः श्रुतयः स्मृतयश् च  
+स्व-स्वाश्रम-धर्म-विषयाः ।
+</details>
+
+<details><summary>English</summary>
+
+The final conclusion therefore is that as the knowledge of Brahman is enjoined on those who lead a life of austerity (which does not require the performance of sacrifices and the like), it is not subordinate to works, but is in itself beneficial to man.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्याश्च ब्रह्मविदः कर्मणामाप्रयाणात् अवश्यकर्तव्यताविधायिन्यः श्रुतयः स्मृतयश्च स्वस्वाश्रमधर्मविषयाः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत ऊर्ध्वरेतस्सु च ब्रह्म-विद्या-विधानाद्  
+विद्यातः पुरुषार्थ इति सिद्धम् ॥२०॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत ऊर्ध्वरेतस्सु च ब्रह्मविद्याविधानाद्विद्यातः पुरुषार्थ इति सिद्धम् ॥२०॥
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **इति श्रीशारीरकमीमांसाभाष्ये पुरुषार्थाधिकरणम् ॥ १॥**
+</details>
+
+<details><summary>English</summary>
+
+--Here terminates the adhikaraṇa of 'benefit to man.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**इति श्रीशारीरकमीमांसाभाष्ये पुरुषार्थाधिकरणम् ॥ १॥**
+</details>
 
 
