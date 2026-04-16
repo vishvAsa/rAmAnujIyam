@@ -1083,7 +1083,7 @@ The general conclusion, therefore, is that knowledge (meditation) is merely auxi
 
 
 
-## सिद्धान्तारम्भः
+## ब्रह्मोपदेशो विद्यासु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1103,7 +1103,7 @@ Of this view the next Sūtra finally disposes.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> **४२६. अधिकोपदेशात् तु बादरायणस्यैवं +++(सिद्धान्तः)+++ - तद्-दर्शनात् ॥ ३–४–८ ॥**
+> **४२६. +++(ब्रह्म→)+++अधिकोपदेशात् तु बादरायणस्यैवं +++(सिद्धान्तः)+++ - +++(ब्रह्म-गुणादि→)+++तद्-दर्शनात् ॥ ३–४–८ ॥**
 </details>
 
 <details><summary>English</summary>
@@ -1147,8 +1147,19 @@ Knowledge by itself benefits man;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुतः? अधिकोपदेशात् –  
-कर्मसु कर्तुर् जीवात् हेयप्रत्यनीकानवधिकातिशयासंख्येयकल्याणगुणाकरत्वेनाधिकस्य अर्थान्तरभूतस्य परस्य ब्रह्मणो वेद्यतयोपदेशात् भगवतो बादरायणस्य विद्यातः फलं इत्येवमेव मतम् । 
+कर्मसु कर्तुर् जीवात् हेय-प्रत्यनीकानवधिकातिशयासंख्येय- कल्याण-गुणाकरत्वेनाधिकस्य  
+अर्थान्तरभूतस्य परस्य ब्रह्मणो वेद्यतयोपदेशात्  
+भगवतो बादरायणस्य  
+"विद्यातः फलं" इत्येवमेव मतम् । 
 </details>
+
+<details><summary>English</summary>
+
+Knowledge by itself benefits man; since Scripture teaches that the object of knowledge is the highest Brahman which, as it is of an absolutely faultless and perfect nature, is other than the active individual soul.
+
+Badarāyaṇa, therefore, holds that knowledge has an independent fruit of its own. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1157,17 +1168,300 @@ Knowledge by itself benefits man;
 </details>
 
 
-लिङ्गानि तिष्ठन्तु; वेद्यतयोपदेशस्तु तावत्कर्तुः प्रत्यगात्मनोऽधिकस्यैव। कथम्? तद्दर्शनात् – प्रत्यगात्मन्यशुद्धे शुद्धेऽप्यसम्भावनीयानन्तगुणाकरस्य वेद्यस्य निरस्तनिखिलहेयगन्धस्य स्वसङ्कल्पकृत-जगदुदयविभवलयलीलस्य सर्वज्ञस्य सर्वशक्तेर्वाङ्मनसा अपरिच्छेद्यानन्दस्य जीवाधिपस्य कृत्स्नस्य प्रशासितुः परस्य ब्रह्मणो वेदनोपदेशवाक्येषु दर्शनात् – **अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामस्सत्यसङ्कल्पः** (छा.८.१.५) **तदैक्षत बहु स्यां प्रजायेयेति तत्तेजोऽसृजत** (छा.६.२.३) **यस्सर्वज्ञस्सर्ववित्** (मुण्ड.१.१.९)
-**पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च** (श्वे.६.८) **स एको ब्रह्मण आनन्दः** (तै.आन.८.४) **यतो वाचो निवर्तन्ते अप्राप्य मनसा सह आनन्दं ब्रह्मणो विद्वान् न बिभेति कुतश्चनेति** (तै.आन.४.१) **एष सर्वेश्वर एष भूताधिपतिरेष भूतपाल एष सेतुर्विधरणः** (बृ.६.४.२२) **स कारणं करणाधिपाधिपो, नचास्य कश्चिज्जनिता नचाधिपः** (श्वे.६-९)
-**एतस्य वा अक्षरस्य प्रशासने गार्गि सूर्याचन्द्रमसौ विधृतौ तिष्ठतः** (बृ.५.७.९) **भीषास्माद्वातः पवते । भीषोदेति सूर्यः। भीषास्मादग्निश्चेन्द्रश्च। मृत्युर्धावति पञ्चमः** (तै.आ.८.१) इत्यादिषु। तस्माद्वेदनोपदेशशब्देषु कर्तुः प्रत्यगात्मनः खद्योतकल्पस्य अविद्यादिदेहसम्बन्धयोग्यस्य गन्धोऽपि नास्तीति परमपुरुषविषयाया विद्यायास्तत्प्राप्तिरूपममृतत्वं तत्र तत्र श्रूयमाणं फलमिति विद्यातः पुरुषार्थ इति सुष्ठूक्तम् ॥८॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## आचारदर्शनादीनां लिङ्गानां निरासः
+लिङ्गानि तिष्ठन्तु;  
+वेद्यतयोपदेशस् तु तावत् कर्तुः प्रत्यग्-आत्मनो ऽधिकस्यैव। 
+</details>
+<details><summary>English</summary>
+
+Let the inferential marks (referred to by the Pūrvapakshin) be; the direct teaching of the texts certainly refers to a being different from the Self that acts; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+लिङ्गानि तिष्ठन्तु; वेद्यतयोपदेशस्तु तावत्कर्तुः प्रत्यगात्मनोऽधिकस्यैव। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कथम्? तद्दर्शनात् – 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कथम्? तद्दर्शनात् – 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यग्-आत्मन्य् अ-शुद्धे  
+शुद्धे ऽप्य् अ-सम्भावनीयानन्त-गुणाकरस्य वेद्यस्य  
+निरस्त-निखिल-हेय-गन्धस्य  
+स्व-सङ्कल्प-कृत-जगद्-उदय-विभव-लय-लीलस्य सर्व-ज्ञस्य सर्व-शक्तेर्  
+वाङ्-मनसा अपरिच्छेद्यानन्दस्य  
+जीवाधिपस्य  
+कृत्स्नस्य प्रशासितुः  
+परस्य ब्रह्मणो वेदनोपदेशवाक्येषु दर्शनात् – 
+</details>
+
+<details><summary>English</summary>
+
+for we clearly see that their object is the highest creative Brahman with all its perfections and exalted qualities, which cannot possibly be attributed to the individual Self whether in the state of Release or of bondage: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रत्यगात्मन्यशुद्धे शुद्धेऽप्यसम्भावनीयानन्तगुणाकरस्य वेद्यस्य निरस्तनिखिलहेयगन्धस्य स्वसङ्कल्पकृत-जगदुदयविभवलयलीलस्य सर्वज्ञस्य सर्वशक्तेर्वाङ्मनसा अपरिच्छेद्यानन्दस्य जीवाधिपस्य कृत्स्नस्य प्रशासितुः परस्य ब्रह्मणो वेदनोपदेशवाक्येषु दर्शनात् – 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **अपहतपाप्मा विजरो विमृत्युर् विशोको  
+विजिघत्सो ऽपिपासस् सत्य-कामस् सत्य-सङ्कल्पः** (छा.८.१.५) 
+</details>
+
+<details><summary>English</summary>
+
+'Free from evil, free from old age,' &c. &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामस्सत्यसङ्कल्पः** (छा.८.१.५) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **तदैक्षत बहु स्यां प्रजायेयेति तत्तेजोऽसृजत** (छा.६.२.३) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**तदैक्षत बहु स्यां प्रजायेयेति तत्तेजोऽसृजत** (छा.६.२.३) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **यस्सर्वज्ञस्सर्ववित्** (मुण्ड.१.१.९)
+</details>
+
+<details><summary>मूलम्</summary>
+
+**यस्सर्वज्ञस्सर्ववित्** (मुण्ड.१.१.९)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **पराऽस्य शक्तिर् विविधैव श्रूयते  
+स्वाभाविकी ज्ञानबलक्रिया च** (श्वे.६.८) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च** (श्वे.६.८) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **स एको ब्रह्मण आनन्दः** (तै.आन.८.४) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**स एको ब्रह्मण आनन्दः** (तै.आन.८.४) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **यतो वाचो निवर्तन्ते  
+अप्राप्य मनसा सह  
+आनन्दं ब्रह्मणो विद्वान्  
+न बिभेति कुतश्चन** (तै.आन.४.१) 
+
+इति
+</details>
+
+<details><summary>मूलम्</summary>
+
+**यतो वाचो निवर्तन्ते अप्राप्य मनसा सह आनन्दं ब्रह्मणो विद्वान् न बिभेति कुतश्चनेति** (तै.आन.४.१) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **एष सर्वेश्वर  
+एष भूताधिपतिर्  
+एष भूतपाल  
+एष सेतुर् विधरणः**  
+(बृ.६.४.२२) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**एष सर्वेश्वर एष भूताधिपतिरेष भूतपाल एष सेतुर्विधरणः** (बृ.६.४.२२) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **स कारणं करणाधिपाधिपो,  
+न चास्य कश्चिज् जनिता न चाधिपः** (श्वे.६-९)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**स कारणं करणाधिपाधिपो, नचास्य कश्चिज्जनिता नचाधिपः** (श्वे.६-९)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **एतस्य वा अक्षरस्य प्रशासने गार्गि  
+सूर्या-चन्द्रमसौ विधृतौ तिष्ठतः** (बृ.५.७.९) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**एतस्य वा अक्षरस्य प्रशासने गार्गि सूर्याचन्द्रमसौ विधृतौ तिष्ठतः** (बृ.५.७.९) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **भीषास्माद् वातः पवते ।  
+भीषोदेति सूर्यः।  
+भीषास्माद् अग्निश् चेन्द्रश्च।  
+मृत्युर् धावति पञ्चमः**  
+(तै.आ.८.१) 
+
+इत्यादिषु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**भीषास्माद्वातः पवते । भीषोदेति सूर्यः। भीषास्मादग्निश्चेन्द्रश्च। मृत्युर्धावति पञ्चमः** (तै.आ.८.१) इत्यादिषु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् वेदनोपदेश-शब्देषु  
+कर्तुः प्रत्यग्-आत्मनः खद्योत-कल्पस्य  
+अविद्यादि-देह-सम्बन्ध-योग्यस्य  
+गन्धोऽपि नास्तीति 
+</details>
+
+<details><summary>English</summary>
+
+In all those texts there is not the slightest trace of any reference to the wretched individual soul, as insignificant and weak as a tiny glow-worm, implicated in Nescience and all the other evils of finite existence. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्माद्वेदनोपदेशशब्देषु कर्तुः प्रत्यगात्मनः खद्योतकल्पस्य अविद्यादिदेहसम्बन्धयोग्यस्य गन्धोऽपि नास्तीति 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम-पुरुष-विषयाया विद्यायास्  
+तत्-प्राप्ति-रूपम् अ-मृतत्वं  
+तत्र तत्र श्रूयमाणं फलम्  
+इति विद्यातः पुरुषार्थ इति सुष्ठूक्तम् ॥८॥
+</details>
+
+<details><summary>English</summary>
+
+And the fruit of that knowledge of the highest Person the texts expressly declare, in many places, to be immortality--which consists in attaining to Him. The view of knowledge by itself benefitting man therefore is well founded.--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमपुरुषविषयाया विद्यायास्तत्प्राप्तिरूपममृतत्वं तत्र तत्र श्रूयमाणं फलमिति विद्यातः पुरुषार्थ इति सुष्ठूक्तम् ॥८॥
+</details>
+
+
+## पूर्वपक्षोक्त-लिङ्गानि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लिङ्गान्यपि निरस्यन्ते –
+</details>
+
+<details><summary>English</summary>
+
+The Sūtras proceed to dispose of the so-called inferential marks.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लिङ्गान्यपि निरस्यन्ते –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **४२७. तुल्यं तु दर्शनम् ॥ ३–४–९ ॥**
+</details>
+
+<details><summary>English</summary>
+
+9\. But the declarations are equal.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **४२७. तुल्यं तु दर्शनम् ॥ ३–४–९ ॥**
+</details>
 
-यदुक्तं – ब्रह्मविदां कर्मानुष्ठानदर्शनाद्विद्या कर्माङ्गम् – इति; तन्न विद्याया अनङ्गत्वेऽपि तुल्यं दर्शनम्, ब्रह्मविदां कर्मानुष्ठानदर्शनमनैकान्तिकमित्यर्थः, अननुष्ठानस्यापि दर्शनात् । दृश्यते हि ब्रह्मविदां कर्मत्यागः ऋषयः कावषेयाः किमर्था वयमध्येष्यामहे किमर्था वयं यक्ष्यामहे इत्यादौ। अतो ब्रह्मविदां कर्मत्यागदर्शनान्न विद्या कर्माङ्गम् ।
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् उक्तं –  
+
+> ब्रह्म-विदां कर्मानुष्ठान-दर्शनाद्  
+विद्या कर्माङ्गम् – 
+
+इति; 
+</details>
+
+<details><summary>English</summary>
+
+The argument that knowledge must be held subordinate to work because we learn from Scripture that those who know Brahman perform sacrificial works, will not hold good; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदुक्तं – ब्रह्मविदां कर्मानुष्ठानदर्शनाद्विद्या कर्माङ्गम् – इति; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन् न - विद्याया अनङ्गत्वेऽपि तुल्यं दर्शनम्, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन्न विद्याया अनङ्गत्वेऽपि तुल्यं दर्शनम्, 
+</details>
+
+
+ब्रह्मविदां कर्मानुष्ठानदर्शनमनैकान्तिकमित्यर्थः, अननुष्ठानस्यापि दर्शनात् । दृश्यते हि ब्रह्मविदां कर्मत्यागः ऋषयः कावषेयाः किमर्था वयमध्येष्यामहे किमर्था वयं यक्ष्यामहे इत्यादौ। अतो ब्रह्मविदां कर्मत्यागदर्शनान्न विद्या कर्माङ्गम् ।
 
 ## ब्रह्मविदां कर्मानुष्ठानाननुष्ठानयोः विरोधाभासपरिहारः
 
