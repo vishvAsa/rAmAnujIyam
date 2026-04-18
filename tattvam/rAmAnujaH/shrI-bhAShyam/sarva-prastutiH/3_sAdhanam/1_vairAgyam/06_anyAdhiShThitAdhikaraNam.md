@@ -369,7 +369,7 @@ And such injury is evil as it is forbidden by texts such as 'let him not harm an
 हिंसा च न हिंस्यात्सर्वा भूतानि इति निषिद्धत्वात्पापमेव।
 </details>
 
-###### उत्सर्गापवाद-न्यायो न
+##### उत्सर्गापवाद-न्यायो न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चात्र पदाहवनीयादिवद् उत्सर्गापवाद-भावस् सम्भवति,  
@@ -419,7 +419,7 @@ while the injunction not to 'harm' teaches that such harming has disastrous cons
 </details>
 
 
-###### विधि-प्राप्तेऽपि
+##### विधि-प्राप्तेऽपि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोच्येत – 
@@ -486,30 +486,392 @@ Injunctions such as 'He who desires the heavenly world is to sacrifice', teach t
 </details>
 
 
-अग्नीषोमीयादिष्वपि तेषां फलसाधनभूतस्य यागादेरुपकारकत्वं शास्त्रादवगम्य रागादेव प्रवर्तते । लौकिक्यामपि हिंसायां केनचित्प्रमाणेन हिंसायाः स्वसमीहितसाधनत्वमवगम्य रागात्प्रवर्तत इति न कश्चन विशेषः । तथा **नित्येष्वपि कर्मसु सर्ववर्णानां स्वधर्मानुष्ठाने परमपरिमितं सुखम्** (आप.श्रौ.२.१.२.२) इत्यादिवचनात्फल- साधनत्वमवगम्य रागादेव प्रवृत्तिरिति तेषामप्यशुद्धियुक्तत्वम् ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## शङ्कोपसंहारः
+अग्नीषोमीयादिष्व् अपि 
+तेषां फल-साधन-भूतस्य यागादेर् उपकारकत्वं  
+शास्त्राद् अवगम्य  
+रागाद् एव प्रवर्तते । 
+</details>
 
-अत इष्टादीनां पापमिश्रत्वेनाशुद्धियुक्तानां स्वर्गेऽनुभाव्यं फलं स्वर्गेऽनुभूय हिंसांशस्य फलं व्रीह्यादिस्थावरभावेनानुभूयते। स्थावरभावं च पापफलं स्मरन्ति **शरीरजैः कमदोषैर्याति स्थावरतां नरः** (मनु.१.२.९) इति । अतो व्रीह्यादिभावेन भोगायानुशयिनो जायन्त इति चेत् –
+<details><summary>English</summary>
 
-## प्राप्तशङ्कादूषणम्, सूत्रोत्तरखण्डेन
+This applies to the killing of the goat also which is offered to Agnīshomau; man learns from Scripture that such actions help to accomplish the sacrifice which effects the result, and then performs those actions from natural desire. 
+</details>
 
-तन्न, कुतः? शब्दात् – अग्नीषोमीयादेस्संज्ञपनस्य स्वर्गलोकप्राप्तिहेतुतया हिंसात्वाभावशब्दात्। पशोर्हि संज्ञपननिमित्तां स्वर्गलोकप्राप्तिं वदन्तं शब्दमामनन्ति, हिरण्यशरीर ऊर्ध्वः स्वर्गं लोकमेति इत्यादिकम् ।
-अतिशयिताभ्युदयसाधनभूतो व्यापारोऽल्पदुःखदोऽपि न हिंसा; प्रत्युत रक्षणमेव । तथा च मन्त्रवर्णः **न वा उ एतन्म्रियसे न रिष्यसि देवान् इदेषि पथिभिस्सुगेभिः। यत्र यन्ति सुकृतो नापि दुष्कृतस्तत्र त्वा देवस्सविता दधातु** (तै.ब्रा.३.७.९२) इति। चिकित्सकं च तादात्विकाल्पदुःखकारिणमपि रक्षकमेव वदन्ति, पूजयन्ति च तज्ज्ञाः॥२५॥
 
-## अवरोहतो जीवस्य रेतः सेकमिव व्रीह्यादावपि संश्लेष एव
+<details><summary>मूलम्</summary>
+
+अग्नीषोमीयादिष्वपि तेषां फलसाधनभूतस्य यागादेरुपकारकत्वं शास्त्रादवगम्य रागादेव प्रवर्तते । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लौकिक्याम् अपि हिंसायां  
+केनचित् प्रमाणेन हिंसायाः स्व-समीहित-साधनत्वम् अवगम्य  
+रागात् प्रवर्तत  
+इति न कश्चन विशेषः । 
+</details>
+
+<details><summary>English</summary>
+
+The case in no way differs from that of harm done in ordinary life--where the agent always is prompted by natural desire, having somehow arrived at the conclusion that his action will accomplish something aimed at by himself. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लौकिक्यामपि हिंसायां केनचित्प्रमाणेन हिंसायाः स्वसमीहितसाधनत्वमवगम्य रागात्प्रवर्तत इति न कश्चन विशेषः । 
+</details>
+
+##### नित्य-कर्मस्व् अपि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा 
+
+> **नित्येष्वपि कर्मसु  
+सर्ववर्णानां स्व-धर्मानुष्ठाने  
+परम् अपरिमितं सुखम्**  
+(आप.श्रौ.२.१.२.२) 
+
+इत्यादि-वचनात् फल-साधनत्वमवगम्य 
+</details>
+
+<details><summary>English</summary>
+
+The same holds good with regard to works of permanent obligation. Men learn from Scripture that through the performance of the special duties of their caste they attain happiness of the highest kind, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा **नित्येष्वपि कर्मसु सर्ववर्णानां स्वधर्मानुष्ठाने परमपरिमितं सुखम्** (आप.श्रौ.२.१.२.२) इत्यादिवचनात् फल-साधनत्वमवगम्य 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रागाद् एव प्रवृत्तिर् इति  
+तेषाम् अप्य् अशुद्धि-युक्तत्वम् ।
+</details>
+
+<details><summary>English</summary>
+
+and then apply themselves to their duties from a natural desire of such happiness,  
+and therefore such works also are mixed with evil. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रागादेव प्रवृत्तिरिति तेषामप्यशुद्धियुक्तत्वम् ।
+</details>
+
+##### पापांश-फलम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत इष्टादीनां पाप-मिश्रत्वेनाशुद्धि-युक्तानां  
+स्वर्गे ऽनुभाव्यं फलं  
+स्वर्गेऽनुभूय  
+हिंसांशस्य फलं  
+व्रीह्य्-आदि-स्थावर-भावेनानुभूयते। 
+</details>
+
+<details><summary>English</summary>
+
+Hence the souls of those who have performed sacrifices, and so on, which contain an element of evil, at first experience in the heavenly world that result which is to be enjoyed there, and then embodying themselves in non-moving things such as plants, experience the fruit of that part of their actions which is of a harmful nature. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत इष्टादीनां पापमिश्रत्वेनाशुद्धियुक्तानां स्वर्गेऽनुभाव्यं फलं स्वर्गेऽनुभूय हिंसांशस्य फलं व्रीह्यादिस्थावरभावेनानुभूयते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्थावर-भावं च पाप-फलं स्मरन्ति  
+
+> **शरीर-जैः कर्मदोषैर्  
+याति स्थावरतां नरः**  
+(मनु.१.२.९) 
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+That embodiment in non-moving beings is the result of evil deeds Smr̥ti declares: 'Owing to those defects of work which are due to the body, a man becomes a non-moving being.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्थावरभावं च पापफलं स्मरन्ति **शरीरजैः कर्मदोषैर्याति स्थावरतां नरः** (मनु.१.२.९) इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो व्रीह्यादिभावेन भोगायानुशयिनो जायन्ते। 
+</details>
+
+<details><summary>English</summary>
+
+From all this it follows that the souls embody themselves in plants to the end of enjoying the fruits of their works.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो व्रीह्यादिभावेन भोगायानुशयिनो जायन्ते। 
+</details>
+
+
+
+#### पशोः स्वर्गः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति चेत् –
+तन् न, कुतः?  
+शब्दात् – अग्नीषोमीयादेस् संज्ञपनस्य   
+स्वर्ग-लोक-प्राप्ति-हेतुतया हिंसात्वाभाव-शब्दात्। 
+</details>
+
+<details><summary>English</summary>
+
+--To this the Sūtra replies--it is not so, on account of scriptural statement. For Scripture declares that the killing of sacrificial animals makes them to go up to the heavenly world, and therefore is not of the nature of harm. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति चेत् –
+तन्न, कुतः? शब्दात् – अग्नीषोमीयादेस्संज्ञपनस्य स्वर्गलोकप्राप्तिहेतुतया हिंसात्वाभावशब्दात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पशोर् हि संज्ञपन-निमित्तां स्वर्ग-लोक-प्राप्तिं वदन्तं शब्दम् आमनन्ति,  
+
+> हिरण्य-शरीर ऊर्ध्वः स्वर्गं लोकम् एति 
+
+इत्य्-आदिकम् ।
+</details>
+
+<details><summary>English</summary>
+
+This is declared in the text, 'The animal killed at the sacrifice having assumed a divine body goes to the heavenly world'; 'with a golden body it ascends to the heavenly world.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पशोर्हि संज्ञपननिमित्तां स्वर्गलोकप्राप्तिं वदन्तं शब्दमामनन्ति, हिरण्यशरीर ऊर्ध्वः स्वर्गं लोकमेति इत्यादिकम् ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतिशयिताभ्युदय-साधन-भूतो व्यापारो  
+ऽल्प-दुःख-दोऽपि  
+न हिंसा;  
+प्रत्युत रक्षणम् एव । 
+</details>
+
+<details><summary>English</summary>
+
+An action which is the means of supreme exaltation is not of the nature of harm, even if it involves some little pain; it rather is of beneficial nature.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतिशयिताभ्युदयसाधनभूतो व्यापारोऽल्पदुःखदोऽपि न हिंसा; प्रत्युत रक्षणमेव । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च मन्त्र-वर्णः 
+
+> **न वा उ एतन् म्रियसे न रिष्यसि  
+देवान् इदेषि पथिभिस् सुगेभिः।  
+यत्र यन्ति सुकृतो, नापि दुष्कृतस्,  
+तत्र त्वा देवस् सविता दधातु** (तै.ब्रा.३.७.९२) 
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+--With this the mantra also agrees: 
+
+> 'Thou dost not die, thou goest to the gods on easy paths;  
+where virtuous men go, not evil-doers,  
+there the divine Savitr̥ may lead thee.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च मन्त्रवर्णः **न वा उ एतन्म्रियसे न रिष्यसि देवान् इदेषि पथिभिस्सुगेभिः। यत्र यन्ति सुकृतो नापि दुष्कृतस्तत्र त्वा देवस्सविता दधातु** (तै.ब्रा.३.७.९२) इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चिकित्सकं च तादात्विकाल्प-दुःख-कारिणम् अपि  
+रक्षकम् एव वदन्ति,  
+पूजयन्ति च तज्-ज्ञाः॥२५॥
+</details>
+
+<details><summary>English</summary>
+
+An act which has a healing tendency, although it may cause a transitory pain, men of insight declare to be preservative and beneficial.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चिकित्सकं च तादात्विकाल्पदुःखकारिणमपि रक्षकमेव वदन्ति, पूजयन्ति च तज्ज्ञाः॥२५॥
+</details>
+
+
+### रेतस्-सिग्-योगः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **३१३. रेतस्-सिग्-योगोऽथ ॥ ३–१–२६ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 26\. After that conjunction with him who performs the act of generation.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **३१३. रेतस्सिग्योगोऽथ ॥ ३–१–२६ ॥**
+</details>
 
-इतश्चौपचारिकं व्रीह्यादिजन्मवचनम्, व्रीह्यादिभाववचनानन्तरं **यो यो ह्यन्नमत्ति यो रेतस्सिञ्चति तद्भूय एव भवति** (छा.५.१०.६) इति रेतस्सिग्भावोऽनुशयिनां श्रूयमाणो यथा तद्योगमात्रं प्रतिपादयति; तद्वद्ब्रीह्यादिभावोऽपीत्यर्थः॥२६॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## शरीरप्राप्तेः योनिप्राप्त्यनन्तरभाविता
+इतश् चौपचारिकं व्रीह्य्-आदि-जन्म-वचनम्, 
+</details>
 
-**३१४. योनेश्शरीरम् ॥ ३–१–२७ ॥**
+<details><summary>मूलम्</summary>
 
-योनिप्राप्तेः पश्चादेवानुशयिनां शरीरप्राप्तिः तत्रैव सुखदुःखोपभोगसद्भावात् । ततः प्रागाकाशादिप्राप्तिप्रभृति तद्योगमात्रमेवेत्यर्थः ॥ २७ ॥
+इतश्चौपचारिकं व्रीह्यादिजन्मवचनम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्रीह्य्-आदि-भाव-वचनानन्तरं  
+
+> **यो यो ह्य् अन्नम् अत्ति  
+यो रेतस् सिञ्चति  
+तद् भूय एव भवति**  
+(छा.५.१०.६) 
+
+इति रेतस्-सिग्-भावो ऽनुशयिनां श्रूयमाणो  
+यथा तद्-योग-मात्रं प्रतिपादयति;  
+तद्वद् व्रीह्य्-आदि-भावो ऽपीत्य् अर्थः॥२६॥
+</details>
+
+<details><summary>English</summary>
+
+The declaration that the descending souls _become_ rice plants, and so on,  
+cannot be taken literally for that reason also,  
+that the text afterwards declares them to _become_ those who perform the act of generation:  
+
+> 'Whoever the being may be that eats the food and begets offspring, that being he (i.e. the soul that has descended) becomes.' 
+
+Now the meaning of this latter text can only be that the soul enters into conjunction with the creature which eats the grain; and hence we have to interpret the previous text, as to the soul's becoming a plant, in the same way.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्रीह्यादिभाववचनानन्तरं **यो यो ह्यन्नमत्ति यो रेतस्सिञ्चति तद्भूय एव भवति** (छा.५.१०.६) इति रेतस्सिग्भावोऽनुशयिनां श्रूयमाणो यथा तद्योगमात्रं प्रतिपादयति; तद्वद्व्रीह्यादिभावोऽपीत्यर्थः॥२६॥
+</details>
+
+
+
+### योनेश् शरीरम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **३१४. योनेश्शरीरम् ॥ ३–१–२७ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 27\. From the yoni the body.
+</details>
+
+<details><summary>मूलम्</summary>
+
+> **३१४. योनेश्शरीरम् ॥ ३–१–२७ ॥**
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योनिप्राप्तेः पश्चाद् एवानुशयिनां शरीर-प्राप्तिः,  
+तत्रैव सुख-दुःखोपभोग-सद्-भावात् ।  
+</details>
+
+<details><summary>English</summary>
+
+Only after having reached a yoni the soul, affected with a remnant of its works, obtains a new body, and only in a body there can be the enjoyment of pleasure and pain. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+योनिप्राप्तेः पश्चादेवानुशयिनां शरीरप्राप्तिः, तत्रैव सुखदुःखोपभोगसद्भावात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततः प्राग्  
+आकाशादि-प्राप्ति-प्रभृति तद्-योग-मात्रम् एव  
+इत्य् अर्थः ॥ २७ ॥
+</details>
+
+<details><summary>English</summary>
+
+When, therefore, previous to that the soul is said to reach ether, wind, and so on, this can only mean that it enters into conjunction with them.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततः प्रागाकाशादिप्राप्तिप्रभृति तद्योगमात्रमेवेत्यर्थः ॥ २७ ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **इति श्रीशारीरकमीमांसाभाष्ये अन्याधिष्ठिताधिकरणम् ॥६॥**
+</details>
+
+<details><summary>English</summary>
+
+--Here terminates the adhikaraṇa of 'that animated by another soul.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**इति श्रीशारीरकमीमांसाभाष्ये अन्याधिष्ठिताधिकरणम् ॥६॥**
+</details>
+
 
 **इति श्रीभगवद्रामानुजविरचिते शारीरकमीमांसाभाष्येतृतीयस्याध्यायस्य प्रथमःपादः ॥१॥**
 
