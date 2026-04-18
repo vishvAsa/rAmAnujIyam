@@ -7,30 +7,292 @@ title = "०६ अन्याधिष्ठिताधिकरणम्"
 
 <details><summary>अधिकरणार्थः</summary>
 
-अवरोहतो जीवस्य व्रीह्यादिभावः, व्रीह्यादिसंश्लेषमात्रम्, न व्रीह्यादिशरीरकं ब्रह्म
+अवरोहतो जीवस्य व्रीह्य्-आदि-भावः,  
+व्रीह्य्-आदि-संश्लेष-मात्रम्,  
+न व्रीह्यादिशरीरकं ब्रह्म
 </details>
 
-**३११. अन्याधिष्ठिते पूर्ववदभिलापात्॥ ३–१–२४ ॥**
+## जीवावरोहः सस्येषु
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवरोहन्तो जीवाः व्रीह्यादिभावेन जायन्त इति श्रूयते मेघो भूत्वा प्रवर्षति त इह व्रीहियवा ओषधिवनस्पतयस्तिलमाषा जायन्ते (छा.५.१०.६) इति ।
+> **३११. +++(व्रीह्यादौ)+++ अन्याधिष्ठिते +++(जीवावतारः)+++ पूर्ववद् अभिलापात्॥ ३–१–२४ ॥**
+</details>
 
-## तत्रत्यो विचारांशः प्रकृतः
+<details><summary>English</summary>
+
+> 24\. Into (plants) animated by other souls, because the statement is as in the previous cases.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> **३११. अन्याधिष्ठिते पूर्ववदभिलापात्॥ ३–१–२४ ॥**
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अवरोहन्तो जीवाः  
+व्रीह्यादिभावेन जायन्त  
+
+इति श्रूयते 
+</details>
+
+<details><summary>English</summary>
+
+The text declares that the descending souls are born as rice, corn, &c., 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवरोहन्तो जीवाः व्रीह्यादिभावेन जायन्त इति श्रूयते 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मेघो भूत्वा प्रवर्षति  
+त इह व्रीहि-यवा ओषधि-वनस्पतयस् तिल-माषा जायन्ते (छा.५.१०.६) 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+> 'they are born here as rice, corn, herbs, trees,' &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मेघो भूत्वा प्रवर्षति त इह व्रीहियवा ओषधिवनस्पतयस्तिलमाषा जायन्ते (छा.५.१०.६) इति ।
+</details>
+
+## संशयः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ते किम् अन्यैर् भोक्तृभिर् व्रीह्यादि-शरीरैर् अधिष्ठितान्  
+व्रीह्य्-आदीन् आश्लिष्यन्ति;  
+उत ते भोक्तारो व्रीह्य्-आदि-शरीरा जायन्त  
+
+इति विशये,
+</details>
+
+<details><summary>English</summary>
+
+The question here is whether the souls cling to plants animated by other souls which have those plants for their bodies; or whether the descending souls themselves are born with those plants for their bodies.--
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 ते किमन्यैर्भोक्तृभिर्व्रीह्यादि-शरीरैरधिष्ठितान्व्रीह्यादीनाश्लिष्यन्ति; उत ते भोक्तारो व्रीह्यादिशरीरा जायन्त इति विशये,
+</details>
 
-## पूर्वपक्षः युक्तिसहितः
+
+## पूर्वपक्षः - जायन्ते
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**जायन्ते** (छा.५.१०.६.७) इति वचनाद्  
+"देवो जायते मनुष्यो जायत" इतिवद्  
+व्रीह्य्-आदि-शरीरा एव।
+</details>
+
+<details><summary>English</summary>
+
+The latter view is the right one; for the text says, 'they are born as rice, grain,' and so on, and this expression is of the same kind as when we say 'he is born as a man, as a deva,' and so on.  
+The text therefore means that the souls are embodied in the different plants.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 **जायन्ते** (छा.५.१०.६.७) इति वचनाद्देवो जायते मनुष्यो जायत इतिवद्व्रीह्यादिशरीरा एव।
+</details>
 
-## सिद्धान्तार्थः सौत्रार्थविवरणतः
+## अन्याधिष्ठिते संश्लेषः
 
-इति प्राप्ते उच्यते – अन्याधिष्ठिते इति। जीवान्तरेणाधिष्ठिते व्रीह्यादिशरीरे तेषां संश्लेषमात्रमेव। कुतः? पूर्ववदभिलापात् – आकाशादिमेघपर्यन्तवत्केवल तद्भावाभिलापात् । यत्र हि भोक्तृत्वमभिप्रेतम्; तत्र तत्साधनभूतं कर्माभिलप्यते **रममीयचरणाः** … **कपूयचरणाः** (छा.५.१०.७) इति । इह चाकाशादिवन्नाभिलप्यते कर्म, फलप्रदाने प्रवृत्तस्य स्वर्गोपभोग्यफलस्येष्टादेः कर्मणः स्वर्गोपभोगादेव समाप्तत्वात्, अनारब्धस्य **रमणीयचरणाः**…….**कपूयचरणाः** (छा.५.१०.७) इति वक्ष्यमाणत्वात्, मध्ये कर्मान्तराभावाच्च। अत आकाशादिभाववचनवद्व्रीह्यादिभावेन जन्मवचनमौपचारिकम्॥२४॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## स्वर्गोपभोगोपधायककर्मणः पापत्वशङ्का
+इति प्राप्ते उच्यते – अन्याधिष्ठिते इति। 
+</details>
 
-## तत्परिहारश्च सूत्रतः
+<details><summary>English</summary>
 
-**३१२. अशुद्धमिति चेन्न शब्दात् ॥ ३–१–२५ ॥**
+--This view the Sūtra rejects. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति प्राप्ते उच्यते – अन्याधिष्ठिते इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवान्तरेणाधिष्ठिते व्रीह्य्-आदि-शरीरे  
+तेषां संश्लेषमात्रम् एव। 
+</details>
+
+<details><summary>English</summary>
+
+The souls merely cling to those plants which constitute the bodies of other souls; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवान्तरेणाधिष्ठिते व्रीह्यादिशरीरे तेषां संश्लेषमात्रमेव। 
+</details>
+
+### आकाशादि-श्लेषवत्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः? पूर्ववद् अभिलापात् –  
+आकाशादि-मेघ-पर्यन्तवत्  
+केवल तद्-भावाभिलापात् । 
+</details>
+
+<details><summary>English</summary>
+
+'since the statement is as in the previous cases,' i.e. because the text only says that the souls become plants as it had previously been said that they become ether, and so on. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतः? पूर्ववदभिलापात् – आकाशादिमेघपर्यन्तवत्केवल तद्भावाभिलापात् । 
+</details>
+
+### कर्मानुक्तेः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्र हि भोक्तृत्वम् अभिप्रेतम्;  
+तत्र तत्-साधन-भूतं कर्माभिलप्यते  
+**रमणीय-चरणाः** … **कपूय-चरणाः** (छा.५.१०.७) इति । 
+</details>
+
+<details><summary>English</summary>
+
+Where the text means to say that the soul enters on the condition of an enjoying soul (i.e. of a soul assuming a new body for the purpose of retributive enjoyment), it refers to the deeds which lead to such enjoyment; so e. g. in the passage, 'Those whose works have been good obtain a good birth,' &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्र हि भोक्तृत्वमभिप्रेतम्; तत्र तत्साधनभूतं कर्माभिलप्यते **रमणीयचरणाः** … **कपूयचरणाः** (छा.५.१०.७) इति । 
+</details>
+
+#### कर्मसम्बन्धोऽन्यत्र
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह चाकाशादिवन्नाभिलप्यते कर्म, 
+</details>
+
+<details><summary>English</summary>
+
+But in the text under discussion there is no such reference to karman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इह चाकाशादिवन्नाभिलप्यते कर्म, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फल-प्रदाने प्रवृत्तस्य स्वर्गोपभोग्य-फलस्येष्टादेः कर्मणः  
+स्वर्गोपभोगाद् एव समाप्तत्वात्, 
+</details>
+
+<details><summary>English</summary>
+
+For those works--viz. sacrifices and the like--which were undertaken with a view to reward, such as enjoyment of the heavenly world, are, in the case of the descending souls, completely wiped out by the enjoyment of the heavenly world (which precedes the descent of the souls); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलप्रदाने प्रवृत्तस्य स्वर्गोपभोग्यफलस्येष्टादेः कर्मणः स्वर्गोपभोगादेव समाप्तत्वात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनारब्धस्य **रमणीयचरणाः**…….**कपूयचरणाः** (छा.५.१०.७) इति वक्ष्यमाणत्वात्, 
+</details>
+
+<details><summary>English</summary>
+
+and those works on the other hand, the action of which has not yet begun, lead to the embodiments mentioned further on ('Those whose works are good'). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनारब्धस्य **रमणीयचरणाः**…….**कपूयचरणाः** (छा.५.१०.७) इति वक्ष्यमाणत्वात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मध्ये कर्मान्तराभावाच्च। 
+</details>
+
+<details><summary>English</summary>
+
+And in the interval between those two conditions no new karman originates. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मध्ये कर्मान्तराभावाच्च। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत आकाशादि-भाव-वचनवद्  
+व्रीह्य्-आदि-भावेन जन्म-वचनम् औपचारिकम्॥२४॥
+</details>
+
+<details><summary>English</summary>
+
+When, therefore, the text says that the souls are born as plants, the statement cannot be taken in its literal sense.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत आकाशादिभाववचनवद्व्रीह्यादिभावेन जन्मवचनमौपचारिकम्॥२४॥
+</details>
+
+
+## स्वर्गदं कर्म नाशुद्धम्
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **३१२. अशुद्धम् इति चेन् न - शब्दात् ॥ ३–१–२५ ॥**
+</details>
+
+<details><summary>English</summary>
+
+> 25\. It is unholy. Not so, on the ground of Scripture.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> **३१२. अशुद्धमिति चेन्न शब्दात् ॥ ३–१–२५ ॥**
+</details>
+
+
 
 नैतदस्ति – यदन्याधिष्ठिते व्रीह्यादिशरीरे संश्लेषमात्रम्, भोक्तृत्वहेत्वभावान्न व्रीह्यादिभावेन जन्म – इति भोक्तृत्वहेतुसद्भावात् स्वर्गोपभोग्यफलमिष्टादिकर्मैवाशुद्धम् – पापमिश्रम्, अग्नीषोमीयादि हिंसायुक्तत्वात् । हिंसा च न हिंस्यात्सर्वा भूतानि इति निषिद्धत्वात्पापमेव।
 
