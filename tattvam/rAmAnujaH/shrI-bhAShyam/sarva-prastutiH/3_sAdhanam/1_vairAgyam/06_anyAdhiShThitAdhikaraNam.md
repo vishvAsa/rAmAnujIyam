@@ -273,7 +273,7 @@ When, therefore, the text says that the souls are born as plants, the statement 
 </details>
 
 
-## स्वर्गदं कर्म नाशुद्धम्
+### स्वर्गदं कर्म नाशुद्धम्
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,17 +292,201 @@ When, therefore, the text says that the souls are born as plants, the statement 
 > **३१२. अशुद्धमिति चेन्न शब्दात् ॥ ३–१–२५ ॥**
 </details>
 
+#### पूर्वपक्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैतद् अस्ति – 
+
+> यद् अन्याधिष्ठिते व्रीह्य्-आदि-शरीरे संश्लेष-मात्रम्,  
+भोक्तृत्व-हेत्व्-अभावान्  
+न व्रीह्य्-आदि-भावेन जन्म – 
+
+इति 
+</details>
+
+<details><summary>English</summary>
+
+The conclusion arrived at above cannot be accepted,  
+</details>
 
 
-नैतदस्ति – यदन्याधिष्ठिते व्रीह्यादिशरीरे संश्लेषमात्रम्, भोक्तृत्वहेत्वभावान्न व्रीह्यादिभावेन जन्म – इति भोक्तृत्वहेतुसद्भावात् स्वर्गोपभोग्यफलमिष्टादिकर्मैवाशुद्धम् – पापमिश्रम्, अग्नीषोमीयादि हिंसायुक्तत्वात् । हिंसा च न हिंस्यात्सर्वा भूतानि इति निषिद्धत्वात्पापमेव।
+<details><summary>मूलम्</summary>
 
-## हिंसानिषेधस्य औत्सर्गिकत्वायोगः
+नैतदस्ति – यदन्याधिष्ठिते व्रीह्यादिशरीरे संश्लेषमात्रम्, भोक्तृत्वहेत्वभावान्न व्रीह्यादिभावेन जन्म – इति 
+</details>
 
-न चात्र पदाहवनीयादिवदुत्सर्गापवादभावस्सम्भवति, भिन्नविषयत्वात्। अग्नीषोमीयहिंसा-विधिः हिंसायाः क्रतूपकारकत्वं बोधयति; न हिंस्यात् इति तु हिंसायाः प्रत्यवायफलत्वम्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## प्रभाकरोक्तः परिहारः, तद्दूषणं च
+भोक्तृत्वहेतुसद्भावात् 
+</details>
 
-अथोच्येत – अग्नीषोमीयादिषु विधितः प्रवृत्तेर्न तद्विषयं निषेधविधिरास्कन्दति, रागप्राप्तविषयत्वात्तस्येति; नैवम्, इहापि रागप्राप्तेरविशिष्टत्वात्। **स्वर्गकामो यजेत** (यजु.२.५.५) इत्येवमादौ हि कामिनः कर्तव्यतया यागाद्युपदेशाद्यागादेः स्वर्गादिसाधनत्वमवगम्य फलरागत एव यागादौ प्रवर्तते । अग्नीषोमीयादिष्वपि तेषां फलसाधनभूतस्य यागादेरुपकारकत्वं शास्त्रादवगम्य रागादेव प्रवर्तते । लौकिक्यामपि हिंसायां केनचित्प्रमाणेन हिंसायाः स्वसमीहितसाधनत्वमवगम्य रागात्प्रवर्तत इति न कश्चन विशेषः । तथा **नित्येष्वपि कर्मसु सर्ववर्णानां स्वधर्मानुष्ठाने परमपरिमितं सुखम्** (आप.श्रौ.२.१.२.२) इत्यादिवचनात्फल- साधनत्वमवगम्य रागादेव प्रवृत्तिरिति तेषामप्यशुद्धियुक्तत्वम् ।
+<details><summary>English</summary>
+
+since there is a reason why the descending soul should enter on the condition of an enjoying soul. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भोक्तृत्वहेतुसद्भावात् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वर्गोपभोग्य-फलम् इष्टादि-कर्मैवाशुद्धम् –  
+पाप-मिश्रम्, अग्नी-षोमीयादि हिंसा-युक्तत्वात् । 
+</details>
+
+<details><summary>English</summary>
+
+Such works as sacrifices, the fruit of which is the enjoyment of the heavenly world, are mixed with evil,  
+for they imply injury to living beings as in the case of the goat offered to Agnīshomau. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वर्गोपभोग्यफलमिष्टादिकर्मैवाशुद्धम् – पापमिश्रम्, अग्नीषोमीयादि हिंसायुक्तत्वात् । 
+</details>
+
+##### हिसा-पापम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हिंसा च  
+"न हिंस्यात् सर्वा भूतानि" इति निषिद्धत्वात्  
+पापम् एव।
+</details>
+
+<details><summary>English</summary>
+
+And such injury is evil as it is forbidden by texts such as 'let him not harm any creature.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हिंसा च न हिंस्यात्सर्वा भूतानि इति निषिद्धत्वात्पापमेव।
+</details>
+
+###### उत्सर्गापवाद-न्यायो न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चात्र पदाहवनीयादिवद् उत्सर्गापवाद-भावस् सम्भवति,  
+भिन्न-विषयत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+Nor can it be said that the injunctions of sacrificing animals constitute exceptions to the general rule of not harming any creature. --For the two injunctions refer to different things. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चात्र पदाहवनीयादिवदुत्सर्गापवादभावस्सम्भवति, भिन्नविषयत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अग्नीषोमीय-हिंसा-विधिर् हिंसायाः क्रतूपकारकत्वं बोधयति; 
+</details>
+
+<details><summary>English</summary>
+
+The injunction to kill the goat for Agnīshomau intimates that the killing of the animal subserves the accomplishment of the sacrifice, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अग्नीषोमीयहिंसा-विधिः हिंसायाः क्रतूपकारकत्वं बोधयति; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"न हिंस्यात्" इति तु हिंसायाः प्रत्यवाय-फलत्वम्।
+</details>
+
+<details><summary>English</summary>
+
+while the injunction not to 'harm' teaches that such harming has disastrous consequences. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हिंस्यात् इति तु हिंसायाः प्रत्यवायफलत्वम्।
+</details>
+
+
+###### विधि-प्राप्तेऽपि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथोच्येत – 
+
+> अग्नीषोमीयादिषु विधितः प्रवृत्तेर्  
+न तद्-विषयं निषेधविधिर् आस्कन्दति,  
+राग-प्राप्त-विषयत्वात् तस्य
+
+इति; 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+प्राभाकर-परिहारोऽयम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+Should it be said that the prohibition of harming does not refer to such actions as the sacrifice of the goat which proceed on the basis of scriptural injunction,  
+but only to such actions as spring from natural passion or desire (rāga); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथोच्येत – अग्नीषोमीयादिषु विधितः प्रवृत्तेर्न तद्विषयं निषेधविधिरास्कन्दति, रागप्राप्तविषयत्वात्तस्येति; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैवम्, इहापि राग-प्राप्तेर् अविशिष्टत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+we remark that in the case of sacrifices also the action is equally prompted by natural desire. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैवम्, इहापि रागप्राप्तेरविशिष्टत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**स्वर्गकामो यजेत** (यजु.२.५.५) इत्य्-एवम्-आदौ हि  
+कामिनः कर्तव्यतया यागाद्य्-उपदेशाद्  
+यागादेः स्वर्गादि-साधनत्वम् अवगम्य  
+फल-रागत एव यागादौ प्रवर्तते । 
+</details>
+
+<details><summary>English</summary>
+
+Injunctions such as 'He who desires the heavenly world is to sacrifice', teach that sacrifices are to be undertaken by persons desirous of certain pleasant results, and such persons having thus learned by what means the result is to be accomplished proceed to action from the natural desire of the result. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**स्वर्गकामो यजेत** (यजु.२.५.५) इत्येवमादौ हि कामिनः कर्तव्यतया यागाद्युपदेशाद्यागादेः स्वर्गादिसाधनत्वमवगम्य फलरागत एव यागादौ प्रवर्तते । 
+</details>
+
+
+अग्नीषोमीयादिष्वपि तेषां फलसाधनभूतस्य यागादेरुपकारकत्वं शास्त्रादवगम्य रागादेव प्रवर्तते । लौकिक्यामपि हिंसायां केनचित्प्रमाणेन हिंसायाः स्वसमीहितसाधनत्वमवगम्य रागात्प्रवर्तत इति न कश्चन विशेषः । तथा **नित्येष्वपि कर्मसु सर्ववर्णानां स्वधर्मानुष्ठाने परमपरिमितं सुखम्** (आप.श्रौ.२.१.२.२) इत्यादिवचनात्फल- साधनत्वमवगम्य रागादेव प्रवृत्तिरिति तेषामप्यशुद्धियुक्तत्वम् ।
 
 ## शङ्कोपसंहारः
 
