@@ -17,7 +17,7 @@ vaishvadeva avoidance, devatAntara-pUjA, pAncharAtra vs smRti/ sUtra, sad-anuShT
 07:15 - parAshara-smRti does not forbid.
 07:35 - Confusion extends to vaidikas
 08:45 - Why even do sandhyAvandanam etc.?
-09:30 - sad-anuShThAna-darpaNa quotes "vAsudeva-saMhitA" (typo - मध्याह्नानन्तरं → मद्यागानन्तरं)
+09:30 - sad-anuShThAna-darpaNa quotes "vAsudeva-saMhitA" (typo - मध्याह्नानन्तरं → मद्यागानन्तरम्). (Edit - seemingly available in manuscript form.)
 12:00 - Verse can be understood otherwise - show us the context.
 12:45 - Overridden by smRti-s
 13:15 - yAmuna's Agama-prAmANya says so.
@@ -121,6 +121,10 @@ vaishvadeva avoidance, devatAntara-pUjA, pAncharAtra vs smRti/ sUtra, sad-anuShT
 पर्य्यङ्के समलङ्कृते  २९२
 
 इति वृद्ध-हारित-स्मृतौ। 
+
+
+सर्वम् इदं मन्दाधिकारिणम् उद्दिश्येति वचनं न चारु।  
+एवं पूर्वाचार्योक्तिष्व् अपि। 
 
 ### तैत्तिरीयकादिभिः त्यक्तश् चेत् पूर्वाचार्य-विरोधः
 वैश्वदेवादि-स्वशाखोक्त-वैदिक-नित्य-कर्म न कथञ्चित् त्याज्यम् इति यामुनार्यस्याभिप्रायः,  
