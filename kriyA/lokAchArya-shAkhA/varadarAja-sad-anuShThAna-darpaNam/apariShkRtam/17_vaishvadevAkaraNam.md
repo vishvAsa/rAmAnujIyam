@@ -1509,6 +1509,8 @@ title = "१७ वैश्वदेवाकरणम्"
 इति च मुण्डके (मुं.2-2-9)। 
 
 आसां किञ्चिद् मिश्रणेन, पुनर् अवर्तमानस्य योजनेन काचिच् छ्रुतिर् उत्पादितेति भाति। 
+
+> maybe its concocted by some rig vedins … the bhattars of SV koils in cauvery delta are rig vedis and shishyas of koil annan and shuddha sattvam. vaishvadeva wasnt done by archakas - and that it was inherited by "normal" sri vaishnavas. - SV
 </details>
 
 
