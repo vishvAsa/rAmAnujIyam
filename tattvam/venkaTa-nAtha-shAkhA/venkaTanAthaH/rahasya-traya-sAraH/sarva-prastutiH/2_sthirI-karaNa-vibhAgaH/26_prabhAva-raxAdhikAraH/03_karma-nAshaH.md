@@ -72,6 +72,13 @@ En tres días, tres quince días, tres meses o tres años ".
 इत्य्-उक्तत्वात् 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+इयं नाशोक्तिर् अपूर्व-कल्पना-पक्षे युक्ति-गौरवम् आपादयति।  
+वरम् अतोऽपि कर्मणां भगवत्-प्रीति-जनन-द्वारा कर्मोत्पत्तिः। 
+</details>
+
+
 <details><summary>English</summary>
 
 In the same way, it has been said, 
