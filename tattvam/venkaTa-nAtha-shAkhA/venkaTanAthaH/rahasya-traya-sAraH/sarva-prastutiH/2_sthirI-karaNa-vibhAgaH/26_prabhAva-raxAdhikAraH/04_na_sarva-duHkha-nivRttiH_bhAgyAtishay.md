@@ -262,7 +262,7 @@ El Señor **acepta mantenerlo** aquí (en este mundo), durante algún tiempo má
 इसैन्दव् अळविले  
 इव्व्-इडत्तिल्-उळ्ळ सिऱ्ऱ्-इऩ्बङ्गळै  
 दुःख-प्रसङ्ग-रहितम् आग अनुभविप्पिक्कुम् आगिल्  
-इवऩुक्क् इन्-नसैय् ऒरुक् कालुम् माळादु+++(=न नश्यति)+++।
+इवऩुक्क् इन्-नसैय्+++(=लोभः)+++ ऒरुक् कालुम् माळादु+++(=न नश्यति)+++।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -532,6 +532,12 @@ Por lo tanto, **es apropiado considerar** tales **castigos** como favores especi
 इति भट्टा अनुजगृहुः । +++(4)+++
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+उपाधेर् आय इति विग्रहोऽपि महासाब्दिकेनाभिप्रेतम्। 
+</details>
+
+
 <details><summary>English</summary>
 
 When the king asked whether a disease could be (helpful),  
@@ -793,13 +799,13 @@ En tales contextos, el aspecto de la **experiencia** de la tristeza o el dolor
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु +++(निर्वेदादि-)+++शिक्षणम् आगिऱदुवुम्  
-प्रायश्चित्तत्तिले मूट्टुगिऱदुवुम्  
+प्रायश्चित्तत्तिले मूट्टुगिऱदुवुम् +++(दुष्कृतफलम् अपि)+++  
 उपाय-फलम् +++(←अनुग्रह-सङ्कल्प-विशेषः)+++। +++(4)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-अस्य +++(निर्वेदादि-)+++शिक्षण-रूपत्वं प्रायश्चित्त-वृत्ति-जनकत्वं चोपायफलम् +++(←अनुग्रह-सङ्कल्प-विशेषः)+++। 
+अस्य +++(निर्वेदादि-)+++शिक्षण-रूपत्वं प्रायश्चित्त-वृत्ति-जनकत्वं +++(दुष्कृतफलम् अपि)+++ चोपायफलम् +++(←अनुग्रह-सङ्कल्प-विशेषः)+++। 
 </details>
 
 <details><summary>English</summary>
