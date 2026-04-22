@@ -3,6 +3,12 @@ title = "en"
 +++
 Source: [TW](https://divyaprabandham.koyil.org/index.php/2015/11/saranagathi-gadhyam/)
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> So periyavacchan pillai tells ramanuja's saranagati happened during time of panchasamskara itself. And that his gadya is for just anusandhana of it or something. -SV
+</details>
+
+
 SrI: SrImathE satakOpAya nama: SrImathE rAmAnujAya nama: SrImath varavaramunayE nama:
 
 e-book: <https://1drv.ms/b/s!AiNzc-LF3uwyggQN5jyXsoeoqKd_>
