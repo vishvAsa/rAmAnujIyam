@@ -170,6 +170,7 @@ One such dubious aitihyam, regarding nADAdUr ammAL, used by them is this - They 
 > > मुदलिले संसार भय भीतर् आय्क् कॊण्डु,  
 पॆरियनम्बि श्रीबादत्तै आश्रयित्त बोदे   
 पॆरियबॆरुमाळ् तिरुवडिगळिले शरणम् पुक्किलरो? …  
+> 
 > अव्वळवु आऱिय् इरुक्क-माट्टादे  
 तम् प्राप्य त्वरैयाल् शरणम् पुगुगिऱार्।  
 > इदिऱे आऴ्वार्गळुक्कुम् रीति।
@@ -240,7 +241,7 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 अर्चाकैङ्कर्ये कृते सन्ध्यावन्दनादि-त्यागम् (न केवलं विलम्बम्) अप्य् अङ्गीकुर्वन्ति । 
 
 ### Cognitive dissonance
-> A set of tenkalais take acharya hrdayam like texts too seriously। When you do that (where they talk about identifying with Azhvar gotra and not Rishi gotras) and not giving due importance to karma, but still continue to hold on to varna in practice - you have a dissonance।
+> A set of tenkalais take acharya hrdayam like texts too seriously. When you do that (where they talk about identifying with Azhvar gotra and not Rishi gotras) and not giving due importance to karma, but still continue to hold on to varna in practice - you have a dissonance।
 
 सन्ध्यावन्दनवेलायाम्  
 मुक्तोहम् इति कथ्यते।  
