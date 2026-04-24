@@ -5861,7 +5861,7 @@ De la misma manera que **no hay** ninguno para el **servicio** del rey.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रपत्तिक्कुम्  
-सद्-आचार्योपदेश-पूर्वक-मन्त्र-ग्रहणादिगळ् अनपेक्षितङ्गळ् आग प्रसङ्गिङ्गिक्कुम्। 
+सद्-आचार्योपदेश-पूर्वक-मन्त्र-ग्रहणादिगळ् अनपेक्षितङ्गळ् आग प्रसङ्गिक्कुम्। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
