@@ -3,12 +3,12 @@ title = "०६ अपक्वैस् सङ्गमः"
 
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
 
 THE POTENCY OF PRAPATTI.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Español</summary>
 
 La potencia de Prapatti.
 </details>
@@ -19,7 +19,7 @@ La potencia de Prapatti.
 मुमुक्षुक्कळ् आय्  
 कर्म-ज्ञान-भक्ति-प्रपत्तिगळिल् एदेऩुम् ऒरु शास्त्रीय-मर्यादैयाले  
 भगवत्-प्रवणर् आऩार्क्कु  
-यतमान-संज्ञाद्य्-अवस्थैगळिले 
++++(गीताभाष्योक्त-)+++ यतमान-संज्ञाद्य्-अवस्थैगळिले 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -27,7 +27,7 @@ La potencia de Prapatti.
 अस्मद्-दर्शने निष्ठावतां मुमुक्षूणां  
 कर्म-ज्ञान-भक्ति-प्रपत्तिषु यया कयाचिच् छास्त्रीय-मर्यादया  
 भगवत्-प्रवणी-भूतानां  
-यतमान-संज्ञाद्य्-अवस्थासु  
++++(गीताभाष्योक्त-)+++यतमान-संज्ञाद्य्-अवस्थासु  
 </details>
 
 
@@ -137,6 +137,14 @@ Sobre **encontrar** en tales hombres ciertas enfermedades como el deseo de diner
 इति केचिद् वैराग्य-मात्र-प्रधाना आचक्षते । 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> संसर्ग-जा दोष-गुणा भवन्ति 
+
+इति सुभाषितम्। 
+</details>
+
+
 <details><summary>English</summary>
 
 some to whom freedom from all desires is all important  
@@ -188,14 +196,14 @@ en las secciones que **tratan** con las profesiones **seguidas** de aquellos que
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > दम्भि-हैतुक-पाषण्डि-  
-बक-वृत्तींश् च वर्जयेत्",  
+बक-वृत्तींश् च वर्जयेत्,  
 (याज्ञवल्क्यस्मृति १-१३०)
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > दम्भि-हैतुक-पाषण्डि-  
-बक-वृत्तींश् च वर्जयेत्",  
+बक-वृत्तींश् च वर्जयेत्,  
 (याज्ञवल्क्यस्मृति १-१३०)
 </details>
  
