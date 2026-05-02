@@ -5,15 +5,13 @@ title = "प्रमाणानि"
 ## प्रामाण्य-क्रमः
 श्रीवैष्णवाभ्युपगत-प्रामाण्य-क्रमः (वेङ्कटनाथशाखा) -
 
-अदुष्टम् प्रत्यक्षम् > वेदाः, ब्रह्म-सूत्राणि > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > आन्तरिक-तारतम्येन वैष्णवा आगमाः, द्रविड-गाथाः, सम्प्रदाय-रहस्य-ग्रन्थाः > राजस-तामस-पुराणानि, इतरागमाः ससाङ्ख्ययोगादयः > गुर्व्-आद्य्-आदेशः > शिष्टाचारः > ऐतिह्यम्।
-
-तत्र ब्रह्म-सूत्राणां रहस्यग्रन्थानां च निर्णायकत्वेन प्रामाण्यम् इति साम्प्रदायिकाः।  
-(The purpose of the Brahmasutras is to establish the right interpretation of the Shruti; hence equal priority.)
+अदुष्टम् प्रत्यक्षम् > ब्रह्म-सूत्राणि > लभ्या वेदाः > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > आन्तरिक-तारतम्येन वैष्णवा आगमाः, द्रविड-गाथाः, सम्प्रदाय-रहस्य-ग्रन्थाः > राजस-तामस-पुराणानि, इतरागमाः ससाङ्ख्ययोगादयः > गुर्व्-आद्य्-आदेशः > शिष्टाचारः > ऐतिह्यम्।
 
 
 क्रमे साधारण-विचारो [ऽन्यत्र](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/5_internal-contradictions/hierarchy)। अत्र सम्प्रदाय-विशिष्टवचनादीन्य् उच्यन्ते। 
 
 रहस्य-त्रय-सारादौ वेङ्कटनाथार्यः प्रमाणोदाहर-क्रमं स्वोदाहरणक्रमेणेव सूचयति।
+
 
 ### भगवद्-आज्ञा-ज्ञान-क्रमः
 बद्ध-दशायाम् भगवद्-आज्ञा-ज्ञान-क्रमः -
@@ -53,7 +51,7 @@ title = "प्रमाणानि"
 - काञ्चीपूर्णाख्यस्य वैश्य-सिद्धस्य भगवद्-अर्चा-भाषिणो गुरुत्वार्थं रामानुजेन प्रार्थनम् (यत् तेन शास्त्रानुसारिणा वैश्येन तिरस्कृतम्)। 
 - गोदादेव्या भगवते स्व-निर्माल्य-समर्पणम्।
 
-### आवेशय् आपदि …
+#### आवेशय् आपदि …
 > अत्यन्त-भक्ति-युक्तानां  
 > नैव शास्त्रं न च क्रमः॥
 
@@ -103,6 +101,25 @@ title = "प्रमाणानि"
 > किम् आदौ तन् न **गृह्यते**॥"  
 (वेङ्कटनाथः न्यायसिद्धाञ्जनम् जड. परि. ४)
 
+### अतीन्द्रिय-प्रत्यक्षम्
+> एतद् +++(साक्षात्त्वम्)+++ इन्द्रिय-सापेक्षम्  
+अनपेक्षञ्च दृश्यते ।  
+अनपेक्षं स्वतः-सिद्धं +++(योगादिना)+++  
+दिव्यं चेति द्विधा मतम् ॥ १.२०॥
+
+इति [वेदान्त-कारिकावल्याम्](/rAmAnujIyam/tattvam/parichaya-sanxepAH/venkaTArya-vedAnta-kArikAvalI/sarva-prastutiH/01_pratyaxa-nirUpaNam)। 
+
+> योगि-प्रत्यक्षं प्रकृष्टादृष्टविशेष-जं युक्तावस्थायां मनो-मात्र-जन्यम् ।  
+> अ-युक्तावस्थायां तु बाह्येन्द्रिय-जन्यम् ।  
+दिव्य-प्रत्यक्षम् अपि  
+ईश्वर-प्रसाद-समधिगत-दिव्येन्द्रिय-जन्यम् एव ।
+
+इति व्याख्याता कृष्णमाचार्यः। 
+
+साधारणतया विषय-ज्ञानस्य साधनत्वेन नाङ्गीकृतम्, प्रत्युतापवादत्वेनैव।  
+पुनर् अलौकिक-प्रत्यक्षस्य सेन्द्रिय-प्रत्यक्ष-विरोधो न युक्तः,  
+अतीन्द्रियविषयेष्व् एवापवाद-वचने सामर्थ्यम्। 
+
 ## शब्द-व्याप्तिः
 शास्त्रैकगम्ये विषये  
 युक्तिः शास्त्र-वचनं न प्रतिषेद्धुम् अर्हति।  
@@ -121,6 +138,16 @@ title = "प्रमाणानि"
 नाप्य् अनुमानात् - तद् धि शीघ्र-जन्मागमिक-प्रत्यय-प्रक्षिप्त-प्रतिबन्धं  
 कथम् इव मन्थर-प्रवृत्ति प्रादुर्भवति ।
 
+## ब्रह्म-सूत्राणि
+श्रुतेर् अपेक्षया ब्रह्म-सूत्राणां निर्णायकत्वेन प्रामाण्यम् इति साम्प्रदायिकाः।  
+ब्रह्मसूत्रकारस्य गोचरत्वे ऽधुनानुपलभ्या अपि श्रुतयोऽवर्तन्तेति।
+
+(The purpose of the Brahmasutras is to establish the right interpretation of the Shruti; hence equal priority.)
+
+With clarity in the prameya-s in vedArthasangraha (or presumably shrI-bhAShya), there is almost no room for confusion when one encounters upaniShadic contradictions. So, it's natural that R didn't find a need to labor over that; and that his followers mostly feel the same. Yet, rangarAmAnuja, kUranArAyaNa etc.. have commented on some upaniShats.
+
+For S, BS does not resolve the upaniShadic contradictions (I heard that somewhere he clearly says/ implies that the sUtra-s have to be somehow interpreted in accordance with upaniShads - ie his bhAShya-s thereof).
+
 ## श्रुतिः
 श्रुतिः प्रमाणम्।  
 श्रुति-वाक्ययोर् विरोधे सति  
@@ -130,12 +157,8 @@ title = "प्रमाणानि"
 वेदस्य प्रामाण्यं शब्द-प्रमाणतमत्वं वा न तावद् अपौरुषेयत्वात्,  
 अपि त्व् आर्येषु शिष्टेषु प्रतिष्ठिततमत्वाद् इत्य् आह यामुन आगमप्रामाण्ये। 
 
-### ब्रह्म-सूत्राणि, उपनिषदः
+### उपनिषदः
 उपनिषदां काचिद् आवलिर् लभ्यते वैकुण्ठदीक्षितीये - [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/03_shAstra-nAma-nirUpaNam) ।
-
-With clarity in the prameya-s in vedArthasangraha (or presumably shrI-bhAShya), there is almost no room for confusion when one encounters upaniShadic contradictions. So, it's natural that R didn't find a need to labor over that; and that his followers mostly feel the same. Yet, rangarAmAnuja, kUranArAyaNa etc.. have commented on some upaniShats.
-
-For S, BS does not resolve the upaniShadic contradictions (I heard that somewhere he clearly says/ implies that the sUtra-s have to be somehow interpreted in accordance with upaniShads - ie his bhAShya-s thereof).
 
 ## स्मृतिः
 साधारणविचारो ऽन्यत्र द्रष्टव्यः। 
