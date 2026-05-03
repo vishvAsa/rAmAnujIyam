@@ -4,9 +4,19 @@ title = "वादे भावः"
 
 ## अनुज्ञातता
 शास्त्रविरोधो न वेति हि भगवदनुज्ञाया मानम्।  
-शाङ्करादिगर्वपातनं तु ब्रह्मकर्मैव।
+शाङ्करादि-गर्व-पातनं तु ब्रह्मकर्मैव।
 
-### परैर् अपि
+### पर-खण्डनापेक्षा
+> "इदानीं स्वपक्ष-रक्षणाय  
+परपक्षाः प्रतिक्षिप्यन्ते।  
+इतरथा कस्यचित् मन्द-धियः  
+तेषां पक्षाणां युक्त्य्-आभास-मूलताम् अजानतः  
+प्रामाणिकत्व-शङ्कया वैदिक-पक्षे किञ्चित् श्रद्धा-वैकल्यं जायेतापि,  
+अतः पर-पक्ष-प्रतिक्षेपाय अनन्तरः पादः प्रवर्तते"
+
+इति श्रीभाष्ये। 
+
+### स्व-पक्षय् अपि
 Respecting an AchArya does not mean accepting any canard he spreads, or imitating improper behavior. veda-s themselves make it clear - यान्यस्माकं सुचरितानि, तानि त्वयोपास्यानि, नो इतराणि। Your own AchArya-s admit that - so, you should endeavor to live up to such standards, rather than pretending to be some holy person despite violating this basic percept.
 
 
