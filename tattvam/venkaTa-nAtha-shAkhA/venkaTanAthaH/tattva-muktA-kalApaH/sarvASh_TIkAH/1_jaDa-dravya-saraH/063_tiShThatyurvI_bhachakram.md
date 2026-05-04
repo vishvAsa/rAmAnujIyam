@@ -225,7 +225,10 @@ Lack of experimentation, inadequate mechanics training.
 <details><summary>विश्वास-टिप्पनी</summary>
 
 गुरु-लघ्वोः सम-गत्या पतनम् अपि साधारण-प्रत्यक्ष-सिद्धं न वेद,  
-यद् गलिलियः सरल-प्रयोगेण ज्ञातवान् - [TW](https://en.wikipedia.org/wiki/Galileo's_Leaning_Tower_of_Pisa_experiment) ।
+यद् गलिलियः सरल-प्रयोगेण ज्ञातवान् - [TW](https://en.wikipedia.org/wiki/Galileo's_Leaning_Tower_of_Pisa_experiment) ।  
+"उपष्टम्भकादि-विशेषस्यानभ्युपगमात्" इति समनन्तर-वाक्यतः  
+वायूपष्टम्भम् उपेक्ष्येदम् उक्तं ज्ञायते।  
+वायूपष्टम्भकत्वं न वेदेति पृथग् दोषः। 
 </details>
 
 
