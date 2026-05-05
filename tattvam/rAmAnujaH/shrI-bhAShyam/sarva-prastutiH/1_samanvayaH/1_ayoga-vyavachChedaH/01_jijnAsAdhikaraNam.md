@@ -3266,8 +3266,7 @@ pleased thereby he goes to immortality'
 </details>
 
 
-#### कर्म-मीमांसापेक्षा
-
+#### कर्म-मीमांसापेक्षा ब्रह्म-मीमांसापेक्षेव
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च –  
@@ -3358,13 +3357,111 @@ We agree. But you will have to admit that for the very same reason we must under
 
 
 
-### साधन-चतुष्टयम्
+### ब्रह्म-जिनासयाऽलम्?
 
-ननु च – ब्रह्मजिज्ञासा यदेव नियमेनापेक्षते, तदेव पूर्ववृत्तं वक्तव्यम्। न धर्मविचारापेक्षा ब्रह्मजिज्ञासायाः, अधीतवेदान्तस्यानधिगतकर्मणोऽपि वेदान्तवाक्यार्थविचारोपपत्तेः। कर्माङ्गाश्रयाणि उगीथाद्युपासनान्यत्रैव चिन्त्यन्ते; तदनधिगतकर्मणो न शक्यं कर्तुम्, इति चेत् –
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## कर्मणो ज्ञानानङ्गत्वम्
+> ननु च – ब्रह्म-जिज्ञासा यद् एव नियमेनापेक्षते,  
+तद् एव पूर्ववृत्तं वक्तव्यम्।  
+न धर्म-विचारापेक्षा ब्रह्म-जिज्ञासायाः,  
+अधीत-वेदान्तस्यानधिगत-कर्मणोऽपि  
+वेदान्त-वाक्यार्थ-विचारोपपत्तेः। 
+</details>
 
-अनभिज्ञो भवान् शारीरकशास्त्रविज्ञानस्य। अस्मिन् शास्त्रे अनाद्यविद्याकृतविविधभेददर्शन-निमित्तजन्मजरामरणादि-सांसारिकदुःखसागरनिमग्नस्य निखिलदुःखमूलमिथ्याज्ञाननिबर्हाणाय आत्मैकत्वविज्ञानं प्रतिपिपादयिषितम्। अस्य हि भेदावलम्बि कर्मज्ञानं क्वोपयुज्यते? प्रत्युत विरुद्धमेव। उद्गीथादिविचारस्तु कर्मशेषभूत एव ज्ञानरूपत्वाविशेषादिहैव क्रियते। स तु न साक्षात्सङ्गतः। अतो यत्प्रधानं शास्त्रं, तदपेक्षितमेव पूर्ववृत्तं किमपि वक्तव्यम्॥
+<details><summary>English</summary>
+
+But--a further objection is urged--
+
+> as that which has to precede the systematic enquiry into Brahman we should assign something which that enquiry necessarily presupposes.  
+The enquiry into the nature of duty, however, does not form such a prerequisite,  
+since a consideration of the Vedanta-texts may be undertaken by any one who has read those texts,  
+even if he is not acquainted with works.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु च – ब्रह्मजिज्ञासा यदेव नियमेनापेक्षते, तदेव पूर्ववृत्तं वक्तव्यम्। न धर्मविचारापेक्षा ब्रह्मजिज्ञासायाः, अधीतवेदान्तस्यानधिगतकर्मणोऽपि वेदान्तवाक्यार्थविचारोपपत्तेः। 
+</details>
+
+#### उपासनोपदेशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कर्माङ्गाश्रयाणि उद्गीथाद्य्-उपासनान्य्  
+अत्रैव चिन्त्यन्ते;  
+तद्-अनधिगत-कर्मणो न शक्यं कर्तुम्, 
+
+इति चेत् –
+</details>
+
+<details><summary>English</summary>
+
+> But in the Vedanta-texts there are enjoined meditations on the Udgītha and the like which;uc matters auxiliary to works; and such meditations are not possible for him who is not acquainted with those works!--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्माङ्गाश्रयाणि उद्गीथाद्युपासनान्यत्रैव चिन्त्यन्ते; तदनधिगतकर्मणो न शक्यं कर्तुम्, इति चेत् –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनभिज्ञो भवान् शारीरक-शास्त्र-विज्ञानस्य। 
+</details>
+
+<details><summary>English</summary>
+
+You who raise this objection clearly are ignorant of what kind of knowledge the Śārīraka Mīmāṁsā is concerned with! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनभिज्ञो भवान् शारीरकशास्त्रविज्ञानस्य। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्मिन् शास्त्रे  
+अन्-आद्य्--अ-विद्या-कृत-- विविध-भेद-दर्शन-निमित्त-- जन्म-जरा-मरणादि-- सांसारिक-दुःख-सागर-निमग्नस्य  
+निखिल-दुःख-मूल-- मिथ्या-ज्ञान-निबर्हाणाय  
+आत्मैकत्व-विज्ञानं प्रतिपिपादयिषितम्। 
+</details>
+
+<details><summary>English</summary>
+
+What that śāstra aims at is to destroy completely that wrong knowledge which is the root of all pain, for man, liable to birth, old age, and death, and all the numberless other evils connected with transmigratory existence--evils that spring from the view, due to beginningless Nescience, that there is plurality of existence; and to that end the śāstra endeavours to establish the knowledge of the unity of the Self. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्मिन् शास्त्रे अनाद्यविद्याकृतविविधभेददर्शन-निमित्तजन्मजरामरणादि-सांसारिकदुःखसागरनिमग्नस्य निखिलदुःखमूलमिथ्याज्ञाननिबर्हाणाय आत्मैकत्वविज्ञानं प्रतिपिपादयिषितम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्य हि भेदावलम्बि कर्म-ज्ञानं क्वोपयुज्यते? प्रत्युत विरुद्धमेव। 
+</details>
+
+<details><summary>English</summary>
+
+Now to this knowledge, the knowledge of works--which is based on the assumption of plurality of existence--is not only useless but even opposed. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्य हि भेदावलम्बि कर्मज्ञानं क्वोपयुज्यते? प्रत्युत विरुद्धमेव। 
+</details>
+
+
+
+उद्गीथादिविचारस्तु कर्मशेषभूत एव ज्ञानरूपत्वाविशेषादिहैव क्रियते। स तु न साक्षात्सङ्गतः। अतो यत्प्रधानं शास्त्रं, तदपेक्षितमेव पूर्ववृत्तं किमपि वक्तव्यम्॥
 
 बाढम्; तदपेक्षितं च कर्मविज्ञानमेव, कर्मसमुच्चितात् ज्ञानादपवर्गश्रुतेः। वक्ष्यति च – सर्वापेक्षा च यज्ञादिश्रुतेरश्ववत् (ब्र.सू.३.४.२६) इति। अपेक्षिते च कर्मण्यज्ञाते केन समुच्चयः केन नेति विभागो न शक्यते ज्ञातुम्। अतस्तदेव पूर्ववृत्तम्॥
 
