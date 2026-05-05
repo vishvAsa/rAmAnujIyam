@@ -2088,8 +2088,8 @@ The purport of the entire Sūtra then is as follows: 'Since the fruit of works k
 
 </details>
 
-
-## ऐकशास्त्र्यम्
+## जिज्ञासोत्पत्ति-क्रमः
+### ऐकशास्त्र्यम्
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 ऐकशास्त्र्य-स्थापन-प्रयोजनानि - 
@@ -2528,8 +2528,8 @@ The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the 
 अस्त्वैकशास्त्र्यम् ; ब्रह्म-चिन्ता पूर्वं किं न स्यादित्यत्राह - मीमांसेति । संगतिविशेषाः वक्ष्यमाणाः - पाठक्रमः, चेतनानां त्रिवर्गे प्रथमं प्रावण्यरूपोऽर्थक्रमः, पदार्थवाक्यार्थभावः, दृष्टान्तदार्ष्टान्तिकभावः, उपजीव्योपजीवकभावश्च । एवं पौर्वापर्यनियामकसंगतिविशेषेण विशिष्टक्रमं क्रमविशेषवदित्यर्थः ।
 </details>
 
-## अध्ययनम्
-
+### अध्ययनम्
+#### विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि  
@@ -2541,6 +2541,18 @@ The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the 
 स्वाध्याय-शब्द-वाच्य-+++(स्व-शाखागत-)+++वेदाख्याक्षर-राशेर् ग्रहणं विधीयते   
 +++(न तद् अर्थपर्यन्तम् - रागतस् तत् प्राप्तम् इति)+++॥
 </details>
+
+<details><summary>English</summary>
+
+This is as follows.  
+At first the precept  
+
+> 'one is to learn one's own text (svādhyāya)' 
+
+enjoins the apprehension of that aggregate of syllables which is called 'Veda,'  
+and is here referred to as 'svādhyāya.'  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2564,11 +2576,17 @@ The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the 
 प्रथमं तावत् ; प्रथमत एव । प्राथम्योक्त्या शास्त्रान्तरेण साधनचतुष्टयसिद्ध्ययोगः फलितः । शास्त्रान्तराधिगमायोग्यदशापेक्षया प्राथम्यम् ; गर्भाष्टमोपनीतस्य ह्यध्ययनम् । अत एव अष्टवर्षम् इत्युक्तकालविशेषोऽप्युपनयनद्वाराध्ययनाङ्गमिति फलितम् । अनेनोपनयनस्याध्ययनाङ्गत्वं, स्वाध्यायविधिवाक्योपादानेनाध्ययनस्य स्वविधिप्रयुक्तत्वम्, अध्ययनेन इति निर्देशेन संस्कारविधित्वम्, एवकारेण नियमविधित्वं च द्योत्यते । अक्षरराशिमात्रस्य स्वाध्यायशब्दवाच्यत्वव्युदासाय वेदाख्य शब्दः । वेदाख्येत्यनेन कृत्स्नाध्ययनस्य विहितत्वमप्यभिप्रेतम् । न हि वेदैकदेशः स्वाध्यायशब्दार्थः । नासावर्थावबोधनपर्यन्तो विधिरित्यभिप्रायेण अक्षरराशिग्रहणमित्युक्तम् । विधेरक्षरग्रहणपर्यन्ततया अधीत्याभिसमावृत्य अधीत्य स्नायात् इत्यत्रार्थज्ञानस्य कर्मशेषत्वाभावेन ज्ञातव्यात्मनोऽवहन्तव्यव्रीह्यादिवत् कर्मशेषत्वाभावेन कर्मसु कर्तुर्जीवादन्यस्मिन्प्रमाणसंभावनया तद्विलक्षणेश्वरविचाररूपशास्त्रमारम्भणीयम् इति फलितमित्यभिप्रायः ।
 </details>
 
-
+#### नियमाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच्चाध्ययनं किंरूपं कथं च कर्तव्यमित्यपेक्षायाम्  
+तच् चाध्ययनं किंरूपं कथं च कर्तव्यम् इत्य् अपेक्षायाम्  
 </details>
+
+<details><summary>English</summary>
+
+Next there arises the desire to know of what nature the 'Learning' enjoined is to be, and how it is to be done. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2595,6 +2613,18 @@ The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the 
 
 इत्य् अनेन,
 </details>
+
+<details><summary>English</summary>
+
+Here there come in certain injunctions such as
+
+> 'Let a Brahnmana be initiated in his eighth year' 
+
+and
+
+> 'The teacher is to make him recite the Veda';
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2850,6 +2880,17 @@ The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the 
 चापेक्षितानि विधीयन्ते॥
 </details>
 
+<details><summary>English</summary>
+
+and certain rules about special observances and restrictions--  
+such as 
+
+> 'having performed the upākarman on the full moon of Śravaṇa or Praushṭḥapada according to prescription,  
+> he is to study the sacred verses for four months and a half--  
+> which enjoin all the required details.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 > श्रावण्यां प्रौष्ठपद्यां वा  
@@ -2861,6 +2902,7 @@ The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the 
 इत्यादिव्रतनियमविशेषोपदेशैश्चापेक्षितानि विधीयन्ते॥
 </details>
 
+#### स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सत्-सन्तान-प्रसूत--  
@@ -2870,8 +2912,14 @@ The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the 
 व्रत-नियम-विशेष-युक्तस्य  
 आचार्योच्चारणानूच्चारण-रूपम्  
 अक्षर-राशि-ग्रहण-फलम्  
-**अध्ययनम्** इत्य् अवगम्यते॥
+**अध्ययनम्** इत्य् अवगम्यते॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+From all these it is understood that the study enjoined has for its result the apprehension of the aggregate of syllables called Veda, on the part of a pupil who has been initiated by a teacher sprung from a good family, leading a virtuous life, and possessing purity of soul; who practises certain special observances and restrictions; and who learns by repeating what is recited by the teacher.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2879,30 +2927,438 @@ The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the 
 </details>
 
 
-## अध्ययनविधिः नियमविधिः
+#### संस्कारता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अध्ययनं च स्वाध्यायसंस्कारः, स्वाध्यायोऽध्येतव्यः
-(यजुरारण्यके.२.प्र.१५.अनु.) इति स्वाध्यायस्य कर्मत्वावगमात्। संस्कारो हि नाम कार्यान्तरयोग्यताकरणम्। संस्कार्यत्वं च स्वाध्यायस्य युक्तम्, धर्मार्थकाममोक्षरूपपुरुषार्थचतुष्टयतत्साधनावबोधित्वात्, जपादिना स्वरूपेणापि तत्साधनत्वाच्च।
+अध्ययनं च स्वाध्याय+++(-पाठ)+++-संस्कारः,  
 
-एवमध्ययनविधिर्मन्त्रवत् नियमवदक्षराशिग्रहणमात्रे पर्यवस्यति।
+> स्वाध्यायोऽध्येतव्यः (यजुरारण्यके.२.प्र.१५.अनु.) 
 
-## वेदार्थज्ञाने स्वतः प्रवृत्तिः
+इति स्वाध्यायस्य +++(अध्ययन-क्रियायां)+++ कर्मत्वावगमात्। 
+</details>
 
-अध्ययनगृहीतस्य स्वाध्यायस्य स्वभावत एव प्रयोजनवदर्थावबोधित्वदर्शनात्, गृहीतात्स्वाध्यायादवगम्यमानान् प्रयोजनवतोऽर्थानापाततो दृष्ट्वा तत्स्वरूपप्रकारविशेषनिर्णय-फलवेदवाक्यविचाररूप-मीमांसाश्रवणे अधीतवेदः पुरषस्स्वयमेव प्रवर्तते। तत्र कर्मविधिस्वरूपे निरूपिते कर्मणां अल्पास्थिरफलत्वं दृष्ट्वा अध्ययनगृहीतस्वाध्यायैकदेशोपनिषद्वाक्येषु चामृतत्वरूपानन्तस्थिर-फलापातप्रतीतेः तन्निर्णयफल-वेदान्तवाक्यविचाररूपशारीरक-मीमांसायां अधिकरोति।
+<details><summary>English</summary>
 
-## उक्तार्थस्य श्रुतिसिद्धता
+And this study of the Veda is of the nature of a saṁskāra of the text,  
+since the form of the injunction 'the Veda is to be studied' shows that the Veda is the object (of the action of studying). 
+</details>
 
-तथा च वेदान्तवाक्यानि केवलकर्मफलस्य क्षयित्वं ब्रह्मज्ञानस्य चाक्षयफलत्वं च दर्शयन्ति- तद्यथेह कर्मचितो लोकः क्षीयते, एवमेवामुत्र पुण्यचितो लोकः क्षीयते (छान्दोग्ये.८.१.६) अन्तवदेवास्य तद्भवति (बृ.५.८.१०) न ह्यध्रुवैः प्राप्यते (कठ.२.१०) प्लवा ह्येते अदृढा यज्ञरूपाः (मु.१.२.७) परीक्ष्य लोकान् कर्मचितान् ब्राह्मणो निर्वेदमायात् नास्त्यकृतः कृतेन तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत् समित्पाणिश्श्रोत्रियं ब्रह्मनिष्ठम्। तस्मै स विद्वानुपसन्नाय सम्यक्प्रशान्तचित्ताय शमान्विताय । येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम् । (मु.१.२.१२-१३) ब्रह्मविदाप्नोति परम् (तै.आनन्द.२.१अनु.१) न पुनर्मृत्यवे तदेकं पश्यति न पश्यो मृत्युं पश्यति (बृ.७.२६.२) स स्वराड् भवति (छां.७.२५.२) तमेवं विद्वानमृत इह भवति नान्यः पन्था अयनाय विद्यते (पु.सू.१७) पृथगात्मानं प्रेरितारं च मत्वा जुष्टस्ततस्तेनामृतत्वमेति (श्वे.१.६) – इत्यादीनि॥
 
-## कर्मविचारनैरपेक्ष्यशङ्का-समाधाने
+<details><summary>मूलम्</summary>
 
-ननु च – साङ्गवेदाध्ययनादेव कर्मणां स्वर्गादिफलत्वम्, स्वर्गादीनां च क्षयित्वं, ब्रह्मोपासनस्यामृतत्वफलत्वं च ज्ञायत एव। अनन्तरं मुमुक्षुर्ब्रह्मजिज्ञासायामेव प्रवर्तताम्; किमर्था धर्मविचारापेक्षा? एवं तर्हि शारीरकमीमांसायामपि न प्रवर्तताम्, साङ्गाध्ययनादेव कृत्स्नस्य ज्ञातत्वात्। सत्यम्; आपातप्रतीतिर्विद्यत एव, तथापि न्यायानुगृहीतस्य वाक्यस्य अर्थनिश्चायकत्वादापातप्रतीतोऽप्यर्थस्संशयविपर्ययौ नातिवर्तते; अतस्तन्निर्णयाय वेदान्तवाक्य-विचारः कर्तव्य इति चेत्; तथैव धर्मविचारोऽपि कर्तव्य इति पश्यतु भवान् ॥
+अध्ययनं च स्वाध्यायसंस्कारः,  
+स्वाध्यायोऽध्येतव्यः
+(यजुरारण्यके.२.प्र.१५.अनु.) इति स्वाध्यायस्य कर्मत्वावगमात्।
+</details>
 
-## इति सविमर्शः पूर्वाचार्यसम्मताद्यसूत्राक्षरव्याख्याघट्टः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**लघुपूर्वपक्षः**
+संस्कारो हि नाम कार्यान्तर-योग्यता-करणम्। +++(4)+++
+</details>
 
-## साधनचतुष्टयपूर्ववृत्तत्वप्रतिपादनाय भूमिका
+<details><summary>English</summary>
+
+By a saṁskāra is understood an action whereby something is fitted to produce some other effect; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संस्कारो हि नाम कार्यान्तरयोग्यताकरणम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संस्कार्यत्वं च स्वाध्यायस्य युक्तम्,  
+धर्मार्थ-काम-मोक्ष-रूप-- पुरुषार्थ-चतुष्टय-- तत्-साधनावबोधित्वात्,  
+जपादिना स्वरूपेणापि तत्-साधनत्वाच् च।
+</details>
+
+<details><summary>English</summary>
+
+and that the Veda should be the object of such a saṁskaāra is quite appropriate, since it gives rise to the knowledge of the four chief ends of human action--viz. religious duty, wealth, pleasure, and final release--and of the means to effect them; and since it helps to effect those ends by itself also, viz. by mere mechanical repetition (apart from any knowledge to which it may give rise).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संस्कार्यत्वं च स्वाध्यायस्य युक्तम्, धर्मार्थकाममोक्षरूपपुरुषार्थचतुष्टयतत्साधनावबोधित्वात्, जपादिना स्वरूपेणापि तत्साधनत्वाच्च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् अध्ययन-विधिर्  
+मन्त्रवन्-नियमवद्--अक्षर-राशि-ग्रहण-मात्रे पर्यवस्यति।
+</details>
+
+<details><summary>English</summary>
+
+The injunction as to the study of the Veda thus aims only at the apprehension of the aggregate of syllables (constituting the Veda) according to certain rules; it is in this way analogous to the recital of mantras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवमध्ययनविधिर्मन्त्रवत् नियमवदक्षरराशिग्रहणमात्रे पर्यवस्यति।
+</details>
+
+
+
+### स्वतो मीमांसा-श्रवणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अध्ययन-गृहीतस्य स्वाध्यायस्य  
+स्वभावत एव प्रयोजनवद्-अर्थावबोधित्व-दर्शनात्,  
+गृहीतात् स्वाध्यायाद् अवगम्यमानान् प्रयोजनवतो ऽर्थान् आपाततो दृष्ट्वा  
+तत्--स्व-रूप--प्रकार-विशेष-- निर्णय-फल-- वेद-वाक्य-विचार-रूप-- मीमांसा-श्रवणे  
+अधीत-वेदः पुरषस् स्वयम् एव प्रवर्तते। 
+</details>
+
+<details><summary>English</summary>
+
+It is further observed that the Veda thus apprehended through reading spontaneously gives rise to the ideas of certain things subserving certain purposes. A person, therefore, who has formed notions of those things immediately, i.e. on the mere apprehension of the text of the Veda through reading, thereupon naturally applies himself to the study of the Mimāṁsa, which consists in a methodical discussion of the sentences constituting the text of the Veda, and has for its result the accurate determination of the nature of those things and their different modes. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अध्ययनगृहीतस्य स्वाध्यायस्य स्वभावत एव प्रयोजनवदर्थावबोधित्वदर्शनात्, गृहीतात्स्वाध्यायादवगम्यमानान् प्रयोजनवतोऽर्थानापाततो दृष्ट्वा तत्स्वरूपप्रकारविशेषनिर्णय-फलवेदवाक्यविचाररूप-मीमांसाश्रवणे अधीतवेदः पुरषस्स्वयमेव प्रवर्तते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र कर्म-विधि--स्व-रूपे निरूपिते  
+कर्मणाम् अल्पास्थिर-फलत्वं दृष्ट्वा  
+अध्ययन-गृहीत-स्वाध्यायैक-देशोपनिषद्-वाक्येषु च  
+अ-मृतत्व--रूपानन्त-स्थिर-फलापात-प्रतीतेः  
+तन्-निर्णय-फल-- वेदान्त-वाक्य--विचार-रूप-- शारीरक-मीमांसायां अधिकरोति।
+</details>
+
+<details><summary>English</summary>
+
+Through this study the student ascertains the character of the injunctions of work which form part of the Veda, and observes that all work leads only to non-permanent results; and as, on the other hand, he immediately becomes aware that the Upanishad sections--which form part of the Veda which he has apprehended through reading--refer to an infinite and permanent result, viz. immortality, he applies himself to the study of the Sārīraka-Mīmāṁsā, which consists in a systematic discussion of the Vedānta-texts, and has for its result the accurate determination of their sense. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र कर्मविधिस्वरूपे निरूपिते कर्मणाम् अल्पास्थिरफलत्वं दृष्ट्वा अध्ययनगृहीतस्वाध्यायैकदेशोपनिषद्वाक्येषु चामृतत्वरूपानन्तस्थिर-फलापातप्रतीतेः तन्निर्णयफल-वेदान्तवाक्यविचाररूपशारीरक-मीमांसायां अधिकरोति।
+</details>
+
+
+#### कर्म-क्षय-श्रुतयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च वेदान्तवाक्यानि केवलकर्मफलस्य क्षयित्वं ब्रह्मज्ञानस्य चाक्षयफलत्वं च दर्शयन्ति-  
+तद् यथा - 
+</details>
+
+<details><summary>English</summary>
+
+That the fruit of mere works is transitory, while the result of the knowledge of Brahman is something permanent, the Vedanta-texts declare in many places--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च वेदान्तवाक्यानि केवलकर्मफलस्य क्षयित्वं ब्रह्मज्ञानस्य चाक्षयफलत्वं च दर्शयन्ति- 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तद् यथेह कर्मचितो लोकः क्षीयते,  
+> एवम् एवामुत्र पुण्य-चितो लोकः क्षीयते  
+> (छान्दोग्ये.८.१.६) 
+</details>
+
+<details><summary>English</summary>
+
+> 'And as here the world acquired by work perishes, so there the world acquired by merit perishes' (Cḥ. Up. VIII, 1,6); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्यथेह कर्मचितो लोकः क्षीयते, एवमेवामुत्र पुण्यचितो लोकः क्षीयते (छान्दोग्ये.८.१.६) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्तवद् एवास्य तद् भवति (बृ.५.८.१०) 
+</details>
+
+<details><summary>English</summary>
+
+> 'That work of his has an end' (Br̥. Up. III, 8, 10); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्तवदेवास्य तद्भवति (बृ.५.८.१०) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न ह्य् अ-ध्रुवैः प्राप्यते +++(ध्रुवम्)+++ (कठ.२.१०) 
+</details>
+
+
+<details><summary>English</summary>
+
+> 'By non-permanent works the Permanent **is not obtained**' (Ka. Up. I, 2, 10); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ह्यध्रुवैः प्राप्यते (कठ.२.१०) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्लवा ह्य् एते अ-दृढा यज्ञ-रूपाः (मु.१.२.७) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Frail indeed are those boats, the sacrifices' (Mu. Up. I, 2, 7); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्लवा ह्येते अदृढा यज्ञरूपाः (मु.१.२.७) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परीक्ष्य लोकान् कर्मचितान्  
+ब्राह्मणो निर्वेदम् आयात्।  
+नास्त्य् अ-कृतः कृतेन।  
+तद्-विज्ञानार्थं स गुरुम् एवाभिगच्छेत् समित्-पाणिश् श्रोत्रियं ब्रह्मनिष्ठम्।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+> 'Let a Brāhmaṇa, after he has examined all these worlds that are gained by works, acquire freedom from all desires. What is not made cannot be gained by what is made.  
+To understand this, let the pupil, with fuel in his hand, go to a teacher who is learned and dwells entirely in Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परीक्ष्य लोकान् कर्मचितान् ब्राह्मणो निर्वेदमायात् नास्त्यकृतः कृतेन तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत् समित्पाणिश्श्रोत्रियं ब्रह्मनिष्ठम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तस्मै स विद्वान् उपसन्नाय सम्यक्-प्रशान्त-चित्ताय शमान्विताय,  
+येनाक्षरं पुरुषं वेद  
+सत्यं प्रोवाच  
+तां तत्त्वतो ब्रह्मविद्याम् । (मु.१.२.१२-१३) 
+</details>
+
+<details><summary>English</summary>
+
+> To that pupil who has approached him respectfully, whose mind is altogether calm, the wise teacher truly told that knowledge of Brahman through which he knows the imperishable true Person' (Mu. Up. I, 2, 12, l3).  
+('Told' here means 'he is to tell.')
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मै स विद्वानुपसन्नाय सम्यक्प्रशान्तचित्ताय शमान्विताय । येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम् । (मु.१.२.१२-१३) 
+</details>
+
+#### अक्षय्य-ब्रह्म-श्रुतयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ब्रह्मविदाप्नोति परम् (तै.आनन्द.२.१अनु.१) 
+</details>
+
+<details><summary>English</summary>
+
+On the other hand, 
+
+> 'He who knows Brahman attains the Highest' (Taitt. Up. II, 1, 1); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> ब्रह्मविदाप्नोति परम् (तै.आनन्द.२.१अनु.१) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न पुनर् मृत्यवे तद् एकं पश्यति  
+न पश्यो मृत्युं पश्यति (बृ.७.२६.२) 
+</details>
+
+<details><summary>English</summary>
+
+> 'He who sees this does not see death' (Cḥ. Up. VII, 26, 2); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न पुनर्मृत्यवे तदेकं पश्यति न पश्यो मृत्युं पश्यति (बृ.७.२६.२) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स स्वराड् भवति (छां.७.२५.२) 
+</details>
+
+<details><summary>English</summary>
+
+> 'He becomes a self-ruler' (Cḥ. Up. VII, 25, 2); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स स्वराड् भवति (छां.७.२५.२) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तम् एवं विद्वान् अमृत इह भवति  
+नान्यः पन्था अयनाय विद्यते (पु.सू.१७) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Knowing him he becomes immortal here' (Taitt. Ār. III, 12, 7);  
+> 'Having known him he passes over death;  
+there is no other path to go' (Śvet. Up. VI, 15); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तमेवं विद्वानमृत इह भवति नान्यः पन्था अयनाय विद्यते (पु.सू.१७) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पृथग् आत्मानं प्रेरितारं च मत्वा  
+जुष्टस् ततस् तेनामृतत्वम् एति  
+(श्वे.१.६)  
+
+इत्यादीनि॥
+</details>
+
+<details><summary>English</summary>
+
+> 'Having known as separate his Self and the Mover,  
+pleased thereby he goes to immortality'  
+(Śvet. Up. I, 6).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पृथगात्मानं प्रेरितारं च मत्वा जुष्टस्ततस्तेनामृतत्वमेति (श्वे.१.६) – इत्यादीनि॥
+</details>
+
+
+#### कर्म-मीमांसापेक्षा
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च –  
+साङ्ग-वेदाध्ययनाद् एव कर्मणां स्वर्गादि-फलत्वम्,  
+स्वर्गादीनां च क्षयित्वं,  
+ब्रह्मोपासनस्यामृतत्व-फलत्वं च ज्ञायत एव।  
+अनन्तरं मुमुक्षुर् ब्रह्म-जिज्ञासायाम् एव प्रवर्तताम्;  
+किमर्था धर्म-विचारापेक्षा? 
+</details>
+
+<details><summary>English</summary>
+
+But--an objection here is raised--
+
+> the mere learning of the Veda with its auxiliary disciplines gives rise to the knowledge that the heavenly world and the like are the results of works, and that all such results are transitory, while immortality is the fruit of meditation on Brahman. Possessing such knowledge, a person desirous of final release may at once proceed to the enquiry into Brahman; and what need is there of a systematic consideration of religious duty (i.e. of the study of the Purva Mimāṁsā)? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ननु च – साङ्गवेदाध्ययनादेव कर्मणां स्वर्गादिफलत्वम्, स्वर्गादीनां च क्षयित्वं, ब्रह्मोपासनस्यामृतत्वफलत्वं च ज्ञायत एव। अनन्तरं मुमुक्षुर्ब्रह्मजिज्ञासायामेव प्रवर्तताम्; किमर्था धर्मविचारापेक्षा? 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं तर्हि शारीरक-मीमांसायाम् अपि न प्रवर्तताम्,  
+साङ्गाध्ययनादेव कृत्स्नस्य ज्ञातत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+--If this reasoning were valid, we reply, tin--person desirous of release need not even apply himself to the study of the Sārīraka Mīmāṁsā, since Brahman is known from the mere reading of the Veda with its auxiliary disciplines.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं तर्हि शारीरकमीमांसायामपि न प्रवर्तताम्, साङ्गाध्ययनादेव कृत्स्नस्य ज्ञातत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सत्यम्;  
+आपात-प्रतीतिर् विद्यत एव,  
+तथापि न्यायानुगृहीतस्य वाक्यस्यार्थ-निश्चायकत्वाद्  
+आपात-प्रतीतोऽप्य् अर्थस्  
+संशय-विपर्ययौ नातिवर्तते;  
+अतस् तन्-निर्णयाय वेदान्त-वाक्य-विचारः कर्तव्य 
+
+इति चेत्; 
+</details>
+
+<details><summary>English</summary>
+
+> True. Such knowledge arises indeed immediately (without deeper enquiry). But a matter apprehended in this immediate way is not raised above doubt and mistake. Hence a systematic discussion of the Vedānta-texts must he undertaken in order that their sense may be fully ascertained--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> सत्यम्; आपातप्रतीतिर्विद्यत एव, तथापि न्यायानुगृहीतस्य वाक्यस्य अर्थनिश्चायकत्वादापातप्रतीतोऽप्यर्थस्संशयविपर्ययौ नातिवर्तते; अतस्तन्निर्णयाय वेदान्तवाक्य-विचारः कर्तव्य इति चेत्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथैव धर्मविचारोऽपि कर्तव्य  
+इति पश्यतु भवान् ॥
+</details>
+
+<details><summary>English</summary>
+
+We agree. But you will have to admit that for the very same reason we must undertake a systematic enquiry into religious duty!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथैव धर्मविचारोऽपि कर्तव्य इति पश्यतु भवान् ॥
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति सविमर्शः पूर्वाचार्यसम्मताद्यसूत्राक्षरव्याख्याघट्टः॥
+</details>
+
+
+
+### साधन-चतुष्टयम्
 
 ननु च – ब्रह्मजिज्ञासा यदेव नियमेनापेक्षते, तदेव पूर्ववृत्तं वक्तव्यम्। न धर्मविचारापेक्षा ब्रह्मजिज्ञासायाः, अधीतवेदान्तस्यानधिगतकर्मणोऽपि वेदान्तवाक्यार्थविचारोपपत्तेः। कर्माङ्गाश्रयाणि उगीथाद्युपासनान्यत्रैव चिन्त्यन्ते; तदनधिगतकर्मणो न शक्यं कर्तुम्, इति चेत् –
 
