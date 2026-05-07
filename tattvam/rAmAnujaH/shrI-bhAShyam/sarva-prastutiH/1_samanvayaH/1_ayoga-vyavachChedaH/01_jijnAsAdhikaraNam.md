@@ -3466,7 +3466,7 @@ Now to this knowledge, the knowledge of works--which is based on the assumption 
 ज्ञान-रूपत्वाविशेषाद् इहैव क्रियते। 
 </details>
 
-<details><summary>मूलम्</ summary>
+<details><summary>मूलम्</summary>
 
 उद्गीथादिविचारस्तु कर्मशेषभूत एव ज्ञानरूपत्वाविशेषादिहैव क्रियते। 
 </details>
