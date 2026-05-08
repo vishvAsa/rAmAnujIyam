@@ -97,17 +97,16 @@ This is an inferior setup. The pratinidhi-s will have less incentive to locally/
 काञ्ची-पूर्ण इति वैश्य-सिद्धो देव-राज-सेवको ऽप्य् उपाकरोद् रामानुजम्।
 
 ### ब्रह्म-सूत्र-परम्परा
-वेदाः → वेद-व्यासो बादरायणः शारीरक-सूत्र-कृत् → बोधायनो "विस्तीर्ण"-वृत्तिकारः (अयम् एव शङ्करोक्तः पूर्वोत्तरमीमांसावृत्तिकार उपवर्ष इति कुप्पुस्वामी, वेङ्कटनाथश् च तत्त्व-टीकायाम्, नेति राममिश्रः। )।
+वेदाः → वेद-व्यासो बादरायणः शारीरक-सूत्र-कृत् → बोधायनो "विस्तीर्ण"-वृत्तिकारः (अयम् एव शङ्करोक्तः पूर्वोत्तरमीमांसावृत्तिकार उपवर्ष इति कुप्पुस्वामी, वेङ्कटनाथश् च तत्त्व-टीकायाम्, नेति राममिश्रः, प्रपञ्चहृदयम्, van buitenen च। )।
 
-छान्दोग्योपनिषत्, टङ्को ब्रह्मनन्दी वाक्यकारः → परिमित-गम्भीर-भाषी द्रमिडाचार्यो भाष्यकारः → गम्भीर-न्याय-सागर-भाषी श्रीवत्साङ्कमिश्रः।
+छान्दोग्योपनिषत्, टङ्को ब्रह्मनन्दी वाक्यकार आत्रेयः (नायं हंसयोगि-गीताभाष्योक्त-टङ्क इति van buitenen.) → परिमित-गम्भीर-भाषी द्रमिडाचार्यो भाष्यकारः (शङ्करेणापि छान्दोग्यय् उदाहृतः। भार्गवाख्य-ऋषि-पुत्रस् तिरुमळिसै इति कुप्पुस्वामी) → गम्भीर-न्याय-सागर-भाषी श्रीवत्साङ्कमिश्रः, वामनष् टीकाकारः।
 
-?? → गुहदेवष् टीकाकारः → कपर्दी → भारुचिः। 
-
-In the context of Brahma sutras Vrittikara = Bodhayana, Vakyakara = Tanka/Brahmanandi, Bhashyakara = Dramidacharya, Tikakara = Guhadeva
+?? → कपर्दी → भारुचिः। 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-कुप्पु-स्वाम्य्-अभिप्रायाः - [TW](/rAmAnujIyam/paramparA/articles/bodhAyana-dramiDAchAryau_kuppusvAmI) । 
+कुप्पु-स्वाम्य्-अभिप्रायाः - [TW](/rAmAnujIyam/paramparA/articles/bodhAyana-dramiDAchAryau_kuppusvAmI) ।  
+Van Buitenen-अभिप्रायाः - Source: [TW](/rAmAnujIyam/tattvam/rAmAnujaH/vedArtha-sangrahaH/meta/van-buitenen) ।
 
 Uttamur swami’s words, in the context of explaining chandogya passage of Kapyasa sruti - 
 

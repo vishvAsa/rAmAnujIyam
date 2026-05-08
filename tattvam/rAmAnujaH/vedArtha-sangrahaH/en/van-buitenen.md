@@ -1,3 +1,2353 @@
 +++
 title = "Van buitenen"
 +++
+
+## CONTENTS OF THE VEDARTHASAMGRAHA 
+
+### I. INTRODUCTION 
+§1. Invocation of Visnu. 
+§2. Dedication to Yamuna. 
+§3. Rāmānuja states his own position. 
+§4. Summary statement of the meaning of the Veda, 
+§ 5. Definition of the individual soul. 
+§ 6. Definition of the Supreme Soul as the inner Ruler,
+§7. The Advaitin's position stated. 
+§ 8. Bhaskara's bhedabheda position stated. 
+§ 9. Yadavaprakasa's bhedabheda position stated. 
+
+(i) Advaitavāda. 
+
+### II. REFUTATION OF RIVAL VEDANTA VIEWS 
+#### A. Contrary to the evidence of the Scriptures 
+§10. Chandogya Up. 6, 2 expounds that Brahman is the creator and 
+possesses various qualities. 
+[[ $11.|§ 11.]] Objection: the tenor of ChUp. 6, 2 is clearly non-dualistic.
+§ 13. The promissory assertion proves that there is an 'all' to know. 
+§§ 13-21. Exegesis of ChUp. 6. 
+§§ 13-14. The meaning of adeśa and the consequent meaning of the pratijñā. 
+§15. The meaning of the dṛṣṭānta. 
+§16. ChUp. 6, 2, 1 states that Brahman is the universal cause: the 
+true meaning of sad eva. 
+§ 17. Brahman ensouls the jiva which ensouls matter: all words 
+denote Brahman ultimately. 
+§ 18. Brahman as the Universal soul; the meaning of tat tvam asi 
+suggested. 
+§19. The sense of aitadätmya; the meaning of tat tvam asi established.
+[[ $ 20.|§ 20.]] The meaning of tat tvam asi developed. 
+§ 21. Objection to Brahman as denoted by all words; restatement. 
+§ 22. Siddhānta of ChUp. 6: the Universe ensouled by Brahman is 
+real. 
+§ 23. Initial statement on the meaning of the 'mahāvākyani': they do 
+not prove an undifferentiated Brahman,[[P178]]
+
+[[ $24.|§ 24.]] Objection: Brahman is undifferentiated knowledge; refutation: 
+Brahman is not knowledge but knower. 
+§ 52. The Advaitin's view of the relation between perception and 
+need for lakṣaṇā. 
+§ 26. The meaning of the sämänädhikaranya construction. 
+[[ $27.|§ 27.]] Language cannot be a pramana for a non-differentiated entity. 
+No word can denote an entity without qualities. 
+§ 28. § 29. The Advaita view of svayamprakāśatva involves a contradiction. 
+§30. Perception cannot prove a non-differentiated entity; indetermi- nate perception perceives difference of a generic nature; the bhedabheda view of double essence untenable. 
+§31. ChUp. 6, 1, 4 explained: the meaning of the expression 
+vācārambhana. 
+§§ 32-33. The tenor of ChUp. 6 restated in outline 
+- 
+the identity of the material and operative cause-qualities implied in ChUp. 6, 
+2, 1. 
+[[ $ 34.|§ 34.]] ChUp. 6 denies the asatkaryavāda; the relation cause-effect. 
+§35. The effect as a new entity is inconceivable. 
+§ 36. The Advaitin's suggestion that ChUp. 6 denies the 'baseless error' 
+of the Buddhists is rejected and turned against him. 
+§37. The qualities denoted by the 'mahāvākyāni". 
+[[ $ 38.|§ 38.]] The meaning of neti neti and neha nänāsti kimcana. 
+§ 39. Conclusion: śruti does nowhere refer to a non-differentiated 
+entity. 
+
+#### B. Contrary to the evidence of Reason 
+§ 40. The view that knowledge is Brahman's essence and yet is 
+obscured by Nescience is untenable. 
+§ 41. Objection: the Advaitin turns the same argument against 
+Rāmānuja. 
+§ 42. Summary of Ramanuja's views. 
+§ 43. Knowledge is not the essence but an essential property, not 
+excluding the possibility of obscuration. 
+[[ $44.|§ 44.]] The theory of Nescience involves Brahman Himself in 
+Nescience. 
+§ 45. The Advaitin's view that all is unreal disproves the ekajīvavāda. 
+§ 46. Nescience can never be terminated. 
+[[ $47.|§ 47.]] The terminating knowledge can never be terminated itself. 
+§ 48. The terminating knowledge must have Brahman's essence for 
+its agent. 
+§ 49. Sruti being different from Brahman and hence unreal cannot 
+validly bear on Brahman. 
+§ 50. The Advaitin's analogy of the dream invalidated,[[P179]]
+
+§ 51. Like the sunyavādin the mithyāvādin has no pramāņa to prove 
+his point. 
+§ 52. The Advaitin's view of the relation between perception and 
+scripture rejected. 
+§ 53. The true relation explaine 
+
+(ii) Bhaskara's bhedabhedavāda. 
+
+[[ $ 54.|§ 54.]] Summary condemnation of the upadhi theory as conflicting 
+with Scripture. 
+§ 55. The analogy of main space and enclosed space stated and 
+rejected. 
+§ 56. The analogy of main space locally determined as the auditory 
+sense stated and rejected. 
+§ 57. Space is not at all determined as the auditory sense. 
+
+(iii) Yadavaprakasa's bhedabhedavāda. 
+
+58. Summary condemnation of the bhedabheda theory as violating 
+Scripture. 
+§ 59. God's functional identity with the world stated and rejected. 
+§ 60. God's difference accepted, provided it be in body-soul relation. 
+§ 61. Difference and non-difference are mutually exclusive. 
+§ 62. They cannot properly be stated in terms of generic non- 
+difference and individual difference. 
+§63. Class is a mode of an individual entity. 
+§ 64. Conclusion. 
+
+### III. ELABORATION OF GENERAL PRINCIPLES 
+
+(i) Brahman is the Cause. 
+
+§ 65. All evidence of Scripture shows, by sämānādhikaranya, that 
+Brahman is modified by the Universe of soul and matter. 
+[[ $66.|§ 66.]] Consequently this Universe of soul and matter being His modus 
+is real. 
+§ 67. The objection that an independently existing substance cannot 
+be a modifying quality answered. 
+§ 68. Résumé. 
+§ 69. Brahman being the immanent cause is not different from his 
+effects. 
+[[ $70.|§ 70.]] Objection: as material cause Brahman must be subject to 
+change, which is unscriptural. 
+§§ 71-74. Reply: Brahman is the material cause but only his modus is 
+subject to change.[[P180]]
+
+§ 71. Puruşa or individual soul is not subject to change in its essence. 
+§ 72. Prakyti or matter is eternal and subject to change. 
+§ 73. The terms prakṛti and purusa refer to God in so far as He is modified by them. 
+§74. Brahman is cause or effect as His modes of matter and soul 
+are either in their subtle or in their gross phases. 
+
+(ii) Brahman is saririn, the Universe is sarira. 
+
+§ 75. God can be referred to by finite terms in a way analogous to 
+that in which terms of body refer to the soul. 
+§76. For God's relation to the world is analogous to the soul's rela- 
+tion to the body. 
+§ 77: Selected scriptural evidence. 
+[[ $ 78.|§ 78.]] The central doctrine of the Scriptures comprehensively stated. 
+§ 79. Individual souls are essentially equal to one another. 
+§ 80. These souls are declared to be accessory to and dependent on God. 
+§81. They overcome samsara by resorting to God who is modified 
+by diversity. 
+§ 82. God's essential simplicity is not incompatible with an infinite 
+complexity of forms. 
+
+(iii) Harmonious interpretation in these terms of seemingly conflicting 
+statements in scripture. 
+
+§ 83. The various scriptural statements do not exclude but comple- 
+ment one another. 
+[[ $ 84.|§ 84.]] The method of primary and harmonious interpretation. 
+§ 85. The harmony is the harmony of soul and modifying form. 
+§ 86. Not the knowledge of exclusive identity but that of inclusive unity in difference leads to salvation. 
+§ 87. The objection that this conflicts with such identity statements 
+as tat tvam asi refuted and scriptural eclecticism exposed. 
+§ 88. The ancient Masters support this interpretation of the sadvidya. 
+§ 89. The objection that the assumption of an antaryamin denies the 
+moral responsibility of the acting person raised. 
+[[ $ 90.|§ 90.]] And refuted: the antaryamin instigates a person only to those 
+acts for which he has a self-created predisposition. 
+§ 91. Bhakti is arrived at by the performance of one's own dharma 
+and of devotional and religious works. 
+§ 92. God is only to be attained through bhakti. 
+§ 93. This is the ancient and traditional teaching of Vedanta, which 
+is a norm of orthodoxy.[[P181]]
+
+(iv) Illustration of the principles of harmonious exegesis. 
+
+§ 94. Authority of the Puranas depending on the quality of their age of provenance: Purānas glorifying Visnu are sättvika. 
+§ 95. Apparent contradictions in infallible Scripture to be removed 
+by correct exegesis: illustration. 
+§§ 96-102. Systematic exposition of the illustration showing Nārāyaṇa's 
+paramountcy. 
+[[ $96.|§ 96.]] Comparison of texts of different säkhās. 
+[[ $97.|§ 97.]] Nārāyana's paramountcy declared in Taittiriya Aranyaka 10, 
+1, 3 and 3, 13, 1. 
+§ 98. And elaborated in TaittAr. 10, 11, 1. 
+§ 99. This paramount Nārāyaṇa is the object of meditation. 
+§ 100. Sambhu- refers to Nārāyana. 
+§ 101. Mahāpuruṣaprakarana states Nārāyaṇa's paramountcy. 
+§ 102. Résumé of the meaning of the texts shown to form one context. 
+[[ $103.|§ 103.]] Meaning of the expression "Sovereign of OM". 
+§ 104. Divinities declared to be 'supreme' as Nārāyana's manifesta- 
+tions. 
+§ 105. Advaitic explication of the daharavidyā untenable. 
+§ 106. It declares that God's qualities are to be sought after. 
+§ 107. God's multiple manifestations His sport. 
+§ 108. The sense of a seemingly contrary Atharvaśiras passage. 
+
+(v) Miscellaneous discussions. 
+
+§ 109. No difference admissible between material and operative cause. 
+§ 110. Evidence from epic and Visnupurana adduced. 
+[[ $111.|§ 111.]] Divergent puranic versions to be studied in the light of the 
+principles of § 94. 
+§ 112. Trimurti a manifestation of God. 
+§ 113. Can a perfect God ensoul an imperfect world? 
+§ 114. The manner in which the Sutras declare God's paramountcy. 
+§ 115. Brahmā is a kṣetrajña. 
+
+(vi) Refutation of basic theories of the Prabhakaras. 
+
+§116. Language not primarily understood by the action taken on it. 
+§ 117. Even granted the Prabhakara view, still sabda can bear on 
+Brahman. 
+[[ $118.|§ 118.]] Arthavada and mantra not less significative than vidhi. 
+[[ $119.|§ 119.]] Critique of the Prabhakara view of kārya. 
+§ 120. And of the doctrine of niyoga. 
+§ 121. The relation principal - accessory. 
+[[ $122.|§ 122.]] This relation stated in terms of God and Universe.[[P182]]
+
+§ 123. Critique of the Prabhakara theory of niyojya. 
+§ 124. The apurva theory untenable: God is propitiated, and grants fruits, through the gods. 
+§ 125. The result is directly, and not per assumption, known from the 
+injunction. 
+§ 126. Conclusion: all acts are propitiations of the Supreme God. 
+
+(vii) God has a body and qualities. 
+
+[[ $127.|§ 127.]] Description of God's qualities and scriptural evidence for it. 
+§ 128. The existence of eternally free souls: the evidence is admissible. 
+[[ $129.|§ 129.]] Three meanings of paramam padam. 
+§ 130. God's essence is hidden to man because of his karman. 
+§ 131. The immaterial Supreme Heaven of the sūris. 
+[[ $132.|§ 132.]] God's qualities: satyakāma and satyasamkalpa. 
+§ 133. Smärta evidence for God's body. 
+§ 134. Lyrical evocation of Chandogya Up. 1, 1, 6. 
+[[ $135.|§ 135.]] Vakya and Bhasya ad hiranmaya- 
+§ 136. This śruti as definitive as satyam jñānam anantam brahma. 
+
+(viii) Veda in its entirety preterhuman and hence veridic. 
+
+§ 137. Denotativeness inherent in sabda, not conventional. 
+§ 138. Sabda is pramāna in its own right. 
+§ 139. Preterhuman origin of Veda. 
+§140. Summing-up of the demonstrated scriptural doctrine that God is modified by His body the Universe and as such is its immanent cause. 
+
+(ix) Bhakti. 
+
+§ 141. Description of bhakti as an apex-form of loving consciousness. 
+§ 142. Discussion of the beatitude of this absolute love. 
+[[ $143.|§ 143.]] Subservience does not exclude beatitude. 
+§ 144. The Beatific Vision is only possible through bhakti. 
+[[ $145.|§ 145.]] Concluding stanza. 
+
+## TRANSLATION
+
+§ 1. Homage to the Principal to whom all spiritual[^183_1] and non-spiritual[^183_2] entities are accessory;[^183_3] Who reposes on Seșa,[^183_4] and Who is the treasury of immaculate and infinite beautiful qualities:[^183_5] Visnu.[^183_6]
+
+[^183_1]: 1. cit- "spiritual order of the Universe, sum-total of individual atmans," generally said of the evolved product of individualized souls, as against purusa- "the spiritual order" in its subtle, i.e., causal state (cf. infra $140). I prefer the rendering 'spiritual' to THIBAUT'S 'sentient' since strictly speaking sentiency is of matter, not of spirit. 
+
+[^183_2]: 2. acit- "non-spiritual order, material or physical component of the Universe," con- stituting the corporeal counterpart of cit to which it is subservient. 
+
+[^183_3]: 3. sesin "principal element to which other elements are accessory," especially the Supreme in relation to the orders of cit and acit which are sesa "accessory" to him in the sense that they are subservient to him, totally and inseparably dependent on him, serving his eminence. Cf. infra § 122 evamisvaraga tätisayädhänecchayopadeyatvam.. sarvasya vastunaḥ svarupam. This relation of principal-accessory is the counterpart of that of body-soul (sarirasariribhava) or mode-modified (prakaraprakäribh.) the first esp. under the aspect of the Supreme, the latter two under the aspect of the subject orders. 
+
+[^183_4]: 4. 'pun' (rather 'comparison/equation of the two concepts denoted by one term') on 1. the serpent Ananta-Seşa, 2. the subject orders of cit and acit. It would follow from R.'s exposition (§ 132) of the Supreme's entourage (śrī, paramavyoman etc.) as forming part of His essence (svarupa-) that strictly speaking Ananta too belongs to this essence and not to the orders of sesa. "This 'pun' is borrowed from Yamuna, Stotraratna 39-40 taya (sc. śriya) äsinam anantabhogini.. sarirabhedais tava šeşatan ("servitude") gatair yathocitam sesa ititare janaih. In the second sense sesaśayin- means "who resides (as the inner ätman) in the subservient orders of cit and acit." 
+
+[^183_5]: 5. kalyana (sc. guna-), the Supreme's six perfections (säḍguṇyam) jñāna, šakti, bala, virya (also dhairya), aiśvarya, tejas. R. does not explain himself on the relation of these gunas mutually (for traditional definitions see SCHRADER, Pañçaratra 32 sqq.; YID. vii); originally qualities somehow related to some aspect of the complex diviniy of Visnu (virya- "heroism" in his Vedic exploits and avataras, cf. GONDA, Early Visnuism, 118 sqq.-bala "id.", cf. also SvetUp. 6, 8 svabhäviki jñānabalakriya ca; saketi cf. VP. 6, 7, 60 sqq.-tejas "solar splendour") their number was apparently fixed at an early date (cf. VP. 6, 5, 79) and, reinterpreted, they played a role in the Pañcarātra doctrine of the Vyuhas, cf. SCHRADER, O.C., 34. 
+
+[^183_6]: 6. Visnu- name rarely used by R. for the Supreme (invariably named Nārāyaṇa) here employed for the double purpose of stating at the outset R.'s Vaisnava persuasion and of suggesting God's all-pervasiveness: viṣṇu- vyāpin/vyapaka-, cf. e.g. GBH. 11, 24 (rt. vis-) or/and his entering into the subject orders as their inner Ruler (antaryä- min-) (rt. vis- cf. ChUp. 6, 3, 2-3). This mangala sums up the fundamentals of R.'s doctrine. 
+
+§ 2. May the Sage[^183_7] Yamuna[^183_8] prosper: He has dispelled the bewildering obscurity of ignorance which, albeit contrary to revelation and[[P184]]
+
+[^183_7]: 7. muni- invariably defined atmanananasila-, enlarged on SBh. 4, 4, 46 (Th. 710) idam ca maunam Sravanapratisthärthän mananad arthäntarabhūtam upāsanālambanasya punah punaḥ samsilanam tadbhāvanārupam "this mauna ('muni-hood') is something dif- ferent from mere reflection on the basis of scriptural instruction: it is the repeated men- tal representation of the very object of worshipful meditation itself, so that it grows upon the mind." 
+
+[^183_8]: 8. YAMUNA (dravidicè ALAVANDAR), [[teachers's|teacher's]] teacher of R., attacks in his Siddhi- traya the theses of SANKARA and BHASKARA. On R.'s relation cf. Introd. III, 
+
+reason, has spread all over the world: such errors[^184_9] as the view that the Supreme Brahman, being nescient and afflicted with misconceptions, is impli- cated in samsara; or that the Supreme Brahman is liable to adventitious limiting adjuncts[^184_10] that are different from itself,[^184_11] and as such is subject to karman; or that the Supreme Brahman itself is the abode of imperfection.[^184_12]
+
+[^184_9]: 9. Resp. the advaitin's and the two types (Bhaskara and Yadavaprakasa) of bheda- bhedavadin's positions, summarized and refuted below. 
+
+[^184_10]: 10. upadhi- "non-essential element or factor adjoined to the pure form (svarūpa-) of an entity which is thereby delimited and conditioned. 
+
+[^184_11]: 11. para "other", showing the insoluble dualism ultimately fundamental to bhe- dabhedavāda.[^184_12]: 12. aśubha- or heya-, opp. of kalyana-, "imperfect, affected by the various limi- tations etc., due to karman to which souls are subject. 
+
+§3. The only meaning which is to be found in the most important part of the whole body of śrutis,[^184_13] which set forth what is blissful for the entire Universe, is as follows:[^184_14] True knowledge of the individual soul[^184_15] and of the Supreme Spirit,[^184_16] applied to the obligations imposed[^184_17] by the various dharmas pertaining to each stage and station of life,[^184_18] are to precede pious and humble acts of devotion for and meditation on the Supreme Spirit-acts held extremely dear[^184_19] by the devotee that ultimately result in the attain- ment of the Supreme Spirit.[^184_13]: 13. ie., the upanisads or Vedanta.[^184_14]: 14. This sums up the three stages of the one road from transmigration in bondage (samsara-) to the ultimate attainment of perfect bliss; corresponds completely to the three paths-jñāna, karma, bhakti of the Gita as interpreted by R. See my Rāmānuja etc. Intr. 19 sqq. 
+
+[^184_15]: 15. jivātman-"the individualized atman in natural conjunction with (samsṛta- "created jointly with", generally "related to, having a relation") the body." 
+
+[^184_16]: 16. paramatman-"God as the atman beyond the individual ätman, as the atman's inner ätman," connoting both God's transcendence and immanence. 
+
+[^184_17]: 17. itikartavyata, for the meaning of this term, cf. MNPr. § 126. dhyana- "con- templation inspired by love" synonymous with bhakti- and upasana-; arcana- esp. "wor- ship of God's image". 
+
+[^184_18]: 18. Station and stage of life varṇāśrama: varna- "social order founded on reli- gious law" rather than "(sociological) class"-drama- the ideal life-periods of brahma- carin "boy initiated into religiously founded society"; grhastha-"pater familias, keeper of the fire"-vanaprastha-"retired from public life"-samnyasin "retired from all social and marital life." 
+
+[^184_19]: 19. R. frequently emphasizes the fact that the loving devotion to God is an act which in itself is extremely dear to the devotee and, as an entirely disinterested mental act, is its own reward. Cf. Ved. § 141-144. 
+
+§ 4. In truth, all declarations of the Vedanta are meant to set forth the knowledge of the proper form[^184_20] and nature of the individual soul which are[[P185]]
+
+[^184_20]: 20. svarupa- "proper form" (where 'form' is the principle of individuality, cf. nama- rupa-), free from adventitious adjuncts but (for R.) possessed of essential properties; svabhava- "this essential form in the process of being and becoming with and through its essential qualities." 
+
+different from the body;[^185_21] the proper form and nature of the Supreme Spirit who is the inner Ruler of the soul;[^185_22] the worship of the Supreme Spirit; and the apprehension of Brahman as perfect boundless bliss which presupposes the revelation of the proper form of the soul that results from the worship of the Supreme Spirit.[^185_23] By setting forth all this the declarations of the Vedanta serve to remove the danger of rebirth which is inevitable since it results from the misconception[^185_24] of the individual soul that it is identi- cal itself with that one of the four types of bodies-sc. gods, from Brahma onwards, — men — animals- inanimate beings, into which it has entered by the impulsion of the continuous flow of good or evil karman amassed during ageless ignorance.[^185_25]
+
+[^185_21]: 21. Note R.'s definition of body: yasya cetanasya yad dravyam sarvātmanā svärthe niyantum dhārayitum ca sakyam taccheṣataikasvarupam ca tat tasya sariram iti sarira- lakṣaṇam dstheyam SBh. 2, 1, 9; cf. LACOMBE, ASV. 108 sqq.; Proceedings, All-India Conf., 1946.[^185_22]: 22. antaryāmin- "God as the immanent principle directing and guiding the soul in its actions in the same way as the soul directs the body;" term from Antaryami- brāhmaṇa (BAUp. 3, 7, 22) in the madhyamdina recension, which reads ya atmani tisthann antaro 'tmanah, etc.; on this difference cf. SBh. 1, 4, 27; 2, 3, 19.[^185_23]: 23. For it is by dedicating all actions to God (BhG. 18, 46) and devoting himself entirely to God (cf. GBh. 2, 61 sqq.) that a person is able to shed the bonds of karman and realize, i.e., recognize, his soul for what it is in essence. 
+
+[^185_24]: 24. abhimana- "misconception (lit. "prejudice, bias, self-centred opinion") that the aloof atman is identical with the body which, with the psychological functions of ahamkara "subjectifier", constitutes the empirical ego that is mistaken for the ätman, Cf. also K. C. VARADACHART'S paper on abhimana in Ramanuja's Theory of Knowledge.- There has never been a paradisiac period before the "Fall" (jnanabhramsa, pañcaratric term); samsara has existed from all eternity; for the corresponding eternity of souls that are never implicated in samsara, the nityas or suris, cf. infra § 128.--For the way in which the atman's unlimited knowledge is contracted (samkucita-) to the scope of a body-bound soul, see infra. 
+
+[^185_25]: 25. Sharply to be distinguished from Sankara's avidya (always rendered "nescience"), R.'s "ignorance" is a real factor which is not some undefinable shadow of the absolute but a concrete lack of knowledge in the samsaric being of the funda- mental autonomy of its individual atman as a spiritual entity of unlimited knowledge subject to the supreme Spirit. As the advaitin takes knowledge as the essence, nescience takes on a completely different, ultimately inexplicable character; whereas for R. who considers knowledge a property of a substance (dharmabhūtajñāna-) ignorance has its limited and definable scope of action. On this point see infra § 43. Besides, whereas the cessation of nescience, however conceived, is for the advaitin equal to the summum bonum, the self-realisation/self-recognition of the individual atman in the Samkhyan sense is for R., although doubtless release, but the next step to the supreme goal of attaining God. 
+
+Such declarations are met with in śrutis like "Thou art That,[^185_26] this soul is Brahman,[^185_27] He who, although residing in the soul, is different from that soul, whom the soul does not know, whose body is the soul, and who directs the soul from within, He is the immortal inner Ruler of thy soul,[^185_28] He is the inner soul of all beings, free from all evil, the divine and sole God Narayana,[^185_29] 'tis He whom the Brahmans aspire to know by repeating the Vedas, by sacrifice, charity, mortification and fasting,[^185_30] he that knows Brah- man attains the Most-High,[^185_31] he that knows this is immortal: there is no other way to tread,"[^185_32] and so on and so forth. 
+
+[^185_26]: 26. tat tvam asi ChUp. 6, 9, 4, etc. 
+
+[^185_27]: 27. ayam ātma brahma MandUp. 2.[^185_28]: 28. yä ätmani tisthann etc. BAUp. 3, 7, 22 (Madhyamdina recension) 
+
+[^185_29]: 29. sa eşa sarvabhutantaratma SubalUp. 7. 
+
+[^185_30]: 30. tam etam vedanuvacanena etc. BAUp. 4, 4, 22. 
+
+[^185_31]: 31. brahmavid äpnoti param TaittUp. 2, 1 
+
+[^185_32]: 32. SvetUp. 3, 8. 
+
+§ 5. The proper form of the soul is free from all various differentia- tions consisting in the distinctions that are brought about by the natural evolution[^185_33] of prakṛti into the bodies of gods, men, etc. In essence it is only characterized by knowledge and beatitude. When these differentia- tions of god, man, etc., which have been brought about by the karman of the soul-have vanished[^185_34] there persists a differentiation in its proper form[^185_35]; it is beyond the power of expression and can only be known by the soul itself. So the soul can only be defined as essentially knowledge; [^185_36] and this essential nature is common to all souls.[^185_37][[P186]]
+
+[^185_33]: 33. parinama- "the effectuation of an entity which has the same degree of being as its material cause" (cf. e.g. the definition in Vedantaparibhasa I parināmo nāmopādā- na sama sattākakäryäpattiḥ); on the parināmavāda see Intr. I. 
+
+[^185_34]: 34. S. is unquestionably right in quoting as R.'s references the slokas ekasvarūpa- bhedo hi bahyakarmāvṛtiprajah/devadibhede 'padhvaste nasty evavārno hi saḥ//VP. 2, 14, 33 "the differentiation in the actually undifferentiated proper form has its origin in the obscuration caused by karman that is extrinsic to the proper form; so when those differentiations of god etc. have disappeared, there is no obscuration left," (also quoted SBh. 1, 1, 1, p. 81 in similar context), and pratyastamitabhedam yat sattämätram agoca- ram/vacasāmātmasamvedyam taj jñānam brahmasamjñitam // VP. 6, 7, 53 (where brahma- =ātma-), discussed in detail $Bh. 1, 1, 1, p. 69 sqq. and explained in my paper The Subhasrayaprakarana etc.[^185_35]: 35. svarupabheda- "essentially distinct as an individual, having essentially distinct individualities." 
+
+[^185_36]: 36. jñānasvarupamityetävannirdesyam cannot be taken to mean that that the atman is pure knowledge, but that the knowledge characteristic for the atman is a svarupani- rupanadharma "an attribute describing the proper form," cf. infra § 43; the tenet that jñana is an attribute, not the essence, is fundamental to R.'s doctrine. SUDARSANACHARI in his ed., traces jñanasvarupam to VP. 1, 4, 40, but this st. refers to the Supreme Spirit. I would rather connect it with 6, 7, 53 yat sattāmātram taj jñānam brahmasamjnitam, interpreted SBh. 1, 1, 1, p. 69 atmanaḥ svarupam jñanasattaikalaksanam. 
+
+[^185_37]: 37. R. endorses the Samkhya view that there is an infinite number of atmans which although mutually distinguished, all have the same generic structure (äkära-) of un- restricted knowledge. 
+
+§ 6. The proper form of the inner Ruler is as follows: He is the sole cause of the cessation of samsara, which itself consists in the origination, subsistence and dissolution of the phenomenal worlds[^186_38] constituted by the above spiritual and non-spiritual entities. His proper form is therefore dis- tinct from all entities other than Himself, since He is absolutely opposed to all evil and comprises solely infinite perfection. His beautiful qualities are immeasurable, perfect and innumerable. He is known in the entire Veda under the various designations of Soul of all[^186_39] the Supreme Brah- man,[^186_40] Supreme Glory,[^186_41] Supreme Principle,[^186_42] Supreme Spirit,[^186_43] Real Being,[^186_44] etc., all of which denote the Venerable Lord[^186_45] Nārāyaṇa,[^186_46] Supreme Person.[^186_47] The śrutis are meant to set forth his manifestation,[^186_48] they expound the universal dominion of the Supreme Spirit as the inner Soul of the totality of spiritual and non-spiritual entities by expressions like His power,[^186_49] His portion,[^186_50] His manifestation,[^186_51] His form,[^186_52] His body,[^186_53] His shape,[^186_54] etc., and by samānādhikaranya[^186_55] constructions.[[P187]][^186_38]: 38. prapanca-is the completely evolved phenomenal Universe of matter ensouled by spirit in the gross (sthula-) phase of effect. 
+
+[^186_39]: 39. sarvātmā SvetUP. 3, 21. 
+
+[^186_40]: 40. param brahma TaittUp. 2, 12 
+
+[^186_41]: 41. param jyotih ChUp. 8, 3, 4.[^186_42]: 42. param tattvam ChUp. 6, 2, 1. 
+
+[^186_43]: 43. paramātmā BAUp. 3, 1, 1. 
+
+[^186_44]: 44. sat ChUp. 6, 2, 1. 
+
+[^186_45]: 45. bhagavan, for the meaning of the term cf. the discussion JRAS 1910-12; cf. also R.'s quotation of VP. 6, 5, 73 sqq. infra. 
+
+[^186_46]: 46. nārāyaṇa- for R. the name of the Supreme Personal being par excellence, one aspect of whom is denoted by Visnu as the all-pervading supporter of the Universe, cf. infra §§ 99 ff. 
+
+[^186_47]: 47. purusottama-, term frequently used in the Gita denotes the Supreme as a spiri- tual being transcending the puruşa or order of individuals souls constituting his higher prakṛti (the oft-cited passage Gītā 7, 4, sq.). 
+
+[^186_48]: 48. vaibhava- "the totality of God's vibhutis, his divine manifestation in the pheno- menal world of matter and spirit." 
+
+[^186_49]: 49. Sakti parasya saktir vividhaiva śruyate SvetUp. 6, 8.[^186_50]: 50. amsa- mamaivamso jivaloke G. 15, 7; cf. MaitrUp. 5, 2. 
+
+[^186_51]: 51. vibhuti G. 10, 7 etc. PraśnUp. 5, 4. 
+
+[^186_52]: 52. rupa-:.ekam rūpam bahudha yaḥ karoti KathUp. 5, 12. 
+
+[^186_53]: 53. sarira Antaryamibrahmana BAUp. 3, 7, 3-22. 
+
+[^186_54]: 54. tanu tasyaiṣa ātmā vivṛṇute tanum svām KathUp. 2, 23.[^186_55]: 55. sämänädhikaranya- grammatical term: community of case relation of two or more words; logical: coordination of the two (or more) terms in a judgment: the lotus is blue etc. Term defined (infra § 26) bhinnapravṛttinimittānām sabdānām ekasminn arthe vyttik "the bearing on one sense of more words with different reasons for their application". The stock-example is the 'mahāyākya' tattvamasi discussed in detail infra § 20 
+
+§ 7. While attempting to explain these sämānādhikaranya construc- tions, etc., which in fact only propound Brahman's manifestation, some phi- losophers contend[^188_56] that Brahman is nothing but non-differentiated know- ledge. Although it is eternally released and by its very nature self- illuminating, it is identical with the individual soul; this identity is con- cluded from sāmānādhikaranya constructions such as Thou art That. Ac- cordingly Brahman Itself is nescient and as such may be in bondage as well as released. The entire Universe, with its infinite variety of Sovereign Lord, submissive souls etc., is false, for it is different from pure non-differentiated spirituality. The distinction that one soul is in bondage and the other soul is released cannot be made at all. It is false that some souls have attained release before: only one single body has an indwelling soul and all other bodies have no souls at all; but which body that is cannot be positively determined. The preceptor who imparts knowledge is false, the person who has correct knowledge of the sastra[^188_57] is also false. All this is to be gathered from the sastra, which is false itself. 
+
+[^188_56]: 56. Summary of advaita school.[^188_57]: 57. pramatā. 
+
+§ 8. Others[^188_58] occupy a different position and hold that Brahman, though having all perfections like freedom from evil etc.,[^188_59] is-because of the conception of identity-afflicted with some sort of adjunct, so that He may be alternatively in bondage or in released state and is consequently the abode of evolution which takes the form of various imperfections. 
+
+[^188_58]: 58. Summary of the BHASKARA school of bhedabhedavāda. 
+
+[^188_59]: 59. apahatapapma etc. ChUp. 8, 7, 1. 
+
+§ 9. Others again, describing the exact nature of the conception of identity, maintain that Brahman-ocean of incomparable and immeasurable noble qualities which belong to its nature is in essence at once distinct and indistinct with regard to all spiritual beings-divine, human, animal, inanimate, infernal, celestial and released, and thus the abode of evolution in the form of all kind of imperfections proper to ether, etc.[^188_60] 
+
+[^188_60]: 60. Summary of the YADAVAPRAKASA school of bhedabhedavāda. 
+
+II 
+
+§ 10. [[Philosopher|Philosophers]] who have pondered over the true meaning of the śruti have pointed out a number of errors in the first school which cannot be explained away.[^188_61] As a matter of fact, the śruti passage from "It wished: I be many; I will multiply"[^188_62] to "all these creatures, my dear son,[[P189]]
+
+[^188_61]: 61. Here starts R.'s refutation of advaitavada: first it is shown that the doctrine of absolute non-duality is contradicted by śruti, §§ 10-39. 
+
+[^188_62]: 62. tad aikṣata bahu syam prajayeyeti ChUp. 6, 2, 3 sanmuläḥ somyemäḥ etc.. ChUp. 6, 8, 4; this entire context is the theme of §§ 10-22. 
+
+have their roots in real being; therein they have their abode and their foundation," expounds that the origination, subsistence and resorption etc. of the world are due to the will of Brahman, to whom the word It, indi- cative of the topic under discussion, refers. 
+
+Besides, all the perfect attributes which according to other contexts belong to Brahman, those multitudes of immeasurable, perfect and in- numerable perfections like omniscience, omnipotence, universal sovereignty, his being modified by all, unequalled and unsurpassed, having all desires materialized and every will realized,[^189_63] and being all-illuminat- ing, as well as his absolute freedom from evil as is proved by countless expressions like He, who is free from sin,[^189_64] etc.,-all those perfec- tions are done with in this school. 
+
+[^189_63]: 63. satyakāma- (explained infra §132) and satyasamkalpa- from ChUp. 8, 7, 1. 
+
+[^189_64]: 64. apahatapāpma ChUp. 8, 7, 1. 
+
+[[ $11.|§ 11.]] -But, it may be objected, at the very beginning this śruti as- serts, by stating that knowledge of all can be had through knowledge of one,[^189_65] that only the cause has reality. By adducing the instance of the clay[^189_66] it shows that the One, being the cause, is real whereas all transformations have no reality. In the śruti my dear son, this real being was alone in the beginning and without a second,[^189_67] all distinctions, whether homogeneous or heterogeneous, are denied reality, and it is set forth that Brahman, to whom this "real being" refers, is non-differentiated. In other contexts the so-called purifying statements[^189_68] do also declare that Brahman is absolutely opposed to all distinction: e.g. Brahman is truth, knowledge, infinite,[^189_69] He is whole, inactive, unqualified,[^189_70] He is knowledge and bliss,[^189_71] etc. Our conception of the essential simplicity of Brahman does not imply that these words are all synonymous: even when applied to the simplicity of an entity all words retain their peculiar meanings inasmuch as they establish the absolute opposition of that entity to all distinctions.[^189_72][^189_65]: 65. ie... adeśam.. yena.. avijñātam vijñātam ChUp. 6, 1, 3. 
+
+[^189_66]: 66. ie. yāthā somyaikena mrtpindena etc. ChUp. 6, 1, 5. 
+
+[^189_67]: 67. sadeva somyedamagra äsidekamevädvitiyam ChUp. 6, 2, 1.[^189_68]: 68. sodhakāni vakyāni, śruti statements like the ones summed up below (niskalam nişkriyam etc.) which, acc. to the advaitin, purify the Supreme Brahman of all differen- tiating qualities, and, acc. to R., of all imperfect qualities.[^189_69]: 69. satyam jnanamanantam brahma TaittUp. 2, 1; see infra §§ 28, 3 f.[^189_70]: 70. R. must have had in mind SvetUp. 6, 19 niskalam niskriyam santam niravadyamt nirañjanam; cf. also AdhyatmUp. 62 nirgunam nişkriyam sükṣmam etc. 
+
+[^189_71]: 71. cf. BĂUp. 4, 9, 3 vijnānam anandam brahma. 
+
+[^189_72]: 72. ie., no quality can be attributed to Brahman. In other words: the above terms niskala etc. do not express perfect qualities as R. would have it, but deny for Brahman each quality negatively denoted by them. Cf. SANKARA TaittUpBh. 2, 1, viseṣanarthavattve 'pi satyādinām svarthäparityāya eva...... satyadyair arthavattve tu tadviparitadharma-vadbhyo višesyebhyo brahmano višeṣyasya niyantṛtvam upapadyate; for a discussion see Intr. IV. 
+
+§ 12. -My reply to this is: No! If everything is false, then it cannot be reasonably held that all can be known when the One is known, for the simple reason that there is no "all" to know.[^190_73] Or else it would follow that truth and falsity are identical. On the other hand, the assertion that we can know all by knowing the One is only tenable in case that "all" has reality of its own by having the One for its soul. 
+
+[^190_73]: 73. The assertion (pratijña, term from BrS. 1, 4, 23) that there is someone or some- thing (for R. the personal adeśa-) yena (sc. vijñatena) avijñātam vijnātam presupposes the reality of that which is vijñātam, i.e. the effected Universe (by analogy of the example yathaikena mṛtpindena sarvam mṛnmayam vijñātam syāt). This very text poses the satkāryavāda (cf. 6, 2, 2 katham asataḥ saj jayeta) so that here the identity is urged of the first cause and the effected Universe. If the advaitin holds that the Universe is 'false (mithya) as against brahman 'true' (satyam) there are two alternatives 1. there is no assertion at all but mere tautology: if the one is known the one is known; 2. if that is not accepted this means that the false is equated, with the true. 
+
+§ 13. The true meaning of our śruti is this: "He said to Svetaketu: 'Stabdho 'sy uta tam adeśam aprākṣyaḥ","[^190_74] that is 'you seem to be an ac- complished scholar; now, have you questioned your teachers about the ādeśa?' ādeśa- means "he who exercizes ādeśa"; this adeśa is synonymous with prasāsana- "command";[^190_75] in agreement with the śruti it is by the com- mand[^190_76] of that imperishable being, O Gārgi, that the sun and the moon stand apart;[^190_76] similarly in Manu's expression: sarvesām prasāsitāram[^190_77] "the Commander of all". In the context under discussion it is propounded, by the use of the words ekam eva,[^190_78] that He is also the material cause. And since the word advitiyam denies that there was another operator[^190_79] as well, it is thereby declared that that sole One is also the operative cause. 
+
+Therefore the sentence runs like this: "Have you asked about that Commander, who is also the material cause of the world, by whom, when heard-of, known and realized, the unheard of is heard-of, the unknown is[[P191]][^190_74]: 74. ChUp. 6, 1, 3.[^190_75]: 75. adisyate 'nenetyādeśaḥ/adeśaḥ prasasanam: adesa in the sense of adestr- with internal object ädesa- prasāsana- "command"; cf. SBh. 1, 4, 23, p. 385 in the same con- nexion adisyate prasisyate 'nenetyādeśaḥ sadhakatamatvena karta vivaksitaḥ/ tama- destaram aprakṣyaḥ etc.[^190_76]: 76. etasya va akṣarasya prasāsane etc. BAUp. 3, 8, 9. 
+
+[^190_77]: 77. Manu 12, 122. 
+
+[^190_78]: 78. In sadeva somyedam agra asid ekam evādvitiyam, acc. to R. (infra § 33) to be construed idam prapañcam agre sad asit "the Universe was at the beginning real"; consequently ekam eva states that there is only one material cause and advitiyam that there was no second, that is efficient or operative, cause; cf. ŚBh. 2, 1, 15 p. 441 in the same connexion sarvasaktitvenādhisthätrantaräsahatayädvitiyam ca. 
+
+[^190_79]: 79. On adhisthäty cf. my remarks Intr. L....VEDARTHASAMGRAHA 
+
+known and the unrealized is realized?" The meaning which the father has in mind is this: "Have you heard of Brahman, who is the cause of the origination, subsistence and resorption etc. of the entire Universe and who is an ocean of noble qualities without end such as omniscience and the power of having all his desires materialized and his every will realized?” The father bears tacitly in mind the knowledge that the entire Universe, as it is an effect, is known by the knowledge of Brahman Himself whose body is constituted by spiritual and non-spiritual entities in subtle state in which they are cause, just because He is the universal cause it being said that the cause is the effect in all its variety of configurations;[^191_80] and remaining silent about this knowledge he asks his son: - by whom the unheard-of is heard-of, the unknown is known and the unrealized is realized. 
+
+The son does not know the particular knowledge his father has in mind, viz. the knowledge that the One is the cause of all entities. Still he understands that when two entities are different the knowledge of one pro- duces no knowledge of the other. So he raises the objection: Sir, how can such an adeśa be?[^191_81] 
+
+[^191_80]: 80. In R.'s Samkhyan cosmogony the phenomenal world of matter and spirit evolves out of causal substances in which the physical and spiritual orders are contained in a subtle state, the ätmans as purusa, yet still mutually distinguishable, not merged in a primeval spirit, and in matter as prakṛti, an amorphous mass not yet individualized by names-and-forms.[^191_81]: 81. katham nu bhagavaḥ sa adešo bhavatiti ChUp. 6, 1, 4. 
+
+§ 14. When this objection is put to him, the father imparts to his son the knowledge that he has in mind and he declares that all is known when the One is known: the One whose proper form is purely knowledge, bliss and perfection, whose greatness is immeasurable, who possesses bound- less, unequalled and countless perfections, e.g. the power of having his every will realized, and who essentially is not subject to transformations:[^191_82] that is, the Supreme Brahman Himself, whose body is constituted by spiri- tual and non-spiritual entities in subtle state, i.e. not individualized by names and forms. This is the One who, by his own free will and for the[[P192]]
+
+[^191_82]: 82. vikara-general name for the 'alterations" (for R. without the pejorative con- notation often going with the term) that are brought about in an material object in the process of evolution, and in the knowledge of a spiritual entity in the process of 'egoti- zation' (here the pejorative value is evident), viz. the contraction of his originally and essentially unlimited knowledge; cf. SBh. 2, 3, 18 svarupanyathābhāvarupavikāraḥ: viya- däder ncetanasya yadrso 'nyathabhavo na tādṛśo jivasya / .. cidamsasya ca karmaphala- visesabhoktṛtvaya tadanurupajñānavikäsarūpavikāro bhavati. The Supreme Being is free from either vikara of essence or vikära of property. 
+
+sake of his own sport,[^192_83] constitutes with a portion[^192_84] of Himself the peculiar structure of the world with all its infinite variety of animate and inanimate beings in which it consists. 
+
+[^192_83]: 83. lila: the important conception of God's sport is best understood by its opposite karman-, It contains a free action (an action not resulting from a preceding action in an endless retrogressive succession) performed to no purpose at all: no purpose that of necessity would result in new phalas for the agent to enjoy or to suffer. Hence it is compared to the literally inconsequential playfulness of a child (cf. VP. 1, 2, 18, quoted infra § 42). In creating, sustaining and resorbing the world God has no cause to effectuate and no end to achieve.[^192_84]: 84. amsa- 
+
+§ 15. With a view to explain this point that the One—as described above when known makes everything known, the father adduces an example drawn from common experience in order to illustrate that cause and effect are not different from each other: yatha somyaikena mṛtpindena sarvam mrnmayam vijñātam syad vācārambhanam vikāro namadheyam mrttikety eva satyam,[^192_85] that means: "a single substance of clay can be transformed into various structures, conditions and forms-jug, bowl etc.- so that within itself it includes diverse practical purposes. Yet, although it may assume diverse denominations, it is an established fact that it remains the same substance clay and does not become another substance for it remains differentiated by the structural peculiarities[^192_86] of clay. So it is possible through the knowledge of one lump of clay to know all that is differentiated by the same structural peculiarities of clay-jugs, bowls and the like."[^192_85]: 85. ChUp. 6, 1, 4.[^192_86]: 86. samsthäna- "generic structure of an entity by which it can be classified under a group with a class-name"; cf. SBh. 1, 1, 1, p. 32 tavataiva gotvädijätivyavaharopapatter atirekavāde 'pi samsthanasya sampratipannatvac ca samsthanam eva jätiḥ samsthanam nāma svāsādhāraṇarupam iti yathavastusamsthanam anusamdheyam. See LACOMBE, ASV, 97-98; SINHA, Indian Psychology: Perception, p. 49 f. 
+
+§ 16. The son does not know that Brahman is the sole cause of the entire Universe, so he asks: Sir, you must tell me what that is.[^192_87] Then the father expounds that Brahman Himself, the omniscient and omnipotent, is the universal cause: he says: sad eva somyedam agra äsid ekam evād- vitiyam. Here the word idam denotes "the world"; agra- means "the time before creation"; and with sad eva it is declared that during that time before creation the world was essentially sat. He means to say that at the very time of its creation the world was still non-differentiated: so in ekam eva he states that the world that was in the state of sat was at that time not yet[[P193]]
+
+[^192_87]: 87. bhagavamstv eva me tad bravitu ChUp. 6, 1, 7, 
+
+differentiated into names-and-forms.[^193_88] By this same exposition it is made clear that sat is the material cause of the world; now the word advitīyam denies that there was still another cause, or an operative cause, different from that material cause. 
+
+[^193_88]: 88. namarupa- "principle of individuality of an entity that evolves out of its subtle into its gross state." For the history of this interesting term I refer to MARYLA FALK's often speculative account in Namarupa and Dharmarupa. 
+
+§ 17-a. Then the father proceeds to develop in a lucid manner what he had tacitly borne in mind before in the passage: Have you asked about that adeśa by whom the unheard-of is heard-of etc., namely that the Com- mander or Operator Himself is the material cause. So he says: "That sat, which Itself is at once the material and the operative cause of the world, tad aikṣata bahu syam prajāyeyeti": that means: "That Supreme Brahman, denoted by the word tad, who is omniscient and omnipotent and has his every will realized and all his desires materialized, decided nonetheless, for the sake of his own sport: "I be many in the form of a world composed of an infinite variety of spiritual and non-spiritual beings; to that purpose I will multiply." He then created the primordial elements-ether etc.[^193_89] out of a single portion of Himself. Then again this Supreme Deity, denoted by the name sat,[^193_90] aikṣata hantäham imās tisro devatāḥ anena jivenāt- manānupraviśya nāmarüpe vyākaravāṇīti:[^193_91] by using the expression anena jivenātmanā he declares that the living soul is itself ensouled by Brahman and points out that all non-spiritual matter becomes padartha[^193_92] when the[[P194]][^193_89]: 89. Note that R. has creation start with ākāśa or viyat "ethereal space", the first of the 5 'classical' elements of matter (mahābhūtāni), whereas the pre-Samkhyan or proto- Samkhyan process described in ChUp. 6, knows only three elements, tejas, apas and anna resp. (tat tejo 'srjate etc. 6, 2, 3) cf. my remarks Intr. I. Though R. does not explain himself there is no doubt that he, as S. suggests, takes tejas- 'pradarśanartham' "by way of illustrative instance" (cf. also RENOU, Terminologie s.v.) denoting implicitly all or some other terms and concepts of the series to which it belongs (for a few examples taken from GBh. see my Rāmānuja etc. 37). In the SBh., in the viyadadhikarana (2, 3, 1 sqq.) this interpretation is enlarged upon. S. in ChUpBh. 6, 2, 3 explains similarly. S.'s remark śribhāṣye mahadaderapi pradarsanartham ityuktam refers to SBh. 2, 3, 14 mahädadikäryänämapi tattadanantaravastusarirakaḥ sa eva purusottamaḥ karanam, so that the tejas of ChUp, not only implies the two preceding mahäbhūtāni (ākāśa- and vayu-) but also the preceding evolution of the functions mahat, ahamkara etc. 
+
+[^193_90]: 90. i.e. the sat of 6,2, 1 sad eva somya etc. 
+
+[^193_91]: 91. ChUp. 6, 3, 2. 
+
+[^193_92]: 92. Only after Brahman has entered with the embodied soul (jivātman- supra note 15) into the "three deities" (the three elements tejas-, apas, anna-)=5 mahā- bhūtāni prakrti) the final stage of creation has been reached: the prakṛti with the ensouled spirit is particularized in objects with class-names: padartha- "the object denoted by the name," "class" "rubric of existent entities", that is, prakṛti has become the empirical world of discourse. 
+
+living soul ensouled by Brahman enters into it, and that then all substance 
+assumes name.[^194_93]
+
+[^194_93]: 93. R. describes" padartha- here as nämabhaj-. 
+
+b. In other words: the individual soul is itself ensouled by Brahman, for the soul is a modification of Brahman because it constitutes His body, as appears from another śruti: whose body is the soul etc. The non- spiritual entities in the generic structures of a god, a man etc. are modifi cations of this same individual soul-which is a modification of Brahman him- self-because they constitute the soul's body. Consequently all these entities are ultimately ensouled by Brahman. Hence follows that all words which have a definite denotative value owing to the combination of the radical element[^194_94] with a suffix,[^194_95] e.g. god, man, yakṣa, rākṣasa, cow, game, fowl, tree, creeper, wood, rock, grass, jug, cloth etc., actually denote the entire composite entity: the body, the individual soul represented by it,[^194_96] and finally the inner Ruler of. that soul, the Supreme Person in whom that entity termi- nates. All words denote this entire compositum by merely denoting the material mass which has a certain generic structure that is commonly known as being denoted by a certain word. 
+
+[^194_94]: 94. vastu most-general term for "thing", often a totality: acidvastu-/ cidvastu- "sum-total of non-spiritual/spiritual entities". 
+
+[^194_95]: 95. prakṛti- "verbal and nominal radical element" cf. RENOU, Terminologie s.v. 96. pratyaya "verbal and nominal affix (case-ending, personal ending, verbal present tense affix), cf. RENOU, O.C., S.V[^194_96]: 97. tadabhimanijiva- for this use of. Sribhäsya 4, 2 20 kalasabdah kalabhimani- devatãtivähikaparaḥ Gitabhāṣya 8, 23 atra kalasabdo.. kalabhimanidevatabhūyastaya margopalaksanarthah. 
+
+§ 18. Then the father sets forth in some detail that sat is the material cause, the operative cause, the substratum, the controller and the principal[^194_98] of the entire phenomenal world of spiritual and non-spiritual entities: sanmulaḥ somyemaḥ prajaḥ sadayatanaḥ satpratisthaḥ[^194_99] etc. Thereafter the father proceeds to declare that because of the relation cause-effect, etc., the entire Universe being ensouled by Brahman is real. aitadatmyam idam sarvam tat satyam. Finally the assertion that Brahman is the soul of all as He is the soul of the entire Universe, that this entire Universe constitutes His body and that He therefore, as He is modified by the in- dividual soul, can be denoted by the word tuam, this assertion is now sum- med up and applied to one specific individual soul in the statement tat tvam asi.[^194_100][[P195]]
+
+[^194_98]: 98. sesin- supra note 3.:[^194_99]: 99. ChUp. 6, 8, 4; sat as the material cause is mula; as operative cause dyatána (apparently from 4-YAT- "making efforts, exerting energy"). 
+
+[^194_100]: 100. ChUp. 6, 8, 7, 
+
+[[ $ 19.|§ 19.]] In other words, in the above statement aitaḍātmyam idam sarvam tat satyam[^195_101] the words idam sarvam refer to the phenomenal world of spiritual and non-spiritual entities. Thus is declared that esa,[^195_102] or "He", is the soul of this phenomenal world, so that this śruti sets forth that Brahman ensouls the evolved phenomenal world. 
+
+Now the question calls for consideration whether Brahman ensouls the world in a soul-body relation, or is essentially identical with the world.[^195_103] When it is supposed that Brahman is essentially identical with the world, this would mean that Brahman's perfections, such as we gathered from the beginning of the context tad aikṣata bahu syām prajayeyeti: for instance that He is satyasamkalpa,[^195_105] are thereby sublated. Besides, we have already learnt particularly from another śruti that He ensouls the world by consti- tuting the soul of the world as a body, sc. from antaḥpravistaḥ sastā janā nām sarvātmā,[^195_106] i.e. “having entered into all mankind as its soul in the form of its controller," and consequently sarvātmā "the soul of all who form his body." Similarly also the śruti ya atmani etc.[^195_107] The passage under discussion, anena jivenātmanā etc., tells us the same, as we have already pointed out. 
+
+Therefore, since all spiritual and non-spiritual entities constitute Brahman's body, Brahman being thus embodied and modified by all; is denoted by all words. Hence the sāmānādhikaranya construction tat tvam denotes Brahman as "the One who is modified by the individual soul inasmuch as this soul constitutes his body'. 
+
+[^195_101]: 101. ChUp 6, B, T. 
+
+[^195_102]: 102. esa in aitaḍātmya-. 
+
+[^195_103]: 103. The word aitadätmya- admits of two interpretations: "whose "essence" is that" and "whose 'soul' is that": the Universe has Brahman for its essence, ie. Br. is identical with the world; or: it has Him for its soul, i.e., Br. ensouls the world as the atman ensouls the body.[^195_105]: 105. This satyasamkalpatua (supra note 63) "the quality of having His every will realized" is exclusively the attribute of the omnipotent Creator who is not subject to the limitations and conditions of the created world; it is what Dramida (Appendix Fr. XV) styles a daivata guna. 
+
+[^195_106]: 106. TaittAr. 3, 11. 
+
+[^195_107]: 107. BAUp. 3, 7, 22 (M.). 
+
+§ 20. When this is said the sense of the statement tat tvam asi beomes clear, tvam means "you, i.e. you that were previously held to be no more than the operator of a certain body are in reality a modification of the Supreme Spirit because you constitute his body, and therefore you termi- nate in this Supreme Spirit [and are incapable of separate existence and activity"[^195_108]. Hence team denotes only the inner Ruler of team as differentiat-[[P196]][^195_108]: 108. manuscript Me adds here an important expression which may conveniently be explained here: pṛthaksthitipravṛttyanarha- "incapable of subsisting and working inde- pendently", also prthaksiddhyanarha- "incapable of functioning independently (of a sub- stratum)", is said of a quality in relation to its substance and consequently, since the individual soul constitutes a prakara of the Supreme, also of the soul in relation to its Lord. 
+
+ed by the mode tvam. Since Brahman is the soul of the embodied in- dividual soul (cf. the śruti anena jivenātmanānupraviśya, nāmarūpe vyākara- vāni),[^196_109] He has the same name as that individual soul. It follows that both words tat and tvam, coordinated in a sāmānādhikaranya construction, denote that one Brahman. The word tat refers to Brahman as the One who is the cause of the world, the abode of all perfections, the immaculate and untransmutable[^196_110] One; whereas tvam refers to that same Brahman under the aspect of inner Ruler of the individual soul as being modified by the embodied soul. So it is said that the words tat and tvam both apply to the same Brahman but under different aspects.[^196_111] And in this manner all the various perfections of Brahman, e.g. that he is the perfect, untransformed abode of all beautiful qualities and the universal cause, are preserved and no one is sublated. 
+
+[^196_109]: 109. ChUp. 6, 2, 3. 
+
+[^196_110]: 110. niravadya-; this upanisadic term (SvetUp. 6, 19), here specified nirvikārya-, is very frequently used by R. to describe God's absolute freedom from all imperfection, equivalent to another frequent expression samastaheyapratyanika- "opposed to all imper- fection". nirvikärya: only the Supreme Being is in no sense subject to vikaras, neither in His essence, like prakṛti, nor in His attribute, like the atman; cf. supra note 82 and the passages quoted there.[^196_111]: 111. Cf. the definition of samānādhikaranya quoted supra note 55. 
+
+§ 21. Laymen[^196_112] who have not received the instruction of the Vedanta do not see that all padarthas and all individual souls are ensouled by Brahman, and they think that the full meaning of all words is completely exhausted by the various padarthas they denote, which, however, form only part of their full significance. Now that they have heard what the Vedanta declares they know that Brahman is the soul of everything because it is His effect and He is its inner Ruler and that every word denotes Brahman as modified by everything. 
+
+But, it is objected, would that not mean that the original meaning[^196_113] of words like cow etc. as denoting specific padarthas is sublated? 
+
+No: When we elucidated the śruti namarupe vyäkaravani we had occasion to say that all words denote the Supreme Spirit only in so far He is differentiated by the non-spiritual matter and the individual soul. Uninstructed laymen might think when they utter a certain word that the[[P197]][^196_112]: 112. Here the suggestion of $17 that all language ultimately denotes the Supreme is taken up and developed in a polemical manner, 
+
+[^196_113]: 113. vyutpatti- "analytical explication of a word as deriving from a certain root with a certain meaning". 
+
+meaning of that word terminates completely in the material component of the entity denoted, which after all is only part of its full significance, and they would think so because the Supreme Spirit, who is the principal com- ponent of its meaning, is beyond the empirical means of knowledge.[^197_114] Only when the instruction of the Vedanta is imparted, the proper significance of a word is presented in full measure. 
+
+In this way all Vedic words denote their proper meanings but as terminating in the Supreme Spirit. All words are Vedic:[^197_115] the Supreme Brahman has extracted them from the Veda and, after having created all the corresponding objects as He did before, applied these words as names to those objects, which terminate in the Supreme Spirit, as He did before.[^197_116] So Manu says: 
+"In the beginning He created the various names and func- tions and peculiar samsthas of all things out of the words of the Veda."[^197_117] samsthä- has here the meaning of samsthāna "generic structure" or rūpa- "form". And the Venerable Parasara[^197_118] declares: "In the beginning He made the name-and-form of beings-gods, etc. and the variety of duties out of the words of the Veda".[^197_119]-And the śruti: suryācandra- masau dhātā yathāpūrvam akalpayat[^197_120] "after having created the sun etc. as before He gave them names as before.” 
+
+[^197_114]: 114. pratyakṣadyaparicchedya- "not circumscribable by perception and inference:" the two pramānas of empirical knowlege; only the third (for R. also the last) pramāna, viz. sabda "verbal, i.e., scriptural testimony," can give any information on things metem- pirical; see Intr. IV.[^197_115]: 115. This implies that, the Vedas being apauruseya- "not of human origin", the capacity of all language to denote meanings is not based on convention (samketa-) but on an inherent metaphysical potency in language in itself. The important point will be discussed infra § 137.[^197_116]: 116. Viz., at the beginning of each new kalpa when the Vedas are newly promul- gated by Brahma. Note that, although here the Supreme Brahman is said to be the promulgator, the traditional view that Brahma Caturmukha has this function is not necessarily denied: God works creation through His mode Brahma, just as he works the world's sustenance through Visnu and its annihilation through Sambhu, cf. infra § 112. 
+
+[^197_117]: 117. Manusmrti 1, 21 sarveṣām tu sa nāmāni. 
+
+[^197_118]: 118. The promulgator of the Visnupurana, father of Vyasa Dvaipayana. 
+
+[^197_119]: 119. VP. 1, 5, 64 nama rupam ca bhütānām. 
+
+[^197_120]: 120. RV. 10, 90, 1. 
+
+§ 22. In this manner a detailed exposition is given[^197_121] of the doctrine that Brahman and the world are not different from each other, which demonstrates that all is known when the One is known. The demonstration that all is an effect of Brahman furnishes proof that that all has reality of itself in so far as it is ensouled by Brahman and not otherwise. Hence it[[P198]]
+
+[^197_121]: 121. Viz., by ChUp. 6, 1, 3 as explained above. 
+
+is declared: tat satyam "that is real",[^198_122] just as in the illustrative example every transmutation of clay is real because it remains essentially clay. 
+
+[^198_122]: 122. ChUp. 6, 8, 7 aitadatmyam sarvam idam / tat satyam / sa ātmā. R. makes tat resume sarvam idam, so that the interpretation runs: "all this (the phenomenal world of cit and acit) is ensouled by Him: hence that (world) is real, He being the atman; whereas Sankara makes tat satyam refer to the ensouling ätman: yena catmanätmavat sarvam idam jagat / tad eva sadakhyam kāranam satyam paramarthasat (ChUpBh. 6, 8, 7), and: sanmatratvam ca satyatvam tat satyam iti śrutyantarat (TaittUpBh. 2, 1). 
+
+§ 23. The so-called purifying śrutis[^198_123] elucidate also a Supreme Brahman that is perfect and a treasury of all beautiful qualities. Even when they tell that Brahman is the opposite of everything they do not prove that Brahman is a non-differentiated entity:[^198_124] for if He is the opposite of differentiated entities differentiation is necessarily implied. 
+
+[^198_123]: 123. Here R.'s explanation of the sodhakavikyas is taken up after the provisional suggestions of §§ 11-12.[^198_124]: 124. Against the advaitin's contention that these apophatic śrutis assert an unquali- fied absolute by denying its qualifiedness by the various qualities negated, R. poses his view that the several negations of imperfect qualities imply as many affirmations of per- fect qualities. 
+
+§ 24. But, it is objected, if it is stated that Brahman is nothing but knowledge,[^198_125] then we can be positive that Brahman is pure and non- differentiated knowledge.[^198_125]: 125. This is the jñana of TaittUp. 2, 1 satyam jñānam anantam brahma. 
+
+Certainly not, for words which denote properties that describe the proper form of an entity may also refer to the proper form of that entity itself by means of that attribute, just like the names cow etc. do.[^198_126] For this reason the Author of the Sutras declares: tadguṇasāratvāt tad-[[P199]][^198_126]: 126. In other words: the co-ordination janam brahma in satyam jñānam anantarı brahma is of the same category as those of satyam brahma and anantam brahma. Jñana here is a distinguishing attribute (višesana-) of brahman: so jñānam brahma means "Br. is distinguished by the attribute jñana" and not "Br. is jñana". Jñana is a property (dharma-) that describes the proper form (svarupanirüpanadharma- "an essential pro- perty"), so it may stand for that proper form itself.-Ramanuja's dṛṣṭanta gavādisabdavat requires some elucidation. Cow is a class name and hence the word gauḥ describes à property common to all the individuals of the bovine genus; a broken-horned individual is a cow, but the relation is unilateral, not reciprocal: not every cow is broken-horned; similarly, not all knowledge is Brahman, for individual atmans are also knowledge. This same dṛṣṭanta is developed $Bh. 2, 3, 30: tatha ca khandadayo yāvatsvarūpabhāvigotvā- didharmasabdena gaur iti vyapadisyamänä drsyante / svarupanadharmatvad ity arthah "So we know from experience that individual cows, broken-horned individuals etc., are designated "cow" as a word denoting the property of bovinity which covers their proper form completely: that is to say, because it is a property describing the proper form." 
+
+vyapadeśaḥ prajñavat,[^199_127] yavadatmabhävitvāc ca na dosan.[^199_128] Brahman's proper form is designated by knowledge as its defining attribute, but it is not mere knowledge itself. 
+
+[^199_127]: 127. BrS. 2, 3, "because that is (the atman's) defining property, the (atman) is designated by that property (namely) as having knowledge." 
+
+[^199_128]: 128. BrS. 2, 3, 30 (this use of the term jñāna as a designation) is not objection- able, also because (jñāna) is entirely co-existent with the atman" Some MSS. and the Pt. ed. interpolate a gloss which is identical with R.'s gloss on this sūtra in Vedantadipa--Acc. to S., the reference to the later sutra serves to avoid the objection of lakṣaṇā: jätigunayor vyaktiguniparyantatvasya loke pratyaksasiddhatvät tad- vāciśabdānām tatparyantatvam āśritam, 
+
+But how do we know this? 
+From the śruti which asserts that He is a knower-e.g. yaḥ sarvajñaḥ sarvavit,[^199_129] and this can be gathered from hundreds of śrutis, cf. parasya saktir vividhaiva śrüyate svabhäviki jñanabalakriya ca,[^199_130] vijñā- tāram are kena vijānīyād[^199_131] etc.-; from the fact that knowledge is a pro- perty and not a substance, and from the fact that it cannot be logically established that a mere property is a substance. Hence follows that words like truth, knowledge and the like declare that Brahman is differentiated by, for instance, knowledge in the proper sense of the word. When we disregard the proper sense of the two words tat and team and we make them out to be proof that the proper form of an entity is non-differentiated, we sacrifice their primary meanings.[^199_132]
+
+[^199_129]: 129. MundUp. 1, 1, 1 "who is omniscient, all-knowing."[^199_130]: 130. SvetUp. 6, 8 "His paramount power, so is revealed, is manifold, and natural to Him are knowledge, strength and activity."[^199_131]: 131. BAUp. 2, 4, 14. 
+
+[^199_132]: 132. This paragraph seems to be directed against $.'s interpretation ad TaittUp. 1; for a detailed discussion; see Intr. chapter IV. 
+
+§ 25. But when it is a positively established fact that two different words bear upon one identical object, then it is sound to assume lakṣaṇā, as for example in the sentence so 'yam Devadattaḥ. In so'yam the word sa refers to a person in connection with a different place and a different time, while the word ayam refers to a person connected with a near-by place or the present time. The co-ordination of both words denotes identity. But it is impossible to refer to one and the same person as if he were simultaneously connected with incompatible places or durations. So we contend that the two words are only meant to establish mere proper form and that this proper form is one in itself. 
+
+This is not true.[^199_133] In the given illustration so'yam Devadattaḥ there is not even a semblance of lakṣaṇā because there is no contradiction[[P200]]
+
+[^199_133]: 133. Same argument in SBh. 1, 1, 1, p. 21; for a detailed discussion see Intr. IV. -R. denies the applicability of the drstanta so 'yam Devadattaḥ which, acc. to the advaitin (following the Naiyayikas), is an identity judgment and predicates no attribute to the subject. The Devadatta of 'here and now' cannot be wholly identical with the Devadatta of "then and there" because then and there he had other attributes than here and now. So the identification: this particular D. = that particular D. is contradictory. Here we have to drop from the word "this" (ayam) the notion of proximateness, from "that" (sa) that of remoteness and retain their simple demonstrative value.-R.'s interpretation can be summarized: "this D. was that D.", so that all differences between "this" and "that" (here and now / there and then) are accounted for by the difference in time.. In ŚBh. 1, 1, 1, p. 110 R. resumes this question: tattvamasyadivakyeṣu sāmānādhi- karanyam na nirvisesavastvaikyaparam etc. so 'yam devadatta ity atrapi na lakṣana/ .. desabhedavirodhaś ca kalabhedena parihṛtah/ 
+
+at all. It is not at all contradictory that one and the same person is involved in two different actions, one past and one present: in the past he was in a remote place, at present he is in a near-by place. So the declaration of the identity of a person involved in two actions, past and present, contains no contradiction, for the contradiction in his presence in two different places is solved by the difference in time. 
+
+Even if we assume lakṣana, we can never apply it to both terms of a judgment, for a contradiction in terms is already solved by one term with lakṣaṇā. Here, as we have said there is no lakṣand at all, for there is no contradiction when a person who in the past was connected with one place is at present connected with another place. 
+
+§ 26. Similarly in our passage it is declared that there is nothing contradictory in that the Supreme Brahman, who is the cause of the world, is also the soul of the individual soul inasmuch as he is its inner Ruler. Just as the identity of two beings is conceived with the aid of sāmānādhi- karanya (when we leave out those 'beings' there is identity of mere proper form, but that is not the meaning of sāmānādhikaranya; for, according to the experts, sāmānādhikaranya is the application to one object of several words in different functions) we have accordingly declared that both beings are identical. But we may not decide on a meaning of a summarizing state- ment that is contrary to the sense of the preceding section which it is to summarize.[^200_134] For in the preceding paragraphs, the śrutis tad aikṣata bahu[[P201]][^200_134]: 134. The "canons of exegesis" of Mimämsä are summed up in the sloka upakramo- pasamhäräv abhyaso 'purvata phalam/arthavadopapatti ca lingam tatparyaniścaye// "initial and concluding statements, repetition, novel element of teaching, reward, des- cription and argumentation are the characteristics by which the right interpretation is determined." Most important are upakrama and upasamhāra: the latter may never be in conflict with the former in order to establish the ekavakyata of a context. The upa- krama of ChUp. 6 is tad aiksata bahu syam (6, 2, 3, developing 6, 2, 1 sadeva somyedam), the upasamhara tat tvam asi. If this sämänädhikaranya is taken in the advaitin's sense it would mean that Brahman is identical with the embodied soul (jiva) in its essence; which would make Br. liable to the jiva's characteristic nescience etc.
+
+syām etc., it was asserted that Brahman is the sole universal cause and that he has all his desires materialized: contradictory to this would be to declare that Brahman is the substratum of nescience etc. 
+
+§ 27. Furthermore,[^201_135] speech can never be a pramāņa to prove a non- differentiated thing; for speech derives its character of pramana from the peculiar nature of the words and sentences in which it consists. The nature of a word is to signify the peculiar difference of the object to which it corresponds; that of a sentence to signify the peculiar difference of a com- plex of such differentiated objects. It follows that speech can never signify a non-differentiated object. Words like "non-different" etc. signify an object- which we have already found to be differentiated by a specific difference by denying that it has any of the differentiating features found in other objects. Otherwise such words would signify nothing at all, for a word implies numerous differences in the object signified by its radical element and affix, and a sentence signifies numerous complexes of such padarthas.[^201_135]: 135. Cf. SBh. 1, 1, 1, p. 28, the passage sabdasya tu višesena savišesa eva vastuny abhidhānasāmarthyam/..na nirvisesavastuni sabdaḥ pramāṇam/ 
+
+§ 28. But, it may be objected, we have not said that speech is a pramāna for a non-differentiated self-illuminating entity, for something that is self-evident stands in need of no pramana. So all differentiations which arise from superimpositions,[^201_136] e.g. that it is a knower etc., are altogether discarded by all words. When all differentiations have disappeared the mere being remains by itself, undetermined, self-illuminating. 
+
+[^201_136]: 136. adhyasa- "superimposition" defined by S. BrSBh. intr. as smṛtirupaḥ paratra pārvadṛṣṭävabhasah "superimposition is the projection of something that has been perceived before elsewhere on something else, and is therefore derived from recollection."* 
+
+That is not true, for by what word do you then denote that entity in such a way that all differentiations of superimpossition disappear? 
+By the word "pure knowledge".[^201_137] 
+
+[^201_137]: 137. naptimatra- see following note. 
+
+No! That word too refers to a differentiated substance; for by its radical element and affix it implies difference. The root JNA in the sense of "to be conscious (of) "[^201_138] tells us that it has an object and a subject and that it is a specific action with a specific nature which distinguishes it from other actions. The affix tells us that it has gender, number etc. This nature does also persist in the case of a self-evident, self-realized object: were it free from all difference then there would be no realization at all. 
+
+[^201_138]: 138. JNA avabodhana iti: so S. jñānam jñaptir avabodhah (TaittUpBh. 2, 1); avabodhana- "being awake to, alive to, aware of, conscious of," 
+
+We say that knowledge is self-evident or self-realized by virtue of its own nature, viz. the nature of realizing or proving something else,[^201_139][[P202]][^201_139]: 139. anyasādhanasvabhāvatayā S. remarks jñātur visayavyavahārahetutayā hi svayamprakasatvam tvaya sadhitam "you arrive at the notion of the self-illuminating character (of knowledge) because it is the ground for the knower to act upon its object" and he adds svasambandhad arthäntare tadvyavaharahetutvam hi svayamprakāśatvā- numanahetuḥ/evam nirviseşatve svayamprakasatvanupapattir uktā "the ground on which you conclude to this self-illuminating character is this that (knowledge) is the ground for activity in another matter which therefore stands in relation to itself; con- sequently the Author states that the notion of svayamprakasa cannot logically be estab- lished for an entity that is non-differentiated." This is borrowed from $Bh. 1, 1, 1 p. 25 api tu sarvam sadhayanty anubhutih (the term is Vimuktatman's, Istasiddhi 1) svayam siddhyati/prayogaś ca/anubhutir еvа ananyadhinasvadharmavyavahärä/svasamban- dhad arthäntare taddharmavyavahārahetutvät etc; the point which R. wants to make is that knowledge can only be proved to be svataḥsiddha, if it is, not anyataḥsiddha, but anyasadhana; hence, far from being unqualified, it is essentially qualified by this very nature of proving other entities. 
+
+§ 29. -Brahman's proper form itself illuminates everything always. -But then it is impossible to attribute to it any properties that are foreign to it when the proper form of a rope appears as such, then it is impossible to attribute to it the property of being a snake. That is why you have to assume an obscuring Nescience. Consequently the object of the clearing knowledge of the śastra can only be a hidden part in Brahman:[^202_140] otherwise the clearing knowledge would clear nothing at all for the supposed nature of snake is sublated by the illumination of the nature of rope as different from the substratum of the original error. When there is one differentia- tion denoted by a word for that entity of pure knowledge, that differentia- tion must be a distinguishing feature of Brahman.[^202_141] Then it follows that Brahman is differentiated by all the differentiating features expounded by all śrutis.[^202_142][^202_140]: 140. As S. comments: there can be no obscuration unless there is something to be obscured. It would follow then that the advaitin's assertion that Brahman is svayam- prakasa cannot be logically maintained in his paksa. 
+
+[^202_141]: 141. If Brahman can be known, he must have the property (differentiating attri- bute) of being knowable. 
+
+[^202_142]: 142. If one differentiation of Brahman propounded in the śruti, viz. that of being knowable, is accepted of Brahman, all other differentiations propounded of Brahman must also be accepted. 
+
+§ 30. All this proves that the criteriologist have no criterion that in any way demonstrates the existence of a non-differentiated entity.[^202_143] Even in the case of an indeterminate perception[^202_144] the perceived entity is recog- nized as differentiated; for otherwise it would be impossible to have, in the[[P203]]
+
+[^202_143]: 143. Neither sabda nor pratyakṣa can prove an undifferentiated entity, nor, a fortiori, can anumana that departs from pratyaksa. 
+
+[^202_144]: 144. nirvikalpakapratyakṣa, 
+
+case of a determinate perception, the cognition in so 'yam of an entity differ- entiated by a previously apprehended modification.[^203_145] From the fact that generic character like bovinity, etc. is a particular structural feature of an entity it follows that already at the indeterminate stage an entity is appre- hended in this way: this entity is so with such structural differentiae.[^203_146] In the case of a second and subsequent cognitions we recognize that these generic differentiae belong to more than one entity. From the second and subsequent cognitions we learn that the padartha called 'modification by[[P204]]
+
+[^203_145]: 145. In so 'yam the word sal points to a definite object perceived before, not to a mere indeterminate blur: the very recognition "this is that" proves that "that" had a distinguishing feature which allowed it of being recognized later on as "this" and nothing else, or, as stated in SBh. 1, 1, 1, p. 29, of being cognized at all: nirvikalpakam nama kenacid višeşena viyuktasya grahanam na sarvavišesarahitasya/tathābhūtasya kadācid api grahanādarśanāt / 
+
+[^203_146]: 146. Bh. 1. c. is more elaborate: kenacid visesenedam ittham iti hi sarvā pratitir upajayate trikoṇasāsnādisamsthāna višeşena vina kasyacid api padarthasya grahanayogät / ato nirvikalpakam ekajatiyadravyesu prathamapindagrahanam trikona- n. is "triangular cow's head", not adject. to säsna, as THIBAUT and LACOMBE translate; sāsnā "dew-lap" is the lakṣana of gotva. This definition is often found bizarre in comparison with the Western one "horned, cloven-footed, ruminant etc.", but it is an obvious and practical one: it has no doubt its origin in the need for defining a cow not so much from other corniferous and ruminant mammals as from the very similar buffalo with which the cow is herded together and from which it is mainly distinguished by its dew-lap. N.B. R.'s theory of indeterminate perception conflicts with that held by the Naiyayi- kas. Acc. to the latter (and to the Buddhists who recognize the indeterminate perception as the only possible one) in indeterminate perception an object is seen without any quali- ties, a mere blur of which it can only be said that it is "something". Annambhatta (TS. §42) defines: nisprakarakam jñānam nirvikalpakam, yathedam kimcit[but cf. Jayanta- bhaṭṭa, Nyayamañjarī, p. 73, discussing Bhartṛhari's Vakyapadiya 1, 124: na ca nirvikal- pakasamaye yat kimcid idam ityādisāmānyaśabdollekhaḥ ko 'pi kaiścid anubhuyate tas- mad gaur ityādijñānam sabdatve "pi tathavidhasya jñanasya lakṣyasya sadbhävän na vyar- tham lakṣaṇam ity evam asambhavadosanirakaraṇārtham avyapadesyapadam iti] and com- ments (TD) viseṣaṇaviseṣyasambandhanavagahi jñānam ityarthah "nirvikalpaka is that cognition which is without prakara, i.e. determinant feature distinguishing it from other cognitions", comm. "that is to say, cognition which comprehends no relation between the qualifying and the qualifiable," as distinct from determinate perception which does com- prehend the relation between qualifying features name, class etc.-and the object quali- fied. Similarly the advaitin: nirvikalpakam tu samsargānavagāhi jñānam (VedP.) but with his own example: yatha so 'yam devadattas tattvamasityädivakyajñānam. R. argues: indeterminate perception must apprehend an object with some distinguishing feature: for if the indeterminate perception is followed by a determinate one-when the dimly perceived object draws near and is perceived for what it is with all its peculiarities- we recognize it as such: "this is that same object". So we must originally have perceived a differentiating feature to recognize it by. The identification "this is that"" presupposes a common feature to both terms sufficiently peculiar to warrant an identification. The Naiyayika reasons: we cannot know a cow before we know what makes a cow (sc. its gotva-), so unless we know its generic peculiarities we cannot know it for a cow. We know beforehand its generic peculiarities by repeated observation of cows. So the simple "this"-perception we have at the indeterminate stage combines with our recollec- tion of the generic peculiarities, and the simple perception combined with the recollection produces the knowledge of the relation: "this is a cow". R. replies: how do we arrive at our knowledge of these generic peculiarities in the first place? Knowledge of the individual precedes that of the class: we perceive a cow, i.e. a member of the class cow, when we see repeated in that individual the features previously perceived in another animal. So R. goes beyond the "recollection of gotva" which the Naiyayika combines with the indeterminate "this" to produce the determinate or complex "perception" 'this cow': this view fails to account for the origin of the very perception of gotva, So R. poses that the indeterminate perception is the first complete perception of a previously unknown object, e.g. a cow: never having seen a cow before we perceive it neither as a member of a class, nor yet as an individual: hence R.'s use in Ved. and $Bh. of the vague word pinda- "mass, object" which strictly cannot be equated with vyakti- (as ABHYANKAR does in his Notes, followed by LACOMBE, Note 306) "individual member of a class", for at that stage its individual peculiarities are no more perceived than its generic differentiae (which presuppose class). Determinate becomes our perception when we see our second and third cows: we recognize the same features and see that they are characteristic not of one animal but a number of them: generic features. R. defines ŚBh. 1, 1, 1, p. 29 ato nirvikalpakam ekajātīyesu prathamapindagrahanam "indeterminate is our perception when we see the first object of a class of objects." So YID. I, p. 9 nirvikalpakam nama gunasamsthānādivisistaprathamapindagrahanam. This view of nir- vikalpaka is substantially that of the Prabhakaras whereas the advaitin follows the Bhaṭṭa; cf. Prakaraṇapañcikā p. 54-55, esp. tasmāt sāmānyavišeṣau dve vastuni pratipadya- mānam pratyakşam prathamam u<pa>padyate, kimtu vastu antaränusamdhanaśūnyatayā sāmānyavišesarupata na pratiyate "consequently, in the first instance, the (indeterminate) perception proves to establish both generic and individual peculiarities, although, failing the accompanying comparison of another entity (of the same class), these generic features and individual peculiarities are not yet recognized as such," etc.; savikalpakam tu tat- prsthabhavi te eva vastuni samanyavišeṣātmanā pratipadyate "the determinate perception, on the other hand, following on the indeterminate one, apprehends both samanya and višeșa as such". See JHA, Prabhakara Mimämsä, p. 157 sqq.; KUPPUSWAMI, Indian Logic, p. 168-69. 
+
+generic structure' is the differentiating feature of more than one entity as it applies to more than one. On the strength of this observation it is said that second and subsequent cognitions are determinate. 
+
+From this appears that the assumption[^204_147] that one and the same padartha has a double essence according to its being at once different and non-different should be rejected as self-contradictory. The generic struc- ture itself is a padartha different from the entity that has this structure; because it is a modification of it, it is incapable of functioning separately[[P205]][^204_147]: 147. bhedabheda view, to be refuted in greater detail infra $$ 54ff; they reason thus: one substance may have two "modes of being" (dvyātmakatva); it may be modified and it may be non-modified. The modifying feature has no real being of its own: it cannot exist apart from its substance. So the modified substance, the substance con- joined with its mode, has an essence of its own. Then the substance may be devoid of modes that are extrinsic to it: so it has another essence of pure entity (svarupa). So one substance has two essence, one including and one excluding its mode. 
+
+and for the same reason it is not separately apprehensible. But all this does not prove that that entity has a double essence. 
+
+§ 31. Moreover, if the adherent of the doctrine that a non-differen- tiated entity exists contends that in the case of a self-evident entity the differentiations brought about by superimposition are denied by all words, he should tell us which these words are. 
+
+— The śruti vācārambhanam vikaro namadheyam mrttikety eva satyam[^205_148] for one. This śruti tells us that only the pure entity, which in the given context is implicitly designated as the cause,[^205_149] is real and every- thing else unreal, because transformation and denomination are merely vācārambhana.[^205_150][^205_148]: 148. ChUp. 6, 1, 4.[^205_149]: 149. Viz. sat of ChUp. 6, 2. 
+
+[^205_150]: 150. Cf. §. ad Brs. 2, 1, 14 (= R. 2, 1, 15) tadananyatvam arambhaṇašabdādibhyaḥ etc. 
+
+-This proves nothing. After it has been asserted that when one is known all becomes known, this illustration is adduced for him who thinks it impossible to have knowledge of one through knowledge of another: it shows that when one and the same entity exists as name-and-form by virtue of a differentiation in its condition by transformation, etc. which differen- tiation is absolutely real, then that entity, when known, remains the same entity also if it have another configuration different from the first one. It is this view for which the above illustration is furnished and no denial of all differ- entiation can be read in it.[^205_151] In vācārambhanam the word vacă means 'on account of vyavahāra or practical purpose" and arambhana is "that which is taken hold of". The name of clay in the condition of clod is one thing and its practical purpose is another.[^205_152] That same clay in the condition of jug, bowl, etc., has different names and different practical purposes; nevertheless it is that same clay which in every transformation is 'for various practical purposes taken hold of' by various generic structures and denominations.[^205_153] And it is concluded that that is eva satyam "the same remains real". Thus[[P206]][^205_151]: 151. i.e., from being sukṣma- "subtle", matter is transformed (as a vikara in the causal process of parinama) into being sthüla- "gross", constituting particularized entities. 
+
+[^205_152]: 152. For R. the effect is another phase (avastha) of the cause; vikära- is esp. the product of the process of parināma viewed under the aspect of its relation to the cause from which it developed. 
+
+[^205_153]: 153. This interpretation is detailed in SBh. 2, 1, 15 as follows: arabhyata alabhyate spreyata ity arambhanam / krtyalyuto bahulam (Panini 3, 3, 13) iti karmani lyut/ vācā vākyapurvakena vyavahāreņa[S (TatpD) ad vyavahärena (Ved.): prayojanataya hetu- tram ityarthaḥ] hetunety arthah/ghatenodakam äharetyādivakpurvako hy udakaharaṇā- divyavahāraḥ/ 
+
+the possibility of knowledge of one thing through this knowledge of another thing is illustrated. No entity is being denied reality in this śruti, but the very sense stated above is further enlarged upon. 
+
+§ 32. Besides, if it were alleged by the śruti yenāśrutam śrutam that everything different from Brahman is unreal, the example yatha somyaikena mrpindena would fail to illustrate the point.[^206_154][^206_154]: 154. sadhyavikala-; sädhya- "probandum", i.e., the assertion that we may know all by knowing one. The obvious sense of the distanta is that there is a causal process of parināma by which a lump of clay is transformed into clay jugs: which means that these clay jugs, etc., are as real as the lump of clay; so the instance cannot illustrate the irreality of the "all to be known". 
+
+But the point is another one. The lack of reality of the transfor- mations of clay-jug, bowl, etc., comparable to the falsity of the snake in the rope, etc.,[^206_155] is not proved for Svetaketu, who is eager to learn, by another pramana and the ratiocination.[^206_156] It is this point that our passage means to prove. 
+
+[^206_155]: 155. The erroneous cognition of a snake where there is only a coiled rope is the stock-example of the falsity of our cognition of diversity in the Universe where there is nothing but the One self-identical Brahman. The 'metamorphosis' of the rope into snake is an instance of vivarta (cf. infra §§ 36; 49). 
+
+[^206_156]: 156. The advaitin is made to suggest that where both sensorial evidence and ratiocination fail to prove the falsity of the world, the sentence yatha etc. is a statement of scriptural authority (sabdapramana) which proves this falsity apodictically. The other pramana is the pratyaksa, ratiocination (yukti) stands for anumanapramana; cf. S. pra- tyakṣena bädhädarsanan mithyātväsiddhih/vyāvartamānatvädiyukter äābhāsatvāc ca na mithyatvasiddhih. 
+
+—No, you cannot possibly assume that, for that violates the charac- ter of an example introduced by yatha,[^206_157]
+
+[^206_157]: 157. yatha introduces a statement of analogy, not a final assertion. 
+
+§33. But in the śruti sad eva somyedam agra āsīd ekam evādvitiyam[^206_158] it is obvious that both emphatical particles sad eva and ekam eva and the emphatical advitiyam deny all homogeneous and heterogeneous differentia- tions exceeding pure being.[^206_159][^206_158]: 158. ChUp. 6, 2, 1[^206_159]: 159. "This (Universe contained in its cause) was sat at the beginning. "Ś. explains sat as sattämätram. 
+
+This is not true. First he had illustrated with an example that the knowledge of one entity (which can have two modes of being, that of cause and that of effect) when having one mode of being, will give rise to the knowledge that it remains that same entity, even though it have another mode of being. Then, in order to propound that Brahman is the universal cause- which Svetaketu does not yet know he begins sad eva somyedam. In this passage, to be construed idam agre sad evasid, the word agra- denotes[[P207]]
+
+a specific time, and idam[^207_160] refers to the phenomenal world. Of this world denoted by idam he says that it exercises an action, viz., the action of being real, and that it is a really being substance. The words ekam eva deny that this was already transformed into a variety of names-and-forms.[^207_161] When this has been declared, it is set forth that the world has a material cause which is sat. The fact that the omniscient Brahman is a material cause for something else does not contradict His omnipotence for even in the view that He is associated with something different from Himself as its operator, He remains essentially different from everything else. Therefore the word advitiyam negates, on the ground of Brahman's omnipotence, the existence of a separate operator.[^207_160]: 160. It (idam) is a substance because real being (sat) can be predicated of it. 
+
+[^207_161]: 161. It was not yet manifested as a plurality but abode in a single mass. 
+
+There are a number of śrutis, like ours, which first declare that Brahman is the material cause and afterwards that He is also the operative cause. Other śrutis first admit that Brahman is the operative cause and then raise the question: if Brahman is different from everything else, then how can He be the material cause, etc., as well? - and then, by reasoning from Brahman's omnipotence, solve the apparent contradiction and assert that the same Brahman is the material cause and all subsidiary causes as well. In the śruti kim svid vanam ka u sa vṛkṣa āsīd yato dyāvāpṛthivī nistatakṣur manīṣino manasă prechated u tad yad adhyatisthad bhuvanāni dhārayan[^207_162] it is first imagined that, if Brahman be the material cause, this would contradict our inference from general observation :[^207_163] but subsequently this seeming contradiction is solved by Brahman's categorical difference from everything else in existence: brahma vanam brahma sa vṛkṣa āsīd yato nistatakṣur manīṣino manasā vibravimi vaḥ brahmadhyatiṣṭhad bhuvanäni dharayan.[^207_164][[P208]]
+
+[^207_162]: 162. TaittBr. 2, 8, 9, 6 "What was the wood, or which was the tree, out of which they fashioned heaven and earth? Ask this with your minds, O wise, that which super- vises and supports the worlds." In this śruti, it is assumed, the material cause (vana-, vrksa-) is distinguished from the operative cause or adhisthätṛ (sc. tad yad adhyatiṣṭhat); I have translated accordingly. 
+
+[^207_163]: 163. sāmānyato drstam "knowledge by inference from general observations explained by Vatsyayana (Bhasya ad NS. 1, 1, 5) vrajyapurvakam anyatra dṛṣṭasyan- yatra darśanam iti/tatha cadityayasya / tasmad asty apratyakṣapy adityasya vrajyeti / "We see an object in another place than we saw it in before when it has moved; so we conclude the same for the sun (though we have not seen it move); so, albeit unper- ceived, we know that the sun moves." Similarly, it is observed generally, that no material cause is simultaneously the operative cause as well, so that we might be led to infer the same for Brahman. But since Brahman is categorically different from every- thing else (sarvavilaksana-), this general observation has no validity as to Him.[^207_164]: 164. TaittBr. 2, 8, 9, 6: "Brahman is the wood, and Br, is the tree, out of which they fashioned heaven and earth: I tell you with the mind, O wise, that it is Brahman that supervises and supports the worlds". (cf. supra note 162). 
+
+To resume. In the passage under discussion the words agra, etc., show therefore that there are a number of differentiations in Brahman Him- self. There is no word to be found in it that voices a negation of differen- tiations such as you are pleased to assume. On the contrary the existence of a time-differentiation shows clearly that Brahman is the cause and the world his effect: asit denotes a specific action; then there are His modes of being the material as well as the operative cause of the world; then again His quality of omnipotence as proved by the denial of difference between material and operative: thus differentiations, unsuspected before, are ex- pounded by thousands! 
+
+[[ $ 34.|§ 34.]] Since this śruti means to teach that the relation between cause and effect is one based upon substantial reality, it gives the lie to the asat- karyavāda doctrine as voiced in asad evedam agra āsīd, etc.,[^208_165] by counter- ing it with the question: "How could that really be so, my son!" i.e., there is no ground whatever for the origination of an entity that did not exist before. That is what he says in katham asataḥ saj jāyeta: i.e., an entity that has originated from asat remains essentially asat, in the same way as an entity-a jug, etc.— that has originated from clay remains essentially clay. The origination of an existent entity is by definition its conjunction with a variety of modes or phases of being, and this conjunction is the ground that it may have a variety of practical purposes.[^208_166]
+
+[^208_165]: 165. ChUp. 6, 2, 1 tad dhaika ahuḥasad evedam agra asid, etc. R. will discuss this śruti presently.[^208_166]: 166. vyavahara- cf. supra note 153a. 
+
+§ 35. In other words, it is declared that one and the same entity that is a cause becomes an effect when entering upon another mode of being. The point which is sought to establish hereby is this that knowledge of all can be had through knowledge of one. But this point cannot be proved in the asatkāryavāda[^208_167] theory, for according to this theory an effect-called avayavin[^208_168] because it has several causes: nimitta, samavāyin, asamavā- yin,[^208_169] etc. — originates as a completely different entity. Hence it is impos-[[P209]]
+
+[^208_167]: 167. The asatkāryavāda (the doctrine that the effect is not contained in its cause but originates as a new entity) is summed up neatly in Annambhatta's definition of an effect (TS. §39): karyam prāgabhavapratiyogi "the effect is the counter-entity of its own antecedent non-existence," ie., originates unprecedented.[^208_168]: 168. "Composite, having members," sc. the various causes.[^208_169]: 169. Cf. Annambhatta's definition (TS. §40): karanam trividham samavāyyasam- avāyinimittabhedavat / yatsamavetam karyam utpadyate tat samaväyikäraṇam/yatha tan- tavaḥ patasya patasca svagatarüpädeḥ käryena käranena vä sahaikasminn arthe samä- vetatve sati yat karanam tad asamaväyikaranam/yatha tantusamyogaḥ patasya tantu- rupam patarüpasya / tadubhayabhinnam nimittakaranam / yatha turivemädikam patasya/, I refer to Athalye's and Foucher's discussions of these passages, 
+
+sible anyhow that the effect is known when the cause is known, inasmuch as the effect is an entity completely different from the entity that is its cause. 
+
+But, it may be put forward, what are the grounds on which you re- 
+ject such a different entity that is avayavin? 
+First the fact that, as even our adversary who maintains that the effect originates as a new entity must agree[^209_170]-the different name, practical purpose etc., which apply to the identical entity, prove that a different phase has been entered upon by the cause; and secondly the fact that we do not see another entity appear at all. Hence it is said that the effect is nothing but the cause in another phase, and that is what our śruti declares. 
+
+[^209_170]: 170. For neither the Naiyayikas-Vaišeçikas hold that the effect originates ex nihilo, AS R. declares GBh. 2, 27 utpattivinäsädayaḥ sato dravyasyavasthäviseṣaḥ/tantupra- bhṛtini dravyāņi santy eva racanãvišeṣayuktani patadiny ucyante/asatkāryavādināpy etā- vad evopalabhyate/nahi tatra tantusamsthanaviseṣātirekena dravyäntaram pratiyate/ kārakavyāpāranämäntarabhajanavyavahāravišeṣāņām etāvataivopapatter na ca dravy- antarakalpana yuktā / 
+
+§ 36. But is the asatkāryavada not rejected just to show that there can be no error without a substratum?[^209_171] For one and the same being which alone is real in the form of spirituality, evolves into the form of the pheno- menal world when it is obscured by Nescience.[^209_172] If Nescience is to have a[[P210]]
+
+[^209_171]: 171. niradhisthänabhramasambhava-; the erroneous cognition of a snake presup- poses the existence of a real object (in casu, a rope) on which this false cognition is projected or superimposed. Similarly the false cognition of the phenomenal world presupposes the existence of a real substratum or adhiṣṭhana. The Madhyamika Bud- dhist, professing the falsity of the world of cognized phenomena, denies that this falsity is projected or superimposed on something real: so they recognize the possibility of falsity projected on a void: miradhisthana / niralambana. 
+
+[^209_172]: 172. ekam cidrupam satyam evävidyacchäditam jagadrupena vivartate: this sen- tence sums up the ontologico-cosmogonical doctrine of advaitavada: there is one entity, pure consciousness or spirituality, which alone is real. This one real entity 'unrolls" itself, or develops, into the world when it is obscured by Nescience. Hence follows that, if this Nescience is to have a substratum, the real itself must be its ultimate cause: for, as S. remarks (borrowing his argument from R. $$ 46-47, note 218), if the substratum were not real in itself, it would stand in need of a substratum itself, and so ad infinitum. The vivartavāda is an attempt to account for the phenomenal world without sacrificing the unchangeability of the absolute. Vivarta is both the process and the product of the development of the absolute and real into the finite and non-real, in other words, the transition into an effect that has not the same degree of being as its material cause (vivarto nama upādānaviṣamasattākakäryäpattiḥ Dharmaraja's definition, Ved. P. II, § 85, in contradistinction to parināma, the transition of a cause into an effect with the same degree of being: parināmo nama upādānasamasattākakaryapattiḥ). This process of vivarta has its origin in the obscuration of the absolute by Nescience, its opposite. Strict- ly, avidya itself is the vivarta, and the phenomenal world the parinama of avidya. If the Advaitin wants to have ChUp. 6, 2, 1 confute the Madhyamika doctrine, his interpre- tation should run like this: katham asataḥ saj jäyeta "how can an 'existent' being derive from nothing?" The Advaitin and Madhyamika concur in that this 'existent' being of the phenomenal world is ultimately unreal. Where they differ is the reality of its ultimate ground, accepted by the former, rejected by the latter. Sankara (ChUpBh.) states that the above śruti attacks the Vainasikas or Nihilist Buddhists: it is against this interpre- tation that R. raises his objection; but cf. my remarks Intr. III. 
+
+substratum, we must assume that the Real itself is its ultimate cause. Which proves that the asatkāryavāda theory is untenable. 
+
+This is not true. What is actually declared is this that that theory is untenable because the assertion and the illustration that all is known when one is known can only have any bearing at all on the topic if the satkarya point of view is adopted. For that matter, in your own position the theory that an error without a substratum is impossible does not admit of proof itself.[^210_173] Your doctrine leads to this conclusion: When one holds that the defect inherent in a spiritual being is real and that this defect is a real basis for errors to arise, then, being oneself afflicted with that defect, one is proved to have a vision of a phantom, say a fairy-tale castle, which in itself is unreal. But when one holds that this defect is unreal and therefore is no real basis for errors to arise, one is proved to have that illusion all the same, because of its very basis being unreal! Actually in your position an error without a substratum is not at all impossible. 
+
+[^210_173]: 173. The advaitin derives the illusion of plurality-unreal without doubt-from avi- dya or Nescience, about whose unreality he is less sure: he describes it as neither real nor unreal (sadasadanirvacaniya-). As R. will explain later, this leaves three possibili- ties: it is not sat, therefore asat; not asat, therefore sat; neither sat nor asat, therefore both asat and sat. Suppose we have an illusion: it must derive either from a real or from an unreal defect. If this defect is real, our illusion is proved, however unreal its content may be. If this defect is unreal, our illusion is still established (upapanna) be- cause it cannot have risen from a defect that is non-existent. So in the latter case we are left with a demonstrable illusion for which we cannot account. Consequently the advaitin, unable to define the defect properly, implicitly admits the possibility of the niradhisthanabhrama which he professes to deny 
+
+§ 37. We have already pointed out that Brahman is declared to be differentiated by all the qualities ascribed to him: for even the so-called purifying statements, satyam jñānam anantam brahma, anando brahma etc., do not contradict the assertion that one denoted object may be qualified by a number of qualities which are established by sämänädhikaranya[^210_174] construc- tions and by the original sense of the terms.[[P211]]
+
+[^210_174]: 174. samanadhikaranya shows a distinct peculiarity in the one entity denoted: the stock-example nila utpalah is "a lotus that is blue and thus distinguished from white and red ones." The sense of a word established by grammatical analysis into root (dhatu), stem (prätipadika) and declined form (pada) shows again a number of peculiari- ties proper to the concept denoted: it may have a gender, be singular, dual or plural, govern or be governed in case relation etc., supra § 28.
+
+[[ $ 38.|§ 38.]] But the śruti athäta ädeso neti neti[^211_175] is obviously a negation all the way round. 
+I would ask: exactly what does it negate? 
+The entire phenomenal world which consists of incorporated and unincorporated beings according to the śruti dve vava brahmano rupe murtam caivāmurtam ca.[^211_176]
+
+[^211_175]: 175. BAUP, 2, 3, 6 "so now the teaching it is not such nor such'". 
+
+[^211_176]: 176. BAUp. 2, 3, 1 "verily Brahman has two forms, one embodied and one disem- bodied;" cf. S ad BrS. 3, 2, 22 kim ayam pratigedho (sc. neti neti) rupe (sc. murtam caivāmūrtam ca) rupavaccobhayam api pratisedhati... dvau caitau pratiședhau, dvirne- tisabdaprayogāt. 
+
+But, considering the maxim: Better keep from touching mud than wash it off,[^211_177] it seems hardly appropriate first to teach that all that was not suspected before to be Brahman's form is actually His form and then in the same breath to deny that same teaching. Let us see what the negation really means. The Author of the Sutras himself declares: for it denies that Brahman is only so much as has been said and asserts that He is more than that:[^211_178] so since immediately afterwards in atha namadheyam satyasya satyam iti prāṇā vai satyam teṣām esa satyam[^211_179] a host of qualities like satya etc. is propound- ed, the preceding neti neti denies merely that Brahman is only so much: Brahman is much more than has been stated before. This is the meaning of the above sutra.[^211_177]: 177. praksalanäddhi pankasya düräd asparšanam varam a popular maxim (nydya): quoted twice in Vimuktatman's Istasiddhi (pp. 25; 215); to be found in Hitopadeša I, 185, where the first half reads: dharmartham yasya vitteha varam tasya nirthata.[^211_178]: 178. BrS. 3, 2, 22 prakṛtaitavattuam hi pratised hati tato braviti ca bhūyaḥ. 
+
+[^211_179]: 179. BAUp. 4, 3, 6 "so, the name of the real is the real: thus the real is verily the vital airs and the possessor of them is the real." 
+
+§ 39. But the śruti neha nānāsti kimcana[^211_180] clearly denies that there is variety. 
+
+[^211_180]: 180. BAUP. 6, 4, 19 "there is no variety here of any kind." 
+
+Here too it is declared later on, in sarvasya vaši sarvasyeśānaḥ,[^211_181] that Brahman is satyasamkalpa and sovereign Lord respectively. Hence what is actually denied is not what you think but: a variety that would not be ensouled by Brahman: that alone is the opposite of what is declared in the assertion that the Lord has all entities, spiritual as well as non-spiritual, for his body and that therefore, as the Lord of all and as being modified by all, He exists as the sole One. In all śrutis of this description there is nowhere[[P212]]
+
+[^211_181]: 181. BAUp. 6, 4, 22 "the ruler of all, the lord of all." 
+
+a word to be found which in unmistakable terms denies that Brahman is differentiated.[^212_182]
+
+[^212_182]: 182. This concluding statement rounds off the first part of R.'s refutation of advai- tavāda, which is, according to the programmatic stanza (§ 2) śrutinyāyāpeta- "in conflict alike with śruti and reason." It has now been shown that the Scriptures lend no sup- port to advaita. R. will now demonstrate that its theses cannot stand the test of rational criticism. 
+
+§ 40. Furthermore, you cannot interpret like this: Brahman who in reality is mere non-differentiated knowledge finds nonetheless variety in Himself when his own proper form is obscured by obscuring nescience. Obscuration is by definition the negation of illumination; so, since you do not admit that illumination is a property of, and exceeding, the proper form itself, it would follow that illumination is the proper form so that actually the proper form itself would disappear! To say that knowledge synonymous with illumination is permanent and that illumination is obscured by nescience, means either that the illumination is prevented from originating, or that existing illumination is terminated. Either alternative would mean that, since no illumination can originate, the proper form has ceased to exist. 
+
+-But illumination remains permanent and untransformed. 
+Then what you say boils down to this: even though there be nescience, there is nothing hidden in Brahman: hence follows that He finds variety in Himself. Now this makes no sense to honest people.[^212_182a]
+
+[^212_182a]: 182a. satso anirvacaniyam: a pun on the repetitious sadasadanirvacaniya- with which the advaitin describes his māyā or avidyā, 
+
+§ 41. But even you must agree[^212_183] that the proper form of the soul is knowledge and that the soul is self-illuminating. Now, when the soul is erroneously identified[^212_184] with the proper form of its body, god etc., we must necessarily resort to assuming that the illumination of its proper form is obscured, inasmuch as no other formation[^212_185] can be superimposed on the soul proper when the soul's proper form is known. Besides, the error that you have pointed out applies to only one soul in our case, whereas in your case, since you assume an infinite number of souls, you have to solve it for all souls.[[P213]][^212_183]: 183. Both R. and S. hold that the atman is essentially knowledge, but where S. defines the essence as knowledge, R. regards knowledge as the essential property of a substance; and where S. accepts only one atman that is at once identical with Brahman, R. admits an infinite plurality of individual atmans subordinated to the Supreme Brahman. 
+
+[^212_184]: 184. abhimana, see supra note § 24. 
+
+[^212_185]: 185. akara- "configuration, characteristic form". The atman is, acc. to R. jñānai- kakara ( jñanasvarupa-); by the process of abhimana "présumption (Renou)" the atman is erroneously identified with the empirical ego of a given body: the body's akära is superimposed on it; now, this superimposition is only conceivable if the proper form is not evident as such.-The term adhyasa supra note 136 belongs particularly to the advaitin's terminology; R. avoids using it. 
+
+§ 42. The reply to this objection is this. The Supreme Brahman is by nature such that his proper form is absolutely opposed to imperfection and is solely constituted by infinite knowledge and bliss. He is an ocean of noble qualities[^213_186]-unlimited, unsurpassed and immeasurable which are proper to his nature. His mode of being is that He is modified by all creatures, for his body is constituted by all entities because he is the inner Ruler of all entities: firstly the non-spiritual entities which enable the spiritual entities to attain the supreme salutary Goal, which are liable to evolutions of infinite variety and which are the objects of experiences for the spiritual entities, and secondly, the spiritual entities themselves which are of an infinite variety, either bond or released: the sum-total of these entities consti- tutes a particle of Brahman and forms the material for his sport. They constitute his infinite, universal supernal manifestation which is not affected by the evolutions[^213_187] that are brought about by Time, whose proper form comprises countless divisions, from the smallest to the highest units[^213_188] and which is the operative cause of all evolutions of the Universe: origination, subsistence, resorption etc. It is this Brahman who is the object of our knowledge, that is knowledge imparted by the Veda. This Veda consists of numberless branches arranging themselves according to the part they belong to, Rg-, Yajur-, Sama- and Atharvaveda, whose established doctrines have been transmitted in an uninterrupted series of studies,[^213_189] itihasa, purāṇa, dharmasastra etc. which are all founded on the Veda, consisting in vidhi,[^213_190] arthavada[^213_191] and mantra,[^213_192] and which are instituted by a great number of sages who were capable of immediate presentation of Brahman, such as the venerable Dvaipayana, Parāśara, Valmiki, Manu, Yajnavalkya,[^213_193] Gautama,[^213_194]
+
+[^213_186]: 186. udaraguna-, synonymous with kalyanaguna-, supra note 5.[^213_187]: 187. parinama- 
+
+[^213_188]: 188. nimesakasthakalamuhurtaparardhaparyanta-; nimesa- "instant": 15 nimesas make one kasthä: 30 kasthas 1 kala; 30 kalas 1 muhurta: 30 muhurtas one natural day (cf. VP. 1, 3, 8-9); parärdha- "half the duration of Brahma's life; cosmic life so far lapsed" VP. 1, 3, 26-28. To this passage cf. VP, 4, 1, 84 kalamuhurtadimayaś ca kalo na yadvibhuteḥ parinämahetuh. S. adds that Time, though effecting evolution in matter, is subject to evolution itself: nimesa etc. are the various products. There is no evidence that R. subscribed to the Pañcaratra conception of akhandakala- "impartite Time" cf. SCHRADER, Pancarātra p. 66; repeated YID V, p. 77; def. ib. akhandah kalo nityah karyah punar anityaḥ (sc. kalah). 
+
+[^213_189]: 189. patha- "lit. recital" the oral traditions of the Vedic schools; the idea is that these texts do only repeat, in a more comprehensible form, what from all eternity had been formulated in the Veda. 
+
+[^213_190]: 190. vidhi- "injunction." 
+
+[^213_191]: 191. arthavada- "exegetical portion."[^213_192]: 192. mantra- "Vedic stanza used in ritual,"[^213_193]: 193. Author of Yajnyavalkyasmrti.[^213_194]: 194. Author of Gautamiyadharmasastra. 
+
+Apastamba[^214_195] etc. Now we recognize Brahman as the object of our know- ledge and the Veda as the pramana of our knowledge: could we then be unable to reach a proved conclusion? As the venerable Dvaipāyaṇa declares in the Mahābhārata: .... who knows that I, unborn and undying, am the world's sovereign lord,[^214_196] Two orders of entities are in this world, a transi- tory and an imperishable one: the transitory comprises all elements, the imperishable one is called kütastha. But there is another higher person that is called the Supreme Spirit, who is the eternal Lord who penetrates and supports the entire Universe.[^214_197] And He matures the time; no time is there, there is the Lord alone. Those, my dear, are the evolutions of the realm of the Supreme Spirit. You should reflect on this that this entire transcient Universe, evolving from the unevolved to the last differentiations and owning a wealth of developments, is Hari's sport.[^214_198] For in Kṛṣṇa alone is the rise and decline of the worlds, and for Krsna exist all these beings animate and inanimate.
+
+[^214_199] Here *kṛṣṇasya hi kyte* "for Krsna" means that the Universe is an accessory to Krsna.[^214_200] The venerable Parāśara too declares: "The word Bhagavat is used for the pure Supreme Brahman in his infinite manifestation as the first universal cause.[^214_201] The word Bhagavat connotes all his perfections, knowledge, power, strength, sovereignty, forti- tude and glory, without any imperfect quality etc.[^214_202] Thus this word Bhagavat is a master-word applicable to none but Vasudeva who is the Supreme Brahman.[^214_203] This term, whose object, expression and signification are so worthy, applies directly only to Him, and to others only indirectly.[^214_204] That Supreme Order called Visnu is thus qualified; it is immaculate, real, pervasive, perennial and free from all imperfections.[^214_205] And Time, compris- ing minute, hour etc., is no cause of any evolution in His manifestation.[^214_206] Hear the exploits of Him that sports like a child.[^214_207] Manu, too, says: ....the Commander of all, subtler than the subtle[^214_208].., Yajnavalkya,[^214_209] too: the puri- fication of the *kṣetrajña* by knowledge of God is deemed the highest. And[[P215]]
+Apastamba declares: *püḥ präninaḥ sarva eva guhaśayasya*,[^215_210] i.e. "all breath- ing beings constitute the *pur* "town" or "body"[^215_211] of Him whose dwelling- place is secret: the Supreme Spirit"; *praninah*[^215_212] means "the composite beings of matter ensouled by the individual soul."[^214_199]: 199. MBh. 2, 38, 23 Krsna eva hi lokānām.
+
+[^214_200]: 200. Same interpretation GBh. 4, 4; on sesa- supra note 3 and infra § 122.[^214_201]: 201. VP. 6, 5, 72 suddhe mahāvibhūtyäkhye.
+
+[^214_202]: 202. VP. 6, 5, 79 jñanasaktibalaiśvarya-.
+
+[^214_203]: 203. VP. 6, 5, 76 evam esa mahāśabdo.
+
+[^214_204]: 204. VP. 6, 5, 77 tatra pujyapadarthokti-[^214_205]: 205. VP. 1, 22, 53 evamprakaram alam,
+
+[^214_206]: 206. VP. 4, 1, 84 kalamuhurtādi-
+
+[^214_207]: 207. VP. 1, 2, 18 kridato balakasyeva.[^214_208]: 208. Manusmrti 12, 122; the Vulgate reads aniyāmsam amorapi.
+
+[^214_209]: 209. Yajnavalkyasmrti 3, 34 kṣetrajñasyešvarajñānād visuddhiḥ parama matā.
+
+[^215_210]: 210. Apastambiyadharmasutra 1, 8, 22, 4 piḥ praninaḥ sarva eva guhāśayasya; the reading sarvaguhasayasya of some MSS., adopted by Sudarsanachari, is, as follows from R.'s own interpretation and Bühler's edition, to be rejected.
+
+[^215_211]: 211. S. quotes 'the Naighantukas' (= Halayudha, Abhidhanaratnamālā 2, 355) angam vapur varsma puram pratikam.
+
+[^215_212]: 212. pranin-, synonymous with saririn "soul in the body."
+
+§ 43. But what is the use of this pathos? The objection is still not refuted!
+We reply: once we agree upon this we have refuted your entire objection by asserting that contraction and expansion of consciousness,[^215_213] which is a dharma of the soul that belongs to its very nature, are supremely real inasmuch as they are caused by karman. For you, however, illumina- tion is not a dharma but the proper form itself: so contraction and expansion of it cannot reasonably be admitted. Factors like karman,[^215_214] which bring about the obscuration, are the cause that illumination cannot originate. If you assume that nescience is the obscuring factor, then the illumination, which is the proper form, is annihilated, as we have pointed out before. For us, on the other hand, the illumination of knowledge, which is an eternal dharma of the proper form, is contracted by karman that takes on the form of ignorance. Owing to that contraction the identification[^215_215] of the soul with the proper form of its body, god etc., is brought about. This is the difference between our views. As has been said: ignorance, also called karman, is considered to be the third power by which the power which is the individual soul that is in everyone is frustrated and has its share of all the sufferings of samsara which have too long a life. And in proportion that this power called individual soul is obscured by the ignorance it works in all beings in different degrees.[^215_216] Which shows that ignorance, or the karman of the individual souls, causes the knowledge, which is a dharma proper to them, to contract and expand.[^215_213]: 213. caitanya- "spirituality" (<cetana- "spiritual being"; advaitic term rarely used by R.), synonymous with jñana- or praloasa-; for a systematic account of the theory of dharmabhutajnana- see YID chapter VII.
+
+[^215_214]: 214. Other factors are, acc, to S., vasana "residue of former impressions creating habits of thought and practice" and the prakṛti with its three constituent gunas.[^215_215]: 215. abhimana.
+
+[^215_216]: 216. VP. 6, 7, 61-63; for R.'s interpretation of this VP. context I may refer to my paper The Subhasrayaprakarana etc.
+
+§ 44. Furthermore, on the authority of the śrutis and on the strength of the doctrine of identity, you have to[^216_217] resort to an obscuring nescience that is a deficiency which causes Brahman's proper form to disappear. Inasmuch as this nescience itself is false, it requires another deficiency that gives rise to the very notion of nescience, just as the phenomenal world requires a deficiency giving rise to the very notion of phenomenal world, viz. the nescience. Therefore, considering that nescience itself cannot be the ultimate cause of false notions, Brahman Itself must be the ultimate cause of false notions: since it has no beginning this nescience must have been false from all eternity: so it must from all eternity have been falsely conceiv- ed by Brahman; and since it cannot be admitted that the deficiency that gives rise to the false notion of nescience is ultimately real itself, therefore Brahman Itself is the ultimate cause of the false notion of nescience, this means that Brahman being eternal we would never get rid of nescience and so never be released.[^216_218]
+
+[^216_217]: 217. "Have to" because the advaitin identifies the proper form with the obscured knowledge.
+
+[^216_218]: 218. Since the advaitin considers the avidya to be "illusory" (mithyārupa-), ie. to have no ultimate reality. of its own, he must derive whatever reality it has from a source or basis (adhisthana-) that is real, just as he, in order to explain the 'illusory' phenomenal world, resorts to avidya as the source of this illusion. This source of the deficiency avidya, which therefore must itself be deficient, must be real and not illu- sory in its turn: otherwise there would be anavastha "regressus ad inifinitum", every unreal deficiency deriving from a preceding one. This real source or substratum can be no one but Brahman. Avidya is admittedly unreal from all eternity, so Brahman must have had this Nescience from all eternity. Now, the advaitin cannot allow the eternal co-existence of truth and untruth; it follows that in the final analysis he allows only for untruth: untruth, falsity etc. is the ultimate reality.
+
+§ 45. On the same grounds[^216_219] we reject the theory: that there is only one body with one soul and the other bodies have no soul, just as the bodies we see in our dreams have no souls: in a dream only the dreamer's body has a soul and all the various and endless bodies that appear during the dream have no souls at all, because they are only the products of the imagination of that single one, so that their souls are false.[^216_220] Now we say,[^216_221] since Brahman[[P217]] only imagines the existence of souls different from his own proper form and further only imagines that there are any bodies at all, the real existence of an embodied soul in one single body is as false as the body itself, so it follows that all bodies are false and the existence of souls in those bodies is false too. Hence there is no difference between one body and the real existence of a soul in it. But for us when we awake from our dream the personal body of the dreamer and the real existence of a soul in it are not sublated whereas the other bodies and the indwelling souls of our dream are sublated. It follows that they are all false and that only the personal body with its indwelling soul has any reality at all: that is the difference we make.
+
+[^216_219]: 219. Viz. that all except Brahman is illusory (S.).
+
+[^216_220]: 220. ekajivavada; Appaya Diksita, Siddhantalesasamgraha, 2, 2, 32 describes this theory in very similar terms and images: eko jivah, tena caikam eva sariram sajivam, anyani svapnadrotasariraniva nirjiväni, tadajñánakalpitam jagat, tasya svapnadarśanavat yavadavidyam sarvo vyavaharah; baddhamuktavyavasthäpi nästi jivasyaikatvät; suka- muktyädikam api svapnapurusantaramuktyädikam iva kalpitam; atra ca sambhävitasakala- sankapankaprakṣalanam svapnadrstäntasaliladharayaiva kartavyam iti.[^216_221]: 221. R.'s argument is: acc. to the advaita only Brahman is real and everything else illusory; consequently all bodies are unreal and there exists no proper jīva existent in a body. Granted that the bodies and souls that we dream about are illusory, the advaitin cannot even maintain that there is an embodied dreamer; the embodied dreamer is also illusory. The bodies and souls that the (illusory) dreamer dreams about are illusory in the second degree, but the illusory dreamer is no more real than the phan- toms of his dream. So, in the final analysis, there is no difference at all between the existence of any body and the existence therein of any soul, whether they are illusory in the first or in the second degree. So the entire instance is inappropriate: appropriate is it when the reality of the dreamer and his body is accepted: only then the illusoriness of the dream's bodies and souls can be defined by the reality of the dreamer's body and soul.
+
+§ 46. Further we must inquire now how the nescience ceases to exists, and what that cessation is after all,[^217_222]
+-The knowledge of identity puts an end to it, and this cessation is of such a kind that it is contrary to inexplicable.
+Then we contend: something is contrary to inexplicable means some- thing is explicable:[^217_223] it must be either real, or unreal, or both, there is no other alternative. When it is held to be different from Brahman, then the nescience cannot yet have ceased to exist.[^217_224] When it is held that Brahman Itself is the cessation, then it should have ceased before, because that follows from the knowledge of the Vedanta which teaches that Brahman[[P218]]
+was originally non-differentiated. So your theory that the knowledge of identity as such means cessation of nescience and that without it there is samsara is invalidated,
+
+[^217_222]: 222. S. notes that kidṛśi in the question is used pejoratively (kşepärtha), as it well may be to it correspond in the reply the words anirvacaniyapratyanikákāra, which to R.'s realistic mind is an exceedingly clumsy way of expressing oneself.
+
+[^217_223]: 223. Anything not inexplicable (anirvacaniyapratyanika) is therefore explicable: it must be explained either as real, or as unreal, or as both. If the cessation is unreal, there is nothing to discuss. If it is real, two alternatives present themselves: it is either different from, or identical with Brahman: 1. if it is different, then duality must persist ultimately and Nescience, responsible for duality, has therefore not ceased; 2. if it is identical with Brahman, Nescience has ceased from all eternity, so that Nescience does not appear at all. If the cessation is both real and unreal, Nescience is non-existent on both counts.
+
+[^217_224]: 224. Being different from Brahman it is 'false' (belonging to the realm of Nes- cience), and consequently its annihilation is false; so, if Nescience is annihilated, it must still be there to account for the traces of duality left by its own annihilation,
+
+§ 47. Moreover, the question must be raised: considering that the terminating knowledge itself is also false, who terminates that terminating knowledge in its turn?
+-After having put an end to all difference other than itself the termi- nating knowledge vanishes by itself because its nature is but momentary, even as a fire in a forest or a counter-poison terminate themselves.
+No! The terminating knowledge is different from Brahman. There- fore its proper form, and its origination and annihilation are false. Hence follows that the nescience persists in the form of its annihilation.[^218_225] So it remains to be said what puts an end to the notion that that knowledge has been annulled. A forest fire etc. too have of necessity a series of successive developments that are contrary to their initial phase of being.
+
+[^218_225]: 225. As S. remarks: to be annihilated is, by definition, to enter on a phase of being opposed to former phases; it is not completely nothing: na tu dravyābhāvaḥ,
+
+§ 48. Furthermore, of what kind is the subject of the knowledge which denies everything that is different from Brahman as pure consciousness?
+-He has the form of superimposition.
+No, for then he is to be denied by, and consequently the object of, the terminating knowledge so that he cannot be its subject.
+-Brahman's proper form then.
+Then we have two alternatives: is Brahman's proper form in its pure form the subject of the terminating knowledge or in its superimposed form? If it is superimposed, than this superimposition and another nescience from which it derives will persist because they themselves are not the objects of the terminating knowledge. If still another knowledge is assumed to put an end to them, there will be a regressus ad infinitum, because this knowledge will also have the triple character of all knowledge. For if it lacks this triple character[^218_226] all knowledge ceases to be knowledge at all, since know- ledge is of some subject and has the form of a definite validity for a definite object. So if it lacks this triple character of all knowledge, your terminating knowledge is no more terminating than a knowledge constituting a proper form. When you assume that the subject of knowledge is Brahman's proper[[P219]]
+form in pure form, then you adopt our point of view. It is ridiculous to say that the proper form of the terminating knowledge as well as the person that exercises this knowledge are to be numbered among the objects that they themselves terminate: not less ridiculous, in fact, than if in the case of an action of cutting wood, when it is said: "Devadatta cuts everything but the earth," this would be taken to mean that the person cutting and the cutting activity itself are to be reckoned among the things that are cut![^219_227]
+
+[^218_226]: 226. The 'triple character' (trirüpatva), or the three constituent factors of all knowledge are 1. jñāt "the subject of knowing"; 2. jnana- "the act of knowing"; 3. jñeya- "the object of knowing".[^219_227]: 227. Same comparison SBh. 1, 1, 1, p. 125 where THIBAUT renders bhutalavyatirik- tam "everything on the surface of the earth", instead of "everything different from the earth itself:" to bhutala- corresponds Brahman, the act of knowing sublates everything different from Brahman. LACOMBE translates "tout ce qui dépassait la surface de la terre", which is not very clear.
+
+§ 49. Further, we should inquire into another question: what source gives rise to that knowledge of identity which puts an end to all diversity?
+-That source is the śruti.
+That is impossible: for the śruti being different from Brahman is a product of the imagination of nescience and can therefore never act as the source of knowledge that sublates the phenomenal world. For a certain erroneous notion that springs from a faulty cause, for example that a rope is a snake, is not sublated by the cognition that it is no snake but a rope, if that cognition too springs from a faulty cause. Suppose that when we have that notion of snake and are consequently afraid of it, a certain confused person comes along and assures us that it is only a rope and not a snake: then, if we knew that that person is confused, his assurance would not sublate our notion that the rope is a snake and our fear would not vanish.[^219_228] Similarly, a man who has effective knowledge[^219_229] knows at the very time when he hears the śruti that the śruti too is founded on error, since it is different from Brahman. Besides, if a man with knowledge were told that the terminat- ing knowledge and the sastra in which that knowledge is assembled can be sublated themselves, then he would instantly conclude: "Oh, but then there is no reality in the termination of the phenomenal world," and he would know that the phenomenal world is real, in the same way as he would know, when a man appearing in his dream had told him that his father had died, that his father was still alive in reality. Besides, the statements *tat tvam asi* etc. would not[^219_230] sublate the phenomenal world[^219_231] because they are founded on error, just as the sublating assurance of the confused person to the effect that there was only a rope and no snake would not be sublating at all.
+
+[^219_228]: 228. Same argument and comparison SBh. 1, 1, 1, p. 54.[^219_229]: 229. prayojakajñānavataḥ.[^219_230]: 230. i.e., even if the lakṣita sense of tat tvam asi is admitted.
+
+[^219_231]: 231. As represented by tvam, the embodied atman.
+
+§ 50. But, in point of fact, would it not be more like this: when we are afraid of something in a dream but we realize while dreaming that it is only a dream, then our previous fear vanishes, as is a matter of common experience: in the same manner this could be possible in our case too.
+That is not true, for it is also a matter of common experience that our fear does not cease, even though we realize while dreaming that is all a dream; so that does not make any difference.[[P220]]
+
+§ 51. You say that while we hear the śruti we realize that it is all a dream. But what you actually say is this: the sastra, although it is false because it is a product of an erring imagination, expounds that Brahman has no second; and because later on it appears that the sastra cannot validly bear upon a Brahman that is so as the sastra asserts, it follows that this Brahman is proved. This is improper reasoning, for the assertion that all is nil sublates itself too.
+-But this assertion itself is [[found|founded]] on error.
+Then you say yourself that the assertion that Brahman has no second is also founded on error. The only difference is that the invalidity of the assertion itself that all is nil appears later on. So, he who holds the view that all is nil and he who holds the view that all entities different from Brahman are false do not recognize the reality of the pramānas that prove their own points; therefore the really competent declare that their views have no title to philosophy at all: Philosophy marches always on as long as philosophers have real means of knowledge; but the philosophy of the sunyavādin has no title since it has no means.[^220_232]
+
+[^220_232]: 232. Kumārila, Slokavärttika, Niralambanavada, st. 128 cd; the half sloka here translated follows (129 ab); adhikaro 'nupāyatvan na väde sunyavädinah, where upaya = pramāna.
+
+§ 52. Moreover[^220_233] which pramāna proves that the phenomenal world as apprehended by perception is false?
+-As perception can by other means be proved to derive from a defi- ciency, the non-deficient scripture, being not so proved by other means, sub- lates perception.
+Then I ask: what deficiency can give rise to a perception that has infinite diversity for its object?
+-Perception is produced by a deficiency arising from beginningless vāsanās[^220_234] of diversity etc.[[P221]]
+But then the sastra is produced by that same deficiency, so percep- tion and sastra cannot stand in the relation of thing sublated and thing sub- lating since they derive from the same deficiency.[^220_233]: 233. Cf. ŚBh. 1, 1, 1.[^220_234]: 234. Residues of mental impressions, creating a mentality and habits.
+
+§ 53. Perception apprehends the padarthas which have definite gene- ric structures, e.g. of a human being, connected with the elements ether, wind etc. and with the sense-objects sound, touch etc. deriving from these elements. The śastra, on the other hand, is concerned with the proper form of Brahman as modified by endless differentiating features, like his being the immanent soul in all creatures and his being real, with the various methods of worshipping Him, upasana etc., and with the specific fruits that are obtained by His Grace which follows attainment of him, and with the specific eradication of the fundamental causes giving rise to things dis- pleasing Him,-in a word, objects beyond the scope of perception. Hence follows that there can be no contradiction between sastra and perception. Anyone who maintains the superior authority of sastra qualified by numerous qualities, such as being the established doctrine transmitted by beginningless and endless uninterrupted studies etc., must necessarily recognize the reality of perception.
+But enough of refuting this web of false doctrines and faulty reason- ing that is swept away like reed by the forceful wind of hundreds of śrutis in succession. We have done with it!
+
+§ 54. The second school[^221_235] assumes that there is no other entity existing but a Brahman conditioned by adjuncts.[^221_236] It follows that where there is a natural admixture of adjuncts to Brahman all defects inherent in adjuncts will be found in Brahman Himself. That means that all śrutis which set forth that Brahman is free from all defects, e.g. that there is no imperfection in Him,[^221_237] are discarded.[^221_235]: 235. Bhaskara's bhedabhedavāda, more precisely aupadhikavāda: doctrine that Brahman, conditioned by real upadhis, constitutes the phenomenal world.[^221_236]: 236. upadhi- adjunct, i.e. an accidental factor added to an entity, subjecting it to restrictions and delimitations which condition its mode of being without impairing its essence".[^221_237]: 237. apahatapäpma, ChUp. 8, 7, 1.
+
+§ 55. But the idea is rather like this: a space-unit contained in a jug is of another character than the main space,[^221_238] since only the former is[[P222]]
+limited, and both spaces are different from each other. The properties, positive and negative,[^222_239] inherent in these space-units do not affect the main space because the main space is not so particularized. Similarly, the defects inherent in the embodied soul, which is set apart and determined by diver- sity brought about by adjuncts, do not affect the Supreme Brahman, i.e. the Brahman that is not subjected to adjuncts.
+This proves nothing. It is not possible to cut the indivisible main space off from the jug etc. for it cannot be divided up; so that the jug remains connected with the main space itself.[^222_240] Similarly it would follow that since Brahman cannot be cut off, He would remain connected with the adjuncts in his entirety.
+-But the particular place in space connected with the jug differs from all other places in space.[^222_241]
+From the fact that the main space remains connected with the jug in varying places it follows that, when the jug moves about, any place without any restriction can be connected with the jug.[^222_242] So, since the adjunct is in a comparable way conjoined with Brahman without any constant restriction to a definite place, it would follow that it can move about in varying places in Him, and if it does so, varying places in Brahman would alternately be connected with the adjunct and disconnected: that would mean that the whole of Brahman could be conjoined with the adjunct[[P223]]
+and that every moment He would be bond and released! People in their right minds laugh at this.
+
+[^221_238]: 238. ākāśa- "space/ether," first of the mahābhūtāni, conceived as a material ele- ment that is spatially unlimited: it is held to be eka- "indivisibly one" and vibhu- "om- nipresent". Space may be adjoined to by a jug which has a finite measure of capacity; although this jug with the space contained therein delimits the space to a finite extent, it does not, to the mind of the aupadhikavädin, affect its unlimitedness. The comparison, although, as far as I can see, not developed by Bhaskara in this way, is found in his Brahmasutrabhäṣya, e.g. 2, 3, 43 (p. 141) katham punar niravayavasya paramätmano 'msaḥ sambhavati / agamat tavad avagamyate yathagneh kṣudrā visphulingā iti dṛṣṭānta iti pranayanat yatha cākāśasya pārthivadhisthānāvacchinnam karnacchidram ca: "but how is it possible that the Supreme Spirit, who is indivisible, has an amsa?-This is learnt from the Scriptures: it is demonstrated in the illustrative instance "just as tiny sparks spring up out of a fire, similarly all pranas, all worlds, all gods, all creatures spring from this atman" (BAUp. 2, 1, 20), just as from space (a part) is delimited by a substratum like a clay jug, and (the space contained in) the cavity in the ear". Also 1, 4, 21 (p. 81) samyag dha bhavan asti bhedo 'py anadikalapravṛttävidyākarmopadhyavac- chedad amio hi parasyāyam jivo nama yathāgner visphulingah, yathākāsasya pārthivādya- dhiṣṭānopadhyavacchinnaś chidrapradeśaḥ tadamsasabdagrahanaśaktyapeksa, etc.
+
+[^222_239]: 239. guna and dosa.
+
+[^222_240]: 240. In other words: the finite character of the space enclosed in a jug cannot be separated from the main space: the main space contains the finitized extent so that, in its entirety, the main space is restricted: it can never transcend this extent.
+
+[^222_241]: 241. The point which the aupadhikavādin wants to make is that the finitized ex- tent of main space, though concededly never disconnected from the main space, yet derives from its isolated finiteness a distinct individuality marking it off from main space: essentially the enclosed space remains space.
+
+[^222_242]: 242. R. retorts that each and every part of space can be delimited by a jug, so that space is forever alternating between limitedness and unlimitedness. Applied to Brahman this consequence is absurd.
+
+§ 56. The one indivisible space is the auditory sense but nevertheless space is only partially defined as a sense:[^223_243] similarly Brahman too can be shown to be partially defined.
+It is not reasonable to say that, since a definite place in space if connected with a certain room in the ear that has been prepared by a special sort of wind takes on the function of sense,[^223_244] therefore space itself is partially defined as a sense, although that place is infinitely variable.[^223_245] The bodies of all beings move freely without any restriction through space: therefore they are all connected with all and sundry places in space. So, if applied to our topic, it would rather follow that there is endless variation in and no constant restriction to the places in Brahman that are connected with adjuncts.
+
+[^223_243]: 243. The argument is that only that part of space contained in the aural cavity is the auditory sense. This argument is essentially the same one as that put forward above: even though ākāśa be partially defined as a sense (which R. does not admit), there is no spatially fixed part for it: any part of space may take on this function.
+
+[^223_244]: 244. The Naiyayika theory of sound holds that śrotra- "auditory organ" is that extent of space that is delimited by the aural cavity (karnasaskulyavacchinnam). The organ of hearing therefore cannot move out to find its object (as the organ of seeing goes out to find its object), since outside the aural cavity it is plain ākāśa, not śrotra. So the space inside the ear (śrotra) receives the sound. R's expression vayuvišeṣasam- skrta is explained by S. uccāraṇaprayatnajanitavāyuvišeṣasamyogasamskṛta- "prepared by the contact with a particular current of air produced by the energy of producing sounds."
+
+[^223_245]: 245. R.'s objection is that all space must be definable as śrotra since space is indi- visible: any part of space may happen to be contained in an aural cavity, so all space must have this function.
+
+§ 57. - If we assume that space is the auditory sense by its proper form, we can likewise state that space is partially defined as a sense.[^223_246]
+But actually space is not the auditory sense at all. For the Vaidikas declare: the eleven senses evolve out of the vaikärika ahamkara.[^223_247][[P224]]
+The venerable Parāśara says likewise: taijasānīndriyāny ahur devā vaikāri- kā daśa, ekādaśam manaś cātra devā vaikarikāḥ smṛtah,[^224_248] i.e. aham- kāra is triple: vaikarika, taijasa and bhūtādi; respectively it is sättvika, räjasa and tāmasa. After having declared that the order of creation is such that the elements, space, etc., evolve out of the tāmasa form of ahamkāra, viz. the bhütādi, he alludes to the rival view that the eleven senses evolve out of the taijasa or rājasa form of ahamkāra. Then he states his own view, namely that the vaikärika indriyas evolve out of the sattvika ahamkāra: devā vaikārikāḥ smṛtāḥ, where devāḥ means "the senses".[^224_249] In the Mahabharata it is declared that the bhutas nourish the ähamkarika indriyas.[^224_250] Even if it were true that the senses evolve out of the bhūtas, the senses of the puruşa would-since they are transformation of the elements ākāśa, etc.-become distinct and peculiar evolved products of these elements,[^224_251] in the same manner as the body. Similarly, it cannot[[P225]]
+be refuted that Brahman, being not cut off, nor divisible, nor transformed, would inevitably have without any restriction the defects of conjunction with adjuncts of infinite evil. Now, philosophers who know the scriptures do not think much of this: it is a theory of the very credulous! Assuming that Brahman's essence is subject to evolution, they sublate the śrutis that de- clare that He is untransformed.[^225_252] And when they say that Brahman itself remains untransformed and that it is Its creative potency that is involved in evolution,[^225_252a] then we raise the question: is this potency an evolved pro- duct of Brahman, or is it identical with Brahman? Whichever alternative is adopted, the assumption would remain necessary that Brahman's essence is subject to evolution.[^223_246]: 246. This argument is more urgent: the aupadhikavādin concedes that all space is essentially śrotra, either in potentiality, or, in definite parts of it, in actuality. But, if applied to Brahman this would mean that Brahman is essentially identical with the finite conditioned entities: aupadhikavāda becomes pantheism, implicating the Absolute in the conditions of the finite.[^223_247]: 247. However primitive these ancient Samkhyan views may appear, their intro- duction here is very apt: while, to the very end, arguing by analogy of the dṛṣṭanta supplied by his opponent, R. proves that a scrutiny of the drṣtanta itself puts his adversary in the wrong.-The 11 senses are the manas- "co-ordinating organ of sensorial impressions", the 5 sensorial and the 5 motorial senses (buddhindriya and karmendriya).
+
+[^224_248]: 248. VP. 1, 2, 46-47 "some contend that the indriyas derive from the taijasa form of ahamkara, (but) the ten senses, and manas as the eleventh, are (in fact) pro- ducts of its vaikärika form: hence the senses are known as vaikarika."..There is some discrepancy between the various interpretations of the commentaries. Citsukha and Visnucitta explain devah as indriyani (C. devah divyanti vyavaharanty ebhir iti devā indri- yāni; V. indriyanam devasabdavacyatvam tadadhisthätṛdevatābhiprāyena); Sridhara and Dattatreya as the superintending deities, referring to BhP. 2, 5, 30 diguätärkapraceto'évi- vahnindropendramitrakah (ka- Prajapati). The Visistadvaitin V. is the only one who interprets like R. svapakṣam dha-atra deva etc.; the others have the ten indriyas derive from taijasa, and only manas from vaikarika, explaining the plural vaikärikäh as the superintending deities of manas.-R.'s interpretation corresponds to that of Pañcaratra, cf. SCHRADER, Pañcaratra, p. 76.
+
+[^224_249]: 249. The order of evolution described in VP. 1, 2, 34 is as is shown here: Pradhana →Mahattatva → Ahamkara;
+Ahamkara
+(1) tamasa = bhūtādi
+(2) rājasa = taijasa
+(3) sättvika = vaikärika
+tanmätras
+sabda
+sparsa
+гира
+bhūtas
+ākāśa
+buddhindriya
+śrotra
+karmendr.
+→vāk
+karau
+→pădau
+→upastha
+rasa
+gandha
+vāyu tejas ambhamsi samghāta
+tvak
+caksuḥ jihvä
+nāsikā →→→ payu
+
+[^224_250]: 250. Reference is to MBh. 12, 194, 5 ff. and similar texts.[^224_251]: 251. Yet, being products of the bhūtas, the senses can be distinguished from them: they are not the elements itself, but their products (srotra←ākāśa). It is not clear exact- ly which stand R. takes: if ākāśa is not śrotra, then what is śrotra? "N'ayant aucune idée du dispositif de l'oreille interne, les Vaisesika-Naiyayika ont localisé l'organe de l'audition dans le pavillion; et, comme ils n'y apercevaient rien de spécial, au creux de la conque qui percevait le son: il s'ensuit que dans ce cas particulier l'organe du sens se confond pour eux avec la substance dont il perçoit la qualité" Foucher, TS. p. 76. Insisting on some sort of a difference between auditory sense and space, comparable to that between body and component elements, R. seems to suggest that the auditory sense is vested in an organ of the body rather than identical with an indefinite and variably localized part of space.
+
+[^225_252]: 252. Cf. SBh. 1, 1, 1, p. 113 bhedabhedavāde tu brahmany evopadhisamsargāt tat- prayuktajivagatadosă brahmany eva prāduḥ syur iti nirastanikhiladoṣaguṇātmabhāvopa- desa hi virodhad eva parityaktaḥ syuḥ / svabhävikabhedabhedavāde 'pi brahmanaḥ svata eva jivabhāvābhyupagamad guṇavaddoşaś ca svābhāvikā bhaveyur iti nirdoṣabrahmatā- dātmyopadeśaviruddha eva. A detailed refutation is given in ŚBh. 1, 1, 4
+
+[^225_252a]: 252a. Cf. Bhaskara, BrSBh. 1, 4, 25.
+
+§ 58. The third school[^225_253] assumes that the individual soul and Brahman are different-non-different: it follows that Brahman is identical with soul and that in the same way as Saubhari[^225_254] is different from himself and the Lord is different from His own incarnations, everyone is different from the Lord. This leads consequently to the conclusion that the defects inherent in the jīvas are also His.
+In other words: the view that God Himself constitutes, in His essence, the various creatures gods, men, brutes, plants etc., declares that God is identical with these creatures in essence. Such being the case, all defects like happiness, unhappiness etc. that go with the soul, also go with the[[P226]]
+Lord, just as all actions, e.g. the fetching of water, that go with the jug, bowl etc. which originate from a single lump of clay, also go with that lump of clay itself.
+
+[^225_253]: 253. School of Yadavaprakasa, S. sums up the difference between Bhaskara and Yadava: acidbrahmanos tu sarvasya brahmätmakatvaśruteh, nirmalatvādiśruter upādhyan- tarabhyupagame 'navasthänäcca bhedabhedau sväbhävikäv abhyupagatau bhaskaramate /yüdavaprakāśamate tu muktav api bhedanirdeśaśruter jivabrahmanos ca svabhävikäv abhimatāv iti bhidā.
+
+[^225_254]: 254. Saubhari, mythical person, reputed to possess 50 bodies at once to satisfy his 50 wives (drsyate hi saubhariprabhṛtinam aktimatām yugapad anekasarirapratipattiḥ, SBh. 1, 3, 26), of which he was the sole jiva (saubhariprabhṛtisu hy amaikatvenāneka- sariraprayuktasukhadipratisamdhanam ekasya dreyate, ib. 2, 1, 15 p. 434); for the story see VP. 4, 2, 66-133; BhP. 9, 6, 38-55. The purpose of saubharibhedavat as well of sud- vatārabhedavat is to exemplify identity in the guise of plurality: in spite of the seeming difference there is but identity: God is the individual soul.
+
+§ 59. - But is it not rather like this: in the same way as a substance of clay by itself, when it has no function in the various generic structures of jug, bowl etc., has other effects as well: similarly the Lord by Himself, when He does not function as the soul of god, man, animal etc., is possessed of omniscience and of all perfections like the power of having his every will realized.
+True. You say that one and the same Lord possesses all sorts of perfections in one part of Himself and all sorts of imperfections in another part of Himself. This is the logical consequence of the fact that two different parts do not make two different Lords.
+But both parts are well distinct[^226_255] from each other.
+What do you gain by that? For if the same Lord is in one part eternally miserable you cannot say properly that He is happy in another part. The Lord would be comparable to Devadatta who has one hand anointed with sandal-paste and adorned with bracelets and rings, and his other hand hit by a hammer and hurting with hell-fire!
+We may say that this bhedabheda doctrine is worse even than the doctrine that Brahman is nescient:[^226_256] for it contends that immeasurable misery is ultimately real and that it can never be overcome because there is no end to beings implicated in samsara.[^226_257][^226_255]: 255. vyavasthita- "delimited one from the other."[^226_256]: 256. i.e., advaitavedanta.[^226_257]: 257. Since God is identical with the jiva in bondage, bondage is henceforth inescapable.
+
+§ 60. But the part 'embodied soul' in Him is different from Himself.
+Then you are walking on my road. But when the relationship between Lord and soul is described in terms of identity in essence, then it is logically unsound to maintain difference; whereas it is sound when this identity is stated in the terms of a body-soul relation.[^226_258] Contrary to you We can declare that the Lord's qualities are universal, including his Sovereignty over all worlds etc.; and the samānādhikaranya thus retains its proper sense.
+
+[^226_258]: 258. R.'s solution of 'difference in union'.
+
+§ 61. Further, we say that one and the same entity cannot possibly be different and non-different at once, because that is a contradiction in[[P227]]
+terms. If a jug is different from a cloth, than the one cannot exist in the other; only if there is no difference one can exist in the other. But that in the same place and at the same time one and the same entity does at once exist and not exist in another entity is a contradiction in terms.
+
+§ 62. -But one entity can at once exist in another entity in so far as it is class and not exist in so far as it is individual.[^227_259]
+If there is no difference between the class 'ox' and the individual 'hornless ox', it follows that the individual 'hornless ox' also exists in the individual 'broken-horned ox'. If class and individual are different and non-different, there are two cases at once: first, if the individual 'broken- horned ox' is not different from the class 'ox', the broken-horned ox exists in the hornless ox; second, if they are different, the class does not exist at all in the individual, just as the class 'buffalo' does not exist in an individual horse.[^227_260]
+
+This contradiction is plainly insoluble. Class etc. constitute the generic structure[^227_261] of a given thing and are consequently modifications of that thing; hence, as we have said before,[^227_262] the modifying attribute and the modified thing are different padarthas, the modifying attribute has no separate function and cannot be separately apprehended,[^227_263] and the same generic structure can appear as modification in more than one thing.
+
+[^227_259]: 259. That is to say: two entities are non-different inasmuch as they belong to the same class and share the same generic differentiae, whereas at the same time they are different in so far as they differ in individual characteristics; cf. Bhaskara, BrSBh. 1, 1, 4.[^227_260]: 260. R. considers this statement under the two aspects by which the duyatmakatva (supra note 147) in bhinnabhinnatva can be viewed; abhinnatua and bhinnabhinnatua; the third aspect of bhinnatua conflicts too self-evidently with the alleged duyatmakatva to bear mention. I have interpreted this extremely concise passage with the aid of S.; SRINIVASACHARI's interpretation (Bhedabheda p. 211) differs. For a very detailed refu- tation cf. Vacaspati's Bhamati on Sankara's BrSBh. 1, 1, 4; cf. also ŚBh. 1, 1, 4.
+
+[^227_261]: 261. samsthäna- see supra note 86.
+
+[^227_262]: 262. Supra § 30.
+
+[^227_263]: 263. prthaganupalambha-
+
+§ 63. The judgment "this is he" is founded upon identity of mode, in the same manner as is the judgment: "this one is a man-with-a-stick."[^227_264] And this very modification, of class etc., is declared to be the differentiation of a given thing. The possession of such a differentiating attribute furnishes the ground on which we treat a thing as different.[^227_265] This modification is at once the ground for acting upon the difference and for acting on the thing itself, in the same way as awareness: just as the being aware[[P228]]
+of a given thing furnishes at once the ground for our acting on that thing. and for acting upon the awareness[^228_266] itself.
+
+[^227_264]: 264. S. comments: so 'yam iti buddhir anuvrttaviṣayavyavahäränvita buddhis tajjätiyatvabuddhir ayam api gauḥ iti buddhir ity arthah; in the second case ayam api dandi, the stick (danda-) is the prakära,
+
+[^227_265]: 265. vyavahārahetu-
+
+[^228_266]: 266. samvedana-
+
+§ 64. In consequence of these reasons all theories that perception apprehends mere being and does not apprehend difference are rejected,[^228_267] firstly because only an entity that has a definite generic structure - class etc. — is apprehended by perception; secondly because this class etc. taking on the form of generic structure furnishes the ground for treating it as different in regard to its correlative. That it is a fallacy to assume evolution in proper form has already been pointed out.[^228_268]
+
+[^228_267]: 267. By his theory of dvyatmakatva the bhedabhedavādin postulates the possibility of apprehending the "pure thing" (vastusvarupa-) apart from its differentiations and attributes. Of this view R. has disposed supra §30..
+
+[^228_268]: 268. Supra § 57.
+
+### III
+
+§ 65. All the śrutis e.g. He who residing in the earth is different from the earth, whom the earth does not know, whose body is the earth,' who directs the earth from within, He is thy soul, the immortal inner Ruler;[^228_269] He who residing in the soul is different from the soul, whom the soul does not know, whose body is the soul, who directs the soul from within, He is thy soul, the immortal inner Ruler,[^228_270] He who lives within the earth, whose body is the earth, whom the earth does not know, etc....who. lives within the aksara, whose body is the aksara, whom the aksara does not know....who lives within death, whose body is death, whom death does not know He is the One who is the immanent soul of all beings, who is without any evil, the divine unique God Nārāyaṇa;[^228_271] Two birds, inseparable companions, have alighted on the same tree. One of them eats the sweet berry; the other looks on without eating;[^228_272] The commander of men, who has entered within them, the soul of all,[^228_273] after having created it, He entered into it; having entered it It became present and yonder, true and untrue;[^228_274] By way of this living soul....;[^228_275] When he knows the soul from the mover, then he attains with It immortality;[^228_276] when the enjoyer knows the enjoyed and the mover- all three of them are declared to be the triple Brahman;[^228_277][[P229]]
+He that eternal, spiritual and unique grants the desires of the eternal spiritual and plural;[^229_278] the Lord of the gunas, Lord of matter and soul;[^229_279] There are two unborn ones, knowing and not knowing, sovereign and not sovereign,[^229_280]—all these śrutis and hundreds more, as well as the declarations of Valmiki, Parasara and Dvaipayana, foremost of Vedic scholars, corroborating the evidence of the śrutis, such as the entire world is thy body, the earth is thy fortitude;[^229_281] whatsoever is created by all living creatures in the production of all that can be created, O Brahman, that all is verily Hari's body,[^229_282] I am the soul, O Guḍakesa, that is the resting-place of all beings;[^229_283] having en- tered into and residing within the heart of all I am the source of remembrance, knowledge and surmise;[^229_284]_all these śrutis and smṛtis pro- pound that Brahman Himself is modified by all spiritual and non-spiritual entities; (1) since it is learnt from them that the Supreme Brahman is the soul of all and that all entities, spiritual and non-spiritual, constitute his body; (2) since the body is a padartha[^229_285] only by virtue of its function of modifying the being it embodies; and (3) since, although body and embodied being have different properties, they are not confused with each other.[^229_286] This doctrine of a Brahman modified by all spirit and non-spirit they propound by the use of sāmānādhikaranya constructions etc., taken in their primary sense, which set forth Brahman's supernal manifestation[^229_287] by declaring that Brahman is embodied by all. For sāmānādhikaranya is the application of two terms to connote one meaning under the aspects of two modifications. In our interpretation it retains its primary meaning. So in the sāmānādhikaranya of tat and tvam in tat tuam asi[^229_288] the word tat refers to the perfect Brahman who is the universal cause and the possessor of all perfections; whereas the word tuam, which is used predicatively of spiritual entities, refers to Brahman as being qualified by the individual soul, or as embodied by that soul, exist- ing as the inner Ruler of the soul that constitutes His body. When taken[[P230]]
+in the sense that the other schools adopt the samanadhikaranya proper would be violated and Brahman made imperfect.
+
+[^228_269]: 269. BAUp. 3, 7, 3.
+
+[^228_270]: 270. BAUp. 3, 7, 22 (Madhyamdina).[^228_271]: 271. SubalUp. 7 antaḥsarire nihito guhäyäm ajo yasya pṛthivi sariram yah pṛthi- vim samcaran (in this order throughout) etc.
+
+[^228_272]: 272. MundUp. 3, 1, 1.
+
+[^228_273]: 273. TaittAr. 3, 11.
+
+[^228_274]: 274. TaittUp. 2, 6.
+
+[^228_275]: 275. ChUp. 6, 3, 2
+
+[^228_276]: 276. SvetUp. 1, 6.
+
+[^228_277]: 277. SvetUp. 1, 12.
+
+[^229_278]: 278. KathUp. 2, 2 (5), 13 = SvetUp. 6, 13.
+
+[^229_279]: 279. SvetUp. 6, 16.[^229_280]: 280. SvetUp. 1, 9.[^229_281]: 281. Rāmāyana, 6, 120, 26.
+
+[^229_282]: 282. VP. 1, 22, 38.
+
+[^229_283]: 283. BhG. 10, 20.
+
+[^229_284]: 284. BhG. 15, 15.
+
+[^229_285]: 285. ie., exists as a describable magnitude with a definite function.
+
+[^229_286]: 286. S. explains: kästhasya rumayaś ca dharmabhede saty eva kaṣṭhasya samsar- gaprayuktam lavanatvam drivate: evam dharmabhede 'pi samsargaprayukto yaḥ samkaras tasya sarirasaririnor asambhavad ity arthah.[^229_287]: 287. vaibhava- "totality of the phenomenal manifestations (vibhuti) of the divine Personality."
+
+[^229_288]: 288. ChUp. 6, 8, 7.
+
+§ 66. In other words, the declaration that Brahman is such proves the reality in subtle and gross phase alike of the phenomenal world, consisting in a plurality of spiritual and non-spiritual entities, as the mode denoted by the word such. Thus the full meaning of the passage bahu syam prajayeyeti[^230_289] is exhausted: the sum-total of spiritual and non-spiritual entities exists conditionally as the generic structure[^230_290] of this same Lord who has several generic structures, being either cause or effect,
+
+[^230_289]: 289. ChUp. 6, 2, 3.
+
+[^230_290]: 290. samsthana-.
+
+§ 67. However, it is a matter of common knowledge that only class and property are modifications of a substance in the form of its generic and specific structure, so that they alone can have the attributive function denot- ed by the word such, and not the substance itself. So it is improper to contend that a padartha capable of independent function is merely, as an attributive 'such," a modification of the Lord.
+
+Not less common is the knowledge that a substance, too, e.g. a stick, an ear-ring etc., serves to modify another substance.
+
+But then we see that a possessive suffix[^230_291] is required to make an independent substance like a stick etc. into a mode of another substance: danda dandin, kundala - kundalin etc. Therefore it is against reason, if by means of sāmānādhikaranya a spiritual or non-spiritual entity that is a substance of the same order as an ox is declared to be a modification of the Lord.
+
+I reply: it is common usage in Vedic as well as in profane speech to call, by samānādhikaranya, certain substances, forming complexes of elements-ox, horse, man, god etc. the modes of spiritual beings, gods etc., namely as their bodies: for example "Devadatta is born a man because of his good karman; Yajñadatta is born a cow because of his bad karman; another spiritual being is born a god because of his exceedingly good karman," etc.[^230_291]: 291. matvarthiyapratyaya- "suffix with the sense exemplified by matu (p) mant-/ mat-," Panini 5, 2, 94 tad asyästy asminn "that is of /in this."
+
+§ 68. What we mean is this: we are not concerned about whether class, or property, or substance may constitute a mode. When a certain entity serves as a distinctive feature for a certain substance, then we can properly say, by means of a samanadhikaranya construction coordinating that entity with that substance, that it has no function apart from that[[P231]]
+substance and therefore constitutes a mode of it.[^231_292] And if a substance that may have a separate function is in some place at some time wanted as a mode for another substance, then it has a possessive suffix; and that is all the difference there is.
+
+So, since the sum-total of all entities, animate and inanimate, consti- tute the Lord's body, their proper forms have real existence as the modes of the Lord. Such being the case, the Lord, who is the entity modified by all these entities, is denoted by the various words that denote these entities. Therefore these entities can appropriately be terms in sāmānādhikaranya with Him. All this we have already expounded in detail when we elucidat- ed the śruti on the separation by name-and-form.[^231_293]
+
+[^231_292]: 292. ie, all the material objects and their ensouling spiritual principles (jiva-) are in essence nothing but a mode of the Supreme Being. In the same way as the name of a body may conveniently be used to refer to the spiritual principle residing in it (e.g. devadatto manusyo jatah, where Devadatta jive and manusya- is the body.), so the Supreme Being may be denoted by the name of the jiva (e.g. tat tvam asi).
+
+[^231_293]: 293. ChUp, 6, 2, 3, supra § 17.
+
+§ 69. Consequently, Brahman Himself is also all effects, since He has the generic structure of being modified by all things: prakṛti, puruşa, mahat, ahamkara, tanmatra, elements and senses,[^231_294] the Egg of Brahmā consisting in fourteen worlds that derive from the above entities,[^231_295] and the gods, men, brutes,[^231_296] plants etc. that live within that universe. So by know- ing solely that Brahman is the cause we know all. In this manner it is established very well that knowledge of all can be had through knowledge of one. At the same time it is stated, on the strength of the causal relation etc. established hereby,[^231_297] that the sum-total of spiritual and non-spiritual enti- ties is ensouled by the Supreme Brahman inasmuch as it modifies Him.[^231_294]: 294. Samkhyan terms: purusa- "spiritual order", prakrti- "natura naturans" → mahat, first evolution buddhi- "cognitive faculty" ahamkara "subjectifying organ, ego-factor" from which on the one hand evolve the tanmatras "rudimentals" (sabda- etc.) → elements (bhūta-, ākāśa etc.), and on the other hand the senses with their co- ordinator manas (I follow the account of Visnupurana, 1, 2 to which R. evidently sub- scribes).[^231_295]: 295. Puranic cosmological conception of a universe built up in layers of 1. sub- terraneous, 2. terrestrial, 3. celestial worlds hierarchically ordered: (1) Pätāla, Mahātala, Talatala, Rasätala, Sutala, Atala, inhabited by subhuman beings and/or souls in tor- ment; 2. Bhürloka "earth"; 3. Bhuvarloka, inhabited by superhuman beings; Svarloka, suprasolar heaven, also Indraloka; Maharloka; Janarloka; Taparloka; Satya- or Brah- maloka.[^231_296]: 296. For an explication of the term tiryañc- in this sense cf. VP. 1, 5, 22
+
+[^231_297]: 297. S. explains kästhasya rumayaś ca dharmabhede saty eva kaṣṭhasya samsar- gaprayuktam lavanatvam drivate: evam dharmabhede 'pi samsargaprayukto yaḥ samkaras tasya sarirasaririnor asambhavad ity arthah. (Wait, note 297 S. explains käryakaranabhävaśabdena sanmülāḥ satpratisthäḥ (ChUp. 6, 8, 6) ity asyartho vivaksitaḥ.) [[OCR mixed up here, actually note 297: 297. S. explains käryakaranabhävaśabdena sanmülāḥ satpratisthäḥ (ChUp. 6, 8, 6) ity asyartho vivaksitaḥ.]]
+
+§ 70. - But does the negation, expressed in the śrutis that declare that Brahman is untransmuted and irreproachable,[^232_298] not deny that in his proper form the Supreme Brahman is the substratum of evolution? In prakṛtis ca, pratijñādṛṣṭāntānuparodhāt[^232_299] the Author of the Sutras declares that, by virtue of the assertion that knowledge of all can be had through knowledge of one and on the strength of the adduced instance of the clay and its effects, the Supreme Person is the material cause of the world. But being the material cause means being the substratum of evolution. Now how can this be established?
+
+[^232_298]: 298. Both terms nirvikära (-karya-) niravadya- express particularly the Abso- lute Principle's absolute freedom from the conditions and limitations of the 'transformed' effect.
+
+[^232_299]: 299. BrS. 1, 4, 23 "[Brahman is] the material cause, since [thus] there is no dis- agreement with the assertion (ChUp. 6, 1, 3) and the illustration (ChUp. 6, 1, 4)."
+
+§ 71. The reply is as follows. It has been said that the pheno- menal world animated by souls does equally constitute the material cause. Contrary to the assumption that the Lord suffers evolution in the form of individual soul, is the assertion nātmā, śruter nityatvāc ca tabhyaḥ:[^232_300] the notion that Brahman is cruel and partial is refuted by the assertion-based upon the above assumption that the souls have no beginning- that it is the karman of all the various embodied souls that causes cruelty and partiality: vaisamyanairghṛnye, na: sāpekṣatvāt.[^232_301] In na: karmāvibhāgād iti cen; nānāditvād upapadyate capy upalabhyate ca[^232_302] the Author declares that the contingency of obtainment of what is not due to karman and the loss of what is due to karmarn would only occur if the embodied souls were not eternal.[^232_303][^232_300]: 300. BrS. 2, 3, 18 "The individual soul [does] not [originate, as follows] from the Scriptures and from [its actual] eternity [proved] by those [Scriptures]."
+
+[^232_301]: 301. BrS. 2, 1, 34 "[If it be objected that this means that] partiality and cruelty [are proper to Brahman, then I reply] no, since [karman] is taken into consideration.”
+
+[^232_302]: 302. BrS. 2, 1, 35 "If it be objected that this is not so, because there is no distinction of karman,[then I reply that it follows from the fact that] the ātman is without beginning: it is established and apprehended."[^232_303]: 303. In other words: the very eternity of the atman enables a perfect justice in retribution to be worked. Whatever befalls to a soul is due to its karman: there is no arbitrary end put to its existence which would subject it to only part of what is right- fully coming to it. SBh. 2, 1, 35 repeats the same words tathanabhyupagame 'kṛtābhyupa- gamakṛtavipranäsaprasangaḥ.
+
+§ 72. The śrutis declare also that prakṛti is without beginning. In ajām ekām lohitaśuklakṛṣṇām bahvīm prajām janayantīm sarupamyajo hy eko juṣamāno 'nušete jahāty enām bhuktabhogām ajo 'nyah[^232_304] e.a. it is shown[[P233]]
+that both prakṛti and puruşa are unborn. The śrutis out of this the Master of māyā created this entire Universe and the other component was tied by the māyā,[^233_305] and you are to know that the māyā is prakṛti and the Master of maya the Sovereign Lord[^233_306] show that it is the prakṛti that is the substratum of transformation in its proper form,[^233_307] Compare also the śruti the Cow without beginning and without end, she is the genetrix that brings the beings into being[^233_308] and the smrti be sure that prakrti as well as purusa are both without beginning, and that transmutations and gunas alike are the products of prakṛti.[^233_309] Earth, water, fire, wind, ether, manas, buddhi and ahamkara are the eight components of my prakṛti,[^233_310] Know, however, that I have still another prakṛti which is of a higher order than the former, a prakyti that is constituted by the embodied souls, on which this material world is dependent, O Arjuna.[^233_311] Taking my material from my own prakṛti I create again and again,[^233_312] and under my guidance the prakṛti with its animate and inanimate beings is brought forth.[^233_313]
+
+[^232_304]: 304. MahaNarUp. 9, 2 "With the one uncreated (matter) that has form, and that produces effects of various kinds, one uncreated (soul) joins itself to enjoy it, whereas another uncreated (soul) goes free from it when it has ceased to enjoy it", SvetUp. 4, 5 (reads prajāḥ srjyamānām) where no doubt (cf. next stanza dva suparṇā sayujā etc.) a play is intended on aja "she-goat" with red, white and black kinds, and aja- "he-goat". Red white and black products of the primeval causal matter are the fire (tejas-), water (apas) and earth (anna-), the three pre- or proto-Samkhyan elements of ChUp. 6, 2, 3; cf. Intr. chap. I.
+
+[^233_305]: 305. SvetUp. 4, 9 asman mayi sṛjate, and cf. R.'s exegesis SBh. 1, 4, 27.
+
+[^233_306]: 306. SvetUp. 4, 10 māyām tu prakṛtim vidyat.
+
+[^233_307]: 307. As distinct from the ätman which suffers the transformations (vikára-) of contraction (samkoca-) and expansion (vikāsa-) not in its proper form or (svarupa-) but in its attribute knowledge.
+
+[^233_308]: 308. MantrUp. 5; this stanza, continuing sitasita ca rakta ca sarvakämadugha vibhuh, is evidently inspired by SvetUp. 4, 5 above,
+
+[^233_309]: 309. BhG. 13, 19.[^233_310]: 310. BhG. 7, 4..[^233_311]: 311. BhG. 7, 5.[^233_312]: 312. BhG. 9, 8.[^233_313]: 313. BhG. 9, 10.
+
+§ 73. Therefore, since the prakṛti too constitutes the Lord's body, the term prakṛti denotes the Lord- who is the prakṛti's soul-as being modified by prakṛti. Likewise the term purusa denotes the Lord who is the purusa's soul-as being modified by purusa. Consequently the Lord is also the soul of the transformations of both prakṛti and purușa. So the smrti declares: Visnu is the evolved as well as the unevolved, purusa and time; the same Sovereign Lord is alike that which moves[^233_314] and that which is moved, O Brahman.[^233_315] It follows that only that part in the Supreme[[P234]]
+Spirit-modified by prakrti that is constituted by prakṛti is at all sub- ject to transformations; that part in Him that is the substratum of this modification is not subject to them. Likewise all the obstacles of spiritual life[^234_316] belong to that part in the Supreme Spirit, modified by individual soul, that is constituted by the individual soul; that part in Him that is the substratum of the modification 'individual soul' is the Controller, ir- reproachable,[^234_317] possessed of all perfections and the power of having his every will realized.[^234_318]
+
+[^233_314]: 314. i.e. "sets in motion (pravartayati), creates".
+
+[^233_315]: 315. VP. 1, 2, 18; the "evolved" (vyakta-) is the subtle primeval matter manifested in the gross creation as name-and-form, the 'unevolved" (avyakta-) this subtle matter before this manifestation; Time as the nimittakarana operating on prakṛti, the upādāna- karana, cf, supra note 188,
+
+[^234_316]: 316. apuruşartha- "that which is not, or obstructs, the attainment of the puru- şarthas "goals of human endeavour", esp. paramapurušartha- "release"; in this connexion the obstructing factors are contraction and expansion of knowledge (samkoca-, vikāsa-), the vikāras to which the soul in samsara is subject. Cf. SBh. 1, 4, 27 tat- (sc. brahma-)- prakarabhutaksetrajnagatas cāpuruṣārthaḥ: kṣetrajna is esp. the individual soul in the transmigratory process of undergoing the results of its former acts.
+
+[^234_317]: 317. In the invariable sense of "free from transformations (vikāras)",
+
+[^234_318]: 318. satyasamkalpatva-, divine attribute par excellence.
+
+§ 74. Such being the case, the Lord has the mode of being of cause on the one hand and on the other hand that of effect, viz. the Universe of which He is the material cause. So there is no difference between cause and effect,[^234_319] and consequently no śruti is contradicted. Thus Brahman has the mode of being of cause when his body is constituted by prakṛti and purusa in their subtle phase[^234_320] (i.e. the phase in which they are not yet subject to division by name-and-form: in this phase the Universe is in the state of resorption), and Brahman has the mode of being of effect when his body is constituted by the sum-total of spiritual and non-spiritual enti- ties in their gross phase (ie. in which composite prakṛti and purușa are divided by name-and-form into isolated entities: this passage of Brahman into his gross phase is the creation of the Universe). So the venerable Parāśara declares: He is the cause of the unborn prakṛti and purusa which are effects.[^234_321]
+
+[^234_319]: 319. This non-difference, it should be noted, is unilateral: the effect, participating in the immanent cause is not "something else (anya-,) something new" as the Naiyayikas contend, but materially the same as the cause and hence indiscerptibly connected; the cause, however, is completely independent of and different from the effect: there is no reciprocal non-difference, no identity.
+
+[^234_320]: 320. Note that prakṛti and purusa are especially used to denote matter and spirit at the pre-manifest stage as undifferentiated "principles". This undifferentiated subtlety does not, on the one hand, reduce matter to a primordial chaos, nor on the other hand affect the fundamental individuality of the atmans mutually: they preserve their in- dividuality as monads (anu-) while in 'gross creation' they are not so much individualized as particularized, or empiricized, by the bodies with which they are identified.
+
+[^234_321]: 321. VP. 1, 9, 37.
+
+§ 75. This is the reason why all terms that denote prakṛti and puruşa -modes of the Lord whether in their subtle or in their gross phase, denote[[P235]]
+in their primary sense the Supreme Spirit as being differentiated by the modes they constitute: in the very same manner as the terms god, man etc. denote the individual souls incorporated by the bodies god, man etc. To put it differently: in the same manner as the terms god, man etc. in their primary sense denote the embodied soul that is their modified substratum, since the diverse evolved products of prakṛti-such as god, man etc. are padarthas only in so far as they are modifications of the embodied soul:[^235_322] thus all terms denoting any spiritual and non-spiritual entity denote in their primary senses the Supreme Spirit, since that entity denoted modifies the Supreme Spirit by constituting his body.
+
+[^235_322]: 322. Cf. supra note 285.
+
+§ 76. The relation between soul and body means the relation between substratum and dependent entity incapable of functioning sepa- rately, between[^235_323] transcendent controller and thing controlled, between principal and accessory.[^235_324] In this relation the one term is called atman or "soul" because this is the one who obtains[^235_325] an object since he is in all respects the substratum, the controller and the principal; the other term is called body, i.e. form, because it is a modification[^235_326] that is inseparably con- nected since it is in all respects dependent entity, thing controlled and acces- sory. For such is the relation between the individual soul and its body. Consequently, inasmuch as all constitute the body of the Supreme Spirit, He can be denoted by all terms.[^235_323]: 323. prthaksiddhyanarhädhärädheyabhava, esp. the relation between attribute and subject, or mode and modified substance (prakaraprakäribhāva-).[^235_324]: 324. seṣasesibhäva-, this relation will be explained infra § 121.
+
+[^235_325]: 325. apnotityätmā; an old etymology possibly inspired by the early occurrence of a präkṛt form appa; cf. Sankara ad AitUp. 1, 1: atma apnoter atter atater va, and Ananda- giri who in his vyäkyä quotes the stanza: yac capnoti yad adatte yac catti visayan iha/yac casya samtato bhävas/asmäd ätmeti giyate //.[^235_326]: 326. prakarabhutam ity äkāraḥ sariram; not a facile play on words: R. tries to bring out the etymological significance of both words: "something built on a basis" pointing at the utter dependence of "mode" or "form" on an inner ensouling principle.
+
+§ 77. This is declared by a host of śrutis: sarve veda yat padam amananti,[^235_327] sarve veda yatraikam bhavanti,[^235_328] i.e. "since they denote the sole One, they denote only one single sense;" eko devo bahudha nivisṭaḥ,[^235_329] sahaiva santam na vijananti devaḥ[^235_330] etc., where devāḥ means "the senses",[^235_331] i.e., "the senses terminating in the[[P236]]
+manas[^236_332] of gods, men etc. have no knowledge of Him who having entered into themselves as their inner soul by being their immanent Ruler, remains with them." So, likewise, the pronouncements of the puranas: nataḥ sma sarvavacasām pratistha yatra śāśvati:[^236_333] for the basis of a word is in the object denoted. käryāṇām kāraṇam pūrvam vacasām vacyam uttamam[^236_334] vedais ca sarvair aham eva vedyah etc.[^236_335] "all these terms denote only the immanent Ruler modified by body and soul:" for compare the śruti Well, by entering the three deities by way of their living soul I will separate name and form.[^236_336] Similarly Manu's word: praśāsitāram sarveṣām aṇīyāmsam aṇīyasām/rukmabham svapnadhigamyam vidyat tam puruşam param,[^236_337] i.e. "the prasāsitṛ or "controller"'[^236_338] of all, having entered into them, sc. as their inner Ruler, is subtler than the individual souls (aniyāmsaḥ "Souls" who are subtler because they pervade[^236_339] all non-spiritual entities), sc. because He pervades[^236_340] them in their turn; rukmābha- "having the appearance of the sun"; svapnadhigamya-[^236_341] "to be arrived at by cognition similar to a dream",[[P237]]
+i.e. apprehensible only by contemplation in a state of extremely lucid percep- tion. enam eke vadanty agnim maruto 'nye prajapatim/indram eke pare prāņam apare brahma śāśvatam:[^237_342] eke sc. "some Vedas": i.e. inasmuch as the Supreme Brahman has, as described above, entered into everything as the prasāsity or immanent Ruler, the terms agni etc. denote Him as adequately as the term "eternal Brahman". Similarly another smṛti: ye yajanti pitṛn devän brāhmaṇān sahutāśanan/sarvabhütāntarātmānam Visnum eva yajanti te:[^237_343] i.e. the terms pitr, god, brahman, fire denote, by denoting themselves, simultaneously Visnu Himself as their immanent soul.
+
+[^235_327]: 327. KathUp. 4, 15 "the word that all the Vedas cite".
+
+[^235_328]: 328. CittyUp. 11, 1 "in whom all the Vedas become one".[^235_329]: 329. CittyUp. 14, 1 "the one God residing in many places".
+
+[^235_330]: 330. CittyUp. 11, 4 "the divinities do not know Him with whom they exist".[^235_331]: 331. Cf. R.'s interpretation of VP. 1, 2, 46-47, supra note 248,[^236_332]: 332. "The eleventh sense", the co-ordinating organ of sensual impressions.[^236_333]: 333. VP. 1, 4, 23 ab; the stanza continues tam adyantam aseṣasya jagataḥ paramam prabhum // "we bow for the paramount Lord, the beginning and the end of the entire Universe, in whom is the perennial basis of all words."[^236_334]: 334. JitStotra 1, 7a "the prime cause of the effects, the supreme object denoted. by the words"; the second half runs: yogānām paramam siddhim paramam tė padam viduḥ; according to Dr V. Raghavan from Madras, in a personal communication, the Jitantāstotra-a very popular hymn among South-Indian Vaisnavas-is assigned in MSS to the Astakṣarikalpa of Pañcaratragama.
+
+[^236_335]: 335. BhG. 15, 4.
+
+[^236_336]: 336. ChUp. 6, 3, 2
+
+[^236_337]: 337. Manusmrti 12, 122; the Vulgate reads anor api.
+
+[^236_338]: 338. niyantr-, signifying God's direction of the soul as its immanent atman; note that Kullúka gives the same interpretation; prasāsitāram niyantaram brahmadistamba- paryantasya cetanacetanasya.
+
+[^236_339]: 339. vyapakataya; because the soul cannot rightly be said to be 'invariably concomitant' with the body in the Nyaya sense, it follows that the word vyāpaka- is used in a more literal sense cf. GBh. 2, 17 vyapakatvena niratisayasükṣmatvad ätmano vināśānarhasya tadvyatirikto na kaścit padartho vinasam kartum arhati, tadvyapyataya tasmät sthulatvāt etc.
+
+[^236_340]: 340. God as Visnu the Pervader.
+
+[^236_341]: 341. Cf. Kulluka: svapnadhigamyam dratanto 'yam, svapnadhisadṛśajñānagrähyam/ yatha svapnadhis cakṣurädibähyendriyoparame manomätrena janyata evam atmadhir api.-R., however, evidently takes as the tertium comparationis the extraordinary vividness of the images of our dreams. The anudhyana- "contemplation" is an apex state of consciousness in which there is complete immediate presentation of the beloved God, cultivated and at last attained by the uninterrupted rememorization of His perfections. It is synonymous with the dhruvānusmṛti- SBh. 1, 1, 1, p. 9-10, described seyam smṛtir darśanarupā pratipaditā / darśanarupată ca pratyakṣapattiḥ/ ataḥ säkṣätkärarüpā smrtiḥ smaryamānātyarthapriyatvena svayam atyarthapriya/...... evamrupā dhruvānu- smrtir eva bhaktisabdenäbhidhiyate.[^237_342]: 342. Manusmrti 12, 123; the Vulgate reads in a etam, in b manum anye; "some (Vedas) call him Agni, some the Maruts, others Prajapati, yet others Indra or Life, others again call him the eternal Brahman".[^237_343]: 343. Dakṣasmrti? "Those who worship the ancestors, the gods, the Brahmans and the fire [so R.; rather "the brahmans who keep the sacrificial fires"], worship really Visnu, the immanent ätman in all creatures".
+
+§ 78. This is the central meaning of all sastras: the individual souls are as such essentially uncontracted,[^237_344] unlimited and perfect knowledge.[^237_345] But they are enveloped[^237_346] by ignorance in the form of karman. So they are subject to contraction of knowledge proportionate to their karman, and they enter into bodies of various kinds and classes, from Brahma to tuft of grass. Their range of knowledge is now confined to that which their various bodies encompass. So these souls are led to identify themselves with their various bodies and to perform acts that follow from this identification. Consequently they enter the continuous surge of samsara, in this form that they ex- perience[^237_347] the pleasure and pain correlated with these acts. As it is im- possible for them to release themselves from this samsara without resorting to the Venerable Lord,[^237_348] therefore, to serve this purpose, the sastras start[[P238]]
+with setting forth the equality of all those souls: they are equal because, when they are free from the differentiations god, man etc., they all have the self-same form of knowledge. Then the śästras declare that that proper form of the soul is itself ensouled by the Venerable Lord, because it is the soul's sole proper form and essence[^238_349] to be accessory to its principal. This stated, they propound subsequently the proper form of the Lord: He is cate- gorically different from everything else as He is in absolute opposition to imperfection and solely comprises perfection; He is the abode of innumerable numbers of beautiful qualities, boundless and absolute; He is the soul im- manent in everything, because each and every spiritual and non-spiritual entity is brought into existence by His will. Then the sastras conclude by expounding that worshipping Him, as well as obtaining the necessaries for this worship, is the means of attaining Him.[^237_344]: 344. asamkucita- "not contracted to the limited scope of empirical ego".
+
+[^237_345]: 345. Note, again, that knowledge is the essential property of the ätman and so may stand for the essence itself.
+
+[^237_346]: 346. vestita, term taken from VP. 6, 7, 61-62 avidya karmasamjñānyā tṛtīvā śaktir işyate/yaya kṣetrajñaśaktiḥ så vestită nrpa sarvagā.[^237_347]: 347. upabhoga- term esp. used for the experiencing (suffering / enjoying) of the fruits of karman by the kṣetrajna,[^237_348]: 348. bhagavatprapattim antarena. S. remarks that this is said bhaktiyoganiṣṭhasyāpi nispattyartham tadangatvena prapattir apeksitatvāt prapattinisthasya svatantratayo- pāyatvāc ca "because the one who devotes himself to bhaktiyoga stands also in need of prapatti as a propaedeusis to perfect his bhakti, and also because prapatti by itself, independent (of bhakti) is a means for the one who is devoted to prapatti". Elsewhere (Ramanuja on the Bhagavadgitä, p. 24 ff). I have tried to show that R. does not consider prapatti a separate let alone superior-discipline' from bhakti, but rather a propaedeusis to bhakti, or even identical with it; S. inclines though here at least not too overtly to the later view that prapatti alone (svatantrataya) is a means of release. Considering, however, the evidence of the Ved. I see no reason to change my opinion about the position of prapatti in Ramanuja's doctrine.[^238_349]: 349. *ekarasa; rasa- is here taken in the double meaning of "essence" and "ecstasy", corresponding to *ekasvarupa/-svabhava (e.g. GBh. 18. 54) and "ekarati (GBh. Intr. asesaseṣataikarati-): serving God as His seşa by the loving representation of bhakti is as such a source of extreme joy, as R. repeatedly declares.
+
+§ 79. So is said in nirvāṇamaya evāyam ātmā jñānamayo 'malaḥ/duḥ- klājñānamalā dharmaḥ prakṛtes te na catmanah:[^238_350] i.e. inasmuch as they derive from karman resulting from the natural conjunction of soul with matter, the properties summed up do not belong to the proper form of the soul. What is said is this: by distinguishing between that which has got and that which has not,[^238_351] we learn that these properties belong to matter ex- clusively. Likewise in vidyavinayasampanne brahmane gavi hastini/śuni caiva śvāpake ca panditaḥ samadarsinah[^238_351a] i.e. panditaḥ are they whose in- tellects[^238_352] discriminate the proper form of the soul from the prakṛti in the form of god, man, animal, inanimate things with which it is conjoined; they are samadarsinah, i.e. by knowing the real nature of the soul, viz. that it is separate from the differentiated forms of that prakṛti, they see that the soul that exists in any of these infinitely diversified configurations has the same form as all other souls.[^238_353] So the pronouncement ihaiva tair jitaḥ sargo[[P239]]
+yeṣām sāmye sthitam manah/nirdosam hi samam brahma tasmad brahmani te sthitaḥ,[^239_354] where nirdoșa- means "free from the defect of natural conjunc- tion with differentiated forms of prakṛti, such as gods etc.": thus any mem- ber of the order of souls is, when abiding in its proper form, equal to any other member, because it has the common form of knowledge as nirvana.[^239_355][^238_350]: 350. VP. 6, 7, 22 "this atman is full of beatitude and knowledge and it is pure; the properties of unhappiness, ignorance and impurity are proper to the prakṛti, not to the atman"; on nirvaṇamaya- cf. R. GBh. 2, 72 ad brahmanirväṇam: nirvanamayam brahma sukhaikatānam ätmänam-Gītā Press ed. has the less apt reading "ajñānamaya dharmaḥ.[^238_351]: 351. prāptaprāptavivekena, S. anvayavyatirekābhyām ity arthah: discriminating by means of positive and negative arrangement of terms; cf. Foucher, TS. p. 132-34.[^238_351a]: 351a. BhG. 5. 18 "wise men see the same in a Brahmin accomplished in know- ledge and self-discipline, in a cow, an elephant, a dog and a dog-eater".[^238_352]: 352. buddhi-; cf. R. GBh. 5, 18 panditähätmayathatmyavido "knowing the essentials of the atman".[^238_353]: 353. Cf. GBh. 5, 18 jānaikākārataya sarvatra samadarsinaḥ/viṣamākāras tu prakrter nätmanaḥ/ ātmā tu sarvatra jñānaikākārataya sama ili pasyantity arthah.[^239_354]: 354. BhG. 5, 19 "Those who have already here on earth overcome the conjunction have their minds focused on equality; for, if free from defect, the atmans are equal;" sarga- in this (Ved.) connexion is doubtless to be taken as samsarga- (GBh. sarga- = samsara-); note that R. here interprets brahma as atmavastu- "the order of atman" (neuter *vastu- corresponding with the neuter of brahma) as in GBh. 5, 19; on the equation brahman atman (ie. individual atman), cf. my Ramanuja etc., p. 34-35,[^239_355]: 355. nirvāṇa- in the above sense "beatitude" (VP. 6, 7, 22).
+
+§ 80. Śruti, smrti, itihasa and purana propound by using terms like His body,[^239_356] His embodiment[^239_357] etc. and by sāmānādhikaranya that this soul described above is essentially accessory[^239_358] to the Lord, controlled by Him and dependent on Him. This we have already set forth above.
+
+[^239_356]: 356. sarira-, e.g. Antaryämibrāhmaṇa, BAh. p. 3, 7, 3-22.
+
+[^239_357]: 357. tanu, e.g. KathUp. 2, 23.
+
+[^239_358]: 358. seṣa-.
+
+§ 81. In the smrti daivi hy eṣā guṇamayi mama māyā duratyayā/mām eva ye prapadyante māyām etām taranti te[^239_359] it is declared that that release of the above soul from the samsara in the form of its natural conjunction with prakṛti, which is due to karman and consists in various gunas, is im- possible without resorting to the Lord. The same is established on the strength of śrutis like no other path is there for him to tread.[^239_360] In the smrti: In an unevolved form do I pervade this entire Universe:[^239_361] all creatures depend on Me but I do not depend on them. At the same time they do not rest on Me: behold my miraculous power ![^239_362] the Lord explains the diversity of the forms of His sovereignty by His omnipotence. Likewise He says: vistabhyaham idam kṛtsnam ekämsena sthito jagat,[^239_363] i.e. "having entered into the world which is of an infinitely varied, miraculous character- as its[[P240]]
+immanent soul with an infinitesimal particle[^240_364] of Myself, I keep supporting it entirely by My will and I remain, while in this form possessing an infinite supernal manifestation, the abode of boundless perfect qualities as I am supremely miraculous." The same He says in: ekatve sati nānātvam nānātve sati caikata/acintyam brahmano rūpam kas tad veditum arhati,[^240_365] i.e. "while remaining one by being its sole controller, He enters the Universe as the soul immanent in the various spiritual and non-spiritual entities; having a variety of modifications in the forms of these entities and instigating a variety of activities He partakes of variety Himself.. Having thus, with an infinitesimal particle of Himself, entered into the Universe with all its wonders and variety as its immanent soul and visṭabhya,[^240_366] i.e. though abiding in variety, the Sovereign Lord of lords, the Supreme Brahman, the Supreme Person, Nārāyaṇa, whose hosts of perfections are boundless, unsurpassed and innumerable-who is the perfectly miraculous One-who appears like a blue cloud-who has long eyes so spotless as a lotus leaf- who is radiant with the splendour of thousands of suns-, the One in the Supreme Heaven revealed by śrutis such as yo veda nihitam guhāyām parame vyoman[^240_367] tad aksare parame vyoman[^240_368] etc., remains nonetheless essentially one.
+
+[^239_359]: 359. BhG. 7, 14 "for that divine Magic of Mine, constituted by gunas, is hard to overcome: those alone who resort to Me overcome that Magic": on R.'s interpretation of this stanza see my Rāmānuja etc. p. 25 f.
+
+[^239_360]: 360. TaittĀr. 3, 13; 1 tam evam vidvan amṛta iha bhavati/nänyaḥ pantha ayanāya vidyate; note that acc. to R.. the word for knowing (vedana-), sc. in vidvän, is synonymous with upasana- or bhakti-.[^239_361]: 361. BhG. 9, 4; R. GBh. explains avyaktamurtina as aprakäsitasvarupena mayantaryämiņā.[^239_362]: 362. BhG. 9, 5ab.[^239_363]: 363. BhG. 10, 42 "supporting this universe I constitute the world with a single portion of myself"".
+
+[^240_364]: 364. ayutāmsena "myriadth portion" has become in GBh. ad 10, 42 even ayutayutamsena.
+
+[^240_365]: 365. ? "in unity there is diversity and unity is in diversity: who is able to know Brahman's inconceivable form?"[^240_366]: 366. From BhG. 10, 42 cited above, forming part of the context of śrutis and smrtis expounding the Universe's utter dependence on God.[^240_367]: 367. TaittUp. 2, 1, 1 "who knows that which is laid down in the inner- most of the Supreme Heaven".
+
+[^240_368]: 368. MahānārUp. 1, 2 "that is in the indestructible Supreme Heaven",
+
+§ 82. For any other entity but Brahman it is impossible to have another form, nature and power added to its own form, nature and power.[^240_369] But this Supreme Brahman, being categorically different from all enti- ties, has all natures and all powers. Therefore it is not contradictory that this one being has an infinite and wonderful variety of forms and still retains His uniformity in this infinite and immeasurable diversity. So the fear lest there be contradiction in so far as He would be similar to a mere common entity is not justified. As has been said: saktayaḥ sarvabhāvanām acintyajñānagocaraḥ/yato 'to brahmanas tās tu sargādya bhāvaśaktayaḥ // bhavanti tapasām śrestha pävakasya yathosnata:[^240_370] in other words: it is not fit to think that a certain power observed in one single being exclusively[[P241]]
+among all other beings, such as fire, water etc., is also to be found in another being that is categorically different from the former one: for instance the power of brightness, heat etc. found in fire is not to be found in water, which is categorically different from fire. Similarly it is not fit to infer that Brahman is similar to any other being in anything: He is categorically different from any other. What is meant hereby is: hence follows that Brahman possesses an infinite variety of powers. So it says: With Thee, Most Eminent One, whose form is this greatly miraculous world, with Thee, greatest of miracles, I am united, O Krsna.[^241_371]
+
+[^240_369]: 369. S. comments: nahi dahasakto 'gnir jāḍyajananasaktaḥ.
+
+[^240_370]: 370. VP. 1, 3, 2-3 "the potencies of all entities transcend all except inconceivable knowledge: for these potencies, like fieriness in fire, rise from Brahman's creation O most excellent of ascetics!"
+
+[^241_371]: 371. VP. 5, 19, 7.
+
+§ 83. I have arrived at the exclusion that this is the doctrine of the scriptures after a painstaking study not only of the endless number of all the various śrutis, but also of the commentaries on them which have been accepted by judicious scholars. It is like this: several śrutis declare that. creation and resorption-which are not empirically known by other pramānas and which are diversified by a continual succession of a plurality of elements whose developments are unlimited-are the doing of Brahman. Some śrutis, e.g. niravadyam niranjanam,[^241_372] vijñānam;[^241_373] anandam,[^241_374] nirvi- kāram,[^241_375] niskalam niskeriyam sāntam;[^241_376] nirgunam[^241_377] etc., assert that Brahman is unqualified and essentially knowledge. Other śrutis, e.g. neha nästi kimcana mrtyoḥ sa mṛtyum apnoti ya iha naneva paśyati;[^241_378] yatra tv asya sarvam ātmaivābhūt tat kena kam paśyet tat kena kam vijānīyāt,[^241_379] deny that there is diversity. But other śrutis, like yaḥ sarvajñaḥ sarvavit,[^241_380] yasya jñānamayam tapaḥ,[^241_381] sarvāni rūpāņi vicitya dhiro nāmāni kṛtväbhivadan yad aste:[^241_382] sarve nimeṣā jajñire vidyutaḥ puruṣād adhi;[^241_383] apahatapāpmā[[P242]]
+vijaro vimṛtyur visoko vijaghatso 'pipasaḥ satyakāmaḥ satyasamkalpaḥ,[^242_384] negate only all those qualities that are held by everyone to be evil, and they declare that Brahman has an infinite number of beautiful qualities: that He is omniscient and omnipotent, that He has separated all according to name- and-form,[^242_385] and that He is the substratum of all.-Other śrutis, like sarvam khalv idam brahma tajjalāniti,[^242_386] aitadātmyam idam sarvam;[^242_387] ekaḥ san bahu- dhā vicāraḥ,[^242_388] first expound that the universe in all its diversity is created by Brahman and then declare that both Brahman and Universe are identical. Other śrutis, e.g., pṛthag ātmānam preritāram ca matvā;[^242_389] bhoktā bhogyam preritāram ca matvā,[^242_390] prajāpatir akāmayate prajāḥ sṛjeyeti,[^242_391] patim viśva- syātmesvaram śāśvatam sivam acyutam;[^242_392] tam iśvarāṇām paramam mahe- svaram tam devatānām paramam ca daivatam,[^242_393] sarvasya vaši sarvasyeśā- nah,[^242_394]propound that Brahman is different from all, that all is subject to Brahman's sovereignty and is accessory to Brahman, and that the Lord is the master. Others again like antaḥpravistaḥ śāstā janānām sarvātmā;[^242_395] eṣa ta ātmāntaryāmy amṛtaḥ,[^242_396] yasya prthivi śarīram yasyapaḥ sariram yasya tejaḥ sariram, etc.; yasyāvyaktam sariram .... yasyākṣaram sariram yasya mṛtyuḥ sariram yasyātmā sarīram. ,[^242_397] point out the body-[[P243]]
+soul relationship that exists between Brahman and the sum-total of entities other than Brahman.[^241_372]: 372. SvetUp. 6, 19 niskalam nişkriyam santam niravadyam nirañjanam: "without parts, without action, tranquil, irreproachable and immaculate".[^241_373]: 373. TaittUp. 3, 5, 1 vijñānam brahma "Brahman is knowledge".
+
+[^241_374]: 374. TaittUp. 2, 1.
+
+[^241_375]: 375. YogasikhUp. nirvikäram niräsrayam "without causal transformations, not deriving from any cause".
+
+[^241_376]: 376. SvetUp. 6, 19 cited above note 372.
+
+[^241_377]: 377. MantrUp. 2 antaḥ pasyanti sattvastha nirgunam gunagahvare "they who are in sattva see, deep down in the gunas, the One without gunas".
+
+[^241_378]: 378. BAUp. 4, 4, 19 "there is here no diversity whatever, he that sees diversity here will meet with death after his death".
+
+[^241_379]: 379. BAUp. 4, 5, 15 "but when the atman is all of him, then whom does he know and how?"
+
+[^241_380]: 380. MundUp. 1, 1, 9 "who is omniscient, all-knowing".[^241_381]: 381. Not identified.
+
+[^241_382]: 382. CittyUp. 12, 7 "that which the sage, after pondering over all its forms and giving them names, keeps saluting".
+
+[^241_383]: 383. MahānārUp. 1, 8 "all flashes of lightning spring from above the Person". V 31
+
+[^242_384]: 384. ChUp. 8, 7, 1 "exempt from defect, unaging, undying, without sorrow and hunger and thirst, having every will realized and all desires materialized."
+
+[^242_385]: 385. Viz. ChUp. 6, 3, 2 seyam devataikṣata- hantäham imas tisro devata anena jivenätmanänupravisya namarupe vyakaravānīti.
+
+[^242_386]: 386. ChUp. 3. 14. 1 "all this is verily Brahman: the tranquil one meditates (on all things) as having their beginning and end in It." R. follows Sankara's interpretation of tajjalan as taj-ja-la- ChUpBh. tasmäd brahmano jätam tejobannadikramena (cf. 6, 2, 3) sarvam / atas tajjam/ tatha tenaiva jananakramena pratilo mataya tasminn eva brahmani liyate tadätmataya éliṣyata iti tallam, in SBh. 1, 2, 1 (p. 137) tajjalan iti hetutaḥ sarvam khalv idam brahmeti prasiddhavan nirdeśat / brahmano jätatvūd (taj-ja-) brahmani linatvad (tal-la-) brahmadhinajivanatvac (= tad-ana < AN "to breathe, live") ca hetor brahmatmakam sarvam khalv idam jagad iti, etc.
+
+[^242_387]: 387. ChUp. 6, 8, 7 "all this has That for its soul".[^242_388]: 388. Citty Up. 11, 1 "though unique, manifold reflection".
+
+[^242_389]: 389. SvetUp. 1, 6 "knowing the atman and the actuator to be different".
+
+[^242_390]: 390. Svet Up. 1, 12 "knowing the enjoyer, the enjoyed and the actuator".[^242_391]: 391. Not identified. "The lord of creatures desired: may I beget offspring"[^242_392]: 392. MahānārUp. 9, 6 "Lord of all, ruler of the soul, the everlasting, auspicious Unfallen One".
+
+[^242_393]: 393. SvetUp. 6, 7 "Him, paramount lord of the lords, supreme deity of all divi- nities".
+
+[^242_394]: 394. BAUp. 4, 4, 22 "ruler of all, lord of all".[^242_395]: 395. TaittĀr. 3, 11 "the instructor of men entered within, the soul of all".
+
+[^242_396]: 396. BAUp. 3, 7, 3-22 ". he is the inner Ruler, the immortal One".[^242_397]: 397. SubalUp. 7, 1; the text runs; antaḥsarire nihito guhäyäm aja eko nityo yasya prthivi sariram yah prthivim antare Bancaran yam prthivi na veda/yasyāpaḥ tariram etc., and concludes: yasya mṛtyuḥ sariram yo mṛtyum antare samcaran yam mrtyur na veda/sa esa sarvabhutāntarātmāpahatapapmā divyo deva eko nārāyaṇaḥ. The Vulgate does not contain the clause yasyātmā, etc.
+
+§ 84. We have to interpret all these śrutis in such a manner that there is no contradiction between their statements, however diverse, and that their primary sense is not sacrificed. And we have done so.-The śrutis expounding an untransformed Brahman have their primary sense because they deny that His proper form is subject to evolution.[^243_398] Those declaring that He is unqualified are to be taken as denying that He is associated with the evil qualities mentioned in the context.[^243_399] Those that deny diversity are justly preserved because they signify that Brahman is modified by all in- asmuch as He is the inner soul of all:[^243_400] for the sum-total of spiritual and non-spiritual entities forms a mode of Brahman by constituting his body. The passages which declare that He is different from all modes, master and lord of all, and the possessor of all perfections and the power of having all his desires materialized and his every will realized,[^243_401] etc., are justly retained by accepting just that. Statements that He is mere knowledge and bliss are preserved because they set forth that the defining property of Brahman's pro- per form, different from all, substratum of all perfections, lord of all, master of all, basis of all, cause of the origination, subsistence and resorption of all, irreproachable and untransformed, all-ensouling that this defining property is knowledge[^243_402] in the form of bliss[^243_403] in absolute opposition to imperfection,[^243_404] and that therefore his proper form, being self-illuminating, is nothing but knowledge.[^243_405] Similarly well-founded are the declarations of identity as they[[P244]]
+establish that the sāmānādhikaranya constructions have their primary mean- ing in a body-soul relationship.[^244_406]
+
+[^243_398]: 398. In other words, they point to Brahman as the absolutely transcendent prin- ciple from which change may come forth but which itself is not subject to any change whatever.[^243_399]: 399. i.e., the contexts like ChUp. 8, 7, 1 and others citied above; cf. also SBh. 1, 1, 1, (Th. p. 78ff.).
+
+[^243_400]: 400. i.e., Brahman is the unitive principle underneath all diversity which clothes Him rather than involves Himself: as the inner Ruler He is strictly identical with Himself.
+
+[^243_401]: 401. ChUp. 8, 7, 1 satyakamaḥ satyasamkalpaḥ,[^243_402]: 402. Brahman is not knowledge, but is essentially characterized by it; knowledge being His essential property may, if this proviso be well understood, denote His essence,
+
+[^243_403]: 403. Brahman's knowledge being eminently knowledge of His own perfection may be considered under the aspect of (rupa- "form") perfect bliss.
+
+[^243_404]: 404. mala-, for the more usual heya-.
+
+[^243_405]: 405. svaprakāśatayā jñānam api suarŭpam eva: in Brahman's absolute self-com- prehension the three elements of all knowledge: subject-action-object of knowing, are in perfect unity.
+
+[^244_406]: 406. i.e., the identity viewed in the first place as a relation between various aspects of one entity: the person denoted by "thou" is indeed the Supreme Being denoted by "that" as viewed under the aspect of the inner Ruler contained in term-and-entity "thou".
+
+§ 85. Such being the case, the question arises: what is the sense to be concluded from the Veda that is herewith established? That there is no difference,[^244_407] or that there is difference,[^244_408] or that there is a double essence, being at once different and non-different?[^244_409]
+
+All of them are established, because each can be concluded from the Vedanta. Non-difference is established in the sense that Brahman is modi- fied by all because all constitute his body. Both difference and non-differ- ence are established in the sense that the sole Brahman, being modified by the variety of spiritual and non-spiriual entities, abides in variety. There is difference inasmuch as the non-spiritual order, the spiritual order and the Lord have categorically different proper forms and natures and are never confused.
+
+[^244_407]: 407. The opinion of the Advaitin.
+
+[^244_408]: 408. The opinion of the later Dvaitins, esp. Madhva and his school, to whose pre- cursors, possibly under influence of Samkhya dualism, Rämänuja may refer.
+
+[^244_409]: 409. The opinion of the bhedabhedavadins; for dvyätmakata, cf. supra $30.
+
+§ 86. But are we not to understand that the knowledge of identity as declared in tat tvam asi Svetaketo,[^244_410] tasya tavad eva ciram,[^244_411] is the means by which Release - that is man's supreme End- is attained?
+
+No, that is not so. Let us consider the śruti pṛthag ätmanam pre- ritāram ca matvā justas tatas tenāmṛtatvam eti,[^244_412] that means: "after having acquired the knowledge that the soul and its Mover, i.e., the inner Ruler, are separate from each other, one attains tatas, i.e., in consequence of this very knowledge that they are separate, the immortality by the favour of that Supreme Spirit. So we have rather to understand that the means by which we can attain immortality in person is the knowledge that the soul and its Controller exist separately.
+
+[^244_410]: 410. ChUp. 6, 8, 7.[^244_411]: 411. ChUp. 6, 14, 2 tasya tavad eva ciram yāvan na vimokṣya atha sampatsya iti "it will take him some time before he will have freed himself: then he shall succeed". S., ChUpBh. comments: ato brahmavido jivanādiprayojanabhave'pi pravṛttaphalānām karmaṇām avasyam eva phalopabhogaḥ syad iti mukteṣuvat tasya tavad eva ciram iti yuktam evoktam iti..
+
+[^244_412]: 412. Svet Up. 1, 12 "knowing the atman and the actuator to be different one attains consequently by His favour the immortality".
+
+§ 87. -But as this view is incompatible with the assertion that both are identical, we are compelled to assume that this knowledge works only the attainment of the qualified, not absolutely real Brahman.
+
+Why then could not the opposite be true,[^245_413] on the authority of our śruti that only by means of the knowledge that both are separate we can attain immortality in person?
+
+In other words: when two equally valid views are seemingly contra- dictory, we have to discover for both a common connotation in which they do not contradict each other.
+
+- But how can they possibly be reconciled?
+
+The word tuam refers to Brahman as modified by the embodied soul, for this embodied soul is a mode of the Supreme Brahman-who is the inner Ruler - because it constitutes the body of Him as inner Ruler. The meaning of your śruti is that this is the knowledge to be acquired. Whereas the meaning of our śruti is this: it must be realized that the Supreme Spirit-who is the soul of the embodied soul, exists separately from that embodied soul because He is free from all defects and possesses immeasurable, unsurpassed and innumerable beautiful qualities, such as that of having his every will realized, etc. The śruti bhokta bhogyam preri- tāram ca matvä means that we are to know the Supreme Brahman's three modes of being:
+
+1. The natural properties of the order of bhogya, or object: that it is non-spiritual, absolutely real[^245_414] and always the substratum of transfor- mations;
+
+2. the natural properties of the bhoktr, or subject, i.e., the embodied soul: that, in spite of its being in essence unimpaired,[^245_415] uncircumscribable knowledge and bliss, it is susceptible to various degrees of contraction and expansion due to ignorance in the form of ageless karman; that it is naturally[[P246]]
+conjoined with the non-spiritual order which is its object; and that it is capable of release through worship of the Supreme Spirit; etc.
+
+3. The mode of being of the inner Ruler of the above subject and object, and, in essence, the abode of immeasurable virtues.
+
+[^245_413]: 413. Here R. turns the tables on the advaitin by assuming the same intransigence of interpretation: but where the advaitin on the strength of a few citations (moreover, according to R., misquoted and misrepresented) rejects all other śrutis, R. proceeds to reconcile the differences which the advaitin, just by taking his obstinate stand, had exag- gerated and, it is true, grossly overrated.
+
+[^245_414]: 414. paramartha-: this in fundamental opposition to the advaitin who does not admit the ultimate reality of inanimate matter.-bhogya- "object of the soul's pheno- menal activities" describes the inanimate matter as having no function apart from, and being completely subservient to, the order of souls.
+
+[^245_415]: 415. For the soul as such is not subject to transformations, only his property. knowledge is.
+
+§ 88. As has been explained by the competent early ācāryas[^246_416] in their commentaries, the object of worshipful meditation in the so-called sadvidya tat tvam asi is Brahman as qualified by qualities. The Author of the Vākya declares: yuktam tadgunakopäsanad,[^246_417] and Dramiḍācārya when treating of the distinctions between the vidyas[^246_418] comments as follows: yady api saccitto na nirbhugnadaivatam gunaganam manasānudhavet tathāpy antarguṇām eva devatām bhajata iti tatrāpi sagunaiva devatā prāpyate, that means: "although a person who is saccitta, i.e. wholly concentrated on the sadvidya, does not rememorize immediately as he would when concentrating on the daharavidya -the multitude of qualities like freedom from sin which are distinct from pure godhead[^246_419] yet the Deity is also worshipped for anyone of His qualities that are exclusively His as the Supreme Deity—e.g. that of being the universal cause[^246_420], because all beautiful qualities are inherent in His proper form, so that in the sadvidya too He is actually worshipped as being distinguished by all the beautiful qualities inherent in His proper form: therefore in the sadvidya, too, the end to be attained is the qualified Brahman: thus are sadvidya and daharavidya distinguished."[^246_416]: 416. The purvācāryas who are actually quoted by Ramanuja in Ved. and SBh. are the authors of the Dramidabhasya, of the Vṛtti and of the Vakya; I refer to Intr. II and Appendix.
+
+[^246_417]: 417. "This is appropriate, on account of the worship of Him as being possessed of these gunas", also quoted SBh. 1, 1, 1, p. 79; the quotation probably refers to the daharavidya where ChUp. 8, 7, 1 a number of properties qualifying the Supreme Soul are enumerated.
+
+[^246_418]: 418. Selected portions of the principal Upanisads, constituting a special knowledge and meditation of one of the aspects of the Supreme Being. For a complete list see that appended to A. Govindācārya's Śrī Bhagavad-Gita with Ramanuja's commentary in English (Madras 1898). The daharavidya has its name from ChUp. 8, 1, 1 atha yad idam asmin brahmapure daharam pundarikam vesma daharo 'sminn antarākā- tah/tasmin yad antas tad arvestavyam tad vāva vijijñāsitavyam; the sadvidya from ChUp.: 6, 2, 1 sad eva somyedam agra äsid, etc.
+
+[^246_419]: 419. R. explains nirbhugnadaivatam (attributive to gunaganam) "that by which godhead is altered" (nirbhugna- "bent awry") by gunaganam daivatad vibhaktam; for my translation, see Appendix § 2, Fragment XV.
+
+[^246_420]: 420. Since according to ChUp. 6, 2, 3 the creation proceeds from sat,
+
+§ 89. — However, it has been declared that the Supreme Spirit is the inner Ruler of all creatures and that all are subject to His ruling. If this is true, then there is strictly speaking no one who can be a qualified subject[[P247]]
+of the instructions of injunctions and prohibitions.[^247_421] For only someone who is able, by his own mental disposition, to be active or to be inactive can be really a qualified subject of injunctions and prohibitions of the kind: 'you are to do this', 'you are not to do that. But there is no one like him. The directing Supreme Spirit is the one who ultimately causes everyone to be active in every activity: that is His ascendancy over each and everyone, so is declared. And this is also attested in the śruti: "Him He incites to right- eous action whom He wishes to guide upward beyond the world, and him He incites to unrighteous action whom He wishes to bring down,[^247_422] Now, would this not mean that there is cruelty in God because He incites to good and evil actions arbitrarily?
+
+[^247_421]: 421. In other words, the person who acts or acts not is no longer a free agent: the responsibility for his actions is transferred to the directing inner Ruler.[^247_422]: 422. KausUp. 3, 8 esa eva (Vulgate: esa hy evainam) sadhu karma kārayati tam yam bhyo lokebhya unninisati, esa eva (: esa u evainam) asādhu karma kārayati tam yam adho ninisati.
+
+§ 90. The reply to this is as follows. The Supreme Spirit has bestowed equally upon all spiritual beings all that is required for activity or inactivity, for instance the capacity of spirituality, the capacity of activity, etc. So as to enable them to accomplish this, He has become their substratum and has entered into them as the principal to whom they are accessory, directing them by consenting. The spiritual being, whose capacities are so dependent on Him, performs of his own accord certain acts or refrains of his own accord from certain acts. But while observing the soul in its doings the Supreme Spirit Himself takes no sides. Therefore all is sound. Besides, it depends on every individual case whether He will cause good acts or evil acts to be performed: it is not an invariable rule that He will always cause one or the other in every case. When someone of his own accord has been active before in an extremely good action, then the Venerable Lord is pleased with him and by granting him a mental disposition for good actions helps him to be so active. When, however, someone has indulged in extremely inauspicious actions, then the Venerable Lord incites him to wicked activities by giving him a wicked disposition. So the Venerable Lord Himself has declared: "When people are always well-disposed and worship Me, I am pleased and I bestow on them a disposition by which they may attain Me, To show them My mercy I dispel immanent in their souls -the darkness of their ignorance with the radiant torch of knowledge.[^247_423] But the hostile, wicked, unholy criminals I cast away forever in demoniac forms of existence in their samsāras."[^247_424][[P248]]
+
+[^247_423]: 423. BhG. 10, 10-11.
+
+[^247_424]: 424. BhG. 11, 19.
+
+§ 91. When a person has caused the mass of evil karman, amassed during all his previous existences, to melt away by amassing unequalled good karman;-when he has become wholly dedicated to God as a result of his taking refuge at His lotus-like feet-when he has acquired the moral qualities sama, dama, tapas, sauca, kṣamā, arjava, bha- yabhayasthanaviveka, daya, ahimsä, etc.,[^248_425] and nourishes them by .exercizing them daily and applying to them his preceding know- ledge of the true nature of the ontological orders gathered from the sastras and corroborated by the teachings of the true ācāryas, when he devotes himself to the accomplishment of periodical and occasional acts corresponding to his station and stage of life, as the forms[^248_426] in which he is to worship the Supreme Person and avoids what is forbidden; when he throws himself altogether[^248_427] at the lotus-like feet of the Supreme Person; when the darkness concealing his innermost self is dispelled by the grace of the Supreme Person who, supremely compassionate as He is, is pleased with the uninterrupted acts of worship that are dictated by the devotee's bhakti in glorification,[^248_428] remem- brance,[^248_429] homage,[^248_430] salutation,[^248_431] mortification,[^248_432] exaltation,[^248_433] the listening to the description of His perfections and narrating them himself, meditation,[^248_434][[P249]]
+adoration and prostration, etc.; then will he be able to attain the Supreme Person by virtue of his bhakti, which takes on the form of contemplation in the highest degree of lucid perception,[^249_435] directed to none but Him, uninter- rupted, pre-eminent and held preciously dear. This has been declared by that most eminent Guru, the venerable Yamunācārya himself: ubhayapari- karmitasvantasyaikāntikātyantikabhaktiyogalabhyah,[^249_436] that means:
+".... by someone whose inner faculty has been prepared by karmayoga and jñāna- yoga." Similarly the śruti: "He that has a clear insight in vidya and avidya will first conquer death by avidya and then gain immortality by vidya,"[^249_437] where avidyā[^249_438] stands for the above-mentioned moral conduct according to one's station and stage of life etc., and vidya for the meditation in the form of bhakti. Likewise: "He that resorts to knowledge performs thereby a great deal of sacrifices; when he makes the brahmavidyā his foundation, he will conquer death by avidya."[^249_439] In the passage: "He that knows this becomes immortal here and now: no other path is there for him to tread;[^249_440] those who know Him become immortal,[^249_441] he that knows Brahman attains the Most-High,[^249_442] He who knows the Most-High, who knows Brahman becomes Brah- man himself,[^249_442a] the verb to know is equivalent to "to meditate", for it has the sense of DHYAI-, "to meditate",[^249_443] in the passage nididhyasitavyaḥ, etc.[^249_444]
+
+[^248_425]: 425. The so-called atmagunas enumerated BhG. 10, 4-5: buddhir jñānam asam- mohaḥ kṣamā satyam damaḥ samaḥ/sukham duḥkham bhavo 'bhāvo bhayam cābhayam eva ca // ahimsa samatā tustis tapo danam yaso 'yaśaḥ......; and BhG. 18, 42 samo damas tapaḥ saucam kṣantir ārjavam eva ca/jñānam vijñānam astikyam brahma- karmasvabhävajam. R. explains GBh. ad 10, 4-5: Samo 'ntaḥkaranasya tatha (ie. anartha- visayebhyo) niyamanam; damo bahyakaraṇānām anarthaviṣayebhyo niyamanam; ad 18, 42 tapo bhoganiyamanarüpaḥ sastrasiddhakayaklesah; saucam sastriyakarmayogyatā; kṣäntiḥ (=kşamā) paraiḥ pidyamānasyapi avikṛtacittata; ärjavam paresu manorūpam bahya- ceṣṭāprakāśanam; bhayabhayasthanaviveka- "well distinguishing when fear and when fearlessness is indicated", S. explains: bhagavadupacārabhirutvam bhayasthanavivekaḥ "anxious care in the service of God", and tadrakṣakatvadhyavasayadina nirbhayatvam abhayasthanavivekah "fearlessness in resolving to protect Him etc. (i.e. His image etc.)"; daya "compassion" S. paraduḥkhāsahiṣṇutvam; ahimsa "inoffensiveness" R. GBh. 10, 5 ahimsa paraduḥkhahetutvam.[^248_426]: 426. vesa- "disguise".
+
+[^248_427]: 427. ie. "with all that is his" "nyastätmätmiyasya.[^248_428]: 428. stuti-; S. gunakathanam bandikṛtyam vā.[^248_429]: 429. smṛti- "pondering over God's perfections and representing them incessantly to oneself".
+
+[^248_430]: 430. namaskeṛti-.[^248_431]: 431. vandana-.
+
+[^248_432]: 432. yatana- "self-sacrifice", which S., in harmony with the temple atmosphere evoked by namaskṛti and vandana, explains as bhagavadudyānādikaranam.
+
+[^248_433]: 433. kirtana S. bhagavannāmoccaranam, probably alluding to Visnu's thousand names (MBh. 13, 433) a litany very popular among Vaisnavas,[^248_434]: 434. anudhyana- cf. SBh. 1, 1, 1, p. 11-12.[^249_435]: 435. visadatamapratyakṣatapanna”.[^249_436]: 436. Atmasiddhi (in Siddhitraya), stated as the siddhanta in an enumeration of the various views taken of the manner in which God can be attained: "Release is only to be attained by the exclusive bhakti discipline of one whose inner faculty has been trained by both"; refer to my remarks Chapt. III.
+
+[^249_437]: 437. IsUp. 11 vidyam cavidyam ca yas tad vedobhayam saha/avidyaya mṛtyum tirtva vidyayamṛtam asnute.
+
+[^249_438]: 438. ie., avidya in the sense of karman, as R. often takes the term; here karman esp. as preparatory and ancillary to the "discipline of loving comprehension" or bhakti.
+
+[^249_439]: 439. VP. 6, 6, 12.
+
+[^249_440]: 440. TaittAr. 3, 1, 13.[^249_441]: 441. MahānārUp. 1, 11.[^249_442]: 442. TaittUp. 2, 1, 1.
+
+[^249_442a]: 442a. ? so yo ha vai tat param veda brahma veda brahma bhavati.
+
+[^249_443]: 443. Cf. ŚBh. 1, 1, 1, pp. 8-19; GBh. 18, 65.
+
+[^249_444]: 444. nididhyasitavyaḥ in BAUp. 4, 5, 6 ātmā va are drastavyaḥ śrotavyo mantavyo nididhāsitavyo maitreyi/atmani khalv are drste śrute mate vijñāta idam sarvam viditam; cf. ŚBh. 4, 1, 1 ad this śruti: dhyayatina vedanam abhidhiyate/ dhyanam ca cintanam / cintanam ca smṛtisamtatirupam na smrtimätram/upāstir api tadekärthaḥ / ekagracit- tavṛttinairantarye prayogadarśanāt.
+
+What this "meditation" is is specified by another śruti: "This soul can not be grassped by explication, nor by mere knowledge, nor by great erudi- tion: he alone whom God Himself elects can attain Him: He singles his soul out to serve as His body.[^249_445] That implies that He can only be grasped by[[P250]]
+meditation that takes the form of bhakti, not merely by knowing, for na medhayā excludes mere knowledge.[^249_445]: 445. MundUp. 3, 2, 3 nayam ātmā pravacanena labhyo na medhaya na bahund Brutena/yam evaisa vrnute tena labhyas tasyaisa ātmā vṛnute tanum svām,
+
+§ 92. In other words, when an aspirant to release is wholly devoted to meditation in the form of knowledge of the kind enjoined by the Vedanta and when an oceanic feeling of perfect love for that meditation itself engulfs him, then by virtue of that love is he able to grasp the Supreme Person. This has been declared by the Venerable Lord: "that Supreme Person, O Partha, can be grasped by exclusive bhakti.[^250_446] By exclusive bhakti, O Arjuna, can I be known and beheld and entered so as I really am.[^250_447]
+When a person knows Me through bhakti for what I am and who I am in reality, then he knows Me thereby (tatas) in reality and he enters Me immediately,"[^250_448] i.e. immediately thereafter he enters Me tatas "thereby" sc. by virtue of his bhakti.
+
+Bhakti is a kind of knowledge that is so excellent, precious and exclusive that it robs everything else of its interest.[^250_449] Now, he that has acquired this knowledge is elected by the Supreme Person, and so he can grasp Him. This is the full meaning of the śruti cited above.[^250_450] It is through bhaktiyoga, furthered at first by karmayoga that is daily intensified in the above way and subsequently by jñanayoga, that such knowledge in the form of supreme bhakti arises.[^250_451] So the venerable Parāśara says: "A person who acts according to his station and stage of life propitiates the Supreme Person Visnu: there is no other way of satisfying Him."[^250_452] And the Supreme Person who, while remaining the Supreme Brahman, had descended to the earth in order to rescue the entire Universe,[^250_453] Himself has declared: "Listen how a man who keeps to his own task will find the highest achievement: by worshipping Me, from Whom all beings proceed and Who pervades this entire world, in his own task, man finds the supreme achievement: "[^250_454] He is attainable only by bhakti that has matured in the described manner.[^250_446]: 446. BhG. 8, 22.[^250_447]: 447. BhG. 11, 54.[^250_448]: 448. BhG. 18, 55.[^250_449]: 449. svetaravaitṛṣṇyāvaha",[^250_450]: 450. MundUp. 3. 2. 3.[^250_451]: 451. Cf. my Ramanuja etc., Introduction Ch. IV.[^250_452]: 452. VP. 3, 8, 9.[^250_453]: 453. Cf. GBh. Intr.....svam eva rupam tatsajätiyasamsthanam svasvabhavam ajahad eva kurvams tesu tesu lokeşu avatiryavatirya, and SBh. 1, 3, 2.
+
+[^250_454]: 454. BhG. 18, 45 cd. 46.
+
+§ 93. This 'path' which is shown in all the śrutis whose meaning is very lucidly explained by the ancient commentaries composed by Bodha-[[P251]]
+yana,[^251_455] Tanka,[^251_456] Dramida,[^251_457] Guhadeva, Kapardi, Bharuci etc., and accepted by all who are competent to judge, is only to be arrived at by bhakti that has developed along the above lines. And herewith the Cārvākas,[^251_458] the Buddhists, Vaiseşikas,[^251_459] Naiyayikas,[^251_460] Jainas,[^251_461] and the followers of Kapila[^251_462] and Patanjali[^251_463] are condemned alike, those who are outside the pale of the Veda together with those who derive their heterodoxies from the Veda.[^251_464] For doctrines derived from the Veda may present a completely reverse notion of things: Manu himself equates them with the heresies outside the Veda: "Heresies outside the Veda and traditional heterodoxies alike are all held to be fruitless after death for they are founded on tamas."[^251_465] This means that those whose natural guna is the highest sattva, untouched by rajas and tamas, have a truly Vedic interest,[^251_466] and true insight in the real meaning of the Veda.[^251_455]: 455. Held to be the author of the Vrtti which R. occasionally quotes (SBh. 1, 1, 10; 1, 2, 1; 1, 3, 7; 1, 3, 32); see Intr. II and Appendix.
+
+[^251_456]: 456. Considered to be the author of the Vakya quoted in Ved. and SBh. (1, 1, 1; 1, 3, 13); also mentioned by Yamuna who enumerates him among the false teachers; cf. Intr. II and Appendix.
+
+[^251_457]: 457. Dramidabhäsya's author; cf. Intr. II and Appendix.
+
+[^251_458]: 458. Materialists and hedonists, followers of Carvaka.
+
+[^251_459]: 459. aulukya-, after the founder Ulūka.[^251_460]: 460. akṣapada-, after the founder Akşapada or Gautama,[^251_461]: 461. kṣapanaka- "religious mendicant, esp. Jaina".
+
+[^251_462]: 462. Kapila was the founder of the Samkhya system.
+
+[^251_463]: 463. Patanjali was the founder of the Yoga system.
+
+[^251_464]: 464. Note that R. considers the Samkhya to be rejected in toto; with this, no doubt mainly polemical, statement cf, the more conciliant view in the utpattyasambha- radhikarana ŚBh. 2, 2, 43.[^251_465]: 465. Manu 12, 95.
+
+[^251_466]: 466. vaidiki rucih.
+
+§ 94. It has been declared in the Matsyapurana that the kalpas or world-ages are samkirṇaḥ sattvikaś caiva rājasās tāmasas tatha:[^251_467] after these periods of Brahma have been described, namely that some are mixed, some mainly of sattva, some mainly of rajas and some mainly of tamas con- stituents, it is declared that Brahma-who is compounded of all three con- stituents sattva, rajas and tamas-glorifies, in puränas that are uttered in any-one of the above ages, those component elements of the world which themselves are again compounded of the same set of constituents: "Brahma has of old glorified in a purana uttered in a certain age the particular deity determined by the predominant constituent of the age.[^251_468] And specifically:[[P252]]
+In tamasa ages the glory of Agni and Siva is sung,[^252_469] in rajasa ages it is held that it is the superior glory of Brahma,[^252_470] and in the sättvika ages is it the superior glory of Hari: in those ages the votaries accomplished in Yoga will achieve their supreme end; in mixed ages that of Sarasvati..."[^252_471][^251_467]: 467. Mätsya or Matsya Purana 290, 13 ab.[^251_468]: 468. Matsya P. 290, 15.
+
+[^252_469]: 469. Matsya P. 290, 14 cd.
+
+[^252_470]: 470. Matsya P. 290, 14 ef.
+
+[^252_471]: 471. Matsya P. 290, 15 (additional sloka).
+
+In other words, since Brahma is the primeval kṣetrajña or embodied soul, sattva will be predominant in some of his days, rajas in others and tamas in others again. For as the Venerable Lord has said: "There is no being on earth or in heaven or among the gods that is free from the three prakṛti-born gunas."[^252_472] On the authority of the śruti: "He who creates Brahma in the beginning and bestows on him the Vedas.."[^252_473] we learn also that Brahmā too is a kṣetrajña[^252_474] as he is created and subject to the śāstras.
+
+[^252_472]: 472. BhG. 18, 40.
+
+[^252_473]: 473. SvetUp. 6, 18, yo brahmaṇam vidadhäti purvam yo vai vedamsca prahinoti tasmai.[^252_474]: 474. i.e. an individual soul in, and limited by a body, be it divine.
+
+So when there is contradiction between puranas which Brahmā has revealed on days when sattva prevailed, and purāṇas revealed on other days when other gunas prevailed, then the purana that was revealed on a sättvika day contains the truth and another that contradicts the former contains no truth: so Brahma himself has declared on a day when he was in sattva him- self,[^252_475] so that the puranas could decisively be discriminated. This is how the above citation is to be understood.
+
+[^252_475]: 475. It may be remarked however that Matsya P. has no such pretensions and that other puranas at times classify it as tamasa; cf. Adidevānanda's note, YID., p. 181, 29.
+
+The Venerable Lord Himself has said what the effects of sattva, etc., are: "From sattva springs knowledge, from rajas greed, and from tamas in- dolence, bewilderment and ignorance.[^252_476] The cognitive faculty[^252_477] is sättvika when it knows activity and inactivity,[^252_478] duty and non-duty, fear and safety, bondage and release. When the cognitive faculty has no exact knowledge of dharma and adharma, duty and non-duty, then it is rajasa. And when it, completely obscured, mistakes adharma for dharma, and has reverse know- ledge of all things, then this faculty is tāmasa,"[^252_479]
+
+[^252_476]: 476. BhG. 14, 17.
+
+[^252_477]: 477. buddhi-, expl. GBh. 18, 29 vivekapurvakaniscayarūpam jñānam "knowledge based on discrimination and taking the form of decision".[^252_478]: 478. GBh. 18, 30 pravṛtti: abhyudayasadhanabhüto dharmah; nivṛtti: moksa- sadhanabhito dharmah.
+
+[^252_479]: 479. BhG.. 18, 30-32.
+
+All the compilers of puranas have compiled their purānas after Brahmā himself had told them all the contents. This is said in: "I will narrate the story exactly like the venerable Grandfather, who sprang from the Lotus, has revealed it when he was questioned by the eminent sage Dakṣa and others."[^253_480]
+
+§ 95. -But how can the words of the Veda contradict one another if they are not of human origin?[^253_481]
+-We have said before that they do not contradict one another when their true purport has been determined correctly.
+For instance the śrutis: "After[^253_482] the nasal sound has ceased,[^253_483] the vital air with the senses in the manas should be concentrated in the Supreme Spirit, and one should meditate on the Sovereign and so meditate further on all this. Brahma, Visnu, Rudra and Indra have all been begotten;....not the cause:....the cause alone should be meditated.[^253_484] Sambhu,[^253_485] the Supreme Sovereign enjoying universal sovereignty, should be meditated upon as abiding in the centre of space." "Higher than Whom there is nothing; smaller or larger than Whom there is no one; like a tree He alone stands steadfast in the sky. This Person fills the entire world. Therefore that which is most supreme, that is formless and without defect. Those who know that become immortal, but the others find only misery. Having all faces, heads and necks, dwelling inside all beings, pervading all, this auspicous Venerable Lord is therefore omnipresent,[^253_486] when there was darkness, and neither day, nor night, nor being nor non-being, then the auspicious One was there, alone. That is the imperishable One, that is Savity's coveted gift, and from that has arisen the ancient knowledge;"[^253_487] etc., etc.: if these śrutis seem contradictory, then I remind you that the Supreme Brahman is Nārāyaṇa, as has been declared before. Then how could there be contradiction?
+
+[^253_480]: 480. VP. 1, 2, 8.[^253_481]: 481. apauruşeya-; acc. to the view taken by the Mimämsakas, both purva and uttara, the Veda is not a creation of man and thus open to error, but eternally conceived by the Supreme Being and in each age 'viewed' by inspired seers, cf. Intr. IV.[^253_482]: 482. AtharvaŝikhUp. 2.
+
+[^253_483]: 483. nädänte, i.e. the anunäsika of the pranava OM.
+
+[^253_484]: 484. R. abbreviates; the passage runs: brahmavisnurudrendrās te samprasuyante sarvāni cendriyani saha bhutair; na kāraṇam kāraṇānām dhyātā: karanam tu dhyeyah etc.[^253_485]: 485. sambhu is acc. to R. to be taken not as the well-known auspicious name of Siva but literally as the "beneficial One", as will be shown.[^253_486]: 486. SvetUp. 3, 9-11.[^253_487]: 487. SvetUp. 4, 18 yada tamaḥ tan na diva etc.
+
+§ 96. But this is too little.-The Vedas with their angas,[^254_488] corrobo- rated by the glosses of the foremost of Vedic scholars and by ratiocination; proclaim that Brahman is the cause of the world's birth, etc.: "From Him is its birth, etc.; "[^254_489] "That, from which these creatures issue, by which they live when born, to which they return when departing, that you are to inquire into: that is Brahman,[^254_490] which tells us that Brahman is the cause of the world's birth, etc. We are told the same by the very contexts that treat of the world's creation and resorption. From: "In the beginning, my dear son, sat was alone and without second,"[^254_491] we learn that Brahman, denoted by the word sat is the supreme cause because He is the material and operative cause[^254_492] of the world and its immanent Ruler. This very sense is in another śākhā conveyed with the word Brahman in lieu of sat: "Brahman verily was here alone in the beginning,"[^254_493] so that we know that the word sat denotes Brahman. The same sense we find again in another sākā; "the Soul verily was here alone in the beginning," so that we know that the words sat and Brahman denote the Soul.[^254_494] Similarly in another śākhā: "Nārāyaṇa was here alone, not Brahma, not Siva, nor heaven and earth, nor the constellations,"[^254_495] which is decisive proof that Nārāyaṇa is denoted by all the words for supreme cause, like sat, Brahman, the Soul, etc.
+
+[^254_488]: 488. The auxiliary sciences siksa, chandas, vyakarana, nirukta, jyotisa and kalpa,[^254_489]: 489. BrS. 1, 1, 2 janmädy asya yatah.
+
+[^254_490]: 490. TaittUp. 3, 1.
+
+[^254_491]: 491. ChUp. 6, 2, 1.
+
+[^254_492]: 492. cf, supra §§ 32-33,
+
+[^254_493]: 493. BAUP. 1, 4, 1.
+
+[^254_494]: 494. AitUp. 1, 1.
+
+[^254_495]: 495. MahUp. 1.
+
+§ 97. In the passage:[^254_496] "Him, whom the sages weave in the middle of the sea,
+Him one cannot apprehend as vertical or horizontal or in be- tween. No one is master to Him and His alone is great fame. His form is not to be beheld, and no one can see Him with his eyes: the wise conceive Him with their minds in their hearts: they who know Him so become im- mortal," His absolute superiority is propounded; and it is denied that there is anything superior to Him in the passage: "No one is master to Him." Immediately thereafter the quotation in: adbhyaḥ sambhuto hiranyagarbha ity astau,[^254_497] connects the above passage as one coherent context with the text beginning: adbhyah sambhutaḥ,[^254_498] where the so-called mahapuruşa con-[[P255]]
+text:[^255_499] "Hri and Lakṣmi are His consorts,[^255_500] elucidates that all this bears on Nārāyaṇa alone.
+
+[^254_496]: 496. TaittAr. 10, 1, 3 yam antaḥ samudre kavayo vayanti.... nainam urdhvam na tiryañcam na madhye parijagrabhat etc.[^254_497]: 497. astau, i.e. eight rks RV. 10, 121, 1: hiranyagarbhaḥ sam avartatagre bhutasija jätaḥ patir eka äsit, ff.
+
+[^254_498]: 498. TaittAr. 3, 13, 2.
+
+[^255_499]: 499. Name derived from the stanza vedaham etam puruşam mahāntam.[^255_500]: 500. ie. TaittÄr. 3, 13, 2 hris ca te lakṣmis ca patnyau.
+
+This sense is further enlarged upon in the Nārāyaṇa section,[^255_501] from sahasraširṣam devam onwards, concluding with: "He is Brahmā, He is Šiva and Indra,[^255_502] He is Aksara, He the Supreme self-sufficient Sovereign." Here- with first all the words which in all the different sākhās denote the Supreme Entity akşara, siva, sambhu, parabrahman, parajyotis, paratattva, parā- yana, paramātman, etc. with all the qualities inherent in them, are applied to Nārāyaṇa, then it is asserted that all things collectively that are different from Him are dependent on Him, pervaded by Him, supported by Him, con- trolled by Him, accessory to Him and ensouled by Him; and finally it is declared that Brahmā and Śiva are likewise manifestations of Him, because they are of the same order as Indra and the like. This entire text serves only to expound who is the Supreme Entity; it enjoins nothing else.
+
+[^255_501]: 501. TaittAr. 10, 11, 1 sahasrasirsam devam visvaksam visvasambhuvam / visvam nārāyaṇam devam aksaram paramam prabhum / sa brahma sa sivaḥ sendraḥ so 'ksaraḥ paramaḥ svarat; cf. AtharvasikhUp. 2.
+
+[^255_502]: 502. sendrah, irregular sandhi for sa indraḥ.
+
+§ 99. Other texts, e.g., "He that knows Brahman attains the Most- High"[^255_502a] enjoin that the Supreme Brahman-who is absolutely superior to all, as witness our text above[^255_503]- should be worshipped by upasana,[^255_504] etc. So the declaration prānam manasi saha karanaih,[^255_505] etc. first summarizes all the transformations together of senses, vital air, etc. as contained in the Supreme Brahman as the universal cause, and then enjoins: one should meditate on the Supreme Spirit as the Lord of all,[^255_506] i.e., the meditation on Nārāyaṇa[^255_507] who is the Supreme Brahman.[^255_502a]: 502a. TaittUp. 2, 1.[^255_503]: 503. SvetUp. 3, 9 yasmat param naparam asti, or Taittir. 10, 1, 3 na tasyeśe kaścana.[^255_504]: 504. One is reminded of the synonymy of vedana (in brahmavid-) and upisana,
+
+[^255_505]: 505. above AtharvasikhUp. 2.
+
+[^255_506]: 506. viz. in karanam tu dhyeyaḥ sarvaiśvaryasampannaḥ sarvesvaraḥ, etc.[^255_507]: 507. As connected with TaittAr. 10, 11, 1 Narayananuvāka.
+
+§ 100. In "the Lord of all"[^255_508] and "no one is master to Him" it is declared that He is the sovereign over all: so the text enjoins in: "sambhu, the sovereign Lord, enjoying universal sovereignty, should be meditated[[P256]]
+upon in the centre of space,"[^256_509] that Nārāyaṇa-who is the supreme cause and is denoted by the word sambhu-is to be the object of our meditation. Since the text: "who is the object of meditation?.. The cause is the object of meditation,"[^256_510] propounds that not the effect is the right object of medi- tation but only the cause, therefore the Nārāyana section-which declares. only who is the supreme cause-asserts that Nārāyaṇa Himself is the sup- reme cause and that the word sambhu rightly denotes Him. The invention of other meanings contradictory to that given above is not justified in an assertion that enjoins that only the cause is the right object of meditation.[^255_508]: 508. MahānārUp. 9, 3 TaittĀr. 10, 11, 1 patim visvasya, continuing atmesvaram sāśvatam sivam acyutam.
+
+[^256_509]: 509. Taittar. 10, 11, 1.
+
+[^256_510]: 510. AtharvasikUp. 1: bhagavan kim adau prayuktam dhyanam dhyayitavyam kim tad dhyanam ko va dhyātā kaś ca dhyeya iti.
+
+§ 101. The contention in "that which is more supreme than Him,"[^256_511] that something would be known that is higher than that Person is belied by: “higher than whom there is nothing, subtler or larger than whom there is no one," ie. than whom nothing whatever is higher-no thing different from that Person is in any respect higher than Him; aniyas-means "subtle" and iyāyas "the Lord of all": for He is the Lord of all because He pervades them al1[^256_512]_i.e. nothing different from Him is subtler or more sovereign: this denies that anybody different from this Person is superior to Him, and that means that it is refuted that any superiority can be attributed to anyone but Him.
+
+[^256_511]: 511. SvetUp. 3, 10,[^256_512]: 512. This is to be seen in connexion with the Nārāyaṇanuvaka: tat sarvam vyäpya narayanah sthitaḥ, and; patim visvasya.
+
+§ 102. So, what is the meaning of our text? In the beginning of the context under discussion it was asserted-in "when he knows Him, he passes beyond death: no other way is there for him to tread"[^256_513]-that knowledge of the Person is the cause of immortality, and that there is no way but this very way of knowledge. Later on, in the concluding passage "than whom nothing is higher.. this Person fills the entire world,"[^256_514] it is declared that the Person is superior to all. Finally, the assertion that knowledge is the cause of immortality and that there is no other way is wound up with the reason for it, which is given in the concluding statement: "therefore-sc. since that Personal Entity is most supreme-that <Personal Entity> is most supreme: that is without form and without defect: they who know this become immortal, but the others find only misery."[^256_515] This must be the[[P257]]
+sense,[^257_516] otherwise the two assertions made in the opening text would be in conflict with the last one.
+
+[^256_513]: 513. SvetUp. 6, 15 where the borrowal nanyaḥ pantha vidyate 'yanaya shows the connection with TaittAr. 3, 13, 1.
+
+[^256_514]: 514. SvetUp. 3, 9.
+
+[^256_515]: 515. SvetUp. 3, 10.
+
+The text sasvatam sivam acyutam etc. has told us already that this Person may be denoted by the word siva, viz. because He possesses the quality of purity. So our text declares immediately that this Person may be denoted by siva, for: "the great sovereign Person stirs every being into life.”[^257_517] And in the manner described all the rest-"there was neither being nor non-being, only the siva was there alone" etc.-can be deduced.
+
+[^257_516]: 516. The first that by knowing Him one obtains immortality; the second that there is no other way than by knowing Him.
+
+[^257_517]: 517. SvetUp. 3, 12.
+
+§ 103. Moreover, this Person-with whom no equal or superior can co-exist, as witness the above text "no one is master to Him-is first declared to be cf. in the same section "subtler than the subtle"[^257_518]-the sovereign of the Om syllable, which is the matrix of the Vedas it is its beginning and end, inasmuch as He is denoted by the A that constitutes the radical element of Om,[^257_519] Then, after this declaration is made, it is said that this Person is to be worshipped as dwelling in the space contained within the Little Lotus.[^257_520]
+
+The meaning is as follows: the Om syllable is the matrix of the entire Veda, and the A is the matrix of the Om syllable. The Veda-a transforma- tion of the Om syllable is dissolved in the Om which is its own matrix, and the Om being a transformation of the A is dissolved in the A which is its own matrix. Now, the One who is the para of, (i.e. the object denoted by) the A which is the matrix of the Om,[^257_521] that One is the sovereign Lord. Consequently, the Nārāyaṇa who is denoted by the A which is the matrix of all denotative words, and who is the matrix of all the objects denoted by those words, is the sovereign Lord: this is the meaning. As the Venerable Lord has said: "I am the origin and the dissolution of the entire Universe: there is nothing more supreme than I am.[^257_522] I am the A among the letters etc.[^257_523] On the authority of the śruti "the A is Brahman",[^257_524] and "the A is[[P258]]
+the entire language,"[^258_525] it is very clear that the A is the matrix of all denotative words and that Brahman is the matrix of all things denoted by words. Therefore, the assertion that Brahman is denoted by the A proves that Narayana, who is denoted by the A, is the sovereign Lord.
+
+[^257_518]: 518. SvetUp. 3, 10: This reference to His subtlety is made to facilitate the transi- tion to the discussion of the OM syllable, which, as will be shown, is the subtlest entity to which the entire Veda can be reduced.
+
+[^257_519]: 519. For this passage cf. MahānārUp. 10, 8 yo vedadau prokto vedante ca pratisthi- tah/tasya prakṛtilinasya yah parah sa mahesvaraḥ.[^257_520]: 520. MahānārUp. 10, 7 dahram vipäpmam varam vesmabhutam yat pundarikam puramadhyastham / tatrapi dahram gaganam visokam tasminn anyat tad upäsitavyam; with which compare the daharavidyä, ChUp. 8, 1, 1.
+
+[^257_521]: 521. MahānārUp. 10, 8 cited above: tasya prakṛtilinasya yaḥ paraḥ sa makešvaraḥ.
+
+[^257_522]: 522. BhG. 7, 6cd-7ab.
+
+[^257_523]: 523. BhG. 10, 33.
+
+[^257_524]: 524. AitA. 2, 3, 8 (ad finem) a iti brahma,
+
+§ 104. The Nārāyaṇa section, which with sahasraširṣam devam etc.,[^258_526] means to set forth who is the sole Supreme Entity, propounds in detail that He is superior to all. This Supreme Entity, dealt with by that text exclusively, is also in all other texts which deal with other topics understood by one word or the other and is to be regarded as that same Supreme Entity: thus the decision of the Author of the Sutras in sastradṛṣṭyā tūpadešo vāmadeva- vat.[^258_527] The fact that this very Supreme Entity is in some text to be under- stood by the words Brahma, Śiva and the like, does not mean that the mere divinities Brahmā, Śiva etc., are 'supreme' themselves, for the section that deals exclusively with the topic declares explicitly that they form only a manifestation of Him inasmuch as they are on an equal footing with Indra and the like.[^258_528] Similarly in some texts the Supreme Brahman is referred to by the words ākāśa,[^258_529] prāṇa[^258_530] etc., which does not mean that the element space, or the vital air etc., are imagined to be 'supreme'.
+
+[^258_525]: 525. Aitär. 2, 3, 6 (ad finem) akāro vai sarvā vāk.
+
+[^258_526]: 526. TaittÄr. 10, 11, 1 MahānārUp. 11, 1.
+
+[^258_527]: 527. BrS. 1, 1, 31 "this instruction [is made possible] by a true view taken of the Scriptures, [viz.] that it is a case like Vamadeva's". SBh. 1, 1, 31 R. interprets:. This instruction of Indra that he is the object of meditation is to be understood from the Scriptures which state that, as the inner Ruler, God ensouls all entities: so these entities are He, in the same way as Vamadeva. Similarly in our text the Supreme Entity can, on this principle, be expressed by a great many terms which ultimately denote the inner Ruler within them.
+
+[^258_528]: 528. viz. sa brahma sa sivah sendraḥ so "ksarah.
+
+[^258_529]: 529. e.g. ChUp. 1, 9, 1 asya lokasya ka gatir ity akaša ity uvaca; cf. BrS. and SBh. 1, 1, 23.[^258_530]: 530. e.g. ChUp. 1, 11, 4-5 prastotar ya devata prastavam anvāyatta....katama sä devateti prana iti hovaca, cf. BrS. and SBh. 1, 1, 24.
+
+§ 105. But here an objection may be raised. In the text: "In this town of Brahman there is a little lotus that is a dwelling-place: inside there is a tiny space: that which is inside that space, that should be sought after, that indeed should be inquired into,[^258_531] the word space, serves to denote the material cause of the world, and it is declared that some sort of entity that dwells in that space should be sought after. But, since we hear in the śruti that space effects names-and-forms[^258_532] and we see in the Purusasukta[^258_533] that the puruşa or Person is the agent of the effecting of names-and-forms,[[P259]]
+we understand that the One whom we are to revere as the object of the commended inbuiry must be another than that Person who is synonymous with space,[^259_534] This kind of objection is only raised by people who have not studied the Veda and have not seen the śāstras. For the śruti itself. disposes of this objection there and then, and so does the Author of the Vakya. The śruti reads: "What is there to be found in that tiny space within the lotus that is to be sought after and inquired into?"[^259_535] and in reply to this objection the śruti first asserts in "Not less vast than the main space is that tiny space contained in the heart,"[^259_536] that there are no limits to the vastness of the Supreme Person, here denoted by the word space, and that He sup- ports the entire Universe because He is the cause of the entire Universe,[^259_537] then, in "All desires are contained therein,"[^259_538]-i.e., "in Him are the eight qualities, culminating in satyasamkalpa,[^259_539] contained as in a treasury-the śruti wants to make it clear with the words apahatapāpmā satyakāmaḥ[^259_540] that the Supreme Person as well as these eight qualities are to be inquired into separately, and so states that "that which is in Him should be sought after;"[^259_541] so the śruti itself refutes the entire objection.
+
+[^258_531]: 531. ChUp. 8, 1, 1, the daharavidya, with which compare MahanärUp. 10, 7 quoted supra note 520.
+
+[^258_532]: 532. ChUp. 8, 14, 1 akašo vai nāma nāmarüpayor nirvähitā,
+
+[^258_533]: 533. RV. 10, 90, 6ff.
+
+[^259_534]: 534. This objection seems to be inspired by Sankara's ChUpBh. 8, 1, 1 antarākāśa ākāśākhyam brahma / akašo vai nama iti vaksyati, ff.[^259_535]: 535. ChUp. 8, 1, 2.
+
+[^259_536]: 536. ChUp. 7, 1, 3 yāvān vā ayam ākāśās tävän eso 'ntarhṛdaya ākāśaḥ.
+
+[^259_537]: 537. ChUp. 8, 1, 3 sarvam tad asmin samahitam iti.
+
+[^259_538]: 538. ChUp. 8, 1, 5 asmin kämäḥ samähitāḥ.
+
+[^259_539]: 539. sc. those summed up 8, 1, 5.
+
+[^259_540]: 540. ChUp. 8, 1, 1
+
+[^259_541]: 541. ChUp 8, 1, 1.
+
+§ 106. In other words: the objection raised with "what is there to be found that should be sought after" is refuted by the statement that in Him there reside his nature of being creator, substratum, controller and principal of the entire world, as well as his qualities apahatapapma etc. Therefore the Author of the Vakya declares: tasmin yad antar iti kamavyapadeśaḥ "the words "that which is therein" refer to His desires," desire means: desired objects; ie, the qualities of being apahatapāpmā etc. In other words: the Supreme Brahman, denoted by the words "tiny space", who creates, sustains and dissolves the entire Universe: that which is contained within that Supreme Brahman-sc. His immeasurable transcendence and his eight qualities of being free from sin etc., should both be the objects of inquiry.
+
+So the text continues: "Those who, here on earth, come to know the Spirit and the actualized desires shall find their desires fulfilled in all the worlds."[^259_542][[P260]]
+
+[^259_542]: 542. ChUp. 8, 1, 6 atha ya ihātmānam anuvidya vrajanty etäms ca satyan kämän teşām sarvesu lokeşu kāmacāro bhavati,
+
+§ 107. We have to understand that when Visnu[^260_543]-who is the Sup- reme Entity as declared in the text (which deals with this topic exclusively), that only the cause is the right object of meditation-enters into an effect, then this entering into an effect is a voluntary descent of Him, so as to help the world, just for his sport: thereby He completes the number of entities of certain categories which are his own effects. So, as a matter of sport, the Supreme One becomes Upendra,[^260_544] completing thereby the number of divini- ties. Likewise the Supreme Brahman has voluntarily descended into the shape of Dasaratha's son Rāma, thereby completing the number of kings of the Solar Dynasty. Similarly the Venerable Lord has voluntarily descended in the House of Vasudeva, to incarnate Himself in Krsna in order to support the world, thereby completing the number of scions of the Lunar Dynasty.
+
+[^260_543]: 543. The Supreme Being is here referred to by His name Visnu (rather denoting an aspect of the total divine personality Narayana,), because this name figures in the. AtharvasikhUp.; rightly S. comments: atha brahmavisnurudrendräs te sarve samprasu- yanta iti vinoh karyatvasravanat paratvavaikalyasankam vyudasyati. It would appear from this paragraph that to R. Visnu would primarily denote the God as the God of incarnations: the etymology vis-, always present to his mind, would favour this view.[^260_544]: 544. For the story of Krsna and the cows and Kṛṣṇa's consecration by Indra with the name Upendra, cf. Harivamša ch. 75 and VP. 5, 12, esp. 12-15.
+
+§ 108. We have explained before that it is Nārāyaṇa whom the con- texts that deal with creation and resorption declare to be the supreme cause. If in the Atharvaśiras Upanisad Rudra enlarges upon his own universal sovereignty,[^260_545] then this is true-as witness so'ntarād antaram prāviśat — in so far as the Supreme Spirit has entered into him: this is made clear by the śruti itself.[^260_546] The author of the Sutras declares in sastradṛṣṭyā tūpadeso vämadevavat that this is the meaning of statements of this type; like that of Prahlada for example: "Because the Infinite One is omnipresent, I am He. All is from me, I am all, all is in me everlasting, etc."[^260_547] Here the ground that justifies this. type of statement is mentioned: the ground is that the Infinite One is omnipresent: the Supreme Spirit is omnipresent as the imma- nent soul of all spiritual and non-spiritual entities which constitute his own body. So we have said[^260_548] that all words denote the Supreme Spirit Himself as embodied by all entities. Hence the word "I" denotes the Supreme Spirit as the substance modified by a mode of which He himself is the soul. The Author[[P261]]
+of the Vakya expresses the same in the terms of meditation on God under the aspect of the ego: "One may grasp Him as 'Oneself', for each has in Him his completion: "[^261_549] i.e., it is the Supreme Spirit-either in condition of effect or of cause who ensouls the body constituted by spiritual and non-spiritual matter in gross or subtle form respectively: this is so because everyone and everything is completed in Him. The same declares the Author of the Sutras in: "But as the self: this they accept for so have the texts under- stand them."[^261_550] So, again, in the Mahabharata in the Brahmarudrasamvada, where Brahma tells Rudra: "He is the immanent soul of you and me and whoever else has a body: "[^261_551] i.e., the sovereign Lord Narayana exists as the immanent soul in Rudra, Brahma and all embodied beings. Likewise in the same epic: "Visnu is the soul of the venerable Bhava whose might is immense. Therefore the sovereign Lord suffers the bow to be drawn";[^261_552] again in "those two chief gods, who are believed to have sprung from His serenity and from His wrath, work creation and destruction when He has shown them the way,"[^261_553] i.e., Nārāyaṇa, existing as their immanent soul, shows Brahma and Rudra the way so that they can work creation and resorption respectively.
+
+[^260_545]: 545. AtharvasirUp. 1 deva ha vai svargam lokam ayams te rudram aprechan ko bhavan iti/ so 'bravid aham ekah prathamam asid vartāmi ca bhaviṣyāmi ca nanyaḥ kaścin matto vyatirikta iti/ so 'ntarad antaram prāvisad diso vyantaram prāvisat (S. reads disaś cantaram samprāvisat).
+
+[^260_546]: 546. "He has entered within from elsewhere": S: sarirad antarasya praṇader apy- antaram jivam prāvisat.
+
+[^260_547]: 547. VP. 1, 19, 85.
+
+[^260_548]: 548. Supra, $17.[^261_549]: 549. atmety eva tu grhniyat sarvasya tannispatteḥ, cf. Appendix § 2, Fr. XI.
+
+[^261_550]: 550. BrS. 4, 1, 3 atmeti tupagacchanti grähyanti ca; cf. ŚBh.: The sages look upon God as the all-ensouling principle, for this is taught by a number of texts like the Antaryämibrähmana.
+
+[^261_551]: 551. MBh. 12, 353 ff. (Calc. Ed. 13743) which reads mamantarātmā tava ca.
+
+[^261_552]: 552. MBh. 8, 1503cd-1504ab (C. reading Visnus cātmā); in the context Vişnu enters the bow.[^261_553]: 553. MBh. 12, 343, 19 (C. 12146, reading adesita): Brahma is sprung from His serenity (prasada), Rudra from His wrath.
+
+§ 109. Those who profess that there is difference between the opera- tive and the material cause are heterodox,[^261_554] for they contradict the sutras which have been composed by an orthodox follower of the Veda, for example: "from Whom the birth etc., of this proceed,"[^261_555] "He is the material cause, for that is in harmony with the promise and the instance,"[^261_556] and moreover they contradict all the hosts of śrutis such as for example; "In the beginning, my dear son, this was sat: it was alone and without second,[^261_557] that reflected: I be many: I will multiply;[^261_558] the forest was Brahman and the tree was Brah- man out of which they build heaven and earth: Brahman underlies the[[P262]]
+worlds supporting it;[^262_559] all the flashes of lightning spring forth from over that Person;[^262_560] no one is master to Him and His alone is great fame,[^262_561] there is no diversity whatever here,[^262_562] ruler of all, sovereign over all,[^262_563] this Per- son is all that was and that shall be, the sovereign of immortality,[^262_564] path is there for him to tread."[^262_565]
+
+[^261_554]: 554. vedabahya- "outside the Veda, not accepting the authority of the Vedic texts."[^261_555]: 555. BrS. 1, 1, 2 janmady asya yataḥ.
+
+[^261_556]: 556. BrS. 1, 4, 23 prakṛtis ca pratijñādṛṣṭäntänuparodhät; the pratijna is the pro- missory assertion ChUp. 6, 1, 3 uta tam adesam aprākṣyaḥ...yenasrutam šrutam, etc.; the dṛṣṭanta the instance of the clay 6, 1, 5; the sūtra refers to 6, 2 where the creation of the world out of sat is taught.
+
+[^261_557]: 557. ChUp. 6, 2, 1.
+
+[^261_558]: 558. ChUp. 6, 2, 3,
+
+[^262_559]: 559. TaittBr. 2, 8, 9, 6.
+
+[^262_560]: 560. MahānārUp. 1, 8 Taittår. 10, 1, 3.
+
+[^262_561]: 561. TaittAr. 10, 1, 3.
+
+[^262_562]: 562. BAUp. 4, 4, 19.
+
+[^262_563]: 563. BAUp. 4, 4, 22.[^262_564]: 564. RV. 10, 90, 2 purusa evedam sarvam yad bhutam yac ca bhavyam/utämr- latvasyeśāno.[^262_565]: 565. TaittÄr. 3, 13, 1..
+
+§ 110. The epics and purānas tell us in the contexts treating of the subsistence and resorption of the world that this is the Supreme Entity. For instance the Mahabharata: "Who has created this entire world, animate and inanimate? And to whom shall it return? Tell us that, Grandfather: "[^262_566] to which Brahmā replies: "Nārāyaṇa, who is embodied by the world, the soul of the infinite, the One everlasting, etc."[^262_567] and also: "rsis, pitrs, gods, the great elements, the minerals: the entire world, animate and inanimate, springs from Nārāyaṇa."[^262_568]
+
+Likewise is set forth in the Visnupurana which is accepted without dissension by all instructed persons from the East, North, South and West as adequate in so far as it establishes all the laws and all the categories.[^262_569] We learn from the Sutra: "from whom the birth etc., of this proceed,"[^262_570] that Brahman is the cause of the birth etc. of the world. Now the Visnu- purāṇa, which first raises the question: "What has caused the world to be born etc.?" and then gives the answer: "It has originated from Visnu,"[^262_571] serves only to expound a certain aspect of Brahman's proper form: this is the consensus of all.
+
+This text then reads: "The prakṛti, comprising the evolved and the unevolved, of which I have told you, and the purusa will both dissolve in the Supreme Spirit. This Supreme Spirit, who is the substratum of all and the paramount sovereign, is sung in the Vedas and Vedantas by the name of Visnu":[^262_572] i.e. all texts in all the Vedas and Upanisads proclaim that He alone[[P263]]
+is the supreme cause. In the same manner as, among all śrutis, the Nārāyaṇa section serves only to set forth a certain aspect of the Supreme Brahman's proper form, so the Visnupurana only sets forth a certain aspect of Him. Beginning with the question: "What is the Supreme Brahman?" in: "I wish to hear from you who know the dharma how the world was and how it will be again, what is the stuff that the world is made of and whence it comes with all its animate and inanimate creatures, how and where it was when it was dissolved and whither it will return to be dissolved,"[^263_573] the Visnu- purāna serves only to establish decisively a certain aspect of the Supreme Brahman's proper form. This appears from: "The world has originated from Visnu and in Him it subsists. He is the One who sustains and annihilates the world, and He is the world.[^263_574] He is the paramount sovereign, supreme, existing as the Supreme Spirit, without any particularizing attributes like form, colour etc. He is free from decay and destruction, from evolution, birth and growth, so that it can only be said of Him that He always is. He is in everything and everything dwells in Him: that is why the wise call Him Vasudeva. That Brahman is supreme, eternal, unborn, undying, imperish- able, essentially simple, and always perfect as no imperfection is in It. This Brahman takes on completely the form of purusa and that of Time as the proper form of the evolved and the unevolved."[^263_575] "He transcends, O Sage, the matter constituted by all beings and the transformations natural to it and the imperfections inherent in it like its gunas, etc. He is the universal Spirit, transcending all obscurations, and He covers all that is between heaven and earth. All beautiful qualities are inherent in his nature and He supports the sum-total of creation with a fraction of his omnipotence. The vast body He has assumed is in harmony with His pleasure and taken on by his own wish, and in that body He works the fulfilment of what is salutary to the entire Universe. Comprising the beautiful qualities of glory, force, sovereignty, transcendent knowledge, fortitude, might etc., He is chiefer than the chiefest and none of the afflictions etc. affect Him the paramount sovereign. The Lord's form encompasses all beings in their singleness and in their totality, unevolved and manifest. He is the universal Lord who espies all and knows all, omnipotent and hence called Paramount Sovereign. That by which this Supreme God, free from imperfections, pure, immaculate and simple, is known or seen or understood, that is true knowledge; all that is different from this knowledge is declared to be ignorance."[^263_576][[P264]][^262_566]: 566. MBh. 12, 182, 1.[^262_567]: 567. MBh. 12, 182, 12.
+
+[^262_568]: 568. MBh. 12, 7074 (C).
+
+[^262_569]: 569. tattva-
+
+[^262_570]: 570. BrS. 1, 1, 2
+
+[^262_571]: 571. VP. 1, 1, 31.
+
+[^262_572]: 572. VP. 6, 4, 39-40,[^263_573]: 573. VP. 1, 1, 4-5.[^263_574]: 574. VP. 1, 1, 31.[^263_575]: 575. VP. 1, 2, 10-14.
+
+[^263_576]: 576. VP. 6, 5, 83-87.
+
+§ 111. All other purāņas which give a diverging version should be so interpreted that they are not in conflict with the above one. Their divergence should be understood by considering the way in which each of them had its origin. If they are totally incompatible, then they are to be neglected because they must have had their origin in another guna than sattva,[^264_577]
+
+[^264_577]: 577. Supra, § 94.
+
+§ 112. However, does not this very Visnupurana you quoted above tell us that the members of the trimurti[^264_578] are equal? See the passage: "The one venerable Lord Janardana assumes the names of Brahmā, Viṣṇu and Śiva to create, sustain and destroy."[^264_579]- No, that is not true. The clause "the one Janardana" establishes the fact that the entire phenomenal world, constituted by Brahma, Visnu, Siva, etc., is ensouled by Janardana alone. This passage clarifies what has already been stated in "He is the world"[^264_580] by declaring that "as the Creator the transcendent God creates Himself, as Visnu He protects Himself and what is under his protection, and as the Des- troyer He destroys Himself at the end."[^264_581] Here Brahma as the creator, the created beings, the destroyer and the destroyed beings are all referred to simultaneously, so that, when it is subsequently asserted that Vişņu ensouls all and everything, this assertion shows us the peculiar distinction between creator and destroyer as manifestations of Janardana on the one hand and created and destroyed beings on the other hand. The words Janardana and Visnu being synonymous it follows that the manifestation comprises Brah- mā, Visņu and Siva together as a class. Hence it is said that the Supreme Entity exists, by his own choice and for the sake of his own sport, within the manifestation: as is voiced immediately afterwards in: "Earth, water, fire, wind, ether, all senses and the inner faculty constitute the world called purusa. As the imperishable One is the immanent soul of all beings and is embodied by all, therefore the creation etc. localized in these beings are ultimately useful to Him alone. So Visnu, most excellent, beneficent and benevolent, is embodied by all in the various modes of Brahma etc., in which He is creating and created, protecting, consuming and protected."[^264_582][^264_578]: 578. "Trinity" of Brahma, Visnu and Siva, constituting the three personified aspects cf one supreme and transcendent Deity.
+
+[^264_579]: 579. VP. 1, 2, 66.
+
+[^264_580]: 580. VP. 1, 1, 31.
+
+[^264_581]: 581. VP. 1, 2, 67.[^264_582]: 582. VP. 1, 2, 68-69,
+
+§ 113. —A doubt may arise here: how is it possible that Brahman, who is irreproachable, untransformed and endowed with all perfections, can ensoul a phenomenal world that is partly evil, as the sāmānādhikaranya con- structions would have us believe?[[P265]]
+
+-This doubt is conclusively disposed of by the text itself, which proves its contention with: "inasmuch as the imperishable One is the immanent soul of all beings and embodied by all"[^265_583] for having asserted that Visnu Himself, the paramount sovereign and the Supreme Brahman, is the entire Universe, the text demonstrates this assertion by giving its ground: "because the imperishable One is the immanent soul of all beings and embodied by all: "[^265_584] i.e., because the imperishable One is this by all embodied immanent soul of all beings; later on the text will declare that "all this is in truth Hari's body."
+
+In other words: there is no contradiction in that Visnu, the Supreme Brahman, is imperishable and yet ensouls the world in so far as all constitute His body: for this defines the respective natures of body and soul from each other. The descent of the sovereign Lord Visnu thus described into animals, men and gods-like Brahma etc.-dwelling among the countless subservient entities that make up the phenomenal world, this descent, which is voluntary and serves as a refuge in which the different classes may foregather, has already been mentioned above. That those beings, Brahma etc., are all subject to karman as they belong to the three bhāvanās,[^265_585] and that the ven- erable Lord Vasudeva, who is the Supreme Brahman, descends among gods etc., by his own free will and in his own proper form to succour the entire Universe is most clearly declared in the sixth book of the Visnupurana in the chapter on subhasraya.[^265_586] That his body in his incarnation as a god etc., is not of the stuff common bodies are made of is put forward in the Maha- bharata as well: "the body of this Supreme Spirit has not the common struc- ture of being built up by the various elements,"[^265_587] and in the śruti: "Unborn though He remains, He is born variously: the wise know his origin."[^265_588] The meaning is this: for Brahma and the like, who are subject to karman, it is[[P266]]
+inevitable however much it may be adverse to them-that they are born by gaining entrance in a body of a god etc., which is a particular generic structure built up by combined elements evolved out of prakṛti and which corresponds to their various karman. The sovereign Venerable Lord, how- ever, who has his every will realized, does not suffer births in the way of the above creatures, whose births are tainted by imperfection: still He is born in many ways as a god etc.-but by his own free will and in his own proper form which is unsurpassingly good, and in order to succour the world. And the wise, i.e., the foremost sages, know his bahudha yonim, i.e., the multiple origin of this sovereign Lord who nonetheless does not suffer im- perfect births.
+
+[^265_583]: 583. VP. 1, 2, 68.[^265_584]: 584. VP. 1, 22, 38.[^265_585]: 585. bhāvanā, term from VP. 6, 7, 47 f., where it has approximately the sense of "creative potency manifesting itself in three successive ontological orders (bhava-), that of Brahman, the creator, Karman, the creation, and Brahmakarman, the mediators of creation Sanandana, etc. As it is stated that Hiranyagarbha and the gods belong to creation (50-51), R. quotes the bhavanatraya as proof that Brahma and the gods are ksetrajñas and as such subject to karman. For a detailed discussion of the meaning of the term bhavana both in VP. and with R., I refer to my paper The Subhasrayaprakarana Visnupurana 6, 7 and the meaning of bhāvana, Adyar Library Bulletin (Adyar 1955), XIX, 1-2, p. 3 ff.
+
+[^265_586]: 586. VP. 6, 7, 47 ff.; for R.'s interpretation of this section I refer to the paper quoted in the preceding note.[^265_587]: 587. MBh. ? na bhutasamghasamsthano deho 'sya paramatmanaḥ,
+
+[^265_588]: 588. TaittAr. 3, 13, 3.
+
+§ 114. Of the doubt, voiced in the sutra: "there would be something higher, because of the mention of bridge, measure, relation and difference"[^266_589] that there would be someone elso who is superior to the Supreme Brahman— who was already declared to be the operative as well as the material cause of this entire Universe in the sūtras: "from whom the birth etc., of this proceed,[^266_590] and matter, for that is in harmony with the promise and the instance,"[^266_591]—the Author of the Sutras himself disposes with "no, because of resemblance,[^266_592] it serves the idea, even as the quarter,[^266_593] because of the difference in place as in the case of light etc.,[^266_594] since it is possible,[^266_595] it is thus, since other views are belied,[^266_596] therefore his omnipresence, as follows from the mention of extent etc."[^266_597]
+
+[^266_589]: 589. BrS. 3, 2, 30.[^266_590]: 590. BrS. 1, 1, 2.[^266_591]: 591. BrS. 1, 4, 23, "matter" in the sense of material cause.
+
+[^266_592]: 592. BrS. 3, 2, 31.
+
+[^266_593]: 593. BrS. 3, 2, 32.
+
+[^266_594]: 594. BrS. 3, 2, 33.
+
+[^266_595]: 595. BrS. 3, 2, 34.[^266_596]: 596. BrS. 3, 2, 35.[^266_597]: 597. BrS. 3, 2, 36.
+
+§ 115. Similarly[^266_598] we learn from the Manavadharmaśāstra, the text: "Dis- persing the darkness He made his appearance,[^266_599] wishing to create his various progeny; in the beginning He brought forth water and therein He discharged his seed,[^266_600] and therein rose Brahmā of himself,"[^266_601] that Brahma is an em-[[P267]]
+bodied soul, for he is said to have been born. The same follows from the passage: "the waters were his first course: so He is known as Nārāyaṇa,[^267_602] and the puruşa He created is reputed in the world to be Brahma,[^267_603] for here explicit mention is made of the names of the Supreme Person as the creator and of Brahmā as his creature respectively. In the same manner the Vişņu- purāṇa concludes definitely that Hiranyagarbha etc. are embodied souls, viz., by the assertion that they are incapable of being subhasraya or pure object, inasmuch as they are impure-which follows from their connexion with the three bhāvanās.[^266_598]: 598. The sutras quoted are exegetical pronouncements on texts in the Chandogya Up. which might suggest that there is something beyond Brahman, or that Brahman is not absolutely perfect. For the exact interpretation of the cryptic sutras I refer to R.'s commentary in the Sribhāṣya.
+
+[^266_599]: 599. Manusmrti 1, 6, d [svayambhur bhagavān avyakto] pradur äsit tamonudaḥ.
+
+[^266_600]: 600. Manusmrti 1, 8[so'bhidhāya sarināt svät] sisṛksur vividhäḥ prajaḥ/ apa eva sasarjadau tāsu viryam apāsṛjat. The Vulgate reads bijam (so Kulluka: śaktirupam) avāsṛjat.
+
+[^266_601]: 601. Manusmrti 1, 9 c tasmin jajne svayam brahma[sarvalokapitāmahaḥ].
+
+[^267_602]: 602. VP. 1, 4, 6 ayanam tasya täḥ purvam tena näräyanaḥ smṛtah; it would seem that R. (or an early copyist) got his quotations mixed; the Manusmrti text expected here reads, almost identically, ta yad asyāyanam, etc. (1, 11 ab).
+
+[^267_603]: 603. Manusmrti 1, 11 cd tadvisṛstah so puruso loke brahmeti kirtyate.
+
+§ 116. There is a school[^267_604] that contends: we must say that the whole body of language, as appearing in the form of injunction, exegesis and for- mula,[^267_605] is a source of knowledge only in so far as language denotes things to do.[^267_606] As we cannot understand what is the power of signification of lan- guage unless by the purposeful action taken upon it,[^267_607] and as this purposeful action has its origin in a purposive idea of a thing to do, it follows that the Veda can only bear upon things to do,[^267_608] and language can be no source of knowledge about a thing that is completed.[^267_609]
+
+-To this we reply: what does this high and mighty command mean that we must understand that language is capable of denoting meanings only and exclusively bearing upon practical activities resulting from the[[P268]]
+speech of an actuating agency?[^268_610] It is perfectly easy to understand the denotative power of speech as bearing upon established things too! Suppose a person A sends a person B to inform Devadatta that the stick is standing in the inner room. A does not tell him by word of mouth but employs a gesture of the hand. If B wants to tell that to Devadatta, he will use spoken language to the effect: "The stick is in the inner room." Now another per- son Ĉ keeps him company; C knows what that original manual gesture sig- nifies, as a dumb man would, but he had no knowledge before of significative language, nevertheless, he knows now what sense the sentence: "The stick is in the inner room," conveys, as he has witnessed how it was used. What is difficult about this?[^268_611][^267_604]: 604. The school of the Prabhakaras among the Mimamsakas who maintain a num- ber of views diverging from those of the Bhattas, or followers of Kumārila Bhatta, which have become normative. This discussion of fundamental tenets of the Prabhakaras follows generally the same lines as the one at the end of SBh. 1, 1, 1, but is much more detailed and indispensable for a right understanding of the concise SBh. passages.
+
+[^267_605]: 605. Resp. vidhi, arthavada and mantra.
+
+[^267_606]: 606. karya; I adopt Lacombe's translation (La doctrine, etc.) "chose à faire" which suggests the dynamism of the peremptory injunction (grammatically expressed by the forms of the imperative, potential, etc.) and at the same time implies the exigen- cies of action in profane life as well.
+
+[^267_607]: 607. The idea is that we, learning our language in childhood, do not know the meaning of sentences and words before we have seen them enacted; cf. JHA, Prabhakara Mimämsä, pp. 235 ff.; see below.[^267_608]: 608. The Veda is the source of all language and contains all language.
+
+[^267_609]: 609. i.e., does no longer require a conation, an action taken upon it, because it is parinispanna "perfectly complete". As Brahman is by definition and of necessity a perfectly complete entity which is in no state of becoming itself by outside action taken upon it, it would follow that the Veda cannot give significant information about Brahman.
+
+[^268_610]: 610. The Prabhakara view that language (Sabda) has an inherent denoting capa- city, ie, the potency of denoting objects by itself, metaphysically, and not by virtue of a human convention, is not denied by Ramanuja; what he calls into question is the assumed necessity that this denotativeness is only restricted to imperative, etc., sentences enjoining things to be done.[^268_611]: 611. It is interesting to remark that R. appears not to have been satisfied with this example: in ŚBh. 1, 1, 1, p. 127 he changed it: prakaranäntarenapi sabdarthasamban- dhava dharanam sušakam/kenacit purusena hastacestädini pitä te sukham asta iti devadat- täya jñāpayeti preșitaḥ kascit tajjnäpane pravṛttah pită te sukham asta iti sabdam pra- yunkte / pārsvastho 'nyo vyäpitsur mükavac cestavišeṣajñas tajjñāpane pravṛttam imam jñātvānugatas tajjñāpanāya prayuktam imam sabdam śrutvāyam sabdas tadarthabuddhi- hetur iti niścinoti käryärtha eva vyutpattir iti nibandho nirnibandhanaḥ: indeed, the Prabhakara might consider the example sadhyavikala. Devadatta on obtaining this infor- mation that the stick is in the inner room might quite conceivably act upon it and retrieve the stick and by his action show the dumb person the meaning of the sentence. In other words, the sentence can be construed as an injunction, so that R. has not really made his point. The SBh, example "your father is keeping well" does not admit of any construction as a karya.
+
+Similarly the father, mother etc., teach a child by degrees how to speak; first they point again and again with their finger at various persons and objects while using the words for them: "That is father, that is mother, uncle, a man, an animal, the moon, a snake." The child observes that when the same words are used afterwards a certain idea about their objects pre- sents itself to him.[^268_612] So gradually the child concludes that the application[[P269]]
+of these words to those objects. the finger is based upon 
+a definite power of denotation that is restricted to those objects only, because the words have as yet only been associated with those and no other objects and because the child does not know of any person who fixes their conventional meanings.[^269_613] When his parents teach him again and tell him that the meaning of this and that word is so and so, the child learns the meanings of all words and is then able to use the language's entire stock of vocables. In the same way he knows that all words have their proper meanings and that particular combinations of words denote certain kinds of natural associations of simple objects.[^269_614] Hence follows that the insistence upon words having meaning only for things to do is baseless,[^269_615] Consequently, from the fact that language can be under- stood to have the power of denoting an object that is established it follows that all the words of the Vedanta do denote Brahman, the cause of the Universe the possessor of all perfections, as defined above.[^268_612]: 612. tair eva sabdais teso arthesu svätmanaś ca buddhyutpattim dṛṣṭvā; the con- struction is succinct but precise; on the basis of our text we can restore a better $Bh. reading: the parallel SBh. 1, 1, 1, p. 127, line 9 should be read with MSS. BC tair eva sabdais teşva artheşu svätmanām buddhyutpattim drstva, instead of svätmana adopted by Abhyankar and translated by Thibaut (? "those words of themselves give rise...") and Lacombe ("ils,[sc. les enfants.] se rendent progressivement compte que tel ou tel mot fait naître de lui-même fen leur esprit] la notion de tel ou tel object"). The correct translation there too is "(the children) observe that these words create in them an impression of those various objects": a buddhyutpatti of themselves, created by the words, about their objects.
+
+[^269_613]: 613. samketayitr-
+
+[^269_614]: 614. This section corresponds almost verbally to SBh. 1, 1, 1, p. 127, line 3 ff.
+
+[^269_615]: 615. Same expression $Bh. 1, 1, 1, p. 128: nirbandho nirnibandhanah; nirbandha- ""insistence, obstinacy (in the teeth of contrary evidence)"
+
+§ 117. But let us suppose that words have meaning only for things to do.[^269_616] Even then the words of the Vedanta would fully denote everything, be it that then everything would be denoted only because it subserves the purpose of a thing to do by being the reward that specifies the qualified subject[^269_617] of the thing to do-viz., meditation-: in the same way as the arthavadas, or exegetical Vedic texts,[^269_618] denote 'heaven'[^269_619]-a particular locality not associated with suffering-or the 'firm foundation'[^269_620] that is the[[P270]]
+reward of nocturnal sattras, or the relation of means and end that exists between reviling a Brahmin and a fine of one hundred gold pieces.[^270_621]
+
+[^269_616]: 616. This is argued on the basis of the typically Prabhakara theory of anvītābhi- dhana, according to which a statement derives its significance from the context (of the injunction), as opposed to Kumarila's theory of abhihitanvaya according to which "words themselves can express their separate meanings by the function of abhidha or denota- tion". (COWELL, Sarvadarsanasamgraha, p. 202, note, quoted by Jha). Ramanuja's argument runs: the Vedanta enjoins the knowing of ("knowing" of course in R.'s sense of upasana) Brahman: in the context of this injunction Brahman is the fruit or reward of this karya (brahmavid apnoti param) and is as such significant.
+
+[^269_617]: 617. adhikarin- "possessing the qualities that authorize one to perform and benefit by ritual, etc., actions.[^269_618]: 618. On Prabhakara's views on the function of Arthavada, see JHA, pp. 296 f. where it is stated that "the arthavada, is as much Veda as the vidhi [purely injunctive portions] itself, as it also, like the vidhi, expresses the karyata or performability [i.e., the being a thing to do] of certain acts".
+
+[^269_619]: 619. Cf. in the injunction svargakāmo jyotiṣṭomena yajeta. (Apś. S. 10, 2, 1).[^269_620]: 620. pratistha, reference is to PVBr. 23, 2, 4 prati tisthanti ha vai ya etä rätrīr upayanti/brahmavarcasvino 'nnada bhavanti ya eta rätrir upayanti, quoted by Sabara, bhāṣya ad Purvamimämsä Sūtras 4, 3, 17, which reads ha va, etc., and omits rātrīr,
+
+So the text "He that knows Brahman attains the Most-High"[^270_622] would teach the attainment of Brahman, viz. as the reward that specifies the quali- fied subject to the thing to do in worshipping Brahman, and would be equi- valent to: "He who aspires to attain the Most-High should know Brahman:" the proper form and the properties of Brahman, which in this text are under- stood to be the end to be attained, would be established because they sub- serve the purpose of the thing to do; this would include all His properties— of being creator, destroyer, substratum, immanent soul etc., of the world—, so nothing would be disproved anyway.
+
+[^270_621]: 621. TaittS. 2, 6, 10, 2.[^270_622]: 622. TaittUp. 2, 1, 1.
+
+§118. Such being the case, all the objects included in mantras and arthavādas that are not incompatible and are unprecedented[^270_623] are establish- ed because they subserve, or are accessory to, the vidhis or injunctions. So it is declared in Dramida's commentary, from "on the strength of the śruti *ṛṇam hi vai jāyate*” onwards: "the text has the function of praising the cutting; however, no praise is possible if the object be non-existent: "[^270_624] in other words: the entire division of exegetical texts or arthavada, which in a thousand ways describes the previously unknown qualities of yaga etc., as propitiations of deities, gives in a thousand ways rise to the knowledge[^270_625] that the object of the act is praiseworthy, whereas no such knowledge would arise if these arthavādas did not exist. Hence follows that they inform us of the real existence of qualities, so as to give rise to the knowledge that the object of the act is praiseworthy. Hence follows again that in this very manner all the objects, known through mantras and arthavādas, are proved to exist.
+
+[^270_623]: 623. apurva-.[^270_624]: 624. cf. Appendix § 2, Fr. III.[^270_625]: 625. It would seem that the point which R. makes here would not be disputed by Prabhakara, as far as Jha's evidence goes: at the most he would dispute the deno- tativeness or expressiveness of those arthavadas which cannot be connected with a vidhi or injunction.
+
+§119. Further, those who maintain that the texts bear only on things to do should tell us how they define a 'thing to do".
+-It is that which comes into existence on the existence of an opera- tion and is the aim of that operation,[^270_626][[P271]]
+Then the question arises: what is this 'aim of operation"?
+-The aim or objective of operation is that in view of which, or to which end, the operation takes place.[^271_627]
+Then define what is the 'object envisioned by operation', taking operation as a human activity.[^271_628]
+-The aim or objective of an operation is that desirous of which man enters upon an operation.[^271_629]
+-Well, then the aim, or the thing aimed at by the operation, is iden- tical with the thing desired by man.[^271_630]
+
+[^270_626]: 626. karyatva: kṛtibhavabhävitä kṛtyuddeśyata ca; kerti "operation" but not yet materialized, still conative: "volition" is another approximate rendering; cf. JHA, p. 336 "the karya by its very nature is something brought about by kerti, or operation; and this operation is none other than the exertion [prayatna] of the agent." So it is rightly said that karya comes into existence on the preceding existence of an operation. It is moreover that at which the operation aims: uddeśya. Lacombe, note 974, remarks "pour Ramanuja, cette notion est identique à la précédente [ie, karya, v.B.]; on peut la désigner comme la "fin de l'action" par opposition à la "fin de l'agent", la fin de l'action n'étant que" un moyen de la fin de l'agent;" but the Prabhakara view is the exact oppo- site of this: in fact the goal of the agent is itself subordinated to the goal of the action: see below.[^271_627]: 627. yad adhikṛtya krtir vartate; in SBh., 1. c., the same is expressed more con- cisely: kṛtyuddesyatvam kṛtikarmatuam "the kṛtyuddeśa is the object of the operation".[^271_628]: 628. adhikara-.
+
+[^271_629]: 629. ŚBh. 1.c. kṛtikarmatvam (= kṛtyuddesyatvam) ca kṛtyä präptum istatamatvam "the object of the operation is that which is most desired to be obtained by the opera- tion".[^271_630]: 630. iştatvam krtyuddeśyatvam; thus the definition is reached that a karya is the object of desire.
+
+Or if you think that a desired object has two aspects: that of being present as the object of desire, and that of actuating a person, and say[^271_631] that the latter aspect, that of actuating a person, alone constitutes the aim of operation is wasted effort due to bias in favour of your own view. For actually the very fact that the object, which is thus understood to be the object of desire, cannot be realized unless an effort is made, actuates a per- son, for all activity starts thence. When a person understands, after the desire has arisen, that he cannot realize his desire unless he makes an effort, the desire to be active arises and in consequence thereof he is active. This is the view that the experts take. It follows that in reality one's action has[[P272]]
+no other aim or objective than gaining for oneself, as a result of one's own efforts, the object of one's desire; how can you fail to see this?[^271_631]: 631. As the Prabhakara does: the reward-e.g., heaven-is only of secondary importance in itself, as a reward: its main function is to specify the adhikarin as one who is svargakāma "desirous of heaven" and on whom the karya is incumbent. Con- sistently reasoned from this premisse it follows that the karya is ultimately its own end, or, in more moral terms (the appropriateness of which may, however, be questioned) "duty for duty's sake": I refer to HIRIYANNA's intereseing paper The doctrine of niyoga J. Or. Res., Madras Vol. XV, Part II (1946).
+
+Or you may say: the reason why an object is desired is that it is agree- able to a person. The objective of an operation is that which is agreeable to a person. I reply: No; pleasure is synonymous with that which is agree- able to a person, and suffering with what is disagreeable; so nothing that is not pleasure can be agreeable. But do we not see that cessation of suffer- ing, although it is not positive pleasure, is yet agreeable to a person?
+
+-No! For pleasure and suffering are to be discriminated as follows: pleasure is that which is agreeable to oneself-suffering is that which is disagreeable to oneself. The former of the two, pleasure or what is agreeable, is desirable, and the latter, pleasure or what is disagreeable, is undesirable. So, since we cannot bear suffering, its cessation becomes also desirable: con- sequently, because it is similarly desirable we mistake it for similarly agreeable.
+
+So a person who is naturally conjoined with prakrti, and hence im- plicated in samsara, may be in three conditions: he may be in contact with something agreeable; or with something disagreeable; or he may rest in his proper form. The last condition, that of resting in his proper form, implies cessation of contact alike with something disagreeable and with something agreeable. Therefore when a person is suffering something disagreeable it is likewise desirable for him to rest in his proper form, and, because that is like pleasure in that it is also desirable, he mistakes it for being also agreeable.
+
+§ 120. Therefore, competent criteriologists laugh at one who main- tains that the niyoga,[^272_632] or mandate, is in itself agreeable, for agreeableness has only the form of pleasure. We understand that a mandate derives its mandatory, permanent and unprecedented character only from its function of leading up to a certain objective that is desired.
+
+[^272_632]: 632. The usual term of the Prabhakaras for karya.
+
+In the mandate: svargakāmo yajeta the radical action[^272_633] becomes dif- ferent from the optative mood as the thing to do, since this is positively intended as the means of realizing heaven inasmuch as the word svargakāma is mentioned in direct connection with it.[^272_633]: 633. kriya, "the verbal action as such": the kriya of YAJ- is yajana- "the act of worshipping (by sacrifices)", whereas the karya of the verb is formed by suffixes, esp. the linadi suffixes of the optative/potential mood, etc.
+
+Don't say that in yajeta the niyoga is primarily understood to be its own principal factor and that from the connected mention of svargakāma follows that the niyoga is agreeable to the realization of heaven in order to[[P273]]
+ensure its own realization.[^273_634] In yajeta it is rather understood that the radi- cal meaning can only be realized through the exertion of a person. The con- nected mention of svargakāma compels us to assume that something else than the radical meaning is mandatory, permanent and unprecedented, etc.: and this puts a definite restriction to what we are to take as the means of realizing heaven. The optative etc. forms denote as the thing to do only a means of realizing heaven which can be construed with the person denoted by the collocated word svargakāma. This explication, which is the most natural one, is also violated.
+
+[^273_634]: 634. The svarga has the principal function of qualifying the niyojya or the person prompted by the mandate; the object to be realized (sadhya) by the niyoga is not pri- marily the svarga but the niyoga itself. Cf. Prakaranapañcikā, p. 190 nanu niyogasya kāmyamānaphalasadhanatvābhyupagamat phalasyaiva prādhānyät tasyaiva väkyärthatvam ity ata aha-atmasiddhyanukülasya niyojyasya prasiddhaye/kurvat (text kurvan) svarga- dikam apt pradhanam karyam eva naḥ// etc. "To meet the objection that, since it is understood that the mandate is the means of realizing the desired result, therefore the result itself is the principal and consequently the sentence bears on that, he (Prabha- kara?) says: (The mention of svargakāma, etc., serves only) to make known the prompted person who is agreeable (to performing the niyoga) because it serves his personal ends; for us the principal is the karya itself which also brings about such results as svarga, etc.'."
+
+In other words: immediately when we hear a text consisting in words that are intimately interconnected, we understand that the meaning of one word is to be consistently connected with the thing denoted by the other directly connected word. Therefore since the realizing means is to be so construed that it bears upon the sense of the whole text-it is as contra- dictory and hence untenable for this means to have no further significant bearing as it is for the radical action itself.
+
+Therefore, in sentences like: "There is a cottage on the Ganges," we take it that the word Ganges denotes as its meaning "a certain entity that can be dwelt on." Primarily, of course, the word Ganges denotes the whole entity "Ganges": but the quality of being drinkable a quality proper to the entity denoted by the word Ganges as a whole is not directly in keep- ing with the sense of the sentence as a whole. So here too: when we hear only the word yajeta, we remember it simply as a thing to do, without further significant bearing: but when we have to bring it in keeping with the sense of the text as a whole, this simple self-contained significance remains no longer.
+
+But at the moment we hear a word that denotes a thing to do, we understand it primarily as a thing to do, with no other significance.[[P274]]
+-That does not rhyme either: for in the case of a mandate like "Fetch the cow" we understand that the action of fetching the cow- involving suffering itself is a thing to do only in so far as it serves as a means of realizing a certain desired result. Hence it is contrary to all human experience that the niyoga or mandate itself would be agreeable to man, and one who maintains that the mandate is agreeable to man is belied by his own experience.
+
+In the case of mandates like: "One desirous of rain should sacrifice with the kariri,"[^274_635] one will not, when the mandate has been realized, experience the mandate itself as agreeable, because the operative cause of realizing rain is different from rain itself. Even though the rain is not invariably realized in one's present life, yet, in the very absence of such an invariable rule, one has necessarily to assume that the mandate itself has been realized, and in that mandate no one experiences any pleasure synony- mous with agreeableness. In the manner here described there is no other objective of operation than the desired object that is to be realized by the operation ??
+
+
+
+§ 121. But[^274_636] the objective of operation is the principal to which the operation itself is accessory.
+
+Then tell us what makes this principal and what the accessory ? The accessory is that which is correlated with the thing to do, and being the principal means being correlated with that accessory.
+
+Then you say no more than that the principal is the same as the thing to do; but what we are concerned with is, what makes a thing to do?
+
+-An accessory is that which admits of being invariably con- comitant with an operation taking place in view of the other term.
+
+Then how do you define the relation "in view of the other term"?
+For that is what we are concerned with.[[P275]]
+
+-The object envisioned is that which is to be realized by the thing intended..
+
+-What is the "thing intended" ?
+
+The purpose of the operation.
+
+But I have already replied that the final purpose of the operation is the same as the purpose for which he started operating: and its content is his desire, to gain which he has to resort to operating. Actually the relation between principal and accessory is in any situation as follows: the accessory is in essence that which admits of application to, or which has its use for, another term inasmuch as it serves to support the transcending importance intrinsic to that other term that constitutes the principal. To illustrate : the yaga has its use, and so have the exertions required therefor, inasmuch as they serve to bring about the desired result; and everything else has its use, if, and in so far as, it serves to realize the yaga.
+
+[^274_636]: 636. This paragraph corresponds to SBh, 1, 1, 1, p. 129; on sesah in the ritualistic sense of KMS. 3, 1, 2 [[kesah|śeṣaḥ]] pararthatvat "one constituent is accessory when it is sub- servient to another".
+
+§ 122. Similarly, it is the essence of born slaves that they have their use in so far as they support the transcending importance of particular persons.[^275_637] In the same manner, all entities-comprising spiritual and non- spiritual beings, eternal and non-eternal-have essentially only their use inasmuch as they support the transcendence of the Lord. Thus everyone and everything is accessory to the Lord and the Lord is principal to all: as has been declared in śrutis like "the Master of all, the Lord of all, the Patron of the universe, etc." Your sense, to wit that the thing to do is the principal factor that is to be realized through operation, can only appeal to the credulous.
+
+[^275_637]: 637. Ramanuja borrows here no doubt from Prakaranapañcika, p. 190 yathātmana eva samvidadhānaḥ svāmi garbhadāsasyopakaroti tathā miyogo 'pi niyojyasyeti na prä- dhanyapadapracyutih "just as a master benefits a born slave by making use of him for his own purposes, so the niyoga benefits the niyojya: but this does not mean that the niyoga looses its status of principal term". Noteworthy is the turn which Ramanuja gives to this metaphor by lifting the relation master-slave to a cosmic plane where it represents the relation God-universe. The same metaphor is utilized in SBh. loc. cit. but in an altogether different sense and wording: pradhanas tu bhṛtyapose 'pi svoddešena pravartata iti cen na, bhṛtyo 'pi pradhanapose svoddesenaiva pravartate "don't say that the principal serves his own purposes even by maintaining his servant, for the servant too serves his own purposes in maintaining the principal".
+
+§ 123. Moreover,[^275_638] in the mandate svargakāmo yajeta, and similar mandates, the word svargakāma designates the particular agent that is[[P276]]
+denoted by the termination of the verb. Now, how do we arrive at the view that this word against the rules of grammar designates the particular niyojya, or the person prompted by the mandate?[^275_638]: 638. Ramanuja questions here the propriety of introducing the notion of niyojya; acc. to the Prabhakara the niyojya is the one who knows that the karya is his to do, and is distinguishable from the agent: the latter is agent of acting, the other of knowing; the personal ending of the verb indicates the niyojya in a general way, the word svargakāma specifies him. R. argues that this procedure is ungrammatical: the personal ending refers to the karty who is specified as evargakāma.
+
+-It is impossible that a person qualified by svarga as the objective to be realized is construed as the agent of an action that is not a means of realizing svarga.[^276_639]
+
+[^276_639]: 639. The Prabhakara argues that one cannot at the same time be related to the sadhya-i.e., the svarga-and to the sadhana-i.e., the action of sacrificing-. The verbal form yajeta, constituting the karya, does as such not at all require a peculiarly specified agent svargakāma: the agent is already expressed by the personal ending; in the niyojya both the agent and the svargakāma are united.
+
+-But neither can he be construed as the niyojya, or the person prompted by the mandate, if that mandate is not the means of realiz- ing svarga: which decides that it is a means of realizing svarga.[^276_640] But at this decision, that it is a means of realizing svarga, we can only arrive when the injunctive text has established with what kind of agent the action is to be construed. To illustrate: when it is said that "he who wants a meal must go to Devadatta's house," it follows, from the simple fact that one hears that he who wants a meal is the agent of the action of going to Devadatta's house, that now one also knows something one did not know before: namely that the action of going to Devadatta's house is the means of obtaining a meal. The same is the case here.[^276_641] Would it be proper to imagine that one who is said to be the agent of one action is[[P277]]
+the agent of another action? That is what you do: for you imagine that the one who is-in yajeta-said to be the agent of yaga, or sacrifice, is the agent of buddhi, or knowing. In fact, just the imagined assumption that he is the agent of knowing makes him the niyojya, or the person prompted by the mandate: for you say: "the niyojya is he who knows that the thing to do is his to do."
+
+[^276_640]: 640. Rāmānuja replies that the niyojya, that is the prospective agent who desirous of svarga knows the karya to be his, cannot be construed with the personal ending either, unless and that is the point-the karya is primarily the means of realizing svarga and not itself. This reverts the order of the Prabhakara: the mere injunction is indifferent unless its purpose is given; that purpose is given in svargakama; consequently karya primarily subserves svarga. Otherwise neither the niyojya nor the agent svarga- kama can be construed with vajeta. So the connexion of the karty or agent is primarily given in the injunction itself.
+
+[^276_641]: 641. Agency in one act does not imply agency in another act; acc. to the Pra- bhakara, the niyojya is in the first place the agent of knowing that the kärya is his task and in the second place and consequently the karty. But this "agency of know- ing" is merely presumed, not given in the injunction, so that the notion of niyojya has no title to take precedence over that of kartr; so the värttika quoted Prakarana- pañcikā, p. 182: tathapi svasambandhikāryaboddhṛtvenaivänvayo varnaniya iti niyojya- samarpakatvam eväsriyata ity evam api kim ity dha-niyojyah... budhyate (text: bud- dhyate): "yet the construction (of the svargakama with the karya) is to be described as his being the knower of the karya as related to himself: so (the word svargakāma) is taken as conveying the niyojya. He explains how this is in the stanza: "the niyojya, etc," "
+
+-But he must first know before he can sacrifice.
+
+-That means that if Devadatta, who is said to be the agent of cooking in "Devadatta must cook," first goes somewhere in order to cook, he must first go somewhere else before he is able to cook. Is it proper to imagine that he is the agent of going ?[^277_642][^277_642]: 642. The Prabhakara's contention that the agency of knowing 'corresponds' to, or 'suits the agency of sacrificing is not helpful: if Devadatta has to go somewhere in order to be able to perform the duty of cooking enjoined on him in devadattaḥ pacet, we may say that his going to cook 'suits' his actual cooking, but this agency of going is nowhere given in the simple injunction that he is to cook: that is our presumption.
+
+§ 124. Further, why do you assume that the apurva, as denoted by the optative etc. verbal forms, is something permanent ?[^277_643]
+
+[^277_643]: 643. apurva- is in the first place the codana, vidhi, itself: KMS. 2, 1, 5 codana punar arambhah, and Sabarabhasya ad loc, codanety apurvam brumah, etc. Sabara defines ad 1, 1, 2 kriyāyāḥ pravartakam vacanam. According to the Prabhakara the codana is "unprecedented" because it is known from no other source than itself: kriyādibhinnam yat karyam vedyam manāntarair na tat/ ato manāntarāpūrvam apurvam ity giyate. (Prakaraṇapañcikā, p. 187). In the second place it is the codana's own suprasensible effectiveness that persists as something permanent (sthayy eva kimcit) after the karya has been completed until its result will materialize.
+
+-Because otherwise the collocation of the word svargakāma would not be accounted for.
+
+-In what sense would it not be accounted for?
+
+-Svargakāma is someone who desires to realize svarga. If the ac- tion of yäga etc. would be ephemeral, then it would not enable the svarga- kama to achieve the realization of heaven since that will take place at another time.
+
+-Then it is only not accounted for the people who have not a ghost of an idea of the final conclusions of the Vedanta. Those who do know their Veda hold that the sovereign Lord, the venerable Nārāyaṇa, grants any desired result when He is propitiated with any ritual act. For instance, Dramiḍācārya, the foremost of the authorities on the Veda, declares:[^277_644][[P278]]
+phalasambibhatsaya hi karmabhir ātmānam pipriṣantiti sa prito 'lam phala- yeti sastramaryādā. That is to say: since they want to obtain the results they desire, they want to propitiate, with acts like sacrifice, charity etc., the Supreme Spirit, the venerable Lord Vasudeva, through the intermediary of deities like Indra etc. whose inner Ruler He is and by whose names He may consequently be denoted: for when He has been propitiated with those acts, He grants the results they desire. Similarly the śruti: iṣṭāpurtam bahudha jätam jāyamānam viśvam bibharti bhuvanasya nabhiḥ[^278_645]—iṣṭā- pürtam[^278_646] means "the ritual act enjoined by all śrutis and smrtis:" so viśvam bibharti "the Supreme Person 'bears' for Himself, i.e. accepts for Himself all these ritual acts which are understood to be associated with deities like Indra, Agni, Varuna etc., whose immanent soul He is;" for He is bhuvanasya nabhiḥ, i.e. the supporter of the world comprising the classes of brahmins, kṣatriyas etc.: He is called nābhiḥ, or navel, since He by granting the diverse results of the various acts, is as such the bearer of the Universe.- The same śruti declares that He is denoted by the names of the deities Agni, Vayu and the like, because He is their immanent soul: "that is Agni, that is Vayu, the sun and the moon"[^278_647]-The Venerable Lord puts it thus: "If any votary wishes to worship with faith any body, then I make that faith of him unshakable. Inspired by that faith he aspires to worship it, and in result he will obtain his desires, which I shall grant him.[^278_648] "Any body" here means that the particular deities etc. constitute the bodies of the Venerable Lord who exists as their inner Ruler.-Again: "For I am the one who enjoy all sacrifices, and I am the patron,"[^278_649] where patron[^278_650] means; "the bestower of all results."-So also: "Thou, comprising all gods, art the One who always receivest the sacrifices, O Acyuta "[^278_651] "Those men who, intent on their proper tasks, propitiate Thee, O Lord, will surpass that illusion entirely to their souls' release,[^278_652]
+
+In Vedas, epics and purāņas it is set forth at length that all acts are propitiations of the sovereign Lord and that the Supreme Person, when duly propitiated with all these acts, grants their diverse results that are desired. In this very manner, therefore, all śrutis set forth that the omnipotent,[[P279]]
+omniscient and sovereign Venerable Lord is the One who enjoys-as the inner Ruler of the deities Indra etc.—all the acts mentioned in the Veda, yāga, dāna, homa[^279_653] etc., and that He is the One who grants all the results: for instance, the śruti caturhotāro yatra sampadam gacchanti devaiḥ,[^279_654] i.e. "in whom-sc. in the Supreme Spirit as the inner Ruler within the gods- the caturhotrs-sc. the sacrifices come to coincide with the gods-sc. come to be associated with the gods." In other words: the gods, Indra etc., by existing as the bodies of the Supreme Spirit who is their inner Ruler, are associated with yäga etc. Or as the Venerable Lord has put it: "the enjoyer of sacrifice and austerities, the sovereign lord of all worlds.[^279_655][^277_644]: 644. For a literal translation see Appendix.
+
+[^278_645]: 645. MahänärUp. 1, 6 TaittÄr. 6, 1, 6.
+
+[^278_646]: 646. R. distinguishes between ista- as śrauta and purta- as smarta acts.
+
+[^278_647]: 647. MahānārUp. 1, 7 TaittÄr. 6, 1, 7: tad evagnis tad vayus tat suryas tad u candramaḥ / tad eva sukram amṛtam tad brahma tad apaḥ sa prajapatiḥ,
+
+[^278_648]: 648. BHG. 7, 21-22.
+
+[^278_649]: 649. BhG. 9, 24.
+
+[^278_650]: 650. prabhu- "one who has power".
+
+[^278_651]: 651. VP. 5, 20, 97; Gita Press ed. has the expletive 'cintya for the preferable nityam.
+
+[^278_652]: 652. VP. 5, 30, 16.
+
+[^279_653]: 653. väga- general term for sacrifice, homa particular sacrifice by pouring the substance out in fire, cf. KMS. 4, 2, 27-28.
+
+[^279_654]: 654. TaittAr. 3, 11, 2; caturhotr, name of a recital during the new and full moon rites, denotes by extension the rites themselves.
+
+[^279_655]: 655. BhG. 5, 29.
+
+To conclude, the ritual acts have the form of propitiations of the Supreme Spirit who is the inner Ruler of the deities Agni and the like. He alone grants the results that are coveted. So what is the point of assuming or imagining that an apurva is denoted, which strays far from the path of etymological explication?[^279_656]
+
+[^279_656]: 656. That the apurva or codana, i.e., the verbal affixes of the potential, etc., moods (linadi), should persist as their own eventual effectiveness is an assumption that is at best metagrammatical.
+
+-But, granting this, what sense then have we to assume for the opta- tive etc. verbal forms?
+
+-YAJ has the sense of "worship of the gods"; hence yaga- and other derivatives are propitiations of the deities. The optative etc. verbal suffixes denote that this yāga in its radical meaning[^279_657] is as appears from etymologi- cal explication-the object to be realized by the activity of an agent. In this way everything is sound. The terminations which denote agents connote that the radical sense of the word is modified by the connection with the activity of an agent; other affixes denote the present, past and other tenses; whereas the optative affixes indicate that the verbal action is the object to be realized by the activity of an agent.
+
+[^279_657]: 657. prakṛtyartha-.
+
+§ 125. Moreover, the very texts that enjoin the various acts first enjoin that a definite act be performed by an agent who is desirous of its effect, and then they say that that act has the form of propitiation of a deity and that through the intermediary of that deity the effect of that act will be realized: e.g. a text like "One desirous of prosperity must sacrifice a white[[P280]]
+he-goat that is destined for Vayu: for Vāyu is the nimblest of the deities. On account of its destination, it runs up to Vayu himself. He leads him to prosperity: "[^280_658] here we find nothing that could disprove the realization of the result. Consequently it is unreasonable to say that the knowledge that the acts are means of realizing their results is merely based upon assump- tion.[^280_659]
+
+[^280_658]: 658. TaittS. 2, 1, 1 väyavyam svetam alabheta bhūtikāmaḥ/vāyur vai kṣepiṣṭhā devata/väyum eva svena bhagadheyenopa dhävati/ sa evainam bhutim gamayati, quoted also ApérS. 19, 16, 3.
+
+[^280_659]: 659. aupädäniki, S. explains upādānapramāṇasidhā vidhyākṣepasiddhetyarthah "proved by the means of assumption, i.e., by implied suggestion of the injunction".
+
+I mean this: the subsiduary text that supplements the injunction[^280_660] tells us what modification of the yaga as a means of realizing the result is required by the injunction. For instance the injunction: "Therefore one must not revile a Brahmin "[^280_661] In the subsidiary text supplementing this injunction which prohibits reviling we are told that the prohibited act of reviling is a means of realizing a fine of one hundred gold pieces, and we accept this as part of the prohibitive injunction because it subserves the purpose of it. So in the injunction under discussion again we learn from the subsiduary text that the yaga, as it is enjoined to be performed by one who has a definite desire, is thereby modified as a means of realizing the svarga that is desired. Why disregard this and then smuggle in again this yaga as a means of realizing a result by merely assuming that it is? "Hiding his gold treasure in his house, he goes begging with poor people for a poor man's meal,[^280_662] is a maxim that fits you admirably! Nor is it an invisible factor[^280_663] that makes the reviling a means of being fined one hundred gold pieces. When a person performs the recommended acts, fails to perform the enjoined acts and performs the censured acts, all his pleasures and sufferings are due to the favour and disfavour of the Supreme Person.[^280_660]: 660. vakyasesa-[^280_661]: [[681|661]]. TaittS. 2, 6, 10, 2.
+
+[^280_662]: 662. A proverb (nyaya) according to S. built on hiranyanidhim nihitam akşetrajñā uparyupari samcaranto na vindeyuh (ChUp. 8, 3, 2) which makes the citation in this connexion subtly insulting.
+
+[^280_663]: 663. adṛṣṭa- "includes the transcendental effect produced upon some material thing by a ritual treatment of it which produces no visible effect upon it." It includes the apurva but this "exists of itself, and is not a function of any material or other object" (EDGERTON, MNPr. p. 279, s.v. apurva-).
+
+There are all sorts of śrutis which declare this: "For He alone brings bliss[^280_664] then he finds peace. no peace befalls him.[^280_665] In fear of Him ....[[P281]]
+the wind blows, the sun rises and run Agni and Indra and finally Death.[^281_666] In obedience to the commandment of Him the imperishable One, O Gärgi, sun and moon stand apart[^281_667] .... in obedience to His commandment, O Gārgi, men praise the liberal, the gods the sacrificer, and the pitrs are entitled to the darvi."[^281_668] As declared in the Dramiḍabhāṣya: "In obedience to His command the wind blows, the rivers flow; by Him the oceans have been confined and they spring like rams as if they were rutting," and "for being dependent on His will the world neither falls nor bursts asunder. When the Venerable Lord knows that someone follows His commandments, then He makes him prosper in His mercy, for He knows and is capable of acting."[^281_669]
+
+[^280_664]: 664. TaittUp. 2, 7 esa hy evanandayāti.
+
+[^280_665]: 665. TaittUp. 2, 7 (... yada hy evaisa ekasminn adréye bhayam pratistham vin- date) atha so 'bhayam gato bhavati,
+
+[^281_666]: 666 TaittUp. 2, 8 bhiṣāsmād vātaḥ pavate / bhisodeti süryaḥ / bhiṣāsmād agnis cen- dras ca/mrtyur dhavati pañcamaḥ.[^281_667]: 667. BAUp. 3, 8, 9.
+
+[^281_668]: 668. BAUp. 3, 8, 9 ad finem,
+
+[^281_669]: [[660|669]]. Cf. Appendix,
+
+§ 126. When a person performs the enjoined acts such as the worship- ping of the Supreme Person-which presupposes true knowledge of Him- then, by His favour, he finds happiness culminating in the attainment of Him, and security,[^281_670] according to his qualification. But when he does not perform the enjoined acts of worshipping Him etc., preceded by true knowledge of Him, and performs censured acts, then he will find immense suffering, which presupposes failure to attain Him, and insecurity. As the Venerable Lord has said: "Perform acts constantly: for acts are better than knowledge": herewith He enjoins that acts must be performed after knowledge has been acquired.[^281_671] Then in "having dedicated all acts to Me"[^281_672] He sets forth that the acts are propitiations of Himself and that the souls are under His con- trol. Then He continues: "The men who always follow what I have taught here, faithfully and without muttering, will find release through acts. But those who mutter against it and refuse to follow my teaching, are ignorant of any knowledge, lost and devoid of understanding: be sure of that,[^281_672a] so as to praise those who obey His commandment and to condemn those who do not. Then He repeats that they who do not keep to His command have a[[P282]]
+demoniac disposition, and finally He declares their ultimate downfall in: "I hurl these hostile, cruel, despicable and criminal men incessantly into demoniac forms of existence in their samsaras. Reduced to demons, con- fused, and in life after life failing to attain Me, they will gradually go down to the nethermost limit."[^282_673] While He describes the eternal place that the followers of His command will reach in: "He that always performs acts while resorting to Me will attain by My favour for ever the eternal place."[^282_674] In order to prevent that all those people who have not studied the Vedanta should lack faith in acts, emphatical declarations are made in the devatadhika- rana.[^282_675] However, the final conclusion of those who know the Veda is that all sastras constitute one sastra only.
+
+[^281_670]: 670. abhava
+
+[^281_671]: 671. BhG. 3, 8; R.'s interpretation in GBh. ad loc. differs: atah karmayoge 'py atmano 'kartṛtvabhāvanayātmayāthātmyānusamdhanam antarbhūtam (after which two more arguments for karmayoga's superiority to jñanayoga are given): "consequently kar- mayoga itself contains an essential knowledge of the atman because it entails the realiza- tion that the atman itself is not the agent of karman" (cf. my Ramanuja, etc., p. 20-21); cp, also the GBh. explication: niyatam vyäptam, prakṛtisamsrstena hi vyaptam (karma), on which ef, my Rämänuja, etc., ad loc,
+
+[^281_672]: 672. BhG. 3, 30.
+
+[^281_672a]: 672a. BhG, 3, 31.[^282_673]: 673. BhG. 16, 19-20[^282_674]: 674. BhG. 18, 56.[^282_675]: 675. KMS. 9, 1, 9.
+
+§ 127. There are thousands of śrutis that declare that this Supreme Brahman Nārāyaṇa has a proper form of undefinable knowledge and beati- tude in the purest form; He has immeasurable, innumerable, all-surpassing beautiful qualities, such as knowledge, power, strength, sovereignty, fortitude, glory etc.; the sum-total of spiritual and non-spiritual entities different from Himself are actuated by an act of His will; He possesses one invariable divine form that is in accordance with His pleasure and in harmony with Himself; He has an infinite variety of unsurpassed beautiful ornaments that suit His form, and immeasurable, endless and marvelous weapons of all kinds that are equal to His power;[^282_676] He has a Consort[^282_677] who suits His pleasure and who is in harmony with Him, possessing an immeasurable eminence of proper form, qualities, supernal power, ascendancy and character; He has an infinite entourage of attendants and necessaries,[^282_678] suitable to Him, the knowledge, actions etc. of whom are perfect and whose qualities are limit- less; He has an infinite glorious manifestation, such as is fitting to Him, comprising all objects and all means of experience; He has a divine residence, the proper form and nature of which are beyond the ken of thought and the power of expression: all this and so forth is everlasting and irreproachable.
+
+[^282_676]: 676. Cf. the astrabhuṣaṇādhyaya, VP. 1, 22.
+
+[^282_677]: 677. Śrī-, hence the typically śrī-Vaisnava appellation Sriyah patiḥ with which opens the GBh. intr. which is an elaboration of this Ved. paragraph,
+
+[^282_678]: 678. The attendants are such superior beings as Ananta-Seşa, Garuda, Viśvaksena, etc., etc. (YID. 9, p. 134); under paricchada- S. mentions kaläcikäprabhṛtayah "Ladle, etc! (?)"; the attendants are according to GBh. intr. sūris, on which see below.
+
+This is declared in the śrutis: "I know that Great Person who has the colour of the sun, beyond matter;[^282_679] that golden Person within the[[P283]]
+sun[^283_680]....His eyes are like a many-coloured lotus;[^283_681] that is the space within the heart: therein is this Person, manomaya-, immortal, golden:[^283_682] manomaya- means “to be grasped by the pure mind only";[^283_683]. "all the flashes of lightning spring forth from over this Person: "[^283_684] sc. "from over this sun-coloured Person;” nīlatoyadamadhyasthā vidyullekheva bhāsvarā,[^283_685] sc. "like a flash of lightning that has a dark cloud within: "[^283_686] that bundle of flames that burn within the space in the heart of the Little Lotus and whose proper form is the Supreme Spirit appearing as the dark spot within those flames, blazes forth like a flash of lightning that has a dark cloud within itself; "open to the mind, embodied in the vital airs, radiant, having all desires materialized and every will realized, soul of the space, who has all acts,[^283_687] all desires, all scents, all juices, encompassing all this, voiceless, unconcerned,[^283_688] His saffron-coloured garment,[^283_689] etc., etc.
+
+The same meaning is conveyed by hundreds of śrutis, such as: "Visnu's Consort, Mistress of the world;[^283_690] Hri and Laksmi are Thy spouses,[^283_691] the suris regard always that supreme place of Visnu,[^283_692] lying beyond matter;[[593|693]] that is one, unevolved, infinite, complete, primordial, beyond matter;[^283_694] he that knows the treasure contained in the innermost Supreme Heaven;[^283_695] who watches in the Supreme Heaven;[^283_696] that is what is and what shall be, thut is in the imperishable Supreme Heaven."[^283_697]
+
+[^282_679]: 679. SvetUp. 3, 7 vedäham etam puruşam, etc.
+
+[^283_680]: 680. ChUp. 1, 6, 6 ya eso 'ntar äditye, etc.[^283_681]: 681. ChUp. 1, 6, 7 tasya yatha kapyasam, etc., on the interpretation of which cf. infra §§ 134 ff.
+
+[^283_682]: 682. TaittUp. 1, 6, 1 sa ya eso 'ntar hrdaya, etc.[^283_683]: 683. Cf. MundUp. 3, 1, 8: na caksusa grhyate napi väcă manasa tu visuddhena.
+
+[^283_684]: 684. MahanarUp. 1, 6 TaittÄr. 6, 1, 6.[^283_685]: 685. MahänärUp. 3, 12 nilatoyadamadhyastha, etc.[^283_686]: 686. madhyasthanilatoyada; S. explains that the compound is a bahuvrihi with irregular position of the first member (purvanipäta) peculiar to chandas usage; R. inter- prets the obvious tatpurusa comp. in this way to harmonize this śruti with the others cited.
+
+[^283_687]: 687. S. explains sarvakarman- as "the One whose effect is the Universe".[^283_688]: 688. ChUp. 3, 14. 2 manomayaḥ pranasarirah; no doubt here manomaya is to be taken in the sense of "comprehensible by the mind".
+
+[^283_689]: 689. BAUp. 2, 3, 6 (tasya haitasya purusasya rupam) yatha mähärajanam väsaḥ,[^283_690]: 690. TaittS. 4, 4, 12, 5 tasyeśānā, etc.
+
+[^283_691]: 691. TaittÄr. 3, 13, 1 hris ca te, etc.[^283_692]: 692. SubalUp. 6 tad vişnoh paramam padam, etc.
+
+[^283_693]: 693. TaittS. 2, 2, 12, 5 kṣayantam, etc.
+
+[^283_694]: 694. MahānārUp. 1, 5 yad ekam avyaktam, etc.[^283_695]: 695. TaittUp. 2, 1 yo veda nihitam, etc.
+
+[^283_696]: 696. RV. 10, 129, 7 yo 'syadhykṣaḥ parame vyoman.[^283_697]: 697. RV. 10, 90, 2 tad eva bhutam u bhavyama, etc., cf. MahānārUp. 1, 2.[[P284]]
+
+§ 128. On the authority of the statement in the śruti tad Visnoh para- mam padam that the suris always regard the supreme residence of Visnu the Supreme Brahman, we know that there is a class of beings of perfect knowledge who have the gift of regarding at all times. The specification of the statement is either that those who are suris regard it, or that those who regard it are sūris.
+
+-But in neither case more than one guna can be enjoined.
+
+-That is not true here, because all gunas have not been established:[[699|698]] the supreme residence that is qualified by all gunas is enjoined; as witness the Sutra: "When the gunas are not laid down by another sentence, the Sacrifice as well as its Accessories are enjoined by the same statement; because of their being mixed up in the Injunctive word, but not when the act is set forth by another statement."[^284_699] Even as in the injunction of an act, e.g. yad agneyo 'ṣṭakapalo.... bhavati,[^284_700] an act is enjoined that is qualified by all gunas or accessories because neither act nor gunas have yet been established: similarly our śruti propounds the supreme residence of Visnu that has not yet been established as being always regarded by the sūris: so there is no contradiction. According to the Mimamsakas, the mantras which are kara- nas,[^284_701] which allude to something that is being acted,[^284_702] which have the form[[P285]]
+of stotra[^285_703] and sastra,[^285_704] which are applied to japa etc.,[^285_705] which are recited in context[^285_706] or not recited in context,[^285_707] all denote their proper sense, if not contradictory and not yet established, in the same way as the brahmanas.[^285_708] A stotra is a description of gunas found in the gunin which is to be realized by mantras that are sung; sastra is a description of gunas to be found in the gunin which is to be realized by mantras that are not sung. The declara- tion which the mantras that elucidate their meanings in application make about the particular gunas — neither yet established nor contradictory that are to be found in deities etc. are in agreement with that application.
+
+[^284_698]: 698. KMS. 1, 4, 9; the problem is as follows: in the above declaration, however read, two different statements are found: they see that supreme place, and: they are sūris, by which different gunas are 'enjoined'; now in the case where the karman "act" has already been established by another declaration, another subsiduary declaration may describe only one guna, since otherwise there is vakyabheda "syntactical discontinuity": prapte karmany anekavidhane vakyabhedapatteḥ (MNPr. § 33, which quotes Kumārila, TantrV. 2, 2, 6 ab. prapte karmani naneko vidhātum sakyate gunah "when the acts has been established elsewhere not more than one guna can be enjoined"). There is another case, which R. envisages, where more than one guna is allowed, viz. in a visistavidhi "injunction of an act as being further specified", (MNPr. § 12) for which the quoted. KMSūtra provides.[^284_699]: 699. KMS. 1, 4, 9.[^284_700]: 700. yad agneyo 'stakapalo ('māvāsyām paurṇamāsyām cäcyuto) bhavati (suvar- gasya lokasyābhijityai), adduced as an instance in case by Sabara ad 1, 4, 9, to whose commentary I may refer; the reference is TaittS. 2, 6, 33.[^284_701]: 701. karanamanträḥ, explained by S. homädisadhanataya vihitaḥ "enjoined as the means for homa. etc., rites".[^284_702]: 702. kriyamāṇānuvadinaḥ, expl. by S.: barhir devasadanam dāmi ityadayah; cf. MNPT. § 92 tad dhi barhiḥ samskāradvārāpūrvasambandhiti mantrasya samarthyāt tadar- thatve sati nanarthakyam prasajyate, etc., "inasmuch as the mantra, by virtue of its own denotative potency, is related to the apurva by means of the preparation of barhis and is thus significant, no insignificance can be imputed to it", etc.; the text is MaitrS. 1, 1, 2.[^285_703]: 703. S.: ganavisistamantroccarana- "recital of mantras by chanting".[^285_704]: 704. S.: ganarahitam ekaśrutirupoccarana- "recital (of mantras), without chanting as one śruti".
+
+[^285_705]: 705. S. ie., japa and adhyayana, the former being recital in a low voice, the latter in a loud voice,
+
+[^285_706]: 706. As e.g., the mantra barhir devasadanam dāmi is recited in the context of the darśapūrṇamāsa ritual; cf, MNPr. § 92; on prakarana- as a criterion (pramana) for decid- ing the function of subsiduaries (anga-/sesa-, among which mantra is included), cf. MNPr. §§ 116 ff. below.
+
+[^285_707]: 707. On mantras recited out of context, cf. MNPr. §§ 94 f., and §§ 248 ff.[^285_708]: 708. i.e., the vidhi-, brahmana- par excellence,
+
+— The above śruti[[703|709]] does not apply to persons who are released because it would not be proper to say of them that they always regard.[^285_710] Nor does it apply to the continuous flow of released souls as a whole, for that would stultify the śruti because it tells us in sadā pasyanti that it applies to each agent separately.[^285_711] We have said before that even if we assume that mantras and arthavādas have meanings only for a thing to do their meanings are established: so a fortiori when etymological explication proves that they have in fact bearing upon an established thing in their own right. In this manner everything is sound.[^285_712]
+
+But in the assertion tad Visnoḥ paramam padam the words paramam padam denote the proper form of the Supreme One, for we cannot detect a difference between this śruti and śrutis like: "the Supreme 'pada', free from all imperfection, that has the name of Visnu." [^285_713][^285_709]: 709. ie., tad visnoḥ paramam padam sada pasyanti sürayah.[^285_710]: 710. For before they were released they did not see.
+
+[^285_711]: 711. For cf. the sequel: tad viprāso vipanyavo jagṛvamsah samindhate, explained below.
+
+[^285_712]: 712. Cf. supra.
+
+[^285_713]: 713. VP. 1, 22, 53.
+
+-That is not true, for in śrutis like: "lying beyond matter;"[^285_714] "that is in the imperishable Supreme Heaven,"[^285_715] "who watches in the Supreme[[P286]]
+Heaven;"[^286_716] "who knows that which is laid down in the innermost Supreme Heaven,"[^286_717] only a Supreme place is indicated, and in "that Supreme pada of Visnu"[^286_718] it is designated that there is difference between one and the other. So by this very text we learn from the specification "the Supreme 'pada' that has the name of Visnu" that there is yet another supreme 'pada" different from this one, but it is declared that it is this 'pada' or 'place' that is always regarded by the sūris.
+
+[^285_714]: 714. TaittS. 2, 2, 12, 5,
+
+[^285_715]: 715. TaittUp. 2, 1,
+
+[^286_716]: 716. RV. 10, 129, 7.[^286_717]: 717. TaittUp. 2, 1.[^286_718]: 718. i.e., the Supreme Residence.
+
+§ 129. — In other words: in some texts the words paramam padam refer to a supreme place, in other texts they refer to the proper form of the soul as separated from prakṛrti; and in other texts again they refer to the pro- per form of the Venerable Lord Himself. The Supreme Place is referred to in "The sūris regard always the paramam padam of Visnu." The proper form of the soul separated from prakṛti is referred to in: "During creation, subsistence and resorption the prakṛti exists on in a triple form according to the activity of the three gunas; but its paramam padam is beyond gunas and great."[^286_719] Finally the proper form of the Venerable Lord is referred to in "The paramam padam, free from all imperfection, that has the name of Visnu.[^286_720] The words paramam padam can refer to all three because they constitute the highest attainable end.
+
+[^286_719]: 719. VP. 1, 22, 41.
+
+[^286_720]: 720. VP. 1, 22, 53.
+
+-But how can all three of them be the highest attainable end?
+
+-The proper form of the Venerable Lord is the supreme pada, because that is the highest attainable end in its own right. The other two are supreme 'padas' inasmuch as they are implied in the attainment of the Lord. The realization of the proper form of the soul released from all bonds of karman is implied in the attainment of the Lord: [^286_721] this on the authority of the instruction imparted by the śruti "those desires are real but they are concealed by the unreal,[^286_722] which, by using the word "unreal" declares that the hosts of perfections of the Lord are concealed by one's personal karman.
+
+- But how do you make out that this concealment in the form of the "unreal" is due to the karman of the embodied soul?
+
+§ 130. -[[P287]]
+On the authority of the assertion: "Ignorance, otherwise called karman, is regarded as another potency by which the ubiquitous potency of the embodied soul is enveloped, and it meets all the sufferings of samsara in endless succession because it is concealed by that ignorance,[^287_723] etc."[^286_721]: 721. Or, to put it differently: the essence of God cannot be attained, i.e., intui- tionally realized, unless the soul's essence has been recognized: dtmavalokana- is a pro- paedeusis to the attainment of God: cf. my Ramanuja, etc. Intr. IV.
+
+[^286_722]: 722. ChUp. 8, 3, 1 ta ime satyaḥ kämä anṛtäpidhänäḥ,
+
+[^287_723]: 723. VP. 6, 7, 61-62.
+
+§ 131. That the attainment of the Supreme Place, too, is implied in the attainment of the Venerable Lord is clear enough: in the śruti "lying beyond rajas"[^287_724] the word rajas denotes the prakṛti characterized by the three gunas: for rajas has no proper existence alone and isolated from the other gunas. The sense of the text is consequently: "Him who lies, i.e. dwells, in a definite place beyond this our prakṛti" characterized by the three gunas. So we know by this that the dwelling-place of Visnu must be beyond the matter that is governed by gunas and that constitutes the embodied soul's field of ex- perience. In the text "I know that great person who has the colour of the sun, beyond tamas,"[^287_725] the same prakṛti is denoted by the word tamas. Since tamas alone has no proper existence either, this text forms one coherent context with the text reading "lying beyond rajas"; so we gather this sense: "I know that great person, of the colour of the sun, who dwells beyond tamas."
+
+[^287_724]: 724. TaittS. 2, 2, 12, 5.[^287_725]: 725. SvetUp. 3, 7.
+
+"The śruti "who knows Brahman—who is real, knowledge and infinite- laid down in the innermost Supreme Heaven: that is in the imperishable Supreme Heaven"[^287_726] tells us that the word "Supreme Heaven" denote that Supreme Place as having an untransformed form. So since the clause "the imperishable Supreme Heaven" asserts that this place is imperishable, the words "Supreme Heaven" cannot denote celestial bodies like the sun etc. because those are perishable. Texts such as "where the ancient gods have found the fulfilment of their ends," "where the first-born rsis of olden times[[TM27|727]] etc." tell us that they are the sūris. Similarly the śruti tad viprāso vipanyavo jāgrvāmsaḥ samindhate Vişnor yat paramam padam: [[128|728]] viprāsaḥ, ie., "intelli- gent beings"-vipanyavaḥ "devoted to glorification"-jāgrvāmsaḥ "of unim- paired knowledge"-the meaning being that those intelligent beings of unim- paired knowledge and incessantly glorifying that Supreme Place of Visnu blaze forth.[[P288]]
+
+[^287_726]: 726. TaittUp. 2, 1.
+
+[^287_727]: 727. RV. 10, 90, 16 yatra purve sädhyah santi devah ? yatrarsayaḥ prathamajd ye purāṇāḥ.[^287_728]: 728. SubalUp. 6.
+
+§ 132. In the same way as the hosts of beautiful qualities-knowledge, strength, sovereignty etc.-in the text "this was sat in the beginning, my dear son," so these attendants, this place etc. are implied in the proper form of the Supreme Brahman.[^288_729] Therefore, since they, too, are comprised by the beautiful qualities; since in the śruti "this was sat in the beginning" the word this encompasses the phenomenal world of objects of experience conjoined with the order of experiencing beings that are subject to karman; and since the former attendants are however not included among the beings subject to karman because they "regard always" according to the śruti "the süris regard always": therefore the text from apahatapāpmā to apipāsaḥ[^288_730] negates first the imperfect nature proper to the prakṛti-constituted by the three gunas-that furnishes the means of His own sport, and the imperfect nature proper to the ordinary prakṛti-conjoined purusa; and then, with satyakāmaḥ, it asserts the reality of the sum-total of His own objects and means of ex- perience. Satyakāma- means "He whose kamas, i.e. the objects of desire, are real." Therefore the meaning is: the objects and means of His experience that the Supreme Brahman desires for Himself are real or eternal. The word satya- signifies that, whereas an entity that is the means of another's sport, is liable to transformation and therefore, albeit real in so far as capable of connexion with pramānas, yet unreal in so far as impermanent, the suris etc. on the contrary are permanent. Satyasamkalpa- asserts, that although these objects and means of experience etc. be eternal, unsurpassed and end- less, an infinite number of new entities owe their realization to His will alone. So satyasamkalpa- declares that the differences in proper form, condi- tion and activity of these means of experience and means of His sport, spiritual and non-spiritual, permanent and non-permanent, are entirely dependent on His volition.[^288_729]: 729. ChUp. 6, 2, 1.[^288_730]: 730. ChUp. 8, 1, 5.
+
+§ 133. This same sense is stated in epics and puranas, which corro- borate the Vedas as witness this passage: "Seeing that both were intelligent and firmly established in the Vedas, the Lord made them apprehend, in order to corroborate the Vedas.[^288_731] For example it reads in the Holy Rāmāyaṇa, thus composed to support the Veda, as follows: "That great Yogin, the ancient Supreme Spirit, is in his evolved phase without beginning, middle and end, great beyond the great,[^288_732] beyond matter: He is the creator, who bears the Conch-shell, Disc and Club: on His chest is the śrivatsa curl; He has Sri for ever as His consort; He is invincible, eternal and immutable."[^288_733] "Various[[P289]]
+arrows and a long-drawn bow accompany the descendant of Kakutstha; all the individuals follow suit.[^289_734] With body and with entourage he enters the glory of Visnu." [^289_735][^288_731]: 731. Ram, 1, 4, 6 tau tu medhāvinau drstva, etc.; the two persons are Kusa and Lava.
+
+[^288_732]: 732. The great (mahat) here will have the sense of mahattattva,[^288_733]: 733, Ram, 6, 1, 4, 14-15,
+
+[^289_734]: 734. Răm. 7, 109, 7; Vulgate reads in c tathayudhani te.[^289_735]: 735. Ram. 7, 110, 13 ab; Vulgate reads in c sahānujaḥ.
+
+In the Holy Visnupurana: "That multiplicity of forms comprising all the forms in which all these potencies have their seats constitutes another vast form of Hari.[^289_736] Brahman is incorporate, Hari encompasses[^289_737] the entire Brahman. Sri, Visnu's faithful consort, the Mother of the world is eternal herself, and she is omnipresent even as Visnu Himself is.[^289_738] When He is god, she assumes a divine body, when He is man she assumes a human body: she makes her own body agree with that of Visnu."[^289_739] "The Yogins who in per- fect concentration constantly meditate upon Brahman possess that supreme place which the suris regard." " whose manifestation is not subject to the evolutions that are caused by Time consisting of kalā, muhurta etc."[^289_740]
+
+[^289_736]: 736. VP. 6, 7, 70; mahat in the sense of the tattva, and by extension "Universe".
+
+[^289_737]: 737. VP. 1, 22, 63 cd.
+
+[^289_738]: 738. VP. 1, 9, 145.
+
+[^289_739]: 739. VP. 1, 8, 39; Gītā Press ed. reads in b yoganiścaye, in c teṣām tu, in d yat tat.
+
+[^289_740]: 740. VP. 4, 1, 84 ab.
+
+And in the Mahabharata: "Go to the divine residence, O Lord, un- decaying, unthinkable, unknowable, primordial, which is to be known from the revelations, and protect us, your votaries, by incarnating yourself in every age with your own body.[^289_741] Time gets ripe, and there is no time, there is the Lord alone.""[^289_742]
+
+[^289_741]: 741. MBh. 12, 5, 27.[^289_742]: 742. MBh. 12, 191, 9 ab (Poona cr ed).
+
+The Author of the Sūtras declares that the Supreme Brahman has form in the sūtra "within, on account of the instruction of His properties.”[^289_743][^289_743]: 743. BrS. 1, 1, 21 antas taddharmopadesát, referring to ChUp. 1, 1, 6, on the basis of which R. will now give a description of the Divine Person.
+
+§ 134. He who is always gloriously visible[^289_744] is the pre-eminent Person who dwells within the orb of the sun. [^289_745] His splendour is like that of a colossal mountain of molten gold[^289_746] and His brilliance that of the rays of hundreds of thousands of suns. His long eyes are spotless like the petals of a lotus[^289_747] which, sprouting forth from deep water on a soft stalk, blossoms in the rays[[P290]]
+of the sun.[^290_748] His eyes[^290_749] and His forehead and His nose are beautiful, His coral-like lips smile graciously, and His soft cheeks are beaming. His neck is as delicately shaped as a conch-shell and His bud-like divine ears, beauti- fully formed, hang down on His stalwart shoulders. His arms are thick, round and long and He is adorned with fingers that are reddened by nails of a most becoming reddish tinge. His body, with its slender waist and broad chest, is well-proportioned in all parts, and His shape is of an unutterably divine form. His colour is pleasing. His feet are as beautiful as budding lotuses. He wears a yellow robe that suits Him and He is adorned with immeasurable, marvelous, endless and divine ornaments-a spotless diadem, earrings, necklaces, the Kaustubha gem, bracelets, anklets, belt etc.- and with Conch, Disc, Club, Sword, the Bow Sarnga, the curl Srivatsa and the garland Vanamālā.[^290_750] He attracts eye and thought alike of all by the measure- less and boundless beauty that is His. He overflows the entire creation of animate and inanimate beings with the nectar of His comeliness. His youth is exceedingly wonderful, unimaginable and eternal. He is as delicately tender as blossoming flowers. He perfumes the infinite space between the cardinal points with the odour of holiness. His profound majesty is for ever encompassing the entire Universe. He looks upon the hosts of His devotees with loving eyes, filled with compassion and affection. His sport is to evolve, sustain and dissolve all the worlds. All evil is foreign to Him- He is the treasury of all beautiful qualities and He is essentially different from all other entities. He is the Supreme Spirit, the Supreme Brahman, Nārāyaṇa. This is the sense to be read in 'on account of the instruction of his properties,[^290_751] He rules all the worlds-all His desires,[^290_752] 'He is beyond all impurities,[^290_753] etc. His properties are declared in the texts: 'the ruler of all, the sovereign of all,'[^290_754] free from imperfection, unaging,....whose every[[P291]]
+will is realized,[^291_755] 'supreme beyond all, eternal, universal, Nārāyaṇa, Hari,' [^291_756] "Lord of all, sovereign of the souls,"[^291_757] etc.
+
+[^289_744]: 744. daridṛśyate, intensive built on drsyate of ChUp. 1, 6, 6.[^289_745]: 745. 1, 6, 6: antar aditye.[^289_746]: 746. 1, 6, 6: hiranmayah.
+
+[^289_747]: 747. 1, 6, 7: pundarikam evam aksini,
+
+[^290_748]: 748. According to S., who substantiates this statement by quotations, R. here describes what is called kapyása (1, 6, 7) in three ways: conformably to the three explica- tions of this disputed term allowed by the Vakyakära (see Appendix § 2, Fr. XIII); respectively gambhirambhaḥsamudbhūta-, borrowed from Dramida (<kam "water", api, asa "ground, soil"); sumṛṣṭtanala- (< kapi [< kam pibati] "stalk"; äsa [yasminn äste] "seat"); ravikaravikäsita- (<kapi [<kam pibati] "sun", äsa[tenäsyate kṣipyate vika- syate] "expansion, blowing").
+
+[^290_749]: 749. In the sequel R. has been inspired by VP. 6, 7, 80 E.[^290_750]: 750. I refer to VP. 1, 22 on Visnu's ornaments and weapons.
+
+[^290_751]: 751. BrS. 1, 1, 21 antas taddharmopadesát,[^290_752]: 752. MahUp. ?
+
+[^290_753]: 753. ChUp. 1, 6, 7.[^290_754]: 754. BAUp. 4, 4, 22,[^291_755]: 755. ChUp. 8, 1, 5.
+
+[^291_756]: 756. MahänärUp. 11, 2.
+
+[^291_757]: 757. MahǎnärUp. 11, 3.
+
+§ 135. The Author of the Vakya declares all this in: "The śruti "the golden person is regarded"[^291_758] teaches that the One who is knowing is within everything, because we learn that He is the Lord of the world and the desires, and also because He is beyond sin" etc. The same author, after having stated the prima facie view that the Supreme Person would have assumed form to favour His worshipper: "If it be said that His form is temporarily assumed by his sovereign power, in order to favour their thoughts," subsequently denies that His form is not eternal: "That body is beyond sensual perception and only apprehensible by the internal faculty, for this has been declared: "[^291_759] i.e. even as the qualities of knowledge etc. have been stated to constitute the proper form of the Supreme Brahman, in the same manner His form belongs to His proper form, for the scriptures declare that His proper form is such.
+
+[^291_758]: 758. Reference is to ChUp. 8, 1, 6 and 8, 2.
+
+[^291_759]: 759. Viz. MundUp. 3, 1, 8.
+
+The same has been commented upon by the Author of the Bhasya: "The form of the creator of all is His by nature; however, it cannot be grasped by the eye, it can only be apprehended by the untroubled mind which has another means; this on account of the śruti: "He is not grasped by the eye, nor by speech, but by purified thought." For a deity that is formless cannot be declared to have form, for the sastra asserts things so as they are: "saffron-coloured garment, [^291_760] "I know that great person who has the colour of the sun, beyond matter; "[^291_761] and because another context declares that He is a witness," etc. [Vakya] "The word hiranmaya- is used, because of similarity of form, just as "moon-faced";" [Bhasya] here the suffix -maya- has not the sense of "being a product of" because the soul is not subject to beginning." Even as we learn from the mention of an infinitude of beautiful qualities that the Supreme Brahman is modified by measureless beautiful qualities, in the same way we know by the mention of " that person who has the colour of the sun," etc. that the Supreme Person Nārāyaṇa, who is the Supreme Brahman, has a perfectly beautiful shape which is in accordance with His pleasure and in harmony with Himself. Since the texts: "Visnu's consort, Mistress of this world," "Hri and Laksmi are Thy consorts,"[^291_762] "the[[P292]]
+sūris regard always," "beyond matter," "lying beyond this matter, [^292_763] etc. refer to consorts, attendants, a residence etc., we know also that they actually exist: as the Author of the Bhasya declared: "for the śästra asserts things so as they are."
+
+[^291_760]: 760. BAUp. 2, 3, 6.
+
+[^291_761]: 761. SvetUp. 3, 7.
+
+[^291_762]: 762. TaittS. 4, 4, 12, 5.[^292_763]: 763. TaittAr. 3, 13, 1.
+
+§ 136. In other words: even as the text "Brahman, who is real, know- ledge, eternal"[^292_764] declares that the proper form of the Supreme Spirit is essentially different from everything else inasmuch as it is antagonistic to all evil and comprises only boundless bliss, and inasmuch as it is undefinable- even as, further, the texts "Who is omniscient, all-knowing,"[^292_765] "His supreme. potency is diverse, His knowledge, power and works are proper to His nature, "[^292_766] "everything derives its light from this luminary, all this is luminous by His luminosity, "[^292_767] etc. declare that His qualities which are unsurpassed. and innumerable are essentially different from everything else in the same manner the text "who has the colour of the sun," etc. declares that His form, attendants, residence etc. are essentially different from everything else, are proper to Him exclusively and have an inexplicable proper form and nature.
+
+[^292_764]: 764. TaittUp. 2, 1.
+
+[^292_765]: 765. MundUp. 2, 2, 7 yah sarvajñaḥ sarvavit.[^292_766]: 766. SvetUp. 6, 8 parasya saktir vividhaiva,
+
+[^292_767]: 767. MundUp. 2, 3, 10/SvetUp. 6, 14 tam eva bhantam.
+
+§ 137. If the Vedas are pramaņa, then they denote. the sum-total of unprecedented and compatible meanings, classified under vidhi, arthavāda and mantra, so as they are in reality. That the Vedas are pramāņa is stated in the sutra. "Meaning is inherent in the word."[^292_768] Even as the power of heat is inherent in fire etc., and even as the power of originating particular cog- nitions is inherent in the senses of vision etc., in the same way the power of denotation is inherent in language.[^292_769] It is not right to say that the deno- tativeness of language is based on convention, as is that of the language of gestures. In the very absence of any knowledge about a person or persons who fixed the convention, although there is no break in the beginningless transmission of the notion (of the denotative character of language), the originally conventional meanings would have been known as such either directly or traditionally. Nor is it right to imagine that the denotativeness of language is as conventional as that of words like Devadatta etc., for with words of that type the convention is known either directly or traditionally.. With words like cow, inasmuch as no convention is known, although there.[^292_768]: 768. KMS. 1, 1, 5 autpattikas tu sabdasyarthena sambandhaḥ.
+
+[^292_769]: 769. This theory of the originality of language is the one generally adhered to by the ancient systems, though the (ancient) Naiyayikas formulate it thus that the denotativeness of language is a convention established by God himself,
+[[P293]]
+is no break in the beginningless transmission of the notion of denotativeness, the power of denotation is inherent. Hence follows that we must assume that the cognitive power of language is inherent in it just as the power of heat is inherent in fire and the power of cognition in the senses of vision etc.
+
+§ 138. However, if the denotative power of language is inherent in it as it is in the senses, then why is it necessary for a word, in order to be denotative, that its relation to its denotation is apprehended?
+
+-We reply: it is as with the mark-of-inference[^293_770] in logic: just as marks like smoke have invariably a definite relation with the thing marked, fire etc., and so give rise to the cognition that there is fire, so language has also an invariable relation with the denotation and so gives rise to a certain cognition.
+
+[^293_770]: 770. linga-; I refer to Tarkasamgraha, Buddhikanda § 48 with Athalye's notes.
+
+-But then language, being the inferential mark of denotation, would be Inference and not a pramana in its own right.
+
+-No: the relation between word and meaning is that between means and object of cognition. Smoke etc., have another relation: via an inter- mediate stage of knowledge of that relation they give rise to a definite cog- nition, that is the difference.
+
+Summing up, inasmuch as we see that a word has the power of de- noting a meaning when the relation between both is apprehended, and inas- much we have no knowledge of any convention, although there is no break in the beginningless transmission of our notion of the denotativeness of language, therefore we conclude that the power of denotation is inherent in the word itself.
+
+§ 139. So, denotative combinations of simple words are to be called contextual language.[^293_771] There where the word-order in speaking derives from human cognition[^293_772] we speak of human language. But there where the word-order in speaking always derives from the mental impression[^293_773] left by the previous word-order in an endless retrogressive chain we call them[[P294]]
+preterhuman[^294_774] and we say that the Vedas are preterhuman. That which makes the Vedas preterhuman and eternal is that it is spoken in exactly the same precise order that has been remembered by the mental impressions left by previous orders in an endless retrogressive chain. And these Vedas congeries of syllables, each of which has its definite place in a regular order from the beginning onwards-continue in an infinite number of branches differing according to the Veda-Ṛg-, Yajur-, Sama- or Atharva- Veda - to which they belong. And these Vedas, in the form of vidhi, artha- vāda and mantra, denote the proper form of Nārāyaṇa, who is the Supreme Brahman, and the manner in which He is to be propitiated, and finally the particular results that follow when He is propitiated. The entire body of language called Veda, which gives rise to the knowledge of the Supreme Person, of His proper form, of the propitiation of Him, and of the fruit thereof, is eternal. Since the Vedas are endless and difficult to understand, the great rsis have been ordered by the Supreme Person to transmit the sense of the Veda in every age in order to help all the worlds, and they have composed the dharmasastras, epics and puranas which are founded on vidhi, arthavāda and mantra.[^294_775] The profane words are extracted as before from the vocabulary of the Vedas and are applied, as before, to certain objects as their names,[^294_776] and their usage is fixed by tradition.
+
+[^293_771]: 771. vakyasabda- "language consisting in propositions and phrases in which a number of single words (padas) are coordinated and subordinated to a vakyärtha"; on padasamghata- cf. Sabarasvamin's definition samhatyārtham abhidadhali padāni (KMSBh. 3, 3, 14).
+
+[^293_772]: 772. ie. the construction of sentences and phrases as representing a certain train of thought traceable to human experience.
+
+[^293_773]: 773. samskara-.
+
+[^294_774]: 774. apauruşeya-; the sentences of the Veda do not represent a train of thought traceable to human experience: a sentence like svargakāmo yajeta can only have a preterhuman origin since its contents cannot be derived from human knowledge: hence it is "unprecedented". All such sentences together form a huge frame of interdependen- ces in which elements are comprehensible from within but never from without.
+
+[^294_775]: 775. S. suggests a distinction between the dharmasastras as continuing and sup- porting the purvabhaga-pre-upanisad Veda-and the epics and puraņas supporting the Upanisads.
+
+[^294_776]: 776. S. refers justly to VP. 1, 5, 63, quoted by R. supra § 21 in a similar connexion.
+
+However, if all the words denoting meanings are ultimately Vedic, is it proper then to define them separately as belonging either to the hymns or to profane parlance?[[???|777]]
+
+[^294_777]: 777. Resp. chandas- and bhāṣā; for references see RENOU, Terminologie, s.v, bhas-.
+
+In the Vedas the same words have their appointed place in that regular order only and are there alone used, whereas the words used else- where are used differently, so we commit no error.
+
+§ 140. Thus it is set forth that Nārāyaṇa -who is the Supreme Brah- man to be known from the Vedas with their subsiduaries, corroborated by epics, purānas and dharmaśāstras, is antagonistic to all evil and essentially[[P295]]
+different from everything else. His proper form is purely boundless know- ledge and bliss. He is a treasury of hosts of natural, innumerable beautiful qualities. All spiritual and non-spiritual entities, in all the varieties of proper form, modes of existence and activities, obey His volition. The proper form and nature of His infinite supernal manifestation[^295_778] are undefinable. The means of His sport are constituted by the phenomenal world consisting of an infinite variety of spiritual and non-spiritual entities. In the śrutis[^295_779] "all this is verily Brahman, all this is ensouled by Him....Thou art That, Svetaketu,[^295_780] some call Him Agni, others the Maruts, others Prajapati, others Indra, others the vital air, others the eternal Brahman,[^295_781] the splendours and brightnesses that are in the world; the world, the world-protectors and the three Vedas; the three fires and five oblations: the Son of Devakī is all and all the gods,[^295_782] You are the sacrifice, You are the vasat, You are the Om syllable,[^295_783] You are Rtadhaman, the ancient Vasu of the Vasus, Pra- japati,[^295_784] the entire world is Thy body and the earth is Thy fortitude; fire, wrath, grace, soma is Thine, O Thou who art adorned with the Srivatsa;[^295_785] Visnu is the luminaries, Visnu is the woods, Visnu is the lands, Visnu is the mountains and spaces, He is the rivers and the oceans, He is all what and what is not, O great priest: "[^295_786] in all these śrutis all words used in sāmānādhikaranya declare that Brahman is modified by all because all constitute His body, as I have said before.[^295_778]: 778. mahävibhuti-[^295_779]: 779. ChUp. 3, 14, 1 sarvam khalu idam brahma.
+
+[^295_780]: 780. ChUp. 6, 8, 7 aitadätmyam idam sarvam (tat satyam sa ātmā) tat tuam asi Svetaketo.
+
+[^295_781]: 781. Manu 12, 123 where the vulgate reads manum anye for maruto 'nye.[^295_782]: 782. MBh.?
+
+[^295_783]: 783. Räm. 6, 120, 20.[^295_784]: 784. Ram. 6, 120, 7.[^295_785]: 785. Räm. 6, 120, 26.
+
+[^295_786]: 786. VP. 2, 12, 38.
+
+The Supreme Brahman, whose every will is true, wills, of His own accord, that He be modified by the many. He then, of His own accord, divides the subtle elemental matter in the form of the totality of non-spiritual entities from the multitudinous hosts of experiencing entities, which were both dissolved in himself hitherto, and creates out of the subtle elemental matter the primeval elements, introduces into them as their souls the expe- riencing entities, creates the entire Universe out of these primeval elements. controlled by spiritual souls in mutual conjunction, and then of His own. accord enters into them as their immanent soul[^295_787] and exists on as the[[P296]]
+Supreme Spirit whose body is formed by all, and is thus modified by the many. This subtle matter of the primeval elements is called by the name of prakrti, and all the experiencing entities are in their totality denoted by the name puruşa. Both prakṛti and purusa constitute modes of the Supreme Spirit because they constitute the Supreme Spirit's body. Hence the Supreme Spirit Himself can be denoted by the words prakṛti and purusa. All this, which has been expounded before, is elucidated by the śruti: "He willed: I be many: I will multiply; having created that, He entered into that; when He had entered into that it was present and yonder, it was explained and un- explained, an abode and not an abode, knowledge and not knowledge, true and false; and it was real.[^296_788][^295_787]: 787. ChUp. 6, 2, 3.
+
+[^296_788]: 788. TaittUp. 2, 6.
+
+§ 141. We have already declared that the means of attaining Brah- man is a superior bhakti in the form of rememorization staggered to a state of extremely lucid perception, which is immeasurably and overwhelmingly dear to the devotee. It is achieved by complete devotion of bhakti which is furthered by the performance of one's proper acts preceded by know- ledge of the orders of reality as learnt from the śastra.[^296_789] The word bhakti has the sense of a kind of love, and this love again that of a certain kind of knowledge.
+
+[^296_789]: 789. 1.e. the discriminatory knowledge of the ontological orders of prakṛti, purusa and God.
+
+- However, according to people in the world love has no other sense than that of pleasure, and pleasure that is to be realized by a certain kind of knowledge is a different thing altogether.
+
+-No, for whatever kind of knowledge is said to lead to pleasure is pleasure itself.
+
+§ 142. In other words: cognitions with a content fall either under pleasure or suffering, or the state of neither pleasure nor suffering, and they become one or the other of these three according to their content or object. If knowledge particularized by a particular object excites pleasure, it is held dear accordingly. The cognition that has that pleasurable object is pleasure itself, and we do not notice any different thing: particularly because this cogni- tion leads to the practical behaviour of being happy. The capacity of par- ticularizing such a pleasurable cognition is but relative and impermanent in any object different from Brahman, but in Brahman Itself it is absolute and permanent: it is said that "Brahman is bliss."[^296_790] Since knowledge is pleasurable if its object is pleasurable, Brahman is pleasurable as such.[[P297]]
+This is declared in: "He is pleasure: He that obtains this pleasure becomes happy,[[781|791]] i.e., Brahman being pleasure one is happy when one has attained Brahman. The Supreme Person, being in His own right and of His own accord boundless and absolute bliss, becomes bliss to another too, because there is no differentiation in that He is beatitudinous.[^297_792] So the meaning of our text is: He that has Brahman as the object of his knowledge becomes happy. When it is realized that the soul stands in a relation of subservience to the Supreme Brahman because this Supreme Brahman- treasury of hosts of innumerable absolute and immeasurable beautiful qualities, irreproach- able, possessing an infinite supernal manifestation-ocean of immeasurable and absolute goodness, beauty and love-is the Principal to which the soul is accessory or subservient, then the Supreme Brahman who is thus an object of absolute love leads the soul to Himself.
+
+[^296_790]: 790. TaittUp. 3, 6 anando brahma,
+
+[^297_791]: 791. TalttUp. 2, 7, raso vai saḥ/raso hy evayam labdhvänandi bhavati.
+
+[^297_792]: 792. God is beatitudinous in self-contemplation: being his own object; if as such he is another's object there is no difference in his being a beatitudinous object.
+
+§ 143. -However, this would mean in other words that the soul's absolute subservience itself is immeasurable and absolute happiness: but this is contradicted by all experience, for we see that literally all spiritual beings have one great wish: to be completely independent; compared with that, dependence means suffering. And there is the smrti: "All dependence means suffering,[^297_793] and in the same line: "Service is called a dog's way, so try to avoid it.""[^297_794]
+
+[^297_793]: 793. Manusmrti 6, 160 a sarvam paravasam duḥkham (sarvam atmavasam sukham).
+
+[^297_794]: 794. Manusmrti 6, 4.
+
+-This attitude reveals the misconceived identification[^297_795] of body and soul by those who have not learnt that the soul is essentially different from the body. For the body, which, as a matter of fact, is a mass in which quali- ties, such as the generic structure of man, etc., subsist, is held to be inde- pendent and they who are bond to samsara think that the body is the 'T'.[^297_796] Whatever misconception one has of one's own soul, one holds the end of life to agree with that. What is pleasure is differently determined according to the body for which the soul is mistaken-lion, tiger, boar, man, yakṣa, rakṣas, piśāca, god, dānava, male, female, etc. and these different pleasures are mutually incompatible. So everything is judged by whatever aim of life corresponds to the mistaken identity of the soul. The proper form of the soul has, however, knowledge for its one and only form, and is essen- tially different from the body, god, etc., and the soul's essence is that it is[[P298]]
+subservient to Another. When this conception of the soul as it really is has been formed the end of life is held to be that which is in accordance with that. The smrti: "The soul is pure knowledge"[^298_797] declares that the soul's only form is knowledge. From numerous śrutis of the kind of "the Master of all[^298_798] we know that the soul's sole form is to be subservient to the Supreme Spirit. Therefore the wishful misconception of independence must be regarded as an erroneous cognition due to karman, just as the wishful misconception that the soul is identical with the body of a lion, tiger, etc. Consequently it is also due to karman that objects other than the Supreme Person are pleasurable. Therefore they are slight and impermanent, while the Supreme Person is happiness in Himself, so that this happiness is per- manent, immeasurable and absolute. -on the authority of the śruti: "Brah- man is joy, Brahman is space;[^298_799] Brahman is bliss,[^298_800] Brahman is real, know- ledge, infinite."[^298_801] No other entity other than Brahman is essentially happi- ness, and if it happens to be pleasurable, it is impermanent because it is due to karman: this has been declared by the venerable Parāśara: "sinful kar- man and auspicious karman are called hell or heaven,[^298_802] one and the same thing may lead to suffering, pleasure and jealousy and wrath: so for what reason has that thing that character?[^298_803] i.e., what makes an entity that is completely or enduringly pleasure, pain, etc., just that entity? This exclusive character is due to good and evil karman. After showing the want of consis- tency when we consider a number of persons, in that the pleasure of one is the suffering of another, he says that that same inconsistency holds also in one and the same person: "That which led to joy now leads again to pain, and what led to wrath now leads to peace,[^298_804] i.e., that any thing is markedly pleasure or pain is due to the effects of karman, not to the proper form of that thing itself; hence it disappears when an end is put to karman.
+
+[^297_795]: 795. abhimana-.
+
+[^297_796]: 796. i.e. the self, soul or ätman is confused with empirical ego.[^298_797]: 797. VP. 6, 7, 22.[^298_798]: 798. MahānārUp. 9, 3.[^298_799]: 799. ChUp. 4, 10, 5 (prano brahma) kam brahma kham brahma (iti).
+
+[^298_800]: 800. TaittUp. 3, 6.
+
+[^298_801]: 801. TaittUp. 2, 1.
+
+[^298_802]: 802. VP. 4, 6, 44 cd.
+
+[^298_803]: 803. VP. 4, 6, 45.[^298_804]: 804. VP, 4, 6, 46-47.
+
+§ 144. The smrti that you just quoted "all dependence means suffer- ing"[^298_805] declares as a matter of fact that, since there is no mutual relationship of principal and subservient terms with entities that are different from the Supreme Person, any subservience to something different from Him is suffer- ing. In "service is called a dog's way"[^298_806] it is stated that obedience to one who is not worth it is a dog's way. According to the text: "For He alone[[P299]]
+should be worshipped by all always in all stages of life,"[^299_807] only the Supreme Person is worthy of the obedience of all those who know what the true. nature of the soul is. As the Venerable Lord put it: "When a man serves Me through unerring devotion to bhakti, he will pass beyond the gunas and become Brahman."[^299_808] This service in the form of bhakti is denoted by the word for "knowing" in the śrutis: "He that knows Brahman attains the Most-High,[^299_809] “"He that knows this, becomes immortal,[^299_810] knowing Brahman he becomes Brahman,"[^299_811] etc. From the specifying text: "He whom He chooses may attain Him, "[^299_812] we understand from the clause: "whom He chooses" that one must be elected and that the most beloved one is elected. The most beloved of the Lord is he in whom boundless and absolute love for the Lord has been inspired: this is stated by the Lord in: "For I am exceed- ingly beloved of the knower and he is beloved by Me."[^299_813] Therefore it is knowledge which has risen to superior bhakti that is really the means of attaining the Lord, as the lord Dvaipayana declares in the Mokşadharma by way of comment upon all the Upanisads: "His form is not to be beheld and no one perceives Him with the eye, only he who has concentrated on his soul espies - by bhakti and discrimination[^299_814]- the proper form of know- ledge in this life,"[^299_815] i.e., after having realized one's own soul by discrimina- tion, one sees the Supreme Spirit by bhakti, sc. one has immediate presenta- tion of Him, attains Him: this follows because the meaning is the same as in the text: "...but by exclusive bhakti can I..."[^299_816] Since bhakti is taken as a form of cognition, everything is established.
+
+[^298_805]: 805. Manusmrti 6, 160.
+
+[^298_806]: 806. Manusmrti 6, 4.
+
+[^299_807]: 807. MBh. ?[^299_808]: 808. BhG. 14, 26.[^299_809]: 809. TaittUp. 2, 1.[^299_810]: 810. TaittAr. 3, 1, 3.
+
+[^299_811]: 811. MundUp. 3, 2, 9 (so yo ha vai tat paramam) brahma veda brahmaiva bhavati.[^299_812]: 812. MundUp. 3, 2, 3.
+
+[^299_813]: 813. BhG. 7, 17.
+
+[^299_814]: 814. dhrti- "discrimination" as according to R.. GBh. ad 6, 25 where he glosses buddhya dhrtigṛhitaya by vivekaviṣayaya.
+
+[^299_815]: 815. MBh. 12, 230, 68 cd-69 ab (Kumbhakonam ed.).
+
+[^299_816]: 816. BhG. 11, 54 bhaktyä tu ananyaya sakya aham evamvidho 'rjuna/jñātum drastum ca tattvena praveṣṭum ca parantapa //
+
+§ 145. Considering that there must be people who are at once pro- found enough and without professional jealousy and who know how to dis- criminate between what is of the essence and what not, I have written for them this Summary of the Meaning of the Veda.[^299_817]
+
+[^299_817]: 817. Inspired by Yamuna? cf. Agamapramanya stt. 2-3 ye 'mi kecana matsarāt sarvasya durmänasārā narah/gambhiräm gunasalinim api giram nindanti nindantu te // sārāsāravicārakausaladasāpāre pare 'vasthitaḥ/santaḥ santy anasuyavo 'pi bahavaḥ samsanti ye madgiram//
+
+## APPENDIX
+
+### § 1. Fragments from Bodhayana's Vṛtti.
+
+I. On atha in athāto brahmajijñāsā (BrS. 1, 1, 1)
+
+vṛttät karmādhigamad anantaram brahmavividiṣā -
+
+"immediately after knowledge of karman has been acquired does the desire of knowing brahman arise."
+
+— quoted $Bh. 1, 1, 1, p. 2.
+
+II. On idem, following on Fragment I-
+
+samhitam etac charirakam Jaiminiyena şoḍaśalakṣaneneti sastraika- tvasiddhiḥ-
+
+"since this Sārīraka forms one volume with Jaimini's Sutras in 16 Chapters, it is proved that both constitute one and the same śāstra.”
+
+- quoted 1, 1, 1, p. 2.
+
+III. On jyotișă in BrS. 1, 4, 13 (14) jyotisaikeṣām asaty anne-
+
+jagadvyāpāravarjam samano jyotiṣā-
+
+("the atman is) equal to Light when free from involvement in the world's activities."
+
+quoted 1, 1, 1, p. 79.
+
+IV. ad BrS. 1, 1, 10 gatisāmānyāt
+
+satā somya tada sampanno bhavatiti sampattyasampattibhyām etad avasiyate-
+
+"in the text (when a person sleeps) then, my son, he is joined with the Existent' (ChUp. 6, 8, 1) that is decided on the strength of joining and disjoining"-Apparently in the same connexion the Vrtti quotes BAUp. 4, 3, 21 prājñenātmanā parişvaktaḥ (thus, when this person is) embraced by the conscient soul (he knows nothing inside or outside)'.
+
+-quoted SBh. 1, 1, 10.
+
+V. ad BrS. 1, 2, 1, sarvatra prasiddhopadeśāt —
+
+sarvam khalv asti sarvātmā brahmeśaḥ-
+
+"Brahman is 'verily everything" (ChUp. 3, 14, 1 sarvam khalv idam brahma), 'the soul of all' (SvetUp. 3, 21), 'the Lord'
+(SvetUp. 3, 7 isam tam jñātvāmṛtā bhavanti).”
+
+-quoted ŚBh. 1, 2, 1.[[P302]]
+
+VI. ad BrS. 1, 3, 7 (8) bhūmā samprasādād adhy upadeśāt-
+
+bhūmā tv eveti bhūmā brahma nāmādiparamparayātmana urdhvam asyopadesät -
+
+"according to the text (one should try to know) that bhūmā ("vast one")" Brahman is bhūmā, for the instruction thereof is, in the preceding part, of the atman by the series beginning with nāma etc." In other words, ChUp. 7, 2, 3 (and the preceding 7, 1, 3 ff.) bears on the atman, for the satya of 7, 15, 5 can be connected with the satya of 8, 3 which explicitly bears on the atman; note that brahman is interchangeable with atman.
+
+-quoted SBh. 1, 3, 7.
+
+VII. ad BrS. 1, 3, 30 (31) ff. madhvādiṣv asambhavād anadhikāram Jaiminiḥ/jyotiṣi bhāvāc ca/bhāvam tu Bādarāyano 'sti hi —
+
+asti hi madhvādiṣu sambhavo brahmana eva sarvatra nicäyyatvāt - "it is possible that (the gods are qualified for) the madhuvidyā etc. for Brahman is to be sought for in everything."
+
+quoted SBh. 1, 3, 32.
+
+### §2. Vakya and Dramidabhāṣya.
+
+#### A. Fragments possibly from BAUp.Bhasya of Dramida.
+
+I. (Unconnected) phalasambibhatsaya karmabhir ātmānam piprisanti
+sa prito 'lam phalaya iti sastramaryādā —
+
+"If they, motivated by the desire to be provided with the fruits, are anxious to please the ātman with acts, then, when he is pleased, he suffices to bestow those fruits thus disposes scripture."
+
+—ŚBh. 2, 2, 3 has the variant phalavidhitsayā "motivated by the desire to ordain those fruits": lectio facilior for "bibhats".
+
+— quoted Ved. § 124; SBh. 2, 2, 3.
+
+II. ad BAUp. 3, 8, 9 etasya vā akṣarasya prasāsane gärgi süryacandra-
+masau vidhṛtau tisthatah etc.; cf. also TaittUp. 2, 8-
+
+asyājñayā dhāvati vāyuḥ/nādyaḥ sravanti/tena kṛtasīmāno jalāśayaḥ samada iva mesavisarpitam kurvanti-
+
+"At his behest the wind runs, the rivers flow; the oceans, shown their limits by him, jump crazily like (rutting) rams." -quoted Ved. § 124.
+
+IIa. Apparently same context as II-
+
+tatsankalpanibandhana hime lokā na cyavante na sphutante / svaśāsanānuvartinam jñātvā kāruṇyāt sa bhagavan vardhayeta vidvän karmadakṣaḥ-
+[[P303]]
+"For all these worlds, being supported by his will, do not collapse, nor do they fly apart. When he knows that one follows his com- rnand then, mercifully, the Venerable Lord, who knows, who is equal to the task, will make one prosper."
+
+- cf. BÃUp. quoted in II; for the second half compare 3, 8, 10. -quoted Ved. § 124.
+
+III. Unconnected.
+
+Bh. mam ha vai jāyata iti śruter.... yady api avadānastutiparam väkyam tathāpi näsatā stutir upapadyate.
+
+"On account of the śruti: "There shall indeed be debt even though the statement be meant (only) to praise the offering, yet there can be no praise if the object is non-existent." -Reference is to SatBr. 1, 7, 2, 1-6, ending tad avadānam nāma; in the context avadāna has the general sense of offering, to cover both yaga and homa. It is clear that Dramida argues that the arthavada must establish the objects referred to, even though it have the function of praising the object, for without object no praise: in other words, arthavada portions are not less significant than pure vidhi portions.
+
+quoted Ved. § 118.
+
+#### B. Fragments from ChUpVakya and Bhāṣya.
+
+IV. (Unconnected) -
+
+V. upaniṣannatvād upaniṣat-Bh. gahane hiyam vidyā samni- vistā Vāmanaṭīkā gahane brahmany upaniṣaṇṇā
+
+"The term upaniṣat derives from the fact that it is put down." "For this meditation is contained in the mysterious One."
+
+"It is put down in the mysterious, i.e. the brahman."
+
+quoted Venkaṭanatha, Tattvaṭīkā I, p. 34.
+
+V. ad ChUp. 1, 6, 6 hiranmayaḥ puruso drsyate—
+
+V. hiranmaya iti rūpasāmanyāc candramukhavat-
+Bh. na mayaḍ atra vikāram ādāya prayujyate / anärabhyatvād atmanaḥ-
+
+""Golden' is used because of similarity of colour; it is a comparison of the type candramukha "moon-like face","
+
+"The suffix maya- is here not used in the sense of modification:
+that would not agree with the fact that the atman is not caused."
+
+-quoted Ved. $135; TatpD. p. 156.[[P304]]
+
+VI. ad ChUp. 1, 6, 6 atha ya eso 'ntarāditye hiranmayaḥ puruso
+V. hiranmayaḥ puruso drśyata iti prajñaḥ sarväntaraḥ syat/ lokakāmavyapadesät tathodayāt pāpmanām -
+
+"In the text "the golden person is seen' it is the conscient One, entered into all who is meant: this follows from the fact that the world's desire is mentioned and that he transcends the evil things." "the world's desire" cf. ChUp. 1, 7, 6 sa eşa ye caitasmād arvāñco lokās teṣām ceşte manusyakāmānām ca; "he transcends all evil ac- cording to 1, 6, 7; that he enters everything is expressed in 1, 7."
+
+- quoted Ved. § 135.
+
+VII. In the same connexion the objection and reply-
+
+V. syat tad rupam kṛtakam anugrahartham / taccetasām aiśvaryāt/ rupam vātīndriyam antaḥkaranapratyakṣanirdeśāt
+
+-"Could it be that that body[or: his body] is artificial, meant as a favour (i.e. to favour meditation)? For he has power over their minds."
+
+-"Rather is it suprasensible, for it is said that it is evident to the inner faculty."
+
+that there is a purvapakṣa - -so Dramida -follows from initial syat; vā in the sense of viparyaya, cf. BrS. 2, 2, 41; kṛtaka- "artificial, make-believe, illusory."
+
+Bh. na vā māyāmātram/ añjasaiva visvasṛjo rūpam/tat tu na cakṣuşă grähyam / manasa tv akalusena sadhanantaravata grhyate- na cakṣusă gṛhyate nāpi vācā manasā tu viśuddhena iti śruteḥ / na hy arūpāyā devatāyā ripam upadiśyate/yathābhutavadi hi śāstram / māhārajanam väsaḥ vedaham etam purusam mahāntam ādityavarṇam tamasaḥ parastad iti prakaraṇāntaranirdeśāc säkṣinaḥ са
+
+"No, the body is not made of maya: the body of the Creator of all can only be natural. It can however not be grasped by the eye; but it is grasped by the mind which, when freed from impurity, disposes of another means of perception: this follows from the śruti: "It is not grasped by the eye, nor by the word, but by the mind if pure." For scripture will not teach that a disembodied deity possesses a body: scripture states things just as they are. Other contexts also set forth that he is a witness (i.e. embodied person): "(that Person has a body like) a saffron-coloured garment" "I know that great Person, with the colour of the sun, beyond darkness." the śrutis are respectively MundUp. 3, 1, 8; BAUp. 2, 3, 6 and SvetUp. 3, 7.
+
+-quoted Ved. § 135.
+
+VIII. ad ChUp. 1, 6, 7 kapyasam pundarikam.[[P305]][S. remarks that the Vakyakara enumerates 6 possible meanings of kapyāsam, and rejects three: 1. adityamandalam, 2. markata- prstham, 3. iṣadvikāsitam; and accepts three 1.] adityakṣiptam śrimattvāt "(splendour) emitted by the sun, for (the lotus) is resplendent"[2. nālāsanam, 3. jalabhuvam.]
+
+Bh. comments on second set of three with- gambhirambhah.... "deep water."
+
+-cf. Rāmānuja's description gambhirāmbhaḥsamudbhūta-sumṛsta- nālaravikaravikäsita-, corresponding to the acceptable renderings 3, 2 and 1.
+
+quoted TatpD. p. 326.
+
+IX. V. sakrt pratyayam kuryāc chabdarthasya kṛtatvāt prayājādivat /
+siddham tupasanaśabdāt -
+
+"One should conceive this idea just once, because thereby the sense of the scripture has already been accomplished completely, as in the case of the Prayaja's etc." "No, (what has been said, viz. that it is repetitive) is proved by the use of the word upāsana."
+
+R. interprets both sentences as purvapakṣa and siddhanta, as would also follow the Vākyakāra's definition of abhyasa. This quotation most probably precedes in order that on upasana (see X).
+
+The meaning of the purvapakşin's reference is this: the prayāja's are a group of accessory sacrifices in the darśapūrṇamāsa rites; to them correspond 6 pradhanayägas, so that it would follow that to each pradhanayāga a prayāja is to be joined, but according to tantra (the rule by which an accessory is to be performed only once for an entire group of principals) the prayaja is performed only once; tantra is defined by Sabarasvamin KMS. 11, 1, 1 tatra yat sakṛt kṛtam bahunam upakaroti tat tantram ity ucyate.
+
+- quoted SBh. 1, 1, 1, p. 9
+
+X. ad ChUp. 3, 14, 1 sarvam khalv idam brahma tajjalan iti śānta upāsīta
+
+V. vedanam upāsanam syāt/tadviṣaye śravaṇāt/upäsanam syad dhruvānusmṛtir / darśanac ca-
+
+"Meditating would be knowing: for this follows from the śrutis on this topic. Meditating then would be constant rememorization also, for it is representing visually."
+
+-[[P306]]
+connexion with ChUp. uncertain; so is their suggested coherence. The term dhruvānusmṛti is derived from ChUp. 7, 26, 2 (infra). The suggested sense of darśanac is according to Ramanuja's expli- cation, but not certain. No comment of Dramida,
+
+quoted SBh. 1, 1, 1, pp. 9 and 10.
+
+XI. ad ChUp. 3, 14, 1 sarvam khalv idam brahma yathakratur
+asmiml loke puruso bhavati tathetah pretya bhavati
+V. atmetyeva tu gṛhniyat / sarvasya tanniṣpatteḥ "One must only realize that (all this) is the atman; (then he becomes that which is thought) for all is fulfilled in the atman." - connexion uncertain but probable; no comment of Dramida.
+
+quoted Ved. § 108; SBh. 1, 1, 1, p. 18; p. 116 (partly).
+
+XII. V. parināmas tu syad dadhyādivat -
+
+"there is an inner causal change, as in the case of curds turning into butter, etc."
+
+-Most probably in connexion with the sad vidya ChUp. 6, 1, 4 and explaining the word vikara-; cf. Intr. Chapter IV, ref. is to ChUp. 6, 6, -No comments of Dramida quoted, but it is stated that the author of the vṛtti on the Vakya, doubtless identical with the bhāṣya, adheres to the same view.
+
+-quoted Bhaskara, BrS. 1, 4, 25.
+
+XIII. ad ChUp. 7, 26, 2 ahāraśuddhau sattvaśuddhiḥ/sattvaśuddhau
+dhruva smrtiḥ/ smrtilambhe sarvagranthinam vipramokṣaḥ-
+
+V. tallabdhir vivekavimokābhyāsakriyakalyāṇānavasādānuddhar- sebhyaḥ sambhavan nirvacanāc ca/.. · jātyāśrayanimittādusṭād annāt kāyasuddhir vivekaḥ/vimokaḥ kāmānabhiṣvangaḥ / āram- bhanasamsilanam punaḥpunar abhyāsaḥ/ pañcamahāyajñādyanuṣ- thanam saktitaḥ kriyā/ satyärjavadayādānāhimsänabhidhyāḥ kalyā- nāni / deśakālavaiṣamyāc chokavastvädyanusmṛteś са tajjanyam dainyam abhäsvaratvam manaso 'vasadaḥ/tadviparyayo 'nava- sadaḥ / tadviparyayajā dharṣaḥ —
+
+tustir uddharṣaḥ / tadviparyayajo 'nud-[[P307]]
+is non-despondency. Contentment is the satisfaction caused by the opposites of the above; non-contentment is caused by the opposite of satisfaction.""
+
+- Connexion with this ChUp. passage in its entirety uncertain; Bh. has commented on the passage and given references to corresponding śrutis. R. mentions one reference to BhG. explicitly: tadbhava- bhävitaḥ BhG. 7, 26 ad abhyasa.
+
+– quoted ŚBh. 1, 1, 1, pp. 11-2.
+
+XIV. ad ChUp. 8, 1, 1 tasmin yad antas tad anvestavyam tad vāva vijijñāsitavyam -
+
+V. tasmin yad antar iti kāmavyapadeśaḥ
+
+"In the clause 'that which is therein' reference is made to the desires."
+
+-quoted Ved. § 106; SBh. 1, 1, 1, p. 80.
+
+XV. ad ChUp. 8, 1, 1 (daharavidyā).
+
+V. yuktam / tadgunakopāsanāt
+
+"(Also with regard to the sad vidya) it is appropriate; for medita- tion is on an object that has those qualities"-
+
+Bh. yady api saccitto na nirbhugnadaivatam gunaganam manasānu- dhavet tathāpy antarguṇām eva devatām bhajate-
+
+"Although one, when meditating on the sadvidya, does not pursue with one's thought the multitude of qualities that are negative and divine, still one lovingly approaches the Deity as having inner qualities."
+
+- Dramida's comment probably not directly on this Vākya, cf. Rāmānuja: vyākhyātam ca Dramiḍācāryena vidyāvikalpam vadatā.
+
+Rendering of Dr. not certain; R. differs. I take it that nirbhugna refers to the qualities of the Daharavidyā apahatapapmā etc., which are negative, and daivata to the qualities satyakāmaḥ satya- samkalpaḥ, which are strictly divine. That the passage was obscure to early philosophers is proved by Sarvajñātman's diverging inter- pretation (infra).
+
+-quoted Ved. § 88; SBh. 1, 1, 1, p. 79.
+
+XVI. ad ChUp. 8, 1, 6 ya ihātmānam anuvidya vrajanty etāmś ca satyän
+kāmāms teṣām sarveṣu lokeṣu kāmacāro bhavati-
+
+Bh. devatāsāyujyād aśarīrasyāpi devatāvat sarvārthasiddhiḥ syāt· "Because (the soul) will be united with the deity, therefore, though being without a body, it will find all its ends accomplished, as if it were the deity itself."[[P308]]
+connexion uncertain, but suggested by R's quotation of the śruti in the immediate sequel.
+
+quoted ŚBh. 1, 1, 1, p. 79.
+
+XVII. ad ChUp. 8, 12, 1.... atto vai sasariraḥ priyapriyabhyām / na vai sasarirasya sataḥ priyapriyayor apahatir asti / aśarīram vāva santam na priyapriye spṛśataḥ-
+
+Bh. yatha loke rājā pracuradandasuke ghore 'narthasamkate 'pi pradese vartamāno 'pi vyajanādyavadhutadeho doṣair na spṛśyate 'bhipretāms ca lokan punar api palayiṣyati bhogamś ca gandhādin visvajanabhogyan dhārayati tathāsau lokeśvaro bhramatsva- sāmarthyacamaro doşair na spréyate rakṣati ca lokan brahmalokādin bhogamś ca visvajanopabhogyan dharayati -
+
+"Just as a king on earth who, though living in a place teeming with mosquitoes and infested with horrible beasts of prey, yet keeping his body clean with ointments etc. is not touched by infections and will time and again protect the beloved countries and support the objects of experience, smell etc., that are within everybody's reach to enjoy, similarly He, the king of the worlds, waving the fan of his omnipotence, is not touched by defects and protects the worlds from the Brahmaloka onwards, and supports the objects of experience that are to be enjoyed by all mankind."
+
+- If R.'s reference is right, the passage patently attacks the view that the śruti referred to declares that the Supreme Being has no body.
+
+quoted SBh. 2, 1, 14.
+
+#### C. Indirect evidence from quotations.
+
+XVIII. Sarvajñātman's references in Samkṣepaśārīraka III, 217 ff.[^308_1]
+
+—ātreyavākyam api samvyavahāramātram
+karyam samastam iti naḥ kathayāmbabhüva / satkāryavādaviṣayo na hi dosarāśir
+māyāmaye bhavitum utsahate virodhat // 217 // kāṇādadarśanasamāśrayadoṣarāšir
+duran nirasta iha samvyavahāramātram/ vedantabhumikusalo munir atrivamsyas
+tenäha karyam iha samvyavahāramātram // 218 // sasthaprapathakanibaddham udiritam yat
+tat satyam eva khalu satyasamasrayatvat /
+
+[^308_1]: 1. For the translation see Intr. Ch. II, p. 25.[[P309]]
+tatraiva yat punar uvāca samudrapheṇa-
+drstäntapurvakam ado vyavahāradṛṣṭyā // 219 // purvam vikaram upavarnya sanaiḥsanais tad-
+drstim visriya nikatam parigṛhya tasmat / sarvam vikaram atha samvyavaharamatram
+advaitam eva parirakṣati vakyakāraḥ // 220 // antarguna bhagavati paradevateti
+pratyagguneti bhagavan api Bhāṣyakāraḥ/
+āha sma yat tad iha nirgunavāde.
+samgacchate na tu punaḥ sagunapravāde // 221 //
+
+XIXa, Bhaskara, Brahmasūtrabhāṣya 1, 1, 3 ad finem gives as an example of true knowledge to be gained from "false" instruction a parable that is substantially identical with one quoted by Sureśvara and ascribed to Dramida (see b.):
+
+-drsyate ca loke mithyaviṣaya upadešas tattvajñānārthaparaḥ- yatha kila kaścid rajaputras taskarair aniya niṣādarājāya niveditas tena căsau putratvena parigṛhīto mlecchācārābhiratir eväste / tam rājamantri tatragatya mlecchajatyanugunam evācāram kamcid anuvarnya paścādbhute rajaputro 'si na mlecchaputra iti grähite samastamlecchācāram hitvā svarupam eva pratipadyate.
+
+"In profane experience, too, it is found that an instruction dealing with something false leads to knowledge of the truth; as, for exam- ple: a certain prince was abducted by robbers, and brought to a Niṣāda chieftain; and, adopted by the chieftain as his son, the prince lived contentedly as a barbarian. Then a minister of the king came there and observed how the prince followed a way of life that was typical of the barbarian race; after some time when the minister had made him understand that he was the son of a king, not of a barbarian, he abandoned the barbarian way of life and knew his true self."
+
+- Dvivedin's edition om, aniya after taskarair and bhute after pascād, both restored from Madras Govt. MSS. Library R. 6123.
+
+-kila at the beginning and iti at the end would indicate that the story is a quotation; none of 6 MSS consulted, however, add any- thing in support.
+
+XIX. Sureśvara's story of the prince reared by hunters, BAUpBhāṣya- värttika 2, 1, 506 ff. Anandagiri ad 506 introduces the ākhyāyikā with: tattvamādiväkyam aikyaparam taccheṣaḥ śṛstyädiväkyam ity atra Draviḍācāryapraṇītām akhyāyikām avatarayati-[[P310]]
+acakṣate tatrā cātra kecid äkhyāyikām subhām /
+
+-
+
+yathabhilasitartho 'yam yatha sambhavyate sphuṭaḥ/506 //
+yatha hi kascit prāg asic cakravartino suto yuva/ vyādhiyogopaghätäder unmattaḥ samapadyata // 507 // dhvastarājābhimanaḥ san mugdho vanam upeyivān/ vyādhaiḥ parigṛhītaś ca vyādho 'smity abhimanyate // 508 // tatkarma tadalamkāraḥ kālena mahatābhavat / dhvastarājatvasamskāro vasañ sabarasadmani // 509 // subhausadhyupayogac ca svasthadhiḥ samajāyata/
+svasvabhāvānurodhac ca vyadhebhyo vyutthitātmādhiḥ //510 //
+tacchīlarūpakarmabhyo vyāvṛttadhīṣaṇaḥ svataḥ / kevalasmṛtyabhāvāc ca na vyādhatvam jahāty asau // 511 // kutaścid āgamāj jñātvā tam upetyapratārakaḥ/
+tajjātikarmasambandhatattvavit tatpituḥ sakhā // 512// pravṛttyā karmaṇā jātyā cakravartyucitais tathā /
+laksanai rajaputratvam yatha kascit prabodhayet // 513 // labdhamātrasmṛtiḥ so 'tha rājāsmīty avabodhataḥ/
+bādhitvā svam asambodham hitva vyadhatvam ātmanah // 514 // rājyābhiṣekam apnoti präpya simhasanam pituḥ/ avāptarājasānutvät tatpräptau nāpi cestate // 515 // mohādhyastätmavyādhatvan mohadhvamsatirekataḥ / rājaputratvasamprāptau nanyat kimcid apekṣate // 516 // yatha tathāyam brahmaiva brahmāsambodhamātrataḥ / buddhindriyaśarīrādāv ātmatvam pratipedivan // 517 //["In support of the view that the assertion "Thou art that" states identity and that the passages dealing with creation etc. (ChUp. 6, 2, 1 ff.) are subordinate to that assertion, he introduces a parable that has been composed by Draviḍācārya."]
+
+"In this connexion some tell a beautiful tale to bring out clearly the meaning which is intended here.
+
+Formerly there was a young prince, the son of an emperor, and, due to an infection of some disease, he went mad. Having lost the notion that he was a king, he made for the woods in his bewilderment. He was adopted by hunters and thought that he was a hunter himself: and for a long time he acted and dressed as they did, living in a tribal settlement without any memory of his royal status. Then, by the beneficial use of medicinal herbs, his mind was cured and, in accordance with his real nature, his self- esteem rose beyond the level of hunters. Still, although his mind turned away from their habits, appearance and activities, he did not give up the hunters' way of life for his memory alone had not yet returned. By some report a friend of his father's, who knew what his status and duties were in reality, got to know him and approached him without guile: and
+as he himself had concluded from the other's carriage, acts, nobility and the marks of imperial stature, he told him that he was a prince. By knowing that he was a prince his memory was restored: his ignorance about himself was superseded and he gave up what was of the hunter in himself. Having arrived at his father's throne he underwent the ceremony of the royal consecration, and when he had been restored as a prince he deviated from his position never more. Having regained his princely status by the mere difference that the disappearance of his illusion made (for it was illusion that his notion of being a hunter was suggested to his real self), he had nothing left to desire. Likewise this person, who is really Brahman, is led by his mere unconsciousness of Brahman to attribute to his mind, senses, body etc.
+
+XIXC. The same story is referred to in Samkhyasūtra 4, 1 rājaputravat tat- tvopadeśāt "on account of the instruction about the true nature, as in the case of the royal prince" and described by Vijñānabhikṣu, Samkhyapravacanabhāṣya ad loc.
+
+-atreyam ākhyāyikā-kaścid rajaputro gandarkṣajanmanā purān niḥsaritaḥ sabarena kenacit posito 'ham sabara ity abhimanyamāna äste / tam jivantam jñātvā kaścid amatyaḥ prabodhayati na tvam sabaro rajaputro siti sa yatha jhaṭity eva candalabhimānam tyaktvä tättvikam rājabhāvam evālambate rājāham asmīti, evam eva....
+
+"The story about this is as follows: a certain royal prince was abducted from his town by a bear and reared by a tribesman and he lived in the mistaken conviction that he himself was a tribesman. Having discovered that the prince was alive a minister revealed to him that he was not a tribesman but a royal prince. And even as he gave up at once his notion that he was an outcaste and was restored to his true nature of royalty with the true knowledge: "I am a king," in a like manner etc..."
+
+-gandarkṣa is further unknown; it is either a bear characterized by heavy jowls, or a rhinoceros (ganda), the latter meaning being less plausible.

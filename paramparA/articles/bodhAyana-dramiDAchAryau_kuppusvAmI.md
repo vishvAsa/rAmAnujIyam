@@ -2,7 +2,7 @@
 title = "बोधायन-द्रमिडौ - कुप्पुस्वामी"
 +++
 
-
+Source: [TW](https://archive.org/details/shrI-vaiShNava-itihAsa-granthAH/Bodhayana_and_Dramidacharya_kuppusvAmi)
 
 
 BODHĀYANA AND DRAMIḌĀCĀRYA, TWO OLD VEDĀNTINS PRESUPPOSED BY RĀMĀNUJA
@@ -182,42 +182,73 @@ In this connection Ānandagiri says—
 
 It may be observed here that the names द्रमिडाचार्य and द्रविडाचार्य occur as variants in Vedānta literature. Again, on page 34, part I of Vedānta-Deśika's Tattva-ṭīkā (Telugu edition), the following quotations are found :—
 
-तथा च वाक्यम् “ उपनिषण्णत्वाद्दोपनिषत् ” इति । तत्र द्रमिडभाष्यम्—“ गहने हीयं विद्या संनिविष्टा ” इति । तस्य च वामनटीका—“ गहने ब्रह्माणि उपनिषण्णा ” इति ।
+तथा च वाक्यम् “ उपनिषण्णत्वाद् वोपनिषत् ” इति ।  
+तत्र द्रमिडभाष्यम्—  
+“ गहने हीयं विद्या संनिविष्टा ” इति ।  
+तस्य च वामनटीका— “ गहने ब्रह्माणि उपनिषण्णा ” इति ।
 
 [[P471]]
 \* Careful scholars cannot miss the unmistakable echo of the above extract in the following passage from Śaṁkara's Bhāṣya :—
 
-“ उपनिषद्मिति विशोच्यते : तच्छीलिनां गर्भजन्मजरादिनिशातनात् , तदवसादनाद्वा, ब्रह्मणो वोपनिगमयितृत्वात् ; उपनिषण्णं वास्यां परं श्रेय इति । तदर्थत्वाद्ग्रन्थोऽप्युपनिषत् ” ।    
+“ उपनिषद् इति विद्योच्यते,  
+तच्छीलिनां गर्भ-जन्म-जरादि-निशातनात्  तद्-अवसादनाद् वा,  
+ब्रह्मणो वोपनिगमयितृत्वात् ;  उपनिषण्णं वास्यां परं श्रेय  
+इति ।  
+तद्-अर्थत्वाद् ग्रन्थो ऽप्य् उपनिषत् ” ।      
 (*Śaṁkara's* introduction to his Bhāṣya on the Taittirīyopaniṣad.)
 
 VII. It will be seen from page XVI of the introduction to the Tarka-saṁgraha, Gaekwad's Oriental Series No III, that some scholars, like my friend, the late Mr. T. M. Tripāṭhī, are inclined to differentiate the Dramiḍācārya presupposed by Śaṁkara from the Dramiḍācārya presupposed by Rāmānuja and to identify the latter with the great Śrī Vaiṣṇava saint Nammāḻvār otherwise known as Śaṭhagopa. There are, however, two conclusive evidences which would show that Śaṁkara's Dramiḍa and Rāmānuja's Dramiḍa should be held to be identical and that Dramiḍa cannot be equated with Nammāḻvar. The sub-joined extracts from the third chapter of Sarvajñātmamuni's Saṁkṣepa-Śārīraka may be perused here with advantage :—
 
-“ आत्रेयवाक्यमपि संव्यवहारमात्रं कार्यं समस्तमिति नः कथयां बभूव ।
-सत्कार्यवादविषयो न हि दोषराशिर्मायामये भवितुमुत्सहते विरोधात् ॥
+> “ आत्रेयवाक्यम् अपि संव्यवहारमात्रं  
+कार्यं समस्तम् इति नः कथयां बभूव ।  
+सत्कार्य-वाद-विषयो न हि दोष-राशिर्  
+मायामये भवितुमुत्सहते विरोधात् ॥  
 Chap. III, 217.
 
-काणाददर्शनसमाश्रयदोषराशि दूरीनिरस्त इह संव्यवहारमात्रे ।
-वेदान्तभूमिकुशलो [[मुनिरब्रवंश्यस्तेनाह|मुनिरत्रिवंश्यस्तेनाह]] कार्यमिह संव्यवहारदृष्टया ॥
+> काणाद-दर्शन-समाश्रय-दोष-राशि  
+दूरान् निरस्त इह संव्यवहारमात्रे ।
+वेदान्तभूमि-कुशलो मुनिर् अत्रिवंश्यस्  
+तेनाह कार्यम् इह संव्यवहार-दृष्टया ॥
 *Ibid*, 218.
 
-षष्ठप्रपाठकनिबद्धमुदीरितं यत् तत्सत्यमेव खलु सत्यसमाश्रयत्वात् ।
+> षष्ठप्रपाठकनिबद्धमुदीरितं यत् तत्सत्यमेव खलु सत्यसमाश्रयत्वात् ।  
 अत्रैव यत्पुनरुवाच समुद्रफेनदृष्टान्तपूर्वकमदो व्यवहारदृष्ट्या ॥
 *Ibid*, 219.
 
-पूर्वं विकारमुपवर्ण्य शनैःशनैस्तद्दृष्टिं विसृज्य निकटं परिगृह्य तस्मात् ।
+पूर्वं विकारमुपवर्ण्य शनैःशनैस्तद्दृष्टिं विसृज्य निकटं परिगृह्य तस्मात् ।  
 सर्वं विकारमथ संव्यवहारमात्रमद्वैतमेव परिरक्षति वाक्यकारः ॥
 *Ibid*, 220.
 
-अन्तर्गुणा भगवती परदेवतेति प्रत्यग्गुणेति भगवानपि भाष्यकारः ।
+अन्तर्गुणा भगवती परदेवतेति प्रत्यग्गुणेति भगवानपि भाष्यकारः ।  
 आह स्म यत्तदिह निर्गुणवस्तुवादे संगच्छते न तु पुनः सगुणप्रवादे ॥ ”
 *Ibid*, 221.
 
 [[P472]]
-VIII. In the commentaries published in the Poona Ānandāśrama edition of the Saṁkṣepa-Śārīraka and in Nṛsiṁhāśramin's commentary on this work, available in manuscript, the Vākyakāra referred to by Sarvajñātman as Ātreya is identified with Brahmanandin, and the Bhāṣyakāra, in verse 221 quoted above, is taken to be Dramiḍācārya, the author of a lengthy Bhāṣya on the Chāndogyopaniṣad-vārtika consisting perhaps of the aphoristic vākyas of Brahmanandin, otherwise known, in the Viśiṣṭādvaita tradition, as Ṭaṅka, the Vakyakāra. The last of the verses quoted above (221) requires particular attention, in this connection, as it is discovered to incorporate in the first pāda, an important part of the quotation from Dramiḍācārya's Bhāṣya, which is set forth above as occurring at page 138 of Rāmānuja's Vedārtha-Saṁgraha, Paṇḍit edition, Benares. Sarvajñātman was Surēśvarācārya's disciple and contemporary, as may be made out from the eighth and penultimate verses of the Saṁkṣepaśārīraka; and Sureśvara was one of Śaṁkara's (788—820 A.D.) disciples. If, as the late Mr. T. A. Gopinātha Rao says at page 21 of his history of Śrī-Vaiṣṇavas, published by the Madras University in 1923 at the Government Press, Madras, the first half of the ninth century A.D. is the time when Nammāḻvar lived and wrote his memorable Tiruvāymoḻi, Dramiḍācārya, the author of the old Bhāṣya on Brahmanandin's Vākyas and the Chāndogyopaniṣad, presupposed by Rāmānuja, Sarvajñātmamuni and Śaṁkara, must, for obvious reasons, be held to be different from Nammāḻvār.
+VIII. In the commentaries published in the Poona Ānandāśrama edition of the Saṁkṣepa-Śārīraka and in Nṛsiṁhāśramin's commentary on this work, available in manuscript, the Vākyakāra referred to by Sarvajñātman as Ātreya is identified with Brahmanandin, and the Bhāṣyakāra, in verse 221 quoted above, is taken to be Dramiḍācārya, the author of a lengthy Bhāṣya on the Chāndogyopaniṣad-vārtika consisting perhaps of the aphoristic vākyas of Brahmanandin, otherwise known, in the Viśiṣṭādvaita tradition, as Ṭaṅka, the Vakyakāra. 
 
-IX. A critical investigation of the hagiographic accounts of the Āḻvārs and Ācāryas in the literature of Śrī-Vaiṣṇava-Sampradāya, like the Guruparamparāprabhāva by Pinbalahiya-perumāl-jīyar, has led historians of Śrī-Vaiṣṇavism to the conclusion that Tirumaḻiśai-Āḻwār, who produced the Tiruccanta-Viruttam and the Nān-mukan-Tiruvantāti and was contemporaneous with the three Muta-lāḻvārs, was born in Toṇḍaimaṇḍalam and flourished there during the period of Pallava supremacy; and that he might, with good reasons, be assigned to the first quarter of the 8th century A.D (See the late Mr. T. A. Gopinath Rao's history of Śrī-Vaiṣṇavas already referred to—pages 16 and 17). A careful examination of all the details relating to Tirumaḻiśai Āḻvār in the Śrī-Vaiṣṇava Sampradāya literature, in comparison with the material gathered by me about Dramiḍācārya, also known as Draviḍa, from Vedāntic literature in Sanskrit, has revealed to me three striking correspondences between Tirumaḻiśai and Dramiḍa—(1) a biographic correspondence (2) a textual correspondence, and (3) a phonetic correspondence.
 
-X. In the traditional accounts of Śrīvaiṣṇavas, it is stated that Tirumaḻiśai was born as the son of the sage Bhārgava, and afterwards became the foster-son of Tiruvaḻan, a Śūdra. After critically studying all [[P473]]the systems of philosophy, Tiruvaḻan's foster-son found complete satisfaction in Vaiṣṇavism. A reference to the Tirumaḻiśaippirān-vaibhavam in Pinbalahiya-perumāl-Jīyar's Guruparamparā and Periyavāccānpillai's introduction to his commentary on Tirumaḻiśai's Tiruccantaviruttam would show how Tirumaḻiśai was born of a sage, and thrown into the slums by adverse fate and reclaimed later by some great Ācārya. There is an interesting parallelism between this aspect of Tirumaḻiśai's life and an illustrative story which is known in the Vedānta-literature in Sanskrit as व्याधसंवर्धितराजपुत्राख्यायिका and which is found narrated *in extenso*, in verses 506 to 527 at pages 970 to 972, in part II, Sureśvara's Bṛhadāraṇyakabhāṣyavārtika (Poona edition) and at pages 152 to 154 in Haradatta's Ujjvalā on Āpastamba's Dharma Sūtras, Mysore Government Oriental Library edition. Ānandagiri, in his commentary on verse 506 of the Sureśvara-vārtika above referred to, definitely attributes the authorship of the व्याधसंवर्धितराजपुत्राख्यायिका to Dramiḍācārya. Would it require any great strain on imagination to see that, if Dramiḍācārya and Tirumaḻiśai Āḻvār should be identical, the *ākhyāyikā* in question could easily be taken to strike an autobiographical note ?
+### Not nammALvAr
+The last of the verses quoted above (221) requires particular attention, in this connection, as it is discovered to incorporate in the first pāda, an important part of the quotation from Dramiḍācārya's Bhāṣya, which is set forth above as occurring at page 138 of Rāmānuja's Vedārtha-Saṁgraha, Paṇḍit edition, Benares.  
+Sarvajñātman was Surēśvarācārya's disciple and contemporary, as may be made out from the eighth and penultimate verses of the Saṁkṣepaśārīraka; and Sureśvara was one of Śaṁkara's (788—820 A.D.) disciples. If, as the late Mr. T. A. Gopinātha Rao says at page 21 of his history of Śrī-Vaiṣṇavas, published by the Madras University in 1923 at the Government Press, Madras, the first half of the ninth century A.D. is the time when Nammāḻvar lived and wrote his memorable Tiruvāymoḻi, Dramiḍācārya, the author of the old Bhāṣya on Brahmanandin's Vākyas and the Chāndogyopaniṣad, presupposed by Rāmānuja, Sarvajñātmamuni and Śaṁkara, must, for obvious reasons, be held to be different from Nammāḻvār.
+
+### Tirumaḻiśai
+IX. A critical investigation of the hagiographic accounts of the Āḻvārs and Ācāryas in the literature of Śrī-Vaiṣṇava-Sampradāya, like the Guruparamparāprabhāva by Pinbalahiya-perumāl-jīyar, has led historians of Śrī-Vaiṣṇavism to the conclusion that Tirumaḻiśai-Āḻwār, who produced the Tiruccanta-Viruttam and the Nān-mukan-Tiruvantāti and was contemporaneous with the three Mudalāḻvārs, was born in Toṇḍaimaṇḍalam and flourished there during the period of Pallava supremacy; and that he might, with good reasons, be assigned to the first quarter of the 8th century A.D (See the late Mr. T. A. Gopinath Rao's history of Śrī-Vaiṣṇavas already referred to—pages 16 and 17). 
+
+A careful examination of all the details relating to Tirumaḻiśai Āḻvār in the Śrī-Vaiṣṇava Sampradāya literature, in comparison with the material gathered by me about Dramiḍācārya, also known as Draviḍa, from Vedāntic literature in Sanskrit, has revealed to me three striking correspondences between Tirumaḻiśai and Dramiḍa—
+
+(1) a biographic correspondence  
+(2) a textual correspondence, and  
+(3) a phonetic correspondence.
+
+X. In the traditional accounts of Śrīvaiṣṇavas, it is stated that Tirumaḻiśai was born as the son of the sage Bhārgava, and afterwards became the foster-son of Tiruvaḻan, a Śūdra. After critically studying all [[P473]]the systems of philosophy, Tiruvaḻan's foster-son found complete satisfaction in Vaiṣṇavism. A reference to the Tirumaḻiśaippirān-vaibhavam in Pinbalahiya-perumāl-Jīyar's Guruparamparā and Periyavāccānpillai's introduction to his commentary on Tirumaḻiśai's Tiruccantaviruttam would show how Tirumaḻiśai was born of a sage, and thrown into the slums by adverse fate and reclaimed later by some great Ācārya. 
+
+There is an interesting parallelism between this aspect of Tirumaḻiśai's life and an illustrative story which is known in the Vedānta-literature in Sanskrit as व्याध-संवर्धित-राजपुत्राख्यायिका and which is found narrated *in extenso*, in verses 506 to 527 at pages 970 to 972, in part II, Sureśvara's Bṛhadāraṇyakabhāṣyavārtika (Poona edition) and at pages 152 to 154 in Haradatta's Ujjvalā on Āpastamba's Dharma Sūtras, Mysore Government Oriental Library edition. Ānandagiri, in his commentary on verse 506 of the Sureśvara-vārtika above referred to, definitely attributes the authorship of the व्याधसंवर्धितराजपुत्राख्यायिका to Dramiḍācārya.+++(5)+++ Would it require any great strain on imagination to see that, if Dramiḍācārya and Tirumaḻiśai Āḻvār should be identical, the *ākhyāyikā* in question could easily be taken to strike an autobiographical note ?
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+K theorizes that dramiDAchArya was tirumaLisai. but why would a baudhAyana be named bhArgava? Was bodhAyana one?
+</details>
+
 
 XI. The textual correspondence is such as might well support the suggestion that Dramiḍācārya should be identified with Tirumaḻiśai. At page 75, Part II of the Madras Ānanda Press edition of the Śrī-Bhāṣya, Rāmānuja gives from Dramiḍa-Bhāṣya the extract :—फलसंबिभत्सया हि कर्मभिरात्मानं पिप्रीषन्ति, स प्रीतोऽलं फलायेति शास्त्रमर्यादा ”
 
