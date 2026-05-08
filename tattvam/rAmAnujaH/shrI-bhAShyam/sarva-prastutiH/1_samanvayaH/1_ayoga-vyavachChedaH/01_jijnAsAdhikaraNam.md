@@ -5636,7 +5636,7 @@ This the Sūtrakāra declares in Ve. Sū. IV, 1, 12; 16; III, 4, 33, and other p
 
 
 
-##### साधनसप्तकनिष्पाद्यत्वम्
+##### साधन-सप्तक-निष्पाद्यत्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5647,18 +5647,425 @@ This the Sūtrakāra declares in Ve. Sū. IV, 1, 12; 16; III, 4, 33, and other p
 इति । 
 </details>
 
+<details><summary>English</summary>
+
+The Vākyakāra also declares that steady remembrance results only from abstention, and so on; his words being 
+
+> 'This (viz. steady remembrance= meditation) is obtained through abstention (viveka), freeness of mind (vimoka), repetition (abhyāsa), works (kriyā), virtuous conduct (kalyāṇa), freedom from dejection (anavasāda), absence of exultation (anuddharsha); according to feasibility and scriptural statement.' 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 वाक्यकारश्च ध्रुवानुस्मृतेर्विवेकादिभ्य एव निष्पत्तिमाह – तल्लब्घिर्विवेकविमोकाभ्यास-क्रियाकल्याणानवसादानुद्धर्षेभ्यः संभवान्निर्वचनाच्च (ब्र.न.वा) इति । 
 </details>
 
+###### विवेकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विवेकादीनां स्वरूपं चाह – 
+
+> जात्य्-आश्रय-निमित्तादुष्टाद् अन्नात् काय-शुद्धिर् विवेकः (ब्र.न.वा) 
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+The Vākyakāra also gives definitions of all these terms.  
+
+> Abstention (viveka) means keeping the body clean from all food, impure either owing to species (such as the flesh of certain animals), or abode (such as food belonging to a Cāṇḍāla or the like), or accidental cause (such as food into which a hair or the like has fallen). 
+</details>
 
 
-विवेकादीनां स्वरूपं चाह – जात्याश्रयनिमित्तादुष्टादन्नात् कायशुद्धिर्विवेकः (ब्र.न.वा) इति । अत्र निर्वचनम् – आहारशुद्धौ सत्त्वशुद्धिस्सत्त्वशुद्धौ ध्रुवा स्मृतिः (छां.७.२६.२) इति । विमोकः कामानभिष्वङ्गः (ब्र.न.वा) इति। शान्त उपासीत (छा.३.१४.१) इति निर्वचनम्। आरम्भणसंशीलनं पुनःपुनरभ्यासः (ब्र.न.वा) इति । निर्वचनं च स्मार्तमुदाहृतं भाष्यकारेण – सदा तद्भावभावितः (भ.गी.८.६) इति। पञ्चमहायज्ञाद्य-नुष्ठानं शक्तितः क्रिया (ब्र.न.वा) । निर्वचनं क्रियावानेष ब्रह्मविदां वरिष्ठः (मु.३.१.४) तमेतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन तपसाऽनाशकेन (बृ.६.४.२२.) इति च । सत्यार्जवदयादानाहिंसानभिध्याः कल्याणानि (ब्र.न.वा) इति । निर्वचनं सत्येन लभ्यः (मु.३.१.५) तेषामेवैष विरजो ब्रह्मलोकः (प्र.१.१५.१६) इत्यादि । देशकालवैगुण्यात् शोकवस्त्वाद्यनुस्मृतेश्च तज्जं दैन्यमभास्वरत्वं मनसोऽवसादः (ब्र.न.वा) इति, तद्विपर्ययो अनवसादः (ब्र.न.वा)। निर्वचनं नायमात्मा बलहीनेन लभ्यः (मु.उ.३.४) इति । तद्विपर्ययजा तुष्टिरुद्धर्षः (ब्र.न.वा) इति। तद्विपर्ययोऽनुद्धर्षः (ब्र.न.वा) । अतिसन्तोषश्च विरोधीत्यर्थः। निर्वर्चनमपि – शान्तो दान्तःा(बृ.६.४.२३) इति।
+<details><summary>मूलम्</summary>
 
-## विद्यानिष्पत्तेः आश्रमकर्माविनाभाविता
+विवेकादीनां स्वरूपं चाह – जात्याश्रयनिमित्तादुष्टादन्नात् कायशुद्धिर्विवेकः (ब्र.न.वा) इति । 
+</details>
 
-एवं नियमयुक्तस्याऽश्रमविहितकर्मानुष्ठानेनैव विद्यानिष्पत्तिरित्युक्तं भवति॥ तथा च श्रुत्यन्तरम् – विद्यां चाविद्यां च यस्तद्वेदोभयं सह। अविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते॥ (ई.११) अत्राविद्याशब्दाभिहितं वर्णाश्रमविहितं कर्म । अविद्यया – कर्मणा, मृत्युं – ज्ञानोत्पत्तिविरोधि प्राचीनं कर्म, तीर्त्वा – अपोह्य, विद्यया – ज्ञानेन, अमृतं – ब्रह्म। अश्नुते – प्राप्नोतीत्यर्थः। मृत्युतरणोपायतया प्रतीता अविद्या विद्येतरद्विहितं कर्मैव, यथोक्तम् – इयाज सोऽपि सुबहून् यज्ञान् ज्ञानव्यपाश्रयः। ब्रह्मविद्यामधिष्ठाय तर्तुं मृत्युमविद्यया॥ इति॥ (वि.पु.६.६.१२)
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र निर्वचनम् – 
+
+> आहार-शुद्धौ सत्त्व-शुद्धिस्  
+सत्त्व-शुद्धौ ध्रुवा स्मृतिः  
+(छां.७.२६.२) 
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+The scriptural passage authorising this point is _Kh._ Up. VII, 26, 'The food being pure, the mind becomes pure; the mind being pure, there results steady remembrance.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र निर्वचनम् – आहारशुद्धौ सत्त्वशुद्धिस्सत्त्वशुद्धौ ध्रुवा स्मृतिः (छां.७.२६.२) इति । 
+</details>
+
+###### विमोकः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विमोकः कामानभिष्वङ्गः (ब्र.न.वा) इति। 
+</details>
+
+<details><summary>English</summary>
+
+Freeness of mind (vimoka) means absence of attachment to desires. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विमोकः कामानभिष्वङ्गः (ब्र.न.वा) इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> शान्त उपासीत (छा.३.१४.१) 
+
+इति निर्वचनम्। 
+</details>
+
+<details><summary>English</summary>
+
+The authoritative passage here is 'Let him meditate with a calm mind' (_Kh._ Up. III, 14, 1). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शान्त उपासीत (छा.३.१४.१) इति निर्वचनम्। 
+</details>
+
+###### अभ्यासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आरम्भण-संशीलनं पुनः पुनर् अभ्यासः (ब्र.न.वा) 
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+Repetition means continued practice. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आरम्भणसंशीलनं पुनःपुनरभ्यासः (ब्र.न.वा) इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्वचनं च स्मार्तम् उदाहृतं भाष्यकारेण – 
+
+> सदा तद्-भाव-भावितः (भ.गी.८.६) 
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+For this point the Bhāshya-kāra quotes an authoritative text from Smr̥ti, viz.: 'Having constantly been absorbed in the thought of that being' (sadā tadbhāvabhāvitaḥ; Bha. Gī.VIII, 6).
+</details>
+
+<details><summary>मूलम्</summary>
+
+निर्वचनं च स्मार्तमुदाहृतं भाष्यकारेण – सदा तद्भावभावितः (भ.गी.८.६) इति। 
+</details>
+
+###### क्रिया
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पञ्च-महा-यज्ञाद्य्-अनुष्ठानं शक्तितः क्रिया (ब्र.न.वा) । 
+</details>
+
+<details><summary>English</summary>
+
+--By 'works' (kriyā) is understood the performance, according to one's ability, of the five great sacrifices. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पञ्चमहायज्ञाद्यनुष्ठानं शक्तितः क्रिया (ब्र.न.वा) । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्वचनं 
+
+> क्रियावान् एष ब्रह्म-विदां वरिष्ठः (मु.३.१.४) 
+</details>
+
+<details><summary>English</summary>
+
+The authoritative passages here are 'This person who performs works is the best of those who know Brahman' (Mu. Up. III, 1, 4); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+निर्वचनं क्रियावानेष ब्रह्मविदां वरिष्ठः (मु.३.१.४) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तम् एतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति  
+यज्ञेन दानेन तपसा ऽनाशकेन (बृ.६.४.२२.) 
+
+इति च । 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> 'Him Brāhmaṇas seek to know by recitation of the Veda, by sacrifice, by gifts, by penance, by fasting' (Br̥. Up. IV, 4, 22).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तमेतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन तपसाऽनाशकेन (बृ.६.४.२२.) इति च । 
+</details>
+
+###### कल्याणानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सत्यार्जव-दया-दानाहिंसानभिध्याः कल्याणानि (ब्र.न.वा) इति । 
+</details>
+
+<details><summary>English</summary>
+
+--By virtuous conduct (kalyāṇāni) are meant truthfulness, honesty, kindness, liberality, gentleness, absence of covetousness. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्यार्जवदयादानाहिंसानभिध्याः कल्याणानि (ब्र.न.वा) इति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्वचनं 
+
+> सत्येन लभ्यः (मु.३.१.५) 
+</details>
+
+<details><summary>English</summary>
+
+Confirmatory texts are 'By truth he is to be obtained' (Mu. Up. III, 1, 5) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निर्वचनं सत्येन लभ्यः (मु.३.१.५) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तेषाम् एवैष विरजो ब्रह्म-लोकः (प्र.१.१५.१६) 
+
+इत्यादि । 
+</details>
+
+<details><summary>English</summary>
+
+and 'to them belongs that pure Brahman-world' (Pr. Up. I, 16).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेषामेवैष विरजो ब्रह्मलोकः (प्र.१.१५.१६) इत्यादि । 
+</details>
+
+###### अनवसादः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> देश-काल-वैगुण्यात् शोक-वस्त्व्-आद्य्-अनुस्मृतेश् च  
+तज्-जं दैन्यम् अ-भास्वरत्वं मनसो ऽवसादः (ब्र.न.वा) 
+
+इति,  
+
+> तद्-विपर्ययो अनवसादः (ब्र.न.वा)। 
+</details>
+
+<details><summary>English</summary>
+
+--That lowness of spirit or want of cheerfulness which results from unfavourable conditions of place or time and the remembrance of causes of sorrow, is denoted by the term 'dejection'; the contrary of this is 'freedom from dejection.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देशकालवैगुण्यात् शोकवस्त्वाद्यनुस्मृतेश्च तज्जं दैन्यमभास्वरत्वं मनसोऽवसादः (ब्र.न.वा) इति, तद्विपर्ययो अनवसादः (ब्र.न.वा)। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्वचनं 
+
+> नायम् आत्मा बल-हीनेन लभ्यः (मु.उ.३.४) +++(5)+++
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+The relevant scriptural passage is 'This Self cannot be obtained by one lacking in strength' (Mu. Up. III, 2, 4).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निर्वचनं नायमात्मा बलहीनेन लभ्यः (मु.उ.३.४) इति । 
+</details>
+
+
+###### अनुद्धर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तद्-विपर्यय-जा तुष्टिर् उद्धर्षः (ब्र.न.वा) 
+
+इति। 
+
+> तद्-विपर्ययो ऽनुद्धर्षः (ब्र.न.वा) । 
+</details>
+
+<details><summary>English</summary>
+
+'Exultation' is that satisfaction of mind which springs from circumstances opposite to those just mentioned; the contrary is 'absence of exultation.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद्विपर्ययजा तुष्टिरुद्धर्षः (ब्र.न.वा) इति। तद्विपर्ययोऽनुद्धर्षः (ब्र.न.वा) । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतिसन्तोषश् च विरोधीत्यर्थः। 
+</details>
+
+<details><summary>English</summary>
+
+Overgreat satisfaction also stands in the way (of meditation). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतिसन्तोषश्च विरोधीत्यर्थः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्वर्चनमपि – शान्तो दान्तः(बृ.६.४.२३) इति।
+</details>
+
+<details><summary>English</summary>
+
+The scriptural passage for this is 'Calm, subdued,' &c. (Br̥. Up. IV, 4, 23).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निर्वर्चनमपि – शान्तो दान्तः(बृ.६.४.२३) इति।
+</details>
+
+
+##### आश्रमकर्मापेक्षा
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं नियम-युक्तस्य  
+आश्रम-विहित-कर्मानुष्ठानेनैव  
+विद्या-निष्पत्तिर् इत्य् उक्तं भवति॥ 
+</details>
+
+<details><summary>English</summary>
+
+--What the Vākyakāra means to say is therefore that knowledge is realised only through the performance of the duly prescribed works, on the part of a person fulfilling all the enumerated conditions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं नियमयुक्तस्याऽश्रमविहितकर्मानुष्ठानेनैव विद्यानिष्पत्तिरित्युक्तं भवति॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च श्रुत्यन्तरम् – 
+
+> विद्यां चाविद्यां च  
+यस् तद् वेदोभयं सह।  
+अ-विद्यया +++(कर्मणा)+++ मृत्युं तीर्त्वा  
+विद्यया ऽमृतम् अश्नुते॥  
+(ई.११) 
+</details>
+
+<details><summary>English</summary>
+
+Analogously another scriptural passage says 'He who knows both knowledge and non-knowledge together, overcoming death by non-knowledge reaches the Immortal through knowledge' (Īs. Up. II). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च श्रुत्यन्तरम् – विद्यां चाविद्यां च यस्तद्वेदोभयं सह। अविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते॥ (ई.११) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्राविद्या-शब्दाभिहितं वर्णाश्रम-विहितं कर्म । 
+</details>
+
+<details><summary>English</summary>
+
+Here the term 'non-knowledge' denotes the works enjoined on the different castes and āśramas; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्राविद्याशब्दाभिहितं वर्णाश्रमविहितं कर्म । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अविद्यया – कर्मणा, मृत्युं – ज्ञानोत्पत्ति-विरोधि प्राचीनं कर्म, तीर्त्वा – अपोह्य, विद्यया – ज्ञानेन, अमृतं – ब्रह्म। अश्नुते – प्राप्नोतीत्यर्थः। 
+</details>
+
+<details><summary>English</summary>
+
+and the meaning of the text is that, having discarded by such works death, i.e. the previous works antagonistic to the origination of knowledge, a man reaches the Immortal, i.e. Brahman, through knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अविद्यया – कर्मणा, मृत्युं – ज्ञानोत्पत्तिविरोधि प्राचीनं कर्म, तीर्त्वा – अपोह्य, विद्यया – ज्ञानेन, अमृतं – ब्रह्म। अश्नुते – प्राप्नोतीत्यर्थः। 
+</details>
+
+
+मृत्युतरणोपायतया प्रतीता अविद्या विद्येतरद्विहितं कर्मैव, यथोक्तम् – इयाज सोऽपि सुबहून् यज्ञान् ज्ञानव्यपाश्रयः। ब्रह्मविद्यामधिष्ठाय तर्तुं मृत्युमविद्यया॥ इति॥ (वि.पु.६.६.१२)
 
 ज्ञानविरोधि च कर्म पुण्यपापरूपम् । ब्रह्मज्ञानोत्पत्तिविरोधित्वेनानिष्टफलतया उभयोरपि पापशब्दाभिधेयत्वम् । अस्य च ज्ञानविरोधित्वं ज्ञानोत्पत्तिहेतुभूतशुद्धसत्त्वविरोधि-रजस्तमोविवृद्धिद्वारेण। पापस्य च ज्ञानोदयविरोधित्वम् – एष एवासाधु कर्मकारयति तं यमधो निनीषति – (कौ.३.६) इति श्रुत्यावगम्यते।
 
