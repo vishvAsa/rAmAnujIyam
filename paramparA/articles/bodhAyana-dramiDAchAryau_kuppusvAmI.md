@@ -132,29 +132,34 @@ IV. Yāmunācārya, the spiritual ancestor and Prācārya of Rāmānuja refers, 
 
 V. Rāmānuja refers to Dramiḍācārya in several places in his Vedārtha-saṁgraha and Śrī-Bhāṣya, as the following extracts will show :
 
-१. “ तत्त्वमसीतिसद्विद्यायामुपास्यं ब्रह्म सगुणं सगुणब्रह्मप्राप्तिश्च फलमित्यभियुक्तैः पूर्वाचार्यैर्व्याख्यातम् । यथोक्तं वाक्यकारेण—‘ युक्तं तद्गुणकोपासनात् ’ इति ; व्याख्यातं च द्रमिडाचार्येण विद्याविकल्पं वदता—‘ यद्यपि सच्चित्तो न निर्भुग्नदैवतं गुणगणं मनसानुधावेत् तथाप्यन्तर्गुणामेव देवतां भजते ’—इति ।
+> १. “ "तत् त्वम् असी"तिसद्विद्यायामुपास्यं ब्रह्म सगुणं सगुणब्रह्मप्राप्तिश्च फलमित्यभियुक्तैः पूर्वाचार्यैर्व्याख्यातम् । यथोक्तं वाक्यकारेण— ‘ युक्तं तद्गुणकोपासनात् ’ इति ; व्याख्यातं च द्रमिडाचार्येण विद्याविकल्पं वदता—‘ यद्यपि सच्चित्तो न निर्भुग्नदैवतं गुणगणं मनसानुधावेत् तथाप्यन्तर्गुणामेव देवतां भजते ’—इति ।
 (Vedārtha-Saṁgraha) Paṇḍit edition, Benares, page 138.
 
-२. भगवद्बोधायन-टङ्क-द्रमिड-गुहदेव-कपर्दि-भारुचि-प्रभृत्यविगीतशिष्टपरिगृहीतपुरातनवेदवेदान्तव्याख्यान[[सुव्यक्ताशंयतिकरनिदर्शितोऽयं|सुव्यक्तार्थश्रुतिनिकरनिदर्शितोऽयं]] पन्थाः ।
+> २. भगवद्बोधायन-टङ्क-द्रमिड-- गुहदेव-कपर्दि-भारुचि-प्रभृत्य्- अविगीत-शिष्ट-परिगृहीत- पुरातन-वेद-वेदान्त-व्याख्यान- सुव्यक्तार्थ-श्रुति-निकर-निदर्शितोऽयं पन्थाः ।
 (*Ibid* page 148).
 
 [[P469]]
-* N.B.—Here the Tātparya-dīpikā of Sudarśanasūri says that Ṭaṅka is Brahmanandin;— टङ्को ब्रह्मनन्दी (*Ibid* Tātparyadīpikā p. 148).
 
-* ३. वाक्यकारश्च ध्रुवानुस्मृतेर्विवेकादिभ्य एव निष्पत्तिमाह—“ तल्लब्धिविवेकाविमोकाभ्यासक्रियाकल्याणानवसादानुद्धर्षेभ्यस्संभवान्निर्वचनाच्च ”—इति । विवेकादीनां स्वरूपं चाह—“ जात्याश्रयनिमित्तादुष्टादन्नात् कायशुद्धिर्विवेकः ” इति । अत्र निर्वचनम्—आहारशुद्धौ सत्त्वशुद्धिः, सत्त्वशुद्धौ ध्रुवा स्मृतिः ” इति । * * * “ तद्विपर्ययजा तुष्टिरुद्धर्षः ” इति । निर्वचनमपि—“ शान्तो दान्तः ” इति ।]
+\* N.B.—Here the Tātparya-dīpikā of Sudarśanasūri says that Ṭaṅka is Brahmanandin;— टङ्को ब्रह्मनन्दी (*Ibid* Tātparyadīpikā p. 148).
+
+> \* ३. वाक्यकारश् च ध्रुवानुस्मृतेर् विवेकादिभ्य एव निष्पत्तिमाह—“ तल्लब्धिविवेकाविमोकाभ्यासक्रियाकल्याणानवसादानुद्धर्षेभ्यस्संभवान्निर्वचनाच्च ”—इति । विवेकादीनां स्वरूपं चाह—“ जात्याश्रयनिमित्तादुष्टादन्नात् कायशुद्धिर्विवेकः ” इति । अत्र निर्वचनम्—आहारशुद्धौ सत्त्वशुद्धिः, सत्त्वशुद्धौ ध्रुवा स्मृतिः ” इति । * * * “ तद्विपर्ययजा तुष्टिरुद्धर्षः ” इति । निर्वचनमपि—“ शान्तो दान्तः ” इति ।  
 Madras Ānanda Press edition of the Śrī-Bhāṣya Vol. I, pages 11 and 12.
 
-४. [द्रमिडभाष्यकारश्च—“ [[देवतात्वत्स्वार्थसिद्धिरस्यात|देवतावत्सर्वार्थसिद्धिस्यात्]] ” इत्याह । ]
+> ४. द्रमिडभाष्यकारश्च—“ देवतावत्सर्वार्थसिद्धिस् स्यात् ” इत्याह । ]
 (*Ibid* Vol. I, page 70.
 
-५.[यथाहद्रमिडभाष्यकारः—“ यथा लोके राजा प्रचुरदन्दशूके घोरेऽनर्थसङ्कटेऽपि प्रदेशे वर्तमानो व्यजनाद्यवधूतदेहो दोषैर्न स्पृश्यते, अभिप्रेतांश्चलोकान् परिपालयति, भोगांश्च गन्धादीन् विश्वजनोपभोग्यान् धारयति ; तथासौ लोकेश्वरः भ्रमत्स्वसामर्थ्यचामरो दोषैर्नस्पृश्यते, रक्षति च लोकान् ब्रह्मलोकादीन् , भोगांश्चाविश्वजनोपभोग्यान् धारयति ” । ]
+> ५.[यथाह द्रमिड-भाष्यकारः—  
+> “ यथा लोके राजा प्रचुरदन्दशूके घोरेऽनर्थसङ्कटेऽपि प्रदेशे वर्तमानो व्यजनाद्यवधूतदेहो दोषैर्न स्पृश्यते, अभिप्रेतांश्चलोकान् परिपालयति, भोगांश्च गन्धादीन् विश्वजनोपभोग्यान् धारयति ; तथासौ लोकेश्वरः भ्रमत्स्वसामर्थ्यचामरो दोषैर्नस्पृश्यते, रक्षति च लोकान् ब्रह्मलोकादीन् , भोगांश्चाविश्वजनोपभोग्यान् धारयति ” । ]
 (*Ibid*. Vol. II, page 23.)
 
-६. तथाह द्रमिडाचार्यः—“ फलसंबिभत्सयाहि कर्मभिरात्मानं पिप्रीषन्ति स प्रीतोऽलं फलायेति शास्त्रमर्यादा ” इति ।
+> ६. तथाह द्रमिडाचार्यः—“ फलसंबिभत्सयाहि कर्मभिरात्मानं पिप्रीषन्ति स प्रीतोऽलं फलायेति शास्त्रमर्यादा ” इति ।
 (*Ibid*. Vol. II, page 75.)
 
-From the foregoing extracts it may be made out that Dramiḍācārya wrote a Bhāṣya on the Chāndogya and perhaps also on certain other Upaniṣads and that he also commented on the text of the aphoristic Vākyas of the Vākya-kāra, otherwise known, according to the Viśiṣṭādvaita tradition, by the names of Brahmanandin and Ṭaṅka. Vedānta-Deśika also refers to Dramiḍācārya in the following places in Part I of his Tattva-ṭīkā :—Page 7, lines 8 to 10 (The Sudarśana Press, Telugu edition of the Tattvaṭīkā-above referred to); Page 34 Vākya and Dramiḍa-Bhāṣya and Vāmanaṭīkā on the latter are referred to *Ibid* ; page 60, lines 1 and 2 *Ibid*; and page 138—“ अत्र भाष्यकारो ब्रह्मनन्दिवाक्यव्याख्याता द्रमिडाचार्यः-*Ibid*.
+From the foregoing extracts it may be made out that Dramiḍācārya wrote a Bhāṣya on the Chāndogya and perhaps also on certain other Upaniṣads and that he also commented on the text of the aphoristic Vākyas of the Vākya-kāra, otherwise known, according to the Viśiṣṭādvaita tradition, by the names of Brahmanandin and Ṭaṅka. 
 
+Vedānta-Deśika also refers to Dramiḍācārya in the following places in Part I of his Tattva-ṭīkā :—Page 7, lines 8 to 10 (The Sudarśana Press, Telugu edition of the Tattvaṭīkā-above referred to); Page 34 Vākya and Dramiḍa-Bhāṣya and Vāmanaṭīkā on the latter are referred to *Ibid* ; page 60, lines 1 and 2 *Ibid*; and page 138—“ अत्र भाष्यकारो ब्रह्मनन्दि-वाक्य-व्याख्याता द्रमिडाचार्यः-*Ibid*.
+
+### शाङ्करे भाष्ये
 [[P470]]
 VI. According to Ānandagiri, Śaṁkarācārya presupposes Dramiḍācārya, the author of a lengthy and learned commentary on the Chāndogyopaniṣad, in his introductory statement at the beginning of his Bhāṣya on the Chāndogya :—
 
@@ -180,9 +185,9 @@ It may be observed here that the names द्रमिडाचार्य and 
 तथा च वाक्यम् “ उपनिषण्णत्वाद्दोपनिषत् ” इति । तत्र द्रमिडभाष्यम्—“ गहने हीयं विद्या संनिविष्टा ” इति । तस्य च वामनटीका—“ गहने ब्रह्माणि उपनिषण्णा ” इति ।
 
 [[P471]]
-* Careful scholars cannot miss the unmistakable echo of the above extract in the following passage from Śaṁkara's Bhāṣya :—
+\* Careful scholars cannot miss the unmistakable echo of the above extract in the following passage from Śaṁkara's Bhāṣya :—
 
-“ उपनिषद्मिति विशोच्यते : तच्छीलिनां गर्भजन्मजरादिनिशातनात् , तदवसादनाद्वा, ब्रह्मणो वोपनिगमयितृत्वात् ; उपनिषण्णं वास्यां परं श्रेय इति । तदर्थत्वाद्ग्रन्थोऽप्युपनिषत् ” ।
+“ उपनिषद्मिति विशोच्यते : तच्छीलिनां गर्भजन्मजरादिनिशातनात् , तदवसादनाद्वा, ब्रह्मणो वोपनिगमयितृत्वात् ; उपनिषण्णं वास्यां परं श्रेय इति । तदर्थत्वाद्ग्रन्थोऽप्युपनिषत् ” ।    
 (*Śaṁkara's* introduction to his Bhāṣya on the Taittirīyopaniṣad.)
 
 VII. It will be seen from page XVI of the introduction to the Tarka-saṁgraha, Gaekwad's Oriental Series No III, that some scholars, like my friend, the late Mr. T. M. Tripāṭhī, are inclined to differentiate the Dramiḍācārya presupposed by Śaṁkara from the Dramiḍācārya presupposed by Rāmānuja and to identify the latter with the great Śrī Vaiṣṇava saint Nammāḻvār otherwise known as Śaṭhagopa. There are, however, two conclusive evidences which would show that Śaṁkara's Dramiḍa and Rāmānuja's Dramiḍa should be held to be identical and that Dramiḍa cannot be equated with Nammāḻvar. The sub-joined extracts from the third chapter of Sarvajñātmamuni's Saṁkṣepa-Śārīraka may be perused here with advantage :—
