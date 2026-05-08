@@ -97,9 +97,37 @@ This is an inferior setup. The pratinidhi-s will have less incentive to locally/
 काञ्ची-पूर्ण इति वैश्य-सिद्धो देव-राज-सेवको ऽप्य् उपाकरोद् रामानुजम्।
 
 ### ब्रह्म-सूत्र-परम्परा
-वेदाः → वेद-व्यासो बादरायणः शारीरक-सूत्र-कृत् → बोधायनो वृत्तिकारः → टङ्को ब्रह्मनन्दी वाक्यकारः → द्रमिडाचार्यो भाष्यकारः। 
+वेदाः → वेद-व्यासो बादरायणः शारीरक-सूत्र-कृत् → बोधायनो वृत्तिकारः (अयम् एव शङ्करोक्तः पूर्वोत्तरमीमांसावृत्तिकार उपवर्ष इति कुप्पुस्वामी, वेङ्कटनाथश् च तत्त्व-टीकायाम्, नेति राममिश्रः। ) 
 
-> The vakyakara of Brahma sutras (Brahmanandi) wrote a bhashya on Chandogya Upanishad and (as far as I know) is called vrittikara in the context of the Chandogya Upanishad. This causes confusion sometimes. - advitIyaH
+छान्दोग्योपनिषदि - टङ्को ब्रह्मनन्दी वाक्यकारः → द्रमिडाचार्यो भाष्यकारः → गुहदेवष् टीकाकारः। 
+
+In the context of Brahma sutras Vrittikara = Bodhayana, Vakyakara = Tanka/Brahmanandi, Bhashyakara = Dramidacharya, Tikakara = Guhadeva
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Uttamur swami’s words, in the context of explaining chandogya passage of Kapyasa sruti - 
+
+> एतद्-अनुसारेणैव प्रवृत्तायां श्रुत-प्रकाशिकायां  
+> वेदार्थ-संग्रह-तात्पर्य-दीपिकायाञ् चोक्तम्,  
+> 
+> > 'वाक्यकारेण कप्यासपदस्य षढर्था उक्ताः' इति । 
+> 
+> वाक्यं नाम ब्रह्म-नन्दि-कृतं छान्दोग्योपनिषद्-व्याख्यानम् ।  
+> तद्व्याख्या द्रमिडभाष्यम् ।  
+> 
+> क्वचित् षण्णाम् अर्थनां द्रमिड-भाष्योक्तत्वेन निर्देशः  
+> वाक्योक्तस्य तत्र विशदम् अवगम्यमानत्वाद्  
+> इति ध्येयम् । 
+> 
+> अत्र व्याख्ययोर् वृत्तिकारोक्तत्वेन निर्देशे  
+> वृत्ति-पदेन वाक्यम् एव ग्राह्यम् ।  
+> वृत्तिर् इति प्रसिद्धं व्याख्यानं तु  
+> बोधायनीयं ब्रह्मसूत्रव्याख्यानम् । नात्र तद्विवक्षा ।  
+> तत्रैतद्-अर्थविचार-सद्भावस्य प्राच्यैर् अनुक्तेः ।
+
+The vakyakara of Brahma sutras (Brahmanandi) wrote a bhashya on Chandogya Upanishad and (as far as I know) is called vrittikara in the context of the Chandogya Upanishad. This causes confusion sometimes.
+</details>
+
 
 ### उत्तराधिकारी
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
