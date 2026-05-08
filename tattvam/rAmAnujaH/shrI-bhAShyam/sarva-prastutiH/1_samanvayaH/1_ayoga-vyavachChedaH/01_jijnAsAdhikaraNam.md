@@ -5990,7 +5990,7 @@ The scriptural passage for this is 'Calm, subdued,' &c. (Br̥. Up. IV, 4, 23).
 </details>
 
 
-##### आश्रमकर्मापेक्षा
+##### आश्रम-कर्मापेक्षा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6064,34 +6064,608 @@ and the meaning of the text is that, having discarded by such works death, i.e. 
 अविद्यया – कर्मणा, मृत्युं – ज्ञानोत्पत्तिविरोधि प्राचीनं कर्म, तीर्त्वा – अपोह्य, विद्यया – ज्ञानेन, अमृतं – ब्रह्म। अश्नुते – प्राप्नोतीत्यर्थः। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मृत्युतरणोपायतया प्रतीता अविद्या विद्येतरद्विहितं कर्मैव, यथोक्तम् – इयाज सोऽपि सुबहून् यज्ञान् ज्ञानव्यपाश्रयः। ब्रह्मविद्यामधिष्ठाय तर्तुं मृत्युमविद्यया॥ इति॥ (वि.पु.६.६.१२)
+मृत्युतरणोपायतया प्रतीता अविद्या विद्येतरद्विहितं कर्मैव, 
+</details>
 
-ज्ञानविरोधि च कर्म पुण्यपापरूपम् । ब्रह्मज्ञानोत्पत्तिविरोधित्वेनानिष्टफलतया उभयोरपि पापशब्दाभिधेयत्वम् । अस्य च ज्ञानविरोधित्वं ज्ञानोत्पत्तिहेतुभूतशुद्धसत्त्वविरोधि-रजस्तमोविवृद्धिद्वारेण। पापस्य च ज्ञानोदयविरोधित्वम् – एष एवासाधु कर्मकारयति तं यमधो निनीषति – (कौ.३.६) इति श्रुत्यावगम्यते।
+<details><summary>English</summary>
 
-## यथार्थज्ञान-तदावरणयोः सत्त्वादिगुणायत्तता
+The non-knowledge of which this passage speaks as being the means of overcoming death can only mean that which is other than knowledge, viz. prescribed works. 
+</details>
 
-रजस्तमसोर्यथार्थज्ञानावरणत्वं, सत्त्वस्य च यथार्थज्ञानहेतुत्वं भगवतैव प्रतिपादितं – सत्त्वात्सञ्जायते ज्ञानम् (भ.गी.१४.१७) इत्यादिना । अतश्च ज्ञानोत्पत्तये पापं कर्म निरसनीयम्। तन्निरसनं च अनभिसंहितफलेनानुष्ठितेन धर्मेण। तथा च श्रुतिः – धर्मेण पापमपनुदति (तै.उ.६.५०) इति।
 
-## कर्ममीमांसायाः ब्रह्ममीमांसापूर्ववृत्तत्वनिगमनम्
+<details><summary>मूलम्</summary>
 
-तदेवं ब्रह्मप्राप्तिसाधनं ज्ञानं सर्वाश्रमकर्मापेक्षम्। अतोऽपेक्षितकर्मस्वरूपज्ञानं, केवलकर्मणामल्पास्थिरफलत्वज्ञानं च कर्ममीमांसावसेयमिति, सैवापेक्षिता ब्रह्मजिज्ञासायाः पूर्ववृत्ता वक्तव्या॥
+मृत्युतरणोपायतया प्रतीता अविद्या विद्येतरद्विहितं कर्मैव, 
+</details>
 
-## साधनचतुष्टयसम्पत्तेः मीमांसाद्वयश्रवणपश्चाद्भावित्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च नित्यानित्यवस्तुविवेकादयश्च, मीमांसाश्रवणमन्तरेण न संपत्स्यन्ते, फलकरण-इतिकर्तव्यताधिकारिविशेषनिश्चयादृते, कर्मस्वरूपतत्फलस्थिरत्वात्मनित्यत्वादीनां दुरवबोधत्वात्। एषां साधनत्वं च विनियोगावसेयम् । विनियोगश्च श्रुतिलिङ्गादिभ्यः। स च तार्तीयः । उद्गीथाद्युपासनानि कर्मसमृद्ध्यर्थान्यपि ब्रह्मदृष्टिरूपाणि, ब्रह्मज्ञानापेक्षाणीति, इहैव चिन्तनीयानि । तान्यपि कर्माण्यनभिसंहितफलानि ब्रह्मविद्योत्पादकानीति तत्साद्गुण्यापादनान्येतानि सुतरामिहैव सङ्गतानि। तेषां च कर्मस्वरूपाधिगमापेक्षा सर्वसम्मता ॥
+यथोक्तम् – 
+
+> इयाज सोऽपि सुबहून्  
+यज्ञान् ज्ञान-व्यपाश्रयः।  
+ब्रह्म-विद्याम् अधिष्ठाय  
+तर्तुं मृत्युम् अविद्यया॥ 
+(वि.पु.६.६.१२)
+
+इति॥ 
+</details>
+
+<details><summary>English</summary>
+
+The word has the same sense in the following passage: 'Firm in traditional knowledge he offered many sacrifices, leaning on the knowledge of Brahman, so as to pass beyond death by non-knowledge' (Vi. Pu. VI, 6, l2).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथोक्तम् – इयाज सोऽपि सुबहून् यज्ञान् ज्ञानव्यपाश्रयः। ब्रह्मविद्यामधिष्ठाय तर्तुं मृत्युमविद्यया॥ इति॥ (वि.पु.६.६.१२)
+</details>
+
+###### पाप-कर्म
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-विरोधि च कर्म पुण्य-पाप-रूपम् । 
+</details>
+
+<details><summary>English</summary>
+
+--Antagonistic to knowledge (as said above) are all good and evil actions, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानविरोधि च कर्म पुण्यपापरूपम् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-ज्ञानोत्पत्ति-विरोधित्वेनानिष्टफलतया  
+उभयोर् अपि पाप-शब्दाभिधेयत्वम् । +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+and hence--as equally giving rise to an undesirable result--they may both be designated as evil. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मज्ञानोत्पत्तिविरोधित्वेनानिष्टफलतया उभयोरपि पापशब्दाभिधेयत्वम् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्य च ज्ञान-विरोधित्वं  
+ज्ञानोत्पत्ति-हेतु-भूत-- शुद्ध-सत्त्व-विरोधि-- रजस्-तमो-विवृद्धि-द्वारेण। +++(4)+++
+</details>
+
+
+<details><summary>English</summary>
+
+They stand in the way of the origination of knowledge in so far as they strengthen the elements of passion and darkness which are antagonistic to the element of goodness which is the cause of the rise of knowledge. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्य च ज्ञानविरोधित्वं ज्ञानोत्पत्तिहेतुभूतशुद्धसत्त्वविरोधि-रजस्तमोविवृद्धिद्वारेण। 
+</details>
+
+###### रजस्-तमसी
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पापस्य च ज्ञानोदय-विरोधित्वम् – 
+
+> एष एवासाधु कर्म कारयति  
+तं यम् अधो निनीषति – (कौ.३.६) 
+
+इति श्रुत्या ऽवगम्यते।
+</details>
+
+<details><summary>English</summary>
+
+That evil works stand in the way of such origination, the following scriptural text declares: 'He makes him whom he wishes to lead down from these worlds do an evil deed' (Ka. Up. III, 8). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पापस्य च ज्ञानोदयविरोधित्वम् – एष एवासाधु कर्मकारयति तं यमधो निनीषति – (कौ.३.६) इति श्रुत्यावगम्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रजस्-तमसोर् यथाऽर्थ-ज्ञानावरणत्वं,  
+सत्त्वस्य च यथाऽर्थ-ज्ञान-हेतुत्वं भगवतैव प्रतिपादितं –  
+
+> सत्त्वात् सञ्जायते ज्ञानम् (भ.गी.१४.१७) 
+
+इत्य्-आदिना । 
+</details>
+
+<details><summary>English</summary>
+
+That passion and darkness veil the knowledge of truth while goodness on the other hand gives rise to it, the Divine one has declared himself, in the passage 'From goodness springs knowledge' (Bha. Gī. XIV, 17). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रजस्तमसोर्यथार्थज्ञानावरणत्वं, सत्त्वस्य च यथार्थज्ञानहेतुत्वं भगवतैव प्रतिपादितं – सत्त्वात्सञ्जायते ज्ञानम् (भ.गी.१४.१७) इत्यादिना । 
+</details>
+
+###### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतश् च ज्ञानोत्पत्तये पापं कर्म निरसनीयम्। 
+</details>
+
+<details><summary>English</summary>
+
+Hence, in order that knowledge may arise, evil works have to be got rid of, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतश्च ज्ञानोत्पत्तये पापं कर्म निरसनीयम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन्निरसनं च अनभिसंहितफलेनानुष्ठितेन धर्मेण। 
+</details>
+
+<details><summary>English</summary>
+
+and this is effected by the performance of acts of religious duty not aiming at some immediate result (such as the heavenly world and the like); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन्निरसनं च अनभिसंहितफलेनानुष्ठितेन धर्मेण। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च श्रुतिः – 
+
+> धर्मेण पापम् अपनुदति (तै.उ.६.५०) 
+
+इति।
+</details>
+
+<details><summary>English</summary>
+
+according to the text 'by works of religious duty he discards all evil.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च श्रुतिः – धर्मेण पापमपनुदति (तै.उ.६.५०) इति।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एवं ब्रह्म-प्राप्ति-साधनं ज्ञानं  
+सर्वाश्रम-कर्मापेक्षम्। 
+</details>
+
+<details><summary>English</summary>
+
+Knowledge which is the means of reaching Brahman, thus requires the works prescribed for the different āśramas; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदेवं ब्रह्मप्राप्तिसाधनं ज्ञानं सर्वाश्रमकर्मापेक्षम्। 
+</details>
+
+##### कर्म-मीमांसापेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽपेक्षित-कर्म--स्व-रूप-ज्ञानं,  
+केवल-कर्मणाम् अल्पास्थिर-फलत्व-ज्ञानं च  
+कर्म-मीमांसाऽवसेयम् इति,  
+सैवापेक्षिता ब्रह्म-जिज्ञासायाः पूर्ववृत्ता वक्तव्या॥
+</details>
+
+<details><summary>English</summary>
+
+and hence the systematic enquiry into works (i. e. the Pūrva Mīmāṁsā)--from which we ascertain the nature of the works required and also the transitoriness and limitation of the fruits of mere works--forms a necessary antecedent to the systematic enquiry into Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतोऽपेक्षितकर्मस्वरूपज्ञानं, केवलकर्मणामल्पास्थिरफलत्वज्ञानं च कर्ममीमांसावसेयमिति, सैवापेक्षिता ब्रह्मजिज्ञासायाः पूर्ववृत्ता वक्तव्या॥
+</details>
+
+
+#### ४-साधनेषु कर्म-मीमांसापेक्षा
+##### उद्भवे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च +++(साधन-चतुष्टयान्तर्गत-)+++ नित्यानित्य-वस्तु-विवेकादयश् च,  
+मीमांसा-श्रवणम् अन्तरेण न संपत्स्यन्ते, 
+</details>
+
+<details><summary>English</summary>
+
+Moreover the discrimination of permanent and non-permanent things, &c. (i.e. the tetrad of 'means' mentioned above, p. 11) cannot be accomplished without the study of the Mīmāṁsā; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च नित्यानित्यवस्तुविवेकादयश्च, मीमांसाश्रवणमन्तरेण न संपत्स्यन्ते, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फल-करण-- इति-कर्तव्यता -ऽधिकारि-विशेष-निश्चयाद् ऋते,  
+कर्म--स्व-रूप-- तत्-फल-स्थिरत्वात्म-नित्यत्वादीनां दुरवबोधत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+for unless we ascertain all the distinctions of fruits of works, means, modes of procedure and qualification (on the part of the agent) we can hardly understand the true nature of works, their fruits, the transitoriness or non-transitoriness of the latter, the permanence of the Self, and similar matters. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलकरण-इतिकर्तव्यताधिकारिविशेषनिश्चयादृते, कर्मस्वरूपतत्फलस्थिरत्वात्मनित्यत्वादीनां दुरवबोधत्वात्। 
+</details>
+
+##### विनियोगे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एषां साधनत्वं च विनियोगावसेयम् । 
+</details>
+
+<details><summary>English</summary>
+
+That those conditions (viz. nityānityavastuviveka, śama, dama, &c.) are 'means' must be determined on the basis of viniyoga ('application' which determines the relation of principal and subordinate matters--angin and anga); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एषां साधनत्वं च विनियोगावसेयम् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विनियोगश् च श्रुति-लिङ्गादिभ्यः। 
+</details>
+
+<details><summary>English</summary>
+
+and this viniyoga which depends on direct scriptural statement (śruti), inferential signs (linga), and so on, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विनियोगश्च श्रुतिलिङ्गादिभ्यः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स च तार्तीयः +++(कर्म-मीमांसा-भागेषु)+++। 
+</details>
+
+<details><summary>English</summary>
+
+is treated of in the third book of the Pūrva Mīmāṁsā-sūtras. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स च तार्तीयः । 
+</details>
+
+#### उपासना-कर्म-चिन्तनीयता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उद्गीथाद्य्-उपासनानि कर्म-समृद्ध्य्-अर्थान्य् अपि  
+ब्रह्म-दृष्टि-रूपाणि, ब्रह्मज्ञानापेक्षाणीति,  
+इहैव चिन्तनीयानि । 
+</details>
+
+<details><summary>English</summary>
+
+And further we must, in this connexion, consider also the meditations on the Udgītha and similar things--which, although aiming at the success of works, are of the nature of reflections on Brahman (which is viewed in them under various forms)--and as such have reference to knowledge of Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उद्गीथाद्युपासनानि कर्मसमृद्ध्यर्थान्यपि ब्रह्मदृष्टिरूपाणि, ब्रह्मज्ञानापेक्षाणीति, इहैव चिन्तनीयानि । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तान्य् अपि +++(उपासना-सङ्गत-)+++कर्माण्य् अनभिसंहित-फलानि ब्रह्म-विद्योत्पादकानीति  
+तत्--साद्-गुण्यापादनान्य् एतानि सुतराम् इहैव सङ्गतानि। 
+</details>
+
+<details><summary>English</summary>
+
+Those works also (with which these meditations are connected) aim at no special results of their own, and produce and help to perfect the knowledge of Brahman: they are therefore particularly connected with the enquiry into Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तान्यपि कर्माण्यनभिसंहितफलानि ब्रह्मविद्योत्पादकानीति तत्साद्गुण्यापादनान्येतानि सुतरामिहैव सङ्गतानि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेषां च कर्म--स्व-रूपाधिगमापेक्षा सर्व-सम्मता ॥
+</details>
+
+<details><summary>English</summary>
+
+And that these meditations presuppose an understanding of the nature of works is admitted by every one.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेषां च कर्मस्वरूपाधिगमापेक्षा सर्वसम्मता ॥
+</details>
+
+### स-विशेष-मिथ्यात्वम्?
+<details><summary>विषयः</summary>
 
 ॥ इति लघुसिद्धान्तः ॥
 
-**अथ महापूर्वपक्षः**
+**अथ महापूर्वपक्षः॥**
+</details>
 
-## ब्रह्मण एव सत्यत्वम्, तदतिरिक्तसर्वमिथ्यात्वम् च
+<details><summary>English</summary>
 
-यदप्याहुः – अशेषविशेषप्रत्यनीकचिन्मात्रं ब्रह्मैव परमार्थः तदतिरेकि नानाविधज्ञातृज्ञेय-तत्कृतज्ञानभेदादिसर्वं तस्मिन्नेव परिकल्पितं मिथ्याभूतं –
+THE GREAT PŪRVAPAKSHA.  
+THE ONLY REALITY IS BRAHMAN.
+</details>
 
-## निर्विशेषवस्तुनः श्रौतता
+#### प्रतिज्ञा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् (छा.६.२.१) अथ परा यया तदक्षरमधिगम्यते यत्तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुश्श्रोत्रं तदपाणिपादं नित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः ॥ (मु.१.१.६) सत्यं ज्ञानमनन्तं ब्रह्म (तै.उ.आन.१.१) निष्कलं निष्क्रियं शान्तं निरवद्यं निरञ्जनम् (श्वे.उ.६.१९) यस्यामतं तस्य मतं मतं यस्य न वेद सः। अविज्ञातं विजानतां विज्ञातमविजानताम् (केन.२.३) न दृष्टेर्द्रष्टारं पश्येः न मतेर्मन्तारं मन्वीथाः (बृ.५.४.२) आनन्दो ब्रह्म (तै.उ.भृगु.६अनु.) इदं सर्वं यदयमात्मा (बृ.४.४.६) नेह नानाऽस्ति किञ्चन। मृत्योस्स मृत्युमाप्नोति य इह नानेव पश्यति (बृ.६.४.१९) यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति यत्र त्वस्य सर्वमात्मैवाभूत् तत्केन कं पश्येत्तत्केन कं विजानीयात् (बृ.४.४.१४) वाचाऽऽरम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम् (छा.६.१.४) यदा ह्येवैष एतस्मिन्नुदरमन्तरं कुरुते अथ तस्य भयं भवति (तै.उ.आन.७.२) न स्थानतोऽपि परस्योभयलिंगं सर्वत्र हि (ब्र.सू.३.२.११) मायामात्रं तु कार्त्स्न्येन अनभिव्यक्त-स्वरूपत्वात् (ब्र.सू.३.२.३),
+यद् अप्य् आहुः –  
+
+अ-शेष--विशेष-प्रत्यनीक-- चिन्-मात्रं ब्रह्मैव परमार्थः 
+</details>
+
+<details><summary>English</summary>
+
+Brahman, which is pure intelligence and opposed to all difference, constitutes the only reality; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदप्याहुः –  
+अशेषविशेषप्रत्यनीकचिन्मात्रं ब्रह्मैव परमार्थः 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-अतिरेकि नाना-विध--ज्ञातृ-ज्ञेय--तत्-कृत-ज्ञान-भेदादि सर्वं  
+तस्मिन्न् एव परिकल्पितं मिथ्या-भूतं –
+</details>
+
+<details><summary>English</summary>
+
+and everything else, i.e. the plurality of manifold knowing subjects, objects of knowledge, and acts of knowledge depending on those two, is only imagined on (or 'in') that Brahman, and is essentially false.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदतिरेकि नानाविधज्ञातृज्ञेय-तत्कृतज्ञानभेदादिसर्वं तस्मिन्नेव परिकल्पितं मिथ्याभूतं –
+</details>
+
+
+#### श्रुतयः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सदेव सोम्येद् अम् अग्र आसीद्  
+एकम् एवाद्वितीयम् (छा.६.२.१) 
+</details>
+
+<details><summary>English</summary>
+
+> 'In the beginning, my dear, there was that only which is, one only without a second' (Cḥ. Up. VI, 2, 1); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् (छा.६.२.१) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अथ परा यया तद् अक्षरम् अधिगम्यते  
+यत् तद् अद्रेश्यम् अग्राह्यम् अगोत्रम् अवर्णम्  
+अचक्षुश्-श्रोत्रं तद् अ-पाणि-पादं  
+नित्यं विभुं सर्व-गतं सुसूक्ष्मं  
+तद् अव्ययं यद्  
+भूत-योनिं परिपश्यन्ति धीराः ॥ (मु.१.१.६) 
+</details>
+
+<details><summary>English</summary>
+
+'The higher knowledge is that by which the Indestructible is apprehended' (Mu. Up. I, 1, 5); 'That which cannot be seen nor seized, which has no eyes nor ears, no hands nor feet, the permanent, the all-pervading, the most subtle, the imperishable which the wise regard as the source of all beings' (Mu. Up. I, 1, 6); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ परा यया तदक्षरमधिगम्यते यत्तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुश्श्रोत्रं तदपाणिपादं नित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः ॥ (मु.१.१.६) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सत्यं ज्ञानमनन्तं ब्रह्म (तै.उ.आन.१.१) 
+</details>
+
+<details><summary>English</summary>
+
+> 'The True, knowledge, the Infinite is Brahman' (Taitt. Up. II, 1); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्यं ज्ञानमनन्तं ब्रह्म (तै.उ.आन.१.१) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निष्कलं निष्क्रियं शान्तं  
+निरवद्यं निरञ्जनम् (श्वे.उ.६.१९) 
+</details>
+
+<details><summary>English</summary>
+
+> 'He who is without parts, without actions, tranquil, without fault, without taint' (Śvet. Up. VI, 19); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+निष्कलं निष्क्रियं शान्तं निरवद्यं निरञ्जनम् (श्वे.उ.६.१९) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यस्यामतं तस्य मतं  
+मतं यस्य न वेद सः।  
+अविज्ञातं विजानतां  
+विज्ञातम् अविजानताम् (केन.२.३) 
+</details>
+
+<details><summary>English</summary>
+
+> 'By whom it is not thought, by him it is thought; he by whom it is thought knows it not. It is not known by those who know it, known by those who do not know it' (Ke. Up. II, 3); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यस्यामतं तस्य मतं मतं यस्य न वेद सः। अविज्ञातं विजानतां विज्ञातमविजानताम् (केन.२.३) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न दृष्टेर् द्रष्टारं पश्येः  
+न मतेर् मन्तारं मन्वीथाः (बृ.५.४.२) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Thou mayest not see the seer of sight; thou mayest not think the thinker of thought' (Br̥. Up. III, 4, 2); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न दृष्टेर्द्रष्टारं पश्येः न मतेर्मन्तारं मन्वीथाः (बृ.५.४.२) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आनन्दो ब्रह्म (तै.उ.भृगु.६अनु.) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Bliss is Brahman' (Taitt. Up. III, 6, 1); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आनन्दो ब्रह्म (तै.उ.भृगु.६अनु.) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदं सर्वं यद् अयम् आत्मा (बृ.४.४.६) 
+</details>
+
+<details><summary>English</summary>
+
+> 'All this is that Self' (Br̥. Up. IV, 5, 7); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदं सर्वं यदयमात्मा (बृ.४.४.६) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नेह नानाऽस्ति किञ्चन।  
+(बृ.६.४.१९) 
+</details>
+
+<details><summary>English</summary>
+
+'There is here no diversity whatever' (Br̥. Up. IV, 4, 19); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नेह नानाऽस्ति किञ्चन। (बृ.६.४.१९) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मृत्योस् स मृत्युम् आप्नोति  
+य इह नानेव पश्यति 
+</details>
+
+<details><summary>English</summary>
+
+'From death to death goes he who sees any difference here' (Ka. Up. II, 4, 10); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मृत्योस् स मृत्युम् आप्नोति  
+य इह नानेव पश्यति 
+</details>
+
+
+
+
+यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति यत्र त्वस्य सर्वमात्मैवाभूत् तत्केन कं पश्येत्तत्केन कं विजानीयात् (बृ.४.४.१४) वाचाऽऽरम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम् (छा.६.१.४) यदा ह्येवैष एतस्मिन्नुदरमन्तरं कुरुते अथ तस्य भयं भवति (तै.उ.आन.७.२) न स्थानतोऽपि परस्योभयलिंगं सर्वत्र हि (ब्र.सू.३.२.११) मायामात्रं तु कार्त्स्न्येन अनभिव्यक्त-स्वरूपत्वात् (ब्र.सू.३.२.३),
 
 ## निर्विशेषवस्तुनि पराशरसम्मतिः
 
