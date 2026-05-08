@@ -99,6 +99,8 @@ This is an inferior setup. The pratinidhi-s will have less incentive to locally/
 ### ब्रह्म-सूत्र-परम्परा
 वेदाः → वेद-व्यासो बादरायणः शारीरक-सूत्र-कृत् → बोधायनो वृत्तिकारः → टङ्को ब्रह्मनन्दी वाक्यकारः → द्रमिडाचार्यो भाष्यकारः। 
 
+> The vakyakara of Brahma sutras (Brahmanandi) wrote a bhashya on Chandogya Upanishad and (as far as I know) is called vrittikara in the context of the Chandogya Upanishad. This causes confusion sometimes. - advitIyaH
+
 ### उत्तराधिकारी
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
