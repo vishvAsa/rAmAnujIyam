@@ -6481,7 +6481,8 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 </details>
 
 
-#### श्रुतयः
+#### शास्त्रोक्तिः
+##### श्रुतयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6719,7 +6720,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 यदा ह्येवैष एतस्मिन्नुदरमन्तरं कुरुते अथ तस्य भयं भवति (तै.उ.आन.७.२) 
 </details>
 
-#### ब्रह्म-सूत्रे
+##### ब्रह्म-सूत्रे
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6749,7 +6750,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 </details>
 
 
-#### विष्णु-पुराणम्
+##### विष्णु-पुराणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6774,15 +6775,391 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 </details>
 
 
-ज्ञानस्वरूपमत्यन्तनिर्मलं परमार्थतः। तमेवार्थस्वरूपेण भ्रान्तिदर्शनतः स्थितम्॥ (वि.पु.१,२,६) परमार्थस्त्वमेवैको नान्योऽस्ति जगतः पते!॥ (वि.पु.१.४.३८) यदेतद्दृश्यते मूर्तमेतज्ज्ञानात्मनस्तव। भ्रान्तिज्ञानेन पश्यन्ति जगद्रूपमयोगिनः॥ ज्ञानस्वरूपमखिलं जगदेतदबुद्धयः। अर्थस्वरूपं पश्यन्तो भ्राम्यन्ते मोहसंप्लवे॥ ये तु ज्ञानविदश्शुद्धचेतसस्तेऽखिलं जगत् । ज्ञानात्मकं प्रपश्यन्ति त्वद्रूपं परमेश्वर!॥ (वि.पु.१.४-३९,४०,४१) तस्यात्मपरदेहेषु सतोऽप्येकमयं हि यत् । विज्ञानं परमार्थो हि द्वैतिनोऽतथ्यदर्शिनः॥ (वि.पु.२.१४.३१) यद्यन्योऽस्ति परः कोऽपि मत्तः पार्थिवसत्तम!। तदैषोऽहमयं चान्यो वक्तुमेवमपीष्यते॥ (वि.पु.२.१३.९०) वेणुरन्ध्रविभेदेन भेदष्षड्जादिसंज्ञितः। अभेदव्यापिनो वायोस्तथाऽसौ परमात्मनः॥ (वि.पु.२.१४.३२) सोऽहं स च त्वं स च सर्वमेतदात्मस्वरूपं त्यज भेदमोहम् । इतीरितस्तेन स राजवर्यस्तत्याज भेदं परमार्थदृष्टिः॥ (वि.पु.२.१६.२३) विभेदजनकेऽज्ञाने नाशमात्यन्तिकं गते। आत्मनो ब्रह्मणो भेदमसन्तं कः करिष्यति॥ (वि.पु.६.७.९६) अहमात्मा गुडाकेश! सर्वभूताशयस्थितः। (भ.गी.१०.२०) क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत!। (भ.गी.१३.३) न तदस्ति विना यत्स्यान्मया भूतं चराचरम्॥ (भ.गी.१०.९३) इत्यादिभिर्वस्तुस्वरूपोपदेशपरैश्शास्त्रैः निर्विशेषचिन्मात्रं ब्रह्मैव सत्यमन्यत्सर्वं मिथ्या इत्यभिधानात्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## मिथ्यात्वस्वरूपम्, लक्ष्ये तदन्वयश्च
+> ज्ञान--स्व-रूपम् अत्यन्त-  
+निर्मलं परमार्थतः।  
 
-मिथ्यात्वं नाम प्रतीयमानत्वपूर्वकयथावस्थितवस्तुज्ञाननिवर्त्यत्वम्, यथा रज्जवाद्यधिष्ठानसर्पादेः। दोषवशाद्धि तत्र तत्कल्पनम् । एवं चिन्मात्रवपुषि परे ब्रह्मणि दोषपरिकल्पितमिदं देवतिर्यङ्मनुष्यस्थावरादिभेदं सर्वं जगद्यथावस्थितब्रह्मस्वरूपावबोधबाध्यं मिथ्यारूपम् ।
+> तम् एवार्थ-स्वरूपेण  
+भ्रान्ति-दर्शनतः स्थितम्॥  
+(वि.पु.१,२,६) 
+</details>
 
-## अविद्यायाः स्वरूपम्, तत्र श्रुतयश्च
+<details><summary>English</summary>
 
-दोषश्च स्वरूपतिरोधानविविधविचित्रविक्षेपकरी सदसदनिर्वचनीयाऽनाद्यविद्या। अनृतेन हि प्रत्यूढाः (छा.८.३.२) तेषां सत्यानां सतामनृतमपिधानम् (छा.८.३.१) नासदासीन्नो सदासीत्तदानीं तम आसीत्तमसा गूढमग्रे प्रकेतम् (यजु.२अष्ट.८.प्र.९अनु.) मायां तु प्रकृतिं विद्यान्मायिनं तु महेश्वरम् (श्वे.४.१०) इन्द्रो मायाभिः पुरुरूप ईयते (बृ.४.५.१९) मम माया दुरत्यया (भ.गी.७.१४) अनादिमायया सुप्तो यदा जीवः प्रबुध्यते (गौ.२.२१) इत्यादिभिः निर्विशेषचिन्मात्रं ब्रह्मैवानाद्यविद्यया सदसदनिर्वाच्यया तिरोहितस्वरूपं स्वगतनानात्वं पश्यतीत्यवगम्यते। यथोक्तम् –
+> 'Him whose essential nature is knowledge, who is stainless in reality'; 
+
+> 'Him who, owing to erroneous view, abides in the form of things' (I, 2, 6); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानस्वरूपमत्यन्तनिर्मलं परमार्थतः। तमेवार्थस्वरूपेण भ्रान्तिदर्शनतः स्थितम्॥ (वि.पु.१,२,६) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परमार्थस् त्वम् एवैको  
+नान्योऽस्ति जगतः पते!॥  
+(वि.पु.१.४.३८) 
+</details>
+
+<details><summary>English</summary>
+
+> the Reality thou art alone, there is no other, O Lord of the world!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमार्थस्त्वमेवैको नान्योऽस्ति जगतः पते!॥  
+(वि.पु.१.४.३८) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यद् एतद् दृश्यते मूर्तम्  
+एतज् ज्ञानात्मनस् तव। 
+भ्रान्ति-ज्ञानेन पश्यन्ति  
+जगद्-रूपम् अ-योगिनः॥ 
+</details>
+
+<details><summary>English</summary>
+
+> --whatever matter is seen belongs to thee whose being is knowledge; but owing to their erroneous opinion the non-devout look on it as the form of the world. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदेतद्दृश्यते मूर्तमेतज्ज्ञानात्मनस्तव। 
+भ्रान्तिज्ञानेन पश्यन्ति जगद्रूपमयोगिनः॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ज्ञान--स्व-रूपम् अखिलं  
+जगद् एतद् अ-बुद्धयः।  
+अर्थ-स्वरूपं पश्यन्तो  
+भ्राम्यन्ते मोह-संप्लवे॥ 
+</details>
+
+<details><summary>English</summary>
+
+> This whole world has knowledge for its essential nature, but the Unwise viewing it as being of the nature of material things are driven round on the ocean of delusion. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानस्वरूपमखिलं जगदेतदबुद्धयः। अर्थस्वरूपं पश्यन्तो भ्राम्यन्ते मोहसंप्लवे॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ये तु ज्ञान-विदश् शुद्ध-  
+चेतसस् ते ऽखिलं जगत् ।  
+ज्ञानात्मकं प्रपश्यन्ति  
+त्वद्-रूपं परमेश्वर!॥  
+(वि.पु.१.४-३९,४०,४१) 
+</details>
+
+<details><summary>English</summary>
+
+> Those however who possess true knowledge and pure minds see this whole world as having knowledge for its Self, as thy form, O highest Lord!' (Vi. Pu. I, 4, 38 ff.).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ये तु ज्ञानविदश्शुद्धचेतसस्तेऽखिलं जगत् । ज्ञानात्मकं प्रपश्यन्ति त्वद्रूपं परमेश्वर!॥ (वि.पु.१.४-३९,४०,४१) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तस्यात्म-पर-देहेषु  
+**सतो** ऽप्य् एकमयं हि यत् ।  
+**विज्ञानं** परमार्थो हि  
+द्वैतिनो ऽतथ्य-दर्शिनः॥  
+(वि.पु.२.१४.३१) 
+</details>
+
+<details><summary>English</summary>
+
+> --'Of that Self, although it exists in one's own and in other bodies, the knowledge is of one kind, and that is Reality; those who maintain duality hold a false view' (II, 14, 31); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्यात्मपरदेहेषु सतोऽप्येकमयं हि यत् । विज्ञानं परमार्थो हि द्वैतिनोऽतथ्यदर्शिनः॥ (वि.पु.२.१४.३१) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यद्य् अन्यो ऽस्ति परः कोऽपि  
+मत्तः पार्थिव-सत्तम!।  
+तदैषो ऽहम् अयं चान्यो  
+वक्तुम् एवम् अपीष्यते॥ (वि.पु.२.१३.९०) 
+</details>
+
+<details><summary>English</summary>
+
+> 'If there is some other one, different from me, then it can be said, "I am this and that one is another"' (II, 13, 86); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद्यन्योऽस्ति परः कोऽपि मत्तः पार्थिवसत्तम!। तदैषोऽहमयं चान्यो वक्तुमेवमपीष्यते॥ (वि.पु.२.१३.९०) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेणु-रन्ध्र-विभेदेन  
+भेदष् षड्-जादि-संज्ञितः।  
+अभेद-व्यापिनो वायोस्  
+तथाऽसौ परमात्मनः॥  +++(5)+++  
+(वि.पु.२.१४.३२) 
+</details>
+
+<details><summary>English</summary>
+
+> 'As owing to the difference of the holes of the flute the air equally passing through them all is called by the names of the different notes of the musical scale; so it is with the universal Self' (II, 14, 32); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वेणुरन्ध्रविभेदेन भेदष्षड्जादिसंज्ञितः। अभेदव्यापिनो वायोस्तथाऽसौ परमात्मनः॥ (वि.पु.२.१४.३२) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सोऽहं स च त्वं स च सर्वम् एतद्  
+आत्मस्वरूपं **त्यज** भेदमोहम् ।  
+इतीरितस् तेन स राज-वर्यस्  
+**तत्याज** भेदं परमार्थदृष्टिः॥ (वि.पु.२.१६.२३) 
+</details>
+
+<details><summary>English</summary>
+
+> 'He is I; he is thou; he is all: this Universe is his form. Abandon the error of difference. The king being thus instructed, abandoned the view of difference, having gained an intuition of Reality' (II, 16, 24). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सोऽहं स च त्वं स च सर्वमेतदात्मस्वरूपं त्यज भेदमोहम् । इतीरितस्तेन स राजवर्यस्तत्याज भेदं परमार्थदृष्टिः॥ (वि.पु.२.१६.२३) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विभेद-जनके ऽज्ञाने  
+नाशम् आत्यन्तिकं गते।  
+आत्मनो ब्रह्मणो भेदम्  
+असन्तं कः करिष्यति॥  
+(वि.पु.६.७.९६) 
+</details>
+
+<details><summary>English</summary>
+
+> 'When that view which gives rise to difference is absolutely destroyed, who then will make the untrue distinction between the individual Self and Brahman?' (VI, 7, 94).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> विभेदजनकेऽज्ञाने नाशमात्यन्तिकं गते। आत्मनो ब्रह्मणो भेदमसन्तं कः करिष्यति॥ (वि.पु.६.७.९६) 
+</details>
+
+##### भगवद्-गीता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अहमात्मा गुडाकेश!  
+सर्व-भूताशय-स्थितः।  
+(भ.गी.१०.२०) 
+</details>
+
+<details><summary>English</summary>
+
+--The following passages from the Bhagavad-Gītā: 
+
+> 'I am the Self dwelling within all beings' (X, 20); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> अहमात्मा गुडाकेश!  
+सर्वभूताशयस्थितः।  
+(भ.गी.१०.२०) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> क्षेत्रज्ञं चापि मां विद्धि  
+सर्वक्षेत्रेषु भारत!।  
+(भ.गी.१३.३) 
+</details>
+
+
+<details><summary>English</summary>
+
+> 'Know me to be the soul within all bodies' (XIII, 2); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत!। (भ.गी.१३.३) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न तद् अस्ति विना यत् स्यान्  
+मया भूतं चराचरम्॥ (भ.गी.१०.९३) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Being there is none, movable or immovable, which is without me' (X, 39).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> न तदस्ति विना यत्स्यान्मया भूतं चराचरम्॥ (भ.गी.१०.९३) 
+</details>
+
+##### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिभिर् वस्तु--स्व-रूपोपदेश-परैश् शास्त्रैः  
+
+> निर्विशेषचिन्मात्रं ब्रह्मैव सत्यम्  
+अन्यत् सर्वं मिथ्या 
+
+इत्य् अभिधानात्।
+</details>
+
+<details><summary>English</summary>
+
+--All these and other texts, the purport of which clearly is instruction as to the essential nature of things, declare that Brahman only, i.e. non-differenced pure intelligence is real, while everything else is false.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिभिर्वस्तुस्वरूपोपदेशपरैश्शास्त्रैः निर्विशेषचिन्मात्रं ब्रह्मैव सत्यमन्यत्सर्वं मिथ्या इत्यभिधानात्।
+</details>
+
+#### मिथ्या ऽविद्यया
+<details><summary>English</summary>
+
+The appearance of plurality is due to avidyā.
+</details>
+
+##### मिथ्यात्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मिथ्यात्वं नाम  
+प्रतीयमानत्व-पूर्वक- यथाऽवस्थित-वस्तु-ज्ञान-निवर्त्यत्वम्,  
+यथा रज्ज्व्-आद्य्-अधिष्ठान-सर्पादेः। 
+</details>
+
+<details><summary>English</summary>
+
+'Falsehood' (mithyātva) belongs to what admits of being terminated by the cognition of the real thing--such cognition being preceded by conscious activity (not by mere absence of consciousness or knowledge). The snake, e.g. which has for its substrate a rope or the like is false; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मिथ्यात्वं नाम प्रतीयमानत्वपूर्वकयथावस्थितवस्तुज्ञाननिवर्त्यत्वम्, यथा रज्ज्वाद्यधिष्ठानसर्पादेः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दोषवशाद् धि तत्र तत्-कल्पनम् । 
+</details>
+
+<details><summary>English</summary>
+
+for it is due to an imperfection (dosha) that the snake is imagined in (or 'on') the rope. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दोषवशाद्धि तत्र तत्कल्पनम् । 
+</details>
+
+##### ब्रह्मणि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं चिन्-मात्र-वपुषि परे ब्रह्मणि  
+दोष-परिकल्पितम् इदं  
+देव-तिर्यङ्-मनुष्य--स्थावरादि-भेदं सर्वं जगद्  
+यथावस्थित-- ब्रह्म--स्व-रूपावबोध-बाध्यं मिथ्या-रूपम् ।
+</details>
+
+<details><summary>English</summary>
+
+In the same way this entire world, with its distinctions of gods, men, animals, inanimate matter, and so on, is, owing to an imperfection, wrongly imagined in the highest Brahman whose substance is mere intelligence, and therefore is false in so far as it may be sublated by the cognition of the nature of the real Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं चिन्मात्रवपुषि परे ब्रह्मणि दोषपरिकल्पितमिदं देवतिर्यङ्मनुष्यस्थावरादिभेदं सर्वं जगद्यथावस्थितब्रह्मस्वरूपावबोधबाध्यं मिथ्यारूपम् ।
+</details>
+
+
+
+#### अविद्या
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दोषश् च  
+स्व-रूप--तिरोधान-- विविध-विचित्र-विक्षेप-करी  
+सद्--अ-सद्--अ-निर्वचनीया ऽनाद्य्-अविद्या। 
+</details>
+
+<details><summary>English</summary>
+
+What constitutes that imperfection is beginningless Nescience (avidyā), which, hiding the truth of things, gives rise to manifold illusions, and cannot be defined either as something that is or as something that is not.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दोषश्च स्वरूपतिरोधानविविधविचित्रविक्षेपकरी सदसदनिर्वचनीयाऽनाद्यविद्या। 
+</details>
+
+##### शास्त्रोक्तयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनृतेन हि प्रत्यूढाः (छा.८.३.२) 
+</details>
+
+<details><summary>English</summary>
+
+> 'By the Untrue they are hidden; of them which are true the Untrue is the covering' (Cḥ, Up. VIII, 3, 1); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनृतेन हि प्रत्यूढाः (छा.८.३.२) 
+</details>
+
+
+तेषां सत्यानां सतामनृतमपिधानम् (छा.८.३.१) नासदासीन्नो सदासीत्तदानीं तम आसीत्तमसा गूढमग्रे प्रकेतम् (यजु.२अष्ट.८.प्र.९अनु.) मायां तु प्रकृतिं विद्यान्मायिनं तु महेश्वरम् (श्वे.४.१०) इन्द्रो मायाभिः पुरुरूप ईयते (बृ.४.५.१९) मम माया दुरत्यया (भ.गी.७.१४) अनादिमायया सुप्तो यदा जीवः प्रबुध्यते (गौ.२.२१) इत्यादिभिः निर्विशेषचिन्मात्रं ब्रह्मैवानाद्यविद्यया सदसदनिर्वाच्यया तिरोहितस्वरूपं स्वगतनानात्वं पश्यतीत्यवगम्यते। यथोक्तम् –
 
 ## ब्रह्मातिरिक्तस्य आविद्यकत्वे पौराणिकानि प्रमाणानि
 
