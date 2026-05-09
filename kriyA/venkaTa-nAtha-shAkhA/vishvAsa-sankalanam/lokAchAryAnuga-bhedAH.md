@@ -5,6 +5,13 @@ title = "लोकाचार्यानुग-भेदाः"
 ## प्रपत्तिः
 विचारभेदो मतिविभ्रमाद्य् [ऽन्यत्र](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/lokAryAnugebhyo_bhedaH)। 
 
+### प्रकार-कलनम्
+पिऩ्ब्-अऴगिय-बॆरुमाळ्-जीयर्-वार्त्तामालै-ग्रन्थे 
+
+> इरुनूऱ्ऱैम्बदाम् वार्त्तै॥ कन्दाडैय्-आण्डाऩ् वार्त्तै - प्रपत्ति-निष्ठर् मूवर्। शब्द+++(=उक्ति)+++-निष्ठरुम्, अर्थ+++(=स्व)+++-निष्ठरुम्, +++(आचार्य-)+++अभिमान-निष्ठरुम्।
+
+इति देशिकसम्प्रदायानुगुणम् एव वदति। 
+
 ### आचार्याभिमानः
 आचार्याभिमान इत्य् आचार्यनिष्ठाया अपरनामधेयः । देशिकसंप्रदायस्थैः प्रपत्ताव् एव गणितः -  
 दक्षिणकलार्याः पृथक्त्वेन वर्णयन्ति।
@@ -120,6 +127,20 @@ gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://
 कथं सिध्येत् प्रातिकूल्य-वर्जन-सङ्कल्पो नामाङ्गम्?
 
 ### मोक्षार्था क्वचित्
+#### रामानुजैतिह्यम्
+पिऩ्ब्-अऴगिय-बॆरुमाळ्-जीयर्-वार्त्तामालै-ग्रन्थे 
+
+> इरुनूऱ्ऱॆऴुबत्तुमूऩ्ऱाम् वार्त्तै।  
+ऎम्बॆरुमाऩार् तम्मुडैय अन्तिमदशैयिले अरुळिच् चॆय्द वार्त्तै।  
+उडैयवर् तम्मुडैय तिरुवुळ्ळत्तिले आर्त्तियोडे विचारित्तु,  
+पॆरिय बॆरुमाळैत् तिरुव्-अडित् तॊऴुदु  
+विण्णप्पञ् जॆय्द बडि  
+संसारत्तिल् अरुचि पिऱन्दद् ऎऩ्ऱु साङ्ग प्रपत्तियैप् पण्णिय् अरुळिऩार्;   
+
+
+इत्य् आर्त-प्रपत्तिर् अनुष्ठितेत्य् उच्यते। 
+
+#### महाचार्य-सम्प्रदाये
 > DoDDayAchArya alias VAdUla SrInivAsAchArya alias MahAchArya, a great ThennAchArya of the 16th Century has supposed to have accepted Prapatti as NyAsa Vidya, with all the five angAs etc as explained by SwAmi DESikan. It is told that, during SamASrayanam, he would make the disciple recite NammAzhwAr's " akalakillEn ... " pAsuram in front of Divya Dampati after he recites it etc. This way, he used to perform " Ukti nishta " Prapatti it seems.... In the book " YatIndra Mata DIpikA " by SrInivAsAchArya, the ardent disciple of SrI DoDDayAchArya, the section on Prapatti lists the five angAs and eqautes it to a Brahma Vidya as a positive act  
 
 
