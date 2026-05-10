@@ -7400,17 +7400,405 @@ I have thus declared to you the lasting truth of things--that intelligence only 
 सद्भाव एवं भवतो मयोक्तो ज्ञानं यथा सत्यमसत्यमन्यत्। एतत्तु यत्संव्यवहारभूतं तत्रापि चोक्तं भुवनाश्रितं ते॥ (वि.पु.१.१२.४५)
 </details>
 
+#### अविद्या-निवृत्तिः
+
+<details><summary>English</summary>
+
+Avidyā is put an end to by true Knowledge.
+</details>
 
 
-## अविद्यानिवृत्तिः तद्धेतुश्च
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्याश्चाविद्याया निर्विशेषचिन्मात्रब्रह्मात्मैकत्वविज्ञानेन निवृत्तिं वदन्ति – न पुनर्मृत्यवे तदेकं पश्यति, न पश्यो मृत्युं पश्यति (बृ.७.२६.२) यदा ह्येवैष एतस्मिन्नदृश्येऽनात्म्येऽनिरुक्ते-अनिलयनेऽभयं प्रतिष्ठां विन्दते। अथ सोऽभयं गतो भवति (तै.आन.७.२) भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः। क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे (मु.२.२.८) ब्रह्म वेद ब्रह्मैव भवति (मु.३.२.९) तमेव विदित्वाऽतिमृत्युमेति नान्यः पन्थाः (श्वे.३.८) – इत्याद्याश्श्रुतयः। अत्र मृत्युशब्देनाविद्याऽभिधीयते। यथा सनत्सुजातवचनम् – प्रमादं वै मृत्युमहं ब्रवीमि सदाऽप्रमादममृतत्वं ब्रवीमि (भारत.उद्योपर्व.४१.४) इति।
+अस्याश् चाविद्याया  
+निर्विशेष-चिन्-मात्र-ब्रह्मात्मैकत्व-विज्ञानेन  
+निवृत्तिं वदन्ति – 
+</details>
 
-## निर्विशेषब्रह्मात्मैकत्वविज्ञानं प्रमाणसिद्धम्
+<details><summary>English</summary>
 
-सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१.अनु.१) विज्ञानमानन्दं ब्रह्म (बृ.५.९.२८) इत्यादिशोधकवाक्यावसेयनिर्विशेषस्वरूपब्रह्मात्मैकत्वविज्ञानं च – अथ योऽन्यां देवतामुपास्ते-अन्योऽसावन्योऽहमस्मीति न स वेद (बृ.३.४.१०) अकृत्स्नो ह्येषः (बृ.३.४.७) आत्मेत्येवोपासीत (बृ.उ.३.४.७) तत्त्वमसि (छां.उ.६.८.७) त्वं वा अहमस्मि भगवो देवते अहं वै त्वमसि भगवो देवते तद्योऽहं सोऽसौ योऽसौ सोऽहमस्मि (ऐ.आ.४.२) इत्यादिवाक्यसिद्धम्। वक्ष्यति चैतदेव – आत्मेति तूपगच्छन्ति ग्राहयन्ति च (ब्र.सू.४.१.३) इति। तथा च वाक्यकारः- आत्मेत्येव तु गृह्णीयात् सर्वस्य तन्निष्पत्तेः (ब्रह्मनन्दिवाक्यम्) इति । अनेन च ब्रह्मात्मैकत्वविज्ञानेन मिथ्यारूपस्य सकारणस्य बन्धस्य निवृत्तिर्युक्ता ॥
+Other texts declare that this Nescience comes to an end through the cognition of the essential unity of the Self with Brahman which is nothing but non-differenced intelligence. 
+</details>
 
-## निवर्त्यनिवर्तकभावः सदृष्टान्तः
+
+<details><summary>मूलम्</summary>
+
+अस्याश्चाविद्याया निर्विशेषचिन्मात्रब्रह्मात्मैकत्वविज्ञानेन निवृत्तिं वदन्ति – 
+</details>
+
+##### श्रुतयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न पुनर् मृत्यवे,  
+तद् एकं पश्यति, 
+</details>
+
+<details><summary>English</summary>
+
+> 'He does not again go to death;'   
+'He sees this as one;' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न पुनर्मृत्यवे तदेकं पश्यति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न पश्यो मृत्युं पश्यति (बृ.७.२६.२) 
+</details>
+
+<details><summary>English</summary>
+
+'He who sees this does not see death' (_Kh._ Up. VI, 27); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> न पश्यो मृत्युं पश्यति (बृ.७.२६.२) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदा ह्य् एवैष एतस्मिन्न्  
+अदृश्ये ऽनात्म्ये ऽनिरुक्ते ऽनिलयने  
+अभयं प्रतिष्ठां विन्दते।  
+अथ सोऽभयं गतो भवति (तै.आन.७.२) 
+</details>
+
+<details><summary>English</summary>
+
+> 'When he finds freedom from fear and rest in that which is invisible, incorporeal, undefined, unsupported, then he has obtained the fearless' (Taitt. Up. II, 7); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदा ह्येवैष एतस्मिन्नदृश्येऽनात्म्येऽनिरुक्ते-अनिलयनेऽभयं प्रतिष्ठां विन्दते। अथ सोऽभयं गतो भवति (तै.आन.७.२) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **भिद्यते** हृदय-ग्रन्थिश्  
+**छिद्यन्ते** सर्व-संशयाः।  
+**क्षीयन्ते** चास्य कर्माणि  
+तस्मिन् **दृष्टे** परावरे (मु.२.२.८) 
+</details>
+
+<details><summary>English</summary>
+
+> 'The fetter of the heart is broken, all doubts are solved and all his works perish when he has been beheld who is high and low' (Mu. Up. II, 2, 8); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः। क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे (मु.२.२.८) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ब्रह्म वेद  
+ब्रह्मैव भवति  
+(मु.३.२.९) 
+</details>
+
+<details><summary>English</summary>
+
+> 'He knows Brahman, he becomes Brahman only' (Mu. Up. III, 2, 9); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म वेद ब्रह्मैव भवति (मु.३.२.९) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तम् एव विदित्वा ऽतिमृत्युम् एति  
+नान्यः पन्थाः (श्वे.३.८) 
+
+– इत्य्-आद्याश्श् रुतयः। 
+</details>
+
+<details><summary>English</summary>
+
+'Knowing him only a man passes over death; there is no other path to go' (Śvet. Up. III, 8). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तमेव विदित्वाऽतिमृत्युमेति नान्यः पन्थाः (श्वे.३.८) – इत्याद्याश्श्रुतयः। 
+</details>
+
+
+###### मृत्युः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र मृत्युशब्देनाविद्याऽभिधीयते। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्र मृत्युशब्देनाविद्याऽभिधीयते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा सनत्-सुजात-वचनम् – 
+
+> प्रमादं वै मृत्युम् अहं ब्रवीमि  
+सदा ऽप्रमादम् अमृतत्वं ब्रवीमि  
+(भारत.उद्योपर्व.४१.४) 
+
+इति।
+</details>
+
+<details><summary>English</summary>
+
+In these and similar passages, the term 'death' denotes Nescience;  
+analogously to the use of the term in the following words of Sanatsujāta, 
+
+> 'Delusion I call death; and freedom from delusion I call immortality' (Sanatsuj. II, 5). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा सनत्सुजातवचनम् – प्रमादं वै मृत्युमहं ब्रवीमि सदाऽप्रमादममृतत्वं ब्रवीमि (भारत.उद्योपर्व.४१.४) इति।
+</details>
+
+
+
+#### निर्विशेष-ब्रह्मात्मैकत्व-विज्ञानम्
+##### शोधक-वाक्यानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सत्यं ज्ञानम् अनन्तं ब्रह्म (तै.आन.१.अनु.१) 
+</details>
+
+<details><summary>English</summary>
+
+'The True, knowledge, the Infinite is Brahman' (Taitt. Up. II, 1); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१.अनु.१) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विज्ञानम् आनन्दं ब्रह्म (बृ.५.९.२८) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Knowledge, bliss is Brahman' (Br̥. Up. III, 9, 28)--
+</details>
+
+<details><summary>मूलम्</summary>
+
+विज्ञानमानन्दं ब्रह्म (बृ.५.९.२८) 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदि--शोधक-वाक्यावसेय- निर्विशेष--स्व-रूप--ब्रह्मात्मैकत्व-विज्ञानं च 
+</details>
+
+<details><summary>English</summary>
+
+The knowledge again of the essential unity and non-difference of Brahman--which is ascertained from decisive texts such as (the above).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिशोधकवाक्यावसेयनिर्विशेषस्वरूपब्रह्मात्मैकत्वविज्ञानं च 
+</details>
+
+##### ऐक्य-वाचकानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अथ योऽन्यां देवताम् उपास्ते-  
+अन्योऽसाव् अन्योऽहम् अस्मीति  
+न स वेद (बृ.३.४.१०) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Now if a man meditates on another deity, thinking the deity is one and he another, he does not know' (Br̥. Up. I, 4, 10); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथ योऽन्यां देवतामुपास्ते-अन्योऽसावन्योऽहमस्मीति न स वेद (बृ.३.४.१०) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अकृत्स्नो ह्य् एषः (बृ.३.४.७) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अकृत्स्नो ह्येषः (बृ.३.४.७) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आत्मेत्य् एवोपासीत (बृ.उ.३.४.७) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Let men meditate upon him as the Self (Br̥. Up. I, 4, 7); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्मेत्येवोपासीत (बृ.उ.३.४.७) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत् त्वम् असि (छां.उ.६.८.७) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Thou art that' (Cḥ. Up. VI, 8, 7); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्त्वमसि (छां.उ.६.८.७) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> त्वं वा अहम् अस्मि भगवो देवते?  
+अहं वै त्वम् असि भगवो देवते?  
+</details>
+
+<details><summary>English</summary>
+
+> 'Am I thou, O holy deity? and art thou me, O holy deity?'; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्वं वा अहमस्मि भगवो देवते अहं वै त्वमसि भगवो देवते 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तद् योऽहं सोऽसौ,  
+योऽसौ सोऽहम् अस्मि  
+(ऐ.आ.४.२) 
+</details>
+
+<details><summary>English</summary>
+
+> 'What I am that is he; what he is that am I.'--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद्योऽहं सोऽसौ योऽसौ सोऽहमस्मि (ऐ.आ.४.२) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदि-वाक्य-सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+This is confirmed by other passages, such as (the above).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिवाक्यसिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वक्ष्यति चैतद् एव – 
+
+> आत्मेति तूपगच्छन्ति ग्राहयन्ति च (ब्र.सू.४.१.३) 
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+This the Sūtrakāra himself will declare 'But as the Self (scriptural texts) acknowledge and make us apprehend (the Lord)' (Ve. Sū. IV, 1, 3). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वक्ष्यति चैतदेव – आत्मेति तूपगच्छन्ति ग्राहयन्ति च (ब्र.सू.४.१.३) इति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च वाक्य-कारः -  
+
+> आत्मेत्य् एव तु गृह्णीयात्  
+सर्वस्य तन्-निष्पत्तेः  
+(ब्रह्मनन्दिवाक्यम्) 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+Thus the Vākyakāra also, 'It is the Self--thus one should apprehend (everything), for everything is effected by that.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च वाक्यकारः- आत्मेत्येव तु गृह्णीयात् सर्वस्य तन्निष्पत्तेः (ब्रह्मनन्दिवाक्यम्) इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनेन च ब्रह्मात्मैकत्व-विज्ञानेन  
+मिथ्या-रूपस्य स-+++(अविद्या→)+++कारणस्य बन्धस्य  
+निवृत्तिर् युक्ता ॥
+</details>
+
+<details><summary>English</summary>
+
+And to hold that by such cognition of the oneness of Brahman essentially false bondage, together with its cause, comes to an end, is only reasonable.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनेन च ब्रह्मात्मैकत्वविज्ञानेन मिथ्यारूपस्य सकारणस्य बन्धस्य निवृत्तिर्युक्ता ॥
+</details>
+
+
+#### निवर्त्य-निवर्तक-भावः
 
 ननु च सकलभेदनिवृत्तिः प्रत्यक्षविरुद्धा कथमिव शास्त्रजन्यविज्ञानेन क्रियते? कथं वा रज्जुरेषा न सर्पः इति ज्ञानेन प्रत्यक्षविरुद्धा सर्पनिवृत्तिः क्रियते? तत्र द्वयोः प्रत्यक्षयोर्विरोधः; इह तु प्रत्यक्षमूलस्य शास्त्रस्य प्रत्यक्षस्य चेति चेत्; तुल्ययोर्विरोधे वा कथं बाध्यबाधकभावः? पूर्वोत्तरयोर्दुष्टकारणजन्यत्वतदभावाभ्याम् – इति चेत्; शास्त्रप्रत्यक्षयोरपि समानमेतत्।
 
