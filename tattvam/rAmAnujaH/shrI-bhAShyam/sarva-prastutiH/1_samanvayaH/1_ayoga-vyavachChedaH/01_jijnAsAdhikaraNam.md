@@ -8516,16 +8516,190 @@ and the word 'infinite' distinguishes it from whatever is limited in time or spa
 अनन्तपदं च देशतः कालतो वस्तुतश्च परिच्छिन्नात् व्यावृत्तपरम्। 
 </details>
 
+##### सर्व-व्यावृत्ति-मात्रम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च व्यावृत्तिर्भावरूपोऽभावरूपो वा धर्मः। अपि तु सकलेतरविरोधि ब्रह्मैव। यथा शौक्ल्यादेः कार्ष्ण्यादिव्यावृत्तिस्तत्पदार्थस्वरूपमेव, न धर्मान्तरम्। एवमेकस्यैव वस्तुनस्सकलेतरविरोध्याकारतामवगमयदर्थवत्तरमेकार्थमपर्यायं च पदत्रयम्॥
+न च व्यावृत्तिर् भाव-रूपो ऽभाव-रूपो वा धर्मः। 
+</details>
 
-## ब्रह्मणः निर्विशेषत्वस्थापनम्, कारणवाक्यैकार्थ्यवर्णनं च
+<details><summary>English</summary>
 
-तस्मादेकमेव ब्रह्म स्वयंज्योतिर्निर्धूतनिखिलविशेषमित्युक्तं भवति । एवं वाक्यार्थप्रतिपादने सत्येव सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् (छां.६.२.१) – इत्यादिभिरैकार्थ्यम्।
+Nor is this 'distinction' some positive or negative attribute of Brahman, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च व्यावृत्तिर्भावरूपोऽभावरूपो वा धर्मः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि तु सकलेतरविरोधि ब्रह्मैव। 
+</details>
+
+<details><summary>English</summary>
+
+it rather is just Brahman itself as opposed to everything else; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि तु सकलेतरविरोधि ब्रह्मैव। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा शौक्ल्यादेः कार्ष्ण्यादि-व्यावृत्तिस् तत्-पदार्थ--स्व-रूपम् एव, न धर्मान्तरम् +++(4)+++-  
+</details>
+
+<details><summary>English</summary>
+
+just as the distinction of white colour from black and other colours is just the true nature of white, not an attribute of it. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा शौक्ल्यादेः कार्ष्ण्यादिव्यावृत्तिस्तत्पदार्थस्वरूपमेव, न धर्मान्तरम् -  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् एकस्यैव वस्तुनस्  
+सकलेतर-विरोध्य्-आकारताम् अवगमयद्  
+अर्थवत्तरम् एकार्थम् अ-पर्यायं च पदत्रयम्॥
+</details>
+
+<details><summary>English</summary>
+
+The three words constituting the text thus _have_ a meaning, have _one_ meaning, and are non-synonymous, in so far as they convey the essential distinction of one thing, viz. Brahman from everything else. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमेकस्यैव वस्तुनस्सकलेतरविरोध्याकारतामवगमयदर्थवत्तरमेकार्थमपर्यायं च पदत्रयम्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् 
+
+> एकम् एव ब्रह्म स्वयं-ज्योतिर्  
+निर्धूत-निखिल-विशेषम् 
+
+इत्य् उक्तं भवति । 
+</details>
+
+<details><summary>English</summary>
+
+The text thus declares the one Brahman which is self-luminous and free from all difference. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मादेकमेव ब्रह्म स्वयंज्योतिर्निर्धूतनिखिलविशेषमित्युक्तं भवति । 
+</details>
+
+
+##### कारण-वाक्येष्व् अपि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं वाक्यार्थ-प्रतिपादने सत्य् एव 
+
+> सद् एव सोम्येदम् अग्र आसीद्  
+एकम् एवाद्वितीयम् (छां.६.२.१) – 
+
+इत्य्-आदिभिर् ऐकार्थ्यम्।
+</details>
+
+<details><summary>English</summary>
+
+On this interpretation of the text we discern its oneness in purport with other texts, such as 
+
+> 'Being only this was in the beginning, one only, without a second.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं वाक्यार्थप्रतिपादने सत्येव सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् (छां.६.२.१) – इत्यादिभिरैकार्थ्यम्।
+</details>
+
+##### कारण-स्वरूप-वाक्यानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यतो वा इमानि भूतानि जायन्ते (तै.भृगु.१.अनु.) 
+</details>
+
+<details><summary>English</summary>
+
+> 'That from whence these beings are born' (Taitt. Up. III, 1); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यतो वा इमानि भूतानि जायन्ते (तै.भृगु.१.अनु.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सद् एव सोम्येदम् अग्र आसीत् (छां.६.२.१) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Being only this was in the beginning' (Cḥ. Up. VI, 2, 1); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सदेव सोम्येदमग्र आसीत् (छां.६.२.१) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आत्मा वा इदम् एक एवाग्र आसीत् (ऐ.१.१.१) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Self alone was this in the beginning' (Br̥. Up. I, 4, 1), &c., 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्मा वा इदमेक एवाग्र आसीत् (ऐ.१.१.१) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिभिर् जगत्-कारणतयोपलक्षितस्य ब्रह्मणः स्व-रूपम् इदम् उच्यते –  
+सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१.१) इति। 
+</details>
+
+<details><summary>English</summary>
+
+Texts such as (the above) describe Brahman as the cause of the world; and of this Brahman the Taittirīya passage 'The True, knowledge, infinite is Brahman' gives the strict definition.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिभिर्जगत्कारणतयोपलक्षितस्य ब्रह्मणः स्वरूपमिदमुच्यते – सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१.१) इति। 
+</details>
+
 
 ## ब्रह्मलक्षणवाक्यस्य अखण्डैकरसवस्तुप्रतिपादकत्वम्
 
-यतो वा इमानि भूतानि जायन्ते (तै.भृगु.१.अनु.) सदेव सोम्येदमग्र आसीत् (छां.६.२.१) आत्मा वा इदमेक एवाग्र आसीत् (ऐ.१.१.१) इत्यादिभिर्जगत्कारणतयोपलक्षितस्य ब्रह्मणः स्वरूपमिदमुच्यते – सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१.१) इति। तत्र सर्वशाखाप्रत्ययन्यायेन कारणवाक्येषु सर्वेषु सजातीयविजातीयव्यावृत्तमद्वतीयं ब्रह्मावगतम्। जगत्कारणतयोपलक्षितस्य ब्रह्मणोऽद्वितीयस्य प्रतिपिपादयिषितं स्वरूपं तदविरोधेन वक्तव्यम्। अद्वितीयत्वश्रुतिर्गुणतोऽपि सद्वितीयतां न सहते। अन्यथा निरञ्जनम् (श्वे.६.१९) निर्गुणम् (आत्मोपनिषत्) इत्यादिभिश्च विरोधः। अतश्चैतल्लक्षणवाक्यमखण्डैकरसमेव प्रतिपादयति।
+तत्र सर्वशाखाप्रत्ययन्यायेन कारणवाक्येषु सर्वेषु सजातीयविजातीयव्यावृत्तमद्वतीयं ब्रह्मावगतम्। जगत्कारणतयोपलक्षितस्य ब्रह्मणोऽद्वितीयस्य प्रतिपिपादयिषितं स्वरूपं तदविरोधेन वक्तव्यम्। अद्वितीयत्वश्रुतिर्गुणतोऽपि सद्वितीयतां न सहते। अन्यथा निरञ्जनम् (श्वे.६.१९) निर्गुणम् (आत्मोपनिषत्) इत्यादिभिश्च विरोधः। अतश्चैतल्लक्षणवाक्यमखण्डैकरसमेव प्रतिपादयति।
 
 ## लक्षणाया दोषत्वादोषत्वविचारः
 
