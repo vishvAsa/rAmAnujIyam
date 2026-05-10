@@ -8282,11 +8282,242 @@ But--an objection is raised--
 </details>
 
 
-नेत्युच्यते, सामानाधिकरण्येनैकार्थत्वप्रतीतेः । अनेकगुणविशिष्टाभिधानेऽप्येकार्थत्वमविरुद्धम् – इति चेत्; अनभिधानज्ञो देवानां प्रियः। एकार्थत्वं नाम सर्वपदानामर्थैक्यम्; विशिष्टपदार्थाभिधाने विशेषणभेदेन पदानामर्थभेदोऽवर्जनीयः; ततश्चैकार्थत्वं न सिध्यति। एवं तर्हि सर्वपदानां पर्यायता स्यात्, अविशिष्टार्थ अभिधायित्वात्। एकार्थाभिधायित्वेऽप्यपर्यायत्वमवहितमनाश्शृणु; एकत्वतात्पर्य-निश्चयात् एकस्यैवार्थस्य तत्तत्पदार्थविरोधि-प्रत्यनीकत्वपरत्वेन सर्वपदानामर्थवत्वमेकार्थत्वं अपर्यायता च॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## सत्यादिवाक्यार्थस्य परिष्कृतं निगमनम्
+नेत्य् उच्यते, सामानाधिकरण्येनैकार्थत्व-प्रतीतेः । 
+</details>
 
-एतदुक्तं भवति । लक्षणतः प्रतिपत्तव्यं ब्रह्म सकलेतरपदार्थविरोधिरूपम्। तद्विरोधिरूपं सर्वमनेन पदत्रयेण फलतो व्युदस्यते। तत्र सत्यपदं विकारास्पदत्वेनासत्याद्वस्तुनो व्यावृत्तब्रह्मपरम्। ज्ञानपदं चान्याधीनप्रकाशजडरूपाद्वस्तुनो व्यावृत्तपरम्। अनन्तपदं च देशतः कालतो वस्तुतश्च परिच्छिन्नात् व्यावृत्तपरम्। न च व्यावृत्तिर्भावरूपोऽभावरूपो वा धर्मः। अपि तु सकलेतरविरोधि ब्रह्मैव। यथा शौक्ल्यादेः कार्ष्ण्यादिव्यावृत्तिस्तत्पदार्थस्वरूपमेव, न धर्मान्तरम्। एवमेकस्यैव वस्तुनस्सकलेतरविरोध्याकारतामवगमयदर्थवत्तरमेकार्थमपर्यायं च पदत्रयम्॥
+<details><summary>English</summary>
+
+Not so, we reply.  
+From the circumstance that all the terms of the sentence stand in co-ordination,  
+it follows that they convey the idea of one matter (sense) only. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नेत्युच्यते, सामानाधिकरण्येनैकार्थत्वप्रतीतेः । 
+</details>
+
+##### अविशिष्टम् एकम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनेक-गुण-विशिष्टाभिधाने ऽप्य् एकार्थत्वम् अ-विरुद्धम् 
+
+\– इति चेत्; अन्-अभिधान-ज्ञो देवानां प्रियः +++(वक्ष्यमाण-रीत्या)+++। 
+</details>
+
+<details><summary>English</summary>
+
+If against this you urge that the sentence may convey the idea of one matter only, even if directly expressing a thing distinguished by several qualities; we must remark that you display an ignorance of the meaning of language which appears to point to some weak-mindedness on your part. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनेकगुणविशिष्टाभिधानेऽप्येकार्थत्वमविरुद्धम् – इति चेत्; अनभिधानज्ञो देवानां प्रियः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकार्थत्वं नाम सर्व-पदानाम् अर्थैक्यम्; 
+</details>
+
+<details><summary>English</summary>
+
+A sentence conveys the idea of one matter (sense) only when all its constitutive words denote one and the same thing; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकार्थत्वं नाम सर्वपदानामर्थैक्यम्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विशिष्ट-पदार्थाभिधाने विशेषण-भेदेन पदानाम् अर्थ-भेदो ऽवर्जनीयः; 
+</details>
+
+<details><summary>English</summary>
+
+if, on the othcr hand, it expresses a thing possessing several attributes, the difference of these attributes necessarily leads to a difference in meaning on the part of the individual words, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विशिष्टपदार्थाभिधाने विशेषणभेदेन पदानामर्थभेदोऽवर्जनीयः; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश्चैकार्थत्वं न सिध्यति। 
+</details>
+
+<details><summary>English</summary>
+
+and then the oneness of meaning of the sentence is lost.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततश्चैकार्थत्वं न सिध्यति। 
+</details>
+
+##### अपर्यायत्वं विरुद्धार्थ-तिरस्कृत्या
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एवं तर्हि सर्व-पदानां पर्यायता स्यात्,  
+अ-विशिष्टार्थाभिधायित्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+> But from your view of the passage it would follow that the several words are mere synonyms!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं तर्हि सर्वपदानां पर्यायता स्यात्, अविशिष्टार्थाभिधायित्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकार्थाभिधायित्वे ऽप्य् अ-पर्यायत्वम् अवहित-मनाश् शृणु; 
+</details>
+
+<details><summary>English</summary>
+
+Give us your attention, we reply,  
+and learn that several words may convey one meaning  
+without being idle synonyms. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकार्थाभिधायित्वेऽप्यपर्यायत्वमवहितमनाश्शृणु; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकत्व-तात्पर्य-निश्चयात्  
+एकस्यैवार्थस्य तत्-तत्-पदार्थ-विरोधि-- प्रत्यनीकत्व-परत्वेन  
+सर्व-पदानाम् अर्थवत्त्वम् एकार्थत्वं अपर्यायता च॥
+</details>
+
+<details><summary>English</summary>
+
+From the determination of the unity of purport of the whole sentence [fn_6] we conclude that the several words, applied to one thing, aim at expressing what is opposite in nature to whatever is contrary to the meanings of the several words, and that thus they have meaning and unity of meaning and yet are not mere synonyms.
+
+[fn_6]: 27:2 The unity of purport of the sentence is inferred from its constituent words having the same case-ending.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकत्वतात्पर्य-निश्चयात् एकस्यैवार्थस्य तत्तत्पदार्थविरोधि-प्रत्यनीकत्वपरत्वेन सर्वपदानामर्थवत्वमेकार्थत्त्वं अपर्यायता च॥
+</details>
+
+
+
+##### निगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति -  
+लक्षणतः प्रतिपत्तव्यं ब्रह्म  
+सकलेतर-पदार्थ-विरोधि-रूपम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+The details are as follows. Brahman is to be defined as what is contrary in nature to all other things. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति - लक्षणतः प्रतिपत्तव्यं ब्रह्म सकलेतरपदार्थविरोधिरूपम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-विरोधि-रूपं सर्वम्  
+अनेन पद-त्रयेण फलतो व्युदस्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Now whatever is opposed to Brahman is virtually set aside by the three words (constituting the definition of Brahman in the Taittiriya-text). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद्विरोधिरूपं सर्वमनेन पदत्रयेण फलतो व्युदस्यते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र सत्य-पदं विकारास्पदत्वेनासत्याद् वस्तुनो व्यावृत्त-ब्रह्म-परम्। 
+</details>
+
+<details><summary>English</summary>
+
+The word 'true' (or 'truly being') has the purport of distinguishing Brahman from whatever things have no truth, as being the abodes of change; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र सत्यपदं विकारास्पदत्वेनासत्याद्वस्तुनो व्यावृत्तब्रह्मपरम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-पदं चान्याधीन-प्रकाश--जड-रूपाद् वस्तुनो व्यावृत्त-+++(ब्रह्म-)+++परम्। 
+</details>
+
+<details><summary>English</summary>
+
+the word 'knowledge' distinguishes Brahman from all non-sentient things whose light depends on something else (which are not self-luminous); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानपदं चान्याधीनप्रकाशजडरूपाद्वस्तुनो व्यावृत्तपरम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्त-पदं च  
+देशतः कालतो वस्तुतश् च परिच्छिन्नात् व्यावृत्त+++(ब्रह्म-)+++परम्। 
+</details>
+
+<details><summary>English</summary>
+
+and the word 'infinite' distinguishes it from whatever is limited in time or space or nature. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्तपदं च देशतः कालतो वस्तुतश्च परिच्छिन्नात् व्यावृत्तपरम्। 
+</details>
+
+
+न च व्यावृत्तिर्भावरूपोऽभावरूपो वा धर्मः। अपि तु सकलेतरविरोधि ब्रह्मैव। यथा शौक्ल्यादेः कार्ष्ण्यादिव्यावृत्तिस्तत्पदार्थस्वरूपमेव, न धर्मान्तरम्। एवमेकस्यैव वस्तुनस्सकलेतरविरोध्याकारतामवगमयदर्थवत्तरमेकार्थमपर्यायं च पदत्रयम्॥
 
 ## ब्रह्मणः निर्विशेषत्वस्थापनम्, कारणवाक्यैकार्थ्यवर्णनं च
 
