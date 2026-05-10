@@ -7798,29 +7798,491 @@ And to hold that by such cognition of the oneness of Brahman essentially false b
 </details>
 
 
-#### निवर्त्य-निवर्तक-भावः
+#### प्रत्यक्षाच् छास्त्र-बलम्
 
-ननु च सकलभेदनिवृत्तिः प्रत्यक्षविरुद्धा कथमिव शास्त्रजन्यविज्ञानेन क्रियते? कथं वा रज्जुरेषा न सर्पः इति ज्ञानेन प्रत्यक्षविरुद्धा सर्पनिवृत्तिः क्रियते? तत्र द्वयोः प्रत्यक्षयोर्विरोधः; इह तु प्रत्यक्षमूलस्य शास्त्रस्य प्रत्यक्षस्य चेति चेत्; तुल्ययोर्विरोधे वा कथं बाध्यबाधकभावः? पूर्वोत्तरयोर्दुष्टकारणजन्यत्वतदभावाभ्याम् – इति चेत्; शास्त्रप्रत्यक्षयोरपि समानमेतत्।
+<details><summary>English</summary>
 
-एतदुक्तं भवति – बाध्यबाधकभावे तुल्यत्वसापेक्षत्वनिरपेक्षत्वादि न कारणम्; ज्वालाभेदानुमानेन प्रत्यक्षोपमर्दायोगात् । तत्र हि ज्वालैक्यं प्रत्यक्षेणावगम्यते । एवं च सति द्वयोः प्रमाणयोर्विरोधे यत्संभाव्यमानान्यथासिद्धि, तद्बाध्यम्; अनन्यथासिद्धमनवकाशम् इतरद्बाधकम् – इति सर्वत्र बाध्यबाधकभावनिर्णयः – इति ॥
+Scripture is of greater force than Perception
+</details>
 
-## सयुक्तिकम् शास्त्रप्राबल्यम्
+##### पूर्व-पक्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात् अनादिनिधनाविच्छिन्नसम्प्रदायासम्भाव्यमानदोषगन्धानवकाशशास्त्रजन्य-निर्विशेषनित्यशुद्धमुक्तबुद्धस्वप्रकाशचिन्मात्रब्रहह्मात्मभावावबोधेन सम्भाव्यमानदोषसावकाश-प्रत्यक्षादिसिद्धविविधविकल्परूप-बन्धनिवृत्तिर्युक्तैव । सम्भाव्यते च विविधविकल्पभेदप्रपञ्च ग्राहिप्रत्यक्षस्यानादिभेदवासनादिरूपाविद्याख्यो दोषः।
+> ननु च सकल-भेद-निवृत्तिः प्रत्यक्ष-विरुद्धा कथम् इव शास्त्रजन्यविज्ञानेन क्रियते? 
+</details>
 
-## शास्त्रेषु मोक्षशास्त्रस्य प्राबल्यम्
+<details><summary>English</summary>
 
-ननु अनादिनिधनाविच्छिन्नसम्प्रदायतया निर्दोषस्यापि शास्त्रस्य ज्योतिष्टोमेन स्वर्गकामो यजेत इत्येवमादेर्भेदावलम्बिनो बाध्यत्वं प्रसज्येत। सत्यम्; पूर्वापरापच्छेदे पूर्वशास्त्रवन्मोक्षशास्त्रस्य निरवकाशत्वात्तेन बाध्यत एव । वेदान्तवाक्येष्वपि सगुणब्रह्मोपासनपराणां शास्त्रणामयमेव न्यायः, निर्गुणत्वात्परस्यब्रह्मणः।
+But, an objection is raised--
 
-## स्वरूपपरेषु सगुणनिर्गुणवाक्येषु बाध्य-बाधकभावचिन्ता
+> how can knowledge, springing from the sacred texts, bring about a cessation of the view of difference, in manifest opposition to the evidence of Perception?
+</details>
 
-ननु च – यस्सर्वज्ञस्सर्ववित् (मु.उ.२.२.७) पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानवलक्रिया च (श्वे.उ.६.८) सत्यकामस्सत्यसङ्कल्पः (छा.उ.८.१.५) इत्यादिब्रह्मस्वरूपप्रतिपादन-पराणां शास्त्राणां कथं बाध्यत्वम्? निर्गुणवाक्यसामर्थ्यात् इति ब्रूमः।
+<details><summary>मूलम्</summary>
 
-एतदुक्तं भवति – अस्थूलमनण्वह्रस्वमदीर्घम् (बृ.५अ.८ब्रा.) सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१) निर्गुणम् (आत्मोपनिषत्) निरञ्जनम् (श्वे.उ.६.१९.) – इत्यादिवाक्यानि निरस्तसमस्त-विशेषकूटस्थनित्यचैतन्यम् ब्रह्म – इति प्रतिपादयन्ति इतराणि च सगुणम् । उभयविधवाक्यानां विरोधे तेनैवापच्छेदन्यायेन निगुर्णवाक्यानां गुणापेक्षत्वेन परत्वाद्वलीयस्त्वमिति न किञ्चिदपहीनम् ॥
+ननु च सकलभेदनिवृत्तिः प्रत्यक्षविरुद्धा कथमिव शास्त्रजन्यविज्ञानेन क्रियते? 
+</details>
 
-## सत्यादिवाक्यविचापरः, सामानाधिकरण्यं च
 
-ननु च – सत्यं ज्ञानमनन्तं ब्रह्म इत्यत्र सत्यज्ञानादयो गुणाः प्रतीयन्ते॥ नेत्युच्यते, सामानाधिकरण्येनैकार्थत्वप्रतीतेः । अनेकगुणविशिष्टाभिधानेऽप्येकार्थत्वमविरुद्धम् – इति चेत्; अनभिधानज्ञो देवानां प्रियः। एकार्थत्वं नाम सर्वपदानामर्थैक्यम्; विशिष्टपदार्थाभिधाने विशेषणभेदेन पदानामर्थभेदोऽवर्जनीयः; ततश्चैकार्थत्वं न सिध्यति। एवं तर्हि सर्वपदानां पर्यायता स्यात्, अविशिष्टार्थ अभिधायित्वात्। एकार्थाभिधायित्वेऽप्यपर्यायत्वमवहितमनाश्शृणु; एकत्वतात्पर्य-निश्चयात् एकस्यैवार्थस्य तत्तत्पदार्थविरोधि-प्रत्यनीकत्वपरत्वेन सर्वपदानामर्थवत्वमेकार्थत्वं अपर्यायता च॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कथं वा "रज्जुर् एषा, न सर्पः" इति ज्ञानेन  
+प्रत्यक्ष-विरुद्धा सर्प-निवृत्तिः क्रियते? 
+</details>
+
+<details><summary>English</summary>
+
+> How then, we rejoin, can the knowledge that this thing is a rope and not a snake bring about, in opposition to actual perception, the cessation of the (idea of the) snake?
+</details>
+
+<details><summary>मूलम्</summary>
+
+कथं वा रज्जुरेषा न सर्पः इति ज्ञानेन प्रत्यक्षविरुद्धा सर्पनिवृत्तिः क्रियते? 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > तत्र द्वयोः प्रत्यक्षयोर् विरोधः;  
+इह तु प्रत्यक्ष-मूलस्य शास्त्रस्य  
+प्रत्यक्षस्य च
+>
+> इति चेत्; 
+</details>
+
+<details><summary>English</summary>
+
+> You will perhaps reply that in this latter case there is a conflict between two forms of perception, while in the case under discussion the conflict is between direct perception and Scripture which is based on perception. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र द्वयोः प्रत्यक्षयोर्विरोधः; इह तु प्रत्यक्षमूलस्य शास्त्रस्य प्रत्यक्षस्य चेति चेत्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तुल्ययोर् विरोधे वा कथं बाध्य-बाधक-भावः? 
+</details>
+
+<details><summary>English</summary>
+
+> But against this we would ask the question how, in the case of a conflict between two equal cognitions, we decide as to which of the two is refuted (sublated) by the other. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तुल्ययोर्विरोधे वा कथं बाध्यबाधकभावः? 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > पूर्वोत्तरयोर् दुष्ट-कारण-जन्यत्व-- तद्-अभावाभ्याम् – 
+>
+> इति चेत्;  
+शास्त्र-प्रत्यक्षयोर् अपि समानम् एतत्।
+</details>
+<details><summary>English</summary>
+
+> If--as is to be expected--you reply that what makes the difference between the two is that one of them is due to a defective cause while the other is not:  
+we point out that this distinction holds good also in the case of Scripture and perception being in conflict. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> पूर्वोत्तरयोर्दुष्टकारणजन्यत्वतदभावाभ्याम् – इति चेत्; शास्त्रप्रत्यक्षयोरपि समानमेतत्।
+</details>
+
+
+##### अदोषाद् अनवकाशात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति –  
+बाध्य-बाधक-भावे  
+तुल्यत्व-सापेक्षत्व-निरपेक्षत्वादि न कारणम्;  
+ज्वाला-भेदानुमानेन प्रत्यक्षोपमर्दायोगात् ।   
+तत्र हि ज्वालैक्यं प्रत्यक्षेणावगम्यते।  
+</details>
+
+<details><summary>English</summary>
+
+It is not considerations as to the equality of conflicting cognitions, as to their being dependent or independent, and so on,  
+that determine which of the two sublates the other;  
+if that were the case, the perception which presents to us the flame of the lamp as one only would not be sublated by the cognition arrived at by inference that there is a succession of different flames. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति – बाध्यबाधकभावे तुल्यत्वसापेक्षत्वनिरपेक्षत्वादि न कारणम्; ज्वालाभेदानुमानेन प्रत्यक्षोपमर्दायोगात् । तत्र हि ज्वालैक्यं प्रत्यक्षेणावगम्यते।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं च सति  
+
+> द्वयोः प्रमाणयोर् विरोधे  
+यत् संभाव्यमानान्यथा-सिद्धि, तद् बाध्यम्;  
+अन्-अन्यथा-सिद्धम् अनवकाशम् इतरद् बाधकम् –  
+
+इति सर्वत्र बाध्य-बाधक-भाव-निर्णयः –  
+
+इति ॥
+</details>
+
+<details><summary>English</summary>
+
+> Wherever there is a conflict between cognitions based on two different means of knowledge we assign the position of the 'sublated one' to that which admits of being accounted for in some other way; while that cognition which affords no opening for being held unauthoritative and cannot be accounted for in another way, is the 'sublating one.'  
+This is the principle on which the relation between 'what sublates' and 'what is sublated' is decided everywhere. 
+</details>
+
+<details><summary>English - Note</summary>
+
+25:1 The distinction is illustrated by the different views Perception and Inference cause us to take of the nature of the flame of the lamp. To Perception the flame, as long as it burns, seems one and the same: but on the ground of the observation that the different particles of the wick and the oil are consumed in succession, we infer that there are many distinct flames succeeding one another. And we accept the Inference as valid, and as sublating or refuting the immediate perception, because the perceived oneness of the flame admits of being accounted for 'otherwise,' viz. on the ground of the many distinct flames originating in such rapid succession that the eye mistakes them for one. The inference on the other hand does not admit of being explained in another way.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+एवं च सति द्वयोः प्रमाणयोर्विरोधे यत्संभाव्यमानान्यथासिद्धि, तद्बाध्यम्; अनन्यथासिद्धमनवकाशम् इतरद्बाधकम् – इति सर्वत्र बाध्यबाधकभावनिर्णयः – इति ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात्, अनादि-निधनाविच्छिन्न-सम्प्रदाय-- +असम्भाव्यमान-दोष-गन्धानवकाश-  
+शास्त्र-जन्य-- निर्विशेष-नित्य-- शुद्ध-मुक्त-बुद्ध--स्व-प्रकाश-- चिन्-मात्र-ब्रह्मात्म-भावावबोधेन  
+सम्भाव्यमान-दोष-सावकाश- प्रत्यक्षादि-सिद्ध-- विविध-विकल्प-रूप-- बन्ध-निवृत्तिर् युक्तैव । 
+</details>
+
+<details><summary>English</summary>
+
+Now apprehension of Brahman--which is mere intelligence, eternal, pure, free, self-luminous--is effected by Scripture which rests on endless unbroken tradition, cannot therefore be suspected of any, even the least, imperfection, and hence cannot be non-authoritative;  
+the state of bondage, on the other hand, with its manifold distinctions is proved by Perception, Inference, and so on,  
+which are capable of imperfections and therefore may be non-authoritative. 
+
+It is therefore reasonable to conclude that the state of bondage is put an end to by the apprehension of Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मात् अनादिनिधनाविच्छिन्नसम्प्रदायासम्भाव्यमानदोषगन्धानवकाशशास्त्रजन्य-निर्विशेषनित्यशुद्धमुक्तबुद्धस्वप्रकाशचिन्मात्रब्रह्मात्मभावावबोधेन सम्भाव्यमानदोषसावकाश-प्रत्यक्षादिसिद्धविविधविकल्परूप-बन्धनिवृत्तिर्युक्तैव । 
+</details>
+
+##### अनाद्य्-अविद्या-दोषात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम्भाव्यते च विविध-विकल्प-भेद-- प्रपञ्च-ग्राहि-प्रत्यक्षस्य  
+अनादि-भेद-वासनादि-रूपाविद्याख्यो दोषः।
+</details>
+
+<details><summary>English</summary>
+
+And that imperfection of which Perception--through which we apprehend a world of manifold distinctions--may be assumed to be capable, is so-called Nescience, which consists in the beginningless wrong imagination of difference.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सम्भाव्यते च विविधविकल्पभेदप्रपञ्च ग्राहिप्रत्यक्षस्यानादिभेदवासनादिरूपाविद्याख्यो दोषः।
+</details>
+
+
+
+#### भेदशास्त्रान् मोक्षशास्त्र-बलम् 
+
+<details><summary>English</summary>
+
+The texts which represent Brahman as devoid of qualities have greater force
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु अनादि-निधनाविच्छिन्न-सम्प्रदायतया निर्दोषस्यापि शास्त्रस्य  
+"ज्योतिष्-टोमेन स्वर्ग-कामो यजेत" इत्य्-एवम्-आदेर् भेदावलम्बिनो  
+बाध्यत्वं प्रसज्येत। 
+</details>
+
+<details><summary>English</summary>
+
+> Well then-- a further objection is raised-- let us admit that Scripture is perfect because resting on an endless unbroken tradition; but must we then not admit that texts evidently presupposing the view of duality, as e.g. 'Let him who desires the heavenly world offer the Jyotishṭoma-sacrifice'--are liable to refutation?
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु अनादिनिधनाविच्छिन्नसम्प्रदायतया निर्दोषस्यापि शास्त्रस्य ज्योतिष्टोमेन स्वर्गकामो यजेत इत्येवमादेर्भेदावलम्बिनो बाध्यत्वं प्रसज्येत। 
+</details>
+
+##### परत्वात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्यम्;  
++++(ऋत्विक्-सर्पणे)+++ पूर्वापरापच्छेदे +++(प्रायश्चित्ते करणीये क्रम-परत्व-चित-)+++ पूर्व-शास्त्रवन्  
+मोक्ष-शास्त्रस्य निरवकाशत्वात्  
+तेन बाध्यत एव । 
+</details>
+
+<details><summary>English</summary>
+
+--True, we reply.  
+As in the case of the Udgātr̥ and Pratihartr̥ breaking the chain (not at the same time, but) in succession [fn_4], so here also the earlier texts (which refer to duality and transitory rewards) are sublated by the later texts which teach final release, and are not themselves sublated by anything else.
+
+[fn_4]: 26:1 The reference is to the point discussed Pū. Mī. Sū. VI, 5, 54 (Jaim. Nyā. Mālā Vistara, p. 285).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्यम्; पूर्वापरापच्छेदे पूर्वशास्त्रवन्मोक्षशास्त्रस्य निरवकाशत्वात्तेन बाध्यत एव । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेदान्त-वाक्येष्व् अपि  
+स-गुण--ब्रह्मोपासन-पराणां शास्त्रणाम्  
+अयम् एव न्यायः,  
+निर्गुणत्वात् परस्य ब्रह्मणः।
+</details>
+
+<details><summary>English</summary>
+
+The same reasoning applies to those passages in the Vedānta-texts which inculcate meditation on the qualified Brahman, since the highest Brahman is without any qualities.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वेदान्तवाक्येष्वपि सगुणब्रह्मोपासनपराणां शास्त्रणामयमेव न्यायः, निर्गुणत्वात्परस्यब्रह्मणः।
+</details>
+
+
+##### ब्रह्म-स्वरूप-सगुणत्व-वाक्यानि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च – "यस् सर्वज्ञस् सर्व-वित्" (मु.उ.२.२.७) 
+</details>
+
+<details><summary>English</summary>
+
+> But consider such passages as  
+'He who cognises all, who knows all' (Mu. Up. I, 1, 9); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु च – यस्सर्वज्ञस्सर्ववित् (मु.उ.२.२.७) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > पराऽस्य शक्तिर् विविधैव श्रूयते  
+स्वाभाविकी ज्ञान-बल-क्रिया च (श्वे.उ.६.८) 
+</details>
+
+<details><summary>English</summary>
+
+> > 'His high power is revealed as manifold, as essential, acting as force and knowledge' (Śvet. Up. VI, 8); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.उ.६.८) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > सत्य-कामस् सत्य-सङ्कल्पः (छा.उ.८.१.५) 
+</details>
+
+<details><summary>English</summary>
+
+
+> > 'He whose wishes are true,  
+whose purposes are true' (Cḥ. Up. VIII, 1, 5); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्यकामस्सत्यसङ्कल्पः (छा.उ.८.१.५) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत्य्-आदि-- ब्रह्म--स्व-रूप--प्रतिपादन-पराणां शास्त्राणां कथं बाध्यत्वम्? 
+</details>
+
+<details><summary>English</summary>
+
+> how can these passages, which clearly aim at defining the nature of Brahman, be liable to refutation?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिब्रह्मस्वरूपप्रतिपादन-पराणां शास्त्राणां कथं बाध्यत्वम्? 
+</details>
+
+###### निर्गुण-वाक्यानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्गुण-वाक्य-सामर्थ्यात् इति ब्रूमः।
+</details>
+
+<details><summary>English</summary>
+
+Owing to the greater weight, we reply, of those texts which set forth Brahman as devoid of qualities. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निर्गुणवाक्यसामर्थ्यात् इति ब्रूमः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति –  
+
+> अ-स्थूलम् अ-नण्व् अ-ह्रस्वम् अ-दीर्घम् (बृ.५अ.८ब्रा.) 
+</details>
+
+<details><summary>English</summary>
+
+'It is not coarse, not fine, not short, not long' (Br̥. Up. III, 8, 8); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति – अस्थूलमनण्वह्रस्वमदीर्घम् (बृ.५अ.८ब्रा.) 
+</details>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१) 
+</details>
+
+<details><summary>English</summary>
+
+> 'The True, knowledge, infinite is Brahman' (Taitt. Up. II, 1); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निर्गुणम् (आत्मोपनिषत्) 
+</details>
+
+<details><summary>English</summary>
+
+> 'That which is free from qualities,' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+निर्गुणम् (आत्मोपनिषत्) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निरञ्जनम् (श्वे.उ.६.१९.) 
+</details>
+
+<details><summary>English</summary>
+
+> 'that which is free from stain'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निरञ्जनम् (श्वे.उ.६.१९.) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदि-वाक्यानि 
+
+> निरस्त-समस्त-विशेष-- कूट-स्थ-नित्य-चैतन्यम् ब्रह्म 
+
+\– इति प्रतिपादयन्ति,  
+इतराणि च सगुणम् । 
+</details>
+
+<details><summary>English</summary>
+
+--these and similar texts convey the notion of Brahman being changeless, eternal intelligence devoid of all difference; while the other texts--quoted before--teach the qualified Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिवाक्यानि निरस्तसमस्त-विशेषकूटस्थनित्यचैतन्यम् ब्रह्म – इति प्रतिपादयन्ति,  
+इतराणि च सगुणम् । 
+</details>
+
+###### परत्वाद् बलम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उभय-विध-वाक्यानां विरोधे  
+तेनैवापच्छेदन्यायेन  
+निर्गुण-वाक्यानां +++(गुण-बाधने)+++ गुणापेक्षत्वेन परत्वाद् बलीयस्त्वम्  
+इति न किञ्चिद् अपहीनम् ॥ +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+And there being a conflict between the two sets of passages, we--according to the Mīmāṁsā principle referred to above--decide that the texts referring to Brahman as devoid of qualities are of greater force, because they are later in order [fn_5] than those which speak of Brahman as having qualities. Thus everything is settled.
+
+[fn_5]: 27:1 The texts which deny all qualities of Brahman are later in order than the texts which refer to Brahman as qualified, because denial presupposes that which is to be denied.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उभयविधवाक्यानां विरोधे तेनैवापच्छेदन्यायेन निर्गुणवाक्यानां गुणापेक्षत्वेन परत्वाद्बलीयस्त्वमिति न किञ्चिदपहीनम् ॥
+</details>
+
+
+
+#### सत्यादि-गुणाः?
+<details><summary>English</summary>
+
+The text Taitt. Up. II, 1 refers to Brahman as devoid of qualities.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च – "सत्यं ज्ञानम् अनन्तं ब्रह्म" इत्यत्र  
+सत्य-ज्ञानादयो गुणाः प्रतीयन्ते॥ 
+</details>
+
+<details><summary>English</summary>
+
+But--an objection is raised--
+
+> even the passage 'The True, knowledge, infinite is Brahman' intimates certain qualities of Brahman, viz. true being, knowledge, infinity!--
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु च – सत्यं ज्ञानमनन्तं ब्रह्म इत्यत्र सत्यज्ञानादयो गुणाः प्रतीयन्ते॥ 
+</details>
+
+
+नेत्युच्यते, सामानाधिकरण्येनैकार्थत्वप्रतीतेः । अनेकगुणविशिष्टाभिधानेऽप्येकार्थत्वमविरुद्धम् – इति चेत्; अनभिधानज्ञो देवानां प्रियः। एकार्थत्वं नाम सर्वपदानामर्थैक्यम्; विशिष्टपदार्थाभिधाने विशेषणभेदेन पदानामर्थभेदोऽवर्जनीयः; ततश्चैकार्थत्वं न सिध्यति। एवं तर्हि सर्वपदानां पर्यायता स्यात्, अविशिष्टार्थ अभिधायित्वात्। एकार्थाभिधायित्वेऽप्यपर्यायत्वमवहितमनाश्शृणु; एकत्वतात्पर्य-निश्चयात् एकस्यैवार्थस्य तत्तत्पदार्थविरोधि-प्रत्यनीकत्वपरत्वेन सर्वपदानामर्थवत्वमेकार्थत्वं अपर्यायता च॥
 
 ## सत्यादिवाक्यार्थस्य परिष्कृतं निगमनम्
 
