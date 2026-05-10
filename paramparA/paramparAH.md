@@ -101,7 +101,7 @@ This is an inferior setup. The pratinidhi-s will have less incentive to locally/
 
 छान्दोग्योपनिषत्, टङ्को ब्रह्मनन्दी वाक्यकार आत्रेयः (नायं हंसयोगि-गीताभाष्योक्त-टङ्क इति van buitenen.) → परिमित-गम्भीर-भाषी द्रमिडाचार्यो भाष्यकारः (शङ्करेणापि छान्दोग्यय् उदाहृतः। भार्गवाख्य-ऋषि-पुत्रस् तिरुमळिसै इति कुप्पुस्वामी) → गम्भीर-न्याय-सागर-भाषी श्रीवत्साङ्कमिश्रः, वामनष् टीकाकारः।
 
-?? → कपर्दी → भारुचिः। 
+?? → गुह-देवः, कपर्दी, भारुचिः। 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -319,9 +319,14 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 | Math's Sri Venkatesh Balaji Mandir, Vadodara in 2018.
 </details>
 
+The tenkalai akkarakani family people in early 1900s went to gujarat and got many sishyas there. They currently include kAnchI PBA's dauhitra. These people collect paisa saying kainkarya kainkarya from them and spend on anti VK cases in Kanchi.
 
 ### महाराष्ट्रे
 There were some SVs in Pune even in 18th and 19th centuries. A parakala matha yati had even administered samashrayana to some of the Brahmins there during a dharma dig vijaya in mid 19th century iirc.
+
+### विहार-राज्ये
+PBA family too went and established buxar matha. They get paisa from them and spend against VKs in TN.
+
 
 ### उत्कलः
 - देशिक-सम्प्रदायः

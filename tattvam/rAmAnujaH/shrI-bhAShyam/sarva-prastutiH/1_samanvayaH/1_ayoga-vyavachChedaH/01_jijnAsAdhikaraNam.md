@@ -7149,7 +7149,7 @@ What constitutes that imperfection is beginningless Nescience (avidyā), which, 
 
 <details><summary>English</summary>
 
-> 'By the Untrue they are hidden; of them which are true the Untrue is the covering' (Cḥ, Up. VIII, 3, 1); 
+> 'By the Untrue they are hidden; ' ; 
 </details>
 
 
@@ -7159,11 +7159,248 @@ What constitutes that imperfection is beginningless Nescience (avidyā), which, 
 </details>
 
 
-तेषां सत्यानां सतामनृतमपिधानम् (छा.८.३.१) नासदासीन्नो सदासीत्तदानीं तम आसीत्तमसा गूढमग्रे प्रकेतम् (यजु.२अष्ट.८.प्र.९अनु.) मायां तु प्रकृतिं विद्यान्मायिनं तु महेश्वरम् (श्वे.४.१०) इन्द्रो मायाभिः पुरुरूप ईयते (बृ.४.५.१९) मम माया दुरत्यया (भ.गी.७.१४) अनादिमायया सुप्तो यदा जीवः प्रबुध्यते (गौ.२.२१) इत्यादिभिः निर्विशेषचिन्मात्रं ब्रह्मैवानाद्यविद्यया सदसदनिर्वाच्यया तिरोहितस्वरूपं स्वगतनानात्वं पश्यतीत्यवगम्यते। यथोक्तम् –
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## ब्रह्मातिरिक्तस्य आविद्यकत्वे पौराणिकानि प्रमाणानि
+> तेषां सत्यानां सताम्  
+अ-नृतम् अपिधानम् (छा.८.३.१) 
+</details>
 
-ज्ञानस्वरूपो भगवान्यतोऽसावशेषमूर्तिर्न तु वस्तुभूतः। ततो हि शैलाब्धिधरादिभेदान् जानीहि विज्ञानविजृम्भितानि॥ यदा तु शुद्धं निजरूपि सर्वकर्मक्षये ज्ञानमपास्तदोषम्। तदा हि सङ्कल्पतरोः फलानि भवन्ति नो वस्तुषु वस्तुभेदाः॥ (वि.पु.२.१२.३९,४०) तस्मान्न विज्ञानमृतेऽस्ति किञ्चित्क्वचित् कदाचिद्द्विज! वस्तुजातम् । विज्ञानमेकं निजकर्मभेदविभिन्नचित्तैर्बहुधाऽभ्युपेतम्॥ ज्ञानं विशुद्धं विमलं विशोकमशेषलोभादिनिरस्तसङ्गम्। एकं सदैकं परमः परेशः स वासुदेवो न यतोऽन्यदस्ति॥ (वि.पु.२.१२.४३,४४) सद्भाव एवं भवतो मयोक्तो ज्ञानं यथा सत्यमसत्यमन्यत्। एतत्तु यत्संव्यवहारभूतं तत्रापि चोक्तं भुवनाश्रितं ते॥ (वि.पु.१.१२.४५)
+<details><summary>English</summary>
+
+> of them which are true the Untrue is the covering  
+(Cḥ, Up. VIII, 3, 1)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेषां सत्यानां सतामनृतमपिधानम् (छा.८.३.१) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नासद् आसीन्, नो सद् आसीत् तदानीं,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+नासदासीन्नो सदासीत्तदानीं 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तम आसीत् तमसा गूढम् अग्रे प्रकेतम् (यजु.२अष्ट.८.प्र.९अनु.) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> तम आसीत् तमसा गूढमग्रे प्रकेतम् (यजु.२अष्ट.८.प्र.९अनु.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मायां तु प्रकृतिं विद्यान्  
+मायिनं तु महेश्वरम् (श्वे.४.१०) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Know Māya to be Prakr̥ti,  
+and the great Lord him who is associated with Māya'  
+(Śvet. Up. IV, 10); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मायां तु प्रकृतिं विद्यान्मायिनं तु महेश्वरम् (श्वे.४.१०) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इन्द्रो मायाभिः पुरु-रूप ईयते (बृ.४.५.१९) 
+</details>
+
+<details><summary>English</summary>
+
+> 'Indra appears manifold through the Māyās' (Br̥. Up. II, 5, 19); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रो मायाभिः पुरुरूप ईयते (बृ.४.५.१९) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मम माया दुर्-अत्यया (भ.गी.७.१४) 
+</details>
+
+<details><summary>English</summary>
+
+> 'My Māya is hard to overcome' (Bha. Gī. VII, 14); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मम माया दुरत्यया (भ.गी.७.१४) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्-आदि-मायया सुप्तो  
+यदा जीवः प्रबुध्यते (गौ.२.२१) 
+</details>
+
+<details><summary>English</summary>
+
+> 'When the soul slumbering in beginningless Māyā awakes' (Gau. Kā. I, 16).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनादिमायया सुप्तो यदा जीवः प्रबुध्यते (गौ.२.२१) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिभिः निर्विशेष-चिन्-मात्रं ब्रह्मैव  
+अनाद्य्-अविद्यया सद्--अ-सद्--अनिर्वाच्यया तिरोहित-स्वरूपं  
+स्व-गत-नानात्वं पश्यतीत्य् अवगम्यते। 
+</details>
+
+<details><summary>English</summary>
+
+--These and similar texts teach that it is through beginningless Māyā that to Brahman which truly is pure non-differenced intelligence its own nature hides itself, and that it sees diversity within itself. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिभिः निर्विशेषचिन्मात्रं ब्रह्मैवानाद्यविद्यया सदसदनिर्वाच्यया तिरोहितस्वरूपं स्वगतनानात्वं पश्यतीत्यवगम्यते। 
+</details>
+
+
+
+##### पुराणानि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथोक्तम् –
+
+> ज्ञान-स्वरूपो भगवान् यतो ऽसाव्  
+अ-शेष-मूर्तिर् न तु वस्तु-भूतः।  
+ततो हि शैलाब्धि-धरादि-भेदान्  
+**जानीहि** विज्ञान-विजृम्भितानि॥ 
+</details>
+
+<details><summary>English</summary>
+
+As has been said, 
+
+> 'Because the Holy One is essentially of the nature of intelligence, the form of all, but not material; therefore know that all particular things like rocks, oceans, hills and so on, have proceeded from intelligence. 
+
+22:1 In agreement with the use made of this passage by the Pūrvapakshin,  
+vijñāna must here be understood in the sense of avidyā.  
+Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiyate. Śru. Pra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथोक्तम् –
+
+ज्ञानस्वरूपो भगवान्यतोऽसावशेषमूर्तिर्न तु वस्तुभूतः। ततो हि शैलाब्धिधरादिभेदान् जानीहि विज्ञानविजृम्भितानि॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यदा तु शुद्धं निज-रूपि सर्व-  
+कर्म-**क्षये ज्ञानम्** अपास्त-दोषम्।  
+तदा हि सङ्कल्प-तरोः फलानि  
+**भवन्ति** नो वस्तुषु वस्तु-भेदाः॥  
+(वि.पु.२.१२.३९,४०) 
+</details>
+
+<details><summary>English</summary>
+
+> But when, on the cessation of all work, everything is only pure intelligence in its own proper form, without any imperfections; then no differences--the fruit of the tree of wishes--any longer exist between things. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदा तु शुद्धं निजरूपि सर्वकर्मक्षये ज्ञानमपास्तदोषम्। तदा हि सङ्कल्पतरोः फलानि भवन्ति नो वस्तुषु वस्तुभेदाः॥ (वि.पु.२.१२.३९,४०) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तस्मान् **न विज्ञानम् ऋतेऽस्ति** किञ्चित्  
+क्वचित् कदाचिद् द्विज! वस्तु-जातम् ।  
+विज्ञानम् एकं निज-कर्म-भेद-  
+विभिन्न-चित्तैर् बहुधा **ऽभ्युपेतम्**॥ 
+</details>
+
+<details><summary>English</summary>
+
+> Therefore nothing whatever, at any place or any time, exists apart from intelligence: intelligence, which is one only, is viewed as manifold by those whose minds are distracted by the effects of their own works. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> तस्मान्न विज्ञानमृतेऽस्ति किञ्चित्क्वचित् कदाचिद्द्विज! वस्तुजातम् । विज्ञानमेकं निजकर्मभेदविभिन्नचित्तैर्बहुधाऽभ्युपेतम्॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ज्ञानं विशुद्धं विमलं विशोकम्  
+अशेष-लोभादि-निरस्त-सङ्गम्।  
+एकं सदैकं परमः परेशः  
+स वासुदेवो न यतो ऽन्यद् अस्ति॥  
+(वि.पु.२.१२.४३,४४) 
+</details>
+
+<details><summary>English</summary>
+
+> Intelligence pure, free from stain, free from grief, free from all contact with desire and other affections, everlastingly one is the highest Lord--Vāsudeva apart from whom nothing exists. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानं विशुद्धं विमलं विशोकमशेषलोभादिनिरस्तसङ्गम्। एकं सदैकं परमः परेशः स वासुदेवो न यतोऽन्यदस्ति॥ (वि.पु.२.१२.४३,४४) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सद्-भाव एवं भवतो मयोक्तो  
+ज्ञानं यथा सत्यम् अ-सत्यम् अन्यत्।  
+एतत् +++(विज्ञानं)+++ तु यत् संव्यवहार-भूतं  
+तत्रापि चोक्तं भुवनाश्रितं ते॥  
+(वि.पु.१.१२.४५)
+</details>
+
+<details><summary>English</summary>
+
+I have thus declared to you the lasting truth of things--that intelligence only is true and everything else untrue. And that also which is the cause of ordinary worldly existence has been declared to you' (Vi. Pu. II, 12, 39, 40, 43-45).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सद्भाव एवं भवतो मयोक्तो ज्ञानं यथा सत्यमसत्यमन्यत्। एतत्तु यत्संव्यवहारभूतं तत्रापि चोक्तं भुवनाश्रितं ते॥ (वि.पु.१.१२.४५)
+</details>
+
+
 
 ## अविद्यानिवृत्तिः तद्धेतुश्च
 
