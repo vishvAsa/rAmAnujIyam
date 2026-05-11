@@ -2651,12 +2651,12 @@ since Perception itself gives rise to the apprehension of a non-differenced Brah
 विरोध एव न दृश्यते, निर्विशेषसन्मात्रब्रह्मग्राहित्वात्प्रत्यक्षस्य।
 </details>
 
-
+### एक-व्यवहार-हेतुता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ननु च – "घटोऽस्ति पटोऽस्ति"  
+> ननु च – "घटोऽस्ति, पटोऽस्ति"  
 इति नानाकार-वस्तु-विषयं प्रत्यक्षं  
-कथम् इव सन्-मात्र-ग्राहीत्य् उच्यते। 
+कथम् इव सन्-मात्र-ग्राहीत्य् उच्यते?
 </details>
 
 <details><summary>English</summary>
@@ -2719,7 +2719,7 @@ If there were no apprehension of difference, all cognitions would have one and t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"घटोऽस्ती"त्य्-अत्रास्तित्वं तद्भेदश्च व्यवह्रियते;  
+"घटोऽस्ती"त्य्-अत्रास्तित्वं तद्-भेदश्च व्यवह्रियते;  
 </details>
 
 <details><summary>English</summary>
@@ -2733,7 +2733,7 @@ We therefore have to enquire in what way,in the judgment 'here is a jar,' an ass
 "घटोऽस्ती"त्यत्रास्तित्वं तद्भेदश्च व्यवह्रियते;  
 </details>
 
-
+#### प्रत्यक्ष-मूलं स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च द्वयोर् अपि व्यवहारयोः प्रत्यक्ष-मूलत्वं संभवति,  
@@ -2793,7 +2793,7 @@ and, in addition, the remembrance of its counterentities (i.e. the things from w
 भेदग्रहणस्य स्वरूपग्रहणतत्प्रतियोगिस्मरणसव्यपेक्षत्वादेव स्वरूपविषयत्व- मवश्याश्रयणीयमिति न भेदः प्रत्यक्षेण गृह्यते। 
 </details>
 
-
+#### भेद-भ्रान्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो भ्रान्ति-मूल एव भेद-व्यवहारः॥
@@ -2813,8 +2813,7 @@ Hence difference is not apprehended by Perception; and all judgments and proposi
 
 
 
-## भेदस्य दुर्निरूपत्वम्
-
+## भेदो न प्रत्यक्षम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च भेदो नाम कश्चित् पदार्थो  
@@ -2832,6 +2831,7 @@ Difference--bheda--does not admit of logical definition
 </details>
 
 ### न स्वरूपम्
+#### भेद-व्यवहारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भेदस् तावन् न वस्तु-स्वरूपम्,  
@@ -2850,7 +2850,7 @@ The Logicians, moreover, are unable to give a definition of such a thing as 'dif
 भेदस्तावन्न वस्तुस्वरूपम्, वस्तुस्वरूपे गृहीते स्वरूपव्यवहारवत्सर्वस्माद्भेदव्यवहारप्रसक्तेः। 
 </details>
 
-
+#### प्रतियोगि-स्मरणानपेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च वाच्यं – 
@@ -2915,7 +2915,7 @@ the judgment of difference can, on his view, depend on counterentities no more t
 यथा स्वरूपव्यवहारो न प्रतियोग्यपेक्षः, भेदव्यवहारोऽपि तथैव स्यात्। 
 </details>
 
-
+#### भेद-पर्यायता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "हस्तः, करः" इतिवत्  
@@ -2952,20 +2952,186 @@ Nor, in the second place, can 'difference' be held to be an attribute (dharma).
 </details>
 
 
-धर्मत्वे सति तस्य स्वरूपाद्भेदोऽवश्याश्रयणीयः, अन्यथा स्वरूपमेव स्यात्। भेदे च तस्यापि भेदस्तद्धर्मस्तस्यापीत्यनवस्था। किञ्च जात्यादिविशष्टवस्तुग्रहणे सति भेदग्रहणम्, भेदग्रहणे सति जात्यादिविशिष्टवस्तुग्रहणमित्यन्योन्याश्रयणम्। अतो भेदस्य दुर्निरूपत्वात्सन्मात्रस्यैव प्रकाशकं प्रत्यक्षम्॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्मत्वे सति  
+तस्य स्व-रूपाद् भेदो ऽवश्याश्रयणीयः,  
+अन्यथा स्व-रूपम् एव स्यात्। 
+</details>
+
+<details><summary>English</summary>
+
+For if it were that, we should have to assume that 'difference' possesses difference (i.e. is different) from essential nature; for otherwise it would be the same as the latter. 
+</details>
 
 
-## अनुवर्तमानं सन्मात्रं परमार्थः
+<details><summary>मूलम्</summary>
 
-किञ्च घटोऽस्ति पटोऽस्ति घटोऽनुभूयते पटोऽनुभूयते इति सर्वे पदार्थास्सत्तानुभूतिघटिता एव दृश्यन्ते। अत्र सर्वासु प्रतिपत्तिषु सन्मात्रमनुवर्तमानं दृश्यत इति तदेव परमार्थः।
+धर्मत्वे सति तस्य स्वरूपाद्भेदोऽवश्याश्रयणीयः, अन्यथा स्वरूपमेव स्यात्। 
+</details>
 
-## आश्रमकर्माविनाभाविता
+#### अनवस्था
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विशेषास्तु व्यावर्तमानतया अपरमार्थाः, रज्जुसर्पादिवत्। यथा रज्जुरधिष्ठानतयाऽनुवर्तमाना परमार्था सती; व्यावर्तमानास्सर्पभूदलनाम्बुधारादयोऽपरमार्थाः।
+भेदे च तस्यापि भेदस् तद्-धर्मस्, तस्यापीत्य् अनवस्था। 
+</details>
 
-## अबाधितत्व-बाधितत्वयोः प्रयोजकोपाधिता
+<details><summary>English</summary>
 
-ननु च रज्जुसर्पादौ रज्जुरियं न सर्पः इत्यादि रज्ज्वाद्यधिष्ठानयाथार्थ्यज्ञानेन बाधितत्वात्सर्पादेरपारमार्थ्यम्, न व्यावर्तमानत्वात्। रज्ज्वादेरपि पारमार्थ्यं नानुवर्तमानतया, किंत्वबाधितत्वात्। अत्र तु घटादीनामबाधितानां कथमपारमार्थ्यम्?
+And this latter difference would have to be viewed as an attribute of the first difference, and this would lead us on to a third difference, and so in infinitum. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भेदे च तस्यापि भेदस्तद्धर्मस्तस्यापीत्यनवस्था। 
+</details>
+
+#### अन्योऽन्याश्रयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च जात्य्-आदि-विशष्ट-वस्तु-ग्रहणे सति भेद-ग्रहणम्,  
+भेद-ग्रहणे सति जात्य्-आदि-विशिष्ट-वस्तु-ग्रहणम् इत्य् अन्योऽन्याश्रयणम्। 
+</details>
+
+<details><summary>English</summary>
+
+And the view of 'difference' being an attribute would further imply that difference is apprehended on the apprehension of a thing distinguished by attributes such as generic character and so on, and at the same time that the thing thus distinguished is apprehended on the apprehension of difference; and this would constitute a logical seesaw.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किञ्च जात्यादिविशष्टवस्तुग्रहणे सति भेदग्रहणम्, भेदग्रहणे सति जात्यादिविशिष्टवस्तुग्रहणमित्यन्योन्याश्रयणम्। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो भेदस्य दुर्निरूपत्वात्  
+सन्-मात्रस्यैव प्रकाशकं प्रत्यक्षम्॥
+</details>
+
+<details><summary>English</summary>
+
+'Difference' thus showing itself incapable of logical definition, we are confirmed in our view that perception reveals mere 'Being' only.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो भेदस्य दुर्निरूपत्वात्सन्मात्रस्यैव प्रकाशकं प्रत्यक्षम्॥
+</details>
+
+## अनुवर्तमान-व्यावर्तमान-भेदः
+### सत्तामात्रानुभूतिर् अनुवर्तमाना
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च 
+
+> घटोऽस्ति  
+पटोऽस्ति  
+घटोऽनुभूयते  
+पटोऽनुभूयते 
+
+इति सर्वे पदार्थास्  
+सत्तानुभूति-घटिता एव दृश्यन्ते। 
+</details>
+
+<details><summary>English</summary>
+
+Moreover, it appears that in states of consciousness such as 'Here is a jar,' 'There is a piece of cloth,' 'The jar is perceived,' 'The piece of cloth is perceived,' that which constitutes the things is Being (existence; sattā) and perception (or 'consciousness'; anubhūti). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किञ्च घटोऽस्ति पटोऽस्ति घटोऽनुभूयते पटोऽनुभूयते इति सर्वे पदार्थास्सत्तानुभूतिघटिता एव दृश्यन्ते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र सर्वासु प्रतिपत्तिषु  
+सन्-मात्रम् अनुवर्तमानं दृश्यत  
+इति तदेव परमार्थः।
+</details>
+
+<details><summary>English</summary>
+
+And we observe that it is pure Being only which persists in all states of cognition: this pure Being alone, therefore, is _real_. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र सर्वासु प्रतिपत्तिषु सन्मात्रमनुवर्तमानं दृश्यत इति तदेव परमार्थः।
+</details>
+
+### विशेषा व्यावर्तमानाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विशेषास् तु व्यावर्तमानतया ऽपरमार्थाः,  
+रज्जु-सर्पादिवत्। 
+</details>
+
+<details><summary>English</summary>
+
+The differences, on the other hand, which do not persist, are unreal. The case is analogous to that of the snake-rope. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विशेषास्तु व्यावर्तमानतया अपरमार्थाः, रज्जुसर्पादिवत्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा रज्जुर् अधिष्ठानतया ऽनुवर्तमाना  
+परमार्था सती;  
+व्यावर्तमानास् सर्प-भू-दलनाम्बु-धारादयो ऽपरमार्थाः।
+</details>
+
+<details><summary>English</summary>
+
+The rope which persists as a substrate is real, while the non-continuous things (which by wrong imagination are superimposed on the rope) such as a snake, a cleft in the ground, a watercourse, and so on, are unreal.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा रज्जुरधिष्ठानतयाऽनुवर्तमाना परमार्था सती; व्यावर्तमानास्सर्पभूदलनाम्बुधारादयोऽपरमार्थाः।
+</details>
+
+
+
+#### अबाधितत्व-बाधितत्वयोः प्रयोजकोपाधिता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च रज्जु-सर्पादौ  
+"रज्जुर् इयं न सर्पः" इत्यादि रज्ज्व्-आद्य्-अधिष्ठान-याथार्थ्य-ज्ञानेन बाधितत्वात्  
+सर्पादेर् अपारमार्थ्यम्,  
+न व्यावर्तमानत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+But--our adversary objects--
+
+> the instance is not truly analogous. In the case of the snake-rope the non-reality of the snake results from the snake's being sublated (bādhita) by the cognition of the true nature of the substrate 'This is a rope, not a snake'; it does not result from the non-continuousness of the snake. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु च रज्जुसर्पादौ रज्जुरियं न सर्पः इत्यादि रज्ज्वाद्यधिष्ठानयाथार्थ्यज्ञानेन बाधितत्वात्सर्पादेरपारमार्थ्यम्, न व्यावर्तमानत्वात्। 
+</details>
+
+
+रज्ज्वादेरपि पारमार्थ्यं नानुवर्तमानतया, किंत्वबाधितत्वात्। अत्र तु घटादीनामबाधितानां कथमपारमार्थ्यम्?
 
 उच्यते, घटादौ दृष्टा व्यावृत्तिस्सा किंरूपेति विवेचनीयम्। किं घटोऽस्तीत्यत्र पटाद्यभावः? सिद्धं तर्हि घटोऽस्तीत्यनेन पटादीनां बाधितत्वम्। अतो बाधफलभूता विषयनिवृत्तिर्व्यावृत्तिः। सा व्यावर्तमानानामपारमार्थ्यं साधयति। रज्जुवत् सन्मात्रमबाधितमनुवर्तते। तस्मात्सन्मात्रातिरेकि सर्वमपरमार्थः। प्रयोगश्च भवति – सत्परमार्थः, अनुवर्तमानत्वात्, रज्जुसर्पादौ रज्ज्वादिवत्। घटादयोऽपरमार्थाः, व्यावर्तमानत्वात्, रज्ज्वद्यधिष्ठानसर्पादिवत् – इति।
 
