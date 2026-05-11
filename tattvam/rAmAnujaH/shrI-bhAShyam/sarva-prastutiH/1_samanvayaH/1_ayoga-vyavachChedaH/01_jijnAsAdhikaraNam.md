@@ -8628,7 +8628,7 @@ On this interpretation of the text we discern its oneness in purport with other 
 एवं वाक्यार्थप्रतिपादने सत्येव सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् (छां.६.२.१) – इत्यादिभिरैकार्थ्यम्।
 </details>
 
-##### कारण-स्वरूप-वाक्यानि
+###### स्वरूपं समानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यतो वा इमानि भूतानि जायन्ते (तै.भृगु.१.अनु.) 
@@ -8681,7 +8681,10 @@ On this interpretation of the text we discern its oneness in purport with other 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्य्-आदिभिर् जगत्-कारणतयोपलक्षितस्य ब्रह्मणः स्व-रूपम् इदम् उच्यते –  
-सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१.१) इति। 
+
+> सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१.१) 
+
+इति। 
 </details>
 
 <details><summary>English</summary>
@@ -8697,23 +8700,388 @@ Texts such as (the above) describe Brahman as the cause of the world; and of thi
 </details>
 
 
-## ब्रह्मलक्षणवाक्यस्य अखण्डैकरसवस्तुप्रतिपादकत्वम्
 
-तत्र सर्वशाखाप्रत्ययन्यायेन कारणवाक्येषु सर्वेषु सजातीयविजातीयव्यावृत्तमद्वतीयं ब्रह्मावगतम्। जगत्कारणतयोपलक्षितस्य ब्रह्मणोऽद्वितीयस्य प्रतिपिपादयिषितं स्वरूपं तदविरोधेन वक्तव्यम्। अद्वितीयत्वश्रुतिर्गुणतोऽपि सद्वितीयतां न सहते। अन्यथा निरञ्जनम् (श्वे.६.१९) निर्गुणम् (आत्मोपनिषत्) इत्यादिभिश्च विरोधः। अतश्चैतल्लक्षणवाक्यमखण्डैकरसमेव प्रतिपादयति।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## लक्षणाया दोषत्वादोषत्वविचारः
+तत्र सर्व-शाखा-प्रत्यय-न्यायेन  
+कारण-वाक्येषु सर्वेषु  
+स-जातीय--विजातीय-व्यावृत्तम्  
+अद्वतीयं ब्रह्मावगतम्। 
+</details>
 
-ननु च सत्यज्ञानादिपदानां स्वार्थप्रहाणेन स्वार्थविरोधिव्यावृत्तवस्तुस्वरूपोपस्थापनपरत्वे लक्षणा स्यात्। नैष दोषः, अभिधानवृत्तेरपि तात्पर्यवृत्तेर्बलीयस्त्वात्। सामानाधिकरण्यस्य ह्यैक्य एव तात्पर्यमिति सर्वसम्मतम्।
+<details><summary>English</summary>
 
-ननु च – सर्वपदानां लक्षणा न दृष्टचरी। ततः किम्? वाक्यतात्पर्याविरोधे सत्येकस्यापि न दृष्टा । समभिव्याहृतपदसमुदायस्यैतत्तात्पर्यमिति निश्चिते सति द्वयोस्त्रयाणां सर्वेषां वा तदविरोधाय एकस्येव लक्षणा न दोषाय। तथा च शास्त्रस्थैरभ्युपगम्यते ॥
+In agreement with the principle that all śākhās teach the same doctrine we have to understand that, in all the texts which speak of Brahman as cause, Brahman must be taken as being 'without a second', i.e. without any other being of the same or a different kind; 
+</details>
 
-## सर्वपदलक्षणाया अप्यदोषत्ववर्णनं प्राभाकरैः
 
-कार्यवाक्यार्थवादिभिः लौकिकवाक्येषु सर्वेषां पदानां लक्षणा समाश्रीयते। अपूर्वकार्य एव लिङादेर्मुख्यवृत्तत्वात् लिङादिभिः क्रियाकार्यं लक्षणया प्रतिपाद्यते। कार्यान्वितस्वार्थाभिधायिनां चेतरेषां पदानामपूर्वकार्यान्वित एव मुख्यार्थ इति क्रियाकार्यान्वितप्रतिपादनं लाक्षणिकमेव । अतो वाक्यतात्पर्याविरोधाय सर्वपदानां लक्षणाऽपि न दोषः। अत इदमेवार्थजातं प्रतिपादयन्तो वेदान्ताः प्रमाणम्॥
+<details><summary>मूलम्</summary>
 
-## शास्त्रप्रत्यक्षयोः अविरोधः
+तत्र सर्वशाखाप्रत्ययन्यायेन कारणवाक्येषु सर्वेषु सजातीयविजातीयव्यावृत्तमद्वतीयं ब्रह्मावगतम्। 
+</details>
 
-प्रत्यक्षादिविरोधे च शास्त्रस्य बलीयस्त्वमुक्तम्। सति च विरोधे बलीयस्त्वं वक्तव्यम्। विरोध एव न दृश्यते, निर्विशेषसन्मात्रब्रह्मग्राहित्वात्प्रत्यक्षस्य। ननु च – घटोऽस्ति पटोऽस्ति इति नानाकारवस्तुविषयं प्रत्यक्षं कथमिव सन्मात्रग्राहीत्युच्यते। विलक्षणग्रहणाभावे सति सर्वेषां ज्ञानानामेकविषयत्वेन धारावाहिकविज्ञानवदेकव्यवहारहेतुतैव स्यात्। सत्यम्; तथैवात्र विविच्यते। कथं?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जगत्-कारणतयोपलक्षितस्य ब्रह्मणो ऽद्वितीयस्य  
+प्रतिपिपादयिषितं स्वरूपं  
++++("सत्यं ज्ञानम् अनन्तम्"→)+++ तद्-अविरोधेन वक्तव्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+and the text which aims at defining Brahman has then to be interpreted in accordance with this characteristic of Brahman, viz. its being without a second. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+जगत्कारणतयोपलक्षितस्य ब्रह्मणोऽद्वितीयस्य प्रतिपिपादयिषितं स्वरूपं तदविरोधेन वक्तव्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-द्वितीयत्व-श्रुतिर्  
+गुणतोऽपि स-द्वितीयतां न सहते। 
+</details>
+
+<details><summary>English</summary>
+
+The statement of the Cḥāndogya as to Brahman being without a second must also be taken to imply that Brahman is non-dual as far as qualities are concerned;  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अद्वितीयत्वश्रुतिर्गुणतोऽपि सद्वितीयतां न सहते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यथा "निरञ्जनम्" (श्वे.६.१९) "निर्गुणम्" (आत्मोपनिषत्) इत्य्-आदिभिश् च विरोधः। 
+</details>
+
+<details><summary>English</summary>
+
+otherwise it would conflict with those passages which speak of Brahman as being without qualities and without stain. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यथा निरञ्जनम् (श्वे.६.१९) निर्गुणम् (आत्मोपनिषत्) इत्यादिभिश्च विरोधः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतश् चैतल्-+++(जगत्-कारणत्व-)+++लक्षण-वाक्यम्  
+अ-खण्डैक-रसम् एव प्रतिपादयति।
+</details>
+
+<details><summary>English</summary>
+
+We therefore conclude that the defining Taittirīya-text teaches Brahman to be an absolutely homogeneous substance.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतश्चैतल्लक्षणवाक्यमखण्डैकरसमेव प्रतिपादयति।
+</details>
+
+
+##### लक्षणौचितम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च सत्य-ज्ञानादि-पदानां स्वार्थ-प्रहाणेन  
+स्वार्थ-विरोधि-- व्यावृत्त-वस्तु-स्वरूपोपस्थापन-परत्वे  
+लक्षणा स्यात्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+> But, the above explanation of the passage being accepted, it follows that the words 'true being,' 'knowledge,' &c., have to be viewed as abandoning their direct sense, and merely suggesting a thing distinct in nature from all that is opposite (to what the three words directly denote), and this means that we resort to so-called implication (implied meaning, lakshaṇā)!--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु च सत्यज्ञानादिपदानां स्वार्थप्रहाणेन स्वार्थविरोधिव्यावृत्तवस्तुस्वरूपोपस्थापनपरत्वे लक्षणा स्यात्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैष दोषः,  
+अभिधान-वृत्तेर् अपि  
+तात्पर्य-वृत्तेर् बलीयस्त्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+What objection is there to such a proceeding? we reply. The force of the general purport of a sentence is greater than that of the direct denotative power of the simple terms, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैष दोषः, अभिधानवृत्तेरपि तात्पर्यवृत्तेर्बलीयस्त्वात्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सामानाधिकरण्यस्य ह्य्  
+ऐक्य एव तात्पर्यम्  
+इति सर्व-सम्मतम्।
+</details>
+
+<details><summary>English</summary>
+
+and it is generally admitted that the purport of grammatical co-ordination is oneness (of the matter denoted by the terms co-ordinated).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सामानाधिकरण्यस्य ह्यैक्य एव तात्पर्यमिति सर्वसम्मतम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च – वाक्ये सर्व-पदानां लक्षणा न दृष्टचरी। 
+</details>
+
+<details><summary>English</summary>
+
+> But we never observe that all words of a sentence are to be understood in an implied sense!--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ननु च – सर्वपदानां लक्षणा न दृष्टचरी। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततः किम्? वाक्य-तात्पर्याविरोधे सत्य्  
+एकस्यापि न दृष्टा +++(लक्षणा)+++। 
+</details>
+
+<details><summary>English</summary>
+
+Is it then not observed, we reply, that (not even) _one_ word is to be taken in its implied meaning if ~~otherwise~~ it would('nt) contradict the purport of the whole sentence?
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततः किम्? वाक्यतात्पर्याविरोधे सत्येकस्यापि न दृष्टा । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समभिव्याहृत-पद-समुदायस्य  
+एतत् तात्पर्यम् इति निश्चिते सति  
+द्वयोस् त्रयाणां सर्वेषां वा तद्-अविरोधाय  
+एकस्येव लक्षणा न दोषाय। +++(5)+++
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अनेन ग्रन्थपीडनेनेष्टाभिप्रायोद्भावनं सम्मतम् :-D।
+</details>
+
+<details><summary>English</summary>
+
+And if the purport of the sentence, which is nothing but an aggregate of words employed together, has once been ascertained, why should we not take two or three or all words in an implied sense--just as we had taken one--and thus make them fit in with the general purport? 
+</details>
+
+<details><summary>मूलम्</summary>
+
+समभिव्याहृतपदसमुदायस्यैतत्तात्पर्यमिति निश्चिते सति द्वयोस्त्रयाणां सर्वेषां वा तदविरोधाय एकस्येव लक्षणा न दोषाय। 
+</details>
+
+###### प्राभाकर-सम्मतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च शास्त्र-स्थैर् अभ्युपगम्यते ॥
+</details>
+<details><summary>English</summary>
+
+(This is) in agreement herewith those scholars 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+तथा च शास्त्रस्थैरभ्युपगम्यते ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कार्य-वाक्यार्थ-वादिभिः  
+लौकिक-वाक्येषु सर्वेषां पदानां लक्षणा समाश्रीयते। 
+</details>
+
+<details><summary>English</summary>
+
+who explain to us the sense of imperative sentences, teach that in imperative sentences belonging to ordinary speech all words have an implied meaning only (not their directly denotative meaning). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कार्यवाक्यार्थवादिभिः लौकिकवाक्येषु सर्वेषां पदानां लक्षणा समाश्रीयते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-पूर्व-कार्य एव लिङ्-आदेर् मुख्य-वृत्तत्वात्  
+लिङ्-आदिभिः +++(लौकिक-)+++क्रिया-कार्यं लक्षणया प्रतिपाद्यते। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+For, they maintain, imperative forms have their primary meaning only in (Vedic) sentences which enjoin something not established by other means; and hence in ordinary speech the effect of the action is conveyed by implication only. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपूर्वकार्य एव लिङादेर्मुख्यवृत्तत्वात् लिङादिभिः क्रियाकार्यं लक्षणया प्रतिपाद्यते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कार्यान्वित-स्वार्थाभिधायिनां चेतरेषां पदानाम्  
+अ-पूर्व--कार्यान्वित एव मुख्यार्थ  
+
+इति +++(लौकिक-)+++क्रिया-कार्यान्वित-प्रतिपादनं  
+लाक्षणिकम् एव । 
+</details>
+
+<details><summary>English</summary>
+
+The other words also, which form part of those imperative sentences and denote matters connected with the action, have their primary meaning only if connected with an action not established by other means; while if connected with an ordinary action they have a secondary, implied, meaning only [fn_7].
+</details>
+
+<details><summary>English - Note</summary>
+
+[fn_7]: 30:1 The theory here referred to is held by some of the Mīmāṁsakas. 
+
+The imperative forms of the verb have their primary meaning, i.e. the power of originating action, only in Vedic sentences which enjoin the performance of certain actions  
+for the bringing about of certain ends:  
+no other means of knowledge but the Veda  
+informing us that such ends can be accomplished by such actions.  
+Nobody, e.g. would offer a soma sacrifice in order to obtain the heavenly world,  
+were he not told by the Veda to do so. 
+
+In ordinary life, on the other hand, no imperative possesses this entirely unique originative force,  
+since any action which may be performed in consequence of a command may be prompted by other motives as well:  
+it is, in technical Indian language, established already, apart from the command, by other means of knowledge.  
+
+The man who, e.g. is told to milk a cow might have proceeded to do so, apart from the command, for reasons of his own.  
+Imperatives in ordinary speech are therefore held not to have their primary meaning,  
+and this conclusion is extended, somewhat unwarrantably one should say, to all the words entering into an imperative clause.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+कार्यान्वितस्वार्थाभिधायिनां चेतरेषां पदानामपूर्वकार्यान्वित एव मुख्यार्थ इति क्रियाकार्यान्वितप्रतिपादनं लाक्षणिकमेव । 
+</details>
+
+
+###### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो वाक्य-तात्पर्याविरोधाय  
+सर्व-पदानां लक्षणाऽपि न दोषः। 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+अतो वाक्यतात्पर्याविरोधाय सर्वपदानां लक्षणाऽपि न दोषः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत इदम् एवार्थ-जातं प्रतिपादयन्तो वेदान्ताः प्रमाणम्॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत इदमेवार्थजातं प्रतिपादयन्तो वेदान्ताः प्रमाणम्॥
+</details>
+
+
+#### निर्विशेष-प्रत्यक्षम्
+
+<details><summary>English</summary>
+
+Perception reveals to us non-differenced substance only
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यक्षादि-विरोधे च  
+शास्त्रस्य बलीयस्त्वम् उक्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+We have so far shown that in the case of a conflict between Scripture and Perception and the other instruments of knowledge, Scripture is of greater force. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रत्यक्षादिविरोधे च शास्त्रस्य बलीयस्त्वमुक्तम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सति च विरोधे  
+बलीयस्त्वं वक्तव्यम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सति च विरोधे बलीयस्त्वं वक्तव्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विरोध एव न दृश्यते,  
+निर्विशेष--सन्-मात्र-- ब्रह्म-ग्राहित्वात् प्रत्यक्षस्य।
+</details>
+
+
+<details><summary>English</summary>
+
+The fact, however, is that no such conflict is observed to exist,  
+since Perception itself gives rise to the apprehension of a non-differenced Brahman whose nature is pure Being.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विरोध एव न दृश्यते, निर्विशेषसन्मात्रब्रह्मग्राहित्वात्प्रत्यक्षस्य।
+</details>
+
+
+ननु च – घटोऽस्ति पटोऽस्ति इति नानाकारवस्तुविषयं प्रत्यक्षं कथमिव सन्मात्रग्राहीत्युच्यते। विलक्षणग्रहणाभावे सति सर्वेषां ज्ञानानामेकविषयत्वेन धारावाहिकविज्ञानवदेकव्यवहारहेतुतैव स्यात्। सत्यम्; तथैवात्र विविच्यते। कथं?
 
 ## प्रत्यक्षस्य सन्मात्रग्राहित्वसमर्थनम्
 
