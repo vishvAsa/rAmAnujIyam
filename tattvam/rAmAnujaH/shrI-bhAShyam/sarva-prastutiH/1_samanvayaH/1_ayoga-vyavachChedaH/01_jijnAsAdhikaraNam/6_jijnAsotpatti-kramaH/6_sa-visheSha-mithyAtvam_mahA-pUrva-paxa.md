@@ -2831,8 +2831,128 @@ Difference--bheda--does not admit of logical definition
 किञ्च भेदो नाम कश्चित्पदार्थो न्यायविद्भिर्निरूपयितुं न शक्यते। 
 </details>
 
+### न स्वरूपम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भेदस्तावन्न वस्तुस्वरूपम्, वस्तुस्वरूपे गृहीते स्वरूपव्यहारवत्सर्वस्माद्भेदव्यवहारप्रसक्तेः। न च वाच्यं – स्वरूपे गृहीतेऽपि भिन्न इति व्यवहारस्य प्रतियोगिस्मरणसव्यपेक्षत्वात्, तत्स्मरणाभावेन तदानीमेव न भेदव्यवहारः – इति। स्वरूपमात्रभेदवादिनो हि प्रतियोग्यपेक्षा च नोत्प्रेक्षितुं क्षमा, स्वरूपभेदयोस्स्वरूपत्वाविशेषात्। यथा स्वरूपव्यवहारो न प्रतियोग्यपेक्षः, भेदव्यवहारोऽपि तथैव स्यात्। हस्तः करः इतिवत् घटो भिन्न इति पर्यायत्वं च स्यात्। नापि धर्मः; धर्मत्वे सति तस्य स्वरूपाद्भेदोऽवश्याश्रयणीयः, अन्यथा स्वरूपमेव स्यात्। भेदे च तस्यापि भेदस्तद्धर्मस्तस्यापीत्यनवस्था। किञ्च जात्यादिविशष्टवस्तुग्रहणे सति भेदग्रहणम्, भेदग्रहणे सति जात्यादिविशिष्टवस्तुग्रहणमित्यन्योन्याश्रयणम्। अतो भेदस्य दुर्निरूपत्वात्सन्मात्रस्यैव प्रकाशकं प्रत्यक्षम्॥
+भेदस् तावन् न वस्तु-स्वरूपम्,  
+वस्तु-स्वरूपे गृहीते  
+स्व-रूप--व्यवहारवत् सर्वस्माद्-भेद-व्यवहार-प्रसक्तेः। 
+</details>
+
+<details><summary>English</summary>
+
+The Logicians, moreover, are unable to give a definition of such a thing as 'difference.' Difference cannot in the first place be the essential nature (of that which differs); for from that it would follow that on the apprehension of the essential nature of a thing there would at once arise not only the judgment as to that essential nature but also judgments as to its difference from everything else.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भेदस्तावन्न वस्तुस्वरूपम्, वस्तुस्वरूपे गृहीते स्वरूपव्यवहारवत्सर्वस्माद्भेदव्यवहारप्रसक्तेः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च वाच्यं – 
+
+> स्वरूपे गृहीतेऽपि  
+"भिन्न" इति व्यवहारस्य प्रतियोगि-स्मरण-स-व्यपेक्षत्वात्,  
+तत्-स्मरणाभावेन तदानीम् एव न भेद-व्यवहारः 
+
+\– इति - 
+</details>
+
+<details><summary>English</summary>
+
+--But, it may be objected to this, 
+
+> even when the essential nature of a thing is apprehended, the judgment 'this thing is different from other things' depends on the remembrance of its counterentities, and as long as this remembrance does not take place so long the judgment of difference is not formed!--
+
+Such reasoning, we reply, is inadmissible.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च वाच्यं – स्वरूपे गृहीतेऽपि भिन्न इति व्यवहारस्य प्रतियोगिस्मरणसव्यपेक्षत्वात्, तत्स्मरणाभावेन तदानीमेव न भेदव्यवहारः – इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-रूप--मात्र-भेद-वादिनो हि  
+प्रतियोग्य्-अपेक्षा च नोत्प्रेक्षितुं क्षमा,  
+स्व-रूप--भेदयोस् स्व-रूपत्वाविशेषात् +++(वक्ष्यमाण-रीत्या)+++। 
+</details>
+
+<details><summary>English</summary>
+
+He who maintains that 'difference' is nothing but 'essential nature'  
+has no right to assume a dependence on counterentities  
+since, according to him, essential nature and difference are the same, i.e. nothing but essential nature:  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वरूपमात्रभेदवादिनो हि प्रतियोग्यपेक्षा च नोत्प्रेक्षितुं क्षमा, स्वरूपभेदयोस्स्वरूपत्वाविशेषात्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा स्व-रूप-व्यवहारो न प्रतियोग्य्-अपेक्षः,  
+भेद-व्यवहारोऽपि तथैव स्यात्। 
+</details>
+
+<details><summary>English</summary>
+
+the judgment of difference can, on his view, depend on counterentities no more than the judgment of essential nature does. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा स्वरूपव्यवहारो न प्रतियोग्यपेक्षः, भेदव्यवहारोऽपि तथैव स्यात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"हस्तः, करः" इतिवत्  
+"घटो, भिन्न" इति पर्यायत्वं च स्यात्। 
+</details>
+
+<details><summary>English</summary>
+
+His view really implies that the two words 'the jar' and 'different' (in the judgment 'the jar is different') are synonymous, just as the words 'hasta' and 'kara' are (both of which mean 'hand').
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हस्तः करः इतिवत् घटो भिन्न इति पर्यायत्वं च स्यात्। 
+</details>
+
+### न धर्मः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि धर्मः; 
+</details>
+
+<details><summary>English</summary>
+
+Nor, in the second place, can 'difference' be held to be an attribute (dharma). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि धर्मः; 
+</details>
+
+
+धर्मत्वे सति तस्य स्वरूपाद्भेदोऽवश्याश्रयणीयः, अन्यथा स्वरूपमेव स्यात्। भेदे च तस्यापि भेदस्तद्धर्मस्तस्यापीत्यनवस्था। किञ्च जात्यादिविशष्टवस्तुग्रहणे सति भेदग्रहणम्, भेदग्रहणे सति जात्यादिविशिष्टवस्तुग्रहणमित्यन्योन्याश्रयणम्। अतो भेदस्य दुर्निरूपत्वात्सन्मात्रस्यैव प्रकाशकं प्रत्यक्षम्॥
 
 
 ## अनुवर्तमानं सन्मात्रं परमार्थः
