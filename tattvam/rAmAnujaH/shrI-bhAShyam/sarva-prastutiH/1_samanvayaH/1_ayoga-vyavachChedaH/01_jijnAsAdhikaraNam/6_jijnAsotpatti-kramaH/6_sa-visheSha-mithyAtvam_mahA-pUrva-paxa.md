@@ -14,6 +14,12 @@ THE GREAT PŪRVAPAKSHA.
 THE ONLY REALITY IS BRAHMAN.
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+महापूर्वपक्षं पठते स्पष्टतरम् भवति - "कथं कश्चन धीमान् शाङ्करमतम् अङ्गीकुर्याद्" इति। सारहीनवादानां तावान् राशिः, येन "सत्यं स्याद्" इति सन्दिह्येत् तादृशः। 
+</details>
+
+
 ## प्रतिज्ञा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3107,8 +3113,8 @@ The rope which persists as a substrate is real, while the non-continuous things 
 
 
 
-#### अबाधितत्व-बाधितत्वयोः प्रयोजकोपाधिता
-
+### बाधायां व्यावृत्तिः
+#### बाधा-मात्रे?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च रज्जु-सर्पादौ  
@@ -3131,21 +3137,370 @@ But--our adversary objects--
 </details>
 
 
-रज्ज्वादेरपि पारमार्थ्यं नानुवर्तमानतया, किंत्वबाधितत्वात्। अत्र तु घटादीनामबाधितानां कथमपारमार्थ्यम्?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उच्यते, घटादौ दृष्टा व्यावृत्तिस्सा किंरूपेति विवेचनीयम्। किं घटोऽस्तीत्यत्र पटाद्यभावः? सिद्धं तर्हि घटोऽस्तीत्यनेन पटादीनां बाधितत्वम्। अतो बाधफलभूता विषयनिवृत्तिर्व्यावृत्तिः। सा व्यावर्तमानानामपारमार्थ्यं साधयति। रज्जुवत् सन्मात्रमबाधितमनुवर्तते। तस्मात्सन्मात्रातिरेकि सर्वमपरमार्थः। प्रयोगश्च भवति – सत्परमार्थः, अनुवर्तमानत्वात्, रज्जुसर्पादौ रज्ज्वादिवत्। घटादयोऽपरमार्थाः, व्यावर्तमानत्वात्, रज्ज्वद्यधिष्ठानसर्पादिवत् – इति।
+> रज्ज्व्-आदेर् अपि पारमार्थ्यं नानुवर्तमानतया,  
+किं त्व् अ-बाधितत्वात्। 
+</details>
 
-## सत्-अनुभूत्योः ऐक्यम्, अनुभूतेः स्वतस्सिद्धता च
+<details><summary>English</summary>
+
+In the same way the reality of the rope does not follow from its persistence, but from the fact of its being not sublated (by another cognition). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रज्ज्वादेरपि पारमार्थ्यं नानुवर्तमानतया, किंत्वबाधितत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अत्र तु घटादीनाम् अबाधितानां कथम् अपारमार्थ्यम्?
+</details>
+<details><summary>English</summary>
+
+> But what, we ask, establishes the non-reality of jars and pieces of cloth?--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र तु घटादीनामबाधितानां कथमपारमार्थ्यम्?
+</details>
+
+#### बाध-फलं विषय-निवृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उच्यते,  
+घटादौ दृष्टा व्यावृत्तिस्  
+सा किं-रूपेति विवेचनीयम्। 
+</details>
+
+<details><summary>English</summary>
+
+All are agreed, we reply, that we observe, in jars and similar things, individual difference (vyāvr̥tti, literally 'separation,' 'distinction').  
+The point to decide is of what nature such difference is. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उच्यते, घटादौ दृष्टा व्यावृत्तिस्सा किंरूपेति विवेचनीयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं घटोऽस्तीत्य्-अत्र पटाद्य्-अ-भावः? 
+</details>
+
+<details><summary>English</summary>
+
+Does it not mean that the judgment 'This is a jar' implies the negation of pieces of cloth and other things? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं घटोऽस्तीत्यत्र पटाद्यभावः? 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिद्धं तर्हि घटोऽस्तीत्य्-अनेन पटादीनां बाधितत्वम्। 
+</details>
+
+<details><summary>English</summary>
+
+But this means that by this judgment pieces of cloth and other things are sublated (bādhita). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिद्धं तर्हि घटोऽस्तीत्यनेन पटादीनां बाधितत्वम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो बाध-फल-भूता विषय-निवृत्तिर् व्यावृत्तिः। 
+</details>
+
+<details><summary>English</summary>
+
+Individual difference (vyāvr̥tti) thus means the cessation (or absence), due to sublation, of certain objects of cognition, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो बाधफलभूता विषयनिवृत्तिर्व्यावृत्तिः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा व्यावर्तमानानाम् अ-पारमार्थ्यं साधयति। 
+</details>
+
+<details><summary>English</summary>
+
+and it proves the non-reality of whatever has non-continuous existence; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा व्यावर्तमानानामपारमार्थ्यं साधयति। 
+</details>
+
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रज्जुवत् सन्-मात्रम् अबाधितम् अनुवर्तते। 
+</details>
+
+<details><summary>English</summary>
+
+while on the other hand, pure Being, like the rope, persists non-sublated. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रज्जुवत् सन्मात्रमबाधितमनुवर्तते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् सन्-मात्रातिरेकि सर्वम् अ-परमार्थः। 
+</details>
+
+<details><summary>English</summary>
+
+Hence everything that is additional to pure Being is non-real.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मात्सन्मात्रातिरेकि सर्वमपरमार्थः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रयोगश् च भवति –  
+सत् परमार्थः, अनुवर्तमानत्वात्, रज्जु-सर्पादौ रज्ज्व्-आदिवत्। 
+</details>
+
+<details><summary>English</summary>
+
+--This admits of being expressed in technical form. 'Being' is real because it persists, as proved by the case of the rope in the snake-rope; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रयोगश्च भवति – सत्परमार्थः, अनुवर्तमानत्वात्, रज्जुसर्पादौ रज्ज्वादिवत्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+घटादयो ऽपरमार्थाः,  
+व्यावर्तमानत्वात्,  
+रज्ज्व्-अद्य्-अधिष्ठान-सर्पादिवत् – इति।
+</details>
+
+<details><summary>English</summary>
+
+jars and similar things are non-real because they are non-continuous, as proved by the case of the snake that has the rope for its substrate.
+</details>
+
+<details><summary>मूलम्</summary>
+
+घटादयोऽपरमार्थाः, व्यावर्तमानत्वात्, रज्ज्वद्यधिष्ठानसर्पादिवत् – इति।
+</details>
+
+
+## सत्-अनुभूत्योर् ऐक्यम्
+
+<details><summary>English</summary>
+
+Being and consciousness are one. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं सत्य् अनुवर्तमाना ऽनुभूतिर् एव परमार्थः;  
+सैव सती॥
+</details>
+
+<details><summary>English</summary>
+
+From all this it follows that persisting consciousness only has real being; it alone is.
+</details>
+
+<details><summary>मूलम्</summary>
 
 एवं सत्यनुवर्तमानाऽनुभूतिरेव परमार्थः; सैव सती॥
+</details>
 
-ननु च सन्मात्रमनुभूतेर्विषयतया ततो भिन्नम्। नैवम्; भेदो हि प्रत्यक्षाविषयत्वाद्दुर्निरूपत्वाच्च पुरस्तादेव निरस्तः। अत एव सतोऽनुभूतिविषयभावोऽपि न प्रमाणपदवीमनुसरति। तस्मात्सत् अनुभूतिरेव।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा च स्वतस्सिद्धा, अनुभूतित्वात्। अन्यतस्सिद्धौ घटादिवदननुभूतित्वप्रसङ्गः।
+> ननु च सन्-मात्रम्  
+अनुभूतेर् विषयतया  
+ततो भिन्नम्। 
+</details>
 
-## अनुभूतेः अनुभूत्यन्तरानपेक्षा
+<details><summary>English</summary>
 
-किञ्च अनुभवापेक्षा चानुभूतेर्न शक्या कल्पयितुं, सत्तयैव प्रकाशमानत्वात्। न ह्यनुभूतिर्वर्तमाना घटादिवदप्रकाशा दृश्यते, येन परायत्तप्रकाशाऽभ्युपगम्येत॥
+But, our adversary objects, 
+
+> as mere Being is the object of consciousness, it is different therefrom (and thus there exists after all 'difference' or 'plurality').--
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु च सन्मात्रमनुभूतेर्विषयतया ततो भिन्नम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैवम्;  
+भेदो हि प्रत्यक्षाविषयत्वाद् दुर्निरूपत्वाच् च  
+पुरस्ताद् एव निरस्तः। 
+</details>
+
+<details><summary>English</summary>
+
+Not so, we reply. That there is no such thing as 'difference,' we have already shown above on the grounds that it is not the object of perception, and moreover incapable of definition. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैवम्; भेदो हि प्रत्यक्षाविषयत्वाद्दुर्निरूपत्वाच्च पुरस्तादेव निरस्तः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव सतो ऽनुभूति-विषय-भावोऽपि  
+न प्रमाण-पदवीम् अनुसरति। 
+</details>
+
+<details><summary>English</summary>
+
+It cannot therefore be proved that 'Being' is the object of consciousness. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत एव सतोऽनुभूतिविषयभावोऽपि न प्रमाणपदवीमनुसरति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात्, सत् अनुभूतिर् एव।
+</details>
+
+<details><summary>English</summary>
+
+Hence Consciousness itself is 'Being'--that which is.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मात्सत् अनुभूतिरेव।
+</details>
+
+## अनुभूतेः स्वयम्-प्रकाशता
+<details><summary>English</summary>
+
+Consciousness is svayaṁprakāsa.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा च स्वतस् सिद्धा,  
+अनुभूतित्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+--This consciousness is self-proved, just because it is consciousness. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सा च स्वतस्सिद्धा, अनुभूतित्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यतस् सिद्धौ  
+घटादिवद् अननुभूतित्व-प्रसङ्गः।
+</details>
+
+<details><summary>English</summary>
+
+Were it proved through something else, it would follow that like jars and similar things it is not consciousness. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यतस्सिद्धौ घटादिवदननुभूतित्वप्रसङ्गः।
+</details>
+
+
+### अनुभूत्यन्तरानपेक्षा
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च अनुभवापेक्षा चानुभूतेर् न शक्या कल्पयितुं,  
+सत्तयैव प्रकाशमानत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+Nor can there be assumed, for consciousness, the need of another act of consciousness (through which its knowledge would be established); for it shines forth (prakāśate) through its own being. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किञ्च अनुभवापेक्षा चानुभूतेर्न शक्या कल्पयितुं, सत्तयैव प्रकाशमानत्वात्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अनुभूतिर् वर्तमाना  
+घटादिवद् अप्रकाशा दृश्यते,  
+येन परायत्त-प्रकाशा ऽभ्युपगम्येत॥
+</details>
+
+<details><summary>English</summary>
+
+While it exists, consciousness--differing therein from jars and the like--is never observed not to shine forth, and it cannot therefore be held to depend, in its shining forth, on something else.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न ह्यनुभूतिर्वर्तमाना घटादिवदप्रकाशा दृश्यते, येन परायत्तप्रकाशाऽभ्युपगम्येत॥
+</details>
+
 
 ## अनुभूतेः ज्ञाततानुमेयत्ववादः
 
