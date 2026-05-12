@@ -3644,7 +3644,7 @@ for when pleasure and so on exist at all, they never are non-perceived (i.e. the
 </details>
 
 
-### नानुमेयता
+#### नानुमेयता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् इदम् अनाकिलतानुभव-विभवस्य स्व-मति-विजृम्भितम्, 
@@ -3813,17 +3813,276 @@ Hence consciousness is itself the cause of its own 'shining forth,' as well as o
 </details>
 
 
-### नित्यता, तत्प्रागभावासिद्धिश्च
+### नित्यता
+<details><summary>English</summary>
 
-सेयं स्वयंप्रकाशाऽनुभूतिर्नित्या च, प्रागभावाद्यभावात्। तदभावश्च स्वतस्सिद्धत्वादेव। न ह्यनुभूतेस्स्वतस्सिद्धायाः प्रागभावस्स्वतोऽन्यतो वाऽवगन्तुं शक्यते। अनुभूतिस्स्वाभावमवगमयन्ती, सती तावन्नावगमयति। तस्यास्सत्त्वे विरोधादेव तदभावो नास्तीति कथं सा स्वाभावमवगमयति? एवमसत्यपि नावगमयति; अनुभूतिस्स्वयमसती स्वाभावे कथं प्रमाणं भवेत्? नाप्यन्यतोऽवगन्तुं शक्यते, अनुभूतेरनन्यगोचरत्वात्। अस्याः प्रागभावं साधयत् प्रमाणम् अनुभूतिरियम् इति विषयीकृत्य तदभावं साधयेत्; स्वतस्सिद्धत्वेन इयमिति विषयीकारानर्हात्वात्, न तत्प्रागभावोऽन्यतः शक्यावगमः।
+Consciousness is eternal and incapable of change.
+</details>
 
-## अनुभूतौ भावविकाराणां असम्बन्धः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सेयं स्वयं-प्रकाशाऽनुभूतिर् नित्या च,  
+प्राग्-अभावाद्य्--अ-भावात्। 
+</details>
+
+<details><summary>English</summary>
+
+This self-luminous consciousness, further, is eternal, for it is not capable of any form of non-existence--whether so--called antecedent non-existence or any other form. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सेयं स्वयंप्रकाशाऽनुभूतिर्नित्या च, प्रागभावाद्यभावात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(प्राग्-अभावाद्य्→)+++तद्-अभावश् च स्वतस्-सिद्धत्वाद् एव। 
+</details>
+
+<details><summary>English</summary>
+
+This follows from its being self-established. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदभावश्च स्वतस्सिद्धत्वादेव। 
+</details>
+
+
+#### न प्राग्-अभावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अनुभूतेस् स्वतस्-सिद्धायाः प्राग्-अभावस्  
+स्वतो ऽन्यतो वाऽवगन्तुं शक्यते। 
+</details>
+
+<details><summary>English</summary>
+
+For the antecedent non-existence of self-established consciousness cannot be apprehended either through consciousness or anything else. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ह्यनुभूतेस्स्वतस्सिद्धायाः प्रागभावस्स्वतोऽन्यतो वाऽवगन्तुं शक्यते। 
+</details>
+
+##### नानुभूतेः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूतिस् स्वाभावम् अवगमयन्ती सती  
+तावन् नावगमयति। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+If consciousness itself gave rise to the apprehension of its own non-existence, it could not do so in so far as 'being,' for that would contradict its being; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतिस्स्वाभावमवगमयन्ती, सती तावन्नावगमयति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्यास् सत्त्वे  
+विरोधाद् एव तद्-अभावो नास्तीति  
+कथं सा स्वाभावम् अवगमयति? 
+</details>
+
+<details><summary>English</summary>
+
+if it is, i.e. if its non-existence is not, how can it give rise to the idea of its non-existence? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्यास्सत्त्वे विरोधादेव तदभावो नास्तीति कथं सा स्वाभावमवगमयति? 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् असत्य् अपि नावगमयति;  
+अनुभूतिस् स्वयम् अ-सती  
+स्वाभावे कथं प्रमाणं भवेत्? 
+</details>
+
+<details><summary>English</summary>
+
+Nor can it do so if not being; for if consciousness itself is not, how can it furnish a proof for its own non-existence? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवमसत्यपि नावगमयति; अनुभूतिस्स्वयमसती स्वाभावे कथं प्रमाणं भवेत्? 
+</details>
+
+##### नान्यतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाप्य् अन्यतो ऽवगन्तुं शक्यते,  
+अनुभूतेर् अन्-अन्य-गोचरत्वात्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Nor can the non- existence of consciousness be apprehended through anything else; for consciousness cannot be the object of anything else. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाप्यन्यतोऽवगन्तुं शक्यते, अनुभूतेरनन्यगोचरत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्याः प्राग्-अभावं साधयत् प्रमाणम्  
+"अनुभूतिर् इयम्" इति विषयी कृत्य  
+तद्-अभावं साधयेत्;  
+</details>
+
+<details><summary>English</summary>
+
+Any instrument of knowledge proving the non-existence of consciousness, could do so only by making consciousness its object--'this is consciousness'; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्याः प्रागभावं साधयत् प्रमाणम् अनुभूतिरियम् इति विषयीकृत्य तदभावं साधयेत्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वतस्-सिद्धत्वेन "इयम्" इति विषयी-कारानर्हात्वात्,  
+न तत्-प्राग्-अभावो ऽन्यतः शक्यावगमः।
+</details>
+
+<details><summary>English</summary>
+
+but consciousness, as being self-established, does not admit of that objectivation which is implied in the word 'this,' and hence its previous non-existence cannot be proved by anything lying outside itself.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वतस्सिद्धत्वेन इयमिति विषयीकारानर्हात्वात्, न तत्प्रागभावोऽन्यतः शक्यावगमः।
+</details>
+
+
+#### नोत्पत्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽस्याः प्राग्-अभावाभावाद्  
+उत्पत्तिर् न शक्यते वक्तुम्  
+इत्य् उत्पत्ति-प्रतिसम्बद्धाश् चान्येऽपि भाव-विकारास् तस्या न सन्ति॥
+</details>
+
+<details><summary>English</summary>
+
+As consciousness thus does not admit of antecedent non-existence, it further cannot be held to originate, and hence also all those other states of being which depend on origination cannot be predicated of it.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अतोऽस्याः प्रागभावाभावादुत्पत्तिर्न शक्यते वक्तुमित्युत्पत्तिप्रतिसम्बद्धाश्चान्येऽपि भावविकारास्तस्या न सन्ति॥
+</details>
 
-## अनुभूतिः न नाना
 
-अनुत्पन्नेयमनुभूतिरात्मनि नानात्वमपि न सहते, व्यापकविरुद्धोपलब्धेः ॥ न ह्यनुत्पन्नं नानाभूतं दृष्टम्। भेदादीनामनुभाव्यत्वेन च रूपादेरिवानुभूतिधर्मत्वं न सम्भवति। अतोऽनुभूतेः अनुभवस्वरूपत्वादेवान्योऽपि कश्चिदनुभाव्यो नास्या धर्मः ॥
+### न नाना
+#### अनुत्पन्नत्वात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुत्पन्नेयम् अनुभूतिर्  
+आत्मनि नानात्वम् अपि न सहते,  
+व्यापक-+++(अनुत्पन्नताख्य-)+++विरुद्धोपलब्धेः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+As consciousness is beginningless,  
+it further does not admit of any plurality within itself;  
+for we observe in this case  
+the presence of something which is contrary to what invariably accompanies plurality  
+(this something being 'beginninglessness' which is contrary to the quality of having a beginning--  
+which quality invariably accompanies plurality). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुत्पन्नेयमनुभूतिरात्मनि नानात्वमपि न सहते, व्यापकविरुद्धोपलब्धेः ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्यनुत्पन्नं नानाभूतं दृष्टम्। 
+</details>
+
+<details><summary>English</summary>
+
+For we never observe a thing characterised by plurality to be without a beginning.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न ह्यनुत्पन्नं नानाभूतं दृष्टम्। 
+</details>
+
+#### भेदो नानुभूति-धर्मः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भेदादीनाम् अनुभाव्यत्वेन +++(→नानुभूतित्वेन)+++ च  
+रूपादेर् इवानुभूति-धर्मत्वं  
+न सम्भवति। 
+</details>
+
+<details><summary>English</summary>
+
+And moreover difference, origination, &c., are objects of consciousness, like colour and other qualities,  
+and hence cannot be attributes of consciousness. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भेदादीनामनुभाव्यत्वेन च रूपादेरिवानुभूतिधर्मत्वं न सम्भवति। 
+</details>
+
+#### अनुभाव्यो न धर्मः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतोऽनुभूतेर् अनुभव+++(-मात्र)+++-स्वरूपत्वाद् एव  
+अन्योऽपि कश्चिद् अनुभाव्यो नास्या धर्मः ॥
+</details>
+
+<details><summary>English</summary>
+
+Therefore, consciousness being essentially consciousness only,  
+nothing else that is an object of consciousness can be its attribute.  
+The conclusion is that consciousness is free from difference of any kind.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतोऽनुभूतेः अनुभवस्वरूपत्वादेवान्योऽपि कश्चिदनुभाव्यो नास्या धर्मः ॥
+</details>
+
 
 ## संविदेव आत्मा
 
