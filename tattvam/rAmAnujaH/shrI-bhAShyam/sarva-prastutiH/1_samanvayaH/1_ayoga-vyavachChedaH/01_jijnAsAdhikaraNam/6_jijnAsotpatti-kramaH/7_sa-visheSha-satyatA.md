@@ -610,9 +610,17 @@ such determination being ascertained only on the apprehension of the second indi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सास्नादि-वस्तु-संस्थान-रूप-- गोत्वादेर् अनुवृत्तिर् न प्रथम-पिण्ड-ग्रहणे गृह्यत  
+सास्नादि-वस्तु-संस्थान-रूप-- गोत्वादेर् अनुवृत्तिर्  
+न प्रथम-पिण्ड-ग्रहणे गृह्यत  
 इति प्रथम-पिण्ड-ग्रहणस्य निर्विकल्पकत्वम्,  
 न पुनस् संस्थान-रूप-जात्य्-आदेर् अ-ग्रहणात्। 
+</details>
+
+<details><summary>English</summary>
+
+Such extension or continuance of a certain generic character is, on the other hand, not apprehended on the apprehension of the first individual, and perception of the latter kind thence is 'non-determinate.' 
+
+That it is such is not due to non-apprehension of structure, colour, generic character and so on, for all these attributes are equally objects of sensuous perception (and hence perceived as belonging to the first individual also). 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -621,13 +629,105 @@ such determination being ascertained only on the apprehension of the second indi
 </details>
 
 
-संस्थानरूपजात्यादेः अप्यैन्द्रियिकत्वाविशेषात्, संस्थानेन विना संस्थानिनः प्रतीत्यनुपपत्तेश्च प्रथमपिण्डग्रहणेऽपि ससंस्थानमेव वस्त्वित्थमिति गृह्यते।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो द्वितीयादिपिण्डग्रहणेषु गोत्वादेरनुवृत्तिधर्मविशिष्टता संस्थानिवत्संस्थानवच्च सर्वदैव गृह्यत इति तेषु सविकल्पकत्वमेव। अतः प्रत्यक्षस्य कदाचिदपि न निर्विशेषविषयत्वम्॥
+संस्थान-रूप-जात्य्-आदेर् अप्य् ऐन्द्रियिकत्वाविशेषात्,  
+संस्थानेन विना संस्थानिनः प्रतीत्य्-अनुपपत्तेश् च  
+प्रथम-पिण्ड-ग्रहणेऽपि स-संस्थानम् एव वस्त्व् "इत्थम्" इति गृह्यते।
+</details>
 
-## भेदाभेदवादिनिरासः
+<details><summary>English</summary>
 
-अत एव सर्वत्र भिन्नाभिन्नत्वमपि निरस्तम्। इदमित्थमिति प्रतीताविदमित्थम्भावयोरैक्यं कथमिव प्रत्येतुं शक्यते। तत्रेत्थम्भावस्सास्नादिसंस्थानविशेषः, तद्विशेष्यं द्रव्यमिदमंश इत्यनयोरैक्यं प्रतीतिपराहतमेव। तथाहि – प्रथममेव वस्तु प्रतीयमानं सकलेतरव्यावृत्तमेव प्रतीयते। व्यावृत्तिश्च गोत्वादिसंस्थानविशेषविशिष्टतयेत्थमिति प्रतीतेः। सर्वत्र विशेषणविशेष्यभावप्रतिपत्तौ तयोरत्यन्तभेदः प्रतीत्यैव सुव्यक्तः। तत्र दण्डकुण्डलादयः पृथक्संस्थानसंस्थिताः स्वनिष्ठाश्च कदाचित्क्वचिद्- द्रव्यान्तरविशेषणतयाऽवतिष्ठन्ते। गोत्वादयस्तु द्रव्यसंस्थानतयैव पदार्थभूताः सन्तो द्रव्यविशेषणतया अवस्थिताः। उभयत्र विशेषणविशेष्यभावस्समानः। तत एव तयोर्भेदप्रतिपत्तिश्च। इयांस्तु विशेषः पृथक् स्थितिप्रतिपत्तियोग्या दण्डादयः, गोत्वादयस्तु नियमेन तदनर्हा इति। अतो वस्तुविरोधः प्रतीतिपराहत इति प्रतीतिप्रकारनिह्नवादेवोच्यते। प्रतीतिप्रकारो हि इदमित्थमित्येव सर्वसम्मतः। तदेतत्सूत्रकारेण नैकस्मिन्नसम्भवात् (ब्र.सू.२.२.३१) इति सुव्यक्तमुपपादितम्॥
+Moreover that which possesses structure cannot be perceived apart from the structure, and hence in the case of the apprehension of the first individual there is already perception of structure, giving rise to the judgment 'The thing is such and such.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संस्थानरूपजात्यादेर् अप्यैन्द्रियिकत्वाविशेषात्, संस्थानेन विना संस्थानिनः प्रतीत्यनुपपत्तेश्च प्रथमपिण्डग्रहणेऽपि ससंस्थानमेव वस्त्वित्थमिति गृह्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो द्वितीयादि-पिण्ड-ग्रहणेषु  
+गोत्वादेर् अनुवृत्ति-धर्म-विशिष्टता  
+संस्थानिवत् संस्थानवच् च सर्वदैव गृह्यत इति  
+तेषु स-विकल्पकत्वम् एव। 
+</details>
+
+<details><summary>English</summary>
+
+In the case of the second, third, &c., individuals, on the other hand, we apprehend, in addition to the thing possessing structure and to the structure itself, the special attribute of the persistence of the generic character, and hence the perception is 'determinate.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो द्वितीयादिपिण्डग्रहणेषु गोत्वादेरनुवृत्तिधर्मविशिष्टता संस्थानिवत्संस्थानवच्च सर्वदैव गृह्यत इति तेषु सविकल्पकत्वमेव। 
+</details>
+
+#### निगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः प्रत्यक्षस्य कदाचिद् अपि न निर्विशेष-विषयत्वम्॥
+</details>
+
+<details><summary>English</summary>
+
+From all this it follows that perception never has for its object that which is devoid of all difference.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतः प्रत्यक्षस्य कदाचिदपि न निर्विशेषविषयत्वम्॥
+</details>
+
+
+## भेदाभेद-वादि-निरासः
+
+<details><summary>English</summary>
+
+The bhedābheda view is untenable.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव सर्वत्र भिन्नाभिन्नत्वम् अपि निरस्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+The same arguments tend to refute the view that there is difference and absence of difference at the same time (the so-called bhedābheda view). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव सर्वत्र भिन्नाभिन्नत्वमपि निरस्तम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"इदम् इत्थम्" इति प्रतीताव्  
+इदम्-इत्थम्-भावयोर् ऐक्यं  
+कथम् इव प्रत्येतुं शक्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Take the judgment 'This is such and such'; how can we realise here the non-difference of 'being this' and 'being such and such'? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदमित्थमिति प्रतीताविदमित्थम्भावयोरैक्यं कथमिव प्रत्येतुं शक्यते। 
+</details>
+
+
+तत्रेत्थम्भावस्सास्नादिसंस्थानविशेषः, तद्विशेष्यं द्रव्यमिदमंश इत्यनयोरैक्यं प्रतीतिपराहतमेव। तथाहि – प्रथममेव वस्तु प्रतीयमानं सकलेतरव्यावृत्तमेव प्रतीयते। व्यावृत्तिश्च गोत्वादिसंस्थानविशेषविशिष्टतयेत्थमिति प्रतीतेः। सर्वत्र विशेषणविशेष्यभावप्रतिपत्तौ तयोरत्यन्तभेदः प्रतीत्यैव सुव्यक्तः। तत्र दण्डकुण्डलादयः पृथक्संस्थानसंस्थिताः स्वनिष्ठाश्च कदाचित्क्वचिद्- द्रव्यान्तरविशेषणतयाऽवतिष्ठन्ते। गोत्वादयस्तु द्रव्यसंस्थानतयैव पदार्थभूताः सन्तो द्रव्यविशेषणतया अवस्थिताः। उभयत्र विशेषणविशेष्यभावस्समानः। तत एव तयोर्भेदप्रतिपत्तिश्च। इयांस्तु विशेषः पृथक् स्थितिप्रतिपत्तियोग्या दण्डादयः, गोत्वादयस्तु नियमेन तदनर्हा इति। अतो वस्तुविरोधः प्रतीतिपराहत इति प्रतीतिप्रकारनिह्नवादेवोच्यते। प्रतीतिप्रकारो हि इदमित्थमित्येव सर्वसम्मतः। तदेतत्सूत्रकारेण नैकस्मिन्नसम्भवात् (ब्र.सू.२.२.३१) इति सुव्यक्तमुपपादितम्॥
 
 ## निर्विशेषस्य प्रमाणाविषयत्वनिगमनम्
 
