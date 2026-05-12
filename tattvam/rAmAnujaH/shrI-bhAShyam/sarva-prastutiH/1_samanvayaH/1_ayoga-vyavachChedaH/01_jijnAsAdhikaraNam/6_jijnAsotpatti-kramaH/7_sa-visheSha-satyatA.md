@@ -326,13 +326,145 @@ It therefore must be admitted that reality is affected with difference well esta
 </details>
 
 
-## निर्विशेषत्वं वस्तुनि न शब्दगम्यम्
+### न शब्दात्
 
-शब्दस्य तु विशेषेण सविशेष एव वस्तुन्यभिधानसामर्थ्यम्, पदवाक्यरूपेण प्रवृत्तेः। प्रकृतिप्रत्यययोगेन हि पदत्वम्। प्रकृतिप्रत्ययोरर्थभेदेन पदस्यैव विशिष्टार्थप्रतिपादनमवर्जनीयम्। पदभेदश्चार्थभेदनिबन्धनः। पदसंघातरूपस्य वाक्यस्यानेकपदार्थसंसर्गविशेषाभिधायित्वेन निर्विशेषवस्तुप्रतिपादनासामर्थ्यात्, न निर्विशेषवस्तुनि शब्दः प्रमाणम्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## निर्विशेषत्वं न प्रत्यक्षगम्यम्
+शब्दस्य तु  
+विशेषेण स-विशेष एव वस्तुन्य् अभिधान-सामर्थ्यम्,  
+पद-वाक्य-रूपेण प्रवृत्तेः। +++(5)+++
+</details>
 
-प्रत्यक्षस्य निर्विकल्पकसविकल्पकभेदभिन्नस्य न निर्विशेषवस्तुनि प्रमाणभावः। सविकल्पकं जात्याद्यनेकपदार्थविशिष्टविषयत्वादेव सविशेषविषयम्। निर्विकल्पकमपि सविशेषविषयमेव, सविकल्पके स्वस्मिन्ननुभूतपदार्थविशिष्टप्रतिसंधानहेतुत्वात्।
+<details><summary>English</summary>
+
+As to sound (speech; śabda) it is specially apparent that it possesses the power of denoting only such things as are affected with difference. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+शब्दस्य तु विशेषेण सविशेष एव वस्तुन्यभिधानसामर्थ्यम्, पदवाक्यरूपेण प्रवृत्तेः। 
+</details>
+
+
+#### न पदात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकृतिप्रत्यययोगेन हि पदत्वम्। 
+</details>
+
+<details><summary>English</summary>
+
+Speech operates with words and sentences. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रकृतिप्रत्यययोगेन हि पदत्वम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकृति-प्रत्यययोर् अर्थ-भेदेन  
+पदस्यैव विशिष्टार्थ-प्रतिपादनम् अ-वर्जनीयम्। 
+</details>
+
+<details><summary>English</summary>
+
+Now a word (pada) originates from the combination of a radical element and a suffix, and as these two elements have different meanings it necessarily follows that the word itself can convey only a sense affected with difference. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रकृतिप्रत्यययोरर्थभेदेन पदस्यैव विशिष्टार्थप्रतिपादनमवर्जनीयम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पद-भेदश् चार्थ-भेद-निबन्धनः। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+And further, the plurality of words is based on plurality of meanings; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पदभेदश्चार्थभेदनिबन्धनः। 
+</details>
+
+#### न वाक्यात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पद-सङ्घातरूपस्य वाक्यस्य  
+अनेक-पदार्थ-संसर्ग-विशेषाभिधायित्वेन निर्विशेष-वस्तु-प्रतिपादनासामर्थ्यात्,  
+न निर्विशेष-वस्तुनि शब्दः प्रमाणम्।
+</details>
+
+<details><summary>English</summary>
+
+the sentence therefore which is an aggregate of words expresses some special combination of things (meanings of words), and hence has no power to denote a thing devoid of all difference.--The conclusion is that sound cannot be a means of knowledge for a thing devoid of all difference.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पदसंघातरूपस्य वाक्यस्यानेकपदार्थसंसर्गविशेषाभिधायित्वेन निर्विशेषवस्तुप्रतिपादनासामर्थ्यात्, न निर्विशेषवस्तुनि शब्दः प्रमाणम्।
+</details>
+
+
+### न प्रत्यक्षात्
+
+<details><summary>English</summary>
+
+Pratyaksha--even of the nirvikalpaka kind--proves difference.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यक्षस्य निर्विकल्पक--स-विकल्पक-- भेद-भिन्नस्य  
+न निर्विशेष-वस्तुनि प्रमाण-भावः +++(वक्ष्यमाण-रीत्या)+++। 
+</details>
+
+
+<details><summary>English</summary>
+
+Perception in the next place--with its two subdivisions of non-determinate (nirvikalpaka) and determinate (savikalpaka) perception--also cannot be a means of knowledge for things devoid of difference. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रत्यक्षस्य निर्विकल्पकसविकल्पकभेदभिन्नस्य न निर्विशेषवस्तुनि प्रमाणभावः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स-विकल्पकं जात्य्-आद्य्--अनेक-पदार्थ-- विशिष्ट-विषयत्वाद् एव  
+स-विशेष-विषयम्। 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+सविकल्पकं जात्याद्यनेकपदार्थविशिष्टविषयत्वादेव सविशेषविषयम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्विकल्पकम् अपि स-विशेष-विषयम् एव,  
+स-विकल्पके स्वस्मिन्न् अनुभूत-पदार्थ-विशिष्ट-- प्रतिसन्धानहेतुत्वात्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+निर्विकल्पकमपि सविशेषविषयमेव, सविकल्पके स्वस्मिन्ननुभूतपदार्थविशिष्टप्रतिसंधानहेतुत्वात्।
+</details>
+
 
 ## निर्विकल्पकसविकल्पकयोः निष्कृष्टं स्वरूपम्
 
