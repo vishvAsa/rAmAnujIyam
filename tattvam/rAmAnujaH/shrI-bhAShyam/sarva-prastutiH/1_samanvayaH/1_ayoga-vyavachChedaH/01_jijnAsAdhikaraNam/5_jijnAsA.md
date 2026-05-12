@@ -13,7 +13,7 @@ title = "५ जिज्ञासा"
 <details><summary>Thibaut</summary>
 
 The word 'jijñāsā' is a desiderative formation meaning 'desire to know.'  
-And as in the case of any desire the desired object is the chief thing, the Sūtra means to enjoin knowledge--which is the object of the desire of knowledge.  
+And as in the case of any desire the desired object is the chief thing, the Sūtra means to enjoin knowledge – which is the object of the desire of knowledge.  
 
 </details>
 
@@ -315,7 +315,7 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 
 <details><summary>Thibaut</summary>
 
-The purport of the entire Sūtra then is as follows: 'Since the fruit of works known through the earlier part of the Mīmāṁsā is limited and non-permanent, and since the fruit of the knowledge of Brahman--which knowledge is to be reached through the latter part of the Mīmāṁsā--is unlimited and permanent; for this reason Brahman is to be known, after the knowledge of works has previously taken place.'--
+The purport of the entire Sūtra then is as follows: 'Since the fruit of works known through the earlier part of the Mīmāṁsā is limited and non-permanent, and since the fruit of the knowledge of Brahman – which knowledge is to be reached through the latter part of the Mīmāṁsā--is unlimited and permanent; for this reason Brahman is to be known, after the knowledge of works has previously taken place.'--
 </details>
 
 

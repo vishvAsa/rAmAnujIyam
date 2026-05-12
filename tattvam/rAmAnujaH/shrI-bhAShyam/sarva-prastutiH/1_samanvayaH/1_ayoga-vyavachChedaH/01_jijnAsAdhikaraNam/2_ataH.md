@@ -195,7 +195,7 @@ the word 'therefore' intimates that what has taken place (viz. the study of the 
 
 <details><summary>Thibaut</summary>
 
-For the fact is that the enquiry into (lit.'the desire to know') Brahman--the fruit of which enquiry is infinite in nature and permanent--follows immediately in the case of him who, having read the Veda together with its auxiliary disciplines, has reached the knowledge that the fruit of mere works is limited and non-permanent, and hence has conceived the desire of final release.
+For the fact is that the enquiry into (lit.'the desire to know') Brahman – the fruit of which enquiry is infinite in nature and permanent – follows immediately in the case of him who, having read the Veda together with its auxiliary disciplines, has reached the knowledge that the fruit of mere works is limited and non-permanent, and hence has conceived the desire of final release.
 </details>
 
 

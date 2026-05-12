@@ -4829,7 +4829,7 @@ SL
 SEC./10] 
 भारत सरकार 
 FINAL DECISION 
-26. छन्दोभिधानान्नेतिचेन्न तथाचेतोर्पणनिगमात् तथाहि- 
+26. छन्दोभिधानान्नेतिचेन्न तथाचेतोर्पणनिगमात् तथा हि- 
 दर्शनम् । 
 If it be contended-"This is not so, because the preceding text mentions a metre." The reply is No; because meditation as gayatri is taught. Similar teachings are observed ". 
 Here an objection is raised. The preceding section of the upanishad begins with this statement-" Gayatri is all these"; and after mentioning the metre in illustration of this, a verse from the purusha sūkta is quoted. 
@@ -5852,7 +5852,7 @@ The text is "who meditates on this unlimited Atmā vaiṣvanara thus". The term 
 He (the meditator) eats the food that is in all worlds, in all beings, in all atmās. 
 The term 'food' (annam) means object of enjoy- ment; and that which exists in all places, and which of itself is infinite bliss is Brahma. The object enjoyed by each bound jiva to the exclusion of others has to be rejected by those that desire release. Reference is not therefore made to it here. 
 Why again is the breast of the meditator described as the vedi (the place between two of the fires whereon the materials for offerings are placed), and the like? 
-32. सम्पत्तेरिति जैमिनिः तथाहि दर्शयति । 
+32. सम्पत्तेरिति जैमिनिः तथा हि दर्शयति । 
 For the purpose of converting the offerings to prana into worship of Vaisvanara. So does Jaimini think; and this is shown by the upanishad. 
 Every brahmana, when he takes his meal, puts into his mouth five handfuls of cooked rice with ghee, and offers them to prana in its five-fold activity, mentioning the names connoting each such activity. The-upanishad directs that he should regard them as offered to Vaisva- nara in the same way, as offerings are made in what is 
 RY OF 75 
@@ -6390,7 +6390,7 @@ changed to suit the close; but this is not correct; it should be the other way. 
 done. 
 6. The question is again asked-Why is so much trouble taken to explain the opening verse? The beginning enjoins search for only what is within the small ether; and the close enjoins search for the small ether. Why should they not be understood in this way? Reply. The close mentions the fruit, repeating what has been stated already; and as it mentions search for both, the beginning should refer to both. If the search for the small ether be not mentioned at the beginning, its repetition at the close will not be appropriate. The close cannot give an injunction as to the search for both; for one of them has been enjoined already by the opening verse. Nor can it be regarded as repeating this injunction and as giving a new injunction for the other; for it repeats both searches and mentions the fruit. Hence the explanation already given stands. 
 7. This has the support of the author of the vakyam. 
-14. गतिशब्दाभ्यां तथाहि दृष्टं लिङ्गं च । 
+14. गतिशब्दाभ्यां तथा हि दृष्टं लिङ्गं च । 
 For this reason also-the mention of going and of the word brahma; for so is it seen (in other places); and they are (by themselves) a sufficient reason. 
 MINISTRY 
 OF CULTURE 

@@ -115,7 +115,7 @@ Our adversary will perhaps attempt to explain things in the following way.
 
 <details><summary>English</summary>
 
-> And the fact that such knowledge, even when produced, does not at once and for every one put a stop to the view of plurality by no means subverts my opinion; for, to mention an analogous instance, the double appearance of the moon--presenting itself to a person affected with a certain weakness of vision--does not come to an end as soon as the oneness of the moon has been apprehended by reason. 
+> And the fact that such knowledge, even when produced, does not at once and for every one put a stop to the view of plurality by no means subverts my opinion; for, to mention an analogous instance, the double appearance of the moon – presenting itself to a person affected with a certain weakness of vision – does not come to an end as soon as the oneness of the moon has been apprehended by reason. 
 </details>
 
 
@@ -852,7 +852,7 @@ The Vākyakāra then propounds a pūrvapaksha (primā facie view),
 
 <details><summary>English</summary>
 
-and then sums up against this in the words 'but (meditation) is established on account of the term meditation'; that means--knowledge repeated more than once (i.e. meditation) is determined to be the means of Release.
+and then sums up against this in the words 'but (meditation) is established on account of the term meditation'; that means – knowledge repeated more than once (i.e. meditation) is determined to be the means of Release.
 </details>
 
 
@@ -873,7 +873,7 @@ and then sums up against this in the words 'but (meditation) is established on a
 
 The Vākyakāra then goes on 'Meditation is steady remembrance, on the ground of observation and statement.' 
 
-That means--this knowledge, of the form of meditation, and repeated more than once, is of the nature of steady remembrance.
+That means – this knowledge, of the form of meditation, and repeated more than once, is of the nature of steady remembrance.
 </details>
 
 
@@ -1316,7 +1316,7 @@ Although sacrifices and the like are enjoined with a view to the origination of 
 
 <details><summary>English</summary>
 
-it is only knowledge in the form of meditation which--being daily practised, constantly improved by repetition, and continued up to death--is the means of reaching Brahman, and hence all the works connected with the different conditions of life are to be performed throughout life only for the purpose of originating such knowledge. 
+it is only knowledge in the form of meditation which – being daily practised, constantly improved by repetition, and continued up to death – is the means of reaching Brahman, and hence all the works connected with the different conditions of life are to be performed throughout life only for the purpose of originating such knowledge. 
 </details>
 
 
@@ -1864,7 +1864,7 @@ The word has the same sense in the following passage: 'Firm in traditional knowl
 
 <details><summary>English</summary>
 
-and hence--as equally giving rise to an undesirable result--they may both be designated as evil. 
+and hence – as equally giving rise to an undesirable result – they may both be designated as evil. 
 </details>
 
 
@@ -2016,7 +2016,7 @@ Knowledge which is the means of reaching Brahman, thus requires the works prescr
 
 <details><summary>English</summary>
 
-and hence the systematic enquiry into works (i. e. the Pūrva Mīmāṁsā)--from which we ascertain the nature of the works required and also the transitoriness and limitation of the fruits of mere works--forms a necessary antecedent to the systematic enquiry into Brahman. 
+and hence the systematic enquiry into works (i. e. the Pūrva Mīmāṁsā)--from which we ascertain the nature of the works required and also the transitoriness and limitation of the fruits of mere works – forms a necessary antecedent to the systematic enquiry into Brahman. 
 </details>
 
 
@@ -2071,7 +2071,7 @@ for unless we ascertain all the distinctions of fruits of works, means, modes of
 
 <details><summary>English</summary>
 
-That those conditions (viz. nityānityavastuviveka, śama, dama, &c.) are 'means' must be determined on the basis of viniyoga ('application' which determines the relation of principal and subordinate matters--angin and anga); 
+That those conditions (viz. nityānityavastuviveka, śama, dama, &c.) are 'means' must be determined on the basis of viniyoga ('application' which determines the relation of principal and subordinate matters – angin and anga); 
 </details>
 
 
@@ -2121,7 +2121,7 @@ is treated of in the third book of the Pūrva Mīmāṁsā-sūtras.
 
 <details><summary>English</summary>
 
-And further we must, in this connexion, consider also the meditations on the Udgītha and similar things--which, although aiming at the success of works, are of the nature of reflections on Brahman (which is viewed in them under various forms)--and as such have reference to knowledge of Brahman. 
+And further we must, in this connexion, consider also the meditations on the Udgītha and similar things – which, although aiming at the success of works, are of the nature of reflections on Brahman (which is viewed in them under various forms)--and as such have reference to knowledge of Brahman. 
 </details>
 
 

@@ -425,7 +425,7 @@ Hence the earlier and the later Mīmāṁsā are separate only in so far as ther
 
 <details><summary>Thibaut</summary>
 
-The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the enquiry into religious duty' and concludes with the Sūtra '(From there is) no return on account of scriptural statement'--has, owing to the special character of the contents, a definite order of internal succession. 
+The entire Mīmāṁsā-sātra – which begins with the Sūtra 'Now therefore the enquiry into religious duty' and concludes with the Sūtra '(From there is) no return on account of scriptural statement'--has, owing to the special character of the contents, a definite order of internal succession. 
 </details>
 
 

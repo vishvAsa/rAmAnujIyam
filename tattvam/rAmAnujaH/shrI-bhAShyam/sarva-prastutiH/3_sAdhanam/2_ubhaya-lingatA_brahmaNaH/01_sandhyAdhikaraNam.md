@@ -649,7 +649,7 @@ on account of the true nature (of the soul) not being fully manifested.
 
 <details><summary>Thibaut</summary>
 
-The things appearing in dreams-chariots, lotus tanks, and so on--are absolute Māyā, i.e. things created by the Supreme Person. 
+The things appearing in dreams-chariots, lotus tanks, and so on – are absolute Māyā, i.e. things created by the Supreme Person. 
 </details>
 
 
@@ -1396,7 +1396,7 @@ can apply to the Supreme Person only.
 <details><summary>Thibaut</summary>
 
 The things seen by an individual soul in its dreams therefore are specially created by the Supreme Person,  
-and are meant by him to be a retribution--whether reward or punishment--for deeds of minor importance:  
+and are meant by him to be a retribution – whether reward or punishment – for deeds of minor importance:  
 they therefore last for the time of the dream only,  
 and are perceived by that one soul only.
 </details>

@@ -91,7 +91,7 @@ they do mock their opponents periodically.
 
 > XYZ explained the entire jijnasadhikaranam in some 50 hours without resorting to mockery. 
 
-If so, it may either not be honest, or a conscious overlay of one's own "reconciliatory" bias.
+If so, it may either not be honest, or a conscious overlay of one's own "reconciliatory" bias. rAmAnuja himself mocks the shAnkaran position in the beginning of mAhA-siddhAnta.
 
 ### प्रयोजनम्
 The purpose of such is 

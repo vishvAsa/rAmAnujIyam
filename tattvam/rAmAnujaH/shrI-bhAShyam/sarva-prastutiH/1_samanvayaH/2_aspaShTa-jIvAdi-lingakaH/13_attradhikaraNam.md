@@ -299,7 +299,7 @@ Now such eating of course is destruction or reabsorption,
 
 <details><summary>English</summary>
 
-and hence such enjoyment--meaning general reabsorption--can belong to the highest Self only.
+and hence such enjoyment – meaning general reabsorption – can belong to the highest Self only.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -638,7 +638,7 @@ which abides in the hollow of the heart;
 
 <details><summary>English</summary>
 
-and which, being connected with the elementary substances, earth, and so on, is born in various forms--human, divine, &c.--
+and which, being connected with the elementary substances, earth, and so on, is born in various forms – human, divine, &c.--
 </details>
 
 <details><summary>मूलम्</summary>
@@ -716,7 +716,7 @@ Everywhere in that section we meet with statements of distinctive attributes of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथाहि –  
+तथा हि –  
 
 > ब्रह्म-ज-ज्ञं देवम् ईड्यं विदित्वा  
 > निचाय्येमां शान्तिम् अत्यन्तम् एति (कठ.१.१.१७) 
@@ -731,7 +731,7 @@ The passage 'When he has known and understood that which is born from Brahman, t
 
 <details><summary>मूलम्</summary>
 
-तथाहि – ब्रह्मजज्ञं देवमीड्यं विदित्वा निचाय्येमां शान्तिमत्यन्तमेति (कठ.१.१.१७) इति।
+तथा हि – ब्रह्मजज्ञं देवमीड्यं विदित्वा निचाय्येमां शान्तिमत्यन्तमेति (कठ.१.१.१७) इति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -883,7 +883,7 @@ And in the text under discussion also (I, 3, 1), the two Selfs are distinctly de
 
 <details><summary>English</summary>
 
-But, a new objection is raised, the initial passage, I, 1, 20, 'That doubt which there is when a man is dead--some saying, he is; others, he is not,' clearly asks a question as to the true nature of the individual soul, and we hence conclude that that soul forms the topic of the whole chapter.
+But, a new objection is raised, the initial passage, I, 1, 20, 'That doubt which there is when a man is dead – some saying, he is; others, he is not,' clearly asks a question as to the true nature of the individual soul, and we hence conclude that that soul forms the topic of the whole chapter.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -975,7 +975,7 @@ For his second boon, again, he chooses the knowledge of a sacrificial fire, whic
 
 <details><summary>English</summary>
 
-When, therefore, he chooses for his third boon the clearing up of his doubt as to the existence of the soul after death (as stated in v. 20), it is evident that his question is prompted by the desire to acquire knowledge of the true nature of the highest Self--which knowledge has the form of meditation on the highest Self--, and by means thereof, knowledge of the true nature of final Release which consists in obtaining the highest Brahman.
+When, therefore, he chooses for his third boon the clearing up of his doubt as to the existence of the soul after death (as stated in v. 20), it is evident that his question is prompted by the desire to acquire knowledge of the true nature of the highest Self – which knowledge has the form of meditation on the highest Self--, and by means thereof, knowledge of the true nature of final Release which consists in obtaining the highest Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1031,7 +1031,7 @@ The passage, therefore, is not concerned merely with the problem as to the separ
 
 <details><summary>English</summary>
 
-The full purport of Nāciketas' question, therefore, is as follows: When a man qualified for Release has died and thus freed himself from all bondage, there arises a doubt as to his existence or non-existence--a doubt due to the disagreement of philosophers as to the true nature of Release; in order to clear up this doubt I wish to learn from thee the true nature of the state of Release.
+The full purport of Nāciketas' question, therefore, is as follows: When a man qualified for Release has died and thus freed himself from all bondage, there arises a doubt as to his existence or non-existence – a doubt due to the disagreement of philosophers as to the true nature of Release; in order to clear up this doubt I wish to learn from thee the true nature of the state of Release.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1143,7 +1143,7 @@ Philosophers, indeed, hold many widely differing opinions as to what constitutes
 
 <details><summary>English</summary>
 
-5. Those, however, who understand the Vedānta, teach as follows: There is a highest Brahman which is the sole cause of the entire universe, which is antagonistic to all evil, whose essential nature is infinite knowledge and blessedness, which comprises within itself numberless auspicious qualities of supreme excellence, which is different in nature from all other beings, and which constitutes the inner Self of all. Of this Brahman, the individual souls--whose true nature is unlimited knowledge, and whose only essential attribute is the intuition of the supreme Self--are modes, in so far, namely, as they constitute its body. The true nature of these souls is, however, obscured by Nescience, i.e. the influence of the beginningless chain of works; and by Release then we have to understand that intuition of the highest Self, which is the natural state of the individual souls, and which follows on the destruction of Nescience.
+5. Those, however, who understand the Vedānta, teach as follows: There is a highest Brahman which is the sole cause of the entire universe, which is antagonistic to all evil, whose essential nature is infinite knowledge and blessedness, which comprises within itself numberless auspicious qualities of supreme excellence, which is different in nature from all other beings, and which constitutes the inner Self of all. Of this Brahman, the individual souls – whose true nature is unlimited knowledge, and whose only essential attribute is the intuition of the supreme Self – are modes, in so far, namely, as they constitute its body. The true nature of these souls is, however, obscured by Nescience, i.e. the influence of the beginningless chain of works; and by Release then we have to understand that intuition of the highest Self, which is the natural state of the individual souls, and which follows on the destruction of Nescience.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1180,7 +1180,7 @@ Philosophers, indeed, hold many widely differing opinions as to what constitutes
 
 <details><summary>English</summary>
 
-When Nāciketas desires Yama graciously to teach him the true nature of Release and the means to attain it, Yama at first tests him by dwelling on the difficulty of comprehending Release, and by tempting him with various worldly enjoyments. But having in this way recognised the boy's thorough fitness, he in the end instructs him as to the kind of meditation on the highest Self which constitutes knowledge of the highest Reality, as to the nature of Release--which consists in reaching the abode of the highest Self--, and as to all the required details. This instruction begins, I, 2, 12, 'The Ancient one who is difficult to see,' &c., and extends up to I, 3, 9. 'and that is the highest place of Vishṇu.'--It thus is an established conclusion that the 'eater' is no other than the highest Self.
+When Nāciketas desires Yama graciously to teach him the true nature of Release and the means to attain it, Yama at first tests him by dwelling on the difficulty of comprehending Release, and by tempting him with various worldly enjoyments. But having in this way recognised the boy's thorough fitness, he in the end instructs him as to the kind of meditation on the highest Self which constitutes knowledge of the highest Reality, as to the nature of Release – which consists in reaching the abode of the highest Self--, and as to all the required details. This instruction begins, I, 2, 12, 'The Ancient one who is difficult to see,' &c., and extends up to I, 3, 9. 'and that is the highest place of Vishṇu.'--It thus is an established conclusion that the 'eater' is no other than the highest Self.
 </details>
 
 <details><summary>मूलम्</summary>

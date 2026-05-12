@@ -28,7 +28,7 @@ and is here referred to as 'svādhyāya.'
 
 <details><summary>मूलम्</summary>
 
-तथाहि प्रथमं तावत् स्वाध्यायोऽध्येतव्यः (यजुरारण्यके.२.प्र. १५.अनु.) इत्यध्ययनेनैव स्वाध्यायशब्दवाच्यवेदाख्याक्षरराशेर्ग्रहणं विधीयते॥
+तथा हि प्रथमं तावत् स्वाध्यायोऽध्येतव्यः (यजुरारण्यके.२.प्र. १५.अनु.) इत्यध्ययनेनैव स्वाध्यायशब्दवाच्यवेदाख्याक्षरराशेर्ग्रहणं विधीयते॥
 </details>
 
 <details><summary>श्रुत-प्रदीपिका - तथा हि</summary>
@@ -448,7 +448,7 @@ By a saṁskāra is understood an action whereby something is fitted to produce 
 
 <details><summary>English</summary>
 
-and that the Veda should be the object of such a saṁskaāra is quite appropriate, since it gives rise to the knowledge of the four chief ends of human action--viz. religious duty, wealth, pleasure, and final release--and of the means to effect them; and since it helps to effect those ends by itself also, viz. by mere mechanical repetition (apart from any knowledge to which it may give rise).
+and that the Veda should be the object of such a saṁskaāra is quite appropriate, since it gives rise to the knowledge of the four chief ends of human action – viz. religious duty, wealth, pleasure, and final release – and of the means to effect them; and since it helps to effect those ends by itself also, viz. by mere mechanical repetition (apart from any knowledge to which it may give rise).
 </details>
 
 

@@ -147,7 +147,7 @@ in agreement with the special rule as to the meaning of the genitive case, Pā�
 
 <details><summary>Thibaut</summary>
 
-It might be said that even if we accepted the general meaning of the genitive case--which is that of connexion in general--  
+It might be said that even if we accepted the general meaning of the genitive case – which is that of connexion in general--  
 Brahman's position (in the above compound) as an object would be established by the circumstance that the 'enquiry' demands an object;  
 but in agreement with the principle that the direct denotation of a word is to be preferred to a meaning inferred  
 we take the genitive case 'of Brahman' as denoting the object.

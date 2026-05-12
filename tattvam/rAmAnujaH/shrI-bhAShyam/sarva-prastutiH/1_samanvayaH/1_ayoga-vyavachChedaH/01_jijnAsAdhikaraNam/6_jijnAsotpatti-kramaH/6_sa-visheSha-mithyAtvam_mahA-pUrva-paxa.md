@@ -342,7 +342,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 
 --the following passages from the Vishṇu-purāṇa:
 
-> 'In which all difference vanishes, which is pure Being, which is not the object of words, which is known by the Self only--that knowledge is called Brahman' (VI, 7, 53); 
+> 'In which all difference vanishes, which is pure Being, which is not the object of words, which is known by the Self only – that knowledge is called Brahman' (VI, 7, 53); 
 </details>
 
 
@@ -651,7 +651,7 @@ The appearance of plurality is due to avidyā.
 
 <details><summary>English</summary>
 
-'Falsehood' (mithyātva) belongs to what admits of being terminated by the cognition of the real thing--such cognition being preceded by conscious activity (not by mere absence of consciousness or knowledge). The snake, e.g. which has for its substrate a rope or the like is false; 
+'Falsehood' (mithyātva) belongs to what admits of being terminated by the cognition of the real thing – such cognition being preceded by conscious activity (not by mere absence of consciousness or knowledge). The snake, e.g. which has for its substrate a rope or the like is false; 
 </details>
 
 
@@ -908,7 +908,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 
 <details><summary>English</summary>
 
-> But when, on the cessation of all work, everything is only pure intelligence in its own proper form, without any imperfections; then no differences--the fruit of the tree of wishes--any longer exist between things. 
+> But when, on the cessation of all work, everything is only pure intelligence in its own proper form, without any imperfections; then no differences – the fruit of the tree of wishes – any longer exist between things. 
 </details>
 
 
@@ -948,7 +948,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 
 <details><summary>English</summary>
 
-> Intelligence pure, free from stain, free from grief, free from all contact with desire and other affections, everlastingly one is the highest Lord--Vāsudeva apart from whom nothing exists. 
+> Intelligence pure, free from stain, free from grief, free from all contact with desire and other affections, everlastingly one is the highest Lord – Vāsudeva apart from whom nothing exists. 
 </details>
 
 
@@ -968,7 +968,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 
 <details><summary>English</summary>
 
-I have thus declared to you the lasting truth of things--that intelligence only is true and everything else untrue. And that also which is the cause of ordinary worldly existence has been declared to you' (Vi. Pu. II, 12, 39, 40, 43-45).
+I have thus declared to you the lasting truth of things – that intelligence only is true and everything else untrue. And that also which is the cause of ordinary worldly existence has been declared to you' (Vi. Pu. II, 12, 39, 40, 43-45).
 </details>
 
 
@@ -1191,7 +1191,7 @@ analogously to the use of the term in the following words of Sanatsujāta,
 
 <details><summary>English</summary>
 
-The knowledge again of the essential unity and non-difference of Brahman--which is ascertained from decisive texts such as (the above).
+The knowledge again of the essential unity and non-difference of Brahman – which is ascertained from decisive texts such as (the above).
 </details>
 
 
@@ -1347,7 +1347,7 @@ This the Sūtrakāra himself will declare 'But as the Self (scriptural texts) ac
 
 <details><summary>English</summary>
 
-Thus the Vākyakāra also, 'It is the Self--thus one should apprehend (everything), for everything is effected by that.' 
+Thus the Vākyakāra also, 'It is the Self – thus one should apprehend (everything), for everything is effected by that.' 
 </details>
 
 
@@ -1461,7 +1461,7 @@ But, an objection is raised--
 </details>
 <details><summary>English</summary>
 
-> If--as is to be expected--you reply that what makes the difference between the two is that one of them is due to a defective cause while the other is not:  
+> If – as is to be expected – you reply that what makes the difference between the two is that one of them is due to a defective cause while the other is not:  
 we point out that this distinction holds good also in the case of Scripture and perception being in conflict. 
 </details>
 
@@ -1535,7 +1535,7 @@ This is the principle on which the relation between 'what sublates' and 'what is
 
 <details><summary>English</summary>
 
-Now apprehension of Brahman--which is mere intelligence, eternal, pure, free, self-luminous--is effected by Scripture which rests on endless unbroken tradition, cannot therefore be suspected of any, even the least, imperfection, and hence cannot be non-authoritative;  
+Now apprehension of Brahman – which is mere intelligence, eternal, pure, free, self-luminous – is effected by Scripture which rests on endless unbroken tradition, cannot therefore be suspected of any, even the least, imperfection, and hence cannot be non-authoritative;  
 the state of bondage, on the other hand, with its manifold distinctions is proved by Perception, Inference, and so on,  
 which are capable of imperfections and therefore may be non-authoritative. 
 
@@ -1557,7 +1557,7 @@ It is therefore reasonable to conclude that the state of bondage is put an end t
 
 <details><summary>English</summary>
 
-And that imperfection of which Perception--through which we apprehend a world of manifold distinctions--may be assumed to be capable, is so-called Nescience, which consists in the beginningless wrong imagination of difference.
+And that imperfection of which Perception – through which we apprehend a world of manifold distinctions – may be assumed to be capable, is so-called Nescience, which consists in the beginningless wrong imagination of difference.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1799,7 +1799,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 
 <details><summary>English</summary>
 
---these and similar texts convey the notion of Brahman being changeless, eternal intelligence devoid of all difference; while the other texts--quoted before--teach the qualified Brahman. 
+--these and similar texts convey the notion of Brahman being changeless, eternal intelligence devoid of all difference; while the other texts – quoted before – teach the qualified Brahman. 
 </details>
 
 
@@ -1820,7 +1820,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 
 <details><summary>English</summary>
 
-And there being a conflict between the two sets of passages, we--according to the Mīmāṁsā principle referred to above--decide that the texts referring to Brahman as devoid of qualities are of greater force, because they are later in order [fn_5] than those which speak of Brahman as having qualities. Thus everything is settled.
+And there being a conflict between the two sets of passages, we – according to the Mīmāṁsā principle referred to above – decide that the texts referring to Brahman as devoid of qualities are of greater force, because they are later in order [fn_5] than those which speak of Brahman as having qualities. Thus everything is settled.
 
 [fn_5]: 27:1 The texts which deny all qualities of Brahman are later in order than the texts which refer to Brahman as qualified, because denial presupposes that which is to be denied.
 </details>
@@ -1848,7 +1848,7 @@ The text Taitt. Up. II, 1 refers to Brahman as devoid of qualities.
 
 <details><summary>English</summary>
 
-But--an objection is raised--
+But – an objection is raised--
 
 > even the passage 'The True, knowledge, infinite is Brahman' intimates certain qualities of Brahman, viz. true being, knowledge, infinity!--
 </details>
@@ -2472,7 +2472,7 @@ Is it then not observed, we reply, that (not even) _one_ word is to be taken in 
 
 <details><summary>English</summary>
 
-And if the purport of the sentence, which is nothing but an aggregate of words employed together, has once been ascertained, why should we not take two or three or all words in an implied sense--just as we had taken one--and thus make them fit in with the general purport? 
+And if the purport of the sentence, which is nothing but an aggregate of words employed together, has once been ascertained, why should we not take two or three or all words in an implied sense – just as we had taken one – and thus make them fit in with the general purport? 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2667,7 +2667,7 @@ since Perception itself gives rise to the apprehension of a non-differenced Brah
 
 <details><summary>English</summary>
 
-> But how can it be said that Perception, which has for its object things of various kinds--and accordingly expresses itself in judgments such as 'Here is a jar,' 'There is a piece of cloth'--causes the apprehension of mere Being? 
+> But how can it be said that Perception, which has for its object things of various kinds – and accordingly expresses itself in judgments such as 'Here is a jar,' 'There is a piece of cloth'--causes the apprehension of mere Being? 
 </details>
 
 
@@ -2685,7 +2685,7 @@ since Perception itself gives rise to the apprehension of a non-differenced Brah
 
 <details><summary>English</summary>
 
-If there were no apprehension of difference, all cognitions would have one and the same object, and therefore would give rise to one judgment only--as takes place when one unbroken perceptional cognition is continued for some time.
+If there were no apprehension of difference, all cognitions would have one and the same object, and therefore would give rise to one judgment only – as takes place when one unbroken perceptional cognition is continued for some time.
 </details>
 
 
@@ -2828,7 +2828,7 @@ Hence difference is not apprehended by Perception; and all judgments and proposi
 
 <details><summary>English</summary>
 
-Difference--bheda--does not admit of logical definition
+Difference – bheda – does not admit of logical definition
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3125,7 +3125,7 @@ The rope which persists as a substrate is real, while the non-continuous things 
 
 <details><summary>English</summary>
 
-But--our adversary objects--
+But – our adversary objects--
 
 > the instance is not truly analogous. In the case of the snake-rope the non-reality of the snake results from the snake's being sublated (bādhita) by the cognition of the true nature of the substrate 'This is a rope, not a snake'; it does not result from the non-continuousness of the snake. 
 </details>
@@ -3492,7 +3492,7 @@ Nor can there be assumed, for consciousness, the need of another act of consciou
 
 <details><summary>English</summary>
 
-While it exists, consciousness--differing therein from jars and the like--is never observed not to shine forth, and it cannot therefore be held to depend, in its shining forth, on something else.
+While it exists, consciousness – differing therein from jars and the like – is never observed not to shine forth, and it cannot therefore be held to depend, in its shining forth, on something else.
 </details>
 
 
@@ -3593,7 +3593,7 @@ After this the existence of consciousness is inferred on the ground that the shi
 
 <details><summary>English</summary>
 
-> And should this argumentation be objected to on the ground of its implying that consciousness--which is essentially of the nature of intelligence--is something non-intelligent like material things, 
+> And should this argumentation be objected to on the ground of its implying that consciousness – which is essentially of the nature of intelligence – is something non-intelligent like material things, 
 </details>
 
 
@@ -3634,7 +3634,7 @@ for when pleasure and so on exist at all, they never are non-perceived (i.e. the
 
 <details><summary>English</summary>
 
-> It is thus clear that we have no consciousness of consciousness itself--just as the tip of a finger, although touching other things, is incapable of touching itself.
+> It is thus clear that we have no consciousness of consciousness itself – just as the tip of a finger, although touching other things, is incapable of touching itself.
 </details>
 
 
@@ -3764,7 +3764,7 @@ Consciousness is, with regard to its attributes and to the empirical judgments c
 
 For it is a general principle that  
 of two things  
-that which through its connexion with the other is the cause of the attributes of--and the empirical judgments about--the latter,  
+that which through its connexion with the other is the cause of the attributes of – and the empirical judgments about – the latter,  
 is itself independent of that other as to those two points.  
 </details>
 
@@ -3828,7 +3828,7 @@ Consciousness is eternal and incapable of change.
 
 <details><summary>English</summary>
 
-This self-luminous consciousness, further, is eternal, for it is not capable of any form of non-existence--whether so--called antecedent non-existence or any other form. 
+This self-luminous consciousness, further, is eternal, for it is not capable of any form of non-existence – whether so – called antecedent non-existence or any other form. 
 </details>
 
 
@@ -4185,7 +4185,7 @@ But, our adversary again objects, the consciousness which expresses itself in th
 
 <details><summary>English</summary>
 
-Consciousness cannot stand in the relation of an agent toward itself: the attribute of being a knowing agent is erroneously imputed to it--an error analogous to that expressed in the judgment 'I am a man,' which identifies the Self of a person with the outward aggregate of matter that bears the external characteristics of humanity. 
+Consciousness cannot stand in the relation of an agent toward itself: the attribute of being a knowing agent is erroneously imputed to it – an error analogous to that expressed in the judgment 'I am a man,' which identifies the Self of a person with the outward aggregate of matter that bears the external characteristics of humanity. 
 </details>
 
 
@@ -4522,7 +4522,7 @@ Summing up of the pūrvapaksha view.
 
 <details><summary>English</summary>
 
-As the outcome of all this, we sum up our view as follows.--Eternal, absolutely non-changing consciousness, whose nature is pure non-differenced intelligence, free from all distinction whatever, owing to error illusorily manifests itself (vivarttate) as broken up into manifold distinctions--knowing subjects, objects of knowledge, acts of knowledge.
+As the outcome of all this, we sum up our view as follows.--Eternal, absolutely non-changing consciousness, whose nature is pure non-differenced intelligence, free from all distinction whatever, owing to error illusorily manifests itself (vivarttate) as broken up into manifold distinctions – knowing subjects, objects of knowledge, acts of knowledge.
 </details>
 
 
@@ -4543,7 +4543,7 @@ As the outcome of all this, we sum up our view as follows.--Eternal, absolutely 
 
 <details><summary>English</summary>
 
-And the purpose for which we enter on the consideration of the Vedānta-texts is utterly to destroy what is the root of that error, i.e. Nescience, and thus to obtain a firm knowledge of the oneness of Brahman, whose nature is mere intelligence--free, pure, eternal.
+And the purpose for which we enter on the consideration of the Vedānta-texts is utterly to destroy what is the root of that error, i.e. Nescience, and thus to obtain a firm knowledge of the oneness of Brahman, whose nature is mere intelligence – free, pure, eternal.
 </details>
 
 

@@ -1343,7 +1343,7 @@ those who hold that
 
 <details><summary>English</summary>
 
-> that such bondage may be put an end to by the mere cognition of the true nature of Reality--such cognition resulting from the hearing of certain texts; 
+> that such bondage may be put an end to by the mere cognition of the true nature of Reality – such cognition resulting from the hearing of certain texts; 
 </details>
 
 <details><summary>मूलम्</summary>

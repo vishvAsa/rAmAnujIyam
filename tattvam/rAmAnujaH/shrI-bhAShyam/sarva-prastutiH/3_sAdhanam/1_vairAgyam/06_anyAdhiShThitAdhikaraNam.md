@@ -212,7 +212,7 @@ But in the text under discussion there is no such reference to karman.
 
 <details><summary>English</summary>
 
-For those works--viz. sacrifices and the like--which were undertaken with a view to reward, such as enjoyment of the heavenly world, are, in the case of the descending souls, completely wiped out by the enjoyment of the heavenly world (which precedes the descent of the souls); 
+For those works – viz. sacrifices and the like – which were undertaken with a view to reward, such as enjoyment of the heavenly world, are, in the case of the descending souls, completely wiped out by the enjoyment of the heavenly world (which precedes the descent of the souls); 
 </details>
 
 
@@ -515,7 +515,7 @@ This applies to the killing of the goat also which is offered to Agnīshomau; ma
 
 <details><summary>English</summary>
 
-The case in no way differs from that of harm done in ordinary life--where the agent always is prompted by natural desire, having somehow arrived at the conclusion that his action will accomplish something aimed at by himself. 
+The case in no way differs from that of harm done in ordinary life – where the agent always is prompted by natural desire, having somehow arrived at the conclusion that his action will accomplish something aimed at by himself. 
 </details>
 
 
@@ -641,7 +641,7 @@ From all this it follows that the souls embody themselves in plants to the end o
 
 <details><summary>English</summary>
 
---To this the Sūtra replies--it is not so, on account of scriptural statement. For Scripture declares that the killing of sacrificial animals makes them to go up to the heavenly world, and therefore is not of the nature of harm. 
+--To this the Sūtra replies – it is not so, on account of scriptural statement. For Scripture declares that the killing of sacrificial animals makes them to go up to the heavenly world, and therefore is not of the nature of harm. 
 </details>
 
 

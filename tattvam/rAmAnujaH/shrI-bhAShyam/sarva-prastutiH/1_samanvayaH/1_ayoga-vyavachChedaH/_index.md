@@ -524,7 +524,7 @@ MAY my mind be filled with devotion towards the highest Brahman, the abode of La
 
 <details><summary>Thibaut</summary>
 
-The nectar of the teaching of Parāsara's son (Vyāsa),--which was brought up from the middle of the milk-ocean of the Upanishads--which restores to life the souls whose vital strength had departed owing to the heat of the fire of transmigratory existence--which was well guarded by the teachers of old--which was obscured by the mutual conflict of manifold opinions,--may intelligent men daily enjoy that as it is now presented to them in my words.
+The nectar of the teaching of Parāsara's son (Vyāsa),--which was brought up from the middle of the milk-ocean of the Upanishads – which restores to life the souls whose vital strength had departed owing to the heat of the fire of transmigratory existence – which was well guarded by the teachers of old – which was obscured by the mutual conflict of manifold opinions,--may intelligent men daily enjoy that as it is now presented to them in my words.
 </details>
 
 

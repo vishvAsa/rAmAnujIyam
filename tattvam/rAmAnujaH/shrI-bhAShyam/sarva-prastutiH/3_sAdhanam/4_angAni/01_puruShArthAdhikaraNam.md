@@ -41,7 +41,7 @@ title = "०१ पुरुषार्थाधिकरणम्"
 
 <details><summary>English</summary>
 
-We have concluded the investigation into the oneness or diverseness of meditations--the result of which is to indicate in which cases the special points mentioned in several meditations have to be combined, and in which not. 
+We have concluded the investigation into the oneness or diverseness of meditations – the result of which is to indicate in which cases the special points mentioned in several meditations have to be combined, and in which not. 
 </details>
 
 
@@ -712,7 +712,7 @@ Similarly we learn from Smr̥ti that Janaka and other princes deeply versed in t
 
 <details><summary>English</summary>
 
-And this fact--that those who know Brahman apply themselves to works chiefly--shows that knowledge (or meditation) has no independent value, but serves to set forth the true nature of the active Self, and thus is subordinate to work.--
+And this fact – that those who know Brahman apply themselves to works chiefly – shows that knowledge (or meditation) has no independent value, but serves to set forth the true nature of the active Self, and thus is subordinate to work.--
 </details>
 
 
@@ -1381,7 +1381,7 @@ In all those texts there is not the slightest trace of any reference to the wret
 
 <details><summary>English</summary>
 
-And the fruit of that knowledge of the highest Person the texts expressly declare, in many places, to be immortality--which consists in attaining to Him. The view of knowledge by itself benefitting man therefore is well founded.--
+And the fruit of that knowledge of the highest Person the texts expressly declare, in many places, to be immortality – which consists in attaining to Him. The view of knowledge by itself benefitting man therefore is well founded.--
 </details>
 
 
@@ -2178,7 +2178,7 @@ The introductory words of the Upanishad, 'Hidden in the Lord is all this,' show 
 
 <details><summary>English</summary>
 
-The sense of the text therefore is--owing to the power of knowledge a man although constantly performing works is not stained by them.
+The sense of the text therefore is – owing to the power of knowledge a man although constantly performing works is not stained by them.
 </details>
 
 

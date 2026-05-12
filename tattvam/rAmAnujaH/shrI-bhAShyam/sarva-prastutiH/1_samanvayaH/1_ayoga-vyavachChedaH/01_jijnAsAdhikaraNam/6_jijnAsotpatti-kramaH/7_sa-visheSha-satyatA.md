@@ -99,7 +99,7 @@ this entire theory rests on a fictitious foundation of altogether hollow and vic
 
 <details><summary>English</summary>
 
-The theory therefore must needs be rejected by all those who, through texts, perception and the other means of knowledge--assisted by sound reasoning--have an insight into the true nature of things.
+The theory therefore must needs be rejected by all those who, through texts, perception and the other means of knowledge – assisted by sound reasoning – have an insight into the true nature of things.
 </details>
 
 
@@ -166,7 +166,7 @@ To enter into details.--Those who maintain the doctrine of a substance devoid of
 
 <details><summary>English</summary>
 
-And should a state of consciousness--although directly apprehended as implying difference-- be determined by some fallacious reasoning to be devoid of difference,  
+And should a state of consciousness – although directly apprehended as implying difference-- be determined by some fallacious reasoning to be devoid of difference,  
 this determination could be effected only by means of some special attributes additional to the quality of mere Being; 
 </details>
 
@@ -419,7 +419,7 @@ the sentence therefore which is an aggregate of words expresses some special com
 
 <details><summary>English</summary>
 
-Pratyaksha--even of the nirvikalpaka kind--proves difference.
+Pratyaksha – even of the nirvikalpaka kind – proves difference.
 </details>
 
 
@@ -432,7 +432,7 @@ Pratyaksha--even of the nirvikalpaka kind--proves difference.
 
 <details><summary>English</summary>
 
-Perception in the next place--with its two subdivisions of non-determinate (nirvikalpaka) and determinate (savikalpaka) perception--also cannot be a means of knowledge for things devoid of difference. 
+Perception in the next place – with its two subdivisions of non-determinate (nirvikalpaka) and determinate (savikalpaka) perception – also cannot be a means of knowledge for things devoid of difference. 
 </details>
 
 
@@ -685,7 +685,7 @@ From all this it follows that perception never has for its object that which is 
 </details>
 
 
-## भेदाभेद-वादि-निरासः
+#### भेदाभेद-वादि-निरासः
 
 <details><summary>English</summary>
 
@@ -707,7 +707,7 @@ The same arguments tend to refute the view that there is difference and absence 
 अत एव सर्वत्र भिन्नाभिन्नत्वमपि निरस्तम्। 
 </details>
 
-
+##### इदम्-इत्थम्-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इदम् इत्थम्" इति प्रतीताव्  
@@ -727,7 +727,205 @@ Take the judgment 'This is such and such'; how can we realise here the non-diffe
 </details>
 
 
-तत्रेत्थम्भावस्सास्नादिसंस्थानविशेषः, तद्विशेष्यं द्रव्यमिदमंश इत्यनयोरैक्यं प्रतीतिपराहतमेव। तथाहि – प्रथममेव वस्तु प्रतीयमानं सकलेतरव्यावृत्तमेव प्रतीयते। व्यावृत्तिश्च गोत्वादिसंस्थानविशेषविशिष्टतयेत्थमिति प्रतीतेः। सर्वत्र विशेषणविशेष्यभावप्रतिपत्तौ तयोरत्यन्तभेदः प्रतीत्यैव सुव्यक्तः। तत्र दण्डकुण्डलादयः पृथक्संस्थानसंस्थिताः स्वनिष्ठाश्च कदाचित्क्वचिद्- द्रव्यान्तरविशेषणतयाऽवतिष्ठन्ते। गोत्वादयस्तु द्रव्यसंस्थानतयैव पदार्थभूताः सन्तो द्रव्यविशेषणतया अवस्थिताः। उभयत्र विशेषणविशेष्यभावस्समानः। तत एव तयोर्भेदप्रतिपत्तिश्च। इयांस्तु विशेषः पृथक् स्थितिप्रतिपत्तियोग्या दण्डादयः, गोत्वादयस्तु नियमेन तदनर्हा इति। अतो वस्तुविरोधः प्रतीतिपराहत इति प्रतीतिप्रकारनिह्नवादेवोच्यते। प्रतीतिप्रकारो हि इदमित्थमित्येव सर्वसम्मतः। तदेतत्सूत्रकारेण नैकस्मिन्नसम्भवात् (ब्र.सू.२.२.३१) इति सुव्यक्तमुपपादितम्॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्रेत्थम्-भावस् सास्नादि-संस्थान-विशेषः,  
+तद्-विशेष्यं द्रव्यम् इदम्-अंश  
+इत्य् अनयोर् ऐक्यं  
+प्रतीतिपराहतम् एव। 
+</details>
+
+<details><summary>English</summary>
+
+The 'such and such' denotes a peculiar make characterised, e.g. by a dewlap, the 'this' denotes the thing distinguished by that peculiar make; the non-difference of these two is thus contradicted by immediate consciousness. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्रेत्थम्भावस्सास्नादिसंस्थानविशेषः, तद्विशेष्यं द्रव्यमिदमंश इत्यनयोरैक्यं प्रतीतिपराहतमेव। 
+</details>
+
+#### इतर-व्यावृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि – प्रथमम् एव वस्तु प्रतीयमानं स-कलेतर-व्यावृत्तम् एव प्रतीयते। 
+</details>
+
+<details><summary>English</summary>
+
+At the outset the thing perceived is perceived as separate from all other things, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि – प्रथममेव वस्तु प्रतीयमानं सकलेतरव्यावृत्तमेव प्रतीयते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यावृत्तिश् च  
+गोत्वादि-संस्थान-विशेष-विशिष्टतयेत्थम् इति प्रतीतेः। 
+</details>
+
+
+<details><summary>English</summary>
+
+and this separation is founded on the fact that the thing is distinguished by a special constitution, let us say the generic characteristics of a cow, expressed by the term 'such and such.' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्यावृत्तिश्च गोत्वादिसंस्थानविशेषविशिष्टतयेत्थमिति प्रतीतेः। 
+</details>
+
+#### विशेषण-विशेष्य-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वत्र विशेषण-विशेष्य-भाव-प्रतिपत्तौ  
+तयोर् अत्यन्त-भेदः  
+प्रतीत्यैव सुव्यक्तः। 
+</details>
+
+<details><summary>English</summary>
+
+In general, wherever we cognise the relation of distinguishing attribute and thing distinguished thereby, the two clearly present themselves to our mind as absolutely different. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वत्र विशेषणविशेष्यभावप्रतिपत्तौ तयोरत्यन्तभेदः प्रतीत्यैव सुव्यक्तः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र दण्ड-कुण्डलादयः  
+पृथक्-संस्थान-संस्थिताः,  
+स्व-निष्ठाश् च कदाचित्;  
+क्वचिद् +++(मनुष्यादि-)+++द्रव्यान्तर-विशेषणतया ऽवतिष्ठन्ते। 
+</details>
+
+<details><summary>English</summary>
+
+Somethings – e.g. staffs and bracelets – appear sometimes as having a separate, independent existence of their own; at other times they present themselves as distinguishing attributes of other things or beings (i.e. of the persons carrying staffs or wearing bracelets). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र दण्डकुण्डलादयः पृथक्संस्थानसंस्थिताः स्वनिष्ठाश्च कदाचित्क्वचिद् द्रव्यान्तरविशेषणतयाऽवतिष्ठन्ते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गोत्वादयस् तु  
+द्रव्य-संस्थानतयैव पदार्थ-भूताः सन्तो  
+द्रव्य-विशेषणतया ऽवस्थिताः। 
+</details>
+
+<details><summary>English</summary>
+
+Other entities – e.g. the generic character of cows – have a being only in so far as they constitute the form of substances, and thus always present themselves as distinguishing attributes of those substances. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गोत्वादयस्तु द्रव्यसंस्थानतयैव पदार्थभूताः सन्तो द्रव्यविशेषणतया ऽवस्थिताः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उभयत्र विशेषण-विशेष्य-भावस् समानः। 
+</details>
+
+<details><summary>English</summary>
+
+In both cases there is the same relation of distinguishing attribute and thing distinguished thereby, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उभयत्र विशेषणविशेष्यभावस्समानः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत एव तयोर् भेद-प्रतिपत्तिश् च। 
+</details>
+
+<details><summary>English</summary>
+
+and these two are apprehended as absolutely different. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत एव तयोर्भेदप्रतिपत्तिश्च। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इयांस् तु विशेषः -  
+पृथक्-स्थिति-प्रतिपत्ति-योग्या दण्डादयः,  
+गोत्वादयस् तु नियमेन तद्+++(→पृथक्-स्थित्य्)+++-अनर्हा इति। 
+</details>
+
+<details><summary>English</summary>
+
+The difference between the two classes of entities is only that staffs, bracelets, and similar things are capable of being apprehended in separation from other things, while the generic characteristics of a species are absolutely incapable thereof. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इयांस्तु विशेषः पृथक् स्थितिप्रतिपत्तियोग्या दण्डादयः, गोत्वादयस्तु नियमेन तदनर्हा इति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो 
+
+> वस्तु-विरोधः+++(→भेदः)+++ प्रतीति-पराहत  
+
+इति +++(वक्ष्यमाण-)+++प्रतीति-प्रकार-निह्नवाद् एवोच्यते। 
+</details>
+
+<details><summary>English</summary>
+
+The assertion, therefore, that the difference of things is refuted by immediate consciousness, is based on the plain denial of a certain form of consciousness, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो वस्तुविरोधः प्रतीतिपराहत इति प्रतीतिप्रकारनिह्नवादेवोच्यते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतीति-प्रकारो हि "इदम् इत्थम्" इत्येव सर्वसम्मतः। 
+</details>
+
+<details><summary>English</summary>
+
+the one namely – admitted by every one – which is expressed in the judgment 'This thing is such and such.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रतीतिप्रकारो हि इदमित्थमित्येव सर्वसम्मतः। 
+</details>
+
+
+तदेतत्सूत्रकारेण नैकस्मिन्नसम्भवात् (ब्र.सू.२.२.३१) इति सुव्यक्तमुपपादितम्॥
 
 ## निर्विशेषस्य प्रमाणाविषयत्वनिगमनम्
 
@@ -857,7 +1055,7 @@ Take the judgment 'This is such and such'; how can we realise here the non-diffe
 
 ## संविदः आत्मत्वनिराकोपक्रमः
 
-अपि च संवित्सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगनकुसुमादिवत्। सिद्धिरेव संविदिति चेत्; कस्य कं प्रतीति वक्तव्यम्; यदि न कस्यचित्किञ्चित्प्रति; सा तर्हि न सिद्धिः। सिद्धिर्हि पुत्रत्वमिव कस्यचित्किञ्चित्प्रति भवति। आत्मन इति चेत्; कोऽयमात्मा? ननु संविदेवेत्युक्तम्। सत्यमुक्तम्; दुरुक्तं तु तत्। तथाहि; कस्यचित्पुरुषस्य किञ्चिदर्थजातं प्रति सिद्धिरूपा तत्सम्बन्धिनी सा संवित्स्वयं कथमिवाऽत्मभावमनुभवेत्?॥
+अपि च संवित्सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगनकुसुमादिवत्। सिद्धिरेव संविदिति चेत्; कस्य कं प्रतीति वक्तव्यम्; यदि न कस्यचित्किञ्चित्प्रति; सा तर्हि न सिद्धिः। सिद्धिर्हि पुत्रत्वमिव कस्यचित्किञ्चित्प्रति भवति। आत्मन इति चेत्; कोऽयमात्मा? ननु संविदेवेत्युक्तम्। सत्यमुक्तम्; दुरुक्तं तु तत्। तथा हि; कस्यचित्पुरुषस्य किञ्चिदर्थजातं प्रति सिद्धिरूपा तत्सम्बन्धिनी सा संवित्स्वयं कथमिवाऽत्मभावमनुभवेत्?॥
 
 ## संविदः अनात्मत्वनिष्कर्षणम्
 
@@ -865,7 +1063,7 @@ Take the judgment 'This is such and such'; how can we realise here the non-diffe
 
 ## स्थिरत्वास्थिरत्वे अपि संविदनात्मत्वसाधके
 
-तथाहि; अस्य कर्तुस्स्थिरत्वं कर्तृधर्मस्य संवेदनाख्यस्य सुखदुःखादेरिवोत्पत्तिस्थिति-निरोधाश्च प्रत्यक्षमीक्ष्यन्ते। कर्तृस्थैर्यं तावत् स एवायमर्थः पूर्वं मयाऽनुभूतः इति प्रत्यभिज्ञाप्रत्यक्षसिद्धम्। अहं जानामि, अहमज्ञासिषं, ज्ञातुरेव ममेदानीं ज्ञानं नष्टम् इति च संविदुत्पत्त्यादयः प्रत्यक्षसिद्धा इति कुतस्तदैक्यम्। एवं क्षणभङ्गिन्यास्संविद आत्मत्वाभ्युपगमे पूर्वेद्युर्दृष्टमपरेद्युः इदहमदर्शम् इति प्रत्यभिज्ञा च न घटते; अन्येनानुभूतस्य न ह्यन्येन प्रत्यभिज्ञानसम्भवः॥
+तथा हि; अस्य कर्तुस्स्थिरत्वं कर्तृधर्मस्य संवेदनाख्यस्य सुखदुःखादेरिवोत्पत्तिस्थिति-निरोधाश्च प्रत्यक्षमीक्ष्यन्ते। कर्तृस्थैर्यं तावत् स एवायमर्थः पूर्वं मयाऽनुभूतः इति प्रत्यभिज्ञाप्रत्यक्षसिद्धम्। अहं जानामि, अहमज्ञासिषं, ज्ञातुरेव ममेदानीं ज्ञानं नष्टम् इति च संविदुत्पत्त्यादयः प्रत्यक्षसिद्धा इति कुतस्तदैक्यम्। एवं क्षणभङ्गिन्यास्संविद आत्मत्वाभ्युपगमे पूर्वेद्युर्दृष्टमपरेद्युः इदहमदर्शम् इति प्रत्यभिज्ञा च न घटते; अन्येनानुभूतस्य न ह्यन्येन प्रत्यभिज्ञानसम्भवः॥
 
 ## संविदः स्थिरत्वेऽपि अनात्मता
 
@@ -938,7 +1136,7 @@ Take the judgment 'This is such and such'; how can we realise here the non-diffe
 
 ## चिद्रूपता स्वयम्प्रकाशतारूपा
 
-चिद्रूपता हि स्वयम्प्रकाशता॥ तथाहि श्रुतयः – स यथा सैन्धवघनोऽनन्तरोऽबाह्यः कृत्स्नो रसघन एव, एवं वा अरेऽयमात्माऽनन्तरोऽबाह्यः कृत्स्नः प्रज्ञानघन एव (बृ.उ.६.४.१३), विज्ञानघन एव (बृ.उ.४.४.१२), अत्रायं पुरुषस्स्वयञ्ज्योतिर्भवति (बृ.उ.६.३.९), न विज्ञातुर्विज्ञातेर्विपरिलोपो विद्यते (बृ.उ.६.३.१०), अथ यो वेदेदं जिघ्राणीति स आत्मा (बृ.उ.६.३.३०), कतम आत्मा योऽयं विज्ञानमयः प्राणेषु हृद्यन्तर्ज्योतिः पुरुषः (छा.उ.८.१२.४), एष हि द्रष्टा श्रोता रसियता घ्राता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषः (बृ.६.३.७), विज्ञातारमरे केन विजानीयात् (प्रश्न.उ.४.प्रश्न), जानात्येवायं पुरुषः, न पश्यो मृत्युं पश्यति न रोगं नोत दुःखतां स उत्तमः पुरुषः (छा.७.२६.२), नोपजनं स्मरन्निदं शरीरम् (छा.उ.८.१२.३), एवमेवास्य परिद्रष्टुरिमाष्षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तङ्गच्छन्ति (प्र.उ.६.५) तस्माद्वा एतस्मान्मनोमयादन्योऽन्तर आत्मा विज्ञानमयः (तै.आन.४.१) इत्याद्याः। वक्ष्यति च ज्ञोऽतएव (ब्र.सू.२.३.१९) इति॥ अतस्स्वयम्प्रकाशोऽयमात्मा ज्ञातैव, न प्रकाशमात्रम् ॥
+चिद्रूपता हि स्वयम्प्रकाशता॥ तथा हि श्रुतयः – स यथा सैन्धवघनोऽनन्तरोऽबाह्यः कृत्स्नो रसघन एव, एवं वा अरेऽयमात्माऽनन्तरोऽबाह्यः कृत्स्नः प्रज्ञानघन एव (बृ.उ.६.४.१३), विज्ञानघन एव (बृ.उ.४.४.१२), अत्रायं पुरुषस्स्वयञ्ज्योतिर्भवति (बृ.उ.६.३.९), न विज्ञातुर्विज्ञातेर्विपरिलोपो विद्यते (बृ.उ.६.३.१०), अथ यो वेदेदं जिघ्राणीति स आत्मा (बृ.उ.६.३.३०), कतम आत्मा योऽयं विज्ञानमयः प्राणेषु हृद्यन्तर्ज्योतिः पुरुषः (छा.उ.८.१२.४), एष हि द्रष्टा श्रोता रसियता घ्राता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषः (बृ.६.३.७), विज्ञातारमरे केन विजानीयात् (प्रश्न.उ.४.प्रश्न), जानात्येवायं पुरुषः, न पश्यो मृत्युं पश्यति न रोगं नोत दुःखतां स उत्तमः पुरुषः (छा.७.२६.२), नोपजनं स्मरन्निदं शरीरम् (छा.उ.८.१२.३), एवमेवास्य परिद्रष्टुरिमाष्षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तङ्गच्छन्ति (प्र.उ.६.५) तस्माद्वा एतस्मान्मनोमयादन्योऽन्तर आत्मा विज्ञानमयः (तै.आन.४.१) इत्याद्याः। वक्ष्यति च ज्ञोऽतएव (ब्र.सू.२.३.१९) इति॥ अतस्स्वयम्प्रकाशोऽयमात्मा ज्ञातैव, न प्रकाशमात्रम् ॥
 
 ## संविदः अनात्मत्वोपपादकाः तर्काः
 
@@ -1415,7 +1613,7 @@ Take the judgment 'This is such and such'; how can we realise here the non-diffe
 
 ## प्रकरणात् उक्तार्थनिश्चयः
 
-तदुच्यते – अस्मिन् प्रकरणे संसारैकभेषजतया योगमभिधाय योगावयवान् प्रत्याहारपर्यन्तांश्चोक्त्वा, धारणासिद्ध्यर्थं शुभाश्रयं वक्तुं परस्य ब्रह्मणो विष्णोश्शक्तिशब्दाभिधेयं रूपद्वयं मूर्तामूर्तविभागेन प्रतिपाद्य, तृतीयशक्तिरूपकर्माख्याविद्यावेष्टितम् अचिद्विशिष्टं क्षेत्रज्ञं मूर्ताख्यविभागं भावनात्रयान्वयादशुभमित्युक्त्वा, द्वितीयस्य कर्माख्याविद्याविरहिणः अचिद्वियुक्तस्य ज्ञानैकाकारस्यामूर्ताख्यविभागस्य निष्पन्नयोगिध्येयतया योगयुङ्मनसः अनालम्बनतया स्वतश्शुद्धिविरहाच्च शुभाश्रयत्वं प्रतिषिध्य, परशक्तिरूपमिदममूर्तमपरशक्तिरूपं क्षेत्रज्ञाख्यमूर्तं च परशक्तिरूपस्याऽत्मनः क्षेत्रज्ञतापत्तिहेतुभूततृतीयशक्त्याख्यकर्मरूपाविद्या चेत्येतच्छक्तित्रयाश्रयो भगवदसाधारणम् आदित्यवर्णम् इत्यादिवेदान्तसिद्धं मूर्तरूपं शुभाश्रय इत्युक्तम्। अत्र परिशुद्धात्मस्वरूपस्य शुभाश्रयतानर्हातां वक्तुं प्रत्यस्तिमतभेदं यत् इत्युच्यते । तथाहि –
+तदुच्यते – अस्मिन् प्रकरणे संसारैकभेषजतया योगमभिधाय योगावयवान् प्रत्याहारपर्यन्तांश्चोक्त्वा, धारणासिद्ध्यर्थं शुभाश्रयं वक्तुं परस्य ब्रह्मणो विष्णोश्शक्तिशब्दाभिधेयं रूपद्वयं मूर्तामूर्तविभागेन प्रतिपाद्य, तृतीयशक्तिरूपकर्माख्याविद्यावेष्टितम् अचिद्विशिष्टं क्षेत्रज्ञं मूर्ताख्यविभागं भावनात्रयान्वयादशुभमित्युक्त्वा, द्वितीयस्य कर्माख्याविद्याविरहिणः अचिद्वियुक्तस्य ज्ञानैकाकारस्यामूर्ताख्यविभागस्य निष्पन्नयोगिध्येयतया योगयुङ्मनसः अनालम्बनतया स्वतश्शुद्धिविरहाच्च शुभाश्रयत्वं प्रतिषिध्य, परशक्तिरूपमिदममूर्तमपरशक्तिरूपं क्षेत्रज्ञाख्यमूर्तं च परशक्तिरूपस्याऽत्मनः क्षेत्रज्ञतापत्तिहेतुभूततृतीयशक्त्याख्यकर्मरूपाविद्या चेत्येतच्छक्तित्रयाश्रयो भगवदसाधारणम् आदित्यवर्णम् इत्यादिवेदान्तसिद्धं मूर्तरूपं शुभाश्रय इत्युक्तम्। अत्र परिशुद्धात्मस्वरूपस्य शुभाश्रयतानर्हातां वक्तुं प्रत्यस्तिमतभेदं यत् इत्युच्यते । तथा हि –
 
 न तद्योगयुजां शक्यं नृप चिन्तयितुं यतः। द्वितीयं विष्णुसञ्ज्ञस्य योगिध्येयं परं पदम् ॥
 
@@ -1449,7 +1647,7 @@ Take the judgment 'This is such and such'; how can we realise here the non-diffe
 
 उपबृंहणविधिनिरूपणं
 
-तथाहि – यतो वा इमानि भूतानि जायन्ते। येन जातानि जीवन्ति। यत्प्रयत्न्यभिसंविशन्ति। तद्विजिज्ञासस्व। तद्ब्रह्म (तै.उ.भृगु.१) इति जगज्जन्मादिकारणं ब्रह्मेत्यवसिते सति, इतिहासपुराणाभ्यां वेदं समुपबृंहयेत्। बिभेत्यल्पश्रुताद्वेदो मामयं प्रतरिष्यति॥ (महाभारतम् – आदि.प.१-२७३) इति शास्त्रेणार्थस्य इतिहासपुराणाभ्यामुपबृंहणं कार्यमिति विज्ञायते। उपबृंहणं नाम विदितसकलवेदतदर्थानां स्वयोगमहिमसाक्षात्कृतवेदतत्त्वार्थानां वाक्यैस्स्वावगतवेदवाक्यार्थव्यक्ती-करणम्। सकलशाखागतस्य वाक्यार्थस्याल्पभागश्रवणाद्दुरवगमत्वेन तेन विना निश्चयायोगात् उपबृंहणं हि कार्यमेव॥
+तथा हि – यतो वा इमानि भूतानि जायन्ते। येन जातानि जीवन्ति। यत्प्रयत्न्यभिसंविशन्ति। तद्विजिज्ञासस्व। तद्ब्रह्म (तै.उ.भृगु.१) इति जगज्जन्मादिकारणं ब्रह्मेत्यवसिते सति, इतिहासपुराणाभ्यां वेदं समुपबृंहयेत्। बिभेत्यल्पश्रुताद्वेदो मामयं प्रतरिष्यति॥ (महाभारतम् – आदि.प.१-२७३) इति शास्त्रेणार्थस्य इतिहासपुराणाभ्यामुपबृंहणं कार्यमिति विज्ञायते। उपबृंहणं नाम विदितसकलवेदतदर्थानां स्वयोगमहिमसाक्षात्कृतवेदतत्त्वार्थानां वाक्यैस्स्वावगतवेदवाक्यार्थव्यक्ती-करणम्। सकलशाखागतस्य वाक्यार्थस्याल्पभागश्रवणाद्दुरवगमत्वेन तेन विना निश्चयायोगात् उपबृंहणं हि कार्यमेव॥
 
 विष्णुपुराणप्राशस्त्यं
 
@@ -1459,7 +1657,7 @@ Take the judgment 'This is such and such'; how can we realise here the non-diffe
 
 यन्मयं च जगद्ब्रह्मन् यतश्चैतच्चराचरम्। लीनमासीद्यथा यत्र लयमेष्यति यत्र च॥ (वि.पु.१.१.४,५) इत्यादिना॥
 
-अत्र ब्रह्मस्वरूपविशेषतद्विभूतिभेदप्रकारतदाराधनस्वरूपफलविशेषाश्च पृष्टाः। ब्रह्मस्वरूपविशेषप्रश्नेषु यतश्चैतच्चराचरमिति निमित्तोपादानयोः पृष्टत्वात् यन्मयमित्यनेन सृष्टिस्थितिलयकर्मभूतं जगत्किमात्मकमिति पृष्टम्। तस्य चोत्तरं जगच्च स इति। इदं च तादात्म्यमन्तर्यामिरूपेणाऽत्मतया व्याप्तिकृतम्। न तु व्याप्यव्यापकयोर्वस्त्वैक्यकृतम्। यन्मयमिति प्रश्नस्योत्तरत्वाज्जगच्च स इति सामानाधिकरण्यस्य। यन्मयमिति मयडत्र न विकारार्थः, पृथक्प्रश्नवैयर्थ्यात्। नापि प्राणमयादिवत्स्वार्थिकः, जगच्च स इत्युत्तरानुपपत्तेः तदा हि विष्णुरेवेत्युत्तरमभिवष्यत्। अतः प्राचुर्यार्थ एव। तत्प्रकृतवचने मयट् (अष्टा.५.४.२१) इति मयट्। कृत्स्नं च जगत्तच्छरीरतया तत्प्रचुरमेव। तस्माद्यन्मयमित्यस्य प्रतिवचनं जगच्च स इति सामानाधिकरण्यं जगद्ब्रह्मणोश्शरीरात्मभावनिबन्धनमिति निश्चीयते। अन्यथा निर्विशेषवस्तुप्रतिपादनपरे शास्त्रेऽभ्युपगम्यमाने सर्वाण्येतानि प्रश्नप्रतिवचनानि न सङ्गच्छन्ते। तद्विवरणरूपं कृत्स्नं च शास्त्रं न सङ्गच्छते। तथाहि सति प्रपञ्चभ्रमस्य किमधिष्ठानमित्येवं रूपस्यैकस्य प्रश्नस्य निर्विशेषज्ञानमात्रमित्येवं रूपमेकमेवोत्तरं स्यात् ॥
+अत्र ब्रह्मस्वरूपविशेषतद्विभूतिभेदप्रकारतदाराधनस्वरूपफलविशेषाश्च पृष्टाः। ब्रह्मस्वरूपविशेषप्रश्नेषु यतश्चैतच्चराचरमिति निमित्तोपादानयोः पृष्टत्वात् यन्मयमित्यनेन सृष्टिस्थितिलयकर्मभूतं जगत्किमात्मकमिति पृष्टम्। तस्य चोत्तरं जगच्च स इति। इदं च तादात्म्यमन्तर्यामिरूपेणाऽत्मतया व्याप्तिकृतम्। न तु व्याप्यव्यापकयोर्वस्त्वैक्यकृतम्। यन्मयमिति प्रश्नस्योत्तरत्वाज्जगच्च स इति सामानाधिकरण्यस्य। यन्मयमिति मयडत्र न विकारार्थः, पृथक्प्रश्नवैयर्थ्यात्। नापि प्राणमयादिवत्स्वार्थिकः, जगच्च स इत्युत्तरानुपपत्तेः तदा हि विष्णुरेवेत्युत्तरमभिवष्यत्। अतः प्राचुर्यार्थ एव। तत्प्रकृतवचने मयट् (अष्टा.५.४.२१) इति मयट्। कृत्स्नं च जगत्तच्छरीरतया तत्प्रचुरमेव। तस्माद्यन्मयमित्यस्य प्रतिवचनं जगच्च स इति सामानाधिकरण्यं जगद्ब्रह्मणोश्शरीरात्मभावनिबन्धनमिति निश्चीयते। अन्यथा निर्विशेषवस्तुप्रतिपादनपरे शास्त्रेऽभ्युपगम्यमाने सर्वाण्येतानि प्रश्नप्रतिवचनानि न सङ्गच्छन्ते। तद्विवरणरूपं कृत्स्नं च शास्त्रं न सङ्गच्छते। तथा हि सति प्रपञ्चभ्रमस्य किमधिष्ठानमित्येवं रूपस्यैकस्य प्रश्नस्य निर्विशेषज्ञानमात्रमित्येवं रूपमेकमेवोत्तरं स्यात् ॥
 
 ## सामानाधिकरण्यस्यैक्यपरत्वे विरोधः
 
@@ -1485,7 +1683,7 @@ Take the judgment 'This is such and such'; how can we realise here the non-diffe
 
 भवन्ति तपतां श्रेष्ठ पावकस्य यथोष्णता॥ (वि.पु.१.३.१,२)
 
-इति परिहारश्च न घटते। तथाहि सति – निर्गुणस्य ब्रह्मणः कथं सर्गादिकर्तृत्वम्? न ब्रह्मणः पारमार्थिकस्सर्गः; अपि तु भ्रान्तिपरिकल्पितः – इति चोद्यपरिहारौ स्याताम् ॥
+इति परिहारश्च न घटते। तथा हि सति – निर्गुणस्य ब्रह्मणः कथं सर्गादिकर्तृत्वम्? न ब्रह्मणः पारमार्थिकस्सर्गः; अपि तु भ्रान्तिपरिकल्पितः – इति चोद्यपरिहारौ स्याताम् ॥
 
 ## प्रश्नतदुत्तरयोः नैजः आशयः
 
@@ -1930,7 +2128,7 @@ we demur; for as both these kinds of knowledge are of the same nature, viz. the 
 
 <details><summary>English</summary>
 
-Or, to put it otherwise--that essential nature of Brahman which is apprehended through the cognition that Brahman is knowledge, itself shines forth in consequence of the self-luminous nature of Brahman, 
+Or, to put it otherwise – that essential nature of Brahman which is apprehended through the cognition that Brahman is knowledge, itself shines forth in consequence of the self-luminous nature of Brahman, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2471,7 +2669,7 @@ and that 'Knowing,' which is the substrate of the imperfection,
 cannot be held to be unreal,  
 because that would involve the acceptance of the Mādhyamika doctrine, viz. of a general void [^fn_18].
 
-[^fn_18]: 106:1 If the imperfection inhering in Consciousness is itself of the nature of consciousness, and at the same time unreal, we should have to distinguish two kinds of Consciousness--which is contrary to the fundamental doctrine of the oneness of Consciousness. And if, on the other hand, we should say that the Consciousness in which the imperfection inheres is of the same nature as the latter, i.e. unreal, we are landed in the view of universal unreality.
+[^fn_18]: 106:1 If the imperfection inhering in Consciousness is itself of the nature of consciousness, and at the same time unreal, we should have to distinguish two kinds of Consciousness – which is contrary to the fundamental doctrine of the oneness of Consciousness. And if, on the other hand, we should say that the Consciousness in which the imperfection inheres is of the same nature as the latter, i.e. unreal, we are landed in the view of universal unreality.
 </details>
 
 
@@ -2644,7 +2842,7 @@ for none of the means of knowledge apply to it.
 
 <details><summary>English</summary>
 
-That is to say--the whole world of objects must be ordered according to our states of consciousness, 
+That is to say – the whole world of objects must be ordered according to our states of consciousness, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2773,7 +2971,7 @@ which in itself is changeless pure intelligence, but has its true nature obscure
 
 <details><summary>English</summary>
 
-Through special forms of this defect (i.e. avidyā) there are produced, in this world superimposed upon Reality, the manifold special superimpositions presenting themselves in the form of things and cognitions of things--such as snakes (superimposed upon ropes), silver (superimposed on shells), and the like. 
+Through special forms of this defect (i.e. avidyā) there are produced, in this world superimposed upon Reality, the manifold special superimpositions presenting themselves in the form of things and cognitions of things – such as snakes (superimposed upon ropes), silver (superimposed on shells), and the like. 
 </details>
 
 
@@ -3153,7 +3351,7 @@ for such absence of knowledge is ascertained by the sixth means of proof (anupal
 
 ## प्रतिज्ञातार्थोपपादनम्
 
-तथाहि – यदम्बु वैष्णवः कायस्ततो विप्र वसुन्धरा।
+तथा हि – यदम्बु वैष्णवः कायस्ततो विप्र वसुन्धरा।
 
 पद्माकारा समुद्भूता पर्वताब्ध्यादिसंयुता॥ (वि.२.१२.३७)
 
