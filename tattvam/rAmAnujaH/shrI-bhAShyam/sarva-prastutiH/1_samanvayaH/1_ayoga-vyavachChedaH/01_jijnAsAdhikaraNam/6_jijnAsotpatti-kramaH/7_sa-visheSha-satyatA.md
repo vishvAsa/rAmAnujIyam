@@ -441,12 +441,17 @@ Perception in the next place--with its two subdivisions of non-determinate (nirv
 प्रत्यक्षस्य निर्विकल्पकसविकल्पकभेदभिन्नस्य न निर्विशेषवस्तुनि प्रमाणभावः। 
 </details>
 
+#### स-विकल्पे विशेषाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स-विकल्पकं जात्य्-आद्य्--अनेक-पदार्थ-- विशिष्ट-विषयत्वाद् एव  
 स-विशेष-विषयम्। 
 </details>
 
+<details><summary>English</summary>
+
+Determinate perception clearly has for its object things affected with difference; for it relates to that which is distinguished by generic difference and so on. 
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -454,11 +459,19 @@ Perception in the next place--with its two subdivisions of non-determinate (nirv
 सविकल्पकं जात्याद्यनेकपदार्थविशिष्टविषयत्वादेव सविशेषविषयम्। 
 </details>
 
+
+#### निर्विकल्पे विशेषाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्विकल्पकम् अपि स-विशेष-विषयम् एव,  
-स-विकल्पके स्वस्मिन्न् अनुभूत-पदार्थ-विशिष्ट-- प्रतिसन्धानहेतुत्वात्।
+स-विकल्पके स्वस्मिन्न् +++(प्रत्यक्षे)+++ अनुभूत-पदार्थ-विशिष्ट-- प्रतिसन्धान-हेतुत्वात् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
+
+<details><summary>English</summary>
+
+But also non-determinate perception has for its object only what is marked with difference; for it is on the basis of non-determinate perception that the object distinguished by generic character and so on is recognised in the act of determinate perception. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -466,15 +479,149 @@ Perception in the next place--with its two subdivisions of non-determinate (nirv
 </details>
 
 
-## निर्विकल्पकसविकल्पकयोः निष्कृष्टं स्वरूपम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्विकल्पकं नाम केनचिद् विशेषेण वियुक्तस्य ग्रहणम्,  
+न सर्व-विशेष-रहितस्य,  
+तथा-भूतस्य कदाचिद् अपि ग्रहणादर्शनाद् अनुपपत्तेश् च।
+</details>
+
+<details><summary>English</summary>
+
+Non-determinate perception is the apprehension of the object in so far as destitute of some differences but not of all difference. 
+
+Apprehension of the latter kind is in the first place not observed ever to take place, and is in the second place impossible: 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 निर्विकल्पकं नाम केनचिद्विशेषेणवियुक्तस्य ग्रहणम्, न सर्वविशेषरहितस्य, तथाभूतस्य कदाचिदपि ग्रहणादर्शनादनुपपत्तेश्च।
+</details>
 
-केनचिद्विशेषेण इदमित्थमिति हि सर्वा प्रतीतिरुपजायते, त्रिकोणसास्नादिसंस्थानविशेषेण विना कस्यचिदपि पदार्थस्य ग्रहणायोगात्। अतो निर्विकल्पकमेकजातीयद्रव्येषु प्रथमपिण्डग्रहणम्। द्वितीयादिपिण्डग्रहणं सविकल्पकमित्युच्यते ॥
 
-## उक्तविविक्ताकारस्य समर्थनम्
+#### सविशेष एव प्रत्यक्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र प्रथमपिण्डग्रहणे गोत्वादेरनुवृत्ताकारता न प्रतीयते। द्वितीयादिपिण्डग्रहणेषु एवानुवृत्तिप्रतीतिः। प्रथमप्रतीत्यनुसंहितवस्तुसंस्थानरूपगोत्वादेः अनुवृत्तिधर्मविशिष्टत्वं द्वितीयादि-पिण्डग्रहणावसेयमिति, द्वितीयादिग्रहणस्य सविकल्पकत्वम्। सास्नादिवस्तुसंस्थानरूपगोत्वादेः अनुवृत्तिर्न प्रथमपिण्डग्रहणे गृह्यत इति, प्रथमपिण्डग्रहणस्य निर्विकल्पकत्वम्, न पुनस्संस्थानरूपजात्यादेरग्रहणात्। संस्थानरूपजात्यादेः अप्यैन्द्रियिकत्वाविशेषात्, संस्थानेन विना संस्थानिनः प्रतीत्यनुपपत्तेश्च प्रथमपिण्डग्रहणेऽपि ससंस्थानमेव वस्त्वित्थमिति गृह्यते।
+केनचिद् विशेषेण "इदम् इत्थम्" इति हि सर्वा प्रतीतिर् उपजायते,  
+त्रि-कोण--सास्नाऽऽदि-संस्थान-विशेषेण विना  
+कस्यचिद् अपि पदार्थस्य ग्रहणायोगात्। 
+</details>
+
+<details><summary>English</summary>
+
+for all apprehension by consciousness takes place by means of some distinction 'This is such and such.' Nothing can be apprehended apart from some special feature of make or structure, as e.g. the triangularly shaped dewlap in the case of cows. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+केनचिद्विशेषेण इदमित्थमिति हि सर्वा प्रतीतिरुपजायते, त्रिकोणसास्नादिसंस्थानविशेषेण विना कस्यचिदपि पदार्थस्य ग्रहणायोगात्। 
+</details>
+
+#### स-विकल्पता-निर्वचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो निर्विकल्पकम् एक-जातीय-द्रव्येषु प्रथम-पिण्ड-ग्रहणम्। 
+</details>
+
+<details><summary>English</summary>
+
+The true distinction between non-determinate and determinate perception is that the former is the apprehension of the first individual among a number of things belonging to the same class, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो निर्विकल्पकमेकजातीयद्रव्येषु प्रथमपिण्डग्रहणम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वितीयादि-पिण्ड-ग्रहणं स-विकल्पकम् इत्य् उच्यते +++(जात्य्-अनुवृत्तेर् अपि ग्रहणात्, वक्ष्यमाण-रीत्या)+++॥
+</details>
+
+
+<details><summary>English</summary>
+
+while the latter is the apprehension of the second, third, and so on, individuals. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वितीयादिपिण्डग्रहणं सविकल्पकमित्युच्यते ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र प्रथम-पिण्ड-ग्रहणे  
+गोत्वादेर् अनुवृत्ताकारता न प्रतीयते। 
+</details>
+
+<details><summary>English</summary>
+
+On the apprehension of the first individual cow the perceiving person is not conscious of the fact that the special shape which constitutes the generic character of the class 'cows' extends to the present individual also; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र प्रथमपिण्डग्रहणे गोत्वादेरनुवृत्ताकारता न प्रतीयते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वितीयादि-पिण्ड-ग्रहणेष्व् +++(गोत्वाद्य्-)+++एवानुवृत्ति-प्रतीतिः । 
+</details>
+
+<details><summary>English</summary>
+
+while this special consciousness arises in the case of the perception of the second and third cow. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+द्वितीयादिपिण्डग्रहणेषु एवानुवृत्तिप्रतीतिः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रथम-प्रतीत्य्--अनुसंहित-- वस्तु-संस्थान-रूप-गोत्वादेर्  
+अनुवृत्ति-धर्म-विशिष्टत्वं  
+द्वितीयादि-पिण्ड-ग्रहणावसेयम् इति,  
+द्वितीयादि-ग्रहणस्य स-विकल्पकत्वम्। 
+</details>
+
+<details><summary>English</summary>
+
+The perception of the second individual thus is 'determinate' in so far as it is determined by a special attribute, viz. the extension, to the perception, of the generic character of a class-- manifested in a certain outward shape-- which connects this act of perception with the earlier perception (of the first individual);  
+such determination being ascertained only on the apprehension of the second individual. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रथमप्रतीत्यनुसंहितवस्तुसंस्थानरूपगोत्वादेः अनुवृत्तिधर्मविशिष्टत्वं द्वितीयादि-पिण्डग्रहणावसेयमिति, द्वितीयादिग्रहणस्य सविकल्पकत्वम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सास्नादि-वस्तु-संस्थान-रूप-- गोत्वादेर् अनुवृत्तिर् न प्रथम-पिण्ड-ग्रहणे गृह्यत  
+इति प्रथम-पिण्ड-ग्रहणस्य निर्विकल्पकत्वम्,  
+न पुनस् संस्थान-रूप-जात्य्-आदेर् अ-ग्रहणात्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सास्नादिवस्तुसंस्थानरूपगोत्वादेः अनुवृत्तिर्न प्रथमपिण्डग्रहणे गृह्यत इति, प्रथमपिण्डग्रहणस्य निर्विकल्पकत्वम्, न पुनस्संस्थानरूपजात्यादेरग्रहणात्। 
+</details>
+
+
+संस्थानरूपजात्यादेः अप्यैन्द्रियिकत्वाविशेषात्, संस्थानेन विना संस्थानिनः प्रतीत्यनुपपत्तेश्च प्रथमपिण्डग्रहणेऽपि ससंस्थानमेव वस्त्वित्थमिति गृह्यते।
 
 अतो द्वितीयादिपिण्डग्रहणेषु गोत्वादेरनुवृत्तिधर्मविशिष्टता संस्थानिवत्संस्थानवच्च सर्वदैव गृह्यत इति तेषु सविकल्पकत्वमेव। अतः प्रत्यक्षस्य कदाचिदपि न निर्विशेषविषयत्वम्॥
 
