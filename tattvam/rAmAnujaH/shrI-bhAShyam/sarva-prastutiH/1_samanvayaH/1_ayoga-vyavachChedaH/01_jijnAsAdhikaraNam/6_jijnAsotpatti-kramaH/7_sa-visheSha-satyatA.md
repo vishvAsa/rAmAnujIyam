@@ -9,25 +9,322 @@ title = "७ सविशेष-सत्यता"
 महासिद्धान्तः॥
 </details>
 
+<details><summary>English</summary>
 
-## परोक्तानां उपायोपेयनिवर्त्यानां प्रमाणतर्काभासमूलत्वमनादरणीयता च
+THE GREAT SIDDHĀNTA.
+</details>
 
-तदिदमौपिनषदपरमपुरुषवरणीयताहेतुगुणविशेषविरहिणामनादि पापवासनादूषिताशेषशेमुषी-काणां अनधिगतपदवाक्यस्वरूपतदर्थयाथात्म्यप्रत्यक्षादिसकलप्रमाणवृत्ततदितिकर्तव्यतारूप-समीचीन-न्यायमार्गाणां विकल्पासहविविधकुतर्ककल्ककल्पितमिति, न्यायानुगृहीतप्रत्यक्षादिसकलप्रमाणवृत्त-याथात्म्यविद्भिरनादरणीयम्॥
 
-## निर्विशेषस्य वस्तुनः प्रमाणतः असिद्धिः
+## हेयता
 
-तथा हि निर्विशेषवस्तुवादिभिर्निर्विशेषे वस्तुनीदं प्रमाणमिति न शक्यते वक्तुम्, सविशेषवस्तुविषयत्वात्सर्वप्रमाणानाम्। यस्तु स्वानुभवसिद्धमिति स्वगोष्ठीनिष्ठस्समयः, सोऽप्यात्मसाक्षिकसविशेषानुभवादेव निरस्तः इदमहमदर्शम् इति केनिचिद्विशेषेण विशिष्टविषयत्वात् सर्वेषामनुभवानाम् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## निर्विशेषत्वव्यवस्थापकत्वाभिमतयुक्तैः आभासता
+तद् इदम्  
+औपिनषद--परम-पुरुष-वरणीयता-हेतु- गुण-विशेष-विरहिणाम्  
+</details>
 
-सविशेषोऽप्यनुभूयमानोऽनुभवः केनचिद्युक्त्याभासेन निर्विशेष इति निष्कृष्यमाणः सत्तातिरेकिभिः स्वासाधारणैस्स्वभावविशेषैर्निष्क्रष्टव्य इति निष्कर्षहेतुभूतैः सत्तातिरेकिभिः स्वासाधारणैस्स्वभावविशेषैस्सविशेष एवावतिष्ठते। अतःकैश्चिद्विशेषैर्विशष्टस्यैव वस्तुनोऽन्ये विशेषा निरस्यन्त इति, न क्वचिन्निर्विशेषवस्तुसिद्धिः।
+<details><summary>English</summary>
 
-## निर्विशेषत्वानुमानस्य बाधित्वम्
+By men who are destitute of those particular qualities which cause individuals to be chosen by the Supreme Person revealed in the Upanishads; 
+</details>
 
-धियो हि धीत्वं स्वप्रकाशता च ज्ञातुर्विषयप्रकाशन-स्वभावतयोपलब्धेः । स्वापमदमूर्च्छासु च सविशेष एवानुभव इति स्वावसरे निपुणतरमुपपादयिष्यामः।
 
-स्वाभ्युपगताश्च नित्यत्वादयो हि अनेके विशेषाः सन्त्येव । ते च न वस्तुमात्रमिति शक्योपपादनाः, वस्तुमात्राभ्युपगमे सत्यपि
-विधाभेदविवाददर्शनात् स्वाभिमततद्विधाभेदैश्च स्वमतोपपादनात्। अतः प्रामाणिकविशेषैर्विशिष्टमेव वस्त्विति वक्तव्यम्॥
+<details><summary>मूलम्</summary>
+
+तदिदमौपिनषदपरमपुरुषवरणीयताहेतु गुणविशेषविरहिणाम्  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनादि-पाप-वासना- दूषिताशेष-शेमुषीकाणां 
+</details>
+
+<details><summary>English</summary>
+
+whose intellects are darkened by the impression of beginningless evil; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनादिपापवासनादूषिताशेषशेमुषीकाणां 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनधिगत-  
+पद-वाक्य- स्व-रूप--  
+तद्-अर्थ--याथात्म्य--  
+
+प्रत्यक्षादि--स-कल--प्रमाण-वृत्त-  
+तद्-इतिकर्तव्यता-रूप--  
+समीचीन-न्याय-मार्गाणां
+</details>
+
+<details><summary>English</summary>
+
+and who thus have no insight into  
+the nature of words and sentences,  
+into the real purport conveyed by them,  
+and into the procedure of sound argumentation, with all its methods depending on perception and the other instruments of right knowledge -  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनधिगतपदवाक्यस्वरूपतदर्थयाथात्म्यप्रत्यक्षादिसकलप्रमाणवृत्ततदितिकर्तव्यतारूप-समीचीन-न्यायमार्गाणां
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(प्रतिपादन-क्रमे-)+++विकल्पासह-- विविध-कुतर्क-कल्क-कल्पितम् इति,+++(5)+++ 
+</details>
+<details><summary>English</summary>
+
+devised (by such),  
+this entire theory rests on a fictitious foundation of altogether hollow and vicious arguments, incapable of being stated in definite logical alternatives. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विकल्पासहविविधकुतर्ककल्ककल्पितमिति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न्यायानुगृहीत-- प्रत्यक्षादि-सकल-प्रमाण-वृत्त-- याथात्म्य-विद्भिर् अनादरणीयम्॥
+</details>
+
+<details><summary>English</summary>
+
+The theory therefore must needs be rejected by all those who, through texts, perception and the other means of knowledge--assisted by sound reasoning--have an insight into the true nature of things.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न्यायानुगृहीतप्रत्यक्षादिसकलप्रमाणवृत्त-याथात्म्यविद्भिरनादरणीयम्॥
+</details>
+
+
+## निर्विशेषाभावः
+
+<details><summary>English</summary>
+
+There is no proof of non-differenced substance.
+</details>
+
+### नोदाहरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि -  
+निर्विशेष-वस्तु-वादिभिर्  
+निर्विशेषे वस्तुनीदं प्रमाणम्  
+इति न शक्यते वक्तुम्,  
+सविशेष-वस्तु-विषयत्वात् सर्व-प्रमाणानाम्। 
+</details>
+
+<details><summary>English</summary>
+
+To enter into details.--Those who maintain the doctrine of a substance devoid of all difference have no right to assert that this or that is a proof of such a substance; for all means of right knowledge have for their object things affected with difference.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि निर्विशेषवस्तुवादिभिर्निर्विशेषे वस्तुनीदं प्रमाणमिति न शक्यते वक्तुम्, सविशेषवस्तुविषयत्वात्सर्वप्रमाणानाम्। 
+</details>
+
+### नानुभवः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस् तु स्वानुभव-सिद्धम् इति स्व-गोष्ठी-निष्ठस् समयः,  
+सोऽप्य् आत्म-साक्षिक--स-विशेषानुभवाद् एव निरस्तः  
+"इदम् अहम् अदर्शम्" इति केनचिद् विशेषेण विशिष्ट-विषयत्वात् सर्वेषाम् अनुभवानाम् ॥
+</details>
+
+<details><summary>English</summary>
+
+--Should any one taking his stand on the received views of his sect, assert that the theory of a substance free from all difference (does not require any further means of proof but) is immediately established by one's own consciousness; we reply that he also is refuted by the fact, warranted by the witness of the Self, that all consciousness implies difference: all states of consciousness have for their object something that is marked by some difference, as appears in the case of judgments like 'I saw this.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यस्तु स्वानुभवसिद्धमिति स्वगोष्ठीनिष्ठस्समयः, सोऽप्यात्मसाक्षिकसविशेषानुभवादेव निरस्तः इदमहमदर्शम् इति केनचिद्विशेषेण विशिष्टविषयत्वात् सर्वेषामनुभवानाम् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सविशेषो ऽप्य् अनुभूयमानो ऽनुभवः  
+केनचिद् युक्त्याभासेन "निर्विशेष" इति निष्कृष्यमाणः  
+सत्तातिरेकिभिः स्वासाधारणैस् स्व-भाव--विशेषैर् निष्क्रष्टव्यः 
+</details>
+
+<details><summary>English</summary>
+
+And should a state of consciousness--although directly apprehended as implying difference-- be determined by some fallacious reasoning to be devoid of difference,  
+this determination could be effected only by means of some special attributes additional to the quality of mere Being; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सविशेषोऽप्यनुभूयमानोऽनुभवः केनचिद्युक्त्याभासेन निर्विशेष इति निष्कृष्यमाणः सत्तातिरेकिभिः स्वासाधारणैस्स्वभावविशेषैर्निष्क्रष्टव्य 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति निष्कर्ष-हेतु-भूतैः सत्तातिरेकिभिः स्वासाधारणैस् स्वभाव-विशेषैस्  
+स-विशेष एवावतिष्ठते। 
+</details>
+
+<details><summary>English</summary>
+
+and owing to these special qualities on which the determination depends, that state of consciousness would clearly again be characterised by difference. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति निष्कर्षहेतुभूतैः सत्तातिरेकिभिः स्वासाधारणैस्स्वभावविशेषैस्सविशेष एवावतिष्ठते। 
+</details>
+
+### विशेष-निरसनेन
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः कैश्चिद् विशेषैर् विशष्टस्यैव वस्तुनो  
+ऽन्ये विशेषा निरस्यन्त इति, न क्वचिन्निर्विशेषवस्तुसिद्धिः।
+</details>
+
+<details><summary>English</summary>
+
+The meaning of the mentioned determination could thus only be that of a thing affected with certain differences some other differences are denied; but manifestly this would not prove the existence of a thing free from all difference. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतःकैश्चिद्विशेषैर्विशष्टस्यैव वस्तुनोऽन्ये विशेषा निरस्यन्त इति, न क्वचिन्निर्विशेषवस्तुसिद्धिः।
+</details>
+
+### धियो विषय-प्रकाशकतया
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धियो हि धीत्वं स्वप्रकाशता च  
+ज्ञातुर् विषय-प्रकाशन--स्व-भावतयोपलब्धेः । 
+</details>
+
+<details><summary>English</summary>
+
+To thought there at any rate belongs the quality of being thought and self-illuminatedness, for the knowing principle is observed to have for its essential nature the illumining (making to shine forth) of objects. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+धियो हि धीत्वं स्वप्रकाशता च ज्ञातुर्विषयप्रकाशन-स्वभावतयोपलब्धेः । 
+</details>
+
+
+### स्वापमदमूर्च्छासु
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाप-मद-मूर्च्छासु च  
+स-विशेष एवानुभव  
+इति स्वावसरे निपुणतरम् उपपादयिष्यामः।
+</details>
+
+<details><summary>English</summary>
+
+And that also in the states of deep sleep, swoon, &c., consciousness is affected with difference we shall prove, in its proper place, in greater detail. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वापमदमूर्च्छासु च सविशेष एवानुभव इति स्वावसरे निपुणतरमुपपादयिष्यामः।
+</details>
+
+
+### नित्यत्वादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाभ्युपगताश् च नित्यत्वादयो हि  
+अनेके विशेषाः सन्त्य् एव । 
+</details>
+
+<details><summary>English</summary>
+
+Moreover you yourself admit that to consciousness there actually belong different attributes such as permanency (oneness, self-luminousness, &c.), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वाभ्युपगताश्च नित्यत्वादयो हि अनेके विशेषाः सन्त्येव । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते च न वस्तु-मात्रम् इति शक्योपपादनाः, 
+</details>
+
+<details><summary>English</summary>
+
+and of these it cannot be shown that they are only Being in general. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ते च न वस्तुमात्रमिति शक्योपपादनाः, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… वस्तु-मात्राभ्युपगमे सत्य् अपि  
+विधा-भेद-विवाद-दर्शनात्,  
+स्वाभिमत-- तद्-विधा-भेदैश् च  
+स्व-मतोपपादनात्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+And even if the latter point were admitted,  
+we observe that there takes place a discussion of different views,  
+and you yourself attempt to prove your theory by means of the differences between those views and your own.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वस्तुमात्राभ्युपगमे सत्यपि
+विधाभेदविवाददर्शनात् स्वाभिमततद्विधाभेदैश्च स्वमतोपपादनात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः प्रामाणिक-विशेषैर् विशिष्टम् एव वस्त्व् इति वक्तव्यम्॥
+</details>
+
+<details><summary>English</summary>
+
+It therefore must be admitted that reality is affected with difference well established by valid means of proof.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतः प्रामाणिकविशेषैर्विशिष्टमेव वस्त्विति वक्तव्यम्॥
+</details>
+
 
 ## निर्विशेषत्वं वस्तुनि न शब्दगम्यम्
 

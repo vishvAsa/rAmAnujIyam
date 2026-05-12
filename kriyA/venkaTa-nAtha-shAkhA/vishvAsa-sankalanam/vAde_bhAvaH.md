@@ -52,7 +52,8 @@ The vaiShNava critic (partly mirroring opponents)
 
 - Indulges in some well-justified name-calling.
 - Questions about the behavior of the person holding the views.
-- Provides quite a few redundant really funny analogies.
+- Provides quite a few redundant, really funny analogies.
+- Speculates on the cause of incompetence
 - Occassionally comes off as being smug and snarky.
 
 #### नामाभिज्ञापनम्
@@ -70,7 +71,18 @@ Video: [TW](https://youtu.be/FBmo0YvfPgA)
 > शङ्करादि-कुदृष्टिगळ् सॊल्लुम् पॊरुळ्गळ् ऎल्लाम्  
 तात्पर्य-चन्द्रिकैयिलुम्, निक्षेप-रक्षैयिलुम् परक्क दूषित्तोम्।
 
+#### Cause-speculation
+> तद् इदम्  
+औपिनषद--परम-पुरुष-वरणीयता-हेतु- गुण-विशेष-विरहिणाम्
+अनादि-पाप-वासना- दूषिताशेष-शेमुषीकाणां
+अनधिगत-पद-वाक्य- स्व-रूप--…समीचीन-न्याय-मार्गाणां  
+विकल्पासह-- विविध-कुतर्क-कल्क-कल्पितम्
 
+- R on pitiful shAnkara-pUrva-paxa
+
+> +++(ज्ञान-)+++सॆऱिव्+++(=पूर्णता)+++ इल्लाप् बुद्धर्-उडऩ् **सेर्न्दु कॆट्टार्**
+
+इति परमतभङ्गे प्रच्छन्न-बौद्ध-भङ्गे शाङ्करेषु वेङ्कटनाथः। 
 
 ### भ्रमः
 Impression of vaiShNava AchArya-s as cuddly teddy bears or humble-to-a-fault sunken eyed bores likely comes not reading their argumentative works.  

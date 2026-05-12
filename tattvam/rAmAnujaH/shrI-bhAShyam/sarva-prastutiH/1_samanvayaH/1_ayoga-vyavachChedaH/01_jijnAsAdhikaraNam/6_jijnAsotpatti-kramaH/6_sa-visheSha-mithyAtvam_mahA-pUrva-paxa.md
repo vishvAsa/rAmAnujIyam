@@ -4247,32 +4247,309 @@ like colour and other qualities, agency depends, for its own proof, on seeing, i
 दृश्यधीनसिद्धित्वादेव रूपादेरिव कर्तृत्वादेर्नात्मधर्मत्वम्।
 </details>
 
-## आत्मनः अहम्प्रत्ययागोचरता
+#### सुषुप्ति-मूर्च्छादौ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुषुप्ति-मूर्च्छादाव् अहं-प्रत्ययापायेऽपि  
-आत्मानुभव-दर्शनेन  
++++("सुषुप्तवान्" इत्य्)+++ आत्मानुभव-दर्शनेन  
 नाऽत्मनो ऽहं-प्रत्यय-गोचरत्वम्। 
 </details>
+
+<details><summary>English</summary>
+
+That the Self does not fall within the sphere (is not an object of), the idea of 'I' is proved thereby also that in deep sleep, swoon, and similar states, the idea of the 'I' is absent, while the consciousness of the Self persists. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 सुषुप्तिमूर्च्छादावहंप्रत्ययापायेऽपि आत्मानुभवदर्शनेन नाऽत्मनोऽहंप्रत्ययगोचरत्वम्। 
 </details>
 
+#### कर्तृत्वे पराक्त्वादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कर्तृत्वेऽहंप्रत्ययगोचरत्वे चाऽत्मनोऽभ्युपगम्यमाने देहस्येव जडत्वपराक्त्वानात्मत्वादिप्रसङ्गो दुष्परिहरः। अहंप्रत्ययगोचरात् कर्तृतया प्रसिद्धाद्देहात्तत्क्रियाफलस्वर्गादेर्भोक्तुरात्मनोऽन्यत्वं प्रामाणिकानां प्रसिद्धमेव। तथाऽहमर्थात् ज्ञातुरपि विलक्षणस्साक्षी प्रत्यागात्मेति प्रतिपत्तव्यम्।
+कर्तृत्वे ऽहं-प्रत्यय-गोचरत्वे चाऽत्मनो ऽभ्युपगम्यमाने  
+देहस्येव जडत्व-पराक्त्वानात्मत्वादि-प्रसङ्गो दुष्परिहरः। 
+</details>
 
-## अनुभूतिः अहंकाराभिव्यङ्ग्या
+<details><summary>English</summary>
 
-एवमविक्रियानुभवस्वरूपस्यैवाभिव्यञ्जको जडोऽप्यहंकारस्स्वाश्रयतया तमभिव्यनक्ति । आत्मस्थतयाऽभिव्यङ्ग्याभिव्यञ्जनमभिव्यञ्जकानां स्वभावः। दर्पणजलखण्डादिर्हि मुखचन्द्रबिम्बगोत्वादिकमात्मस्थतयाऽभिव्यनक्ति । तत्कृतोऽयं जानाम्यहम् इति भ्रमः।
+Moreover, if the Self were admitted to be an agent and an object of the idea of 'I,' it would be difficult to avoid the conclusion that like the body it is non-intelligent, something merely outward ('being for others only, not for itself') and destitute of Selfhood. 
+</details>
 
-## अभिव्यङ्ग्येनापि स्वाभिव्यङ्गयस्य अभिव्यञ्जनम्
 
-स्वप्रकाशायाः अनुभूतेः कथमिव तदभिव्यङ्ग्यजडरूपाहङ्कारेणाभिव्यङ्ग्यत्वमिति मा वोचः, रविकरनिकराभिव्यङ्ग्यकरतलस्य तदभिव्यञ्जकत्वदर्शनात्; जालकरन्ध्रनिष्क्रान्तद्युमणिकिरणानां तदभिव्यङ्ग्येनापि करतलेन स्फुटतरप्रकाशो हि दृष्टचरः ॥
+<details><summary>मूलम्</summary>
 
-## आत्मनः अनुभवमात्रता, न अनुभाव्यता
+कर्तृत्वेऽहंप्रत्ययगोचरत्वे चाऽत्मनोऽभ्युपगम्यमाने देहस्येव जडत्वपराक्त्वानात्मत्वादिप्रसङ्गो दुष्परिहरः। 
+</details>
 
-यतोऽहं जानामीति ज्ञाताऽयमहमर्थः चिन्मात्रात्मनो न पारमार्थिको धर्मः; अत एव सुषुप्तिमुक्त्योर्नान्वेति। तत्र ह्यहमर्थोल्लेखविगमेन स्वाभाविकानुभवमात्ररूपेणाऽत्माऽवभासते। अत एव सुप्तोत्थितः कदाचिन्मामप्यहं न ज्ञातवानिति परामृशति। तस्मात्परमार्थतो निरस्तसमस्त-भेदविकल्प निर्विशेषचिन्मात्रैकरसकूटस्थनित्यसंविदेव भ्रान्त्या ज्ञातृज्ञेयज्ञानरूपविविधविचित्रभेदा विवर्तत इति तन्मूलभूताविद्यानिबर्हाणाय नित्यशुद्धबुद्धमुक्त-स्वभावब्रह्मात्मैकत्वविद्याप्रतिपत्तये सर्वे वेदान्ता आरभ्यन्ते – इति॥
+##### देहभेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहं-प्रत्यय-गोचरात् कर्तृतया प्रसिद्धाद् देहात्  
+तत्-क्रिया-फल--स्वर्गादेर् भोक्तुर् आत्मनो ऽन्यत्वं  
+प्रामाणिकानां प्रसिद्धम् एव। 
+</details>
+
+<details><summary>English</summary>
+
+That from the body, which is the object of the idea of 'I,' and known to be an agent, there is different that Self which enjoys the results of the body's actions, viz. the heavenly word, and so on, is acknowledged by all who admit the validity of the instruments of knowledge; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहंप्रत्ययगोचरात् कर्तृतया प्रसिद्धाद्देहात्तत्क्रियाफलस्वर्गादेर्भोक्तुरात्मनोऽन्यत्वं प्रामाणिकानां प्रसिद्धमेव। 
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा ऽहम्-अर्थात्  
+ज्ञातुर् अपि विलक्षणस् साक्षी  
+प्रत्याग्-आत्मेति प्रतिपत्तव्यम्।
+</details>
+
+<details><summary>English</summary>
+
+analogously, therefore, we must admit that different from the knower whom we understand by the term 'I,' is the 'witnessing' inward Self. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथाऽहमर्थात् ज्ञातुरपि विलक्षणस्साक्षी प्रत्यागात्मेति प्रतिपत्तव्यम्।
+</details>
+
+
+### अहंकाराभिव्यङ्ग्या दर्पणवत्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् अ-विक्रियानुभव-स्वरूपस्यैवाभिव्यञ्जको  
+जडोऽप्य् अहङ्कारस्  
+स्वाश्रयतया तम् अभिव्यनक्ति । +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+The non-intelligent ahaṁkāra thus merely serves to manifest the nature of non-changing consciousness, and it effects this by being its abode; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवमविक्रियानुभवस्वरूपस्यैवाभिव्यञ्जको जडोऽप्यहंकारस्स्वाश्रयतया तमभिव्यनक्ति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-स्थतया ऽभिव्यङ्ग्याभिव्यञ्जनम्  
+अभिव्यञ्जकानां स्वभावः। 
+</details>
+
+<details><summary>English</summary>
+
+for it is the proper quality of manifesting agents to manifest the objects manifested, in so far as the latter abide in them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्मस्थतयाऽभिव्यङ्ग्याभिव्यञ्जनमभिव्यञ्जकानां स्वभावः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दर्पण-जल-खण्डादिर् हि  
+मुख--चन्द्र-बिम्ब--गोत्वादिकम् आत्म-स्थतया ऽभिव्यनक्ति । 
+</details>
+
+<details><summary>English</summary>
+
+A mirror, e.g., or a sheet of water, or a certain mass of matter, manifests a face or the disc of the moon (reflected in the mirror or water) or the generic character of a cow (impressed on the mass of matter) in so far as all those things abide in them.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दर्पणजलखण्डादिर्हि मुखचन्द्रबिम्बगोत्वादिकमात्मस्थतयाऽभिव्यनक्ति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-कृतो ऽयं "जानाम्य् अहम्" इति भ्रमः।
+</details>
+
+<details><summary>English</summary>
+
+--In this way, then, there arises the erroneous view that finds expression in the judgment 'I know.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्कृतोऽयं जानाम्यहम् इति भ्रमः।
+</details>
+
+
+#### स्वप्रकाशाया अपि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्व-प्रकाशाया अनुभूतेः  
+कथम् इव तद्-अभिव्यङ्ग्य-- जड-रूपाहङ्कारेणाभिव्यङ्ग्यत्वम्  
+
+इति मा वोचः, 
+</details>
+
+<details><summary>English</summary>
+
+--Nor must you, in the way of objection, raise the question how self-luminous consciousness is to be manifested by the non-intelligent ahaṁkāra, which rather is itself manifested by consciousness; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वप्रकाशायाः अनुभूतेः कथमिव तदभिव्यङ्ग्यजडरूपाहङ्कारेणाभिव्यङ्ग्यत्वमिति मा वोचः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रवि-कर-निकराभिव्यङ्ग्य-- कर-तलस्य तद्-अभिव्यञ्जकत्व-दर्शनात्; 
+</details>
+
+<details><summary>English</summary>
+
+for we observe that the surface of the hand, which itself is manifested by the rays of sunlight falling on it, at the same time manifests those rays. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रविकरनिकराभिव्यङ्ग्यकरतलस्य तदभिव्यञ्जकत्वदर्शनात्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जालक-रन्ध्र-निष्क्रान्त- द्यु-मणि-किरणानां  
+तद्-अभिव्यङ्ग्येनापि कर-तलेन  
+स्फुट-तर-प्रकाशो हि दृष्टचरः ॥
+</details>
+
+<details><summary>English</summary>
+
+This is clearly seen in the case of rays passing through the interstices of network; the light of those rays is intensified by the hand on which they fall, and which at the same time is itself manifested by the rays.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जालकरन्ध्रनिष्क्रान्तद्युमणिकिरणानां तदभिव्यङ्ग्येनापि करतलेन स्फुटतरप्रकाशो हि दृष्टचरः ॥
+</details>
+
+
+
+### सुषुप्ति-मुक्त्योः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतो "ऽहं जानामी"ति ज्ञाता ऽयम् अहम्-अर्थः चिन्मात्रात्मनो न पारमार्थिको धर्मः;  
+अत एव सुषुप्तिमुक्त्योर्नान्वेति। 
+</details>
+
+<details><summary>English</summary>
+
+It thus appears that the 'knowing agent,' who is denoted by the 'I,' in the judgment 'I know,' constitutes no real attribute of the Self, the nature of which is pure intelligence. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यतोऽहं जानामीति ज्ञाताऽयमहमर्थः चिन्मात्रात्मनो न पारमार्थिको धर्मः; अत एव सुषुप्तिमुक्त्योर्नान्वेति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र ह्य् अहम्-अर्थोल्लेख-विगमेन  
+स्वाभाविकानुभव-मात्र-रूपेणाऽत्मा ऽवभासते। 
+</details>
+
+<details><summary>English</summary>
+
+This is also the reason why the consciousness of Egoity does not persist in the states of deep sleep and final release: in those states this special form of consciousness passes away, and the Self appears in its true nature, i.e. as pure consciousness. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र ह्यहमर्थोल्लेखविगमेन स्वाभाविकानुभवमात्ररूपेणाऽत्माऽवभासते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव सुप्तोत्थितः कदाचिन्  
+"माम् अप्य् अहं न ज्ञातवान्" इति परामृशति। 
+</details>
+
+<details><summary>English</summary>
+
+Hence a person who has risen from deep, dreamless sleep reflects, 'Just now I was unconscious of myself.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव सुप्तोत्थितः कदाचिन्मामप्यहं न ज्ञातवानिति परामृशति। 
+</details>
+
+### सङ्ग्रहः
+
+<details><summary>English</summary>
+
+Summing up of the pūrvapaksha view.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् परमार्थतो निरस्त-समस्त-भेद-विकल्प-  
+निर्विशेष-चिन्-मात्रैक-रस-- कूट-स्थ--नित्य-संविद् एव  
+भ्रान्त्या ज्ञातृ-ज्ञेय-ज्ञान-रूप-- विविध-विचित्र-भेदा  
+विवर्तत इति 
+</details>
+
+<details><summary>English</summary>
+
+As the outcome of all this, we sum up our view as follows.--Eternal, absolutely non-changing consciousness, whose nature is pure non-differenced intelligence, free from all distinction whatever, owing to error illusorily manifests itself (vivarttate) as broken up into manifold distinctions--knowing subjects, objects of knowledge, acts of knowledge.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+तस्मात्परमार्थतो निरस्तसमस्त-भेदविकल्प निर्विशेषचिन्मात्रैकरसकूटस्थनित्यसंविदेव भ्रान्त्या ज्ञातृज्ञेयज्ञानरूपविविधविचित्रभेदा विवर्तत इति 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन्--मूल-भूताविद्या-निबर्हाणाय  
+नित्य-शुद्ध-बुद्ध-मुक्त-स्वभाव- -ब्रह्मात्मैकत्व-विद्या-प्रतिपत्तये  
+सर्वे वेदान्ता आरभ्यन्ते – 
+
+इति॥
+</details>
+
+<details><summary>English</summary>
+
+And the purpose for which we enter on the consideration of the Vedānta-texts is utterly to destroy what is the root of that error, i.e. Nescience, and thus to obtain a firm knowledge of the oneness of Brahman, whose nature is mere intelligence--free, pure, eternal.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन्मूलभूताविद्यानिबर्हाणाय नित्यशुद्धबुद्धमुक्त-स्वभावब्रह्मात्मैकत्वविद्याप्रतिपत्तये सर्वे वेदान्ता आरभ्यन्ते – इति॥
+</details>
+
 
