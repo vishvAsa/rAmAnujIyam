@@ -3324,8 +3324,8 @@ jars and similar things are non-real because they are non-continuous, as proved 
 घटादयोऽपरमार्थाः, व्यावर्तमानत्वात्, रज्ज्वद्यधिष्ठानसर्पादिवत् – इति।
 </details>
 
-
-## सत्-अनुभूत्योर् ऐक्यम्
+## अनुभूतिः
+### सत्-अनुभूत्योर् ऐक्यम्
 
 <details><summary>English</summary>
 
@@ -3421,7 +3421,7 @@ Hence Consciousness itself is 'Being'--that which is.
 तस्मात्सत् अनुभूतिरेव।
 </details>
 
-## अनुभूतेः स्वयम्-प्रकाशता
+### स्वयम्-प्रकाशता
 <details><summary>English</summary>
 
 Consciousness is svayaṁprakāsa.
@@ -3464,7 +3464,7 @@ Were it proved through something else, it would follow that like jars and simila
 </details>
 
 
-### अनुभूत्यन्तरानपेक्षा
+#### अनुभूत्यन्तरानपेक्षा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3502,19 +3502,318 @@ While it exists, consciousness--differing therein from jars and the like--is nev
 </details>
 
 
-## अनुभूतेः ज्ञाततानुमेयत्ववादः
+#### विषये सत्य् अपि
+##### अनुभूतेर् अनुमेयता?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथैवं मनुषे – उत्पन्नायामप्यनुभूतौ विषयमात्रमवभासते घटोऽनुभूयते इति। न हि कश्चित् घटोऽयम् इति जानन् तदानीमेवाविषयभूतामनिदम्भावामनुभूतिमप्यनुभवति। तस्माद्घटादिप्रकाशनिष्पत्तौ चक्षुरादिकरणसन्निकर्षवदनुभूतेस्सद्भाव एव हेतुः। तदनन्तरमर्थगतकादाचित्कप्रकाशातिशय-लिङ्गेनानुभूतिरनुमीयते।
+अथैवं मनुषे – 
 
-## अनुभूतेः जडत्वशङ्कापरिहारौ
+> उत्पन्नायाम् अप्य् अनुभूतौ  
+विषय-मात्रम् अवभासते  
+"घटोऽनुभूयते" इति। 
+</details>
 
-एवं तर्ह्यनुभूतेरजडाया अर्थवज्जडत्वमापद्यत इति चेत्; किमिदमजडत्वं नाम? न तावत्स्वसत्तायाः प्रकाशाव्यभिचारः, सुखादिष्वपि तत्सम्भवात्; न हि कदाचिदपि सुखादयस्सन्तो नोपलभ्यन्ते; अतोऽनुभूतिस्स्वयमेव नानुभूयते, अर्थान्तरं स्पृशतोऽङ्गुल्यग्रस्य स्वात्मस्पर्शवदशक्यत्वादिति॥
+<details><summary>English</summary>
 
-## अनुभूतेः ज्ञाततानुमेयत्वनिरासः
+You (who object to the above reasoning) perhaps hold the following view:--
 
-तदिदमनाकिलतानुभवविभवस्य स्वमतिविजृम्भितम्, अनुभूतिव्यतिरेकिणो विषयधर्मस्य प्रकाशस्य रूपादिवदनुपलब्धेः; उभयाभ्युपेतानुभूत्यैवाशेषव्यवहारोपपत्तौ प्रकाशाख्यधर्मकल्पना-नुपपत्तेश्च। अतो नानुभूतिरनुमीयते। नापि ज्ञानान्तरसिद्धा। अपि तु सर्वं साधयन्त्यनुभूतिस्स्वयमेव सिद्ध्यति। प्रयोगश्च – अनुभूतिरनन्याधीनस्वधर्मव्यवहारा स्वसम्बन्धादर्थान्तरे तद्धर्मव्यवहारहेतुत्वात्; यस्स्वसम्बन्धादर्थान्तरे यद्धर्मव्यवहारहेतुस्स तयोस्स्वस्मिन्ननन्याधीनो दृष्टः; यथा रूपादिश्चाक्षुषत्वादौ। रूपादिर्हि पृथिव्यादौ स्वसम्बन्धाच्चाक्षुषत्वादि जनयन् स्वस्मिन् न रूपादिसम्बन्धाधीनश्चाक्षुषत्वादौ। अतोऽनुभूतिरात्मनः प्रकाशमानत्वे प्रकाशत इति व्यवहारे च स्वयमेव हेतुः॥
+> even when consciousness has arisen,  
+it is the object only which shines forth--  
+a fact expressed in sentences such as:  
+"the jar is perceived". 
+</details>
 
-## अनुभूतेः नित्यता, तत्प्रागभावासिद्धिश्च
+
+<details><summary>मूलम्</summary>
+
+अथैवं मनुषे – उत्पन्नायामप्यनुभूतौ विषयमात्रमवभासते घटोऽनुभूयते इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न हि कश्चिद् "घटोऽयम्" इति जानन्  
+तदानीम् एवाविषय-भूताम् अन्-इदम्-भावाम्-अनुभूतिम् अप्य् अनुभवति। 
+</details>
+
+<details><summary>English</summary>
+
+> When a person forms the judgment 'This is a jar,' he is not at the time conscious of a consciousness which is not an object and is not of a definite character. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि कश्चित् घटोऽयम् इति जानन् तदानीमेवाविषयभूतामनिदम्भावामनुभूतिमप्यनुभवति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तस्माद् घटादि-प्रकाश-निष्पत्तौ  
+चक्षुर्-आदि-करण-सन्निकर्षवद् अनुभूतेस् सद्भाव एव हेतुः। 
+</details>
+
+<details><summary>English</summary>
+
+> Hence the existence of consciousness is the reason which brings about the 'shining forth' of jars and other objects, and thus has a similar office as the approximation of the object to the eye or the other organs of sense (which is another condition of perceptive consciousness). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्माद्घटादिप्रकाशनिष्पत्तौ चक्षुरादिकरणसन्निकर्षवदनुभूतेस्सद्भाव एव हेतुः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-अनन्तरम् अर्थ-गत-कादाचित्क-- प्रकाशातिशय-लिङ्गेनानुभूतिर् अनुमीयते।
+</details>
+
+<details><summary>English</summary>
+
+After this the existence of consciousness is inferred on the ground that the shining forth of the object is (not permanent, but) occasional only [fn_8]. 
+
+[fn_8]: 34:1 Being not permanent but occasional, it is an effect only, and as such must have a cause.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदनन्तरमर्थगतकादाचित्कप्रकाशातिशय-लिङ्गेनानुभूतिरनुमीयते।
+</details>
+
+###### जडता?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > एवं तर्ह्य् अनुभूतेर् अ-जडाया  
+अर्थवज् जडत्वम् आपद्यत 
+> 
+> इति चेत्; 
+</details>
+
+<details><summary>English</summary>
+
+> And should this argumentation be objected to on the ground of its implying that consciousness--which is essentially of the nature of intelligence--is something non-intelligent like material things, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं तर्ह्यनुभूतेरजडाया अर्थवज्जडत्वमापद्यत इति चेत्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> किम् इदम् अ-जडत्वं नाम?  
+न तावत् स्व-सत्तायाः प्रकाशाव्यभिचारः,  
+सुखादिष्व् अपि तत्-सम्भवात्;  
+न हि कदाचिदपि सुखादयस् सन्तो नोपलभ्यन्ते; 
+</details>
+
+<details><summary>English</summary>
+
+> we ask you to define this negation of non-intelligence (which you declare to be characteristic of consciousness). Have we, perhaps, to understand by it the invariable concomitance of existence and shining forth? If so, we point out that this invariable concomitance is also found in the case of pleasure and similar affections;  
+for when pleasure and so on exist at all, they never are non-perceived (i.e. they exist in so far only as we are conscious of them). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किमिदमजडत्वं नाम? न तावत्स्वसत्तायाः प्रकाशाव्यभिचारः, सुखादिष्वपि तत्सम्भवात्; न हि कदाचिदपि सुखादयस्सन्तो नोपलभ्यन्ते; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अतोऽनुभूतिस् स्वयम् एव नानुभूयते,  
+अर्थान्तरं स्पृशतो ऽङ्गुल्य्-अग्रस्य  
+स्वात्म-स्पर्शवद् अ-शक्यत्वाद् 
+
+इति॥
+</details>
+
+<details><summary>English</summary>
+
+> It is thus clear that we have no consciousness of consciousness itself--just as the tip of a finger, although touching other things, is incapable of touching itself.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतोऽनुभूतिस्स्वयमेव नानुभूयते, अर्थान्तरं स्पृशतोऽङ्गुल्यग्रस्य स्वात्मस्पर्शवदशक्यत्वादिति॥
+</details>
+
+
+### नानुमेयता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् इदम् अनाकिलतानुभव-विभवस्य स्व-मति-विजृम्भितम्, 
+</details>
+
+<details><summary>English</summary>
+
+All this reasoning, we reply, is entirely spun out of your own fancy, without any due consideration of the power of consciousness. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदिदमनाकिलतानुभवविभवस्य स्वमतिविजृम्भितम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूति-व्यतिरेकिणो  
+विषय-धर्मस्य प्रकाशस्य  
+रूपादिवद् अनुपलब्धेः; 
+</details>
+
+<details><summary>English</summary>
+
+The fact is, that in perceiving colour and other qualities of things, we are not aware of a 'shining forth' as an attribute of those things, and as something different from consciousness; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतिव्यतिरेकिणो विषयधर्मस्य प्रकाशस्य रूपादिवदनुपलब्धेः; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उभयाभ्युपेतानुभूत्यैव  
+अशेष-व्यवहारोपपत्तौ  
+प्रकाशाख्य-धर्म-कल्पनानुपपत्तेश् च। 
+</details>
+
+<details><summary>English</summary>
+
+nor can the assumption of an attribute of things called 'light,' or 'shining forth,' be proved in any way, since the entire empirical world itself can be proved only through consciousness, the existence of which we both admit. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उभयाभ्युपेतानुभूत्यैवाशेषव्यवहारोपपत्तौ प्रकाशाख्यधर्मकल्पनानुपपत्तेश्च। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो नानुभूतिर् अनुमीयते। नापि ज्ञानान्तर-सिद्धा। 
+</details>
+
+<details><summary>English</summary>
+
+Consciousness, therefore, is not something which is inferred or proved through some other act of knowledge; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो नानुभूतिरनुमीयते। नापि ज्ञानान्तरसिद्धा। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि तु सर्वं साधयन्त्य् अनुभूतिस्  
+स्वयम् एव सिद्ध्यति। 
+</details>
+
+<details><summary>English</summary>
+
+but while proving everything else it is proved by itself. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि तु सर्वं साधयन्त्यनुभूतिस्स्वयमेव सिद्ध्यति। 
+</details>
+
+#### अनुमान-प्रयोगः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रयोगश् च –  
+अनुभूतिर् अन्-अन्याधीन--स्व-धर्म--व्यवहारा  
+स्व-सम्बन्धाद् अर्थान्तरे तद्+++(→अर्थान्तर-)+++-धर्म-व्यवहार-हेतुत्वात् +++(रूपादिवत्, वक्ष्यमाण-रीत्या)+++। 
+</details>
+
+<details><summary>English</summary>
+
+This may be expressed in technical form as follows--  
+Consciousness is, with regard to its attributes and to the empirical judgments concerning it, independent of any other thing, because through its connexion with other things it is the cause of their attributes and the empirical judgments concerning them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रयोगश्च – अनुभूतिरनन्याधीनस्वधर्मव्यवहारा स्वसम्बन्धादर्थान्तरे तद्धर्मव्यवहारहेतुत्वात्; 
+</details>
+
+##### रूपवत्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस् +++(→धर्मः)+++ स्व-सम्बन्धाद्  
+अर्थान्तरे +++(→धर्मिणि)+++ यद्-धर्म-व्यवहार-हेतुस्  
+स +++(धर्मः)+++ तयोस् स्वस्मिन्न् +++(व्यवहाराय)+++ अन्-अन्याधीनो दृष्टः;  
+यथा रूपादिश् चाक्षुषत्वादौ। 
+</details>
+
+<details><summary>English</summary>
+
+For it is a general principle that  
+of two things  
+that which through its connexion with the other is the cause of the attributes of--and the empirical judgments about--the latter,  
+is itself independent of that other as to those two points.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यस्स्वसम्बन्धादर्थान्तरे यद्धर्मव्यवहारहेतुस्स तयोस्स्वस्मिन्ननन्याधीनो दृष्टः; यथा रूपादिश्चाक्षुषत्वादौ। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रूपादिर् हि  
+पृथिव्य्-आदौ स्वसम्बन्धाच् चाक्षुषत्वादि जनयन्  
+स्वस्मिन् न रूपादि-सम्बन्धाधीनश् चाक्षुषत्वादौ। 
+</details>
+
+<details><summary>English</summary>
+
+We see e.g. that colour, through its conjunction with earth and the like, produces in them the quality of visibility, but does not itself depend for its visibility on conjunction with colour. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रूपादिर्हि पृथिव्यादौ स्वसम्बन्धाच्चाक्षुषत्वादि जनयन् स्वस्मिन् न रूपादिसम्बन्धाधीनश्चाक्षुषत्वादौ। 
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽनुभूतिर्  
+आत्मनः प्रकाशमानत्वे,  
+"+++(वस्त्व्-अन्तरम्)+++ प्रकाशत" इति व्यवहारे च  
+स्वयम् एव हेतुः॥
+</details>
+
+<details><summary>English</summary>
+
+Hence consciousness is itself the cause of its own 'shining forth,' as well as of the empirically observed shining forth of objects such as jars and the like.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतोऽनुभूतिरात्मनः प्रकाशमानत्वे प्रकाशत इति व्यवहारे च स्वयमेव हेतुः॥
+</details>
+
+
+### नित्यता, तत्प्रागभावासिद्धिश्च
 
 सेयं स्वयंप्रकाशाऽनुभूतिर्नित्या च, प्रागभावाद्यभावात्। तदभावश्च स्वतस्सिद्धत्वादेव। न ह्यनुभूतेस्स्वतस्सिद्धायाः प्रागभावस्स्वतोऽन्यतो वाऽवगन्तुं शक्यते। अनुभूतिस्स्वाभावमवगमयन्ती, सती तावन्नावगमयति। तस्यास्सत्त्वे विरोधादेव तदभावो नास्तीति कथं सा स्वाभावमवगमयति? एवमसत्यपि नावगमयति; अनुभूतिस्स्वयमसती स्वाभावे कथं प्रमाणं भवेत्? नाप्यन्यतोऽवगन्तुं शक्यते, अनुभूतेरनन्यगोचरत्वात्। अस्याः प्रागभावं साधयत् प्रमाणम् अनुभूतिरियम् इति विषयीकृत्य तदभावं साधयेत्; स्वतस्सिद्धत्वेन इयमिति विषयीकारानर्हात्वात्, न तत्प्रागभावोऽन्यतः शक्यावगमः।
 
