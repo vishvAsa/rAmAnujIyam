@@ -334,7 +334,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > **प्रत्यस्त-मित-भेदं** यत्  
 सत्ता-मात्रम्, अगोचरम् ।  
 वचसाम्, आत्म-संवेद्यं  
-तज् ज्ञानं **ब्रह्म-संज्ञितम्** ॥ ५३ ॥  
+तज् ज्ञानं **ब्रह्म-सञ्ज्ञितम्** ॥ ५३ ॥  
 (वि.पु.६.७.४३) 
 </details>
 
@@ -348,7 +348,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 
 <details><summary>मूलम्</summary>
 
-प्रत्यस्तमितभेदं यत्सत्तामात्रमगोचरम् । वचसामात्मसंवेद्यं तज्ज्ञानं ब्रह्म संज्ञितम्॥ (वि.पु.६.७.४३) 
+प्रत्यस्तमितभेदं यत्सत्तामात्रमगोचरम् । वचसामात्मसंवेद्यं तज्ज्ञानं ब्रह्म सञ्ज्ञितम्॥ (वि.पु.६.७.४३) 
 </details>
 
 
@@ -421,7 +421,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > ज्ञान--स्व-रूपम् अखिलं  
 जगद् एतद् अ-बुद्धयः।  
 अर्थ-स्वरूपं पश्यन्तो  
-भ्राम्यन्ते मोह-संप्लवे॥ 
+भ्राम्यन्ते मोह-सम्प्लवे॥ 
 </details>
 
 <details><summary>English</summary>
@@ -431,7 +431,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 
 <details><summary>मूलम्</summary>
 
-ज्ञानस्वरूपमखिलं जगदेतदबुद्धयः। अर्थस्वरूपं पश्यन्तो भ्राम्यन्ते मोहसंप्लवे॥ 
+ज्ञानस्वरूपमखिलं जगदेतदबुद्धयः। अर्थस्वरूपं पश्यन्तो भ्राम्यन्ते मोहसम्प्लवे॥ 
 </details>
 
 
@@ -498,9 +498,9 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > वेणु-रन्ध्र-विभेदेन  
-भेदष् षड्-जादि-संज्ञितः।  
+भेदष् षड्-जादि-सञ्ज्ञितः।  
 अभेद-व्यापिनो वायोस्  
-तथाऽसौ परमात्मनः॥  +++(5)+++  
+तथाऽसौ परमात्मनः॥ +++(5)+++  
 (वि.पु.२.१४.३२) 
 </details>
 
@@ -512,7 +512,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 
 <details><summary>मूलम्</summary>
 
-वेणुरन्ध्रविभेदेन भेदष्षड्जादिसंज्ञितः। अभेदव्यापिनो वायोस्तथाऽसौ परमात्मनः॥ (वि.पु.२.१४.३२) 
+वेणुरन्ध्रविभेदेन भेदष्षड्जादिसञ्ज्ञितः। अभेदव्यापिनो वायोस्तथाऽसौ परमात्मनः॥ (वि.पु.२.१४.३२) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1182,7 +1182,7 @@ analogously to the use of the term in the following words of Sanatsujāta,
 
 विज्ञानमानन्दं ब्रह्म (बृ.५.९.२८) 
 </details>
- 
+  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1499,7 +1499,7 @@ if that were the case, the perception which presents to us the flame of the lamp
 एवं च सति  
 
 > द्वयोः प्रमाणयोर् विरोधे  
-यत् संभाव्यमानान्यथा-सिद्धि, तद् बाध्यम्;  
+यत् सम्भाव्यमानान्यथा-सिद्धि, तद् बाध्यम्;  
 अन्-अन्यथा-सिद्धम् अनवकाशम् इतरद् बाधकम् –  
 
 इति सर्वत्र बाध्य-बाधक-भाव-निर्णयः –  
@@ -1522,7 +1522,7 @@ This is the principle on which the relation between 'what sublates' and 'what is
 
 <details><summary>मूलम्</summary>
 
-एवं च सति द्वयोः प्रमाणयोर्विरोधे यत्संभाव्यमानान्यथासिद्धि, तद्बाध्यम्; अनन्यथासिद्धमनवकाशम् इतरद्बाधकम् – इति सर्वत्र बाध्यबाधकभावनिर्णयः – इति ॥
+एवं च सति द्वयोः प्रमाणयोर्विरोधे यत्सम्भाव्यमानान्यथासिद्धि, तद्बाध्यम्; अनन्यथासिद्धमनवकाशम् इतरद्बाधकम् – इति सर्वत्र बाध्यबाधकभावनिर्णयः – इति ॥
 </details>
 
 
@@ -1987,7 +1987,7 @@ without being idle synonyms.
 
 एकत्व-तात्पर्य-निश्चयात्  
 एकस्यैवार्थस्य तत्-तत्-पदार्थ-विरोधि-- प्रत्यनीकत्व-परत्वेन  
-सर्व-पदानाम् अर्थवत्त्वम् एकार्थत्वं अपर्यायता च॥
+सर्व-पदानाम् अर्थवत्त्वम् एकार्थत्वम् अपर्यायता च॥
 </details>
 
 <details><summary>English</summary>
@@ -2000,7 +2000,7 @@ From the determination of the unity of purport of the whole sentence [fn_6] we c
 
 <details><summary>मूलम्</summary>
 
-एकत्वतात्पर्य-निश्चयात् एकस्यैवार्थस्य तत्तत्पदार्थविरोधि-प्रत्यनीकत्वपरत्वेन सर्वपदानामर्थवत्वमेकार्थत्त्वं अपर्यायता च॥
+एकत्वतात्पर्य-निश्चयात् एकस्यैवार्थस्य तत्तत्पदार्थविरोधि-प्रत्यनीकत्वपरत्वेन सर्वपदानामर्थवत्वमेकार्थत्त्वम् अपर्यायता च॥
 </details>
 
 
@@ -2176,7 +2176,7 @@ The text thus declares the one Brahman which is self-luminous and free from all 
 
 <details><summary>मूलम्</summary>
 
-तस्मादेकमेव ब्रह्म स्वयंज्योतिर्निर्धूतनिखिलविशेषमित्युक्तं भवति । 
+तस्मादेकमेव ब्रह्म स्वयञ्ज्योतिर्निर्धूतनिखिलविशेषमित्युक्तं भवति । 
 </details>
 
 
@@ -2742,7 +2742,7 @@ We therefore have to enquire in what way,in the judgment 'here is a jar,' an ass
 #### प्रत्यक्ष-मूलं स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च द्वयोर् अपि व्यवहारयोः प्रत्यक्ष-मूलत्वं संभवति,  
+न च द्वयोर् अपि व्यवहारयोः प्रत्यक्ष-मूलत्वं सम्भवति,  
 तयोर् भिन्न-काल-ज्ञान-फलत्वात्,  
 प्रत्यक्ष-ज्ञानस्य चैक-क्षण-वर्तित्वात्। 
 </details>
@@ -2755,7 +2755,7 @@ These implied judgments cannot both be founded on perception, for they are the r
 
 <details><summary>मूलम्</summary>
 
-न च द्वयोरपि व्यवहारयोः प्रत्यक्षमूलत्वं संभवति, तयोर्भिन्नकालज्ञानफलत्वात्, प्रत्यक्षज्ञानस्य चैकक्षणवर्तित्वात्। 
+न च द्वयोरपि व्यवहारयोः प्रत्यक्षमूलत्वं सम्भवति, तयोर्भिन्नकालज्ञानफलत्वात्, प्रत्यक्षज्ञानस्य चैकक्षणवर्तित्वात्। 
 </details>
 
 
@@ -3151,7 +3151,7 @@ In the same way the reality of the rope does not follow from its persistence, bu
 
 <details><summary>मूलम्</summary>
 
-रज्ज्वादेरपि पारमार्थ्यं नानुवर्तमानतया, किंत्वबाधितत्वात्। 
+रज्ज्वादेरपि पारमार्थ्यं नानुवर्तमानतया, किन्त्वबाधितत्वात्। 
 </details>
 
 
@@ -3834,7 +3834,7 @@ This self-luminous consciousness, further, is eternal, for it is not capable of 
 
 <details><summary>मूलम्</summary>
 
-सेयं स्वयंप्रकाशाऽनुभूतिर्नित्या च, प्रागभावाद्यभावात्। 
+सेयं स्वयम्प्रकाशाऽनुभूतिर्नित्या च, प्रागभावाद्यभावात्। 
 </details>
 
 
@@ -4215,7 +4215,7 @@ To be a 'knower' means to be the agent in the action of knowing;
 
 तच् च +++(कर्तृत्वं)+++ विक्रियात्मकं, जडं, विकारि-द्रव्याहङ्-कार-ग्रन्थि-स्थम्  
 अविक्रिये साक्षिणि चिन्-मात्रात्मनि  
-कथम् इव संभवति? 
+कथम् इव सम्भवति? 
 </details>
 
 <details><summary>English</summary>
@@ -4225,7 +4225,7 @@ and this is something essentially changeful and non-intelligent (jaḍa), having
 
 <details><summary>मूलम्</summary>
 
-तच्च विक्रियात्मकं जडं विकारिद्रव्याहंकारग्रन्थिस्थमविक्रिये साक्षिणि चिन्मात्रात्मनि कथमिव संभवति। 
+तच्च विक्रियात्मकं जडं विकारिद्रव्याहङ्कारग्रन्थिस्थमविक्रिये साक्षिणि चिन्मात्रात्मनि कथमिव सम्भवति। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4264,7 +4264,7 @@ That the Self does not fall within the sphere (is not an object of), the idea of
 
 <details><summary>मूलम्</summary>
 
-सुषुप्तिमूर्च्छादावहंप्रत्ययापायेऽपि आत्मानुभवदर्शनेन नाऽत्मनोऽहंप्रत्ययगोचरत्वम्। 
+सुषुप्तिमूर्च्छादावहम्प्रत्ययापायेऽपि आत्मानुभवदर्शनेन नाऽत्मनोऽहम्प्रत्ययगोचरत्वम्। 
 </details>
 
 #### कर्तृत्वे पराक्त्वादि
@@ -4282,7 +4282,7 @@ Moreover, if the Self were admitted to be an agent and an object of the idea of 
 
 <details><summary>मूलम्</summary>
 
-कर्तृत्वेऽहंप्रत्ययगोचरत्वे चाऽत्मनोऽभ्युपगम्यमाने देहस्येव जडत्वपराक्त्वानात्मत्वादिप्रसङ्गो दुष्परिहरः। 
+कर्तृत्वेऽहम्प्रत्ययगोचरत्वे चाऽत्मनोऽभ्युपगम्यमाने देहस्येव जडत्वपराक्त्वानात्मत्वादिप्रसङ्गो दुष्परिहरः। 
 </details>
 
 ##### देहभेदः
@@ -4300,7 +4300,7 @@ That from the body, which is the object of the idea of 'I,' and known to be an a
 
 <details><summary>मूलम्</summary>
 
-अहंप्रत्ययगोचरात् कर्तृतया प्रसिद्धाद्देहात्तत्क्रियाफलस्वर्गादेर्भोक्तुरात्मनोऽन्यत्वं प्रामाणिकानां प्रसिद्धमेव। 
+अहम्प्रत्ययगोचरात् कर्तृतया प्रसिद्धाद्देहात्तत्क्रियाफलस्वर्गादेर्भोक्तुरात्मनोऽन्यत्वं प्रामाणिकानां प्रसिद्धमेव। 
 </details>
 
 #### निगमनम्
@@ -4323,7 +4323,7 @@ analogously, therefore, we must admit that different from the knower whom we und
 </details>
 
 
-### अहंकाराभिव्यङ्ग्या दर्पणवत्
+### अहङ्काराभिव्यङ्ग्या दर्पणवत्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4340,7 +4340,7 @@ The non-intelligent ahaṁkāra thus merely serves to manifest the nature of non
 
 <details><summary>मूलम्</summary>
 
-एवमविक्रियानुभवस्वरूपस्यैवाभिव्यञ्जको जडोऽप्यहंकारस्स्वाश्रयतया तमभिव्यनक्ति । 
+एवमविक्रियानुभवस्वरूपस्यैवाभिव्यञ्जको जडोऽप्यहङ्कारस्स्वाश्रयतया तमभिव्यनक्ति । 
 </details>
 
 

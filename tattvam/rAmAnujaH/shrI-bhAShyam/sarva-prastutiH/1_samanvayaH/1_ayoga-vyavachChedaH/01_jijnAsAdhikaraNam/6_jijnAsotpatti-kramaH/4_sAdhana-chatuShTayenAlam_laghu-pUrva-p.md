@@ -174,7 +174,7 @@ for scripture declares that final release results from knowledge with works adde
 
 > वक्ष्यति च –  
 > 
->>  सर्वापेक्षा च यज्ञादि-श्रुतेर् अश्ववत्  
+>> सर्वापेक्षा च यज्ञादि-श्रुतेर् अश्ववत्  
 (ब्र.सू.३.४.२६) 
 > 
 > इति। 

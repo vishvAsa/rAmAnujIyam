@@ -913,7 +913,7 @@ But, a new objection is raised, the initial passage, I, 1, 20, 'That doubt which
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि  -  
+तथा हि -  
 
 पितुः सर्ववेद-स-दक्षिणा-क्रतु-समाप्ति-वेलायां  
 दीयमान-दक्षिणा-वैगुण्येन क्रतु-वैगुण्यं मन्यमानेन कुमारेण नचिकेतसा ऽऽस्तिकाग्रेसरेण  
@@ -1002,7 +1002,7 @@ The passage, therefore, is not concerned merely with the problem as to the separ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा - न +++(मोक्षं)+++ प्रेत्य संज्ञाऽस्ति (बृ.४.४.१२) इति ।
+यथा - न +++(मोक्षं)+++ प्रेत्य सञ्ज्ञाऽस्ति (बृ.४.४.१२) इति ।
 </details>
 
 <details><summary>English</summary>
@@ -1012,7 +1012,7 @@ The passage, therefore, is not concerned merely with the problem as to the separ
 
 <details><summary>मूलम्</summary>
 
-यथा न प्रेत्य संज्ञाऽस्ति (बृ.४.४.१२) इति।
+यथा न प्रेत्य सञ्ज्ञाऽस्ति (बृ.४.४.१२) इति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -162,7 +162,7 @@ that Brahman is different from the pradhāna and the individual souls.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदानीं आकाशादि-विशेषशब्दैर् निर्दिश्य  
+इदानीम् आकाशादि-विशेषशब्दैर् निर्दिश्य  
 जगत्-कारणत्व--जगद्-ऐश्वर्यादि-वादे ऽप्य्  
 आकाशादि-शब्दाभिधेयतया 
 </details>
@@ -176,7 +176,7 @@ in sections setting forth the creation and government of the world,
 
 <details><summary>मूलम्</summary>
 
-इदानीं आकाशादि-विशेषशब्दैः निर्दिश्य  
+इदानीम् आकाशादि-विशेषशब्दैः निर्दिश्य  
 जगत्कारणत्वजगदैश्वर्यादिवादे ऽप्य् आकाशादिशब्दाभिधेयतया 
 </details>
 
@@ -759,7 +759,7 @@ a gross material one, and a subtle one.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तत्राकाशस्य सूक्ष्मावस्था कारणम्  
+> तत्राकाशस्य सूक्ष्मावस्था कारणं  
 स्थूलावस्था तु कार्यम् । 
 </details>
 
@@ -772,7 +772,7 @@ in its gross state it is an effect of the primal cause;
 
 <details><summary>मूलम्</summary>
 
-तत्राकाशस्य सूक्ष्मावस्था कारणम् स्थूलावस्था तु कार्यम् । 
+तत्राकाशस्य सूक्ष्मावस्था कारणं स्थूलावस्था तु कार्यम् । 
 </details>
 
 
@@ -1050,7 +1050,7 @@ all other texts are to be interpreted in accordance herewith.
 
 <details><summary>मूलम्</summary>
 
-यदुक्तं जगत्कारणविशेषाकांक्षायामाकाशशब्देन विशेषसमर्पणादन्यत्सर्वं तदनुरूपमेव वर्णनीयमिति, तदयुक्तम्, 
+यदुक्तं जगत्कारणविशेषाकाङ्क्षायामाकाशशब्देन विशेषसमर्पणादन्यत्सर्वं तदनुरूपमेव वर्णनीयमिति, तदयुक्तम्, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1162,7 +1162,7 @@ and makes other things shine forth (ākāśayati).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च अनेनाकाश-शब्देन विशेष+++(-अर्थ)+++-समर्पण-क्षमेणापि  
-+++(कार्ये जगति)+++ चेतनांशं प्रत्य् अ-सम्भावित-कारण-भावं अ-चेतन-विशेषम् +++(खाख्यम्)+++ अभिदधानेन 
++++(कार्ये जगति)+++ चेतनांशं प्रत्य् अ-सम्भावित-कारण-भावम् अ-चेतन-विशेषम् +++(खाख्यम्)+++ अभिदधानेन 
 </details>
 
 <details><summary>English</summary>
@@ -1174,7 +1174,7 @@ but as it denotes a special non-intelligent thing which cannot be admitted as th
 
 <details><summary>मूलम्</summary>
 
-किञ्च अनेनाकाशशब्देन विशेषसमर्पणक्षमेणापि चेतनांशं प्रत्यसम्भावितकारणभावं अचेतनविशेषमभिदधानेन 
+किञ्च अनेनाकाशशब्देन विशेषसमर्पणक्षमेणापि चेतनांशं प्रत्यसम्भावितकारणभावम् अचेतनविशेषमभिदधानेन 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
