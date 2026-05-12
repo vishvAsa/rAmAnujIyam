@@ -4210,11 +4210,17 @@ To be a 'knower' means to be the agent in the action of knowing;
 ज्ञातृत्वं हि ज्ञानक्रियाकर्तृत्वम्। 
 </details>
 
-
+#### कर्तृत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच् च विक्रियात्मकं जडं विकारि-द्रव्याहङ्-कार-ग्रन्थि-स्थम्  
-अविक्रिये साक्षिणि चिन्-मात्रात्मनि कथम् इव संभवति। 
+तच् च +++(कर्तृत्वं)+++ विक्रियात्मकं, जडं, विकारि-द्रव्याहङ्-कार-ग्रन्थि-स्थम्  
+अविक्रिये साक्षिणि चिन्-मात्रात्मनि  
+कथम् इव संभवति? 
+</details>
+
+<details><summary>English</summary>
+
+and this is something essentially changeful and non-intelligent (jaḍa), having its abode in the ahaṁkāra, which is itself a thing subject to change. How, on the other hand, could such agency possibly belong to the changeless 'witness' (of all change, i.e. consciousness) whose nature is pure Being? 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4222,12 +4228,41 @@ To be a 'knower' means to be the agent in the action of knowing;
 तच्च विक्रियात्मकं जडं विकारिद्रव्याहंकारग्रन्थिस्थमविक्रिये साक्षिणि चिन्मात्रात्मनि कथमिव संभवति। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दृश्य्+++(←अनुभूत्य्)+++-अधीन-सिद्धित्वाद् एव  
+रूपादेर् इव कर्तृत्वादेर् नात्म-धर्मत्वम्।
+</details>
+
+<details><summary>English</summary>
+
+That agency cannot be an attribute of the Self  
+follows therefrom also that,  
+like colour and other qualities, agency depends, for its own proof, on seeing, i.e. consciousness.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 दृश्यधीनसिद्धित्वादेव रूपादेरिव कर्तृत्वादेर्नात्मधर्मत्वम्।
+</details>
 
 ## आत्मनः अहम्प्रत्ययागोचरता
 
-सुषुप्तिमूर्च्छादावहंप्रत्ययापायेऽपि आत्मानुभवदर्शनेन नाऽत्मनोऽहंप्रत्ययगोचरत्वम्। कर्तृत्वेऽहंप्रत्ययगोचरत्वे चाऽत्मनोऽभ्युपगम्यमाने देहस्येव जडत्वपराक्त्वानात्मत्वादिप्रसङ्गो दुष्परिहरः। अहंप्रत्ययगोचरात् कर्तृतया प्रसिद्धाद्देहात्तत्क्रियाफलस्वर्गादेर्भोक्तुरात्मनोऽन्यत्वं प्रामाणिकानां प्रसिद्धमेव। तथाऽहमर्थात् ज्ञातुरपि विलक्षणस्साक्षी प्रत्यागात्मेति प्रतिपत्तव्यम्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुषुप्ति-मूर्च्छादाव् अहं-प्रत्ययापायेऽपि  
+आत्मानुभव-दर्शनेन  
+नाऽत्मनो ऽहं-प्रत्यय-गोचरत्वम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुषुप्तिमूर्च्छादावहंप्रत्ययापायेऽपि आत्मानुभवदर्शनेन नाऽत्मनोऽहंप्रत्ययगोचरत्वम्। 
+</details>
+
+
+कर्तृत्वेऽहंप्रत्ययगोचरत्वे चाऽत्मनोऽभ्युपगम्यमाने देहस्येव जडत्वपराक्त्वानात्मत्वादिप्रसङ्गो दुष्परिहरः। अहंप्रत्ययगोचरात् कर्तृतया प्रसिद्धाद्देहात्तत्क्रियाफलस्वर्गादेर्भोक्तुरात्मनोऽन्यत्वं प्रामाणिकानां प्रसिद्धमेव। तथाऽहमर्थात् ज्ञातुरपि विलक्षणस्साक्षी प्रत्यागात्मेति प्रतिपत्तव्यम्।
 
 ## अनुभूतिः अहंकाराभिव्यङ्ग्या
 
