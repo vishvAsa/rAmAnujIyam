@@ -4084,13 +4084,146 @@ The conclusion is that consciousness is free from difference of any kind.
 </details>
 
 
-## संविदेव आत्मा
+## संविद् एवात्मा
 
-यतो निर्धूतनिखिलभेदा संवित् अत एव नास्यास्स्वरूपातिरिक्त आश्रयो ज्ञाता नाम कश्चिदस्तीति स्वप्रकाशरूपा सैवाऽत्मा, अजडत्वाच्च। अनात्मत्वव्याप्तं जडत्वं संविदि व्यावर्तमानमनात्मत्वमपि हि संविदो व्यावर्तयति।
+<details><summary>English</summary>
 
-## ज्ञातृत्वं नात्मार्थः
+The apparent difference between Consciousness and the conscious subject is due to the unreal ahaṁkāra.
+</details>
 
-ननु च – अहं जानामीति ज्ञातृता प्रतीतिसिद्धा। नैवम्; सा भ्रान्तिसिद्धा, रजततेव शुक्तिशकलस्य, अनुभूतेस्स्वात्मनि कर्तृत्वायोगात्। अतो मनुष्योऽहमित्यत्यन्तबहिर्भूतमनुष्यत्वादि-विशष्टपिण्डात्माभिमानवत् ज्ञातृत्वमप्यध्यस्तम्। ज्ञातृत्वं हि ज्ञानक्रियाकर्तृत्वम्। तच्च विक्रियात्मकं जडं विकारिद्रव्याहंकारग्रन्थिस्थमविक्रिये साक्षिणि चिन्मात्रात्मनि कथमिव संभवति। दृश्यधीनसिद्धित्वादेव रूपादेरिव कर्तृत्वादेर्नात्मधर्मत्वम्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतो निर्धूत-निखिल-भेदा संवित्,  
+अत एव नास्यास् स्व-रूपातिरिक्त आश्रयो ज्ञाता नाम कश्चिद् अस्तीति  
+स्व-प्रकाश-रूपा +++(संवित्→)+++ सैवाऽत्मा।  
+</details>
+
+<details><summary>English</summary>
+
+From this it further follows that there is no substrate of consciousness-- different from consciousness itself-- such as people ordinarily mean when speaking of a 'knower.' It is self-luminous consciousness itself which constitutes the so-called 'knower.'  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यतो निर्धूतनिखिलभेदा संवित् अत एव नास्यास्स्वरूपातिरिक्त आश्रयो ज्ञाता नाम कश्चिदस्तीति स्वप्रकाशरूपा सैवाऽत्मा। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(संविद आत्मत्वम्)+++ अ-जडत्वाच् च। 
+अन्-आत्मत्व-व्याप्तं जडत्वं  
+संविदि व्यावर्तमानम्,  
+अनात्मत्वम् अपि हि  
+संविदो व्यावर्तयति।
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+शुद्धसत्त्वं नात्र परिगणितम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+This follows therefrom also that consciousness is not non-intelligent (jaḍa); for non-intelligence invariably accompanies absence of Selfhood (anātmatva); hence, non-intelligence being absent in consciousness, consciousness is not non-Self, that means, it is the Self.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अजडत्वाच्च। 
+अनात्मत्वव्याप्तं जडत्वं संविदि व्यावर्तमानमनात्मत्वमपि हि संविदो व्यावर्तयति।
+</details>
+
+
+### ज्ञातृत्वं नात्मार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च – "अहं जानामी"ति ज्ञातृता प्रतीतिसिद्धा। 
+</details>
+
+<details><summary>English</summary>
+
+But, our adversary again objects, the consciousness which expresses itself in the judgment 'I know,' proves that the quality of being a 'knower' belongs to consciousness!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ननु च – अहं जानामीति ज्ञातृता प्रतीतिसिद्धा। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैवम्;  
+सा भ्रान्तिसिद्धा,  
+रजततेव शुक्ति-शकलस्य,  
+अनुभूतेस् स्वात्मनि कर्तृत्वायोगात्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+--By no means, we reply. The attribution to consciousness of this quality rests on error, no less than the attribution, to the shell, of the quality of being silver. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नैवम्; सा भ्रान्तिसिद्धा, रजततेव शुक्तिशकलस्य, अनुभूतेस्स्वात्मनि कर्तृत्वायोगात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो "मनुष्योऽहम्" इत्य्  
+अत्यन्त-बहिर्-भूत-मनुष्यत्वादि-विशष्ट-पिण्डात्माभिमानवत्  
+ज्ञातृत्वम् अप्य् अध्यस्तम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Consciousness cannot stand in the relation of an agent toward itself: the attribute of being a knowing agent is erroneously imputed to it--an error analogous to that expressed in the judgment 'I am a man,' which identifies the Self of a person with the outward aggregate of matter that bears the external characteristics of humanity. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो मनुष्योऽहमित्यत्यन्तबहिर्भूतमनुष्यत्वादि-विशष्टपिण्डात्माभिमानवत् ज्ञातृत्वमप्यध्यस्तम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञातृत्वं हि ज्ञान-क्रिया-कर्तृत्वम्। 
+</details>
+
+<details><summary>English</summary>
+
+To be a 'knower' means to be the agent in the action of knowing; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञातृत्वं हि ज्ञानक्रियाकर्तृत्वम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तच् च विक्रियात्मकं जडं विकारि-द्रव्याहङ्-कार-ग्रन्थि-स्थम्  
+अविक्रिये साक्षिणि चिन्-मात्रात्मनि कथम् इव संभवति। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच्च विक्रियात्मकं जडं विकारिद्रव्याहंकारग्रन्थिस्थमविक्रिये साक्षिणि चिन्मात्रात्मनि कथमिव संभवति। 
+</details>
+
+
+दृश्यधीनसिद्धित्वादेव रूपादेरिव कर्तृत्वादेर्नात्मधर्मत्वम्।
 
 ## आत्मनः अहम्प्रत्ययागोचरता
 
