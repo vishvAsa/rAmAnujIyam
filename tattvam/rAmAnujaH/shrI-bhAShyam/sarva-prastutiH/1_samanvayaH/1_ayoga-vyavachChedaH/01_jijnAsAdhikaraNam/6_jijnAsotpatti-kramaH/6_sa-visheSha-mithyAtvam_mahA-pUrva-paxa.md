@@ -2747,6 +2747,16 @@ We therefore have to enquire in what way,in the judgment 'here is a jar,' an ass
 प्रत्यक्ष-ज्ञानस्य चैक-क्षण-वर्तित्वात्। 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> एक-क्षण-वर्तित्वेऽपि  
+प्रत्यक्ष-ज्ञानस्य तस्मिन्न् एव क्षणे वस्तु-भेद-रूप-- तत्-संस्थान-रूप-गोत्वादेर् गृहीतत्वात्  
+क्षणान्तर-ग्राह्यं न किञ्चिद् इह तिष्ठति॥
+
+इति प्रतिवक्ष्यति। 
+</details>
+
+
 <details><summary>English</summary>
 
 These implied judgments cannot both be founded on perception, for they are the results of acts of cognition occupying different moments of time, while the perceptional cognition takes place in one moment (is instantaneous). 
@@ -2982,6 +2992,18 @@ For if it were that, we should have to assume that 'difference' possesses differ
 भेदे च तस्यापि भेदस् तद्-धर्मस्, तस्यापीत्य् अनवस्था। 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> संवेदनवद् रूपादिवच् च  
+परत्र +++(विषये विशेष्ये च)+++ व्यवहार-विशेष-हेतोस्  
+स्वस्मिन्न् +++(→संवेदन-रूपादाव्)+++ अपि तद्-व्यवहार-हेतुत्वं  
+युष्माभिर् अभ्युपेतं  
+भेदस्यापि सम्भवत्य् एव।
+
+इति प्रति-वक्ष्यते। 
+</details>
+
+
 <details><summary>English</summary>
 
 And this latter difference would have to be viewed as an attribute of the first difference, and this would lead us on to a third difference, and so in infinitum. 
@@ -2999,6 +3021,12 @@ And this latter difference would have to be viewed as an attribute of the first 
 किञ्च जात्य्-आदि-विशष्ट-वस्तु-ग्रहणे सति भेद-ग्रहणम्,  
 भेद-ग्रहणे सति जात्य्-आदि-विशिष्ट-वस्तु-ग्रहणम् इत्य् अन्योऽन्याश्रयणम्। 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+जात्य्-आदिवद् भेदोऽपि विशेषो नास्तीति कथम्?
+</details>
+
 
 <details><summary>English</summary>
 
