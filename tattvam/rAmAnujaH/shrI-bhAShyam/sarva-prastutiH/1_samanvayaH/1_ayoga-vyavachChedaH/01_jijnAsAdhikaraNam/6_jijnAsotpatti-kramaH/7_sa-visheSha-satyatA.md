@@ -947,11 +947,103 @@ the one namely – admitted by every one – which is expressed in the judgment 
 
 ### नानुमानात्
 
-अतः प्रत्यक्षस्य सविशेषविषयत्वेन प्रत्यक्षादिदृष्टसम्बन्धविशिष्टविषयत्वादनुमानमपि सविशेषविषयमेव। प्रमाणसङ्ख्याविवादेऽपि सर्वाभ्युपगतप्रमाणानामयमेव विषय इति न केनापि प्रमाणेन निर्विशेषवस्तुसिद्धिः। वस्तुगतस्वभावविशेषैस्तदेव वस्तु निर्विशेषमिति वदन् जननीवन्ध्यात्वप्रतिज्ञायामिव स्ववाग्विरोधमपि न जानाति।
+<details><summary>English</summary>
 
-## प्रत्यक्षस्य सन्मात्रग्राहिता निर्युक्तिकी
+Inference also teaches difference.
+</details>
 
-यत्तु प्रत्यक्षं सन्मात्रग्राहित्वेन न भेदिवषयम्, भेदश्च विकल्पासहत्वाद्दुर्निरूपः – इत्युक्तम्, तदपि जात्यादिविशष्टस्यैव वस्तुनः प्रत्यक्षविषयत्वाज्जात्यादेरेव प्रतियोग्यपेक्षया वस्तुनस्स्वस्य च भेदव्यवहारहेतुत्वाच्च दूरोत्सारितम्। संवेदनवद्रूपादिवच्च परत्र व्यवहारविशेषहेतोस्स्वस्मिन्नपि तद्व्यवहारहेतुत्वं युष्माभिरभ्युपेतं भेदस्यापि सम्भवत्येव।
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः प्रत्यक्षस्य स-विशेष-विषयत्वेन  
+प्रत्यक्षादि-दृष्ट--सम्बन्ध-विशिष्ट-विषयत्वाद्  
+अनुमानम् अपि सविशेषविषयमेव। 
+</details>
+
+<details><summary>English</summary>
+
+Perception thus having for its object only what is marked by difference, inference also is in the same case; for its object is only what is distinguished by connexion with things known through perception and other means of knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतः प्रत्यक्षस्य सविशेषविषयत्वेन प्रत्यक्षादिदृष्टसम्बन्धविशिष्टविषयत्वादनुमानमपि सविशेषविषयमेव। 
+</details>
+
+#### सर्व-प्रमाण-सविशेष-विषयता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रमाण-सङ्ख्या-विवादे ऽपि  
+सर्वाभ्युपगत-प्रमाणानाम् अयम् एव विषय इति  
+न केनापि प्रमाणेन निर्विशेष-वस्तु-सिद्धिः। 
+</details>
+
+<details><summary>English</summary>
+
+And thus, even in the case of disagreement as to the number of the different instruments of knowledge, a thing devoid of difference could not be established by any of them since the instruments of knowledge acknowledged by all have only one and the same object, viz. what is marked by difference. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रमाणसङ्ख्याविवादेऽपि सर्वाभ्युपगतप्रमाणानामयमेव विषय इति न केनापि प्रमाणेन निर्विशेषवस्तुसिद्धिः। 
+</details>
+
+#### न वस्तु-गत-विशेषैः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वस्तु-गत--स्व-भाव--विशेषैस्  
+तद् एव वस्तु निर्विशेषम् 
+
+इति वदन्  
+जननी-वन्ध्यात्व-प्रतिज्ञायाम् इव  
+स्व-वाग्-विरोधम् अपि न जानाति।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+And a person who maintains the existence of a thing devoid of difference on the ground of differences affecting that very thing simply contradicts himself without knowing what he does; he is in fact no better than a man who asserts that his own mother never had any children.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वस्तुगतस्वभावविशेषैस्तदेव वस्तु निर्विशेषमिति वदन् जननीवन्ध्यात्वप्रतिज्ञायामिव स्ववाग्विरोधमपि न जानाति।
+</details>
+
+
+### प्रत्यक्षस्य सन्-मात्र-ग्राहिता निर्युक्तिकी
+
+<details><summary>English</summary>
+
+Perception does not reveal mere being.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु 
+
+> प्रत्यक्षं सन्-मात्र-ग्राहित्वेन  
+न भेद-विषयम्,  
+भेदश् च विकल्पासहत्वाद् दुर्निरूपः 
+
+\– इत्युक्तम्, 
+</details>
+
+<details><summary>English</summary>
+
+In reply to the assertion that perception causes the apprehension of pure Being only, and therefore cannot have difference for its object; and that 'difference' cannot be defined because it does not admit of being set forth in definite alternatives; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्तु प्रत्यक्षं सन्मात्रग्राहित्वेन न भेदविषयम्, भेदश्च विकल्पासहत्वाद्दुर्निरूपः – इत्युक्तम्, 
+</details>
+
+
+तदपि जात्यादिविशष्टस्यैव वस्तुनः प्रत्यक्षविषयत्वाज्जात्यादेरेव प्रतियोग्यपेक्षया वस्तुनस्स्वस्य च भेदव्यवहारहेतुत्वाच्च दूरोत्सारितम्। संवेदनवद्रूपादिवच्च परत्र व्यवहारविशेषहेतोस्स्वस्मिन्नपि तद्व्यवहारहेतुत्वं युष्माभिरभ्युपेतं भेदस्यापि सम्भवत्येव।
 
 अत एव च नानवस्थाऽन्योन्याश्रयणं च। एकक्षणवर्तित्वेऽपि प्रत्यक्षज्ञानस्य तस्मिन्नेव क्षणे वस्तुभेदरूपतत्संस्थानरूपगोत्वादेर्गृहीतत्वात् क्षणान्तरग्राह्यं न किञ्चिदिह तिष्ठति॥
 
