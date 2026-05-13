@@ -1201,17 +1201,185 @@ And further, if the cognition of a horse and that of an elephant had one object 
 </details>
 
 
-## सन्मात्रग्रहणे प्रतीत्यवान्तरजातिविरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रतिसंवेदनं विशेषाभ्युपगमे प्रत्यक्षस्य विशिष्टार्थविषयत्वमेवाभ्युपगतं भवति। सर्वेषां संवेदनानामेकविषयतायामेकेनैव संवेदनेन अशेषग्रहणादन्धबधिराद्यभावश्च प्रसज्येत।
+प्रतिसंवेदनं विशेषाभ्युपगमे  
+प्रत्यक्षस्य विशिष्टार्थ-विषयत्वम् एवाभ्युपगतं भवति। 
+</details>
 
-## करणव्यवस्थार्थं विषयभेदोपपादनम्
+<details><summary>English</summary>
 
-न च चक्षुषा सन्मात्रं गृह्यते, तस्य रूपरूपिरूपैकार्थ- समवेतपदार्थग्राहित्वात्। नापि त्वचा, स्पर्शवद्वस्तुविषयत्वात्। श्रोत्रादीन्यपि न सन्मात्रविषयाणि; किन्तु शब्दरसगन्धलक्षणविशेष-विषयाण्येव। अतस्सन्मात्रस्य ग्राहकं न किञ्चिदिह दृश्यते ॥
+If on the other hand a difference is admitted for each state of consciousness, we admit thereby that perception has for its objects things affected with difference.
+</details>
 
-## सन्मात्रग्राहित्वे शास्त्रानुत्थानम्
 
-निर्विशेषसन्मात्रस्य च प्रत्यक्षेणैव ग्रहणे तद्विषयागमस्य प्राप्तविषयत्वेनानुवादकत्वमेव स्यात्। सन्मात्रब्रह्मणः प्रमेयभावश्च। ततो जडत्वनाशित्वादयस्त्वयैवोक्ताः। अतो वस्तुसंस्थानरूपजात्यादिलक्षणभेदविशष्टमेव प्रत्यक्षम् ॥
+<details><summary>मूलम्</summary>
+
+प्रतिसंवेदनं विशेषाभ्युपगमे प्रत्यक्षस्य विशिष्टार्थविषयत्वमेवाभ्युपगतं भवति। 
+</details>
+
+##### इन्द्रिय-भेदः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वेषां संवेदनानाम् एक-विषयतायाम्  
+एकेनैव संवेदनेनाशेष-ग्रहणाद्  
+अन्ध-बधिराद्य्-अभावश् च प्रसज्येत।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If all acts of cognition had one and the same object only, everything would be apprehended by one act of cognition; and from this it would follow that there are no persons either deaf or blind!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वेषां संवेदनानामेकविषयतायामेकेनैव संवेदनेन अशेषग्रहणादन्धबधिराद्यभावश्च प्रसज्येत।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च चक्षुषा सन्-मात्रं गृह्यते,  
+तस्य रूप-रूपि--रूपैकार्थ- समवेत-पदार्थ--ग्राहित्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+Nor does, as a matter of fact, the eye apprehend mere Being only;  
+for what it does apprehend is colour and the coloured thing, and those other qualities (viz. extension, &c.), which inhere in the thing together with colour. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च चक्षुषा सन्मात्रं गृह्यते, तस्य रूपरूपिरूपैकार्थ- समवेतपदार्थग्राहित्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि त्वचा, स्पर्शवद् वस्तु-विषयत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+Nor does feeling do so; for it has for its objects things palpable. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि त्वचा, स्पर्शवद्वस्तुविषयत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रोत्रादीन्य् अपि न सन्-मात्र-विषयाणि;  
+किन्तु शब्द-रस-गन्ध-लक्षण-- विशेष-विषयाण्य् एव। 
+</details>
+
+<details><summary>English</summary>
+
+Nor have the ear and the other senses mere Being for their object; but they relate to what is distinguished by a special sound or taste or smell. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रोत्रादीन्यपि न सन्मात्रविषयाणि; किन्तु शब्दरसगन्धलक्षणविशेष-विषयाण्येव। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् सन्-मात्रस्य ग्राहकं न किञ्चिदिह दृश्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+Hence there is not any source of knowledge causing us to apprehend mere Being. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्सन्मात्रस्य ग्राहकं न किञ्चिदिह दृश्यते ॥
+</details>
+
+
+#### शास्त्रानुत्थान-प्रसङ्गः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्विशेष--सन्-मात्रस्य च प्रत्यक्षेणैव ग्रहणे  
+तद्-विषयागमस्य प्राप्त-विषयत्वेन  
+अनुवादकत्वम् एव स्यात्। 
+</details>
+
+<details><summary>English</summary>
+
+If moreover the senses had for their object mere Being free from all difference, it would follow that Scripture which has the same object would (not be originative of knowledge but) perform the function of a mere anuvāda, i.e. it would merely make statements about something, the knowledge of which is already established by some other means. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निर्विशेषसन्मात्रस्य च प्रत्यक्षेणैव ग्रहणे तद्विषयागमस्य प्राप्तविषयत्वेनानुवादकत्वमेव स्यात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सन्-मात्र-ब्रह्मणः प्रमेय-भावश् च। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+And further, according to your own doctrine, mere Being, i.e. Brahman, would hold the position of an object with regard to the instruments of knowledge; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सन्मात्रब्रह्मणः प्रमेयभावश्च। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततो जडत्व-नाशित्वादयस् त्वयैवोक्ताः। 
+</details>
+
+<details><summary>English</summary>
+
+and thus there would cling to it all the imperfections indicated by yourself – non-intelligent nature, perishableness and so on.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततो जडत्वनाशित्वादयस्त्वयैवोक्ताः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो वस्तु-संस्थान-रूप-- जात्य्-आदि-लक्षण-भेद-विशष्टम् एव प्रत्यक्षम् ॥
+</details>
+
+<details><summary>English</summary>
+
+--From all this we conclude that perception has for its object only what is distinguished by difference manifesting itself in generic character and so on, which constitute the make or structure of a thing. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो वस्तुसंस्थानरूपजात्यादिलक्षणभेदविशष्टमेव प्रत्यक्षम् ॥
+</details>
+
 
 ## संस्थानमेव जातिः भेदश्च
 
