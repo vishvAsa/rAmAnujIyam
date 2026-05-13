@@ -520,7 +520,7 @@ but such things as sons and the like which are objects of desire.
 > इति पुत्रादय एव कामाः प्रकृताः ।
 
 </details>
- 
+  
 
 
 ### पूर्वपक्षार्थ-निगमनम्
@@ -649,7 +649,7 @@ on account of the true nature (of the soul) not being fully manifested.
 
 <details><summary>Thibaut</summary>
 
-The things appearing in dreams-chariots, lotus tanks, and so on--are absolute Māyā, i.e. things created by the Supreme Person. 
+The things appearing in dreams-chariots, lotus tanks, and so on – are absolute Māyā, i.e. things created by the Supreme Person. 
 </details>
 
 
@@ -753,7 +753,7 @@ there are no chariots and horses to be perceived by any other person but the dre
 तथा सति तद्-वैजात्यम्  
 अर्थ-वशात् सकलेतरान् अनुभाव्यत्व--तत्-काल--मात्रावस्थायित्व-रूपम् इति **माया**-शब्दो व्याख्यातः।  
 </details>
- 
+  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -812,7 +812,7 @@ but as in the Saṁsāra state the true nature of the soul is not fully manifest
 तेन सह प्रतिज्ञा-खण्डार्थम् आह - एवंविधेति ।  
 हेतु-खण्डं व्याचष्टे - तस्येति ।  
 </details>
- 
+  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -970,7 +970,7 @@ also be understood as declaring that it is the Supreme Person only that creates 
 
 तया श्रुत्यैकार्थ्यात् परम-पुरुषम् एव कर्तारम् आह ॥३॥
 </details>
- 
+  
 
 
 ## जीवस्वभावगतस्य धर्मस्यापि अनाविर्भावे हेतुः
@@ -1174,7 +1174,7 @@ the bondage and release of the soul result from the wish of the Supreme Person o
 
 > एष ह्य् एवानन्दयाति (तै.आन.७.२)
 </details>
- 
+  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1396,7 +1396,7 @@ can apply to the Supreme Person only.
 <details><summary>Thibaut</summary>
 
 The things seen by an individual soul in its dreams therefore are specially created by the Supreme Person,  
-and are meant by him to be a retribution--whether reward or punishment--for deeds of minor importance:  
+and are meant by him to be a retribution – whether reward or punishment – for deeds of minor importance:  
 they therefore last for the time of the dream only,  
 and are perceived by that one soul only.
 </details>

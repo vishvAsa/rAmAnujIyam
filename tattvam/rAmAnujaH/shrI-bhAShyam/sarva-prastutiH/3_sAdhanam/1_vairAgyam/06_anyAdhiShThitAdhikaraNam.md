@@ -212,7 +212,7 @@ But in the text under discussion there is no such reference to karman.
 
 <details><summary>English</summary>
 
-For those works--viz. sacrifices and the like--which were undertaken with a view to reward, such as enjoyment of the heavenly world, are, in the case of the descending souls, completely wiped out by the enjoyment of the heavenly world (which precedes the descent of the souls); 
+For those works – viz. sacrifices and the like – which were undertaken with a view to reward, such as enjoyment of the heavenly world, are, in the case of the descending souls, completely wiped out by the enjoyment of the heavenly world (which precedes the descent of the souls); 
 </details>
 
 
@@ -515,7 +515,7 @@ This applies to the killing of the goat also which is offered to Agnīshomau; ma
 
 <details><summary>English</summary>
 
-The case in no way differs from that of harm done in ordinary life--where the agent always is prompted by natural desire, having somehow arrived at the conclusion that his action will accomplish something aimed at by himself. 
+The case in no way differs from that of harm done in ordinary life – where the agent always is prompted by natural desire, having somehow arrived at the conclusion that his action will accomplish something aimed at by himself. 
 </details>
 
 
@@ -635,26 +635,26 @@ From all this it follows that the souls embody themselves in plants to the end o
 
 इति चेत् –
 तन् न, कुतः?  
-शब्दात् – अग्नीषोमीयादेस् संज्ञपनस्य   
+शब्दात् – अग्नीषोमीयादेस् सञ्ज्ञपनस्य   
 स्वर्ग-लोक-प्राप्ति-हेतुतया हिंसात्वाभाव-शब्दात्। 
 </details>
 
 <details><summary>English</summary>
 
---To this the Sūtra replies--it is not so, on account of scriptural statement. For Scripture declares that the killing of sacrificial animals makes them to go up to the heavenly world, and therefore is not of the nature of harm. 
+--To this the Sūtra replies – it is not so, on account of scriptural statement. For Scripture declares that the killing of sacrificial animals makes them to go up to the heavenly world, and therefore is not of the nature of harm. 
 </details>
 
 
 <details><summary>मूलम्</summary>
 
 इति चेत् –
-तन्न, कुतः? शब्दात् – अग्नीषोमीयादेस्संज्ञपनस्य स्वर्गलोकप्राप्तिहेतुतया हिंसात्वाभावशब्दात्। 
+तन्न, कुतः? शब्दात् – अग्नीषोमीयादेस्सञ्ज्ञपनस्य स्वर्गलोकप्राप्तिहेतुतया हिंसात्वाभावशब्दात्। 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पशोर् हि संज्ञपन-निमित्तां स्वर्ग-लोक-प्राप्तिं वदन्तं शब्दम् आमनन्ति,  
+पशोर् हि सञ्ज्ञपन-निमित्तां स्वर्ग-लोक-प्राप्तिं वदन्तं शब्दम् आमनन्ति,  
 
 > हिरण्य-शरीर ऊर्ध्वः स्वर्गं लोकम् एति 
 
@@ -669,7 +669,7 @@ This is declared in the text, 'The animal killed at the sacrifice having assumed
 
 <details><summary>मूलम्</summary>
 
-पशोर्हि संज्ञपननिमित्तां स्वर्गलोकप्राप्तिं वदन्तं शब्दमामनन्ति, हिरण्यशरीर ऊर्ध्वः स्वर्गं लोकमेति इत्यादिकम् ।
+पशोर्हि सञ्ज्ञपननिमित्तां स्वर्गलोकप्राप्तिं वदन्तं शब्दमामनन्ति, हिरण्यशरीर ऊर्ध्वः स्वर्गं लोकमेति इत्यादिकम् ।
 </details>
 
 

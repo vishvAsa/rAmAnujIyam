@@ -13,7 +13,7 @@ title = "५ जिज्ञासा"
 <details><summary>Thibaut</summary>
 
 The word 'jijñāsā' is a desiderative formation meaning 'desire to know.'  
-And as in the case of any desire the desired object is the chief thing, the Sūtra means to enjoin knowledge--which is the object of the desire of knowledge.  
+And as in the case of any desire the desired object is the chief thing, the Sūtra means to enjoin knowledge – which is the object of the desire of knowledge.  
 
 </details>
 
@@ -99,7 +99,7 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 
 <details><summary>वीरराघवः</summary>
 
-शाब्दस्यासंभवं शंकते - जिज्ञासाया इति ।  
+शाब्दस्यासम्भवं शङ्कते - जिज्ञासाया इति ।  
 "सविशेषणे ही"ति न्यायोऽत्र भाव्यः +++(=??)+++। 
 </details>
 
@@ -116,7 +116,7 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 तयोर् अप्राप्तत्वात्,  
 "अप्राप्ते हि शास्त्रम् अर्थवत्";+++(5)+++  
 तत्र भोजनं चान्यतः प्राप्तम् अनूद्यते -  
-एवम् इच्छाया विधेयत्वासंभवात्  
+एवम् इच्छाया विधेयत्वासम्भवात्  
 तद्-विषय-भूतं विचारात्मकं ज्ञानम् एव तात्पर्यतो विधीयते । 
 
 "इष्यमाणं ज्ञानम् इहाभिप्रेतम्"  
@@ -164,7 +164,7 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 
 > 'निर्णयश्च विचार-साध्य  
 इति तत्-कर्तव्यताऽर्थाद् गम्यते ।  
-आर्थिके चास्मिन्नर्थे  कर्तव्य-पदाध्याहारः ।  
+आर्थिके चास्मिन्नर्थे कर्तव्य-पदाध्याहारः ।  
 श्रौतस् तु ब्रह्मज्ञानेच्छा भवितुं युक्तेत्येष एव' 
 
 इति च कल्पतरुः । 
@@ -175,7 +175,7 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 > 
 >> 'अवगति-पर्यन्तं ज्ञानं सन्-वाच्याया इच्छायाः कर्म' 
 >
-> इति निर्णयोपधायक-ज्ञानार्थकत्वस्य शांकर-भाष्य-स्व-रस-लब्धत्वात्' 
+> इति निर्णयोपधायक-ज्ञानार्थकत्वस्य शाङ्कर-भाष्य-स्व-रस-लब्धत्वात्' 
 
 इति सूच्यते । 
 </details>
@@ -225,7 +225,7 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 न ह्य् एकस्य प्रबन्धस्यैकदेशे निरूपिते  
 तद्-एकदेशान्तर-निरूपणस्य प्रबन्धान्तर-प्रमेय-निरास-सापेक्षता भवति ।  
 न हि पूर्वषट्के निरूपिते सति  
-उत्तरषट्कनिरूपणं  कपिल-सुगतादि-मत-व्युदसनेन विना न संभवति ।  
+उत्तरषट्कनिरूपणं कपिल-सुगतादि-मत-व्युदसनेन विना न सम्भवति ।  
 
 यदि 
 
@@ -242,10 +242,10 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 न द्वितीयः  
 वेद-विरुद्ध-स्मृतीनाम् अ-प्रामाण्यस्य  
 पूर्व-मीमांसायाम् एव समर्थितत्वात् ;  
-सांख्य सौगताद्य् अभिमत-प्रमेय-दौस्थ्यस्य  
+साङ्ख्य सौगताद्य् अभिमत-प्रमेय-दौस्थ्यस्य  
 तर्क-पादे प्रतिपादयिष्यमाणत्वात् । 
 
-“विप्रतिषेधाच् चासमञ्जसम् ",  "इतरेषां चानुपलब्धेः ",  
+“विप्रतिषेधाच् चासमञ्जसम् ", "इतरेषां चानुपलब्धेः ",  
 "एतेन योगः प्रत्युक्तः ",  
 "उदासीनानामपि चैत्रं सिद्धिः ", "अन्त्यावस्थितेश् चोभयनित्यत्वाद् अविशेषः "  
 इत्यादिभिः सूत्रैस्  
@@ -258,15 +258,15 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 इति शास्त्रान्ते च,  
 
 > "सूत्राभ्यास-फलम् अनुक्तांश-ज्ञापनम् ;  
-अनुक्तांशश्च सांख्य-योगावगम्यः " 
+अनुक्तांशश्च साङ्ख्य-योगावगम्यः " 
 
 इति वदताम्,  
-मोक्षस्य सांख्य-योग-समुच्चय-सापेक्षत्वं च प्रतिपादयतां  
-सौगतादिवत् सांख्यादि-निरासेन  
+मोक्षस्य साङ्ख्य-योग-समुच्चय-सापेक्षत्वं च प्रतिपादयतां  
+सौगतादिवत् साङ्ख्यादि-निरासेन  
 शारीरकस्यैवारम्भणीयत्व-प्रतिज्ञानम्  
 अतीव व्याहतम् ॥ 
 
-> सांख्य-योगयोर् विरुद्धांशाभिप्रायम् अनादरणीयत्व-कथनम् 
+> साङ्ख्य-योगयोर् विरुद्धांशाभिप्रायम् अनादरणीयत्व-कथनम् 
 
 इति चेन् न ;  
 विरुद्धांशानादरणीयत्वस्य विरोधाधिकरण-न्याय-सिद्धत्वादेव ।  
@@ -282,7 +282,7 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 रागतः प्रवृत्तेर् वक्ष्यमाणत्वात् । 
 
 रागतः प्रवृत्तस्यापि  
-पूर्व-पक्ष-युक्त्या ऽनारम्भणीयता-बुद्धौ सत्याम् आरम्भणीयत्व-ज्ञापनं ।  
+पूर्व-पक्ष-युक्त्या ऽनारम्भणीयता-बुद्धौ सत्याम् आरम्भणीयत्व-ज्ञापनम् ।  
 
 <details><summary>वीरराघवः</summary>
 
@@ -293,7 +293,7 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 
 इत्यत्र विवक्षितम् आह  
 आरम्भणीयत्व-ज्ञापनम् इति ।   
-एतद्-भाष्य-संदर्भ-व्याख्यान-रीत्य्-अन्तरं भाष्यार्थ-दर्पणे द्रष्टव्यम् । 
+एतद्-भाष्य-सन्दर्भ-व्याख्यान-रीत्य्-अन्तरं भाष्यार्थ-दर्पणे द्रष्टव्यम् । 
 </details>
 
 हि अज्ञात-ज्ञापनम् ।  
@@ -315,13 +315,13 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 
 <details><summary>Thibaut</summary>
 
-The purport of the entire Sūtra then is as follows: 'Since the fruit of works known through the earlier part of the Mīmāṁsā is limited and non-permanent, and since the fruit of the knowledge of Brahman--which knowledge is to be reached through the latter part of the Mīmāṁsā--is unlimited and permanent; for this reason Brahman is to be known, after the knowledge of works has previously taken place.'--
+The purport of the entire Sūtra then is as follows: 'Since the fruit of works known through the earlier part of the Mīmāṁsā is limited and non-permanent, and since the fruit of the knowledge of Brahman – which knowledge is to be reached through the latter part of the Mīmāṁsā--is unlimited and permanent; for this reason Brahman is to be known, after the knowledge of works has previously taken place.'--
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-मीमांसा-पूर्वभागज्ञातस्य कर्मणोऽल्पास्थिरफलत्वादुपरितनभागावसेयस्य ब्रह्मज्ञानस्यानन्ताक्षयफलत्वाच्च, पूर्ववृत्ता-त्कर्मज्ञानादनन्तरं तत एव हेतोर्ब्रह्म ज्ञातव्यमित्युक्तंभवति ।  
+मीमांसा-पूर्वभागज्ञातस्य कर्मणोऽल्पास्थिरफलत्वादुपरितनभागावसेयस्य ब्रह्मज्ञानस्यानन्ताक्षयफलत्वाच्च, पूर्ववृत्ता-त्कर्मज्ञानादनन्तरं तत एव हेतोर्ब्रह्म ज्ञातव्यमित्युक्तम्भवति ।  
 </details>
 
 <details><summary>श्रुत-प्रदीपिका</summary>
@@ -341,7 +341,7 @@ The purport of the entire Sūtra then is as follows: 'Since the fruit of works k
 
 इति **अथात** शब्दार्थ उक्तः ।  
 ब्रह्म ज्ञातव्यम् इति ब्रह्मजिज्ञासापदार्थः ।  
-ज्ञातव्यम् विचारयोग्यम् । 
+ज्ञातव्यं विचारयोग्यम् । 
 
 तत एवेत्य् एव-कारेण शास्त्रान्तराधिगम-नैरपेक्ष्यम् अथ-शब्द-फलितम् अभिप्रेतम् ।  
 
@@ -355,7 +355,7 @@ The purport of the entire Sūtra then is as follows: 'Since the fruit of works k
 अद्वैतिनः, अथेत्यनेन यद् आनन्तर्यम् उच्यते,  
 तस्यैव हेतुत्वम् अतःशब्देनोच्यते  
 इति स्वरसप्रतीतं परित्यज्य,  
-अथ = साधन-चतुष्टय-संपत्त्यनन्तरम्  
+अथ = साधन-चतुष्टय-सम्पत्त्यनन्तरम्  
 अतः = वेदेनैव कर्मणाम् अनित्य-फलकत्व-बोधनाद्  
 इत्य् अर्थं वर्णयन्ति,  
 तत्-खण्डनमप्य् एवकारेणेति ध्येयम् ।  
@@ -384,7 +384,7 @@ The purport of the entire Sūtra then is as follows: 'Since the fruit of works k
 पद-योजनायाम् ' अधीत-साङ्ग-सशिरस्क-वेदस्य' इति व्याख्येयस्य  
 नियत-पौर्वापर्य-भाग-द्वय-रूपत्वम् उक्तम् ।  
 अत्र तु वाक्य-योजनायां व्याख्यानस्य नियत-पौर्वापर्य-भाग-द्वय-रूपतयैकशास्त्र्यम् उक्तम् ।  
-उभयत्रोभयम् अनुसंधेयम् ।  
+उभयत्रोभयम् अनुसन्धेयम् ।  
 
 **भाग**-शब्दाभ्यां मीमांसा-द्वयस्य  
 एकावयवित्वं सूचितम् । 

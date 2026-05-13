@@ -232,7 +232,7 @@ and their thus being enjoined for a double purpose does not imply contradiction 
 
 <details><summary>English</summary>
 
---Nor does this imply a difference of works--this the next Sūtra declares.
+--Nor does this imply a difference of works – this the next Sūtra declares.
 </details>
 
 

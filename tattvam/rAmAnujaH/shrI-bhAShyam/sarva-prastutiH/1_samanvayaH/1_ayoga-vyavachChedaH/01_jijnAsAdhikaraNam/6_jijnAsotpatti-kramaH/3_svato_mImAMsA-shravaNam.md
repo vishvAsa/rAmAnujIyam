@@ -27,18 +27,18 @@ It is further observed that the Veda thus apprehended through reading spontaneou
 कर्मणाम् अल्पास्थिर-फलत्वं दृष्ट्वा  
 अध्ययन-गृहीत-स्वाध्यायैक-देशोपनिषद्-वाक्येषु च  
 अ-मृतत्व--रूपानन्त-स्थिर-फलापात-प्रतीतेः  
-तन्-निर्णय-फल-- वेदान्त-वाक्य--विचार-रूप-- शारीरक-मीमांसायां अधिकरोति।
+तन्-निर्णय-फल-- वेदान्त-वाक्य--विचार-रूप-- शारीरक-मीमांसायाम् अधिकरोति।
 </details>
 
 <details><summary>English</summary>
 
-Through this study the student ascertains the character of the injunctions of work which form part of the Veda, and observes that all work leads only to non-permanent results; and as, on the other hand, he immediately becomes aware that the Upanishad sections--which form part of the Veda which he has apprehended through reading--refer to an infinite and permanent result, viz. immortality, he applies himself to the study of the Sārīraka-Mīmāṁsā, which consists in a systematic discussion of the Vedānta-texts, and has for its result the accurate determination of their sense. 
+Through this study the student ascertains the character of the injunctions of work which form part of the Veda, and observes that all work leads only to non-permanent results; and as, on the other hand, he immediately becomes aware that the Upanishad sections – which form part of the Veda which he has apprehended through reading – refer to an infinite and permanent result, viz. immortality, he applies himself to the study of the Sārīraka-Mīmāṁsā, which consists in a systematic discussion of the Vedānta-texts, and has for its result the accurate determination of their sense. 
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-तत्र कर्मविधिस्वरूपे निरूपिते कर्मणाम् अल्पास्थिरफलत्वं दृष्ट्वा अध्ययनगृहीतस्वाध्यायैकदेशोपनिषद्वाक्येषु चामृतत्वरूपानन्तस्थिर-फलापातप्रतीतेः तन्निर्णयफल-वेदान्तवाक्यविचाररूपशारीरक-मीमांसायां अधिकरोति।
+तत्र कर्मविधिस्वरूपे निरूपिते कर्मणाम् अल्पास्थिरफलत्वं दृष्ट्वा अध्ययनगृहीतस्वाध्यायैकदेशोपनिषद्वाक्येषु चामृतत्वरूपानन्तस्थिर-फलापातप्रतीतेः तन्निर्णयफल-वेदान्तवाक्यविचाररूपशारीरक-मीमांसायाम् अधिकरोति।
 </details>
 
 
@@ -275,7 +275,7 @@ pleased thereby he goes to immortality'
 
 <details><summary>English</summary>
 
-But--an objection here is raised--
+But – an objection here is raised--
 
 > the mere learning of the Veda with its auxiliary disciplines gives rise to the knowledge that the heavenly world and the like are the results of works, and that all such results are transitory, while immortality is the fruit of meditation on Brahman. Possessing such knowledge, a person desirous of final release may at once proceed to the enquiry into Brahman; and what need is there of a systematic consideration of religious duty (i.e. of the study of the Purva Mimāṁsā)? 
 </details>
@@ -294,7 +294,7 @@ But--an objection here is raised--
 
 <details><summary>English</summary>
 
---If this reasoning were valid, we reply, tin--person desirous of release need not even apply himself to the study of the Sārīraka Mīmāṁsā, since Brahman is known from the mere reading of the Veda with its auxiliary disciplines.
+--If this reasoning were valid, we reply, tin – person desirous of release need not even apply himself to the study of the Sārīraka Mīmāṁsā, since Brahman is known from the mere reading of the Veda with its auxiliary disciplines.
 </details>
 
 

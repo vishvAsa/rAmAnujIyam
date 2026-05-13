@@ -334,7 +334,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > **प्रत्यस्त-मित-भेदं** यत्  
 सत्ता-मात्रम्, अगोचरम् ।  
 वचसाम्, आत्म-संवेद्यं  
-तज् ज्ञानं **ब्रह्म-संज्ञितम्** ॥ ५३ ॥  
+तज् ज्ञानं **ब्रह्म-सञ्ज्ञितम्** ॥ ५३ ॥  
 (वि.पु.६.७.४३) 
 </details>
 
@@ -342,13 +342,13 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 
 --the following passages from the Vishṇu-purāṇa:
 
-> 'In which all difference vanishes, which is pure Being, which is not the object of words, which is known by the Self only--that knowledge is called Brahman' (VI, 7, 53); 
+> 'In which all difference vanishes, which is pure Being, which is not the object of words, which is known by the Self only – that knowledge is called Brahman' (VI, 7, 53); 
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-प्रत्यस्तमितभेदं यत्सत्तामात्रमगोचरम् । वचसामात्मसंवेद्यं तज्ज्ञानं ब्रह्म संज्ञितम्॥ (वि.पु.६.७.४३) 
+प्रत्यस्तमितभेदं यत्सत्तामात्रमगोचरम् । वचसामात्मसंवेद्यं तज्ज्ञानं ब्रह्म सञ्ज्ञितम्॥ (वि.पु.६.७.४३) 
 </details>
 
 
@@ -421,7 +421,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > ज्ञान--स्व-रूपम् अखिलं  
 जगद् एतद् अ-बुद्धयः।  
 अर्थ-स्वरूपं पश्यन्तो  
-भ्राम्यन्ते मोह-संप्लवे॥ 
+भ्राम्यन्ते मोह-सम्प्लवे॥ 
 </details>
 
 <details><summary>English</summary>
@@ -431,7 +431,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 
 <details><summary>मूलम्</summary>
 
-ज्ञानस्वरूपमखिलं जगदेतदबुद्धयः। अर्थस्वरूपं पश्यन्तो भ्राम्यन्ते मोहसंप्लवे॥ 
+ज्ञानस्वरूपमखिलं जगदेतदबुद्धयः। अर्थस्वरूपं पश्यन्तो भ्राम्यन्ते मोहसम्प्लवे॥ 
 </details>
 
 
@@ -498,9 +498,9 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > वेणु-रन्ध्र-विभेदेन  
-भेदष् षड्-जादि-संज्ञितः।  
+भेदष् षड्-जादि-सञ्ज्ञितः।  
 अभेद-व्यापिनो वायोस्  
-तथाऽसौ परमात्मनः॥  +++(5)+++  
+तथाऽसौ परमात्मनः॥ +++(5)+++  
 (वि.पु.२.१४.३२) 
 </details>
 
@@ -512,7 +512,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 
 <details><summary>मूलम्</summary>
 
-वेणुरन्ध्रविभेदेन भेदष्षड्जादिसंज्ञितः। अभेदव्यापिनो वायोस्तथाऽसौ परमात्मनः॥ (वि.पु.२.१४.३२) 
+वेणुरन्ध्रविभेदेन भेदष्षड्जादिसञ्ज्ञितः। अभेदव्यापिनो वायोस्तथाऽसौ परमात्मनः॥ (वि.पु.२.१४.३२) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -651,7 +651,7 @@ The appearance of plurality is due to avidyā.
 
 <details><summary>English</summary>
 
-'Falsehood' (mithyātva) belongs to what admits of being terminated by the cognition of the real thing--such cognition being preceded by conscious activity (not by mere absence of consciousness or knowledge). The snake, e.g. which has for its substrate a rope or the like is false; 
+'Falsehood' (mithyātva) belongs to what admits of being terminated by the cognition of the real thing – such cognition being preceded by conscious activity (not by mere absence of consciousness or knowledge). The snake, e.g. which has for its substrate a rope or the like is false; 
 </details>
 
 
@@ -908,7 +908,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 
 <details><summary>English</summary>
 
-> But when, on the cessation of all work, everything is only pure intelligence in its own proper form, without any imperfections; then no differences--the fruit of the tree of wishes--any longer exist between things. 
+> But when, on the cessation of all work, everything is only pure intelligence in its own proper form, without any imperfections; then no differences – the fruit of the tree of wishes – any longer exist between things. 
 </details>
 
 
@@ -948,7 +948,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 
 <details><summary>English</summary>
 
-> Intelligence pure, free from stain, free from grief, free from all contact with desire and other affections, everlastingly one is the highest Lord--Vāsudeva apart from whom nothing exists. 
+> Intelligence pure, free from stain, free from grief, free from all contact with desire and other affections, everlastingly one is the highest Lord – Vāsudeva apart from whom nothing exists. 
 </details>
 
 
@@ -968,7 +968,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 
 <details><summary>English</summary>
 
-I have thus declared to you the lasting truth of things--that intelligence only is true and everything else untrue. And that also which is the cause of ordinary worldly existence has been declared to you' (Vi. Pu. II, 12, 39, 40, 43-45).
+I have thus declared to you the lasting truth of things – that intelligence only is true and everything else untrue. And that also which is the cause of ordinary worldly existence has been declared to you' (Vi. Pu. II, 12, 39, 40, 43-45).
 </details>
 
 
@@ -1182,7 +1182,7 @@ analogously to the use of the term in the following words of Sanatsujāta,
 
 विज्ञानमानन्दं ब्रह्म (बृ.५.९.२८) 
 </details>
- 
+  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1191,7 +1191,7 @@ analogously to the use of the term in the following words of Sanatsujāta,
 
 <details><summary>English</summary>
 
-The knowledge again of the essential unity and non-difference of Brahman--which is ascertained from decisive texts such as (the above).
+The knowledge again of the essential unity and non-difference of Brahman – which is ascertained from decisive texts such as (the above).
 </details>
 
 
@@ -1347,7 +1347,7 @@ This the Sūtrakāra himself will declare 'But as the Self (scriptural texts) ac
 
 <details><summary>English</summary>
 
-Thus the Vākyakāra also, 'It is the Self--thus one should apprehend (everything), for everything is effected by that.' 
+Thus the Vākyakāra also, 'It is the Self – thus one should apprehend (everything), for everything is effected by that.' 
 </details>
 
 
@@ -1461,7 +1461,7 @@ But, an objection is raised--
 </details>
 <details><summary>English</summary>
 
-> If--as is to be expected--you reply that what makes the difference between the two is that one of them is due to a defective cause while the other is not:  
+> If – as is to be expected – you reply that what makes the difference between the two is that one of them is due to a defective cause while the other is not:  
 we point out that this distinction holds good also in the case of Scripture and perception being in conflict. 
 </details>
 
@@ -1499,7 +1499,7 @@ if that were the case, the perception which presents to us the flame of the lamp
 एवं च सति  
 
 > द्वयोः प्रमाणयोर् विरोधे  
-यत् संभाव्यमानान्यथा-सिद्धि, तद् बाध्यम्;  
+यत् सम्भाव्यमानान्यथा-सिद्धि, तद् बाध्यम्;  
 अन्-अन्यथा-सिद्धम् अनवकाशम् इतरद् बाधकम् –  
 
 इति सर्वत्र बाध्य-बाधक-भाव-निर्णयः –  
@@ -1522,7 +1522,7 @@ This is the principle on which the relation between 'what sublates' and 'what is
 
 <details><summary>मूलम्</summary>
 
-एवं च सति द्वयोः प्रमाणयोर्विरोधे यत्संभाव्यमानान्यथासिद्धि, तद्बाध्यम्; अनन्यथासिद्धमनवकाशम् इतरद्बाधकम् – इति सर्वत्र बाध्यबाधकभावनिर्णयः – इति ॥
+एवं च सति द्वयोः प्रमाणयोर्विरोधे यत्सम्भाव्यमानान्यथासिद्धि, तद्बाध्यम्; अनन्यथासिद्धमनवकाशम् इतरद्बाधकम् – इति सर्वत्र बाध्यबाधकभावनिर्णयः – इति ॥
 </details>
 
 
@@ -1535,7 +1535,7 @@ This is the principle on which the relation between 'what sublates' and 'what is
 
 <details><summary>English</summary>
 
-Now apprehension of Brahman--which is mere intelligence, eternal, pure, free, self-luminous--is effected by Scripture which rests on endless unbroken tradition, cannot therefore be suspected of any, even the least, imperfection, and hence cannot be non-authoritative;  
+Now apprehension of Brahman – which is mere intelligence, eternal, pure, free, self-luminous – is effected by Scripture which rests on endless unbroken tradition, cannot therefore be suspected of any, even the least, imperfection, and hence cannot be non-authoritative;  
 the state of bondage, on the other hand, with its manifold distinctions is proved by Perception, Inference, and so on,  
 which are capable of imperfections and therefore may be non-authoritative. 
 
@@ -1557,7 +1557,7 @@ It is therefore reasonable to conclude that the state of bondage is put an end t
 
 <details><summary>English</summary>
 
-And that imperfection of which Perception--through which we apprehend a world of manifold distinctions--may be assumed to be capable, is so-called Nescience, which consists in the beginningless wrong imagination of difference.
+And that imperfection of which Perception – through which we apprehend a world of manifold distinctions – may be assumed to be capable, is so-called Nescience, which consists in the beginningless wrong imagination of difference.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1799,7 +1799,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 
 <details><summary>English</summary>
 
---these and similar texts convey the notion of Brahman being changeless, eternal intelligence devoid of all difference; while the other texts--quoted before--teach the qualified Brahman. 
+--these and similar texts convey the notion of Brahman being changeless, eternal intelligence devoid of all difference; while the other texts – quoted before – teach the qualified Brahman. 
 </details>
 
 
@@ -1820,7 +1820,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 
 <details><summary>English</summary>
 
-And there being a conflict between the two sets of passages, we--according to the Mīmāṁsā principle referred to above--decide that the texts referring to Brahman as devoid of qualities are of greater force, because they are later in order [fn_5] than those which speak of Brahman as having qualities. Thus everything is settled.
+And there being a conflict between the two sets of passages, we – according to the Mīmāṁsā principle referred to above – decide that the texts referring to Brahman as devoid of qualities are of greater force, because they are later in order [fn_5] than those which speak of Brahman as having qualities. Thus everything is settled.
 
 [fn_5]: 27:1 The texts which deny all qualities of Brahman are later in order than the texts which refer to Brahman as qualified, because denial presupposes that which is to be denied.
 </details>
@@ -1848,7 +1848,7 @@ The text Taitt. Up. II, 1 refers to Brahman as devoid of qualities.
 
 <details><summary>English</summary>
 
-But--an objection is raised--
+But – an objection is raised--
 
 > even the passage 'The True, knowledge, infinite is Brahman' intimates certain qualities of Brahman, viz. true being, knowledge, infinity!--
 </details>
@@ -1987,7 +1987,7 @@ without being idle synonyms.
 
 एकत्व-तात्पर्य-निश्चयात्  
 एकस्यैवार्थस्य तत्-तत्-पदार्थ-विरोधि-- प्रत्यनीकत्व-परत्वेन  
-सर्व-पदानाम् अर्थवत्त्वम् एकार्थत्वं अपर्यायता च॥
+सर्व-पदानाम् अर्थवत्त्वम् एकार्थत्वम् अपर्यायता च॥
 </details>
 
 <details><summary>English</summary>
@@ -2000,7 +2000,7 @@ From the determination of the unity of purport of the whole sentence [fn_6] we c
 
 <details><summary>मूलम्</summary>
 
-एकत्वतात्पर्य-निश्चयात् एकस्यैवार्थस्य तत्तत्पदार्थविरोधि-प्रत्यनीकत्वपरत्वेन सर्वपदानामर्थवत्वमेकार्थत्त्वं अपर्यायता च॥
+एकत्वतात्पर्य-निश्चयात् एकस्यैवार्थस्य तत्तत्पदार्थविरोधि-प्रत्यनीकत्वपरत्वेन सर्वपदानामर्थवत्वमेकार्थत्त्वम् अपर्यायता च॥
 </details>
 
 
@@ -2176,7 +2176,7 @@ The text thus declares the one Brahman which is self-luminous and free from all 
 
 <details><summary>मूलम्</summary>
 
-तस्मादेकमेव ब्रह्म स्वयंज्योतिर्निर्धूतनिखिलविशेषमित्युक्तं भवति । 
+तस्मादेकमेव ब्रह्म स्वयञ्ज्योतिर्निर्धूतनिखिलविशेषमित्युक्तं भवति । 
 </details>
 
 
@@ -2472,7 +2472,7 @@ Is it then not observed, we reply, that (not even) _one_ word is to be taken in 
 
 <details><summary>English</summary>
 
-And if the purport of the sentence, which is nothing but an aggregate of words employed together, has once been ascertained, why should we not take two or three or all words in an implied sense--just as we had taken one--and thus make them fit in with the general purport? 
+And if the purport of the sentence, which is nothing but an aggregate of words employed together, has once been ascertained, why should we not take two or three or all words in an implied sense – just as we had taken one – and thus make them fit in with the general purport? 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2667,7 +2667,7 @@ since Perception itself gives rise to the apprehension of a non-differenced Brah
 
 <details><summary>English</summary>
 
-> But how can it be said that Perception, which has for its object things of various kinds--and accordingly expresses itself in judgments such as 'Here is a jar,' 'There is a piece of cloth'--causes the apprehension of mere Being? 
+> But how can it be said that Perception, which has for its object things of various kinds – and accordingly expresses itself in judgments such as 'Here is a jar,' 'There is a piece of cloth'--causes the apprehension of mere Being? 
 </details>
 
 
@@ -2685,7 +2685,7 @@ since Perception itself gives rise to the apprehension of a non-differenced Brah
 
 <details><summary>English</summary>
 
-If there were no apprehension of difference, all cognitions would have one and the same object, and therefore would give rise to one judgment only--as takes place when one unbroken perceptional cognition is continued for some time.
+If there were no apprehension of difference, all cognitions would have one and the same object, and therefore would give rise to one judgment only – as takes place when one unbroken perceptional cognition is continued for some time.
 </details>
 
 
@@ -2742,7 +2742,7 @@ We therefore have to enquire in what way,in the judgment 'here is a jar,' an ass
 #### प्रत्यक्ष-मूलं स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च द्वयोर् अपि व्यवहारयोः प्रत्यक्ष-मूलत्वं संभवति,  
+न च द्वयोर् अपि व्यवहारयोः प्रत्यक्ष-मूलत्वं सम्भवति,  
 तयोर् भिन्न-काल-ज्ञान-फलत्वात्,  
 प्रत्यक्ष-ज्ञानस्य चैक-क्षण-वर्तित्वात्। 
 </details>
@@ -2755,7 +2755,7 @@ These implied judgments cannot both be founded on perception, for they are the r
 
 <details><summary>मूलम्</summary>
 
-न च द्वयोरपि व्यवहारयोः प्रत्यक्षमूलत्वं संभवति, तयोर्भिन्नकालज्ञानफलत्वात्, प्रत्यक्षज्ञानस्य चैकक्षणवर्तित्वात्। 
+न च द्वयोरपि व्यवहारयोः प्रत्यक्षमूलत्वं सम्भवति, तयोर्भिन्नकालज्ञानफलत्वात्, प्रत्यक्षज्ञानस्य चैकक्षणवर्तित्वात्। 
 </details>
 
 
@@ -2828,7 +2828,7 @@ Hence difference is not apprehended by Perception; and all judgments and proposi
 
 <details><summary>English</summary>
 
-Difference--bheda--does not admit of logical definition
+Difference – bheda – does not admit of logical definition
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3125,7 +3125,7 @@ The rope which persists as a substrate is real, while the non-continuous things 
 
 <details><summary>English</summary>
 
-But--our adversary objects--
+But – our adversary objects--
 
 > the instance is not truly analogous. In the case of the snake-rope the non-reality of the snake results from the snake's being sublated (bādhita) by the cognition of the true nature of the substrate 'This is a rope, not a snake'; it does not result from the non-continuousness of the snake. 
 </details>
@@ -3151,7 +3151,7 @@ In the same way the reality of the rope does not follow from its persistence, bu
 
 <details><summary>मूलम्</summary>
 
-रज्ज्वादेरपि पारमार्थ्यं नानुवर्तमानतया, किंत्वबाधितत्वात्। 
+रज्ज्वादेरपि पारमार्थ्यं नानुवर्तमानतया, किन्त्वबाधितत्वात्। 
 </details>
 
 
@@ -3492,7 +3492,7 @@ Nor can there be assumed, for consciousness, the need of another act of consciou
 
 <details><summary>English</summary>
 
-While it exists, consciousness--differing therein from jars and the like--is never observed not to shine forth, and it cannot therefore be held to depend, in its shining forth, on something else.
+While it exists, consciousness – differing therein from jars and the like – is never observed not to shine forth, and it cannot therefore be held to depend, in its shining forth, on something else.
 </details>
 
 
@@ -3593,7 +3593,7 @@ After this the existence of consciousness is inferred on the ground that the shi
 
 <details><summary>English</summary>
 
-> And should this argumentation be objected to on the ground of its implying that consciousness--which is essentially of the nature of intelligence--is something non-intelligent like material things, 
+> And should this argumentation be objected to on the ground of its implying that consciousness – which is essentially of the nature of intelligence – is something non-intelligent like material things, 
 </details>
 
 
@@ -3634,7 +3634,7 @@ for when pleasure and so on exist at all, they never are non-perceived (i.e. the
 
 <details><summary>English</summary>
 
-> It is thus clear that we have no consciousness of consciousness itself--just as the tip of a finger, although touching other things, is incapable of touching itself.
+> It is thus clear that we have no consciousness of consciousness itself – just as the tip of a finger, although touching other things, is incapable of touching itself.
 </details>
 
 
@@ -3764,7 +3764,7 @@ Consciousness is, with regard to its attributes and to the empirical judgments c
 
 For it is a general principle that  
 of two things  
-that which through its connexion with the other is the cause of the attributes of--and the empirical judgments about--the latter,  
+that which through its connexion with the other is the cause of the attributes of – and the empirical judgments about – the latter,  
 is itself independent of that other as to those two points.  
 </details>
 
@@ -3828,13 +3828,13 @@ Consciousness is eternal and incapable of change.
 
 <details><summary>English</summary>
 
-This self-luminous consciousness, further, is eternal, for it is not capable of any form of non-existence--whether so--called antecedent non-existence or any other form. 
+This self-luminous consciousness, further, is eternal, for it is not capable of any form of non-existence – whether so – called antecedent non-existence or any other form. 
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-सेयं स्वयंप्रकाशाऽनुभूतिर्नित्या च, प्रागभावाद्यभावात्। 
+सेयं स्वयम्प्रकाशाऽनुभूतिर्नित्या च, प्रागभावाद्यभावात्। 
 </details>
 
 
@@ -4185,7 +4185,7 @@ But, our adversary again objects, the consciousness which expresses itself in th
 
 <details><summary>English</summary>
 
-Consciousness cannot stand in the relation of an agent toward itself: the attribute of being a knowing agent is erroneously imputed to it--an error analogous to that expressed in the judgment 'I am a man,' which identifies the Self of a person with the outward aggregate of matter that bears the external characteristics of humanity. 
+Consciousness cannot stand in the relation of an agent toward itself: the attribute of being a knowing agent is erroneously imputed to it – an error analogous to that expressed in the judgment 'I am a man,' which identifies the Self of a person with the outward aggregate of matter that bears the external characteristics of humanity. 
 </details>
 
 
@@ -4215,7 +4215,7 @@ To be a 'knower' means to be the agent in the action of knowing;
 
 तच् च +++(कर्तृत्वं)+++ विक्रियात्मकं, जडं, विकारि-द्रव्याहङ्-कार-ग्रन्थि-स्थम्  
 अविक्रिये साक्षिणि चिन्-मात्रात्मनि  
-कथम् इव संभवति? 
+कथम् इव सम्भवति? 
 </details>
 
 <details><summary>English</summary>
@@ -4225,7 +4225,7 @@ and this is something essentially changeful and non-intelligent (jaḍa), having
 
 <details><summary>मूलम्</summary>
 
-तच्च विक्रियात्मकं जडं विकारिद्रव्याहंकारग्रन्थिस्थमविक्रिये साक्षिणि चिन्मात्रात्मनि कथमिव संभवति। 
+तच्च विक्रियात्मकं जडं विकारिद्रव्याहङ्कारग्रन्थिस्थमविक्रिये साक्षिणि चिन्मात्रात्मनि कथमिव सम्भवति। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4247,32 +4247,309 @@ like colour and other qualities, agency depends, for its own proof, on seeing, i
 दृश्यधीनसिद्धित्वादेव रूपादेरिव कर्तृत्वादेर्नात्मधर्मत्वम्।
 </details>
 
-## आत्मनः अहम्प्रत्ययागोचरता
+#### सुषुप्ति-मूर्च्छादौ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुषुप्ति-मूर्च्छादाव् अहं-प्रत्ययापायेऽपि  
-आत्मानुभव-दर्शनेन  
++++("सुषुप्तवान्" इत्य्)+++ आत्मानुभव-दर्शनेन  
 नाऽत्मनो ऽहं-प्रत्यय-गोचरत्वम्। 
+</details>
+
+<details><summary>English</summary>
+
+That the Self does not fall within the sphere (is not an object of), the idea of 'I' is proved thereby also that in deep sleep, swoon, and similar states, the idea of the 'I' is absent, while the consciousness of the Self persists. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुषुप्तिमूर्च्छादावहम्प्रत्ययापायेऽपि आत्मानुभवदर्शनेन नाऽत्मनोऽहम्प्रत्ययगोचरत्वम्। 
+</details>
+
+#### कर्तृत्वे पराक्त्वादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्तृत्वे ऽहं-प्रत्यय-गोचरत्वे चाऽत्मनो ऽभ्युपगम्यमाने  
+देहस्येव जडत्व-पराक्त्वानात्मत्वादि-प्रसङ्गो दुष्परिहरः। 
+</details>
+
+<details><summary>English</summary>
+
+Moreover, if the Self were admitted to be an agent and an object of the idea of 'I,' it would be difficult to avoid the conclusion that like the body it is non-intelligent, something merely outward ('being for others only, not for itself') and destitute of Selfhood. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्तृत्वेऽहम्प्रत्ययगोचरत्वे चाऽत्मनोऽभ्युपगम्यमाने देहस्येव जडत्वपराक्त्वानात्मत्वादिप्रसङ्गो दुष्परिहरः। 
+</details>
+
+##### देहभेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहं-प्रत्यय-गोचरात् कर्तृतया प्रसिद्धाद् देहात्  
+तत्-क्रिया-फल--स्वर्गादेर् भोक्तुर् आत्मनो ऽन्यत्वं  
+प्रामाणिकानां प्रसिद्धम् एव। 
+</details>
+
+<details><summary>English</summary>
+
+That from the body, which is the object of the idea of 'I,' and known to be an agent, there is different that Self which enjoys the results of the body's actions, viz. the heavenly word, and so on, is acknowledged by all who admit the validity of the instruments of knowledge; 
 </details>
 
 <details><summary>मूलम्</summary>
 
-सुषुप्तिमूर्च्छादावहंप्रत्ययापायेऽपि आत्मानुभवदर्शनेन नाऽत्मनोऽहंप्रत्ययगोचरत्वम्। 
+अहम्प्रत्ययगोचरात् कर्तृतया प्रसिद्धाद्देहात्तत्क्रियाफलस्वर्गादेर्भोक्तुरात्मनोऽन्यत्वं प्रामाणिकानां प्रसिद्धमेव। 
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा ऽहम्-अर्थात्  
+ज्ञातुर् अपि विलक्षणस् साक्षी  
+प्रत्याग्-आत्मेति प्रतिपत्तव्यम्।
+</details>
+
+<details><summary>English</summary>
+
+analogously, therefore, we must admit that different from the knower whom we understand by the term 'I,' is the 'witnessing' inward Self. 
 </details>
 
 
-कर्तृत्वेऽहंप्रत्ययगोचरत्वे चाऽत्मनोऽभ्युपगम्यमाने देहस्येव जडत्वपराक्त्वानात्मत्वादिप्रसङ्गो दुष्परिहरः। अहंप्रत्ययगोचरात् कर्तृतया प्रसिद्धाद्देहात्तत्क्रियाफलस्वर्गादेर्भोक्तुरात्मनोऽन्यत्वं प्रामाणिकानां प्रसिद्धमेव। तथाऽहमर्थात् ज्ञातुरपि विलक्षणस्साक्षी प्रत्यागात्मेति प्रतिपत्तव्यम्।
+<details><summary>मूलम्</summary>
 
-## अनुभूतिः अहंकाराभिव्यङ्ग्या
+तथाऽहमर्थात् ज्ञातुरपि विलक्षणस्साक्षी प्रत्यागात्मेति प्रतिपत्तव्यम्।
+</details>
 
-एवमविक्रियानुभवस्वरूपस्यैवाभिव्यञ्जको जडोऽप्यहंकारस्स्वाश्रयतया तमभिव्यनक्ति । आत्मस्थतयाऽभिव्यङ्ग्याभिव्यञ्जनमभिव्यञ्जकानां स्वभावः। दर्पणजलखण्डादिर्हि मुखचन्द्रबिम्बगोत्वादिकमात्मस्थतयाऽभिव्यनक्ति । तत्कृतोऽयं जानाम्यहम् इति भ्रमः।
 
-## अभिव्यङ्ग्येनापि स्वाभिव्यङ्गयस्य अभिव्यञ्जनम्
+### अहङ्काराभिव्यङ्ग्या दर्पणवत्
 
-स्वप्रकाशायाः अनुभूतेः कथमिव तदभिव्यङ्ग्यजडरूपाहङ्कारेणाभिव्यङ्ग्यत्वमिति मा वोचः, रविकरनिकराभिव्यङ्ग्यकरतलस्य तदभिव्यञ्जकत्वदर्शनात्; जालकरन्ध्रनिष्क्रान्तद्युमणिकिरणानां तदभिव्यङ्ग्येनापि करतलेन स्फुटतरप्रकाशो हि दृष्टचरः ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## आत्मनः अनुभवमात्रता, न अनुभाव्यता
+एवम् अ-विक्रियानुभव-स्वरूपस्यैवाभिव्यञ्जको  
+जडोऽप्य् अहङ्कारस्  
+स्वाश्रयतया तम् अभिव्यनक्ति । +++(4)+++
+</details>
 
-यतोऽहं जानामीति ज्ञाताऽयमहमर्थः चिन्मात्रात्मनो न पारमार्थिको धर्मः; अत एव सुषुप्तिमुक्त्योर्नान्वेति। तत्र ह्यहमर्थोल्लेखविगमेन स्वाभाविकानुभवमात्ररूपेणाऽत्माऽवभासते। अत एव सुप्तोत्थितः कदाचिन्मामप्यहं न ज्ञातवानिति परामृशति। तस्मात्परमार्थतो निरस्तसमस्त-भेदविकल्प निर्विशेषचिन्मात्रैकरसकूटस्थनित्यसंविदेव भ्रान्त्या ज्ञातृज्ञेयज्ञानरूपविविधविचित्रभेदा विवर्तत इति तन्मूलभूताविद्यानिबर्हाणाय नित्यशुद्धबुद्धमुक्त-स्वभावब्रह्मात्मैकत्वविद्याप्रतिपत्तये सर्वे वेदान्ता आरभ्यन्ते – इति॥
+<details><summary>English</summary>
+
+The non-intelligent ahaṁkāra thus merely serves to manifest the nature of non-changing consciousness, and it effects this by being its abode; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवमविक्रियानुभवस्वरूपस्यैवाभिव्यञ्जको जडोऽप्यहङ्कारस्स्वाश्रयतया तमभिव्यनक्ति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-स्थतया ऽभिव्यङ्ग्याभिव्यञ्जनम्  
+अभिव्यञ्जकानां स्वभावः। 
+</details>
+
+<details><summary>English</summary>
+
+for it is the proper quality of manifesting agents to manifest the objects manifested, in so far as the latter abide in them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्मस्थतयाऽभिव्यङ्ग्याभिव्यञ्जनमभिव्यञ्जकानां स्वभावः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दर्पण-जल-खण्डादिर् हि  
+मुख--चन्द्र-बिम्ब--गोत्वादिकम् आत्म-स्थतया ऽभिव्यनक्ति । 
+</details>
+
+<details><summary>English</summary>
+
+A mirror, e.g., or a sheet of water, or a certain mass of matter, manifests a face or the disc of the moon (reflected in the mirror or water) or the generic character of a cow (impressed on the mass of matter) in so far as all those things abide in them.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दर्पणजलखण्डादिर्हि मुखचन्द्रबिम्बगोत्वादिकमात्मस्थतयाऽभिव्यनक्ति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-कृतो ऽयं "जानाम्य् अहम्" इति भ्रमः।
+</details>
+
+<details><summary>English</summary>
+
+--In this way, then, there arises the erroneous view that finds expression in the judgment 'I know.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्कृतोऽयं जानाम्यहम् इति भ्रमः।
+</details>
+
+
+#### स्वप्रकाशाया अपि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्व-प्रकाशाया अनुभूतेः  
+कथम् इव तद्-अभिव्यङ्ग्य-- जड-रूपाहङ्कारेणाभिव्यङ्ग्यत्वम्  
+
+इति मा वोचः, 
+</details>
+
+<details><summary>English</summary>
+
+--Nor must you, in the way of objection, raise the question how self-luminous consciousness is to be manifested by the non-intelligent ahaṁkāra, which rather is itself manifested by consciousness; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वप्रकाशायाः अनुभूतेः कथमिव तदभिव्यङ्ग्यजडरूपाहङ्कारेणाभिव्यङ्ग्यत्वमिति मा वोचः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रवि-कर-निकराभिव्यङ्ग्य-- कर-तलस्य तद्-अभिव्यञ्जकत्व-दर्शनात्; 
+</details>
+
+<details><summary>English</summary>
+
+for we observe that the surface of the hand, which itself is manifested by the rays of sunlight falling on it, at the same time manifests those rays. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रविकरनिकराभिव्यङ्ग्यकरतलस्य तदभिव्यञ्जकत्वदर्शनात्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जालक-रन्ध्र-निष्क्रान्त- द्यु-मणि-किरणानां  
+तद्-अभिव्यङ्ग्येनापि कर-तलेन  
+स्फुट-तर-प्रकाशो हि दृष्टचरः ॥
+</details>
+
+<details><summary>English</summary>
+
+This is clearly seen in the case of rays passing through the interstices of network; the light of those rays is intensified by the hand on which they fall, and which at the same time is itself manifested by the rays.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जालकरन्ध्रनिष्क्रान्तद्युमणिकिरणानां तदभिव्यङ्ग्येनापि करतलेन स्फुटतरप्रकाशो हि दृष्टचरः ॥
+</details>
+
+
+
+### सुषुप्ति-मुक्त्योः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतो "ऽहं जानामी"ति ज्ञाता ऽयम् अहम्-अर्थः चिन्मात्रात्मनो न पारमार्थिको धर्मः;  
+अत एव सुषुप्तिमुक्त्योर्नान्वेति। 
+</details>
+
+<details><summary>English</summary>
+
+It thus appears that the 'knowing agent,' who is denoted by the 'I,' in the judgment 'I know,' constitutes no real attribute of the Self, the nature of which is pure intelligence. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यतोऽहं जानामीति ज्ञाताऽयमहमर्थः चिन्मात्रात्मनो न पारमार्थिको धर्मः; अत एव सुषुप्तिमुक्त्योर्नान्वेति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र ह्य् अहम्-अर्थोल्लेख-विगमेन  
+स्वाभाविकानुभव-मात्र-रूपेणाऽत्मा ऽवभासते। 
+</details>
+
+<details><summary>English</summary>
+
+This is also the reason why the consciousness of Egoity does not persist in the states of deep sleep and final release: in those states this special form of consciousness passes away, and the Self appears in its true nature, i.e. as pure consciousness. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र ह्यहमर्थोल्लेखविगमेन स्वाभाविकानुभवमात्ररूपेणाऽत्माऽवभासते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव सुप्तोत्थितः कदाचिन्  
+"माम् अप्य् अहं न ज्ञातवान्" इति परामृशति। 
+</details>
+
+<details><summary>English</summary>
+
+Hence a person who has risen from deep, dreamless sleep reflects, 'Just now I was unconscious of myself.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव सुप्तोत्थितः कदाचिन्मामप्यहं न ज्ञातवानिति परामृशति। 
+</details>
+
+### सङ्ग्रहः
+
+<details><summary>English</summary>
+
+Summing up of the pūrvapaksha view.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् परमार्थतो निरस्त-समस्त-भेद-विकल्प-  
+निर्विशेष-चिन्-मात्रैक-रस-- कूट-स्थ--नित्य-संविद् एव  
+भ्रान्त्या ज्ञातृ-ज्ञेय-ज्ञान-रूप-- विविध-विचित्र-भेदा  
+विवर्तत इति 
+</details>
+
+<details><summary>English</summary>
+
+As the outcome of all this, we sum up our view as follows.--Eternal, absolutely non-changing consciousness, whose nature is pure non-differenced intelligence, free from all distinction whatever, owing to error illusorily manifests itself (vivarttate) as broken up into manifold distinctions – knowing subjects, objects of knowledge, acts of knowledge.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+तस्मात्परमार्थतो निरस्तसमस्त-भेदविकल्प निर्विशेषचिन्मात्रैकरसकूटस्थनित्यसंविदेव भ्रान्त्या ज्ञातृज्ञेयज्ञानरूपविविधविचित्रभेदा विवर्तत इति 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन्--मूल-भूताविद्या-निबर्हाणाय  
+नित्य-शुद्ध-बुद्ध-मुक्त-स्वभाव- -ब्रह्मात्मैकत्व-विद्या-प्रतिपत्तये  
+सर्वे वेदान्ता आरभ्यन्ते – 
+
+इति॥
+</details>
+
+<details><summary>English</summary>
+
+And the purpose for which we enter on the consideration of the Vedānta-texts is utterly to destroy what is the root of that error, i.e. Nescience, and thus to obtain a firm knowledge of the oneness of Brahman, whose nature is mere intelligence – free, pure, eternal.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन्मूलभूताविद्यानिबर्हाणाय नित्यशुद्धबुद्धमुक्त-स्वभावब्रह्मात्मैकत्वविद्याप्रतिपत्तये सर्वे वेदान्ता आरभ्यन्ते – इति॥
+</details>
+
 

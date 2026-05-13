@@ -1,10 +1,9 @@
 +++
 title = "+सर्व-प्रस्तुतिः"
-
 +++
 
 ## श्रुतप्रदीपिका
-[[श्रुतदीपिका श्रीभाष्यव्याख्या	Source: [EB](https://www.ebharatisampat.in/read_chapter?bookid=MjUxMTUwODUxMDI3NDA0)]]
+[[श्रुतदीपिका श्रीभाष्यव्याख्या Source: [EB](https://www.ebharatisampat.in/read_chapter?bookid=MjUxMTUwODUxMDI3NDA0)]]
 
 Source: [TW](https://archive.org/details/ShrutaPradipika)
 

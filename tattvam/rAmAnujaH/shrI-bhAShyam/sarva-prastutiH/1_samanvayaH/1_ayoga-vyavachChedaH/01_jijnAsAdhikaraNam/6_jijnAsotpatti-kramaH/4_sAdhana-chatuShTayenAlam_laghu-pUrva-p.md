@@ -13,7 +13,7 @@ title = "४ साधन-चतुष्टयेनालम्? लघु-प
 
 <details><summary>English</summary>
 
-But--a further objection is urged--
+But – a further objection is urged--
 
 > as that which has to precede the systematic enquiry into Brahman we should assign something which that enquiry necessarily presupposes.  
 The enquiry into the nature of duty, however, does not form such a prerequisite,  
@@ -76,7 +76,7 @@ You who raise this objection clearly are ignorant of what kind of knowledge the 
 
 <details><summary>English</summary>
 
-What that śāstra aims at is to destroy completely that wrong knowledge which is the root of all pain, for man, liable to birth, old age, and death, and all the numberless other evils connected with transmigratory existence--evils that spring from the view, due to beginningless Nescience, that there is plurality of existence; and to that end the śāstra endeavours to establish the knowledge of the unity of the Self. 
+What that śāstra aims at is to destroy completely that wrong knowledge which is the root of all pain, for man, liable to birth, old age, and death, and all the numberless other evils connected with transmigratory existence – evils that spring from the view, due to beginningless Nescience, that there is plurality of existence; and to that end the śāstra endeavours to establish the knowledge of the unity of the Self. 
 </details>
 
 
@@ -93,7 +93,7 @@ What that śāstra aims at is to destroy completely that wrong knowledge which i
 
 <details><summary>English</summary>
 
-Now to this knowledge, the knowledge of works--which is based on the assumption of plurality of existence--is not only useless but even opposed. 
+Now to this knowledge, the knowledge of works – which is based on the assumption of plurality of existence – is not only useless but even opposed. 
 </details>
 
 
@@ -174,7 +174,7 @@ for scripture declares that final release results from knowledge with works adde
 
 > वक्ष्यति च –  
 > 
->>  सर्वापेक्षा च यज्ञादि-श्रुतेर् अश्ववत्  
+>> सर्वापेक्षा च यज्ञादि-श्रुतेर् अश्ववत्  
 (ब्र.सू.३.४.२६) 
 > 
 > इति। 
@@ -247,7 +247,7 @@ Hence the knowledge of works is just the necessary prerequisite.
 
 <details><summary>English</summary>
 
-how then can works--to which there attach endless differences connected with caste, āśrama, object to be accomplished, means and mode of accomplishment, &c.--ever supply a means for the cessation of ignorance, which is essentially the cessation of the view that difference exists? 
+how then can works – to which there attach endless differences connected with caste, āśrama, object to be accomplished, means and mode of accomplishment, &c.--ever supply a means for the cessation of ignorance, which is essentially the cessation of the view that difference exists? 
 </details>
 
 

@@ -115,7 +115,7 @@ Our adversary will perhaps attempt to explain things in the following way.
 
 <details><summary>English</summary>
 
-> And the fact that such knowledge, even when produced, does not at once and for every one put a stop to the view of plurality by no means subverts my opinion; for, to mention an analogous instance, the double appearance of the moon--presenting itself to a person affected with a certain weakness of vision--does not come to an end as soon as the oneness of the moon has been apprehended by reason. 
+> And the fact that such knowledge, even when produced, does not at once and for every one put a stop to the view of plurality by no means subverts my opinion; for, to mention an analogous instance, the double appearance of the moon – presenting itself to a person affected with a certain weakness of vision – does not come to an end as soon as the oneness of the moon has been apprehended by reason. 
 </details>
 
 
@@ -584,7 +584,7 @@ In agreement with this a later Sūtra also says,
 
 तद् इदम्  
 अपवर्गोपायतया विधित्सितं वेदनम्  
-उपासनं इत्य् अवगम्यते  
+उपासनम् इत्य् अवगम्यते  
 विद्य्-उपास्योर् व्यतिकरेण उपक्रमोपसंहार-दर्शनात् -
 </details>
 
@@ -597,7 +597,7 @@ we conclude from the circumstance that the terms 'knowing' and'meditating' are s
 
 <details><summary>मूलम्</summary>
 
-तदिदमपवर्गोपायतया विधित्सितं वेदनमुपासनं इत्यवगम्यते विद्युपास्योर्व्यतिकरेण उपक्रमोपसंहारदर्शनात् 
+तदिदमपवर्गोपायतया विधित्सितं वेदनमुपासनम् इत्यवगम्यते विद्युपास्योर्व्यतिकरेण उपक्रमोपसंहारदर्शनात् 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -720,7 +720,7 @@ and
 
 <details><summary>मूलम्</summary>
 
-ध्यानं च तैलधारावदविच्छिन्नस्मृतिसन्तानरूपम् ध्रुवा स्मृतिः। स्मृतिलम्भे सर्वग्रन्थीनां विप्रमोक्षः (छा.७.२६.२) इति ध्रुवायास्स्मृतेरपवर्गोपायत्वश्रवणात्। 
+ध्यानं च तैलधारावदविच्छिन्नस्मृतिसन्तानरूपं ध्रुवा स्मृतिः। स्मृतिलम्भे सर्वग्रन्थीनां विप्रमोक्षः (छा.७.२६.२) इति ध्रुवायास्स्मृतेरपवर्गोपायत्वश्रवणात्। 
 </details>
 
 #### दर्शन-रूपता
@@ -852,7 +852,7 @@ The Vākyakāra then propounds a pūrvapaksha (primā facie view),
 
 <details><summary>English</summary>
 
-and then sums up against this in the words 'but (meditation) is established on account of the term meditation'; that means--knowledge repeated more than once (i.e. meditation) is determined to be the means of Release.
+and then sums up against this in the words 'but (meditation) is established on account of the term meditation'; that means – knowledge repeated more than once (i.e. meditation) is determined to be the means of Release.
 </details>
 
 
@@ -873,7 +873,7 @@ and then sums up against this in the words 'but (meditation) is established on a
 
 The Vākyakāra then goes on 'Meditation is steady remembrance, on the ground of observation and statement.' 
 
-That means--this knowledge, of the form of meditation, and repeated more than once, is of the nature of steady remembrance.
+That means – this knowledge, of the form of meditation, and repeated more than once, is of the nature of steady remembrance.
 </details>
 
 
@@ -922,7 +922,7 @@ and this character of seeing consists in its possessing the character of immedia
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं प्रत्यक्षतापन्नां अपवर्ग-साधन-भूतां स्मृतिं विशिनष्टि –
+एवं प्रत्यक्षतापन्नाम् अपवर्ग-साधन-भूतां स्मृतिं विशिनष्टि –
 </details>
 
 <details><summary>English</summary>
@@ -933,7 +933,7 @@ With reference to remembrance, which thus acquires the character of immediate pr
 
 <details><summary>मूलम्</summary>
 
-एवं प्रत्यक्षतापन्नां अपवर्गसाधनभूतां स्मृतिं विशिनष्टि –
+एवं प्रत्यक्षतापन्नाम् अपवर्गसाधनभूतां स्मृतिं विशिनष्टि –
 </details>
 
 
@@ -968,7 +968,7 @@ viz. in the passage Ka. Up. I, 2, 23, 'That Self cannot be gained by the study o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनेन केवल-श्रवण-मनन-निदिध्यासनानां आत्म-प्राप्त्य्-अनुपायत्वम् उक्त्वा  
+अनेन केवल-श्रवण-मनन-निदिध्यासनानाम् आत्म-प्राप्त्य्-अनुपायत्वम् उक्त्वा  
 
 
 > "यम् एवैष आत्मा वृणुते  
@@ -985,7 +985,7 @@ This text says at first that mere hearing, reflection, and meditation do not suf
 
 <details><summary>मूलम्</summary>
 
-अनेन केवल-श्रवण-मनन-निदिध्यासनानां आत्मप्राप्त्यनुपायत्वम् उक्त्वा  
+अनेन केवल-श्रवण-मनन-निदिध्यासनानाम् आत्मप्राप्त्यनुपायत्वम् उक्त्वा  
 "यमेवैष आत्मा वृणुते तेनैव लभ्य" इत्युक्तम् ।  
 </details>
 
@@ -1316,7 +1316,7 @@ Although sacrifices and the like are enjoined with a view to the origination of 
 
 <details><summary>English</summary>
 
-it is only knowledge in the form of meditation which--being daily practised, constantly improved by repetition, and continued up to death--is the means of reaching Brahman, and hence all the works connected with the different conditions of life are to be performed throughout life only for the purpose of originating such knowledge. 
+it is only knowledge in the form of meditation which – being daily practised, constantly improved by repetition, and continued up to death – is the means of reaching Brahman, and hence all the works connected with the different conditions of life are to be performed throughout life only for the purpose of originating such knowledge. 
 </details>
 
 
@@ -1377,7 +1377,7 @@ This the Sūtrakāra declares in Ve. Sū. IV, 1, 12; 16; III, 4, 33, and other p
 
 वाक्यकारश् च ध्रुवानुस्मृतेर् विवेकादिभ्य एव निष्पत्तिमाह –  
 
-> तल्-लब्घिर् विवेक-विमोकाभ्यास--क्रिया-कल्याणानवसादानुद्धर्षेभ्यः - संभवान् निर्वचनाच् च (ब्र.न.वा) 
+> तल्-लब्घिर् विवेक-विमोकाभ्यास--क्रिया-कल्याणानवसादानुद्धर्षेभ्यः - सम्भवान् निर्वचनाच् च (ब्र.न.वा) 
 
 इति । 
 </details>
@@ -1392,7 +1392,7 @@ The Vākyakāra also declares that steady remembrance results only from abstenti
 
 <details><summary>मूलम्</summary>
 
-वाक्यकारश्च ध्रुवानुस्मृतेर्विवेकादिभ्य एव निष्पत्तिमाह – तल्लब्घिर्विवेकविमोकाभ्यास-क्रियाकल्याणानवसादानुद्धर्षेभ्यः संभवान्निर्वचनाच्च (ब्र.न.वा) इति । 
+वाक्यकारश्च ध्रुवानुस्मृतेर्विवेकादिभ्य एव निष्पत्तिमाह – तल्लब्घिर्विवेकविमोकाभ्यास-क्रियाकल्याणानवसादानुद्धर्षेभ्यः सम्भवान्निर्वचनाच्च (ब्र.न.वा) इति । 
 </details>
 
 #### विवेकः
@@ -1864,7 +1864,7 @@ The word has the same sense in the following passage: 'Firm in traditional knowl
 
 <details><summary>English</summary>
 
-and hence--as equally giving rise to an undesirable result--they may both be designated as evil. 
+and hence – as equally giving rise to an undesirable result – they may both be designated as evil. 
 </details>
 
 
@@ -2016,7 +2016,7 @@ Knowledge which is the means of reaching Brahman, thus requires the works prescr
 
 <details><summary>English</summary>
 
-and hence the systematic enquiry into works (i. e. the Pūrva Mīmāṁsā)--from which we ascertain the nature of the works required and also the transitoriness and limitation of the fruits of mere works--forms a necessary antecedent to the systematic enquiry into Brahman. 
+and hence the systematic enquiry into works (i. e. the Pūrva Mīmāṁsā)--from which we ascertain the nature of the works required and also the transitoriness and limitation of the fruits of mere works – forms a necessary antecedent to the systematic enquiry into Brahman. 
 </details>
 
 
@@ -2031,7 +2031,7 @@ and hence the systematic enquiry into works (i. e. the Pūrva Mīmāṁsā)--fro
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च +++(साधन-चतुष्टयान्तर्गत-)+++ नित्यानित्य-वस्तु-विवेकादयश् च,  
-मीमांसा-श्रवणम् अन्तरेण न संपत्स्यन्ते, 
+मीमांसा-श्रवणम् अन्तरेण न सम्पत्स्यन्ते, 
 </details>
 
 <details><summary>English</summary>
@@ -2042,7 +2042,7 @@ Moreover the discrimination of permanent and non-permanent things, &c. (i.e. the
 
 <details><summary>मूलम्</summary>
 
-अपि च नित्यानित्यवस्तुविवेकादयश्च, मीमांसाश्रवणमन्तरेण न संपत्स्यन्ते, 
+अपि च नित्यानित्यवस्तुविवेकादयश्च, मीमांसाश्रवणमन्तरेण न सम्पत्स्यन्ते, 
 </details>
 
 
@@ -2071,7 +2071,7 @@ for unless we ascertain all the distinctions of fruits of works, means, modes of
 
 <details><summary>English</summary>
 
-That those conditions (viz. nityānityavastuviveka, śama, dama, &c.) are 'means' must be determined on the basis of viniyoga ('application' which determines the relation of principal and subordinate matters--angin and anga); 
+That those conditions (viz. nityānityavastuviveka, śama, dama, &c.) are 'means' must be determined on the basis of viniyoga ('application' which determines the relation of principal and subordinate matters – angin and anga); 
 </details>
 
 
@@ -2121,7 +2121,7 @@ is treated of in the third book of the Pūrva Mīmāṁsā-sūtras.
 
 <details><summary>English</summary>
 
-And further we must, in this connexion, consider also the meditations on the Udgītha and similar things--which, although aiming at the success of works, are of the nature of reflections on Brahman (which is viewed in them under various forms)--and as such have reference to knowledge of Brahman. 
+And further we must, in this connexion, consider also the meditations on the Udgītha and similar things – which, although aiming at the success of works, are of the nature of reflections on Brahman (which is viewed in them under various forms)--and as such have reference to knowledge of Brahman. 
 </details>
 
 
