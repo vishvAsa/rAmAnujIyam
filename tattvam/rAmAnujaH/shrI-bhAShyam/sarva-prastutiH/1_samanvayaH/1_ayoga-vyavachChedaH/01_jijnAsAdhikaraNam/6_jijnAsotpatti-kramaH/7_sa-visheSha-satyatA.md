@@ -1012,14 +1012,14 @@ And a person who maintains the existence of a thing devoid of difference on the 
 </details>
 
 
-### प्रत्यक्षस्य सन्-मात्र-ग्राहिता निर्युक्तिकी
+### प्रत्यक्षं भेद-ग्राहि
 
 <details><summary>English</summary>
 
 Perception does not reveal mere being.
 </details>
 
-
+#### भेदस्य स्व-पर-प्रकाशकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु 
@@ -1043,25 +1043,343 @@ In reply to the assertion that perception causes the apprehension of pure Being 
 </details>
 
 
-तदपि जात्यादिविशष्टस्यैव वस्तुनः प्रत्यक्षविषयत्वाज्जात्यादेरेव प्रतियोग्यपेक्षया वस्तुनस्स्वस्य च भेदव्यवहारहेतुत्वाच्च दूरोत्सारितम्। संवेदनवद्रूपादिवच्च परत्र व्यवहारविशेषहेतोस्स्वस्मिन्नपि तद्व्यवहारहेतुत्वं युष्माभिरभ्युपेतं भेदस्यापि सम्भवत्येव।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव च नानवस्थाऽन्योन्याश्रयणं च। एकक्षणवर्तित्वेऽपि प्रत्यक्षज्ञानस्य तस्मिन्नेव क्षणे वस्तुभेदरूपतत्संस्थानरूपगोत्वादेर्गृहीतत्वात् क्षणान्तरग्राह्यं न किञ्चिदिह तिष्ठति॥
+तद् अपि जात्य्-आदि-विशष्टस्यैव वस्तुनः प्रत्यक्ष-विषयत्वाज्  
+जात्य्-आदेर् एव प्रतियोग्य्-अपेक्षया,  
+वस्तुनस् स्वस्य च भेद-व्यवहार-हेतुत्वाच् च  
+दूरोत्सारितम्। 
+</details>
 
-## प्रत्यक्षस्य सन्मात्रग्राहितायां प्रतिपत्ति-व्यवहार-शब्दविरोधाः
+<details><summary>English</summary>
 
-अपि च सन्मात्रग्राहित्वे घटोऽस्ति, पटोऽस्ति इति विशिष्टविषया प्रतीतिर्विरुध्यते। यदि च सन्मात्रातिरेकिवस्तुसंस्थानरूपजात्यादिलक्षणो भेदः प्रत्यक्षेण न गृहीतः किमित्यश्वार्थी महिषदर्शने निवर्तते। सर्वासु प्रतिपत्तिषु सन्मात्रमेव विषयश्चेत्, तत्तत्प्रतिपत्तिविषयसहचारिणस्सर्वे शब्दा एकैकप्रतिपत्तिषु किमिति न स्मर्यन्ते?
+we point out that these charges are completely refuted by the fact that the only objects of perception are things distinguished by generic character and so on, and that generic character and so on – as being relative things – give at once rise to the judgment as to the distinction between themselves and the things in which they inhere. 
+</details>
 
-## सन्मात्रग्रहणे प्रतीत्यवान्तरजातिविरोधः
 
-किञ्च, अश्वे हस्तिनि च संवेदनयोरेकविषयत्वेन उपरितनस्य गृहीतग्राहित्वाद्विशेषाभावाच्च स्मृतिवैलक्षण्यं न स्यात्। प्रतिसंवेदनं विशेषाभ्युपगमे प्रत्यक्षस्य विशिष्टार्थविषयत्वमेवाभ्युपगतं भवति। सर्वेषां संवेदनानामेकविषयतायामेकेनैव संवेदनेन अशेषग्रहणादन्धबधिराद्यभावश्च प्रसज्येत।
+<details><summary>मूलम्</summary>
 
-## करणव्यवस्थार्थं विषयभेदोपपादनम्
+तदपि जात्यादिविशष्टस्यैव वस्तुनः प्रत्यक्षविषयत्वाज्जात्यादेरेव प्रतियोग्यपेक्षया वस्तुनस्स्वस्य च भेदव्यवहारहेतुत्वाच्च दूरोत्सारितम्। 
+</details>
 
-न च चक्षुषा सन्मात्रं गृह्यते, तस्य रूपरूपिरूपैकार्थ- समवेतपदार्थग्राहित्वात्। नापि त्वचा, स्पर्शवद्वस्तुविषयत्वात्। श्रोत्रादीन्यपि न सन्मात्रविषयाणि; किन्तु शब्दरसगन्धलक्षणविशेष-विषयाण्येव। अतस्सन्मात्रस्य ग्राहकं न किञ्चिदिह दृश्यते ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## सन्मात्रग्राहित्वे शास्त्रानुत्थानम्
+संवेदनवद् रूपादिवच् च  
+परत्र +++(विषये विशेष्ये च)+++ व्यवहार-विशेष-हेतोस्  
+स्वस्मिन्न् +++(→संवेदन-रूपादाव्)+++ अपि तद्-व्यवहार-हेतुत्वं  
+युष्माभिर् अभ्युपेतं  
+भेदस्यापि सम्भवत्य् एव।
+</details>
 
-निर्विशेषसन्मात्रस्य च प्रत्यक्षेणैव ग्रहणे तद्विषयागमस्य प्राप्तविषयत्वेनानुवादकत्वमेव स्यात्। सन्मात्रब्रह्मणः प्रमेयभावश्च। ततो जडत्वनाशित्वादयस्त्वयैवोक्ताः। अतो वस्तुसंस्थानरूपजात्यादिलक्षणभेदविशष्टमेव प्रत्यक्षम् ॥
+<details><summary>English</summary>
+
+You yourself admit that in the case of knowledge and in that of colour and other qualities this relation holds good, viz. that something which gives rise to a judgment about another thing at the same time gives rise to a judgment about itself; the same may therefore be admitted with regard to difference [fn_9].
+
+[fn_9]: 44:1 Colour reveals itself as well as the thing that has colour; knowledge reveals itself as well as the object known; so difference manifests itself as well as the things that differ.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संवेदनवद्रूपादिवच्च परत्र व्यवहारविशेषहेतोस्स्वस्मिन्नपि तद्व्यवहारहेतुत्वं युष्माभिरभ्युपेतं भेदस्यापि सम्भवत्येव।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव च +++("भेदे च तस्यापि भेदस् तद्-धर्मः …" इति)+++ नानवस्थाऽन्योन्याश्रयणं च। 
+</details>
+
+<details><summary>English</summary>
+
+For this reason the charge of a regressus in infinitum and a logical seesaw (see above, p. 32) cannot be upheld. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत एव च नानवस्थाऽन्योन्याश्रयणं च। 
+</details>
+
+### प्रत्यक्षं सन्मात्र-ग्राहि न
+#### क्षणिकत्वेऽपि सर्वग्राहि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एक-क्षण-वर्तित्वेऽपि  
+प्रत्यक्ष-ज्ञानस्य तस्मिन्न् एव क्षणे वस्तु-भेद-रूप-- तत्-संस्थान-रूप-गोत्वादेर् गृहीतत्वात्  
+क्षणान्तर-ग्राह्यं न किञ्चिद् इह +++(विशेषादि)+++ तिष्ठति॥
+</details>
+
+<details><summary>English</summary>
+
+For even if perceptive cognition takes place within one moment, we apprehend within that moment the generic character which constitutes on the one hand the difference of the thing from others, and on the other hand the peculiar character of the thing itself; and thus there remains nothing to be apprehended in a second moment.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकक्षणवर्तित्वेऽपि प्रत्यक्षज्ञानस्य तस्मिन्नेव क्षणे वस्तुभेदरूपतत्संस्थानरूपगोत्वादेर्गृहीतत्वात् क्षणान्तरग्राह्यं न किञ्चिदिह तिष्ठति॥
+</details>
+
+#### प्रतीति-विरोधः
+<details><summary>English</summary>
+
+Perception does not reveal mere being.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च सन्-मात्र-ग्राहित्वे  
+"घटो ऽस्ति, पटो ऽस्ति" इति विशिष्ट-विषया प्रतीतिर् विरुध्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Moreover, if perception made us apprehend only pure Being judgments clearly referring to different objects – such as 'Here is a jar,' 'There is a piece of cloth'--would be devoid of all meaning. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च सन्मात्रग्राहित्वे घटोऽस्ति, पटोऽस्ति इति विशिष्टविषया प्रतीतिर्विरुध्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि च सन्-मात्रातिरेकि-- वस्तु-संस्थान-रूप-- जात्य्-आदि-लक्षणो भेदः प्रत्यक्षेण न गृहीतः  
+किम् इत्य् अश्वार्थी महिष-दर्शने निवर्तते? +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+And if through perception we did not apprehend difference – as marked by generic character, &c., constituting the structure or make of a thing, why should a man searching for a horse not be satisfied with finding a buffalo? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदि च सन्मात्रातिरेकिवस्तुसंस्थानरूपजात्यादिलक्षणो भेदः प्रत्यक्षेण न गृहीतः किमित्यश्वार्थी महिषदर्शने निवर्तते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वासु प्रतिपत्तिषु सन्-मात्रम् एव विषयश् चेत्,  
+तत्-तत्-प्रतिपत्ति-विषय --सह-चारिणस् सर्वे शब्दा  
+एकैक-प्रतिपत्तिषु किम् इति न स्मर्यन्ते? +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+And if mere Being only were the object of all our cognitions, why should we not remember, in the case of each particular cognition, all the words which are connected with all our cognitions? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वासु प्रतिपत्तिषु सन्मात्रमेव विषयश्चेत्, तत्तत्प्रतिपत्तिविषयसहचारिणस्सर्वे शब्दा एकैकप्रतिपत्तिषु किमिति न स्मर्यन्ते?
+</details>
+
+##### स्मृति-विरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ् च, अश्वे हस्तिनि च संवेदनयोर् एक-विषयत्वेन  
+उपरितनस्य गृहीत-ग्राहित्वाद् विशेषाभावाच् च  
+स्मृति-वैलक्षण्यं न स्यात्। +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+And further, if the cognition of a horse and that of an elephant had one object only, the later cognition would cause us to apprehend only what was apprehended before, and there being thus no difference (of object of cognition) there would be nothing to distinguish the later state of cognition from remembrance. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किञ्च, अश्वे हस्तिनि च संवेदनयोरेकविषयत्वेन उपरितनस्य गृहीतग्राहित्वाद्विशेषाभावाच्च स्मृतिवैलक्षण्यं न स्यात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिसंवेदनं विशेषाभ्युपगमे  
+प्रत्यक्षस्य विशिष्टार्थ-विषयत्वम् एवाभ्युपगतं भवति। 
+</details>
+
+<details><summary>English</summary>
+
+If on the other hand a difference is admitted for each state of consciousness, we admit thereby that perception has for its objects things affected with difference.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतिसंवेदनं विशेषाभ्युपगमे प्रत्यक्षस्य विशिष्टार्थविषयत्वमेवाभ्युपगतं भवति। 
+</details>
+
+##### इन्द्रिय-भेदः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वेषां संवेदनानाम् एक-विषयतायाम्  
+एकेनैव संवेदनेनाशेष-ग्रहणाद्  
+अन्ध-बधिराद्य्-अभावश् च प्रसज्येत।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If all acts of cognition had one and the same object only, everything would be apprehended by one act of cognition; and from this it would follow that there are no persons either deaf or blind!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वेषां संवेदनानामेकविषयतायामेकेनैव संवेदनेन अशेषग्रहणादन्धबधिराद्यभावश्च प्रसज्येत।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च चक्षुषा सन्-मात्रं गृह्यते,  
+तस्य रूप-रूपि--रूपैकार्थ- समवेत-पदार्थ--ग्राहित्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+Nor does, as a matter of fact, the eye apprehend mere Being only;  
+for what it does apprehend is colour and the coloured thing, and those other qualities (viz. extension, &c.), which inhere in the thing together with colour. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च चक्षुषा सन्मात्रं गृह्यते, तस्य रूपरूपिरूपैकार्थ- समवेतपदार्थग्राहित्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि त्वचा, स्पर्शवद् वस्तु-विषयत्वात्। 
+</details>
+
+<details><summary>English</summary>
+
+Nor does feeling do so; for it has for its objects things palpable. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि त्वचा, स्पर्शवद्वस्तुविषयत्वात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रोत्रादीन्य् अपि न सन्-मात्र-विषयाणि;  
+किन्तु शब्द-रस-गन्ध-लक्षण-- विशेष-विषयाण्य् एव। 
+</details>
+
+<details><summary>English</summary>
+
+Nor have the ear and the other senses mere Being for their object; but they relate to what is distinguished by a special sound or taste or smell. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रोत्रादीन्यपि न सन्मात्रविषयाणि; किन्तु शब्दरसगन्धलक्षणविशेष-विषयाण्येव। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् सन्-मात्रस्य ग्राहकं न किञ्चिदिह दृश्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+Hence there is not any source of knowledge causing us to apprehend mere Being. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्सन्मात्रस्य ग्राहकं न किञ्चिदिह दृश्यते ॥
+</details>
+
+
+#### शास्त्रानुत्थान-प्रसङ्गः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्विशेष--सन्-मात्रस्य च प्रत्यक्षेणैव ग्रहणे  
+तद्-विषयागमस्य प्राप्त-विषयत्वेन  
+अनुवादकत्वम् एव स्यात्। 
+</details>
+
+<details><summary>English</summary>
+
+If moreover the senses had for their object mere Being free from all difference, it would follow that Scripture which has the same object would (not be originative of knowledge but) perform the function of a mere anuvāda, i.e. it would merely make statements about something, the knowledge of which is already established by some other means. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निर्विशेषसन्मात्रस्य च प्रत्यक्षेणैव ग्रहणे तद्विषयागमस्य प्राप्तविषयत्वेनानुवादकत्वमेव स्यात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सन्-मात्र-ब्रह्मणः प्रमेय-भावश् च। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+And further, according to your own doctrine, mere Being, i.e. Brahman, would hold the position of an object with regard to the instruments of knowledge; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सन्मात्रब्रह्मणः प्रमेयभावश्च। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततो जडत्व-नाशित्वादयस् त्वयैवोक्ताः। 
+</details>
+
+<details><summary>English</summary>
+
+and thus there would cling to it all the imperfections indicated by yourself – non-intelligent nature, perishableness and so on.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततो जडत्वनाशित्वादयस्त्वयैवोक्ताः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो वस्तु-संस्थान-रूप-- जात्य्-आदि-लक्षण-भेद-विशष्टम् एव प्रत्यक्षम् ॥
+</details>
+
+<details><summary>English</summary>
+
+--From all this we conclude that perception has for its object only what is distinguished by difference manifesting itself in generic character and so on, which constitute the make or structure of a thing. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो वस्तुसंस्थानरूपजात्यादिलक्षणभेदविशष्टमेव प्रत्यक्षम् ॥
+</details>
+
 
 ## संस्थानमेव जातिः भेदश्च
 
