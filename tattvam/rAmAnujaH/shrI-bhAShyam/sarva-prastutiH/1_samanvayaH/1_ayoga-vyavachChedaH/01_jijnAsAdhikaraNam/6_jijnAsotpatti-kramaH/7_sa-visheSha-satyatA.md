@@ -1329,7 +1329,7 @@ If moreover the senses had for their object mere Being free from all difference,
 निर्विशेषसन्मात्रस्य च प्रत्यक्षेणैव ग्रहणे तद्विषयागमस्य प्राप्तविषयत्वेनानुवादकत्वमेव स्यात्। 
 </details>
 
-
+#### जडत्व-प्रसङ्गः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्-मात्र-ब्रह्मणः प्रमेय-भावश् च। +++(4)+++
@@ -1364,6 +1364,8 @@ and thus there would cling to it all the imperfections indicated by yourself –
 </details>
 
 
+### संस्थानमेव जातिः भेदश्च
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो वस्तु-संस्थान-रूप-- जात्य्-आदि-लक्षण-भेद-विशष्टम् एव प्रत्यक्षम् ॥
@@ -1380,33 +1382,366 @@ and thus there would cling to it all the imperfections indicated by yourself –
 अतो वस्तुसंस्थानरूपजात्यादिलक्षणभेदविशष्टमेव प्रत्यक्षम् ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संस्थानातिरेकिणो ऽनेकेष्व् एकाकार-बुद्धि-बोध्यस्यादर्शनात्,  
+तावतैव गोत्वादि-जाति-व्यवहारोपपत्तेः,  
+अतिरेक-वादेऽपि संस्थानस्य सम्प्रतिपन्नत्वाच् च  
+संस्थानम् एव जातिः। 
+</details>
+
+<details><summary>English</summary>
+
+(That the generic character of a thing is nothing else but its particular structure follows) from the fact that we do not perceive anything, different from structure, which could be claimed as constituting the object of the cognition that several individuals possess one and the same general form. And as our theory sufficiently accounts for the ordinary notions as to generic character, and as moreover even those who hold generic character to be something different from structure admit that there is such a thing as (common) structure, we adhere to the conclusion that generic character is nothing but structure. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संस्थानातिरेकिणोऽनेकेष्वेकाकारबुद्धिबोध्यस्यादर्शनात्, तावतैव गोत्वादिजातिव्यवहारोपपत्तेः, अतिरेकवादेऽपि संस्थानस्य सम्प्रतिपन्नत्वाच्च संस्थानमेव जातिः। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संस्थानातिरेकिणो ऽनेकेष्व् एकाकारबुद्धिबोध्यस्यादर्शनात्, तावतैव गोत्वादिजातिव्यवहारोपपत्तेः। 
+संस्थानं नाम स्वासाधारणं रूपम्  
+इति यथा-वस्तु संस्थानम् अनुसन्धेयम्; 
+</details>
+
+<details><summary>English</summary>
+
+By 'structure' we understand special or distinctive form; and we acknowledge different forms of that kind according to the different classes of things. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-संस्थानातिरेकिणोऽनेकेष्वेकाकारबुद्धिबोध्यस्यादर्शनात्, तावतैव गोत्वादिजातिव्यवहारोपपत्तेः। 
+संस्थानं नाम स्वासाधारणं रूपमिति यथावस्तु संस्थानमनुसन्धेयम्; 
 </details>
 
 
-### संस्थानमेव जातिः भेदश्च
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतिरेकवादेऽपि संस्थानस्य सम्प्रतिपन्नत्वाच्च संस्थानमेव जातिः। संस्थानं नाम स्वासाधारणं रूपमिति यथावस्तु संस्थानमनुसन्धेयम्; जातिग्रहणेनैव भिन्न इति व्यवहारसम्भवात्, पदार्थान्तरादर्शनात्, अर्थान्तरवादिनाऽपि अभ्युपगतत्वाच्च गोत्वादिरेव भेदः।
+जाति-ग्रहणेनैव भिन्न इति व्यवहार-सम्भवात्,  
+पदार्थान्तरादर्शनात्,  
+अर्थान्तर-वादिनाऽपि अभ्युपगतत्वाच् च  
+गोत्वादिर् एव भेदः।
+</details>
 
-## भेदव्यवहारस्य प्रतियोगिसापेक्षत्वोपपत्तिः
+<details><summary>English</summary>
 
-ननु च – जात्यादिरेव भेदश्चेत्तस्मिन् गृहीते तद्व्यवहारवद्भेदव्यहारस्यात्। सत्यम्, भेदश्च व्यवह्रियत एव, गोत्वादिव्यवहारात् । गोत्वादिरेव हि सकलेतरव्यावृत्तिः, गोत्वादौ गृहीते सकलेतरसजातीयबुद्धिव्यवहारयोर्निवृत्तेः। भेदग्रहणेनैव ह्यभेदनिवृत्तिः। अयमस्माद्भिन्नः इति तु व्यवहारे प्रतियोगिनिर्देशस्य तदपेक्षत्वात् प्रतियोग्यपेक्षया भिन्न इति व्यवहार इत्युक्तम्।
+And as the current judgments as to things being different from one another can be explained on the basis of the apprehension of generic character, and as no additional entity is observed to exist, and as even those who maintain the existence of such an additional thing admit the existence of generic character, we further conclude that difference (bheda) is nothing but generic character (jāti).
+</details>
 
-## पारमार्थ्यापारमार्थ्यसाधकानुमानदूषणम्
 
-यत्पुनर्घटादीनां विशेषाणां व्यावर्तमानत्वेनापारमार्थ्यमुक्तम्, तदनालोचितबाध्यबाधकभाव-व्यावृत्त्यनुवृत्तिविशेषस्य भ्रान्तिपरिकल्पितम्॥
+<details><summary>मूलम्</summary>
 
-द्वयोर्ज्ञानयोर्विरोधे हि बाध्यबाधकभावः। बाधितस्यैव व्यावृत्तिः। अत्र घटपटादिषु देशकालभेदेन विरोध एव नास्ति। यस्मिन् देशे यस्मिन् काले यस्य सद्भावः प्रतिपन्नः; तस्मिन्देशे तस्मिन्काले तस्याभावः प्रतिपन्नश्चेत्; तत्र विरोधात् बलवतो बाधकत्वं बाधितस्य च निवृत्तिः; देशान्तरकालान्तरसम्बन्धितयाऽनुभूतस्यान्यदेशकालयोरभाव प्रतीतौ (प्रतिपत्तौ) न विरोध इति कथमत्र बाध्यबाधकभावः। अन्यत्र निवृत्तस्यान्यत्र निवृत्तिर्वा कथमुच्यते, रज्जुसर्पादिषु तु तद्देशकालसम्बन्धितयैवाभावप्रतीतेः, विरोधो बाधकत्वं व्यावृत्तिश्चेति देशकालान्तरव्यावर्तमानत्वं (देशकालान्तरदृष्टस्य देशान्तरकालान्तरव्यावर्तमानत्वं) – मिथ्यात्वव्याप्तं न दृष्टमिति न व्यावर्तमानत्वमात्रमपारमार्थ्यहेतुः॥
+जातिग्रहणेनैव भिन्न इति व्यवहारसम्भवात्, पदार्थान्तरादर्शनात्, अर्थान्तरवादिनाऽपि अभ्युपगतत्वाच्च गोत्वादिरेव भेदः।
+</details>
 
-यत्तु अनुवर्तमानत्वात्सत्परमार्थः – इति, तत्सिद्धमेवेति न साधनमर्हाति। अतो न सन्मात्रमेव वस्तु॥
+#### भेद-व्यवहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च – जात्य्-आदिर् एव भेदश् चेत्  
+तस्मिन् गृहीते  
+तद्-व्यवहारवद् भेद-व्यहारस् स्यात्। 
+</details>
+
+<details><summary>English</summary>
+
+--But if this were so, the judgment as to difference would immediately follow from the judgment as to generic character, as soon as the latter is apprehended! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु च – जात्यादिरेव भेदश्चेत्तस्मिन् गृहीते तद्व्यवहारवद्भेदव्यहारस्स्यात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्यम्, भेदश् च व्यवह्रियत एव,  
+गोत्वादि-व्यवहारात् । 
+</details>
+
+<details><summary>English</summary>
+
+Quite true, we reply.  
+As a matter of fact the judgment of difference is immediately formulated on the basis of the judgment as to generic character. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्यम्, भेदश्च व्यवह्रियत एव, गोत्वादिव्यवहारात् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गोत्वादिर् एव हि सकलेतर-व्यावृत्तिः,  
+गोत्वादौ गृहीते  
+स-कलेतर--स-जातीय--बुद्धि-व्यवहारयोर् निवृत्तेः। 
+</details>
+
+<details><summary>English</summary>
+
+For 'the generic character' of a cow, e.g., means just the exclusion of everything else: as soon as that character is apprehended all thought and speech referring to other creatures belonging to the same wider genus (which includes buffaloes and so on also) come to an end. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गोत्वादिरेव हि सकलेतरव्यावृत्तिः, गोत्वादौ गृहीते सकलेतरसजातीयबुद्धिव्यवहारयोर्निवृत्तेः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भेद-ग्रहणेनैव ह्य् अभेदनिवृत्तिः। 
+</details>
+
+<details><summary>English</summary>
+
+It is through the apprehension of difference only that the idea of non-difference comes to an end.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भेदग्रहणेनैव ह्यभेदनिवृत्तिः। 
+</details>
+
+##### प्रतियोगि-निर्देशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अयम् अस्माद् भिन्नः  
+
+इति तु व्यवहारे  
+प्रतियोगि-निर्देशस्य तद्-अपेक्षत्वात् 
+
+> प्रतियोग्य्-अपेक्षया भिन्न 
+
+इति व्यवहार इत्युक्तम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अयमस्माद्भिन्नः इति तु व्यवहारे प्रतियोगिनिर्देशस्य तदपेक्षत्वात् प्रतियोग्यपेक्षया भिन्न इति व्यवहार इत्युक्तम्।
+</details>
+
+
+
+### समान-देश-काल-व्यावृत्तिः
+
+<details><summary>English</summary>
+
+Plurality is not unreal.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् पुनर् घटादीनां विशेषाणां व्यावर्तमानत्वेनापारमार्थ्यम् उक्तम्,  
+तद् अनालोचित-बाध्य-बाधक-भाव-- व्यावृत्त्य्-अनुवृत्ति-विशेषस्य  
+भ्रान्ति-परिकल्पितम्॥
+</details>
+
+<details><summary>English</summary>
+
+Next as to the assertion that all difference presented in our cognition-as of jars, pieces of cloth and the like – is unreal  
+because such difference does not persist.  
+This view, we maintain, is altogether erroneous, springs in fact from the neglect of distinguishing between persistence and non-persistence on the one hand, and the relation between what sublates and what is sublated on the other hand. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्पुनर्घटादीनां विशेषाणां व्यावर्तमानत्वेनापारमार्थ्यमुक्तम्, तदनालोचितबाध्यबाधकभावव्यावृत्त्यनुवृत्तिविशेषस्य भ्रान्तिपरिकल्पितम्॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वयोर् ज्ञानयोर् विरोधे हि  
+बाध्य-बाधकभावः। 
+</details>
+
+<details><summary>English</summary>
+
+Where two cognitions are mutually contradictory, there the latter relation holds good, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+द्वयोर्ज्ञानयोर्विरोधे हि बाध्यबाधकभावः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बाधितस्यैव व्यावृत्तिः। 
+</details>
+
+<details><summary>English</summary>
+
+and there is non-persistence of what is sublated. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+बाधितस्यैव व्यावृत्तिः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र घट-पटादिषु देश-काल-भेदेन विरोध एव नास्ति। 
+</details>
+
+<details><summary>English</summary>
+
+But jars, pieces of cloth and the like, do not contradict one another, since they are separate in place and time. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र घटपटादिषु देशकालभेदेन विरोध एव नास्ति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस्मिन् देशे यस्मिन् काले  
+यस्य सद्भावः प्रतिपन्नः;  
+तस्मिन् देशे तस्मिन् काले तस्याभावः प्रतिपन्नश् चेत्;  
+तत्र विरोधात्  
+बलवतो बाधकत्वं,  
+बाधितस्य च निवृत्तिः; +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+If on the other hand the non-existence of a thing is cognised at the same time and the same place where and when its existence is cognised, we have a mutual contradiction of two cognitions, and then the stronger one sublates the other cognition which thus comes to an end. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यस्मिन् देशे यस्मिन् काले यस्य सद्भावः प्रतिपन्नः; तस्मिन्देशे तस्मिन्काले तस्याभावः प्रतिपन्नश्चेत्; तत्र विरोधात् बलवतो बाधकत्वं बाधितस्य च निवृत्तिः; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देशान्तर--कालान्तर--सम्बन्धितया  
+ऽनुभूतस्यान्य-देश-कालयोर् अ-भाव प्रतीतौ (प्रतिपत्तौ) न विरोध इति  
+कथम् अत्र बाध्य-बाधक-भावः? 
+</details>
+
+<details><summary>English</summary>
+
+But when of a thing that is perceived in connexion with some place and time, the non-existence is perceived in connexion with some other place and time, there arises no contradiction; how then should the one cognition sublate the other? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देशान्तरकालान्तरसम्बन्धितयाऽनुभूतस्यान्यदेशकालयोरभाव प्रतीतौ (प्रतिपत्तौ) न विरोध इति कथमत्र बाध्यबाधकभावः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यत्र निवृत्तस्यान्यत्र निवृत्तिर् वा कथम् उच्यते।  
+</details>
+
+<details><summary>English</summary>
+
+or how can it be said that of a thing absent at one time and place there is absence at other times and places also? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यत्र निवृत्तस्यान्यत्र निवृत्तिर्वा कथमुच्यते, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रज्जु-सर्पादिषु तु  
+तद्-देश-काल-सम्बन्धितयैवाभाव-प्रतीतेः  
+विरोधो, बाधकत्वं, व्यावृत्तिश् चेति। 
+</details>
+
+<details><summary>English</summary>
+
+In the case of the snake-rope, there arises a cognition of non-existence in connexion with the given place and time;  
+hence there is contradiction, one judgment sublates the other and the sublated cognition comes to an end. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रज्जुसर्पादिषु तु तद्देशकालसम्बन्धितयैवाभावप्रतीतेः विरोधो बाधकत्वं व्यावृत्तिश्चेति 
+</details>
+
+#### अ-पारमार्थ्यं क्व?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देश-कालान्तर-व्यावर्तमानत्वं  
+(देश-कालान्तर-दृष्टस्य देशान्तर-कालान्तर-व्यावर्तमानत्वं) –  
+मिथ्यात्व-व्याप्तं न दृष्टम् इति  
+न व्यावर्तमानत्व-मात्रम् अ-पारमार्थ्य-हेतुः॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+But the circumstance of something which is seen at one time and in one place not persisting at another time and in another place is not observed to be invariably accompanied by falsehood, and hence mere non-persistence of this kind does not constitute a reason for unreality. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देशकालान्तरव्यावर्तमानत्वं (देशकालान्तरदृष्टस्य देशान्तरकालान्तरव्यावर्तमानत्वं) – मिथ्यात्वव्याप्तं न दृष्टमिति न व्यावर्तमानत्वमात्रमपारमार्थ्यहेतुः॥
+</details>
+
+#### सत्-पारमार्थ्यं सिद्धम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्तु अनुवर्तमानत्वात् सत् परमार्थः – इति,  तत्सिद्धम् एवेति न साधनम् अर्हाति। 
+</details>
+
+<details><summary>English</summary>
+
+To say, on the other hand, that what is is real because it persists, is to prove what is proved already, and requires no further proof.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्तु अनुवर्तमानत्वात्सत्परमार्थः – इति, तत्सिद्धमेवेति न साधनमर्हाति। 
+</details>
+
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो न सन्मात्रमेव वस्तु॥
+</details>
+
+<details><summary>English</summary>
+
+Hence mere Being does not alone constitute reality. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो न सन्मात्रमेव वस्तु॥
+</details>
+
+
 
 ## सदनुभूत्योः नानात्वम्
 

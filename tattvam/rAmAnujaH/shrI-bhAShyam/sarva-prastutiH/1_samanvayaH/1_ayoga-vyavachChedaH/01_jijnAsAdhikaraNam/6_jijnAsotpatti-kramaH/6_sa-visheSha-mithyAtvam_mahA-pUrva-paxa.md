@@ -3024,7 +3024,10 @@ And this latter difference would have to be viewed as an attribute of the first 
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-जात्य्-आदिवद् भेदोऽपि विशेषो नास्तीति कथम्?
+जात्य्-आदिवद् भेदोऽपि विशेषो नास्तीति कथम्?  
+वक्ष्यति - 
+
+> संस्थानम् एव जातिः। … गोत्वादिरेव भेदः।
 </details>
 
 
@@ -3108,6 +3111,15 @@ And we observe that it is pure Being only which persists in all states of cognit
 विशेषास् तु व्यावर्तमानतया ऽपरमार्थाः,  
 रज्जु-सर्पादिवत्। 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> बाधितस्यैव व्यावृत्तिः।  
+अत्र घट-पटादिषु देश-काल-भेदेन विरोध एव नास्ति। 
+
+इति रज्जु-सर्पादिष्व् इव व्यावृत्ति-शब्दस्यार्थान्तरं वरं प्रतिवक्ष्यति।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3272,6 +3284,17 @@ Individual difference (vyāvr̥tti) thus means the cessation (or absence), due t
 
 सा व्यावर्तमानानाम् अ-पारमार्थ्यं साधयति। 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> देश-कालान्तर-व्यावर्तमानत्वं  
+(देश-कालान्तर-दृष्टस्य देशान्तर-कालान्तर-व्यावर्तमानत्वं) –  
+मिथ्यात्व-व्याप्तं न दृष्टम् इति  
+न व्यावर्तमानत्व-मात्रम् अ-पारमार्थ्य-हेतुः॥+++(5)+++
+
+इति प्रतिवक्ष्यति। 
+</details>
+
 
 <details><summary>English</summary>
 
