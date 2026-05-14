@@ -13,6 +13,7 @@ taniyan
 शठकोपमुनिं वन्दे शटारिप्रवणं सदा॥ varadAryagurUttamsacaraNAmbujashaTpadam | SaThakopamunim vande SaThAripravaNam sadA || MangalamAlai
 
 वृषभे श्रीविशाखर्क्षे जाताय कमलेक्षणात् ।
-शठकोपयतीन्द्राय माननीयाय योगिने॥ शुभकृAन्मिथुने कृAष्णतृतीयां गुरोः पदे। श्रीनृसिंहमठास्थाने स्वभिषिक्ताय मङ्गलम् ॥
+शठकोपयतीन्द्राय माननीयाय योगिने॥  
+शुभकृन्मिथुने कृष्णतृतीयां गुरोः पदे। श्रीनृसिंहमठास्थाने स्वभिषिक्ताय मङ्गलम् ॥
 
 vrshabhe SrIviSAkharkshe jAtAya kamalekshaNAt | SaThakopayatIndrAya mAnanIyAya yogine || Subhakrnmithune krshNatrtIyAm guroH pade | [[232]] SrInrsimhamaThAsthAne svabhishiktAya mangalam || 
