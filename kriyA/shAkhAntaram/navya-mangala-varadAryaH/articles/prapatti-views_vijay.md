@@ -2,7 +2,7 @@
 title = "Prapatti views - VB"
 +++
 
->तस्य प्रपत्तिमात्रस्य मोक्षसाधनत्वे तावान् विश्वासो नासीत् खलु?
+> तस्य प्रपत्तिमात्रस्य मोक्षसाधनत्वे तावान् विश्वासो नासीत् खलु?
 
 Not how I would characterize it. He felt - prapatti is reduced to a mere ritual with heavy sense of overconfidence attached to it (seat reserved in Vaikuntha).
 
