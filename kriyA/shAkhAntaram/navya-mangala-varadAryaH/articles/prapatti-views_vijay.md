@@ -17,6 +17,37 @@ Similarly the jIva has to surrender completely to Bhagavan and allow HIM to scul
 
 In other words, the post-prapatti life is a long journey as well. It is not simply - do a ritual and return to your mundane life as before.
 
-## अङ्गि-प्रपत्त्य्-अभावः
+
+ममावगत्यनुसारं ते प्रपत्तिं स्वतन्त्रसाधनत्वेनैव स्वीकुर्वन्ति।  
+यदि जनः निष्कपटः स्यात्,  
+तर्हि सः भगवति सर्वं न्यसितुं शक्नोति,  
+भगवान् एव च तस्य न्यूनतां पूरयिष्यतीति तैः स्पष्टमुक्तम्।
+
+न्यूनतापूरणं नाम मोक्षयोग्यता-प्राप्तये जीवस्यैव विकासः। उपासनापि एतदेव फलं जनयति। उपासना साधनमात्रम्, न तु साध्यम्।
+
+भवान् प्रष्टुं शक्नोति - किं नाम तत् साध्यम् इति? अत्र ममापि पूर्णं  स्पष्टता नास्ति, तथापि भगवति दृश्यमानाः ये सर्वभूतसुहृत्त्व - अनन्तदयादयः 'आत्मगुणाः' वर्तन्ते, ते सर्वेऽपि पुरुषेण सम्पादनीयाः इति तैः असकृद्  प्रतिपादितम्।
+
+वेदान्तदेशिकचरणाः स्वग्रन्थेषु एतेषां केषाञ्चिद् गुणानां परिगणनं कुर्वन्ति।  
+उपनिषदोऽपि अस्मिन् विषये दृष्टान्तं प्रस्तुवन्ति,  
+यथा- "तस्मात् ब्राह्मणः पाण्डित्यं निर्विद्य बाल्येन तिष्ठासेत्" इति।
+
+नदी यदा प्रवृद्धा सती समुद्रेण सह अविभक्ता (एकीभूता) भवति,  
+तं प्रसिद्धम् उपनिषद्-दृष्टान्तम् अपि ते पुनः पुनः उदाहरन्ति स्म।
+
+## प्रपत्ति-स्वरूपम्
 He felt that the prapatti that results in 'dehAvasAna mokSha' that VD referred to is not what is being practiced today. He had no doubt that whatever is being practiced today will accelerate the journey towards Brahman, maybe even significantly. However he disliked the overconfidence/complacency that is the most discussed part about it.
 
+
+तथापि, तादृश्याः प्रपत्तेः स्वरूपविषये  
+आचार्यस्य योग्यताविषये च तेषां कठोरः निकषः आसीत्।  
+विशेषतस् तैः संसूचितं यद्—  
+यस्य पुरुषस्य स्वनिष्ठायां सामर्थ्यं नास्ति,  
+तस्य कृते आचार्यनिष्ठैव अपेक्षिता।  
+किञ्च, यः पूर्वम् आचार्यनिष्ठायाः एव योग्यः आसीत्,  
+सः स्वनिष्ठा-योग्यतां सम्पाद्यैव  
+कालान्तरे आचार्यपदं प्राप्तुं शक्नोति—  
+इति तेषाम् अभिप्रायः आसीत्।+++(5)+++  
+किन्तु आचार्यस्य तु स्वनिष्ठा-सामर्थ्यं भवेदैव।  
+(ममाभिप्रायः) अन्यथा एतद् "अन्धेनैव नीयमाना यथान्धाः" इति न्यायतुल्यं जायेत।
+
+OTOH I believe he didn't favor the AM implementation (ukti nishtha) since he felt the bar was too high for today's seekers.
