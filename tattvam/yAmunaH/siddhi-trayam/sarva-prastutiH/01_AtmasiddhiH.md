@@ -54,11 +54,11 @@ title = "०१ आत्मसिद्धिः"
 </details>
 <details><summary>English</summary>
 
-May I have the highest bhakti to Sriman[^1_1] (the Consort of Sri or Lakṣmi), the Supreme Puruşa who is ever pleased by souls whose sole enjoyment is in rendering service to the Divine, and to whose will Matter (prakṛti)[^1_3], bound souls (puruşa)[^1_2], time, manifest material nature, released souls and innumerable eternally perfect souls always conform. (St. 1)
+May I have the highest bhakti to Sriman[F1_1] (the Consort of Sri or Lakṣmi), the Supreme Puruşa who is ever pleased by souls whose sole enjoyment is in rendering service to the Divine, and to whose will Matter (prakṛti)[F1_3], bound souls (puruşa)[F1_2], time, manifest material nature, released souls and innumerable eternally perfect souls always conform. (St. 1)
 
-[^1_1]: As the prayer is for highest form of bhakti to Sriman, it is evident that Yamunacharya considers Lord Narayana along with Lakshmi the means of salvation, even as He, in conjunction with her, is the supreme goal.
-[^1_3]: Prakrti is the primordial source of the material universe. In the state of pralaya (dissolution) it is known as avyakta (the unmanifest); in the state of sarga (evolution) it is called vyakta (the manifest).
-[^1_2]: Visistadvaitism recognises three classes of jivas - baddha (the bound), mukta (the liberated) and nitya (the ever- perfect). Jainism accepts a similar classification.
+[F1_1]: As the prayer is for highest form of bhakti to Sriman, it is evident that Yamunacharya considers Lord Narayana along with Lakshmi the means of salvation, even as He, in conjunction with her, is the supreme goal.
+[F1_3]: Prakrti is the primordial source of the material universe. In the state of pralaya (dissolution) it is known as avyakta (the unmanifest); in the state of sarga (evolution) it is called vyakta (the manifest).
+[F1_2]: Visistadvaitism recognises three classes of jivas - baddha (the bound), mukta (the liberated) and nitya (the ever- perfect). Jainism accepts a similar classification.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -142,11 +142,11 @@ That the knowledge of the self is the means of attaining transcendental felicity
 </details>
 <details><summary>English</summary>
 
-Upanisadic texts such as the following, declaring that the knowledge of the finite self and of the Supreme Controller to be different, and thereby becoming the object of His grace, he attains immortality"[^1_4]: "If one should know the self"[^1_5]; "The knower of the self crosses over sorrow"; "He who knows Brahman attains the Highest"[^1_6].
+Upanisadic texts such as the following, declaring that the knowledge of the finite self and of the Supreme Controller to be different, and thereby becoming the object of His grace, he attains immortality"[F1_4]: "If one should know the self"[F1_5]; "The knower of the self crosses over sorrow"; "He who knows Brahman attains the Highest"[F1_6].
 
-[^1_4]: Svet. Up. 1.6.
-[^1_5]: Chand, Up.
-[^1_6]: Tait. Up.
+[F1_4]: Svet. Up. 1.6.
+[F1_5]: Chand, Up.
+[F1_6]: Tait. Up.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -298,7 +298,7 @@ Others that it is different from body, senses, mind, vital-breath and consciousn
 </details>
 <details><summary>English</summary>
 
-Others again say that it is of the nature of pure consciousness itself, which appears to possess inauspicious qualities, such as love, hate, pleasure, pain etc., produced by the limiting condition of the internal organ, even as a crystal that is in itself white appears however, to possess redness and other qualities imparted to it by certain specific limiting conditions (say, an adjacent red flower); and that the luminosity of its being is neither born nor destroyed; and that it is selfluminous.[^2_10]
+Others again say that it is of the nature of pure consciousness itself, which appears to possess inauspicious qualities, such as love, hate, pleasure, pain etc., produced by the limiting condition of the internal organ, even as a crystal that is in itself white appears however, to possess redness and other qualities imparted to it by certain specific limiting conditions (say, an adjacent red flower); and that the luminosity of its being is neither born nor destroyed; and that it is selfluminous.[F2_10]
 </details>
 <details><summary>मूलम्</summary>
 
@@ -417,7 +417,7 @@ that (it) can be known through mental perception";
 </details>
 <details><summary>English</summary>
 
-that (it) is directly known only as the knower in all cognition of objects[^3_13];
+that (it) is directly known only as the knower in all cognition of objects[F3_13];
 </details>
 <details><summary>मूलम्</summary>
 
@@ -688,9 +688,9 @@ and that it is unchanging and eternal.
 </details>
 <details><summary>English</summary>
 
-Similarly (with regard to its number), it is maintained that it is one and the same in all bodies[^3_14];
+Similarly (with regard to its number), it is maintained that it is one and the same in all bodies[F3_14];
 
-[^3_14]: One variety of Ekajivavada holds that there is one jiva residing in each of the many bodies.
+[F3_14]: One variety of Ekajivavada holds that there is one jiva residing in each of the many bodies.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -759,9 +759,9 @@ So also about the Infinite Self, some do not admit at all an Isvara (God) who di
 </details>
 <details><summary>English</summary>
 
-Some, while admitting a God, maintain that He is of the essence of pure consciousness, which is unchanging and is devoid of the distinction of knowledge, means of knowledge, knower, and the known, and of the ruler and the ruled and so on. (They hold that) on account of beginningless avidya, he is erroneously imagined to possess knowledge of manifoldness, such as akāsa, and greatness such as sovereignty.[^3_15]
+Some, while admitting a God, maintain that He is of the essence of pure consciousness, which is unchanging and is devoid of the distinction of knowledge, means of knowledge, knower, and the known, and of the ruler and the ruled and so on. (They hold that) on account of beginningless avidya, he is erroneously imagined to possess knowledge of manifoldness, such as akāsa, and greatness such as sovereignty.[F3_15]
 
-[^3_15]: Advaita-ekajivavada and also nanajivavada where Isvara too is a reflection. cf Pancadasi Ch, X,
+[F3_15]: Advaita-ekajivavada and also nanajivavada where Isvara too is a reflection. cf Pancadasi Ch, X,
 </details>
 <details><summary>मूलम्</summary>
 
@@ -784,9 +784,9 @@ Some, while admitting a God, maintain that He is of the essence of pure consciou
 </details>
 <details><summary>English</summary>
 
-Others, while accepting this characterisation (of the Supreme Self as being of the nature of pure consciousness), state that it is subject to limiting conditions, and that, in association with the limiting condition of avidyä, for the reason of its having avidyä for its essence, it is taken to possess manifold distinctions of jivas commencing from Brahma and ending with immovable things and that, in conjunction with māyā, which is under its control and which assumes diverse wonderful changes, it acquires omniscience and other glorious qualities.[^4_16] 
+Others, while accepting this characterisation (of the Supreme Self as being of the nature of pure consciousness), state that it is subject to limiting conditions, and that, in association with the limiting condition of avidyä, for the reason of its having avidyä for its essence, it is taken to possess manifold distinctions of jivas commencing from Brahma and ending with immovable things and that, in conjunction with māyā, which is under its control and which assumes diverse wonderful changes, it acquires omniscience and other glorious qualities.[F4_16] 
 
-[^4_16]: Advaita where Iswara is the prototype:
+[F4_16]: Advaita where Iswara is the prototype:
 </details>
 <details><summary>मूलम्</summary>
 
@@ -809,9 +809,9 @@ Others, while accepting this characterisation (of the Supreme Self as being of t
 </details>
 <details><summary>English</summary>
 
-Similarly, others uphold the view that God possesses universal Lordship which is invariably and exclusively maintained for Him by the modification of independent pradhāna. This modification has for its cause the fact of pradhana possessing the quality of sattva *par excellence.*[^4_17]
+Similarly, others uphold the view that God possesses universal Lordship which is invariably and exclusively maintained for Him by the modification of independent pradhāna. This modification has for its cause the fact of pradhana possessing the quality of sattva *par excellence.*[F4_17]
 
-[^4_17]: Nanajivavada, on the view that Isvara is the prototype, not a reflection. Yoga
+[F4_17]: Nanajivavada, on the view that Isvara is the prototype, not a reflection. Yoga
 </details>
 <details><summary>मूलम्</summary>
 
@@ -859,7 +859,7 @@ Others assert that, although He is free from limiting conditions, He is yet subj
 </details>
 <details><summary>English</summary>
 
-Others favour the view that although He does not undergo modifiications, yet, on account of being reflected by the reflecting media of the diverse internal organs which are aspects of His own māyā, this intelligent being, who is one only, acquires the forms of Visva, Taijasa and Präjna.[^4_18]
+Others favour the view that although He does not undergo modifiications, yet, on account of being reflected by the reflecting media of the diverse internal organs which are aspects of His own māyā, this intelligent being, who is one only, acquires the forms of Visva, Taijasa and Präjna.[F4_18]
 </details>
 <details><summary>मूलम्</summary>
 
@@ -882,9 +882,9 @@ Others favour the view that although He does not undergo modifiications, yet, on
 </details>
 <details><summary>English</summary>
 
-Others hold that the Lord is that Supreme Person who has under His control the diverse forms of essence, existence and the activities of the threefold jivas and non-intelligent objects, and who is the great ocean of all auspicious qualities, such as jnana, bala, aiśvarya, virya, sakti, tejas,[^4_19] and others which are natural to Him, invariable and unrivalled in excellence.
+Others hold that the Lord is that Supreme Person who has under His control the diverse forms of essence, existence and the activities of the threefold jivas and non-intelligent objects, and who is the great ocean of all auspicious qualities, such as jnana, bala, aiśvarya, virya, sakti, tejas,[F4_19] and others which are natural to Him, invariable and unrivalled in excellence.
 
-[^4_19]: ज्ञानमिह सर्वसाक्षात्काररूपम् cf. यो वेत्ति युगपत्सर्वं प्रत्यक्षेण सदा स्वतः । बलं नाम श्रमप्रसङ्गरहितं सर्वघारणसामर्थ्यम् । ऐश्वर्य नाम अव्याहतेच्छं सर्वनियन्तृत्वम् । वीर्यम् = सर्वोपादानत्वे सर्वधार सर्वनियमनेऽपि विकाररहितत्वम् । शक्ति: स्वेतर पर्वनि हिका सर्वोगदानास्मिक'. = यद्वा यदन्यैः अशक्यत्वादघटितमिव भाति तद्घटनसामर्थ्यरूपा । तेज. = अस्व । वीन लदकार्यनपेक्षत्वम् ; पराभिभवन सामर्थ्य तेजः केचित्प्रचक्षत ॥
+[F4_19]: ज्ञानमिह सर्वसाक्षात्काररूपम् cf. यो वेत्ति युगपत्सर्वं प्रत्यक्षेण सदा स्वतः । बलं नाम श्रमप्रसङ्गरहितं सर्वघारणसामर्थ्यम् । ऐश्वर्य नाम अव्याहतेच्छं सर्वनियन्तृत्वम् । वीर्यम् = सर्वोपादानत्वे सर्वधार सर्वनियमनेऽपि विकाररहितत्वम् । शक्ति: स्वेतर पर्वनि हिका सर्वोगदानास्मिक'. = यद्वा यदन्यैः अशक्यत्वादघटितमिव भाति तद्घटनसामर्थ्यरूपा । तेज. = अस्व । वीन लदकार्यनपेक्षत्वम् ; पराभिभवन सामर्थ्य तेजः केचित्प्रचक्षत ॥
 </details>
 <details><summary>मूलम्</summary>
 
@@ -896,7 +896,6 @@ Others hold that the Lord is that Supreme Person who has under His control the d
 सिद्धान्तिनां मतम् आह "अन्ये" त्व् इति । त्रिविधाश् चेतनाः ज्ञातृत्ववन्तो बद्ध-मुक्त-नित्याः । त्रिविधाश् चाचेतनाः ज्ञातृत्वरहिताः प्रकृति-काल-नित्यविभूतयः । ज्ञानरूपत्वे ऽपि नित्यविभूतेर् अज्ञातृत्वाद् अचेतनत्वम् । तेषां सर्वेषां स्वस्वाकारसम्पत्तिः, निष्पन्नस्वरूपाणाम् उत्तरोत्तरकालानुवृत्तिरूपा स्थितिः, प्रवृत्तिविशेषाश् च तत्तत्कार्यानुगुणा यदधीना एव सदा, स ईश्वरः । 
 स च न निर्गुणः । किन्तु स्वाभाविकोत्कृष्टतम-षाङ्गुण्य-प्रभृत्य्-अनन्त-कल्याण-गुणगण-रत्नाकरः । निर्गुणत्वं चास्य हेयगन्धाभावात् । अयं च पुरुषविशेषः त्रिविध-जीवात्मविलक्षणः पुरुषोत्तमः श्रियः पतिर् इत्य् एतेषां हार्दम् ।
 </details>
-
 
 
 ### व्यक्ति-विशेषे
@@ -920,6 +919,10 @@ Similarly, even in regard to His manifestations, some contend that He has the fo
 
 तथा तद्विशेषेऽपि हरिहरविरिञ्चभास्करात्मना अनभिमत तत्तन्मूर्तिपरित्यागेन च चतुस्त्रिद्व्येकमूर्तितया विवदन्ते ।  
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+पुरुषविशेष ईश्वर इत्य् उक्तम् । स किं-नाम-रूप इत्य् अपेक्षायाम् आह "तथा तद्विशेषे ऽपी"तिर् । ईश्वरीय-नाम-रूपादि-विषये ऽपि नैकमत्यं वादिनाम् इत्य् अर्थः । तथाहि एक एवैश्वरो मूर्तिचतुष्टयं गृह्णाति कार्यवशाद् इत्य् एके । त्रिमूर्तिवादिनस् त्वादित्यरूपं परित्यजन्ति । हरिहरैक्यवादिनस् तु ब्रह्मरूपम् अपि । शैवास् तु हर् एवैश्वर इत्य् अभिमन्यन्ते । श्रीवैष्णवस् तु हरिर् एवेत्य् आमनन्ति । एवं हैरण्यगर्भाणां सौराणां च तत्तद्-एकमूर्तिपक्षो ऽप्य् अनुसन्धेयः ।
+</details>
 
 ### मूर्तौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -936,6 +939,10 @@ Concerning the individual manifestations (of God) doubts have been raised about 
 
 मूर्तिविशेषविषयाश्च नित्यत्वानित्यत्वभौतकत्वाभौतिकत्वस्वार्थपरार्थत्वादिवितर्काः प्रादुर्भवन्ति ; परिजनस्थानादिगोचराश्च ।  
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ईश्वरमूर्तिगतविशेषेष्व् अपि विप्रतिपत्तीर् आह "मूर्ती"ति । सार्थत्वं स्वभोगसिद्ध्यर्थत्वम् । परार्थत्वं जीवानुग्रहैकार्थत्वम् । वितर्काः विप्रतिपत्तयः । "परिजने"ति । परिजनादयः सन्ति न इति, नित्याः अनित्या इति, प्राकृता अप्राकृता इति च पक्षभेदाः परिजन-स्थानादाव् अनुसन्धेयाः ।
+</details>
 
 ### प्रमाणतः
 <details><summary>English</summary>
@@ -950,13 +957,17 @@ Conflicting views concerning how the Supreme Self is known
 </details>
 <details><summary>English</summary>
 
-Similarly, with regard to the means of knowledge some hold that He is known from the Vedas alone[^5_20];
+Similarly, with regard to the means of knowledge some hold that He is known from the Vedas alone[F5_20];
 
-[^5_20]: Vedanta
+[F5_20]: Vedanta
 </details>
 <details><summary>मूलम्</summary>
 
 तथा प्रमाणतोऽपि - आनुश्राविक एवेत्येके ।  
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+"प्रमाणतो ऽपी"ति । सार्वविभक्तिकस् तसिल् । प्रमाणविषये ऽपीत्य् अर्थः । शास्त्रैकप्रमाणक इत्य् एके ।
 </details>
 
 
@@ -972,6 +983,10 @@ others that he is established by inference;
 
 आनुमानिकश्चेत्यन्ये ।  
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+आगमानुमानप्रमाणक इत्य् अपरे ।
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -985,6 +1000,10 @@ others that He is also cognised by extraordinary perception.
 <details><summary>मूलम्</summary>
 
 विशिष्टप्रत्यक्षसमधिगम्यश्चेत्यपरे ।  
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+श्रुतो मतश् च श्रुतितो ऽनुमानतश् च प्रेमपूर्वानुध्यान-संस्कृत-मनोग्राह्यश् चेति तु सिद्धान्तिनः ॥
 </details>
 
 
@@ -1003,12 +1022,16 @@ Diversity of views regarding the relation of the individual soul to the Supreme 
 </details>
 <details><summary>English</summary>
 
-Similarly, in regard to the relation of the individual soul to the Supreme Self also, some maintain that relations such as that between the ruler and the ruled are based on a knowledge of distinctions, which is caused by beginningless avidyā; and that, in truth, there is only one reality.[^5_21]
+Similarly, in regard to the relation of the individual soul to the Supreme Self also, some maintain that relations such as that between the ruler and the ruled are based on a knowledge of distinctions, which is caused by beginningless avidyā; and that, in truth, there is only one reality.[F5_21]
 </details>
 <details><summary>मूलम्</summary>
 
 तथा आत्मपरमात्मनोः सम्बन्धेऽपि - अनाद्यविद्योपादानभेदास्पदोऽयमीश्वरेशितव्यतादिरूपसम्बन्धः ।  
 परमार्थतस्त्वेकं तत्त्वमिति केचित् ।  
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अथ जीवपरयोः सम्बन्धे ऽपि विप्रतिपत्तीर् निर्दिशति "तथा आत्मे"ति । अद्वैतिनां पक्षम् आह "अनादी"ति । अविद्याकृत-भेदावलम्बनत्वाद् ईशेशितव्यत्वादेर् व्यावहारिकत्वम् एव न परमार्थत्वम् इत्य् आशयो ऽमीषाम् ।
 </details>
 
 
@@ -1018,11 +1041,15 @@ Similarly, in regard to the relation of the individual soul to the Supreme Self 
 </details>
 <details><summary>English</summary>
 
-Others hold that though there is non-difference, the jiva is other than the Supreme Self.[^5_22]
+Others hold that though there is non-difference, the jiva is other than the Supreme Self.[F5_22]
 </details>
 <details><summary>मूलम्</summary>
 
 व्यतिरेकाभावेऽप्यतिरिक्तो जीव इत्यन्ये ।  
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+प्रतिबिम्बपक्षाभिप्रायेणाह् "व्यतिरेके"ति । बिम्बतो भेदाभावे ऽपि प्रतिबिम्बानां भेदप्रतिपत्त्यादिगोचरत्वलक्षणो ऽतिरेको विशेषो ऽस्तीति भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1034,15 +1061,19 @@ Others hold that though there is non-difference, the jiva is other than the Supr
 </details>
 <details><summary>English</summary>
 
-As there is oneness in point of essence and distinction on account of limiting conditions, some posit both difference and non-differene-difference in so far as it (Brahman) is associated with limiting conditions, and non-difference in respect of its essence.[^5_23]
+As there is oneness in point of essence and distinction on account of limiting conditions, some posit both difference and non-differene-difference in so far as it (Brahman) is associated with limiting conditions, and non-difference in respect of its essence.[F5_23]
 
-[^5_21]: Nyaya-Vaiseshika
-[^5_22]: Advaita
-[^5_23]: Bhaskara
+[F5_21]: Nyaya-Vaiseshika
+[F5_22]: Advaita
+[F5_23]: Bhaskara
 </details>
 <details><summary>मूलम्</summary>
 
 स्वतस्त्वैक्यम्, उपाधितो भेद इति विशिष्टस्वरूपभावेन भिन्नाभिन्नत्वमितरे ।  
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+भास्करपक्षम् आह "स्वत" इति । स्वरूपतो ऽभेदः । औपाधिको भेदः । भेदाभेदयोर् विरुद्धयोः केवलस्वरूप एवासम्भवाद् इत्य् आशयः ।
 </details>
 
 
@@ -1058,6 +1089,10 @@ Even when there is diversity, there is the relation of non-difference (between G
 
 नानात्वे सत्येवाऽभेदो नामान्वयः अंशांशिभावलक्षणः, 
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+यादवप्रकाशपक्षम् आह "नानात्व" इति । अंशांशिभावलक्षण इत्यस्यान्वय इत्य् अनेन सम्बन्धः । अंशांशित्वाद् भेदाभेदोपपत्तिः । भेदसमानाधिकरणाभेदस्यैव तादात्म्यस्य सामानधिकरण्यार्थत्वम् इति हार्दम् एतेषाम् ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1070,6 +1105,10 @@ that it is the relation between seşa and seși or in other words, that between 
 <details><summary>मूलम्</summary>
 
 समवायः परतन्त्रतालक्षणः, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+"समवाय" इत्यादिः सिद्धान्तिना पक्षः । नानासम्बन्धोपगमाज् जीवपरयोः सिद्धान्ते नानसम्बन्धकीर्तनम् । अंशांशिभावलक्षण इत्यस्य सिद्धान्तपक्षत्वम् अपि सम्भवति । परतन्त्रता अपृथक्सिद्धिः तद्रूपः समवायः, न त्व् अतिरिक्तो वैशेषिकमतवद् इति भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1084,6 +1123,10 @@ that it is the relation between the owner and the owned, exemplified in master s
 
 शेषशेषित्वरूपः, 
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+परगतातिशयाधानेच्छाप्रक्ल्प्त-स्वरूपादिकत्वं शेषत्वम् ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1096,6 +1139,10 @@ Even when there is diversity, there is the relation of non-difference (between G
 <details><summary>मूलम्</summary>
 
 स्वस्वामिभावः, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+यथेष्ट-विनियोगार्हत्वं स्वत्वम् ।
 </details>
 
 
@@ -1111,6 +1158,10 @@ Even when there is diversity, there is the relation of non-difference (between G
 <details><summary>मूलम्</summary>
 
 भृत्यस्वामिलक्षण इति च नानाविद्या वादाः ।  
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+प्रेर्यचेतनत्वं भृत्यत्वम् इति भिदा । एतत्प्रतिसम्बन्धित्वलक्षणं च शेषित्वादीति बोध्यम् । भृत्यस्वामीति भावप्रधाननिर्देशः । भृत्यस्वामित्वलक्षण इति यावत् । तथैव वा पाठः सम्भाव्यते ।
 </details>
 
 ### मोक्षे
@@ -1132,6 +1183,10 @@ Even in regard to the supreme goal of human endeavour, mökṣa, which consists 
 
 तथा परमपुरुषार्थभूते ब्रह्मप्राप्तिलक्षणमोक्षेऽपि - 
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अथ मुक्तिस्वरूपे विप्रतिपत्तीर् आह "तथा परमे"ति । ब्रह्मप्राप्तिलक्षणा इति स्वाभिमतोक्तिः पराभिमतानां मुक्तिस्वरूपाणां पुरुषार्थत्वायोगसूचनार्था ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1139,13 +1194,17 @@ Even in regard to the supreme goal of human endeavour, mökṣa, which consists 
 </details>
 <details><summary>English</summary>
 
-that it consists in annihilation of one's self[^6_24];
+that it consists in annihilation of one's self[F6_24];
 
-[^6_24]: Buddhism
+[F6_24]: Buddhism
 </details>
 <details><summary>मूलम्</summary>
 
 स्वरूपोच्छित्तिलक्षणः, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+चार्वाकाणां शून्यवादिनां च स्वरूपोच्छित्तिपक्षः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1154,13 +1213,17 @@ that it consists in annihilation of one's self[^6_24];
 </details>
 <details><summary>English</summary>
 
-that it is the destruction of ignorance,[^6_25]
+that it is the destruction of ignorance,[F6_25]
 
-[^6_25]: Advaita
+[F6_25]: Advaita
 </details>
 <details><summary>मूलम्</summary>
 
 अविद्यास्तमयलक्षणः, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+योगाचाराणां मायिनां वा पक्षो द्वितीयः ।
 </details>
 
 
@@ -1170,13 +1233,17 @@ that it is the destruction of ignorance,[^6_25]
 </details>
 <details><summary>English</summary>
 
-that it is the state of aloofness resulting from the complete destruction of all the special qualities of the self[^6_26];
+that it is the state of aloofness resulting from the complete destruction of all the special qualities of the self[F6_26];
 
-[^6_26]: अविद्यास्तमयो मोक्षस्सा च बन्ध उदाहृतः Nyaya-Vaiseika
+[F6_26]: अविद्यास्तमयो मोक्षस्सा च बन्ध उदाहृतः Nyaya-Vaiseika
 </details>
 <details><summary>मूलम्</summary>
 
 निःशेषवैशेषिकात्मगुणोच्छेदलक्षणः, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+कणादादिपक्षस् तृतीयः । विशेष एव वैशेषिकः ।
 </details>
 
 
@@ -1186,13 +1253,17 @@ that it is the state of aloofness resulting from the complete destruction of all
 </details>
 <details><summary>English</summary>
 
-that it is the state of becoming one with Brahman[^6_27];
+that it is the state of becoming one with Brahman[F6_27];
 
-[^6_27]: Advaita अत्र यद्यपि कोशेषु साधर्म्य पदमस्ति तथापि तदनुचितमिव; अवयवक्तव्यस्य ऐक्यलक्षण मोक्षस्या कथनप्रसङ्गात् ॥
+[F6_27]: Advaita अत्र यद्यपि कोशेषु साधर्म्य पदमस्ति तथापि तदनुचितमिव; अवयवक्तव्यस्य ऐक्यलक्षण मोक्षस्या कथनप्रसङ्गात् ॥
 </details>
 <details><summary>मूलम्</summary>
 
 कैवल्यरूपः, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+साङ्ख्यपक्षस् तुरीयः ।
 </details>
 
 
@@ -1202,13 +1273,17 @@ that it is the state of becoming one with Brahman[^6_27];
 </details>
 <details><summary>English</summary>
 
-that it consists in attaining similarity with Brahman[^6_28];
+that it consists in attaining similarity with Brahman[F6_28];
 
-[^6_28]: cf Siva-Sankrantivada cf Siva-sama-vada
+[F6_28]: cf Siva-Sankrantivada cf Siva-sama-vada
 </details>
 <details><summary>मूलम्</summary>
 
 तद्भावसाधर्म्यलक्षणः, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+तद्भावसाधर्म्यलक्षण इत्य् अद्वैतिनां स्यात् । तच्छब्दो ब्रह्मपरः । ब्रह्मभाव एव साधर्म्यं मुक्तिर् इति ।
 </details>
 
 
@@ -1224,6 +1299,10 @@ that it is the inflow of God's qualites;
 
 तद्गुणसङ्क्रान्तिलक्षणः, 
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+यद्वा ब्रह्मरूप-साम्यप्राप्ति, ब्राह्म-गुणप्राप्ति, ब्रह्म-कान्ति-प्राप्ति-लक्षण-मुक्तिभेदपरं पदत्रयम् ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1231,11 +1310,15 @@ that it is the inflow of God's qualites;
 </details>
 <details><summary>English</summary>
 
-that it consists in attaining similarity with Brahman[^6_28];
+that it consists in attaining similarity with Brahman[F6_28];
 </details>
 <details><summary>मूलम्</summary>
 
 तच्छायापत्तिलक्षणः, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+यद्वा ब्रह्मरूप-साम्यप्राप्ति, ब्राह्म-गुणप्राप्ति, ब्रह्म-कान्ति-प्राप्ति-लक्षण-मुक्तिभेदपरं पदत्रयम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1249,6 +1332,10 @@ that it is the fullest revelation of its (self's) intrinsic attributes of bliss 
 <details><summary>मूलम्</summary>
 
 सांसिद्धिकानन्दादिस्वरूपाविर्भावलक्षणः, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+"सांसिद्धिके"ति मीमांसकादीनां मतम् ।
 </details>
 
 
@@ -1266,6 +1353,10 @@ that it is everlasting service to the Lord kindled by the heightened manifestati
 <details><summary>मूलम्</summary>
 
 तद्गुणानुभवजनितनिरतिशयसुखसमुन्मेषोपनीतात्यन्तिकतत्किङ्करत्वलक्षण इति तथा तथा विवदन्ते ।  
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+"तद्गुणे" त्यादि सिद्धान्तिनाम् । स्वरूपाविर्भावो ऽप्य् अत्र गर्भितः । किङ्करत्वं सेवाकरणम् ।
 </details>
 
 
@@ -1288,6 +1379,10 @@ About the means of attaining mokşa also, some contend that it is attainable by 
 
 तत्साधनतोऽपि - कर्मयोगलभ्यः, 
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+मुक्त्युपाये ऽपि ता आह "तत्साधनतो ऽपी"ति ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1308,9 +1403,9 @@ and some that it is realisable by jnana-yoga;
 </details>
 <details><summary>English</summary>
 
-some believe that it is attainable by either of these (two) helped by the other[^6_30];
+some believe that it is attainable by either of these (two) helped by the other[F6_30];
 
-[^6_30]: Here one of the two is primary and the other secondary
+[F6_30]: Here one of the two is primary and the other secondary
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1324,13 +1419,17 @@ some believe that it is attainable by either of these (two) helped by the other[
 </details>
 <details><summary>English</summary>
 
-some assert that it is rendered effective by both[^6_31];
+some assert that it is rendered effective by both[F6_31];
 
-[^6_31]: Here both are of equal importance. Jnanakarma-Samuccayavada
+[F6_31]: Here both are of equal importance. Jnanakarma-Samuccayavada
 </details>
 <details><summary>मूलम्</summary>
 
 उभयलभ्यः, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+कर्म-ज्ञान-समुच्चयपक्षो यादवप्रकाशीयः ।
 </details>
 
 
@@ -1346,6 +1445,10 @@ some hold that to him whose mind is purified by both (karma and jnana), it is re
 <details><summary>मूलम्</summary>
 
 उभयपरिकर्मितस्वान्तस्यैकान्तिकात्यन्तिकभक्तियोगलभ्य इति ।  
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+"उभये"ति सिद्धान्तिपक्षः । कर्मयोग-ज्ञानयोगाभ्यां संस्कृतचेतस एव भक्तियोगो नाम परभक्तिर् उदैति । कर्म-ज्ञानाद्य्-अङ्गिका सैव परब्रह्म-प्राप्ति-लक्षण-मोक्षसाधनम् । तस्याश् चैकान्तिकत्वं भगवद्-एकविषयत्वम् । आत्यत्निकत्वं चाविच्छिन्नत्वम् । परज्ञान-परमभक्त्योर् एतद्विपाकरूपत्वम् एवेति भावः ।
 </details>
 
 ## प्रबन्ध-प्रयोजनम्
@@ -1366,6 +1469,10 @@ Noticing the conflicting views of inquirers who have not determined anything con
 <details><summary>मूलम्</summary>
 
 तदेवमनवसितविशेषविमर्शकजनविमतिदर्शनात्, 
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+विप्रतिपत्तिप्रदर्शनस्य विचाराम्भोपयोगितां समर्थयति "तदेवम्" इति । परीक्षकाणां विप्रतिपत्तिभेदे कस्मिंश्चिद् अपि वा पक्षे यावत् सत्-प्रमाण-तर्कमूलकत्वादि-विशेषो नावधार्यते, तावत् तत्त्वे सन्देहो न निवर्तते । यावच् च निरुक्त-विशेषानवधारणम्, न तावत् तत्तत्साधने व्याप्ति-पक्षधर्मता-योगित्व-लक्षम-बलनिर्धारणम् । न च विरुद्ध-साध्य-साधनयोर् वास्तविक-व्याप्ति-पक्षधर्मतोपपत्तिर् एकस्मिन्न् एव धर्मिणि । तथा च समबलतया प्रतीयमानानां नानापक्षसाधनानां सत्प्रतिपक्षभावेन साध्यनिर्णयो दुर्घटः । न चार्थसन्देहाद् एव मुक्तिः । तथा च पक्षभेदे जाग्रति यत्र वास्तवो विशेष इति विचारः प्राप्तावसरः । विचारेण अन्यतमपक्षे विशेषावधारणे तु तत्पक्षसाधनस्याधिकबलत्वज्ञानात् सत्प्रतिपक्षभावनिवृत्तेस् तेनार्थतत्त्वनिर्णयोपपत्तिः । तत्-मुक्तिसाधनोपयोग्य्-अर्थ-तत्त्वनिर्णयाय आत्मस्वरूपादिगोचरान्यतमपक्षस्य सत्-प्रमाण-तर्कमूलकत्वादि-विशेषव्यवस्थापनपरस्य विचारग्रन्थस्यारम्भो युक्त एवेति समुदिताशयः ।
 </details>
 
 
@@ -1388,6 +1495,10 @@ not knowing the strength and weakness of the proofs of the respective views, and
 तत्त्तत्पक्षसाधनबलाबलावगमाच्च ततस्ततः सन्दिहानाः प्रेक्षावन्तो न तावत्परमपुरुषार्थाय घटेरन्, यावदयमात्मा परमात्मा च स्वरूपतः प्रमाणतः सम्बन्धतः प्राप्तितः तत्साधनतश्च न निर्णियेतेति तत्प्रतिबोधायेदमारभ्यते ।  
 
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+विप्रतिपत्तिप्रदर्शनस्य विचाराम्भोपयोगितां समर्थयति "तदेवम्" इति । परीक्षकाणां विप्रतिपत्तिभेदे कस्मिंश्चिद् अपि वा पक्षे यावत् सत्-प्रमाण-तर्कमूलकत्वादि-विशेषो नावधार्यते, तावत् तत्त्वे सन्देहो न निवर्तते । यावच् च निरुक्त-विशेषानवधारणम्, न तावत् तत्तत्साधने व्याप्ति-पक्षधर्मता-योगित्व-लक्षम-बलनिर्धारणम् । न च विरुद्ध-साध्य-साधनयोर् वास्तविक-व्याप्ति-पक्षधर्मतोपपत्तिर् एकस्मिन्न् एव धर्मिणि । तथा च समबलतया प्रतीयमानानां नानापक्षसाधनानां सत्प्रतिपक्षभावेन साध्यनिर्णयो दुर्घटः । न चार्थसन्देहाद् एव मुक्तिः । तथा च पक्षभेदे जाग्रति यत्र वास्तवो विशेष इति विचारः प्राप्तावसरः । विचारेण अन्यतमपक्षे विशेषावधारणे तु तत्पक्षसाधनस्याधिकबलत्वज्ञानात् सत्प्रतिपक्षभावनिवृत्तेस् तेनार्थतत्त्वनिर्णयोपपत्तिः । तत्-मुक्तिसाधनोपयोग्य्-अर्थ-तत्त्वनिर्णयाय आत्मस्वरूपादिगोचरान्यतमपक्षस्य सत्-प्रमाण-तर्कमूलकत्वादि-विशेषव्यवस्थापनपरस्य विचारग्रन्थस्यारम्भो युक्त एवेति समुदिताशयः ।
+</details>
 
 
 
@@ -1405,6 +1516,10 @@ Having the same end in view, aphorisms (sūtras) were composed by the venerable 
 यद्यपि भगवता बादरायणेन
 इदमर्थान्येव सूत्राणि प्रणीतानि,  
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ननु आत्म-परमात्मनोर् नाना-विप्रतिपत्ति-निरसनार्थं पूर्वाचार्यप्रबन्धानां प्रवर्तनम् एव कर्यम् । कृतं नूत्न-प्रबन्ध-प्रणयनप्रवृत्त्येत्य् आशङ्काम् अन्तर् निधायाह "यद्यपी"ति । इदम्-अर्थान्य् एव आत्म-परमात्म-तत्सम्बन्धाद्य्-अर्थ-तत्त्वनिर्णयार्थान्य् एव, सूत्राणि ब्रह्ममीमांसासूत्राणि । एषाम् एव मुख्यं सूत्रत्वम् इति स्कान्दोक्तं "निर्विशेषित-सूत्रत्वं ब्रह्मसूत्रस्य चाप्य् अतः । सविशेषाणि सूत्राणि ह्य् अपराणि विदो विदुः ॥ मुख्यस्य निर्विशेषेण शब्दो ऽन्येषां विशेषतः । इति वेदविदः प्राहुः शब्दतत्त्वार्थवेदिनः ॥" इति ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1413,16 +1528,40 @@ Having the same end in view, aphorisms (sūtras) were composed by the venerable 
 </details>
 <details><summary>English</summary>
 
-and these aphorisms (Brahma Sutras) have been interpreted by the Bhāṣyakāra[^7_31a] (Dramiḍāchārya) whose exposition is concise and profound; and they have been elaborately explained by the venerable Srivatsanka Misra who set forth an ocean of elegant and incisive and forthright rules of interpretation (nyāyas).
-
-[^7_31a]: Dr. Van Buitenen in his edition of Fedartha-angraha, p. 24. states'... .. Yamuna, at the beginning of his Atmasiddhi gives a list of ancient Vedantins-Strangely enough he does not mention the rtthi by which Ramanuja set great store and which must have enjoyed great authority........But he mentions a bhasvakrt who had explained Badarayana's Sutras 'briefly and profoundly'........ This bhasyakrt is always identified with Dramida, the Bhasyakara, for which.....there are no arguments, Ramanuja declares that the Frithi was an extensive one, Yamuna that the bhasya was a brief one Vrtthi 'gloss scholion' is mainly distinguished from a bhasya 'commentary' by its size. a long vrtthi will be very similar to a short bhasya. As Bodhayana's omission cannot be accounted for in this context-where a sub commentary by a Srivatasankra Misra another ancient Master, is mentioned-I am inclined to think that Yamuna and Ramanuja both referred to the same work by different descriptions." The logic of this Identity is far from clear No. convincing reason has been advanced by Dr. Buitenen to show that there has been a mixing up of the vrtthi and the bhasya.
-The absence of any mention of Bodhayana vrtthi in Yamuna's work poses no problem; it is easily explained on the simple hypothesis that the work was not available to him. This would accord well with the traditional account that Ramanuja undertook an arduons journey to Sarada Math, Kashmir, to consult this rare manuscript said to have been preserved there.
-In the same edition of Vedarthasangraha, p. 25, Dr. Van Buitenen makes the following strange observation. Tanka's name which has the second place in Ramanuja's list does also appear in a list of Yamuna but here he has the distinction of being mentioned the first of a series of adversaries and is put on a par with Advaitins like Bhartrhari and Sankara and Dvaitadvaitins like Bhartrprapanca and Bhaskara." Evidently, the expression sita sita (good, bad and partly good and partly
+and these aphorisms (Brahma Sutras) have been interpreted by the Bhāṣyakāra[F7_31a] (Dramiḍāchārya) whose exposition is concise and profound; and they have been elaborately explained by the venerable Srivatsanka Misra who set forth an ocean of elegant and incisive and forthright rules of interpretation (nyāyas).
 </details>
+
+<details><summary>English - Note</summary>
+
+
+[F7_31a]: Dr. Van Buitenen in his edition of Vedartha-sangraha, p. 24. states 
+
+> '... .. Yamuna, at the beginning of his Atmasiddhi gives a list of ancient Vedantins- Strangely enough he does not mention the vrtthi by which Ramanuja set great store and which must have enjoyed great authority........But he mentions a bhasyakrt who had explained Badarayana's Sutras 'briefly and profoundly'........ This bhasyakrt is always identified with Dramida, the Bhasyakara, for which.....there are no arguments. Ramanuja declares that the vrithi was an extensive one, Yamuna that the bhasya was a brief one. 
+> 
+> Vrtthi 'gloss scholion' is mainly distinguished from a bhasya 'commentary' by its size. a long vrtthi will be very similar to a short bhasya. As Bodhayana's omission cannot be accounted for in this context-where a sub commentary by a Srivatasankra Misra another ancient Master, is mentioned-I am inclined to think that Yamuna and Ramanuja both referred to the same work by different descriptions." 
+
+The logic of this Identity is far from clear. 
+No convincing reason has been advanced by Dr. Buitenen to show that there has been a mixing up of the vrtthi and the bhasya.
+
+The absence of any mention of Bodhayana vrtthi in Yamuna's work poses no problem; it is easily explained on the simple hypothesis that the work was not available to him. This would accord well with the traditional account that Ramanuja undertook an arduons journey to Sarada Math, Kashmir, to consult this rare manuscript said to have been preserved there.
+
+In the same edition of Vedarthasangraha, p. 25, Dr. Van Buitenen makes the following strange observation. 
+
+> Tanka's name which has the second place in Ramanuja's list does also appear in a list of Yamuna but here he has the distinction of being mentioned the first of a series of adversaries and is put on a par with Advaitins like Bhartrhari and Sankara and Dvaitadvaitins like Bhartrprapanca and Bhaskara." 
+
+Evidently, the expression sitasita (good, bad and partly good and partly bad and partly bad) occurring in the text has escaped the notice of this eminent orientalist: else he would not have drawn such a conclusion \- Yamuna's list is not made up exclusively of adversaries but it contains a few names of exponents of vedantic thouhgt some of whom have composed works which, in his opinion, are trustworthy guides to a Proper 'understanding of the nature' of the Real, others untrustworthy and yet others in part reliable and in part unreliable. Again the very mode of reference to Tanka as 'Acarya Tanka' clearly indicates the great esteem in which Yamuna holds this thinker.
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 विवृतानि च परिमितगम्भीरभाषिणा भाष्यकृता  
 विस्तृतानि च तानि गम्भीरन्यायसागरभाषिणा भगवता श्रीवत्साङ्कमिश्रेणापि ;  
+</details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+"विवृतानी"ति । परिमितत्वं शब्दसङ्क्षेपः । गभीरत्वम् अर्थगाम्भीर्यशालित्वम् । द्रमिडभाष्यकृद् द्रमिडाचार्यसञ्ज्ञकः छान्दोग्यव्याख्यानस्य वाक्याभिधस्य टङ्काचार्यापराभिधान-ब्रह्मनन्दिकृतस्य भाष्यकर्ता । ब्रह्मसूत्राणाम् अपि बाष्यं कृतम् अनेनेति एतच्-छ्रीसूक्तिसन्दर्भाद् अवगम्यते । "विस्तृतानि चे"ति । तानि द्रमिडाचार्यकृत-ब्रह्मसूत्रभाष्यवाक्यानि । "विवरणग्रन्थे" इति शेषः । तानि ब्रह्मसूत्राणि वा । श्रीविष्णुपुराणव्याख्याने विष्णुचित्तीये विवरणवाक्यानि समुद्धृतानि सन्ति ।
 </details>
 
 
@@ -1435,10 +1574,15 @@ In the same edition of Vedarthasangraha, p. 25, Dr. Van Buitenen makes the follo
 </details>
 <details><summary>English</summary>
 
-Nevertheless, as the understanding of persons has been misled by faith in the various writings, good and bad and partly good and partly bad, of Acarya Ṭanka, Bhartṛprapanca, Bhartṛmitra, Bhartṛhari, Brahmadatta, Sankara, Srivatsanka,[^8_31c] Bhaskara, and others; and as persons do not know things as they are and even understand them erroneously, the undertaking of this work is but proper for a right knowledge of categories. 
-
-[^8_31c]: It is noteworthy that reference is here made to two thinkers with almost identlical names-a Srivatsanka Misra, and a Srivatsanka; of these the former is affiliated to the visistadvaita school and is applauded as having laid down a wealth of elegant, incisive and forth-right rules of inter-pretation; while the latter belongs to a rival school of thought.
+Nevertheless, as the understanding of persons has been misled by faith in the various writings, good and bad and partly good and partly bad, of Acarya Ṭanka, Bhartṛprapanca, Bhartṛmitra, Bhartṛhari, Brahmadatta, Sankara, Srivatsanka,[F8_31c] Bhaskara, and others; and as persons do not know things as they are and even understand them erroneously, the undertaking of this work is but proper for a right knowledge of categories. 
 </details>
+
+<details><summary>English - Note</summary>
+
+[F8_31c]: It is noteworthy that reference is here made to two thinkers with almost identical names-a Srivatsanka Misra, and a Srivatsanka; of these the former is affiliated to the visistadvaita school and is applauded as having laid down a wealth of elegant, incisive and forth-right rules of inter-pretation; while the latter belongs to a rival school of thought.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तथापि, आचार्यटङ्क भर्तृप्रपञ्चभर्तृमित्रभर्तृहरि ब्रह्मदत्तशङ्कर श्रीवत्साङ्कभास्करादिविरचित सितासितविविधनिबन्धनश्रद्धाविप्रलब्धबुद्धयो  
@@ -1446,7 +1590,16 @@ Nevertheless, as the understanding of persons has been misled by faith in the va
 तत्प्रतिपत्तये युक्तः प्रकरणप्रक्रमः ॥ 
 (इत्युपोदघातप्रकरणम्) 
 </details>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
+"तथापी"ति । अयं भावः यद्यपि पूर्वाचार्यप्रब्न्धेष्व् अध्यात्मतत्त्वं सपरिकरं निरूपितम् एवास्ति, अथापि पाश्चात्यैः ब्रह्ममीमांसादिव्याख्याच्छलेन नानामतानां प्रवर्तितत्वाद् आ च अप्रामाण्यहेत्ववधारणात् तद्ग्रन्थेष्व् अपि श्रद्धायाः सिद्धान्तग्रन्थेष्व् इव सम्भवात् तेषु च विप्रतिपत्तिबाहुल्येन विचलितबुद्धयो नाञ्जसा तत्त्वज्ञानं प्राप्नुयुर् इति तत्तन्मत-सारासारविवेकोपयोगि-तत्तन्मत-परीक्षात्मक-प्रकरणारम्भ आवश्यक एवेति । आचार्य-टङ्कादिषु निर्दिष्टेषु केचित् सिद्धान्तिनः, अन्ये तु मतान्तरानुयायिनः स्युः । तत्प्रबन्धेषु च सितासितत्वम् अस्फुटप्रतिपादकत्वम् अन्यथाप्रतिपादकत्वं च यथासम्भवं योज्यम् । यद्वा टङ्क-श्रीवत्साङ्काव् अपि अत्र निर्दिष्टौ मतान्तरस्थौ वाक्यविवरणकर्तृभिन्नौ स्याताम् । वाक्यकर्तुर् टङ्कसञ्ज्ञा च वेदार्थसङ्ग्रटीकातो ऽवगम्यते । "तत्प्रतिपत्तये चे"ति । केचिद् अस्फुटतयार्ऽथतत्त्वम् अवगच्छन्ति, केचित् पुनः केनापि हेतुना मतान्तरग्रन्थेषु श्रद्धालवो ऽत एव वञ्चितबुद्धयो ऽन्यथैव प्रतिपद्यन्त इति स्फुटप्रतिपत्तये ऽन्यप्रबन्धानां सितासितत्वप्रतिपत्तये च प्रकरणारम्भो युक्त एवेत्य् आशयः । पूर्वाचार्यप्रबन्धानां शास्त्ररूपाणां प्रकरणम् इदम् आत्मसिद्ध्यादीति च हार्दम् । प्रकरणं चेदं शारीरकमीमांसायाः, न्यायतत्त्वशस्त्रस्य च । शास्त्रैकदेशार्थप्रतिपादनतत्परत्वे सति शास्त्रार्थप्रतिपत्त्युपयोगि (विरोधिमतनिरासादि) कार्यान्तरव्यापृतिमत्त्वं प्रकरणत्वम् । तद् उक्तं 
+
+> "शास्त्रैक-देश-सम्बद्धं  
+शास्त्रकार्यान्तरे स्थितम् ।  
+मतं प्रकरणं नाम" 
+
+इति ॥
+</details>
 
 ## जीवात्म-निरूपणं
 <details><summary>English</summary>
