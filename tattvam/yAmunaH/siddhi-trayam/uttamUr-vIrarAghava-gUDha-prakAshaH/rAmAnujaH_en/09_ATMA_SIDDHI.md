@@ -218,7 +218,7 @@ As the knowledge of bodily parts is absent in the consciousness 'I know' either 
 
 [[P14]]
 
-the body cannot be the object of self-consciousness, because it is known to be 'this' or because it is grasped by external senses, as in the case o the pot and the like.
+the body cannot be the object of self-consciousness, because it is known to be 'this' or because it is grasped by external senses, as in the case of the pot and the like.
 
 ### The Sankhya arguments against the claim that perception establishes identity of body and soul:-
 

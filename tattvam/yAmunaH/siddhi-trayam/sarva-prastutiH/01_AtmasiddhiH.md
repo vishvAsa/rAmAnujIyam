@@ -2,6 +2,8 @@
 title = "०१ आत्मसिद्धिः"
 
 +++
+
+
 **परमाचार्य श्रीमद्यामुनाचार्य समनुगृहीते,**
 
 **सिद्धित्रये आत्मसिद्धिः**
@@ -50,7 +52,14 @@ title = "०१ आत्मसिद्धिः"
 स्व-**परिचरण-भोगैः** श्रीमति **प्रीयमाणे**  
 **भवतु** मम परस्मिन् पुरुषे भक्ति-भूया    ॥ १  ॥
 </details>
+<details><summary>English</summary>
 
+May I have the highest bhakti to Sriman[^1_1] (the Consort of Sri or Lakṣmi), the Supreme Puruşa who is ever pleased by souls whose sole enjoyment is in rendering service to the Divine, and to whose will Matter (prakṛti)[^1_3], bound souls (puruşa)[^1_2], time, manifest material nature, released souls and innumerable eternally perfect souls always conform. (St. 1)
+
+[^1_1]: As the prayer is for highest form of bhakti to Sriman, it is evident that Yamunacharya considers Lord Narayana along with Lakshmi the means of salvation, even as He, in conjunction with her, is the supreme goal.
+[^1_3]: Prakrti is the primordial source of the material universe. In the state of pralaya (dissolution) it is known as avyakta (the unmanifest); in the state of sarga (evolution) it is called vyakta (the manifest).
+[^1_2]: Visistadvaitism recognises three classes of jivas - baddha (the bound), mukta (the liberated) and nitya (the ever- perfect). Jainism accepts a similar classification.
+</details>
 <details><summary>मूलम्</summary>
 
 
@@ -78,7 +87,10 @@ title = "०१ आत्मसिद्धिः"
 अतस् तत्-परिशुद्ध्य्-अर्थम्  
 आत्म-सिद्धिर् विधीयते    ॥ २  ॥
 </details>
+<details><summary>English</summary>
 
+There are many conflicting views concerning the finite self and the Infinite Self. With a view to making the matter clear, a book named Atmasiddhi. (the determination of the real nature of the soul) is written. (St. 2)
+</details>
 <details><summary>मूलम्</summary>
 
 विरुद्धमतयोऽनेकाः सन्त्यात्मपरमात्मनोः  ।  
@@ -97,7 +109,10 @@ title = "०१ आत्मसिद्धिः"
 संमतं हि सर्वसमयेष्व्  
 आत्मज्ञानं निःश्रेयस-हेतुर् इति  ।  
 </details>
+<details><summary>English</summary>
 
+That the knowledge of the self is the means of attaining transcendental felicity is indeed admitted in all systems.
+</details>
 <details><summary>मूलम्</summary>
 
 संमतं हि सर्वसमयेषु आत्मज्ञानं निःश्रेयसहेतुरिति  ।  
@@ -120,7 +135,14 @@ title = "०१ आत्मसिद्धिः"
 इत्यादिः  
 परावरात्म-तत्त्व-ज्ञानस्यापवर्ग-साधनत्वं प्रतिपादयन् वेदान्त-वाक्य-गणः  ।
 </details>
+<details><summary>English</summary>
 
+Upanisadic texts such as the following, declaring that the knowledge of the finite self and of the Supreme Controller to be different, and thereby becoming the object of His grace, he attains immortality"[^1_4]: "If one should know the self"[^1_5]; "The knower of the self crosses over sorrow"; "He who knows Brahman attains the Highest"[^1_6].
+
+[^1_4]: Svet. Up. 1.6.
+[^1_5]: Chand, Up.
+[^1_6]: Tait. Up.
+</details>
 <details><summary>मूलम्</summary>
 
 श्रूयते चऽपृथगात्मानं प्रेरितारं च मत्वा जुष्टुस्ततस्तेनामृतत्वमेतिऽऽआत्मानं चेद्विजानीयात्ऽऽतरतिशोक मात्मवित्ऽऽब्रह्मविदाप्नोति परऽ मित्यादिः परावरात्मतत्त्वज्ञानस्यापवर्गसाधनत्वं प्रतिपादयन्वेदान्तवाक्यगणः  ।
@@ -128,11 +150,18 @@ title = "०१ आत्मसिद्धिः"
 
 ## मत-समीक्षा - जीवात्मनि
 ### स्वरूपे
+<details><summary>English</summary>
+
+Conflicting views concerning the finite self.
+</details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रास्मिन्न् आत्मनि परस्मिंश् चानेक-विधा विप्रतिपत्तयः तीर्थकराणाम् ।  
 </details>
+<details><summary>English</summary>
 
+Eminent teachers hold many conflicting views concerning the finite self and the Highest Person.
+</details>
 <details><summary>मूलम्</summary>
 
 तत्रास्मिन्नात्मनि परस्मिंश्चानेकविधा विप्रतिपत्तयः तीर्थकराणाम् ।  
@@ -144,7 +173,10 @@ title = "०१ आत्मसिद्धिः"
 तद् यथा -  
 आत्म-विषये तावत् देहम् एव केचिद् आत्मानम् आचक्षते ।  
 </details>
+<details><summary>English</summary>
 
+With regard to the individual self, some maintain that it is the body itself;'
+</details>
 <details><summary>मूलम्</summary>
 
 तद्यथा - आत्मविषये तावत् देहमेव केचिदात्मानमाचक्षते ।  
@@ -154,7 +186,10 @@ title = "०१ आत्मसिद्धिः"
 
 इन्द्रियाण्य् अन्ये ।  
 </details>
+<details><summary>English</summary>
 
+others that it is the senses;
+</details>
 <details><summary>मूलम्</summary>
 
 इन्द्रियाण्यन्ये ।  
@@ -164,7 +199,10 @@ title = "०१ आत्मसिद्धिः"
 
 मन इत्य् अन्ये ।  
 </details>
+<details><summary>English</summary>
 
+others, that it is mind (manas);
+</details>
 <details><summary>मूलम्</summary>
 
 मन इत्यन्ये ।  
@@ -175,7 +213,10 @@ title = "०१ आत्मसिद्धिः"
 
 प्राणम् अपरे ।  
 </details>
+<details><summary>English</summary>
 
+others that it is vital breath (prāṇa);
+</details>
 <details><summary>मूलम्</summary>
 
 प्राणमपरे ।  
@@ -185,7 +226,10 @@ title = "०१ आत्मसिद्धिः"
 
 अध्यस्त-ज्ञातृ-भावम् अनहङ्कारं बोध-मात्रम् इतरे ।  
 </details>
+<details><summary>English</summary>
 
+still others that it is pure consciousness, which is erroneously supposed, to possess the quality of being a knower and which does not appear in its real state as the 'I'";
+</details>
 <details><summary>मूलम्</summary>
 
 अध्यस्तज्ञातृ भावमनहङ्कारं बोधमात्रमितरे ।  
@@ -199,7 +243,10 @@ title = "०१ आत्मसिद्धिः"
 आगन्तुक-बोध-सुख-दुःखाद्य्-- अ-साधारण-गुणाधारम्  
 अहङ्कार-गोचरम् अपरे ।  
 </details>
+<details><summary>English</summary>
 
+Others that it is different from body, senses, mind, vital-breath and consciousness and that, like ether and the like, it has a non-intelligent nature, and that it is the substratum of knowledge, pleasure, pain and other adventitious and special qualities, and that it is the object of selfconsciousness."
+</details>
 <details><summary>मूलम्</summary>
 
 देहेन्द्रियमनःप्राणबोधविलक्षणमाकाशादिवदचित्स्वभावमागन्तुकबोधसुखदुःखाद्यसाधारणगुणाधारमहङ्कारगोचरमपरे ।  
@@ -214,7 +261,10 @@ title = "०१ आत्मसिद्धिः"
 अन्तः-करणोपधानापादित- राग-द्वेष-सुख-दुःखाद्य्- अ-शिव--गुण-निर्भासम्  
 अनुदितानस्तमित--स्व-रूप--प्रकाशं स्वयञ्-ज्योतिषम् इमम् अभिदधति ।  
 </details>
+<details><summary>English</summary>
 
+Others again say that it is of the nature of pure consciousness itself, which appears to possess inauspicious qualities, such as love, hate, pleasure, pain etc., produced by the limiting condition of the internal organ, even as a crystal that is in itself white appears however, to possess redness and other qualities imparted to it by certain specific limiting conditions (say, an adjacent red flower); and that the luminosity of its being is neither born nor destroyed; and that it is selfluminous.[^2_10]
+</details>
 <details><summary>मूलम्</summary>
 
 अपरे तु बोधैकस्वभावमेव, स्वभावधवलमिव स्फुटिकमणिमुपधानविशेषापादितारुणिमगुणादिनिर्भासमन्तःकरणोपधानापादितरागद्वेषसुखदुःखाद्यशिवगुणनिर्भासमनुदितानस्तमितस्वरूपप्रकाशं स्वयञ्ज्योतिषमिममभिदधति ।  
@@ -224,7 +274,10 @@ title = "०१ आत्मसिद्धिः"
 
 अन्ये तु ज्ञानानन्द-स्वभावम् ।  
 </details>
+<details><summary>English</summary>
 
+Others again hold that it has the nature of knowledge and bliss.
+</details>
 <details><summary>मूलम्</summary>
 
 अन्ये तु ज्ञानानन्दस्वभावम् ।  
@@ -236,7 +289,10 @@ title = "०१ आत्मसिद्धिः"
 आश्रयानुकूल्य-प्रतिलब्धानन्द-- सुखादि-व्यपदेश-बोध-विशेष एवास्य स्वाभाविक  
 इत्य् अन्ये ।  
 </details>
+<details><summary>English</summary>
 
+Still others that its nature is of that knowledge which, on account of its agreeableness to its possessor, acquires the name of bliss and pleasure.
+</details>
 <details><summary>मूलम्</summary>
 
 आश्रयानुकूल्यप्रतिलब्धानन्दसुखादिव्यपदेशबोधविशेष एवास्य स्वाभाविक इत्यन्ये ।  
@@ -244,12 +300,19 @@ title = "०१ आत्मसिद्धिः"
 
 
 ### प्रमाणे
+<details><summary>English</summary>
+
+Conflicting views regarding the pramanas by which the finits self is established
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा - अनुमान-समधिगम्यः ; 
 </details>
+<details><summary>English</summary>
 
+Similarly (with regard to the means of knowledge by which it is established, divergent views have been offered, such as that) it can be known through inference";
+</details>
 <details><summary>मूलम्</summary>
 
 तथा - अनुमानसमधिगम्यः ; 
@@ -259,7 +322,10 @@ title = "०१ आत्मसिद्धिः"
 
 आगमैक-वेद्यः ; 
 </details>
+<details><summary>English</summary>
 
+that (it) can be known only through scripture;
+</details>
 <details><summary>मूलम्</summary>
 
 आगमैकवेद्यः ; 
@@ -270,7 +336,10 @@ title = "०१ आत्मसिद्धिः"
 
 मानस-प्रत्यक्ष-वेद्यः ; 
 </details>
+<details><summary>English</summary>
 
+that (it) can be known through mental perception";
+</details>
 <details><summary>मूलम्</summary>
 
 मानसप्रत्यक्षवेद्यः ; 
@@ -281,7 +350,10 @@ title = "०१ आत्मसिद्धिः"
 
 ग्राहकतयैव स-कल--विषय-वित्तिषु प्रत्यक्षः ; 
 </details>
+<details><summary>English</summary>
 
+that (it) is directly known only as the knower in all cognition of objects[^3_13];
+</details>
 <details><summary>मूलम्</summary>
 
 ग्राहकतयैव सकलविषयवित्तिषु प्रत्यक्षः ; 
@@ -292,7 +364,10 @@ title = "०१ आत्मसिद्धिः"
 
 ज्ञान--स्व-भावतया ऽनुदितानस्तमित--स्व-रूप--प्रकाशः स्वयञ्ज्योतिः ; 
 </details>
+<details><summary>English</summary>
 
+that, as it possesses the nature of knowledge, its luminosity is neither born nor destroyed and that it is self-luminous.
+</details>
 <details><summary>मूलम्</summary>
 
 ज्ञानस्वभावतयानुदितानस्तमितस्वरूपप्रकाशः स्वयञ्ज्योतिः ; 
@@ -306,7 +381,10 @@ title = "०१ आत्मसिद्धिः"
 
 इति ।  
 </details>
+<details><summary>English</summary>
 
+Though possessed of this nature (i-e though self-luminous), with the aid respectively of scripture, inference, and yogic perception, it is directly perceived in its true nature as having a character different from everything other than itself, clearly, more clearly, and finally most clearly and immediately.
+</details>
 <details><summary>मूलम्</summary>
 
 ईदृशोऽप्युगमानुमानयोगजप्रत्यक्षैः स्वेतरसकलविलक्षणस्वाभाव्येन विशदविशदतरविशदतमतयाऽन्ततो यथावदपरोक्ष्यत इति ।  
@@ -318,7 +396,10 @@ title = "०१ आत्मसिद्धिः"
 
 तथा - परममहान् ; 
 </details>
+<details><summary>English</summary>
 
+Similarly (with regard to its size, the rival views are that) it is infinitely big;
+</details>
 <details><summary>मूलम्</summary>
 
 तथा - परममहान् ; 
@@ -329,7 +410,10 @@ title = "०१ आत्मसिद्धिः"
 
 अणुपरिमाणः ; 
 </details>
+<details><summary>English</summary>
 
+that (it is) atomic in size;
+</details>
 <details><summary>मूलम्</summary>
 
 अणुपरिमाणः ; 
@@ -340,7 +424,10 @@ title = "०१ आत्मसिद्धिः"
 
 शरीरपरिमाणः ; 
 </details>
+<details><summary>English</summary>
 
+that (it is) of the same size as the body;
+</details>
 <details><summary>मूलम्</summary>
 
 शरीरपरिमाणः ; 
@@ -352,7 +439,10 @@ title = "०१ आत्मसिद्धिः"
 स्वतः परिमाण-रहितोऽपि  
 व्याप्य-वस्तु-परिमिति-कृत-परिच्छेद इति ।  
 </details>
+<details><summary>English</summary>
 
+that, though in itself devoid of magnitude, it is limited to the size of the body pervaded by it.
+</details>
 <details><summary>मूलम्</summary>
 
 स्वतः परिमाणरहितोऽपि व्याप्यवस्तुपरिमितिकृतपरिच्छेद इति ।  
@@ -364,7 +454,10 @@ title = "०१ आत्मसिद्धिः"
 
 व्याप्तिरपिचैतन्यमात्रेण ; 
 </details>
+<details><summary>English</summary>
 
+Again, concerning the manner of its pervasion, the different theories are that it pervades only by its intelligence
+</details>
 <details><summary>मूलम्</summary>
 
 व्याप्तिरपिचैतन्यमात्रेण ; 
@@ -375,7 +468,10 @@ title = "०१ आत्मसिद्धिः"
 
 स्वरूपेणेति ।  
 </details>
+<details><summary>English</summary>
 
+and that it pervades by itself.
+</details>
 <details><summary>मूलम्</summary>
 
 स्वरूपेणेति ।  
@@ -387,7 +483,10 @@ title = "०१ आत्मसिद्धिः"
 
 तथा क्षणिकः ; 
 </details>
+<details><summary>English</summary>
 
+Similarly (with regard to its duration, it has been stated that) it is momentary;
+</details>
 <details><summary>मूलम्</summary>
 
 तथा क्षणिकः ; 
@@ -397,7 +496,10 @@ title = "०१ आत्मसिद्धिः"
 
 यावच्-छरीरोष्म-स्थायी ; 
 </details>
+<details><summary>English</summary>
 
+that it endures as long as the bodily heat lasts;
+</details>
 <details><summary>मूलम्</summary>
 
 यावच्छरीरोष्मस्थायी ; 
@@ -407,7 +509,10 @@ title = "०१ आत्मसिद्धिः"
 
 आप्रकृत-प्रलयावस्थायी ; 
 </details>
+<details><summary>English</summary>
 
+that it exists till the material world is dissolved;
+</details>
 <details><summary>मूलम्</summary>
 
 आप्रकृतप्रलयावस्थायी ; 
@@ -418,7 +523,10 @@ title = "०१ आत्मसिद्धिः"
 
 आमोक्ष-स्थायी ; 
 </details>
+<details><summary>English</summary>
 
+that it lasts till mokşa is attained;
+</details>
 <details><summary>मूलम्</summary>
 
 आमोक्षस्थायी ; 
@@ -428,7 +536,10 @@ title = "०१ आत्मसिद्धिः"
 
 कूटस्थो नित्य इति ।  
 </details>
+<details><summary>English</summary>
 
+and that it is unchanging and eternal.
+</details>
 <details><summary>मूलम्</summary>
 
 कूटस्थो नित्य इति ।  
@@ -440,7 +551,12 @@ title = "०१ आत्मसिद्धिः"
 
 सर्वशरीरेष्व् एकः ;  
 </details>
+<details><summary>English</summary>
 
+Similarly (with regard to its number), it is maintained that it is one and the same in all bodies[^3_14];
+
+[^3_14]: One variety of Ekajivavada holds that there is one jiva residing in each of the many bodies.
+</details>
 <details><summary>मूलम्</summary>
 
 सर्वशरीरेष्वेकः ; 
@@ -451,20 +567,31 @@ title = "०१ आत्मसिद्धिः"
 प्रतिक्षेत्रं नाना-भूत  
 इति च तथा तथा प्रतिपद्यन्ते ।  
 </details>
+<details><summary>English</summary>
 
+and that it is different in each body.
+</details>
 <details><summary>मूलम्</summary>
 
 प्रतिक्षेत्रं नानाभूत इति च तथा तथा प्रतिपद्यन्ते ।  
 </details>
 
 ## मत-समीक्षा - परमात्मनि
+<details><summary>English</summary>
+
+Conflicting views regarding the Supreme Self
+</details>
+
 ### स्वरूपे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा परमात्म-विषयेऽपि -  
 केचित् समस्त-वस्तु-साक्षात्-कारिणं सर्व-शक्तिम् ईश्वरम् एव नाभ्युपगच्छन्ति ।  
 </details>
+<details><summary>English</summary>
 
+So also about the Infinite Self, some do not admit at all an Isvara (God) who directly perceives all things and who is all-powerful.
+</details>
 <details><summary>मूलम्</summary>
 
 तथा परमात्मविषयेऽपि - केचित् समस्तवस्तुसाक्षात्कारिणं सर्वशक्तिमीश्वरमेव नाभ्युपगच्छन्ति ।  
@@ -480,7 +607,12 @@ title = "०१ आत्मसिद्धिः"
 अनाद्य्--अ-विद्योपदर्शित- वियद्-आदि-भेदावच्छिन्न--  
 ज्ञानैश्वर्यादि-महिम-विकल्पतया काल्पनिकम् आचक्षते ।  
 </details>
+<details><summary>English</summary>
 
+Some, while admitting a God, maintain that He is of the essence of pure consciousness, which is unchanging and is devoid of the distinction of knowledge, means of knowledge, knower, and the known, and of the ruler and the ruled and so on. (They hold that) on account of beginningless avidya, he is erroneously imagined to possess knowledge of manifoldness, such as akāsa, and greatness such as sovereignty.[^3_15]
+
+[^3_15]: Advaita-ekajivavada and also nanajivavada where Isvara too is a reflection. cf Pancadasi Ch, X,
+</details>
 <details><summary>मूलम्</summary>
 
 अभ्युपगच्छन्तोऽप्येके प्रत्यस्तमितमितिमानमातृमेयेश्वरेशितव्यादिभेदविकल्पकूटस्थविज्ञा नैकरसमनाद्यविद्योपदर्शितवियदादिभेदावच्छिन्नज्ञानैश्वर्यादिमहिमविकल्पतया काल्पनिकमाचक्षते ।  
@@ -500,7 +632,12 @@ title = "०१ आत्मसिद्धिः"
 स्वाधीन-विचित्र-विवर्त--स्वभाव-मायोपहिततया समासादित-सार्वज्ञ्यादि-- सम्पदम्  
 उपहितम् इमम् अभिदधति ।  
 </details>
+<details><summary>English</summary>
 
+Others, while accepting this characterisation (of the Supreme Self as being of the nature of pure consciousness), state that it is subject to limiting conditions, and that, in association with the limiting condition of avidyä, for the reason of its having avidyä for its essence, it is taken to possess manifold distinctions of jivas commencing from Brahma and ending with immovable things and that, in conjunction with māyā, which is under its control and which assumes diverse wonderful changes, it acquires omniscience and other glorious qualities.[^4_16] 
+
+[^4_16]: Advaita where Iswara is the prototype:
+</details>
 <details><summary>मूलम्</summary>
 
 अपरे तु यथोक्तस्वरूपमेवाविद्योपधानेन तद्गुणसारतया प्रकल्पितब्रह्मादिस्थावरपर्यन्तविविधजीवभेदं स्वाधीनविचित्रविवर्तस्वभावमायोपहिततया समासादितसार्वज्ञ्यादिसम्पदमुपहितमिममभिदधति ।  
@@ -520,7 +657,12 @@ title = "०१ आत्मसिद्धिः"
 
 तथाऽन्ये प्रकृष्ट-सत्त्वोपादान-निमित्त- स्व-तन्त्र+++(→)+++-- प्रधान+++(=प्रकृति)+++-परिणाम-विशेष-मात्र- नियम-निर्वाहित-सर्वैश्वर्य-मर्यादम् आद्रियन्ते ।  
 </details>
+<details><summary>English</summary>
 
+Similarly, others uphold the view that God possesses universal Lordship which is invariably and exclusively maintained for Him by the modification of independent pradhāna. This modification has for its cause the fact of pradhana possessing the quality of sattva *par excellence.*[^4_17]
+
+[^4_17]: Nanajivavada, on the view that Isvara is the prototype, not a reflection. Yoga
+</details>
 <details><summary>मूलम्</summary>
 
 तथाऽन्ये प्रकृष्टसत्तवोपादाननिमित्तस्वतन्त्रप्रधानपरिणामविशेषमात्रनियमनिर्वाहितसर्वैश्वर्य मर्यादमाद्रियन्ते ।  
@@ -542,7 +684,10 @@ title = "०१ आत्मसिद्धिः"
 
 +++(अविद्यया)+++ अनुपहितम् अपि +++(फेन-बुद्बुद-तरङ्गभेदेन)+++ परिणामिनम् अपरे प्रतिपेदिरे +++(यादव-प्रकाश-निभाः)+++।  
 </details>
+<details><summary>English</summary>
 
+Others assert that, although He is free from limiting conditions, He is yet subject to modification.
+</details>
 <details><summary>मूलम्</summary>
 
 अनुपहितमपि परिणामिनमपरे प्रतिपेदिरे ।  
@@ -562,7 +707,10 @@ title = "०१ आत्मसिद्धिः"
 स्व-मायांश-भूत-- विचित्रान्तः-करण-दर्पण-तल-- प्रतिबिम्बिततया प्रतिपन्न-विश्व-तैजस-प्राज्ञ-भावं  
 तम् एकम् एव चेतनम् इतरे रोचयन्ते ।  
 </details>
+<details><summary>English</summary>
 
+Others favour the view that although He does not undergo modifiications, yet, on account of being reflected by the reflecting media of the diverse internal organs which are aspects of His own māyā, this intelligent being, who is one only, acquires the forms of Visva, Taijasa and Präjna.[^4_18]
+</details>
 <details><summary>मूलम्</summary>
 
 अपरिणामिनमपि स्वमायांशभूतविचित्रान्तःकरणदर्पणतलप्रतिबिम्बिततया प्रतिपन्नविश्वतैजसप्राज्ञभावं तमेकमेव चेतनमितरे रोचयन्ते ।  
@@ -582,7 +730,12 @@ title = "०१ आत्मसिद्धिः"
 स्वाभाविक-निरवधिकातिशय- ज्ञान-बलैश्वर्य-वीर्य-शक्ति-तेजः- प्रभृति-सकल-कल्याण-गुण-गण- महार्णवं पुरुष-विशेषम्  
 ईश्वरम् आतिष्ठन्ते ।  
 </details>
+<details><summary>English</summary>
 
+Others hold that the Lord is that Supreme Person who has under His control the diverse forms of essence, existence and the activities of the threefold jivas and non-intelligent objects, and who is the great ocean of all auspicious qualities, such as jnana, bala, aiśvarya, virya, sakti, tejas,[^4_19] and others which are natural to Him, invariable and unrivalled in excellence.
+
+[^4_19]: ज्ञानमिह सर्वसाक्षात्काररूपम् cf. यो वेत्ति युगपत्सर्वं प्रत्यक्षेण सदा स्वतः । बलं नाम श्रमप्रसङ्गरहितं सर्वघारणसामर्थ्यम् । ऐश्वर्य नाम अव्याहतेच्छं सर्वनियन्तृत्वम् । वीर्यम् = सर्वोपादानत्वे सर्वधार सर्वनियमनेऽपि विकाररहितत्वम् । शक्ति: स्वेतर पर्वनि हिका सर्वोगदानास्मिक'. = यद्वा यदन्यैः अशक्यत्वादघटितमिव भाति तद्घटनसामर्थ्यरूपा । तेज. = अस्व । वीन लदकार्यनपेक्षत्वम् ; पराभिभवन सामर्थ्य तेजः केचित्प्रचक्षत ॥
+</details>
 <details><summary>मूलम्</summary>
 
 अन्ये तु स्वाधीनत्रिविधचेतनाचेतनस्वरूपस्थितिप्रवृत्तिभेदंस्वाभाविकनिरवधिकातिशयज्ञानबलैश्वर्यवीर्यशक्तितेजःप्रभृतिसकलकल्याणगुणगणमहार्णवं पुरुषविशेषमीश्वरमातिष्ठन्ते ।  
@@ -597,6 +750,10 @@ title = "०१ आत्मसिद्धिः"
 
 
 ### व्यक्ति-विशेषे
+<details><summary>English</summary>
+
+Diversity of views regarding the manifestations of the Supreme Self
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -605,7 +762,10 @@ title = "०१ आत्मसिद्धिः"
 अनभिमत-तत्-तन्-मूर्ति-परित्यागेन च चतुस्-त्रि-द्व्य्-एक-मूर्तितया  
 विवदन्ते ।  
 </details>
+<details><summary>English</summary>
 
+Similarly, even in regard to His manifestations, some contend that He has the four forms of Vişņu, Siva, Brahma and the Sun-God; others hold that His form is threefold or twofold or single, after eliminating those forms which are unacceptable to them.
+</details>
 <details><summary>मूलम्</summary>
 
 तथा तद्विशेषेऽपि हरिहरविरिञ्चभास्करात्मना अनभिमत तत्तन्मूर्तिपरित्यागेन च चतुस्त्रिद्व्येकमूर्तितया विवदन्ते ।  
@@ -618,18 +778,32 @@ title = "०१ आत्मसिद्धिः"
 नित्यत्वानित्यत्व-- भौतकत्वाभौतिकत्व-- स्वार्थ-परार्थत्वादि-वितर्काः प्रादुर्भवन्ति ;  
 परिजन-स्थानादि-गोचराश् च ।  
 </details>
+<details><summary>English</summary>
 
+Concerning the individual manifestations (of God) doubts have been raised about their being eternal or non-eternal, elemental or non-elemental, whether they exist for their own sake or for the sake of others; and doubts too have arisen concerning their attendants, place of residence, etc.
+</details>
 <details><summary>मूलम्</summary>
 
 मूर्तिविशेषविषयाश्च नित्यत्वानित्यत्वभौतकत्वाभौतिकत्वस्वार्थपरार्थत्वादिवितर्काः प्रादुर्भवन्ति ; परिजनस्थानादिगोचराश्च ।  
 </details>
 
 ### प्रमाणतः
+<details><summary>English</summary>
+
+Conflicting views concerning how the Supreme Self is known
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा प्रमाणतोऽपि - आनुश्राविक एवेत्येके ।  
 </details>
+<details><summary>English</summary>
 
+Similarly, with regard to the means of knowledge some hold that He is known from the Vedas alone[^5_20];
+
+[^5_20]: Vedanta
+</details>
 <details><summary>मूलम्</summary>
 
 तथा प्रमाणतोऽपि - आनुश्राविक एवेत्येके ।  
@@ -640,7 +814,10 @@ title = "०१ आत्मसिद्धिः"
 
 आनुमानिकश्चेत्यन्ये ।  
 </details>
+<details><summary>English</summary>
 
+others that he is established by inference;
+</details>
 <details><summary>मूलम्</summary>
 
 आनुमानिकश्चेत्यन्ये ।  
@@ -651,7 +828,10 @@ title = "०१ आत्मसिद्धिः"
 
 विशिष्ट-प्रत्यक्ष-समधिगम्यश् चेत्य् अपरे ।  
 </details>
+<details><summary>English</summary>
 
+others that He is also cognised by extraordinary perception.
+</details>
 <details><summary>मूलम्</summary>
 
 विशिष्टप्रत्यक्षसमधिगम्यश्चेत्यपरे ।  
@@ -659,13 +839,22 @@ title = "०१ आत्मसिद्धिः"
 
 
 ### आत्मपरमात्मनोः सम्बन्धे
+
+<details><summary>English</summary>
+
+Diversity of views regarding the relation of the individual soul to the Supreme Self
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा आत्म-परमात्मनोः सम्बन्धेऽपि -  
 अनाद्य्--अ-विद्योपादान-भेदास्पदोऽयम् ईश्वरेशितव्यतादि-रूप-सम्बन्धः ।  
 परमार्थतस् त्व् एकं तत्त्वम् इति केचित् ।  
 </details>
+<details><summary>English</summary>
 
+Similarly, in regard to the relation of the individual soul to the Supreme Self also, some maintain that relations such as that between the ruler and the ruled are based on a knowledge of distinctions, which is caused by beginningless avidyā; and that, in truth, there is only one reality.[^5_21]
+</details>
 <details><summary>मूलम्</summary>
 
 तथा आत्मपरमात्मनोः सम्बन्धेऽपि - अनाद्यविद्योपादानभेदास्पदोऽयमीश्वरेशितव्यतादिरूपसम्बन्धः ।  
@@ -677,7 +866,10 @@ title = "०१ आत्मसिद्धिः"
 
 व्यतिरेकाभावे ऽप्य् अतिरिक्तो जीव इत्य् अन्ये ।  
 </details>
+<details><summary>English</summary>
 
+Others hold that though there is non-difference, the jiva is other than the Supreme Self.[^5_22]
+</details>
 <details><summary>मूलम्</summary>
 
 व्यतिरेकाभावेऽप्यतिरिक्तो जीव इत्यन्ये ।  
@@ -690,7 +882,14 @@ title = "०१ आत्मसिद्धिः"
 
 इति विशिष्ट--स्व-रूप--भावेन भिन्नाभिन्नत्वम् इतरे ।  
 </details>
+<details><summary>English</summary>
 
+As there is oneness in point of essence and distinction on account of limiting conditions, some posit both difference and non-differene-difference in so far as it (Brahman) is associated with limiting conditions, and non-difference in respect of its essence.[^5_23]
+
+[^5_21]: Nyaya-Vaiseshika
+[^5_22]: Advaita
+[^5_23]: Bhaskara
+</details>
 <details><summary>मूलम्</summary>
 
 स्वतस्त्वैक्यम्, उपाधितो भेद इति विशिष्टस्वरूपभावेन भिन्नाभिन्नत्वमितरे ।  
@@ -701,7 +900,10 @@ title = "०१ आत्मसिद्धिः"
 
 नानात्वे सत्य् एवाऽभेदो नामान्वयः अंशांशि-भाव-लक्षणः, 
 </details>
+<details><summary>English</summary>
 
+Even when there is diversity, there is the relation of non-difference (between God and the soul); several views concerning this relation are prevalent-that it is the relation of inherence obtaining between whole and part;
+</details>
 <details><summary>मूलम्</summary>
 
 नानात्वे सत्येवाऽभेदो नामान्वयः अंशांशिभावलक्षणः, 
@@ -711,7 +913,10 @@ title = "०१ आत्मसिद्धिः"
 
 समवायः परतन्त्रतालक्षणः, 
 </details>
+<details><summary>English</summary>
 
+that it is the relation between seşa and seși or in other words, that between an independent entity and the dependent creature;
+</details>
 <details><summary>मूलम्</summary>
 
 समवायः परतन्त्रतालक्षणः, 
@@ -721,7 +926,10 @@ title = "०१ आत्मसिद्धिः"
 
 शेष-शेषित्व-रूपः, 
 </details>
+<details><summary>English</summary>
 
+that it is the relation between the owner and the owned, exemplified in master servant relation.
+</details>
 <details><summary>मूलम्</summary>
 
 शेषशेषित्वरूपः, 
@@ -731,7 +939,10 @@ title = "०१ आत्मसिद्धिः"
 
 स्व-स्वामि-भावः, 
 </details>
+<details><summary>English</summary>
 
+Even when there is diversity, there is the relation of non-difference (between God and the soul); several views concerning this relation are prevalent-that it is the relation of inherence obtaining between whole and part; that it is the relation between seşa and seși or in other words, that between an independent entity and the dependent creature; that it is the relation between the owner and the owned, exemplified in master servant relation.
+</details>
 <details><summary>मूलम्</summary>
 
 स्वस्वामिभावः, 
@@ -743,19 +954,30 @@ title = "०१ आत्मसिद्धिः"
 भृत्य-स्वामि-लक्षण इति च  
 नाना-विद्या वादाः ।  
 </details>
+<details><summary>English</summary>
 
+Even when there is diversity, there is the relation of non-difference (between God and the soul); several views concerning this relation are prevalent-that it is the relation of inherence obtaining between whole and part; that it is the relation between seşa and seși or in other words, that between an independent entity and the dependent creature; that it is the relation between the owner and the owned, exemplified in master servant relation.
+</details>
 <details><summary>मूलम्</summary>
 
 भृत्यस्वामिलक्षण इति च नानाविद्या वादाः ।  
 </details>
 
 ### मोक्षे
+<details><summary>English</summary>
+
+Varying views regarding the nature of mokṣa
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा परम-पुरुषार्थ-भूते ब्रह्म-प्राप्ति-लक्षण-मोक्षे ऽपि - 
 </details>
+<details><summary>English</summary>
 
+Even in regard to the supreme goal of human endeavour, mökṣa, which consists in the realisation of Brahman, the several views maintained are-
+</details>
 <details><summary>मूलम्</summary>
 
 तथा परमपुरुषार्थभूते ब्रह्मप्राप्तिलक्षणमोक्षेऽपि - 
@@ -765,7 +987,12 @@ title = "०१ आत्मसिद्धिः"
 
 स्व-रूपोच्छित्ति-लक्षणः, 
 </details>
+<details><summary>English</summary>
 
+that it consists in annihilation of one's self[^6_24];
+
+[^6_24]: Buddhism
+</details>
 <details><summary>मूलम्</summary>
 
 स्वरूपोच्छित्तिलक्षणः, 
@@ -775,7 +1002,12 @@ title = "०१ आत्मसिद्धिः"
 
 अ-विद्याऽस्तमय-लक्षणः, 
 </details>
+<details><summary>English</summary>
 
+that it is the destruction of ignorance,[^6_25]
+
+[^6_25]: Advaita
+</details>
 <details><summary>मूलम्</summary>
 
 अविद्यास्तमयलक्षणः, 
@@ -786,7 +1018,12 @@ title = "०१ आत्मसिद्धिः"
 
 निःशेष-वैशेषिकात्म-गुणोच्छेद-लक्षणः, 
 </details>
+<details><summary>English</summary>
 
+that it is the state of aloofness resulting from the complete destruction of all the special qualities of the self[^6_26];
+
+[^6_26]: अविद्यास्तमयो मोक्षस्सा च बन्ध उदाहृतः Nyaya-Vaiseika
+</details>
 <details><summary>मूलम्</summary>
 
 निःशेषवैशेषिकात्मगुणोच्छेदलक्षणः, 
@@ -797,7 +1034,12 @@ title = "०१ आत्मसिद्धिः"
 
 कैवल्य-रूपः, 
 </details>
+<details><summary>English</summary>
 
+that it is the state of becoming one with Brahman[^6_27];
+
+[^6_27]: Advaita अत्र यद्यपि कोशेषु साधर्म्य पदमस्ति तथापि तदनुचितमिव; अवयवक्तव्यस्य ऐक्यलक्षण मोक्षस्या कथनप्रसङ्गात् ॥
+</details>
 <details><summary>मूलम्</summary>
 
 कैवल्यरूपः, 
@@ -808,7 +1050,12 @@ title = "०१ आत्मसिद्धिः"
 
 तद्-भाव-साधर्म्य-लक्षणः, 
 </details>
+<details><summary>English</summary>
 
+that it consists in attaining similarity with Brahman[^6_28];
+
+[^6_28]: cf Siva-Sankrantivada cf Siva-sama-vada
+</details>
 <details><summary>मूलम्</summary>
 
 तद्भावसाधर्म्यलक्षणः, 
@@ -819,7 +1066,10 @@ title = "०१ आत्मसिद्धिः"
 
 तद्-गुण-सङ्क्रान्तिलक्षणः, 
 </details>
+<details><summary>English</summary>
 
+that it is the inflow of God's qualites;
+</details>
 <details><summary>मूलम्</summary>
 
 तद्गुणसङ्क्रान्तिलक्षणः, 
@@ -829,7 +1079,10 @@ title = "०१ आत्मसिद्धिः"
 
 तच्-छायापत्ति-लक्षणः, 
 </details>
+<details><summary>English</summary>
 
+that it consists in attaining similarity with Brahman[^6_28];
+</details>
 <details><summary>मूलम्</summary>
 
 तच्छायापत्तिलक्षणः, 
@@ -839,7 +1092,10 @@ title = "०१ आत्मसिद्धिः"
 
 सांसिद्धिकानन्दादि-- स्व-रूपाविर्भाव-लक्षणः, 
 </details>
+<details><summary>English</summary>
 
+that it is the fullest revelation of its (self's) intrinsic attributes of bliss and the like;
+</details>
 <details><summary>मूलम्</summary>
 
 सांसिद्धिकानन्दादिस्वरूपाविर्भावलक्षणः, 
@@ -853,7 +1109,10 @@ title = "०१ आत्मसिद्धिः"
 
 इति तथा तथा विवदन्ते ।  
 </details>
+<details><summary>English</summary>
 
+that it is everlasting service to the Lord kindled by the heightened manifestation of unsurpassed bliss arising from the experience of His qualities, and so on.
+</details>
 <details><summary>मूलम्</summary>
 
 तद्गुणानुभवजनितनिरतिशयसुखसमुन्मेषोपनीतात्यन्तिकतत्किङ्करत्वलक्षण इति तथा तथा विवदन्ते ।  
@@ -861,11 +1120,20 @@ title = "०१ आत्मसिद्धिः"
 
 
 ### मोक्ष-साधने
+<details><summary>English</summary>
+
+Conflicting views regarding the means to mokṣa
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्-साधनतोऽपि - कर्मयोगलभ्यः, 
 </details>
+<details><summary>English</summary>
 
+About the means of attaining mokşa also, some contend that it is attainable by karma-yoga
+</details>
 <details><summary>मूलम्</summary>
 
 तत्साधनतोऽपि - कर्मयोगलभ्यः, 
@@ -875,7 +1143,10 @@ title = "०१ आत्मसिद्धिः"
 
 ज्ञान-योग-लभ्यः, 
 </details>
+<details><summary>English</summary>
 
+and some that it is realisable by jnana-yoga;
+</details>
 <details><summary>मूलम्</summary>
 
 ज्ञानयोगलभ्यः, 
@@ -885,7 +1156,12 @@ title = "०१ आत्मसिद्धिः"
 
 +++(कर्म-ज्ञान-योग–)+++ अन्यतरानुगृहीतान्यतर-लभ्यः, 
 </details>
+<details><summary>English</summary>
 
+some believe that it is attainable by either of these (two) helped by the other[^6_30];
+
+[^6_30]: Here one of the two is primary and the other secondary
+</details>
 <details><summary>मूलम्</summary>
 
 अन्यतरानुगृहीतान्यतरलभ्यः, 
@@ -896,7 +1172,12 @@ title = "०१ आत्मसिद्धिः"
 
 +++(कर्म-ज्ञान-योग–)+++ उभय-लभ्यः, 
 </details>
+<details><summary>English</summary>
 
+some assert that it is rendered effective by both[^6_31];
+
+[^6_31]: Here both are of equal importance. Jnanakarma-Samuccayavada
+</details>
 <details><summary>मूलम्</summary>
 
 उभयलभ्यः, 
@@ -908,18 +1189,30 @@ title = "०१ आत्मसिद्धिः"
 उभय-परिकर्मित--स्वान्तस्य  
 ऐकान्तिकात्यन्तिक-भक्ति-योग-लभ्य इति ।  
 </details>
+<details><summary>English</summary>
 
+some hold that to him whose mind is purified by both (karma and jnana), it is realisable by bhakti which is ever-lasting and one-pointed.
+</details>
 <details><summary>मूलम्</summary>
 
 उभयपरिकर्मितस्वान्तस्यैकान्तिकात्यन्तिकभक्तियोगलभ्य इति ।  
 </details>
 
 ## प्रबन्ध-प्रयोजनम्
+<details><summary>English</summary>
+
+The special features of this treatise
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् एवम् अनवसित-विशेष-विमर्शक-जन- विमति-दर्शनात्, 
 </details>
+<details><summary>English</summary>
 
+Noticing the conflicting views of inquirers who have not determined anything conclusively,
+</details>
 <details><summary>मूलम्</summary>
 
 तदेवमनवसितविशेषविमर्शकजनविमतिदर्शनात्, 
@@ -936,7 +1229,10 @@ title = "०१ आत्मसिद्धिः"
 न निर्णियेतेति  
 तत्-प्रतिबोधायेदम् आरभ्यते ।  
 </details>
+<details><summary>English</summary>
 
+not knowing the strength and weakness of the proofs of the respective views, and entertaining doubts therefrom, wise men will be unable to secure mokşa so long as the individual self and the Supreme Self are not understood in respect of their nature, the pramaņas by which they are established, their relation (to each other), the attainment (of mokşa by the individual self), and also of the means thereto. For this reason, this work is begun to make these things clear.
+</details>
 <details><summary>मूलम्</summary>
 
 तत्त्तत्पक्षसाधनबलाबलावगमाच्च ततस्ततः सन्दिहानाः प्रेक्षावन्तो न तावत्परमपुरुषार्थाय घटेरन्, यावदयमात्मा परमात्मा च स्वरूपतः प्रमाणतः सम्बन्धतः प्राप्तितः तत्साधनतश्च न निर्णियेतेति तत्प्रतिबोधायेदमारभ्यते ।  
@@ -950,7 +1246,10 @@ title = "०१ आत्मसिद्धिः"
 यद्यपि भगवता बादरायणेन
 इदम्-अर्थान्य् एव सूत्राणि प्रणीतानि,  
 </details>
+<details><summary>English</summary>
 
+Having the same end in view, aphorisms (sūtras) were composed by the venerable Badarayana;
+</details>
 <details><summary>मूलम्</summary>
 
 यद्यपि भगवता बादरायणेन
@@ -962,7 +1261,14 @@ title = "०१ आत्मसिद्धिः"
 विवृतानि च परिमित-गम्भीर-भाषिणा भाष्यकृता  
 विस्तृतानि च तानि गम्भीर-न्याय-सागर-भाषिणा भगवता श्रीवत्साङ्क-मिश्रेणापि ;  
 </details>
+<details><summary>English</summary>
 
+and these aphorisms (Brahma Sutras) have been interpreted by the Bhāṣyakāra[^7_31a] (Dramiḍāchārya) whose exposition is concise and profound; and they have been elaborately explained by the venerable Srivatsanka Misra who set forth an ocean of elegant and incisive and forthright rules of interpretation (nyāyas).
+
+[^7_31a]: Dr. Van Buitenen in his edition of Fedartha-angraha, p. 24. states'... .. Yamuna, at the beginning of his Atmasiddhi gives a list of ancient Vedantins-Strangely enough he does not mention the rtthi by which Ramanuja set great store and which must have enjoyed great authority........But he mentions a bhasvakrt who had explained Badarayana's Sutras 'briefly and profoundly'........ This bhasyakrt is always identified with Dramida, the Bhasyakara, for which.....there are no arguments, Ramanuja declares that the Frithi was an extensive one, Yamuna that the bhasya was a brief one Vrtthi 'gloss scholion' is mainly distinguished from a bhasya 'commentary' by its size. a long vrtthi will be very similar to a short bhasya. As Bodhayana's omission cannot be accounted for in this context-where a sub commentary by a Srivatasankra Misra another ancient Master, is mentioned-I am inclined to think that Yamuna and Ramanuja both referred to the same work by different descriptions." The logic of this Identity is far from clear No. convincing reason has been advanced by Dr. Buitenen to show that there has been a mixing up of the vrtthi and the bhasya.
+The absence of any mention of Bodhayana vrtthi in Yamuna's work poses no problem; it is easily explained on the simple hypothesis that the work was not available to him. This would accord well with the traditional account that Ramanuja undertook an arduons journey to Sarada Math, Kashmir, to consult this rare manuscript said to have been preserved there.
+In the same edition of Vedarthasangraha, p. 25, Dr. Van Buitenen makes the following strange observation. Tanka's name which has the second place in Ramanuja's list does also appear in a list of Yamuna but here he has the distinction of being mentioned the first of a series of adversaries and is put on a par with Advaitins like Bhartrhari and Sankara and Dvaitadvaitins like Bhartrprapanca and Bhaskara." Evidently, the expression sita sita (good, bad and partly good and partly
+</details>
 <details><summary>मूलम्</summary>
 
 विवृतानि च परिमितगम्भीरभाषिणा भाष्यकृता  
@@ -977,7 +1283,12 @@ title = "०१ आत्मसिद्धिः"
 तत्-प्रतिपत्तये युक्तः प्रकरणप्रक्रमः ॥ 
 (इत्युपोदघातप्रकरणम्) 
 </details>
+<details><summary>English</summary>
 
+Nevertheless, as the understanding of persons has been misled by faith in the various writings, good and bad and partly good and partly bad, of Acarya Ṭanka, Bhartṛprapanca, Bhartṛmitra, Bhartṛhari, Brahmadatta, Sankara, Srivatsanka,[^8_31c] Bhaskara, and others; and as persons do not know things as they are and even understand them erroneously, the undertaking of this work is but proper for a right knowledge of categories. 
+
+[^8_31c]: It is noteworthy that reference is here made to two thinkers with almost identlical names-a Srivatsanka Misra, and a Srivatsanka; of these the former is affiliated to the visistadvaita school and is applauded as having laid down a wealth of elegant, incisive and forth-right rules of inter-pretation; while the latter belongs to a rival school of thought.
+</details>
 <details><summary>मूलम्</summary>
 
 तथापि, आचार्यटङ्क भर्तृप्रपञ्चभर्तृमित्रभर्तृहरि ब्रह्मदत्तशङ्कर श्रीवत्साङ्कभास्करादिविरचित सितासितविविधनिबन्धनश्रद्धाविप्रलब्धबुद्धयो  
@@ -988,6 +1299,11 @@ title = "०१ आत्मसिद्धिः"
 
 
 ## जीवात्म-निरूपणं
+<details><summary>English</summary>
+
+Determination of the nature of the individual self
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -998,7 +1314,10 @@ title = "०१ आत्मसिद्धिः"
 नित्यो व्यापी प्रतिक्षेत्रम्  
 आत्मा भिन्नः स्वतः सुखी ॥ ३ ॥
 </details>
+<details><summary>English</summary>
 
+The view to be defended here is that the individual self is different from the body, the senses, manas, praņa and intellect; (it) does not depend on anything else (for its knowledge); (it) is eternal, subtle distinct in each body, and is in its essential nature, blissful. (St. 3)
+</details>
 <details><summary>मूलम्</summary>
 
 तत्र -
@@ -1019,11 +1338,20 @@ title = "०१ आत्मसिद्धिः"
 
 ## न देहः
 ### देहात्मवादः
+<details><summary>English</summary>
+
+The purva paksha or prima facie view that body is the soul on the evidence of perception. The case for the identity of soul and body
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु देहम् एवात्मानं प्रत्यक्षतः प्रतिद्यामहे । 
 </details>
+<details><summary>English</summary>
 
+On the strength of perception we consider the body itself to be the soul.
+</details>
 <details><summary>मूलम्</summary>
 
 ननु देहम् एवात्मानं प्रत्यक्षतः प्रतिद्यामहे । 
@@ -1041,7 +1369,10 @@ title = "०१ आत्मसिद्धिः"
 अहं जानामीति ज्ञाता ह्य् आत्मा  
 "अहम्" इति चकास्ति । 
 </details>
+<details><summary>English</summary>
 
+In the cognition 'I know', the atman who is indeed the knower, shines, forth as the 'I';
+</details>
 <details><summary>मूलम्</summary>
 
 अहं जानामीति ज्ञाता ह्य् आत्मा अहम् इति चकास्ति । 
@@ -1059,7 +1390,10 @@ title = "०१ आत्मसिद्धिः"
 देहश् चाहङ्कार-गोचरः,  
 "स्थूलो ऽहं कृशो ऽहम्" इति दर्शनात् । 
 </details>
+<details><summary>English</summary>
 
+and the body is the object of the consciousness of 'I'; as is evident from the cognition 'I am stout', 'I am lean';
+</details>
 <details><summary>मूलम्</summary>
 
 देहश् चाहङ्कारगोचरः, स्थूलो ऽहं कृशो ऽहम् इति दर्शनात् । 
@@ -1075,7 +1409,10 @@ title = "०१ आत्मसिद्धिः"
 
 देहस्य हि स्थौल्यादि-योगः । 
 </details>
+<details><summary>English</summary>
 
+in fact, stoutness and the like relate only to the body;
+</details>
 <details><summary>मूलम्</summary>
 
 देहस्य हि स्थौल्यादियोगः । 
@@ -1086,7 +1423,10 @@ title = "०१ आत्मसिद्धिः"
 अतस् तत्-समानाधिकरणतया ऽयम् अहङ्कारः  
 शरीरालम्बन इत्य् अवश्यम् आश्रयणीयम् । 
 </details>
+<details><summary>English</summary>
 
+hence, as the 'I' is put in apposition with ‘lean', 'stout', etc., it must necessarily be admitted to have the body for its object.
+</details>
 <details><summary>मूलम्</summary>
 
 अतस् तत्समानाधिकरणतयायम् अहङ्कारः शरीरालम्बन इत्य् अवश्यम् आश्रयणीयम् । 
@@ -1103,7 +1443,10 @@ title = "०१ आत्मसिद्धिः"
 
 इतरथा +++(प्रत्यक्षातिक्रमे)+++ सकल-लौकिक-परीक्षक-व्यवहारोपरोधश् च । 
 </details>
+<details><summary>English</summary>
 
+Otherwise, all usage, popular and learned, would be meaningless.
+</details>
 <details><summary>मूलम्</summary>
 
 इतरथा सकल-लौकिक-परीक्षक-व्यवहारोपरोधश् च । 
@@ -1121,7 +1464,10 @@ title = "०१ आत्मसिद्धिः"
 न चायं लाक्षणिको व्यवहारः +++(देहपरः)+++,  
 +++(देहातिरिक्तस्य)+++ मुख्य-वृत्ति-भूमेः पृथग् असिद्धत्वात् । 
 </details>
+<details><summary>English</summary>
 
+It cannot be maintained that here (in statements like 'I am stout') the 'I' denotes the body by a figure of speech (lakṣaṇa), because there is no other place where it can possibly be said to have a primary significance.
+</details>
 <details><summary>मूलम्</summary>
 
 न चायं लाक्षणिको व्यवहारः, मुख्यवृत्तिभूमेः पृथग् असिद्धत्वात् । 
@@ -1145,7 +1491,10 @@ title = "०१ आत्मसिद्धिः"
 येन +++("अहं जानामी"त्य् अनेन "हस्तो जानाती"तीव →)+++ तद्-अन्वयाभावाज्  
 "जानामी"ति प्रत्ययः शरीरातिरिक्तम् अवगमयेत् +++(वक्ष्यमान-कारणैः)+++-   
 </details>
+<details><summary>English</summary>
 
+Again, it cannot be said that if the consciousness of the 'I' as knower has for its object the body which consists of several parts, the knowledge of the body should be accompanied by a knowledge of its parts, colour, etc. But as such a knowledge of bodily parts and colour does not appear, the cognition 'I know' would reveal the presence of something other than the body.
+</details>
 <details><summary>मूलम्</summary>
 
 न चानेकावयवयोगि-शरीरालम्बनत्वे ज्ञात्रवभासस्य तदीय-रूपावयवाद्यवभासेनान्वयिना भवितव्यम्, येन तदन्वयाभावाज् जानामीति प्रत्ययः शरीरातिरिक्तम् अवगमयेत्  
@@ -1176,7 +1525,10 @@ title = "०१ आत्मसिद्धिः"
 बाह्येन्द्रियप्रत्यक्ष एव तथा +++(अवयवि-प्रकाशे ऽवयव-प्रकाश इति)+++ नियम-दर्शनात्,  
 स्वान्तस्य ++++(सुखाद्य्-)+++आन्तरगुणाधारतावभास एव सामर्थ्य-नियमात्,
 </details>
+<details><summary>English</summary>
 
+Such a necessity (of the knowledge of parts and shapes accompanying the apprehension of an object) is found to exist only in the case of perception arising from the external senses. The capacity of the mind is restricted to the manifestation of the soul's character of being the seat of internal qualities.
+</details>
 <details><summary>मूलम्</summary>
 
 बाह्येन्द्रियप्रत्यक्ष एव तथा नियमदर्शनात्   
@@ -1208,7 +1560,10 @@ title = "०१ आत्मसिद्धिः"
 अनवधृतावयव-विशेषस्याप्य् अनेकावयव-योगिनो  
 महिम-गुण-शालिनः त्र्य्-अणुकस्य प्रथम-प्रत्यक्षाभ्युपगमात् +++(अवयवि-प्रकाशे नावयव-ग्रहण-नियमः)+++,  
 </details>
+<details><summary>English</summary>
 
+In fact, (even in the case of external perception) there is no necessity for the apprehension of number, magnitude, etc., because though its parts are not comprehended, a triad of atoms consisting of many parts and possessing visible magnitude is admitted to be the minimum visible entity;
+</details>
 <details><summary>मूलम्</summary>
 
 अनवधृतावयवविशेषस्याप्य् अनेकावयवयोगिनो महिमगुणशालिनः त्र्यणुकस्य प्रथमप्रत्यक्षाभ्युपगमात्,  
@@ -1224,7 +1579,10 @@ title = "०१ आत्मसिद्धिः"
 
 वायोश् च त्वग्-इन्द्रियेण स्पर्शाधिष्ठान-मात्रतयोपलम्भ-दर्शनाच् च +++(अवयवि-प्रकाशे नावयव-ग्रहण-नियमः)+++। 
 </details>
+<details><summary>English</summary>
 
+and because air is known to be perceived by the sense of touch only as the seat of contact (and not as a whole consisting of parts).
+</details>
 <details><summary>मूलम्</summary>
 
 वायोश् च त्वगिन्द्रियेण स्पर्शाधिष्ठानमात्रतयोपलम्भदर्शनाच् च । 
@@ -1244,7 +1602,10 @@ title = "०१ आत्मसिद्धिः"
 यथा च तत्र बाह्य-प्रत्यक्ष-गोचर एव सङ्ख्या-परिमाणादि-ग्रहण-नियमः  
 +++(तथेहापि)+++।
 </details>
+<details><summary>English</summary>
 
+Even when something other than the body is taken to be the object of self-consciousness, there is no knowledge of its other qualities; likewise, here too (when the body is the object of self-consciousness, there is no knowledge of its parts and colours).
+</details>
 <details><summary>मूलम्</summary>
 
 देहव्यतिरिक्तात्मगोचरत्वे ऽपि यथा तदीयगुणान्तराग्रहणम्, तथेहापि । 
@@ -1263,6 +1624,12 @@ title = "०१ आत्मसिद्धिः"
 </details>
 
 #### अचेतनता?
+<details><summary>English</summary>
+
+The purvapakşin's criticism of the position that the body is not the self:-
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं च  
@@ -1273,7 +1640,10 @@ title = "०१ आत्मसिद्धिः"
 न शरीर-विशेष-गुणश् चेतन्यम्,  
 अयावच्-छरीर-भावित्वाच् च
 </details>
+<details><summary>English</summary>
 
+In each of the infinitesimal atoms consciousness is not met with and if it be accepted (that each super-sensible atom possesses consciousness), there will result belief in several thousands of intelligent beings in one and the same body; and as the special quality of the effect cannot but be based on the quality of the cause, and as consciousness does not continue as long as the body lasts, consciousness cannot be a special quality of the body.
+</details>
 <details><summary>मूलम्</summary>
 
 एवं च प्रत्येकं परमाणुषु चैतन्यानुपलब्धेः, तदभ्युपगमे चैकशरीर एवानेकसहस्रचेतनापातात्, अकारणगुणपूर्वकस्य कार्यद्रव्यवर्तिनो विशेषगुणस्यासम्भवान् न शरीरविशेषगुणश् चेतन्यम्, 
@@ -1298,7 +1668,10 @@ title = "०१ आत्मसिद्धिः"
 प्रत्यक्ष-बाधित-विषयतया  
 न पराक्रमितुं क्षमन्ते । +++(5)+++
 </details>
+<details><summary>English</summary>
 
+These and other kinds of arguments based on reasoning are lacking in force, as they teach what is contradicted by direct perception.
+</details>
 <details><summary>मूलम्</summary>
 
 इत्यादयो ऽनुमानभेदाः प्रत्यक्षबाधितविषयतया न पराक्रमितुं क्षमन्ते । 
@@ -1322,7 +1695,10 @@ title = "०१ आत्मसिद्धिः"
 +++(अयावद्-द्रव्य-भावितया, अकारण-गुण-पूर्वकतया च)+++ विशेष-गुणत्वे च प्रतिषिध्यमाने  
 देह-+++(साधारण-)+++गुणत्वाभ्युपगम-प्रसङ्गश् च +++(योऽस्माभिर् वारितः)+++। 
 </details>
+<details><summary>English</summary>
 
+If it (consciousness) be denied to be a special quality, it will amount to its acceptance as a common quality of the body.
+</details>
 <details><summary>मूलम्</summary>
 
 विशेषगुणत्वे च प्रतिषिध्यमाने देहगुणत्वाभ्युपगमप्रसङ्गश् च । 
@@ -1362,7 +1738,10 @@ title = "०१ आत्मसिद्धिः"
 
 शरीरम् एव चेतनम् अवगमयन्ति । 
 </details>
+<details><summary>English</summary>
 
+Moreover, qualities such as the character of owning activities dependent on desires and of being the seat of the senses and the like, which appear in the body and not in such objects as pots, whose non-intelligent character is admitted on all hands, reveal that the body itself is the intelligent being.
+</details>
 <details><summary>मूलम्</summary>
 
 अपि चेच्छानुविधायि-क्रियत्वेन्द्रियवत्त्वादयः शरीरे दृश्यमानाः सम्प्रतिपन्नाचैतन्याद् घटादेर् अत्यन्तव्यावर्तमानाः शरीरम् एव चेतनम् अवगमयन्ति । 
@@ -1389,7 +1768,10 @@ title = "०१ आत्मसिद्धिः"
 देहारम्भक-परमाणु-संश्लेषविशेषाद् एव  
 देहे चैतन्यस्याप्य् आविर्-भावो नानुपपन्नः । +++(4)+++
 </details>
+<details><summary>English</summary>
 
+It is not improper to maintain that just as the red colour, which is absent in the parts of the areca nut and betel leaf severally, emerges in the whole, on account of a particular combination of these, even so intelligence emerges in the body, only on account of a particular combination of infinitesimal atoms which give rise to it.
+</details>
 <details><summary>मूलम्</summary>
 
 क्रमुकफल-ताम्बूलदलावयवादिषु प्रत्येकम् अविद्यमानस्यापि रागस्येवावयविनि संयोगविशेषात्, देहारम्भक-परमाणुसंश्लेषविशेषाद् एव देहे चैतन्यस्याप्य् आविर्भावो नानुपपन्नः । 
@@ -1410,7 +1792,10 @@ title = "०१ आत्मसिद्धिः"
 इति चेत्; न; प्रमाणाभावात्  
 +++(यथा हरिद्रा-चूर्णे चूर्णक-जल-संयोगेनैव हि रक्तं रूपं दृष्टम्)+++। 
 </details>
+<details><summary>English</summary>
 
+There is no warrant for the objection that in the instance cited, from out of the infinitesimal atoms rendered red by the heat generated in the act of chewing (betel leaf and nut) in the order of binaries, etc., red colour emerges strictly only in conformity with the quality of the cause.
+</details>
 <details><summary>मूलम्</summary>
 
 चर्वणजनित-हुतवहसंयोग-सम्पादित-पाटलिमभिः परमाणुभिर् द्व्यणुकादिक्रमेण कारणगुणपूर्व एव तत्र रागोदय इति चेत्; न; प्रमाणाभावात् । 
@@ -1431,7 +1816,10 @@ title = "०१ आत्मसिद्धिः"
 तद्-आरब्धे पटे स्फटम् उपलभमानाः  
 कथं कारण-गुण-पूर्वकत्वम् उक्त-गुणस्याध्यवस्येम ?
 </details>
+<details><summary>English</summary>
 
+Further, although the special quality of variegated colour is not found in white, black and other threads severally, we clear y perceive it in the cloth made out of these. How, then, can we assert that the quality of the effect is dependent on that of the cause?
+</details>
 <details><summary>मूलम्</summary>
 
 अपि च सितासितादितन्तुषु प्रत्येकम् अविद्यमानम् अपि चित्ररूपं विशेषगुणं तदारब्धे पटे स्फटम् उपलभमानाः कथं कारणगुणपूर्वकत्वम् उक्तगुणस्याध्यवस्येम ?
@@ -1447,7 +1835,10 @@ title = "०१ आत्मसिद्धिः"
 
 न चावयव-रूपातिरेकेणावयविनि चित्रं नाम रूपान्तरं नास्त्य् एव - अवयविनो ऽचाक्षुषत्व-प्रसङ्गात् +++(वक्ष्यमाण-रीत्या)+++। 
 </details>
+<details><summary>English</summary>
 
+Again, it cannot be said that over and above the colours of the constituent parts there is no other colour known as variegated colour in the whole; for, in that case, the whole would become imperceptible.
+</details>
 <details><summary>मूलम्</summary>
 
 न चावयवरूपातिरेकेणावयविनि चित्रं नाम रूपान्तरं नास्त्य् एव - अवयविनो ऽचाक्षुषत्वप्रसङ्गात् । 
@@ -1465,7 +1856,10 @@ title = "०१ आत्मसिद्धिः"
 अवयव-रूपैर् एव तद्-उपपादने  
 सर्वम् एव कार्य-द्रव्यं नीरूपम् आपद्येत् । +++(4)+++
 </details>
+<details><summary>English</summary>
 
+If it be said that the whole becomes visible only on account of the colours of the parts, it would follow that all effects would be deprived of their colours.
+</details>
 <details><summary>मूलम्</summary>
 
 अवयवरूपैर् एव तदुपपादने सर्वम् एव कार्यद्रव्यं नीरूपम् आपद्येत् । 
@@ -1482,7 +1876,10 @@ title = "०१ आत्मसिद्धिः"
 
 (ततः) अनुभव-विरोधः, सर्व-व्यवहार-विरोधश् च । 
 </details>
+<details><summary>English</summary>
 
+That would contradict experience as also all usage.
+</details>
 <details><summary>मूलम्</summary>
 
 (ततः) अनुभवविरोधः, सर्वव्यवहारविरोधश्च । 
@@ -1501,7 +1898,10 @@ title = "०१ आत्मसिद्धिः"
 अ-कारण-गुण-पूर्वकं दृश्यते  
 इत्य् अनैकान्तश् च । 
 </details>
+<details><summary>English</summary>
 
+As the special quality of hardness existing in ice is not found to be dependent on the quality of the causal substance (water), the argument commits the fallacy of *anaikānta*.
+</details>
 <details><summary>मूलम्</summary>
 
 विशषगुणश् च काठिन्यं करकद्रव्यवर्ति अकारणगुणपूर्वकं दृश्यते इत्य् अनैकान्तश् च । 
@@ -1521,7 +1921,10 @@ title = "०१ आत्मसिद्धिः"
 न च संयोग-विशेषः काठिन्यम्; तस्य +++(संयोगस्य)+++ द्विष्ठत्वात् ,  
 अस्य तु +++(काठिन्यस्य)+++ कारक-द्रव्यैक-वर्तित्वात्, स्पर्श-विशेषतया पदार्थ-विद्भिर् अभ्युपगमाच् च ।
 </details>
+<details><summary>English</summary>
 
+Again, hardness cannot be said to be a particular from of conjunction, because it exists in two objects, while hardness exists in one namely, ice and because people who know the nature of things have admitted hardness to be a form of contact.
+</details>
 <details><summary>मूलम्</summary>
 
 न च संयोगविशेषः काठिन्यम्; तस्य द्विष्ठत्वात् ।  
@@ -1536,13 +1939,21 @@ title = "०१ आत्मसिद्धिः"
 </details>
 
 #### दृश्य-द्रष्टृता
+<details><summary>English</summary>
+
+The attempt to show that the body could at once be the subject and the object of knowledge:-
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > दृश्यस्य देहस्य कथं द्रष्टृत्वम्? 
 
 इति चेत्, को विरोधः? 
 </details>
+<details><summary>English</summary>
 
+It may be asked how can the body which is an object of perception be regarded as the knower.
+</details>
 <details><summary>मूलम्</summary>
 
 दृश्यस्य देहस्य कथं द्रष्टृत्वमिति चेत्, को विरोधः? 
@@ -1554,12 +1965,16 @@ title = "०१ आत्मसिद्धिः"
 </details>
 
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अयम् एव, यद् एकस्यां क्रियायाम्  
 एकस्य कर्मत्वं कर्तृत्वं च न घटत इति । 
 </details>
+<details><summary>English</summary>
 
+What is the contradiction involved in this? The incompatibility lies precisely here-in regard to one act, it is not possible for one and the same substance to be at once the object and the agent of action.
+</details>
 <details><summary>मूलम्</summary>
 
 अयमेव, यदेकस्यां क्रियायामेकस्य कर्मत्वं कर्तृत्वं च न घटत इति । 
@@ -1575,7 +1990,10 @@ title = "०१ आत्मसिद्धिः"
 यद्य् एवं, व्यतिरेक-वादे वा  
 कथम् आत्मनि अहम् इति प्रत्ययः? 
 </details>
+<details><summary>English</summary>
 
+If this were so, even on the other view (that something other than the body is the self), how can the self (the perceived) appear as the 'I' (the perceiver)?
+</details>
 <details><summary>मूलम्</summary>
 
 यद्येवं, व्यतिरेकवादे वा कथमात्मनि अहमितिप्रत्ययः? 
@@ -1590,7 +2008,10 @@ title = "०१ आत्मसिद्धिः"
 
 "रूप-भेदाद्" इति चेत्, समानम् इदं देहात्मवादेऽपि । 
 </details>
+<details><summary>English</summary>
 
+If it be replied that it is due to a difference of aspect, then it is equally applicable to the doctrine that the body is the self.
+</details>
 <details><summary>मूलम्</summary>
 
 रूपभेदादिति चेत्, समानमिदं देहात्मवादेऽपि । 
@@ -1613,7 +2034,10 @@ title = "०१ आत्मसिद्धिः"
 कर्मत्वम् एव नास्तीति  
 न पर्यनुयोगावकाशः ।+++(4)+++
 </details>
+<details><summary>English</summary>
 
+Besides an object (of knowledge, and, for that matter, of any activity) is that which shares the fruit of actions which are found in intimate association with something other than itself; but the body experiences the results of knowledge found intimately associated with itself and hence does not possess the character of being an object. Hence there is no room for the objection (How can the body be both the subject and object?).
+</details>
 <details><summary>मूलम्</summary>
 
 अपि च परसमवायिक्रियाफलभागि कर्म, स्वसमवेतज्ञानफलभागिनश्शरीरस्य कर्मत्वमेव नास्तीति न पर्यनुयोगावकाशः ।
@@ -1629,11 +2053,20 @@ title = "०१ आत्मसिद्धिः"
 </details>
 
 #### निगमनम्
+
+<details><summary>English</summary>
+
+Summing up of dehatmavada position with reasons:-
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो देह एवात्मेति बार्हस्पत्याः । 
 </details>
+<details><summary>English</summary>
 
+Therefore, the followers of Brhaspati hold that the body itself is the soul.
+</details>
 <details><summary>मूलम्</summary>
 
 अतो देह एवात्मेति बार्हस्पत्याः । 
@@ -1656,7 +2089,10 @@ title = "०१ आत्मसिद्धिः"
 
 इति सूत्रम् ।
 </details>
+<details><summary>English</summary>
 
+To that effect their sutra runs-intelligence emerges from the elements of earth, water, fire and air just as the intoxicating quality springs from herbs etc.,
+</details>
 <details><summary>मूलम्</summary>
 
 तथा च, "पृथिव्यापस्तेजोवायुरिति तत्त्वनि । तेभ्यश्चैतन्यम् । किण्वादिभ्यो मदशक्तिवत्" इति सूत्रम् ।
@@ -1670,6 +2106,11 @@ title = "०१ आत्मसिद्धिः"
 
 
 ### देहातिरिक्तता
+<details><summary>English</summary>
+
+THE REFUTATION OF THE DOCTRINE OF THE IDENTITY OF BODY AND SOUL
+</details>
+
 #### अहम्-इदम्-प्रयोग-प्रत्यक्षात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1686,7 +2127,10 @@ title = "०१ आत्मसिद्धिः"
 अपि च तादृशो व्यवहारः प्राणातिरिक्तात्मवादिनाम् एव।  
 तस्य समाधानम् अग्रे प्रत्यक्षान्तरेण करिष्यते। 
 </details>
+<details><summary>English</summary>
 
+The body cannot be the soul, because (the doctrine of the identity of the body with the soul is) contradicated by perception. One and the same substance cannot appear as 'this' and 'I' to an identical person. (St. 4)
+</details>
 <details><summary>मूलम्</summary>
 
 अत्र प्रतिविधिर्-देहो नात्मा प्रत्यक्षबाधतः ।  
@@ -1701,7 +2145,10 @@ title = "०१ आत्मसिद्धिः"
 
 अहं जानामीति प्रत्यग्वृत्तिः।
 </details>
+<details><summary>English</summary>
 
+Just as the inward (objective) knowledge of 'I' involved in the. conciousness 'I know' exhibits its object to be distinct from pots and the like
+</details>
 <details><summary>मूलम्</summary>
 
 अहं जानामीति प्रत्यग्वृत्तिः।
@@ -1720,7 +2167,10 @@ title = "०१ आत्मसिद्धिः"
 निष्कृष्टम् एव स्वविषयम् उपस्थापयति  
 घटादेर् इव;
 </details>
+<details><summary>English</summary>
 
+it reveals its object to be distinct from the body which is the object of consciousness 'this'.
+</details>
 <details><summary>मूलम्</summary>
 
 अहम् इति मतिः इदङ्कारगोचराच् शरीरात् निष्कृष्टम् एव स्वविषयम् उपस्थापयति घटादेर् इव;
@@ -1737,7 +2187,10 @@ title = "०१ आत्मसिद्धिः"
 स्व-विषयम् अहङ्कार-गोचराद् विवेचयति,  
 यथा "अयं घट" इति । 
 </details>
+<details><summary>English</summary>
 
+Just as the cognition 'This is a pot' (marks off its object as distinct from the object of the consciousness of 'I',) even so the outward knowledge 'this' having the body for its object, distinguishes its object as different from the object of self-consciousness. Otherwise, there will be no basis for the distinction between 'myself' and 'others'.
+</details>
 <details><summary>मूलम्</summary>
 
 पराग्वृत्तिर् इदम् इति शरीरविषयिणी च शेमुषी स्वविषयम् अहङ्कारगोचराद् विवेचयति, यथा अयं घट इति,  
@@ -1777,7 +2230,10 @@ title = "०१ आत्मसिद्धिः"
 अस्य समाधानम् अप्य् अग्रिम-प्रत्यक्षेण करिष्यते। 
 </details>
 
+<details><summary>English</summary>
 
+It cannot be urged that one and the same thing may, from different aspects, appear in this manner (as 'I' and 'this') because Devadatta wielding a stick does not understand himself as 'This person possesses a stick' (but only as 'I wield a stick').
+</details>
 <details><summary>मूलम्</summary>
 
 न चैकस्मिन्नेव रूपभेदाद् एवं प्रतीतिः -  
@@ -1798,13 +2254,22 @@ title = "०१ आत्मसिद्धिः"
 </details>
 
 ##### नाङ्ग-भानम्
+<details><summary>English</summary>
+
+Aham pratyaya (the cognition 'I' or self consciousness) does not involve knowledge of bodily organs; hence the self is distinct from the body:-
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यच् च, नियमित-बहिर्-इन्द्रिय-वृत्तेर् अवहित-मनसः  
 "अहम्" इति स्वात्मानम् अवयतः  
 कर-चरणोदराद्य्-अवयवा न भासन्ते । 
 </details>
+<details><summary>English</summary>
 
+Moreover, to a person who has controlled the activities of his external senses and attained mental concentration and known the self as the 'I', the knowledge of organs such as hands, legs and belly does not arise.
+</details>
 <details><summary>मूलम्</summary>
 
 अन्यच् च, नियमितबहिरिन्द्रियवृत्तेर् अवहितमनसः अहम् इति स्वात्मानम् अवयतः करचरणोदराद्य्-अवयवा न भासन्ते । 
@@ -1825,7 +2290,10 @@ title = "०१ आत्मसिद्धिः"
 "अहम्" इति मति-गोचरे ऽभ्युपगम्यमाने  
 ऽवश्यम् अवयव-प्रतिभासेनाप्य् अन्वयिना भाव्यम् । 
 </details>
+<details><summary>English</summary>
 
+And if the body which is big and possesses parts were taken to be the object of self-consciousness, a knowledge of the organs must necessarily accompany it.
+</details>
 <details><summary>मूलम्</summary>
 
 स्थवीयसि चावयविनि शरीरे अहम् इति मतिगोचरे ऽभ्युपगम्यमाने ऽवश्यम् अवयवप्रतिभासेनाप्य् अन्वयिना भाव्यम् । 
@@ -1844,7 +2312,10 @@ title = "०१ आत्मसिद्धिः"
 अवयवास् तु न केचन प्रथन्त'  
 इति । 
 </details>
+<details><summary>English</summary>
 
+It is impossible for the body which is big and which owns parts to be known when none of its parts is cognised.
+</details>
 <details><summary>मूलम्</summary>
 
 न ह्य् अस्ति संभवः, 'अवयवी स्थवीयान् प्रचकास्ति, अवयवास् तु न केचन प्रथन्त' इति । 
@@ -1859,7 +2330,10 @@ title = "०१ आत्मसिद्धिः"
 वातायन-विवर-दृश्य-- निर्भाग-त्रस-रेणु-व्यतिरेकेण  
 परमाणु-स्वीकारे कारणाभावात्, 
 </details>
+<details><summary>English</summary>
 
+The instance of the *tryanuka* (triad of atoms) which was cited as disproving the general proposition (that whenever the whole is perceived its parts also should be perceived) does not really disprove it, for there is no warrant for accepting the existence of infinitesimal atoms over and above the triads which are devoid of parts and which are per ceivable (in sun's rays proceeding) through the hole of the window.
+</details>
 <details><summary>मूलम्</summary>
 
 यत् तु त्र्यणुके व्यभिचार इति, तन् न; वातायनविवरदृश्यनिर्भागत्रसरेणुव्यतिरेकेण परमाणुस्वीकारे कारणाभावात्, 
@@ -1881,7 +2355,10 @@ title = "०१ आत्मसिद्धिः"
 प्रत्यक्ष-योग्यावयवस्य तथा+++(→अवयव)+++-प्रतिभास-नियमाद् वा  
 न व्यभिचारः । 
 </details>
+<details><summary>English</summary>
 
+(Even granting the existence of infinites mal atoms) th's general propos:- tion is not falsified, because it applies only to perceptible parts.
+</details>
 <details><summary>मूलम्</summary>
 
 प्रत्यक्षयोग्यावयवस्य तथाप्रतिभासनियमाद् वा न व्यभिचारः । 
@@ -1903,7 +2380,10 @@ title = "०१ आत्मसिद्धिः"
 अन्तःकरणस्य च केवलस्य  
 अवयविनि वृत्त्य्-असंभवाच् च । 
 </details>
+<details><summary>English</summary>
 
+Again, it cannot be contended that this rule obtains only in the case of the complex whole cognised by external organs, as there is no warrant (for the same). Besides, in comprehending a whole composed of parts the internal organ, in itself, does not operate.
+</details>
 <details><summary>मूलम्</summary>
 
 नचावयविनि बहिरिन्द्रियग्राह्य एवायं नियम इत्य् उत्प्रेक्ष्यम्, प्रमाणाभावात्; अन्तःकरणस्य च केवलस्य अवयविनि वृत्त्यसंभवाच् च । 
@@ -1916,9 +2396,12 @@ title = "०१ आत्मसिद्धिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायोस् तु रूपाद्य्-अभावात्-केवलस्पर्शाधारतयोपलम्भः । 
+वायोस् तु रूपाद्य्-अभावात्-केवल-स्पर्शाधारतयोपलम्भः । 
 </details>
+<details><summary>English</summary>
 
+As for the case of air, it is known as the seat of touch only, because it has no colour, etc.;
+</details>
 <details><summary>मूलम्</summary>
 
 वायोस् तु रूपाद्य्-अभावात्-केवलस्पर्शाधारतयोपलम्भः । 
@@ -1936,7 +2419,10 @@ title = "०१ आत्मसिद्धिः"
 स्पृश्यमान इव घटादाव्  
 इति न तेन व्यभिचारः ।
 </details>
+<details><summary>English</summary>
 
+besides, even here, as in the case of the pot which is being touched, there is knowledge of such diverse parts; hence, no conflict with the general rule on this score,
+</details>
 <details><summary>मूलम्</summary>
 
 तत्रापि तादृशानेकावयवप्रतिभासो ऽस्त्य् एव स्पृश्यमान इव घटादाव् इति न तेन व्यभिचारः ।
@@ -1949,13 +2435,22 @@ title = "०१ आत्मसिद्धिः"
 </details>
 
 #### बाह्यागोचरता
+<details><summary>English</summary>
+
+Even cognitions like 'I am stout' establish a self distinct from the body-
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु "स्थूलो ऽहं", "कृशो ऽहम्"  
 इति शरीरे ऽहं-प्रत्ययो दृश्यत इति,  
 तद् अपि पर्यालोचनीयम् । 
 </details>
+<details><summary>English</summary>
 
+The contention that from statements such as I am stout', 'I am lean', the self is found to have the body for its object deserves examination
+</details>
 <details><summary>मूलम्</summary>
 
 यत् तु स्थूलो ऽहं, कृशो ऽहम् इति शरीरे ऽहंप्रत्ययो दृश्यत इति, तद् अपि पर्यालोचनीयम् । 
@@ -1973,7 +2468,10 @@ title = "०१ आत्मसिद्धिः"
 अहङ्कारो गोचरयति,  
 न पुनश् चाक्षुष इव देहप्रत्ययः स्थौल्य-बाल्यादि-योगि-देह-मात्रम् । 
 </details>
+<details><summary>English</summary>
 
+Even there, self-consciousness has for its object some entity which is only inside the body; and like the knowledge of the body gained through visual perception, it does not relate to the body only which has the characteristics of stoutness, youthfulness and the like.
+</details>
 <details><summary>मूलम्</summary>
 
 तत्राप्य् अन्तःशरीरम् अहमाकारम् एव किम् अपि वस्त्व्-अहङ्कारो गोचरयति, न पुनश् चाक्षुष इव देहप्रत्ययः स्थौल्यबाल्यादियोगिदेहमात्रम् । 
@@ -1993,7 +2491,10 @@ title = "०१ आत्मसिद्धिः"
 "ममेदं गृहम्" इतिवत्  
 "ममेदं शरीरम्" इति भेद-प्रतिभासो व्यवहारश् च । 
 </details>
+<details><summary>English</summary>
 
+Hence the apprehension of difference and the reference This is my body', as in the case of the expression 'This is my house'.
+</details>
 <details><summary>मूलम्</summary>
 
 अत एव ममेदं गृहम् इतिवत् ममेदं शरीरम् इति भेदप्रतिभासो व्यवहारश् च । 
@@ -2012,7 +2513,10 @@ title = "०१ आत्मसिद्धिः"
 औपचारिको युक्त आश्रयितुं  
 "ममात्मे"तिवत् । 
 </details>
+<details><summary>English</summary>
 
+This usage ("This is my body') being based on directly perceived difference, it is not proper to urge that it has to be interpreted figuratively like the expression 'This is my self',
+</details>
 <details><summary>मूलम्</summary>
 
 न ह्य् असौ साक्षात्प्रतीतभेदनिमित्तः प्रतायमानः शिलापुत्रकशरीरव्यपदेशवदौपचारिको युक्त आश्रयितुं ममात्मेतिवत् । 
@@ -2029,7 +2533,10 @@ title = "०१ आत्मसिद्धिः"
 +++("ममायम् आत्मा"→)+++ तत्रात्म-शब्दस्य आत्मनि वृत्तेर्, +++(अहम्-आत्म-शब्दयोर्)+++ ऐकार्थ्याद्, अविवादाच् च  
 युक्तं तथाऽऽश्रयणम् +++(औपचारिकत्वस्य)+++ । 
 </details>
+<details><summary>English</summary>
 
+'This is the body of the doll. As the word 'my' denotes the self and as the two words (my and self in the statement "This is my self') have an identical meaning and as there is no dispute concerning this, a figurative interpretation is proper.
+</details>
 <details><summary>मूलम्</summary>
 
 तत्रात्मशब्दस्य आत्मनि वृत्तेर् ऐकार्थ्याद् अविवादाच् च युक्तं तथाऽऽश्रयणम् । 
@@ -2046,7 +2553,10 @@ title = "०१ आत्मसिद्धिः"
 
 न चैवम् अत्र  +++(←"ममेदं शरीरम्")+++। 
 </details>
+<details><summary>English</summary>
 
+But it is not so here (in the statement 'This is my body)
+</details>
 <details><summary>मूलम्</summary>
 
 नचैवम् अत्र । 
@@ -2063,7 +2573,10 @@ title = "०१ आत्मसिद्धिः"
 अतो देह-व्यतिरेकिणश् चेतनस्य प्रत्यक्ष-सिद्धत्वात्  
 सम्बन्धिनि +++(→देहे)+++ लाक्षणिको देहे ऽहंशब्दप्रयोगः ।
 </details>
+<details><summary>English</summary>
 
+Because a conscous entity distinct from the body is established by perception, the word 'I' (in the proposition 'I am stout)' denotes by a figure of speech, the body which is related to the self.
+</details>
 <details><summary>मूलम्</summary>
 
 अतो देहव्यतिरेकिणश् चेतनस्य प्रत्यक्षसिद्धत्वात् सम्बन्धिनि लाक्षणिको देहे ऽहंशब्दप्रयोगः ।
@@ -2077,6 +2590,12 @@ title = "०१ आत्मसिद्धिः"
 </details>
 
 #### भ्रम-मूलम्
+<details><summary>English</summary>
+
+Identity of body with soul illusory-
+</details>
+
+
 ##### भेदाग्रहणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2085,7 +2604,10 @@ title = "०१ आत्मसिद्धिः"
 आत्मनि तादृश+++(←पूर्वोक्त-रूपादि)+++-रूपान्तराग्रहणेन  
 देहाभेद-प्रतिभास-भ्रमो ऽविवेकिनाम् । 
 </details>
+<details><summary>English</summary>
 
+With regard to external objects, as there is knowledge of mutually exclusive colours, size, number and configuration, diversity is explicit; but, in the case of the soul, as there is no knowledge of such divergent qualities, to the ignorant there arises the illusion of the body being non-different from the soul.
+</details>
 <details><summary>मूलम्</summary>
 
 बाह्यविषयेषु परस्परविरुद्धरूपपरिमाणसंख्यासंनिवेशग्रहणेन व्यतिरेकस्य स्फुटत्वात् आत्मनि तादृशरूपान्तराग्रहणेन देहाभेदप्रतिभासभ्रमो ऽविवेकिनाम् । 
@@ -2115,7 +2637,10 @@ title = "०१ आत्मसिद्धिः"
 
 इतश् च - +++(स्व-)+++"इच्छानुविधायि--स्व-व्यापारो ऽयम् आत्मा" । +++(5)+++
 </details>
+<details><summary>English</summary>
 
+Again, the self has his activities determined by 'his desires;
+</details>
 <details><summary>मूलम्</summary>
 
 इतश् च - इच्छानुविधायिस्वव्यापारो ऽयम् आत्मा । 
@@ -2133,7 +2658,10 @@ title = "०१ आत्मसिद्धिः"
 
 इच्छयैव हि सङ्कल्पयति, स्मरत्य्, अभ्यूहति च । 
 </details>
+<details><summary>English</summary>
 
+for, he wills, remembers and infers only at the instance of his desires;
+</details>
 <details><summary>मूलम्</summary>
 
 इच्छयैव हि सङ्कल्पयति स्मरत्य् अभ्यूहति च । 
@@ -2152,13 +2680,22 @@ title = "०१ आत्मसिद्धिः"
 शरीरम् अपि तद्-इच्छानुविधायि-- शयनासनोत्थानादि-चेष्टम्  
 इति भवत्य् अ-भेद-भ्रमः, शुक्तिरजतादाव् इव ।
 </details>
+<details><summary>English</summary>
 
+the body too has its activities, such as lying down, sitting and standing, determined by his desires; hence arises the illusion of non-difference as in the case of the shell and silver.
+</details>
 <details><summary>मूलम्</summary>
 
 शरीरम् अपि तदिच्छानुविधायिशयनासनोत्थानादिचेष्टम् इति भवत्य् अभेदभ्रमः, शुक्तिरजतादाव् इव ।
 </details>
 
 #### विवेकः
+<details><summary>English</summary>
+
+Yogic perception vouches for the separatness of soul and body.
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणिहित-मनसस् तु  
@@ -2166,7 +2703,10 @@ title = "०१ आत्मसिद्धिः"
 इदम् इति परिस्फुरतस् स्थूलाद् अवयविनश् शरीरात्  
 पृथग् अपरोक्षयन्त्य् एव ।
 </details>
+<details><summary>English</summary>
 
+Thinking minds, however, perceive the entity known as 'I' which. has to be recognised as knower and which is devoid of parts to be really distinct from the body which appears as 'this' and which is stout and consists of parts.
+</details>
 <details><summary>मूलम्</summary>
 
 प्रणिहितमनसस् तु ज्ञातृतया सिद्ध्यन्तम् अहमाकारम् अर्थम् अनवयवम्, इदम् इति परिस्फुरतस् स्थूलाद् अवयविनश् शरीरात् पृथग् अपरोक्षयन्त्य् एव ।
@@ -2180,12 +2720,20 @@ title = "०१ आत्मसिद्धिः"
 </details>
 
 #### अनुमान-प्रयोगाः
+<details><summary>English</summary>
+
+Arguments in support of the view that body and soul are distinct entities-
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवन्ति च +++(अनुमान-प्रयोगाः)+++
 </details>
+<details><summary>English</summary>
 
+As the knowledge of bodily parts is absent in the consciousness 'I know'
+</details>
 <details><summary>मूलम्</summary>
 
 भवन्ति च 
@@ -2202,7 +2750,10 @@ title = "०१ आत्मसिद्धिः"
 जानामीति +++("अहं")+++प्रत्ययश् शरीर-विषयो न भवति,  
 +++(अ-प्रकाशमान--तद्-अवयव-प्रतिभासत्वात्)+++
 </details>
+<details><summary>English</summary>
 
+either it does not have for its object the body
+</details>
 <details><summary>मूलम्</summary>
 
 जानामीति प्रत्ययश् शरीरविषयो न भवति, 
@@ -2221,7 +2772,10 @@ title = "०१ आत्मसिद्धिः"
 अर्थान्तर-विषयो वा ऽयम् +++(जानामीति प्रत्ययः)+++,  
 अ-प्रकाशमान--तद्-अवयव-प्रतिभासत्वात्, 
 </details>
+<details><summary>English</summary>
 
+or has for its object something other than the body.
+</details>
 <details><summary>मूलम्</summary>
 
 अर्थान्तरविषयो वा ऽयम्, अप्रकाशमानतदवयवप्रतिभासत्वात्, 
@@ -2237,7 +2791,10 @@ title = "०१ आत्मसिद्धिः"
 य एवं-प्रकारः स तथा +++(अवयव-प्रतिभासवान्)+++,  
 यथा "ऽयम् (घटः)" इति प्रतिभासः, 
 </details>
+<details><summary>English</summary>
 
+Wherever there is absence of apprehension of bodily parts, the body is not the object of knowledge, but something else; as in the case of the consciousness 'This is is a pot'.
+</details>
 <details><summary>मूलम्</summary>
 
 य एवंप्रकारः स तथा, यथा अयम् (घटः) इति प्रतिभासः, 
@@ -2254,7 +2811,10 @@ title = "०१ आत्मसिद्धिः"
 यच् छरीर-विषयम् +++(ज्ञानं)+++, न तत् तथा +++("आत्म-घताद्य्-अवयव-प्रतिभासकम्")+++,  
 यथा उभय-संमतं शरीर-ज्ञानम् +++(←"अहं शरीरं जानामि")+++। 
 </details>
+<details><summary>English</summary>
 
+The knowledge which has the body for its object is, however, different (that is, there is not absence of knowledge of parts of the body), as in the instance of knowledge of the body accepted by both of us.
+</details>
 <details><summary>मूलम्</summary>
 
 यच् छरीरविषयम्, न तत्तथा, यथा उभयसंमतं शरीरज्ञानम् । 
@@ -2272,7 +2832,10 @@ title = "०१ आत्मसिद्धिः"
 तथा शरीरम् अहं-प्रत्यय-गोचरो न भवति,  
 "इदम्" इति गृह्यमाणत्वात्, 
 </details>
+<details><summary>English</summary>
 
+the body cannot be the object of self-consciousness, because it is known to be 'this'
+</details>
 <details><summary>मूलम्</summary>
 
 तथा शरीरम् अहंप्रत्ययगोचरो न भवति, इदम् इति गृह्यमाणत्वात्, 
@@ -2289,7 +2852,10 @@ title = "०१ आत्मसिद्धिः"
 +++(शरीरम् अहं-प्रत्यय-गोचरो न भवति)+++  
 बाह्येन्द्रिय-ग्राह्यत्वाद् वा घटादिवद् इति ।
 </details>
+<details><summary>English</summary>
 
+or because it is grasped by external senses, as in the case of the pot and the like.
+</details>
 <details><summary>मूलम्</summary>
 
 बाह्येन्द्रियग्राह्यत्वाद् वा घटादिवद् इति ।
