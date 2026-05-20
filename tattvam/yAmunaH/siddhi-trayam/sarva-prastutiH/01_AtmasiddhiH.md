@@ -2407,13 +2407,12 @@ To that effect their sutra runs-intelligence emerges from the elements of earth,
 
 
 
-### देहातिरिक्तता
+
+### अहम्-इदम्-प्रयोग-प्रत्यक्षात्
 <details><summary>English</summary>
 
 THE REFUTATION OF THE DOCTRINE OF THE IDENTITY OF BODY AND SOUL
 </details>
-
-#### अहम्-इदम्-प्रयोग-प्रत्यक्षात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र प्रतिविधिर् देहो  
@@ -2516,7 +2515,7 @@ Just as the cognition 'This is a pot' (marks off its object as distinct from the
 
 </details>
 
-##### न रूपभेदात्
+#### न रूपभेदात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चैकस्मिन्न् एव  
@@ -2555,7 +2554,7 @@ It cannot be urged that one and the same thing may, from different aspects, appe
 इति व्यवस्थायां नानुपपत्तिर् इति हार्दम् ।
 </details>
 
-##### नाङ्ग-भानम्
+#### नाङ्ग-भानम्
 <details><summary>English</summary>
 
 Aham pratyaya (the cognition 'I' or self consciousness) does not involve knowledge of bodily organs; hence the self is distinct from the body:-
@@ -2736,7 +2735,7 @@ besides, even here, as in the case of the pot which is being touched, there is k
 वस्तुतः वायु-स्पार्शनस्यापि तद्-अवयव-गोचरत्वम् इत्य् आह 'तत्रापी'ति । अवयवि-सन्निकर्षे तद्-अवयव-सन्निकर्षस्यावर्जनीयत्वाद् योग्य-सन्निकृष्टावयव-भानस्यावयवि-भान-नियतत्वेन अवयवि-प्रत्यक्षस्य तद्-अवयव-गोचरत्वम् इति नियमे ऽपि न वायु-स्पर्शने व्यभिचारः । तत्र तद्-अवयवस्यापि भानात्, घट-स्पार्शन इव घटावयवस्येति भावः । 
 </details>
 
-#### बाह्यागोचरता
+### बाह्यागोचरता
 <details><summary>English</summary>
 
 Even cognitions like 'I am stout' establish a self distinct from the body-
@@ -2786,7 +2785,7 @@ Even there, self-consciousness has for its object some entity which is only insi
 </details>
 
 
-#### ममात्मा, मम शरीरम्
+### ममात्मा, मम शरीरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत एव  
@@ -2869,7 +2868,7 @@ But it is not so here (in the statement 'This is my body)
 'न चैवम् अत्रे'ति । शरीराहं-शब्दयोर् ऐकार्थ्यासिद्धेस् तद्-अर्थैक्ये विवादाच् च 'ममेदं शरीरम्' इति नोपचरितार्थं कल्प्यम् । किन्तु 'ममेदं गृहम्' इतिवन् मुख्य्-अर्थम् एव स्वीकार्यम् इति भावः । 
 </details>
 
-##### निगमनम्
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो देह-व्यतिरेकिणश् चेतनस्य प्रत्यक्ष-सिद्धत्वात्  
@@ -2891,14 +2890,14 @@ Because a conscous entity distinct from the body is established by perception, t
 एवं तर्क-बलाद् अहं जानामीति मानस-प्रत्यक्षस्य सावयव-देह-व्यतिरिक्तात्म-परत्वं व्यवस्थापितम् । 
 </details>
 
-#### भ्रम-मूलम्
+### भ्रम-मूलम्
 <details><summary>English</summary>
 
 Identity of body with soul illusory-
 </details>
 
 
-##### भेदाग्रहणम्
+#### भेदाग्रहणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाह्य-विषयेषु  
@@ -2934,7 +2933,7 @@ With regard to external objects, as there is knowledge of mutually exclusive col
 </details>
 
 
-##### आत्मेच्छानुसरणतः
+#### आत्मेच्छानुसरणतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतश् च - +++(स्व-)+++"इच्छानुविधायि--स्व-व्यापारो ऽयम् आत्मा" । +++(5)+++
@@ -2991,7 +2990,7 @@ the body too has its activities, such as lying down, sitting and standing, deter
 शरीरम् अपि तदिच्छानुविधायिशयनासनोत्थानादिचेष्टम् इति भवत्य् अभेदभ्रमः, शुक्तिरजतादाव् इव ।
 </details>
 
-#### विवेकः
+### विवेकः
 <details><summary>English</summary>
 
 Yogic perception vouches for the separatness of soul and body.
@@ -3021,7 +3020,7 @@ Thinking minds, however, perceive the entity known as 'I' which. has to be recog
 
 </details>
 
-#### अनुमान-प्रयोगाः
+### अनुमान-प्रयोगाः
 <details><summary>English</summary>
 
 Arguments in support of the view that body and soul are distinct entities-
@@ -3046,7 +3045,7 @@ As the knowledge of bodily parts is absent in the consciousness 'I know'
 इदम् एव प्रयोगारूढं प्रदर्शयति **भवन्ति चे**ति । प्रयोगा इति शेषः । 
 </details>
 
-##### अहं जानामि
+#### अहं जानामि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानामीति +++("अहं")+++प्रत्ययश् शरीर-विषयो न भवति,  
@@ -3128,7 +3127,7 @@ The knowledge which has the body for its object is, however, different (that is,
 आद्ये व्यतिरेक्य्-उदाहरणं **यच्-छरीरे** त्यादिना प्रदर्श्यते । 
 </details>
 
-##### इदं-कारः
+#### इदं-कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा शरीरम् अहं-प्रत्यय-गोचरो न भवति,  
@@ -3169,7 +3168,7 @@ or because it is grasped by external senses, as in the case of the pot and the l
 </details>
 
 
-#### पारार्थ्यत्वात् साङ्खोक्तवत्
+### पारार्थ्यत्वात् साङ्खोक्तवत्
 <details><summary>English</summary>
 
 The Sankhya arguments against the claim that perception establishes identity of body and soul:-
@@ -3262,7 +3261,7 @@ and all aggregates such as bed, seat and chariot are indeed found to exist for t
 सङ्घातत्वस्य पारार्थ्येन अविनाभाव-ग्रह-स्थलम् उदाहरति सङ्घाता हि इति । परार्थाः भोक्तृ-पर-भोगार्थाः ।
 </details>
 
-##### नात्म-संहतत्वम्
+#### नात्म-संहतत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च 
@@ -3287,7 +3286,7 @@ It cannot be argued that as all collections are known to be for the sake of the 
 सङ्घात-परस्य संहतत्व-दृष्टेः शरीर-परत्वेन अनुमितस्य आत्मनो ऽपि सङ्घातत्वं स्यात् इति आशङ्काम् अनूद्य प्रतिक्षिपति न च सङ्घाता इति ।
 </details>
 
-###### आत्म-पारार्थ्यापत्तिः
+##### आत्म-पारार्थ्यापत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा सति तस्य अपि परार्थत्व-प्रसङ्गात् ।
@@ -3343,7 +3342,7 @@ On account of the non-perception of the collective nature of the self-a nature w
 सङ्घात-देह-परत्वेन अनुमितस्य आत्मनः सङ्घात-रूपत्वे प्रत्यक्ष-बाधम् अपि आह योग्यानुपलम्भे इति । यद्वा अनुमान-बलात् प्रसक्तम् अपि सङ्घातत्वम् आत्मनः प्रमाणान्तर-विषयीकारतो निवर्त्स्यति इति आह योग्यानुपलम्भेन इति । शरीरं संहत-परार्थम्, सङ्घातत्वात् खट्वादिवत् इति अत्र शरीर-भिन्नत्वम् उपाधिश् च । न च पक्ष-भिन्नत्वस्य उपाधित्वे अनुमान-विलोप-प्रसङ्गः इति वाच्यम् । यत्र पक्षे साध्याभावः प्रमाणान्तरेण निश्चितः तत्र वह्नेर् अनुष्णत्वानुमान इव पक्ष-भिन्नत्वस्य उपाधित्व-सम्भवात् । प्रकृते ऽपि शरीरात्म-वादिनां तत्-अतिरिक्तात्म-वादिनां वा संहत-परार्थत्वाभाव एवोपेयते शरीरस्य इति तत्-भिन्नत्वस्य उपाधित्वे न दोषः इति अभिमतम् ।
 </details>
 
-###### अनवस्था-दोषः
+##### अनवस्था-दोषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्घातान्तरार्थत्वे च तस्यापि तथा,  
@@ -3384,7 +3383,7 @@ But where an end is possible, an unending chain is undesirable.
 न च व्यवस्थायाम् इति । सङ्घातत्वस्य परार्थत्वेन व्याप्तौ इष्यमाणायां व्यवस्थायां सम्भवत्यां संहत-परार्थत्वेन तस्य व्याप्तेर् आश्रयणम् अनवस्था-प्रयोजकत्वात् न युक्तम् इति भावः ।
 </details>
 
-###### संहतत्वं नोपकरोति
+##### संहतत्वं नोपकरोति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च सङ्घातस्य परार्थत्वे  
@@ -3429,17 +3428,447 @@ For him who attempts to base his inference on all the qualities of the illustrat
 
 [[P15]]
 
-#### चार्वाकदूषितानुमानोद्धारः
+### कारण-गुणानुसारी कार्य-गुणः
+
+<details><summary>English</summary>
+
+Refutation of the Carvaka criticism of arguments that the body and soul are different:-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व एव कार्य-द्रव्य-गत-विशेष-गुणः  
+कारण-गुण-पूर्वक  
+इति कथम् अ-तत्-पूर्वक-शरीरे चैतन्य-गुणः सम्भवेत्?
+</details>
+
+<details><summary>English</summary>
+
+As all the special qualities existing in the effect are dependent ou those of the causal substance, how can consciousness exist in the body without depending on the quality of its cause?
+</details>
+
+<details><summary>मूलम्</summary>
 
 सर्व एव कार्यद्रव्यगतविशेषगुणः कारणगुणपूर्वक इति कथमतत्पूर्वकशरीरे चैतन्यगुणस्संभवेत्?
+</details>
 
-यत्तु बार्हस्पत्यं वचनं - 'पृथिव्यापस्तेजो वायुरिति तत्त्वानि तेभ्यश्चैतन्यं किणादिभ्यो मदशक्तिव'दिति, तदनुपपन्नम् । शक्तेरविशेषगुणत्वेन तथोपपत्तेः । सर्वद्रव्येषु तत्तत्कार्यसमधिगम्यस्तत्प्रतियोगीशक्त्याख्यो गुणस्साधारणः; नैवं चैतन्यम्, देहैकगुणत्वाभ्युपगमात्; कार्यत्वे सत्येकविधप्रत्यक्षसिद्धतया च विशेषगुणत्वात् । द्रव्यान्तरसंयोगसमासादितमदशक्तिभिरकार्यभूतैः परमाणुभिर्निजगुणपुरस्कारेण स्वकार्यद्रव्येषु मदशक्त्युत्पादोऽपि नानुपपन्नः ।
 
-ताम्बूलरागस्तु पूर्वद्रव्यावयवविभागानन्तरं द्रव्यान्तरसंयोगजनितरक्तिमगुणैः कारणैः क्रियते । दृश्यते हि तत्रावयवेष्वपि प्रत्येकं रक्तिमगुणः । न च शरीरावयवेषु प्रत्येकं चैतन्यगुणः प्रज्ञायते प्रतिज्ञायते वा, तदुपगमे च एकशरीर एवानेकचेतनापातादङ्गाङ्गित्वाभावः प्रतिसन्धानव्यवहारलोपश्च, देवदत्तदृष्ट इव यज्ञदत्तादेः ।
+#### मद-शक्तिवन् न
+<details><summary>English</summary>
 
-यत्तु - अकारणगुणपूर्वकं चित्ररूपं पटे इति, तन्न । नानारूपता हि चित्रता । सा च नानारूपैस्तन्तुभिः क्रियत इति किमनुपपन्नमिति प्रत्येकमविद्यमानमपि तच्चित्ररूपं तन्तुषु संहतेषु दृस्यत एव, चित्रा इमे तन्तव इति । संभूय च तेषां पटारम्भकत्वम् । एवं तत्कारणेष्वपि तदिति न क्वचिद्व्यभिचारः । नचैकरूपनियमाभावेनावयविनाऽचाक्षुषत्वम्, महत्त्वैकार्थसमवायिना रूपवत्त्वेनैव चाक्षुषत्वसिद्धेः । अस्तु वा चित्रं नाम एको रूपविशेषः । स तु रूपैरेव कारणगतैर्नानाविधैरारभ्यत इति दृष्टम् । न चैवमवयववर्तिभिरेव चैतन्यैरवयविनि शरोरे चैतन्यविशेषारम्भः, चितितन्मात्रस्यैव तेष्वसंभवात् । अतो न देहगुणश्चैतन्यम् । एतेन सुखादयोऽपि शरीरगुणाः प्रत्युक्ताः ।
+The illustration that intoxicating quality arises from the mixture of non-intoxicants not apposite :-
+</details>
 
-अपिच दृढ एव शरीरे विरोधिगुणापातमन्तरेण कुसुमविलेपनगन्ध इव निवर्तमानश्चैतन्यसुखादिर्न तद्गुणो भवितुमर्हति, न खलु तद्विशेषगुणा रूपादयस्तथा निवर्तन्ते । आत्मनः परेषां च शरीरगुणाः प्रत्यक्षयोग्याः, बाह्येन्द्रियग्राह्याश्च; न च तथा ज्ञानादिरिति नासौ तद्गुणः ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु बार्हस्पत्यं वचनम् - 
+
+> 'पृथिव्य् आपस् तेजो वायुर् इति तत्त्वानि  
+तेभ्यश् चैतन्यं किण्वादिभ्यो मदव्-आशक्तिव'द् 
+
+इति, तद् अनुपपन्नम् -
+</details>
+
+<details><summary>English</summary>
+
+Bṛhaspati's teaching-that earth, water. fire and air are the realities and that from these consciousness arises just as the intoxicating quality emerges from herbs, etc.-is untenabie.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तु बार्हस्पत्यं वचनं - 'पृथिव्यापस्तेजो वायुरिति तत्त्वानि तेभ्यश्चैतन्यं किण्वादिभ्यो मदशक्तिव'दिति, तदनुपपन्नम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शक्तेः अ-विशेष-गुणत्वेन तथा उपपत्तेः ।
+</details>
+
+<details><summary>English</summary>
+
+As power is not a special quality, it may be so (that is, need not be dependent on the quality of the causal substance).
+</details>
+
+<details><summary>मूलम्</summary>
+
+शक्तेरविशेषगुणत्वेन तथोपपत्तेः ।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-द्रव्येषु तत्-तत्-कार्य-समधिगम्यस् तत्-प्रतियोगी शक्त्य्-आख्यो गुणस् साधारणः; 
+</details>
+
+<details><summary>English</summary>
+
+In all substances the quality known as causal power concerning the effect, cognisable from their respective effects, is a common quality, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वद्रव्येषु तत्तत्कार्यसमधिगम्यस्तत्प्रतियोगीशक्त्याख्यो गुणस्साधारणः; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैवं चैतन्यम्, देहैकगुणत्वाभ्युपगमात्; कार्यत्वे सति एकविधप्रत्यक्षसिद्धतया च विशेषगुणत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+but consciousness is not so, because it is admitted to belong to the body only and because it is a special quality, as it, while remaining an effect, is cognised by one form of perception.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नैवं चैतन्यम्, देहैकगुणत्वाभ्युपगमात्; कार्यत्वे सत्येकविधप्रत्यक्षसिद्धतया च विशेषगुणत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्रव्यान्तरसंयोगसमासादितमदशक्तिभिः अकार्यभूतैः परमाणुभिः निजगुणपुरस्कारेण स्वकार्यद्रव्येषु मदशक्त्युत्पादः अपि न अनुपपन्नः ।
+</details>
+
+<details><summary>English</summary>
+
+It is not wrong to maintain that, on the basis of their own quality, form out of infinitesimal atoms, which are not effects and which acquire the intoxicating quality from the mingling of different substances, intoxicating quality arises in their effects.
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्रव्यान्तरसंयोगसमासादितमदशक्तिभिरकार्यभूतैः परमाणुभिर्निजगुणपुरस्कारेण स्वकार्यद्रव्येषु मदशक्त्युत्पादोऽपि नानुपपन्नः ।
+</details>
+
+### Example of redness produced by chewing not apposite :-
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताम्बूलरागः तु पूर्वद्रव्यावयवविभागानन्तरं द्रव्यान्तरसंयोगजनितरक्तिमगुणैः कारणैः क्रियते ।
+</details>
+
+<details><summary>English</summary>
+
+The redness caused by betels, etc., is, likewise, produced by causes which possess the red colour generated by the mixing of different substances, after their parts have lost their cohesion (in the act of chewing);
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताम्बूलरागस्तु पूर्वद्रव्यावयवविभागानन्तरं द्रव्यान्तरसंयोगजनितरक्तिमगुणैः कारणैः क्रियते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दृश्यते हि तत्र अवयवेषु अपि प्रत्येकं रक्तिमगुणः ।
+</details>
+
+<details><summary>English</summary>
+
+hence the red colour perceived in each of their parts too.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दृश्यते हि तत्रावयवेष्वपि प्रत्येकं रक्तिमगुणः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च शरीरावयवेषु प्रत्येकं चैतन्यगुणः प्रज्ञायते प्रतिज्ञायते वा,
+</details>
+
+<details><summary>English</summary>
+
+Consciousness is not found in the parts of the body individually, nor have they been said to possess it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च शरीरावयवेषु प्रत्येकं चैतन्यगुणः प्रज्ञायते प्रतिज्ञायते वा,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत् उपगमे च एकशरीरे एव अनेकचेतनापातात् अङ्गाङ्गित्व-अभावः प्रतिसन्धानव्यवहारलोपः च,
+</details>
+
+<details><summary>English</summary>
+
+If that were admitted, as it would follow that in one and the same body there must be many thinking beings, it is impossible to say which is primary and which is secondary; besides, all reference to recognition would be impossible.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदुपगमे च एकशरीर एवानेकचेतनापातादङ्गाङ्गित्वाभावः प्रतिसन्धानव्यवहारलोपश्च,
+</details>
+
+[[P16]]
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवदत्तदृष्टे इव यज्ञदत्तादेः ।
+</details>
+
+<details><summary>English</summary>
+
+Just as in respect of what has been seen by Devadatta, there cannot be recognition on the part of Yajnadatta, here also (what has been perceived by one part of the body cannot be recognised by another).
+</details>
+
+<details><summary>मूलम्</summary>
+
+देवदत्तदृष्ट इव यज्ञदत्तादेः ।
+</details>
+
+### The illustration of parti-coloured cloth unhelpful to the Carvaka :-
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु - अकारणगुणपूर्वकं चित्ररूपं पटे इति, तत् न ।
+</details>
+
+<details><summary>English</summary>
+
+The statement made before, namely, that the variegated colour found in the cloth is not dependent on the quality of the cause, is erroneous.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तु - अकारणगुणपूर्वकं चित्ररूपं पटे इति, तन्न ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नानारूपता हि चित्रता ।
+</details>
+
+<details><summary>English</summary>
+
+The quality of variegated colour is nothing but that of being many coloured;
+</details>
+
+<details><summary>मूलम्</summary>
+
+नानारूपता हि चित्रता ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा च नानारूपैः तन्तुभिः क्रियते इति किम् अनुपपन्नम् इति प्रत्येकमविद्यमानमपि तच्चित्ररूपं तन्तुषु संहतेषु [[दृस्यत|दृश्यते]] एव, चित्रा इमे तन्तवः इति ।
+</details>
+
+<details><summary>English</summary>
+
+and this (variegated colour) is produced by threads of different colours; hence there is nothing objectionable here. Though variegated co'our does not exist in each of the threads severally, it is certainly noticed in the threads which combine and are known as threads of variegated colours.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा च नानारूपैस्तन्तुभिः क्रियत इति किमनुपपन्नमिति प्रत्येकमविद्यमानमपि तच्चित्ररूपं तन्तुषु संहतेषु [[दृस्यत|दृश्यते]] एव, चित्रा इमे तन्तव इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संभूय च तेषां पटारम्भकत्वम् ।
+</details>
+
+<details><summary>English</summary>
+
+The capacity to produce cloth belongs to threads only in their togetherness;
+</details>
+
+<details><summary>मूलम्</summary>
+
+संभूय च तेषां पटारम्भकत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं तत्कारणेषु अपि तत् इति न क्वचित् व्यभिचारः ।
+</details>
+
+<details><summary>English</summary>
+
+thus the variegated colour exists even in the cause of cloth; hence there is nowhere any violation (of the rule that the qualities of the effect are dependent on those of the causes).
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं तत्कारणेष्वपि तदिति न क्वचिद्व्यभिचारः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च एकरूपनियमाभावेन अवयविना अचाक्षुषत्वम्, महत्त्वैकार्थसमवायिना रूपवत्त्वेन एव चाक्षुषत्वसिद्धेः ।
+</details>
+
+<details><summary>English</summary>
+
+It cannot be maintained that the whole' (the cloth) becomes invisible inasmuch as it does not possess any one specific colour, for, it may become perceptible by the very fact of its possessing inherently colour along with bigness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नचैकरूपनियमाभावेनावयविनाऽचाक्षुषत्वम्, महत्त्वैकार्थसमवायिना रूपवत्त्वेनैव चाक्षुषत्वसिद्धेः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्तु वा चित्रं नाम एकः रूपविशेषः ।
+</details>
+
+<details><summary>English</summary>
+
+Let variegated colour be taken to be one specific colour.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्तु वा चित्रं नाम एको रूपविशेषः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सः तु रूपैः एव कारणगतैः नानाविधैः आरभ्यते इति दृष्टम् ।
+</details>
+
+<details><summary>English</summary>
+
+Even then it is found to be produced by the different colours existing in the causes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स तु रूपैरेव कारणगतैर्नानाविधैरारभ्यत इति दृष्टम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च एवम् अवयववर्तिभिः एव चैतन्यैः अवयविनि [[शरोरे|शरीरे]] चैतन्यविशेषारम्भः, चितितन्मात्रस्य एव तेषु असम्भवात् ।
+</details>
+
+<details><summary>English</summary>
+
+It cannot be asserted that it is only the consciousness resident in the parts that produces the particular consciousness in the body, which is composed of those parts, for, consciousness in general cannot exist in the parts.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चैवमवयववर्तिभिरेव चैतन्यैरवयविनि [[शरोरे|शरीरे]] चैतन्यविशेषारम्भः, चितितन्मात्रस्यैव तेष्वसंभवात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः न देहगुणः चैतन्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, consciousness is not a quality of the body.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो न देहगुणश्चैतन्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन सुखादयः अपि शरीरगुणाः प्रत्युक्ताः ।
+</details>
+
+<details><summary>English</summary>
+
+On the same count, the belief that pleasure and other qualities belong to the body stands condemned.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतेन सुखादयोऽपि शरीरगुणाः प्रत्युक्ताः ।
+</details>
+
+### Being distinct from the other qualities of the body consciousness is not an attribute of the body :-
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च दृढे एव शरीरे विरोधिगुणापातम् अन्तरेण कुसुमविलेपनगन्ध इव निवर्तमानः चैतन्यसुखादिः न तद्गुणः भवितुम् अर्हति,
+</details>
+
+<details><summary>English</summary>
+
+Besides, as consciousness, pleasure, etc., vanish from the body, like the smell of flower and sandal, even when the body [[continnes|continues]] to be strong and in the absence of counteracting qualities, they cannot be the qualities of the body.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपिच दृढ एव शरीरे विरोधिगुणापातमन्तरेण कुसुमविलेपनगन्ध इव निवर्तमानश्चैतन्यसुखादिर्न तद्गुणो भवितुमर्हति,
+</details>
+
+[[P17]]
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न खलु तद्विशेषगुणाः रूपादयः तथा निवर्तन्ते ।
+</details>
+
+<details><summary>English</summary>
+
+Colour and other special qualities of [[the the|the]] body, however, do not leave it in the same manner.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न खलु तद्विशेषगुणा रूपादयस्तथा निवर्तन्ते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मनः परेषां च शरीरगुणाः प्रत्यक्षयोग्याः, बाह्येन्द्रियग्राह्याः च;
+</details>
+
+<details><summary>English</summary>
+
+The qualities of the body are perceptible to the individual as well as to others and are also to be grasped by external senses;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मनः परेषां च शरीरगुणाः प्रत्यक्षयोग्याः, बाह्येन्द्रियग्राह्याश्च;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तथा ज्ञानादिः इति
+</details>
+
+<details><summary>English</summary>
+
+but not so consciousness, etc.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च तथा ज्ञानादिरिति
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न असौ तद्गुणः ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, they cannot be the qualities of the body.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नासौ तद्गुणः ।
+</details>
+
 
 
 ####  अनेकहेत्वन्तरोपन्यासः
