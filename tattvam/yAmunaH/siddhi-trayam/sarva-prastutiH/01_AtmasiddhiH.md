@@ -3518,8 +3518,14 @@ Bṛhaspati's teaching-that earth, water. fire and air are the realities and tha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शक्तेः अ-विशेष-गुणत्वेन तथा उपपत्तेः ।
+शक्तेर् +++(वक्ष्यमाण-रीत्या सर्व-द्रव्य-वृत्तित्वात्)+++ अ-विशेष-गुणत्वेन तथोपपत्तेः ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+नैवम्। मद-शक्तिर् विशेष एव। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3538,7 +3544,10 @@ As power is not a special quality, it may be so (that is, need not be dependent 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व-द्रव्येषु तत्-तत्-कार्य-समधिगम्यस् तत्-प्रतियोगी शक्त्य्-आख्यो गुणस् साधारणः;
+सर्व-द्रव्येषु  
+तत्-तत्-कार्य-समधिगम्यस्  
+तत्-प्रतियोगी  
+शक्त्य्-आख्यो गुणस् साधारणः;
 </details>
 
 <details><summary>English</summary>
@@ -3556,7 +3565,10 @@ In all substances the quality known as causal power concerning the effect, cogni
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैवं चैतन्यम्, देहैकगुणत्वाभ्युपगमात्; कार्यत्वे सति एकविधप्रत्यक्षसिद्धतया च विशेषगुणत्वात् ।
+नैवं चैतन्यम्,  
+देहैक-गुणत्वाभ्युपगमात्;  
+कार्यत्वे सत्य्  
+एक-विध-प्रत्यक्ष-सिद्धतया च विशेष-गुणत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -3576,8 +3588,18 @@ but consciousness is not so, because it is admitted to belong to the body only a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्रव्यान्तरसंयोगसमासादितमदशक्तिभिः अकार्यभूतैः परमाणुभिः निजगुणपुरस्कारेण स्वकार्यद्रव्येषु मदशक्त्युत्पादः अपि न अनुपपन्नः ।
+द्रव्यान्तर-संयोग-समासादित-- मद-शक्तिभिर्  
+अ-कार्य-भूतैः परमाणुभिः  
+निज-गुण-पुरस्कारेण  
+स्व-कार्य-द्रव्येषु मद-शक्त्य्-उत्पादो ऽपि  
+नानुपपन्नः ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+न हि मादकत्वं तावत् परमाणु-निष्ठो गुण इति वयम् अधुना विद्मो विज्ञान-बलेन। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3594,6 +3616,8 @@ It is not wrong to maintain that, on the basis of their own quality, form out of
 ननु रस-विशेषो गन्ध-विशेषो वा मादको मद-शब्द-वाच्यः । स च विशेष-गुणो न कारण-गुण-पूर्वक इति कार्य-द्रव्य-विसेष-गुणस्य कारण-गुण-पूर्वकत्व-नियमो दुर्वच इत्यत्र आह **द्रव्यादीनाम्** इति । किण्वादीनां सम्मर्दनादिनाव्द्यणुक-पर्यन्त-नाशे स्वतन्त्रैः परमाणुभिर् द्रव्यान्तर-अवयव-संश्लेष-जनित-मदैर् आरब्धे सुरा-द्रव्ये कारण-गुण-पूर्वक एव गुण इति भावः ।
 </details>
 
+
+#### ताम्बूल-रागवन् न
 <details><summary>English</summary>
 
 Example of redness produced by chewing not apposite :-
@@ -3602,7 +3626,9 @@ Example of redness produced by chewing not apposite :-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताम्बूलरागः तु पूर्वद्रव्यावयवविभागानन्तरं द्रव्यान्तरसंयोगजनितरक्तिमगुणैः कारणैः क्रियते ।
+ताम्बूल-रागस् तु  
+पूर्व-द्रव्यावयव-विभागानन्तरं  
+द्रव्यान्तर-संयोग-जनित- रक्तिम-गुणैः कारणैः क्रियते ।
 </details>
 
 <details><summary>English</summary>
@@ -3622,7 +3648,8 @@ The redness caused by betels, etc., is, likewise, produced by causes which posse
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृश्यते हि तत्र अवयवेषु अपि प्रत्येकं रक्तिमगुणः ।
+दृश्यते हि तत्रावयवेष्व् अपि  
+प्रत्येकं रक्तिम-गुणः ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -3638,6 +3665,14 @@ hence the red colour perceived in each of their parts too.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च शरीरावयवेषु प्रत्येकं चैतन्यगुणः प्रज्ञायते प्रतिज्ञायते वा,
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+शरीरं कोशघटितम् इति न विदुः पुरा।  
+अधुना तु चैतन्य-युक्त-कोश-घटितत्वं विद्मः।  
+किञ्च कोशावयवेषु चैतन्यं न प्रतिज्ञायते।  
+तत् तु यथा ताम्बूल-परमाणुषु न हि रक्तिमा विद्यते, तथा। 
 </details>
 
 <details><summary>English</summary>
@@ -3657,46 +3692,87 @@ Consciousness is not found in the parts of the body individually, nor have they 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् उपगमे च एकशरीरे एव अनेकचेतनापातात् अङ्गाङ्गित्व-अभावः प्रतिसन्धानव्यवहारलोपः च,
+तद्-उपगमे च  
+एक-शरीरय् एव अनेक-चेतनापातात्  
+अङ्गाङ्गित्वाभावः …
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+चेतनस्य चेतनम् अङ्गं न स्याद् इति नास्ति नियमः। +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
-If that were admitted, as it would follow that in one and the same body there must be many thinking beings, it is impossible to say which is primary and which is secondary; besides, all reference to recognition would be impossible.
+If that were admitted, as it would follow that in one and the same body there must be many thinking beings, it is impossible to say which is primary and which is secondary; 
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदुपगमे च एकशरीर एवानेकचेतनापातादङ्गाङ्गित्वाभावः प्रतिसन्धानव्यवहारलोपश्च,
+तदुपगमे च एकशरीर एवानेकचेतनापातादङ्गाङ्गित्वाभावः 
 </details>
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-देह-अवयवेषु चैतन्ये साधकाभावम् उक्त्वा बाधकम् अपि आह **तदुपगम** इति । अङ्गाङ्गित्वाभावः नियाम्य-नियामक-भाव-लक्षण-गुण-प्रधान-भावाभावः । एक-चेतन-नियाम्यत्वे हि शरीर-अवयवानां व्यवहार-अविसंवादो घटते । तेषाम् एव चेतनत्वे तु परस्पर-अनियम्यतया परस्पर-वार्तानभिज्ञतया च व्यवहार-विसंवादः प्रसज्यत इति भावः । **प्रतिसन्धाने**ति । यम् अद्राक्षं तं स्पृशामि इत्यादि-प्रतिसन्धानस्य तन्-मूल-व्यवहारस्य च विलोपः प्रसज्यते । अवयव-चैतन्ये द्रष्टुः स्प्रष्टुश् च अन्य-अन्यत्वाद् इति भावः । अनिष्टापत्तिर् इष्ट-हानिश् चात्रोक्ते पद-द्वयेन ।
+देह-अवयवेषु चैतन्ये साधकाभावम् उक्त्वा बाधकम् अपि आह **तदुपगम** इति । अङ्गाङ्गित्वाभावः नियाम्य-नियामक-भाव-लक्षण-गुण-प्रधान-भावाभावः । एक-चेतन-नियाम्यत्वे हि शरीर-अवयवानां व्यवहार-अविसंवादो घटते । तेषाम् एव चेतनत्वे तु परस्पर-अनियम्यतया परस्पर-वार्तानभिज्ञतया च व्यवहार-विसंवादः प्रसज्यत इति भावः । 
+
 </details>
 
 [[P16]]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवदत्तदृष्टे इव यज्ञदत्तादेः ।
++++("यो दृष्टः सोऽयं स्पृष्ट" इति)+++ प्रतिसन्धान-व्यवहार-लोपश् च,  
+देवदत्त-दृष्टे इव यज्ञदत्तादेः ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Abby and Brittany Hensel इत्यादयोऽपि द्विशिरस्कशरीराः (Polycephalous) प्रसिद्धा वर्तन्ते,  
+येनैकस्मिन् शरीर एक एवात्माभिमानीति प्राचां मतं न तिष्ठेत्।  
+तत्र क्वचिद् एकस्मिन् स्पृष्टोऽपरोऽपि स्पर्शम् अनुभवतीति प्रत्यक्षम्।  
+अतः, तद्-उपरोधेन "एकस्मिन् स्पृष्टेऽपरस्य कथं ज्ञानम्" इति युक्तिर् न सङ्गच्छते। 
+</details>
+
 
 <details><summary>English</summary>
 
+besides, all reference to recognition would be impossible.  
 Just as in respect of what has been seen by Devadatta, there cannot be recognition on the part of Yajnadatta, here also (what has been perceived by one part of the body cannot be recognised by another).
 </details>
 
 <details><summary>मूलम्</summary>
 
+प्रतिसन्धानव्यवहारलोपश्च, 
 देवदत्तदृष्ट इव यज्ञदत्तादेः ।
 </details>
 
-### The illustration of parti-coloured cloth unhelpful to the Carvaka :-
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
+**प्रतिसन्धाने**ति ।  
+यम् अद्राक्षं तं स्पृशामि  
+इत्यादि-प्रतिसन्धानस्य  
+तन्-मूल-व्यवहारस्य च विलोपः प्रसज्यते ।  
+अवयव-चैतन्ये द्रष्टुः स्प्रष्टुश् च  
+अन्य-अन्यत्वाद् इति भावः ।  
+अनिष्टापत्तिर् इष्ट-हानिश् चात्रोक्ते +++(अङ्गाङ्गित्वाभावः, प्रतिसन्धानव्यवहारलोपः →)+++ पद-द्वयेन ।
+</details>
+
+#### चित्र-पटवन् न
+<details><summary>English</summary>
+
+The illustration of parti-coloured cloth unhelpful to the Carvaka :-
+</details>
+
+##### चित्रत्वं नानात्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् तु - अकारणगुणपूर्वकं चित्ररूपं पटे इति, तत् न ।
+यत् तु -  
+
+> अ-कारण-गुणपूर्वकं चित्र-रूपं पटे 
+
+इति, तन् न ।
 </details>
 
 <details><summary>English</summary>
@@ -3711,7 +3787,7 @@ The statement made before, namely, that the variegated colour found in the cloth
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नानारूपता हि चित्रता ।
+नाना-रूपता हि चित्रता ।
 </details>
 
 <details><summary>English</summary>
@@ -3731,7 +3807,11 @@ The quality of variegated colour is nothing but that of being many coloured;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा च नानारूपैः तन्तुभिः क्रियते इति किम् अनुपपन्नम् इति प्रत्येकमविद्यमानमपि तच्चित्ररूपं तन्तुषु संहतेषु [[दृस्यत|दृश्यते]] एव, चित्रा इमे तन्तवः इति ।
+सा च नानारूपैस् तन्तुभिः क्रियतय् इति  
+किम् अनुपपन्नम् इति  
+प्रत्येकम् अ-विद्यमानम् अपि  
+तच्-चित्र-रूपं तन्तुषु संहतेषु दृश्यतय् एव,  
+"चित्रा इमे तन्तवः" इति ।
 </details>
 
 <details><summary>English</summary>
@@ -3741,7 +3821,7 @@ and this (variegated colour) is produced by threads of different colours; hence 
 
 <details><summary>मूलम्</summary>
 
-सा च नानारूपैस्तन्तुभिः क्रियत इति किमनुपपन्नमिति प्रत्येकमविद्यमानमपि तच्चित्ररूपं तन्तुषु संहतेषु [[दृस्यत|दृश्यते]] एव, चित्रा इमे तन्तव इति ।
+सा च नानारूपैस्तन्तुभिः क्रियत इति किमनुपपन्नमिति प्रत्येकमविद्यमानमपि तच्चित्ररूपं तन्तुषु संहतेषु दृश्यते एव, चित्रा इमे तन्तव इति ।
 </details>
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
@@ -3764,9 +3844,11 @@ The capacity to produce cloth belongs to threads only in their togetherness;
 संभूय च तेषां पटारम्भकत्वम् ।
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं तत्कारणेषु अपि तत् इति न क्वचित् व्यभिचारः ।
+एवं "तत्-कारणेष्व् अपि तद्" इति  
+न क्वचित् व्यभिचारः ।
 </details>
 
 <details><summary>English</summary>
@@ -3784,14 +3866,16 @@ thus the variegated colour exists even in the cause of cloth; hence there is now
 **एवम्** इति । तत्-कारणेष्व् अपि चित्र-पट-कारणेषु तन्तुष्व् अपि । तत् चित्रं रूपम् ।
 </details>
 
+##### नानात्वेऽपि चाक्षुषत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च एकरूपनियमाभावेन अवयविना अचाक्षुषत्वम्, महत्त्वैकार्थसमवायिना रूपवत्त्वेन एव चाक्षुषत्वसिद्धेः ।
+न चैक-रूप-नियमाभावेन +++(→नानावर्णवत्त्वेन)+++ +अवयविना ऽचाक्षुषत्वम्,  
+महत्त्वैकार्थ-समवायिना रूपवत्त्वेनैव चाक्षुषत्व-सिद्धेः ।
 </details>
 
 <details><summary>English</summary>
 
-It cannot be maintained that the whole' (the cloth) becomes invisible inasmuch as it does not possess any one specific colour, for, it may become perceptible by the very fact of its possessing inherently colour along with bigness.
+It cannot be maintained that the whole (the cloth) becomes invisible inasmuch as it does not possess any one specific colour, for, it may become perceptible by the very fact of its possessing inherently colour along with bigness.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3804,9 +3888,10 @@ It cannot be maintained that the whole' (the cloth) becomes invisible inasmuch a
 **एकरूप-नियमाभावेने ति** । अव्याप्य-वृत्ति-नानारूप-वति चित्र-पटे व्याप्य-वृत्त्य्-एकरूपाभावेनेत्य् अर्थः । **महत्त्वैकार्थे**ति । लौकिक-विषयतया द्रव्य-चाक्षुषे सामानाधिकरण्येन महत्त्व-विशिष्टोद्भूत-रूपस्य समवायेन हेतुत्व-सम्भवे हेतुतावच्छेदक-कोटौ व्याप्य-वृत्तित्व-विशेषणे प्रयोजनाभावः । तथा च चित्र-पटस्य न चाक्षुषत्वानुपपत्तिर् इति भावः ।
 </details>
 
+##### रूपेण रूपारम्भः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्तु वा चित्रं नाम एकः रूपविशेषः ।
+अस्तु वा चित्रं नामैको रूप-विशेषः ।
 </details>
 
 <details><summary>English</summary>
@@ -3821,13 +3906,21 @@ Let variegated colour be taken to be one specific colour.
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-रूपस्य व्याप्य-वृत्तित्व-नियमे ऽपि आह **अस्तु वे**ति ।
+रूपस्य व्याप्य-वृत्तित्व-नियमे ऽप्य् आह **अस्तु वे**ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सः तु रूपैः एव कारणगतैः नानाविधैः आरभ्यते इति दृष्टम् ।
+सः तु रूपैर् एव कारण-गतैर् नाना-विधैर् आरभ्यतय्  
+इति दृष्टम् ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+एवं हि विधिकल्प+++(=algorithm)+++-सङ्घटनेन +आत्माख्य-विधिकल्पारम्भः।  
+अथवा कोश-सङ्घटनेन कोशारम्भः। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3841,8 +3934,17 @@ Even then it is found to be produced by the different colours existing in the ca
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च एवम् अवयववर्तिभिः एव चैतन्यैः अवयविनि [[शरोरे|शरीरे]] चैतन्यविशेषारम्भः, चितितन्मात्रस्य एव तेषु असम्भवात् ।
+न चैवम् अवयव-वर्तिभिर् एव चैतन्यैर्  
+अवयविनि शरीरे चैतन्य-विशेषारम्भः,  
+चिति--तन्-मात्रस्यैव तेष्व् असम्भवात् ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+विधिकल्पवत्त्वं शरीरगत-परमाणुष्व् अस्ति,  
+तत आत्म-जातीय-विधिकल्पवत्त्वं कोशे सम्भवतीति नास्त्य् आश्चर्यम्। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3859,9 +3961,10 @@ It cannot be asserted that it is only the consciousness resident in the parts th
 **न च एवम्** इति । तन्तु-गत-विविध-रूपैः पटे चित्र-रूपारम्भवद् अवयव-गतैर् अनुद्भूत-चैतन्यैर् देहे उद्भूत-चैतन्यारम्भो ऽस्त्व् इति च न शङ्क्यम् । चिति-तन्-मात्रस्यैव चैतन्य-सामान्यस्यैव मानाभावेन देह-अवयवेष्व् असम्भवात् । शरीरस्य चैतन्ये तद्-अवयवेषु चैतन्य-कल्पना, तत्-कल्पनायाम् एव शरीरे चैतन्य-सिद्धिर् इत्य् अन्योऽन्य-संश्रयाश् चेति भावः ।
 </details>
 
+#### न चैतन्यम्, न सुखादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः न देहगुणः चैतन्यम् ।
+अतो न देह-गुणश् चैतन्यम् ।
 </details>
 
 <details><summary>English</summary>
@@ -3876,7 +3979,7 @@ Therefore, consciousness is not a quality of the body.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतेन सुखादयः अपि शरीरगुणाः प्रत्युक्ताः ।
+एतेन सुखादयो ऽपि शरीरगुणाः प्रत्युक्ताः ।
 </details>
 
 <details><summary>English</summary>
@@ -3894,21 +3997,40 @@ On the same count, the belief that pleasure and other qualities belong to the bo
 **एतेने**ति । ज्ञानस्येव सुखादेर् अपि विशेष-गुणस्य न शरीर-धर्मत्व-सम्भव इति भावः । एवं **शरीरे तद्-असम्भवाम्** इति व्याख्यातम् ।
 </details>
 
-### Being distinct from the other qualities of the body consciousness is not an attribute of the body :-
+
+### मृत-शरीर-दार्ढ्यात्
+<details><summary>English</summary>
+
+Being distinct from the other qualities of the body consciousness  
+is not an attribute of the body :-
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च दृढे एव शरीरे विरोधिगुणापातम् अन्तरेण कुसुमविलेपनगन्ध इव निवर्तमानः चैतन्यसुखादिः न तद्गुणः भवितुम् अर्हति,
+अपि च, दृढय् एव शरीरे  
+विरोधि-गुणापातम् अन्तरेण +++(→निवर्तमानश्)+++  
+कुसुम-विलेपन-गन्ध इव निवर्तमानश् चैतन्य-सुखादिः  
+न तद्-गुणो भवितुम् अर्हति,
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+मृत-शरीर-वैगुण्यं न भवता सूक्ष्मतया ऽभिज्ञातम्। 
+</details>
+
 
 <details><summary>English</summary>
 
-Besides, as consciousness, pleasure, etc., vanish from the body, like the smell of flower and sandal, even when the body [[continnes|continues]] to be strong and in the absence of counteracting qualities, they cannot be the qualities of the body.
+Besides, as consciousness, pleasure, etc., vanish from the body,  
+like the smell of flower and sandal,  
+even when the body continues to be strong  
+and in the absence of counteracting qualities, they cannot be the qualities of the body.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अपिच दृढ एव शरीरे विरोधिगुणापातमन्तरेण कुसुमविलेपनगन्ध इव निवर्तमानश्चैतन्यसुखादिर्न तद्गुणो भवितुमर्हति,
+अपि च दृढ एव शरीरे विरोधिगुणापातमन्तरेण कुसुमविलेपनगन्ध इव निवर्तमानश्चैतन्यसुखादिर्न तद्गुणो भवितुमर्हति,
 </details>
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
@@ -3920,12 +4042,19 @@ Besides, as consciousness, pleasure, etc., vanish from the body, like the smell 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न खलु तद्विशेषगुणाः रूपादयः तथा निवर्तन्ते ।
+न खलु तद्-विशेष-गुणाः रूपादयस्  
+तथा निवर्तन्ते ।+++(4)+++
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+तेेऽपि निवर्तन्ते हि काल-क्रमेण। 
+</details>
+
 
 <details><summary>English</summary>
 
-Colour and other special qualities of [[the the|the]] body, however, do not leave it in the same manner.
+Colour and other special qualities of the body, however, do not leave it in the same manner.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3938,10 +4067,14 @@ Colour and other special qualities of [[the the|the]] body, however, do not leav
 **न खलु त**द् इति । **अयं भावः** अग्नि-संयोगेन रूप-परावृत्ताव् अपि तद्-अप्रसङ्गे रूपस्य यावद्-द्रव्य-भावित्वं दृष्टम् । न च ज्ञानादि स्थिरम् एवम् । न च उत्तर-उत्तर-विशेष-गुण एव पूर्व-पूर्व-ज्ञानादि-विरोधीति वाच्यम् । एवम् अपि अन्त्यस्य चिरम् अवस्थान-प्रसङ्गाद् इति ।
 </details>
 
+### प्रत्यक्षाग्राह्यता ज्ञानादेः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आत्मनः परेषां च शरीरगुणाः प्रत्यक्षयोग्याः, बाह्येन्द्रियग्राह्याः च;
+आत्मनः परेषां च शरीर-गुणाः  
+प्रत्यक्ष-योग्याः,  
+बाह्येन्द्रिय-ग्राह्याश् च;
 </details>
+
 
 <details><summary>English</summary>
 
@@ -3960,8 +4093,15 @@ The qualities of the body are perceptible to the individual as well as to others
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च तथा ज्ञानादिः इति
+न च तथा ज्ञानादिर् इति
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+किन्त्व् अनुमान-बृंहित-प्रत्यक्ष-ग्राह्य एव ज्ञानादिः।  
+शिर-आघात-विशेषेषु सत्सु, मस्तिष्क-कोश-नाश-सहितो ज्ञान-लोपो दृश्यते हि। 
+</details>
+
 
 <details><summary>English</summary>
 
