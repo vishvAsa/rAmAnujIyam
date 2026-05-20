@@ -4120,7 +4120,7 @@ but not so consciousness, etc.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न असौ तद्गुणः ।
+नासौ तद्गुणः ।
 </details>
 
 <details><summary>English</summary>
@@ -4139,7 +4139,7 @@ Therefore, they cannot be the qualities of the body.
 </details>
 
 
-####  अनेकहेत्वन्तरोपन्यासः
+#### अनेकहेत्वन्तरोपन्यासः
 
 किंच - उत्पत्तिमत्त्वात्पारार्थ्यात्सन्निवेशविशेषतः । रूपादिमत्त्वाद्भूतत्वाद्देहो नात्मा घटादिवत् ॥ ७ ॥
 
