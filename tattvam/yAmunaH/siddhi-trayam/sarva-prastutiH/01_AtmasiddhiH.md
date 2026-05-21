@@ -2501,9 +2501,6 @@ Just as the cognition 'This is a pot' (marks off its object as distinct from the
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 पराग्वृत्तिर् इदम् इति शरीरविषयिणी च शेमुषी स्वविषयम् अहङ्कारगोचराद् विवेचयति, यथा अयं घट इति । इतरथा स्वपरविभागानुपपत्तेः । 
-</details>
-
-<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अहङ्कार-गोचरात् अहम्-प्रत्यय-विषयात् स्वात्मनः । शिष्टं स्पष्टम् । 
 
@@ -4138,15 +4135,119 @@ Therefore, they cannot be the qualities of the body.
 एवं ज्ञानस्य शरीर-धर्मत्वाभाव-साधनेन शरीरस्यात्मत्वं प्रतिक्षिप्तं भवति । यथा देहो नात्मा आज्ञातृत्वाद् घटादि-वद् इति ।
 </details>
 
+### अनुमान-सङ्ग्रहः
+<details><summary>English</summary>
 
-#### अनेकहेत्वन्तरोपन्यासः
+Additional reasons in support of the view that the body is not the soul.
+</details>
+
+#### घटादिवत्त्वात्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं च - 
+
+> उत्पत्तिमत्त्वात् पारार्थ्यात्  
+सन्निवेश-विशेषतः ।  
+रूपादिमत्त्वाद् भूतत्वाद्  
+देहो नात्मा घटादिवत् ॥ ७ ॥
+</details>
+
+<details><summary>English</summary>
+
+Further, the body is not the soul, since like a pot, it has a beginning, exists for the sake of others, possesses a particular configuration and has colour, etc., and is an element. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 किंच - उत्पत्तिमत्त्वात्पारार्थ्यात्सन्निवेशविशेषतः । रूपादिमत्त्वाद्भूतत्वाद्देहो नात्मा घटादिवत् ॥ ७ ॥
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अत्रैव साध्ये साधनान्तराणि चाह **उत्पत्तिमत्त्वा** दित्यादिकारिकाद्वयेन । पारार्थ्यं भ्रोक्त्रन्तरार्थत्वम् । तच्च सङ्घातत्वात् । 
+
+भूतत्वम् बहिरिन्द्रिय-ग्राह्य-विशेष-गुणवत्त्वम् । 
+</details>
+
+
+#### मृत-देहवत्त्वात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(मुखादिभिस्)+++ स-च्छिद्रत्वाद् अ-देहित्वाद्  
+देहत्वान् मृत-देहवत् ।  
+इत्य्-आदि-साधनैर् न्याय्यैर्  
+निषेध्या वर्ष्मणश् चितिः ॥ ८ ॥
+</details>
+
+<details><summary>English</summary>
+
+Again, because the body has holes and is not the possessor of the body and is a body, consciousness cannot be its quality, as in the case of the dead body.  
+These and other logical proofs lead us to reject the view that consciousness is a quality of the body.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 सच्छिद्रत्वाददेहित्वाद्देहत्वान्मृतदेहवत् । इत्यादिसाधनैर्न्याय्यैर्निषेध्या वर्ष्मणश्चितिः ॥ ८ ॥
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+एतैर्हेतुभिः शरीरे चेतनभिन्नत्वं साध्यम् ।  
+न्याय्यैः प्रतिज्ञाद्य्-अवयव-पञ्चकात्मक- न्याय-प्रतिपाद्य-रूप-पञ्चकोपपन्नैः ।  
+वर्ष्मणः शरीरस्य । चितिः ज्ञानम् ॥७ ॥८ ॥
+</details>
+
+
+### इन्द्रियाश्रयत्वादिना न
+<details><summary>English</summary>
+
+Argument based on Negative concomitance indefensible
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं प्रत्यक्ष-विरोधात्,  
+अन्वय-मुखेन साध्यम् उपस्थापयद्भिर् उदीरित-साधनैर् अपहृत-विषयतया 
+इन्द्रियाश्रयत्वादि-- व्यतिरेकि-हेतवो  
+न साध्यम् उपस्थापयितुम् ईशते ॥
+(इति देहात्मवादनिरासप्रकरणम्)  
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+एवं प्रत्यक्षसङ्गतिमद् अनुमानं जयतीति। 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus the matter having been disposed of in this manner  
+with the aid of the aforesaid reasons  
+which point to the major term on the strength of positive concomitance, purely negative concomitance, such as the quality of being the seat of the senses, will be powerless to establish the major term.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 एवं प्रत्यक्षविरोधात्, अन्वयमुखेन साध्यमुपस्थापयद्भिरुदीरितसाधनैरपहृतविषयतयेन्द्रियाश्रयत्वादिव्यतिरेकिहेतवो न साध्यमुपस्थापयितुमीशते ॥
 (इति देहात्मवादनिरासप्रकरणम्)  
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+समर्थितमेतावता देहस्यानात्मत्वं प्रत्यक्षानुमानाभ्याम् ।  
+एतद्-बाधितत्वम् आह -  
+देहे आत्मत्वं साधयतां केवलव्यतिकेरिणाम्  
+**एवम्** इति ।  
+अन्वयमुखेन अन्वयव्याप्त्या ।  
+अपहृत-विषयतया बाधित-साध्यकतया,  
+उपस्थापयितुं व्यवस्थापयितुम् ।
+</details>
+
 
 ## नेन्द्रियाणि
 सन्तु तर्हीन्द्रियाण्येवात्मा । न च तानीदन्तया प्रथन्ते, येन देहवदहङ्कारगोचराद्बहिष्क्रियेरन् । नापि तथोद्भूतरूपादिगुणानि, स्थूलानि; येन तत्प्रतिभास इवेन्द्रियगोचरत्वेऽहंप्रत्ययस्य रूपावयवादिप्रतीतिः प्रसज्येत । तद्वद्यापारफलं च ज्ञानं तद्गामि युक्तं स्नानाध्ययनादिफलवत् । अत एव सत्यतपाः, 'द्रष्टुश्चक्षुषः' इति ।
