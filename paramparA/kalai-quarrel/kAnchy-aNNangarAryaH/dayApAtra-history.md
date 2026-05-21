@@ -55,9 +55,9 @@ Source: [TW](https://youtu.be/cwlrsQ_KepA)
 01:55 - aNNangarAchArya good qualities, post 40-s vedAdhyayana. Good sentiments. Devotion to abhinava-ranganAtha, etc..
 03:40 - His own criteria for truth.
 05:45 - **Verifiable lies** - rAmAnuja dayApAtra shloka was well over 300 years old, not as claimed.
-07:30 -  maisUru edict 1649 misrepresented - primary source not quoted. Convenient blame on unnamed kannaDa text.
+07:30 -  maisUru edict 1649 misrepresented - primary source not quoted. (Correction - 1709 mute king not infant.) Convenient blame on unnamed kannaDa text.
 13:05 - periya parakAla-yati reign - 1677-1738(C.E.) is after this edict. But is slandered to have invented and propagated the shloka.
-18:30 - rAmAnuja-dayA-pAtra taniyan actually found in manuscripts (eg. Sajjana-vaibhava) - but he claims otherwise.
+18:30 - rAmAnuja-dayA-pAtra taniyan actually found in manuscripts (eg. Sajjana-vaibhava) - but he claims otherwise. This is irrespective out who wrote sajjana-vaibhava.
 21:10 - Presence of vaDakalai AchArya worship/ vigraha-s in shrines.
 22:00  - Labored misinterpretation of parAshara-saMhitA and cobra mark. (vaDakalai vs tenkalai tilaka)
 30:00 - "deshika was tenkalai". Doctrinal dismissals clear in his texts. Here he pleads it's a "Tough subject".
@@ -79,7 +79,7 @@ Source: [TW](https://youtu.be/cwlrsQ_KepA)
 57:40 - portayal of ahobila-yati
 59:15 - Glee at the plight of **shrIranga archakas**. "cannot prostrate... twice"
 1:00:10 - Funeral restrictions too!
-1:02:00 - No Adhyayanotsava role for deshika or nAthamuni in shrIranga.
+1:02:00 - No Adhyayanotsava role for deshika in shrIranga.
 1:03:40 - His own statement - "bigotry makes even a learned person err".
 1:06:40 - Conclusion.
 </details>
@@ -306,7 +306,7 @@ Then disputes arose and the Thenkalais petitioned to the Mysore State authoritie
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-This is false. 1649 (not 1709, where king was a deaf/ dumb infant under tk care) kaNThIrava narasarAja actually says - 
+This is false. 1649 (likely not 1709, where king was a deaf/ dumb ruler with a tk minister) kaNThIrava narasarAja actually says - 
 
 > मेलुकोटॆ चामैगॆ बरसि कळुहिद निरूप आदागि -  
 मेलुकोटॆ तिरुनारायण-स्वामियवर सन्निधियल्लि  
