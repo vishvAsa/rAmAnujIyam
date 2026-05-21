@@ -4273,7 +4273,7 @@ Then let the senses themselves be (considered as) the soul.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अथेन्द्रियात्मवादम् उपक्षिपति **सन्तु तर्ही**ति । देहात्मत्व-पक्षोक्तानि दूषणानि
 </details>
@@ -4296,7 +4296,7 @@ Otherwise, (if they were known as 'this') they, like the body, may be excluded f
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 नात्र पक्षे प्रसज्यन्त इत्य् आह **न च तानी** त्य् आदि-वाक्य-द्वयेन ।
 </details>
@@ -4336,7 +4336,7 @@ Knowledge which is the result of their activity, like [[P18]] the results of bat
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 बाधकाभावम् उक्त्वा साधकम् अप्य् आह पक्षे ऽत्र **तव्द्यापारे**ति । ज्ञानम् इन्द्रिय-धर्मः, इन्द्रिय-व्यापार-फलत्वात्, यव्द्यापार-फलं यत् तत्-तन्निष्ठम्, यथा स्नानाध्ययनादि-व्यापार-फलम् शौचाक्षर-राशि-ग्रहणादि स्नात्र् अध्येतृ-समवेतम् इति प्रयोगो बोध्यः । इन्द्रियस्य व्यापारः अर्थ-सन्निकर्षार्थेन्द्रिय-प्रवृत्तिः, अर्थेनेन्द्रियस्य सन्निकर्ष एव वा । हेतौ द्रव्य-भिन्न-भावत्वे सतीति विशेषणं देयम् । तेन घट-तद्ध्वंसानुकूल-व्यापारवतो दण्डादेर् घटवत्त्वाद्य् अभावे ऽपि न क्षतिः ।
 </details>
@@ -4385,7 +4385,7 @@ the boar and its pursuer appeared to the sage in their true form as Visnu and In
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 इन्द्रियात्मत्वे ऽनुमानम् उक्त्वा ऽप्त-वाक्यम् अपि संवाद-रूपं निर्दिशति **अत एवे**ति ।
 </details>
@@ -4429,7 +4429,7 @@ as none of its forms stands scrutiny.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 इन्द्रियाणाम् आत्मत्वं निरस्यति **तन्ने**ति । विकल्पासहत्वं नाम विकल्प-धर्मिणः सम्भावित-यावत्-कोटि-विकल्पेन विकल्पित-यावत्-कोट्य् अन्यतम-कोटि-सम्बन्धस्याप्य् अनर्ह-स्वरूपत्वम् । क्षोद-क्षमत्वाभाव इति यावत् । प्रत्यक्ष-बाधाभावे ऽपि यौक्तिक-बाधो ऽस्तीन्द्रियात्मत्व इति हार्दम् ।
 </details>
@@ -4453,7 +4453,7 @@ To explain it further-Do the senses possess knowledge individually or collective
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 प्रत्येकेन्द्रिय-चैतन्य-पक्षे नाना-स्वामिक इव ग्राम एकस्मिन् एव देहे नाना-चेतनाधिष्टानान् नित्य-कलहादि प्रसज्यते इति दूषणं हृदि नाधाय दूषणान्तरम् आह
 </details>
@@ -4476,7 +4476,7 @@ If individually, what is perceived by one sense cannot be recognised by another.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **इन्द्रियान्तरे**ति । इन्द्रिय-सङ्घातात्मत्व-पक्षे ऽपीदं साधारणम् ।
 </details>
@@ -4514,7 +4514,7 @@ That is why the senses, even collectively, cannot be said to possess knowledge.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 तद् आह **अत एवे**ति । अत एव निरुक्त-प्रतिसन्धानानुपपत्तेर् एव ।
 </details>
@@ -4535,7 +4535,7 @@ No object is either perceived or recognised by all the five senses together.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 तामेवोपपादयति **नही**ति । इन्द्रिय-सङ्घातो नानुभविता, नाप्य् अनुस्मर्ता । तथा हि सङ्घातो यदि संयोगो बहुत्व-सङ्ख्या वा, तर्हि गुणत्वाद् एव न ज्ञातृत्व-सम्भवः । यदि संयुक्तानां बहूनाम् एव सङ्घातत्वेन विवक्षा, तदापि न बहूनाम् इन्द्रियाणां चाक्षुषाश्रयता स्पार्शनाश्रयता वा । तथा च द्रष्टुः स्प्रष्टुश् चान्यान्यत्वाद् उक्त-प्रतिसन्धानानुपपत्तिर् एवेति भावः ।
 </details>
@@ -4557,7 +4557,7 @@ Again, (if this view were correct) even when one sense-organ perishes death must
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 इन्द्रिय-सङ्घातस्याऽत्मत्वे दोषान्तरम् आह **एकेन्द्रिये**ति । सङ्घातस्य तावतैव विनष्टत्वान् निर्-आत्मकत्वेन देहस्य मरण-प्रसक्तिर् इति भावः ।
 </details>
@@ -4580,7 +4580,7 @@ Besides, if knowledge belonged to the senses, with the decay of each of the diff
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 प्रत्येक-सङ्घात-पक्ष-द्वय-साधारणं दोषान्तरम् आह **इन्द्रिये**ति । द्रष्टुश् चक्षुषो विनाशे मयेदं दृष्टम् इति स्मृतेर् अनुपपत्तिः । विद्यमानस्याद्रष्टृत्वात् । अन्य-दृष्टस्यान्येन स्मृत्ययोगाद् इति भावः । इन्द्रिय-चैतन्ये बाधकान्य् उक्तानि ।
 </details>
@@ -4605,7 +4605,7 @@ Moreover, knowledge, though the outcome of the activity of the senses, need not 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अथ तत्-साधकम् अनुमानं दूषयति **न च तव्यद्यापारे**ति । पापादेर् इत्य् आदि-पदेन द्वैधीभावो ऽपि ग्राह्यः । तयोश् छेत्तृच्छैद्य-गततया शस्त्रे ऽसमवेतत्वाव् व्यभिचार इति भावः । अत्र विपक्षे बाधक-विरहाद् अप्रयोजकत्वम् अपि बोध्यम् ।
 </details>
@@ -4632,7 +4632,7 @@ Bearing in mind the fact that if he did not speak the truth, the person who inte
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अथ सत्यतपसो वचनं करणे कर्तृत्वोपचारेण प्रवृत्तम् अन्य-परं नेन्द्रिय-चैतन्ये प्रमाणम् इत्य् आह **अन्यथा चे**ति । स्वाश्रम-प्रविष्ट-वन-मृगान्वेषण-प्रवृत्त-व्याध-कृत-प्रश्नोत्तर-रूपं सत्यतपसस् तथा-वचनम् **द्रष्टुश् चक्षुषो नास्ति जिह्वा** इत्यादि । एतस्मिन् अर्थे श्लोको ऽयम् अनुगृहीतो ऽस्मद्-गुरु-चरणैः
 > या पश्यति न सा ब्रूते सा न पश्यति ।  
@@ -4680,7 +4680,7 @@ The doctrine that manas is the soul
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अथ मन आत्मत्वपक्षमुपक्षिपति **अस्तु तर्ही**ति ।
 </details>
@@ -4722,7 +4722,7 @@ Indeed, manas has been known to be the controller of all the senses and has been
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **तद्धी**ति । मनो हि प्रधानां सर्वेन्द्रियप्रेरकं च गम्यते प्रमाणतो, व्यवह्लियते च तथेत्य् अर्थः ।
 </details>
@@ -4745,7 +4745,7 @@ Besides, recognition by a different sense becomes appropriate, since manas is th
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 इन्द्रियात्मत्वपक्षोक्तानां स्मृतिप्रतिसन्धानानुपपत्तिनानात्मप्रसङ्गादिदोषाणां नात्र पक्षे प्रसङ्ग इत्य् आह **उपपद्यते चे**त्य् आदि-वाक्य-द्वयेन ।
 </details>
@@ -4807,7 +4807,7 @@ The refutation of this doctrine
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मनस आत्मत्वं दूषयति **तदपि ने**ति । **करणत्वा**द् इति सर्वत्र ज्ञाने करणत्वान् मनसो न तत्र कर्तृत्वम् आश्रयत्वं सम्भवति । मनो हि न प्रत्यक्ष-विषयः । किन्तु युगपज्-ज्ञानानुत्पत्ति-लिङ्गेन सकल-ज्ञाने करण-विशेषतयानुमीयते । तस्य च न ज्ञातृत्वं चक्षुरादेरिव सम्भवतीति भावः ।
 </details>
@@ -4848,7 +4848,7 @@ From the fact that even when the different external senses are in contact with t
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 एतद् एवोपपादयति **बाह्येन्द्रियेष्व्** इति । यत्-साहायक-विरहात्यत्-सहकार-विरहात् । (सहायस्य कर्म साहायकम्) यत्-सन्निकर्ष-विरहाद् इति यावत् । तत्तद्-अर्थ-ग्राहकेन्द्रियस्येति शेषः ।
 </details>
@@ -4871,7 +4871,7 @@ Likewise, knowledge of pleasure, etc, as in the case of knowledge of colour and 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 एवं बाह्यार्थेषु युगपज्-ज्ञानानाम् अनुत्पत्ति-लिङ्गेन सर्वेन्द्रिय-सहकारित्वेनाणुभूतस्य मनसः करण-विशेषस्यानुमानम् उक्त्वा आन्तर-सुखादि-साक्षात्कारेषु करणतयापि मनसो ऽनुमानम् आह **तथा सुखादी**ति ।
 </details>
@@ -4892,7 +4892,7 @@ How can manas, which is thus known to be an instrument of knowledge, be the subj
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 ननु करणतयानुमितस्यैव मनसो ज्ञानादौ कर्तृत्वम् अप्य् अस्तु लाघवाद् इति चेत् तत्राह **तदेवम्** इति । करणस्य कर्तृत्वं न सम्भवति । करणत्व-कर्तृत्वयोर् विरोधात् स्वातन्त्र्य-पारतन्त्र्य-लक्षणयोर् इति भावः ।
 </details>
@@ -4913,7 +4913,7 @@ To be a subject is really to be independent.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 कर्तृत्व-करणत्व-स्वरूप-भेदं विवृणोति **स्वातन्त्र्ये**त्य् आदिना । कर्तृत्वं नाम स्वेच्छाधीन-स्वप्रवृत्तिकत्व-रूप-स्वातन्त्र्य-नियतं स्वेच्छयैव साध्य-सिद्ध्य् औपयिक-सामग्री-सम्पादन-सामर्थ्यम् । करणत्वं च परेच्छा-[[प्रयात्नाधीन|प्रयत्नाधीन]]-स्वव्यापृतीकत्व-लक्षण-पारतन्त्र्य-नियतं परस्य रिप्सित-क्रिया-निष्पत्तौ प्रकृष्टोपकारकत्व-लक्षणम् । न चैतयोर् एकत्र समावेशः सम्भवतीति भावः ।
 
@@ -4966,7 +4966,7 @@ Moreover, if it is maintained that manas, which is an agent, acquires, the chara
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 ननु रूप-सुखादि-बाह्यान्तर-पदार्थानुभवेषु मन एव कर्तृ । आन्तर-सुखाद्य् अनुभवे करणं त्व् आन्तरम् अन्यत् कल्प्यत इति शङ्कते **अथ तदपि**ति । परिहरति [[**तथा सती** ती|**तथा सती**ति]] । एवं सति अस्मद्-इष्टस्य ज्ञातर्य् अन्तःकरण-भेदस्य न काप्य् अनुपपत्तिः । सञ्ज्ञा तु ऐच्छिकीति नार्थे विवाद इत्य् अर्थः ।
 </details>
@@ -5032,7 +5032,7 @@ But it would go against linguistic usage. No more need be said in disproof of th
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 ज्ञातुर् आत्मनो मनः-सञ्ज्ञायां व्यवहार-विरोधम् आह **किन्तु** इति । मन इति नात्मनो व्यवहारो लौकिकानां वैदिकानां च । अतो मनः-सञ्ज्ञा-आत्मनि व्यवहार-विसंवादाद् अपार्थेति भावः ।
 </details>
@@ -5070,7 +5070,7 @@ What, it may be asked, is meant by manas?
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अथात्र परमाचार्यो ऽयं विमर्शक-भूमिकाम् आस्थितः प्रसङ्गात् मनसस् तत्त्व-विचारं प्रक्रमते **आहे**ति । कश्चिद्
 विमर्शक इत्य् आदिः । विमर्शश् चायं तार्किकाभिमतानां मनः-साधक-युक्तीनां क्षोद-क्षमत्वाभाव-प्रदर्शनार्थः । **किमिदम्** इति । किम् इति स्वरूप-प्रश्नः ।
@@ -5107,7 +5107,7 @@ What is the proof of its existence?
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 किम् पुनर् इति प्रमाण-प्रश्नः ।
 </details>
@@ -5143,7 +5143,7 @@ True, it has been so 'po'nted out; but, how does it establish that it is a disti
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मनसि प्रमाणम् आक्षिपति **उक्तं नाम** इत्य् आदिना । युगपज्-ज्ञानानुत्पत्ति-लिङ्गेन द्रव्यान्तरम् आन्तरं करणं न सिद्ध्यति । अदृष्टादि-सहकार-विरहेणैव युगपज्-ज्ञानानुत्पत्त्य् उपपत्तेर् इति भावः ।
 </details>
@@ -5164,7 +5164,7 @@ Even after postulating it, you must perforce admit some other reason to account 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 युगपत्-स्मरणानाम् अनुत्पत्तये ऽदृष्ट-सहकार-विरहो ऽवश्यम् एव शरणीकरणीयः [[स्वीकृतेऽप्यान्तरकरण|स्वीकृते ऽप्य् आन्तर-करणे]] इत्य् आह **कल्पयित्वापी**ति ।
 </details>
@@ -5185,7 +5185,7 @@ Impressions born of the experience of different objects exist simultaneously in 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 नानार्थ-अनुभव-भाविताः - नानार्थ-अनुभव-जनिताः ।
 </details>
@@ -5236,7 +5236,7 @@ The order in which the causes that are responsible for stimulating impres ions a
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **संस्कारे**ति । संस्कारस्योन्मेष-हेतूर् उद्बोधकः । संस्कार-उद्बोधक-समवधान-क्रमात् स्मृतीनाम् अयौगपद्यम् । उद्बुद्ध-संस्कारस्यैव स्मृति-हेतुत्वात् । उद्बोधस्य क्रमभावित्वाच् चेति भावः । **एवमपी**ति । प्रणिधानम् मनसो ऽवधानेन चिन्तनम् । येषामर्थ-संस्काराणां साधारणम् उद्बोधकं प्रणिधानं कृतम् अनुभूत-यावद्-अर्थ-स्मृतीच्छयैकदैव तदापि न यावद्-अर्थ-स्मृतयो युगपज् जायन्ते । तत् सत्य् अपि नानार्थ-स्मृतिषु दृष्ट-कारणे ऽदृष्ट-सहकार-विरहाद् एव न स्मृति-यौगपद्यम्, किन्तु एकस्यैवैकदा भवति [[स्मृतिरदृष्टसहकाराइत्येषितव्यमिति|स्मृतिर् अदृष्ट-सहकाराद् इत्य् एषितव्यम् इति]] भावः ।
 </details>
@@ -5273,7 +5273,7 @@ Should it be supposed that the order in which remembrances appear is due either 
 
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 शुभाशुभ-रूपतया - सुख-दुःख-जनकतया । नन्व् एवम् अपि सुख-हेत्व् अर्थानां शुभादृष्ट-बलाद् युगपत् स्मरणानि स्यूर् इति चेत् तत्राह **क्रमे**ति । क्रमिक-ज्ञान-भाक्त्व-लक्षणात्म-स्वभाव-बलाद् अदृष्ट-सहकार-विरहाच् च स्मृति-यौगपद्यस्येव बाह्यार्थ-ज्ञान-यौगपद्यस्यापि [[परिहरणसम्भवात्नाणुभूतं|परिहरण-सम्भवाद् नानुभूतं]] मनो बाह्येन्द्रिय-सहकारि [[करणन्तरमान्तरं|करणान्तरम् आन्तरं]] कल्पनीयम् इति समुदिताशयः ।
 </details>
@@ -5299,7 +5299,7 @@ Again, pleasure and the like which are adventitious, which inhere in the soul an
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मनसि [[प्रमाणन्तरमुपक्षिपति|प्रमाणान्तरम् उपक्षिपति]] **स्यान्मतम्** इति । अत्र प्रयोगः - सुखादि सासमवायि-हेतुकं भाव-कार्यत्वात् कार्य-रूपादिवद् इति । असमवायि-हेतुश् च सुखादाव् आत्म-मनः-संयोग एव, अन्यस्यासम्भवाद् इति हृदयम् । आत्मेत्य् आदि बाह्येत्य् आदि च षष्ठ्यन्तं पद-द्वयं बहुव्रीहि-वृत्तं सुखादेर् विशेषणम् । पद-द्वयेन च सुखादाव् आत्मनः समवायिकारणत्वम् अदृष्टादेर् निमित्त-हेतुत्वं चोक्तम् ।
 </details>
@@ -5335,7 +5335,7 @@ for, the knowledge,
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 एतन् निरस्यति **तदस**द् इत्य् आदिना ।
 </details>
@@ -5356,7 +5356,7 @@ which is produced by contact with agreeable and disagreeable objects and which o
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **सुखे**ति । अनुकूल-विषयस्य प्रतिकूल-विषयस्य च ज्ञानस्यैवात्मनि नियत-पूर्व-वृत्तेः सुखे दुःखे च कारणस्य तत्रासमवायि-हेतुत्वं युक्तम् । न तु आत्म-मनः-[[संसेयोगस्य|संयोगस्याप्रसिद्धस्य]] ।
 </details>
@@ -5377,7 +5377,7 @@ This (knowledge), in its turn, has for its non-inherent cause the conjunction of
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 तत्तद्-विषय-सन्निकृष्टेन्द्रियात्म-संयोग एव च तत्तज् ज्ञाने ऽसमवायिकारणम् ।
 </details>
@@ -5398,7 +5398,7 @@ The activity of the organ which is the cause of this (conjunction) has for its n
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अत्र विषयेन्द्रिय-संयोग-हेतु-भूतस्येन्द्रिय-व्यापारस्य प्रयत्नवद् आत्म-संयोगासमवायि-हेतुकत्व-कथनं प्रसङ्गात् ।
 </details>
@@ -5419,7 +5419,7 @@ This effort, again, (has for its non-inherent cause) the knowledge of the necess
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 कृति-साध्यता-ज्ञानम् एव प्रयत्ने तथा चिकीर्षा-द्वारा ।
 </details>
@@ -5440,7 +5440,7 @@ The unseen force (has for its non-inherent cause) the effort itself. Thus, even 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 कार्यता-ज्ञाने च स्मृति-रूपे उद्बुद्ध-संस्कारः, अनुभव-रूपे च लिङ्ग-ज्ञानादि तथा । संस्कारे चानुभवः तथा । प्रयत्न एवादृष्टस्याप्य् असमवायि-हेतुः । इदम् उपलक्षणम् । इच्छां प्रति इष्ट-जातीयत्वस्येष्ट-साधनत्वस्य वा ज्ञानं तथा । द्वेषं प्रति चानिष्टत्वस्य तत्-साधनत्वस्य वा ज्ञानं तथा । आत्म-विशेष-गुणानां कुत्राप्य् असमवायि-हेतुत्वं नास्तीति प्रवादस्तु न श्रद्धेय इति [[मनुदिताशयः|समुदिताशयः]] । इच्छादीनाम् इत्य् आदि-पदेन द्वेष-प्रयत्नादृष्ट-संस्काराणां ग्रहणम् । कुत्रापि ज्ञानादौ आत्म-[[विसेषगुणे|विशेषगुणे]] मनो ऽपेक्षा नास्तीति हार्दम् ।
 </details>
@@ -5465,7 +5465,7 @@ From the fact that the colour of the atoms of earth (prthivi) originates from th
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 साधनान्तरं मनसि शङ्कते **यत्तु नित्य**ति । अत्र प्रयोगः - सुखादिर् द्रव्य-संयोगासमवायि-हेतुकः कार्यत्वे सति नित्य-द्रव्य-विशेष-गुणत्वात् पाकज-परमाणु-रूपवद् इति । द्रव्यान्तर-संयोगस्य सुखादाव् असमवायि-हेतुत्वासम्भवान् मनः-संयोगस्यैव तथात्वेन परिशेषान् मनसः सिद्धिर् इति भावः । एतद् दूषयति **तदपी**ति । स्थवीयः - स्थूलतरम् । अविमृश्य-भाषितम् इति यावत् ।
 </details>
@@ -5486,7 +5486,7 @@ Wherefrom is it learnt that colour and other qualities of earth particles origin
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **अयं भावः** - अन्वय-व्यतिरेक-सहचार-दर्शनाद् एव हि सर्वत्र कारणत्वाध्यवसायः । पार्थिवाणु-रूपादौ दहन-संयोगस्य हेतुत्वम् अपि ततो देहावयवादौ रूपादि-परावृत्तेर् दृष्टत्वात् दृष्टानुसाराद् एव कल्प्यते । इह चानुकूल-ज्ञानादेरेव सुखादौ हेतुत्वं दृष्टम् । समवायिकारण आत्मनि प्रत्यासन्नत्वात् तस्यैवासमवायि-हेतुत्वं च युक्तं तत्रेति नादृष्ट-द्रव्यान्तर-संयोगस्य तथात्वेन कल्पनावसरः ।
 </details>
@@ -5522,7 +5522,7 @@ Indeed, there will be occasion to infer other causes only when the perceived cau
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **दृष्टकारण**ति । दृष्ट-हेतोर् अभावे ऽपि कार्योत्पत्तेर् दर्शने हि कारणान्तर-कल्पनावसरः । न च दृष्ट-हेतोर् व्यभिचार इत्य् अर्थः ।
 </details>
@@ -5558,7 +5558,7 @@ Therefore, it is well to accept the following formula that among the factors wel
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **अत** इति । दृष्ट-हेतुष्व् एव तत्तल्लक्षण-योगेन समवायि-हेतुत्वादि व्यवस्थाप्यम् । ज्ञानादि-दृष्ट-हेतु-भिन्नस्यानपेक्षितस्याप्रसिद्धस्य द्रव्यान्तर-संयोगस्य हेतुत्व-कल्पनायां तु [[क्ल्प्तत्यागोऽक्ल्प्तपरिकल्पना|क्लृप्त-त्यागो ऽक्लृप्त-परिकल्पना]] च । ज्ञानादेर् असमवायि-हेतुत्वे बाधकस्यानुपलब्धेः तद्-भिन्नत्वस्यासमवायि-हेतु-लक्षणे निवेशो ऽनर्थकश् चेति भावः ।
 </details>
@@ -5609,7 +5609,7 @@ But the contrary has already been proved here.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **इहे**ति । सुखादौ तु तद्-विपर्ययः कारणान्तरोपलम्भ-रूपं दृष्टान्ततो वैषम्यं प्रादर्शीति यावत् । एतावता पूर्वोक्तानुमाने ऽप्रयोजकत्वाव् व्याप्यत्वासिद्धिर [[असिद्धिरूक्ता|असिद्धिरुक्ता]] ।
 </details>
@@ -5636,7 +5636,7 @@ Even if this were so, that conjunction with another substance, which may be infe
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 व्याप्ति-स्वीकारे चार्थान्तरम् इत्य् आह **एवमपी**ति । **स तर्ही**ति । तर्ही स इत्य् अन्वयः । दृष्टान्ते सः द्रव्यान्तर-संयोगः भौतिकः - भूतारब्धः, भौतिक-प्रतियोगिक एव दृष्ट इति प्रकृते ऽपि भौतिक-देहादि-प्रतियोगिकात्मानुयोगिक-संयोग एवानुमान-पर्यवसानात् न काणादाभिमत-नवम-द्रव्य-रूपाभौतिक-मनः-सिद्धि-प्रत्याशेत्य् अर्थः । स्पर्शवद्-द्रव्य-समवेत इति निदर्शनाभिप्रायेण । स्पर्शवन्-नित्य-द्रव्य-विशेष-गुणं प्रत्य् एव कार्य-भूतं द्रव्यान्तर-संयोगस्य हेतुत्वं दृष्टानुसारात् कल्प्यम् । न त्व् अस्पर्श-नित्य-द्रव्य-विशेष-गुणं प्रत्य् अपीति व्यज्यते ऽनेन । एवं सुखादाव् असमवायि-हेतुत्वने [[द्रव्यान्तसंयोगस्य|द्रव्यान्तर-संयोगस्य]] साधनं न सम्भवतीत्य् उक्तम् ।
 </details>
@@ -5658,7 +5658,7 @@ Again, if indeed, manas were elemental, it must be one among (the bhutas or prim
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अथ तत्-साधनाभ्युपगमे ऽपि विवक्षितम् अभौतिकं मनस् तत्त्वान्तरं न सेत्स्यतीति प्रपञ्चयति । तत्र शङ्का **अथोच्येते**ति ।
 </details>
@@ -5679,7 +5679,7 @@ but this is contradicted by other arguments proving it to be otherwise.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 प्रत्यासिद्धम् - प्रतिषिद्धम् ।
 </details>
@@ -5700,7 +5700,7 @@ They are:— Manas cannot be constituted out of the earth, because like the tong
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 पाथसीयम् जलीयम् । शक्याध्यवसानं - शक्यनिश्चयम् । मनो न पार्थिवं तैजसादि वा रसावगम-निमित्तेन्द्रियत्वाद् रसनावत् ।
 </details>
@@ -5721,7 +5721,7 @@ it cannot be related to water, because like the nose, it is an organ instrumenta
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मनो न जलीयं गन्ध-ग्राहकेन्द्रियत्वाद् घ्राणवद् इति भौतिकत्व-निषेधः । युगपज्-ज्ञानानुत्पत्ति-लिङ्गेनाणुत्वेन सिद्धेर् न विभु-द्रव्यान्तर्भावः । अतो नवम-द्रव्यत्व-सिद्धिर् मनस इत्य् अभिमानः ।
 </details>
@@ -5757,7 +5757,7 @@ This argument is inappropriate;
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 परिहरति **तदनुपपन्न**म् इत्य् आदिना ।
 </details>
@@ -5778,7 +5778,7 @@ for it would establish the opposite (conclusion) viz., that it is a distinctive 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **धर्मी**ति । मनसि पक्षे ऽभिमतो यो विशेषो ऽभौतिकत्व-रूपः, तद्-विपरीत-साधकत्वाद् उक्त-हेतूनाम् इत्य् अर्थः ।
 </details>
@@ -5799,7 +5799,7 @@ The character of being an organ instrumental in experiencing taste, proves that 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 रसावगम-निमित्तेन्द्रियत्वं जलीयत्वं गन्ध-ग्राहकेन्द्रियत्वादि पार्थिवत्वादि च मनसः साधयेद् इति भावः ।
 </details>
@@ -5835,7 +5835,7 @@ Further, that organ which grasps a particular quality among sound, touch, colour
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अत्र शङ्कते **अथ शब्दे**ति । रूपादिषु मध्ये गन्ध-मात्र-ग्राहकत्वं पार्थिवत्व-साधकम् । एवं रस-मात्र-ग्राहकत्वादि च जलीयत्वादेः । तथा च मनसः पार्थिवत्वादि-साधक-हेतोर् असिद्धिर् इति भावः ।
 </details>
@@ -5861,7 +5861,7 @@ Granting, indeed, that this is so, as it is also known that organ alone (i.e., t
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अत्रोत्तरं **हन्त तर्ही**ति । यद्-भूत-गुण-मात्र-ग्राहकं यदिन्द्रियम्, तदेव भूतान्तर-व्यतिरिक्तत्वेन सम्प्रतिपन्नम् इति भूतान्तर-गुण-ग्राहकता-मात्रेण न तत्तद्-भूत-गुण-ग्राहकस्य मनसः तत्तद्-भूत-व्यतिरेक-सिद्धिर् इत्य् अर्थः । गन्धाद्य् अग्राहकत्वम् एव अपार्थिवादि-साधकम् । तच्च मनसो ऽभौतिक-अनुमाने पक्षे मनस्य् असिद्धम् इति भावः । अपार्थिवत्वाद्य् अनुमाने तत्तद्-भूत-गुणाग्राहकत्वम् उपाधिर् इति चोक्तं भवति ।
 </details>
@@ -5887,7 +5887,7 @@ Moreover, being the common instrument apprehending sound and other qualities, ma
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 एवम् अभौतिकत्व-अनुमानं प्रदूष्य मनसो भौतिकत्व-अनुमानम् उपस्थापयति **अपि च शब्दादी**ति । मनः पाञ्चभौतिकं पञ्च-भूत-गुण-अवगम-साधनत्वाद् देहवद् इति प्रयोगः । पञ्च-भूतोपादनकत्वे गौरवाज् जाति-साङ्कर्य-भीत्या च पक्षान्तरम् आह **एकद्वी**ति । देहस्येवैकभौतिकस्य भूतान्तरोपष्टब्धत्वाद् भूतान्तर-गुणोपलम्भ-साधनत्वोपपत्तिर् मनस इति भावः ।
 </details>
@@ -5913,7 +5913,7 @@ For instance, it is said in scriptures, 'Gentle sir! manas is indeed food.'[^23_
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अस्य पार्थिवत्वे श्रुतिम् अपि संवाद-रूपेणोदाहरति **अन्नमयं ही**ति ।
 </details>
@@ -5939,7 +5939,7 @@ It may be argued that this scriptural passage does not seek to teach the fact of
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 श्रुतेर् आन्यपर्यं शङ्कते **तन्ने**ति । ननु इत्य् आदिः । तत् निरुक्त-श्रुति-वचनम् । **तदधीने**ति । अन्न-रसाप्यायितस्यैव मनसः सङ्कल्पनादि-व्यापार-क्षमतयान्नमयत्वं श्रूयते ऽन्नरस-परिपोषितत्व-लक्षणम्, वायु-विशेषस्य प्राणस्येवाम्मयत्वं जल-रसाप्यायितत्वादिति भावः ।
 </details>
@@ -5962,7 +5962,7 @@ It may be argued that this scriptural passage does not seek to teach the fact of
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मनो ऽभौतिकत्वे श्रुत्य् अर्थापत्तिम् अप्य् आह **अत एवे**ति । यदि भौतिकं मनः, तर्हि मुक्तौ नानुवर्तेत देहादिवदिति ।
 </details>
@@ -5988,7 +5988,7 @@ Indeed, in the eighth chapter of the same Upanisad this fact has been stated thu
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मुक्तौ मनो ऽनुवृत्तौ श्रुतिम् आह **तत्रैवे**ति । छान्दोग्य एवाष्टमे प्रपाठके । **अन्नमयं ही**ति तु षष्ठे ।
 </details>
@@ -6014,7 +6014,7 @@ Similarly, in the Mahopanisad it is said of the Supreme Deity that 'He mediates 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मुक्तस्य मनो-योगम् उक्त्वा नित्य-मुक्त-स्वभावस्येश्वरस्यापि तत्र प्रमाणम् उदाहरति **तथे**ति ।
 </details>
@@ -6040,7 +6040,7 @@ In the puranas too, it is said, 'He creates the world with the aid of mánas onl
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 पुराणे श्रीवैष्णवे पञ्चमे ऽंशे ।
 </details>
@@ -6063,7 +6063,7 @@ To the foregoing, it is replied-True, it is so.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **तन्ने**त्य् आदिनोक्तम् आक्षेपम् अर्धाङ्गीकारेण परिहरति **उच्यते** इति । सत्यम् इत्य् अर्धाङ्गीकारे । श्रुतेर् आन्यपर्ये ऽभ्युपगमः ।
 </details>
@@ -6084,7 +6084,7 @@ It was only said. that rather than assume a different substance we may as well a
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मनसो ऽतिरिक्त-तत्त्वत्वे ऽनुपगमः । एवं वा ऽश्रयणम् भौतिकत्व-आश्रयणं वा । वाकारो ऽनास्थायाम् ।
 </details>
@@ -6105,7 +6105,7 @@ But, in reality it is neither elemental nor the ninth substance.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अत एव स्वाशयं प्रकटीकरोति मनः-विषये **परमार्थतस्तु** इत्य् आदिना ।
 </details>
@@ -6141,7 +6141,7 @@ It refers only to the intellect (buddhi).
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **बुद्धावेवे**ति । बुद्धावेव मनः-शब्दो वाचकत्वेन वर्तते इत्य् अर्थः । मुक्तस्येश्वरस्य च बुद्धिमत्त्वाद् एव समनस्कत्व-वाचोयुक्तिः । तयोर् अमनस्कत्व-वचनं तु कर्म-कृत-बुद्धिवृत्ति-निषेधाभिप्रायम् इति भावः ।
 </details>
@@ -6178,7 +6178,7 @@ The differences of states of mind are readily perceived in this way: 'My mind is
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 बुद्धेर् एव मनस्त्वे लौकिक-व्यवहारम् उक्त्वा लौकिक-प्रत्यक्षम् अपि प्रदर्शयति **मनसः** इति । मनः प्रसन्नम् इत्य् आद्य् अध्यक्षं प्रत्यक्ष-बुद्ध्य् आलम्बनम् एव सम्भवति, न त्व् अतीन्द्रिय-मनोगोचरम् इति भावः । बुद्धिशब्देन ज्ञानं विवक्षितम् ।
 </details>
@@ -6204,7 +6204,7 @@ To conclude, our ancestors' description of manas as an instrument is calculated 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 ननु बुद्धेर् ज्ञानस्यैव मनस्त्वे ऽन्तःकरणत्वोक्तिस् तस्य कथं सङ्गच्छते इत्य् अत्राह **एवं चे**ति । विषय-स्मृत्यादि-हेतु-भूत-व्यापार-वत्त्व-प्रदर्शनार्थं बुद्धेर् अन्तःकरणत्व-व्यपदेशः, अध्यवसायादि-हेतु-व्यापार-वत्त्व-प्रदर्शनार्थं बुद्ध्य् आदि-व्यपदेश इव मनसो ऽतिरेक-वादे ऽपीति भावः । अत्र विमर्शकेन सुखादि-साक्षात्कार-करणत्वेन मनसो ऽनुमानं तार्किकाभिमतं न विमृष्टम् । **अयम् अत्राशयः** - इन्द्रियसौष्ठवोपघातयोर् एव सुख-दुःख-रूपत्वात् तयोश् चातीन्द्रियत्वात् न तत्-साक्षात्कार-कारणतया मनो ऽनुमेयम् । यद्वा ज्ञान-विशेष-रूपत्वात् तयोर् ज्ञान-स्वयं-प्रकाशत्व-बलाद् एव तत्-प्रतिभासोपपत्तिर् इति ।
 </details>
@@ -6227,7 +6227,7 @@ The reply is whether, manas is elemental or whether it is a different substance;
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **आहे**त्य् आदिना विमर्शकेनातिरिक्त-मनो-निरासे कृते [[सिद्धान्तीस्वाशयमाविष्करोति|सिद्धान्ती स्वाशयम् आविष्करोति]] **उच्यत** इत्य् आदिना ।
 </details>
@@ -6248,7 +6248,7 @@ Hence, there is no use investigating into the nature of a substance, when no sta
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **अप्रतिज्ञाते**ति । मनसो ऽनात्मत्वम् एव प्रतिज्ञातम् प्रकृतम् । मनः-स्वरूप-तत्त्व-विचारस्याप्रकृतत्वात् न अस्माभिर् इदानीम् अतिरिक्त-मनः-साधने प्रवर्त्यते इत्य् आशयः । अस्तु वा मुक्तानाम् ईश्वरस्य च मनो बुद्धि-रूपम् एव । बद्धानां तु मन आहङ्कारिकम् अन्तः-करणं श्रुति-बलाद् अभ्युपगन्तव्यम् एव । स्मृत्यादि-करणतया च तदभ्युपगमार्हम् । परं तु तस्य न चेतनत्वं शक्यम् अध्यवसितुम् इति हार्दम् ॥
 </details>
