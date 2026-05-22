@@ -4349,12 +4349,12 @@ Knowledge which is the result of their activity, like [[P18]] the results of bat
 
 <details><summary>English</summary>
 
-That is why Satyatapas speaks of the seeing eye.[18_35]
+That is why Satyatapas speaks of the seeing eye.[F18_35]
 </details>
 
 <details><summary>English - Note</summary>
 
-[18_35]: See Varaha Purana, Ch. 91, verses 1-26.  
+[F18_35]: See Varaha Purana, Ch. 91, verses 1-26.  
 One day when Satyatapas was engaged in meditation,  
 a boar which was chased by a huntsman took refuge in the vicinity of the sage's hermitage.  
 Presently the huntsman rushed in and inquired of the sage  
@@ -4620,9 +4620,9 @@ Moreover, knowledge, though the outcome of the activity of the senses, need not 
 
 <details><summary>English</summary>
 
-Bearing in mind the fact that if he did not speak the truth, the person who interrogated would [[P19]] meet with death, and that (if he spoke the truth), it would be extreme cruelty to abandon one who had taken refuge, Satyatapas spoke like that.[19_36]
+Bearing in mind the fact that if he did not speak the truth, the person who interrogated would [[P19]] meet with death, and that (if he spoke the truth), it would be extreme cruelty to abandon one who had taken refuge, Satyatapas spoke like that.[F19_36]
 
-[19_36]: Vide note 35.
+[F19_36]: Vide note 35.
 
 </details>
 
@@ -4708,12 +4708,12 @@ On that view, it is argued the aforesaid difficulties would be got over.
 
 <details><summary>English</summary>
 
-Indeed, manas has been known to be the controller of all the senses and has been so declared.[^19_37]
+Indeed, manas has been known to be the controller of all the senses and has been so declared.[F19_37]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^19_37]: Prajnayate is found in the Telugu edition, but is wrongly omitted in the Benares edition. The presence of the word ca implies that there must be another verb besides pratijnayate; and it can only be prajnayate. (Note missing in text but in footer).
+[F19_37]: Prajnayate is found in the Telugu edition, but is wrongly omitted in the Benares edition. The presence of the word ca implies that there must be another verb besides pratijnayate; and it can only be prajnayate. (Note missing in text but in footer).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4845,12 +4845,12 @@ Manas has indeed been conceived as the instrument of all knowledge concerning th
 
 <details><summary>English</summary>
 
-From the fact that even when the different external senses are in contact with their respective objects, they are not apprehended simultaneously, we learn that there exists some other instrument besides the senses, and that, on account of the absence of its help, all objects do not appear but some one (object) alone is cognised.[^19_38]
+From the fact that even when the different external senses are in contact with their respective objects, they are not apprehended simultaneously, we learn that there exists some other instrument besides the senses, and that, on account of the absence of its help, all objects do not appear but some one (object) alone is cognised.[F19_38]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^19_38]: Nyaya Sutra, I. i —16 Yugapat jnananutpattir manaso lingam.
+[F19_38]: Nyaya Sutra, I. i —16 Yugapat jnananutpattir manaso lingam.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5333,17 +5333,23 @@ Should it be supposed that the order in which remembrances appear is due either 
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-शुभाशुभ-रूपतया - सुख-दुःख-जनकतया । नन्व् एवम् अपि सुख-हेत्व् अर्थानां शुभादृष्ट-बलाद् युगपत् स्मरणानि स्यूर् इति चेत् तत्राह **क्रमे**ति । क्रमिक-ज्ञान-भाक्त्व-लक्षणात्म-स्वभाव-बलाद् अदृष्ट-सहकार-विरहाच् च स्मृति-यौगपद्यस्येव बाह्यार्थ-ज्ञान-यौगपद्यस्यापि [[परिहरणसम्भवात्नाणुभूतं|परिहरण-सम्भवाद् नानुभूतं]] मनो बाह्येन्द्रिय-सहकारि [[करणन्तरमान्तरं|करणान्तरम् आन्तरं]] कल्पनीयम् इति समुदिताशयः ।
+शुभाशुभ-रूपतया - सुख-दुःख-जनकतया । नन्व् एवम् अपि सुख-हेत्व् अर्थानां शुभादृष्ट-बलाद् युगपत् स्मरणानि स्यूर् इति चेत् तत्राह **क्रमे**ति । क्रमिक-ज्ञान-भाक्त्व-लक्षणात्म-स्वभाव-बलाद् अदृष्ट-सहकार-विरहाच् च स्मृति-यौगपद्यस्येव बाह्यार्थ-ज्ञान-यौगपद्यस्यापि परिहरण-सम्भवान् नानुभूतं मनो बाह्येन्द्रिय-सहकारि करणान्तरम् आन्तरं कल्पनीयम् इति समुदिताशयः ।
 </details>
 
-### सुखादि-निमित्तम्?
+#### न सुखाद्य्-असमवायि-कारणम्
+##### सुखादि-असमवायि-कारणम्?
 <details><summary>English - Topic</summary>
 
 Refutation of the argument that manas is the non-inherent cause of pleasure, pain and the like :-
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्यात् मतं कादाचित्कस्य सुखादेर् आत्म-समवायिनो बाह्य-विषयादृष्टादि-निमित्त-कारणस्यासमवायि-कारणेन भाव्यम् ।
+स्यात् मतं -  
+
+> कादाचित्कस्य सुखादेर्  
+आत्म-समवायिनो  
+बाह्य-विषयादृष्टादि-निमित्त-कारणस्य 
+असमवायि-कारणेन भाव्यम् ।
 </details>
 
 <details><summary>English</summary>
@@ -5359,17 +5365,20 @@ Again, pleasure and the like which are adventitious, which inhere in the soul an
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-मनसि [[प्रमाणन्तरमुपक्षिपति|प्रमाणान्तरम् उपक्षिपति]] **स्यान्मतम्** इति । अत्र प्रयोगः - सुखादि सासमवायि-हेतुकं भाव-कार्यत्वात् कार्य-रूपादिवद् इति । असमवायि-हेतुश् च सुखादाव् आत्म-मनः-संयोग एव, अन्यस्यासम्भवाद् इति हृदयम् । आत्मेत्य् आदि बाह्येत्य् आदि च षष्ठ्यन्तं पद-द्वयं बहुव्रीहि-वृत्तं सुखादेर् विशेषणम् । पद-द्वयेन च सुखादाव् आत्मनः समवायिकारणत्वम् अदृष्टादेर् निमित्त-हेतुत्वं चोक्तम् ।
+मनसि प्रमाणान्तरम् उपक्षिपति **स्यान्मतम्** इति । अत्र प्रयोगः - सुखादि सासमवायि-हेतुकं भाव-कार्यत्वात् कार्य-रूपादिवद् इति । असमवायि-हेतुश् च सुखादाव् आत्म-मनः-संयोग एव, अन्यस्यासम्भवाद् इति हृदयम् । आत्मेत्य् आदि बाह्येत्य् आदि च षष्ठ्यन्तं पद-द्वयं बहुव्रीहि-वृत्तं सुखादेर् विशेषणम् । पद-द्वयेन च सुखादाव् आत्मनः समवायिकारणत्वम् अदृष्टादेर् निमित्त-हेतुत्वं चोक्तम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच् चात्म-मनः-[[सन्निकर्ष|सन्निकर्षः]] इति मनो-द्रव्य-सिद्धिर् इति ।
+> तच् चात्म-मनः-सन्निकर्षः  
+इति मनो-द्रव्य-सिद्धिर् 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
 
-and that is the conjunction of soul and manas. To believe that this argument establishes the existence of an entity known as manas is erroneous;
+and that is the conjunction of soul and manas. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5377,14 +5386,15 @@ and that is the conjunction of soul and manas. To believe that this argument est
 तच्चात्ममनः सन्निकर्ष इति मनोद्रव्यसिद्धिरिति ।
 </details>
 
+##### ज्ञानं निमित्तम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् असत् ।
+तद् असत् -
 </details>
 
 <details><summary>English</summary>
 
-for, the knowledge,
+To believe that this argument establishes the existence of an entity known as manas is erroneous;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5395,17 +5405,20 @@ for, the knowledge,
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-एतन् निरस्यति **तदस**द् इत्य् आदिना ।
+एतन् निरस्यति  
+**तदस**द् इत्य् आदिना ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुख-दुःखादि-पूर्व-काल-जन्मनो ऽभिमतानभिमत-विषय-सम्पर्क-ज-[[ज्ञानस्याऽत्मसमवायिन|ज्ञानस्यात्म-समवायिन]] एवासमवायि-कारणत्वात् ।
+सुख-दुःखादि--पूर्व-काल-जन्मनो  
+ऽभिमतानभिमत-विषय-- सम्पर्क-ज--**ज्ञानस्य**  
+आत्म-समवायिन एवासमवायि-कारणत्वात् ।
 </details>
 
 <details><summary>English</summary>
 
-which is produced by contact with agreeable and disagreeable objects and which originates prior to pleasure, pain and the like, and which inheres in the soul, may itself be the non-inherent cause.
+for, the knowledge, which is produced by contact with agreeable and disagreeable objects and which originates prior to pleasure, pain and the like, and which inheres in the soul, may itself be the non-inherent cause.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5416,12 +5429,14 @@ which is produced by contact with agreeable and disagreeable objects and which o
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**सुखे**ति । अनुकूल-विषयस्य प्रतिकूल-विषयस्य च ज्ञानस्यैवात्मनि नियत-पूर्व-वृत्तेः सुखे दुःखे च कारणस्य तत्रासमवायि-हेतुत्वं युक्तम् । न तु आत्म-मनः-[[संसेयोगस्य|संयोगस्याप्रसिद्धस्य]] ।
+**सुखे**ति । अनुकूल-विषयस्य प्रतिकूल-विषयस्य च ज्ञानस्यैवात्मनि नियत-पूर्व-वृत्तेः सुखे दुःखे च कारणस्य तत्रासमवायि-हेतुत्वं युक्तम् । न तु आत्म-मनः-संयोगस्य ।
 </details>
 
+##### विषयेन्द्रिय-संयोगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य च विषय-सम्प्रयुक्तेन्द्रिय-सम्प्रयोग [[एवाऽत्मसमवेतोऽसमवायिकारणम्|एवात्म-समवेतो ऽसमवायि-कारणम्]] ।
+तस्य च  
+विषय-सम्प्रयुक्तेन्द्रिय-सम्प्रयोग एवात्म-समवेतो ऽसमवायि-कारणम् ।
 </details>
 
 <details><summary>English</summary>
@@ -5437,12 +5452,15 @@ This (knowledge), in its turn, has for its non-inherent cause the conjunction of
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-तत्तद्-विषय-सन्निकृष्टेन्द्रियात्म-संयोग एव च तत्तज् ज्ञाने ऽसमवायिकारणम् ।
+तत्-तद्-विषय-सन्निकृष्टेन्द्रियात्म-संयोग एव च तत्तज् ज्ञाने ऽसमवायिकारणम् ।
 </details>
 
+##### आत्म-मन-संयोगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-हेतुर् अपीन्द्रिय-व्यापारः प्रयत्नम् अदृष्टं च [[चाऽत्मसमवेतमपेक्षमाणादात्मेन्द्रियसान्निकर्षादसमवायिकारणात्|चात्म-समवेतम् अपेक्षमाणाद् आत्मेन्द्रिय-सन्निकर्षाद् असमवायि-कारणात्]] ।
+तद्-धेतुर् अपीन्द्रिय-व्यापारः,  
+प्रयतनम्, अदृष्टं चात्म-समवेतम् अपेक्षमाणाद्  
+आत्मेन्द्रिय-सन्निकर्षाद् अ-समवायि-कारणात् ।
 </details>
 
 <details><summary>English</summary>
@@ -5458,12 +5476,15 @@ The activity of the organ which is the cause of this (conjunction) has for its n
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-अत्र विषयेन्द्रिय-संयोग-हेतु-भूतस्येन्द्रिय-व्यापारस्य प्रयत्नवद् आत्म-संयोगासमवायि-हेतुकत्व-कथनं प्रसङ्गात् ।
+अत्र विषयेन्द्रिय-संयोग-हेतु-भूतस्येन्द्रिय-व्यापारस्य  
+प्रयत्नवद्-आत्म-- संयोगासमवायि-हेतुकत्व-कथनं प्रसङ्गात् ।
 </details>
 
+##### कर्तव्यता-ज्ञानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रयत्नस्य तु स्व-पूर्व-क्षण-वर्ति कर्तव्यता-ज्ञानम् ।
+प्रयत्नस्य तु  
+स्व-पूर्व-क्षण-वर्ति कर्तव्यता-ज्ञानम् +++(असमवायि-कारणम्)+++।
 </details>
 
 <details><summary>English</summary>
@@ -5479,42 +5500,96 @@ This effort, again, (has for its non-inherent cause) the knowledge of the necess
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-कृति-साध्यता-ज्ञानम् एव प्रयत्ने तथा चिकीर्षा-द्वारा ।
+कृति-साध्यता-ज्ञानम् एव प्रयत्ने  
+तथा चिकीर्षा-द्वारा +++(असमवायि-कारणम्)+++।
 </details>
 
+##### प्रयत्नः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रयत्न एव त्व् अदृष्टस्यापीति नात्म-विशेष-गुणानां बुद्धि-सुख-दुःखेच्छादीनाम् असमवायि-कारण-सापेक्षतयापि द्रव्यान्तर-परिकल्पनं न्याय्यम् ।
++++(कर्म-फल-जननात्)+++ प्रयत्न एव +++(असमवायि-कारणम्)+++ त्व् अ-दृष्टस्यापि
 </details>
 
 <details><summary>English</summary>
 
-The unseen force (has for its non-inherent cause) the effort itself. Thus, even the argument that knowledge, pleasure, pain, desire and other special qualities of the soul require a non-inherent cause does not justify the positing of a different entity.
+The unseen force (has for its non-inherent cause) the effort itself. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रयत्न एव त्वदृष्टस्यापि
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+कार्यता-ज्ञाने च 
+स्मृति-रूपे उद्बुद्ध-संस्कारः +++(असमवायि-कारणम्)+++,  
+अनुभव-रूपे च लिङ्ग-ज्ञानादि+++(=??)+++ तथा +++(असमवायि-कारणम्)+++।  
+संस्कारे चानुभवः तथा +++(असमवायि-कारणम्)+++।  
+प्रयत्न एवादृष्टस्याप्य् असमवायि-हेतुः ।  
+
+इदम् उपलक्षणम् ।  
+इच्छां प्रति इष्ट-जातीयत्वस्येष्ट-साधनत्वस्य वा ज्ञानं तथा +++(असमवायि-कारणम्)+++।  
+द्वेषं प्रति चानिष्टत्वस्य तत्-साधनत्वस्य वा ज्ञानं तथा +++(असमवायि-कारणम्)+++।  
+
+</details>
+
+
+##### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति  
+नात्म-विशेष-गुणानां बुद्धि-सुख-दुःखेच्छादीनाम् अ-समवायि-कारण-सापेक्षतया ऽपि  
+द्रव्यान्तर-परिकल्पनं न्याय्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+Thus, even the argument that knowledge, pleasure, pain, desire and other special qualities of the soul require a non-inherent cause does not justify the positing of a different entity.
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्रयत्न एव त्वदृष्टस्यापीति नात्मविशेषगुणानां बुद्धिसुखदुःखेच्छादीनामसमवायिकारणसापेक्षतयापि द्रव्यान्तरपरिकल्पनं न्याय्यम् ।
+इति नात्मविशेषगुणानां बुद्धिसुखदुःखेच्छादीनामसमवायिकारणसापेक्षतयापि द्रव्यान्तरपरिकल्पनं न्याय्यम् ।
 </details>
 
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-कार्यता-ज्ञाने च स्मृति-रूपे उद्बुद्ध-संस्कारः, अनुभव-रूपे च लिङ्ग-ज्ञानादि तथा । संस्कारे चानुभवः तथा । प्रयत्न एवादृष्टस्याप्य् असमवायि-हेतुः । इदम् उपलक्षणम् । इच्छां प्रति इष्ट-जातीयत्वस्येष्ट-साधनत्वस्य वा ज्ञानं तथा । द्वेषं प्रति चानिष्टत्वस्य तत्-साधनत्वस्य वा ज्ञानं तथा । आत्म-विशेष-गुणानां कुत्राप्य् असमवायि-हेतुत्वं नास्तीति प्रवादस्तु न श्रद्धेय इति [[मनुदिताशयः|समुदिताशयः]] । इच्छादीनाम् इत्य् आदि-पदेन द्वेष-प्रयत्नादृष्ट-संस्काराणां ग्रहणम् । कुत्रापि ज्ञानादौ आत्म-[[विसेषगुणे|विशेषगुणे]] मनो ऽपेक्षा नास्तीति हार्दम् ।
+आत्म-विशेष-गुणानां कुत्राप्य् असमवायि-हेतुत्वं नास्तीति प्रवादस् तु  
+न श्रद्धेय इति समुदिताशयः ।  
+
+इच्छादीनाम् इत्य्-आदि-पदेन द्वेष-प्रयत्नादृष्ट-संस्काराणां ग्रहणम् ।  
+कुत्रापि ज्ञानादौ आत्म-विशेषगुणे  
+मनोऽपेक्षा नास्तीति हार्दम् ।
 </details>
 
-### Untenability of the view that atma gunas such as pleasure arise only in conjunction with some substance other than itself and that it is manas :-
+
+##### गुणोदये संयोगानपेक्षा
+<details><summary>English - Topic</summary>
+
+Untenability of the view that atma gunas such as pleasure arise only in conjunction with some substance other than itself and that it is manas :-
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[यत्तुनित्यद्रव्यविशेषगुणस्य|यत् तु नित्य-द्रव्य-विशेष-गुणस्य]] द्रव्यान्तर-संयोग एवासमवायि-कारणम्, पार्थिव-परमाणुष्व् अग्नि-संयोगाद् असमवायि-कारणाद् रूपोत्पत्तेर् इति ; तद् अपि स्थवीयः ।
+यत् तु 
+
+> नित्य-द्रव्य-विशेष-गुणस्य द्रव्यान्तर-संयोग एवासमवायि-कारणम्,  
+पार्थिव-परमाणुष्व् अग्नि-संयोगाद् असमवायि-कारणाद् रूपोत्पत्तेर् 
+
+इति ; तद् अपि स्थवीयः ।
 </details>
 
 <details><summary>English</summary>
 
-[[P22]]
-
-From the fact that the colour of the atoms of earth (prthivi) originates from the non-inherent cause, viz., conjunction with fire, it may be said that the non-inherent cause of the special quality of an eternal substance is only the conjunction with another substance; but this argument too is superficial.
+[[P22]] From the fact that the colour of the atoms of earth (prthivi) originates from the non-inherent cause, viz., conjunction with fire,  
+it may be said that the non-inherent cause of the special quality of an eternal substance  
+is only the conjunction with another substance;  
+but this argument too is superficial.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5530,7 +5605,8 @@ From the fact that the colour of the atoms of earth (prthivi) originates from th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पार्थिव-परमाणुषु रूपादयो दहन-संयोगाद् इति [[कृतोऽवगतं|कुतो ऽवगतं]]? ।
+पार्थिव-परमाणुषु रूपादयो  
+दहन-संयोगाद् इति कुतो ऽवगतं?
 </details>
 
 <details><summary>English</summary>
@@ -5551,7 +5627,15 @@ Wherefrom is it learnt that colour and other qualities of earth particles origin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कार्य-द्रव्ये तथा दर्शनाद् इति चेत्, इह वा [[तह्रि|तर्हि]] किं न दृश्यते इष्टानिष्ट-प्राप्त्य्-अवगमानन्तरं सुखादिर् जायत इति? ।
+> कार्य-द्रव्ये तथा दर्शनाद् 
+
+इति चेत्,  
+इह वा तर्हि किं न दृश्यते  
+
+> इष्टानिष्ट-प्राप्त्य्-अवगमानन्तरं  
+सुखादिर् जायत 
+
+इति?
 </details>
 
 <details><summary>English</summary>
@@ -5566,7 +5650,8 @@ If the answer is:— it is so perceived in the resultant substance, then, inasmu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृष्ट-कारण-व्यभिचारे हि कारणान्तरानुमानावसरः ।
+दृष्ट-कारण-व्यभिचारे हि  
+कारणान्तरानुमानावसरः ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -5602,12 +5687,19 @@ And here, there is no defect.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः प्रसिद्ध-कारण-भावेष्व् एव यत्र कार्य-समवायः तत्-समवायि-कारणम्, यत् तु तत्-प्रत्यासन्नं तद् असमवायि, यद् अन्यत् तन् [[तन्निमित्तिमिति|निमित्तम् इति]] व्यवस्था-आश्रयणम् उचितम् ।
+अतः प्रसिद्ध-कारण-भावेष्व् एव  
+
+> यत्र कार्य-समवायस् तत् समवायि-कारणम्,  
+यत् तु तत्-प्रत्यासन्नं तद् अ-समवायि,  
+यद् अन्यत् तन् निमित्तम् 
+
+इति व्यवस्थाऽऽश्रयणम् उचितम् ।
 </details>
 
 <details><summary>English</summary>
 
-Therefore, it is well to accept the following formula that among the factors well known to be causes, that is the inherent cause wherein lies the inherence of the effect; that is the non-inherent cause which is closely associated therewith; and the rest, the efficient cause.
+Therefore, it is well to accept the following formula  
+that among the factors well known to be causes, that is the inherent cause wherein lies the inherence of the effect; that is the non-inherent cause which is closely associated therewith; and the rest, the efficient cause.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5618,12 +5710,14 @@ Therefore, it is well to accept the following formula that among the factors wel
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**अत** इति । दृष्ट-हेतुष्व् एव तत्तल्लक्षण-योगेन समवायि-हेतुत्वादि व्यवस्थाप्यम् । ज्ञानादि-दृष्ट-हेतु-भिन्नस्यानपेक्षितस्याप्रसिद्धस्य द्रव्यान्तर-संयोगस्य हेतुत्व-कल्पनायां तु [[क्ल्प्तत्यागोऽक्ल्प्तपरिकल्पना|क्लृप्त-त्यागो ऽक्लृप्त-परिकल्पना]] च । ज्ञानादेर् असमवायि-हेतुत्वे बाधकस्यानुपलब्धेः तद्-भिन्नत्वस्यासमवायि-हेतु-लक्षणे निवेशो ऽनर्थकश् चेति भावः ।
+**अत** इति । दृष्ट-हेतुष्व् एव तत्तल्लक्षण-योगेन समवायि-हेतुत्वादि व्यवस्थाप्यम् । ज्ञानादि-दृष्ट-हेतु-भिन्नस्यानपेक्षितस्याप्रसिद्धस्य द्रव्यान्तर-संयोगस्य हेतुत्व-कल्पनायां तु कॢप्त-त्यागो ऽकॢप्त-परिकल्पना च ।  
+ज्ञानादेर् असमवायि-हेतुत्वे बाधकस्यानुपलब्धेः तद्-भिन्नत्वस्यासमवायि-हेतु-लक्षणे निवेशो ऽनर्थकश् चेति भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तु अनपेक्षिताप्रसिद्ध-द्रव्यान्तर-संयोग-अभ्युपगमेन तस्यासमवायिकारणत्वाश्रयणम् ।
+न त्व् अनपेक्षिताप्रसिद्ध-- द्रव्यान्तर-संयोगाभ्युपगमेन  
+तस्यासमवायि-कारणत्वाश्रयणम् ।
 </details>
 
 <details><summary>English</summary>
@@ -5638,7 +5732,8 @@ It is not proper to posit the conjunction of a different substance which is grat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कारणान्तरानुपलब्धेः, दृष्टानुसारात् च चाणु-गत-रूपादौ तथाभ्युपगमः ।
+कारणान्तरानुपलब्धेः,  
+दृष्टानुसाराच् चाणु-गत-रूपादौ तथा ऽभ्युपगमः ।
 </details>
 
 <details><summary>English</summary>
@@ -5653,7 +5748,7 @@ Such an admission with regard to colour and like the residing in atoms is due to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इह तु तद्-विपर्ययः [[प्रदार्शित|प्रदर्शित]] एव ।
+इह तु तद्-विपर्ययः प्रदर्शित एव ।
 </details>
 
 <details><summary>English</summary>
@@ -5669,7 +5764,7 @@ But the contrary has already been proved here.
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**इहे**ति । सुखादौ तु तद्-विपर्ययः कारणान्तरोपलम्भ-रूपं दृष्टान्ततो वैषम्यं प्रादर्शीति यावत् । एतावता पूर्वोक्तानुमाने ऽप्रयोजकत्वाव् व्याप्यत्वासिद्धिर [[असिद्धिरूक्ता|असिद्धिरुक्ता]] ।
+**इहे**ति । सुखादौ तु तद्-विपर्ययः कारणान्तरोपलम्भ-रूपं दृष्टान्ततो वैषम्यं प्रादर्शीति यावत् । एतावता पूर्वोक्तानुमाने ऽप्रयोजकत्वाव् व्याप्यत्वासिद्धिर असिद्धिर् उक्ता ।
 </details>
 
 <details><summary>English - Topic</summary>
@@ -5680,7 +5775,11 @@ Even if conjunction with such a substance were necessary, it does not follow tha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवम् अपि व्याप्ति-बलेन यदि द्रव्यान्तर-संयोगो ऽनुमातव्यः, स तर्हि स्पर्श-वद्-द्रव्य-समवेतो भौतिक एव चोपलब्ध इति प्रसिद्ध-देहादि-संयोग एवानुमान-पर्यवसानान् न नवम द्रव्य-सिद्धिः ।
+एवम् अपि  
+व्याप्ति-बलेन यदि द्रव्यान्तर-संयोगो ऽनुमातव्यः,  
+स तर्हि स्पर्शवद्--द्रव्य-समवेतो भौतिक एव चोपलब्ध  
+इति प्रसिद्ध-देहादि-संयोग एवानुमान-पर्यवसानान्  
+न नवम-द्रव्य-सिद्धिः +++(काणादाभिमतेषु ५-भूत-काल-दिग्-आत्म-मनस्सु)+++।
 </details>
 
 <details><summary>English</summary>
@@ -5696,13 +5795,20 @@ Even if this were so, that conjunction with another substance, which may be infe
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-व्याप्ति-स्वीकारे चार्थान्तरम् इत्य् आह **एवमपी**ति । **स तर्ही**ति । तर्ही स इत्य् अन्वयः । दृष्टान्ते सः द्रव्यान्तर-संयोगः भौतिकः - भूतारब्धः, भौतिक-प्रतियोगिक एव दृष्ट इति प्रकृते ऽपि भौतिक-देहादि-प्रतियोगिकात्मानुयोगिक-संयोग एवानुमान-पर्यवसानात् न काणादाभिमत-नवम-द्रव्य-रूपाभौतिक-मनः-सिद्धि-प्रत्याशेत्य् अर्थः । स्पर्शवद्-द्रव्य-समवेत इति निदर्शनाभिप्रायेण । स्पर्शवन्-नित्य-द्रव्य-विशेष-गुणं प्रत्य् एव कार्य-भूतं द्रव्यान्तर-संयोगस्य हेतुत्वं दृष्टानुसारात् कल्प्यम् । न त्व् अस्पर्श-नित्य-द्रव्य-विशेष-गुणं प्रत्य् अपीति व्यज्यते ऽनेन । एवं सुखादाव् असमवायि-हेतुत्वने [[द्रव्यान्तसंयोगस्य|द्रव्यान्तर-संयोगस्य]] साधनं न सम्भवतीत्य् उक्तम् ।
+व्याप्ति-स्वीकारे चार्थान्तरम् इत्य् आह **एवमपी**ति । **स तर्ही**ति । तर्ही स इत्य् अन्वयः ।  
+दृष्टान्ते सः द्रव्यान्तर-संयोगः भौतिकः - भूतारब्धः,  
+भौतिक-प्रतियोगिक एव दृष्ट इति  
+प्रकृते ऽपि भौतिक-देहादि-प्रतियोगिकात्मानुयोगिक-संयोग एवानुमान-पर्यवसानात्  
+न काणादाभिमत-नवम-द्रव्य-रूप- +अभौतिक-मनः-सिद्धि-प्रत्याशेत्य् अर्थः ।  
+स्पर्शवद्-द्रव्य-समवेत इति निदर्शनाभिप्रायेण । स्पर्शवन्-नित्य-द्रव्य-विशेष-गुणं प्रत्य् एव कार्य-भूतं द्रव्यान्तर-संयोगस्य हेतुत्वं दृष्टानुसारात् कल्प्यम् । न त्व् अस्पर्श-नित्य-द्रव्य-विशेष-गुणं प्रत्य् अपीति व्यज्यते ऽनेन । एवं सुखादाव् असमवायि-हेतुत्वने द्रव्यान्तर-संयोगस्य साधनं न सम्भवतीत्य् उक्तम् ।
 </details>
 
-
+###### अभौतिकं मनः ?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[अथोच्येतभौतिकत्वे|अथोच्येत भौतिकत्वे]] हि मनसः पृथिव्याद्यन्यतमत्वेन भवितव्यम् ।
+अथोच्येत 
+
+> भौतिकत्वे हि मनसः पृथिव्य्-आद्य्-अन्यतमत्वेन भवितव्यम् ।
 </details>
 
 <details><summary>English</summary>
@@ -5723,7 +5829,7 @@ Again, if indeed, manas were elemental, it must be one among (the bhutas or prim
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच् चानुमानान्तरैर् व्यतिरेकम् आपादयद्भिः [[प्रत्यासिद्धम्|प्रतिसिद्धम्]] ।
+> तच् चानुमानान्तरैर् व्यतिरेकम् आपादयद्भिः प्रत्यासिद्धम्+++(=प्रतिषिद्धम्, वक्ष्यमाण-रीत्या)+++ ।
 </details>
 
 <details><summary>English</summary>
@@ -5744,7 +5850,9 @@ but this is contradicted by other arguments proving it to be otherwise.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[तथा हिन|तथा हि न]] पार्थिवं मनः रसावगम-निमित्तेन्द्रियत्वाद् रसनावत् ।
+> तथा हि  
+न पार्थिवं मनः -  
+रसावगम-निमित्तेन्द्रियत्वाद्, रसनावत् ।
 </details>
 
 <details><summary>English</summary>
@@ -5760,12 +5868,12 @@ They are:— Manas cannot be constituted out of the earth, because like the tong
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-पाथसीयम् जलीयम् । शक्याध्यवसानं - शक्यनिश्चयम् । मनो न पार्थिवं तैजसादि वा रसावगम-निमित्तेन्द्रियत्वाद् रसनावत् ।
+मनो न पार्थिवं तैजसादि वा रसावगम-निमित्तेन्द्रियत्वाद् रसनावत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न पाथसीयम्, [[गन्धग्रहणनिमित्तोन्द्रियत्वाक्घ्राणवत्|गन्ध-ग्रहण-निमित्तेन्द्रियत्वाद् घ्राणवत्]] ।
+> न पाथसीयम् +++(=जलीयम्)+++, गन्ध-ग्रहण-निमित्तेन्द्रियत्वाद् घ्राणवत् ।
 </details>
 
 <details><summary>English</summary>
@@ -5781,12 +5889,17 @@ it cannot be related to water, because like the nose, it is an organ instrumenta
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
+पाथसीयम् जलीयम् ।  
 मनो न जलीयं गन्ध-ग्राहकेन्द्रियत्वाद् घ्राणवद् इति भौतिकत्व-निषेधः । युगपज्-ज्ञानानुत्पत्ति-लिङ्गेनाणुत्वेन सिद्धेर् न विभु-द्रव्यान्तर्भावः । अतो नवम-द्रव्यत्व-सिद्धिर् मनस इत्य् अभिमानः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवम् अतैजसत्वाद्य् अपि तत्तद्-इन्द्रियागोचर-ग्रहण-निमित्ततया शक्याध्यवसानम् इत्य् अभौतिकत्वं मनस इति ।
+> एवम् अ-तैजसत्वाद्य् अपि -  
+तत्-तद्-इन्द्रियागोचर-- ग्रहण-निमित्ततया  
+शक्याध्यवसानम् इत्य् अभौतिकत्वं मनस 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -5799,9 +5912,15 @@ similarly, being instrumental in experiencing what is not the object of the resp
 एवमतैजसत्वाद्यपि तत्तदिन्द्रियागोचरग्रहणनिमित्ततया शक्याध्यवसानमित्यभौतिकत्वं मनस इति ।
 </details>
 
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+शक्याध्यवसानं - शक्यनिश्चयम् ।
+</details>
+
+###### भौतिकतानुमानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अनुपपन्नम् ।
+तद् अनुपपन्नम् -
 </details>
 
 <details><summary>English</summary>
@@ -5822,7 +5941,7 @@ This argument is inappropriate;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धर्मि-विशेष-विपरीत-साधनात् ।
+धर्मि-+++(अभौतिकताख्य-)+++विशेष-विपरीत-साधनात् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
 <details><summary>English</summary>
@@ -5838,12 +5957,15 @@ for it would establish the opposite (conclusion) viz., that it is a distinctive 
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**धर्मी**ति । मनसि पक्षे ऽभिमतो यो विशेषो ऽभौतिकत्व-रूपः, तद्-विपरीत-साधकत्वाद् उक्त-हेतूनाम् इत्य् अर्थः ।
+**धर्मी**ति ।  
+मनसि पक्षे ऽभिमतो यो विशेषो ऽभौतिकत्व-रूपः,  
+तद्-विपरीत-साधकत्वाद् उक्त-हेतूनाम् इत्य् अर्थः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रसावगम-निमित्तेन्द्रियत्वम् अपार्थिवत्वम् इव पाथसीयत्वम् अपि समर्थयति ।
+रसावगम-निमित्तेन्द्रियत्वम् अपार्थिवत्वम् इव  
+पाथसीयत्वम् अपि समर्थयति ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -5864,7 +5986,9 @@ The character of being an organ instrumental in experiencing taste, proves that 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं साधनान्तराण्य् अपि भूतान्तर-[[व्यतिकेरमिवाऽमीयभूतभावमापादयन्ति|व्यतिरेकम् इव आमीय-भूत-भावम् आपादयन्ति]] ।
+एवं साधनान्तराण्य् अपि  
+भूतान्तर-व्यतिरेकम् इव  
+आत्मीय-भूत-भावम् आपादयन्ति ।
 </details>
 
 <details><summary>English</summary>
@@ -5874,12 +5998,17 @@ Similarly, the other reasons also prove the character of its being related to th
 
 <details><summary>मूलम्</summary>
 
-एवं साधनान्तराण्यपि भूतान्तरव्यतिकेरमिवाऽमीयभूतभावमापादयन्ति ।
+एवं साधनान्तराण्यपि भूतान्तरव्यतिकेरमिवाऽत्मीयभूतभावमापादयन्ति ।
 </details>
 
+###### तद्-ग्राहि तद्-भूतारब्धम्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ शब्द-स्पर्श-रूप-रस-गन्धेषु यद्-गुण-ग्राहि यद् इन्द्रियम्, तद् एव तद्-गुणक-भूतारब्धम् ;
+अथ 
+
+> शब्द-स्पर्श-रूप-रस-गन्धेषु  
+यद्-गुण-ग्राहि यद् इन्द्रियम्,  
+तद् एव तद्-गुणक-भूतारब्धम् ;
 </details>
 
 <details><summary>English</summary>
@@ -5900,17 +6029,19 @@ Further, that organ which grasps a particular quality among sound, touch, colour
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हन्त तर्हि तद् एव तदितर-भूत-व्यतिरेकितयाप्य् अवगतम् इति न तद्-अवगमकता-मात्रेणाभिमत-व्यतिरेक-सिद्धिः ।
+हन्त तर्हि  
+तद् एव तद्-इतर-भूत-व्यतिरेकितया ऽप्य् अवगतम् इति  
+न तद्-अवगमकता-मात्रेणाभिमत-व्यतिरेक-सिद्धिः ।
 </details>
 
 <details><summary>English</summary>
 
-Granting, indeed, that this is so, as it is also known that organ alone (i.e., that organ which grasps only a particular quality) is not constituted of other elements than its own, by merely showing that (you) cannot establish the negative result which you intend to convey (viz., that manas is non-elemental).[^23_39]
+Granting, indeed, that this is so, as it is also known that organ alone (i.e., that organ which grasps only a particular quality) is not constituted of other elements than its own, by merely showing that (you) cannot establish the negative result which you intend to convey (viz., that manas is non-elemental).[F23_39]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^23_39]: The sense-organ which grasps only one quality may be said to be made of that particular element alone which possessess that quality. But this affords no basis for the inference that manas is non-elemental; for, manas apprehends all the qualities.
+[F23_39]: The sense-organ which grasps only one quality may be said to be made of that particular element alone which possessess that quality. But this affords no basis for the inference that manas is non-elemental; for, manas apprehends all the qualities.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5926,17 +6057,19 @@ Granting, indeed, that this is so, as it is also known that organ alone (i.e., t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च शब्दादि-गुणावगम-साधारण-साधनतया शरीरम् इव पाञ्चभौतिकम्, [[एकद्वित्रादिमयं|एक-द्वि-त्र्यादि-मयं]] वा इतर-भूत-संसृष्टम् अस्तु मनः ।
+अपि च शब्दादि-गुणावगम-साधारण-साधनतया  
+शरीरम् इव पाञ्च-भौतिकम्,  
+एक-द्वि-त्र्य्-आदिमयं वेतर-भूत-संसृष्टम् अस्तु मनः । +++(4)+++
 </details>
 
 <details><summary>English</summary>
 
-Moreover, being the common instrument apprehending sound and other qualities, manas, like the body, may as well be a single substance made up the five elements, or it may be two-fold, three-fold and so on being made up of different elements.[^23_40]
+Moreover, being the common instrument apprehending sound and other qualities, manas, like the body, may as well be a single substance made up the five elements, or it may be two-fold, three-fold and so on being made up of different elements.[F23_40]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^23_40]: The variant reading is ekadvitradimayam.
+[F23_40]: The variant reading is ekadvitradimayam.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5950,19 +6083,20 @@ Moreover, being the common instrument apprehending sound and other qualities, ma
 एवम् अभौतिकत्व-अनुमानं प्रदूष्य मनसो भौतिकत्व-अनुमानम् उपस्थापयति **अपि च शब्दादी**ति । मनः पाञ्चभौतिकं पञ्च-भूत-गुण-अवगम-साधनत्वाद् देहवद् इति प्रयोगः । पञ्च-भूतोपादनकत्वे गौरवाज् जाति-साङ्कर्य-भीत्या च पक्षान्तरम् आह **एकद्वी**ति । देहस्येवैकभौतिकस्य भूतान्तरोपष्टब्धत्वाद् भूतान्तर-गुणोपलम्भ-साधनत्वोपपत्तिर् मनस इति भावः ।
 </details>
 
+###### अन्नमयता-श्रुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[यथाऽम्नायते|यथाम्नायते]] अन्नमयं हि सोम्य मन इति ।
+यथाऽम्नायते अन्नमयं हि सोम्य मन इति ।
 </details>
 
 <details><summary>English</summary>
 
-For instance, it is said in scriptures, 'Gentle sir! manas is indeed food.'[^23_41]
+For instance, it is said in scriptures, 'Gentle sir! manas is indeed food.'[F23_41]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^23_41]: Chand. *Up* VI. 5.
+[F23_41]: Chand. *Up* VI. 5.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5978,17 +6112,19 @@ For instance, it is said in scriptures, 'Gentle sir! manas is indeed food.'[^23_
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन् न तत्-प्रकृतित्व-प्रतिपादन-परम्, अपि तु तद्-अधीन-वृत्तिता-मात्र-प्रदर्शनार्थम् आपोमयः प्राणः इत्यादिवत् ।
+तन् न तत्-प्रकृतित्व-प्रतिपादन-परम्,  
+अपि तु तद्-अधीन-वृत्तिता-मात्र-प्रदर्शनार्थम्  
+"आपोमयः प्राणः" इत्यादिवत् ।
 </details>
 
 <details><summary>English</summary>
 
-It may be argued that this scriptural passage does not seek to teach the fact of manas having its source in food, but, like statements such as 'Prana is water'[^23_42] it only seeks to assert the fact of its (manas) owning activities dependent on it
+It may be argued that this scriptural passage does not seek to teach the fact of manas having its source in food, but, like statements such as 'Prana is water'[F23_42] it only seeks to assert the fact of its (manas) owning activities dependent on it
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^23_42]: Chand *Up.* VI. S.
+[F23_42]: Chand *Up.* VI. S.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6032,12 +6168,12 @@ It may be argued that this scriptural passage does not seek to teach the fact of
 
 <details><summary>English</summary>
 
-Indeed, in the eighth chapter of the same Upanisad this fact has been stated thus: 'Perceiving with the aid of manas the object of his desires, (he) rejoices'[^24_43]; 'To this person, the manas is the celestial eye.'
+Indeed, in the eighth chapter of the same Upanisad this fact has been stated thus: 'Perceiving with the aid of manas the object of his desires, (he) rejoices'[F24_43]; 'To this person, the manas is the celestial eye.'
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^24_43]: Chand. *Up*. VIII
+[F24_43]: Chand. *Up*. VIII
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6058,12 +6194,12 @@ Indeed, in the eighth chapter of the same Upanisad this fact has been stated thu
 
 <details><summary>English</summary>
 
-Similarly, in the Mahopanisad it is said of the Supreme Deity that 'He mediates on another object of desire with the aid of manas'.[^24_44]
+Similarly, in the Mahopanisad it is said of the Supreme Deity that 'He mediates on another object of desire with the aid of manas'.[F24_44]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^24_44]: Mahopanisad I.
+[F24_44]: Mahopanisad I.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6084,12 +6220,12 @@ Similarly, in the Mahopanisad it is said of the Supreme Deity that 'He mediates 
 
 <details><summary>English</summary>
 
-In the puranas too, it is said, 'He creates the world with the aid of mánas only.'[^24_45]
+In the puranas too, it is said, 'He creates the world with the aid of mánas only.'[F24_45]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^24_45]: Pionū Purana, V, 11, 15.
+[F24_45]: Pionū Purana, V, 11, 15.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6248,12 +6384,12 @@ The differences of states of mind are readily perceived in this way: 'My mind is
 
 <details><summary>English</summary>
 
-To conclude, our ancestors' description of manas as an instrument is calculated to bring out the differences of states, just as intellect and egoity (though ultimately one, serve to indicate differences of states.)[^24_46]
+To conclude, our ancestors' description of manas as an instrument is calculated to bring out the differences of states, just as intellect and egoity (though ultimately one, serve to indicate differences of states.)[F24_46]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^24_46]: Is manas an aspect of buddhi? Or, is it a different substance altogether? Yamunacharya leaves this question open, and thinks that, in any event, manas cannot be an intelligent entity.
+[F24_46]: Is manas an aspect of buddhi? Or, is it a different substance altogether? Yamunacharya leaves this question open, and thinks that, in any event, manas cannot be an intelligent entity.
 </details>
 
 <details><summary>मूलम्</summary>
