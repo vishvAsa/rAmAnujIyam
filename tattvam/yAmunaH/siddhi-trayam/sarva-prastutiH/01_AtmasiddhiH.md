@@ -5779,7 +5779,7 @@ Even if conjunction with such a substance were necessary, it does not follow tha
 व्याप्ति-बलेन यदि द्रव्यान्तर-संयोगो ऽनुमातव्यः,  
 स तर्हि स्पर्शवद्--द्रव्य-समवेतो भौतिक एव चोपलब्ध  
 इति प्रसिद्ध-देहादि-संयोग एवानुमान-पर्यवसानान्  
-न नवम-द्रव्य-सिद्धिः +++(काणादाभिमतेषु ५-भूत-काल-दिग्-आत्म-मनस्सु)+++।
+न नवम-द्रव्य-सिद्धिः +++(प्रकृति–५-भूत–मनो-ऽहङ्कारेषु)+++।
 </details>
 
 <details><summary>English</summary>
@@ -5800,6 +5800,8 @@ Even if this were so, that conjunction with another substance, which may be infe
 भौतिक-प्रतियोगिक एव दृष्ट इति  
 प्रकृते ऽपि भौतिक-देहादि-प्रतियोगिकात्मानुयोगिक-संयोग एवानुमान-पर्यवसानात्  
 न काणादाभिमत-नवम-द्रव्य-रूप- +अभौतिक-मनः-सिद्धि-प्रत्याशेत्य् अर्थः ।  
++++(नैवम् - काणादेन पश्चाद् वक्ष्यमाणो बुद्धिर् अहङ्कारो वा न परिगणितः।)+++
+
 स्पर्शवद्-द्रव्य-समवेत इति निदर्शनाभिप्रायेण । स्पर्शवन्-नित्य-द्रव्य-विशेष-गुणं प्रत्य् एव कार्य-भूतं द्रव्यान्तर-संयोगस्य हेतुत्वं दृष्टानुसारात् कल्प्यम् । न त्व् अस्पर्श-नित्य-द्रव्य-विशेष-गुणं प्रत्य् अपीति व्यज्यते ऽनेन । एवं सुखादाव् असमवायि-हेतुत्वने द्रव्यान्तर-संयोगस्य साधनं न सम्भवतीत्य् उक्तम् ।
 </details>
 
@@ -6083,7 +6085,8 @@ Moreover, being the common instrument apprehending sound and other qualities, ma
 एवम् अभौतिकत्व-अनुमानं प्रदूष्य मनसो भौतिकत्व-अनुमानम् उपस्थापयति **अपि च शब्दादी**ति । मनः पाञ्चभौतिकं पञ्च-भूत-गुण-अवगम-साधनत्वाद् देहवद् इति प्रयोगः । पञ्च-भूतोपादनकत्वे गौरवाज् जाति-साङ्कर्य-भीत्या च पक्षान्तरम् आह **एकद्वी**ति । देहस्येवैकभौतिकस्य भूतान्तरोपष्टब्धत्वाद् भूतान्तर-गुणोपलम्भ-साधनत्वोपपत्तिर् मनस इति भावः ।
 </details>
 
-###### अन्नमयता-श्रुतिः
+### मनसि शब्दः
+#### अन्नमयता-श्रुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाऽम्नायते अन्नमयं हि सोम्य मन इति ।
@@ -6119,7 +6122,7 @@ For instance, it is said in scriptures, 'Gentle sir! manas is indeed food.'[F23_
 
 <details><summary>English</summary>
 
-It may be argued that this scriptural passage does not seek to teach the fact of manas having its source in food, but, like statements such as 'Prana is water'[F23_42] it only seeks to assert the fact of its (manas) owning activities dependent on it
+It may be argued that this scriptural passage does not seek to teach the fact of manas having its source in food, but, like statements such as 'Prana is water'[F23_42] it only seeks to assert the fact of its (manas) owning activities dependent on it (food). 
 </details>
 
 <details><summary>English - Notes</summary>
@@ -6138,16 +6141,15 @@ It may be argued that this scriptural passage does not seek to teach the fact of
 श्रुतेर् आन्यपर्यं शङ्कते **तन्ने**ति । ननु इत्य् आदिः । तत् निरुक्त-श्रुति-वचनम् । **तदधीने**ति । अन्न-रसाप्यायितस्यैव मनसः सङ्कल्पनादि-व्यापार-क्षमतयान्नमयत्वं श्रूयते ऽन्नरस-परिपोषितत्व-लक्षणम्, वायु-विशेषस्य प्राणस्येवाम्मयत्वं जल-रसाप्यायितत्वादिति भावः ।
 </details>
 
+#### मुक्तौ मनः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एवापवर्ग-दशायाम् अपि मनो ऽनुवृत्तिः ।
+अत एवापवर्ग-दशायाम् अपि मनोऽनुवृत्तिः ।
 </details>
 
 <details><summary>English</summary>
 
-[[P24]]
-
-(food). That is why manas continues to exist even in the state of realisation.
+[[P24]] That is why manas continues to exist even in the state of realisation.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6163,7 +6165,12 @@ It may be argued that this scriptural passage does not seek to teach the fact of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दर्शितं हि तत्रैवाष्टमे मनसैतान् कामान् पश्यन् रमते मनो ऽस्य दैवं चक्षुर् इति ।
+दर्शितं हि तत्रैवाष्टमे  
+
+> मनसैतान् कामान् पश्यन्  
+रमते मनो ऽस्य दैवं चक्षुर् 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -6189,7 +6196,11 @@ Indeed, in the eighth chapter of the same Upanisad this fact has been stated thu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा परस्याश् च देवतायाः सो ऽन्यं कामं मनसा ध्यायीतेति महोपनिषदि ।
+तथा परस्याश् च देवतायाः  
+
+> सो ऽन्यं कामं मनसा ध्यायीत
+
+इति महोपनिषदि ।
 </details>
 
 <details><summary>English</summary>
@@ -6239,7 +6250,12 @@ In the puranas too, it is said, 'He creates the world with the aid of mánas onl
 पुराणे श्रीवैष्णवे पञ्चमे ऽंशे ।
 </details>
 
-### Manas is no other than buddhi :-
+#### मनो हि बुद्धिः
+<details><summary>English</summary>
+
+Manas is no other than buddhi :-
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6264,7 +6280,8 @@ To the foregoing, it is replied-True, it is so.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्रव्यान्तर-परिकल्पनातो वरम् एवम् [[वाऽश्रयणमित्युक्तम्|वाश्रयणम् इत्य् उक्तम्]] ।
+द्रव्यान्तर-परिकल्पनातो  
+वरम् एवम् +++(वर्तमत्सु द्रव्येष्व् अन्यतमत्वस्य)+++ वाश्रयणम् इत्य् उक्तम् ।
 </details>
 
 <details><summary>English</summary>
@@ -6285,7 +6302,8 @@ It was only said. that rather than assume a different substance we may as well a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परमार्थतस् तु न भौतिकम्, नापि नवमं द्रव्यम् ।
+परमार्थतस् तु न भौतिकम्,  
+नापि नवमं द्रव्यम् ।
 </details>
 
 <details><summary>English</summary>
@@ -6301,12 +6319,12 @@ But, in reality it is neither elemental nor the ninth substance.
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-अत एव स्वाशयं प्रकटीकरोति मनः-विषये **परमार्थतस्तु** इत्य् आदिना ।
+अत एव स्वाशयं प्रकटी-करोति मनः-विषये **परमार्थतस्तु** इत्य् आदिना ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्व तर्हीदानीं मनः-शब्दः? ।
+> क्व तर्हीदानीं मनः-शब्दः?
 </details>
 
 <details><summary>English</summary>
@@ -6321,7 +6339,7 @@ In that event, what does the word 'manas' refer to?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बुद्धाव् एव ।
+बुद्धाव् एव +++(मनः-शब्दः)+++।
 </details>
 
 <details><summary>English</summary>
@@ -6342,7 +6360,7 @@ It refers only to the intellect (buddhi).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव हि बुद्धिमान् मनस्वीति व्यपदिश्यते ।
+अत एव हि "बुद्धिमान्, मनस्वीति" व्यपदिश्यते ।
 </details>
 
 <details><summary>English</summary>
@@ -6357,7 +6375,12 @@ That is why the person of (great) intellect is termed manasvi.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[मनसोऽवस्थाभैदाश्च|मनसो ऽवस्था-भेदाश् च]] द्रागेवापरोक्ष्यन्ते "क्षुभितं मे मनः, प्रसन्नं मे मन" इति ।
+मनसो ऽवस्था-भेदाश् च द्राग् एवापरोक्ष्यन्ते 
+
+> "क्षुभितं मे मनः,  
+प्रसन्नं मे मन" 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -6379,7 +6402,10 @@ The differences of states of mind are readily perceived in this way: 'My mind is
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं च मनसः करणतया व्यपदेशो बुद्ध्य्-अहङ्कारयोर् इव वृत्ति-भेद-प्रदर्शन-परः पूर्वेषम् इति ।
+एवं च मनसः करणतया व्यपदेशो  
+बुद्ध्य्-अहङ्कारयोर् इव  
+वृत्ति-भेद-प्रदर्शन-परः पूर्वेषम्  
++++(न तन्नामक-तत्त्व-व्यपदेश-परः)+++ इति ।
 </details>
 
 <details><summary>English</summary>
@@ -6403,11 +6429,19 @@ To conclude, our ancestors' description of manas as an instrument is calculated 
 ननु बुद्धेर् ज्ञानस्यैव मनस्त्वे ऽन्तःकरणत्वोक्तिस् तस्य कथं सङ्गच्छते इत्य् अत्राह **एवं चे**ति । विषय-स्मृत्यादि-हेतु-भूत-व्यापार-वत्त्व-प्रदर्शनार्थं बुद्धेर् अन्तःकरणत्व-व्यपदेशः, अध्यवसायादि-हेतु-व्यापार-वत्त्व-प्रदर्शनार्थं बुद्ध्य् आदि-व्यपदेश इव मनसो ऽतिरेक-वादे ऽपीति भावः । अत्र विमर्शकेन सुखादि-साक्षात्कार-करणत्वेन मनसो ऽनुमानं तार्किकाभिमतं न विमृष्टम् । **अयम् अत्राशयः** - इन्द्रियसौष्ठवोपघातयोर् एव सुख-दुःख-रूपत्वात् तयोश् चातीन्द्रियत्वात् न तत्-साक्षात्कार-कारणतया मनो ऽनुमेयम् । यद्वा ज्ञान-विशेष-रूपत्वात् तयोर् ज्ञान-स्वयं-प्रकाशत्व-बलाद् एव तत्-प्रतिभासोपपत्तिर् इति ।
 </details>
 
-### Manas is not the soul:-
+### नात्मा
+<details><summary>English</summary>
+
+Manas is not the soul:-
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[उच्यतेयदि|उच्यते— यदि]] बुद्धिर् एव मनः ; यदि वा द्रव्यान्तरम् ; उभयधापि तस्य न चेतनत्वम् इति
+उच्यते— यदि बुद्धिर् एव मनः ;  
+यदि वा द्रव्यान्तरम् ;  
+उभयधा ऽपि  
+तस्य न चेतनत्वम् इति
 </details>
 
 <details><summary>English</summary>
@@ -6423,12 +6457,12 @@ The reply is whether, manas is elemental or whether it is a different substance;
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**आहे**त्य् आदिना विमर्शकेनातिरिक्त-मनो-निरासे कृते [[सिद्धान्तीस्वाशयमाविष्करोति|सिद्धान्ती स्वाशयम् आविष्करोति]] **उच्यत** इत्य् आदिना ।
+**आहे**त्य् आदिना विमर्शकेनातिरिक्त-मनो-निरासे कृते सिद्धान्ती स्वाशयम् आविष्करोति **उच्यत** इत्य् आदिना ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किम् अनेनाप्रतिज्ञात-स्वरूप-विमर्शेन ।
++++(तथा सति)+++ किम् अनेनाप्रतिज्ञात-स्वरूप-विमर्शेन? +++(इति विरमामि)+++
 </details>
 
 <details><summary>English</summary>
@@ -6465,17 +6499,18 @@ Hence, there is no use investigating into the nature of a substance, when no sta
 </details>
 
 ## न प्राणाः
+### प्राणात्म-वादः
 अस्तु तर्हि प्राण एवाऽत्मा, तथा सति तदन्वयिनि शरीरे सात्मकत्वप्रतीतिः, तद्विरहिणि निरात्मकत्वप्रतीतिश्चोपपद्येयाताम् । देहादुत्क्रान्तिर्लोकान्तरगमनं देहान्तरसञ्चारश्चोपपद्यन्तेतराम्,  
 गत्वरस्वाभाव्यात्प्राणस्य । इतरथा परममहतो महतश्च स्पर्शविरहिणः परिस्पन्दानुपपत्तेरुत्क्रान्तिगत्यागतिश्रुतयो भाक्ताः स्युः ।  
 (इति प्राणात्मत्वपूर्वपक्षप्रकरणम्)  
 इदमप्यसत्; वायुत्वादेव बाह्यवायुवत्प्राणस्य चैतन्यानुपपत्तेः । वृत्तिहीनेऽप्यात्मनि सुषुप्तौ प्राणस्य वृत्तिमत्त्वाच्च । तद्वृत्त्या हि सुप्तस्यापि सप्तधातुभावेनाशितपीतद्रव्यपरिणामः ; श्वासप्रश्वासौ च । तनुतरतेजोबन्नानुविद्धः कौष्ठ्यमारुतो हि प्राणः । स च कण्ठमुखनासाभ्यन्तरे बहिश्च रेचितः त्वचा स्पृश्यमानो घटादिरिव स्फुटमनात्मतया चकास्ति ।
 
 
-1.8 सच्छिद्रत्वाददेहित्वाद्देहत्वान्मृतदेहवत् ।  
-इत्यादिसाधनैर्न्याय्यैर्निषेध्या वर्ष्मणश्चितिः ॥
-
 1.9 किञ्च - निरस्तो देहचैतन्यप्रतिषेधप्रकारतः ।  
-प्राणात्मवादो न पृथक् प्रयोजयति दूषणम् ॥
+प्राणात्मवादो न पृथक् प्रयोजयति दूषणम् ॥  
+अविभुत्वेनास्याऽत्मनः स्पर्शविरहिणोऽपि प्रयत्नादृष्टप्रेरणानुगुण्येन मनस इवोत्क्रान्तिगत्यादयो युज्यन्त इति न तन्निर्देशानाममुरव्यार्थता । परिमाणनिरूपणेऽप्येतद्भविष्यतीत्यलमधुना ।  
+(इति प्राणात्मवादनिरासप्रकरणम्)  
+
 
 1.10 सिद्धिश्चेदभ्युपेयेत संविदः स्यात् सधर्मता ।  
 न चेत्तुच्छत्वमेवोक्तं भवेच्छशविषाणवत् ॥
