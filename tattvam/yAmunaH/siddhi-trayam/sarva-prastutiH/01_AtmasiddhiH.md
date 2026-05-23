@@ -6508,7 +6508,7 @@ The theory that Prāņa is the soul.
 
 
 
-21. <details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्तु तर्हि प्राण एवात्मा,
 </details>
@@ -6547,7 +6547,8 @@ If that were so, the apprehension of the body, which is associated with it (prā
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देहाद् उत्क्रान्तिर् लोकान्तर-गमनं देहान्तर-सञ्चारश् चोपपद्यन्तेतराम्, गत्वर-स्वाभाव्यात् प्राणस्य ।
+देहाद् उत्क्रान्तिर्, लोकान्तर-गमनं देहान्तर-सञ्चारश् चोपपद्यन्तेतराम्,  
+गत्वर-स्वाभाव्यात् प्राणस्य ।
 </details>
 
 <details><summary>English</summary>
@@ -6562,12 +6563,13 @@ Departing from the body, going to other worlds, and wandering in other bodies wo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतरथा परम-महतो महतश् च स्पर्श-विरहिणः परिस्पन्दानुपपत्तेर् उत्क्रान्ति-गत्य्-आगति-श्रुतयो भाक्ताः स्युः ।
+इतरथा परम-महतो ऽमहतश् +++(→अणोः)+++ च स्पर्श-विरहिणः परिस्पन्दानुपपत्तेर् उत्क्रान्ति-गत्य्-आगति-श्रुतयो भाक्ताः स्युः ।
 </details>
 
 <details><summary>English</summary>
 
-Otherwise (ie, if prāṇa is not the soul) scriptural passages referring to departing, going and coming would have to be given a secondary significance, because movement cannot reasonably belong to that which is infinitely big and to that which is big but devoid of contact.
+Otherwise (ie, if prāṇa is not the soul) scriptural passages referring to departing, going and coming would have to be given a secondary significance,  
+because movement cannot reasonably belong to that which is infinitely big and to that which is (not) big but devoid of contact.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6578,21 +6580,34 @@ Otherwise (ie, if prāṇa is not the soul) scriptural passages referring to dep
 
 <details><summary>टीका</summary>
 
-**इतरथे**ति । परम-महतः, अमहतश् च, इति पद-च्छेदः । अमहत्त्वम् अणुत्वम् । निः-स्पर्शत्वाद् आत्मनि न क्रिया विभुत्वे ऽणुत्वे वा सम्भवतीति भावः ।
+**इतरथे**ति ।  
+परम-महतः, अमहतश् च, इति पद-च्छेदः ।  
+अमहत्त्वम् अणुत्वम् ।  
+निः-स्पर्शत्वाद्  
+आत्मनि न क्रिया  
+विभुत्वे ऽणुत्वे वा सम्भवतीति भावः ।
 </details>
 
 **(इति प्राणात्मत्वपूर्वपक्षप्रकरणम्)**
 
-### Refutation of this theory
+### वायुत्वात्
 
-22. <details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>विषयः</summary>
 
-इदम् अप्य् असत्; वायुत्वाद् एव बाह्य-वायुवत् प्राणस्य चैतन्यानुपपत्तेः ।
+Refutation of this theory
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदम् अप्य् असत्;  
+वायुत्वाद् एव बाह्य-वायुवत्  
+प्राणस्य चैतन्यानुपपत्तेः ।
 </details>
 
 <details><summary>English</summary>
 
-This (theory) too is not correct. Intelligence cannot belong to prāņa, because, like external air, it is only air,
+22\. This (theory) too is not correct. Intelligence cannot belong to prāņa, because, like external air, it is only air,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6603,12 +6618,14 @@ This (theory) too is not correct. Intelligence cannot belong to prāņa, because
 
 <details><summary>टीका</summary>
 
-प्रतिक्षिपति वादम् एनं **इदम् अप्य् अस**द् इति । अत्र प्रयोग-त्रयम् प्राणो नात्मा, सुषुप्तौ व्यापार-वत्त्व-रूपाद्-आत्म-वैधर्म्यात् । प्राणो नात्मा, त्वाच-प्रत्यक्ष-ग्राह्यत्वाद् घटादि-वत् । प्राणो नात्मा [[वायुत्वाव्द्यजनपवनवदिति|वायुत्वाद् व्यजन-पवन-वद् इति]] ।
+प्रतिक्षिपति वादम् एनं **इदम् अप्य् अस**द् इति । अत्र प्रयोग-त्रयम् प्राणो नात्मा, सुषुप्तौ व्यापार-वत्त्व-रूपाद्-आत्म-वैधर्म्यात् । प्राणो नात्मा, त्वाच-प्रत्यक्ष-ग्राह्यत्वाद् घटादि-वत् । प्राणो नात्मा वायुत्वाद् व्यजन-पवन-वद् इति ।
 </details>
 
+### सुषुप्तौ सक्रियतायाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृत्ति-हीने ऽप्य् आत्मनि सुषुप्तौ प्राणस्य वृत्तिमत्त्वाच् च ।
+वृत्ति-हीने ऽप्य् आत्मनि  
+सुषुप्तौ प्राणस्य वृत्तिमत्त्वाच् च +++(नात्मत्वम्)+++।
 </details>
 
 <details><summary>English</summary>
@@ -6623,7 +6640,8 @@ and because in the state of deep sleep even when the soul is devoid of activity,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-वृत्त्या हि सुप्तस्यापि सप्त-धातु-भावेनाशित-पीत-द्रव्य-परिणामः ; श्वास-प्रश्वासौ च ।
+तद्-वृत्त्या हि  
+सुप्तस्यापि सप्त-धातु-भावेनाशित-पीत-द्रव्य-परिणामः ; श्वास-प्रश्वासौ च ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -6649,7 +6667,8 @@ Indeed, it is only on account of its activity that even in the case of the perso
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तनुतर-तेजो-बन्नानुविद्धः कौष्ठ्य-मारुतो हि प्राणः ।
+तनुतर-तेजो-ऽब्-अन्नानुविद्धः  
+कौष्ठ्य+++(=जठरादि)+++-मारुतो हि प्राणः ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -6670,7 +6689,9 @@ Prana is, indeed, the air which is mixed up with a little fire, water and food, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स च कण्ठ-मुख-नासाभ्यन्तरे बहिश् च रेचितः त्वचास्पृश्यमानो घटादिर् इव स्फुटम् अन्-आत्मतया चकास्ति ।
+स च कण्ठ-मुख-नासाभ्यन्तरे बहिश् च रेचितस्  
+त्वचास्पृश्यमानो  
+घटादिर् इव स्फुटम् अन्-आत्मतया चकास्ति ।
 </details>
 
 <details><summary>English</summary>
@@ -6686,9 +6707,11 @@ This (air) too, being exhaled into and out of the throat, mouth and nostrils, an
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं च —  
-निरस्तो देह-चैतन्य-प्रतिषेध-प्रकारतः ।  
-[[P26]]  
-प्राणात्म-वादो न पृथक् प्रयोजयति दूषणम् ॥
+
+> **निरस्तो** देह-चैतन्य-  
+प्रतिषेध-प्रकारतः । 
+प्राणात्म-वादो न पृथक्  
+**प्रयोजयति** दूषणम् ॥
 </details>
 
 <details><summary>English</summary>
@@ -6707,7 +6730,10 @@ Further, the doctrine that prāna is the soul, being refuted in the same manner 
 
 <details><summary>टीका</summary>
 
-प्राणात्म-वादे देहात्म-वाद-दूषण-जातम् अतिदिशन्न् आह निरस्त इति । अनिरस्तो-ऽदूषितो हि प्रतिपक्षितयावस्थितः प्राणात्म-वादः [[निरासकयुक्तयन्तरापादनप्रयोजकीभावमापद्येत|निरासक-युक्त्य्-अन्तरापादन-प्रयोजकीभावम् आपद्येत]] । न तु देहात्म-वाद-दूषणैर् एव दूषितो ऽसत्-प्राय इति भावः ॥९ ॥
+प्राणात्म-वादे देहात्म-वाद-दूषण-जातम् अतिदिशन्न् आह निरस्त इति ।  
+अनिरस्तो-ऽदूषितो हि प्रतिपक्षिप्ततया ऽवस्थितः प्राणात्म-वादः  
+निरासक-युक्त्य्-अन्तरापादन- प्रयोजकीभावम् आपद्येत ।  
+न तु देहात्म-वाद-दूषणैर् एव दूषितो ऽसत्-प्राय इति भावः ॥९ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
