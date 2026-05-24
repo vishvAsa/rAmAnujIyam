@@ -31,3 +31,8 @@ Azhwar vk
 
 ### champakApurI 2025
 ದೇವರಿಗೆ ಇಲ್ಲಿ ಹಳೆಯ ನಾಮದ ಕೆಳಗೆ ಏನೋ ಜೋಡಿಸಿ "ತೆಂಕಲೈ"-ನಾಮ ಮಾಡಿರುವಹಾಗೆ ಕಾಣುತ್ತದೆ. ಬೇರೆಯ ಕೆಲ ಚಿತ್ರಗಳಲ್ಲೂ ಹಾಗೇ. (दिवं गत सन्तोषनु आरम्भिसि) ಹೊಸ ಅರ್ಚಕರು ಬಂದು ಹೀಗೆ ಮಾಡಿರುವರೆಂದು ಕೇಳಿದೆ. ಯಥಾಪೂರ್ವವಾಗಿ ಸರಿಪಡಿಸಲು ಏನು ಕ್ರಮ ಕೈಗೊಳ್ಳಬಹುದು?
+
+### maddUr
+varadarAja had tenkalai painted tiruman in 2011 [TW](https://divyadesamyatra.blogspot.com/2011/04/varadaraja-swamy-temple-maddur-mandya.html); vaDakalai tirumaN jewel in 2024 -  [TW](https://www.instagram.com/reels/C-KStURy6hq/)  
+By 202605, had tenkalai tiruman painted on it.
+
