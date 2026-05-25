@@ -23,7 +23,7 @@ During this Azhagiyasingar's travel (sancAram) to the divya deSams, Tirunarayana
 
 On Nandana year, Krishna Paksha dvitIyai tithi (March 1473), this second jIyar ascended to Paramapadam. His BrundAvanam is on the banks of KalyANi PushkaraNi at Tirunarayanapuram.
 
-His ASthAna nirvAka kAlam lasted for 14 years, 11 months
+His ASthAna nirvAha kAlam lasted for 14 years, 11 months
 
 taniyan
 

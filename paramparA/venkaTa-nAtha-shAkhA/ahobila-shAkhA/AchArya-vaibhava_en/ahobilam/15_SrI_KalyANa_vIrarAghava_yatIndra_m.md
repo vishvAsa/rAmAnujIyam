@@ -7,7 +7,7 @@ This Azhagiyasingar was born in Esanoor agrahAram near Kanchipuram. He belonged 
 
 He ascended to Paramapadam from Kanchipuram on Bhava samvatsaram, Purattasi month (October 1694), Krshna paksha ekAdaSI tithI.
 
-His AsthAna nirvAka kAlam - 8 years, 2 months
+His AsthAna nirvAha kAlam - 8 years, 2 months
 
 [[238]] taniyan
 

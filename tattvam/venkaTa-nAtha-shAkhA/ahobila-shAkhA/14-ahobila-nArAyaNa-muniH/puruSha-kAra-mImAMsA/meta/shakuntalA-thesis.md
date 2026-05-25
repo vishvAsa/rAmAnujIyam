@@ -226,7 +226,7 @@ Yaj. Saṁ : Yajus Saṁhitā.
 CHAPTER I
 NĀRĀYAṆA MUNI - LIFE AND WORKS HIS PREDECESSORS - THEIR WORKS AND OTHER DETAILS
 
-The **Puruṣakāra Mīmāṁsā** (PM) of Nārāyaṇa Muni with the commentary of **Maṇidīpikā** (MD) of Śrīśaileśa of the Vātsya family forms the subject matter of the present study. The PM is an important text in the Śrīvaiṣṇava literature because it discusses the role of Lakṣmī as mediator between man and God. It also discusses various other aspects such as Her being the **upāya** or **upeya** of human endeavour. The text is in the form of simple and succinct Anuṣṭubh verses which are 182 in number. There is a popular view among a section of scholars that the author of this work was the immediate successor of Ādivan Śaṭhakopa, (A.D. 1398-1458) founder of the Ahobila Maṭha.[^13_1] But gathering information from the commentary **Maṇidīpikā** it can be understood that another Nārāyaṇa Muni, the 14th pontiff of the Maṭha could have been the author of the PM, but not the second pontiff. It is accepted beyond any doubt that the second pontiff Nārāyaṇa
+The **Puruṣakāra Mīmāṁsā** (PM) of Nārāyaṇa Muni with the commentary of **Maṇidīpikā** (MD) of Śrīśaileśa of the Vātsya family forms the subject matter of the present study. The PM is an important text in the Śrīvaiṣṇava literature because it discusses the role of Lakṣmī as mediator between man and God. It also discusses various other aspects such as Her being the **upāya** or **upeya** of human endeavour. The text is in the form of simple and succinct Anuṣṭubh verses which are 182 in number. There is a popular view among a section of scholars that the author of this work was the immediate successor of Ādivan Śaṭhakopa, (A.D. 1398-1458) founder of the Ahobila Maṭha.[^13_1] But gathering information from the commentary **Maṇidīpikā** it can be understood that another Nārāyaṇa Muni, the 14th pontiff of the Maṭha could have been the author of the PM, but not the second pontiff.+++(5)+++ 
 
 [^13_1]: See New Catalogus Catalogorum, Vol.X,p.74. See M.Krishnamachariar, History of Classical Sanskrit Literature, p.282. Cf. S.Krishnaswamy Iyengar's edn. of Pibbaḻagiya Perumāḷ Jīyar's Ārāyirappaḍi Guruparamparāprabhāva forming an Appendix, Thirumuḍi Aḍaivu, p.597. See also V.K.S.N.Raghavan, History of Viśiṣṭādvaita Literature, (HVL), p.55.
 
@@ -234,7 +234,7 @@ The **Puruṣakāra Mīmāṁsā** (PM) of Nārāyaṇa Muni with the commentary
 [[P14]]
 2
 
-Muni I wrote several works such as **Bhāva-pradīpikā**, **Puruṣārtha Sudhānidhi**, **Rahasyatrayajīvātu** and **Ṣaṣṭi-prabandha**. The authorship of the PM, however, cannot be attributed to him.
+It is accepted beyond any doubt that the second pontiff Nārāyaṇa Muni I wrote several works such as **Bhāva-pradīpikā**, **Puruṣārtha Sudhānidhi**, **Rahasyatrayajīvātu** and **Ṣaṣṭi-prabandha**. The authorship of the PM, however, cannot be attributed to him.+++(5)+++
 
 ### Date of Nārāyaṇa Muni I the second pontiff :
 
@@ -255,16 +255,19 @@ commentary which throws some light upon the parentage and lineage of Śrīśaile
 
 At the beginning of the commentary also we find the following statements regarding his lineage:
 
-> श्रीवत्स्यराजगोपालगुरुं मन्तातमाश्रये।
-> यत्सेवया मया लब्धं श्रीशान्तत्त्वावबोधनम्।।
+> श्रीवत्सराजगोपालगुरुं मनसा तम् आश्रये॥
+यत्सेवया मया लब्धं  
+श्रीशैल-तत्त्व-ज्ञ-बोधनम्।  
+अस्मद्-आचार्य-गुरोः पादौ  
+शिरसा प्रणतोऽस्म्यहम्॥
 
-From these passages we understand that Śrīśaileśa was the son of Vātsya Rājagopāla. He was a disciple of Nārāyaṇa Muni (14th pontiff) who himself was a disciple of Śrī Vīrarāghava the thirteenth Jīyar. Śrīśaileśa's brother was one Śrīnivāsa who, according to the **Maṇidīpikā**-verse was "**Ammaḷārya - kṛpāpātram**", recipient of the grace of "**Ammaḷārya**". The question that has to be resolved now is as to who this Ammaḷārya was. We know that all the Ācāryas born in the family of Vātsya Varada are known to have held the title "**Ammaḷārya**". The fifth descendent of Vātsya Varada, viz., Ghaṭikāśatam Ammāḷ was popularly known by the name "Ammaḷārya", although his real name was Varadācārya. If from the statement of Śrīśaileśa we can
+From these passages we understand that Śrīśaileśa was the son of Vātsya Rājagopāla. He was a disciple of Nārāyaṇa Muni (14th pontiff) who himself was a disciple of Śrī Vīrarāghava the thirteenth Jīyar. Śrīśaileśa's brother was one Śrīnivāsa who, according to the **Maṇidīpikā**-verse was "**Ammaḷārya - kṛpāpātram**", recipient of the grace of "**Ammaḷārya**". The question that has to be resolved now is as to who this Ammaḷārya was. We know that all the Ācāryas born in the family of Vātsya Varada are known to have held the title "**Ammaḷārya**". The fifth descendent of Vātsya Varada, viz., Ghaṭikāśatam Ammāḷ was popularly known by the name "Ammaḷārya", although his real name was Varadācārya. If from the statement of Śrīśaileśa we can deduce that his brother Śrīnivāsa was graced by Ammaḷārya we may have to conclude that he was a contemporary of Ammaḷārya who lived between A.D. 1325 and 1400.[^16_2]
 
 ***
 [[P16]]
 4
 
-deduce that his brother Śrīnivāsa was graced by Ammaḷārya we may have to conclude that he was a contemporary of Ammaḷārya who lived between A.D. 1325 and 1400.[^16_2] But this would clash with the date of Nārāyaṇa Muni the 14th Jīyar whose date is given as A.D. 1676.[^16_3]
+But this would clash with the date of Nārāyaṇa Muni the 14th Jīyar whose date is given as A.D. 1676.[^16_3]
 
 This discrepancy can be got over when we take this Ammaḷārya as yet another descendant of the Vātsya family but not as Ghaṭikāśatam Ammāḷ. Further it is quite evident from the statements made by Śrīśaileśa in his **Maṇidīpikā** that he was the disciple of Nārāyaṇa Muni who was the disciple of Vīrarāghava:
 
@@ -279,7 +282,7 @@ The following passage found towards the end of the **Maṇidīpikā** would poin
 
 ***
 [[P17]]
-> नाशायणमुनिनैश्यनेन संप्रदायवैलक्षण्यं प्रदर्शितम्। सर्वतन्त्रस्वतन्त्र - श्रीमच्छठकोप - योगीन्द्र दिव्यपरम्परामुप्राविधानं पूर्वषां श्रीमन्नारायणयोगीन्द्राणां दास्यस्युकेन नारायणपदेन भगवन्मननादि शीलनासूचकेन मुनिनेति पदेन च तथाविध दिव्यपरम्परा लब्ध - विशुद्ध सम्प्रदाय शानिशुक्तिं भवति।
+> नारायणमुनिनैश्यनेन संप्रदायवैलक्षण्यं प्रदर्शितम्। सर्वतन्त्रस्वतन्त्र - श्रीमच्छठकोप - योगीन्द्र दिव्यपरम्परामुप्राविधानं पूर्वषां श्रीमन्नारायणयोगीन्द्राणां दास्यसूचकेन नारायणपदेन भगवन्-मननादि-शीलना-सूचकेन मुनिनेति पदेन च तथाविध-दिव्यपरम्परा लब्ध - विशुद्ध-सम्प्रदाय शानिशुक्तिं भवति।
 
 In this passage Śrīśaileśa states that the author of PM was preceded by other pontiffs who also bore the name 'Nārāyaṇa'. The words "**pūrveṣāṁ śrīmannārāyaṇayogīndrāṇām**" (in plural) deserves careful consideration. These words definitely point to the fact that the author of the PM could not have been the second pontiff who immediately succeeded Ādivan Śaṭhakopa the founder of the Ahobila Maṭha. In fact, between him and his predecessor Ādivan Śaṭhakopa, there was no other Ācārya even according to the canonical list of teachers (Guruparamparā) handed down to us.
 
@@ -287,7 +290,9 @@ Another important fact that corroborates this finding is that Śrīśaileśa ver
 
 ***
 [[P18]]
-Vedānta Rāmānuja Muni wrote his ŚTS with the sole view of demolishing the findings of the PM.[^18_5] He was the disciple of Kalyāṇāvaha Raṅganātha Mahādeśika, was born in Koppal Agrahāram, a village near Thirunārāyaṇapuram in the Karnataka State.[^18_6] It is said that he resembled Bhāṣyakāra (Śrī Rāmānuja) himself for which reason he was also known as "Śākṣāt Svāmī". Vedānta Rāmānuja Muni has been reverentially quoted in the Nyāyavidyāpariṣkṛti of unknown authorship.[^18_7] His other works include Divyasūri-prabhāva-Dīpikā, commentaries in Maṇipravāḷa called[^18_8]
+Vedānta Rāmānuja Muni wrote his ŚTS with the sole view of demolishing the findings of the PM.[^18_5] He was the disciple of Kalyāṇāvaha Raṅganātha Mahādeśika, was born in Koppal Agrahāram, a village near Thirunārāyaṇapuram in the Karnataka State.[^18_6] It is said that he resembled Bhāṣyakāra (Śrī Rāmānuja) himself for which reason he was also known as "Śākṣāt Svāmī". 
+
+Vedānta Rāmānuja Muni has been reverentially quoted in the Nyāyavidyāpariṣkṛti of unknown authorship.[^18_7] His other works include Divyasūri-prabhāva-Dīpikā, commentaries in Maṇipravāḷa called[^18_8]
 
 [^18_5]: See the Colophon of the STS (ed. Uttamur Viraraghavacharya), p.64:
 > श्रीमद्वेदान्तरामानुजमुनेः कृतिषु पुरुषकारमीमांसादि-नानाग्रन्थनिरासकं श्रीतत्त्वसिद्धान्जनं संपूर्णम्।।
@@ -383,7 +388,7 @@ See the colophon at the end of the VI act.
 
 ***
 [[P25]]
-the fifth descendant of Naḍādūr Ammāḷ. His works include Rukmiṇīpariṇaya Campu, Lakṣmīśataka, and the less known allegorical play Yatirāja Vijaya.[^25_20] He was popularly known as Ammāḷ or Ammaḷārya or Ammāḷācārya. He was known originally as Varadācārya and hence the name Vātsya Varada also applies to him. So he should not be confused with his Kiṭastha, the more popular Vātsya Varadācārya (Naḍādūr Ammāḷ). This is evident from his own statement in the Vasantatilaka Bhāṇa.[^25_21]
+the fifth descendant of Naḍādūr Ammāḷ. His works include Rukmiṇīpariṇaya Campu, Lakṣmīśataka, and the less known allegorical play Yatirāja Vijaya.[^25_20] He was popularly known as Ammāḷ or Ammaḷārya or Ammāḷācārya. He was known originally as Varadācārya and hence the name Vātsya Varada also applies to him. So he should not be confused with his Kuṭastha, the more popular Vātsya Varadācārya (Naḍādūr Ammāḷ). This is evident from his own statement in the Vasantatilaka Bhāṇa.[^25_21]
 
 E.V.Vīrarāghavācārya mentions that Appaya Dīkṣita in his Kuvalayānanda (A.D. 1520-1591) quotes three verses without mentioning their source, which can be traced to Ghaṭikāśatam Ammāḷ's Vasantatilakabhāṇa and Yatirāja Vijaya.[^25_22]
 
@@ -1392,7 +1397,11 @@ DIFFERENCES BETWEEN NĀRĀYAṆA MUNI AND VEDĀNTA RĀMĀNUJA
 
 Having studied the text of PM in detail it is worthwhile to note the main differences between Nārāyaṇa Muni and his chief critic Vedānta Rāmānuja Muni in a codified manner in this chapter. 
 
-Our understanding of the text of PM is mainly based upon the Maṇidīpikā of ŚŚ, who, as pointed out earlier, must have been the direct disciple of NM. Scholars are of the opinion that the first five pontiffs of the Ahobila Maṭha could have been subscribers to the views of Piḷḷai Lokācārya on the essential nature and role of Lakṣmī.[^101_1] The criticism of VR against NM could have been mainly based upon this conception that what NM was trying to explain in his PM was more in keeping with his Teṅgalai tradition than with the Vaḍagalai tradition represented by Vedānta Deśika.
+Our understanding of the text of PM is mainly based upon the Maṇidīpikā of ŚŚ, who, as pointed out earlier, must have been the direct disciple of NM. 
+
+Scholars are of the opinion that the first five pontiffs of the Ahobila Maṭha could have been subscribers to the views of Piḷḷai Lokācārya on the essential nature and role of Lakṣmī.[^101_1] 
+
+The criticism of VR against NM could have been mainly based upon this conception that what NM was trying to explain in his PM was more in keeping with his Teṅgalai tradition than with the Vaḍagalai tradition represented by Vedānta Deśika.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -1403,7 +1412,7 @@ While there may be some hair-splitting disagreements with PM along the way, it w
 NM in the very opening verse of PM, may be said to have summarised the central theme of his work.
 
 > स्वतन्त्रः स्वेच्छया सृष्टि-  
-> स्थितिस-ंहार-मोक्षणे।
+> स्थिति-संहार-मोक्षणे।
 > यत्-सङ्गं क्रीडतीशस्  
 > तां भजे लोकमातरम्।। 1।। +++(5)+++
 
@@ -1415,7 +1424,7 @@ NM in the very opening verse of PM, may be said to have summarised the central t
 
 According to NM, creation, maintenance, dissolution and liberation of the Universe are the functions of the Lord who is the only independent principle. All these activities take place due to His own free will. He does all these in the presence of the Divine Mother Lakṣmī, which activity becomes their sport. A number of ideas can be deduced from this simple verse:
 
-> (1) Viṣṇu and Lakṣmī form the Divine Couple. The Lord alone is responsible for full-fledged creation, dissolution etc.
+(1) Viṣṇu and Lakṣmī form the Divine Couple. The Lord alone is responsible for full-fledged creation, dissolution etc.
 
 (2) The role of Lakṣmī can be appreciated as the Mother of the Universe, since she is the consort of the Lord. She is not directly connected with all those cosmic functions, which the Lord performs. 
 
@@ -1423,16 +1432,16 @@ The commentary of ŚŚ brings out the subtleties of this view and explains that 
 
 > स्वयं व्यक्तं रङ्ग-धाम्नि
 > तल्पे वातूल-तूलके।  
-> निवसन्तौ नमाम्याद्यौ
+> निवसन्तौ नमाम्य् आद्यौ
 > दम्पती जनकौ विधेः।। 2।।
 
-qualifies the meaning of the first verse by declaring that this Divine Couple (identified with Lord Raṅganātha and
+qualifies the meaning of the first verse by declaring that this Divine Couple (identified with Lord Raṅganātha and Raṅganāyakī at Śrīraṅgam) form the parents of Brahmā the four-faced creator God.
 
 ***
 [[P103]]
 90
 
-Raṅganāyakī at Śrīraṅgam) form the parents of Brahmā the four-faced creator God. This verse points out that **jagajjanakatva** (being parents of the universe) need not be taken in a secondary sense as **pitṛtva**. It could even mean being the creators directly as in the case of Brahmā who is accepted on all hands as the son of this Divine Couple.
+This verse points out that **jagajjanakatva** (being parents of the universe) need not be taken in a secondary sense as **pitṛtva**. It could even mean being the creators directly as in the case of Brahmā who is accepted on all hands as the son of this Divine Couple.
 
 When these two verses are read together it becomes clear that Lakṣmī, the Divine Mother could have been the direct parent of the Brahmā in the primary sense and Mother for the rest of the universe in a secondary sense. 
 
@@ -3118,7 +3127,7 @@ An attempt has been made in the foregoing chapters to study 'The Concept of Puru
 
 A detailed analysis of the work has also been made in Chapter IV to understand the intricacies of the concept, highlighting some important shades of difference between ŚŚ and VR. It has already been noted that the ŚTŚ of VR was composed with the specific purpose of demolishing the PM.
 
-It is in this context that the Maṇidīpikā of ŚŚ assumes greater importance because he has tried to answer all the objections raised by VR, quoting line by line and para by para, almost the entire text of ŚTŚ. It is really unfortunate that VR should have written ŚTŚ with the purpose of refuting the PM, root and branch. After all,both NM and VR claim to represent the great tradition of Śrī Rāmānuja as substantiated by Vedānta Deśika in his works.+++(5)+++ 
+It is in this context that the Maṇidīpikā of ŚŚ assumes greater importance because he has tried to answer all the objections raised by VR, quoting line by line and para by para, almost the entire text of ŚTŚ. It is really unfortunate that VR should have written ŚTŚ with the purpose of refuting the PM, root and branch. After all, both NM and VR claim to represent the great tradition of Śrī Rāmānuja as substantiated by Vedānta Deśika in his works.+++(5)+++ 
 
 The contribution of ŚŚ must be viewed as a remarkable attempt to resurrect the image of his Guru Nārāyaṇa Muni, clearing up the doubts raised in the criticism of VR.
 

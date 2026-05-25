@@ -19,7 +19,7 @@ This Azhagiyasingar responding to the prayers of his disciples created the grant
 
 While staying at Sri Nrusimhapuram for a long time, he fell ill. On SarvadhAri year, Marghazhi 8th, Sukla Paksha caturdasi tithi, Saturday (December 20, 1828), he ascended to Paramapadam.
 
-His AsthAna nirvAka kAlam - 17 years, 1 month
+His AsthAna nirvAha kAlam - 17 years, 1 month
 
 He is the son of the 25th paTTam SrImad Azhagiyasingar from his pUrvASramam.
 

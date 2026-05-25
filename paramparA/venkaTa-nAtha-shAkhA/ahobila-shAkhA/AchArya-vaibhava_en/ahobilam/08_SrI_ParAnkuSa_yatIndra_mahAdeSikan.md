@@ -5,7 +5,7 @@ title = "08 SrI ParAnkuSa yatIndra mahAdeSikan"
 
 This Azhagiyasingar was born during the Marghazhi month, aSvini Nakshatram. He entered in to sanyAsa ASramam during the Vishu samvatsaram, panguni month (April 1522), Sukla paksha ekAdaSI dinam. He stayed permanently at Srirangam during his reign and performed nitya MangaLASAsanam of the Srirangam divya dampatis. He taught SrI BhAshyam and other granthams to his disciples. He attained Paramapadam on a Hevilambi year, Marghazhi month (January 1538), Krishna paksha Pancami day at Srirangam.
 
-His AsthAna nirvAka kAlam - 15 years, 9 months
+His AsthAna nirvAha kAlam - 15 years, 9 months
 
 taniyan
 

@@ -7,7 +7,7 @@ This Azhagiyasingar was born in Ilankadu, a vaidika agrahAram in Kanchi region. 
 
 He attained Paramapadam on Vishu samvatsaram, Panguni month (April 1522), PaurNami tithi from the bhUloka vaikuNTham of Srirangam.
 
-His AsthAna nirvAka kAlam - 9 years, 2 months
+His AsthAna nirvAha kAlam - 9 years, 2 months
 
 taniyan
 

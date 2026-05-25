@@ -15,7 +15,7 @@ There, he prostrated before SrI Azhagiyasingar (3rd paTTam). They both exchanged
 
 SrImad Azhagiyasingar ascended to Paramapadam on PramAdISa year, Chittirai month (April 1493), Krishna paksha Caturti tithi. His BrundAvanam is at Singarkoyil.
 
-His ASthAna nirvAka kAlam is 8 years, 3 months
+His ASthAna nirvAha kAlam is 8 years, 3 months
 
 [[224]] taniyan
 

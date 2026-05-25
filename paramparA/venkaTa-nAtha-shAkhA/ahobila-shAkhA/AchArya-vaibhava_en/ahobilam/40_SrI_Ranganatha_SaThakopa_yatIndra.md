@@ -13,7 +13,7 @@ Several books were authored by the disciples in praise of this Azhagiyasingar, s
 
 This Azhagiyasingar went to Tiruppati, Thirunarayanapuram etc., and performed MangaLASAsanam of the EmperumAns there and then travelled o the Southern parts. He performed MangaLASAsanam of Madurai KoodalAzhagar. He then arrived at Thuvariman agraharan near Madurai. While in Thuvariman, his health deteriorated. He [[332]] directed his disciples to approach SrI. u. vE. VidvAn Gopala Ramabhadracharyar SvAmi of Karukkuricchi and pray to him to accept the SrI sannidhi AsthAnam. He then ascended to Paramapadam in the year dundubhi, thai month, 1st day, Krshnapaksha trayodasi tithi (14 January 1923). His Brundavanam is at Thuvariman agrahAram.
 
-His AsthAna nirvAka kAlam - 9 years, 9 months
+His AsthAna nirvAha kAlam - 9 years, 9 months
 
 tanian
 

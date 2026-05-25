@@ -43,7 +43,7 @@ On hearing this, the king was very pleased. Immediately, he sent his ministers a
 
 SrImad Azhagiyasingar returned to Pullambhuthamkudi. He saw the village gifted by the king. He named that village as SrInrusimhapuram. He consecrated the village as a Vaidika agrahAram. There, he built a maTham and resided. From this village of SrInrusimhapuram, the AcAryan performed MangaLASAsanams of the divya dampatis of Pullambhuthamkudi and Adanur. He conducted kAlakshepam for his SishyAs. One day, the AcAryan fell ill and his health deteriorated rapidly. On a Prajotpatti year, Kartikai Paurnami tithi (30th November 1811), the AcAryan ascended to Paramapadam. His BrundAvanam is at SrInrusimhapuram.
 
-His AsthAna nirvAka kAlam - 35 years, 8 months This Azhagiyasingar is considered as an amSam of Vainateyar (Garudan). Many who pray at his BrundAvanam get their wishes fulfilled. During the time of his administration of the Ahobila maTham, a lot of lands were acquired by SrI maTham.
+His AsthAna nirvAha kAlam - 35 years, 8 months This Azhagiyasingar is considered as an amSam of Vainateyar (Garudan). Many who pray at his BrundAvanam get their wishes fulfilled. During the time of his administration of the Ahobila maTham, a lot of lands were acquired by SrI maTham.
 
 taniyan
 

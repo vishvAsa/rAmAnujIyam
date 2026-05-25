@@ -7,7 +7,7 @@ This Azhagiyasingar was born in TaiyAr agrahAram in Kanchipuram region. He belon
 
 He then went to Thirunarayanapuram for the MangaLASAsanam of Tirunarayanan and Yadugiri NacchiyAr. From there he went to the BrundAvanam of SrImad Adi vaN SaThakopa yatIndra mahAdeSikan and paid his obeisance. He wanted to create a prabandham on the first jIyar, Adi vaN mahAdesikan. At that moment, Azhagiyasingar heard the sound (dhvani) of Garudan circling above in the sky. He was very happy and composed the SrImad Adi vaN SaThakopa yatIndra mahaAdeSikan's "aDaikkalappattu" with eleven pAsurams. At the command of LakshmInarasimhan, the SishyAs recite at SrI sannidhi and their homes this prabandham, starting with "AdimaRaiyuruvAna" and has been added to sevA kramam. This practice is continued from that day. This jIyar also created "sat samprAdAya sAram", which celebrates succinctly the vaibhavam of AcAryAs. He blessed us with Mangalams on SrI Nrusimhan and Dolai Kannan. He created few krtis for Dolotsavam and conducted Dolais very well. He did upanyAsams on the meanings of the krtis in a grand manner. He stayed at Thirunarayanapuram for a while and wished to travel to Srirangam. During the travel, Azhagiyasingar fell ill on the way to Srirangam. On ISvara samvatsaram, Kartikai month (November 1757) at Palamedu village, he ascended to Paramapadam.
 
-His AsthAna nirvAka kAlam - 9 years, 8 months
+His AsthAna nirvAha kAlam - 9 years, 8 months
 
 taniyan
 

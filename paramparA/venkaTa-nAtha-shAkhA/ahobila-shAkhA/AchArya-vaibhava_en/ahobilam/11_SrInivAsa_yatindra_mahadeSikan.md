@@ -17,9 +17,9 @@ This Azhagiyasingar was born at Tiruvallur in the month of aippasi,
     the year Vilambi, month of Chittirai (April 1598), Krishna paksha
     Caturti dinam, SrI SrInivasa yatIndra mahAdeSikan ascended to
     Paramapadam.
-    His AsthAna nirvAka kAlam - 38 years, 9 months
+    His AsthAna nirvAha kAlam - 38 years, 9 months
     This Azhagiyasingar is one of the Ahobila maTham AcAryAs, who
-    observed more years of cAturmAsyam until his nirvAka kAlam after Adi
+    observed more years of cAturmAsyam until his nirvAha kAlam after Adi
     vAN SaThakopa jIyar. He visited a few divya deSams many times and
     did many kAlakshepams on darSana granthams.
     taniyan

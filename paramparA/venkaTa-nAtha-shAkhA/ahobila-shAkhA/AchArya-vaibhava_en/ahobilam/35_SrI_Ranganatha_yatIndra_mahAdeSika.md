@@ -3,7 +3,7 @@ title = "35 SrI Ranganatha yatIndra mahAdeSikan"
 
 +++
 
-The avataAram of this Azhagiyasingar took place in an agrahAram, PonviLainda Kalattur (near Chengalpattu) in the month of VaikASi when the jyeshThA (KeTTai) nakshatram was in ascendance. He belonged to BhAradwAja Gotram (Vangeepuram). His pUrvaSrama tirunAmam was SrI. u. vE. VidvAn Narasimhacharya SvAmi. It was known that during the nirvAka kAlam of AttippaTTu Azhagiyasingar, this SvAmi was doing the SrI kArya kaimkaryam (administrative duties) of the SrI sannidhi. On the niyamanam (command) of SrI SaThakopa Ramanuja yatIndra mahAdeSikan (34th paTTam), this SvAmi took to ascetic order. He ascended to the simhAsanam of the SrI sannidhi in the year CitrabhAnu, Purattasi month, Krshna paksha sashTi tithi, Tuesday (October 3, 1822), when the Rohini nakshatram was in ascendance.
+The avataAram of this Azhagiyasingar took place in an agrahAram, PonviLainda Kalattur (near Chengalpattu) in the month of VaikASi when the jyeshThA (KeTTai) nakshatram was in ascendance. He belonged to BhAradwAja Gotram (Vangeepuram). His pUrvaSrama tirunAmam was SrI. u. vE. VidvAn Narasimhacharya SvAmi. It was known that during the nirvAha kAlam of AttippaTTu Azhagiyasingar, this SvAmi was doing the SrI kArya kaimkaryam (administrative duties) of the SrI sannidhi. On the niyamanam (command) of SrI SaThakopa Ramanuja yatIndra mahAdeSikan (34th paTTam), this SvAmi took to ascetic order. He ascended to the simhAsanam of the SrI sannidhi in the year CitrabhAnu, Purattasi month, Krshna paksha sashTi tithi, Tuesday (October 3, 1822), when the Rohini nakshatram was in ascendance.
 
 This Azhagiyasingar was an acknowledged expert in tarka SAstram. He used to render discourses on SrI BhAshyam in a delectable manner.
 
@@ -23,7 +23,7 @@ Injimettu Sri Azhagiyasingar, MahA VidvAn Thirukottiyur SvAmi and MahA VidvAn Pu
 
 This Azhagiyasingar ascended to Paramapadam at Thiruvallur in the year SarvadhAri, Adi month (28th) Friday, Sukla caturti, pUrvapalguni nakshatram (10th August 1888).
 
-His AsthAna nirvAka kAlam - 5 years, 10 months
+His AsthAna nirvAha kAlam - 5 years, 10 months
 
 taniyan
 

@@ -28,7 +28,7 @@ title = "31 SrImannArAyaNa VedAnta yatIndra mahAdeSikan"
 
 After his long stay at SrInrusimhapuram, he visited the agrahAram of Thyagarajapuram on the banks of Cauveri. He found the place peaceful with privacy and fit for a sanyAsi's meditation. He decided to stay there permanently. Here, he fell ill and in ParAbhava year, Panguni month, 19th, Sukla Paksha Caturdasi, Tuesday (30th March, 1847) and attained SrI VaikuNTham.
 
-His AsthAna nirvAka kAlam - 4 years, 4 months
+His AsthAna nirvAha kAlam - 4 years, 4 months
 
 taniyan
 

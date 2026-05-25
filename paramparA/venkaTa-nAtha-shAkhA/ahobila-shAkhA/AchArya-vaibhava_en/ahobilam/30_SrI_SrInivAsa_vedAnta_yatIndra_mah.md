@@ -15,7 +15,7 @@ The LakhsmInrusimha suprabhAtam created by this AcAryan is recited every day at 
 
 From Pullambhuthamkudi, the sancAram continued to all the divya deSams in the South. He returned to SrI Nrusimhapuram. Here, on a Subhakrut Year, PurattAsi month (13th), Krshna paksha Caturti tithi, Tuesday (27th Septemebr 1842), this Azhagiyasingar attained Paramapadam.
 
-His AsthAna nirvAka kAlam - 5 years, 6 Months
+His AsthAna nirvAha kAlam - 5 years, 6 Months
 
 taniyan
 

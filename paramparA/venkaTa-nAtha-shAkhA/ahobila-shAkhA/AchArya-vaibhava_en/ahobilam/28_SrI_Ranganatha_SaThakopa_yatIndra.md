@@ -19,7 +19,7 @@ At one time, a wealthy man placed at the AcAryan's sacred feet a plate full of P
 
 While at Madurantakam, SrImad Azhagiyasingar was feeling weak and tired. He entrusted the ArAdhana kaimkaryam to Lalapettai Vajram SvAmi. This SvAmi was a great scholar with vairAgyam, a leader in anushThAnams. Since this SvAmi was very old, Azhagiyasingar asked him to entrust the SrI maTham AsthAnam as his successor to Ilanagar GadAdharapuram SrI Chakravartiyacharya SvAmi. SrImad Azhagiyasingar health deteriorated further. He ascended to SrI VaikuNTham in durmukhi year, Marghazhi month, Krshna Paksha saptami tithi, Thursday (29 December 1836).
 
-His AsthAna nirvAka kAlam - 3 years, 5 months
+His AsthAna nirvAha kAlam - 3 years, 5 months
 
 It is well known that the 33rd paTTam, SrI SaThakopa yatIndra MahAdeSikan and the 34th paTTam, SrI SaThakopa Ramanuja yatIndra MahAdeSikan had great reverence for this 28th Azhagiyasingar.
 

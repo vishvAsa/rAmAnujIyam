@@ -3,7 +3,7 @@ title = "41 SrIlakshmInrsimha SaThakopa yatIndra mahAdeSikan"
 
 +++
 
-The avatAram of this Azhagiyasingar took place in the agrahAram of Karukkuricchi on the banks of Thamrabarani River in the year Ananda, Margazhi month (December 1854) when the Poorattadi nakshatram was in ascendance. He belonged to vAdhUa gotram. His pUrvASrama tirunAmam was SrI. u. vE. VidvAn taTTai Gopala RamabhadrchAryar. Taking to ascetic order in the year dundubhi, 4th day of thai month (17 January 1923) he ascended to the AsthAnam. Of all those Azhagiyasingars before him, he was the oldest to head the AsthAnam. Despite his old age, he was performing all the nityakarmAnushThanam with high priority and reverence. He conducted discourses at frequent intervals for the entire duration of his nirvAkam as the head of the AsthAnam. Besides the discourses on grantha catushTyam, he rendered kAlakshepam on SatadUshaNI, [[333]] nyayasiddhAnjanam and other granthams amidst the gathering of learned scholars of repute. He did his sancAram in the south from Thuvariman to Setu (Thirupullani) and in the north up to Tiruppati. He stayed permanently at daSAvatAra sannidhi in Srirangam.
+The avatAram of this Azhagiyasingar took place in the agrahAram of Karukkuricchi on the banks of Thamrabarani River in the year Ananda, Margazhi month (December 1854) when the Poorattadi nakshatram was in ascendance. He belonged to vAdhUa gotram. His pUrvASrama tirunAmam was SrI. u. vE. VidvAn taTTai Gopala RamabhadrchAryar. Taking to ascetic order in the year dundubhi, 4th day of thai month (17 January 1923) he ascended to the AsthAnam. Of all those Azhagiyasingars before him, he was the oldest to head the AsthAnam. Despite his old age, he was performing all the nityakarmAnushThanam with high priority and reverence. He conducted discourses at frequent intervals for the entire duration of his nirvAham as the head of the AsthAnam. Besides the discourses on grantha catushTyam, he rendered kAlakshepam on SatadUshaNI, [[333]] nyayasiddhAnjanam and other granthams amidst the gathering of learned scholars of repute. He did his sancAram in the south from Thuvariman to Setu (Thirupullani) and in the north up to Tiruppati. He stayed permanently at daSAvatAra sannidhi in Srirangam.
 
 The granthams authored by this Azhagiyasingar are:
 
@@ -23,7 +23,7 @@ Later this Azhagiyasingar's health improved. Both the Azhagiyasingars together w
 
 His Brundavanam was built in front of the daSAvatAra sannidhi in Srirangam.
 
-His AsthAna nirvAka kAlam - 18 years, 10 months
+His AsthAna nirvAha kAlam - 18 years, 10 months
 
 tanian
 

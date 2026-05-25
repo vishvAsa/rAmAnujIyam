@@ -9,7 +9,7 @@ He stayed at Srirangam for a few days. At that time, a few SishyAs approached hi
 
 This Azhagiyasingar on sancAram to Tirukkudantai (Kumbakonam) did his MangaLASAsanam to ArAvamudan and returned to Pullambhuthamkudi. There, he did his MangaLASAsanam to SrI Hemabjavalli sameta SrI Valvili Raman and did some kaimkaryams. He visited many divya deSams while residing at his birth place permanently. On an Akshaya samvatsaram, Adi month (August 1686), amAvAsya tithi, he ascended to SrI VaikuNTham from Tirukkandiyur divya deSam.
 
-His AsthAna nirvAka kAlam - 9 years, 10 months
+His AsthAna nirvAha kAlam - 9 years, 10 months
 
 taniyan
 

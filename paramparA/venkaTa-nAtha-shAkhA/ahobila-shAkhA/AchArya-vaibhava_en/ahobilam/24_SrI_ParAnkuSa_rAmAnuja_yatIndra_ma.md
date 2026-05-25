@@ -11,7 +11,7 @@ On coming to know about the presence of SrImad Azhagiyasingar at Ahobilam, Gadwa
 
 After leaving Thirunarayanapuram for Srirangam, midway through the sancAram, the AcAryan fell ill at Kokkarayanpettai and ascended to Paramapadam on Manmatha samvatsara, Masi month (March 1776), Krshna paksha trtIyai tithi.
 
-His AsthAna nirvAka kAlam - 12 years, 1 month
+His AsthAna nirvAha kAlam - 12 years, 1 month
 
 taniyan
 
