@@ -389,7 +389,8 @@ does not call for separate disproof. Because the soul is not all-pervasive, even
 Perhaps you may hold the following view: Even when consciousness has arisen, it is the object only which shines forth. When we have the knowledge This is blue[F26_48] we are not at the same time, conscious also of a consciousness, which is not blue and which is different from what may be pointed to by the word 'this'. Hence, by the very existence of consciousness the object is illumined as in the case of the sense-relation (where the object is brought to light, though the relation itself is not manifested). Immediate'y after, by noticing therein (in the object) a peculiar illumination,[F26_49] which is adventitious, consciousness is inferred.
 
 [F26_48]: In older philosophical works, more especially in Buddhistic writings, it was usual to take nila as an illustration for an object. In later works, ghata does duty for nila.
-[F26_49]: According to the Bhāṭṭa School of Mimāmsā, when cognition of an object arises, the latter is affected in a particular way; it becomes illumined, manifested or
+[F26_49]: According to the Bhāṭṭa School of Mimāmsā, when cognition of an object arises, the latter is affected in a particular way; it becomes illumined, manifested or made known (prakasa-visiṣṭa). It is from this illumination or manifestedness. (prākatya or jnatata) that we infer that knowledge has previously arisen. Thus it is held, that consciousness is not perceived, but is inferred from its result. For a refutation of this view see Vedanta Desika's Tattvamuktā kalāpa, page 394. See also Barvārthasiddhi.
+
 
 [[P27]]
 
@@ -401,7 +402,6 @@ If the knowledge of objects be admitted to be devoid of the manifestation of kno
 
 In respect of the apprehension of objects, past and future, if there is no speech and no action, the manifestation of such objects cannot be proved by inference. And the manifestation of consciousness which is based on the manifestation of objects would be even more impossible. If there are no speech and action, the manifestation of objects is not cstablished by inference, because it appears to have been known prior to them (speech and action).[F27_50] To explain-Being prompted by somebody, it is only after concentrating (the mind) and recollecting that a person replies, 'Now it is remembered by me.' It cannot be maintained that the aforesaid speech itself is the cause of this recollec-
 
-[F27_49]: (Continued) made known (prakasa-visiṣṭa). It is from this illumination or manifestedness. (prākatya or jnatata) that we infer that knowledge has previously arisen. Thus it is held, that consciousness is not perceived, but is inferred from its result. For a refutation of this view see Vedanta Desika's Tattvamuktā kalāpa, page 394. See also Barvārthasiddhi.
 [F27_50]: Against the view that cognition is inferred from its result, namely, jnātatā, it is urged that, in respect of objects past and future, as we cannot perceive the prākatya, we cannot infer the knowledge of such objects. To this it may be replied that though the jnatata of past and future objects is not perceived, it may be inferred from the speech and action concerning them and that from the jnatata thus inferred, knowledge of those objects can be easily inferred. This reply is unsatisfactory, because if speech and action do not exist, jnātată cannot be inferred, and much less can consciousness of objects, which is based thereon, be inferred; if they exist, they are not found to prove jnātatā, for the objects appear to have been known previously.
 
 [[P28]]
