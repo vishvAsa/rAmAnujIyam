@@ -7,7 +7,7 @@ The avatAram of this Azhagiyasingar took place at Rajamannarkoyil (Mannargudi) i
 
 A few years later, the health of Azhagiyasingar deteriorated. SrI Azhagiyasingar directed SrI u. vE. VidvAn Venkata Krishnamachariyar [[330]] SvAmi popularly known as Karukkuricchi ayyamAchariyar to take to ascetic order. This SvAmi possessed all the qualities required to head the SrI sannidhi AsthAnam with impeccable knowledge on the sampradAyam, expertise in rendering Ubhaya vedAnta discourses. He was given the tirunAmam of SrIranganatha SaThakopa yatIndra mahAdeSikan and was given the Hamsa mudrA of SrI sannidhi. SvAmi took to ascetic order in the year PramAthi, Chittirai month, Sukla paksha ashTami tithi, 8th day, Monday when the Pushya nakshatram was in ascendance. The two Azhagiyasingars together were performing ArAdhanam to SrI Lakshminrusimhan for some time. The health condition of the 39th paTTam Azhagiyasingar deteriorated fast. He ascended to Paramapadam in the year Raakshasa, VaikAsi month, Sukla saptami tithi, Thursday (20 May 1915). His BrundAvanam is in Mannargudi.
 
-His AsthAna nirvAka kAlam - 6 years
+His AsthAna nirvAha kAlam - 6 years
 
 taniyan श्रीवीरराघवयतीन्द्रपदाब्जभृङ्गं श्रीमच्छशठारियतिवर्यकृAपात्तबोधम् ।
 श्रीश्रीनिवासशठजिद्यतिधुर्यवीक्षा- पात्रं पराङ्कुशयतीन्द्रगुरू ंA भजामः॥

@@ -7,7 +7,7 @@ This Azhagiyasingar was born at GadAdharapuram agrahAram near fertile Tirukkudan
 
 From Palamedu, he went on sancAram to Thirunarayanapuram. There, had his bath in Kalyani PushkaraNi. After completing his daily rituals he went to the temple and offered MangaLASAsanams to Thirunarayanan, Yadugiri Naacchiyar, and SrI BhAshyakArar. Then he arrived at Adi vaN SaThakopa yatIndra mahAdeSikan's BrundAvanam. He stayed for six months at Thirunarayanapuram. Then on one day after taking leave of the Lord, Thirunarayanan, he started his sancAram to Srirangam for the MangalASAsanam of SrI Ranganathan. Midway to Srirangam, he fell ill at Palamedu village and ascended to Paramapadam on BahudhAnya year, Adi month (August 1758).
 
-His AsthAna nirvAka kAlam - 7 months [[249]] Among all the Azhagiyasingars who have adorned the AsthAnam of SrI maTham, this Azhagiyasingar's nirvAkam was the shortest.
+His AsthAna nirvAha kAlam - 7 months [[249]] Among all the Azhagiyasingars who have adorned the AsthAnam of SrI maTham, this Azhagiyasingar's nirvAham was the shortest.
 
 taniyan
 

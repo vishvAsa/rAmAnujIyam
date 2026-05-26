@@ -15,7 +15,7 @@ He went on sancAram to Tirukkovilur, Tiruvaheendrapuram, Srimushnam etc., and to
 
 During this time, Azhagiyasingar fell ill and ascended to Paramapadam in the year Kurodhi, thai month, (January 1485), Krishna paksha Caturdasi. His BrundAvanam is at Srimushnam.
 
-His AsthAna nirvAka kAlam - 11 years, 10 months
+His AsthAna nirvAha kAlam - 11 years, 10 months
 
 taniyan
 

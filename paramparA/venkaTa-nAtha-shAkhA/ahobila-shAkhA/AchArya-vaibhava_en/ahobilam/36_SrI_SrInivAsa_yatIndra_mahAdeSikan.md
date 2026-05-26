@@ -17,7 +17,7 @@ This Azhagiyasingar on sancAram reached Paadur agrahAram where many Sri Sannidhi
 
 His BrundAvanam is situated in the western prakAram of Paadur temple. The vigraha pratishThA was done there by the 40th paTTam Azhagiyasingar. The people of the village say that the prayers made at the BrundAvanam of this Azhagiyasingar get fulfilled.
 
-His AsthAna nirvAka kAlam - 10 years, 4 months
+His AsthAna nirvAha kAlam - 10 years, 4 months
 
 tanian
 

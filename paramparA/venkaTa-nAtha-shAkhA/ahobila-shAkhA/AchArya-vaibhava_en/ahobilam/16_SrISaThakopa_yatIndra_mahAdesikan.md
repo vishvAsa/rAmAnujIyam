@@ -13,7 +13,7 @@ SrImad Azhagiyasingar continued with his sancAram to Tirukkovalur, Srimushnam, T
 
 Sri SaThakopa yatIndra mahAdeSikan ascended to Paramapadam from Tirukkudantai during the BahudhAnya samvatsaram, VaikAsi month (June 1698), Sukla paksha ashTami tithi.
 
-His AsthAna nirvAka kAlam - 3 years, 8 months taniyan
+His AsthAna nirvAha kAlam - 3 years, 8 months taniyan
 
 कल्याणराघवमुनेः कृAपापात्रं दयानिधिम् ।
 सर्वशास्त्रार्थतत्त्वज्ञं शठकोपमुनिं भजे॥

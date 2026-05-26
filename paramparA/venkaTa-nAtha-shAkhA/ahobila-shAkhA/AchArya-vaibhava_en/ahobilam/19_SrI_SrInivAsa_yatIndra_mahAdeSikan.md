@@ -7,7 +7,7 @@ This Azhagiyasingar was born at Thiruvallikkeni and belonged to Nadadur vamSam. 
 
 SrImad Azhagiyasingar started his sancAram from Koyil for northern parts. He went to Thirukkudantai, Thiruvaheendrapuram, Thirukkovalur, Madurantakam, Kanchipuram, Thiruvenkadam and Ahobilam. He performed his MangaLASAsanams for these divya deSa EmperumAns. From Ahobilam, he went again to Tiirumala and then to Gatikachalam, Tiruvallur, Thiruvallikkeni , Thiruneermalai, Thiruvidaventai, Thirukkadanmallai, Thirukkovalur, Srimushnam et al. He worshipped the EmperumAns in these divya deSams. He then went to Thiruppullambhuthamkudi and had his MangaLASAsanam of SrIvalvilli Raman. He stayed there for a few days. SrImad Azhagiyasingar fell ill here and ascended to SrI VaikuNTham in the year, Krodhana, Masi month (February 1746), Sukla paksha caturti tithi.
 
-His ASthAna nirvAka kAlam - 10 years, 7 months
+His ASthAna nirvAha kAlam - 10 years, 7 months
 
 taniyan
 

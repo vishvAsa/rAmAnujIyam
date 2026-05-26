@@ -8,4 +8,4 @@ This Azhagiyasingar belongs to Atreya gotram and was born at Kandalur in the mon
 
 In KaaLayukti year, month of thai (January 1499), Krishna Paksha Navami tithi SrImad Azhagiyasingar ascended to Paramapadam.
 
-His AsthAna nirvAka kAlam - 5 years, 9 months
+His AsthAna nirvAha kAlam - 5 years, 9 months

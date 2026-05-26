@@ -11,7 +11,7 @@ From there, the jIyar went Tirupparkkadal on the banks of the River Palar. This 
 
 This Azhagiyasingar has blessed us with SrIlakshmInrusimha SuprabhAtam. At Tirupparkkadal, AcAryan's health worsened further. He ascended to Paramapadam on Hevilambi year, Marghazhi month, Sukla Krishna Caturti tithI, Saturday (16 December, 1837).
 
-His AsthAna nirvAka kAlam - one year, one month
+His AsthAna nirvAha kAlam - one year, one month
 
 taniyan
 

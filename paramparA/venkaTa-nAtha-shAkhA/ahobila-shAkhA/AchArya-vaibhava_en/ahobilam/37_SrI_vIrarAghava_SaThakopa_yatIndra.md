@@ -308,7 +308,7 @@ On learning about SrI Azhagiyasingar attaining paramapadam, the scholars and oth
 
 Asnding to ASramam - Hemalamba year, AdI month, Paurnami tithi
 
-ASrama nirvaka kAlam - 11 months (from Vilambi year thai month, [[325]] 31 January 1899)
+ASrama nirvAha kAlam - 11 months (from Vilambi year thai month, [[325]] 31 January 1899)
 
 taniyan
 

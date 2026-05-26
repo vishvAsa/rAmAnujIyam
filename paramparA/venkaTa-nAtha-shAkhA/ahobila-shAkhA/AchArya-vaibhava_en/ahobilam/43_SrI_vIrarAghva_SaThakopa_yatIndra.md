@@ -11,7 +11,7 @@ He established Sanskrit schools at Madurantakam, Mambalam, Paadur etc,. The kaim
 
 This Azhagiyasingar has written many articles in VedAntadIpikA and SrI Nrusimhapriya. This Azhagiyasingar proof read the granthams "vIkshAraNya Kshetra MahAtmyam" and "uktinishThAbharaNam" composed by AttipaTTu Azhagiyasingar and published them. After concluding the cAturmAsya sankalpam at Rishikesh, he travelled to Delhi. Thousands of disciples and devotees received the divine blessings of the Azhagiyasingar. On his return journey from Delhi, he had a set back to his health at Naimisharanya Kshetram. His health further deteriorated and he attained Paramapadam in the year Hemalamba, Kartigai month 9th, Sukla paksha trutIyai, Sunday (24 November 1957). His Brundavanam is at Naimisharanyam. This Azhagiyasingar has the distinction of taking up sancAram like none other before him in a period of about one hundred years.
 
-His AsthAna nirvAka kAlam - 5 years, 10 months
+His AsthAna nirvAha kAlam - 5 years, 10 months
 
 
 [[339]] taniyan श्रीमच्छ्रीरङ्गपृथ्वीश्वरशठरिपुणा संयमीन्द्रेण दृष्टं न्यस्तात्मानं नृसिंहे नरहरिशठजिद्योगिनेतुः प्रसादात् ।

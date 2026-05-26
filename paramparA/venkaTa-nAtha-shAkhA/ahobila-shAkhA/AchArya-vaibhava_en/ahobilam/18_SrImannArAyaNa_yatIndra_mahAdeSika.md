@@ -13,7 +13,7 @@ A few years ago, a Golden MaNTapam as well golden SimhAsanam were presented by S
 
 This Azhagiyasingar ascended from the daSAvatAra sannidhi to SrI VaikuNTham in Raakshasa year, Adi month (July 1735), Krishna paksha ekAdaSI tithi.
 
-His AsthAna nirvAka kAlam - one year and six months
+His AsthAna nirvAha kAlam - one year and six months
 
 taniyan
 

@@ -14,7 +14,7 @@ This Azhagiyasingar was born at Tiruvallur in the month of Purattasi,
     and other divya deSams. He returned again to Tirunarayanapuram. He
     ascended to SrI VaikuNTham in the year AngIrasa, month of Purattasi
     (September 1632), Krishna paksha shashTi tithi day.
-    His AsthAna nirvAka kAlam - 34 years, 5 months
+    His AsthAna nirvAha kAlam - 34 years, 5 months
     taniyan
     श्रीपराङ्कुशयोगीन्द्रश्रीनिवासपदाश्रयम।्
     श्रीमन्नारयणमुनिं वन्दे वेदान्तदेशिकम ्॥

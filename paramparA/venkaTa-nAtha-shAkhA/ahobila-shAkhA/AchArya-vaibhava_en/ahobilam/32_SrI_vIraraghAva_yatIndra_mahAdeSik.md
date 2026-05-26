@@ -17,7 +17,7 @@ Azhagiyasingar then compelled one of the distinguished scholars who was having h
 
 Periya Azhagiyasingar ascended to Paramapadam in PramAdISa year, Purattasi month, 21st, Sukla paksha caturti tithi, Wednesday (30 October 1853).
 
-AsthAna nirvAka kAlam of Periya Azhagiysingar (32nd pattam) - 6 years, 7 months
+AsthAna nirvAha kAlam of Periya Azhagiysingar (32nd pattam) - 6 years, 7 months
 
 taniyan श्रीवासरङ्गपतिवीररघूद्वहदि वेदान्तमानिलयवेदशिरोयतीन्द्रैः। संप्रेक्षितं करुणया परिपूर्णबोधं श्रीवीररघावयतीन्द्रगुरुंA भजामः॥ [[276]]
 
