@@ -2,7 +2,6 @@
 title = "Tamil Iyengars's"
 full_title = "Tamil Iyengars's Quixotic squabbles"
 upstream_url = "https://mylapore.substack.com/p/tamil-iyengarss-quixotic-squabbles"
-date = "500-05-25"
 +++
 Source: [here](https://mylapore.substack.com/p/tamil-iyengarss-quixotic-squabbles).
 
