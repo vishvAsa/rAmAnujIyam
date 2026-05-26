@@ -96,7 +96,7 @@ The style (vaikari) of performing kAlakshepam by this Azhagiyasingar is easy to 
 
 When SrImad Azhagiyasingar was thus very famous. his health deteriorated. He ascended to Paramapadam in the year CitrabhAnu, Purattasi 21st, Krshna paksha daSami tithi, Thursday (5th October 1882).
 
-His AsthAna nirvAka kAlam - 3 years, 1 month
+His AsthAna nirvAha kAlam - 3 years, 1 month
 
 taniyan
 

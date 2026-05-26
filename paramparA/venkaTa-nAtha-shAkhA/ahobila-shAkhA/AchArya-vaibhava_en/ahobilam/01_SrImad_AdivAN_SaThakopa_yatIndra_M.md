@@ -9,11 +9,11 @@ In Kruta yugam, SanatkumArar brought the Lord, Tirunarayanan from Satyalokam and
 
 In this great kshetram, this MahAn was born in Kali yugam post 4480, SiddhArti year, Purattasi month (September 1379), Sukla PancAmi tithi, Thursday, when JyesThA nakshartram was on ascendance. His father was SrI KidAmbi Kesavacharya SvAmi who was said to be in the last of the samaSrayaNa paramparA (lineage of AcAryAs). This SvAmi named the child as Srinivasan because he was born by the anugraham of Tiruvengadamudaiyan and as this name is that of his father. The child grew in an adorable manner and SvAmi was very happy and fond of the child. The annaprASanam (giving solid food in the presence of the Lord), SauLAm (tonsure of the baby locks) and upanayanam were conducted at the appropriate age. SrI Kesavacharyar conducted panca samskAram to his son, Srinivasan. He learnt from his father Vedas, nAlAyira divya Prabandham, kAvyam, nATakam, tarka Saastram (logic) and VyAkaraNAm (Grammar).
 
-Enhancing adhyAtma SAstrAs (Supreme knowldge of the Atman) at Attigiri
+## Enhancing adhyAtma SAstrAs (Supreme knowldge of the Atman) at Attigiri
 
 His father was very happy to notice the genius and creativity nature (pratibhA), his intelligence (buddhi sUkshmam) of his son even while learning the sAmAnya SAstrAs (basic). He was confident that his son will become the protector and nourisher of the viSishTAdvaita philosophy. He sent his son to learn VedAnta SAstrAs from Nadadur Ammal's grandson, GaTikASatam Ammal who was teaching the [[189]] adhyAtma SAstrAs at Attigiri PeraruLALan sannidhi. As per the wish of his father, Srinivasan went to Perumal Koyil (Kanchipuram). He arrived at the tirumAligai (house) of GaTikASatam Ammal and prostrated at his holy feet. He prayed to Ammal and appealed to accept him as his disciple. He requested Ammal to teach him all the artha viSeshams (special meanings) of ViSishTAdvaita siddhAntam. Ammal was very pleased on knowing that he is the son of none other than KidAmbi SrI Kesavacharyar. Noting his tejas (effulgence), his knowledge, his humility and with all the qualities of a good disciple, Ammal accepted Srinivasan as his disciple. Ammal did upadeSams to Srinivasan on SrI BhAshyam, Gita BhAshyam, BhagavAd vishAyam, SrImad RahasyatrayasAram and others.
 
-Ammal's anugraham (blessings)
+## Ammal's anugraham (blessings)
 
 SrI Srinivasacharyar with great devotion to Ammal was performing kAlakshepams under his AcAryan, Ammal on all granthams and shined par excellence as a vidvad sreshTha (great scholar). He was observing pancakAla rituals (five times rituals every day/pancakAla parAyaNar). Ammal blessed him, saying that after him (Ammal), SrI Srinivasacharyar will be the scholar and leader on ubhaya vedAntAs (in Sanskrit and Tamil) and that he will be the establisher and leader of our darSana sthApakar of the ViSishTAdvaita siddhAntam, protector and nourisher.
 
@@ -27,7 +27,7 @@ SvAmi woke at the pre-dawn hour, completed his daily rituals at the banks of the
 
 After getting the approval of AcAryan, SvAmi went to the sannidhi of PeruAruLALan and took permission of the Lord to go to Ahobilam. SvAmi started on his travel to Ahobilam and after a few days reached there. He prayed to the mountain (Giri) ranges and went up, climbing the hills. He had his bath in the River BhavanASini and completed his daily rituals. He started to have the darSan of the nava (nine) Narasimha-s.
 
-Accepting the ascetic (sanyASramam) order
+## Accepting the ascetic (sanyASramam) order
 
 At that time, a sanyAsi appeared in front of SvAmi. On seeing him, SrI Srinivasacharyar SvAmi paid his obeisance to him. SvAmi told him about the Lord appearing in the dream and the reason for the visit to Ahobilam. After listening to these, the yati said, "I have come here to bless you only. Please accept this ochre robe (kAvi vastram). I will initiate the presha mantram and accept sanyASramam".
 
@@ -39,17 +39,17 @@ At that time, the learned scholars of this divya deSam came to know about the di
 
 The temple administrators handed over the responsibility of the temple administration to the jIyar. He accepted the responsibility saying "bhagavan niyamanam" (divine command of the Lord). He delegated the roles and responsibilities to each of those who were handling them earlier. While staying at Ahobilam for few days, he was performing ArAdhanam to LakshmInrusimhan.
 
-The command of AzhvAr
+## The command of AzhvAr
 
 NammAzhvAr appeared in the dream of the jIyar and commanded him, saying that he (AzhvAr) is enshrined at Azhwar Tirunagari on the banks of Thamirabarani River and to come there and worship him. The jIyar immediately getting up from his sleep completed his daily rituals. After finishing his ArAdhanam, he appealed to SrI LakshmInrusimhan about the dream he had. With the approval and blessings of the Lord, he started his travel with LakshmInrusimhan seated in a palanquin and the jIyar in another palanquin accompanied by his disciples and with umbrella, fan, and elephant, horse and with sound of musical instruments (chatra, cAmara, Gaja, turanga vAdya gosham etc.).
 
 On his way through several villages and towns, SvAmi performed samASrayaNa bharanyAsam to thousands of disciples who sought [[192]] refuge at his holy feet. He was also giving discourses on SrI BhAshyam and other granthams to the scholars who were accompanying him.
 
-Grieving as AzhvAr could not be found
+## Grieving as AzhvAr could not be found
 
 In due course, SvAmi reached Azhwar Tirunagari. There he could not find AzhvAr who was blessed by the Lord (uyarvaRa uyar nalam uDaiyavan mayarvaRa matinalam aruLinan - The Supreme Lord who possesses auspicious qualities blessed aDiyEn with knowledge and bhakti which destroys the aj~nAnam). He was worried and grieving. He recited Madhurakavi AzhvAr's "kaNNinuN cirutttAmpu" pAsurams, and prayed. NammAzhvAr appeared to SvAmi and told the jIyar, "Like Madhurakavigal, you may sing in my praise and travel to various places".
 
-AzhvAr in a mountain pond
+## AzhvAr in a mountain pond
 
 AzhvAr further said, "Saivaites of this place removed me from my temple and placed me inside a pond on top of a mountain. The have consecrated eleven Siva Lingams in that temple and named the temple as 'ekAdaSa Rudran kOvil'. Now they are doing Rudra pUjA. The King of this territory is also in favour of the Saivaites. You may reform him and through him remove the lingams and consecrate me in my temple as before". SaThakopa jIyar waited for an opportune time to execute the order of NammAzvAr.
 
@@ -406,7 +406,7 @@ Initiating to ascetic order
 
 SrI ManavAlamAmunigal and SrImannArAyana YatIndra MahA DeSikan (2nd Pattam Azhagiyasingar) were initiated in to ascetic Order by SvAmi.
 
-nirvAka kAlam - Sixty years
+nirvAha kAlam - Sixty years
 
 Ascending to Paramapadam
 

@@ -25,7 +25,7 @@ After blessing the King, SrImad Azhagiyasingar left on sancAram to divya deSams 
 
 At the conclusion of his sancAram, SrImad Azhagiyasingar traveled to Ahobilam and was blessing the SishyAs with kAlakshepams. During one night at Ahobilam, SrI JwAlA Narasimhan appeared in the jIyar's dream and commanded him to perform ArAdhanam for Him permanently and to stay in the same cave, where the Lord had His own sannidhi. SrI Azhagiyasingar carried out the niyamanam of the Lord and initiated his dear and talented disciple, IlankAdu KavitA sArvabhauma SikhAmaNi SvAmi, in to sanyASramam. He asked him to conduct the daily ArAdhanam for Malolan. The jIyar performed a grand special ArAdhanam for the Lord. It was in AngIrasa year, Masi month (February 1513), Krishna paksha pancami tithi, SrImad Azhagiyasingar [[227]] entered the cave, where the Lord resided. It is said that the jIyar even now is residing in the cave and performing ArAdhanam for the Lord.
 
-SrImad Azhagiyasingar's AsthAna nirvAka kAlam - 14 years, 1 month
+SrImad Azhagiyasingar's AsthAna nirvAha kAlam - 14 years, 1 month
 
 A few days passed after SrI Azhagiyasingar entered in to the cave. SrI Pancamatabhanjanam TatAcharyar SvAmi went near the entrance of the cave and he could not bear the separation from his AcAryan. He wept and cried intensely. SrImad Azhagiyasingar came out of the cave, consoled him and then reentered the cave.
 

@@ -60,6 +60,10 @@ Throwing of mAmunigaL's Thirumeni into the periya puSkariNi in Kanchi before 19t
 The idol was restored.  
 Thence even an utsava for mahAmuni was instituted.
 
+### tiruv-ahIndra-puram
+> It was a question of whether the new murti should be allowed to be placed within the temple in 1800s, iirc. Tks lost the case. - RL
+
+
 ## tilaka-imposition
 Only Three Divyadeshams/Major temples have Thenkalai Mark Vedanta Desika. Triplicane, Sriperumbudur and Indhalur. (Source: sundaramAlola)
 

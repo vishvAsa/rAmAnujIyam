@@ -11,7 +11,7 @@ Next day, after abhigamana ArAdhanam, the local VaishNavAs prostrated before Azh
 
 During his stay in Srirangam, he ascended to Paramapadam on a Nala samvatsaram, aippasi month (October 1676) Krishna paksha shashTi dinam.
 
-His AsthAna nirvAka kAlam - 44 years, 1 month
+His AsthAna nirvAha kAlam - 44 years, 1 month
 
 After, Adi vaN SaThakopa yatIndra mahAdeSikan and 11th paTTam Azhagiyasingar, this 13th paTTam Azhagiyasingar observed the largest numbers of cAturmAsyams. SishyAs referred to him reverentially as Periya VeerarAghava SaThakopa yatIndra mahAdeSikan. taniyan
 

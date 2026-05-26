@@ -13,7 +13,7 @@ From Tirukkudantai, the jIyar traveled to place near Indalur divya deSam, where 
 
 On the PramAdISa year, thai month (January 1734), KrshNa paksha Prathamai tithi, he ascended to Paramapadam.
 
-His AsthAna nirvAka kAalam - 35 years, 7 months
+His AsthAna nirvAha kAalam - 35 years, 7 months
 
 taniyan
 

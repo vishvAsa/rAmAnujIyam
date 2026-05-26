@@ -51,7 +51,7 @@ Once one of the SishyAs of SrI Azhagiyasingar, Thiruvallur taTTai SrI Krishnamac
 
 While SrImad Azhagiyasingar was performing kAlakshepams to many of his SishyAs on SrI Bhashyam and other granthams (CatushTya granthams), had a set back to his health. At that time, a great scholar of Kanchipuram, Tirupputkuzhi SvAmi came to the sannidhi of SrI Azhagiyasingar and said that he heard about the setback of SrImad Azhagiyasingar's health and so came to see him and asked the jIyar about his health. SrImad Azhagiyasingar told him the prevailing condition of his health. Then the Tirupputkuzhi SvAmi asked the jIyar as to whether he is having any wish in his mind and if so, he is ready and prepared to get it done. Azhagiyasingar replied saying that he will do a samarpaNam of Rupees ten thousand (Rs.10,000) and that he desires to have the darSan of DevAdirajan seated in tiruthEr in tirumaNa kolam (marriage) and wish to have the darSanam of Perumal here. (SrI Tirupputkuzhi SvAmi used to visit SrI maTham often to consult SrImad Azhagiyasingar on laukika matters. Elders used to say that in his pUrvASramam, Azhagiyasingar had close relationship with this Svami).
 
-SrImad Azhagiyasingar's health deteriorated further. He ascended to Paramapadam on PramAdhi year, AvaNI month, 27th, Krshna paksha daSami tithi, Wednesday (10th September 1879). [[281]] His AsthAna nirvAka kAlam - 26 years
+SrImad Azhagiyasingar's health deteriorated further. He ascended to Paramapadam on PramAdhi year, AvaNI month, 27th, Krshna paksha daSami tithi, Wednesday (10th September 1879). [[281]] His AsthAna nirvAha kAlam - 26 years
 
 taniyan
 

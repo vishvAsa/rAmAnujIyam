@@ -9,7 +9,7 @@ Source: [TW](https://acharya.org/bk/pb/taa/pnv.pdf)
 
 Seems to be the first text to dispute Vadakalai Hagiograhies, make Wrong claims on Vedanta Desika's history etc. This is said to have many fake quotes.
 
-Author is a senior contemporary of kRShNa tAtAchArya, said to have defeated vaDakalis in debate (very doubtful considering the quality of this work).
+Author is a senior contemporary of kRShNa tAtAchArya, said to have defeated vaDakalais in debate (very doubtful considering the quality of this work).
 
 Was a text heavily cited by PB Annangarachar +++(क्व??)+++.
 
@@ -28,20 +28,20 @@ Was a text heavily cited by PB Annangarachar +++(क्व??)+++.
 > लक्ष्मिक्कु मोक्षोपायत्वञ् जॊल्लिक् कॊण्ड् इरुक्किऱार्"  
 
 ऎऩ्ऱु रहस्यत्रयजीवादुविले सॊऩ्ऩार्गळ्।  
-इन्द मुखवचनत्तिले अहोबिलमठत्तार् तॆऩ्ऩाजार्यर्गळैत् तङ्गळुक्क् आचार्यर्गळ् ऎऩ्ऱुम्,  
-वेदान्दाचार्यरैत् तङ्गळ् आचार्याऩ्ऱ् ऎऩ्ऱुङ् कॊण्डार्गळ् ऎऩ्ऱु  
-मिगवुम् वॆळियागक् काणप् पडुगिऱदु।
+इन्द मुख-वचनत्तिले अहोबिलमठत्तार् तॆऩ्ऩ्-आचार्यर्गळैत् तङ्गळुक्क् आचार्यर्गळ् ऎऩ्ऱुम्,  
+वेदान्ताचार्यरैत् तङ्गळ् आचार्याऩ्ऱ् ऎऩ्ऱुङ् कॊण्डार्गळ्  
+ऎऩ्ऱु मिगवुम् वॆळियागक् काणप् पडुगिऱदु।
 </details>
 
 <details><summary>English</summary>
 
-They have been upholding and preserving this tradition। Their introductory statement, found in the aforementioned treatise titled *Rahasyatraya Jeevathu*, is recorded as follows: 
+They have been upholding and preserving this tradition. Their introductory statement, found in the aforementioned treatise titled *Rahasyatraya Jeevathu*, is recorded as follows: 
 
 > "It is the established tradition of our *Acharyas* (spiritual preceptors) that Vishnu alone grants *Moksha* (liberation), and that His consort, Lakshmi, serves merely as an intermediary (*Purushakara*) in this process। 
 
-In contrast, the *Rahasyatraya Jeevathu* notes that *Vedantacharya* posits that Lakshmi herself serves as a means (*Upaya*) for attaining *Moksha*।" 
+In contrast, the *Rahasyatraya Jeevathu* notes that *Vedantacharya* posits that Lakshmi herself serves as a means (*Upaya*) for attaining *Moksha*." 
 
-From this introductory statement, it becomes abundantly clear that the Ahobila Matha regards the *Thennacharyas* (Southern School Acharyas) as their own spiritual preceptors, while not acknowledging *Vedantacharya* as their Acharya।
+From this introductory statement, it becomes abundantly clear that the Ahobila Matha regards the *Thennacharyas* (Southern School Acharyas) as their own spiritual preceptors, while not acknowledging *Vedantacharya* as their Acharya.
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -52,7 +52,7 @@ From this introductory statement, it becomes abundantly clear that the Ahobila M
 
 अन्ते च -
 
-> परमहंसपरिव्राजकाचार्येण भगवद्भाष्यकारन्यस्तात्मात्मीयभरेण द्राविडवेदान्ताचार्यश्रीपादपद्मरसिक श्रीशठारि योगीन्द्र श्रीपादाम्बुजभृङ्गेण श्रीमन्नारायण मुनिना सङ्गृहीते रहस्यदीपा परनामधेय रहस्यत्रयजीवातौ तृतीयः परिच्छेदः ।
+> परमहंसपरिव्राजकाचार्येण भगवद्-भाष्यकार-न्यस्तात्मात्मीयभरेण द्राविड-वेदान्ताचार्य-श्रीपादपद्मरसिक श्रीशठारि योगीन्द्र श्रीपादाम्बुजभृङ्गेण श्रीमन्नारायण मुनिना सङ्गृहीते रहस्यदीपा परनामधेय रहस्यत्रयजीवातौ तृतीयः परिच्छेदः ।
 </details>
 
 ## तिरुपताव् अर्चकायोत्कोचः - अपवादः

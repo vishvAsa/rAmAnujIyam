@@ -5,7 +5,7 @@ title = "09 SrImannArAyaNa yatIndra mahadeSikan"
 
 This Azhagiyasingar was born in the month of Ani, ArudrA nakshatram. He ascended to the AsthAnam in HeviLambi year, Marghazhi month (January 1538), PaurNami tithi. He started his sancAram from Srirangam to Tirukkudantai (Kumbakonam) and performed MangaLASAsanam of Lord ArAvamudan there. He stayed there for a while. At ArAvamudan sannidhi, he performed kaimkaryams like construction of ManTapam etc. From Tirukkudantai, he went on to Srimushnam, Tirukkovalur, Perumal Koyil (Kanchipuram), Tirumala etc., and performed his MangaLASAsanam to EmperumAns there before arriving at Ahobilam. There he stayed and was performing MangaLASAsanam to the nava Narasimhars. At Ahobilam, he constructed MaNTapams, steps etc., as kaimkaryams. On the Subhakrut Ani month (July 1542), Krishna paksha Caturti dinam, this jIyar ascended to SrI VaikuNTham.
 
-His AsthAna nirvAka kAlam - 4 years, 6 months
+His AsthAna nirvAha kAlam - 4 years, 6 months
 
 taniyan
 

@@ -11,7 +11,7 @@ The avatAram of this Azhagiyasingar took place at Thirukkudantai in the year Sid
 
 As time went by, Sri Azhagiyasingar’s heath condition deteriorated. After appointing SrI u. vE. Rangacharya SvAmi, an acclaimed scholar in VyakaraNam who lived in the north bank of HaridrAnadi at Mannargudi to administer the AsthAnam, this Azhagiyasingar ascended to Paramapadam in the year Saumya, Chittirai month, KrshnAshTami tithi, Wednesday (12 May 1909). His BrundAvanam is in SrI Nrusimhapuram.
 
-His AsthAna nirvAka kAlam - 3 years, 10 months.
+His AsthAna nirvAha kAlam - 3 years, 10 months.
 
 There are two works on this Azhagiyasingar, one named "SrInivAsa SaThakopa yatIndra mahAdeSikan gadyam", composed by Karukkuricchi Vangeepura VidvAn SrI kAryam VenkatarAmAchariyar SvAmi and the other one "VaibhavaprakASikA", by Pudukkottal dAnAdhikAri, matatraya nirUpakar VidvAn KALi Vangeepuram SrI RangachAriyar The divya mangala vigraham of this Azhagiyasingar was consecrated by 40th paTTam Azhagiyasingar.
 
