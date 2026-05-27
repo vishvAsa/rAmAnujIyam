@@ -55,7 +55,7 @@ title = "०१ आत्मसिद्धिः"
 
 May I have the highest bhakti to Sriman[F1_1] (the Consort of Sri or Lakṣmi), the Supreme Puruşa who is ever pleased by souls whose sole enjoyment is in rendering service to the Divine, and to whose will Matter (prakṛti)[F1_3], bound souls (puruşa)[F1_2], time, manifest material nature, released souls and innumerable eternally perfect souls always conform. (St. 1)
 
-[F1_1]: As the prayer is for highest form of bhakti to Sriman, it is evident that Yamunacharya considers Lord Narayana along with Lakshmi the means of salvation, even as He, in conjunction with her, is the supreme goal.
+[F1_1]: As the praयेr is for highest form of bhakti to Sriman, it is evident that Yamunacharya considers Lord Narayana along with Lakshmi the means of salvation, even as He, in conjunction with her, is the supreme goal.
 [F1_3]: Prakrti is the primordial source of the material universe. In the state of pralaya (dissolution) it is known as avyakta (the unmanifest); in the state of sarga (evolution) it is called vyakta (the manifest).
 [F1_2]: Visistadvaitism recognises three classes of jivas - baddha (the bound), mukta (the liberated) and nitya (the ever- perfect). Jainism accepts a similar classification.
 </details>
@@ -297,7 +297,7 @@ Others that it is different from body, senses, mind, vital-breath and consciousn
 </details>
 <details><summary>English</summary>
 
-Others again say that it is of the nature of pure consciousness itself, which appears to possess inauspicious qualities, such as love, hate, pleasure, pain etc., produced by the limiting condition of the internal organ, even as a crystal that is in itself white appears however, to possess redness and other qualities imparted to it by certain specific limiting conditions (say, an adjacent red flower); and that the luminosity of its being is neither born nor destroyed; and that it is selfluminous.[F2_10]
+Others again say that it is of the nature of pure consciousness itself, which appears to possess inauspicious qualities, such as love, hate, pleasure, pain etc., produced by the limiting condition of the internal organ, even as a crystal that is in itself white appears however, to possess redness and other qualities imparted to it by certain specific limiting conditions (say, an adjacent red flower); and that the luminosity of its being is neither born nor destroयेd; and that it is selfluminous.[F2_10]
 </details>
 <details><summary>मूलम्</summary>
 
@@ -435,7 +435,7 @@ that (it) is directly known only as the knower in all cognition of objects[F3_13
 </details>
 <details><summary>English</summary>
 
-that, as it possesses the nature of knowledge, its luminosity is neither born nor destroyed and that it is self-luminous.
+that, as it possesses the nature of knowledge, its luminosity is neither born nor destroयेd and that it is self-luminous.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -835,7 +835,7 @@ Similarly, others uphold the view that God possesses universal Lordship which is
 </details>
 <details><summary>English</summary>
 
-Others assert that, although He is free from limiting conditions, He is yet subject to modification.
+Others assert that, although He is free from limiting conditions, He is येt subject to modification.
 </details>
 <details><summary>मूलम्</summary>
 
@@ -858,7 +858,7 @@ Others assert that, although He is free from limiting conditions, He is yet subj
 </details>
 <details><summary>English</summary>
 
-Others favour the view that although He does not undergo modifiications, yet, on account of being reflected by the reflecting media of the diverse internal organs which are aspects of His own māyā, this intelligent being, who is one only, acquires the forms of Visva, Taijasa and Präjna.[F4_18]
+Others favour the view that although He does not undergo modifiications, येt, on account of being reflected by the reflecting media of the diverse internal organs which are aspects of His own māyā, this intelligent being, who is one only, acquires the forms of Visva, Taijasa and Präjna.[F4_18]
 </details>
 <details><summary>मूलम्</summary>
 
@@ -1535,7 +1535,7 @@ and these aphorisms (Brahma Sutras) have been interpreted by the Bhāṣyakāra[
 
 [F7_31a]: Dr. Van Buitenen in his edition of Vedartha-sangraha, p. 24. states 
 
-> '... .. Yamuna, at the beginning of his Atmasiddhi gives a list of ancient Vedantins- Strangely enough he does not mention the vrtthi by which Ramanuja set great store and which must have enjoyed great authority........But he mentions a bhasyakrt who had explained Badarayana's Sutras 'briefly and profoundly'........ This bhasyakrt is always identified with Dramida, the Bhasyakara, for which.....there are no arguments. Ramanuja declares that the vrithi was an extensive one, Yamuna that the bhasya was a brief one. 
+> '... .. Yamuna, at the beginning of his Atmasiddhi gives a list of ancient Vedantins- Strangely enough he does not mention the vrtthi by which Ramanuja set great store and which must have enjoयेd great authority........But he mentions a bhasyakrt who had explained Badarayana's Sutras 'briefly and profoundly'........ This bhasyakrt is always identified with Dramida, the Bhasyakara, for which.....there are no arguments. Ramanuja declares that the vrithi was an extensive one, Yamuna that the bhasya was a brief one. 
 > 
 > Vrtthi 'gloss scholion' is mainly distinguished from a bhasya 'commentary' by its size. a long vrtthi will be very similar to a short bhasya. As Bodhayana's omission cannot be accounted for in this context-where a sub commentary by a Srivatasankra Misra another ancient Master, is mentioned-I am inclined to think that Yamuna and Ramanuja both referred to the same work by different descriptions." 
 
@@ -1548,7 +1548,7 @@ In the same edition of Vedarthasangraha, p. 25, Dr. Van Buitenen makes the follo
 
 > Tanka's name which has the second place in Ramanuja's list does also appear in a list of Yamuna but here he has the distinction of being mentioned the first of a series of adversaries and is put on a par with Advaitins like Bhartrhari and Sankara and Dvaitadvaitins like Bhartrprapanca and Bhaskara." 
 
-Evidently, the expression sitasita (good, bad and partly good and partly bad and partly bad) occurring in the text has escaped the notice of this eminent orientalist: else he would not have drawn such a conclusion \- Yamuna's list is not made up exclusively of adversaries but it contains a few names of exponents of vedantic thouhgt some of whom have composed works which, in his opinion, are trustworthy guides to a Proper 'understanding of the nature' of the Real, others untrustworthy and yet others in part reliable and in part unreliable. Again the very mode of reference to Tanka as 'Acarya Tanka' clearly indicates the great esteem in which Yamuna holds this thinker.
+Evidently, the expression sitasita (good, bad and partly good and partly bad and partly bad) occurring in the text has escaped the notice of this eminent orientalist: else he would not have drawn such a conclusion \- Yamuna's list is not made up exclusively of adversaries but it contains a few names of exponents of vedantic thouhgt some of whom have composed works which, in his opinion, are trustworthy guides to a Proper 'understanding of the nature' of the Real, others untrustworthy and येt others in part reliable and in part unreliable. Again the very mode of reference to Tanka as 'Acarya Tanka' clearly indicates the great esteem in which Yamuna holds this thinker.
 
 </details>
 
@@ -1591,7 +1591,7 @@ Nevertheless, as the understanding of persons has been misled by faith in the va
 </details>
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-"तथापी"ति । अयं भावः यद्यपि पूर्वाचार्यप्रब्न्धेष्व् अध्यात्मतत्त्वं सपरिकरं निरूपितम् एवास्ति, अथापि पाश्चात्यैः ब्रह्ममीमांसादिव्याख्याच्छलेन नानामतानां प्रवर्तितत्वाद् आ च अप्रामाण्यहेत्ववधारणात् तद्ग्रन्थेष्व् अपि श्रद्धायाः सिद्धान्तग्रन्थेष्व् इव सम्भवात् तेषु च विप्रतिपत्तिबाहुल्येन विचलितबुद्धयो नाञ्जसा तत्त्वज्ञानं प्राप्नुयुर् इति तत्तन्मत-सारासारविवेकोपयोगि-तत्तन्मत-परीक्षात्मक-प्रकरणारम्भ आवश्यक एवेति । आचार्य-टङ्कादिषु निर्दिष्टेषु केचित् सिद्धान्तिनः, अन्ये तु मतान्तरानुयायिनः स्युः । तत्प्रबन्धेषु च सितासितत्वम् अस्फुटप्रतिपादकत्वम् अन्यथाप्रतिपादकत्वं च यथासम्भवं योज्यम् । यद्वा टङ्क-श्रीवत्साङ्काव् अपि अत्र निर्दिष्टौ मतान्तरस्थौ वाक्यविवरणकर्तृभिन्नौ स्याताम् । वाक्यकर्तुर् टङ्कसञ्ज्ञा च वेदार्थसङ्ग्रटीकातो ऽवगम्यते । "तत्प्रतिपत्तये चे"ति । केचिद् अस्फुटतयार्ऽथतत्त्वम् अवगच्छन्ति, केचित् पुनः केनापि हेतुना मतान्तरग्रन्थेषु श्रद्धालवो ऽत एव वञ्चितबुद्धयो ऽन्यथैव प्रतिपद्यन्त इति स्फुटप्रतिपत्तये ऽन्यप्रबन्धानां सितासितत्वप्रतिपत्तये च प्रकरणारम्भो युक्त एवेत्य् आशयः । पूर्वाचार्यप्रबन्धानां शास्त्ररूपाणां प्रकरणम् इदम् आत्मसिद्ध्यादीति च हार्दम् । प्रकरणं चेदं शारीरकमीमांसायाः, न्यायतत्त्वशस्त्रस्य च । शास्त्रैकदेशार्थप्रतिपादनतत्परत्वे सति शास्त्रार्थप्रतिपत्त्युपयोगि (विरोधिमतनिरासादि) कार्यान्तरव्यापृतिमत्त्वं प्रकरणत्वम् । तद् उक्तं 
+"तथापी"ति । अयं भावः यद्यपि पूर्वाचार्यप्रब्न्धेष्व् अध्यात्मतत्त्वं सपरिकरं निरूपितम् एवास्ति, अथापि पाश्चात्यैः ब्रह्ममीमांसादिव्याख्याच्छलेन नानामतानां प्रवर्तितत्वाद् आ च अप्रामाण्यहेत्ववधारणात् तद्ग्रन्थेष्व् अपि श्रद्धायाः सिद्धान्तग्रन्थेष्व् इव सम्भवात् तेषु च विप्रतिपत्तिबाहुल्येन विचलितबुद्धयो नाञ्जसा तत्त्वज्ञानं प्राप्नुयुर् इति तत्तन्मत-सारासारविवेकोपयोगि-तत्तन्मत-परीक्षात्मक-प्रकरणारम्भ आवश्यक एवेति । आचार्य-टङ्कादिषु निर्दिष्टेषु केचित् सिद्धान्तिनः, अन्ये तु मतान्तरानुयायिनः स्युः । तत्प्रबन्धेषु च सितासितत्वम् अस्फुटप्रतिपादकत्वम् अन्यथाप्रतिपादकत्वं च यथासम्भवं योज्यम् । यद्वा टङ्क-श्रीवत्साङ्काव् अपि अत्र निर्दिष्टौ मतान्तरस्थौ वाक्यविवरणकर्तृभिन्नौ स्याताम् । वाक्यकर्तुर् टङ्कसञ्ज्ञा च वेदार्थसङ्ग्रटीकातो ऽवगम्यते । "तत्प्रतिपत्तये चे"ति । केचिद् अस्फुटतयाऽर्थतत्त्वम् अवगच्छन्ति, केचित् पुनः केनापि हेतुना मतान्तरग्रन्थेषु श्रद्धालवो ऽत एव वञ्चितबुद्धयो ऽन्यथैव प्रतिपद्यन्त इति स्फुटप्रतिपत्तये ऽन्यप्रबन्धानां सितासितत्वप्रतिपत्तये च प्रकरणारम्भो युक्त एवेत्य् आशयः । पूर्वाचार्यप्रबन्धानां शास्त्ररूपाणां प्रकरणम् इदम् आत्मसिद्ध्यादीति च हार्दम् । प्रकरणं चेदं शारीरकमीमांसायाः, न्यायतत्त्वशस्त्रस्य च । शास्त्रैकदेशार्थप्रतिपादनतत्परत्वे सति शास्त्रार्थप्रतिपत्त्युपयोगि (विरोधिमतनिरासादि) कार्यान्तरव्यापृतिमत्त्वं प्रकरणत्वम् । तद् उक्तं 
 
 > "शास्त्रैक-देश-सम्बद्धं  
 शास्त्रकार्यान्तरे स्थितम् ।  
@@ -3208,7 +3208,7 @@ take this body which exists for the sake of others, for the reason of its being 
 
 <details><summary>English</summary>
 
-We directly perceive that the entire collection of internal and external objects of experience, such as sound and pleasure, exist for the sake of the self; while the self, the enjoyer, does not exist for the sake of others; but is the one object for whose glory and service everything else exists.
+We directly perceive that the entire collection of internal and external objects of experience, such as sound and pleasure, exist for the sake of the self; while the self, the enjoयेr, does not exist for the sake of others; but is the one object for whose glory and service everything else exists.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3390,7 +3390,7 @@ But where an end is possible, an unending chain is undesirable.
 
 <details><summary>English</summary>
 
-Moreover, when a collection exists for the sake of something else, it is not because that other itself is a collection. It is only in virtue of his nature as enjoyer the self becomes that other for whose sake all collections exist.
+Moreover, when a collection exists for the sake of something else, it is not because that other itself is a collection. It is only in virtue of his nature as enjoयेr the self becomes that other for whose sake all collections exist.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4292,7 +4292,7 @@ Otherwise, (if they were known as 'this') they, like the body, may be excluded f
 
 <details><summary>मूलम्</summary>
 
-न च तानीदन्तया प्रथन्ते, yeन देहवदहङ्कारगोचराद्बहिष्क्रियेरन् ।
+न च तानीदन्तया प्रथन्ते, येन देहवदहङ्कारगोचराद्बहिष्क्रियेरन् ।
 </details>
 
 
@@ -4315,7 +4315,7 @@ Unlike the body, the senses possess neither visible colour and other qualities n
 
 <details><summary>मूलम्</summary>
 
-नापि तथोद्भूतरूपादिगुणानि, स्थूलानि; yeन तत्प्रतिभास इवेन्द्रियगोचरत्वेऽहंप्रत्ययस्य रूपावयवादिप्रतीतिः प्रसज्येत ।
+नापि तथोद्भूतरूपादिगुणानि, स्थूलानि; येन तत्प्रतिभास इवेन्द्रियगोचरत्वेऽहंप्रत्ययस्य रूपावयवादिप्रतीतिः प्रसज्येत ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4349,7 +4349,7 @@ Knowledge which is the result of their activity, like [[P18]] the results of bat
 
 <details><summary>English</summary>
 
-That is why Satyatapas speaks of the seeing eye.[F18_35]
+That is why Satyatapas speaks of the seeing eये.[F18_35]
 </details>
 
 <details><summary>English - Note</summary>
@@ -4367,11 +4367,11 @@ he would be guilty of the heinous sin of betraying one who had taken refuge;
 if he withheld the information, he would be responsible for the death of the hunter and his dependents.  
 After a moment's reflection, Satyatapas replied,  
 
-> 'Animals are endowed with eyes to see and tongue to speak.  
-The eye that sees  
+> 'Animals are endowed with eयेs to see and tongue to speak.  
+The eये that sees  
 has no tongue to report on what it perceives;  
 the tongue that speaks  
-has no eye to see.  
+has no eये to see.  
 Wherefore do you ask me ?' 
 
 Struck by the ingenuity of his speech,  
@@ -4798,7 +4798,7 @@ The refutation of this doctrine
 
 <details><summary>English</summary>
 
-20. This theory (that manas is the soul) too is erroneous, because manas is an instrument like the eye, etc.
+20. This theory (that manas is the soul) too is erroneous, because manas is an instrument like the eये, etc.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5007,7 +5007,7 @@ Moreover, if it is maintained that manas, which is an agent, acquires, the chara
 
 <details><summary>English</summary>
 
-He alone is called the soul who perceives colour etc., with (external senses such as) eyes etc., and (who experiences) pleasure, etc., with the aid of the internal organ
+He alone is called the soul who perceives colour etc., with (external senses such as) eयेs etc., and (who experiences) pleasure, etc., with the aid of the internal organ
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6175,7 +6175,7 @@ It may be argued that this scriptural passage does not seek to teach the fact of
 
 <details><summary>English</summary>
 
-Indeed, in the eighth chapter of the same Upanisad this fact has been stated thus: 'Perceiving with the aid of manas the object of his desires, (he) rejoices'[F24_43]; 'To this person, the manas is the celestial eye.'
+Indeed, in the eighth chapter of the same Upanisad this fact has been stated thus: 'Perceiving with the aid of manas the object of his desires, (he) rejoices'[F24_43]; 'To this person, the manas is the celestial eये.'
 </details>
 
 <details><summary>English - Notes</summary>
@@ -7084,7 +7084,7 @@ is not apprehended even by keen observers.
 
 <details><summary>मूलम्</summary>
 
-ज्ञानव्यतिरेकिणोर्ऽथधर्मस्य प्रकाशस्य निपुणमपि निरीक्षमाणानां रूपादिवदनुपलब्धेः ।
+ज्ञानव्यतिरेकिणोऽर्थधर्मस्य प्रकाशस्य निपुणमपि निरीक्षमाणानां रूपादिवदनुपलब्धेः ।
 </details>
 
 
@@ -8037,7 +8037,7 @@ Here one may point out that consciousness is not non-eternal, for, its anteceden
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अत्र नित्यात्म-वादिना केनचिद् उक्तं संविद आगमापायित्वादिकम् अमृष्यमाणो ऽद्वैती प्रत्य् अवतिष्ठते । तद् उच्यते **कश्चिद्** **आहे**ति ।
 </details>
@@ -8091,7 +8091,8 @@ That which manifests, by itself, its own non-existence must do so either by bein
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्त्वे ऽभाव एव नास्तीति कथं साधयेत्? ।
+सत्त्वे ऽभाव एव नास्तीति  
+कथं साधयेत् +++(प्राग्-अभावम्)+++?
 </details>
 
 <details><summary>English</summary>
@@ -8101,14 +8102,14 @@ If it (consciousness) exists, as there will be no non-existence, how can it esta
 
 <details><summary>मूलम्</summary>
 
-सत्त्वेऽभावेव नास्तीति कथं साधयेत्? ।
+सत्त्वेऽभावेव नास्तीति कथं साधयेत्?
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असत्त्वाद् एव  
+अ-सत्त्वाद् एव  
 साधकस्य पक्षान्तरे नतरां साधकत्वम् इति  
-न स्वतः तावत् तत्-सिद्धिः ।
+न स्वतस् तावत् तत्+++(→प्राग्-अभाव)+++-सिद्धिः ।
 </details>
 
 <details><summary>English</summary>
@@ -8122,14 +8123,15 @@ On the other alternative (if consciousness is non-existent), by reason of its ve
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 स्वस्यासत्त्वे ग्राहकाभावात् स्वस्य स्वत्त्वे ग्राह्याभावाच्च न स्वतः संविदः प्राग-भाव-ग्रहः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाप्य् अन्यतः ; [[अनन्यगोचरत्वादनु भूतेः|अनन्य-गोचरत्वाद् अनुभूतेः]] ।
+नाप्य् अन्यतः ;  
+अनन्य-गोचरत्वाद् अनुभूतेः,
 </details>
 
 <details><summary>English</summary>
@@ -8143,14 +8145,15 @@ Nor is it proved by another, for, consciousness cannot be the object of anything
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 संविदो ज्ञानान्तरागोचरत्वेनान्यज्ञानतस् तज्-ज्ञान-प्राग-भाव-ग्रहो ऽपि न सम्भवति । ज्ञानविषयीकारम् अन्तरा तद्-उपरक्त-प्राग-भाव-ग्रहणायोगात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुभाव्यत्वे च घटादिवद् अननुभूतित्व-प्रसङ्गात् ।
++++(अन्यैर्)+++ अनुभाव्यत्वे च  
+घटादिवद् अन्-अनुभूतित्व-प्रसङ्गात् ।
 </details>
 
 <details><summary>English</summary>
@@ -8164,11 +8167,12 @@ If it were the object of consciousness, it would, like the pot, etc., cease to b
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 ज्ञानान्तर-गोचरत्वे च घटादिवज् जडत्व-प्रसङ्गात् । तत्-प्रमाणाभावात् प्राग-भावः संविदो नास्तीति भावः ।
 </details>
 
+##### नित्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः सा न जायते ।
@@ -8185,24 +8189,25 @@ Therefore, (that is, as the antecedent non-existence of consciousness is not est
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **अत** इति । प्राग-भावाभावाद उत्पत्तिर् नास्ति संविदः । प्राग-भावस्याप्यु उत्पादकान्तर्गतत्वाद इत्य् अर्थः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जन्माभावाद् एवेतरे ऽपि भाव-विकाराः निराकार्याः, तत्-प्रतिबद्धत्वात् तेषाम् ।
+जन्माभावाद् एवेतरे ऽपि +++(अस्तित्व-वृद्धि-परिणामापक्षय-विनाशाः→)+++ भाव-विकाराः निराकार्याः,  
+तत्+++(→जन्माभाव)+++-प्रतिबद्धत्वात् तेषाम् ।
 </details>
 
 <details><summary>English</summary>
 
-And, as it has no origination, other positive changes have also to be denied.[^32_55] For, they are concomitant therewith (origination).
+And, as it has no origination, other positive changes have also to be denied.[F32_55] For, they are concomitant therewith (origination).
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^32_55]: Bhāvavikāra may also be taken to mean changes of positive entities. See [[Brutaprakasikā|Śrutaprakāśikā]], 181-2.
+[F32_55]: Bhāvavikāra may also be taken to mean changes of positive entities. See Śrutaprakāśikā, 181-2.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8211,19 +8216,22 @@ And, as it has no origination, other positive changes have also to be denied.[^3
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**जन्माभावा**द् इति । इतरे भाव-विकाराः अस्तित्व-वृद्धि-परिणामापक्षय-विनाशाः । अस्तित्वम् अत्र [[स्वोपा दानावच्छिन्नस्थितिलक्षणम्|स्वोपादनावच्छिन्न-स्थिति-लक्षणम्]] । [[उत्पत्तिप्रतिबद्धत्वातु\nत्पत्तिव्याप्यत्वात्|उत्पत्ति-प्रतिबद्धत्वाद् उत्पत्ति-व्याप्यत्वात्]] । व्यापक-निवृत्त्या व्याप्य-निवृत्तिर् इति भावः ।
+**जन्माभावा**द् इति । इतरे भाव-विकाराः अस्तित्व-वृद्धि-परिणामापक्षय-विनाशाः । अस्तित्वम् अत्र स्वोपादानावच्छिन्न-स्थिति-लक्षणम् । उत्पत्ति-प्रतिबद्धत्वाद् उत्पत्ति-व्याप्यत्वात् ।  
+व्यापक-निवृत्त्या व्याप्य-निवृत्तिर् इति भावः ।
 </details>
 
+##### निर्विशेषता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव नानात्वम् अपि संविदि प्रत्य्-उक्तं ; उत्पत्तिमत्त्व-व्यापक-निवृत्त्या तद्-व्याप्य-भूत-नानात्वस्यापि निवृत्ति-सिद्धेः ।
+अत एव नानात्वम् अपि संविदि प्रत्य्-उक्तं ;  
+उत्पत्तिमत्त्व-व्यापक-निवृत्त्या तद्-व्याप्य-भूत-नानात्वस्यापि निवृत्ति-सिद्धेः ।
 </details>
 
 <details><summary>English</summary>
 
-[[That why|That is why]] plurality of consciousnesses is also to be denied. The absence of the pervader (vyāpaka), namely, the character of having an origination, involves also the denial of what is pervaded by it (vyapya), namely, plurality.
+That is why plurality of consciousnesses is also to be denied. The absence of the pervader (vyāpaka), namely, the character of having an origination, involves also the denial of what is pervaded by it (vyapya), namely, plurality.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8232,14 +8240,14 @@ And, as it has no origination, other positive changes have also to be denied.[^3
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **अत एवे**ति । उत्पत्त्य् अभावाद् एव सजातीय-संविद्-भेद-लक्षणं नानात्वम् अपि निरस्तम् इत्य् अर्थः । **उत्पत्तिमत्त्व-व्यापके**ति । कर्मधारयो ऽयम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नह्य् अजं विभाग्यस्ति ।
+न ह्य् अजं विभाग्य् अस्ति ।
 </details>
 
 <details><summary>English</summary>
@@ -8253,14 +8261,16 @@ For, what is unborn cannot possess differentiations.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-[[विभागिनाना|विभागि नाना]], भिन्नम् । अत्र संविन् न नाना, नापि विकार-वती, अजत्वाद् यन् नैवम् [[तन्नेवं|तन् नैवम्]] यथा घट इति व्यतिरेकि-प्रयोगः ।
+विभागि नाना, भिन्नम् । अत्र संविन् न नाना, नापि विकार-वती, अजत्वाद् यन् नैवम् तन् नैवम् यथा घट इति व्यतिरेकि-प्रयोगः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चेत्यत्वात् च भेदेतरेतराभावादयो न तद्-धर्माः, रूपादिवत् ।
++++(भेदादीनां)+++ चेत्यत्वाच् च  
+भेद-+इतरेतराभावादयो न तद्-धर्माः,  
+रूपादिवत् ।
 </details>
 
 <details><summary>English</summary>
@@ -8274,9 +8284,9 @@ Moreover, because differentia, mutual non-existence and the like are objects of 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-संविदि भेदादि-निषेधे धर्म-पक्षकम् अन्वयि च प्रदर्शयति चेत्यत्वाच् चेति । भेदादयो न संविदि अनुभाव्यत्वाद् रूपादिवत् । अत्र भेद-पदं विकारात्मकोत्पत्त्य् आद्य् अवस्था-भेद-परं प्रकरणात् । [[इतरेतराभावःसजातीयभेदः|इतरेतराभावः सजातीय-भेदः]] । [[विजातीयस्वागतभेदावादिपदग्राह्यौ|विजातीय-स्वगत-भेदाव् आदि-पद-ग्राह्यौ]] । यद्वा भेदो विजातीय-भेदः । इतरेतराभावो यथोक्त-रूपः । [[आदिपदग्राह्याःउत्पत्त्याद्यवस्थाः|आदि-पद-ग्राह्याः उत्पत्त्य्-आद्य्-अवस्थाः]] स्वगत-भेदाश् च ।
+संविदि भेदादि-निषेधे धर्म-पक्षकम् अन्वयि च प्रदर्शयति चेत्यत्वाच् चेति । भेदादयो न संविदि अनुभाव्यत्वाद् रूपादिवत् । अत्र भेद-पदं विकारात्मकोत्पत्त्य् आद्य् अवस्था-भेद-परं प्रकरणात् । इतरेतराभावः सजातीय-भेदः । विजातीय-स्वगत-भेदाव् आदि-पद-ग्राह्यौ । यद्वा भेदो विजातीय-भेदः । इतरेतराभावो यथोक्त-रूपः । आदि-पद-ग्राह्याः उत्पत्त्य्-आद्य्-अवस्थाः स्वगत-भेदाश् च ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8286,12 +8296,12 @@ Moreover, because differentia, mutual non-existence and the like are objects of 
 
 <details><summary>English</summary>
 
-Therefore, nothing that is an object of consciousness can be its attribute.[^32_56]
+Therefore, nothing that is an object of consciousness can be its attribute.[F32_56]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^32_56]: The reading in the Benares and Telugu editions is *anumeyaḥ*.
+[F32_56]: The reading in the Benares and Telugu editions is *anumeyaḥ*.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8299,9 +8309,11 @@ Therefore, nothing that is an object of consciousness can be its attribute.[^32_
 अतोऽस्या न मेयः कश्चिदपि धर्मोऽस्ति ।
 </details>
 
+##### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो निर्धूत-निखिल-भेद-विकल्प-निर्धर्म-प्रकाश-मात्रैकरसा कूटस्थ-नित्या संविद् [[एवाऽत्मा|एवात्मा]] परमात्मा च ।
+अतो निर्धूत-निखिल-भेद-विकल्प-- निर्धर्म-प्रकाश-मात्रैक-रसा  
+कूटस्थ-नित्या संविद् एवात्मा परमात्मा च ।
 </details>
 
 <details><summary>English</summary>
@@ -8315,14 +8327,15 @@ Therefore, consciousness alone, which is devoid of all kinds of differences and 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 एतन्मतं क्रोडीकरोति **अत** इति । निरस्त-निखिल-भेदासत्त्व-प्रकाशत्वादि-धर्म-रहिता प्रकाशैक-स्वरूपा संविद् एवाविकार-नित्या परमात्मा जीवात्मा च । जीव-भेदो ऽपि कल्पित इति भावः ।
 </details>
 
+##### शब्द-प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[यथाऽह|यथाह]] **यानुभूतिर् अजामेयानन्तात्मा** इति ।
+यथाऽह **या ऽनुभूतिर् अजा ऽमेया ऽनन्तात्मा** इति ।
 </details>
 
 <details><summary>English</summary>
@@ -8336,14 +8349,17 @@ It has, for instance, been said 'that consciousness which is unborn, un-knowable
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-उक्तार्थे संवादम् उदाहरति **यानुभूति**र् इति । अजत्वम् अनुत्पत्ति-मत्त्वम् । अमेयत्वञ् ज्ञानागोचर-त्वम् । [[अनन्तत्वंविनाशराहित्यम्|अनन्त-त्वं विनाश-राहित्यम्]] । आत्मत्वञ् जीवात्म-परमात्म-रूप-त्वम् । निरुक्त-रूपैका संविद् एव सर्वव्यापिका परमात्म-रूपोपाधि-भेदेन नाना-जीवात्म-रूपा चेति भावः ।
+उक्तार्थे संवादम् उदाहरति **यानुभूति**र् इति । अजत्वम् अनुत्पत्ति-मत्त्वम् । अमेयत्वञ् ज्ञानागोचर-त्वम् । अनन्तत्वं विनाश-राहित्यम् । आत्मत्वञ् जीवात्म-परमात्म-रूप-त्वम् । निरुक्त-रूपैका संविद् एव सर्वव्यापिका परमात्म-रूपोपाधि-भेदेन नाना-जीवात्म-रूपा चेति भावः ।
 </details>
 
+###### भाष्यादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सैव च वेदान्त-वाक्य-तात्पर्य-भूमिर् इति तेषां भाषा ।
+> सैव च वेदान्त-वाक्य-तात्पर्य-भूमिर् 
+
+इति तेषां भाषा ।
 </details>
 
 <details><summary>English</summary>
@@ -8357,14 +8373,14 @@ Their technical jargon (has it) that (consciousness) alone is the ultimate purpo
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **सैव चे**ति । न वाच्य-शक्तयेयं वेदान्तेषु प्रतिपाद्यते । अवाच्यैव सती तात्पर्य-वृत्त्या तेषु गम्यत इत्य् अर्थः । भाषा-परिभाषा, सङ्केत इति यावत् । सङ्केत-बलाद् एव श्रद्धेयत्वम् एतन्-मतस्येति हार्दम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[यथाऽह|यथाह]] तद्-वार्तिककारः
+यथाऽऽह तद्-वार्तिक-कारः +++(सुरेश्वरः)+++
 </details>
 
 <details><summary>English</summary>
@@ -8378,50 +8394,58 @@ The Vārtikakāra, for instance, says that
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 वेदान्तानाम् एवम्-भूतायां संविद्य् एव तात्पर्यम् अद्वैत-वार्तिककार-वचनेन संवादयति **पराग्-अर्थे**ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**परागर्थ-प्रमेयेषु या फलत्वेन सम्मता । संवित्सैवैह मेयोर्ऽथो वेदान्तोक्ति-प्रमाणतः ॥**
+> पराग्-अर्थ-प्रमेयेषु  
+या फलत्वेन **सम्मता** ।  
+संवित्-सैवेह मेयो ऽर्थो  
+वेदान्तोक्ति-प्रमाणतः ॥
 </details>
 
 <details><summary>English</summary>
 
-**"consciousness alone, which is supposed to be the result of those means of knowledge that have external things for their objects (i. e., perception, inference, etc.), is the gist of upaniṣadic texts.[^32_57]"**
+**"consciousness alone, which is supposed to be the result of those means of knowledge that have external things for their objects (i. e., perception, inference, etc.), is the gist of upaniṣadic texts.[F32_57]"**
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^32_57]: Suresvara (A.D. 800) is the [[Vrātikakāra|Vārtikakāra]] here referred to. His chief works are the [[Maiskarmya Siddhi|Naiṣkarmyasiddhi]] and [[Brhadaranyakɔpanisad*-*Bhāṣya-Vartika|Bṛhadāraṇyakopaniṣad-Bhāṣya-Vārtika]]. The latter work has been [[com nented|commented]] on by Anandagiri in his Sastraprakasika and by Anandapurna in his [[Nyā*,*akalpa latikā|Nyāyakalpalatikā]].
+[F32_57]: Suresvara (A.D. 800) is the Vārtikakāra here referred to. His chief works are the Naiṣkarmyasiddhi and Bṛhadāraṇyakopaniṣad-Bhāṣya-Vārtika. The latter work has been commented on by Anandagiri in his Sastraprakasika and by Anandapurna in his Nyāyakalpalatikā.
 </details>
 
 <details><summary>मूलम्</summary>
 
-**परागर्थप्रमेयेषु या फलत्वेन सम्मता । संवित्सैवैह मेयोर्ऽथो वेदान्तोक्तिप्रमाणतः ॥**
+**परागर्थप्रमेयेषु या फलत्वेन सम्मता । संवित्सैवेह मेयोऽर्थो वेदान्तोक्तिप्रमाणतः ॥**
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-घट-पटादिषु पराग्-अर्थेषु या [[प्रमाणजन्याम् इति #ः|प्रमाण-जन्या मितिः]] फल-रूपेष्यते तान्त्रिकैः सैव मितिर् वेदान्तेषु प्रमेय-भूता ।
+घट-पटादिषु पराग्-अर्थेषु  
+या प्रमाण-जन्या मितिः फल-रूपेष्यते तान्त्रिकैः  
+सैव मितिर् वेदान्तेषु प्रमेय-भूता ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**अप्रामाण्य-प्रसक्तिश् च स्याद् इतो ऽन्यार्थ-कल्पने । वेदान्तानाम् अतस् तस्मान् नान्यम् अर्थं प्रकल्पयेत्**
+> अप्रामाण्य-प्रसक्तिश् च  
+स्याद् इतो ऽन्यार्थ-कल्पने ।  
+वेदान्तानाम् अतस् तस्मान्  
+नान्यम् अर्थं प्रकल्पयेत्॥
 </details>
 
 <details><summary>English</summary>
 
-**"If something other than this (consciousness) were postulated (to be the object of perception, and other pramāṇas), there would result the non-authoritativeness of the Vedanta [[P33]] texts; and hence something other than consciousness ought not to be postulated.[^33_58]"**
+**"If something other than this (consciousness) were postulated (to be the object of perception, and other pramāṇas), there would result the non-authoritativeness of the Vedanta [[P33]] texts; and hence something other than consciousness ought not to be postulated.[F33_58]"**
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^33_58]: This translation of these two verses (159th and 160th) from the [[Brhada rapyakopanisad-bhāṣya-Vārtika|Bṛhadāraṇyakopaniṣad-Bhāṣya-Vārtika]] is based on Anandagiri's commentary. According to him the first verse means that granting that pratyakṣa and other [[pramaņās|pramāṇas]] have [[extermal|external]] things for their objects, still their result, viz. consciousness, is the gist of the [[vedantic|Vedantic]] texts. The second verse states that the [[pramapas|pramāṇas]] cannot have external things [[at|as]] their objects, for; otherwise the [[vedantic|Vedantic]] texts would lose their authoritativeness, inasmuch as they would be powerless to establish differenceless Brahman. Hence, the [[pramāņas|pramāṇas]] cannot have for their object anything other than [[vedantic|Vedantic]] teaching, namely, consciousness. See [[Brahadaranyakopanisad-bhasya vārtika|Bṛhadāraṇyakopaniṣad-Bhāṣya-Vārtika]], Anandasrama Series, p. 51.
+[F33_58]: This translation of these two verses (159th and 160th) from the Bṛhadāraṇyakopaniṣad-Bhāṣya-Vārtika is based on Anandagiri's commentary. According to him the first verse means that granting that pratyakṣa and other pramāṇas have external things for their objects, still their result, viz. consciousness, is the gist of the Vedantic texts. The second verse states that the pramāṇas cannot have external things as their objects, for; otherwise the Vedantic texts would lose their authoritativeness, inasmuch as they would be powerless to establish differenceless Brahman. Hence, the pramāṇas cannot have for their object anything other than Vedantic teaching, namely, consciousness. See Bṛhadāraṇyakopaniṣad-Bhāṣya-Vārtika, Anandasrama Series, p. 51.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8430,7 +8454,7 @@ The Vārtikakāra, for instance, says that
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 इतो ऽन्यस्मिन् पराग्-अर्थे तात्पर्य-कल्पने च वेदान्तानाम् अ-प्रामाण्यम् एव स्यात् । पराग्-अर्थस्यासत्यत्वाद इति श्लोक-द्वयार्थः । निर्विशेष-नित्य-चैतन्य-मात्रस्यैव तत्तत्-प्रमाणाधीनान्तः-करण-वृत्ति-प्रतिबिम्बिततया तत्तद्-वृत्त्य्-अवच्छिन्नतया वा तत्तद्-अर्थ-प्रकाशकत्वात् प्रमाण-फल-त्वोपचार इति बोध्यम् ।
 </details>
@@ -8450,7 +8474,7 @@ Thus.
 <details><summary>मूलम्</summary>
 
 इति ॥  
-(इति निर्विशेषनित्यविज्ञानात्मत्वमतोपपादनप्रकरणम्)
+(इति निर्विशेष-नित्य-विज्ञानात्मत्व- मतोपपादन-प्रकरणम्॥)
 </details>
 
 
@@ -8464,7 +8488,8 @@ This is opposed to experience:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् इदम् अलौकिकम् अवैदिकं च दर्शनम् इत्य् आत्म-विदः ।
+तद् इदम् अलौकिकम् अवैदिकं च दर्शनम्  
+इत्य् आत्म-विदः ।
 </details>
 
 <details><summary>English</summary>
@@ -8481,7 +8506,7 @@ Those who have understood (the true nature of) the self (assert) that this doctr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[तथाहिसंविदिति|तथाहि संविदिति]] स्वाश्रयं प्रति सत्तयैव कस्यचित् प्रकाशन-शीलो ज्ञानावगत्य्-अनुभूत्यादि-पद-पर्याय-नामा स-कर्मकः संवेदितुर् आत्मनो धर्मः प्रसिद्धः ।
+तथा हि संविद् इति स्वाश्रयं प्रति सत्तयैव कस्यचित् प्रकाशन-शीलो ज्ञानावगत्य्-अनुभूत्यादि-पद-पर्याय-नामा स-कर्मकः संवेदितुर् आत्मनो धर्मः प्रसिद्धः ।
 </details>
 
 <details><summary>English</summary>
@@ -8496,7 +8521,7 @@ To explain further-what is termed consciousness is well-known to possess the cha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथैव हि सर्व-प्राणभृत्-प्रत्य्-आत्म-सिद्धो ऽयम् अनुभवः [[ऽअहमिदं संवेद्मीऽति|"अहम् इदं संवेद्मि" इति]] ।
+तथैव हि सर्व-प्राणभृत्-प्रत्य्-आत्म-सिद्धो ऽयम् अनुभवः "अहम् इदं संवेद्मि" इति ।
 </details>
 
 <details><summary>English</summary>
@@ -8571,7 +8596,7 @@ but (as a matter of fact) it is not remembered.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव हि [[हिऽइयन्तं कालं न किञ्चिदहमज्ञासिषऽमिति|"इयन्तं कालं न किञ्चिद् अहम् अज्ञासिषम्" इति]] प्रबुद्धः प्रत्य्-अवमृशति ।
+अत एव हि "इयन्तं कालं न किञ्चिद् अहम् अज्ञासिषम्" इति प्रबुद्धः प्रत्य्-अवमृशति ।
 </details>
 
 <details><summary>English</summary>
@@ -8651,7 +8676,7 @@ Even if there be the manifestation of these three (consciousness, objects and se
 
 <details><summary>English</summary>
 
-Again, the object referred to by 'I,' [[Whisch|Which]] secures permanency on the strength of recollection, cannot be said to meet with death in deep sleep and other similar states.
+Again, the object referred to by 'I,' Which secures permanency on the strength of recollection, cannot be said to meet with death in deep sleep and other similar states.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8661,7 +8686,7 @@ Again, the object referred to by 'I,' [[Whisch|Which]] secures permanency on the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव हि [[हिऽइयन्तं कालमहस्वाप्सऽमिति|"इयन्तं कालम् अहस्वाप्सम्" इति]] प्रबोधे परामर्शः ।
+अत एव हि "इयन्तं कालम् अहं स्वाप्सम्" इति प्रबोधे परामर्शः ।
 </details>
 
 <details><summary>English</summary>
@@ -8696,12 +8721,12 @@ Moreover, something known as consciousness (samvid) which is devoid of objects a
 
 <details><summary>English</summary>
 
-Those who have understood the true import of words maintain that the words samvid, anubhūti, jnāna, prakāśa and the like are relative terms.[^34_59]
+Those who have understood the true import of words maintain that the words samvid, anubhūti, jnāna, prakāśa and the like are relative terms.[F34_59]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^34_59]: A relative term depends for its meaning on its relation to some other name.
+[F34_59]: A relative term depends for its meaning on its relation to some other name.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8743,7 +8768,7 @@ It was maintained that from consciousness its antecedent non-existence cannot be
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि [[संविदास्वकालवर्तिन|संविदा स्वकालवर्तिनः]] एवार्थाः सिद्ध्यन्तीत्य् अस्ति नियमः ।
+न हि संविदा स्वकालवर्तिनः एवार्थाः सिद्ध्यन्तीत्य् अस्ति नियमः ।
 </details>
 
 <details><summary>English</summary>
@@ -8868,7 +8893,7 @@ For the same reason, the following (contention) also stands condemned.
 
 <details><summary>English</summary>
 
-If the means of knowledge is real on its own right, inasmuch as it is self-luminous, it must exist at all times; therefore, its object too must exist at all times; for, the means of knowledge is always associated with the [[bject|object]] of knowledge.
+If the means of knowledge is real on its own right, inasmuch as it is self-luminous, it must exist at all times; therefore, its object too must exist at all times; for, the means of knowledge is always associated with the object of knowledge.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8878,7 +8903,7 @@ If the means of knowledge is real on its own right, inasmuch as it is self-lumin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि मानस्य स्व-सत्ता-काले [[कालेर्ऽथाविनाभावो|कालेऽर्थाविनाभावो]] मेय-योगः ।
+न हि मानस्य स्व-सत्ता-काले कालेऽर्थाविनाभावो मेय-योगः ।
 </details>
 
 <details><summary>English</summary>
@@ -8888,7 +8913,7 @@ For, the association of means of knowledge with objects of knowledge does not co
 
 <details><summary>मूलम्</summary>
 
-नही मानस्य स्वसत्ताकालेर्ऽथाविनाभावो मेययोगः ।
+नही मानस्य स्वसत्ताकालेऽर्थाविनाभावो मेययोगः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8908,7 +8933,7 @@ but it consists in the negation of the unreality of that particular form of thin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव "स्मृतिर् न बाह्य-विषया, नष्टे ऽप्य् अर्थे स्मृति-दर्शनाद्" [[स्मृतिदर्शनाऽदित्यपि|इत्य् अपि]] प्रलापः ।
+अत एव "स्मृतिर् न बाह्य-विषया, नष्टे ऽप्य् अर्थे स्मृति-दर्शनाद्" इत्य् अपि प्रलापः ।
 </details>
 
 <details><summary>English</summary>
@@ -8960,7 +8985,7 @@ and that it cannot be established by other means of knowledge, since there are n
 
 <details><summary>English</summary>
 
-If this [[wore|were]] so, the character of being self-established would not prove the absence of antecedent non-existence;
+If this were so, the character of being self-established would not prove the absence of antecedent non-existence;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9075,7 +9100,7 @@ And it has already been said that a pure consciousness, which is devoid of the d
 नच प्रत्यक्षानुमानादिभेदशून्या निर्विषया निराश्रया धीः सम्भवतीत्युक्तमेव ।
 </details>
 
-### This contention that consciousness cannot be proved by anything other than [[consiousness|consciousness]] is disproved :-
+### This contention that consciousness cannot be proved by anything other than consciousness is disproved :-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9109,7 +9134,7 @@ for (one's own) previous knowledge is made the object of present cognition, as i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[प्रतिकूलानुविषय|प्रतिकूलानुकूल-विषय]]-नियत-हानोपादानादि-लिङ्गावगम्यत्वात् च पर-संविदः ।
+प्रतिकूलानुकूल-विषय-नियत-हानोपादानादि-लिङ्गावगम्यत्वात् च पर-संविदः ।
 </details>
 
 <details><summary>English</summary>
@@ -9124,17 +9149,17 @@ Besides, the consciousness of other persons is inferred from reasons (linga) suc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-अनभ्युपगमे च शब्दार्थ-ग्रहणासम्भवेन [[वैदिकलौकिक समस्तव्यवहाराभावप्रसङ्गः|वैदिकलौकिकसमस्तव्यवहाराभावप्रसङ्गः]] ।
+तद्-अनभ्युपगमे च शब्दार्थ-ग्रहणासम्भवेन वैदिकलौकिकसमस्तव्यवहाराभावप्रसङ्गः ।
 </details>
 
 <details><summary>English</summary>
 
-And, if it is not admitted that the consciousness of others Is inferred, there would result the impossibility of all scriptural and worldly usage, in as much as it would be impossible to grasp the meanings of words.[^36_60]
+And, if it is not admitted that the consciousness of others Is inferred, there would result the impossibility of all scriptural and worldly usage, in as much as it would be impossible to grasp the meanings of words.[F36_60]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^36_60]: The meanings of words may be understood from vyavahāra. Thus, for example, a youngster notices the pupil fetching a cow when his master utters the words 'Fetch the cow', and immediately concludes that the action of fetching the cow was the result of the pupil grasping the desire of the master when he uttered the words 'fetch the cow. At that time, he takes the words in one mass as conyeying one complex whole of meaning. Which word in that whole stands for the animal, and which signifies the action is not apprehended then. Later, when the teacher says "fetch the horse', a different animal is brought. Again, when he says 'tie up the cow', a different action follows. By observing varied actions resulting from the different utterances, the youngster understands that the word 'cow*'* denotes an animal of a certain description, that the word 'horse' an animal of another kind, the word 'bring' denotes the action of bringing, and so on:
+[F36_60]: The meanings of words may be understood from vyavahāra. Thus, for example, a youngster notices the pupil fetching a cow when his master utters the words 'Fetch the cow', and immediately concludes that the action of fetching the cow was the result of the pupil grasping the desire of the master when he uttered the words 'fetch the cow. At that time, he takes the words in one mass as conयेying one complex whole of meaning. Which word in that whole stands for the animal, and which signifies the action is not apprehended then. Later, when the teacher says "fetch the horse', a different animal is brought. Again, when he says 'tie up the cow', a different action follows. By observing varied actions resulting from the different utterances, the youngster understands that the word 'cow*'* denotes an animal of a certain description, that the word 'horse' an animal of another kind, the word 'bring' denotes the action of bringing, and so on:
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9157,7 +9182,7 @@ Further, approaching the guru and the like would [[P37]] be impossible, for ther
 गुरूपसर्पणाद्यनुपपत्तिश्च ; ज्ञानवत्त्वेन तस्याप्रतीतेः ।
 </details>
 
-### The contention that if consciousness becomes the object of another consciousness, it would cease to be [[consiousness|consciousness]] is met :
+### The contention that if consciousness becomes the object of another consciousness, it would cease to be consciousness is met :
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9181,12 +9206,12 @@ The belief that if consciousness is the object of anything else, it would cease 
 
 <details><summary>English</summary>
 
-The character of being consciousness consists in the quality of manifesting itself solely by means of its own existence to its substrate; or in the quality of being the means of manifesting (by its own existence) its object (to its substrate),[^37_61]
+The character of being consciousness consists in the quality of manifesting itself solely by means of its own existence to its substrate; or in the quality of being the means of manifesting (by its own existence) its object (to its substrate),[F37_61]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^37_61]: In commenting upon these definitions, Sudarsanācārya observes that it consciousness is defined as that which manifests itself, this definition would also apply to pots and the like, for, they too manifest themselves. To exclude them. the qualification 'to its own substrate' is added; the pot manifests itself, not to its substrate, the ground on which it stands, but to the knowing person. Again, the further qualification 'solely by means of its own existence' is added in order to exclude certain attributes of the self, such as, atomic size, eternity and so on, which are manifested to their substrate, not by themselves, but by an act of knowledge. The Sri Bhagya would add yet another qualification 'at the present time' with a view to excluding past states of consciousness. Even without this addition, past states of consciousness stand excluded since every past experience is revealed not by its own existence, but by another act of knowing. But this qualification serves to emphasise the fact that any state of consciousness can manifest itself by its own existence only at the time it exists, and that a past state of consciousness can be apprehended by another state-a fact denied by the opponent. 'At the present time' denotes 'the time when the relation of consciousness to its object exists'. Since a state of consciousness cannot manifest itself, solely by its own sake, to any person other than its own substrate, the words 'to its own substrate become necessary. This definition is acceptable only to those who maintain the avayamprakasatva theory; hence, a second, which will be acceptable to all is offered. The qualifications 'to its own substrate', 'ty its own existence' and at the present time have to be supplied in this definition also. Means of manifesting' would apply also to the potter's stick, wheels and other instruments; and hence the qualification 'to its own substrate'. The knowledge arising from one sense organ can not be the means for the manifestation of an object revealed by another sense; visual perception, for example does not manifest that which is the object of auditory perception. Hence the need for the words 'its own object' The qualification by its own existeace' serves to exclude the sense organs, which are instrumental in revealing objects, not by their own be ng, but in so far as they give rise to knowledge As in the case of the first definition. here also the expressions at the present time' and its own substrate' arc intended to exclude respectively past states of consciousness and the experience of others.
+[F37_61]: In commenting upon these definitions, Sudarsanācārya observes that it consciousness is defined as that which manifests itself, this definition would also apply to pots and the like, for, they too manifest themselves. To exclude them. the qualification 'to its own substrate' is added; the pot manifests itself, not to its substrate, the ground on which it stands, but to the knowing person. Again, the further qualification 'solely by means of its own existence' is added in order to exclude certain attributes of the self, such as, atomic size, eternity and so on, which are manifested to their substrate, not by themselves, but by an act of knowledge. The Sri Bhagya would add येt another qualification 'at the present time' with a view to excluding past states of consciousness. Even without this addition, past states of consciousness stand excluded since every past experience is revealed not by its own existence, but by another act of knowing. But this qualification serves to emphasise the fact that any state of consciousness can manifest itself by its own existence only at the time it exists, and that a past state of consciousness can be apprehended by another state-a fact denied by the opponent. 'At the present time' denotes 'the time when the relation of consciousness to its object exists'. Since a state of consciousness cannot manifest itself, solely by its own sake, to any person other than its own substrate, the words 'to its own substrate become necessary. This definition is acceptable only to those who maintain the avayamprakasatva theory; hence, a second, which will be acceptable to all is offered. The qualifications 'to its own substrate', 'ty its own existence' and at the present time have to be supplied in this definition also. Means of manifesting' would apply also to the potter's stick, wheels and other instruments; and hence the qualification 'to its own substrate'. The knowledge arising from one sense organ can not be the means for the manifestation of an object revealed by another sense; visual perception, for example does not manifest that which is the object of auditory perception. Hence the need for the words 'its own object' The qualification by its own existeace' serves to exclude the sense organs, which are instrumental in revealing objects, not by their own be ng, but in so far as they give rise to knowledge As in the case of the first definition. here also the expressions at the present time' and its own substrate' arc intended to exclude respectively past states of consciousness and the experience of others.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9196,7 +9221,7 @@ The character of being consciousness consists in the quality of manifesting itse
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते च [[संविदन्तर विषयभावेऽपि|संविद्-अन्तर-विषयभावे ऽपि]] स्वानुभव-सिद्धे न भ्रश्यत इति कथम् अननुभूतित्व-प्रसङ्गः ? ।
+ते च संविद्-अन्तर-विषयभावे ऽपि स्वानुभव-सिद्धे न भ्रश्यत इति कथम् अननुभूतित्व-प्रसङ्गः ? ।
 </details>
 
 <details><summary>English</summary>
@@ -9322,12 +9347,12 @@ If it is contended that it is only the non-existence of the sky-flower (rather t
 
 <details><summary>English</summary>
 
-then let it be held that even in the case of pots and the like, it is only their character of not being the seat of consciousness and of their not being opposed to ignorance[^38_62] that is responsible for their being non-soul and non-consciousness.
+then let it be held that even in the case of pots and the like, it is only their character of not being the seat of consciousness and of their not being opposed to ignorance[F38_62] that is responsible for their being non-soul and non-consciousness.
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^38_62]: It is not necessary that if external objects, such as pots, exist at all they ought to be known. Hence, they are not considered to be opposed to ignorance (ajñānavirodhi). Knowledge, however, is opposed to ignorance (ajñānavirodhi) because when it exists it must necessarily shine forth.
+[F38_62]: It is not necessary that if external objects, such as pots, exist at all they ought to be known. Hence, they are not considered to be opposed to ignorance (ajñānavirodhi). Knowledge, however, is opposed to ignorance (ajñānavirodhi) because when it exists it must necessarily shine forth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9337,7 +9362,7 @@ then let it be held that even in the case of pots and the like, it is only their
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ ते अपि विषयत्वे स्याताम् इति चेत्, अविषयत्वे ऽपि तथैवेत्य् अलम् [[अप्रतिष्ठितकृतर्कापहसनेन|अप्रतिष्ठितकुतर्कापहसनेन]] ।
+अथ ते अपि विषयत्वे स्याताम् इति चेत्, अविषयत्वे ऽपि तथैवेत्य् अलम् अप्रतिष्ठितकुतर्कापहसनेन ।
 </details>
 
 <details><summary>English</summary>
@@ -9399,7 +9424,7 @@ For, this ignorance even though it has no origin, is subject to manifold changes
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ-परमार्थास् तद्-विकाराः सन्तीति चेत्, परमार्थाश् च ते किं विकाराः सन्ति ?, जन्मवन्तो वा परमार्थाः ; [[yeन|येन]] पारमार्थ्येन विशेषणम् साध्यस्य साधनस्य [[वार्ऽथवत्तामश्नुवीत|वार्थवत्ताम् अश्नुवीत]] ।
+अ-परमार्थास् तद्-विकाराः सन्तीति चेत्, परमार्थाश् च ते किं विकाराः सन्ति ?, जन्मवन्तो वा परमार्थाः ; येन पारमार्थ्येन विशेषणम् साध्यस्य साधनस्य वार्थवत्ताम् अश्नुवीत ।
 </details>
 
 <details><summary>English</summary>
@@ -9409,7 +9434,7 @@ If it is said that its modifications are unreal (we ask) do you admit changes wh
 
 <details><summary>मूलम्</summary>
 
-अपरमार्थास्तद्विकाराः सन्तीति चेत्, परमार्थाश्च ते किं विकाराः सन्ती?, जन्मवन्तो वा परमार्थाः; yeन पारमार्थ्येन विशेषणं साध्यस्य साधनस्य वार्ऽथवत्तामश्नुवीत ।
+अपरमार्थास्तद्विकाराः सन्तीति चेत्, परमार्थाश्च ते किं विकाराः सन्ती?, जन्मवन्तो वा परमार्थाः; येन पारमार्थ्येन विशेषणं साध्यस्य साधनस्य वाऽर्थवत्तामश्नुवीत ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9446,17 +9471,17 @@ The statement that what is unborn cannot possess differentiations is not correct
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनादित्वेनाभ्युपगतस्य [[अज्ञानस्याऽत्मनो|अज्ञानस्यात्मनो]] व्यतिरिक्ततयावश्याश्रयणीयत्वात् ।
+अनादित्वेनाभ्युपगतस्य अज्ञानस्यात्मनो व्यतिरिक्ततयावश्याश्रयणीयत्वात् ।
 </details>
 
 <details><summary>English</summary>
 
-and because ignorance, which is admitted to be beginningless, has necessarily [[P40]] to be taken as being distinct from the self.[^40_63]
+and because ignorance, which is admitted to be beginningless, has necessarily [[P40]] to be taken as being distinct from the self.[F40_63]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^40_63]: All systems of Indian thought, with the exception of the Carvaka darsana, accept the distinction of the self from the body, senses and so on; and the opponent admits, in addition, the distinction of the self from avidya. Hence, he cannot deny vijatiyabheda.
+[F40_63]: All systems of Indian thought, with the exception of the Carvaka darsana, accept the distinction of the self from the body, senses and so on; and the opponent admits, in addition, the distinction of the self from avidya. Hence, he cannot deny vijatiyabheda.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9471,12 +9496,12 @@ and because ignorance, which is admitted to be beginningless, has necessarily [[
 
 <details><summary>English</summary>
 
-If [[ti|it]] is said that this differentiation is phenomenal, (we ask) have you observed anywhere real distinction to be invariably concomitant with origination?[^40_64]
+If it is said that this differentiation is phenomenal, (we ask) have you observed anywhere real distinction to be invariably concomitant with origination?[F40_64]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^40_64]: In order to prove that consciousness admits of no real distinctions, because it has no origin, the negative concomitance (vyatirekavyapti) - whatever has real distinctions must have an origin - must be cited. But as the opponent does not admit real distinctions, he cannot point to any instance of this negative generalisation. Hence, his argument commits the fallacy of vyapyatvasiddhi. Moreover, if the distinction of avidya from the self is not real, it follows that ignorance itself may become the self.
+[F40_64]: In order to prove that consciousness admits of no real distinctions, because it has no origin, the negative concomitance (vyatirekavyapti) - whatever has real distinctions must have an origin - must be cited. But as the opponent does not admit real distinctions, he cannot point to any instance of this negative generalisation. Hence, his argument commits the fallacy of vyapyatvasiddhi. Moreover, if the distinction of avidya from the self is not real, it follows that ignorance itself may become the self.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9491,12 +9516,12 @@ If [[ti|it]] is said that this differentiation is phenomenal, (we ask) have you 
 
 <details><summary>English</summary>
 
-It will be shown presently that the distinctions existing between various kinds of knowledge and objects of knowledge, which are established by uncontradicted experience, are ultimately real.[^40_65]
+It will be shown presently that the distinctions existing between various kinds of knowledge and objects of knowledge, which are established by uncontradicted experience, are ultimately real.[F40_65]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^40_65]: The distinction between objects of knowledge necessarily points to distinction between kinds of knowledge. This shows that sajatiyabheda is real.
+[F40_65]: The distinction between objects of knowledge necessarily points to distinction between kinds of knowledge. This shows that sajatiyabheda is real.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9513,12 +9538,12 @@ It will be shown presently that the distinctions existing between various kinds 
 
 <details><summary>English</summary>
 
-The contention that consciousness does not possess the attributes which are objects of knowledge, and that the attributes which are known do not belong to consciousness as its qualities is proved to be fallacious by the qualities of self-luminosity, eternity and the like, which are established by scriptural testimony, inference and other means of knowledge to exist in consciousness, and which are acknowledged by yourself.[^40_66]
+The contention that consciousness does not possess the attributes which are objects of knowledge, and that the attributes which are known do not belong to consciousness as its qualities is proved to be fallacious by the qualities of self-luminosity, eternity and the like, which are established by scriptural testimony, inference and other means of knowledge to exist in consciousness, and which are acknowledged by yourself.[F40_66]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^40_66]: The admission that consciousness possesses the attributes of self-luminosity, eternity and the like implies that consciousness admits of internal differences (svagatabheda).
+[F40_66]: The admission that consciousness possesses the attributes of self-luminosity, eternity and the like implies that consciousness admits of internal differences (svagatabheda).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9558,7 +9583,7 @@ It is only after admitting the existence of consciousness that disputants mainta
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वरूप-[[स्वरूपभेदच्च|भेदात् च]] ।
+स्वरूप-भेदात् च ।
 </details>
 
 <details><summary>English</summary>
@@ -9588,7 +9613,7 @@ Indeed, consciousness is that which, solely by means of its own existence, [[P41
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वयम्-प्रकाशता तु [[सत्तयैवाऽत्मने|सत्तयैवात्मने]] प्रकाशमानता ।
+स्वयम्-प्रकाशता तु सत्तयैवात्मने प्रकाशमानता ।
 </details>
 
 <details><summary>English</summary>
@@ -9608,12 +9633,12 @@ But self-luminousness consists in shining forth or being manifest solely by mean
 
 <details><summary>English</summary>
 
-It has already been established in *Samvit*-*siddhi* that 'shining forth,' which is implied therein, is a quality common to, all sentient and insentient things alike.[^41_67]
+It has already been established in *Samvit*-*siddhi* that 'shining forth,' which is implied therein, is a quality common to, all sentient and insentient things alike.[F41_67]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^41_67]: The expression 'samvitsiddha veva sadhitam' indicates that Samvitsiddhi was composed before *Atmasiddhi*.
+[F41_67]: The expression 'samvitsiddha veva sadhitam' indicates that Samvitsiddhi was composed before *Atmasiddhi*.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9668,7 +9693,7 @@ Unity is limitation by the number 'one'.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च जडत्व-काल-देश-नानात्वाद्य्-अवच्छेद-[[नानात्वाद्यवच्छेद शून्यतारूपत्वात्तेषां|शून्यतारूपत्वात् तेषां]] न यथोक्त-दोष इति युक्तम् ।
+न च जडत्व-काल-देश-नानात्वाद्य्-अवच्छेद-शून्यतारूपत्वात् तेषां न यथोक्त-दोष इति युक्तम् ।
 </details>
 
 <details><summary>English</summary>
@@ -9780,7 +9805,7 @@ If it is said that manifestation itself is consciousness, (we ask)
 
 <details><summary>English</summary>
 
-'Oh, Ye! tell us whose manifestation it is.
+'Oh, ये! tell us whose manifestation it is.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9805,7 +9830,7 @@ If the reply is that it is not the manifestation of anything, then, it cannot be
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[सा ही|सा हि]] पुत्रत्वम् इव कस्य-चित् किञ्चित् प्रति ।
+सा हि पुत्रत्वम् इव कस्य-चित् किञ्चित् प्रति ।
 </details>
 
 <details><summary>English</summary>
@@ -9825,12 +9850,12 @@ for, manifestation, like the quality of being a son, always refers to some entit
 
 <details><summary>English</summary>
 
-If it is said that it (manifestation) belongs to the self, (we ask) what is the meaning of the genitive case ending?[^42_68]
+If it is said that it (manifestation) belongs to the self, (we ask) what is the meaning of the genitive case ending?[F42_68]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^42_68]: Panini's Şaşthi sese declares that the genitive case ending invariably refers to some relation or other. The expression 'soul's manifestation' (atmanaḥ siddhiḥ) must, therefore, indicate that there is some relation between soul and the quality of manifestation. Hence, it cannot be maintained that the soul is attributeless.
+[F42_68]: Panini's Şaşthi sese declares that the genitive case ending invariably refers to some relation or other. The expression 'soul's manifestation' (atmanaḥ siddhiḥ) must, therefore, indicate that there is some relation between soul and the quality of manifestation. Hence, it cannot be maintained that the soul is attributeless.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9845,12 +9870,12 @@ If it is said that it (manifestation) belongs to the self, (we ask) what is the 
 
 <details><summary>English</summary>
 
-Hence, to maintain that a consciousness, which has been described as above and which has a character similar to that of sky-lotus, is the ultimate end of the Vedanta will only lead to the destruction of the Vedas themselves.[^42_69]
+Hence, to maintain that a consciousness, which has been described as above and which has a character similar to that of sky-lotus, is the ultimate end of the Vedanta will only lead to the destruction of the Vedas themselves.[F42_69]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^42_69]: There is a pun on the word vedanta.
+[F42_69]: There is a pun on the word vedanta.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9862,7 +9887,7 @@ Hence, to maintain that a consciousness, which has been described as above and w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च नित्यत्वे ऽपि [[अनुभुतेः|अनुभूतेः]] प्रत्यभिज्ञानुपपत्तिस् तदवस्थैव ।
+अपि च नित्यत्वे ऽपि अनुभूतेः प्रत्यभिज्ञानुपपत्तिस् तदवस्थैव ।
 </details>
 
 <details><summary>English</summary>
@@ -9877,7 +9902,7 @@ Further, even if consciousness were eternal, the impossibility of recognition wo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[सा ही|सा हि]] अनुभवितारं पूर्वापर-कालावस्थायिनम् उपस्थापयति "अहम् इदम् अन्वभूवम्" इति ।
+सा हि अनुभवितारं पूर्वापर-कालावस्थायिनम् उपस्थापयति "अहम् इदम् अन्वभूवम्" इति ।
 </details>
 
 <details><summary>English</summary>
@@ -9892,7 +9917,7 @@ for, recognition which takes the form- 'I experienced this at one time-indicates
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुभूतिस् तु अनुभूतिर् एव भवताम्, न तां प्रति सा [[कर्त्रीं|कर्त्री]] कर्म वा ।
+अनुभूतिस् तु अनुभूतिर् एव भवताम्, न तां प्रति सा कर्त्री कर्म वा ।
 </details>
 
 <details><summary>English</summary>
@@ -9907,7 +9932,7 @@ But, in your view, consciousness is mere consciousness. With regard to itself, c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(इति मायावाद्य्-अभिमत-नित्य-विज्ञानात्मत्व-[[निरास प्रकरणम्|निरास-प्रकरणम्]])
+(इति मायावाद्य्-अभिमत-नित्य-विज्ञानात्मत्व-निरास-प्रकरणम्)
 </details>
 
 <details><summary>English</summary>
@@ -9921,13 +9946,15 @@ But, in your view, consciousness is mere consciousness. With regard to itself, c
 </details>
 
 
-## ?
+## नाहङ्कारः
 यद्युच्येत परमार्थतः तथाभूतापि भ्रान्त्यानुभवितृतया परिस्फुरति रजततयेव शुक्तिः । न हि तथ्यमनवलम्ब्य मिथ्यावभासस्योत्थानमिति; तन्न । तथा सति अनुभवसमानाधिकरणतयानुभविताहमर्थः प्रकाशेत अनुभूतिरहमिति, पुरःस्थितभास्वरद्रव्यशङ्खमुखचन्द्रादेराकारतयेव रजतपीतमुकुरस्थताद्वित्वादि । पृथगवभासमान एव तु अयमनुभवो दण्ड इव देवदत्तमर्थान्तरमहमर्थंविशिंषनालक्ष्यते अनुभवाम्यहमिति । तदेवमनुभवविशिष्टमस्मदर्थमवभासयन्नयमहम्प्रत्ययः कथमिव विशेषणभूतानुभूतिमात्रावलम्बनः प्रतिज्ञायेत, दण्डमात्र इव दण्डी देवदत्त इति प्रत्ययः ।  
 कुतश्चैष निश्चयःअध्यस्तं ज्ञातृत्वमिति? । स्थूलोऽहमितिवत्देहात्माभिमानवतः प्रतिभासनादिति चेत्; नन्वात्मतयाभिमतानुभूतिरपि तदूत एवावभातीति सापि तथा स्यात् । तत्त्वज्ञानोदयात्परतोऽपि तदनुवृत्तेर्न तथा सेति चेत्; किं भोः! तत्त्वज्ञानात्परमबोद्धैवायमात्मा ? हन्तैवं वरमितोऽतत्त्ववेदित्वम्; भ्रान्त्यापि हि तत्र बहु भद्रं पश्यतीति ।  
 ननु ज्ञातृत्वं ज्ञानक्रियाकर्तृत्वं विक्रियात्मकं जडमहङ्कारग्रन्थिस्थम् । तत्फलभुगकर्ताविक्रियः साक्षी प्रकाशमात्र आत्मा । कर्तृत्वादिर्हि दृश्यत्वाद्रूपादिवन्नात्मधर्मः । कर्तृत्वे ह्यात्मनोऽहम्प्रत्ययगोचरत्वेऽपि देहस्येवानत्मत्व परार्थत्वजडत्वादिप्रसङ्गो दुर्निवारः । दृष्टं च लौकिकवैदिककर्मसु कर्तृतया प्रसिद्धाद्देहात्तत्क्रियाफलभुजः प्रमातुः अहम्प्रत्ययिनः पृथक्त्वम् । तथेहापि प्रमातुरहमर्थाद्विलक्षणः साक्षी प्रत्यगात्मेति युक्तम् । नैवं युक्तम् । अहं जानामीति ज्ञातृतया सिध्यतः प्रत्यगात्मनो व्यतिरेकेण सिक्षिणो नाम प्रकाशमात्रस्याऽत्मनोऽनुपलब्धेः । देहेन्द्रियमनःप्राणविज्ञानेभ्यो ज्ञानाश्रयतया विविच्यमाने प्रतीपमञ्चतीव निर्भासमानोऽहम्भाव एव हि प्रत्यक्त्वं नाम । साक्षित्वमपि तस्य साक्षाज्ज्ञातृत्वम् । न ह्यजानन्सिक्षीत्यपदिश्यते । सर्वं च प्रकाशमानं ज्ञात्रेऽहमिति चकासते प्रकाशत इति प्रत्यात्मसिद्धोऽयमनुभवः अहं जानामि, मह्यं प्रकाशत इति ।  
 (इति ज्ञातुरहमर्थस्य प्रत्यगात्मत्वनिरूपणम्)  
 न चाव्याकृतपरिणामभेदस्याहङ्कारनाम्नो बुद्धिनामधेयस्य वा ज्ञातृत्वं ; देहस्येवाचेतनत्वपरिणामित्वजडत्वपरार्थत्वादिहेतुभिस्तदनुपपत्तेः । न च चितिच्छायापत्त्या तयोस्तत्सम्भवः । अचाक्षुषस्य छायादर्शनात् । न च ज्ञातृत्वं चितावपि ते वास्तवमस्ति, येनाग्निसम्पर्कादयः पिण्ड इवौष्ण्यं तत्सम्पर्कादर्थान्तरे ज्ञातृत्वं जायेत ज्ञायेत वा ।  
 (इत्यहङ्कारस्य ज्ञातृत्वतत्प्रतीत्यनुपपत्तिनिरूपणम्)  
+
+### संविद्-अभिव्यञ्जकत्वम्?
 यद्युच्येतज्ञाप्तिमात्रमेवाऽत्मानमभिव्यञ्जनचेतनोऽप्यहङ्कारः स्वाश्रयतया तमभिव्यनक्ति । स्वभावो ह्ययं व्यञ्जकानाम्यदात्मस्थतयाभिव्यङ्ग्यमभिव्यञ्जन्ति, दर्पणजलखण्डमुण्डादय इव मुखमिहिरबिम्बगोत्वादीन् ।  
 तत्कृतश्चायमहं जानामीति भ्रमः । अत एव खलु अहमुल्लेखविगमे सुषुप्तिमुक्तयोः स्वाभाविकविशदानुभवमात्ररूपेणाऽत्मनः प्रकाशः । तत एव चानात्मत्वमहमर्थस्य । तथा च सौरेशं वचः  
 
@@ -9938,7 +9965,7 @@ But, in your view, consciousness is mere consciousness. With regard to itself, c
 
 (इति अहङ्कारस्य संविदभिव्यञ्जकत्वपूर्वपक्षोपपादनम्॥)
 
-
+### ??
 तदिदमसम्बद्धम् । 
 
 तदिदमसम्बद्धम् । यतः  
@@ -9959,10 +9986,13 @@ But, in your view, consciousness is mere consciousness. With regard to itself, c
 अहमर्थस्य बोद्धृत्वान्न स तेनैव शोध्यते ॥  
 न च स्वाश्रयतयाभिव्यङ्ग्यप्रकाशनमभिव्यञ्जयितुः स्वभावः; प्रदीपादावदर्शनात् । यथावस्थितवस्तुप्रकाशानुकूलस्वभावत्वाच्च ज्ञानतत्साधनतदनुग्राहकाणाम् । तच्च स्वतःप्रामाण्यन्यायात्; तदनभ्युपगमे च सर्वत्रानाश्चासप्रकङ्गात् । व्यक्तेस्तु जातिराकार एवेति तथा प्रत्यायनम्; न व्यञ्जकत्वप्रयुक्तं ; उक्तादेव व्यभिचारात् । दर्पणादिस्तु नायनमहःप्रतिफलनलक्षणदोषहेतुर्नाभिव्यञ्जको वदनादेः । व्यञ्जकस्त्वालोकादिरेव । व्यञ्जकत्वेऽपि प्रतीपगमनदोषप्रयुक्तस्तत्रान्यथावभासः । न चेह तथाहमर्थस्य तादृशदोषापादकत्वं स्वभावः । तथा सति सर्वस्यापि प्रत्यक्षादेरप्रामाण्यप्रसङ्गान्न किञ्चित्तथ्यं स्यात् । तस्माज्ज्ञातृतया सिद्ध्यन्नहमर्थ एव प्रत्यगात्मा; न ज्ञप्तिमात्रम् ।  
 (इत्यहङ्कारस्य संविदभिव्यञ्जकत्वनिराकरणप्रकरणम्)  
+
+## स्वापेऽहम्-अर्थः
 यत्तु सुषुप्तिसुक्तयोर्ज्ञप्तिमात्रतया स्फुरणम्, अहमिति तु न प्रतिभातीति; तत्र सुषुप्तौ तथावस्थितिः पुरस्तादेव निरस्ता । अहमित्येकरूपेण आप्रबोधात्तत्राप्यात्मनः स्फुरणात् । यदि परं परागर्थाननुभवात्तमोगुणाभिभवाच्च न विविच्य स्फुटं चकास्ति; भवदभिमतानुभूतिरपि तदानीं तथैव हि प्रथत इति वाच्यम् । नाहमहम्, नाप्यर्थान्तरम्, अपि त्वनुभूतिमात्रमज्ञानसाक्षितयावतिष्ठत इत्येवंविधं स्वापसमयभवमनुभवं नहि सुप्तोत्थितः कश्चित्परामृशन्नुपलब्धचरः । एतावन्तं कालं न किञ्चिदहमवेदिषमिति परामर्शनादेव तथात्वं लभ्यत इति चेत्; कथमिव? न किञ्चिदिति निर्देशादिति चेत्; नन्वेवमनुभूतिप्रतिभासोऽपि प्रत्याख्यातः स्यात् । अपि च सुषुप्तिसमयसिद्धमात्मानमहमिति परामृश्य न किञ्चिदवेदिषम्मिति तस्य वेदने प्रतिषिध्यमाने तात्कालिकीं  
 वित्तिसिद्धिमहमर्थस्य चासिद्धिमभिदधानोऽनुभवविरोधमपि न जानाति देवानां प्रियः । निर्विषया निराश्रया च वित्तिर्नास्तीत्युक्तमेव ।  
 ननु मामप्यहं न ज्ञातवान्प्रसुप्त इत्यस्ति हि प्रबोधे प्रत्ययः । सत्यम्; स तु वर्णाश्रमादिविशिष्टतया प्रबोधसमयसंवेद्यमानं देहिनं मामित्यादाय स्वाप्ययावस्थाप्रसिद्धाविशदस्वानुभवैकतानाहमर्थस्य तेन रूपेणाज्ञातत्वं प्रज्ञातत्वं प्रज्ञापयति, न पुनर्ज्ञस्वभावस्याहमर्थस्यापि । एवमिव खल्वयमनुभवःअत्र सुप्तोऽहमीदृशश्चेत्येवं मामपि न ज्ञातवानहमिति । अपि च, आत्मा सुषुप्तौ अज्ञानसाक्षित्वेनाऽस्त इति हि यौष्माकी स्थितिः । साक्षित्वं च साक्षाज्ज्ञातृत्वमित्युक्तम् । स चायं जानामीति प्रतिभासमानोऽस्मदर्थ एवेति कथमिव तदानीमहमर्थो न प्रथेत । स्वस्मै प्रकाशमानोऽहमित्येव हि प्रकाशत इति । तत्सिद्धं स्वापादिदशास्वप्यात्मा प्रकाशमानोऽहमित्येव प्रकाशत इति ।  
 (इति स्वापेऽहमर्थभानसमर्थनप्रकरणम्)  
+
 यत्तु मुक्तावहमर्थो नोपावर्तत इति; तद्वार्तम् । यतस्तथा सति वैनाशिकदर्शन इवात्मनाश एवापवर्गः प्रकारान्तरेण प्रतिज्ञातः स्यात् । नो खलु अहमिति धर्ममात्रम्, येन तदपगमेऽप्यविद्यानिवृत्त्यामिवात्मनः स्वरूपेणावतिष्ठत इत्युच्यते । अहमित्येव हि तस्य स्वरूपम् । ज्ञानमपि हि तद्धर्मत्वेन तस्यैव प्रकाशते ज्ञानं मे जातमिति । का कथा पुनरर्थान्तरस्याऽत्मत्वे ? ।  
 अन्यश्चयः सांसारिकदुःखैः दुःखित्वेनाऽत्मानं तत्त्वतोभ्रान्त्या वा प्रत्येति दुःख्यहमिति, सः सर्वमिदमनिष्टजातं कथमहमपुनरूदयपनुद्याव्याकुलः स्वस्थो भूयासमिति सञ्जातमुमुक्षः तत्साधने प्रवर्तते । स यदि साधनानुष्ठानादहमेव न भविष्यामीत्यवगच्छति, अपगच्छेदसौ मोक्षकथाप्रसङ्गादपि । ततश्चासम्भवदधिकारितया सर्व एव वेदान्तविधयः सर्वाणि च मोक्षशास्त्राणि प्रामाण्यादेव प्रच्यवेरन् । अहमुपलक्षितः प्रकाशोऽपवर्गेऽवस्थास्यत इति चेत्, किमतः? न हि मयि नष्टेऽपि कोऽपि प्रकाशः स्थास्यतीति कश्चित्प्रेक्षावान्प्रयस्यति ।  
 एतेन तदपि परास्तम्, अस्मत्प्रत्यये योऽनिदमंशः चिदेकरसः प्रकाशः स आत्मा । तस्मिंस्तद्बलनिर्भासिततया लक्षणतो युष्मदर्थ एवाहं जानामीति सिध्यन्नर्थ  

@@ -196,7 +196,7 @@ K. R. Padmanabhan.
 श्री-देशिक-श्री-सूक्तीनाम् अपि तस्यां जगज्-जनकत्वान्तर्यामित्वोपायत्वाद्य्-अभाव एव तात्पर्यम्  
 
 इति निरूपणेन  
-श्री-देशिकाननुयायित्व-रूप-दोषाद् मुक्ता भवेम  
+"श्री-देशिकाननुयायित्व-रूप-दोषाद् मुक्ता भवेम"  
 इति मत्या प्रवर्तितो ऽयं ग्रन्थः।  
 
 "एभिर् एव पश्चात् श्रिय उपायत्व-स्थापक-ग्रन्थ-भागो ऽपि व्यलेखी"ति,  
@@ -205,7 +205,7 @@ K. R. Padmanabhan.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-> Not the main doddayacharya - this mahAcharya was likely a 19th century 1 descendent of ChandamArutam author - he tried to claim that Desika supported the 4th paksha reg lakshmi - is the progenitor of all such fights. Contemporary of annavappangar. - shrIvAsa
+> Not the main doddayacharya - this mahAcharya was likely a 19th century 1 descendent of ChandamArutam author - he tried to claim that Desika supported the 4th paksha reg lakshmi - is the progenitor of all such fights. Contemporary of annavappangar. - SV
 
 सम्भ्रान्तोऽत्र वीरराघवर्य  इति साधु प्रतिपादितं शकुन्तला-प्रबन्धे।  
 न हि वेदान्तरामानुजयतिः स्पष्टं पूर्वपक्षिणं नाम्ना निर्दिशति।  
