@@ -15,7 +15,16 @@ Following this tradition, Ahobila maTham in the divya deSams have the pratishTha
 
 On the direction of his AcAryan, SrImad Adi vaN saThakopa yatIndra mahAdesikan, this second paTTam Azhagiyasingar in his purvASramam created sixty granthams. Today, we do not even have the names of these granthams. He blessed us with tiruvArAdhana kramam, commentary on nyAsa daSakam, sandhyAvandana bhAshyam etc. These three granthams are in Sanskrit. (42nd paTTam jIyar, InjimeTTu Srmad Azhagiyasingar, provided brief meanings of [[221]] sandhyAvandana bhAshyam in Tamil. This book is no longer available to us).
 
-He has also blessed us with a grantham named "PurushakAra mImAmsA and it is of two parts, pUrva paksham (prima facie case) and siddhAntham. A few scholars acquired these two books and hid the siddhAnta grantham. After some time, Periya VedAnta Ramanuja SvAmi, studied this siddhAnta grantham from his AcAryan through the kAlakshepam route. Learning from this grantham, he created the tattva siddhAnjanam and other granthams. This information is known from Guru ParamparA.
+He has also blessed us with a grantham named "PurushakAra mImAmsA and it is of two parts, pUrva paksham (prima facie case) and siddhAntham. A few scholars acquired these two books and hid the siddhAnta grantham.+++(4)+++ 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Wrong! puruSha-kAra-mImAMsA was written by a different nArAyaNa muni - 14th yati.  
+The text is complete, and available with commentary.
+</details>
+
+
+After some time, Periya VedAnta Ramanuja SvAmi +++(=sAxAt-svAmI)+++, studied this siddhAnta grantham from his AcAryan through the kAlakshepam route. Learning from this grantham, he created the tattva siddhAnjanam and other granthams. This information is known from Guru ParamparA.
 
 This Azhagiyasingar established the Vaidika agrahAram, "Madhuramangalam".
 
