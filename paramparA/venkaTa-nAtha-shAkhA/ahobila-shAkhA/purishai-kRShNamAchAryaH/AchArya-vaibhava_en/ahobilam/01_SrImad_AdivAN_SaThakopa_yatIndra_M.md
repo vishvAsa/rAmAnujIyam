@@ -282,44 +282,57 @@ taniyans of SrImad Adi vaN SaThakopa yatIndra mahAdeSikan
 
 keSavArya krpApAtram dhISamAdiguNArNavam | SrI SaThAriyatiSAna deSikendramaham bhaje||
 
-प्रपद्ये निरवद्यानां निषद्यां गुणसम्पदाम् ।
-शरणं भवभीतानां शठकोपमुनीश्वरम् ॥
+प्रपद्ये निरवद्यानां  
+निषद्यां गुणसम्पदाम् ।
+शरणं भवभीतानां  
+शठकोपमुनीश्वरम् ॥
 
 prapadye niravadyAnAm nishadyAm guNasampadAm | SaraNam bhavabhItAnAm SaThakopamunISvaram ||
 
+## Summary
 Brief Summary of SrI Adi vaN SaThakopa YatIndra mahAdeSikan
 
-avatAram
+### avatAram
 
 Born to SrI Kidambi KeSavacharya SvAmi in Kali 4480, SiddhArti year, Purattasi month (September 1379), Sukla paksha pancami tithi, when jyeshTha nakshatram was in ascendance on a Thursday in danur lagnam at Tirunarayanapuram, Karnataka deSam.
 
 pUrvASrama tirunAmam - SrInivAsachAriyAr
 
-panca samskAram and VidyAbhyAsam
+### panca samskAram and VidyAbhyAsam
 
 He had his panca samskAram performed by his revered father SrI KeSavacharyar SvAmi. SvAmi leant sAmAnya SAstrAs, TiruvAimozhi and other nAlAyira divya Prabandhams from his father.
 
 
 
-[[215]] VedAnta kAlakshepAm and SaraNAgati
+[[215]] 
+
+### VedAnta kAlakshepAm and SaraNAgati
 
 SrI SrInivAsachAriyAr had his kAlakshepams and SaraNAgati at the sannidhi of GaTikASadam Ammal, popularly known as SrI Varada VishNvAchArya SvAmi, the grandson of Periya Ammal who was conducting kAlakshepams on ubhaya vedAnta granthams at Perumal Koyil (Kanchipuram) in the sannidhi of PeraruLALan.
 
-SrI LakshmInrusimhan's niyamam (order)
+### SrI LakshmInrusimhan's niyamam (order)
 
 SvAmi after competing his ubhaya VedAnta grantha kAlakshepAms at Kanchi, as a pancakAla parAyaNar (worshipping the Lord five times daily) was fearless (nirbhaya) and not depending on anyone (nirbhara) and surrendered himself to the Lord. SrI LakshmInrusimhan appeared in the dream of SvAmi and ordered him to start immediately for Ahobila kshetram.
 
-Preshamantra upadeSam
+### Preshamantra upadeSam
 
 Following the order of SrI LakshmInrusimhan, Svami took leave of his AcAryAn and travelled to Ahobilam (Singavelkundram, deivamallAl cellavoNNAta singavELkunRam - divya deSam accessible to devAs alone). Here, he took his bath in the River BhavanASini, completed his daily rituals and started for the sannidhi of SrI LakshmInrusimhan meditating upon Him. At that time, SrI Nrusimhan appeared in the form of a Yati (sanyAsi) at the place where the SvAmi was. He initiated preshamantram to SvAmi (those who were to observe sanyAsam, need to get initiated on this mantram and those who are not initiated with this mantram are not eligible to become sanyAsi. The Yati presented the tridaNDam (triple staff) and kAshAya vastram. He named the SvAmi as "SaThakopa jIyar". He at the age of twenty was the one and only AcAryA in the SrI VaishNava lineage of AcAryAs, to take to sanyAsASramam as a bachelor.
 
-ArAdhya devatA
+### ArAdhya devatA
 
 SrI LakshmInrusimhan (mAlolan) is the ArAdhya devatA of SaThakopa jIyar.
 
-Malolan’s order
+### Malolan’s order
 
-"You may conduct TiruvArAdhanam for Me and travel to village after village, offer samAsryaNa bharanyAsam to those who seek refuge and offer discourses on the ubhaya VedAnta granthams to those who are [[216]] knowledgeable in SAstrAs. You have to strengthen, firmly establish and propagate the ViSishiTadvaita siddhAntam which was established firmly by AzhvAr, EmperumAnAr, and SrIman NigamAnta MahAdeSikan. You have to get this siddhAntam firmly rooted, strengthen and propagate in every nook and corner of the deSam and administer it". This is bhagavat niyamanam/direction. This is the mUlaSAsanam (Mission Statement) of SrImad Ahobila maTham.
+> "You may conduct TiruvArAdhanam for Me and travel to village after village,  
+> offer samAsryaNa, bharanyAsam to those who seek refuge  
+> and offer discourses on the ubhaya VedAnta granthams to those who are [[216]] knowledgeable in SAstrAs.  
+> 
+> You have to strengthen, firmly establish and propagate the ViSishiTadvaita siddhAntam  
+> which was established firmly by AzhvAr, EmperumAnAr, and SrIman NigamAnta MahAdeSikan.  
+> You have to get this siddhAntam firmly rooted, strengthen and propagate in every nook and corner of the deSam and administer it". 
+
+This is bhagavat niyamanam/direction. This is the mUlaSAsanam (Mission Statement) of SrImad Ahobila maTham.
 
 AzhvAr becomes NammAzhvAr
 
