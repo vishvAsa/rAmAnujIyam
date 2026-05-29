@@ -70,14 +70,10 @@ Given all the above evidence, we therefore can conclusively make the judgement t
 
 ## The theology of the author of *Puruśakāra Mimāmsa*: Did he subscribe to the views of Deśika Sampradaya?
 
-#### His *nirvāha* of the 5 views on *lakṣmī*
+### His *nirvāha* of the 5 views on *lakṣmī*
 
 Related to the above is the claim that the first 5 *Azhagiyasingars* were not *vaḍakalais* and the nature of the *maṭham* changed later. However, we have shown that this work isn’t that of the 2^(nd) *Azhagiyasingar*. Now, we also show from the view of the author himself, that *lakṣmī* is the *iśvari*, and that he held to the 5^(th) *pakśa* of *vedānta deśika* as has been put in his *catuśślokī bhāṣya*. The following statement of his makes it clear:
 
-> *pūrvapūrvopamardena pakṣāṇāmupavarṇanāt \| yatra pūrvopamardena
-> nānāpakṣa: prakīrtita: \|\|tatra sarvatra carama: saṃgrāhya: iti
-> niścaya: \|\|*
->
 > पूर्वपूर्वोपमर्देन पक्षाणामुपवर्णनात् ।
 >
 > यत्र पूर्वोपमर्देन नानापक्ष: प्रकीर्तित: । तत्र सर्वत्र चरम:
@@ -91,11 +87,9 @@ The author says that *Vedānta deśika* arranges the views in the increasing ord
 
 It is to be noted that if the author held *lakṣmī* to be a *jiva* then such a thing isn’t possible as a *jiva* is subordinate by its very nature and not by any condition. Regarding the benediction of moksha, the author mentions that the wish maybe with that of *Viṣṇu* alone or both Lakṣmī and Nārāyaṇa.
 
-> sāmyapradānasaṃkalpastu īśasya eva athavā cobhayo:
->
 > साम्यप्रदानसंकल्पस्तु ईशस्य एव अथवा चोभयो:
 
-#### His view on her role in the process of surrender
+### His view on her role in the process of surrender
 
 Regarding the *Upāya*, the author declares that *Viṣṇu* qualified by *lakṣmī* and all his other qualities is the goal and the means to attain it. He also states that being a qualification for *nārāyaṇa* at the time of *Prapatti*, She destroys the sins of the *prapanna*, creates a taste in that person of the goal and gives the conviction that the Lord alone is the means.
 
@@ -216,12 +210,7 @@ are the essential qualities being propounded by *Deśika* in his commentary
 
 Therefore, one need not doubt that the great seers of *Ahobila maṭham* expounded a different *sampradāya* initially or tried to change to *Vedānta deśika* views to suit a different sect altogether. Let us surrender at the feet of *Mālolan* who is with lakṣmi in his lap and the author *Nārāyaṇa yatīndra mahādeśikan* Himself to get rid of our inner darkness which causes all types of confusions.
 
-> lakṣmīmāloladevākhyaṃ cāhobilamaṭhādhipaṃ \|
->
-> nārāyaṇamuniṃ caiva śrīvatsāṅkamupāsmahe \|\|
->
-> **लक्ष्मीमालोलदेवाख्यं चाहोबिलमठाधिपं।**
->
+> **लक्ष्मीमालोलदेवाख्यं चाहोबिलमठाधिपं।**  
 > **नारायणमुनिं चैव श्रीवत्साङ्कमुपास्महे ॥**
 
 ## Bibiliography
