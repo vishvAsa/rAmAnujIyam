@@ -1,6 +1,10 @@
 +++
 title = "श्री-तत्त्व-सर्वस्वम्"
 +++
+Source: [TW](https://archive.org/details/sts-pki-ao/page/n1/mode/1up)
+
+[[TODO: परिष्कार्यम्]]
+
 श्री : 
 
 श्रीमते रामानुजाय नम;   
