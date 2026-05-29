@@ -7,18 +7,9 @@ MuDumbai Nambi belonging to the SrIvatsa Kulam was one of the seventy four simhA
 
 tanian
 
-श्रीकृAष्णपादपादाब्जे नमामि शिरसा सदा। यत्प्रसादप्रभावेन सर्वसिद्धिरभून्मम॥
+श्रीकृष्णपादपादाब्जे नमामि शिरसा सदा। यत्प्रसादप्रभावेन सर्वसिद्धिरभून्मम॥
 
 SrIkrshNapAdapAdAbje namAmi SirasA sadA | yatprasAdaprabhAvena sarvasiddhirabhUnmama ||
 
 **** 
 
-SrI RangeSvarar
-
-SrI Kidambi RangAchAriyar (RangeSvarar) is pra-Sishya (Sishya's Sishya) of SrI VaDakku Tiruveedhi Pillai. He was born at Tirunarayanapurm in the year SiddhArti, Chittirai month, Revati Nakshatram.
-
-taniyan
-
-श्री कृAष्णपादाब्जलोलुपं सद्गAुणार्णवम् ।
-श्रीरङ्गार्यगुरुंA वन्दे द्रामिडाम्नायदेशिकम् ॥
-[[186]] SrI krishNapAdAbjalolupam sadguNArNavam | SrIrangAryagurum vande drAmiDAmnAyadeSikam ||

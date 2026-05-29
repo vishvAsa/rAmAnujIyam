@@ -1,5 +1,5 @@
 +++
-title = "०७ KamalAvAsar (SrinivAsAchAryar)"
+title = "०८ KamalAvAsar (SrinivAsAchAryar)"
 
 +++
 
