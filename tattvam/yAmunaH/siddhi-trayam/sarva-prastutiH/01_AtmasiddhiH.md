@@ -9700,6 +9700,7 @@ The quality of being consciousness cannot be attributed to the self, for it poss
 </details>
 
 #### अनुभाव्य एव
+##### स्व-पर-वेद्यत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् असाव् अन्-अनुभाव्यः,
@@ -9744,6 +9745,7 @@ for, though it is self-luminous like consciousness, it is admitted to be capable
 ज्ञानान्तर-निरपेक्ष-प्रकाशस्यापि निजात्म-स्वरूपस्य श्रवणादि-ज्ञान-ग्राह्यत्वात्, परात्मनो ऽपि [[तच्छरीरगतचेष्टादिनानुमेयत्वादात्मनोऽननुभाव्यत्वं|तत्-शरीर-गत-चेष्टादिना अनुमेयत्वाद् आत्मनो ऽननुभाव्यत्वं]] श्रुति-युक्ति-विरुद्धम् अनुपपन्नम् इत्य् अर्थः ।
 </details>
 
+##### वेद्यत्वान् नानात्मता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आत्मनो)+++ वेद्यत्वे ऽनात्मत्वापादनम्  
@@ -9760,14 +9762,16 @@ The objection that, if the self is knowable, it would cease to be self would, as
 वेद्यत्वेऽनात्मत्वापादनमवेद्यत्वेऽपि समानं पूर्ववत् ।
 </details>
 
+###### अ-संविद्-आश्रयत्वाद्धि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि तु गगन-कुसुमस्यासत्त्वम् एवानात्मत्वाननुभूतित्व-प्रयोजकम् आस्थीयेत ;
+यदि तु गगन-कुसुमस्यासत्त्वम् एव  
++++(तस्य)+++ अनात्मत्वाननुभूतित्व-प्रयोजकम् आस्थीयेत ;  
 </details>
 
 <details><summary>English</summary>
 
-If it is contended that it is only the non-existence of the sky-flower (rather than the fact that it is not the object of experience) that is responsible for the sky-flower not being soul or consciousness,
+If it is contended that it is only the non-existence of the sky-flower (rather than the fact that it is not the object of experience) that is responsible for the sky-flower not being soul or consciousness,  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9777,17 +9781,24 @@ If it is contended that it is only the non-existence of the sky-flower (rather t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आस्थीयतां तर्हि घटादेर् अपि असंविदाश्रयत्वाज्ञानाविरोधित्वयोर् एव तत्-प्रयोजकत्वम् ।
+आ-स्थीयतां तर्हि घटादेर् अपि -  
+अ-संविद्-आश्रयत्व- +अ-ज्ञान–+अविरोधित्वयोर् एव तत्-प्रयोजकत्वम् ।
 </details>
 
 <details><summary>English</summary>
 
-then let it be held that even in the case of pots and the like, it is only their character of not being the seat of consciousness and of their not being opposed to ignorance[F38_62] that is responsible for their being non-soul and non-consciousness.
+then let it be held that even in the case of pots and the like, 
+it is only their character of not being the seat of consciousness and of their not being opposed to ignorance[F38_62] that is responsible for their being non-soul and non-consciousness.
 </details>
 
 <details><summary>English - Notes</summary>
 
-[F38_62]: It is not necessary that if external objects, such as pots, exist at all they ought to be known. Hence, they are not considered to be opposed to ignorance (ajñānavirodhi). Knowledge, however, is opposed to ignorance (ajñānavirodhi) because when it exists it must necessarily shine forth.
+[F38_62]: It is not necessary that if external objects, such as pots, exist at all  
+they ought to be known.  
+Hence, they are not considered to be opposed to ignorance (ajñānavirodhi).  
+Knowledge, however, is opposed to ignorance (ajñānavirodhi)  
+because when it exists  
+it must necessarily shine forth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9795,15 +9806,21 @@ then let it be held that even in the case of pots and the like, it is only their
 आस्थीयतां तर्हि घटादेरपि असंविदाश्रयत्वाज्ञानाविरोधित्वयोरेव तत्प्रयोजकत्वम् ।
 </details>
 
-
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **आस्थीयताम्** इति । घटादेः ज्ञानानाश्रयत्वम् एवानात्मत्वे ऽज्ञानाविरोधित्वम् एवाननुभूतित्वे प्रयोजकम् इष्यतां नानुभाव्यत्वम् इत्य् अर्थः ।
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ ते अपि विषयत्वे स्याताम् इति चेत्, अविषयत्वे ऽपि तथैवेत्य् अलम् अप्रतिष्ठितकुतर्कापहसनेन ।
+अथ 
+
+> ते +++(अ-संविद्-आश्रयत्व- +अ-ज्ञान–+अविरोधित्वे)+++ ऽपि विषयत्वे स्याताम् 
+
+इति चेत्,  
+अ-विषयत्वे ऽपि तथैवेत्य्  
+अलम् अ-प्रतिष्ठित--कु-तर्कापहसनेन ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -9822,11 +9839,19 @@ Should it be contended that if consciousness is the object of consciousness the 
 शङ्कात्र **अथे**ति । [[तेज्ञानानाश्रयत्वाज्ञानाविरोधित्वे|ते ज्ञानानाश्रयत्वाज्ञानाविरोधित्वे]] । [[विषयत्वेअनुभाव्यत्वे|विषयत्वे अनुभाव्यत्वे]] । परिहारः **अविषयत्वेऽपी**ति । तथैव ते स्यातां गगन-कुसुम-वद् इति यावत् । [[प्रयोजकन्नाननुभाव्यत्वमिति|प्रयोजकं नानुभाव्यत्वम् इति]] [[चेतननुभाव्यत्वेऽसत्त्वमपि|चेद् अननुभाव्यत्वे ऽसत्त्वम् अपि]] प्राप्तं तद्वदेव । [[अप्रयोजकत्मवमिति|अप्रयोजकत्वम् इति]] चेत् तुल्यम् [[मनुभाव्यत्वेऽपीति|अनुभाव्यत्वे ऽपीति]] हार्दम् । **इत्यलम्** इति । व्याप्त्याभास-मूलत्वात् कुतर्कत्वम् । अत एवाप्रतिष्ठितत्वं सिषाधयिषितार्थ-सिद्धि-पर्यवसान-विरह इति बोध्यम् ।
 </details>
 
-### The assertion that if consciousness is without an origin, it could have no changes is refuted:-
+### सविकारता
+<details><summary>विषयः</summary>
+
+The assertion that if consciousness is without an origin,  
+it could have no changes is refuted:-
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अपि जनन-विरहाद् अनुभूतेर् विकारान्तर-निरसनम्, व्यभिचरति तद् अपि प्राक्-अभावे ।
+यद् अपि  
+जनन-विरहाद् अनुभूतेर् विकारान्तर-निरसनम्,  
+व्यभिचरति तद् अपि प्राग्-अभावे ।
 </details>
 
 <details><summary>English</summary>
