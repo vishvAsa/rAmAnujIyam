@@ -67,11 +67,17 @@ title = "देवाः"
 तद् इदं वेङ्कटनाथार्येण तत्र तत्रोक्तम् (चतुश्-श्लोकी-व्याख्यानादौ)।  
 आक्षेपान्ताराण्य् [अन्यत्र](../lokAchAryAdibhyo_bhedaH) परिहृतानि। 
 
+There is no rule that all these attributes can reside in only one supreme being. There can be multiple supreme beings - as long as they are in perfect harmony.
+
 यथा जीवानाम् बहुत्वे सविशेषस्य +अद्वैतस्य न हानिः,  
 ईश्वरानेकत्वे ऽपि तथा।   
 
 ईश्वर-शब्दस्यैकवचनेन निर्देश ईश्वरजात्य्-अपेक्षया -  
 गौश् चतुष्पाद् इत्यत्र यथा।
+
+shAstra-s naturally declare that the _class_ of supreme beings (Ishvara-tattva) is one in number. They don't say that this class has only one member.
+
+When one says "jIva is subservient to Ishvara", or "Horse is larger than frog", they are talking about classes (jAti), rather than particular individuals (vyakti).
 
 #### परस्परं स्वरूप-निरूपणम्
 श्रीमत्त्वं नारायण-स्वरूप-निरूपक-धर्मं मन्यते पराशरभट्टो गुणरत्नकोशे - घटे घटत्वम् इव,  
