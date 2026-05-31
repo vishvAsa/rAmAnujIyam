@@ -9839,19 +9839,18 @@ Should it be contended that if consciousness is the object of consciousness the 
 शङ्कात्र **अथे**ति । [[तेज्ञानानाश्रयत्वाज्ञानाविरोधित्वे|ते ज्ञानानाश्रयत्वाज्ञानाविरोधित्वे]] । [[विषयत्वेअनुभाव्यत्वे|विषयत्वे अनुभाव्यत्वे]] । परिहारः **अविषयत्वेऽपी**ति । तथैव ते स्यातां गगन-कुसुम-वद् इति यावत् । [[प्रयोजकन्नाननुभाव्यत्वमिति|प्रयोजकं नानुभाव्यत्वम् इति]] [[चेतननुभाव्यत्वेऽसत्त्वमपि|चेद् अननुभाव्यत्वे ऽसत्त्वम् अपि]] प्राप्तं तद्वदेव । [[अप्रयोजकत्मवमिति|अप्रयोजकत्वम् इति]] चेत् तुल्यम् [[मनुभाव्यत्वेऽपीति|अनुभाव्यत्वे ऽपीति]] हार्दम् । **इत्यलम्** इति । व्याप्त्याभास-मूलत्वात् कुतर्कत्वम् । अत एवाप्रतिष्ठितत्वं सिषाधयिषितार्थ-सिद्धि-पर्यवसान-विरह इति बोध्यम् ।
 </details>
 
-### सविकारता
+### स-विकारता ऽनादित्वेऽपि
 <details><summary>विषयः</summary>
 
 The assertion that if consciousness is without an origin,  
 it could have no changes is refuted:-
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अपि  
 जनन-विरहाद् अनुभूतेर् विकारान्तर-निरसनम्,  
-व्यभिचरति तद् अपि प्राग्-अभावे ।
+व्यभिचरति तद् अपि प्राग्-अभावे +++(यस्यास्ति जनन-विरहः, स्व-नाशश् च)+++।
 </details>
 
 <details><summary>English</summary>
@@ -9870,9 +9869,11 @@ Again, the assertion that as consciousness has no origin, other modifications of
 स्व-प्रकाशत्वात् संविदो न प्रागभाव-सिद्धिः । [[प्रागभावाभावाच्चानुत्पन्नत्वं|प्रागभावाभावाच् चानुत्पन्नत्वं]], तत एव भाव-विकार-रहितत्वं चोक्तम् अन्यैः । तत्र संवित्-प्रागभाव-सिद्धि-समर्थनेनानुत्पन्नत्व-हेतोः स्वरूपासिद्धं सिद्धवत्कृत्य विकारान्तर-निरासकानुमाने ऽनैकान्त्यम् आह **व्यभिचरती**ति । सप्तम्या अवच्छेदकत्वम् अर्थः । तस्य व्यभिचार-पदार्थे ऽन्वयः । अनुत्पन्नत्वं प्रागभावाच्छेदेनाविनाशित्व-रूप-साध्य-व्यभिचारीत्य् अर्थः । तदधिकरणस्यैव तन्-निष्ठ-धर्मावच्छेदकत्वात् प्रागभावस्य हेतु-निष्ठ-व्यभिचारावच्छेदकस्य हेतुमत्त्वं साध्याभाववत्त्वं च सिद्ध्यति ।
 </details>
 
+#### अविद्यावत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भाव-विशेषणोपादाने ऽपि भवद्-अभिमताविद्ययानैकान्त्यम् ।
++++("भावे सति जनन-विरहाद् अनुभूतेर् विकारान्तर-निरसनम्" इति)+++ भाव-विशेषणोपादाने ऽपि  
+भवद्-अभिमताविद्यया ऽनैकान्त्यम् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
 <details><summary>English</summary>
@@ -9893,7 +9894,9 @@ Even if the qualification 'positive entity' be added, the falsity (of the genera
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा ह्य् अनादिर् अपि विविध-विकारवती विनाशवती च तत्त्व-ज्ञानोदयात् ।
+सा ह्य् अनादिर् अपि  
+विविध-विकारवती विनाशवती च  
+तत्त्व-ज्ञानोदयात् ।
 </details>
 
 <details><summary>English</summary>
@@ -9906,14 +9909,19 @@ For, this ignorance even though it has no origin, is subject to manifold changes
 सा ह्यनादिरपि विविधविकारवती विनाशवती च तत्त्वज्ञानोदयात् ।
 </details>
 
+##### अपारमार्थ्येऽपि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ-परमार्थास् तद्-विकाराः सन्तीति चेत्, परमार्थाश् च ते किं विकाराः सन्ति ?, जन्मवन्तो वा परमार्थाः ; येन पारमार्थ्येन विशेषणम् साध्यस्य साधनस्य वार्थवत्ताम् अश्नुवीत ।
+"अ-परमार्थास् तद्-विकाराः सन्ती"ति चेत्,  
++++(त्वन्-मते क्वचिद् अपि)+++ परमार्थाश् च ते किं विकाराः सन्ति ?,  
+जन्मवन्तो वा परमार्थाः? ;  
+येन पारमार्थ्येन विशेषणम् साध्यस्य साधनस्य वार्थवत्ताम् अश्नुवीत । +++(5)+++
 </details>
 
 <details><summary>English</summary>
 
-If it is said that its modifications are unreal (we ask) do you admit changes which are ultimately real and believe in any entity having an origin and still being ultimately real? It is only if these are admitted, the qualification 'ultimately real' can be fruitfully applied either to the major or to the middle term.
+If it is said that its modifications are unreal  
+(we ask) do you admit changes which are ultimately real and believe in any entity having an origin and still being ultimately real? It is only if these are admitted, the qualification 'ultimately real' can be fruitfully applied either to the major or to the middle term.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9929,7 +9937,8 @@ If it is said that its modifications are unreal (we ask) do you admit changes wh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा च सति साधु समर्थितम् [[तर्ककुशलेनेत्यमनेन|तर्ककुशलेनामुनेति]] ।
+तथा च सति  
+साधु "समर्थितम्" तर्क-कुशलेनामुनेति । +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -9948,11 +9957,18 @@ If these are admitted, then your case has, indeed, been ably defended by one ski
 अयं भावः परमार्थ-विकारादेः [[परमार्थउत्पत्तेर्वानुपगमाद्भवतां|परमार्थोत्पत्तेर्वा अनुपगमाद् भवतां]] साध्य-हेत्वोः पारमार्थ्य-विशेषणं न घटते । साध्य-साधन-व्यतिरेक-व्याप्तीनाम् अप्रसिद्धि-प्रसङ्गात् । अविशेषणे च व्यभिचारस्य स्वरूपासिद्धेर्वा न परिहार-सम्भव इति । **तथा च सती**ति । उपहास-गर्भम् उपालम्भ-वचनम् इदम् । तथा च [[सतिविशेषणदाने|सति विशेषण-दाने]] सति च । व्यभिचार-वारकं विशेषणं विवक्षतासिद्धौ दृष्टिर् न विधीयत इति भावः ।
 </details>
 
-### The contention that if consciousness is unborn, it cannot have differentiations is refuted:-
+### स-विभागिता ऽनादित्वेऽपि
+<details><summary>English - Topic</summary>
+
+The contention that if consciousness is unborn, it cannot have differentiations is refuted:-
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अपि "न ह्य् अजम् विभाग्यस्ती"ति ; तद् अपि न ; अजस्यैवात्मनो देहेन्द्रियादिभ्यो विभागस्य समर्थितत्वात् ।
+यद् अपि "न ह्य् अ-जम् विभाग्य् अस्ती"ति ;  
+तद् अपि न ;  
+अजस्यैवात्मनो देहेन्द्रियादिभ्यो विभागस्य समर्थितत्वात्,
 </details>
 
 <details><summary>English</summary>
@@ -9973,7 +9989,8 @@ The statement that what is unborn cannot possess differentiations is not correct
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनादित्वेनाभ्युपगतस्य अज्ञानस्यात्मनो व्यतिरिक्ततयावश्याश्रयणीयत्वात् ।
+अन्-आदित्वेनाभ्युपगतस्याज्ञानस्य  
+आत्मनो व्यतिरिक्ततया ऽवश्याश्रयणीयत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -9997,9 +10014,12 @@ and because ignorance, which is admitted to be beginningless, has necessarily [[
 पराभिमते ऽज्ञाने ऽपि तद् आह **अनादित्वेने**ति ।
 </details>
 
+#### अपारमार्थ्येऽपि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ-परमार्थः स विभाग इति चेत्, परमार्थ-भेदः किं जन्म-प्रतिबद्धः क्वचिद् दृष्टः ?
+"अ-परमार्थः स विभाग" इति चेत्,  
+परमार्थ-भेदः किं जन्म-प्रतिबद्धः क्वचिद् दृष्टः   
++++(येन "परमार्थ-भेदोऽस्त्य् अत्र सजन्मत्वात्" इत्य् उच्येत त्वन्-मते)+++ ?
 </details>
 
 <details><summary>English</summary>
@@ -10009,7 +10029,9 @@ If it is said that this differentiation is phenomenal, (we ask) have you observe
 
 <details><summary>English - Notes</summary>
 
-[F40_64]: In order to prove that consciousness admits of no real distinctions, because it has no origin, the negative concomitance (vyatirekavyapti) - whatever has real distinctions must have an origin - must be cited. But as the opponent does not admit real distinctions, he cannot point to any instance of this negative generalisation. Hence, his argument commits the fallacy of vyapyatvasiddhi. Moreover, if the distinction of avidya from the self is not real, it follows that ignorance itself may become the self.
+[F40_64]: In order to prove that consciousness admits of no real distinctions, because it has no origin,  
+the negative concomitance (vyatirekavyapti) - whatever has real distinctions must have an origin - must be cited. But as the opponent does not admit real distinctions, he cannot point to any instance of this negative generalisation. 
+Hence, his argument commits the fallacy of vyapyatvasiddhi. Moreover, if the distinction of avidya from the self is not real, it follows that ignorance itself may become the self.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10025,7 +10047,8 @@ If it is said that this differentiation is phenomenal, (we ask) have you observe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्बाध-प्रतीति-सिद्धश् च दृग्-दृश्य-भेदः परमार्थ एवेत्य् अनन्तरम् एवोपपादयिष्यामः ।
+निर्बाध-प्रतीति-सिद्धश् च दृग्-दृश्य-भेदः  
+परमार्थ एवेत्य् अनन्तरम् एवोपपादयिष्यामः ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -10049,7 +10072,13 @@ It will be shown presently that the distinctions existing between various kinds 
 संविदि सजातीय-भेद-निषेधे साध्यमाने अध्यक्ष-बाधम् आह **निर्बाधे**ति । [[दृग्दृश्यभेदःदृशां|दृग्दृश्य-भेदः दृशां]], दृश्यानां, दृग्-दृश्यानां च मिथो भेदः ।
 </details>
 
-### The contention that consciousness is qualityless stands self-refuted:-
+### सविशेषता
+<details><summary>विषयः</summary>
+
+The contention that consciousness is qualityless stands self-refuted:-
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
