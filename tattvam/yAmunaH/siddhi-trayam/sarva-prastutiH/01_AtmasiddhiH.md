@@ -10078,11 +10078,17 @@ It will be shown presently that the distinctions existing between various kinds 
 The contention that consciousness is qualityless stands self-refuted:-
 </details>
 
-
-
+#### स्वयम्-प्रकाशत्व--नित्यत्वादिभिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अपि "नास्याः मेयः धर्मो ऽप्य् अस्ति ; चेत्यानां न चित्-धर्मत्वम्" इति च ; तद् अपि शास्त्रानुमानादि-प्रमाण-सिद्धैः स्वयम्-प्रकाशत्व-नित्यत्वादि-धर्मैः स्वयम् अभ्युपगतैर् अनैकान्तिकम् ।
+यद् अपि 
+
+> "नास्या मेयो धर्मो ऽप्य् अस्ति ;  
+चेत्यानां न चिद्-धर्मत्वम्" 
+
+इति च ;  
+तद् अपि शास्त्रानुमानादि-प्रमाण-सिद्धैः स्वयम्-प्रकाशत्व--नित्यत्वादि-धर्मैः  
+स्वयम् अभ्युपगतैर् अनैकान्तिकम् ।
 </details>
 
 <details><summary>English</summary>
@@ -10108,7 +10114,13 @@ The contention that consciousness does not possess the attributes which are obje
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च ते चिति-मात्रम् इति वाच्यम् ; तत्-सिद्धाव् अपि तेषु विमति-दर्शनात् ।
+न च 
+
+> ते +++(धर्माः)+++ चिति-मात्रम् 
+
+इति वाच्यम् ;  
+तत्-सिद्धाव् अपि  
+तेषु विमति-दर्शनात् ।
 </details>
 
 <details><summary>English</summary>
