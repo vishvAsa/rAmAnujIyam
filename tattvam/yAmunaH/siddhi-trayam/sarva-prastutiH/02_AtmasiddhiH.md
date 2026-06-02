@@ -10683,66 +10683,65 @@ But, in your view, consciousness is mere consciousness. With regard to itself, c
 </details>
 
 
-## नाहङ्कारः
+## न ज्ञातृत्वं भ्रमः
+<details><summary>विषयः</summary>
 
+It cannot be maintained that jnātṛtva is superposed on consciousness:
+</details>
 
-### It cannot be maintained that jnātṛtva is superposed on consciousness:
-
+### भ्रम-पक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्य् उच्येत परमार्थतः तथाभूतापि भ्रान्त्यानुभवितृतया परिस्फुरति रजततयेव शुक्तिः ।
+यद्य् उच्येत -  
+
+> परमार्थतः तथा-भूता ऽपि  
+भ्रान्त्या ऽनुभवितृतया **परिस्फुरति**  
+रजततयेव शुक्तिः ।  
+न हि तथ्यम् अनवलम्ब्य  
+मिथ्याऽवभासस्योत्थानम् 
+
+इति; तद् न ।
 </details>
 
 <details><summary>English</summary>
 
-Should it be argued that, even though consciousness is ultimately only consciousness, but falsely appears as an experiencing subject, just as the shell appears as silver,
-</details>
-
-<details><summary>मूलम्</summary>
-
-यद्युच्येत परमार्थतः तथाभूतापि भ्रान्त्यानुभवितृतया परिस्फुरति रजततयेव शुक्तिः ।
-</details>
-
-
-<details><summary>टीका</summary>
-
-तत्रादौ ज्ञातृत्व-प्रतीतेर् भ्रान्तिरूपतां पराभिमताम् अनुवदति **यद्युच्येते**ति । संविन्मात्र परमार्थः । स एवात्मा । अस्मिन् अधिष्ठाने ज्ञातुर् अहम्-अर्थस्य भ्रान्तिः शुक्ताव् इव रजतस्य । भ्रमोपपत्त्य्-अर्थम् अधिष्ठान-संविन्मात्र-पारमार्थ्यम् अभ्युपेयम् इति परेषाम् आशयः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-न हि तथ्यम् अनवलम्ब्य मिथ्यावभासस्योत्थानम् इति ; तद् न ।
-</details>
-
-<details><summary>English</summary>
-
+Should it be argued that, even though consciousness is ultimately only consciousness, but falsely appears as an experiencing subject, just as the shell appears as silver,  
 and that (this consciousness itself cannot be said to be illusory, for) without a real basis no illusion can arise, this argument is unsound.
 </details>
 
 <details><summary>मूलम्</summary>
 
+यद्युच्येत परमार्थतः तथाभूतापि भ्रान्त्यानुभवितृतया परिस्फुरति रजततयेव शुक्तिः ।  
 न हि तथ्यमनवलम्ब्य मिथ्यावभासस्योत्थानमिति; तन्न ।
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+तत्रादौ ज्ञातृत्व-प्रतीतेर् भ्रान्तिरूपतां पराभिमताम् अनुवदति **यद्युच्येते**ति । संविन्मात्र परमार्थः । स एवात्मा । अस्मिन् अधिष्ठाने ज्ञातुर् अहम्-अर्थस्य भ्रान्तिः शुक्ताव् इव रजतस्य । भ्रमोपपत्त्य्-अर्थम् अधिष्ठान-संविन्मात्र-पारमार्थ्यम् अभ्युपेयम् इति परेषाम् आशयः ।
 
 दूषयति **तन्ने**ति ।
 </details>
 
+### "अनुभूतिर् अहम्" इत्य् अप्रतीतेः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा सति अनुभव-समानाधिकरणतयानुभविताहम्-अर्थः प्रकाशेत अनुभूतिर् अहम् इति , पुरस्-स्थित-भास्वर-द्रव्य-शङ्ख-मुख-चन्द्रादेर् आकारतयेव [[P43]] रजत-पीत-मुकुर-स्थता-द्वित्वादि ।
+तथा सति  
+अनुभव-समानाधिकरणतया  
+ऽनुभविता ऽहम्-अर्थः प्रकाशेत  
+"अनुभूतिर् अहम्" इति ,  
+पुरस्-स्थित-भास्वर-द्रव्य-- शङ्ख-मुख-चन्द्रादेर् आकारतयेव   
+रजत-पीत-मुकुर-स्थताद्वित्वादि । [[P43]]+++(5)+++
 </details>
 
 <details><summary>English</summary>
 
-On this view, the conscious 'I' would shine forth as equivalent to consciousness, taking the form 'consciousness is I,' even as silver, the yellow colour, the quality of being existent in the mirror, [[P43]] duality and the like appear falsely as being the form of the lustrous object presented before us, the conch, the face, the moon and the like.[^1]
+On this view, the conscious 'I' would shine forth as equivalent to consciousness, taking the form 'consciousness is I,' even as silver, the yellow colour, the quality of being existent in the mirror, [[P43]] duality and the like appear falsely as being the form of the lustrous object presented before us, the conch, the face, the moon and the like.[F1]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^1]: When a piece of shell is mistaken for silver, the illusion takes the form 'This is silver,' and not 'shell is silver'; for, so long as the specific qualities of an object are known, no illusion with regard to it can arise. Likewise, when consciousness erroneously appears as the 'I,' the illusion must take the form 'This is I' and not 'consciousness is I'. Hence, it may be asked: How can it be asserted that the illusion concerning consciousness would take the form 'consciousness is I'? Our reply is that in the case of shell-silver it is not the shell aspect of the presented object, but some other aspect that causes the illusion. But in the case of consciousness, as the opponent describes it to be attributeless, it cannot be said that some aspect other than that of being consciousness leads to the illusion. Hence, it has to be admitted that even when its specific aspect of being consciousness is known consciousness gives rise to the illusion of 'I' and takes the form 'consciousness is I.' See Śruta Prakāśikā
+[F1]: When a piece of shell is mistaken for silver, the illusion takes the form 'This is silver,' and not 'shell is silver'; for, so long as the specific qualities of an object are known, no illusion with regard to it can arise. Likewise, when consciousness erroneously appears as the 'I,' the illusion must take the form 'This is I' and not 'consciousness is I'. Hence, it may be asked: How can it be asserted that the illusion concerning consciousness would take the form 'consciousness is I'? Our reply is that in the case of shell-silver it is not the shell aspect of the presented object, but some other aspect that causes the illusion. But in the case of consciousness, as the opponent describes it to be attributeless, it cannot be said that some aspect other than that of being consciousness leads to the illusion. Hence, it has to be admitted that even when its specific aspect of being consciousness is known consciousness gives rise to the illusion of 'I' and takes the form 'consciousness is I.' See Śruta Prakāśikā
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10751,14 +10750,18 @@ On this view, the conscious 'I' would shine forth as equivalent to consciousness
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **तथा सती**ति । **अयम् आशयः** धर्मिणि धर्म्यन्तरारोपे आरोप्याधिष्ठानयोः समानाधिकरण्येन (अभेदेन) भानं भवेद् इदं रजतम् इति यथा । अन्यत्रान्य-धर्मारोपे चारोप्य-धर्मवता तथा भानं दृष्टं शङ्खः पीतवान्, मुख दर्पणस्थं, चन्द्रौ द्वाव् इति । न चैवम् अत्रानुभूतिर् अहम् इति वा अहंवतीति वा भानम् अस्ति । तन् न संविदि अहम्-अर्थारोपः इति युक्तम् इति । अहम्-अर्थे संविद्-आरोपोपगमस् तु न घटते परेषाम् सत्यालम्बनत्व-नियमाद् आरोपस्य, अहम्-अर्थस्य चासत्यत्वाद् इति ध्येयम् ।
 </details>
 
+### विशेष्य-प्रकाशापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथग् अवभासमान एव तु अयम् अनुभवो दण्ड इव देवदत्तम् अर्थान्तरम् [[अहमर्थंविशिंषनालक्ष्यते|अहम्-अर्थं विशिंषन् आलक्ष्यते]] अनुभवाम्य् अहम् इति ।
+पृथग् अवभासमान एव त्व् अयम् अनुभवो  
++++("दण्डी देवदत्त"→)+++ दण्ड इव देवदत्तम्  
+अर्थान्तरम् अहम्-अर्थं विशिंषन्न् आलक्ष्यते  
+"अनुभवाम्य् अहम्" इति ।
 </details>
 
 <details><summary>English</summary>
@@ -10772,14 +10775,16 @@ This consciousness which always presents itself as something distinct (from the 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**पृथग्** इति । पृथग्-अवभासमानत्वं प्रकारतया प्रकारिणो विलक्षणत्वेन भासमानत्वम् । अहन्-दण्डीति प्रतीतितुल्यत्वाद् अहम् जानामीति प्रतीतेर् अहम्-अर्थे ज्ञानधर्मवत्तावगाहित्वम् एवेति यावत् ।
+**पृथग्** इति । पृथग्-अवभासमानत्वं प्रकारतया प्रकारिणो विलक्षणत्वेन भासमानत्वम् । अहं दण्डीति प्रतीतितुल्यत्वाद् अहम् जानामीति प्रतीतेर् अहम्-अर्थे ज्ञानधर्मवत्तावगाहित्वम् एवेति यावत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् एवम् अनुभव-विशिष्टम् अस्मद्-अर्थम् अवभासयन् अयम् अहम्-प्रत्ययः कथम् इव विशेषण-भूतानुभूति-मात्रावलम्बनः प्रतिज्ञायेत , दण्ड-मात्र इव दण्डी देवदत्त इति प्रत्ययः ।
+तद् एवम् अनुभव-विशिष्टम् अस्मद्-अर्थम् अवभासयन्न् अयम् अहम्-प्रत्ययः  
+कथम् इव विशेषण-भूतानुभूति-मात्रावलम्बनः प्रतिज्ञायेत,  
+दण्ड-मात्र इव "दण्डी देवदत्त" इति प्रत्ययः ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -10793,16 +10798,20 @@ when the judgment 'Devadatta holds a stick' does not have for its object the sti
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **तद् एवम्** इति । दण्डमात्रे इति विषयसप्तमी । दण्डमात्रालम्बन इत्य्-अर्थः । यथा दण्डी पुरुष इत्य् अत्र दण्डमात्रस्य सत्यत्वं पुरुषस्यारोपितत्वं च न, एवम् अहम् जानामीत्य् अत्रापि न ज्ञानमात्रस्य [[सत्स्त्वं|सत्त्वं]] ज्ञातुर् मिथ्यात्वं च । किन्तु ज्ञातुर् अहम्-अर्थस्य सत्यत्वम् एव युक्तम् अभ्युपगन्तुं बाधकानुपलब्धेर् इत्य्-आशयः ।
 </details>
 
-### Refutation of the view that jnātṛtva is the result of superimposition:
+### अध्यासे प्रमाणाभावः
+<details><summary>विषयः</summary>
+
+Refutation of the view that jnātṛtva is the result of superimposition:
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतश्चैष [[निश्चयःअध्यस्तं|निश्चयो ऽध्यस्तं]] ज्ञातृत्वम् इति ? ।
+कुतश्चैष निश्चयः - "अध्यस्तं ज्ञातृत्वम्" इति ? ।
 </details>
 
 <details><summary>English</summary>
@@ -10812,18 +10821,22 @@ How (we ask) did you arrive at the conclusion that the character of being a know
 
 <details><summary>मूलम्</summary>
 
-कुतश्चैष निश्चयःअध्यस्तं ज्ञातृत्वमिति? ।
+कुतश्चैष निश्चयः अध्यस्तं ज्ञातृत्वमिति? ।
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ज्ञातृत्वप्रतीतेर् भ्रान्तित्वे [[अनुयुङ्ले|ऽनुयुङ्क्ते]] किं नियामकम् इति **कुत** इति ।
+ज्ञातृत्वप्रतीतेर् भ्रान्तित्वे ऽनुयुङ्क्ते किं नियामकम् इति **कुत** इति ।
 </details>
 
+#### न देहात्माभिमानतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[स्थूलोऽहमितिवत्देहात्माभिमानवतः|स्थूलो ऽहम् इति-वत् देहात्माभिमान-वतः]] प्रतिभासनाद् इति चेत् ;
+> "स्थूलो ऽहम्" इति-वत्  
+देहात्माभिमानवतः प्रतिभासनाद् 
+
+इति चेत् ;
 </details>
 
 <details><summary>English</summary>
@@ -10837,14 +10850,16 @@ If it is replied that this, like the statement 'I am stout', presents itself onl
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 पूर्वपक्षी तत्प्रतिवक्ति **स्थूल** इति । भ्रान्तैर् गृह्यमाणत्वाज् ज्ञातृत्वम् अध्यासलक्षणम् इति भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नन्व् आत्मतयाभिमतानुभूतिर् अपि [[तदूत|तद्वत]] एवावभातीति सापि तथा स्यात् ।
+नन्व् आत्मतया +++(भवता)+++ ऽभिमता ऽनुभूतिर् अपि 
+तद्वत+++(य्)+++ एवावभातीति  
+सापि तथा +++(देहात्माभिमान-कृता)+++ स्यात् ।
 </details>
 
 <details><summary>English</summary>
@@ -10854,23 +10869,30 @@ since the consciousness too, which you regard as the self, presents itself only 
 
 <details><summary>मूलम्</summary>
 
-नन्वात्मतयाभिमतानुभूतिरपि तदूत एवावभातीति सापि तथा स्यात् ।
+नन्वात्मतयाभिमतानुभूतिरपि तद्वत एवावभातीति सापि तथा स्यात् ।
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-नेदम् अध्यस्तत्व-साधकं बाधितत्वेन सोपाधिकत्वाद् इत्य्-आशयम् अन्तर्निधाय प्रतिबन्दीम् आह **नन्वात्मतये**ति ।
+नेदम् अध्यस्तत्व-साधकं बाधितत्वेन सोपाधिकत्वाद्  
+इत्य्-आशयम् अन्तर्निधाय प्रतिबन्दीम् आह **नन्वात्मतये**ति ।
 </details>
 
+### तत्त्व-ज्ञानोदये ज्ञातृत्व-नाशोऽनिष्टः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्-त्व-ज्ञानोदयात् परतो ऽपि तद्-अनुवृत्तेर् न तथा सेति चेत् ;
+> तत्त्व-ज्ञानोदयात् परतो ऽपि तद्+++(←संविद्)+++-अनुवृत्तेर्,  
+न तथा +++(→देहात्मभ्रमकृता)+++ सा +++(संवित्)+++
+
+इति चेत् ;
 </details>
 
 <details><summary>English</summary>
 
-If it be said that, since consciousness continues even after the dawn of true knowledge of reality, it cannot be illusory,
+If it be said that,  
+since consciousness continues even after the dawn of true knowledge of reality,  
+it cannot be illusory,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10879,24 +10901,24 @@ If it be said that, since consciousness continues even after the dawn of true kn
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 देहात्मभ्रमवता गृह्यमाणाया अपि संविदो ऽबाध्यत्वान् न मिथ्यात्वम् इति समाधिं वाचयति पूर्वपक्षिमुखतः **तत्त्वज्ञानोदया**द् इति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं भोः ! तत्त्व-ज्ञानात् परम् अबोद्धैवायम् आत्मा ?
+किं भोः ! तत्त्व-ज्ञानात् परम् अबोद्धा+ एवायम् आत्मा ?
 </details>
 
 <details><summary>English</summary>
 
-(we ask) 'Sir, does the self really cease to be a knower after the acquisition of true knowledge?'[^2]
+(we ask) 'Sir, does the self really cease to be a knower after the acquisition of true knowledge?'[F2]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^2]: Scriptural passages describing the state of release definitely declare that the released soul continues to be a knower. Hence, it cannot be maintained that with the rise of true knowledge the quality of being a knower vanishes.
+[F2]: Scriptural passages describing the state of release definitely declare that the released soul continues to be a knower. Hence, it cannot be maintained that with the rise of true knowledge the quality of being a knower vanishes.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10905,7 +10927,7 @@ If it be said that, since consciousness continues even after the dawn of true kn
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 तुल्यम् इदम् ज्ञातृत्वस्यानध्यस्तत्वम् इत्य् आह **किं भोर्** इति । तत्त्वज्ञानफले मोक्षे ऽपि ज्ञातृत्वम् अनुवर्तत इत्य् अबाधितत्वम् इति इत्य्-आशयः ।
 </details>
@@ -10926,14 +10948,14 @@ Oh! if that were so, it would be far better not to be a knower of the real than 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मोक्षे ज्ञातृत्वस्य निवृत्ताव् अनर्थं प्रसञ्जयति **हन्तैवम्** इति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ्रान्त्यापि हि तत्र बहु भद्रं पश्यतीति ।
+भ्रान्त्यापि हि तत्र बहु भद्रं पश्यतीति ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -10947,28 +10969,39 @@ for, at least in the state of illusion, he would perceive, many a happy thing.
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-दुःखनिवृत्त्या मुक्तेः पुमर्थत्वम् इति चेद् आनन्दानुभवनिवृत्त्यानुभवित्र्-अहम्-अर्थ-निवृत्त्या चापुमर्थत्वं प्रसज्यते इति भावः ।
+> दुःखनिवृत्त्या मुक्तेः पुमर्थत्वम् 
+
+इति चेद् आनन्दानुभव-निवृत्त्यानुभवित्र्-अहम्-अर्थ-निवृत्त्या चापुमर्थत्वं प्रसज्यते  
+इति भावः ।+++(5)+++
 </details>
 
-### The contention that jnātṛtva resides in ahamkāra:
+### नाहङ्कार-वर्ति
+#### कर्तृत्वात्?
+<details><summary>विषयः</summary>
+
+The contention that jnātṛtva resides in ahamkāra:
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु ज्ञातृत्वं ज्ञान-क्रिया-कर्तृत्वं विक्रियात्मकं जडम् अहङ्कार-ग्रन्थि-स्थम् ।
+> ननु ज्ञातृत्वं ज्ञान-क्रिया-कर्तृत्वं  
+विक्रियात्मकं जडम्  
+अहङ्कार-ग्रन्थि-स्थम् ।
 </details>
 
 <details><summary>English</summary>
 
-You may maintain that to be a knower is to be an agent in the act of knowing, to be liable to change,[^3] to be non-intelligent, and to reside in the knot of the ahamkāra,[^4]
+You may maintain that to be a knower is to be an agent in the act of knowing, to be liable to change,[F3] to be non-intelligent, and to reside in the knot of the ahamkāra,[F4]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^3]: Knowledge is an activity and it has a beginning and an end; hence, the quality of being an agent in the act of knowing must have a beginning and end, that is, must be subject to change.
+[F3]: Knowledge is an activity and it has a beginning and an end; hence, the quality of being an agent in the act of knowing must have a beginning and end, that is, must be subject to change.
 
-[^4]: Ahamkāra is spoken of as a knot (granthi) either because it is the root cause of the tangled mass of illusions or because it binds the jīva closely to the manifold illusions which are, in fact, its own handiwork.
+[F4]: Ahamkāra is spoken of as a knot (granthi) either because it is the root cause of the tangled mass of illusions or because it binds the jīva closely to the manifold illusions which are, in fact, its own handiwork.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10977,7 +11010,7 @@ You may maintain that to be a knower is to be an agent in the act of knowing, to
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 ज्ञातृत्वादेर् अनात्मधर्मत्वात् तन्-निवृत्ताव् अपि न पुमर्थतोपघातो मुक्तेर् इति शङ्कते **ननु ज्ञातृत्वम्** इति । अहङ्कारो ऽन्तःकरणम्, तद् एव दुर्मोचत्वाद् ग्रन्थिः, तन्निष्ठम् एव ज्ञातृत्वं ज्ञानात्मना परिणामलक्षणं विक्रियात्मकं जडपरिणामत्वाज् जडं चेत्य्-अर्थः ।
 
@@ -10986,17 +11019,17 @@ You may maintain that to be a knower is to be an agent in the act of knowing, to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्-फल-भुग् अकर्ताविक्रियः साक्षी प्रकाश-मात्र आत्मा ।
+> तत्-फल-भुग् अ-कर्ताविक्रियः साक्षी प्रकाश-मात्र आत्मा ।
 </details>
 
 <details><summary>English</summary>
 
-and that the self is the enjoyer of the fruits of the knowing process, a non-agent, a changeless entity, the witness (sākṣin)[^5] and pure luminosity;
+and that the self is the enjoyer of the fruits of the knowing process, a non-agent, a changeless entity, the witness (sākṣin)[F5] and pure luminosity;
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^5]: According to the Advaitins the ultimate reality, Brahman, which is one, undifferenced, eternal and self-luminous consciousness (caitanya), is particularised by the antaḥkaraṇa in two ways. When Brahman is determined by antaḥkaraṇa as a qualifying attribute (viśeṣaṇa) it is called the jīva; when it is determined by antaḥkaraṇa as a limiting adjunct only (upādhi), it is called the sākṣin. The antaḥkaraṇa is inseparably bound up with jīva, but is separable from the sākṣin. The sākṣin performs the office of manifesting the objects known as well as the knowing subject. Since all diversity takes its roots in ajñāna, the sākṣin which illumines objects of experience and the experiencer, is spoken of as the 'witness of ajñāna.'
+[F5]: According to the Advaitins the ultimate reality, Brahman, which is one, undifferenced, eternal and self-luminous consciousness (caitanya), is particularised by the antaḥkaraṇa in two ways. When Brahman is determined by antaḥkaraṇa as a qualifying attribute (viśeṣaṇa) it is called the jīva; when it is determined by antaḥkaraṇa as a limiting adjunct only (upādhi), it is called the sākṣin. The antaḥkaraṇa is inseparably bound up with jīva, but is separable from the sākṣin. The sākṣin performs the office of manifesting the objects known as well as the knowing subject. Since all diversity takes its roots in ajñāna, the sākṣin which illumines objects of experience and the experiencer, is spoken of as the 'witness of ajñāna.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -11005,14 +11038,16 @@ and that the self is the enjoyer of the fruits of the knowing process, a non-age
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 आत्मनः स्वरूपम् आह **तत्फले**ति । कर्तृत्वस्य फलभोक्ता, अविक्रियत्वाद् अकर्ता, [[प्रकाशमात्न|प्रकाशमात्र]]-स्वरूपतया साक्षी चात्मास्तीत्य्-अर्थः । प्रकाशः मात्रा यस्य सः प्रकाशमात्रः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कर्तृत्वादिर् हि दृश्यत्वाद् रूपादि-वन् नात्म-धर्मः ।
+> कर्तृत्वादिर् हि  
+दृश्यत्वाद् रूपादिवन्  
+नात्म-धर्मः ।
 </details>
 
 <details><summary>English</summary>
@@ -11026,14 +11061,16 @@ and that the character of being an agent and the like cannot be the attributes o
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 यद् अपि कर्तृत्वादिर् दृश्यत्वान् नात्मधर्मः इति, तद् अपि मन्दम् । दृश्यत्वं चेद् बाह्येन्द्रिय-ग्राह्यत्वं तद् असिद्धम् आन्तर-प्रयत्नाधारत्व-लक्षणे पक्षे । अनुभाव्यत्वं चेत् तत्, तर्ह्य् अप्रयोजकत्वं हेतोः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कर्तृत्वे ह्य् आत्मनो ऽहम्-प्रत्यय-गोचरत्वे ऽपि [[देहस्येवानत्मत्व|देहस्येवानात्मत्व]] परार्थत्व-जडत्वादि-प्रसङ्गो दुर्निवारः ।
+> कर्तृत्वे ह्य्  
+आत्मनो ऽहम्-प्रत्यय-गोचरत्वे ऽपि  
+देहस्येवानात्मत्व– परार्थत्व-जडत्वादि-प्रसङ्गो दुर्निवारः ।
 </details>
 
 <details><summary>English</summary>
@@ -11047,7 +11084,7 @@ and that if the quality of being an agent belongs to the self, even though the l
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **कर्तृत्वे** इति । आत्मा न कर्ता नाप्य् अहम्-अर्थः, आत्मत्वाद् अनन्यार्थत्वाद् अजडत्वाद् अविक्रियत्वाद् वा तन् नैवम् यन् नैवम् यथा देह इति प्रयोगा अत्र गर्भिताः ।
 
@@ -11056,7 +11093,9 @@ and that if the quality of being an agent belongs to the self, even though the l
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृष्टं च लौकिक-वैदिक-कर्मसु कर्तृतया प्रसिद्धाद् देहात् तत्-क्रिया-फल-भुजः प्रमातुः अहम्-प्रत्ययिनः पृथक्त्वम् ।
+> दृष्टं च लौकिक-वैदिक-कर्मसु  
+कर्तृतया प्रसिद्धाद् देहात्  
+तत्-क्रिया-फल-भुजः प्रमातुर् अहम्-प्रत्ययिनः पृथक्त्वम् ।
 </details>
 
 <details><summary>English</summary>
@@ -11070,14 +11109,16 @@ and that the distinction of the knower, who is the object of the consciousness o
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 कर्तृ-भिन्नस्य भोक्तृत्वं कथम्? तत्राह **दृष्टम्** इति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथेहापि प्रमातुर् अहम्-अर्थाद् विलक्षणः साक्षी प्रत्यग्-आत्मेति युक्तम् ।
+> तथेहापि  
+प्रमातुर् अहम्-अर्थाद् विलक्षणः  
+साक्षी प्रत्यग्-आत्मेति युक्तम् ।
 </details>
 
 <details><summary>English</summary>
@@ -11090,7 +11131,13 @@ and that similarly here also it is reasonable to admit that the witnessing inwar
 तथेहापि प्रमातुरहमर्थाद्विलक्षणः साक्षी प्रत्यगात्मेति युक्तम् ।
 </details>
 
-### This is opposed to everyday experience.
+#### ज्ञातैव साक्षी
+
+<details><summary>विषयः</summary>
+
+This is opposed to everyday experience.
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11108,14 +11155,15 @@ This argument (of yours) is illogical,
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 एतद् दूषयति **नैवम्** इति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहं जानामीति ज्ञातृतया सिध्यतः प्रत्यग्-आत्मनो व्यतिरेकेण [[सिक्षिणो|साक्षिणो]] नाम प्रकाश-मात्रस्यात्मनो ऽनुपलब्धेः ।
+"अहं जानामी"ति ज्ञातृतया सिध्यतः प्रत्यग्-आत्मनो व्यतिरेकेण  
+साक्षिणो नाम प्रकाश-मात्रस्यात्मनो ऽनुपलब्धेः ।
 </details>
 
 <details><summary>English</summary>
@@ -11129,7 +11177,7 @@ for, apart from the inward self which shines forth as the knower in the judgment
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 ज्ञातृ-व्यतिरिक्तस्य प्रकाशमात्रस्यात्मनो ऽनुपलम्भबाधम् उक्त्वा
 </details>
@@ -11141,12 +11189,12 @@ for, apart from the inward self which shines forth as the knower in the judgment
 
 <details><summary>English</summary>
 
-The character of inwardness as attributed to the self (pratyaktva) consists precisely in the quality of being 'I' found in that entity which by virtue of its being the seat of knowledge, is marked off from the body, senses, mind, vital breath and consciousness, and which, contrary to the procedure of outward objects, proceeds, as it were, and shines for its own sake.[^6]
+The character of inwardness as attributed to the self (pratyaktva) consists precisely in the quality of being 'I' found in that entity which by virtue of its being the seat of knowledge, is marked off from the body, senses, mind, vital breath and consciousness, and which, contrary to the procedure of outward objects, proceeds, as it were, and shines for its own sake.[F6]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^6]: Outward objects present themselves for the sake of the knowing subject, and not for their own sake. Svasmai bhāsamānatvam pratyaktvam. Parasmai bhāsamānatvam paraktvam.
+[F6]: Outward objects present themselves for the sake of the knowing subject, and not for their own sake. Svasmai bhāsamānatvam pratyaktvam. Parasmai bhāsamānatvam paraktvam.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -11155,7 +11203,7 @@ The character of inwardness as attributed to the self (pratyaktva) consists prec
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 प्रत्यक्त्वबलाद् एवाहम्-अर्थत्वम् आत्मनः एषितव्यम् इति इत्य् आह **देहेन्द्रिये**ति । ज्ञानस्य देहादाव् असम्भवाद् हि तद्वैलक्षण्यम् आत्मनः साधितम् । तज् ज्ञातृत्वम् आत्मनः एष्टव्यम् । देहादिश् चेदङ्कारगोचरः । तत्राहङ्कारस् त्व् आभिमानिकः एव । तद्-अहंभावस्य देहादिगतेदम्भावतः प्रतीपत्वं विरुद्धत्वम् । प्रतीपम् अञ्चतीति च [[प्रत्यकू|प्रत्यक्]] अहङ्कारगोचरः । तत्-प्रत्यक्त्वाद् अहन्त्वम् आत्मनः आपतति । देहादेर् दृश्याद् इदङ्कारगोचराद् द्रष्टर्य् आत्मनि प्रतीपं विरुद्धमार्गं गच्छतीवेत्य्-उत्प्रेक्षा । मूले अञ्चतीति सप्तम्यन्तम् । स्थिते आत्मनीति शेषः ।
 </details>
@@ -11176,7 +11224,7 @@ The character of being a witness as attributed the same (self) consists in being
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **साक्षित्वम्** अपीति । **साक्षाद् द्रष्टरि सञ्ज्ञायाम्** इति इत्य्-अनुशासनाद् इति भावः ।
 </details>
@@ -11212,7 +11260,7 @@ Since all objects that are manifested reveal themselves to the knower who shines
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 सर्वं च ज्ञेयं [[ज्ञात्नात्मन|ज्ञात्रात्मन]] एव भासते न [[ज्ञानमात्नाय|ज्ञानमात्राय]] । ततश् च ज्ञातुर् एवात्मत्वं न [[ज्ञानमात्नस्य|ज्ञानमात्रस्येत्य्]] आह **सर्वम्** इति । चकासते इति चतुर्थ्यन्तम् । अतश् च न [[ज्ञानमात्नस्य|ज्ञानमात्रस्य]] साक्षित्वं सम्भवति, किन्तु ज्ञातुर् एवेति तस्यैवात्मत्वं न [[ज्ञानमात्नस्य|ज्ञानमात्रस्येति]] हार्दम् ।
 </details>
@@ -11250,7 +11298,7 @@ The quality of being a knower cannot belong to that modification of unmanifest p
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 एवम् आत्मनः एव ज्ञातृत्वम् अहन्त्वम् च मुख्यम् इति इत्य् उक्त्वा प्रकृति-परिणाम-विशेषे बुद्ध्याख्ये महत्तत्वे तत्कार्ये ऽहङ्कारे वा ज्ञातृत्वम् अनुपपन्नम् इति इत्य् आह **न चाव्याकृते**ति । अचेतनत्वम् अनात्मत्वम्, न त्व्-अज्ञातृत्वम् । साध्यहेत्वोर् ऐक्य-प्रसङ्गात् । महानहङ्कारो वा न ज्ञाता अनात्मत्वात् परिणामित्वाज् जडत्वात् परार्थत्वाद् वा देहवद् इति प्रयोगः ।
 </details>
@@ -11273,7 +11321,7 @@ Nor can it be said that the quality of being a knower may well belong to egoity 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 ननु ज्ञातृत्वस्यासम्भवे ऽपि चिच्छायापत्या चित्-सम्पर्काद् वा [[तत्न|तत्र]] ज्ञातृत्वप्रतीतिर् अस्त्व् इति [[इत्यत्नाह|इत्य्-अत्राह]] **न च चिती**ति । अरूपत्वाच् चितो न प्रतिबिम्बो बुद्ध्यादौ सम्भवति । yeन स्फटिके लोहित-प्रतिभासवत् [[तत्न|तत्र]] चैतन्य-प्रतिभासो भवेत् ।
 </details>
@@ -11309,7 +11357,7 @@ Besides, on your view, the quality of being a knower does not really belong to c
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 न च चितौ ज्ञातृत्वम् अस्ति । येन तत्सम्पर्कात् [[तत्न|तत्र]] ज्ञातृत्वं तत्-प्रतिभानं वा भवेद् अग्निसङ्गाद् अयसि औष्ण्यभानवद् इति भावः । सांसर्गिको गुणो दोषो वा [[तत्न|तत्र]] [[तत्न|तत्र]] जायते ज्ञायते चेति जायेत ज्ञायेत वेत्य्-उक्तिः ।
 </details>
@@ -11349,7 +11397,7 @@ You may perhaps maintain the following view: "In manifesting the self which is n
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अथ ज्ञातृत्वप्रतीतेर् निर्वाहाय पराभिमतम् अहङ्कारस्य संविदभिव्यञ्जकत्व-पक्षम् अनुवदति **यद्युच्येते**त्य्-आदिना । अभिव्यञ्जयन् - प्रकाशयन् । स्वाश्रयतया - स्वाश्रितया । बहुव्रीहेस् तल् । खण्डमुण्डादयो गोव्यक्ति-**भेदाः ।** मिहिरबिम्बं - सूर्यबिम्बम् । शिष्टं स्पष्टम् ।
 </details>
@@ -11385,7 +11433,7 @@ The erroneous view that finds expression in the judgment 'I know' is the result 
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **तत्कृतश्चे**ति । संविदभिव्यञ्जकत्व-प्रयुक्तश् च अहङ्कारस्य [[संविदाश्रयत्वप्रतिभासो मुखाद्यभिव्यञ्जकत्वप्रयुक्तश्चाहङ्कारस्य संविदाश्रयत्वप्रतिभासो मिखाद्यभिव्यञ्जकत्वप्रयुक्त|संविदाश्रयत्वप्रतिभासो मुखाद्यभिव्यञ्जकत्वप्रयुक्त]] इव दर्पणादेर् मुखवत्त्वादि-प्रतिभास इत्य्-अर्थः ।
 </details>
@@ -11406,7 +11454,7 @@ That is why in states of deep sleep and release, there is manifestation of the s
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अहम्-भावः प्रकृति-परिणाम-विशेषस्यैव, न त्व् आत्मनः इत्य् आह **अत एवे**ति । यतो ज्ञातृत्व-प्रतीतिर् भ्रान्तिः, अत एव चैतन्यमात्रतया ऽत्मनः [[स्वापेमुक्तौ|स्वापे मुक्तौ]] च भानम् । न तु तदाहम्-भाव-भानम् इति भावः ।
 </details>
@@ -11427,7 +11475,7 @@ That is also the reason why the quality of being non-soul has to be predicated o
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **अत एवे**ति । सौषुप्तिक-मौक्तिकात्मानुभवतो ऽहम्-भाव-अनुल्लेखाद् एवाहम्-अर्थस्य अनात्मत्वम् इति [[इत्यथ्रः|इत्य्-अर्थः]] ।
 </details>
@@ -11463,7 +11511,7 @@ Suresvara's statement runs to the effect—
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 अत्र संवादतया सुरेश्वराचार्य-वचनम् उपादत्ते **आत्मनः** इति । अहम्-भावः आत्मधर्मश् चेत् सुषुप्तिमुक्तयोर् [[यायातन्वियात्|यायाद् अन्वियात्]] । यतो नान्वेति ततो ऽयम् अनात्मधर्मः एवेत्य्-अर्थः ।
 </details>
@@ -11475,12 +11523,12 @@ Suresvara's statement runs to the effect—
 
 <details><summary>English</summary>
 
-for the reason that it does not persist, it must be taken to belong to something else.[^7]"
+for the reason that it does not persist, it must be taken to belong to something else.[F7]"
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^7]: Naiṣkarmya Siddhi. Bombay Sanskrit and Prakrit Series. No. 38. Ch. II Stanza 32. p. 70.
+[F7]: Naiṣkarmya Siddhi. Bombay Sanskrit and Prakrit Series. No. 38. Ch. II Stanza 32. p. 70.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -11622,12 +11670,12 @@ Further:
 
 <details><summary>English</summary>
 
-Further, the relation of being the manifesting and the manifested entity cannot obtain between ahamkāra and consciousness, for they are opposite in nature.[^8] If the self is admitted to be capable of being manifested, it would imply that, like the pot, it would cease to be consciousness.
+Further, the relation of being the manifesting and the manifested entity cannot obtain between ahamkāra and consciousness, for they are opposite in nature.[F8] If the self is admitted to be capable of being manifested, it would imply that, like the pot, it would cease to be consciousness.
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^8]: Consciousness and ahamkāra have opposite natures. The former has the character of manifesting all objects without an exception; while the latter, being distinct from consciousness, depends for its manifestation on consciousness. Hence, it is impossible for ahamkāra to manifest consciousness.
+[F8]: Consciousness and ahamkāra have opposite natures. The former has the character of manifesting all objects without an exception; while the latter, being distinct from consciousness, depends for its manifestation on consciousness. Hence, it is impossible for ahamkāra to manifest consciousness.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -11673,12 +11721,12 @@ for, the surface of the hand is responsible only for the accumulation of those r
 
 <details><summary>English</summary>
 
-The sun beams thus accumulated are distinctly perceived; hence, they are in reality not manifested by the hand at all.[^9]
+The sun beams thus accumulated are distinctly perceived; hence, they are in reality not manifested by the hand at all.[F9]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^9]: This analogy is unsound, because, unlike the sun's rays, consciousness is not spread out and cannot be said to be collected by ahamkāra.
+[F9]: This analogy is unsound, because, unlike the sun's rays, consciousness is not spread out and cannot be said to be collected by ahamkāra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -11877,12 +11925,12 @@ Even if it is so (i.e., even if consciousness possesses ignorance), it is not ad
 
 <details><summary>English</summary>
 
-Besides, knowledge terminates the ignorance which concerns its own object only,[^10]
+Besides, knowledge terminates the ignorance which concerns its own object only,[F10]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^10]: When knowledge arises it dispels only that ignorance which centres round the object known. For example, when the shell is known as shell, this apprehension terminates the illusory cognition of that object which existed till then. If knowledge is said to put an end to all ignorance, it would have to be admitted that knowledge of the true nature of the shell dispels every form of illusion. See Śruta Prakāśikā
+[F10]: When knowledge arises it dispels only that ignorance which centres round the object known. For example, when the shell is known as shell, this apprehension terminates the illusory cognition of that object which existed till then. If knowledge is said to put an end to all ignorance, it would have to be admitted that knowledge of the true nature of the shell dispels every form of illusion. See Śruta Prakāśikā
 </details>
 
 <details><summary>मूलम्</summary>
@@ -11912,12 +11960,12 @@ As the quality of being the object of knowledge has not been attributed to consc
 
 <details><summary>English</summary>
 
-(The ignorance which you speak of as existing in consciousness may be either defined as the antecedent non-existence of knowledge or considered as indefinable). Ignorance, which is of the nature of the antecedent non-existence of knowledge, cannot be regarded as an obstacle to the rise of knowledge.[^11]
+(The ignorance which you speak of as existing in consciousness may be either defined as the antecedent non-existence of knowledge or considered as indefinable). Ignorance, which is of the nature of the antecedent non-existence of knowledge, cannot be regarded as an obstacle to the rise of knowledge.[F11]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^11]: The antecedent non-existence of an object cannot be regarded as an obstacle to the origination of that object.
+[F11]: The antecedent non-existence of an object cannot be regarded as an obstacle to the origination of that object.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -12024,12 +12072,12 @@ and because, knowledge, the means thereof and whatever is auxiliary to them have
 
 <details><summary>English</summary>
 
-That knowledge, the means thereof and whatever is auxiliary to them have the aforesaid nature follows from the doctrine of the self-validity of knowledge (svataḥprāmāṇya)[^12]; and if this is not admitted, there would ensue lack of certainty in anything.
+That knowledge, the means thereof and whatever is auxiliary to them have the aforesaid nature follows from the doctrine of the self-validity of knowledge (svataḥprāmāṇya)[F12]; and if this is not admitted, there would ensue lack of certainty in anything.
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^12]: On the question of the validity and invalidity of knowledge four views have been held. According to the Sānkhyas the validity and invalidity of knowledge are both inherent in it. The Nyāya-Vaiseṣika takes the opposite position and contends that both the validity and invalidity of knowledge depend on external factors. On this view, knowledge, in itself, is neither true nor false; it is rendered valid or invalid by outside factors. The Buddhists take invalidity to be intrinsic to knowledge, and validity extrinsic. The Mīmāṁsakas and Vedāntins, while admitting the Nyāya-Vaiseṣika view in regard to invalidity of knowledge, maintain that validity is inherent in knowledge.
+[F12]: On the question of the validity and invalidity of knowledge four views have been held. According to the Sānkhyas the validity and invalidity of knowledge are both inherent in it. The Nyāya-Vaiseṣika takes the opposite position and contends that both the validity and invalidity of knowledge depend on external factors. On this view, knowledge, in itself, is neither true nor false; it is rendered valid or invalid by outside factors. The Buddhists take invalidity to be intrinsic to knowledge, and validity extrinsic. The Mīmāṁsakas and Vedāntins, while admitting the Nyāya-Vaiseṣika view in regard to invalidity of knowledge, maintain that validity is inherent in knowledge.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -12044,12 +12092,12 @@ That knowledge, the means thereof and whatever is auxiliary to them have the afo
 
 <details><summary>English</summary>
 
-(With regard to the analogy of the particular instance, vyakti, cited by you), such a manifestation (of the universal as residing in the particular instances) is due to the fact that the universal is only the character met with in the instances, and not the fact of those instances being the manifesting entities, as it has already been shown (that the case of the lamp flame) falsifies the view (that all manifesting entities reveal objects as taking their abode in themselves).[^13]
+(With regard to the analogy of the particular instance, vyakti, cited by you), such a manifestation (of the universal as residing in the particular instances) is due to the fact that the universal is only the character met with in the instances, and not the fact of those instances being the manifesting entities, as it has already been shown (that the case of the lamp flame) falsifies the view (that all manifesting entities reveal objects as taking their abode in themselves).[F13]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^13]: The general proposition 'all manifesting entities reveal their objects as residing within themselves' was sought to be established on the strength of instances such as mirror, etc. In refuting this view, it was first pointed out that there are instances against this generalisation. Now it is shown that even the instances cited by the opponent do not prove his case. The mirror, for example, is responsible only for reflecting the ocular rays, and not for manifesting the face. The real manifesting agents are light and the like.
+[F13]: The general proposition 'all manifesting entities reveal their objects as residing within themselves' was sought to be established on the strength of instances such as mirror, etc. In refuting this view, it was first pointed out that there are instances against this generalisation. Now it is shown that even the instances cited by the opponent do not prove his case. The mirror, for example, is responsible only for reflecting the ocular rays, and not for manifesting the face. The real manifesting agents are light and the like.
 </details>
 
 <details><summary>मूलम्</summary>
