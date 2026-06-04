@@ -4697,9 +4697,7 @@ Y Kaliyuga **es** (realmente) afortunado ".
 ""
 ""
 ""
-""
-""
-""
+
 </details>
 
 ## शारीर-मानस-गुण-भेदः
