@@ -721,7 +721,7 @@ To maintain that the 'I' does not persist in the state of liberation is unsound;
 
 need to argue the point, when something other than the witnessing consciousness (sākṣicaitanya) is the self.
 
-### On the [[stength|strength]] of the sacred text relating to liberation and endeavour of souls for securing mokşa the existence of 'l' (ahamartha) is proved.
+### On the strength of the sacred text relating to liberation and endeavour of souls for securing mokşa the existence of 'I' (ahamartha) is proved.
 
 Moreover, he who considers himself to be afflicted by the miseries of worldly existence, whether in truth or in error, and thinks 'I am suffering pain', and in whom the desire for release has arisen, making him reflect: 'How may I become tranquil and blissful, setting aside this entire collection of miseries?', he alone enters upon the means for realisation. If (on the other hand) he were to realise 'I should be no more if I practised the means (for the attainment of release)', he would run away at the very mention of the topic of release. As a consequence of this, since there can be none possessing the requisite qualifications (to enter upon the study of the scriptures), the entire upanisadic texts and all the śāstras relating to liberation would lose their validity.[F53_84]
 
@@ -745,13 +745,13 @@ The statement that the intelligent entity refered to in the judgment 'I know' is
 
 Since luminosity, by the very fact of its being luminosity, must necessarily pertain to something or other, as in the case of the luminosity of the pot, etc, mere luminosity cannot be the soul. Therefore, that entity alone which shines forth as the knower and termed 'I' is the self.
 
-### Even in the state of release, the self shines to itself [[at|as]] 'I'
+### Even in the state of release, the self shines to itself as 'I'
 
 This self, even in the state of release, shines to itself only as the 'I', for it shines for its own sake. (There is the general principle that) whatever shines for its own sake is found to shine only as the 'I'; for example, the self which is subject to the round of births and deaths is admitted by both the contending parties to shine in such a manner. Whatever does not appear as 'I' does not shine for its own sake; as pots and the like. The released soul does appear for its own sake. Therefore, it appears as the 'I' and in no other way.
 
 [[P55]]
 
-### The consciousness of 'l' is natural and not due to occasional factors.-
+### The consciousness of 'I' is natural and not due to occasional factors.-
 
 It cannot be said that if the released self appears in such a manner (i. e.. as the 'I') it would imply that it is involved in ignorance and samsara; for, this would contradict the nature of being a released soul; moreover, the consciousness of 'I' does not have for its cause the quality of being subject to ignorance and samṣāra. Since even persons like Vāmadeva, who have had their ignorance destroyed in its entirety by means of the direct realisation of Brahman as the self of all, are found to have the consciousness of 'I', the latter cannot, in fact, have ignorance for its cause. The scriptures say 'Seeing this, the sage Vāmadeva understood: I was Manu and the Sun '[F55_87] 'I alone exist and shall exist.'[F55_88] From the following passages and others like them it is clear that a similar reference to Himself as 'I' is noticed even in the case of the Highest Person, who is not afflicted even in the least by ignorance and other evils in any manner and at any time. (The following scriptural passages are found) 'Let me enter these three divinities (i. e., fire, water and food);'[F55_89] 'May I become manifested and be born';[F55_90] 'He thought: May I create the worlds" '[F55_91] (It is said in the Gita) 'Since I transcend the destructible (kṣara) and am also superior even to the Indestructible (akṣara), I am proclaimed in the world and in the Veda as the Highest Person';[F55_92] 'I am he who lifts them '[F55_93] 'I am the giver of the seed, the father';[F55_94] "I know the things past,;, and so on.[F55_95]
 
@@ -775,9 +775,10 @@ is) the teaching of the Highest Lord found in the verse (of the Gita XV. 5) comm
 
 [F56_96]: Bh. Gitā. XVI, 18.
 
-### It is only where the self appears as 'I'-'I am deva' - I am man- the possibility of ajnana [[airses|arises]]-
+### It is only where the self appears as 'I'-'I am deva' - I am man- the possibility of ajnana arises -
 
-Therefore, it is proper to conclude that the consciousness of 'I', which has nothing to contradict it, has really the self for its object; and that, on the other hand, the consciousness of 'I' which arises in regard to the body that is not the soul, is ignorance. (In agreement with this) it has been said by (Parāśara) the grandson of Vasistha: 'O thou! the giver of delight to thy family! Hear from me the essential nature of ignorance; it is the consideration of the not-self as the self.'[F56_97] (Our position squares well with Parāśara's definition of ignorance; but yours does not; for,) the illusory apprehension of the body as pure consciousness occurs to no one. Even to you, who maintain that pure consciousness alone is self, the consideration of the non-soul as the self will be possible, if there is the illusory apprehension of the body as pure consciousness. As is proved by perception (the judgment 'I know' establishes knowledge to be an attribute and the 'I' to be its possessor), and as it results from the application of the aforesaid reasons (such as, if pure consciousness alone persisted and the 'I' disappeared in the state of release, no one would strive for realisation), and as scriptural texts (declare that even released souls refer to themselves as 'I'), and as there is the possibility of ignorance (only on our position), it follows that the self which is the knower presents itself as the 'I'.
+Therefore, it is proper to conclude that the consciousness of 'I', which has nothing to contradict it, has really the self for its object; and that, on the other hand, the consciousness of 'I' which arises in regard to the body that is not the soul, is ignorance. (In agreement with this) it has been said by (Parāśara) the grandson of Vasistha: 'O thou! the giver of delight to thy family! Hear from me the essential nature of ignorance; it is the consideration of the not-self as the self.'[F56_97] (Our position squares well with Parāśara's definition of ignorance; but yours does not; for,) the illusory apprehension of the body as pure consciousness occurs to no one. Even to you, who maintain that pure consciousness alone is self, the consideration of the non-soul as the self will be possible, if there is the illusory apprehension of the body as pure consciousness. 
+As is proved by perception (the judgment 'I know' establishes knowledge to be an attribute and the 'I' to be its possessor), and as it results from the application of the aforesaid reasons (such as, if pure consciousness alone persisted and the 'I' disappeared in the state of release, no one would strive for realisation), and as scriptural texts (declare that even released souls refer to themselves as 'I'), and as there is the possibility of ignorance (only on our position), it follows that the self which is the knower presents itself as the 'I'.
 
 [F56_97]: *Visnu* Purāna. VI. vii. 10.
 
