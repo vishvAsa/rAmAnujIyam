@@ -13185,7 +13185,7 @@ For, no sensible person would exert himself under the influence of the idea 'Tho
 **नही**ति । यथा देह-गेहाद्य्-उपलक्षितः पृथिवी-भागः स्थास्यतीति स्व-देह-गेह-नाशे न प्रवर्तेत स्वयम् एव कश्चित् प्रेक्षा-पूर्व-कारी, एवम् अहम्-अर्थोपलक्षितः प्रकाशः स्थास्यतीति बुद्ध्या न स्व-नाशाय मोक्षाय ज्ञाताहमर्थः प्रवर्तेतेति भावः ।
 </details>
 
-#### न जडम्
+### न युष्मद्-अर्थोऽहम्-अर्थः
 <details><summary>विषयः</summary>
 
 Refutation of the view that the "I" is an objective element (i.e. it is jaḍa)
@@ -13193,10 +13193,10 @@ Refutation of the view that the "I" is an objective element (i.e. it is jaḍa)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतेन तद् अपि परास्तम् — 
+एतेन +++(पूर्वोक्तानिदम्-अर्थत्वेनाहमः)+++ तद् अपि परास्तम् — 
 
 > अस्मत्-प्रत्यये,  
-यो ऽन्-इदम्-अंशः चिद्-एक-रसः प्रकाशः स आत्मा;  
+यो ऽन्-इदम्-अंशश् चिद्-एक-रसः प्रकाशः स आत्मा;  
 > 
 > तस्मिन् तद्-बल-निर्भासिततया लक्षणतो युष्मद्-अर्थ एव  
 "अहं जानामी"ति सिध्यन्न् अर्थः
@@ -13227,14 +13227,14 @@ For the same reason, even the contention-that in self-consciousness (which expre
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(ज्ञान-ज्ञातृ-)+++प्रत्यक्ष-विरोधात् ।
++++(अहमि प्रत्यक्त्व-)+++प्रत्यक्ष-विरोधात् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
 <details><summary>English</summary>
 
 It is also contradicted by direct perception, 
-for the judgment 'I know' implies that knowledge is an attribute and that the 'I' is its possessor,  
-and that knowledge is an objective element (parak), while the 'I' is a non-objective element, (pratyak).
+(for the judgment 'I know' implies that knowledge is an attribute and that the 'I' is its possessor,  
+and that knowledge is an objective element (parak), while the 'I' is a non-objective element, (pratyak).)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -13250,7 +13250,8 @@ and that knowledge is an objective element (parak), while the 'I' is a non-objec
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अहं जानामि" इति सिध्यंश्चेतनो [[सुष्मदर्थ|युष्मद्-अर्थः]] इति "माता बन्ध्या" इतिवद् [[व्याहतार्थंवचः|व्याहतार्थं वचः]] ।
+"अहं जानामी"ति सिद्ध्यंश् चेतनो युष्मद्-अर्थ इति  
+"माता वन्ध्या" इतिवद् व्याहतार्थं वचः ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -13269,9 +13270,11 @@ The statement that the intelligent entity refered to in the judgment 'I know' is
 अहम्-अर्थो युष्मद्-अर्थ इति प्रतिज्ञा-वाक्ये विरोधम् आह अहम् इति । माता वन्ध्येति प्रतिज्ञा-तुल्येयम् इति यावत् । ननु युष्मद्-अर्थ इति ल् आक्षणिकं पराक्त्व-परम् । नातो विरोधः ।
 </details>
 
+#### अन्-अन्याधीनता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चासौ अन्याधीनावभासः, चैतन्य-स्वभावतया स्वयम्-ज्योतिष्ट्वात् ।
+न चासौ +++(अहमि)+++ अन्याधीनावभासः,  
+चैतन्य-स्वभावतया स्वयं-ज्योतिष्ट्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -13290,9 +13293,14 @@ Nor can it be said that this intelligent entity depends on something else for it
 पराक्त्वं चाहमर्थस्य चिद्-अधीन-प्रकाशत्वाद् इत्य् अत्राऽह **न चासाव्** इति । अत्र प्रयोगः अहम्-अर्थो ऽनन्यापेक्ष-प्रकाशः चैतन्य-धर्मकत्वात्, यन् नैवं यन् नैवं यथा घट इति ।
 </details>
 
+#### प्रकाशो ह्य् अन्याधीनः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकाशश् च प्रकाशत्वाद् एव कस्यचिद् भवेद् दीपादि-प्रकाशवद् इति नात्मा भवितुम् अर्हति ।
+> प्रकाशश् च  
+प्रकाशत्वाद् एव  
+कस्यचिद् भवेद्, दीपादि-प्रकाशवद्  
+
+इति नात्मा भवितुम् अर्हति ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -13313,7 +13321,7 @@ Since luminosity, by the very fact of its being luminosity, must necessarily per
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो ज्ञातृतयाहम् इति सिद्ध्यन्न् अर्थः [[एवाऽत्मा|एवात्मा]] ।
+अतो ज्ञातृतया ऽहम् इति सिद्ध्यन्न् अर्थ एवात्मा ।
 </details>
 
 <details><summary>English</summary>
@@ -13326,11 +13334,18 @@ Therefore, that entity alone which shines forth as the knower and termed 'I' is 
 अतो ज्ञातृतयाहमिति सिद्ध्यन्नर्थ एवाऽत्मा ।
 </details>
 
-### Even in the state of release, the self shines to itself as 'I'
+#### मुक्ताव् अपि
+
+<details><summary>विषयः</summary>
+
+Even in the state of release, the self shines to itself as 'I'
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स च मुक्ताव् अप्य् आत्मने ऽहम् इत्य् एव प्रकाशते, स्वस्मै प्रकाशमानत्वात् ।
+स +++(प्रकाशः)+++ च मुक्ताव् अप्य् आत्मने ऽहम् इत्य् एव प्रकाशते,  
+स्वस्मै प्रकाशमानत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -13349,9 +13364,13 @@ This self, even in the state of release, shines to itself only as the 'I', for i
 मुक्ताव् अहम्-अर्थस्य सद्भावे पूर्वं तर्क उक्तः । अथ तदा मुक्तस्याहन्त्वेन भाने ऽनुमानं समग्राङ्गक-न्याय-मुखेन प्रपञ्चयति **स चे**ति ।
 </details>
 
+### स्वस्मै प्रकाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो यः स्वस्मै प्रकाशते स सर्वो ऽहम् इत्य् एव प्रकाशमानो दृष्टः, यथा तथावभासमानत्वेनोभयवादि-सम्मतः संसार्य् आत्मा ।
+यो यः स्वस्मै प्रकाशते  
+स सर्वो  
+ऽहम् इत्य् एव प्रकाशमानो दृष्टः,  
+यथा तथाऽवभासमानत्वेनोभयवादि-सम्मतः संसार्य् आत्मा ।
 </details>
 
 <details><summary>English</summary>
@@ -13366,7 +13385,9 @@ This self, even in the state of release, shines to itself only as the 'I', for i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यः पुनर् अहम् इति न चकास्ति नासौ स्वस्मै प्रकाशते, यथा घटादिः ।
+यः पुनर् "अहम्" इति न चकास्ति  
+नासौ स्वस्मै प्रकाशते,  
+यथा घटादिः ।
 </details>
 
 <details><summary>English</summary>
@@ -13396,7 +13417,7 @@ The released soul does appear for its own sake.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात् सो ऽहम् इत्य् एव प्रकाशते ।
+तस्मात् सो "ऽहम्" इत्य् एव प्रकाशते ।
 </details>
 
 <details><summary>English</summary>
@@ -13411,11 +13432,18 @@ Therefore, it appears as the 'I' and in no other way.
 तस्मात्सोऽहमित्येव प्रकाशते ।
 </details>
 
-### The consciousness of 'I' is natural and not due to occasional factors
+### न संसारित्वादि
+
+<details><summary>विषयः</summary>
+
+The consciousness of 'I' is natural and not due to occasional factors
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चैवं प्रकाशमानत्वे मुक्तस्याज्ञानित्व-संसारित्वादि-प्रसङ्ग आपादनीयः; मुक्तत्व-विरोधात् ।
+न चैवं प्रकाशमानत्वे मुक्तस्याज्ञानित्व-संसारित्वादि-प्रसङ्ग आपादनीयः;  
+मुक्तत्व-विरोधात्,
 </details>
 
 <details><summary>English</summary>
@@ -13436,7 +13464,7 @@ It cannot be said that if the released self appears in such a manner (i.e. as th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतद्-उपाधित्वात् च तत्-प्रत्ययस्य ।
+अ-तद्+++(→संसारित्वाद्य्)+++-उपाधित्वाच् च तत्+++(→अहम्)+++-प्रत्ययस्य ।
 </details>
 
 <details><summary>English</summary>
@@ -13470,9 +13498,11 @@ The consciousness of 'I' does not indeed have ignorance for its cause.
 न ह्यज्ञानोपाधिरहम्प्रत्ययः ।
 </details>
 
+### वामदेवादिषु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मात्मापरोक्ष-ज्ञान-क्षपित-निरवशेषाविद्यानाम् अपि [[वामदेवादीनाम(मे)|वामदेवादीनाम्]] तत्-प्रत्यय-दर्शनात् ।
+ब्रह्मात्मापरोक्ष-ज्ञान-- क्षपित-निरवशेषाविद्यानाम् अपि वामदेवादीनाम् एतत्+++(→"अहम्")+++-प्रत्यय-दर्शनात्  
++++(मुक्ताव् अप्य् अहम्-प्रत्ययः)+++।
 </details>
 
 <details><summary>English</summary>
@@ -13488,7 +13518,7 @@ Since even persons like Vamadeva, who have had their ignorance destroyed in its 
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-वामदेवादीनाम् इत्यादि-पदेन महादेवादिर् ग्राह्यः । अतत्-प्रत्ययेति-प्राचीन-मुद्रित-पाठस् त्व् अशुद्धः । एतत्-प्रत्ययेति वा, अहम्-प्रत्ययेति वा पाठः सम्भाव्यते ।
+वामदेवादीनाम् इत्यादि-पदेन महादेवादिर् ग्राह्यः । अतत्-प्रत्ययेति-प्राचीन-मुद्रित-पाठस् त्व् अशुद्धः । एतत्-प्रत्ययेति वा, अहम्-प्रत्ययेति वा पाठः सम्भाव्यते ।+++(5)+++
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
