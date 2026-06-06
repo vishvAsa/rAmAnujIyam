@@ -153,26 +153,15 @@ This only refers to vigraha with head, feet and so on. A sharIra however can be 
 
 
 ### प्रत्यभिज्ञा-दर्शनम्
-श्रीमद्-अभिनव-गुप्तो वदति तन्त्रसारे -
-
-> स एव स्वातन्त्र्याद्  
-आत्मानं सङ्कुचितम् अवभासयन्न्  
-**अणुर्** इति उच्यते ।+++(4)+++   
-पुनर् अपि च स्वात्मानं स्वतन्त्रतया प्रकाशयति +++(क्षणिक-विकल्प-पर्वसु)+++  
-येन +++(मातृ-मेयादि-भेदैर्)+++ +अनवच्छिन्न-प्रकाश-शिव-रूपतयैव प्रकाशते ।
-
-अयं तर्हि प्रसिद्धः ब्रह्म-परिणामवादः - रामानुजार्येण सामान्यतो निरस्तः।  
+#### ब्रह्म-परिणामाज्ञाने
+एषां प्रसिद्धः ब्रह्म-परिणामवादः - रामानुजार्येण सामान्यतो निरस्तः।  
 पुनस् तत्र ब्रह्माज्ञानवादो ऽपि वर्तते - स्व-स्वातन्त्र्येण ब्रह्म स्वीयैकदेशे ऽज्ञानम् आरोप्य बद्धो भवतीति।  
 तच् चानिष्टम् पूर्वोक्तरीत्या, अवैदिकं च। 
 
 An appreciable level of incarnation by use of svAtantrya would be that of "rudras", described by sthAneshvara ([TW](https://www.youtube.com/shorts/psb4bT7WVdI)) as being above mAyA in shuddhAdhvan, and not anything below it.
 
-
-अथवा त्रिकशैवैर् अप्य् अवयवावयविरूपा जीवेश्वरभिदोच्यतय् एव, यथाह स्थानेश्वरार्यः - 
-
-> You feel pain and pleasure because you are finite. I feel pure pleasure, no matter what happens. I do not have the nerves to translate some sensation as pain and the others as pleasure. I am the totality experiencing all the experiences as blissful. 
-
-अयम् परिहारस् तदीयशास्त्रेषु क्वोक्तः??
+#### वेद-विरोधः
+तत्रोक्तो वेदविरोधो ऽसह्यो रामानुजीयानाम्। विस्तात्रोऽन्यत्र - [TW](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/articles/tantrAgamAH/veda-dharma-violation/) ।
 
 ### वल्लभ-पुष्टि-मार्गः शुद्धाद्वैतम्
 अन्यत्र [दृश्यम्](/AgamaH_vaiShNavaH/puShTi-mArgaH/vishvAsaH)। 
