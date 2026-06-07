@@ -7499,10 +7499,12 @@ Moreover, since in each item of knowledge we meet with the absence of the invari
 असिद्धश्च संविद्विशेषैः सहोपलम्भनियमः, प्रत्येकं व्यभिचारदर्शनात् ।
 </details>
 
+### सहोपलम्भ-निरर्थकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च विशेष-मात्रं निर्धूत-निखिल-विषय-विशेषोपश्लेषं वा वित्ति-मात्रम् अस्ति,  
-येन सहोपलम्भ-नियमः संवेदितुर् अभिधीयेत ।
+न च विशेष+++(य)+++-मात्रं निर्धूत-निखिल-विषय-विशेषोपश्लेषं वा वित्ति-मात्रम् अस्ति,  
+येन सहोपलम्भ-नियमः संवेदितुर् अभिधीयेत  
++++("ज्ञानात्मनोः सहोपलम्भाद् अभेद" इत्य् अनुमाने)+++।
 </details>
 
 <details><summary>English</summary>
@@ -7512,7 +7514,19 @@ Besides, there is neither an object (viṣaya) apart (from its knowledge) nor pu
 
 <details><summary>English - Notes</summary>
 
-[F58_98]: Having pointed out that the sahopalambhaniyama itself is impossible for the reason that there is the presentation of the 'I' even in the absence of any particular item of knowledge, Yamunācārya proceeds to establish the defective nature of the illustrative example, which the opponent must cite in his argument, namely. wherever there is invariable apprehension of two things together there'must be non-difference between them, as in the case of knowledge and its object. In order to prove that knowledge and its vişaya are non-different, the object by itself and the knowledge by itself must be taken and shown to be invariably concomitant. But, in truth, neither exists apart from the other. Hence, the illustrative example is subject to the charge of being unproven.
+[F58_98]: Having pointed out that the sahopalambhaniyama itself is impossible for the reason that there is the presentation of the 'I'  
+even in the absence of any particular item of knowledge,  
+Yamunācārya proceeds to establish the defective nature of the illustrative example,  
+which the opponent must cite in his argument, namely,  
+wherever there is invariable apprehension of two things together  
+there must be non-difference between them,  
+as in the case of knowledge and its object.  
+
+In order to prove that knowledge and its vişaya are non-different,  
+the object by itself and the knowledge by itself must be taken  
+and shown to be invariably concomitant.  
+But, in truth, neither exists apart from the other.  
+Hence, the illustrative example is subject to the charge of being unproven.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7522,7 +7536,8 @@ Besides, there is neither an object (viṣaya) apart (from its knowledge) nor pu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सामान्यं तु सद् अपि सौगतैर् न वस्तुतया ऽस्थीयते ।
++++(ज्ञान-)+++सामान्यं+++(=जातिः)+++ तु सद् अपि  
++++(अपोह-वादिभिः)+++ सौगतैर् न वस्तुतया ऽस्थीयते ।
 </details>
 
 <details><summary>English</summary>
@@ -7532,7 +7547,18 @@ Besides, there is neither an object (viṣaya) apart (from its knowledge) nor pu
 
 <details><summary>English - Notes</summary>
 
-[F59_99]: The Buddhists cannot hope to escape the difficulty by saying that between vişayatva (the property of being an object of knowledge) and jñanatva (the property common to all knowledge) there is invariable concomitance, for they do not consider sāmānya (universal) to be a positive entity. Its admission, they say, leads to all sorts of absurdities. The universal is, at best, a working fiction, a useful device in thinking. When certain things are regarded as similar, it is not in virtue of their possessing some common features, but because of their distinction from the rest. The perception of a cow, for example, does not indicate that cowness, as a positive quality. exists in that creature; it only signifies that it is different from all non-cows (*apoha*) See Six *Buddhist Nyaya Tracts*.
+[F59_99]: The Buddhists cannot hope to escape the difficulty  
+by saying that between vişayatva (the property of being an object of knowledge) and jñanatva (the property common to all knowledge)  
+there is invariable concomitance,  
+for they do not consider sāmānya (universal) to be a positive entity.  
+Its admission, they say, leads to all sorts of absurdities.  
+The universal is, at best, a working fiction, a useful device in thinking.  
+When certain things are regarded as similar,  
+it is not in virtue of their possessing some common features,  
+but because of their distinction from the rest.  
+The perception of a cow, for example, does not indicate that cowness, as a positive quality, exists in that creature;  
+it only signifies that it is different from all non-cows (*apoha*)  
+See Six *Buddhist Nyaya Tracts*.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7540,9 +7566,12 @@ Besides, there is neither an object (viṣaya) apart (from its knowledge) nor pu
 सामान्यं तु सदपि सौगतेर्न वस्तुतयाऽस्थीयते ।
 </details>
 
+### वृत्त्य्-अभावे ऽप्य् आत्मा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समस्त-वृत्ति-प्रत्यस्तमये ऽपि स्वयञ्ज्योतिर् अयम् आत्मा वतिष्ठत इति च वक्ष्यामः ।
++++(सुषुप्त्यादौ)+++ समस्त-वृत्ति-प्रत्यस्तमये ऽपि  
+स्वयञ्-ज्योतिर् अयम् आत्मा वतिष्ठत  
+इति च वक्ष्यामः ।
 </details>
 
 <details><summary>English</summary>
@@ -7555,9 +7584,11 @@ We shall show that even in the absence of all (knowledge due to mental) modifica
 समस्तवृत्तिप्रत्यस्तमयेऽपि स्वयञ्ज्योतिरयमात्मावतिष्ठत इति च वक्ष्यामः ।
 </details>
 
+### स्व-वाग्-विघातः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[स्ववाग्विघातश्चएकं|स्व-वाग्-विघातश् च एकं]] द्वाव् इति निर्देशात् ।
+स्व-वाग्-विघातश् चैकं द्वाव् +++(ज्ञान-ज्ञाताराव्)+++ इति निर्देशात्  
++++("ज्ञानात्मनोः सहोपलम्भाद् अभेद" इत्य्-अत्र)+++।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -7572,7 +7603,8 @@ From the assertion that the two (i. e., knowledge and knower) are one, there ari
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वयोर् हि ह्य् एक-क्रियानुप्रवेशे सह-शब्दः, शिष्येण सह गच्छत्य् आचार्य इति यथा ।
+द्वयोर् ह्य् एक-क्रियानुप्रवेशे सह-शब्दः,  
+"शिष्येण सह गच्छत्य् आचार्य" इति यथा ।
 </details>
 
 <details><summary>English</summary>
