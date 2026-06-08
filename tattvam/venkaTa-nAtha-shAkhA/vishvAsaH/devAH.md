@@ -243,7 +243,17 @@ These forms + Bhagavān’s Ugramūrtis (Gajāri, Kāmāri, Kālāri & Tripurār
 </details>
 
 
-### अवतारः
+### विभवः
+> विभवो नाम तत्-तत्-सजातीय-रूपेणाविर्भावः 
+
+इति यतीन्द्र-मत-दीपिका।
+
+vibhava is a broader class.  
+avatAra-s are more transient, and appear as if it belongs a different (more mundane) class of beings. So - not as easy to identify as a God.  
+Eg. the form lying in kShIra-sAgara, as one of the trimUrti-s, which lasts till pralaya, not termed as an avatAra.
+
+
+#### अवतारः
 विभवरूपाण्य् अवतारा लीलाविभूतौ प्राप्ताः।  
 तेषु क्षीरसागरशायी बद्ध-देव-सुलभः।
 
@@ -259,18 +269,18 @@ These forms + Bhagavān’s Ugramūrtis (Gajāri, Kāmāri, Kālāri & Tripurār
 इति जन्म-रहस्यं यो  
 वेत्ति नास्य पुनर्भवः ॥
 
-#### अभिनयः
+##### अभिनयः
 जीव-भावम् अभिनयति भगवान् अवतीर्णः ।  
 मुक्तैर् अवतारे ऽपि तथा।  
 क्वचित् तु स्व-प्रभुत्वम् आविष्करोति।  
 अयम् एव कश्चित् सङ्कोच-विकास-क्रमः। 
 
-#### रक्षा-प्रकारः
+##### रक्षा-प्रकारः
 अवतार-कारणं सद्-रक्षा - उपदेशैः क्वचिद्, स्वाचारेण क्वचित्।  
 अवतार-कथा-कलनं, साक्षाद्-दर्शनं च गुणानुभव-दम्।   
 तत उभयथापि साधु-रक्षा।
 
-#### रक्ष्य-प्रकारः
+##### रक्ष्य-प्रकारः
 > ॥4.8॥ साधव उक्त-लक्षण-धर्म-शीला वैष्णवाग्रेसरा,  
 मत्-समाश्रयणे प्रवृत्ता,
 >
@@ -281,7 +291,7 @@ These forms + Bhagavān’s Ugramūrtis (Gajāri, Kāmāri, Kālāri & Tripurār
 
 अधुना धर्मग्लानिर् दृश्यमाने सत्य् अपि कुतो नावतरतीत्यत्र - इदम् अपि लक्षणम् अनुसन्धेयम्।
 
-#### युग-नियमाभावः
+##### युग-नियमाभावः
 वेङ्कटनाथार्यः "युगे युगे सम्भवामि" इत्यत्र  
 
 > "न तु प्रतियुगम् अवश्यं सम्भवामि,  
@@ -294,7 +304,7 @@ These forms + Bhagavān’s Ugramūrtis (Gajāri, Kāmāri, Kālāri & Tripurār
 
 अभयप्रदानसारे वेङ्कटनाथार्यो वदति - कस्मिंश्चन त्रेतायुगे (ऽस्मिन् कल्पे) रामो बभूवेति। 
 
-#### प्रभेदाः
+##### प्रभेदाः
 त्रैविध्यम् द्रमिड-गाथा-व्याख्या-सुलभम् - 
 
 - पूर्णावतारः / मुख्यः - यतो जीवान्तरम् अनुपादायावतरति। 
@@ -403,7 +413,7 @@ These forms + Bhagavān’s Ugramūrtis (Gajāri, Kāmāri, Kālāri & Tripurār
 
 
 
-##### पूज्यता-भेदः
+###### पूज्यता-भेदः
 
 > शक्त्य्-आवेशावतारास् ते  
 विष्णोस् तत्-काल-विग्रहाः ।  
@@ -466,7 +476,7 @@ These forms + Bhagavān’s Ugramūrtis (Gajāri, Kāmāri, Kālāri & Tripurār
 </details>
 
 
-##### माध्व-विमतिः
+###### माध्व-विमतिः
 mAdhva avatAra-confusion vs pAncharAtra (kn) - balarAma, chaitanya, svAmi-nArAyaNa, vyAsa
 
 Source: [TW](https://youtu.be/UZrqMZz8yiM)
@@ -491,7 +501,7 @@ For English/ Hindi subtitles, please use ⚙️ icon in the (lower?) video bar.
 
 
 
-#### गुणावतारो न
+##### गुणावतारो न
 > **आदाव् अभूच् छत-धृती रजसा ऽस्य सर्गे**  
 > **विष्णुः स्थितौ क्रतु-पतिर् द्विज-धर्म-सेतुः ।**  
 > **रुद्रोऽप्ययाय तमसा पुरुषः स आद्य**   
