@@ -41,6 +41,12 @@ does not refer to such things as witnessing forbidden dances.
 तद्ध्यानमित्यादि । निषिद्धशब्दम् हेतुगर्भविशेषणम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
