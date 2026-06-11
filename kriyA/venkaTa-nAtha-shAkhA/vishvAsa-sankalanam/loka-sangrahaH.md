@@ -151,7 +151,7 @@ Where's the question of a beggar being an ideal king?
 
 यत् तु बलदेव-विद्याभूषणेन लोकसङ्ग्रहः सर्वेष्व् आश्रम-चिह्न-धृति-भाक्षु निक्षिप्तः,  
 तत् तत्-पूर्वाचार्य-जीव-गोस्वामि-प्रमादस्य परिष्कारार्थं वा निगूहनार्थं वेत्य् एव मन्तव्यम्।  
-तादृशी व्याप्तिस् तु तद्-व्याख्यात्रा कृष्णदेव-सार्वभौमेनापि क्वचिद् अपाकृता। विस्तारो [ऽन्यत्र](/AgamaH_vaiShNavaH/gauDIyaH/tattvam/vishvAsaH/nitya-karma-tiraskAra-vyavasthAH/)।  
+तादृशी व्याप्तिस् तु तद्-व्याख्यात्रा कृष्णदेव-सार्वभौमेनापि क्वचिद् अपाकृता। विस्तारो [ऽन्यत्र](/AgamaH_vaiShNavaH/rAgAnuga-bhakti-parAH/tattvam/vishvAsaH/nitya-karma-tiraskAra-vyavasthAH/)।  
 
 <details><summary>जयाऽऽख्य-संहिताऽपवादः</summary>
 
