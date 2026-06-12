@@ -331,8 +331,8 @@ carama Slokam of this SrI Azhagiyasingar --
 The granthams composed by SrI Azhagiyasingar
 
 1. AdeSamaNi with commentaries 2. AdeSakaustubham 3. AcAryasaptatiH 4. sthemadarpaNam 5. pAdatarangiNI 6. YatirajabhogaH 7. tatkratunyAyasAraH 8. yaNprakASaH 9. tatkratunyAyacuLakam 10. nyAyasiddhAnjanagranthagandhaH 11. dAsadAsIsamarthanam 12. makArarakshA 13. sthUNAlinganirNayaH 14. AshADhypAkarmAbhyanuj~nA 15. tArArthasAraH 16. tArArthasAraprabhA 17. AdivaN SaThakopa yatIndravaibhava candrikA
-    www.sadagopan.org AcArya Vaibhavam
-    327
+
+327
 18. tristavI 19. VedAntadesika vaibhava candrikA 20. SrutigItA vyAkhyAnam 21. argaLapancakam 22. SArIraka suprabhAtam 23. VedAntakaustubhasAraH 24. pATTbhisheka SrImukham 25. VedAntadeSika utsavamAlikA 26. ghoshThInAtha stavaH
 
 There may be some more granthams. Whatever known are mentioned here.
