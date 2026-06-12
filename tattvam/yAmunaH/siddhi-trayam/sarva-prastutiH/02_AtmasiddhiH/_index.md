@@ -1673,7 +1673,7 @@ And this (cognition) cannot but be what has arisen from the senses.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्लृप्तं च बहिरिन्द्रियागोचरे ऽपि सुखादौ स्वान्त-स्वातन्त्र्यम् इति तन्-निमित्त एवायम् अहम्-प्रत्ययो युक्तः ।
+कॢप्तं च बहिरिन्द्रियागोचरे ऽपि सुखादौ स्वान्त-स्वातन्त्र्यम् इति तन्-निमित्त एवायम् अहम्-प्रत्ययो युक्तः ।
 </details>
 
 <details><summary>English</summary>
@@ -2591,7 +2591,7 @@ For the reason that during states, such as sleep, even though collections of obj
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः क्लृप्तार्थान्तर-साधन-भावया तयैवाऽत्मनो ऽपि सिद्धिर् अभ्युपगन्तुं न्याय्या ।
+अतः कॢप्तार्थान्तर-साधन-भावया तयैवाऽत्मनो ऽपि सिद्धिर् अभ्युपगन्तुं न्याय्या ।
 </details>
 
 <details><summary>English</summary>
@@ -2789,7 +2789,7 @@ Nor can it be contended that in the state of release, the self, by its very exis
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्लृप्त-त्यागाक्लृप्त-कल्पना-प्रसक्तेः ।
+कॢप्त-त्यागाकॢप्त-कल्पना-प्रसक्तेः ।
 </details>
 
 <details><summary>English</summary>
@@ -2864,7 +2864,7 @@ So far it has not been proved that the self is the entire cause of jñana. While
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्लृप्त-ज्ञान-कारण-भावस्य तस्यैव तद्-बन्धकत्व-वचनम् उन्मत्त-वचः ।
+कॢप्त-ज्ञान-कारण-भावस्य तस्यैव तद्-बन्धकत्व-वचनम् उन्मत्त-वचः ।
 </details>
 
 <details><summary>English</summary>
@@ -4853,7 +4853,7 @@ The statement that when they (i.e. time, activity and the like) exist, the effec
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च एवं सति तद् एव अर्थ-प्रकाशे ऽपि जनक-व्यापारो ऽस्तु; किम् अक्लृप्त-कल्पनया? ।
+अपि च एवं सति तद् एव अर्थ-प्रकाशे ऽपि जनक-व्यापारो ऽस्तु; किम् अकॢप्त-कल्पनया? ।
 </details>
 
 <details><summary>English</summary>
@@ -5981,7 +5981,7 @@ Besides, (to put the same syllogistically)--The soul possesses an eternal illumi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्लृप्तश् च सर्वार्थ-साधनतया बोध इति तेनैव करण-विरहिणा सता स्वभाव-भूतेनो(द्भूतेनो)द्भूत-वृत्तेस् तमसो ऽन्यस्य वा आत्म-वर्तिनो गुणस्य स्फुरणम् इति बलाद् अभ्युपगमनीयम् ।
+कॢप्तश् च सर्वार्थ-साधनतया बोध इति तेनैव करण-विरहिणा सता स्वभाव-भूतेनो(द्भूतेनो)द्भूत-वृत्तेस् तमसो ऽन्यस्य वा आत्म-वर्तिनो गुणस्य स्फुरणम् इति बलाद् अभ्युपगमनीयम् ।
 </details>
 
 <details><summary>English</summary>
