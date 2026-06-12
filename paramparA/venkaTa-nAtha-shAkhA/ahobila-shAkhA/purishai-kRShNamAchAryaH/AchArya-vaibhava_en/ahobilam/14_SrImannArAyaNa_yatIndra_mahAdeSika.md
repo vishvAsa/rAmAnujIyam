@@ -26,3 +26,8 @@ MangalamAlai
 karkaTe hyuttarAshADhAtArAjAtAya yogine | nArAyaNayatIndrAya lokojjIvanahetave || varshe naLe tulAkrshNapancamyAm amale maThe | sarvarakshaNadakshAya svabhishiktAya mangalam ||
 
 
+<details><summary>विस्तारः - सुन्दरमालोलः</summary>
+
+He makes it a point to write srivatsanka narayana in his texts, probably to not confuse with the previous narayana yatis.
+
+</details>

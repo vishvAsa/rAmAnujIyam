@@ -85,7 +85,7 @@ This is an inferior setup. The pratinidhi-s will have less incentive to locally/
 कुरुगैक्+++(-ग्राम)+++-कावल्-अप्पन् (योगनिष्ठो, यद्विद्या यामुनो न प्राप), 
 पुण्डरीकाक्षः|उय्यक्कॊण्डर् (प्रपत्ति-ज्ञान-प्राप्ता) →  
 राम-मिश्रः|मणल्-काल्-नम्बिः →  
-**यामुनः** (नाथमुनि-पौत्रः, ईश्वरभट्ट-पुत्रः) →  
+**यामुनः** (नाथमुनि-पौत्रः, ईश्वरभट्ट-पुत्रः) →
 
 महा-पूर्णः|पॆरिय-नम्बि (समाश्रयणकृत्, द्वय-मन्त्रोपदेष्टा)  
 गोष्ठि-पूर्णः|तिरु-कॊट्टियूर्-नम्बि (अष्टाक्षर-रहस्य-बोधकः),  
@@ -95,6 +95,22 @@ This is an inferior setup. The pratinidhi-s will have less incentive to locally/
 → **रामानुजः** (श्री-शौल-पूर्ण--भागिनेयः)
 
 काञ्ची-पूर्ण इति वैश्य-सिद्धो देव-राज-सेवको ऽप्य् उपाकरोद् रामानुजम्।
+
+<details><summary>प्रपत्त्य्-अङ्गीकारः (द्रष्टुं नोद्यम्)</summary>
+
+> Robert Lester is a good source to understand shrI vaiShNavism as it originally crystallized in its early days  
+> 1. Barely discusses prapatti
+> 2. Doesn't mention AlvArs
+> 3. Makes no mention of the three rahasyas (part of modern pa~ncasaMskAra rite)
+> 4. Mentions pA~ncarAtra in 1-2 places with no special eulogy of arcAvatAra (image worship in temples)
+>
+> sharaNAgati gadyam is not seen as rAmAnuja’s work.
+
+इति केचित्। 
+
+The premise ("SVism crystallized with R") here is flawed. yAmuna (whom R salutes for example in vedArtha-sangraha) already makes sharaNAgati very clear in stotra-ratnam, and defends pAncharAtra in Agama-prAmANyam.
+</details>
+
 
 ### ब्रह्म-सूत्र-परम्परा
 वेदाः → वेद-व्यासो बादरायणः शारीरक-सूत्र-कृत् → बोधायनो "विस्तीर्ण"-वृत्तिकारः (अयम् एव शङ्करोक्तः पूर्वोत्तरमीमांसावृत्तिकार उपवर्ष इति कुप्पुस्वामी, वेङ्कटनाथश् च तत्त्व-टीकायाम्, नेति राममिश्रः, प्रपञ्चहृदयम्, van buitenen च। )।
