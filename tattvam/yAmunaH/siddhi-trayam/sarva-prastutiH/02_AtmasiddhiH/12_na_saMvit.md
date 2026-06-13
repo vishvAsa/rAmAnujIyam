@@ -7848,9 +7848,16 @@ As shown before, even the contention of their (knowledge and knower) being invar
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(ज्ञानज्ञात्रोर् ऐक्यम् इति साध्यस्याभावे एक-ज्ञान-सिद्धत्वम् इति हेतोर् अभावः=)+++  
-विपक्ष-व्यतिरेकश् चासिद्धः ।
+विपक्ष+++(=विसाध्यपक्ष)+++-व्यतिरेकश्+++(=हेत्व्-अभाव-व्याप्तिः)+++ चासिद्धः ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+ज्ञानज्ञात्रोर् ऐक्यम् इति साध्यस्याभावे  
+एक-ज्ञान-सिद्धत्वम् इति हेतोर् अभावः  
+न सिद्ध इति। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8268,9 +8275,16 @@ But here, the knowledge which immediately apprehends the distinction of the know
 दृष्टान्तितात् दार्ष्टान्तिके वैषम्यम् उपपादयति **न चैवम्** इति । ज्ञातृ-ज्ञान-ज्ञेय-भेद-निरूपित-लौकिक-विषयिता-शाली घटम् अहम् जानामीति साक्षात्कारः दोष-मूलः, अभेद-प्रत्यक्ष-बाधितो वा नैव दृश्यते । तद्-अभेदानुमान-बाधकत्वम् सुस्थितम् इति भावः ।
 </details>
 
+#### विपक्षे हेत्व्-अभावो नेति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चोपलब्धि-साहित्य-नियमाद् एव तथात्वम् अत्रानुमेयम् इति युक्तम्, विपक्षे बाधकानुपलब्धेः ।
+न च
+
+> उपलब्धि-साहित्य-नियमाद् एव  
+तथात्वम् +++(→ऐक्यम्)+++ अत्रानुमेयम्  
+
+इति युक्तम्,  
+विपक्षे+++(=विसाध्य-पक्षे)+++ बाधकानुपलब्धेः -  
 </details>
 
 <details><summary>English</summary>
@@ -8297,7 +8311,7 @@ But here, the knowledge which immediately apprehends the distinction of the know
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संविद्-अधीन-सिद्धितयापि तथा नियमोपपत्तेः ।
+संविद्-अधीन-सिद्धितया ऽपि तथा नियमोपपत्तेः,  
 </details>
 
 <details><summary>English</summary>
@@ -8318,7 +8332,8 @@ It may as well be that this invariable apprehension is due to objects depending 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनैन्द्रियिकत्वेन च तद्-वृत्ति-विपर्ययस्याकिञ्चित्करत्वात् ।
+अनैन्द्रियिकत्वेन च  
++++(चन्द्र-द्वय-दर्शनय् इव)+++ तद्+++(→इन्द्रिय)+++-वृत्ति-विपर्ययस्याकिञ्चित्करत्वात्,
 </details>
 
 <details><summary>English</summary>
@@ -8355,9 +8370,11 @@ As the existence of a sublating cognition is denied by effectual non-perception,
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-अत्र बाधक-प्रत्ययो ऽपि नास्ति चन्द्र-द्वित्व-भ्रम इवेत्य् आह **योग्यानुपलम्भे**ति । न चैवम् इहेति वाक्य-द्वयेन विवृतम् ।
+अत्र बाधक-प्रत्ययो ऽपि नास्ति चन्द्र-द्वित्व-भ्रम इवेत्य् आह **योग्यानुपलम्भे**ति ।  
+न चैवम् इहेति वाक्य-द्वयेन विवृतम् ।
 </details>
 
+### विषय-सिद्धि-स्वभात् साहित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च विषय-सिद्धिर् हि संवित् ।
@@ -8380,7 +8397,7 @@ Moreover, consciousness is well-known to be the manifestation of objects;[F63_10
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा च स्वयम्प्रकाशेत्य् अविवादः ।
+सा च स्वयम्-प्रकाशेत्य् अ-विवादः ।
 </details>
 
 <details><summary>English</summary>
@@ -8395,7 +8412,7 @@ and that it is self-luminous is beyond dispute;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेनावर्जनीयस्तथा नियमः ।
+तेनावर्जनीयस् तथा नियमः ।
 </details>
 
 <details><summary>English</summary>
@@ -8416,7 +8433,14 @@ hence, such an invariable manifestation of knowledge and the known is unavoidabl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च भेदो ऽपि सिद्धिम् अन्तरेण सिध्येद् इत्य् अनुन्मत्तेन युक्तम् आपादयितुम् इत्य् अलम् अनेनानुभव-पराहत-मतातिव्याकुलीकरणेन ।
+न च 
+
+> +++(विषय-गत-)+++भेदो ऽपि  
+सिद्धिम्+++(=ज्ञानम्)+++ अन्तरेण सिध्येद्  
++++(येन तत्र विषय-ज्ञान-साहित्यं न स्यात्)+++
+
+इत्य् अनुन्मत्तेन युक्तम् आपादयितुम्  
+इत्य् अलम् अनेनानुभव-पराहत-मतातिव्याकुली-करणेन ।
 </details>
 
 <details><summary>English</summary>
@@ -8432,7 +8456,23 @@ hence, such an invariable manifestation of knowledge and the known is unavoidabl
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ननु संविदम् अन्तरापि विषय-आदिः सिध्यत्व् इत्य् अत्राह [[न च भेदोऽपिति|**न च भेदो ऽपि** इति]] । भेदः ग्राह्य-ग्राहक-भेदः । [[सिद्धिञ्ज्ञानम्|सिद्धिः ज्ञानम्]] । अपसिद्धान्तश् चैवम् [[कथन इति|कथनम् इति]] भावः । यद्वा सहोपलम्भ-नियमस्य अभेद-साधकत्वे स्व-व्याघातम् अप्य् आह [[न च भेदोपीति|**न च भेदो ऽपि** इति]] । भेद-प्रतिभासो ऽपि संविदैव वाच्य इति निरुक्त-हेतोर् भेदस्यापि संविद्-अभेदे भेद-घटितो हेतुर् अपि न सिध्येद् इति यावत् । यद्वा भवद्-अभिमतः संविदाम् भेदो ऽपि न सिध्येद् इति भावः ॥
+> ननु संविदम् अन्तरापि  
+विषयादिः सिध्यत्व् 
+
+इत्य् अत्राह **न च भेदो ऽपि** इति ।  
+भेदः ग्राह्य-ग्राहक-भेदः ।  
+सिद्धिः ज्ञानम् ।  
+अपसिद्धान्तश् चैवम् कथनम् इति भावः ।  
+
+यद्वा सहोपलम्भ-नियमस्य अभेद-साधकत्वे स्व-व्याघातम् अप्य् आह **न च भेदो ऽपि** इति ।  
+भेद-प्रतिभासो ऽपि संविदैव वाच्य  
+इति निरुक्त-हेतोर्  
+भेदस्यापि संविद्-अभेदे  
+भेद-घटितो हेतुर् अपि न सिध्येद्  
+इति यावत् ।   
+
+यद्वा भवद्-अभिमतः संविदाम् भेदो ऽपि न सिध्येद्  
+इति भावः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8445,6 +8485,9 @@ hence, such an invariable manifestation of knowledge and the known is unavoidabl
 (इति सौगताभिमतग्राह्यग्राहकविकल्पप्रत्युद्धारनिराकरणम्)
 </details>
 
+
+## स्वातन्त्र्य-भेदात्
+### ज्ञातृ-स्वातन्त्र्यम्
 <details><summary>विषयः</summary>
 
 Refutation of the contention that there is no object that does not manifest itself-
@@ -8454,7 +8497,10 @@ Refutation of the contention that there is no object that does not manifest itse
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्रकाशात्मनश् च नीलादेः प्रकाश इत्य् अनुभव-सिद्धत्वान् न समर्थनान्तरं प्रार्थयते ।
+> अ-प्रकाशात्मनश् च +++(→)+++ नीलादेः प्रकाश 
+
+इत्य् अनुभव-सिद्धत्वान्  
+न समर्थनान्तरं प्रार्थयते ।
 </details>
 
 <details><summary>English</summary>
@@ -8488,9 +8534,11 @@ The self, on the contrary, is essentially self-luminous.
 आत्मा तु प्रकाशस्वभाव एव ।
 </details>
 
+### ज्ञान-पारतन्त्र्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च तावता ज्ञानत्वम्, स्वतन्त्रत्वात् ।
+न च तावता ज्ञानत्वम्,  
+स्व-तन्त्रत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -8511,7 +8559,11 @@ On this count alone, the self cannot be knowledge, as the former is self-depende
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परतन्त्रम् आगन्तु यावद् अर्थेन्द्रियसन्निकर्षादिकारण-सन्निधानम् अवतिष्ठमानम् अर्थावच्छिन्न-रूपं ज्ञानम् इति प्रागेवावोचम् ।
+परतन्त्रम्  
+आगन्तु   
+यावद्-अर्थेन्द्रिय-सन्निकर्षादि-- कारण-सन्निधानम् अवतिष्ठमानम्  
+अर्थावच्छिन्न-रूपं ज्ञानम्  
+इति प्रागेवावोचम् ।
 </details>
 
 <details><summary>English</summary>
@@ -8530,9 +8582,11 @@ It has already been stated that knowledge is dependent (on the self), that it is
 ज्ञान-स्वभावम् तावद् आह **परतन्त्रम्** इति । प्रकारतैक-स्वभावत्वम्, कादाचित्कत्वम्, विषयावगाहित्वम् चेति ज्ञान-धर्माः । अवतिष्ठमानम् अनुवर्तमानम् धारा-रूपतया । **धारावाहिक-विज्ञानम् एकम् ज्ञानम् मतम् हि नः** इति पक्षे तु स्वरूपत एवानुवर्तमानम् यावद् विषयान्तर-सञ्चारम् इति विवेकः ।
 </details>
 
+### अहम्-प्रतीतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आत्मा तु स्वतन्त्रो ज्ञाता अहम् इति प्रत्यात्मं प्रथते ।
+आत्मा तु स्वतन्त्रो ज्ञाता  
+"अहम्" इति प्रत्यात्मं प्रथते ।
 </details>
 
 <details><summary>English</summary>
@@ -8553,7 +8607,8 @@ The self, on the contrary, is independent, and is the knowing subject; it shines
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[यदिपुनरीदृशोऽप्ययमनन्याधीनसिद्धितया|यदि पुनर् ईदृशो ऽप्य् अयम् अनन्याधीन-सिद्धितया]] ज्ञानम् अभिलप्यते, अभिलप्यतां कामम् ।
+यदि पुनर् ईदृशो ऽप्य् अयम् अनन्याधीन-सिद्धितया ज्ञानम् अभिलप्यते,  
+अभिलप्यतां कामम् ।
 </details>
 
 <details><summary>English</summary>
@@ -8572,9 +8627,11 @@ Even when it is of this nature, if the self is termed knowledge, on the ground t
 नन्व् एवम् ज्ञान-भिन्नत्वे आत्मनो ज्ञानम् इति व्यपदेशः कथम् घटत इत्य् अत्राह **यदी**ति । अनन्यत् स्वम् । आत्मनि ज्ञान-शब्दो ज्ञान-सादृश्यात् । तच् च स्वाधीन-प्रकाशत्व-रूपम् स्वयम्-प्रकाशत्वम् स्वनिरूपित-विषयतावत्त्व-तादात्म्योभय-सम्बन्धेन किञ्चिद् विशिष्टत्व-लक्षणम् इति भावः ।
 </details>
 
+### ज्ञान-युक्तं ज्ञानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथापि ज्ञान-वद् एव इदं ज्ञानम्, न ज्ञप्ति-मात्रतया ।
+तथा ऽपि ज्ञानवद्+++(=ज्ञान-युक्तम्)+++ एव इदं ज्ञानम्,  
+न ज्ञप्ति-मात्रतया । +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -8618,7 +8675,12 @@ Scriptural support for the existence of a soul distinct from consciousness:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव हि च्छन्दोगाः ऽअथ यो वेदेदं जिघ्राणीति स आत्माऽ इत्य् आद्यामनन्ति ।
+अत एव हि च्छन्दोगाः  
+
+> अथ यो वेदेदं जिघ्राणीति  
+स आत्मा
+
+इत्य् आद्यामनन्ति ।
 </details>
 
 <details><summary>English</summary>
@@ -8642,9 +8704,16 @@ Indeed, for that very reason, the *Chandogas* (those who chant the Sama-veda) de
 प्रत्यक्ष-तर्क-सिद्धम् आत्मनः ज्ञातृत्वम् आगमतो ऽपि प्रतिष्ठापयति **अत एवे**ति । **अथे**त्य् आदि-वाक्यम् ज्ञात्र्-अहमर्थात्मत्व-परम् ।
 </details>
 
+### यो ऽयं विज्ञानमयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा ऽकतम आत्माऽ इति प्रश्न-पूर्वकम् इदम् एव लक्षणम् आमनन्ति वाजसनेयिनः ऽयो ऽयं विज्ञानमयः प्राणेषु हृद्य् अन्तर्-ज्योतिः पुरुषःऽ इति ।
+तथा "कतम आत्मा" इति प्रश्न-पूर्वकम्  
+इदम् एव लक्षणम् आमनन्ति वाजसनेयिनः  
+
+> "यो ऽयं विज्ञानमयः प्राणेषु  
+हृद्य् अन्तर्-ज्योतिः पुरुषः" 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -8670,7 +8739,16 @@ Similarly, after the question "what is the soul?" has been raised, *Vajasaneyins
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र हि यो ऽयं सर्व-लोकानुभव-सिद्धो विविध-विषय-वेदन-प्रचुरः प्राणेषु प्रेरकतया स्थितो हृदयायतने अन्तर्-ज्योतिः अहम् इति प्रत्यक्त्वेन प्रकाशते, स पुरुष इति यथोदितम् एवात्म-स्वरूपम् उपदिश्यते ।
+अत्र हि  
+
+> यो ऽयं सर्व-लोकानुभव-सिद्धो  
+विविध-विषय-वेदन-प्रचुरः  
+प्राणेषु प्रेरकतया स्थितो  
+हृदयायतने अन्तर्-ज्योतिः  
+"अहम्" इति प्रत्यक्त्वेन प्रकाशते,  
+स पुरुष  
+
+इति यथोदितम् एवात्म-स्वरूपम् उपदिश्यते ।
 </details>
 
 <details><summary>English</summary>
@@ -8683,9 +8761,12 @@ Similarly, after the question "what is the soul?" has been raised, *Vajasaneyins
 अत्र हि योऽयं सर्वलोकानुभवसिद्धो विविधविषयवेदनप्रचुरः प्राणेषु प्रेरकतया स्थितो हृदयायतने अन्तर्ज्योतिः अहमिति प्रत्यक्त्वेन प्रकाशते, स पुरुष इति यथोदितमेवात्मस्वरूपमुपदिश्यते ।
 </details>
 
+### अन्याः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऽएष हि द्रष्टा श्रोता घ्राता रसयिता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषःऽ इत्य् आथर्वणाः ।
+> एष हि द्रष्टा, श्रोता, घ्राता, रसयिता, मन्ता, बोद्धा, कर्ता, विज्ञानात्मा पुरुषः  
+
+इत्य् आथर्वणाः ।
 </details>
 
 <details><summary>English</summary>
@@ -8711,33 +8792,115 @@ The followers of Atharva veda say "Truly, this entity; the seer, hearer, smeller
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा ऽविज्ञातारम् अरे केन विजानीयाद् इति ऽऽन पश्यो मृत्युं पश्यति न रोगं नोत दुःखताम् ऽऽस उत्तमः पुरुषः नोपजनं स्मरन्न् इदं शरीरम् ऽऽएवम् एवास्य परिदृष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति ऽऽतस्माद् धा एतस्मान् मनोमयाद् अन्यो ऽन्तर आत्मा विज्ञानमयः ऽ इत्य् आद्याः ।
+तथा 
+
+> विज्ञातारम् अरे केन विजानीयाद् 
+
+इति 
 </details>
 
 <details><summary>English</summary>
 
-Similarly, the following and other passages are found :--- "Lo! whereby would one understand the understander?"[F65_111] "The seer sees neither death nor sickness, nor the evil in the world"[F65_112]; "He (the highest light to which the jiva reaches up) is the Supreme Person, ""The jiva experiences him in diverse ways. . . not thinking of the body cast behind in the midst of his kin"[F65_113] "Even so, the sixteen parts (kalas) of the experiencer (jiva), which depend (for their existence, nature and continuance) on the Highest Person, on reaching Him, become incapable of entangling Him in pleasure, pain, etc."[F65_114] "Different from that made of mind is another inner soul consisting of knowledge."[F65_115]
-</details>
-
-<details><summary>English - Notes</summary>
-
+Similarly, the following and other passages are found :--- "Lo! whereby would one understand the understander?"[F65_111]  
 [F65_111]: *Brh*. *Up*. *II*. iv. *14.*
-[F65_112]: *Chand*. *Up*. *VII*. xxvi. 2
-[F65_113]: *Chand*. *Up. VIII*. xii. 3
-[F65_114]: *Prasna*. *Up*. V
-[F65_115]: *Tait*. *Up.* II. 4.
+
 </details>
+
+
 
 <details><summary>मूलम्</summary>
 
 ऽविज्ञातारमरे केन विजानीयादितिऽऽन पश्यो मृत्युं पश्यति न रोगं नोत दुःखताम्ऽऽस उत्तमः पुरुषः नोपजनं स्मरन्निदं शरीरम्ऽऽएवमेवास्य परिदृष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्तिऽऽतस्माद्धा एतस्मान्मनोमयादन्योऽन्तर आत्मा विज्ञानमयःऽ इत्याद्याः ।
 </details>
 
-
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मुमुक्षुभिर् ज्ञेयम् आत्म-स्वरूपम् ज्ञानवत्त्व-विशिष्टम् इति प्रतिपादयद्-वाक्यम् **विज्ञातारम्** इति । विज्ञातृ-जीवात्म-शरीरकम् परमात्मानम् इत्य् अर्थः । मुक्तौ ज्ञानवत्त्व-परम् **न पश्यः** इति । पश्यः सर्वदर्शी मुक्तात्मा । मुक्ति-दशायां ज्ञान-अभाव-श्रुतिर् हेय-दर्शनाभाव-परा इति **न पश्य** इत्यादि व्यवस्थापयति । [[दुःखताङ्कुत्रापि|दुःखताम् कुत्रापि]] वस्तुनि प्रतिकूलत्वम् । भगवद्विभूतितया हि सर्वस्य स्वानुकूलत्वेन दर्शनम् तदा । **सर्वं ह पश्यः पश्यति** [[इत्युत्तरर्धमप्यत्रोदाहार्यम्|इत्य् उत्तरार्धम् अप्य् अत्रोदाहार्यम्]] । एतत्-विवरण-रूपम् **स उत्तम** इत्य् आदि । **स तत्र पर्येती**त्य् आदि [[नोपजनं स्मरन्इत्यन्तमत्रोदाहार्यत्|नोपजनं स्मरन् इत्य् अन्तम् अत्रोदाहार्यम्]] । कला-षोडशकस्य निवृत्ताव् अपि मुक्तौ स्वरूप-निरूपक-धर्म-भूत-ज्ञानानिवृत्ति-परम् **एवमेवे**ति । ज्ञानवत्त्वेनात्मनो देहेन्द्रियमन-प्राण-विज्ञान-वैलक्षण्य-परम् च [[तस्माद्वे तीति|**तस्माद् वा** इति]] विवेकः ।
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न पश्यो मृत्युं पश्यति  
+न रोगं, नोत दुःखताम्  
+</details>
+
+<details><summary>English</summary>
+
+"The seer sees neither death nor sickness, nor the evil in the world"[F65_112];  
+[F65_112]: *Chand*. *Up*. *VII*. xxvi. 2
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> न पश्यो मृत्युं पश्यति  
+न रोगं, नोत दुःखताम्  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स उत्तमः पुरुषः…  
+नोपजनं स्मरन्न् इदं शरीरम् 
+</details>
+
+<details><summary>English</summary>
+
+> "He (the highest light to which the jiva reaches up) is the Supreme Person, "   
+"The jiva experiences him in diverse ways. . . not thinking of the body cast behind in the midst of his kin"[F65_113]  
+[F65_113]: *Chand*. *Up. VIII*. xii. 3
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> स उत्तमः पुरुषः नोपजनं स्मरन्न् इदं शरीरम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एवम् एवास्य परिदृष्टुर्  
+इमाः षोडशकलाः +++(परम-)+++पुरुषायणाः  
+पुरुषं प्राप्यास्तं गच्छन्ति 
+</details>
+
+<details><summary>English</summary>
+
+> "Even so, the sixteen parts (kalas) of the experiencer (jiva),  
+which depend (for their existence, nature and continuance) on the Highest Person,  
+on reaching Him, become incapable of entangling Him in pleasure, pain, etc."[F65_114]  
+[F65_114]: *Prasna*. *Up*. V
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> एवम् एवास्य परिदृष्टुर्  
+इमाः षोडशकलाः पुरुषायणाः  
+पुरुषं प्राप्यास्तं गच्छन्ति 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तस्माद् धा एतस्मान् मनोमयाद् अन्यो  
+ऽन्तर आत्मा विज्ञानमयः 
+
+इत्य् आद्याः ।
+</details>
+
+<details><summary>English</summary>
+
+"Different from that made of mind is another inner soul consisting of knowledge."[F65_115]
+[F65_115]: *Tait*. *Up.* II. 4.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माद् धा एतस्मान् मनोमयाद् अन्यो ऽन्तर आत्मा विज्ञानमयः इत्य् आद्याः ।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
