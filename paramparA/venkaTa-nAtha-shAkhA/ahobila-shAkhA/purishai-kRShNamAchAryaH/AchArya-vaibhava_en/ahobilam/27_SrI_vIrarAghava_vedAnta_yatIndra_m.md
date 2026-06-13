@@ -12,8 +12,8 @@ This Azhagiyasingar has blessed us with many granthams. They are:
 1. SrI vaikuNTha vijayacampu (a refutal grantham for nIlakhaNTha
    vijayacampu
 2. caNDamArutam vyAkhyAnam 3. tAtparya ratnAvaLI 4. brahma Sabda vAdArtham 5. viSesha vAdam in tarka SAstram 6. vrtti sUtram in vyAkaraNam 7. vyAkhyAna Slokam for MahA BhAshyam 8. sankramaNa nirNayam 9. Jayanti nirNayam 10. SravaNa dvAdaSI nirNayam 11. nadhIrajodosham 12. StrI samskAra krama vishaya vyAkhyAna Slokam
-    www.sadagopan.org AcArya Vaibhavam
-    264
+
+264
 13. daSavAra dhIrga gAyatrI japa nirNaya Slokam 14. mUla mantrajapa nirNayam 15. nyAsollAsam 16. krpAsAgArastavam 17. yati vishaye sudarSana homAbhAva nirNayam 18. kshIranadhI stavam 19. nandAdIpastavam 20. vihageSvarastavam 21. kAverIsangama vaibhavam 22. devarAjastavam 23. SrI LakshmI nrsimha stavam 24. SrIvaN SaThAri gadyam 25. SrI vIraraghava stavam 26. ghaTIsUtra nirNayam 27. SrI LakshmI Nrusimha mangaLam 28. SrISrinivAsa yatIndra MahAdeSika daSakam
 
 This Azhagiyasingar, who wrote so many scholarly granthams and was revered for his scholarship. He took ill during his stay at Gadwal samsthAnam. when his health deteriorated further, he called in his dear Sishya, the king of Gadwal and asked him to help in finding a successor for him, who should be a great scholar, well versed in the SrI sannidhi traditions and totally devoted to SrIman Narayanan and no other deivam. He told the king that the AsthAnam of SrI maTham should be handed over to such a mahAn. Azhagiyasingar ascended to Paramapadam in the year Khara, AvaNi month, Sukla Paksha ashTami tithi, Wednesday (17th August, 1831). His BrundAvanam is at Gadwal on the banks of the Krishna River. His AsthAna nirvAha kAlam - 2 years, 7 months

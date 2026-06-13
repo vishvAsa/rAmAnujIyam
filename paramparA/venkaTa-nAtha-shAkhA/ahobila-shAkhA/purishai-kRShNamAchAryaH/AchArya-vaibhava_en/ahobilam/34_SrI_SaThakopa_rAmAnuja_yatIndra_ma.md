@@ -21,7 +21,7 @@ This Azhagiyasingar was in advanced age. He excelled in SAstra j~nAnam, exemplar
 [[283]] SrImad Azhagiyasingar has blessed us with many granthams. They are:
 
 1. SrInrusimhashashTi pAdavarNanam 2. Commentary for adhikaraNasArAvaLi, padayojanA 3. Commentary for nyAsavimSati 4. sAmAnyaviSeshAdi nyAyasangraham 5. KavihrudayaranjanI 6. aikaSAstrya samarthanam 7. DevarAjasahasragaNidaNDakam 8. Anantya nirNayam 9. BrahmasUtrArtha manjarI 10. MaNipravALa gitArtha vyAkhyAnam 11. sAradIpikA hrudayam 12. The nAlAyira paDi - a MaNipravALa commentary on vIkshAraNya
-    mahAtmyam
+mahAtmyam
 13. Vedagiri varNanam, turagati 14. Tamil tiruevvuL vAimozhi 15. SrIlakshmInrusimhan aDaikkalapattu 16. KimgruheSastuti
 
 Studying these granthams will fill one with joy which will spread over the two banks of a river. It will make us not hesitant to speak about them in the spirit of "ஓரொன்று தானே அமையாதோ OronRu tAnE amaiyAto".
