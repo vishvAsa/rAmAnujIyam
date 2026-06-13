@@ -8704,7 +8704,7 @@ Indeed, for that very reason, the *Chandogas* (those who chant the Sama-veda) de
 प्रत्यक्ष-तर्क-सिद्धम् आत्मनः ज्ञातृत्वम् आगमतो ऽपि प्रतिष्ठापयति **अत एवे**ति । **अथे**त्य् आदि-वाक्यम् ज्ञात्र्-अहमर्थात्मत्व-परम् ।
 </details>
 
-### योऽयं विज्ञानमयः
+### यो ऽयं विज्ञानमयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा "कतम आत्मा" इति प्रश्न-पूर्वकम्  
@@ -8761,9 +8761,12 @@ Similarly, after the question "what is the soul?" has been raised, *Vajasaneyins
 अत्र हि योऽयं सर्वलोकानुभवसिद्धो विविधविषयवेदनप्रचुरः प्राणेषु प्रेरकतया स्थितो हृदयायतने अन्तर्ज्योतिः अहमिति प्रत्यक्त्वेन प्रकाशते, स पुरुष इति यथोदितमेवात्मस्वरूपमुपदिश्यते ।
 </details>
 
+### अन्याः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऽएष हि द्रष्टा श्रोता घ्राता रसयिता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषःऽ इत्य् आथर्वणाः ।
+> एष हि द्रष्टा, श्रोता, घ्राता, रसयिता, मन्ता, बोद्धा, कर्ता, विज्ञानात्मा पुरुषः  
+
+इत्य् आथर्वणाः ।
 </details>
 
 <details><summary>English</summary>
@@ -8789,33 +8792,115 @@ The followers of Atharva veda say "Truly, this entity; the seer, hearer, smeller
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा ऽविज्ञातारम् अरे केन विजानीयाद् इति ऽऽन पश्यो मृत्युं पश्यति न रोगं नोत दुःखताम् ऽऽस उत्तमः पुरुषः नोपजनं स्मरन्न् इदं शरीरम् ऽऽएवम् एवास्य परिदृष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति ऽऽतस्माद् धा एतस्मान् मनोमयाद् अन्यो ऽन्तर आत्मा विज्ञानमयः ऽ इत्य् आद्याः ।
+तथा 
+
+> विज्ञातारम् अरे केन विजानीयाद् 
+
+इति 
 </details>
 
 <details><summary>English</summary>
 
-Similarly, the following and other passages are found :--- "Lo! whereby would one understand the understander?"[F65_111] "The seer sees neither death nor sickness, nor the evil in the world"[F65_112]; "He (the highest light to which the jiva reaches up) is the Supreme Person, ""The jiva experiences him in diverse ways. . . not thinking of the body cast behind in the midst of his kin"[F65_113] "Even so, the sixteen parts (kalas) of the experiencer (jiva), which depend (for their existence, nature and continuance) on the Highest Person, on reaching Him, become incapable of entangling Him in pleasure, pain, etc."[F65_114] "Different from that made of mind is another inner soul consisting of knowledge."[F65_115]
-</details>
-
-<details><summary>English - Notes</summary>
-
+Similarly, the following and other passages are found :--- "Lo! whereby would one understand the understander?"[F65_111]  
 [F65_111]: *Brh*. *Up*. *II*. iv. *14.*
-[F65_112]: *Chand*. *Up*. *VII*. xxvi. 2
-[F65_113]: *Chand*. *Up. VIII*. xii. 3
-[F65_114]: *Prasna*. *Up*. V
-[F65_115]: *Tait*. *Up.* II. 4.
+
 </details>
+
+
 
 <details><summary>मूलम्</summary>
 
 ऽविज्ञातारमरे केन विजानीयादितिऽऽन पश्यो मृत्युं पश्यति न रोगं नोत दुःखताम्ऽऽस उत्तमः पुरुषः नोपजनं स्मरन्निदं शरीरम्ऽऽएवमेवास्य परिदृष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्तिऽऽतस्माद्धा एतस्मान्मनोमयादन्योऽन्तर आत्मा विज्ञानमयःऽ इत्याद्याः ।
 </details>
 
-
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 मुमुक्षुभिर् ज्ञेयम् आत्म-स्वरूपम् ज्ञानवत्त्व-विशिष्टम् इति प्रतिपादयद्-वाक्यम् **विज्ञातारम्** इति । विज्ञातृ-जीवात्म-शरीरकम् परमात्मानम् इत्य् अर्थः । मुक्तौ ज्ञानवत्त्व-परम् **न पश्यः** इति । पश्यः सर्वदर्शी मुक्तात्मा । मुक्ति-दशायां ज्ञान-अभाव-श्रुतिर् हेय-दर्शनाभाव-परा इति **न पश्य** इत्यादि व्यवस्थापयति । [[दुःखताङ्कुत्रापि|दुःखताम् कुत्रापि]] वस्तुनि प्रतिकूलत्वम् । भगवद्विभूतितया हि सर्वस्य स्वानुकूलत्वेन दर्शनम् तदा । **सर्वं ह पश्यः पश्यति** [[इत्युत्तरर्धमप्यत्रोदाहार्यम्|इत्य् उत्तरार्धम् अप्य् अत्रोदाहार्यम्]] । एतत्-विवरण-रूपम् **स उत्तम** इत्य् आदि । **स तत्र पर्येती**त्य् आदि [[नोपजनं स्मरन्इत्यन्तमत्रोदाहार्यत्|नोपजनं स्मरन् इत्य् अन्तम् अत्रोदाहार्यम्]] । कला-षोडशकस्य निवृत्ताव् अपि मुक्तौ स्वरूप-निरूपक-धर्म-भूत-ज्ञानानिवृत्ति-परम् **एवमेवे**ति । ज्ञानवत्त्वेनात्मनो देहेन्द्रियमन-प्राण-विज्ञान-वैलक्षण्य-परम् च [[तस्माद्वे तीति|**तस्माद् वा** इति]] विवेकः ।
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न पश्यो मृत्युं पश्यति  
+न रोगं, नोत दुःखताम्  
+</details>
+
+<details><summary>English</summary>
+
+"The seer sees neither death nor sickness, nor the evil in the world"[F65_112];  
+[F65_112]: *Chand*. *Up*. *VII*. xxvi. 2
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> न पश्यो मृत्युं पश्यति  
+न रोगं, नोत दुःखताम्  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स उत्तमः पुरुषः…  
+नोपजनं स्मरन्न् इदं शरीरम् 
+</details>
+
+<details><summary>English</summary>
+
+> "He (the highest light to which the jiva reaches up) is the Supreme Person, "   
+"The jiva experiences him in diverse ways. . . not thinking of the body cast behind in the midst of his kin"[F65_113]  
+[F65_113]: *Chand*. *Up. VIII*. xii. 3
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> स उत्तमः पुरुषः नोपजनं स्मरन्न् इदं शरीरम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एवम् एवास्य परिदृष्टुर्  
+इमाः षोडशकलाः +++(परम-)+++पुरुषायणाः  
+पुरुषं प्राप्यास्तं गच्छन्ति 
+</details>
+
+<details><summary>English</summary>
+
+> "Even so, the sixteen parts (kalas) of the experiencer (jiva),  
+which depend (for their existence, nature and continuance) on the Highest Person,  
+on reaching Him, become incapable of entangling Him in pleasure, pain, etc."[F65_114]  
+[F65_114]: *Prasna*. *Up*. V
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> एवम् एवास्य परिदृष्टुर्  
+इमाः षोडशकलाः पुरुषायणाः  
+पुरुषं प्राप्यास्तं गच्छन्ति 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तस्माद् धा एतस्मान् मनोमयाद् अन्यो  
+ऽन्तर आत्मा विज्ञानमयः 
+
+इत्य् आद्याः ।
+</details>
+
+<details><summary>English</summary>
+
+"Different from that made of mind is another inner soul consisting of knowledge."[F65_115]
+[F65_115]: *Tait*. *Up.* II. 4.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माद् धा एतस्मान् मनोमयाद् अन्यो ऽन्तर आत्मा विज्ञानमयः इत्य् आद्याः ।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
