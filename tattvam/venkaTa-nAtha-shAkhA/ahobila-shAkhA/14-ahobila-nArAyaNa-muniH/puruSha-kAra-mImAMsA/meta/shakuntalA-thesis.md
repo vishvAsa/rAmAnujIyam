@@ -248,12 +248,15 @@ The exact date of Śrīśaileśa the author of the commentary **Maṇidīpikā**
 
 commentary which throws some light upon the parentage and lineage of Śrīśaileśa.
 
-> श्रीवत्स्यराजगोपालतनयं तत्पदाश्रयम्।
-> अम्माकार्या कृपापात्रं श्रीनिवासगुरुं भजे।।
+> श्रीवत्स्यराजगोपाल-  
+> तनयं तत्पदाश्रयम्।
+> अम्माळ्-आर्य-कृपापात्रं  
+> श्रीनिवासगुरुं भजे।।
 
 At the beginning of the commentary also we find the following statements regarding his lineage:
 
-> श्रीवत्सराजगोपालगुरुं मनसा तम् आश्रये॥
+> श्रीवत्सराजगोपाल-  
+गुरुं मनसा तम् आश्रये॥
 यत्सेवया मया लब्धं  
 श्रीशैल-तत्त्व-ज्ञ-बोधनम्।  
 अस्मद्-आचार्य-गुरोः पादौ  
@@ -288,6 +291,8 @@ Another important fact that corroborates this finding is that Śrīśaileśa ver
 
 ***
 [[P18]]
+
+#### Vedānta Rāmānuja Muni
 Vedānta Rāmānuja Muni wrote his ŚTS with the sole view of demolishing the findings of the PM.[^18_5] He was the disciple of Kalyāṇāvaha Raṅganātha Mahādeśika, was born in Koppal Agrahāram, a village near Thirunārāyaṇapuram in the Karnataka State.[^18_6] It is said that he resembled Bhāṣyakāra (Śrī Rāmānuja) himself for which reason he was also known as "Śākṣāt Svāmī". 
 
 Vedānta Rāmānuja Muni has been reverentially quoted in the Nyāyavidyāpariṣkṛti of unknown authorship.[^18_7] His other works include Divyasūri-prabhāva-Dīpikā, commentaries in Maṇipravāḷa called[^18_8]
@@ -1447,27 +1452,30 @@ The works of VD speak of Lakṣmī as an attribute of the Lord since she is His 
 
 The chief purpose of PM therefore, is to decide beyond doubt if Lakṣmī the Patnī can lay claims to all the features of Her Lord, in the manner He possesses them 'patnyāḥ pativad īdrktvam asti neti nirūpyate' (PM. p.6).
 
+### upAyatva
 Vedānta Rāmānuja Muni whose ŚTS was 'designed chiefly to demolish' the PM, takes exception to the stand taken by NM on one important issue namely Her Upāyatva.
 
 ***
 [[P104]]
 91
 
-According to NM, Lord alone is the direct means of salvation but not Lakṣmī. Lakṣmī's being the **upāya** for Mokṣa is also acknowledged in some scriptural and Āgama passages and openly expressed in the **stotras** of Ācāryas as well. But NM prefers to explain this **upāyatva** through Lakṣmī's status as an 'attribute' of the Lord and never as the substantive, that is the Lord. 
+According to NM, Lord alone is the direct means of salvation but not Lakṣmī. Lakṣmī's being the **upāya** for Mokṣa is also acknowledged in some scriptural and Āgama passages and openly expressed in the **stotras** of Ācāryas as well. But NM prefers to explain this **upāyatva** through Lakṣmī's status as an 'attribute' of the Lord and never as the substantive, that is the Lord. +++(5)+++
 
+### nigraha
 Regarding **nigraha** also, while VR points out **sāmarthya** (capacity) to punish the wicked as being present in the Divine Mother, NM contends that even granting this, Lakṣmī never desires to display it.
 
 "**śaktiḥ śriyo'sti neccheti**" (Kārikā 41a)
 
+### Viśeṣaṇatva
 For NM the **Viśeṣaṇatva** of Lakṣmī is the key which unlocks the flood-gates of a number of features such as **kāraṇatva**, **upāsyatva**, **upāyatva** and **prāpyatva**. Her creation is marked by pure and unalloyed grace. She receives the **Bhara**, and confers upon the devotees supreme Bliss through sheer love and affection. The Lord is a **daṇḍadhara** but Lakṣmī is entirely devoid of this quality. 
 
-In so far as conferring Mokṣa is concerned while VR contends that Lakṣmī is as powerful and full-fledged an **upāya** as the Lord is, NM makes her the **upāya** through the
+In so far as conferring Mokṣa is concerned while VR contends that Lakṣmī is as powerful and full-fledged an **upāya** as the Lord is, NM makes her the **upāya** through the golden means of Her status as an Attribute.
 
 ***
 [[P105]]
 92
 
-golden means of Her status as an Attribute. The passage '**kāraṇatvādi na śriyaḥ**' shows that the kind of **kāraṇatva** mentioned of Brahman in the Śrutis and Brahmasūtra is not found in Lakṣmī. It does not deprive Lakṣmī of Her glory or status. The Lord is all the time qualified by Lakṣmī. Therefore whatever functions the Lord, has Lakṣmī also can share in. One cannot imagine a substantive without an attribute. Whatever feature the substantive possesses can also be ascribed to the **Viśeṣaṇa** which is a part and parcel of the substantive.
+The passage '**kāraṇatvādi na śriyaḥ**' shows that the kind of **kāraṇatva** mentioned of Brahman in the Śrutis and Brahmasūtra is not found in Lakṣmī. It does not deprive Lakṣmī of Her glory or status. The Lord is all the time qualified by Lakṣmī. Therefore whatever functions the Lord, has Lakṣmī also can share in. One cannot imagine a substantive without an attribute. Whatever feature the substantive possesses can also be ascribed to the **Viśeṣaṇa** which is a part and parcel of the substantive.
 
 Lakṣmī's role as **jagatkāraṇa**, as intended by Vedānta Deśika in his NS and other works, has been fully subscribed to by NM in his PM. Deśika's CŚB speaks of the relationship of Lakṣmī with Her Lord in terms of **svāmitva**, **saulabhya**, **phaladatva** and **phalatva**. The word **phaladatva** means **upāyatva**. That Lakṣmī also becomes an **upāya** through Her status as Lord's consort is acceptable to Deśika himself, contends NM.
 
