@@ -3,7 +3,7 @@ title = "लोकाचार्यानुग-भेदाः"
 +++
 
 ## प्रपत्तिः
-विचारभेदो मतिविभ्रमाद्य् [ऽन्यत्र](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/lokAryAnugebhyo_bhedaH)। 
+विचारभेदो मतिविभ्रमाद्य् [ऽन्यत्र](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/lokAryAnuga-bhedaH)। 
 
 ### प्रकार-कलनम्
 पिऩ्ब्-अऴगिय-बॆरुमाळ्-जीयर्-वार्त्तामालै-ग्रन्थे 
@@ -46,6 +46,11 @@ Ramanuja acts like chief purushakara in prapatti( coz guruparampara is treated s
 
 इति SV। 
 </details>
+
+### अनुष्ठान-सत्यता
+तदीय-वचनान्य् अन्यत्र सङ्गृहीतानि। 
+
+[TW](https://youtu.be/AMND2Acluas?t=1779) - in a discussion for whether purushakAratva applies for thenkalais coz they dispute performance of prapatti - in background AnDavan tells the author they do perform bharanyasam - for which navalpakkam vAsudevAchArya swamy affirms and says it's performed even today by them, but that the tengalais deny it on purpose because of aversion to Desika, with a "we should always tell opposite of what Deshika tells" attitude.
 
 ### रक्षा-मात्रार्था
 #### लक्षणम्
