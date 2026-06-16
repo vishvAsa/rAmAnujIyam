@@ -659,7 +659,7 @@ Argument from pure negative concomitance fares no better :—
 
 <details><summary>English</summary>
 
-[[P68]] The reason concomitant in negation alone *(kevalavyatireki*) does not even possess the quality of being a correct reason; for, as in the fallacy called *asādhārana,* there is absence of the probans in instances where the sadhya is surely met with (sapaksa).[F68_120]
+[[P68]] The reason    concomitant in negation alone *(kevalavyatireki*) does not even possess the quality of being a correct reason; for, as in the fallacy called *asādhārana,* there is absence of the probans in instances where the sadhya is surely met with (sapaksa).[F68_120]
 </details>
 
 <details><summary>English - Notes</summary>
