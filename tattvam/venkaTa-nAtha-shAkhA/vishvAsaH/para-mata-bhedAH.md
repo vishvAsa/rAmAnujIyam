@@ -132,6 +132,8 @@ This only refers to vigraha with head, feet and so on. A sharIra however can be 
 ब्रह्मसूत्रादिव्याख्यानेन वेदान्तपदप्राप्तिश् च शैवैर् अपि प्रायेणावधीरिता।  
 
 ## ब्रह्म-परिणाम-वादाः
+भास्करस्य भेदाभेदोऽयम्, भर्तृप्रपञ्चस्याभिनवगुप्तस्य च।
+
 अयं निरस्तो रामानुजार्येण [विस्तरतः](/rAmAnujIyam/tattvam/rAmAnujaH/vedArtha-sangrahaH/sarva-prastutiH/08_bhAskaupAdhika-dvaita-nirAsaH/) -
 
 > उपाधि-ब्रह्म-व्यतिरिक्त-वस्त्व्-अन्तरानभ्युपगमाद्
@@ -151,6 +153,20 @@ This only refers to vigraha with head, feet and so on. A sharIra however can be 
 अ-परिमित-दुःखस्य पारमार्थिकत्वात्  
 संसारिणाम् अनन्तत्वेन दुस्तरत्वाच् च ।
 
+
+> "wave particle duality in modern physics" यथा सम्भवति, तद्वद् भेदाभेदो जीवेश्वरयोर् 
+
+इति चेत्  
+
+> wave particle duality actually does not exist. We just have a "probability wave", which has these two aspects. This "totally opposite qualities inher" is merely our wordcelling inteptitude.
+
+इति तत्र समाधानम्। 
+
+> Zoology rejecting a proposal of an animal that acts like a bird in the sky and as a mammal otherwise until a bat is encountered.
+
+इति चेत्
+
+> Even that flight vs mamalianism example - "mutually contradictoriness" does not exist there, unlike being joyful powerful Godness  and not-very-joyful-limited wormness. A better analogy would be something which is flightless flying creature.
 
 ### प्रत्यभिज्ञा-दर्शनम्
 #### ब्रह्म-परिणामाज्ञाने
