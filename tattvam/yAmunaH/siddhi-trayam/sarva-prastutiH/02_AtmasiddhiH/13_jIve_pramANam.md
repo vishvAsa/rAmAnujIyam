@@ -614,7 +614,8 @@ Some consider that this (view) is not correct.
 #### अन्वय-व्यतिरेकि-हेतुभिर् न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि — अन्वय-व्यतिरेकि-हेतुभिर् देहादि-साधारणम् आश्रय-मात्रम् अवगमितम् ।
+तथा हि —   
++++(पूर्वोक्त-)+++अन्वय-व्यतिरेकि-हेतुभिर् देहादि-साधारणम् आश्रय-मात्रम् अवगमितम् ।
 </details>
 
 <details><summary>English</summary>
@@ -653,9 +654,20 @@ Argument from pure negative concomitance fares no better :—
 
 केवल-व्यतिरेकी तु  
 साधन-दशाम् एव नासादयति,  
-स-पक्षान्वय-विरहात्,  
++++(साध्याप्रसिद्धेः साध्यवत्-पक्ष=)+++स-पक्षान्वय-विरहात्,  
 अ-साधारणवत् ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+पक्ष-मात्र-वृत्ति-हेतुर् असाधारणः,  
+यथा - "शब्दत्वात् शब्दे नित्यत्वम्" इत्यत्र।  
+सपक्षान्वयो ऽत्र नास्ति -  
+न हि नित्यवस्तुनि सर्वे शब्दत्वम् अस्ति।  
+अतः स हेत्व्-आभास एव।  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -664,7 +676,26 @@ Argument from pure negative concomitance fares no better :—
 
 <details><summary>English - Notes</summary>
 
-[F68_120]: In the argument, sound is eternal, because it is sound the hetu is vitiated by the fallacy of asādhāraņa; for, it is not present in any sapaksa (i.c., similar examples where the sadhya is present) even as it is not present in the vipaksa. Similarly, in cases where reasons concomitant in negation alone (*kevalavyatireki*) are employed, there being no sapaksa, it is impossible to show the presence of the hetu in apaksas. Hence, *kevalavyatireki* is considered fallacious. It is defective for another reason also. In order to show that wherever the sadhya is absent the hetu is also absent the sadhya must first have been understood previously; but it is not met with anywhere. Hence, the Vedantins dismiss kevalavyatirkī as being faulty. Cf. 'sadhyābhāvo vipakse kathamiva viditaḥ tasya sadhyaprasiddheh' *Tattvamuktākaļāpa, Buddhisara*, verse 53. See also *Nyaya*-*Parisuddhi* (Memorial edition, pp. 66-75) and *Didhiti*. The *Vedanta* Paribhāṣā rejects *kevalānvayi* also, on the score that the kevalanvayi requires a sadhya which is present everywhere and such a sadhya is inadmissible on the theory that Brahman is nirguna.
+[F68_120]: In the argument,  
+
+> sound is eternal, because it is sound  
+
+the hetu is vitiated by the fallacy of asādhāraņa;  
+for, it is not present in any sapaksa (i.e., similar examples where the sadhya is present)  
+even as it is not present in the vipaksa. 
+
+Similarly, in cases where reasons concomitant in negation alone (*kevalavyatireki*) are employed, there being no sapaksa, it is impossible to show the presence of the hetu in apaksas.  
+Hence, *kevalavyatireki* is considered fallacious.  
+
+It is defective for another reason also.  
+In order to show that wherever the sadhya is absent  
+the hetu is also absent the sadhya must first have been understood previously; but it is not met with anywhere.  
+Hence, the Vedantins dismiss kevalavyatirkī as being faulty.  
+Cf. 'sadhyābhāvo vipakse kathamiva viditaḥ  
+tasya sadhyaprasiddheh'  
+*Tattvamuktākaļāpa, Buddhisara*, verse 53. See also *Nyaya*-*Parisuddhi* (Memorial edition, pp. 66-75) and *Didhiti*.  
+
+The *Vedanta* Paribhāṣā rejects *kevalānvayi* also, on the score that the kevalanvayi requires a sadhya which is present everywhere and such a sadhya is inadmissible on the theory that Brahman is nirguna.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -675,12 +706,47 @@ Argument from pure negative concomitance fares no better :—
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-अन्वयिनाश्रय-मात्रस्य सिद्धाव् अपि केवल-व्यतिरेकिणा आश्रय-विशेषः सेत्स्यतीत्य् अत्राह **केवले**ति । साधन-दशाम् अनुमापकत्व-अवस्थां, नासादयति न [[प्राप्तोति|प्राप्नोति]], सपक्षान्वय-विरहात् साध्येन सहचार-दर्शन-स्थल-सम्बन्धाभावाद् इत्य् अर्थः । **असाधारणवद्** इति । पक्ष-मात्र-वृत्ति-हेतोर् असाधारणस्य साध्य-सहचार-ग्रह-विरहाद् अगृहीत-व्याप्तिकस्य यथा न गमकत्वम्, एवं केवल-व्यतिरेकिणो ऽपि व्याप्ति-ग्रहायोगाद् न गमकत्वम् इति भावः । ननु सति सपक्षे हेतोर् अवृत्तेर् असाधारणस्य सदोषत्वम् । केवल-व्यतिरेकिणि तु सपक्षस्यैव विरहाद् न दोषः इति चेत्; मैवम्; केवल-व्यतिरेकिणि साध्यस्य प्रसिद्धिर् अस्ति न वानुमानात् पूर्वम् । अस्ति चेद् यत्र प्रसिद्धिः तत्र हेतोः सत्त्वे ऽन्वयित्वम्, असत्त्वे तु असाधारणत्वम् एव । नास्ति चेद् साध्य-व्यतिरेकस्याप्य् अप्रसिद्धेः केवल-व्यतिरेकित्वम् अपि दुर्घटम् इति दिक् । विस्तरस् तु न्याय-परिशुद्ध्यादाव् अनुसन्धेयः ।
+अन्वयिनाश्रय-मात्रस्य सिद्धाव् अपि  
+केवल-व्यतिरेकिणा आश्रय-विशेषः सेत्स्यतीत्य् अत्राह **केवले**ति ।  
+साधन-दशाम् अनुमापकत्वावस्थां,  
+नासादयति न प्राप्नोति,  
+सपक्षान्वय-विरहात्  
+साध्येन सहचार-दर्शन-स्थल-सम्बन्धाभावाद्  
+इत्य् अर्थः ।  
+
+**असाधारणवद्** इति ।  
+पक्ष-मात्र-वृत्ति-हेतोर् असाधारणस्य  
+साध्य-सहचार-ग्रह-विरहाद् अगृहीत-व्याप्तिकस्य यथा न गमकत्वम्,  
+एवं केवल-व्यतिरेकिणो ऽपि  
+व्याप्ति-ग्रहायोगाद्  
+न गमकत्वम् इति भावः । 
+
+> ननु सति सपक्षे  
+हेतोर् अवृत्तेर् असाधारणस्य सदोषत्वम् ।  
+केवल-व्यतिरेकिणि तु  
+सपक्षस्यैव विरहाद्  
+न दोषः 
+
+इति चेत्; मैवम्;  
+केवल-व्यतिरेकिणि साध्यस्य प्रसिद्धिर् अस्ति न वानुमानात् पूर्वम् ?  
+अस्ति चेद्  
+यत्र +++(साध्यस्य)+++ प्रसिद्धिः -  
+तत्र हेतोः सत्त्वे ऽन्वयित्वम्,  
++++(हेतोः)+++ असत्त्वे तु असाधारणत्वम् एव ।  
+
++++(साध्य-प्रसिद्धिर्)+++ नास्ति चेत्  
+साध्य-व्यतिरेकस्याप्य् अप्रसिद्धेः  
+केवल-व्यतिरेकित्वम् अपि दुर्घटम्  
+इति दिक् ।  
+विस्तरस् तु न्याय-परिशुद्ध्य्-आदाव् अनुसन्धेयः ।
 </details>
 
+##### न केवलान्वयिवत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[नचैवं|न च एवम्]] केवलान्वयिनो विपक्ष-व्यतिरेक-दर्शन-विकलतया साधारण-वद् असाधनत्वम् ।
+न चैवं केवलान्वयिनो  
++++(विसाध्यपक्ष=)+++विपक्ष-+++(हेत्व्-अभाव=)+++व्यतिरेक-दर्शन-विकलतया  
++++(विपक्षे व्यभिचरन्न् असद्-धेतुः=)+++ साधारणवद् अ-साधनत्वम् –
 </details>
 
 <details><summary>English</summary>
@@ -701,12 +767,18 @@ The objection that on this admission, even the reason concomitant in affirmation
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-शङ्कते न चैवम् इति । विपक्ष-व्यतिरेकः विपक्षासत्त्वम् । साधारणवत् पक्ष-त्रय-वृत्ति-हेतुवत् । साधारणे यथा विपक्षे सत्त्वाद् हेतोर् असाधकत्वम्, केवलान्वयिन्य् अपि विपक्षस्यैव अप्रसिद्धेः तत्-सत्त्वाभावस्याप्य् अप्रसिद्धेस् तथा गमकत्वं स्याद् इत्य् अर्थः । अन्वय-व्यतिरेकिणि उभय-विध-सहचार-दर्शनाद् व्याप्ति-ग्रहस्य दृष्टेः साध्य-हेत्वो सहचार-अदर्शनात् केवल-व्यतिरेकिणो ऽसाधकत्वं चेद् अभिमतम्, तर्हि सहचारादर्शनात् केवलान्वयिनो ऽप्य् असाधकत्वं स्याद् इति चाकूतम् ।
+शङ्कते न चैवम् इति ।  
+विपक्ष-व्यतिरेकः विपक्षासत्त्वम् ।  
+साधारणवत् पक्ष-त्रय-वृत्ति-हेतुवत् ।  
+साधारणे यथा विपक्षे सत्त्वाद् हेतोर् असाधकत्वम्,  
+केवलान्वयिन्य् अपि विपक्षस्यैव अप्रसिद्धेः तत्-सत्त्वाभावस्याप्य् अप्रसिद्धेस् तथा गमकत्वं स्याद् इत्य् अर्थः । अन्वय-व्यतिरेकिणि उभय-विध-सहचार-दर्शनाद् व्याप्ति-ग्रहस्य दृष्टेः साध्य-हेत्वो सहचार-अदर्शनात् केवल-व्यतिरेकिणो ऽसाधकत्वं चेद् अभिमतम्, तर्हि सहचारादर्शनात् केवलान्वयिनो ऽप्य् असाधकत्वं स्याद् इति चाकूतम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[देशकालादिशङ्गितोपाधिविगमेप्यन्वयदर्शनेन|देश-कालादि-शङ्कितोपाधि-विगमे ऽप्य् अन्वय-दर्शनेन]] साध्यान्वित-स्वभावतया परिनिश्चितत्वात् ।
+देश-कालादि-शङ्कितोपाधि-विगमे ऽप्य्  
+अन्वय-दर्शनेन  
+साध्यान्वित-स्वभावतया परिनिश्चितत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -722,12 +794,22 @@ Since, even in the absence of suspected limiting conditions (upadhís), such as 
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-परिहरति **देशकालादी**ति । कस्मिंश्चिद् देशे काले वा हेतुः साध्यम् अन्तरापि प्रयोजकान्तरात् स्याद् इति देश-काल-विशेषान्तर्भावेण शङ्कितोपाधेर् अनुकूल-तर्केण निवर्तने सति साध्य-हेत्वोः सहचार-दर्शन-मात्रतो ऽपि अन्वय-व्याप्तिर् निश्चीयत इत्य् अर्थः । अपिर् भिन्न-क्रमः । अन्वय-दर्शनेनेत्य् अनन्तरं योज्यः । साध्यान्वित-स्वभावतया साध्य-व्याप्यतया । व्यतिरेक-व्याप्ति-ग्रहः एव व्यतिरेक-सहचार-ग्रहस्यापेक्षया केवलान्वयिनि अन्वय-व्याप्ति-ग्रहस्य व्यतिरेकाप्रसिद्धाव् अपि नानुपपत्तिर् इति च भावः । [[विपक्षसत्त्क्स्यैवाप्रसिद्ध्यैव|विपक्ष-सत्त्वस्यैवाप्रसिद्ध्यैव]] रूप-पञ्चक-सम्पत्तिः केवलान्वयिन इति चाशयः सिद्धान्तिनाम् ।
+परिहरति **देशकालादी**ति ।  
+कस्मिंश्चिद् देशे काले वा  
+हेतुः साध्यम् अन्तरापि  
+प्रयोजकान्तरात् स्याद् इति  
+देश-काल-विशेषान्तर्भावेण शङ्कितोपाधेर्  
+अनुकूल-तर्केण निवर्तने सति  
+साध्य-हेत्वोः सहचार-दर्शन-मात्रतो ऽपि  
+अन्वय-व्याप्तिर् निश्चीयत इत्य् अर्थः ।  अपिर् भिन्न-क्रमः । अन्वय-दर्शनेनेत्य् अनन्तरं योज्यः । साध्यान्वित-स्वभावतया साध्य-व्याप्यतया । व्यतिरेक-व्याप्ति-ग्रहः एव व्यतिरेक-सहचार-ग्रहस्यापेक्षया केवलान्वयिनि अन्वय-व्याप्ति-ग्रहस्य व्यतिरेकाप्रसिद्धाव् अपि नानुपपत्तिर् इति च भावः । विपक्ष-सत्त्वस्यैवाप्रसिद्ध्यैव रूप-पञ्चक-सम्पत्तिः केवलान्वयिन इति चाशयः सिद्धान्तिनाम् ।
 </details>
 
+#### न साधनाभावे साध्याभावेनालम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च साधनाभावे साध्याभाव-दर्शन-मात्रेण साध्यान्वित-स्वभावत्वं शक्यं निश्चेतुम् ।
+न च साधनाभावे  
+साध्याभाव-दर्शन-मात्रेण  
+साध्यान्वित-स्वभावत्वं शक्यं निश्चेतुम् -
 </details>
 
 <details><summary>English</summary>
@@ -748,7 +830,9 @@ From the mere observation of the absence of the sadhya when there is the absence
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभावस्यानन्तदेशव्यापितयानवयवेन ग्रहणस्यैव दुष्करत्वात्, कलयाप्य् अन्यत्र-वृत्तौ सम्बन्धे नियमासम्भवात् ।
+अ-भावस्यानन्त-देश-व्यापितया  
+अनवयवेन +++(सकलतया)+++ ग्रहणस्यैव दुष्करत्वात्,  
+कलया ऽप्य् अन्यत्र-वृत्तौ सम्बन्धे नियमासम्भवात् ,
 </details>
 
 <details><summary>English</summary>
@@ -769,7 +853,9 @@ From the mere observation of the absence of the sadhya when there is the absence
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[सन्देहग्रस्तत्वाच्चकिं|सन्देह-ग्रस्तत्वाच् च किम्]] साधनाभाव-प्रयुक्तः साध्याभावः, किं वा निमित्तान्तर-प्रयुक्त इति ।
+सन्देह-ग्रस्तत्वाच् च  
+किं साधनाभाव-प्रयुक्तः साध्याभावः,  
+किं वा निमित्तान्तर-प्रयुक्त इति ।
 </details>
 
 <details><summary>English</summary>
@@ -788,9 +874,12 @@ Besides, it is a matter for doubt whether the non-existence of the sadhya is due
 ननु यावत्सु प्रत्यक्षेष्व् अधिकरणेषु व्यतिरेकयोः सहचार-दर्शनत एव व्याप्तिर् निश्चीयेतेत्य् अत्राह **सन्देहे**ति । व्यतिरेक-व्याप्तिर् हि साध्याभावे हेत्व्-अभाव-व्याप्ति-गर्भिता । साध्याभावः अस्तु, हेत्व्-अभावः मास्त्व् इति शङ्कायां च न साधन-अभाव-व्याप्यत्वं साध्याभावे गृह्येतानुकूल-तर्क-विरहे । [[साध्यस्या साधननीमित्तत्वसाधननियतस्वभावत्वाद्यन्यथानुपपत्तिलक्षणतर्कbलाच्छङ्कानिवारणं|साध्यस्यासाधन-निमित्तत्व-साधन-नियत-स्वभावत्वाद्य्-अन्यथानुपपत्ति-लक्षण-तर्क-बलाच् छङ्का-निवारणं]] च साध्य-साधनयोः सहचार-दर्शन-मूल-हेतु-हेतुमद्भावाद्य्-अवधारणम् अन्तरा न घटत इति केवल-व्यतिरेक्य्-असिद्धिर् इति च हार्दम् ।
 </details>
 
+#### पदार्थान्तर-गुणत्व-प्रतिज्ञा-दोषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[पृथिव्यादिभ्योर्ऽथान्तरगुणत्वप्रतिज्ञापि|पृथिव्यादिभ्यो ऽर्थान्तर-गुणत्व-प्रतिज्ञापि]] द्रव्यान्तराप्रसिद्धेर् अप्रसिद्ध-विशेषणा ।
+पृथिव्य्-आदिभ्यो ऽर्थान्तर-गुणत्व-प्रतिज्ञा ऽपि  
++++(आत्माख्य-)+++द्रव्यान्तराप्रसिद्धेर्  
+अ-प्रसिद्ध-विशेषणा ।
 </details>
 
 <details><summary>English</summary>
@@ -837,7 +926,7 @@ The Sankhya mode of proof stands discredited for the same reasons :-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतेन साङ्ख्योदीरित-साधन-भेदा अप्य् अपोदिता वेदितव्याः सङ्घात-परार्थत्वादयः ।
+एतेन साङ्ख्योदीरित-साधन-भेदा अप्य् अपोदिता वेदितव्याः - सङ्घात-परार्थत्वादयः ।
 </details>
 
 <details><summary>English</summary>
@@ -858,7 +947,8 @@ By the same reasoning, even the various reasons (such as collocations exist for 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा च तान् एव तावद् आदितो व्याकुर्महे
+तथा च  
+तान् एव तावद् आदितो व्याकुर्महे।
 </details>
 
 <details><summary>English</summary>
@@ -886,7 +976,10 @@ The Sankhya proofs for the existence of soul.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[सङ्गातपरार्थत्वात्र्रिगुणादिविपर्ययादधिष्ठानात्|सङ्घात-परार्थत्वात् त्रिगुणादि-विपर्ययाद् अधिष्ठानात्]] । पुरुषो ऽस्ति भोक्तृ-भावात् कैवल्यार्थं प्रवृत्तेश् च ॥
+सङ्घात-परार्थत्वात्  
+त्रिगुणादि-विपर्ययाद् अधिष्ठानात् ।  
+पुरुषो ऽस्ति भोक्तृ-भावात्  
+कैवल्यार्थं प्रवृत्तेश् च ॥
 </details>
 
 <details><summary>English</summary>
