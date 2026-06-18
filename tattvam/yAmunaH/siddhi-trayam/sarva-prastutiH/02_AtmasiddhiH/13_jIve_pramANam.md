@@ -2218,7 +2218,7 @@ The existence of the jiva deduced from sense perception
 </details>
 
 
-
+### उपनिषद्-अनपेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु हिताहित-प्राप्ति-परिहार-मात्र-परस्य आम्नायस्य शिरसि  
@@ -2256,6 +2256,7 @@ Indeed, we know the soul with the aid of the testimony of perception itself, whi
 अनुमानागमाद्यशेषप्रमाणमूलभूतेन प्रत्यक्षेणैव ह्येनं प्रतिपद्यामहे ।
 </details>
 
+### व्यवहार-बलात्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ममेदं शरीरम्, इदम् अहं जानामी"ति घटादि-दृश्येभ्य इव  
@@ -2288,7 +2289,7 @@ From cognitions such as, 'This is my body,' 'I know this,' it is evident that th
 (इत्यात्मनः प्रत्यक्षत्वपक्षोपक्षेपः)
 </details>
 
-### प्रत्याक्षेपः
+### इन्द्रियाग्राह्यता
 <details><summary>विषयः</summary>
 
 Refutation of this view
@@ -2338,7 +2339,10 @@ for that is perceptual knowledge which arises from the contact of the senses wit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च इन्द्रियाणि रूपादि-व्यतिरेकिणि निरतिशय-सूक्ष्मे प्रतीचि परागर्थ इव सन्निकर्षेण ज्ञानं जनयितुम् अर्हन्ति ।
+न चेन्द्रियाणि  
+रूपादि-व्यतिरेकिणि निरतिशय-सूक्ष्मे प्रतीचि  
+पराग्-अर्थ इव  
+सन्निकर्षेण ज्ञानं जनयितुम् अर्हन्ति ।
 </details>
 
 <details><summary>English</summary>
@@ -2359,17 +2363,17 @@ and from their contact with the inward soul, which is devoid of colour and other
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा आम्नायते ऽपराञ्चि खानि व्यतृणत् स्वयम्भूः ऽ इति ।
+यथा ऽऽम्नायते - 
+
+> पराञ्चि खानि व्यतृणत् स्वयम्-भूः 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
 
-It has been so declared in the vedas: "The self-existent (svayambhūḥ) made the senses proceed outward (and thus troubled them)."[F76_139]
-</details>
-
-<details><summary>English - Notes</summary>
-
-[F76_139]: Katha. Up. IV. I.
+It has been so declared in the vedas: "The self-existent (svayambhūḥ) made the senses proceed outward (and thus troubled them)."  
+(Katha. Up. IV. I.)
 </details>
 
 <details><summary>मूलम्</summary>
