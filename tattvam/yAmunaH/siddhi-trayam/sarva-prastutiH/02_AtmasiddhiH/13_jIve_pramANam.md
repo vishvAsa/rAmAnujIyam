@@ -1845,22 +1845,36 @@ This reflection theory has already been refuted while discarding the view of the
 **प्रत्युक्तश् चे**ति । न्याय-तत्त्व-शास्त्रादाव् इति शेषः ।
 </details>
 
-###### ??
 <summary>विषयः</summary>
 
 The refutation of the argument that the vṛttis of the antaḥkarana are superposed on the purusa.
 </summary>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् उच्यते — निर्विकाराया अपि पुंसे तत्-सन्निधि-महिमसमुत्थापित-प्रमाण-विपर्ययादि-विचित्र-वृत्ति-भेदं स्वान्तम् एव स्व-वृत्तिं विषय-विशेषांश् च उपदर्शयति, सामन्त-चक्रम् इव [[पराक्रमीयः|पराक्रमीय-]] प्रतिबल-विलोलनादि-वृत्तीः स्वामिने, ततः साक्षी भोक्ता च अपदिश्यते, राजेति विक्रमी विजयी चेति; तद् अनुपपन्नम् ।
+यद् उच्यते —  
+
+> निर्विकारायापि पुंसे  
+तत्-सन्निधि-महिम-समुत्थापित-- प्रमाण-विपर्ययादि-विचित्र-वृत्ति-भेदं स्वान्तम् एव  
+स्व-वृत्तिं विषय-विशेषांश् चोपदर्शयति,  
+सामन्त-चक्रम् इव पराक्रमीयः  
+प्रतिबल+++(=शत्रुबल)+++-विलोलनादि-वृत्तीः स्वामिने,  
+ततः +++(दार्ष्टान्तिके)+++ साक्षी भोक्ता चापदिश्यते,  
++++(दृष्टान्ते)+++ राजेति विक्रमी विजयी च
+
+इति; तद् अनुपपन्नम् ।
 </details>
 
 <details><summary>English</summary>
 
-It may be said that, though the puruşa (self) is changeless, the antaḥkarana itself, which possesses wonderful and diverse activities, such as *pramāņa* and *viparyaya*[F74_130] produced by the power belonging to the nearness of the purusa, exhibits its activities and different objects to the puruşa; and thereby, he comes to be called witness (sākṣi), enjoyer (bhoktā); just as the gathering of generals possessing extremely great valour exhibits to the master its activities, such as entering the enemy's camp and causing consternation therein, and, as a consequence, he comes to be termed a monarch, a man of valour and a conqueror. But, this view is unsound.
+It may be said that, though the puruşa (self) is changeless,  
+the antaḥkarana itself, which possesses wonderful and diverse activities, such as *pramāņa* and *viparyaya*[F74_130] produced by the power belonging to the nearness of the purusa,  
+exhibits its activities and different objects to the puruşa;  
+and thereby, he comes to be called witness (sākṣi), enjoyer (bhoktā);  
+just as the gathering of generals possessing extremely great valour exhibits to the master its activities, such as entering the enemy's camp and causing consternation therein,  
+and, as a consequence, he comes to be termed a monarch, a man of valour and a conqueror. 
+
+But, this view is unsound.
 </details>
 
 <details><summary>English - Notes</summary>
@@ -1897,7 +1911,8 @@ In fact, it is only for the sake of the seer that the visible object is found to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च दृशि-मात्रात्म-वादिनां साङ्ख्यानां तद्-उपजीविनां च प्रच्छन्नानां द्रष्टृत्वं वास्तवम् अस्ति ।
+न च दृशि-मात्रात्म-वादिनां साङ्ख्यानां तद्-उपजीविनां च प्रच्छन्नानां +++(बौद्धानाम्)+++  
+द्रष्टृत्वं वास्तवम् अस्ति ।
 </details>
 
 <details><summary>English</summary>
@@ -1910,6 +1925,7 @@ and for the Sankhyas or for their followers, the heretics in disguise, who alike
 नच दृशिमात्रात्मवादिनां साङ्ख्यानां तदुपजीविनां च प्रच्छन्नानां द्रष्टृत्वं वास्तवमस्ति ।
 </details>
 
+###### न शेषिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च काल्पनिकेन शेषित्व-सम्भवः ।
@@ -1927,7 +1943,7 @@ And, the quality of being a seși (one for whose sake others exist) cannot be br
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कल्पनापि न सम्भवतीत्य् उक्तम् एव ।
+कल्पना ऽपि न सम्भवतीत्य् उक्तम् एव ।
 </details>
 
 <details><summary>English</summary>
@@ -1942,7 +1958,14 @@ Besides, it has already been said that even this fictitious imagination cannot a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राजा तु सामान्यतो विशेषतो वा तेषु कर्मसु अमात्यान् नियुञ्जानः तत्-फलम् ऐश्वर्यादि च आध्रुवानः स्व-स्वामि-भाव-हेतु-क्रय-प्रतिग्रह-जननादि-व्यापार-योजी न निष्क्रियस्य अनाधेयातिशयस्य पुंसो निदर्शनम् इति यत्किञ्चिद् एतत् ।
+राजा तु  
+सामान्यतो विशेषतो वा  
+तेषु कर्मस्व् अमात्यान् नियुञ्जानः  
+तत्-फलम् ऐश्वर्यादि चाश्नुवानः  
+स्व-स्वामि-भाव--हेतु- क्रय-प्रतिग्रह-जननादि-व्यापार-योजी  
+
+न निष्क्रियस्य अनाधेयातिशयस्य पुंसो निदर्शनम्  
+इति यत्-किञ्चिद् एतत् ।
 </details>
 
 <details><summary>English</summary>
@@ -1957,14 +1980,19 @@ Besides, it has already been said that even this fictitious imagination cannot a
 
 <details><summary>मूलम्</summary>
 
-राजा तु सामान्यतो विशेषतो वा तेषु कर्मस्वमात्यान्नियुञ्जानः तत्फलमैश्वर्यादि चाश्रुवानः स्वस्वामिभावहेतुक्रयप्रतिग्रहजननादि व्यापारयोगी न निष्क्रियस्यानाधेयातिशयस्य पुंसो निदर्शनमिति यत्किञ्चिदेतत् ।
+राजा तु सामान्यतो विशेषतो वा तेषु कर्मस्वमात्यान्नियुञ्जानः तत्फलमैश्वर्यादि चाश्नुवानः स्वस्वामिभावहेतुक्रयप्रतिग्रहजननादि व्यापारयोगी न निष्क्रियस्यानाधेयातिशयस्य पुंसो निदर्शनमिति यत्किञ्चिदेतत् ।
 </details>
 
-### शास्त्रैकप्रमाणता
+## शास्त्रैकप्रमाणता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्थूलो ऽहं, गच्छाम्य् अहम् इत्यादि-प्रत्यक्ष-मृदित-विषयतया प्रसिद्धैवातीत-कालता व्यतोरेकानुमान-भेदानाम् इत्य् आनुमानिकीयम् अप्य् आत्म-सिद्धिम् अश्रद्दधानाः श्रौतीम् एव तां श्रोत्रियाः सङ्गिरन्ते ।
+> स्थूलो ऽहं, गच्छाम्य् अहम् 
+
+इत्य्-आदि-प्रत्यक्ष-मृदित-विषयतया  
+प्रसिद्धैवातीत-कालता+++(=बाधितता)+++ व्यतिरेकानुमान-भेदानाम् इत्य्  
+आनुमानिकीयम् अप्य् आत्म-सिद्धिम् अश्रद्दधानाः  
+श्रौतीम् एव तां +++(सिद्धिं)+++ श्रोत्रियाः सङ्गिरन्ते ।
 </details>
 
 <details><summary>English</summary>
@@ -1979,7 +2007,7 @@ The different arguments seeking to prove that the soul is distinct from the body
 
 <details><summary>मूलम्</summary>
 
-स्थूलोऽहं, गच्छाभ्यहमित्यादिप्रत्यक्षमृदितविषयतया प्रसिद्धैवातीतकालता व्यतोरेकानुमानभेदानामित्यानुमानिकीमप्यात्मसिद्धिमश्रद्दधानाः श्रौतीमेव तां श्रोतियाः सङ्गिरन्ते ।
+स्थूलोऽहं, गच्छाभ्यहमित्यादिप्रत्यक्षमृदितविषयतया प्रसिद्धैवातीतकालता व्यतिरेकानुमानभेदानामित्यानुमानिकीमप्यात्मसिद्धिमश्रद्दधानाः श्रौतीमेव तां श्रोतियाः सङ्गिरन्ते ।
 </details>
 
 
@@ -1994,40 +2022,160 @@ The existence of the soul established by sruti and srutyarthāpatti.
 </summary>
 
 
-
+### शरीरादि-व्यतिरेचक-श्रुतयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रुतयो हि साक्षाद् एव आत्मनः शरीरादि-व्यतिरेकम् आदर्शयन्ति ऽस एष नेति नेति ऽऽअकायमव्रणमस्नाविरं शुद्धमपापविद्धम् ऽऽयोनिमन्ये प्रपद्यन्ते शरीरत्वाय देहिनः । स्थाणुमन्ये ऽऽन जायते म्रियते वा कदाचित् ऽऽजीवापेतं वावकिलेदं म्रियते ऽऽन हि वै सशरीरस्य सतः प्रियाप्रिययोरपहतिरस्ति । अशरीरं वाव सन्तं न प्रियाप्रिये स्पृशतः ऽ इत्याद्याः ।
+श्रुतयो हि  
+साक्षाद् एव आत्मनः शरीरादि-व्यतिरेकम् आदर्शयन्ति 
 </details>
 
 <details><summary>English</summary>
 
-In fact, scriptural passages, such as the following, directly reveal the distinctness of the soul from the body and the like." The soul (ātmā) is not this; it is not that." [F75_133]" The bodiless, the scatheless, the sinewless, the pure (śuddha), unpierced by sins (apāpaviddha) "; [F75_134] Some go into a womb for assuming bodily form; others become immovable objects"; [F75_135] "He is never born, nor does he die "; " Indeed, only this (body) which is devoid of life dies "[F75_136] "Verily, there is no freedom from pleasure and pain so long as he is embodied; when he is bodiless, pleasure and pain do not touch him." [F75_137]
+In fact, scriptural passages, such as the following, directly reveal the distinctness of the soul from the body and the like.
 </details>
 
-<details><summary>English - Notes</summary>
 
-[F75_133]: *Brh*. *Up*.
-[F75_134]: *Isa*. Up. 8.
-[F75_135]: *Katha*. Up. V. 7.
-[F75_136]: *Chand*. *Up.* VI. xi. 3.
-[F75_137]: *Chand*. Up. VIII. xii. 1.
+<details><summary>मूलम्</summary>
+
+श्रुतयो हि  
+साक्षाद् एव आत्मनः शरीरादि-व्यतिरेकम् आदर्शयन्ति 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स एष नेति नेति
+</details>
+
+<details><summary>English</summary>
+
+> "The soul (ātmā) is not this; it is not that."  
+*Brh*. *Up*.
 </details>
 
 <details><summary>मूलम्</summary>
 
-श्रुतयो हि साक्षादेवात्मनः शरीरादिव्यतिरेकमादर्शयन्ति ऽस एष नेति नेतिऽऽअकायमव्रणमस्नाविरं शुद्धमपापविद्धम्ऽऽयोनिमन्ये प्रपद्यन्ते शरीरत्वाय देहिनः । स्थाणुमन्येऽऽन जायते म्रियते वा कदाचित्ऽऽजीवापेतं वावकिलेदं म्रियतेऽऽन हि वै सशरीरस्य सतः प्रियाप्रिययोरपहतिरस्ति । अशरीरं वाव सन्तं न प्रियाप्रिये स्पृशतःऽ इत्याद्याः ।
+स एष नेति नेति
 </details>
 
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-देहादि-भेदे आत्मनः श्रुतिम् एव प्रमाणतयोपन्यस्यन्ति श्रोत्रियाः **स एष** इति । **नेतिनेती** त्यात्मनः शरीरादि-गत-प्रकार-निषेधः ।  शरीर-भिन्नं  शरीर-धर्म-व्रणादि-रहितं चात्म-स्वरूपम् इत्य् अकायम् इत्य्-आदेर् अर्थः । **योनिम्** इति ।  अत्र शरीर-प्रापक-योनिसम्बन्ध-प्रतिपादनेनात्मनः शरीर-भिन्नत्वं सिध्यति । शरीरत्वाय शीर्यमाणत्वाय । इदं च न स्वरूपेण, किन्तु शरीर-विशिष्ट-वेषेण ।  तथा च देहादेर् एवोत्पत्त्यादि नात्मन इत्य् अत्र श्रुतिर् न जायत इति । शरीर-भिन्नत्वम् उक्तम् आत्मनः । शरीर-संसृष्टत्वम्  अप्य् औपाधिकम् एव, मुक्तौ त्वशरीरत्वम् एवेत्य् अत्र श्रुतिम् उपादत्ते **न ह वै** इति ।
+देहादि-भेदे आत्मनः श्रुतिम् एव प्रमाणतयोपन्यस्यन्ति श्रोत्रियाः - **स एष** इति ।   
+**नेतिनेती** त्यात्मनः शरीरादि-गत-प्रकार-निषेधः ।  शरीर-भिन्नं  शरीर-धर्म-व्रणादि-रहितं चात्म-स्वरूपम् इत्य् अकायम् इत्य्-आदेर् अर्थः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अकायम् अव्रणम् अस्नाविरं शुद्धम् अ-पाप-विद्धम्
+</details>
+
+<details><summary>English</summary>
+
+> The bodiless, the scatheless, the sinewless, the pure (śuddha), unpierced by sins (apāpaviddha);  
+(*Isa*. Up. 8.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऽअकायमव्रणमस्नाविरं शुद्धमपापविद्धम् ऽ
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> योनिमन्ये प्रपद्यन्ते शरीरत्वाय देहिनः । स्थाणुमन्ये 
+</details>
+
+
+<details><summary>English</summary>
+
+> Some go into a womb for assuming bodily form; others become immovable objects; (*Katha*. Up. V. 7.)  
+</details>
+
+<details><summary>मूलम्</summary>
+
+योनिमन्ये प्रपद्यन्ते शरीरत्वाय देहिनः । स्थाणुमन्ये 
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**योनिम्** इति ।  अत्र शरीर-प्रापक-योनिसम्बन्ध-प्रतिपादनेनात्मनः शरीर-भिन्नत्वं सिध्यति ।  
+शरीरत्वाय शीर्यमाणत्वाय । इदं च न स्वरूपेण, किन्तु शरीर-विशिष्ट-वेषेण ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कालान्तर-भावि-स्वर्गादि-साधन-विधयश् च आक्षिपन्ति देहादि-व्यतिरिक्तं नित्यं चेतनम् इति श्रुति-तद्-अनुपपत्ति-प्रमाणको ऽयं प्रत्यगात्मेति ।
+> न जायते म्रियते वा कदाचित्
+</details>
+
+<details><summary>English</summary>
+
+> "He is never born, nor does he die "; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न जायते म्रियते वा कदाचित्
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+तथा च देहादेर् एवोत्पत्त्यादि नात्मन इत्य् अत्र श्रुतिर् न जायत इति । शरीर-भिन्नत्वम् उक्तम् आत्मनः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जीवापेतं वाव किलेदं म्रियते
+</details>
+
+<details><summary>English</summary>
+
+> " Indeed, only this (body) which is devoid of life dies "(*Chand*. *Up.* VI. xi. 3.) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवापेतं वावकिलेदं म्रियते
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न हि वै स-शरीरस्य सतः  
+प्रियाप्रिययोर् अपहतिर् अस्ति ।  
+अशरीरं वाव सन्तं न प्रियाप्रिये स्पृशतः 
+
+इत्याद्याः ।
+</details>
+
+<details><summary>English</summary>
+
+> "Verily, there is no freedom from pleasure and pain so long as he is embodied; when he is bodiless, pleasure and pain do not touch him." (*Chand*. Up. VIII. xii. 1.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+"न हि वै सशरीरस्य सतः प्रियाप्रिययोरपहतिरस्ति । अशरीरं वाव सन्तं न प्रियाप्रिये स्पृशतः" इत्याद्याः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+शरीर-संसृष्टत्वम्  अप्य् औपाधिकम् एव, मुक्तौ त्वशरीरत्वम् एवेत्य् अत्र श्रुतिम् उपादत्ते **न ह वै** इति ।
+</details>
+
+### श्रुत्य्-अर्थापत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कालान्तर-भावि-- स्वर्गादि-साधन-विधयश् च  आक्षिपन्ति  
+देहादि-व्यतिरिक्तं नित्यं चेतनम्  
+इति श्रुति--तद्-अनुपपत्ति-प्रमाणको ऽयं प्रत्यगात्मेति ।
 </details>
 
 <details><summary>English</summary>
@@ -2073,7 +2221,8 @@ The existence of the jiva deduced from sense perception
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु हिताहित-प्राप्ति-परिहार-मात्र-परस्य आम्नायस्य शिरसि किम् इति महान् अयं भारः प्रक्षिप्यते?
+ननु हिताहित-प्राप्ति-परिहार-मात्र-परस्य आम्नायस्य शिरसि  
+किम् इति महान् अयं भारः प्रक्षिप्यते?
 </details>
 
 <details><summary>English</summary>
@@ -2094,7 +2243,7 @@ The existence of the jiva deduced from sense perception
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुमानागमाद्य्-अशेष-प्रमाण-मूल-भूतेन प्रत्यक्षेणैव ह्य् एनं प्रतिपद्यामहे ।
+अनुमानागमाद्य्-अशेष-प्रमाण-मूल-भूतेन प्रत्यक्षेणैव ह्य् एनं +++(आत्मानम्)+++ प्रतिपद्यामहे ।
 </details>
 
 <details><summary>English</summary>
@@ -2109,7 +2258,9 @@ Indeed, we know the soul with the aid of the testimony of perception itself, whi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ममेदं शरीरम्, इदमहं जानामीति घटादिदृश्येभ्य इवायं द्रष्टा देहादपि पृथग्भूतः प्रत्यक्षं परिस्फुरति ।
+"ममेदं शरीरम्, इदम् अहं जानामी"ति घटादि-दृश्येभ्य इव  
+अयं द्रष्टा देहाद् अपि पृथग्-भूतः  
+प्रत्यक्षं परिस्फुरति ।
 </details>
 
 <details><summary>English</summary>
