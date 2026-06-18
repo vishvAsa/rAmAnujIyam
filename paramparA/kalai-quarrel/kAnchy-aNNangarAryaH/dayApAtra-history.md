@@ -79,7 +79,7 @@ Source: [TW](https://youtu.be/cwlrsQ_KepA)
 57:40 - portayal of ahobila-yati
 59:15 - Glee at the plight of **shrIranga archakas**. "cannot prostrate... twice"
 1:00:10 - Funeral restrictions too!
-1:02:00 - No Adhyayanotsava role for deshika in shrIranga.
+1:02:00 - No Adhyayanotsava role for deshika in shrIranga. (**Correction** - misspoke nammALvAr instead of nAthamuni)
 1:03:40 - His own statement - "bigotry makes even a learned person err".
 1:06:40 - Conclusion.
 </details>
