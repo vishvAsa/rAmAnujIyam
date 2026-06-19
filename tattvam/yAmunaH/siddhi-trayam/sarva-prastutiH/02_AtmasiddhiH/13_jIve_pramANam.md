@@ -2218,7 +2218,7 @@ The existence of the jiva deduced from sense perception
 </details>
 
 
-
+### उपनिषद्-अनपेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु हिताहित-प्राप्ति-परिहार-मात्र-परस्य आम्नायस्य शिरसि  
@@ -2256,6 +2256,7 @@ Indeed, we know the soul with the aid of the testimony of perception itself, whi
 अनुमानागमाद्यशेषप्रमाणमूलभूतेन प्रत्यक्षेणैव ह्येनं प्रतिपद्यामहे ।
 </details>
 
+### व्यवहार-बलात्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ममेदं शरीरम्, इदम् अहं जानामी"ति घटादि-दृश्येभ्य इव  
@@ -2288,7 +2289,7 @@ From cognitions such as, 'This is my body,' 'I know this,' it is evident that th
 (इत्यात्मनः प्रत्यक्षत्वपक्षोपक्षेपः)
 </details>
 
-### प्रत्याक्षेपः
+### इन्द्रियाग्राह्यता
 <details><summary>विषयः</summary>
 
 Refutation of this view
@@ -2338,7 +2339,10 @@ for that is perceptual knowledge which arises from the contact of the senses wit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च इन्द्रियाणि रूपादि-व्यतिरेकिणि निरतिशय-सूक्ष्मे प्रतीचि परागर्थ इव सन्निकर्षेण ज्ञानं जनयितुम् अर्हन्ति ।
+न चेन्द्रियाणि  
+रूपादि-व्यतिरेकिणि निरतिशय-सूक्ष्मे प्रतीचि  
+पराग्-अर्थ इव  
+सन्निकर्षेण ज्ञानं जनयितुम् अर्हन्ति ।
 </details>
 
 <details><summary>English</summary>
@@ -2359,17 +2363,17 @@ and from their contact with the inward soul, which is devoid of colour and other
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा आम्नायते ऽपराञ्चि खानि व्यतृणत् स्वयम्भूः ऽ इति ।
+यथा ऽऽम्नायते - 
+
+> पराञ्चि खानि व्यतृणत् स्वयम्-भूः 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
 
-It has been so declared in the vedas: "The self-existent (svayambhūḥ) made the senses proceed outward (and thus troubled them)."[F76_139]
-</details>
-
-<details><summary>English - Notes</summary>
-
-[F76_139]: Katha. Up. IV. I.
+It has been so declared in the vedas: "The self-existent (svayambhūḥ) made the senses proceed outward (and thus troubled them)."  
+(Katha. Up. IV. I.)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2383,3 +2387,1406 @@ It has been so declared in the vedas: "The self-existent (svayambhūḥ) made th
 इन्द्रियाग्राह्यत्वे आत्मनः श्रुतिम् उदाहरति **पराञ्ची**ति । परागर्थ-मात्र-ग्रहण-समर्थानीन्द्रियाणीत्य् अर्थः ।
 </details>
 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.17 अचित्त्व-प्रतिबद्धश् च  
+सर्वो ऽपीन्द्रिय-गोचरः ।  
+तेन नैन्द्रियिकं ज्ञानम्  
+आत्मानं स्प्रष्टुम् अर्हति ॥
+</details>
+
+<details><summary>English</summary>
+
+1.17 All objects revealed by the senses will invariably be accompanied by the quality of non-intelligence; therefore the knowledge born of the senses is incapable of touching the soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.17 अचित्त्वप्रतिबद्धश्च सर्वोऽपीन्द्रियगोचरः ।  
+तेन नैन्द्रियिकं ज्ञानमात्मानं स्प्रष्टुमर्हति ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+युक्तिम् अप्य् उपन्यस्यति **अचित्त्व**ति । अचित्त्व-प्रतिबद्धः अचित्त्व-व्याप्यः । आत्मा नेन्द्रिय-ग्राह्यश् चेतनत्वात्, यन् नैवं तन् नैवं यथा घटादीति चात्र प्रयोगः ॥१७ ॥
+</details>
+
+#### मानस-प्रत्यक्षम् भाट्ट-मतम्
+<details><summary>विषयः</summary>
+
+The Bhaṭṭa view :-
+
+The existence of the soul established through perception by manas
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्यान् मतम् —  
+भौतिकत्वात् बहिर्-इन्द्रियाणि  
+मा नामात्मनि प्रवर्तिषत ।  
+मनस् तु प्रवर्तिष्यते  
+अभौतिकत्वाद् इति; 
+</details>
+
+<details><summary>English</summary>
+
+It may be said, "Let the external senses not come into contact with the soul and present it, since they are elemental (bhautika);  
+but the manas, being non-elemental, may enter into contact with the soul and present it." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्यान्मतम्भौतिकत्वाद्बहिरिन्द्रियाणि मा नामात्मनि प्रवर्तिषत । मनस्तु प्रवर्तिष्यते अभौतिकत्वादिति; 
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अत्र भाट्ट-मतम् उपक्षिपति **स्यान्मतम्** इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन् न; तस्यापीन्द्रियत्वे भौतिकत्वस्यापरिहार्यत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+(Against this, we reply) it is not so; for, if that too be a sense-organ, it must inevitably be elemental.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन्न; तस्यापीन्द्रियत्वे भौतिकत्वस्यापरिहार्यत्वात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+श्रोत्रियो दूषयति **तन्ने**ति । गन्धादिमत्त्वाद् एव हि घ्राणादेर् गन्धादि-ग्राहकता व्यवस्थिता । तथा च भौतिकत्वं घ्राणादेः स्थितम् । तन् निदर्शनेन च मनसो ऽपि भौतिकत्वं सेत्स्यति । तथा चाभौतिकऽत्माग्राहकत्वं घ्राणादेर् इव मनसो ऽपि स्याद् इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा ऽऽम्नायते ऽअन्नमयं हि सोम्य मनः ऽ इति ।
+</details>
+
+<details><summary>English</summary>
+
+[[P77]] It has been so declared in the veda: "Gentle sir! the manas is, indeed, made of food (anna)";[^77_140]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^77_140]: *Chand*. Up. VI.v.4.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथाऽम्नायतेऽअन्नमयं हि सोम्य मनःऽ इति ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+भौतिकत्वे मनसः श्रुतिम् अप्य् आह **अन्नमयम्** इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपञ्चितं च एतत् निरूपणे ।
+</details>
+
+<details><summary>English</summary>
+
+when dealing with manas it has been fully explained.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रपञ्चितं चैतन्निरूपणे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इत्य् आत्मनो ऽप्रत्यक्षत्व-शङ्का)
+</details>
+
+<details><summary>English</summary>
+
+(इत्यात्मनोऽप्रत्यक्षत्वशङ्का)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(इत्यात्मनोऽप्रत्यक्षत्वशङ्का)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथोच्येत — अस्ति तावद् अहम् इत्य् अपरोक्षावभासः प्रत्ययः ।
+</details>
+
+<details><summary>English</summary>
+
+It may be urged: "Certainly, there is a cognition of 'I' a cognition which is direct awareness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथोच्येतास्ति तावदहमित्यपरोक्षावभासः प्रत्ययः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+भाट्टः प्रतिवक्ति **अथोच्येते**त्यादिना । अपरोक्षावभासः परोक्ष-प्रतीति-भिन्नः, लौकिक-विषयितावान् इति यावत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च ऐन्द्रियिकत्वम् अन्तरेणासौ सम्भवति ।
+</details>
+
+<details><summary>English</summary>
+
+And this (cognition) cannot but be what has arisen from the senses.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चैन्द्रियिकत्वमन्तरेणासौ सम्भवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कॢप्तं च बहिरिन्द्रियागोचरे ऽपि सुखादौ स्वान्त-स्वातन्त्र्यम् इति तन्-निमित्त एवायम् अहम्-प्रत्ययो युक्तः ।
+</details>
+
+<details><summary>English</summary>
+
+The claim of manas in regard to (the manifestation of) pleasure and the like, even though they do not fall within the scope of the external senses, is well established. Hence, it is but proper that the cognition of 'I' should have this for its cause.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्ल्प्तं च बहिरिन्द्रियागोचरेऽपि सुखादौ स्वान्तस्वातन्त्र्यमिति तन्निमित्त एवायमहम्प्रत्ययो युक्तः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+सुखादौ मनसः स्वातन्त्र्यं च बहिर्-इन्द्रियानपेक्ष-प्रत्यक्ष-जनकत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रयोगश् च भवति — आत्मा मानस-प्रत्यक्ष-ग्राह्यः बहिरिन्द्रियायोग्यत्वे सति प्रत्यक्षत्वात् सुखादि-वद् इति ।
+</details>
+
+<details><summary>English</summary>
+
+This can be expressed syllogistically. The soul, like pleasure and so on, is to be grasped by mental perception; for, while it is not capable of being grasped by the external senses, it is still an object of perception."
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रयोगश्च भवतिआत्मा मानसप्रत्यक्षग्राह्यः बहिरिन्द्रियायोग्यत्वे सति प्रत्यक्षत्वात्सुखादिवतिति ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+मानस-प्रत्यक्ष-ग्राह्यः मानस-प्रत्यक्ष-निरूपित-लौकिक-विषयतावान् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इति भाट्ट-मुखेनात्मनो मानस-प्रत्यक्षत्वानुमानोपक्षेपः)
+</details>
+
+<details><summary>English</summary>
+
+(इति भाट्टमुखेनात्मनो मानसप्रत्यक्षत्वानुमानोपक्षेपः)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(इति भाट्टमुखेनात्मनो मानसप्रत्यक्षत्वानुमानोपक्षेपः)
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+शिष्टं स्पष्टम् ।
+</details>
+
+##### प्रत्याक्षेपः
+<details><summary>विषयः</summary>
+
+Refutation of this view
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन् न; संवेदनेन व्यभिचारात् ।
+</details>
+
+<details><summary>English</summary>
+
+(Our reply is) it is not so; for, from the case of (samvedana) jñāna, (where the sadhya is absent while the hetu is present), it is found that this argument commits the fallacy of *vyabhicāra*.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन्न; संवेदनेन व्यभिचारात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+प्रकृतम् अनुमानं दूषयति गुरुमुखेन **तन्ने**त्यादिना । साध्याभाववति हेतो सत्त्वं हि व्यभिचारः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तद् अप्रत्यक्षम् ।
+</details>
+
+<details><summary>English</summary>
+
+(To escape this fallacy), you cannot point out that jñāna is not open to perception;
+</details>
+
+<details><summary>मूलम्</summary>
+
+नच तदप्रत्यक्षम् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+तत्र संविदि हेतौ विशेषणांशस्य सिद्धत्वाद् विशेष्यांशं तावत् साधयति **न च तद्** इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जानामीत्य् अनन्योपाधिकतया प्रतिभानात् ।
+</details>
+
+<details><summary>English</summary>
+
+for without depending on anything else, it manifests itself as 'I know';
+</details>
+
+<details><summary>मूलम्</summary>
+
+जानामीत्यनन्योपाधिकतया प्रतिभानात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अनन्योपाधिकतया लिङ्ग-पद-ज्ञानादि-कारणानपेक्षतया । प्रतिभानात् प्रकाशात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्रत्यक्षत्वे च संवेदनस्य असिद्धिर् एव स्याद् इत्य् उक्तम् एव ।
+</details>
+
+<details><summary>English</summary>
+
+and it has already been stated that if it were not an object of perception, it would, in fact, cease to be knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्रत्यक्षत्वे च संवेदनस्यासिद्धिरेव स्यादित्युक्तमेव ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ननु ज्ञाततयैव ज्ञानानुमानम् इत्य् अनन्योपाधिकत्वं ज्ञान-प्रतिभासस्य असिद्धम् इत्य् अत्राह **अप्रत्यक्षत्वे चे**ति । ज्ञानातिरिक्तायां ज्ञाततायां ज्ञान-लिङ्गत्वेनाभिमतायां प्रमाणाभावात्, सत्या अपि तस्या अतीन्द्रियत्वेन ज्ञानस्य तेनाविनाभावग्रहायोगात्, ज्ञान-जनक-सामग्र्या ज्ञातताया एव साक्षाज् जनन-सम्भवाद् अन्तरा ज्ञान-कल्पनाया अपार्थत्वाच् च असिद्धिर् एव स्याज् ज्ञानस्याप्रत्यक्षत्व इति भावः ।
+</details>
+
+#### न मानस-प्रत्यक्षम्
+<details><summary>विषयः</summary>
+
+Untenability of the suggestion that jnāna is the object of mental perception:-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तद् अपि मानस-प्रत्यक्षतया सपक्षे निक्षेपम् अर्हति; विमर्दासहत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+It cannot be contended that, since it is an object of mental perception, jñāna too is fit to rank among similar examples (sapaksa); for this contention will not stand scrutiny.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नच तदपि मानसप्रत्यक्षतया सपक्षे nिक्षेपमर्हति; विमर्दासहत्वात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+संवेदने साध्यस्यापि सत्त्वम् आशङ्कते **न च तद् अपि** इति । विकल्पासहत्वान् मानस-प्रत्यक्ष-त्वं संविदो निरस्यति **विमर्दे**ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदा खलु कुतश्चिद् आत्म-मनः-संयोगाद् विषय-संवित-उदयम् आसादयति, तदैव किं तत एव तद्-गोचरम् अपि वेदनं जन्यते, उतानिदान्येनेति वाच्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+(If that is your view), you must point out whether even the knowledge concerning the knowledge of an object is produced exactly at the time when, by virtue of a certain conjunction between soul and manas, the knowledge of an object takes birth, and whether (it is produced) by the selfsame contact, or whether it is produced at a different time and by a different contact.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदा खलु कुतश्चिदात्ममनःसंयोगाद्विषयसंवितुदयमासादयति, तदैव किं तत एव तद्गोचरमपि वेदनं जन्यते, उतान्यदान्येनेति वाच्यम् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+विकल्पयति **यदा** इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च युगपद् उभय-जननं सम्भाव्यते ।
+</details>
+
+<details><summary>English</summary>
+
+(Regarding the first alternative), the origination of the two (i. e. knowledge of an object and knowledge concerning the knowledge of that object) at the same time is impossible.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नच युगपदुभयजननं सम्भाव्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि सति परापर-तत्तद्-गोचर-निरवधिक-धी-निकुरुम्ब-जन्म तत्कालम् एवापद्येत ।
+</details>
+
+<details><summary>English</summary>
+
+If that were so, the birth of a collection of limitless items of knowledge, each of which has the other for its respective object, would have to take place at the same time.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथाहिसति परापरतत्तद्गोचरनिरवधिकधीनिकुरुम्बजन्म तत्कालमेवापद्येत ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**तथा सति** इति । विषय-ज्ञानस्योदय-काल एव तद्-गोचर-ज्ञान-ज्ञानस्यापि आत्म-मनः-संयोग-रूप-कारण-बलाद् उत्पत्ति-स्वीकारे पूर्वोत्तरीभूत-विषय-ज्ञान-ज्ञान-ज्ञान-ज्ञान-ज्ञान-ज्ञानदीनां समुदायस्य यौगपद्य-प्रसङ्गः इत्य् अर्थः । निकुरुम्बम् समुदायः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तद् अस्ति ।
+</details>
+
+<details><summary>English</summary>
+
+But it does not take place.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नच तदस्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+युगपद्-उत्पत्तौ विषय-विषयित्व-नियमश् च निर्निबन्धनः ।
+</details>
+
+<details><summary>English</summary>
+
+If it takes place simultaneously, the distinction made between being an object of knowledge and owning the object (visayaviṣayitvaniyamah) would become baseless.
+</details>
+
+<details><summary>मूलम्</summary>
+
+युगपदुत्पत्तौ विषयविषयित्वनियमश्च निर्निबन्धनः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+विषय-ज्ञान-ज्ञान-ज्ञानयोर् यौगपद्ये दूषणान्तरम् आह **युगपद्** इति । प्रत्यक्षे विषयस्य हेतुत्वात् पूर्व-ज्ञान-जनितस्योत्तर-ज्ञानस्यानुव्यवसाय-रूपस्य पूर्व-ज्ञान-विषयकत्वम् उपपद्येत क्रमभावित्वे न तु यौगपद्य इत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+असमसमय-जन्मना ज्ञानेन वेद्यत्वे न प्रत्यक्षत्वम्; क्षणिकत्वेनाग्रिम-ज्ञानस्य आग्राहक-ज्ञानोदयम् अवस्थानाभावात् ।
+</details>
+
+<details><summary>English</summary>
+
+(Regarding the second alternative), if it (knowledge concerning knowledge) is made known by a knowledge arising at a different time, it would cease to be an object of perception; for, as knowledge is momentary, the earlier knowledge will not last till the rise of the knowledge which reveals it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+असमसमयजन्मना ज्ञानेन वेद्यत्वे न प्रत्यक्षत्वं; क्षणिकत्वेनाग्रिमज्ञानस्य आग्राहकज्ञानोदयमवस्थानाभावात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अस्तु तर्हि क्रमिकत्वं विषय-ज्ञान-तद्-अनुव्यवसाययोर् इत्य् अत्रह **असमे**ति । ज्ञानस्य क्षणिकत्वाद् उत्तर-ज्ञानोत्पाद-काले पूर्व-ज्ञानस्यासत्त्वान् न प्रत्यक्षत्वं सम्भवेत् पूर्व-ज्ञाने ज्ञानान्तर-वेद्यत्वोपगमे ऽपि इत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भावे च सर्व-ज्ञानानां सर्वदावस्थान-प्रसङ्गात् ।
+</details>
+
+<details><summary>English</summary>
+
+If it lasts, all cognitions would have to exist at all times.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भावे च सर्वज्ञानानां सर्वदावस्थानप्रसङ्गात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ज्ञानस्य क्षणिकत्वानुपगमे दोषम् आह **भावे** **चे**ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कार्य-विरोधित्वे च अनन्तरम् एव संस्कारोदयान् न कालान्तरे स्थितिरिति संविदो न मानस-प्रत्यक्ष-वेद्यत्वम् ।
+</details>
+
+<details><summary>English</summary>
+
+If it be urged that it is incompatible with its effect (i.e. if it perishes as soon as its effect springs up), (we reply that) as its effect namely the mental impression arises immediately after, it will not exist at a different time (i. e. at a time when the revealing consciousness arises). Hence jnana cannot be an object of mental perception.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कार्यविरोधित्वे चानन्तरमेव संस्कारोदयान्न कालान्तरे स्थितिरिति संविदो न मानसप्रत्यक्षवेद्यत्वम् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ननु न क्षणिकत्वम्, नापि स्थिरत्वम् । किन्तु स्व-कार्येणैव निवृत्तिर् इष्यते ज्ञानस्येति चेत् तत्राह **कार्ये**ति । कार्यस्य विरोधित्वं नाशकत्व-लक्षणं चेद् द्विक्षणावस्थायित्वं स्याज् ज्ञानस्य । सहानवस्थान-लक्षणं चेद् एक-क्षण-मात्र-वृत्तित्वम् । अत्र तु सहानवस्थान-लक्षण एव विरोधो विवक्षितः । द्विक्षणावस्थायित्वे तु नैयायिक-प्रक्रियया मानस-प्रत्यक्षोपपत्तेस् तन्-निषेधानुपपत्तेर् इति बोध्यम् । नैयायिक-मते ऽपि द्वितीय-तृतीयादि-ज्ञान-विषयक-ज्ञानाधारानुवृत्ति-प्रसङ्गो बोध्यः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च अप्रत्यक्षा संविद् इति स्फुटो व्यभिचारः ।
+</details>
+
+<details><summary>English</summary>
+
+And it cannot be said that it is obvious that the argument commits the fallacy of vyabhicāra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नchaप्रत्यक्षा संविदिति स्फुटो व्यभिचारः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐन्द्रियिकत्वस्य अनात्मत्व-प्रतिबद्धत्वाद् विरुद्धता च ।
+</details>
+
+<details><summary>English</summary>
+
+Besides, as the quality of being grasped by the senses is invariably concomitant with the quality of being non-soul, your argument commits the fallacy of *viruddha* also (i.e. is guilty of employing adverse probans).
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐन्द्रियिकत्वस्यानात्मत्वप्रतिबद्धत्वाद्विरुद्धता च ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+आत्मनो मानस-प्रत्यक्षत्वानुमाने विरोधम् अप्य् आह **ऐन्द्रियिकत्वस्ये**ति । अनात्मत्व-व्याप्यत्वाद् ऐन्द्रियिकत्वस्य व्यापक-निवृत्त्याऽत्मनि निवृत्तिर् अवर्जनीया । तथा च पक्षतावच्छेदकात्मत्व-विरुद्धं साध्यम् इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साध्य-विकलश् च दृष्टान्तः, सुख-दुःखयोः प्रत्यक्षत्वानभ्युपगमात् ।
+</details>
+
+<details><summary>English</summary>
+
+[[P78]] Further the illustrative example cited in the argument is defective in not possessing the sadhya; for, pleasure and pain are not admitted to be objects of perception.
+</details>
+
+<details><summary>मूलम्</summary>
+
+साध्यविकलश्च दृष्टान्तः, सुखदुःखयोः प्रत्यक्षत्वानभ्युपगमात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+बाह्येन्द्रिय-ग्राह्यत्वस्यैवानात्मत्व-व्याप्यतेत्य् आग्रहे ऽपि दूषणान्तरम् आह **साध्यविकलश्चे**ति । साध्य-शून्यो ऽन्वय-द्दष्टान्त इत्य् अर्थः । साधन-विकलत्वम् अपि यद्यपि फलति उपपादन-प्रकारेण; अथापि सिद्धान्त-प्रक्रियया ज्ञानावस्था-रूपत्वात् सुखादेः ज्ञानस्य च स्वयम्प्रकाशत्वात् स्वयम्प्रकाशत्वं सुखादेर् हृदि निधाय साध्य-विकलत्वम् एव कीर्तितम् । अन्वय-द्दष्टान्ते साध्यस्य साधनस्य वा विरहेन तद् अवच्छेदेन साध्य-व्याप्ति-ग्रहो हेतौ सम्भवतीति व्याप्यत्वासिद्धिर् विवक्षिता ।
+</details>
+
+#### सुख-दुःखे
+<details><summary>विषयः</summary>
+
+Enquiry into the nature of sukha, duhkha etc:-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनभ्युपगमश् च इन्द्रिय-पौष्कल्य-नाशयोर् एव सुख-दुःखत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+And it is not so admitted, because pleasure and pain are nothing more than the flourishing or the decaying state of the senses.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनभ्युपगमश्चेन्द्रियपौष्कल्यनाशयोरेव सुखदुःखत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि तस्मिन्न् अप्रत्यक्षे तत्-पौष्कल्यं वैकल्यं वा प्रत्यक्षं भवति ।
+</details>
+
+<details><summary>English</summary>
+
+Indeed, when the senses are not perceptible, their flourishing or decaying state will not be the object of perception.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नहि तस्मिन्नप्रत्यक्षे तत्पौष्कल्यंवैकल्यं वा प्रत्यक्षं भवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द्रिय-स्वरूप इव अभ्यास-पाटवात् तयोर् अपरोक्षत्वाभिमानः, मनोZवस्था-भेदेष्व् इव चानुमेय-मनो-वादिनाम् ।
+</details>
+
+<details><summary>English</summary>
+
+In the case of pleasure and pain, as in that of the senses, or again, in that of the different states of mind (manas) on the view of those who maintain that manas is inferable, the false impression that they are directly perceived is due to the power of long continued experience.[^78_141]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^78_141]: With continued practice one infers the existence of pleasure, pain, the states of mind and the like so effortlessly and quickly and without noticing the several steps of the argument, that one comes to think that he directly perceives them.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रियस्वरूप इवाभ्यासपाटवात्तयोरपरोक्षत्वाभिमानः, मनोऽवस्थाभेदेष्विव चानुमेयमनोवादिनाम् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ननु सुख-दुःखयोर् अप्रत्यक्षत्वे प्रत्यक्षवद् अवभासस् तयोः कथम्? तत्राह **इन्द्रिये**ति । यथातीन्द्रियत्वे ऽपीन्द्रियाणां ममेदं चक्षुः, अहं चक्षुष्मान् पश्यामीति प्रत्यक्षवद् अवभासश् चक्षुरादेः कदाचिच् चाक्षुषादि-वृत्ति काले नाना-चक्षुरादि-वृत्ति प्रतिसन्धानवतश् चेतनस्येन्द्रिय-विषय-संस्कार-प्राचुर्य-प्रयुक्तः, तद्वद् इन्द्रियावस्था-रूप-सुख-दूःख-परामर्शो ऽपि प्रत्यक्ष-समानाकारस् तद्-अभ्यास-बाहुल्याद् इत्य् अर्थः । अत्र निदर्शनं **मनोवस्थे**ति । अनुमेय-मनोवादिनः बुद्धिव्यतिरिक्तं मनो ऽनुमानेन साधयन्तः । काम-सङ्कल्पादीनां मनोवृत्ति-रूपत्वं **कामःसङ्कल्पः सर्वं मन एवे**ति श्रुत्या प्रतीयते । तेषां च प्रत्यक्षत्वावभासः तद्-विषयानुभावाभ्यास-प्राचुर्याद् एवेति वक्तव्यं यथा अनुमेय-मनोवादिभिः, तथेति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस् तु सुगत-मतावलम्बी विज्ञानाभिन्न-हेतु-जत्या तयोर् अपि तद्-अन्तर्भावम् अभिमन्यते; कण-भक्ष-पक्षाश्रयणेन वा तयोर् आत्म-विशेष-गुणत्वम्; ताभ्यां सुख-दुःखाधिकरणं व्याचक्षीत; स्वतः सुखीत्य् एतद्-विमर्शो वा अत्रत्यः ।
+</details>
+
+<details><summary>English</summary>
+
+[[P79]] The section dealing with pleasure and pain (sukhaduhkhādhi- *karaṇa*)[^79_142] or the discussion of the description of the soul as being in its essential nature blissful (svatassukhi) found in this work itself[^79_143] ought to be explained to those who, following the Buddhistic doctrine, believe that pleasure and pain are included in the category of knowledge, for the reason that they are produced by causes which are non-different from knowledge, and to those who, by accepting the system of Kanabhakṣa (the exponent of the Vaiseṣika system) believe that they are the special qualities of the soul (and not the flourishing and the decaying states of the senses).[^79_144]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^79_142]: Sukhaduḥkhādhikaraṇa is the sixth section of the first pāda of Nathamuni's *Nyāyataṭtva*-sastra, a work which is not extant now. Yamuna refers to a few other adhikaraṇas of this sastra. In fact, his *Atmasiddhi* may be regarded as a brief exposition of *Nyayatattva*. Compare *Nyāyasiddhāňjana*, Buddhipariccheda "Nyayatattva-prakaraṇam hi Atmasiddih"
+[^79_143]: This discussion over svatassukhi is included among the portions of *Atmasiddhi* lost.
+[^79_144]: Those who identify pleasure and pain with the flourishing or the decaying states of the senses mean by senses the internal sense (manas) and not the outer senses; for, pleasure and pain are nothing more than the tranquil and the disturbed states of manas. cf. tatha ca antahkaranaprasādā vasayda yoreva sukhatvaduhkhatvavyapadesadarsanat tatprasāda vasādā veva sukhaduhkarupā vityarthah. rāmānuja tika on *Nyāyasiddhānjana*, *Buddhipariccheda*. Ranga-. Though this view is defended here and elsewhere in *Atmasiddhi*, it cannot be considered to be his final view, for, later on, he says that all reference to certainty, doubt, pleasure, pain and the like has for its object either same particular form of contact of knowledge with its object or knowledge possessing that contact. cf. *Nyāyasiddhānjana*, *Buddhipariccheda* sukhaduhkheca natmadharmau ityāditu vaibhavena matantareņa vā abhihitam anyathā kathamevam upasamhārārambhe brüyāt ⚫tadevam atmasvabbāvabhūtasya caitanyasya visayasamŝleşavidaeşagocara eva niscayasamsayadi vyavahārabhedah tadviseṣabhāji caitanyevā. Rāmānuja says, in *Vedarthasamgraha*, that knowledge, which is in contact with a particular object, and which is considered the cause of pleasure or pain, is really pleasure or pain itself and not its cause. Besides knowledge, nothing else which could be called pleasure or pain is noticed.. yena vişayaviseşeņa viseşitam jñānam sukhasya janakamity abhimatam tadviṣayajñānameva sukham tadatireki padarthäntaram nopalabhyate "
+\*The reading tatcalanam found in the Chowkamba and Telugu editions is manifestly wrong; it has been altered into cetaścalanam. If, however, the original reading must stand, the sentence "bhūtaduḥkhajñāne na taccalanam sokaḥ" must come after and not precede the sentence "agamitajjñā nena cetașcalanam bhayam."
+</details>
+
+<details><summary>मूलम्</summary>
+
+यस्तु सुगतमतावलम्बी विज्ञानाभिन्नहेतुजतया तयोरपि तदन्तर्भावमभिमन्यते; कणभक्षपक्षाश्रयणेन वा तयोरात्मविशेषगुणत्वम्;ताभ्यां सुखदुःखाधिकरणं व्याचक्षीत; स्वतःसुखीत्येतद्विमर्शं वात्रत्यम् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+सुख-दुःखयोर् आत्माभिन्नत्वम्, आत्मन आगन्तुक-धर्म-रूपत्वं च मतभेदेन प्रसिद्धम् अनुवदति **यस्तुसुगते**ति । अत्राह **ताभ्या** मिति । चतुर्थी-द्विवचनम् । बौद्ध-प्रक्रियया काणाद-प्रक्रियया वा क्षणिकात्मानन्यत्वं, नित्यस्यात्मन आगन्तुक-धर्म-रूपत्वं वा मन्यमानाभ्यां न्याय-तत्त्व-शास्त्र-स्थं सुखदुःखाधिकरणम्, एतत्प्रकरणस्थं स्वतः सुखित्व-विचारं वा प्रकीर्तयेद् इत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+राग-द्वेषादयस् तु चैतन्यस्यैवावस्था-विशेषास् तद्वद् एव प्रत्यक्षीभवन्तीति न तन्-निदर्शनेनानुमानोदयः ।
+</details>
+
+<details><summary>English</summary>
+
+Being, in fact, only different states of consciousness, desire, aversion and the like must be perceptible, even as consciousness is; hence, with these as illustrative examples, you cannot advance your argument.
+</details>
+
+<details><summary>मूलम्</summary>
+
+रागद्वेषादयस्तु चैतन्यस्यैवावस्थाविशेषास्तद्वदेव प्रत्यक्षीभवन्तीति न तन्निदर्शनेनानुमानोदयः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुख-प्रयुक्त-विषयीकार-चैतन्यं रागः, तद्-विरोध-प्रयुक्त-विषयीकारं तद् एव द्वेषः, भूत-दुःख-ज्ञानेन चेतश्-चलनं शोकः, आगामि-तज्-ज्ञानेन चेतश्-चलनं भयम् इत्यादि लक्षण-ग्रन्थाद् एवावगन्तव्यम् इत्य् अलं प्रविस्तरेण ।
+</details>
+
+<details><summary>English</summary>
+
+[[P80]] Desire is consciousness which is directed towards objects with a view to obtaining pleasure. The same (consciousness,) when directed towards objects, with a view to obtaining the opposite of pleasure, is aversion. Sorrow is mental agitation caused by consciousness of past pains. Fear is mental excitement produced by the awareness of pains to come. Since those (i.e., terms namely, desire, aversion, sorrow and fear) and others like them may be understood even from treatises dealing with definitions, it is needless to discuss them (here) at length.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुखप्रयुक्तविषयीकारचैतन्यं रागः, तद्विरोधप्रयुक्तविषयीकारं तदेव द्वेषः, भूतदुःखज्ञानेन चेतश्चलनं शोकः, आगामितज्ज्ञानेन चेतश्चलनं भयमित्यादि लक्षणग्रन्थादेवावगन्तव्यमित्यलं प्रविस्तरेण ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ननु सुख-दुःखयोः मानस-प्रत्यक्षत्वे विवादे ऽपि राग-द्वेषाव् एव निदर्शने भविष्यत इत्य् अत्राह **सुखे**ति । सुखत्व-प्रयुक्तं विषयीकरणम् उपादेयता-प्रकाशनं यतः तज् ज्ञानम् एव रागः सुख-गोचरोपादेयता-बुद्धि-लक्षण इति यावत् । तस्य सुखस्य विरोध उपघातो येन तद्-गोचर-त्याज्यता-प्रकाशक-ज्ञानम् एव च द्वेषः । तयोश् च ज्ञानवद् एव प्रकाश इति नं साध्यान्वय इति भावः । शोक-भययोर् अपि न निदर्श नत्वं सम्भवतीत्य् आह **भूते**ति । तच्चलनम् इति मुद्रित-पाठस् तु न साधुः । अतीत-दुःखानुसन्धान-प्रयुक्तश् चित्त-विक्षोभः शोकः । आगामि-दुःख-हेतु-परामर्शाधीनश् चित्त-सङ्क्षोभश् च भयम् । तयोश् चान्तःकरण-धर्मत्वाद् एव न प्रत्यक्षत्वम् इति दृष्टान्तत्वायोग इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इति गुरु-मुखेन आत्मनो मानस-प्रत्यक्षत्वानुमान-दूषणम्)
+</details>
+
+<details><summary>English</summary>
+
+(इति गुरुमुखेनात्मनो मानसप्रत्यक्षत्वानुमानदूषणम्)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(इति गुरुमुखेनात्मनो मानसप्रत्यक्षत्वानुमानदूषणम्)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकस्य च आत्मनो निरंशस्य न स्वापेक्षया ग्राह्य-ग्राहक-भावः, विरोधाद् इत्य् अप्य् उक्तम् एव ।
+</details>
+
+<details><summary>English</summary>
+
+It has already been shown that, as it involves a contradiction, one and the same self which is partless, cannot possess, in respect of itself, the quality of being at once the perceiver and the perceived.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकस्य चात्मनो निरंशस्य न स्वापेक्षया ग्राह्यग्राहकभावः, विरोधादित्यप्युक्तमेव ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+आत्मनो मानस-प्रत्यक्षत्वे साधकस्यासम्भवम् उक्त्वा बाधकम् अप्य् आह **एकस्य**ति । एकस्यैकदैवैकक्रियायां कर्तृ-कर्म-भावासम्भव-लक्षणो विरोधो ऽत्र विवक्षितः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अंश-भेदाश्रयणे तत्-सिद्धये च अंशानन्तरम् आश्रयितव्यम्, तथा तत्र तत्रेत्य् अनवस्था; सङ्घातत्वं च आत्मनः ।
+</details>
+
+<details><summary>English</summary>
+
+If the distinction of parts (within the self) be admitted, to establish the same, (for each of these parts) other parts would have to be admitted; similarly, for these latter, other parts, and so on ad infinitum. Besides, the quality of being a collocation would have to be attributed to the soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अंशभेदाश्रयणे तत्सिद्धये चांशान्तरमाश्रयितव्यम्, तथा तत्र तत्रेत्यनवस्था; सङ्घातत्वं चात्मनः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+उक्त-विरोध-परिहारायात्मनि अंश-भेदाश्रयणे दोषम् आह **अशम्भेदे**ति । ग्राहकात्मांशन्तरस्यापि प्रमाणसिद्धत्वावश्यम्भावेन तद्-ग्राहकाशान्तरम् एष्टव्यम्, एवम् उपर्युपरीत्य् अनवस्थेत्य् अर्थः । कदाचिद् एक-अंशेनान्यांश-ग्रहणम्, अन्यदा चांशान्तरेण एतद्-अंश-ग्रहणम् इति काल-भेदेनोपपत्तेर् नानवस्थेति चेत् तत्राप्याह **सङ्घातत्वं चे**ति । आत्मनो निरंशत्व-विरुद्धं च सांशत्वम् एवम् सति प्रसज्यत इत्य् अर्थः । सांशत्वे चानित्यत्वादि आपादनीयम् । अत्रेदं बोध्यङ् गुरुर् ज्ञातुर् आत्मनो ज्ञान-विषयत्वं नानुमन्यते । किन्तु विषय-ज्ञान-कालेषु ज्ञातृत्व-बलात् प्रकाश-मात्रं मनुते । ज्ञानस्यापि तथैवेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इति च आत्मनो ग्राह्य-ग्राहक-भावे विरोधोद्भावनम्)
+</details>
+
+<details><summary>English</summary>
+
+(इति चात्मनो ग्राह्यग्राहकभावे विरोधोद्भावनम्)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(इति च आत्मनो ग्राह्यग्राहकभावे विरोधोद्भावनम्)
+</details>
+
+#### भाट्ट-मतम्
+<details><summary>विषयः</summary>
+
+The Bhatta view again:-
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ननु च ग्राहकावभासः श्रुत्या, स्व-सिद्धान्त-श्रद्धा-विप्रलब्ध-बुद्धिभिर् अभिहितः; इन्द्रियादि-प्रत्यासन्न-तत्तत्-पदार्थ-मात्र-स्फुरणात् ।
+</details>
+
+<details><summary>English</summary>
+
+(Here is yet another attempt to show that the self is open to mental perception). A consciousness, like the following: 'I perceive the pot' posited to exist on the strength of scriptural references to the awareness of the perceiver,[^80_145] by those whose intellect has been blinded by excessive faith in their own system, must be said to exist on some occasions (at least); for (often) only the several objects which are near the senses are apprehended (and not the self).
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^80_145]: cf. tadātmānamevävet aham Brahmāsmi, Brh. up. I. iv. 10.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु च ग्राहकावभासः श्रुत्या, स्वसिद्धान्तश्रद्धाविप्रलब्धबुद्धि भिर्भिहितः; इन्द्रियादिप्रत्यासन्नतत्तत्पदार्थमात्रस्फुरणात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+एवं प्राभाकरेण दूषिते स्वपक्षे भाट्टस् तन्-मतम् अपि दूषयति **ननु चे**ति । श्रुत्येत्य् अनन्तरं तन् न, सतु इति पूरणीयम् । अत्र **न च ग्राहकाभास** इति पाठः सम्भाव्यते । श्रुत्येत्य् अनन्तरं सिद्ध्यतीति शेषः । स्व-सिद्धान्तेत्य् अतः पूर्वं स तु इति योज्यम् । स्व-सिद्धान्ताभिनिवेश-वशीकृत-चेतसाम् अभिमान-मूलको ग्राहकावभासवादो न श्रुति-प्रमाणेन सिध्यतीति भावः । ग्राहकावभासो नाम सर्व-ज्ञानेष्व् आश्रयतयाऽत्मनः स्फुरणम् । श्रुत्यास्यासिद्धिः हेतुम् अनुभव-विरोधम् अभिप्रेत्यानुभव-प्रकारम् आह **इन्द्रियादी**ति । अनुभव-विरुद्धं हि न श्रुतिः प्रतिपादयेद् इति हार्दम् । श्रुत्येत्य् अत्र अन्यथा पाठः स्याद्वा । स्व-सिद्धान्ताभिमानिभिः प्राभाकरैर् अभिहितो ग्राहकावभासो न मन्तव्यः प्रतीति-विरोधात् । प्रतीतिर् हि तत्तत्-पदार्थ-मात्रं प्रकाशयतीति समुदिताशयः । ननु घटादि-प्रत्यक्षे ग्राहकाभासाभावे घटम् अहं पश्यामीत्य् आद्य्-अनुभवः कथम्?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तादृशो ऽपि क्वचिद् अस्तु नाम प्रत्ययः ।
+</details>
+
+<details><summary>English</summary>
+
+Such a consciousness
+</details>
+
+<details><summary>मूलम्</summary>
+
+तादृशोऽपि क्वचिदस्तु नाम प्रत्ययः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स त्व् आगन्तुकात्म-प्रतियोगिक-प्राकट्य-प्रकाशादि-पदाभिधेयार्थ-धर्मानुमित-ज्ञान-विशिष्ट-मानस-प्रत्यक्ष-सिद्धात्म-निबन्धनः ।
+</details>
+
+<details><summary>English</summary>
+
+[[P81]] pertains to the self as established by mental perception, and which is associated with a knowledge, whose existence is inferred from the quality found in the object (known)—a quality which is occasional, which is related to the soul, such as, *prakatya* and *prakāŝa*.[^81_146]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^81_146]: Briefly stated, this view maintains that on some occasions, at least, we get a consciousness like 'I perceive the pot'; it involves three factors-the knower, the knowledge and the pot. Of these, the second is inferred from the illumination (*prākatya*) found in the object known; and the third is directly perceived by the outer senses. Regarding the 'I', as it is beyond the reach of the external senses, and as it has already been shown that it is not open to inference, it must, by a process of elimination, be concluded that it is open to mental perception.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स त्वागन्तुकात्मप्रतियोगिकप्राकट्यप्रकाशादिपदाभिधेयार्थधर्मानुमितज्ञानविशिष्टमानसप्रत्यक्षसिद्धात्मनिबन्धनः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+तत्राह **तादृशो ऽपि** इत्य् आदि-वाक्य-द्वयेन । यस्य यद्-विषये ज्ञानं जातं तस्यैव सोर्ऽथः प्रकाशत इति प्राकट्यस्याऽत्म-प्रतियोगिकत्वम् अर्थ-धर्मस्य । तल् लिङ्गकं ज्ञानानुमानम् एव च कादाचित्कम् । ततश् चानुमित-ज्ञानोपरक्तात्म-मानस-रूपो निरुक्तानुभवश् च कादाचित्क एव, नायं घट-चाक्षुष-रूपः । येन विषय-वित्तिषु प्रकाशेताऽत्मेति भावः । अत्र च मानस-प्रत्यक्षे ज्ञानवत्त्वेन विषयत्वं देहादि-मत्तया चाश्रयत्वम् इति कर्म-कर्तृ-विरोध-परिहारो ऽभिमतो भाट्टानाम् ।
+</details>
+
+#### प्राभाकर-प्रत्युक्तिः
+<details><summary>विषयः</summary>
+
+The Prabhakara reply thereto:-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उच्यते ।
+</details>
+
+<details><summary>English</summary>
+
+To this it is replied 
+</details>
+
+<details><summary>मूलम्</summary>
+
+उच्यते ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अत्र प्राभाकरस्य प्रत्यवस्थानं **उच्यत** इत्यादिना ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहो खलु स्वानुभव एव विभ्रमः परीक्षकाणाम्, यत्-विषयानुभव-समये पूर्वावस्थातो न कञ्चिद् विशेषम् अयम् आत्मनो ऽवबुध्यत इति ।
+</details>
+
+<details><summary>English</summary>
+
+"It is indeed, surprising that the confusion, namely, that in respect of their own experience the self does not notice any difference at the time objects are apprehended should occur to eminent investigators.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहो खलु स्वानुभव एव विभ्रमः परीक्षकाणाम्, यत्विषयानुभवसमये पूर्वावस्थातो न कञ्चिद्विशेषमयमात्मनोऽवबुध्यत इति ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**स्वानुभव एवे**ति । ज्ञाने जाते तद्वत्त्वेनात्मोपलम्भो ऽप्य् अनुभव-सिद्धः । तत्रैव विभ्रमो नास्तिता-भ्रम इत्य् अर्थः । स्व-अनुभवम् अप्य् अजानतः परीक्षकत्वं शोभनम् इत्य् उपालम्भः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्तं ह्य् एतत् — ईदृश एव अयम् अर्थः, ज्ञायते न वेति न विद्मः, मम वा प्रतिभासते परस्य वेत्य् अपि न विद्म इति न जातुचिद् एवं प्रतीतिरस्ति, ज्ञान-ज्ञात्रोर् अनवभासे तादृश्य् अपि प्रतीतिर् आपद्येत; इति ।
+</details>
+
+<details><summary>English</summary>
+
+It has already been stated (vide p. 27) that the following experience-"This object is really such and such; we do not know whether it is known or not; nor do we know whether it appears to me or to others" does-not exist at any time, and that when there is no apprehension of knowledge and the knower, such an experience would also have to occur.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उक्तं ह्येतर्तिदृश एवायमर्थः, ज्ञायते न वेति न विद्मः, मम वा प्रतिभासते परस्य वेत्यपि न विद्म इति न जातुचिदेवं प्रतीतिरस्ति, ज्ञानज्ञात्रोरनवभासे तादृश्यपि प्रतीतिरापद्येत; इति ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+विषय-वेदन-काले ज्ञानस्य ज्ञातुश् चावभासाभावे दोषं पूर्वोक्तं स्मारयति **उक्तम्** इत्य् आदिना । ज्ञानस्या प्रकाशाभावे ज्ञायते न वेति संशयादि-प्रसङ्गः । ज्ञातुः प्रकाशाभावे मम ज्ञायते ऽन्यस्य वेति संशयादि-प्रसङ्ग इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सो ऽयं परसञ्चेतितात् स्वसञ्चेतितस्यातिशयः सर्वत्र परिस्फुरन्न् असति ग्राहकावभासे नोपपद्येत ।
+</details>
+
+<details><summary>English</summary>
+
+If there is no apprehension of the knower the special feature observed everywhere in what is perceived by us rather than in what is perceived by others, cannot be appropriately explained.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सोऽयं परसञ्चेतितात्स्वसञ्चेतितस्यातिशयः सर्वत्र परिस्फुरन्नसति ग्राहकावभासे नोपपद्येत ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**सो ऽयम्** इति । सञ्चेतितञ् ज्ञातम् । अतिशयः स्वात्मने प्रकाशमानत्व-लक्षणो ऽनुभूयमानः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुमित-ज्ञानालम्बनत्वे च अज्ञासिषम् इत्य् एव प्रतिभासः स्यात्, न जानामीति; ज्ञान-जन्यार्थातिशय-दर्शन-तद्-व्याप्त्य्-अनुसन्धानानुमानोदय-समये ऽनुमित्सित-ज्ञानस्य अतिवृत्तत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+If the consciousness 'I perceive the pot' has for its object a knowledge which is inferred, then, the experience would only take the form 'I knew' and not 'I know'; for, when there is the observation of the special feature (*prākatya*) produced in the object by knowledge, and when its (i. e., of *prākaṭya*) invariable concomitance with knowledge is brought to mind, and when the inference originates, the knowledge which is sought to be inferred must have already disappeared.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुमितज्ञानालम्बनत्वे चाज्ञासिषमित्येव प्रतिभासः स्यात्, न जानामीति; ज्ञानजन्यार्थातिशयदर्शनतद्व्याप्त्यनुसन्धानानुमानोदयसमयेऽनुम्  इत्सितज्ञानस्यातिवृत्तत्वात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**अनुमिते**ति । जानामीत्य् आदि-प्रतीतेर् ज्ञातता-लिङ्गानुमित-ज्ञानोपनीत-भानात्मकात्म-मानस-प्रत्यक्ष-रूपत्वे ऽतीत-ज्ञानालम्बनत्वाद् अज्ञासिषम् इत्य् एवाभिलापः स्यात्, न तु जानामीति ज्ञाने वर्तमानत्वोल्लेख इत्य् अर्थः । नन्व् अतिशैघ्र्यात् क्षण-भेदाग्रह-निबन्धनो वर्तमानत्वांशे भ्रम-लक्षणो जानामीति प्रत्यय इति शङ्कायां तन् मते दूषणान्तरम् अपि संस्फोरयति
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानानुमानासम्भवः पूर्वम् एवोक्तः ।
+</details>
+
+<details><summary>English</summary>
+
+The impossibility of inferring knowledge has already been pointed out.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानानुमानअसम्भवः पूर्वमेवोक्तः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**ज्ञाने**ति । : स्व-ज्ञान-व्यवहार-हेतुकम् एव स्व-ज्ञानानुमानम् इति न सम्भवतीत्य् उक्तम् एव प्राक् । ज्ञातता-लिङ्गकम् अपि ज्ञानानुमानं ज्ञानेन ज्ञातताया अविनाभाव-ग्रहासम्भवाज् ज्ञान-सामग्र्यैवान्यथासिद्धत्वाच् च ज्ञातताया दुःस्थम् एवेति हार्दम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मानस-प्रत्यक्षत्वं च आत्म-ग्राह्य-धी-निरस्तम् ।
+</details>
+
+<details><summary>English</summary>
+
+Besides, the view that the soul is open to mental perception is refuted by the very fact that knowledge (which is said to be inferred) is grasped by the self as belonging to itself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मानसप्रत्यक्षत्वं चात्मग्राह्यधीनिरस्तम् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+विषय-ज्ञान एव ज्ञातुः प्रकाशं साधयितुं तस्य मानस-प्रत्यक्षं च निरस्यति **मानसे**ति । आत्मन इत्यादिः । मानस-प्रत्यक्ष-त्वम् इत्य् अत्र बहुव्रीहेः त्वप्रत्ययः । आत्म-ग्राह्य-त्वं धियः स्वयम्-प्रकाश-त्वम् । तच् च ज्ञानस्य मानस-प्रत्यक्षानुमानायोग-प्रतिपादनात् सिद्धम् । आत्मनो मानस-प्रत्यक्ष-त्वं च व्यभिचारात् साधकत्वाभिमतस्य निरस्तं साधकाभावाद् इत्य् अर्थः । धीनिरस्तम् व्यभिचार-निरूपिकया धिया निरस्तम् । व्यभितार-निरूपकत्वोपपादकम् आत्म-ग्राह्येति धी-विशेषणम् । अत्राऽत्म-ग्राह्य-धी-व्यभिचार-निरस्तम् इति वा अन्यथा वा मूलपाठः सम्भाव्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा सति हि स्व-पर-वेद्ययोर् अनतिशयः स्यात् ।
+</details>
+
+<details><summary>English</summary>
+
+If it be said that knowledge is inferred without any reference to the self, then, between what is known by oneself and what is apprehended by others there would have to be no distinction.[^81_147]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^81_147]: Every one of the statements made by the opponent is refuted. First, it is shown that the knowledge of a perceiver cannot be occasional, and that, in fact, all cognitions of objects involve, in addition, the apprehension of the self and knowledge. Next, it is pointed out that knowledge cannot be inferred with the aid of prakatya. Lastly, the attention of the opponent is drawn to an inconsistency in his argument. He must admit that when knowledge is inferred, it is necessarily inferred as related to the self. Hence, in the very act of inferring knowledge, the self also is apprehended; and it is futile to talk of the self being open to mental perception.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथासति हि स्वपरवेद्ययोरनतिशयः स्यात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+एवं ग्रह-ग्राहकयोः प्रकारान्तरेण भानासम्भवम् उपपाद्य तद् अनवभासे विषय-वित्तौ पूर्वोक्तातिशयासम्भवं निगमयति **तथासती**ति । अनतिशयः अविशेषः । स्वस्मै ज्ञायमानत्वेन भानमभानं चार्थस्येति वैलक्षण्यस्य विरहः स्व-पर-वेद्ययोः प्रसज्यते विषय-वित्तौ ज्ञान-ज्ञात्रोर् अभाने हीत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इति प्राभाकरीयं स्व-पक्ष-साधनम्)
+</details>
+
+<details><summary>English</summary>
+
+(इति प्राभाकरीयं स्वपक्षसाधनम्)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(इति प्राभाकरीयं स्वपक्षसाधनम्)
+</details>
+
+#### भाट्ट-प्रत्युक्तिः
+<details><summary>विषयः</summary>
+
+The Bhāṭṭa rejoinder:-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ननु कथम् इव ग्राहकानवभासे स्व-पर-वेद्ययोर् अनतिशय-प्रसङ्गः?
+</details>
+
+<details><summary>English</summary>
+
+[[P82]] How, it may be asked, could the indistinguishability of what is known by oneself from what is known by others be said to result when there is non-apprehension of the knower?
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु कथम् इव ग्राहकानवभासे स्वपरवेद्ययोरनतिशयप्रसङ्गः?
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+भाट्टः प्रतिक्षिपति **ननु कथम्** इति । स्वस्मै भासमानत्वरूपो विशेषोर्ऽथस्य तज् ज्ञानस्य स्वनिष्ठत्वाद् एव घटते तज् ज्ञाने स्वस्याभाने ऽपि । विषय-बोधाश्रयत्वम् एव स्वस्यातिशयोपर्वो विषय-वित्ति-काल इति च भावः । नच् वित्ति-वेदित्रोर् अग्रहे पूर्वोक्तः संशयस् तद्-अवस्थः इति वाच्यम् । स्व-ज्ञान-जार्थ-धर्म-प्रकाशस्य स्वं प्रति प्रत्यक्षत्वाद् एव मम प्रकाशते न वेति संशयस्यानवकाशात् । ज्ञान-फल-प्रकाशेन झटित्य् एव ज्ञानस्यानुमानाच् च मम ज्ञानं जातम् अन्यस्य वेत्यादेर् अप्य् अप्रसक्तेः । नैयायिक-प्रक्रियया तु कार्य-नाश्यत्वाज् ज्ञानस्य द्विक्षणावस्थायित्वाद् अनुव्यवसाय-बलाद् एव न निरुक्त-संशयादि-प्रसङ्गो ज्ञान-ज्ञात्रोर् अनवभासे ऽपि विषय-वित्ताविति च बोध्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि ग्राहक-सिद्धि-निबन्धनः स्व-पर-वेद्य-विशेषः; स्व-समवेत-विषय-बोध-जन्मना पर-समवेत-बोध-जन्मना च तद्-विशेषोपपत्तेः ।
+</details>
+
+<details><summary>English</summary>
+
+Indeed, the distinction of what is known by oneself from what is known by others is not dependent on the apprehension of the knower. Their distinction can be rendered intelligible by the fact that the knowledge of objects takes birth as being inherent in oneself or as being inherent in others.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नहि ग्राहकसिद्धिनिबन्धनःस्वपरवेद्यविशेषः; स्वसमवेतविषयबोधजन्मना परसमवेतबोधजन्मना च तद्विशेषोपपत्तेः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-पर-सम्बन्धि-बोध-विशेषोदव्यवस्थापि स्वीय-परकीयेन्द्रियार्थ-सन्निकर्षादि-ज्ञान-हेतु-सामग्री-भेद-निबन्धना ।
+</details>
+
+<details><summary>English</summary>
+
+This demarcation, too, in the birth of the several items of knowledge of objects which belong to oneself and to others is explainable on the basis of the distinction of the means namely the causes of knowledge such as, the contact of the senses, belonging to oneself or others, with objects.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वपरसम्बन्धिबोधविशेषोदव्यवस्थापि स्वीयपरकीयेन्द्रियार्थसन्निकर्षादिज्ञानहेतुसामग्रीभेदनिबन्धना ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च आत्म-सिद्धिर् अपि तत्-सामग्र्य्-अनुप्रवेशम् अर्हति; इन्द्रियादेर् इव अनवभासमानस्यैव हेतुत्व-सम्भवात् ।
+</details>
+
+<details><summary>English</summary>
+
+It cannot be said that the manifestation of the self too deserves to be included among the causes of knowledge; for in the manner of the senses and the like, it (i e., the self) may act as the cause (of knowledge) without itself being manifest.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नचात्मसिद्धिर्अपि तत्सामग्र्यनुप्रवेशमर्हति; इन्द्रियादेरिवानवभासमानस्यैव हेतुत्वसम्भवात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+आत्मनि बोधोदये आत्म-प्रकाशस्य हेतुत्वं निरस्यति प्रसङ्गतः **न चात्मे**ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च विषय-बोध एव आत्म-बोध इति साम्प्रतम् ।
+</details>
+
+<details><summary>English</summary>
+
+It is not right to maintain that the manifestation of the object is itself the manifestation of the self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नच विषयबोध एवात्मबोध इति साम्प्रतम् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ननु आत्म-सिद्ध्य् अघटितापि विषय-बोध-सामग्र्य् एवात्म-प्रकाशे ऽपि हेतुर् अस्त्व् इत्य् अत्राह **न च विषये**ति । इन्द्रियार्थ-सन्निकर्षार्थ-योग्यतादि-घटिता विषय-बोध-सामग्री नायोग्यात्म-बोधे ऽपि समर्थेत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अर्थान्तर-सिद्धिर् अर्थान्तरस्य सिद्धिर् भवति, अतिप्रसङ्गात् ।
+</details>
+
+<details><summary>English</summary>
+
+Indeed, the manifestation of one object cannot be the manifestation of another; for, otherwise, an unwarranted extension of this principle would become possible.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ह्यर्थान्तरसिद्धिरर्थान्तरस्य सिद्धिर्भवति, अतिप्रसङ्गात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अतिप्रसङ्गात् पट-बोध-सामग्र्या घटादि-बोध-प्रसङ्गात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च यद्-अधीना भावानां रूप-भेद-व्यवस्था, तद् अपि हि संवेदनं तदानीं निलीन-रूपम् एवेन्द्रियादि-वत् ।
+</details>
+
+<details><summary>English</summary>
+
+Further, at the time objects are presented, even knowledge itself, one on which the very distinction of the respective shapes of objects depends, is altogether hidden from view, even as the senses and the like (remain hidden).[^82_148]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^82_148]: When objects are known, knowledge which is responsible for bringing to light the respective shapes of objects is not itself revealed; just as when things are perceived, the senses which are the instruments of perception are themselves not cognised. While knowledge itself remains unmanifested, there is absolutely no room for the presentation of its substrate, the self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च यदधीना भावानां रूपभेदव्यवस्था, तदपि हि संवेदनं तदानीं निलीनरूपमेवेन्द्रियादिवत् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+विषय-बोधे बोधस्याप्य् अप्रकाश इत्याह **अपि चे**ति । मानाधीना हि मेय-सिद्धिः । तत्-पदार्थानां जाति-गुणादि-विशेष-व्यवस्था यद् अधीना तद् अपि संवेदनं विषय-प्रकाश-काले ऽप्रकाशमान-स्वरूपं स्वरूप-सद् एव चक्षुरादिवद् इत्य् अर्थः । स्वरूप-सज् ज्ञानेनैव विषय-विशेष-सिद्धिवत् स्वरूप-सज् ज्ञात्रैव स्व-वेद्य-विषयातिशय-सिद्धिर् इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतस् तु पुनः तद्-आश्रयस्य आत्मनः प्रतिभास-प्रसक्तिः?
+</details>
+
+<details><summary>English</summary>
+
+(When that is so) where is the possibility for the manifestation of its substrate, the self?
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुतस्तु पुनः तदाश्रयस्यात्मनः प्रतिभासप्रसक्तिः?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् आहुः — इदमहं जानामीति त्रितयावभासः सार्वत्रिकः, इति, तद् अप्य् अनुभवानारूढम् एवानन्तरम् एव प्रतिक्षिप्तम् इति ।
+</details>
+
+<details><summary>English</summary>
+
+Even the contention of some that the threefold manifestation occurs everywhere taking the form 'I know this' does not fit in with experience; and is forthwith refuted.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदाहुःइदमहं जानामीति त्रितयावभासः सार्वत्रिकः, इति, तदप्यनुभवानारूढमेवानन्तरमेव प्रतिक्षिप्तमिति ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+प्राभाकराणां मतम् अनुवदति **यदाहु**रित्यादिना । सार्वत्रिकः प्रत्यक्षानुमानादि-सर्व-विषय-ज्ञान-व्यापी । तत् प्रतिक्षिपति **तदपी**ति । अनुभवानारूढम् इति साधकाभाव उक्तः, अनन्तरम् एव प्रतिक्षिप्तम् इति च बाधकम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इति भाट्टेन प्राभाकर-मत-दूषणम्)
+</details>
+
+<details><summary>English</summary>
+
+(इति भाट्टेन प्राभाकरमतदूषणम्)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(इति भाट्टेन प्राभाकरमतदूषणम्)
+</details>
+
+#### प्राभाकर-मतम्
+<details><summary>विषयः</summary>
+
+The Prabhakara position clarified while refuting the Bhāṭṭa view:-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्तु तर्हि ग्राहकतयैव सर्वार्थ-ग्रहण-समयेष्व् आत्म-सिद्धिः ।
+</details>
+
+<details><summary>English</summary>
+
+[[P83]] If that be so,[^83_149] let it be granted that the self is manifested as the knower at the time every object is apprehended.
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^83_149]: If the consciousness of the self as the perceiver in every cognition of objects is not necessary for accounting for the distinction between objects known by oneself and those known by others, at any rate, on the ground that knowledge which is self-luminous has the quality of revealing everything, it should be admitted that, when it reveals objects, it manifests the self also.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्तु तर्हि ग्राहकतयैव सर्वअर्थग्रहणसमयेष्व्आत्मसिद्धिः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ज्ञानस्यैवायं स्वभावः यत् स्व-विषयस्येव स्व-स्वाश्रय-प्रकाश-हेतुत्वम् अपीति पुनः प्राभाकरः शङ्कते **अस्तु तर्ही**ति । ग्राहकतयैव ज्ञानाश्रयतयैव । विषय-बोध-सामग्र्या विषय-ज्ञानम् एव जातम् । तच् च ज्ञानं स्व-सामर्थ्याद् एव अविषयम् अपि स्वं स्वाश्रयं च प्रकाशयतीति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अभ्युपगन्तव्या हि संविदः स्वतःसिद्धिः, सर्व-प्रकार-साधनान्तर-निराकरणात्, सत्याश् च तस्याः कदाचिद् अनवभासादर्शनाच् च ।
+</details>
+
+<details><summary>English</summary>
+
+The self-luminosity of knowledge has necessarily to be admitted, because the refutation of the view that knowledge depends for its manifestation on some means other than itself has been effected, in every possible manner; and because when knowledge does exist, it is never noticed to be unmanifest.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अभ्युपगन्तव्या हि संविदः स्वतःसिद्धिः, सर्वप्रकारसाधनान्तरनिराकरणात्, सत्याश्च तस्याः कदाचिदनवभासादर्शनाच्च ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ज्ञानस्य स्वयम्-प्रकाश-त्वं तावत् साधयति **अभ्युपगन्तव्ये**ति । **सर्वप्रकारे**ति । मानस-प्रत्यक्षस्य ज्ञाततादि-लिङ्गकानुमानस्य च निराकरणाद् इत्य् अर्थः । **कदाचि**दिति । विद्यमानत्वे प्रकाशमानत्व-नियमाच् चेत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा च संविदः प्रकाशाव्यभिचारः, तथा प्रपञ्चितं प्रथमाधिकरण इति नात्रोपक्षिप्य प्रतिक्षेप्तव्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+How knowledge never fails to be manifest has been elaborately dealt with in the *Prathamādhikaraṇa*.[^83_150] Hence, it is needless here to refer to the view (that knowledge depends upon something else for its manifestation) and refute the same.
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^83_150]: The elaborate treatment of the nature of jñana set forth in Prathamadhikarana of Nathamuni's *Nyaya-tattvā*-sāstra is, unfortunately, not available. But there are some extracts from this work in Vedanta Dešika's *Nyāyasidhānjana*, cf. 'Nyayatattvetu Prathamadhikarane lakṣaṇāntarāņi bahuni duşayitva "atyantavegitatyanta sa kṣmyam nirbhara'a thatā svasatākāla bhāvyāptiḥ jñāne lakṣma catuștayam" iti svoktalakṣapopasamhārah kṛtah' Buddhipariccheda, p. 249.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा च संविदः प्रकाशाव्यभिचारः, तथा प्रपञ्चितं प्रथमाधिकरण इति नात्रोपक्षिप्य प्रतिक्षेप्तव्यम् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**प्रपञ्चित** पिति । न्याय-तत्त्व-शास्त्रे इति शेषः । **नात्रे**त्यादि । प्रकाश-व्यभिचारित्व-मतम् उपक्षिप्य ज्ञानस्य तत् नात्र निराकरणीयम् इत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सतो ऽपि प्रमेय-जातस्य स्वापादिसमये ऽनुपलब्धेर् अभ्युपगतं तावत् संविदः तत्-साधकत्वम् ।
+</details>
+
+<details><summary>English</summary>
+
+For the reason that during states, such as sleep, even though collections of objects of knowledge exist, there is non-apprehension of the same, it has to be admitted that the capacity to reveal the same belongs to knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सतोऽपि प्रमेयजातस्य स्वापादिसमयेऽनुपलब्देर्अभ्युपगतं तावत्संविदः तत्साधकत्वम् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+एवं स्व-प्रकाश-त्वम् उक्त्वा ज्ञानस्य विषय-प्रकाश-हेतुत्वं च साधयति **सतो ऽपी**ति । सतो ऽपि विषयस्य स्वापे ऽप्रकाशो ज्ञान-निवृत्त्येति ज्ञानस्य विषय-प्रकाशकत्व-सिद्धिर् इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः कॢप्तअर्थान्तर-साधन-भावया तयैवाऽत्मनो ऽपि सिद्धिर् अभ्युपगन्तुं न्याय्या ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, it is but proper to admit that the manifestation of the self also is effected by knowledge itself, which has definitely been proved to possess the quality of revealing other objects.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतः क्ल्प्तअर्थान्तरसाधनभावया तयैवाऽत्मनोऽपि सिद्धिर्अभ्युपगन्तुं न्याय्या ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**अत **इति । पर-प्रकाशकत्वेनैष्टव्यायाः संविदः प्रमात्र् अवभासकत्वम् अपि युक्तम् इति नात्मनः स्वयम्-प्रकाश-त्वम् अपि कल्पनीयम् इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इति पुनः प्राभाकरेण स्व-मत-स्थापनम्)
+</details>
+
+<details><summary>English</summary>
+
+(इति पुनः प्राभाकरेण स्वमतस्थापनम्)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(इति पुनः प्राभाकरेण स्वमतस्थापनम्)
+</details>
+
+##### मुक्ति-सुषुप्त्योर् अहम्-भावो न?
+<details><summary>विषयः</summary>
+
+The Prābhākārā view that in deep sleep and mokşa there is no self-consciousness.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु विषय-वित्त्युपरमे ऽपि स्वाप-समये ऽयम् आत्मा प्रकाशत इति, तत्-उपपत्तिभिर् उपपद्यमानम् अपि यथा-प्रतीति व्यवहरतां न चित्तम् अनुरञ्जयति ।
+</details>
+
+<details><summary>English</summary>
+
+The view that even when knowledge of objects is absent in deep sleep the self is revealed may be rendered intelligible by arguments, but (it) does not satisfy the mind of those who think and act in the light of experience.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तु विषयवित्त्युपरमेऽपि स्वापसमयेऽयमात्मा प्रकाशत इति, ततुपपत्तिभिरुपपद्यमानमपि यथाप्रतीति व्यवहरतां न चित्तमनुरञ्जयति ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+स्वापे ऽप्य् आत्मनो ज्ञानम् अस्तीति मतम् अनूद्य खण्डयति **यत्तु** इति । **त**दिति । सुखम् अहम् अस्वाप्सम् इत्य् आदि-प्रतिसन्धानस्य स्वापे आत्म-प्रकाशम् अन्तरानुपपद्यमानत्व-लक्षण-युक्ति-युक्तम् अपि स्वपो आत्मनः प्रकाशमानत्वं नानुभव-मात्र-शरणानां हृद्यं भवतीत्य् अर्थः । उपपद्यमानम् अपीत्य् अपि नोपपत्तिर् अपि । प्रतिसन्धानस्यान्यथैवोपपत्तेर् इति स्फोर्यते । अन्यथा-सिद्धिर् अग्रे प्रपञ्चयिष्यते मूल एव ।
+</details>
