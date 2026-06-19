@@ -2427,10 +2427,13 @@ The existence of the soul established through perception by manas
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्यान् मतम् —  
-भौतिकत्वात् बहिर्-इन्द्रियाणि  
+
+> भौतिकत्वाद् बहिर्-इन्द्रियाणि  
 मा नामात्मनि प्रवर्तिषत ।  
 मनस् तु प्रवर्तिष्यते  
-अभौतिकत्वाद् इति; 
+अभौतिकत्वाद् 
+
+इति; 
 </details>
 
 <details><summary>English</summary>
@@ -2450,9 +2453,11 @@ but the manas, being non-elemental, may enter into contact with the soul and pre
 अत्र भाट्ट-मतम् उपक्षिपति **स्यान्मतम्** इति ।
 </details>
 
+##### भौतिक-मात्र-ग्राह्यता?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन् न; तस्यापीन्द्रियत्वे भौतिकत्वस्यापरिहार्यत्वात् ।
+तन् न; तस्यापीन्द्रियत्वे  
+भौतिकत्वस्यापरिहार्यत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -2473,7 +2478,7 @@ but the manas, being non-elemental, may enter into contact with the soul and pre
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा ऽऽम्नायते ऽअन्नमयं हि सोम्य मनः ऽ इति ।
+यथा ऽऽम्नायते "अन्नमयं हि सोम्य मनः" इति ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -2499,7 +2504,7 @@ but the manas, being non-elemental, may enter into contact with the soul and pre
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रपञ्चितं च एतत् निरूपणे ।
+प्रपञ्चितं चैतन्-निरूपणे ।
 </details>
 
 <details><summary>English</summary>
@@ -2527,9 +2532,10 @@ when dealing with manas it has been fully explained.
 (इत्यात्मनोऽप्रत्यक्षत्वशङ्का)
 </details>
 
+#### अपरोक्ष-प्रत्ययत्वात्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथोच्येत — अस्ति तावद् अहम् इत्य् अपरोक्षावभासः प्रत्ययः ।
+अथोच्येत — अस्ति तावद् "अहम्" इत्य् अपरोक्षावभासः प्रत्ययः ।
 </details>
 
 <details><summary>English</summary>
@@ -2550,7 +2556,7 @@ It may be urged: "Certainly, there is a cognition of 'I' a cognition which is di
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च ऐन्द्रियिकत्वम् अन्तरेणासौ सम्भवति ।
+न चैन्द्रियिकत्वम् अन्तरेणासौ सम्भवति ।
 </details>
 
 <details><summary>English</summary>
@@ -2565,7 +2571,8 @@ And this (cognition) cannot but be what has arisen from the senses.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कॢप्तं च बहिरिन्द्रियागोचरे ऽपि सुखादौ स्वान्त-स्वातन्त्र्यम् इति तन्-निमित्त एवायम् अहम्-प्रत्ययो युक्तः ।
+कॢप्तं च बहिर्-इन्द्रियागोचरे ऽपि सुखादौ स्वान्त-स्वातन्त्र्यम्  
+इति तन्-निमित्त एवायम् अहम्-प्रत्ययो युक्तः ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -2586,7 +2593,13 @@ The claim of manas in regard to (the manifestation of) pleasure and the like, ev
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रयोगश् च भवति — आत्मा मानस-प्रत्यक्ष-ग्राह्यः बहिरिन्द्रियायोग्यत्वे सति प्रत्यक्षत्वात् सुखादि-वद् इति ।
+प्रयोगश् च भवति — 
+
+> आत्मा मानस-प्रत्यक्ष-ग्राह्यः  
+बहिरिन्द्रियायोग्यत्वे सति प्रत्यक्षत्वात्  
+सुखादि-वद् 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -2626,7 +2639,7 @@ This can be expressed syllogistically. The soul, like pleasure and so on, is to 
 शिष्टं स्पष्टम् ।
 </details>
 
-##### प्रत्याक्षेपः
+##### ज्ञाने व्यभिचारः
 <details><summary>विषयः</summary>
 
 Refutation of this view
@@ -2635,7 +2648,7 @@ Refutation of this view
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन् न; संवेदनेन व्यभिचारात् ।
+तन् न; संवेदनेन+++(=ज्ञानेन)+++ व्यभिचारात् ।
 </details>
 
 <details><summary>English</summary>
@@ -2651,12 +2664,12 @@ Refutation of this view
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-प्रकृतम् अनुमानं दूषयति गुरुमुखेन **तन्ने**त्यादिना । साध्याभाववति हेतो सत्त्वं हि व्यभिचारः ।
+प्रकृतम् अनुमानं दूषयति गुरुमुखेन **तन्ने**त्यादिना । साध्याभाववति हेतौ सत्त्वं हि व्यभिचारः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च तद् अप्रत्यक्षम् ।
+न च तद् अप्रत्यक्षम् -
 </details>
 
 <details><summary>English</summary>
@@ -2698,7 +2711,8 @@ for without depending on anything else, it manifests itself as 'I know';
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्रत्यक्षत्वे च संवेदनस्य असिद्धिर् एव स्याद् इत्य् उक्तम् एव ।
+अ-प्रत्यक्षत्वे च संवेदनस्यासिद्धिर् एव स्याद्  
+इत्य् उक्तम् एव ।
 </details>
 
 <details><summary>English</summary>
@@ -2717,7 +2731,7 @@ and it has already been stated that if it were not an object of perception, it w
 ननु ज्ञाततयैव ज्ञानानुमानम् इत्य् अनन्योपाधिकत्वं ज्ञान-प्रतिभासस्य असिद्धम् इत्य् अत्राह **अप्रत्यक्षत्वे चे**ति । ज्ञानातिरिक्तायां ज्ञाततायां ज्ञान-लिङ्गत्वेनाभिमतायां प्रमाणाभावात्, सत्या अपि तस्या अतीन्द्रियत्वेन ज्ञानस्य तेनाविनाभावग्रहायोगात्, ज्ञान-जनक-सामग्र्या ज्ञातताया एव साक्षाज् जनन-सम्भवाद् अन्तरा ज्ञान-कल्पनाया अपार्थत्वाच् च असिद्धिर् एव स्याज् ज्ञानस्याप्रत्यक्षत्व इति भावः ।
 </details>
 
-#### न मानस-प्रत्यक्षम्
+###### न मानस-प्रत्यक्षम्
 <details><summary>विषयः</summary>
 
 Untenability of the suggestion that jnāna is the object of mental perception:-
@@ -2726,7 +2740,9 @@ Untenability of the suggestion that jnāna is the object of mental perception:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च तद् अपि मानस-प्रत्यक्षतया सपक्षे निक्षेपम् अर्हति; विमर्दासहत्वात् ।
+न च तद् अपि  
+मानस-प्रत्यक्षतया सपक्षे निक्षेपम् अर्हति;  
+विमर्दासहत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -2747,17 +2763,26 @@ It cannot be contended that, since it is an object of mental perception, jñāna
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदा खलु कुतश्चिद् आत्म-मनः-संयोगाद् विषय-संवित-उदयम् आसादयति, तदैव किं तत एव तद्-गोचरम् अपि वेदनं जन्यते, उतानिदान्येनेति वाच्यम् ।
+यदा खलु कुतश्चिद्  
+आत्म-मनः-संयोगाद् विषय-संविद् उदयम् आसादयति,  
+तदैव किं तत एव तद्-गोचरम् अपि वेदनं जन्यते,  
+उतान्यदा ऽन्येनेति वाच्यम् ।
 </details>
 
 <details><summary>English</summary>
 
-(If that is your view), you must point out whether even the knowledge concerning the knowledge of an object is produced exactly at the time when, by virtue of a certain conjunction between soul and manas, the knowledge of an object takes birth, and whether (it is produced) by the selfsame contact, or whether it is produced at a different time and by a different contact.
+(If that is your view), you must point out whether even the knowledge concerning the knowledge of an object  
+is produced 
+
+exactly at the time when, by virtue of a certain conjunction between soul and manas, the knowledge of an object takes birth,  
+and whether (it is produced) by the selfsame contact,  
+
+or whether it is produced at a different time and by a different contact.
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदा खलु कुतश्चिदात्ममनःसंयोगाद्विषयसंवितुदयमासादयति, तदैव किं तत एव तद्गोचरमपि वेदनं जन्यते, उतान्यदान्येनेति वाच्यम् ।
+यदा खलु कुतश्चिदात्ममनःसंयोगाद्विषयसंविदुदयमासादयति, तदैव किं तत एव तद्गोचरमपि वेदनं जन्यते, उतान्यदाऽन्येनेति वाच्यम् ।
 </details>
 
 
@@ -2783,7 +2808,7 @@ It cannot be contended that, since it is an object of mental perception, jñāna
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि सति परापर-तत्तद्-गोचर-निरवधिक-धी-निकुरुम्ब-जन्म तत्कालम् एवापद्येत ।
+तथा हि सति परापर-तत्-तद्-गोचर+++(=विषयक)+++-- निरवधिक-धी+++(=ज्ञान)+++-निकुरुम्ब+++(=यूथ)+++-जन्म तत्-कालम् एवापद्येत ।
 </details>
 
 <details><summary>English</summary>
@@ -2819,7 +2844,7 @@ But it does not take place.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-युगपद्-उत्पत्तौ विषय-विषयित्व-नियमश् च निर्निबन्धनः ।
+युगपद्-उत्पत्तौ विषय-विषयित्व-+++(भेद-)+++नियमश् च निर्निबन्धनः ।
 </details>
 
 <details><summary>English</summary>
@@ -2840,49 +2865,45 @@ If it takes place simultaneously, the distinction made between being an object o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असमसमय-जन्मना ज्ञानेन वेद्यत्वे न प्रत्यक्षत्वम्; क्षणिकत्वेनाग्रिम-ज्ञानस्य आग्राहक-ज्ञानोदयम् अवस्थानाभावात् ।
+अ-सम--समय-जन्मना ज्ञानेन वेद्यत्वे  
+न प्रत्यक्षत्वम् +++(विषयस्य)+++;  
+क्षणिकत्वेन,  
+अग्रिम-ज्ञानस्य +आ-ग्राहक-ज्ञानोदयम् +++(यावद्)+++ अवस्थानाभावात्,  
+भावे च सर्व-ज्ञानानां सर्वदावस्थान-प्रसङ्गात् ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
 
-(Regarding the second alternative), if it (knowledge concerning knowledge) is made known by a knowledge arising at a different time, it would cease to be an object of perception; for, as knowledge is momentary, the earlier knowledge will not last till the rise of the knowledge which reveals it.
-</details>
-
-<details><summary>मूलम्</summary>
-
-असमसमयजन्मना ज्ञानेन वेद्यत्वे न प्रत्यक्षत्वं; क्षणिकत्वेनाग्रिमज्ञानस्य आग्राहकज्ञानोदयमवस्थानाभावात् ।
-</details>
-
-
-<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
-
-अस्तु तर्हि क्रमिकत्वं विषय-ज्ञान-तद्-अनुव्यवसाययोर् इत्य् अत्रह **असमे**ति । ज्ञानस्य क्षणिकत्वाद् उत्तर-ज्ञानोत्पाद-काले पूर्व-ज्ञानस्यासत्त्वान् न प्रत्यक्षत्वं सम्भवेत् पूर्व-ज्ञाने ज्ञानान्तर-वेद्यत्वोपगमे ऽपि इत्य् अर्थः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-भावे च सर्व-ज्ञानानां सर्वदावस्थान-प्रसङ्गात् ।
-</details>
-
-<details><summary>English</summary>
+(Regarding the second alternative), if it (knowledge concerning knowledge) is made known  
+by a knowledge arising at a different time,  
+it would cease to be an object of perception;  
+for, as knowledge is momentary, the earlier knowledge will not last  
+till the rise of the knowledge which reveals it.
 
 If it lasts, all cognitions would have to exist at all times.
 </details>
 
 <details><summary>मूलम्</summary>
 
-भावे च सर्वज्ञानानां सर्वदावस्थानप्रसङ्गात् ।
+असमसमयजन्मना ज्ञानेन वेद्यत्वे न प्रत्यक्षत्वं; क्षणिकत्वेनाग्रिमज्ञानस्य आग्राहकज्ञानोदयमवस्थानाभावात्  
+भावे च सर्व-ज्ञानानां सर्वदावस्थान-प्रसङ्गात् ।
 </details>
 
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अस्तु तर्हि क्रमिकत्वं विषय-ज्ञान-तद्-अनुव्यवसाययोर् इत्य् अत्रह **असमे**ति । ज्ञानस्य क्षणिकत्वाद् उत्तर-ज्ञानोत्पाद-काले पूर्व-ज्ञानस्यासत्त्वान् न प्रत्यक्षत्वं सम्भवेत् पूर्व-ज्ञाने ज्ञानान्तर-वेद्यत्वोपगमे ऽपि इत्य् अर्थः ।
 
 ज्ञानस्य क्षणिकत्वानुपगमे दोषम् आह **भावे** **चे**ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कार्य-विरोधित्वे च अनन्तरम् एव संस्कारोदयान् न कालान्तरे स्थितिरिति संविदो न मानस-प्रत्यक्ष-वेद्यत्वम् ।
++++(कार्योदये कारणनाशेन)+++ कार्य-विरोधित्वे च  
+अनन्तरम् +++(आत्मना ग्रहणात् परम्)+++ एव संस्कारोदयान्  
+न कालान्तरे स्थितिर्  
+
+इति संविदो न मानस-प्रत्यक्ष-वेद्यत्वम् ।
 </details>
 
 <details><summary>English</summary>
@@ -2903,7 +2924,8 @@ If it be urged that it is incompatible with its effect (i.e. if it perishes as s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च अप्रत्यक्षा संविद् इति स्फुटो व्यभिचारः ।
+न चाप्रत्यक्षा संविद्  
+इति स्फुटो व्यभिचारः +++(यः कश्चन)+++ ।
 </details>
 
 <details><summary>English</summary>
@@ -2913,12 +2935,13 @@ And it cannot be said that it is obvious that the argument commits the fallacy o
 
 <details><summary>मूलम्</summary>
 
-नchaप्रत्यक्षा संविदिति स्फुटो व्यभिचारः ।
+न चाप्रत्यक्षा संविदिति स्फुटो व्यभिचारः ।
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐन्द्रियिकत्वस्य अनात्मत्व-प्रतिबद्धत्वाद् विरुद्धता च ।
+ऐन्द्रियिकत्वस्यानात्मत्व-प्रतिबद्धत्वाद् विरुद्धता च ।
 </details>
 
 <details><summary>English</summary>
