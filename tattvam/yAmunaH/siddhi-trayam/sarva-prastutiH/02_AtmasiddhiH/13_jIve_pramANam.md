@@ -643,6 +643,13 @@ By this reasoning alone the soul is not established (to be that substrate).
 न च तावताऽत्मसिद्धिः ।
 </details>
 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+विधिकल्पस्य (=algorithm) प्रत्यक्त्वांशस्य +आत्मत्वे नासौ दोषः। 
+</details>
+
+
 #### केवल-व्यतिरेकिना न
 <details><summary>विषयः</summary>
 
@@ -2938,10 +2945,10 @@ And it cannot be said that it is obvious that the argument commits the fallacy o
 न चाप्रत्यक्षा संविदिति स्फुटो व्यभिचारः ।
 </details>
 
-
+##### अनात्म-ग्रह-नियमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐन्द्रियिकत्वस्यानात्मत्व-प्रतिबद्धत्वाद् विरुद्धता च ।
++++(इन्द्रिय-ग्राह्यत्वस्य=)+++ ऐन्द्रियिकत्वस्यानात्मत्व-प्रतिबद्धत्वाद् विरुद्धता च +++("आत्मा मनोग्राह्यः प्रत्यक्षत्वाद्" इत्यत्र हेतोः)+++।
 </details>
 
 <details><summary>English</summary>
