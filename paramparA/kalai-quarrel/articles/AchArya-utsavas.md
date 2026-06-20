@@ -30,8 +30,4 @@ title = "AchArya utsavas"
 > - ravilochanaH
 
 ## shrIrangam
-> Earlier VD (and nAthamuni) used to take part in utsavams. Tks argued that VD can be brought out only in tk tiruman. So he is not brought out at all now; though ahobilamaTha shiShyas do nitya archanA.
-> 
-> Sometimes I feel that courts have behaved randomly in these matters and given too many rights to TKS of srirangam. Shall we apply this rule to kanchi? Then nammazhvar and MM should not be brought out.
-> 
-> Cases settled in brit period are not reopened easily by courts these days. And srirangam vdks hv mostly given up today.
+See separate page - Source: [TW](/purANam_vaiShNavam/history/shrI-rangam/tenkalai-victory)
