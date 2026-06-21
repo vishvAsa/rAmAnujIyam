@@ -3075,8 +3075,9 @@ is due to the power of long continued experience.[F78_141]
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस् तु सुगत-मतावलम्बी  
-विज्ञानाभिन्न-हेतु-जत्या तयोर् अपि तद्-अन्तर्भावम् अभिमन्यते;  
-कण-भक्ष-पक्षाश्रयणेन वा तयोर् आत्म-विशेष-गुणत्वम्; ताभ्यां सुख-दुःखाधिकरणं व्याचक्षीत; स्वतः सुखीत्य् एतद्-विमर्शो वा अत्रत्यः ।
+विज्ञानाभिन्न-हेतु-जतया तयोर् अपि तद्-अन्तर्भावम् अभिमन्यते;  
+कण-भक्ष-पक्षाश्रयणेन वा तयोर् आत्म-विशेष-गुणत्वम्; ताभ्यां सुख-दुःखाधिकरणं व्याचक्षीत;  
+स्वतः सुखीत्य् एतद्-विमर्शो वा अत्रत्यः ।
 </details>
 
 <details><summary>English</summary>
@@ -3092,10 +3093,38 @@ they are the special qualities of the soul
 
 <details><summary>English - Notes</summary>
 
-[F79_142]: Sukhaduḥkhādhikaraṇa is the sixth section of the first pāda of Nathamuni's *Nyāyataṭtva*-sastra, a work which is not extant now. Yamuna refers to a few other adhikaraṇas of this sastra. In fact, his *Atmasiddhi* may be regarded as a brief exposition of *Nyayatattva*. Compare *Nyāyasiddhāňjana*, Buddhipariccheda "Nyayatattva-prakaraṇam hi Atmasiddih"
+[F79_142]: Sukhaduḥkhādhikaraṇa is the sixth section of the first pāda of Nathamuni's *Nyāyatattva*-sastra, a work which is not extant now. Yamuna refers to a few other adhikaraṇas of this sastra. In fact, his *Atmasiddhi* may be regarded as a brief exposition of *Nyayatattva*. Compare *Nyāyasiddhāňjana*, Buddhipariccheda "Nyayatattva-prakaraṇam hi Atmasiddih"
+
 [F79_143]: This discussion over svatassukhi is included among the portions of *Atmasiddhi* lost.
-[F79_144]: Those who identify pleasure and pain with the flourishing or the decaying states of the senses mean by senses the internal sense (manas) and not the outer senses; for, pleasure and pain are nothing more than the tranquil and the disturbed states of manas. cf. tatha ca antahkaranaprasādā vasayda yoreva sukhatvaduhkhatvavyapadesadarsanat tatprasāda vasādā veva sukhaduhkarupā vityarthah. rāmānuja tika on *Nyāyasiddhānjana*, *Buddhipariccheda*. Ranga-. Though this view is defended here and elsewhere in *Atmasiddhi*, it cannot be considered to be his final view, for, later on, he says that all reference to certainty, doubt, pleasure, pain and the like has for its object either same particular form of contact of knowledge with its object or knowledge possessing that contact. cf. *Nyāyasiddhānjana*, *Buddhipariccheda* sukhaduhkheca natmadharmau ityāditu vaibhavena matantareņa vā abhihitam anyathā kathamevam upasamhārārambhe brüyāt ⚫tadevam atmasvabbāvabhūtasya caitanyasya visayasamŝleşavidaeşagocara eva niscayasamsayadi vyavahārabhedah tadviseṣabhāji caitanyevā. Rāmānuja says, in *Vedarthasamgraha*, that knowledge, which is in contact with a particular object, and which is considered the cause of pleasure or pain, is really pleasure or pain itself and not its cause. Besides knowledge, nothing else which could be called pleasure or pain is noticed.. yena vişayaviseşeņa viseşitam jñānam sukhasya janakamity abhimatam tadviṣayajñānameva sukham tadatireki padarthäntaram nopalabhyate "
-\*The reading tatcalanam found in the Chowkamba and Telugu editions is manifestly wrong; it has been altered into cetaścalanam. If, however, the original reading must stand, the sentence "bhūtaduḥkhajñāne na taccalanam sokaḥ" must come after and not precede the sentence "agamitajjñā nena cetașcalanam bhayam."
+
+[F79_144]: Those who identify pleasure and pain with the flourishing or the decaying states of the senses mean by senses the internal sense (manas) and not the outer senses; for, pleasure and pain are nothing more than the tranquil and the disturbed states of manas. 
+
+> cf. tatha ca antahkarana-prasādāvasadayor eva sukhatvaduhkhatva-vyapadesa-darsanat tatprasādavasādāv eva sukhaduhkarupāv ity arthah. 
+
+Ranga-rāmānuja tika on *Nyāyasiddhānjana*, *Buddhipariccheda*. 
+
+Though this view is defended here and elsewhere in *Atmasiddhi*, it cannot be considered to be his final view, for, later on, he says that all reference to certainty, doubt, pleasure, pain and the like  
+has for its object either same particular form of contact of knowledge with its object or knowledge possessing that contact. cf. *Nyāyasiddhānjana*, *Buddhipariccheda*  
+
+> \*"सुखदुःखे च नात्मधर्मौ" इत्यादि तु वैभववादेन,  
+मतान्तरेण वाऽभिहितम् ।  
+> 
+> अन्यथा कथम् एवम् उपसंहारारम्भे ब्रूयात्-\*  
+>
+> तद् एवमात्म-स्वभाव-भूतस्य चैतन्यस्य  
+विषय-संश्लेष-विशेष-गोचर एव  
+निश्चय-संशयादि-व्यवहार-भेदः,  
+तद्-विशेष-भाजि चैतन्ये वा  
+>
+> इति । 
+
+Rāmānuja says, in *Vedarthasamgraha*, that knowledge, which is in contact with a particular object, and which is considered the cause of pleasure or pain, is really pleasure or pain itself and not its cause.  
+Besides knowledge, nothing else which could be called pleasure or pain is noticed..  
+
+> येन विषयविशेषेण विशेषितं ज्ञानं सुखस्य जनकमित्यभिमतम् , तद्विषयज्ञानमेव सुखम् । तदतिरेकिपदार्थान्तरं नोपलभ्यते । 
+
+\*The reading tatcalanam found in the Chowkamba and Telugu editions is manifestly wrong; it has been altered into cetaścalanam.  
+If, however, the original reading must stand, the sentence "bhūtaduḥkhajñāne na taccalanam sokaḥ" must come after and not precede the sentence "agamitajjñā nena cetașcalanam bhayam."
 </details>
 
 <details><summary>मूलम्</summary>
