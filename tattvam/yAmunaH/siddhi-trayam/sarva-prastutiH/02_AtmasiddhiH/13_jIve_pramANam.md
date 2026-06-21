@@ -2491,12 +2491,12 @@ but the manas, being non-elemental, may enter into contact with the soul and pre
 
 <details><summary>English</summary>
 
-[[P77]] It has been so declared in the veda: "Gentle sir! the manas is, indeed, made of food (anna)";[^77_140]
+[[P77]] It has been so declared in the veda: "Gentle sir! the manas is, indeed, made of food (anna)";[F77_140]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^77_140]: *Chand*. Up. VI.v.4.
+[F77_140]: *Chand*. Up. VI.v.4.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3028,19 +3028,25 @@ Indeed, when the senses are not perceptible, their flourishing or decaying state
 नहि तस्मिन्नप्रत्यक्षे तत्पौष्कल्यंवैकल्यं वा प्रत्यक्षं भवति ।
 </details>
 
+##### प्रत्यक्षताभासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रिय-स्वरूप इव अभ्यास-पाटवात् तयोर् अपरोक्षत्वाभिमानः, मनोZवस्था-भेदेष्व् इव चानुमेय-मनो-वादिनाम् ।
++++("अहं चक्षुषा वीक्षे" इत्यादौ)+++ इन्द्रिय-स्वरूप इव  
++++(सुख-दुःख-कर-विषय-ग्रहणे)+++ अभ्यास-पाटवात् तयोर् अ-परोक्षत्वाभिमानः,  
+मनोऽवस्था-भेदेष्व् इव चानुमेय-+++(बुद्ध्य्-अतिरिक्त-)+++मनो-वादिनाम् ।
 </details>
 
 <details><summary>English</summary>
 
-In the case of pleasure and pain, as in that of the senses, or again, in that of the different states of mind (manas) on the view of those who maintain that manas is inferable, the false impression that they are directly perceived is due to the power of long continued experience.[^78_141]
+In the case of pleasure and pain, as in that of the senses,  
+or again, in that of the different states of mind (manas) on the view of those who maintain that manas is inferable,  
+the false impression that they are directly perceived  
+is due to the power of long continued experience.[F78_141]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^78_141]: With continued practice one infers the existence of pleasure, pain, the states of mind and the like so effortlessly and quickly and without noticing the several steps of the argument, that one comes to think that he directly perceives them.
+[F78_141]: With continued practice one infers the existence of pleasure, pain, the states of mind and the like so effortlessly and quickly and without noticing the several steps of the argument, that one comes to think that he directly perceives them.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3051,24 +3057,44 @@ In the case of pleasure and pain, as in that of the senses, or again, in that of
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ननु सुख-दुःखयोर् अप्रत्यक्षत्वे प्रत्यक्षवद् अवभासस् तयोः कथम्? तत्राह **इन्द्रिये**ति । यथातीन्द्रियत्वे ऽपीन्द्रियाणां ममेदं चक्षुः, अहं चक्षुष्मान् पश्यामीति प्रत्यक्षवद् अवभासश् चक्षुरादेः कदाचिच् चाक्षुषादि-वृत्ति काले नाना-चक्षुरादि-वृत्ति प्रतिसन्धानवतश् चेतनस्येन्द्रिय-विषय-संस्कार-प्राचुर्य-प्रयुक्तः, तद्वद् इन्द्रियावस्था-रूप-सुख-दूःख-परामर्शो ऽपि प्रत्यक्ष-समानाकारस् तद्-अभ्यास-बाहुल्याद् इत्य् अर्थः । अत्र निदर्शनं **मनोवस्थे**ति । अनुमेय-मनोवादिनः बुद्धिव्यतिरिक्तं मनो ऽनुमानेन साधयन्तः । काम-सङ्कल्पादीनां मनोवृत्ति-रूपत्वं **कामःसङ्कल्पः सर्वं मन एवे**ति श्रुत्या प्रतीयते । तेषां च प्रत्यक्षत्वावभासः तद्-विषयानुभावाभ्यास-प्राचुर्याद् एवेति वक्तव्यं यथा अनुमेय-मनोवादिभिः, तथेति भावः ।
+ननु सुख-दुःखयोर् अप्रत्यक्षत्वे  
+प्रत्यक्षवद् अवभासस् तयोः कथम्?  
+तत्राह **इन्द्रिये**ति ।  
+यथा ऽतीन्द्रियत्वे ऽपीन्द्रियाणां  
+"ममेदं चक्षुः, अहं चक्षुष्मान् पश्यामी"ति  
+प्रत्यक्षवद् अवभासश्  
+चक्षुरादेः कदाचिच् चाक्षुषादि-वृत्ति काले नाना-चक्षुर्-आदि-वृत्ति प्रतिसन्धानवतश् चेतनस्येन्द्रिय-विषय-संस्कार-प्राचुर्य-प्रयुक्तः,   
+तद्वद् इन्द्रियावस्था-रूप-सुख-दूःख-परामर्शो ऽपि प्रत्यक्ष-समानाकारस् तद्-अभ्यास-बाहुल्याद् इत्य् अर्थः । 
+
+अत्र निदर्शनं **मनोवस्थे**ति ।  
+अनुमेय-मनोवादिनः बुद्धि-व्यतिरिक्तं मनो ऽनुमानेन साधयन्तः ।  
+काम-सङ्कल्पादीनां मनोवृत्ति-रूपत्वं **कामः सङ्कल्पः सर्वं मन एवे**ति श्रुत्या प्रतीयते ।  
+तेषां च प्रत्यक्षत्वावभासः तद्-विषयानुभावाभ्यास-प्राचुर्याद् एवेति वक्तव्यं यथा अनुमेय-मनोवादिभिः, तथेति भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस् तु सुगत-मतावलम्बी विज्ञानाभिन्न-हेतु-जत्या तयोर् अपि तद्-अन्तर्भावम् अभिमन्यते; कण-भक्ष-पक्षाश्रयणेन वा तयोर् आत्म-विशेष-गुणत्वम्; ताभ्यां सुख-दुःखाधिकरणं व्याचक्षीत; स्वतः सुखीत्य् एतद्-विमर्शो वा अत्रत्यः ।
+यस् तु सुगत-मतावलम्बी  
+विज्ञानाभिन्न-हेतु-जत्या तयोर् अपि तद्-अन्तर्भावम् अभिमन्यते;  
+कण-भक्ष-पक्षाश्रयणेन वा तयोर् आत्म-विशेष-गुणत्वम्; ताभ्यां सुख-दुःखाधिकरणं व्याचक्षीत; स्वतः सुखीत्य् एतद्-विमर्शो वा अत्रत्यः ।
 </details>
 
 <details><summary>English</summary>
 
-[[P79]] The section dealing with pleasure and pain (sukhaduhkhādhi- *karaṇa*)[^79_142] or the discussion of the description of the soul as being in its essential nature blissful (svatassukhi) found in this work itself[^79_143] ought to be explained to those who, following the Buddhistic doctrine, believe that pleasure and pain are included in the category of knowledge, for the reason that they are produced by causes which are non-different from knowledge, and to those who, by accepting the system of Kanabhakṣa (the exponent of the Vaiseṣika system) believe that they are the special qualities of the soul (and not the flourishing and the decaying states of the senses).[^79_144]
+[[P79]] The section dealing with pleasure and pain (*sukha-duhkhādhi-karaṇa*)[F79_142] or the discussion of the description of the soul as being in its essential nature blissful (*svatassukhi*) found in this work itself[F79_143]  
+ought to be explained to those who, following the Buddhistic doctrine, believe that  
+pleasure and pain are included in the category of knowledge,  
+for the reason that they are produced by causes which are non-different from knowledge,  
+and to those who, by accepting the system of Kanabhakṣa (the exponent of the Vaiseṣika system) believe that  
+they are the special qualities of the soul  
+(and not the flourishing and the decaying states of the senses).[F79_144]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^79_142]: Sukhaduḥkhādhikaraṇa is the sixth section of the first pāda of Nathamuni's *Nyāyataṭtva*-sastra, a work which is not extant now. Yamuna refers to a few other adhikaraṇas of this sastra. In fact, his *Atmasiddhi* may be regarded as a brief exposition of *Nyayatattva*. Compare *Nyāyasiddhāňjana*, Buddhipariccheda "Nyayatattva-prakaraṇam hi Atmasiddih"
-[^79_143]: This discussion over svatassukhi is included among the portions of *Atmasiddhi* lost.
-[^79_144]: Those who identify pleasure and pain with the flourishing or the decaying states of the senses mean by senses the internal sense (manas) and not the outer senses; for, pleasure and pain are nothing more than the tranquil and the disturbed states of manas. cf. tatha ca antahkaranaprasādā vasayda yoreva sukhatvaduhkhatvavyapadesadarsanat tatprasāda vasādā veva sukhaduhkarupā vityarthah. rāmānuja tika on *Nyāyasiddhānjana*, *Buddhipariccheda*. Ranga-. Though this view is defended here and elsewhere in *Atmasiddhi*, it cannot be considered to be his final view, for, later on, he says that all reference to certainty, doubt, pleasure, pain and the like has for its object either same particular form of contact of knowledge with its object or knowledge possessing that contact. cf. *Nyāyasiddhānjana*, *Buddhipariccheda* sukhaduhkheca natmadharmau ityāditu vaibhavena matantareņa vā abhihitam anyathā kathamevam upasamhārārambhe brüyāt ⚫tadevam atmasvabbāvabhūtasya caitanyasya visayasamŝleşavidaeşagocara eva niscayasamsayadi vyavahārabhedah tadviseṣabhāji caitanyevā. Rāmānuja says, in *Vedarthasamgraha*, that knowledge, which is in contact with a particular object, and which is considered the cause of pleasure or pain, is really pleasure or pain itself and not its cause. Besides knowledge, nothing else which could be called pleasure or pain is noticed.. yena vişayaviseşeņa viseşitam jñānam sukhasya janakamity abhimatam tadviṣayajñānameva sukham tadatireki padarthäntaram nopalabhyate "
+[F79_142]: Sukhaduḥkhādhikaraṇa is the sixth section of the first pāda of Nathamuni's *Nyāyataṭtva*-sastra, a work which is not extant now. Yamuna refers to a few other adhikaraṇas of this sastra. In fact, his *Atmasiddhi* may be regarded as a brief exposition of *Nyayatattva*. Compare *Nyāyasiddhāňjana*, Buddhipariccheda "Nyayatattva-prakaraṇam hi Atmasiddih"
+[F79_143]: This discussion over svatassukhi is included among the portions of *Atmasiddhi* lost.
+[F79_144]: Those who identify pleasure and pain with the flourishing or the decaying states of the senses mean by senses the internal sense (manas) and not the outer senses; for, pleasure and pain are nothing more than the tranquil and the disturbed states of manas. cf. tatha ca antahkaranaprasādā vasayda yoreva sukhatvaduhkhatvavyapadesadarsanat tatprasāda vasādā veva sukhaduhkarupā vityarthah. rāmānuja tika on *Nyāyasiddhānjana*, *Buddhipariccheda*. Ranga-. Though this view is defended here and elsewhere in *Atmasiddhi*, it cannot be considered to be his final view, for, later on, he says that all reference to certainty, doubt, pleasure, pain and the like has for its object either same particular form of contact of knowledge with its object or knowledge possessing that contact. cf. *Nyāyasiddhānjana*, *Buddhipariccheda* sukhaduhkheca natmadharmau ityāditu vaibhavena matantareņa vā abhihitam anyathā kathamevam upasamhārārambhe brüyāt ⚫tadevam atmasvabbāvabhūtasya caitanyasya visayasamŝleşavidaeşagocara eva niscayasamsayadi vyavahārabhedah tadviseṣabhāji caitanyevā. Rāmānuja says, in *Vedarthasamgraha*, that knowledge, which is in contact with a particular object, and which is considered the cause of pleasure or pain, is really pleasure or pain itself and not its cause. Besides knowledge, nothing else which could be called pleasure or pain is noticed.. yena vişayaviseşeņa viseşitam jñānam sukhasya janakamity abhimatam tadviṣayajñānameva sukham tadatireki padarthäntaram nopalabhyate "
 \*The reading tatcalanam found in the Chowkamba and Telugu editions is manifestly wrong; it has been altered into cetaścalanam. If, however, the original reading must stand, the sentence "bhūtaduḥkhajñāne na taccalanam sokaḥ" must come after and not precede the sentence "agamitajjñā nena cetașcalanam bhayam."
 </details>
 
@@ -3206,12 +3232,12 @@ The Bhatta view again:-
 
 <details><summary>English</summary>
 
-(Here is yet another attempt to show that the self is open to mental perception). A consciousness, like the following: 'I perceive the pot' posited to exist on the strength of scriptural references to the awareness of the perceiver,[^80_145] by those whose intellect has been blinded by excessive faith in their own system, must be said to exist on some occasions (at least); for (often) only the several objects which are near the senses are apprehended (and not the self).
+(Here is yet another attempt to show that the self is open to mental perception). A consciousness, like the following: 'I perceive the pot' posited to exist on the strength of scriptural references to the awareness of the perceiver,[F80_145] by those whose intellect has been blinded by excessive faith in their own system, must be said to exist on some occasions (at least); for (often) only the several objects which are near the senses are apprehended (and not the self).
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^80_145]: cf. tadātmānamevävet aham Brahmāsmi, Brh. up. I. iv. 10.
+[F80_145]: cf. tadātmānamevävet aham Brahmāsmi, Brh. up. I. iv. 10.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3247,12 +3273,12 @@ Such a consciousness
 
 <details><summary>English</summary>
 
-[[P81]] pertains to the self as established by mental perception, and which is associated with a knowledge, whose existence is inferred from the quality found in the object (known)—a quality which is occasional, which is related to the soul, such as, *prakatya* and *prakāŝa*.[^81_146]
+[[P81]] pertains to the self as established by mental perception, and which is associated with a knowledge, whose existence is inferred from the quality found in the object (known)—a quality which is occasional, which is related to the soul, such as, *prakatya* and *prakāŝa*.[F81_146]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^81_146]: Briefly stated, this view maintains that on some occasions, at least, we get a consciousness like 'I perceive the pot'; it involves three factors-the knower, the knowledge and the pot. Of these, the second is inferred from the illumination (*prākatya*) found in the object known; and the third is directly perceived by the outer senses. Regarding the 'I', as it is beyond the reach of the external senses, and as it has already been shown that it is not open to inference, it must, by a process of elimination, be concluded that it is open to mental perception.
+[F81_146]: Briefly stated, this view maintains that on some occasions, at least, we get a consciousness like 'I perceive the pot'; it involves three factors-the knower, the knowledge and the pot. Of these, the second is inferred from the illumination (*prākatya*) found in the object known; and the third is directly perceived by the outer senses. Regarding the 'I', as it is beyond the reach of the external senses, and as it has already been shown that it is not open to inference, it must, by a process of elimination, be concluded that it is open to mental perception.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3427,12 +3453,12 @@ Besides, the view that the soul is open to mental perception is refuted by the v
 
 <details><summary>English</summary>
 
-If it be said that knowledge is inferred without any reference to the self, then, between what is known by oneself and what is apprehended by others there would have to be no distinction.[^81_147]
+If it be said that knowledge is inferred without any reference to the self, then, between what is known by oneself and what is apprehended by others there would have to be no distinction.[F81_147]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^81_147]: Every one of the statements made by the opponent is refuted. First, it is shown that the knowledge of a perceiver cannot be occasional, and that, in fact, all cognitions of objects involve, in addition, the apprehension of the self and knowledge. Next, it is pointed out that knowledge cannot be inferred with the aid of prakatya. Lastly, the attention of the opponent is drawn to an inconsistency in his argument. He must admit that when knowledge is inferred, it is necessarily inferred as related to the self. Hence, in the very act of inferring knowledge, the self also is apprehended; and it is futile to talk of the self being open to mental perception.
+[F81_147]: Every one of the statements made by the opponent is refuted. First, it is shown that the knowledge of a perceiver cannot be occasional, and that, in fact, all cognitions of objects involve, in addition, the apprehension of the self and knowledge. Next, it is pointed out that knowledge cannot be inferred with the aid of prakatya. Lastly, the attention of the opponent is drawn to an inconsistency in his argument. He must admit that when knowledge is inferred, it is necessarily inferred as related to the self. Hence, in the very act of inferring knowledge, the self also is apprehended; and it is futile to talk of the self being open to mental perception.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3589,12 +3615,12 @@ Indeed, the manifestation of one object cannot be the manifestation of another; 
 
 <details><summary>English</summary>
 
-Further, at the time objects are presented, even knowledge itself, one on which the very distinction of the respective shapes of objects depends, is altogether hidden from view, even as the senses and the like (remain hidden).[^82_148]
+Further, at the time objects are presented, even knowledge itself, one on which the very distinction of the respective shapes of objects depends, is altogether hidden from view, even as the senses and the like (remain hidden).[F82_148]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^82_148]: When objects are known, knowledge which is responsible for bringing to light the respective shapes of objects is not itself revealed; just as when things are perceived, the senses which are the instruments of perception are themselves not cognised. While knowledge itself remains unmanifested, there is absolutely no room for the presentation of its substrate, the self.
+[F82_148]: When objects are known, knowledge which is responsible for bringing to light the respective shapes of objects is not itself revealed; just as when things are perceived, the senses which are the instruments of perception are themselves not cognised. While knowledge itself remains unmanifested, there is absolutely no room for the presentation of its substrate, the self.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3673,12 +3699,12 @@ The Prabhakara position clarified while refuting the Bhāṭṭa view:-
 
 <details><summary>English</summary>
 
-[[P83]] If that be so,[^83_149] let it be granted that the self is manifested as the knower at the time every object is apprehended.
+[[P83]] If that be so,[F83_149] let it be granted that the self is manifested as the knower at the time every object is apprehended.
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^83_149]: If the consciousness of the self as the perceiver in every cognition of objects is not necessary for accounting for the distinction between objects known by oneself and those known by others, at any rate, on the ground that knowledge which is self-luminous has the quality of revealing everything, it should be admitted that, when it reveals objects, it manifests the self also.
+[F83_149]: If the consciousness of the self as the perceiver in every cognition of objects is not necessary for accounting for the distinction between objects known by oneself and those known by others, at any rate, on the ground that knowledge which is self-luminous has the quality of revealing everything, it should be admitted that, when it reveals objects, it manifests the self also.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3720,12 +3746,12 @@ The self-luminosity of knowledge has necessarily to be admitted, because the ref
 
 <details><summary>English</summary>
 
-How knowledge never fails to be manifest has been elaborately dealt with in the *Prathamādhikaraṇa*.[^83_150] Hence, it is needless here to refer to the view (that knowledge depends upon something else for its manifestation) and refute the same.
+How knowledge never fails to be manifest has been elaborately dealt with in the *Prathamādhikaraṇa*.[F83_150] Hence, it is needless here to refer to the view (that knowledge depends upon something else for its manifestation) and refute the same.
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^83_150]: The elaborate treatment of the nature of jñana set forth in Prathamadhikarana of Nathamuni's *Nyaya-tattvā*-sāstra is, unfortunately, not available. But there are some extracts from this work in Vedanta Dešika's *Nyāyasidhānjana*, cf. 'Nyayatattvetu Prathamadhikarane lakṣaṇāntarāņi bahuni duşayitva "atyantavegitatyanta sa kṣmyam nirbhara'a thatā svasatākāla bhāvyāptiḥ jñāne lakṣma catuștayam" iti svoktalakṣapopasamhārah kṛtah' Buddhipariccheda, p. 249.
+[F83_150]: The elaborate treatment of the nature of jñana set forth in Prathamadhikarana of Nathamuni's *Nyaya-tattvā*-sāstra is, unfortunately, not available. But there are some extracts from this work in Vedanta Dešika's *Nyāyasidhānjana*, cf. 'Nyayatattvetu Prathamadhikarane lakṣaṇāntarāņi bahuni duşayitva "atyantavegitatyanta sa kṣmyam nirbhara'a thatā svasatākāla bhāvyāptiḥ jñāne lakṣma catuștayam" iti svoktalakṣapopasamhārah kṛtah' Buddhipariccheda, p. 249.
 </details>
 
 <details><summary>मूलम्</summary>
