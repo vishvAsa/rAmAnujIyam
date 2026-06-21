@@ -3634,7 +3634,7 @@ If it be said that knowledge is inferred without any reference to the self, then
 (इति प्राभाकरीयं स्वपक्षसाधनम्)
 </details>
 
-#### भाट्ट-प्रत्युक्तिः
+##### स्व-परेन्द्रिय-भेदतः?
 <details><summary>विषयः</summary>
 
 The Bhāṭṭa rejoinder:-
@@ -3643,7 +3643,8 @@ The Bhāṭṭa rejoinder:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु कथम् इव ग्राहकानवभासे स्व-पर-वेद्ययोर् अनतिशय-प्रसङ्गः?
+ननु कथम् इव ग्राहकानवभासे  
+स्व-पर-वेद्ययोर् अनतिशय-प्रसङ्गः?
 </details>
 
 <details><summary>English</summary>
@@ -3664,7 +3665,9 @@ The Bhāṭṭa rejoinder:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि ग्राहक-सिद्धि-निबन्धनः स्व-पर-वेद्य-विशेषः; स्व-समवेत-विषय-बोध-जन्मना पर-समवेत-बोध-जन्मना च तद्-विशेषोपपत्तेः ।
+न हि ग्राहक-सिद्धि-निबन्धनः स्व-पर-वेद्य-विशेषः;  
+स्व-समवेत-विषय--बोध-जन्मना पर-समवेत--बोध-जन्मना च  
+तद्-विशेषोपपत्तेः ।
 </details>
 
 <details><summary>English</summary>
@@ -3679,7 +3682,8 @@ Indeed, the distinction of what is known by oneself from what is known by others
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व-पर-सम्बन्धि-बोध-विशेषोदव्यवस्थापि स्वीय-परकीयेन्द्रियार्थ-सन्निकर्षादि-ज्ञान-हेतु-सामग्री-भेद-निबन्धना ।
+स्व-पर-सम्बन्धि-- बोध-विशेषोदय-व्यवस्था ऽपि  
+स्वीय-परकीयेन्द्रियार्थ-सन्निकर्षादि-- ज्ञान-हेतु-सामग्री-भेद-निबन्धना ।
 </details>
 
 <details><summary>English</summary>
@@ -3689,17 +3693,23 @@ This demarcation, too, in the birth of the several items of knowledge of objects
 
 <details><summary>मूलम्</summary>
 
-स्वपरसम्बन्धिबोधविशेषोदव्यवस्थापि स्वीयपरकीयेन्द्रियार्थसन्निकर्षादिज्ञानहेतुसामग्रीभेदनिबन्धना ।
+स्वपरसम्बन्धिबोधविशेषोदयव्यवस्थापि स्वीयपरकीयेन्द्रियार्थसन्निकर्षादिज्ञानहेतुसामग्रीभेदनिबन्धना ।
 </details>
 
+##### नात्म-प्रकाशः?
+###### न ज्ञानय् आत्म-प्रकाशापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च आत्म-सिद्धिर् अपि तत्-सामग्र्य्-अनुप्रवेशम् अर्हति; इन्द्रियादेर् इव अनवभासमानस्यैव हेतुत्व-सम्भवात् ।
+न चात्म-सिद्धिर् अपि  
+तत्+++(→ज्ञान)+++-सामग्र्य्-अनुप्रवेशम् अर्हति;  
+इन्द्रियादेर् इवानवभासमानस्यैव +++(आत्मनो ज्ञान-)+++हेतुत्व-सम्भवात् ।
 </details>
 
 <details><summary>English</summary>
 
-It cannot be said that the manifestation of the self too deserves to be included among the causes of knowledge; for in the manner of the senses and the like, it (i e., the self) may act as the cause (of knowledge) without itself being manifest.
+It cannot be said that the manifestation of the self too deserves to be included among the causes of knowledge;  
+for in the manner of the senses and the like,  
+it (i e., the self) may act as the cause (of knowledge) without itself being manifest.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3710,12 +3720,14 @@ It cannot be said that the manifestation of the self too deserves to be included
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-आत्मनि बोधोदये आत्म-प्रकाशस्य हेतुत्वं निरस्यति प्रसङ्गतः **न चात्मे**ति ।
+आत्मनि बोधोदये  
+आत्म-प्रकाशस्य हेतुत्वं निरस्यति प्रसङ्गतः **न चात्मे**ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च विषय-बोध एव आत्म-बोध इति साम्प्रतम् ।
+न च विषय-बोध एव आत्म-बोध  
+इति साम्प्रतम् ।
 </details>
 
 <details><summary>English</summary>
@@ -3736,7 +3748,8 @@ It is not right to maintain that the manifestation of the object is itself the m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न ह्य् अर्थान्तर-सिद्धिर् अर्थान्तरस्य सिद्धिर् भवति, अतिप्रसङ्गात् ।
+न ह्य् अर्थान्तर-सिद्धिर् अर्थान्तरस्य सिद्धिर् भवति,  
+अतिप्रसङ्गात् ।
 </details>
 
 <details><summary>English</summary>
@@ -3755,9 +3768,12 @@ Indeed, the manifestation of one object cannot be the manifestation of another; 
 अतिप्रसङ्गात् पट-बोध-सामग्र्या घटादि-बोध-प्रसङ्गात् ।
 </details>
 
+###### रूपादि-प्रकाशोऽपि न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च यद्-अधीना भावानां रूप-भेद-व्यवस्था, तद् अपि हि संवेदनं तदानीं निलीन-रूपम् एवेन्द्रियादि-वत् ।
+अपि च यद्-अधीना भावानां रूप-भेद-व्यवस्था,  
+तद् अपि हि संवेदनं तदानीं निलीन-रूपम् एव  
+इन्द्रियादिवत् ।
 </details>
 
 <details><summary>English</summary>
@@ -3767,7 +3783,10 @@ Further, at the time objects are presented, even knowledge itself, one on which 
 
 <details><summary>English - Notes</summary>
 
-[F82_148]: When objects are known, knowledge which is responsible for bringing to light the respective shapes of objects is not itself revealed; just as when things are perceived, the senses which are the instruments of perception are themselves not cognised. While knowledge itself remains unmanifested, there is absolutely no room for the presentation of its substrate, the self.
+[F82_148]: When objects are known, knowledge which is responsible for bringing to light the respective shapes of objects is not itself revealed;  
+just as when things are perceived, the senses which are the instruments of perception are themselves not cognised.  
+While knowledge itself remains unmanifested,  
+there is absolutely no room for the presentation of its substrate, the self.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3783,7 +3802,8 @@ Further, at the time objects are presented, even knowledge itself, one on which 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतस् तु पुनः तद्-आश्रयस्य आत्मनः प्रतिभास-प्रसक्तिः?
+कुतस् तु पुनः  
+तद्-आश्रयस्य +आत्मनः प्रतिभास-प्रसक्तिः?
 </details>
 
 <details><summary>English</summary>
@@ -3796,9 +3816,16 @@ Further, at the time objects are presented, even knowledge itself, one on which 
 कुतस्तु पुनः तदाश्रयस्यात्मनः प्रतिभासप्रसक्तिः?
 </details>
 
+###### अर्वाचीन-प्रतिक्षेपः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आहुः — इदमहं जानामीति त्रितयावभासः सार्वत्रिकः, इति, तद् अप्य् अनुभवानारूढम् एवानन्तरम् एव प्रतिक्षिप्तम् इति ।
+यद् आहुः —  
+
+> "इदम् अहं जानामी"ति त्रितयावभासः सार्वत्रिकः, 
+
+इति,  
+तद् अप्य् अनुभवानारूढम् एव   
+अनन्तरम् एव प्रतिक्षिप्तम् इति ।
 </details>
 
 <details><summary>English</summary>
@@ -3832,7 +3859,7 @@ Even the contention of some that the threefold manifestation occurs everywhere t
 (इति भाट्टेन प्राभाकरमतदूषणम्)
 </details>
 
-#### प्राभाकर-मतम्
+#### ग्राहकतया सिद्धिः
 <details><summary>विषयः</summary>
 
 The Prabhakara position clarified while refuting the Bhāṭṭa view:-
@@ -3865,9 +3892,12 @@ The Prabhakara position clarified while refuting the Bhāṭṭa view:-
 ज्ञानस्यैवायं स्वभावः यत् स्व-विषयस्येव स्व-स्वाश्रय-प्रकाश-हेतुत्वम् अपीति पुनः प्राभाकरः शङ्कते **अस्तु तर्ही**ति । ग्राहकतयैव ज्ञानाश्रयतयैव । विषय-बोध-सामग्र्या विषय-ज्ञानम् एव जातम् । तच् च ज्ञानं स्व-सामर्थ्याद् एव अविषयम् अपि स्वं स्वाश्रयं च प्रकाशयतीति भावः ।
 </details>
 
+##### संवित् स्वयम्-प्रकाशा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभ्युपगन्तव्या हि संविदः स्वतःसिद्धिः, सर्व-प्रकार-साधनान्तर-निराकरणात्, सत्याश् च तस्याः कदाचिद् अनवभासादर्शनाच् च ।
+अभ्युपगन्तव्या हि संविदः स्वतः-सिद्धिः,  
+सर्व-प्रकार-साधनान्तर-निराकरणात्,  
+सत्याश् च तस्याः कदाचिद् अनवभासादर्शनाच् च ।
 </details>
 
 <details><summary>English</summary>
@@ -3888,7 +3918,9 @@ The self-luminosity of knowledge has necessarily to be admitted, because the ref
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा च संविदः प्रकाशाव्यभिचारः, तथा प्रपञ्चितं प्रथमाधिकरण इति नात्रोपक्षिप्य प्रतिक्षेप्तव्यम् ।
+यथा च संविदः प्रकाशाव्यभिचारः,  
+तथा प्रपञ्चितं +++(नाथमुनेर् न्याय-तत्त्वे)+++ प्रथमाधिकरण इति  
+नात्रोपक्षिप्य प्रतिक्षेप्तव्यम् ।
 </details>
 
 <details><summary>English</summary>
@@ -3912,9 +3944,12 @@ How knowledge never fails to be manifest has been elaborately dealt with in the 
 **प्रपञ्चित** पिति । न्याय-तत्त्व-शास्त्रे इति शेषः । **नात्रे**त्यादि । प्रकाश-व्यभिचारित्व-मतम् उपक्षिप्य ज्ञानस्य तत् नात्र निराकरणीयम् इत्य् अर्थः ।
 </details>
 
+##### संविदा ऽर्थान्तर-प्रकाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सतो ऽपि प्रमेय-जातस्य स्वापादिसमये ऽनुपलब्धेर् अभ्युपगतं तावत् संविदः तत्-साधकत्वम् ।
+सतो ऽपि प्रमेय-जातस्य  
+स्वापादि-समये ऽनुपलब्धेर्  
+अभ्युपगतं तावत् संविदस् तत्+++(→प्रमेय)+++-साधकत्वम् ।
 </details>
 
 <details><summary>English</summary>
@@ -3935,7 +3970,8 @@ For the reason that during states, such as sleep, even though collections of obj
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः कॢप्तअर्थान्तर-साधन-भावया तयैवाऽत्मनो ऽपि सिद्धिर् अभ्युपगन्तुं न्याय्या ।
+अतः कॢप्तार्थान्तर-साधन-भावया तयैव +++(संविदा)+++  
+आत्मनो ऽपि सिद्धिर् अभ्युपगन्तुं न्याय्या ।
 </details>
 
 <details><summary>English</summary>
@@ -3978,7 +4014,14 @@ The Prābhākārā view that in deep sleep and mokşa there is no self-conscious
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् तु विषय-वित्त्युपरमे ऽपि स्वाप-समये ऽयम् आत्मा प्रकाशत इति, तत्-उपपत्तिभिर् उपपद्यमानम् अपि यथा-प्रतीति व्यवहरतां न चित्तम् अनुरञ्जयति ।
+यत् तु 
+
+> विषय-वित्त्य्-उपरमे ऽपि स्वाप-समये  
+ऽयम् आत्मा प्रकाशत 
+
+इति, तत्-उपपत्तिभिर् उपपद्यमानम् अपि  
+यथा-प्रतीति व्यवहरतां  
+न चित्तम् अनुरञ्जयति ।
 </details>
 
 <details><summary>English</summary>
