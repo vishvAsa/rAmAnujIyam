@@ -508,7 +508,7 @@ Or, the thesis to be proved (instead of being 'Desire and the like are not the q
 
 <details><summary>मूलम्</summary>
 
-विमतिपदास्पदेभ्यः शरीरादिभ्योर्ऽथान्तरगुणा इच्छादय इति वा प्रतिज्ञा ।
+विमतिपदास्पदेभ्यः शरीरादिभ्योऽर्थान्तरगुणा इच्छादय इति वा प्रतिज्ञा ।
 </details>
 
 
@@ -558,7 +558,7 @@ Positive concomitance too may be shown in a somewhat general way. That which is 
 
 <details><summary>मूलम्</summary>
 
-सामान्येन वान्वयः प्रदर्शनीयःयो यद्गुणभावापवादकप्रमाणवत्त्वे सति गुणः, स ततोर्ऽथान्तरस्य गुणः; यथा पृथिव्यादिभ्यः शब्द इति आकाशसिद्धिवदात्मसिद्धिरिति ।
+सामान्येन वान्वयः प्रदर्शनीयःयो यद्गुणभावापवादकप्रमाणवत्त्वे सति गुणः, स ततोऽर्थान्तरस्य गुणः; यथा पृथिव्यादिभ्यः शब्द इति आकाशसिद्धिवदात्मसिद्धिरिति ।
 </details>
 
 
@@ -897,7 +897,7 @@ Even the thesis (that desire and the like) are the qualities of some entity othe
 
 <details><summary>मूलम्</summary>
 
-पृथिव्यादिभ्योर्ऽथान्तरगुणत्वप्रतिज्ञापि द्रव्यान्तराप्रसिद्धेरप्रसिद्धविशेषणा ।
+पृथिव्यादिभ्योऽर्थान्तरगुणत्वप्रतिज्ञापि द्रव्यान्तराप्रसिद्धेरप्रसिद्धविशेषणा ।
 </details>
 
 
@@ -3660,7 +3660,7 @@ The Bhāṭṭa rejoinder:-
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-भाट्टः प्रतिक्षिपति **ननु कथम्** इति । स्वस्मै भासमानत्वरूपो विशेषोर्ऽथस्य तज् ज्ञानस्य स्वनिष्ठत्वाद् एव घटते तज् ज्ञाने स्वस्याभाने ऽपि । विषय-बोधाश्रयत्वम् एव स्वस्यातिशयोपर्वो विषय-वित्ति-काल इति च भावः । नच् वित्ति-वेदित्रोर् अग्रहे पूर्वोक्तः संशयस् तद्-अवस्थः इति वाच्यम् । स्व-ज्ञान-जार्थ-धर्म-प्रकाशस्य स्वं प्रति प्रत्यक्षत्वाद् एव मम प्रकाशते न वेति संशयस्यानवकाशात् । ज्ञान-फल-प्रकाशेन झटित्य् एव ज्ञानस्यानुमानाच् च मम ज्ञानं जातम् अन्यस्य वेत्यादेर् अप्य् अप्रसक्तेः । नैयायिक-प्रक्रियया तु कार्य-नाश्यत्वाज् ज्ञानस्य द्विक्षणावस्थायित्वाद् अनुव्यवसाय-बलाद् एव न निरुक्त-संशयादि-प्रसङ्गो ज्ञान-ज्ञात्रोर् अनवभासे ऽपि विषय-वित्ताविति च बोध्यम् ।
+भाट्टः प्रतिक्षिपति **ननु कथम्** इति । स्वस्मै भासमानत्वरूपो विशेषोऽर्थस्य तज् ज्ञानस्य स्वनिष्ठत्वाद् एव घटते तज् ज्ञाने स्वस्याभाने ऽपि । विषय-बोधाश्रयत्वम् एव स्वस्यातिशयोपर्वो विषय-वित्ति-काल इति च भावः । नच् वित्ति-वेदित्रोर् अग्रहे पूर्वोक्तः संशयस् तद्-अवस्थः इति वाच्यम् । स्व-ज्ञान-जार्थ-धर्म-प्रकाशस्य स्वं प्रति प्रत्यक्षत्वाद् एव मम प्रकाशते न वेति संशयस्यानवकाशात् । ज्ञान-फल-प्रकाशेन झटित्य् एव ज्ञानस्यानुमानाच् च मम ज्ञानं जातम् अन्यस्य वेत्यादेर् अप्य् अप्रसक्तेः । नैयायिक-प्रक्रियया तु कार्य-नाश्यत्वाज् ज्ञानस्य द्विक्षणावस्थायित्वाद् अनुव्यवसाय-बलाद् एव न निरुक्त-संशयादि-प्रसङ्गो ज्ञान-ज्ञात्रोर् अनवभासे ऽपि विषय-वित्ताविति च बोध्यम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4039,3 +4039,101 @@ The view that even when knowledge of objects is absent in deep sleep the self is
 
 स्वापे ऽप्य् आत्मनो ज्ञानम् अस्तीति मतम् अनूद्य खण्डयति **यत्तु** इति । **त**दिति । सुखम् अहम् अस्वाप्सम् इत्य् आदि-प्रतिसन्धानस्य स्वापे आत्म-प्रकाशम् अन्तरानुपपद्यमानत्व-लक्षण-युक्ति-युक्तम् अपि स्वपो आत्मनः प्रकाशमानत्वं नानुभव-मात्र-शरणानां हृद्यं भवतीत्य् अर्थः । उपपद्यमानम् अपीत्य् अपि नोपपत्तिर् अपि । प्रतिसन्धानस्यान्यथैवोपपत्तेर् इति स्फोर्यते । अन्यथा-सिद्धिर् अग्रे प्रपञ्चयिष्यते मूल एव ।
 </details>
+
+###### असंसारिता-प्रसङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.18 अपवृक्तस्य+++(=समाप्तस्य → मुक्तस्य)+++ तु ज्ञानं  
+हेत्व्-अभावात् न सम्भवि ।  
++++(मुक्ति-समयक-ज्ञान–)+++ नित्यत्वे नित्य-मुक्तिः स्याद् +++(ततः संसरणाभावोऽपि!)+++  
++++(मोक्ष-साधन-प्रशंसापराः)+++ अर्थवादास् तथोक्तयः ॥
+</details>
+
+<details><summary>English</summary>
+
+[[P84]] 1.18 Again, to the released soul knowledge cannot arise, as its causes do not prevail (in that state).  
+If it be contended that the knowledge which obtains in the state of release is eternal,  
+being independent of causal conditions,  
+then, there must be perpetual release;  
+and those scriptural passages (which teach the existence of jñāna in this state) must be considered to be *arthavādas*.[^84_151]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^84_151]: Arthavādas are those scriptural passages which do not directly convey positive or negative injunctions, but which, by extolling prescribed or censuring forbidden acts, aim at infusing in the mind of the listener a keen desire to engage in his sacred duties at the earliest opportunity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.18 अपवृक्तस्य तु ज्ञानं हेत्वभावान्न संभवि ।  
+नित्यत्वे नित्यमुक्तिः स्यादर्थवादास्तथोक्तयः ॥
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+स्वाप आत्मनः प्रकाशं निषिध्य मुक्तावपि तं निषेधति **अपवृक्तस्ये**ति । अपवृक्तस्यमुक्तस्य ।  
+मुक्तज्ञानस्य नित्यत्वम् अस्त्व् इति चेत्  
+तत्राह **नित्यत्वे** इति ।  
+संसरणाभाव-प्रसङ्गः फलितोऽत्र । ननु तर्हि मुक्तौ सार्वज्ञ्यपरश्रुतीनां का गतिः? तत्राह **अर्थवादा** इति ।  
+अज्ञानाकार्याभाव??-निमित्तका मोक्ष-साधन-प्रशंसापराः सार्वज्ञ्यादिश्रुतय इत्यर्थः ॥१८ ॥
+</details>
+
+###### करणाभावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्धूत-निखिल-करण-कलेवर-- ज्ञान-कर्म-वासनानुबन्धस्य अपवृक्तस्य  
+न खलु स्व-पर-संवेदनोदय-निबन्धनं किञ्चित् सम्भाव्यते ।
+</details>
+
+<details><summary>English</summary>
+
+There is no possibility of the occurrence of any cause which could account for the birth of knowledge concerning himself and others to the released soul, who is devoid of all senses, body and contact with impressions of knowledge and actions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+निर्धूतनिखिलकरणकलेवरज्ञानकर्मवासनाअनुबन्धस्यापवृक्तस्य न खलु स्वपरसंवेदनोदयनिबन्धनं किञ्चित्सम्भाव्यते ।
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+श्लोकार्थमेव प्रपञ्चयति **निर्धूते** त्यादिना । ज्ञानवासना, कर्मवासना चानुबन्धः । निरस्तसमस्तदेहेन्द्रियवासनानुबन्धस्येत्यर्थः । 
+
+**स्वपरे**ति । स्वस्वरूपविषयकस्याऽर्थान्तरविषयकस्य वा ज्ञानस्योत्पादकम्  
+इत्यर्थः । 
+</details>
+
+###### मनो-नित्यत्वेऽपि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च 
+
+> मनसो नित्येन्द्रियत्वेन  
+तत्-संयोगाद् एव तदा ज्ञानं जन्यत  
+
+इति युक्तम्;  
+स्व-रूपतो गगनवद् नित्यस्यापि सतस्  
+तस्येन्द्रिय-भावेन ज्ञानोत्पादकत्वस्य  
++++(कर्मापराख्य–)+++ धर्माधर्मावरोध-निबन्धनत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+And it is not right to maintain that, as the mind (manas) is an eternal organ, through its conjunction itself knowledge is caused in that state; for, although, like ether, mind is, in its essential nature, eternal, it being the originator of jñāna by acting as an organ is dependent on its association with merit and demerit.[^84_152]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^84_152]: Even though the organ of hearing is nothing but ether (*akāsa*) it is only the ether which is limited by the winding walls of the auditory apparatus (karnasiskuli) that can function as a sense-organ and possess the capacity to appreciate sounds. In the same way, though manas is eternal, it can act as the originator of knowledge not always, but only when associated with merit and demerit.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नच मनसो नित्येन्द्रियत्वेन तत्संयोगादेव तदा ज्ञानं जन्यत इति युक्तम्; स्वरूपतो गगनवत्नित्यस्यापि सतस्तस्येन्द्रियभावेन ज्ञानोत्पादकत्वस्य धर्माधर्मावरोधनिबन्धनत्वात् ।
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**धर्माधर्मे**ति । अदृष्टसहकाराधीनत्वादित्यर्थः ।
+</details>
+

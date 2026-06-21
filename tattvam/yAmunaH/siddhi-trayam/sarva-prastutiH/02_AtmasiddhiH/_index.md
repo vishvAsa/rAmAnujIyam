@@ -10,62 +10,6 @@ title = "+०२ आत्मसिद्धिः"
 
 ## जीव-प्रमाणम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-1.18 अपवृक्तस्य तु ज्ञानं हेत्वभावात् न सम्भवि ।  
-नित्यत्वे नित्य-मुक्तिः स्याद् अर्थवादास् तथोक्तयः ॥
-</details>
-
-<details><summary>English</summary>
-
-[[P84]] 1.18 Again, to the released soul knowledge cannot arise, as its causes do not prevail (in that state). If it be contended that the knowledge which obtains in the state of release is eternal, being independent of causal conditions, then, there must be perpetual release; and those scriptural passages (which teach the existence of jñāna in this state) must be considered to be *arthavādas*.[^84_151]
-</details>
-
-<details><summary>English - Notes</summary>
-
-[^84_151]: Arthavādas are those scriptural passages which do not directly convey positive or negative injunctions, but which, by extolling prescribed or censuring forbidden acts, aim at infusing in the mind of the listener a keen desire to engage in his sacred duties at the earliest opportunity.
-</details>
-
-<details><summary>मूलम्</summary>
-
-1.18 अपवृक्तस्य तु ज्ञानं हेत्वभावान्न संभवि ।  
-नित्यत्वे नित्यमुक्तिः स्यादर्थवादास्तथोक्तयः ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-निर्धूत-निखिल-करण-कलेवर-ज्ञान-कर्म-वासनानुबन्धस्य अपवृक्तस्य न खलु स्व-पर-संवेदनोदय-निबन्धनं किञ्चित् सम्भाव्यते ।
-</details>
-
-<details><summary>English</summary>
-
-There is no possibility of the occurrence of any cause which could account for the birth of knowledge concerning himself and others to the released soul, who is devoid of all senses, body and contact with impressions of knowledge and actions.
-</details>
-
-<details><summary>मूलम्</summary>
-
-निर्धूतनिखिलकरणकलेवरज्ञानकर्मवासनाअनुबन्धस्यापवृक्तस्य न खलु स्वपरसंवेदनोदयनिबन्धनं किञ्चित्सम्भाव्यते ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-न च मनसो नित्येन्द्रियत्वेन तत्-संयोगाद् एव तदा ज्ञानं जन्यत इति युक्तम्; स्वरूपतो गगन-वद् नित्यस्यापि सतस् तस्येन्द्रिय-भावेन ज्ञानोत्पादकत्वस्य धर्माधर्मावरोध-निबन्धनत्वात् ।
-</details>
-
-<details><summary>English</summary>
-
-And it is not right to maintain that, as the mind (manas) is an eternal organ, through its conjunction itself knowledge is caused in that state; for, although, like ether, mind is, in its essential nature, eternal, it being the originator of jñāna by acting as an organ is dependent on its association with merit and demerit.[^84_152]
-</details>
-
-<details><summary>English - Notes</summary>
-
-[^84_152]: Even though the organ of hearing is nothing but ether (*akāsa*) it is only the ether which is limited by the winding walls of the auditory apparatus (karnasiskuli) that can function as a sense-organ and possess the capacity to appreciate sounds. In the same way, though manas is eternal, it can act as the originator of knowledge not always, but only when associated with merit and demerit.
-</details>
-
-<details><summary>मूलम्</summary>
-
-नच मनसो नित्येन्द्रियत्वेन तत्संयोगादेव तदा ज्ञानं जन्यत इति युक्तम्; स्वरूपतो गगनवत्नित्यस्यापि सतस्तस्येन्द्रियभावेन ज्ञानोत्पादकत्वस्य धर्माधर्मावरोधनिबन्धनत्वात् ।
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1867,7 +1811,7 @@ Even on the doctrine that consciousness itself becomes the soul, owing to the ex
 
 <details><summary>मूलम्</summary>
 
-नच चितिमात्रात्मवादेऽपि तस्यागन्तुकविषयसम्बन्धे बोधत्वमध्यारोप्य बोद्धृत्वसमर्थनसाधीयः, सम्बन्धस्योभयनिष्ठतयार्ऽथस्यापि बोद्धृत्वप्रसङ्गात् ।
+नच चितिमात्रात्मवादेऽपि तस्यागन्तुकविषयसम्बन्धे बोधत्वमध्यारोप्य बोद्धृत्वसमर्थनसाधीयः, सम्बन्धस्योभयनिष्ठतयाऽर्थस्यापि बोद्धृत्वप्रसङ्गात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1919,7 +1863,7 @@ Why (we ask) does the object stand in need of consciousness? And why, again, doe
 
 <details><summary>मूलम्</summary>
 
-किमर्थमर्थः चैतन्यमपेक्षते, चैतन्यं वार्ऽथम् ।
+किमर्थमर्थः चैतन्यमपेक्षते, चैतन्यं वाऽर्थम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2763,7 +2707,7 @@ If you were to say that remembrance would have to occur, (we reply) 'not so'; fo
 
 <details><summary>मूलम्</summary>
 
-यद्युच्येतमूर्च्छादावात्मानुभवाभ्युपगमेर्ऽथान्तरअनुभवइवैवमहमन्वभूवमिति परस्तात्स्मृतिः प्रसज्यत इति; तन्न, अवृतित्त्वात् ।
+यद्युच्येतमूर्च्छादावात्मानुभवाभ्युपगमेऽर्थान्तरअनुभवइवैवमहमन्वभूवमिति परस्तात्स्मृतिः प्रसज्यत इति; तन्न, अवृतित्त्वात् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4397,7 +4341,7 @@ Therefore, it is only on the admission that consciousness proceeds by way of the
 
 <details><summary>मूलम्</summary>
 
-अतश्चैतन्यस्यैवेन्द्रियद्वारार्ऽथसन्निकर्ष एव तद्भावानुविधानोपपत्तिः ।
+अतश्चैतन्यस्यैवेन्द्रियद्वाराऽर्थसन्निकर्ष एव तद्भावानुविधानोपपत्तिः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
