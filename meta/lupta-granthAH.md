@@ -46,6 +46,13 @@ But since Kashakrtsnas daivi mimamsa supposedly has sa vishnur aha hi and tam br
 - नाथमुनिः - 
   - न्याय-तत्त्वम्। श्रीभाष्ये केचिच् छ्लोका उदाहृताः। 
   - योग-रहस्यम्। 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Sukhaduḥkhādhikaraṇa is the sixth section of the first pāda of Nathamuni's Nyāyatattva-sastra, a work which is not extant now. Yamuna refers to a few other adhikaraṇas of this sastra. In fact, his Atmasiddhi may be regarded as a brief exposition of Nyayatattva. Compare Nyāyasiddhāňjana, Buddhipariccheda "Nyayatattva-prakaraṇam hi Atmasiddih".
+</details>
+
+
 - ईशाण्डान् - स्तोत्रम्। 
   - उल्लेखस्थानम् - **रहस्यत्रयसारः**
 - यामुनः - काश्मीरागम-प्रामाण्यम्, महा-पुरुष-निर्णयः। सिद्धित्रयस्य लुप्तभागाः। 
