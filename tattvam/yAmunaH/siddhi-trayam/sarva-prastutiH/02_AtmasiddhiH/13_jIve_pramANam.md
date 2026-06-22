@@ -4668,7 +4668,7 @@ It has already been shown that they are not open to mental perception; and the i
 </details>
 
 
-#### संविदः स्वतः-सिद्धिः?
+#### संविदः स्वतः-सिद्धिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुतस् तर्हि वित्ति-सिद्धिः? स्वतः एव ।
@@ -4705,7 +4705,7 @@ If so, how is knowledge manifested?
 स्वयम्प्रकाशा हि संवित् ।
 </details>
 
-#### पराधीन-सिद्धिः
+#### संविदः पराधीन-सिद्धिः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैवम् ।
@@ -4750,12 +4750,12 @@ it is not so; for, consciousness too cannot shine forth by its own aid, since, l
 स्वाश्रयात्माधीन-प्रकाशत्वाद् एव तस्मा एव प्रकाशमानत्वं संविदो घटत इति स्वतः-सिद्धत्वासिद्धिर् इति भावः ।
 </details>
 
-#### एकस्मै प्रकाशः
+##### एकस्मै प्रकाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वतः सिध्यन्ती च सा  
 किम् इति कञ्चिद् एव +++(ज्ञातरम्)+++ प्रति चकास्ति,  
-न सर्वान् प्रति ।
+न सर्वान् प्रति ?
 </details>
 
 <details><summary>English</summary>
@@ -4768,10 +4768,10 @@ How can self-consciousness, which, on your view is self-luminous, shine forth to
 स्वतःसिध्यन्ती च सा किमिति कञ्चिदेव प्रति चकास्ति, न सर्वान्प्रति ।
 </details>
 
-##### आत्मसम्बन्धतः
+###### आत्म-सम्बन्धतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तत्-समवायाद्" इति चेत्;  
+"तत्-समवायाद्" इति चेत् -  
 
 > यत्-समवायिनी हि या संवित्  
 तस्यैव सा चकास्ति, नेतरस्य,  
@@ -4786,7 +4786,15 @@ How can self-consciousness, which, on your view is self-luminous, shine forth to
 
 <details><summary>English</summary>
 
-It may be argued that because of its inherence in that particular self, (it shines forth to that self only). In other words, that consciousness which is inherent in a given self can manifest itself only to that self and not to others; for, it is not inherent in the latter. If so, (we reply) it amounts to admitting that the manifestation of consciousness is dependent upon the relation of consciousness to the self: for, the presence or absence of this manifestation is dependent respectively upon the presence or absence of this relation.
+It may be argued that because of its inherence in that particular self, (it shines forth to that self only).  
+In other words, that consciousness which is inherent in a given self can manifest itself  
+only to that self and not to others;  
+for, it is not inherent in the latter. 
+
+If so, (we reply) it amounts to admitting that the manifestation of consciousness  
+is dependent upon the relation of consciousness to the self:  
+for, the presence or absence of this manifestation  
+is dependent respectively upon the presence or absence of this relation.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4804,8 +4812,8 @@ It may be argued that because of its inherence in that particular self, (it shin
 
 यद्य् उच्येत — 
 
-> प्रकाश-स्वभावाया एव सत्याः  
-प्रतियोगि-विशेषावच्छेदायैव तद्-अपेक्षा,  
+> प्रकाश-स्वभावाया एव सत्याः +++(संविदः)+++  
+प्रतियोगि+++(→विषय)+++-विशेषावच्छेदायैव तद्+++(→आत्म)+++-अपेक्षा,  
 न स्वरूप-सिद्धय 
 
 इति; कुतः खल्वेष निश्चयः?
@@ -4813,7 +4821,8 @@ It may be argued that because of its inherence in that particular self, (it shin
 
 <details><summary>English</summary>
 
-If it be said that while consciousness is, in its essential nature, self-luminous, it still stands in need of this relation for being associated with the different correlates (*pratiyogin*) and not for its own manifestation: (we ask) how did you arrive at this conclusion?
+If it be said that while consciousness is, in its essential nature, self-luminous,  
+it still stands in need of this relation for being associated with the different correlates (*pratiyogin*) and not for its own manifestation: (we ask) how did you arrive at this conclusion?
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4824,12 +4833,19 @@ If it be said that while consciousness is, in its essential nature, self-luminou
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-पुनः परः शङ्कते **यद्युच्येते**ति । प्रतियोगी-विषयः , स एव विशेषः विशेषणम् , तदवच्छेदायैव - तत्सम्बन्धायैव , विषय-प्रकाशकत्वायैव इति यावत् । तदपेक्षा - आत्म-सम्बन्धापेक्षा । न तु स्व-प्रकाशाय इत्य् अर्थः । परिहरति **कुतः ।** एवं निश्चयो न सम्भवतीति यावत् ।
+पुनः परः शङ्कते **यद्युच्येते**ति ।  
+प्रतियोगी विषयः , स एव विशेषः विशेषणम् , तद्-अवच्छेदायैव - तत्सम्बन्धायैव , विषय-प्रकाशकत्वायैव इति यावत् ।  
+तद्-अपेक्षा - आत्म-सम्बन्धापेक्षा ।  
+न तु स्व-प्रकाशाय इत्य् अर्थः ।  
+परिहरति **कुतः ।**  
+एवं निश्चयो न सम्भवतीति यावत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि हि प्रतियोगि-निरपेक्षैव कदाचिद् आत्म-स्वरूपम् इव संवित् प्रकाशेत, तत एवम् अध्यवस्येमापि ।
+यदि हि प्रतियोगि+++(-विषय)+++-निरपेक्षैव  
+कदाचिद् आत्म-स्वरूपम् इव संवित् प्रकाशेत,  
+तत एवम् अध्यवस्येमापि ।
 </details>
 
 <details><summary>English</summary>
@@ -4850,7 +4866,7 @@ If at any time consciousness, like the soul, presents itself without depending u
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च तथा अस्ति ।
+न च तथा ऽस्ति ।
 </details>
 
 <details><summary>English</summary>
@@ -4871,7 +4887,9 @@ but such a presentation is not met with.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आश्रय-प्रतियोगि-सापेक्षैव संयोग-पुत्रत्वादेर् इव तस्याः स्वरूप-सत्तेति न पृथक्-सिद्ध्य्-उत्प्रेक्षावकाशः ।
+आश्रय-प्रतियोगि-सापेक्षैव संयोग-पुत्रत्वादेर् इव  
+तस्याः +++(संविदः)+++ स्व-रूप--सत्तेति  
+न पृथक्-सिद्ध्य्-उत्प्रेक्षाऽवकाशः ।
 </details>
 
 <details><summary>English</summary>
@@ -4892,7 +4910,12 @@ The very existence of consciousness, like that of the quality of being son or co
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्याः संविदः प्रकाश-व्यभिचाराभावात् स्वरूप-प्रयुक्तः प्रकाश इति चेत्, सत्याः किं तस्या आत्म-सम्बन्ध-व्यभिचारो ऽस्ति? ।
+> सत्याः संविदः प्रकाश-व्यभिचाराभावात्  
+स्वरूप-प्रयुक्तः प्रकाश 
+
+इति चेत्,  
+सत्याः किं तस्या  
+आत्म-सम्बन्ध-व्यभिचारो ऽस्ति? ।
 </details>
 
 <details><summary>English</summary>
@@ -4911,9 +4934,11 @@ If it be maintained that the manifestation of jñāna is dependent upon its very
 स्व-सत्ता-व्यापक-प्रकाशत्वेन स्व-प्रकाशत्वं स्यात् संविद इति पुनः शङ्कते **सत्या** इति । परिहरति **सत्या** इति । तदा चात्म-सम्बन्धस्य नियत-पूर्व-भावित्वाद् अपेक्षितत्वाच् च संवित्-प्रकाशे हेतुत्वम् एष्टव्यम् एवेति भावः ।
 </details>
 
+##### सुख-दुःखादि-स्वतः-सिद्धिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि चैवं सुख-दुःखादयो ऽपि त्वन्-मते स्वतः सिद्धाः स्युः ।
+अपि चैवं सुख-दुःखादयो ऽपि  
+त्वन्-मते स्वतः सिद्धाः स्युः ।
 </details>
 
 <details><summary>English</summary>
@@ -4934,7 +4959,9 @@ Further, if this were so, even pleasure, pain and the like would on your view, b
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि ते ऽपि सन्तो न प्रकाशन्ते ।
+न हि ते ऽपि  
+सन्तो न प्रकाशन्ते ।  
++++(प्रत्युत प्रकाशन्ते हि सन्तः। )+++
 </details>
 
 <details><summary>English</summary>
@@ -4947,9 +4974,13 @@ for when they exist, they never fail to be manifested.
 नहि तेऽपि सन्तो न प्रकाशन्ते ।
 </details>
 
+
+#### स्वयम्-प्रकाशानेक-वस्व्-अनपेक्षा?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ अर्थान्तर-साधकतया सर्व-वादि-सम्मतायाः संविद एव परं स्वयम्प्रकाशत्वम् आश्रितम् ।
+अथार्थान्तर-साधकतया  
+सर्व-वादि-सम्मतायाः संविद एव  
+परं स्वयम्-प्रकाशत्वम् आश्रितम् ।
 </details>
 
 <details><summary>English</summary>
@@ -4959,12 +4990,16 @@ If it is your intention to say that the quality of being self-luminous has been 
 
 <details><summary>मूलम्</summary>
 
-अथअर्थान्तरसाधकतया सर्ववादिसम्मतायाः संविद एव परं स्वयम्प्रकाशत्वमाश्रितम् ।
+अथ अर्थान्तरसाधकतया सर्ववादिसम्मतायाः संविद एव परं स्वयम्प्रकाशत्वमाश्रितम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तयैव तथाभूतया तद्-इतर-बाह्याभ्यन्तर-सकल-पदार्थ-सिद्ध्य्-उपपत्तेः किम् अनेक-स्वयम्प्रकाश-भावाभ्युपगमेनेति भावः?
+> तयैव तथा-भूतया  
+तद्-इतर-बाह्याभ्यन्तर-- सकल-पदार्थ-सिद्ध्य्-उपपत्तेः  
+किम् अनेक-स्वयम्-प्रकाश-भावाभ्युपगमेन
+
+इति भावः?
 </details>
 
 <details><summary>English</summary>
@@ -4975,4 +5010,304 @@ and if you were to ask where is the need for positing self-luminous entities, wh
 <details><summary>मूलम्</summary>
 
 तयैव तथाभूतया तदितरबाह्याभ्यन्तरसकलपदार्थसिद्ध्युपपत्तेः किमनेकस्वयम्प्रकाशभावाभ्युपगमेनेति भावः?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा सति
+</details>
+
+<details><summary>English</summary>
+
+Let the self alone which is admitted on all hands to be the witness (sakṣin) of all objects and their cognitions
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा सति
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+> ननु विषय-सम्बन्धस्येवात्म-सम्बन्धस्यापि संवित्-प्रकाशे ऽस्तु हेतुत्वम् ।  
+तावता न स्वयम्-प्रकाशत्वस्य हानिः ।  
+स्व-सजातीय-ज्ञानान्तरानपेक्ष-प्रकाशत्वात् तत्-सिद्धेः ।  
+आत्मनस् तु  
+न स्वयम्-प्रकाशत्वम् एष्टव्यं विषयस्येव ।  
+किन्तु बाह्यार्थ-प्रकाशकत्वेनेष्टस्य ज्ञानस्यैवाऽत्म-प्रकाशकत्वम् अपि कल्पनीयं लाघवाद्  
+
+इति पुनः शङ्कते गुरुः अथार्थान्तरेति । परिहरति तथा सतीति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.20 सर्वस्यार्थस्य तद्-वित्तेः  
+साक्षी सर्वत्र सम्मतः ।  
+आत्मैवास्तु स्वतःसिद्धः  
+किम् अनेकैस् तथाविधैः ॥
+</details>
+
+<details><summary>English</summary>
+
+1.20 be considered self-luminous: (and ask you in turn) where is the need for several entities of that description?
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.20 सर्वस्यार्थस्य तद्वित्तेः साक्षी सर्वत्र संमतः ।  
+आत्मैवास्तु स्वतःसिद्धः किमनेकैस्तथाविधैः ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**सर्वस्ये**ति । नाना-स्वयम्-प्रकाश-कल्पनायां गौरवे सति सर्वार्थानां सर्व-ज्ञानानां च साक्षात्कर्तुर् आत्मन एव स्व-प्रकाशत्वं कल्पनीयम् । न तु ज्ञानानाम् इत्य् अर्थः । विषयाणाम् इव ज्ञानानाम् अप्य् आत्मने प्रकाशमानत्वाद् आत्मैकः स्व-प्रकाशो भवतु । अन्ये सर्वे भवन्तु तद्-अधीन-प्रकाशा एवेति भावः ॥२० ॥
+</details>
+
+#### आत्म-स्वतः-प्रकाशत्वापेक्षा
+
+<details><summary>विषयः</summary>
+
+Even if prana is self-luminous, the soul does not depend on prana for its apprehension
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.21 किञ्च — 
+
+यो+++(→आत्मा)+++ यस्य+++(→ज्ञानस्य)+++ साक्षी तेनैव  
+तस्य सिद्धिर् न लौकिकी ।  
+अर्थस्येवार्थ-वित्तेर् अप्य्  
+आत्मा साक्षी हि लक्ष्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+[[P88]] 1.21 Moreover, the view that the revelation of what stands witness to a given entity is effected by that given entity itself is not supported by everyday experience. The soul is, indeed, found to be the witness of the knowledge of objects, even as it is the witness of objects.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.21 किंच- यो यस्य साक्षी तेनैव तस्य सिद्धिर्न लौकिकी ।  
+अर्थस्येवअर्थवित्तेरप्यात्मा साक्षी हि लक्ष्यते ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+एवं संविदो ऽप्य् आत्मायत्त-प्रकाशत्वान् न मुख्यं स्व-प्रकाशत्वम् इत्य् उक्तम् । ज्ञानान्तरानपेक्ष-प्रकाशत्वेन भवतु नाम ज्ञानस्य तत्-कथञ्चित् । अथापि न ज्ञानाधीन-प्रकाश आत्मेत्य् आह
+
+**किञ्चे**ति । **यो** **यस्ये**ति । साक्षी-द्रष्टा, प्रकाशकः । सिद्धिः प्रकाशः । न लौकिकी नानुभव-सिद्धा । लक्ष्यते दृश्यते ॥२१ ॥
+</details>
+
+##### साक्षित्वात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सन्तु नाम अर्थ-वित्तयः स्वतःसिद्धाः,  
+तथापि न ताभिर् अयम् आत्मा प्रत्यक्षीभवति,  
+तत्-साक्षित्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+Let all items of knowledge concerning objects be admitted to be self-established; even then, with their aid, the soul cannot be directly apprehended:
+</details>
+
+<details><summary>मूलम्</summary>
+
+सन्तु नामार्थवित्तयः स्वतःसिद्धाः,तथापि न ताभिरयमात्मा प्रत्यक्षीभवति, तत्साक्षित्वात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+श्लोकं व्याख्याति स्वयम् एव **सन्तु नामे**ति । उक्त-नीत्या संवित्त आत्म-प्रकाशानुपपत्तेस् स्वयम्-प्रकाशत्वम् आत्मन एष्टव्यम् एवेति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्-साक्षी खल्व् अयम् पुरुषः,  
+न तेनासौ प्रत्यक्षः,  
+घट-साक्षात्-कारीव घटेन ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+for, it is their witness. Indeed, the self cannot be revealed by that for which he stands witness: just as he who witnesses the pot cannot be revealed by the pot.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्साक्षी खल्वयं पुरुषः, न तेनासौ प्रत्यक्षः, घटसाक्षात्कारीव घटेन ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्थ-संविदां च साक्षात्कारी चेतन इति  
+सो ऽपि न +++(संविद्भिस्)+++ ताभिर् अ-परोक्षी भवति ।
+</details>
+
+<details><summary>English</summary>
+
+As the conscious entity is the witness of all object-cognition it cannot be directly revealed by them.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अर्थसंविदां च साक्षात्कारी चेतन इति सोऽपि न ताभिरपरोक्षीभवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इति सिद्धान्तिना गुरुमतखण्डनम्)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(इति सिद्धान्तिना गुरुमतखण्डनम्)
+</details>
+
+#### सजातीयान्यानपेक्ष
+
+<details><summary>विषयः</summary>
+
+The soul is self-luminous
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.22 स-जातीय+++(→निरपेक्ष)+++--स्व-साध्यार्थ--  
+निरपेक्षात्म-सिद्धयः ।  
+सर्वे पदार्थास्, तेनात्मा +++(ऽपीतरवत्)+++  
+निरपेक्ष-स्व-सिद्धिकः ॥
+</details>
+
+<details><summary>English</summary>
+
+1.22 All objects possess a manifestation concerning themselves,  
+a manifestation which is not dependent  
+on something similar to them  
+or on something manifested by themselves.  
+Hence, the soul owns a manifestation concerning itself-  
+a manifestation which is not dependent (upon something similar to it or on anything revealed by itself).
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.22 सजातीयस्वसाध्यार्थनिरपेक्षात्मसिद्धयः ।  
+सर्वे पदार्थास्तेनात्मा निरपेक्षस्वसिद्धिकः ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+संविद्-अधीन-प्रकाशत्वे बाधकम् उक्त्वाऽत्मनः स्व-प्रकाशत्वे साधकम् अप्य् आह **सजातीये**ति । सर्वे हि प्रकाशमानाः पदार्थाः सजातीयं स्वात्यन्त-सजातीयम्, स्व-साध्यं स्वाधीन-प्रकाशं चार्थम् अनपेक्ष्यैव प्रकाशमाना इति आत्मापि प्रकाशमान आत्मान्तरं स्वापेक्ष-प्रकाशं ज्ञानादि चानपेक्ष्यैव प्रकाशत इत्य् अनुमन्तव्यम् । तथा च स्वयम्-प्रकाशत्वं तस्य फलतीति भावः ॥२२ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि कश्चित् पदार्थः  
+स्व-प्रकाशायासाधारण-सजातीयार्थान्तरापेक्षो दृष्टः ।
+</details>
+
+<details><summary>English</summary>
+
+No object is found to depend for its manifestation on some other entity which is similar to itself, or on something which is manifested by that object itself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि कश्चित्पदार्थः स्वप्रकाशायासाधारणसजातीयार्थान्तरापेक्षो दृष्टः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+श्लोकार्थस्य प्रपञ्चनं **न हि कश्चिद्** इत्यादि । अत्रायं निष्कर्षः स्व-विषयक-ज्ञानान्तरानपेक्ष-प्रकाशत्व-लक्षणं स्वयम्-प्रकाशत्वं ज्ञानात्मनोः समानम् । स्वेतर-सकल-निरपेक्ष-प्रकाशत्व-लक्षणं तु तद्-आत्म-स्वरूपस्यैवेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न खलु घटः स्व-सिद्धये घटान्तरम् अपेक्षते;  
+अपेक्षते तु विजातीयम् आलोकादि ।
+</details>
+
+<details><summary>English</summary>
+
+In fact, the pot does not require for its manifestation some other pot; but it stands in need of light and so on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न खलु घटः स्वसिद्धये घटान्तरमपेक्षते; अपेक्षते तु विजातीयमालोकादि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् आलोको ऽपि प्रकाशमानो  
+नालोकान्तरम् अपेक्षते;  
+नापि स्वापेक्ष-प्रकाशं घटादिकम् अपेक्षते;  
+अपेक्षते तु विजातीयम् इन्द्रियम् ।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Likewise, light also, when it shines forth, does not require some other light; nor does it need pot and the like, which depend for their manifestation on light itself; but it stands in need of the sense-organ, an entity which is dissimilar to it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमालोकोऽपि प्रकाशमानो नालोकान्तरमपेक्षते; नापि स्वापेक्षप्रकाशं घटादिकमपेक्षते; अपेक्षते तु विजातीयमिन्द्रियम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् इन्द्रियम् अपि नेन्द्रियान्तरं स्वापेक्ष-प्रकाशम् आलोकादि घटं वापेक्षते; अपेक्षते तु विजातीयं संवेदनम् ।
+</details>
+
+<details><summary>English</summary>
+
+Similarly. sense-organ also does not require (for its manifestation) light and the like, or the pot, which alike depend on the sense-organ for their manifestation; but it requires consciousness, which is an altogether different type of entity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमिन्द्रियमपि नेन्द्रियान्तरं स्वापेक्षप्रकाशमालोकादि घटं वापेक्षते; अपेक्षते तु विजातीयं संवेदनम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं संवेदनम् अपि  
+संविद्-अन्तरं स्वाधीन-सिद्धिकम् इन्द्रियादिकं वा नापेक्षते स्व-सिद्धौ;  
+अपेक्षते तु विजातीयं स्वाश्रय-भूतं स्व-तन्त्रम् आत्मानम् ।
+</details>
+
+<details><summary>English</summary>
+
+Similarly, consciousness; in its turn, does not depend (for its manifestation) on some other consciousness nor on the sense-organ and the like; whose manifestation is dependent on itself but it requires the self-dependent soul, which is its substrate and which is a different type of entity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं संवेदनमपि संविदन्तरं स्वाधीनसिद्धिकमिन्द्रियादिकं वा नापेक्षते स्वसिद्धौ; अपेक्षते तु विजातीयं स्वाश्रयभूतं स्वतन्त्रमात्मानम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् आत्माप्यात्मानन्तरं स्वाधीन-सिद्धिं संविद्-इन्द्रियादिकम् अपि  
+स्वापरोक्षे नापेक्षत  
+इत्य् अनन्यापेक्षा ह्य् आत्म-स्वरूप-सिद्धिः ।
+</details>
+
+<details><summary>English</summary>
+
+[[P89]] In the same manner the self, in its turn, does not require for its direct presentation some other self nor does it require consciousness, sense-organs, and the like; whose presentation is dependent upon it. That is why the presentation of the essential nature of the self is not dependent upon anything other than itself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमात्माप्यात्मानन्तरं स्वाधीनसिद्धिं संविदिन्द्रियादिकमपि स्वापरोक्षे नापेक्षत इत्यनन्यापेक्षा ह्यात्मस्वरूपसिद्धिः ।
 </details>
