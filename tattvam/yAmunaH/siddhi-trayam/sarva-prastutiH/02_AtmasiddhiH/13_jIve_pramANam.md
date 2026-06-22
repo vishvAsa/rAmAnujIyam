@@ -879,7 +879,7 @@ Besides, it is a matter for doubt whether the non-existence of the sadhya is due
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ननु यावत्सु प्रत्यक्षेष्व् अधिकरणेषु व्यतिरेकयोः सहचार-दर्शनत एव व्याप्तिर् निश्चीयेतेत्य् अत्राह **सन्देहे**ति । व्यतिरेक-व्याप्तिर् हि साध्याभावे हेत्व्-अभाव-व्याप्ति-गर्भिता । साध्याभावः अस्तु, हेत्व्-अभावः मास्त्व् इति शङ्कायां च न साधन-अभाव-व्याप्यत्वं साध्याभावे गृह्येतानुकूल-तर्क-विरहे । [[साध्यस्या साधननीमित्तत्वसाधननियतस्वभावत्वाद्यन्यथानुपपत्तिलक्षणतर्कbलाच्छङ्कानिवारणं|साध्यस्यासाधन-निमित्तत्व-साधन-नियत-स्वभावत्वाद्य्-अन्यथानुपपत्ति-लक्षण-तर्क-बलाच् छङ्का-निवारणं]] च साध्य-साधनयोः सहचार-दर्शन-मूल-हेतु-हेतुमद्भावाद्य्-अवधारणम् अन्तरा न घटत इति केवल-व्यतिरेक्य्-असिद्धिर् इति च हार्दम् ।
+ननु यावत्सु प्रत्यक्षेष्व् अधिकरणेषु व्यतिरेकयोः सहचार-दर्शनत एव व्याप्तिर् निश्चीयेतेत्य् अत्राह **सन्देहे**ति । व्यतिरेक-व्याप्तिर् हि साध्याभावे हेत्व्-अभाव-व्याप्ति-गर्भिता । साध्याभावः अस्तु, हेत्व्-अभावः मास्त्व् इति शङ्कायां च न साधन-अभाव-व्याप्यत्वं साध्याभावे गृह्येतानुकूल-तर्क-विरहे । साध्यस्यासाधन-निमित्तत्व-साधन-नियत-स्वभावत्वाद्य्-अन्यथानुपपत्ति-लक्षण-तर्क-बलाच् छङ्का-निवारणं च साध्य-साधनयोः सहचार-दर्शन-मूल-हेतु-हेतुमद्भावाद्य्-अवधारणम् अन्तरा न घटत इति केवल-व्यतिरेक्य्-असिद्धिर् इति च हार्दम् ।
 </details>
 
 #### पदार्थान्तर-गुणत्व-प्रतिज्ञा-दोषः
@@ -903,7 +903,7 @@ Even the thesis (that desire and the like) are the qualities of some entity othe
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-विशिष्ट-हेतुना पृथिव्य्-आदि-व्यतिरिक्त-गुणत्वानुमाने च साध्याप्रसिद्धिम् आह **पृथिव्य्-आदिभ्य** इति । अर्थान्तरस्य गुणादेः प्रसिद्धाव् अपि तद्-वृत्ति-गुणत्व-लक्षणं साध्यम् अप्रसिद्धम् एव । न च पृथिव्य्-आद्य्-अर्थान्तर-[[समेवतत्वम्|समवेतत्वम्]] एव साध्यते । तच् च रूपादौ प्रसिद्धम् एवेति वाच्यम् । निरुक्त-समवेतत्वस्य गुण-क्रिया-भिन्न एव प्रसिद्धेर् गुणे ज्ञानादौ तद्-साधनायोगः । अर्थान्तर-द्रव्य-समवेतत्वं चानुमानात् प्राग् अप्रसिद्धम् एवेति हार्दम् ।
+विशिष्ट-हेतुना पृथिव्य्-आदि-व्यतिरिक्त-गुणत्वानुमाने च साध्याप्रसिद्धिम् आह **पृथिव्य्-आदिभ्य** इति । अर्थान्तरस्य गुणादेः प्रसिद्धाव् अपि तद्-वृत्ति-गुणत्व-लक्षणं साध्यम् अप्रसिद्धम् एव । न च पृथिव्य्-आद्य्-अर्थान्तर-समवेतत्वम् एव साध्यते । तच् च रूपादौ प्रसिद्धम् एवेति वाच्यम् । निरुक्त-समवेतत्वस्य गुण-क्रिया-भिन्न एव प्रसिद्धेर् गुणे ज्ञानादौ तद्-साधनायोगः । अर्थान्तर-द्रव्य-समवेतत्वं चानुमानात् प्राग् अप्रसिद्धम् एवेति हार्दम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1474,7 +1474,7 @@ To explain-The positing of a series of collocations, made on the strength of the
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ननु सङ्घातत्वस्य भोक्तृत्व-लक्षणे परत्वे ऽहेतुत्वाद् न सङ्घात-परार्थत्वेन सङ्घातत्वस्य व्याप्ति-ग्रह इत्य् अत्राह **न चे**ति । सङ्घात-परत्वं तदधीन-अतिशय-भाजि सम्भवेत् । तदधीन-अतिशयश् चासंहते nirलेपे निर्विकारो ऽतः एवातिशयाधानानर्हे साङ्ख्याभिमते पुरुषे न सम्भवतीति संहतस्यैव कस्यचिद् सङ्घात-शेषिणो ऽनुमानेन सिद्धिर् नासंहतस्य साङ्ख्य-मत-पुरुषस्येति भावः । भोग-रूपो ऽप्य् अतिशयो न साङ्ख्य-पुरुषस्य सम्भवेद् इति हार्दम् । एतेन **पुरुषो ऽस्ति भोक्तृ-भावाद्** इत्य् अपि परास्तम् । दृश्यते च खट्वादेः शरीर-ार्थत्वम्, शरीरस्य च [[शरीरन्तरार्थत्वम्|शरीरान्तर-ार्थत्वम्]] । अतस् तदधीन-अतिशय-भाक्त्व-रूपे तत्-परत्वे सङ्घातत्वस्य प्रयोजकत्वेन तदवच्छिन्न-परार्थत्वेन व्याप्ति-ग्रहस् सम्भवत्य् एवेति चाभिमतम् ।
+ननु सङ्घातत्वस्य भोक्तृत्व-लक्षणे परत्वे ऽहेतुत्वाद् न सङ्घात-परार्थत्वेन सङ्घातत्वस्य व्याप्ति-ग्रह इत्य् अत्राह **न चे**ति । सङ्घात-परत्वं तदधीन-अतिशय-भाजि सम्भवेत् । तदधीन-अतिशयश् चासंहते nirलेपे निर्विकारो ऽतः एवातिशयाधानानर्हे साङ्ख्याभिमते पुरुषे न सम्भवतीति संहतस्यैव कस्यचिद् सङ्घात-शेषिणो ऽनुमानेन सिद्धिर् नासंहतस्य साङ्ख्य-मत-पुरुषस्येति भावः । भोग-रूपो ऽप्य् अतिशयो न साङ्ख्य-पुरुषस्य सम्भवेद् इति हार्दम् । एतेन **पुरुषो ऽस्ति भोक्तृ-भावाद्** इत्य् अपि परास्तम् । दृश्यते च खट्वादेः शरीर-ार्थत्वम्, शरीरस्य च शरीरान्तर-ार्थत्वम् । अतस् तदधीन-अतिशय-भाक्त्व-रूपे तत्-परत्वे सङ्घातत्वस्य प्रयोजकत्वेन तदवच्छिन्न-परार्थत्वेन व्याप्ति-ग्रहस् सम्भवत्य् एवेति चाभिमतम् ।
 </details>
 
 #### अनुपकृतः पुरुषः
@@ -1669,7 +1669,7 @@ If it be urged that, though it is non-intelligent, the internal organ, being tra
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**अचिदपी**ति । अचेतनम् अपि चैतन्य-प्रतिबिम्बाश्रयतया चेतनवद् भातीत्य् अर्थः । चिच्चेतन-शब्दौ [[स्वयम्प्रकाशभिप्रायावत्र|स्वयम्प्रकाशाभिप्रायाव् अत्र]] । **नीरूपाया** इति । छायायाः कान्ति-लक्षणाया उज्ज्वल-रूपवद् धर्म-भूताया नीरूपे चैतन्ये ऽसम्भवान् नीरूपे चान्तःकरणे तत्-प्रतिफलन-लक्षण-सङ्क्रान्तेर् अयोगाद् इत्य् अर्थः । रूपवत्य् एव हि स्फटिकादौ जपा-कुसुम-लोहितादि-प्रतिफलनं दृष्टम् इति भावः ।
+**अचिदपी**ति । अचेतनम् अपि चैतन्य-प्रतिबिम्बाश्रयतया चेतनवद् भातीत्य् अर्थः । चिच्चेतन-शब्दौ स्वयम्प्रकाशाभिप्रायाव् अत्र । **नीरूपाया** इति । छायायाः कान्ति-लक्षणाया उज्ज्वल-रूपवद् धर्म-भूताया नीरूपे चैतन्ये ऽसम्भवान् नीरूपे चान्तःकरणे तत्-प्रतिफलन-लक्षण-सङ्क्रान्तेर् अयोगाद् इत्य् अर्थः । रूपवत्य् एव हि स्फटिकादौ जपा-कुसुम-लोहितादि-प्रतिफलनं दृष्टम् इति भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4055,12 +4055,12 @@ The view that even when knowledge of objects is absent in deep sleep the self is
 If it be contended that the knowledge which obtains in the state of release is eternal,  
 being independent of causal conditions,  
 then, there must be perpetual release;  
-and those scriptural passages (which teach the existence of jñāna in this state) must be considered to be *arthavādas*.[^84_151]
+and those scriptural passages (which teach the existence of jñāna in this state) must be considered to be *arthavādas*.[F84_151]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^84_151]: Arthavādas are those scriptural passages which do not directly convey positive or negative injunctions, but which, by extolling prescribed or censuring forbidden acts, aim at infusing in the mind of the listener a keen desire to engage in his sacred duties at the earliest opportunity.
+[F84_151]: Arthavādas are those scriptural passages which do not directly convey positive or negative injunctions, but which, by extolling prescribed or censuring forbidden acts, aim at infusing in the mind of the listener a keen desire to engage in his sacred duties at the earliest opportunity.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4119,12 +4119,12 @@ There is no possibility of the occurrence of any cause which could account for t
 
 <details><summary>English</summary>
 
-And it is not right to maintain that, as the mind (manas) is an eternal organ, through its conjunction itself knowledge is caused in that state; for, although, like ether, mind is, in its essential nature, eternal, it being the originator of jñāna by acting as an organ is dependent on its association with merit and demerit.[^84_152]
+And it is not right to maintain that, as the mind (manas) is an eternal organ, through its conjunction itself knowledge is caused in that state; for, although, like ether, mind is, in its essential nature, eternal, it being the originator of jñāna by acting as an organ is dependent on its association with merit and demerit.[F84_152]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^84_152]: Even though the organ of hearing is nothing but ether (*akāsa*) it is only the ether which is limited by the winding walls of the auditory apparatus (karnasiskuli) that can function as a sense-organ and possess the capacity to appreciate sounds. In the same way, though manas is eternal, it can act as the originator of knowledge not always, but only when associated with merit and demerit.
+[F84_152]: Even though the organ of hearing is nothing but ether (*akāsa*) it is only the ether which is limited by the winding walls of the auditory apparatus (karnasiskuli) that can function as a sense-organ and possess the capacity to appreciate sounds. In the same way, though manas is eternal, it can act as the originator of knowledge not always, but only when associated with merit and demerit.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4159,7 +4159,7 @@ And it is not right to maintain that, as the mind (manas) is an eternal organ, t
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-एतद् एवोपपादयति **धर्माधर्मे**ति-कारिकया । [[धर्माधर्मावरूद्धम्|धर्माधर्मावरुद्धम्]] पुण्य-पाप-लक्षणादृष्ट-निबन्धनोपकरणत्वावस्था-विशिष्टम् । **श्रोत्रव**द् इति । कर्ण-शष्कुल्य्-अवच्छिन्नाकाशस्यैव श्रोत्रत्वम् । तस्य चादृष्ट-सहकारे सत्य् एव शब्द-ग्रह-करणत्वम् , न तद्-विरहे इति यथा-दृष्ट-निबन्धनः श्रोत्रस्येन्द्रिय-भावः तथेति यावत् । तथा चादृष्ट-विरहान् मुक्तौ मनसो नेन्द्रियत्वम् इति भावः ॥१९ ॥
+एतद् एवोपपादयति **धर्माधर्मे**ति-कारिकया । धर्माधर्मावरुद्धम् पुण्य-पाप-लक्षणादृष्ट-निबन्धनोपकरणत्वावस्था-विशिष्टम् । **श्रोत्रव**द् इति । कर्ण-शष्कुल्य्-अवच्छिन्नाकाशस्यैव श्रोत्रत्वम् । तस्य चादृष्ट-सहकारे सत्य् एव शब्द-ग्रह-करणत्वम् , न तद्-विरहे इति यथा-दृष्ट-निबन्धनः श्रोत्रस्येन्द्रिय-भावः तथेति यावत् । तथा चादृष्ट-विरहान् मुक्तौ मनसो नेन्द्रियत्वम् इति भावः ॥१९ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4175,13 +4175,13 @@ And it is not right to maintain that, as the mind (manas) is an eternal organ, t
 
 <details><summary>English</summary>
 
-Nor is the view tenable-namely, that contact with manas, which is assisted by the merit resulting from concentration, is itself the instrument of knowledge; for, it contradicts scriptural passages which declare that all good and bad deeds perish; for example: "the deeds of this person (i. e., the released soul) perish"[^84_153] "Then he who knows (Brahman), shaking off good and evil deeds, leaving the spotless...",[^84_154]
+Nor is the view tenable-namely, that contact with manas, which is assisted by the merit resulting from concentration, is itself the instrument of knowledge; for, it contradicts scriptural passages which declare that all good and bad deeds perish; for example: "the deeds of this person (i. e., the released soul) perish"[F84_153] "Then he who knows (Brahman), shaking off good and evil deeds, leaving the spotless...",[F84_154]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^84_153]: Mundaka Up. II. ii. 8
-[^84_154]: *Mundaka*. *up*. III. i. 3
+[F84_153]: Mundaka Up. II. ii. 8
+[F84_154]: *Mundaka*. *up*. III. i. 3
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4192,7 +4192,7 @@ Nor is the view tenable-namely, that contact with manas, which is assisted by th
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-शङ्कते **न च योगजे**ति । मनस्-संयोगस्य [[योगजधर्मानुगृहीतत्वम्ययोगजधर्मसहकृतत्वम्|योगज-धर्मानुगृहीतत्वम् - योगज-धर्म-सहकृतत्वम्]] । योगज-धर्म-प्रभावान् मुक्ताव् अपि मनस इन्द्रिय-भावो ऽनुवर्तत इति मानसम् आत्म-ज्ञानं तदा सम्भवतीति भावः । मुक्तौ योगज-धर्मानुवृत्तौ श्रुति-विरोधम् आह **क्षीयन्ते** इति । शुक्लेतरेति । पुण्य-पापरूपेत्य् अर्थः ।
+शङ्कते **न च योगजे**ति । मनस्-संयोगस्य योगज-धर्मानुगृहीतत्वम् - योगज-धर्म-सहकृतत्वम् । योगज-धर्म-प्रभावान् मुक्ताव् अपि मनस इन्द्रिय-भावो ऽनुवर्तत इति मानसम् आत्म-ज्ञानं तदा सम्भवतीति भावः । मुक्तौ योगज-धर्मानुवृत्तौ श्रुति-विरोधम् आह **क्षीयन्ते** इति । शुक्लेतरेति । पुण्य-पापरूपेत्य् अर्थः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4213,7 +4213,7 @@ If final release were the result of good deeds there would be a further return (
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ननु श्रुतेर् योगज-धर्म-व्यतिरिक्त-सकल-कर्म-निवृत्त्य् अभिप्रायकत्वम् इति चेत् तत्राह **धर्म-फलत्वे चे**ति । मोक्ष-काले ज्ञानस्यात्म-विषयकस्य सर्व-विषयकस्य वा धर्म-जन्यत्वे जन्य-भावस्य विनाशित्व-नियमात् पुनर् अज्ञानादि-प्रसङ्गः [[इत्यर्थः।|इत्य् अर्थः ।]]
+ननु श्रुतेर् योगज-धर्म-व्यतिरिक्त-सकल-कर्म-निवृत्त्य् अभिप्रायकत्वम् इति चेत् तत्राह **धर्म-फलत्वे चे**ति । मोक्ष-काले ज्ञानस्यात्म-विषयकस्य सर्व-विषयकस्य वा धर्म-जन्यत्वे जन्य-भावस्य विनाशित्व-नियमात् पुनर् अज्ञानादि-प्रसङ्गः इत्य् अर्थः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4228,13 +4228,13 @@ If final release were the result of good deeds there would be a further return (
 
 <details><summary>English</summary>
 
-[[P85]] Besides in view of the following scriptural passages (it is evident that release does not result from deeds) "The uncreated (Puruşa) cannot be attained by what is created (i. e. deeds).[^85_155] "Hence, just as here the world won by good deeds perishes."[^85_156]
+[[P85]] Besides in view of the following scriptural passages (it is evident that release does not result from deeds) "The uncreated (Puruşa) cannot be attained by what is created (i. e. deeds).[F85_155] "Hence, just as here the world won by good deeds perishes."[F85_156]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^85_155]: *Mundaka*. *up*. I. ii. 12.
-[^85_156]: Chand. *up.* VIII. i. 6.
+[F85_155]: *Mundaka*. *up*. I. ii. 12.
+[F85_156]: Chand. *up.* VIII. i. 6.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4429,13 +4429,13 @@ Therefore, jñāna must be said to be absent in the state of release;
 
 <details><summary>English</summary>
 
-and the scriptural passages speaking of the existence of jñana, pleasure and the like as prevailing in that state must be taken as being auxiliary to the injunction prescribing knowledge of the self,[^85_157] and interpreted in accordance with gauņi vṛtti.[^85_158]
+and the scriptural passages speaking of the existence of jñana, pleasure and the like as prevailing in that state must be taken as being auxiliary to the injunction prescribing knowledge of the self,[F85_157] and interpreted in accordance with gauņi vṛtti.[F85_158]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^85_157]: cf. ātmā va are draṣṭavyaḥ mantavyaḥ nididdhyāsitavyah. Brh up. VI. iv. 6.
-[^85_158]: In the proposition 'Devadatta is a lion', the term 'lion' cannot, obviously, be understood in a literal sense. The judgment only signifies that Devadatta possesses a strength, ferocity, cruelty and the like which are similar to the corresponding qualities of the lion. This interpretation of the word *lion* is in accordance with what is known as gauni vrtti. Gauni vrtti has been defined by Khandadeva in his famous *Bhaṭṭadipikā* and Kaustubha thus: 'Svasakyasamavetavatta gaun- vrttih-samavetavatvańca kvacit aropitatvasambandhena kvacit svasamāna jātīya\ gunavattasambandhenah iti bheda. Jaimini's Purva-Mimāmsā-Sûtra, I. iv 23 mentions six varieties of gauni vrtti: 'tatsiddhi jāti sārûpya praṣamsa bhūma liñga- samavaya iti guņāŝrayāh"
+[F85_157]: cf. ātmā va are draṣṭavyaḥ mantavyaḥ nididdhyāsitavyah. Brh up. VI. iv. 6.
+[F85_158]: In the proposition 'Devadatta is a lion', the term 'lion' cannot, obviously, be understood in a literal sense. The judgment only signifies that Devadatta possesses a strength, ferocity, cruelty and the like which are similar to the corresponding qualities of the lion. This interpretation of the word *lion* is in accordance with what is known as gauni vrtti. Gauni vrtti has been defined by Khandadeva in his famous *Bhaṭṭadipikā* and Kaustubha thus: 'Svasakyasamavetavatta gaun- vrttih-samavetavatvańca kvacit aropitatvasambandhena kvacit svasamāna jātīya\ gunavattasambandhenah iti bheda. Jaimini's Purva-Mimāmsā-Sûtra, I. iv 23 mentions six varieties of gauni vrtti: 'tatsiddhi jāti sārûpya praṣamsa bhūma liñga- samavaya iti guņāŝrayāh"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4643,7 +4643,7 @@ The Prabhakara contention that jnăna is not self-luminous
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-वित्तिर् एव, न तु वित्ति-विषयः , विषयवज् जडा वा । वेदितैव , न तु वेद्यः , वेद्यवद् अज्ञाता वा । तथा च विलक्षण-स्वभावत्वाद् भावानाम् अविषययोर् अपि तयोः [[सिद्धिर्ज्ञावबलतः|सिद्धिर् ज्ञान-बलतः]] सेत्स्यतीत्य् अविषयत्वेनासिद्धिर् विषयवत् तयोर् दुर्भणम् इति भावः ।
+वित्तिर् एव, न तु वित्ति-विषयः , विषयवज् जडा वा । वेदितैव , न तु वेद्यः , वेद्यवद् अज्ञाता वा । तथा च विलक्षण-स्वभावत्वाद् भावानाम् अविषययोर् अपि तयोः सिद्धिर् ज्ञान-बलतः सेत्स्यतीत्य् अविषयत्वेनासिद्धिर् विषयवत् तयोर् दुर्भणम् इति भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4882,7 +4882,7 @@ but such a presentation is not met with.
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**न च तथे**ति । विषय-प्रकाश-काल एव स्वाश्रयायैव प्रकाशमानायाः संविदः स्व-प्रकाशे [[विषयात्मसम्बन्धसापेक्षत्वमेोषितव्यमिति|विषयात्म-सम्बन्ध-सापेक्षत्वम् एषितव्यम् इति]] भावः । अतीतादि-विषय-ज्ञाने ऽपि विषयेण सम्बन्धो ज्ञानस्य विषय-विषयि-भाव-लक्षणो विलक्षणः [[स्वरूपसन्धविशेषो|स्वरूप-सम्बन्ध-विशेषो]] ऽस्त्य् एवेति हार्दम् ।
+**न च तथे**ति । विषय-प्रकाश-काल एव स्वाश्रयायैव प्रकाशमानायाः संविदः स्व-प्रकाशे विषयात्म-सम्बन्ध-सापेक्षत्वम् एषितव्यम् इति भावः । अतीतादि-विषय-ज्ञाने ऽपि विषयेण सम्बन्धो ज्ञानस्य विषय-विषयि-भाव-लक्षणो विलक्षणः स्वरूप-सम्बन्ध-विशेषो ऽस्त्य् एवेति हार्दम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5069,7 +5069,7 @@ Let the self alone which is admitted on all hands to be the witness (sakṣin) o
 
 <details><summary>विषयः</summary>
 
-Even if prana is self-luminous, the soul does not depend on prana for its apprehension
+Even if jnana is self-luminous, the soul does not depend on jnana for its apprehension
 </details>
 
 
@@ -5218,6 +5218,13 @@ a manifestation which is not dependent (upon something similar to it or on anyth
 No object is found to depend for its manifestation on some other entity which is similar to itself, or on something which is manifested by that object itself.
 </details>
 
+
+<details><summary>English - Notes</summary>
+
+\* The reading asādhāranasajātiyārthāntarāpekşah found in the mss. and printed copies makes no sense. Hence the following emendation svasadhyasādhyasādhārānajātiyārthāntarāpekṣah has been suggested. tattadvittitvam is the reading found in some manuscripts. It is preferable to *tattaccittatvam* found in the Cowkamba and Telugu editions.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 न हि कश्चित्पदार्थः स्वप्रकाशायासाधारणसजातीयार्थान्तरापेक्षो दृष्टः ।
@@ -5310,4 +5317,66 @@ Similarly, consciousness; in its turn, does not depend (for its manifestation) o
 <details><summary>मूलम्</summary>
 
 एवमात्माप्यात्मानन्तरं स्वाधीनसिद्धिं संविदिन्द्रियादिकमपि स्वापरोक्षे नापेक्षत इत्यनन्यापेक्षा ह्यात्मस्वरूपसिद्धिः ।
+</details>
+
+#### धर्म-भूत-ज्ञानम्
+##### वैविध्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.23 तद् एवञ् चित्-स्वभावस्य  
+पुंसः स्वाभाविकी चितिः ।  
+नाना-पदार्थ-संसर्गात्  
+तत्-तच्-चित्तत्वम् अश्नुते ॥
+</details>
+
+<details><summary>English</summary>
+
+1.23 To the soul which has been shown to have consciousness as its essential nature consciousness must indeed be an invariable attribute. On account of its conjunction with manifold objects, consciousness comes to be such and such a knowledge (e.g. knowledge of the pot, knowledge of the cow and so on).
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.23 तदेवंचित्स्वभावस्य पुंसः स्वाभाविकी चितिः ।  
+नानापदार्थसंसर्गात् तत्तच्चित्तत्वमश्नुते ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथैव खलु सूर्यालोकस्  
+तेन तेनार्थ-भेदेन संसर्गात् तत्-तत्-प्रकाशो भवति,  
+घट-प्रकाशः, पट-प्रकाश इति  
+एवम् आत्मनः प्रकार-भूतं चैतन्यम्  
+अर्थ-विशेष-संसर्गात्  
+घट-संवित् पट-संविद् इत्य्-आदि-प्रख्योपाख्ये प्रतिपद्यते ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Just as the rays of the sun, by virtue of their contact with several different objects, come to be treated as different illuminations, such as the illumination of the pot, the illumination of the cloth and so on: even so, consciousness which is an attribute of the soul, on account of its contact with diverse objects, acquires different names and comes to be spoken of as being distinct, such as the cognition of the pot, the cognition of the cloth, and so on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथैव खलु सूर्यालोकस्तेनतेनार्थभेदेन संसर्गात्तत्तत्प्रकाशो भवति, घटप्रकाशः, पटप्रकाश इति एवमात्मनः प्रकार (स्वभाव) भूतं चैतन्यमर्थविशेषसंसर्गात् घटसंवित् पटसंविदित्यादिप्रख्योपाख्ये प्रतिपद्यते ।
+</details>
+
+##### स्वाश्रयम् प्रति स्वयम्-प्रकाशम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते च चैतन्यस्य दशा-विशेषाश्  
+चेतयितुर् आत्मनो धर्म-विशेषत्वाद् एव  
+तस्यापरोक्षा भवन्ति,  
+कादाचित्क-बोध-वादिनाम् इव  
+बोधस्य विषय-भेदावच्छेदादयः ।
+</details>
+
+<details><summary>English</summary>
+
+And these (different cognitions) are merely the several states of consciousness. As they are, thus, the different attributes of the self, which is a conscious entity, they become perceptible to the self; even as, on the view of those who maintain that consciousness is an occasional attribute of the self the delimitation of knowledge by the different objects is perceptible to the self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते च चैतन्यस्य दशाविशेषाश्चेतयितुरात्मनो धर्मविशेषत्वादेव तस्यापरोक्षा भवन्ति, कादाचित्कबोधवादिनाम्इव बोधस्य विषयभेदावच्छेदादयः ।
 </details>
