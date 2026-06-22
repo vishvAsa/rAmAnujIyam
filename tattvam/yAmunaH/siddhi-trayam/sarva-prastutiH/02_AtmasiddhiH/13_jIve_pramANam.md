@@ -4055,12 +4055,12 @@ The view that even when knowledge of objects is absent in deep sleep the self is
 If it be contended that the knowledge which obtains in the state of release is eternal,  
 being independent of causal conditions,  
 then, there must be perpetual release;  
-and those scriptural passages (which teach the existence of jñāna in this state) must be considered to be *arthavādas*.[^84_151]
+and those scriptural passages (which teach the existence of jñāna in this state) must be considered to be *arthavādas*.[F84_151]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^84_151]: Arthavādas are those scriptural passages which do not directly convey positive or negative injunctions, but which, by extolling prescribed or censuring forbidden acts, aim at infusing in the mind of the listener a keen desire to engage in his sacred duties at the earliest opportunity.
+[F84_151]: Arthavādas are those scriptural passages which do not directly convey positive or negative injunctions, but which, by extolling prescribed or censuring forbidden acts, aim at infusing in the mind of the listener a keen desire to engage in his sacred duties at the earliest opportunity.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4119,12 +4119,12 @@ There is no possibility of the occurrence of any cause which could account for t
 
 <details><summary>English</summary>
 
-And it is not right to maintain that, as the mind (manas) is an eternal organ, through its conjunction itself knowledge is caused in that state; for, although, like ether, mind is, in its essential nature, eternal, it being the originator of jñāna by acting as an organ is dependent on its association with merit and demerit.[^84_152]
+And it is not right to maintain that, as the mind (manas) is an eternal organ, through its conjunction itself knowledge is caused in that state; for, although, like ether, mind is, in its essential nature, eternal, it being the originator of jñāna by acting as an organ is dependent on its association with merit and demerit.[F84_152]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^84_152]: Even though the organ of hearing is nothing but ether (*akāsa*) it is only the ether which is limited by the winding walls of the auditory apparatus (karnasiskuli) that can function as a sense-organ and possess the capacity to appreciate sounds. In the same way, though manas is eternal, it can act as the originator of knowledge not always, but only when associated with merit and demerit.
+[F84_152]: Even though the organ of hearing is nothing but ether (*akāsa*) it is only the ether which is limited by the winding walls of the auditory apparatus (karnasiskuli) that can function as a sense-organ and possess the capacity to appreciate sounds. In the same way, though manas is eternal, it can act as the originator of knowledge not always, but only when associated with merit and demerit.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4175,13 +4175,13 @@ And it is not right to maintain that, as the mind (manas) is an eternal organ, t
 
 <details><summary>English</summary>
 
-Nor is the view tenable-namely, that contact with manas, which is assisted by the merit resulting from concentration, is itself the instrument of knowledge; for, it contradicts scriptural passages which declare that all good and bad deeds perish; for example: "the deeds of this person (i. e., the released soul) perish"[^84_153] "Then he who knows (Brahman), shaking off good and evil deeds, leaving the spotless...",[^84_154]
+Nor is the view tenable-namely, that contact with manas, which is assisted by the merit resulting from concentration, is itself the instrument of knowledge; for, it contradicts scriptural passages which declare that all good and bad deeds perish; for example: "the deeds of this person (i. e., the released soul) perish"[F84_153] "Then he who knows (Brahman), shaking off good and evil deeds, leaving the spotless...",[F84_154]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^84_153]: Mundaka Up. II. ii. 8
-[^84_154]: *Mundaka*. *up*. III. i. 3
+[F84_153]: Mundaka Up. II. ii. 8
+[F84_154]: *Mundaka*. *up*. III. i. 3
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4228,13 +4228,13 @@ If final release were the result of good deeds there would be a further return (
 
 <details><summary>English</summary>
 
-[[P85]] Besides in view of the following scriptural passages (it is evident that release does not result from deeds) "The uncreated (Puruşa) cannot be attained by what is created (i. e. deeds).[^85_155] "Hence, just as here the world won by good deeds perishes."[^85_156]
+[[P85]] Besides in view of the following scriptural passages (it is evident that release does not result from deeds) "The uncreated (Puruşa) cannot be attained by what is created (i. e. deeds).[F85_155] "Hence, just as here the world won by good deeds perishes."[F85_156]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^85_155]: *Mundaka*. *up*. I. ii. 12.
-[^85_156]: Chand. *up.* VIII. i. 6.
+[F85_155]: *Mundaka*. *up*. I. ii. 12.
+[F85_156]: Chand. *up.* VIII. i. 6.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4429,13 +4429,13 @@ Therefore, jñāna must be said to be absent in the state of release;
 
 <details><summary>English</summary>
 
-and the scriptural passages speaking of the existence of jñana, pleasure and the like as prevailing in that state must be taken as being auxiliary to the injunction prescribing knowledge of the self,[^85_157] and interpreted in accordance with gauņi vṛtti.[^85_158]
+and the scriptural passages speaking of the existence of jñana, pleasure and the like as prevailing in that state must be taken as being auxiliary to the injunction prescribing knowledge of the self,[F85_157] and interpreted in accordance with gauņi vṛtti.[F85_158]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^85_157]: cf. ātmā va are draṣṭavyaḥ mantavyaḥ nididdhyāsitavyah. Brh up. VI. iv. 6.
-[^85_158]: In the proposition 'Devadatta is a lion', the term 'lion' cannot, obviously, be understood in a literal sense. The judgment only signifies that Devadatta possesses a strength, ferocity, cruelty and the like which are similar to the corresponding qualities of the lion. This interpretation of the word *lion* is in accordance with what is known as gauni vrtti. Gauni vrtti has been defined by Khandadeva in his famous *Bhaṭṭadipikā* and Kaustubha thus: 'Svasakyasamavetavatta gaun- vrttih-samavetavatvańca kvacit aropitatvasambandhena kvacit svasamāna jātīya\ gunavattasambandhenah iti bheda. Jaimini's Purva-Mimāmsā-Sûtra, I. iv 23 mentions six varieties of gauni vrtti: 'tatsiddhi jāti sārûpya praṣamsa bhūma liñga- samavaya iti guņāŝrayāh"
+[F85_157]: cf. ātmā va are draṣṭavyaḥ mantavyaḥ nididdhyāsitavyah. Brh up. VI. iv. 6.
+[F85_158]: In the proposition 'Devadatta is a lion', the term 'lion' cannot, obviously, be understood in a literal sense. The judgment only signifies that Devadatta possesses a strength, ferocity, cruelty and the like which are similar to the corresponding qualities of the lion. This interpretation of the word *lion* is in accordance with what is known as gauni vrtti. Gauni vrtti has been defined by Khandadeva in his famous *Bhaṭṭadipikā* and Kaustubha thus: 'Svasakyasamavetavatta gaun- vrttih-samavetavatvańca kvacit aropitatvasambandhena kvacit svasamāna jātīya\ gunavattasambandhenah iti bheda. Jaimini's Purva-Mimāmsā-Sûtra, I. iv 23 mentions six varieties of gauni vrtti: 'tatsiddhi jāti sārûpya praṣamsa bhūma liñga- samavaya iti guņāŝrayāh"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5069,7 +5069,7 @@ Let the self alone which is admitted on all hands to be the witness (sakṣin) o
 
 <details><summary>विषयः</summary>
 
-Even if prana is self-luminous, the soul does not depend on prana for its apprehension
+Even if jnana is self-luminous, the soul does not depend on jnana for its apprehension
 </details>
 
 
@@ -5218,6 +5218,13 @@ a manifestation which is not dependent (upon something similar to it or on anyth
 No object is found to depend for its manifestation on some other entity which is similar to itself, or on something which is manifested by that object itself.
 </details>
 
+
+<details><summary>English - Notes</summary>
+
+\* The reading asādhāranasajātiyārthāntarāpekşah found in the mss. and printed copies makes no sense. Hence the following emendation svasadhyasādhyasādhārānajātiyārthāntarāpekṣah has been suggested. tattadvittitvam is the reading found in some manuscripts. It is preferable to *tattaccittatvam* found in the Cowkamba and Telugu editions.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 न हि कश्चित्पदार्थः स्वप्रकाशायासाधारणसजातीयार्थान्तरापेक्षो दृष्टः ।
@@ -5310,4 +5317,66 @@ Similarly, consciousness; in its turn, does not depend (for its manifestation) o
 <details><summary>मूलम्</summary>
 
 एवमात्माप्यात्मानन्तरं स्वाधीनसिद्धिं संविदिन्द्रियादिकमपि स्वापरोक्षे नापेक्षत इत्यनन्यापेक्षा ह्यात्मस्वरूपसिद्धिः ।
+</details>
+
+#### धर्म-भूत-ज्ञानम्
+##### वैविध्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.23 तद् एवञ् चित्-स्वभावस्य  
+पुंसः स्वाभाविकी चितिः ।  
+नाना-पदार्थ-संसर्गात्  
+तत्-तच्-चित्तत्वम् अश्नुते ॥
+</details>
+
+<details><summary>English</summary>
+
+1.23 To the soul which has been shown to have consciousness as its essential nature consciousness must indeed be an invariable attribute. On account of its conjunction with manifold objects, consciousness comes to be such and such a knowledge (e.g. knowledge of the pot, knowledge of the cow and so on).
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.23 तदेवंचित्स्वभावस्य पुंसः स्वाभाविकी चितिः ।  
+नानापदार्थसंसर्गात् तत्तच्चित्तत्वमश्नुते ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथैव खलु सूर्यालोकस्  
+तेन तेनार्थ-भेदेन संसर्गात् तत्-तत्-प्रकाशो भवति,  
+घट-प्रकाशः, पट-प्रकाश इति  
+एवम् आत्मनः प्रकार-भूतं चैतन्यम्  
+अर्थ-विशेष-संसर्गात्  
+घट-संवित् पट-संविद् इत्य्-आदि-प्रख्योपाख्ये प्रतिपद्यते ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Just as the rays of the sun, by virtue of their contact with several different objects, come to be treated as different illuminations, such as the illumination of the pot, the illumination of the cloth and so on: even so, consciousness which is an attribute of the soul, on account of its contact with diverse objects, acquires different names and comes to be spoken of as being distinct, such as the cognition of the pot, the cognition of the cloth, and so on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथैव खलु सूर्यालोकस्तेनतेनार्थभेदेन संसर्गात्तत्तत्प्रकाशो भवति, घटप्रकाशः, पटप्रकाश इति एवमात्मनः प्रकार (स्वभाव) भूतं चैतन्यमर्थविशेषसंसर्गात् घटसंवित् पटसंविदित्यादिप्रख्योपाख्ये प्रतिपद्यते ।
+</details>
+
+##### स्वाश्रयम् प्रति स्वयम्-प्रकाशम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते च चैतन्यस्य दशा-विशेषाश्  
+चेतयितुर् आत्मनो धर्म-विशेषत्वाद् एव  
+तस्यापरोक्षा भवन्ति,  
+कादाचित्क-बोध-वादिनाम् इव  
+बोधस्य विषय-भेदावच्छेदादयः ।
+</details>
+
+<details><summary>English</summary>
+
+And these (different cognitions) are merely the several states of consciousness. As they are, thus, the different attributes of the self, which is a conscious entity, they become perceptible to the self; even as, on the view of those who maintain that consciousness is an occasional attribute of the self the delimitation of knowledge by the different objects is perceptible to the self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते च चैतन्यस्य दशाविशेषाश्चेतयितुरात्मनो धर्मविशेषत्वादेव तस्यापरोक्षा भवन्ति, कादाचित्कबोधवादिनाम्इव बोधस्य विषयभेदावच्छेदादयः ।
 </details>
