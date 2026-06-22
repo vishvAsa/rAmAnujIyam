@@ -87,9 +87,10 @@ and because experiences, such as, 'I know,' 'I knew', are known to be limited by
 स्वापतुरीयादिदशासु च बोधाधारत्वे सुप्तबुद्धबद्धमुक्तादिव्यवस्थाऽभावप्रसंगाच्च ।
 </details>
 
+### प्रतिकर्म-व्यवस्था
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नित्यस्य च ज्ञानस्य आत्म-समवायिनः प्रतिकर्म-व्यवस्था ऽपि दुरुपपादैव ।
+नित्यस्य च ज्ञानस्य आत्म-समवायिनः प्रतिकर्म-व्यवस्था ऽपि दुर्-उपपादैव ।
 </details>
 
 <details><summary>English</summary>
@@ -104,7 +105,10 @@ Further, in respect of consciousness which is eternal and which is inherent in t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदा हि प्रकाशन-शीलतया तस्याः, एकस्यां संविदि सर्वम् एव प्रकाशेत न वा किञ्चित्, अविशेषात् ।
+तदा +++(→नित्य-चैतन्यतायां)+++ हि  
+प्रकाशन-शीलतया तस्याः,  
+एकस्यां संविदि सर्वम् एव प्रकाशेत  
+न वा किञ्चित्, अविशेषात् ।
 </details>
 
 <details><summary>English</summary>
@@ -119,7 +123,9 @@ Indeed, then (i. e. if consciousness is eternal), as it possesses the nature of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्यदा तु यद्-अर्थ-सन्निकर्ष-जुषेन्द्रिय-लिङ्गादिना या धीर् जन्यते, तदीयैव सेति व्यवस्था युक्तिमती ।
+अन्यदा +++(→ अ-नित्य-चैतन्यतायां)+++ तु  
+यद्-अर्थ-सन्निकर्ष-जुषेन्द्रिय-लिङ्गादिना या धीर् जन्यते,  
+तदीयैव सेति व्यवस्था युक्तिमती ।
 </details>
 
 <details><summary>English</summary>
@@ -132,6 +138,7 @@ When it is admitted to have a different character (i. e. when it is occasional),
 अन्यदा तु यदर्थसन्निकर्षजुषेन्द्रियलिङ्गादिना या धीर्जन्यते, तदीयैव सेति व्यवस्था युक्तिमती ।
 </details>
 
+### अवस्था-भेदेन?
 <details><summary>विषयः</summary>
 
 The opponent calling in question the siddhantin's position.-
@@ -140,22 +147,52 @@ The opponent calling in question the siddhantin's position.-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्यान् मतम् — इन्द्रियादि-प्रणालिकया चैतन्यम् एव तेन तेन अर्थेनानु रज्यमानं तत्-प्रकाशतया तदीयत्वेन व्यवतिष्ठते, अनुरागस्य चागन्तुकतया इन्द्रियाद्य्-अनुविधानं कालावच्छेदस् स्वापादिव्यवस्था च उपपद्यत इति; तद् असत् — अर्थान्तर-सन्निकर्षे ऽर्थान्तरस्य अनुराग-सम्भवात् ।
+स्यान् मतम् —  
+
+> इन्द्रियादि-प्रणालिकया चैतन्यम् एव  
+तेन तेनार्थेनानुरज्यमानं  
+तत्-प्रकाशतया तदीयत्वेन व्यवतिष्ठते,  
+अनुरागस्य चागन्तुकतया  
+इन्द्रियाद्य्-अनुविधानं, कालावच्छेदस्, स्वापादिव्यवस्था चोपपद्यत 
+
+इति; 
 </details>
 
 <details><summary>English</summary>
 
-It may be contended that consciousness itself, through the medium of the senses and the like, becomes coloured by different objects, and (thereby) comes to be distinguished into such and such a knowledge pertaining to such and such an object: and that as the process of being coloured is accidental, the dependence on the senses, the limitation by time into the past, present, etc., and the distinction of states, such as, sleep and the like become intelligible. This (contention) is erroneous. When one object is near, another (which is not near by) cannot be coloured (by it).
-</details>
+It may be contended that consciousness itself, through the medium of the senses and the like, becomes coloured by different objects, and (thereby) comes to be distinguished into such and such a knowledge pertaining to such and such an object: and that as the process of being coloured is accidental, the dependence on the senses, the limitation by time into the past, present, etc., and the distinction of states, such as, sleep and the like become intelligible. </details>
 
 <details><summary>मूलम्</summary>
 
-स्यान्मतम् \इन्द्रियादिप्रणाडिकया चैतन्यैव तेनतेनअर्थेनानुरज्यमानं तत्प्रकाशतया तदीयत्वेन व्यवतिष्ठते, अनुरागस्य चागन्तुकतया इन्द्रियाद्यनुविधानं कालावच्छेदस्स्वापादिव्यवस्था चोपपद्यत इति; तदसत् \अर्थान्तरसन्निकर्षेऽर्थान्तरस्यानुरागसंभवात् ।।
+स्यान्मतम् \इन्द्रियादिप्रणाडिकया चैतन्यैव तेनतेनअर्थेनानुरज्यमानं तत्प्रकाशतया तदीयत्वेन व्यवतिष्ठते, अनुरागस्य चागन्तुकतया इन्द्रियाद्यनुविधानं कालावच्छेदस्स्वापादिव्यवस्था चोपपद्यत इति; 
 </details>
 
+#### सन्निकर्ष-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चैतन्यम् अपि तथा निष्क्रम्य सन्निकृष्यत इति चेत्, न; अमूर्तस्य आकाशस्येव निष्क्रमण-प्रवेशाद्य्-अनुपपत्तेः ।
+तद् असत् —  
+अर्थान्तर-सन्निकर्षे ऽर्थान्तरस्य अनुराग-सम्भवात् ।
+</details>
+
+<details><summary>English</summary>
+
+This (contention) is erroneous. When one object is near, another (which is not near by) cannot be coloured (by it).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदसत् अर्थान्तरसन्निकर्षेऽर्थान्तरस्यानुरागसंभवात् ।।
+</details>
+
+
+### चैतन्य-सन्निकर्षाभावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> चैतन्यम् अपि तथा निष्क्रम्य सन्निकृष्यत 
+
+इति चेत्, न;  
+अमूर्तस्य आकाशस्येव निष्क्रमण-प्रवेशाद्य्-अनुपपत्तेः ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -170,7 +207,9 @@ If it be said that consciousness itself proceeding outward gets so close a conta
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गुणश् च चैतन्यं गुणिनम् अपहाय कथम् अन्यतो यास्यति? न च अर्थो ऽन्तः प्रविशति ।
+गुणश् च चैतन्यं  
+गुणिनम् अपहाय  
+कथम् अन्यतो यास्यति?  
 </details>
 
 <details><summary>English</summary>
@@ -180,12 +219,13 @@ How can consciousness, which is an attribute, depart from the substance wherein 
 
 <details><summary>मूलम्</summary>
 
-गुणश्च चैतन्यं गुणिनमपहाय कथमन्यतो यास्यति ? नचार्थोऽन्तः प्रविशति ।
-</details>
+गुणश्च चैतन्यं गुणिनमपहाय कथमन्यतो यास्यति ? </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स हि बहिर्-देश-सम्बद्धस् सर्व-लोक-प्रत्यक्षः ।
+न चार्थो ऽन्तः प्रविशति ।
+स हि बहिर्-देश-सम्बद्धस्  
+सर्व-लोक-प्रत्यक्षः ।
 </details>
 
 <details><summary>English</summary>
@@ -195,12 +235,14 @@ for the object is perceived by everybody as being located in the place outside.
 
 <details><summary>मूलम्</summary>
 
+नचार्थोऽन्तः प्रविशति ।
 स हि बहिर्देशसंबद्धस्सर्वलोकप्रत्यक्षः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जात्यादिषु च अनुपपत्तिस् तुल्यैव ।
+जात्यादिषु चानुपपत्तिस् तुल्यैव  
++++(अमूर्तत्वान् नान्तः प्रवेशम् अर्हतीति)+++ ।
 </details>
 
 <details><summary>English</summary>
@@ -213,7 +255,7 @@ Besides, in the case of (formless) entities, such as generality, the same diffic
 जात्यादिषु चानुपपत्तिस्तुल्यैव ।
 </details>
 
-### धर्म-धर्मि-भेदः
+#### बहल-विरल-चैचन्ये?
 <details><summary>विषयः</summary>
 
 Refutation of the view that the ātmā (dharmin) and consciousness (dharma) are one:-
@@ -222,7 +264,9 @@ Refutation of the view that the ātmā (dharmin) and consciousness (dharma) are 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथोच्येत — द्वेधा खल्व् अयं प्रत्यगर्थो ऽवतिष्ठते बहलो विरलश् च ।
+अथोच्येत —  
+द्वेधा खल्व् अयं प्रत्यग्-अर्थो ऽवतिष्ठते  
+बहलो+++(=घनो)+++ विरलश् च ।
 </details>
 
 <details><summary>English</summary>
@@ -252,12 +296,13 @@ of these the entity in the dense form is the self and it has the words pratyak, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विरलस् तु चैतन्य-ज्ञानादि-पदाभिधेयः प्रत्यगर्थ-तन्त्रतया गुण इत्य् उपचर्यते तेजो-वत्, यथा बहलं तेजः प्रदीपः अग्निरिति ।
+विरलस् तु चैतन्य-ज्ञानादि-पदाभिधेयः  
+प्रत्यग्-अर्थ-तन्त्रतया गुण इत्य् उपचर्यते तेजो-वत्,  
 </details>
 
 <details><summary>English</summary>
 
-but the entity in the sparse form, referred to by the terms caitanya, jnāna and the like, is called, by courtesy, a quality for the reason that it is dependent on the pratyagartha (the inward entity in the dense form); even as the luminous entity in the dense form is termed flame, fire and the like;
+but the entity in the sparse form, referred to by the terms caitanya, jnāna and the like, is called, by courtesy, a quality for the reason that it is dependent on the pratyagartha (the inward entity in the dense form); 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -267,37 +312,68 @@ but the entity in the sparse form, referred to by the terms caitanya, jnāna and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+यथा बहलं तेजः प्रदीपः अग्निरिति ।
 विरलं तु प्रभा ज्योतिर् इति ।
 </details>
 
 <details><summary>English</summary>
 
+even as the luminous entity in the dense form is termed flame, fire and the like;  
 while the same entity in its sparse form is referred to as *prabha* (radiance) and *jyotih* (light);
 </details>
 
 <details><summary>मूलम्</summary>
 
+यथा बहलं तेजः प्रदीपः अग्निरिति ।
 विरलं तु प्रभा ज्योतिरिति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो विरलात्म-प्रदेशतया चैतन्यस्या ऽऽलोकस्येव गमनं संयोगादिकम् उपपद्यत इति; इदम् अनुपपन्नम् — निरवयवस्य अमूर्तस्य असङ्गस्य आत्मनो बहल-विरलतादि-धर्मानुपपत्तेः ।
+अतो विरलात्म-प्रदेशतया चैतन्यस्य  
+आलोकस्येव गमनं संयोगादिकम् उपपद्यत 
+
+इति;
 </details>
 
 <details><summary>English</summary>
 
-proceeding outward and coming into contact would be appropriate in the case of consciousness, as in that of light *(aloka*): for, consciousness is only the sparse region of the self, But this view is untenable; for, qualities, such as, those of existing in a dense and in a sparse form cannot be attributed to the self, which is without parts, and without forms and which has no contact (with anything else).
+proceeding outward and coming into contact would be appropriate in the case of consciousness, as in that of light *(aloka*): for, consciousness is only the sparse region of the self, 
 </details>
 
 <details><summary>मूलम्</summary>
 
-अतो विरलात्मप्रदेशतया चैतन्यस्याऽऽलोकस्येव गमनं (गमन ?) संयोगादिकमुपपद्यत \इति \इदमनुपपन्नम् \निरवयवस्यामूर्तस्यासङ्गस्यात्मनो बहलविरलतादिधर्मानुपपत्तेः ।
+अतो विरलात्मप्रदेशतया चैतन्यस्याऽऽलोकस्येव गमनं (गमन ?) संयोगादिकमुपपद्यत \इति ।
 </details>
+
+#### अमूर्तत्वान् न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदम् अनुपपन्नम् —  
+निरवयवस्य +अमूर्तस्य +असङ्गस्य +आत्मनो  
+बहल-विरलतादि-धर्मानुपपत्तेः ।
+</details>
+
+<details><summary>English</summary>
+
+But this view is untenable;  
+for, qualities, such as, those of existing in a dense and in a sparse form cannot be attributed to the self, which is without parts,  
+and without forms and which has no contact (with anything else).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+\इदमनुपपन्नम् \निरवयवस्यामूर्तस्यासङ्गस्यात्मनो बहलविरलतादिधर्मानुपपत्तेः ।
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि हि सावयवत्व-मूर्तत्वानित्यत्व-संसर्गित्वादिकम् अपि धर्म-जातम् आत्मन्य् अनुमन्वीमहि, तत एवम् अङ्गीकुर्वीमहि ।
+यदि हि  
+सावयवत्व-मूर्तत्वानित्यत्व-संसर्गित्वादिकम् अपि धर्म-जातम् आत्मन्य् अनुमन्वीमहि,  
+तत एवम् अङ्गीकुर्वीमहि ।
 </details>
 
 <details><summary>English</summary>
@@ -312,7 +388,11 @@ We could admit the self to exist in such a manner if we were prepared to admit t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च तद् अनुमन्तुम् उचितम् अचेतनत्वापाताद् इत्य् अलम् अनेना ऽऽर्हत-मतानुकार-दूषितेना ऽऽत्म-वादेन;
+न च तद् अनुमन्तुम् उचितम्  
+अचेतनत्वापाताद्  
+
+इत्य् अलम् अनेन  
+आर्हत-मतानुकार-दूषितेनात्म-वादेन।
 </details>
 
 <details><summary>English</summary>
@@ -325,7 +405,7 @@ But it is unreasonable to make such an admission: for it would result in reducin
 न च तदनुमन्तुमुचितम् अचेतनत्वापातादित्यलमनेनाऽऽर्हतमतानुकारदूषितेनाऽऽत्मवादेन;
 </details>
 
-### सर्व-व्यापिता?
+#### सर्व-व्यापिता?
 
 <details><summary>विषयः</summary>
 
@@ -335,7 +415,8 @@ Refutation of the view that consciousness is all-pervasive
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ मतम् — आत्मा ऽयम् अनवयवेन सर्वतस् सर्वार्थावभासन-समर्थ-चैतन्यानुबन्धस् सर्व-व्यापी ।
+अथ मतम् — आत्मा ऽयम्  
+अनवयवेन सर्वतस् सर्वार्थावभासन-समर्थ-चैतन्यानुबन्धस् सर्व-व्यापी ।
 </details>
 
 <details><summary>English</summary>
@@ -350,7 +431,9 @@ Refutation of the view that consciousness is all-pervasive
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ च न सर्वम् अस्य परिस्फुरति, तमो-गुण-प्रतिबन्धात् ।
+अथ च  
+न सर्वम् अस्य परिस्फुरति,  
+तमो-गुण-प्रतिबन्धात् ।
 </details>
 
 <details><summary>English</summary>
@@ -365,7 +448,9 @@ and that although it is of this nature, all objects do not present themselves to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्त्वोत्कटैस् तु करणैस्स्वक-स्वक-पाटवानुसारेण पाटिते तु तमसि ते ते ऽर्थाः प्रतिभासते ।
+सत्त्वोत्कटैस् तु करणैस्  
+स्वक-स्वक-पाटवानुसारेण पाटिते तु तमसि  
+ते ते ऽर्थाः प्रतिभासते ।
 </details>
 
 <details><summary>English</summary>
@@ -380,22 +465,49 @@ and that when, with the aid of the sense-organ, wherein the sattva quality predo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो ऽन्तरेणापि ज्ञानार्थयोर् निष्क्रमण-प्रवेशौ उपपद्यत एव अर्थ-विशेषोपरागस् संविद इति; एवम् अप्य् अर्थातिशय-मात्र-हेतुत्वाद् इन्द्रिय-लिङ्गादेः ज्ञानस्येव ज्ञापकत्वं न स्यात्, ज्ञान-हेतुत्वाभावात् ।
+अतो ऽन्तरेणापि ज्ञानार्थयोर् निष्क्रमण-प्रवेशौ  
+उपपद्यत एवार्थ-विशेषोपरागस् संविद 
+
+इति; 
 </details>
 
 <details><summary>English</summary>
 
-and that thus, without there being any proceeding outward or coming in on the part of consciousness and objects, all reference to knowledge as pertaining to particular objects becomes intelligible. Even if this were so, the senses and probans (hetu), like jnāna, could not be considered the cause of knowledge, for, they are responsible only for helping objects to be illumined (by removing the enveloping tamas), and not for originating knowledge.
+and that thus, without there being any proceeding outward or coming in on the part of consciousness and objects, all reference to knowledge as pertaining to particular objects becomes intelligible. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-अतोऽन्तरेणापि ज्ञानअर्थयोर्निष्क्रमणप्रवेशौ उपपद्यत एवार्थाविशेषोपरागस्संविद इति एवमप्यर्थातिशयमात्र हेतुत्वादिन्द्रियलिङ्गादेः ज्ञानस्येव ज्ञापकत्वं न स्यात्, ज्ञानहेतुत्वाभावात् ।
-</details>
+अतोऽन्तरेणापि ज्ञानअर्थयोर्निष्क्रमणप्रवेशौ उपपद्यत एवार्थाविशेषोपरागस्संविद इति </details>
 
+#### इन्द्रियादि-ज्ञानाहेतुता-प्रसङ्गः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च अर्थ-प्रकाशस्य ज्ञानत्वम्, प्रकाशमानतया ऽर्थस्यापि ज्ञातृत्व-प्रसङ्गात् ।
+एवम् अप्य् +++(तमोऽपकरणेन ग्राह्य-)+++अर्थातिशय-मात्र-हेतुत्वाद्  
+इन्द्रिय-लिङ्गादेः ज्ञानस्येव ज्ञापकत्वं न स्यात्,  
+ज्ञान-हेतुत्वाभावात् ।
+</details>
+
+<details><summary>English</summary>
+
+Even if this were so,  
+the senses and probans (hetu), like jnāna, could not be considered the cause of knowledge,  
+for, they are responsible only for helping objects to be illumined (by removing the enveloping tamas),  
+and not for originating knowledge.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवमप्यर्थातिशयमात्र हेतुत्वादिन्द्रियलिङ्गादेः ज्ञानस्येव ज्ञापकत्वं न स्यात्, ज्ञानहेतुत्वाभावात् ।
+</details>
+
+#### ग्राह्यस्य ग्राहकत्व-प्रसङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च  
++++(तमो-निवारणतो)+++ अर्थ+++(→विषय)+++-प्रकाशस्य ज्ञानत्वम्,  
+प्रकाशमानतया ऽर्थस्यापि ज्ञातृत्व-प्रसङ्गात् ।
 </details>
 
 <details><summary>English</summary>
@@ -410,7 +522,13 @@ and that thus, without there being any proceeding outward or coming in on the pa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् आहुः — आत्म-धर्मस्य चैतन्यस्य विषयेण संयोगो ज्ञानम् इत्य् उच्यत इति, तत्रापि संयोगस्य उभय-निष्ठतया स एव प्रसङ्गः ।
+यद् आहुः —  
+
+> आत्म-धर्मस्य चैतन्यस्य  
+विषयेण संयोगो ज्ञानम् इत्य् उच्यत  
+
+इति, तत्रापि संयोगस्य +उभय-निष्ठतया  
+स एव प्रसङ्गः ।
 </details>
 
 <details><summary>English</summary>
@@ -425,7 +543,12 @@ Even on the view advanced by some that the conjunction of consciousness, which i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुभव-विरोधश् च — अहम् इदम् इदानीं जानामि, नेदानीम् इत्य् आत्म-समवायिनोर् एव ज्ञान-भावाभावयोर् अनुभवात् ॥
+अनुभव-विरोधश् च —  
+
+> अहम् इदम् इदानीं जानामि,  
+नेदानीम् 
+
+इत्य् आत्म-समवायिनोर् एव ज्ञान-भावाभावयोर् अनुभवात् ॥
 </details>
 
 <details><summary>English</summary>
@@ -440,7 +563,13 @@ and, in addition, there is contradiction with experience, since the presence or 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अविकृत-प्रकाश-हेतु-किरण-संहताव् अप्य् अहिम-महसि प्रकाशकत्व-प्रख्योपाख्यान-वद् उपपद्यत इति मा वोचः, तत्र हि गभस्तीनां द्रव्यतया ऽऽकुञ्चन-प्रसारण-द्रव्यान्तर-संयोग-विभागादेस् सम्भवाद् उपपद्यते व्यवस्थोपलब्धिः ।
+> अ-विकृत-प्रकाश-हेतु-- किरण-संहताव् अप्य्  
+अ-हिम-महसि +++(सूर्ये, न वस्तुनि)+++ प्रकाशकत्व-प्रख्योपाख्यानवद् उपपद्यत 
+
+इति मा वोचः,  
+तत्र हि गभस्तीनां द्रव्यतया  
+ऽऽकुञ्चन-प्रसारण-द्रव्यान्तर-संयोग-विभागादेस् सम्भवाद्  
+उपपद्यते व्यवस्थोपलब्धिः ।
 </details>
 
 <details><summary>English</summary>
@@ -455,7 +584,8 @@ Do not say that, just as in the case of the sun which is unchanging and which po
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चैतन्यं तु गुण इति न तथा व्यवस्थाम् अर्हति ।
+चैतन्यं तु गुण इति  
+न तथा व्यवस्थाम् अर्हति ।
 </details>
 
 <details><summary>English</summary>
@@ -468,7 +598,7 @@ Consciousness, on the other hand, is a quality hence, in this case, there is no 
 चैतन्यं तु गुण इति न तथा व्यवस्थामर्हति ।
 </details>
 
-### नित्यानित्य-ज्ञाने न
+### नित्यानित्य-ज्ञाने?
 <details><summary>विषयः</summary>
 
 Untenability of the view that the soul has a two-fold knowledge, (i) eternal and (ii) non eternal
@@ -477,7 +607,9 @@ Untenability of the view that the soul has a two-fold knowledge, (i) eternal and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथोच्येत — द्विधा हि ज्ञानम् आत्मनः, स्वस्मिन्न् अन्यत्र च ।
+अथोच्येत —  
+द्विधा हि ज्ञानम् आत्मनः,  
+स्वस्मिन्न् अन्यत्र च ।
 </details>
 
 <details><summary>English</summary>
@@ -492,7 +624,7 @@ It may be said that the knowledge belonging to the self is twofold -one relating
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र आद्यम् उदयास्तमय-रहितम् आत्म-स्वरूप-प्रयुक्तम् अनवरतम् अनुवर्तते ।
+तत्राद्यम् उदयास्तमय-रहितम् आत्म-स्वरूप-प्रयुक्तम् अनवरतम् अनुवर्तते ।
 </details>
 
 <details><summary>English</summary>
