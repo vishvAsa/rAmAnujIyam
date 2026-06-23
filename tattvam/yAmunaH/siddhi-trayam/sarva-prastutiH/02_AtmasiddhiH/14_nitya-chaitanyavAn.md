@@ -1083,7 +1083,7 @@ Apart from being the substrate of consciousness, the self has no other form. Tha
 चितिशक्त्येति आदि विवृणोति बुद्ध्यादिना ।
 </details>
 
-## शक्तिः
+### शक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च  
@@ -1119,7 +1119,14 @@ There is no warrant to declare that a substance, which altogether fails to produ
 
 <details><summary>English</summary>
 
-[[P97]] Effects, such as, knowledge of pleasure and pain, which are found to be associated with one connected with a body, will lead to the conclusion that the potency to produce them resides only in the self thus qualified; oven as smoke will only point to the fact that the capacity to produce it resides in the fire associated with wet fuel; or as paddy-sprout leads to the inference that the capacity to produce it resides only in the rice associated with the husk.
+[[P97]] Effects, such as, knowledge of pleasure and pain, which are found to be associated with one connected with a body,  
+will lead to the conclusion that the potency to produce them resides only in the self thus qualified;  
+even as smoke will only point to the fact that  
+the capacity to produce it  
+resides in the fire associated with wet fuel;  
+or as paddy-sprout leads to the inference that  
+the capacity to produce it  
+resides only in the rice associated with the husk.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1146,8 +1153,14 @@ Effects, such as, knowledge of pleasure and pain, which are found to be associat
 
 अपि च बोधे सत्य् एव  
 आत्मनो ऽनात्म-व्यवच्छेदे सम्भवति  
-कृतं तच्-छक्त्याश्रयणेन ।
++++(व्यर्थं)+++ कृतं तच्-छक्त्य्-आश्रयणेन ।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+प्रकृते स्वापे ऽप्य् आत्मनः सहज-चैतन्ये सति, शक्ति-मात्र-कल्पनेन किम् इति भावः। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1159,7 +1172,9 @@ Further, when it is possible to differentiate the soul from the non-soul with th
 अपि च बोधे सत्येवात्मनोऽनात्मव्यवच्छेदे सम्भवति कृतं तच्छक्तयाश्रयणेन ।
 </details>
 
-## आत्माश्रयं ज्ञानम्
+
+
+### आत्माश्रयं ज्ञानम्
 <details><summary>विषयः</summary>
 
 Though jnana is eternal it has atma for its support:-
@@ -1169,34 +1184,72 @@ Though jnana is eternal it has atma for its support:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च एवं सति बोध एव परमात्मेति युक्तम्, तस्या ऽऽश्रय-प्रतियोगि-सापेक्ष-स्वरूपत्वाद् आत्मनश् च तद्-विपरीत-स्वभावत्वात्; साक्षाच् च चेतयितुर् अहम्-अर्थस्य स्फुरणात्; अनुभव-तर्कागम-बलेन चितिमत आत्म-भावस्य अनन्तरम् एव प्रपञ्चितत्वाच् च ।
+न च
+
+> एवं सति  
+बोध एव परमात्मा
+
+इति युक्तम्,  
+तस्या ऽऽश्रय-प्रतियोगि-सापेक्ष-स्वरूपत्वाद्  
+आत्मनश् च तद्-विपरीत-स्वभावत्वात्;  
 </details>
 
 <details><summary>English</summary>
 
-It is not right to maintain that consciousness itself is the self; because the nature of consciousness is to depend upon a substrate and a correlative, while the self has an opposite character; and because the self, the knower, unlike consciousness, shines forth directly and because on the strength of every-day experience, reasoning (tarka) and scriptural testimony, it has already been shown at great length that the quality of being the self belongs only to that entity which is endowed with knowledge.
+It is not right to maintain that consciousness itself is the self; because the nature of consciousness is to depend upon a substrate and a correlative, while the self has an opposite character; 
 </details>
 
 <details><summary>मूलम्</summary>
 
-न चैवं सति बोध एव परमात्मेति युक्तम्, तस्याऽश्रयप्रतियोगिसापेक्षस्वरूपत्वादात्मनश्चतद्विपरीतस्वभावत्वात्; साक्षाच्च चेतयितुर्अहमर्थस्य स्फुरणात्; अनुभवतर्कागमबलेन चितिमत आत्मभावस्यानन्तरमेव प्रपञ्चितत्वाच्च ।
+न चैवं सति बोध एव परमात्मेति युक्तम्, तस्याऽश्रयप्रतियोगिसापेक्षस्वरूपत्वादात्मनश्चतद्विपरीतस्वभावत्वात्; 
 </details>
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ननु नित्यत्वे ज्ञानस्याऽत्मत्वम् अपि इष्यताम् तस्यैवेति शङ्काम् अनूद्य परिहरति न चैवं सतीति । परम् वरम् । तस्येति । विषय-आश्रय-सापेक्षस्य ज्ञानस्य तद्-अनपेक्ष-स्वतन्त्र-आत्म-स्वरूपत्वम् अयुक्तम् इत्य् अर्थः । किञ्च, कल्पनायाम् एव लाघव-गौरव-चर्चा-अवसरः । न तु स्फुट-प्रतिपन्ने बोद्ध्रात्मनीत्य् आह साक्षाच्चेति । अहम् जानामीति ज्ञात्र्-आत्म-प्रत्यक्षस्य भ्रमत्वम् इति चेत् तत्राह अनुभवेति । अनन्तरम् एव अव्यवहित-पूर्वम् एव । ज्ञातुर् आत्मत्व-समर्थने इति यावत् । सत्-प्रमाण-तर्क-अनुग्रहात् ज्ञात्र्-आत्म-प्रत्यक्षस्य अभ्रान्तित्वम् एव सम्मन्तव्यम् इति भावः ।
-</details>
-
-
-<details><summary>विषयः</summary>
-
-Refutation of the view that the conjunction of consciousness with object is prana:—
+ननु नित्यत्वे ज्ञानस्याऽत्मत्वम् अपि इष्यताम् तस्यैवेति शङ्काम् अनूद्य परिहरति न चैवं सतीति । परम् वरम् । तस्येति । विषय-आश्रय-सापेक्षस्य ज्ञानस्य तद्-अनपेक्ष-स्वतन्त्र-आत्म-स्वरूपत्वम् अयुक्तम् इत्य् अर्थः । किञ्च, कल्पनायाम् एव लाघव-गौरव-चर्चा-अवसरः । 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च चिति-मात्रात्म-वादे ऽपि तस्यागन्तुक-विषय-सम्बन्धे बोधत्वम् अध्यारोप्य बोद्धृत्व-समर्थन साधीयः, सम्बन्धस्य उभय-निष्ठतया अर्थस्यापि बोद्धृत्व-प्रसङ्गात् ।
+साक्षाच् च चेतयितुर् अहम्-अर्थस्य स्फुरणात्;  
+अनुभव-तर्कागम-बलेन चितिमत आत्म-भावस्य अनन्तरम् एव प्रपञ्चितत्वाच् च ।
+</details>
+
+<details><summary>English</summary>
+
+and because the self, the knower, unlike consciousness, shines forth directly  
+and because on the strength of every-day experience, reasoning (tarka) and scriptural testimony, it has already been shown at great length that the quality of being the self belongs only to that entity which is endowed with knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+साक्षाच्च चेतयितुर्अहमर्थस्य स्फुरणात्; अनुभवतर्कागमबलेन चितिमत आत्मभावस्यानन्तरमेव प्रपञ्चितत्वाच्च ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+न तु स्फुट-प्रतिपन्ने बोद्ध्रात्मनीत्य् आह साक्षाच्चेति । अहम् जानामीति ज्ञात्र्-आत्म-प्रत्यक्षस्य भ्रमत्वम् इति चेत् तत्राह अनुभवेति । अनन्तरम् एव अव्यवहित-पूर्वम् एव । ज्ञातुर् आत्मत्व-समर्थने इति यावत् । सत्-प्रमाण-तर्क-अनुग्रहात् ज्ञात्र्-आत्म-प्रत्यक्षस्य अभ्रान्तित्वम् एव सम्मन्तव्यम् इति भावः ।
+</details>
+
+### विषय-संस्कर्ग-मात्रेण न बोद्धृत्वम्
+<details><summary>विषयः</summary>
+
+Refutation of the view that the conjunction of consciousness with object is jnana:—
+</details>
+
+
+#### अर्थस्य बोद्धृत्व-प्रसङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च  
+चिति-मात्रात्म-वादे ऽपि  
+तस्यागन्तुक-विषय-सम्बन्धे बोधत्वम् अध्यारोप्य  
+बोद्धृत्व-समर्थनं साधीयः,  
+
+सम्बन्धस्य उभय-निष्ठतया  
+अर्थस्यापि बोद्धृत्व-प्रसङ्गात् ।
 </details>
 
 <details><summary>English</summary>
@@ -1206,7 +1259,7 @@ Even on the doctrine that consciousness itself becomes the soul, owing to the ex
 
 <details><summary>मूलम्</summary>
 
-नच चितिमात्रात्मवादेऽपि तस्यागन्तुकविषयसम्बन्धे बोधत्वमध्यारोप्य बोद्धृत्वसमर्थनसाधीयः, सम्बन्धस्योभयनिष्ठतयाऽर्थस्यापि बोद्धृत्वप्रसङ्गात् ।
+नच चितिमात्रात्मवादेऽपि तस्यागन्तुकविषयसम्बन्धे बोधत्वमध्यारोप्य बोद्धृत्वसमर्थनं साधीयः, सम्बन्धस्योभयनिष्ठतयाऽर्थस्यापि बोद्धृत्वप्रसङ्गात् ।
 </details>
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
@@ -1214,9 +1267,12 @@ Even on the doctrine that consciousness itself becomes the soul, owing to the ex
 ननु चैतन्यम् एव आत्मा । विषय-सम्बन्ध एव तस्य बोधो नाम । अतो बोद्धृत्व-प्रतिपत्तिर् आत्मन उपपद्यत इति शङ्कते न च चितिमात्रेति । विषय-चैतन्य-सम्बन्धस्य बोधत्व-अभिमतस्य संयोग-रूपत्वे तस्य द्विष्ठत्वाद् विषयस्यापि बोद्धृत्व-प्रसङ्ग इत्याह सम्बन्धस्येति ।
 </details>
 
+#### न कार्य-कारण-भाववत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च कार्य-कारण-भाव-वद् व्यवस्थित्वम्, तत्र जनिमतो जनयितुश् च परस्परापेक्षा-नियम-लक्षण-सम्बन्धः ।
+न च कार्य-कारण-भाववद् व्यवस्थितत्वम्, 
+तत्र जनिमतो जनयितुश् च  
+परस्परापेक्षा-नियम-लक्षण-सम्बन्धः ।
 </details>
 
 <details><summary>English</summary>
@@ -1226,7 +1282,7 @@ It is not right to suggest that, though the relation is found in both the relata
 
 <details><summary>मूलम्</summary>
 
-नच कार्यकारणभाववद्व्यवस्थित्वम्, तत्र जनिमतो जनयितुश्च परस्परापेक्षानियमलक्षणसम्बन्धः ।
+नच कार्यकारणभाववद्व्यवस्थितत्वम्, तत्र जनिमतो जनयितुश्च परस्परापेक्षानियमलक्षणसम्बन्धः ।
 </details>
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
@@ -1243,7 +1299,8 @@ In respect of the self the analogy of the relation of cause and effect does not 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इहापि स एवेति चेत्, न, अपेक्षा-हेत्वभावात् ।
+"इहापि स +++(कार्य-कारण-भाव)+++ एवे"ति चेत्, न,  
+अपेक्षा-हेत्वभावात् ।
 </details>
 
 <details><summary>English</summary>
@@ -1263,7 +1320,8 @@ In respect of the self the analogy of the relation of cause and effect does not 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किम्-अर्थम् अर्थः चैतन्यम् अपेक्षते, चैतन्यं वा अर्थम्? ।
+किम्-अर्थम् अर्थश् चैतन्यम् अपेक्षते,  
+चैतन्यं वा ऽर्थम्?
 </details>
 
 <details><summary>English</summary>
@@ -1283,7 +1341,8 @@ Why (we ask) does the object stand in need of consciousness? And why, again, doe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिद्ध्य्-अर्थम् इति चेत्, कः सिद्ध्य्-अर्थः?
+सिद्ध्य्-अर्थम् इति चेत्,  
+कः सिद्ध्य्-अर्थः?
 </details>
 
 <details><summary>English</summary>
@@ -1296,9 +1355,11 @@ If you were to reply, (that this dependence is) for the purpose of siddhi, we as
 सिद्ध्यर्थमिति चेत्, कः सिद्ध्यर्थः?
 </details>
 
+##### नोत्पत्त्याय् अपेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तावद् उत्पत्तिः, तस्या निर्ज्ञात-निमित्तान्तरत्वात् ।
+न तावद् उत्पत्तिः,  
+तस्या निर्ज्ञात-निमित्तान्तरत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -1313,7 +1374,9 @@ It cannot denote origination; for origination is well-known to depend on other c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घटादयो हि प्रसिद्ध-मृद्-दण्ड-चक्र-भ्रमणादि-पर्याप्त-निमित्तान्तर-शालिनो न चितिम् अपि निज-जनने ऽपेक्षन्ते ।
+घटादयो हि  
+प्रसिद्ध-मृद्-दण्ड-चक्र-भ्रमणादि-- पर्याप्त-निमित्तान्तर-शालिनो  
+न चितिम् अपि निज-जनने ऽपेक्षन्ते ।
 </details>
 
 <details><summary>English</summary>
@@ -1348,7 +1411,7 @@ Indeed, pots and the like have for their causes other well-known factors, which 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नित्यस्य आत्मन उत्पत्त्य्-अर्थम् अर्थापेक्षेति सुव्याहृतम् ।
+नित्यस्य आत्मन उत्पत्त्य्-अर्थम् अर्थापेक्षेति सुव्याहृतम् ?
 </details>
 
 <details><summary>English</summary>
@@ -1363,12 +1426,18 @@ To maintain that the soul which is eternal depends upon objects for its originat
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-एवम् अर्थस्य उत्पत्तौ चिद्-अपेक्षाम् प्रतिक्षिप्य चित उत्पत्तौ अर्थ-अपेक्षाम् प्रतिक्षिपति नित्यस्येति । नित्य-चैतन्यस्य अर्थ-अपेक्षा-उत्पत्ति-वचनम् व्याहततरम् इति भावः ।
+एवम् अर्थस्योत्पत्तौ  
+चिद्-अपेक्षाम् प्रतिक्षिप्य  
+चित उत्पत्तौ अर्थ-अपेक्षाम् प्रतिक्षिपति नित्यस्येति ।  
+नित्य-चैतन्यस्य अर्थ-अपेक्षा-उत्पत्ति-वचनम् व्याहततरम् इति भावः ।
 </details>
 
+##### न प्रकाशायापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिद्धिः प्रकाश इति चेत्; किं भोः! आत्मा स्वयञ्ज्योतिर् अप्य् अर्थाधीन-प्रकाशः, यद् असौ तद्-अर्थम् अर्थम् अपेक्षते?
+सिद्धिः प्रकाश इति चेत्;  
+किं भोः! आत्मा स्वयञ्-ज्योतिर् अप्य् अर्थाधीन-प्रकाशः,  
+यद् असौ तद्-अर्थम् अर्थम् अपेक्षते?
 </details>
 
 <details><summary>English</summary>
@@ -1428,7 +1497,10 @@ Your understanding of the nature of the soul would indeed be praiseworthy!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम्भवन्न् अप्य् असौ न चिति-स्वरूप-मात्र-निमित्तः, सर्वदा सर्वार्थ-प्रकाश-प्रसङ्गात् ।
++++(संविद्-अतिरेकित्वेन)+++ सम्भवन्न् अप्य् असौ +++(प्रकाशः)+++  
+न चिति-स्वरूप-मात्र-निमित्तः,  
+सर्वदा सर्वार्थ-प्रकाश-प्रसङ्गात्  
++++(प्रत्युतार्थम् अप्य् अपेक्षते)+++।
 </details>
 
 <details><summary>English</summary>
@@ -1461,9 +1533,12 @@ Indeed, all the causal factors being present at all times, the effect could not 
 न हि सदा सन्निहितसमग्रकारणं कार्यं कदाचिद्भवति ।
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगन्तुक-आतिशयाश्रयणे वा नामान्तरेण ज्ञानम् एवाङ्गीकृतम् इति तद्-वानेव आत्मा ऽऽयातः ।
+आगन्तुकातिशय+++(रूप-धर्म)+++-+आश्रयणे वा  
+नामान्तरेण ज्ञानम् एवाङ्गीकृतम् इति  
+तद्वान् एव आत्मा ऽऽयातः ।
 </details>
 
 <details><summary>English</summary>
@@ -1496,6 +1571,7 @@ If the specific quality (known as manifestation) were treated as an occasional p
 (इति धर्मभूतज्ञानस्य नित्यत्वसाधनम्)
 </details>
 
+## आगन्तुकत्वेन नात्मस्वभावः?
 <details><summary>विषयः</summary>
 
 The contention that since dharmabhuta jnana is dependent on occasional factors it cannot be eternal:-
@@ -1504,7 +1580,9 @@ The contention that since dharmabhuta jnana is dependent on occasional factors i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नन्व् एवम् अर्थ-सिद्धि-व्यवस्थापकतया ऽभ्युपगतं ज्ञानम् आगन्तुकं क्रिया-रूपम् इति कथं तद्-आत्म-स्वभावः? ।
+नन्व् एवम् अर्थ-सिद्धि-व्यवस्थापकतया ऽभ्युपगतं ज्ञानम्  
+आगन्तुकं क्रिया-रूपम् इति  
+कथं तद्-आत्म-स्वभावः? ।
 </details>
 
 <details><summary>English</summary>
@@ -1524,7 +1602,9 @@ The contention that since dharmabhuta jnana is dependent on occasional factors i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि — अर्थ-न्तर-गतत्वे सति जनक-द्रव्यान्तरं प्रति कार्यत्वादिकेन रूपेणासाधारणो गन्तव्य-देश-प्राप्त्यादिर् यं प्रति असाधारणः तत्-समवेतागन्तुकासाधारणगमनादिक्रियाजन्यो दृष्टः ।
+तथा हि — अर्थ-न्तर-गतत्वे सति  
+जनक-द्रव्यान्तरं प्रति कार्यत्वादिकेन रूपेण  
+असाधारणो गन्तव्य-देश-प्राप्त्यादिर् यं प्रत्य् असाधारणः तत्-समवेतागन्तुकासाधारण- गमनादि-क्रिया-जन्यो दृष्टः ।
 </details>
 
 <details><summary>English</summary>
