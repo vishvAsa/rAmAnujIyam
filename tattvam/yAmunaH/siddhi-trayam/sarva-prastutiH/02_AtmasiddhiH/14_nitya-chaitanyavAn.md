@@ -608,7 +608,8 @@ Untenability of the view that the soul has a two-fold knowledge, (i) eternal and
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोच्येत —  
-द्विधा हि ज्ञानम् आत्मनः,  
+द्
+विधा हि ज्ञानम् आत्मनः,  
 स्वस्मिन्न् अन्यत्र च ।
 </details>
 
@@ -639,7 +640,10 @@ and of these, the former is without a beginning and an end, is dependent on the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतरत् तु तत्तद्-अर्थ-सम्बन्धीन्द्रियाद्यागन्तुक-हेतु-भेदायत्तात्म-लाभं तत्तद्-भावाभावानुविधायि तत्तद्-अर्थ-प्रकाशतयोदीयते, लीयते च ।
+इतरत् तु  
+तत्-तद्-अर्थ-सम्बन्धीन्द्रियाद्य्- आगन्तुक-हेतु-भेदायत्तात्म-लाभं  
+तत्-तद्-भावाभावानुविधायि  
+तत्-तद्-अर्थ-प्रकाशतयोदीयते, लीयते च ।
 </details>
 
 <details><summary>English</summary>
@@ -654,7 +658,9 @@ while the latter, whose very existence is dependent on several occasional factor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदपेक्षयैव स्वाप-जागराद्य्-अवस्था-व्यवस्था ऽपि सङ्गस्यत इति; उच्यते ।
+तद् अपेक्षयैव स्वाप-जागराद्य्-अवस्था-व्यवस्था ऽपि सङ्गंस्यत  
+
+इति।
 </details>
 
 <details><summary>English</summary>
@@ -664,12 +670,15 @@ And it is on this basis that even the distinction of states into those of sleepi
 
 <details><summary>मूलम्</summary>
 
-तदपेक्षयैव स्वापजागराद्यवस्थाव्यवस्थाऽपि सङ्गस्यत \इति; उच्यते ।
+तदपेक्षयैव स्वापजागराद्यवस्थाव्यवस्थाऽपि सङ्गस्यत \इति।
 </details>
 
+#### नित्य-ज्ञान-साधनं क्व?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभ्युपगच्छेमाप्य् एवं, यदि नित्यम् आत्मनि ज्ञानम् अस्तीत्य् अत्र किमपि साधनम् उपलभेमहि ।
+उच्यते । अभ्युपगच्छेमाप्य् एवं,  
+यदि नित्यम् आत्मनि ज्ञानम् अस्तीत्य्-अत्र  
+किम् अपि साधनम् उपलभेमहि ।
 </details>
 
 <details><summary>English</summary>
@@ -679,10 +688,11 @@ To this it is said in reply that we may accept this if we notice any proof for t
 
 <details><summary>मूलम्</summary>
 
-अभ्युपगच्छेमाप्य्एवं, यदि नित्यमात्मनि ज्ञानमस्तीत्यत्र किमपि साधनमुपलभेमहि ।
+अभ्युपगच्छेमाप्य् एवं, यदि नित्यमात्मनि ज्ञानमस्तीत्यत्र किमपि साधनमुपलभेमहि ।
 </details>
 
-### गजोदाहरणम्
+
+### स्वापय् आश्रय-ज्ञानम्?
 <details><summary>विषयः</summary>
 
 The illustration of the remembrance that there was no elephant at the tank-bund in the morning cited to prove the existence of consciousness in deep sleep is unhelpful:
@@ -691,7 +701,9 @@ The illustration of the remembrance that there was no elephant at the tank-bund 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नन्व् अङ्गीकृतस् तावज् जाग्रद्-अवस्थायां सर्वदा ऽऽत्मानुभवः; स्वापादिषु चानुमीयते तात्कालिकस्य विषय-ज्ञानाभावस्य उत्तरोत्तर-कालं परामृश्यमानत्वात् ।
+नन्व् अङ्गीकृतस् तावज्  
+जाग्रद्-अवस्थायां सर्वदा ऽऽत्मानुभवः;  
+स्वापादिषु चानुमीयते तात्कालिकस्य विषय-ज्ञानाभावस्य उत्तरोत्तर-कालं परामृश्यमानत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -706,7 +718,9 @@ The illustration of the remembrance that there was no elephant at the tank-bund 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्-कालीनः अभावः परामृश्यते, तत्-कालीनेन तद्-आश्रय-स्वरूप-ज्ञानेनापि हि भाव्यम्, मध्याह्न-काल-परामृश्यमान इव प्रातस्-स्मय-परिदृष्ट-तटाक-तीरादि-वर्तिनि कुञ्जराद्य्-अभावे ।
+यत्-कालीनो ऽभावः परामृश्यते,  
+तत्-कालीनेन तद्-आश्रय-स्वरूप-ज्ञानेनापि हि भाव्यम्,  
+मध्याह्न-काल-परामृश्यमान इव प्रातस्-समय-परिदृष्ट-- तटाक-तीरादि-वर्तिनि कुञ्जराद्य्-अभावे ।
 </details>
 
 <details><summary>English</summary>
@@ -716,12 +730,14 @@ Whenever the non-existence of a thing is remembered as having existed at a given
 
 <details><summary>मूलम्</summary>
 
-यत्कालीनोऽभावः परामृश्यते, तत्कालीनेन तदाश्रयस्वरूपज्ञानेनापि हि भाव्यम्, मध्याह्नकालपरामृश्यमान इव प्रातस्स्मयपरिदृष्टतटाकतीरादिवर्तिनि कुञ्जराद्यभावे ।
+यत्कालीनोऽभावः परामृश्यते, तत्कालीनेन तदाश्रयस्वरूपज्ञानेनापि हि भाव्यम्, मध्याह्नकालपरामृश्यमान इव प्रातस्समयपरिदृष्टतटाकतीरादिवर्तिनि कुञ्जराद्यभावे ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्-कालीनाभावाश्रयतया यः परामृश्यते स तत्कालीन-स्वरूपानुभववान्, यथा प्रातर्-अनुभूत-तटाक-तीरादिः ।
+यत्-कालीनाभावाश्रयतया यः परामृश्यते  
+स तत्कालीन-स्वरूपानुभववान्,  
+यथा प्रातर्-अनुभूत-तटाक-तीरादिः ।
 </details>
 
 <details><summary>English</summary>
@@ -756,12 +772,31 @@ The self is remembered as the locus of the non-existence of the consciousness of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस् तत्कालीन-स्वरूपानुभववान् इति; मैवम् — अनैकान्त्यात् 'प्रातस् तत्र नाहम् आसम्' इति स्वाभाव-भूमितया प्रतीतेन प्रातर्-अनवगत-गिरि-तटाकादिना ।
+अतस् तत्कालीन-स्वरूपानुभववान् इति; 
 </details>
 
 <details><summary>English</summary>
 
-The self is remembered as the locus of the non-existence of the consciousness of objects--a non-existence which prevailed in the states of deep sleep and the like; hence, at that time (also) it must have possessed knowledge concerning itself. The reply is 'not so'. For, in the light of instances such as, the hill, tank and the like which were not noticed in the morning by a person, and which are known to be the substrate of his non-existence as is evident from his experience 'I was not present there in the morning,' it is clear that your reason is liable to be charged with *anekanta dosa*.
+The self is remembered as the locus of the non-existence of the consciousness of objects--a non-existence which prevailed in the states of deep sleep and the like; hence, at that time (also) it must have possessed knowledge concerning itself. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्तत्कालीनस्वरूपानुभववानिति; 
+</details>
+
+
+#### अनैकान्त्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मैवम् — अनैकान्त्यात् -  
+'प्रातस् तत्र नाहम् आसम्'  
+इति स्वाभाव-भूमितया प्रतीतेन प्रातर्-अनवगत-गिरि-तटाकादिना ।
+</details>
+
+<details><summary>English</summary>
+
+The reply is 'not so'. For, in the light of instances such as, the hill, tank and the like which were not noticed in the morning by a person, and which are known to be the substrate of his non-existence as is evident from his experience 'I was not present there in the morning,' it is clear that your reason is liable to be charged with *anekanta dosa*.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -771,7 +806,9 @@ The self is remembered as the locus of the non-existence of the consciousness of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभाव-प्रतिपत्ति-समये प्रतिपित्सिताभाव-समकाल-वर्तिनस् तद्-आश्रय-स्वरूपस्यावगत्या, विद्यमानत्वे तत्कालतया ऽवगम-प्राप्तस्य प्रतियोगिनो ऽनवगत्या च भवितव्यम् अभाव-ज्ञानस्येत्य् एतावत् ।
+अभाव-प्रतिपत्ति-समये प्रतिपित्सिताभाव-समकाल-वर्तिनस् तद्-आश्रय-स्वरूपस्यावगत्या,  
+विद्यमानत्वे तत्-कालतया ऽवगम-प्राप्तस्य प्रतियोगिनो +++(आश्रयिणः)+++ ऽनवगत्या च भवितव्यम्  
+अभाव-ज्ञानस्येत्य् एतावत् ।
 </details>
 
 <details><summary>English</summary>
