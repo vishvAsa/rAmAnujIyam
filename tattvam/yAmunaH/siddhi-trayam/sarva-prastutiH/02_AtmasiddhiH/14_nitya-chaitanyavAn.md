@@ -848,15 +848,20 @@ Here, even without there being any self-consciousness at the time of sleep, thos
 अन्तरेणापि स्वापकालीनमात्मानुभवमिह तदुभयमुपपद्यते, प्रत्यभिज्ञयैव प्रबोधे स्वरूपसिद्धेः; जाग्रदनुभवस्येव पटीयसस्वापेऽपि सतोऽनुभवस्य स्मर्तव्यस्य सतस्तदानीमस्मरणाच्च ।
 </details>
 
+#### सुख-स्वाप-परामर्शः
 <details><summary>विषयः</summary>
 
 Nor is the remembrance on waking "I slept well" helpful in proving that there is self-awareness in deep sleep:-
 </details>
 
-
+##### स्वापे जात्यादिवत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुखम् अहम् अस्वाप्सम् इत्यादि-वृत्तयश् च तात्कालिक-देहेन्द्रिय-लाघव-पाटवादि-पर्यालोचन-पूर्विका न स्मृतयः, जाति-वेष-संस्थानादिष्व् इव ।
+> सुखम् अहम् अस्वाप्सम्  
+
+इत्यादि-वृत्तयश् च तात्कालिक-देहेन्द्रिय-- लाघव-पाटवादि-पर्यालोचन-पूर्विका  
+न स्मृतयः,  
++++(स्वापावस्थाक-)+++जाति-वेष-संस्थानादिष्व् इव ।
 </details>
 
 <details><summary>English</summary>
@@ -871,7 +876,13 @@ Nor is the remembrance on waking "I slept well" helpful in proving that there is
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते ऽपि हि परामर्शयन्ते, 'एवञ्जातीयो ऽहम् ईदृशेन वेषेणानेन संस्थानेनात्रेयन्तं कालम् अस्वाप्सम्' इति ।
+ते ऽपि हि परामृश्यन्ते,  
+
+> 'एवञ् जातीयो ऽहम्  
+ईदृशेन वेषेणानेन संस्थानेन  
+अत्रेयन्तं कालम् अस्वाप्सम्' 
+
+इति ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -889,14 +900,20 @@ They too are certainly experienced thus: 'I, belonging to this caste, slept here
 तेऽपि हि परामृश्यन्ते, 'एवञ्जातीयोऽहमीदृशेन वेषेणानेन संस्थानेनात्रेयन्तं कालमस्वाप्स' मिति ।
 </details>
 
+##### तमो-वृत्ति-स्मृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च स्मृतित्वे ऽपि जाग्रद्-अवस्थायाम् इव निद्रा-लक्षणया प्रमाण-विपर्ययादि-वृत्त्यभाव-कारण-तमो-गुणालम्बनया प्रतीत्या तत्काल-प्रसिद्धस्य आत्मनस् स्मरणम्, न तु सहज-संवेदन-सिद्धस्य स्व-प्रकाशस्य वा; प्रमाणाभावात् ।
+अपि च स्मृतित्वे ऽपि  
+जाग्रद्-अवस्थायाम् इव  
+निद्रा-लक्षणया प्रमाण-विपर्ययादि-वृत्त्य्-- अभाव-कारण-- तमो-गुणालम्बनया प्रतीत्या +++(→वृत्त्या)+++  
+तत्काल-प्रसिद्धस्यात्मनस् स्मरणम्,  
+न तु सहज-संवेदन-सिद्धस्य स्व-प्रकाशस्य वा;  
+प्रमाणाभावात् ।
 </details>
 
 <details><summary>English</summary>
 
-Moreover, even if the cognition 'I slept well' were admitted to be a recollection, the remembrance of 'I' pertains only to the self which is known at the time of sleep to be in association with the vṛtti, known as *nidrā* --a *vṛtti* based on the quality of tamas (darkness) which makes for the absence of other vṛttis, like *pramāņa* and *viparyaya*--even as it is known in the waking state to be in association with some vṛtti or other; it does not pertain to either the self which manifests itself *(svaprakāśa*) or to that which shines forth with the aid of a knowledge which is its innate quality; as there is no warrant (for stating that it refers to either of these).
+Moreover, even if the cognition 'I slept well' were admitted to be a recollection, the remembrance of 'I' pertains only to the self which is known at the time of sleep to be in association with the vṛtti, known as *nidrā* --a *vṛtti* based on the quality of tamas (darkness) which makes for the absence of other vṛttis, like *pramāņa* and *viparyaya*--even as it is known in the waking state to be in association with some vṛtti or other; it does not pertain to either the self which manifests itself (*svaprakāśa*) or to that which shines forth with the aid of a knowledge which is its innate quality; as there is no warrant (for stating that it refers to either of these).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -906,7 +923,8 @@ Moreover, even if the cognition 'I slept well' were admitted to be a recollectio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निद्रापि प्रमाण-विपर्ययादिवत् वृत्ति-विशेष इति तत्र भवान् पतञ्जलिः ।
+निद्रापि प्रमाण-विपर्ययादिवत् वृत्ति-विशेष  
+इति तत्र-भवान् पतञ्जलिः -
 </details>
 
 <details><summary>English</summary>
@@ -924,14 +942,10 @@ The revered Patanjali thinks that *nidrā* (sleep) also, like *pramāṇa*, *vip
 निद्रापि प्रमाणविपर्ययादिवत् वृत्तिविशेष इति तत्र भवान् पतञ्जलिः ।
 </details>
 
-<details><summary>विषयः</summary>
-
-The contention that the self depends on jnāņa for its manifestation and that jnāna is non-eternal:-
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदाह 'अभाव-प्रत्ययालम्बना वृत्तिर् निद्रा' इति ।
+यद् आह 'अभाव-प्रत्ययालम्बना वृत्तिर् निद्रा' इति ।
 </details>
 
 <details><summary>English</summary>
@@ -952,7 +966,13 @@ He says, " *Nidrā* (sleep) is the *vṛtti* which has for its object tamas, whi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रयोगश् च — विमत्याक्रान्तात्म-स्वरूप-सिद्धिः, विषयानुभव-निबन्धना आत्म-स्वरूप-सिद्धित्वात् जाग्रतस् तत्-सिद्धिवद् इति ।
+प्रयोगश् च —  
+
+विमत्याक्रान्ता ऽऽत्म-स्वरूप-सिद्धिर् विषयानुभव-निबन्धना  
+आत्म-स्वरूप-सिद्धित्वात्  
+जाग्रतस् तत्-सिद्धिवद् 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -970,9 +990,16 @@ The same may be expressed in syllogistic form.--The knowledge of the self-the ma
 प्रयोगश्च \विमत्याक्रान्तात्मस्वरूपसिद्धिः, विषयानुभवनिबन्धना आत्मस्वरूपसिद्धित्वात् जाग्रतस्तत्सिद्धिवदिति ।
 </details>
 
+### ज्ञानागन्तुकता
+<details><summary>विषयः</summary>
+
+The contention that the self depends on jnāņa for its manifestation and that jnāna is non-eternal:-
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा आगन्तुकं ज्ञानम् आत्म-विशेष-गुणत्वात् सुखादि-वत् ।
+तथा ऽऽगन्तुकं ज्ञानम्  
+आत्म-विशेष-गुणत्वात् सुखादि-वत् ।
 </details>
 
 <details><summary>English</summary>
@@ -987,7 +1014,12 @@ Knowledge is an occasional quality; for it is a specific quality of the self, li
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च सुख-दुःखादयो नात्म-गुणाः अप्रसिद्धाश्रयान्तरत्वे सत्य् अहम्-प्रत्यय-सामानाधिकरण्येन प्रकाशमानत्वात् ज्ञान-वद् इति —
+न च सुख-दुःखादयो नात्म-गुणाः –  
+अ-प्रसिद्धाश्रयान्तरत्वे सत्य्  
+अहम्-प्रत्यय-सामानाधिकरण्येन प्रकाशमानत्वात्  
+ज्ञान-वद् 
+
+इति।
 </details>
 
 <details><summary>English</summary>
@@ -1000,7 +1032,7 @@ It cannot be maintained that pleasure, pain and like are not the qualities of th
 न च सुखदुःखादयो नात्मगुणाः अप्रसिद्धाश्रयान्तरत्वे सत्यहम्प्रत्ययसामानाधिकरण्येन प्रकाशमानत्वात् ज्ञानवदिति-
 </details>
 
-## नित्यचैतन्यस्थापनारम्भः
+## स्वतश् चैतन्यम्
 <details><summary>विषयः</summary>
 
 The proof that dharmabhūtajnāna is eternal:-
@@ -1008,8 +1040,10 @@ The proof that dharmabhūtajnāna is eternal:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-1.24 अत्र आहुर् आत्म-तत्त्व-ज्ञाः स्वतः चैतन्यम् आत्मनः ।  
-स्वरूपोपाधि-धर्मत्वात् प्रकाश इव तेजसः ॥
+1.24 अत्राहुर् आत्म-तत्त्व-ज्ञाः  
+स्वतश् चैतन्यम् आत्मनः ।  
+स्व-रूपोपाधि-धर्मत्वात्  
+प्रकाश इव तेजसः ॥
 </details>
 
 <details><summary>English</summary>
@@ -1030,7 +1064,8 @@ The proof that dharmabhūtajnāna is eternal:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बुद्धि-सुख-दुःखादि-निःशेष-वैशेषिकात्म-गुणात्यन्तिकोपरम-लक्षणो हि मोक्षः कण-भक्षाक्ष-चरण-मते ।
+बुद्धि-सुख-दुःखादि- निःशेष-वैशेषिक-- +आत्म-गुणात्यन्तिकोपरम-लक्षणो हि मोक्षः  
+कण-भक्षाक्ष-चरण +++(=गौतम)+++ --मते ।
 </details>
 
 <details><summary>English</summary>
@@ -1048,9 +1083,15 @@ Apart from being the substrate of consciousness, the self has no other form. Tha
 चितिशक्त्येति आदि विवृणोति बुद्ध्यादिना ।
 </details>
 
+## शक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च अत्यन्त-लुप्त-कार्यं वस्तु तत्-कार्य-जनन-शक्तम् इत्य् अत्र किञ्चित् प्रमाणं क्रमते ।
+न च  
+
+> अत्यन्त-लुप्त-कार्यं वस्तु  
+तत्-कार्य-जनन-शक्तम् 
+
+इत्य् अत्र किञ्चित् प्रमाणं क्रमते ।
 </details>
 
 <details><summary>English</summary>
@@ -1070,7 +1111,10 @@ There is no warrant to declare that a substance, which altogether fails to produ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देहादि-विशिष्ट-सम्बन्धितया दृश्यमान-सुख-दुःख-ज्ञानादि-कार्यं विशिष्ट-वर्तिनीम् एव आत्मोत्पाद-शक्तिं कल्पयति, धूम इवाद्र्-इन्धन-सम्बन्धिनि धूम-ध्वजे स्वोत्पादन-सामर्थ्यम्, व्रीह्य्-अङ्कुर इव च सतुष-तण्डुले ।
+देहादि-विशिष्ट-सम्बन्धितया दृश्यमान-सुख-दुःख-ज्ञानादि-कार्यं  
+विशिष्ट-वर्तिनीम् एवात्मोत्पाद-शक्तिं कल्पयति,  
+धूम इवार्द्रेन्धन-सम्बन्धिनि धूम-ध्वजे +++(अग्नौ)+++ स्वोत्पादन-सामर्थ्यम्,  
+व्रीह्य्-अङ्कुर इव च स-तुष-तण्डुले ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -1100,7 +1144,9 @@ Effects, such as, knowledge of pleasure and pain, which are found to be associat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च बोधे सत्य् एवात्मनो ऽनात्म-व्यवच्छेदे सम्भवति कृतं तच्छक्त्याश्रयणेन ।
+अपि च बोधे सत्य् एव  
+आत्मनो ऽनात्म-व्यवच्छेदे सम्भवति  
+कृतं तच्-छक्त्याश्रयणेन ।
 </details>
 
 <details><summary>English</summary>
