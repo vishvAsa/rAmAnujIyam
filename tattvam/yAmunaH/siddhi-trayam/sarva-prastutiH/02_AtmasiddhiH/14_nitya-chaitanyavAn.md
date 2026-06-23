@@ -786,7 +786,7 @@ The self is remembered as the locus of the non-existence of the consciousness of
 </details>
 
 
-#### अनैकान्त्यम्
+#### पूर्वाननुभूताश्रय-ज्ञानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैवम् — अनैकान्त्यात् -  
@@ -813,7 +813,9 @@ The reply is 'not so'. For, in the light of instances such as, the hill, tank an
 
 <details><summary>English</summary>
 
-For the cognition of non-existence two conditions would suffice, namely, (i) at the time of the cognition of non-existence, there must be knowledge of its locus-a locus which exists simultaneously with the non-existence which is sought to be apprehended, and (ii) the absence of the knowledge of the pratiyogin (counter-correlative)-which, had it existed, must surely have been grasped as having existed at that time.
+For the cognition of non-existence two conditions would suffice, namely,  
+(i) at the time of the cognition of non-existence, there must be knowledge of its locus-a locus which exists simultaneously with the non-existence which is sought to be apprehended, and  
+(ii) the absence of the knowledge of the pratiyogin (counter-correlative)- which, had it existed, must surely have been grasped as having existed at that time.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -823,7 +825,12 @@ For the cognition of non-existence two conditions would suffice, namely, (i) at 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्तरेणापि स्वाप-कालीनम् आत्मानुभवम् इह तद्-उभयम् उपपद्यते, प्रत्यभिज्ञयैव प्रबोधे स्वरूप-सिद्धेः; जाग्रद्-अनुभवस्येव पटीयसस् स्वापे ऽपि सतो ऽनुभवस्य स्मर्तव्यस्य सतस् तदानीम् अस्मरणाच् च ।
+अन्तरेणापि स्वाप-कालीनम् आत्मानुभवम्  
+इह +++(स्वाप-कालीनय् आरयावगतिः, ज्ञानाभावावगतिश् चेति)+++ तद् उभयम् उपपद्यते,  
+प्रत्यभिज्ञयैव प्रबोधे स्वरूप-सिद्धेः;  
+जाग्रद्-अनुभवस्येव पटीयसस्  
+स्वापे ऽपि सतो ऽनुभवस्य स्मर्तव्यस्य सतस्  
+तदानीम् अस्मरणाच् च ।
 </details>
 
 <details><summary>English</summary>
