@@ -966,7 +966,7 @@ The Jeeyangar-Il known as Parankusa Van Satakopa Jeeyar-Il was a great religious
 
 The items of expenditure includes presentation of a cloth to Van Satakopa Jeeyar who read Kaisika Puranam.
 
-Based on the above inscriptions the date of second and third Jeeyars of Ahobila mutt extends upto 1539 AD from 1516 AD. Accordingly as stated by Rayadurgam
+Based on the above inscriptions the date of second and third Jeeyars of Ahobila mutt extends upto 1539 AD from 1516 AD. 
 
 
 
@@ -974,7 +974,7 @@ Based on the above inscriptions the date of second and third Jeeyars of Ahobila 
 
 [[54]]
 
-Kotikanyadanam D.Ramaswamy Iyengar in the History of Ahobilam published in 1916 AD we may take that the Ahobila Mutt was established at Ahobilam in 1513 AD by the king Krishna Devaraya of Vijayanagar Empire and the first pontiff lived upto 1516 AD. Being the first Jeeyar he is called Adhi-Van-Satagopa Jeeyar (Adhi-Earliest).
+Accordingly as stated by Rayadurgam Kotikanyadanam D.Ramaswamy Iyengar in the History of Ahobilam published in 1916 AD we may take that the Ahobila Mutt was established at Ahobilam in 1513 AD by the king Krishna Devaraya of Vijayanagar Empire and the first pontiff lived upto 1516 AD. Being the first Jeeyar he is called Adhi-Van-Satagopa Jeeyar (Adhi-Earliest).
 
 In view of the fact that Van-Satakopa Nandavanam was very much available at Thirupathi and was looked after by a Jeeyar from a period even before the said birth year of the first Jeeyar of Ahobila mutt (according to tradition 1379 AD) the woven story that Van-Satakopa Jeeyar was invited and given Sanyas by Lord Narasimha himself could only be a story without any basis and authentication. So it must be that the Jeeyar took Sanyas or Gadi at Thirupathi itself and was looking after the Sitakaragandan Mutt and Van Satakopan Nandavanam during which period he was installed as Jeeyar at Ahobilam in 1513 AD by Krishnadevaraya. Though at Thirumala the Jeeyars were given full powers as Koil Kelvi, the Ahobilam Jeeyar was called only an agent of the Emperor.
 
