@@ -77,34 +77,8 @@ For the rest, it is just "प्रियाय मम विष्णोश्�
 
 
 ### Video
-loka-sangraha- lakShaNa, laxya, ativyApti, avyApti, (neo-)gauDIya errors, svarUpataH tyAga, sAttvika
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-00:00 - Intro, context (jIvagosvAmi on abandoning nitya-karma https://youtu.be/p8RCWpUrhBs)
-03:50 - lakShaNa, Indian cow laxaNa.
-06:40 - rAmAnuja's lakShaNa of loka-sangraha
-08:50 - Challenge - show ativyApti or avyApti defects or accept your mistake.
-09:50 - Alternate laxaNa
-10:15 - Eg. karma and jnAna yoga (bhagavad-gItA) - choice for loka-sangraha by janaka.
-14:00 - Eg. prAyashcitta by sharaNAgati vs well-known prAyashcitta-s (vaidikAchAra).
-17:50 - Other possible examples
-18:45 - Mistakes - No "lokasangraha" by performing forbidden actions. 
-19:45 - jIva-gosvAmI's error in saying forbidden action is recommended as lokasangraha 
-21:40 - Prioritize correctness over pride, be sAttvika. 
-22:35 - lokasangraha applies to notable people only. A completely forbidden option is no option at all.
-24:50 - Apple, orange choice - shot if you take orange.
-25:50 - baladeva-vidyAbhUShaNa's correction by misrepresenting lokasangraha.
-27:00 - karma-yoga vs jnAna-yoga example - some people _can_ do jnAna-yoga; else kRShNa wastes time and verse.
-29:00 - tIkShNadaMShTra's misinterpretations of lakShmI-tantra and jayAkhya saMhitA violate lokasangraha specificity.
-32:00 - shrAddhAdhikAra akin to lokasangrahAdhikAra
-33:25 - svarUpataH tyAga means abandonment of karma itself, not abandonment of "dependence on karma"
-34:50 - baladeva vidyAbhUShaNa's understanding of svarUpataH tyAga matches.
-37:10 - Chain of bluffs to hide prior bluffs
-38:00 - sAttvika nature - Admit mistakes (I did), move on. 
-</details>
-
-
+See [here](/conversations/YT/gauDIyAH/nitya-karma-abandonment)
 
 ## अनुज्ञाते हि कर्मणि
 न ह्य् अननुज्ञातं कर्म किञ्चन्  
