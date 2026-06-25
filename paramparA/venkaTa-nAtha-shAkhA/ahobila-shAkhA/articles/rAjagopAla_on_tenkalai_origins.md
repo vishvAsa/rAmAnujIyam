@@ -1290,9 +1290,9 @@ Perhaps the above position made easy the conversion of the temple into Vadakalai
 
 Ahobilam mutt. This situation paved way for conversion. However, the religious practices such as celebrating Krishna Jayanthi, performing 'Sandya vandanams' following principles of prapathi etc. were similar for Thenkalai as well as Ahobila Mutt sampradaya.
 
-Sri.U.Ve.P.B.Annagarachariar Swamy of Kanchee asserts that Ahobila Mutt Jeeyars wrote "Purushakara Mimasa", "Rahasyathraya Jeevathu" etc. granthas according to Thenkalai tenets only and established that they belong to Thenkalai Sampradaya only. (Ref. page 81 of "Sath Sampradayartha Saranidhi".)
+Sri.U.Ve.P.B.Annagarachariar Swamy of Kanchee asserts that Ahobila Mutt Jeeyars wrote "Purushakara Mimasa", "Rahasyathraya Jeevathu" etc. granthas according to Thenkalai tenets only and established that they belong to Thenkalai Sampradaya only. (Ref. page 81 of "Sath Sampradayartha Saranidhi".)+++(5)+++
 
-A book "Rahasyathraya Jeevathu" authored by the Van-Satakopa Jeeyar (about 1550 or 1560 AD) asserts that it is only Sriman Narayana who can and will give "Moksham". His consort Sri Mahalakshmi will only recommend to Sriman Narayana to give moksha to a "Chetana". Her action is called Purusha Karathvam only, which is one of the fundamental tenets of Thenkalai Sampradaya.
+A book "Rahasyathraya Jeevathu" authored by the Van-Satakopa Jeeyar (about 1550 or 1560 AD) asserts that it is only Sriman Narayana who can and will give "Moksham". His consort Sri Mahalakshmi will only recommend to Sriman Narayana to give moksha to a "Chetana". Her action is called Purusha Karathvam only, which is one of the fundamental tenets of Thenkalai Sampradaya.+++(5)+++
 
 Sri Mukkur Lakshmi Narasimhachariar also wrote in the same manner in his book "Kurai Onrrumillai". It may be noted that he was a Vadakalai preceptor of 20th century and very much devoted to Ahobila Narasimhar.
 
