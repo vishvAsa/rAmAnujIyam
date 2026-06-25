@@ -74,12 +74,12 @@ and because experiences, such as, 'I know,' 'I knew', are known to be limited by
 
 <details><summary>English</summary>
 
-[[P90]] and because the distinction between the sleeping person and the person awake and that between the soul in bondage and the soul released, would disappear, if the soul were regarded as the substrate of consciousness even in states such as sleep and turiya.[^90_159]
+[[P90]] and because the distinction between the sleeping person and the person awake and that between the soul in bondage and the soul released, would disappear, if the soul were regarded as the substrate of consciousness even in states such as sleep and turiya.[F90_159]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^90_159]: The psychology of the Upanisads mentions four states of the soul-jāgrat (waking), svapna (dreaming), *suşupti* (deep sleep) and turiya. During the waking state, manas and the outer senses are active. In the dream state, the outer senses are in abeyance, but manas continues to function. In deep sleep, even manas is quiescent. *Turiya* is a transcendental state not to be grasped by the experience of the ordinary man. While it resembles sleep in so far as there is complete withdrawal of normal consciousness, and the absence of desires, it differs from it in so far as in this state the self reveals itself fully.
+[F90_159]: The psychology of the Upanisads mentions four states of the soul-jāgrat (waking), svapna (dreaming), *suşupti* (deep sleep) and turiya. During the waking state, manas and the outer senses are active. In the dream state, the outer senses are in abeyance, but manas continues to function. In deep sleep, even manas is quiescent. *Turiya* is a transcendental state not to be grasped by the experience of the ordinary man. While it resembles sleep in so far as there is complete withdrawal of normal consciousness, and the absence of desires, it differs from it in so far as in this state the self reveals itself fully.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -742,12 +742,12 @@ Whenever the non-existence of a thing is remembered as having existed at a given
 
 <details><summary>English</summary>
 
-[[P94]] That which is known as the locus of the non-existence obtaining at a given time involves knowledge concerning itself at that time; for instance, the bank of the tank or thereabouts perceived in the morning.[^94_160]
+[[P94]] That which is known as the locus of the non-existence obtaining at a given time involves knowledge concerning itself at that time; for instance, the bank of the tank or thereabouts perceived in the morning.[F94_160]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^94_160]: It is well-known that in the waking state consciousness always exists. If it could be shown that it exists in sleep and other kindred states also, it would follow that consciousness is an eternal quality of the soul. For this purpose, the following analogy is employed. Just as when a person remembers at noon-day that there was no elephant at the tank in the morning, he must have noticed in the morning the tank which is the locus of the non-existence of the elephant. Even so when a person remembers on waking that he had no cognition of objects at the time of sleep, he must necessarily have known, in the state of sleep, the self which is the locus of the non-existence of the cognition of objects. Thus, it is to be concluded that even in the states of sleep, swoon and the like, there is consciousness. In other words, consciousness is an eternal property of the soul.
+[F94_160]: It is well-known that in the waking state consciousness always exists. If it could be shown that it exists in sleep and other kindred states also, it would follow that consciousness is an eternal quality of the soul. For this purpose, the following analogy is employed. Just as when a person remembers at noon-day that there was no elephant at the tank in the morning, he must have noticed in the morning the tank which is the locus of the non-existence of the elephant. Even so when a person remembers on waking that he had no cognition of objects at the time of sleep, he must necessarily have known, in the state of sleep, the self which is the locus of the non-existence of the cognition of objects. Thus, it is to be concluded that even in the states of sleep, swoon and the like, there is consciousness. In other words, consciousness is an eternal property of the soul.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -835,12 +835,12 @@ For the cognition of non-existence two conditions would suffice, namely,
 
 <details><summary>English</summary>
 
-Here, even without there being any self-consciousness at the time of sleep, those two conditions may possibly exist; for, at the time of waking, there is the knowledge of the locus (i.e., the self), as is evident from remembrance; and in the waking state, there is no remembrance of the experience existing at the time of sleep also-an experience, which is as clear and distinct as waking experience and which is capable of being remembered (if only it existed).[^95_161]
+Here, even without there being any self-consciousness at the time of sleep, those two conditions may possibly exist; for, at the time of waking, there is the knowledge of the locus (i.e., the self), as is evident from remembrance; and in the waking state, there is no remembrance of the experience existing at the time of sleep also-an experience, which is as clear and distinct as waking experience and which is capable of being remembered (if only it existed).[F95_161]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^95_161]: The foregoing analogy is shown to be unsound. To be able to say at noon-day that there was no elephant in the morning at the tank, a person need not have noticed the tank in the morning. It is enough if he has a knowledge of the tank at noon-day, and if there is no knowledge of the elephant, which, if it had existed, would surely have been known. Similarly, in order to state that there was no consciousness during sleep, it is enough if the person has a knowledge of the self at the time of waking, and if there is the absence of the cognition of objects.
+[F95_161]: The foregoing analogy is shown to be unsound. To be able to say at noon-day that there was no elephant in the morning at the tank, a person need not have noticed the tank in the morning. It is enough if he has a knowledge of the tank at noon-day, and if there is no knowledge of the elephant, which, if it had existed, would surely have been known. Similarly, in order to state that there was no consciousness during sleep, it is enough if the person has a knowledge of the self at the time of waking, and if there is the absence of the cognition of objects.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -887,12 +887,12 @@ Nor is the remembrance on waking "I slept well" helpful in proving that there is
 
 <details><summary>English</summary>
 
-They too are certainly experienced thus: 'I, belonging to this caste, slept here so long, in such and such a dress, in such and such a form."[^95_162]
+They too are certainly experienced thus: 'I, belonging to this caste, slept here so long, in such and such a dress, in such and such a form."[F95_162]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^95_162]: Even those who think that the self is cognised in deep sleep admit that its caste, dress and the like are not cognised then, but are apprehended from a consideration of the state of the person on waking. Similarly, it could be said that the cognition 'I slept soundly' does not point to a knowledge existing at the time of sleep, but is based on a consideration of the condition of the body, senses, etc., at the time of waking.
+[F95_162]: Even those who think that the self is cognised in deep sleep admit that its caste, dress and the like are not cognised then, but are apprehended from a consideration of the state of the person on waking. Similarly, it could be said that the cognition 'I slept soundly' does not point to a knowledge existing at the time of sleep, but is based on a consideration of the condition of the body, senses, etc., at the time of waking.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -929,12 +929,12 @@ Moreover, even if the cognition 'I slept well' were admitted to be a recollectio
 
 <details><summary>English</summary>
 
-The revered Patanjali thinks that *nidrā* (sleep) also, like *pramāṇa*, *viparyaya* and so on, is a form of *vṛtti*.[^96_163]
+The revered Patanjali thinks that *nidrā* (sleep) also, like *pramāṇa*, *viparyaya* and so on, is a form of *vṛtti*.[F96_163]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^96_163]: *Vyasa Bhasya* on *Yoga-Sutra* I. 10 and Vacaspati Misra's tika thereon deal with the question whether *nidrā* must rank as a *vṛtti* alongside of pramāna and *viparyaya*
+[F96_163]: *Vyasa Bhasya* on *Yoga-Sutra* I. 10 and Vacaspati Misra's tika thereon deal with the question whether *nidrā* must rank as a *vṛtti* alongside of pramāna and *viparyaya*
 </details>
 
 <details><summary>मूलम्</summary>
@@ -950,12 +950,12 @@ The revered Patanjali thinks that *nidrā* (sleep) also, like *pramāṇa*, *vip
 
 <details><summary>English</summary>
 
-He says, " *Nidrā* (sleep) is the *vṛtti* which has for its object tamas, which is the cause of the non-existence of other *vṛttis*, (like waking and dreaming)."[^96_164]
+He says, " *Nidrā* (sleep) is the *vṛtti* which has for its object tamas, which is the cause of the non-existence of other *vṛttis*, (like waking and dreaming)."[F96_164]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^96_164]: Pātañjala *Yoga*-Sutra I. 10. The translation of this sutra is based on Vācaspati Misra's ṭikā See also Nagji Bhatta's *Yoga*-Sutra-*Vrtti*.
+[F96_164]: Pātañjala *Yoga*-Sutra I. 10. The translation of this sutra is based on Vācaspati Misra's ṭikā See also Nagji Bhatta's *Yoga*-Sutra-*Vrtti*.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -977,12 +977,12 @@ He says, " *Nidrā* (sleep) is the *vṛtti* which has for its object tamas, whi
 
 <details><summary>English</summary>
 
-The same may be expressed in syllogistic form.--The knowledge of the self-the matter under dispute-is dependent upon the cognition of objects, because it is knowledge of the self, like the knowledge of self found in one who is awake.[^96_165]
+The same may be expressed in syllogistic form.--The knowledge of the self-the matter under dispute-is dependent upon the cognition of objects, because it is knowledge of the self, like the knowledge of self found in one who is awake.[F96_165]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^96_165]: Just as the consciousness of the self found in waking is dependent upon the cognition of subjects, even so, in sleep also the consciousness of self must depend on the cognition of objects. But as there is no knowledge of objects then, there cannot be consciousness of the self.
+[F96_165]: Just as the consciousness of the self found in waking is dependent upon the cognition of subjects, even so, in sleep also the consciousness of self must depend on the cognition of objects. But as there is no knowledge of objects then, there cannot be consciousness of the self.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1654,7 +1654,7 @@ Hence, it is but right to infer that the manifestation of objects which resemble
 उदाहरणम् उक्त्वोपनय-निगमने प्रदर्शयति तादृशीति । प्रतिज्ञा-हेतू अर्थ-सिद्धौ । अवयव-त्रय-प्रयोगो वा यथेच्छम् । ज्ञेय-निष्ठश् च प्रकाशस् तत्तत्-पुरुष-असाधारणः तत्तत्-पुरुषीयागन्तुक-ज्ञान-क्रिया-जन्यः सिषाधयिषितो ऽत्र ।
 </details>
 
-## ??
+### अनैकान्त्यम्
 <details><summary>विषयः</summary>
 
 The reply to the foregoing;\-
@@ -1664,17 +1664,22 @@ The reply to the foregoing;\-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मैवम् — अक्रिया-जन्येनाभाव-प्राप्त-क्षेत्रादि-स्वत्वेन क्षेत्रिणं प्रति असाधारणेन क्षेत्र-ज-व्रीह्यादि-स्वत्वेन चानैकान्त्यात् ।
+मैवम् — अक्रिया-जन्येन ++++(दायाद-)+++ अभाव-प्राप्त-क्षेत्रादि-स्वत्वेन  
+क्षेत्रिणं प्रत्य् असाधारणेन क्षेत्र-ज-व्रीह्य्-आदि-स्वत्वेन चानैकान्त्यात् +++("आगन्तुकत्वेन नात्मस्वभाव" इत्यत्र)+++।
 </details>
 
 <details><summary>English</summary>
 
-It is not so; for in view of the fact that the ownership of land and the like is acquired on account of the mere absence of heirs[^99_166] and not in virtue of any activity (on the part of the owner), and in view of the fact that the ownership of paddy and other grains grown in the field -an ownership which is peculiar to the person to whom the field belongs-is not acquired through any activity, (the aforesaid *hetu)* may be said to be vitiated by anekānta doṣā.
+It is not so; f 
+or in view of the fact that the ownership of land and the like  
+is acquired on account of the mere absence of heirs[F99_166]  
+and not in virtue of any activity (on the part of the owner),  
+and in view of the fact that the ownership of paddy and other grains grown in the field -an ownership which is peculiar to the person to whom the field belongs-is not acquired through any activity, (the aforesaid *hetu)* may be said to be vitiated by anekānta doṣā.
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^99_166]: It is likely that *abhāvaprāpta*..............is a haplographical error for nābhibhā *vaprāpta*......As the expression nābhibhāva is used in the Dharma sastras in the sense of relationship, the text as emended, would mean 'on account of the mere fact of a person being a near kinsman.'
+[F99_166]: It is likely that *abhāvaprāpta*..............is a haplographical error for nābhibhā *vaprāpta*......As the expression nābhibhāva is used in the Dharma sastras in the sense of relationship, the text as emended, would mean 'on account of the mere fact of a person being a near kinsman.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1689,17 +1694,20 @@ It is not so; for in view of the fact that the ownership of land and the like is
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च निर्व्यापारतया क्षेत्रिणस् तत्र अजनकत्वम्; व्यापार-कालादिना व्यभिचारात्, तद्-भाव-भावित्वस्य चाविशेषात् ।
+न च निर्व्यापारतया  
+क्षेत्रिणस् तत्राजनकत्वम् +++(स्वत्वस्य)+++;  
+व्यापार-कालादिना +++(स्वतो निर्व्यापरेण जनकेन)+++ व्यभिचारात्,  
+तद्+++(→कारण)+++-भाव-भावित्वस्य +++(कार्ये)+++ चाविशेषात् ।
 </details>
 
 <details><summary>English</summary>
 
-[[P100]] In order to escape this fallacy it may be suggested that the owner of the land is not the cause of his ownership inasmuch as he is devoid of activity;[^100_167] (but this suggestion) is rendered fallacious by instances, such as activity and time (which, though devoid of activity, are still considered to be causal factors).
+[[P100]] In order to escape this fallacy it may be suggested that the owner of the land is not the cause of his ownership inasmuch as he is devoid of activity;[F100_167] (but this suggestion) is rendered fallacious by instances, such as activity and time (which, though devoid of activity, are still considered to be causal factors).
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^100_167]: To prove that consciousness is an occasional property of the soul, the opponent advances the following argument:\-Any result which, while remaining in one object, is peculiar to another causal substance, must be produced by an activity which is occasional, peculiar and inherent in that causal substance. Manifestation while remaining in pots and the like, is peculiar to the knower (e. g. Devadatta); therefore it must be caused by an activity which is occasional, peculiar and inherent in the knower. As this activity goes by the name of knowledge, it follows that knowledge is an occasional quality of the knower. The anekanta dosa vitiating this argument is exposed by citing the case of ownership, where the *hetu* is present, while the *sadhya* is absent. Though ownership is peculiar to the causal substance, namely the owner, it need not be produced by any activity on his part. The opponent may try to escape the fallacy by suggesting that in the instance cited the *hetu* is absent together with sadhya. In other words, he may say that as the owner is not a causal factor at all, ownership cannot be taken to reside in a causal substance.
+[F100_167]: To prove that consciousness is an occasional property of the soul, the opponent advances the following argument:\-Any result which, while remaining in one object, is peculiar to another causal substance, must be produced by an activity which is occasional, peculiar and inherent in that causal substance. Manifestation while remaining in pots and the like, is peculiar to the knower (e. g. Devadatta); therefore it must be caused by an activity which is occasional, peculiar and inherent in the knower. As this activity goes by the name of knowledge, it follows that knowledge is an occasional quality of the knower. The anekanta dosa vitiating this argument is exposed by citing the case of ownership, where the *hetu* is present, while the *sadhya* is absent. Though ownership is peculiar to the causal substance, namely the owner, it need not be produced by any activity on his part. The opponent may try to escape the fallacy by suggesting that in the instance cited the *hetu* is absent together with sadhya. In other words, he may say that as the owner is not a causal factor at all, ownership cannot be taken to reside in a causal substance.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1719,12 +1727,12 @@ It is not so; for in view of the fact that the ownership of land and the like is
 
 <details><summary>English</summary>
 
-The statement that when they (i.e. time, activity and the like) exist, the effects follow (and hence they are considered to be causal factors is equally applicable to the case of ownership.[^100_168] If it be said that the activity which is responsible for ownership is, indeed, the activity involved in being alive, (we ask) "My dear sir, as this activity is responsible in common with this for taking care of the crops and the like also, how can you maintain that ownership is brought on by a peculiar activity on the part of the owner?"
+The statement that when they (i.e. time, activity and the like) exist, the effects follow (and hence they are considered to be causal factors is equally applicable to the case of ownership.[F100_168] If it be said that the activity which is responsible for ownership is, indeed, the activity involved in being alive, (we ask) "My dear sir, as this activity is responsible in common with this for taking care of the crops and the like also, how can you maintain that ownership is brought on by a peculiar activity on the part of the owner?"
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^100_168]: In other words, when the owner exists, his ownership does follow. Hence, though devoid of activity, the owner is certainly a causal factor in respect of his ownership.
+[F100_168]: In other words, when the owner exists, his ownership does follow. Hence, though devoid of activity, the owner is certainly a causal factor in respect of his ownership.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1764,12 +1772,12 @@ Further, even if being alive were admitted to be a peculiar quality, it might as
 
 <details><summary>English</summary>
 
-[[P101]] If it be said that although there is life no object is (sometimes) manifested (and hence life is not responsible for this manifestation of objects, we ask you in reply) 'Does the aforesaid ownership follow whenever life exists?[^101_169]
+[[P101]] If it be said that although there is life no object is (sometimes) manifested (and hence life is not responsible for this manifestation of objects, we ask you in reply) 'Does the aforesaid ownership follow whenever life exists?[F101_169]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^101_169]: A person may live and still have no ownership, if the thing owned is either lost or given away to another.
+[F101_169]: A person may live and still have no ownership, if the thing owned is either lost or given away to another.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1850,12 +1858,12 @@ Refutation of the view that as cognitions are limited by time they are non-etern
 
 <details><summary>English</summary>
 
-It is not right to say that, like the act of going, knowledge may be inferred to be occasional, for the reason that there arise cognitions- such as, 'I knew', 'I know',-which, on account of the fact that they are dependent on several causes, are found to be limited by time. For the instance of the sun's light renders this argument liable to be charged with ānekānta *doșa*.[^101_170]
+It is not right to say that, like the act of going, knowledge may be inferred to be occasional, for the reason that there arise cognitions- such as, 'I knew', 'I know',-which, on account of the fact that they are dependent on several causes, are found to be limited by time. For the instance of the sun's light renders this argument liable to be charged with ānekānta *doșa*.[F101_170]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^101_170]: Thus even though light is an essential property of the sun, it appears limited by time. Even so, consciousness, though an essential property of the self, may still be limited by time.
+[F101_170]: Thus even though light is an essential property of the sun, it appears limited by time. Even so, consciousness, though an essential property of the self, may still be limited by time.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2127,12 +2135,12 @@ Further when the bodies become differentiated into several classes, such as, dev
 
 <details><summary>English</summary>
 
-Although there is continuity of the subtle body *(lingaśarira*), the charge of *vyabhicara* cannot be levelled against the argument, as it is not perceived.[^103_171]
+Although there is continuity of the subtle body *(lingaśarira*), the charge of *vyabhicara* cannot be levelled against the argument, as it is not perceived.[F103_171]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^103_171]: The gross body may appear and disappear and thus may not accompany the soul at all times; but the subtle body, at any rate, being continuous, may accompany the soul at all times and may thus be said to nullify the statement that the soul does not always shine forth along with the body To this the reply is that as the *lingaśarira* is not open to perception, it cannot be stated that the soul shines invariably along with the lingaśarira.
+[F103_171]: The gross body may appear and disappear and thus may not accompany the soul at all times; but the subtle body, at any rate, being continuous, may accompany the soul at all times and may thus be said to nullify the statement that the soul does not always shine forth along with the body To this the reply is that as the *lingaśarira* is not open to perception, it cannot be stated that the soul shines invariably along with the lingaśarira.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2339,12 +2347,12 @@ If it is suggested that there would have to prevail discussion concerning the so
 
 <details><summary>English</summary>
 
-If it is argued that the non-origination of discussion in regard to these cases is due to the absence of auxiliary causes, such as the efficient condition of the senses, the desire for discussion and the like, (our reply is) as this type of explanation is equally applicable to the other case also, you are addressing your query to the person who cannot be questioned.[^104_172]
+If it is argued that the non-origination of discussion in regard to these cases is due to the absence of auxiliary causes, such as the efficient condition of the senses, the desire for discussion and the like, (our reply is) as this type of explanation is equally applicable to the other case also, you are addressing your query to the person who cannot be questioned.[F104_172]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^104_172]: Compare- Yaścobhayossamo doşaḥ Pariharopi va samah | Naikaḥ paryanu-yoktavyaḥ Tādrgarthavicarane || When an identical difficulty is encountered by both the rival disputants and when it could be met by either in the same way, it is not open to one of them to level that difficulty as a charge against the other.
+[F104_172]: Compare- Yaścobhayossamo doşaḥ Pariharopi va samah | Naikaḥ paryanu-yoktavyaḥ Tādrgarthavicarane || When an identical difficulty is encountered by both the rival disputants and when it could be met by either in the same way, it is not open to one of them to level that difficulty as a charge against the other.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2616,12 +2624,12 @@ Refutation of the contention that if dharmabhutajnana is eternal, it would do aw
 
 <details><summary>English</summary>
 
-It cannot be maintained that if (in sleep) the self exists in its essential nature as an unchanging consciousness alone, there would be no difference between this state and that of release. For in the one case (*i*. e.. in sleep) impressions (*vāsanās*) born of *klesas*[^106_173] as well as the obscuration of the gunas exist, while in the other (i.e. in release), they are totally annihilated.
+It cannot be maintained that if (in sleep) the self exists in its essential nature as an unchanging consciousness alone, there would be no difference between this state and that of release. For in the one case (*i*. e.. in sleep) impressions (*vāsanās*) born of *klesas*[F106_173] as well as the obscuration of the gunas exist, while in the other (i.e. in release), they are totally annihilated.
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^106_173]: All the manuscripts and printed editions read *samprajñātasamādhāvapi*. But judging from the context, *asamprajñātasamādhāvapi* appears to be the proper reading. It is reasonable to suppose that a reference to the state of release is followed up by a doubt concerning a state which is the nearest approximation to it.
+[F106_173]: All the manuscripts and printed editions read *samprajñātasamādhāvapi*. But judging from the context, *asamprajñātasamādhāvapi* appears to be the proper reading. It is reasonable to suppose that a reference to the state of release is followed up by a doubt concerning a state which is the nearest approximation to it.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2641,12 +2649,12 @@ It cannot be maintained that if (in sleep) the self exists in its essential natu
 
 <details><summary>English</summary>
 
-(If it be stated that, at least, between sleep and *asamprajñāta* samādhi (super-conscious samadhi) there would have to be no difference, it may be replied that) even the soul existing in the state of super-conscious samadhi that has acquired complete detachment (vairāgya), that possesses the most intense samskāras conducive to restraint, and that has discharged its duties and is about to enter upon the state of final release, must be distinguished from the self existing during sleep.[^106_174]
+(If it be stated that, at least, between sleep and *asamprajñāta* samādhi (super-conscious samadhi) there would have to be no difference, it may be replied that) even the soul existing in the state of super-conscious samadhi that has acquired complete detachment (vairāgya), that possesses the most intense samskāras conducive to restraint, and that has discharged its duties and is about to enter upon the state of final release, must be distinguished from the self existing during sleep.[F106_174]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^106_174]: Compare *Yoga*-*Sutra* II. 3. Avidyasmitārā gadvesābhinivešāḥ klesah.
+[F106_174]: Compare *Yoga*-*Sutra* II. 3. Avidyasmitārā gadvesābhinivešāḥ klesah.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2806,12 +2814,12 @@ The conclusion that nidra is no vrtti will not contradict the yoga-sutra:-
 
 <details><summary>English</summary>
 
-(You may ask) how, then, could the sutra of the great sage have come in at all?--"Nidrā (sleep) is the *vṛtti,* which is the cause of the non-existence of other vṛttis."[^107_175]
+(You may ask) how, then, could the sutra of the great sage have come in at all?--"Nidrā (sleep) is the *vṛtti,* which is the cause of the non-existence of other vṛttis."[F107_175]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^107_175]: Vide p. 95.
+[F107_175]: Vide p. 95.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2853,12 +2861,12 @@ The conclusion that nidra is no vrtti will not contradict the yoga-sutra:-
 
 <details><summary>English</summary>
 
-Indeed, a false knowledge which is not based on the object which it reveals cannot be met with; for all knowledge is invariably associated with an objective reality.[^108_176]
+Indeed, a false knowledge which is not based on the object which it reveals cannot be met with; for all knowledge is invariably associated with an objective reality.[F108_176]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^108_176]: Compare *Yoga-Sūtra* I. 8. 'Viparyayo mithyājīāna matadrūpapratisṭham.'
+[F108_176]: Compare *Yoga-Sūtra* I. 8. 'Viparyayo mithyājīāna matadrūpapratisṭham.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2874,12 +2882,12 @@ Indeed, a false knowledge which is not based on the object which it reveals cann
 
 <details><summary>English</summary>
 
-And this fact has clearly been proved in the *adhikaraṇa*:[^108_177]
+And this fact has clearly been proved in the *adhikaraṇa*:[F108_177]
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^108_177]: Evidently the reference is to an adhikarana in Nathamuni's *Nyāyatattva* Sastra. As the author is generally in the habit of mentioning the name of the adhikarana to which he refers, in all probability, he would have mentioned the name here also. But unfortunately, it has been lost. cf pp. 79,85 and 112.
+[F108_177]: Evidently the reference is to an adhikarana in Nathamuni's *Nyāyatattva* Sastra. As the author is generally in the habit of mentioning the name of the adhikarana to which he refers, in all probability, he would have mentioned the name here also. But unfortunately, it has been lost. cf pp. 79,85 and 112.
 </details>
 
 <details><summary>मूलम्</summary>

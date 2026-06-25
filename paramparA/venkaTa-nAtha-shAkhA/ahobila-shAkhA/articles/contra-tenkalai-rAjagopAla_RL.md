@@ -231,10 +231,11 @@ Due to the inferiority complex this creates amongst Thenkalais (like the Author 
 Moving on to his false inferences on Tatacharyas:
 
 ### periya-tirumalai-nambi
-> In Page 9 and 10 of the book, the Person claims *“Though
+In Page 9 and 10 of the book, the Person claims 
+
+> *“Though
 > Thathachariars claim to be the descendants of Periya Thirumalai Nambi,
-> the actual position is a different one. Peria Thirumalai Nambi had
-> only one son who died at his early years even before marriage.
+> the actual position is a different one. Peria Thirumalai Nambi had only one son who died at his early years even before marriage.
 > Thirumalai Nambi was without heir then. He expressed this position
 > categorically at the time just before leaving this world. Speaking to
 > his personal deity whose name was “Vennaikadum Pillai” (one who will
@@ -278,9 +279,7 @@ inscriptions as their Rajagurus.
 ### marriage count
 > 3\.  Kotikanyadanam thathacharya could not have conducted one crore marriages
 
-3\.  Rajagopalan should be objecting to every athishayokti prayoga in
-literature. His own vamsha agree that it is a few lakh marriages and
-not a Crore.
+3\.  Rajagopalan should be objecting to every athishayokti prayoga in literature. His own vamsha agree that it is a few lakh marriages and not a Crore.
 
 ### Sect
 > 4\.  So-called Tenkalai namams found on the inscriptions of the Thathacharyas from the 16th century supposedly prove that they belonged to Tenkalai school
@@ -564,8 +563,7 @@ Brahmatantra-svatantra
 
 
 ### Early works
-For now, the Second Jiyar (of late 1400s and early 1500s +++(a tAtAchArya)+++) of Ahobila Matha’s granthas obtained in Public libraries can be seen to be of
-    Vadakalai Paksha and containing Vyakhyanas and Citations of Swamy desikan’s granthas. The 6th Azhagiyasingar (of 1550s) has authored a Bharanyasakrama found in GOML Chennai- a paddathi grantha on doing a separate Bharanyasa.
+For now, the Second Jiyar (of late 1400s and early 1500s +++(a tAtAchArya)+++) of Ahobila Matha’s granthas obtained in Public libraries can be seen to be of Vadakalai Paksha and containing Vyakhyanas and Citations of Swamy desikan’s granthas. The 6th Azhagiyasingar (of 1550s) has authored a Bharanyasakrama found in GOML Chennai- a paddathi grantha on doing a separate Bharanyasa.
 
 #### Rahasyatraya Jivatu
 > Rajagopalan uses Pazhanadai Vilakkam indirectly by using PBA swami’s
@@ -1009,14 +1007,21 @@ Marathas had made enemies of Mysore kingdom and as such, when Aurangzeb invaded 
 ## Annamacharya
 Rajagopalan also wants to claim that Tallapaka Annamacharya was a sishya of Tirumalai Ananthanpillai family (not Ahobila maTha) and that he was a Tenkalai. We have already put to rest any and all arguments based on namam from that era – but still as a fact, the sculptures in Tirumala of Annamacharya and his vigraha carry Vadakalai Thiruman – and these are the older ones. Tallapaka image is VK tiruman only. Source: [TW](https://www.instagram.com/reel/DV8AggSjGqq/)
 
-Now what remains is his claim about the poet author being sishya of Ananthanpillai clan. In reality, the descendants of Tallapaka Annamayya are sishyas of Ahobila maTha today and they have no records about them being sishyas of any other acharya lineage in the past. 
+
+![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-28.png?w=713)
+{caption="Annamacharya Vigraha in Tallapakka Village"}
 
 ### Ananthanpillai praise
+
+Now what remains is his claim about the poet author being sishya of Ananthanpillai clan. In reality, the descendants of Tallapaka Annamayya are sishyas of Ahobila maTha today and they have no records about them being sishyas of any other acharya lineage in the past.
+
 Rajagopalan has to give concrete evidence before making such blind claims. 
 
-Just because the poet sung about Ananthazhwan(who is respected by Vadakalais as well – for that matter), he doesn’t become a sishya of Ananthanpillai – rather is a respect to the role Ananthazhwan played in the temple’s kainkaryas. 
+Just because the poet sung about Ananthazhwan (who is respected by Vadakalais as well – for that matter), he doesn’t become a sishya of Ananthanpillai – rather is a respect to the role Ananthazhwan played in the temple’s kainkaryas. 
 
 It is to be noted that Annamayya has written a beautiful kriti on Adi Van Satakopa yati as well where he has been hailed as the boat for his disciples to cross Viraja and reach Vaikuntha (see pg.49 of Ahobilam Sri Narasimha Swamy temple by Prof Vasantha, TTD publication, 2001), while Annamayya does not sing on the Ananthanpillai acharyapurusha of Tirumala who lived in 1400s.  +++(5)+++
+
+
 
 ## ANDavan
 About Kadanthethi Andavan, he quotes some articles written in a two-pence magazine called Gopura Dharisanam where even the dates are given wrongly. He sets up this article as his strawman and claims victory by beating it to ground. It is funny that he doesn’t attempt to get information from Andavan Ashramam or its publications but from popular magazines.

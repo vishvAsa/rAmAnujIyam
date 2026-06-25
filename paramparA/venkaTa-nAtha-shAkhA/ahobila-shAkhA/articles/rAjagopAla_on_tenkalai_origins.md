@@ -452,7 +452,7 @@ They even say that the Jeeyar was a Trustee of Thirumala Thirupathy temple. The 
 
 <details><summary>विस्तारः - रविलोचनः</summary>
 
-Btw tirumala may not hv mentions of Parakala mutt in available inscriptions but the very presence of Parakala mutt right opposite to temple and in prime location till it was cleared in 2003 shows that they were early settlers there. And naturally would hv been part of srivaishnava sabha there (community sabha being mentioned in inscriptions)
+Btw tirumala may not have mentions of Parakala mutt in available inscriptions but the very presence of Parakala mutt right opposite to temple and in prime location till it was cleared in 2003 shows that they were early settlers there. And naturally would hv been part of srivaishnava sabha there (community sabha being mentioned in inscriptions)
 </details>
 
 
@@ -506,7 +506,9 @@ Contrary to the above, the statue of Sri Annamayya at Thalappakkam and the inscr
 
 <details><summary>विस्तारः</summary>
 
-> This is a recently established temple. His descendants sport the vk namam only.  - श्रीवा॰
+Tallapaka image has VK tiruman. https://www.instagram.com/reel/DV8AggSjGqq/
+
+> There is a recently established temple. His descendants sport the vk namam only.  - श्रीवा॰
 
 Annamacharya copper pate inscription from mid 1500s bears vaDakalai tirumaN only.
 </details>
@@ -1322,7 +1324,7 @@ Having given many references from inscriptions and literary works, I would like 
 
 That as in the case of Varadaraja Swamy temple, Kanchee many Thenkalai Thirumans can be seen in stone pillars as a boss relief projecting from the normal surface at Ahobilam temple also.
 
-Articles published in magazines like Gokulam Kadir, Aalayam, Ladies Special, etc. had been quoted in this research work as they are articles contrary to established historical facts. These stories would gain currency and
+Articles published in magazines like Gokulam Kadir, Aalayam, Ladies Special, etc. had been quoted in this research work as they are articles contrary to established historical facts. These stories would gain currency and corrupt the minds of lakhs of people.
 
 
 
@@ -1330,7 +1332,7 @@ Articles published in magazines like Gokulam Kadir, Aalayam, Ladies Special, etc
 
 [[78]]
 
-corrupt the minds of lakhs of people. If not, contradicted quoting authoritative works. We do agree that articles appearing in such magazines are not authentic references to quote and refute. If proper rebuttal is not given these stories published in such popular magazines will become the basis for future Guruparampara stories by over euthusiastic followers/writers of these mutts.
+If not, contradicted quoting authoritative works. We do agree that articles appearing in such magazines are not authentic references to quote and refute. If proper rebuttal is not given these stories published in such popular magazines will become the basis for future Guruparampara stories by over euthusiastic followers/writers of these mutts.
 
 To conclude, it is asserted that the temple at Ahobilam and the mutt belonged to Thenkalai sect upto 1800 AD. a fact abundantly established in this research work.
 
@@ -1379,7 +1381,7 @@ To conclude, it is asserted that the temple at Ahobilam and the mutt belonged to
 
 ## LIST OF AUTHORITIES QUOTED AND REFERRED TO
 
-1)  "Ramanujan" Monthly Journals by Sri. U.Ve.P.B. Annangara chariar Swamy, Kancheepuram.
+1)  "Ramanujan" Monthly Journals by Sri. U.Ve. P.B. **Annangarachariar** Swamy, Kancheepuram.
 2)  Dr.K.V.Ramans "Sri Varadaraja Swamy Temple of Kanchee", 1975, Abinav Publication, New Delhi.
 3)  "History of Ahobilam" by Rayadurgam Koti Kanyadan D.Ramasamy lyengar, 1916.
 4)  ARE Bulletins for the years 1915, 1947, 1948.
@@ -1395,6 +1397,6 @@ To conclude, it is asserted that the temple at Ahobilam and the mutt belonged to
 14) "1008 Questions and Answers by Sudarsanar", published by Kalangnan Pathipagam, 2004.
 15) "Sri Venkatesa Ithihasamala", Tamil, translated by Sri.U.Ve. T.A.Krishnamachariar Swamy of Thiruppathi, 1917.
 16) "Thirumalai Ozhugu", Published by TTD Devasthanam, Tirumalai, 1953.
-17) "Pazhanadai Vilakkam" by Tirumazhisai Annavappaiyangar, Sri Niketan Press, Chennai, 1895.
-18) "Acharya Champoo", by Kousika Kavithrkika Simha (Paravasthu), 1964.
+17) "Pazhanadai Vilakkam" by Tirumazhisai **Annavappaiyangar**, Sri Niketan Press, Chennai, 1895.
+18) "Acharya Champoo", by Kousika Kavitharkika Simha (Paravasthu), 1964.
 
