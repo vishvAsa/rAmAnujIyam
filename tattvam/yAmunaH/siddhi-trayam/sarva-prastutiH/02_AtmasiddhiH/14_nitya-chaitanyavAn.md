@@ -1654,7 +1654,7 @@ Hence, it is but right to infer that the manifestation of objects which resemble
 उदाहरणम् उक्त्वोपनय-निगमने प्रदर्शयति तादृशीति । प्रतिज्ञा-हेतू अर्थ-सिद्धौ । अवयव-त्रय-प्रयोगो वा यथेच्छम् । ज्ञेय-निष्ठश् च प्रकाशस् तत्तत्-पुरुष-असाधारणः तत्तत्-पुरुषीयागन्तुक-ज्ञान-क्रिया-जन्यः सिषाधयिषितो ऽत्र ।
 </details>
 
-### अनैकान्त्यम्
+### स्वत्वेनानैकान्त्यम्
 <details><summary>विषयः</summary>
 
 The reply to the foregoing;\-
@@ -1665,7 +1665,7 @@ The reply to the foregoing;\-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैवम् — अक्रिया-जन्येन ++++(दायाद-)+++ अभाव-प्राप्त-क्षेत्रादि-स्वत्वेन  
-क्षेत्रिणं प्रत्य् असाधारणेन क्षेत्र-ज-व्रीह्य्-आदि-स्वत्वेन चानैकान्त्यात् +++("आगन्तुकत्वेन नात्मस्वभाव" इत्यत्र)+++।
+क्षेत्रिणं प्रत्य् असाधारणेन क्षेत्र-ज--व्रीह्य्-आदि-स्वत्वेन चानैकान्त्यात् +++("आगन्तुकत्वेन नात्मस्वभाव" इत्यत्र)+++।
 </details>
 
 <details><summary>English</summary>
@@ -1722,12 +1722,18 @@ and in view of the fact that the ownership of paddy and other grains grown in th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तज्-जीवनम् एव तत्र जनक-व्यापार इति चेत्, ननु तत्-सस्य-पालनादि-साधारणम् इति कथम् असाधारण-क्रिया-जन्यत्वम्?
+तज्+++(←कालादि)+++-जीवनम् एव तत्र जनक-व्यापार इति चेत्,  
+ननु तत्-सस्य-पालनादि-साधारणम् इति  
+कथम् असाधारण+++(-आगन्तुक)+++-क्रिया-जन्यत्वम् +++(सस्य-फल-स्वत्त्वे)+++?
 </details>
 
 <details><summary>English</summary>
 
-The statement that when they (i.e. time, activity and the like) exist, the effects follow (and hence they are considered to be causal factors is equally applicable to the case of ownership.[F100_168] If it be said that the activity which is responsible for ownership is, indeed, the activity involved in being alive, (we ask) "My dear sir, as this activity is responsible in common with this for taking care of the crops and the like also, how can you maintain that ownership is brought on by a peculiar activity on the part of the owner?"
+The statement that when they (i.e. time, activity and the like) exist, the effects follow and hence they are considered to be causal factors is equally applicable to the case of ownership.[F100_168]  
+If it be said that the activity which is responsible for ownership is, indeed, the activity involved in being alive, (we ask)  
+
+> "My dear sir, as this activity is responsible in common with this for taking care of the crops and the like also,  
+how can you maintain that ownership is brought on by a peculiar activity on the part of the owner?"
 </details>
 
 <details><summary>English - Notes</summary>
@@ -1742,12 +1748,18 @@ The statement that when they (i.e. time, activity and the like) exist, the effec
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ननु क्षेत्रिणो न निर्व्यापारत्वम्, किन्तु जीवनम् एव व्यापार इति शङ्कते तज्जीवनमेवेति । परिहरति ननु तदिति । क्षेत्रिणो जीवनम् हि सस्य-रक्षणादि-साधारण-कारणम् । न तु क्षेत्रादि-स्वत्वे असाधारण-कारणम् । तथा च असाधारण-आगन्तुक-क्रिया-जन्यत्व-अनुमाने ऽनैकान्त्यम् एवेति भावः ।
+ननु क्षेत्रिणो न निर्व्यापारत्वम्, किन्तु जीवनम् एव व्यापार इति शङ्कते तज्जीवनमेवेति । परिहरति ननु तदिति ।  
+क्षेत्रिणो जीवनम् हि सस्य-रक्षणादि-साधारण-कारणम् ।  
+न तु क्षेत्रादि-स्वत्वे असाधारण-कारणम् ।  
+तथा च असाधारण-+आगन्तुक-क्रिया-जन्यत्वानुमाने ऽनैकान्त्यम् एवेति भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च एवं सति तद् एव अर्थ-प्रकाशे ऽपि जनक-व्यापारो ऽस्तु; किम् अकॢप्त-कल्पनया? ।
+अपि चैवं +++(जीवन-मात्रे फल-स्वत्वोत्पादके)+++ सति  
+तद् +++(आत्म-जीवन-मात्रं)+++ एवार्थ-प्रकाशे ऽपि  
+जनक-व्यापारो ऽस्तु;  
+किम् अकॢप्त-कल्पनया? ।
 </details>
 
 <details><summary>English</summary>
@@ -1767,7 +1779,12 @@ Further, even if being alive were admitted to be a peculiar quality, it might as
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यपि तस्मिन्न् अर्थो न प्रकाशत इति चेत्, स्वत्वं वा किं यथोदितं सति जीवने जायत एव? ।
+> सत्य् अपि तस्मिन्न् +++(आत्म-जीवने)+++  
++++(कदाचिद्)+++ अर्थो न प्रकाशत  
+
+इति चेत्,  
+स्वत्वं वा किं यथोदितं  
+सति जीवने जायत एव? ।
 </details>
 
 <details><summary>English</summary>
@@ -1787,7 +1804,11 @@ Further, even if being alive were admitted to be a peculiar quality, it might as
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्रीह्यादि-सत्ताप्य् अपेक्ष्यत इति चेत्, इहापीन्द्रियादि-प्रत्यासत्तिर् इति समानश् चर्चाः ।
+> व्रीह्यादि-सत्ताप्य् अपेक्ष्यत  
+
+इति चेत्,  
+इहापीन्द्रियादि-प्रत्यासत्तिर् +++(अपेक्ष्यत)+++ इति  
+समानश् चर्चाः ।
 </details>
 
 <details><summary>English</summary>
@@ -1807,7 +1828,8 @@ If it be said that the existence of grains, such as, paddy, is also required, (w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो यं प्रति असाधारणो यथोदित-धर्मः तदीयासाधारण-धर्म-निमित्त इत्य् एतावत् ।
+अतो यं प्रत्य् असाधारणो यथोदित-धर्मः  
+तदीयासाधारण-धर्म-निमित्त इत्य् एतावत् ।
 </details>
 
 <details><summary>English</summary>
