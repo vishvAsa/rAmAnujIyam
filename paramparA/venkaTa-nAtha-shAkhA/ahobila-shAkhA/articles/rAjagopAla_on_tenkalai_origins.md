@@ -452,7 +452,7 @@ They even say that the Jeeyar was a Trustee of Thirumala Thirupathy temple. The 
 
 <details><summary>विस्तारः - रविलोचनः</summary>
 
-Btw tirumala may not hv mentions of Parakala mutt in available inscriptions but the very presence of Parakala mutt right opposite to temple and in prime location till it was cleared in 2003 shows that they were early settlers there. And naturally would hv been part of srivaishnava sabha there (community sabha being mentioned in inscriptions)
+Btw tirumala may not have mentions of Parakala mutt in available inscriptions but the very presence of Parakala mutt right opposite to temple and in prime location till it was cleared in 2003 shows that they were early settlers there. And naturally would hv been part of srivaishnava sabha there (community sabha being mentioned in inscriptions)
 </details>
 
 
@@ -506,7 +506,9 @@ Contrary to the above, the statue of Sri Annamayya at Thalappakkam and the inscr
 
 <details><summary>विस्तारः</summary>
 
-> This is a recently established temple. His descendants sport the vk namam only.  - श्रीवा॰
+Tallapaka image has VK tiruman. https://www.instagram.com/reel/DV8AggSjGqq/
+
+> There is a recently established temple. His descendants sport the vk namam only.  - श्रीवा॰
 
 Annamacharya copper pate inscription from mid 1500s bears vaDakalai tirumaN only.
 </details>
@@ -964,7 +966,7 @@ The Jeeyangar-Il known as Parankusa Van Satakopa Jeeyar-Il was a great religious
 
 The items of expenditure includes presentation of a cloth to Van Satakopa Jeeyar who read Kaisika Puranam.
 
-Based on the above inscriptions the date of second and third Jeeyars of Ahobila mutt extends upto 1539 AD from 1516 AD. Accordingly as stated by Rayadurgam
+Based on the above inscriptions the date of second and third Jeeyars of Ahobila mutt extends upto 1539 AD from 1516 AD. 
 
 
 
@@ -972,7 +974,7 @@ Based on the above inscriptions the date of second and third Jeeyars of Ahobila 
 
 [[54]]
 
-Kotikanyadanam D.Ramaswamy Iyengar in the History of Ahobilam published in 1916 AD we may take that the Ahobila Mutt was established at Ahobilam in 1513 AD by the king Krishna Devaraya of Vijayanagar Empire and the first pontiff lived upto 1516 AD. Being the first Jeeyar he is called Adhi-Van-Satagopa Jeeyar (Adhi-Earliest).
+Accordingly as stated by Rayadurgam Kotikanyadanam D.Ramaswamy Iyengar in the History of Ahobilam published in 1916 AD we may take that the Ahobila Mutt was established at Ahobilam in 1513 AD by the king Krishna Devaraya of Vijayanagar Empire and the first pontiff lived upto 1516 AD. Being the first Jeeyar he is called Adhi-Van-Satagopa Jeeyar (Adhi-Earliest).
 
 In view of the fact that Van-Satakopa Nandavanam was very much available at Thirupathi and was looked after by a Jeeyar from a period even before the said birth year of the first Jeeyar of Ahobila mutt (according to tradition 1379 AD) the woven story that Van-Satakopa Jeeyar was invited and given Sanyas by Lord Narasimha himself could only be a story without any basis and authentication. So it must be that the Jeeyar took Sanyas or Gadi at Thirupathi itself and was looking after the Sitakaragandan Mutt and Van Satakopan Nandavanam during which period he was installed as Jeeyar at Ahobilam in 1513 AD by Krishnadevaraya. Though at Thirumala the Jeeyars were given full powers as Koil Kelvi, the Ahobilam Jeeyar was called only an agent of the Emperor.
 
@@ -1288,9 +1290,9 @@ Perhaps the above position made easy the conversion of the temple into Vadakalai
 
 Ahobilam mutt. This situation paved way for conversion. However, the religious practices such as celebrating Krishna Jayanthi, performing 'Sandya vandanams' following principles of prapathi etc. were similar for Thenkalai as well as Ahobila Mutt sampradaya.
 
-Sri.U.Ve.P.B.Annagarachariar Swamy of Kanchee asserts that Ahobila Mutt Jeeyars wrote "Purushakara Mimasa", "Rahasyathraya Jeevathu" etc. granthas according to Thenkalai tenets only and established that they belong to Thenkalai Sampradaya only. (Ref. page 81 of "Sath Sampradayartha Saranidhi".)
+Sri.U.Ve.P.B.Annagarachariar Swamy of Kanchee asserts that Ahobila Mutt Jeeyars wrote "Purushakara Mimasa", "Rahasyathraya Jeevathu" etc. granthas according to Thenkalai tenets only and established that they belong to Thenkalai Sampradaya only. (Ref. page 81 of "Sath Sampradayartha Saranidhi".)+++(5)+++
 
-A book "Rahasyathraya Jeevathu" authored by the Van-Satakopa Jeeyar (about 1550 or 1560 AD) asserts that it is only Sriman Narayana who can and will give "Moksham". His consort Sri Mahalakshmi will only recommend to Sriman Narayana to give moksha to a "Chetana". Her action is called Purusha Karathvam only, which is one of the fundamental tenets of Thenkalai Sampradaya.
+A book "Rahasyathraya Jeevathu" authored by the Van-Satakopa Jeeyar (about 1550 or 1560 AD) asserts that it is only Sriman Narayana who can and will give "Moksham". His consort Sri Mahalakshmi will only recommend to Sriman Narayana to give moksha to a "Chetana". Her action is called Purusha Karathvam only, which is one of the fundamental tenets of Thenkalai Sampradaya.+++(5)+++
 
 Sri Mukkur Lakshmi Narasimhachariar also wrote in the same manner in his book "Kurai Onrrumillai". It may be noted that he was a Vadakalai preceptor of 20th century and very much devoted to Ahobila Narasimhar.
 
@@ -1322,7 +1324,7 @@ Having given many references from inscriptions and literary works, I would like 
 
 That as in the case of Varadaraja Swamy temple, Kanchee many Thenkalai Thirumans can be seen in stone pillars as a boss relief projecting from the normal surface at Ahobilam temple also.
 
-Articles published in magazines like Gokulam Kadir, Aalayam, Ladies Special, etc. had been quoted in this research work as they are articles contrary to established historical facts. These stories would gain currency and
+Articles published in magazines like Gokulam Kadir, Aalayam, Ladies Special, etc. had been quoted in this research work as they are articles contrary to established historical facts. These stories would gain currency and corrupt the minds of lakhs of people.
 
 
 
@@ -1330,7 +1332,7 @@ Articles published in magazines like Gokulam Kadir, Aalayam, Ladies Special, etc
 
 [[78]]
 
-corrupt the minds of lakhs of people. If not, contradicted quoting authoritative works. We do agree that articles appearing in such magazines are not authentic references to quote and refute. If proper rebuttal is not given these stories published in such popular magazines will become the basis for future Guruparampara stories by over euthusiastic followers/writers of these mutts.
+If not, contradicted quoting authoritative works. We do agree that articles appearing in such magazines are not authentic references to quote and refute. If proper rebuttal is not given these stories published in such popular magazines will become the basis for future Guruparampara stories by over euthusiastic followers/writers of these mutts.
 
 To conclude, it is asserted that the temple at Ahobilam and the mutt belonged to Thenkalai sect upto 1800 AD. a fact abundantly established in this research work.
 
@@ -1379,7 +1381,7 @@ To conclude, it is asserted that the temple at Ahobilam and the mutt belonged to
 
 ## LIST OF AUTHORITIES QUOTED AND REFERRED TO
 
-1)  "Ramanujan" Monthly Journals by Sri. U.Ve.P.B. Annangara chariar Swamy, Kancheepuram.
+1)  "Ramanujan" Monthly Journals by Sri. U.Ve. P.B. **Annangarachariar** Swamy, Kancheepuram.
 2)  Dr.K.V.Ramans "Sri Varadaraja Swamy Temple of Kanchee", 1975, Abinav Publication, New Delhi.
 3)  "History of Ahobilam" by Rayadurgam Koti Kanyadan D.Ramasamy lyengar, 1916.
 4)  ARE Bulletins for the years 1915, 1947, 1948.
@@ -1395,6 +1397,6 @@ To conclude, it is asserted that the temple at Ahobilam and the mutt belonged to
 14) "1008 Questions and Answers by Sudarsanar", published by Kalangnan Pathipagam, 2004.
 15) "Sri Venkatesa Ithihasamala", Tamil, translated by Sri.U.Ve. T.A.Krishnamachariar Swamy of Thiruppathi, 1917.
 16) "Thirumalai Ozhugu", Published by TTD Devasthanam, Tirumalai, 1953.
-17) "Pazhanadai Vilakkam" by Tirumazhisai Annavappaiyangar, Sri Niketan Press, Chennai, 1895.
-18) "Acharya Champoo", by Kousika Kavithrkika Simha (Paravasthu), 1964.
+17) "Pazhanadai Vilakkam" by Tirumazhisai **Annavappaiyangar**, Sri Niketan Press, Chennai, 1895.
+18) "Acharya Champoo", by Kousika Kavitharkika Simha (Paravasthu), 1964.
 
