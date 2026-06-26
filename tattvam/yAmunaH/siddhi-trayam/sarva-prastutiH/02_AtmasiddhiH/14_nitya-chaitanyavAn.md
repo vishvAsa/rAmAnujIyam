@@ -1571,13 +1571,13 @@ If the specific quality (known as manifestation) were treated as an occasional p
 (इति धर्मभूतज्ञानस्य नित्यत्वसाधनम्)
 </details>
 
-## आगन्तुकत्वेन नात्मस्वभावः?
+## नागन्तुकता
 <details><summary>विषयः</summary>
 
 The contention that since dharmabhuta jnana is dependent on occasional factors it cannot be eternal:-
 </details>
 
-
+### आगन्तुकत्वेन नात्मस्वभावः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नन्व् एवम् अर्थ-सिद्धि-व्यवस्थापकतया ऽभ्युपगतं ज्ञानम्  
@@ -1807,8 +1807,7 @@ Further, even if being alive were admitted to be a peculiar quality, it might as
 > व्रीह्यादि-सत्ताप्य् अपेक्ष्यत  
 
 इति चेत्,  
-इहापीन्द्रियादि-प्रत्यासत्तिर् +++(अपेक्ष्यत)+++ इति  
-समानश् चर्चाः ।
+इहापीन्द्रियादि-प्रत्यासत्तिर् +++(अपेक्ष्यत)+++ इति समानश् चर्चाः ।
 </details>
 
 <details><summary>English</summary>
@@ -1828,13 +1827,15 @@ If it be said that the existence of grains, such as, paddy, is also required, (w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो यं प्रत्य् असाधारणो यथोदित-धर्मः  
-तदीयासाधारण-धर्म-निमित्त इत्य् एतावत् ।
+अतो, यं प्रत्य् असाधारणो यथोदित-धर्मः +++(स्वत्वादिः)+++  
+तदीयासाधारण-धर्म-निमित्त +++(व्रीहि-प्राप्त्य्-आदिः)+++  
+इत्य् एतावत् ।
 </details>
 
 <details><summary>English</summary>
 
-Therefore, only this much (can be said) the aforesaid quality which is peculiar to a given person has for its cause a special attribute belonging to the person;
+Therefore, only this much (can be said)  
+the aforesaid quality which is peculiar to a given person has for its cause a special attribute belonging to the person;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1849,7 +1850,8 @@ Therefore, only this much (can be said) the aforesaid quality which is peculiar 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स चेष्यत एवात्मनश् चैतन्यं रवेर् इव तेजस्वित्वम् ।
+स चेष्यत एवात्मनश्  
+चैतन्यं रवेर् इव तेजस्वित्वम् ।
 </details>
 
 <details><summary>English</summary>
@@ -1867,15 +1869,18 @@ and (in conformity with this principle) the fact that the special attribute resp
 अस्त्वेवम् । तावता भवतो लाभः कः? । तत्राह स चेष्यत एवेति । अस्मदनिष्टं साधयितुं प्रवृत्तस्य भवतोऽर्थान्तरण निग्रहणमेवास्माकं लाभ इति भावः । स्वभावप्राप्तक्षेत्रादिस्वत्वे व्यभिचारादेवागन्तुकधर्मजन्यत्वमपि न साधयितुं शक्यत इति चानुसन्धेयम् ।
 </details>
 
+### न भूत-काल-प्रयोगैः
 <details><summary>विषयः</summary>
 
 Refutation of the view that as cognitions are limited by time they are non-eternal
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च हेतु-भेदानुविधायितया, जानाभ्य्-अज्ञासिषम् इत्यादि-कालावच्छेद-प्रतीतेर् गमनादेर् इव ज्ञानस्यागन्तुकत्वम् अनुमेयम्; आदित्य-प्रकाशेनानैकान्त्यात् ।
+न च – हेतु-भेदानुविधायितया,  
+"जानाम्य्, अज्ञासिषम्" इत्यादि-कालावच्छेद-प्रतीतेर्  
+गमनादेर् इव ज्ञानस्यागन्तुकत्वम् अनुमेयम्;  
+आदित्य-प्रकाशेनानैकान्त्यात् ।
 </details>
 
 <details><summary>English</summary>
@@ -1890,7 +1895,7 @@ It is not right to say that, like the act of going, knowledge may be inferred to
 
 <details><summary>मूलम्</summary>
 
-न च हेतुभेदानुविधायितया, जानाभ्यअज्ञासिषमित्यादिकालावच्छेदप्रतीतेर्गमनादेरिव ज्ञानस्यागन्तुकत्वमनुमेयम्; आदित्यप्रकाशेनानैकान्त्यात् ।
+न च हेतुभेदानुविधायितया, जानाम्यज्ञासिषमित्यादिकालावच्छेदप्रतीतेर्गमनादेरिव ज्ञानस्यागन्तुकत्वमनुमेयम्; आदित्यप्रकाशेनानैकान्त्यात् ।
 </details>
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
@@ -1900,7 +1905,11 @@ It is not right to say that, like the act of going, knowledge may be inferred to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्ति हि तत्रापीमं देशम् आदित्यः प्रकाशयति प्राचीकशत् प्रकाशयिष्यतीति प्रतीतिः ।
+अस्ति हि तत्रापि
+
+> इमं देशम् आदित्यः प्रकाशयति, प्राचीकशत्, प्रकाशयिष्यति
+
+इति प्रतीतिः ।
 </details>
 
 <details><summary>English</summary>
@@ -1915,7 +1924,13 @@ Indeed, here also, there are the cognitions 'The sun illumines this place,' 'The
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वारसिकत्वे ऽप्यादित्य-प्रकाशस्य प्रकाश्य-देश-सम्बन्ध-कादाचित्कतया अवच्छेद-प्रतीतिर् उपपद्यत इति चेत्; इहापि तर्हीन्द्रियादि-प्रत्यासत्ति-समासादित-योग्य-भावो ऽनुभाव्य-भेदः स्वाभाविकम् आत्मनश् चैतन्य-गुणम् अवच्छिनत्तीति तदपेक्षयैवेन्द्रियाद्य्-अनुविधानम् अतीतानागत-प्रत्युत्पन्नत्व-प्रत्यय-प्रयोगौ च उपपद्यन्ते ।
+> स्वारसिकत्वे ऽप्यादित्य-प्रकाशस्य  
+प्रकाश्य-देश-सम्बन्ध-कादाचित्कतया अवच्छेद-प्रतीतिर् उपपद्यत 
+
+इति चेत्; इहापि तर्हि -  
+इन्द्रियादि-प्रत्यासत्ति-- समासादित--योग्य-भावो ऽनुभाव्य-भेदः  
+स्वाभाविकम् आत्मनश् चैतन्य-गुणम् अवच्छिनत्तीति  
+तद्-अपेक्षयैवेन्द्रियाद्य्-अनुविधानम् अतीतानागत-प्रत्युत्पन्नत्व-- प्रत्यय-प्रयोगौ च उपपद्यन्ते ।
 </details>
 
 <details><summary>English</summary>
@@ -1933,6 +1948,7 @@ Indeed, here also, there are the cognitions 'The sun illumines this place,' 'The
 स्वाभाविकस्याप्यादित्यप्रकाशस्य तत्तत्प्रकाश्यदेशसम्बन्धस्य कालत्रयपरिच्छिन्नतया तद्विशिष्टविषयिणी कालपरिच्छिन्नत्वप्रतीतिः न प्रकाशस्वरूपस्य कादाचित्कत्वसाधिकेति शङ्कते स्वारसिकत्वेऽपीति । स्वारसिकत्वम्स्वाभाविकत्वम् । विशिष्टे विधिनिषेधौ विशेषणमुपसङ्कामतः सति विशेष्ये बाधे इति न्यायेन विशिष्टे कालावच्छेदप्रतीतिर्विशेषणे पर्यवस्यति । अनित्यत्वानुमानं च विशिष्टविषयम्, नतु स्वरूपमात्रविषयम् । तथा च यद्रूपावच्छिन्नस्य कालावच्छेदप्रतीतिः तस्यानित्यत्वमेव स्वरूपमात्रस्य च न कालावच्छेदप्रतीतिरिति न व्यभिचार इति भावः । स्वरूपमात्रस्य कालावच्छेदप्रतीतिः पक्षेऽप्यसिद्धेति परिहरति इहापीति । योग्यभावःप्रकाशयोग्यता । अवच्छिनत्तिकालावच्छिन्नत्वं यथा भवेत्तथा स्वसम्बन्धेन विशिनष्टि चैतन्यमित्यर्थः । हेतुविशेषानुविधानस्याप्यन्यथासिद्धिमाह तदपेक्षयैवेति । अर्थसम्बन्धापेक्षयैवेत्यर्थः । तथा च प्रथमानुमानस्याप्रयोजकत्वमिति हार्दम् ।
 </details>
 
+### गमनादिवन् न
 <details><summary>विषयः</summary>
 
 Activities of consciousness altogether of a different nature:-
@@ -1941,12 +1957,14 @@ Activities of consciousness altogether of a different nature:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं पुनर् अत्र निर्णयः, मणि-द्युमणि-प्रकाशादेर् इवौपाधिको ऽयं भेदः, न तु गमन-पचनादेर् इव स्वाभाविक इति? ।
+> कथं पुनर् अत्र निर्णयः,  
+मणि-द्युमणि-प्रकाशादेर् इवौपाधिको ऽयं भेदः,  
+न तु गमन-पचनादेर् इव स्वाभाविक इति?
 </details>
 
 <details><summary>English</summary>
 
-How (it may be asked) can it be determined that in this case the distinction of knowledge (implied in the cognitions--. 'I knew,' 'I know' and 'I will know'), like the distinction of the light of the sun or that of the precious stone, is dependent upon limiting conditions, and that, unlike the distinction between the activity of going and cooking, it is not based on the essential nature (of knowledge itself)?
+> How (it may be asked) can it be determined that in this case the distinction of knowledge (implied in the cognitions--. 'I knew,' 'I know' and 'I will know'), like the distinction of the light of the sun or that of the precious stone, is dependent upon limiting conditions, and that, unlike the distinction between the activity of going and cooking, it is not based on the essential nature (of knowledge itself)?
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1981,7 +1999,8 @@ How (it may be asked) can it be determined that in this case the distinction of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि जातुचिद् अद्रूपो ऽयम् आत्मा लोष्टादि-वद् दृष्ट-चरः ।
+न हि जातुचिद् अ-तद्-रूपो ऽयम् आत्मा  
+लोष्टादि-वद् दृष्ट-चरः ।
 </details>
 
 <details><summary>English</summary>
@@ -1991,7 +2010,7 @@ Indeed unlike the clod of earth, the soul is never found to be a non-sentient na
 
 <details><summary>मूलम्</summary>
 
-न हि जातुचिदद्रूपोऽयमात्मा लोष्टादिवद्दष्टचरः ।
+न हि जातुचिदतद्रूपोऽयमात्मा लोष्टादिवद्दष्टचरः ।
 </details>
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
@@ -2001,7 +2020,9 @@ Indeed unlike the clod of earth, the soul is never found to be a non-sentient na
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यश् च यद्-गुणतयैव साक्षाद् भवति, स तत्-स्वभावः, मरुद् इव स्पर्श-गुणतयैवाध्यक्ष्यमाणः ।
+यश् च यद्-गुणतयैव साक्षाद् भवति,  
+स तत्-स्वभावः,  
+मरुद् इव स्पर्श-गुणतयैवाध्यक्ष्यमाणः ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
