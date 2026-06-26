@@ -40,8 +40,7 @@ It is deeply concerning that Sri Krishnamachari, despite presenting himself as a
 > Sri Vaikanasa was the governing agama, were under the control of
 > Thenkalai sect only till the dawn of 19th century. 
 > 
-> When the Aravidu
-> dynasty kings were ruling, few temples were usurped by Thathacharyars
+> When the Aravidu dynasty kings were ruling, few temples were usurped by Thathacharyars
 > and in the process, temples at Ahobilam, Tiruvallore, Kumbakonam were
 > taken over by Vadakalai sect\*”.
 

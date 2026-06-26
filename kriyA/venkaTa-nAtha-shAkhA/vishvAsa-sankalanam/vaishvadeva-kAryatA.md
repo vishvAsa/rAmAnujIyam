@@ -2,35 +2,9 @@
 title = "वैश्वदेव-कार्यता"
 +++
 
-Source: [TW](https://youtu.be/djK61750fbM)
+<details><summary>विश्वास-टिप्पनी</summary>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-vaishvadeva avoidance, devatAntara-pUjA, pAncharAtra vs smRti/ sUtra, sad-anuShThAna-darpaNaH
-
-00:00 - Intro, amAvAsya rituals, sthAlIpAka, aupAsana  
-01:45 - tenkalai shrIvaiShNava claims.
-02:30 - Hypocritical unread claim to be Apastamba-sUtra, brahma-sUtra, rAmAnuja followers while opposing vaishvadeva.
-02:50 - instagram person's (bharatan?) confusion
-05:00 - Actually brahma-sUtra-s and rAmAnuja's shrI-bhAShya require nitya-karma anuShThAna with either antaryAmi bhAvanA or etymological understanding.
-06:30 - साक्षाद् अपि जैमिनिः। etymological understanding of deity names to refer to bhagavAn
-07:15 - parAshara-smRti does not forbid.
-07:35 - Confusion extends to vaidikas
-08:45 - Why even do sandhyAvandanam etc.?
-09:30 - sad-anuShThAna-darpaNa quotes "vAsudeva-saMhitA" (typo - मध्याह्नानन्तरं → मद्यागानन्तरम्). (Edit - seemingly available in manuscript form.)
-12:00 - Verse can be understood otherwise - show us the context.
-12:45 - Overridden by smRti-s
-13:15 - yAmuna's Agama-prAmANya says so.
-15:00 - yAmuna thought sva-shAkhokta nitya-karma abandonment to lead to loss of varNa.
-18:50 - Frauds in सदनुष्ठानदर्पण (**sad-anuShThAna-darpaNa**/ sadanushtana/sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam/ Sadanushtanadarpanam) by shuddha-sattva-varadAchArya - https://archive.org/details/Vaishvadeva/sadanuShThAna-darpaNaH_d2/page/45/mode/1up .
-20:45 - Availability of highly respected kANva-shAkhAnuyAyins in TN.
-22:50 - Conclusion
-
-सम्बन्धेऽस्मिन्न् अनुक्तं किञ्चिद् भाष्यकारवचनम् -
-"॥18.9॥ नित्यनैमित्तिक-महायज्ञादिवर्णाश्रमविहितं *कर्म* मदाराधनरूपतया *कार्यं* स्वयम्प्रयोजनम् इति मत्वा"
-
-तादृशं पुष्कलं लभ्यते गीताभाष्ये। शरीरधारणं यावन् महायज्ञा अवश्यं कार्या इति।  
-तथा च वेङ्कटनाथार्यकृता वैश्वदेवकारिकाः स्वयम् अण्णङ्गरार्यः प्रकाशयामासेति श्रूयते।
+Video - [TW](/conversations/YT/ten-vaDa-kalais/sad-anuShThAna-darpaNa/2026-04-14_sachcharitra-raxA-fraud)
 </details>
 
 
