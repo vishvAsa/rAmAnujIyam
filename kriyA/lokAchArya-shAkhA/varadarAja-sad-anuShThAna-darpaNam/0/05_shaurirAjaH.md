@@ -2,53 +2,9 @@
 title = "०५ शैरिराजः"
 
 +++
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
-Source: [TW](https://youtu.be/RtxDpqjV3n0)
-
-tenkalai shaurirAja, shuddhasattva vs dharmashAstra, shruti, vangivaMsheshvara, parAsharabhaTTa, ghaNTA
-
-00:00 - **Intro** - dharma, pramANas and shaurirAja  
-00:55 - **sad-anuShThAna-darpaNa**/ sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam  
-01:41 - showrirAjan iyengar's **Education** - ghanapATha, initiation by tAta-venkaTa, shrI-bhAShyakAla-kShepa by AsUri laxmaNa  
-02:35 - **Endorsement** by the fraud-prone kAnchi aNNangarAchArya  
-03:40 - Intro to **tenkalai sect's** AchAra deviations. venkaTAdhvari. abandonment of vaishvadeva contrary to kalpa-sUtras, rAmAnuja, venkaTanAtha etc..  
-05:00 - **Justification**. Shruti fabrication. Fanatically/ blindly following "AchArya-s"  
-06:10 - Endorsement from shAstra-s to favor shiShTa-s over shruti?  
-07:20 - **Apastamba-dharma-sUtra** - धर्मज्ञसमयः प्रमाणम्, वेदाश् च।  
-08:50 - Who is **dharma-jna**? Based on veda compatibility only. Latter more fundamental.  
-10:30 - haradatta confirms. dharma-jna is **manu** etc.., not your contemporary jIyar-s.  
-11:40 - haradatta confirms. buddha vs manu. Your respect does not make one a shiShTa. your dharma-pramANa is dharma-jna-samaya, for them veda is dharma-pramANa.  
-14:20 - shauri-rAja misleads his readers. Intention to justify tenkalai deviations.  
-15:25 - Mangling **vidyAraNya**/ mAdhava.  
-16:50 - **taittirIya shruti** / shixA valli - selectively quoted and mangled. अथ यदि ते कर्म-विचिकित्सा वा... यथा ते तत्र वर्तेरन् तथा तत्र वर्तेथाः।  
-18:35 - यान्यस्माकं सुचरितानि, तानि त्वयोपास्यानि, नो इतराणि।  
-19:30 - **mahAbhArata** quote.  
-20:10 - Who is mahAjana? How does he know dharma?  
-21:50 - **rAmAyaNa** - rAma's clarification to vAli/ vAlin  
-22:55 - rAma's statement specific to the vAnara monkey vAlin .  
-23:10 - 2nd half of shloka cunningly not quoted by shaurirAja.  
-24:55 - govindarAja clarifies.  
-25:35 - rAma's condescension towards vAlin.  
-26:40 - rAma understands. shaurirAja misleads.  
-27:40 - Claim that sad-anuShThAna-darpaNa follows **unbroken tradition of rAmAnuja** etc..  
-28:40 - **ghaNTA / ringing the bell** - tradition discarded.  
-29:10 - slippery slope - reject shruti, smRti, your own AchArya-s.  
-29:25 - **sad-anuShThAna-darpaNa** popularity.  
-29:55 - tamiL explanation  
-31:25 - Fake "pramANa". Can't go to hell - **yama-kinkara saMvAda**.  
-32:45 - **vAtsalya as doSha-bhogyatA**.  
-34:05 - **vangI-vaMsheshvara, parAshara-bhaTTa**.  
-36:35 - parAshara-bhaTTa  
-36:55 - Throwing away AchAryas' words justified?  
-38:00 - bhagavat-prIti as phala is acceptable.  
-39:30 - pApa-nAshana as part of bhAgavata-kainkarya.  
-40:50 - **Low quality argumentation**, pramANas say the opposite.  
-41:35 - vangI-vaMsheshvara, parAshara-bhaTTa **practiced what they preached**. Directed at common vaiShNava-s only.  
-42:50 - **Conclusion** - shaurirAja does not understand dharmashAstra, shruti; endorses shuddha-sattva varadAchArya who throws away AchArya's words.  
-44:20 - AchAryas were not hypocrites. Flimsy logic.  
-44:40 - **Recommendation** to tenkalai vaiShNava brothers - don't twist the words of your AchAryas.  
-45:25 - shaurirAja's error. **Good wishes**. Proper pramANa hierarchy.
+Video - [TW](/conversations/YT/ten-vaDa-kalais/sad-anuShThAna-darpaNa/2026-04-14_sachcharitra-raxA-fraud)
 </details>
 
 
