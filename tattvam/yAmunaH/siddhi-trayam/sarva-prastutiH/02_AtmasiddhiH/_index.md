@@ -8,18 +8,17 @@ title = "+०२ आत्मसिद्धिः"
 
 
 
-
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-1.27 यतः स्वतः सतो बोधाद् ऋते पुंसो यथोदितम् ।  
-तमः स्वापादि-कालीनं न सिध्येद् धेत्व्-असिद्धितः ॥
+1.27 यतः स्वतः सतो बोधाद्  
+ऋते पुंसो यथोदितम् ।  
+तमः स्वापादि-कालीनं  
+न सिध्येद् धेत्व्-असिद्धितः ॥
 </details>
 
 <details><summary>English</summary>
 
-1.27 (It might be said that though knowledge is absent, tamas may be manifested with the aid of the senses or manas or the samskāras; but this is untenable) For in sleep all the senses together with the mind (minas) are quiescent. And the power to produce any knowledge other than remembrances does not belong to the impressions (samskāras).
+on the strength of the reason that without knowledge which exists in the very nature of the soul, tamas which prevails in the states of sleep and the like will not be manifest to the soul; for there is no causal factor that could manifest it. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -35,8 +34,7 @@ title = "+०२ आत्मसिद्धिः"
 
 <details><summary>English</summary>
 
-(Nor can it be said that tamas may reveal itself; for tamas is not self- luminous; since it would then have to be invariably manifested to the soul (in the waking state also), when it grasps objects other than tamas.
-</details>
+(It might be said that though knowledge is absent, tamas may be manifested with the aid of the senses or manas or the samskāras; but this is untenable) For in sleep all the senses together with the mind (minas) are quiescent. </details>
 
 <details><summary>मूलम्</summary>
 
@@ -50,7 +48,7 @@ title = "+०२ आत्मसिद्धिः"
 
 <details><summary>English</summary>
 
-[[P109]] For the reason that knowledge is established to be the means for the manifestation of all things, it must be admitted, whether you like it or not, that predominant tamas or any other quality residing in the soul becomes manifest (with the aid of this knowledge alone), which, being patent and having in its turn no instrument (for its own manifestation), forms an essential feature of the soul.
+And the power to produce any knowledge other than remembrances does not belong to the impressions (samskāras).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -65,7 +63,8 @@ title = "+०२ आत्मसिद्धिः"
 
 <details><summary>English</summary>
 
-Besides, (to put the same syllogistically)--The soul possesses an eternal illumination: for it is a knower.
+(Nor can it be said that tamas may reveal itself; for tamas is not self- luminous; since it would then have to be invariably manifested to the soul (in the waking state also), when it grasps objects other than tamas.
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -79,6 +78,9 @@ Besides, (to put the same syllogistically)--The soul possesses an eternal illumi
 </details>
 
 <details><summary>English</summary>
+
+[[P109]] For the reason that knowledge is established to be the means for the manifestation of all things, it must be admitted, whether you like it or not, that predominant tamas or any other quality residing in the soul becomes manifest (with the aid of this knowledge alone), which, being patent and having in its turn no instrument (for its own manifestation), forms an essential feature of the soul.
+Besides, (to put the same syllogistically)--The soul possesses an eternal illumination: for it is a knower.
 
 The possession of non-eternal illumination, which is invariably concomitant with what pervades *(vyāpaka*)-the quality of being other than a knower-cannot find a place for itself in the soul which possesses the quality of being a knower -a quality opposed to the *vyāpaka* (i. e. the quality of being other than a knower)[^109_179]
 </details>
