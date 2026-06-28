@@ -2220,7 +2220,8 @@ Although there is continuity of the subtle body *(lingaśarira*), the charge of 
 ननु स्थूलशरीरस्य निवृत्तावपि सूक्ष्मशरीरस्य सर्वदानुवृत्तिर्वर्तते । तस्य च नात्मस्वभावत्वमिति तत्र व्यभिचार इति मन्दाशङ्कामपनुदति लिङ्गस्येति । अपिनानुवृत्तिरेव नास्ति प्रलये मोक्षे चेति व्यज्यते । लिङ्गशरीरस्यातीन्द्रियत्वाद्धेत्वभावान्न व्यभिचार इति च भावः ।
 </details>
 
-## स्वाप-मूर्च्छयोर् अप्रकाशः
+## स्वाप-मूर्च्छयोर् अ-प्रकटता
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > बोध-स्वाभाव्ये  
@@ -2268,9 +2269,10 @@ To make the matter clear :- When this unwelcome position is said to result, do y
 प्रकाशपदार्थविकल्पेनैनं परिहरति विकल्पे त्यादिना । ज्ञानातिरिक्तस्य ज्ञानजन्यस्य प्रकाशस्य सत्त्वेऽपि आत्मनि बोधेन तस्याजननं स्वापे तमोगुणप्रतिबन्धाद्गाढान्धकारप्रतिबन्धादिव चाक्षुषस्याजननमिति भावः ।
 </details>
 
+### बोध-जन्य-पदार्थ-धर्मः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आद्ये तद्-अभावाद् एव न प्रसङ्गः ।
+आद्ये +++(पदार्थ-प्रकटतार्थे प्रकाशे)+++ तद्+++(→प्रकटतादि)+++-अभावाद् एव न प्रसङ्गः ।
 </details>
 
 <details><summary>English</summary>
@@ -2285,7 +2287,8 @@ On the first alternative, there is no room for this unwelcome position at all, b
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभावश् च प्रकटित एव संवित्-स्वतस्-सिद्धि-समर्थन-समये ।
+अभावश् च प्रकटित एव  
+संवित्-स्वतस्-सिद्धि-समर्थन-समये ।
 </details>
 
 <details><summary>English</summary>
@@ -2298,6 +2301,7 @@ On the first alternative, there is no room for this unwelcome position at all, b
 अभावश्च प्रकटित एव संवित्स्वतस्सिद्धिसमर्थनसमये ।
 </details>
 
+### तमोऽभिभवः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भावे ऽपि तमः-प्रतिबन्धाद् अप्य् अनुदयः सम्भवी ।
@@ -2313,9 +2317,10 @@ And even if it were to exist, its non-origination might as well result from the 
 भावेऽपि तमःप्रतिबन्धादप्यनुदयः सम्भवी ।
 </details>
 
+### बोधानुवृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतरयोर् अभिमतम् एवापादितम् इत्य् अदोषोद्भावनम् ।
+इतरयोर् अभिमतम् एवापादितम् इत्य् अ-दोषोद्भावनम् ।
 </details>
 
 <details><summary>English</summary>
@@ -2330,7 +2335,9 @@ On the other two alternatives, as what has been said is acceptable to me, no def
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बोध-स्वाभाव्ये हि पुरुषस्य स्वापादि-दशासु च तथा-भावो ऽभिमत एवेति न हि तद्-आपादनं दोषाय ।
+बोध-स्वाभाव्ये हि  
+पुरुषस्य स्वापादि-दशासु च तथा-भावो ऽभिमत एवेति  
+न हि तद्-आपादनं दोषाय ।
 </details>
 
 <details><summary>English</summary>
@@ -2348,7 +2355,7 @@ Indeed when the puruṣa possesses consciousness as his essential nature, his po
 तथाभावइति । बोधवत्त्वमित्यर्थः ।
 </details>
 
-
+### न स्वानुभवमात्रे व्यवहारः
 <details><summary>विषयः</summary>
 
 In deep sleep, there are no activities of consciousness:-
@@ -2357,7 +2364,12 @@ In deep sleep, there are no activities of consciousness:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ मतम् — स्वापादावपि स्वानुभव-सद्भावे जागर इव व्यवहार-प्रसङ्ग इति; मैवम्, व्यवहारागोचरत्वात् ।
+अथ मतम् — 
+
+> स्वापादाव् अपि स्वानुभव-सद्-भावे  
+जागर इव व्यवहार-प्रसङ्ग  
+
+इति; मैवम्, व्यवहारागोचरत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -2377,7 +2389,8 @@ If you were to contend that, in case consciousness of oneself were admitted in s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कः खल्व् आत्मनि व्यवहारः? न ह्य् असौ आदातुं हातुम् उपेक्षितुं वा शक्यः ।
+कः खल्व् आत्मनि व्यवहारः?  
+न ह्य् असौ आदातुं हातुम् उपेक्षितुं वा शक्यः ।
 </details>
 
 <details><summary>English</summary>
@@ -2397,12 +2410,30 @@ What is the nature of the activity in regard to the soul (which you think, would
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्याहारः प्रसज्यत इति चेत्, किम् अङ्ग! निर्विकल्पक-बाल-मूकादि-वेदन-विषयो व्यवह्रियत एव?
+> व्याहारः प्रसज्यत  
+
+इति चेत्, किम् अङ्ग!  
+निर्विकल्पक-बाल-मूकादि- वेदन-विषयो व्यवह्रियत एव?
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> ‘अस्ति ह्य् आलोचन-ज्ञानं  
+प्रथमं निर्विकल्पकम् ।  
+बाल-मूकादि-विज्ञान-  
+सदृशं मुग्ध-वस्तु-जम् ॥  
+ततः परं पुनर् वस्तु  
+धर्मैर् जात्य्-आदिभिर् यया ।  
+बुद्ध्याऽवसीयते साऽपि  
+प्रत्यक्षत्वेन सम्मता ॥’  
+— (श्लोकवार्तिक प्रत्यक्षसूत्रम् ११२-१२०)
 </details>
 
 <details><summary>English</summary>
 
-If it is suggested that there would have to prevail discussion concerning the soul, (we ask) "Dear Sir, is the object of indeterminate *(nirvikalpaka*) knowledge or that of the knowledge of children, dumb persons and others like them ever discussed (by them)?"
+If it is suggested that  
+there would have to prevail discussion concerning the soul,  
+(we ask) "Dear Sir, is the object of indeterminate *(nirvikalpaka*) knowledge or that of the knowledge of children, dumb persons and others like them ever discussed (by them)?"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2412,12 +2443,20 @@ If it is suggested that there would have to prevail discussion concerning the so
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-द्वितीयमनुवदति व्याहारइति । परिहरति किमङ्गेति । निर्विकल्पकं वाचकशब्दादिविशेषणानुल्लेखि यज्ज्ञानं बालमूकादेः, तत्सत्त्वेऽपि न तद्विषयस्य व्याहरणं दृश्यत इत्यर्थः । तथाच स्वविषयव्याहारव्याप्तिर्ज्ञानस्य नास्तीत्यस्थाने प्रसङ्ग इति भावः ।
+द्वितीयम् अनुवदति व्याहार इति ।  
+परिहरति किमङ्गेति ।  
+
+निर्विकल्पकं वाचकशब्दादिविशेषणानुल्लेखि यज्ज्ञानं बालमूकादेः, तत्सत्त्वेऽपि न तद्विषयस्य व्याहरणं दृश्यत इत्यर्थः ।  
+तथा च स्वविषय-व्याहार-व्याप्तिर् ज्ञानस्य नास्तीत्यस्थाने प्रसङ्ग इति भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-करण-पाटव-व्यवजिहीर्षादि-सहकारि-विरहात् तत्र व्याहारानुदय इति चेत्, समानो ऽयं विधिर् इतरत्रापीति निरनुयोज्यानुयोगः ।
+> करण-पाटव-व्यवजिहीर्षादि- सहकारि-विरहात्  
+तत्र व्याहारानुदय  
+
+इति चेत्,  
+समानो ऽयं विधिर् इतरत्रापीति निरनुयोज्यानुयोगः ।
 </details>
 
 <details><summary>English</summary>
@@ -2435,7 +2474,7 @@ If it is argued that the non-origination of discussion in regard to these cases 
 करणपाटवव्यवजिहीर्षादिसहकारिविरहात्तत्र व्याहारअनुदय इति चेत्, समानोऽयं विधिरितरत्रापीति निरनुयोज्यानुयोगः ।
 </details>
 
-
+### न स्मृतिः
 <details><summary>विषयः</summary>
 
 The experiences of the soul in deep sleep need not all be remembered:-
@@ -2443,7 +2482,8 @@ The experiences of the soul in deep sleep need not all be remembered:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्मृति-प्रसङ्ग इति चेत्, न, अवृत्तित्वात् ।
+स्मृति-प्रसङ्ग इति चेत्, न,  
++++(स्वाप-मूर्च्छयोर्)+++ अ-वृत्तित्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -2458,12 +2498,22 @@ If you were to say that remembrance would have to occur, (we reply) 'not so'; fo
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-अनुभवे सति स्वाप आत्मनो जागरणणे स्मृतिप्रसङ्ग इति तृतीयाक्षेपः । तमनुवदति स्मृतीति । परिहरति अवृत्तित्वादिति ।
+अनुभवे सति स्वाप आत्मनो जागरणे स्मृतिप्रसङ्ग इति तृतीयाक्षेपः ।  
+तम् अनुवदति स्मृतीति ।  
+परिहरति अवृत्तित्वाद् इति ।
 </details>
 
+#### निर्वृत्तिताया संस्काराभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्य् उच्येत — मूर्च्छादाव् आत्मानुभवाभ्युपगमे ऽर्थान्तरानुभव इवैवम् अहम् अन्वभूवम् इति परस्तात् स्मृतिः प्रसज्यत इति; तद् न, अवृत्तित्वात् ।
+यद्य् उच्येत —  
+
+> मूर्च्छादाव् आत्मानुभवाभ्युपगमे  
+ऽर्थान्तरानुभव इव  
+"एवम् अहम् अन्वभूवम्"  
+इति परस्तात् स्मृतिः प्रसज्यत  
+
+इति; तद् न, अ-वृत्तित्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -2483,7 +2533,9 @@ If you were to say that remembrance would have to occur, (we reply) 'not so'; fo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि मूर्च्छा प्रस्वापो वा बुद्धि-वृत्ति-विशेषो दर्शन-स्पर्शनादि-वद्, येन स्मृति-बीजं संस्कारम् आदधीयाताम् ।
+न हि मूर्च्छा प्रस्वापो वा  
+बुद्धि-वृत्ति-विशेषो दर्शन-स्पर्शनादिवद्,  
+येन स्मृति-बीजं संस्कारम् आदधीयाताम् ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -2503,7 +2555,9 @@ For swoon and sleep, unlike the acts of seeing and touching, are not particular 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किन्तूद्भूतेन तमसोपरत-व्यापारेषु करणेषु निर्वृत्तिक-सांसिद्धिक-बोध-स्वरूपेणावस्थान-मात्रम् आत्मनः ।
+किन्तूद्भूतेन तमसा  
+उपरत-व्यापारेषु करणेषु  
+निर्वृत्तिक-सांसिद्धिक+++(=स्वाभाविक)+++-- बोध-स्वरूपेणावस्थान-मात्रम् आत्मनः ।
 </details>
 
 <details><summary>English</summary>
@@ -2518,17 +2572,21 @@ But, really, swoon and sleep are nothing but the very existence of the soul in i
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-किन्तु इति । स्वापादौ स्वाभाविकधर्मभूतज्ञानवत्त्वेनावस्थानमेवात्मनः, न तु ज्ञानस्य वृत्तय इति भावः ।
+किन्तु इति ।  
+स्वापादौ स्वाभाविक- धर्म-भूत-ज्ञानवत्त्वेनावस्थानम् एवात्मनः,  
+न तु ज्ञानस्य वृत्तय इति भावः ।
 </details>
 
+#### बोध-मात्रान् न संस्कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च बोध-स्वभावत्वाद् एवास्य संस्काराधायकत्वम्, अनवरतोपचीयमान-संस्कारतया निर्मोक्ष-प्रसङ्गात् ।
+न च बोध-स्वभावत्वाद् एवास्य संस्काराधायकत्वम्,  
+अनवरतोपचीयमान-संस्कारतया निर्मोक्ष-प्रसङ्गात् ।
 </details>
 
 <details><summary>English</summary>
 
-It cannot be said that, for the very reason of its having jñāna as its nature, the soul can itself generate the impressions; for, as the soul would then possess incessantly accumulating impressions (samskāras*)* release would for ever become impossible.
+It cannot be said that, for the very reason of its having jñāna as its nature, the soul can itself generate the impressions; for, as the soul would then possess incessantly accumulating impressions (samskāras) release would for ever become impossible.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2543,7 +2601,9 @@ It cannot be said that, for the very reason of its having jñāna as its nature,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुभवे च स्वानुरूप-संस्काराधान-निरुद्धे सदृश-सम्बन्धि-दर्शनादि-समुद्बोधित-निज-बीजानुसारेण स्मरणम् उपजायते ।
+अनुभवे च स्वानुरूप-संस्काराधान+++(तेन→)+++-निरुद्धे  
+सदृश-सम्बन्धि-दर्शनादि-- समुद्बोधित-निज-बीजानुसारेण  
+स्मरणम् उपजायते ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -2628,7 +2688,7 @@ Even the awareness- 'I who existed yesterday am the selfsame individual even to-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अविशदश् च स्वापादौ स्वानुभवो निर्विकल्पकश् च ।
+अ-विशदश् च स्वापादौ स्वानुभवो, निर्विकल्पकश् च ।
 </details>
 
 <details><summary>English</summary>
@@ -2648,7 +2708,9 @@ In sleep and other similar states, the consciousness of the self is indistinct a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पटीयसा सविकल्पकेनावगमेन स्मृति-बीजम् आधीयत इति च कुतस् तत्-प्रसङ्गः ।
+पटीयसा स-विकल्पकेनावगमेन  
+स्मृति-बीजम् आधीयत  
+इति च कुतस् तत्-प्रसङ्गः ।
 </details>
 
 <details><summary>English</summary>
@@ -2668,12 +2730,14 @@ In sleep and other similar states, the consciousness of the self is indistinct a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-साम्याच् चाननुभवाभिमानः शरीर-तद्-धारण-प्रयत्नाननुसन्धान-वत् ।
++++(स्वाप-मूर्च्छयोर् आत्मनि)+++ साम्याच् चाननुभवाभिमानः   शरीर--तद्-धारण-प्रयत्नाननुसन्धानवत् ।
 </details>
 
 <details><summary>English</summary>
 
-Since, having no knowledge of the self and having a knowledge of the self which lacks clearness and distinctness are similar, there arises the false belief that (in sleep) there is no knowledge of the self, even as there is no knowledge of the effort involved in maintaining the body (while such an effort does exist).
+Since, having no knowledge of the self and having a knowledge of the self which lacks clearness and distinctness are similar,  
+there arises the false belief that (in sleep) there is no knowledge of the self,  
+even as there is no knowledge of the effort involved in maintaining the body (while such an effort does exist).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2683,7 +2747,10 @@ Since, having no knowledge of the self and having a knowledge of the self which 
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ननु सर्वदाऽत्मस्वरूपानुभव इत्यनुपपन्नम् । विषयानुभवकाल एव सुखादिनाहमर्थप्रकाशस्यानुभवसिद्धत्वादित्यत्राह साम्याच्चेति । एकाकारेणानुभूतमाने विशेषाकारास्फूर्तेरननुभवभ्रमः । अत्र निदर्शनं शरीरादि । यथा जागरे सदानुभूयमानस्यापि करचरणादिलक्षणस्य शरीरस्यागन्तुकविशेषस्फुरणवेलायामेव विशेषतः प्रतिपत्त्यान्यदाननुभूयमानतेव, यथा वाऽन्तरस्य जागरणे शरीरधारणप्रयत्नस्य सदानुवर्तमानस्यापि बुद्धिपूर्वहस्ताद्युत्क्षेपणकाल एव स्फुटावभासेनान्यदाननुभूयमानतेव, तथा प्रकृतेऽपीति भावः । यद्यपि शरीरधारणप्रयत्नस्य जीवनयोनिशब्दितस्यातीन्द्रियत्वमिष्यते तार्किकैः । अथापि अदृष्टत एव जीवनस्योपपत्तेरतीन्द्रिययत्नकल्पनं गुरुभूतम् । जागरे तु प्रयत्नतोऽपि शरीरतदवयवधानणमिष्यते । स च प्रयत्नः प्रत्यक्षयोग्य एव । निद्रायां त्वदृष्टत एव शरीरधारणमिति हार्दमाचार्यतरणानाम् । तत्दृष्टान्तस्यास्य नानुपपत्तिरिति ध्येयम् ।
+> ननु सर्वदाऽत्मस्वरूपानुभव इत्यनुपपन्नम् ।  
+विषयानुभवकाल एव सुखादिना ऽहम्-अर्थ-प्रकाशस्यानुभवसिद्धत्वाद् 
+
+इत्यत्राह साम्याच्चेति । एकाकारेणानुभूतमाने विशेषाकारास्फूर्तेरननुभवभ्रमः । अत्र निदर्शनं शरीरादि । यथा जागरे सदानुभूयमानस्यापि करचरणादिलक्षणस्य शरीरस्यागन्तुकविशेषस्फुरणवेलायामेव विशेषतः प्रतिपत्त्यान्यदाननुभूयमानतेव, यथा वाऽन्तरस्य जागरणे शरीरधारणप्रयत्नस्य सदानुवर्तमानस्यापि बुद्धिपूर्वहस्ताद्युत्क्षेपणकाल एव स्फुटावभासेनान्यदाननुभूयमानतेव, तथा प्रकृतेऽपीति भावः । यद्यपि शरीरधारणप्रयत्नस्य जीवनयोनिशब्दितस्यातीन्द्रियत्वमिष्यते तार्किकैः । अथापि अदृष्टत एव जीवनस्योपपत्तेरतीन्द्रिययत्नकल्पनं गुरुभूतम् । जागरे तु प्रयत्नतोऽपि शरीरतदवयवधानणमिष्यते । स च प्रयत्नः प्रत्यक्षयोग्य एव । निद्रायां त्वदृष्टत एव शरीरधारणमिति हार्दमाचार्यतरणानाम् । तत्दृष्टान्तस्यास्य नानुपपत्तिरिति ध्येयम् ।
 </details>
 
 <details><summary>विषयः</summary>
