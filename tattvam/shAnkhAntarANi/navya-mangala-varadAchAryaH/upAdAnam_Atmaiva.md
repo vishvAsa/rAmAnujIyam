@@ -2,8 +2,8 @@
 title = "एकोपादानता"
 +++
 Brahman as Universal Material Cause (upādāna kāraṇa)  
-Source: [TW](https://www.youtube.com/watch?v=oPd-sUXpFqI&t=49s)  
-Source: [TW](https://www.youtube.com/watch?v=oPd-sUXpFqI)
+Source 1: [TW](https://www.youtube.com/watch?v=oPd-sUXpFqI)  
+Source 2: [TW](https://www.youtube.com/watch?v=PQTxSnNR-2o)
 
 ## Lecture १: What and Why
 
