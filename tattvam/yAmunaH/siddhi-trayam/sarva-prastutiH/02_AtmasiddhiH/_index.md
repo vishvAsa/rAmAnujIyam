@@ -8,131 +8,8 @@ title = "+०२ आत्मसिद्धिः"
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-1.27 यतः स्वतः सतो बोधाद्  
-ऋते पुंसो यथोदितम् ।  
-तमः स्वापादि-कालीनं  
-न सिध्येद् धेत्व्-असिद्धितः ॥
-</details>
-
-<details><summary>English</summary>
-
-on the strength of the reason that without knowledge which exists in the very nature of the soul, tamas which prevails in the states of sleep and the like will not be manifest to the soul; for there is no causal factor that could manifest it. 
-</details>
-
-<details><summary>मूलम्</summary>
-
-1.27 यतः स्वतःसतो बोधादृते पुंसो यथोदितम् ।  
-तमःस्वापादिकालीनं न सिध्येद्धेत्वसिद्धितः ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-उपरतानि हि प्रस्वाप-काले सर्वाण्येवेन्द्रियाणि सह मनसा ।
-</details>
-
-<details><summary>English</summary>
-
-(It might be said that though knowledge is absent, tamas may be manifested with the aid of the senses or manas or the samskāras; but this is untenable) For in sleep all the senses together with the mind (minas) are quiescent. </details>
-
-<details><summary>मूलम्</summary>
-
-उपरतानि हि प्रस्वापकाले सर्वाण्येवेन्द्रियाणि सह मनसा ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-संस्कारस्य च न स्मृतेर् अन्यत्र सामर्थ्यम् ।
-</details>
-
-<details><summary>English</summary>
-
-And the power to produce any knowledge other than remembrances does not belong to the impressions (samskāras).
-</details>
-
-<details><summary>मूलम्</summary>
-
-संस्कारस्य च न स्मृतेरन्यत्र सामर्थ्यम् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-न च स्व-प्रकाशं तमः; अर्थ-न्तर-वर्तिनो ऽप्य् अनिशं प्रकाश-प्रसङ्गात् ।
-</details>
-
-<details><summary>English</summary>
-
-(Nor can it be said that tamas may reveal itself; for tamas is not self- luminous; since it would then have to be invariably manifested to the soul (in the waking state also), when it grasps objects other than tamas.
-
-</details>
-
-<details><summary>मूलम्</summary>
-
-न च स्वप्रकाशं तमः; अर्थान्तरवर्तिनोऽप्यनिशं प्रकाशप्रसङ्गात् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-कॢप्तश् च सर्वार्थ-साधनतया बोध इति तेनैव करण-विरहिणा सता स्वभाव-भूतेनो(द्भूतेनो)द्भूत-वृत्तेस् तमसो ऽन्यस्य वा आत्म-वर्तिनो गुणस्य स्फुरणम् इति बलाद् अभ्युपगमनीयम् ।
-</details>
-
-<details><summary>English</summary>
-
-[[P109]] For the reason that knowledge is established to be the means for the manifestation of all things, it must be admitted, whether you like it or not, that predominant tamas or any other quality residing in the soul becomes manifest (with the aid of this knowledge alone), which, being patent and having in its turn no instrument (for its own manifestation), forms an essential feature of the soul.
-Besides, (to put the same syllogistically)--The soul possesses an eternal illumination: for it is a knower.
-
-The possession of non-eternal illumination, which is invariably concomitant with what pervades *(vyāpaka*)-the quality of being other than a knower-cannot find a place for itself in the soul which possesses the quality of being a knower -a quality opposed to the *vyāpaka* (i. e. the quality of being other than a knower)[^109_179]
-</details>
-
-<details><summary>English - Notes</summary>
-
-[^109_179]: The syllogism may be stated thus \- Nothing possessing non-eternal illumination is a knower. The soul is a knower. Therefore, the soul does not possess non-eternal illumination. Cf. *Ved*. S. II. iii. 31. Pumstvadivattvasya satobhivyaktiyogāt.
-</details>
-
-<details><summary>मूलम्</summary>
-
-क्ल्प्तश्च सर्वअर्थसाधनतया बोध इति तेनैव करणविरहिणा सता स्वभावभूतेनो(द्भूतेनो)द्भूतवृत्तेस्तमसोऽन्यस्य वाऽत्मवर्तिनो गुणस्य स्फुरणमिति बलादभ्युपगमनीयम् ।
-</details>
-
-
-<details><summary>विषयः</summary>
-
-The self-luminous soul- the substrate of prāṇa?? - is eternal-
-</details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नित्य-प्रकाशश् च आत्मा प्रमातृत्वात् ।
-</details>
-
-<details><summary>English</summary>
-
-The possession of illumination as an innate property is attributed to the soul, because it is a knower.
-</details>
-
-<details><summary>मूलम्</summary>
-
-नित्यप्रकाशश्च आत्मा प्रमातृत्वात् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अप्रमातृत्व-व्यापक-बद्धं ह्य् अनित्य-प्रकाशत्वं व्यापक-विरुद्ध-प्रमातृत्व-भागिन्य् आत्मनि नात्मानं लभते ।
-</details>
-
-<details><summary>English</summary>
-
-The possession of an illumination which is dependent upon something other than itself is invariably associated with the quality of being other than a knower.
-</details>
-
-<details><summary>मूलम्</summary>
-
-अप्रमातृत्वव्यापकबद्धं ह्यनित्यप्रकाशत्वं व्यापकविरुद्धप्रमातृत्वभागिन्यात्मनि नात्मानं लभते ।
-</details>
-
-## आत्मप्रकाशस्यस्वरूपप्रयुक्तत्वानुमानम्
+## आत्मप्रकाशस्य स्वरूपप्रयुक्तत्वानुमानम्
 <details><summary>विषयः</summary>
 
 Determination of the significance of the term 'prakāśa' and of the nature of its relation to the soul:-
@@ -313,6 +190,7 @@ Further, in respect of one and the same entity the character of being the object
 विरुद्धे चैकस्यैकक्रियायां कर्मकर्तृत्वे, सूच्यग्रस्येवात्मनिवेध्यवेधकत्वे ।
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यत्व-निरतिशय-सूक्ष्मत्व-व्यापित्व-चित्-स्वाभाव्यादि-रूपेण प्रत्यगर्थस्यौपदेशिकत्वम् आनुमानिकत्वं वा, न स्वरूपतः ।
@@ -353,10 +231,6 @@ On the view that the self may be admitted to be at once the knower and the known
 (इति ज्ञानाश्रयत्वविषयत्वयोः प्रकाशमानत्वरूपत्वे दोषानुकीर्तनम् ।)
 </details>
 
-<details><summary>English</summary>
-
-(इति ज्ञानाश्रयत्वविषयत्वयोः प्रकाशमानत्वरूपत्वे दोषानुकीर्तनम् ।)
-</details>
 
 <details><summary>मूलम्</summary>
 
