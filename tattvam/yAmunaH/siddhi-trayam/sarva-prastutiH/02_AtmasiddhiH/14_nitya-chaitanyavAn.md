@@ -1059,8 +1059,65 @@ The proof that dharmabhūtajnāna is eternal:-
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-एवम् विषय-प्रकाश-कादाचित्कत्वेनात्मनो धर्म-भूतम् ज्ञानम् आगन्तुकम् एव । आत्म-स्वरूप-प्रकाशो ऽपि न सर्वदा, किन्तु विषय-ज्ञान-काल एव ज्ञानतः, न स्वतः इति प्रत्यवस्थान-प्रसङ्गे ज्ञानस्य नित्यत्वम् तावद् व्यवस्थापयति अत्राहुर् इति । आत्म-स्वरूप-प्रयुक्तम् ज्ञानम् । तच्चात्मनो नित्यत्वान् नित्यम् एव । आत्म-स्वरूप-निरूपक-धर्मत्वाच् च ज्ञानस्य न ज्ञान-रहितम् आत्मनः स्वरूपम् व्यवतिष्ठेत प्रकाश-रहितम् इव तेजः । अतो मुक्ताव् अपि ज्ञानवत्त्वम् उपेयम्, ज्ञान-शून्यस्यानात्मत्वाद् इति श्लोक-द्वयार्थः । ननु ज्ञानाभावे ऽपि ज्ञान-शक्तिमद् आत्म-स्वरूपम् मुक्ति-काले इत्य् अत्राह चितिशक्त्येति । लुप्तम् उत्तर-अर्धम् अस्य । तत्-स्थाने ऽस्मदीयम् पूरणम् ( ) एतत्-चिह्नान्तर् निवेशितम् । नित्यस्य स्वरूप-योग्यत्वे फल-अवश्यम्भाव-नियमाद् ज्ञान-शक्तिमत्त्वे मुक्तस्य कदाचिद् ज्ञानम् उदियात् । मुक्तौ कदापि ज्ञानस्यानुदयात् तच्छक्तिर् अपि तदा नष्टैवेति आत्म-नाश एव प्रतिज्ञातो भवेत् । स्वरूप-निरूपक-धर्म-निवृत्तौ स्वरूप-निवृत्तेर् अवश्यम्भावाद् इत्य् अर्थः । ननु ज्ञानस्य ज्ञान-शक्तेर् वा नात्मस्वरूपनिरूपकत्वम् । किन्तु आगन्तुकम् अपि तदात्मन एवेष्यते धर्म-भूतम् न घटादेर् इति आत्मात्म-व्यवस्थोपपद्यत इति चेत्; मैवम् ज्ञानस्यात्मस्वरूपनिरूपकधर्मतायाः स्थापयिष्यमाणत्वात्, जडात्मवादस्य त्रय्यन्त-विरुद्धत्वेन सद्भिर् अनादरणीयत्वाच् चेति हार्दम् ॥२४ ॥२५ ॥२६ ॥
+> एवम् विषय-प्रकाश-कादाचित्कत्वेनात्मनो धर्म-भूतम् ज्ञानम् आगन्तुकम् एव । आत्म-स्वरूप-प्रकाशो ऽपि न सर्वदा, किन्तु विषय-ज्ञान-काल एव ज्ञानतः, न स्वतः 
+
+इति प्रत्यवस्थान-प्रसङ्गे ज्ञानस्य नित्यत्वम् तावद् व्यवस्थापयति अत्राहुर् इति । आत्म-स्वरूप-प्रयुक्तम् ज्ञानम् । तच्चात्मनो नित्यत्वान् नित्यम् एव । आत्म-स्वरूप-निरूपक-धर्मत्वाच् च ज्ञानस्य  
+न ज्ञान-रहितम् आत्मनः स्वरूपम् व्यवतिष्ठेत प्रकाश-रहितम् इव तेजः । 
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.25 चैतन्याश्रयतां मुक्त्वा  
+स्वरूपं नान्यद् आत्मनः ।  
+यद् हि चैतन्य-रहितं  
+न तद् आत्मा घटादि-वत् ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Apart from being the substrate of consciousness, the self has no other form. That which is devoid of consciousness cannot be the soul, as in the case of the pot and the like. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.25 चैतन्याश्रयतां मुक्त्वा स्वरूपं नान्यदात्मनः ।  
+यद्धि चैतन्यरहितं न तदात्मा घटादिवत् ॥
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अतो मुक्ताव् अपि ज्ञानवत्त्वम् उपेयम्, ज्ञान-शून्यस्यानात्मत्वाद् इति श्लोक-द्वयार्थः । </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.26 चिति-शक्त्या न चात्मत्वं  
+मुक्तौ नाश-प्रसङ्गतः ।  
+(बोधेनैवान्यतो भेदे  
+व्यर्था तच्-छक्ति-कल्पना ॥)
+</details>
+
+<details><summary>English</summary>
+
+It cannot be said that the soul becomes a soul by virtue of its capacity to know; for, (if that were so) in the state of release, it would have to perish. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.26 चितिशक्त्या न चात्मत्वं मुक्तौ नाशप्रसङ्गतः ।  
+(बोधेनैवान्यतो भेदे व्यर्था तच्छक्तिकल्पना ॥)
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+> ननु ज्ञानाभावे ऽपि ज्ञान-शक्तिमद् आत्म-स्वरूपम् मुक्ति-काले 
+
+इत्य् अत्राह चितिशक्त्येति ।  
+लुप्तम् उत्तर-अर्धम् अस्य । तत्-स्थाने ऽस्मदीयम् पूरणम् ( ) एतत्-चिह्नान्तर् निवेशितम् ।+++(5)+++  
+नित्यस्य स्वरूप-योग्यत्वे फल-अवश्यम्भाव-नियमाद् ज्ञान-शक्तिमत्त्वे मुक्तस्य कदाचिद् ज्ञानम् उदियात् । मुक्तौ कदापि ज्ञानस्यानुदयात् तच्छक्तिर् अपि तदा नष्टैवेति आत्म-नाश एव प्रतिज्ञातो भवेत् । स्वरूप-निरूपक-धर्म-निवृत्तौ स्वरूप-निवृत्तेर् अवश्यम्भावाद् इत्य् अर्थः । ननु ज्ञानस्य ज्ञान-शक्तेर् वा नात्मस्वरूपनिरूपकत्वम् । किन्तु आगन्तुकम् अपि तदात्मन एवेष्यते धर्म-भूतम् न घटादेर् इति आत्मात्म-व्यवस्थोपपद्यत इति चेत्; मैवम् ज्ञानस्यात्मस्वरूपनिरूपकधर्मतायाः स्थापयिष्यमाणत्वात्, जडात्मवादस्य त्रय्यन्त-विरुद्धत्वेन सद्भिर् अनादरणीयत्वाच् चेति हार्दम् ॥२४ ॥२५ ॥२६ ॥
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1070,7 +1127,7 @@ The proof that dharmabhūtajnāna is eternal:-
 
 <details><summary>English</summary>
 
-Apart from being the substrate of consciousness, the self has no other form. That which is devoid of consciousness cannot be the soul. as in the case of the pot and the like. It cannot be said that the soul becomes a soul by virtue of its capacity to know; for, (if that were so) in the state of release, it would have to perish. For in the systems of Kaṇāda and Gautama release consists in the total annihilation of all special qualities of the soul, such as, intelligence, pleasure and pain.
+For in the systems of Kaṇāda and Gautama release consists in the total annihilation of all special qualities of the soul, such as, intelligence, pleasure and pain.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2846,13 +2903,13 @@ It cannot be maintained that if (in sleep) the self exists in its essential natu
 (इति ज्ञाननित्यत्वे प्रसक्ताक्षेपाणां परिहरणम्)
 </details>
 
-## निद्रा न वृत्तिः
+## निद्राऽवृत्तित्वेऽपि प्रत्यवमर्शः
 <details><summary>विषयः</summary>
 
 Refutation of the view that nidra is a mode of action:-
 </details>
 
-
+### पूर्वपक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं पुनर् निद्राया अवृत्तित्वे  
@@ -2878,7 +2935,27 @@ If sleep is not a form of *vṛtti,* how (it may be asked) can remembrances, suc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्त्व-सचिव-समुल्लसित-तमो-गुणानुभव-भावित-भावना-योनिः खलु सुखम् अहम् अस्वाप्सं, प्रसन्नं मे मनः, लघूनि मे गात्राणीति प्रत्यवमर्शः; रजस्-तमस्-समुद्रेके तु दुःखम् अहम् अस्वाप्सं, भ्रमत्य् अनवस्थितं मे चित्तम् इति; सत्त्व-रजसी त्व् अभिभूय नितान्तम् उद्भूते तमसि गाढ-मूढं सुप्तो ऽस्मि, गुरूणि मे गात्राणि, मुषितम् इव मनः, मीलितम् इव इति ।
+सत्त्व-सचिव-समुल्लसित-- तमो-गुणानुभव-भावित-- भावना-योनिः खलु  
+
+> सुखम् अहम् अस्वाप्सं,  
+प्रसन्नं मे मनः,  
+लघूनि मे गात्राणि
+
+इति प्रत्यवमर्शः;  
+रजस्-तमस्-समुद्रेके तु 
+
+> दुःखम् अहम् अस्वाप्सं,  
+भ्रमत्य् अनवस्थितं मे चित्तम् 
+
+इति;  
+सत्त्व-रजसी त्व् अभिभूय नितान्तम् उद्भूते तमसि  
+
+> गाढ-मूढं सुप्तो ऽस्मि,  
+गुरूणि मे गात्राणि,  
+मुषितम् इव मनः,  
+मीलितम् इव 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -2891,6 +2968,7 @@ If sleep is not a form of *vṛtti,* how (it may be asked) can remembrances, suc
 सत्त्वसचिवसमुल्लसिततमोगुणअनुभवभावितभावनायोनिः खलु सुखमहमस्वाप्सं, प्रसन्नं मे मनः, लघूनि मे गात्राणीति प्रत्यवमर्शः; रजस्तमस्समुद्रेके तु दुःखमहमस्वाप्सं, भ्रमत्यनवस्थितं मे चित्तमिति; सत्त्वरजसी त्वभिभूय नितान्तमुद्भूते तमसि गाढमूढं सुप्तोऽस्मि, गुरूणि मे गात्राणि, मुषितमिव मनः, मीलितमिव इति ।
 </details>
 
+### अनुमानतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यम् एवम् । दत्तोत्तरं ह्य् एतत् ।
@@ -2913,7 +2991,8 @@ If sleep is not a form of *vṛtti,* how (it may be asked) can remembrances, suc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैवामी वासना-योनयः प्रत्ययाः । अपि तु तात्कालिक-शरीरेन्द्रिय-मनोZवस्था-विशेष-पर्यालोचन-निमित्ता आनुमानिका इति ।
+नैवामी वासना-योनयः प्रत्ययाः ।  
+अपि तु तात्कालिक-शरीरेन्द्रिय-मनोऽवस्था-विशेष- पर्यालोचन-निमित्ता आनुमानिका इति ।
 </details>
 
 <details><summary>English</summary>
@@ -2933,7 +3012,13 @@ Assuredly, these cognitions do not have impressions (*vāsanās*) for their sour
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं-रूपा हीमे यतः प्रसन्नं मे मनः, सम्यग्-आहार-परिणाम-वशात् लघूनि चाङ्गानि, अतः सुखम् अहम् अस्वाप्सम् इति ।
+एवं-रूपा हीमे  
+
+> यतः प्रसन्नं मे मनः,  
+सम्यग्-आहार-परिणाम-वशाल् लघूनि चाङ्गानि,  
+अतः सुखम् अहम् अस्वाप्सम् 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -2946,9 +3031,13 @@ Indeed, such cognitions take the following form:- 'On account of the fact that m
 एवंरूपा हीमेयतः प्रसन्नं मे मनः, सम्यगाहारपरिणामवशाल्लघूनि चाङ्गानि, अतः सुखमहमस्वाप्समिति ।
 </details>
 
+### ईषत्-स्मृतेः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वापावस्थायां वा इन्द्रियोपरम-तारतम्य-वशाद् अविशद-तात्कालिक-तत्तद्-अनुकूल-प्रतिकूल-विषयानुसन्धान-निबन्धनतयापि स्मरणम् उपपद्यत इति न वृत्त्य्ान्तरत्वं निद्रायाः ।
+स्वापावस्थायां वा  
+इन्द्रियोपरम-तारतम्य-वशाद्  
+अ-विशद-तात्कालिक-- तत्-तद्-अनुकूल-प्रतिकूल-विषय- +अनुसन्धान-निबन्धनतयापि स्मरणम् उपपद्यत इति  
+न वृत्त्य्-अन्तरत्वं निद्रायाः ।
 </details>
 
 <details><summary>English</summary>
@@ -2976,7 +3065,9 @@ The conclusion that nidra is no vrtti will not contradict the yoga-sutra:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं तर्हि पारमर्षं सूत्रं "अभाव-प्रत्ययालम्बना वृत्तिर् निद्रा" इति ।
+> कथं तर्हि पारमर्षं+++(←परमर्षिः)+++ सूत्रं  
+"अभाव-प्रत्ययालम्बना वृत्तिर् निद्रा"  
+इति ?
 </details>
 
 <details><summary>English</summary>
@@ -2999,10 +3090,12 @@ The conclusion that nidra is no vrtti will not contradict the yoga-sutra:-
 निद्राया वृत्ति-रूपत्वाभावे पातञ्जल-सूत्रस्य का गतिर् इति शङ्कते **कथं तर्ही**ति ।
 </details>
 
-
+#### निरोधे तात्पर्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निरोध-परत्वात् प्रकरणस्य न वृत्ति-स्वरूपे तात्पर्यं विपर्यय-वत् ।
+निरोध-परत्वात् प्रकरणस्य  
+न वृत्ति-स्वरूपे तात्पर्यं,  
+विपर्ययवत् ।
 </details>
 
 <details><summary>English</summary>
@@ -3017,13 +3110,18 @@ The conclusion that nidra is no vrtti will not contradict the yoga-sutra:-
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-उत्तरयति **निरोधे**ति । भाव-आलम्बन-वृत्ति-सामान्य-अभावो निद्रेति तात्पर्यम् । अस्यास् च वृत्तिवन् निरोद्धव्यत्व-सामान्याद् वृत्तित्व-उपचार इति भावः । अत्र निदर्शनम् **विपर्ययव**दिति । अन्यथा-ख्यातेर् अभावेन भेद-अग्रहस्यैव भ्रम-स्थल-अभिषिक्तस्य विपर्यय-शब्दितस्य निरोद्धव्यत्व-तात्पर्येण वृत्तित्ववन् निद्राया अपि वृत्तित्वम् कीर्त्यत इति भावः ।
+उत्तरयति **निरोधे**ति । भाव-आलम्बन-वृत्ति-सामान्य-अभावो निद्रेति तात्पर्यम् । अस्यास् च वृत्तिवन् निरोद्धव्यत्व-सामान्याद् वृत्तित्व-उपचार इति भावः ।  
+
+अत्र निदर्शनम् **विपर्ययव**दिति । अन्यथा-ख्यातेर् अभावेन  
+भेदाग्रहस्यैव भ्रम-स्थल-अभिषिक्तस्य विपर्यय-शब्दितस्य निरोद्धव्यत्व-तात्पर्येण वृत्तित्ववन्  
+निद्राया अपि वृत्तित्वम् कीर्त्यत इति भावः ।
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न ह्य् अतद्-रूप-प्रतिष्ठं मिथ्या-ज्ञानं किञ्चिद् अस्ति, सर्व-संविदाम् अर्थाव्यभिचारात् ।
+न ह्य् अ-तद्-रूप-प्रतिष्ठं मिथ्या-ज्ञानं +++(←विपर्ययत्वेनोक्तं सूत्रे)+++ किञ्चिद् अस्ति,  
+सर्व-संविदाम् अर्थाव्यभिचारात् ।+++(4 ??)+++
 </details>
 
 <details><summary>English</summary>
@@ -3033,7 +3131,7 @@ Indeed, a false knowledge which is not based on the object which it reveals cann
 
 <details><summary>English - Notes</summary>
 
-[F108_176]: Compare *Yoga-Sūtra* I. 8. 'Viparyayo mithyājīāna matadrūpapratisṭham.'
+[F108_176]: Compare *Yoga-Sūtra* I. 8. 'Viparyayo mithyājñānam atadrūpapratisṭham.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3044,7 +3142,7 @@ Indeed, a false knowledge which is not based on the object which it reveals cann
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स चाधिकरण-सिद्धः ।
+स च +++(न्याय-तत्त्वे)+++ अधिकरण-सिद्धः ।
 </details>
 
 <details><summary>English</summary>
@@ -3086,7 +3184,8 @@ and later it will be established again.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कैवल्य-भागाि यच् चित्तत्-प्रत्यनीकतया निद्रादेर् निरोध्यत्वेनोपदेशः ।
+कैवल्य-भागि यच् चित्,  
+तत्-प्रत्यनीकतया निद्रादेर् निरोध्यत्वेनोपदेशः ।
 </details>
 
 <details><summary>English</summary>
@@ -3096,12 +3195,12 @@ As sleep *(nidrā)* is a hindrance to the soul *(cit)* which is to attain releas
 
 <details><summary>मूलम्</summary>
 
-कैवल्यभागि यच्चित्त्प्रत्यनीकतया निद्रादेर्निरोध्यत्वेनोपदेशः ।
+कैवल्यभागि यच्चित्तत्(/तु)प्रत्यनीकतया निद्रादेर्निरोध्यत्वेनोपदेशः ।
 </details>
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-निरोद्धव्यत्वम् चैषाम् कैवल्य-साधन-परिपन्थितयेत्य् आह **कैवल्ये**ति । कैवल्य-भागाि यच् चित् मोक्ष-अधिकृतम् आत्म-स्वरूपम्, तत्-प्रत्यनीकतया तद्-अभिमत-साधन-सिद्धि-विघातकतयैतेषाम् निरोध्यत्वम् इत्य् अर्थः ।
+निरोद्धव्यत्वम् चैषाम् कैवल्य-साधन-परिपन्थितयेत्य् आह **कैवल्ये**ति । कैवल्य-भागि यच् चित् मोक्ष-अधिकृतम् आत्म-स्वरूपम्, तत्-प्रत्यनीकतया तद्-अभिमत-साधन-सिद्धि-विघातकतयैतेषाम् निरोध्यत्वम् इत्य् अर्थः ।
 </details>
 
 
@@ -3120,7 +3219,7 @@ As sleep *(nidrā)* is a hindrance to the soul *(cit)* which is to attain releas
 (इति निद्राया वृत्तिरूपत्वनिषेधनम्)
 </details>
 
-
+## निद्रा-वृत्ति-पक्षः
 <details><summary>विषयः</summary>
 
 Granting nidra is a vṛtti, from that reason itself:-
@@ -3129,7 +3228,11 @@ Granting nidra is a vṛtti, from that reason itself:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्तु वा पूर्वोक्त-प्रमाणादि-वृत्त्य्-अभाव-कारण-भूत-प्रचिततम-तमो-गुणावलम्बना वृत्तिर् एव निद्रा; सन्तु च प्रबुद्ध-प्रत्यवमर्शाश् च स्मरणानि; तथा सत्य् अप्य् अनवरतानुवृत्तबोधतया स्थितमेव पुंसो बोध-स्वभावत्वम् ।
+अस्तु वा पूर्वोक्त-प्रमाणादि-- वृत्त्य्-अभाव-कारण-भूत-- प्रचिततम-तमो-गुणावलम्बना वृत्तिर् एव निद्रा;  
+सन्तु च प्रबुद्ध-प्रत्यवमर्शाश् च स्मरणानि;  
+तथा सत्य् अप्य्  
+अनवरतानुवृत्त-बोधतया  
+स्थितमेव पुंसो बोध-स्वभावत्वम् । +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -3148,53 +3251,42 @@ Let it be granted that sleep (*nidrā*) is a vṛtti having for its object the m
 </details>
 
 
+## बोध-कारणानुवृत्ताव् अपि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आह — बोध-कारणानुवृत्त्यापि बोधानुवृत्तिर् उपपद्यत इति कथं तथास्वाभाव्य-निश्चयः? इत्थम् …
+आह —  
+
+> बोध-कारणानुवृत्त्या ऽपि बोधानुवृत्तिर् उपपद्यत  
+इति कथं तथा +++(बोध-)+++स्वाभाव्य-निश्चयः? 
 </details>
 
 <details><summary>English</summary>
 
-(The opponent may say that) the continuity of knowledge may as well be explained in terms of the persistence of the causes of knowledge, (and ask) how can it be asserted that knowledge is an essential property of the soul, on the strength of the continuity of knowledge? (The reply is:--this assertion is made) on the strength of the reason that
+(The opponent may say that) the continuity of knowledge may as well be explained in terms of the persistence of the causes of knowledge, (and ask) how can it be asserted that knowledge is an essential property of the soul, on the strength of the continuity of knowledge? 
 </details>
 
 <details><summary>मूलम्</summary>
 
-आह बोधकारणअनुवृत्त्यापि बोधानुवृत्तिरुपपद्यत इति कथं तथास्वाभाव्यनिश्चयः? इत्थम् …
+आह बोधकारणानुवृत्त्यापि बोधानुवृत्तिरुपपद्यत इति कथं तथास्वाभाव्यनिश्चयः? 
 </details>
 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-1.25 चैतन्याश्रयतां मुक्त्वा स्वरूपं नान्यद् आत्मनः ।  
-यद् हि चैतन्य-रहितं न तद् आत्मा घटादि-वत् ॥
+इत्थम् …
 </details>
 
 <details><summary>English</summary>
 
-1.25 without knowledge which exists in the very nature of the soul,
+(The reply is:--this assertion is made) on the strength of the reason that
 </details>
 
 <details><summary>मूलम्</summary>
 
-1.25 चैतन्याश्रयतां मुक्त्वा स्वरूपं नान्यदात्मनः ।  
-यद्धि चैतन्यरहितं न तदात्मा घटादिवत् ॥
+इत्थम् …
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-1.26 चिति-शक्त्या न च आत्मत्वं मुक्तौ नाश-प्रसङ्गतः ।  
-बोधेनैवान्यतो भेदे व्यर्था तच्छक्ति-कल्पना ॥
-</details>
 
-<details><summary>English</summary>
 
-1.26 tamas which prevails in the states of sleep and the like will not be manifest to the soul; for there is no causal factor that could manifest it.
-</details>
-
-<details><summary>मूलम्</summary>
-
-1.26 चितिशक्त्या न चात्मत्वं मुक्तौ नाशप्रसङ्गतः ।  
-बोधेनैवान्यतो भेदे व्यर्था तच्छक्तिकल्पना ॥
-</details>
