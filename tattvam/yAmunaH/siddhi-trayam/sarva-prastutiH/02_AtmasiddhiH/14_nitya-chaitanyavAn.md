@@ -3270,6 +3270,13 @@ Let it be granted that sleep (*nidrā*) is a vṛtti having for its object the m
 आह बोधकारणानुवृत्त्यापि बोधानुवृत्तिरुपपद्यत इति कथं तथास्वाभाव्यनिश्चयः? 
 </details>
 
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+> स्वापस्य वृत्तित्वोपगमेऽपि न ज्ञाननित्यत्वसिद्धिः, वृत्तेः करणजन्यत्वाद्  
+
+इति परस्य शङ्कामनुवदति **आहे**ति । 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3288,5 +3295,171 @@ Let it be granted that sleep (*nidrā*) is a vṛtti having for its object the m
 </details>
 
 
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+परिहरति **इत्थम्** इति । ज्ञानस्वभावत्वनिश्चयोऽनन्तरनिर्दिश्यमानप्रकारेणेत्यर्थः । 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.27 यतः स्वतः सतो बोधाद्  
+ऋते पुंसो यथोदितम् ।  
+तमः स्वापादि-कालीनं  
+न सिध्येद् धेत्व्-असिद्धितः +++(→तमसः स्वतः-प्रकाशाभावात्)+++ ॥
+</details>
+
+<details><summary>English</summary>
+
+on the strength of the reason that without knowledge which exists in the very nature of the soul, tamas which prevails in the states of sleep and the like will not be manifest to the soul; for there is no causal factor that could manifest it. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.27 यतः स्वतःसतो बोधादृते पुंसो यथोदितम् ।  
+तमःस्वापादिकालीनं न सिध्येद्धेत्वसिद्धितः ॥
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**यत** इति ।  
+स्वापे कारणायोगात् स्वतःसिद्ध एव तमःप्रकाशको बोध इत्येष्टव्यम् इत्यर्थः ॥२७ ॥
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपरतानि हि प्रस्वाप-काले सर्वाण्य् एवेन्द्रियाणि सह मनसा ।
+</details>
+
+<details><summary>English</summary>
+
+(It might be said that though knowledge is absent, tamas may be manifested with the aid of the senses or manas or the samskāras; but this is untenable) For in sleep all the senses together with the mind (minas) are quiescent. </details>
+
+<details><summary>मूलम्</summary>
+
+उपरतानि हि प्रस्वापकाले सर्वाण्येवेन्द्रियाणि सह मनसा ।
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+श्लोकं स्वयमेव विवृणोति **उपरतानी**ति । अन्यस्य वासुखादेर्वा । उपरतव्यापारत्वात्करणानां स्वापे न ज्ञानवृत्तेरवसरः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संस्कारस्य च न स्मृतेर् अन्यत्र सामर्थ्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+And the power to produce any knowledge other than remembrances does not belong to the impressions (samskāras).
+</details>
+
+<details><summary>मूलम्</summary>
+
+संस्कारस्य च न स्मृतेरन्यत्र सामर्थ्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च स्व-प्रकाशं तमः;  
+अर्थान्तर-वर्तिनो ऽप्य् अनिशं प्रकाश-प्रसङ्गात् ।
+</details>
+
+<details><summary>English</summary>
+
+Nor can it be said that tamas may reveal itself; for tamas is not self- luminous; since it would then have to be invariably manifested to the soul (in the waking state also), when it grasps objects other than tamas.
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च स्वप्रकाशं तमः; अर्थान्तरवर्तिनोऽप्यनिशं प्रकाशप्रसङ्गात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कॢप्तश् च सर्वार्थ-साधनतया बोध इति  
+तेनैव करण-विरहिणा सता  
+स्वभाव-भूतेनोद्भूत-वृत्तेस् तमसो ऽन्यस्य वा आत्म-वर्तिनो गुणस्य स्फुरणम्  
+इति बलाद् अभ्युपगमनीयम् ।
+</details>
+
+<details><summary>English</summary>
+
+[[P109]] For the reason that knowledge is established to be the means for the manifestation of all things,  
+it must be admitted, whether you like it or not, that  
+predominant tamas or any other quality residing in the soul becomes manifest (with the aid of this knowledge alone),  
+which, being patent and having in its turn no instrument (for its own manifestation),  
+forms an essential feature of the soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कॢप्तश्च सर्वअर्थसाधनतया बोध इति तेनैव करणविरहिणा सता स्वभावभूतेनो(द्भूतेनो)द्भूतवृत्तेस्तमसोऽन्यस्य वाऽत्मवर्तिनो गुणस्य स्फुरणमिति बलादभ्युपगमनीयम् ।
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+अतः स्वाभाविकेन बोधेनैव तमोगुणप्रकाश इति बलादेष्टव्यं यदि तमोऽनुभवः स्वाप इष्यते । तत्सिद्धं बोधस्वभावत्वमिति भावः । वस्तुतो ज्ञानस्य न स्वापे तमःप्रकाशकत्वमतिसङ्कुचितवृत्तित्वात् । स्वरूपानुभवबलात्सुखत्वेन तदा भासमानस्यात्मनः परामर्शः परं प्रबोध इति तु सिद्धान्तः । **अस्वाप्सम्** इति स्वापकालांशयोस्त्वनुमितिरूपैव निरुक्तप्रतीतिः । नित्यानुभवस्य संस्काराजनकत्वे तु साक्षादेव स्वापकालीनात्मस्वरूपानुभवस्य निरुक्तप्रतिसन्धानहेतुत्वं सुखत्वेनात्मागाहनांश इति च बोध्यम् ।
+</details>
+
+
+## प्रमातृत्वात्
+<details><summary>विषयः</summary>
+
+The possession of illumination as an innate property is attributed to the soul, because it is a knower.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्य-प्रकाशश् चात्मा प्रमातृत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+Besides, (to put the same syllogistically)--The soul possesses an eternal illumination: for it is a knower.
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यप्रकाशश्च आत्मा प्रमातृत्वात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+बोधस्वभावस्याप्यात्मनो वृत्तिकाल एवास्तु प्रकाशो न सर्वदेत्यत्र तावन्नित्यप्रकाशत्वं साधयति **नित्यप्रकाशश्चे**ति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-प्रमातृत्व-व्यापक-बद्धं ह्य् अनित्य-प्रकाशत्वं  
+व्यापक-विरुद्ध-प्रमातृत्व-भागिन्य् आत्मनि नात्मानं +++(→नानित्य-प्रकाशत्वं)+++ लभते ।
+</details>
+
+<details><summary>English</summary>
+
+The possession of non-eternal illumination, which is invariably concomitant with what pervades *(vyāpaka*)-the quality of being other than a knower-cannot find a place for itself in the soul which possesses the quality of being a knower -a quality opposed to the *vyāpaka* (i. e. the quality of being other than a knower)[F109_179]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[F109_179]: The syllogism may be stated thus \- Nothing possessing non-eternal illumination is a knower. The soul is a knower. Therefore, the soul does not possess non-eternal illumination. Cf. *Ved*. S. II. iii. 31. Pumstvadivattvasya satobhivyaktiyogāt.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्रमातृत्वव्यापकबद्धं ह्यनित्यप्रकाशत्वं व्यापकविरुद्धप्रमातृत्वभागिन्यात्मनि नात्मानं लभते ।
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**अप्रमातृत्वे**ति । अप्रमातृत्वरूपं यद्व्यापकं, तद्व्याप्यमित्यर्थः ।
+</details>

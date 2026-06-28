@@ -1460,7 +1460,7 @@ Besides, (to put the same syllogistically)--The soul possesses an eternal illumi
 
 [F109_179]: The syllogism may be stated thus \- Notaing possessing non-eternal illumination is a knower. The soul is a knower. Therefore, the soul does not possess non-eternal illumination. Cf. *Ved*. S. II. iii. 31. Pumstvadivattvasya satobhivyaktiyogāt.
 
-### The Soul being the substrate of prani, is svayamprakāśa-
+### The Soul being the substrate of jnana, is svayamprakāśa-
 
 The possession of illumination as an innate property is attributed to the soul, because it is a knower. The possession of an illumination which is dependent upon something other than itself is invariably associated with the quality of being other than a knower.
 
