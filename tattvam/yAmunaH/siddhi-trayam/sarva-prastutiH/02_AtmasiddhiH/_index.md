@@ -7,53 +7,13 @@ title = "+०२ आत्मसिद्धिः"
 **सिद्धित्रये आत्मसिद्धिः॥**
 
 
+## द्वित्वादेरपेक्षाबुद्धिनाशानाश्यत्वं
 
 
-## आत्मप्रकाशस्य स्वरूपप्रयुक्तत्वानुमानम्
 <details><summary>विषयः</summary>
 
 Determination of the significance of the term 'prakāśa' and of the nature of its relation to the soul:-
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-1.28 स्वतःसिद्ध-प्रकाशत्वम् अप्य् अस्य ज्ञातृ-भावतः ।  
-अज्ञातृत्वेन हि व्याप्ता परायत्त-प्रकाशता ॥
-</details>
-
-<details><summary>English</summary>
-
-1.28 What is meant by this illumination (*prakāśa*) which is said to be eternal and innate to the soul?
-</details>
-
-<details><summary>मूलम्</summary>
-
-1.28 स्वतःसिद्धप्रकाशत्वमप्यस्य ज्ञातृभावतः ।  
-अज्ञातृत्वेन हि याप्ता परायत्तप्रकाशता ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-(इत्य् आत्मनो ज्ञान-स्वभावस्य नित्य-स्वप्रकाशत्व-समर्थनम्)
-</details>
-
-<details><summary>English</summary>
-
-And what exactly is the nature of its relation to the soul?
-</details>
-
-<details><summary>मूलम्</summary>
-
-(इत्यात्मनो ज्ञानस्वभावस्य नित्यस्वप्रकाशत्वसमर्थनम्)
-</details>
-
-## द्वित्वादेरपेक्षाबुद्धिनाशानाश्यत्वं
-
-<details><summary>विषयः</summary>
-
-The contention that the self is the object of knowledge and not svayamprakāśa-
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -62,7 +22,7 @@ The contention that the self is the object of knowledge and not svayamprakāśa-
 
 <details><summary>English</summary>
 
-[[P110]] If illumination means knowledge itself and if the relation is that of being the container and the contained (āśrayāśrayitvam),
+What is meant by this illumination (*prakāśa*) which is said to be eternal and innate to the soul? And what exactly is the nature of its [[P110]] relation to the soul?
 </details>
 
 <details><summary>मूलम्</summary>
@@ -77,7 +37,7 @@ The contention that the self is the object of knowledge and not svayamprakāśa-
 
 <details><summary>English</summary>
 
-then (with regard to the aforesaid syllogism) in order to cite the invariable concomitance of the absence of the sadhya with the absence of the *hetu,* pots and the like must be cited as illustrative examples in the following way:--Whatever possesses a non-eternal illumination or an illumination depending upon something else is other than a knower; like pots, etc.
+[[P110]] If illumination means knowledge itself and if the relation is that of being the container and the contained (āśrayāśrayitvam), then (with regard to the aforesaid syllogism) in order to cite the invariable concomitance of the absence of the sadhya with the absence of the *hetu,* pots and the like must be cited as illustrative examples in the following way:--Whatever possesses a non-eternal illumination or an illumination depending upon something else is other than a knower; like pots, etc.
 </details>
 
 <details><summary>मूलम्</summary>
