@@ -256,6 +256,8 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 > पुराणं सर्ग-प्रतिसर्गादिष्व् अन्य-परम्  
 इति न इतिहासवत् पुरावृत्त-कथने तात्पर्यवत्।
 
+ततो हि कल्प-भेदाश्रयेण पुराण-विवाद-परिहारः कश्चन।  
+पुराणानि च कल्पान्तर-कथाः प्रतिज्ञायैव वर्णयन्ति बहुत्र। 
 
 ### रामायण-प्राधान्यम्
 तत्रापि रामायणं प्रधानम् मन्यन्ते। [यथाह](/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/govindarAja-bhUShaNam/6_yuddhakANDam/14-ayodhyA-gamanam/126_puShpake_sItA-rAmasaMvAdaH) गोविन्दराजः -
