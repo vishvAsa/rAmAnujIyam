@@ -1336,3 +1336,748 @@ Nor can it be said that diversity is merely the absence of unity. (Hence, the su
 न च तदेकत्वाभावमात्रम् । तुच्छस्यापि नानात्वापत्तेः ।
 </details>
 
+
+## द्वित्वादिप्रत्यक्षसार्वदिकत्वापत्तिपरिहारः
+
+<details><summary>विषयः</summary>
+
+Cognition of duality and the like is not constant, since it depends on desire to enumerate.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.33 आपेक्षिकत्वात् द्वित्वादेः प्रतियोग्य्-अनवग्रहात् ।  
+बुभुत्सोपरमाच् चापि सत्या एवानवग्रहः ॥
+</details>
+
+<details><summary>English</summary>
+
+[[P116]] 1.33 Even though the numbers commencing from 2 exist, being dependent upon enumerative cognition (*apekṣābuddhi*), their non-apprehension is due to the non-apprehension of the correlative *(pratiyogin*) and the cessation of the desire to know.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.33 आपेक्षिकत्वात् द्वित्वादेः प्रतियाेग्यनवग्रहात् ।  
+बुभुत्सोपरमाच्चापि सत्या एवानवग्रहः ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+Consciousness illumines objects through contact with them:-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतश् चैतन्यस्यैवेन्द्रिय-द्वारार्थ-सन्निकर्ष एव तद्-भावानुविधानोपपत्तिः ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, it is only on the admission that consciousness proceeds by way of the senses and establishes contact with objects that the dependence of *prakāśā* on the presence of this contact could be rendered intelligible.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतश्चैतन्यस्यैवेन्द्रियद्वाराऽर्थसन्निकर्ष एव तद्भावानुविधानोपपत्तिः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यच् च, अर्थस्य प्रकाशकं हि ज्ञानं भवताम् ।
+</details>
+
+<details><summary>English</summary>
+
+Indeed, on your view, consciousness is the entity which manifests the object.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यच्च, अर्थस्य प्रकाशकं हि ज्ञानं भवताम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वं च प्रकाशकं प्रकाश्य-वस्तु-सन्निकृष्टम् एव प्रकाशकं दृष्टं दीप-प्रभादि ।
+</details>
+
+<details><summary>English</summary>
+
+All manifesting entities, such as, the light issuing from the lamp are found to manifest objects only by getting into contact with the objects to be illumined.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वं च प्रकाशकं प्रकाश्यवस्तुसन्निकृष्टमेव प्रकाशकं दृष्टं दीपप्रभादि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् तद् अपि तथेति युक्तम् आश्रयितुम् ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, it is right to admit that consciousness also is of such a nature (i.e. it manifests objects only by getting into contact with them.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्तद्अपि तथेति युक्तमाश्रयितुम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्योम-वद् अमूर्तस्य न क्रियावत्त्वम् इति चेत्, केयं मूर्तिर् नाम? यद्-विरहिणः क्रिया-योगः ।
+</details>
+
+<details><summary>English</summary>
+
+If it be objected that a formless object like ether cannot be endowed with activity (in other words, if it is said that consciousness, being formless, cannot enter on the activity of proceeding and getting into contact), (it may be asked) what exactly is meant by 'form' when it is said that the substance wherein it is absent is devoid of activity?
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्योमवदमूर्तस्य न क्रियावत्त्वमिति चेत्, केयं मूर्तिर्नाम ? यद्विरहिणः क्रियायोगः ।
+</details>
+
+<details><summary>विषयः</summary>
+
+Jnana is of limited nature.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि पारिभाषिकी द्रव्यत्वे सति क्वाचित्कतेति ।
+</details>
+
+<details><summary>English</summary>
+
+If the reply is that it is a technical term standing for that which, while being a substance occupies a limited area,
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि पारिभाषिकी द्रव्यत्वे सति क्वाचित्कतेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इष्यत एव सा चैतन्ये ।
+</details>
+
+<details><summary>English</summary>
+
+the attribution of such a form to consciousness is acceptable to us.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इष्यत एव सा चैतन्ये ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि तत् सर्व-गतं द्रव्यम्, तथा सति युगपत् सर्वार्थ-सिद्धि-प्रसङ्गात् ।
+</details>
+
+<details><summary>English</summary>
+
+In fact, consciousness is not an all-pervasive substance. If it were so (i. e. all-pervasive), there would be the manifestation of all things simultaneously.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि तत्सर्वगतं द्रव्यम्, तथासति युगपत्सर्वअर्थसिद्धिप्रसङ्गात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्वाचित्कत्वे तु तद् वि यद् एकदा एकेन्द्रियेण सम्प्रयुक्तं तद्-अर्थाभिमुखम्, न तद् इन्द्रियान्तरम् अधितिष्ठति ।
+</details>
+
+<details><summary>English</summary>
+
+But, on the view that it pervades a limited area, when it is in contact with one sense-organ and directed to the object falling within the range of that sense, it does not (at the same time) permeate another sense-organ.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्वाचित्कत्वे तु तद्वि यदैकदैकेन्द्रियेण सम्प्रयुक्तं तदर्थाभिमुखम्, न तदेन्द्रियान्तरमधितिष्ठति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव हि युगपज् ज्ञानानुत्पत्तिः ।
+</details>
+
+<details><summary>English</summary>
+
+That is why different kinds of sensory knowledge do not originate simultaneously.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव हि युगपज्ज्ञानानुत्पत्तिः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरतिशय-वेगं च तत्, युगपद् इवातिशीघ्रम् अनेकेन्द्रियाधिष्ठान-दर्शनात् ।
+</details>
+
+<details><summary>English</summary>
+
+[[P117]] Consciousness moves with exceeding quickness:[^117_186] for its rapid permeation of different senses (one after another) is perceived as if it were simultaneous.
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^117_186]: Compare the definition of jaana 'atyantavegitatyanata sauksmyam nirbaratātathā tathā. . . .'-given ni Prathamadhikarana of *Nyāyatattva* and quoted in the Nyāyasiddhāňjana, Buddhipariccheda. Vide *infra* p. 95 and note 150.
+</details>
+
+<details><summary>मूलम्</summary>
+
+निरतिशयवेगं च तत्, युगपदिवातिशीघ्रमनेकेन्द्रियाधिष्ठानदर्शनात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो यथोदितम् अमूर्तत्वम् असिद्धम् ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, it is to be concluded that the character of possessing a form, in the sense described above, belongs to consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो यथोदितममूर्तत्वमसिद्धम् ।
+</details>
+
+<details><summary>विषयः</summary>
+
+Fallacious to consider what is devoid of touch asūmtari?? (unlimited)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्पर्श-वत्ता मूर्तिः, तद्-वितरहान् निष्क्रियत्वम् इति चेत्; शब्देनानैकान्तः ।
+</details>
+
+<details><summary>English</summary>
+
+If it is urged that form *(murti*) is the quality of possessing touch, and that consciousness, being devoid of such a form, cannot possess any activity, (the reply is) this argument is liable to be charged with anekānta *doșa*, in view of the instance of sound *(sabda*).
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्पर्शवत्ता मूर्तिः, तद्वितरहान्निष्क्रियत्वमिति चेत्; शब्देनानैकान्तः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स खलु शङ्ख-मुखादेर् दवीयसो ऽपि देशात् नोदन-विशेषेण लोष्टादिर् इव यावद्-वेगं प्रतिष्ठते स्पर्श-विहीनो ऽपि ।
+</details>
+
+<details><summary>English</summary>
+
+For the sound emanating from the conch, the mouth and the like, though Devoid of touch, proceeds, like a missile, with extreme rapidity to places far distant from its source by piercing through space.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स खलु शङ्खमुखादेर्दवीयसोऽपि देशात्नोदनविशेषेण लोष्टादिर्इव यावद्वेगं प्रतिष्ठते स्पर्शविहीनोऽपि ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्पर्श-रहितस्यापि मनैन्द्रियस्य क्रियावत्त्वं पदार्थ-वाक्यार्थ-विदाम् उभयेषाम् अपि सम्मतम् एव ।
+</details>
+
+<details><summary>English</summary>
+
+The fact that manas, though devoid of touch, is endowed with activity is admitted both by the Naiyayikas who have understood the categories *(padarthas*) and by the Mimāmsakas who have inquired into the import of propositions.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्पर्शरहितस्यापि मनैन्द्रियस्य क्रियावत्त्वं पदार्थवाक्यार्थविदामुभयेषामपि सम्मतमेव ।
+</details>
+
+<details><summary>विषयः</summary>
+
+Objects, past and future, could come into contact with consciousness:-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कथम् अतीतानागतयोर् असतोश् चैतन्येन सम्प्रयोग इति चेत्, कथं वा विषय-भावः, प्रकाशमानत्वम्, सङ्ख्याादि-योगो वा तयोः? यस् तत्र निर्वाहः, स एवात्रास्तु ।
+</details>
+
+<details><summary>English</summary>
+
+How (it may be asked) can objects, past and future, which are non-existent, come into contact with consciousness? (We ask you in turn) how do they become the objects (*visaya*) of knowledge? The same explanations that you offer with regard to these[^117_187]-such as (their becoming the object of knowledge means just this :) their becoming manifested, or their possession of qualities like number-may apply here also.[^117_188]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^117_187]: Vedanta Dešika quotes these passages and discusses them in the *Nyāya-siddhānjana*. Rangarāmānujaswami also comments on them. They identify the first (i. e, the view that objects, past and future, become the object of jiana) as the view of the Naiyayikas, and the second (i. c. the view that these objects possess prākatya) as that of the Bhattas. See Buddhipariccheda, p. 266.
+[^117_188]: The illustration *(*drṣṭanta) of number may be elaborated thus:-When one says 'There were four mangoes, three of them have been lost,' the No 3 is associated with non-existent objects.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कथंअतीतानागतयोरसतोश्चैतन्येन सम्प्रयोग इति चेत्, कथं वा विषयभावः, प्रकाशमानत्वम्, सङ्ख्यादियोगो वा तयोः ? यस्तत्र निर्वाहः, स एवात्रास्तु ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि चातीततया अनागततया च ताव् अप्य् अद्यापि विद्येते इति तेन रूपेण बोध-सन्निकर्षे कानुपपत्तिः?
+</details>
+
+<details><summary>English</summary>
+
+[[P118]] Moreover, since such objects may even be said to exist at this very moment as 'things that have perished' and 'things that are yet to be,' what is the difficulty in stating that consciousness comes into contact with them in the light of their having such a type of existence.[^118_189]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^118_189]: The Bhatta Mimimsakas, according to whom vyakti and *jāti* are different and non-different (bhedabheda), maintain that objects, past and future, exist even now in the form of jāti and that they may well be said to possess prakatya. Similarly, it may be said that such objects have an existence of some sort. Once that is admitted, it is easy to show that consciousness may come into contact with them. See *Nyāyasiddhānjana*, Buddhipariccheda p. 267. Compare: 'atītānāgatam svarüparosti adhvabhedāt dharmāņām.' Yoga-*Sutra* IV. 12 and Vacaspati Mišra's commentary thereon and also the Vyasa Bhasya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि चातीततयानागततया च तावप्यद्यापि विद्येते इति तेन रूपेण बोधसन्निकर्षे कानुपपत्तिः ?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च, यथा दवीयसि देशे सता ध्रुव-शिंशुमारादिना दृक्तु सन्निकृष्यते, तथा दवीयसि काले सता कल्पाद्य्-अन्त-वर्तिना स्वयम्भुवादिनेति नालोकं किञ्चित् ।
+</details>
+
+<details><summary>English</summary>
+
+Just as the eye comes into contact with the Dhruva and Simsumàra[^118_190] mandalas existing in vastly remote regions even so, in regard to entities existing at vastly remote periods of time, consciousness comes into contact with qualities, such as Svayambhu existing at the beginning and end counter to kalpa (world epoch). Hence, there is nothing that could run to everyday experience.[^118_191]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^118_190]: The Hindu tradition has it that the Lord Nārāyaṇa, in the from of the celestial body, Simaŝumārā (also called Sišumāra), controls all the heavenly bodies. and that he acts as their support from his abode in the heart of Simsumāra and that many of the devas dwell in the several organs of Simsumāra, (e.g. Agni, Mahendra, Kaşyapa and Dhruva shine forth, without ever setting, from the tail region of Šišumāra), and that whoever sees this celestial body gets rid of his demerits *(pāpi)* See the *Visnu* Purāņa, Amŝa II, ch. 9 and 12 and the Bhāgavata purāņa V Skanda.
+[^118_191]: In all probability, the proper reading is nālikām rather than nolokām. On either reading, the meaning is substantially the same.
+</details>
+
+<details><summary>मूलम्</summary>
+
+किञ्च, यथा दवीयसि देशे सता ध्रुवशिंशुमारादिना दृक्तु सन्निकृष्यते, तथा दवीयसि काले सता कल्पाद्यन्तवर्तिना स्वयम्भुवादिनेति नालोकं किञ्चित् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.34 नातीतानागते बुद्धेर् दूरे भवितुम् अर्हतः ।  
+बुद्ध्या प्रकाशमानत्वाद् बुद्धि-बोद्धृ-स्वरूप-वत् ॥
+</details>
+
+<details><summary>English</summary>
+
+1.34 Further, for the reason that they are manifested by consciousness, things past and future, like knowledge and the knower, cannot be considered to be beyond the reach of knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.34 नातीतानागते बुद्धेर्दूरे भवितुमर्हतः ।  
+बुद्ध्या प्रकाशमानत्वाद्बुद्धिबोद्धृस्वरूपवत् ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+The non-apprehension of intervening space explained.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं च चैतन्यस्य निरतिशय-वेगितयान्तराल-देश-कालाग्रहणाभिमानो ऽलात-चक्र-गत-क्रम-वद्-देश-भेद-संयोग-विभागाग्रहणाभिमान-वत् ।
+</details>
+
+<details><summary>English</summary>
+
+[[P119]] Moreover, (against the possible objection that if consciousness can get into contact with objects far removed from us by vast stretches of space and time, it must be in contact with those of intervening space and time, it may be replied that) as consciousness moves with extreme rapidity, the false impression arises that there is no awareness of (objects existing in) the intervening space and time; just as the false belief arises, namely, that there is no apprehension of the contact (of the point of light) with different points in space or its separation therefrom -a contact and separation which proceeds in a definite sequence and which resides in the circle traced by the fire-brand (*alatacakra)*.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं च चैतन्यस्य निरतिशयवेगितयान्तरालदेशकालग्रहणाभिमानोऽलातचक्रगतक्रमवद्देशभेदसंयोगविभागअग्रहणाभिमानवत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च इन्द्रिय-लिङ्ग-संस्कारादेर् यद्-अर्थ-प्रतिनियतं रूपम्, तेनैवोपश्लिष्य निस्सरच् चैतन्यम् अपि तद्-गोचरेणैव सन्निकृष्टते; यथा गवादि-पद-शक्तिर् एक-बुद्धि-सिद्धे ऽपि सामान्य-विशेषात्मके वस्तुनि सामान्यांशेनैव सम्बध्यते, यथा वा विधिः प्राप्तांश-परिहारेणाप्राप्तांशम् एव भावनायाः स्पृशति ।
+</details>
+
+<details><summary>English</summary>
+
+Besides, consciousness, proceeding outward having come into association with that form of the different senses, reasons *(hetu*) and impressions (samskāras) which is invariably related to their respective objects, gets into contact with those objects only which are respectively related to these (i.e., the senses, etc.); just as the significatory potency of words, such as the cow is related only to the universal aspect (of things), even though on hearing a word, like the cow, an object constituted of universal and particular features presents itself in a single cognition or just as the vedic injunction deals only with that aspect of the *bhavana* which is unknown, having neglected the part already known.[^119_191a]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^119_191a]: For example, the injunction, 'dadhna juhoti', aims at specifying the kind of oblation to be offered at the Agnihotra, rather than at emphasising the need for performing that homa, the necessity for the latter having been already learnt from the other vidhi, 'agnihotram juhoti'.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि चेन्द्रियलिङ्गसंस्कारादेर्यदअर्थप्रतिनियतं रूपम्, तैनैवोपश्लिष्य निस्सरच्चैतन्यमपि तद्गोचरेणैव सन्निकृष्टते ; यथा गवादिपदशक्तिरेकबुद्धिसिद्धेऽपि सामान्यविशेषात्मके वस्तुनि सामान्यांशेनैव सम्बध्यते, यथा वा विधिः प्राप्तांशपरिहारेणाप्राप्तांशमेव भावनायाः स्पृशति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत इन्द्रियादि-द्वारेण चैतन्यं तद्-अर्थाभिमुखं निर्गच्छतीति न्याय्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, here it is legitimate to maintain that consciousness, proceeds through the senses towards their respective objects.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत इन्द्रियादिद्वारेण चैतन्यं तदअर्थाभिमुखं निर्गच्छतीति न्याय्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा ऽह भगवान् " तद् अस्य हरति प्रज्ञां वायुर् नावम् इवाम्भसि " इति ।
+</details>
+
+<details><summary>English</summary>
+
+To this effect the Adorable Kṛṣṇa says, "It (the manas) forcibly drags consciousnesss along, even as the wind drives the boat on water."[^119_192]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^119_192]: *Bh*. *Gitā*, II 67.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथाऽह भगवान्" तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि " इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनुश् च, " इन्द्रियाणां हि सर्वेषां यद् एकं क्षरतीन्द्रियम् । तेनास्य क्षरति प्रज्ञा दृतेः पादाद् इवोदकम् ॥ " इति ।
+</details>
+
+<details><summary>English</summary>
+
+And Manu says, "From among the several senses even if one sense organ were to proceed outward, thereupon the person's knowledge also would move outward, even as water would flow from the hole found in the leather bag."[^119_193]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^119_193]: Manusmṛ II 99.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनुश्च, " इन्द्रियाणां हि सर्वेषां यद्येकं क्षरतीन्द्रियम् । तेनास्य क्षरति प्रज्ञा दृतेः पादादिवोदकम् ॥ " इति ।
+</details>
+
+<details><summary>विषयः</summary>
+
+The objection that consciousness as a quality cannot leave its substrate and proceed elsewhere answered
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु गुणश् च चैतन्यं गुणिनम् अपहाय कथम् अन्यतो यातीति; तद् अयुक्तम्, प्रहाणानभ्युपगमात् ।
+</details>
+
+<summary>English</summary>
+
+[[P120]] The objection raised-namely, how can consciousness, which is a quality, proceed elsewhere, leaving its substrate?-is hardly reasonable; for it has not been maintained that it leaves its substrate.
+</summary>
+
+<details><summary>मूलम्</summary>
+
+यत्तु गुणश्चैतन्यं गुणिनमपहाय कथमन्यतो यातीति ; तदयुक्तम्, प्रहाणानभ्युपगमात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्रहायैवात्मानम् इतस् ततश् चेतना इन्द्रियादि-द्वारान् निश्चरति ।
+</details>
+
+<details><summary>English</summary>
+
+Consciousness proceeds hither and thither by way of the senses without ever leaving the self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्रहायैवात्मानमितस्ततश्चेतना इन्द्रियादिद्वारान्निश्चरति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विच्छिन्नायाश् च तस्याः सन्धानासम्भवः शास्त्र एवोक्तः ।
+</details>
+
+<details><summary>English</summary>
+
+That its reunion (with the self) would become impossible were it to lose contact there with has been set forth in the (Nyāyatattva) Sāstra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विच्छिन्नायाश्च तस्याः सन्धानासम्भवः शास्र एवोक्तः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दृश्यन्ते च गुणा अपि शब्द-गन्ध-सूर्यालोक-रत्न-प्रभादयो गति-मन्तो धर्म्य्-अतिवर्तिनश् च ।
+</details>
+
+<details><summary>English</summary>
+
+(It could even be shown that qualities may leave their substrate and proceed elsewhere; for) qualities, such as, sound, odour, the rays of the sun and the lustre of the gem are found to be endowed with movement and to leave their substrate.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दृश्यन्ते च गुणा अपि शब्दगन्धसूर्यालोकरत्नप्रभादयो गतिमन्तो धर्म्यतिवर्तिनश्च ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतिसूक्ष्मो दूर-गमन-धर्मा भौतिको हि शब्दः ।
+</details>
+
+<details><summary>English</summary>
+
+Indeed, sound (*sabda*) is exceedingly subtle and elemental, and has the quality of proceeding long distances.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतिसूक्ष्मो दूरगमनधर्मा भौतिको हि शब्दः ।
+</details>
+
+## शब्दः
+<details><summary>विषयः</summary>
+
+The Prabhakara view of sabda refuted-
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ननु नभ इव विभुः शब्दो व्यञ्जक-ध्वनि-वशेन प्रादेशिक इव गत्वर इव च उपलभ्यते ।
+</details>
+
+<details><summary>English</summary>
+
+A possible objection is the following - sabda (sound) is all-pervasive, like ether; but, with the aid of dhvani (vibration) which helps to reveal it, it appears as if it dwells in a particular place, and as if it moves about.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु नभ इव विभुः शब्दो व्यञ्जकध्वनिवशेन प्रादेशिक इव गत्वर इव चोपलभ्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि — शब्दस् सर्व-व्यापी एक-द्रव्य-वर्तित्वे सत्य् आकाश-गुणत्वात् तत्-परिमाण-वत् ।
+</details>
+
+<details><summary>English</summary>
+
+And it may be put in syllogistic form thus-sabda is all-pervasive; for, like the magnitude of ether, sound, while residing in one substance, is the quality of ether.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथाहिशब्दः सर्वव्यापी एकद्रव्यवर्तित्वे सत्याकाशगुणत्वात्तपरिमाणवत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मैवम्, अतद्-गुणत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+(We reply) 'not so'; because sabda is not a quality of ether.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मैवम्, अतद्गुणत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वायवीयः शब्दः, तेन नियत-सहोत्पत्तिकत्वात्, तदीय-स्पर्श-वत् ।
+</details>
+
+<details><summary>English</summary>
+
+It really belongs to the air in motion (*vāyu);* for, like touch (sparśa) which pertains to the air in motion (*vāyu)*, sabda invariably originates along with vayu.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वायवीयः शब्दः, तेन नियतसहोत्पत्तिकत्वात्, तदीयस्पर्शवत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यश् च येन द्रव्येण नियत-सहोत्पत्तिर् गुणः स तद्-गुण एव, यथा तथाविधा रूपादयः ।
+</details>
+
+<details><summary>English</summary>
+
+Any quality which invariably originates along with a given substance must necessarily be considered to be a quality of that substance alone; even as colour and the like, which invariably originate along with a substance are treated as its qualities.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यश्च येन द्रव्येण नियतसहोत्पत्तिर्गुणः स तद्गुण एव, यथा तथाविधा रूपादयः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नियत-सहोत्पत्तिश् च वायुना शब्दः ।
+</details>
+
+<details><summary>English</summary>
+
+And sound invariably originates along with vayu,
+</details>
+
+<details><summary>मूलम्</summary>
+
+नियतसहोत्पत्तिश्च वायुना शब्दः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उभयोरपि भेरी-दण्ड-वंश-दलनादि-संयोग-विभाग-जत्व-नियमात् ।
+</details>
+
+<details><summary>English</summary>
+
+in as much as both invariably originate together from the contact of the drumstick with the drum or from the separation of the parts of the bamboo caused by its splitting.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उभयोरपि भेरीदण्डवंशदलनादिसंयोगविभागजत्वनियमात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्पद्यते च शब्दः इन्द्रिय-ग्राह्यत्वे सति गुणत्वात् गन्धादि-वत् ।
+</details>
+
+<details><summary>English</summary>
+
+Besides, sabda does originate; for, like smell, it is grasped by the senses and is also a quality.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्पद्यते च शब्दः इन्द्रियग्राह्यत्वे सति गुणत्वात्गन्धादिवत् ।
+</details>
+
+<details><summary>विषयः</summary>
+
+The Prabhakara view that object is manifested without the relation of consciousness
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृतकश् च, क्रियोत्तरम् एवोपलभ्यत्वात् संयोगादि-वत् ।
+</details>
+
+<summary>English</summary>
+
+[[P121]] Moreover, it is created by human activity: for, like conjunction and so on, it is apprehended only after such activity has taken place.
+</summary>
+
+<details><summary>मूलम्</summary>
+
+कृतकश्च, क्रियोत्तरमेवोपलभ्यत्वात्संयोगादिवत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चाभिव्यञ्जकत्वं प्रयत्नादेः कल्प्यम्, गौरवात् ।
+</details>
+
+<details><summary>English</summary>
+
+Nor can it be fancied that human effort and the like are merely aids to the manifestation of sound; for that would go against the principle of economy (of thought).
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चाभिव्यञ्जकत्वं प्रयत्नादेः कल्प्यम्, गौरवात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-प्रतीति-कारणत्व-कल्पनादपि तत्-कारणत्व-कल्पनैव हि लघ्वी ।
+</details>
+
+<details><summary>English</summary>
+
+Indeed, rather than assuming that they are the cause of the manifestation of sound, to postulate that they are the causes of sound itself is to have the advantage of economy (of thought).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्प्रतीतिकारणत्वकल्पनादपि तत्कारणत्वकल्पनैव हि लघ्वी ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अभिव्यञ्जकाश् च एक-देशावस्थितानेकेन्द्रिय-ग्राह्याणि युगपद् अभिव्यञ्जन्ति, यथा प्रदीपो रूप-सङ्ख्या-परिमाणानि करकादींश् च एक-प्रदेश-वर्तिनः ।
+</details>
+
+<details><summary>English</summary>
+
+Whatever serves as a manifester reveals simultaneously everything which resides in one place and is graspable by a single sense organ; for example, the lamp manifests everything existing at an identical place, namely, the number, size, etc., and vessels, like the water-pot.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अभिव्यञ्जकाश्च एकदेशावस्थितानेकेन्द्रियग्राह्यान्युगपदभिव्यञ्जन्ति, यथा प्रदीपो रूपसङ्ख्यापरिमाणानि करकादींश्चएकप्रदेशवर्तिनः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चैवं ताल्वादि-संयोग-विभाग-जनित-पवन इति नासौ व्यञ्जकः ।
+</details>
+
+<details><summary>English</summary>
+
+In as much as the air in motion produced by the conjunction and disjunction of the plate and the like is not of such a nature, it cannot be a factor for manifesting sound.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चैवं ताल्वादिसंयोगविभागजनितपवन इति नासौ व्यञ्जकः ।
+</details>
