@@ -3409,6 +3409,7 @@ forms an essential feature of the soul.
 
 
 ## प्रमातृत्वात्
+### नित्य-प्रकाशः
 <details><summary>विषयः</summary>
 
 The possession of illumination as an innate property is attributed to the soul, because it is a knower.
@@ -3462,4 +3463,44 @@ The possession of non-eternal illumination, which is invariably concomitant with
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 **अप्रमातृत्वे**ति । अप्रमातृत्वरूपं यद्व्यापकं, तद्व्याप्यमित्यर्थः ।
+</details>
+
+### स्वतस्-सिद्ध-प्रकाशः
+
+<details><summary>विषयः</summary>
+
+The Soul being the substrate of jnana, is svayamprakāśa-
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.28 स्वतः-सिद्ध-प्रकाशत्वम्  
+अप्य् अस्य ज्ञातृ-भावतः ।  
+अ-ज्ञातृत्वेन हि व्याप्ता  
+परायत्त-प्रकाशता ॥
+</details>
+
+<details><summary>English</summary>
+
+The possession of illumination as an innate property is attributed to the soul,  
+because it is a knower.  
+The possession of an illumination which is dependent upon something other than itself  
+is invariably associated with the quality of being other than a knower.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.28 स्वतःसिद्धप्रकाशत्वमप्यस्य ज्ञातृभावतः ।  
+अज्ञातृत्वेन हि याप्ता परायत्तप्रकाशता ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इत्य् आत्मनो ज्ञान-स्वभावस्य नित्य-स्वप्रकाशत्व-समर्थनम्)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+(इत्यात्मनो ज्ञानस्वभावस्य नित्यस्वप्रकाशत्वसमर्थनम्)
 </details>
