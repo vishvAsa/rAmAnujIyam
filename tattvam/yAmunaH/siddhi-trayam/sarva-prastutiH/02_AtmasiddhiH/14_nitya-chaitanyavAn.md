@@ -1114,8 +1114,8 @@ It cannot be said that the soul becomes a soul by virtue of its capacity to know
 > ननु ज्ञानाभावे ऽपि ज्ञान-शक्तिमद् आत्म-स्वरूपम् मुक्ति-काले 
 
 इत्य् अत्राह चितिशक्त्येति ।  
-लुप्तम् उत्तर-अर्धम् अस्य । तत्-स्थाने ऽस्मदीयम् पूरणम् ( ) एतत्-चिह्नान्तर् निवेशितम् ।+++(5)+++  
-नित्यस्य स्वरूप-योग्यत्वे फल-अवश्यम्भाव-नियमाद् ज्ञान-शक्तिमत्त्वे मुक्तस्य कदाचिद् ज्ञानम् उदियात् । मुक्तौ कदापि ज्ञानस्यानुदयात् तच्छक्तिर् अपि तदा नष्टैवेति आत्म-नाश एव प्रतिज्ञातो भवेत् । स्वरूप-निरूपक-धर्म-निवृत्तौ स्वरूप-निवृत्तेर् अवश्यम्भावाद् इत्य् अर्थः । ननु ज्ञानस्य ज्ञान-शक्तेर् वा नात्मस्वरूपनिरूपकत्वम् । किन्तु आगन्तुकम् अपि तदात्मन एवेष्यते धर्म-भूतम् न घटादेर् इति आत्मात्म-व्यवस्थोपपद्यत इति चेत्; मैवम् ज्ञानस्यात्मस्वरूपनिरूपकधर्मतायाः स्थापयिष्यमाणत्वात्, जडात्मवादस्य त्रय्यन्त-विरुद्धत्वेन सद्भिर् अनादरणीयत्वाच् चेति हार्दम् ॥२४ ॥२५ ॥२६ ॥
+लुप्तम् उत्तरार्धम् अस्य । तत्-स्थाने ऽस्मदीयम् पूरणम् ( ) एतत्-चिह्नान्तर् निवेशितम् ।+++(5)+++  
+नित्यस्य स्वरूप-योग्यत्वे फलावश्यम्भाव-नियमाद् ज्ञान-शक्तिमत्त्वे मुक्तस्य कदाचिद् ज्ञानम् उदियात् । मुक्तौ कदापि ज्ञानस्यानुदयात् तच्छक्तिर् अपि तदा नष्टैवेति आत्म-नाश एव प्रतिज्ञातो भवेत् । स्वरूप-निरूपक-धर्म-निवृत्तौ स्वरूप-निवृत्तेर् अवश्यम्भावाद् इत्य् अर्थः । ननु ज्ञानस्य ज्ञान-शक्तेर् वा नात्मस्वरूपनिरूपकत्वम् । किन्तु आगन्तुकम् अपि तदात्मन एवेष्यते धर्म-भूतम् न घटादेर् इति आत्मात्म-व्यवस्थोपपद्यत इति चेत्; मैवम् ज्ञानस्यात्मस्वरूपनिरूपकधर्मतायाः स्थापयिष्यमाणत्वात्, जडात्मवादस्य त्रय्यन्त-विरुद्धत्वेन सद्भिर् अनादरणीयत्वाच् चेति हार्दम् ॥२४ ॥२५ ॥२६ ॥
 </details>
 
 
@@ -1263,7 +1263,7 @@ It is not right to maintain that consciousness itself is the self; because the n
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ननु नित्यत्वे ज्ञानस्याऽत्मत्वम् अपि इष्यताम् तस्यैवेति शङ्काम् अनूद्य परिहरति न चैवं सतीति । परम् वरम् । तस्येति । विषय-आश्रय-सापेक्षस्य ज्ञानस्य तद्-अनपेक्ष-स्वतन्त्र-आत्म-स्वरूपत्वम् अयुक्तम् इत्य् अर्थः । किञ्च, कल्पनायाम् एव लाघव-गौरव-चर्चा-अवसरः । 
+ननु नित्यत्वे ज्ञानस्याऽत्मत्वम् अपि इष्यताम् तस्यैवेति शङ्काम् अनूद्य परिहरति न चैवं सतीति । परम् वरम् । तस्येति । विषयाश्रय-सापेक्षस्य ज्ञानस्य तद्-अनपेक्ष-स्वतन्त्रात्म-स्वरूपत्वम् अयुक्तम् इत्य् अर्थः । किञ्च, कल्पनायाम् एव लाघव-गौरव-चर्चावसरः । 
 </details>
 
 
@@ -1287,7 +1287,7 @@ and because on the strength of every-day experience, reasoning (tarka) and scrip
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-न तु स्फुट-प्रतिपन्ने बोद्ध्रात्मनीत्य् आह साक्षाच्चेति । अहम् जानामीति ज्ञात्र्-आत्म-प्रत्यक्षस्य भ्रमत्वम् इति चेत् तत्राह अनुभवेति । अनन्तरम् एव अव्यवहित-पूर्वम् एव । ज्ञातुर् आत्मत्व-समर्थने इति यावत् । सत्-प्रमाण-तर्क-अनुग्रहात् ज्ञात्र्-आत्म-प्रत्यक्षस्य अभ्रान्तित्वम् एव सम्मन्तव्यम् इति भावः ।
+न तु स्फुट-प्रतिपन्ने बोद्ध्रात्मनीत्य् आह साक्षाच्चेति । अहम् जानामीति ज्ञात्र्-आत्म-प्रत्यक्षस्य भ्रमत्वम् इति चेत् तत्राह अनुभवेति । अनन्तरम् एव अव्यवहित-पूर्वम् एव । ज्ञातुर् आत्मत्व-समर्थने इति यावत् । सत्-प्रमाण-तर्कानुग्रहात् ज्ञात्र्-आत्म-प्रत्यक्षस्य अभ्रान्तित्वम् एव सम्मन्तव्यम् इति भावः ।
 </details>
 
 ### विषय-संस्कर्ग-मात्रेण न बोद्धृत्वम्
@@ -1321,7 +1321,7 @@ Even on the doctrine that consciousness itself becomes the soul, owing to the ex
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ननु चैतन्यम् एव आत्मा । विषय-सम्बन्ध एव तस्य बोधो नाम । अतो बोद्धृत्व-प्रतिपत्तिर् आत्मन उपपद्यत इति शङ्कते न च चितिमात्रेति । विषय-चैतन्य-सम्बन्धस्य बोधत्व-अभिमतस्य संयोग-रूपत्वे तस्य द्विष्ठत्वाद् विषयस्यापि बोद्धृत्व-प्रसङ्ग इत्याह सम्बन्धस्येति ।
+ननु चैतन्यम् एव आत्मा । विषय-सम्बन्ध एव तस्य बोधो नाम । अतो बोद्धृत्व-प्रतिपत्तिर् आत्मन उपपद्यत इति शङ्कते न च चितिमात्रेति । विषय-चैतन्य-सम्बन्धस्य बोधत्वाभिमतस्य संयोग-रूपत्वे तस्य द्विष्ठत्वाद् विषयस्यापि बोद्धृत्व-प्रसङ्ग इत्याह सम्बन्धस्येति ।
 </details>
 
 #### न कार्य-कारण-भाववत्
@@ -1344,7 +1344,7 @@ It is not right to suggest that, though the relation is found in both the relata
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-शङ्कते न च कार्येति । यथा कार्य-कारण-भावस्य हेतु-हेतुमद्-उभय-निरूप्यत्वे ऽपि हेतु-हेतुमतोर् व्यवस्था इदम् अस्य कारणम्, इदम् त्व् अस्य कार्यम् इति, एवम् चिद्-विषय-सम्बन्धस्य विषय-विषयि-निरूप्यत्वे ऽपि बोद्धृ-बोध्य-व्यवस्था घटत इति शङ्कितुर् आशयः । परिहरति तत्रेति । यद्यपि कार्यस्य कारणस्य च सम्बन्धः कार्य-कारण-भावः कथ्यते । परम् तु कार्यत्वम् कारण-निरूपितम् कार्य-निष्ठम् स्व-पूर्ववर्ति-कारण-अपेक्षत्व-लक्षणम् स्व-प्राक्-काल-अवच्छेदेन कार्य-व्यापक-कारणकत्व-पर्यवसायि, कारणत्वम् च कार्य-निरूपितम् कारण-निष्ठम् स्व-उत्तरभावि-कार्य-अपेक्षत्व-लक्षणम् कार्य-नियत-प्राक्-काल-वर्तित्व-पर्यवसायि भिन्न-भिन्नम् एव तत्र प्रविष्टम् । अत्र तु एक एव उभय-समवेतः संयोग इति व्यवस्था दुर्घटेत्य् अर्थः । यद्यपि संयोगस्य उभय-निष्ठत्वे ऽपि अनुयोगिता-सम्बन्धेन तस्य चिन्-निष्ठत्वाच् चित एव बोद्धृत्वम्, तत्-प्रतियोगिनस् तु विषयस्य बोध्यत्वम् इति व्यवस्था घटेत, अथापि न चिन्-मात्रत्वम् आत्मनः, किन्तु चित्याश्रयत्वम् अपि श्रौतत्वादुपेयम् एवेति ध्येयम् ।
+शङ्कते न च कार्येति । यथा कार्य-कारण-भावस्य हेतु-हेतुमद्-उभय-निरूप्यत्वे ऽपि हेतु-हेतुमतोर् व्यवस्था इदम् अस्य कारणम्, इदम् त्व् अस्य कार्यम् इति, एवम् चिद्-विषय-सम्बन्धस्य विषय-विषयि-निरूप्यत्वे ऽपि बोद्धृ-बोध्य-व्यवस्था घटत इति शङ्कितुर् आशयः । परिहरति तत्रेति । यद्यपि कार्यस्य कारणस्य च सम्बन्धः कार्य-कारण-भावः कथ्यते । परम् तु कार्यत्वम् कारण-निरूपितम् कार्य-निष्ठम् स्व-पूर्ववर्ति-कारणापेक्षत्व-लक्षणम् स्व-प्राक्-कालावच्छेदेन कार्य-व्यापक-कारणकत्व-पर्यवसायि, कारणत्वम् च कार्य-निरूपितम् कारण-निष्ठम् स्वोत्तरभावि-कार्यापेक्षत्व-लक्षणम् कार्य-नियत-प्राक्-काल-वर्तित्व-पर्यवसायि भिन्न-भिन्नम् एव तत्र प्रविष्टम् । अत्र तु एक एव उभय-समवेतः संयोग इति व्यवस्था दुर्घटेत्य् अर्थः । यद्यपि संयोगस्य उभय-निष्ठत्वे ऽपि अनुयोगिता-सम्बन्धेन तस्य चिन्-निष्ठत्वाच् चित एव बोद्धृत्वम्, तत्-प्रतियोगिनस् तु विषयस्य बोध्यत्वम् इति व्यवस्था घटेत, अथापि न चिन्-मात्रत्वम् आत्मनः, किन्तु चित्याश्रयत्वम् अपि श्रौतत्वादुपेयम् एवेति ध्येयम् ।
 </details>
 
 <details><summary>विषयः</summary>
@@ -1372,7 +1372,7 @@ In respect of the self the analogy of the relation of cause and effect does not 
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-चिच्-चेत्ययोर् अपि परस्पर-अपेक्षा-नियम-लक्षणा एव सम्बन्धो ऽस्त्व् इति शङ्कते इहापीति । परिहरति नापेक्षेति । अपेक्षाया हेतुः प्रयोजन-रूपो ऽर्थो नास्तीत्य् अर्थः ।
+चिच्-चेत्ययोर् अपि परस्परापेक्षा-नियम-लक्षणा एव सम्बन्धो ऽस्त्व् इति शङ्कते इहापीति । परिहरति नापेक्षेति । अपेक्षाया हेतुः प्रयोजन-रूपो ऽर्थो नास्तीत्य् अर्थः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1485,8 +1485,8 @@ To maintain that the soul which is eternal depends upon objects for its originat
 
 एवम् अर्थस्योत्पत्तौ  
 चिद्-अपेक्षाम् प्रतिक्षिप्य  
-चित उत्पत्तौ अर्थ-अपेक्षाम् प्रतिक्षिपति नित्यस्येति ।  
-नित्य-चैतन्यस्य अर्थ-अपेक्षा-उत्पत्ति-वचनम् व्याहततरम् इति भावः ।
+चित उत्पत्तौ अर्थापेक्षाम् प्रतिक्षिपति नित्यस्येति ।  
+नित्य-चैतन्यस्य अर्थापेक्षोत्पत्ति-वचनम् व्याहततरम् इति भावः ।
 </details>
 
 ##### न प्रकाशायापेक्षा
@@ -1509,7 +1509,7 @@ If you were to say that *siddhi* denotes manifestation, (we ask) Well sir! do yo
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-तत्-प्रकाशस्य अर्थ-अपेक्षाम् निरस्यति किम् इति ।
+तत्-प्रकाशस्य अर्थापेक्षाम् निरस्यति किम् इति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1654,7 +1654,7 @@ The contention that since dharmabhuta jnana is dependent on occasional factors i
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-नन्व् एवम् आत्मनो बोध-स्वरूपत्ववद् बोध-स्वभावत्वम् अपि न सम्भवति अनित्यस्य बोधस्य नित्य-आत्म-स्वभावत्वायोगात् । अर्थि-प्रकाश-कादाचित्कत्वाय बोध-कादाचित्कताया एव मन्तव्यत्वादिति शङ्कते नन्वेवम् इति ।
+नन्व् एवम् आत्मनो बोध-स्वरूपत्ववद् बोध-स्वभावत्वम् अपि न सम्भवति अनित्यस्य बोधस्य नित्यात्म-स्वभावत्वायोगात् । अर्थि-प्रकाश-कादाचित्कत्वाय बोध-कादाचित्कताया एव मन्तव्यत्वादिति शङ्कते नन्वेवम् इति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1708,7 +1708,7 @@ Hence, it is but right to infer that the manifestation of objects which resemble
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-उदाहरणम् उक्त्वोपनय-निगमने प्रदर्शयति तादृशीति । प्रतिज्ञा-हेतू अर्थ-सिद्धौ । अवयव-त्रय-प्रयोगो वा यथेच्छम् । ज्ञेय-निष्ठश् च प्रकाशस् तत्तत्-पुरुष-असाधारणः तत्तत्-पुरुषीयागन्तुक-ज्ञान-क्रिया-जन्यः सिषाधयिषितो ऽत्र ।
+उदाहरणम् उक्त्वोपनय-निगमने प्रदर्शयति तादृशीति । प्रतिज्ञा-हेतू अर्थ-सिद्धौ । अवयव-त्रय-प्रयोगो वा यथेच्छम् । ज्ञेय-निष्ठश् च प्रकाशस् तत्तत्-पुरुषासाधारणः तत्तत्-पुरुषीयागन्तुक-ज्ञान-क्रिया-जन्यः सिषाधयिषितो ऽत्र ।
 </details>
 
 ### स्वत्वेनानैकान्त्यम्
@@ -1746,7 +1746,7 @@ and in view of the fact that the ownership of paddy and other grains grown in th
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-व्याप्तिम् एव दूषयति मैवम् इत्यादिना । अक्रियेति । कुल-परम्परया प्राप्ते क्षेत्रादौ जन्मत एव स्वत्वम् यस्य भागिनो ऽन्यस्याभावात्, भावे वा दायतः; तत्र तद्-असाधारणे अर्थान्तर-क्षेत्रादि-स्वत्वे तन्-निष्ठ-क्रिया-जन्यत्वम् नास्तीति व्यभिचार इत्य् अर्थः । अभाव-प्राप्तेत्य् अत्र भाव-प्राप्तेति स्वभाव-प्राप्तेति वा अन्यथा वा पाठः सम्भाव्यते । अन्य-क्रियया दैवेन वा स्व-क्षेत्रे पतितानाम् बीजानाम् प्ररूढानाम् स्वत्वे स्व-असाधारणे स्वीयागन्तुक-क्रिया-जन्यत्वम् नास्तीति व्यभिचारम् अपि प्रदर्शयति क्षेत्रिणम् इति ।
+व्याप्तिम् एव दूषयति मैवम् इत्यादिना । अक्रियेति । कुल-परम्परया प्राप्ते क्षेत्रादौ जन्मत एव स्वत्वम् यस्य भागिनो ऽन्यस्याभावात्, भावे वा दायतः; तत्र तद्-असाधारणे अर्थान्तर-क्षेत्रादि-स्वत्वे तन्-निष्ठ-क्रिया-जन्यत्वम् नास्तीति व्यभिचार इत्य् अर्थः । अभाव-प्राप्तेत्य् अत्र भाव-प्राप्तेति स्वभाव-प्राप्तेति वा अन्यथा वा पाठः सम्भाव्यते । अन्य-क्रियया दैवेन वा स्व-क्षेत्रे पतितानाम् बीजानाम् प्ररूढानाम् स्वत्वे स्वासाधारणे स्वीयागन्तुक-क्रिया-जन्यत्वम् नास्तीति व्यभिचारम् अपि प्रदर्शयति क्षेत्रिणम् इति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2695,7 +2695,7 @@ But here no origination or obstruction of consciousness of the self can ever exi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निमित्त-आन्तराभावश् च अनन्तरम् एव व्याकरिष्यते? ।
+निमित्तान्तराभावश् च अनन्तरम् एव व्याकरिष्यते? ।
 </details>
 
 <details><summary>English</summary>
@@ -3052,7 +3052,7 @@ Indeed, such cognitions take the following form:- 'On account of the fact that m
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**न वृत्त्यन्तरत्वम्** इति । न तमोगुण-विषयक-बुद्धिवृत्ति-रूपत्वम् निद्राया उपगन्तव्यम् । स्वाप-अनुमानाद् एव निरुक्त-प्रतीतेर् निर्वाहाद् इत्य् अर्थः ।
+**न वृत्त्यन्तरत्वम्** इति । न तमोगुण-विषयक-बुद्धिवृत्ति-रूपत्वम् निद्राया उपगन्तव्यम् । स्वापानुमानाद् एव निरुक्त-प्रतीतेर् निर्वाहाद् इत्य् अर्थः ।
 </details>
 
 
@@ -3110,10 +3110,10 @@ The conclusion that nidra is no vrtti will not contradict the yoga-sutra:-
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-उत्तरयति **निरोधे**ति । भाव-आलम्बन-वृत्ति-सामान्य-अभावो निद्रेति तात्पर्यम् । अस्यास् च वृत्तिवन् निरोद्धव्यत्व-सामान्याद् वृत्तित्व-उपचार इति भावः ।  
+उत्तरयति **निरोधे**ति । भावालम्बन-वृत्ति-सामान्याभावो निद्रेति तात्पर्यम् । अस्यास् च वृत्तिवन् निरोद्धव्यत्व-सामान्याद् वृत्तित्वोपचार इति भावः ।  
 
 अत्र निदर्शनम् **विपर्ययव**दिति । अन्यथा-ख्यातेर् अभावेन  
-भेदाग्रहस्यैव भ्रम-स्थल-अभिषिक्तस्य विपर्यय-शब्दितस्य निरोद्धव्यत्व-तात्पर्येण वृत्तित्ववन्  
+भेदाग्रहस्यैव भ्रम-स्थलाभिषिक्तस्य विपर्यय-शब्दितस्य निरोद्धव्यत्व-तात्पर्येण वृत्तित्ववन्  
 निद्राया अपि वृत्तित्वम् कीर्त्यत इति भावः ।
 </details>
 
@@ -3162,7 +3162,7 @@ And this fact has clearly been proved in the *adhikaraṇa*:[F108_177]
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-**स चे**ति । सर्व-संविदाम् अर्थ-अव्यभिचारः यथार्थ-ख्यातित्व-लक्षणो न्यायतत्त्व-सास्त्रीय-अधिकरण-सिद्ध इत्य् अर्थः ।
+**स चे**ति । सर्व-संविदाम् अर्थाव्यभिचारः यथार्थ-ख्यातित्व-लक्षणो न्यायतत्त्व-सास्त्रीयाधिकरण-सिद्ध इत्य् अर्थः ।
 </details>
 
 
@@ -3200,7 +3200,7 @@ As sleep *(nidrā)* is a hindrance to the soul *(cit)* which is to attain releas
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-निरोद्धव्यत्वम् चैषाम् कैवल्य-साधन-परिपन्थितयेत्य् आह **कैवल्ये**ति । कैवल्य-भागि यच् चित् मोक्ष-अधिकृतम् आत्म-स्वरूपम्, तत्-प्रत्यनीकतया तद्-अभिमत-साधन-सिद्धि-विघातकतयैतेषाम् निरोध्यत्वम् इत्य् अर्थः ।
+निरोद्धव्यत्वम् चैषाम् कैवल्य-साधन-परिपन्थितयेत्य् आह **कैवल्ये**ति । कैवल्य-भागि यच् चित् मोक्षाधिकृतम् आत्म-स्वरूपम्, तत्-प्रत्यनीकतया तद्-अभिमत-साधन-सिद्धि-विघातकतयैतेषाम् निरोध्यत्वम् इत्य् अर्थः ।
 </details>
 
 
@@ -3247,7 +3247,7 @@ Let it be granted that sleep (*nidrā*) is a vṛtti having for its object the m
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-सुखमहमस्वाप्समिति प्रतीतेः प्रतिसन्धान-रूपत्वम् उपगम्य अप्य् आह **अस्तु वे**ति । ज्ञानवत्त्वेनैव उपलभ्यमानत्वाद् आत्मनः बोध-स्वभावत्वम् उक्तम् । निरुक्त-रीत्या स्वापे ऽपि बोध-अनुवृत्ति-प्रतिपादनाच् च तद् एव प्रतिष्ठापितम् भविष्यतीति नास्माकम् काचित् क्षतिः । यत्तु हृदयम् वृत्त्यैव आत्मनः प्रकाशो न स्वरूपत इति, तत्त्व-आशामोदकायितम् इति च पूर्व-उत्तराभ्याम् सुनिरूपितम् भविष्यतीति भावः । स्मरणानि प्रतिसन्धान-रूपाणि ।
+सुखमहमस्वाप्समिति प्रतीतेः प्रतिसन्धान-रूपत्वम् उपगम्य अप्य् आह **अस्तु वे**ति । ज्ञानवत्त्वेनैव उपलभ्यमानत्वाद् आत्मनः बोध-स्वभावत्वम् उक्तम् । निरुक्त-रीत्या स्वापे ऽपि बोधानुवृत्ति-प्रतिपादनाच् च तद् एव प्रतिष्ठापितम् भविष्यतीति नास्माकम् काचित् क्षतिः । यत्तु हृदयम् वृत्त्यैव आत्मनः प्रकाशो न स्वरूपत इति, तत्त्वाशामोदकायितम् इति च पूर्वोत्तराभ्याम् सुनिरूपितम् भविष्यतीति भावः । स्मरणानि प्रतिसन्धान-रूपाणि ।
 </details>
 
 
@@ -3503,4 +3503,715 @@ is invariably associated with the quality of being other than a knower.
 <details><summary>मूलम्</summary>
 
 (इत्यात्मनो ज्ञानस्वभावस्य नित्यस्वप्रकाशत्वसमर्थनम्)
+</details>
+
+## ??
+
+<details><summary>विषयः</summary>
+
+Determination of the significance of the term 'prakāśa' and of the nature of its relation to the soul:-
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कः पुनर् अयं प्रकाशः,  
+यो ऽस्य नित्यो ऽभ्युपेयेत स्वाभाविकश् च?  
+कश् चास्यात्मना सम्बन्धः? ।
+</details>
+
+<details><summary>English</summary>
+
+What is meant by this illumination (*prakāśa*) which is said to be eternal and innate to the soul? And what exactly is the nature of its [[P110]] relation to the soul?
+</details>
+
+<details><summary>मूलम्</summary>
+
+कः पुनरयं प्रकाशः, योऽस्य नित्योऽभ्युपेयेत स्वाभाविकश्च? कश्चास्यात्मना सम्बन्धः? ।
+</details>
+
+### जडे ज्ञानागमापत्तिः?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि ज्ञानम् एव;  
+सम्बन्धश् चाश्रयाश्रयित्वम्;  
+</details>
+
+<details><summary>English</summary>
+
+[[P110]] If illumination means knowledge itself and if the relation is that of being the container and the contained (āśrayāśrayitvam), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि ज्ञानएव; सम्बन्धश्चाश्रयाश्रयित्वम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततो हेत्व्-अभावेन साध्याभावस्य व्याप्तिम् उपदर्शयितुं  
+निदर्शनतया घटाद्य्-उपादातव्यम् 
+
+> यद् अनित्य-प्रकाशम् अन्याधीन-प्रकाशं वा  
+तद् अप्रमातृ, यथा घटादि
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+then (with regard to the aforesaid syllogism) in order to cite the invariable concomitance of the absence of the sadhya with the absence of the *hetu,* pots and the like must be cited as illustrative examples in the following way:--Whatever possesses a non-eternal illumination or an illumination depending upon something else is other than a knower; like pots, etc.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततो हेत्वभावेन साध्याभावस्य व्याप्तिमुपदर्शयितुं निदर्शनतया घटाद्युपादातव्यम्यदनित्यप्रकाशमन्याधीनप्रकाशं वा तदप्रमातृ, यथा घटादीति ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र च विशेष+++(→नित्य-ज्ञान)+++-निषेधस्य सामान्याभ्यनुज्ञाक्षेपकत्वाद्  
+आगन्तुकं ज्ञानं घटादाव् अनुमतम् आपद्येत ।
+</details>
+
+<details><summary>English</summary>
+
+Then, as the negation of something specific presumes the affirming of something else belonging to the same general category,  
+it would result in the admission that occasional knowledge resides in pots and the like.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र च विशेषनिषेधस्य सामान्याभ्यनुज्ञाक्षेपकत्वादागन्तुकं ज्ञानं घटादावनुमतमापद्येत ।
+</details>
+
+### आत्म-विषयत्वम्?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ "तन् मा भूद्" इति  
+विषय-विषयी-भाव एव सम्बन्धः सङ्गीयेत,  
+ततो नित्यवज् ज्ञान-विषयत्वम् आत्मनः प्रसज्येत ।
+</details>
+
+<details><summary>English</summary>
+
+In order to obviate this difficulty if it be said that the relation (in question) is no other than that of being the object apprehended and being the subject apprehending (*viṣayaviṣiyibhāva*), then, the soul would have to be the object of an eternal consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथ तन्माभूदिति विषयविषयिभाव एव सम्बन्धः सङ्गीयेत, ततो नित्यवज्ज्ञानविषयत्वमात्मनः प्रसत्येत ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-विषयी-कारश् च  
+साधन-विशेषायत्तत्वेन नियत इति  
+न स्वाभाविकत्व-सम्भवः ।
+</details>
+
+<details><summary>English</summary>
+
+And since the quality of being an object of consciousness  
+is invariably concomitant with that of being dependent upon some specific causal factors,  
+consciousness cannot be an innate property of the soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानविषयीकारश्च साधनविशेषायत्तत्वेन नियत इति न स्वाभाविकत्वसम्भवः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अचेतन-गोचर एव तथा नियम इति चेत्, न, चेतनान्तर-विषयीकारे ऽपि तथा-भाव-दर्शनात् ।
+</details>
+
+<details><summary>English</summary>
+
+If it be said that this universal concomitance is met with only in the case of insentient objects, the reply is 'not so';
+</details>
+
+<details><summary>मूलम्</summary>
+
+अचेतनगोचर एव तथा नियम इति चेन्न, चेतनान्तरविषयीकारेऽपि तथाभावदर्शनात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चानात्म-गोचर एव साधन-सापेक्षत्व-नियम इति वाच्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+for even when some other soul is cognised, this dependence on certain causal factors is noticed.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चानात्मगोचर एव साधनसापेक्षत्वनियम इति वाच्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मनो ऽप्य् आनुमानिकागमिक-योग-ज्ञान-विषयीकारे तत्-सापेक्षत्व-दर्शनात् ।
+</details>
+
+<details><summary>English</summary>
+
+It cannot be said that this general law, namely, that all objects of consciousness depend on specific causal factors, applies only to cases other than oneself; for even in regard to oneself, when it becomes the object of inferential knowledge, knowledge born of scripture, and yogic perception, this dependence upon causal factors is noticed.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मनोऽप्यानुमानिकागमिकयोगज्ञानविषयीकारे तत्सापेक्षत्वदर्शनात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विरुद्धे च एकस्यैक-क्रियायां कर्म-कर्तृत्वे, सूच्य्-अग्रस्येवात्मनिवेध्य-वेधकत्वे ।
+</details>
+
+<details><summary>English</summary>
+
+Further, in respect of one and the same entity the character of being the object and that of being the subject (or agent) of the self-same activity are contradictory; just as in the case of a needle, with regard to its point, the qualities of being the piercer and the pierced are contradictory.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विरुद्धे चैकस्यैकक्रियायां कर्मकर्तृत्वे, सूच्यग्रस्येवात्मनिवेध्यवेधकत्वे ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यत्व-निरतिशय-सूक्ष्मत्व-व्यापित्व-चित्-स्वाभाव्यादि-रूपेण प्रत्यगर्थस्यौपदेशिकत्वम् आनुमानिकत्वं वा, न स्वरूपतः ।
+</details>
+
+<details><summary>English</summary>
+
+[[P111]] It is not in respect of itself, but in respect of its features such as, eternity, extreme subtlety, capacity to penetrate all things, the possession of consciousness as its essential nature-that the soul *(pratyagartha*) comes to be the object of knowledge obtained through inference or through instruction.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यत्वनिरतिशयसूक्ष्मत्वव्यापित्वचित्स्वाभाव्यादिरूपेण प्रत्यगर्थस्यौपदेशिकत्वमानुमानिकत्वं वा, न स्वरूपतः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रूपा-भेदेन गम्य-गमकत्वाङ्गीकार-पक्षे ऽपक्षस्येव शब्दादेर् न स्वतःसिद्धत्वम् ।
+</details>
+
+<details><summary>English</summary>
+
+On the view that the self may be admitted to be at once the knower and the known in virtue of its different aspects, the self, like the examples relied upon, such as, *sabda* (the word), cannot be said to be self-established.[^111_180]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^111_180]: (i) The reading in the text is *pakṣasyeva śabdādeḥ*; but the correct reading should be sapakṣasyeva *sabdadeḥ*. This argument presupposes a syllogism in which sabda, *dipa*, etc., are relied upon as illustrative examples *(*sapakṣa). The syllogism may be set forth as follows:-ātmā svaviṣayaḥ; svaprakāśatvāt, sabdavat dipavat ca. It may also be added that the Vaiyākaranas hold that a word *(sahda)* illuminates itself while illumining its sense and that there is no verbal cognition *(sabdabodha*, which does not involve a verbal configuration. Compare Bhartṛhari-na sosti pratyayo loke yassabdanugamādrte. (ii) *Vipakṣasyeva sabdadeh* is the reading suggested by some. Atma is the *pakṣa* in this argument; pots and the like constitute the *vipaksa* (i.e. examples where the sādhya, namely self. luminosity, is absent), Sabda also must be classed among counter examples. If this reading is accepted the translation of the latter part of the sentence would have to be modified as follows:- the self, like the counter examples, such as sabda, cannot be said to be self-established.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+रूपभेदेन गम्यगमकत्वाङ्गीकारपक्षेऽपक्षस्येव शब्दादेर्न स्वतःसिद्धत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इति ज्ञानाश्रयत्वविषयत्वयोः प्रकाशमानत्वरूपत्वे दोषानुकीर्तनम् ।)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+(इति ज्ञानाश्रयत्वविषयत्वयोः प्रकाशमानत्वरूपत्वे दोषानुकीर्तनम् ।)
+</details>
+
+<details><summary>विषयः</summary>
+
+The contention that atma is the seat of prakasa inferred from prakatya-
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथोच्येत — न प्रकाशो ज्ञानम् ।
+</details>
+
+<details><summary>English</summary>
+
+As a third alternative, you might hold that illumination is not knowledge,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथोच्येतन प्रकाशो ज्ञानम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि तु तन्-निमित्तश् चेतनेतर-सर्व-पदार्थ-साधारणो धर्मः, यद्-वशात् प्रकाशत इति प्रख्योपाख्ये प्रतायेते सर्व-पदार्थेष्व् अविशेषेण; आश्रयाश्रयित्व-लक्षणश् च सम्बन्धस् तेन सह सर्व-भावानाम् ।
+</details>
+
+<details><summary>English</summary>
+
+but a quality which is dependent upon knowledge and which is found alike in all objects, sentient or non-sentient-a quality by whose aid all understanding and reference, namely, 'It is illumined', arise in regard to all objects; and that the relation of this illumination to all objects, without varying from instance to instance, is just that of being the container and the contained;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि तु तन्निमित्तश्चेतनेतरसर्वपदार्थसाधारणो धर्मः, यद्वशात्प्रकाशत इति प्रख्योपाख्येप्रतायेते सर्वपदार्थेष्वविशेषेण; आश्रयाश्रयित्वलक्षणश्च सम्बन्धस्तेन सह सर्वभावानाम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स च यथोदित-साधन-बलाद् एव सांसिद्धिको नित्यश् चात्मन इति ।
+</details>
+
+<details><summary>English</summary>
+
+and that, on the strength of the aforesaid reasons themselves, it follows that such a quality is eternal and essential to the soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स च यथोदितसाधनबलादेव सांसिद्धिको नित्यश्चात्मन इति ।
+</details>
+
+<details><summary>विषयः</summary>
+
+Refutation of that view:-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पराकृतो ऽयं पक्षः ।
+</details>
+
+<details><summary>English</summary>
+
+But this view has already been refuted.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पराकृतोऽयं पक्षः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ज्ञानातिरेकी प्रकाशो नाम ।
+</details>
+
+<details><summary>English</summary>
+
+There is no prakasa distinct from knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ज्ञानातिरेकी प्रकाशो नाम ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्-व्यवहारोपजननानुगुणं ज्ञानं, तत् प्रकाशत इत्य् उच्यते ।
+</details>
+
+<details><summary>English</summary>
+
+[[P112]] The object about which it could be said 'It is manifested' is that concerning which there is the knowledge capable of rendering it fit for thought and discussion.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्व्यवहारोपजननानुगुणं ज्ञानं, तत्प्रकाशत इत्युच्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञेयस्य ज्ञातुः स्वात्मनश् च व्यवहारानुगुणं ज्ञानम् उदयत इति युक्तः त्रिष्व् अपि एक-रूपः प्रकाशते व्यवहारः ।
+</details>
+
+<details><summary>English</summary>
+
+Since there arises knowledge conducive to discussion concerning the object known, the knower and knowledge itself, it is but right that the reference 'It is manifested' should apply in an identical way to all these three.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञेयस्य ज्ञातुः स्वात्मनश्च व्यवहारानुगुणं ज्ञानमुदयत इति युक्तः त्रिष्वपि एकरूपः प्रकाशतेव्यवहारः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्त्व-न्तर-प्रकाशाभ्युपगमे तदवस्था तथाभूत एव पुनः किं चैतन्याश्रयणेन? ।
+</details>
+
+<details><summary>English</summary>
+
+If the illumination were to be admitted as a separate entity (i.e. if it is distinct from knowledge), and if the soul has this *prakāŝa* for its innate quality, where, again, is the need for attributing consciousness to the soul?
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्त्वान्तरप्रकाशाभ्युपगमेतात्स्वाभाव्ये झ्र् न ट च पुनः किं चैतन्याश्रयणेन? ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च प्रकाश एव तद् इति वाच्यम्, घटादेर् अपि प्रकाश-वत्तया चेतनत्व-प्रसङ्गात् ।
+</details>
+
+<details><summary>English</summary>
+
+It cannot be said that consciousness is nothing but *prakāŝa*; for even objects, such as pots and like, would become conscious entities, inasmuch as they possess *prakāśa*.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च प्रकाश एव तदिति वाच्यम्, घटादेर्पि प्रकाशवत्तया चेतनत्वप्रसङ्गात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् उच्येत — सति चेतनावत्त्वे पुंसः प्रकाशमानत्वम् इति, संविद् इदानीं का वार्ता? ।
+</details>
+
+<details><summary>English</summary>
+
+If it is said that (consciousness and prakāsa are different and that) *prakāśa* is that which is manifested to the soul when there is possession of knowledge, what about knowledge (samvit)?
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्युच्येत्सति चेतनावत्त्वे पुंसः प्रकाशमानत्वमितिः संविदीदानीं का वार्ता? ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चेतनैव हि सा, न चेतयते ।
+</details>
+
+<details><summary>English</summary>
+
+Indeed, samvit is itself consciousness; and it is not possessed of knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+चेतनैव हि सा, न चेतयते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ संविदस्तत्-सम्बन्धाधीनः स धर्म इति चेत्; कस्तया सम्बन्धः, यस् तन्-निबन्धनम्? ।
+</details>
+
+<details><summary>English</summary>
+
+If it be said that this quality (i.e. prakāś 1). dependent upon the relation in question, may belong to knowledge, (it may be asked) what exactly is the nature of the relation which acts as the basis of prakāśa ?
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथ संविदस्तत्सम्बन्धाधीनः स धर्म इति चेत्; कस्तया सम्बन्धः, यस्तन्निबन्धनम्? ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ना श्रयाश्रयित्वम्; घटादेस् तद्-अभाव-प्रसङ्गात् ।
+</details>
+
+<details><summary>English</summary>
+
+It cannot be that of being the container and the contained; for, then, pots and the like would have to be deprived of prākatya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाश्रयाश्रयित्वम्; घटादेस्तदभावप्रसङ्गात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न विषय-विषयीभावः, तस्यैवानिरूपणात् ।
+</details>
+
+<details><summary>English</summary>
+
+Nor can it be the relation of being the apprehending subject and the object apprehended. for the precise nature of this relation defies analysis.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न विषयविषयिभावः, तस्यैवानिरूपणात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनिरूपणं च भ्रान्त्य्-अधिकरण-सिद्धान्तारम्भे संवित्-सिद्धौ चानुसन्धातव्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+The impossibility of such an analysis may be ascertained from that part of the *Bhrantyadhikarana*[^112_181] (of *Nyāyatattva*) where the statement of the conclusion *(siddhānta*) commences and from *Samvitsiddhi*.
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^112_181]: While discussing the nature of error, *Sarvarthasiddhi* (Buddhisara) refers to this adhikarana. See the Tattvamuktākalāpa, Barvārthasiddhi p. 404.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनिरूपणं च भ्रान्त्यधिकरणसिद्धान्तारम्भे संवित्सिद्धौ चानुसन्धातव्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मनस् तस्य चाप्रकाश-प्रसङ्गश् च ।
+</details>
+
+<details><summary>English</summary>
+
+Moreover, (if the quality of being the apprehending subject (*visayitva*) was the cause of prakāśa, since this quality does not exist in the soul and in non-sentient objects like pots, it (prakāśa) would have to be denied to the soul as well as to non-sentient objects.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मनस्तस्य चाप्रकाश प्रसङ्गश्च ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानाधीन-प्रकाशाश्रयतैव सिद्धिः, तया चानुमेयं ज्ञानम् इति पक्षः प्रागेव प्रतिक्षिप्तः ।
+</details>
+
+<details><summary>English</summary>
+
+The view that *siddhi* is nothing but being the seat of prakāśa) which is dependent upon jñāna, and that it is with the aid of that *siddhi* that knowledge is inferred to exist has already been refuted.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानाधीनप्रकाशआश्रयतैव सिद्धिः, तया चानुमेयं ज्ञानमिति पक्षः प्रागेव प्रतिक्षिप्तः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-प्रकाश-संविद्-वादिनो ऽपि व्यवहारानुकूल्ये वैरूप्यम् अशक्य-परिहारम् ।
+</details>
+
+<details><summary>English</summary>
+
+[[P113]] Even to the person who contends that consciousness is self-luminous it would be impossible to get over the diversity in regard to the manner in which objects become fit for discussion.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वप्रकाशसंविद्वादिनोऽपि व्यवहारानुकूल्ये वैरूप्यमशक्यपरिहारम् ।
+</details>
+
+<details><summary>विषयः</summary>
+
+Nyāya refution of the Prabhakara and Bhatta views and the contention that relation of jnana and its viṣaya is through sense contact.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मनि समवेतं ज्ञानम् असम्बन्धिन्य् अर्थे प्रकाशं व्यवहारं वा कथं प्रसुवीत इत्य् अपि चिन्त्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+Again, how knowledge, which is inherent in the soul, could generate in the object, which is unrelated to it, a *prākāsā* or discussion is a matter for consideration.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मनि समवेतं ज्ञानमसम्बन्धिन्यर्थे प्रकाशं व्यवहारं वा कथं प्रसुवीतेत्यपि चिन्त्यम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द्रिय-लिङ्गादि-स्व-कारण-प्रत्यासत्ति-वशाद् इति मा वोचः ।
+</details>
+
+<details><summary>English</summary>
+
+Do not say that it is generated by the proximity of the causes of knowledge. such as the senses and reasons (linga).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रियलिङ्गादिस्वकारणप्रत्यासत्तिवसादिति मा वोचः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न खलु लब्धात्मकं कार्यं स्व-निमित्त-कारणम् अनुरुध्य कार्यम् आरभते ।
+</details>
+
+<details><summary>English</summary>
+
+Indeed, that which has already come to exist does not produce its effect by depending upon its own efficient cause.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न खलु लब्धात्मकं कार्यं स्वनिमित्तकारणमनुरुध्य कार्यमारभते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मा भूद् उदकाहरणादि घटादेः कुलालादि-समानाधिष्ठानम् ।
+</details>
+
+<details><summary>English</summary>
+
+Activities pertaining to the pot such as, fetching water-cannot be treated as having for their bases or superintendent *(adhisthāna*) what is identical with the potter and the like.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मा भूदुदकाहरणादि घटादेः कुलालादिसमानाधिष्टानम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च निमित्त-कारण-नाशे कार्य-नाशः ।
+</details>
+
+<details><summary>English</summary>
+
+Further, when the efficient cause perishes, there is no destruction of the effect;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च निमित्तकारणनाशे कार्यनाशः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नश्यति च इन्द्रिय-सम्प्रयोगादि-नाशे रूपादि-ज्ञानम् ।
+</details>
+
+<details><summary>English</summary>
+
+but here, when factors—such as, the contact of the senses-perish, knowledge of colour and the like disappears.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नश्यति चेन्द्रियसम्प्रयोगादिनाशे रूपादिज्ञानम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत इन्द्रियेण सह चैतन्यम् अपि निस्सृत्य तेन तेन अर्थेन सन्निकृष्यते, हस्तादिनेव त्वग्-इन्द्रियम् ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, it has to be said that consciousness proceeding outward along with the senses gets into contact with different objects,[^113_182] just as the organ of touch comes into contact with hands and the like.
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^113_182]: Compare Sri *Bhasya* on Ved Su *II.* ii. 27-nä bhāvā upalabdheḥ-sambandhašca samyogalakṣaṇaḥ. see also the Tattvamu ktākālāpa p. 652. Dravyam prāg buddhiruktā paramiha viṣayaissangamādirnirūpyah samyogam Bhāşyakārāh prathamamakathayan nyāyatattvānusārāt.,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत इन्द्रियेण सह चैतन्यमपि निस्सृत्य तेनतेनअर्थेन सन्निकृष्यते, हस्तादिनेव त्वगइन्द्रियम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा सति हि तद्-उपाधिकत्वात् तज्-ज्ञानस्य युक्तं तद्-भावानुविधायित्वम् ।
+</details>
+
+<details><summary>English</summary>
+
+If that were so, since the knowledge of the respective objects is dependent upon this contact, it is but right that such knowledge should be dependent upon the existence of this contact.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा सति हि तदुपाधिकत्वात्तज्ज्ञानस्य युक्तं तद्भावअनुविधायित्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यथा उत्पन्नं ज्ञानम् इन्द्रियार्थ-सन्निकर्ष-निवृत्तौ किम् इति निवर्तते? ।
+</details>
+
+<details><summary>English</summary>
+
+Otherwise, why should the knowledge which has already arisen vanish when the contact of the senses with objects falls away?
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यथोत्पन्नं ज्ञानमिन्द्रियार्थसन्निकर्षनिवृत्तौ किमिति निवर्तते? ।
+</details>
+
+<details><summary>विषयः</summary>
+
+The Nyaya argument that with the disappearance of jnāna, prākatya disappears is untenable because with the disappearance of the efficient cause, the effect need not disappear.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-जन्यार्थ-धर्म-प्रकाश-वादिनो ऽपि समानो ऽयं दोषः ।
+</details>
+
+<details><summary>English</summary>
+
+[[P114]] The same difficulty confronts also the person who admits *prakaṣā* as a quality which resides in objects and which is produced by jñāna.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानजन्यार्थधर्मप्रकाशवादिनोऽपि समानोऽयं दोषः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निमित्त-कारणं हि ज्ञानम् ।
+</details>
+
+<details><summary>English</summary>
+
+For knowledge is the efficient cause of prakāśa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+निमित्तकारणं हि ज्ञानम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतस् तन्-निवृत्तौ अर्थ-प्रकाशो निवर्तते? कुतो वा यावत् तद्-भावम् अवतिष्ठते? ।
+</details>
+
+<details><summary>English</summary>
+
+Then, why (it may be asked) should the *prakasa* of the objects disappear at the disappearance of knowledge? And why should it exist only so long as knowledge lasts?
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुतस्तन्निवृत्तौ अर्थप्रकाशो निवर्तते? कुतो वा यावत्तद्भावमवतिष्ठते ? ।
 </details>
