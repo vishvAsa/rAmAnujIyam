@@ -916,7 +916,7 @@ Therefore, it has to be said that consciousness proceeding outward along with th
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-कं तर्हि प्रकाशस्य व्यवहारस्य वोपपत्तिः? [[तत्राति । इति|तत्राह — अत इति ।]] इन्द्रियादि-द्वारा प्रसृतस्य तेन सहार्थ-सन्निकृष्टस्य ज्ञानस्यार्थ-प्रकाशकस्य [[अर्थप्काव्यवहार|अर्थप्रकाशव्यवहार]]-जनकत्वं स्वीकार्यम् अनायत्येति हार्दम् । सिद्धान्तिनां पक्षो ऽयम् ।
+कं तर्हि प्रकाशस्य व्यवहारस्य वोपपत्तिः? तत्राह — अत इति । इन्द्रियादि-द्वारा प्रसृतस्य तेन सहार्थ-सन्निकृष्टस्य ज्ञानस्यार्थ-प्रकाशकस्य अर्थप्रकाशव्यवहार-जनकत्वं स्वीकार्यम् अनायत्येति हार्दम् । सिद्धान्तिनां पक्षो ऽयम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -939,7 +939,7 @@ If that were so, since the knowledge of the respective objects is dependent upon
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-[[तथाससतीति|तथा सतीति]] । इन्द्रियेण सह प्रवृत्त्यादि-मत्त्वे हि ज्ञानस्य तद्-अर्थ-सन्निकृष्टस्य तत्-प्रकाशकस्येन्द्रियार्थ-सन्निकर्षान्वय-व्यतिरेकानुविधाय्य् अन्वय-व्यतिरेकोपपत्तिरित्य् अर्थः ।
+तथा सतीति । इन्द्रियेण सह प्रवृत्त्यादि-मत्त्वे हि ज्ञानस्य तद्-अर्थ-सन्निकृष्टस्य तत्-प्रकाशकस्येन्द्रियार्थ-सन्निकर्षान्वय-व्यतिरेकानुविधाय्य् अन्वय-व्यतिरेकोपपत्तिरित्य् अर्थः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1015,4 +1015,324 @@ Then, why (it may be asked) should the *prakasa* of the objects disappear at the
 कुतस्तन्निवृत्तौ अर्थप्रकाशो निवर्तते? कुतो वा यावत्तद्भावमवतिष्ठते ? ।
 </details>
 
+
+### सङ्ख्यापेक्षा-नाशे न सङ्ख्या-नाशः
+
+<details><summary>विषयः</summary>
+
+That the disappearance of the nimitta kāraṇa need not necessarily lead to the disappearance of the effect is illustrated with the instance of twoness and the like.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च सङ्ख्याादि-निदर्शनेनात्र प्रत्यवस्थानं युक्तम्;
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> ज्ञान-निमित्त-नाशे ज्ञान-नाशः  
+सङ्ख्यापेक्षा-नाशे सङ्ख्यानाशवत्
+
+इत्य् अवस्थानम्।
+</details>
+
+
+<details><summary>English</summary>
+
+It is no good trying to meet the difficulty by citing the analogy of number *(sankhya*) and the like.[^114_183]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^114_183]: The analogy may be expressed thus:-  
+When the enumerative cognition (apekṣābuddhi) which is the efficient cause of numbers 2, 3 and so on disappears, these numbers vanish;  
+in the same way, when knowledge which is the efficient cause of prakăşa ceases to be,  
+*prakāṣa* also falls away,
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च सङ्ख्यादिनिदर्शनेनात्र प्रत्यवस्थानं युक्तम्;
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+> ननु निमित्त-नाशस्यापि कार्य-नाशे हेतुत्वं क्वचिद् एष्टव्यम् ।  
+अन्यथा ऽपेक्षा-बुद्धि-नाशाद्  
+द्वित्वादेर् नाशस्यानुपपत्तेः ।  
+तथा प्रकृते ऽपि भविष्यति
+
+इति शङ्कते **न चे**ति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.29 अ-सिद्धत्वेन नाशस्य  
+सङ्ख्याया बुद्धि-नाशतः ।  
+एक-सङ्ख्यैव सङ्ख्यात्वाद्  
+अन्याप्य् +++(सङ्ख्या)+++ आ-द्रव्य-भाविनी ॥
+</details>
+
+<details><summary>English</summary>
+
+1.29 For with the disappearance of the enumerative cognition (*apeksa-buddhi*) there does not result the disappearance of numbers. Like number 1 (unity), the other numbers, namely, 2, 3 and so on, for the very reason that they are numbers, exist as long as objects last.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.29 असिद्धत्वेन नाशस्य सङ्ख्याया बुद्धिनाशतः ।  
+एकसङ्ख्येव सङ्ख्यात्वादन्याऽप्याद्रव्यभाविनी ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.30 सर्वा ह्य् एकाश्रया सङ्ख्या   
+नित्यानित्यार्थ+++(→वस्तु)+++-वर्तिनी ।  
+यावद्-आश्रय-सत्य् एव  
+सम्मता सर्व-वादिनाम् ॥
+</details>
+
+<details><summary>English</summary>
+
+1.30 That everywhere the number which is based on a single entity and which resides individually in objects, eternal or non-eternal, (i.e. the number 1, unity) lasts as long as the (particular) support lasts is admitted by all disputants.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.30 सर्वा ह्येकाश्रया सङ्ख्या नित्यानित्यार्थवर्तिनी ।  
+यावदाश्रयसत्येव संमता सर्ववादिनाम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.31 द्वित्वादिका परार्धान्ता  
+सङ्ख्या यानेक-वर्तिनी ।  
+सापि सङ्ख्यात्व-सामान्ये  
+सति कस्मान् न तादृशी ॥
+</details>
+
+<details><summary>English</summary>
+
+1.31 While the generality, namely, numberness, exists therein, why should not the numbers commencing from 2 and ending in infinity, and residing in multitudinous objects, be similar (to number 1 in lasting as long as the support lasts)?
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.31 द्वित्वादिका परार्धान्ता सङ्ख्या याऽनेकवर्तिनी ।  
+साऽपि सङ्ख्यात्वसामान्ये सति कस्मान्न तादृशी ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+परिहरति **असिद्धत्वेने**ति । अपेक्षा-बुद्धि-नाशेन द्वित्वादि-नाशस्यासिद्धत्वेन न निमित्त-नाशेन कार्य-नाशे द्वित्वादेर् नाशस्य निदर्शनत्वं सम्भवतीत्यर्थः । **एके**ति । यावद्-आश्रय-भावित्वाद् एकत्वस्येव द्वित्वादेः सङ्ख्यात्वान् नापेक्षा-बुद्धि-नाशान् नाश इत्य् अर्थः । असिद्धत्वम् एतेनोपपादितं भवति । फलितो ऽत्र प्रयोगः — द्वित्वादिर् यावद्-आश्रय-सती सङ्ख्यात्वाद् एकत्ववद् इति ॥२९ ॥३० ॥३१ ॥
+</details>
+
+#### एकत्वं सङ्ख्या
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु नैकत्वं +++(→१ इति)+++ सङ्ख्या;  
+स्वरूपानतिरेकात् ।  
+अतः साधन-विकलम् उदाहरणम् ।
+</details>
+
+<details><summary>English</summary>
+
+An objection may be taken to this argument:-Since number 1 is not a number at all, for the reason that it is not something distinct from the *svarupa* (i. e. the object wherein it is said to dwell);[^114_184] the example cited in the foregoing argument is defective in being devoid of the *hetu.*
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^114_184]: This objection is met by Vedanta Desika in the Tattvamuktā *kalāpā* (Adravyasara thus\-'aikyam svābhedamāhuh katicana na bhida tyckameveti drşteh bhedadṛṣtyaikyamohaḥ taditi ca vacanam tattra tatra bhyupetam anyetvetat svasatt- viduritarasamuccityavastha nuvṛttam svarūpadadhikamidamiha tatpaksepi vam dvittvamohadisiddheh. pp. 634-5.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु नैकत्वं सङ्ख्या; स्वरूपानतिरेकात् । अतः साधनविकलमुदाहरणम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मैवम् । सङ्ख्यैव सा;  
+द्रव्यान्तरे ऽप्य् अनुवृत्तेः ।
+</details>
+
+<details><summary>English</summary>
+
+[[P115]] (The reply is) not so. Unity (No. 1) is certainly a number; for it persists equally in other objects (besides the one with whose very being it is sought to be identified.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+मैवम् । सङ्ख्यैव सा; द्रव्यान्तरेऽप्यनुवृत्तेः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि घटादेः स्वरूपम् एवैकत्वम्,  
+ततो 
+
+> घट एकः,  
+पट एक  
+
+इति सर्व-द्रव्य-साधारण्यम् एकत्वस्य न स्यात् ।
+</details>
+
+<details><summary>English</summary>
+
+If No. 1 were identical with the very being of the pot or anything else, then, unity cannot be common to all objects, as is suggested in the expressions, *one* pot, *one* cloth and so on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि घटादेः स्वरूपमेवैकत्वम्, ततो घट एकः, पट एक इति सर्वद्रव्यसाधारण्यमेकत्वस्य न स्यात् ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+दृष्टान्ते [[हेत्वासिद्धिं|हेत्व्-असिद्धिं]] शङ्कते **ननु नैकत्वम्** इति । परिहरति **मैवम्** इति । **यदी**ति । तत्तद्-व्यक्ति-स्वरूपस्यैवैक-प्रतीति-व्यवहार-नियामकत्वे घट एकः, पट एक इति इत्य्-आद्य्-अनुगत-प्रतीति-व्यवहारानुपपत्तिः । तत्तद्-व्यक्तित्वस्याननुगतत्वात् । एकत्व-सङ्ख्यायास् तथात्वे तु एकत्वेनानुगमाद् अनुगत-प्रतीत्य्-आद्य्-उपपत्तिर् इति भावः । तार्किक-प्रक्रिययेदम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि घट-स्वरूपस्य पट-स्वरूपेण सम्भवति  
+सामानाधिकरण्यं घटः पट इति ।  
+अस्ति तु तद् एकत्वस्य ।
+</details>
+
+<details><summary>English</summary>
+
+Indeed, there is no equation of the being of the pot *(ghaṭasvarupa*) with that of the cloth to the effect 'The pot is cloth'; but that equation of No. 1 with the pot (as is evident in the expression 'one pot') exists.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नहि घटस्वरूपस्य पटस्वरूपेण सम्भवति सामानाधिकरण्यं घटः पट इति । अस्ति तु तदेकत्वस्य ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+दृष्टान्ते हेत्व्-असिद्धिं शङ्कते ऽ **ननु नैकत्व** ऽम् इति । परिहरति ऽ **मैव** ऽम् इति । ऽ **यदी** ऽति । तत्तद्-व्यक्ति-स्वरूपस्यैवैक-प्रतीति-व्यवहार-नियामकत्वे घट एकः, पट एक इति इत्य्-आद्य्-अनुगत-प्रतीति-व्यवहारानुपपत्तिः । तत्तद्-व्यक्तित्वस्याननुगतत्वात् । एकत्व-सङ्ख्यायास् तथात्वे तु एकत्वेनानुगमाद् अनुगत-प्रतीत्य्-आद्य्-उपपत्तिर् इति भावः । तार्किक-प्रक्रिययेदम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.32 किञ्च — 
+
+> सङ्ख्यैकता - विरुद्धत्वात्  
+द्वि-सङ्ख्येैवान्य-सङ्ख्यया +++(→विरुद्धत्वात्)+++ ।  
+"एकं द्वाव्" इति न ह्य् अस्ति  
+सामानाधिकरण्य-धीः ॥
+</details>
+
+<details><summary>English</summary>
+
+1.32 Being contradictory to other members, unity, like No. 2, must necessarily be a number. In fact, there is no knowledge equating unity with number 2 in the form 'Unity is No. 2.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.32 किंच-संङ्ख्यैकता विरुद्धत्वात् द्विसङ्ख्येवान्यसङ्ख्यया ।  
+एकं द्वाविति न ह्यस्ति सामानाधिकरण्यधीः ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+स्वरूपत्वे बाधकम् उक्त्वैकत्वस्य सङ्ख्यात्वे साधकम् अप्य् आह **सङ्ख्यैकता** ऽति ।  
+अत्र प्रयोगः —  
+एकत्वं सङ्ख्या  
+सङ्ख्यान्तर-विरुद्धत्वाद् द्वित्वादिवद् इति ।   
+हेतुं पक्षे घटयति **एकम्** इति ।  
+अत्रेदं बोध्यम् —  
+उद्देश्यतावच्छेदकावच्छिन्न-पर्याप्तेर् द्वित्वादि-सम्बन्धतया भानाद् एकत्वावच्छिन्न-पर्याप्तेश् च द्वित्वादि-सम्बन्धत्वाभावेन न एकं द्वाव् इति प्रयोगः । एकं द्वित्ववद् इति तु स्यान् नाम, अत्र द्वित्व-समवायस्यैव स्वरूप-सम्बन्धेन भानात्, तस्य चैकस्मिन्न् अप्य् अबाधात् । सङ्ख्यान्तर-विरुद्धत्वं च सङ्ख्यान्तर-पर्याप्त्य्-अवच्छेदकावच्छिन्न-पर्याप्तिक-वृत्तिकत्वाभाव-लक्षणम् इति । द्वित्वादेर् यावद्-आश्रय-भावित्वानुमाने दृष्टान्ते साधन-वैकल्यं परहृतम् एतावता ॥ ३२ ॥
+</details>
+
+#### यावद्-द्रव्य-भाविता
+<details><summary>विषयः</summary>
+
+Untenability of the argument that numbers commencing from 2 do not last as long as objects last
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु  
+
+> अनेक-द्रव्य-वृत्तित्वे सति  
+गुणत्वात्, संयोग-वद् अयावद्-द्रव्य-भाविनी द्वित्वादि-सङ्ख्या
+
+इति, तद् न —  
+नानात्वे ऽनैकान्तिकत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+It may be contended that, like contact (*samyoga*), the numbers commencing from 2 do not last as long as the objects exist, because while they exist in many objects, they are qualities. But such a contention is liable to be charged with anekanta *dosa* in the light of the instance of 'diversity.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तु अनेकद्रव्यवृत्तित्वे सति गुणत्वात्संयोगवदयावद्द्रव्यभाविनीद्वित्वादिसङ्ख्येति, तन्ननात्वेऽनैकान्तिकम ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि सतोर् अपि घट-पटयोस्  
+तन्-नानात्वं नश्यति ।
+</details>
+
+<details><summary>English</summary>
+
+For as long as the pot and the cloth exist, diversity will never vanish.[^115_185]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^115_185]: How the argument comes to be vitiated by anekānta doṣa is here exposed. In the instance of diversity, even though the *sadhya* is absent, the *hetu* is still met with.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि सतोर्पि घटपटयोस्तन्नानात्वं नश्यति ।
+</details>
+
+#### सङ्ख्या–नानात्व-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तद् +++(नानात्वं)+++ द्वित्व-सङ्ख्यैव ।  
+त्रयाणां तद्-अभाव-प्रसङ्गात् ।
+</details>
+
+<details><summary>English</summary>
+
+It cannot be said that diversity is nothing but duality. (Therefore, it is not possible to get over the fallacy of *anekānta* by suggesting that, after all, diversity and duality are identical).  
+For (if they were identical) in respect of any three objects there would be the absence of diversity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च तत्द्वित्वसङ्ख्यैव । त्रयाणां तदभावप्रसङ्गात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तद्-एकत्वाभाव-मात्रम् ।  
++++(शून्यस्य=)+++तुच्छस्यापि नानात्वापत्तेः ।
+</details>
+
+<details><summary>English</summary>
+
+Nor can it be said that diversity is merely the absence of unity. (Hence, the suggestion that diversity is merely a negative quality would not help to remove the fallacy.) For (in that case) diversity would have to be attributed to even absolute unreality *(tuccha*).
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च तदेकत्वाभावमात्रम् । तुच्छस्यापि नानात्वापत्तेः ।
+</details>
 
