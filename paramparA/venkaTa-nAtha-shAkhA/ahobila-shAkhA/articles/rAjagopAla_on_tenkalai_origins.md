@@ -153,7 +153,7 @@ Contrary to it I found Ananthan Pillai family members being the Raja guru as wel
 
 <details><summary>रविलोचनः</summary>
 
-His claims about Tirumalai Ananthanpillai being rajaguru of Mysore royals till 1800CE or being rajaguru of Krishnaraya is baseless as well. 
+His claims about Tirumalai Anantāṇpiḷḷai being rajaguru of Mysore royals till 1800CE or being rajaguru of Krishnaraya is baseless as well. 
 </details>
 
 
