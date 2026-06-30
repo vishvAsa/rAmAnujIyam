@@ -752,7 +752,7 @@ The view that *siddhi* is nothing but being the seat of prakāśa which is depen
 ज्ञान-विषयतया अर्थे, ज्ञान-रूपतया ज्ञाने, ज्ञानाश्रयतया चात्मनि व्यवहारानुगुण्यं वक्तव्यम् इति गुरु-मते ऽपि वैरूप्यम् अशक्य-परिहारम् इत्य् अर्थः ।
 </details>
 
-## वस्त्व्-अन्तर-प्रकाशनम्
+## वस्त्व्-अन्तर-प्रकाशने निसृतिः?
 <details><summary>विषयः</summary>
 
 Nyāya refution of the Prabhakara and Bhatta views and the contention that relation of jnana and its viṣaya is through sense contact.
@@ -1337,7 +1337,7 @@ Nor can it be said that diversity is merely the absence of unity. (Hence, the su
 </details>
 
 
-#### कादाचित्कता
+#### प्रकाश-कादाचित्कता
 
 <details><summary>विषयः</summary>
 
@@ -1348,7 +1348,8 @@ Cognition of duality and the like is not constant, since it depends on desire to
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 1.33 आपेक्षिकत्वात् द्वित्वादेः प्रतियोग्य्-अनवग्रहात् ।  
-बुभुत्सोपरमाच् चापि सत्या एवानवग्रहः ॥
++++(बुध्→)+++बुभुत्सोपरमाच् चापि  
+सत्या+++(ः)+++ एवानवग्रहः ॥
 </details>
 
 <details><summary>English</summary>
@@ -1370,6 +1371,7 @@ Cognition of duality and the like is not constant, since it depends on desire to
 ननु यावद्-आश्रयम् सत्त्वे आश्रयोपलम्भ-काले नियमत एकत्वस्येव द्वित्वादेर् उपलम्भः प्रसज्यते इति चेत् तत्राहऽ **आपेक्षिकत्वा**ऽद् इति । सम्बन्ध्य्-अन्तर-ग्रह-सापेक्ष-ग्रहस्य द्वित्वादेः प्रतियोगिनः सम्बन्ध्य्-अन्तरस्याग्रहणात्, ग्रहणे वा द्वित्वादि-बुभुत्साया अपेक्षा-बुद्धेस् च तद्-बोधे सहकारिण्या विरहेण न सदा ग्रह इति भावः । एवं च निमित्त-नाश-नाश्यत्वस्य न निदर्शनी-भवितुमल्लम् द्वित्वाद अत्य्-उक्तम् भवति । वस्तुतो ऽपेक्षा-बुद्धि-विशेषातिरिक्तम् द्वित्वादिकम् एवाप्रामाणिकम् इति तन्-नाशाधीन-तन्-नाशस्य न तरां प्रसक्तिर् इति बोध्यम् ॥ ३३ ॥
 </details>
 
+### सन्निकर्षतो हि प्रकाशः
 <details><summary>विषयः</summary>
 
 Consciousness illumines objects through contact with them:-
@@ -1414,7 +1416,8 @@ Indeed, on your view, consciousness is the entity which manifests the object.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वं च प्रकाशकं प्रकाश्य-वस्तु-सन्निकृष्टम् एव प्रकाशकं दृष्टं दीप-प्रभादि ।
+सर्वं च प्रकाशकं  
+प्रकाश्य-वस्तु-सन्निकृष्टम् एव प्रकाशकं दृष्टं दीप-प्रभादि ।
 </details>
 
 <details><summary>English</summary>
@@ -1439,12 +1442,15 @@ Therefore, it is right to admit that consciousness also is of such a nature (i.e
 
 <details><summary>मूलम्</summary>
 
-अतस्तद्अपि तथेति युक्तमाश्रयितुम् ।
+अतस्तदपि तथेति युक्तमाश्रयितुम् ।
 </details>
 
+### अमूर्तस्य क्रिया
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्योम-वद् अमूर्तस्य न क्रियावत्त्वम् इति चेत्, केयं मूर्तिर् नाम? यद्-विरहिणः क्रिया-योगः ।
+"व्योमवद् अमूर्तस्य न क्रियावत्त्वम्" इति चेत्,  
+केयं मूर्तिर् नाम,  
+यद्-विरहिणः क्रिया-ऽयोगः ?
 </details>
 
 <details><summary>English</summary>
@@ -1460,18 +1466,18 @@ If it be objected that a formless object like ether cannot be endowed with activ
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ज्ञानस्य वहिः-प्रसरणे ऽमूर्तत्व-विरोधम् आशङ्कतेऽ **व्योमवद्** इति । मूर्तत्व-विकल्पेनैनाम् शङ्काम् निरस्यतिऽ **केयम्**ऽ इत्यादिना ।
+ज्ञानस्य वहिः-प्रसरणे ऽमूर्तत्व-विरोधम् आशङ्कतेऽ **व्योमवद्** इति । मूर्तत्व-विकल्पेनैनाम् शङ्काम् निरस्यतिऽ **केयम्** इत्यादिना ।
 </details>
 
+#### क्वचित्कता
 <details><summary>विषयः</summary>
 
 Jnana is of limited nature.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि पारिभाषिकी द्रव्यत्वे सति क्वाचित्कतेति ।
+यदि पारिभाषिकी - +++(मूर्तत्वं नाम)+++ द्रव्यत्वे सति क्वाचित्कतेति,
 </details>
 
 <details><summary>English</summary>
@@ -1501,7 +1507,8 @@ the attribution of such a form to consciousness is acceptable to us.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि तत् सर्व-गतं द्रव्यम्, तथा सति युगपत् सर्वार्थ-सिद्धि-प्रसङ्गात् ।
+न हि तत् सर्व-गतं द्रव्यम्,  
+तथा सति युगपत्-सर्वार्थ-सिद्धि-प्रसङ्गात् ।
 </details>
 
 <details><summary>English</summary>
@@ -1517,12 +1524,15 @@ In fact, consciousness is not an all-pervasive substance. If it were so (i. e. a
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-ऽ **न हि तद्** इति । बन्ध-दशायाम् ज्ञानस्याविभुत्वम् एवेति भावः ।
+**न हि तद्** इति । बन्ध-दशायाम् ज्ञानस्याविभुत्वम् एवेति भावः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्वाचित्कत्वे तु तद् वि यद् एकदा एकेन्द्रियेण सम्प्रयुक्तं तद्-अर्थाभिमुखम्, न तद् इन्द्रियान्तरम् अधितिष्ठति ।
+क्वाचित्कत्वे तु  
+तद् धि यद् एकदैकेन्द्रियेण सम्प्रयुक्तं  
+तद्-अर्थाभिमुखम्,  
+न तद् इन्द्रियान्तरम् अधितिष्ठति ।
 </details>
 
 <details><summary>English</summary>
@@ -1532,7 +1542,7 @@ But, on the view that it pervades a limited area, when it is in contact with one
 
 <details><summary>मूलम्</summary>
 
-क्वाचित्कत्वे तु तद्वि यदैकदैकेन्द्रियेण सम्प्रयुक्तं तदर्थाभिमुखम्, न तदेन्द्रियान्तरमधितिष्ठति ।
+क्वाचित्कत्वे तु तद्धि यदैकदैकेन्द्रियेण सम्प्रयुक्तं तदर्थाभिमुखम्, न तदेन्द्रियान्तरमधितिष्ठति ।
 </details>
 
 
@@ -1556,9 +1566,11 @@ That is why different kinds of sensory knowledge do not originate simultaneously
 अत एव हि युगपज्ज्ञानानुत्पत्तिः ।
 </details>
 
+##### वेगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निरतिशय-वेगं च तत्, युगपद् इवातिशीघ्रम् अनेकेन्द्रियाधिष्ठान-दर्शनात् ।
+निरतिशय-वेगं च तत्,  
+युगपद् इवातिशीघ्रम् अनेकेन्द्रियाधिष्ठान-दर्शनात् ।
 </details>
 
 <details><summary>English</summary>
@@ -1591,6 +1603,7 @@ Therefore, it is to be concluded that the character of possessing a form, in the
 अतो यथोदितममूर्तत्वमसिद्धम् ।
 </details>
 
+#### अस्पर्शवत्तायाम् अपि
 <details><summary>विषयः</summary>
 
 Fallacious to consider what is devoid of touch asūmtari?? (unlimited)
@@ -1599,7 +1612,10 @@ Fallacious to consider what is devoid of touch asūmtari?? (unlimited)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्पर्श-वत्ता मूर्तिः, तद्-वितरहान् निष्क्रियत्वम् इति चेत्; शब्देनानैकान्तः ।
+> स्पर्शवत्ता मूर्तिः,  
+तद्-वितरहान् निष्क्रियत्वम् 
+
+इति चेत्; शब्देनानैकान्तः +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
 <details><summary>English</summary>
@@ -1620,8 +1636,17 @@ If it is urged that form *(murti*) is the quality of possessing touch, and that 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स खलु शङ्ख-मुखादेर् दवीयसो ऽपि देशात् नोदन-विशेषेण लोष्टादिर् इव यावद्-वेगं प्रतिष्ठते स्पर्श-विहीनो ऽपि ।
+स खलु शङ्ख-मुखादेर् दवीयसो ऽपि देशात्  
+नोदन-विशेषेण लोष्टादिर् इव  
+यावद्-वेगं प्रतिष्ठते  
+स्पर्श-विहीनो ऽपि ।+++(4)+++
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+स्पर्श-विहीनो न शब्द इत्य् आधुनिक-विज्ञानम्। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1635,7 +1660,8 @@ For the sound emanating from the conch, the mouth and the like, though Devoid of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्पर्श-रहितस्यापि मनैन्द्रियस्य क्रियावत्त्वं पदार्थ-वाक्यार्थ-विदाम् उभयेषाम् अपि सम्मतम् एव ।
+स्पर्श-रहितस्यापि मन-इन्द्रियस्य क्रियावत्त्वं  
+पदार्थ+++(→वैशेषिक)+++-वाक्यार्थ+++(→मीमांसा)+++-विदाम् उभयेषाम् अपि सम्मतम् एव ।
 </details>
 
 <details><summary>English</summary>
@@ -1654,6 +1680,7 @@ The fact that manas, though devoid of touch, is endowed with activity is admitte
 तस्य द्रव्यत्वे विमत्याम् अपि सम्प्रतिपन्न-स्थलान्तरे तद् दर्शयत्ऽ **स्पर्श** इति । यद्वा ननु शब्दस्याश्रय-द्वारैव गतिर् वाच्या । शब्दाश्रयस् च वायुः स्पर्शवान् इति न निरुक्त-नियमे क्षतिर् इति चेत् तत्राहऽ **स्पर्श** इति । पदार्थ-विदः काणादाः, वाक्यार्थ-विदो जैमिनीयाः । उभयेषामपि सम्मतम् मनसो निः-स्पर्शस्यापि क्रिया-वत्त्वम् इत्य्-अर्थः ।
 </details>
 
+### भूत-भविष्यद्-विषयता
 <details><summary>विषयः</summary>
 
 Objects, past and future, could come into contact with consciousness:-
@@ -1662,7 +1689,11 @@ Objects, past and future, could come into contact with consciousness:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथम् अतीतानागतयोर् असतोश् चैतन्येन सम्प्रयोग इति चेत्, कथं वा विषय-भावः, प्रकाशमानत्वम्, सङ्ख्याादि-योगो वा तयोः? यस् तत्र निर्वाहः, स एवात्रास्तु ।
+> कथम् अतीतानागतयोर् अ-सतोश् चैतन्येन सम्प्रयोग 
+
+इति चेत्,  
+कथं वा विषय-भावः, प्रकाशमानत्वम्, सङ्ख्यादि-योगो वा तयोः?  
+यस् तत्र निर्वाहः, स एवात्रास्तु ।
 </details>
 
 <details><summary>English</summary>
@@ -1689,7 +1720,9 @@ How (it may be asked) can objects, past and future, which are non-existent, come
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि चातीततया अनागततया च ताव् अप्य् अद्यापि विद्येते इति तेन रूपेण बोध-सन्निकर्षे कानुपपत्तिः?
+अपि चातीततया ऽनागततया च  
+ताव् अप्य् अद्यापि विद्येते इति  
+तेन रूपेण बोध-सन्निकर्षे का ऽनुपपत्तिः?+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -1715,7 +1748,10 @@ How (it may be asked) can objects, past and future, which are non-existent, come
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च, यथा दवीयसि देशे सता ध्रुव-शिंशुमारादिना दृक्तु सन्निकृष्यते, तथा दवीयसि काले सता कल्पाद्य्-अन्त-वर्तिना स्वयम्भुवादिनेति नालोकं किञ्चित् ।
+किञ्च, यथा दवीयसि देशे सता  
+ध्रुव-शिंशुमारादिना दृक् तु सन्निकृष्यते,  
+तथा दवीयसि काले सता कल्पाद्य्-अन्त-वर्तिना स्वयम्-भुवादिनेति  
+नालोकं किञ्चित् । +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -1742,8 +1778,10 @@ Just as the eye comes into contact with the Dhruva and Simsumàra[^118_190] mand
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-1.34 नातीतानागते बुद्धेर् दूरे भवितुम् अर्हतः ।  
-बुद्ध्या प्रकाशमानत्वाद् बुद्धि-बोद्धृ-स्वरूप-वत् ॥
+1.34 नातीतानागते बुद्धेर्  
+दूरे भवितुम् अर्हतः ।  
+बुद्ध्या प्रकाशमानत्वाद्  
+बुद्धि-बोद्धृ-स्वरूपवत् ॥
 </details>
 
 <details><summary>English</summary>
@@ -1763,6 +1801,7 @@ Just as the eye comes into contact with the Dhruva and Simsumàra[^118_190] mand
 इदानीम् बुद्ध्य्-अपेक्षादूरत्वम् एव नेत्य् आहऽ **नातीते** इति । बुद्ध्य्-अदूरत्वम् एव बुद्धि-सन्निकर्षो बोध्य-बोध-बोद्धृ-साधारण इति तु सिद्धान्तः ॥ ३४ ॥
 </details>
 
+### अन्तरालाग्रहणोपपत्तिः
 <details><summary>विषयः</summary>
 
 The non-apprehension of intervening space explained.
@@ -1771,7 +1810,8 @@ The non-apprehension of intervening space explained.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं च चैतन्यस्य निरतिशय-वेगितयान्तराल-देश-कालाग्रहणाभिमानो ऽलात-चक्र-गत-क्रम-वद्-देश-भेद-संयोग-विभागाग्रहणाभिमान-वत् ।
+एवं च चैतन्यस्य निरतिशय-वेगितया ऽन्तराल-देश-कालाग्रहणाभिमानो  
+ऽलात+++(=उल्मुक)+++-चक्र-गत-क्रम-वद् देश-भेद-संयोग-विभागाग्रहणाभिमानवत् ।
 </details>
 
 <details><summary>English</summary>
@@ -1786,7 +1826,10 @@ The non-apprehension of intervening space explained.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च इन्द्रिय-लिङ्ग-संस्कारादेर् यद्-अर्थ-प्रतिनियतं रूपम्, तेनैवोपश्लिष्य निस्सरच् चैतन्यम् अपि तद्-गोचरेणैव सन्निकृष्टते; यथा गवादि-पद-शक्तिर् एक-बुद्धि-सिद्धे ऽपि सामान्य-विशेषात्मके वस्तुनि सामान्यांशेनैव सम्बध्यते, यथा वा विधिः प्राप्तांश-परिहारेणाप्राप्तांशम् एव भावनायाः स्पृशति ।
+अपि च इन्द्रिय-लिङ्ग-संस्कारादेर् यद्-अर्थ-प्रतिनियतं रूपम्,  
+तेनैवोपश्लिष्य निस्सरच् चैतन्यम् अपि  
+तद्-गोचरेणैव सन्निकृष्यते;  
+यथा गव्-आदि-पद-शक्तिर् एक-बुद्धि-सिद्धे ऽपि सामान्य-विशेषात्मके वस्तुनि सामान्यांशेनैव सम्बध्यते, यथा वा विधिः प्राप्तांश-परिहारेणाप्राप्तांशम् एव भावनायाः स्पृशति ।
 </details>
 
 <details><summary>English</summary>
@@ -1801,7 +1844,7 @@ Besides, consciousness, proceeding outward having come into association with tha
 
 <details><summary>मूलम्</summary>
 
-अपि चेन्द्रियलिङ्गसंस्कारादेर्यदअर्थप्रतिनियतं रूपम्, तैनैवोपश्लिष्य निस्सरच्चैतन्यमपि तद्गोचरेणैव सन्निकृष्टते ; यथा गवादिपदशक्तिरेकबुद्धिसिद्धेऽपि सामान्यविशेषात्मके वस्तुनि सामान्यांशेनैव सम्बध्यते, यथा वा विधिः प्राप्तांशपरिहारेणाप्राप्तांशमेव भावनायाः स्पृशति ।
+अपि चेन्द्रियलिङ्गसंस्कारादेर्यदअर्थप्रतिनियतं रूपम्, तैनैवोपश्लिष्य निस्सरच्चैतन्यमपि तद्गोचरेणैव सन्निकृष्यते ; यथा गवादिपदशक्तिरेकबुद्धिसिद्धेऽपि सामान्यविशेषात्मके वस्तुनि सामान्यांशेनैव सम्बध्यते, यथा वा विधिः प्राप्तांशपरिहारेणाप्राप्तांशमेव भावनायाः स्पृशति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
