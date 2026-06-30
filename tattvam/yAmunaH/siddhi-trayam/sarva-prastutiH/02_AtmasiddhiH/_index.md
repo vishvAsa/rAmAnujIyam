@@ -1144,10 +1144,10 @@ Though the soul is selfluminous, there is need of scripture to make its nature c
 अन्याश् च ऽजानात्य् एव अयं पुरुषः, ज्ञातव्यं तु न वेद ऽ इत्याद्याः सकल-करणोपरम-दशायाम् अप्य् आत्मनः प्रबोधम् अभिदधानाः श्रुतयो बोध-स्वभावताम् अस्य द्रढयन्ति ।
 </details>
 
-<summary>English</summary>
+<details><summary>English</summary>
 
 [[P130]] And other texts like the following- "The puruşa does know things, but he fails to know what he ought to understand"—which declare that even in the state when all the senses are destroyed knowledge belongs to the soul strongly affirm that knowledge belongs to the soul.
-</summary>
+</details>
 
 <details><summary>मूलम्</summary>
 
