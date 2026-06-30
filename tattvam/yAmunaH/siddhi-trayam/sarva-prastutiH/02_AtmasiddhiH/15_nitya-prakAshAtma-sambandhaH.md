@@ -1826,15 +1826,33 @@ The non-apprehension of intervening space explained.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च इन्द्रिय-लिङ्ग-संस्कारादेर् यद्-अर्थ-प्रतिनियतं रूपम्,  
+अपि चेन्द्रिय-लिङ्ग-संस्कारादेर् यद्-अर्थ-प्रतिनियतं रूपम्,  
 तेनैवोपश्लिष्य निस्सरच् चैतन्यम् अपि  
 तद्-गोचरेणैव सन्निकृष्यते;  
-यथा गव्-आदि-पद-शक्तिर् एक-बुद्धि-सिद्धे ऽपि सामान्य-विशेषात्मके वस्तुनि सामान्यांशेनैव सम्बध्यते, यथा वा विधिः प्राप्तांश-परिहारेणाप्राप्तांशम् एव भावनायाः स्पृशति ।
 </details>
 
 <details><summary>English</summary>
 
-Besides, consciousness, proceeding outward having come into association with that form of the different senses, reasons *(hetu*) and impressions (samskāras) which is invariably related to their respective objects, gets into contact with those objects only which are respectively related to these (i.e., the senses, etc.); just as the significatory potency of words, such as the cow is related only to the universal aspect (of things), even though on hearing a word, like the cow, an object constituted of universal and particular features presents itself in a single cognition or just as the vedic injunction deals only with that aspect of the *bhavana* which is unknown, having neglected the part already known.[^119_191a]
+Besides, consciousness, proceeding outward having come into association with that form of the different senses, reasons *(hetu*) and impressions (samskāras) which is invariably related to their respective objects, gets into contact with those objects only which are respectively related to these (i.e., the senses, etc.); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि चेन्द्रियलिङ्गसंस्कारादेर्यदअर्थप्रतिनियतं रूपम्, तैनैवोपश्लिष्य निस्सरच्चैतन्यमपि तद्गोचरेणैव सन्निकृष्यते ; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा गव्-आदि-पद-शक्तिर् एक-बुद्धि-सिद्धे ऽपि  
+सामान्य-विशेषात्मके वस्तुनि सामान्यांशेनैव सम्बध्यते,  
+यथा वा विधिः प्राप्तांश-परिहारेणाप्राप्तांशम् एव भावनायाः स्पृशति ।
+</details>
+
+<details><summary>English</summary>
+
+just as the significatory potency of words, such as the cow is related only to the universal aspect (of things), even though on hearing a word, like the cow, an object constituted of universal and particular features presents itself in a single cognition or just as the vedic injunction deals only with that aspect of the *bhavana* which is unknown, having neglected the part already known.[^119_191a]
 </details>
 
 <details><summary>English - Notes</summary>
@@ -1844,12 +1862,13 @@ Besides, consciousness, proceeding outward having come into association with tha
 
 <details><summary>मूलम्</summary>
 
-अपि चेन्द्रियलिङ्गसंस्कारादेर्यदअर्थप्रतिनियतं रूपम्, तैनैवोपश्लिष्य निस्सरच्चैतन्यमपि तद्गोचरेणैव सन्निकृष्यते ; यथा गवादिपदशक्तिरेकबुद्धिसिद्धेऽपि सामान्यविशेषात्मके वस्तुनि सामान्यांशेनैव सम्बध्यते, यथा वा विधिः प्राप्तांशपरिहारेणाप्राप्तांशमेव भावनायाः स्पृशति ।
+यथा गवादिपदशक्तिरेकबुद्धिसिद्धेऽपि सामान्यविशेषात्मके वस्तुनि सामान्यांशेनैव सम्बध्यते, यथा वा विधिः प्राप्तांशपरिहारेणाप्राप्तांशमेव भावनायाः स्पृशति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत इन्द्रियादि-द्वारेण चैतन्यं तद्-अर्थाभिमुखं निर्गच्छतीति न्याय्यम् ।
+अत इन्द्रियादि-द्वारेण चैतन्यं  
+तद्-अर्थाभिमुखं निर्गच्छतीति न्याय्यम् ।
 </details>
 
 <details><summary>English</summary>
@@ -1862,9 +1881,15 @@ Therefore, here it is legitimate to maintain that consciousness, proceeds throug
 अत इन्द्रियादिद्वारेण चैतन्यं तदअर्थाभिमुखं निर्गच्छतीति न्याय्यम् ।
 </details>
 
+### शास्त्रोक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा ऽह भगवान् " तद् अस्य हरति प्रज्ञां वायुर् नावम् इवाम्भसि " इति ।
+यथा ऽह भगवान् 
+
+> " तद् अस्य हरति प्रज्ञां  
+वायुर् नावम् इवाम्भसि " 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -1884,7 +1909,14 @@ To this effect the Adorable Kṛṣṇa says, "It (the manas) forcibly drags con
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मनुश् च, " इन्द्रियाणां हि सर्वेषां यद् एकं क्षरतीन्द्रियम् । तेनास्य क्षरति प्रज्ञा दृतेः पादाद् इवोदकम् ॥ " इति ।
+मनुश् च, 
+
+> " इन्द्रियाणां हि सर्वेषां  
+यद् एकं क्षरतीन्द्रियम् ।  
+तेनास्य क्षरति प्रज्ञा  
+दृतेः पादाद् इवोदकम् ॥ " +++(5)+++
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -1902,6 +1934,7 @@ And Manu says, "From among the several senses even if one sense organ were to pr
 मनुश्च, " इन्द्रियाणां हि सर्वेषां यद्येकं क्षरतीन्द्रियम् । तेनास्य क्षरति प्रज्ञा दृतेः पादादिवोदकम् ॥ " इति ।
 </details>
 
+### नाधार-हानम्
 <details><summary>विषयः</summary>
 
 The objection that consciousness as a quality cannot leave its substrate and proceed elsewhere answered
@@ -1910,7 +1943,10 @@ The objection that consciousness as a quality cannot leave its substrate and pro
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् तु गुणश् च चैतन्यं गुणिनम् अपहाय कथम् अन्यतो यातीति; तद् अयुक्तम्, प्रहाणानभ्युपगमात् ।
+यत् तु गुणश् च चैतन्यं  
+गुणिनम् अपहाय  
+कथम् अन्यतो यातीति;  
+तद् अयुक्तम्, प्रहाणानभ्युपगमात् ।
 </details>
 
 <details><summary>English</summary>
@@ -1925,7 +1961,9 @@ The objection that consciousness as a quality cannot leave its substrate and pro
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्रहायैवात्मानम् इतस् ततश् चेतना इन्द्रियादि-द्वारान् निश्चरति ।
+अ-प्रहायैवात्मानम्  
+इतस् ततश् चेतना  
+इन्द्रियादि-द्वारान् निश्चरति ।
 </details>
 
 <details><summary>English</summary>
@@ -1940,7 +1978,8 @@ Consciousness proceeds hither and thither by way of the senses without ever leav
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विच्छिन्नायाश् च तस्याः सन्धानासम्भवः शास्त्र एवोक्तः ।
+विच्छिन्नायाश् च तस्याः सन्धानासम्भवः  
+शास्त्र एवोक्तः ।
 </details>
 
 <details><summary>English</summary>
@@ -1953,9 +1992,12 @@ That its reunion (with the self) would become impossible were it to lose contact
 विच्छिन्नायाश्च तस्याः सन्धानासम्भवः शास्र एवोक्तः ।
 </details>
 
+#### गुण-निष्क्रम-सम्भवः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
- दृश्यन्ते च गुणा अपि शब्द-गन्ध-सूर्यालोक-रत्न-प्रभादयो गति-मन्तो धर्म्य्-अतिवर्तिनश् च ।
+दृश्यन्ते च गुणा अपि  
+शब्द-गन्ध-सूर्यालोक-रत्न-प्रभादयो गति-मन्तो  
+धर्म्य्-अतिवर्तिनश् च ।
 </details>
 
 <details><summary>English</summary>
@@ -1970,7 +2012,7 @@ That its reunion (with the self) would become impossible were it to lose contact
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतिसूक्ष्मो दूर-गमन-धर्मा भौतिको हि शब्दः ।
+अतिसूक्ष्मो दूर-गमन-धर्मा भौतिको हि शब्दः ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -1983,17 +2025,18 @@ Indeed, sound (*sabda*) is exceedingly subtle and elemental, and has the quality
 अतिसूक्ष्मो दूरगमनधर्मा भौतिको हि शब्दः ।
 </details>
 
-## शब्दः
+##### शब्दः सर्वत्र?
 <details><summary>विषयः</summary>
 
 The Prabhakara view of sabda refuted-
 </details>
 
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु नभ इव विभुः शब्दो व्यञ्जक-ध्वनि-वशेन प्रादेशिक इव गत्वर इव च उपलभ्यते ।
+> ननु नभ इव विभुः शब्दो  
+व्यञ्जक-ध्वनि-वशेन  
+प्रादेशिक इव, गत्वर इव चोपलभ्यते । +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -2008,7 +2051,9 @@ A possible objection is the following - sabda (sound) is all-pervasive, like eth
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि — शब्दस् सर्व-व्यापी एक-द्रव्य-वर्तित्वे सत्य् आकाश-गुणत्वात् तत्-परिमाण-वत् ।
+तथा हि —  
+शब्दस् सर्व-व्यापी  
+एक-द्रव्य-वर्तित्वे सत्य् आकाश-गुणत्वात्, तत्-परिमाणवत् ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -2021,9 +2066,10 @@ And it may be put in syllogistic form thus-sabda is all-pervasive; for, like the
 तथाहिशब्दः सर्वव्यापी एकद्रव्यवर्तित्वे सत्याकाशगुणत्वात्तपरिमाणवत् ।
 </details>
 
+##### शब्दो वायवीयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मैवम्, अतद्-गुणत्वात् ।
+मैवम्, अ-तद्-गुणत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -2038,7 +2084,8 @@ And it may be put in syllogistic form thus-sabda is all-pervasive; for, like the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वायवीयः शब्दः, तेन नियत-सहोत्पत्तिकत्वात्, तदीय-स्पर्श-वत् ।
+वायवीयः शब्दः,  
+तेन नियत-सहोत्पत्तिकत्वात्, तदीय-स्पर्शवत् ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -2053,7 +2100,9 @@ It really belongs to the air in motion (*vāyu);* for, like touch (sparśa) whic
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यश् च येन द्रव्येण नियत-सहोत्पत्तिर् गुणः स तद्-गुण एव, यथा तथाविधा रूपादयः ।
+यश् च येन द्रव्येण नियत-सहोत्पत्तिर् गुणः  
+स तद्-गुण एव,  
+यथा तथाविधा रूपादयः ।
 </details>
 
 <details><summary>English</summary>
@@ -2083,7 +2132,8 @@ And sound invariably originates along with vayu,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उभयोरपि भेरी-दण्ड-वंश-दलनादि-संयोग-विभाग-जत्व-नियमात् ।
+उभयोर् अपि  
+भेरी-दण्ड-वंश-दलनादि- संयोग-विभाग-जत्व-नियमात् ।
 </details>
 
 <details><summary>English</summary>
@@ -2098,7 +2148,9 @@ in as much as both invariably originate together from the contact of the drumsti
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्पद्यते च शब्दः इन्द्रिय-ग्राह्यत्वे सति गुणत्वात् गन्धादि-वत् ।
+उत्पद्यते च शब्दः  
+इन्द्रिय-ग्राह्यत्वे सति  
+गुणत्वात् गन्धादि-वत् ।
 </details>
 
 <details><summary>English</summary>
@@ -2111,6 +2163,7 @@ Besides, sabda does originate; for, like smell, it is grasped by the senses and 
 उत्पद्यते च शब्दः इन्द्रियग्राह्यत्वे सति गुणत्वात्गन्धादिवत् ।
 </details>
 
+##### शब्दः कृतकः
 <details><summary>विषयः</summary>
 
 The Prabhakara view that object is manifested without the relation of consciousness
@@ -2120,7 +2173,8 @@ The Prabhakara view that object is manifested without the relation of consciousn
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृतकश् च, क्रियोत्तरम् एवोपलभ्यत्वात् संयोगादि-वत् ।
+कृतकश् च,  
+क्रियोत्तरम् एवोपलभ्यत्वात् संयोगादिवत् ।
 </details>
 
 <details><summary>English</summary>
@@ -2133,9 +2187,10 @@ The Prabhakara view that object is manifested without the relation of consciousn
 कृतकश्च, क्रियोत्तरमेवोपलभ्यत्वात्संयोगादिवत् ।
 </details>
 
+###### न कारणानि व्यञ्जकानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चाभिव्यञ्जकत्वं प्रयत्नादेः कल्प्यम्, गौरवात् ।
+न च +++(शब्द→)++++अभिव्यञ्जकत्वं प्रयत्नादेः कल्प्यम्, गौरवात् ।
 </details>
 
 <details><summary>English</summary>
@@ -2150,7 +2205,8 @@ Nor can it be fancied that human effort and the like are merely aids to the mani
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्-प्रतीति-कारणत्व-कल्पनादपि तत्-कारणत्व-कल्पनैव हि लघ्वी ।
+तत्-प्रतीति-कारणत्व-कल्पनाद् अपि  
+तत्-कारणत्व-कल्पनैव हि लघ्वी ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -2165,7 +2221,9 @@ Indeed, rather than assuming that they are the cause of the manifestation of sou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभिव्यञ्जकाश् च एक-देशावस्थितानेकेन्द्रिय-ग्राह्याणि युगपद् अभिव्यञ्जन्ति, यथा प्रदीपो रूप-सङ्ख्या-परिमाणानि करकादींश् च एक-प्रदेश-वर्तिनः ।
+अभिव्यञ्जकाश् च  
+एक-देशावस्थितानेकेन्द्रिय-ग्राह्याणि युगपद् अभिव्यञ्जन्ति,  
+यथा प्रदीपो रूप-सङ्ख्या-परिमाणानि करकादींश् चैक-प्रदेश-वर्तिनः ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -2180,7 +2238,7 @@ Whatever serves as a manifester reveals simultaneously everything which resides 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चैवं ताल्वादि-संयोग-विभाग-जनित-पवन इति नासौ व्यञ्जकः ।
+न चैवं ताल्व्-आदि-- संयोग-विभाग-जनित-पवन इति नासौ व्यञ्जकः ।
 </details>
 
 <details><summary>English</summary>
