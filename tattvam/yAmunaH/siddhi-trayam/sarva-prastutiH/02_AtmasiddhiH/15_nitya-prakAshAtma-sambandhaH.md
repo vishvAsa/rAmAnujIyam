@@ -2275,7 +2275,7 @@ The Prabhakara view that object is manifested without the relation of consciousn
 ###### न कारणानि व्यञ्जकानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च +++(शब्द→)++++अभिव्यञ्जकत्वं प्रयत्नादेः कल्प्यम्, गौरवात् ।
+न च +++(पूर्ववर्ति-शब्द→)++++अभिव्यञ्जकत्वं प्रयत्नादेः कल्प्यम्, गौरवात् ।
 </details>
 
 <details><summary>English</summary>
@@ -2335,7 +2335,7 @@ Whatever serves as a manifester reveals simultaneously everything which resides 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चैवं ताल्व्-आदि-- संयोग-विभाग-जनित-पवन इति नासौ व्यञ्जकः ।
+न चैवं +++(सर्व-शब्द-व्यञ्जकः)+++ ताल्व्-आदि-- संयोग-विभाग-जनित-पवन इति नासौ व्यञ्जकः ।
 </details>
 
 <details><summary>English</summary>
@@ -2348,3 +2348,493 @@ In as much as the air in motion produced by the conjunction and disjunction of t
 न चैवं ताल्वादिसंयोगविभागजनितपवन इति नासौ व्यञ्जकः ।
 </details>
 
+###### नित्यत्वे न श्रावणाश्रावण-हेतुः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.35 नित्यत्व-वादिनः शब्दा  
+निर्भाग-व्योम-वर्तिनः ।  
++++(अश्रावणाः,)+++ श्रावणाश् चेत्य् अभिव्यक्ति-  
+नियमे नास्ति कारणम् ॥
+</details>
+
+<details><summary>English</summary>
+
+1.35 He who maintains that sound is eternal cannot give a reason for certain sounds being manifested while other sounds are not; because sound dwells in partless ether and is the object of the auditory sense.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.35 नित्यत्ववादिनः शब्दा निर्भागव्योगमवर्तिनः ।  
+श्रावणाश्चेत्यभिव्यक्तिनियमे नास्ति कारणम् ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+व्यञ्जकत्वे दोषम् एवोपपादयति सार्ध-श्लोकेन ऽ **नित्यत्वे** ऽति । नित्यत्व-वादिन इति षष्ठ्यन्तम् । मते इति शेषः । एकाश्रयकत्वम् एकेन्द्रिय-ग्राह्यत्वं च विशेषण-द्वयेव सूचितम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.36 देशैक्ये ग्राहकैक्ये च  
++++(सर्व-वस्तु-)+++व्यञ्जकैक्यं हि दर्शितम् +++(प्रदीपेन यथा नाना-वस्तूनि)+++।  
+तद्+++(→सर्व-व्यङ्ग्यत्व)+++-अभावात् प्रयत्नोत्थ-  
+मारुतः कारणं ध्वनेः +++(न तु व्यञ्जकम्)+++॥
+</details>
+
+<details><summary>English</summary>
+
+1.36 It has already been pointed out that when the locality (in which objects are apprehended) is one and when the apprehending organ is single, the manifester also must be unitary.  
+Since in the present case the manifester is not unitary, the *vayu* originating from human effort must be the cause (and not the manifester) of sound.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.36 देशैक्ये ग्राहकैक्ये च व्यञ्जकैकं हि दर्शितम् ।  
+तदभावात्प्रयत्नोत्थमारुतः कारणं ध्वनेः ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+तथा चैकोच्चारेणे सर्व-व्यञ्जन-प्रसङ्गो व्यञ्जकत्व-पक्षे इति निगमयति **देशैक्ये** इति । **तदभावा**दिति ।  
+एक-व्यञ्जक-व्यङ्ग्यत्वाभावाद्  
+ध्वनेः वर्णस्योच्चारण-प्रयत्नोत्थितः कोष्ठ्य-मारुतस्  
+ताल्वादि-स्थाने ऽभिघातं प्राप्त उत्पादक एव  
+तस्य तस्य वर्णस्येत्य् अर्थः ।
+</details>
+
+###### नानात्वतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.37 अत एव च नानात्वं  
+प्रत्य्-उच्चारणम् इष्यताम् ।  
+कृतस्य +++(पुनः-)+++कारणायोगाद्,  
+हेतु-पौष्कल्य-भेदतः ॥
+</details>
+
+<details><summary>English</summary>
+
+1.37 That is why a multiplicity of sounds has to be admitted, each act of pronunciation producing a distinct sound. Because what is once produced cannot be created again, and because there is diversity in the complete sets of causal factors, the multiplicity of sounds arising from different acts of pronunciation must be admitted.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.37 अत एव च नानात्वं प्रत्युच्चारणमिष्यताम् ।  
+कृतस्य कारणायोगाद्धेतुपौष्कल्यभेदतः ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+व्यङ्ग्यत्वासम्भवाद्  
+उत्पाद्यत्व-पक्षे प्रसक्तं प्रत्युच्चारणं गकारादेर् भिन्नत्वम् अपि सम्मन्तव्यम् एवेत्याह **अत एवे**ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.38 किञ्चोदात्तानुदात्तत्व-  
+दीर्घत्व-ह्रस्वतादयः ।  
+गादि+++(-शब्द)+++-स्था युगपद् **भान्तो**  
+**न भिन्द्युः** स्वाश्रयान् कथम् ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+1.38 Besides, how can qualities which are known to exist simultaneously in sounds (*varṇa*), such as *ga*-qualities, such as that of possessing the principal accent and the secondary accent, and that of being long and short-fail to differentiate their substrates?
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.38 किञ्चोदात्तानुदात्तत्वदीर्घत्वह्रस्वतादयः ।  
+गादिस्था युगपद्भान्तो न भिन्ध्युः स्वाश्रयान् कथम् ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+विरुद्ध-धर्म-उपलम्भाद् अपि भेदं  
+गादेः साधयति **किञ्चोदात्ते** ऽति ।  
+आदि-पदेन तारत्व-मन्दत्वादि ग्राह्यम् ।  
+एकस्यैव काल-भेदेन विरुद्ध-अन्वय-सम्भवाद् युगपद् भान्त इत्य् उक्तम् । भान्तः भासमानाः ।  
+व्यञ्जकत्वासम्भवाद् एव  
+व्यञ्जक-धर्मा व्यङ्ग्ये समारोप्यन्त इत्य् अपि दुर्वचम् इत्याशयः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.39 स्थानैक्यायात-सादृश्यात्  
++++(गकारादेर् नानात्वेऽपि भिन्न-गकाराणां)+++ प्रत्यभिज्ञा ऽपि न ++++(कारण-)+++ऐक्यतः ।  
+प्रदीप+++(-सदृश-ज्वाला)+++-प्रत्यभिज्ञेव –  
++++(पूर्वमेव)+++ ज्ञापिता भेद-हेतवः ॥
+</details>
+
+<details><summary>English</summary>
+
+1.39 (It cannot be urged that the recognition, namely, 'This is the self-same sound which was met with before' points to the identity of the sound and also to its eternity: for) even this recognition is based on the similarity arising from the source being identical and not on the identity of the sounds themselves;  
+even as the recognition of the flame (as self-identical is based on the similarity of the flame-series, and not on identity). The reasons which prove sound to be diverse have already been adduced.
+</details>
+
+<details><summary>मूलम्</summary>
+
+1.39 स्थानैक्यायातसादृश्यात् प्रत्यभिज्ञाऽपि नैक्यतः ।  
+प्रदीपप्रत्यभिज्ञेव ज्ञापिता भेदहेतवः ॥
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+> ननु सो ऽयं गकार इत्यादि-प्रत्यभिज्ञा  
+कथं प्रत्युच्चारणं भेदे ?  
+
+तत्राह **स्थानैक्ये**ति ।  
+सादृश्य-मूलत्वाद् भ्रान्ति-रूपा सेति भावः ॥ ३५ ॥ ३६ ॥ ३७ ॥ ३८ ॥ ३९ ॥
+
+एवं नित्यत्व-विभुत्व-प्रतिक्षेपेण वायवीय-गुणत्वं व्यवस्थापितं युक्त्या शब्दस्य विसृत्वरत्वं च ।  
+आत्म-गुणस्य चैतन्यस्यान्यत्र सम्बन्ध-मात्रे दृष्टान्तः शब्दो गन्धश् च ।  
+आश्रयम् अन्तरा अन्यत्र गमने दृष्टान्तः सूर्य-आलोको मणि-प्रभा च ।  
+द्रव्य-रूपत्वाद् अन्यत्र गमनं सम्भवति । आश्रय-सम्बन्ध-अविच्छेदात् तद्-धर्मत्वं च सुस्थितम् इति प्रघट्टकार्थः ।
+</details>
+
+### सम्बन्धं विना व्यवहारानुगुण्यम्?
+#### प्रकाशश् चैतन्य-संयोगो न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नन्व् एवं चैतन्य-संयोगः, संयोग-जो वा कश्चित् प्रकाशः प्राप्तः ।
+</details>
+
+<details><summary>English</summary>
+
+[[P122]] The following objection may now be raised: -(The upshot of the discussion is) *prakāśa* is either the conjunction of consciousness (with the object) or some peculiar property resulting from this (conjunction).
+</details>
+
+<details><summary>मूलम्</summary>
+
+नन्वेवं चैतन्यसंयोगः, संयोगजो वा कश्चित्प्रकाशः प्राप्तः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+एवम् अर्थ-सम्बन्धश् चैतन्यस्योक्तः । प्रकाशते-व्यवहारश् च चैतन्य-सम्बन्ध-प्रयुक्त इत्य् अभिप्रेतम् । अत्र प्राभाकरः शङ्कते ऽ **नन्वेव** ऽ म् इति । चैतन्य-संयोगस्य प्रकाशमानता-व्यवहार-नियामक-त्वे चैतन्ये तद्-आश्रये तद्-आश्रये च तद्-व्यवहार-ानुपपत्तिः । चैतन्य-समवायस्य तथात्वे च चैतन्य-तद्-विषययोर् तद्-व्यवहार-ानुपपत्तिः । चैतन्य-सम्बन्ध-मात्रस्य तथात्वे च इन्द्रियादेर् अपि प्रकाश-प्रसङ्गः । अतो [[निमित्तविसेषादेव|निमित्त-विशेषाद् एव]] तत्तज्-ज्ञानस्य तत्तद्-अर्थ-व्यवहार-हेतुत्वं स्वभावतश् च स्व-स्वाश्रय-व्यवहार-हेतुत्वम् एष्टव्यम् इत्य् अनर्थकम् [[अनर्थकमर्तचैतन्य|अतश् चैतन्य]]-सम्बन्ध-कल्पनम् इति समुदिताशयः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उभयम् अपि तन् न चैतन्ये सम्भवति,  भेदापेक्षत्वात् सम्बन्धस्य ।
+</details>
+
+<details><summary>English</summary>
+
+But in regard to the manifestation of consciousness neither of these alternatives holds; for relation always pre-supposes difference in the relata. Therefore, consciousness cannot enter into relation with consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उभयपि तन्न चैतन्ये सम्भवति, भेदापेक्षत्वात्सम्बन्धस्य ।
+</details>
+
+#### नात्म-चैतन्य-संयोगः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मनो ऽपि न चैतन्येन संयोगः,  
+तद्-धर्मित्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+This conjunction with consciousness cannot occur to the soul either; for the latter is the substrate of the quality, namely, consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मनोऽपि न चैतन्येन संयोगः, तद्धर्मित्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि धर्म-धर्मिणोः सम्बन्धः संयोगः ।
+</details>
+
+<details><summary>English</summary>
+
+In fact, the relation between the attribute and its substrate is not the relation of *samyoga* (conjunction);
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि धर्मधर्मिणोः सम्बन्धः संयोगः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समवायो हि सः ;  
+अ-युत-सिद्ध-सम्बन्धत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+but really, it is *samavaya* (inherence); for it is of the nature of the relation existing between inseparable entities.
+</details>
+
+<details><summary>मूलम्</summary>
+
+समवायो हि सः ; अयुतसिद्धसम्बन्धत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संयोगस् तु पृथक्-सिद्धयोर् द्रव्ययोः क्रिया-निमित्ता प्राप्तिः,  
+अ-कार्य-कारणयोर् वा तयोर् +++(पृथक्-सिद्धयोर्)+++ निरन्तर-स्थितिः ।
+</details>
+
+<details><summary>English</summary>
+
+*Samyoga* (conjunction), on the contrary, is either the coming into relation of two objects well-known to be disparate, a relation dependent upon activity, or the closely contiguous existence of the aforesaid objects, which do not stand to each other in the relation of cause and effect.
+</details>
+
+<details><summary>मूलम्</summary>
+
+संयोगस्तु पृथक्सिद्धयोर्द्रव्ययोः क्रियानिमित्ता प्राप्तिः, अकार्यकारणयोर्वा तयोर्निरन्तरस्थितिः ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+विभु-द्वयस्य संयोगो ऽस्तीति पक्षे क्रियाया अभावात् तत्र संयोगं प्रकारान्तरेण निर्वक्ति ऽ **अकार्ये** ऽति । अवयव-अवयवि-भिन्नयोर् द्रव्ययोर् अन्तरालाव्यवहित-स्थितिः संयोग इत्य् अर्थः । स च अविभौ क्रियया ।  
+विभ्वोस् तु स्वत एवेति भावः । अर्थ-सम्बन्धस्य निरासाद् एव तज्-जन्य-धर्मान्तर-प्रकाश-पक्षो निरस्तः ।
+</details>
+
+#### शरीरादि-संयोगे किम्?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चैतन्य-संयोग-समवाययोर् अन्यतरस्य, सम्बन्ध-मात्रस्य वा प्रकाशत्वे  
+ज्ञातृ-ज्ञान-ज्ञेय-शरीरेन्द्रियेष्व् अव्याप्त्य्-अतिव्याप्ती यथा-योगम् आदर्शयितव्ये  
++++(न सर्वेऽपीमे प्रकाशन्तय् इति)+++।
+</details>
+
+<details><summary>English</summary>
+
+(In order to obviate this difficulty), if *prakāŝa* is taken either as one of these relations, namely, conjunction or inherence of consciousness with objects or any one of the other possible relations of consciousness to objects, then the defects of (such a definition) being too narrow (*avyāpti)* or too broad *(ativyāpti*) may be cited, according to the circumstance of each case, in respect of the knower, knowledge, the known, the body and the senses.
+</details>
+
+<details><summary>मूलम्</summary>
+
+चैतन्यसंयोगसमवाययोरन्यतरस्य, सम्बन्धमात्रस्य वा प्रकाशत्वे ज्ञातृज्ञानज्ञेयशरीरेन्द्रियेष्वव्याप्त्यतिव्याप्ती यथायोगमादर्शयितव्ये ।
+</details>
+
+
+#### न तत्त्वान्तरम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्त्वान्तर+++(-रूप)+++-प्रकाशाभ्युपगमस् त्व् अनुपलब्धि-बाधितो  
+न दूषणान्तरं प्रयोजयति ।
+</details>
+
+<details><summary>English</summary>
+
+The admission of prakasa as a separate entity, having been effectively discredited by non-perception *(anupalabdhi*) does not call forth any other adverse comment.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्त्वान्तरप्रकाशाभ्युपगमस्त्वनुपलब्धिबाधितो न दूषणान्तरं प्रयोजयति ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+धर्मान्तर-प्रकाशे ऽनुपलब्धि-बाधम् अप्य् आह ऽ **तत्त्वान्तरे** ऽति ।
+</details>
+
+#### ज्ञानम् प्रकाशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो यद्-व्यवहारोदयानुगुणं ज्ञानम्,  
+तत् प्रकाशत इत्य् एवाभ्युपगमो युक्तः ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, it is but proper to admit the following that entity concerning which there arises knowledge capable of initiating a thought and discussion of it may be spoken of as being manifested.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो यद्व्यवहारोदयानुगुणं ज्ञानम्, तत्प्रकाशत इत्येवाभ्युपगमो युक्तः ।
+</details>
+
+#### प्रकाश-वैरूप्यं सङ्गतम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रितय-व्यवहारानुगुण्यं संविदस् तु स्वभाव  
+इत्य् अपर्यनुयोज्यं निमित्त-वैरूप्यम् ।  
+न हि स्वभावाः पर्यनुयोगम् अर्हन्ति ।
+</details>
+
+<details><summary>English</summary>
+
+As the tendency to initiate thought and discussion regarding all these three (i. e., knowledge, the knower and the known) is an essential feature of consciousness, the diversity in the manner in which the cause (i.e., consciousness) operates (in these three cases) cannot be raised as an objection. It cannot be asked why such and such a nature belongs to such and such an object.
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रितयव्यवहारानुगुण्यं संविदस्तु स्वभाव इत्यपर्यनुयोज्यं निमित्तवैरूप्यम् । न हि स्वभावाः पर्यनुयोगमर्हन्ति ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+**अपर्यनुयोज्य**म् इति ।  
+स्वयम् एव स्वस्य व्यवहार-हेतुः, स्व-आश्रयस्य स्व-समवायात्, विषयस्य तु स्व-निमित्तानुसारता इति प्रयोजक-वैषम्यं न दूषणावहम् इत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं चेत्  
++++(साक्षाच्-चैतन्य-)+++ संयोग-समवाय-विरहिणो ऽपि पदार्थस्य  
+निमित्त-भेदानुसारेण व्यवहार-हेतुः संविद्  
+इति युक्तम् आश्रयितुम् ।
+</details>
+
+<details><summary>English</summary>
+
+[[P123]] If so  
+(i.e., if the tendency to initiate thought and discussion regarding all the three is an essential quality of knowledge,  
+the difficulty raised on p. 104, namely,  
+How can knowledge which is inherent in the soul generate in the object,  
+which is unrelated to it, a *prakāsa* or discussion?)  
+may be sought to be overcome by the suggestion that knowledge may, with the aid of various operating causes (such as the senses), be responsible for *vyavahāra* concerning the object, even though the latter be devoid of any relation (to consciousness), whether it be conjunction (samyoga) or inherence (samavāya).
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं चेत्संयोगसमवायविरहिणोऽपि पदार्थस्य निमित्तभेदानुसारेण व्यवहारहेतुः संविदिति युक्तमाश्रयितुम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(इति प्राभाकर-मते भाट्टस्यापि प्रत्यवस्थानम्)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(इति प्राभाकरमते भाट्टस्यापि प्रत्यवस्थानम्)
+</details>
+
+### स्व-निमित्त–स्व-कार्ययोर् असम्बन्धः
+<details><summary>विषयः</summary>
+
+The Prabhakarā view refuted
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उच्यते । उक्तम् अत्र,  
+
+> न +++(स्व-)+++निमित्त-कारणम् अनुरुध्य  
+कार्यं स्व-कार्यम् आरभत 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+(To this it is replied) it has already been shown (vide p. 104) that an entity does not enter on its own activities by depending on its efficient cause.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उच्यते । उक्तमत्र, न निमित्तकारणमनुरुध्य कार्यं स्वकार्यमारभत इति ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+गुरु-मते ऽप्युक्ते दोषम् आह विमर्शकः ऽ **उच्यते** ऽ इति । स्व-निमित्त-कारण-वत्य् एव देशे स्व-कार्य-जनकत्वम् अदृष्टम् अन्यत्रेति [[इन्द्रियसन्निकर्षवत्येवअर्थेज्ञानेन|इन्द्रिय-सन्निकर्ष-वत्य् एवार्थे ज्ञानेन]] व्यवहारो निष्पाद्यत इति न सम्यग्य् इति भावः ।
+</details>
+
+### व्यवहारानुगुण-संवित्त्वे
+#### प्रकाशे वैरूप्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यवहारानुगुण-संवेदनत्वे ऽपि  
++++(ज्ञातृ-ज्ञान-ज्ञेयेषु)+++ प्रकाश-पदार्थे प्रवृत्ति-निमित्त-भेदो दुष्परिहर एव -
+</details>
+
+<details><summary>English</summary>
+
+If the term prakasa were to signify knowledge conducive to thought and discussion (vyavahārānuguṇa *samvedana*), then, the diversity in the significance *(pravṛttinimittabheda*) suggested by this term cannot be got over.
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्यवहारअनुगुणसंवेदनत्वेऽपि प्रकाशपदार्थे प्रवृत्तिनिमित्तभेदो दुष्परिहर एव ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+दूषणान्तरम् अप्य् आह ऽ **व्यवहारे** ऽति । ज्ञातृ-ज्ञेययोः स्व-व्यवहार-ानुगुण-ज्ञानकत्व-लक्षणः प्रकाशः ।  
+ज्ञानस्य तु स्व-व्यवहार-ानुगुण-ज्ञानत्व-लक्षणः स  
+इति त्रिष्व् अनुगतः प्रकाश-पदार्थो नास्त्य् अनुगत-व्यवहार-नियामक  
+इत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(व्यवहारानुगुणं संवेदनम् यस्य स प्रकाश इति)+++ बहुव्रीहि-समासाश्रयणे  
+संविद्-अन्तराभावेन  
+तस्यां +++(संविदि)+++ तद्+++(→संवेदनान्तर)+++-अभाव-प्रसङ्गात् ।
+</details>
+
+<details><summary>English</summary>
+
+If the expression vyavahāranuguṇa-samvedana is taken as a *bahuvrihi* compound (i.e., if it denotes that which possesses knowledge conducive to vyavahāra), prakāśa would have to be denied to consciousness; for there is no knowledge (which this knowledge may be said to possess).
+</details>
+
+<details><summary>मूलम्</summary>
+
+बहुव्रीहिसमासाश्रयणे संविदन्तराभावेन तस्यां तदभावप्रसङ्गात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(व्यवहारानुगुणं संवेदनम् प्रकाश इति)+++ कर्म-धारयाश्रयणे ज्ञातृ-ज्ञेययोर् अ-संवेदनत्वेनाप्रकाश-प्रसङ्गः +++(ज्ञातृ-ज्ञेययोः)+++।
+</details>
+
+<details><summary>English</summary>
+
+If the expression is taken as a karmadhāraya compound (i.e., if it denotes the character of being knowledge conducive to vyavahāra), prakāśa would have to be denied to the knower and the known: for they do not possess the character of being knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्मधारयाश्रयणे ज्ञातृज्ञेययोर्असंवेदनत्वेनाप्रकाशप्रसङ्गः ।
+</details>
+
+#### विदितत्व-प्राग्-भावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यवहारोदयानुगुण्यं च  
+व्यवहारतो ऽवगन्तव्यम् ।  
+ततः प्राग् एव च भवति  
+विदितत्व-प्रतीतिर् व्याहारश् च ।
+</details>
+
+<details><summary>English</summary>
+
+And the character of being conducive to the starting of an action is to be ascertained from the action itself; but, prior to an action there is the knowledge (prakāsa) that the object concerning which there is activity is already cognised and that there is discussion concerning the same.
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्यवहारोदयानुगुण्यं च व्यवहारतोऽवगन्तव्यम् । ततः प्रागेव च भवति विदितत्वप्रतीतिर्व्याहारश्च ।
+</details>
+
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+ननु ज्ञानाधीनं व्यवहार-ानुगुण्यम् एवास्तु प्रकाशः । स च अनुगत इत्य् अत्राह ऽ **व्यवहारोदये** ऽति । व्यवहार-योग्यता-रूप-प्रकाशस्य व्यवहारत एवानुमेयतया व्यवहारात् पूर्वम् एव जायमानौ विदितत्व-प्रतीति-व्यवहाराव अनुपपन्नाव इत्य् अर्थः ।
+</details>
