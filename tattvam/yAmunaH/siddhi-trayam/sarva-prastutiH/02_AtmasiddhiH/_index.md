@@ -11,22 +11,49 @@ title = "+०२ आत्मसिद्धिः"
 
 
 
-## सुखादि
+## सुखाद्य्-आगन्तुकता
 <details><summary>विषयः</summary>
 
 The examples of sukha etc. deduced by the purvapaksin not apposite.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-1.42 स्वरूपोपाधयो धर्मा यावद्-आश्रय-भाविनः ।  
-नैवं सुखादि बोधस् तु स्वरूपोपाधिर् आत्मनः ॥
+यत् तु सुखादि-निदर्शनेन  
+आत्मविशेषगुणतया चितेर् आगन्तुकत्वम् आवादितम्,  
+तद् अपि गुणवृत्तापरिज्ञानेन; यतः -   
 </details>
 
 <details><summary>English</summary>
 
-1.42 Even the charge levelled against us, namely, that consciousness, being a special quality of the soul, must, on the analogy of pleasure *(sukha*) and the like, be an occasional quality proceeds from complete ignorance of the true nature of qualities. For the qualities which are dependent upon the very being of anything will last as long as their substrate lasts; but the knowledge of pleasure and pain is not dependent in this manner upon the very being of the self.
+1.42 Even the charge levelled against us, namely, that consciousness, being a special quality of the soul, must, on the analogy of pleasure *(sukha*) and the like, be an occasional quality proceeds from complete ignorance of the true nature of qualities.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्तु सुखादिनिदर्शनेनात्मविशेषगुणतया चितेरागन्तुकत्वमावादितम्, तदपि गुणवृत्तापरिज्ञानेन; यतः   
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+यत्तु सुखादि-निदर्शनेनात्म-विशेष-गुणतया चितेर् आगन्तुकत्वम् उपपादितम्, तद् अपि गुण-वृत्ता-परिज्ञानेन; यतः अथ यद् बोधस्य स्वाभाविकत्व-प्रतिपक्षतया आगन्तुकत्वम् उक्तम्, तद् अनूद्य प्रतिक्षिपति यत्तु सुखादीति । तद् अपीति । गुण-वृत्तं गुण-स्वभावः । स च कः? । तत्राह स्वरूपोपाधय इति । 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+1.42 स्वरूपोपाधयो धर्मा  
+यावद्-आश्रय-भाविनः ।  
+नैवं सुखादि, बोधस् तु  
+स्व-रूपोपाधिर् आत्मनः ॥
+</details>
+
+<details><summary>English</summary>
+
+For the qualities which are dependent upon the very being of anything will last as long as their substrate lasts;  
+but the knowledge of pleasure and pain is not dependent in this manner upon the very being of the self.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -38,14 +65,13 @@ The examples of sukha etc. deduced by the purvapaksin not apposite.
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-यत्तु सुखादि-निदर्शनेनात्म-विशेष-गुण-तया चितेर् आगन्तुकत्वम् उपपादितम्, तद् अपि गुण-वृत्ता-परिज्ञानेन; यतः
-
-अथ यद् बोधस्य स्वाभाविकत्व-प्रतिपक्षतया आगन्तुकत्वम् उक्तम्, तद् अनूद्य प्रतिक्षिपति यत्तु सुखादीति । तद् अपीति । [[गुणवृत्तङ्गुणस्वभावः|गुण-वृत्तं गुण-स्वभावः]] । स च कः? । तत्राह स्वरूपोपाधय इति । स्वरूपोपाधित्वं स्वरूप-निरूपक-त्वम् । तथा-भूतानां धर्माणां यावद्-आश्रय-भावित्वं स्वभावः । अन्येषां त्व् आगन्तुकत्वम् इति गुण-वृत्तम् । अस्त्व् एवम्, ततः किम्? तत्राह नैवमिति । वैषयिकस्य सुखादेर् आगन्तुकत्वं स्याद् एव । बोधस्य त्व् आत्म-स्वरूप-निरूपक-त्वाद् आत्मनश् च नित्यत्वस्य स्थापयिष्यमाण-त्वान् नागन्तुकत्वं साधयितुं शक्यत इति भावः ॥ ४२ ॥
+स्वरूपोपाधित्वं स्वरूप-निरूपक-त्वम् । तथा-भूतानां धर्माणां यावद्-आश्रय-भावित्वं स्वभावः । अन्येषां त्व् आगन्तुकत्वम् इति गुण-वृत्तम् । अस्त्व् एवम्, ततः किम्? तत्राह नैवमिति । वैषयिकस्य सुखादेर् आगन्तुकत्वं स्याद् एव । बोधस्य त्व् आत्म-स्वरूप-निरूपक-त्वाद् आत्मनश् च नित्यत्वस्य स्थापयिष्यमाण-त्वान् नागन्तुकत्वं साधयितुं शक्यत इति भावः ॥ ४२ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा च बोधोपाधिर् आत्म-भावः, तथोपपादितम् ।
+यथा च बोधोपाधिर् आत्म-भावः,  
+तथोपपादितम् ।
 </details>
 
 <details><summary>English</summary>
@@ -69,9 +95,11 @@ It has already been shown how consciousness is responsible for the self being wh
 यथा चेति । बोधोपाधिरिति बहुव्रीहिः । ज्ञानाभिन्न-स्वरूप-निरूपक-धर्मक आत्म-पदार्थ इत्य् अर्थः । ज्ञान-वत्त्वेनैवोपलभ्यमान-त्व-युक्तया बोधोपाधित्वम् आत्मनः समर्थितम् । विषय-सम्बन्ध-कादाचित्क-त्वाद् विषय-उपरक्त-ज्ञानस्य कादाचित्क-त्व-प्रतीताव् अपि ज्ञान-स्वरूपं नित्यम् एवेति भावः । यद्यपि ज्ञानस्यात्म-स्वभाव-त्वे नित्यत्वे च शास्त्रम् अग्रे प्रमाणीकरिष्यते । अथापि युक्ति-प्रधान-त्वात् प्रकरणस्यास्य युक्तिर् एव पुरस्कृतेति बोध्यम् । अनेन ज्ञानस्यागन्तुकत्वानुमाने [[स्वूरूपनिरूपक|स्वरूप-निरूपक]]-धर्म-भिन्न-त्वम् उपाधिरित्युक्तं भवति ।
 </details>
 
+### इन्द्रिय-धर्मौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुख-दुःखे च नात्म-धर्मौ, इन्द्रिय-सौष्ठव-नाशयोर् एव तद्-भावोपपादनात् ।
+सुख-दुःखे च नात्म-धर्मौ,  
+इन्द्रिय-सौष्ठव-नाशयोर् एव तद्-भावोपपादनात् ।
 </details>
 
 <details><summary>English</summary>
@@ -97,7 +125,8 @@ Pleasure and pain, on the contrary, are not the qualities of the self;[^126_199]
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्याकरिष्यते चैतद् अन्तिम-पदार्थ-समर्थनावसर इति साधन-विकलता च निदर्शनस्य ।
+व्याकरिष्यते चैतद् अन्तिम-पदार्थ-समर्थनावसर इति  
+साधन-विकलता च निदर्शनस्य ।
 </details>
 
 <details><summary>English</summary>
@@ -121,9 +150,10 @@ This point will be further elaborated when establishing that the soul is in its 
 अन्तिमेति । स्वतःसुखीत्य् एतद्-अंश-समर्थन-ावसर इत्य् अर्थः ।
 </details>
 
+### मनो-धर्माः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राग-द्वेषादयो ऽपि मनोZवस्था-विशेषाः न साक्षाद् आत्म-गुणाः ।
+राग-द्वेषादयो ऽपि मनोऽवस्था-विशेषाः न साक्षाद् आत्म-गुणाः ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -147,9 +177,17 @@ This point will be further elaborated when establishing that the soul is in its 
 नन्व् एवम् अपि रागादेर् दृष्टान्तता स्यात्, आत्म-विशेष-गुण-त्वाद् आगन्तुक-त्वाच् चेत्य् अत्राह रागेति । मनोवृत्ति-भेदा रागादयो नात्म-धर्माः । किन्त्व् अग्नि-धर्मस्यौष्ण्यादेस् तत्-संसृष्ट-स्थाल्याम् इव मनो-धर्माणाम् आत्मनि केवलं प्रतीतिः । तथा चोक्तं "निर्वाण-मय एवायम् आत्मा ज्ञान-मयो ऽमलः । दुःख-ाज्ञान-मला धर्माः प्रकृतेस् ते न चात्मनः ॥" इति भावः ।
 </details>
 
+#### शब्द-प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विज्ञायते हि " कामः सङ्कल्पो विचिकित्सा श्रद्धाश्रद्धा धृतिर् अधृतिर् ह्रीर् धीर् भीर् इत्य् एतत् सर्वं मन एवे "ति ।
+विज्ञायते हि 
+
+> "कामः, सङ्कल्पो, विचिकित्सा,  
+श्रद्धाश्रद्धा, धृतिर्, अधृतिर्,  
+ह्रीर् धीर् भीर्  
+इत्य् एतत् सर्वं मन एव "
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -175,7 +213,7 @@ Indeed, it is learnt from the scripture: "Desire, will, doubt, faith, steadfastn
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गीयते च ऽइच्छा द्वेषः सुखं दुःखऽमिति । ऽचेतनाधृतिऽरिति क्षेत्र-लक्षणम् ऐकपद्येन ।
+गीयते च "इच्छा द्वेषः सुखं दुःखम्" इति ।  
 </details>
 
 <details><summary>English</summary>
@@ -190,16 +228,16 @@ This fact has also been stated in the Gita in the verse commencing with the word
 
 <details><summary>मूलम्</summary>
 
-गीयते चऽइच्छा द्वेषः सुखं दुःखऽमिति ।ऽचेतनाधृतिऽरिति क्षेत्रलक्षणमैकपद्येन ।
+गीयते चऽइच्छा द्वेषः सुखं दुःखऽमिति ।
 </details>
 
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-अस्मिन्न् अर्थे भगवद्-वचनम् अपि संवादयति गीयते चेति । क्षेत्र-ाश्रित-त्वाद् अन्तःकरणस्य तद्-धर्मा [[रागदयः|रागादयः]] क्षेत्र-धर्म-त्वेनोक्ताः । नन्व् अत्र चेतनाधृतिरित्य् अपि । पठ्यते । अतो बोधस्यापि नात्म-धर्मत्वम् इत्य् अत्राह चेतनाधृतिरिति । चेतनेति धृतिरिति च न पद-द्वयम् । किन्तु चेतनाधृतिरि ति समस्तम् । चेतनेन, चेतनया वा आधृतिर् यस्येति चेतनाधार्यं नियमतः शरीरम् इति शरीर-लक्ष्मोच्यते ऽत्रेति भावः ।
+अस्मिन्न् अर्थे भगवद्-वचनम् अपि संवादयति गीयते चेति । क्षेत्र-ाश्रितत्वाद् अन्तःकरणस्य तद्-धर्मा रागादयः क्षेत्र-धर्मत्वेनोक्ताः । 
 </details>
 
-## शरीरम्
+##### शरीरम्
 <details><summary>विषयः</summary>
 
 Definition of sarira (body) according to the siddhāntin
@@ -208,7 +246,7 @@ Definition of sarira (body) according to the siddhāntin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चेतनया ध्रियमाणः सङ्घातो हि देहः ।
+"चेतना धृतिर्" इति क्षेत्र-लक्षणम् ऐकपद्येन ।
 </details>
 
 <details><summary>English</summary>
@@ -223,8 +261,25 @@ As the expression cetanadhṛtiḥ (occurring in this stanza) is one word, it is
 
 <details><summary>मूलम्</summary>
 
+ऽचेतनाधृतिऽरिति क्षेत्रलक्षणमैकपद्येन ।
+</details>
+
+<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
+
+नन्व् अत्र चेतनाधृतिरित्य् अपि । पठ्यते । अतो बोधस्यापि नात्म-धर्मत्वम् इत्य् अत्राह चेतनाधृतिरिति । चेतनेति धृतिरिति च न पद-द्वयम् । किन्तु चेतनाधृतिरि ति समस्तम् । चेतनेन, चेतनया वा आधृतिर् यस्येति चेतनाधार्यं नियमतः शरीरम् इति शरीर-लक्ष्मोच्यते ऽत्रेति भावः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चेतनया ध्रियमाणः सङ्घातो हि देहः ।
 </details>
+
+<details><summary>मूलम्</summary>
+
+चेतनया ध्रियमाणः सङ्घातो हि देहः ।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
