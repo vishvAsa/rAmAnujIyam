@@ -246,7 +246,7 @@ Definition of sarira (body) according to the siddhāntin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"चेतना धृतिर्" इति क्षेत्र-लक्षणम् ऐकपद्येन ।
+"चेतना-धृतिर्" इति क्षेत्र-लक्षणम् ऐकपद्येन ।
 </details>
 
 <details><summary>English</summary>
