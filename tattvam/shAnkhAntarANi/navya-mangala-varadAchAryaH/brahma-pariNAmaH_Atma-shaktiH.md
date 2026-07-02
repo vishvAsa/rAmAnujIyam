@@ -1,5 +1,5 @@
 +++
-title = "भेदाभेदः, कालः"
+title = "ब्रह्म-परिणामः, आत्म-शक्तिः"
 +++
 Source: [TW](https://www.youtube.com/watch?v=8JEsyFa978U&t=88s)
 
