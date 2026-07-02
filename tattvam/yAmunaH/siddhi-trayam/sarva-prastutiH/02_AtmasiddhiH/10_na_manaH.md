@@ -1433,7 +1433,7 @@ Moreover, being the common instrument apprehending sound and other qualities, ma
 ### अन्नमयता-श्रुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथाऽम्नायते अन्नमयं हि सोम्य मन इति ।
+… यथाऽम्नायते अन्नमयं हि सोम्य मन इति ।
 </details>
 
 <details><summary>English</summary>
