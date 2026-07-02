@@ -275,6 +275,12 @@ As the expression cetanadhṛtiḥ (occurring in this stanza) is one word, it is
 चेतनया ध्रियमाणः सङ्घातो हि देहः ।
 </details>
 
+<details><summary>English</summary>
+
+The body is, in fact, the collection (of the primal elements) which is supported by consciousness. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 चेतनया ध्रियमाणः सङ्घातो हि देहः ।
@@ -283,12 +289,12 @@ As the expression cetanadhṛtiḥ (occurring in this stanza) is one word, it is
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व-वृत्त्य्-अनुगुण-चैतन्य-मात्रद् एव प्रवर्तमानं क्षेत्रम् इति यावत् ।
+स्व-वृत्त्य्-अनुगुण--चैतन्य-मात्राद् एव प्रवर्तमानं क्षेत्रम् इति यावत् ।
 </details>
 
 <details><summary>English</summary>
 
-The body is, in fact, the collection (of the primal elements) which is supported by consciousness. It amounts to stating that the body is what enters on its activities only with the aid of consciousness appropriate thereto.
+It amounts to stating that the body is what enters on its activities only with the aid of consciousness appropriate thereto.
 </details>
 
 <details><summary>मूलम्</summary>
