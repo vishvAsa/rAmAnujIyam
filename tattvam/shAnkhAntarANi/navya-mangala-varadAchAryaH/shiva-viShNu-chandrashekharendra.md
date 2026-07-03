@@ -35,10 +35,10 @@ HH Kanchi Periaval: “Very well said. Will your sampradaya people accept what y
 
 Sri KSV:
 
-> “I have stated the truth. If they agree it is well and good. If they do not agree, they do not know the truth”. The important information to know is that Shaiva, Vaishnava gAnapatya, Kaumara etc. are mathas. 
+> “I have stated the truth. If they agree it is well and good. If they do not agree, they do not know the truth”. The important information to know is that Shaiva, Vaishnava gAnapatya, Kaumara etc. are matas. 
 > 
 > Mata means that which is related to the human mati, or buddhi or intellect. It is clearly said that the truth (satya) is beyond the grasp of mathi in the Upanishads :
 >
-> Atma is beyond the intellect. Intellect cannot comprehend Atman. Hence, in the past, when people could not maintain their atma-jnana at a high level of the AdhyAtma or Brahman, they had to come down to the level of their intellect. Then came the different mathas such as Vaishnava, Shaiva etc. due to mathi-bheda, difference in intellect.
+> Atma is beyond the intellect. Intellect cannot comprehend Atman. Hence, in the past, when people could not maintain their atma-jnana at a high level of the AdhyAtma or Brahman, they had to come down to the level of their intellect. Then came the different mathas such as Vaishnava, Shaiva etc. due to mati-bheda, difference in intellect.
 
 HH Kanchi Periaval was very happy. Then Sri KSV took leave from the Kanchi Mutt
