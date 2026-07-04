@@ -1215,6 +1215,10 @@ El fruto de su Prapatti **estaba lleno** y **completo**.
 
 [[P2821]]
 
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
 ""
 ""
 ""
