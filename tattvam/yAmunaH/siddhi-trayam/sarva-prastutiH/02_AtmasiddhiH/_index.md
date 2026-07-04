@@ -40,7 +40,10 @@ The usage of the different expressions, doubt (samsaya) and certainty (*niścaya
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चैतन्यस्य विषयेण दृढ-संयोगो हि निश्चयः; तस्यैव बहुभिर् युगपद् अदृढ-संयोगः संशयः; ज्ञान-वासनानुसारेण संश्लेषः स्मरणम् इत्यादिः ।
+चैतन्यस्य विषयेण दृढ-संयोगो हि निश्चयः;  
+तस्यैव बहुभिर् युगपद् अ-दृढ-संयोगः संशयः;  
+ज्ञान-वासनानुसारेण संश्लेषः स्मरणम्  
+इत्यादिः ।
 </details>
 
 <details><summary>English</summary>
@@ -60,7 +63,12 @@ The usage of the different expressions, doubt (samsaya) and certainty (*niścaya
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उक्तं च ऽआत्म-धर्मस्य चैतन्यस्य विषयेण संयोगो ज्ञानम् इत्य् उच्यते ऽ इति ।
+उक्तं च 
+
+> आत्म-धर्मस्य चैतन्यस्य  
+विषयेण संयोगो ज्ञानम् इत्य् उच्यते 
+
+इति ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
