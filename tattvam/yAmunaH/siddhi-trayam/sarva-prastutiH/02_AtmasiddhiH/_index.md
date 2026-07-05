@@ -7,176 +7,16 @@ title = "+०२ आत्मसिद्धिः"
 **सिद्धित्रये आत्मसिद्धिः॥**
 
 
-## व्यवहार-भेदः
+## चैतन्य-प्रत्युद्धारः
+### आगमानुमाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् एवम् आत्म-स्वभाव-भूतस्य चैतन्यस्य  
-विषय-संश्लेष-विशेषेषु निश्चय-संशयादि-व्यवहार-भेदः,  
-तत्-तद्-विशेष-भाजि चैतन्ये वा +++(निश्चय-संशयादि-व्यवहार-भेदः)+++।
-</details>
-
-<details><summary>English</summary>
-
-The usage of the different expressions, doubt (samsaya) and certainty (*niścaya*) and the like[^130_220] has reference either to the different relations of objects to consciousness, which has thus been shown to be the essence of the soul, or to the consciousness that has entered into those relations.[^130_221]
-</details>
-
-<details><summary>English - Notes</summary>
-
-[^130_220]: 'And the like' includes pleasure and pain.
-[^130_221]: One does not usually speak of objects with consciousness as being either doubtful or certain. On the contrary, it is knowledge that is described as being either doubtful or certain. Hence the second alternative. See Rangarāmānuja's tika on *Nyayasiddhañana*, p. 274.
-</details>
-
-<details><summary>मूलम्</summary>
-
-तदेवमात्मस्वभावभूतस्य चैतन्यस्य विषयसंश्लेषविशेषेषु निश्चयसंशयादिव्यवहारभेदः, तत्तद्विशेषभाजि चैतन्ये वा ।
-</details>
-
-
-<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
-
-नन्व् एवं ज्ञानस्यात्म-धर्म-भूतस्य स्वाभाविकत्वे तस्य संशय-निश्चयादि-भेदः स्मृति-अनुभव-भेदश् च कथम्? तत्राह तदेवमिति । युगपत् झटिति, नैरन्तर्येणेति यावत् ।  
-ज्ञान-वासना अनुभवाधीन-संस्कारो ज्ञान-सूक्ष्मांशः । चैतन्यार्थ-संश्लेष-विशेषः, अर्थ-संश्लेष-विशेष-विशिष्टं चैतन्यम् एव वा संशय-निश्चयादि-व्यपदेश-भागित्युक्तम् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-चैतन्यस्य विषयेण दृढ-संयोगो हि निश्चयः;  
-तस्यैव बहुभिर् युगपद् अ-दृढ-संयोगः संशयः;  
-ज्ञान-वासनानुसारेण संश्लेषः स्मरणम्  
-इत्यादिः ।
-</details>
-
-<details><summary>English</summary>
-
-[[P131]] Indeed, certainty is the close conjunction of consciousness with a single object. Loose conjunction of the same with several objects simultaneously constitutes doubt.[^131_222]
-</details>
-
-<details><summary>English - Notes</summary>
-
-[^131_222]: \* Drḍbasamyogah samŝayah is the reading found in all manuscripts and printed books. The correct reading is adrḍha samyogah, See *Nyaya* Parisuddhi, Memorial Edition, page 30. When we are in doubt as to whether the distant object is a post or a person, consciousness is in conjunction with two objects-the post and the person. As two mutually contradictory presentations cannot be given simultaneously in a single cognition, some maintain that in the state of doubt there are really two cognitions ; and that these arise in such a quick succession that they appear to be almost simultaneous. On this view, the conjunction of consciousness with the object is *adɲậha* (unsteady). Even on the view that in the state of doubt there is but a single cognition presenting two objects simultaneously, the conjunction of consciousness with the objects may be characterised as adraha. Here adṛdhasamyoga will mean 'conjunction involving mutual contradiction'. See Nyaya-Parisuddhi, Memorial edition, p. 30.
-</details>
-
-<details><summary>मूलम्</summary>
-
-चैतन्यस्य विषयेण दृढसंयोगो हि निश्चयः; तस्यैव बहुभिर्युगपददृढसंयोगः संशयः; ज्ञानवासनानुसारेण संश्लेषः स्मरणमित्यादिः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-उक्तं च 
-
-> आत्म-धर्मस्य चैतन्यस्य  
-विषयेण संयोगो ज्ञानम् इत्य् उच्यते 
-
-इति ।+++(5)+++
-</details>
-
-<details><summary>English</summary>
-
-It has already been stated that what is called knowledge is the conjunction of the object with consciousness which is an attribute of the soul.
-</details>
-
-<details><summary>मूलम्</summary>
-
-उक्तं चऽआत्मधर्मस्य चैतन्यस्य विषयेण संयोगो ज्ञानमइत्युच्यतेऽ इति ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-न चैवं संयोगस्य उभयाश्रितत्वेन विषयस्यापि ज्ञातृत्व-प्रसङ्गः, विषयेण संयोगाभावात् । चैतन्येन हि तस्य संयोगः, बाह्य-प्रकाश-वत् ।
-</details>
-
-<details><summary>English</summary>
-
-It cannot be said that since conjunction exists in both (the object and consciousness), the object also would have to be considered the knower. For conjunction with the object is not met with in the object itself. Indeed, the object is in conjunction with consciousness, as with external light.
-</details>
-
-<details><summary>मूलम्</summary>
-
-नचैवं संयोगस्यउभयाश्रितत्वेन विषयस्यापि ज्ञातृत्वप्रसङ्गः, विषयेण संयोगाभावात्। चैतन्येन हि तस्य संयोगः, बाह्यप्रकाशवत् ।
-</details>
-
-
-<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
-
-तत्र प्रथम-पक्षे शङ्कते न चैवमिति । संयोगस्य द्विष्ठत्वेन चित्य्-अर्थ-संयोगस्य ज्ञानत्वे विषयस्यापि ज्ञातृत्व-प्रसङ्ग इत्य् अर्थः । चैतन्यस्य ज्ञातृत्व-प्रसङ्गे कथञ्चिद् इष्टापत्ति-सम्भवाद् विषयस्य ज्ञातृत्वं प्रसञ्जितम् । यद्वा [[विषयस्यविषयाश्रयस्य|विषयस्य विषयाश्रयस्य]] । यथा-श्रुते आत्मनो ऽपि तत्तज-ज्ञानाश्रयत्वं न स्यात् पक्षे ऽस्मिन् । अतः स्वाश्रयाश्रयत्व-सम्बन्धेन ज्ञान-वत्त्वम् एव ज्ञातृत्वम् अत्र पक्षे वाच्यम् इति विषये न ज्ञातृत्व-प्रसङ्ग इति । परिहरति विषयेणेति । विषयेणेति हेतौ तृतीया । विषय-शब्दो विषय-व्यापार-परः । [[चातन्येनेत्यत्रापि|चैतन्येनेत्य् अत्रापि]] । अयं भावः अर्थ-ग्रहण-ार्थं व्याप्रियमाणं हि चैतन्यम् एव । तथा च विषय-चैतन्य-संयोगस्य तत्तद्-अर्थ-ज्ञानत्वे ऽपि तस्य स्व-ानुकूल-व्यापृतिमच्-चैतन्याश्रयत्व-सम्बन्धेनात्मन्य् एव सत्त्वात् तस्यैव ज्ञातृत्वं नार्थादेर् इत्य् उपलम्भ-बलाद् व्यवस्थाप्यम्, यथा आलोक-अर्थ-संयोगस्यैव प्रकाशत्वे ऽपि प्रकाशकत्वं स्व-धर्म-भूतालोक-प्रसरण-वशात् सूर्यादेर् एव नार्थस्य तद्वद् इति । यद्वा विषय-ानुयोगिक-संयोगाभावाद् इति विषयेणेत्यादेर् अर्थः । तस्य संयोगः विषय-प्रतियोगिक-संयोगः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यथा खलु आलोक-सम्बन्धे ऽपि प्रकाशे सूर्यादेर् एव प्रकाशकत्वं न घटादेः ।
-</details>
-
-<details><summary>English</summary>
-
-Although illumination is only relation with light, the source of light alone, such as the sun, rather than the pot and the like is considered to be the manifester.
-</details>
-
-<details><summary>मूलम्</summary>
-
-यथा खलु आलोकसम्बन्धेऽपि प्रकाशे सूर्यादेरेव प्रकाशकत्वं न घटादेः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अथ सूर्यादितन्त्रत्वादालोकस्य स एव तद्-धर्मा तत्-सम्बन्धेन अर्थान्तरस्य प्रकाश (क) इत्य् उच्यते, इहापि तर्हि चैतन्यस्य आत्म-धर्मत्वात् तेन अर्थान्तरं स्पृशन् स एव जानातीत्य् उपपद्यते ।
-</details>
-
-<details><summary>English</summary>
-
-If it be suggested that in as much as light is dependent upon the sun, the latter alone is considered the possessor of this quality (light) and that the manifestation of other objects is due to the conjunction with this quality, (we reply) if that be so, in the present case also, the description 'He knows' legitimately applies only to the self who gets into contact with objects through the aid of consciousness, in as much as the latter is his quality.
-</details>
-
-<details><summary>मूलम्</summary>
-
-अथ सूर्यादितन्त्रत्वादालोकस्य स एव तद्धर्मा तत्सम्बन्धेनअर्थान्तरस्य प्रकाश (क) इत्युच्यते, इहापि तर्हि चैतन्यस्यात्मधर्मत्वात्तेनअर्थान्तरं स्पृशन्स एव जानातीत्युपपद्यते ।
-</details>
-
-
-<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
-
-एवं प्रथमं पक्षम् उपपाद्य तत्तद्-अर्थ-सम्बद्धं चैतन्यम् एव तत्तद्-अर्थ-ज्ञानम् इति द्वितीयं पक्षं शङ्का-समाधान-मुखेन व्यवस्थापयति अथेति । प्रकाशः प्रकाशकः । [[सूर्यादितन्त्रत्वम्सूर्याद्यधीनस्वरूपस्थितिप्रवृत्तिकत्वं|सूर्यादि-तन्त्रत्वं सूर्याद्य्-अधीन-स्वरूप-स्थिति-प्रवृत्तिकत्वं]] तद्-अपृथक्सिद्ध-विशेषणत्वं च । तत्तद्-अर्थ-सम्बद्धालोकाश्रयस्यैव सूर्यादेः प्रकाशकत्वम् इव तत्तद्-अर्थ-सम्बद्ध-चैतन्य-वत आत्मन एव ज्ञातृत्वम् इत्य् अर्थः । अयम् एव मुख्यः पक्षः । ज्ञातृत्वस्य साक्षाद् आत्मनि सङ्गतेर् इति भावः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तत्-सिद्धं चैतन्य-स्वभाव एव अयम् आत्मा आत्मानं विदन्न् एवास्ते; अन्यत् तु निमित्त-भेदानुसारेण जानाति न जानाति चेति ।
-</details>
-
-<details><summary>English</summary>
-
-From all this it has to be concluded that the soul has certainly consciousness for its essential nature, and is aware of itself at all times; and that in regard to other objects (besides itself), owing to various causal conditions, it has to be said 'He knows', 'He does not know'.
-</details>
-
-<details><summary>मूलम्</summary>
-
-तत्सिद्धं चैतन्यस्वभाव एवायमात्मा आत्मानं विदन्नेवास्ते; अन्यत्तु निमित्तभेदानुसारेण जानाति न जानाति चेति ।
-</details>
-
-
-<details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
-
-अनन्य-साधन इत्य् उक्तम् अनन्याधीन-सिद्धित्वं चैतन्य-स्वभावत्वं च आत्मनो निगमयति तत्सिद्धमिति । चैतन्य-स्वभाव एव ज्ञातृत्व-स्वभाव एव । अनेन ज्ञानस्यागन्तुकत्वं निरस्तम् । [[आत्मनं|आत्मानं]] विदन्न् एवास्ते नित्यानन्याधीन-स्वप्रकाशवान् एवास्ते । अनेनात्मनः प्रकाशस्यागन्तुकत्वं ज्ञान-प्रयुक्तत्वं च व्यावर्तितम् । निमित्त-भेदानुसारेण इन्द्रिय-लिङ्गादि-ज्ञान-ार्थ-सन्निकर्ष-ोपाध्य्-अन्वय-व्यतिरेकानुविधानतः । शिष्टं स्पष्टम् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-(इति धर्म-भूत-ज्ञानस्य संशयाद्य्-अवान्तर-भेदोपपादनम्)
-</details>
-
-<details><summary>English</summary>
-
-(इति धर्मभूतज्ञानस्य संशयाद्यवान्तरभेदोपपादनम्)
-</details>
-
-<details><summary>मूलम्</summary>
-
-(इति धर्मभूतज्ञानस्य संशयाद्यवान्तरभेदोपपादनम्)
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तद् एवं चैतन्य-स्वभावः परिस्फुरन्न् अप्य् अयम् आत्मा गम्भीर-जलाशय-चर-मीन-वज् जल-संसृष्ट-क्षीर-वच् च न विविच्य स्फुटं चकास्तीति तद्-उपपादन-न्यायानुगताः पूर्वानुमान-भेदाः वचनानि चाद्रियन्ते ।
+तद् एवं चैतन्य-स्वभावः  
+परिस्फुरन्न् अप्य् अयम् आत्मा  
+गम्भीर-जलाशय-चर-मीनवज्  
+जल-संसृष्ट-क्षीर-वच् च  
+न विविच्य स्फुटं चकास्तीति  
+तद्-उपपादन-न्यायानुगताः पूर्वानुमान-भेदाः, वचनानि चाद्रियन्ते ।
 </details>
 
 <details><summary>English</summary>
@@ -192,12 +32,15 @@ From all this it has to be concluded that the soul has certainly consciousness f
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-स्वयम्प्रकाशस्यात्मनः शाब्दादि-प्रमाण-धी-गोचरत्वम् अपि साधयति तदेवमित्यादिना । अस्फुट-प्रकाशे मीनो निदर्शनम्; अविवेक-ग्रहणे च क्षीरम् । [[तदुपपादनन्यायानुगताःआत्मानात्मविवेकोपपादकावयवपञ्चकात्मकन्यायप्रयोज्याः|तद्-उपपादन-न्यायानुगताः आत्मानात्म-विवेक-ोपपादकावयव-पञ्चकात्मक-न्याय-प्रयोज्याः]] , अनुमान-भेदाः अनुमान-विशेषाः । वचनानि प्रमाण-वाक्यानि शास्त्रानुगतानि ।
+स्वयम्प्रकाशस्यात्मनः शाब्दादि-प्रमाण-धी-गोचरत्वम् अपि साधयति तदेवमित्यादिना । अस्फुट-प्रकाशे मीनो निदर्शनम्; अविवेक-ग्रहणे च क्षीरम् । तद्-उपपादन-न्यायानुगताः आत्मानात्म-विवेक-ोपपादकावयव-पञ्चकात्मक-न्याय-प्रयोज्याः, अनुमान-भेदाः अनुमान-विशेषाः । वचनानि प्रमाण-वाक्यानि शास्त्रानुगतानि ।
 </details>
 
+### योगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तैरप्य् अपरितुष्यन्तो यम-नियमादि-योगाङ्गानुष्ठान-क्षपिताशुद्ध्यावरण-मलाः निरोधाभ्यास-पुटपाक-निर्धूत-रजस्-तमः-कलङ्क-सत्त्वोद्रेक-समुत्थ-स्वेतर-सकल-विषय-वैलक्षण्यापरोक्ष-ज्ञानाय प्रयतन्ते ।
+तैर् अप्य् अपरितुष्यन्तो  
+यम-नियमादि-योगाङ्गानुष्ठान-- क्षपिताशुद्ध्य्-आवरण-मलाः  
+निरोधाभ्यास-पुट-पाक-- निर्धूत-रजस्-तमः-कलङ्क-- सत्त्वोद्रेक-समुत्थ-- स्वेतर-सकल-विषय-वैलक्षण्यापरोक्ष-ज्ञानाय प्रयतन्ते ।
 </details>
 
 <details><summary>English</summary>
@@ -223,7 +66,10 @@ Not deriving any satisfaction from these, (for, after all, they could only lead 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भावना-प्रकर्ष-पर्यन्ते चापरोक्ष-ज्ञानम् उदयत इति सर्व-वादि-निर्विवादम् इति न तद्-उपपादनायाद्य प्रयतते ।
+भावना-प्रकर्ष-पर्यन्ते च  
+अपरोक्ष-ज्ञानम् उदयत इति  
+सर्व-वादि-निर्विवादम्  
+इति न तद् उपपादनायाद्य प्रयतते ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
