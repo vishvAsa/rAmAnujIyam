@@ -22,11 +22,28 @@ title = "०१ सम्वित्सिद्धिः"
 सिद्धाञ्जननामकव्याख्योपेता ।
 </details>
 
+
+## ब्रह्मैकत्वम्
+<details><summary>विषयः</summary>
+
+*Enquiry* into the significance of the text *without* a *second'.*   
+*"*Brahman exists, one *only* 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एकमेवाद्वितीयं तद्ब्रह्मेत्युपनिषद्वचः ।  
-ब्रह्मणोऽन्यस्य सद्भावं ननु तत्प्रतिषेधति ॥ १ ॥
+एकम् एवाद्वितीयं तद्  
+ब्रह्मेत्य् उपनिषद्-वचः ।  
+ब्रह्मणोऽन्यस्य सद्-भावं  
+ननु तत्-प्रतिषेधति ॥ १ ॥
 </details>
+
+<details><summary>English</summary>
+
+It is contended that the upanisadic text "Brahman (exists) one only, without a second" denies the existence of everything other than Brahman. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -51,32 +68,52 @@ title = "०१ सम्वित्सिद्धिः"
 ब्रह्मवाचिसत्पदविशेषणमद्वितीयपदं ब्रह्मणोऽन्यस्यासत्त्वपरमिति पूर्वपक्षिणामाशयः ॥ १ ॥
 </details>
 
+### आक्षेपः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्रे ब्रूमोऽद्वितीयोक्तौ समासः को विवक्षितः ।  
-किंस्वित्तत्पुरुषः किं वा बहुव्रीहिरथोच्यताम् ॥ २ ॥
+अत्र ब्रूमोऽद्वितीयोक्तौ  
+समासः को विवक्षितः ।  
+किंस्वित् तत्पुरुषः किं वा  
+बहुव्रीहिर् अथोच्यताम् ॥ २ ॥
 </details>
+
+<details><summary>English</summary>
+
+Against this contention we argue as follows:-In what light is the compound word *advitiya* to be understood? Is it a *tatpuruşa* or a bahuvrihi compound? 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-अत्रे ब्रूमोऽद्वितीयोक्तौ समासः को विवक्षितः ।  
+अत्र ब्रूमोऽद्वितीयोक्तौ समासः को विवक्षितः ।  
 किंस्वित्तत्पुरुषः किं वा बहुव्रीहिरथोच्यताम् ॥ २ ॥
 </details>
 
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
-तमिमं दूषयितुमद्वितीयपदे वृत्तिं विकल्पयति सिद्धान्ती**अत्रे**ति ।
+तम् इमं दूषयितुम् अद्वितीयपदे वृत्तिं विकल्पयति सिद्धान्ती**अत्रे**ति ।
 
 अद्वितीयोक्तौ अद्वितीयपदे ।
 
 अथवा किं बहुव्रीहिरित्यन्वयः ॥ २ ॥
 </details>
 
+#### न द्वितीयम्?
+
+<details><summary>विषयः</summary>
+
+*'Advitiya*' cannot *be* taken as a tatpuruşa *compound* 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पूर्वस्मिन्नुत्तरस्तावत्प्राधान्येन विवक्ष्यते ।  
-पदार्थस्तत्र तद्ब्रह्म ततोऽन्यत्सदृशं तु वा ॥ ३ ॥  
+पूर्वस्मिन्न् उत्तरस् +++(शब्दः)+++ तावत्  
+प्राधान्येन विवक्ष्यते ।  
+पदार्थस् तत्र तद् ब्रह्म  
+ततोऽन्यत् सदृशं तु वा ॥ ३ ॥  
 </details>
+
+
 
 <details><summary>मूलम्</summary>
 
