@@ -114,4 +114,4 @@ title = "उपादानकारणता"
 ब्रह्मैव जगतः अभिन्ननिमित्तोपादानकारणम्।
 
 ## Video
-Source: [TW](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaHprameyAH//jagad-upAdAna-kAraNam)। 
+Source: [TW](/conversations/YT/ramAnujIyam/jagad-upAdAna-kAraNam)। 

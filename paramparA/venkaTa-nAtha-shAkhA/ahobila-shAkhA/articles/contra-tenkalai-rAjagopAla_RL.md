@@ -17,7 +17,7 @@ In conclusion, it is seen that the so-called research work is full of lies, misd
 
 The claim that Ahobila matha was originally Tenkalai which converted into Vadakalai later on is also without any factual evidence supporting such claim.
 
-His claims about Tirumalai Ananthanpillai being rajaguru of Mysore royals till 1800CE or being rajaguru of Krishnaraya is baseless as well.
+His claims about Tirumalai Anantāṇpiḷḷai being rajaguru of Mysore royals till 1800CE or being rajaguru of Krishnaraya is baseless as well.
 
 The book is nothing but a bunch of vitriol based on forgery aimed at maligning the Vadakalai sampradaya and acharyas in general. This attempt is merely a step towards setting the record straight.  
 The two sampradayas have existed since long and were not known to have existed any ill-will towards the other till about 200-300 years ago. It is better to go back to the old practice of holding to one’s opinion while respecting the other – than whatever is happening at present.
@@ -26,7 +26,7 @@ The two sampradayas have existed since long and were not known to have existed a
 About the author and some of his conclusions.
 
 ### Clan
-A brief about the author and his publisher is given now – the author belongs to Tirumalai Ananthanpillai clan which claims descent from Ananthanpillai who served in the Tirumala temple on Ramanuja’s appointment .+++(5)+++ He makes vainglorious claims about his clan’s ancestors being Rajagurus of Vijayanagar and Mysore. We shall see that he contradicts himself about Mysore in the very book. 
+A brief about the author and his publisher is given now – the author belongs to Tirumalai Anantāṇpiḷḷai clan which claims descent from Anantāṇpiḷḷai who served in the Tirumala temple on Ramanuja’s appointment .+++(5)+++ He makes vainglorious claims about his clan’s ancestors being Rajagurus of Vijayanagar and Mysore. We shall see that he contradicts himself about Mysore in the very book. 
 
 The author has even willfully turned a blind eye towards historical inaccuracies in the claims he has put forward based on certain other scholars of his sect – while even setting up false strawmen and then claiming victory against the Vadakalais by demolishing said strawmen in some cases. 
 
@@ -272,7 +272,7 @@ the king appointed one Thathacharya as manager of South Indian temples
 2\.  All popular narratives and Inscription alludes to Tatacharya and
 Vyasaraya (of Madhva tradition) being the Rajagurus of the empire.
 Rajagopalan has a compulsive disorder forcing him to identify any
-and all Ananthanpillai men associated with rulers based on unrelated
+and all Anantāṇpiḷḷai men associated with rulers based on unrelated
 inscriptions as their Rajagurus.
 
 ### marriage count
@@ -806,7 +806,7 @@ Rajagopalan makes fun of the hagiography that Narasimha gave sanyasa to Sri Adi 
 These words have shown that Rajagopalan has not done any proper ground work before writing this ‘research book’. Rather he seems to have collated a few things here and there – mixed them with his preconceived notions and bias – giving birth to a substandard work.  
 
 ##### Family shiShya testimony
-Rajagopalan has claimed in this book that Krishnadevaraya was a disciple of Thirumalai Ananthanpillai Govindachariar (pg. 7). So, let us see what the disciple of this Ananthanpillai clansman has written about Adi Van Satakopa Yati.  
+Rajagopalan has claimed in this book that Krishnadevaraya was a disciple of Thirumalai Anantāṇpiḷḷai Govindachariar (pg. 7). So, let us see what the disciple of this Anantāṇpiḷḷai clansman has written about Adi Van Satakopa Yati.  
 
 In 6.66 of Amuktamalyada, he seems to consider Manavala Mamuni, Adi Van Satakopa and Vedanta Desika as avataras of Ramanuja. Of these three, he spends about one sentence on Mamuni, 3 lines on Desika and 7-8 lines on Satakopa Jiyar. This Satakopa Jiyar is described as having performed tapasya at Garudachalam (Ahobilam) in his purvashrama where Narasimha appeared before the devotee and gave him sanyasa.  
 
@@ -1004,21 +1004,21 @@ His problems with Periya Parakalaswami is the claim supposedly made by the Parak
 Marathas had made enemies of Mysore kingdom and as such, when Aurangzeb invaded Maratha lands, Mysore did not support Marathas but rather sent envoys to Aurangzeb who responded with several gifts and titles. It is quite possible that he would have sent a gift to the Rajaguru as well – which is mentioned by the Matha.
 
 ## Annamacharya
-Rajagopalan also wants to claim that Tallapaka Annamacharya was a sishya of Tirumalai Ananthanpillai family (not Ahobila maTha) and that he was a Tenkalai. We have already put to rest any and all arguments based on namam from that era – but still as a fact, the sculptures in Tirumala of Annamacharya and his vigraha carry Vadakalai Thiruman – and these are the older ones. Tallapaka image is VK tiruman only. Source: [TW](https://www.instagram.com/reel/DV8AggSjGqq/)
+Rajagopalan also wants to claim that Tallapaka Annamacharya was a sishya of Tirumalai Anantāṇpiḷḷai family (not Ahobila maTha) and that he was a Tenkalai. We have already put to rest any and all arguments based on namam from that era – but still as a fact, the sculptures in Tirumala of Annamacharya and his vigraha carry Vadakalai Thiruman – and these are the older ones. Tallapaka image is VK tiruman only. Source: [TW](https://www.instagram.com/reel/DV8AggSjGqq/)
 
 
 ![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-28.png?w=713)
 {caption="Annamacharya Vigraha in Tallapakka Village"}
 
-### Ananthanpillai praise
+### Anantāṇpiḷḷai praise
 
-Now what remains is his claim about the poet author being sishya of Ananthanpillai clan. In reality, the descendants of Tallapaka Annamayya are sishyas of Ahobila maTha today and they have no records about them being sishyas of any other acharya lineage in the past.
+Now what remains is his claim about the poet author being sishya of Anantāṇpiḷḷai clan. In reality, the descendants of Tallapaka Annamayya are sishyas of Ahobila maTha today and they have no records about them being sishyas of any other acharya lineage in the past.
 
 Rajagopalan has to give concrete evidence before making such blind claims. 
 
-Just because the poet sung about Ananthazhwan (who is respected by Vadakalais as well – for that matter), he doesn’t become a sishya of Ananthanpillai – rather is a respect to the role Ananthazhwan played in the temple’s kainkaryas. 
+Just because the poet sung about Ananthazhwan (who is respected by Vadakalais as well – for that matter), he doesn’t become a sishya of Anantāṇpiḷḷai – rather is a respect to the role Ananthazhwan played in the temple’s kainkaryas. 
 
-It is to be noted that Annamayya has written a beautiful kriti on Adi Van Satakopa yati as well where he has been hailed as the boat for his disciples to cross Viraja and reach Vaikuntha (see pg.49 of Ahobilam Sri Narasimha Swamy temple by Prof Vasantha, TTD publication, 2001), while Annamayya does not sing on the Ananthanpillai acharyapurusha of Tirumala who lived in 1400s.  +++(5)+++
+It is to be noted that Annamayya has written a beautiful kriti on Adi Van Satakopa yati as well where he has been hailed as the boat for his disciples to cross Viraja and reach Vaikuntha (see pg.49 of Ahobilam Sri Narasimha Swamy temple by Prof Vasantha, TTD publication, 2001), while Annamayya does not sing on the Anantāṇpiḷḷai acharyapurusha of Tirumala who lived in 1400s.  +++(5)+++
 
 
 

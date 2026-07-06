@@ -1460,17 +1460,13 @@ Besides, (to put the same syllogistically)--The soul possesses an eternal illumi
 
 [F109_179]: The syllogism may be stated thus \- Notaing possessing non-eternal illumination is a knower. The soul is a knower. Therefore, the soul does not possess non-eternal illumination. Cf. *Ved*. S. II. iii. 31. Pumstvadivattvasya satobhivyaktiyogāt.
 
-### The Soul being the substrate of prani, is svayamprakāśa-
+### The Soul being the substrate of jnana, is svayamprakāśa-
 
 The possession of illumination as an innate property is attributed to the soul, because it is a knower. The possession of an illumination which is dependent upon something other than itself is invariably associated with the quality of being other than a knower.
 
 ### Determination of the significance of the term 'prakāśa' and of the nature of its relation to the soul:-
 
-What is meant by this illumination (*prakāśa*) which is said to be eternal and innate to the soul? And what exactly is the nature of its
-
-[[P110]]
-
-relation to the soul? If illumination means knowledge itself and if the relation is that of being the container and the contained (ā śrayā śrayitvam), then (with regard to the aforesaid syllogism) in order to cite the invariable concomitance of the absence of the sadhya with the absence of the *hetu,* pots and the like must be cited as illustrative examples in the following way:--Whatever possesses a non-eternal illumination or an illumination depending upon something else is other than a knower; like pots, etc. Then, as the negation of something specific presumes the affirming of something else belonging to the same general category, it would result in the admission that occasional knowledge resides in pots and the like.
+What is meant by this illumination (*prakāśa*) which is said to be eternal and innate to the soul? And what exactly is the nature of its [[P110]] relation to the soul? If illumination means knowledge itself and if the relation is that of being the container and the contained (ā śrayā śrayitvam), then (with regard to the aforesaid syllogism) in order to cite the invariable concomitance of the absence of the sadhya with the absence of the *hetu,* pots and the like must be cited as illustrative examples in the following way:--Whatever possesses a non-eternal illumination or an illumination depending upon something else is other than a knower; like pots, etc. Then, as the negation of something specific presumes the affirming of something else belonging to the same general category, it would result in the admission that occasional knowledge resides in pots and the like.
 
 ### The contention that the self is the object of knowledge and not svayamprakāśa-
 
