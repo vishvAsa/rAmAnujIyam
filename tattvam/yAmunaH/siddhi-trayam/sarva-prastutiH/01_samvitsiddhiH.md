@@ -123,7 +123,7 @@ Against this contention we argue as follows:-In what light is the compound word 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्विरुद्धमथो वा स्यात्रिष्वप्यन्यन्न बाधते ।  
+तद्विरुद्धमथो वा स्यात् त्रिष्वप्यन्यन्न बाधते ।  
 अन्यत्वे सदृशत्वे वा द्वितीयं सिध्यति ध्रुवम् ॥ ४ ॥
 </details>
 
@@ -3717,6 +3717,7 @@ Against this contention we argue as follows:-In what light is the compound word 
 तथाच तैर्धर्मैः सविशेषत्वं ब्रह्मणो दुर्वारमित्यर्थः ।
 
 तत्तत्जडत्वादि, अपोह्येतव्यावर्त्येत ॥ १७० ॥
+</details>
 
 *{प्रतियोगिनि दृश्ये तु या भावान्तरमात्रधीः ।  
 सैवाभाव इतीहापि सद्भिस्ते सद्वितीयता ॥ १७१ ॥  
@@ -4196,5 +4197,4 @@ Against this contention we argue as follows:-In what light is the compound word 
 प्रमीतं संवित्सिद्धर्व्याख्यानं  
 सिद्धाञ्जनं सम्पूर्णं  
 विजयतान्तमाम् ॥
-</details>
 
