@@ -414,7 +414,7 @@ unicode_script = "devanagari"
 <div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/033_kAdAchitkasya_kAlAvadhiniyatikaram.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## इन्द्रियम्
-### ज्ञानेन्द्रियाणि
+### अभौतिकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++("चक्षुस् तैजसं - रसाद्य्-अग्राहकत्वे सति रूप-ग्राहक-द्रव्यत्वात् दीपवद्" इति यथा)+++  
@@ -427,7 +427,7 @@ unicode_script = "devanagari"
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 "इन्द्रियं" नाम  
-webcam, नेत्रम्, इत्यादि बाह्याङ्गम् अन्तरा  
+webcam, नेत्रम्, इत्यादि बाह्याङ्गं चालयद् वृत्त्य् अन्तरा  
 न किञ्चिद् विद्यत इत्य् आधुनिक-भूत-विज्ञानेन ज्ञायते।  
 विस्तारो ऽन्यत्र प्रतिपादितः। 
 </details>
