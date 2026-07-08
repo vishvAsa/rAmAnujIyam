@@ -835,6 +835,14 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 
 +इत्य् अहोबिल-परम्परा। 
 
+#### कालः
+"प्रपत्तिशास्त्रम् प्रपत्तिशास्त्रम्" इति पदे पदे वदत्सु प्रपत्तिर् एव दुर्लभम् अवर्ततेति कथनं न विस्रम्भम् अर्हति।  
+शसत्रं यदि प्रमाणम्, न पुनस् तॆङ्कलादिनिभं यत्किञ्चिद् ऐतिह्यम्, सर्वसुलभम् आसीत् प्रपत्तिः, तद्-उपायत्व-ज्ञानं च।  
+
+
+Prapatti being something to be feared of and should be postponed later after intense training is boomer SVism.  
+Male Vks would do it once their kalakshepa is completed (which would most likely happen within their 20s 30s).  
+Sick or ill males and ladies would most likely undergo it when they are children or just after marraige.
 
 
 ### अनुष्ठेयता
@@ -1047,6 +1055,9 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 महा-विश्वासम् पिऱवादु
 
 इति वेङ्कटनाथः। 
+
+तत्रापेक्षिते बोधनय् - इञ्जिमेडु-यति-चरित्रे दृश्यताम् - [TW](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/AngIrasaH/prajAH_khyAtyAH/bharadvAjaH/bhAradvAjaH/injimeDUdbhavo_ranganAthaH) ।
+
 
 ##### घटनम् / पुरुष-कारः
 यथापेक्षं घटक+++(="पुरुष-कार")+++-याचनम् उपाङ्गम् ।  
