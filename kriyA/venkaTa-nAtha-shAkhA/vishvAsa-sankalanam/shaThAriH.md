@@ -42,6 +42,11 @@ title = "शठारिः"
 तस्मात्प्रत्यहम् एतौश्री-  
 पादुकौ शिरसा वहेत्॥ 7
 
+## स्पर्श-प्रकारः
+- पञ्चमुद्रा (शिरसि, भुजयोर्, वक्षसि, पुनः शिरसीति)
+- सकृद् एव शिरसि स्पर्शः
+
+
 ## माध्वाङ्गीकाराः
 ### यत्य्-अङ्गीकारः
 Many Madhwa sannyasis at Tirumala do accept Shatari with full reverence. Eg. satyAtmatIrtha in tirupati [TW](https://www.youtube.com/shorts/ieirIgNFdzA) and in vAnamAmalai (where the shaThAri has an image of nammALvAr).
@@ -54,20 +59,7 @@ Many Madhwa sannyasis at Tirumala do accept Shatari with full reverence. Eg. sat
 "shaThakop" is not offered to devotees (They don't want to touch the devotees due to maDi). Offered only to parivara devatas (Hanuman, garuda, ganapati, navagrahas and siva). 
 
 ### Video
-shaThAri / shaThakopa/ pAdukA - mAdhva confusion, goshrIpuram (cochin) temple of kAshI-maTha
-
-Source: [TW](https://youtu.be/BzyIMFVlelU)
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-00:00 - Intro 
-01:00 - shaThakopa/ nammALvAr/ shaThAri/ shaThajit
-02:50 - Represent viShNu's feet, not that of rAmAnuja etc.. mAdhva confusion.
-04:00 - Non-confused mAdhva-s - goshrIpuram (cochin) tirumala temple associated with kAshi maTha of vijayIndra-tIrtha.
-06:00 - Daily use in temple
-07:30 - Conclusion
-</details>
-
+Source: [TW](/conversations/YT/ramAnujIyam/shaThAri)
 
 ## भक्त-प्रतिष्ठा-भ्रमः
 विचित्रकल्पनाः श्रुताः - श्रीवैष्णवदेवालयेषु शठारि-नाम्ना शिरसि स्थाप्यमानम् पादाभरणं रामानुजपादप्रतिनिधिर् इति। तद् अप्य् असत् - विष्णोर् एव पादौ, शठकोपाख्यस्य पादजस्य (=शूद्रस्य) नाम्ना ऽभिमतौ।
