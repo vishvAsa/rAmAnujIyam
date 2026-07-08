@@ -1,5 +1,5 @@
 +++
-title = "Advaita vidy A vijaya H"
+title = "२ अद्वैत-विजयः"
 +++
 
 
