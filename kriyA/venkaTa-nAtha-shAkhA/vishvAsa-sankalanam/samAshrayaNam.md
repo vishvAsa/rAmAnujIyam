@@ -12,6 +12,9 @@ title = "समाश्रयणम्"
 
 वेङ्कटनाथार्येण +ऋग्वेद-गतं श्रौतं कर्मेति प्रतिपादितं रक्षाग्रन्थेषु क्वचित्। 
 
+## अधिकारः, परीक्षा
+इञ्जिमेडु-यति-चरित्रे दृश्यताम् - [TW](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/AngIrasaH/prajAH_khyAtyAH/bharadvAjaH/bhAradvAjaH/injimeDUdbhavo_ranganAthaH) ।
+
 ## आचार्याः
 ### आचार्यत्वम्
 - "दीक्षिता एवाधिकृता इति नात्सी"ति शठकोप-तातार्यः २०२४-तमे वर्षे। एवम् लक्ष्मीतातार्यसुत आळ्वार्-महोदयो ऽपि। अहोबिल-मठ-सार-सार-वित्-पुत्रो लक्ष्मी-नृसिंहार्यो ऽपि। 
