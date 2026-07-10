@@ -1711,6 +1711,13 @@ Entonces, la **mención** separada de algunos tipos de **pecado**
 
 </details>
 
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+""
+""
+""
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यावै सिल अपचारङ्गळैप् पुऱम्बे सॆय्गिऱाऩ्,  
