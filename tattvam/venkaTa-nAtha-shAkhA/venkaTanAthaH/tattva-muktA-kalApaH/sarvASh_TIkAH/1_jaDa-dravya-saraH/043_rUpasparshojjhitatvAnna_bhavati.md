@@ -9,7 +9,7 @@ title = "043 रूपस्पर्शोज्झितत्वान्न 
 </details>
 
 
-<details><summary>वरदार्य-सर्वाङ्कषा - ४३</summary>
+<details><summary>वरदार्य-सर्वङ्-कषा - ४३</summary>
 
 
 **इन्द्रियैर् अग्रहणम्॥**

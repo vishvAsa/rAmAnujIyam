@@ -2,7 +2,7 @@
 title = "२"
 +++
 
-<details><summary>वरदार्य-सर्वाङ्कषा</summary>
+<details><summary>वरदार्य-सर्वङ्-कषा</summary>
 
 
 एवमाशासमानानां  
