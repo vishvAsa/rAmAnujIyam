@@ -132,7 +132,7 @@ conflicting, some began to coalesce as the non-Brahmin movement developed organi
 
 
 
-Notes
+## Notes
 
 1. Hemingway, *Tanjore*, 80. 
 
