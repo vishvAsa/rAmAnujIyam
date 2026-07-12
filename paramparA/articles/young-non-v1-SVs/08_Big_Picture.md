@@ -1,0 +1,1299 @@
++++
+title = "08 Big Picture"
++++
+
+Thinking about the Big Picture
+
+
+
+Discussion of the ‘big picture’ must be framed, to some extent, by the fact that Ś r ī vaiṣṇ ava praxis and identity today have been shaped by the forces and interpretations of modernity. There are debates over whether modernity has a core definition, such as rationality and autonomy, or whether it is best understood by listing key components, such as industrialisation, science, technology, a market economy, urbanisation, the modern State, democracy, emancipation from exploitation, new collectivities, human rights, universal education, the rule of law, individualism, autonomy, the Internet, and secularism. 
+
+There are debates too over whether modernity indicates a 
+
+degree of societal transformation through adaptation or deep structural change, whether it is transitional or permanent, whether the process is predetermined or not, whether it has universal features or varying responses, whether there are real modernities and mistaken ones, and whether modernity has been followed by late modernity and postmodernity as new phenomena, or whether such distinctions are only variations upon a theme. The analysis of the term extends to the role of historiography and other scholarly paradigms, such as functionalism, Marxism, or postmodernism. 
+
+
+
+
+
+
+
+An especially important debate for the focus of this book 
+
+is: Is there one modernity defined by the West or several modernities, because those in other cultures are different?1 According to Elsje Fourie, some scholars have argued that the theory of multiple modernities relies on an implicit notion of modernity, yet ignores or deconstructs any definition, essentialises civilisations to construct a claim of radical differences, and lacks any empirical methods to decide whether convergence is occurring.2 In reply, advocates of multiple modernities have challenged the model of one modernity as a kind of evolutionary determinism and a Western moral superiority, based on ideas of progress that have not been tested over time.3
+
+Many scholars accept the idea that some aspects of moder-
+
+nity are of Western origin and entered India with colonialism. These scholars point out, however, that their trajectories in India have been very different than in the West, because of interaction with India’s distinct cultural and religious features. Others have argued that some of modernity’s components have Indian origins as well, and so the phenomenon is not just derivative of the West but represents distinctive processes and configurations. 
+
+Anand Pandian’s study of concepts of agrarian virtue, 
+
+which help agrarian castes deal with the spiralling momentum of the computer *kālam* \(the time of computers\)4 shows, for instance, that they go back to a precolonial inheritance in rural Tamil Nadu. Kaivan Munshi reminds us that caste has great tenacity today, given its deep roots in Indian history, and that affects the nature of modernity in India.5
+
+In *Textures of Time*, Velcheru Narayana Rao, David Shulman, 
+
+and Sanjay Subrahmanyam argue for an understanding of modernism between Western positivist historiography and postmodernism, where everything is just a discourse. They think that we need to do a better job of understanding what has happened in precolonial Indian history through a more sophisticated study of sources. This can reveal how 
+
+
+
+280
+
+
+
+
+
+
+
+historical events, political models, and indigenous concepts are embedded in multilayered texts. They argue that when one takes indigenous sources seriously \(such as various Telugu literary genres and the history of bureaucracy\), one finds a history from below, which provides clues to authorial intent and authority. Such an approach helps scholars decipher fact and fiction and reveals that an early form of modernity can be detected in south India from the late fifteenth or the early sixteenth century, characterised by ‘a striking individualism, a new sense of the human body and its possibilities, a common political culture that cuts through the boundaries of collective \(“religious”\) identities ... and so on’.6
+
+Their case study for indigenous sources is one of Muslim-
+
+influenced bureaucracy \(the *karṇam*\). They do not mention the Persian, Turkish, and Renaissance influence on the Mughal and other Indian Muslim courts that were conduits of different traditions of historiography, not to mention incipient modernity. In other words, these Muslim traditions were already a cultural mix of outside and inside sources, which became even more complicated as they creatively interacted with south Indian cultures. That said, the authors offer an important challenge to theories of modernism’s colonial origins and the simple Western hegemony that implies.
+
+In his book *Tamil: A Biography*, David Shulman goes even 
+
+further in the indigenous thesis. Drawing on his extensive knowledge of south Indian literatures, both general patterns and particular historical contexts, he argues that modernism is mainly an internal development that is organic and creative, gradual, continuous with its own past, complex and full of contradictions, not a mere colonial import. As such, it is not a ‘shallow notion of reformist modernity that arrives as a result of the colonial regime’.7 Shulman then analyses the intricate interplay of continuities and discontinuities that constitute the complexity of modernity: bureaucracy, cosmopolitanism, naturalism, realism, views of the self, Siddha iconoclasm, Deccanic secularism, and so on. 
+
+
+
+281
+
+
+
+
+
+
+
+Satish Deshpande offers us a perceptive and nuanced take 
+
+on this concept of multiple modernities that is particularly relevant to the topic of this book. 
+
+... modernization has been an omnibus-concept, a sort of 
+
+summary description of epochal dimensions based on an 
+
+underlying dichotomy between tradition and modernity. 
+
+If there ever was a time when such an abstract, generalized 
+
+dichotomy was conceptually useful, it is surely gone now.8
+
+Deshpande, reminding us that there are now as many similarities as differences, warns us that using the frame of tradition versus modernity and judging a society by the teleological end of modernity, as defined by the West, and seeing any ‘in-between-ness’ as a failure because of the presupposition of modernity prevents us from understanding what is actually happening. Rather, we need to avoid generalisations and focus instead on the ‘historicity of the present’.9
+
+The oral histories of Śrīvaiṣṇavas presented here have 
+
+provided a small window to a historicity of the present. They reveal how people—both non-Brahmins of many castes and Brahmins in Tamil Nadu—are experimenting with ways to achieve a coherence, or at least a secure and meaningful life that acknowledges the dynamic forces shaping their lives, as well as their own intentionality. For most of the people I interviewed, existential realities are not focussed on the mega-questions of identity, addressed by the theorists of multiple modernities—the importance of recognising something distinctive about being modern in India, as opposed to just being imitators of Western modernity, whatever that means. Rather, questions of identity play out in a more limited, albeit dynamic, process related to sect, caste, and political affiliation, or rejection of such identities, as the case may be.
+
+With this backdrop in mind, I turn now to several major 
+
+themes found in the interviews discussed in this book.
+
+
+
+282
+
+
+
+
+
+
+
+Non-Brahmin Śrīvaiṣṇavism
+
+The interviews reveal many similarities, as well as different practices and understandings that constitute non-Brahmin Śrīvaiṣṇavism today on topics such as ritual, identity, initiation, status, access to religious leadership and religious competition in a saffron age. It is time to bring together the discrete points made in the interviews to see if any patterns can be detected to warrant the label Non-Brahmin Śrīvaiṣṇavism. 
+
+
+
+Religious Ritual 
+
+Bhāgavata religious lives have not been documented in scholarly literature. This study brings some of their traditions to the foreground.
+
+Many of my informants described their daily *pūjā*s before 
+
+their home shrine, which they did by themselves or with the whole family present. This daily worship included common Hindu acts of offering oil lamps \(*āratī*\), ringing a bell and presenting flowers, fruits, and cooked food to the deity. 
+
+Bhāgavatas also prayed or chanted, albeit in different 
+
+ways. One person spoke of a simple prayer from the heart, others spoke of chanting short *āḻvār* works, such as Periyāḻvār’s *Tiruppallāṇṭu* or a selection of Nammāḻvār’s verses called *Kōyiḻ Tiruvāymoḻi*, often with the help of a printed book. For some people, the *Tiruppāvai* was the only scripture that they had memorised and chanted daily. Women were especially attracted to it, because it was a text composed by a young woman and about young women. Those who were initiated and had sufficient time in retirement chanted a daily selection of the *Divyaprabandham* verses, until the 4,000 were completed. So did one carpenter, despite the demands of a job and family. A few Bhāgavatas referred to meditation, breathing exercises, or yogic postures. 
+
+There was considerable variation among family members 
+
+regarding their daily religious activities. Some retired men told 
+
+
+
+283
+
+
+
+
+
+
+
+me, for instance, that they spend much more time chanting and worshipping than their wives or children. Others said that their wives spent more time on religious rituals. Some parents mentioned that their children had too much schoolwork to chant or worship. And some said that they did more religious activities after initiation because that was required. Such differences seemed to be a function of personal interest or the amount of time they had, or whether they had had *samāśrayaṇam*.
+
+Many Bhāgavatas mentioned communal worship at a 
+
+*sabhā*. Some of these have histories stretching back to the late nineteenth century. According to Ramesh Bairy, ‘... non-Brahmin associations emerged in the colonial period as the primary articulator of the idea and the institution of caste and set the protocols of negotiation with the modern ethos and institutions.’10 The *sabhā*s advanced and legitimised the projects of both elite individuals and communities. Whereas the main role of the *sabhā*s during the colonial period was Sanskritisation, Lloyd and Susanne Rudolph point out that after Independence, it has been political power and modernisation that combine birth \(as caste or caste-cluster identity\) and choice \(as voluntary affiliation and support of the group\) to increase a group’s well-being and status through political advocacy.11 Robert Hardgrave12 puts the role of *sabhā*s like this: they have been the *modus vivendi* for caste adaptation to social, economic, and political change. New leaders from the lower and middle castes emerged from these local organisations. The leaders were the ones who had honed their oratory and leadership skills to become middlemen between the caste and the political establishments that control, at least in part, access to reservations, which facilitate access to education and good jobs. Scholars have discussed *sabhā*s mainly in the contexts of caste and politics, rarely in the context of religion.
+
+I found *sabhā*s in both urban and village settings. They 
+
+generally had an established meeting place, perhaps a local non-Brahmin temple, especially in the small villages, or a 
+
+
+
+284
+
+
+
+
+
+
+
+*rāmānuja kūṭam* or another building that had been built or endowed by a Śrīvaiṣṇava. 
+
+The focal point of the sacred space was usually a statue 
+
+or picture of Krishna, Rāma, or Bālāji \(Vēṅkaṭeśvara\). Because the major Śrīvaiṣṇava temples, especially the *divyadeśa*s, are dominated ritually by Brahmināgamic priests, the *sabhā*s provide an alternative space for non-Brahmin Śrīvaiṣṇavas. These alternative spaces are important because some villages and city and suburban neighbourhoods do not have Vaiṣṇava temples. Ritual at the *sabhā*s—whether daily, weekly, or at festival times—is usually simple: the same offerings as in daily home worship. This may be followed by the singing of *bhajana*s, sometimes in street processions, or chanting *āḻvār* verses. The latter, however, did not seem as deeply rooted in the tradition as the *bhajana*s, especially the anonymous folk-style ones. Even though the *Divyaprabandham* verses are in Tamil, some devotees confessed that they found the metres difficult, which made it difficult to memorise and chant them. For this reason, they were taking classes to learn how to chant the *āḻvār* verses in the traditional manner.
+
+The large or urban *sabhā*s have institutional structures 
+
+with secretaries, treasurers, and so forth, along with leaders called *mudaliyar*s who know Śrīvaiṣṇavism and provide chanting, as well as discourses on topics that range from scriptural interpretation to theology. A leader might give a weekly discourse on Śrīvaiṣṇavism. The larger *sabhā*s also celebrate festivals throughout the year, such as the birthdays of the *āḻvār*s and *ācārya*s, especially those of important figures such as Nammāḻvār, Rāmānuja, or the *sabhā*’s founder. On these important occasions, all 4,000 verses might be chanted, usually by a local expert. Bhāgavatas often complained that chanting experts were not available for rituals. Some resorted to cassettes and videos.
+
+Recitation ofāṇṭāḷ’s *Tiruppāvai* was extremely popular, 
+
+especially by groups in the month of Mārkaḻi \(December– January\). In some *sabhā*s, especially urban ones that have 
+
+
+
+285
+
+
+
+
+
+
+
+elaborate traditions, the *sabhā*-style worship might include Tyāgarāja or Maharashtrian *kīrtana*s and *harikathā*s. The deeply emotional music at these *sabhā* gatherings binds people together and creates a sense of community.
+
+Occasionally, Bhāgavatas mentioned rites of passage, 
+
+such as pregnancy rituals, weddings, and funerals, usually with reference to chanting verses from the *Divyaprabandham*. Recitation ofāṇṭāḷ’s *Tiruppāvai* was auspicious at weddings and Nammāḻvār’s verses about the postmortem journey of the soul to Vaikuṇṭha for funerals. One distinctive feature of non-Brahmin funerals was the removal of the Vaiṣṇava conch and discus emblems from the shoulders of those who had been branded when initiated.13
+
+The Śrīvaiṣṇava ritual seemed fragile in many villages 
+
+because infrastructure for the religion did not exist or was ad hoc, making it difficult to find priests or chanters or religious educators. People complained that the *yātrā*s of city-folk to bring Śrīvaiṣṇavism to the villages rarely brought lasting change. I did find the villages of Kumalam and Minjur to be vibrant centres of non-Brahmin Śrīvaiṣṇavism because they have a family-run temple or *ashram* with attractive rituals, festivals, *bhajana*s and food \(even medicine and astrology, in one case\), which draw people from neighbouring villages, if not the entire region. There is much more to learn about non-Brahmin religious practice, but these points gleaned from the interviews open the door to understanding Bhāgavata adaptations and innovations, which often straddle the worlds of personal, village, and urban life in the flux of a quickly changing society.
+
+
+
+Identity, Initiation, and Status
+
+Being strictly a devotee of the *one* god Viṣṇu, who has many names and forms, is a key tenet of Brahmanical *sampradāya* Śrīvaiṣṇavism. Nonetheless, I found that some Bhāgavatas in the villages still had strong links with local goddess worship, or occasionally worshipped other gods to promote village 
+
+286
+
+
+
+
+
+
+
+harmony. A few Bhāgavatas in the cities also did not hold to an exclusive Śrīvaiṣṇava identity. They told me that the various deities were only expressions of the one supreme god, and so there was no essential difference among Viṣṇu, Śiva, Kālī, and tribal deities or, for that matter, the Muslim or Christian deity. And one person argued in an Advaitin fashion that the ‘gods’ were simply aids for meditation and were ultimately an illusion. Some said that because Viṣṇu was the pervader, he was the true god within other gods. In other words, the boundaries defining Śrīvaiṣṇava identity were more porous for many non-Brahmins than they were for orthodox Brahmin Śrīvaiṣṇavas, although those Bhāgavatas who had had *samāśrayaṇam* were more concerned with sectarian boundary maintenance. 
+
+Nevertheless, many Bhāgavatas wore the Śrīvaiṣṇava 
+
+emblem, the *nāmam*, on their foreheads, which identified them as Śrīvaiṣṇavas—and, depending on the shape, as belonging to the Teṉkalai or Vaṭakalai sub-sects—even though wearing the *nāmam* was going out of style in cities and modern workplaces. Although most Bhāgavatas freely described their identity as Śrīvaiṣṇava, they were aware of the differences between non-Brahmin religious practices in villages and *sabhā*s, and Brahmin-dominated temples such as the *divyadeśa*s. 
+
+Occasionally Bhāgavatas made a distinction between 
+
+those who had had initiation \(*samāśrayaṇam*\) and those who had not. Non-Brahmins assumed that they had a choice over whether to be initiated. They knew some *ācārya*s or *jīyar*s who had performed it for non-Brahmins, and at least one Brahmin *jīyar* who had performed it for Dalits.14 There was one case, however, in which access for a Dalit was blocked. She wanted to continue her family’s tradition of *samāśrayaṇam* from a particular *ācārya* family connected to her family, but the *ācārya* in her generation, unlike his father and grandfather, would not initiate her and other members of her family. This is not surprising, given what we discovered about *ācārya*s in the nineteenth century requesting non-Brahmins to do the initiation rituals for Dalits, or what Williams reported several decades ago about some *ācārya*s being unwilling to initiate 
+
+287
+
+
+
+
+
+
+
+Dalits, initiating them only on the veranda or having others handle the ritual implements. 
+
+In any case, most of my Bhāgavata informants considered 
+
+the change in lifestyle required by *samāśrayaṇam* a serious commitment, one that could create complications for their families if some members continued to maintain other customs. Not all were interested in having initiation because this meant that they could no longer eat meat, which was their family tradition, or their own preference. In addition, Bhāgavatas commented that because of their jobs—carpenters, farmers, and lawyers all mentioned this—they did not have time for lengthy morning rituals and chants at home. 
+
+Some Bhāgavatas desired *samāśrayaṇam* precisely because 
+
+it was associated with the status of Brahmanical lifestyle. This can be understood as an example of Sanskritisation. Many older Bhāgavatas, especially those from past elite non-Brahmin castes, whose families had had a tradition of *samāśrayaṇam*, proudly described their parents and grandparents as staunch Śrīvaiṣṇavas because they maintained strict vegetarianism and purity codes. Some had gone further by adopting Brahmanical dress, hairstyles, and even speech.15 In one case, Sanskritisation had broken down the social barrier between a non-Brahmin’s wealthy landlord family and the local Brahmins in the vicinity of Srivilliputur. A descendant of this family, who was my informant, told me why. The districts in this area had experienced little tension between non-Brahmins and Brahmins before Indian Independence because the landed communities such as Naidus and Reddiyars, and not Brahmins, wielded power in the villages. In several cases, non-Brahmins had been so staunch that Brahmins had accepted their purity and allowed them to eat with them. 
+
+There were Bhāgavatas who did not associate the lifestyle 
+
+of those who took *samāśrayaṇam* with upward mobility. They considered it simply an expression of religious piety as good ‘ Śrīvaiṣṇavas’, or the required behaviour mandated by their initiation. Still others, even one Dalit, openly admired the Brahmanical way of life for providing the values, learning, 
+
+288
+
+
+
+
+
+
+
+and discipline that would lead to prosperity in this world, and salvation after death.
+
+However, one Vanniyar did not want initiation on 
+
+principle because that would mean trying to be like a Brahmin by imitating the Śrīvaiṣṇava Brahmin lifestyle. He opined: ‘Why would non-Brahmins want to be Brahmins after what Brahmins have done over the centuries to non-Brahmins?’ Besides, status by imitating Brahmins was no longer necessary now that there were other ways to attain status, such as good jobs and roles in public life. 
+
+
+
+Access to Religious Leadership
+
+Despite the Śrīvaiṣṇava theological message of inclusiveness, the key religious roles of *ācārya*s, *jīyar*s and priests remained Brahmin over the centuries. I was surprised to discover that this had been challenged at the turn of the twentieth century by non-Brahmin leaders, such as Rāmānuja Nāvalar, Bhuvanagiri, and Ekāṅgi Svāmikaḷ, who argued on the basis of their religion’s professed inclusiveness that non-Brahmins could give *samāśrayaṇam*, which meant that they could be *ācārya*s and *jīyar*s. 
+
+These defiant acts made me curious about whether 
+
+Bhāgavata Śrīvaiṣṇavas today hold the same views. I found that few Bhāgavatas, except for some in Puducherry and its environs, knew about this chapter of late-colonial, non-Brahmin history, despite their interest in equality and their knowledge of, or participation in, the non-Brahmin political movement. I was struck also by how many still supported the idea that only Brahmins should perform *samāśrayaṇam*. 
+
+One reason for accepting *samāśrayaṇam* only by a bona 
+
+fide *ācārya* or *jīyar* was because *samāśrayaṇam* was popularly considered the key to salvation; it linked the devotee to the ‘salvific’ figure Rāmānuja \(who had performed *prapatti* for everyone\) through the *ācārya* as intermediary. Another reason was because their families had been connected to specific Brahmin *ācārya*s and *jīyar*s over several generations, and so 
+
+289
+
+
+
+
+
+
+
+these non-Brahmins had a stable and intimate link with them. Not everyone I interviewed agreed with this point of view. Some were critical of *ācārya*s and *jīyar*s because their lifestyles did not instantiate orthodox Brahmanical householder or ascetic norms of dress and behaviour, adequate knowledge of the Vedas, or financial accountability. 
+
+As described in Chapter 6, when Raymond Williams 
+
+interviewed Śrīvaiṣṇavas several decades ago, he found that for some Brahmins and non-Brahmins, a compromise was emerging in connection with Bhāgavatas becoming *ācārya*s. As the tradition had already recognised two types of *ācārya*—those who gave *samāśrayaṇam* and those who taught and interpreted the *sampradāya* texts—some people thought that Brahmin *ācārya* families should continue to do the former, while non-Brahmins could do the latter. 
+
+Many Bhāgavatas since the mid-nineteenth century had 
+
+been teaching the Tamil scripture and Śrīvaiṣṇava *sampradāya* works to other Bhāgavatas. This was becoming more common in the twentieth century, in fact, as non-Brahmins \(as well as Brahmins\) were rewriting Sanskrit and Maṇipravāḷa works in Tamil, along with exegetical aids. Bhāgavata religious leadership was based in part on the ability to give lectures on the works of the *āḻvār*s and *ācārya*s. Several Bhāgavatas, moreover, had done masters or doctoral degrees with dissertations in Tamil on Śrīvaiṣṇava topics. Others, with status as traditional scholars, were publishing their works or continuing the vibrant tradition of oral discourses. 
+
+The genie was out of the bottle, in other words. The status 
+
+that non-Brahmin leaders gained through public discourses about Śrīvaiṣṇavism belonged to a more general context: new notions of the public square since colonial times, which made it accessible to non-Brahmin orators. The creation of non-Brahmin *sabhā*s too provided opportunities for Bhāgavatas to emerge as public figures, who comment on religion, caste, and politics. Unlike the *pulavar* orators of colonial times, with their patrons from closely knit networks, the prevailing pattern of Bhāgavata religious leadership today has been on 
+
+290
+
+
+
+
+
+
+
+a non-remunerative, voluntary basis, understood as service \(*kaiṅkarya*\) to the community, although indirectly it also provides status. 
+
+Nevertheless, it is interesting that most of those Bhāgavatas 
+
+who gave lectures to their communities on religious topics did not describe themselves as *ācārya*s, even in the sense of *granthaācārya*s or those who teach religious texts. Perhaps that was because they took non-Brahmin teachers for granted, at least within non-Brahmin circles. The one exception was Sudarshana Acarya, who had been given this title by a radical *jīyar* intent on destroying caste privilege and discrimination. 
+
+Despite such gains, non-Brahmin religious leaders knew 
+
+that most Brahmins did not take their knowledge seriously, especially at prestigious universities. For this reason, they perceived the 2007 *Symposium on Sri Vaishnavism Tomorrow* at the Oriental Research Institute \(University of Madras\) in Chennai, which had non-Brahmin scholars and leaders at the podium, as a very significant event. 
+
+As for Bhāgavatas being trained in the *Āgama*s and 
+
+serving as priests in major Śrīvaiṣṇava temples, I found my non-Brahmin informants to be generally supportive of, even excited by, this opportunity. Unfortunately, I did not have an opportunity to interview them again on this matter after the Supreme Court delivered its judgment in December 2015, which allowed ‘denominations’ to preserve their traditions in appointing priests, in effect making it impossible for non-Brahmins to become priests in temples withāgamic rituals. 
+
+In this sense, Bhāgavatas were between a rock \(lack of 
+
+priests, whether Brahmin or non-Brahmin, for rituals in their homes and non-Brahmin temples\) and a hard place \(desire for more lucrative priestly roles and elaborate and ‘prestigious’ rituals\). This raises the question: If non-Brahmins see that even Brahmin priests can no longer rely on patronage, or be employed in temples with good salaries, why would they bother to become priests? Of course, for poor villagers, any temple salary might be attractive. They might also hope \(like poor Brahmin priests\) to become priests in major temples with 
+
+291
+
+
+
+
+
+
+
+good salaries \(comparatively speaking\) and connections to wealthy people who hire priests for weddings and other home rituals. 
+
+As for Śrīvaiṣṇava Brahmins, they continued to support 
+
+the tradition of Brahmin priests in major temples such as the *divyadeśa*s. After feeling besieged by the non-Brahmin movement for over a century and experiencing major changes in status and values, they clung to their temple traditions as an important marker of Brahmin identity and history. They were also fearful of government intrusion into the temple world, ostensibly in the name of reform and proper administration, but really, they feared, to obtain temple wealth and use it for government purposes. Because of such fears, the Central government tried to circumvent them by introducing a modern way to unlock temple wealth, so that it could be used for society’s benefit. In 2015, Prime Minister Narendra Modi introduced a scheme with incentives to monetise an estimated 22,000 tons of gold, worth about one trillion USD, which is lying idle in households and religious establishments. The government recognised that the decision-making power would remain with each temple or individual, but hoped that when the gold and silver were melted down, the parties could earn interest on their holdings. Temples, for instance, could use the income for humanitarian services such as hospitals. Modi’s proposal had a ‘lukewarm’ response.16
+
+
+
+Religious Competition in a Saffron Age
+
+Despite occasional tensions, most non-Brahmin and Brahmin Śrīvaiṣṇavas share the view that Śrīvaiṣṇavism needs to be protected from the more popular Śaivism, just as Hinduism needs to be protected against proselytism by other religions. From what I could see, there has been little attempt in Tamil Nadu to bring the major sects together. In Karnataka, some Brahmins tried to consolidate a general Brahmin identity through the concept of the equality of the great sectarian traditions, represented by Śaṅkara, Mādhva, and Rāmānuja 
+
+292
+
+
+
+
+
+
+
+\(in order to create a united front against the state-aided non-Brahmin attack\).17 I did not see sectarian collaboration in Tamil Nadu, aside from occasional, locally organised joint *Tiruppāvai* and *Tiruvempāvai* recitations that cross Śrīvaiṣṇava, Śaiva, and Smārta boundaries. If anything, the government-organised non-sectarian Pongal festival, which celebrates the season’s first rice, has become the important quasi-religious way to create pan-Tamil unity. 
+
+Some *ācārya*s had told Williams that there had been a revival 
+
+in Hinduism in the 1950s. In part, this was a response to the decline of the non-Brahmin movement, both its atheism and its criticism of Brahmin leaders. A new Brahmin willingness to bridge the gap between Brahmins and non-Brahmins was symbolised by the Śaṅkarācārya. Reports Williams, 
+
+The Śaṅkarācārya started touring all over South India by 
+
+foot \(before he was carried by a non-Brahmin\). He had 
+
+probably noticed the non-Brahmin political slogan ‘why 
+
+should we carry Brahmins?’. When he was in his late 
+
+seventies, the Śaṅkarācārya still walked about by holding 
+
+onto a cycle rickshaw for support. He had a major impact 
+
+on both Brahmins and non-Brahmins.18
+
+However, my informants were less optimistic about a Hindu revival today. One of them put it this way:
+
+In my village, there is Muslim and Christian influence. 
+
+There are many Christian conversions. One Harijan, 
+
+whose son had become a Christian, approached me, 
+
+asking me to stop this. Christians get funds from the West. 
+
+Muslims get money from some Arab countries that are oil 
+
+rich. Muslims are not proselytising like Christians; there 
+
+are fewer conversions to Islam. Therefore, Christianity is 
+
+the real problem here. 
+
+When there is intermarriage, Christians pressure 
+
+Hindus to convert. Forty or fifty years ago, for instance, 
+
+a Brahmin boy, whose father was a schoolteacher in 
+
+Sriperumbudur, wanted to marry a Christian. The 
+
+boy was taken to the village where the girl was living, 
+
+converted, and then the wedding took place. Boys or girls 
+
+293
+
+
+
+
+
+
+
+from poor families want to marry Christians so that their 
+
+economic status improves. Nowadays, boys who want to 
+
+go to the Gulf for work often convert to Islam in order to 
+
+get a job there. 
+
+The Śrīvaiṣṇavas in Ekangipuram, the former outcaste hamlet \(discussed in Chapter 3\), worried about conversions to Christianity and Islam. In fact, this worry was expressed to me many times by various castes, in many places. ‘Both Brahmins and non-Brahmins as Hindus and Śrīvaiṣṇavas are concerned about this,’ one person confided.
+
+We need to awaken the masses to their own religious 
+
+tradition and help them understand the religion through 
+
+the Tamil hymns of the *āḻvār*s. Then they become attracted 
+
+to Hinduism. The Śaivas, too, are attracting people 
+
+back to Hinduism through the hymns of the *nāyaṉmār*s 
+
+\(the medieval Śaiva poet-saints\). Today, many Hindu 
+
+organisations are addressing the problem of conversion 
+
+to other religions. They come with evidence and statistics 
+
+of conversion. They give lectures and publish articles 
+
+about this problem.
+
+Occasionally, views on conversion became more political. I was told that today,
+
+only Hindus are not allowed to talk about the problem 
+
+of conversion because of the need to protect minorities. 
+
+The BJP is called communal, but not the Muslim league 
+
+or Christian associations. When the BJP \[Bharatiya Janata 
+
+Party\] and RSS \[Rashtriya Swayamsevak Sangh\] wanted 
+
+to raise this problem in public, other parties such as 
+
+Congress branded them as ‘communal’. In 1948, when 
+
+an RSS person killed Mahatma Gandhi, the party was 
+
+banned by Nehru and others in the government. For 
+
+twenty years, any connection with the RSS was considered 
+
+taboo. In recent decades, the RSS has presented its views 
+
+through the BJP. 
+
+Hindus have been compelled, for instance, to take birth 
+
+control, but not Muslims and Christians. It is not right to 
+
+give political importance to the minorities, for example, 
+
+giving reservations for Muslims. Two states—Uttar 
+
+294
+
+
+
+
+
+
+
+Pradesh and Bihar—will have Muslim majorities in the 
+
+next twenty years. 
+
+After these strong words \(a common litany of woes\), this individual added: ‘There is no connection of non-Brahmin Śrīvaiṣṇava organisations and the BJP and the RSS. The Bhāgavata *sabhā*s are completely religious.’ The implication was that the BJP and the RSS are merely political, although both are famous for their strong Hindu sympathies, referred to by critics as ‘Hindutva’ or ‘Saffronisation’ \(a synecdoche, in which the colour of ascetics’ robes signifies Hinduism itself\). Still, no one had explicitly mentioned to me connections with a pan-Indian party or organisation on the right of the political spectrum. When political identities were discussed, they were with the regional DMK and AIADMK parties and the Congress. Even though I found it hard to detect BJP or RSS affiliations, I do not rule these out because it is well-known that these national Hindu parties have tried to create alliances with parties in Tamil Nadu, and the Tamil parties have connections with *sabhā*s in many communities. Perhaps a study focussed on the politics internal to temples would have revealed more influence, but that was beyond the scope of my research. 
+
+In any case, one could argue that Hindu proselytism to 
+
+counter that of other religions—Christianity, say, or Islam— might help to create Hindu unity, and this in turn might contribute to Saffronisation. In short, there seems to be a kind of threat hierarchy for many Bhāgavatas: first Christianity, then Śaivism, and then Islam. This helps to explain why non-Brahmin leaders have been trying to stem the proselytism of other religions by giving discourses and leading processions in villages, creating new village *sabhā*s that are connected to larger *sabhā* networks, and publishing books to teach Bhāgavatas about their religion.
+
+It is no wonder that Hindutva organisations and political 
+
+parties see processions \(and the larger-scale *yātrā*s\) as key to defining political space, proselytising their message, and binding Hindus into a sense of national community. As we have seen in this study of Śrīvaiṣṇavism in Tamil Nadu, 
+
+295
+
+
+
+
+
+
+
+they have a ready-made platform for politicising religion at the local level that only needs to be tapped and slightly re-oriented. It remains to be seen if south Indian Hindu sects, which have a sense of vulnerability, will provide fertile ground for sacralising the nation-space as, in Deshpande’s terms, ‘the Nehruvian nation-space shaped by an economic geography for the elites declines’.19
+
+
+
+Religion and Caste
+
+Since colonial times, non-Brahmin caste networks have helped to move castes into new industrial, trade, and business jobs that provide economic security as well as social mobility by connecting ancestral villages in rural areas to urban ones.20 My informants in the cities moved freely between outskirt villages, some now suburbs, and cities such as Chennai, Puducherry, Tanjavur, and Tiruchirappalli. They were highly mobile and connected to other places through intersecting networks of religious, social, and political kinds. Young people in the villages were often working in nearby towns and cities, which created another fluidity, thanks to modern transportation and communication. The division of city and village is no longer sharply demarcated, but caste networks are still important.
+
+Arranged marriage within a caste or sub-caste cluster 
+
+remains key to maintaining these functional networks. It is striking that there have been very few inter-caste marriages in India as a whole \(about 11 per cent\), and Tamil Nadu has second to the lowest rate at about 3 per cent,21 despite government monetary incentive programmes to eliminate caste conflict through inter-marriage.22
+
+The continued importance of caste identity and networks 
+
+helps explain why Śrīvaiṣṇava identity continues to have such a strong caste orientation. Religious identity in turn helps the maintenance of caste identity. Religious rituals, for instance, create identification with the caste from childhood and generate horizontal social bonding. Caste identity is 
+
+296
+
+
+
+
+
+
+
+framed, moreover, by a larger religious orientation that gives meaning and purpose to life, culminating in salvation, and this intimately links caste and destiny. 
+
+The fact that members of a caste or sub-caste network 
+
+gather from across the region for special ‘conferences’ or ‘functions’, and that these are framed by religious rituals and chanting, also helps to maintain the loyalty of individuals to their caste. And the fact that major Śrīvaiṣṇava temples have caste-based *maṭha*s that serve their members with lodging or food, especially at festival times, further bolsters network caste solidarity, as does the fact that marriages are arranged at such times of communal gathering. 
+
+In addition, the Śrīvaiṣṇava concept of service to others, 
+
+or *kaiṅkarya*, enhances mutual support by making it key to religious identity, and by fostering a religious ethos of humility, trust, and charity that is essential for ideas of community. The *rāmānuja kūṭam*s have been an especially important institution in this regard. The tradition of feeding devotees, for instance, helps those affected by poverty. Because members of the caste are honoured for their service to the community, definition of this status within the group serves to bond people horizontally, yet still satisfy the desire for recognition, if not status. And when *sabhā*s honour those who serve the community, pride in religious and caste identity grows.
+
+The traditional Śrīvaiṣṇava concept of service has 
+
+expanded in the modern period to include secular notions of social service. Remember Sudarshana in Chapter 3 who offered devotees traditional medicine when they visited his ashram. The key example of social service in a Śrīvaiṣṇava context is the concept of *kaiṅkarya* as social service in the many enterprises of Tirupati, the wealthiest Indian temple and a pan-Indian pilgrimage centre heavily influenced by Śrīvaiṣṇavas. It sponsors hospitals, orphanages, universities, and so forth. Chinna Jeeyar Swami’s creation of schools for tribals and homes for the elderly, orphans, handicapped, and destitute reflects this modern social service orientation as does, on a smaller scale, the Srimaan Trust, run by Parasara 
+
+297
+
+
+
+
+
+
+
+Badri Narayana Bhattar at Srirangam, which provides food, medicine, clothes, and so forth for the needy. 
+
+Do we find differences in how Tamil Brahmins and non-
+
+Brahmins adapt to modernities? When I compared Fuller and Narasimhan’s analysis of Tamil Brahmins with my analysis of Tamil non-Brahmin Śrīvaiṣṇavas, I found both similarities and differences. 
+
+I found similarities between Brahmins and non-Brahmins 
+
+from elite backgrounds within their castes. Many of my informants belonged to families that had privileged positions within their castes several generations ago—Naidu landlords, Vai śya businessmen, Dubash traders or military men, and lawyers during the Raj. Even for those from lower economic echelons, there were early twentieth-century union leaders, small landowners, and workers in key industries such as the southern railroad. These jobs gave them economic security and status that facilitated their family’s upward mobility in post-Independence India. Like the Tamil Brahmins, many had changed from village agrarian life to urban life in Chennai, Puducherry, Tanjavur, and Tiruchirappalli, which demanded of them adaptation to aspects of modernity. Just as caste has remained endogamous for many Tamil Brahmins, so it has for Tamil non-Brahmins, mergers of sub-castes notwithstanding. 
+
+There are differences as well. Let me try to list them.
+
+First, non-Brahmins had a slower start into new modern 
+
+identities, given the much lower rates of education and government jobs in the colonial period. For them, the major impetus for change, both mindset and opportunity, came from the non-Brahmin movement and subsequent Dravidian parties. And it was focussed, by and large, on education in Tamil rather than English, even though many of my interviewees were conversant in English. Still, most of my non-Brahmin informants were optimistic about their own futures. After all, they were lawyers, doctors, professors, academic researchers, government bureaucrats, businessmen, and radio hosts, the elite of their own caste groups. Society had certainly changed for them. Behind these ‘success’ stories, one encounters 
+
+298
+
+
+
+
+
+
+
+modern print culture and education in Tamil, which has led to many opportunities for further education and good jobs. The two exceptions were the two young Nadar men who told me that because of corruption, they would never obtain jobs as university professors, because of the need to pay large amounts of money to secure such a position \(see Appendix 6\).
+
+Second, my informants did not represent their castes or 
+
+caste clusters in the same way as the Tamil Brahmins. The people I interviewed are the elite among their own caste groups, after all, and not the norm. This is not to downplay the significance of their accomplishments for their communities. They have been important models for upward mobility, and many have worked hard to help other members of their group succeed in these new circumstances. Even though they are the elite of their castes, most belong to the middle or lower-middle class in economic terms, not the upper-middle class, which was the group that Fuller and Narasimhan studied. 
+
+Third, there were differences in cultural identities. Fuller 
+
+and Narasimhan found that defining cultural identity through appreciation of Brahminised forms of music and dance had become important for Tamil Brahmins. By contrast, I found that one non-Brahmin caste, the Icai Velalas, had always had music at the core of its self-definition; for others, it was more a traditional family identity, as with some professional Naidu musicians, than a caste identity per se. 
+
+In any case, being music connoisseurs was not a *new* caste 
+
+identity for non-Brahmin castes. Perhaps this was because many people did not live in the city core, because they were not upper-middle class, or because they perceived Brahmin domination of these arts today on the concert stage. It could be, too, that their energies were focussed on identity through their religious caste or caste cluster organisations. Of course, it could also be that my questions were mainly about religious, caste, and political identities, not ones focussed on the arts. 
+
+Be that as it may, I found that sometimes caste identity 
+
+emerged in the foreground, sometimes non-Brahmin identity, sometimes Śrīvaiṣṇava identity, and sometimes Hindu 
+
+299
+
+
+
+
+
+
+
+identity. Castes have exhibited enormous tenacity as well as adaptations to modernity.23 Social scientists focus on thelatter. Christophe Jaffrelot, for instance, summarises24 the interaction of religion, caste, and politics and attributes the crux of the transformation to colonial policies, especially the census, which instigated castes to organise themselves in caste associations for leverage to improve their rank and access to reservations, the associations in turn becoming mutual-aid societies with schools, hostels, and cooperative movements. An important change was the unification of sub-caste groups by using one name in the census. This unification broke the barriers of endogamy among these groups, created ‘non-hierarchical social imaginaires’, and provided an egalitarian alternative identity, which was cultural, historical, collective, and capable of questioning social hierarchies. 
+
+According to Kaivan Munshi, the ‘aggregate evidence 
+
+indicates that there has been some convergence in education, occupations, income and access to public resources across caste groups in the decades after independence’.25 He thinks that this has resulted from both affirmative action and caste-based networks that seek out opportunities. He admits, however, that ‘it will be many generations before income and consumption are equalized across caste groups’.26 Based on comparative data from other developing countries, Munshi concludes that traditional economic networks \(in this context, caste-based ones\) will disappear when a modern market economy is in place. In other words, he abides by a modernisation thesis, albeit a very slow one.
+
+It is impossible to predict the future. In my view, despite 
+
+major changes, caste still is tenacious. It will probably continue to exist as long as it serves a valuable function.
+
+
+
+Women’s Changing Roles
+
+Like many non-Brahmin men, non-Brahmin women were also Periyar’s followers; they proudly declared ‘themselves 
+
+300
+
+
+
+
+
+
+
+atheists and insisted on secular burial rituals for themselves’.27 It is important to see how the lives of non-Brahmin Śrīvaiṣṇava women have changed since Periyar’s time.
+
+As I stipulated in Chapter 1, my research did not extend into 
+
+women’s domestic world and the dynamics and ambiguities of their devotional activities with reference to male authority and caste status. 
+
+However, I did encounter non-Brahmin Śrīvaiṣṇava 
+
+women who were housewives, caring for young children or their extended families, and although I met women still conforming to conservative norms for women, I was struck by how many non-Brahmin women from many castes I met during my interviews were working women. For instance, one had a B.Com. degree and was working as a medical transcriptionist; another, the daughter of a female teacher, was a purchase officer for the Corporation of Madras; another was the director of a major Chennai company; and one was an academic researcher, contributing her expertise in languages and Śrīvaiṣṇavism to international projects. I was told about wives who were medical doctors, a sister who was a nurse, and daughters planning to be physicians or engineers. Some women were extending their education through post-graduate diplomas and correspondence courses. However, former *devadāsi*s and their daughters were struggling with downward mobility, if not debilitating poverty, because of the Madras Devadasis \(Prevention of Dedication\) Act of 1947, which had made their traditional profession illegal. 
+
+These were changing times for Śrīvaiṣṇava women. On 
+
+several occasions, I lectured at M. O. P. Vaishnav College for Women in Chennai. Although people told me that for many young women, college education functioned more as a marriage credential than a stepping stone to further education and a career, the young women I spoke to were intellectually curious and seemed to take their education seriously. Who knows what would happen after marriage? Would they be like the Brahmin women in *ācārya* families, who gave up further education or careers to abide by traditional norms of 
+
+301
+
+
+
+
+
+
+
+*str īdharma*, which were still a mark of status in some circles? Or would they be teachers, lawyers, engineers, and doctors? I would bet on the latter.
+
+In this context, we should remember that in many non-
+
+Brahmin castes, women have always worked outside the home, and that the system of south Indian cross-cousin marriage maintained important kinship ties for women close at hand, which gave them emotional support after marriage. Munshi has found that lower-caste girls, whose mothers have labour jobs outside the home, are more likely to pursue educational and job opportunities. He thinks, however, that their opportunities increase if they are freed from the constraints of arranged marriage to maintain the caste’s network. With inter-marriage, their income level increases, as does the education of their children.28
+
+I also encountered some *ācārya*s who were conflicted about 
+
+women’s roles. *Acārya*s wanted educated brides, even though many also wanted them to stay at home after marriage. Others feared the rising divorce rate that would create problems for the arranged marriage system. These views, I suspect, kept some Teṉkalai Brahmin women from staking out new identities and moving into the more lucrative jobs that would give them upper-middle class standing, although some certainly did.
+
+I was struck by the fact that most of the Bhāgavata men 
+
+who argued so strongly for non-Brahmin priests as an issue of justice did not raise the question of whether women should also be priests. Despite the fact that the Tamil Nadu government ordinance of 2006 uses the gender-neutral language of ‘person’, it was only young men who attended the Chennai school for training priests \(because male priests had always been the tradition in Vaiṣṇava temples\). 
+
+Regardless, the Supreme Court’s ruling that the priesthood 
+
+should be based on precedent, which for Śrīvaiṣṇava priests is the Pañcarātraāgama \(with its custom of a male priesthood\), has reinforced the priesthood as a male enclave in Śrīvaiṣṇavism. The argument of precedent has allowed the Court to circumvent engaging with common arguments about 
+
+302
+
+
+
+
+
+
+
+why women should not be priests, such as women’s impurity when menstruating, or the impropriety of a woman receiving gifts from a man who is not her husband \(priests sometimes receive such gifts\), or the seemingly ‘adulterous’ act of performing rituals symbolising the bonding between the client and the priest, which in this case would be between a woman and an unrelated man, and scandalous in orthodox eyes. 
+
+I suspect that women priests, at least in the near future, 
+
+will continue to be found mainly at some goddess shrines that have an established tradition of female priests, such as Melmaruvatur, about 80 kilometres from Chennai, where female priests perform *p ūjā* to the goddessādi Paraśakti and female devotees, dressed in red to symbolise the blood that flows through everyone, visit the temple even when menstruating. 
+
+That said, the role of non-Brahmin Śrīvaiṣṇava women as 
+
+religious teachers and chanters has been gaining momentum. Non-Brahmin women are teaching other women and children verses from the *Divyaprabandham*, or leading the chanting in *sabhā*s. In addition, they are giving public discourses on religious topics. Likewise, *sabhā*s are inspiring non-Brahmin women to take up leadership roles and become active in the women’s wing of some of the large Śrīvaiṣṇava *sabhā* organisations. *Sabhā*s are important, moreover, for women’s family interests and networks. District and pan-Tamil Nadu conferences are times, for example, when women facilitate the process of arranging marriages. Śrīvaiṣṇava women’s religious expertise and oratory skills reach even beyond the *sabhā* context. I attended a public lecture by a Sattada woman, a medical doctor by profession, who had attracted a large crowd to hear her discourses on one of the Hindu epics.
+
+Besides the fact that these are changing times with women 
+
+on the ascendant, some non-Brahmin men recognise that support of women is important if caste networks, the locus of male economic and political power, are to be maintained. But they also keep decision-making power largely in their control, unless it pertains to the interests of just women.
+
+303
+
+
+
+
+
+
+
+Religion, Democracy, and Hindutva
+
+Religion and politics in Tamil Nadu have been intertwined in various ways. This is particularly true for the elderly Bhāgavatas whom I interviewed, who had lived through the turbulent politics in the late-colonial period and had been influenced by Gandhi and Periyar. 
+
+One Bhāgavata thought that his understanding of 
+
+Śrīvaiṣṇavism and his Gandhian/Congress affiliations came together in terms of equality. He had been a member of a group that promoted chanting of the *Divyaprabandham* by both Brahmins and non-Brahmins. He had also chosen to be initiated by a Brahmin who radically supported all non-Brahmins, including Dalits. Nevertheless, he implied that most Brahmins would have to mend their ways and develop real affection for non-Brahmins. Another Bhāgavata—who had been influenced by his father, a disciple of Bhuvanagiri, who worked for equality in the late nineteenth and early twentieth century—had supported the DK for a while. When he detected hypocrisy and grew disillusioned, however, he returned to Śrīvaiṣṇavism and worked to ensure that its message of equality was put into practice. Still another person had been a communist and union leader. He returned to religion when he detected double standards. 
+
+Someone else found an affinity between his Śrīvaiṣṇava 
+
+views of equality and Periyar’s sense of equality. His subsequent participation in the DMK, which he thought did not live up to its own ideal of equality, led to cynicism and rejection of both its atheism and political orientation. This person found in the *āḻvār*s the ideal of a casteless and classless society. Since it had not changed society sufficiently, he saw the need for reform today, even though he did not think there was much hope for it. Either Brahmins would have to change, he suggested, or schools would have to teach non-Brahmins both Sanskrit and Tamil religious literature. 
+
+Many Bhāgavatas themselves pointed to a detection of 
+
+DMK hypocrisy as the reason for their return to religion after 
+
+304
+
+
+
+
+
+
+
+the heyday of Periyar’s movement. Of course, it is also possible that the waning of Periyar’s fierce atheism had paved the way for a return to religion, as had the turbulence of modern life. Those who returned to Śrīvaiṣṇavism after participating in the non-Brahmin movement belonged, moreover, to non-Brahmin families with a strong Śrīvaiṣṇava family history, and probably had never lost their deep religious orientation. Furthermore, it is possible that as these Bhāgavatas aged, they thought about religion more often. 
+
+Rajadurai and Geeta, in a 2017 interview for *Forward Press*, 
+
+explain the massive return to religion as follows. Although Periyar ‘interrupted, powerfully and with intellectual and social verve, a longer history of religiosity, that does not mean that this history was stood on its head. Its logic persists to this day.’29 It was State power, whether that of Napoleonic France or the Soviet Union, they point out, that dislodged religion, ‘not rational persuasion or consistent civil opposition’. 
+
+At any rate, one thing is very clear. All of my Bhāgavata 
+
+informants thought that the twelfth-century Śrīvaiṣṇava savant Rāmānuja was the egalitarian par excellence. One person after another told me stories about Rāmānuja’s affection for non-Brahmins and his activist stance against the caste system. He had introduced the distribution of food supplies to anyone who came to the temple, for instance, without any restriction. He had approached a non-Brahmin, Tirukaccinampi, to be his teacher. Rāmānuja had become an ascetic, moreover, after his wife’s failure to treat a non-Brahmin properly. And he made the recitation of the sacred syllable *om* available to everyone. 
+
+Many of these stories come not from what we know textually 
+
+about Rāmānuja as the erudite author of the commentaries on the *Brahmasūtra* or *Gītā*; rather, they come from hagiographies written centuries later about his life. Nevertheless, this view of Rāmānuja’s critique of the caste system underscores the idea that God is gracious, salvation *in this life* is available to everyone, and religion is based in a community of devotees who respect and serve all members. The hagiographic images of Rāmānuja have been religious touchstones, as it were, of 
+
+305
+
+
+
+
+
+
+
+the non-Brahmin political impulse for equality that has swept Tamil Nadu since the late nineteenth century and provided a foundation for equality within democracy after Indian Independence. 
+
+Another thing is very clear. The fact that the *āḻvār*s came 
+
+from many castes is central to non-Brahmins’ identification with Śrīvaiṣṇavism. Stories about the *āḻvār*s were more popular, in fact, than the *āḻvār* verses collected as the *Divyaprabandham*, judging from how often people told these stories to me with great delight. That said, the *Divyaprabandham* as *Tamil* scripture—the Tamil Veda—is core to Bhāgavata identity as well. And the caste-inclusive rhetoric found in many Śrīvaiṣṇava works remains significant in Bhāgavatas’ view of ‘real’ religion, inspiring them to read anachronistically the idea of a casteless society into Śrīvaiṣṇava *sampradāya* views on inclusiveness and equality; but this seems to be a romanticised ideal that has little to do with removing caste identities. Despite the religious impulse for equality and identification with new political movements for equality, caste identities have remained. Desire for equality did not inspire inter-caste marriages in the past, nor, it seems, even in the present. I did encounter a description of one such marriage in my interviews—a man who had married a woman from another caste during the time when both were members of the DMK. Moreover, for many Śrīvaiṣṇavas, caste and caste networks have continued to have functional importance, from welfare nets to political clout. 
+
+Non-Brahmins today think that the problem of 
+
+discrimination lies with certain Brahmins, not with the inclusive theology of the early *ācārya*s. Some Brahmins, they said, no longer follow the rules of orthodoxy and therefore are ‘not real Brahmins’, or some Brahmins have abused their power over the centuries, which is why there is a non-Brahmin movement today. Because this view of Rāmānuja as reformer is at the heart of Bhāgavata religiosity, many of my informants viewed Brahmin support for caste hierarchy in all its manifestations over the centuries as a sign of moral decline.
+
+
+
+306
+
+
+
+
+
+
+
+Turning to the big picture of the relation of religion to 
+
+democracy, I find Lucia Michelutti makes an important point: since the Constitution has linked ‘rights to collectivities rather than to individuals, the Constitution made categories like caste, tribe, religion, and ethnicity open to endless political manipulation’.30 She notes that, paradoxically, political use of the categories caste and religion ‘is deepening democracy among all sectors of society, and in particular among the marginalized’.31 Religion, Michelutti argues, is not an epiphenomenon of this process, or something to be ignored as mere tradition standing in the way of democracy and modernity, but rather provides values and practices that energise popular politics and caste populism. 
+
+My findings agree in part with Michelutti’s view that 
+
+the values and practices of democracy become embedded in particular cultural and social practices, and in the process become entrenched in the consciousness of ordinary people. A problem exists, however, with her theory of the vernacularisation of democracy. It implies that it owes its origin just to the West, and ignores the deep roots of Indian concepts of equality and service that contribute to modern ideas. As such, the idea of vernacularisation is too top-down to adequately characterise the dynamic interaction of religion and politics. This calls for a history on the ground and, to use Deshpande’s phrase once again, a history of the present to reveal just how Indian democracy has a distinctive character, whether one is focussed on India in general, or on Tamil Nadu in particular. 
+
+
+
+Religion, Caste and Vote-bank Politics
+
+Vote banks are organised by caste. In Indian democracy, a numerically dominant caste, which will be spread over a wide area in a political constituency, will have an electoral advantage if members are organised through existing networks, *sabhā*s, and especially middle-men who link the caste to a party in order to deliver votes. When the candidate wins, s/he will 
+
+307
+
+
+
+
+
+
+
+reciprocate by fulfilling promises. Reciprocity between a dominant caste and a political party must be based on trust and cooperation, moreover, so that their power alliance can move beyond a particular election.
+
+In Tamil Nadu, the three politically dominant castes are 
+
+the Tevars \(about 26 per cent of the population\), Vanniyars \(about 18 per cent\), and Gounders \(about 14 per cent\). These gained power in the rural areas after land reforms in the 1950s, when land was transferred from absentee Brahmin landlords to lower-caste independent cultivators. They became better-off than ‘lower castes in the upper caste dominated village’,32 because after the reforms they had better land and they gradually obtained better education. With the growth of Other Backward Classes \(OBC\) power after implementation in 1990 of the Mandal Commission Report, which expanded reservations to this cluster of middle castes, they gained further access to education, jobs, services, and other resources. In this context, it is important to remember that many Vanniyars are Śrīvaiṣṇava.
+
+The only other group with a large population is the Dalits, 
+
+who constitute 21 per cent of the population \(and 25.55 per cent of households in rural Tamil Nadu\),33 which means that if they become politically organised, Dalits can challenge the other numerically powerful castes, unless they align. Perhaps this is why Tamil Nadu stands third in the nation for crimes against Dalits, and the conviction rates for crimes against Dalits is the lowest in the country at 12.5 per cent \(compared to 46.5 per cent in Rajasthan and 54.1 per cent in Uttar Pradesh\).34 In this context, one remembers headlines such as ‘Dalit Student Hacked to Death for Intercaste Marriage in Tamil Nadu’.35
+
+The subject of ‘vote-bank’ politics was occasionally 
+
+mentioned in my interviews by those who criticised the dominant castes for such practices and the power that accrued. It was never mentioned by the Vanniyars, who formed the second largest caste in Tamil Nadu. Whenever I asked about political connections with a *sabhā*, in fact, I was assured that it had nothing to do with politics. Does this mean that members 
+
+308
+
+
+
+
+
+
+
+of the dominant caste preferred not to expose this link to an outsider, a link which we know is strong from other sources? 
+
+
+
+Continuity and Change, Tamil-style
+
+Several events between 2015 and 2018 dramatically illustrate how Śrīvaiṣṇavism, caste, and politics have remained intertwined. In 2013, Sruthisagar Yamunan, president of the DMK, interviewed M. Karunanidhi,36 then at the ripe age of ninety-one. Yamunan asked him why he—the very custodian of Periyar’s legacy, an avowed atheist and anti-Brahmin—was planning to script a television series on ‘Saint Ramanuja’ for the Tamil channel Kalaignar.37 Karunanidhi replied:
+
+I know that Ramanuja is one among the great men who 
+
+engineered revolutions in religion. When a request was 
+
+made that I narrate those incidents, which sowed the 
+
+seeds of change, to the people to nourish their thinking, 
+
+I came forward and took it up. But because I am writing 
+
+about a part of his life, it does not mean I have accepted 
+
+his theistic idea or given up my atheistic, self-respect 
+
+ideology.38
+
+When Yamunan pressed him further by asking why leaders like him held a high opinion about Rāmānuja, a Brahmin, Karunanidhi suggested that it was because Rāmānuja treated all faiths and the oppressed classes equally, ‘with respect and without discrimination’. \(He did not add that Periyar had belonged to an elite Śrīvaiṣṇava non-Brahmin family, but had, from childhood, turned against his family’s religious background.\) As for the fact that Rāmānuja was a Brahmin, Karunanidhi implied that it was Rāmānuja’s reforms that were important, not his caste. Besides, other Brahmins such as Rajaji \(C. Rajapogalachari\) ‘have mingled with our thoughts’. 
+
+Yamunan next asked whether the television series would 
+
+destroy the popular view that the DMK criticises Hinduism, to which Karunanidhi replied that ‘90 percent of those in the DMK belong to the religion you mentioned. However, we are against fundamentalist activities of a few who claim to be the 
+
+309
+
+
+
+
+
+
+
+protectors of Hinduism’.39 Pushed again by the interviewer about whether Rāmānuja’s followers have implemented his reforms, Karunanidhi noted that Rāmānuja’s reforms did not lead to major changes but, given his times \(the twelfth century\), his reforms ‘did create awareness to an extent’. When Yamunan queried, ‘Why did the DMK not recognize Rāmānuja or his reforms when it was in power?’ Karunanidhi replied:
+
+It is true we did not recognize him individually when 
+
+we were in power. But we did function in a manner 
+
+that recognized his social reforms. For example, the 
+
+Government Order allowing persons of all communities 
+
+to become priests; release of several books such as Tamil 
+
+Aagama Noolgal, Tamilil Vazhipadu, Tamilil Velvi, Tamil 
+
+Potri; coaching centres for training in Divya Prabandham 
+
+\(Vaishnavite bhakthi poems\) in areas where Dalits, Tribals 
+
+and Backward Class people lived etc. There is a long list 
+
+of such achievements under the DMK’s rule.40
+
+In October of that year, the media was offering further evidence of a shift from DMK’s radical atheism to religious tolerance.41 M. K. Stalin, Karunanidhi’s son and president of the DMK, had visited the Śrīvaiṣṇava *divyadeśa* Tirukkottiyur just before the 2016 Assembly Elections. \(According to some hagiographies, Tirukkottiyur is where Rāmānuja had travelled seventeen times to learn the sacred mantra *oṁ namo nārāyaṇāya* from a sage, but was continually rejected by the sage until Rāmānuja had eliminated his egoism. On the eighteenth visit, he received the mantra. Although the sage instructed him to keep it secret, Rāmānuja climbed to the top of the temple tower and shouted it out for all villagers to hear, rationalising his action by saying that it would help them attain salvation.\)
+
+When asked about his visit to the temple, Stalin said that it 
+
+was not to personally pray, but rather to visit the place where the series on Rāmānuja was being broadcast. Later, Stalin echoed on his blog Karunanidhi’s recent comment that 90 per cent of DMK members were Hindus and that the DMK government had spent money on temples in Tamil Nadu. The matter of the DMK’s new tolerance of Hinduism was being 
+
+310
+
+
+
+
+
+
+
+debated on blogs. One person speculated that by appearing supportive of Hinduism, a door would be open for a DMK–BJP alliance. Another suggested that it was necessary for the party’s popularity because its competitor, the AIADMK, accepted religion and temples and had the support of the dominant castes \(eight Tevars and eight Gounders were in the AIADMK cabinet at the time\). Because the DMK had been viewed as anti-Tevar, it came as no surprise that Stalin had begun to promote Tevars in his party. Here, too, we find continuity—religion remaining important, say—but also change, represented by the DMK’s repositioning itself on the sensitive issue of religion when out of power. 
+
+Just as DMK leaders who had long championed atheism 
+
+and anti-Brahminism in the Periyar tradition were softening their rhetoric against religion, tensions involving religion, caste, and politics were escalating. These began when Jayalalithaa died on 5 December 2016. In the immediate aftermath, old tensions between non-Brahmins and Brahmins flared over what was to be done with her body. As already mentioned, Jayalalithaa was a Vaṭakalai Śrīvaiṣṇava Brahmin. She often wore the Śrīvaiṣṇava \(Vaṭakalai\) *nāmam* on her forehead and prayed regularly. But unlike the tradition of cremation for Śrīvaiṣṇava Brahmins, Jayalalithaa was buried. The papers hotly debated this fact. 
+
+*The Indian Express* mentioned that one reason given for 
+
+why the Tamil Nadu government buried her next to MGR’s memorial on Marina Beach was that 
+
+she was not an Iyengar for us ... she was beyond any 
+
+caste or religious identity. Even most ... Dravidian 
+
+leaders, including Periyar, Anna Durai and MGR, were 
+
+all buried....42
+
+Another reason for burial was that it made it possible to have a memorial. One person offered the view that Sasikala, who had been Jayalalithaa’s close friend and foster sister, and who was planning to take over the government, did not want Jayalalithaa’s relative Deepa Jayakumar—the only blood relative in line for performing the death ritual—to be in the 
+
+311
+
+
+
+
+
+
+
+spotlight, fearing that she was a potential rival for the role of Chief Minister.43 I would add: burial had long been common for some Hindus. Ascetics, for instance, were buried because cremation rituals were household ones, done by a son with a Vedic fire, which ascetics who had renounced household life could not do. In the ancient Dravidian world as well, heroes would be buried and the place marked by a ‘hero’ stone. In modern times, saints and political heroes have been buried, honoured, and even worshipped at *samādhi*s. Elsewhere, some *samādhi*s such as that of Gandhi contain only the ashes after the body had been cremated.
+
+The *Huffington Post*44 reported that after the burial, 
+
+Jayalalithaa’s relatives in Srirangapatna in Karnataka, who were miffed at not being consulted about the burial, gave her a traditional Vedic cremation on the banks of the Kaveri river. If you are wondering how you can have a cremation without a body, Hindu ritual already had a script for such situations: one uses an effigy. One blogger said that a cloth doll represented Jayalalithaa. Another blogger offered the Vedic ritual details, saying that the body was represented by traditional *darbha* grass, and that Vedic chants ‘recreated’ the body.45 Whatever the case, the ashes of the cremated effigy were then immersed in the Kaveri. Some people attributed the different decisions regarding burial or cremation made by politicians and her family to the law of karma. Be that as it may, continuity and change coexisted to keep everyone satisfied. One can always find strategies in ancient Hindu texts to resolve such conflicts.
+
+There is more to tell in the ongoing saga about religion 
+
+and politics in Indian democracy. After Jayalalithaa’s death, it seemed that Sasikala would replace her as Chief Minister of Tamil Nadu. Because she was a Tevar, she would maintain the AIADMK’s important alliance with the numerically dominant Tevar caste. Then O. Panneerselvan, also a Tevar and acting Chief Minister after her death, who had been supporting Sasikala, turned against her in February 2017 and allied with E. K. Palaniswami from the Gounder caste, the third largest one in Tamil Nadu. 
+
+312
+
+
+
+
+
+
+
+Just after that, the Supreme Court finally settled a 21-year-
+
+old case of corruption against Sasikala and ruled that she could not contest elections for ten years. In the wake of this verdict, she nominated Palaniswamy as leader and he became Chief Minister later that month, and his new ally O. Panneerselvan became Deputy Chief Minister of Tamil Nadu and Convenor of the AIADMK. This alliance brought together the first and third of Tamil Nadu’s most dominant castes—the Tevars and the Gounders. It comes as no surprise that later that year, the Vanniyar, the second most powerful caste which had been left out in the alliance, was pushing for more cabinet posts. 
+
+These political manoeuvers reverberated in Delhi. All-
+
+India parties such as the Congress and the BJP needed alliances with Tamil Nadu parties to maintain their own power. This was why Rahul Gandhi had been reaching out to the AIADMK during Jayalalithaa’s illness and to the Party after her death, even though his Congress Party supposedly had an alliance with the DMK. The BJP was also jockeying for a connection. 
+
+In this case, Dr Vasudevan Maitreyan was a key link. He 
+
+had been a former MP in the Rajya Sabha \(Council of States or Upper House of the Indian Parliament\), representing the AIADMK. Like Jayalalithaa, he is a Va ṭakalai Śrīvaiṣṇava Brahmin. When Jayalalithaa was alive, he acted as her representative to Prime Minister Modi. This ended in 2014, when he fell out of favour with her. No doubt sensing an opportunity for a political comeback, Maitreyan immediately headed to O. Panneerselvam’s residence within an hour of the acting Chief Minister’s change of allegiance from Sasikala to Palaniswamy. 
+
+This provided the BJP with a back door into the AIADMK, 
+
+because Maitreyan had belonged to the RSS and then the BJP from 1990–99, serving first as general secretary, then vice-president, and finally president of the Tamil Nadu unit, before quitting to join the AIADMK. Many political commentators noted that his long-standing saffron sympathies might connect the AIADMK and the BJP. At the very least, Maitreyan’s Delhi connections, developed during his tenure in the Upper House 
+
+313
+
+
+
+
+
+
+
+of Parliament, could prove valuable. In any case, Maitreyan’s influence would continue a Brahmin presence close to the dominant party alliance in Tamil Nadu, and that would be of interest to Brahmins within the BJP, who were promoting Hindutva through political alliances with dominant castes.
+
+The saga goes on. H. Raja, another Tamil Brahmin, who 
+
+was the BJP national general secretary, threatened on his Facebook account in March 2018 that Periyar’s statue in Tamil Nadu should be destroyed like Lenin’s had been in Tripura, just after the BJP won an election that ousted the CPI\(M\) state government. M. K. Stalin immediately warned that no one should dare touch E. V. R.’s statue. Nevertheless, a local BJP member and his Communist friend vandalised a Periyar statue. The next day, the BJP Coimbatore office was petrol-bombed and some Brahmins attacked near the Parthasarathy temple in Triplicane \(Chennai\), and their sacred threads cut off. \(They might have been Śrīvaiṣṇavas who live around that temple.\) 
+
+In a home ministry advisory, Prime Minister Modi said 
+
+that he disapproved of the vandalism of the Lenin and Periyar statues and ordered that such statues be protected elsewhere. Other BJP party members echoed the Prime Minister, adding that anyone engaging in such actions would be disciplined. Gradually, tensions subsided. 
+
+Then, on 7 August 2018, Karunanidhi died at the age of 
+
+ninety-four. Condolences poured in from all parts of India, hailing him as a deep-rooted mass leader with a firm moral compass, especially for social welfare but also for opposing the Emergency, a moderniser intent on developing IT, a brilliant party organiser, a masterful speaker who could draw on an extensive knowledge of ancient Tamil literature, and a literary figure who wrote poetry, novels, essays, and a daily column in the DMK’s newspaper. 
+
+Almost immediately, a conflict broke out over a request for 
+
+permission from the AIADMK-led state government to build a memorial on Marina Beach next to Annadurai, a request that was refused and immediately taken by the DMK to the Madras High Court, which quickly ruled in the DMK’s favour. 
+
+314
+
+
+
+
+
+
+
+In the meantime, the Central government announced that there would be a full state funeral and plans were made for an official day of mourning, when government offices and educational institutions would be closed. 
+
+Within a week of the funeral, the nation’s newspapers were 
+
+offering more nuanced analyses of Karunanidhi’s legacy, noting his shadowy nepotism \(like that of Jayalalithaa for her clan\), but also his capacity for subtle compromise. They were also at work, taking stock of where Tamil Nadu’s politics were headed. Some argued that the DMK might be in a good position to win the next election \(2021\), thanks to a pre-arranged succession through Karunanidhi’s son M. K. Stalin and the lack of charisma and pettiness \(the rejection of the memorial request\) of the current AIADMK leadership. But others saw a political vacuum that could be exploited by outside parties such as the BJP or Congress, and still others prophesised a challenge to Stalin’s leadership by M. K. Alagiri, Stalin’s brother.
+
+The deaths of Jayalalithaa and Karunanidhi within a year 
+
+of each other signalled the end of an era. It makes sense to draw our discussion to a close.
+
+
+
+Final Thoughts
+
+Even though I found some patterns when considering particular themes that emerged from an analysis of my interviews with Bhāgavatas, I am aware that these patterns can change very quickly. Tamil society is rife with stress and ferment, partly because of its history and partly because of its many collisions and collaborations with aspects of modernity, however conceived. 
+
+Another whole book could be written, for instance, with a 
+
+focus on non-Brahmin Śrīvaiṣṇava youth and how the Internet is transforming their view of reality. In 2016, *The Times of India* was reporting, for instance, that ‘Tamil Nadu has the highest number of broadband subscribers in the country’.46 As I was doing my research, I could see that the Internet was also transforming 
+
+315
+
+
+
+
+
+
+
+religion. Some *ācārya*s and *jīyar*s \(or their supporters, if they were not computer literate\) were communicating with disciples through the Internet to arrange events, solicit donations, and promote pilgrimages to all the *divyadeśa*s in Tamil Nadu, or even to remote ones in the Himalayas. A Śrīvaiṣṇava publisher and bookstore had a large Internet presence. Devotees in the diaspora were connecting through the Internet with their *ācārya*s and fellow Śrīvaiṣṇavas in Tamil Nadu.
+
+I often found relevant Śrīvaiṣṇava sites during my 
+
+research. Some were dedicated to making *sampradāya* works available online, others to explaining intricate details of doctrines or rituals, and still others to recounting Teṉkalai and Vaṭakalai histories. Many of these sites were managed by retired Brahmins. Some were by non-Brahmins who were facilitating their caste’s connectivity through e-magazines or blogs. The major temples and *maṭha*s had their sites, which included the schedules for daily worship and festivals. And the Government of Tamil Nadu had its own sites to promote temple tourism, or the activities of the Hindu Religious and Charitable Endowments, including all their activities to improve non-Brahmin religious lives. 
+
+These are by no means the only kind of sites for the topics 
+
+discussed in this book. On *Quora*, a California-based question-and-answer platform started by former Facebook executives, for instance, one finds the question, ‘Why is there hate for Brahmins in Tamil Nadu?’47 It is difficult to know whether those who answered are digital nerds in the diaspora or Tamil Nadu. 
+
+Nonetheless, they do reveal a range of views. Periyar 
+
+was ignorant, hypocritical, and attracted non-Brahmins with his message of contempt. The British were anti-Brahmin. The British divided the Brahmins and non-Brahmins. There were so few Brahmins, they could easily be victimised. Many Tamils who are famous have been Brahmins. Brahmins do not live up to the true meaning of being a Brahmin, which is devotion to the supreme. Brahmins by culture were docile and could not fight back. Since there were only Brahmins and *śūdra*s in the society, there were no other *varṇa*s to mediate the poles. 
+
+316
+
+
+
+
+
+
+
+Brahmins were flexible, adapted to new conditions and became successful, which made non-Brahmins jealous. Brahmins were the first to learn English and so were successful. Brahmins look and speak differently, and so they could be easily identified for victimisation. Non-Brahmins have an inferiority complex. ‘Othering’ Brahmins avoids dealing with real social issues. Films have made fun of Brahmins. 
+
+The bloggers drew on their knowledge of history and their 
+
+own experiences in their comments. Some thought the problem of hating Brahmins had largely disappeared, especially if Brahmins had non-Brahmin friends and avoided arrogance. Others thought that Brahmins were still experiencing discrimination. 
+
+Another question on *Quora* was about the position of 
+
+Śrīvaiṣṇavism on the caste system. Two answers are given. One argues that Śrīvaiṣṇavism focusses on *varṇa*, not caste, and argues that Śrīvaiṣṇavas should observe the duties of their *varṇa*, per the authority of Rāmānuja. There is no discrimination in Śrīvaiṣṇavism because there is no hierarchy in the original conception of *varṇa* \(hierarchy came later\), and because there is a means to attain salvation for each *varṇa*. Thus, there is no discrimination, although there are distinctions in the duties and type of path towards salvation.48 Put otherwise, there is unity in diversity. The other answer is similar; it says that Rāmānuja and other preceptors did not rank the *varṇa*s, that everyone is equal because of God’s unconditional grace and love, and because everyone can have *samāśrayaṇam*, can attain salvation, and has equal opportunity to do good.49 Thus, Bhāgavata identity transcends caste identity.
+
+*Quora*50 even had a question on the significance behind 
+
+doing *samāśrayaṇam*. Answers included definitions of identity \(worshipping only the supreme deity Nārāyaṇa, being branded on the shoulders, and wearing the *nāmam*\); eligibility for formal worship; devotion to one’s own *ācārya*, the mantras he taught, and access to salvation through his link back to Rāmānuja, who sought liberation for everyone; and attainment of supreme heaven at the end of this very life.
+
+317
+
+
+
+
+
+
+
+Juli Gittinger reminds us that the Internet is a site for more 
+
+general discussions of Hinduism. 
+
+Theoretically, Hinduism would seem to have a natural 
+
+affinity towards electronic media; the lack of central 
+
+institutional authority allows for more participatory 
+
+discourse, the diversity of Hinduism as practiced ‘on the 
+
+ground’ should allow for more variations to be promoted 
+
+and accepted on the web.51
+
+The web, she suggests, is also a domain where religion ‘becomes abstracted, simplified, westernized, or distorted’.52 Hinduism might be imaged as the ‘world of Vivekananda, ashrams, colorful gods and goddesses, exotic music, and incense-laden ritual’.53 Or it can be politicised. Her case study of the latter is the BJP, which has a team of 100 IT and social media experts, and skilfully uses social media and cyber-activism. The ‘electronic public sphere’, Gittinger observes, ‘is a theater in which “Hindu” \(identity\) and “Hinduism” \(religion, culture, political ideology\) is contested openly’.54 Online communities are formed. Some Facebook pages have rules to define belonging: no secularists, Marxists, or even those who accept religious pluralism. 
+
+I cannot go further into this new reality, which has had only 
+
+scant research, except to say that it bears watching whether it enhances inclusiveness in the public sphere and how it shapes future understandings of Hinduism and its relation to the state, not to mention Śrīvaiṣṇavism’s relation to the Tamil Nadu government and to Tamil political parties, as well as national ones such as the BJP and the Congress. 
+
+Come what may, it is evident that religion, caste, and 
+
+politics remain closely connected in Tamil Nadu and India as a whole. As Monika Wohlrab-Sahr and Marian Burchardt argue,55 secularity should be distinguished from secularism \(the ideologically desired absence of religion\). It should be understood empirically as the separation of State and religion, be it for individual freedom, balancing religious diversity, promoting economic and social progress, or creating the independence of institutional domains. There are multiple 
+
+318
+
+
+
+
+
+
+
+secularities, related to specific cultural histories and the problems the society is facing. 
+
+The prevailing model in Tamil Nadu, I think, has been 
+
+economic and social progress. Politicians have engaged in a reform of Hinduism, from making it possible for Dalits to enter temples, to ensuring that temples are financially accountable, to attempts to open temple jobs to any qualified Hindu. This model of progress is certainly in play with other national models, such as balancing religious diversity \(the Congress party model\) or asserting Hinduism’s primacy \(the BJP model\).
+
+Many questions remain. Were the threats to Periyar’s 
+
+statue that led to counter-attacks on Brahmins in Triplicane simply flare-ups or signs of ongoing deep tension? And what about the BJP inroads into Tamil politics? What about the theories that features of modernity and secularity will eventually converge on the Western model? Will problems of survival or fundamentalism take hold, making other histories possible? Is there a new form of Tamil nationalism developing as a pushback to Telugus in positions of power?56 Will Mother Tamil have new political incarnations?
+
+Clearly, the interviews in this book and our case study 
+
+of Śrīvaiṣṇavism reveal that we must do a better job of documenting and reflecting on history from below and the history of the present to capture how religion, caste, and politics are intimately connected and shape the flow of events. Ultimately, careful tracking of societal trends, including religious ones, with large-scale surveys and listening carefully to the voices of ordinary people, including women and youth belonging to various religions and castes, will provide the best insights into what the future might hold. 
+
+Whatever the future, I hope this study introduces the rich 
+
+traditions of Śrīvaiṣṇavism as it interacts with changing caste and political identities. At the very least, I hope it contributes to a better understanding of Śrīvaiṣṇava Bhāgavatas today, who have gone through turbulent transformations and deserve to be heard as they forge new religious roles to make Śrīvaiṣṇavism accessible, attractive, and valuable to ordinary people. 
+
+319
+
+
+
+
+
+
+
+Notes
+
+1. Although those arguing for modernity and those for 
+
+postmodernity were once far apart, the theories have been converging in recent years \(Fourie, ‘Multiple Modernities’, 22–26\).
+
+2. Fourie, ‘Multiple Modernities’, 22–26. 
+
+3. I think the scholarly debates over one or multiple modernities 
+
+would benefit from engagement with the anthropologist Bruce Trigger’s methodological reflections on whether the development of early civilisations is similar or different, which has some analogies, strange though that might seem, with the matter at hand \(Trigger, *Understanding Early Civilizations*, 3–39, 653–85\).
+
+4. Pandian, *Crooked Stalks*, 224.
+
+5. Munshi, ‘Caste and the Indian Economy’.
+
+6. Narayana Rao, et al., *Textures* *of* *Time*.
+
+7. Shulman, *Tamil:* *A* *Biography*, 250. Shulman looks on the modern 
+
+period of Tamil history with nostalgia for what has been lost: the rich world of literature, mainly the cosmopolitan, occasionally even universal, orientation of a linguistically heterogenous society with its interlocking cultural contexts. This was a world in which literati—whether in the courts, temples, or *ma* *ṭha*s—marked their age with creativity of both composition and commentary. He warns us against superimposing a modern agenda of Tamil nationalism on the past, when the north was only rarely devalued, Sanskrit and Tamil were not antitheses, and there was a prevailing symbiosis of Brahmins and non-Brahmins. He bemoans, moreover, the role of the colonial regime with its shallow, impoverished views on reforms, and denounces the stridency and identity politics that erupted in the modern period. Although this is Shulman’s general assessment of the impact of modernity, he also notes that there existed some long-standing tensions between Brahmins and non-Brahmins, created by Brahmin privilege and power, related to their high level of education and lavish royal land grants. 
+
+I do not think that this does justice to the problem of injustice. The 
+
+non-Brahmins of Shulman’s history were mainly Vellalas, especially Śaiva Vellalas—non-Brahmins who belonged to *pulavar* literati circles, especially in their own *maṭha*s. 
+
+Even though Shulman’s lens of Brahmin–non-Brahmin symbiosis 
+
+has revealed intricacies of Tamil literary history, it has hidden a key component of non-Brahmin feeling of discrimination: the case 
+
+320
+
+
+
+
+
+
+
+of Śrīvaiṣṇavism. The exclusion of Śrīvaiṣṇava non-Brahmins from centres of literary and religious expertise was made worse because they did not have their own *ma* *ṭha*-centres of learning, including Sanskrit learning and *pulavar* literary culture. Shulman’s focus also hides the anger of non-Brahmins, such as the agriculturalists who toiled, sometimes in conditions of slavery, for the elites, be they Brahmins or Vellala non-Brahmins.
+
+Finally, when Shulman locates the indigenous roots of concepts 
+
+of egalitarianism, iconoclasm, scepticism, and rationalism in Siddha antinomianism, Tantra and Jaffna Sri Lankan neo-Śaivism, I think he neglects to mention one of the most basic of human desires: the right to be treated as equal, at least in the sense of human dignity or equal opportunity. That, after all, is what much of the modern world is all about, and it will have to find its place in any description of modern Tamil Nadu. Shulman himself points in this direction when he observes that Tamil literature is now portraying formerly marginalised groups, such as the agriculturalists and caste heroes. But, I would add, the sense of marginalisation and injustice could occur at the very core of the culture: the temple world.
+
+The promise and power of the non-Brahmin movement was 
+
+strident and disruptive, yes, and had its own injustices, but it occurred for very important reasons that should not be overshadowed by an appreciation of a cosmopolitan past, however rich and complicated that might have been.
+
+8. Deshpande, *Contemporary* *India*, 41.
+
+9. Ibid., 4. 
+
+10. Bairy, *Being* *Brahmin*, 203.
+
+11. See Rudolph and Rudolph, *Modernity* *of* *Tradition*.
+
+12. Hardgrave, *Nadars*, 199.
+
+13. For non-Brahmin Śrīvaiṣṇava ritual practices of death, see 
+
+Young, ‘Triumph Over Death’, 389–96. Ritual removal of the *mudrā*s \(brand marks of conch and discus\) by ablution is a custom only for non-Brahmin Śrīvaiṣṇavas \(K. K. A. Venkatachari, personal communication, 2007\).
+
+14. In 1988, Raymond Williams stated that there were many 
+
+untouchable Śrīvaiṣṇavas in the region around Madurai and Chidambaram. They received their initiation from non-Brahmin preceptors. See Williams, ‘Śrīvaiṣṇava Handwritten Field Notes’. I would add that the initiation in the Chidambaram area might be attributed to Bhuvanagiri and his disciples.
+
+321
+
+
+
+
+
+
+
+15. According to R. K. Kshirsagar, ‘Some of the Dalit leaders also 
+
+thought that by following the Brahmanic manners ... they would be able to elevate themselves to the higher position in the caste hierarchy’ \(Kshirsagar, *Dalit* *Movement*, 408\).
+
+16. See ‘Gold-rich Temples’.
+
+17. Bairy, *Being* *Brahmin*, 186.
+
+18. Williams, ‘ Śrīvaiṣṇava Handwritten Fieldnotes’.
+
+19. Deshpande, *Contemporary* *India*, 82.
+
+20. Munshi, ‘Caste and the Indian Economy’, 2.
+
+21. Kavitha, ‘Inter-caste Marriage’. 
+
+22. Ibid.
+
+23. Although the topic of urbanisation was not addressed per 
+
+se by my informants, it has certainly been a factor in the massive changes underway, from the growth of Madras as a metropolis in the nineteenth century to the mega-city that it had become by the twenty-first. The move of people from villages to towns and cities has begun to disrupt the spatial constraints of hegemonic caste norms, although not without serious challenges. Urban geographers, for instance, have found that upper castes have controlled the real estate in choice areas of Chennai to maintain upper-caste domination in these areas \(see Auclair, *Ville* à *Vendre*, 28–51\).
+
+24. Jeffrelot, *Religion*, *Caste* *and* *Politics* *in* *India*.
+
+25. Munshi, ‘Caste and the Indian Economy’, 2.
+
+26. Ibid., 60.
+
+27. Rajadurai and Geetha, ‘Periyar’s Ideals’, 
+
+28. Munshi, ‘Caste and the Indian Economy’, 45, 61.
+
+29. Rajadurai and Geeta, ‘Periyar’s Ideals’.
+
+30. Michelutti, *The Vernacularization* *of* *Democracy*, 6. 
+
+31. Ibid.
+
+32. Muralidharan, ‘Caste Over Tamil Pride’.
+
+33. ‘It’s Now Dalits vs. Non-Dalits in Tamil Nadu’. 
+
+34. Ibid.
+
+35. Marszal, ‘“Untouchable” Who Married Upper-caste Girl 
+
+Hacked to Death on Busy Indian Street’.
+
+36. Yamunan, ‘DMK against Fundamentalists, not Hindus’. 
+
+37. This series, consisting of 433 episodes, was aired from 1 July 
+
+2015 to 27 January 2017. The ‘historical soap’ had the highest rating of a Tamil series at that time. See ‘Ramanujar \(TV series\)’. 
+
+38. Yamunan, ‘DMK against Fundamentalists, not Hindus’.
+
+39. Ibid.
+
+322
+
+
+
+
+
+
+
+40. Ibid.
+
+41. Ramanathan, ‘A Historic Debate’.
+
+42. Janardhanan, ‘Jayalalithaa Was Buried’.
+
+43. *Quora*, ‘Why was Jayalalitha buried but not cremated as per 
+
+Hindu tradition?’ Available at www.quora.com, paraphrase of Abhijeet Kothari \(accessed 25 February 2018\).
+
+44. Hebbar, ‘Jayalalithaa’s Relatives Perform Her “Cremation”’. 
+
+45. *Quora*, ‘Why was Jayalalitha buried but not cremated as per 
+
+Hindu tradition?’ Available at www.quora.com, paraphrase of K.S.Kiran \(accessed 25 February 2018\).
+
+46. Prabhakar, ‘At 14.9 mn, Tamil Nadu Has Highest Broadband 
+
+Subscribers in Country’.
+
+47. *Quora*. ‘Why is There Hate for Brahmins in Tamil Nadu?’, 
+
+Available at www.quora.com \(accessed 9 June 2019\). 
+
+48. Paraphrase of Ramanuja Dasan, *Quora*. ‘What is the position 
+
+of Sri Vaishnavism on caste system?’ Available at www.quora.com \(accessed 9 June 2019\). 
+
+49. Paraphrase of Manik, *Quora*, ‘What is the position of Sri 
+
+Vaishnavism on caste system?’ Available at www.quora.com \(accessed 9 June 2019\). 
+
+50. *Quora*. ‘What is the significance behind doing Samasrayanam?’ 
+
+Available at www.quora.com \(accessed 9 June 2019\).
+
+51. Gittinger, *Contesting* *Hinduism*, 22.
+
+52. Ibid.
+
+53. Ibid., 177.
+
+54. Ibid., 76.
+
+55. Wohlrab-Sahr and Burchardt, ‘Multiple Secularities’. 
+
+56. As one of my informants said: ‘Telugus now “rule” Tamil 
+
+Nadu. EVR \[Periyar\], MGR and Jayalalithaa were all Telugus. Even many professors in Tamil departments are Telugus. In the cinema, most actors are Telugu, even though they use Tamil medium. In short, Telugus, who hide their caste name, are ruling and plan to divide and conquer. A movement to encourage Tamil power called “Naam Tamilar Iyakkam” is growing through Internet information and connections.’ 
+
+It remains to be seen how this might affect many people in 
+
+Tamil Nadu, whose ancestors’ mother-tongue was Telugu, but who themselves have lost knowledge of Telugu and have become Tamils by speech, culture, and long history.
+
+
+
+323
+
+
+
+
+
+Map showing 38 districts of Tamil Nadu
+
+
+
+
+
+
