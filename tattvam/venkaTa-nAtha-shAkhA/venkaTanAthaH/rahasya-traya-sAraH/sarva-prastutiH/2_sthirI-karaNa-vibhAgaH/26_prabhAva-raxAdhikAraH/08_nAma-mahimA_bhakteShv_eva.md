@@ -345,7 +345,7 @@ alcanzó Mukti **llamando** a su hijo 'Nārāyaṇa' en el momento de su **muert
 
 [[P2881]]
 
-**उपैति** - हॊन्दिदनो, 
+**उपैति** - हॊन्दिदनो, आ कारणदिन्द, 
 
 
 
