@@ -85,6 +85,13 @@ Video: [TW](https://youtu.be/FBmo0YvfPgA)
 > शङ्करादि-कुदृष्टिगळ् सॊल्लुम् पॊरुळ्गळ् ऎल्लाम्  
 तात्पर्य-चन्द्रिकैयिलुम्, निक्षेप-रक्षैयिलुम् परक्क दूषित्तोम्।
 
+द्रविडगाथास्व् अपि - 
+
+> सॆऱिव् इल्लाप् बुद्धर्-उडऩ् **सेर्न्दु कॆट्टार्**  
+जीवऩैयुम् ईशऩैयुम् **चितैक्कप् पार्त्तार्** *
+
+[TW](/rAmAnujIyam/kAvyam/drAviDam/4k-divya-prabandha/bAlochita-sangrahaH) ।
+
 #### Cause-speculation
 > तद् इदम्  
 औपिनषद--परम-पुरुष-वरणीयता-हेतु- गुण-विशेष-विरहिणाम्
@@ -136,6 +143,9 @@ Anyway, seriously - that is in context of moxArtha prapatti - doesn't mean that 
 yAmuna is more like VD - much more brutal fun.
 
 दार्शनिक-हास्यानि - [TW](https://groups.google.com/g/hindu-vidyA/c/TQ1M9HVxf4g)
+
+## क्वचिद् असहिष्णुता
+दिव्य-प्रबन्धेषु यथा - [TW](/rAmAnujIyam/kAvyam/drAviDam/4k-divya-prabandha/bAlochita-sangrahaH) । 
 
 ## वितण्डा-पात्रम्
 सङ्कल्पसूर्योदये [वादयति](/kAvyam/laxyam/rUpakam/sankalpa-sUryodayaH/sarva-prastutiH/02_pratimata-bhangaH/) -

@@ -24,3 +24,4 @@ title = "तत्त्व-सङ्ख्यानम्"
 - **अन्तर्यामी**
 - **अर्चावतारः**
 
+अवस्था, अपृथक्-सिद्धिः, द्रव्यम् इत्यादिषु - विशेषण-विशेष-भावे दृश्यताम् - Source: [TW](/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/vishvAsaH/padArthAH/sambandhaH) 
