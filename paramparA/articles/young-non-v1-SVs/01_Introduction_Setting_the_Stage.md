@@ -6,25 +6,11 @@ title = "01 Introduction: Setting the Stage"
 
 The past two centuries have been a period of momentous religious, social, and political changes in southern India. These include the Tamil Renaissance, late colonialism in the Madras Presidency, 1 Dravidian nationalism, Dalit mobilisation, the Indian struggle for Independence, and then the new political entity Tamil Nadu.2
 
-At the epicentre of these changes has been an awakening 
+At the epicentre of these changes has been an awakening to injustices—those created by colonialism, but also for non-Brahmins, those long-standing ones created by the caste system. Non-Brahmins have dreamed that equality would create better futures for them. They have refashioned the past into new stories through recuperation, retrospection, and images of reform, revolution and utopia. With power shifting, hierarchies re-aligning and caste identities merging or colliding, they have re-imagined their own identities. 
 
-to injustices—those created by colonialism, but also for non-Brahmins, those long-standing ones created by the caste system. Non-Brahmins have dreamed that equality would create better futures for them. They have refashioned the past into new stories through recuperation, retrospection, and images of reform, revolution and utopia. With power shifting, hierarchies re-aligning and caste identities merging or colliding, they have re-imagined their own identities. 
+This book is about the turbulent transformations in modern Tamil Nadu from the perspective of non-Brahmin Śrīvaiṣṇavas. Vaiṣṇavism is a pan-Indian umbrella term for the tradition that understands the supreme to be the one God with various names, such as Viṣṇu, Nārāyaṇa, Kṛṣṇa and Rāma, a cluster of deities with historical and regional overlaps and variations. Although some devotees, especially villagers, simply think of themselves as Vaiṣṇavas \(Vaiṇavas in Tamil\), others identify with a particular regional Vaiṣṇava tradition. In Tamil Nadu, this most likely would be Śrīvaiṣṇavism— the community of those who worship Viṣṇu and his consort Śrī, with its philosophical tradition known as Viśiṣṭādvaita passed down through a lineage of preceptors—although other Vaiṣṇava communities such as Mādhvas and Maharashtrian Vaiṣṇavas also exist. 
 
-This book is about the turbulent transformations in 
-
-modern Tamil Nadu from the perspective of non-Brahmin Śrīvaiṣṇavas. Vaiṣṇavism is a pan-Indian umbrella term for the tradition that understands the supreme to be the one God with various names, such as Viṣṇu, Nārāyaṇa, Kṛṣṇa and Rāma, a cluster of deities with historical and regional overlaps 
-
-
-
-
-
-
-
-and variations. Although some devotees, especially villagers, simply think of themselves as Vaiṣṇavas \(Vaiṇavas in Tamil\), others identify with a particular regional Vaiṣṇava tradition. In Tamil Nadu, this most likely would be Śrīvaiṣṇavism— the community of those who worship Viṣṇu and his consort Śrī, with its philosophical tradition known as Viśiṣṭādvaita passed down through a lineage of preceptors—although other Vaiṣṇava communities such as Mādhvas and Maharashtrian Vaiṣṇavas also exist. 
-
-Most of my interviews were with non-Brahmins who self-
-
-identify as Śrīvaiṣṇavas. They were from many castes or caste clusters, including Chettiyar, Dalit, Icai Velala, Naidu, Pillai, Reddiyar, Sattada, Vanniyar, Yadava, and Vellalar. I found a fluid use of the terms Śrīvaiṣṇava and Vaiṣṇava by non-Brahmins belonging to this sect today.3 Non-Brahmin Śrīvaiṣṇavas most often refer to themselves as Bhāgavatas \(devotees\).4 One can sometimes identify non-Brahmins who have been initiated5 by the common suffix to their names: ‘Rāmānuja Dāsar’, servant of Rāmānuja. \(Rāmānuja, who lived in the twelfth century, was the most important thinker—later considered a salvific figure—in this tradition.\) 
+Most of my interviews were with non-Brahmins who self-identify as Śrīvaiṣṇavas. They were from many castes or caste clusters, including Chettiyar, Dalit, Icai Velala, Naidu, Pillai, Reddiyar, Sattada, Vanniyar, Yadava, and Vellalar. I found a fluid use of the terms Śrīvaiṣṇava and Vaiṣṇava by non-Brahmins belonging to this sect today.3 Non-Brahmin Śrīvaiṣṇavas most often refer to themselves as Bhāgavatas \(devotees\).4 One can sometimes identify non-Brahmins who have been initiated5 by the common suffix to their names: ‘Rāmānuja Dāsar’, servant of Rāmānuja. \(Rāmānuja, who lived in the twelfth century, was the most important thinker—later considered a salvific figure—in this tradition.\) 
 
 During my interviews, I never heard my informants 
 
@@ -501,7 +487,7 @@ heaven. If she is infertile or bears only daughters, she is not to be abandoned.
 
 In short, although Śrīvaiṣṇavism sometimes embraced 
 
-the conservative norms for women found in many Brahmin circles in Tamil Nadu and elsewhere, it was more liberal, at least in theory, regarding questions of salvation, education, norms for widowhood and *sati*. It did not overrule, however, the norm of marriage and at least nominal subservience to the husband. On these matters, Te ṉkalais and Vaṭakalais had minor differences. Those thirteenth and fourteenth-century *ācārya*s later considered Teṉkalai, such as Piḷḷai Lokācārya, A ḻakiya Maṇavāḷa Perumāḷ Nāyaṉār and Maṇavāḷa Māmuni, argued, for instance, that the sacred syllable OM could be uttered by women, whereas Vedānta Deśika and those *ācārya*s later considered Va ṭakalai did not allow that.56
+the conservative norms for women found in many Brahmin circles in Tamil Nadu and elsewhere, it was more liberal, at least in theory, regarding questions of salvation, education, norms for widowhood and *sati*. It did not overrule, however, the norm of marriage and at least nominal subservience to the husband. On these matters, Te ṉkalais and Vaṭakalais had minor differences. Those thirteenth and fourteenth-century *ācārya*s later considered Teṉkalai, such as Piḷḷai Lokācārya, Aḻakiya Maṇavāḷa Perumāḷ Nāyaṉār and Maṇavāḷa Māmuni, argued, for instance, that the sacred syllable OM could be uttered by women, whereas Vedānta Deśika and those *ācārya*s later considered Va ṭakalai did not allow that.56
 
 
 
@@ -569,7 +555,7 @@ For the *āḻvār*s, respect for other devotees and a sense of
 
 the equality of all devotees did not mean *elimination* of caste. At least, there are no statements to that effect. The same must be said for the *ācārya*s. They defended ideas of respect and argued that non-Brahmins could attain salvation in this life. Periyavāccāṉ Piḷḷai, for instance, insists on deep and humble respect of other devotees, no matter what their caste. In his *Arthapancakam*, Pi ḷḷai Lokācārya says that insult to any devotee is a sin \(*bhagavatāpacāra*\).65 In fact, ‘to think of a devotee in terms of caste \(*varṇa*\) is said to be a heinous act, comparable to examining the genitals of one’s own mother; such a devotee becomes an outcaste \(*caṇṭāḷa*\)’.66
 
-A ḻakiya Maṇavāḷa Perumāḷ Nāyaṉār in his *Ācārya*
+Aḻakiya Maṇavāḷa Perumāḷ Nāyaṉār in his *Ācārya*
 
 *H ṛdayam*67 advocates respect for all devotees, also with strong words. He writes that ignorant people are confused about *varṇa*, stage of life \(*āśrama*\) and amount of knowledge, thinking that these define people as superior and inferior, even though this is not so. A Brahmin might study all the four Vedas, but without the knowledge of God, he is a donkey. A person who is born in a good family and who appears like a sage \(*muni*\) but has no god in his heart is worse than a person who eats 
 
