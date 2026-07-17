@@ -12,6 +12,12 @@ title = "०१ मङ्गलाचरणम्"
 (1) El dios del mantra:
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
