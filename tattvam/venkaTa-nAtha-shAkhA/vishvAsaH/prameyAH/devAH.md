@@ -378,6 +378,17 @@ Eg. the form lying in kShIra-sAgara, as one of the trimUrti-s, which lasts till 
 
 इति धिया ऽनन्तम् विग्रह-विशेषेणानुप्रविश्य भगवान् अवतरति तत्र तत्रेति केचित्। 
 
+**बुद्धः॥**  
+
+Some distinguish the buddhAvatAra from the historical buddha based on the following -
+
+- bhAgavata says that buddhAvatAra was at the beignning of the kali age. 
+- kali started around 3000 BCE. 
+- historical buddhu was around 500 BCE. 
+
+That's the ONLY reason for distinction. No doctrinal reason, no cope.  
+Before modern dating of buddhu, there was no need for such circus; and you wont find it as well.  
+Theologically/ philosophically there is no problem whatsoever. buddhu is an AveshAvatAra, designed for misleading certain people, and human part is always there to take the blame, if needed.
 </details>
 
 
