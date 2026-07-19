@@ -1,7 +1,7 @@
 +++
 title = "०५ मत-समीक्षा - परमात्मनि"
 +++
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Conflicting views regarding the Supreme Self
 </details>
@@ -12,7 +12,7 @@ Conflicting views regarding the Supreme Self
 तथा परमात्म-विषयेऽपि -  
 केचित् समस्त-वस्तु-साक्षात्-कारिणं सर्व-शक्तिम् ईश्वरम् एव नाभ्युपगच्छन्ति ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 So also about the Infinite Self, some do not admit at all an Isvara (God) who directly perceives all things and who is all-powerful.
 </details>
@@ -36,7 +36,7 @@ So also about the Infinite Self, some do not admit at all an Isvara (God) who di
 अनाद्य्--अ-विद्योपदर्शित- वियद्-आदि-भेदावच्छिन्न--  
 ज्ञानैश्वर्यादि-महिम-विकल्पतया काल्पनिकम् आचक्षते ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Some, while admitting a God, maintain that He is of the essence of pure consciousness, which is unchanging and is devoid of the distinction of knowledge, means of knowledge, knower, and the known, and of the ruler and the ruled and so on. (They hold that) on account of beginningless avidya, he is erroneously imagined to possess knowledge of manifoldness, such as akāsa, and greatness such as sovereignty.[F3_15]
 
@@ -61,7 +61,7 @@ Some, while admitting a God, maintain that He is of the essence of pure consciou
 स्वाधीन-विचित्र-विवर्त--स्वभाव-मायोपहिततया समासादित-सार्वज्ञ्यादि-- सम्पदम्  
 उपहितम् इमम् अभिदधति ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Others, while accepting this characterisation (of the Supreme Self as being of the nature of pure consciousness), state that it is subject to limiting conditions, and that, in association with the limiting condition of avidyä, for the reason of its having avidyä for its essence, it is taken to possess manifold distinctions of jivas commencing from Brahma and ending with immovable things and that, in conjunction with māyā, which is under its control and which assumes diverse wonderful changes, it acquires omniscience and other glorious qualities.[F4_16] 
 
@@ -86,7 +86,7 @@ Others, while accepting this characterisation (of the Supreme Self as being of t
 
 तथाऽन्ये प्रकृष्ट-सत्त्वोपादान-निमित्त- स्व-तन्त्र+++(→)+++-- प्रधान+++(=प्रकृति)+++-परिणाम-विशेष-मात्र- नियम-निर्वाहित-सर्वैश्वर्य-मर्यादम् आद्रियन्ते ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, others uphold the view that God possesses universal Lordship which is invariably and exclusively maintained for Him by the modification of independent pradhāna. This modification has for its cause the fact of pradhana possessing the quality of sattva *par excellence.*[F4_17]
 
@@ -113,7 +113,7 @@ Similarly, others uphold the view that God possesses universal Lordship which is
 
 +++(अविद्यया)+++ अनुपहितम् अपि +++(फेन-बुद्बुद-तरङ्गभेदेन)+++ परिणामिनम् अपरे प्रतिपेदिरे +++(यादव-प्रकाश-निभाः)+++।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Others assert that, although He is free from limiting conditions, He is येt subject to modification.
 </details>
@@ -136,7 +136,7 @@ Others assert that, although He is free from limiting conditions, He is येt 
 स्व-मायांश-भूत-- विचित्रान्तः-करण-दर्पण-तल-- प्रतिबिम्बिततया प्रतिपन्न-विश्व-तैजस-प्राज्ञ-भावं  
 तम् एकम् एव चेतनम् इतरे रोचयन्ते ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Others favour the view that although He does not undergo modifiications, येt, on account of being reflected by the reflecting media of the diverse internal organs which are aspects of His own māyā, this intelligent being, who is one only, acquires the forms of Visva, Taijasa and Präjna.[F4_18]
 </details>
@@ -159,7 +159,7 @@ Others favour the view that although He does not undergo modifiications, येt
 स्वाभाविक-निरवधिकातिशय- ज्ञान-बलैश्वर्य-वीर्य-शक्ति-तेजः- प्रभृति-सकल-कल्याण-गुण-गण- महार्णवं पुरुष-विशेषम्  
 ईश्वरम् आतिष्ठन्ते ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Others hold that the Lord is that Supreme Person who has under His control the diverse forms of essence, existence and the activities of the threefold jivas and non-intelligent objects, and who is the great ocean of all auspicious qualities, such as jnana, bala, aiśvarya, virya, sakti, tejas,[F4_19] and others which are natural to Him, invariable and unrivalled in excellence.
 
@@ -178,7 +178,7 @@ Others hold that the Lord is that Supreme Person who has under His control the d
 
 
 ## व्यक्ति-विशेषे
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Diversity of views regarding the manifestations of the Supreme Self
 </details>
@@ -190,7 +190,7 @@ Diversity of views regarding the manifestations of the Supreme Self
 अनभिमत-तत्-तन्-मूर्ति-परित्यागेन च चतुस्-त्रि-द्व्य्-एक-मूर्तितया  
 विवदन्ते ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, even in regard to His manifestations, some contend that He has the four forms of Vişņu, Siva, Brahma and the Sun-God; others hold that His form is threefold or twofold or single, after eliminating those forms which are unacceptable to them.
 </details>
@@ -210,7 +210,7 @@ Similarly, even in regard to His manifestations, some contend that He has the fo
 नित्यत्वानित्यत्व-- भौतकत्वाभौतिकत्व-- स्वार्थ-परार्थत्वादि-वितर्काः प्रादुर्भवन्ति ;  
 परिजन-स्थानादि-गोचराश् च ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Concerning the individual manifestations (of God) doubts have been raised about their being eternal or non-eternal, elemental or non-elemental, whether they exist for their own sake or for the sake of others; and doubts too have arisen concerning their attendants, place of residence, etc.
 </details>
@@ -224,7 +224,7 @@ Concerning the individual manifestations (of God) doubts have been raised about 
 </details>
 
 ## प्रमाणतः
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Conflicting views concerning how the Supreme Self is known
 </details>
@@ -234,7 +234,7 @@ Conflicting views concerning how the Supreme Self is known
 
 तथा प्रमाणतोऽपि - आनुश्राविक एवेत्येके ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, with regard to the means of knowledge some hold that He is known from the Vedas alone[F5_20];
 
@@ -254,7 +254,7 @@ Similarly, with regard to the means of knowledge some hold that He is known from
 
 आनुमानिकश्चेत्यन्ये ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 others that he is established by inference;
 </details>
@@ -272,7 +272,7 @@ others that he is established by inference;
 
 विशिष्ट-प्रत्यक्ष-समधिगम्यश् चेत्य् अपरे ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 others that He is also cognised by extraordinary perception.
 </details>
@@ -288,7 +288,7 @@ others that He is also cognised by extraordinary perception.
 
 ## आत्मपरमात्मनोः सम्बन्धे
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Diversity of views regarding the relation of the individual soul to the Supreme Self
 </details>
@@ -299,7 +299,7 @@ Diversity of views regarding the relation of the individual soul to the Supreme 
 अनाद्य्--अ-विद्योपादान-भेदास्पदोऽयम् ईश्वरेशितव्यतादि-रूप-सम्बन्धः ।  
 परमार्थतस् त्व् एकं तत्त्वम् इति केचित् ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, in regard to the relation of the individual soul to the Supreme Self also, some maintain that relations such as that between the ruler and the ruled are based on a knowledge of distinctions, which is caused by beginningless avidyā; and that, in truth, there is only one reality.[F5_21]
 </details>
@@ -318,7 +318,7 @@ Similarly, in regard to the relation of the individual soul to the Supreme Self 
 
 व्यतिरेकाभावे ऽप्य् अतिरिक्तो जीव इत्य् अन्ये ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Others hold that though there is non-difference, the jiva is other than the Supreme Self.[F5_22]
 </details>
@@ -338,7 +338,7 @@ Others hold that though there is non-difference, the jiva is other than the Supr
 
 इति विशिष्ट--स्व-रूप--भावेन भिन्नाभिन्नत्वम् इतरे ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As there is oneness in point of essence and distinction on account of limiting conditions, some posit both difference and non-differene-difference in so far as it (Brahman) is associated with limiting conditions, and non-difference in respect of its essence.[F5_23]
 
@@ -360,7 +360,7 @@ As there is oneness in point of essence and distinction on account of limiting c
 
 नानात्वे सत्य् एवाऽभेदो नामान्वयः अंशांशि-भाव-लक्षणः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even when there is diversity, there is the relation of non-difference (between God and the soul); several views concerning this relation are prevalent-that it is the relation of inherence obtaining between whole and part;
 </details>
@@ -377,7 +377,7 @@ Even when there is diversity, there is the relation of non-difference (between G
 
 समवायः परतन्त्रतालक्षणः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it is the relation between seşa and seși or in other words, that between an independent entity and the dependent creature;
 </details>
@@ -394,7 +394,7 @@ that it is the relation between seşa and seși or in other words, that between 
 
 शेष-शेषित्व-रूपः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it is the relation between the owner and the owned, exemplified in master servant relation.
 </details>
@@ -411,7 +411,7 @@ that it is the relation between the owner and the owned, exemplified in master s
 
 स्व-स्वामि-भावः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even when there is diversity, there is the relation of non-difference (between God and the soul); several views concerning this relation are prevalent-that it is the relation of inherence obtaining between whole and part; that it is the relation between seşa and seși or in other words, that between an independent entity and the dependent creature; that it is the relation between the owner and the owned, exemplified in master servant relation.
 </details>
@@ -430,7 +430,7 @@ Even when there is diversity, there is the relation of non-difference (between G
 भृत्य-स्वामि-लक्षण इति च  
 नाना-विद्या वादाः ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even when there is diversity, there is the relation of non-difference (between God and the soul); several views concerning this relation are prevalent-that it is the relation of inherence obtaining between whole and part; that it is the relation between seşa and seși or in other words, that between an independent entity and the dependent creature; that it is the relation between the owner and the owned, exemplified in master servant relation.
 </details>
@@ -444,7 +444,7 @@ Even when there is diversity, there is the relation of non-difference (between G
 </details>
 
 ## मोक्षे
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Varying views regarding the nature of mokṣa
 </details>
@@ -454,7 +454,7 @@ Varying views regarding the nature of mokṣa
 
 तथा परम-पुरुषार्थ-भूते ब्रह्म-प्राप्ति-लक्षण-मोक्षे ऽपि - 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even in regard to the supreme goal of human endeavour, mökṣa, which consists in the realisation of Brahman, the several views maintained are-
 </details>
@@ -471,7 +471,7 @@ Even in regard to the supreme goal of human endeavour, mökṣa, which consists 
 
 स्व-रूपोच्छित्ति-लक्षणः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it consists in annihilation of one's self[F6_24];
 
@@ -490,7 +490,7 @@ that it consists in annihilation of one's self[F6_24];
 
 अ-विद्याऽस्तमय-लक्षणः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it is the destruction of ignorance,[F6_25]
 
@@ -510,7 +510,7 @@ that it is the destruction of ignorance,[F6_25]
 
 निःशेष-वैशेषिकात्म-गुणोच्छेद-लक्षणः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it is the state of aloofness resulting from the complete destruction of all the special qualities of the self[F6_26];
 
@@ -530,7 +530,7 @@ that it is the state of aloofness resulting from the complete destruction of all
 
 कैवल्य-रूपः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it is the state of becoming one with Brahman[F6_27];
 
@@ -550,7 +550,7 @@ that it is the state of becoming one with Brahman[F6_27];
 
 तद्-भाव-साधर्म्य-लक्षणः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it consists in attaining similarity with Brahman[F6_28];
 
@@ -570,7 +570,7 @@ that it consists in attaining similarity with Brahman[F6_28];
 
 तद्-गुण-सङ्क्रान्तिलक्षणः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it is the inflow of God's qualites;
 </details>
@@ -587,7 +587,7 @@ that it is the inflow of God's qualites;
 
 तच्-छायापत्ति-लक्षणः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it consists in attaining similarity with Brahman[F6_28];
 </details>
@@ -604,7 +604,7 @@ that it consists in attaining similarity with Brahman[F6_28];
 
 सांसिद्धिकानन्दादि-- स्व-रूपाविर्भाव-लक्षणः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it is the fullest revelation of its (self's) intrinsic attributes of bliss and the like;
 </details>
@@ -625,7 +625,7 @@ that it is the fullest revelation of its (self's) intrinsic attributes of bliss 
 
 इति तथा तथा विवदन्ते ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it is everlasting service to the Lord kindled by the heightened manifestation of unsurpassed bliss arising from the experience of His qualities, and so on.
 </details>
@@ -640,7 +640,7 @@ that it is everlasting service to the Lord kindled by the heightened manifestati
 
 
 ## मोक्ष-साधने
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Conflicting views regarding the means to mokṣa
 </details>
@@ -650,7 +650,7 @@ Conflicting views regarding the means to mokṣa
 
 तत्-साधनतोऽपि - कर्मयोगलभ्यः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 About the means of attaining mokşa also, some contend that it is attainable by karma-yoga
 </details>
@@ -667,7 +667,7 @@ About the means of attaining mokşa also, some contend that it is attainable by 
 
 ज्ञान-योग-लभ्यः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and some that it is realisable by jnana-yoga;
 </details>
@@ -680,7 +680,7 @@ and some that it is realisable by jnana-yoga;
 
 +++(कर्म-ज्ञान-योग–)+++ अन्यतरानुगृहीतान्यतर-लभ्यः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 some believe that it is attainable by either of these (two) helped by the other[F6_30];
 
@@ -696,7 +696,7 @@ some believe that it is attainable by either of these (two) helped by the other[
 
 +++(कर्म-ज्ञान-योग–)+++ उभय-लभ्यः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 some assert that it is rendered effective by both[F6_31];
 
@@ -717,7 +717,7 @@ some assert that it is rendered effective by both[F6_31];
 उभय-परिकर्मित--स्वान्तस्य  
 ऐकान्तिकात्यन्तिक-भक्ति-योग-लभ्य इति ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 some hold that to him whose mind is purified by both (karma and jnana), it is realisable by bhakti which is ever-lasting and one-pointed.
 </details>

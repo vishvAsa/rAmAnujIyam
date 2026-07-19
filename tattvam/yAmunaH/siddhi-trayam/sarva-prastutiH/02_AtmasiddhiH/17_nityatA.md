@@ -14,7 +14,7 @@ Pūrvapakṣa: The Buddhistic view that the soul is momentary.
 अथास्य कालावच्छेद-परीक्षा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Henceforth, the inquiry into the duration of the soul may be taken up.
 </details>
@@ -45,7 +45,7 @@ Henceforth, the inquiry into the duration of the soul may be taken up.
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Maintaining that momentariness follows from the very fact of existence, and holding (also) that the root cause of all miseries is only the belief that the soul is eternal, the followers of the Buddhistic doctrines assert that the soul is momentary; and their argument is as follows:—Whatever exists is momentary; the soul exists; (and, therefore, it is momentary.)
 </details>
@@ -67,7 +67,7 @@ Maintaining that momentariness follows from the very fact of existence, and hold
 कथं पुनः सन्-मात्रानुबन्धिनी क्षणिकता? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Should it be asked how momentariness follows from the mere fact of existence,
 </details>
@@ -83,7 +83,7 @@ Should it be asked how momentariness follows from the mere fact of existence,
 अक्षणिकस्य सत्तानुपपत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (it may be replied) because existence cannot be attributed to what is not momentary.
 </details>
@@ -103,12 +103,12 @@ Should it be asked how momentariness follows from the mere fact of existence,
 अर्थ-क्रिया-कारितैव सत्ता भावानाम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since it is impossible to attribute existence to what cannot lead to fruitful activity, not even that of being the object of the comprehension of the Omniscient Being, the existence of objects is no other than the quality of leading to fruitful activity.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 The word `सार्वज्ञ्यविज्ञानगोतरत्वायापि` in the source contains a typographical or scribal error. The correct reading is `सार्वज्ञ्यविज्ञानगोचरत्वायापि` (the state of being within the range of the knowledge of the Omniscient).
 </details>
@@ -133,7 +133,7 @@ The word `सार्वज्ञ्यविज्ञानगोतरत्�
 क्षणिकतयैवानुबध्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And that (fruitful activity) is not possible in what is non-momentary, which is devoid of succession and simultaneity that are its pervaders; hence, finding no room elsewhere, it is invariably associated only with momentariness.
 </details>
@@ -155,7 +155,7 @@ And that (fruitful activity) is not possible in what is non-momentary, which is 
 > कथं पुनः क्रम-यौगपद्ययोर् अर्थ-क्रिया-व्यापकत्वम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P133]] How could these, viz, action all at once and action in a successive series, be regarded as being associated with fruitful activity? 
 </details>
@@ -176,7 +176,7 @@ And that (fruitful activity) is not possible in what is non-momentary, which is 
 > कथं वा तयोर् अ-क्षणिकान् निवृत्तिः? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 How, again, could they be said to be absent from what is not momentary? 
 </details>
@@ -197,7 +197,7 @@ How, again, could they be said to be absent from what is not momentary?
 श्रूयताम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (It is replied) Well, listen (to what follows): 
 </details>
@@ -223,7 +223,7 @@ How, again, could they be said to be absent from what is not momentary?
 न विधाऽन्तर-सम्भवः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Objects may be said to bring about fruitful activity in one of two ways, either all at once or in succession and there is no other possibility. 
 </details>
@@ -247,7 +247,7 @@ Objects may be said to bring about fruitful activity in one of two ways, either 
 इति क्रमाक्रम-प्रतिबद्धैवार्थ-क्रिया ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In the case of these two (alternatives), as in that of being and not-being, if one is absent, the other is bound to exist; hence in the matter of objects generating fruitful activity, there could be no third possibility; therefore, fruitful activity is invariably associated with action, successive or non-successive.
 </details>
@@ -263,7 +263,7 @@ In the case of these two (alternatives), as in that of being and not-being, if o
 न चाक्षणिके क्रम-यौगपद्ये सम्भवतः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And activity taking place all at once, and action that is successive cannot be met with in what is not momentary.
 </details>
@@ -286,7 +286,7 @@ And activity taking place all at once, and action that is successive cannot be m
 **इति श्रीमद्-विशिष्टाद्वैत-सिद्धान्त-प्रवर्तन-धुरन्धर-परमाचार्य-श्रीभगवद्-यामुन-मुनि-समनुगृहीते सिद्धित्रये आत्मसिद्धिः ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Note : All the manuscripts of Atma siddhi examined are incomplete and end here. Evidently the rest of the work has been irretrievably lost.
 </details>

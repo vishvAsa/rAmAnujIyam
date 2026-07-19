@@ -44,7 +44,7 @@ title = "०१ मङ्गलम्"
 स्व-**परिचरण-भोगैः** श्रीमति **प्रीयमाणे**  
 **भवतु** मम परस्मिन् पुरुषे भक्ति-भूया    ॥ १  ॥
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 May I have the highest bhakti to Sriman[F1_1] (the Consort of Sri or Lakṣmi), the Supreme Puruşa who is ever pleased by souls whose sole enjoyment is in rendering service to the Divine, and to whose will Matter (prakṛti)[F1_3], bound souls (puruşa)[F1_2], time, manifest material nature, released souls and innumerable eternally perfect souls always conform. (St. 1)
 

@@ -6,7 +6,7 @@ title = "०३ आत्म-ज्ञान-प्रयोजनम्"
 संमतं हि सर्वसमयेष्व्  
 आत्मज्ञानं निःश्रेयस-हेतुर् इति  ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That the knowledge of the self is the means of attaining transcendental felicity is indeed admitted in all systems.
 </details>
@@ -37,7 +37,7 @@ That the knowledge of the self is the means of attaining transcendental felicity
 इत्यादिः  
 परावरात्म-तत्त्व-ज्ञानस्यापवर्ग-साधनत्वं प्रतिपादयन् वेदान्त-वाक्य-गणः  ।
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Upanisadic texts such as the following, declaring that the knowledge of the finite self and of the Supreme Controller to be different, and thereby becoming the object of His grace, he attains immortality"[F1_4]: "If one should know the self"[F1_5]; "The knower of the self crosses over sorrow"; "He who knows Brahman attains the Highest"[F1_6].
 

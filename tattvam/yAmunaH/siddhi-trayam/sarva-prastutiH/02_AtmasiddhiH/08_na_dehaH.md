@@ -2,7 +2,7 @@
 title = "०८ न देहः"
 +++
 ## देहात्मवादः
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The purva paksha or prima facie view that body is the soul on the evidence of perception. The case for the identity of soul and body
 </details>
@@ -12,7 +12,7 @@ The purva paksha or prima facie view that body is the soul on the evidence of pe
 
 ननु देहम् एवात्मानं प्रत्यक्षतः प्रतिद्यामहे । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 On the strength of perception we consider the body itself to be the soul.
 </details>
@@ -33,7 +33,7 @@ On the strength of perception we consider the body itself to be the soul.
 अहं जानामीति ज्ञाता ह्य् आत्मा  
 "अहम्" इति चकास्ति । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In the cognition 'I know', the atman who is indeed the knower, shines, forth as the 'I';
 </details>
@@ -54,7 +54,7 @@ In the cognition 'I know', the atman who is indeed the knower, shines, forth as 
 देहश् चाहङ्कार-गोचरः,  
 "स्थूलो ऽहं कृशो ऽहम्" इति दर्शनात् । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and the body is the object of the consciousness of 'I'; as is evident from the cognition 'I am stout', 'I am lean';
 </details>
@@ -73,7 +73,7 @@ and the body is the object of the consciousness of 'I'; as is evident from the c
 
 देहस्य हि स्थौल्यादि-योगः । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 in fact, stoutness and the like relate only to the body;
 </details>
@@ -87,7 +87,7 @@ in fact, stoutness and the like relate only to the body;
 अतस् तत्-समानाधिकरणतया ऽयम् अहङ्कारः  
 शरीरालम्बन इत्य् अवश्यम् आश्रयणीयम् । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 hence, as the 'I' is put in apposition with ‘lean', 'stout', etc., it must necessarily be admitted to have the body for its object.
 </details>
@@ -107,7 +107,7 @@ hence, as the 'I' is put in apposition with ‘lean', 'stout', etc., it must nec
 
 इतरथा +++(प्रत्यक्षातिक्रमे)+++ सकल-लौकिक-परीक्षक-व्यवहारोपरोधश् च । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Otherwise, all usage, popular and learned, would be meaningless.
 </details>
@@ -128,7 +128,7 @@ Otherwise, all usage, popular and learned, would be meaningless.
 न चायं लाक्षणिको व्यवहारः +++(देहपरः)+++,  
 +++(देहातिरिक्तस्य)+++ मुख्य-वृत्ति-भूमेः पृथग् असिद्धत्वात् । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be maintained that here (in statements like 'I am stout') the 'I' denotes the body by a figure of speech (lakṣaṇa), because there is no other place where it can possibly be said to have a primary significance.
 </details>
@@ -155,7 +155,7 @@ It cannot be maintained that here (in statements like 'I am stout') the 'I' deno
 येन +++("अहं जानामी"त्य् अनेन "हस्तो जानाती"तीव →)+++ तद्-अन्वयाभावाज्  
 "जानामी"ति प्रत्ययः शरीरातिरिक्तम् अवगमयेत् +++(वक्ष्यमान-कारणैः)+++-   
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, it cannot be said that if the consciousness of the 'I' as knower has for its object the body which consists of several parts, the knowledge of the body should be accompanied by a knowledge of its parts, colour, etc. But as such a knowledge of bodily parts and colour does not appear, the cognition 'I know' would reveal the presence of something other than the body.
 </details>
@@ -189,7 +189,7 @@ Again, it cannot be said that if the consciousness of the 'I' as knower has for 
 बाह्येन्द्रियप्रत्यक्ष एव तथा +++(अवयवि-प्रकाशे ऽवयव-प्रकाश इति)+++ नियम-दर्शनात्,  
 स्वान्तस्य ++++(सुखाद्य्-)+++आन्तरगुणाधारतावभास एव सामर्थ्य-नियमात्,
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Such a necessity (of the knowledge of parts and shapes accompanying the apprehension of an object) is found to exist only in the case of perception arising from the external senses. The capacity of the mind is restricted to the manifestation of the soul's character of being the seat of internal qualities.
 </details>
@@ -224,7 +224,7 @@ Such a necessity (of the knowledge of parts and shapes accompanying the apprehen
 अनवधृतावयव-विशेषस्याप्य् अनेकावयव-योगिनो  
 महिम-गुण-शालिनः त्र्य्-अणुकस्य प्रथम-प्रत्यक्षाभ्युपगमात् +++(अवयवि-प्रकाशे नावयव-ग्रहण-नियमः)+++,  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In fact, (even in the case of external perception) there is no necessity for the apprehension of number, magnitude, etc., because though its parts are not comprehended, a triad of atoms consisting of many parts and possessing visible magnitude is admitted to be the minimum visible entity;
 </details>
@@ -243,7 +243,7 @@ In fact, (even in the case of external perception) there is no necessity for the
 
 वायोश् च त्वग्-इन्द्रियेण स्पर्शाधिष्ठान-मात्रतयोपलम्भ-दर्शनाच् च +++(अवयवि-प्रकाशे नावयव-ग्रहण-नियमः)+++। 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and because air is known to be perceived by the sense of touch only as the seat of contact (and not as a whole consisting of parts).
 </details>
@@ -266,7 +266,7 @@ and because air is known to be perceived by the sense of touch only as the seat 
 यथा च तत्र बाह्य-प्रत्यक्ष-गोचर एव सङ्ख्या-परिमाणादि-ग्रहण-नियमः  
 +++(तथेहापि)+++।
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even when something other than the body is taken to be the object of self-consciousness, there is no knowledge of its other qualities; likewise, here too (when the body is the object of self-consciousness, there is no knowledge of its parts and colours).
 </details>
@@ -288,7 +288,7 @@ Even when something other than the body is taken to be the object of self-consci
 </details>
 
 ### अचेतनता?
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The purvapakşin's criticism of the position that the body is not the self:-
 </details>
@@ -304,7 +304,7 @@ The purvapakşin's criticism of the position that the body is not the self:-
 न शरीर-विशेष-गुणश् चेतन्यम्,  
 अयावच्-छरीर-भावित्वाच् च
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In each of the infinitesimal atoms consciousness is not met with and if it be accepted (that each super-sensible atom possesses consciousness), there will result belief in several thousands of intelligent beings in one and the same body; and as the special quality of the effect cannot but be based on the quality of the cause, and as consciousness does not continue as long as the body lasts, consciousness cannot be a special quality of the body.
 </details>
@@ -332,7 +332,7 @@ In each of the infinitesimal atoms consciousness is not met with and if it be ac
 प्रत्यक्ष-बाधित-विषयतया  
 न पराक्रमितुं क्षमन्ते । +++(5)+++
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 These and other kinds of arguments based on reasoning are lacking in force, as they teach what is contradicted by direct perception.
 </details>
@@ -359,7 +359,7 @@ These and other kinds of arguments based on reasoning are lacking in force, as t
 +++(अयावद्-द्रव्य-भावितया, अकारण-गुण-पूर्वकतया च)+++ विशेष-गुणत्वे च प्रतिषिध्यमाने  
 देह-+++(साधारण-)+++गुणत्वाभ्युपगम-प्रसङ्गश् च +++(योऽस्माभिर् वारितः)+++। 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it (consciousness) be denied to be a special quality, it will amount to its acceptance as a common quality of the body.
 </details>
@@ -402,7 +402,7 @@ If it (consciousness) be denied to be a special quality, it will amount to its a
 
 शरीरम् एव चेतनम् अवगमयन्ति । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, qualities such as the character of owning activities dependent on desires and of being the seat of the senses and the like, which appear in the body and not in such objects as pots, whose non-intelligent character is admitted on all hands, reveal that the body itself is the intelligent being.
 </details>
@@ -432,7 +432,7 @@ Moreover, qualities such as the character of owning activities dependent on desi
 देहारम्भक-परमाणु-संश्लेषविशेषाद् एव  
 देहे चैतन्यस्याप्य् आविर्-भावो नानुपपन्नः । +++(4)+++
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is not improper to maintain that just as the red colour, which is absent in the parts of the areca nut and betel leaf severally, emerges in the whole, on account of a particular combination of these, even so intelligence emerges in the body, only on account of a particular combination of infinitesimal atoms which give rise to it.
 </details>
@@ -456,7 +456,7 @@ It is not improper to maintain that just as the red colour, which is absent in t
 इति चेत्; न; प्रमाणाभावात्  
 +++(यथा हरिद्रा-चूर्णे चूर्णक-जल-संयोगेनैव हि रक्तं रूपं दृष्टम्)+++। 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 There is no warrant for the objection that in the instance cited, from out of the infinitesimal atoms rendered red by the heat generated in the act of chewing (betel leaf and nut) in the order of binaries, etc., red colour emerges strictly only in conformity with the quality of the cause.
 </details>
@@ -465,7 +465,7 @@ There is no warrant for the objection that in the instance cited, from out of th
 चर्वणजनित-हुतवहसंयोग-सम्पादित-पाटलिमभिः परमाणुभिर् द्व्यणुकादिक्रमेण कारणगुणपूर्व एव तत्र रागोदय इति चेत्; न; प्रमाणाभावात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 आक्षिपति "चर्वणे"ति । दन्त-सम्मर्दैः पूर्वावयविनो द्व्यणुक-पर्यन्तस्य नाशे परमाणुषु स्वतन्त्रेषु चर्वणोद्भूत-मुख्यग्निसंयोग-लक्षण-पाकवशाद् रक्त-रूपस्योत्पत्तेः कारण-गुण-पूर्वकम् एव पिण्डितावयविनि रक्तं रूपम् इति न व्यभिचार इति भाव आक्षेप्तुः । परिहरति "न प्रमाणाभाव" द् इति । संश्लेष-विशेषस्यैव क्वचिद् रूपान्तर-प्रयोजकत्वम् एष्टव्यम् । यथा हरिद्रा-चूर्णे चूर्णक-जल-संयोगेनैव हि रक्तं रूपं दृष्टम् । +++(5)+++
 </details>
@@ -480,7 +480,7 @@ There is no warrant for the objection that in the instance cited, from out of th
 तद्-आरब्धे पटे स्फटम् उपलभमानाः  
 कथं कारण-गुण-पूर्वकत्वम् उक्त-गुणस्याध्यवस्येम ?
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, although the special quality of variegated colour is not found in white, black and other threads severally, we clear y perceive it in the cloth made out of these. How, then, can we assert that the quality of the effect is dependent on that of the cause?
 </details>
@@ -499,7 +499,7 @@ Further, although the special quality of variegated colour is not found in white
 
 न चावयव-रूपातिरेकेणावयविनि चित्रं नाम रूपान्तरं नास्त्य् एव - अवयविनो ऽचाक्षुषत्व-प्रसङ्गात् +++(वक्ष्यमाण-रीत्या)+++। 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, it cannot be said that over and above the colours of the constituent parts there is no other colour known as variegated colour in the whole; for, in that case, the whole would become imperceptible.
 </details>
@@ -520,7 +520,7 @@ Again, it cannot be said that over and above the colours of the constituent part
 अवयव-रूपैर् एव तद्-उपपादने  
 सर्वम् एव कार्य-द्रव्यं नीरूपम् आपद्येत् । +++(4)+++
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it be said that the whole becomes visible only on account of the colours of the parts, it would follow that all effects would be deprived of their colours.
 </details>
@@ -540,7 +540,7 @@ If it be said that the whole becomes visible only on account of the colours of t
 
 (ततः) अनुभव-विरोधः, सर्व-व्यवहार-विरोधश् च । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That would contradict experience as also all usage.
 </details>
@@ -562,7 +562,7 @@ That would contradict experience as also all usage.
 अ-कारण-गुण-पूर्वकं दृश्यते  
 इत्य् अनैकान्तश् च । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As the special quality of hardness existing in ice is not found to be dependent on the quality of the causal substance (water), the argument commits the fallacy of *anaikānta*.
 </details>
@@ -585,7 +585,7 @@ As the special quality of hardness existing in ice is not found to be dependent 
 न च संयोग-विशेषः काठिन्यम्; तस्य +++(संयोगस्य)+++ द्विष्ठत्वात् ,  
 अस्य तु +++(काठिन्यस्य)+++ कारक-द्रव्यैक-वर्तित्वात्, स्पर्श-विशेषतया पदार्थ-विद्भिर् अभ्युपगमाच् च ।
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, hardness cannot be said to be a particular from of conjunction, because it exists in two objects, while hardness exists in one namely, ice and because people who know the nature of things have admitted hardness to be a form of contact.
 </details>
@@ -603,7 +603,7 @@ Again, hardness cannot be said to be a particular from of conjunction, because i
 </details>
 
 ### दृश्य-द्रष्टृता
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The attempt to show that the body could at once be the subject and the object of knowledge:-
 </details>
@@ -614,7 +614,7 @@ The attempt to show that the body could at once be the subject and the object of
 
 इति चेत्, को विरोधः? 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It may be asked how can the body which is an object of perception be regarded as the knower.
 </details>
@@ -635,7 +635,7 @@ It may be asked how can the body which is an object of perception be regarded as
 > अयम् एव, यद् एकस्यां क्रियायाम्  
 एकस्य कर्मत्वं कर्तृत्वं च न घटत इति । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 What is the contradiction involved in this? The incompatibility lies precisely here-in regard to one act, it is not possible for one and the same substance to be at once the object and the agent of action.
 </details>
@@ -654,7 +654,7 @@ What is the contradiction involved in this? The incompatibility lies precisely h
 यद्य् एवं, व्यतिरेक-वादे वा  
 कथम् आत्मनि अहम् इति प्रत्ययः? 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If this were so, even on the other view (that something other than the body is the self), how can the self (the perceived) appear as the 'I' (the perceiver)?
 </details>
@@ -672,7 +672,7 @@ If this were so, even on the other view (that something other than the body is t
 
 "रूप-भेदाद्" इति चेत्, समानम् इदं देहात्मवादेऽपि । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it be replied that it is due to a difference of aspect, then it is equally applicable to the doctrine that the body is the self.
 </details>
@@ -698,7 +698,7 @@ If it be replied that it is due to a difference of aspect, then it is equally ap
 कर्मत्वम् एव नास्तीति  
 न पर्यनुयोगावकाशः ।+++(4)+++
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides an object (of knowledge, and, for that matter, of any activity) is that which shares the fruit of actions which are found in intimate association with something other than itself; but the body experiences the results of knowledge found intimately associated with itself and hence does not possess the character of being an object. Hence there is no room for the objection (How can the body be both the subject and object?).
 </details>
@@ -718,7 +718,7 @@ Besides an object (of knowledge, and, for that matter, of any activity) is that 
 
 ### निगमनम्
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Summing up of dehatmavada position with reasons:-
 </details>
@@ -727,7 +727,7 @@ Summing up of dehatmavada position with reasons:-
 
 अतो देह एवात्मेति बार्हस्पत्याः । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, the followers of Brhaspati hold that the body itself is the soul.
 </details>
@@ -753,7 +753,7 @@ Therefore, the followers of Brhaspati hold that the body itself is the soul.
 
 इति सूत्रम् ।
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To that effect their sutra runs-intelligence emerges from the elements of earth, water, fire and air just as the intoxicating quality springs from herbs etc.,
 </details>
@@ -771,7 +771,7 @@ To that effect their sutra runs-intelligence emerges from the elements of earth,
 
 
 ## अहम्-इदम्-प्रयोग-प्रत्यक्षात्
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 THE REFUTATION OF THE DOCTRINE OF THE IDENTITY OF BODY AND SOUL
 </details>
@@ -790,7 +790,7 @@ THE REFUTATION OF THE DOCTRINE OF THE IDENTITY OF BODY AND SOUL
 अपि च तादृशो व्यवहारः प्राणातिरिक्तात्मवादिनाम् एव।  
 तस्य समाधानम् अग्रे प्रत्यक्षान्तरेण करिष्यते। 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The body cannot be the soul, because (the doctrine of the identity of the body with the soul is) contradicated by perception. One and the same substance cannot appear as 'this' and 'I' to an identical person. (St. 4)
 </details>
@@ -808,7 +808,7 @@ The body cannot be the soul, because (the doctrine of the identity of the body w
 
 अहं जानामीति प्रत्यग्-वृत्तिः।
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Just as the inward (objective) knowledge of 'I' involved in the. conciousness 'I know' exhibits its object to be distinct from pots and the like
 </details>
@@ -830,7 +830,7 @@ Just as the inward (objective) knowledge of 'I' involved in the. conciousness 'I
 निष्कृष्टम् एव स्वविषयम् उपस्थापयति  
 घटादेर् इव;
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 it reveals its object to be distinct from the body which is the object of consciousness 'this'.
 </details>
@@ -850,7 +850,7 @@ it reveals its object to be distinct from the body which is the object of consci
 स्व-विषयम् अहङ्कार-गोचराद् विवेचयति,  
 यथा "अयं घट" इति । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Just as the cognition 'This is a pot' (marks off its object as distinct from the object of the consciousness of 'I',) even so the outward knowledge 'this' having the body for its object, distinguishes its object as different from the object of self-consciousness. Otherwise, there will be no basis for the distinction between 'myself' and 'others'.
 </details>
@@ -890,7 +890,7 @@ Just as the cognition 'This is a pot' (marks off its object as distinct from the
 अस्य समाधानम् अप्य् अग्रिम-प्रत्यक्षेण करिष्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be urged that one and the same thing may, from different aspects, appear in this manner (as 'I' and 'this') because Devadatta wielding a stick does not understand himself as 'This person possesses a stick' (but only as 'I wield a stick').
 </details>
@@ -914,7 +914,7 @@ It cannot be urged that one and the same thing may, from different aspects, appe
 </details>
 
 ### नाङ्ग-भानम्
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Aham pratyaya (the cognition 'I' or self consciousness) does not involve knowledge of bodily organs; hence the self is distinct from the body:-
 </details>
@@ -926,7 +926,7 @@ Aham pratyaya (the cognition 'I' or self consciousness) does not involve knowled
 "अहम्" इति स्वात्मानम् अवयतः  
 कर-चरणोदराद्य्-अवयवा न भासन्ते । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, to a person who has controlled the activities of his external senses and attained mental concentration and known the self as the 'I', the knowledge of organs such as hands, legs and belly does not arise.
 </details>
@@ -950,7 +950,7 @@ Moreover, to a person who has controlled the activities of his external senses a
 "अहम्" इति मति-गोचरे ऽभ्युपगम्यमाने  
 ऽवश्यम् अवयव-प्रतिभासेनाप्य् अन्वयिना भाव्यम् । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And if the body which is big and possesses parts were taken to be the object of self-consciousness, a knowledge of the organs must necessarily accompany it.
 </details>
@@ -972,7 +972,7 @@ And if the body which is big and possesses parts were taken to be the object of 
 अवयवास् तु न केचन प्रथन्त'  
 इति । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is impossible for the body which is big and which owns parts to be known when none of its parts is cognised.
 </details>
@@ -990,7 +990,7 @@ It is impossible for the body which is big and which owns parts to be known when
 वातायन-विवर-दृश्य-- निर्भाग-त्रस-रेणु-व्यतिरेकेण  
 परमाणु-स्वीकारे कारणाभावात्, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The instance of the *tryanuka* (triad of atoms) which was cited as disproving the general proposition (that whenever the whole is perceived its parts also should be perceived) does not really disprove it, for there is no warrant for accepting the existence of infinitesimal atoms over and above the triads which are devoid of parts and which are per ceivable (in sun's rays proceeding) through the hole of the window.
 </details>
@@ -1015,7 +1015,7 @@ The instance of the *tryanuka* (triad of atoms) which was cited as disproving th
 प्रत्यक्ष-योग्यावयवस्य तथा+++(→अवयव)+++-प्रतिभास-नियमाद् वा  
 न व्यभिचारः । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Even granting the existence of infinites mal atoms) th's general propos:- tion is not falsified, because it applies only to perceptible parts.
 </details>
@@ -1040,7 +1040,7 @@ The instance of the *tryanuka* (triad of atoms) which was cited as disproving th
 अन्तःकरणस्य च केवलस्य  
 अवयविनि वृत्त्य्-असंभवाच् च । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, it cannot be contended that this rule obtains only in the case of the complex whole cognised by external organs, as there is no warrant (for the same). Besides, in comprehending a whole composed of parts the internal organ, in itself, does not operate.
 </details>
@@ -1058,7 +1058,7 @@ Again, it cannot be contended that this rule obtains only in the case of the com
 
 वायोस् तु रूपाद्य्-अभावात्-केवल-स्पर्शाधारतयोपलम्भः । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As for the case of air, it is known as the seat of touch only, because it has no colour, etc.;
 </details>
@@ -1079,7 +1079,7 @@ As for the case of air, it is known as the seat of touch only, because it has no
 स्पृश्यमान इव घटादाव्  
 इति न तेन व्यभिचारः ।
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 besides, even here, as in the case of the pot which is being touched, there is knowledge of such diverse parts; hence, no conflict with the general rule on this score,
 </details>
@@ -1095,7 +1095,7 @@ besides, even here, as in the case of the pot which is being touched, there is k
 </details>
 
 ## बाह्यागोचरता
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even cognitions like 'I am stout' establish a self distinct from the body-
 </details>
@@ -1107,7 +1107,7 @@ Even cognitions like 'I am stout' establish a self distinct from the body-
 इति शरीरे ऽहं-प्रत्ययो दृश्यत इति,  
 तद् अपि पर्यालोचनीयम् । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The contention that from statements such as I am stout', 'I am lean', the self is found to have the body for its object deserves examination
 </details>
@@ -1128,7 +1128,7 @@ The contention that from statements such as I am stout', 'I am lean', the self i
 अहङ्कारो गोचरयति,  
 न पुनश् चाक्षुष इव देहप्रत्ययः स्थौल्य-बाल्यादि-योगि-देह-मात्रम् । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even there, self-consciousness has for its object some entity which is only inside the body; and like the knowledge of the body gained through visual perception, it does not relate to the body only which has the characteristics of stoutness, youthfulness and the like.
 </details>
@@ -1151,7 +1151,7 @@ Even there, self-consciousness has for its object some entity which is only insi
 "ममेदं गृहम्" इतिवत्  
 "ममेदं शरीरम्" इति भेद-प्रतिभासो व्यवहारश् च । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Hence the apprehension of difference and the reference This is my body', as in the case of the expression 'This is my house'.
 </details>
@@ -1173,7 +1173,7 @@ Hence the apprehension of difference and the reference This is my body', as in t
 औपचारिको युक्त आश्रयितुं  
 "ममात्मे"तिवत् । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This usage ("This is my body') being based on directly perceived difference, it is not proper to urge that it has to be interpreted figuratively like the expression 'This is my self',
 </details>
@@ -1193,7 +1193,7 @@ This usage ("This is my body') being based on directly perceived difference, it 
 +++("ममायम् आत्मा"→)+++ तत्रात्म-शब्दस्य आत्मनि वृत्तेर्, +++(अहम्-आत्म-शब्दयोर्)+++ ऐकार्थ्याद्, अविवादाच् च  
 युक्तं तथाऽऽश्रयणम् +++(औपचारिकत्वस्य)+++ । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 'This is the body of the doll. As the word 'my' denotes the self and as the two words (my and self in the statement "This is my self') have an identical meaning and as there is no dispute concerning this, a figurative interpretation is proper.
 </details>
@@ -1213,7 +1213,7 @@ This usage ("This is my body') being based on directly perceived difference, it 
 
 न चैवम् अत्र  +++(←"ममेदं शरीरम्")+++। 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But it is not so here (in the statement 'This is my body)
 </details>
@@ -1233,7 +1233,7 @@ But it is not so here (in the statement 'This is my body)
 अतो देह-व्यतिरेकिणश् चेतनस्य प्रत्यक्ष-सिद्धत्वात्  
 सम्बन्धिनि +++(→देहे)+++ लाक्षणिको देहे ऽहंशब्दप्रयोगः ।
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Because a conscous entity distinct from the body is established by perception, the word 'I' (in the proposition 'I am stout)' denotes by a figure of speech, the body which is related to the self.
 </details>
@@ -1250,7 +1250,7 @@ Because a conscous entity distinct from the body is established by perception, t
 </details>
 
 ## भ्रम-मूलम्
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Identity of body with soul illusory-
 </details>
@@ -1264,7 +1264,7 @@ Identity of body with soul illusory-
 आत्मनि तादृश+++(←पूर्वोक्त-रूपादि)+++-रूपान्तराग्रहणेन  
 देहाभेद-प्रतिभास-भ्रमो ऽविवेकिनाम् । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 With regard to external objects, as there is knowledge of mutually exclusive colours, size, number and configuration, diversity is explicit; but, in the case of the soul, as there is no knowledge of such divergent qualities, to the ignorant there arises the illusion of the body being non-different from the soul.
 </details>
@@ -1297,7 +1297,7 @@ With regard to external objects, as there is knowledge of mutually exclusive col
 
 इतश् च - +++(स्व-)+++"इच्छानुविधायि--स्व-व्यापारो ऽयम् आत्मा" । +++(5)+++
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, the self has his activities determined by 'his desires;
 </details>
@@ -1318,7 +1318,7 @@ Again, the self has his activities determined by 'his desires;
 
 इच्छयैव हि सङ्कल्पयति, स्मरत्य्, अभ्यूहति च । 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, he wills, remembers and infers only at the instance of his desires;
 </details>
@@ -1340,7 +1340,7 @@ for, he wills, remembers and infers only at the instance of his desires;
 शरीरम् अपि तद्-इच्छानुविधायि-- शयनासनोत्थानादि-चेष्टम्  
 इति भवत्य् अ-भेद-भ्रमः, शुक्तिरजतादाव् इव ।
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 the body too has its activities, such as lying down, sitting and standing, determined by his desires; hence arises the illusion of non-difference as in the case of the shell and silver.
 </details>
@@ -1350,7 +1350,7 @@ the body too has its activities, such as lying down, sitting and standing, deter
 </details>
 
 ## विवेकः
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Yogic perception vouches for the separatness of soul and body.
 </details>
@@ -1363,7 +1363,7 @@ Yogic perception vouches for the separatness of soul and body.
 इदम् इति परिस्फुरतस् स्थूलाद् अवयविनश् शरीरात्  
 पृथग् अपरोक्षयन्त्य् एव ।
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Thinking minds, however, perceive the entity known as 'I' which. has to be recognised as knower and which is devoid of parts to be really distinct from the body which appears as 'this' and which is stout and consists of parts.
 </details>
@@ -1380,7 +1380,7 @@ Thinking minds, however, perceive the entity known as 'I' which. has to be recog
 </details>
 
 ## अनुमान-प्रयोगाः
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Arguments in support of the view that body and soul are distinct entities-
 </details>
@@ -1390,7 +1390,7 @@ Arguments in support of the view that body and soul are distinct entities-
 
 भवन्ति च +++(अनुमान-प्रयोगाः)+++
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As the knowledge of bodily parts is absent in the consciousness 'I know'
 </details>
@@ -1410,7 +1410,7 @@ As the knowledge of bodily parts is absent in the consciousness 'I know'
 जानामीति +++("अहं")+++प्रत्ययश् शरीर-विषयो न भवति,  
 +++(अ-प्रकाशमान--तद्-अवयव-प्रतिभासत्वात्)+++
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 either it does not have for its object the body
 </details>
@@ -1432,7 +1432,7 @@ either it does not have for its object the body
 अर्थान्तर-विषयो वा ऽयम् +++(जानामीति प्रत्ययः)+++,  
 अ-प्रकाशमान--तद्-अवयव-प्रतिभासत्वात्, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 or has for its object something other than the body.
 </details>
@@ -1451,7 +1451,7 @@ or has for its object something other than the body.
 य एवं-प्रकारः स तथा +++(अवयव-प्रतिभासवान्)+++,  
 यथा "ऽयम् (घटः)" इति प्रतिभासः, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Wherever there is absence of apprehension of bodily parts, the body is not the object of knowledge, but something else; as in the case of the consciousness 'This is is a pot'.
 </details>
@@ -1471,7 +1471,7 @@ Wherever there is absence of apprehension of bodily parts, the body is not the o
 यच् छरीर-विषयम् +++(ज्ञानं)+++, न तत् तथा +++("आत्म-घताद्य्-अवयव-प्रतिभासकम्")+++,  
 यथा उभय-संमतं शरीर-ज्ञानम् +++(←"अहं शरीरं जानामि")+++। 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The knowledge which has the body for its object is, however, different (that is, there is not absence of knowledge of parts of the body), as in the instance of knowledge of the body accepted by both of us.
 </details>
@@ -1492,7 +1492,7 @@ The knowledge which has the body for its object is, however, different (that is,
 तथा शरीरम् अहं-प्रत्यय-गोचरो न भवति,  
 "इदम्" इति गृह्यमाणत्वात्, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 the body cannot be the object of self-consciousness, because it is known to be 'this'
 </details>
@@ -1512,7 +1512,7 @@ the body cannot be the object of self-consciousness, because it is known to be '
 +++(शरीरम् अहं-प्रत्यय-गोचरो न भवति)+++  
 बाह्येन्द्रिय-ग्राह्यत्वाद् वा घटादिवद् इति ।
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 or because it is grasped by external senses, as in the case of the pot and the like.
 </details>
@@ -1528,7 +1528,7 @@ or because it is grasped by external senses, as in the case of the pot and the l
 
 
 ## पारार्थ्यत्वात् साङ्खोक्तवत्
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The Sankhya arguments against the claim that perception establishes identity of body and soul:-
 </details>
@@ -1544,7 +1544,7 @@ The Sankhya arguments against the claim that perception establishes identity of 
 देहे कथम् इवात्म-धीः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, how can he who has known his self to exist for the sake of nothing other than himself, and known other objects to exist for his sake,  
 take this body which exists for the sake of others, for the reason of its being a collection of parts, to be the self?
@@ -1568,7 +1568,7 @@ take this body which exists for the sake of others, for the reason of its being 
 प्रत्यक्षतः प्रतिपद्यामहे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 We directly perceive that the entire collection of internal and external objects of experience, such as sound and pleasure, exist for the sake of the self; while the self, the enjoयेr, does not exist for the sake of others; but is the one object for whose glory and service everything else exists.
 </details>
@@ -1587,7 +1587,7 @@ We directly perceive that the entire collection of internal and external objects
 न च शरीरम् अनन्यार्थं ; सङ्घातत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Being a collection, the body cannot but exist for the sake of others;
 </details>
@@ -1606,7 +1606,7 @@ Being a collection, the body cannot but exist for the sake of others;
 सङ्घाताः हि सर्वे परार्था दृष्टाः शयनासन-रथादयः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and all aggregates such as bed, seat and chariot are indeed found to exist for the sake of others.
 </details>
@@ -1631,7 +1631,7 @@ and all aggregates such as bed, seat and chariot are indeed found to exist for t
 इति वाच्यम् -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be argued that as all collections are known to be for the sake of the body and the like which are themselves collections, the self also should be an aggregate;
 </details>
@@ -1651,7 +1651,7 @@ It cannot be argued that as all collections are known to be for the sake of the 
 तथा सति तस्य अपि परार्थत्व-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, if it were so, the self too would have to exist for the sake of others;
 </details>
@@ -1672,7 +1672,7 @@ for, if it were so, the self too would have to exist for the sake of others;
 इति उक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but it has already been stated that the self is directly perceived to exist not for the sake of others.
 </details>
@@ -1687,7 +1687,7 @@ but it has already been stated that the self is directly perceived to exist not 
 योग्यानुपलम्भ-बाधितं चात्मनि सङ्घातत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 On account of the non-perception of the collective nature of the self-a nature which is capable of being perceived--the belief that the soul is an aggregate stands condemned.
 </details>
@@ -1709,7 +1709,7 @@ On account of the non-perception of the collective nature of the self-a nature w
 इति न व्यवतिष्ठेत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the self exists for the sake of another collection, the latter must also exist for the sake of some other collection and that for another and so on *ad infinitum*.
 </details>
@@ -1728,7 +1728,7 @@ If the self exists for the sake of another collection, the latter must also exis
 न च व्यवस्थायां सत्याम् अ-व्यवस्था युक्ता ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But where an end is possible, an unending chain is undesirable.
 </details>
@@ -1750,7 +1750,7 @@ But where an end is possible, an unending chain is undesirable.
 भोक्तृतयैवात्मनः स्वार्थ-सङ्घातं प्रति परत्वोपपत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, when a collection exists for the sake of something else, it is not because that other itself is a collection. It is only in virtue of his nature as enjoयेr the self becomes that other for whose sake all collections exist.
 </details>
@@ -1771,7 +1771,7 @@ Moreover, when a collection exists for the sake of something else, it is not bec
 सर्वानुमानोच्छेद-प्रसङ्गः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For him who attempts to base his inference on all the qualities of the illustrative example, even though they may be unserviceable to the general rule, all inference would be impossible.
 </details>
@@ -1789,7 +1789,7 @@ For him who attempts to base his inference on all the qualities of the illustrat
 
 
 ## कारण-गुणानुसारी कार्य-गुणः
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Refutation of the Carvaka criticism of arguments that the body and soul are different:-
 </details>
@@ -1802,7 +1802,7 @@ Refutation of the Carvaka criticism of arguments that the body and soul are diff
 अपि ज्ञानं न तद्-गुणः ॥६ ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even though the distinction between the two (the body and self) may not be explicit, consciousness cannot be a quality of the body, as it cannot exist in it and as being quite unlike its other qualities. 
 </details>
@@ -1831,7 +1831,7 @@ Even though the distinction between the two (the body and self) may not be expli
 कथम् अ-तत्-पूर्वक-शरीरे चैतन्य-गुणः सम्भवेत्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As all the special qualities existing in the effect are dependent of those of the causal substance, how can consciousness exist in the body without depending on the quality of its cause?
 </details>
@@ -1850,7 +1850,7 @@ As all the special qualities existing in the effect are dependent of those of th
 
 
 ### मद-शक्तिवन् न
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The illustration that intoxicating quality arises from the mixture of non-intoxicants not apposite :-
 </details>
@@ -1865,7 +1865,7 @@ The illustration that intoxicating quality arises from the mixture of non-intoxi
 इति, तद् अनुपपन्नम् -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Bṛhaspati's teaching-that earth, water. fire and air are the realities and that from these consciousness arises just as the intoxicating quality emerges from herbs, etc.-is untenabie.
 </details>
@@ -1886,7 +1886,7 @@ Bṛhaspati's teaching-that earth, water. fire and air are the realities and tha
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As power is not a special quality, it may be so (that is, need not be dependent on the quality of the causal substance).
 </details>
@@ -1909,7 +1909,7 @@ As power is not a special quality, it may be so (that is, need not be dependent 
 शक्त्य्-आख्यो गुणस् साधारणः;
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In all substances the quality known as causal power concerning the effect, cognisable from their respective effects, is a common quality,
 </details>
@@ -1930,7 +1930,7 @@ In all substances the quality known as causal power concerning the effect, cogni
 एक-विध-प्रत्यक्ष-सिद्धतया च विशेष-गुणत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but consciousness is not so, because it is admitted to belong to the body only and because it is a special quality, as it, while remaining an effect, is cognised by one form of perception.
 </details>
@@ -1960,7 +1960,7 @@ but consciousness is not so, because it is admitted to belong to the body only a
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is not wrong to maintain that, on the basis of their own quality, form out of infinitesimal atoms, which are not effects and which acquire the intoxicating quality from the mingling of different substances, intoxicating quality arises in their effects.
 </details>
@@ -1977,7 +1977,7 @@ It is not wrong to maintain that, on the basis of their own quality, form out of
 
 
 ### ताम्बूल-रागवन् न
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Example of redness produced by chewing not apposite :-
 </details>
@@ -1990,7 +1990,7 @@ Example of redness produced by chewing not apposite :-
 द्रव्यान्तर-संयोग-जनित- रक्तिम-गुणैः कारणैः क्रियते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The redness caused by betels, etc., is, likewise, produced by causes which possess the red colour generated by the mixing of different substances, after their parts have lost their cohesion (in the act of chewing);
 </details>
@@ -2011,7 +2011,7 @@ The redness caused by betels, etc., is, likewise, produced by causes which posse
 प्रत्येकं रक्तिम-गुणः ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 hence the red colour perceived in each of their parts too.
 </details>
@@ -2034,7 +2034,7 @@ hence the red colour perceived in each of their parts too.
 तत् तु यथा ताम्बूल-परमाणुषु न हि रक्तिमा विद्यते, तथा। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Consciousness is not found in the parts of the body individually, nor have they been said to possess it.
 </details>
@@ -2062,7 +2062,7 @@ Consciousness is not found in the parts of the body individually, nor have they 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If that were admitted, as it would follow that in one and the same body there must be many thinking beings, it is impossible to say which is primary and which is secondary; 
 </details>
@@ -2095,7 +2095,7 @@ Abby and Brittany Hensel इत्यादयोऽपि द्विशिर
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 besides, all reference to recognition would be impossible.  
 Just as in respect of what has been seen by Devadatta, there cannot be recognition on the part of Yajnadatta, here also (what has been perceived by one part of the body cannot be recognised by another).
@@ -2119,7 +2119,7 @@ Just as in respect of what has been seen by Devadatta, there cannot be recogniti
 </details>
 
 ### चित्र-पटवन् न
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The illustration of parti-coloured cloth unhelpful to the Carvaka :-
 </details>
@@ -2134,7 +2134,7 @@ The illustration of parti-coloured cloth unhelpful to the Carvaka :-
 इति, तन् न ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The statement made before, namely, that the variegated colour found in the cloth is not dependent on the quality of the cause, is erroneous.
 </details>
@@ -2149,7 +2149,7 @@ The statement made before, namely, that the variegated colour found in the cloth
 नाना-रूपता हि चित्रता ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The quality of variegated colour is nothing but that of being many coloured;
 </details>
@@ -2173,7 +2173,7 @@ The quality of variegated colour is nothing but that of being many coloured;
 "चित्रा इमे तन्तवः" इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and this (variegated colour) is produced by threads of different colours; hence there is nothing objectionable here. Though variegated co'our does not exist in each of the threads severally, it is certainly noticed in the threads which combine and are known as threads of variegated colours.
 </details>
@@ -2193,7 +2193,7 @@ and this (variegated colour) is produced by threads of different colours; hence 
 संभूय च तेषां पटारम्भकत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The capacity to produce cloth belongs to threads only in their togetherness;
 </details>
@@ -2210,7 +2210,7 @@ The capacity to produce cloth belongs to threads only in their togetherness;
 न क्वचित् व्यभिचारः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 thus the variegated colour exists even in the cause of cloth; hence there is nowhere any violation (of the rule that the qualities of the effect are dependent on those of the causes).
 </details>
@@ -2232,7 +2232,7 @@ thus the variegated colour exists even in the cause of cloth; hence there is now
 महत्त्वैकार्थ-समवायिना रूपवत्त्वेनैव चाक्षुषत्व-सिद्धेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be maintained that the whole (the cloth) becomes invisible inasmuch as it does not possess any one specific colour, for, it may become perceptible by the very fact of its possessing inherently colour along with bigness.
 </details>
@@ -2253,7 +2253,7 @@ It cannot be maintained that the whole (the cloth) becomes invisible inasmuch as
 अस्तु वा चित्रं नामैको रूप-विशेषः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Let variegated colour be taken to be one specific colour.
 </details>
@@ -2281,7 +2281,7 @@ Let variegated colour be taken to be one specific colour.
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even then it is found to be produced by the different colours existing in the causes.
 </details>
@@ -2305,7 +2305,7 @@ Even then it is found to be produced by the different colours existing in the ca
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be asserted that it is only the consciousness resident in the parts that produces the particular consciousness in the body, which is composed of those parts, for, consciousness in general cannot exist in the parts.
 </details>
@@ -2326,7 +2326,7 @@ It cannot be asserted that it is only the consciousness resident in the parts th
 अतो न देह-गुणश् चैतन्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, consciousness is not a quality of the body.
 </details>
@@ -2341,7 +2341,7 @@ Therefore, consciousness is not a quality of the body.
 एतेन सुखादयो ऽपि शरीरगुणाः प्रत्युक्ताः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 On the same count, the belief that pleasure and other qualities belong to the body stands condemned.
 </details>
@@ -2358,7 +2358,7 @@ On the same count, the belief that pleasure and other qualities belong to the bo
 
 
 ## मृत-शरीर-दार्ढ्यात्
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Being distinct from the other qualities of the body consciousness  
 is not an attribute of the body :-
@@ -2379,7 +2379,7 @@ is not an attribute of the body :-
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, as consciousness, pleasure, etc., vanish from the body,  
 like the smell of flower and sandal,  
@@ -2411,7 +2411,7 @@ and in the absence of counteracting qualities, they cannot be the qualities of t
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Colour and other special qualities of the body, however, do not leave it in the same manner.
 </details>
@@ -2435,7 +2435,7 @@ Colour and other special qualities of the body, however, do not leave it in the 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The qualities of the body are perceptible to the individual as well as to others and are also to be grasped by external senses;
 </details>
@@ -2462,7 +2462,7 @@ The qualities of the body are perceptible to the individual as well as to others
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but not so consciousness, etc.
 </details>
@@ -2482,7 +2482,7 @@ but not so consciousness, etc.
 नासौ तद्गुणः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, they cannot be the qualities of the body.
 </details>
@@ -2498,7 +2498,7 @@ Therefore, they cannot be the qualities of the body.
 </details>
 
 ## अनुमान-सङ्ग्रहः
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Additional reasons in support of the view that the body is not the soul.
 </details>
@@ -2515,7 +2515,7 @@ Additional reasons in support of the view that the body is not the soul.
 देहो नात्मा घटादिवत् ॥ ७ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, the body is not the soul, since like a pot, it has a beginning, exists for the sake of others, possesses a particular configuration and has colour, etc., and is an element. 
 </details>
@@ -2543,7 +2543,7 @@ Further, the body is not the soul, since like a pot, it has a beginning, exists 
 निषेध्या वर्ष्मणश् चितिः ॥ ८ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, because the body has holes and is not the possessor of the body and is a body, consciousness cannot be its quality, as in the case of the dead body.  
 These and other logical proofs lead us to reject the view that consciousness is a quality of the body.
@@ -2564,7 +2564,7 @@ These and other logical proofs lead us to reject the view that consciousness is 
 
 
 ## इन्द्रियाश्रयत्वादिना न
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Argument based on Negative concomitance indefensible
 </details>
@@ -2585,7 +2585,7 @@ Argument based on Negative concomitance indefensible
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Thus the matter having been disposed of in this manner  
 with the aid of the aforesaid reasons  

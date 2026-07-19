@@ -2,7 +2,7 @@
 title = "१० न मनः"
 +++
 ## मन-आत्म-वादः
-<details><summary>English - Topic</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Topic</summary>
 
 The doctrine that manas is the soul
 </details>
@@ -13,7 +13,7 @@ The doctrine that manas is the soul
 अस्तु तर्हि - मन एव चेतनम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 19. In that case, let manas (mind) be the soul.
 </details>
@@ -34,7 +34,7 @@ The doctrine that manas is the soul
 तथा सति हि पूर्वोक्ता दोषाः परिहृता भवन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 On that view, it is argued the aforesaid difficulties would be got over.
 </details>
@@ -50,12 +50,12 @@ On that view, it is argued the aforesaid difficulties would be got over.
 तद् धि सर्वेन्द्रियाध्यक्षं प्रज्ञायते प्रतिज्ञायते च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, manas has been known to be the controller of all the senses and has been so declared.[F19_37]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F19_37]: Prajnayate is found in the Telugu edition, but is wrongly omitted in the Benares edition. The presence of the word ca implies that there must be another verb besides pratijnayate; and it can only be prajnayate. (Note missing in text but in footer).
 </details>
@@ -78,7 +78,7 @@ Indeed, manas has been known to be the controller of all the senses and has been
 दर्शनानुसन्धानाधारस्य मनस एकत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, recognition by a different sense becomes appropriate, since manas is the one entity that is the seat of both perception and recognition.
 </details>
@@ -102,7 +102,7 @@ Besides, recognition by a different sense becomes appropriate, since manas is th
 मनसो नित्यत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even when the respective senses perish, recognition is still possible, since manas is eternal.
 </details>
@@ -117,7 +117,7 @@ Even when the respective senses perish, recognition is still possible, since man
 (इति मन-आत्मत्व-पूर्वपक्ष-प्रकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Here ends the section presenting the prima facie view of the selfhood of manas)
 </details>
@@ -128,7 +128,7 @@ Even when the respective senses perish, recognition is still possible, since man
 </details>
 
 ## करणत्वात्
-<details><summary>English - Topic</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Topic</summary>
 
 The refutation of this doctrine
 </details>
@@ -140,7 +140,7 @@ The refutation of this doctrine
 तद् अपि न; करणत्वाच् चक्षुर्-आदिवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 20. This theory (that manas is the soul) too is erroneous, because manas is an instrument like the eये, etc.
 </details>
@@ -162,7 +162,7 @@ The refutation of this doctrine
 बाह्यान्तर-सकल-विषय-- संवेदन-करणतया हि मनः प्रकल्प्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Manas has indeed been conceived as the instrument of all knowledge concerning the outer and the inner world.
 </details>
@@ -187,12 +187,12 @@ Manas has indeed been conceived as the instrument of all knowledge concerning th
 इति ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 From the fact that even when the different external senses are in contact with their respective objects, they are not apprehended simultaneously, we learn that there exists some other instrument besides the senses, and that, on account of the absence of its help, all objects do not appear but some one (object) alone is cognised.[F19_38]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F19_38]: Nyaya Sutra, I. i —16 Yugapat jnananutpattir manaso lingam.
 </details>
@@ -217,7 +217,7 @@ From the fact that even when the different external senses are in contact with t
 रूपादि-ज्ञान-वद् इति +++(मनसः करणता)+++।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P20]]
 
@@ -242,7 +242,7 @@ Likewise, knowledge of pleasure, etc, as in the case of knowledge of colour and 
 कथम् इव ज्ञाने कर्तृत्वम्? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 How can manas, which is thus known to be an instrument of knowledge, be the subject of knowledge?
 </details>
@@ -263,7 +263,7 @@ How can manas, which is thus known to be an instrument of knowledge, be the subj
 स्वातन्त्र्य-लक्षणं हि तत् +++(→कर्तृत्वम्)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To be a subject is really to be independent.
 </details>
@@ -289,7 +289,7 @@ To be a subject is really to be independent.
 गुणान्तरं तन्त्री-कृत्य प्रवृत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Independence consists either in the capacity to secure, in accordance with one's own desires, the means appropriate to the realisation of certain ends, or in the activity brought on by other qualities inherent in oneself.
 </details>
@@ -305,7 +305,7 @@ Independence consists either in the capacity to secure, in accordance with one's
 इति कथम् इवैकत्र मनसि परस्परविरुद्ध-तद्-उभय-धर्म-सम्बन्धं प्रतिपद्येमहि? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To be an instrument is to be the best means to an end, which is invariably associated with dependence on others, which, in its turn, consists in possessing activity that is subject to the control of others. How can we find in the self-same manas the association of these two mutually conflicting qualities?
 </details>
@@ -325,7 +325,7 @@ To be an instrument is to be the best means to an end, which is invariably assoc
 तथा सति सञ्ज्ञा-मात्रे विवादः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, if it is maintained that manas, which is an agent, acquires, the character of an agent in remembering and other (activities) with the aid of another instrument, then the dispute concerns only the name.
 </details>
@@ -349,7 +349,7 @@ Moreover, if it is maintained that manas, which is an agent, acquires, the chara
 स एवात्मा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 He alone is called the soul who perceives colour etc., with (external senses such as) eयेs etc., and (who experiences) pleasure, etc., with the aid of the internal organ
 </details>
@@ -365,7 +365,7 @@ He alone is called the soul who perceives colour etc., with (external senses suc
 कामं निवेश्यताम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the name 'manas' be attributed to that let it be done by all means.
 </details>
@@ -380,7 +380,7 @@ If the name 'manas' be attributed to that let it be done by all means.
 न नः किञ्चिद् हीनम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It does not affect us in the least.
 </details>
@@ -395,7 +395,7 @@ It does not affect us in the least.
 किन्तु तदा सर्व-लौकिक-व्यवहारो बाध्येतेत्य् अलम् अनेन ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But it would go against linguistic usage. No more need be said in disproof of this theory.
 </details>
@@ -416,7 +416,7 @@ But it would go against linguistic usage. No more need be said in disproof of th
 (इति मन-आत्मवाद-खण्डन-प्रकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Here ends the section refuting the selfhood of manas)
 </details>
@@ -428,7 +428,7 @@ But it would go against linguistic usage. No more need be said in disproof of th
 
 
 ## मनोऽनुमान-खण्डनम्
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Refutation of the Naiyayika proof for the existence of manas :—
 </details>
@@ -440,7 +440,7 @@ Refutation of the Naiyayika proof for the existence of manas :—
 आह - "किम् इदं मनो नाम?"
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 What, it may be asked, is meant by manas?
 </details>
@@ -462,7 +462,7 @@ What, it may be asked, is meant by manas?
 ननूक्तम् "आन्तरं ज्ञान-करणं द्रव्यम्" इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It has already been described as an internal entity which is the instrument of knowledge.
 </details>
@@ -477,7 +477,7 @@ It has already been described as an internal entity which is the instrument of k
 किं पुनर् अस्य साधनम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 What is the proof of its existence?
 </details>
@@ -498,7 +498,7 @@ What is the proof of its existence?
 ननूक्तं - "युगपज्-ज्ञानानुत्पत्तिर् मनसो लिङ्गम्" इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The fact that knowledge of all objects does not arise s'multaneously (it may be said) has already been shown to prove the existence of manas.
 </details>
@@ -514,7 +514,7 @@ The fact that knowledge of all objects does not arise s'multaneously (it may be 
 उक्तं नाम; तथापि कथं तत्त्वान्तर-सिद्धिः?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 True, it has been so 'po'nted out; but, how does it establish that it is a distinct entity?
 </details>
@@ -537,7 +537,7 @@ True, it has been so 'po'nted out; but, how does it establish that it is a disti
 ऽवश्याश्रयणीयम् एव निमित्तान्तरम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even after postulating it, you must perforce admit some other reason to account for the absence of the simultaneous remembrance of all things.
 </details>
@@ -560,7 +560,7 @@ Even after postulating it, you must perforce admit some other reason to account 
 नानार्थानुभव-भाविताः संस्काराः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Impressions born of the experience of different objects exist simultaneously in the remembering person.
 </details>
@@ -581,7 +581,7 @@ Impressions born of the experience of different objects exist simultaneously in 
 अथ च न सर्वे स्मर्यन्ते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Still, all these objects are not remembered,
 </details>
@@ -596,7 +596,7 @@ Still, all these objects are not remembered,
 किञ्चिद् एव कदाचित् स्मर्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but only some one of them is recalled at a time a given.
 </details>
@@ -615,7 +615,7 @@ but only some one of them is recalled at a time a given.
 एवम् अपि प्रणिधान-मात्रोद्बोधनीय-संस्कारस्य स्मृति-यौगपद्यम् आपद्येत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The order in which the causes that are responsible for stimulating impres ions appear cannot be said to account for this (the non-appearance of all remembrance at once). If that were so, to a person whose impressions can be aroused solely by concentration, all remembrance should appear simultaneously.
 </details>
@@ -639,7 +639,7 @@ The order in which the causes that are responsible for stimulating impres ions a
 न सर्व एवार्थाः स्मृतिम् अधिरोहन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But, even in the case of a person who, with the desire to remember all he has ex-[[P21]]perienced, withdraws his manas from all things and meditates in general, all things previously experienced do not become the object of remembrance.
 </details>
@@ -663,7 +663,7 @@ But, even in the case of a person who, with the desire to remember all he has ex
 इति कृतम् इन्द्रियान्तरेण ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Should it be supposed that the order in which remembrances appear is due either to unseen forces (adṛṣṭa) inasmuch as all remembrance is either auspicious or inauspicious, or to the fact of the soul being of the nature of knowledge, then, the absence of the simultaneous appearance of all knowledge, even when the outer senses are in contact with their respective objects, would be rendered possible for the same reason; hence no need to posit a different substance.
 </details>
@@ -682,7 +682,7 @@ Should it be supposed that the order in which remembrances appear is due either 
 
 ### न सुखाद्य्-असमवायि-कारणम्
 #### सुखाद्यसमवायि-कारणम्?
-<details><summary>English - Topic</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Topic</summary>
 
 Refutation of the argument that manas is the non-inherent cause of pleasure, pain and the like :-
 </details>
@@ -696,7 +696,7 @@ Refutation of the argument that manas is the non-inherent cause of pleasure, pai
 असमवायि-कारणेन भाव्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, pleasure and the like which are adventitious, which inhere in the soul and which have external objects and unseen forces for their efficient cause, must have a non-inherent cause
 </details>
@@ -720,7 +720,7 @@ Again, pleasure and the like which are adventitious, which inhere in the soul an
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that is the conjunction of soul and manas. 
 </details>
@@ -736,7 +736,7 @@ and that is the conjunction of soul and manas.
 तद् असत् -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To believe that this argument establishes the existence of an entity known as manas is erroneous;
 </details>
@@ -760,7 +760,7 @@ To believe that this argument establishes the existence of an entity known as ma
 आत्म-समवायिन एवासमवायि-कारणत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, the knowledge, which is produced by contact with agreeable and disagreeable objects and which originates prior to pleasure, pain and the like, and which inheres in the soul, may itself be the non-inherent cause.
 </details>
@@ -783,7 +783,7 @@ for, the knowledge, which is produced by contact with agreeable and disagreeable
 विषय-सम्प्रयुक्तेन्द्रिय-सम्प्रयोग एवात्म-समवेतो ऽसमवायि-कारणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This (knowledge), in its turn, has for its non-inherent cause the conjunction of the organs, which are (themselves) in contact with objects, with the soul—a conjunction which inheres in the soul.
 </details>
@@ -807,7 +807,7 @@ This (knowledge), in its turn, has for its non-inherent cause the conjunction of
 आत्मेन्द्रिय-सन्निकर्षाद् अ-समवायि-कारणात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The activity of the organ which is the cause of this (conjunction) has for its non-inherent cause the conjunction of the soul with the organs—a conjunction which is dependent on the effort and unseen forces inherent in the soul.
 </details>
@@ -831,7 +831,7 @@ The activity of the organ which is the cause of this (conjunction) has for its n
 स्व-पूर्व-क्षण-वर्ति कर्तव्यता-ज्ञानम् +++(असमवायि-कारणम्)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This effort, again, (has for its non-inherent cause) the knowledge of the necessity for action existing at the preceding moment.
 </details>
@@ -854,7 +854,7 @@ This effort, again, (has for its non-inherent cause) the knowledge of the necess
 +++(कर्म-फल-जननात्)+++ प्रयत्न एव +++(असमवायि-कारणम्)+++ त्व् अ-दृष्टस्यापि
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The unseen force (has for its non-inherent cause) the effort itself. 
 </details>
@@ -888,7 +888,7 @@ The unseen force (has for its non-inherent cause) the effort itself.
 द्रव्यान्तर-परिकल्पनं न्याय्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Thus, even the argument that knowledge, pleasure, pain, desire and other special qualities of the soul require a non-inherent cause does not justify the positing of a different entity.
 </details>
@@ -911,7 +911,7 @@ Thus, even the argument that knowledge, pleasure, pain, desire and other special
 
 
 #### गुणोदये संयोगानपेक्षा
-<details><summary>English - Topic</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Topic</summary>
 
 Untenability of the view that atma gunas such as pleasure arise only in conjunction with some substance other than itself and that it is manas :-
 </details>
@@ -928,7 +928,7 @@ Untenability of the view that atma gunas such as pleasure arise only in conjunct
 इति ; तद् अपि स्थवीयः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P22]] From the fact that the colour of the atoms of earth (prthivi) originates from the non-inherent cause, viz., conjunction with fire,  
 it may be said that the non-inherent cause of the special quality of an eternal substance  
@@ -953,7 +953,7 @@ but this argument too is superficial.
 दहन-संयोगाद् इति कुतो ऽवगतं?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Wherefrom is it learnt that colour and other qualities of earth particles originate from conjunction with fire?
 </details>
@@ -982,7 +982,7 @@ Wherefrom is it learnt that colour and other qualities of earth particles origin
 इति?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the answer is:— it is so perceived in the resultant substance, then, inasmuch as pleasure and the like arise after the knowledge of the realisation of agreeable and disagreeable (objects), what is it that is not perceived here?
 </details>
@@ -998,7 +998,7 @@ If the answer is:— it is so perceived in the resultant substance, then, inasmu
 कारणान्तरानुमानावसरः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, there will be occasion to infer other causes only when the perceived causes are found to be defective.
 </details>
@@ -1019,7 +1019,7 @@ Indeed, there will be occasion to infer other causes only when the perceived cau
 न चेहास्ति व्यभिचारः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And here, there is no defect.
 </details>
@@ -1040,7 +1040,7 @@ And here, there is no defect.
 इति व्यवस्थाऽऽश्रयणम् उचितम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, it is well to accept the following formula  
 that among the factors well known to be causes, that is the inherent cause wherein lies the inherence of the effect; that is the non-inherent cause which is closely associated therewith; and the rest, the efficient cause.
@@ -1064,7 +1064,7 @@ that among the factors well known to be causes, that is the inherent cause where
 तस्यासमवायि-कारणत्वाश्रयणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is not proper to posit the conjunction of a different substance which is gratuitous and not well-known and to consider it the non-inherent cause.
 </details>
@@ -1080,7 +1080,7 @@ It is not proper to posit the conjunction of a different substance which is grat
 दृष्टानुसाराच् चाणु-गत-रूपादौ तथा ऽभ्युपगमः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Such an admission with regard to colour and like the residing in atoms is due to non-apprehension of other causes and to (the logical need for) conformity with perceived things.
 </details>
@@ -1095,7 +1095,7 @@ Such an admission with regard to colour and like the residing in atoms is due to
 इह तु तद्-विपर्ययः प्रदर्शित एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But the contrary has already been proved here.
 </details>
@@ -1111,7 +1111,7 @@ But the contrary has already been proved here.
 **इहे**ति । सुखादौ तु तद्-विपर्ययः कारणान्तरोपलम्भ-रूपं दृष्टान्ततो वैषम्यं प्रादर्शीति यावत् । एतावता पूर्वोक्तानुमाने ऽप्रयोजकत्वाव् व्याप्यत्वासिद्धिर असिद्धिर् उक्ता ।
 </details>
 
-<details><summary>English - Topic</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Topic</summary>
 
 Even if conjunction with such a substance were necessary, it does not follow that it must be with manas :-
 </details>
@@ -1126,7 +1126,7 @@ Even if conjunction with such a substance were necessary, it does not follow tha
 न नवम-द्रव्य-सिद्धिः +++(प्रकृति–५-भूत-–बुद्ध्य्-अहङ्कारेषु)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even if this were so, that conjunction with another substance, which may be inferred on the strength of invariable concomitance, being known to inhere in objects that can be touched and are elemental, the argument culminates in the cojunction with the well-known body, etc., ; hence, a ninth substance (manas) need not be posited.
 </details>
@@ -1157,7 +1157,7 @@ Even if this were so, that conjunction with another substance, which may be infe
 > भौतिकत्वे हि मनसः पृथिव्य्-आद्य्-अन्यतमत्वेन भवितव्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, if indeed, manas were elemental, it must be one among (the bhutas or primal elements) earth and the like;
 </details>
@@ -1178,7 +1178,7 @@ Again, if indeed, manas were elemental, it must be one among (the bhutas or prim
 > तच् चानुमानान्तरैर् व्यतिरेकम् आपादयद्भिः प्रत्यासिद्धम्+++(=प्रतिषिद्धम्, वक्ष्यमाण-रीत्या)+++ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but this is contradicted by other arguments proving it to be otherwise.
 </details>
@@ -1201,7 +1201,7 @@ but this is contradicted by other arguments proving it to be otherwise.
 रसावगम-निमित्तेन्द्रियत्वाद्, रसनावत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 They are:— Manas cannot be constituted out of the earth, because like the tongue, [[P23]] it is an organ instrumental in experiencing taste;
 </details>
@@ -1222,7 +1222,7 @@ They are:— Manas cannot be constituted out of the earth, because like the tong
 > न पाथसीयम् +++(=जलीयम्)+++, गन्ध-ग्रहण-निमित्तेन्द्रियत्वाद् घ्राणवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 it cannot be related to water, because like the nose, it is an organ instrumental in experiencing smell;
 </details>
@@ -1248,7 +1248,7 @@ it cannot be related to water, because like the nose, it is an organ instrumenta
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 similarly, being instrumental in experiencing what is not the object of the respective organs, it is possible to assert that it is not made of fire and the like; hence the non-elemental character of manas.
 </details>
@@ -1269,7 +1269,7 @@ similarly, being instrumental in experiencing what is not the object of the resp
 तद् अनुपपन्नम् -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This argument is inappropriate;
 </details>
@@ -1290,7 +1290,7 @@ This argument is inappropriate;
 धर्मि-+++(अभौतिकताख्य-)+++विशेष-विपरीत-साधनात् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for it would establish the opposite (conclusion) viz., that it is a distinctive substance (element).
 </details>
@@ -1314,7 +1314,7 @@ for it would establish the opposite (conclusion) viz., that it is a distinctive 
 पाथसीयत्वम् अपि समर्थयति ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The character of being an organ instrumental in experiencing taste, proves that manas is composed of water (rasa), even as it establishes that manas is unrelated to earth.
 </details>
@@ -1337,7 +1337,7 @@ The character of being an organ instrumental in experiencing taste, proves that 
 आत्मीय-भूत-भावम् आपादयन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, the other reasons also prove the character of its being related to their respective elements, even as they reveal that it is not the other elements.
 </details>
@@ -1357,7 +1357,7 @@ Similarly, the other reasons also prove the character of its being related to th
 तद् एव तद्-गुणक-भूतारब्धम् ;
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, that organ which grasps a particular quality among sound, touch, colour, taste and smell - that alone is constituted out of the element possessing that quality.
 </details>
@@ -1380,12 +1380,12 @@ Further, that organ which grasps a particular quality among sound, touch, colour
 न तद्-अवगमकता-मात्रेणाभिमत-व्यतिरेक-सिद्धिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Granting, indeed, that this is so, as it is also known that organ alone (i.e., that organ which grasps only a particular quality) is not constituted of other elements than its own, by merely showing that (you) cannot establish the negative result which you intend to convey (viz., that manas is non-elemental).[F23_39]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F23_39]: The sense-organ which grasps only one quality may be said to be made of that particular element alone which possessess that quality. But this affords no basis for the inference that manas is non-elemental; for, manas apprehends all the qualities.
 </details>
@@ -1408,12 +1408,12 @@ Granting, indeed, that this is so, as it is also known that organ alone (i.e., t
 एक-द्वि-त्र्य्-आदिमयं वेतर-भूत-संसृष्टम् अस्तु मनः । +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, being the common instrument apprehending sound and other qualities, manas, like the body, may as well be a single substance made up the five elements, or it may be two-fold, three-fold and so on being made up of different elements.[F23_40]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F23_40]: The variant reading is ekadvitradimayam.
 </details>
@@ -1436,12 +1436,12 @@ Moreover, being the common instrument apprehending sound and other qualities, ma
 … यथाऽम्नायते अन्नमयं हि सोम्य मन इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For instance, it is said in scriptures, 'Gentle sir! manas is indeed food.'[F23_41]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F23_41]: Chand. *Up* VI. 5.
 </details>
@@ -1464,12 +1464,12 @@ For instance, it is said in scriptures, 'Gentle sir! manas is indeed food.'[F23_
 "आपोमयः प्राणः" इत्यादिवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It may be argued that this scriptural passage does not seek to teach the fact of manas having its source in food, but, like statements such as 'Prana is water'[F23_42] it only seeks to assert the fact of its (manas) owning activities dependent on it (food). 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F23_42]: Chand *Up.* VI. S.
 </details>
@@ -1491,7 +1491,7 @@ It may be argued that this scriptural passage does not seek to teach the fact of
 अत एवापवर्ग-दशायाम् अपि मनोऽनुवृत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P24]] That is why manas continues to exist even in the state of realisation.
 </details>
@@ -1517,12 +1517,12 @@ It may be argued that this scriptural passage does not seek to teach the fact of
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, in the eighth chapter of the same Upanisad this fact has been stated thus: 'Perceiving with the aid of manas the object of his desires, (he) rejoices'[F24_43]; 'To this person, the manas is the celestial eये.'
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F24_43]: Chand. *Up*. VIII
 </details>
@@ -1547,12 +1547,12 @@ Indeed, in the eighth chapter of the same Upanisad this fact has been stated thu
 इति महोपनिषदि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, in the Mahopanisad it is said of the Supreme Deity that 'He mediates on another object of desire with the aid of manas'.[F24_44]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F24_44]: Mahopanisad I.
 </details>
@@ -1573,12 +1573,12 @@ Similarly, in the Mahopanisad it is said of the Supreme Deity that 'He mediates 
 "मनसैव जगत्-सृष्टिम्" इति च पुराणे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In the puranas too, it is said, 'He creates the world with the aid of mánas only.'[F24_45]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F24_45]: Visnū Purana, V, 11, 15.
 </details>
@@ -1595,7 +1595,7 @@ In the puranas too, it is said, 'He creates the world with the aid of mánas onl
 </details>
 
 ### मनो हि बुद्धिः
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Manas is no other than buddhi :-
 </details>
@@ -1606,7 +1606,7 @@ Manas is no other than buddhi :-
 उच्यते— सत्यम् एवम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To the foregoing, it is replied-True, it is so.
 </details>
@@ -1628,7 +1628,7 @@ To the foregoing, it is replied-True, it is so.
 वरम् एवम् +++(वर्तमत्सु द्रव्येष्व् अन्यतमत्वस्य)+++ वाश्रयणम् इत्य् उक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It was only said. that rather than assume a different substance we may as well accept this position.
 </details>
@@ -1650,7 +1650,7 @@ It was only said. that rather than assume a different substance we may as well a
 नापि +++(पूर्वोक्त-काणाद-गणने)+++ नवमं द्रव्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But, in reality it is neither elemental nor the ninth substance.
 </details>
@@ -1671,7 +1671,7 @@ But, in reality it is neither elemental nor the ninth substance.
 > क्व तर्हीदानीं मनः-शब्दः?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In that event, what does the word 'manas' refer to?
 </details>
@@ -1686,7 +1686,7 @@ In that event, what does the word 'manas' refer to?
 बुद्धाव् एव +++(मनः-शब्दः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It refers only to the intellect (buddhi).
 </details>
@@ -1707,7 +1707,7 @@ It refers only to the intellect (buddhi).
 अत एव हि "बुद्धिमान्, मनस्वीति" व्यपदिश्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why the person of (great) intellect is termed manasvi.
 </details>
@@ -1727,7 +1727,7 @@ That is why the person of (great) intellect is termed manasvi.
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The differences of states of mind are readily perceived in this way: 'My mind is perturbed'; 'My mind is tranquil.'
 </details>
@@ -1752,12 +1752,12 @@ The differences of states of mind are readily perceived in this way: 'My mind is
 +++(न तन्नामक-तत्त्व-व्यपदेश-परः)+++ इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To conclude, our ancestors' description of manas as an instrument is calculated to bring out the differences of states, just as intellect and egoity (though ultimately one, serve to indicate differences of states.)[F24_46]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F24_46]: Is manas an aspect of buddhi? Or, is it a different substance altogether? Yamunacharya leaves this question open, and thinks that, in any event, manas cannot be an intelligent entity.
 </details>
@@ -1774,7 +1774,7 @@ To conclude, our ancestors' description of manas as an instrument is calculated 
 </details>
 
 ## नात्मा
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Manas is not the soul:-
 </details>
@@ -1788,7 +1788,7 @@ Manas is not the soul:-
 तस्य न चेतनत्वम् इति
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The reply is whether, manas is elemental or whether it is a different substance; in either of these two cases, intelligence cannot be attributed to it.
 </details>
@@ -1809,7 +1809,7 @@ The reply is whether, manas is elemental or whether it is a different substance;
 +++(तथा सति)+++ किम् अनेनाप्रतिज्ञात-स्वरूप-विमर्शेन? +++(इति विरमामि)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Hence, there is no use investigating into the nature of a substance, when no statement regarding that has been advanced.
 </details>
@@ -1830,7 +1830,7 @@ Hence, there is no use investigating into the nature of a substance, when no sta
 (इति प्रासङ्गिक-मनस्तत्त्व-विमर्श-प्रकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Here ends the section containing the incidental discussion on the nature of manas)
 

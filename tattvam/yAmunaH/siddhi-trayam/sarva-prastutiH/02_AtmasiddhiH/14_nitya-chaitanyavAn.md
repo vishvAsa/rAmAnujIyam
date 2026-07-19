@@ -21,7 +21,7 @@ The purvapakṣa that consciousness is non-eternal and that there are no grounds
 तन्-मतोपजीविनश् चाभिनव-मीमांसकाः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Those who know the Nyaya and Vaišeṣika darśanas and the Neo-Mimāmsakas who follow their doctrines declare that consciousness is an occasional quality of the soul: 
 </details>
@@ -38,7 +38,7 @@ Those who know the Nyaya and Vaišeṣika darśanas and the Neo-Mimāmsakas who 
 अर्थेन्द्रिय-सन्निकर्षाद्य्-अन्वय-व्यतिरेकानुविधानात्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 because consciousness depends (for its presence or absence) on the presence or absence of such factors, as the contact of the senses with the objects 
 </details>
@@ -56,7 +56,7 @@ because consciousness depends (for its presence or absence) on the presence or a
 "जानामि, अज्ञासिषम्" इत्यादि-कालावच्छेद-प्रतीतेः ,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and because experiences, such as, 'I know,' 'I knew', are known to be limited by time.
 </details>
@@ -73,12 +73,12 @@ and because experiences, such as, 'I know,' 'I knew', are known to be limited by
 सुप्त-बुद्ध--बद्ध-मुक्तादि-व्यवस्थाभाव-प्रसङ्गाच् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P90]] and because the distinction between the sleeping person and the person awake and that between the soul in bondage and the soul released, would disappear, if the soul were regarded as the substrate of consciousness even in states such as sleep and turiya.[F90_159]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F90_159]: The psychology of the Upanisads mentions four states of the soul-jāgrat (waking), svapna (dreaming), *suşupti* (deep sleep) and turiya. During the waking state, manas and the outer senses are active. In the dream state, the outer senses are in abeyance, but manas continues to function. In deep sleep, even manas is quiescent. *Turiya* is a transcendental state not to be grasped by the experience of the ordinary man. While it resembles sleep in so far as there is complete withdrawal of normal consciousness, and the absence of desires, it differs from it in so far as in this state the self reveals itself fully.
 </details>
@@ -94,7 +94,7 @@ and because experiences, such as, 'I know,' 'I knew', are known to be limited by
 नित्यस्य च ज्ञानस्य आत्म-समवायिनः प्रतिकर्म-व्यवस्था ऽपि दुर्-उपपादैव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, in respect of consciousness which is eternal and which is inherent in the soul, all distinctions based on each object known become unintelligible.
 </details>
@@ -112,7 +112,7 @@ Further, in respect of consciousness which is eternal and which is inherent in t
 न वा किञ्चित्, अविशेषात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, then (i. e. if consciousness is eternal), as it possesses the nature of manifesting (objects), either all objects would shine forth in one and the same knowledge or none at all there being no distinguishing feature favouring one object rather than another.
 </details>
@@ -129,7 +129,7 @@ Indeed, then (i. e. if consciousness is eternal), as it possesses the nature of 
 तदीयैव सेति व्यवस्था युक्तिमती ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 When it is admitted to have a different character (i. e. when it is occasional), the distinction of knowledge based on this principle, namely, that knowledge which arises from the sense organ or probans or something similar coming into contact with a particular object, pertains to that only becomes reasonable.
 </details>
@@ -159,7 +159,7 @@ The opponent calling in question the siddhantin's position.-
 इति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It may be contended that consciousness itself, through the medium of the senses and the like, becomes coloured by different objects, and (thereby) comes to be distinguished into such and such a knowledge pertaining to such and such an object: and that as the process of being coloured is accidental, the dependence on the senses, the limitation by time into the past, present, etc., and the distinction of states, such as, sleep and the like become intelligible. 
 </details>
@@ -176,7 +176,7 @@ It may be contended that consciousness itself, through the medium of the senses 
 अर्थान्तर-सन्निकर्षे ऽर्थान्तरस्य अनुराग-सम्भवात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This (contention) is erroneous. When one object is near, another (which is not near by) cannot be coloured (by it).
 </details>
@@ -197,7 +197,7 @@ This (contention) is erroneous. When one object is near, another (which is not n
 अमूर्तस्य आकाशस्येव निष्क्रमण-प्रवेशाद्य्-अनुपपत्तेः ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it be said that consciousness itself proceeding outward gets so close a contact (with the object as to be coloured by it), (the reply is :-) not so: for, in the case of a formless object, such as ether, proceeding outward, entering and the like are impossible.
 </details>
@@ -214,7 +214,7 @@ If it be said that consciousness itself proceeding outward gets so close a conta
 कथम् अन्यतो यास्यति?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 How can consciousness, which is an attribute, depart from the substance wherein it inheres and proceed elsewhere? Nor does the object enter into (consciousness)
 </details>
@@ -231,7 +231,7 @@ How can consciousness, which is an attribute, depart from the substance wherein 
 सर्व-लोक-प्रत्यक्षः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for the object is perceived by everybody as being located in the place outside.
 </details>
@@ -248,7 +248,7 @@ for the object is perceived by everybody as being located in the place outside.
 +++(अमूर्तत्वान् नान्तः प्रवेशम् अर्हतीति)+++ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, in the case of (formless) entities, such as generality, the same difficulty (i. e. impossibility of proceeding outward or coming in) holds good.
 </details>
@@ -272,7 +272,7 @@ Refutation of the view that the ātmā (dharmin) and consciousness (dharma) are 
 बहलो+++(=घनो)+++ विरलश् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P91]] It may be said that the inward entity, like the luminous substance, exists in two forms, viz., in a dense, and in a sparse form
 </details>
@@ -287,7 +287,7 @@ Refutation of the view that the ātmā (dharmin) and consciousness (dharma) are 
 तत्र बहलः प्रत्यक् चेतन-क्षेत्रज्ञादि-पद-पर्याय आत्मा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 of these the entity in the dense form is the self and it has the words pratyak, *cetana, kṣetrajñňa* and the like as its synonyms;
 </details>
@@ -303,7 +303,7 @@ of these the entity in the dense form is the self and it has the words pratyak, 
 प्रत्यग्-अर्थ-तन्त्रतया गुण इत्य् उपचर्यते तेजो-वत्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but the entity in the sparse form, referred to by the terms caitanya, jnāna and the like, is called, by courtesy, a quality for the reason that it is dependent on the pratyagartha (the inward entity in the dense form); 
 </details>
@@ -319,7 +319,7 @@ but the entity in the sparse form, referred to by the terms caitanya, jnāna and
 विरलं तु प्रभा ज्योतिर् इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 even as the luminous entity in the dense form is termed flame, fire and the like;  
 while the same entity in its sparse form is referred to as *prabha* (radiance) and *jyotih* (light);
@@ -339,7 +339,7 @@ while the same entity in its sparse form is referred to as *prabha* (radiance) a
 इति;
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 proceeding outward and coming into contact would be appropriate in the case of consciousness, as in that of light *(aloka*): for, consciousness is only the sparse region of the self, 
 </details>
@@ -357,7 +357,7 @@ proceeding outward and coming into contact would be appropriate in the case of c
 बहल-विरलतादि-धर्मानुपपत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But this view is untenable;  
 for, qualities, such as, those of existing in a dense and in a sparse form cannot be attributed to the self, which is without parts,  
@@ -379,7 +379,7 @@ and without forms and which has no contact (with anything else).
 तत एवम् अङ्गीकुर्वीमहि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 We could admit the self to exist in such a manner if we were prepared to admit the following set of qualities, viz., the character of possessing parts, of having forms, of being non-eternal, and of having relations, as belonging to the self.
 </details>
@@ -398,7 +398,7 @@ We could admit the self to exist in such a manner if we were prepared to admit t
 आर्हत-मतानुकार-दूषितेनात्म-वादेन।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But it is unreasonable to make such an admission: for it would result in reducing the self to a non-intelligent entity. This peculiar theory of the self, which stands condemned for the very reason of its imitating the Arhata (Jaina) doctrine, need not detain us any further.
 </details>
@@ -422,7 +422,7 @@ Refutation of the view that consciousness is all-pervasive
 अनवयवेन सर्वतस् सर्वार्थावभासन-समर्थ-चैतन्यानुबन्धस् सर्व-व्यापी ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P92]] It may be contended that the self is, in its entirety, related to consciousness, which is capable of illuminating all objects and in all ways; that it is all-pervasive;
 </details>
@@ -439,7 +439,7 @@ Refutation of the view that consciousness is all-pervasive
 तमो-गुण-प्रतिबन्धात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that although it is of this nature, all objects do not present themselves to it, since there is the obstruction proceeding from the quality of darkness (tamas):
 </details>
@@ -456,7 +456,7 @@ and that although it is of this nature, all objects do not present themselves to
 ते ते ऽर्थाः प्रतिभासते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that when, with the aid of the sense-organ, wherein the sattva quality predominates, this darkness (tamas) is dispelled in accordance with their different capacities, the respective objects shine forth:
 </details>
@@ -474,7 +474,7 @@ and that when, with the aid of the sense-organ, wherein the sattva quality predo
 इति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that thus, without there being any proceeding outward or coming in on the part of consciousness and objects, all reference to knowledge as pertaining to particular objects becomes intelligible. 
 </details>
@@ -492,7 +492,7 @@ and that thus, without there being any proceeding outward or coming in on the pa
 ज्ञान-हेतुत्वाभावात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even if this were so,  
 the senses and probans (hetu), like jnāna, could not be considered the cause of knowledge,  
@@ -514,7 +514,7 @@ and not for originating knowledge.
 प्रकाशमानतया ऽर्थस्यापि ज्ञातृत्व-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (It is no escape to say that) the illumination of objects is itself knowledge; since (in that case) the objects also for the reason of their being illumined would have to be considered the knower.
 </details>
@@ -535,7 +535,7 @@ and not for originating knowledge.
 स एव प्रसङ्गः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even on the view advanced by some that the conjunction of consciousness, which is a quality of the self, with the object is spoken of as knowledge, the same difficulty (the unwelcome result, viz., that the object would have to be considered as the knower) persists, since conjunction exists in both (the self and the object);
 </details>
@@ -555,7 +555,7 @@ Even on the view advanced by some that the conjunction of consciousness, which i
 इत्य् आत्म-समवायिनोर् एव ज्ञान-भावाभावयोर् अनुभवात् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and, in addition, there is contradiction with experience, since the presence or absence of knowledge is experienced to inhere in the self only (and not in the object), as is evident from the experience 'I know this now,' 'I do not know this now.'
 </details>
@@ -576,7 +576,7 @@ and, in addition, there is contradiction with experience, since the presence or 
 उपपद्यते व्यवस्थोपलब्धिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Do not say that, just as in the case of the sun which is unchanging and which possesses hosts of rays which are responsible for manifesting objects, it is the sun, and not the object, that is considered to be the manifester and called like that, (here also, the reference to the self, and not the object, as the possessor of knowledge becomes intelligible). For, in the case of the sun, since the rays are substances, contraction and expansion, contact with objects and separation therefrom, are possible; and hence the consideration (of the sun rather than the object) as the manifester is quite intelligible.
 </details>
@@ -592,7 +592,7 @@ Do not say that, just as in the case of the sun which is unchanging and which po
 न तथा व्यवस्थाम् अर्हति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Consciousness, on the other hand, is a quality hence, in this case, there is no adequate basis for the consideration of the self rather than the object as the knower.
 </details>
@@ -617,7 +617,7 @@ Untenability of the view that the soul has a two-fold knowledge, (i) eternal and
 स्वस्मिन्न् अन्यत्र च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It may be said that the knowledge belonging to the self is twofold -one relating to itself, the other to everything else;
 </details>
@@ -632,7 +632,7 @@ It may be said that the knowledge belonging to the self is twofold -one relating
 तत्राद्यम् उदयास्तमय-रहितम् आत्म-स्वरूप-प्रयुक्तम् अनवरतम् अनुवर्तते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and of these, the former is without a beginning and an end, is dependent on the very existence of the self and persists at all times:
 </details>
@@ -650,7 +650,7 @@ and of these, the former is without a beginning and an end, is dependent on the 
 तत्-तद्-अर्थ-प्रकाशतयोदीयते, लीयते च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 while the latter, whose very existence is dependent on several occasional factors, such as, the senses which are in contact with the various objects, originates and perishes as the knowledge of such and such an object--a knowledge whose presence or absence is based respectively on the presence or absence of the casual factors.
 </details>
@@ -667,7 +667,7 @@ while the latter, whose very existence is dependent on several occasional factor
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And it is on this basis that even the distinction of states into those of sleeping, waking and the like would be rendered intelligible.
 </details>
@@ -685,7 +685,7 @@ And it is on this basis that even the distinction of states into those of sleepi
 किम् अपि साधनम् उपलभेमहि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To this it is said in reply that we may accept this if we notice any proof for the assertion that knowledge exists in the self eternally.
 </details>
@@ -710,7 +710,7 @@ The illustration of the remembrance that there was no elephant at the tank-bund 
 स्वापादिषु चानुमीयते तात्कालिकस्य विषय-ज्ञानाभावस्य उत्तरोत्तर-कालं परामृश्यमानत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P93]] (One may ask : Does not the following argument prove that consciousness is an eternal and not an occasional property of the soul?) It is admitted on all hands that in the state of waking the consciousness of self always exists; but its existence in states of sleep and the like is inferred, for the non-existence of knowledge of objects in those states is remembered on subsequent occasions.
 </details>
@@ -727,7 +727,7 @@ The illustration of the remembrance that there was no elephant at the tank-bund 
 मध्याह्न-काल-परामृश्यमान इव प्रातस्-समय-परिदृष्ट-- तटाक-तीरादि-वर्तिनि कुञ्जराद्य्-अभावे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Whenever the non-existence of a thing is remembered as having existed at a given time, there must necessarily have existed at that time a knowledge of its locus, as in the case of the non-existence of the elephant remembered at noon-day as having prevailed in the morning on the bank of a tank or thereabouts witnessed then.
 </details>
@@ -744,12 +744,12 @@ Whenever the non-existence of a thing is remembered as having existed at a given
 यथा प्रातर्-अनुभूत-तटाक-तीरादिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P94]] That which is known as the locus of the non-existence obtaining at a given time involves knowledge concerning itself at that time; for instance, the bank of the tank or thereabouts perceived in the morning.[F94_160]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F94_160]: It is well-known that in the waking state consciousness always exists. If it could be shown that it exists in sleep and other kindred states also, it would follow that consciousness is an eternal quality of the soul. For this purpose, the following analogy is employed. Just as when a person remembers at noon-day that there was no elephant at the tank in the morning, he must have noticed in the morning the tank which is the locus of the non-existence of the elephant. Even so when a person remembers on waking that he had no cognition of objects at the time of sleep, he must necessarily have known, in the state of sleep, the self which is the locus of the non-existence of the cognition of objects. Thus, it is to be concluded that even in the states of sleep, swoon and the like, there is consciousness. In other words, consciousness is an eternal property of the soul.
 </details>
@@ -764,7 +764,7 @@ Whenever the non-existence of a thing is remembered as having existed at a given
 स्वापादि-कालिकार्थानुभवाभावाश्रयतया चायम् आत्मा परामृश्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The self is remembered as the locus of the non-existence of the consciousness of objects--a non-existence which prevailed in the states of deep sleep and the like;
 </details>
@@ -779,7 +779,7 @@ The self is remembered as the locus of the non-existence of the consciousness of
 अतस् तत्कालीन-स्वरूपानुभववान् इति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The self is remembered as the locus of the non-existence of the consciousness of objects--a non-existence which prevailed in the states of deep sleep and the like; hence, at that time (also) it must have possessed knowledge concerning itself. 
 </details>
@@ -798,7 +798,7 @@ The self is remembered as the locus of the non-existence of the consciousness of
 इति स्वाभाव-भूमितया प्रतीतेन प्रातर्-अनवगत-गिरि-तटाकादिना ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The reply is 'not so'. For, in the light of instances such as, the hill, tank and the like which were not noticed in the morning by a person, and which are known to be the substrate of his non-existence as is evident from his experience 'I was not present there in the morning,' it is clear that your reason is liable to be charged with *anekanta dosa*.
 </details>
@@ -815,7 +815,7 @@ The reply is 'not so'. For, in the light of instances such as, the hill, tank an
 अभाव-ज्ञानस्येत्य् एतावत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For the cognition of non-existence two conditions would suffice, namely,  
 (i) at the time of the cognition of non-existence, there must be knowledge of its locus-a locus which exists simultaneously with the non-existence which is sought to be apprehended, and  
@@ -837,12 +837,12 @@ For the cognition of non-existence two conditions would suffice, namely,
 तदानीम् अस्मरणाच् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Here, even without there being any self-consciousness at the time of sleep, those two conditions may possibly exist; for, at the time of waking, there is the knowledge of the locus (i.e., the self), as is evident from remembrance; and in the waking state, there is no remembrance of the experience existing at the time of sleep also-an experience, which is as clear and distinct as waking experience and which is capable of being remembered (if only it existed).[F95_161]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F95_161]: The foregoing analogy is shown to be unsound. To be able to say at noon-day that there was no elephant in the morning at the tank, a person need not have noticed the tank in the morning. It is enough if he has a knowledge of the tank at noon-day, and if there is no knowledge of the elephant, which, if it had existed, would surely have been known. Similarly, in order to state that there was no consciousness during sleep, it is enough if the person has a knowledge of the self at the time of waking, and if there is the absence of the cognition of objects.
 </details>
@@ -868,7 +868,7 @@ Nor is the remembrance on waking "I slept well" helpful in proving that there is
 +++(स्वापावस्थाक-)+++जाति-वेष-संस्थानादिष्व् इव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P95]] It cannot be said that experiences, such as 'I slept well,' prove the presence of the cognition of 'I' in the state of sleep; for, experiences such as 'I slept well' (found in the waking state) are based on the consideration of the then existing brightness and briskness of the body and senses; and are not remembrances (of what took place in sleep); even as knowledge of caste, dress, configuration and the like is not remembrance.
 </details>
@@ -889,12 +889,12 @@ Nor is the remembrance on waking "I slept well" helpful in proving that there is
 इति ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 They too are certainly experienced thus: 'I, belonging to this caste, slept here so long, in such and such a dress, in such and such a form."[F95_162]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F95_162]: Even those who think that the self is cognised in deep sleep admit that its caste, dress and the like are not cognised then, but are apprehended from a consideration of the state of the person on waking. Similarly, it could be said that the cognition 'I slept soundly' does not point to a knowledge existing at the time of sleep, but is based on a consideration of the condition of the body, senses, etc., at the time of waking.
 </details>
@@ -915,7 +915,7 @@ They too are certainly experienced thus: 'I, belonging to this caste, slept here
 प्रमाणाभावात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, even if the cognition 'I slept well' were admitted to be a recollection, the remembrance of 'I' pertains only to the self which is known at the time of sleep to be in association with the vṛtti, known as *nidrā* --a *vṛtti* based on the quality of tamas (darkness) which makes for the absence of other vṛttis, like *pramāņa* and *viparyaya*--even as it is known in the waking state to be in association with some vṛtti or other; it does not pertain to either the self which manifests itself (*svaprakāśa*) or to that which shines forth with the aid of a knowledge which is its innate quality; as there is no warrant (for stating that it refers to either of these).
 </details>
@@ -931,12 +931,12 @@ Moreover, even if the cognition 'I slept well' were admitted to be a recollectio
 इति तत्र-भवान् पतञ्जलिः -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The revered Patanjali thinks that *nidrā* (sleep) also, like *pramāṇa*, *viparyaya* and so on, is a form of *vṛtti*.[F96_163]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F96_163]: *Vyasa Bhasya* on *Yoga-Sutra* I. 10 and Vacaspati Misra's tika thereon deal with the question whether *nidrā* must rank as a *vṛtti* alongside of pramāna and *viparyaya*
 </details>
@@ -952,12 +952,12 @@ The revered Patanjali thinks that *nidrā* (sleep) also, like *pramāṇa*, *vip
 यद् आह 'अभाव-प्रत्ययालम्बना वृत्तिर् निद्रा' इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 He says, " *Nidrā* (sleep) is the *vṛtti* which has for its object tamas, which is the cause of the non-existence of other *vṛttis*, (like waking and dreaming)."[F96_164]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F96_164]: Pātañjala *Yoga*-Sutra I. 10. The translation of this sutra is based on Vācaspati Misra's ṭikā See also Nagji Bhatta's *Yoga*-Sutra-*Vrtti*.
 </details>
@@ -979,12 +979,12 @@ He says, " *Nidrā* (sleep) is the *vṛtti* which has for its object tamas, whi
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The same may be expressed in syllogistic form.--The knowledge of the self-the matter under dispute-is dependent upon the cognition of objects, because it is knowledge of the self, like the knowledge of self found in one who is awake.[F96_165]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F96_165]: Just as the consciousness of the self found in waking is dependent upon the cognition of subjects, even so, in sleep also the consciousness of self must depend on the cognition of objects. But as there is no knowledge of objects then, there cannot be consciousness of the self.
 </details>
@@ -1006,7 +1006,7 @@ The contention that the self depends on jnāņa for its manifestation and that j
 आत्म-विशेष-गुणत्वात् सुखादि-वत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Knowledge is an occasional quality; for it is a specific quality of the self, like pleasure and so on.
 </details>
@@ -1026,7 +1026,7 @@ Knowledge is an occasional quality; for it is a specific quality of the self, li
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be maintained that pleasure, pain and like are not the qualities of the self; for, while they are not known to have any other basis, they shine forth as residing in the same substrate wherein self-consciousness resides: as knowledge and the like (which are not known to have any other substrate than the self and which are known to dwell in the self (e.g., we may say 'I am happy').
 </details>
@@ -1050,7 +1050,7 @@ The proof that dharmabhūtajnāna is eternal:-
 प्रकाश इव तेजसः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.24 Those who have understood the true nature of the soul declare that consciousness is an innate quality of the soul; for, it is a quality dependent on the soul itself; just as illumination is an innate quality of light.
 </details>
@@ -1077,7 +1077,7 @@ The proof that dharmabhūtajnāna is eternal:-
 न तद् आत्मा घटादि-वत् ॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Apart from being the substrate of consciousness, the self has no other form. That which is devoid of consciousness cannot be the soul, as in the case of the pot and the like. 
 </details>
@@ -1102,7 +1102,7 @@ Apart from being the substrate of consciousness, the self has no other form. Tha
 व्यर्था तच्-छक्ति-कल्पना ॥)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be said that the soul becomes a soul by virtue of its capacity to know; for, (if that were so) in the state of release, it would have to perish. 
 </details>
@@ -1130,7 +1130,7 @@ It cannot be said that the soul becomes a soul by virtue of its capacity to know
 कण-भक्षाक्ष-चरण +++(=गौतम)+++ --मते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For in the systems of Kaṇāda and Gautama release consists in the total annihilation of all special qualities of the soul, such as, intelligence, pleasure and pain.
 </details>
@@ -1156,7 +1156,7 @@ For in the systems of Kaṇāda and Gautama release consists in the total annihi
 इत्य् अत्र किञ्चित् प्रमाणं क्रमते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 There is no warrant to declare that a substance, which altogether fails to produce its effect, possesses the capacity of producing it.
 </details>
@@ -1179,7 +1179,7 @@ There is no warrant to declare that a substance, which altogether fails to produ
 व्रीह्य्-अङ्कुर इव च स-तुष-तण्डुले ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P97]] Effects, such as, knowledge of pleasure and pain, which are found to be associated with one connected with a body,  
 will lead to the conclusion that the potency to produce them resides only in the self thus qualified;  
@@ -1201,7 +1201,7 @@ resides only in the rice associated with the husk.
 देहादि-विशिष्ट-सम्बन्धितया दृश्यमान-सुख-दुःख-ज्ञानादि-कार्यं विशिष्ट-वर्तिनीम् एव आत्मोत्पाद-शक्तिं कल्पयति, धूम इवाद्र्-इन्धन-सम्बन्धिनि धूम-ध्वजे स्वोत्पादन-सामर्थ्यम्, व्रीह्य्-अङ्कुर इव च सतुष-तण्डुले ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Effects, such as, knowledge of pleasure and pain, which are found to be associated with one connected with a body, will lead to the conclusion that the potency to produce them resides only in the self thus qualified; even as smoke will only point to the fact that the capacity to produce it resides in the fire associated with wet fuel; or as paddy-sprout leads to the inference that the capacity to produce it resides only in the rice associated with the husk.
 </details>
@@ -1224,7 +1224,7 @@ Effects, such as, knowledge of pleasure and pain, which are found to be associat
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, when it is possible to differentiate the soul from the non-soul with the aid of the presence of consciousness alone, it is unnecessary to posit the potency to know.
 </details>
@@ -1256,7 +1256,7 @@ Though jnana is eternal it has atma for its support:-
 आत्मनश् च तद्-विपरीत-स्वभावत्वात्;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is not right to maintain that consciousness itself is the self; because the nature of consciousness is to depend upon a substrate and a correlative, while the self has an opposite character; 
 </details>
@@ -1278,7 +1278,7 @@ It is not right to maintain that consciousness itself is the self; because the n
 अनुभव-तर्कागम-बलेन चितिमत आत्म-भावस्य अनन्तरम् एव प्रपञ्चितत्वाच् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and because the self, the knower, unlike consciousness, shines forth directly  
 and because on the strength of every-day experience, reasoning (tarka) and scriptural testimony, it has already been shown at great length that the quality of being the self belongs only to that entity which is endowed with knowledge.
@@ -1314,7 +1314,7 @@ Refutation of the view that the conjunction of consciousness with object is jnan
 अर्थस्यापि बोद्धृत्व-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even on the doctrine that consciousness itself becomes the soul, owing to the extraneous superimposition of the quality of knowledge on its accidental relation with objects, it is unreasonable to contend that consciousness itself (which possesses the relation) may (as a consequence of this illegitimate transference) be justifiably treated as the knower. For in as much as the relation dwells in both the relata, the object too would have to be regarded as knower.
 </details>
@@ -1337,7 +1337,7 @@ Even on the doctrine that consciousness itself becomes the soul, owing to the ex
 परस्परापेक्षा-नियम-लक्षण-सम्बन्धः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is not right to suggest that, though the relation is found in both the relata, the quality of being the knower is definitely attributed to only one specified member of the relata (i.e. consciousness), just as in the case of the relation of cause and effect (where, while the causal relation resides in both, only one specified member of the relata is taken to be the cause, and the other to be the effect). For there (i.e. in the case of cause and effect) the relation is the form of invariable mutual dependence of the producer and the produced.
 </details>
@@ -1365,7 +1365,7 @@ In respect of the self the analogy of the relation of cause and effect does not 
 अपेक्षा-हेत्वभावात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P98]] If it be said that here also the same mutual dependence prevails, we reply not so. For (in the present case) there is no occasion for mutual dependence.
 </details>
@@ -1386,7 +1386,7 @@ In respect of the self the analogy of the relation of cause and effect does not 
 चैतन्यं वा ऽर्थम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Why (we ask) does the object stand in need of consciousness? And why, again, does consciousness require the object?
 </details>
@@ -1407,7 +1407,7 @@ Why (we ask) does the object stand in need of consciousness? And why, again, doe
 कः सिद्ध्य्-अर्थः?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If you were to reply, (that this dependence is) for the purpose of siddhi, we ask what is meant by *siddhi*?
 </details>
@@ -1424,7 +1424,7 @@ If you were to reply, (that this dependence is) for the purpose of siddhi, we as
 तस्या निर्ज्ञात-निमित्तान्तरत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot denote origination; for origination is well-known to depend on other causes.
 </details>
@@ -1441,7 +1441,7 @@ It cannot denote origination; for origination is well-known to depend on other c
 न चितिम् अपि निज-जनने ऽपेक्षन्ते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, pots and the like have for their causes other well-known factors, which are complete in themselves, such as, clay, staff, the rotation of the wheel, etc; (hence) they do not require for their origination consciousness also.
 </details>
@@ -1456,7 +1456,7 @@ Indeed, pots and the like have for their causes other well-known factors, which 
 निरस्तश् च विज्ञान-मात्र-वादः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (If it be said that the so-called factors are in reality only consciousness, and hence, objects such as, pots and the like, really depend on consciousness itself, it may be replied that) the doctrine that things are nothing but thoughts *(vijñāna*) has already been refuted.
 </details>
@@ -1476,7 +1476,7 @@ Indeed, pots and the like have for their causes other well-known factors, which 
 नित्यस्य आत्मन उत्पत्त्य्-अर्थम् अर्थापेक्षेति सुव्याहृतम् ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To maintain that the soul which is eternal depends upon objects for its origination would indeed be ridiculous.
 </details>
@@ -1502,7 +1502,7 @@ To maintain that the soul which is eternal depends upon objects for its originat
 यद् असौ तद्-अर्थम् अर्थम् अपेक्षते?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If you were to say that *siddhi* denotes manifestation, (we ask) Well sir! do you then contend that because it depends upon objects for its manifestation, the soul, though self-luminous, possesses a manifestation which is dependent on objects?
 </details>
@@ -1522,7 +1522,7 @@ If you were to say that *siddhi* denotes manifestation, (we ask) Well sir! do yo
 महनीयम् इदम् आत्म-वेदित्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Your understanding of the nature of the soul would indeed be praiseworthy!
 </details>
@@ -1542,7 +1542,7 @@ Your understanding of the nature of the soul would indeed be praiseworthy!
 प्रकाशश् च न संविद्-अतिरेकी कश्चिद् अर्थ-धर्मः सम्भवतीत्य् आवेदितम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P99]] (Nor could the object depend on consciousness for its manifestation; for) it has already been shown that manifestation cannot be a quality different from consciousness and residing in objects.
 </details>
@@ -1565,7 +1565,7 @@ Your understanding of the nature of the soul would indeed be praiseworthy!
 +++(प्रत्युतार्थम् अप्य् अपेक्षते)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even if it were a quality different from consciousness, it cannot be said to be dependent on consciousness alone; for (in that event) there would be the manifestation of all objects at all times.
 </details>
@@ -1585,7 +1585,7 @@ Even if it were a quality different from consciousness, it cannot be said to be 
 न हि सदा सन्निहित-समग्र-कारणं कार्यं कदाचिद् भवति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, all the causal factors being present at all times, the effect could not rise on some occasions only, (i. e., since consciousness which is the cause of manifestation is eternal, the manifestation cannot be occasional).
 </details>
@@ -1603,7 +1603,7 @@ Indeed, all the causal factors being present at all times, the effect could not 
 तद्वान् एव आत्मा ऽऽयातः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the specific quality (known as manifestation) were treated as an occasional property, then it would amount to (your) admitting consciousness itself under a different name. Thus, the conclusion is inevitable that the soul is the possessor of consciousness and not mere consciousness.
 </details>
@@ -1623,7 +1623,7 @@ If the specific quality (known as manifestation) were treated as an occasional p
 (इति धर्म-भूत-ज्ञानस्य नित्यत्व-साधनम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (इति धर्मभूतज्ञानस्य नित्यत्वसाधनम्)
 </details>
@@ -1647,7 +1647,7 @@ The contention that since dharmabhuta jnana is dependent on occasional factors i
 कथं तद्-आत्म-स्वभावः? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (The objector may ask) since knowledge, which has been admitted to account for the manifestation of different objects at different times, is occasional and is of the nature of a process or activity, how can it be treated as an essential quality of the self?
 </details>
@@ -1672,7 +1672,7 @@ The contention that since dharmabhuta jnana is dependent on occasional factors i
 तत्-समवेतागन्तुकासाधारण- गमनादि-क्रिया-जन्यो दृष्टः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To make the matter clear: When results, such as, reaching a certain destination, reside in some objects (e. g., the places reached), they are peculiar to others (e. g. Devadatta) who are responsible for these (results) in so far as these are effects; such results are found to be produced by activities, like proceeding and so on, which are occasional, peculiar and inherent in those to whom the said results are peculiar.
 </details>
@@ -1701,7 +1701,7 @@ To make the matter clear: When results, such as, reaching a certain destination,
 तादृशी चार्थ-सिद्धिर् यं पुरुषं प्रत्य् असाधारणी तत्-समवेत-तादृश-क्रिया-जन्येति शक्यम् अनुमातुम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Hence, it is but right to infer that the manifestation of objects which resemble these (i. e. reaching the destination and the like) is produced by an activity, which is similar to the activities mentioned before and which is inherent in that person to whom the manifestation is peculiar.
 </details>
@@ -1730,7 +1730,7 @@ The reply to the foregoing;\-
 क्षेत्रिणं प्रत्य् असाधारणेन क्षेत्र-ज--व्रीह्य्-आदि-स्वत्वेन चानैकान्त्यात् +++("आगन्तुकत्वेन नात्मस्वभाव" इत्यत्र)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is not so; f 
 or in view of the fact that the ownership of land and the like  
@@ -1739,7 +1739,7 @@ and not in virtue of any activity (on the part of the owner),
 and in view of the fact that the ownership of paddy and other grains grown in the field -an ownership which is peculiar to the person to whom the field belongs-is not acquired through any activity, (the aforesaid *hetu)* may be said to be vitiated by anekānta doṣā.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F99_166]: It is likely that *abhāvaprāpta*..............is a haplographical error for nābhibhā *vaprāpta*......As the expression nābhibhāva is used in the Dharma sastras in the sense of relationship, the text as emended, would mean 'on account of the mere fact of a person being a near kinsman.'
 </details>
@@ -1762,12 +1762,12 @@ and in view of the fact that the ownership of paddy and other grains grown in th
 तद्+++(→कारण)+++-भाव-भावित्वस्य +++(कार्ये)+++ चाविशेषात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P100]] In order to escape this fallacy it may be suggested that the owner of the land is not the cause of his ownership inasmuch as he is devoid of activity;[F100_167] (but this suggestion) is rendered fallacious by instances, such as activity and time (which, though devoid of activity, are still considered to be causal factors).
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F100_167]: To prove that consciousness is an occasional property of the soul, the opponent advances the following argument:\-Any result which, while remaining in one object, is peculiar to another causal substance, must be produced by an activity which is occasional, peculiar and inherent in that causal substance. Manifestation while remaining in pots and the like, is peculiar to the knower (e. g. Devadatta); therefore it must be caused by an activity which is occasional, peculiar and inherent in the knower. As this activity goes by the name of knowledge, it follows that knowledge is an occasional quality of the knower. The anekanta dosa vitiating this argument is exposed by citing the case of ownership, where the *hetu* is present, while the *sadhya* is absent. Though ownership is peculiar to the causal substance, namely the owner, it need not be produced by any activity on his part. The opponent may try to escape the fallacy by suggesting that in the instance cited the *hetu* is absent together with sadhya. In other words, he may say that as the owner is not a causal factor at all, ownership cannot be taken to reside in a causal substance.
 </details>
@@ -1789,7 +1789,7 @@ and in view of the fact that the ownership of paddy and other grains grown in th
 कथम् असाधारण+++(-आगन्तुक)+++-क्रिया-जन्यत्वम् +++(सस्य-फल-स्वत्त्वे)+++?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The statement that when they (i.e. time, activity and the like) exist, the effects follow and hence they are considered to be causal factors is equally applicable to the case of ownership.[F100_168]  
 If it be said that the activity which is responsible for ownership is, indeed, the activity involved in being alive, (we ask)  
@@ -1798,7 +1798,7 @@ If it be said that the activity which is responsible for ownership is, indeed, t
 how can you maintain that ownership is brought on by a peculiar activity on the part of the owner?"
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F100_168]: In other words, when the owner exists, his ownership does follow. Hence, though devoid of activity, the owner is certainly a causal factor in respect of his ownership.
 </details>
@@ -1824,7 +1824,7 @@ how can you maintain that ownership is brought on by a peculiar activity on the 
 किम् अकॢप्त-कल्पनया? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, even if being alive were admitted to be a peculiar quality, it might as well be the activity responsible for the manifestation of objects also. Where is the point in positing something unproved?
 </details>
@@ -1849,12 +1849,12 @@ Further, even if being alive were admitted to be a peculiar quality, it might as
 सति जीवने जायत एव? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P101]] If it be said that although there is life no object is (sometimes) manifested (and hence life is not responsible for this manifestation of objects, we ask you in reply) 'Does the aforesaid ownership follow whenever life exists?[F101_169]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F101_169]: A person may live and still have no ownership, if the thing owned is either lost or given away to another.
 </details>
@@ -1872,7 +1872,7 @@ Further, even if being alive were admitted to be a peculiar quality, it might as
 इहापीन्द्रियादि-प्रत्यासत्तिर् +++(अपेक्ष्यत)+++ इति समानश् चर्चाः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it be said that the existence of grains, such as, paddy, is also required, (we reply) that here also (i. e. in the case of the manifestation of objects) contact with the senses and the like is required. Thus, in either case the difficulty that may be raised and the explanation offered are similar.
 </details>
@@ -1894,7 +1894,7 @@ If it be said that the existence of grains, such as, paddy, is also required, (w
 इत्य् एतावत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, only this much (can be said)  
 the aforesaid quality which is peculiar to a given person has for its cause a special attribute belonging to the person;
@@ -1916,7 +1916,7 @@ the aforesaid quality which is peculiar to a given person has for its cause a sp
 चैतन्यं रवेर् इव तेजस्वित्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and (in conformity with this principle) the fact that the special attribute responsible for the manifestation of object is consciousness, which belongs to the self even as light belongs to the sun, is acceptable to us.
 </details>
@@ -1945,12 +1945,12 @@ Refutation of the view that as cognitions are limited by time they are non-etern
 आदित्य-प्रकाशेनानैकान्त्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is not right to say that, like the act of going, knowledge may be inferred to be occasional, for the reason that there arise cognitions- such as, 'I knew', 'I know',-which, on account of the fact that they are dependent on several causes, are found to be limited by time. For the instance of the sun's light renders this argument liable to be charged with ānekānta *doșa*.[F101_170]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F101_170]: Thus even though light is an essential property of the sun, it appears limited by time. Even so, consciousness, though an essential property of the self, may still be limited by time.
 </details>
@@ -1974,7 +1974,7 @@ It is not right to say that, like the act of going, knowledge may be inferred to
 इति प्रतीतिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, here also, there are the cognitions 'The sun illumines this place,' 'The sun illuminated it' and 'The sun will illumine it.'
 </details>
@@ -1995,7 +1995,7 @@ Indeed, here also, there are the cognitions 'The sun illumines this place,' 'The
 तद्-अपेक्षयैवेन्द्रियाद्य्-अनुविधानम् अतीतानागत-प्रत्युत्पन्नत्व-- प्रत्यय-प्रयोगौ च उपपद्यन्ते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P102]] If it be suggested that even though the light of the sun is its essential quality, the cognition limited by time may be justified on the ground that its contact with the regions to be illumined is occasional, it may be replied that here also the various objects cognised, which acquire the capacity (to limit knowledge) from their contact with the senses, limit the quality of knowledge which is an essential property of the self; and it is for this reason that the following become intelligible: the dependence on the senses and the like, cognitions limited by time into the past, the future and the present and all references to the same.
 </details>
@@ -2024,7 +2024,7 @@ Activities of consciousness altogether of a different nature:-
 न तु गमन-पचनादेर् इव स्वाभाविक इति?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 > How (it may be asked) can it be determined that in this case the distinction of knowledge (implied in the cognitions--. 'I knew,' 'I know' and 'I will know'), like the distinction of the light of the sun or that of the precious stone, is dependent upon limiting conditions, and that, unlike the distinction between the activity of going and cooking, it is not based on the essential nature (of knowledge itself)?
 </details>
@@ -2044,7 +2044,7 @@ Activities of consciousness altogether of a different nature:-
 ताद्रूप्येणैव प्रत्यक्षत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (We reply) the soul is certainly perceived as having that nature (i.e. as having consciousness for its essential quality).
 </details>
@@ -2065,7 +2065,7 @@ Activities of consciousness altogether of a different nature:-
 लोष्टादि-वद् दृष्ट-चरः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed unlike the clod of earth, the soul is never found to be a non-sentient nature.
 </details>
@@ -2087,7 +2087,7 @@ Indeed unlike the clod of earth, the soul is never found to be a non-sentient na
 मरुद् इव स्पर्श-गुणतयैवाध्यक्ष्यमाणः ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That which is perceived as having a certain quality necessarily possesses it as its essential nature, even as air, which is perceived to possess the quality of touch (*sparsa*), (owns it as its essential quality).
 </details>
@@ -2104,7 +2104,7 @@ That which is perceived as having a certain quality necessarily possesses it as 
 गमनादि-रहिततयेव देवदत्तादिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That which does not possess a certain quality as its essential nature may also be perceived in itself, bereft of that quality, just as persons like Devadatta are perceived even without the activities of proceeding and the like, (which do not form part of their essential nature).
 </details>
@@ -2128,7 +2128,7 @@ The illustration of the body not apposite:-
 न, +++(दृष्टान्तस्य)+++ अ-सिद्धत्वात्  +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it be said that consciousness is like the body (in being invariably manifested, though only an accidental possession), (we reply) not so.
 </details>
@@ -2155,7 +2155,7 @@ If it be said that consciousness is like the body (in being invariably manifeste
 तन् नैवम्, +++(शरीर-साहित्यस्य वक्ष्यमाण-रीत्या)+++ असिद्धत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In other words, you may contend that just as the conscious entity shines forth as being invariably associated with the body, even though the latter is not its essential nature, it always shines forth along with consciousness also (even though the latter is not its essential property). (Our reply is) it is not so:
 </details>
@@ -2175,7 +2175,7 @@ In other words, you may contend that just as the conscious entity shines forth a
 न हि तनु-विशिष्टतयैवायं चेतनः परिस्फुरति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For what is said of the analogous instance requires proof. Indeed, the conscious entity does not shine forth only as being associated with the body;
 </details>
@@ -2193,7 +2193,7 @@ For what is said of the analogous instance requires proof. Indeed, the conscious
 "अहम्" इति स्फुटम् अनुभवात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P103]] for to adepts in yoga whose minds are concentrated and whose external senses have become quiescent the conscious entity clearly shines forth as the 'I,' without there being any thought of the body.
 </details>
@@ -2216,7 +2216,7 @@ For what is said of the analogous instance requires proof. Indeed, the conscious
 प्राग् एवावोचम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 I have already stated that the cognition 'I know' devoid of the apprehension of the complexion and configuration of the body must have something other than the body for its object.
 </details>
@@ -2240,7 +2240,7 @@ I have already stated that the cognition 'I know' devoid of the apprehension of 
 +++(नात्मा नित्यं शरीर-सहितः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further when the bodies become differentiated into several classes, such as, devas and men, in accordance with past deeds, and when they appear and disappear, it is not possible to maintain that a given body, unlike the manas, forms part of the essential nature (of the soul).
 </details>
@@ -2262,12 +2262,12 @@ Further when the bodies become differentiated into several classes, such as, dev
 न व्यभिचारित्वम् +++(शरीरात्मासाहचर्य-नियमे)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Although there is continuity of the subtle body *(lingaśarira*), the charge of *vyabhicara* cannot be levelled against the argument, as it is not perceived.[F103_171]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F103_171]: The gross body may appear and disappear and thus may not accompany the soul at all times; but the subtle body, at any rate, being continuous, may accompany the soul at all times and may thus be said to nullify the statement that the soul does not always shine forth along with the body To this the reply is that as the *lingaśarira* is not open to perception, it cannot be stated that the soul shines invariably along with the lingaśarira.
 </details>
@@ -2292,7 +2292,7 @@ Although there is continuity of the subtle body *(lingaśarira*), the charge of 
 इति चेत्, न, विकल्पासहत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Should it be said that if consciousness is an essential attribute of the soul, it should be manifested in the state of sleep and swoon, (we reply) 'not so'; for none of the possible interpretations of this statement will stand scrutiny.
 </details>
@@ -2316,7 +2316,7 @@ Should it be said that if consciousness is an essential attribute of the soul, i
 तद्+++(→बोध)+++-अ-विप्रकर्षं+++(=अ-दूरत्वं)+++ वा? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To make the matter clear :- When this unwelcome position is said to result, do you mean by prakaśa, (1) the quality which is commonly present in all objects and which is generated by jñāna and which has for its synonyms terms *prakatya* and the like, or (2) knowledge itself, or (3) the proximity of knowledge?
 </details>
@@ -2337,7 +2337,7 @@ To make the matter clear :- When this unwelcome position is said to result, do y
 आद्ये +++(पदार्थ-प्रकटतार्थे प्रकाशे)+++ तद्+++(→प्रकटतादि)+++-अभावाद् एव न प्रसङ्गः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 On the first alternative, there is no room for this unwelcome position at all, because no such quality (known as *prakatya*) exists.
 </details>
@@ -2353,7 +2353,7 @@ On the first alternative, there is no room for this unwelcome position at all, b
 संवित्-स्वतस्-सिद्धि-समर्थन-समये ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P104]] The non-existence of *prakatya* has already been clearly indicated while establishing the self-luminosity of consciousness.
 </details>
@@ -2369,7 +2369,7 @@ On the first alternative, there is no room for this unwelcome position at all, b
 भावे ऽपि तमः-प्रतिबन्धाद् अप्य् अनुदयः सम्भवी ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And even if it were to exist, its non-origination might as well result from the obstructing factor, namely, tamas (darkness).
 </details>
@@ -2385,7 +2385,7 @@ And even if it were to exist, its non-origination might as well result from the 
 इतरयोर् अभिमतम् एवापादितम् इत्य् अ-दोषोद्भावनम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 On the other two alternatives, as what has been said is acceptable to me, no defect in my contention has been brought to light.
 </details>
@@ -2402,7 +2402,7 @@ On the other two alternatives, as what has been said is acceptable to me, no def
 न हि तद्-आपादनं दोषाय ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed when the puruṣa possesses consciousness as his essential nature, his possessing knowledge even in the state of sleep is acceptable to us; hence, to suggest this as a defect in our contention is no charge at all.
 </details>
@@ -2434,7 +2434,7 @@ In deep sleep, there are no activities of consciousness:-
 इति; मैवम्, व्यवहारागोचरत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If you were to contend that, in case consciousness of oneself were admitted in states of sleep and the like, there would result the prevalence of everyday activities in these states as in that of waking, (we reply) 'not so'. For the soul is not the object *(viṣaya*) of any activity.
 </details>
@@ -2455,7 +2455,7 @@ If you were to contend that, in case consciousness of oneself were admitted in s
 न ह्य् असौ आदातुं हातुम् उपेक्षितुं वा शक्यः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 What is the nature of the activity in regard to the soul (which you think, would result)? Indeed, the soul is incapable of being lifted or cast away or treated with indifference.
 </details>
@@ -2491,7 +2491,7 @@ What is the nature of the activity in regard to the soul (which you think, would
 — (श्लोकवार्तिक प्रत्यक्षसूत्रम् ११२-१२०)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is suggested that  
 there would have to prevail discussion concerning the soul,  
@@ -2521,12 +2521,12 @@ there would have to prevail discussion concerning the soul,
 समानो ऽयं विधिर् इतरत्रापीति निरनुयोज्यानुयोगः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is argued that the non-origination of discussion in regard to these cases is due to the absence of auxiliary causes, such as the efficient condition of the senses, the desire for discussion and the like, (our reply is) as this type of explanation is equally applicable to the other case also, you are addressing your query to the person who cannot be questioned.[F104_172]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F104_172]: Compare- Yaścobhayossamo doşaḥ Pariharopi va samah | Naikaḥ paryanu-yoktavyaḥ Tādrgarthavicarane || When an identical difficulty is encountered by both the rival disputants and when it could be met by either in the same way, it is not open to one of them to level that difficulty as a charge against the other.
 </details>
@@ -2548,7 +2548,7 @@ The experiences of the soul in deep sleep need not all be remembered:-
 +++(स्वाप-मूर्च्छयोर्)+++ अ-वृत्तित्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If you were to say that remembrance would have to occur, (we reply) 'not so'; for the states of sleep, and swoon are not forms of experience (*vrtti*).
 </details>
@@ -2578,7 +2578,7 @@ If you were to say that remembrance would have to occur, (we reply) 'not so'; fo
 इति; तद् न, अ-वृत्तित्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P105]] To explain:- Should it be stated that knowledge of the self exists in the state of swoon or the like, there would have to occur at a subsequent time remembrance (of the self) taking the form 'I experienced it thus,' as in the case of knowledge of other objects, (the reply is) 'not so.'
 </details>
@@ -2600,7 +2600,7 @@ If you were to say that remembrance would have to occur, (we reply) 'not so'; fo
 येन स्मृति-बीजं संस्कारम् आदधीयाताम् ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For swoon and sleep, unlike the acts of seeing and touching, are not particular modifications *(vṛttis*) of the intellect. If they were such modifications, they would give rise to impressions (samskāras) which are responsible for remembrance.
 </details>
@@ -2622,7 +2622,7 @@ For swoon and sleep, unlike the acts of seeing and touching, are not particular 
 निर्वृत्तिक-सांसिद्धिक+++(=स्वाभाविक)+++-- बोध-स्वरूपेणावस्थान-मात्रम् आत्मनः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But, really, swoon and sleep are nothing but the very existence of the soul in its essential nature of jñāna, devoid of modifications *(vṛtti*), when the senses have been withdrawn from their activities on account of the quality of darkness *(tamas*) which is in the ascendant.
 </details>
@@ -2646,7 +2646,7 @@ But, really, swoon and sleep are nothing but the very existence of the soul in i
 अनवरतोपचीयमान-संस्कारतया निर्मोक्ष-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be said that, for the very reason of its having jñāna as its nature, the soul can itself generate the impressions; for, as the soul would then possess incessantly accumulating impressions (samskāras) release would for ever become impossible.
 </details>
@@ -2668,7 +2668,7 @@ It cannot be said that, for the very reason of its having jñāna as its nature,
 स्मरणम् उपजायते ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 When an experience has served its purpose by leaving behind impressions appropriate to itself, remembrance arises in accordance with its root cause, (namely, the samskāras); and it is stimulated by factors, such as, experience of similar objects or of associated things.
 </details>
@@ -2688,7 +2688,7 @@ When an experience has served its purpose by leaving behind impressions appropri
 न च इहात्म-स्वरूप-बोधस्य जातुचिन् निरोधो जन्म वा; नित्यात्म-सत्ता-प्रयुक्तत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But here no origination or obstruction of consciousness of the self can ever exist; for consciousness of the self is dependent on the existence of the soul which is eternal.
 </details>
@@ -2703,7 +2703,7 @@ But here no origination or obstruction of consciousness of the self can ever exi
 निमित्तान्तराभावश् च अनन्तरम् एव व्याकरिष्यते? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That there is no other cause responsible for the same will presently be shown.
 </details>
@@ -2718,7 +2718,7 @@ That there is no other cause responsible for the same will presently be shown.
 तद् एवम् अनुवर्तमान एव अनुभवे कथं स्मृतिर् उदयम् आसादयेत्? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Thus, at the very time when an experience continues to exist, how can its remembrance take birth?
 </details>
@@ -2733,7 +2733,7 @@ Thus, at the very time when an experience continues to exist, how can its rememb
 य एव अहम् पूर्वेद्युर् आसं स एव अहम् अद्यापीति स्मृति-सम्भिन्न-प्रत्ययो ऽपि कालावच्छिन्न-स्वरूप-गोचरः, न स्वरूप-मात्रे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even the awareness- 'I who existed yesterday am the selfsame individual even to-day'-which is mixed up with remembrance must be said to be concerned with the self limited by time, and not with the self in its pure nature.
 </details>
@@ -2753,7 +2753,7 @@ Even the awareness- 'I who existed yesterday am the selfsame individual even to-
 अ-विशदश् च स्वापादौ स्वानुभवो, निर्विकल्पकश् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In sleep and other similar states, the consciousness of the self is indistinct and is also indeterminate *(nirvikalpaka*);
 </details>
@@ -2775,7 +2775,7 @@ In sleep and other similar states, the consciousness of the self is indistinct a
 इति च कुतस् तत्-प्रसङ्गः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P106]] (only) with the aid of knowledge which is clear and distinct and which is determinate (*savikalpaka*) is the basis of remembrance (i. e. the *samskāra*) produced; when that is so, how could it be said that remembrance would result?
 </details>
@@ -2796,7 +2796,7 @@ In sleep and other similar states, the consciousness of the self is indistinct a
 +++(कर-चरणादि→)+++शरीर-- तद्-धारण-प्रयत्नाननुसन्धानवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since, having no knowledge of the self and having a knowledge of the self which lacks clearness and distinctness are similar,  
 there arises the false belief that (in sleep) there is no knowledge of the self,  
@@ -2840,12 +2840,12 @@ it would do away with the distinction between bound and released souls:-
 इतरत्र तद्-अत्यन्त-निवृत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be maintained that if (in sleep) the self exists in its essential nature as an unchanging consciousness alone, there would be no difference between this state and that of release. For in the one case (*i*. e.. in sleep) impressions (*vāsanās*) born of *klesas*[F106_173] as well as the obscuration of the gunas exist, while in the other (i.e. in release), they are totally annihilated.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F106_173]: All the manuscripts and printed editions read *samprajñātasamādhāvapi*. But judging from the context, *asamprajñātasamādhāvapi* appears to be the proper reading. It is reasonable to suppose that a reference to the state of release is followed up by a doubt concerning a state which is the nearest approximation to it.
 </details>
@@ -2867,12 +2867,12 @@ It cannot be maintained that if (in sleep) the self exists in its essential natu
 परम-वैराग्य-शालिना पटुतर-निरोध-संस्कारेण चरिताधिकारेणापवर्गिणा विशेषः +++(स्वापादेः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (If it be stated that, at least, between sleep and *asamprajñāta* samādhi (super-conscious samadhi) there would have to be no difference, it may be replied that) even the soul existing in the state of super-conscious samadhi that has acquired complete detachment (vairāgya), that possesses the most intense samskāras conducive to restraint, and that has discharged its duties and is about to enter upon the state of final release, must be distinguished from the self existing during sleep.[F106_174]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F106_174]: Compare *Yoga*-*Sutra* II. 3. Avidyasmitārā gadvesābhinivešāḥ klesah.
 </details>
@@ -2898,7 +2898,7 @@ It cannot be maintained that if (in sleep) the self exists in its essential natu
 (इति ज्ञान-नित्यत्वे प्रसक्ताक्षेपाणां परिहरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (इति ज्ञाननित्यत्वे प्रसक्ताक्षेपाणां परिहरणम्)
 </details>
@@ -2923,7 +2923,7 @@ Refutation of the view that nidra is a mode of action:-
 न ह्य् अननुभूत-गोचराः स्मृतयः सम्भवन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If sleep is not a form of *vṛtti,* how (it may be asked) can remembrances, such as, 'I slept soundly,' arise to the person who is awake? Indeed, remembrances having for their object what has not been experienced before never arise.
 </details>
@@ -2963,7 +2963,7 @@ If sleep is not a form of *vṛtti,* how (it may be asked) can remembrances, suc
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P107]] Certainly, remembrances, such as, 'I slept well,' 'My mind is perturbed,' 'My limbs feel light' have for their cause the impressions (*bhāvanas*) produced by experiences relating to the quality of tamas which is associated with the sattva quality and which is preponderant. When there is an excess of tamas and rajas, there arise cognitions-such as 'I slept uneasily,' 'My mind is whirling,' 'My mind is unsteady'. When tamas is wholly preponderant having overpowered sattva and rajas, there arise the following recollections 'I have slept wholly oblivious of everything', 'The limbs of my body feel heavy.' 'My mind is as it were, robbed away,' 'And it is, as it were, covered over'.
 </details>
@@ -2979,7 +2979,7 @@ If sleep is not a form of *vṛtti,* how (it may be asked) can remembrances, suc
 सत्यम् एवम् । दत्तोत्तरं ह्य् एतत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (We reply) all this is true enough but your question has already been answered thus-
 </details>
@@ -3000,7 +3000,7 @@ If sleep is not a form of *vṛtti,* how (it may be asked) can remembrances, suc
 अपि तु तात्कालिक-शरीरेन्द्रिय-मनोऽवस्था-विशेष- पर्यालोचन-निमित्ता आनुमानिका इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Assuredly, these cognitions do not have impressions (*vāsanās*) for their source; but are based on the consideration of the then-existing specific states of the body, senses and the mind (manas); and these cognitions are the result of inference.
 </details>
@@ -3026,7 +3026,7 @@ Assuredly, these cognitions do not have impressions (*vāsanās*) for their sour
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, such cognitions take the following form:- 'On account of the fact that my mind is tranquil, and that the organs are light consequent on the proper assimilation of food, I slept well'; (hence, they must be inferential).
 </details>
@@ -3045,7 +3045,7 @@ Indeed, such cognitions take the following form:- 'On account of the fact that m
 न वृत्त्य्-अन्तरत्वं निद्रायाः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Even if they are remembrance), the remembrance may become intelligible, for the reason that it is based on the thought of several desirable and undesirable objects---a thought which exists at the moment of sleep and which lacks clearness and distinctness, on account, of the varying degrees to which the senses have been withdrawn during sleep; hence, *nidrā* need not be a separate *vṛtti*.
 </details>
@@ -3075,12 +3075,12 @@ The conclusion that nidra is no vrtti will not contradict the yoga-sutra:-
 इति ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (You may ask) how, then, could the sutra of the great sage have come in at all?--"Nidrā (sleep) is the *vṛtti,* which is the cause of the non-existence of other vṛttis."[F107_175]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F107_175]: Vide p. 95.
 </details>
@@ -3103,7 +3103,7 @@ The conclusion that nidra is no vrtti will not contradict the yoga-sutra:-
 विपर्ययवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (The reply is) as the context aims at stating what has to be suppressed, its intention is not to describe the nature of the *vṛttis*, as in the case *viparyaya* (which, though not a vṛtti, is yet mentioned as that which has to be suppressed).
 </details>
@@ -3129,12 +3129,12 @@ The conclusion that nidra is no vrtti will not contradict the yoga-sutra:-
 सर्व-संविदाम् अर्थाव्यभिचारात् ।+++(4 ??)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, a false knowledge which is not based on the object which it reveals cannot be met with; for all knowledge is invariably associated with an objective reality.[F108_176]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F108_176]: Compare *Yoga-Sūtra* I. 8. 'Viparyayo mithyājñānam atadrūpapratisṭham.'
 </details>
@@ -3150,12 +3150,12 @@ Indeed, a false knowledge which is not based on the object which it reveals cann
 स च +++(न्याय-तत्त्वे)+++ अधिकरण-सिद्धः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And this fact has clearly been proved in the *adhikaraṇa*:[F108_177]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F108_177]: Evidently the reference is to an adhikarana in Nathamuni's *Nyāyatattva* Sastra. As the author is generally in the habit of mentioning the name of the adhikarana to which he refers, in all probability, he would have mentioned the name here also. But unfortunately, it has been lost. cf pp. 79,85 and 112.
 </details>
@@ -3176,7 +3176,7 @@ And this fact has clearly been proved in the *adhikaraṇa*:[F108_177]
 साधयिष्यते चोपरिष्टात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and later it will be established again.
 </details>
@@ -3193,7 +3193,7 @@ and later it will be established again.
 तत्-प्रत्यनीकतया निद्रादेर् निरोध्यत्वेनोपदेशः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As sleep *(nidrā)* is a hindrance to the soul *(cit)* which is to attain release, it is mentioned as something that deserves to be suppressed.
 </details>
@@ -3214,7 +3214,7 @@ As sleep *(nidrā)* is a hindrance to the soul *(cit)* which is to attain releas
 (इति निद्राया वृत्ति-रूपत्व-निषेधनम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (इति निद्राया वृत्तिरूपत्वनिषेधनम्)
 </details>
@@ -3240,7 +3240,7 @@ Granting nidra is a vṛtti, from that reason itself:-
 स्थितमेव पुंसो बोध-स्वभावत्वम् । +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Let it be granted that sleep (*nidrā*) is a vṛtti having for its object the most highly developed tamas, and tnat it is responsible for the absence of other vṛtis mentioned already; such as, *pramāṇa*; let it also be granted that the cognitions arising to the person awake are remembrances. Even then, the fact does remain that the soul possesses consciousness as its essential nature, for the reason that it owns a knowledge which always continues to be.
 </details>
@@ -3265,7 +3265,7 @@ Let it be granted that sleep (*nidrā*) is a vṛtti having for its object the m
 इति कथं तथा +++(बोध-)+++स्वाभाव्य-निश्चयः? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (The opponent may say that) the continuity of knowledge may as well be explained in terms of the persistence of the causes of knowledge, (and ask) how can it be asserted that knowledge is an essential property of the soul, on the strength of the continuity of knowledge? 
 </details>
@@ -3289,7 +3289,7 @@ Let it be granted that sleep (*nidrā*) is a vṛtti having for its object the m
 इत्थम् …
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (The reply is:--this assertion is made) on the strength of the reason that
 </details>
@@ -3314,7 +3314,7 @@ Let it be granted that sleep (*nidrā*) is a vṛtti having for its object the m
 न सिध्येद् धेत्व्-असिद्धितः +++(→तमसः स्वतः-प्रकाशाभावात्)+++ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 on the strength of the reason that without knowledge which exists in the very nature of the soul, tamas which prevails in the states of sleep and the like will not be manifest to the soul; for there is no causal factor that could manifest it. 
 </details>
@@ -3338,7 +3338,7 @@ on the strength of the reason that without knowledge which exists in the very na
 उपरतानि हि प्रस्वाप-काले सर्वाण्य् एवेन्द्रियाणि सह मनसा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (It might be said that though knowledge is absent, tamas may be manifested with the aid of the senses or manas or the samskāras; but this is untenable) For in sleep all the senses together with the mind (minas) are quiescent. 
 </details>
@@ -3359,7 +3359,7 @@ on the strength of the reason that without knowledge which exists in the very na
 संस्कारस्य च न स्मृतेर् अन्यत्र सामर्थ्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And the power to produce any knowledge other than remembrances does not belong to the impressions (samskāras).
 </details>
@@ -3375,7 +3375,7 @@ And the power to produce any knowledge other than remembrances does not belong t
 अर्थान्तर-वर्तिनो ऽप्य् अनिशं प्रकाश-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor can it be said that tamas may reveal itself; for tamas is not self- luminous; since it would then have to be invariably manifested to the soul (in the waking state also), when it grasps objects other than tamas.
 
@@ -3394,7 +3394,7 @@ Nor can it be said that tamas may reveal itself; for tamas is not self- luminous
 इति बलाद् अभ्युपगमनीयम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P109]] For the reason that knowledge is established to be the means for the manifestation of all things,  
 it must be admitted, whether you like it or not, that  
@@ -3427,7 +3427,7 @@ The possession of illumination as an innate property is attributed to the soul, 
 नित्य-प्रकाशश् चात्मा प्रमातृत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, (to put the same syllogistically)--The soul possesses an eternal illumination: for it is a knower.
 
@@ -3451,12 +3451,12 @@ Besides, (to put the same syllogistically)--The soul possesses an eternal illumi
 व्यापक-विरुद्ध-प्रमातृत्व-भागिन्य् आत्मनि नात्मानं +++(→नानित्य-प्रकाशत्वं)+++ लभते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The possession of non-eternal illumination, which is invariably concomitant with what pervades *(vyāpaka*)-the quality of being other than a knower-cannot find a place for itself in the soul which possesses the quality of being a knower -a quality opposed to the *vyāpaka* (i. e. the quality of being other than a knower)[F109_179]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F109_179]: The syllogism may be stated thus \- Nothing possessing non-eternal illumination is a knower. The soul is a knower. Therefore, the soul does not possess non-eternal illumination. Cf. *Ved*. S. II. iii. 31. Pumstvadivattvasya satobhivyaktiyogāt.
 </details>
@@ -3486,7 +3486,7 @@ The Soul being the substrate of jnana, is svayamprakāśa-
 परायत्त-प्रकाशता ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The possession of illumination as an innate property is attributed to the soul,  
 because it is a knower.  
