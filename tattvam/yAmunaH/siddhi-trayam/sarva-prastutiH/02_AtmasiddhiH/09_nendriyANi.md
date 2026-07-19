@@ -2,7 +2,7 @@
 title = "०९ नेन्द्रियाणि"
 +++
 ## इन्द्रियात्म-वादः
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The view that the senses are the soul
 </details>
@@ -13,7 +13,7 @@ The view that the senses are the soul
 सन्तु तर्हीन्द्रियाण्य् एवात्मा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Then let the senses themselves be (considered as) the soul.
 </details>
@@ -35,7 +35,7 @@ Then let the senses themselves be (considered as) the soul.
 येन देहवद् अहङ्कार-गोचराद् बहिष्-क्रियेरन् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 They are not referred to as 'this'.  
 Otherwise, (if they were known as 'this') they, like the body, may be excluded from that which is the object of self-consciousness.
@@ -59,7 +59,7 @@ Otherwise, (if they were known as 'this') they, like the body, may be excluded f
 ऽहं-प्रत्ययस्य रूपावयवादि-प्रतीतिः प्रसज्येत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Unlike the body, the senses possess neither visible colour and other qualities nor big size. If they did, and if self-consciousness presented the senses as its objects, knowledge of their colour, parts, etc. may be expected to arise, as in the case of the knowledge of the body.
 </details>
@@ -76,7 +76,7 @@ Unlike the body, the senses possess neither visible colour and other qualities n
 स्नानाध्ययनादि-फलवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Knowledge which is the result of their activity, like [[P18]] the results of bathing, study, etc., must, properly speaking, belong only to the senses.
 </details>
@@ -98,12 +98,12 @@ Knowledge which is the result of their activity, like [[P18]] the results of bat
 'द्रष्टुश् चक्षुष' इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why Satyatapas speaks of the seeing eये.[F18_35]
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Note</summary>
 
 [F18_35]: See Varaha Purana, Ch. 91, verses 1-26.  
 One day when Satyatapas was engaged in meditation,  
@@ -146,7 +146,7 @@ the boar and its pursuer appeared to the sage in their true form as Visnu and In
 (इतीन्द्रियात्मत्व-पूर्वपक्ष-प्रकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Thus ends the section on the prima facie view that the senses are the soul.)
 </details>
@@ -157,7 +157,7 @@ the boar and its pursuer appeared to the sage in their true form as Visnu and In
 </details>
 
 ## विकल्पासहत्वम्
-<details><summary>English - Topic</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Topic</summary>
 
 The refutation of this view
 </details>
@@ -168,7 +168,7 @@ The refutation of this view
 तन् न, +++(वक्ष्यमाण-)+++विकल्पासहत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The theory that the senses are the soul is untenable,  
 as none of its forms stands scrutiny.
@@ -193,7 +193,7 @@ as none of its forms stands scrutiny.
 संभूय वा?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To explain it further-Do the senses possess knowledge individually or collectively?
 </details>
@@ -216,7 +216,7 @@ To explain it further-Do the senses possess knowledge individually or collective
 +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If individually, what is perceived by one sense cannot be recognised by another.
 </details>
@@ -238,7 +238,7 @@ If individually, what is perceived by one sense cannot be recognised by another.
 "यम् अहम् अद्राक्षं, तम् अहं स्पृशामी"ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But such a recognition, viz., 'what I saw I touch' does exist.
 </details>
@@ -254,7 +254,7 @@ But such a recognition, viz., 'what I saw I touch' does exist.
 अत एव +++(→प्रतिसन्धानाशक्यत्वात्)+++ न संभूयापि चेतनत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why the senses, even collectively, cannot be said to possess knowledge.
 </details>
@@ -275,7 +275,7 @@ That is why the senses, even collectively, cannot be said to possess knowledge.
 न हि पञ्चभिर् इन्द्रियैस् संभूयैकं वस्त्व् अनुभूयते ऽनुसन्धीयते वा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 No object is either perceived or recognised by all the five senses together.
 </details>
@@ -297,7 +297,7 @@ No object is either perceived or recognised by all the five senses together.
 एकेन्द्रिय-विगमे च प्रायण+++(=मरण)+++-प्रसङ्गश् च +++(इन्द्रियसमूहात्मत्वे)+++। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, (if this view were correct) even when one sense-organ perishes death must ensue.
 </details>
@@ -320,7 +320,7 @@ Again, (if this view were correct) even when one sense-organ perishes death must
 तत्-तद्-इन्द्रियार्थ-स्मरणम् अपि न भवेत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, if knowledge belonged to the senses, with the decay of each of the different senses, remembrance of their respective objects could not take place.
 </details>
@@ -345,7 +345,7 @@ Besides, if knowledge belonged to the senses, with the decay of each of the diff
 पापादेः पर-समवायित्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, knowledge, though the outcome of the activity of the senses, need not inhere in them. For sin and the like, though resulting from the activity of weapons, etc., inhere in something other (than weapons).
 </details>
@@ -369,7 +369,7 @@ Moreover, knowledge, though the outcome of the activity of the senses, need not 
 सत्य-तपसस् तथा-वचनम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Bearing in mind the fact that if he did not speak the truth, the person who interrogated would [[P19]] meet with death, and that (if he spoke the truth), it would be extreme cruelty to abandon one who had taken refuge, Satyatapas spoke like that.[F19_36]
 
@@ -396,7 +396,7 @@ Bearing in mind the fact that if he did not speak the truth, the person who inte
 (इतीन्द्रियात्मवाद-निरास-प्रकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Thus ends the section on the refutation of the theory that the senses are the soul.)
 </details>

@@ -16,7 +16,7 @@ Determination of the significance of the term 'prakāśa' and of the nature of i
 कश् चास्यात्मना सम्बन्धः? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 What is meant by this illumination (*prakāśa*) which is said to be eternal and innate to the soul? And what exactly is the nature of its [[P110]] relation to the soul?
 </details>
@@ -40,7 +40,7 @@ What is meant by this illumination (*prakāśa*) which is said to be eternal and
 सम्बन्धश् चाश्रयाश्रयित्वम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P110]] If illumination means knowledge itself and if the relation is that of being the container and the contained (āśrayāśrayitvam),
 </details>
@@ -67,7 +67,7 @@ What is meant by this illumination (*prakāśa*) which is said to be eternal and
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 then (with regard to the aforesaid syllogism) in order to cite the invariable concomitance of the absence of the sadhya with the absence of the *hetu,* pots and the like must be cited as illustrative examples in the following way:--Whatever possesses a non-eternal illumination or an illumination depending upon something else is other than a knower; like pots, etc.
 </details>
@@ -91,7 +91,7 @@ then (with regard to the aforesaid syllogism) in order to cite the invariable co
 आगन्तुकं ज्ञानं घटादाव् अनुमतम् आपद्येत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Then, as the negation of something specific presumes the affirming of something else belonging to the same general category,  
 it would result in the admission that occasional knowledge resides in pots and the like.
@@ -116,7 +116,7 @@ it would result in the admission that occasional knowledge resides in pots and t
 ततो नित्यवज्-ज्ञान-विषयत्वम् आत्मनः प्रसज्येत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In order to obviate this difficulty if it be said that the relation (in question) is no other than that of being the object apprehended and being the subject apprehending (*viṣayaviṣiyibhāva*), then, the soul would have to be the object of an eternal consciousness.
 </details>
@@ -140,7 +140,7 @@ In order to obviate this difficulty if it be said that the relation (in question
 न +++(प्रकाश-)+++स्वाभाविकत्व-सम्भवः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And since the quality of being an object of consciousness  
 is invariably concomitant with that of being dependent upon some specific causal factors,  
@@ -169,7 +169,7 @@ consciousness cannot be an innate property of the soul.
 चेतनान्तर-विषयीकारे ऽपि तथा-भाव-दर्शनात् ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it be said that this universal concomitance is met with only in the case of insentient objects, the reply is 'not so';  
 for even when some other soul is cognised, this dependence on certain causal factors is noticed.
@@ -196,7 +196,7 @@ for even when some other soul is cognised, this dependence on certain causal fac
 इति वाच्यम् -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be said that this general law, namely, that all objects of consciousness depend on specific causal factors, applies only to cases other than oneself; 
 </details>
@@ -217,7 +217,7 @@ It cannot be said that this general law, namely, that all objects of consciousne
 आत्मनो ऽप्य् आनुमानिकागमिक--योग-ज्ञान-विषयी-कारे तत्-सापेक्षत्व-दर्शनात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for even in regard to oneself, when it becomes the object of inferential knowledge, knowledge born of scripture, and yogic perception, this dependence upon causal factors is noticed.
 </details>
@@ -238,7 +238,7 @@ for even in regard to oneself, when it becomes the object of inferential knowled
 विरुद्धे च एकस्यैक-क्रियायां कर्म-कर्तृत्वे, सूच्य्-अग्रस्येवात्मनि वेध्य-वेधकत्वे ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, in respect of one and the same entity the character of being the object and that of being the subject (or agent) of the self-same activity are contradictory; just as in the case of a needle, with regard to its point, the qualities of being the piercer and the pierced are contradictory.
 </details>
@@ -262,7 +262,7 @@ Further, in respect of one and the same entity the character of being the object
 न स्वरूपतः ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P111]] It is not in respect of itself, but in respect of its features such as, eternity, extreme subtlety, capacity to penetrate all things, the possession of consciousness as its essential nature-that the soul *(pratyagartha*) comes to be the object of knowledge obtained through inference or through instruction.
 </details>
@@ -286,14 +286,14 @@ Further, in respect of one and the same entity the character of being the object
 न स्वतः-सिद्धत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 On the view that the self may be admitted to be at once the knower and the known  
 in virtue of its different aspects,  
 the self, like the examples relied upon, such as, *sabda* (the word), cannot be said to be self-established.[F111_180]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F111_180]: 
 (i) The reading in the text is *pakṣasyeva śabdādeḥ*; but the correct reading should be sapakṣasyeva *sabdadeḥ*.  
@@ -351,7 +351,7 @@ The contention that atma is the seat of prakasa inferred from prakatya-
 अथोच्येत — न प्रकाशो ज्ञानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As a third alternative, you might hold that illumination is not knowledge,
 </details>
@@ -373,7 +373,7 @@ As a third alternative, you might hold that illumination is not knowledge,
 यद्-वशात् "प्रकाशत" इति प्रख्योपाख्ये प्रतायेते सर्व-पदार्थेष्व् अविशेषेण; आश्रयाश्रयित्व-लक्षणश् च सम्बन्धस् तेन +++(प्रकाशेन)+++ सह सर्व-भावानाम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but a quality which is dependent upon knowledge and which is found alike in all objects, sentient or non-sentient-a quality by whose aid all understanding and reference, namely, 'It is illumined', arise in regard to all objects; and that the relation of this illumination to all objects, without varying from instance to instance, is just that of being the container and the contained;
 </details>
@@ -397,7 +397,7 @@ but a quality which is dependent upon knowledge and which is found alike in all 
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that, on the strength of the aforesaid reasons themselves, it follows that such a quality is eternal and essential to the soul.
 </details>
@@ -425,7 +425,7 @@ Refutation of that view:-
 पराकृतो ऽयं पक्षः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But this view has already been refuted.
 </details>
@@ -446,7 +446,7 @@ But this view has already been refuted.
 न ज्ञानातिरेकी प्रकाशो नाम ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 There is no prakasa distinct from knowledge.
 </details>
@@ -462,7 +462,7 @@ There is no prakasa distinct from knowledge.
 तत् "प्रकाशत" इत्य् उच्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P112]] The object about which it could be said 'It is manifested' is that concerning which there is the knowledge capable of rendering it fit for thought and discussion.
 </details>
@@ -480,7 +480,7 @@ There is no prakasa distinct from knowledge.
 त्रिष्व् अपि एक-रूपः "प्रकाशते"-व्यवहारः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since there arises knowledge conducive to discussion concerning the object known, the knower and knowledge itself, it is but right that the reference 'It is manifested' should apply in an identical way to all these three.
 </details>
@@ -504,7 +504,7 @@ Since there arises knowledge conducive to discussion concerning the object known
 पुनः किं चैतन्याश्रयणेन? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the illumination were to be admitted as a separate entity (i.e. if it is distinct from knowledge), and if the soul has this *prakāŝa* for its innate quality, where, again, is the need for attributing consciousness to the soul?
 </details>
@@ -527,7 +527,7 @@ If the illumination were to be admitted as a separate entity (i.e. if it is dist
 घटादेर् अपि प्रकाशवत्तया चेतनत्व-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be said that consciousness is nothing but *prakāŝa*; for even objects, such as pots and like, would become conscious entities, inasmuch as they possess *prakāśa*.
 </details>
@@ -547,7 +547,7 @@ It cannot be said that consciousness is nothing but *prakāŝa*; for even object
 इति, +++(ज्ञाने=)+++ संविदीदानीं का वार्ता?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is said that (consciousness and prakāsa are different and that) *prakāśa* is that which is manifested to the soul when there is possession of knowledge, what about knowledge (samvit)?
 </details>
@@ -570,7 +570,7 @@ If it is said that (consciousness and prakāsa are different and that) *prakāś
 चेतनैव हि सा +++(संवित् ज्ञातृ-प्रकाशिनी)+++, न चेतयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, samvit is itself consciousness; and it is not possessed of knowledge.
 </details>
@@ -591,7 +591,7 @@ Indeed, samvit is itself consciousness; and it is not possessed of knowledge.
 कस् तया सम्बन्धः, यस् तन्-निबन्धनम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it be said that this quality (i.e. prakāśa). dependent upon the relation in question, may belong to knowledge,  
 (it may be asked) what exactly is the nature of the relation which acts as the basis of prakāśa ?
@@ -615,7 +615,7 @@ If it be said that this quality (i.e. prakāśa). dependent upon the relation in
 +++(चैतन्य-संविदोः)+++ नाश्रयाश्रयित्वम्; घटादेस् तद्-अभाव-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be that of being the container and the contained; for, then, pots and the like would have to be deprived of prākatya.
 </details>
@@ -636,7 +636,7 @@ It cannot be that of being the container and the contained; for, then, pots and 
 +++(चैतन्य-संविदोः)+++ न विषय-विषयीभावः, तस्यैवानिरूपणात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor can it be the relation of being the apprehending subject and the object apprehended. for the precise nature of this relation defies analysis.
 </details>
@@ -651,12 +651,12 @@ Nor can it be the relation of being the apprehending subject and the object appr
 अनिरूपणं च +++(न्याय-तत्त्व-)+++भ्रान्त्य्-अधिकरण-सिद्धान्तारम्भे संवित्-सिद्धौ चानुसन्धातव्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The impossibility of such an analysis may be ascertained from that part of the *Bhrantyadhikarana*[^112_181] (of *Nyāyatattva*) where the statement of the conclusion *(siddhānta*) commences and from *Samvitsiddhi*.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^112_181]: While discussing the nature of error, *Sarvarthasiddhi* (Buddhisara) refers to this adhikarana. See the Tattvamuktākalāpa, Barvārthasiddhi p. 404.
 </details>
@@ -672,7 +672,7 @@ The impossibility of such an analysis may be ascertained from that part of the *
 +++(तद्-अविषयत्वाद्)+++ आत्मनस् स्वस्य चाप्रकाश-प्रसङ्गश् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, (if the quality of being the apprehending subject (*visayitva*) was the cause of prakāśa, since this quality does not exist in the soul and in non-sentient objects like pots, it (prakāśa) would have to be denied to the soul as well as to non-sentient objects.
 </details>
@@ -700,7 +700,7 @@ Moreover, (if the quality of being the apprehending subject (*visayitva*) was th
 प्राग् एव प्रतिक्षिप्तः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The view that *siddhi* is nothing but being the seat of prakāśa which is dependent upon jñāna, and that it is with the aid of that *siddhi* that knowledge is inferred to exist has already been refuted.
 </details>
@@ -734,7 +734,7 @@ The view that *siddhi* is nothing but being the seat of prakāśa which is depen
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P113]] Even to the person who contends that consciousness is self-luminous it would be impossible to get over the diversity in regard to the manner in which objects become fit for discussion.
 </details>
@@ -767,7 +767,7 @@ Nyāya refution of the Prabhakara and Bhatta views and the contention that relat
 इत्य् अपि चिन्त्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, how knowledge, which is inherent in the soul, could generate in the object, which is unrelated to it, a *prākāsā* or discussion is a matter for consideration.
 </details>
@@ -792,7 +792,7 @@ Again, how knowledge, which is inherent in the soul, could generate in the objec
 इति मा वोचः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Do not say that it is generated by the proximity of the causes of knowledge. such as the senses and reasons (linga).
 </details>
@@ -816,7 +816,7 @@ Do not say that it is generated by the proximity of the causes of knowledge. suc
 कार्यम् आरभते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, that which has already come to exist does not produce its effect by depending upon its own efficient cause.
 </details>
@@ -837,7 +837,7 @@ Indeed, that which has already come to exist does not produce its effect by depe
 मा भूद् उदकाहरणादि घटादेः कुलालादि-समानाधिष्ठानम् ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Activities pertaining to the pot such as, fetching water-cannot be treated as having for their bases or superintendent *(adhisthāna*) what is identical with the potter and the like.
 </details>
@@ -858,7 +858,7 @@ Activities pertaining to the pot such as, fetching water-cannot be treated as ha
 न च निमित्त-कारण-नाशे कार्य-नाशः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, when the efficient cause perishes, there is no destruction of the effect;
 </details>
@@ -880,7 +880,7 @@ Further, when the efficient cause perishes, there is no destruction of the effec
 नश्यति च इन्द्रिय-सम्प्रयोगादि-नाशे रूपादि-ज्ञानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but here, when factors—such as, the contact of the senses-perish, knowledge of colour and the like disappears.
 </details>
@@ -898,12 +898,12 @@ but here, when factors—such as, the contact of the senses-perish, knowledge of
 हस्तादिनेव त्वग्-इन्द्रियम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, it has to be said that consciousness proceeding outward along with the senses gets into contact with different objects,[^113_182] just as the organ of touch comes into contact with hands and the like.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^113_182]: Compare Sri *Bhasya* on Ved Su *II.* ii. 27-nä bhāvā upalabdheḥ-sambandhašca samyogalakṣaṇaḥ. see also the Tattvamu ktākālāpa p. 652. Dravyam prāg buddhiruktā paramiha viṣayaissangamādirnirūpyah samyogam Bhāşyakārāh prathamamakathayan nyāyatattvānusārāt.,
 </details>
@@ -926,7 +926,7 @@ Therefore, it has to be said that consciousness proceeding outward along with th
 युक्तं तद्-भावानुविधायित्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If that were so, since the knowledge of the respective objects is dependent upon this contact, it is but right that such knowledge should be dependent upon the existence of this contact.
 </details>
@@ -947,7 +947,7 @@ If that were so, since the knowledge of the respective objects is dependent upon
 अन्यथा उत्पन्नं ज्ञानम् इन्द्रियार्थ-सन्निकर्ष-निवृत्तौ किम् इति निवर्तते? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Otherwise, why should the knowledge which has already arisen vanish when the contact of the senses with objects falls away?
 </details>
@@ -974,7 +974,7 @@ The Nyaya argument that with the disappearance of jnāna, prākatya disappears i
 ज्ञान-जन्य–+++(विषय→)+++अर्थ-धर्म+++(-भूत)+++-प्रकाश--वादिनो ऽपि समानो ऽयं दोषः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P114]] The same difficulty confronts also the person who admits *prakaṣā* as a quality which resides in objects and which is produced by jñāna.
 </details>
@@ -989,7 +989,7 @@ The Nyaya argument that with the disappearance of jnāna, prākatya disappears i
 +++(प्रकाशस्य)+++ निमित्त-कारणं हि ज्ञानम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For knowledge is the efficient cause of prakāśa.
 </details>
@@ -1005,7 +1005,7 @@ For knowledge is the efficient cause of prakāśa.
 कुतो वा यावत् तद्-भावम् अवतिष्ठते? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Then, why (it may be asked) should the *prakasa* of the objects disappear at the disappearance of knowledge? And why should it exist only so long as knowledge lasts?
 </details>
@@ -1038,12 +1038,12 @@ That the disappearance of the nimitta kāraṇa need not necessarily lead to the
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is no good trying to meet the difficulty by citing the analogy of number *(sankhya*) and the like.[^114_183]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^114_183]: The analogy may be expressed thus:-  
 When the enumerative cognition (apekṣābuddhi) which is the efficient cause of numbers 2, 3 and so on disappears, these numbers vanish;  
@@ -1075,7 +1075,7 @@ in the same way, when knowledge which is the efficient cause of prakăşa ceases
 अन्याप्य् +++(सङ्ख्या)+++ आ-द्रव्य-भाविनी ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.29 For with the disappearance of the enumerative cognition (*apeksa-buddhi*) there does not result the disappearance of numbers. Like number 1 (unity), the other numbers, namely, 2, 3 and so on, for the very reason that they are numbers, exist as long as objects last.
 </details>
@@ -1094,7 +1094,7 @@ in the same way, when knowledge which is the efficient cause of prakăşa ceases
 सम्मता सर्व-वादिनाम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.30 That everywhere the number which is based on a single entity and which resides individually in objects, eternal or non-eternal, (i.e. the number 1, unity) lasts as long as the (particular) support lasts is admitted by all disputants.
 </details>
@@ -1113,7 +1113,7 @@ in the same way, when knowledge which is the efficient cause of prakăşa ceases
 सति कस्मान् न तादृशी ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.31 While the generality, namely, numberness, exists therein, why should not the numbers commencing from 2 and ending in infinity, and residing in multitudinous objects, be similar (to number 1 in lasting as long as the support lasts)?
 </details>
@@ -1138,12 +1138,12 @@ in the same way, when knowledge which is the efficient cause of prakăşa ceases
 अतः साधन-विकलम् उदाहरणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 An objection may be taken to this argument:-Since number 1 is not a number at all, for the reason that it is not something distinct from the *svarupa* (i. e. the object wherein it is said to dwell);[^114_184] the example cited in the foregoing argument is defective in being devoid of the *hetu.*
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^114_184]: This objection is met by Vedanta Desika in the Tattvamuktā *kalāpā* (Adravyasara thus\-'aikyam svābhedamāhuh katicana na bhida tyckameveti drşteh bhedadṛṣtyaikyamohaḥ taditi ca vacanam tattra tatra bhyupetam anyetvetat svasatt- viduritarasamuccityavastha nuvṛttam svarūpadadhikamidamiha tatpaksepi vam dvittvamohadisiddheh. pp. 634-5.
 </details>
@@ -1159,7 +1159,7 @@ An objection may be taken to this argument:-Since number 1 is not a number at al
 द्रव्यान्तरे ऽप्य् अनुवृत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P115]] (The reply is) not so. Unity (No. 1) is certainly a number; for it persists equally in other objects (besides the one with whose very being it is sought to be identified.)
 </details>
@@ -1180,7 +1180,7 @@ An objection may be taken to this argument:-Since number 1 is not a number at al
 इति सर्व-द्रव्य-साधारण्यम् एकत्वस्य न स्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If No. 1 were identical with the very being of the pot or anything else, then, unity cannot be common to all objects, as is suggested in the expressions, *one* pot, *one* cloth and so on.
 </details>
@@ -1203,7 +1203,7 @@ If No. 1 were identical with the very being of the pot or anything else, then, u
 अस्ति तु तद् एकत्वस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, there is no equation of the being of the pot *(ghaṭasvarupa*) with that of the cloth to the effect 'The pot is cloth'; but that equation of No. 1 with the pot (as is evident in the expression 'one pot') exists.
 </details>
@@ -1229,7 +1229,7 @@ Indeed, there is no equation of the being of the pot *(ghaṭasvarupa*) with tha
 सामानाधिकरण्य-धीः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.32 Being contradictory to other members, unity, like No. 2, must necessarily be a number. In fact, there is no knowledge equating unity with number 2 in the form 'Unity is No. 2.'
 </details>
@@ -1271,7 +1271,7 @@ Untenability of the argument that numbers commencing from 2 do not last as long 
 नानात्वे ऽनैकान्तिकत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It may be contended that, like contact (*samyoga*), the numbers commencing from 2 do not last as long as the objects exist, because while they exist in many objects, they are qualities. But such a contention is liable to be charged with anekanta *dosa* in the light of the instance of 'diversity.'
 </details>
@@ -1287,12 +1287,12 @@ It may be contended that, like contact (*samyoga*), the numbers commencing from 
 तन्-नानात्वं नश्यति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For as long as the pot and the cloth exist, diversity will never vanish.[^115_185]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^115_185]: How the argument comes to be vitiated by anekānta doṣa is here exposed. In the instance of diversity, even though the *sadhya* is absent, the *hetu* is still met with.
 </details>
@@ -1309,7 +1309,7 @@ For as long as the pot and the cloth exist, diversity will never vanish.[^115_18
 त्रयाणां तद्-अभाव-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be said that diversity is nothing but duality. (Therefore, it is not possible to get over the fallacy of *anekānta* by suggesting that, after all, diversity and duality are identical).  
 For (if they were identical) in respect of any three objects there would be the absence of diversity.
@@ -1326,7 +1326,7 @@ For (if they were identical) in respect of any three objects there would be the 
 +++(शून्यस्य=)+++तुच्छस्यापि नानात्वापत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor can it be said that diversity is merely the absence of unity. (Hence, the suggestion that diversity is merely a negative quality would not help to remove the fallacy.) For (in that case) diversity would have to be attributed to even absolute unreality *(tuccha*).
 </details>
@@ -1352,7 +1352,7 @@ Cognition of duality and the like is not constant, since it depends on desire to
 सत्या+++(ः)+++ एवानवग्रहः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P116]] 1.33 Even though the numbers commencing from 2 exist, being dependent upon enumerative cognition (*apekṣābuddhi*), their non-apprehension is due to the non-apprehension of the correlative *(pratiyogin*) and the cessation of the desire to know.
 </details>
@@ -1383,7 +1383,7 @@ Consciousness illumines objects through contact with them:-
 अतश् चैतन्यस्यैवेन्द्रिय-द्वारार्थ-सन्निकर्ष एव तद्-भावानुविधानोपपत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, it is only on the admission that consciousness proceeds by way of the senses and establishes contact with objects that the dependence of *prakāśā* on the presence of this contact could be rendered intelligible.
 </details>
@@ -1398,7 +1398,7 @@ Therefore, it is only on the admission that consciousness proceeds by way of the
 अन्यच् च, अर्थस्य प्रकाशकं हि ज्ञानं भवताम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, on your view, consciousness is the entity which manifests the object.
 </details>
@@ -1420,7 +1420,7 @@ Indeed, on your view, consciousness is the entity which manifests the object.
 प्रकाश्य-वस्तु-सन्निकृष्टम् एव प्रकाशकं दृष्टं दीप-प्रभादि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 All manifesting entities, such as, the light issuing from the lamp are found to manifest objects only by getting into contact with the objects to be illumined.
 </details>
@@ -1435,7 +1435,7 @@ All manifesting entities, such as, the light issuing from the lamp are found to 
 अतस् तद् अपि तथेति युक्तम् आश्रयितुम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, it is right to admit that consciousness also is of such a nature (i.e. it manifests objects only by getting into contact with them.)
 </details>
@@ -1453,7 +1453,7 @@ Therefore, it is right to admit that consciousness also is of such a nature (i.e
 यद्-विरहिणः क्रिया-ऽयोगः ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it be objected that a formless object like ether cannot be endowed with activity (in other words, if it is said that consciousness, being formless, cannot enter on the activity of proceeding and getting into contact), (it may be asked) what exactly is meant by 'form' when it is said that the substance wherein it is absent is devoid of activity?
 </details>
@@ -1480,7 +1480,7 @@ Jnana is of limited nature.
 यदि पारिभाषिकी - +++(मूर्तत्वं नाम)+++ द्रव्यत्वे सति क्वाचित्कतेति,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the reply is that it is a technical term standing for that which, while being a substance occupies a limited area,
 </details>
@@ -1495,7 +1495,7 @@ If the reply is that it is a technical term standing for that which, while being
 इष्यत एव सा चैतन्ये ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 the attribution of such a form to consciousness is acceptable to us.
 </details>
@@ -1511,7 +1511,7 @@ the attribution of such a form to consciousness is acceptable to us.
 तथा सति युगपत्-सर्वार्थ-सिद्धि-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In fact, consciousness is not an all-pervasive substance. If it were so (i. e. all-pervasive), there would be the manifestation of all things simultaneously.
 </details>
@@ -1535,7 +1535,7 @@ In fact, consciousness is not an all-pervasive substance. If it were so (i. e. a
 न तद् इन्द्रियान्तरम् अधितिष्ठति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But, on the view that it pervades a limited area, when it is in contact with one sense-organ and directed to the object falling within the range of that sense, it does not (at the same time) permeate another sense-organ.
 </details>
@@ -1556,7 +1556,7 @@ But, on the view that it pervades a limited area, when it is in contact with one
 अत एव हि युगपज् ज्ञानानुत्पत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why different kinds of sensory knowledge do not originate simultaneously.
 </details>
@@ -1573,12 +1573,12 @@ That is why different kinds of sensory knowledge do not originate simultaneously
 युगपद् इवातिशीघ्रम् अनेकेन्द्रियाधिष्ठान-दर्शनात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P117]] Consciousness moves with exceeding quickness:[^117_186] for its rapid permeation of different senses (one after another) is perceived as if it were simultaneous.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^117_186]: Compare the definition of jaana 'atyantavegitatyanata sauksmyam nirbaratātathā tathā. . . .'-given ni Prathamadhikarana of *Nyāyatattva* and quoted in the Nyāyasiddhāňjana, Buddhipariccheda. Vide *infra* p. 95 and note 150.
 </details>
@@ -1593,7 +1593,7 @@ That is why different kinds of sensory knowledge do not originate simultaneously
 अतो यथोदितम् अमूर्तत्वम् असिद्धम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, it is to be concluded that the character of possessing a form, in the sense described above, belongs to consciousness.
 </details>
@@ -1618,7 +1618,7 @@ Fallacious to consider what is devoid of touch asūmtari?? (unlimited)
 इति चेत्; शब्देनानैकान्तः +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is urged that form *(murti*) is the quality of possessing touch, and that consciousness, being devoid of such a form, cannot possess any activity, (the reply is) this argument is liable to be charged with anekānta *doșa*, in view of the instance of sound *(sabda*).
 </details>
@@ -1648,7 +1648,7 @@ If it is urged that form *(murti*) is the quality of possessing touch, and that 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For the sound emanating from the conch, the mouth and the like, though Devoid of touch, proceeds, like a missile, with extreme rapidity to places far distant from its source by piercing through space.
 </details>
@@ -1664,7 +1664,7 @@ For the sound emanating from the conch, the mouth and the like, though Devoid of
 पदार्थ+++(→वैशेषिक)+++-वाक्यार्थ+++(→मीमांसा)+++-विदाम् उभयेषाम् अपि सम्मतम् एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The fact that manas, though devoid of touch, is endowed with activity is admitted both by the Naiyayikas who have understood the categories *(padarthas*) and by the Mimāmsakas who have inquired into the import of propositions.
 </details>
@@ -1696,12 +1696,12 @@ Objects, past and future, could come into contact with consciousness:-
 यस् तत्र निर्वाहः, स एवात्रास्तु ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 How (it may be asked) can objects, past and future, which are non-existent, come into contact with consciousness? (We ask you in turn) how do they become the objects (*visaya*) of knowledge? The same explanations that you offer with regard to these[^117_187]-such as (their becoming the object of knowledge means just this :) their becoming manifested, or their possession of qualities like number-may apply here also.[^117_188]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^117_187]: Vedanta Dešika quotes these passages and discusses them in the *Nyāya-siddhānjana*. Rangarāmānujaswami also comments on them. They identify the first (i. e, the view that objects, past and future, become the object of jiana) as the view of the Naiyayikas, and the second (i. c. the view that these objects possess prākatya) as that of the Bhattas. See Buddhipariccheda, p. 266.
 [^117_188]: The illustration *(*drṣṭanta) of number may be elaborated thus:-When one says 'There were four mangoes, three of them have been lost,' the No 3 is associated with non-existent objects.
@@ -1725,12 +1725,12 @@ How (it may be asked) can objects, past and future, which are non-existent, come
 तेन रूपेण बोध-सन्निकर्षे का ऽनुपपत्तिः?+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P118]] Moreover, since such objects may even be said to exist at this very moment as 'things that have perished' and 'things that are yet to be,' what is the difficulty in stating that consciousness comes into contact with them in the light of their having such a type of existence.[^118_189]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^118_189]: The Bhatta Mimimsakas, according to whom vyakti and *jāti* are different and non-different (bhedabheda), maintain that objects, past and future, exist even now in the form of jāti and that they may well be said to possess prakatya. Similarly, it may be said that such objects have an existence of some sort. Once that is admitted, it is easy to show that consciousness may come into contact with them. See *Nyāyasiddhānjana*, Buddhipariccheda p. 267. Compare: 'atītānāgatam svarüparosti adhvabhedāt dharmāņām.' Yoga-*Sutra* IV. 12 and Vacaspati Mišra's commentary thereon and also the Vyasa Bhasya.
 </details>
@@ -1754,12 +1754,12 @@ How (it may be asked) can objects, past and future, which are non-existent, come
 नालोकं किञ्चित् । +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Just as the eye comes into contact with the Dhruva and Simsumàra[^118_190] mandalas existing in vastly remote regions even so, in regard to entities existing at vastly remote periods of time, consciousness comes into contact with qualities, such as Svayambhu existing at the beginning and end counter to kalpa (world epoch). Hence, there is nothing that could run to everyday experience.[^118_191]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^118_190]: The Hindu tradition has it that the Lord Nārāyaṇa, in the from of the celestial body, Simaŝumārā (also called Sišumāra), controls all the heavenly bodies. and that he acts as their support from his abode in the heart of Simsumāra and that many of the devas dwell in the several organs of Simsumāra, (e.g. Agni, Mahendra, Kaşyapa and Dhruva shine forth, without ever setting, from the tail region of Šišumāra), and that whoever sees this celestial body gets rid of his demerits *(pāpi)* See the *Visnu* Purāņa, Amŝa II, ch. 9 and 12 and the Bhāgavata purāņa V Skanda.
 [^118_191]: In all probability, the proper reading is nālikām rather than nolokām. On either reading, the meaning is substantially the same.
@@ -1784,7 +1784,7 @@ Just as the eye comes into contact with the Dhruva and Simsumàra[^118_190] mand
 बुद्धि-बोद्धृ-स्वरूपवत् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.34 Further, for the reason that they are manifested by consciousness, things past and future, like knowledge and the knower, cannot be considered to be beyond the reach of knowledge.
 </details>
@@ -1814,7 +1814,7 @@ The non-apprehension of intervening space explained.
 ऽलात+++(=उल्मुक)+++-चक्र-गत-क्रम-वद् देश-भेद-संयोग-विभागाग्रहणाभिमानवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P119]] Moreover, (against the possible objection that if consciousness can get into contact with objects far removed from us by vast stretches of space and time, it must be in contact with those of intervening space and time, it may be replied that) as consciousness moves with extreme rapidity, the false impression arises that there is no awareness of (objects existing in) the intervening space and time; just as the false belief arises, namely, that there is no apprehension of the contact (of the point of light) with different points in space or its separation therefrom -a contact and separation which proceeds in a definite sequence and which resides in the circle traced by the fire-brand (*alatacakra)*.
 </details>
@@ -1838,7 +1838,7 @@ The non-apprehension of intervening space explained.
 तद्-गोचरेणैव सन्निकृष्यते;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, consciousness, proceeding outward having come into association with that form of the different senses, reasons *(hetu*) and impressions (samskāras) which is invariably related to their respective objects, gets into contact with those objects only which are respectively related to these (i.e., the senses, etc.); 
 </details>
@@ -1862,12 +1862,12 @@ Besides, consciousness, proceeding outward having come into association with tha
 यथा वा विधिः प्राप्तांश-परिहारेणाप्राप्तांशम् एव भावनायाः स्पृशति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 just as the significatory potency of words, such as the cow is related only to the universal aspect (of things), even though on hearing a word, like the cow, an object constituted of universal and particular features presents itself in a single cognition or just as the vedic injunction deals only with that aspect of the *bhavana* which is unknown, having neglected the part already known.[^119_191a]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^119_191a]: For example, the injunction, 'dadhna juhoti', aims at specifying the kind of oblation to be offered at the Agnihotra, rather than at emphasising the need for performing that homa, the necessity for the latter having been already learnt from the other vidhi, 'agnihotram juhoti'.
 </details>
@@ -1889,7 +1889,7 @@ just as the significatory potency of words, such as the cow is related only to t
 तद्-अर्थाभिमुखं निर्गच्छतीति न्याय्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, here it is legitimate to maintain that consciousness, proceeds through the senses towards their respective objects.
 </details>
@@ -1916,12 +1916,12 @@ Therefore, here it is legitimate to maintain that consciousness, proceeds throug
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To this effect the Adorable Kṛṣṇa says, "It (the manas) forcibly drags consciousnesss along, even as the wind drives the boat on water."[^119_192]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^119_192]: *Bh*. *Gitā*, II 67.
 </details>
@@ -1950,12 +1950,12 @@ To this effect the Adorable Kṛṣṇa says, "It (the manas) forcibly drags con
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And Manu says, "From among the several senses even if one sense organ were to proceed outward, thereupon the person's knowledge also would move outward, even as water would flow from the hole found in the leather bag."[^119_193]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^119_193]: Manusmṛ II 99.
 </details>
@@ -1986,7 +1986,7 @@ The objection that consciousness as a quality cannot leave its substrate and pro
 तद् अयुक्तम्, प्रहाणानभ्युपगमात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P120]] The objection raised-namely, how can consciousness, which is a quality, proceed elsewhere, leaving its substrate?-is hardly reasonable; for it has not been maintained that it leaves its substrate.
 </details>
@@ -2003,7 +2003,7 @@ The objection that consciousness as a quality cannot leave its substrate and pro
 इन्द्रियादि-द्वारान् निश्चरति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Consciousness proceeds hither and thither by way of the senses without ever leaving the self.
 </details>
@@ -2025,7 +2025,7 @@ Consciousness proceeds hither and thither by way of the senses without ever leav
 शास्त्र एवोक्तः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That its reunion (with the self) would become impossible were it to lose contact there with has been set forth in the (Nyāyatattva) Sāstra.
 </details>
@@ -2043,7 +2043,7 @@ That its reunion (with the self) would become impossible were it to lose contact
 धर्म्य्-अतिवर्तिनश् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (It could even be shown that qualities may leave their substrate and proceed elsewhere; for) qualities, such as, sound, odour, the rays of the sun and the lustre of the gem are found to be endowed with movement and to leave their substrate.
 </details>
@@ -2064,7 +2064,7 @@ That its reunion (with the self) would become impossible were it to lose contact
 अतिसूक्ष्मो दूर-गमन-धर्मा भौतिको हि शब्दः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, sound (*sabda*) is exceedingly subtle and elemental, and has the quality of proceeding long distances.
 </details>
@@ -2094,7 +2094,7 @@ The Prabhakara view of sabda refuted-
 प्रादेशिक इव, गत्वर इव चोपलभ्यते । +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 A possible objection is the following - sabda (sound) is all-pervasive, like ether; but, with the aid of dhvani (vibration) which helps to reveal it, it appears as if it dwells in a particular place, and as if it moves about.
 </details>
@@ -2117,7 +2117,7 @@ A possible objection is the following - sabda (sound) is all-pervasive, like eth
 एक-द्रव्य-वर्तित्वे सत्य् आकाश-गुणत्वात्, तत्-परिमाणवत् ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And it may be put in syllogistic form thus-sabda is all-pervasive; for, like the magnitude of ether, sound, while residing in one substance, is the quality of ether.
 </details>
@@ -2139,7 +2139,7 @@ And it may be put in syllogistic form thus-sabda is all-pervasive; for, like the
 मैवम्, अ-तद्-गुणत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (We reply) 'not so'; because sabda is not a quality of ether.
 </details>
@@ -2161,7 +2161,7 @@ And it may be put in syllogistic form thus-sabda is all-pervasive; for, like the
 तेन नियत-सहोत्पत्तिकत्वात्, तदीय-स्पर्शवत् ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It really belongs to the air in motion (*vāyu);* for, like touch (sparśa) which pertains to the air in motion (*vāyu)*, sabda invariably originates along with vayu.
 </details>
@@ -2184,7 +2184,7 @@ It really belongs to the air in motion (*vāyu);* for, like touch (sparśa) whic
 यथा तथाविधा रूपादयः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Any quality which invariably originates along with a given substance must necessarily be considered to be a quality of that substance alone; even as colour and the like, which invariably originate along with a substance are treated as its qualities.
 </details>
@@ -2199,7 +2199,7 @@ Any quality which invariably originates along with a given substance must necess
 नियत-सहोत्पत्तिश् च वायुना शब्दः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And sound invariably originates along with vayu,
 </details>
@@ -2215,7 +2215,7 @@ And sound invariably originates along with vayu,
 भेरी-दण्ड-वंश-दलनादि- संयोग-विभाग-जत्व-नियमात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 in as much as both invariably originate together from the contact of the drumstick with the drum or from the separation of the parts of the bamboo caused by its splitting.
 </details>
@@ -2232,7 +2232,7 @@ in as much as both invariably originate together from the contact of the drumsti
 गुणत्वात् गन्धादि-वत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, sabda does originate; for, like smell, it is grasped by the senses and is also a quality.
 </details>
@@ -2262,7 +2262,7 @@ The Prabhakara view that object is manifested without the relation of consciousn
 क्रियोत्तरम् एवोपलभ्यत्वात् संयोगादिवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P121]] Moreover, it is created by human activity: for, like conjunction and so on, it is apprehended only after such activity has taken place.
 </details>
@@ -2278,7 +2278,7 @@ The Prabhakara view that object is manifested without the relation of consciousn
 न च +++(पूर्ववर्ति-शब्द→)++++अभिव्यञ्जकत्वं प्रयत्नादेः कल्प्यम्, गौरवात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor can it be fancied that human effort and the like are merely aids to the manifestation of sound; for that would go against the principle of economy (of thought).
 </details>
@@ -2300,7 +2300,7 @@ Nor can it be fancied that human effort and the like are merely aids to the mani
 तत्-कारणत्व-कल्पनैव हि लघ्वी ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, rather than assuming that they are the cause of the manifestation of sound, to postulate that they are the causes of sound itself is to have the advantage of economy (of thought).
 </details>
@@ -2317,7 +2317,7 @@ Indeed, rather than assuming that they are the cause of the manifestation of sou
 यथा प्रदीपो रूप-सङ्ख्या-परिमाणानि करकादींश् चैक-प्रदेश-वर्तिनः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Whatever serves as a manifester reveals simultaneously everything which resides in one place and is graspable by a single sense organ; for example, the lamp manifests everything existing at an identical place, namely, the number, size, etc., and vessels, like the water-pot.
 </details>
@@ -2338,7 +2338,7 @@ Whatever serves as a manifester reveals simultaneously everything which resides 
 न चैवं +++(सर्व-शब्द-व्यञ्जकः)+++ ताल्व्-आदि-- संयोग-विभाग-जनित-पवन इति नासौ व्यञ्जकः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In as much as the air in motion produced by the conjunction and disjunction of the plate and the like is not of such a nature, it cannot be a factor for manifesting sound.
 </details>
@@ -2357,7 +2357,7 @@ In as much as the air in motion produced by the conjunction and disjunction of t
 नियमे नास्ति कारणम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.35 He who maintains that sound is eternal cannot give a reason for certain sounds being manifested while other sounds are not; because sound dwells in partless ether and is the object of the auditory sense.
 </details>
@@ -2382,7 +2382,7 @@ In as much as the air in motion produced by the conjunction and disjunction of t
 मारुतः कारणं ध्वनेः +++(न तु व्यञ्जकम्)+++॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.36 It has already been pointed out that when the locality (in which objects are apprehended) is one and when the apprehending organ is single, the manifester also must be unitary.  
 Since in the present case the manifester is not unitary, the *vayu* originating from human effort must be the cause (and not the manifester) of sound.
@@ -2413,7 +2413,7 @@ Since in the present case the manifester is not unitary, the *vayu* originating 
 हेतु-पौष्कल्य-भेदतः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.37 That is why a multiplicity of sounds has to be admitted, each act of pronunciation producing a distinct sound. Because what is once produced cannot be created again, and because there is diversity in the complete sets of causal factors, the multiplicity of sounds arising from different acts of pronunciation must be admitted.
 </details>
@@ -2439,7 +2439,7 @@ Since in the present case the manifester is not unitary, the *vayu* originating 
 **न भिन्द्युः** स्वाश्रयान् कथम् ॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.38 Besides, how can qualities which are known to exist simultaneously in sounds (*varṇa*), such as *ga*-qualities, such as that of possessing the principal accent and the secondary accent, and that of being long and short-fail to differentiate their substrates?
 </details>
@@ -2469,7 +2469,7 @@ Since in the present case the manifester is not unitary, the *vayu* originating 
 +++(पूर्वमेव)+++ ज्ञापिता भेद-हेतवः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.39 (It cannot be urged that the recognition, namely, 'This is the self-same sound which was met with before' points to the identity of the sound and also to its eternity: for) even this recognition is based on the similarity arising from the source being identical and not on the identity of the sounds themselves;  
 even as the recognition of the flame (as self-identical is based on the similarity of the flame-series, and not on identity). The reasons which prove sound to be diverse have already been adduced.
@@ -2503,7 +2503,7 @@ even as the recognition of the flame (as self-identical is based on the similari
 नन्व् एवं चैतन्य-संयोगः, संयोग-जो वा कश्चित् प्रकाशः प्राप्तः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P122]] The following objection may now be raised: -(The upshot of the discussion is) *prakāśa* is either the conjunction of consciousness (with the object) or some peculiar property resulting from this (conjunction).
 </details>
@@ -2524,7 +2524,7 @@ even as the recognition of the flame (as self-identical is based on the similari
 उभयम् अपि तन् न चैतन्ये सम्भवति,  भेदापेक्षत्वात् सम्बन्धस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But in regard to the manifestation of consciousness neither of these alternatives holds; for relation always pre-supposes difference in the relata. Therefore, consciousness cannot enter into relation with consciousness.
 </details>
@@ -2541,7 +2541,7 @@ But in regard to the manifestation of consciousness neither of these alternative
 तद्-धर्मित्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This conjunction with consciousness cannot occur to the soul either; for the latter is the substrate of the quality, namely, consciousness.
 </details>
@@ -2556,7 +2556,7 @@ This conjunction with consciousness cannot occur to the soul either; for the lat
 न हि धर्म-धर्मिणोः सम्बन्धः संयोगः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In fact, the relation between the attribute and its substrate is not the relation of *samyoga* (conjunction);
 </details>
@@ -2572,7 +2572,7 @@ In fact, the relation between the attribute and its substrate is not the relatio
 अ-युत-सिद्ध-सम्बन्धत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but really, it is *samavaya* (inherence); for it is of the nature of the relation existing between inseparable entities.
 </details>
@@ -2588,7 +2588,7 @@ but really, it is *samavaya* (inherence); for it is of the nature of the relatio
 अ-कार्य-कारणयोर् वा तयोर् +++(पृथक्-सिद्धयोर्)+++ निरन्तर-स्थितिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 *Samyoga* (conjunction), on the contrary, is either the coming into relation of two objects well-known to be disparate, a relation dependent upon activity, or the closely contiguous existence of the aforesaid objects, which do not stand to each other in the relation of cause and effect.
 </details>
@@ -2613,7 +2613,7 @@ but really, it is *samavaya* (inherence); for it is of the nature of the relatio
 +++(न सर्वेऽपीमे प्रकाशन्तय् इति)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (In order to obviate this difficulty), if *prakāŝa* is taken either as one of these relations, namely, conjunction or inherence of consciousness with objects or any one of the other possible relations of consciousness to objects, then the defects of (such a definition) being too narrow (*avyāpti)* or too broad *(ativyāpti*) may be cited, according to the circumstance of each case, in respect of the knower, knowledge, the known, the body and the senses.
 </details>
@@ -2631,7 +2631,7 @@ but really, it is *samavaya* (inherence); for it is of the nature of the relatio
 न दूषणान्तरं प्रयोजयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The admission of prakasa as a separate entity, having been effectively discredited by non-perception *(anupalabdhi*) does not call forth any other adverse comment.
 </details>
@@ -2654,7 +2654,7 @@ The admission of prakasa as a separate entity, having been effectively discredit
 तत् प्रकाशत इत्य् एवाभ्युपगमो युक्तः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, it is but proper to admit the following that entity concerning which there arises knowledge capable of initiating a thought and discussion of it may be spoken of as being manifested.
 </details>
@@ -2672,7 +2672,7 @@ Therefore, it is but proper to admit the following that entity concerning which 
 न हि स्वभावाः पर्यनुयोगम् अर्हन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As the tendency to initiate thought and discussion regarding all these three (i. e., knowledge, the knower and the known) is an essential feature of consciousness, the diversity in the manner in which the cause (i.e., consciousness) operates (in these three cases) cannot be raised as an objection. It cannot be asked why such and such a nature belongs to such and such an object.
 </details>
@@ -2697,7 +2697,7 @@ As the tendency to initiate thought and discussion regarding all these three (i.
 इति युक्तम् आश्रयितुम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P123]] If so  
 (i.e., if the tendency to initiate thought and discussion regarding all the three is an essential quality of knowledge,  
@@ -2739,7 +2739,7 @@ The Prabhakarā view refuted
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (To this it is replied) it has already been shown (vide p. 104) that an entity does not enter on its own activities by depending on its efficient cause.
 </details>
@@ -2763,7 +2763,7 @@ The Prabhakarā view refuted
 +++(ज्ञातृ-ज्ञान-ज्ञेयेषु)+++ प्रकाश-पदार्थे प्रवृत्ति-निमित्त-भेदो दुष्परिहर एव -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the term prakasa were to signify knowledge conducive to thought and discussion (vyavahārānuguṇa *samvedana*), then, the diversity in the significance *(pravṛttinimittabheda*) suggested by this term cannot be got over.
 </details>
@@ -2789,7 +2789,7 @@ If the term prakasa were to signify knowledge conducive to thought and discussio
 तस्यां +++(संविदि)+++ तद्+++(→संवेदनान्तर)+++-अभाव-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the expression vyavahāranuguṇa-samvedana is taken as a *bahuvrihi* compound (i.e., if it denotes that which possesses knowledge conducive to vyavahāra), prakāśa would have to be denied to consciousness; for there is no knowledge (which this knowledge may be said to possess).
 </details>
@@ -2804,7 +2804,7 @@ If the expression vyavahāranuguṇa-samvedana is taken as a *bahuvrihi* compoun
 +++(व्यवहारानुगुणं संवेदनम् प्रकाश इति)+++ कर्म-धारयाश्रयणे ज्ञातृ-ज्ञेययोर् अ-संवेदनत्वेनाप्रकाश-प्रसङ्गः +++(ज्ञातृ-ज्ञेययोः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the expression is taken as a karmadhāraya compound (i.e., if it denotes the character of being knowledge conducive to vyavahāra), prakāśa would have to be denied to the knower and the known: for they do not possess the character of being knowledge.
 </details>
@@ -2823,7 +2823,7 @@ If the expression is taken as a karmadhāraya compound (i.e., if it denotes the 
 विदितत्व-प्रतीतिर् व्याहारश् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And the character of being conducive to the starting of an action is to be ascertained from the action itself; but, prior to an action there is the knowledge (prakāsa) that the object concerning which there is activity is already cognised and that there is discussion concerning the same.
 </details>
@@ -2851,7 +2851,7 @@ The true significance of prakāša
 > यद्य् एवम्, कस्तर्हि प्रकाशते पदार्थः? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If so, what is the significance of the term *prakāṣate* (shines forth)?
 </details>
@@ -2872,7 +2872,7 @@ If so, what is the significance of the term *prakāṣate* (shines forth)?
 > न हि निरवद्यम् एक-रूपं ज्ञातृ-ज्ञेय-ज्ञानानुगतं तम् उपलभामहे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, we do not know of a *prakasa* which exists in common in the knower, the known and knowledge, and which has the same form in all these three, and about which no objection could be raised.
 </details>
@@ -2894,7 +2894,7 @@ Indeed, we do not know of a *prakasa* which exists in common in the knower, the 
 नूनं भवान् अश्रुत-पूर्वी प्रथमाधिकरणस्य न्याय-तत्त्वे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (To this) it is replied.-evidently, you are not acquainted with the *Prathamādhikaraṇa* of *Nyāyatattva*.
 </details>
@@ -2920,12 +2920,12 @@ Indeed, we do not know of a *prakasa* which exists in common in the knower, the 
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P124]] While pointing out therein that remembrance arises only in the event of there being experience, it has been clearly stated by the author (Nathamuni) that *prakāśa* means not being remote *(adūratvam* i. e., nearness) from experience, a nearness which is the cause of *smṛti* (remembrance).[^124_194]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^124_194]: The qualification 'the causes of smpti' is purposely included in this definition of prakaša. Otherwise, all objects which are presented to experience would have to possess prakāśa. In actual fact, that is not the case. Though several objects are within the focus of attention, all of them cannot be said to be manifested; for, clearly, we are not interested in them all. Hence, only those objects which fall within the range of experience leading to remembrance can be said to possess prakāśa. Compare 'pathi gacchataḥ kāṣthalosṭādijñānot pattyä kasthaloṣṭādiṣu satopianubhavādūratvasya prakā šapadarthatvābbāvāt smrtinimittamityuktam.'
 </details>
@@ -2953,7 +2953,7 @@ Indeed, we do not know of a *prakasa* which exists in common in the knower, the 
 एतद् उक्तं भवति — "संविद्-अदूरत्वं प्रकाश" इति ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It amounts to this, namely, that prakāśa means not being remote (adura) from experience.
 </details>
@@ -2983,12 +2983,12 @@ The objections to the concept of adūratva answered
 तथा विशेषणं लक्षकं वा अदूर इति?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (The objector may ask :) What is meant by *adūra*? Does it mean 'different from' or 'opposed to' or 'the absence of' that which is remote? Again, is adūratva (not being remote) a qualification *(*viṣēṣaṇa) or an upalakṣaṇa?[^124_195]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^124_195]: Upalakṣana is a characteristic which reveals certain aspects of a thing already known to possess other aspects.
 </details>
@@ -3012,7 +3012,7 @@ The objections to the concept of adūratva answered
 न च तथा ऽस्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is a qualification *(*visēṣaṇa) in each of the three alternatives alike, consciousness or prakasa will invariably be preceded by the awareness of not being remote from experience. But, as a matter of fact, it is not so.
 </details>
@@ -3034,7 +3034,7 @@ If it is a qualification *(*visēṣaṇa) in each of the three alternatives ali
 न च तद् अवगम्यत इत्य् उक्तम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is an upalakṣaṇa what other nature prakasa possesses besides this upalakṣaṇa must be pointed out. But it has been said that this nature is not apprehended. 
 </details>
@@ -3057,7 +3057,7 @@ If it is an upalakṣaṇa what other nature prakasa possesses besides this upal
 उच्यते ; अलम् अस्थाने सम्भ्रमेण ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (To this) it is replied, 'Enough of this misplaced excitement.'
 </details>
@@ -3083,12 +3083,12 @@ If it is an upalakṣaṇa what other nature prakasa possesses besides this upal
 किम् अत्र बहु जल्प्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.40 Let anubhavādūra mean either 'different from that which is remote from experience' or 'opposed to that which is remote from experience'.[^124_196] And to be manifest is to be different from that which is remote from experience or to be opposed to that which is remote from experience. Why has all this prattle been indulged in?
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^124_196]: This verse is quoted in *Nyāyasiddhāṇjana*. In his tika on Nyayasiddhāňjana, Rangarāmānuja interprets prakāšatvam as prakāšamānatvam. Our translation is based on this interpretation. He also suggests the emendation 'prakāsotra.' It must be understood that the definition of prakasa set forth is this stanza applies only to the prakasa residing in objects perceived by the senses, and not to that found in objects inferred or to that residing in knowledge itself.
 </details>
@@ -3113,7 +3113,7 @@ If it is an upalakṣaṇa what other nature prakasa possesses besides this upal
 बाह्य-प्रकाशवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P125]] Like external illumination, even the cognition 'It is manifested' is no other than the awareness of the nature of knowledge and of the object connected thereto-a nature opposed to that of being remote from consciousness.
 </details>
@@ -3129,7 +3129,7 @@ If it is an upalakṣaṇa what other nature prakasa possesses besides this upal
 प्रकटादि-प्रख्योपाख्ये आलोकादूरत्व-निमित्ते +++(स्तः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 There also the thought and reference 'It shines', arising in respect of the rays of light and the regions of space wherein they pervade, are based on the quality of not being remote from light.
 </details>
@@ -3145,7 +3145,7 @@ There also the thought and reference 'It shines', arising in respect of the rays
 एवम् इहापि ज्ञानादूरत्व-निमित्ता अज्ञान-निवृत्तिः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Just as, in the one case, the dispelling of darkness is due to the quality of not being remote from light, here also the dispelling of ignorance is due to the quality of not being remote from consciousness.
 </details>
@@ -3161,7 +3161,7 @@ Just as, in the one case, the dispelling of darkness is due to the quality of no
 उत्तर-काल--तुल्यवत्-स्मरणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why at a subsequent time recollection of the object known as also of the knowledge itself arises.
 </details>
@@ -3179,7 +3179,7 @@ That is why at a subsequent time recollection of the object known as also of the
 निरनुयोज्यानुयोग एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 There being no room for the question as to the precise nature of the relation of consciousness (i.e., whether it is samavāya or samyoga), it follows that the question raised is one that ought not to have been asked at all.
 </details>
@@ -3200,7 +3200,7 @@ Deciding on the nature of the knowledge relation as samyoga
 नैरन्तर्य-पद-प्रयायम् अत्यन्त-सामीप्य-मात्रं च संयोगः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, *samyoga* is merely close contiguity, which, in its turn, is synonymous with nairantarya (not being separated by intervening space).
 </details>
@@ -3216,7 +3216,7 @@ Besides, *samyoga* is merely close contiguity, which, in its turn, is synonymous
 नार्थान्तरत्वम् ऊरी-कृत्य विकल्पः सम्भवति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And it is only this *samyoga*, which obtains between inseparable *(ayutasiddha*) objects of which one is self-dependent and the other dependent, that is referred to by the technical term samavāya in the system of the Vaiseṣikas;
 </details>
@@ -3232,12 +3232,12 @@ And it is only this *samyoga*, which obtains between inseparable *(ayutasiddha*)
 तथा सम्बन्ध-विमर्शे दर्शयिष्यामः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 hence, the question whether the relation of consciousness with objects is samyoga or samavāya, proceeding as it does on the assumption that samavaya is a separate entity, does not arise. In the section dealing with relation (sambandhavimarśa),[^125_197] we will presently show how inherence (samavāyā) could be brought under conjunction *(samyoga*).
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^125_197]: The section dealing with the relation of the finite soul to the Infinite Self is included in the portions of Atmasiddhi lost. Already, on an earlier occasion, reference has been made to this section. Vide p. 49.
 </details>
@@ -3253,7 +3253,7 @@ hence, the question whether the relation of consciousness with objects is samyog
 ज्ञानादूरत्व-प्रयुक्तो व्यवहार-क्षमता-लक्षणो वा परः प्रकाशः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Or, *prakasa* may be understood in a different sense as denoting the capacity to initiate thought and discussion-a capacity dependent upon the quality of not being remote from consciousness.
 </details>
@@ -3274,7 +3274,7 @@ Or, *prakasa* may be understood in a different sense as denoting the capacity to
 चक्षुः-सन्निकृष्ट इव कालिन्दी-पयसि रूप-रसादयः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P126]] Even when its causal conditions are present in their entirety, either on account of the presence of obstructing factors, or on account of the absence of the capacity for being manifested, *prakāṣa* does not arise in the other qualities of the soul (besides its consciousness), such as being all-pervasive and being unattached, and in the body, senses and the like; just as the colour, taste and the like of the water of the Jamna, which is in contact with the eye, are not manifested.
 </details>
@@ -3293,7 +3293,7 @@ Or, *prakasa* may be understood in a different sense as denoting the capacity to
 करणैः प्रतिपद्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.41 Hence, for the reasons mentioned above, the self has consciousness for its structure and consciousness for its nature. The self cognises the rest with the aid of the senses.
 </details>
@@ -3323,7 +3323,7 @@ The examples of sukha etc. deduced by the purvapaksin not apposite.
 तद् अपि गुणवृत्तापरिज्ञानेन; यतः -   
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.42 Even the charge levelled against us, namely, that consciousness, being a special quality of the soul, must, on the analogy of pleasure *(sukha*) and the like, be an occasional quality proceeds from complete ignorance of the true nature of qualities.  
 </details>
@@ -3349,7 +3349,7 @@ The examples of sukha etc. deduced by the purvapaksin not apposite.
 स्व-रूपोपाधिर् आत्मनः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For the qualities which are dependent upon the very being of anything will last as long as their substrate lasts;  
 but the knowledge of pleasure and pain is not dependent in this manner upon the very being of the self.
@@ -3373,12 +3373,12 @@ but the knowledge of pleasure and pain is not dependent in this manner upon the 
 तथोपपादितम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It has already been shown how consciousness is responsible for the self being what it is.[^126_198]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^126_198]: This text has been quoted by Vedanta Desika in his *Nyāyasiddhāñjana*. Rangarāmānuja interprets it thus-jñānamatmatve upādhiḥ prayojak amityarthah. Tatasca yavatprayojyam prayojakāvasthānāvasyambhāvāt bodhasya svābhāvikatvādi siddhy ati iti bhavaḥ". See *Nyāyasiddhānjāna*, Buddhipariccheda p. 238.
 </details>
@@ -3401,12 +3401,12 @@ It has already been shown how consciousness is responsible for the self being wh
 इन्द्रिय-सौष्ठव-नाशयोर् एव तद्-भावोपपादनात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Pleasure and pain, on the contrary, are not the qualities of the self;[^126_199] for they have been shown to be no other than the flourishing or decaying state of the senses (vide p 78).
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^126_199]: Surely, this is not his final view on the matter; for in a subsequent passage be declares that certainty, doubt, pleasure and pain are forms of knowledge and consequently, qualities of the self. Here, either he defends a view other than his own or shown off his competency to prove any position (vaibhavavāda). See note 144 on p. 79.
 </details>
@@ -3428,12 +3428,12 @@ Pleasure and pain, on the contrary, are not the qualities of the self;[^126_199]
 साधन-विकलता च निदर्शनस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This point will be further elaborated when establishing that the soul is in its essential nature blissful, a fact signified in) the last word[^126_200] i, e., svatassuki, occurring in the stanza commencing with dehendriya mana prāṇa). Hence, the defect of not possessing the sadhana (means of inference) vitiates the illustrative example.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^126_200]: See note 143 on p. 79.
 </details>
@@ -3455,12 +3455,12 @@ This point will be further elaborated when establishing that the soul is in its 
 राग-द्वेषादयो ऽपि मनोऽवस्था-विशेषाः न साक्षाद् आत्म-गुणाः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P127]] Desire and aversion also[^127_201] are the different states of manas and are not the direct qualities of the self.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^127_201]: When pleasure and pain are shown to be defective as illustrative examples, one may cite desire and aversion instead. Here it is shown that these fare no better, for they too are equally liable to be charged with the defect of not possessing the . sādhya.
 </details>
@@ -3489,12 +3489,12 @@ This point will be further elaborated when establishing that the soul is in its 
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, it is learnt from the scripture: "Desire, will, doubt, faith, steadfastness, lack of steadfastness, contempt, conjecture *(*dhiḥ), fear-all this is truly manas"[^127_202]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^127_202]: *Brh*. I v. 3 and Maitri *up*. *VI* 30.
 </details>
@@ -3515,12 +3515,12 @@ Indeed, it is learnt from the scripture: "Desire, will, doubt, faith, steadfastn
 गीयते च "इच्छा द्वेषः सुखं दुःखम्" इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This fact has also been stated in the Gita in the verse commencing with the words, "Desire, aversion, pleasure, pain."[^127_203]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^127_203]: How, it may be asked, does this verse from the Gita declaring that desire and aversion constitute the *kṣetra* bear testimony to the view that they are the qualities of manas? Possibly the author thinks that once this verse excludes the possibility of their being the qualities of the self, it could be shown, on the strength of the Bhadaranyaka text, 'etat sarvam mana eva,' that they belong to manas.
 </details>
@@ -3548,12 +3548,12 @@ Definition of sarira (body) according to the siddhāntin
 "चेतना-धृतिर्" इति क्षेत्र-लक्षणम् ऐकपद्येन ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As the expression cetanadhṛtiḥ (occurring in this stanza) is one word, it is the definition of *kṣetra* (body).[^127_204]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^127_204]: Analysing the expression cetanadhṛtih into cetanayā dhṛtih, Yāmunācārya arrives at rhe meaning 'a collection supported by consciousness.' But in the *Gita Bhāṣya*, Rāmānuja splits it into cetanasya *adhṛtih* and interprets it to mean 'a collocation which has sprung up as the seat of the soul (who enjoys pleasure and pain and who seeks worldly experience or liberation therefrom)'. On either interpretation. *cetanadhṛtih* denotes only the body.
 </details>
@@ -3574,7 +3574,7 @@ As the expression cetanadhṛtiḥ (occurring in this stanza) is one word, it is
 चेतनया ध्रियमाणः सङ्घातो हि देहः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The body is, in fact, the collection (of the primal elements) which is supported by consciousness. 
 </details>
@@ -3591,7 +3591,7 @@ The body is, in fact, the collection (of the primal elements) which is supported
 स्व-वृत्त्य्-अनुगुण--चैतन्य-मात्राद् एव प्रवर्तमानं क्षेत्रम् इति यावत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It amounts to stating that the body is what enters on its activities only with the aid of consciousness appropriate thereto.
 </details>
@@ -3618,12 +3618,12 @@ It amounts to stating that the body is what enters on its activities only with t
 इत्य्-आदि-निर्देशः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why descriptions such as the following are found in the *Antaryāmi* Brāhmaṇa-"..... for whom the earth is body...for whom the water is body...for whom the soul is body..."[^128_205]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^128_205]: *Brh*. *up.* III, vii.
 </details>
@@ -3646,12 +3646,12 @@ That is why descriptions such as the following are found in the *Antaryāmi* Br�
 इति च पुराणे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Such descriptions are met with in the purānas also,-"All these constitute His body"[^128_206].
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^128_206]: *Vtṣṇu* Purana, I, 22, 86. yani mürtänyamurtani yanyatranya'ra vā kvacit | santi vai vastujātāni tāni sarvāņi tadvapuḥ. II
 </details>
@@ -3676,7 +3676,7 @@ The significance of dhiḥ' occurring in the sruti texts cited above.
 न ज्ञप्ति-विषयम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (The upaniṣadic passage quoted above reckons dhiḥ, which is obviously a quality of the soul, as one among the properties not belonging to the soul. Hence, the objector asks) what is meant by dhiḥ (in that text)? (The reply is) it means conjecture (utprekṣa), and does not have knowledge for its significance.
 </details>
@@ -3703,7 +3703,7 @@ The significance of dhiḥ' occurring in the sruti texts cited above.
 तस्याम् एव श्रुतौ श्रूयमाणत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P128]] For in the same upaniṣad it has been declared that knowledge is an essential quality of the soul.
 </details>
@@ -3726,12 +3726,12 @@ The significance of dhiḥ' occurring in the sruti texts cited above.
 इति च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, the scriptural texts assert.-"There is no cessation of the knowing of a knower (because of his imperishability)",[^128_207] "There can be no cessation of the seeing of a seer, because of his imperishability."[^128_208]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^128_207]: *Brh*. *up*. IV, three, 30.
 [^128_208]: *Brh*. *up*. *IV,* iii, 23.
@@ -3758,7 +3758,7 @@ Indeed, the scriptural texts assert.-"There is no cessation of the knowing of a 
 इति दर्शयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This scriptural text, which establishes that there can be no destruction of knowledge for the very reason that the knower is imperishable indicates hat knowledge is dependent upon the very being of the knower.
 </details>
@@ -3783,12 +3783,12 @@ This scriptural text, which establishes that there can be no destruction of know
 +++(अविनाशि-दृष्टेर् एव)+++ हेतोश् च +++(दृष्टि-)+++साध्य-समत्वापत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is not right to contend that (in the text in question) the seer *(draṣṭā*) is taken as a qualification of seeing (*drști*), i.e., it is not right to interpret the text thus-'There can be no destruction of seeing which is no other than the seer'); because, in that event, there would be impropriety in the use of the masculine gender, and because the *hetu* would come to be identical with the *sadhya* (i.e., there would be no *hetu* worth the name).[^128_209]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^128_209]: Two difficulties stand in the way of taking *draṣṭā* as a qualification of *dṛşti-* (i) If *draṣṭa* were to qualify dṛṣți, both the words must be in the same gender; but *draşta* is masculine, while *drşti* is feminine. (ii) Again, on this interpretation, the text would mean-There can be no destruction of seeing which is no other than the seer because it does not perish.' Clearly, it is vitiated by *petitio principii*.
 </details>
@@ -3812,12 +3812,12 @@ It is not right to contend that (in the text in question) the seer *(draṣṭā
 दृष्टि-पदस्यासमाधेयम् अहेतुत्वम्, स्व-पक्ष-हानिश् च +++(आगन्तुक-ज्ञान-वादिनः, ज्ञानात्मवादिनश् च)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P129]] Even if the term dṛṣṭi aims at revealing the very essence of the soul, the charge of there being no *hetu* is unanswerable.[^129_210] Moreover, it would amount to the abandoning of your position.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^129_210]: If the term *drşti*, whose gender does not vary in accordance with that of the object which it qualifies (niyatalinga), is taken as an adjective qualifying draṣṭā, the grammatical difficulty may be got over; but the fallacy of *petitio principii* still remains.
 </details>
@@ -3849,7 +3849,7 @@ It is not right to contend that (in the text in question) the seer *(draṣṭā
 युक्तं हेतुतया व्यपदेष्टुम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is but right to adduce as *hetu* the proposition that the soul is eternal-a proposition established by several incontrovertible arguments and supported by the šāstras.
 </details>
@@ -3873,7 +3873,7 @@ It is but right to adduce as *hetu* the proposition that the soul is eternal-a p
 प्रभेव च प्रदीपे ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 When an object exists, whatever depends upon the very being of that object cannot but exist; even as yellowness of light cannot but exist when gold or the lamp exists.
 </details>
@@ -3910,7 +3910,7 @@ References to origination of knowledge, its loss, doubt, certainty and the like 
 संसारापवर्गावास्थयोर् न जातुचिद् विपरिलोपो विद्यत इति ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, this is the true meaning (of the text under consideration)-at no time, whether in the state of worldly existence or that of release is there cessation of knowledge, which is an essential feature of the soul, and which, as a result of its diverse forms of relation with different objects, external and internal, acquires different names, such as seeing, smelling, tasting, speaking, hearing, reflecting, touching and conceiving, and which shines of its own accord.
 </details>
@@ -3943,12 +3943,12 @@ Therefore, this is the true meaning (of the text under consideration)-at no time
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (The scriptures declare): "Just as a lump of salt, without any distinction of parts, whether they be not-inner or (they be) not-outer,[^129_211] is filled right through with the same taste, even so this soul, right through, without any distinction of parts, is constituted of knowledge *(prajñanaghana)*; ".. by his own luminosity, by his own light":[^129_212] "O King", said he, "this atman is self-luminous"[^129_213]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^129_211]: *Brh up*. VII, v. 13. This text enumerates the parts of the lump of salt in this negative fashion for two reasons :-(1) If the positive mode of expression viz., inner and outer parts, were used, parts in the middle region would be left out. The negative expressions secure exhaustion.. (2) Again, as the soul is niravayava (partless), the analogy of the lump of salt would be in order only if it uses the negative expressions,
 [^129_212]: *Brh*. *up.* VI, iii, 9.
@@ -3985,12 +3985,12 @@ Therefore, this is the true meaning (of the text under consideration)-at no time
 इति च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The Chandogas say that even in the state of release "The seer sees neither death nor sickness, nor the evil in the world. Verily, the seer perceives all.";[^129_214] "The jiva enjoys not thinking of the body cast behind in the midst of his kin"[^129_215]; "He who, with the aid of manas, the celestial eye, experiences all enjoyments and feels joyous"[^129_216].
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^129_214]: Chand. up. VII xxvi, 2.
 [^129_215]: Chand. *up*. VIII, xii 3.
@@ -4026,7 +4026,7 @@ Though the soul is selfluminous, there is need of scripture to make its nature c
 बोध-स्वभावताम् अस्य द्रढयन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P130]] And other texts like the following- "The puruşa does know things, but he fails to know what he ought to understand"—which declare that even in the state when all the senses are destroyed knowledge belongs to the soul strongly affirm that knowledge belongs to the soul.
 </details>
@@ -4051,12 +4051,12 @@ Though the soul is selfluminous, there is need of scripture to make its nature c
 इत्यादि च पुराणे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Statements like the following are found in the purāņas also-"The soul is constituted of bliss and jñāna and is undefiled."[^130_217]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^130_217]: *Vişnu-*Purana, VI, vii, 22.
 </details>
@@ -4079,7 +4079,7 @@ Statements like the following are found in the purāņas also-"The soul is const
 इत्यादि इतिहासे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Passages such as the following are found in the itihāsas— "It (the soul), is the light of all lights."
 </details>
@@ -4105,7 +4105,7 @@ Passages such as the following are found in the itihāsas— "It (the soul), is 
 आत्मनः क्रियते तथा ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The revered Saunaka says, 
 
@@ -4131,7 +4131,7 @@ The revered Saunaka says,
 असतः सम्भवः कुतः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 > Again, water or space is not created by the digging of a well. Only that which has all along existed is rendered manifest. How can the non-existent ever come into being? 
 </details>
@@ -4154,12 +4154,12 @@ The revered Saunaka says,
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 > Likewise, qualities, such as jñāna, are not created but only manifested by the destruction of evil qualities *(heyaguna*); for, in truth, they are the eternal qualities of the soul".[^130_218]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^130_218]: Visnudharmottara 104. 55-57. Compare Vedanta-sútra-sampadyavir- bhāvassvena šabdāt. IV. iv. 1.
 </details>
@@ -4180,12 +4180,12 @@ The revered Saunaka says,
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For this very reason the Sūtrakāra says, "That is why (the individual soul is) a knower", [[^130_219]]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^130_219]: *Vedanta*-sútra II i 19.
 </details>
@@ -4206,7 +4206,7 @@ For this very reason the Sūtrakāra says, "That is why (the individual soul is)
 (इति धर्म-भूत-ज्ञान-नित्यत्वस्य श्रुत्यादिभिः प्रतिष्ठापनम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (इति धर्मभूतज्ञाननित्यत्वस्य श्रुत्यादिभिः प्रतिष्ठापनम्)
 </details>
@@ -4226,12 +4226,12 @@ For this very reason the Sūtrakāra says, "That is why (the individual soul is)
 तत्-तद्-विशेष-भाजि चैतन्ये वा +++(निश्चय-संशयादि-व्यवहार-भेदः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The usage of the different expressions, doubt (samsaya) and certainty (*niścaya*) and the like[^130_220] has reference either to the different relations of objects to consciousness, which has thus been shown to be the essence of the soul, or to the consciousness that has entered into those relations.[^130_221]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^130_220]: 'And the like' includes pleasure and pain.
 [^130_221]: One does not usually speak of objects with consciousness as being either doubtful or certain. On the contrary, it is knowledge that is described as being either doubtful or certain. Hence the second alternative. See Rangarāmānuja's tika on *Nyayasiddhañana*, p. 274.
@@ -4257,12 +4257,12 @@ The usage of the different expressions, doubt (samsaya) and certainty (*niścaya
 इत्यादिः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P131]] Indeed, certainty is the close conjunction of consciousness with a single object. Loose conjunction of the same with several objects simultaneously constitutes doubt.[^131_222]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^131_222]: \* Drḍbasamyogah samŝayah is the reading found in all manuscripts and printed books. The correct reading is adrḍha samyogah, See *Nyaya* Parisuddhi, Memorial Edition, page 30. When we are in doubt as to whether the distant object is a post or a person, consciousness is in conjunction with two objects-the post and the person. As two mutually contradictory presentations cannot be given simultaneously in a single cognition, some maintain that in the state of doubt there are really two cognitions ; and that these arise in such a quick succession that they appear to be almost simultaneous. On this view, the conjunction of consciousness with the object is *adɲậha* (unsteady). Even on the view that in the state of doubt there is but a single cognition presenting two objects simultaneously, the conjunction of consciousness with the objects may be characterised as adraha. Here adṛdhasamyoga will mean 'conjunction involving mutual contradiction'. See Nyaya-Parisuddhi, Memorial edition, p. 30.
 </details>
@@ -4283,7 +4283,7 @@ The usage of the different expressions, doubt (samsaya) and certainty (*niścaya
 इति ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It has already been stated that what is called knowledge is the conjunction of the object with consciousness which is an attribute of the soul.
 </details>
@@ -4303,7 +4303,7 @@ It has already been stated that what is called knowledge is the conjunction of t
 चैतन्येन हि तस्य संयोगः, बाह्य-प्रकाशवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be said that since conjunction exists in both (the object and consciousness), the object also would have to be considered the knower. For conjunction with the object is not met with in the object itself. Indeed, the object is in conjunction with consciousness, as with external light.
 </details>
@@ -4326,7 +4326,7 @@ It cannot be said that since conjunction exists in both (the object and consciou
 न घटादेः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Although illumination is only relation with light, the source of light alone, such as the sun, rather than the pot and the like is considered to be the manifester.
 </details>
@@ -4350,7 +4350,7 @@ Although illumination is only relation with light, the source of light alone, su
 "स एव जानाती"त्य् उपपद्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it be suggested that in as much as light is dependent upon the sun, the latter alone is considered the possessor of this quality (light) and that the manifestation of other objects is due to the conjunction with this quality, (we reply) if that be so, in the present case also, the description 'He knows' legitimately applies only to the self who gets into contact with objects through the aid of consciousness, in as much as the latter is his quality.
 </details>
@@ -4375,7 +4375,7 @@ If it be suggested that in as much as light is dependent upon the sun, the latte
 अन्यत् +++(वस्तु)+++ तु निमित्त-भेदानुसारेण जानाति, न जानाति चेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 From all this it has to be concluded that the soul has certainly consciousness for its essential nature, and is aware of itself at all times; and that in regard to other objects (besides itself), owing to various causal conditions, it has to be said 'He knows', 'He does not know'.
 </details>

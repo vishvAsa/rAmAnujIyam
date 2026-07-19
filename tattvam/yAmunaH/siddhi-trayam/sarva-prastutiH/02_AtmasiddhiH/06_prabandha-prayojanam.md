@@ -1,7 +1,7 @@
 +++
 title = "०६ प्रबन्ध-प्रयोजनम्"
 +++
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The special features of this treatise
 </details>
@@ -11,7 +11,7 @@ The special features of this treatise
 
 तद् एवम् अनवसित-विशेष-विमर्शक-जन- विमति-दर्शनात्, 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Noticing the conflicting views of inquirers who have not determined anything conclusively,
 </details>
@@ -35,7 +35,7 @@ Noticing the conflicting views of inquirers who have not determined anything con
 न निर्णियेतेति  
 तत्-प्रतिबोधायेदम् आरभ्यते ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 not knowing the strength and weakness of the proofs of the respective views, and entertaining doubts therefrom, wise men will be unable to secure mokşa so long as the individual self and the Supreme Self are not understood in respect of their nature, the pramaņas by which they are established, their relation (to each other), the attainment (of mokşa by the individual self), and also of the means thereto. For this reason, this work is begun to make these things clear.
 </details>
@@ -56,7 +56,7 @@ not knowing the strength and weakness of the proofs of the respective views, and
 यद्यपि भगवता बादरायणेन
 इदम्-अर्थान्य् एव सूत्राणि प्रणीतानि,  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Having the same end in view, aphorisms (sūtras) were composed by the venerable Badarayana;
 </details>
@@ -75,12 +75,12 @@ Having the same end in view, aphorisms (sūtras) were composed by the venerable 
 विवृतानि च परिमित-गम्भीर-भाषिणा भाष्यकृता  
 विस्तृतानि च तानि गम्भीर-न्याय-सागर-भाषिणा भगवता श्रीवत्साङ्क-मिश्रेणापि ;  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and these aphorisms (Brahma Sutras) have been interpreted by the Bhāṣyakāra[F7_31a] (Dramiḍāchārya) whose exposition is concise and profound; and they have been elaborately explained by the venerable Srivatsanka Misra who set forth an ocean of elegant and incisive and forthright rules of interpretation (nyāyas).
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Note</summary>
 
 
 [F7_31a]: Dr. Van Buitenen in his edition of Vedartha-sangraha, p. 24. states 
@@ -113,6 +113,23 @@ Evidently, the expression sitasita (good, bad and partly good and partly bad and
 "विवृतानी"ति । परिमितत्वं शब्दसङ्क्षेपः । गभीरत्वम् अर्थगाम्भीर्यशालित्वम् । द्रमिडभाष्यकृद् द्रमिडाचार्यसञ्ज्ञकः छान्दोग्यव्याख्यानस्य वाक्याभिधस्य टङ्काचार्यापराभिधान-ब्रह्मनन्दिकृतस्य भाष्यकर्ता । ब्रह्मसूत्राणाम् अपि बाष्यं कृतम् अनेनेति एतच्-छ्रीसूक्तिसन्दर्भाद् अवगम्यते । "विस्तृतानि चे"ति । तानि द्रमिडाचार्यकृत-ब्रह्मसूत्रभाष्यवाक्यानि । "विवरणग्रन्थे" इति शेषः । तानि ब्रह्मसूत्राणि वा । श्रीविष्णुपुराणव्याख्याने विष्णुचित्तीये विवरणवाक्यानि समुद्धृतानि सन्ति ।
 </details>
 
+<details><summary>उत्तमूर्-वीरराघवः</summary>
+
+१. अत्र भगवद्-बोधायनानुक्तिस् स्वयं तद्-वृत्तेस् साक्षाद् अदृष्टत्वात् स्यात् ।  
+अत एव हि स्वयं सूत्र-भाष्यं निबन्धुकामैर् अप्य्  
+एभिर् नूनं तत्-संपादनार्थ-विलम्बेन स्वान्त्य-समये समापतिते  
+श्री-भगवद्-रामानुज-मुखेन तत् प्रतीक्षितम् आसीत् ।  
+ते च स्वान्तेवासि-श्री-कूरेश-सहिताः उत्तरेषु क्वचित् कथञ्चिद् बोधायन-वृत्तिं समग्रां समीक्ष्य  
+द्रमिड-भाष्ये तद्-ऐकरस्यम् अनुभूय  
+श्री-भाष्यं प्राणैषुर इतीतिवृत्त-विदः ।  
+सूच्यते चेदम् आदौ श्री-भाष्ये,
+
+> भगवद्-बोधायन-कृतां विस्तीर्णां ब्रह्म-सूत्र-वृत्तिं  
+> पूर्वाचार्यास् संचिक्षिपुः ।  
+> तन्-मतानुसारेण सूत्राक्षराणि व्याख्यास्यन्त
+
+इति ।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -121,12 +138,12 @@ Evidently, the expression sitasita (good, bad and partly good and partly bad and
 तत्-प्रतिपत्तये युक्तः प्रकरणप्रक्रमः ॥ 
 (इत्युपोदघातप्रकरणम्) 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nevertheless, as the understanding of persons has been misled by faith in the various writings, good and bad and partly good and partly bad, of Acarya Ṭanka, Bhartṛprapanca, Bhartṛmitra, Bhartṛhari, Brahmadatta, Sankara, Srivatsanka,[F8_31c] Bhaskara, and others; and as persons do not know things as they are and even understand them erroneously, the undertaking of this work is but proper for a right knowledge of categories. 
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Note</summary>
 
 [F8_31c]: It is noteworthy that reference is here made to two thinkers with almost identical names-a Srivatsanka Misra, and a Srivatsanka; of these the former is affiliated to the visistadvaita school and is applauded as having laid down a wealth of elegant, incisive and forth-right rules of inter-pretation; while the latter belongs to a rival school of thought.
 </details>
@@ -139,6 +156,14 @@ Nevertheless, as the understanding of persons has been misled by faith in the va
 तत्प्रतिपत्तये युक्तः प्रकरणप्रक्रमः ॥ 
 (इत्युपोदघातप्रकरणम्) 
 </details>
+
+<details><summary>उत्तमूर्-वीरराघवः</summary>
+
+भगवता श्री-वत्साङ्क-मिश्रेणेति पुरस्कृतान्  
+मिश्राद् अन्य एव सितासित-निबन्धकारि-पङ्क्ति-निविष्टः श्री-वत्साङ्क इति चिन्त्यते ।
+</details>
+
+
 <details><summary>तिरु-नाङ्गूर्-अण्णङ्गरार्यः</summary>
 
 "तथापी"ति । अयं भावः यद्यपि पूर्वाचार्यप्रब्न्धेष्व् अध्यात्मतत्त्वं सपरिकरं निरूपितम् एवास्ति, अथापि पाश्चात्यैः ब्रह्ममीमांसादिव्याख्याच्छलेन नानामतानां प्रवर्तितत्वाद् आ च अप्रामाण्यहेत्ववधारणात् तद्ग्रन्थेष्व् अपि श्रद्धायाः सिद्धान्तग्रन्थेष्व् इव सम्भवात् तेषु च विप्रतिपत्तिबाहुल्येन विचलितबुद्धयो नाञ्जसा तत्त्वज्ञानं प्राप्नुयुर् इति तत्तन्मत-सारासारविवेकोपयोगि-तत्तन्मत-परीक्षात्मक-प्रकरणारम्भ आवश्यक एवेति । आचार्य-टङ्कादिषु निर्दिष्टेषु केचित् सिद्धान्तिनः, अन्ये तु मतान्तरानुयायिनः स्युः । तत्प्रबन्धेषु च सितासितत्वम् अस्फुटप्रतिपादकत्वम् अन्यथाप्रतिपादकत्वं च यथासम्भवं योज्यम् । यद्वा टङ्क-श्रीवत्साङ्काव् अपि अत्र निर्दिष्टौ मतान्तरस्थौ वाक्यविवरणकर्तृभिन्नौ स्याताम् । वाक्यकर्तुर् टङ्कसञ्ज्ञा च वेदार्थसङ्ग्रटीकातो ऽवगम्यते । "तत्प्रतिपत्तये चे"ति । केचिद् अस्फुटतयाऽर्थतत्त्वम् अवगच्छन्ति, केचित् पुनः केनापि हेतुना मतान्तरग्रन्थेषु श्रद्धालवो ऽत एव वञ्चितबुद्धयो ऽन्यथैव प्रतिपद्यन्त इति स्फुटप्रतिपत्तये ऽन्यप्रबन्धानां सितासितत्वप्रतिपत्तये च प्रकरणारम्भो युक्त एवेत्य् आशयः । पूर्वाचार्यप्रबन्धानां शास्त्ररूपाणां प्रकरणम् इदम् आत्मसिद्ध्यादीति च हार्दम् । प्रकरणं चेदं शारीरकमीमांसायाः, न्यायतत्त्वशस्त्रस्य च । शास्त्रैकदेशार्थप्रतिपादनतत्परत्वे सति शास्त्रार्थप्रतिपत्त्युपयोगि (विरोधिमतनिरासादि) कार्यान्तरव्यापृतिमत्त्वं प्रकरणत्वम् । तद् उक्तं 

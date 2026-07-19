@@ -1,7 +1,7 @@
 +++
 title = "०७ जीवात्म-निरूपणं"
 +++
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Determination of the nature of the individual self
 </details>
@@ -16,7 +16,7 @@ Determination of the nature of the individual self
 नित्यो व्यापी प्रतिक्षेत्रम्  
 आत्मा भिन्नः स्वतः सुखी ॥ ३ ॥
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The view to be defended here is that the individual self is different from the body, the senses, manas, praņa and intellect; (it) does not depend on anything else (for its knowledge); (it) is eternal, subtle distinct in each body, and is in its essential nature, blissful. (St. 3)
 </details>
