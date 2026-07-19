@@ -2,7 +2,7 @@
 title = "०४ मत-समीक्षा - जीवात्मनि"
 +++
 ## स्वरूपे
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Conflicting views concerning the finite self.
 </details>
@@ -10,7 +10,7 @@ Conflicting views concerning the finite self.
 
 तत्रास्मिन्न् आत्मनि परस्मिंश् चानेक-विधा विप्रतिपत्तयः तीर्थकराणाम् ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Eminent teachers hold many conflicting views concerning the finite self and the Highest Person.
 </details>
@@ -30,7 +30,7 @@ Eminent teachers hold many conflicting views concerning the finite self and the 
 तद् यथा -  
 आत्म-विषये तावत् देहम् एव केचिद् आत्मानम् आचक्षते ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 With regard to the individual self, some maintain that it is the body itself;'
 </details>
@@ -48,7 +48,7 @@ With regard to the individual self, some maintain that it is the body itself;'
 
 इन्द्रियाण्य् अन्ये ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 others that it is the senses;
 </details>
@@ -61,7 +61,7 @@ others that it is the senses;
 
 मन इत्य् अन्ये ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 others, that it is mind (manas);
 </details>
@@ -80,7 +80,7 @@ others, that it is mind (manas);
 
 प्राणम् अपरे ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 others that it is vital breath (prāṇa);
 </details>
@@ -93,7 +93,7 @@ others that it is vital breath (prāṇa);
 
 अध्यस्त-ज्ञातृ-भावम् अनहङ्कारं बोध-मात्रम् इतरे ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 still others that it is pure consciousness, which is erroneously supposed, to possess the quality of being a knower and which does not appear in its real state as the 'I'";
 </details>
@@ -115,7 +115,7 @@ still others that it is pure consciousness, which is erroneously supposed, to po
 आगन्तुक-बोध-सुख-दुःखाद्य्-- अ-साधारण-गुणाधारम्  
 अहङ्कार-गोचरम् अपरे ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Others that it is different from body, senses, mind, vital-breath and consciousness and that, like ether and the like, it has a non-intelligent nature, and that it is the substratum of knowledge, pleasure, pain and other adventitious and special qualities, and that it is the object of selfconsciousness."
 </details>
@@ -138,7 +138,7 @@ Others that it is different from body, senses, mind, vital-breath and consciousn
 अन्तः-करणोपधानापादित- राग-द्वेष-सुख-दुःखाद्य्- अ-शिव--गुण-निर्भासम्  
 अनुदितानस्तमित--स्व-रूप--प्रकाशं स्वयञ्-ज्योतिषम् इमम् अभिदधति ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Others again say that it is of the nature of pure consciousness itself, which appears to possess inauspicious qualities, such as love, hate, pleasure, pain etc., produced by the limiting condition of the internal organ, even as a crystal that is in itself white appears however, to possess redness and other qualities imparted to it by certain specific limiting conditions (say, an adjacent red flower); and that the luminosity of its being is neither born nor destroयेd; and that it is selfluminous.[F2_10]
 </details>
@@ -156,7 +156,7 @@ Others again say that it is of the nature of pure consciousness itself, which ap
 
 अन्ये तु ज्ञानानन्द-स्वभावम् ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Others again hold that it has the nature of knowledge and bliss.
 </details>
@@ -176,7 +176,7 @@ Others again hold that it has the nature of knowledge and bliss.
 आश्रयानुकूल्य-प्रतिलब्धानन्द-- सुखादि-व्यपदेश-बोध-विशेष एवास्य स्वाभाविक  
 इत्य् अन्ये ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Still others that its nature is of that knowledge which, on account of its agreeableness to its possessor, acquires the name of bliss and pleasure.
 </details>
@@ -192,7 +192,7 @@ Still others that its nature is of that knowledge which, on account of its agree
 
 
 ## प्रमाणे
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Conflicting views regarding the pramanas by which the finits self is established
 </details>
@@ -201,7 +201,7 @@ Conflicting views regarding the pramanas by which the finits self is established
 
 तथा - अनुमान-समधिगम्यः ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly (with regard to the means of knowledge by which it is established, divergent views have been offered, such as that) it can be known through inference";
 </details>
@@ -219,7 +219,7 @@ Similarly (with regard to the means of knowledge by which it is established, div
 
 आगमैक-वेद्यः ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that (it) can be known only through scripture;
 </details>
@@ -238,7 +238,7 @@ that (it) can be known only through scripture;
 
 मानस-प्रत्यक्ष-वेद्यः ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that (it) can be known through mental perception";
 </details>
@@ -257,7 +257,7 @@ that (it) can be known through mental perception";
 
 ग्राहकतयैव स-कल--विषय-वित्तिषु प्रत्यक्षः ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that (it) is directly known only as the knower in all cognition of objects[F3_13];
 </details>
@@ -276,7 +276,7 @@ that (it) is directly known only as the knower in all cognition of objects[F3_13
 
 ज्ञान--स्व-भावतया ऽनुदितानस्तमित--स्व-रूप--प्रकाशः स्वयञ्ज्योतिः ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that, as it possesses the nature of knowledge, its luminosity is neither born nor destroयेd and that it is self-luminous.
 </details>
@@ -298,7 +298,7 @@ that, as it possesses the nature of knowledge, its luminosity is neither born no
 
 इति ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Though possessed of this nature (i-e though self-luminous), with the aid respectively of scripture, inference, and yogic perception, it is directly perceived in its true nature as having a character different from everything other than itself, clearly, more clearly, and finally most clearly and immediately.
 </details>
@@ -318,7 +318,7 @@ Though possessed of this nature (i-e though self-luminous), with the aid respect
 
 तथा - परममहान् ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly (with regard to its size, the rival views are that) it is infinitely big;
 </details>
@@ -337,7 +337,7 @@ Similarly (with regard to its size, the rival views are that) it is infinitely b
 
 अणुपरिमाणः ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that (it is) atomic in size;
 </details>
@@ -356,7 +356,7 @@ that (it is) atomic in size;
 
 शरीरपरिमाणः ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that (it is) of the same size as the body;
 </details>
@@ -376,7 +376,7 @@ that (it is) of the same size as the body;
 स्वतः परिमाण-रहितोऽपि  
 व्याप्य-वस्तु-परिमिति-कृत-परिच्छेद इति ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that, though in itself devoid of magnitude, it is limited to the size of the body pervaded by it.
 </details>
@@ -396,7 +396,7 @@ that, though in itself devoid of magnitude, it is limited to the size of the bod
 
 व्याप्तिरपिचैतन्यमात्रेण ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, concerning the manner of its pervasion, the different theories are that it pervades only by its intelligence
 </details>
@@ -415,7 +415,7 @@ Again, concerning the manner of its pervasion, the different theories are that i
 
 स्वरूपेणेति ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that it pervades by itself.
 </details>
@@ -435,7 +435,7 @@ and that it pervades by itself.
 
 तथा क्षणिकः ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly (with regard to its duration, it has been stated that) it is momentary;
 </details>
@@ -453,7 +453,7 @@ Similarly (with regard to its duration, it has been stated that) it is momentary
 
 यावच्-छरीरोष्म-स्थायी ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it endures as long as the bodily heat lasts;
 </details>
@@ -471,7 +471,7 @@ that it endures as long as the bodily heat lasts;
 
 आप्रकृत-प्रलयावस्थायी ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it exists till the material world is dissolved;
 </details>
@@ -490,7 +490,7 @@ that it exists till the material world is dissolved;
 
 आमोक्ष-स्थायी ; 
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 that it lasts till mokşa is attained;
 </details>
@@ -508,7 +508,7 @@ that it lasts till mokşa is attained;
 
 कूटस्थो नित्य इति ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that it is unchanging and eternal.
 </details>
@@ -528,7 +528,7 @@ and that it is unchanging and eternal.
 
 सर्वशरीरेष्व् एकः ;  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly (with regard to its number), it is maintained that it is one and the same in all bodies[F3_14];
 
@@ -549,7 +549,7 @@ Similarly (with regard to its number), it is maintained that it is one and the s
 प्रतिक्षेत्रं नाना-भूत  
 इति च तथा तथा प्रतिपद्यन्ते ।  
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that it is different in each body.
 </details>

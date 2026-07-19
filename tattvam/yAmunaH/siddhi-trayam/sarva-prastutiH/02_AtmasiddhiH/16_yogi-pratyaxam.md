@@ -12,7 +12,7 @@ title = "१६ योगि-प्रत्यक्षम्"
 तद्-उपपादन-न्यायानुगताः पूर्वानुमान-भेदाः, वचनानि चाद्रियन्ते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P132]] Although the soul shines forth as having consciousness for its essential nature, yet, like the fish which moves about in the deep lake or the milk mingled with water, the soul does not shine forth clearly and distinctly. That is why the several arguments which have been advanced by the teachers of old, and which are consistent with the reasons employed for demonstrating the true nature of the soul, and the scriptural texts are held in esteem.
 </details>
@@ -36,12 +36,12 @@ title = "१६ योगि-प्रत्यक्षम्"
 निरोधाभ्यास-पुट-पाक-- निर्धूत-रजस्-तमः-कलङ्क-- सत्त्वोद्रेक-समुत्थ-- स्वेतर-सकल-विषय-वैलक्षण्यापरोक्ष-ज्ञानाय प्रयतन्ते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Not deriving any satisfaction from these, (for, after all, they could only lead to *paroksa* jñāna), persons who have got rid of the veiling obscurities and evils by the practice of *yama* (restraint) *niyama* (discipline) and other means of yoga[^132_223] endeavour to secure immediate knowledge (*aparokṣa* jñāna) of the distinctness of the self from everything other than itself a knowledge which arises from (1) the removal of impurities, such as, tamas and rajas, by the process of purification by fire (*puṭapāka)*, in other words, by the practice of mental control, and (ii) the predominance of the sattva quality.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [^132_223]: Yama (restraint), niyama (discipline), asana (posture), prāņāyāma (control of breath), pratyāhāra (withdrawal of senses from their objects), dhāraṇā— (concentration, dhyana (meditation), and samadhi (realisation), constitute the eightfold *(aṣtānga*) yoga. Of these, the first, namely, yama signifies non-injury (abimsa), truth-speaking (satya), abstinence from stealing (asteya), brahmacarya and giving up of possessions (aparigraha). Niyama denotes the cultivation of virtues, such as, purity (šauca), contentment (samṁtosa), fortitude (tapas), study (svadhyāya) and devotion to God (Isvara-pranidhana). See *Yoga*-sutra II, 28-32.
 </details>
@@ -65,7 +65,7 @@ Not deriving any satisfaction from these, (for, after all, they could only lead 
 इति न तद् उपपादनायाद्य प्रयतते ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since the fact that this immediate knowledge arises at the culmination of the, highest stage of concentration is not called in question by any of the rival disputants, no attempt is here made to establish it.
 </details>
@@ -89,7 +89,7 @@ Since the fact that this immediate knowledge arises at the culmination of the, h
 प्रत्यक्षेण **प्रकाश्यते** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.43 Thus, with the aid of scriptural testimony, inference and perception resulting from the practice of yoga, the soul which is in itself self-luminous, is manifested more clearly and explicitly.
 </details>
@@ -111,7 +111,7 @@ Since the fact that this immediate knowledge arises at the culmination of the, h
 एवम् आत्मनि प्रमाण-परीक्षा वृत्ता ॥४३ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Thus, the examination of proofs regarding the self is completed. (43)
 </details>

@@ -9,7 +9,7 @@ title = "०२ प्रतिज्ञा"
 अतस् तत्-परिशुद्ध्य्-अर्थम्  
 आत्म-सिद्धिर् विधीयते    ॥ २  ॥
 </details>
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 There are many conflicting views concerning the finite self and the Infinite Self. With a view to making the matter clear, a book named Atmasiddhi. (the determination of the real nature of the soul) is written. (St. 2)
 </details>

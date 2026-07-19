@@ -15,7 +15,7 @@ The theory that Prāņa is the soul.
 अस्तु तर्हि प्राण एवात्मा,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Then, let vital breath (prāṇa) be (called) the soul.
 </details>
@@ -37,7 +37,7 @@ Then, let vital breath (prāṇa) be (called) the soul.
 तद्-अन्वयिनि शरीरे सात्मकत्व-प्रतीतिः, तद्-विरहिणि निर्-आत्मकत्व-प्रतीतिश् चोपपद्येयाताम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If that were so, the apprehension of the body, which is associated with it (prāṇa), as one which is connected with the soul, and the apprehension of the body, where there is absence of praṇa, as one which is not associated with the soul will both be appropriate.
 </details>
@@ -53,7 +53,7 @@ If that were so, the apprehension of the body, which is associated with it (prā
 गत्वर-स्वाभाव्यात् प्राणस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Departing from the body, going to other worlds, and wandering in other bodies would be even more appropriate in-as-much as it is prāṇa's nature to move.
 </details>
@@ -68,7 +68,7 @@ Departing from the body, going to other worlds, and wandering in other bodies wo
 इतरथा परम-महतो ऽमहतश् +++(→अणोः)+++ च स्पर्श-विरहिणः परिस्पन्दानुपपत्तेर् उत्क्रान्ति-गत्य्-आगति-श्रुतयो भाक्ताः स्युः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Otherwise (ie, if prāṇa is not the soul) scriptural passages referring to departing, going and coming would have to be given a secondary significance,  
 because movement cannot reasonably belong to that which is infinitely big and to that which is (not) big but devoid of contact.
@@ -107,7 +107,7 @@ Refutation of this theory
 प्राणस्य चैतन्यानुपपत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 22\. This (theory) too is not correct. Intelligence cannot belong to prāņa, because, like external air, it is only air,
 </details>
@@ -130,7 +130,7 @@ Refutation of this theory
 सुषुप्तौ प्राणस्य वृत्तिमत्त्वाच् च +++(नात्मत्वम्)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and because in the state of deep sleep even when the soul is devoid of activity, prāņa possessess activity.
 </details>
@@ -146,12 +146,12 @@ and because in the state of deep sleep even when the soul is devoid of activity,
 सुप्तस्यापि सप्त-धातु-भावेनाशित-पीत-द्रव्य-परिणामः ; श्वास-प्रश्वासौ च ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, it is only on account of its activity that even in the case of the person who is asleep, transformation of substances that have been eaten and drunk into the sevenfold tissues of the body (dhātus)[F25_47], inhalation and exhalation take place.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F25_47]: Dhatu (from the root dha, 'to hold') is that which supports or sustains the body. It is usual to mention seven dhatus or tissues of the body-chyle (rasa), blood (rakta), flesh (māmsa), fat (medas), bone (asti); marrow (majja); semen (sukra). Sometimes hair (kesa), skin (tvac), and muscle and tendons (snayu) are added to the list. See Tait, Ar. X 54.
 </details>
@@ -173,7 +173,7 @@ Indeed, it is only on account of its activity that even in the case of the perso
 कौष्ठ्य+++(=जठरादि)+++-मारुतो हि प्राणः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Prana is, indeed, the air which is mixed up with a little fire, water and food, and which resides in the viscera.
 </details>
@@ -196,7 +196,7 @@ Prana is, indeed, the air which is mixed up with a little fire, water and food, 
 घटादिर् इव स्फुटम् अन्-आत्मतया चकास्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This (air) too, being exhaled into and out of the throat, mouth and nostrils, and being sensed, like pots and others similar to it, by the organ of touch, clearly shines forth as the non-soul.
 </details>
@@ -216,7 +216,7 @@ This (air) too, being exhaled into and out of the throat, mouth and nostrils, an
 **प्रयोजयति** दूषणम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, the doctrine that prāna is the soul, being refuted in the same manner in which intelligence has been negatived of the body, [[P26]] does not call for separate disproof.
 </details>
@@ -248,7 +248,7 @@ Further, the doctrine that prāna is the soul, being refuted in the same manner 
 इति न तन्+++(→आत्मोत्क्राक्त्यादि)+++-निर्देशानाम् अ-मुख्यार्थता ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Because the soul is not all-pervasive, even though it is devoid of contact, departing, going and other (activities) conforming to the direction of effort and unseen forces, may appropriately belong to the soul, as (they belong) to manas; hence, the passages declaring these activities as belonging to the soul are not to be taken as carrying a secondary significance.
 </details>
@@ -272,7 +272,7 @@ Because the soul is not all-pervasive, even though it is devoid of contact, depa
 अलम् अधुना ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As this will be taken up again in inquiring into the size (of the soul), let this suffice (for the present).
 </details>

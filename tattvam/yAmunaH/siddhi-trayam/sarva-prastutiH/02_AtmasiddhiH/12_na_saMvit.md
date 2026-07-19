@@ -15,7 +15,7 @@ The Theory that Consciousness is the soul
 भवतु तर्हि संविद् एवाऽत्मा, अ-जडत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 23. Then, let consciousness itself be (taken as) the soul, because it is not non-intelligent.
 </details>
@@ -36,7 +36,7 @@ The Theory that Consciousness is the soul
 जडत्व-प्रतिबद्धं ह्य् अनात्म्यं घटादिषु दृष्टम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The quality of non-soul is found in pots and the like to be concomitant with the quality of being non-intelligent.
 </details>
@@ -58,7 +58,7 @@ The quality of non-soul is found in pots and the like to be concomitant with the
 तद् अपि निवर्तयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The quality of being non-intelligent, which is foreign to consciousness excludes its concomitant (the quality of being non-soul) from consciousness.
 </details>
@@ -80,7 +80,7 @@ The quality of being non-intelligent, which is foreign to consciousness excludes
 सत्तयैव प्रकाशमानत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The quality of being non-intelligent belongs to consciousness, because consciousness shines merely by its own being.
 </details>
@@ -103,7 +103,7 @@ The quality of being non-intelligent belongs to consciousness, because conscious
 येन परायत्त-सिद्धिर् आस्थीयेत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, while it exists, consciousness, unlike jars and the like, does not remain without shining;, if it fails to shine, it may be acknowledged that its shining is dependent upon something other than itself.
 </details>
@@ -124,7 +124,7 @@ Indeed, while it exists, consciousness, unlike jars and the like, does not remai
 (इति संविद्-आत्मत्व-पक्षोपस्थापनम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Thus is the presentation of the view that consciousness is the soul.)
 </details>
@@ -151,7 +151,7 @@ The Bhatta view that Consciousness is insentient.
 विषय-मात्रं प्रथते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Perhaps you may hold the following view: Even when consciousness has arisen, it is the object only which shines forth.
 </details>
@@ -173,12 +173,12 @@ Perhaps you may hold the following view: Even when consciousness has arisen, it 
 तदैवानीलम् अन्-इदं-रूपम् अपि संवेदनं प्रतीमः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 When we have the knowledge "This is blue"[F26_48] we are not at the same time, conscious also of a consciousness, which is not blue and which is different from what may be pointed to by the word 'this'.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F26_48]: In older philosophical works, more especially in Buddhistic writings, it was usual to take nila as an illustration for an object. In later works, ghata does duty for nila.
 </details>
@@ -200,7 +200,7 @@ When we have the knowledge "This is blue"[F26_48] we are not at the same time, c
 इन्द्रिय-सन्निकर्षेणेव विषयः प्रकाश्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Hence, by the very existence of consciousness the object is illumined as in the case of the sense-relation (where the object is brought to light, though the relation itself is not manifested).
 </details>
@@ -218,12 +218,12 @@ Hence, by the very existence of consciousness the object is illumined as in the 
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Immediately after, by noticing therein (in the object) a peculiar illumination,[F26_49] which is adventitious, consciousness is inferred.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F26_49]: According to the Bhāṭṭa School of Mimāmsā, when cognition of an object arises, the latter is affected in a particular way; it becomes illumined, manifested or made known (prakasa-visiṣṭa). It is from this illumination or manifestedness. (prākatya or jnatata) that we infer that knowledge has previously arisen. Thus it is held, that consciousness is not perceived, but is inferred from its result. For a refutation of this view see Vedanta Desika's Tattvamuktā kalāpa, page 394. See also Barvārthasiddhi.
 </details>
@@ -246,7 +246,7 @@ Immediately after, by noticing therein (in the object) a peculiar illumination,[
 (इति संविद्-अनुमेयत्व-पक्षेण तद्-अजडत्वाक्षेपः)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Thus is the objection against the self-luminosity of consciousness by the theory of its inferability.)
 </details>
@@ -263,7 +263,7 @@ Immediately after, by noticing therein (in the object) a peculiar illumination,[
 तन् न ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This view is untenable,
 </details>
@@ -287,7 +287,7 @@ This view is untenable,
 रूपादिवद् अनुपलब्धेः,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 because, unlike colour and other qualities,  
 that illumination, which is an attribute of things  
@@ -316,7 +316,7 @@ is not apprehended even by keen observers.
 उभयाभ्युपेत-संविदैव स-कल-व्यवहारोपपत्तौ च तत्-कल्पनानुपपत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As all worldly experience and usage is explicable solely in terms of consciousness, which is admitted by both of us, it is not proper to posit that (illumination).
 </details>
@@ -343,7 +343,7 @@ As all worldly experience and usage is explicable solely in terms of consciousne
 इति च कदाचित् प्रतिभासः स्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the knowledge of objects be admitted to be devoid of the manifestation of knowledge and knower, sometimes the following experience must occur; 'This is a pot; it is not known whether I know it or not.'
 </details>
@@ -364,7 +364,7 @@ If the knowledge of objects be admitted to be devoid of the manifestation of kno
 न चैवम् अस्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But it does not occur like this.
 </details>
@@ -384,12 +384,12 @@ But it does not occur like this.
 नतरां तत्-पूर्विका तत्र बुद्धि-सिद्धिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In respect of the apprehension of objects, past and future, if there is no speech and no action, the manifestation of such objects cannot be proved by inference. And the manifestation of consciousness which is based on the manifestation of objects would be even more impossible. If there are no speech and action, the manifestation of objects is not established by inference, because it appears to have been known prior to them (speech and action).[F27_50]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F27_50]: Against the view that cognition is inferred from its result, namely, jnātatā, it is urged that, in respect of objects past and future, as we cannot perceive the prākatya, we cannot infer the knowledge of such objects. To this it may be replied that though the jnatata of past and future objects is not perceived, it may be inferred from the speech and action concerning them and that from the jnatata thus inferred, knowledge of those objects can be easily inferred. This reply is unsatisfactory, because if speech and action do not exist, jnātată cannot be inferred, and much less can consciousness of objects, which is based thereon, be inferred; if they exist, they are not found to prove jnātatā, for the objects appear to have been known previously.
 </details>
@@ -414,7 +414,7 @@ In respect of the apprehension of objects, past and future, if there is no speec
 "स्मृतम् अद्य मये"ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To explain-  
 Being prompted by somebody, it is only after concentrating (the mind) and recollecting that a person replies, 'Now it is remembered by me.'
@@ -438,7 +438,7 @@ Being prompted by somebody, it is only after concentrating (the mind) and recoll
 अन्योऽन्याश्रयणापत्तेश् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be maintained that the aforesaid speech itself is the cause of this recollection, because it is a pre-condition of this (speech), and because of reciprocal dependence.
 </details>
@@ -456,7 +456,7 @@ It cannot be maintained that the aforesaid speech itself is the cause of this re
 क इव निर्-अपत्रपः प्रतिजानीते? ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Which shameless fellow will maintain that the knowledge of an object is inferred from statements concerning itself?
 </details>
@@ -477,7 +477,7 @@ Which shameless fellow will maintain that the knowledge of an object is inferred
 (इति संविद्-अनुमेयत्व-निरासः)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Thus ends the refutation of the theory of the inferability of consciousness.)
 </details>
@@ -498,7 +498,7 @@ Which shameless fellow will maintain that the knowledge of an object is inferred
 न तु तत्-सम्बन्ध-निबन्धनः -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, the statements and different properties found in that through whose connection these arise in another object are dependent upon the existence of the former itself and not upon its connection.
 </details>
@@ -525,7 +525,7 @@ Further, the statements and different properties found in that through whose con
 सत्तायां, रूपे च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For instance,  
 the reference to existence arising in the case of earth and the like,  
@@ -550,7 +550,7 @@ does not arise in the case of existence itself through the connection with (anot
 सैवाऽत्मेति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Thus statements, such as, 'it shines forth', and qualities, such as, knowability found in pots and the like, arise from connection with consciousness; and these (statements and qualities) found in consciousness are not dependent on the connection with consciousness, but are dependent on its own being. Hence, consciousness itself (should be considered as) the soul, as it is self-luminous.
 </details>
@@ -573,7 +573,7 @@ Thus statements, such as, 'it shines forth', and qualities, such as, knowability
 अभ्युपगच्छत्य् एवासौ संविदम् ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, whoever admits a knower apart from knowledge admits also consciousness.
 </details>
@@ -595,7 +595,7 @@ Further, whoever admits a knower apart from knowledge admits also consciousness.
 संवेत्तीत्य् उपपद्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, if consciousness were non-existent, the reference to the knower would not be appropriate.
 </details>
@@ -613,7 +613,7 @@ Indeed, if consciousness were non-existent, the reference to the knower would no
 किम् अन्येन कल्पितेन?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If this is so, as it is admitted by both parties, let that (consciousness) itself be the knower. What is the use of that other entity which has been assumed?
 </details>
@@ -634,7 +634,7 @@ If this is so, as it is admitted by both parties, let that (consciousness) itsel
 (इति संविदः स्वयम्-प्रकाशत्वात्मत्व-साधनम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Thus ends the proof of the self-luminosity and soul-nature of consciousness.)
 </details>
@@ -650,7 +650,7 @@ If this is so, as it is admitted by both parties, let that (consciousness) itsel
 > ननु अहं जानामीति ज्ञानातिरिक्तस् तद्-आश्रय-भूतो ऽयम् आत्मा प्रतीयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It may be urged that from the statement 'I know' it is evident that the soul appears to be distinct from, and to be the seat of, consciousness.
 </details>
@@ -673,12 +673,12 @@ It may be urged that from the statement 'I know' it is evident that the soul app
 +++(निर्विकल्पक-सत्ता-मात्र-ग्राहक-)+++ साक्षात्-प्रत्यक्ष इति न शक्यः संश्रयितुम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 True, but as it is determinate (savikalpaka) perception,[[P29]] it cannot be admitted as a valid perception.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 According to the Buddhists, indeterminate (nirvikalpaka) perception merely apprehends the specific individuality of its object (svalakşaņa) and does not grasp its qualifications. This is passive reception of sense impressions. But the sense material thus received is invariably subject to a process of mental elaboration. The forms of thought (vika'pa), which are of five kinds-generality (jāti), quality (guna), action (karma), name (nama), and substance (dravya)—are superimposed on the svalakṣaṇa, so that every object perceived has to appear through those forms. We cannot help perceiving an object otherwise than as belonging to a class, bearing a name, as characterised by an attribute and as related to another substance. This is determinate (savikalpaka) perception. As it makes considerable additions to the material presented by sense, it may be said to distort the real. Hence, the Buddhists think that, strictly speaking, it is not perceptual in character. cf. kalpanāpoda mabhrāntam pratyakşam nirvikalpakam vikalpo vastu nirbhā sādasamvadādupaplavah.
 </details>
@@ -709,7 +709,7 @@ According to the Buddhists, indeterminate (nirvikalpaka) perception merely appre
 +++(पृथक्-)+++तत्त्वम् एव दुर्-उपगमम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Proceeding on the assumption that the knowledge of distinctions is real,  
 that being which is of the nature of luminosity and which is referred to as 'I,'  
@@ -763,7 +763,7 @@ if the latter, it will amount to consciousness itself.
 एष एव प्रकारः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The same line of argument may be adopted in refuting the distinction of the cognised object also.
 </details>
@@ -788,7 +788,7 @@ The same line of argument may be adopted in refuting the distinction of the cogn
 परमार्थ-सती ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Hence, on account of the capacity of the immediately preceding cognition known as vasanā (impressions of previous experience), and on account of beginningless ignorance (avidyā), the self-luminous consciousness alone, which has for its object the erroneously imagined and unreal distinctions of the knower and the known, truly exists.
 </details>
@@ -810,7 +810,7 @@ Hence, on account of the capacity of the immediately preceding cognition known a
 सैवाऽत्मेति सौगताः प्रकटाः प्रच्छन्नाश् च ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This alone is the soul: so say the Buddhists (the manifest ones) as well as the disguised Buddhists (the Advaitins).
 </details>
@@ -832,7 +832,7 @@ This alone is the soul: so say the Buddhists (the manifest ones) as well as the 
 इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As the manifest ones (Buddhists) have said:  
 
@@ -865,7 +865,7 @@ it appears to those whose vision is distorted as if it were divided into the cog
 इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Or as the disguised ones (Advaitins) have said:  
 "The pure principle is not the cause of the world, because it is non-returning;  
@@ -891,7 +891,7 @@ hence, Māyā alone is the mother of the division of the knower and the known."
 (इति संविद्-आत्मत्व-पूर्वपक्ष-प्रकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Thus ends the section presenting the prima facie view that consciousness is the soul.)
 </details>
@@ -910,7 +910,7 @@ hence, Māyā alone is the mother of the division of the knower and the known."
 > क्षणभङ्गिनी प्रतिविषयम् अन्यान्या च संविद् चकास्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Here, the opponent says: Consciousness, which is momentary and different with respect to each object, shines forth.
 </details>
@@ -946,7 +946,7 @@ Here, the opponent says: Consciousness, which is momentary and different with re
 इति कथम् इव प्रत्यभिजानीयात्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If that itself were the soul, how indeed could one recognize, 'I saw this on the previous day and I see it on the next day'?
 </details>
@@ -969,7 +969,7 @@ If that itself were the soul, how indeed could one recognize, 'I saw this on the
 निरालम्बनत्व-प्रतिज्ञायाः प्रत्यक्षादि-सकल-प्रतीति-- बाधित-विषयत्वात् ,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor can this be explained away by the mere difference of objectless cognitions, because the thesis of objectlessness is contradicted by all forms of direct experiences such as perception.
 </details>
@@ -995,7 +995,7 @@ Nor can this be explained away by the mere difference of objectless cognitions, 
 निरालम्बनत्वे च साधनाभावाद् एव साध्यासिद्धेः । +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And if your proof has an object, then by the same logic, all cognitions would have to possess objects; if it is objectless, then because of the absence of proof, the thing to be established cannot be proved.
 </details>
@@ -1019,7 +1019,7 @@ And if your proof has an object, then by the same logic, all cognitions would ha
 इति न व्यावर्ण्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, the refutation of the theory of objectlessness has been detailed in the Purva and Uttara Mimamsa sections, and also in this scripture by establishing the theory of the reality of all cognitions (yathartha-khyati); hence it is not expounded here.
 </details>
@@ -1041,7 +1041,7 @@ Moreover, the refutation of the theory of objectlessness has been detailed in th
 अत एव न +++(अहन्ता-)+++सन्तानाश्रयणेनापि प्रत्यभिज्ञोपपादनं साधीयः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For this very reason, the explanation of recognition even by assuming a series of cognitions (santāna) is not sound.
 </details>
@@ -1066,7 +1066,7 @@ For this very reason, the explanation of recognition even by assuming a series o
 पर-सिद्धान्ताभ्युपगमश् च ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If a stable and synthesizing series (santāna) distinct from the momentary cognitions is accepted, then it would lead to the abandonment of one's own doctrine and the acceptance of the opponent's doctrine.
 </details>
@@ -1087,7 +1087,7 @@ If a stable and synthesizing series (santāna) distinct from the momentary cogni
 अनभ्युपगमे प्रत्यभिज्ञानुपपत्तिः +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is not accepted, then recognition becomes inexplicable.
 </details>
@@ -1109,7 +1109,7 @@ If it is not accepted, then recognition becomes inexplicable.
 ऽन्यस्य प्रतिसन्धान-सम्भवः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, what is experienced by one cannot be remembered by another.
 </details>
@@ -1128,7 +1128,7 @@ Indeed, what is experienced by one cannot be remembered by another.
 प्रमातरि प्रत्यभिज्ञा-भ्रान्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor is the recognition in the case of the knower an illusion (like the recognition of a lamp etc.) due to the non-apprehension of difference because of high similarity.
 </details>
@@ -1151,7 +1151,7 @@ Nor is the recognition in the case of the knower an illusion (like the recogniti
 तथा भ्रमः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For, such an illusion is indeed possible in that case (of a lamp) for a single observer who has seen both the earlier and later individuals, but who does not know their difference because of their similar configuration.
 </details>
@@ -1174,7 +1174,7 @@ For, such an illusion is indeed possible in that case (of a lamp) for a single o
 इति न तास्व् एकत्व-भ्रमस्याऽश्रयता विषयता वा सम्भविनी ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But here, in the Buddhist view, the moments of consciousness are completely ignorant of each other and perish without any trace; therefore, they cannot be either the locus or the object of the illusion of identity.
 </details>
@@ -1198,7 +1198,7 @@ But here, in the Buddhist view, the moments of consciousness are completely igno
 प्रत्यभिज्ञानुक्षण-स्थायी चेतनो ऽभ्युपगन्तव्यः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor, even if they are highly similar, can one person synthesize what was done by another as if it were done by oneself; therefore, a conscious self, which is the locus of the arriving and departing cognitions and which endures during the moment of recognition, must be accepted.
 </details>
@@ -1213,7 +1213,7 @@ Nor, even if they are highly similar, can one person synthesize what was done by
 (इति क्षणिक-विज्ञानात्म-वाद-निरास-प्रकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Thus ends the section refuting the doctrine of momentary consciousness as the soul.)
 </details>
@@ -1226,7 +1226,7 @@ Nor, even if they are highly similar, can one person synthesize what was done by
 
 
 ### निर्विशेष-नित्य-विज्ञानात्म-वादः
-<details><summary>English - Topic</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Topic</summary>
 
 To obviate this difficulty the veiled Buddhist contends that consciousness is unborn, changeless and devoid of distinctions
 </details>
@@ -1239,7 +1239,7 @@ To obviate this difficulty the veiled Buddhist contends that consciousness is un
 न संविद् अनित्या, प्राग्-अभावाद्य्-असिद्धेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Here one may point out that consciousness is not non-eternal, for, its antecedent non-existence is not ascertainable.
 </details>
@@ -1260,7 +1260,7 @@ Here one may point out that consciousness is not non-eternal, for, its anteceden
 तद्-असिद्धिश् च - तस्याः स्वतः-सिद्धत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Its being unascertainable follows from the fact of consciousness being self-established.
 </details>
@@ -1276,7 +1276,7 @@ Its being unascertainable follows from the fact of consciousness being self-esta
 प्राग्-अभावादयः स्वतो ऽन्यतो वा सिद्ध्यन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, in the case of what is self-established, antecedent non-existence and the like cannot be demonstrated either by itself or by another.
 </details>
@@ -1292,7 +1292,7 @@ Indeed, in the case of what is self-established, antecedent non-existence and th
 सद् वा असद् वा साधयेत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That which manifests, by itself, its own non-existence must do so either by being existent or non-existent.
 </details>
@@ -1308,7 +1308,7 @@ That which manifests, by itself, its own non-existence must do so either by bein
 कथं साधयेत् +++(प्राग्-अभावम्)+++?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it (consciousness) exists, as there will be no non-existence, how can it establish (its antecedent non-existence)?
 </details>
@@ -1325,7 +1325,7 @@ If it (consciousness) exists, as there will be no non-existence, how can it esta
 न स्वतस् तावत् तत्+++(→प्राग्-अभाव)+++-सिद्धिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 On the other alternative (if consciousness is non-existent), by reason of its very non-existence, it is even less capable of establishing (its antecedent non-existence). Hence, it (antecedent non-existence of [[P32]] consciousness) is not established by consciousness itself.
 </details>
@@ -1347,7 +1347,7 @@ On the other alternative (if consciousness is non-existent), by reason of its ve
 अनन्य-गोचरत्वाद् अनुभूतेः,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor is it proved by another, for, consciousness cannot be the object of anything else.
 </details>
@@ -1369,7 +1369,7 @@ Nor is it proved by another, for, consciousness cannot be the object of anything
 घटादिवद् अन्-अनुभूतित्व-प्रसङ्गात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it were the object of consciousness, it would, like the pot, etc., cease to be consciousness.
 </details>
@@ -1391,7 +1391,7 @@ If it were the object of consciousness, it would, like the pot, etc., cease to b
 अतः सा न जायते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, (that is, as the antecedent non-existence of consciousness is not established either by itself or by another), consciousness has no origin.
 </details>
@@ -1413,12 +1413,12 @@ Therefore, (that is, as the antecedent non-existence of consciousness is not est
 तत्+++(→जन्माभाव)+++-प्रतिबद्धत्वात् तेषाम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And, as it has no origination, other positive changes have also to be denied.[F32_55] For, they are concomitant therewith (origination).
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F32_55]: Bhāvavikāra may also be taken to mean changes of positive entities. See Śrutaprakāśikā, 181-2.
 </details>
@@ -1442,7 +1442,7 @@ And, as it has no origination, other positive changes have also to be denied.[F3
 उत्पत्तिमत्त्व-व्यापक-निवृत्त्या तद्-व्याप्य-भूत-नानात्वस्यापि निवृत्ति-सिद्धेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why plurality of consciousnesses is also to be denied. The absence of the pervader (vyāpaka), namely, the character of having an origination, involves also the denial of what is pervaded by it (vyapya), namely, plurality.
 </details>
@@ -1463,7 +1463,7 @@ That is why plurality of consciousnesses is also to be denied. The absence of th
 न ह्य् अजं विभाग्य् अस्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For, what is unborn cannot possess differentiations.
 </details>
@@ -1486,7 +1486,7 @@ For, what is unborn cannot possess differentiations.
 रूपादिवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, because differentia, mutual non-existence and the like are objects of consciousness, like colour and other qualities, they cannot be attributes of consciousness.
 </details>
@@ -1507,12 +1507,12 @@ Moreover, because differentia, mutual non-existence and the like are objects of 
 अतो ऽस्या न मेयः कश्चिद् अपि धर्मो ऽस्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, nothing that is an object of consciousness can be its attribute.[F32_56]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F32_56]: The reading in the Benares and Telugu editions is *anumeyaḥ*.
 </details>
@@ -1529,7 +1529,7 @@ Therefore, nothing that is an object of consciousness can be its attribute.[F32_
 कूटस्थ-नित्या संविद् एवात्मा परमात्मा च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, consciousness alone, which is devoid of all kinds of differences and which is attributeless and which has luminosity alone for its sole essence, and which is unchanging and eternal, is both the finite and the infinite self.
 </details>
@@ -1551,7 +1551,7 @@ Therefore, consciousness alone, which is devoid of all kinds of differences and 
 यथाऽह **या ऽनुभूतिर् अजा ऽमेया ऽनन्तात्मा** इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It has, for instance, been said 'that consciousness which is unborn, un-knowable and which is the nature of the Infinite Self
 </details>
@@ -1575,7 +1575,7 @@ It has, for instance, been said 'that consciousness which is unborn, un-knowable
 इति तेषां भाषा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Their technical jargon (has it) that (consciousness) alone is the ultimate purport of the Vedanta texts.
 </details>
@@ -1596,7 +1596,7 @@ Their technical jargon (has it) that (consciousness) alone is the ultimate purpo
 यथाऽऽह तद्-वार्तिक-कारः +++(सुरेश्वरः)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The Vārtikakāra, for instance, says that
 </details>
@@ -1620,12 +1620,12 @@ The Vārtikakāra, for instance, says that
 वेदान्तोक्ति-प्रमाणतः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 **"consciousness alone, which is supposed to be the result of those means of knowledge that have external things for their objects (i. e., perception, inference, etc.), is the gist of upaniṣadic texts.[F32_57]"**
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F32_57]: Suresvara (A.D. 800) is the Vārtikakāra here referred to. His chief works are the Naiṣkarmyasiddhi and Bṛhadāraṇyakopaniṣad-Bhāṣya-Vārtika. The latter work has been commented on by Anandagiri in his Sastraprakasika and by Anandapurna in his Nyāyakalpalatikā.
 </details>
@@ -1651,12 +1651,12 @@ The Vārtikakāra, for instance, says that
 नान्यम् अर्थं प्रकल्पयेत्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 **"If something other than this (consciousness) were postulated (to be the object of perception, and other pramāṇas), there would result the non-authoritativeness of the Vedanta [[P33]] texts; and hence something other than consciousness ought not to be postulated.[F33_58]"**
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F33_58]: This translation of these two verses (159th and 160th) from the Bṛhadāraṇyakopaniṣad-Bhāṣya-Vārtika is based on Anandagiri's commentary. According to him the first verse means that granting that pratyakṣa and other pramāṇas have external things for their objects, still their result, viz. consciousness, is the gist of the Vedantic texts. The second verse states that the pramāṇas cannot have external things as their objects, for; otherwise the Vedantic texts would lose their authoritativeness, inasmuch as they would be powerless to establish differenceless Brahman. Hence, the pramāṇas cannot have for their object anything other than Vedantic teaching, namely, consciousness. See Bṛhadāraṇyakopaniṣad-Bhāṣya-Vārtika, Anandasrama Series, p. 51.
 </details>
@@ -1678,7 +1678,7 @@ The Vārtikakāra, for instance, says that
 (इति निर्विशेष-नित्य-विज्ञानात्मत्व-मतोपपादन-प्रकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Thus.  
 (Thus ends the section expounding the doctrine that the Self is of the nature of differenceless, eternal consciousness.)
@@ -1705,7 +1705,7 @@ This is opposed to experience:
 इत्य् आत्म-विदः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Those who have understood (the true nature of) the self (assert) that this doctrine does not conform either to worldly experience or to the Vedas,
 </details>
@@ -1732,7 +1732,7 @@ Those who have understood (the true nature of) the self (assert) that this doctr
 संवेदितुर् आत्मनो धर्मः प्रसिद्धः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To explain further-what is termed consciousness is well-known to possess the character of manifesting by its very existence some object to its own substrate (i,e. the substrate of knowledge), to have the-words jnāna, avagathi, anubūthi as its synonyms, to have an object and to be the quality of the knowing self.
 </details>
@@ -1754,7 +1754,7 @@ To explain further-what is termed consciousness is well-known to possess the cha
 "अहम् इदं संवेद्मि" इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is, indeed, in this manner that the experience 'I know this' occurs to all beings individually.
 </details>
@@ -1771,7 +1771,7 @@ It is, indeed, in this manner that the experience 'I know this' occurs to all be
 सुख-दुःखादेर् इव प्रत्यक्षाः प्रकाशन्ते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As in the case of pleasure, pain and the like, the origination, existence and destruction of consciousness manifest themselves directly.
 </details>
@@ -1801,7 +1801,7 @@ As in the case of pleasure, pain and the like, the origination, existence and de
 येन श्वासादि सम्भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The existence of consciousness in the states of deep sleep, drunkenness and swoon cannot be accepted, as it is negatived by effectual non-perception.
 </details>
@@ -1829,7 +1829,7 @@ The existence of consciousness in the states of deep sleep, drunkenness and swoo
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If in those states also consciousness were to exist, then, at the time of waking, it should be remembered;
 </details>
@@ -1844,7 +1844,7 @@ If in those states also consciousness were to exist, then, at the time of waking
 न चानुसन्धीयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but (as a matter of fact) it is not remembered.
 </details>
@@ -1863,7 +1863,7 @@ but (as a matter of fact) it is not remembered.
 इति प्रबुद्धः प्रत्य्-अवमृशति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why the person who wakes up realises, on reflection, 'For so long a time I was not conscious of anything."
 </details>
@@ -1887,7 +1887,7 @@ That is why the person who wakes up realises, on reflection, 'For so long a time
 अनुभवाभावम् एव साधयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Though there is no general rule to the effect that there should be remembrance of all the things experienced and though there is absence of [[P34]] death and other powerful causes responsible for the obliteration of traces of previous experience, the uniform non-remembrance establishes only the non-existence of experience (during states of deep sleep, etc.).
 </details>
@@ -1912,7 +1912,7 @@ Though there is no general rule to the effect that there should be remembrance o
 तत्-स्मृत्य्-अनुदयः ;
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor may it be said that even though there is manifestation of consciousness, non-origination of its remembrance may be due either to the absence of delimiting objects or to the extinction of the object of self-consciousness.
 </details>
@@ -1934,7 +1934,7 @@ Nor may it be said that even though there is manifestation of consciousness, non
 अर्थान्तर-प्रकाश-प्रयुक्त-- कार्य-प्रतिबन्धकत्वायोगात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For, the absence of one thing and the non-apprehension of that (thing) cannot possibly be the obstacles in the way of the result which is caused by the manifestation of some other object.
 </details>
@@ -1956,7 +1956,7 @@ For, the absence of one thing and the non-apprehension of that (thing) cannot po
 यथा-स्वम् +++(त्रितय-पृथग्-)+++अवभासानां स्व-गोचर-स्मरण-हेतुत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even if there be the manifestation of these three (consciousness, objects and self-consciousness) the manifestation of each of these is the cause of the remembrance of its respective object.
 </details>
@@ -1988,7 +1988,7 @@ Even if there be the manifestation of these three (consciousness, objects and se
 इति शक्यो ऽभिधातुम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, the object referred to by 'I,' Which secures permanency on the strength of recollection, cannot be said to meet with death in deep sleep and other similar states.
 </details>
@@ -2011,7 +2011,7 @@ Again, the object referred to by 'I,' Which secures permanency on the strength o
 इति प्रबोधे परामर्शः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why on waking there is the judgment 'All the while I slept well’.
 </details>
@@ -2035,7 +2035,7 @@ That is why on waking there is the judgment 'All the while I slept well’.
 अत्यन्तानुपलब्धेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, something known as consciousness (samvid) which is devoid of objects and substrate cannot exist, as there is absolute non-apprehension (of the same).
 </details>
@@ -2056,12 +2056,12 @@ Moreover, something known as consciousness (samvid) which is devoid of objects a
 +++(नियत-)+++सम्बन्धि+++(-आकाङ्क्षा-शील)+++-शब्दाश् च संविद्-अनुभूति-ज्ञान-प्रकाशादि-शब्दाः इति शब्दार्थ-विदः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Those who have understood the true import of words maintain that the words samvid, anubhūti, jnāna, prakāśa and the like are relative terms.[F34_59]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F34_59]: A relative term depends for its meaning on its relation to some other name.
 </details>
@@ -2086,7 +2086,7 @@ Those who have understood the true import of words maintain that the words samvi
 लोके वेदे वा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, neither in common speech nor in scripture do we meet with the usage of roots, such as jānāti without being associated with an agent or an object,
 </details>
@@ -2121,7 +2121,7 @@ It cannot be maintained that consciousness does not grasp its own prior non-exis
 इति, तद् अतिस्थवीयः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It was maintained that from consciousness its antecedent non-existence cannot be proved, because when what is self-established exists, . at the same time its antecedent non-existence cannot exist. being opposed to it. But this contention is superficial.
 </details>
@@ -2146,7 +2146,7 @@ It was maintained that from consciousness its antecedent non-existence cannot be
 इत्य् अस्ति नियमः -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For, there is no rule to the effect that only such objects as exist at the time of consciousness are proved by it;
 </details>
@@ -2161,7 +2161,7 @@ For, there is no rule to the effect that only such objects as exist at the time 
 अतीतानागतयोर् अ-संवेद्यत्व-प्रसङ्गात् ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (were it so) the past and the future would become unknowable. [[P35]]
 </details>
@@ -2189,7 +2189,7 @@ For, there is no rule to the effect that only such objects as exist at the time 
 किम् एवम् क्वचिद् दृष्टम् ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is contended that when the antecedent non-existence of consciousness is established, it must be contemporaneous with consciousness (we ask) has it been perceived like this anywhere?
 </details>
@@ -2215,7 +2215,7 @@ If it is contended that when the antecedent non-existence of consciousness is es
 न प्राक्-अभावाद्य्-असिद्धिः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is so (perceived), as the antecedent non-existence of consciousness is established thereby, the negation of antecedent non-existence (of consciousness) is not proved.
 </details>
@@ -2238,7 +2238,7 @@ If it is so (perceived), as the antecedent non-existence of consciousness is est
 इत्य् उन्मत्त-वचः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The statement that the antecedent non-existence (of anything) is contemporaneous with that thing is a mad man's declaration.
 </details>
@@ -2260,7 +2260,7 @@ The statement that the antecedent non-existence (of anything) is contemporaneous
 स्व-सम-काल-पदार्थ--प्रकाशकत्वम् नाम ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, this quality, namely, that of bringing to light objects that are contemporaneous with itself is the nature of perceptual knowledge arising from the senses.
 </details>
@@ -2281,7 +2281,7 @@ Indeed, this quality, namely, that of bringing to light objects that are contemp
 न ज्ञान-मात्रस्य, प्रमाण-मात्रस्य वा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But this is not the nature of all forms of knowledge nor of all means of knowledge.
 </details>
@@ -2302,7 +2302,7 @@ But this is not the nature of all forms of knowledge nor of all means of knowled
 एतेन तद् अपि पराकृतम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For the same reason, the following (contention) also stands condemned.
 </details>
@@ -2328,7 +2328,7 @@ For the same reason, the following (contention) also stands condemned.
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 > If the means of knowledge is real on its own right, inasmuch as it is self-luminous, it must exist at all times; therefore, its object too must exist at all times; for, the means of knowledge is always associated with the object of knowledge.
 </details>
@@ -2349,7 +2349,7 @@ For the same reason, the following (contention) also stands condemned.
 न हि मानस्य स्व-सत्ता-काले ऽर्थाविनाभावो मेय-योगः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For, the association of means of knowledge with objects of knowledge does not consist in the invariable relation of the objects of knowledge with the means of knowledge at the time of its existence;
 </details>
@@ -2371,7 +2371,7 @@ For, the association of means of knowledge with objects of knowledge does not co
 तादृश-तद्-रूप-मिथ्यात्व-विरोधित्वम् +++(मानस्य मेय-योगः)+++ । +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 but it consists in the negation of the unreality of that particular form of things in which the latter have been apprehended as existing in a certain place, time, etc.
 </details>
@@ -2397,7 +2397,7 @@ but it consists in the negation of the unreality of that particular form of thin
 इत्य् अपि प्रलापः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why the statement that memory has no external object, because even when external objects have perished memory is noticed, becomes a prattle.
 </details>
@@ -2430,7 +2430,7 @@ The contention that there are no pramanas to establish antecedent non- existence
 न प्रत्यक्षत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It may, however, be said that the antecedent non-existence and the like of consciousness are not ascertained by perception, because it is not something present at the time of perception;
 </details>
@@ -2453,7 +2453,7 @@ It may, however, be said that the antecedent non-existence and the like of consc
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that it cannot be established by other means of knowledge, since there are no signs (linga) and the like.
 </details>
@@ -2471,7 +2471,7 @@ and that it cannot be established by other means of knowledge, since there are n
 प्राग्-अभावाद्य्-असिद्धेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If this were so, the character of being self-established would not prove the absence of antecedent non-existence;
 </details>
@@ -2492,7 +2492,7 @@ If this were so, the character of being self-established would not prove the abs
 प्रमाणाभाव एव हीदानीं वाच्यः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 indeed, it has now to be maintained that there are no means of proving it.
 </details>
@@ -2518,7 +2518,7 @@ indeed, it has now to be maintained that there are no means of proving it.
 इत्य् उक्तम् एव -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But it has already been said that it is impossible to hold that there are no means of [[P36]] proving it,
 </details>
@@ -2533,7 +2533,7 @@ But it has already been said that it is impossible to hold that there are no mea
 योग्यानुपलब्ध्यैवाभावस्य समर्थितत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for non-existence is established by effectual non-perception itself.
 </details>
@@ -2569,7 +2569,7 @@ Consciousness is not eternal.
 काल-विशेषावच्छिन्नैव सा चकास्तीति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, perceptual knowledge establishes existence of its object at the time of its own existence, and not the existence (of the object) at all times. Hence, it has to be stated that consciousness manifests itself only as being limited by time, taking the form 'I exist only at this moment, not at other times.'
 </details>
@@ -2590,7 +2590,7 @@ Moreover, perceptual knowledge establishes existence of its object at the time o
 इतरथा घटादेर् अपि नित्यत्व-प्रसङ्गात् ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Otherwise (if knowledge were not limited by time, its object too, namely) the pot and the like would be eternal.
 </details>
@@ -2611,7 +2611,7 @@ Otherwise (if knowledge were not limited by time, its object too, namely) the po
 एवम् अनुमानादि-संविदो ऽपि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, inference and other kinds of knowledge (must be limited by time; otherwise, they would reveal their objects also to be eternal).
 </details>
@@ -2632,7 +2632,7 @@ Similarly, inference and other kinds of knowledge (must be limited by time; othe
 न च प्रत्यक्षानुमानादि-भेद-शून्या निर्-विषया निर्-आश्रया धीः सम्भवतीत्य् उक्तम् एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And it has already been said that a pure consciousness, which is devoid of the distinctions of perception and inference, and which is objectless and supportless cannot exist
 </details>
@@ -2662,7 +2662,7 @@ This contention that consciousness cannot be proved by anything other than consc
 ऽन्यतः तत्-प्राक्-अभावाद्य्-असिद्धिः -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The contention that the antecedent non-existence of consciousness cannot be proved by anything other than consciousness on the ground that consciousness cannot be the object of anything else is indefensible;
 </details>
@@ -2684,7 +2684,7 @@ The contention that the antecedent non-existence of consciousness cannot be prov
 "अज्ञासिषम्" इति प्राक्तन-संविदो ऽद्यतन-धिया विषयी-क्रियमाणत्वात् ,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for (one's own) previous knowledge is made the object of present cognition, as in the judgment 'At one time I knew'.
 </details>
@@ -2700,7 +2700,7 @@ for (one's own) previous knowledge is made the object of present cognition, as i
 प्रतिकूलानुकूल-विषय-नियत-- हानोपादानादि-लिङ्गावगम्यत्वाच् च पर-संविदः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, the consciousness of other persons is inferred from reasons (linga) such as, the invariable rejection and acceptance respectively of disagreeable objects.
 </details>
@@ -2722,12 +2722,12 @@ Besides, the consciousness of other persons is inferred from reasons (linga) suc
 शब्दार्थ-ग्रहणासम्भवेन वैदिक-लौकिक-समस्त-व्यवहाराभाव-प्रसङ्गः ,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And, if it is not admitted that the consciousness of others Is inferred, there would result the impossibility of all scriptural and worldly usage, in as much as it would be impossible to grasp the meanings of words.[F36_60]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F36_60]: The meanings of words may be understood from vyavahāra. Thus, for example, a youngster notices the pupil fetching a cow when his master utters the words 'Fetch the cow', and immediately concludes that the action of fetching the cow was the result of the pupil grasping the desire of the master when he uttered the words 'fetch the cow. At that time, he takes the words in one mass as conयेying one complex whole of meaning. Which word in that whole stands for the animal, and which signifies the action is not apprehended then. Later, when the teacher says "fetch the horse', a different animal is brought. Again, when he says 'tie up the cow', a different action follows. By observing varied actions resulting from the different utterances, the youngster understands that the word 'cow*'* denotes an animal of a certain description, that the word 'horse' an animal of another kind, the word 'bring' denotes the action of bringing, and so on:
 </details>
@@ -2749,7 +2749,7 @@ And, if it is not admitted that the consciousness of others Is inferred, there w
 ज्ञानवत्त्वेन तस्याप्रतीतेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, approaching the guru and the like would [[P37]] be impossible, for there could be no apprehension that he is possessed of knowledge.
 </details>
@@ -2779,7 +2779,7 @@ it would cease to be consciousness is met :
 न च अन्य-विषयत्वे ऽननुभूतित्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The belief that if consciousness is the object of anything else, it would cease to be consciousness is untenable.
 </details>
@@ -2801,12 +2801,12 @@ The belief that if consciousness is the object of anything else, it would cease 
 स्व-विषय-साधनत्वं वा ह्य् अनुभूतित्वम् ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The character of being consciousness consists in the quality of manifesting itself solely by means of its own existence to its substrate; or in the quality of being the means of manifesting (by its own existence) its object (to its substrate),[F37_61]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F37_61]: In commenting upon these definitions, Sudarsanācārya observes that it consciousness is defined as that which manifests itself, this definition would also apply to pots and the like, for, they too manifest themselves. To exclude them. the qualification 'to its own substrate' is added; the pot manifests itself, not to its substrate, the ground on which it stands, but to the knowing person. Again, the further qualification 'solely by means of its own existence' is added in order to exclude certain attributes of the self, such as, atomic size, eternity and so on, which are manifested to their substrate, not by themselves, but by an act of knowledge. The Sri Bhagya would add येt another qualification 'at the present time' with a view to excluding past states of consciousness. Even without this addition, past states of consciousness stand excluded since every past experience is revealed not by its own existence, but by another act of knowing. But this qualification serves to emphasise the fact that any state of consciousness can manifest itself by its own existence only at the time it exists, and that a past state of consciousness can be apprehended by another state-a fact denied by the opponent. 'At the present time' denotes 'the time when the relation of consciousness to its object exists'. Since a state of consciousness cannot manifest itself, solely by its own sake, to any person other than its own substrate, the words 'to its own substrate become necessary. This definition is acceptable only to those who maintain the avayamprakasatva theory; hence, a second, which will be acceptable to all is offered. The qualifications 'to its own substrate', 'ty its own existence' and at the present time have to be supplied in this definition also. Means of manifesting' would apply also to the potter's stick, wheels and other instruments; and hence the qualification 'to its own substrate'. The knowledge arising from one sense organ can not be the means for the manifestation of an object revealed by another sense; visual perception, for example does not manifest that which is the object of auditory perception. Hence the need for the words 'its own object' The qualification by its own existeace' serves to exclude the sense organs, which are instrumental in revealing objects, not by their own be ng, but in so far as they give rise to knowledge As in the case of the first definition. here also the expressions at the present time' and its own substrate' arc intended to exclude respectively past states of consciousness and the experience of others.
 </details>
@@ -2830,7 +2830,7 @@ The character of being consciousness consists in the quality of manifesting itse
 कथम् अननुभूतित्व-प्रसङ्गः ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 These two characteristics (of consciousness, namely that of manifesting itself and its object to its substrate), which are established by one's own experience, do not fall away even when consciousness becomes the object of another consciousness. How then can it be maintained that consciousness ceases to be consciousness (when it becomes the object of another consciousness)?
 </details>
@@ -2853,7 +2853,7 @@ These two characteristics (of consciousness, namely that of manifesting itself a
 नानुभाव्यत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Pots and the like, on the other hand, do not possess the quality of being consciousness, simply because they do not possess the aforesaid characteristics and not because they are objects of experience.
 </details>
@@ -2874,7 +2874,7 @@ Pots and the like, on the other hand, do not possess the quality of being consci
 अपि चाननुभाव्यत्वे ऽपि समानः तत्-प्रसङ्गः, गगन-कुसुम-वत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, (even on your view) that consciousness does not possess the character of being the object of another consciousness, the same difficulty, namely, that it will cease to be consciousness, does exist as in the case of the sky-flower, (which is not an object of cognition; and. which is not a cognition). [[P38]]
 </details>
@@ -2896,7 +2896,7 @@ Further, (even on your view) that consciousness does not possess the character o
 न चात्मनो ऽनुभूतित्वम्, अनुभवितृत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The quality of being consciousness cannot be attributed to the self, for it possesses the character of being the seat of consciousness.
 </details>
@@ -2919,7 +2919,7 @@ The quality of being consciousness cannot be attributed to the self, for it poss
 नाप्य् असाव् अन्-अनुभाव्यः,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor can it be said that it (the self) is not the object of consciousness;
 </details>
@@ -2942,7 +2942,7 @@ Nor can it be said that it (the self) is not the object of consciousness;
 स्व-पर-संवेद्यत्वाभ्युपगमात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, though it is self-luminous like consciousness, it is admitted to be capable of being known by oneself and others.
 </details>
@@ -2965,7 +2965,7 @@ for, though it is self-luminous like consciousness, it is admitted to be capable
 अवेद्यत्वे ऽपि समानं पूर्ववत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The objection that, if the self is knowable, it would cease to be self would, as stated before, equally apply even to the view that it is not knowable.
 </details>
@@ -2982,7 +2982,7 @@ The objection that, if the self is knowable, it would cease to be self would, as
 +++(तस्य)+++ अनात्मत्वाननुभूतित्व-प्रयोजकम् आस्थीयेत ;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is contended that it is only the non-existence of the sky-flower (rather than the fact that it is not the object of experience) that is responsible for the sky-flower not being soul or consciousness,  
 </details>
@@ -2998,13 +2998,13 @@ If it is contended that it is only the non-existence of the sky-flower (rather t
 अ-संविद्-आश्रयत्व- +अ-ज्ञान–+अविरोधित्वयोर् एव तत्-प्रयोजकत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 then let it be held that even in the case of pots and the like, 
 it is only their character of not being the seat of consciousness and of their not being opposed to ignorance[F38_62] that is responsible for their being non-soul and non-consciousness.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F38_62]: It is not necessary that if external objects, such as pots, exist at all  
 they ought to be known.  
@@ -3036,7 +3036,7 @@ it must necessarily shine forth.
 अलम् अ-प्रतिष्ठित--कु-तर्कापहसनेन ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Should it be contended that if consciousness is the object of consciousness the two qualities (namely, the quality of not being the seat of consciousness and of not being opposed to ignorance) must belong to it, (we reply) that even on the view that consciousness is not the object of consciousness, it would likewise possess those two qualities, (as in the case of the sky-flower). No further need to expose how ridiculous these devious and flimsy arguments are.
 </details>
@@ -3066,7 +3066,7 @@ it could have no changes is refuted:-
 व्यभिचरति तद् अपि प्राग्-अभावे +++(यस्यास्ति जनन-विरहः, स्व-नाशश् च)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again, the assertion that as consciousness has no origin, other modifications of it are negatived is fallacious; for, (the implied general proposition, namely, that whatever has no origin has none of the other changes, is falsified by the contradictory instance of antecedent non-existence, because,) although antecedent non-existence has no origin, it is found to have an end.
 </details>
@@ -3089,7 +3089,7 @@ Again, the assertion that as consciousness has no origin, other modifications of
 भवद्-अभिमताविद्यया ऽनैकान्त्यम् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even if the qualification 'positive entity' be added, the falsity (of the general proposition as modified viz., All positive entities having origin have none of the other changes) will be proved by the ignorance (avidya) which is admitted by you.
 </details>
@@ -3112,7 +3112,7 @@ Even if the qualification 'positive entity' be added, the falsity (of the genera
 तत्त्व-ज्ञानोदयात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For, this ignorance even though it has no origin, is subject to manifold changes and terminates through the rise of knowledge.
 </details>
@@ -3131,7 +3131,7 @@ For, this ignorance even though it has no origin, is subject to manifold changes
 येन पारमार्थ्येन विशेषणम् साध्यस्य साधनस्य वार्थवत्ताम् अश्नुवीत । +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is said that its modifications are unreal  
 (we ask) do you admit changes which are ultimately real and believe in any entity having an origin and still being ultimately real? It is only if these are admitted, the qualification 'ultimately real' can be fruitfully applied either to the major or to the middle term.
@@ -3154,7 +3154,7 @@ If it is said that its modifications are unreal
 साधु "समर्थितम्" तर्क-कुशलेनामुनेति । +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If these are admitted, then your case has, indeed, been ably defended by one skilled in logic!
 </details>
@@ -3171,7 +3171,7 @@ If these are admitted, then your case has, indeed, been ably defended by one ski
 </details>
 
 ## स-विभागिता ऽनादित्वेऽपि
-<details><summary>English - Topic</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Topic</summary>
 
 The contention that if consciousness is unborn, it cannot have differentiations is refuted:-
 </details>
@@ -3184,7 +3184,7 @@ The contention that if consciousness is unborn, it cannot have differentiations 
 अजस्यैवात्मनो देहेन्द्रियादिभ्यो विभागस्य समर्थितत्वात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The statement that what is unborn cannot possess differentiations is not correct; for, the distinction of the self, which is assuredly unborn, from the body, senses and the like has already been established;
 </details>
@@ -3206,12 +3206,12 @@ The statement that what is unborn cannot possess differentiations is not correct
 आत्मनो व्यतिरिक्ततया ऽवश्याश्रयणीयत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and because ignorance, which is admitted to be beginningless, has necessarily [[P40]] to be taken as being distinct from the self.[F40_63]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F40_63]: All systems of Indian thought, with the exception of the Carvaka darsana, accept the distinction of the self from the body, senses and so on; and the opponent admits, in addition, the distinction of the self from avidya. Hence, he cannot deny vijatiyabheda.
 </details>
@@ -3235,12 +3235,12 @@ and because ignorance, which is admitted to be beginningless, has necessarily [[
 +++(येन "परमार्थ-भेदोऽस्त्य् अत्र सजन्मत्वात्" इत्य् उच्येत त्वन्-मते)+++ ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is said that this differentiation is phenomenal, (we ask) have you observed anywhere real distinction to be invariably concomitant with origination?[F40_64]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F40_64]: In order to prove that consciousness admits of no real distinctions, because it has no origin,  
 the negative concomitance (vyatirekavyapti) - whatever has real distinctions must have an origin - must be cited. But as the opponent does not admit real distinctions, he cannot point to any instance of this negative generalisation. 
@@ -3264,12 +3264,12 @@ Hence, his argument commits the fallacy of vyapyatvasiddhi. Moreover, if the dis
 परमार्थ एवेत्य् अनन्तरम् एवोपपादयिष्यामः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It will be shown presently that the distinctions existing between various kinds of knowledge and objects of knowledge, which are established by uncontradicted experience, are ultimately real.[F40_65]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F40_65]: The distinction between objects of knowledge necessarily points to distinction between kinds of knowledge. This shows that sajatiyabheda is real.
 </details>
@@ -3304,12 +3304,12 @@ The contention that consciousness is qualityless stands self-refuted:-
 स्वयम् अभ्युपगतैर् अनैकान्तिकम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The contention that consciousness does not possess the attributes which are objects of knowledge, and that the attributes which are known do not belong to consciousness as its qualities is proved to be fallacious by the qualities of self-luminosity, eternity and the like, which are established by scriptural testimony, inference and other means of knowledge to exist in consciousness, and which are acknowledged by yourself.[F40_66]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F40_66]: The admission that consciousness possesses the attributes of self-luminosity, eternity and the like implies that consciousness admits of internal differences (svagatabheda).
 </details>
@@ -3337,7 +3337,7 @@ The contention that consciousness does not possess the attributes which are obje
 तेषु विमति-दर्शनात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be pointed out that these attributes are in reality, only pure consciousness; for, even though it (consciousness) is admitted to exist, conflicting views with regard to these attributes are noticed.
 </details>
@@ -3359,7 +3359,7 @@ It cannot be pointed out that these attributes are in reality, only pure conscio
 तद्-अनुमेयत्व-क्षणिकत्वादि प्रतिजानते वादिनः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is only after admitting the existence of consciousness that disputants maintain its inferability, momentariness, and the like.
 </details>
@@ -3375,7 +3375,7 @@ It is only after admitting the existence of consciousness that disputants mainta
 +++(सविशेषता संविदः - तस्यास् तद्-धर्मेभ्यः)+++ स्वरूप-भेदात् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, consciousness and these attributes are in their essential nature distinct,
 </details>
@@ -3398,7 +3398,7 @@ Besides, consciousness and these attributes are in their essential nature distin
 हि संवेदनम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, consciousness is that which, solely by means of its own existence, [[P41]] manifests some object to its own substrate,
 </details>
@@ -3419,7 +3419,7 @@ Indeed, consciousness is that which, solely by means of its own existence, [[P41
 स्वयम्-प्रकाशता तु सत्तयैवात्मने प्रकाशमानता ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But self-luminousness consists in shining forth or being manifest solely by means of its own existence to the soul.
 </details>
@@ -3441,12 +3441,12 @@ But self-luminousness consists in shining forth or being manifest solely by mean
 इति संवित्-सिद्धाव् एव साधितम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It has already been established in *Samvit*-*siddhi* that 'shining forth,' which is implied therein, is a quality common to, all sentient and insentient things alike.[F41_67]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F41_67]: The expression 'samvitsiddha veva sadhitam' indicates that Samvitsiddhi was composed before *Atmasiddhi*.
 </details>
@@ -3468,7 +3468,7 @@ It has already been established in *Samvit*-*siddhi* that 'shining forth,' which
 व्यवहारानुगुण्य-वचनः प्रकाश-शब्दः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If you were to (confuse this 'shining forth' with prakaṭya and) say that it is not admitted by Vedāntins, (we point out that) the expression 'shining forth' refers to the quality of being fit to be an object of reference.
 </details>
@@ -3489,7 +3489,7 @@ If you were to (confuse this 'shining forth' with prakaṭya and) say that it is
 नित्यता तु सर्व-काल-वर्तमानता ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Eternity, again is the quality of existing at all times.
 </details>
@@ -3504,7 +3504,7 @@ Eternity, again is the quality of existing at all times.
 एक-सङ्ख्यावच्छेद एकत्वम् इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Unity is limitation by the number 'one'.
 </details>
@@ -3531,7 +3531,7 @@ Unity is limitation by the number 'one'.
 इति युक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is not proper to suggest that as these attributes (self-luminosity, eternity and unity) constitute the negation of non-intelligence, of spatial and temporal limitations and of plurality respectively, the aforesaid difficulties are got over.
 </details>
@@ -3553,7 +3553,7 @@ It is not proper to suggest that as these attributes (self-luminosity, eternity 
 +++("निर्विशेषा संविद्" इत्य्-अत्र)+++ अनैकान्त्यस्यापरिहार्यत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For, even if they are of this nature, as they will still be the attributes of consciousness, you cannot meet the charge of anaikānta (straying reason).
 </details>
@@ -3576,7 +3576,7 @@ For, even if they are of this nature, as they will still be the attributes of co
 निषेधोक्तिर् उक्ति-मात्रम् एव ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The denial of non-intelligence, non-eternity, plurality and the like would be empty statement signifying nothing if the several qualities opposed to these were not present in consciousness.
 </details>
@@ -3600,7 +3600,7 @@ The denial of non-intelligence, non-eternity, plurality and the like would be em
 इष्टम् च भवताम् +++(मते)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Ignorance (avidyā), which is knowable, is found in the self; and this is a position admitted by you. (Hence. it cannot be maintained that the attributes which are known do not belong to consciousness as its qualities).
 </details>
@@ -3624,7 +3624,7 @@ Ignorance (avidyā), which is knowable, is found in the self; and this is a posi
 वन्ध्यात्वम् इव जनन्या विरुद्धार्थम् आपद्येत । +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, after suggesting the relation of consciousness to something with the aid of the genitive case-ending found in the word asyāḥ (occurring in the statement nasyā meyo dharmaḥ) to assert the attributelessness of consciousness will, like the attribution of the quality of being a barren woman to one's mother, convey the opposite meaning.
 </details>
@@ -3649,7 +3649,7 @@ Further, after suggesting the relation of consciousness to something with the ai
 भवेत् शश-विषाणवत् ॥१० ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If consciousness is admitted to be manifest, it will follow that it possesses attributes; otherwise, (if it is not admitted to be manifest) it amounts to positing an absolute non-entity like the horns of a hare.
 </details>
@@ -3671,7 +3671,7 @@ If consciousness is admitted to be manifest, it will follow that it possesses at
 > ननु सिद्धिर् एव सा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is said that manifestation itself is consciousness, (we ask)
 </details>
@@ -3693,7 +3693,7 @@ If it is said that manifestation itself is consciousness, (we ask)
 कस्य भोः ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 'Oh, ye! tell us whose manifestation it is.
 </details>
@@ -3715,7 +3715,7 @@ If it is said that manifestation itself is consciousness, (we ask)
 न तर्हि सिद्धिर् एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If the reply is that it is not the manifestation of anything, then, it cannot be manifestation at all,
 </details>
@@ -3737,7 +3737,7 @@ If the reply is that it is not the manifestation of anything, then, it cannot be
 किञ्चित् प्रति +++(च सा)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, manifestation, like the quality of being a son, always refers to some entity and belongs to somebody.
 </details>
@@ -3758,12 +3758,12 @@ for, manifestation, like the quality of being a son, always refers to some entit
 आत्मनः इति चेत्, कः षष्ठ्य्-अर्थः ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is said that it (manifestation) belongs to the self, (we ask) what is the meaning of the genitive case ending?[F42_68]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F42_68]: Panini's Şaşthi sese declares that the genitive case ending invariably refers to some relation or other. The expression 'soul's manifestation' (atmanaḥ siddhiḥ) must, therefore, indicate that there is some relation between soul and the quality of manifestation. Hence, it cannot be maintained that the soul is attributeless.
 </details>
@@ -3789,12 +3789,12 @@ If it is said that it (manifestation) belongs to the self, (we ask) what is the 
 वेदान्तायैव+++(=नाशाय)+++ स्यात् ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Hence, to maintain that a consciousness, which has been described as above and which has a character similar to that of sky-lotus, is the ultimate end of the Vedanta will only lead to the destruction of the Vedas themselves.[F42_69]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F42_69]: There is a pun on the word vedanta.
 </details>
@@ -3824,7 +3824,7 @@ Even on the view of the veiled Buddhists, recognition would be inexplicable:
 +++(क्षणिक-विज्ञानात्मवत्)+++ प्रत्यभिज्ञानुपपत्तिस् तद्-अवस्थैव +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, even if consciousness were eternal, the impossibility of recognition would still persist;
 </details>
@@ -3848,7 +3848,7 @@ Further, even if consciousness were eternal, the impossibility of recognition wo
 "अहम् इदम् अन्वभूवम्" इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, recognition which takes the form- 'I experienced this at one time-indicates that there is a conscious subject existing at earlier and subsequent times.
 </details>
@@ -3864,7 +3864,7 @@ for, recognition which takes the form- 'I experienced this at one time-indicates
 न तां प्रति सा कर्त्री कर्म वा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But, in your view, consciousness is mere consciousness. With regard to itself, consciousness cannot be its own subject and its own object.
 </details>
@@ -3885,7 +3885,7 @@ But, in your view, consciousness is mere consciousness. With regard to itself, c
 (इति मायावाद्य्-अभिमत-नित्य-विज्ञानात्मत्व-निरास-प्रकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Here ends the section refuting the Advaitic doctrine of the self being eternal consciousness)
 </details>
@@ -3916,7 +3916,7 @@ It cannot be maintained that jnātṛtva is superposed on consciousness:
 इति; तद् न ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Should it be argued that, even though consciousness is ultimately only consciousness, but falsely appears as an experiencing subject, just as the shell appears as silver,  
 and that (this consciousness itself cannot be said to be illusory, for) without a real basis no illusion can arise, this argument is unsound.
@@ -3947,12 +3947,12 @@ and that (this consciousness itself cannot be said to be illusory, for) without 
 रजत-पीत-मुकुर-स्थताद्वित्वादि । [[P43]]+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 On this view, the conscious 'I' would shine forth as equivalent to consciousness, taking the form 'consciousness is I,' even as silver, the yellow colour, the quality of being existent in the mirror, [[P43]] duality and the like appear falsely as being the form of the lustrous object presented before us, the conch, the face, the moon and the like.[F1]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F1]: When a piece of shell is mistaken for silver, the illusion takes the form 'This is silver,' and not 'shell is silver'; for, so long as the specific qualities of an object are known, no illusion with regard to it can arise. Likewise, when consciousness erroneously appears as the 'I,' the illusion must take the form 'This is I' and not 'consciousness is I'. Hence, it may be asked: How can it be asserted that the illusion concerning consciousness would take the form 'consciousness is I'? Our reply is that in the case of shell-silver it is not the shell aspect of the presented object, but some other aspect that causes the illusion. But in the case of consciousness, as the opponent describes it to be attributeless, it cannot be said that some aspect other than that of being consciousness leads to the illusion. Hence, it has to be admitted that even when its specific aspect of being consciousness is known consciousness gives rise to the illusion of 'I' and takes the form 'consciousness is I.' See Śruta Prakāśikā
 </details>
@@ -3977,7 +3977,7 @@ On this view, the conscious 'I' would shine forth as equivalent to consciousness
 "अनुभवाम्य् अहम्" इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This consciousness which always presents itself as something distinct (from the conscious subject) is marked as taking the form 'I am conscious' and as being the distinguishing attribute of the altogether separate entity known as 'I', just as the stick is found to be the attribute of Devadatta;
 </details>
@@ -4000,7 +4000,7 @@ This consciousness which always presents itself as something distinct (from the 
 दण्ड-मात्र इव "दण्डी देवदत्त" इति प्रत्ययः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 when the judgment 'Devadatta holds a stick' does not have for its object the stick only, how can it be asserted that (in the analogous case) this consciousness of 'I', which reveals the entity called 'I' as owning consciousness, has for its object consciousness only, which is, in fact, a mere attribute.
 </details>
@@ -4027,7 +4027,7 @@ Refutation of the view that jnātṛtva is the result of superimposition:
 कुतश्चैष निश्चयः - "अध्यस्तं ज्ञातृत्वम्" इति ? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 How (we ask) did you arrive at the conclusion that the character of being a knower is an illegitimately transferred quality (adhyasta)?
 </details>
@@ -4052,7 +4052,7 @@ How (we ask) did you arrive at the conclusion that the character of being a know
 इति चेत् ;
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is replied that this, like the statement 'I am stout', presents itself only to him who erroneously identifies the self with the body, (and as such, the character of being a knower, like stoutness, is superimposed on the self, we rejoin that)
 </details>
@@ -4075,7 +4075,7 @@ If it is replied that this, like the statement 'I am stout', presents itself onl
 सापि तथा +++(देहात्माभिमान-कृता)+++ स्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 since the consciousness too, which you regard as the self, presents itself only to that person who has that (confusion of the self with the body), this consciousness also must likewise be a superimposition.
 </details>
@@ -4101,7 +4101,7 @@ since the consciousness too, which you regard as the self, presents itself only 
 इति चेत् ;
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it be said that,  
 since consciousness continues even after the dawn of true knowledge of reality,  
@@ -4124,12 +4124,12 @@ it cannot be illusory,
 किं भोः ! तत्त्व-ज्ञानात् परम् अबोद्धा+ एवायम् आत्मा ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (we ask) 'Sir, does the self really cease to be a knower after the acquisition of true knowledge?'[F2]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F2]: Scriptural passages describing the state of release definitely declare that the released soul continues to be a knower. Hence, it cannot be maintained that with the rise of true knowledge the quality of being a knower vanishes.
 </details>
@@ -4150,7 +4150,7 @@ it cannot be illusory,
 हन्तैवं वरम् इतो ऽतत्त्व-वेदित्वम् ;
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Oh! if that were so, it would be far better not to be a knower of the real than to be a knower of the real;
 </details>
@@ -4171,7 +4171,7 @@ Oh! if that were so, it would be far better not to be a knower of the real than 
 भ्रान्त्यापि हि तत्र बहु भद्रं पश्यतीति ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, at least in the state of illusion, he would perceive, many a happy thing.
 </details>
@@ -4205,12 +4205,12 @@ The contention that jnātṛtva resides in ahamkāra:
 अहङ्कार-ग्रन्थि-स्थम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 You may maintain that to be a knower is to be an agent in the act of knowing, to be liable to change,[F3] to be non-intelligent, and to reside in the knot of the ahamkāra,[F4]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F3]: Knowledge is an activity and it has a beginning and an end; hence, the quality of being an agent in the act of knowing must have a beginning and end, that is, must be subject to change.
 
@@ -4235,12 +4235,12 @@ You may maintain that to be a knower is to be an agent in the act of knowing, to
 > तत्-फल-भुग् अ-कर्ताविक्रियः साक्षी प्रकाश-मात्र आत्मा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that the self is the enjoyer of the fruits of the knowing process, a non-agent, a changeless entity, the witness (sākṣin)[F5] and pure luminosity;
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F5]: According to the Advaitins the ultimate reality, Brahman, which is one, undifferenced, eternal and self-luminous consciousness (caitanya), is particularised by the antaḥkaraṇa in two ways. When Brahman is determined by antaḥkaraṇa as a qualifying attribute (viśeṣaṇa) it is called the jīva; when it is determined by antaḥkaraṇa as a limiting adjunct only (upādhi), it is called the sākṣin. The antaḥkaraṇa is inseparably bound up with jīva, but is separable from the sākṣin. The sākṣin performs the office of manifesting the objects known as well as the knowing subject. Since all diversity takes its roots in ajñāna, the sākṣin which illumines objects of experience and the experiencer, is spoken of as the 'witness of ajñāna.'
 </details>
@@ -4263,7 +4263,7 @@ and that the self is the enjoyer of the fruits of the knowing process, a non-age
 नात्म-धर्मः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that the character of being an agent and the like cannot be the attributes of the self; for, like colour and other qualities, they are knowable
 </details>
@@ -4286,7 +4286,7 @@ and that the character of being an agent and the like cannot be the attributes o
 देहस्येवानात्मत्व– परार्थत्व-जडत्वादि-प्रसङ्गो दुर्निवारः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that if the quality of being an agent belongs to the self, even though the latter is an object of the consciousness of 'I', it will be impossible to avoid the unwelcome conclusion that the quality of being non-soul, of existing for the sake of others, of being non-intelligent and the like would belong to the self even as they belong to the body;
 </details>
@@ -4311,7 +4311,7 @@ and that if the quality of being an agent belongs to the self, even though the l
 तत्-क्रिया-फल-भुजः प्रमातुर् अहम्-प्रत्ययिनः पृथक्त्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that the distinction of the knower, who is the object of the consciousness of 'I', and who enjoys the result of the activity of the body, from the body, which is well known to be the agent in all secular and sacred duties, is noticed;
 </details>
@@ -4334,7 +4334,7 @@ and that the distinction of the knower, who is the object of the consciousness o
 साक्षी प्रत्यग्-आत्मेति युक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that similarly here also it is reasonable to admit that the witnessing inward self is distinct from the knower denoted by the term 'I'.
 </details>
@@ -4357,7 +4357,7 @@ This is opposed to everyday experience.
 नैवं युक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This argument (of yours) is illogical,
 </details>
@@ -4379,7 +4379,7 @@ This argument (of yours) is illogical,
 साक्षिणो नाम प्रकाश-मात्रस्यात्मनो ऽनुपलब्धेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, apart from the inward self which shines forth as the knower in the judgment 'I know', no other self which is pure luminosity only and which is termed 'witness' is apprehended.
 </details>
@@ -4402,12 +4402,12 @@ for, apart from the inward self which shines forth as the knower in the judgment
 प्रत्यक्त्वं नाम ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The character of inwardness as attributed to the self (pratyaktva) consists precisely in the quality of being 'I' found in that entity which by virtue of its being the seat of knowledge, is marked off from the body, senses, mind, vital breath and consciousness, and which, contrary to the procedure of outward objects, proceeds, as it were, and shines for its own sake.[F6]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F6]: Outward objects present themselves for the sake of the knowing subject, and not for their own sake. Svasmai bhāsamānatvam pratyaktvam. Parasmai bhāsamānatvam paraktvam.
 </details>
@@ -4428,7 +4428,7 @@ The character of inwardness as attributed to the self (pratyaktva) consists prec
 साक्षित्वम् अपि तस्य साक्षाज्-ज्ञातृत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The character of being a witness as attributed the same (self) consists in being a direct knower (an eye-witness).
 </details>
@@ -4449,7 +4449,7 @@ The character of being a witness as attributed the same (self) consists in being
 न ह्य् अजानन् साक्षीत्य् अपदिश्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, one who is not knower is not spoken of as witness.
 </details>
@@ -4471,7 +4471,7 @@ Indeed, one who is not knower is not spoken of as witness.
 इति ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since all objects that are manifested reveal themselves to the knower who shines forth as 'I', the experience—'I know', 'It presents itself to me'—is shared by every self.
 </details>
@@ -4492,7 +4492,7 @@ Since all objects that are manifested reveal themselves to the knower who shines
 (इति ज्ञातुर् अहम्-अर्थस्य प्रत्यग्-आत्मत्व-निरूपणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Here ends the determination of the character of the inward self as belonging to the knower, i.e., the 'I'.)
 </details>
@@ -4517,7 +4517,7 @@ Indefensibility of the position that pratyaktva belongs to ahamkāra:
 तद्-अनुपपत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The quality of being a knower cannot belong to that modification of unmanifest prakṛti (avyakta) which goes by the name of egoity (ahamkāra), nor to that known as intellect (buddhi); for as in the case of the body, the quality of not being an intelligent entity, the character of liability to change, insentience, the quality of existing for the sake of others and other similar reasons make it impossible (for the quality of jñātṛtva to belong to either egoity or intellect).
 </details>
@@ -4547,7 +4547,7 @@ either on account of reflection or contact with consciousness.
 न च चिति-च्छायापत्त्या तयोस् तत्-सम्भवः …
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor can it be said that the quality of being a knower may well belong to egoity or intellect on account of the reflection of intelligence;
 </details>
@@ -4568,7 +4568,7 @@ Nor can it be said that the quality of being a knower may well belong to egoity 
 अ-चाक्षुषस्य छायाऽदर्शनात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, what is not open to visual perception is not observed to have reflection.
 </details>
@@ -4586,7 +4586,7 @@ for, what is not open to visual perception is not observed to have reflection.
 तत्-सम्पर्काद् अर्थान्तरे ज्ञातृत्वं जायेत ज्ञायेत वा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, on your view, the quality of being a knower does not really belong to consciousness. If jñātṛtva really belongs to consciousness, on account of conjunction with consciousness, this quality may appear in another substance (say in egoity or intellect) or be apprehended therein, even as heat appears in the iron-ball on account of contact with fire.
 </details>
@@ -4607,7 +4607,7 @@ Besides, on your view, the quality of being a knower does not really belong to c
 (इत्य् अहङ्कारस्य ज्ञातृत्व-तत्-प्रतीत्य्-अनुपपत्ति-निरूपणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Here ends the exposition of the untenability of the view that egoity possesses the quality of being a knower or that such a quality is erroneously apprehended therein.)
 </details>
@@ -4636,7 +4636,7 @@ because it manifests consciuosness as residing in itself:-
 स्वाश्रयतया तम् अभिव्यनक्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 You may perhaps maintain the following view: 
 
@@ -4661,7 +4661,7 @@ You may perhaps maintain the following view:
 दर्पण-जल--खण्ड+++(=लघु-गो-व्यक्ति)+++-+++(विशृङ्ग-गो-व्यक्ति=)+++मुण्डादय इव मुख--मिहिर-बिम्ब--गोत्वादीन् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for it is the nature of manifesting entities to reveal the objects that are being manifested as residing in themselves, just as a mirror, a sheet of water, particular instances of a class (say, the short, the hornless cows) and the like reveal the face, the sun, cowness, etc. as dwelling in themselves respectively.
 </details>
@@ -4682,7 +4682,7 @@ for it is the nature of manifesting entities to reveal the objects that are bein
 > तत्-कृतश् चायम् "अहम् जानामी"ति भ्रमः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The erroneous view that finds expression in the judgment 'I know' is the result of that (i.e., the ahamkāra being a manifesting entity reveals consciousness as residing within itself; in other words, ahamkāra appears as the possessor of knowledge).
 </details>
@@ -4706,7 +4706,7 @@ The erroneous view that finds expression in the judgment 'I know' is the result 
 स्वाभाविक-विशदानुभव-मात्र-रूपेणात्मनः प्रकाशः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why in states of deep sleep and release, there is manifestation of the self in its true nature of pure consciousness only without the revelation of the 'I'.
 </details>
@@ -4727,7 +4727,7 @@ That is why in states of deep sleep and release, there is manifestation of the s
 > तत एव चानात्मत्वम् अहम्-अर्थस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is also the reason why the quality of being non-soul has to be predicated of the 'I'.
 </details>
@@ -4748,7 +4748,7 @@ That is also the reason why the quality of being non-soul has to be predicated o
 > तथा च सौरेशं वचः
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Suresvara's statement runs to the effect—
 </details>
@@ -4768,13 +4768,13 @@ Suresvara's statement runs to the effect—
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 "If the quality of being 'I' belongs to the self, it must persist in states of deep sleep and release;  
 for the reason that it does not persist, it must be taken to belong to something else.[F7]"
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F7]: Naiṣkarmya Siddhi. Bombay Sanskrit and Prakrit Series. No. 38. Ch. II Stanza 32. p. 70.
 </details>
@@ -4797,7 +4797,7 @@ for the reason that it does not persist, it must be taken to belong to something
 (इति अहङ्कारस्य संविद्-अभिव्यञ्जकत्व-पूर्वपक्षोपपादनम्॥)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Here ends the exposition of the prima facie view that egoity manifests consciousness.)
 </details>
@@ -4821,7 +4821,7 @@ The refutation of the preceding view:-
 तद् इदम् असम्बद्धम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This (argument) lacks coherence.
 </details>
@@ -4842,7 +4842,7 @@ This (argument) lacks coherence.
 यतः
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Because:
 </details>
@@ -4860,7 +4860,7 @@ Because:
 व्यनक्तीति न युक्तिमत् ॥ ११ ॥ +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To say that the ahamkāra which is essentially insentient manifests the self-luminous soul is as illogical as to assert that a spent coal manifests the sun.
 </details>
@@ -4883,7 +4883,7 @@ To say that the ahamkāra which is essentially insentient manifests the self-lum
 सर्व-पदार्थाभिव्यक्तयो ऽभिप्रेयन्ते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In fact, the manifestation of all objects is known to depend on consciousness, which is not insentient and which you consider to be the soul.
 </details>
@@ -4906,7 +4906,7 @@ In fact, the manifestation of all objects is known to depend on consciousness, w
 उपहास्यम् इदम् आत्म-विदाम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The assertion—that the non-intelligent ahamkāra, which itself depends for its revelation on consciousness, reveals such a consciousness, which manifests all subjects without an exception and which has as its essential nature a luminosity that knows neither birth nor extinction, nor any other modification—will be ridiculed by those who have understood the real nature of the soul.
 </details>
@@ -4928,7 +4928,7 @@ The assertion—that the non-intelligent ahamkāra, which itself depends for its
 1.12 किञ्च -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further:
 </details>
@@ -4952,12 +4952,12 @@ Further:
 आत्मनि स्याद् यथा घटे ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, the relation of being the manifesting and the manifested entity cannot obtain between ahamkāra and consciousness, for they are opposite in nature.[F8] If the self is admitted to be capable of being manifested, it would imply that, like the pot, it would cease to be consciousness.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F8]: Consciousness and ahamkāra have opposite natures. The former has the character of manifesting all objects without an exception; while the latter, being distinct from consciousness, depends for its manifestation on consciousness. Hence, it is impossible for ahamkāra to manifest consciousness.
 </details>
@@ -4983,7 +4983,7 @@ Further, the relation of being the manifesting and the manifested entity cannot 
 इति मा वोचः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Do not say that the surface of the hand, which is itself manifested by the sun's rays, is seen to manifest those rays themselves;
 </details>
@@ -5004,7 +5004,7 @@ Do not say that the surface of the hand, which is itself manifested by the sun's
 कर-तलस्य तद्-बाहुल्य-मात्र-हेतुत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, the surface of the hand is responsible only for the accumulation of those rays.
 </details>
@@ -5028,12 +5028,12 @@ for, the surface of the hand is responsible only for the accumulation of those r
 न +++(तेषां)+++ कर-तल-व्यङ्ग्यत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The sun beams thus accumulated are distinctly perceived; hence, they are in reality not manifested by the hand at all.[F9]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F9]: This analogy is unsound, because, unlike the sun's rays, consciousness is not spread out and cannot be said to be collected by ahamkāra.
 </details>
@@ -5062,7 +5062,7 @@ None of the three alternative ways in which ahamkara could be said to manifest c
 क्रियत इत्य् उच्यते ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Again (we ask) what is the nature of this 'manifestation',
 which is said to be effected by the ahamkāra in respect of the self which is essentially consciousness?
@@ -5084,7 +5084,7 @@ which is said to be effected by the ahamkāra in respect of the self which is es
 न तावत् तत्-सिद्धिः , तस्य स्वतः-सिद्धत्वेनानन्याधीन-सिद्धित्वाभ्युपगमात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be said to be the origination of consciousness; for inasmuch as it is self-dependent, it must be admitted not to depend for its existence on anything other than itself.
 </details>
@@ -5107,7 +5107,7 @@ It cannot be said to be the origination of consciousness; for inasmuch as it is 
 नापि तद्-विषय-ज्ञानम् , ज्ञानान्तराननुभाव्यत्वात् +++(अनुभूतेः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor can it be said to be the illumination concerning consciousness, since it is not capable of being apprehended (by another consciousness).
 </details>
@@ -5129,7 +5129,7 @@ Nor can it be said to be the illumination concerning consciousness, since it is 
 अनुभाव्यत्वे हि घटादि-वद् अननुभूतित्व-प्रसङ्गः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed if it is capable of being experienced (by another consciousness), it would imply that it, like pots, etc., would cease to be consciousness.
 </details>
@@ -5151,7 +5151,7 @@ None of these possible modes of the third alternative is tenable:-
 अत एव न ज्ञान-करणानुग्रहः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For the same reason (i.e., that consciousness is not the object of another consciousness), manifestation cannot be said to be the assistance rendered to the instruments of knowledge (concerning consciousness).
 </details>
@@ -5183,7 +5183,7 @@ For the same reason (i.e., that consciousness is not the object of another consc
 शम-दमादिनेव परावरात्म-तत्त्व-ज्ञानोपायस्यागमादेः ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This assistance may be (of three kinds) — (i) It is either such as results from the removal of those obstacles to the rise of knowledge which reside in the object to be known, like the service rendered to the eye by light through the dispelling of darkness. (ii) Or, it is the help arising from being the means of contact between objects known and the sense-organs, like the help rendered by the particular instance, mirror, etc., to the eye and the like, which reveal respectively general qualities, one's own face, etc. (iii) Or, it is the help which accrues from the removal of the impurities residing in the knower, like the service rendered by (virtues such as) tranquillity, restraint and so on to the śāstras, which are the means of the true knowledge concerning the Infinite and the finite self.
 </details>
@@ -5207,7 +5207,7 @@ This assistance may be (of three kinds) — (i) It is either such as results fro
 किञ्चिज्-ज्ञानोदय-परिपन्थि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (It cannot be the first kind, for) there is nothing resident in consciousness which impedes the origination of knowledge (of consciousness) and which could be removed by ahamkāra.
 </details>
@@ -5231,7 +5231,7 @@ This assistance may be (of three kinds) — (i) It is either such as results fro
 भवद्-अभिमत-साक्षिणि +++(शुद्धानुभूति-स्वरूपे)+++ निक्षेपम् अर्हति ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (You cannot reply that ajñāna dwells in consciousness and is dispelled by ahamkāra, for) inasmuch as ignorance would have the same abode and the same object as knowledge, it is impossible to locate it in the witness which you have admitted, and which is devoid of the two qualities (of being the seat of knowledge and its object).
 </details>
@@ -5253,7 +5253,7 @@ This assistance may be (of three kinds) — (i) It is either such as results fro
 अ-ज्ञानीत्य् उच्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, pots and the like, which are devoid of the possibility of knowledge, are never spoken of as possessing ignorance.
 </details>
@@ -5269,7 +5269,7 @@ Indeed, pots and the like, which are devoid of the possibility of knowledge, are
 इति न +++(ज्ञान-मात्रस्य)+++ तस्याप्य् अज्ञानं भवेत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, for the reason that the quality of being the knower never belongs to pure consciousness, it can never possess ignorance.
 </details>
@@ -5288,7 +5288,7 @@ Similarly, for the reason that the quality of being the knower never belongs to 
 तथाभ्युपगमाच् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even if it is so (i.e., even if consciousness possesses ignorance), it is not admitted that ignorance is removable by ahamkāra, since ignorance can be put an end to only by knowledge, and since it has been so admitted.
 </details>
@@ -5310,12 +5310,12 @@ Even if it is so (i.e., even if consciousness possesses ignorance), it is not ad
 स्व-विषय एव अज्ञानं निवर्तयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, knowledge terminates the ignorance which concerns its own object only,[F10]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F10]: When knowledge arises it dispels only that ignorance which centres round the object known. For example, when the shell is known as shell, this apprehension terminates the illusory cognition of that object which existed till then. If knowledge is said to put an end to all ignorance, it would have to be admitted that knowledge of the true nature of the shell dispels every form of illusion. See Śruta Prakāśikā
 </details>
@@ -5339,7 +5339,7 @@ Besides, knowledge terminates the ignorance which concerns its own object only,[
 न केनचित् कदाचिद् उच्छिद्येत ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As the quality of being the object of knowledge  
 has not been attributed to consciousness which is regarded as the self,  
@@ -5359,12 +5359,12 @@ can never be destroyed by anyone at any time.
 न ज्ञानोत्पत्ति-प्रतिबन्धकम् इति शक्यं व्यपदेष्टुम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (The ignorance which you speak of as existing in consciousness may be either defined as the antecedent non-existence of knowledge or considered as indefinable). Ignorance, which is of the nature of the antecedent non-existence of knowledge, cannot be regarded as an obstacle to the rise of knowledge.[F11]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F11]: The antecedent non-existence of an object cannot be regarded as an obstacle to the origination of that object.
 </details>
@@ -5388,7 +5388,7 @@ can never be destroyed by anyone at any time.
 सम्बन्ध-निरूपणे प्रतिपादयिष्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That the following statements—Ignorance is positive in nature; (it is) indefinable; (it is) the material cause of the world; and so on—are merely incoherent prattle will be shown in the section dealing with the relation (of finite souls to the infinite self).
 </details>
@@ -5405,7 +5405,7 @@ That the following statements—Ignorance is positive in nature; (it is) indefin
 अहङ्कारेणानुभवाभिव्यक्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Hence, it cannot be said that the manifestation of consciousness is effected by the ahamkāra whose essential nature is removal of defects in the objects known.
 </details>
@@ -5425,7 +5425,7 @@ Hence, it cannot be said that the manifestation of consciousness is effected by 
 न स तेनैव शोध्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (It cannot be the second, for) as consciousness is beyond the reach of the senses  
 (the assistance rendered to the means of knowledge by ahamkāra)  
@@ -5462,7 +5462,7 @@ the manifesting entity should manifest the object as residing within itself.
 प्रदीपादाव् अ-दर्शनात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor can it be said that it is the nature of the manifesting entity to reveal the manifested objects as residing within itself;  
 because such a nature is not observed in the lamp and the like (which manifest things without exhibiting them as residing in themselves);
@@ -5486,7 +5486,7 @@ because such a nature is not observed in the lamp and the like (which manifest t
 ज्ञान--तत्-साधन--तद्-अनुग्राहकाणाम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and because, knowledge, the means thereof and whatever is auxiliary to them have the nature of promoting the manifestation of things as they really are.
 </details>
@@ -5502,12 +5502,12 @@ and because, knowledge, the means thereof and whatever is auxiliary to them have
 तद्-अनभ्युपगमे च सर्वत्रानाश्वास-प्रसङ्गात् ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That knowledge, the means thereof and whatever is auxiliary to them have the aforesaid nature follows from the doctrine of the self-validity of knowledge (svataḥprāmāṇya)[F12]; and if this is not admitted, there would ensue lack of certainty in anything.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F12]: On the question of the validity and invalidity of knowledge four views have been held. According to the Sānkhyas the validity and invalidity of knowledge are both inherent in it. The Nyāya-Vaiseṣika takes the opposite position and contends that both the validity and invalidity of knowledge depend on external factors. On this view, knowledge, in itself, is neither true nor false; it is rendered valid or invalid by outside factors. The Buddhists take invalidity to be intrinsic to knowledge, and validity extrinsic. The Mīmāṁsakas and Vedāntins, while admitting the Nyāya-Vaiseṣika view in regard to invalidity of knowledge, maintain that validity is inherent in knowledge.
 </details>
@@ -5531,12 +5531,12 @@ That knowledge, the means thereof and whatever is auxiliary to them have the afo
 +++(प्रदीपेन)+++ उक्ताद् एव व्यभिचारात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (With regard to the analogy of the particular instance, vyakti, cited by you), such a manifestation (of the universal as residing in the particular instances) is due to the fact that the universal is only the character met with in the instances, and not the fact of those instances being the manifesting entities, as it has already been shown (that the case of the lamp flame) falsifies the view (that all manifesting entities reveal objects as taking their abode in themselves).[F13]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F13]: The general proposition 'all manifesting entities reveal their objects as residing within themselves' was sought to be established on the strength of instances such as mirror, etc. In refuting this view, it was first pointed out that there are instances against this generalisation. Now it is shown that even the instances cited by the opponent do not prove his case. The mirror, for example, is responsible only for reflecting the ocular rays, and not for manifesting the face. The real manifesting agents are light and the like.
 </details>
@@ -5560,7 +5560,7 @@ That knowledge, the means thereof and whatever is auxiliary to them have the afo
 नाभिव्यञ्जको वदनादेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (As for the analogy of the mirror, etc.) mirror and similar objects are only responsible for the mistake, namely the reflecting of the ocular rays, and are not manifesting agents of faces and other objects.
 </details>
@@ -5581,7 +5581,7 @@ That knowledge, the means thereof and whatever is auxiliary to them have the afo
 **व्यञ्जकस्** त्व् +++(प्रकाश=)+++आलोकादिर् एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The real manifesting agents however, are only light and the like.
 </details>
@@ -5598,7 +5598,7 @@ The real manifesting agents however, are only light and the like.
 प्रतीप-गमन-दोष-प्रयुक्तस् तत्रान्यथावभासः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Although light is the real manifesting agent the false impression (of the face appearing within the mirror) is the outcome of the mistake of the deflection (of the ocular rays).
 </details>
@@ -5614,7 +5614,7 @@ Although light is the real manifesting agent the false impression (of the face a
 न चेह तथाहम्-अर्थस्य तादृश-दोषापादकत्वम् स्वभावः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But here, the capacity to produce a similar mistake (in the self-luminous consciousness) does not belong to the entity known as 'I'.
 </details>
@@ -5637,7 +5637,7 @@ But here, the capacity to produce a similar mistake (in the self-luminous consci
 न किञ्चित् तथ्यम् स्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is so, (i.e., if that capacity belongs to the 'I'), then perception and other forms of knowledge would lose their validity; and hence, nothing would be true.
 </details>
@@ -5660,7 +5660,7 @@ If it is so, (i.e., if that capacity belongs to the 'I'), then perception and ot
 न ज्ञप्ति-मात्रम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, what constitutes the inward self is not pure consciousness, but the entity 'I', which reveals itself as a knower.
 </details>
@@ -5681,7 +5681,7 @@ Therefore, what constitutes the inward self is not pure consciousness, but the e
 (इत्य् अहङ्कारस्य ज्ञातृत्व-तत्-प्रतीत्य्-अनुपपत्ति-निरूपणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Here ends the section refuting the view that egoity manifests consciousness.)
 </details>
@@ -5717,7 +5717,7 @@ Refutation of the contention of Suresvara that in deep sleep there is no conscio
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As regards your contention that in deep sleep and release the self manifests itself only as mere consciousness and does not appear as 'I'. the belief that in deep sleep such a condition of consciousness prevails (i. e., consciousness shining forth without an object or a substrate) has [[P51]] already been refuted.
 </details>
@@ -5738,12 +5738,12 @@ As regards your contention that in deep sleep and release the self manifests its
 "अहम्" इत्य् एक-रूपेणाप्रबोधात् +++(स्वापे→)+++ तत्राप्य् आत्मनः स्फुरणात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since even in deep sleep the self does present itself up to the time of waking only in the form of the 'I', (the manifestatin of the 'I' cannot be said to be absent in that state)[F51_83].
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F51_83]: Ekarupeņa also suggests that presentation of the self as 'I' is common to everybody.
 </details>
@@ -5764,7 +5764,7 @@ Since even in deep sleep the self does present itself up to the time of waking o
 इति वाच्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is said that on account of the absence of consciousness of external-objects, and prevalence of darkness (tamas) in deep sleep, the 'I' does not present itself clearly and distinctly, (we reply that) it must be admitted that even the consciousness posited by you does not, likewise, present itself clearly aud distinctly in that state.
 </details>
@@ -5790,7 +5790,7 @@ If it is said that on account of the absence of consciousness of external-object
 न हि सुप्तोत्थितः कश्चित् परामृशन्न् उपलब्ध-चरः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 No one who has risen from deep sleep is found to recall the experience which occurred to him during sleep, namely, 'I am not I (ahamkāra.; nor am I anything else (the knower or the known); but I am only pure consciousness and I stand as the witness of ignorance.'
 </details>
@@ -5817,7 +5817,7 @@ No one who has risen from deep sleep is found to recall the experience which occ
 इति चेत्; कथम् इव?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If you were to say that from the reflection 'For so long a time I knew nothing at all' such a position (namely, that in deep sleep there is presentation of pure consciousness only) is made out, (we ask) how (is it made out)?
 </details>
@@ -5839,7 +5839,7 @@ If you were to say that from the reflection 'For so long a time I knew nothing a
 नन्व् एवम् अनुभूति-प्रतिभासो ऽपि प्रत्याख्यातः स्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (If your reply is that) this follows from the expression 'nothing at all' (occurring in the aforesaid reflection, we rejoin) in that case, the manifestation of consciousness also would have to be denied.
 </details>
@@ -5877,7 +5877,7 @@ Analysis of your statement establishes just the opposite of what you intend to p
 देवानाम् प्रियः ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 While in the judgment, 'I knew nothing at all,' the word 'I' denotes clearly the self which is manifested in deep sleep and the words 'knew nothing at all' negative (all) knowledge on the part of that 'I', the fool who maintains (that the self-same judgment establishes) that in deep sleep there is manifestation of pure consciousness along with the absence of the presentation of 'I' does not know its contradiction to experience.
 </details>
@@ -5904,7 +5904,7 @@ While in the judgment, 'I knew nothing at all,' the word 'I' denotes clearly the
 निर्विषया निराश्रया च वित्तिर् नास्तीत्य् उक्तम् एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It has already been said that there can be no knowledge without an object and without a substrate.
 </details>
@@ -5934,7 +5934,7 @@ The reflection "I was not even conscious of my self" does not mean the absence o
 इत्य् अस्ति हि प्रबोधे प्रत्ययः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 You may ask Do we not, on waking, get the knowledge 'I who slept, was not even conscious of my self"? (Does it not indicate that [[P52]] in sleep there is absence of the manifestation of 'I'?).
 </details>
@@ -5960,7 +5960,7 @@ You may ask Do we not, on waking, get the knowledge 'I who slept, was not even c
 न पुनर् ज्ञ-स्वभावस्याहम्-अर्थस्यापि ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 True, (we reply): that knowledge (namely, the reflection 'I was not even conscious of myself') after indicating by the word 'myself' the self, which, in the waking state, is understood as being characterised by caste, stage in life, etc., shows that the 'I', which shines forth in sleep, which is not clearly experienced, and which manifests itself for its own sake, is not known in such a manner (i. e. as characterised by caste, stage in life, etc.); but it does not show that the 'I' whose essential nature is to be the knower, is itself not apprehended.
 </details>
@@ -5987,7 +5987,7 @@ True, (we reply): that knowledge (namely, the reflection 'I was not even conscio
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, our reflection is to the effect: 'I did not even know myself as having slept in a particular place and as possessing certain characteristics.'
 </details>
@@ -6019,7 +6019,7 @@ The statement in question undoubtedly points to the existence of the 'I' and its
 इति हि यौष्माकी स्थितिः ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, your position indeed is this, namely, that in deep sleep the self exists as the witness of ignorance.
 </details>
@@ -6042,7 +6042,7 @@ Moreover, your position indeed is this, namely, that in deep sleep the self exis
 इत्य् उक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And it has already been said that to be a witness is to be a direct knower.
 </details>
@@ -6065,7 +6065,7 @@ And it has already been said that to be a witness is to be a direct knower.
 कथम् इव तदानीम् अहम्-अर्थो न प्रथेत ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This witness too is nothing but the 'I' which is apprehended in the judgment 'I know'; how then, could this 'I' not be apprehended in the state of sleep?
 </details>
@@ -6081,7 +6081,7 @@ This witness too is nothing but the 'I' which is apprehended in the judgment 'I 
 "ऽहम्" इत्य् एव हि प्रकाशत इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That which Illumines itself for its own sake appears only as the 'I';
 </details>
@@ -6107,7 +6107,7 @@ That which Illumines itself for its own sake appears only as the 'I';
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 hence, it follows that the self, which shines forth even in sleep and other similar states, appears only as the 'I'.
 </details>
@@ -6128,7 +6128,7 @@ hence, it follows that the self, which shines forth even in sleep and other simi
 (इति स्वापे ऽहम्-अर्थ-भान-समर्थन-प्रकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Thus ends the section supporting the manifestation of the 'I' in deep sleep.)
 </details>
@@ -6151,7 +6151,7 @@ The 'I' (ahamartha) persists in the state of release:-
 तद् वार्त्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To maintain that the 'I' does not persist in the state of liberation is unsound;
 </details>
@@ -6173,7 +6173,7 @@ To maintain that the 'I' does not persist in the state of liberation is unsound;
 वैनाशिक+++(=बौद्ध)+++-दर्शन इवात्म-नाश एवापवर्गः प्रकारान्तरेण प्रतिज्ञातः स्यात् ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, it amounts to asserting, as is done in Buddhism, but in a somewhat different way, that release consists only in the annihilation of the self.
 </details>
@@ -6198,7 +6198,7 @@ for, it amounts to asserting, as is done in Buddhism, but in a somewhat differen
 "स्वरूपेणावतिष्ठत" इत्य् उच्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The 'I' is not a mere attribute of the self; if it were an attribute, it may be said that even after its destruction the self exists in its true being, as it persists on the dissolution of ignorance.
 </details>
@@ -6219,7 +6219,7 @@ The 'I' is not a mere attribute of the self; if it were an attribute, it may be 
 "अहम्" इत्य् एव हि तस्य स्वरूपम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 In fact, the true being of the self is nothing but the 'I';
 </details>
@@ -6237,7 +6237,7 @@ In fact, the true being of the self is nothing but the 'I';
 "ज्ञानं मे जातम्" इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and knowledge appears to the self as an attribute of the latter as is evident from the judgment 'knowledge has arisen in me'.
 </details>
@@ -6258,7 +6258,7 @@ and knowledge appears to the self as an attribute of the latter as is evident fr
 का कथा पुनर् +++(अहङ्कारादेः)+++ अर्थान्तरस्यात्मत्वे ? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (It has been shown that even granting your position that the self exists as a witness of ignorance in deep sleep it does not follow that the 'I' disappears in that state.) There is no [[P53]] need to argue the point, when something other than the witnessing consciousness (sākṣicaitanya) is the self.
 </details>
@@ -6296,7 +6296,7 @@ On the strength of the sacred text relating to liberation and endeavour of souls
 तत्-साधने प्रवर्तते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, he who considers himself to be afflicted by the miseries of worldly existence, whether in truth or in error, and thinks 'I am suffering pain', and in whom the desire for release has arisen, making him reflect: 'How may I become tranquil and blissful, setting aside this entire collection of miseries?', he alone enters upon the means for realisation.
 </details>
@@ -6318,7 +6318,7 @@ Moreover, he who considers himself to be afflicted by the miseries of worldly ex
 अपगच्छेद् असौ मोक्ष-कथा-प्रसङ्गाद् अपि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If (on the other hand) he were to realise 'I should be no more if I practised the means (for the attainment of release)', he would run away at the very mention of the topic of release.
 </details>
@@ -6336,12 +6336,12 @@ If (on the other hand) he were to realise 'I should be no more if I practised th
 प्रामाण्याद् एव प्रच्यवेरन् ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As a consequence of this, since there can be none possessing the requisite qualifications (to enter upon the study of the scriptures), the entire upanisadic texts and all the śāstras relating to liberation would lose their validity.[F53_84]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F53_84]: The validity of scriptures consists in their generating true knowledge in the mind of the aspirant. If there were no qualified pupils to study them they would lose their validity
 </details>
@@ -6358,7 +6358,7 @@ As a consequence of this, since there can be none possessing the requisite quali
 इति चेत्, किम् अतः?
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If you were to say that mere luminosity which is indicated by the word 'I' would persist in the state of release, (we ask) 'Of what use is it?'
 </details>
@@ -6377,12 +6377,12 @@ If you were to say that mere luminosity which is indicated by the word 'I' would
 इति कश्चित् प्रेक्षावान् प्रयस्यति ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For, no sensible person would exert himself under the influence of the idea 'Though I shall perish, there will remain some luminosity;[F53_85]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F53_85]: Cf. Sri Bhāṣya. Nirastakhiladuḥkhoham anantānadabhāk svarat | Bhaveyamiti mokşarthi śrvaņadau pravartate || Ahamarthavināśaścet mokşa ityadhyavasyati | Apasarpedasu mokṣakathāprastā vagandhataḥ || Mayi naştepi mattonyā kācit jñaptiravasthitā | Iti tatpraptaye yatnaḥ kasyāpi na bhaviṣyati ||
 </details>
@@ -6417,12 +6417,12 @@ Refutation of the view that the "I" is an objective element (i.e. it is jaḍa)
 इति …
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 For the same reason, even the contention-that in self-consciousness (which expresses itself in the judgment 'I know') that element which is not referred to by the word 'this' (i. e. the non-objective element> pratyagartha), which has consciousness for its sole essence, and which is luminosity, is the self; and that in the same self-consciousness what [[P54]] has to be considered as objective element (yuşmadartha, parāgartha), for the reason that it depends for its manifestation on consciousness, is the 'I' referred to in the judgment 'I know'-stands condemned.[F54_86]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F54_86]: Two arguments of the opponent are here referred to. The first seeks to prove that consciousness is the soul, for the reason that it is a non-objective element; that it is non-objective is inferable from its being self-luminous; its self-luminous nature follows from its being consciousness. The second tries to establish that the entity 'I' is not the self, because it is an objective element. That the 'I' is an objective element is shown by its dependence on consciousness for its manifestation. Its dependence on consciousness for its manifestaion is inferred from its being distinct from consciousness.
 </details>
@@ -6443,7 +6443,7 @@ For the same reason, even the contention-that in self-consciousness (which expre
 +++(अहमि प्रत्यक्त्व-)+++प्रत्यक्ष-विरोधात् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It is also contradicted by direct perception, 
 (for the judgment 'I know' implies that knowledge is an attribute and that the 'I' is its possessor,  
@@ -6467,7 +6467,7 @@ and that knowledge is an objective element (parak), while the 'I' is a non-objec
 "माता वन्ध्या" इतिवद् व्याहतार्थं वचः ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The statement that the intelligent entity refered to in the judgment 'I know' is an objective element (parāk) is as self-contradictory in its meaning as the assertion 'My mother is a barren woman'.
 </details>
@@ -6490,7 +6490,7 @@ The statement that the intelligent entity refered to in the judgment 'I know' is
 चैतन्य-स्वभावतया स्वयं-ज्योतिष्ट्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Nor can it be said that this intelligent entity depends on something else for its manifestaion (and is hence parāk, i. e., non-soul, for, being of the nature of consciousness, it is self-luminous.
 </details>
@@ -6516,7 +6516,7 @@ Nor can it be said that this intelligent entity depends on something else for it
 इति नात्मा भवितुम् अर्हति ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since luminosity, by the very fact of its being luminosity, must necessarily pertain to something or other, as in the case of the luminosity of the pot, etc, mere luminosity cannot be the soul.
 </details>
@@ -6537,7 +6537,7 @@ Since luminosity, by the very fact of its being luminosity, must necessarily per
 अतो ज्ञातृतया ऽहम् इति सिद्ध्यन्न् अर्थ एवात्मा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, that entity alone which shines forth as the knower and termed 'I' is the self.
 </details>
@@ -6561,7 +6561,7 @@ Even in the state of release, the self shines to itself as 'I'
 स्वस्मै प्रकाशमानत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This self, even in the state of release, shines to itself only as the 'I', for it shines for its own sake.
 </details>
@@ -6586,7 +6586,7 @@ This self, even in the state of release, shines to itself only as the 'I', for i
 यथा तथाऽवभासमानत्वेनोभयवादि-सम्मतः संसार्य् आत्मा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (There is the general principle that) whatever shines for its own sake is found to shine only as the 'I'; for example, the self which is subject to the round of births and deaths is admitted by both the contending parties to shine in such a manner.
 </details>
@@ -6603,7 +6603,7 @@ This self, even in the state of release, shines to itself only as the 'I', for i
 यथा घटादिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Whatever does not appear as 'I' does not shine for its own sake; as pots and the like.
 </details>
@@ -6618,7 +6618,7 @@ Whatever does not appear as 'I' does not shine for its own sake; as pots and the
 स्वस्मै प्रकाशते चायं मुक्तात्मा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The released soul does appear for its own sake.
 </details>
@@ -6633,7 +6633,7 @@ The released soul does appear for its own sake.
 तस्मात् सो "ऽहम्" इत्य् एव प्रकाशते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, it appears as the 'I' and in no other way.
 
@@ -6659,7 +6659,7 @@ The consciousness of 'I' is natural and not due to occasional factors
 मुक्तत्व-विरोधात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It cannot be said that if the released self appears in such a manner (i.e. as the 'I') it would imply that it is involved in ignorance and samsara; for, this would contradict the nature of being a released soul.
 </details>
@@ -6680,7 +6680,7 @@ It cannot be said that if the released self appears in such a manner (i.e. as th
 अ-तद्+++(→संसारित्वाद्य्)+++-उपाधित्वाच् च तत्+++(→अहम्)+++-प्रत्ययस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, the consciousness of 'I' does not have for its cause the quality of being subject to ignorance and samsara.
 </details>
@@ -6701,7 +6701,7 @@ Moreover, the consciousness of 'I' does not have for its cause the quality of be
 न ह्य् अज्ञानोपाधिर् अहम्-प्रत्ययः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The consciousness of 'I' does not indeed have ignorance for its cause.
 </details>
@@ -6718,7 +6718,7 @@ The consciousness of 'I' does not indeed have ignorance for its cause.
 +++(मुक्ताव् अप्य् अहम्-प्रत्ययः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since even persons like Vamadeva, who have had their ignorance destroyed in its entirety by means of the direct realisation of Brahman as the self of all, are found to have the consciousness of 'I', the latter cannot, in fact, have ignorance for its cause.
 </details>
@@ -6748,7 +6748,7 @@ Since even persons like Vamadeva, who have had their ignorance destroyed in its 
 इत्य्-आदि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The scriptures say - 
 
@@ -6780,7 +6780,7 @@ The scriptures say -
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, even in the case of the Highest Person, who is not afflicted even in the least by ignorance and other evils in any manner and at any time, a similar reference to Himself is noticed, such as: 
 </details>
@@ -6801,7 +6801,7 @@ Similarly, even in the case of the Highest Person, who is not afflicted even in 
 "हन्ताहम् इमास् तिस्रो देवताः",  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 'Let me enter these three divinities (i. e., fire, water and food);'[F55_89] 
 
@@ -6825,7 +6825,7 @@ Similarly, even in the case of the Highest Person, who is not afflicted even in 
 "बहु स्यां प्रजायेय", 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 > 'May I become manifested and be born';[F55_90] 
 [F55_90]: *Chand*. *Up*. VI. ii. 3.
@@ -6848,7 +6848,7 @@ Similarly, even in the case of the Highest Person, who is not afflicted even in 
 "स ऐक्षत लोकान् नु सृजा इति"; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 > 'He thought: May I create the worlds" '[F55_91]  
 [F55_91]: *Ait*. *Up.* I. i.
@@ -6871,7 +6871,7 @@ Similarly, even in the case of the Highest Person, who is not afflicted even in 
 प्रथितः पुरुषोत्तमः" ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (It is said in the Gita) 'Since I transcend the destructible (kṣara) and am also superior even to the Indestructible (akṣara), I am proclaimed in the world and in the Veda as the Highest Person';[F55_92]  
 [F55_92]: *Bh*. Gitā. XIV. 4.
@@ -6894,7 +6894,7 @@ Similarly, even in the case of the Highest Person, who is not afflicted even in 
 "तेषाम् अहम् समुद्धर्ता",  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and by passages such as: 
 
@@ -6919,7 +6919,7 @@ and by passages such as:
 "अहं बीज-प्रदः पिता", 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 'I am the giver of the seed, the father';[F55_94] 
 [F55_94]: *Bh. Gitā*. XII. 7.
@@ -6942,7 +6942,7 @@ and by passages such as:
 "वेदाहं समतीतानि" इत्य्-एवम् आदिभिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 "I know the things past",  
 [F55_95]: *Bh.* Gitä. XII. 26. 
@@ -6982,7 +6982,7 @@ and so on.
 भगवतो "महाभूतान्य् अहङ्कारः" इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (It may be asked) 'If the 'I' really constituted the self, how could the Highest Lord have included ahamkāra among the elements that go to make up the material embodiment of the self (kşetra), and how could he have classed it among the evils to be rejected? (Our reply [[P56]] is) the teaching of the Highest Lord found in the verse (of the Gita XV. 5) commencing with the words 'The great elements, the ahamkara "[F56_96]to the effect that ahamkara is to be included among th objects that constitute the material embodiment of the self (kşetra) really refers only to that modification of unmanifest prakṛti by whose instrumentality the body, which distinct from the real self denoted by the word 'I', is erroneously taken to be 'I'. 
 
@@ -7007,7 +7007,7 @@ and so on.
 तत्र तत्र शास्त्रेषु प्रायशो हेयतयोपदिश्यते ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 And this ahamkāra, which is responsible for our slighting persons who are worthy of respect, and which is termed conceit, is often referred to by sastras as meriting rejection.
 </details>
@@ -7041,7 +7041,7 @@ It is only where the self appears as 'I'-'I am deva' - I am man- the possibility
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, it is proper to conclude that the consciousness of 'I', which has nothing to contradict it, has really the self for its object; 
 </details>
@@ -7062,7 +7062,7 @@ Therefore, it is proper to conclude that the consciousness of 'I', which has not
 अन्-आत्मनि तु शरीरे भवन्ती अविद्येति युक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that, on the other hand, the consciousness of 'I' which arises in regard to the body that is not the soul, is ignorance. 
 </details>
@@ -7084,7 +7084,7 @@ and that, on the other hand, the consciousness of 'I' which arises in regard to 
 इति महर्षिणा वासिष्ठ-नन्दनेन ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (In agreement with this) it has been said by (Parāśara) the grandson of Vasistha: 'O thou! the giver of delight to thy family! Hear from me the essential nature of ignorance; it is the consideration of the not-self as the self.'[F56_97] 
 
@@ -7114,7 +7114,7 @@ and that, on the other hand, the consciousness of 'I' which arises in regard to 
 अतो ज्ञाप्तिमात्रात्मवादो न सङ्गच्छते पुराणोक्ताविद्या-निर्वचनेन। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (Our position squares well with Parāśara's definition of ignorance; but yours does not; for,) the illusory apprehension of the body as pure consciousness occurs to no one.  
 Even to you, who maintain that pure consciousness alone is self, the consideration of the non-soul as the self will be possible, if there is the illusory apprehension of the body as pure consciousness. 
@@ -7147,7 +7147,7 @@ Even to you, who maintain that pure consciousness alone is self, the considerati
 "ज्ञाता ऽहम्" इति भासते ॥ १.१४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As is proved by perception (the judgment 'I know' establishes knowledge to be an attribute and the 'I' to be its possessor), and as it results from the application of the aforesaid reasons (such as, if pure consciousness alone persisted and the 'I' disappeared in the state of release, no one would strive for realisation), and as scriptural texts (declare that even released souls refer to themselves as 'I'),  
 and as there is the possibility of ignorance (only on our position),  
@@ -7182,7 +7182,7 @@ it follows that the self which is the knower presents itself as the 'I'.
 इति ज्ञातुर् आत्मनो मुक्त्य्-आदौ सर्वदाप्य् अहम्-भाव-भान-समर्थन-प्रकरणम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Thus ends the section supporting the manifestation of the 'I' in the case of the self as the knower, in liberation and at all other times.
 </details>
@@ -7202,7 +7202,7 @@ Thus ends the section supporting the manifestation of the 'I' in the case of the
 "किम् इदम् अजडत्वं नामे"ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 With regard to (your) assertion that consciousness itself is the self because it (consciousness) is not non-intelligent, it has to be pointed out (that you must explain) what you understand by 'not non-intelligence'.
 </details>
@@ -7231,7 +7231,7 @@ With regard to (your) assertion that consciousness itself is the self because it
 तथा सति सुखादिभिर् व्यभिचारी हेतुः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is replied that a non-intelligent entity is that which may (at times) fail to manifest itself, even though it be existent, and that an intelligent entity is that which has an opposite nature, namely, an existence invariably associated with manifestation (we point out that) since pleasure and the like are not considered to be soul even though they are not non-intelligent your reason is fallacious.
 </details>
@@ -7253,7 +7253,7 @@ If it is replied that a non-intelligent entity is that which may (at times) fail
 कदाचिद् अनवभासमाना भवन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, when pleasure, pain, desire and the like exist at all they never fail to present themselves.
 </details>
@@ -7269,7 +7269,7 @@ Indeed, when pleasure, pain, desire and the like exist at all they never fail to
 दीपादिभिर् अनैकान्तिकम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (If an intelligent entity is defined as) that which depends for its manifestation on its own existence, (we point out that) since the lamp and the like are not taken to be the soul even though they depend for their manifestation on their own existence, your reason is fallacious.
 </details>
@@ -7291,7 +7291,7 @@ Indeed, when pleasure, pain, desire and the like exist at all they never fail to
 चासिद्धता +++(अजडान्तरस्य)+++, +++(निर्विकल्पता-)+++विरुद्धता च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, as a manifestation different from consciousness is not admitted (by you) your hetu (reason), namely, intelligence occurring in the argument that consciousness itself is the soul, because it is intelligent) becomes unestablished (i. e. commits the fallacy of svarūpāsiddha); it also contradicts your theory (that consciousness is attributeless).
 </details>
@@ -7321,7 +7321,7 @@ Besides, as a manifestation different from consciousness is not admitted (by you
 ज्ञानं वा किं स्वस्मै प्रकाशते? +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it is your view that pleasure and the like, although invariably associated with manifestation, are bound to be non-intelligent, for the reason that, like the pot, they manifest themselves for the sake of others, and are in consequence, to be considered as not-soul, (we ask in reply,) Do you mean then to suggest that knowledge too manifests itself for the sake of something other than itself, namely, the knower, the 'I'?
 </details>
@@ -7344,7 +7344,7 @@ If it is your view that pleasure and the like, although invariably associated wi
 "अहम्-सुखी"ति-वत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The judgment 'I know' establishes this, even as the judgment 'I am having pleasure' (proves that pleasure presents itself for the sake of the 'I').
 </details>
@@ -7360,7 +7360,7 @@ The judgment 'I know' establishes this, even as the judgment 'I am having pleasu
 असिद्धः संविदि +++(त्वद्-अभिमतात्मनि)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, the quality of being not non-intelligent (ajaḍatva), taken in the sense of the quality of manifesting for one's own sake, does not exist (asiddha) in consciousness (which is the minor term or paksa in your argument).
 </details>
@@ -7377,7 +7377,7 @@ Therefore, the quality of being not non-intelligent (ajaḍatva), taken in the s
 अजडो ऽहम्-अर्थ एवात्मा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Hence, it is only the entity known as 'I', which is not non-intelligent, and which manifests itself for its own sake by its own existence that constitutes the self.
 </details>
@@ -7398,7 +7398,7 @@ Hence, it is only the entity known as 'I', which is not non-intelligent, and whi
 तत्+++(→आत्म)+++-सम्बन्धायत्ता तु ज्ञानस्यापि प्रकाशता ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P58]] The luminosity of consciousness itself is dependent on its connection with the self.
 </details>
@@ -7421,7 +7421,7 @@ Hence, it is only the entity known as 'I', which is not non-intelligent, and whi
 सुख-दुःखादेर् इव ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 That is why knowledge, as in the case of pleasure, pain and the like, manifests itself to that intelligent person who is its own substrate, and not to anybody else.
 </details>
@@ -7444,7 +7444,7 @@ That is why knowledge, as in the case of pleasure, pain and the like, manifests 
 अयम् आत्मा ऽत्मने प्रकाशते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The self, on the contrary, does not present itself for its own sake by depending on its connection with some other soul or some other entity.
 </details>
@@ -7465,7 +7465,7 @@ The self, on the contrary, does not present itself for its own sake by depending
 एतच् चानन्तरम् एवोपपादयिष्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 This will be explained presently.
 </details>
@@ -7486,7 +7486,7 @@ This will be explained presently.
 इति ज्ञानात्मत्व-साधकाजडत्व-दूषणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The unsoundness of the argument that consciousness itself is the soul as it is insentient
 </details>
@@ -7514,7 +7514,7 @@ is unsound—
 ज्ञानस्यापि तथात्व-प्रसङ्गात् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 You cannot maintain that the invariable association of the manifestation of 'I' with consciousness prevents us from taking the 'I' to be a distinct entity; for, on the same count, it might as well follow that consciousness itself cannot be taken to be a distinct entity.
 </details>
@@ -7537,7 +7537,7 @@ You cannot maintain that the invariable association of the manifestation of 'I' 
 अहम्-अर्थाद् अनर्थान्तरं मिथ्या-रूपम् एवाऽपद्येत +++(त्वन्-मते)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since it (consciousness) invariably manifests itself along with the 'I', it would follow that consciousness also is ~~not~~?? an entity different from 'I' and that it is unreal.
 </details>
@@ -7561,7 +7561,7 @@ Since it (consciousness) invariably manifests itself along with the 'I', it woul
 प्रत्येकं व्यभिचार-दर्शनात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, since in each item of knowledge we meet with the absence of the invariable association of the manifestation of 'I', the invariable manifestation of 'I' with any particular item of knowledge does not exist.
 </details>
@@ -7591,12 +7591,12 @@ Moreover, since in each item of knowledge we meet with the absence of the invari
 +++("ज्ञानात्मनोः सहोपलम्भाद् अभेद" इत्य्-अत्र)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, there is neither an object (viṣaya) apart (from its knowledge) nor pure knowledge divested of any relation to all particular objects; if either existed, then the invariable concomitance of the manifestation of knower with knowledge could be posited.[F58_98]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F58_98]: Having pointed out that the sahopalambhaniyama itself is impossible for the reason that there is the presentation of the 'I'  
 even in the absence of any particular item of knowledge,  
@@ -7636,12 +7636,12 @@ Hence, the illustrative example is subject to the charge of being unproven.
 +++(अपोह-वादिभिः)+++ सौगतैर् न वस्तुतया ऽस्थीयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P59]] And even if the property common to all knowledge (jñānasāmānya) is existent, it is not considered to be a positive entity by the Buddhists.[F59_99]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F59_99]: The Buddhists cannot hope to escape the difficulty  
 by saying that between vişayatva (the property of being an object of knowledge) and jñanatva (the property common to all knowledge)  
@@ -7676,7 +7676,7 @@ See Six *Buddhist Nyaya Tracts*.
 इति च वक्ष्यामः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 We shall show that even in the absence of all (knowledge due to mental) modifications, the soul exists as a self-luminous entity.
 </details>
@@ -7699,7 +7699,7 @@ We shall show that even in the absence of all (knowledge due to mental) modifica
 +++("ज्ञानात्मनोः सहोपलम्भाद् अभेद" इत्य्-अत्र)+++।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 From the assertion that the two (i. e., knowledge and knower) are one, there arises a contradiction in the opponent's own statement;
 </details>
@@ -7721,7 +7721,7 @@ From the assertion that the two (i. e., knowledge and knower) are one, there ari
 "शिष्येण सह गच्छत्य् आचार्य" इति यथा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, the word saha (with) is used only when two entities enter on an identical course of action, as in the instance 'with the pupil, the preceptor comes'.
 </details>
@@ -7737,12 +7737,12 @@ for, the word saha (with) is used only when two entities enter on an identical c
 सवित्री-वन्ध्यात्व-विधिर् इव ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Further, after referring to the two (i. e. blue and its awareness) by the expression *nila-taddhiyoḥ* to assert (their) identity by the word abhedaḥ (non-difference)[F59_100] is like stating that one's mother is a barren woman.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F59_100]: The reference here is to the Buddhistic dictum- sahopalambha-niyamad abhedo nila-tad-dhiyoḥ.
 </details>
@@ -7768,12 +7768,12 @@ Further, after referring to the two (i. e. blue and its awareness) by the expres
 सर्व-ज्ञ-ज्ञानेन सहोपलम्भ-नियम-भागिभिः संसारि+++(-आत्म)+++-ज्ञानैश् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, in view of the fact that qualities such as non-intelligence and the like are denied to consciousness, and in view of the fact that the knowledge of the soul in bondage is invariably apprehended along with the all-embracing knowledge of the omniscient being (sarvajña) (your hetu) is liable to be charged with *anekanta* dosa.[F59_101]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F59_101]: By drawing attention to the fact that the hetu (sahopalambhaniyama) is present even in cases where the sadhya (non-difference) is not known to exist, Yamunarya exposes the fallacy (i. e. *anekānta*) vitiating the argument of the opponent. The latter may try to meet this by admitting that even in those cases the sadhya is really present. In reply to this, Yamuna says in the next sentence that this admission leads to absurdities.
 </details>
@@ -7796,7 +7796,7 @@ Besides, in view of the fact that qualities such as non-intelligence and the lik
 "बुद्धस्य बद्धत्वम्" इत्य् आपद्येत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P60]] If, in their case (i. e., between the knowledge of the soul in bondage and that of the sarvajña), non-difference is admitted, the quality of non-intelligence and that of having a form and the like would have to be ascribed to consciousness, and the quality of being a bound soul would have to be attributed to the Buddha.
 </details>
@@ -7825,12 +7825,12 @@ since one and the same consciousness presents the invariable concomitance of kno
 उक्त-प्रकारेण प्रत्युक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As shown before, even the contention of their (knowledge and knower) being invariably the objects (visaya) of one and the same knowledge stands condemned.[F60_102]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F60_102]: To obviate the contradiction involved in sahopalambhaniyama to which attention of the opponent was drawn, he shifts his ground and employs a different hetu, namely, *niyamena* ekajnānasiddhatvam.
 </details>
@@ -7859,7 +7859,7 @@ As shown before, even the contention of their (knowledge and knower) being invar
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, here the non-existence of the hetu in cases where the sadhya is known to be absent (vipakṣa) cannot be established;
 </details>
@@ -7881,12 +7881,12 @@ Besides, here the non-existence of the hetu in cases where the sadhya is known t
 को विरोधः? ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for there may be the invariable presentation of knowledge, the known and the knower in one and the same knowledge, and still there may not be non-difference between them.[F60_103] What is the inconsistency here?
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F60_103]: The opponent argues that knowledge and the knower must be identical; for they are invariably apprehended together in one and the same knowledge. Against the possible objection they may be so apprehended and still may not be identical, he must adduce the indirect proof (tarka) that if they were not identical, they could not be apprehended together in the self-same knowledge. It is shown here that he is unable to do so.
 </details>
@@ -7911,7 +7911,7 @@ for there may be the invariable presentation of knowledge, the known and the kno
 आहोस्वित् तद्-अभेदतः +++(→अनुरुध्यते)+++॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.15 Do (objects of knowledge, such as) blue and the like depend for their apprehension and consideration on knowledge either because they are not self-luminous or because of their non-difference (from knowledge)?
 </details>
@@ -7943,7 +7943,7 @@ for there may be the invariable presentation of knowledge, the known and the kno
 न पुनर् बुद्धि-बोद्धृ-गः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 1.16 As, in this manner, it becomes a matter for doubt, it is impossible to determine that there is this non-difference. And this generalisation (that everything depends for its manifestation on consciousness) obtains only in the case of objects known and not in that of knowledge or the knower.
 </details>
@@ -7968,7 +7968,7 @@ for there may be the invariable presentation of knowledge, the known and the kno
 वित्तेर् अपि वेदितुर् भेदस्यापरोक्षत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Besides, the conflict (of this theory) with perceptual experience is obvious; for, in every knowledge, the distinction of the knower from knowledge is apprehended.
 </details>
@@ -7993,7 +7993,7 @@ Besides, the conflict (of this theory) with perceptual experience is obvious; fo
 +++(स्तम्भ-पिशाच-भेद-प्रत्यक्षे पिशाच-व्यक्तेर् अनपेक्षेव)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (At this stage the opponent may object and say that the distinction of knower from knowledge cannot be perceived, since the counter-correlative (i. e., knowledge) is not perceived;  
 and that even if it is admitted to be perceptible on the strength of the doctrine of svayamprakāśatva,  
@@ -8036,12 +8036,12 @@ in as much as it is not responsible (for the perception of difference).
 इति सर्व-लोक--स्व-साक्षिकम् एतत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P61]] (We may go a step further and say that) even when the counter-correlative is not apprehended, things are directly perceived as being distinct in themselves;[F61_104] and this will be testified to by everybody from his own experience.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F61_104]: The apprehension of the generic property (jati) of a thing, say a pot, is nothing more than the apprehension of the distinction from other things, i.e., non-pots; and it prevents erroneous identifications. In fact, difference (bheda) is nothing more than generic property (jāti). To grasp the generic property in itself it is unnecessary that the counter-correlative (pratiyogi) should have been perceived. But the generic property, in its aspect of eliminating erroneous identifications is known as bheda (difference), and is, certainly, found to pre-suppose knowledge of the pratiyogi. See *Sri Bhasya*, Ananda Press edn. p. 29; see also verses 13-14 of Adravyasara in *Tattvamuktākalāpa* and *Sarvārthasiddhi* 'yadā punaḥ adhyāsa nivartakatvarūpadharmāntaravaišistyena vyavahriyante, tada bheda iti usyante | tena tesameva dharmāņām vastusvarūpeņa vyavahriamāṇādmļne pratiyogisā pekṣatvam | adhyasanivartakatvarūpadharmantaravaisiṣṭyena vyavabriyamāņānām pratiyogisa pekşatvam iti |
 </details>
@@ -8072,7 +8072,7 @@ The contention that knower and known are one on ground of invariable concomitanc
 कथम् इव ततस् +++(भेद-प्रत्यक्षात्)+++ तद्+++(→अभेदानुमान)+++-बाध-सम्भवः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (The opponent may ask) since, by trampling on the head of the perception of difference which is alive, (we) notice the universal concomitance between the invariable manifestation (of two things) together and their non-difference, how can the sublation of non-difference be effected by perception of difference?
 </details>
@@ -8107,7 +8107,7 @@ The contention that knower and known are one on ground of invariable concomitanc
 तद्-एकत्व-प्रत्यभिज्ञया ऽपोद्येत ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 If it could be effected, even the inference regarding the difference of the flames (at successive moments) would be stultified by the recognition of their identity.
 </details>
@@ -8128,7 +8128,7 @@ If it could be effected, even the inference regarding the difference of the flam
 अविशेष-ज्ञो देवानां प्रियः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (The reply is that) the fool (of an opponent) is ignorant of the distinction (between these two cases).
 </details>
@@ -8151,7 +8151,7 @@ If it could be effected, even the inference regarding the difference of the flam
 न निरवद्य-प्रत्यक्ष-पूर्वकम् अनुमानं बाधितुम् अर्हति +++(वक्ष्यमाण-रीत्या)+++।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P62]] Indeed in the case of the flame, the perceptual knowledge, which arises when there is continuity of the defects in the settled causes (of knowledge) is incapable of sublating the inference which is based upon defectless perception.
 </details>
@@ -8179,7 +8179,7 @@ If it could be effected, even the inference regarding the difference of the flam
 इति दृष्टम् ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 To make the point clear-it is found that, on account of close similarity between the different flames that are extinguished and lighted immediately after and which exist in the parts of one and the same which the remembrance "This is, certainly, that flame which I saw before" occurs to one who has not noticed their difference.
 </details>
@@ -8206,7 +8206,7 @@ The example of different terms appearing as identical is not helpful-
 अतो ऽन्यत्राप्य् अप्रतिबन्ध-पुष्कल-कारण-क्रमोपनिपाताद् अवयव-विश्लेषाच् च सुसदृश-निरन्तर-प्रवृत्त-प्रदीप-प्रवाहाळम्बनैव तथा मतिर् इति निश्चीयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, even in other cases (where the flames are not extinguished and kindled afresh), as there is the occurrence of a series of the complete set of causal factors, which have no counter-acting circumstances, and as there is the separation of parts (of the causal conditions) it is to be concluded that such a knowledge (of identity) has for its object closely similar and incessantly flowing flame-series.
 </details>
@@ -8231,12 +8231,12 @@ Therefore, even in other cases (where the flames are not extinguished and kindle
 नासौ तत्रैकत्वानुमानम् अभिभवितुं प्रभवति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, as the cognition of diversity in regard to one and the same thing is found in the case of seeing the moon double and the like as being occasioned by the swerving from the normal mode of the working of the sense-organ,[F62_105] and as having its object contradicted by the simultaneously arising defectless cognitions of many persons, this (perception of diversity) is not capable of setting aside the inference of identity in those cases.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F62_105]: Either through pressure of the finger upon the eye or on account of some defect in the visual mechanism, the rays of the organ of sight (nayanarasmi) split and travel in two directions, thereby creating, for all practical purposes, two mutually independent apparatuses of vision. One apparatus apprehends the moon in her proper place, without, however, apprehending her unity; the other, which moves somewhat obliquely, apprehends, at first, a place close by the moon, and subsequently the moon herself, without, however, noticing the intervening space separating this place and the moon. These two perceptions-one manifesting the moon in her proper place, and other in a place close by-arise in such quick succession that the perceiver fails to notice the order of their occurrence, and thereby omits to note their varying natures. Thus, the double apparatus causes two apprehensions; and as the apprehensions differ, there is also difference in the character of the object apprehended. The mistake here lies in the failure to notice the fact that the duality found in the places is unrelated to the moon. Hence, the perception of two moons. The Prabhakara account, which is closely similar to this, would, however, say that the double apparatus yields a duality of apprehensions, but it fails to grasp that the duality present in the apprehensions is unrelated to the moon. Compare: 'netravṛttih vittigatadvitvam candrañca agrhitabhedam gṛhṇātiti Prabhakarah | yathā
 </details>
@@ -8259,7 +8259,7 @@ Similarly, as the cognition of diversity in regard to one and the same thing is 
 प्रतिरुणद्ध्य् एवायम् +++(प्रत्यय)+++ इहाभेदानुमानोदय-प्रसक्तिम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But here, the knowledge which immediately apprehends the distinction of the knower, knowledge and the known is not of such a nature; hence, here it certainly does prevent the very possibility of the birth of the inference of identity.
 </details>
@@ -8287,12 +8287,12 @@ But here, the knowledge which immediately apprehends the distinction of the know
 विपक्षे+++(=विसाध्य-पक्षे)+++ बाधकानुपलब्धेः -  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P63]] But, here it is not proper to say that identity is inferable on the mere basis of the invariable manifestation of two things together;[F63_106] for we know of no obstacle preventing the existence of this hetu *(probans)* in cases where the sadhya (that which is to be proved) is absent.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F63_106]: Upalabdhisahityaniyalama and sahopalambhaniyama are identical. The fallacy of anekanta vitiating this hetu was first exposed. Here it is shown that the inability to cite indirect proof applies to this, as it does to the other hetu, namely, niyamena ekajñānasiddhatvam.
 \*The Benares edition reads vitti; the variant reading found in the Telugu edition and in some manuscripts has been preferred.
@@ -8314,7 +8314,7 @@ But here, the knowledge which immediately apprehends the distinction of the know
 संविद्-अधीन-सिद्धितया ऽपि तथा नियमोपपत्तेः,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It may as well be that this invariable apprehension is due to objects depending for their manifestation on consciousness,
 </details>
@@ -8336,7 +8336,7 @@ It may as well be that this invariable apprehension is due to objects depending 
 +++(चन्द्र-द्वय-दर्शनय् इव)+++ तद्+++(→इन्द्रिय)+++-वृत्ति-विपर्ययस्याकिञ्चित्करत्वात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since the reference to the deviation from the normal mode of working of the senses serves no purpose for the reason that (knowledge and knower) are not cognised by the senses, (you cannot point out that the perception of difference, like the perception of two moons, is due to the deviation from the normal mode of working of the senses).
 </details>
@@ -8357,7 +8357,7 @@ Since the reference to the deviation from the normal mode of working of the sens
 योग्यानुपलम्भ-पराकृतत्वाच् च बाधक-प्रत्ययस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 As the existence of a sublating cognition is denied by effectual non-perception, (the perception of difference cannot be declared to be false).
 </details>
@@ -8380,12 +8380,12 @@ As the existence of a sublating cognition is denied by effectual non-perception,
 अपि च विषय-सिद्धिर् हि संवित् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Moreover, consciousness is well-known to be the manifestation of objects;[F63_107]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F63_107]: See note 104.
 </details>
@@ -8400,7 +8400,7 @@ Moreover, consciousness is well-known to be the manifestation of objects;[F63_10
 सा च स्वयम्-प्रकाशेत्य् अ-विवादः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 and that it is self-luminous is beyond dispute;
 </details>
@@ -8415,7 +8415,7 @@ and that it is self-luminous is beyond dispute;
 तेनावर्जनीयस् तथा नियमः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 hence, such an invariable manifestation of knowledge and the known is unavoidable.
 </details>
@@ -8443,7 +8443,7 @@ hence, such an invariable manifestation of knowledge and the known is unavoidabl
 इत्य् अलम् अनेनानुभव-पराहत-मतातिव्याकुली-करणेन ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P64]] The contention that distinction (of objects from one another) can be established without the aid of consciousness is not likely to be put forward by any one who is not mad. Let this violent shaking of the doctrine which is opposed to experience suffice.
 </details>
@@ -8503,7 +8503,7 @@ Refutation of the contention that there is no object that does not manifest itse
 न समर्थनान्तरं प्रार्थयते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Since the notion that the manifestation of objects, such as, blue and the like, which, in their nature, are not self-luminous, (is effected by consciousness) is vouched for by experience, it requires no other proof.
 </details>
@@ -8524,7 +8524,7 @@ Since the notion that the manifestation of objects, such as, blue and the like, 
 आत्मा तु प्रकाश-स्वभाव एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The self, on the contrary, is essentially self-luminous.
 </details>
@@ -8541,7 +8541,7 @@ The self, on the contrary, is essentially self-luminous.
 स्व-तन्त्रत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 On this count alone, the self cannot be knowledge, as the former is self-dependent.
 </details>
@@ -8566,7 +8566,7 @@ On this count alone, the self cannot be knowledge, as the former is self-depende
 इति प्रागेवावोचम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 It has already been stated that knowledge is dependent (on the self), that it is occasional, that it exists only so long as the causes, such as, the contact of the senses with their objects, persist, and that its nature is to pertain to some object or other.
 </details>
@@ -8589,7 +8589,7 @@ It has already been stated that knowledge is dependent (on the self), that it is
 "अहम्" इति प्रत्यात्मं प्रथते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The self, on the contrary, is independent, and is the knowing subject; it shines as the 'I' in every self.
 </details>
@@ -8611,7 +8611,7 @@ The self, on the contrary, is independent, and is the knowing subject; it shines
 अभिलप्यतां कामम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even when it is of this nature, if the self is termed knowledge, on the ground that it does not depend for its manifestation on something other than itself, you are welcome to say so.
 </details>
@@ -8634,7 +8634,7 @@ Even when it is of this nature, if the self is termed knowledge, on the ground t
 न ज्ञप्ति-मात्रतया । +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even when it is so (described), surely, this knowledge is the possessor of knowledge, and not such a pure consciousness (as is held by you).
 </details>
@@ -8655,7 +8655,7 @@ Even when it is so (described), surely, this knowledge is the possessor of knowl
 (इत्य् अद्वैताभिमत-ग्राह्य-ग्राहक-विकल्प-प्रत्युद्धार-निराकरणम्)
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 (इत्यद्वैत्यभिमतग्राह्यग्राहकविकल्पप्रत्युद्धारनिराकरणम्)
 </details>
@@ -8683,12 +8683,12 @@ Scriptural support for the existence of a soul distinct from consciousness:
 इत्य् आद्यामनन्ति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Indeed, for that very reason, the *Chandogas* (those who chant the Sama-veda) declare "He who has the awareness of 'let me smell this' he is the self."[F64_108]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F64_108]: *Chand*., *Up*. VII. xii.4.
 </details>
@@ -8716,12 +8716,12 @@ Indeed, for that very reason, the *Chandogas* (those who chant the Sama-veda) de
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, after the question "what is the soul?" has been raised, *Vajasaneyins* offer the same definition (of the soul, namely "He who is in the midst of the senses and vital breath, who has knowledge for his essence and who is the light inside the heart, he is the person,"[F64_109]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F64_109]: *Brh*. *Up*. IV. iii. 7.
 </details>
@@ -8751,7 +8751,7 @@ Similarly, after the question "what is the soul?" has been raised, *Vajasaneyins
 इति यथोदितम् एवात्म-स्वरूपम् उपदिश्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 [[P65]] It is only in the manner indicated already that the true nature of the soul has been here described as follows - "He who is experienced by everybody, who is filled with knowledge concerning diverse objects, who resides among the senses and breath as their director, who is the inward light in the region of the heart, and who shines for his own sake as the 'I,' is the purusa."
 </details>
@@ -8769,12 +8769,12 @@ Similarly, after the question "what is the soul?" has been raised, *Vajasaneyins
 इत्य् आथर्वणाः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The followers of Atharva veda say "Truly, this entity; the seer, hearer, smeller, taster, thinker (mantr), knower (boddhr), doer (karta), he who has knowledge for his essence, is the purusa."[F65_110]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F65_110]: *Prasna*. Up. *IV.*
 </details>
@@ -8799,7 +8799,7 @@ The followers of Atharva veda say "Truly, this entity; the seer, hearer, smeller
 इति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Similarly, the following and other passages are found :--- "Lo! whereby would one understand the understander?"[F65_111]  
 [F65_111]: *Brh*. *Up*. *II*. iv. *14.*
@@ -8824,7 +8824,7 @@ Similarly, the following and other passages are found :--- "Lo! whereby would on
 न रोगं, नोत दुःखताम्  
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 "The seer sees neither death nor sickness, nor the evil in the world"[F65_112];  
 [F65_112]: *Chand*. *Up*. *VII*. xxvi. 2
@@ -8852,7 +8852,7 @@ Similarly, the following and other passages are found :--- "Lo! whereby would on
 नोपजनं स्मरन्न् इदं शरीरम् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 > "He (the highest light to which the jiva reaches up) is the Supreme Person, "   
 "The jiva experiences him in diverse ways. . . not thinking of the body cast behind in the midst of his kin"[F65_113]  
@@ -8879,7 +8879,7 @@ Similarly, the following and other passages are found :--- "Lo! whereby would on
 पुरुषं प्राप्यास्तं गच्छन्ति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 > "Even so, the sixteen parts (kalas) of the experiencer (jiva),  
 which depend (for their existence, nature and continuance) on the Highest Person,  
@@ -8910,7 +8910,7 @@ on reaching Him, become incapable of entangling Him in pleasure, pain, etc."[F65
 इत्य्-आद्याः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 "Different from that made of mind is another inner soul consisting of knowledge."[F65_115]
 [F65_115]: *Tait*. *Up.* II. 4.
@@ -8935,7 +8935,7 @@ on reaching Him, become incapable of entangling Him in pleasure, pain, etc."[F65
 अपि तु तद्वद्-वचनः -
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Even while defining Brahman, in the text-- Brahman is satya, jñāna 'the word jñāna does not refer to mere knowledge, but to the possessor of it;
 </details>
@@ -8956,12 +8956,12 @@ Even while defining Brahman, in the text-- Brahman is satya, jñāna 'the word j
 तद्-वचनत्वे "लिति" इति आद्युदात्तत्व-प्रसक्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 for, if it referred to the former, according to the sutra-liti[F65_116] it would follow that the first syllable must have the principal accent.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F65_116]: *Aṣṭādhyāyi*. *VI*. i. *193*
 </details>
@@ -8982,7 +8982,7 @@ for, if it referred to the former, according to the sutra-liti[F65_116] it would
 अन्तोदात्तश् चायं ज्ञान-शब्दः ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 But this word, jñāna has its principal accent on the last syllable.
 </details>
@@ -9006,7 +9006,7 @@ But this word, jñāna has its principal accent on the last syllable.
 परमात्म-निरूपणे अतिनिपुणम् उपपादयिष्यामः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The word jñāna being so accented will be appropriate only if it has, at its termination, the suffix *ac*, which conveys the same meaning as the suffix *matup*. Otherwise, it would not be (appropriate). We shall explain this very clearly while treating of the Supreme Self.
 </details>
@@ -9031,12 +9031,12 @@ The word jñāna being so accented will be appropriate only if it has, at its te
 इति प्रकृष्ट-ज्ञानवन्तम् +++(प्रज्ञानात्मनो भिन्नम्)+++ एवेश्वरं दर्शयति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 The Aitareya Upanisad also, after describing Brahman in the words 'prajñāna is Brahman', refers to the Lord as the possessor of supreme intelligence by the expression 'he (Vamadeva), by means of this Self possessed of intelligence.[F65_117]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>R. Ramanuja & K. Srinivasa - Notes</summary>
 
 [F65_117]: *Ait*. *Up*. *Part* V.
 </details>
@@ -9057,7 +9057,7 @@ The Aitareya Upanisad also, after describing Brahman in the words 'prajñāna is
 तत्-सिद्धं ज्ञातैवायम् आत्मेति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>R. Ramanuja & K. Srinivasa</summary>
 
 Therefore, it is clear that this soul is truly the knower.
 </details>
