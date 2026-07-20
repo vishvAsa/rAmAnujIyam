@@ -954,6 +954,8 @@ Por lo tanto, Dvaya **es** un objeto de **disfrute** (bhogya).
 
 <details><summary>विजय-राघवः (क)</summary>
 
+**मुन्दॆ द्वयवु हेगॆ भोग्यवादुदॆम्बुदन्नु तिळिसुत्तारॆ.-** 
+
 ""
 ""
 ""
