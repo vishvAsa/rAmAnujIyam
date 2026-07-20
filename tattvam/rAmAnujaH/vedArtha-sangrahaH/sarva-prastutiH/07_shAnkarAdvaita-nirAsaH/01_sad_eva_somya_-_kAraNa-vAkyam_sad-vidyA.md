@@ -163,7 +163,8 @@ These are three negative statements about a single entity and are not three diff
 
 <details><summary>rAjagopAla</summary>
 
-This is not a proper answer. According to this view (Advaita), since everything is illusory (mithya), there is nothing else that requires to be known. It cannot then be proved that all things are known by knowing the One. If the meaning of "all things are known by a knowledge of the One (i. e.) Brahman)" is that, since they and the One are of the same nature, when the One is known, the rest are also known, </details>
+This is not a proper answer. According to this view (Advaita), since everything is illusory (mithya), there is nothing else that requires to be known. It cannot then be proved that all things are known by knowing the One. If the meaning of "all things are known by a knowledge of the One (i. e.) Brahman)" is that, since they and the One are of the same nature, when the One is known, the rest are also known, 
+</details>
 
 <details><summary>नीलमेघः</summary>
 
@@ -1250,7 +1251,7 @@ Br. Up. 5, 8, 9.
 शिला तृणं घटः पट इत्यादयः सर्वे  
 प्रकृति-प्रत्यय-योगेनाभिधायकतया प्रसिद्धाः शब्दा  
 लोके तत्-तद्-वाच्यतया प्रतीयमान--तत्-तत्-संस्थान-वस्तु-मुखेन  
-तद्-अभिमानि-जीव+++(←घटेऽपि!)+++--तद्-अन्तर्यामि-परमात्म-पर्यन्त--संघातस्यैव वाचका इति ।
+तद्-अभिमानि-जीव+++(←घटेऽपि!)+++--तद्-अन्तर्यामि-परमात्म-पर्यन्त--संघातस्यैव वाचका इति ।+++(5)+++
 </details>
 
 
