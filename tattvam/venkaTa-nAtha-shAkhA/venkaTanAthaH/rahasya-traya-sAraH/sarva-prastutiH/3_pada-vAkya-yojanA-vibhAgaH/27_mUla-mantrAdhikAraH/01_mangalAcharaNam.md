@@ -369,6 +369,14 @@ En el Dharma sobre sí mismo, que **es** característico de Krita Yuga -
 मन्त्राय महते **नमः** ॥ ६१ ॥
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+विष्णु-वासुदेव-नारायण-मन्त्रा व्यापकाः।  
+वासुदेवे देव-शब्दोऽदिकम् अर्थं वर्णयति।  
+ततोऽप्य् अदिकं नारायण-सब्दः - उपायोपेयत्वादि-सूचनया।
+</details>
+
+
 <details><summary>English</summary>
 
 Let us adore that great mantra,  

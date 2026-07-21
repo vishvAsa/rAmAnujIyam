@@ -19,9 +19,19 @@ As per early 1800 records all temples in karnataka had vadakalai thiruman - this
 Paintings of cheluvanArAyaNa just from last century show just a longer U instead of the thickened base.
 
 ### talakADu, madhyaranga, satyagAla
-Same bhattars - For talakadu, madhyaranga & satyagalam.  
-Perumal remain intact.  
-MM pratishTa has happened in Talakadu (with vk tirumaN AbharaNa) & Madhya ranga (with vk tirumaN inscribed).
+Same bhattars - For talakadu, madhyaranga (shivanasamudra) & satyagalam - T Narspura to Shivansamudra belt.  
+
+Perumals remain intact.  
+
+MM pratishTa has happened in Talakadu (with vk tirumaN AbharaNa).
+
+Satyagala the only archaka (who is TK) tried to get TK curtains and ornaments. But vetoed (unlike shivansamudra with multiple stakeholders, Parakalamatha is the only stakeholder in Satyagala). he is the only permanent SV V1 resident in the town too.
+
+### shivana-samudra
+MM pratishTa has happened in Madhya ranga (with vk tirumaN inscribed).  
+satyagAla archaka's relatives in Shivansamudra (brother) and he were present in the new MM idol installation there and also removing VK slabs in a few places + Adding TK ornaments.
+
+
 
 ### Lakshmi Narayana temple, Kollegala
 Perumal wears vk  
