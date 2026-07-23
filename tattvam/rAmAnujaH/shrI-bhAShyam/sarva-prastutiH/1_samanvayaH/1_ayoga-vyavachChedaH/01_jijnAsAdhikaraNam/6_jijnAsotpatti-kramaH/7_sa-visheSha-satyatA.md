@@ -1373,7 +1373,7 @@ and thus there would cling to it all the imperfections indicated by yourself –
 
 <details><summary>English</summary>
 
---From all this we conclude that perception has for its object only what is distinguished by difference manifesting itself in generic character and so on, which constitute the make or structure of a thing. 
+\-- From all this we conclude that perception has for its object only what is distinguished by difference manifesting itself in generic character and so on, which constitute the make or structure of a thing. 
 </details>
 
 
@@ -1743,7 +1743,13 @@ Hence mere Being does not alone constitute reality.
 
 
 
-## सदनुभूत्योः नानात्वम्
+## सद्-अनुभूति-भेदः
+
+<details><summary>English</summary>
+
+Being and consciousness are not one.
+</details>
+
 
 अनुभूतिसद्विशेषयोश्च विषयविषयिभावेन भेदस्य प्रत्यक्षसिद्धत्वादबाधितत्वाच्च अनुभूतिरेव सतीत्येतदपि निरस्तम्॥
 
@@ -3997,43 +4003,326 @@ for such absence of knowledge is ascertained by the sixth means of proof (anupal
 
 किञ्च – अपूर्वमनिर्वचनीयमिदं वस्तुजातं रजतादिबुद्धिशब्दाभ्यां कथमिव विषयीक्रियते, न घटादिबुद्धिशब्दाभ्याम्। रजतादिसादृश्यादिति चेत्; तर्हि तत्सदृशमित्येव प्रतीतिशब्दौ स्याताम्। रजतादिजातियोगादिति चेत्; सा किं परमार्थभूता; अपरमार्थभूता वा; न तावत्परमार्थभूता, तस्या अपरमार्थान्वयायोगात्। नाप्यपरमार्थभूता, परमार्थान्वयायोगात्। अपरमार्थे परमार्थबुद्धिशब्दयोः निर्वाहकत्वायोगाच्चेत्यलमपरिणतकुतर्कनिरसनेन॥
 
-## सर्वत्राबाधिता यथार्थख्यातिः
+## सर्वात्मता सर्वस्य
 
-अथवा
+<details><summary>English</summary>
 
+All knowledge is of the Real.
+</details>
+
+### श्रुतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथवा -  
+
+यथार्थं सर्व-विज्ञानम्  
+इति वेद-विदां मतम् ।  
+श्रुति-स्मृतिभ्यस् सर्वस्य  
+सर्वात्मत्व-प्रतीतितः ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+'Those who understand the Veda hold that all cognition has for its object what is real; for.Śruti and Smr̥ti alike teach that everything participates in the nature of everything else.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथवा  
 यथार्थं सर्वविज्ञानमिति वेदविदां मतम् ।  
-श्रुतिस्मृतिभ्यस्सर्वस्य सर्वात्मत्वप्रतीतितः॥  
+श्रुतिस्मृतिभ्यस्सर्वस्य सर्वात्मत्वप्रतीतितः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"बहु स्याम्" (छा.६.२.३) इति सङ्कल्प--  
+पूर्व-सृष्ट्य्-आद्य्-उपक्रमे ।  
+"तासां त्रिवृतम् एकैकां" (छां.६.३.३)  
+इति श्रुत्यैव चोदितम् ॥
+</details>
+
+<details><summary>English</summary>
+
+In the scriptural account of creation preceded by intention on the part of the Creator it is said that each of these elements was made tripartite;
+</details>
+
+<details><summary>मूलम्</summary>
+
 बहुस्यां (छा.६.२.३) इतिसङ्कल्पपूर्वसृष्ट्याद्युपक्रमे।  
-तासां त्रिवृतमेकैकां (छां.६.३.३) इति श्रुत्यैव चोदितम्॥  
-त्रिवृत्करणमेवं हि प्रत्यक्षेणोपलभ्यते ।  
+तासां त्रिवृतमेकैकां (छां.६.३.३) इति श्रुत्यैव चोदितम्॥
+</details>
+
+### प्रत्यक्षम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रिवृत्-करणम् एवम् हि  
+प्रत्यक्षेणोपलभ्यते ।
+</details>
+
+<details><summary>English</summary>
+
+and this tripartite constitution of all things is apprehended by Perception as well.
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रिवृत्करणमेवं हि प्रत्यक्षेणोपलभ्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अग्ने रोहितं रूपं -  
+तेजसस् तद्, अपाम् अपि ॥  
+शुक्लं, कृष्णं पृथिव्याश् च  
+चेत्य् अग्नाव् एव त्रि-रूपता ।  
+श्रुत्यैव दर्शिता तस्मात्  
+सर्वे सर्वत्र सङ्गताः ॥
+</details>
+
+<details><summary>English</summary>
+
+The red colour in burning fire comes from (primal elementary) fire, the white colour from water, the black colour from earth – in this way Scripture explains the threefold nature of burning fire. In the same way all things are composed of elements of all things.
+</details>
+
+<details><summary>मूलम्</summary>
+
 यदग्नेरोहितं रूपं तेजसस्तदपामपि॥  
 शुक्लं कृष्णं पृथिव्याश्चेत्यग्नावेव त्रिरूपता।  
-श्रुत्यैव दर्शिता तस्मात्सर्वे सर्वत्र सङ्गताः॥  
-पुराणे चैवमेवोक्तं वैष्णवे सृष्ट्युपक्रमे॥  
+श्रुत्यैव दर्शिता तस्मात्सर्वे सर्वत्र सङ्गताः॥
+</details>
+
+### पुराणे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुराणे चैवम् एवोक्तं  
+वैष्णवे सृष्ट्य्-उपक्रमे ॥
+</details>
+
+<details><summary>English</summary>
+
+The Vishṇu Purāṇa, in its account of creation, makes a similar statement:
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुराणे चैवमेवोक्तं वैष्णवे सृष्ट्युपक्रमे॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नाना-वीर्याः पृथग्-भूतास्  
+ततस् ते संहतिं विना ।  
+नाशक्नुवन् प्रजास् स्रष्टुम्  
+अ-समागम्य कृत्स्नशः ॥
+</details>
+
+<details><summary>English</summary>
+
+> "The elements possessing various powers and being unconnected could not, without combination, produce living beings, not having mingled in any way.
+</details>
+
+<details><summary>मूलम्</summary>
+
 नानावीर्याः पृथग्भूतास्ततस्ते संहतिं विना।  
-नाशक्नुवन् प्रजास्स्रष्टुमसमागम्य कृत्स्नशः॥  
+नाशक्नुवन् प्रजास्स्रष्टुमसमागम्य कृत्स्नशः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"समेत्यान्योन्य-संयोगं  
+परस्पर-समाश्रयाः ।  
+महद्-आद्या विशेषान्ता  
+ह्य् अण्डम्" इत्य्-आदिना ततः ॥  
+(वि.पु.१.२.५२,५३,५४)
+</details>
+
+<details><summary>English</summary>
+
+Having combined, therefore, with one another, and entering into mutual associations – beginning with the principle called Mahat, and extending down to the gross elements – they formed an egg," &c. (Vi. Pu. I, 2, 50; 52).
+</details>
+
+<details><summary>मूलम्</summary>
+
 समेत्यान्योन्यसंयोगं परस्परसमाश्रयाः।  
 महदाद्या विशेषान्ता ह्यण्डमित्यादिना ततः॥  
 (वि.पु.१.२.५२,५३,५४)
+</details>
+
+### सूत्रे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूत्र-कारो ऽपि भूतानां  
+त्रि-रूपत्वं तथा ऽवदत् ।  
+"त्र्य्-आत्मकत्वात्, तु भूयस्त्वात्" (ब्र.सू.३.१.२) इति तेनाभिधा-भिदा ॥
+</details>
+
+<details><summary>English</summary>
+
+This tripartiteness of the elements the Sūtrakāra also declares (Ve. Sū. III, 1, 3).
+</details>
+
+<details><summary>मूलम्</summary>
 
 सूत्रकारोऽपि भूतानां त्रिरूपत्वं तथाऽवदत्।  
-त्रयात्मकत्वात्तु भूयस्त्वात् (ब्र.सू.३.१.२) इति तेनाभिधाभिदा॥  
+त्रयात्मकत्वात्तु भूयस्त्वात् (ब्र.सू.३.१.२) इति तेनाभिधाभिदा॥
+</details>
+
+### पूतिका-ग्रहण-न्यायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोमाभावे च पूतीक-  
+ग्रहणं श्रुति-चोदितम् ।  
+सोमावयव-सद्-भावाद्  
+इति न्याय-विदो विदुः ॥
+</details>
+
+<details><summary>English</summary>
+
+For the same reason Śruti enjoins the use of Putīka sprouts when no Soma can be procured; for, as the Mīmāṁsakas explain, there are in the Putīka plant some parts of the Soma plant (Pū. Mī. Sū.);
+</details>
+
+<details><summary>मूलम्</summary>
+
 सोमाभावे च पूतीकग्रहणं श्रुतिचोदितम् ।  
-सोमावयवसद्भावादिति न्यायविदो विदुः॥  
+सोमावयवसद्भावादिति न्यायविदो विदुः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्रीह्य्-अभावे च नीवार-  
+ग्रहणं व्रीहि-भावतः ।  
+तद् एव स-दृशं तस्य  
+यत् तद्-द्रव्यैक-देश-भाक् ॥
+</details>
+
+<details><summary>English</summary>
+
+and for the same reason nīvāra grains may be used as a substitute for rice grains. That thing is similar to another which contains within itself some part of that other thing;
+</details>
+
+<details><summary>मूलम्</summary>
+
 व्रीह्यभावे च नीवारग्रहणं व्रीहिभावतः।  
-तदेव सदृशं तस्य यत्तद्द्रव्यैकदेशभाक् ॥  
+तदेव सदृशं तस्य यत्तद्द्रव्यैकदेशभाक् ॥
+</details>
+
+
+### शुक्तौ रजतम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शुक्त्य्-आदौ रजतादेश् +++(→तद्-गुणानां)+++ च  
+भावः श्रुत्यैव बोधितः ।  
+रूप्य-शुक्त्य्-आदि-निर्देश-  
+भेदो भूयस्त्व-हेतुकः ॥
+</details>
+
+<details><summary>English</summary>
+
+and Scripture itself has thus stated that in shells, &c., there is contained some silver, and so on. That one thing is called "silver" and another "shell" has its reason in the relative preponderance of one or the other element.
+</details>
+
+<details><summary>मूलम्</summary>
+
 शुक्त्यादौ रजतादेश्च भावः श्रुत्यैव बोधितः।  
-रूप्यशुक्त्यादिनिर्देशभेदो भूयस्त्वहेतुकः॥  
+रूप्यशुक्त्यादिनिर्देशभेदो भूयस्त्वहेतुकः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रूप्यादि-स-दृशश् चायं  
+शुक्त्य्-आदिर् उपलभ्यते ।  
+अतस् +++(तद्-गुणस्य→)+++तस्यात्र सद्-भावः  
+प्रतीतेर् अपि निश्चितः ॥
+</details>
+
+<details><summary>English</summary>
+
+We observe that shells are similar to silver; thus perception itself informs us that some elements of the latter actually exist in the former.
+</details>
+
+<details><summary>मूलम्</summary>
+
 रूप्यादिसदृशश्चायं शुक्त्यादिरुपलभ्यते।  
-अतस्तस्यात्र सद्भावः प्रतीतेरपि निश्चितः॥  
+अतस्तस्यात्र सद्भावः प्रतीतेरपि निश्चितः॥
+</details>
+
+### भ्रमे यथार्थज्ञानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कदाचित् चक्षुर्-आदेस् तु  
+दोषाच् छुक्त्य्-अंश-वर्जितः ।  
+रजतांशो गृहीतो ऽतो  
+रजतार्थी प्रवर्तते ॥
+</details>
+
+<details><summary>English</summary>
+
+Sometimes it happens that owing to a defect of the eye the silver-element only is apprehended, not the shell-element, and then the percipient person, desirous of silver, moves to pick up the shell.
+</details>
+
+<details><summary>मूलम्</summary>
+
 कदाचिच्चक्षुरादेस्तु दोषाच्छुक्त्यंशवर्जितः।  
-रजतांशो गृहीतोऽतो रजतार्थी प्रवर्तते॥  
+रजतांशो गृहीतोऽतो रजतार्थी प्रवर्तते॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दोष-हानौ तु शुक्त्य्-अंशे  
+गृहीते तन् निवर्तते ।  
+अतो यथार्थं रूप्यादि-  
+विज्ञानं शुक्तिकादिषु ॥
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, his eye is free from such defect, he apprehends the shell-element and then refrains from action. Hence the cognition of silver in the shell is a true one.
+</details>
+
+<details><summary>मूलम्</summary>
+
 दोषहानौ तु शुक्त्यंशे गृहीते तन्निवर्तते।  
-अतो यथार्थं रूप्यादिविज्ञानं शुक्तिकादिषु॥  
+अतो यथार्थं रूप्यादिविज्ञानं शुक्तिकादिषु॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बाध्य-बाधक-भावो ऽपि  
+भूयस्त्वेनोपपद्यते ।  
+शुक्ति-भूयस्त्व-वैकल्य-  
+साकल्य-ग्रह-रूपतः ॥
+</details>
+
+<details><summary>English</summary>
+
+In the same way the relation of one cognition being sublated by another explains itself through the preponderant element, according as the preponderance of the shell-element is apprehended partially or in its totality,
+</details>
+
+<details><summary>मूलम्</summary>
+
 बाध्यबाधकभावोऽपि भूयस्त्वेनोपपद्यते।  
-शुक्तिभूयस्त्ववैकल्यसाकल्यग्रहरूपतः॥  
+शुक्तिभूयस्त्ववैकल्यसाकल्यग्रहरूपतः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नातो मिथ्यार्थ-सत्यार्थ-  
+विषयत्व-निबन्धनः ।  
+एवं सर्वस्य सर्वत्वे  
+व्यवहार-व्यवस्थितिः ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+and does not therefore depend on one cognition having for its object the false thing and another the true thing. The distinctions made in the practical thought and business of life thus explain themselves on the basis of everything participating in the nature of everything else.'
+</details>
+
+<details><summary>मूलम्</summary>
+
 नातो मिथ्यार्थसत्यार्थविषयत्वनिबन्धनः।  
 एवं सर्वस्य सर्वत्वे व्यवहारव्यवस्थितिः॥
+</details>
 
 ## स्वाप्नार्थसत्यतासमर्थनम्
 
