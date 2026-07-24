@@ -160,7 +160,7 @@ To enter into details.--Those who maintain the doctrine of a substance devoid of
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सविशेषो ऽप्य् अनुभूयमानो ऽनुभवः  
-केनचिद् युक्त्याभासेन "निर्विशेष" इति निष्कृष्यमाणः  
+केनचिद् युक्त्य्-आभासेन "निर्विशेष" इति निष्कृष्यमाणः  
 सत्तातिरेकिभिः स्वासाधारणैस् स्व-भाव--विशेषैर् निष्क्रष्टव्यः 
 </details>
 
@@ -196,8 +196,9 @@ and owing to these special qualities on which the determination depends, that st
 ### विशेष-निरसनेन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः कैश्चिद् विशेषैर् विशष्टस्यैव वस्तुनो  
-ऽन्ये विशेषा निरस्यन्त इति, न क्वचिन्निर्विशेषवस्तुसिद्धिः।
+अतः कैश्चिद् विशेषैर्  
+विशष्टस्यैव वस्तुनो ऽन्ये विशेषा निरस्यन्त  
+इति न क्वचिन् निर्विशेष-वस्तु-सिद्धिः।
 </details>
 
 <details><summary>English</summary>
@@ -211,11 +212,12 @@ The meaning of the mentioned determination could thus only be that of a thing af
 अतःकैश्चिद्विशेषैर्विशष्टस्यैव वस्तुनोऽन्ये विशेषा निरस्यन्त इति, न क्वचिन्निर्विशेषवस्तुसिद्धिः।
 </details>
 
-### धियो विषय-प्रकाशकतया
+### धियो न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धियो हि धीत्वं स्वप्रकाशता च  
-ज्ञातुर् विषय-प्रकाशन--स्व-भावतयोपलब्धेः । 
+ज्ञातुर् विषय-प्रकाशन--स्व-भावतयोपलब्धेः ।  
++++(अतो न तत्रापि निर्विशेषता।)+++
 </details>
 
 <details><summary>English</summary>
@@ -230,7 +232,7 @@ To thought there at any rate belongs the quality of being thought and self-illum
 </details>
 
 
-### स्वापमदमूर्च्छासु
+### स्वापमदमूर्च्छासु न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाप-मद-मूर्च्छासु च  
@@ -250,11 +252,11 @@ And that also in the states of deep sleep, swoon, &c., consciousness is affected
 </details>
 
 
-### नित्यत्वादि
+### नित्यत्वादिभिर् न 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाभ्युपगताश् च नित्यत्वादयो हि  
-अनेके विशेषाः सन्त्य् एव । 
++++(त्वत्→)+++स्वाभ्युपगताश् च नित्यत्वादयो हि  
+अनेके विशेषाः सन्त्य् एव +++(चैतन्ये)+++। 
 </details>
 
 <details><summary>English</summary>
@@ -270,7 +272,7 @@ Moreover you yourself admit that to consciousness there actually belong differen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते च न वस्तु-मात्रम् इति शक्योपपादनाः, 
+ते च न वस्तु+++(←विशेष्य)+++-मात्रम् इति शक्योपपादनाः, 
 </details>
 
 <details><summary>English</summary>
@@ -311,7 +313,8 @@ and you yourself attempt to prove your theory by means of the differences betwee
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः प्रामाणिक-विशेषैर् विशिष्टम् एव वस्त्व् इति वक्तव्यम्॥
+अतः प्रामाणिक-विशेषैर्  
+विशिष्टम् एव वस्त्व् इति वक्तव्यम्॥
 </details>
 
 <details><summary>English</summary>
@@ -349,7 +352,7 @@ As to sound (speech; śabda) it is specially apparent that it possesses the powe
 #### न पदात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकृतिप्रत्यययोगेन हि पदत्वम्। 
+प्रकृति-प्रत्यययोगेन हि पदत्वम्। 
 </details>
 
 <details><summary>English</summary>
@@ -694,7 +697,7 @@ The bhedābheda view is untenable.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव सर्वत्र भिन्नाभिन्नत्वम् अपि निरस्तम्। 
+अत एव +++(सविशेषस्यैव ग्रहणेन वक्ष्यमाण-कारणैः)+++ सर्वत्र भिन्नाभिन्नत्वम् अपि निरस्तम्। 
 </details>
 
 <details><summary>English</summary>
@@ -1689,8 +1692,7 @@ hence there is contradiction, one judgment sublates the other and the sublated c
 #### अ-पारमार्थ्यं क्व?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देश-कालान्तर-व्यावर्तमानत्वं  
-(देश-कालान्तर-दृष्टस्य देशान्तर-कालान्तर-व्यावर्तमानत्वं) –  
+(देश-कालान्तर-दृष्टस्य) देश-कालान्तर-व्यावर्तमानत्वं   
 मिथ्यात्व-व्याप्तं न दृष्टम् इति  
 न व्यावर्तमानत्व-मात्रम् अ-पारमार्थ्य-हेतुः॥+++(5)+++
 </details>
@@ -1727,7 +1729,7 @@ To say, on the other hand, that what is is real because it persists, is to prove
 #### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो न सन्मात्रमेव वस्तु॥
+अतो न सन्-मात्रम् एव वस्तु॥
 </details>
 
 <details><summary>English</summary>
