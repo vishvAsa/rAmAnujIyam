@@ -24,7 +24,7 @@ THE ONLY REALITY IS BRAHMAN.
 ## प्रतिज्ञा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अप्य् आहुः –  
+यद् अप्य् आहुः +++(अविधेय-ज्ञान-मोक्ष-साधन-वादिनः)+++–  
 
 अ-शेष--विशेष-प्रत्यनीक-- चिन्-मात्रं ब्रह्मैव परमार्थः 
 </details>
@@ -2772,7 +2772,7 @@ These implied judgments cannot both be founded on perception, for they are the r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र स्वरूपं वा भेदो वा प्रत्यक्षस्य विषय  
+तत्र "स्वरूपं वा भेदो वा प्रत्यक्षस्य विषय"  
 इति विवेचनीयम्। 
 </details>
 
