@@ -160,7 +160,7 @@ To enter into details.--Those who maintain the doctrine of a substance devoid of
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सविशेषो ऽप्य् अनुभूयमानो ऽनुभवः  
-केनचिद् युक्त्याभासेन "निर्विशेष" इति निष्कृष्यमाणः  
+केनचिद् युक्त्य्-आभासेन "निर्विशेष" इति निष्कृष्यमाणः  
 सत्तातिरेकिभिः स्वासाधारणैस् स्व-भाव--विशेषैर् निष्क्रष्टव्यः 
 </details>
 
@@ -196,8 +196,9 @@ and owing to these special qualities on which the determination depends, that st
 ### विशेष-निरसनेन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः कैश्चिद् विशेषैर् विशष्टस्यैव वस्तुनो  
-ऽन्ये विशेषा निरस्यन्त इति, न क्वचिन्निर्विशेषवस्तुसिद्धिः।
+अतः कैश्चिद् विशेषैर्  
+विशष्टस्यैव वस्तुनो ऽन्ये विशेषा निरस्यन्त  
+इति न क्वचिन् निर्विशेष-वस्तु-सिद्धिः।
 </details>
 
 <details><summary>English</summary>
@@ -211,11 +212,12 @@ The meaning of the mentioned determination could thus only be that of a thing af
 अतःकैश्चिद्विशेषैर्विशष्टस्यैव वस्तुनोऽन्ये विशेषा निरस्यन्त इति, न क्वचिन्निर्विशेषवस्तुसिद्धिः।
 </details>
 
-### धियो विषय-प्रकाशकतया
+### धियो न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धियो हि धीत्वं स्वप्रकाशता च  
-ज्ञातुर् विषय-प्रकाशन--स्व-भावतयोपलब्धेः । 
+ज्ञातुर् विषय-प्रकाशन--स्व-भावतयोपलब्धेः ।  
++++(अतो न तत्रापि निर्विशेषता।)+++
 </details>
 
 <details><summary>English</summary>
@@ -230,7 +232,7 @@ To thought there at any rate belongs the quality of being thought and self-illum
 </details>
 
 
-### स्वापमदमूर्च्छासु
+### स्वापमदमूर्च्छासु न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाप-मद-मूर्च्छासु च  
@@ -250,11 +252,11 @@ And that also in the states of deep sleep, swoon, &c., consciousness is affected
 </details>
 
 
-### नित्यत्वादि
+### नित्यत्वादिभिर् न 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाभ्युपगताश् च नित्यत्वादयो हि  
-अनेके विशेषाः सन्त्य् एव । 
++++(त्वत्→)+++स्वाभ्युपगताश् च नित्यत्वादयो हि  
+अनेके विशेषाः सन्त्य् एव +++(चैतन्ये)+++। 
 </details>
 
 <details><summary>English</summary>
@@ -270,7 +272,7 @@ Moreover you yourself admit that to consciousness there actually belong differen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते च न वस्तु-मात्रम् इति शक्योपपादनाः, 
+ते च न वस्तु+++(←विशेष्य)+++-मात्रम् इति शक्योपपादनाः, 
 </details>
 
 <details><summary>English</summary>
@@ -311,7 +313,8 @@ and you yourself attempt to prove your theory by means of the differences betwee
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः प्रामाणिक-विशेषैर् विशिष्टम् एव वस्त्व् इति वक्तव्यम्॥
+अतः प्रामाणिक-विशेषैर्  
+विशिष्टम् एव वस्त्व् इति वक्तव्यम्॥
 </details>
 
 <details><summary>English</summary>
@@ -349,7 +352,7 @@ As to sound (speech; śabda) it is specially apparent that it possesses the powe
 #### न पदात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकृतिप्रत्यययोगेन हि पदत्वम्। 
+प्रकृति-प्रत्यययोगेन हि पदत्वम्। 
 </details>
 
 <details><summary>English</summary>
@@ -694,7 +697,7 @@ The bhedābheda view is untenable.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव सर्वत्र भिन्नाभिन्नत्वम् अपि निरस्तम्। 
+अत एव +++(सविशेषस्यैव ग्रहणेन विरुद्ध-विशेषणयोर् असम्भवात्)+++ सर्वत्र भिन्नाभिन्नत्वम् अपि निरस्तम्। 
 </details>
 
 <details><summary>English</summary>
@@ -707,7 +710,7 @@ The same arguments tend to refute the view that there is difference and absence 
 अत एव सर्वत्र भिन्नाभिन्नत्वमपि निरस्तम्। 
 </details>
 
-##### इदम्-इत्थम्-भेदः
+#### इदम्-इत्थम्-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इदम् इत्थम्" इति प्रतीताव्  
@@ -743,10 +746,10 @@ The 'such and such' denotes a peculiar make characterised, e.g. by a dewlap, the
 
 <details><summary>मूलम्</summary>
 
-तत्रेत्थम्भावस्सास्नादिसंस्थानविशेषः, तद्विशेष्यं द्रव्यमिदमंश इत्यनयोरैक्यं प्रतीतिपराहतमेव। 
+त त्रेत्थम्भावस्सास्नादिसंस्थानविशेषः, तद्विशेष्यं द्रव्यमिदमंश इत्यनयोरैक्यं प्रतीतिपराहतमेव। 
 </details>
 
-#### इतर-व्यावृत्तिः
+##### इतर-व्यावृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि – प्रथमम् एव वस्तु प्रतीयमानं स-कलेतर-व्यावृत्तम् एव प्रतीयते। 
@@ -889,6 +892,7 @@ The difference between the two classes of entities is only that staffs, bracelet
 इयांस्तु विशेषः पृथक् स्थितिप्रतिपत्तियोग्या दण्डादयः, गोत्वादयस्तु नियमेन तदनर्हा इति। 
 </details>
 
+##### प्रतीति-प्रकार-निह्नवः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो 
@@ -956,7 +960,7 @@ Inference also teaches difference.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः प्रत्यक्षस्य स-विशेष-विषयत्वेन  
-प्रत्यक्षादि-दृष्ट--सम्बन्ध-विशिष्ट-विषयत्वाद्  
++++(अनुमानस्य)+++ प्रत्यक्षादि-दृष्ट--सम्बन्ध-विशिष्ट-विषयत्वाद्  
 अनुमानम् अपि सविशेषविषयमेव। 
 </details>
 
@@ -975,7 +979,7 @@ Perception thus having for its object only what is marked by difference, inferen
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमाण-सङ्ख्या-विवादे ऽपि  
-सर्वाभ्युपगत-प्रमाणानाम् अयम् एव विषय इति  
+सर्वाभ्युपगत-प्रमाणानाम् +++(सविशेषः)+++ अयम् एव विषय इति  
 न केनापि प्रमाणेन निर्विशेष-वस्तु-सिद्धिः। 
 </details>
 
@@ -1019,14 +1023,14 @@ And a person who maintains the existence of a thing devoid of difference on the 
 Perception does not reveal mere being.
 </details>
 
-#### भेदस्य स्व-पर-प्रकाशकता
+#### भेदः स्वरूपे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु 
 
 > प्रत्यक्षं सन्-मात्र-ग्राहित्वेन  
 न भेद-विषयम्,  
-भेदश् च विकल्पासहत्वाद् दुर्निरूपः 
+भेदश् च +++(धर्म-स्वरूप-)+++विकल्पासहत्वाद् दुर्निरूपः 
 
 \– इत्युक्तम्, 
 </details>
@@ -1046,14 +1050,15 @@ In reply to the assertion that perception causes the apprehension of pure Being 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् अपि जात्य्-आदि-विशष्टस्यैव वस्तुनः प्रत्यक्ष-विषयत्वाज्  
-जात्य्-आदेर् एव प्रतियोग्य्-अपेक्षया,  
+जात्य्-आदेर् एव +++(स्मरणीय-)+++प्रतियोग्य्-अपेक्षया,  
 वस्तुनस् स्वस्य च भेद-व्यवहार-हेतुत्वाच् च  
-दूरोत्सारितम्। 
+दूरोत्सारितम्। +++(4)+++
 </details>
 
 <details><summary>English</summary>
 
-we point out that these charges are completely refuted by the fact that the only objects of perception are things distinguished by generic character and so on, and that generic character and so on – as being relative things – give at once rise to the judgment as to the distinction between themselves and the things in which they inhere. 
+we point out that these charges are completely refuted by the fact that  
+the only objects of perception are things distinguished by generic character and so on, and that generic character and so on – as being relative things – give at once rise to the judgment as to the distinction between themselves and the things in which they inhere. 
 </details>
 
 
@@ -1062,13 +1067,15 @@ we point out that these charges are completely refuted by the fact that the only
 तदपि जात्यादिविशष्टस्यैव वस्तुनः प्रत्यक्षविषयत्वाज्जात्यादेरेव प्रतियोग्यपेक्षया वस्तुनस्स्वस्य च भेदव्यवहारहेतुत्वाच्च दूरोत्सारितम्। 
 </details>
 
+####  भेदे न भेदापेक्षा
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवेदनवद् रूपादिवच् च  
 परत्र +++(विषये विशेष्ये च)+++ व्यवहार-विशेष-हेतोस्  
 स्वस्मिन्न् +++(→संवेदन-रूपादाव्)+++ अपि तद्-व्यवहार-हेतुत्वं  
 युष्माभिर् अभ्युपेतं  
-भेदस्यापि सम्भवत्य् एव।
+भेदस्यापि +++(स्व-पर-भेदकत्वं)+++ सम्भवत्य् एव।
 </details>
 
 <details><summary>English</summary>
@@ -1238,7 +1245,7 @@ If all acts of cognition had one and the same object only, everything would be a
 सर्वेषां संवेदनानामेकविषयतायामेकेनैव संवेदनेन अशेषग्रहणादन्धबधिराद्यभावश्च प्रसज्येत।
 </details>
 
-
+##### इन्द्रियैर् विशेषग्रहणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च चक्षुषा सन्-मात्रं गृह्यते,  
@@ -1295,7 +1302,7 @@ Nor have the ear and the other senses mere Being for their object; but they rela
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस् सन्-मात्रस्य ग्राहकं न किञ्चिदिह दृश्यते ॥
+अतस् सन्-मात्रस्य ग्राहकं न किञ्चिद् इह दृश्यते ॥
 </details>
 
 <details><summary>English</summary>
@@ -1309,13 +1316,13 @@ Hence there is not any source of knowledge causing us to apprehend mere Being.
 </details>
 
 
-#### शास्त्रानुत्थान-प्रसङ्गः
+#### निर्विशेष-शास्त्रानुत्थान-प्रसङ्गः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्विशेष--सन्-मात्रस्य च प्रत्यक्षेणैव ग्रहणे  
 तद्-विषयागमस्य प्राप्त-विषयत्वेन  
-अनुवादकत्वम् एव स्यात्। 
+अनुवादकत्वम् एव स्यात्। +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -1373,7 +1380,7 @@ and thus there would cling to it all the imperfections indicated by yourself –
 
 <details><summary>English</summary>
 
---From all this we conclude that perception has for its object only what is distinguished by difference manifesting itself in generic character and so on, which constitute the make or structure of a thing. 
+\-- From all this we conclude that perception has for its object only what is distinguished by difference manifesting itself in generic character and so on, which constitute the make or structure of a thing. 
 </details>
 
 
@@ -1423,7 +1430,7 @@ By 'structure' we understand special or distinctive form; and we acknowledge dif
 
 जाति-ग्रहणेनैव भिन्न इति व्यवहार-सम्भवात्,  
 पदार्थान्तरादर्शनात्,  
-अर्थान्तर-वादिनाऽपि अभ्युपगतत्वाच् च  
+अर्थान्तर-वादिनाऽप्य् अभ्युपगतत्वाच् च  
 गोत्वादिर् एव भेदः।
 </details>
 
@@ -1486,7 +1493,9 @@ As a matter of fact the judgment of difference is immediately formulated on the 
 
 <details><summary>English</summary>
 
-For 'the generic character' of a cow, e.g., means just the exclusion of everything else: as soon as that character is apprehended all thought and speech referring to other creatures belonging to the same wider genus (which includes buffaloes and so on also) come to an end. 
+For 'the generic character' of a cow, e.g., means just the exclusion of everything else:  
+as soon as that character is apprehended  
+all thought and speech referring to other creatures belonging to the same wider genus (which includes buffaloes and so on also) come to an end. 
 </details>
 
 
@@ -1498,7 +1507,7 @@ For 'the generic character' of a cow, e.g., means just the exclusion of everythi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भेद-ग्रहणेनैव ह्य् अभेदनिवृत्तिः। 
+भेद-ग्रहणेनैव ह्य् अ-भेदनिवृत्तिः। 
 </details>
 
 <details><summary>English</summary>
@@ -1532,7 +1541,7 @@ It is through the apprehension of difference only that the idea of non-differenc
 
 
 
-### समान-देश-काल-व्यावृत्तिः
+### समान-देश-काल-व्यावृत्तिर् न
 
 <details><summary>English</summary>
 
@@ -1541,7 +1550,9 @@ Plurality is not unreal.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् पुनर् घटादीनां विशेषाणां व्यावर्तमानत्वेनापारमार्थ्यम् उक्तम्,  
+यत् पुनर् घटादीनां  
+विशेषाणां +++(देश-कालान्तरेऽपि)+++ व्यावर्तमानत्वेन  
+अपारमार्थ्यम् उक्तम्,  
 तद् अनालोचित-बाध्य-बाधक-भाव-- व्यावृत्त्य्-अनुवृत्ति-विशेषस्य  
 भ्रान्ति-परिकल्पितम्॥
 </details>
@@ -1550,7 +1561,8 @@ Plurality is not unreal.
 
 Next as to the assertion that all difference presented in our cognition-as of jars, pieces of cloth and the like – is unreal  
 because such difference does not persist.  
-This view, we maintain, is altogether erroneous, springs in fact from the neglect of distinguishing between persistence and non-persistence on the one hand, and the relation between what sublates and what is sublated on the other hand. 
+This view, we maintain, is altogether erroneous, springs in fact from the neglect of distinguishing between persistence and non-persistence on the one hand,  
+and the relation between what sublates and what is sublated on the other hand. 
 </details>
 
 
@@ -1580,7 +1592,7 @@ Where two cognitions are mutually contradictory, there the latter relation holds
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बाधितस्यैव व्यावृत्तिः। 
+बाधितस्यैव व्यावृत्तिः +++(अपारमार्थ्य-बोधिका)+++। 
 </details>
 
 <details><summary>English</summary>
@@ -1686,11 +1698,9 @@ hence there is contradiction, one judgment sublates the other and the sublated c
 रज्जुसर्पादिषु तु तद्देशकालसम्बन्धितयैवाभावप्रतीतेः विरोधो बाधकत्वं व्यावृत्तिश्चेति 
 </details>
 
-#### अ-पारमार्थ्यं क्व?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देश-कालान्तर-व्यावर्तमानत्वं  
-(देश-कालान्तर-दृष्टस्य देशान्तर-कालान्तर-व्यावर्तमानत्वं) –  
+(देश-कालान्तर-दृष्टस्य) देश-कालान्तर-व्यावर्तमानत्वं   
 मिथ्यात्व-व्याप्तं न दृष्टम् इति  
 न व्यावर्तमानत्व-मात्रम् अ-पारमार्थ्य-हेतुः॥+++(5)+++
 </details>
@@ -1709,7 +1719,8 @@ But the circumstance of something which is seen at one time and in one place not
 #### सत्-पारमार्थ्यं सिद्धम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्तु अनुवर्तमानत्वात् सत् परमार्थः – इति,  तत्सिद्धम् एवेति न साधनम् अर्हाति। 
+यत्तु अनुवर्तमानत्वात् सत् परमार्थः – इति,  
+तत् सिद्धम् एवेति न साधनम् अर्हाति। 
 </details>
 
 <details><summary>English</summary>
@@ -1727,7 +1738,7 @@ To say, on the other hand, that what is is real because it persists, is to prove
 #### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो न सन्मात्रमेव वस्तु॥
+अतो न सन्-मात्रम् एव वस्तु॥
 </details>
 
 <details><summary>English</summary>
@@ -1742,26 +1753,347 @@ Hence mere Being does not alone constitute reality.
 </details>
 
 
+## अनुभूतिः
+### सद्-अनुभूति-भेदः
 
-## सदनुभूत्योः नानात्वम्
+<details><summary>English</summary>
+
+Being and consciousness are not one.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूति-सद्-विशेषयोश् च  
+विषय-विषयि-भावेन भेदस्य प्रत्यक्ष-सिद्धत्वाद्, अ-बाधितत्वाच् च  
+अनुभूतिर् एव सतीत्य् एतद् अपि निरस्तम्॥
+</details>
+
+<details><summary>English</summary>
+
+And as the distinction between consciousness and its objects – which rests just on this relation of object and that for which the object is – is proved by perception, the assertion that only consciousness has real existence is also disposed of.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अनुभूतिसद्विशेषयोश्च विषयविषयिभावेन भेदस्य प्रत्यक्षसिद्धत्वादबाधितत्वाच्च अनुभूतिरेव सतीत्येतदपि निरस्तम्॥
+</details>
 
-## अनुभूतेः स्वयम्प्रकाशत्वपरिमितिः
 
-यत्त्वनुभूतेस्स्वयम्प्रकाशत्वमुक्तम्, तद्विषयप्रकाशनवेलायां ज्ञातुरात्मनस्तथैव; न तु सर्वेषां सर्वदा तथैवेति नियमोऽस्ति, परानुभवस्य हानोपादानादिलिङ्गकानुमानज्ञानविषयत्वात्, स्वानुभवस्याप्यतीतस्य अज्ञासिषम् इति ज्ञानविषयत्वदर्शनाच्च। अतोऽनुभूतिश्चेत् स्वतस्सिद्धेति वक्तुं न शक्यते॥
 
-## अनुभूतित्वानुभाव्यत्वयोरविरोधः
+### स्वयम्-प्रकाशत्व-परिमितिः
 
-अनुभूतेरनुभाव्यत्वे, अननुभूतित्वमित्यपि दुरुक्तम्; स्वगतातीतानुभवानां परगतानुभवानां चानुभाव्यत्वेनाननुभूतित्वप्रसङ्गात्। परानुभवानुमानानभ्युपगमे च शब्दार्थसम्बन्धग्रहणाभावेन समस्तशब्दव्यवहारोच्छेदप्रसङ्गः। आचार्यस्य ज्ञानवत्त्वमनुमाय तदुपसत्तिश्च क्रियते; सा च नोपपद्यते।
+<details><summary>English</summary>
 
-## वेद्यत्वानुभूतित्वयोः न व्याप्तिः
+The true meaning of Svayaṁprakāsatva.
+</details>
 
-न चान्यविषयत्वेऽननुभूतित्वम्। अनुभूतित्वं नाम वर्तमानदशायां स्वसत्तयैव स्वाश्रयं प्रति प्रकाशमानत्वम्, स्वसत्तयैव स्वविषयसाधनत्वं वा। ते चानुभवान्तरानुभाव्यत्वेऽपि स्वानुभवसिद्धे नापगच्छत इति नानुभूतित्वमपगच्छेत्। घटादेस्त्वननुभूतित्वमेतत्स्वभावविरहात्; नानुभाव्यत्वात्। तथाऽनुभूतेरननुभाव्यत्वेऽपि, अननुभूतित्वप्रसङ्गो दुर्वारः; गगनकुसुमादेरननुभाव्यस्य अननुभूतित्वात्॥
 
-गगनकुसुमादेरननुभूतितत्वमसत्त्वप्रयुक्तम्, नाननुभाव्यत्वप्रयुक्तम् इति चेत्, एवं तर्हि घटादेरप्यज्ञानाविरोधित्वमेवाननुभूतित्वनिबन्धनम्, नानुभाव्यत्वमित्यास्थीयताम् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुभूतेरनुभाव्यत्वे, अज्ञानाविरोधित्वमपि तस्याः घटादेरिव प्रसज्यत इति चेत्; अननुभाव्यत्वेऽपि गगनकुसुमादेरिवाज्ञानाविरोधित्वमपि प्रसज्यत एव। अतोऽनुभाव्यत्वे अननुभूतित्वम् इत्युपहास्यम्॥
+यत् तु त्व् अनुभूतेस् स्वयम्-प्रकाशत्वम् उक्तम्, तद्-विषय-प्रकाशन-वेलायां ज्ञातुर् आत्मनस् तथैव +++(स्वयम्-प्रकाशत्वम्)+++;
+</details>
+
+<details><summary>English</summary>
+
+We next take up the point as to the self-luminousness of consciousness (above, p. 33). The contention that consciousness is not an object holds good for the knowing Self at the time when it illumines (i.e. constitutes as its objects) other things;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्त्वनुभूतेस्स्वयम्प्रकाशत्वमुक्तम्, तद्विषयप्रकाशनवेलायां ज्ञातुरात्मनस्तथैव;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तु सर्वेषां सर्वदा +++(स्वयम्-प्रकाशत्वम्)+++ तथैवेति नियमो ऽस्ति,  
+परानुभवस्य हानोपादानादि-लिङ्गकानुमान-ज्ञान-विषयत्वात्,  
+स्वानुभवस्याप्य् अतीतस्य  
+"अज्ञासिषम्" इति ज्ञान-विषयत्व-दर्शनाच् च।
+</details>
+
+<details><summary>English</summary>
+
+but there is no absolute rule as to all consciousness never being anything but self-luminous. For common observation shows that the consciousness of one person may become the object of the cognition of another, viz. of an inference founded on the person's friendly or unfriendly appearance and the like, and again that a person's own past states of consciousness become the object of his own cognition – as appears from judgments such as 'At one time I knew.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+न तु सर्वेषां सर्वदा तथैवेति नियमोऽस्ति, परानुभवस्य हानोपादानादिलिङ्गकानुमानज्ञानविषयत्वात्, स्वानुभवस्याप्यतीतस्य अज्ञासिषम् इति ज्ञानविषयत्वदर्शनाच्च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो "ऽनुभूतिश् चेत् स्वतस्-सिद्धे"ति वक्तुं न शक्यते॥
+</details>
+
+<details><summary>English</summary>
+
+It cannot therefore be said 'If it is consciousness it is self-proved' (above p. 33),
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतोऽनुभूतिश्चेत् स्वतस्सिद्धेति वक्तुं न शक्यते॥
+</details>
+
+
+### अनुभाव्यत्वं न विरुद्धम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनुभूतेर् अनुभाव्यत्वे, अननुभूतित्वम् 
+
+इत्य् अपि दुरुक्तम्;
+</details>
+
+<details><summary>English</summary>
+
+nor that consciousness if becoming an object of consciousness would no longer be consciousness;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतेरनुभाव्यत्वे, अननुभूतित्वमित्यपि दुरुक्तम्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वगतातीतानुभवानां पर-गतानुभवानां च  
+अनुभाव्यत्वेनाननुभूतित्व-प्रसङ्गात्।
+</details>
+
+<details><summary>English</summary>
+
+for from this it would follow that one's own past states, and the conscious states of others – because being objects of consciousness – are not themselves consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वगतातीतानुभवानां परगतानुभवानां चानुभाव्यत्वेनाननुभूतित्वप्रसङ्गात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परानुभवानुमानानभ्युपगमे च  
+शब्दार्थ-सम्बन्ध-ग्रहणाभावेन  
+समस्त-शब्द-व्यवहारोच्छेद-प्रसङ्गः +++(वक्ष्यमाण-रीत्या)+++।
+</details>
+
+<details><summary>English</summary>
+
+Moreover, unless it were admitted that there is inferential knowledge of the thoughts of others, there would be no apprehension of the connexion of words and meaning, and this would imply the absolute termination of all human intercourse depending on speech.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परानुभवानुमानानभ्युपगमे च शब्दार्थसम्बन्धग्रहणाभावेन समस्तशब्दव्यवहारोच्छेदप्रसङ्गः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आचार्यस्य ज्ञानवत्त्वम् अनुमाय  
+तद्-उपसत्तिश् च क्रियते;
+सा च नोपपद्यते।
+</details>
+
+<details><summary>English</summary>
+
+Nor also would it be possible for pupils to attach themselves to a teacher of sacred lore, for the reason that they had become aware of his wisdom and learning.
+And that approach is not possible otherwise.
+</details>
+</details>
+
+<details><summary>मूलम्</summary>
+
+आचार्यस्य ज्ञानवत्त्वमनुमाय तदुपसत्तिश्च क्रियते;
+सा च नोपपद्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चान्य-विषयत्वे ऽननुभूतित्वम्।
+</details>
+
+<details><summary>English</summary>
+
+The general proposition that consciousness does not admit of being an object is in fact quite untenable.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चान्यविषयत्वे ऽननुभूतित्वम्।
+</details>
+
+#### लक्षणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूतित्वं नाम  
+वर्तमान-दशायां स्व-सत्तयैव  
+स्वाश्रयं प्रति प्रकाशमानत्वम्,  
+स्व-सत्तयैव स्व-विषय-साधनत्वं वा।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+The essential 'nature of consciousness or knowledge – consists therein that it shines forth, or manifests itself, through its own being to its own substrate at the present moment; or (to give another definition) that it is instrumental in proving its own object by its own being [^fn_10]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^fn_10]: 48:1 The comment of the Sru. Pra. on the above definitions runs, with a few additional explanations, as follows: The term 'anubhūti' here denotes knowledge in general, not only such knowledge as is not remembrance (which limited meaning the term has sometimes). With reference to the 'shining forth' it might be said that in this way jars also and similar things know or are conscious because they also shine forth' (viz. in so far as they are known); to exclude jars and the like the text therefore adds 'to its own substrate' (the jar 'shines forth,' not to itself, but to the  knowing person). There are other attributes of the Self, such as atomic extension, eternity, and so on, which are revealed (not through themselves) but through an act of knowledge different from them; to exclude those the text adds 'through its own being.' In order to exclude past states of consciousness or acts of knowledge, the text adds 'at the present moment.' A past state of consciousness is indeed not revealed without another act of knowledge (representing it), and would thus by itself be excluded; but the text adds this specification (viz. 'at the present moment') on purpose, in order to intimate that a past state of consciousness can be represented by another state – a point denied by the opponent. 'At the present moment' means 'the connexion with the object of knowledge belonging to the present time.' Without the addition of 'to its own substrate' the definition might imply that a state of consciousness is manifest to another person also; to exclude this the clause is added. This first definition might be objected to as acceptable only to those who maintain the svayaṁprakāsatva-theory (which need not be discussed here); hence a second definition is given.The two clauses 'to its own substrate' and 'at the present moment' have to be supplied in this second definition also. 'Instrumental in bringing about' would apply to staffs, wheels, and such like implements also; hence the text adds 'its own object.' (Staffs, wheels, &c. have no 'objects.') Knowledge depending on sight does not bring about an object depending on hearing; to exclude this notion of universal instrumentality the text specifies the object by the words 'its own.' The clause 'through its own being' excludes the sense organs, which reveal objects not by their own being, but in so far as they give rise to knowledge. The two clauses 'at the present moment' and 'to its own substrate' have the same office in the second definition as in the first.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतित्वं नाम वर्तमानदशायां स्वसत्तयैव स्वाश्रयं प्रति प्रकाशमानत्वम्, स्वसत्तयैव स्वविषयसाधनत्वं वा।
+</details>
+
+#### लक्षण-समन्वयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(साधनत्व-प्रकाशमानत्वे)+++ ते चानुभवान्तरानुभाव्यत्वे ऽपि  
+स्वानुभव-सिद्धे नापगच्छत  
+इति नानुभूतित्वम् अपगच्छेत्।
+</details>
+
+<details><summary>English</summary>
+
+Now these two characteristics are established by a person's own state of consciousness and do not vanish when that consciousness becomes the object of another state of consciousness; consciousness remains also in the latter case what it is.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते चानुभवान्तरानुभाव्यत्वेऽपि स्वानुभवसिद्धे नापगच्छत इति नानुभूतित्वमपगच्छेत्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+घटादेस् त्व् अननुभूतित्वम्  
+एतत्-स्वभाव-विरहात्; नानुभाव्यत्वात्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Jars and similar things, on the other hand, do not possess consciousness, not because they are objects of consciousness but because they lack the two characteristics stated above.
+</details>
+
+<details><summary>मूलम्</summary>
+
+घटादेस्त्वननुभूतित्वमेतत्स्वभावविरहात्; नानुभाव्यत्वात्।
+</details>
+
+#### अननुभाव्यत्वे ऽननुभूतिवम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा ऽनुभूतेर् अननुभाव्यत्वे ऽपि,  
+अननुभूतित्व-प्रसङ्गो दुर्वारः;
+</details>
+
+<details><summary>English</summary>
+
+If we made the presence of consciousness dependent on the absence of its being an object of consciousness, we should arrive at the conclusion that consciousness is not consciousness;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथाऽनुभूतेरननुभाव्यत्वेऽपि, अननुभूतित्वप्रसङ्गो दुर्वारः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गगन-कुसुमादेर् अननुभाव्यस्य अननुभूतित्वात्॥
+</details>
+
+<details><summary>English</summary>
+
+for there are things – e.g. sky-flowers – which are not objects of consciousness and at the same time are not consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+गगनकुसुमादेरननुभाव्यस्य अननुभूतित्वात्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> गगन-कुसुमादेर् अननुभूतित्वम् असत्त्व-प्रयुक्तम्,  
+नाननुभाव्यत्व-प्रयुक्तम् 
+
+इति चेत्,
+</details>
+
+<details><summary>English</summary>
+
+You will perhaps reply to this that a sky-flower's not being consciousness is due not to its not being an object of consciousness, but to its non-existence!--
+</details>
+
+<details><summary>मूलम्</summary>
+
+गगनकुसुमादेरननुभूतितत्वमसत्त्वप्रयुक्तम्, नाननुभाव्यत्वप्रयुक्तम् इति चेत्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं तर्हि घटादेर् अप्य् अज्ञानाविरोधित्वम् एवाननुभूतित्व-निबन्धनम्,  
+नानुभाव्यत्वम् इत्य् आस्थीयताम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Well then, we rejoin, let us say analogously that the reason of jars and the like not being contradictory to Nescience (i.e. of their being jaḍa), is their not being of the nature of consciousness, and let us not have recourse to their being objects of consciousness!--
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं तर्हि घटादेरप्यज्ञानाविरोधित्वमेवाननुभूतित्वनिबन्धनम्, नानुभाव्यत्वमित्यास्थीयताम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूतेर् अनुभाव्यत्वे, अज्ञानाविरोधित्वम् अपि तस्याः घटादेर् इव प्रसज्यत इति चेत्;
+</details>
+
+<details><summary>English</summary>
+
+But if consciousness is an object of consciousness, we conclude that it also is non-contradictory of Nescience, like a jar!--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतेरनुभाव्यत्वे, अज्ञानाविरोधित्वमपि तस्याः घटादेरिव प्रसज्यत इति चेत्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अननुभाव्यत्वे ऽपि गगन-कुसुमादेर् इवाज्ञानाविरोधित्वम् अपि प्रसज्यत एव।
+</details>
+
+<details><summary>English</summary>
+
+At this conclusion, we rejoin, you may arrive even on the opposite assumption, reasoning as follows: 'Consciousness is non-contradictory of Nescience, because it is not an object of consciousness, like a sky-flower!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अननुभाव्यत्वेऽपि गगनकुसुमादेरिवाज्ञानाविरोधित्वमपि प्रसज्यत एव।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽनुभाव्यत्वे अननुभूतित्वम् इत्य् उपहास्यम्॥
+</details>
+
+<details><summary>English</summary>
+
+All which shows that to maintain as a general principle that something which is an object of consciousness cannot itself be consciousness is simply ridiculous.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतोऽनुभाव्यत्वे अननुभूतित्वम् इत्युपहास्यम्॥
+</details>
 
 ## संविदः पराभिमतनित्यत्वनिरासः
 
@@ -3997,61 +4329,326 @@ for such absence of knowledge is ascertained by the sixth means of proof (anupal
 
 किञ्च – अपूर्वमनिर्वचनीयमिदं वस्तुजातं रजतादिबुद्धिशब्दाभ्यां कथमिव विषयीक्रियते, न घटादिबुद्धिशब्दाभ्याम्। रजतादिसादृश्यादिति चेत्; तर्हि तत्सदृशमित्येव प्रतीतिशब्दौ स्याताम्। रजतादिजातियोगादिति चेत्; सा किं परमार्थभूता; अपरमार्थभूता वा; न तावत्परमार्थभूता, तस्या अपरमार्थान्वयायोगात्। नाप्यपरमार्थभूता, परमार्थान्वयायोगात्। अपरमार्थे परमार्थबुद्धिशब्दयोः निर्वाहकत्वायोगाच्चेत्यलमपरिणतकुतर्कनिरसनेन॥
 
-## सर्वत्राबाधिता यथार्थख्यातिः
+## सर्वात्मता सर्वस्य
 
-अथवा
+<details><summary>English</summary>
 
-यथार्थं सर्वविज्ञानमिति वेदविदां मतम् ।श्रुतिस्मृतिभ्यस्सर्वस्य सर्वात्मत्वप्रतीतितः॥
+All knowledge is of the Real.
+</details>
 
-बहुस्यां (छा.६.२.३) इतिसङ्कल्पपूर्वसृष्ट्याद्युपक्रमे।
+### श्रुतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+अथवा -  
+
+यथार्थं सर्व-विज्ञानम्  
+इति वेद-विदां मतम् ।  
+श्रुति-स्मृतिभ्यस् सर्वस्य  
+सर्वात्मत्व-प्रतीतितः ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+'Those who understand the Veda hold that all cognition has for its object what is real; for.Śruti and Smr̥ti alike teach that everything participates in the nature of everything else.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथवा  
+यथार्थं सर्वविज्ञानमिति वेदविदां मतम् ।  
+श्रुतिस्मृतिभ्यस्सर्वस्य सर्वात्मत्वप्रतीतितः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"बहु स्याम्" (छा.६.२.३) इति सङ्कल्प--  
+पूर्व-सृष्ट्य्-आद्य्-उपक्रमे ।  
+"तासां त्रिवृतम् एकैकां" (छां.६.३.३)  
+इति श्रुत्यैव चोदितम् ॥
+</details>
+
+<details><summary>English</summary>
+
+In the scriptural account of creation preceded by intention on the part of the Creator it is said that each of these elements was made tripartite;
+</details>
+
+<details><summary>मूलम्</summary>
+
+बहुस्यां (छा.६.२.३) इतिसङ्कल्पपूर्वसृष्ट्याद्युपक्रमे।  
 तासां त्रिवृतमेकैकां (छां.६.३.३) इति श्रुत्यैव चोदितम्॥
+</details>
 
-त्रिवृत्करणमेवं हि प्रत्यक्षेणोपलभ्यते । यदग्नेरोहितं रूपं तेजसस्तदपामपि॥
+### प्रत्यक्षम्
 
-शुक्लं कृष्णं पृथिव्याश्चेत्यग्नावेव त्रिरूपता।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+त्रिवृत्-करणम् एवम् हि  
+प्रत्यक्षेणोपलभ्यते ।
+</details>
+
+<details><summary>English</summary>
+
+and this tripartite constitution of all things is apprehended by Perception as well.
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रिवृत्करणमेवं हि प्रत्यक्षेणोपलभ्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अग्ने रोहितं रूपं -  
+तेजसस् तद्, अपाम् अपि ॥  
+शुक्लं, कृष्णं पृथिव्याश् च  
+चेत्य् अग्नाव् एव त्रि-रूपता ।  
+श्रुत्यैव दर्शिता तस्मात्  
+सर्वे सर्वत्र सङ्गताः ॥
+</details>
+
+<details><summary>English</summary>
+
+The red colour in burning fire comes from (primal elementary) fire, the white colour from water, the black colour from earth – in this way Scripture explains the threefold nature of burning fire. In the same way all things are composed of elements of all things.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदग्नेरोहितं रूपं तेजसस्तदपामपि॥  
+शुक्लं कृष्णं पृथिव्याश्चेत्यग्नावेव त्रिरूपता।  
 श्रुत्यैव दर्शिता तस्मात्सर्वे सर्वत्र सङ्गताः॥
+</details>
+
+### पुराणे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुराणे चैवम् एवोक्तं  
+वैष्णवे सृष्ट्य्-उपक्रमे ॥
+</details>
+
+<details><summary>English</summary>
+
+The Vishṇu Purāṇa, in its account of creation, makes a similar statement:
+</details>
+
+<details><summary>मूलम्</summary>
 
 पुराणे चैवमेवोक्तं वैष्णवे सृष्ट्युपक्रमे॥
+</details>
 
-नानावीर्याः पृथग्भूतास्ततस्ते संहतिं विना।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> नाना-वीर्याः पृथग्-भूतास्  
+ततस् ते संहतिं विना ।  
+नाशक्नुवन् प्रजास् स्रष्टुम्  
+अ-समागम्य कृत्स्नशः ॥
+</details>
+
+<details><summary>English</summary>
+
+> "The elements possessing various powers and being unconnected could not, without combination, produce living beings, not having mingled in any way.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नानावीर्याः पृथग्भूतास्ततस्ते संहतिं विना।  
 नाशक्नुवन् प्रजास्स्रष्टुमसमागम्य कृत्स्नशः॥
+</details>
 
-समेत्यान्योन्यसंयोगं परस्परसमाश्रयाः।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महदाद्या विशेषान्ता ह्यण्डमित्यादिना ततः॥ (वि.पु.१.२.५२,५३,५४)
+"समेत्यान्योन्य-संयोगं  
+परस्पर-समाश्रयाः ।  
+महद्-आद्या विशेषान्ता  
+ह्य् अण्डम्" इत्य्-आदिना ततः ॥  
+(वि.पु.१.२.५२,५३,५४)
+</details>
 
-सूत्रकारोऽपि भूतानां त्रिरूपत्वं तथाऽवदत्।
+<details><summary>English</summary>
 
+Having combined, therefore, with one another, and entering into mutual associations – beginning with the principle called Mahat, and extending down to the gross elements – they formed an egg," &c. (Vi. Pu. I, 2, 50; 52).
+</details>
+
+<details><summary>मूलम्</summary>
+
+समेत्यान्योन्यसंयोगं परस्परसमाश्रयाः।  
+महदाद्या विशेषान्ता ह्यण्डमित्यादिना ततः॥  
+(वि.पु.१.२.५२,५३,५४)
+</details>
+
+### सूत्रे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूत्र-कारो ऽपि भूतानां  
+त्रि-रूपत्वं तथा ऽवदत् ।  
+"त्र्य्-आत्मकत्वात्, तु भूयस्त्वात्" (ब्र.सू.३.१.२) इति तेनाभिधा-भिदा ॥
+</details>
+
+<details><summary>English</summary>
+
+This tripartiteness of the elements the Sūtrakāra also declares (Ve. Sū. III, 1, 3).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सूत्रकारोऽपि भूतानां त्रिरूपत्वं तथाऽवदत्।  
 त्रयात्मकत्वात्तु भूयस्त्वात् (ब्र.सू.३.१.२) इति तेनाभिधाभिदा॥
+</details>
 
-सोमाभावे च पूतीकग्रहणं श्रुतिचोदितम् ।
+### पूतिका-ग्रहण-न्यायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+सोमाभावे च पूतीक-  
+ग्रहणं श्रुति-चोदितम् ।  
+सोमावयव-सद्-भावाद्  
+इति न्याय-विदो विदुः ॥
+</details>
+
+<details><summary>English</summary>
+
+For the same reason Śruti enjoins the use of Putīka sprouts when no Soma can be procured; for, as the Mīmāṁsakas explain, there are in the Putīka plant some parts of the Soma plant (Pū. Mī. Sū.);
+</details>
+
+<details><summary>मूलम्</summary>
+
+सोमाभावे च पूतीकग्रहणं श्रुतिचोदितम् ।  
 सोमावयवसद्भावादिति न्यायविदो विदुः॥
+</details>
 
-व्रीह्यभावे च नीवारग्रहणं व्रीहिभावतः।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+व्रीह्य्-अभावे च नीवार-  
+ग्रहणं व्रीहि-भावतः ।  
+तद् एव स-दृशं तस्य  
+यत् तद्-द्रव्यैक-देश-भाक् ॥
+</details>
+
+<details><summary>English</summary>
+
+and for the same reason nīvāra grains may be used as a substitute for rice grains. That thing is similar to another which contains within itself some part of that other thing;
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्रीह्यभावे च नीवारग्रहणं व्रीहिभावतः।  
 तदेव सदृशं तस्य यत्तद्द्रव्यैकदेशभाक् ॥
+</details>
 
-शुक्त्यादौ रजतादेश्च भावः श्रुत्यैव बोधितः।
 
+### शुक्तौ रजतम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शुक्त्य्-आदौ रजतादेश् +++(→तद्-गुणानां)+++ च  
+भावः श्रुत्यैव बोधितः ।  
+रूप्य-शुक्त्य्-आदि-निर्देश-  
+भेदो भूयस्त्व-हेतुकः ॥
+</details>
+
+<details><summary>English</summary>
+
+and Scripture itself has thus stated that in shells, &c., there is contained some silver, and so on. That one thing is called "silver" and another "shell" has its reason in the relative preponderance of one or the other element.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शुक्त्यादौ रजतादेश्च भावः श्रुत्यैव बोधितः।  
 रूप्यशुक्त्यादिनिर्देशभेदो भूयस्त्वहेतुकः॥
+</details>
 
-रूप्यादिसदृशश्चायं शुक्त्यादिरुपलभ्यते।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+रूप्यादि-स-दृशश् चायं  
+शुक्त्य्-आदिर् उपलभ्यते ।  
+अतस् +++(तद्-गुणस्य→)+++तस्यात्र सद्-भावः  
+प्रतीतेर् अपि निश्चितः ॥
+</details>
+
+<details><summary>English</summary>
+
+We observe that shells are similar to silver; thus perception itself informs us that some elements of the latter actually exist in the former.
+</details>
+
+<details><summary>मूलम्</summary>
+
+रूप्यादिसदृशश्चायं शुक्त्यादिरुपलभ्यते।  
 अतस्तस्यात्र सद्भावः प्रतीतेरपि निश्चितः॥
+</details>
 
-कदाचिच्चक्षुरादेस्तु दोषाच्छुक्त्यंशवर्जितः।
+### भ्रमे यथार्थज्ञानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रजतांशो गृहीतोऽतो रजतार्थी प्रवर्तते॥ दोषहानौ तु शुक्त्यंशे गृहीते तन्निवर्तते।
+कदाचित् चक्षुर्-आदेस् तु  
+दोषाच् छुक्त्य्-अंश-वर्जितः ।  
+रजतांशो गृहीतो ऽतो  
+रजतार्थी प्रवर्तते ॥
+</details>
 
-अतो यथार्थं रूप्यादिविज्ञानं शुक्तिकादिषु॥ बाध्यबाधकभावोऽपि भूयस्त्वेनोपपद्यते।
+<details><summary>English</summary>
 
+Sometimes it happens that owing to a defect of the eye the silver-element only is apprehended, not the shell-element, and then the percipient person, desirous of silver, moves to pick up the shell.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कदाचिच्चक्षुरादेस्तु दोषाच्छुक्त्यंशवर्जितः।  
+रजतांशो गृहीतोऽतो रजतार्थी प्रवर्तते॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दोष-हानौ तु शुक्त्य्-अंशे  
+गृहीते तन् निवर्तते ।  
+अतो यथार्थं रूप्यादि-  
+विज्ञानं शुक्तिकादिषु ॥
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, his eye is free from such defect, he apprehends the shell-element and then refrains from action. Hence the cognition of silver in the shell is a true one.
+</details>
+
+<details><summary>मूलम्</summary>
+
+दोषहानौ तु शुक्त्यंशे गृहीते तन्निवर्तते।  
+अतो यथार्थं रूप्यादिविज्ञानं शुक्तिकादिषु॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बाध्य-बाधक-भावो ऽपि  
+भूयस्त्वेनोपपद्यते ।  
+शुक्ति-भूयस्त्व-वैकल्य-  
+साकल्य-ग्रह-रूपतः ॥
+</details>
+
+<details><summary>English</summary>
+
+In the same way the relation of one cognition being sublated by another explains itself through the preponderant element, according as the preponderance of the shell-element is apprehended partially or in its totality,
+</details>
+
+<details><summary>मूलम्</summary>
+
+बाध्यबाधकभावोऽपि भूयस्त्वेनोपपद्यते।  
 शुक्तिभूयस्त्ववैकल्यसाकल्यग्रहरूपतः॥
+</details>
 
-नातो मिथ्यार्थसत्यार्थविषयत्वनिबन्धनः। एवं सर्वस्य सर्वत्वे व्यवहारव्यवस्थितिः॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नातो मिथ्यार्थ-सत्यार्थ-  
+विषयत्व-निबन्धनः ।  
+एवं सर्वस्य सर्वत्वे  
+व्यवहार-व्यवस्थितिः ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+and does not therefore depend on one cognition having for its object the false thing and another the true thing. The distinctions made in the practical thought and business of life thus explain themselves on the basis of everything participating in the nature of everything else.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+नातो मिथ्यार्थसत्यार्थविषयत्वनिबन्धनः।  
+एवं सर्वस्य सर्वत्वे व्यवहारव्यवस्थितिः॥
+</details>
 
 ## स्वाप्नार्थसत्यतासमर्थनम्
 
