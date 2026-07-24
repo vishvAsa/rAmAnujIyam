@@ -697,7 +697,7 @@ The bhedābheda view is untenable.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव +++(सविशेषस्यैव ग्रहणेन वक्ष्यमाण-कारणैः)+++ सर्वत्र भिन्नाभिन्नत्वम् अपि निरस्तम्। 
+अत एव +++(सविशेषस्यैव ग्रहणेन विरुद्ध-विशेषणयोर् असम्भवात्)+++ सर्वत्र भिन्नाभिन्नत्वम् अपि निरस्तम्। 
 </details>
 
 <details><summary>English</summary>
@@ -710,7 +710,7 @@ The same arguments tend to refute the view that there is difference and absence 
 अत एव सर्वत्र भिन्नाभिन्नत्वमपि निरस्तम्। 
 </details>
 
-##### इदम्-इत्थम्-भेदः
+#### इदम्-इत्थम्-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इदम् इत्थम्" इति प्रतीताव्  
@@ -746,10 +746,10 @@ The 'such and such' denotes a peculiar make characterised, e.g. by a dewlap, the
 
 <details><summary>मूलम्</summary>
 
-तत्रेत्थम्भावस्सास्नादिसंस्थानविशेषः, तद्विशेष्यं द्रव्यमिदमंश इत्यनयोरैक्यं प्रतीतिपराहतमेव। 
+त त्रेत्थम्भावस्सास्नादिसंस्थानविशेषः, तद्विशेष्यं द्रव्यमिदमंश इत्यनयोरैक्यं प्रतीतिपराहतमेव। 
 </details>
 
-#### इतर-व्यावृत्तिः
+##### इतर-व्यावृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि – प्रथमम् एव वस्तु प्रतीयमानं स-कलेतर-व्यावृत्तम् एव प्रतीयते। 
@@ -892,6 +892,7 @@ The difference between the two classes of entities is only that staffs, bracelet
 इयांस्तु विशेषः पृथक् स्थितिप्रतिपत्तियोग्या दण्डादयः, गोत्वादयस्तु नियमेन तदनर्हा इति। 
 </details>
 
+##### प्रतीति-प्रकार-निह्नवः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो 
@@ -959,7 +960,7 @@ Inference also teaches difference.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः प्रत्यक्षस्य स-विशेष-विषयत्वेन  
-प्रत्यक्षादि-दृष्ट--सम्बन्ध-विशिष्ट-विषयत्वाद्  
++++(अनुमानस्य)+++ प्रत्यक्षादि-दृष्ट--सम्बन्ध-विशिष्ट-विषयत्वाद्  
 अनुमानम् अपि सविशेषविषयमेव। 
 </details>
 
@@ -978,7 +979,7 @@ Perception thus having for its object only what is marked by difference, inferen
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमाण-सङ्ख्या-विवादे ऽपि  
-सर्वाभ्युपगत-प्रमाणानाम् अयम् एव विषय इति  
+सर्वाभ्युपगत-प्रमाणानाम् +++(सविशेषः)+++ अयम् एव विषय इति  
 न केनापि प्रमाणेन निर्विशेष-वस्तु-सिद्धिः। 
 </details>
 
@@ -1022,14 +1023,14 @@ And a person who maintains the existence of a thing devoid of difference on the 
 Perception does not reveal mere being.
 </details>
 
-#### भेदस्य स्व-पर-प्रकाशकता
+#### भेदः स्वरूपे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु 
 
 > प्रत्यक्षं सन्-मात्र-ग्राहित्वेन  
 न भेद-विषयम्,  
-भेदश् च विकल्पासहत्वाद् दुर्निरूपः 
+भेदश् च +++(धर्म-स्वरूप-)+++विकल्पासहत्वाद् दुर्निरूपः 
 
 \– इत्युक्तम्, 
 </details>
@@ -1049,14 +1050,15 @@ In reply to the assertion that perception causes the apprehension of pure Being 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् अपि जात्य्-आदि-विशष्टस्यैव वस्तुनः प्रत्यक्ष-विषयत्वाज्  
-जात्य्-आदेर् एव प्रतियोग्य्-अपेक्षया,  
+जात्य्-आदेर् एव +++(स्मरणीय-)+++प्रतियोग्य्-अपेक्षया,  
 वस्तुनस् स्वस्य च भेद-व्यवहार-हेतुत्वाच् च  
-दूरोत्सारितम्। 
+दूरोत्सारितम्। +++(4)+++
 </details>
 
 <details><summary>English</summary>
 
-we point out that these charges are completely refuted by the fact that the only objects of perception are things distinguished by generic character and so on, and that generic character and so on – as being relative things – give at once rise to the judgment as to the distinction between themselves and the things in which they inhere. 
+we point out that these charges are completely refuted by the fact that  
+the only objects of perception are things distinguished by generic character and so on, and that generic character and so on – as being relative things – give at once rise to the judgment as to the distinction between themselves and the things in which they inhere. 
 </details>
 
 
@@ -1065,13 +1067,15 @@ we point out that these charges are completely refuted by the fact that the only
 तदपि जात्यादिविशष्टस्यैव वस्तुनः प्रत्यक्षविषयत्वाज्जात्यादेरेव प्रतियोग्यपेक्षया वस्तुनस्स्वस्य च भेदव्यवहारहेतुत्वाच्च दूरोत्सारितम्। 
 </details>
 
+####  भेदे न भेदापेक्षा
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवेदनवद् रूपादिवच् च  
 परत्र +++(विषये विशेष्ये च)+++ व्यवहार-विशेष-हेतोस्  
 स्वस्मिन्न् +++(→संवेदन-रूपादाव्)+++ अपि तद्-व्यवहार-हेतुत्वं  
 युष्माभिर् अभ्युपेतं  
-भेदस्यापि सम्भवत्य् एव।
+भेदस्यापि +++(स्व-पर-भेदकत्वं)+++ सम्भवत्य् एव।
 </details>
 
 <details><summary>English</summary>
@@ -1241,7 +1245,7 @@ If all acts of cognition had one and the same object only, everything would be a
 सर्वेषां संवेदनानामेकविषयतायामेकेनैव संवेदनेन अशेषग्रहणादन्धबधिराद्यभावश्च प्रसज्येत।
 </details>
 
-
+##### इन्द्रियैर् विशेषग्रहणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च चक्षुषा सन्-मात्रं गृह्यते,  
@@ -1298,7 +1302,7 @@ Nor have the ear and the other senses mere Being for their object; but they rela
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस् सन्-मात्रस्य ग्राहकं न किञ्चिदिह दृश्यते ॥
+अतस् सन्-मात्रस्य ग्राहकं न किञ्चिद् इह दृश्यते ॥
 </details>
 
 <details><summary>English</summary>
@@ -1312,13 +1316,13 @@ Hence there is not any source of knowledge causing us to apprehend mere Being.
 </details>
 
 
-#### शास्त्रानुत्थान-प्रसङ्गः
+#### निर्विशेष-शास्त्रानुत्थान-प्रसङ्गः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्विशेष--सन्-मात्रस्य च प्रत्यक्षेणैव ग्रहणे  
 तद्-विषयागमस्य प्राप्त-विषयत्वेन  
-अनुवादकत्वम् एव स्यात्। 
+अनुवादकत्वम् एव स्यात्। +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -1426,7 +1430,7 @@ By 'structure' we understand special or distinctive form; and we acknowledge dif
 
 जाति-ग्रहणेनैव भिन्न इति व्यवहार-सम्भवात्,  
 पदार्थान्तरादर्शनात्,  
-अर्थान्तर-वादिनाऽपि अभ्युपगतत्वाच् च  
+अर्थान्तर-वादिनाऽप्य् अभ्युपगतत्वाच् च  
 गोत्वादिर् एव भेदः।
 </details>
 
@@ -1489,7 +1493,9 @@ As a matter of fact the judgment of difference is immediately formulated on the 
 
 <details><summary>English</summary>
 
-For 'the generic character' of a cow, e.g., means just the exclusion of everything else: as soon as that character is apprehended all thought and speech referring to other creatures belonging to the same wider genus (which includes buffaloes and so on also) come to an end. 
+For 'the generic character' of a cow, e.g., means just the exclusion of everything else:  
+as soon as that character is apprehended  
+all thought and speech referring to other creatures belonging to the same wider genus (which includes buffaloes and so on also) come to an end. 
 </details>
 
 
@@ -1501,7 +1507,7 @@ For 'the generic character' of a cow, e.g., means just the exclusion of everythi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भेद-ग्रहणेनैव ह्य् अभेदनिवृत्तिः। 
+भेद-ग्रहणेनैव ह्य् अ-भेदनिवृत्तिः। 
 </details>
 
 <details><summary>English</summary>
@@ -1535,7 +1541,7 @@ It is through the apprehension of difference only that the idea of non-differenc
 
 
 
-### समान-देश-काल-व्यावृत्तिः
+### समान-देश-काल-व्यावृत्तिर् न
 
 <details><summary>English</summary>
 
@@ -1544,7 +1550,9 @@ Plurality is not unreal.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् पुनर् घटादीनां विशेषाणां व्यावर्तमानत्वेनापारमार्थ्यम् उक्तम्,  
+यत् पुनर् घटादीनां  
+विशेषाणां +++(देश-कालान्तरेऽपि)+++ व्यावर्तमानत्वेन  
+अपारमार्थ्यम् उक्तम्,  
 तद् अनालोचित-बाध्य-बाधक-भाव-- व्यावृत्त्य्-अनुवृत्ति-विशेषस्य  
 भ्रान्ति-परिकल्पितम्॥
 </details>
@@ -1553,7 +1561,8 @@ Plurality is not unreal.
 
 Next as to the assertion that all difference presented in our cognition-as of jars, pieces of cloth and the like – is unreal  
 because such difference does not persist.  
-This view, we maintain, is altogether erroneous, springs in fact from the neglect of distinguishing between persistence and non-persistence on the one hand, and the relation between what sublates and what is sublated on the other hand. 
+This view, we maintain, is altogether erroneous, springs in fact from the neglect of distinguishing between persistence and non-persistence on the one hand,  
+and the relation between what sublates and what is sublated on the other hand. 
 </details>
 
 
@@ -1583,7 +1592,7 @@ Where two cognitions are mutually contradictory, there the latter relation holds
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बाधितस्यैव व्यावृत्तिः। 
+बाधितस्यैव व्यावृत्तिः +++(अपारमार्थ्य-बोधिका)+++। 
 </details>
 
 <details><summary>English</summary>
@@ -1689,7 +1698,6 @@ hence there is contradiction, one judgment sublates the other and the sublated c
 रज्जुसर्पादिषु तु तद्देशकालसम्बन्धितयैवाभावप्रतीतेः विरोधो बाधकत्वं व्यावृत्तिश्चेति 
 </details>
 
-#### अ-पारमार्थ्यं क्व?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (देश-कालान्तर-दृष्टस्य) देश-कालान्तर-व्यावर्तमानत्वं   
@@ -1711,7 +1719,8 @@ But the circumstance of something which is seen at one time and in one place not
 #### सत्-पारमार्थ्यं सिद्धम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्तु अनुवर्तमानत्वात् सत् परमार्थः – इति,  तत्सिद्धम् एवेति न साधनम् अर्हाति। 
+यत्तु अनुवर्तमानत्वात् सत् परमार्थः – इति,  
+तत् सिद्धम् एवेति न साधनम् अर्हाति। 
 </details>
 
 <details><summary>English</summary>
