@@ -3482,7 +3482,7 @@ Consciousness is svayaṁprakāsa.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा च स्वतस् सिद्धा,  
+सा +++(→अनुभूतिः)+++ च स्वतस् सिद्धा,  
 अनुभूतित्वात्। 
 </details>
 

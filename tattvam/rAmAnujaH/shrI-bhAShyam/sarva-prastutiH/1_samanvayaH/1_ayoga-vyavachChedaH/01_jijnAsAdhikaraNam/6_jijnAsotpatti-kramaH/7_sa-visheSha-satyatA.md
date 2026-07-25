@@ -1753,8 +1753,8 @@ Hence mere Being does not alone constitute reality.
 </details>
 
 
-
-## सद्-अनुभूति-भेदः
+## अनुभूतिः
+### सद्-अनुभूति-भेदः
 
 <details><summary>English</summary>
 
@@ -1762,23 +1762,338 @@ Being and consciousness are not one.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूति-सद्-विशेषयोश् च  
+विषय-विषयि-भावेन भेदस्य प्रत्यक्ष-सिद्धत्वाद्, अ-बाधितत्वाच् च  
+अनुभूतिर् एव सतीत्य् एतद् अपि निरस्तम्॥
+</details>
+
+<details><summary>English</summary>
+
+And as the distinction between consciousness and its objects – which rests just on this relation of object and that for which the object is – is proved by perception, the assertion that only consciousness has real existence is also disposed of.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अनुभूतिसद्विशेषयोश्च विषयविषयिभावेन भेदस्य प्रत्यक्षसिद्धत्वादबाधितत्वाच्च अनुभूतिरेव सतीत्येतदपि निरस्तम्॥
+</details>
 
-## अनुभूतेः स्वयम्प्रकाशत्वपरिमितिः
 
-यत्त्वनुभूतेस्स्वयम्प्रकाशत्वमुक्तम्, तद्विषयप्रकाशनवेलायां ज्ञातुरात्मनस्तथैव; न तु सर्वेषां सर्वदा तथैवेति नियमोऽस्ति, परानुभवस्य हानोपादानादिलिङ्गकानुमानज्ञानविषयत्वात्, स्वानुभवस्याप्यतीतस्य अज्ञासिषम् इति ज्ञानविषयत्वदर्शनाच्च। अतोऽनुभूतिश्चेत् स्वतस्सिद्धेति वक्तुं न शक्यते॥
 
-## अनुभूतित्वानुभाव्यत्वयोरविरोधः
+### स्वयम्-प्रकाशत्व-परिमितिः
 
-अनुभूतेरनुभाव्यत्वे, अननुभूतित्वमित्यपि दुरुक्तम्; स्वगतातीतानुभवानां परगतानुभवानां चानुभाव्यत्वेनाननुभूतित्वप्रसङ्गात्। परानुभवानुमानानभ्युपगमे च शब्दार्थसम्बन्धग्रहणाभावेन समस्तशब्दव्यवहारोच्छेदप्रसङ्गः। आचार्यस्य ज्ञानवत्त्वमनुमाय तदुपसत्तिश्च क्रियते; सा च नोपपद्यते।
+<details><summary>English</summary>
 
-## वेद्यत्वानुभूतित्वयोः न व्याप्तिः
+The true meaning of Svayaṁprakāsatva.
+</details>
 
-न चान्यविषयत्वेऽननुभूतित्वम्। अनुभूतित्वं नाम वर्तमानदशायां स्वसत्तयैव स्वाश्रयं प्रति प्रकाशमानत्वम्, स्वसत्तयैव स्वविषयसाधनत्वं वा। ते चानुभवान्तरानुभाव्यत्वेऽपि स्वानुभवसिद्धे नापगच्छत इति नानुभूतित्वमपगच्छेत्। घटादेस्त्वननुभूतित्वमेतत्स्वभावविरहात्; नानुभाव्यत्वात्। तथाऽनुभूतेरननुभाव्यत्वेऽपि, अननुभूतित्वप्रसङ्गो दुर्वारः; गगनकुसुमादेरननुभाव्यस्य अननुभूतित्वात्॥
 
-गगनकुसुमादेरननुभूतितत्वमसत्त्वप्रयुक्तम्, नाननुभाव्यत्वप्रयुक्तम् इति चेत्, एवं तर्हि घटादेरप्यज्ञानाविरोधित्वमेवाननुभूतित्वनिबन्धनम्, नानुभाव्यत्वमित्यास्थीयताम् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुभूतेरनुभाव्यत्वे, अज्ञानाविरोधित्वमपि तस्याः घटादेरिव प्रसज्यत इति चेत्; अननुभाव्यत्वेऽपि गगनकुसुमादेरिवाज्ञानाविरोधित्वमपि प्रसज्यत एव। अतोऽनुभाव्यत्वे अननुभूतित्वम् इत्युपहास्यम्॥
+यत् तु त्व् अनुभूतेस् स्वयम्-प्रकाशत्वम् उक्तम्, तद्-विषय-प्रकाशन-वेलायां ज्ञातुर् आत्मनस् तथैव +++(स्वयम्-प्रकाशत्वम्)+++;
+</details>
+
+<details><summary>English</summary>
+
+We next take up the point as to the self-luminousness of consciousness (above, p. 33). The contention that consciousness is not an object holds good for the knowing Self at the time when it illumines (i.e. constitutes as its objects) other things;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्त्वनुभूतेस्स्वयम्प्रकाशत्वमुक्तम्, तद्विषयप्रकाशनवेलायां ज्ञातुरात्मनस्तथैव;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तु सर्वेषां सर्वदा +++(स्वयम्-प्रकाशत्वम्)+++ तथैवेति नियमो ऽस्ति,  
+परानुभवस्य हानोपादानादि-लिङ्गकानुमान-ज्ञान-विषयत्वात्,  
+स्वानुभवस्याप्य् अतीतस्य  
+"अज्ञासिषम्" इति ज्ञान-विषयत्व-दर्शनाच् च।
+</details>
+
+<details><summary>English</summary>
+
+but there is no absolute rule as to all consciousness never being anything but self-luminous. For common observation shows that the consciousness of one person may become the object of the cognition of another, viz. of an inference founded on the person's friendly or unfriendly appearance and the like, and again that a person's own past states of consciousness become the object of his own cognition – as appears from judgments such as 'At one time I knew.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+न तु सर्वेषां सर्वदा तथैवेति नियमोऽस्ति, परानुभवस्य हानोपादानादिलिङ्गकानुमानज्ञानविषयत्वात्, स्वानुभवस्याप्यतीतस्य अज्ञासिषम् इति ज्ञानविषयत्वदर्शनाच्च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो "ऽनुभूतिश् चेत् स्वतस्-सिद्धे"ति वक्तुं न शक्यते॥
+</details>
+
+<details><summary>English</summary>
+
+It cannot therefore be said 'If it is consciousness it is self-proved' (above p. 33),
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतोऽनुभूतिश्चेत् स्वतस्सिद्धेति वक्तुं न शक्यते॥
+</details>
+
+
+### अनुभाव्यत्वं न विरुद्धम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनुभूतेर् अनुभाव्यत्वे, अननुभूतित्वम् 
+
+इत्य् अपि दुरुक्तम्;
+</details>
+
+<details><summary>English</summary>
+
+nor that consciousness if becoming an object of consciousness would no longer be consciousness;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतेरनुभाव्यत्वे, अननुभूतित्वमित्यपि दुरुक्तम्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वगतातीतानुभवानां पर-गतानुभवानां च  
+अनुभाव्यत्वेनाननुभूतित्व-प्रसङ्गात्।
+</details>
+
+<details><summary>English</summary>
+
+for from this it would follow that one's own past states, and the conscious states of others – because being objects of consciousness – are not themselves consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वगतातीतानुभवानां परगतानुभवानां चानुभाव्यत्वेनाननुभूतित्वप्रसङ्गात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परानुभवानुमानानभ्युपगमे च  
+शब्दार्थ-सम्बन्ध-ग्रहणाभावेन  
+समस्त-शब्द-व्यवहारोच्छेद-प्रसङ्गः +++(वक्ष्यमाण-रीत्या)+++।
+</details>
+
+<details><summary>English</summary>
+
+Moreover, unless it were admitted that there is inferential knowledge of the thoughts of others, there would be no apprehension of the connexion of words and meaning, and this would imply the absolute termination of all human intercourse depending on speech.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परानुभवानुमानानभ्युपगमे च शब्दार्थसम्बन्धग्रहणाभावेन समस्तशब्दव्यवहारोच्छेदप्रसङ्गः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आचार्यस्य ज्ञानवत्त्वम् अनुमाय  
+तद्-उपसत्तिश् च क्रियते;
+सा च नोपपद्यते।
+</details>
+
+<details><summary>English</summary>
+
+Nor also would it be possible for pupils to attach themselves to a teacher of sacred lore, for the reason that they had become aware of his wisdom and learning.
+And that approach is not possible otherwise.
+</details>
+</details>
+
+<details><summary>मूलम्</summary>
+
+आचार्यस्य ज्ञानवत्त्वमनुमाय तदुपसत्तिश्च क्रियते;
+सा च नोपपद्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चान्य-विषयत्वे ऽननुभूतित्वम्।
+</details>
+
+<details><summary>English</summary>
+
+The general proposition that consciousness does not admit of being an object is in fact quite untenable.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चान्यविषयत्वे ऽननुभूतित्वम्।
+</details>
+
+#### लक्षणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूतित्वं नाम  
+वर्तमान-दशायां स्व-सत्तयैव  
+स्वाश्रयं प्रति प्रकाशमानत्वम्,  
+स्व-सत्तयैव स्व-विषय-साधनत्वं वा।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+The essential 'nature of consciousness or knowledge – consists therein that it shines forth, or manifests itself, through its own being to its own substrate at the present moment; or (to give another definition) that it is instrumental in proving its own object by its own being [^fn_10]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[^fn_10]: 48:1 The comment of the Sru. Pra. on the above definitions runs, with a few additional explanations, as follows: The term 'anubhūti' here denotes knowledge in general, not only such knowledge as is not remembrance (which limited meaning the term has sometimes). With reference to the 'shining forth' it might be said that in this way jars also and similar things know or are conscious because they also shine forth' (viz. in so far as they are known); to exclude jars and the like the text therefore adds 'to its own substrate' (the jar 'shines forth,' not to itself, but to the  knowing person). There are other attributes of the Self, such as atomic extension, eternity, and so on, which are revealed (not through themselves) but through an act of knowledge different from them; to exclude those the text adds 'through its own being.' In order to exclude past states of consciousness or acts of knowledge, the text adds 'at the present moment.' A past state of consciousness is indeed not revealed without another act of knowledge (representing it), and would thus by itself be excluded; but the text adds this specification (viz. 'at the present moment') on purpose, in order to intimate that a past state of consciousness can be represented by another state – a point denied by the opponent. 'At the present moment' means 'the connexion with the object of knowledge belonging to the present time.' Without the addition of 'to its own substrate' the definition might imply that a state of consciousness is manifest to another person also; to exclude this the clause is added. This first definition might be objected to as acceptable only to those who maintain the svayaṁprakāsatva-theory (which need not be discussed here); hence a second definition is given.The two clauses 'to its own substrate' and 'at the present moment' have to be supplied in this second definition also. 'Instrumental in bringing about' would apply to staffs, wheels, and such like implements also; hence the text adds 'its own object.' (Staffs, wheels, &c. have no 'objects.') Knowledge depending on sight does not bring about an object depending on hearing; to exclude this notion of universal instrumentality the text specifies the object by the words 'its own.' The clause 'through its own being' excludes the sense organs, which reveal objects not by their own being, but in so far as they give rise to knowledge. The two clauses 'at the present moment' and 'to its own substrate' have the same office in the second definition as in the first.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतित्वं नाम वर्तमानदशायां स्वसत्तयैव स्वाश्रयं प्रति प्रकाशमानत्वम्, स्वसत्तयैव स्वविषयसाधनत्वं वा।
+</details>
+
+#### लक्षण-समन्वयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(साधनत्व-प्रकाशमानत्वे)+++ ते चानुभवान्तरानुभाव्यत्वे ऽपि  
+स्वानुभव-सिद्धे नापगच्छत  
+इति नानुभूतित्वम् अपगच्छेत्।
+</details>
+
+<details><summary>English</summary>
+
+Now these two characteristics are established by a person's own state of consciousness and do not vanish when that consciousness becomes the object of another state of consciousness; consciousness remains also in the latter case what it is.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते चानुभवान्तरानुभाव्यत्वेऽपि स्वानुभवसिद्धे नापगच्छत इति नानुभूतित्वमपगच्छेत्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+घटादेस् त्व् अननुभूतित्वम्  
+एतत्-स्वभाव-विरहात्; नानुभाव्यत्वात्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Jars and similar things, on the other hand, do not possess consciousness, not because they are objects of consciousness but because they lack the two characteristics stated above.
+</details>
+
+<details><summary>मूलम्</summary>
+
+घटादेस्त्वननुभूतित्वमेतत्स्वभावविरहात्; नानुभाव्यत्वात्।
+</details>
+
+#### अननुभाव्यत्वे ऽननुभूतिवम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा ऽनुभूतेर् अननुभाव्यत्वे ऽपि,  
+अननुभूतित्व-प्रसङ्गो दुर्वारः;
+</details>
+
+<details><summary>English</summary>
+
+If we made the presence of consciousness dependent on the absence of its being an object of consciousness, we should arrive at the conclusion that consciousness is not consciousness;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथाऽनुभूतेरननुभाव्यत्वेऽपि, अननुभूतित्वप्रसङ्गो दुर्वारः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गगन-कुसुमादेर् अननुभाव्यस्य अननुभूतित्वात्॥
+</details>
+
+<details><summary>English</summary>
+
+for there are things – e.g. sky-flowers – which are not objects of consciousness and at the same time are not consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+गगनकुसुमादेरननुभाव्यस्य अननुभूतित्वात्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> गगन-कुसुमादेर् अननुभूतित्वम् असत्त्व-प्रयुक्तम्,  
+नाननुभाव्यत्व-प्रयुक्तम् 
+
+इति चेत्,
+</details>
+
+<details><summary>English</summary>
+
+You will perhaps reply to this that a sky-flower's not being consciousness is due not to its not being an object of consciousness, but to its non-existence!--
+</details>
+
+<details><summary>मूलम्</summary>
+
+गगनकुसुमादेरननुभूतितत्वमसत्त्वप्रयुक्तम्, नाननुभाव्यत्वप्रयुक्तम् इति चेत्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं तर्हि घटादेर् अप्य् अज्ञानाविरोधित्वम् एवाननुभूतित्व-निबन्धनम्,  
+नानुभाव्यत्वम् इत्य् आस्थीयताम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Well then, we rejoin, let us say analogously that the reason of jars and the like not being contradictory to Nescience (i.e. of their being jaḍa), is their not being of the nature of consciousness, and let us not have recourse to their being objects of consciousness!--
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं तर्हि घटादेरप्यज्ञानाविरोधित्वमेवाननुभूतित्वनिबन्धनम्, नानुभाव्यत्वमित्यास्थीयताम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूतेर् अनुभाव्यत्वे, अज्ञानाविरोधित्वम् अपि तस्याः घटादेर् इव प्रसज्यत इति चेत्;
+</details>
+
+<details><summary>English</summary>
+
+But if consciousness is an object of consciousness, we conclude that it also is non-contradictory of Nescience, like a jar!--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतेरनुभाव्यत्वे, अज्ञानाविरोधित्वमपि तस्याः घटादेरिव प्रसज्यत इति चेत्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अननुभाव्यत्वे ऽपि गगन-कुसुमादेर् इवाज्ञानाविरोधित्वम् अपि प्रसज्यत एव।
+</details>
+
+<details><summary>English</summary>
+
+At this conclusion, we rejoin, you may arrive even on the opposite assumption, reasoning as follows: 'Consciousness is non-contradictory of Nescience, because it is not an object of consciousness, like a sky-flower!
+</details>
+
+<details><summary>मूलम्</summary>
+
+अननुभाव्यत्वेऽपि गगनकुसुमादेरिवाज्ञानाविरोधित्वमपि प्रसज्यत एव।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽनुभाव्यत्वे अननुभूतित्वम् इत्य् उपहास्यम्॥
+</details>
+
+<details><summary>English</summary>
+
+All which shows that to maintain as a general principle that something which is an object of consciousness cannot itself be consciousness is simply ridiculous.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतोऽनुभाव्यत्वे अननुभूतित्वम् इत्युपहास्यम्॥
+</details>
 
 ## संविदः पराभिमतनित्यत्वनिरासः
 
