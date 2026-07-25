@@ -3699,7 +3699,7 @@ for when pleasure and so on exist at all, they never are non-perceived (i.e. the
 #### नानुमेयता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् इदम् अनाकिलतानुभव-विभवस्य स्व-मति-विजृम्भितम्, 
+तद् इदम् अनाकलितानुभव-विभवस्य स्व-मति-विजृम्भितम्, 
 </details>
 
 <details><summary>English</summary>
@@ -3710,7 +3710,7 @@ All this reasoning, we reply, is entirely spun out of your own fancy, without an
 
 <details><summary>मूलम्</summary>
 
-तदिदमनाकिलतानुभवविभवस्य स्वमतिविजृम्भितम्, 
+तदिदमनाकलितानुभवविभवस्य स्वमतिविजृम्भितम्, 
 </details>
 
 
@@ -3930,6 +3930,12 @@ For the antecedent non-existence of self-established consciousness cannot be app
 तावन् नावगमयति। +++(4)+++
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+कालान्तर-वर्तिन्या अभावं त्व् अवगमयेद् इति वक्ष्यते।
+</details>
+
+
 <details><summary>English</summary>
 
 If consciousness itself gave rise to the apprehension of its own non-existence, it could not do so in so far as 'being,' for that would contradict its being; 
@@ -4040,6 +4046,12 @@ but consciousness, as being self-established, does not admit of that objectivati
 उत्पत्तिर् न शक्यते वक्तुम्  
 इत्य् उत्पत्ति-प्रतिसम्बद्धाश् चान्येऽपि भाव-विकारास् तस्या न सन्ति॥
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+प्राग्-अभावाभावस् तिरस्करिष्यते।  
+</details>
+
 
 <details><summary>English</summary>
 

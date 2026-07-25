@@ -1984,35 +1984,23 @@ Jars and similar things, on the other hand, do not possess consciousness, not be
 घटादेस्त्वननुभूतित्वमेतत्स्वभावविरहात्; नानुभाव्यत्वात्।
 </details>
 
-#### अननुभाव्यत्वे ऽननुभूतिवम्
+#### अननुभूतित्वम् अज्ञानाविरोधित्व-हेतुः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ऽनुभूतेर् अननुभाव्यत्वे ऽपि,  
 अननुभूतित्व-प्रसङ्गो दुर्वारः;
-</details>
-
-<details><summary>English</summary>
-
-If we made the presence of consciousness dependent on the absence of its being an object of consciousness, we should arrive at the conclusion that consciousness is not consciousness;
-</details>
-
-<details><summary>मूलम्</summary>
-
-तथाऽनुभूतेरननुभाव्यत्वेऽपि, अननुभूतित्वप्रसङ्गो दुर्वारः;
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 गगन-कुसुमादेर् अननुभाव्यस्य अननुभूतित्वात्॥
 </details>
 
 <details><summary>English</summary>
 
+If we made the presence of consciousness dependent on the absence of its being an object of consciousness, we should arrive at the conclusion that consciousness is not consciousness;
 for there are things – e.g. sky-flowers – which are not objects of consciousness and at the same time are not consciousness.
 </details>
 
 <details><summary>मूलम्</summary>
 
+तथाऽनुभूतेरननुभाव्यत्वेऽपि, अननुभूतित्वप्रसङ्गो दुर्वारः;
 गगनकुसुमादेरननुभाव्यस्य अननुभूतित्वात्॥
 </details>
 
@@ -2036,8 +2024,11 @@ You will perhaps reply to this that a sky-flower's not being consciousness is du
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं तर्हि घटादेर् अप्य् अज्ञानाविरोधित्वम् एवाननुभूतित्व-निबन्धनम्,  
-नानुभाव्यत्वम् इत्य् आस्थीयताम् ॥
+एवं तर्हि +++(ख-पुष्पवत्)+++ घटादेर् अप्य्  
+अज्ञानाविरोधित्वम् एव  
++++(त्वद्-उक्त-)+++अननुभूतित्व-निबन्धनम्,  
+नानुभाव्यत्वम् इत्य् आस्थीयताम्  
++++(येन घट-खपुष्पयोस् समानकारणं लक्ष्येत)+++॥
 </details>
 
 <details><summary>English</summary>
@@ -2050,9 +2041,14 @@ Well then, we rejoin, let us say analogously that the reason of jars and the lik
 एवं तर्हि घटादेरप्यज्ञानाविरोधित्वमेवाननुभूतित्वनिबन्धनम्, नानुभाव्यत्वमित्यास्थीयताम् ॥
 </details>
 
+##### अनुभाव्यत्वं हेत्व्-आभासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुभूतेर् अनुभाव्यत्वे, अज्ञानाविरोधित्वम् अपि तस्याः घटादेर् इव प्रसज्यत इति चेत्;
+> अनुभूतेर् अनुभाव्यत्वे,  
+अज्ञानाविरोधित्वम् अपि तस्याः  
+घटादेर् इव प्रसज्यत 
+
+इति चेत् +++(कुतर्कः)+++;
 </details>
 
 <details><summary>English</summary>
@@ -2067,7 +2063,8 @@ But if consciousness is an object of consciousness, we conclude that it also is 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अननुभाव्यत्वे ऽपि गगन-कुसुमादेर् इवाज्ञानाविरोधित्वम् अपि प्रसज्यत एव।
++++(अनुभूतेर्)+++ अननुभाव्यत्वे ऽपि  
+गगन-कुसुमादेर् इवाज्ञानाविरोधित्वम् अपि प्रसज्यत एव +++(इत्य् अनुभाव्यत्वं हेत्व्-आभासः)+++।
 </details>
 
 <details><summary>English</summary>
@@ -2082,7 +2079,7 @@ At this conclusion, we rejoin, you may arrive even on the opposite assumption, r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो ऽनुभाव्यत्वे अननुभूतित्वम् इत्य् उपहास्यम्॥
+अतो "ऽनुभाव्यत्वे अननुभूतित्वम्" इत्य् उपहास्यम्॥
 </details>
 
 <details><summary>English</summary>
@@ -2095,168 +2092,2539 @@ All which shows that to maintain as a general principle that something which is 
 अतोऽनुभाव्यत्वे अननुभूतित्वम् इत्युपहास्यम्॥
 </details>
 
-## संविदः पराभिमतनित्यत्वनिरासः
+## संविद् अनित्या
 
-यत्तु संविदस्स्वतस्सिद्धायाः प्रागभावाद्यभावादुत्पत्तिर्निरस्यते, तदन्धस्य जात्यन्धेन यष्टिः प्रदीयते। प्रागभावस्य ग्राहकाभावादभावो न शक्यते वक्तुम्; अनुभूत्यैव ग्रहणात्।
+<details><summary>English</summary>
 
-कथमनुभूतिस्सती तदानीमेव स्वाभावं विरुद्धमवगमयतीति चेत्; न ह्यनुभूतिस्स्वसमकालवर्तिनमेव विषयीकरोतीत्यस्ति नियमः; अतीतानागतयोरविषयत्वप्रसङ्गात्॥
+Consciousness is not eternal.
+</details>
 
-## ग्राह्यविशेषस्यापि अनुभूतियौगपद्यानियमः
+### कालान्तर-विषयी-कृतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ मन्यसे अनुभूतिप्रागभावादेस्सिद्ध्यतस्तत्समकालभावनियमोऽस्तीति; किं त्वया क्वचिदेवं दृष्टम्? येन नियमं ब्रवीषि। हन्त तर्हि तत एव दर्शनात् प्रागभावादिस्सिद्ध इति न तदपह्नवः। तत्प्रागभावं च तत्समकालवर्तिनमनुन्मत्तः को ब्रवीति। इन्द्रियजन्मनः प्रत्यक्षस्य ह्येष स्वभावनियमः यत्स्वसमकालवर्तिनः पदार्थस्य ग्राहकत्वम्; न सर्वेषां ज्ञानानां प्रमाणानां च; स्मरणानुमानागमयोगिप्रत्यक्षादिषु कालान्तरवर्तिनोऽपि ग्रहणदर्शनात्।
+यत् तु संविदस् स्वतस्-सिद्धायाः  
+प्राग्-अभावाद्य्-अभावाद् उत्पत्तिर् निरस्यते,  
+तद् अन्धस्य जात्य्-अन्धेन यष्टिः प्रदीयते  
++++(वक्ष्यमाण-रीत्या)+++।+++(5)+++
+</details>
 
-## प्रमाणाप्रमाणज्ञानयोर्वैषम्यम्
+<details><summary>English</summary>
 
-अत एव च प्रमाणस्य प्रमेयाविनाभावः – न हि प्रमाणस्य स्वसमकालवर्तिना अविनाभावः अर्थसम्बन्धः; अपि तु यद्देशकालादिसम्बन्धितया योऽर्थोऽवभासते, तस्य तथाविधाकारमिथ्यात्व-प्रत्यनीकता। अत इदमपि निरस्तं स्मृतिर्न बाह्यविषया नष्टेऽप्यर्थे स्मृतिदर्शनात् इति॥
+It was further maintained by the pūrvapakshin that as consciousness is self-established it has no antecedent non-existence and so on, and that this disproves its having an origin. But this is an attempt to prove something not proved by something else that is equally unproved; comparable to a man blind from birth undertaking to guide another blind man!
+</details>
 
-## संवित्प्रागभावे प्रमाणाभावनिरसनम्
+<details><summary>मूलम्</summary>
 
-अथोच्येत – न तावत्संवित्प्रागभावः प्रस्यक्षावसेयः, अवर्तमानत्वात्। न च प्रमाणान्तरावसेयः लिङ्गाद्यभावात्। न हि संवित्प्रागभावव्याप्तमिह
-लिङ्गमुपलभ्यते । न चाऽगमस्तावत्तद्विषयो दृष्टचरः। अतस्तत्प्रागभावः प्रमाणाभावादेव न सेत्स्यति – इति; यद्येवं स्वतस्सद्धत्वविभवं परित्यज्य प्रमाणाभावेऽवरूढश्चेत्, योग्यानुपलध्यैवाभावस्समर्थित इत्युपशाम्यतु भवान्॥
+यत्तु संविदस्स्वतस्सिद्धायाः प्रागभावाद्यभावादुत्पत्तिर्निरस्यते, तदन्धस्य जात्यन्धेन यष्टिः प्रदीयते।
+</details>
 
-(ज्ञाननित्यत्वसाधनम्)
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च – प्रत्यक्षज्ञानं स्वविषयं घटादिकं स्वसत्ताकाले सन्तं साधयत्तस्य न सर्वदा सत्तामवगमयद्दृश्यत इति घटादेः पूर्वोत्तरकालसत्ता न प्रतीयते। तदप्रतीतिश्च संवेदनस्य कालपरिच्छिन्नतया प्रतीतेः। घटादिविषयमेव संवेदनं स्वयं कालानविच्छन्नं प्रतीतं चेत्, संवेदनविषयो घटादिरपि कालानवच्छिन्नः प्रतीयेतेति नित्यस्स्यात्। नित्यं चेत्संवेदनं स्वतस्सिद्धं नित्यमित्येव प्रतीयेत। न च तथा प्रतीयते।
+प्राग्-अभावस्य ग्राहकाभावाद्  
+अभावो न शक्यते वक्तुम्;  
+अनुभूत्यैव ग्रहणात्।
+</details>
 
-एवमनुमानादिसंविदोऽपि कालानविच्छन्नाः प्रतीताश्चेत्, स्वविषयानपि कालानवच्छिन्नान् प्रकाशयन्तीति ते च सर्वे कालानवच्छिन्ना नित्यास्स्युः, संविदनुरूपत्वाद्विविषयाणाम्।
+<details><summary>English</summary>
 
-## निर्विषयानुभवनित्यत्वपक्षदूषणम्
+You have no right to maintain the non-existence of the antecedent non-existence of consciousness on the ground that there is nothing to make us apprehend that non-existence; for there is something to make us apprehend it, viz. consciousness itself!
+</details>
 
-न च निर्विषया काचित्संविदस्ति, अनुपलब्धेः । विषयप्रकाशनतयैवोपलब्धेरेव हि संविदस्स्वयम्प्रकाशता समर्थिता, संविदो विषयप्रकाशनता-स्वभावविरहे सति स्वंयप्रकाशत्वासिद्धेः, अनुभूतेः अनुभवान्तराननुभाव्यत्वाच्च संविदस्त्तुच्छतैव स्यात् ॥
+<details><summary>मूलम्</summary>
 
-## स्वापादिषु अनुभूतेः अस्फुरणम्
+प्रागभावस्य ग्राहकाभावादभावो न शक्यते वक्तुम्; अनुभूत्यैव ग्रहणात्।
+</details>
 
-न च स्वापमदमूर्च्छादिषु सर्वविषयशून्या केवलैव संवित्परिस्फुरतीति वाच्यम्; योग्यानुपलब्धिपराहतत्वात्। तास्वपि दशास्वनुभूतिरनुभूता चेत्, तस्याः प्रबोधसमयेऽनुसन्धानं स्यात् न च तदस्ति॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## अस्मरणनियमः अनुभवाभावसाधकः
+> कथम् अनुभूतिस् सती  
+तदानीम् एव स्वाभावं विरुद्धम् अवगमयति
 
-नन्वभूतस्य पदार्थस्य स्मरणनियमो न दृष्टचरः। अतस्स्मरणाभावः कथमनुभवाभावं साधयेत्?
+इति चेत्;
+</details>
+
+<details><summary>English</summary>
+
+--But how can consciousness at the time when it is, make us apprehend its own previous non-existence which is contradictorily opposed to it?--
+</details>
+
+<details><summary>मूलम्</summary>
+
+कथमनुभूतिस्सती तदानीमेव स्वाभावं विरुद्धमवगमयतीति चेत्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य्  
+"अनुभूतिस् स्व-समकाल-वर्तिनम् एव विषयी करोती"त्य् अस्ति नियमः;  
+अतीतानागतयोर् अ-विषयत्व-प्रसङ्गात्॥
+</details>
+
+<details><summary>English</summary>
+
+Consciousness, we rejoin, does not necessarily constitute as its objects only what occupies the same time with itself; were it so it would follow that neither the past nor the future can be the object of consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ह्यनुभूतिस्स्वसमकालवर्तिनमेव विषयीकरोतीत्यस्ति नियमः; अतीतानागतयोरविषयत्वप्रसङ्गात्॥
+</details>
+
+#### समकाल-नियमासाधुता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ मन्यसे - 
+
+> अनुभूति-प्राग्-अभावादेस् सिद्ध्यतस् तत्-समकाल-भाव-नियमो ऽस्ति
+
+इति;
+</details>
+
+<details><summary>English</summary>
+
+Or do you mean that there is an absolute rule that the antecedent non-existence of consciousness, if proved, must be contemporaneous with consciousness?
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथ मन्यसे अनुभूतिप्रागभावादेस्सिद्ध्यतस्तत्समकालभावनियमोऽस्तीति;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं त्वया क्वचिद् एवम् दृष्टम्?  
+येन नियमं ब्रवीषि।
+</details>
+
+<details><summary>English</summary>
+
+Have you then, we ask, ever observed this so as to be able to assert an absolute rule?
+</details>
+
+<details><summary>मूलम्</summary>
+
+किं त्वया क्वचिदेवं दृष्टम्? येन नियमं ब्रवीषि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हन्त तर्हि तत एव दर्शनात्  
+प्राग्-अभावादिस् सिद्ध  
+इति न तद्-अपह्नवः।
+</details>
+
+<details><summary>English</summary>
+
+And if it were observed, that would prove the existence of previous non-existence, not its negation!
+</details>
+
+<details><summary>मूलम्</summary>
+
+हन्त तर्हि तत एव दर्शनात् प्रागभावादिस्सिद्ध इति न तदपह्नवः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-प्राग्-अभावं च तत्-समकाल-वर्तिनम्  
+अनुन्मत्तः को ब्रवीति।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+The fact, however, is that no person in his senses will maintain the contemporaneous existence of consciousness and its own antecedent non-existence.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्प्रागभावं च तत्समकालवर्तिनमनुन्मत्तः को ब्रवीति।
+</details>
+
+#### इन्द्रिय-ग्रहणाद् भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द्रिय-जन्मनः प्रत्यक्षस्य ह्य् एष स्वभाव-नियमः  
+यत् स्व-समकाल-वर्तिनः पदार्थस्य ग्राहकत्वम्;  
+न सर्वेषां ज्ञानानां प्रमाणानां च;  
+स्मरणानुमानागम--योगि-प्रत्यक्षादिषु  
+कालान्तर-वर्तिनो ऽपि ग्रहण-दर्शनात्।
+</details>
+
+<details><summary>English</summary>
+
+In the case of perceptive knowledge originating from sensation, there is indeed this limitation, that it causes the apprehension of such things only as are actually present at the same time. But this limitation does not extend to cognitions of all kinds, nor to all instruments of knowledge; for we observe that remembrance, inference, and the magical perception of Yogis apprehend such things also as are not present at the time of apprehension.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रियजन्मनः प्रत्यक्षस्य ह्येष स्वभावनियमः यत्स्वसमकालवर्तिनः पदार्थस्य ग्राहकत्वम्; न सर्वेषां ज्ञानानां प्रमाणानां च; स्मरणानुमानागमयोगिप्रत्यक्षादिषु कालान्तरवर्तिनोऽपि ग्रहणदर्शनात्।
+</details>
+
+#### मान-मेयाविनाभावे देश-कालौ
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव च प्रमाणस्य प्रमेयाविनाभावः –  
+न हि प्रमाणस्य स्व-समकाल-वर्तिना अविनाभावो ऽर्थ-सम्बन्धः;  
+अपि तु यद्-देशकालादि-सम्बन्धितया यो ऽर्थो ऽवभासते,  
+तस्य तथा-विधाकार-मिथ्यात्व-प्रत्यनीकता।
+</details>
+
+<details><summary>English</summary>
+
+On this very point there rests the relation connecting the means of knowledge with their objects, viz. that the former are not without the latter. This does not mean that the instrument of knowledge is connected with its object in that way that it is not without something that is present at the time of cognition; but rather that the instrument of knowledge is opposed to the falsehood of that special form in which the object presents itself as connected with some place and time.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव च प्रमाणस्य प्रमेयाविनाभावः – न हि प्रमाणस्य स्वसमकालवर्तिना अविनाभावः अर्थसम्बन्धः; अपि तु यद्देशकालादिसम्बन्धितया योऽर्थोऽवभासते, तस्य तथाविधाकारमिथ्यात्व-प्रत्यनीकता।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत इदम् अपि निरस्तं -  
++++(यत्)+++ स्मृतिर् न बाह्य-विषया -  
+
+नष्टे ऽप्य् अर्थे स्मृति-दर्शनाद् इति॥
+</details>
+
+<details><summary>English</summary>
+
+This disposes also of the contention that remembrance has no external object; for it is observed that remembrance is related to such things also as have perished.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत इदमपि निरस्तं स्मृतिर्न बाह्यविषया नष्टेऽप्यर्थे स्मृतिदर्शनात् इति॥
+</details>
+
+### संवित्-प्रागभावे प्रमाणानि
+#### प्रमाणाभाव-पक्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथोच्येत –  
+
+> न तावत् संवित्-प्राग्-अभावः प्रत्यक्षावसेयः, अवर्तमानत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+Possibly you will now argue as follows. The antecedent non-existence of consciousness cannot be ascertained by perception, for it is not something present at the time of perception.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथोच्येत – न तावत्प्रत्यक्षावसेयः, अवर्तमानत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न च प्रमाणान्तरावसेयः लिङ्गाद्य्-अभावात्।
+</details>
+
+<details><summary>English</summary>
+
+It further cannot be ascertained by the other means of knowledge, since there is no characteristic mark (linga) on which an inference could be based:
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च प्रमाणान्तरावसेयः लिङ्गाद्यभावात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न हि संवित्-प्राग्-अभाव-व्याप्तम् इह लिङ्गम् उपलभ्यते।
+</details>
+
+<details><summary>English</summary>
+
+for we do not observe any characteristic mark invariably accompanied by the antecedent non-existence of consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि संवित्प्रागभावव्याप्तमिह लिङ्गमुपलभ्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चाऽगमस् तावत् तद्-विषयो दृष्ट-चरः।
+</details>
+
+<details><summary>English</summary>
+
+Nor do we meet with any scriptural text referring to this antecedent non-existence.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चाऽगमस्तावत्तद्विषयो दृष्टचरः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अतस् तत्-प्राग्-अभावः  
+प्रमाणाभावाद् एव न सेत्स्यति 
+
+– इति;
+</details>
+
+<details><summary>English</summary>
+
+Hence, in the absence of any valid instrument of knowledge, the antecedent non-existence of consciousness cannot be established at all.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्तत्प्रागभावः प्रमाणाभावादेव न सेत्स्यति – इति;
+</details>
+
+#### अनुपलब्धेर् अभावः?!
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् एवम् स्वतस्-सिद्धत्व-विभवं परित्यज्य  
+प्रमाणाभावे ऽवरूढश् चेत्,  
+योग्यानुपलब्ध्यैवाभावस् समर्थित  
+इत्य् उपशाम्यतु भवान्॥
+</details>
+
+<details><summary>English</summary>
+
+If, we reply, you thus, altogether setting aside the force of self-provedness (on which you had relied hitherto), take your stand on the absence of valid means of knowledge, we again must request you to give in; for there is a valid means of knowledge whereby to prove the antecedent non-existence of consciousness, viz. valid non-perception (anupalabdhi).
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्येवं स्वतस्सद्धत्वविभवं परित्यज्य प्रमाणाभावेऽवरूढश्चेत्, योग्यानुपलध्यैवाभावस्समर्थित इत्युपशाम्यतु भवान्॥
+</details>
+
+#### प्रत्यक्ष-ज्ञानं न कालान्तर-बोधकम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च – प्रत्यक्ष-ज्ञानं स्व-विषयं घटादिकं  
+स्व-सत्ता-काले सन्तं साधयत्  
+तस्य न सर्वदा सत्ताम् अवगमयद् दृश्यते  
+इति घटादेः पूर्वोत्तर-काल-सत्ता न प्रतीयते।
+</details>
+
+<details><summary>English</summary>
+
+Moreover, we observe that perceptional knowledge proves its object, be it a jar or something else, to exist only as long as it exists itself, not at all times; we do not, through it, apprehend the antecedent or subsequent existence of the jar.
+</details>
+
+<details><summary>मूलम्</summary>
+
+किञ्च – प्रत्यक्षज्ञानं स्वविषयं घटादिकं स्वसत्ताकाले सन्तं साधयत्तस्य न सर्वदा सत्तामवगमयद्दृश्यत इति घटादेः पूर्वोत्तरकालसत्ता न प्रतीयते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-अप्रतीतिश् च  
+संवेदनस्य काल-परिच्छिन्नतया प्रतीतेः।
+</details>
+
+<details><summary>English</summary>
+
+Now this absence of apprehension is due to the fact that consciousness itself is limited in time.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदप्रतीतिश्च संवेदनस्य कालपरिच्छिन्नतया प्रतीतेः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+घटादि-विषयम् एव संवेदनं  
+स्वयं कालानवच्छिन्नं प्रतीतं चेत्,  
+संवेदन-विषयो घटादिर् अपि कालानवच्छिन्नः प्रतीयेत  
+इति नित्यस् स्यात्।
+</details>
+
+<details><summary>English</summary>
+
+If that consciousness which has a jar for its object were itself apprehended as non-limited in time, the object also – the jar – would be apprehended under the same form, i.e. it would be eternal.
+</details>
+
+<details><summary>मूलम्</summary>
+
+घटादिविषयमेव संवेदनं स्वयं कालानवच्छिन्नं प्रतीतं चेत्, संवेदनविषयो घटादिरपि कालानवच्छिन्नः प्रतीयेतेति नित्यस्स्यात्।
+</details>
+
+#### नित्यता-प्रतीत्य्-अभावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यं चेत् संवेदनं  
+"स्वतस्-सिद्धं नित्यम्"  
+इत्य् एव प्रतीयेत।
+</details>
+
+<details><summary>English</summary>
+
+And if self-established consciousness were eternal, it would be immediately cognised as eternal;
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यं चेत्संवेदनं स्वतस्सिद्धं नित्यमित्येव प्रतीयेत।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तथा प्रतीयते।
+</details>
+
+<details><summary>English</summary>
+
+but this is not the case.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च तथा प्रतीयते।
+</details>
+
+#### नित्यतानुमानो न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् अनुमानादि-संविदो ऽपि  
+कालानवच्छिन्नाः प्रतीताश् चेत्,  
+स्व-विषयान् अपि कालानवच्छिन्नान् प्रकाशयन्तीति  
+ते च सर्वे कालानवच्छिन्ना नित्यास् स्युः, संविद्-अनुरूपत्वाद् विषयाणाम्।
+</details>
+
+<details><summary>English</summary>
+
+Analogously, if inferential consciousness and other forms of consciousness were apprehended as non-limited in time, they would all of them reveal their objects also as non-limited, and these objects would thus be eternal; for the objects are conform in nature to their respective forms of consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमनुमानादिसंविदोऽपि कालानवच्छिन्नाः प्रतीताश्चेत्, स्वविषयानपि कालानवच्छिन्नान् प्रकाशयन्तीति ते च सर्वे कालानवच्छिन्ना नित्यास्स्युः, संविदनुरूपत्वाद्विविषयाणाम्।
+</details>
+
+### सविषयता
+
+<details><summary>English</summary>
+
+There is no consciousness without object.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च निर्विषया काचित् संविद् अस्ति, अनुपलब्धेः ।
+</details>
+
+<details><summary>English</summary>
+
+Nor is there any consciousness devoid of objects; for nothing of this kind is ever known.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च निर्विषया काचित्संविदस्ति, अनुपलब्धेः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विषय-प्रकाशनतयैवोपलब्धेर् एव हि  
+संविदस् स्वयम्-प्रकाशता समर्थिता,  
+संविदो विषय-प्रकाशनता-स्वभाव-विरहे सति  
+स्वयम्-प्रकाशत्वासिद्धेः,  
++++(तेन साकम्)+++ अनुभूतेर् अनुभवान्तराननुभाव्यत्वाच् च  
+संविदस् तुच्छतैव स्यात् +++(विषयिता-विषयताभावात्)+++ ॥
+</details>
+
+<details><summary>English</summary>
+
+Moreover, the self-luminousness of consciousness has, by our opponent himself, been proved on the ground that its essential nature consists in illumining (revealing) objects; the self-luminousness of consciousness not admitting of proof apart from its essential nature which consists in the lighting up of objects. And as moreover, according to our opponent, consciousness cannot be the object of another consciousness, it would follow that (having neither an object nor itself being an object) it is something altogether unreal, imaginary.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विषयप्रकाशनतयैवोपलब्धेरेव हि संविदस्स्वयम्प्रकाशता समर्थिता, संविदो विषयप्रकाशनता-स्वभावविरहे सति स्वंयप्रकाशत्वासिद्धेः, अनुभूतेः अनुभवान्तराननुभाव्यत्वाच्च संविदस्तुच्छतैव स्यात् ॥
+</details>
+
+#### स्वापादिषु
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च स्वाप-मद-मूर्च्छादिषु  
+सर्व-विषय-शून्या केवलैव संवित् परिस्फुरतीति वाच्यम्;  
+योग्यानुपलब्धि-पराहतत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+Nor are you justified in maintaining that in deep sleep, swoon, senselessness and similar states, pure consciousness, devoid of any object, manifests itself. This view is negatived by 'valid non-perception'.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च स्वापमदमूर्च्छादिषु सर्वविषयशून्या केवलैव संवित्परिस्फुरतीति वाच्यम्; योग्यानुपलब्धिपराहतत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तास्व् अपि दशास्व् अनुभूतिर् अनुभूता चेत्,  
+तस्याः प्रबोध-समये ऽनुसन्धानं स्यात्  
+न च तद् अस्ति ॥
+</details>
+
+<details><summary>English</summary>
+
+If consciousness were present in those states also, there would be remembrance of it at the time of waking from sleep or recovery from swoon; but as a matter of fact there is no such remembrance.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तास्वपि दशास्वनुभूतिरनुभूता चेत्, तस्याः प्रबोधसमयेऽनुसन्धानं स्यात् न च तदस्ति॥
+</details>
+
+##### अस्मरण-नियमतः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नन्व् अनुभूतस्य पदार्थस्य  
+स्मरण-नियमो न दृष्ट-चरः ।
+</details>
+
+<details><summary>English</summary>
+
+But it is not an absolute rule that something of which we were conscious must be remembered;
+</details>
+
+<details><summary>मूलम्</summary>
+
+नन्वभूतस्य पदार्थस्य स्मरणनियमो न दृष्टचरः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अतस् स्मरणाभावः कथम् अनुभवाभावं साधयेत्?
+</details>
+
+<details><summary>English</summary>
+
+how then can the absence of remembrance prove the absence of previous consciousness?
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्स्मरणाभावः कथमनुभवाभावं साधयेत्?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उच्यते,  
+निखिल-संस्कार--तिरस्-कृति-कर-- देह-विगमादि--प्रबल-हेतु-विरहे ऽप्य् अस्मरण-नियमः  
+अनुभवाभावम् एव साधयति ॥
+</details>
+
+<details><summary>English</summary>
+
+Unless, we reply, there be some cause of overpowering strength which quite obliterates all impressions – as e.g. the dissolution of the body – the absence of remembrance does necessarily prove the absence of previous consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
 
 उच्यते,निखिलसंस्कारतिरस्कृतिकरदेहविगमादिप्रबलहेतुविरहेऽप्यस्मरणनियमः अनुभवाभावम् एव साधयति ॥
+</details>
 
-न केवलमस्मरणिनयमादनुभवाभावः; सुप्तोत्थितस्य इयन्तं कालं न किञ्चदहमज्ञासिषम् इति प्रत्यवमर्शेनैव सिद्धेः। न च सत्यप्यनुभवे तदस्मरणनियमो विषयावच्छेदविरहादहङ्कार-विगमाद्वा इति शक्यते वक्तुम्, अर्थान्तराननुभवस्यार्थान्तराभावस्य चानुभूतार्थान्तरास्मरण-हेतुत्वाभावात्। तास्वपि दशास्वहमर्थोऽनुवर्तत इति च वक्ष्यते॥
+##### अनुभवाभाव-ज्ञानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## पूर्वोक्तार्थव्याघातशङ्कापरिहारौ
+न केवलम् अस्मरण-नियमाद् अनुभवाभावः;  
+सुप्तोत्थितस्य  
 
-ननु स्वापादिदशास्वपि सविशेषोऽनुभवोऽस्तीति पूर्वमुक्तम्। सत्यमुक्तम्; स त्वात्मानुभवः। स च सविशेष एवेति स्थापयिष्यते। इह तु सकलविषयविरहिणी निराश्रया च संविन्निषिध्यते। केवलैव संवित् आत्मानुभव इति चेत् सा च साश्रयेति ह्युपपादयिष्यते।
+> इयन्तं कालं न किञ्चिद् अहम् अज्ञासिषम् 
 
-## उक्तार्थनिगमनम्
+इति प्रत्यवमर्शेनैव सिद्धेः ।
+</details>
 
-अतोऽनुभूतिस्सती स्वयं स्वप्रागभावं न साधयतीति प्रागभावासिद्धिर्न शक्यते वक्तुम्। अनुभूतेरनुभाव्यत्वसम्भवोपपादनेन अन्यतोऽप्यसिद्धिर्निरस्ता। तस्मान्न प्रागभावाद्यसिद्ध्या संविदोऽनुत्पत्तिरुपपत्तिमती ॥
+<details><summary>English</summary>
 
-## संविदः उत्पत्तेरभावात् तत्कृतविकारस्याप्यभावः इत्येतद्दूषणम्
+And, moreover, in the present case the absence of consciousness does not only follow from absence of remembrance; it is also proved by the thought presenting itself to the person risen from sleep, 'For so long a time I was not conscious of anything.'
+</details>
 
-यदप्यस्या अनुत्पत्त्या विकारान्तरनिरसनम्; तदप्यनुपपन्नम्, प्रागभावे व्यभिचारात् । तस्य हि जन्माभावेऽपि विनाशो दृश्यते। भावेष्विति विशेषणे तर्ककुशलताऽऽविष्कृता भवति। तथा च भवदभिमताऽविद्याऽनुत्पन्नैव विविधविकारास्पदं तत्त्वज्ञानोदयादन्तवती चेति तस्यामनैकान्त्यम्।
-तद्विकारास्सर्वे मिथ्याभूता इति चेत्; किं भवतः परमार्थभूतोऽप्यस्ति विकारः? येनैतद्विशेषणम् अर्थवद्भवति। न ह्यसावभ्युपगम्यते॥
+<details><summary>मूलम्</summary>
 
-## अज्ञच्वस्य नानात्वाभावव्याप्यतादूषणम्
+न केवलमस्मरणिनयमादनुभवाभावः; सुप्तोत्थितस्य इयन्तं कालं न किञ्चदहमज्ञासिषम् इति प्रत्यवमर्शेनैव सिद्धेः।
+</details>
 
-यदपि – अनुभूतिरजत्वात्स्वस्मिन्विभागं न सहते इति। तदपि नोपपद्यते, अजस्यैवाऽत्मनो देहेन्द्रियादिभ्यो विभक्तत्वादनादित्वेन चाभ्युपगताया अविद्याया आत्मनो व्यतिरेकस्यावश्याश्रयणीयत्वात्। स विभागो मिथ्यारूप इति चेत्; जन्मप्रतिबद्धः पारमार्थिकविभागः किं क्वचिद्दृष्टस्त्वया?। अविद्याया आत्मनः परमार्थतो विभागाभावे वस्तुतो ह्यविद्यैव स्यादात्मा। अबाधितप्रतिपत्तिसिद्धदृश्यभेदसमर्थनेन दर्शनभेदोऽपि समर्थित एव, छेद्यभेदाच्छेदनभेदवत्॥
+##### अननुभव-नियम-हेत्व्-आभासौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## दृशित्व-दृश्यत्वहेतुकानुमानदूषणम्
+न च  
+सत्य् अप्य् अनुभवे  
+तद्-अस्मरण-नियमो  
+विषयावच्छेद-विरहाद्, अहङ्कार-विगमाद् वा 
 
-यदपि – नास्या दृशेर्दृशिस्वरूपाया दृश्यः कश्चिदपि धर्मोऽस्ति; दृश्यत्वादेव तेषां न दृशिधर्मत्वम् इति च। तदपि स्वाभ्युपगतैः प्रमाणसिद्धैर्नित्यत्वस्वयम्प्रकाशत्वादिधर्मैरुभयम् अनैकान्तिकम्। न च ते संवेदनमात्रम्, स्वरूपभेदात्। स्वसत्तयैव स्वाश्रयं प्रति कस्यचिद्विषयस्य प्रकाशनं हि संवेदनम्। स्वयम्प्रकाशता तु स्वसत्तयैव स्वाश्रयाय प्रकाशमानता। प्रकाशश्च चिदचिदशेषपदार्थसाधारणं व्यवहारानुगुण्यम्।
+इति शक्यते वक्तुम्,  
++++(क्रमशः)+++ अर्थान्तराननुभवस्य, अर्थान्तराभावस्य च  
+अनुभूतार्थान्तरास्मरण-हेतुत्वाभावात् ।
+</details>
 
-सर्वकालवर्तमानत्वं हि नित्यत्वम्। एकत्वमेकसङ्ख्यावच्छेद इति। तेषां जडत्वाद्यभावरूपतायामपि तथाभूतैरपि चैतन्यधर्मभूतैस्तैरनैकान्त्यमपरिहार्यम्। संविदि तु स्वरूपातिरेकेण जडत्वादिप्रत्यनीकत्वमित्यभावरूपो भावरूपो वा धर्मो नाभ्युपेतश्चेत्; तत्तिन्नषेधोक्त्या किमपि नोक्तं भवेत्॥
+<details><summary>English</summary>
 
-## संविदः आत्मत्वनिराकोपक्रमः
+Nor may it be said that even if there was consciousness, absence of remembrance would necessarily follow from the absence (during deep sleep) of the distinction of objects, and from the extinction of the consciousness of the 'I'; for the non-consciousness of some one thing, and the absence of some one thing cannot be the cause of the non-remembrance of some other thing, of which there had been consciousness.
+</details>
 
-अपि च संवित्सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगनकुसुमादिवत्। सिद्धिरेव संविदिति चेत्; कस्य कं प्रतीति वक्तव्यम्; यदि न कस्यचित्किञ्चित्प्रति; सा तर्हि न सिद्धिः। सिद्धिर्हि पुत्रत्वमिव कस्यचित्किञ्चित्प्रति भवति। आत्मन इति चेत्; कोऽयमात्मा? ननु संविदेवेत्युक्तम्। सत्यमुक्तम्; दुरुक्तं तु तत्। तथा हि; कस्यचित्पुरुषस्य किञ्चिदर्थजातं प्रति सिद्धिरूपा तत्सम्बन्धिनी सा संवित्स्वयं कथमिवाऽत्मभावमनुभवेत्?॥
+<details><summary>मूलम्</summary>
+
+न च सत्यप्यनुभवे तदस्मरणनियमो विषयावच्छेदविरहादहङ्कार-विगमाद्वा इति शक्यते वक्तुम्, अर्थान्तराननुभवस्यार्थान्तराभावस्य चानुभूतार्थान्तरास्मरण-हेतुत्वाभावात्।
+</details>
+
+##### सविशेषानुभवः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तास्व् अपि दशास्व्  
+अहम्-अर्थो ऽनुवर्तत  
+इति च वक्ष्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+And that in the states in question the consciousness of the 'I' does persist, will moreover be shown further on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तास्वपि दशास्वहमर्थोऽनुवर्तत इति च वक्ष्यते॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु स्वापादि-दशास्व् अपि  
+सविशेषो ऽनुभवो ऽस्तीति पूर्वम् उक्तम् ।
+</details>
+
+<details><summary>English</summary>
+
+But, our opponent urges, have you not said yourself that even in deep sleep and similar states there is consciousness marked by difference?
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु स्वापादिदशास्वपि सविशेषोऽनुभवोऽस्तीति पूर्वमुक्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्यम् उक्तम्; स त्व् आत्मानुभवः ।
+</details>
+
+<details><summary>English</summary>
+
+True, we have said so. But that consciousness is consciousness of the Self,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्यमुक्तम्; स त्वात्मानुभवः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स च सविशेष एवेति स्थापयिष्यते ।
+</details>
+
+<details><summary>English</summary>
+
+and that this is affected by difference will be proved further on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स च सविशेष एवेति स्थापयिष्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह तु, सकल-विषय-विरहिणी निराश्रया च संविन् निषिध्यते ।
+</details>
+
+<details><summary>English</summary>
+
+At present we are only interested in denying the existence of your pure consciousness, devoid of all objects and without a substrate.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इह तु सकलविषयविरहिणी निराश्रया च संविन्निषिध्यते।
+</details>
+
+##### साश्रयता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"केवलैव संविद् आत्मानुभव" इति चेत्  
+सा च साश्रयेति ह्य् उपपादयिष्यते ।
+</details>
+
+<details><summary>English</summary>
+
+Nor can we admit that your pure consciousness could constitute what we call the consciousness of the Self; for we shall prove that the latter has a substrate.
+</details>
+
+<details><summary>मूलम्</summary>
+
+केवलैव संवित् आत्मानुभव इति चेत् सा च साश्रयेति ह्युपपादयिष्यते।
+</details>
+
+### निगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽनुभूतिस् सती  
+स्वयं स्व-प्राग्-अभावं न साधयतीति  
+प्राग्-अभावासिद्धिर् न शक्यते वक्तुम् ।
+</details>
+
+<details><summary>English</summary>
+
+It thus cannot be maintained that the antecedent non-existence of consciousness does not admit of being proved, because consciousness itself does not prove it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतोऽनुभूतिस्सती स्वयं स्वप्रागभावं न साधयतीति प्रागभावासिद्धिर्न शक्यते वक्तुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूतेर् अनुभाव्यत्व-सम्भवोपपादनेन  
+अन्यतो ऽप्य् अ-सिद्धिर् निरस्ता ।
+</details>
+
+<details><summary>English</summary>
+
+And as we have shown that consciousness itself may be an object of consciousness, we have thereby disproved the alleged impossibility of antecedent non-existence being proved by other means.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतेरनुभाव्यत्वसम्भवोपपादनेन अन्यतोऽप्यसिद्धिर्निरस्ता।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् न प्राग्-अभावाद्य् असिद्ध्या  
+संविदो ऽनुत्पत्तिर् उपपत्तिमती ॥
+</details>
+
+<details><summary>English</summary>
+
+Herewith falls the assertion that the non-origination of consciousness can be proved.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्न प्रागभावाद्यसिद्ध्या संविदोऽनुत्पत्तिरुपपत्तिमती ॥
+</details>
+
+## संविद्-विकारिता
+
+<details><summary>English</summary>
+
+Consciousness is capable of change.
+</details>
+
+### प्राग्-अभावाद् भावेषु?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अप्य् अस्या अनुत्पत्त्या विकारान्तर-निरसनम्;  
+तद् अप्य् अनुपपन्नम्,  
+प्राग्-अभावे व्यभिचारात् ।
+</details>
+
+<details><summary>English</summary>
+
+Against the assertion that the alleged non-origination of consciousness at the same time proves that consciousness is not capable of any other changes [[P36]], we remark that the general proposition on which this conclusion rests is too wide: it would extend to antecedent non-existence itself,
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदप्यस्या अनुत्पत्त्या विकारान्तरनिरसनम्; तदप्यनुपपन्नम्, प्रागभावे व्यभिचारात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य +++(प्राग्-अभावस्य स्वतः)+++ हि जन्माभावे ऽपि विनाशो दृश्यते +++(उत्पत्त्या)+++ ।
+</details>
+
+<details><summary>English</summary>
+
+for, of this (antecedent non-existence), it is seen that it comes to an end, although it has no origination.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य हि जन्माभावेऽपि विनाशो दृश्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++("प्राग्-अभावाभावाद् विकारो न" इत्यत्र)+++  
+"भावेष्व्" इति विशेषणे -  
+तर्क-कुशलताऽऽविष्कृता भवति।
+</details>
+
+<details><summary>English</summary>
+
+In qualifying the changes as changes of 'Being,' you manifest great logical acumen indeed!
+</details>
+
+<details><summary>मूलम्</summary>
+
+भावेष्विति विशेषणे तर्ककुशलताऽऽविष्कृता भवति।
+</details>
+
+### अविद्यायाम् अनैकान्त्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च, भवद्-अभिमता ऽविद्या  
+ऽनुत्पन्नैव विविध-विकारास्पदं तत्त्व-ज्ञानोदयाद् अन्तवती च  
+इति तस्याम् +++(प्राग्-अभावाभाव-रूप-हेतोर्)+++ अनैकान्त्यम् +++(अविकार-विकार-दर्शनेन)+++।
+</details>
+
+<details><summary>English</summary>
+
+For according to your own view Nescience also (which is not 'Being') does not originate, is the substrate of manifold changes, and comes to an end through the rise of knowledge; thus there is inconstancy (anaikāntya) in your argument with regard to it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा च भवदभिमताऽविद्याऽनुत्पन्नैव विविधविकारास्पदं तत्त्वज्ञानोदयादन्तवती चेति तस्यामनैकान्त्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "तद्-विकारास् सर्वे मिथ्या-भूता" 
+
+इति चेत्;  
+किं भवतः परमार्थ-भूतो ऽप्य् अस्ति विकारः  
+येनैतद्-विशेषणम् अर्थवद् भवति?+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Perhaps you will say that the changes of Nescience are all unreal. But, do you then, we ask in reply, admit that any change is real? - whereby this qualification (of being) becomes meaningful.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्विकारास्सर्वे मिथ्याभूता इति चेत्; किं भवतः परमार्थभूतोऽप्यस्ति विकारः? येनैतद्विशेषणम् अर्थवद्भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् असाव् अभ्युपगम्यते॥
+</details>
+
+<details><summary>English</summary>
+
+You do not; and yet it is only this admission which would give a sense to the distinction expressed by the word 'Being' [^fn_11].
+
+[^fn_11]: 54:1 The Śānkara is not entitled to refer to a distinction of real and unreal division, because according to his theory all distinction is unreal.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ह्यसावभ्युपगम्यते॥
+</details>
+
+
+## संविदि विभागः, धर्माः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अप्य् – अनुभूतिर् अ-जत्वात् स्वस्मिन् +++(इतरापेक्षया)+++ विभागं न सहते इति -
+</details>
+
+<details><summary>English</summary>
+
+Nor is it true that consciousness does not admit of any division within itself, because it has no beginning [[P36]].
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदपि – अनुभूतिरजत्वात्स्वस्मिन्विभागं न सहते इति।
+</details>
+
+### आत्माविद्याभ्यां व्यभिचारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् अपि नोपपद्यते,  
+अजस्यैवाऽत्मनो देहेन्द्रियादिभ्यो विभक्तत्वात्,  
+
+अनादित्वेन चाभ्युपगताया अविद्याया  
+आत्मनो व्यतिरेकस्यावश्याश्रयणीयत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+For the non-originated Self is divided from the body, the senses, &c., and Nescience also, which is avowedly without a beginning, must needs be admitted to be divided from the Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदपि नोपपद्यते, अजस्यैवाऽत्मनो देहेन्द्रियादिभ्यो विभक्तत्वादनादित्वेन चाभ्युपगताया अविद्याया आत्मनो व्यतिरेकस्यावश्याश्रयणीयत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"स विभागो मिथ्या-रूप" इति चेत्;  
+जन्म-प्रतिबद्धः पारमार्थिक-विभागः किं क्वचिद् दृष्टस् त्वया?।
+</details>
+
+<details><summary>English</summary>
+
+And if you say that the latter division is unreal, we ask whether you have ever observed a real division invariably connected with origination!
+</details>
+
+<details><summary>मूलम्</summary>
+
+स विभागो मिथ्यारूप इति चेत्; जन्मप्रतिबद्धः पारमार्थिकविभागः किं क्वचिद्दृष्टस्त्वया?।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अविद्याया आत्मनः परमार्थतो विभागाभावे  
+वस्तुतो ह्य् अविद्यैव स्याद् आत्मा।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Moreover, if the distinction of Nescience from the Self is not real, it follows that Nescience and the Self are essentially one.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अविद्याया आत्मनः परमार्थतो विभागाभावे वस्तुतो ह्यविद्यैव स्यादात्मा।
+</details>
+
+### दृश्य-भेदतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-बाधित-प्रतिपत्ति-सिद्ध-- दृश्य-भेद-समर्थनेन  
+दर्शन-भेदो ऽपि समर्थित एव,  
+छेद्य-भेदाच् छेदन-भेदवत्॥
+</details>
+
+<details><summary>English</summary>
+
+You further have yourself proved the difference of views by means of the difference of the objects of knowledge as established by non-refuted knowledge; an analogous case being furnished by the difference of acts of cleaving, which results from the difference of objects to be cleft.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अबाधितप्रतिपत्तिसिद्धदृश्यभेदसमर्थनेन दर्शनभेदोऽपि समर्थित एव, छेद्यभेदाच्छेदनभेदवत्॥
+</details>
+
+
+### दृश्य-धर्मता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अपि – 
+
+> नास्या दृशेर् दृशि-स्वरूपाया 
+दृश्यः कश्चिद् अपि धर्मो ऽस्ति;  
+
+> दृश्यत्वाद् एव तेषां +++(दृश्यानां)+++ न दृशि-धर्मत्वम् 
+
+इति च,
+</details>
+
+<details><summary>English</summary>
+
+And if you assert that of this knowing – which is essentially knowing only –  
+nothing that is an object of knowledge can be an attribute,  
+and that these objects –  
+just because they are objects of knowledge –  
+cannot be attributes of knowing;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदपि – नास्या दृशेर्दृशिस्वरूपाया दृश्यः कश्चिदपि धर्मोऽस्ति; दृश्यत्वादेव तेषां न दृशिधर्मत्वम् इति च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् अपि +++(दृशि-धर्मत्वेन)+++ स्वाभ्युपगतैः प्रमाण-सिद्धैर्  
+नित्यत्व--स्वयम्-प्रकाशत्वादि-धर्मैर्  
+उभयम् +++(←वाक्य-द्वयम्)+++ अनैकान्तिकम्।
+</details>
+
+<details><summary>English</summary>
+
+we point out that both these remarks would apply also to eternity, self-luminousness, and the other attributes of 'knowing', which are acknowledged by yourself, and established by valid means of proof.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदपि स्वाभ्युपगतैः प्रमाणसिद्धैर्नित्यत्वस्वयम्प्रकाशत्वादिधर्मैरुभयम् अनैकान्तिकम्।
+</details>
+
+#### न संवेदन-मात्रम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च ते संवेदन-मात्रम्, स्वरूप-भेदात्।
+</details>
+
+<details><summary>English</summary>
+
+Nor may you urge against this that all these alleged attributes are in reality mere 'consciousness' or 'knowing'; for they are essentially distinct.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च ते संवेदनमात्रम्, स्वरूपभेदात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वसत्तयैव स्वाश्रयं प्रति कस्यचिद् विषयस्य प्रकाशनं हि संवेदनम्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+By 'being conscious' or 'knowing', we understand the illumining or manifesting of some object to its own substrate (i.e. the substrate of knowledge), by its own existence (i.e. the existence of knowledge) merely;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वसत्तयैव स्वाश्रयं प्रति कस्यचिद्विषयस्य प्रकाशनं हि संवेदनम्।
+</details>
+
+#### स्वयम्-प्रकाशतादयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वयम्-प्रकाशता तु स्वसत्तयैव स्वाश्रयाय प्रकाशमानता।
+</details>
+
+<details><summary>English</summary>
+
+by self-luminousness (or 'self-illuminatedness') we understand the shining forth or being manifest by its own existence merely to its own substrate;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वयम्प्रकाशता तु स्वसत्तयैव स्वाश्रयाय प्रकाशमानता।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकाशश् च  
+चिद्-अचिद्--अ-शेष--पदार्थ-साधारणं व्यवहारानुगुण्यम्।
+</details>
+
+<details><summary>English</summary>
+
+the terms 'shining forth', 'illumining', 'being manifest' in both these definitions meaning the capability of becoming an object of thought and speech which is common to all things, whether intelligent or non-intelligent.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रकाशश्च चिदचिदशेषपदार्थसाधारणं व्यवहारानुगुण्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वकाल-वर्तमानत्वं हि नित्यत्वम्।
+</details>
+
+<details><summary>English</summary>
+
+Eternity again means 'being present in all time';
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वकालवर्तमानत्वं हि नित्यत्वम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकत्वम् एक-सङ्ख्यावच्छेद इति।
+</details>
+
+<details><summary>English</summary>
+
+oneness means 'being defined by the number one'.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकत्वमेकसङ्ख्यावच्छेद इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेषां +++(स्वयम्-प्रकाशतादि-धर्माणां)+++ जडत्वाद्य्-अभाव-रूपतायाम् अपि  
+तथा-भूतैर् अपि चैतन्य-धर्म-भूतैस् तैर्  
++++(दृश्यत्वाख्य-हेतोर् धर्मत्व-बाधने)+++ अनैकान्त्यम् अपरिहार्यम्।
+</details>
+
+<details><summary>English</summary>
+
+Even if you say that these attributes are only negative ones, i.e. equal to the absence of non-intelligence and so on, you still cannot avoid the admission that they are attributes of consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेषां जडत्वाद्यभावरूपतायामपि तथाभूतैरपि चैतन्यधर्मभूतैस्तैरनैकान्त्यमपरिहार्यम्।
+</details>
+
+### निषिद्ध-धर्म-प्रतियोग्य्-अङ्गीकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संविदि तु स्वरूपातिरेकेण  
+जडत्वादि-प्रत्यनीकत्वम् इत्य् अभावरूपो भावरूपो वा धर्मो नाभ्युपेतश् चेत्;  
+तत्-तन्+++(→जडत्वादि)+++-निषेधोक्त्या किमपि नोक्तं भवेत्॥
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, being of a nature opposite to non-intelligence and so on, be not admitted as attributes of consciousness – whether of a positive or a negative kind – in addition to its essential nature; it is an altogether unmeaning proceeding to deny to it such qualities, as non-intelligence and the like.
+</details>
+
+<details><summary>मूलम्</summary>
+
+संविदि तु स्वरूपातिरेकेण जडत्वादिप्रत्यनीकत्वमित्यभावरूपो भावरूपो वा धर्मो नाभ्युपेतश्चेत्; तत्तन्निषेधोक्त्या किमपि नोक्तं भवेत्॥
+</details>
+
+### सिद्धेः सधर्मता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च संवित् सिद्ध्यति वा न वा?।  
+सिद्ध्यति चेत्; सधर्मता स्यात्।  
+न चेत्; तुच्छता, गगन-कुसुमादि-वत्।
+</details>
+
+<details><summary>English</summary>
+
+We moreover must admit the following alternative: consciousness is either proved (established) or not. If it is proved it follows that it possesses attributes; if it is not, it is something absolutely nugatory, like a sky-flower, and similar purely imaginary things.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च संवित्सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगनकुसुमादिवत्। </details>
+
+## आत्म-संविद्-भेदः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"सिद्धिर् एव संविद्" इति चेत्;  
+"कस्य कं प्रति" इति वक्तव्यम्;
+</details>
+
+<details><summary>English</summary>
+
+Let it then be said that consciousness is proof (siddhiḥ) itself. Proof of what, we ask in reply, and to whom?
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिद्धिरेव संविदिति चेत्; कस्य कं प्रतीति वक्तव्यम्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि न कस्यचित् किञ्चित् प्रति; सा तर्हि न सिद्धिः।
+</details>
+
+<details><summary>English</summary>
+
+If no definite answer can be given to these two questions, consciousness cannot be defined as 'proof';
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि न कस्यचित्किञ्चित्प्रति; सा तर्हि न सिद्धिः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिद्धिर् हि पुत्रत्वम् इव कस्यचित् किञ्चित् प्रति भवति।
+</details>
+
+<details><summary>English</summary>
+
+for 'proof' is a relative notion, like 'son.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिद्धिर्हि पुत्रत्वमिव कस्यचित्किञ्चित्प्रति भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मन इति चेत्; को ऽयम् आत्मा?
+</details>
+
+<details><summary>English</summary>
+
+You will perhaps reply 'Proof to the Self'; and if we go on asking 'But what is that Self'?
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मन इति चेत्; कोऽयमात्मा?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ननु संविद् एवेत्य् उक्तम्।
+</details>
+
+<details><summary>English</summary>
+
+you will say, 'Just consciousness as already said by us before.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु संविदेवेत्युक्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्यम् उक्तम्; दुर्-उक्तं तु तत्।
+</details>
+
+<details><summary>English</summary>
+
+True, we reply, you said so; but it certainly was not well said.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्यमुक्तम्; दुरुक्तं तु तत्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि; कस्यचित् पुरुषस्य किञ्चिद् अर्थ-जातं प्रति सिद्धिर्-रूपा तत्-सम्बन्धिनी सा संवित् स्वयम् कथम् इवाऽत्म-भावम् अनुभवेत्?॥
+</details>
+
+<details><summary>English</summary>
+
+For if it is the nature of consciousness to be 'proof' ('light,' 'enlightenment') on the part of a person with regard to something, how can this consciousness which is thus connected with the person and the thing be itself conscious of itself?
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा हि; कस्यचित्पुरुषस्य किञ्चिदर्थजातं प्रति सिद्धिरूपा तत्सम्बन्धिनी सा संवित्स्वयं कथमिवाऽत्मभावमनुभवेत्?॥
+</details>
 
 ## संविदः अनात्मत्वनिष्कर्षणम्
 
-एतदुक्तं भवति – अनुभूतिरिति स्वाश्रयं प्रति स्वसद्भावेनैव कस्यचिद्वस्तुनो व्यवहारानुगुण्यापादनस्वभावो ज्ञानावगतिसंविदाद्यपरनामा सकर्मकोऽनुभवितुरात्मनो धर्मविशेषो घटमहं जानामीममर्थमवगच्छामि पटमहं संवेद्मि इति सर्वेषामात्मसाक्षिकः प्रसिद्धः। एतत्स्वभावतया हि तस्यास्स्वयम्प्रकाशता भवताऽप्युपपादिता। अस्य सकर्मकस्य कर्तृधर्मविशेषस्य कर्मत्ववत्कर्तृत्वमपि दुर्घटमिति॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तम् भवति – अनुभूतिर् इति स्वाश्रयम् प्रति स्व-सद्भावेनैव कस्यचिद् वस्तुनो व्यवहारानुगुण्यापादन-स्वभावो ज्ञानावगति-संविद्-आद्य्-अपर-नामा सकर्मको ऽनुभवितुर् आत्मनो धर्म-विशेषो घटम् अहम् जानामीमम् अर्थम् अवगच्छामि पटम् अहम् संवेद्मि इति सर्वेषाम् आत्म-साक्षिकः प्रसिद्धः।
+</details>
+
+<details><summary>English</summary>
+
+To explain: the essential character of consciousness or knowledge is that by its very existence it renders things capable of becoming objects, to its own substrate, of thought and speech. This consciousness (anubhūti), which is also termed jñāna, avagati, saṁvid, is a particular attribute belonging to a conscious Self and related to an object: as such it is known to every one on the testimony of his own Self – as appears from ordinary judgments such as 'I know the jar,' 'I understand this matter,' 'I am conscious of (the presence of) this piece of cloth.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति – अनुभूतिरिति स्वाश्रयं प्रति स्वसद्भावेनैव कस्यचिद्वस्तुनो व्यवहारानुगुण्यापादनस्वभावो ज्ञानावगतिसंविदाद्यपरनामा सकर्मकोऽनुभवितुरात्मनो धर्मविशेषो घटमहं जानामीममर्थमवगच्छामि पटमहं संवेद्मि इति सर्वेषामात्मसाक्षिकः प्रसिद्धः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतत्-स्वभावतया हि तस्यास् स्वयम्-प्रकाशता भवताप् उपपादिता।
+</details>
+
+<details><summary>English</summary>
+
+That such is the essential nature of consciousness you yourself admit; for you have proved thereby its self-luminousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतत्स्वभावतया हि तस्यास्स्वयम्प्रकाशता भवताऽप्युपपादिता।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्य सकर्मकस्य कर्तृ-धर्म-विशेषस्य कर्मत्ववत् कर्तृत्वम् अपि दुर्घटम् इति॥
+</details>
+
+<details><summary>English</summary>
+
+Of this consciousness which thus clearly presents itself as the attribute of an agent and as related to an object, it would be difficult indeed to prove that at the same time it is itself the agent; as difficult as it would be to prove that the object of action is the agent.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्य सकर्मकस्य कर्तृधर्मविशेषस्य कर्मत्ववत्कर्तृत्वमपि दुर्घटमिति॥
+</details>
 
 ## स्थिरत्वास्थिरत्वे अपि संविदनात्मत्वसाधके
 
-तथा हि; अस्य कर्तुस्स्थिरत्वं कर्तृधर्मस्य संवेदनाख्यस्य सुखदुःखादेरिवोत्पत्तिस्थिति-निरोधाश्च प्रत्यक्षमीक्ष्यन्ते। कर्तृस्थैर्यं तावत् स एवायमर्थः पूर्वं मयाऽनुभूतः इति प्रत्यभिज्ञाप्रत्यक्षसिद्धम्। अहं जानामि, अहमज्ञासिषं, ज्ञातुरेव ममेदानीं ज्ञानं नष्टम् इति च संविदुत्पत्त्यादयः प्रत्यक्षसिद्धा इति कुतस्तदैक्यम्। एवं क्षणभङ्गिन्यास्संविद आत्मत्वाभ्युपगमे पूर्वेद्युर्दृष्टमपरेद्युः इदहमदर्शम् इति प्रत्यभिज्ञा च न घटते; अन्येनानुभूतस्य न ह्यन्येन प्रत्यभिज्ञानसम्भवः॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि; अस्य कर्तुस् स्थिरत्वम् कर्तृ-धर्मस्य संवेदनाख्यस्य सुख-दुःखादेर् इवोत्पत्ति-स्थिति-निरोधाश् च प्रत्यक्षम् ईक्ष्यन्ते।
+</details>
+
+<details><summary>English</summary>
+
+For we clearly see that this agent (the subject of consciousness) is permanent (constant), while its attribute, i. e. consciousness, not differing herein from joy, grief, and the like, rises, persists for some time, and then comes to an end.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा हि; अस्य कर्तुस्स्थिरत्वं कर्तृधर्मस्य संवेदनाख्यस्य सुखदुःखादेरिवोत्पत्तिस्थिति-निरोधाश्च प्रत्यक्षमीक्ष्यन्ते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्तृ-स्थैर्यम् तावत् स एव अयम् अर्थः पूर्वम् मयाऽनुभूतः इति प्रत्यभिज्ञा-प्रत्यक्ष-सिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+The permanency of the conscious subject is proved by the fact of recognition, 'This very same thing was formerly apprehended by me.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्तृस्थैर्यं तावत् स एवायमर्थः पूर्वं मयाऽनुभूतः इति प्रत्यभिज्ञाप्रत्यक्षसिद्धम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहम् जानामि, अहम् अज्ञासिषम्, ज्ञातुर् एव ममेदानीम् ज्ञानम् नष्टम् इति च संविद्-उत्पत्त्य्-आदयः प्रत्यक्ष-सिद्धा इति कुतः तद्-ऐक्यम्।
+</details>
+
+<details><summary>English</summary>
+
+The non-permanency of consciousness, on the other hand, is proved by thought expressing itself in the following forms, 'I know at present,' 'I knew at a time,' 'I, the knowing subject, no longer have knowledge of this thing.' How then should consciousness and (the conscious subject be one?
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहं जानामि, अहमज्ञासिषं, ज्ञातुरेव ममेदानीं ज्ञानं नष्टम् इति च संविदुत्पत्त्यादयः प्रत्यक्षसिद्धा इति कुतस्तदैक्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् क्षण-भङ्गिन्यास् संविद आत्मत्वाभ्युपगमे पूर्वेद्युर् दृष्टम् अपरेद्युः इदम् अहम् अदर्शम् इति प्रत्यभिज्ञा च न घटते; अन्येनानुभूतस्य न ह्य् अन्येन प्रत्यभिज्ञान-सम्भवः॥
+</details>
+
+<details><summary>English</summary>
+
+If consciousness which changes every moment were admitted to constitute the conscious subject, it would be impossible for us to recognise the thing seen to-day as the one we saw yesterday; for what has been perceived by one cannot be recognised by another.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं क्षणभङ्गिन्यास्संविद आत्मत्वाभ्युपगमे पूर्वेद्युर्दृष्टमपरेद्युः इदहमदर्शम् इति प्रत्यभिज्ञा च न घटते; अन्येनानुभूतस्य न ह्यन्येन प्रत्यभिज्ञानसम्भवः॥
+</details>
 
 ## संविदः स्थिरत्वेऽपि अनात्मता
 
-किञ्च अनुभूतेरात्मत्वाभ्युपगमे तस्याः नित्यत्वेऽपि प्रतिसन्धानासम्भवस्तदवस्थः। प्रतिसन्धानं हि पूर्वापरकालस्थायिनमनुभवितारमुपस्थापयति; नानुभूतिमात्रम्। अहमेवेदं पूर्वमप्यन्वभूवमिति। भवतोऽप्यनुभूतेर्न ह्यनुभवितृत्वमिष्टम्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च अनुभूतेर् आत्मत्वाभ्युपगमे तस्याः नित्यत्वे ऽपि प्रतिसन्धानासम्भवस् तद्-अवस्थः।
+</details>
+
+<details><summary>English</summary>
+
+And even if consciousness were identified with the conscious subject and acknowledged as permanent, this would no better account for the fact of recognition.
+</details>
+
+<details><summary>मूलम्</summary>
+
+किञ्च अनुभूतेरात्मत्वाभ्युपगमे तस्याः नित्यत्वेऽपि प्रतिसन्धानासम्भवस्तदवस्थः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिसन्धानम् हि पूर्वापर-काल-स्थायिनम् अनुभवितारम् उपस्थापयति; नानुभूति-मात्रम्।
+</details>
+
+<details><summary>English</summary>
+
+For recognition implies a conscious subject persisting from the earlier to the later moment, and not merely consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रतिसन्धानं हि पूर्वापरकालस्थायिनमनुभवितारमुपस्थापयति; नानुभूतिमात्रम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहम् एव इदम् पूर्वम् अप्य् अन्वभूवम् इति।
+</details>
+
+<details><summary>English</summary>
+
+Its expression is 'I myself perceived this thing on a former occasion.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहमेवेदं पूर्वमप्यन्वभूवमिति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भवतो ऽप्य् अनुभूतेर् न ह्य् अनुभवितृत्वम् इष्टम्।
+</details>
+
+<details><summary>English</summary>
+
+According to your view the quality of being a conscious agent cannot at all belong to consciousness;
+</details>
+
+<details><summary>मूलम्</summary>
+
+भवतोऽप्यनुभूतेर्न ह्यनुभवितृत्वमिष्टम्।
+</details>
 
 ## क्रियायाः अकर्तृत्वात् संविदः अनात्मत्वम्
 
-अनुभूतिरनुभूतिमात्रमेव। संविन्नाम काचिन्निराश्रया निर्विषया वाऽत्यन्तानुपलब्धेर्न सम्भवतीत्युक्तम्। उभयाभ्युपेता
-संविदेवाऽत्मेत्युपलब्धिपराहतम्। अनुभूतिमात्रमेव परमार्थ इति निष्कर्षकहेत्वाभासाश्च निराकृताः॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूतिर् अनुभूति-मात्रम् एव।
+</details>
+
+<details><summary>English</summary>
+
+for consciousness, you say, is just consciousness and nothing more.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतिरनुभूतिमात्रमेव।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संविन् नाम काचिन् निराश्रया निर्-विषया वाऽत्यन्तानुपलब्धेर् न सम्भवतीत्य् उक्तम्।
+</details>
+
+<details><summary>English</summary>
+
+And that there exists a pure consciousness devoid of substrate and objects alike, we have already refuted on the ground that of a thing of this kind we have absolutely no knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+संविन्नाम काचिन्निराश्रया निर्विषया वाऽत्यन्तानुपलब्धेर्न सम्भवतीत्युक्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उभयाभ्युपेता संविद् एवाऽत्मेत्य् उपलब्धि-पराहतम्।
+</details>
+
+<details><summary>English</summary>
+
+And that the consciousness admitted by both of us should be the Self is refuted by immediate consciousness itself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उभयाभ्युपेता संविदेवाऽत्मेत्युपलब्धिपराहतम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभूति-मात्रम् एव परमार्थ इति निष्कर्षक-हेत्व्-आभासास् च निराकृताः॥
+</details>
+
+<details><summary>English</summary>
+
+And we have also refuted the fallacious arguments brought forward to prove that mere consciousness is the only reality.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभूतिमात्रमेव परमार्थ इति निष्कर्षकहेत्वाभासाश्च निराकृताः॥
+</details>
 
 ## आत्मनः अहमर्थत्वं प्रत्यक्त्वाबाधकम्
 
-ननु च अहं जानामि इत्यस्मत्प्रत्यये योऽनिदमंशः प्रकाशैकरसश्चित्पदार्थस्स आत्मा। तस्मिंस्तद्बलनिर्भासिततया युष्मदर्थलक्षणोऽहं जानामीति सिध्यन्नहमर्थश्चिन्मात्रातिरेकी युष्मदर्थ एव। नैतदेवम्, अहं जानामि इति धर्मधर्मितया प्रत्यक्षप्रतीतिविरोधादेव॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ननु च अहम् जानामि इत्य् अस्मत्-प्रत्यये यो ऽनिदम्-अंशः प्रकाशैक-रसश् चित्-पदार्थस् स आत्मा।
+</details>
+
+<details><summary>English</summary>
+
+--But, another objection is raised, should the relation of the Self and the 'I' not rather be conceived as follows:--In self-consciousness which expresses itself in the judgment 'I know,' that intelligent something which constitutes the absolutely non-objective element, and is pure homogeneous light, is the Self;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु च अहं जानामि इत्यस्मत्प्रत्यये योऽनिदमंशः प्रकाशैकरसश्चित्पदार्थस्स आत्मा।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मिंस् तद्-बल-निर्भासिततया युष्मद्-अर्थ-लक्षणो ऽहम् जानामीति सिध्यन्न् अहम्-अर्थश् चित्-मात्रातिरेकी युष्मद्-अर्थ एव।
+</details>
+
+<details><summary>English</summary>
+
+the objective element (yushmad-artha) on the other hand, which is established through its being illumined (revealed) by the Self is the I – in 'I know'--and this is something different from pure intelligence, something objective or external?
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मिंस्तद्बलनिर्भासिततया युष्मदर्थलक्षणोऽहं जानामीति सिध्यन्नहमर्थश्चिन्मात्रातिरेकी युष्मदर्थ एव।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैतद् एवम्, अहम् जानामि इति धर्म-धर्मितया प्रत्यक्ष-प्रतीति-विरोधाद् एव॥
+</details>
+
+<details><summary>English</summary>
+
+By no means, we reply; for this view contradicts the relation of attribute and substrate of attribute of which we are directly conscious, as implied in the thought 'I know.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+नैतदेवम्, अहं जानामि इति धर्मधर्मितया प्रत्यक्षप्रतीतिविरोधादेव॥
+</details>
 
 ## प्रत्यक्त्वात् अहमर्थ एवात्मा
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 किञ्च
+</details>
+
+<details><summary>English</summary>
+
+Consider also what follows.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+किञ्च
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहम्-अर्थो न चेद् आत्मा प्रत्यक्त्वम् नाऽत्मनो भवेत्।
+</details>
+
+<details><summary>English</summary>
+
+'If the I were not the Self, the inwardness of the Self would not exist;
+</details>
+
+<details><summary>मूलम्</summary>
 
 अहमर्थो न चेदात्मा प्रत्यक्त्वं नाऽत्मनो भवेत्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहम् बुद्ध्या पराग्-अर्थात् प्रत्यग्-अर्थो हि भिद्यते॥
+</details>
+
+<details><summary>English</summary>
+
+for it is just the consciousness of the I which separates the inward from the outward.
+</details>
+
+<details><summary>मूलम्</summary>
 
 अहं बुद्ध्या परागर्थात् प्रत्यगर्थो हि भिद्यते॥
+</details>
 
 ## मुमुक्षोः अभिसन्धिः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरस्ताखिल-दुःखो ऽहम् अनन्तानन्द-भाक् स्वराट्।
+</details>
+
+<details><summary>English</summary>
+
+'"May I, freeing myself from all pain, enter on free possession of endless delight?"
+</details>
+
+<details><summary>मूलम्</summary>
+
 निरस्ताखिलदुःखोऽहमनन्तानन्दभाक् स्वराट्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भवेयम् इति मोक्षार्थी श्रवणादौ प्रवर्तते॥
+</details>
+
+<details><summary>English</summary>
+
+This is the thought which prompts the man desirous of release to apply himself to the study of the sacred texts.
+</details>
+
+<details><summary>मूलम्</summary>
 
 भवेयमिति मोक्षार्थी श्रवणादौ प्रवर्तते॥
+</details>
 
 ## शास्त्रप्रामाण्यान्यथानुपपत्त्या अहमर्थ आत्मा
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहम्-अर्थ-विनाशश् चेन् मोक्ष इत्य् अध्यवस्यति।
+</details>
+
+<details><summary>English</summary>
+
+Were it a settled matter that release consists in the annihilation of the I,
+</details>
+
+<details><summary>मूलम्</summary>
+
 अहमर्थविनाशश्चेन्मोक्ष इत्यध्यवस्यति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपसर्पेद् असौ मोक्ष-कथा-प्रस्ताव-गन्धतः॥
+</details>
+
+<details><summary>English</summary>
+
+the same man would move away as soon as release were only hinted at.
+</details>
+
+<details><summary>मूलम्</summary>
 
 अपसर्पेदसौ मोक्षकथाप्रस्तावगन्धतः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मयि नष्टे ऽपि मत्तो ऽन्या काचिज् ज्ञप्तिर् अवस्थिता।
+</details>
+
+<details><summary>English</summary>
+
+"When I myself have perished, there still persists some consciousness different from me;"
+</details>
+
+<details><summary>मूलम्</summary>
 
 मयि नष्टेऽपि मत्तोऽन्या काचिज्ज्ञप्तिरवस्थिता।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति तत्-प्राप्तये यत्नः कस्यापि न भविष्यति॥
+</details>
+
+<details><summary>English</summary>
+
+to bring this about nobody truly will exert himself.
+</details>
+
+<details><summary>मूलम्</summary>
 
 इति तत्प्राप्तये यत्नः कस्यापि न भविष्यति॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-सम्बन्धितया ह्य् अस्यास् सत्ता विज्ञप्तितादि च।
+</details>
+
+<details><summary>English</summary>
+
+'Moreover the very existence of consciousness, its being a consciousness at all,
+</details>
+
+<details><summary>मूलम्</summary>
 
 स्वसम्बन्धितया ह्यस्यास्सत्ता विज्ञप्तितादि च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-सम्बन्ध-वियोगे तु ज्ञप्तिर् एव न सिद्ध्यति॥
+</details>
+
+<details><summary>English</summary>
+
+and its being self-luminous, depend on its connexion with a Self; when that connexion is dissolved, consciousness itself cannot be established,
+</details>
+
+<details><summary>मूलम्</summary>
 
 स्वसम्बन्धवियोगे तु ज्ञप्तिरेव न सिद्ध्यति॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+छेत्तुश् छेद्यस्य चाभावे छेदनादेर् असिद्धिवत्।
+</details>
+
+<details><summary>English</summary>
+
+not any more than the act of cutting can take place when there is no person to cut and nothing to be cut.
+</details>
+
+<details><summary>मूलम्</summary>
 
 छेत्तुश्छेद्यस्य चाभावे छेदनादेरसिद्धिवत्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽहम्-अर्थो ज्ञातैव प्रत्यग्-आत्मेति निश्चितम्॥
+</details>
+
+<details><summary>English</summary>
+
+Hence it is certain that the I, i.e. the knowing subject, is the inward Self.'
+</details>
+
+<details><summary>मूलम्</summary>
 
 अतोऽहमर्थो ज्ञातैव प्रत्यगात्मेति निश्चितम्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विज्ञातारम् अरे (बृ.४.४.१४) केन जानात्य् एवेति च श्रुतिः।
+</details>
+
+<details><summary>English</summary>
+
+This scripture confirms when saying 'By what should he know the knowcr?' (Br̥. Up. II, 4, 15);
+</details>
+
+<details><summary>मूलम्</summary>
 
 विज्ञातारमरे (बृ.४.४.१४) केन जानात्येवेति च श्रुतिः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् यो वेत्ति तम् प्राहुः क्षेत्र-ज्ञ (भ.गी.१३.१) इति च स्मृतिः॥
+</details>
+
+<details><summary>English</summary>
+
+and Smr̥ti also, 'Him who knows this they call the knower of the body' (Bha. Gī. XIII, 1).
+</details>
+
+<details><summary>मूलम्</summary>
 
 एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ (भ.गी.१३.१) इति च स्मृतिः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाऽत्मा श्रुतेः (ब्र.सू.२.३.१८) इत्य् आरभ्य सूत्र-कारो ऽपि वक्ष्यति।
+</details>
+
+<details><summary>English</summary>
+
+And the Sūtrakāra also, in the section beginning with 'Not the Self on account of scriptural statement' (II, 3, 17), will say
+</details>
+
+<details><summary>मूलम्</summary>
 
 नाऽत्मा श्रुतेः (ब्र.सू.२.३.१८) इत्यारभ्य सूत्रकारोऽपि वक्ष्यति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञो ऽत एव (ब्र.सू.२.३.१९) इत्य् अतः नाऽत्मा ज्ञप्ति-मात्रम् इति स्थितम्॥
+</details>
+
+<details><summary>English</summary>
+
+'For this very reason (it is) a knower' (II, 3, 18); and from this it follows that the Self is not mere consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
 
 ज्ञोऽत एव (ब्र.सू.२.३.१९) इत्यतो नाऽत्मा ज्ञप्तिमात्रमिति स्थितम्॥
+</details>
 
 ## युष्मदस्मदर्थयोः ऐक्यं व्याहतम्
 
-अहं प्रत्ययसिद्धो ह्यस्मदर्थः; युष्मत्प्रत्ययविषयो युष्मदर्थः। तत्राहं जानामीति सिद्धो ज्ञाता युष्मदर्थ इति वचनं जननी मे वन्ध्येतिवद्व्याहतार्थं च। न चासौ ज्ञाताऽहमर्थोऽन्याधीनप्रकाशः स्वयम्प्रकाशत्वात्। चैतन्यस्वभावता हि स्वयम्प्रकाशता। यः प्रकाशस्वभावः; सोऽनन्याधीनप्रकाशः दीपवत्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहम् प्रत्यय-सिद्धो ह्य् अस्मद्-अर्थः; युष्मत्-प्रत्यय-विषयो युष्मद्-अर्थः।
+</details>
+
+<details><summary>English</summary>
+
+What is established by consciousness of the 'I' is the I itself, while the not-I is given in the consciousness of the not-I;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहं प्रत्ययसिद्धो ह्यस्मदर्थः; युष्मत्प्रत्ययविषयो युष्मदर्थः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्राहम् जानामीति सिद्धो ज्ञाता युष्मद्-अर्थ इति वचनम् जननी मे वन्ध्येति-वद् व्याहतार्थम् च।
+</details>
+
+<details><summary>English</summary>
+
+hence to say that the knowing subject, which is established by the state of consciousness, 'I know,' is the not-I, is no better than to maintain that one's own mother is a barren woman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्राहं जानामीति सिद्धो ज्ञाता युष्मदर्थ इति वचनं जननी मे वन्ध्येतिवद्व्याहतार्थं च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चासौ ज्ञाताऽहमर्थो ऽन्याधीन-प्रकाशः स्वयम्-प्रकाशत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+Nor can it be said that this 'I,' the knowing subject, is dependent on its light for something else. It rather is self-luminous;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चासौ ज्ञाताऽहमर्थोऽन्याधीनप्रकाशः स्वयम्प्रकाशत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चैतन्य-स्वभावता हि स्वयम्-प्रकाशता।
+</details>
+
+<details><summary>English</summary>
+
+for to be self-luminous means to have consciousness for one's essential nature.
+</details>
+
+<details><summary>मूलम्</summary>
+
+चैतन्यस्वभावता हि स्वयम्प्रकाशता।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यः प्रकाश-स्वभावः; सो ऽनन्याधीन-प्रकाशः दीप-वत्।
+</details>
+
+<details><summary>English</summary>
+
+And that which has light for its essential nature does not depend for its light on something else. The case is
+</details>
+
+<details><summary>मूलम्</summary>
+
+यः प्रकाशस्वभावः; सोऽनन्याधीनप्रकाशः दीपवत्।
+</details>
 
 ## दीपस्य स्वयम्प्रकाशताभङ्गपरिहारौ
 
-न हि दीपादेस्स्वप्रभाबलनिर्भासितत्वेनाप्रकाशत्वमन्याधीनप्रकाशत्वं च। किं तर्हि? दीपस्स्वयम्प्रकाशस्वभावस्स्वयमेव प्रकाशते; अन्यानपि प्रकाशयति प्रभया॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि दीपादेस् स्व-प्रभा-बल-निर्भासितत्वेनाप्रकाशत्वम् अन्याधीन-प्रकाशत्वम् च।
+</details>
+
+<details><summary>English</summary>
+
+analogous to that of the flame of a lamp or candle. From the circumstance that the lamp illumines with its light other things, it does not follow either that it is not luminous, or that its luminousness depends on something else;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि दीपादेस्स्वप्रभाबलनिर्भासितत्वेनाप्रकाशत्वमन्याधीनप्रकाशत्वं च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किम् तर्हि? दीपस् स्वयम्-प्रकाश-स्वभावस् स्वयम् एव प्रकाशते; अन्यान् अपि प्रकाशयति प्रभया॥
+</details>
+
+<details><summary>English</summary>
+
+the fact rather is that the lamp being of luminous nature shines itself and illumines with its light other things also.
+</details>
+
+<details><summary>मूलम्</summary>
+
+किं तर्हि? दीपस्स्वयम्प्रकाशस्वभावस्स्वयमेव प्रकाशते; अन्यानपि प्रकाशयति प्रभया॥
+</details>
 
 ## धर्म-धर्मिणोः द्वयोरपि ज्ञानरूपता
 
-एतदुक्तं भवति – यथैकमेव तेजोद्रव्यं प्रभाप्रभावद्रूपेणावतिष्ठते। यद्यपि प्रभा प्रभावद्द्रव्यगुणभूता तथाऽपि तेजोद्रव्यमेव, न शौक्ल्यादिवद्गुणः। स्वाश्रयादन्यत्रापि वर्तमानत्वाद्रूपवत्त्वाच्च शौक्ल्यादिवैधर्म्यात्; प्रकाशवत्त्वाच्च तेजोद्रव्यमेव; नार्थान्तरम्। प्रकाशवत्त्वञ्च स्वस्वरूपस्यान्येषां च प्रकाशकत्वात्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्यास्तु गुणत्वव्यवहारो नित्यतदाश्रयत्वतच्छेषत्वनिबन्धनः॥ न चाऽश्रयावयवा एव विशीर्णाः प्रचरन्तः प्रभेत्युच्यन्ते; मणिद्युमिणप्रभृतीनां विनाशप्रसङ्गात्॥
+एतद् उक्तम् भवति – यथैकम् एव तेजः-द्रव्यम् प्रभा-प्रभावद्-रूपेणावतिष्ठते।
+</details>
 
-दीपेऽप्यवयविप्रतिपत्तिः कदाचिदपि न स्यात्। नहि विशरणस्वभावावयवा दीपाश्चतुरङ्गुलमात्रं नियमेन पिण्डीभूता ऊर्ध्वमुद्गम्य ततः पश्चाद्युगपदेव तिर्यगूर्ध्वमधश्चैकरूपा विशीर्णाः प्रचरन्तीति शक्यं वक्तुम् । अतस्सप्रभाका एव दीपाः प्रतिक्षणमुत्पन्ना विनश्यन्तीति पुष्कलकारणक्रमोपनिपातात् तद्विनाशे विनाशाच्चावगम्यते। प्रभायास्स्वाश्रयसमीपे प्रकाशाधिक्यमौष्ण्याधिक्यमित्याद्युपलब्धिव्यवस्थाप्यम् अग्न्यादीनामौष्ण्यादिवत्। एवमात्मा चिद्रूप एव चैतन्यगुण इति।
+<details><summary>English</summary>
+
+To explain.--The one substance tejas, i.e. fire or heat, subsists in a double form, viz. as light (prabhā), and as luminous matter.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति – यथैकमेव तेजोद्रव्यं प्रभाप्रभावद्रूपेणावतिष्ठते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्यपि प्रभा प्रभावद्-द्रव्य-गुण-भूता तथाऽपि तेजः-द्रव्यम् एव, न शौक्ल्यादि-वद्-गुणः।
+</details>
+
+<details><summary>English</summary>
+
+Although light is a quality of luminous substantial things, it is in itself nothing but the substance tejas, not a mere quality like e.g. whiteness;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्यपि प्रभा प्रभावद्द्रव्यगुणभूता तथाऽपि तेजोद्रव्यमेव, न शौक्ल्यादिवद्गुणः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाश्रयाद् अन्यत्रापि वर्तमानत्वाद् रूपवत्त्वाच् च शौक्ल्यादि-वैधर्म्यात्; प्रकाशवत्त्वाच् च तेजः-द्रव्यम् एव; नार्थान्तरम्।
+</details>
+
+<details><summary>English</summary>
+
+for it exists also apart from its substrates, and possesses colour (which is a quality). Having thus attributes different from those of qualities such as whiteness and so on, and possessing illumining power, it is the substance tejas, not anything else (e.g. a quality).
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वाश्रयादन्यत्रापि वर्तमानत्वाद्रूपवत्त्वाच्च शौक्ल्यादिवैधर्म्यात्; प्रकाशवत्त्वाच्च तेजोद्रव्यमेव; नार्थान्तरम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकाशवत्त्वम् च स्व-स्वरूपस्य अन्येषाम् च प्रकाशकत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+Illumining power belongs to it, because it lights up itself and other things.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रकाशवत्त्वञ्च स्वस्वरूपस्यान्येषां च प्रकाशकत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्यास् तु गुणत्व-व्यवहारो नित्य-तद्-आश्रयत्व-तच्-छेषत्व-निबन्धनः॥
+</details>
+
+<details><summary>English</summary>
+
+At the same time it is practically treated as a quality because it always has the substance tejas for its substrate, and depends on it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्यास्तु गुणत्वव्यवहारो नित्यतदाश्रयत्वतच्छेषत्वनिबन्धनः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चाश्रयावयवा एव विशीर्णाः प्रचरन्तः प्रभेत्य् उच्यन्ते; मणि-द्युमणि-प्रभृतीनाम् विनाश-प्रसङ्गात्॥
+</details>
+
+<details><summary>English</summary>
+
+This must not be objected to on the ground that what is called light is really nothing but dissolving particles of matter which proceed from the substance tejas; for if this were so, shining gems and the sun would in the end consume themselves completely.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चाश्रयावयवा एव विशीर्णाः प्रचरन्तः [[प्रभेत्यच्यन्ते|प्रभेत्युच्यन्ते]]; [[मणिद्युमिणप्रभृतीनां|मणिद्युमणिप्रभृतीनां]] विनाशप्रसङ्गात्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दीपे ऽप्य् अवयवि-प्रतिपत्तिः कदाचिद् अपि न स्यात्।
+</details>
+
+<details><summary>English</summary>
+
+Moreover, if the flame of a lamp consisted of dissolving particles of matter, it would never be apprehended as a whole;
+</details>
+
+<details><summary>मूलम्</summary>
+
+दीपेऽप्यवयविप्रतिपत्तिः कदाचिदपि न स्यात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि विशरण-स्वभावावयवा दीपाश् चतुरङ्गुल-मात्रम् नियमेन पिण्डीभूता ऊर्ध्वम् उद्गम्य ततः पश्चाद् युगपद् एव तिर्यग् ऊर्ध्वम् अधश् चैकरूपा विशीर्णाः प्रचरन्तीति शक्यम् वक्तुम् ।
+</details>
+
+<details><summary>English</summary>
+
+for no reason can be stated why those particles should regularly rise in an agglomerated form to the height of four fingers breadth, and after that simultaneously disperse themselves uniformly in all directions – upwards, sideways, and downwards.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नहि विशरणस्वभावावयवा दीपाश्चतुरङ्गुलमात्रं नियमेन पिण्डीभूता ऊर्ध्वमुद्गम्य ततः पश्चाद्युगपदेव तिर्यगूर्ध्वमधश्चैकरूपा विशीर्णाः प्रचरन्तीति शक्यं वक्तुम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् स-प्रभाका एव दीपाः प्रतिक्षणम् उत्पन्ना विनश्यन्तीति पुष्कल-कारण-क्रमोपनिपातात् तद्-विनाशे विनाशाच् चावगम्यते।
+</details>
+
+<details><summary>English</summary>
+
+The fact is that the flame of the lamp together with its light is produced anew every moment and again vanishes every moment; as we may infer from the successive combination of sufficient causes (viz. particles of oil and wick) and from its coming to an end when those causes are completely consumed.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्सप्रभाका एव दीपाः प्रतिक्षणमुत्पन्ना विनश्यन्तीति पुष्कलकारणक्रमोपनिपातात् तद्विनाशे विनाशाच्चावगम्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रभायास् स्वाश्रय-समीपे प्रकाशाधिक्यम् औष्ण्याधिक्यम् इत्य् आद्य् उपलब्धि-व्यवस्थाप्यम् अग्न्य्-आदीनाम् औष्ण्यादि-वत्।
+</details>
+
+<details><summary>English</summary>
+
+This is to be explained by the fact that we perceive a higher degree of light and heat in the immediate neighborhood of the lamp, just as we do with regard to fire and the like.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रभायास्स्वाश्रयसमीपे प्रकाशाधिक्यमौष्ण्याधिक्यमित्याद्युपलब्धिव्यवस्थाप्यम् अग्न्यादीनामौष्ण्यादिवत्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् आत्मा चिद्रूप एव चैतन्य-गुण इति।
+</details>
+
+<details><summary>English</summary>
+
+Analogously to the lamp, the Self is essentially intelligent (cid-rūpa), and has intelligence (caitanya) for its quality.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमात्मा चिद्रूप एव चैतन्यगुण इति।
+</details>
 
 ## चिद्रूपता स्वयम्प्रकाशतारूपा
 
-चिद्रूपता हि स्वयम्प्रकाशता॥ तथा हि श्रुतयः – स यथा सैन्धवघनोऽनन्तरोऽबाह्यः कृत्स्नो रसघन एव, एवं वा अरेऽयमात्माऽनन्तरोऽबाह्यः कृत्स्नः प्रज्ञानघन एव (बृ.उ.६.४.१३), विज्ञानघन एव (बृ.उ.४.४.१२), अत्रायं पुरुषस्स्वयञ्ज्योतिर्भवति (बृ.उ.६.३.९), न विज्ञातुर्विज्ञातेर्विपरिलोपो विद्यते (बृ.उ.६.३.१०), अथ यो वेदेदं जिघ्राणीति स आत्मा (बृ.उ.६.३.३०), कतम आत्मा योऽयं विज्ञानमयः प्राणेषु हृद्यन्तर्ज्योतिः पुरुषः (छा.उ.८.१२.४), एष हि द्रष्टा श्रोता रसियता घ्राता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषः (बृ.६.३.७), विज्ञातारमरे केन विजानीयात् (प्रश्न.उ.४.प्रश्न), जानात्येवायं पुरुषः, न पश्यो मृत्युं पश्यति न रोगं नोत दुःखतां स उत्तमः पुरुषः (छा.७.२६.२), नोपजनं स्मरन्निदं शरीरम् (छा.उ.८.१२.३), एवमेवास्य परिद्रष्टुरिमाष्षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तङ्गच्छन्ति (प्र.उ.६.५) तस्माद्वा एतस्मान्मनोमयादन्योऽन्तर आत्मा विज्ञानमयः (तै.आन.४.१) इत्याद्याः। वक्ष्यति च ज्ञोऽतएव (ब्र.सू.२.३.१९) इति॥ अतस्स्वयम्प्रकाशोऽयमात्मा ज्ञातैव, न प्रकाशमात्रम् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चिद्रूपता हि स्वयम्-प्रकाशता॥
+</details>
+
+<details><summary>English</summary>
+
+And to be essentially intelligent means to be self-luminous.
+</details>
+
+<details><summary>मूलम्</summary>
+
+चिद्रूपता हि स्वयम्प्रकाशता॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि श्रुतयः –
+</details>
+
+<details><summary>English</summary>
+
+There are many scriptural texts declaring this, compare e.g.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा हि श्रुतयः –
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स यथा सैन्धव-घनो ऽनन्तरो ऽबाह्यः कृत्स्नो रस-घन एव, एवम् वा अरे ऽयम् आत्मा ऽनन्तरो ऽबाह्यः कृत्स्नः प्रज्ञान-घन एव (बृ.उ.६.४.१३), विज्ञान-घन एव (बृ.उ.४.४.१२),
+</details>
+
+<details><summary>English</summary>
+
+'As a mass of salt has neither inside nor outside but is altogether a mass of taste, thus indeed that Self has neither inside nor outside but is altogether a mass of knowledge' (Br̥. Up. IV, 5, 13; or IV, 4, 12);
+</details>
+
+<details><summary>मूलम्</summary>
+
+स यथा सैन्धवघनोऽनन्तरोऽबाह्यः कृत्स्नो रसघन एव, एवं वा अरेऽयमात्माऽनन्तरोऽबाह्यः कृत्स्नः प्रज्ञानघन एव (बृ.उ.६.४.१३), विज्ञानघन एव (बृ.उ.४.४.१२),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्रायम् पुरुषस् स्वयञ्ज्योतिर् भवति (बृ.उ.६.३.९),
+</details>
+
+<details><summary>English</summary>
+
+'There that person becomes self-luminous,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्रायं पुरुषस्स्वयञ्ज्योतिर्भवति (बृ.उ.६.३.९),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न विज्ञातुर् विज्ञातेर् वि-परिलोपो विद्यते (बृ.उ.६.३.१०),
+</details>
+
+<details><summary>English</summary>
+
+there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
+</details>
+
+<details><summary>मूलम्</summary>
+
+न विज्ञातुर्विज्ञातेर्विपरिलोपो विद्यते (बृ.उ.६.३.१०),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ यो वेदेदम् जिघ्राणीति स आत्मा (बृ.उ.६.३.३०),
+</details>
+
+<details><summary>English</summary>
+
+'He who knows, let me smell this, he is the Self (Cḥ. Up. VIII, 12, 4);
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथ यो वेदेदं जिघ्राणीति स आत्मा (बृ.उ.६.३.३०),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कतम आत्मा यो ऽयम् विज्ञान-मयः प्राणेषु हृद्य् अन्तर्-ज्योतिः पुरुषः (छा.उ.८.१२.४),
+</details>
+
+<details><summary>English</summary>
+
+'Who is that Self? That one who is made of knowledge, among the prāṇas, within the heart, the light, the person' (Br̥. Up. IV, 3, 7);
+</details>
+
+<details><summary>मूलम्</summary>
+
+कतम आत्मा योऽयं विज्ञानमयः प्राणेषु हृद्यन्तर्ज्योतिः पुरुषः (छा.उ.८.१२.४),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एष हि द्रष्टा श्रोता रसयिता घ्राता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषः (बृ.६.३.७),
+</details>
+
+<details><summary>English</summary>
+
+'For it is he who sees, hears, smells, tastes, thinks, considers, acts, the person whose Self is knowledge' (Pr. Up. IV, 9);
+</details>
+
+<details><summary>मूलम्</summary>
+
+एष हि द्रष्टा श्रोता [[रसियता|रसयिता]] घ्राता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषः (बृ.६.३.७),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विज्ञातारम् अरे केन विजानीयात् (प्रश्न.उ.४.प्रश्न),
+</details>
+
+<details><summary>English</summary>
+
+'Whereby should one know the knower' (Br̥. Up. IV, 5, 15).
+</details>
+
+<details><summary>मूलम्</summary>
+
+विज्ञातारमरे केन विजानीयात् (प्रश्न.उ.४.प्रश्न),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जानात्य् एव अयम् पुरुषः,
+</details>
+
+<details><summary>English</summary>
+
+'This person knows,'
+</details>
+
+<details><summary>मूलम्</summary>
+
+जानात्येवायं पुरुषः,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न पश्यो मृत्युम् पश्यति न रोगम् नोत दुःखताम् स उत्तमः पुरुषः (छा.७.२६.२),
+</details>
+
+<details><summary>English</summary>
+
+'The seer does not see death nor illness nor pain' (Cḥ. Up. VII, 26, 2);
+</details>
+
+<details><summary>मूलम्</summary>
+
+न पश्यो मृत्युं पश्यति न रोगं नोत दुःखतां स उत्तमः पुरुषः (छा.७.२६.२),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नोपजनम् स्मरन्न् इदम् शरीरम् (छा.उ.८.१२.३),
+</details>
+
+<details><summary>English</summary>
+
+'That highest person not remembering this body into which he was born' (Cḥ. Up. VIII, 12, 3);
+</details>
+
+<details><summary>मूलम्</summary>
+
+नोपजनं स्मरन्निदं शरीरम् (छा.उ.८.१२.३),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् एव अस्य परिद्रष्टुर् इमाष् षोडश-कलाः पुरुषायणाः पुरुषम् प्राप्यास्तङ् गच्छन्ति (प्र.उ.६.५)
+</details>
+
+<details><summary>English</summary>
+
+'Thus these sixteen parts of the spectator that go towards the person; when they have readied the person, sink into him' (Pr. Up. VI, 5);
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमेवास्य परिद्रष्टुरिमाष्षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तङ्गच्छन्ति (प्र.उ.६.५)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् वा एतस्मान् मनो-मयाद् अन्यो ऽन्तर आत्मा विज्ञान-मयः (तै.आन.४.१) इत्य् आद्याः।
+</details>
+
+<details><summary>English</summary>
+
+'From this consisting of mind, there is different an interior Self consisting of knowledge' (Taitt. Up. II, 4).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माद्वा एतस्मान्मनोमयादन्योऽन्तर आत्मा विज्ञानमयः (तै.आन.४.१) इत्याद्याः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वक्ष्यति च ज्ञो ऽत एव (ब्र.सू.२.३.१९) इति॥
+</details>
+
+<details><summary>English</summary>
+
+And the Sūtrakāra also will refer to the Self as a 'knower' in II, 3, 18.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वक्ष्यति च ज्ञोऽतएव (ब्र.सू.२.३.१९) इति॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् स्वयम्-प्रकाशो ऽयम् आत्मा ज्ञातैव, न प्रकाश-मात्रम् ॥
+</details>
+
+<details><summary>English</summary>
+
+All which shows that the self-luminous Self is a knower, i.e. a knowing subject, and not pure light (non-personal intelligence).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्स्वयम्प्रकाशोऽयमात्मा ज्ञातैव, न प्रकाशमात्रम् ॥
+</details>
 
 ## संविदः अनात्मत्वोपपादकाः तर्काः
 
-प्रकाशत्वादेव कस्यचिदेव भवेत्प्रकाशः, दीपादिप्रकाशवत्। तस्मान्नाऽत्मा भवितुमर्हाति संवित्। संविदनुभूतिज्ञानादिशब्दास्सम्बन्धिशब्दा इति च शब्दार्थविदः। न हि लोकवेदयोर्जानातीत्यादेरकर्मकस्याकर्तृकस्य च प्रयोगो दृष्टचरः॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकाशत्वाद् एव कस्यचिद् एव भवेत् प्रकाशः, दीपादि-प्रकाश-वत्।
+</details>
+
+<details><summary>English</summary>
+
+In general we may say that where there is light it must belong to something, as shown by the light of a lamp.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रकाशत्वादेव कस्यचिदेव भवेत्प्रकाशः, दीपादिप्रकाशवत्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् नाऽत्मा भवितुम् अर्हति संवित्।
+</details>
+
+<details><summary>English</summary>
+
+The Self thus cannot be mere consciousness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मान्नाऽत्मा भवितुमर्हाति संवित्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संविद्-अनुभूति-ज्ञानादि-शब्दास् सम्बन्धि-शब्दाः इति च शब्दार्थ-विदः।
+</details>
+
+<details><summary>English</summary>
+
+The grammarians moreover tell us that words such as 'consciousness,' 'knowledge,' &c., are relative;
+</details>
+
+<details><summary>मूलम्</summary>
+
+संविदनुभूतिज्ञानादिशब्दास्सम्बन्धिशब्दा इति च शब्दार्थविदः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि लोक-वेदयोर् जानातीत्य् आदेर् अ-कर्मकस्य अ-कर्तृकस्य च प्रयोगो दृष्ट-चरः॥
+</details>
+
+<details><summary>English</summary>
+
+neither ordinary nor Vedic language uses expressions such as 'he knows' without reference to an object known and an agent who knows.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि लोकवेदयोर्जानातीत्यादेरकर्मकस्याकर्तृकस्य च प्रयोगो दृष्टचरः॥
+</details>
 
 ## संविदात्मत्वे अजडत्वं न हेतुः
 
-यच्चोक्तमजडत्वात्संविदेवाऽत्मेति; तत्रेदं प्रष्टव्यम्, अजडत्वमिति किमभिप्रेतम्? स्वसत्ताप्रयुक्तप्रकाशत्वमिति चेत्; तथा सति दीपादिष्वनैकान्त्यम्। संविदतिरिक्तप्रकाश-धर्मानभ्युपगमेनासिद्धिर्विरोधश्च। अव्यभिचरितप्रकाशसत्ताकत्वमपि सुखादिषु व्यभिचारान्निरस्तम्॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्युच्येत – सुखादिरव्यभिचरितप्रकाशोऽप्यन्यस्मै प्रकाशमानतया घटादिवज्ज्डत्वेन अनाऽत्मा – इति। ज्ञानं न किं स्वस्मै प्रकाशते? तदपि ह्यन्यस्यैवाहमर्थस्य ज्ञातुरवभासते, अहं सुखीतिवज्जानाम्यहमिति। अतस्स्वस्मै प्रकाशमानत्वरूपमजडत्वं संविद्यसिद्धम् । तस्मात् स्वात्मानं प्रति स्वसत्तयैव सिद्ध्यन्नजडोऽहमर्थ एवाऽत्मा ॥
+यच् चोक्तम् अ-जडत्वात् संविद् एवाऽत्मेति; तत्रेदम् प्रष्टव्यम्, अ-जडत्वम् इति किम् अभिप्रेतम्?
+</details>
+
+<details><summary>English</summary>
+
+With reference to the assertion that consciousness constitutes the Self, because it (consciousness) is not non-intelligent (jada), we ask what you understand by this absence of non-intelligence.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+यच्चोक्तमजडत्वात्संविदेवाऽत्मेति; तत्रेदं प्रष्टव्यम्, अजडत्वमिति किमभिप्रेतम्?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-सत्ता-प्रयुक्त-प्रकाशत्वम् इति चेत्; तथा सति दीपादिष्व् अनैकान्त्यम्।
+</details>
+
+<details><summary>English</summary>
+
+If you reply 'luminousness due to the being of the thing itself (i.e. of the thing which is ajaḍa)'; we point out that this definition would wrongly include lamps also, and similar things;
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वसत्ताप्रयुक्तप्रकाशत्वमिति चेत्; तथा सति दीपादिष्वनैकान्त्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संविद्-अतिरिक्त-प्रकाश-धर्मानभ्युपगमेनासिद्धिर् विरोधश् च।
+</details>
+
+<details><summary>English</summary>
+
+and it would moreover give rise to a contradiction, since you do not admit light as an attribute, different from consciousness itself.
+</details>
+
+<details><summary>मूलम्</summary>
+
+संविदतिरिक्तप्रकाश-धर्मानभ्युपगमेनासिद्धिर्विरोधश्च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-व्यभिचरित-प्रकाश-सत्ताकत्वम् अपि सुखादिषु व्यभिचारान् निरस्तम्॥
+</details>
+
+<details><summary>English</summary>
+
+Nor can we allow you to define ajadatva as 'being of that nature that light is always present, without any exception,' for this definition would extend also to pleasure, pain, and similar states.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अव्यभिचरितप्रकाशसत्ताकत्वमपि सुखादिषु व्यभिचारान्निरस्तम्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् उच्येत – सुखादिर् अ-व्यभिचरित-प्रकाशो ऽप्य् अन्यस्मै प्रकाशमानतया घटादि-वज् जडत्वेन अनाऽत्मा – इति।
+</details>
+
+<details><summary>English</summary>
+
+Should you maintain that pleasure and so on, although being throughout of the nature of light, are non-intelligent for the reason that, like jars, &c., they shine forth (appear) to something else and hence belong to the sphere of the not-Self;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्युच्येत – सुखादिरव्यभिचरितप्रकाशोऽप्यन्यस्मै प्रकाशमानतया [[घटादिवज्ज्डत्वेन|घटादिवज्जडत्वेन]] अनाऽत्मा – इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानम् न किम् स्वस्मै प्रकाशते?
+</details>
+
+<details><summary>English</summary>
+
+we ask in reply: Do you mean then to say that knowledge appears to itself?
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानं न किं स्वस्मै प्रकाशते?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदपि ह्य् अन्यस्यैवाहमर्थस्य ज्ञातुर् अवभासते, अहम् सुखीति-वज् जानाम्य् अहम् इति।
+</details>
+
+<details><summary>English</summary>
+
+Knowledge no less than pleasure appears to some one else, viz. the 'I': there is, in that respect, no difference between the judgment 'I know,' and the judgment 'I am pleased.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदपि ह्यन्यस्यैवाहमर्थस्य ज्ञातुरवभासते, अहं सुखीतिवज्जानाम्यहमिति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् स्वस्मै प्रकाशमानत्व-रूपम् अ-जडत्वम् संविद्य् अ-सिद्धम् ।
+</details>
+
+<details><summary>English</summary>
+
+Non-intelligence in the sense of appearingness-to-itself is thus not proved for consciousness;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्स्वस्मै प्रकाशमानत्वरूपमजडत्वं संविद्यसिद्धम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् स्वात्मानम् प्रति स्व-सत्तयैव सिद्ध्यन्न् अ-जडो ऽहम्-अर्थः एवाऽत्मा ॥
+</details>
+
+<details><summary>English</summary>
+
+and hence it follows that what constitutes the Self is the non-jada 'I' which is proved to itself by its very Being.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मात् स्वात्मानं प्रति स्वसत्तयैव सिद्ध्यन्नजडोऽहमर्थ एवाऽत्मा ॥
+</details>
 
 ## ज्ञानस्य प्रकाशरूपतायां हेतुः
 
-ज्ञानस्यापि प्रकाशता तत्सम्बन्धायत्ता। तत्कृतमेव हि ज्ञानस्य सुखादेरिव स्वाश्रयचेतनं प्रति प्रकटत्वमितरं प्रत्यप्रकटत्वं च। अतो न ज्ञप्तिमात्रमात्मा, अपि तु ज्ञातैवाहमर्थः॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानस्यापि प्रकाशता तत्-सम्बन्धायत्ता।
+</details>
+
+<details><summary>English</summary>
+
+That knowledge is of the nature of light depends altogether on its connection with the knowing 'I':
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानस्यापि प्रकाशता तत्सम्बन्धायत्ता।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-कृतम् एव हि ज्ञानस्य सुखादेर् इव स्वाश्रय-चेतनम् प्रति प्रकटत्वम् इतरम् प्रत्य् अ-प्रकटत्वम् च।
+</details>
+
+<details><summary>English</summary>
+
+it is due to the latter, that knowledge, like pleasure, manifests itself to that conscious person who is its substrate, and not to anybody else.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्कृतमेव हि ज्ञानस्य सुखादेरिव स्वाश्रयचेतनं प्रति प्रकटत्वमितरं प्रत्यप्रकटत्वं च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो न ज्ञप्ति-मात्रम् आत्मा, अपि तु ज्ञातैवाहमर्थः॥
+</details>
+
+<details><summary>English</summary>
+
+The Self is thus not mere knowledge, but is the knowing 'I.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो न ज्ञप्तिमात्रमात्मा, अपि तु ज्ञातैवाहमर्थः॥
+</details>
 
 ## अहमर्थः न भ्रान्तिसिद्धः
 
