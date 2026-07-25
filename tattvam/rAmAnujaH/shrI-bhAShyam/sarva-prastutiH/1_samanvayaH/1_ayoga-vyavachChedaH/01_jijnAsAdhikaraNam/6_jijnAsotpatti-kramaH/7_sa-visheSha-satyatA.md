@@ -2900,7 +2900,9 @@ For according to your own view Nescience also (which is not 'Being') does not or
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तद्-विकारास् सर्वे मिथ्या-भूता" इति चेत्;  
+> "तद्-विकारास् सर्वे मिथ्या-भूता" 
+
+इति चेत्;  
 किं भवतः परमार्थ-भूतो ऽप्य् अस्ति विकारः  
 येनैतद्-विशेषणम् अर्थवद् भवति?+++(4)+++
 </details>
@@ -2933,11 +2935,11 @@ You do not; and yet it is only this admission which would give a sense to the di
 </details>
 
 
-## अजत्वस्य नानात्वाभावव्याप्यतादूषणम्
+## संविदि विभागः, धर्माः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अप्य् – अनुभूतिर् अजत्वात् स्वस्मिन् विभागं न सहते इति।
+यद् अप्य् – अनुभूतिर् अ-जत्वात् स्वस्मिन् +++(इतरापेक्षया)+++ विभागं न सहते इति -
 </details>
 
 <details><summary>English</summary>
@@ -2950,9 +2952,14 @@ Nor is it true that consciousness does not admit of any division within itself, 
 यदपि – अनुभूतिरजत्वात्स्वस्मिन्विभागं न सहते इति।
 </details>
 
+### आत्माविद्याभ्यां व्यभिचारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अपि नोपपद्यते, अजस्यैवाऽत्मनो देहेन्द्रियादिभ्यो विभक्तत्वाद् अनादित्वेन चाभ्युपगताया अविद्याया आत्मनो व्यतिरेकस्यावश्याश्रयणीयत्वात्।
+तद् अपि नोपपद्यते,  
+अजस्यैवाऽत्मनो देहेन्द्रियादिभ्यो विभक्तत्वात्,  
+
+अनादित्वेन चाभ्युपगताया अविद्याया  
+आत्मनो व्यतिरेकस्यावश्याश्रयणीयत्वात्।
 </details>
 
 <details><summary>English</summary>
@@ -2967,7 +2974,8 @@ For the non-originated Self is divided from the body, the senses, &c., and Nesci
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स विभागो मिथ्या-रूप इति चेत्; जन्म-प्रतिबद्धः पारमार्थिक-विभागः किं क्वचिद् दृष्टस् त्वया?।
+"स विभागो मिथ्या-रूप" इति चेत्;  
+जन्म-प्रतिबद्धः पारमार्थिक-विभागः किं क्वचिद् दृष्टस् त्वया?।
 </details>
 
 <details><summary>English</summary>
@@ -2982,7 +2990,8 @@ And if you say that the latter division is unreal, we ask whether you have ever 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अविद्याया आत्मनः परमार्थतो विभागाभावे वस्तुतो ह्य् अविद्यैव स्याद् आत्मा।
+अविद्याया आत्मनः परमार्थतो विभागाभावे  
+वस्तुतो ह्य् अविद्यैव स्याद् आत्मा।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -2995,9 +3004,12 @@ Moreover, if the distinction of Nescience from the Self is not real, it follows 
 अविद्याया आत्मनः परमार्थतो विभागाभावे वस्तुतो ह्यविद्यैव स्यादात्मा।
 </details>
 
+### दृश्य-भेदतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अबाधित-प्रतिपत्ति-सिद्ध-दृश्य-भेद-समर्थनेन दर्शन-भेदो ऽपि समर्थित एव, छेद्य-भेदाच् छेदन-भेदवत्॥
+अ-बाधित-प्रतिपत्ति-सिद्ध-- दृश्य-भेद-समर्थनेन  
+दर्शन-भेदो ऽपि समर्थित एव,  
+छेद्य-भेदाच् छेदन-भेदवत्॥
 </details>
 
 <details><summary>English</summary>
@@ -3011,16 +3023,27 @@ You further have yourself proved the difference of views by means of the differe
 </details>
 
 
-## दृशित्व-दृश्यत्वहेतुकानुमानदूषणम्
+### दृश्य-धर्मता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अप्य् – नास्या दृशेर् दृशि-स्वरूपाया दृश्यः कश्चिद् अपि धर्मो ऽस्ति; दृश्यत्वाद् एव तेषां न दृशि-धर्मत्वम् इति च।
+यद् अपि – 
+
+> नास्या दृशेर् दृशि-स्वरूपाया 
+दृश्यः कश्चिद् अपि धर्मो ऽस्ति;  
+
+> दृश्यत्वाद् एव तेषां +++(दृश्यानां)+++ न दृशि-धर्मत्वम् 
+
+इति च,
 </details>
 
 <details><summary>English</summary>
 
-And if you assert that of this knowing – which is essentially knowing only – nothing that is an object of knowledge can be an attribute, and that these objects – just because they are objects of knowledge – cannot be attributes of knowing;
+And if you assert that of this knowing – which is essentially knowing only –  
+nothing that is an object of knowledge can be an attribute,  
+and that these objects –  
+just because they are objects of knowledge –  
+cannot be attributes of knowing;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3030,7 +3053,9 @@ And if you assert that of this knowing – which is essentially knowing only –
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अपि स्वाभ्युपगतैः प्रमाण-सिद्धैर् नित्यत्व-स्वयम्प्रकाशत्वादि-धर्मैर् उभयम् अनैकान्तिकम्।
+तद् अपि +++(दृशि-धर्मत्वेन)+++ स्वाभ्युपगतैः प्रमाण-सिद्धैर्  
+नित्यत्व--स्वयम्-प्रकाशत्वादि-धर्मैर्  
+उभयम् +++(←वाक्य-द्वयम्)+++ अनैकान्तिकम्।
 </details>
 
 <details><summary>English</summary>
@@ -3043,6 +3068,7 @@ we point out that both these remarks would apply also to eternity, self-luminous
 तदपि स्वाभ्युपगतैः प्रमाणसिद्धैर्नित्यत्वस्वयम्प्रकाशत्वादिधर्मैरुभयम् अनैकान्तिकम्।
 </details>
 
+#### न संवेदन-मात्रम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च ते संवेदन-मात्रम्, स्वरूप-भेदात्।
@@ -3060,7 +3086,7 @@ Nor may you urge against this that all these alleged attributes are in reality m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वसत्तयैव स्वाश्रयं प्रति कस्यचिद् विषयस्य प्रकाशनं हि संवेदनम्।
+स्वसत्तयैव स्वाश्रयं प्रति कस्यचिद् विषयस्य प्रकाशनं हि संवेदनम्।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -3073,6 +3099,7 @@ By 'being conscious' or 'knowing', we understand the illumining or manifesting o
 स्वसत्तयैव स्वाश्रयं प्रति कस्यचिद्विषयस्य प्रकाशनं हि संवेदनम्।
 </details>
 
+#### स्वयम्-प्रकाशतादयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वयम्-प्रकाशता तु स्वसत्तयैव स्वाश्रयाय प्रकाशमानता।
@@ -3090,7 +3117,8 @@ by self-luminousness (or 'self-illuminatedness') we understand the shining forth
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकाशश् च चिद्-अचिद्-अशेष-पदार्थ-साधारणं व्यवहारानुगुण्यम्।
+प्रकाशश् च  
+चिद्-अचिद्--अ-शेष--पदार्थ-साधारणं व्यवहारानुगुण्यम्।
 </details>
 
 <details><summary>English</summary>
@@ -3135,7 +3163,9 @@ oneness means 'being defined by the number one'.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषां जडत्वाद्य्-अभाव-रूपतायाम् अपि तथाभूतैर् अपि चैतन्य-धर्म-भूतैस् तैर् अनैकान्त्यम् अपरिहार्यम्।
+तेषां +++(स्वयम्-प्रकाशतादि-धर्माणां)+++ जडत्वाद्य्-अभाव-रूपतायाम् अपि  
+तथा-भूतैर् अपि चैतन्य-धर्म-भूतैस् तैर्  
++++(दृश्यत्वाख्य-हेतोर् धर्मत्व-बाधने)+++ अनैकान्त्यम् अपरिहार्यम्।
 </details>
 
 <details><summary>English</summary>
@@ -3148,9 +3178,12 @@ Even if you say that these attributes are only negative ones, i.e. equal to the 
 तेषां जडत्वाद्यभावरूपतायामपि तथाभूतैरपि चैतन्यधर्मभूतैस्तैरनैकान्त्यमपरिहार्यम्।
 </details>
 
+### निषिद्ध-धर्म-प्रतियोग्य्-अङ्गीकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संविदि तु स्वरूपातिरेकेण जडत्वादि-प्रत्यनीकत्वम् इत्य् अभावरूपो भावरूपो वा धर्मो नाभ्युपेतश् चेत्; [[तत्तिन्नषेधोक्त्या|तद्-निषेधोक्त्या]] किमपि नोक्तं भवेत्॥
+संविदि तु स्वरूपातिरेकेण  
+जडत्वादि-प्रत्यनीकत्वम् इत्य् अभावरूपो भावरूपो वा धर्मो नाभ्युपेतश् चेत्;  
+तत्-तन्+++(→जडत्वादि)+++-निषेधोक्त्या किमपि नोक्तं भवेत्॥
 </details>
 
 <details><summary>English</summary>
@@ -3160,12 +3193,15 @@ If, on the other hand, being of a nature opposite to non-intelligence and so on,
 
 <details><summary>मूलम्</summary>
 
-संविदि तु स्वरूपातिरेकेण जडत्वादिप्रत्यनीकत्वमित्यभावरूपो भावरूपो वा धर्मो नाभ्युपेतश्चेत्; तत्तिन्नषेधोक्त्या किमपि नोक्तं भवेत्॥
+संविदि तु स्वरूपातिरेकेण जडत्वादिप्रत्यनीकत्वमित्यभावरूपो भावरूपो वा धर्मो नाभ्युपेतश्चेत्; तत्तन्निषेधोक्त्या किमपि नोक्तं भवेत्॥
 </details>
 
+### सिद्धेः सधर्मता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[|अपि च संवित् सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगन-कुसुमादि-वत्।]]
+अपि च संवित् सिद्ध्यति वा न वा?।  
+सिद्ध्यति चेत्; सधर्मता स्यात्।  
+न चेत्; तुच्छता, गगन-कुसुमादि-वत्।
 </details>
 
 <details><summary>English</summary>
@@ -3175,8 +3211,9 @@ We moreover must admit the following alternative: consciousness is either proved
 
 <details><summary>मूलम्</summary>
 
-[[|अपि च संवित्सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगनकुसुमादिवत्।]]
+अपि च संवित्सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगनकुसुमादिवत्।
 </details>
+
 ## संविदः आत्मत्वनिराकोपक्रमः
 
 अपि च संवित्सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगनकुसुमादिवत्। सिद्धिरेव संविदिति चेत्; कस्य कं प्रतीति वक्तव्यम्; यदि न कस्यचित्किञ्चित्प्रति; सा तर्हि न सिद्धिः। सिद्धिर्हि पुत्रत्वमिव कस्यचित्किञ्चित्प्रति भवति। आत्मन इति चेत्; कोऽयमात्मा? ननु संविदेवेत्युक्तम्। सत्यमुक्तम्; दुरुक्तं तु तत्। तथा हि; कस्यचित्पुरुषस्य किञ्चिदर्थजातं प्रति सिद्धिरूपा तत्सम्बन्धिनी सा संवित्स्वयं कथमिवाऽत्मभावमनुभवेत्?॥
