@@ -3214,7 +3214,7 @@ We moreover must admit the following alternative: consciousness is either proved
 अपि च संवित्सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगनकुसुमादिवत्। </details>
 
 ## आत्म-संविद्-भेदः
-
+### कम् प्रति संवित्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सिद्धिर् एव संविद्" इति चेत्;  
@@ -3233,7 +3233,8 @@ Let it then be said that consciousness is proof (siddhiḥ) itself. Proof of wha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि न कस्यचित् किञ्चित् प्रति; सा तर्हि न सिद्धिः।
+यदि न कस्यचित् किञ्चित् प्रति;  
+सा तर्हि न सिद्धिः।
 </details>
 
 <details><summary>English</summary>
@@ -3248,7 +3249,8 @@ If no definite answer can be given to these two questions, consciousness cannot 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिद्धिर् हि पुत्रत्वम् इव कस्यचित् किञ्चित् प्रति भवति।
+सिद्धिर् हि पुत्रत्वम् इव 
+कस्यचित् किञ्चित् प्रति भवति।
 </details>
 
 <details><summary>English</summary>
@@ -3263,7 +3265,7 @@ for 'proof' is a relative notion, like 'son.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आत्मन इति चेत्; को ऽयम् आत्मा?
+"आत्मन" इति चेत्; को ऽयम् आत्मा?
 </details>
 
 <details><summary>English</summary>
@@ -3276,9 +3278,10 @@ You will perhaps reply 'Proof to the Self'; and if we go on asking 'But what is 
 आत्मन इति चेत्; कोऽयमात्मा?
 </details>
 
+### न संवित्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु संविद् एवेत्य् उक्तम्।
+> ननु संविद् एवेत्य् उक्तम्।
 </details>
 
 <details><summary>English</summary>
@@ -3308,7 +3311,10 @@ True, we reply, you said so; but it certainly was not well said.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि; कस्यचित् पुरुषस्य किञ्चिद् अर्थ-जातं प्रति सिद्धिर्-रूपा तत्-सम्बन्धिनी सा संवित् स्वयम् कथम् इवाऽत्म-भावम् अनुभवेत्?॥
+तथा हि; कस्यचित् पुरुषस्य  
+किञ्चिद् अर्थ-जातं प्रति सिद्धि-रूपा  
+तत्-सम्बन्धिनी सा संवित्  
+स्वयम् कथम् इवात्म-भावम् अनुभवेत्?॥
 </details>
 
 <details><summary>English</summary>
@@ -3321,11 +3327,20 @@ For if it is the nature of consciousness to be 'proof' ('light,' 'enlightenment'
 तथा हि; कस्यचित्पुरुषस्य किञ्चिदर्थजातं प्रति सिद्धिरूपा तत्सम्बन्धिनी सा संवित्स्वयं कथमिवाऽत्मभावमनुभवेत्?॥
 </details>
 
-## संविदः अनात्मत्वनिष्कर्षणम्
+### संविल्-लक्षणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतद् उक्तम् भवति – अनुभूतिर् इति स्वाश्रयम् प्रति स्व-सद्भावेनैव कस्यचिद् वस्तुनो व्यवहारानुगुण्यापादन-स्वभावो ज्ञानावगति-संविद्-आद्य्-अपर-नामा सकर्मको ऽनुभवितुर् आत्मनो धर्म-विशेषो घटम् अहम् जानामीमम् अर्थम् अवगच्छामि पटम् अहम् संवेद्मि इति सर्वेषाम् आत्म-साक्षिकः प्रसिद्धः।
+एतद् उक्तम् भवति –  
+अनुभूतिर् इति  
+स्वाश्रयम् प्रति स्व-सद्भावेनैव  
+कस्यचिद् वस्तुनो व्यवहारानुगुण्यापादन-स्वभावो  
+ज्ञानावगति-संविद्-आद्य्-अपर-नामा  
+सकर्मको ऽनुभवितुर् आत्मनो धर्म-विशेषो  
+"घटम् अहम् जानामि",  
+"इमम् अर्थम् अवगच्छामि"  
+"पटम् अहम् संवेद्मि"  
+इति सर्वेषाम् आत्म-साक्षिकः प्रसिद्धः।
 </details>
 
 <details><summary>English</summary>
@@ -3340,7 +3355,8 @@ To explain: the essential character of consciousness or knowledge is that by its
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतत्-स्वभावतया हि तस्यास् स्वयम्-प्रकाशता भवताप् उपपादिता।
+एतत्-स्वभावतया हि  
+तस्यास् स्वयम्-प्रकाशता भवताप्य् उपपादिता।
 </details>
 
 <details><summary>English</summary>
@@ -3353,9 +3369,11 @@ That such is the essential nature of consciousness you yourself admit; for you h
 एतत्स्वभावतया हि तस्यास्स्वयम्प्रकाशता भवताऽप्युपपादिता।
 </details>
 
+### संविदि कर्मत्व-कर्तृत्वे न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्य सकर्मकस्य कर्तृ-धर्म-विशेषस्य कर्मत्ववत् कर्तृत्वम् अपि दुर्घटम् इति॥
+अस्य स-कर्मकस्य कर्तृ-धर्म-विशेषस्य  
+कर्मत्ववत्, कर्तृत्वम् अपि दुर्घटम् इति॥
 </details>
 
 <details><summary>English</summary>
@@ -3368,11 +3386,12 @@ Of this consciousness which thus clearly presents itself as the attribute of an 
 अस्य सकर्मकस्य कर्तृधर्मविशेषस्य कर्मत्ववत्कर्तृत्वमपि दुर्घटमिति॥
 </details>
 
-## स्थिरत्वास्थिरत्वे अपि संविदनात्मत्वसाधके
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि; अस्य कर्तुस् स्थिरत्वम् कर्तृ-धर्मस्य संवेदनाख्यस्य सुख-दुःखादेर् इवोत्पत्ति-स्थिति-निरोधाश् च प्रत्यक्षम् ईक्ष्यन्ते।
+तथा हि; अस्य कर्तुस् स्थिरत्वम्  
+कर्तृ-धर्मस्य संवेदनाख्यस्य  
+सुख-दुःखादेर् इव उत्पत्ति-स्थिति-निरोधाश् च  
+प्रत्यक्षम् ईक्ष्यन्ते।
 </details>
 
 <details><summary>English</summary>
