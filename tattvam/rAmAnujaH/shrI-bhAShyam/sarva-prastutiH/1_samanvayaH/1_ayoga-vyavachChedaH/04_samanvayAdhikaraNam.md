@@ -141,7 +141,319 @@ title = "०४ समन्वयाधिकरणम्"
 
 ## ध्याननियोगवादिकृतं भेदाभेददूषणम्
 
-अत्रोच्यते – अद्वितीयसच्चिदानन्दब्रह्मध्यानविषयविधिपरं वेदान्तवाक्यजातमिति वेदान्तवाक्यैरभेदः प्रतीयते। भेदावलम्बिभिः कर्मशास्त्रैः प्रत्यक्षादिभिश्च भेदः प्रतीयते। भेदाभेदयोः परस्परविरोधात् अनाद्यविद्यामूलतयाऽपि भेदप्रतीत्युपपत्तेरभेद एव परमार्थ इत्युक्तम्। तत्र यदुक्तं – भेदोभेदयोरुभयोरपि प्रतीतिसिद्धत्वान्न विरोध इति। तदयुक्तम्, कस्माच्चित्कस्यचिद्विलक्षणत्वं हि तस्मात्तस्य भेदः। तद्विपरीतत्वं चाभेदः। तयोस्तथाभावातथाभावरूपयोरेकत्र सम्भवमनुन्मत्तः को ब्रवीति? कारणात्मना जात्यात्मना चाभेदः, कार्यात्मना व्यक्त्यात्मना च भेदः इत्याकारभेदादविरोध इति चेत् – न, विकल्पासहत्वात्। आकारभेदादविरोधं वदतः किमेकस्मिन्नाकारे भेदः, आकारान्तरे चाभेदः – इत्यभिप्रायः?; उताकारद्वययोगिवस्तुगतावुभावपीति? पूर्वस्मिन् कल्पे व्यक्तिगतो भेदः, जातिगतश्चाभेद इति नैकस्य द्व्यात्मकता। जातिर्व्यक्तिरिति चैकमेव वस्त्विति चेत् – तर्ह्याकारभेदादविरोधः परित्यक्तः स्यात्। एकस्मिंश्च विलक्षणत्वतद्विपर्ययौ विरुद्धावित्युक्तम्। द्वितीये तु कल्पे अन्योन्यविलक्षणमाकारद्वयम्, अप्रतिपन्नं च तदाश्रयभूतं वस्त्विति तृतीयाभ्युपगमेऽपि त्रयाणामन्योन्यवैलक्षण्यमेवोपपादितं स्यात्; न पुनरभेदः। आकारद्वयनिरुह्यमाणाविरोधं तदाश्रयभूते वस्तुनि भिन्नाभिन्नत्वमिति चेत् स्वस्माद्विलक्षणं स्वाश्रयमाकारद्वयं स्वस्मिन्विरुद्धधर्मद्वयसमावेशनिर्वाहकं कथं भवेत्?। अविलक्षणं तु कथन्तराम्? आकारद्वयतद्वतोश्च द्व्यात्मकत्वाभ्युपगमे निर्वाहकान्तरापेक्षयाऽनवस्था स्यात्। न च सम्प्रतिपन्नैक्यव्यक्तिप्रतीतिवत् ससामान्येऽपि वस्तुन्येकरूपा प्रतीतिरुपजायते, यतः इदमित्थम् इति सर्वत्र प्रकारप्रकारतयैव सर्वा प्रतीतिः। तत्र प्रकारांशो जातिः प्रकार्यंशो व्यक्तिरिति नैकाकारा प्रतीतिः।
+### भेदाभेद-विरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्रोच्यते – अद्वितीय--सच्-चिद्--आनन्द--ब्रह्म- ध्यान-विषय-विधि-परं वेदान्त-वाक्य-जातम्  
+इति वेदान्तवाक्यैर् अभेदः प्रतीयते।
+</details>
+
+<details><summary>English</summary>
+
+To this bhedābheda view the Pūrvapakshin now objects on the following grounds:--The whole aggregate of Vedānta-texts aims at enjoining meditation on a non-dual Brahman whose essence is reality, intelligence, and bliss, and thus sets forth the view of non-difference;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्रोच्यते – अद्वितीयसच्चिदानन्दब्रह्मध्यानविषयविधिपरं वेदान्तवाक्यजातमिति वेदान्तवाक्यैरभेदः प्रतीयते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भेदावलम्बिभिः कर्म-शास्त्रैः प्रत्यक्षादिभिश् च  
+भेदः प्रतीयते।
+</details>
+
+<details><summary>English</summary>
+
+while on the other hand the karma-section of the Veda, and likewise perception and the other means of knowledge, intimate the view of the difference of things.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भेदावलम्बिभिः कर्मशास्त्रैः प्रत्यक्षादिभिश्च भेदः प्रतीयते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भेदाभेदयोः परस्पर-विरोधात्  
+अनाद्य्-अविद्या-मूलतयाऽपि भेद-प्रतीत्य्-उपपत्तेर्  
+अभेद एव परमार्थ  
+इत्य् उक्तम्।
+</details>
+
+<details><summary>English</summary>
+
+Now, as difference and non-difference are contradictory, and as the view of difference may be accounted for as resting on beginningless Nescience, we conclude that universal non-difference is what is real.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भेदाभेदयोः परस्परविरोधात् अनाद्यविद्यामूलतयाऽपि भेदप्रतीत्युपपत्तेरभेद एव परमार्थ इत्युक्तम्।
+</details>
+
+### नोभय-प्रतीतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र यद् उक्तं –  
+
+> भेदाभेदयोर् उभयोर् अपि प्रतीति-सिद्धत्वान् न विरोध  
+
+इति -
+</details>
+
+<details><summary>English</summary>
+
+The tenet that difference and non-difference are not contradictory because both are proved by our consciousness, cannot be upheld.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र यदुक्तं – भेदोभेदयोरुभयोरपि प्रतीतिसिद्धत्वान्न विरोध इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् अ-युक्तम्,  
+कस्माच्चित् कस्यचिद् विलक्षणत्वं हि  
+तस्मात् तस्य भेदः।
+</details>
+
+<details><summary>English</summary>
+
+If one thing has different characteristics from another there is distinction (bheda) of the two;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदयुक्तम्, कस्माच्चित्कस्यचिद्विलक्षणत्वं हि तस्मात्तस्य भेदः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-विपरीतत्वं चाभेदः।
+</details>
+
+<details><summary>English</summary>
+
+the contrary condition of things constitutes non-distinction (abheda);
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्विपरीतत्वं चाभेदः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तयोस् तथाभावातथाभाव-रूपयोर् एकत्र सम्भवम्  
+अनुन्मत्तः को ब्रवीति?+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+who in his senses then would maintain that these two-suchness and non-suchness – can be found together?
+</details>
+
+<details><summary>मूलम्</summary>
+
+तयोस्तथाभावातथाभावरूपयोरेकत्र सम्भवमनुन्मत्तः को ब्रवीति?
+</details>
+
+### नाकार-भेदेन
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > कारणात्मना जात्य्-आत्मना चाभेदः,  
+कार्यात्मना व्यक्त्य्-आत्मना च भेदः 
+> 
+> इत्य् आकार-भेदाद् अविरोध 
+
+इति चेत् – न, विकल्पासहत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+You have maintained that non-difference belongs to a thing viewed as cause and genus, and difference to the same viewed as effect and individual; and that, owing to this twofold aspect of things, non-difference and difference are not irreconcileable. 
+
+But that this view also is untenable, a presentation of the question in definite alternatives will show.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कारणात्मना जात्यात्मना चाभेदः, कार्यात्मना व्यक्त्यात्मना च भेदः इत्याकारभेदादविरोध इति चेत् – न, विकल्पासहत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकार-भेदाद् अविरोधं वदतः  
+किम् "एकस्मिन् आकारे भेदः,  
+आकारान्तरे चाभेदः" – इत्य् अभिप्रायः?;  
+उताकार-द्वय-योगि-वस्तु-गताव् उभाव् अपीति?
+</details>
+
+<details><summary>English</summary>
+
+Do you mean to say that the difference lies in one aspect of the thing and the non-difference in the other? or that difference _and_ non-difference belong to the thing possessing two aspects?
+</details>
+
+<details><summary>मूलम्</summary>
+
+आकारभेदादविरोधं वदतः किमेकस्मिन्नाकारे भेदः, आकारान्तरे चाभेदः – इत्यभिप्रायः?; उताकारद्वययोगिवस्तुगतावुभावपीति?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वस्मिन् कल्पे  
+व्यक्ति-गतो भेदः, जाति-गतश् चाभेद इति +++(वस्तु-द्वये गृहीते)+++  
+नैकस्य +++(वस्तुन्तो)+++ द्व्य्-आत्मकता।
+</details>
+
+<details><summary>English</summary>
+
+On the former alternative the difference belongs to the individual and the non-difference to the genus; and this implies that there is no one thing with a double aspect.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पूर्वस्मिन् कल्पे व्यक्तिगतो भेदः, जातिगतश्चाभेद इति नैकस्य द्व्यात्मकता।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जातिर्, व्यक्तिर् इति चैकम् एव वस्त्व्  
+
+इति चेत् –  
+तर्ह्य् आकार-भेदाद् अविरोधः परित्यक्तः स्यात्।
+</details>
+
+<details><summary>English</summary>
+
+And should you say that the genus and individual together constitute one thing only, you abandon the view that it is difference of aspect which takes away the contradictoriness of difference and non-difference.
+</details>
+
+<details><summary>मूलम्</summary>
+
+जातिर्व्यक्तिरिति चैकमेव वस्त्विति चेत् – तर्ह्याकारभेदादविरोधः परित्यक्तः स्यात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकस्मिंश् च विलक्षणत्व--तद्-विपर्ययौ विरुद्धाव् इत्य् उक्तम्।
+</details>
+
+<details><summary>English</summary>
+
+We have moreover remarked already that difference in characteristics and its opposite are absolutely contradictory.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकस्मिंश्च विलक्षणत्वतद्विपर्ययौ विरुद्धावित्युक्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वितीये तु कल्पे  
+अन्योऽन्य-विलक्षणम् आकार-द्वयम्,  
+अ-प्रतिपन्नं+++(=अनिश्चितम्)+++ च तद्-आश्रय-भूतं वस्त्व् इति तृतीयाभ्युपगमे ऽपि  
+त्रयाणाम् अन्योन्य-वैलक्षण्यम् एवोपपादितं स्यात्;  
+न पुनर् अ-भेदः।
+</details>
+
+<details><summary>English</summary>
+
+On the second alternative we have two aspects of different kind and an unknown thing supposed to be the substrate of those aspects; but this assumption of a triad of entities proves only their mutual difference of character, not their non-difference.
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वितीये तु कल्पे अन्योन्यविलक्षणमाकारद्वयम्, अप्रतिपन्नं च तदाश्रयभूतं वस्त्विति तृतीयाभ्युपगमेऽपि त्रयाणामन्योन्यवैलक्षण्यमेवोपपादितं स्यात्; न पुनरभेदः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकार-द्वय-निरुह्यमाणाविरोधस्  
+तद्-आश्रय-भूते वस्तुनि भिन्नाभिन्नत्वम् 
+
+इति चेत्, स्वस्माद् विलक्षणं स्वाश्रयम् आकार-द्वयम्  
+स्वस्मिन् विरुद्ध-धर्म-द्वय-समावेश-निर्वाहकं कथं भवेत्?।
+</details>
+
+<details><summary>English</summary>
+
+Should you say that the non-contradictoriness of two aspects constitutes simultaneous difference and non-difference in the thing which is their substrate, we ask in return – How can two aspects which have a thing for their substrate, and thus are different from the thing, introduce into that thing a combination of two contradictory attributes (viz. difference and non-difference)?
+</details>
+
+<details><summary>मूलम्</summary>
+
+आकारद्वयनिरुह्यमाणाविरोधं तदाश्रयभूते वस्तुनि भिन्नाभिन्नत्वमिति चेत् स्वस्माद्विलक्षणं स्वाश्रयमाकारद्वयं स्वस्मिन्विरुद्धधर्मद्वयसमावेशनिर्वाहकं कथं भवेत्?।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अविलक्षणं तु कथन्तराम्?
+</details>
+
+<details><summary>English</summary>
+
+And much less even are they able to do so if they are viewed as non-different from the thing which is their substrate.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अविलक्षणं तु कथन्तराम्?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकार-द्वय-तद्वतोश् च  
++++(भेदाभेद→)+++द्व्य्-आत्मकत्वाभ्युपगमे  
+निर्वाहकान्तरापेक्षया ऽनवस्था स्यात्।
+</details>
+
+<details><summary>English</summary>
+
+If, moreover, the two aspects on the one hand, and the thing in which they inhere on the other, be admitted to be distinct entities, there will be required a further factor to bring about their difference and non-difference, and we shall thus be led into a _regressus in infinitum._
+</details>
+
+<details><summary>मूलम्</summary>
+
+आकारद्वयतद्वतोश्च द्व्यात्मकत्वाभ्युपगमे निर्वाहकान्तरापेक्षयाऽनवस्था स्यात्।
+</details>
+
+#### जाति-व्यक्ति-प्रतीति-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च सम्प्रतिपन्नैक्य-व्यक्ति-प्रतीतिवत्  
+स-सामान्ये ऽपि वस्तुन्य्  
+एक-रूपा प्रतीतिर् उपजायते,  
+यतः - "इदम् इत्थम्" इति सर्वत्र प्रकार-प्रकारितयैव सर्वा प्रतीतिः।
+</details>
+
+<details><summary>English</summary>
+
+Nor is it a fact that the idea of a thing inclusive of its generic character bears the character of unity, in the same way as the admittedly uniform idea of an individual; for wherever a state of consciousness expresses itself in the form 'this is such and such' it implies the distinction of an attribute or mode, and that to which the attribute or mode belongs.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च सम्प्रतिपन्नैक्यव्यक्तिप्रतीतिवत् ससामान्येऽपि वस्तुन्येकरूपा प्रतीतिरुपजायते, यतः इदमित्थम् इति सर्वत्र प्रकारप्रकारितयैव सर्वा प्रतीतिः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र प्रकारांशो जातिः, प्रकार्य्-अंशो व्यक्तिर् इति नैकाकारा प्रतीतिः।
+</details>
+
+<details><summary>English</summary>
+
+In the case under discussion the genus constitutes the mode, and the individual that to which the mode belongs: the idea does not therefore possess the character of unity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र प्रकारांशो जातिः प्रकार्यंशो व्यक्तिरिति नैकाकारा प्रतीतिः।
+</details>
 
 ## लौकिके वस्तुनीव वैदिकेऽपि भेदाभेदयोः विरुद्धता
 
