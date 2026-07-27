@@ -3581,7 +3581,7 @@ And we have also refuted the fallacious arguments brought forward to prove that 
 </details>
 
 ## आत्मा
-### प्रतीति-द्वयम्?
+### धर्म-धर्मि-प्रतीतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च "अहम् जानामि" इत्य् अस्मत्-प्रत्यये  
@@ -3632,7 +3632,7 @@ By no means, we reply; for this view contradicts the relation of attribute and s
 नैतदेवम्, अहं जानामि इति धर्मधर्मितया प्रत्यक्षप्रतीतिविरोधादेव॥
 </details>
 
-### अहम्-अर्थः प्रत्यक्त्वात्
+### अहम्-अर्थः प्रत्यक्त्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3653,94 +3653,61 @@ Consider also what follows.--
 
 अहम्-अर्थो न चेद् आत्मा  
 प्रत्यक्त्वम् नाऽत्मनो भवेत्।
+अहम्-बुद्ध्या पराग्-अर्थात्  
+प्रत्यग्-अर्थो हि भिद्यते॥
 </details>
 
 <details><summary>English</summary>
 
-'If the I were not the Self, the inwardness of the Self would not exist;
-</details>
-
-<details><summary>मूलम्</summary>
-
-अहमर्थो न चेदात्मा प्रत्यक्त्वं नाऽत्मनो भवेत्।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अहम्-बुद्ध्या पराग्-अर्थात् प्रत्यग्-अर्थो हि भिद्यते॥
-</details>
-
-<details><summary>English</summary>
-
+'If the I were not the Self, the inwardness of the Self would not exist;  
 for it is just the consciousness of the I which separates the inward from the outward.
 </details>
 
 <details><summary>मूलम्</summary>
 
+अहमर्थो न चेदात्मा प्रत्यक्त्वं नाऽत्मनो भवेत्।  
 अहं बुद्ध्या परागर्थात् प्रत्यगर्थो हि भिद्यते॥
 </details>
 
-## मुमुक्षोः अभिसन्धिः
+### मुमुक्षुता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निरस्ताखिल-दुःखो ऽहम् अनन्तानन्द-भाक् स्वराट्।
+निरस्ताखिल-दुःखो ऽहम्  
+अनन्तानन्द-भाक् स्वराट्।  
+भवेयम् इति मोक्षार्थी  
+श्रवणादौ प्रवर्तते॥
 </details>
 
 <details><summary>English</summary>
 
-'"May I, freeing myself from all pain, enter on free possession of endless delight?"
-</details>
-
-<details><summary>मूलम्</summary>
-
-निरस्ताखिलदुःखोऽहमनन्तानन्दभाक् स्वराट्।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-भवेयम् इति मोक्षार्थी श्रवणादौ प्रवर्तते॥
-</details>
-
-<details><summary>English</summary>
-
+'"May I, freeing myself from all pain, enter on free possession of endless delight?"  
 This is the thought which prompts the man desirous of release to apply himself to the study of the sacred texts.
 </details>
 
 <details><summary>मूलम्</summary>
 
+निरस्ताखिलदुःखोऽहमनन्तानन्दभाक् स्वराट्।
 भवेयमिति मोक्षार्थी श्रवणादौ प्रवर्तते॥
 </details>
 
-## शास्त्रप्रामाण्यान्यथानुपपत्त्या अहमर्थ आत्मा
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहम्-अर्थ-विनाशश् चेन् मोक्ष इत्य् अध्यवस्यति।
+अहम्-अर्थ-विनाशश् चेन्  
+मोक्ष इत्य् अध्यवस्यति।  
+अपसर्पेद् असौ मोक्ष-  
+कथा-प्रस्ताव-गन्धतः॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
 
-Were it a settled matter that release consists in the annihilation of the I,
-</details>
-
-<details><summary>मूलम्</summary>
-
-अहमर्थविनाशश्चेन्मोक्ष इत्यध्यवस्यति।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अपसर्पेद् असौ मोक्ष-कथा-प्रस्ताव-गन्धतः॥
-</details>
-
-<details><summary>English</summary>
-
+Were it a settled matter that release consists in the annihilation of the I,  
 the same man would move away as soon as release were only hinted at.
 </details>
 
 <details><summary>मूलम्</summary>
 
+अहमर्थविनाशश्चेन्मोक्ष इत्यध्यवस्यति।
 अपसर्पेदसौ मोक्षकथाप्रस्तावगन्धतः॥
 </details>
 
