@@ -3825,7 +3825,7 @@ And the Sūtrakāra also, in the section beginning with 'Not the Self on account
 
 </details>
 
-### युष्मद्-अस्मद्-भेदः
+### अहमि न युष्मद्-अर्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3845,9 +3845,12 @@ What is established by consciousness of the 'I' is the I itself, while the not-I
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र "अहम् जानामी"ति सिद्धो +++(ऽहम्-अर्थो)+++ ज्ञाता  
-युष्मद्-अर्थ इति वचनम्  
-जननी मे वन्ध्येतिवद् व्याहतार्थम् च। +++(4)+++
+तत्र 
+
+> "अहम् जानामी"ति सिद्धो +++(ऽहम्-अर्थो)+++ ज्ञाता युष्मद्-अर्थ 
+
+इति वचनम्  
+"जननी मे वन्ध्ये"तिवद् व्याहतार्थम् च। +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -3890,14 +3893,17 @@ for to be self-luminous means to have consciousness for one's essential nature.
 चैतन्यस्वभावता हि स्वयम्प्रकाशता।
 </details>
 
+
+### प्रकाश-स्वभावो ऽनन्याधीन-प्रकाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यः प्रकाश-स्वभावः; सो ऽनन्याधीन-प्रकाशः दीप-वत्।
+यः प्रकाश-स्वभावः;  
+सो ऽनन्याधीन-प्रकाशो दीपवत्।
 </details>
 
 <details><summary>English</summary>
 
-And that which has light for its essential nature does not depend for its light on something else. The case is
+And that which has light for its essential nature does not depend for its light on something else. The case is analogous to that of the flame of a lamp or candle. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3905,16 +3911,17 @@ And that which has light for its essential nature does not depend for its light 
 यः प्रकाशस्वभावः; सोऽनन्याधीनप्रकाशः दीपवत्।
 </details>
 
-## दीपस्य स्वयम्प्रकाशताभङ्गपरिहारौ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि दीपादेस् स्व-प्रभा-बल-निर्भासितत्वेनाप्रकाशत्वम् अन्याधीन-प्रकाशत्वम् च।
+न हि दीपादेस्  
+स्व-प्रभा-बल-निर्भासितत्वेन  
+अप्रकाशत्वम्, अन्याधीन-प्रकाशत्वम् च।
 </details>
 
 <details><summary>English</summary>
 
-analogous to that of the flame of a lamp or candle. From the circumstance that the lamp illumines with its light other things, it does not follow either that it is not luminous, or that its luminousness depends on something else;
+From the circumstance that the lamp illumines with its light other things, it does not follow either that it is not luminous, or that its luminousness depends on something else;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3924,7 +3931,10 @@ analogous to that of the flame of a lamp or candle. From the circumstance that t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किम् तर्हि? दीपस् स्वयम्-प्रकाश-स्वभावस् स्वयम् एव प्रकाशते; अन्यान् अपि प्रकाशयति प्रभया॥
+किं तर्हि?  
+दीपस् स्वयम्-प्रकाश-स्वभावस्  
+स्वयम् एव प्रकाशते;  
+अन्यान् अपि प्रकाशयति प्रभया॥
 </details>
 
 <details><summary>English</summary>
@@ -3937,11 +3947,13 @@ the fact rather is that the lamp being of luminous nature shines itself and illu
 किं तर्हि? दीपस्स्वयम्प्रकाशस्वभावस्स्वयमेव प्रकाशते; अन्यानपि प्रकाशयति प्रभया॥
 </details>
 
-## धर्म-धर्मिणोः द्वयोरपि ज्ञानरूपता
+### तेजो द्रव्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतद् उक्तम् भवति – यथैकम् एव तेजः-द्रव्यम् प्रभा-प्रभावद्-रूपेणावतिष्ठते।
+एतद् उक्तम् भवति –  
+यथैकम् एव तेजो-द्रव्यम्  
+प्रभा-प्रभावद्-रूपेणावतिष्ठते,
 </details>
 
 <details><summary>English</summary>
@@ -3956,37 +3968,45 @@ To explain.--The one substance tejas, i.e. fire or heat, subsists in a double fo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्यपि प्रभा प्रभावद्-द्रव्य-गुण-भूता तथाऽपि तेजः-द्रव्यम् एव, न शौक्ल्यादि-वद्-गुणः।
+यद्य् अपि प्रभा प्रभावद्-द्रव्य-गुण-भूता  
+तथाऽपि तेजो-द्रव्यम् एव,  
+न शौक्ल्यादिवद्-गुणः -  
+स्वाश्रयाद् अन्यत्रापि वर्तमानत्वाद्,  
+रूपवत्त्वाच् च 
 </details>
 
 <details><summary>English</summary>
 
-Although light is a quality of luminous substantial things, it is in itself nothing but the substance tejas, not a mere quality like e.g. whiteness;
+Although light is a quality of luminous substantial things, it is in itself nothing but the substance tejas, not a mere quality like e.g. whiteness; for it exists also apart from its substrates, and possesses colour (which is a quality). 
 </details>
 
 <details><summary>मूलम्</summary>
 
-यद्यपि प्रभा प्रभावद्द्रव्यगुणभूता तथाऽपि तेजोद्रव्यमेव, न शौक्ल्यादिवद्गुणः।
+यद्यपि प्रभा प्रभावद्द्रव्यगुणभूता तथाऽपि तेजोद्रव्यमेव, न शौक्ल्यादिवद्गुणः  
+स्वाश्रयादन्यत्रापि वर्तमानत्वाद्रूपवत्त्वाच्च 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वाश्रयाद् अन्यत्रापि वर्तमानत्वाद् रूपवत्त्वाच् च शौक्ल्यादि-वैधर्म्यात्; प्रकाशवत्त्वाच् च तेजः-द्रव्यम् एव; नार्थान्तरम्।
+शौक्ल्यादि-वैधर्म्यात्  
+प्रकाशवत्त्वाच् च  
+तेजो द्रव्यम् एव; नार्थान्तरम्।
 </details>
 
 <details><summary>English</summary>
 
-for it exists also apart from its substrates, and possesses colour (which is a quality). Having thus attributes different from those of qualities such as whiteness and so on, and possessing illumining power, it is the substance tejas, not anything else (e.g. a quality).
+Having thus attributes different from those of qualities such as whiteness and so on, and possessing illumining power, it is the substance tejas, not anything else (e.g. a quality).
 </details>
 
 <details><summary>मूलम्</summary>
 
-स्वाश्रयादन्यत्रापि वर्तमानत्वाद्रूपवत्त्वाच्च शौक्ल्यादिवैधर्म्यात्; प्रकाशवत्त्वाच्च तेजोद्रव्यमेव; नार्थान्तरम्।
+शौक्ल्यादिवैधर्म्यात्; प्रकाशवत्त्वाच्च तेजोद्रव्यमेव; नार्थान्तरम्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकाशवत्त्वम् च स्व-स्वरूपस्य अन्येषाम् च प्रकाशकत्वात्।
+प्रकाशवत्त्वम् च  
+स्व-स्वरूपस्य, +अन्येषाम् च प्रकाशकत्वात्।
 </details>
 
 <details><summary>English</summary>
@@ -3999,9 +4019,10 @@ Illumining power belongs to it, because it lights up itself and other things.
 प्रकाशवत्त्वञ्च स्वस्वरूपस्यान्येषां च प्रकाशकत्वात्।
 </details>
 
+#### गुणवद् व्यवहारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्यास् तु गुणत्व-व्यवहारो नित्य-तद्-आश्रयत्व-तच्-छेषत्व-निबन्धनः॥
+अस्यास्तु गुणत्व-व्यवहारो नित्य-तद्-आश्रयत्व--तच्-छेषत्व-निबन्धनः॥
 </details>
 
 <details><summary>English</summary>
@@ -4014,10 +4035,19 @@ At the same time it is practically treated as a quality because it always has th
 अस्यास्तु गुणत्वव्यवहारो नित्यतदाश्रयत्वतच्छेषत्वनिबन्धनः॥
 </details>
 
+#### नावयव-विकिरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चाश्रयावयवा एव विशीर्णाः प्रचरन्तः प्रभेत्य् उच्यन्ते; मणि-द्युमणि-प्रभृतीनाम् विनाश-प्रसङ्गात्॥
+न चाश्रयावयवा एव विशीर्णाः प्रचरन्तः प्रभेत्य् उच्यन्ते;  
+मणि-द्युमणि-प्रभृतीनाम् विनाश-प्रसङ्गात्॥+++(4)+++
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+भौतिक-विज्ञान-चणाः कथयन्ति यद् अत्र विशीर्णावयवा एव।   
+photon-विकिरणम् भवत्य् एव। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4026,12 +4056,13 @@ This must not be objected to on the ground that what is called light is really n
 
 <details><summary>मूलम्</summary>
 
-न चाश्रयावयवा एव विशीर्णाः प्रचरन्तः [[प्रभेत्यच्यन्ते|प्रभेत्युच्यन्ते]]; [[मणिद्युमिणप्रभृतीनां|मणिद्युमणिप्रभृतीनां]] विनाशप्रसङ्गात्॥
+न चाश्रयावयवा एव विशीर्णाः प्रचरन्तः प्रभेत्युच्यन्ते; मणिद्युमणिप्रभृतीनां विनाशप्रसङ्गात्॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दीपे ऽप्य् अवयवि-प्रतिपत्तिः कदाचिद् अपि न स्यात्।
+दीपे ऽप्य् अवयवि-प्रतिपत्तिः  
+कदाचिद् अपि न स्यात्।
 </details>
 
 <details><summary>English</summary>
@@ -4046,7 +4077,12 @@ Moreover, if the flame of a lamp consisted of dissolving particles of matter, it
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि विशरण-स्वभावावयवा दीपाश् चतुरङ्गुल-मात्रम् नियमेन पिण्डीभूता ऊर्ध्वम् उद्गम्य ततः पश्चाद् युगपद् एव तिर्यग् ऊर्ध्वम् अधश् चैकरूपा विशीर्णाः प्रचरन्तीति शक्यम् वक्तुम् ।
+न हि विशरण-स्वभावावयवा दीपाश्  
+चतुरङ्गुल-मात्रं नियमेन पिण्डीभूता  
+ऊर्ध्वम् उद्गम्य  
+ततः पश्चाद् युगपद् एव  
+तिर्यग् ऊर्ध्वम् अधश् चैकरूपा विशीर्णाः प्रचरन्तीति  
+शक्यम् वक्तुम् ।
 </details>
 
 <details><summary>English</summary>
@@ -4061,7 +4097,10 @@ for no reason can be stated why those particles should regularly rise in an aggl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस् स-प्रभाका एव दीपाः प्रतिक्षणम् उत्पन्ना विनश्यन्तीति पुष्कल-कारण-क्रमोपनिपातात् तद्-विनाशे विनाशाच् चावगम्यते।
+अतस् स-प्रभाका एव दीपाः  
+प्रतिक्षणम् उत्पन्ना विनश्यन्तीति  
+पुष्कल-कारण+++(→तैल-वर्त्तिके)+++-क्रमोपनिपातात्,  
+तद्+++(→कारण)+++-विनाशे विनाशाच् चावगम्यते।
 </details>
 
 <details><summary>English</summary>
@@ -4076,7 +4115,9 @@ The fact is that the flame of the lamp together with its light is produced anew 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रभायास् स्वाश्रय-समीपे प्रकाशाधिक्यम् औष्ण्याधिक्यम् इत्य् आद्य् उपलब्धि-व्यवस्थाप्यम् अग्न्य्-आदीनाम् औष्ण्यादि-वत्।
+प्रभायास् स्वाश्रय-समीपे प्रकाशाधिक्यम् औष्ण्याधिक्यम् इत्य्-आद्य्  
++++(कारण-)+++उपलब्धि-व्यवस्थाप्यम्  
+अग्न्य्-आदीनाम् औष्ण्यादिवत्।
 </details>
 
 <details><summary>English</summary>
@@ -4089,9 +4130,11 @@ This is to be explained by the fact that we perceive a higher degree of light an
 प्रभायास्स्वाश्रयसमीपे प्रकाशाधिक्यमौष्ण्याधिक्यमित्याद्युपलब्धिव्यवस्थाप्यम् अग्न्यादीनामौष्ण्यादिवत्।
 </details>
 
+### स्वयम्-प्रकाशौ धर्मी धर्मश् च
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवम् आत्मा चिद्रूप एव चैतन्य-गुण इति।
+एवम् आत्मा चिद्-रूप+++(=स्वयम्-प्रकाश)+++ एव,  
+चैतन्य+++(=स्वयम्-प्रकाश)+++-गुण इति।
 </details>
 
 <details><summary>English</summary>
@@ -4104,11 +4147,10 @@ Analogously to the lamp, the Self is essentially intelligent (cid-rūpa), and ha
 एवमात्मा चिद्रूप एव चैतन्यगुण इति।
 </details>
 
-## चिद्रूपता स्वयम्प्रकाशतारूपा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चिद्रूपता हि स्वयम्-प्रकाशता॥
+चिद्-रूपता हि स्वयम्-प्रकाशता॥
 </details>
 
 <details><summary>English</summary>
@@ -4138,7 +4180,11 @@ There are many scriptural texts declaring this, compare e.g.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स यथा सैन्धव-घनो ऽनन्तरो ऽबाह्यः कृत्स्नो रस-घन एव, एवम् वा अरे ऽयम् आत्मा ऽनन्तरो ऽबाह्यः कृत्स्नः प्रज्ञान-घन एव (बृ.उ.६.४.१३), विज्ञान-घन एव (बृ.उ.४.४.१२),
+> स यथा सैन्धव-घनो  
+ऽनन्तरो ऽबाह्यः कृत्स्नो रस-घन एव,  
+एवम् वा अरे ऽयम् आत्मा  
+ऽनन्तरो ऽबाह्यः कृत्स्नः प्रज्ञान-घन एव (बृ.उ.६.४.१३),  
+विज्ञान-घन एव (बृ.उ.४.४.१२),
 </details>
 
 <details><summary>English</summary>
