@@ -3713,82 +3713,53 @@ the same man would move away as soon as release were only hinted at.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मयि नष्टे ऽपि मत्तो ऽन्या काचिज् ज्ञप्तिर् अवस्थिता।
+मयि नष्टे ऽपि मत्तो ऽन्या  
+काचिज् ज्ञप्तिर् अवस्थिता।  
+इति तत्-प्राप्तये यत्नः  
+कस्यापि न भविष्यति॥ +++(4)+++
 </details>
 
 <details><summary>English</summary>
 
-"When I myself have perished, there still persists some consciousness different from me;"
-</details>
-
-<details><summary>मूलम्</summary>
-
-मयि नष्टेऽपि मत्तोऽन्या काचिज्ज्ञप्तिरवस्थिता।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इति तत्-प्राप्तये यत्नः कस्यापि न भविष्यति॥
-</details>
-
-<details><summary>English</summary>
-
+"When I myself have perished, there still persists some consciousness different from me;"  
 to bring this about nobody truly will exert himself.
 </details>
 
 <details><summary>मूलम्</summary>
 
+मयि नष्टेऽपि मत्तोऽन्या काचिज्ज्ञप्तिरवस्थिता।
 इति तत्प्राप्तये यत्नः कस्यापि न भविष्यति॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व-सम्बन्धितया ह्य् अस्यास् सत्ता विज्ञप्तितादि च।
+स्व-सम्बन्धितया ह्य् अस्यास् +++(विज्ञप्त्याः)+++  
+सत्ता विज्ञप्तिताऽदि च।  
+स्व-सम्बन्ध-वियोगे तु  
+ज्ञप्तिर् एव न सिद्ध्यति॥+++(4)+++  
+छेत्तुश् छेद्यस्य चाभावे  
+छेदनादेर् अ-सिद्धिवत्।  
 </details>
 
 <details><summary>English</summary>
 
-'Moreover the very existence of consciousness, its being a consciousness at all,
-</details>
-
-<details><summary>मूलम्</summary>
-
-स्वसम्बन्धितया ह्यस्यास्सत्ता विज्ञप्तितादि च।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स्व-सम्बन्ध-वियोगे तु ज्ञप्तिर् एव न सिद्ध्यति॥
-</details>
-
-<details><summary>English</summary>
-
-and its being self-luminous, depend on its connexion with a Self; when that connexion is dissolved, consciousness itself cannot be established,
-</details>
-
-<details><summary>मूलम्</summary>
-
-स्वसम्बन्धवियोगे तु ज्ञप्तिरेव न सिद्ध्यति॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-छेत्तुश् छेद्यस्य चाभावे छेदनादेर् असिद्धिवत्।
-</details>
-
-<details><summary>English</summary>
-
+'Moreover the very existence of consciousness, its being a consciousness at all,  
+and its being self-luminous, depend on its connexion with a Self; when that connexion is dissolved, consciousness itself cannot be established,  
 not any more than the act of cutting can take place when there is no person to cut and nothing to be cut.
 </details>
 
 <details><summary>मूलम्</summary>
 
-छेत्तुश्छेद्यस्य चाभावे छेदनादेरसिद्धिवत्।
+स्वसम्बन्धितया ह्यस्यास्सत्ता विज्ञप्तितादि च।
+स्वसम्बन्धवियोगे तु ज्ञप्तिरेव न सिद्ध्यति॥
+छेत्तुश्छेद्यस्य चाभावे छेदनादेरसिद्धिवत्।  
 </details>
 
+### अहम्-अर्थो ज्ञाता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो ऽहम्-अर्थो ज्ञातैव प्रत्यग्-आत्मेति निश्चितम्॥
+अतो ऽहम्-अर्थो ज्ञातैव  
+प्रत्यग्-आत्मेति निश्चितम्॥
 </details>
 
 <details><summary>English</summary>
@@ -3803,12 +3774,13 @@ Hence it is certain that the I, i.e. the knowing subject, is the inward Self.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विज्ञातारम् अरे (बृ.४.४.१४) केन जानात्य् एवेति च श्रुतिः।
+"विज्ञातारम् अरे केन  
+जानात्य् एवे"ति च श्रुतिः (बृ.४.४.१४) ।
 </details>
 
 <details><summary>English</summary>
 
-This scripture confirms when saying 'By what should he know the knowcr?' (Br̥. Up. II, 4, 15);
+This scripture confirms when saying 'By what should he know the knower?' (Br̥. Up. II, 4, 15);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3818,7 +3790,8 @@ This scripture confirms when saying 'By what should he know the knowcr?' (Br̥. 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतद् यो वेत्ति तम् प्राहुः क्षेत्र-ज्ञ (भ.गी.१३.१) इति च स्मृतिः॥
+एतद् यो वेत्ति तम् प्राहुः  
+क्षेत्र-ज्ञ इति च स्मृतिः (भ.गी.१३.१) ॥ 
 </details>
 
 <details><summary>English</summary>
@@ -3833,39 +3806,31 @@ and Smr̥ti also, 'Him who knows this they call the knower of the body' (Bha. G�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाऽत्मा श्रुतेः (ब्र.सू.२.३.१८) इत्य् आरभ्य सूत्र-कारो ऽपि वक्ष्यति।
+"नाऽत्मा श्रुतेर्" (ब्र.सू.२.३.१८) इत्य् आरभ्य  
+सूत्र-कारो ऽपि वक्ष्यति।  
+(ब्र.सू.२.३.१९) "ज्ञो ऽत एवे"त्य् अतो नाऽत्मा  
+ज्ञप्ति-मात्रम् इति स्थितम्॥
 </details>
 
 <details><summary>English</summary>
 
-And the Sūtrakāra also, in the section beginning with 'Not the Self on account of scriptural statement' (II, 3, 17), will say
-</details>
-
-<details><summary>मूलम्</summary>
-
-नाऽत्मा श्रुतेः (ब्र.सू.२.३.१८) इत्यारभ्य सूत्रकारोऽपि वक्ष्यति।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ज्ञो ऽत एव (ब्र.सू.२.३.१९) इत्य् अतः नाऽत्मा ज्ञप्ति-मात्रम् इति स्थितम्॥
-</details>
-
-<details><summary>English</summary>
-
+And the Sūtrakāra also, in the section beginning with 'Not the Self on account of scriptural statement' (II, 3, 17), will say  
 'For this very reason (it is) a knower' (II, 3, 18); and from this it follows that the Self is not mere consciousness.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ज्ञोऽत एव (ब्र.सू.२.३.१९) इत्यतो नाऽत्मा ज्ञप्तिमात्रमिति स्थितम्॥
+नाऽत्मा श्रुतेः (ब्र.सू.२.३.१८) इत्यारभ्य सूत्रकारोऽपि वक्ष्यति।  
+ज्ञोऽत एवेत्यतो (ब्र.सू.२.३.१९) नाऽत्मा ज्ञप्तिमात्रमिति स्थितम्॥
+
 </details>
 
-## युष्मदस्मदर्थयोः ऐक्यं व्याहतम्
+### युष्मद्-अस्मद्-भेदः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहम् प्रत्यय-सिद्धो ह्य् अस्मद्-अर्थः; युष्मत्-प्रत्यय-विषयो युष्मद्-अर्थः।
+अहम्-प्रत्यय-सिद्धो ह्य् अस्मद्-अर्थः;  
+युष्मत्-प्रत्यय-विषयो युष्मद्-अर्थः।
 </details>
 
 <details><summary>English</summary>
@@ -3880,7 +3845,9 @@ What is established by consciousness of the 'I' is the I itself, while the not-I
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्राहम् जानामीति सिद्धो ज्ञाता युष्मद्-अर्थ इति वचनम् जननी मे वन्ध्येति-वद् व्याहतार्थम् च।
+तत्र "अहम् जानामी"ति सिद्धो +++(ऽहम्-अर्थो)+++ ज्ञाता  
+युष्मद्-अर्थ इति वचनम्  
+जननी मे वन्ध्येतिवद् व्याहतार्थम् च। +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -3895,7 +3862,7 @@ hence to say that the knowing subject, which is established by the state of cons
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चासौ ज्ञाताऽहमर्थो ऽन्याधीन-प्रकाशः स्वयम्-प्रकाशत्वात्।
+न चासौ ज्ञाता ऽहम्-अर्थो ऽन्याधीन-प्रकाशः - स्वयम्-प्रकाशत्वात्।
 </details>
 
 <details><summary>English</summary>
