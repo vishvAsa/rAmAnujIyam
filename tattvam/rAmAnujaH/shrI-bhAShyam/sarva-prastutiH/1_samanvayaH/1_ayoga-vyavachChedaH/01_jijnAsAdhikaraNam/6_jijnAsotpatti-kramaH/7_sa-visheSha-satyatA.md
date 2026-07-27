@@ -3214,7 +3214,7 @@ We moreover must admit the following alternative: consciousness is either proved
 अपि च संवित्सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगनकुसुमादिवत्। </details>
 
 ## आत्म-संविद्-भेदः
-
+### कम् प्रति संवित्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सिद्धिर् एव संविद्" इति चेत्;  
@@ -3233,7 +3233,8 @@ Let it then be said that consciousness is proof (siddhiḥ) itself. Proof of wha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि न कस्यचित् किञ्चित् प्रति; सा तर्हि न सिद्धिः।
+यदि न कस्यचित् किञ्चित् प्रति;  
+सा तर्हि न सिद्धिः।
 </details>
 
 <details><summary>English</summary>
@@ -3248,7 +3249,8 @@ If no definite answer can be given to these two questions, consciousness cannot 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिद्धिर् हि पुत्रत्वम् इव कस्यचित् किञ्चित् प्रति भवति।
+सिद्धिर् हि पुत्रत्वम् इव 
+कस्यचित् किञ्चित् प्रति भवति।
 </details>
 
 <details><summary>English</summary>
@@ -3263,7 +3265,7 @@ for 'proof' is a relative notion, like 'son.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आत्मन इति चेत्; को ऽयम् आत्मा?
+"आत्मन" इति चेत्; को ऽयम् आत्मा?
 </details>
 
 <details><summary>English</summary>
@@ -3276,9 +3278,10 @@ You will perhaps reply 'Proof to the Self'; and if we go on asking 'But what is 
 आत्मन इति चेत्; कोऽयमात्मा?
 </details>
 
+### न संवित्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु संविद् एवेत्य् उक्तम्।
+> ननु संविद् एवेत्य् उक्तम्।
 </details>
 
 <details><summary>English</summary>
@@ -3308,7 +3311,10 @@ True, we reply, you said so; but it certainly was not well said.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि; कस्यचित् पुरुषस्य किञ्चिद् अर्थ-जातं प्रति सिद्धिर्-रूपा तत्-सम्बन्धिनी सा संवित् स्वयम् कथम् इवाऽत्म-भावम् अनुभवेत्?॥
+तथा हि; कस्यचित् पुरुषस्य  
+किञ्चिद् अर्थ-जातं प्रति सिद्धि-रूपा  
+तत्-सम्बन्धिनी सा संवित्  
+स्वयम् कथम् इवात्म-भावम् अनुभवेत्?॥
 </details>
 
 <details><summary>English</summary>
@@ -3321,11 +3327,20 @@ For if it is the nature of consciousness to be 'proof' ('light,' 'enlightenment'
 तथा हि; कस्यचित्पुरुषस्य किञ्चिदर्थजातं प्रति सिद्धिरूपा तत्सम्बन्धिनी सा संवित्स्वयं कथमिवाऽत्मभावमनुभवेत्?॥
 </details>
 
-## संविदः अनात्मत्वनिष्कर्षणम्
+### संविल्-लक्षणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतद् उक्तम् भवति – अनुभूतिर् इति स्वाश्रयम् प्रति स्व-सद्भावेनैव कस्यचिद् वस्तुनो व्यवहारानुगुण्यापादन-स्वभावो ज्ञानावगति-संविद्-आद्य्-अपर-नामा सकर्मको ऽनुभवितुर् आत्मनो धर्म-विशेषो घटम् अहम् जानामीमम् अर्थम् अवगच्छामि पटम् अहम् संवेद्मि इति सर्वेषाम् आत्म-साक्षिकः प्रसिद्धः।
+एतद् उक्तम् भवति –  
+अनुभूतिर् इति  
+स्वाश्रयम् प्रति स्व-सद्भावेनैव  
+कस्यचिद् वस्तुनो व्यवहारानुगुण्यापादन-स्वभावो  
+ज्ञानावगति-संविद्-आद्य्-अपर-नामा  
+सकर्मको ऽनुभवितुर् आत्मनो धर्म-विशेषो  
+"घटम् अहम् जानामि",  
+"इमम् अर्थम् अवगच्छामि"  
+"पटम् अहम् संवेद्मि"  
+इति सर्वेषाम् आत्म-साक्षिकः प्रसिद्धः।
 </details>
 
 <details><summary>English</summary>
@@ -3340,7 +3355,8 @@ To explain: the essential character of consciousness or knowledge is that by its
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतत्-स्वभावतया हि तस्यास् स्वयम्-प्रकाशता भवताप् उपपादिता।
+एतत्-स्वभावतया हि  
+तस्यास् स्वयम्-प्रकाशता भवताप्य् उपपादिता।
 </details>
 
 <details><summary>English</summary>
@@ -3353,9 +3369,11 @@ That such is the essential nature of consciousness you yourself admit; for you h
 एतत्स्वभावतया हि तस्यास्स्वयम्प्रकाशता भवताऽप्युपपादिता।
 </details>
 
+### संविदि कर्मत्व-कर्तृत्वे न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्य सकर्मकस्य कर्तृ-धर्म-विशेषस्य कर्मत्ववत् कर्तृत्वम् अपि दुर्घटम् इति॥
+अस्य स-कर्मकस्य कर्तृ-धर्म-विशेषस्य  
+कर्मत्ववत्, कर्तृत्वम् अपि दुर्घटम् इति॥
 </details>
 
 <details><summary>English</summary>
@@ -3368,11 +3386,13 @@ Of this consciousness which thus clearly presents itself as the attribute of an 
 अस्य सकर्मकस्य कर्तृधर्मविशेषस्य कर्मत्ववत्कर्तृत्वमपि दुर्घटमिति॥
 </details>
 
-## स्थिरत्वास्थिरत्वे अपि संविदनात्मत्वसाधके
-
+#### स्थिरत्व-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि; अस्य कर्तुस् स्थिरत्वम् कर्तृ-धर्मस्य संवेदनाख्यस्य सुख-दुःखादेर् इवोत्पत्ति-स्थिति-निरोधाश् च प्रत्यक्षम् ईक्ष्यन्ते।
+तथा हि; अस्य कर्तुस् स्थिरत्वम्।  
+कर्तृ-धर्मस्य संवेदनाख्यस्य  
+सुख-दुःखादेर् इव,  
+उत्पत्ति-स्थिति-निरोधाश् च प्रत्यक्षम् ईक्ष्यन्ते।
 </details>
 
 <details><summary>English</summary>
@@ -3387,7 +3407,9 @@ For we clearly see that this agent (the subject of consciousness) is permanent (
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कर्तृ-स्थैर्यम् तावत् स एव अयम् अर्थः पूर्वम् मयाऽनुभूतः इति प्रत्यभिज्ञा-प्रत्यक्ष-सिद्धम्।
+कर्तृ-स्थैर्यम् तावत्  
+"स एवायम् अर्थः पूर्वम् मयाऽनुभूतः"  
+इति-प्रत्यभिज्ञा-प्रत्यक्ष-सिद्धम्।
 </details>
 
 <details><summary>English</summary>
@@ -3402,7 +3424,9 @@ The permanency of the conscious subject is proved by the fact of recognition, 'T
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहम् जानामि, अहम् अज्ञासिषम्, ज्ञातुर् एव ममेदानीम् ज्ञानम् नष्टम् इति च संविद्-उत्पत्त्य्-आदयः प्रत्यक्ष-सिद्धा इति कुतः तद्-ऐक्यम्।
+"अहम् जानामि", "अहम् अज्ञासिषम्",  
+"ज्ञातुर् एव ममेदानीम् ज्ञानम् नष्टम्"  
+इति च संविद्-उत्पत्त्य्-आदयः प्रत्यक्ष-सिद्धा इति कुतः तद्-ऐक्यम्।
 </details>
 
 <details><summary>English</summary>
@@ -3417,7 +3441,13 @@ The non-permanency of consciousness, on the other hand, is proved by thought exp
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवम् क्षण-भङ्गिन्यास् संविद आत्मत्वाभ्युपगमे पूर्वेद्युर् दृष्टम् अपरेद्युः इदम् अहम् अदर्शम् इति प्रत्यभिज्ञा च न घटते; अन्येनानुभूतस्य न ह्य् अन्येन प्रत्यभिज्ञान-सम्भवः॥
+एवम् क्षण-भङ्गिन्यास् संविद आत्मत्वाभ्युपगमे  
+
+> पूर्वेद्युर् दृष्टम्  
+अपरेद्युर् इदम् अहम् अदर्शम् 
+
+इति प्रत्यभिज्ञा च न घटते;  
+अन्येनानुभूतस्य न ह्य् अन्येन प्रत्यभिज्ञान-सम्भवः॥
 </details>
 
 <details><summary>English</summary>
@@ -3430,11 +3460,13 @@ If consciousness which changes every moment were admitted to constitute the cons
 एवं क्षणभङ्गिन्यास्संविद आत्मत्वाभ्युपगमे पूर्वेद्युर्दृष्टमपरेद्युः इदहमदर्शम् इति प्रत्यभिज्ञा च न घटते; अन्येनानुभूतस्य न ह्यन्येन प्रत्यभिज्ञानसम्भवः॥
 </details>
 
-## संविदः स्थिरत्वेऽपि अनात्मता
+### संवित्-स्थिरत्वेऽपि प्रत्यभिज्ञा न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च अनुभूतेर् आत्मत्वाभ्युपगमे तस्याः नित्यत्वे ऽपि प्रतिसन्धानासम्भवस् तद्-अवस्थः।
+किञ्च अनुभूतेर् आत्मत्वाभ्युपगमे  
+तस्याः नित्यत्वे ऽपि  
+प्रतिसन्धानासम्भवस् तद्-अवस्थः।
 </details>
 
 <details><summary>English</summary>
@@ -3449,31 +3481,22 @@ And even if consciousness were identified with the conscious subject and acknowl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रतिसन्धानम् हि पूर्वापर-काल-स्थायिनम् अनुभवितारम् उपस्थापयति; नानुभूति-मात्रम्।
+प्रतिसन्धानम् हि  
+पूर्वापर-काल-स्थायिनम् अनुभवितारम् उपस्थापयति;  
+नानुभूति-मात्रम् -  
+"अहम् एव इदम् पूर्वम् अप्य् अन्वभूवम्" इति।
 </details>
 
 <details><summary>English</summary>
 
 For recognition implies a conscious subject persisting from the earlier to the later moment, and not merely consciousness.
-</details>
-
-<details><summary>मूलम्</summary>
-
-प्रतिसन्धानं हि पूर्वापरकालस्थायिनमनुभवितारमुपस्थापयति; नानुभूतिमात्रम्।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अहम् एव इदम् पूर्वम् अप्य् अन्वभूवम् इति।
-</details>
-
-<details><summary>English</summary>
 
 Its expression is 'I myself perceived this thing on a former occasion.'
 </details>
 
 <details><summary>मूलम्</summary>
 
+प्रतिसन्धानं हि पूर्वापरकालस्थायिनमनुभवितारमुपस्थापयति; नानुभूतिमात्रम् - 
 अहमेवेदं पूर्वमप्यन्वभूवमिति।
 </details>
 
@@ -3492,8 +3515,6 @@ According to your view the quality of being a conscious agent cannot at all belo
 भवतोऽप्यनुभूतेर्न ह्यनुभवितृत्वमिष्टम्।
 </details>
 
-## क्रियायाः अकर्तृत्वात् संविदः अनात्मत्वम्
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुभूतिर् अनुभूति-मात्रम् एव।
@@ -3511,7 +3532,9 @@ for consciousness, you say, is just consciousness and nothing more.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संविन् नाम काचिन् निराश्रया निर्-विषया वाऽत्यन्तानुपलब्धेर् न सम्भवतीत्य् उक्तम्।
+संविन् नाम  
+काचिन् निराश्रया निर्विषया वा  
+ऽत्यन्तानुपलब्धेर् न सम्भवतीत्य् उक्तम्।
 </details>
 
 <details><summary>English</summary>
@@ -3524,9 +3547,11 @@ And that there exists a pure consciousness devoid of substrate and objects alike
 संविन्नाम काचिन्निराश्रया निर्विषया वाऽत्यन्तानुपलब्धेर्न सम्भवतीत्युक्तम्।
 </details>
 
+### उपलब्धि-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उभयाभ्युपेता संविद् एवाऽत्मेत्य् उपलब्धि-पराहतम्।
+"उभयाभ्युपेता संविद् एवात्मे"त्य्  
+उपलब्धि-पराहतम्।
 </details>
 
 <details><summary>English</summary>
@@ -3541,7 +3566,8 @@ And that the consciousness admitted by both of us should be the Self is refuted 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुभूति-मात्रम् एव परमार्थ इति निष्कर्षक-हेत्व्-आभासास् च निराकृताः॥
+"अनुभूति-मात्रम् एव परमार्थ"  
+इति निष्कर्षक-हेत्व्-आभासास् च निराकृताः +++(अनित्यत्व-विकारादि-प्रतिपादनैः)+++॥
 </details>
 
 <details><summary>English</summary>
@@ -3554,11 +3580,13 @@ And we have also refuted the fallacious arguments brought forward to prove that 
 अनुभूतिमात्रमेव परमार्थ इति निष्कर्षकहेत्वाभासाश्च निराकृताः॥
 </details>
 
-## आत्मनः अहमर्थत्वं प्रत्यक्त्वाबाधकम्
-
+## आत्मा
+### धर्म-धर्मि-प्रतीतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु च अहम् जानामि इत्य् अस्मत्-प्रत्यये यो ऽनिदम्-अंशः प्रकाशैक-रसश् चित्-पदार्थस् स आत्मा।
+> ननु च "अहम् जानामि" इत्य् अस्मत्-प्रत्यये  
+यो ऽनिदम्-अंशः प्रकाशैक-रसश् चित्-पदार्थस्  
+स आत्मा।
 </details>
 
 <details><summary>English</summary>
@@ -3573,7 +3601,8 @@ And we have also refuted the fallacious arguments brought forward to prove that 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मिंस् तद्-बल-निर्भासिततया युष्मद्-अर्थ-लक्षणो ऽहम् जानामीति सिध्यन्न् अहम्-अर्थश् चित्-मात्रातिरेकी युष्मद्-अर्थ एव।
+> तस्मिंस् तद्-बल-निर्भासिततया  
+युष्मद्-अर्थ-लक्षणो "ऽहं जानामी"ति सिध्यन्न् अहम्-अर्थश् चिन्-मात्रातिरेकी युष्मद्-अर्थ एव।
 </details>
 
 <details><summary>English</summary>
@@ -3588,7 +3617,9 @@ the objective element (yushmad-artha) on the other hand, which is established th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैतद् एवम्, अहम् जानामि इति धर्म-धर्मितया प्रत्यक्ष-प्रतीति-विरोधाद् एव॥
+नैतद् एवम्,  
+"अहम् जानामि" इति धर्म-धर्मितया  
+प्रत्यक्ष-प्रतीति-विरोधाद् एव॥
 </details>
 
 <details><summary>English</summary>
@@ -3601,7 +3632,7 @@ By no means, we reply; for this view contradicts the relation of attribute and s
 नैतदेवम्, अहं जानामि इति धर्मधर्मितया प्रत्यक्षप्रतीतिविरोधादेव॥
 </details>
 
-## प्रत्यक्त्वात् अहमर्थ एवात्मा
+### अहम्-अर्थः प्रत्यक्त्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3620,176 +3651,115 @@ Consider also what follows.--
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहम्-अर्थो न चेद् आत्मा प्रत्यक्त्वम् नाऽत्मनो भवेत्।
+अहम्-अर्थो न चेद् आत्मा  
+प्रत्यक्त्वम् नाऽत्मनो भवेत्।
+अहम्-बुद्ध्या पराग्-अर्थात्  
+प्रत्यग्-अर्थो हि भिद्यते॥
 </details>
 
 <details><summary>English</summary>
 
-'If the I were not the Self, the inwardness of the Self would not exist;
-</details>
-
-<details><summary>मूलम्</summary>
-
-अहमर्थो न चेदात्मा प्रत्यक्त्वं नाऽत्मनो भवेत्।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अहम् बुद्ध्या पराग्-अर्थात् प्रत्यग्-अर्थो हि भिद्यते॥
-</details>
-
-<details><summary>English</summary>
-
+'If the I were not the Self, the inwardness of the Self would not exist;  
 for it is just the consciousness of the I which separates the inward from the outward.
 </details>
 
 <details><summary>मूलम्</summary>
 
+अहमर्थो न चेदात्मा प्रत्यक्त्वं नाऽत्मनो भवेत्।  
 अहं बुद्ध्या परागर्थात् प्रत्यगर्थो हि भिद्यते॥
 </details>
 
-## मुमुक्षोः अभिसन्धिः
+### मुमुक्षुता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निरस्ताखिल-दुःखो ऽहम् अनन्तानन्द-भाक् स्वराट्।
+निरस्ताखिल-दुःखो ऽहम्  
+अनन्तानन्द-भाक् स्वराट्।  
+भवेयम् इति मोक्षार्थी  
+श्रवणादौ प्रवर्तते॥
 </details>
 
 <details><summary>English</summary>
 
-'"May I, freeing myself from all pain, enter on free possession of endless delight?"
-</details>
-
-<details><summary>मूलम्</summary>
-
-निरस्ताखिलदुःखोऽहमनन्तानन्दभाक् स्वराट्।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-भवेयम् इति मोक्षार्थी श्रवणादौ प्रवर्तते॥
-</details>
-
-<details><summary>English</summary>
-
+'"May I, freeing myself from all pain, enter on free possession of endless delight?"  
 This is the thought which prompts the man desirous of release to apply himself to the study of the sacred texts.
 </details>
 
 <details><summary>मूलम्</summary>
 
+निरस्ताखिलदुःखोऽहमनन्तानन्दभाक् स्वराट्।
 भवेयमिति मोक्षार्थी श्रवणादौ प्रवर्तते॥
 </details>
 
-## शास्त्रप्रामाण्यान्यथानुपपत्त्या अहमर्थ आत्मा
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहम्-अर्थ-विनाशश् चेन् मोक्ष इत्य् अध्यवस्यति।
+अहम्-अर्थ-विनाशश् चेन्  
+मोक्ष इत्य् अध्यवस्यति।  
+अपसर्पेद् असौ मोक्ष-  
+कथा-प्रस्ताव-गन्धतः॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
 
-Were it a settled matter that release consists in the annihilation of the I,
-</details>
-
-<details><summary>मूलम्</summary>
-
-अहमर्थविनाशश्चेन्मोक्ष इत्यध्यवस्यति।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अपसर्पेद् असौ मोक्ष-कथा-प्रस्ताव-गन्धतः॥
-</details>
-
-<details><summary>English</summary>
-
+Were it a settled matter that release consists in the annihilation of the I,  
 the same man would move away as soon as release were only hinted at.
 </details>
 
 <details><summary>मूलम्</summary>
 
+अहमर्थविनाशश्चेन्मोक्ष इत्यध्यवस्यति।
 अपसर्पेदसौ मोक्षकथाप्रस्तावगन्धतः॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मयि नष्टे ऽपि मत्तो ऽन्या काचिज् ज्ञप्तिर् अवस्थिता।
+मयि नष्टे ऽपि मत्तो ऽन्या  
+काचिज् ज्ञप्तिर् अवस्थिता।  
+इति तत्-प्राप्तये यत्नः  
+कस्यापि न भविष्यति॥ +++(4)+++
 </details>
 
 <details><summary>English</summary>
 
-"When I myself have perished, there still persists some consciousness different from me;"
-</details>
-
-<details><summary>मूलम्</summary>
-
-मयि नष्टेऽपि मत्तोऽन्या काचिज्ज्ञप्तिरवस्थिता।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इति तत्-प्राप्तये यत्नः कस्यापि न भविष्यति॥
-</details>
-
-<details><summary>English</summary>
-
+"When I myself have perished, there still persists some consciousness different from me;"  
 to bring this about nobody truly will exert himself.
 </details>
 
 <details><summary>मूलम्</summary>
 
+मयि नष्टेऽपि मत्तोऽन्या काचिज्ज्ञप्तिरवस्थिता।
 इति तत्प्राप्तये यत्नः कस्यापि न भविष्यति॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व-सम्बन्धितया ह्य् अस्यास् सत्ता विज्ञप्तितादि च।
+स्व-सम्बन्धितया ह्य् अस्यास् +++(विज्ञप्त्याः)+++  
+सत्ता विज्ञप्तिताऽदि च।  
+स्व-सम्बन्ध-वियोगे तु  
+ज्ञप्तिर् एव न सिद्ध्यति॥+++(4)+++  
+छेत्तुश् छेद्यस्य चाभावे  
+छेदनादेर् अ-सिद्धिवत्।  
 </details>
 
 <details><summary>English</summary>
 
-'Moreover the very existence of consciousness, its being a consciousness at all,
-</details>
-
-<details><summary>मूलम्</summary>
-
-स्वसम्बन्धितया ह्यस्यास्सत्ता विज्ञप्तितादि च।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स्व-सम्बन्ध-वियोगे तु ज्ञप्तिर् एव न सिद्ध्यति॥
-</details>
-
-<details><summary>English</summary>
-
-and its being self-luminous, depend on its connexion with a Self; when that connexion is dissolved, consciousness itself cannot be established,
-</details>
-
-<details><summary>मूलम्</summary>
-
-स्वसम्बन्धवियोगे तु ज्ञप्तिरेव न सिद्ध्यति॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-छेत्तुश् छेद्यस्य चाभावे छेदनादेर् असिद्धिवत्।
-</details>
-
-<details><summary>English</summary>
-
+'Moreover the very existence of consciousness, its being a consciousness at all,  
+and its being self-luminous, depend on its connexion with a Self; when that connexion is dissolved, consciousness itself cannot be established,  
 not any more than the act of cutting can take place when there is no person to cut and nothing to be cut.
 </details>
 
 <details><summary>मूलम्</summary>
 
-छेत्तुश्छेद्यस्य चाभावे छेदनादेरसिद्धिवत्।
+स्वसम्बन्धितया ह्यस्यास्सत्ता विज्ञप्तितादि च।
+स्वसम्बन्धवियोगे तु ज्ञप्तिरेव न सिद्ध्यति॥
+छेत्तुश्छेद्यस्य चाभावे छेदनादेरसिद्धिवत्।  
 </details>
 
+### अहम्-अर्थो ज्ञाता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो ऽहम्-अर्थो ज्ञातैव प्रत्यग्-आत्मेति निश्चितम्॥
+अतो ऽहम्-अर्थो ज्ञातैव  
+प्रत्यग्-आत्मेति निश्चितम्॥
 </details>
 
 <details><summary>English</summary>
@@ -3804,12 +3774,13 @@ Hence it is certain that the I, i.e. the knowing subject, is the inward Self.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विज्ञातारम् अरे (बृ.४.४.१४) केन जानात्य् एवेति च श्रुतिः।
+"विज्ञातारम् अरे केन  
+जानात्य् एवे"ति च श्रुतिः (बृ.४.४.१४) ।
 </details>
 
 <details><summary>English</summary>
 
-This scripture confirms when saying 'By what should he know the knowcr?' (Br̥. Up. II, 4, 15);
+This scripture confirms when saying 'By what should he know the knower?' (Br̥. Up. II, 4, 15);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3819,7 +3790,8 @@ This scripture confirms when saying 'By what should he know the knowcr?' (Br̥. 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतद् यो वेत्ति तम् प्राहुः क्षेत्र-ज्ञ (भ.गी.१३.१) इति च स्मृतिः॥
+एतद् यो वेत्ति तम् प्राहुः  
+क्षेत्र-ज्ञ इति च स्मृतिः (भ.गी.१३.१) ॥ 
 </details>
 
 <details><summary>English</summary>
@@ -3834,39 +3806,31 @@ and Smr̥ti also, 'Him who knows this they call the knower of the body' (Bha. G�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाऽत्मा श्रुतेः (ब्र.सू.२.३.१८) इत्य् आरभ्य सूत्र-कारो ऽपि वक्ष्यति।
+"नाऽत्मा श्रुतेर्" (ब्र.सू.२.३.१८) इत्य् आरभ्य  
+सूत्र-कारो ऽपि वक्ष्यति।  
+(ब्र.सू.२.३.१९) "ज्ञो ऽत एवे"त्य् अतो नाऽत्मा  
+ज्ञप्ति-मात्रम् इति स्थितम्॥
 </details>
 
 <details><summary>English</summary>
 
-And the Sūtrakāra also, in the section beginning with 'Not the Self on account of scriptural statement' (II, 3, 17), will say
-</details>
-
-<details><summary>मूलम्</summary>
-
-नाऽत्मा श्रुतेः (ब्र.सू.२.३.१८) इत्यारभ्य सूत्रकारोऽपि वक्ष्यति।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ज्ञो ऽत एव (ब्र.सू.२.३.१९) इत्य् अतः नाऽत्मा ज्ञप्ति-मात्रम् इति स्थितम्॥
-</details>
-
-<details><summary>English</summary>
-
+And the Sūtrakāra also, in the section beginning with 'Not the Self on account of scriptural statement' (II, 3, 17), will say  
 'For this very reason (it is) a knower' (II, 3, 18); and from this it follows that the Self is not mere consciousness.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ज्ञोऽत एव (ब्र.सू.२.३.१९) इत्यतो नाऽत्मा ज्ञप्तिमात्रमिति स्थितम्॥
+नाऽत्मा श्रुतेः (ब्र.सू.२.३.१८) इत्यारभ्य सूत्रकारोऽपि वक्ष्यति।  
+ज्ञोऽत एवेत्यतो (ब्र.सू.२.३.१९) नाऽत्मा ज्ञप्तिमात्रमिति स्थितम्॥
+
 </details>
 
-## युष्मदस्मदर्थयोः ऐक्यं व्याहतम्
+### युष्मद्-अस्मद्-भेदः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहम् प्रत्यय-सिद्धो ह्य् अस्मद्-अर्थः; युष्मत्-प्रत्यय-विषयो युष्मद्-अर्थः।
+अहम्-प्रत्यय-सिद्धो ह्य् अस्मद्-अर्थः;  
+युष्मत्-प्रत्यय-विषयो युष्मद्-अर्थः।
 </details>
 
 <details><summary>English</summary>
@@ -3881,7 +3845,9 @@ What is established by consciousness of the 'I' is the I itself, while the not-I
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्राहम् जानामीति सिद्धो ज्ञाता युष्मद्-अर्थ इति वचनम् जननी मे वन्ध्येति-वद् व्याहतार्थम् च।
+तत्र "अहम् जानामी"ति सिद्धो +++(ऽहम्-अर्थो)+++ ज्ञाता  
+युष्मद्-अर्थ इति वचनम्  
+जननी मे वन्ध्येतिवद् व्याहतार्थम् च। +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -3896,7 +3862,7 @@ hence to say that the knowing subject, which is established by the state of cons
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चासौ ज्ञाताऽहमर्थो ऽन्याधीन-प्रकाशः स्वयम्-प्रकाशत्वात्।
+न चासौ ज्ञाता ऽहम्-अर्थो ऽन्याधीन-प्रकाशः - स्वयम्-प्रकाशत्वात्।
 </details>
 
 <details><summary>English</summary>
