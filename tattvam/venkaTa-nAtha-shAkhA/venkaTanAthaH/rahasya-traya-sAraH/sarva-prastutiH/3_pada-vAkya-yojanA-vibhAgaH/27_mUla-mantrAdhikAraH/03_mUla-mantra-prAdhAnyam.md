@@ -1000,7 +1000,7 @@ para que ese país y la ciudad **puedan entender** "
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ७’’नल्-वगैयाल्  
+> ७’’नल्-वगैयाल् +++(→उत्तम-पुरुषार्थकृते)+++  
 नमो नारायणाव्’’(तिरुप्पल्लाण्डु ११) 
 
 ऎऩ्ऱुम् 
@@ -1008,7 +1008,7 @@ para que ese país y la ciudad **puedan entender** "
 
 <details><summary>नीलमेघः (सं)</summary>
 
-"समीचीन-प्रकारेण नमो नारायण" 
+"समीचीन-प्रकारेण +++(→उत्तम-पुरुषार्थकृते)+++ नमो नारायण" 
 
 इति च 
 </details>
