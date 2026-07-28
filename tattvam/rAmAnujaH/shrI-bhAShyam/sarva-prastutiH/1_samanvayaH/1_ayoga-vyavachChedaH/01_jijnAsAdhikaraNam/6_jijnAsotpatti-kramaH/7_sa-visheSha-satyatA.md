@@ -5717,37 +5717,40 @@ knowledge alone can put an end to Nescience.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च संविद्-आश्रयत्वम् अज्ञानस्य सम्भवति;  
-ज्ञान-समानाश्रयत्वात् तत्-समान-विषयत्वाच् च
 </details>
 
 <details><summary>English</summary>
 
-Nor can consciousness be the abode of Nescience, because in that case Nescience would have the same abode and the same object as knowledge.
-</details>
+Nor can consciousness be the abode of Nescience, </details>
 
 <details><summary>मूलम्</summary>
 
-न च संविदाश्रयत्वमज्ञानस्य सम्भवति; ज्ञानसमानाश्रयत्वात् तत्समानविषयत्वाच्च
+न च संविदाश्रयत्वमज्ञानस्य सम्भवति; 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञातृ-भाव-विषय-भाव-विरहिते ज्ञान-मात्रे साक्षिणि नाज्ञानं भवितुम् अर्हाति;
+ज्ञान-समानाश्रयत्वात्, तत्+++(→ज्ञान)+++-समान-विषयत्वाच् च
+ज्ञातृ-भाव--विषय-भाव-विरहिते ज्ञान-मात्रे  
+साक्षिणि नाज्ञानं भवितुम् अर्हाति;
 </details>
 
 <details><summary>English</summary>
 
+because in that case Nescience would have the same abode and the same object as knowledge.  
 In pure knowledge where there is no knowing subject and no object of knowledge – the so-called 'witnessing' principle (sākshin)--Nescience cannot exist.
 </details>
 
 <details><summary>मूलम्</summary>
 
+ज्ञानसमानाश्रयत्वात् तत्समानविषयत्वाच्च
 ज्ञातृभावविषयभावविरहिते ज्ञानमात्रे साक्षिणि नाज्ञानं भवितुमर्हाति;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा ज्ञानाश्रयत्व-प्रसक्ति-शून्यत्वेन घटादेर् नाज्ञानाश्रयत्वम्।
+यथा ज्ञानाश्रयत्व-प्रसक्ति-शून्यत्वेन  
+घटादेर् नाज्ञानाश्रयत्वम्।
 </details>
 
 <details><summary>English</summary>
@@ -5762,7 +5765,8 @@ Jars and similar things cannot be the abode of Nescience because there is no pos
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा ज्ञान-मात्रे ऽपि ज्ञानाश्रयत्वाभावेन नाज्ञानाश्रयत्वं स्यात् ॥
+तथा ज्ञान-मात्रे ऽपि  
+ज्ञानाश्रयत्वाभावेन, नाज्ञानाश्रयत्वं स्यात् ॥
 </details>
 
 <details><summary>English</summary>
@@ -5775,11 +5779,13 @@ and for the same reason pure knowledge also cannot be the abode of Nescience.
 तथा ज्ञानमात्रेऽपि ज्ञानाश्रयत्वाभावेन नाज्ञानाश्रयत्वं स्यात् ॥
 </details>
 
-## संविदाश्रितत्वमभ्युपगम्याऽपि दूषणम्
-
+###### न संविद्-अज्ञान-निवृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संविदो ऽज्ञानाश्रयत्वाभ्युपगमे ऽपि आत्मतयाऽभ्युपगतायास् तस्याः ज्ञान-विषयत्वाभावेन ज्ञानेन न तद्-गताज्ञान-निवृत्तिः।
+संविदो ऽज्ञानाश्रयत्वाभ्युपगमे ऽपि  
+आत्मतयाऽभ्युपगतायास् तस्याः  
+ज्ञान-विषयत्वाभावेन  
+ज्ञानेन न तद्-गताज्ञान-निवृत्तिः।
 </details>
 
 <details><summary>English</summary>
@@ -5794,7 +5800,8 @@ And even if consciousness were admitted to be the abode of Nescience, it could n
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञानं हि स्वविषय एवाज्ञानं निवर्तयति, यथा रज्ज्‍व् आदौ।
+ज्ञानं हि स्वविषय एवाज्ञानं निवर्तयति,  
+यथा रज्ज्‍व् आदौ।
 </details>
 
 <details><summary>English</summary>
@@ -5809,7 +5816,8 @@ For knowledge puts an end to Nescience only with regard to its own objects, as i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो न केनापि कदाचित् संविद् आश्रयम् अज्ञानम् उच्छिद्येत।
+अतो न केनापि कदाचित्  
+संविद्-आश्रयम् अज्ञानम् उच्छिद्येत।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -5822,11 +5830,14 @@ And the consequence of this would be that the Nescience attached to consciousnes
 अतो न केनापि कदाचित्संविदाश्रयमज्ञानमुच्छिद्येत।
 </details>
 
-## अज्ञानं न अनिर्वचनीयम्, नापि ज्ञानप्रागभावः
+## अविद्या
+### नानिर्वचनीया, नापि ज्ञानप्रागभावः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्य च सद्-असद्-अनिर्वचनीयस्याज्ञानस्य स्वरूपम् एव दुर्निरूपम् इत्य् उपरिष्टाद् वक्ष्यते।
+अस्य च सद्-असद्-अनिर्वचनीयस्याज्ञानस्य  
+स्वरूपम् एव दुर्निरूपम्  
+इत्य् उपरिष्टाद् वक्ष्यते।
 </details>
 
 <details><summary>English</summary>
@@ -5841,7 +5852,9 @@ If Nescience, we further remark, is viewed as that which can be defined neither 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञान-प्राग्-अभाव-रूपस्य चाज्ञानस्य ज्ञानोत्पत्ति-विरोधित्वाभावेन न तन्-निरसनेन तज्-ज्ञान-साधनानुग्रहः।
+ज्ञान--प्राग्-अभाव-रूपस्य चाज्ञानस्य  
+ज्ञानोत्पत्ति-विरोधित्वाभावेन  
+न तन्-निरसनेन तज्-ज्ञान-साधनानुग्रहः।
 </details>
 
 <details><summary>English</summary>
