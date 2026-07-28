@@ -141,7 +141,516 @@ title = "०४ समन्वयाधिकरणम्"
 
 ## ध्याननियोगवादिकृतं भेदाभेददूषणम्
 
-अत्रोच्यते – अद्वितीयसच्चिदानन्दब्रह्मध्यानविषयविधिपरं वेदान्तवाक्यजातमिति वेदान्तवाक्यैरभेदः प्रतीयते। भेदावलम्बिभिः कर्मशास्त्रैः प्रत्यक्षादिभिश्च भेदः प्रतीयते। भेदाभेदयोः परस्परविरोधात् अनाद्यविद्यामूलतयाऽपि भेदप्रतीत्युपपत्तेरभेद एव परमार्थ इत्युक्तम्। तत्र यदुक्तं – भेदोभेदयोरुभयोरपि प्रतीतिसिद्धत्वान्न विरोध इति। तदयुक्तम्, कस्माच्चित्कस्यचिद्विलक्षणत्वं हि तस्मात्तस्य भेदः। तद्विपरीतत्वं चाभेदः। तयोस्तथाभावातथाभावरूपयोरेकत्र सम्भवमनुन्मत्तः को ब्रवीति? कारणात्मना जात्यात्मना चाभेदः, कार्यात्मना व्यक्त्यात्मना च भेदः इत्याकारभेदादविरोध इति चेत् – न, विकल्पासहत्वात्। आकारभेदादविरोधं वदतः किमेकस्मिन्नाकारे भेदः, आकारान्तरे चाभेदः – इत्यभिप्रायः?; उताकारद्वययोगिवस्तुगतावुभावपीति? पूर्वस्मिन् कल्पे व्यक्तिगतो भेदः, जातिगतश्चाभेद इति नैकस्य द्व्यात्मकता। जातिर्व्यक्तिरिति चैकमेव वस्त्विति चेत् – तर्ह्याकारभेदादविरोधः परित्यक्तः स्यात्। एकस्मिंश्च विलक्षणत्वतद्विपर्ययौ विरुद्धावित्युक्तम्। द्वितीये तु कल्पे अन्योन्यविलक्षणमाकारद्वयम्, अप्रतिपन्नं च तदाश्रयभूतं वस्त्विति तृतीयाभ्युपगमेऽपि त्रयाणामन्योन्यवैलक्षण्यमेवोपपादितं स्यात्; न पुनरभेदः। आकारद्वयनिरुह्यमाणाविरोधं तदाश्रयभूते वस्तुनि भिन्नाभिन्नत्वमिति चेत् स्वस्माद्विलक्षणं स्वाश्रयमाकारद्वयं स्वस्मिन्विरुद्धधर्मद्वयसमावेशनिर्वाहकं कथं भवेत्?। अविलक्षणं तु कथन्तराम्? आकारद्वयतद्वतोश्च द्व्यात्मकत्वाभ्युपगमे निर्वाहकान्तरापेक्षयाऽनवस्था स्यात्। न च सम्प्रतिपन्नैक्यव्यक्तिप्रतीतिवत् ससामान्येऽपि वस्तुन्येकरूपा प्रतीतिरुपजायते, यतः इदमित्थम् इति सर्वत्र प्रकारप्रकारतयैव सर्वा प्रतीतिः। तत्र प्रकारांशो जातिः प्रकार्यंशो व्यक्तिरिति नैकाकारा प्रतीतिः।
+### भेदाभेद-विरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्रोच्यते – अद्वितीय--सच्-चिद्--आनन्द--ब्रह्म- ध्यान-विषय-विधि-परं वेदान्त-वाक्य-जातम्  
+इति वेदान्तवाक्यैर् अभेदः प्रतीयते।
+</details>
+
+<details><summary>English</summary>
+
+To this bhedābheda view the Pūrvapakshin now objects on the following grounds:--The whole aggregate of Vedānta-texts aims at enjoining meditation on a non-dual Brahman whose essence is reality, intelligence, and bliss, and thus sets forth the view of non-difference;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्रोच्यते – अद्वितीयसच्चिदानन्दब्रह्मध्यानविषयविधिपरं वेदान्तवाक्यजातमिति वेदान्तवाक्यैरभेदः प्रतीयते।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+अथ भेदाभेद-पक्षं ध्यान-नियोग-वादी दूषयति - अत्रोच्यत इत्यादिना ।  
+
+पूर्वं "यद् अपि कश्चिद् उक्तम्" इति प्रकारान्तरस्य पक्षस्योत्थापकं सङ्गति-स्थलं दर्शयितुम् आह - अद्वितीयेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भेदावलम्बिभिः कर्म-शास्त्रैः प्रत्यक्षादिभिश् च  
+भेदः प्रतीयते।
+</details>
+
+<details><summary>English</summary>
+
+while on the other hand the karma-section of the Veda, and likewise perception and the other means of knowledge, intimate the view of the difference of things.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भेदावलम्बिभिः कर्मशास्त्रैः प्रत्यक्षादिभिश्च भेदः प्रतीयते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भेदाभेदयोः परस्पर-विरोधात्  
+अनाद्य्-अविद्या-मूलतयाऽपि भेद-प्रतीत्य्-उपपत्तेर्  
+अभेद एव परमार्थ  
+इत्य् उक्तम्।
+</details>
+
+<details><summary>English</summary>
+
+Now, as difference and non-difference are contradictory, and as the view of difference may be accounted for as resting on beginningless Nescience, we conclude that universal non-difference is what is real.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भेदाभेदयोः परस्परविरोधात् अनाद्यविद्यामूलतयाऽपि भेदप्रतीत्युपपत्तेरभेद एव परमार्थ इत्युक्तम्।
+</details>
+
+### नोभय-प्रतीतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र यद् उक्तं –  
+
+> भेदाभेदयोर् उभयोर् अपि प्रतीति-सिद्धत्वान् न विरोध 
+
+इति -
+</details>
+
+<details><summary>English</summary>
+
+The tenet that difference and non-difference are not contradictory because both are proved by our consciousness, cannot be upheld.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र यदुक्तं – भेदोभेदयोरुभयोरपि प्रतीतिसिद्धत्वान्न विरोध इति।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+तत्-सङ्गति-स्थलं दर्शयति तत्र यद् उक्तम् इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् अ-युक्तम्,  
+कस्माच्चित् कस्यचिद् विलक्षणत्वं हि  
+तस्मात् तस्य भेदः।
+</details>
+
+<details><summary>English</summary>
+
+If one thing has different characteristics from another there is distinction (bheda) of the two;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदयुक्तम्, कस्माच्चित्कस्यचिद्विलक्षणत्वं हि तस्मात्तस्य भेदः।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+भेदाभेद-विषय-प्रतीतिं दूषयिष्यन्  
+पूर्वं तयोर् विरोधम् उपपादयितुं  
+तत्-स्वरूपम् आह - कस्माच्चिद् इति ।  
+विलक्षणत्वम् - अन्यत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-विपरीतत्वं चाभेदः।
+</details>
+
+<details><summary>English</summary>
+
+the contrary condition of things constitutes non-distinction (abheda);
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्विपरीतत्वं चाभेदः।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+इदम् इदं न भवति, इदम् इदं भवतीति हि भेदाभेद-विषय-प्रतीतिः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तयोस् तथाभावातथाभाव-रूपयोर् एकत्र सम्भवम्  
+अनुन्मत्तः को ब्रवीति?+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+who in his senses then would maintain that these two-suchness and non-suchness – can be found together?
+</details>
+
+<details><summary>मूलम्</summary>
+
+तयोस्तथाभावातथाभावरूपयोरेकत्र सम्भवमनुन्मत्तः को ब्रवीति?
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+ततः किम् इत्य् अत्राह तयोर् इति ।  
+भेदाभेद इति न कस्यचिद् धर्मस्य संज्ञा ।  
+लोक-प्रसिध्य्-अनुगुणो ऽर्थो भेदाभेद-शब्दस्य स्वीकृतश् चेत् -  
+भावाभावयोर् विरोधो ऽवर्जनीय इत्य् अर्थः ।  
+किञ्च, अनेन क्वचिद् अपि विरोधो नास्तीति वक्तुं न शक्यम्;  
+त्रिविध-विरोधोपलब्धेः+++(=??)+++ ।  
+
+यदि भावाभावयोर् न विरोधः,  
+तर्हि भिन्नाभिन्नत्वं भवति, न भवतीति  
+स्व-पर-वचसोर् अपि विरोधाभावः स्यात् ।+++(5)+++
+</details>
+
+### न वस्तु-भेदेन
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > कारणात्मना जात्य्-आत्मना चाभेदः,  
+कार्यात्मना व्यक्त्य्-आत्मना च भेदः 
+> 
+> इत्य् आकार-भेदाद् अविरोध 
+
+इति चेत् – न, विकल्पासहत्वात्।
+</details>
+
+<details><summary>English</summary>
+
+You have maintained that non-difference belongs to a thing viewed as cause and genus, and difference to the same viewed as effect and individual; and that, owing to this twofold aspect of things, non-difference and difference are not irreconcileable. 
+
+But that this view also is untenable, a presentation of the question in definite alternatives will show.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कारणात्मना जात्यात्मना चाभेदः, कार्यात्मना व्यक्त्यात्मना च भेदः इत्याकारभेदादविरोध इति चेत् – न, विकल्पासहत्वात्।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+परोक्तं पिण्ड-द्वय-भेदाभेदस्याकार-भेदाद् अविरोधम् अनुवदति - कारणात्मनेति ।  
+विकल्प्य दूषयति नेत्यादिना ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकार+++(=पदार्थ)+++-भेदाद् अविरोधं वदतः  
+किम् "एकस्मिन् आकारे भेदः,  
+आकारान्तरे चाभेदः" – इत्य् अभिप्रायः?;  
+उताकार-द्वय-योगि-वस्तु-गताव् उभाव् अपीति?
+</details>
+
+<details><summary>English</summary>
+
+Do you mean to say that the difference lies in one aspect of the thing and the non-difference in the other? or that difference _and_ non-difference belong to the thing possessing two aspects?
+</details>
+
+<details><summary>मूलम्</summary>
+
+आकारभेदादविरोधं वदतः किमेकस्मिन्नाकारे भेदः, आकारान्तरे चाभेदः – इत्यभिप्रायः?; उताकारद्वययोगिवस्तुगतावुभावपीति?
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+एकस्मिन् आकार इति ।  
+आकार-शब्दः पदार्थ-परः ।
+</details>
+
+#### वस्त्वोर् भेदाभेदौ
+##### जाति-व्यक्ति-भेदे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वस्मिन् कल्पे  
+व्यक्ति-गतो भेदः, जाति-गतश् चाभेद इति +++(वस्तु-द्वये गृहीते)+++  
+नैकस्य +++(वस्तुन्तो)+++ द्व्य्-आत्मकता।
+</details>
+
+<details><summary>English</summary>
+
+On the former alternative the difference belongs to the individual and the non-difference to the genus; and this implies that there is no one thing with a double aspect.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पूर्वस्मिन् कल्पे व्यक्तिगतो भेदः, जातिगतश्चाभेद इति नैकस्य द्व्यात्मकता।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+पूर्वस्मिन् कल्प इति ।  
+तत्र जाति-व्यक्त्योः किं -  
+परस्परं भेदः, उताभेदः, उत भेदाभेदः  
+इति विकल्प-त्रयम् अभिप्रेत्य  
+प्रथमं शिरो दूषयति व्यक्ति-गत इति ।
+</details>
+
+##### जाति-व्यक्त्य्-अभेदे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जातिर्, व्यक्तिर् इति चैकम् एव वस्त्व्  
+
+इति चेत् –  
+तर्ह्य् आकार-भेदाद् अविरोधः परित्यक्तः स्यात्।
+</details>
+
+<details><summary>English</summary>
+
+And should you say that the genus and individual together constitute one thing only, you abandon the view that it is difference of aspect which takes away the contradictoriness of difference and non-difference.
+</details>
+
+<details><summary>मूलम्</summary>
+
+जातिर्व्यक्तिरिति चैकमेव वस्त्विति चेत् – तर्ह्याकारभेदादविरोधः परित्यक्तः स्यात्।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+द्वितीयम् अनुवदति जातिर् इति । दूषयति तर्हीति । विरोधस् तिष्ठत्य् एवेत्य् अर्थः ।
+</details>
+
+##### जाति-व्यक्ति-भेदाभेदे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एकस्मिंश् च  
+विलक्षणत्व--तद्-विपर्ययौ विरुद्धाव् इत्य् उक्तम्।
+</details>
+
+<details><summary>English</summary>
+
+We have moreover remarked already that difference in characteristics and its opposite are absolutely contradictory.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकस्मिंश्च विलक्षणत्वतद्विपर्ययौ विरुद्धावित्युक्तम्।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+तृतीयं दूषयति एकस्मिँश् चेति ।  
+जातिर् व्यक्तिर् भवति न भवतीति  
+भावाभाव-विरोधः स्थित एवेत्य् अर्थः ।
+</details>
+
+#### वस्त्व्-आश्रये भेदाभेदौ?
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वितीये तु कल्पे  
+अन्योऽन्य-विलक्षणम् आकार-द्वयम्,  
++++(व्यक्ति-भेदेन)+++ अ-प्रतिपन्नं च तद्-आश्रय-भूतं वस्त्व् इति +++(दोषान्तरे सत्य् अपि,)+++ तृतीयाभ्युपगमे ऽपि  
+त्रयाणाम् अन्योन्य-वैलक्षण्यम् एवोपपादितं स्यात्;  
+न पुनर् अ-भेदः।
+</details>
+
+<details><summary>English</summary>
+
+On the second alternative we have two aspects of different kind and an unknown thing supposed to be the substrate of those aspects; but this assumption of a triad of entities proves only their mutual difference of character, not their non-difference.
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वितीये तु कल्पे अन्योन्यविलक्षणमाकारद्वयम्, अप्रतिपन्नं च तदाश्रयभूतं वस्त्विति तृतीयाभ्युपगमेऽपि त्रयाणामन्योन्यवैलक्षण्यमेवोपपादितं स्यात्; न पुनरभेदः।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+कण्ठोक्त-पूर्व-विकल्पे  
+द्वितीयं शिरो दूषयति - द्वितीये तु कल्पे इति ।  
+अत्र तृतीयस्य जाति-व्यक्ति-व्यतिरिक्तस्य वस्तुनो ऽप्रतिपन्नत्वं नामैकं दूषणम् अधिकम्।  
+तद् इदम् अप्रतिपन्नञ् चेत्यनेनाभिप्रेतम् । 
+
+प्रतिपन्नत्वाभ्युपगमे ऽपि  
+दूषणम् आह तृतीयाभ्युपगमे ऽपीति । न पुनर् इति । अन्यथा त्रित्वाभावाद् इत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आकार-द्वय-निरुह्यमाणाविरोधस्  
+तद्-आश्रय-भूते वस्तुनि भिन्नाभिन्नत्वम् 
+
+इति चेत्, स्वस्माद् विलक्षणं स्वाश्रयम् आकार-द्वयम्  
+स्वस्मिन् विरुद्ध-धर्म-द्वय-समावेश-निर्वाहकं कथं भवेत्?।
+</details>
+
+<details><summary>English</summary>
+
+Should you say that the non-contradictoriness of two aspects constitutes simultaneous difference and non-difference in the thing which is their substrate, we ask in return – How can two aspects which have a thing for their substrate, and thus are different from the thing, introduce into that thing a combination of two contradictory attributes (viz. difference and non-difference)?
+</details>
+
+<details><summary>मूलम्</summary>
+
+आकारद्वयनिरुह्यमाणाविरोधस्?? तदाश्रयभूते वस्तुनि भिन्नाभिन्नत्वमिति चेत् स्वस्माद्विलक्षणं स्वाश्रयमाकारद्वयं स्वस्मिन्विरुद्धधर्मद्वयसमावेशनिर्वाहकं कथं भवेत्?।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+अत्र तृतीये वस्तुनि आकार-द्वयेन भेदाभेदयोर् निर्वाह्यत्वेनाविरोधित्वं शङ्कते आकारद्वयेति ।  
+
+इदम् आकार-द्वयं स्वाश्रयेण भिन्नम्, उताभिन्नम्, उत भिन्नाभिन्नम् इति विकल्पम् अभिप्रेत्य  
+प्रथमं शिरो दूषयति स्वस्माद् इति ।  
+स्व-शब्द-त्रयम् अप्य् आश्रय-परम् ।  
+भेदाभेदयोर् एकाश्रयत्वेन हि विरोधः ।  
+अविरोध-निर्वाहकाकार-द्वयं हि  
+न भेदाभेदयोर् आश्रय-भूतम् ।  
+अतो न तत् अविरोध-निर्वाहकम् ।  
+अग्नि-गतं पैङ्गल्यम् औज्ज्वल्यञ् चाकार-द्वयम्  
+अग्नौ शीतोष्णत्व-रूप-विरुद्ध-धर्म-द्वय-समावेश-निर्वाहकं न भवतीत्य् अर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अविलक्षणं तु कथन्तराम्?
+</details>
+
+<details><summary>English</summary>
+
+And much less even are they able to do so if they are viewed as non-different from the thing which is their substrate.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अविलक्षणं तु कथन्तराम्?
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+द्वितीयं शिरो दूषयति अविलक्षणम् इति ।  
+पूर्वम् आकार-द्वये सम्भवति  
+तस्य विरुद्ध-धर्म-द्वय-निर्वाहकत्वायोग उक्तः;  
+अत्र त्व् आकारद्वयम् एव नास्तीति  
+नितरां विरुद्ध-धर्म-समावेशायोग इत्य् अभिप्रायेण कथन्तराम् इत्य् उक्तम् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकार-द्वय-तद्वतोश् च  
++++(भेदाभेद→)+++द्व्य्-आत्मकत्वाभ्युपगमे  
+निर्वाहकान्तरापेक्षया ऽनवस्था स्यात्।
+</details>
+
+<details><summary>English</summary>
+
+If, moreover, the two aspects on the one hand, and the thing in which they inhere on the other, be admitted to be distinct entities, there will be required a further factor to bring about their difference and non-difference, and we shall thus be led into a _regressus in infinitum._
+</details>
+
+<details><summary>मूलम्</summary>
+
+आकारद्वयतद्वतोश्च द्व्यात्मकत्वाभ्युपगमे निर्वाहकान्तरापेक्षयाऽनवस्था स्यात्।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+तृतीयं शिरो दूषयति आकारद्वयतद्वतोरिति ।  
+आकारद्-वयस्य तद्-आश्रयस्य च  
+भिन्नाभिन्नत्व-निर्वाहकम् आकारद्वयान्तरम् अपेक्षितम्;  
+तस्यापि स्वाश्रयेण भिन्नाभिन्नत्वम् अस्ति चेत्,  
+तद्-अविरोध-निर्वाहकाकार-द्वयान्तरम् अपेक्षितम् इत्य् अनवस्था स्यादित्यर्थः । 
+</details>
+
+#### जाति-व्यक्ति-प्रतीति-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च सम्प्रतिपन्नैक्य-व्यक्ति-प्रतीतिवत्  
+स-सामान्ये ऽपि वस्तुन्य्  
+एक-रूपा प्रतीतिर् उपजायते,  
+यतः - "इदम् इत्थम्" इति सर्वत्र प्रकार-प्रकारितयैव सर्वा प्रतीतिः।
+</details>
+
+<details><summary>English</summary>
+
+Nor is it a fact that the idea of a thing inclusive of its generic character bears the character of unity, in the same way as the admittedly uniform idea of an individual; for wherever a state of consciousness expresses itself in the form 'this is such and such' it implies the distinction of an attribute or mode, and that to which the attribute or mode belongs.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च सम्प्रतिपन्नैक्यव्यक्तिप्रतीतिवत् ससामान्येऽपि वस्तुन्येकरूपा प्रतीतिरुपजायते, यतः इदमित्थम् इति सर्वत्र प्रकारप्रकारितयैव सर्वा प्रतीतिः।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+अथ किं दृष्टे ऽनुपपन्नं नामेति शङ्कायां -  
+भेदाभेद-विषय-प्रतीतिं दूषयति न चेति । हेतुम् आह यत इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र प्रकारांशो जातिः, प्रकार्य्-अंशो व्यक्तिर् इति नैकाकारा प्रतीतिः।
+</details>
+
+<details><summary>English</summary>
+
+In the case under discussion the genus constitutes the mode, and the individual that to which the mode belongs: the idea does not therefore possess the character of unity.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र प्रकारांशो जातिः प्रकार्यंशो व्यक्तिरिति नैकाकारा प्रतीतिः।
+</details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+तस्यां प्रतीतौ प्रकार-प्रकारिणौ विविच्य दर्शयति तत्रेति ।
+
+अनेनेदम् अपि परिहृतम् -  
+मत्वर्थीय-प्रत्यय-निरपेक्ष-सामानाधिकरण्यम्,  
+सहोपलम्भ-नियमः;  
+एक-शब्दानुविद्ध-प्रत्ययः,  
+प्रथम-पिण्ड-ग्रहणे जाति-व्यक्त्योर् अभेद-प्रतीतिश् चेति  
+हेतु-चतुष्टयम् ।  
+
+अपृथक्-सिद्ध-विशेषणत्वं मत्वर्थीय-प्रत्यय-निरपेक्ष-सामानाधिकरण्य-हेतुः ।+++(5)+++  
+अपृथक्-सिद्धिश् च  
+प्रकार-प्रकारिणोः सम्बन्ध-नियमाद् एवोपपन्ना ।  
+अतः प्रकार-प्रकारि-भाव-प्रतिपन्न-भेद-- विरुद्धाभेद-कल्पनाया नावकाशः ।  
+
+सम्बन्ध-नियम एव सहोपलम्भ-नियम-हेतुश् च ।  
+"एको ऽयं गौर्" इति प्रत्ययो ऽपि  
+"एको दण्डी"तिवत् विशेष्यैक्य-विषयः;  
+न तु विशेषण-विशेष्यैक्य-विषयः । प्रथम-पिण्ड-ग्रहणे ऽपि  
+प्रकार-प्रकारि-भावात्  
+भेदेनैव प्रतीतिः ।  
+
+किञ्च सहत्वम् अपि भेद-साधकम् ।  
+द्वयोर् एव हि साहित्यम् ।  
+सहोपलम्भ-नियमश् च,  
+सम्प्रतिपन्ने भिन्ने, अभिन्ने च न दृष्ट  
+इत्य् असाधारणानैकान्तिकत्वात् +++(सहोपलम्भ-नियमः→)+++ नोभय-साधकः ।  
+
+भिन्नेष्व् अभिन्नेषु चादृष्टस्य  
+भेदाभेद-साधकत्वे ऽभ्युपगम्यमाने +++(सहोपलम्भ-नियमे)+++  
++++(तुल्य-हेत्व्-आभासावलम्बनेन)+++ नित्येभ्यो ऽनित्येभ्यश् च व्यावृत्तं गन्धवत्त्वं  
+पृथिव्या नित्यत्वानित्यत्व-साधकं स्यात् ।  
+
+किञ्च साधन-नियमः साध्य-नियम-हेतुर्  
+इति सहत्व-नियमो भेद-नियम-हेतुर् एव ।  
+
+"अत्र जातिः, अत्र व्यक्तिर्"  
+इति प्रदेश-भेदाग्रहणं  
+जातेः पिण्डे व्याप्य-वृत्तित्वात् ।  
+तच् च सहोपलम्भ-नियमान्तर्गतम् ।  
+
+देशतः कालतश् चोपलम्भ-नियमो हि सहोपलम्भ-नियमः ।  
+अतो देशतः कालतश् च सम्बन्ध-नियम-कृतः सहोपलम्भ-नियमः ।  
+
+किञ्च +++(जाति-व्यक्त्योः)+++ सहोपलम्भ-नियमो ऽसिद्धः;  
+"इदं रजतम्" इत्य् अत्र  
+शुक्तित्व-जाति-व्यतिरेकेण  
+अधिष्ठान-भूत-व्यक्ति-प्रतीतेः ।  
+अतो नैक्य-साधकत्वम् इति ॥
+</details>
 
 ## लौकिके वस्तुनीव वैदिकेऽपि भेदाभेदयोः विरुद्धता
 
