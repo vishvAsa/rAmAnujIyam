@@ -5830,8 +5830,7 @@ And the consequence of this would be that the Nescience attached to consciousnes
 अतो न केनापि कदाचित्संविदाश्रयमज्ञानमुच्छिद्येत।
 </details>
 
-## अविद्या
-### नानिर्वचनीया, नापि ज्ञानप्रागभावः
+###### अविद्या नानिर्वचनीया
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5850,6 +5849,7 @@ If Nescience, we further remark, is viewed as that which can be defined neither 
 अस्य च सदसदनिर्वचनीयस्याज्ञानस्य स्वरूपमेव दुर्निरूपमित्युपरिष्टाद्वक्ष्यते।
 </details>
 
+###### न ज्ञान-प्राग्-अभावो बाधकः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञान--प्राग्-अभाव-रूपस्य चाज्ञानस्य  
@@ -5867,6 +5867,8 @@ On the other hand, Nescience, if understood to be the antecedent non-existence o
 ज्ञानप्रागभावरूपस्य चाज्ञानस्य ज्ञानोत्पत्तिविरोधित्वाभावेन न तन्निरसनेन तज्ज्ञानसाधनानुग्रहः।
 </details>
 
+##### नाश्रयतया
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो न केनापि प्रकारेणाहङ्कारेणानुभूतेर् अभिव्यक्तिः।
@@ -5882,41 +5884,33 @@ From all this it follows that the ahaṁkāra cannot effect in any way 'manifest
 अतो न केनापि प्रकारेणाहङ्कारेणानुभूतेरभिव्यक्तिः।
 </details>
 
-## स्वात्मस्थतया अभिव्यक्तेः दूषणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च स्वाश्रयतयाऽभिव्यङ्ग्याभिव्यञ्जनम् अभिव्यञ्जकानां स्वभावः, प्रदीपादिष्व् अदर्शनात्,
+न च +++(अभिव्यङ्ग्यस्य)+++ स्वाश्रयतया ऽभिव्यङ्ग्याभिव्यञ्जनम्  
+अभिव्यञ्जकानां स्वभावः,  
++++(अनाश्रिताभिव्यञ्जक-)+++ प्रदीपादिष्व् अदर्शनात्,  
+यथावस्थित-पदार्थ-प्रतीत्य्-अनुगुण-स्वाभाव्याच् च ज्ञान-तत्-साधनयोर् अनुग्राहकस्य च।
 </details>
 
 <details><summary>English</summary>
 
 Nor (to finish up this point) can it be said that it is the essential nature of manifesting agents to manifest things in so far as the latter have their abode in the former; for such a relation is not observed in the case of lamps and the like (which manifest what lies outside them).
-</details>
-
-<details><summary>मूलम्</summary>
-
-न च स्वाश्रयतयाऽभिव्यङ्ग्याभिव्यञ्जनमभिव्यञ्जकानां स्वभावः, प्रदीपादिष्वदर्शनआत्,
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यथावस्थित-पदार्थ-प्रतीत्य्-अनुगुण-स्वाभाव्याच् च ज्ञान-तत्-साधनयोर् अनुग्राहकस्य च।
-</details>
-
-<details><summary>English</summary>
 
 The essential nature of manifesting agents rather lies therein that they promote the knowledge of things as they really are, and this is also the nature of whatever promotes knowledge and the means thereof.
 </details>
 
 <details><summary>मूलम्</summary>
 
+न च स्वाश्रयतयाऽभिव्यङ्ग्याभिव्यञ्जनमभिव्यञ्जकानां स्वभावः, प्रदीपादिष्वदर्शनात्,
 यथावस्थितपदार्थप्रतीत्यनुगुणस्वाभाव्याच्च ज्ञानतत्साधनयोरनुग्राहकस्य च।
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच् च स्वतः प्रामाण्य-न्याय-सिद्धम्।
+तच् च +++(ज्ञान-तत्-साधनयोर् यथावस्थित-पदार्थ-प्रतीत्य्-अनुगुण-स्वाभाव्यं)+++  
++++(श्रुत-प्रकाशिकोक्त-)+++स्वतः-प्रामाण्य-न्याय-सिद्धम्।
 </details>
 
 <details><summary>English</summary>
@@ -5926,13 +5920,24 @@ And this is self-established by the principle of self-validity of knowledge (sva
 
 <details><summary>मूलम्</summary>
 
-तच्च स्वतः प्रामाण्यन्यायसिद्धम्।
+तच्च स्वतःप्रामाण्यन्यायसिद्धम्।
 </details>
 
+##### दर्पणवन् न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च [[दर्पणादिर्मुखादेरिभव्यञ्जकः|दर्पणादिर् मुखादेर् इवाभिव्यञ्जकः]] , अपि तु चाक्षुष-तेजः-प्रतिफलन-रूप-दोष-हेतुः।
+न च दर्पणादिर्  
+मुखादेर् इवाभिव्यञ्जकः,  
+अपि तु चाक्षुष-तेजः-प्रतिफलन-रूप--दोष-हेतुः।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+आधुनिक-विज्ञानानुसारेणात्र चाक्षुषं नाम  
+न चक्षोर् निर्गतम्, प् 
+रत्युत चक्षुर् गतम् इत्य् अर्थः कार्यः॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5946,7 +5951,7 @@ Nor is it even true that the mirror manifests the face. The mirror is only the c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-दोष-कृतश् च तत्रान्यथावभासः।
+तद्-दोष-कृतश् च तत्रान्यथाऽवभासः।
 </details>
 
 <details><summary>English</summary>
@@ -5976,7 +5981,8 @@ but the manifesting agent is the light only.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चेह तथाहङ्कारेण संविदि स्वप्रकाशायां तादृश-दोषापादनं सम्भवति।
+न चेह तथाहङ्कारेण  
+संविदि स्वप्रकाशायां तादृश-दोषापादनं सम्भवति।
 </details>
 
 <details><summary>English</summary>
@@ -5989,9 +5995,12 @@ And it is evident that the ahaṁkāra is not capable of producing an irregulari
 न चेह तथाहङ्कारेण संविदि स्वप्रकाशायां तादृशदोषापादनं सम्भवति।
 </details>
 
+##### व्यक्तिवन् न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यक्तेस् तु जातिर् आकार इति तदाश्रयतया प्रतीतिः; न तु व्यक्ति-व्यङ्ग्यत्वात्।
+व्यक्तेस् तु जातिर् आकार इति  
+तद्+++(→व्यक्त्य्)+++-आश्रयतया +++(जाति-)+++ प्रतीतिः;  
+न तु व्यक्ति-व्यङ्ग्यत्वात्।
 </details>
 
 <details><summary>English</summary>
@@ -6004,9 +6013,13 @@ And – with regard to the second analogous instance alleged by you – the fact
 व्यक्तेस्तु जातिराकार इति तदाश्रयतया प्रतीतिः; न तु व्यक्तिव्यङ्ग्यत्वात्।
 </details>
 
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो ऽन्तःकरण-भूताहङ्कार-स्थतया संविद्-उपलब्धेर् वस्तुतो दोषतो वा न किञ्चिद् इह कारणम् इति नाहङ्कारस्य ज्ञातृत्वं तथोपलब्धिर्वा।
+अतो ऽन्तःकरण-भूताहङ्कार-स्थतया संविद्-उपलब्धेर्  
+वस्तुतो, दोषतो वा  
+न किञ्चिद् इह कारणम् इति  
+नाहङ्कारस्य ज्ञातृत्वं, तथोपलब्धिर् वा।
 </details>
 
 <details><summary>English</summary>
@@ -6021,7 +6034,9 @@ Thus there is no reason, either real or springing from some imperfection, why th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात् स्वतः ज्ञातृतया सिद्ध्यन् अहम्-अर्थ एव प्रत्यगात्मा; न ज्ञप्ति-मात्रम्।
+तस्मात् स्वतो ज्ञातृतया सिद्ध्यन्  
+अहम्-अर्थ एव प्रत्यगात्मा;  
+न ज्ञप्ति-मात्रम्।
 </details>
 
 <details><summary>English</summary>
@@ -6036,7 +6051,8 @@ Hence, what constitutes the inward Self is not pure consciousness but the 'I' wh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहम्-भाव-विगमे तु ज्ञप्तेर् अपि न प्रत्यक्त्व-सिद्धिर् इत्य् उक्तम्॥
+अहम्-भाव-विगमे तु  
+ज्ञप्तेर् अपि न प्रत्यक्त्व-सिद्धिर् इत्य् उक्तम्॥+++(4)+++
 </details>
 
 <details><summary>English</summary>
