@@ -473,6 +473,8 @@ On the second alternative we have two aspects of different kind and an unknown t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
++++(एवं वैलक्षण्यं चेत् -)+++
+
 > आकार-द्वय-निरुह्यमाणाविरोधस्  
 तद्-आश्रय-भूते वस्तुनि भिन्नाभिन्नत्वम् 
 
@@ -508,7 +510,7 @@ Should you say that the non-contradictoriness of two aspects constitutes simulta
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अविलक्षणं तु कथन्तराम्?
+अविलक्षणं तु कथन्तराम् +++(विरुद्ध-धर्म-सत्त्वम्)+++?
 </details>
 
 <details><summary>English</summary>
