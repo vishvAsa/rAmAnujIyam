@@ -4229,6 +4229,13 @@ But, our adversary again objects, the consciousness which expresses itself in th
 अनुभूतेस् स्वात्मनि कर्तृत्वायोगात्। +++(4)+++
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+"शुक्ती रजतम्" इतिवद्  
+"अनुभूतिर् अहम्" इति प्रतीतिर् नास्तीति प्रतिवक्ष्यते। 
+</details>
+
+
 <details><summary>English</summary>
 
 --By no means, we reply. The attribution to consciousness of this quality rests on error, no less than the attribution, to the shell, of the quality of being silver. 
@@ -4258,6 +4265,7 @@ Consciousness cannot stand in the relation of an agent toward itself: the attrib
 अतो मनुष्योऽहमित्यत्यन्तबहिर्भूतमनुष्यत्वादि-विशष्टपिण्डात्माभिमानवत् ज्ञातृत्वमप्यध्यस्तम्। 
 </details>
 
+#### कर्तृत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञातृत्वं हि ज्ञान-क्रिया-कर्तृत्वम्। 
@@ -4274,13 +4282,22 @@ To be a 'knower' means to be the agent in the action of knowing;
 ज्ञातृत्वं हि ज्ञानक्रियाकर्तृत्वम्। 
 </details>
 
-#### कर्तृत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच् च +++(कर्तृत्वं)+++ विक्रियात्मकं, जडं, विकारि-द्रव्याहङ्-कार-ग्रन्थि-स्थम्  
 अविक्रिये साक्षिणि चिन्-मात्रात्मनि  
 कथम् इव सम्भवति? 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> (अहंकारो हि देहादिवन् न ज्ञाता।)  
+न च ज्ञातृत्वं विक्रियात्मकम्।  
+ज्ञानं चास्य नित्यस्य स्वाभाविक-धर्मत्वेन नित्यम्।
+
+इति वक्ष्यति। 
+</details>
+
 
 <details><summary>English</summary>
 
