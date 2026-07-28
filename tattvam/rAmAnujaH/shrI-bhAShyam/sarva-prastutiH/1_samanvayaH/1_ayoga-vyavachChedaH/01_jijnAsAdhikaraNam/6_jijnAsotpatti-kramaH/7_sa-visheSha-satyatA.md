@@ -5613,7 +5613,7 @@ As has been said 'Since the instruments (organs) have no existence (independent 
 करणानामभूमित्वान्न तत्सम्बन्धहेतुता । – (आत्मसिद्धिः) इति॥
 </details>
 
-
+###### न प्रतिबन्धक-निवर्तनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च, अनुभूतेर् अनुभाव्यत्वाभ्युपगमेऽप्य्  
@@ -5680,9 +5680,11 @@ There is nothing pertaining to consciousness which obstructs the origination of 
 न तावत्संविदात्मगतं तज्ज्ञानोत्पत्तिनिरोधि किञ्चिचदप्यहङ्कारापनेयमस्ति।
 </details>
 
+###### नाज्ञान-निवर्तनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्ति ह्य् अज्ञानम् इति चेत्; न, अज्ञानस्याहङ्कार-अपनोद्यत्वानभ्युपगमात्।
+"अस्ति ह्य् अज्ञानम्" इति चेत्; न,  
+अज्ञानस्याहङ्कारापनोद्यत्वानभ्युपगमात्।
 </details>
 
 <details><summary>English</summary>
@@ -5710,11 +5712,12 @@ knowledge alone can put an end to Nescience.
 ज्ञानमेव ह्यज्ञानस्य निवर्तकम् ॥
 </details>
 
-## अज्ञानस्य संविदाश्रयत्वाभावः
+###### न संविद्य् अज्ञानम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च संविद् आश्रयत्वम् अज्ञानस्य सम्भवति; ज्ञान-समानाश्रयत्वात् तत्-समान-विषयत्वाच् च
+न च संविद्-आश्रयत्वम् अज्ञानस्य सम्भवति;  
+ज्ञान-समानाश्रयत्वात् तत्-समान-विषयत्वाच् च
 </details>
 
 <details><summary>English</summary>
