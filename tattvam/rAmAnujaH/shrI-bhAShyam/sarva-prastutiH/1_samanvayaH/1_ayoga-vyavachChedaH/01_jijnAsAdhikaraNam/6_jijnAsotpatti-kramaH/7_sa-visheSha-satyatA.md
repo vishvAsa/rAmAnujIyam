@@ -5058,7 +5058,7 @@ That a Self whose essential nature is knowledge should be the substrate of the (
 अस्य ज्ञानस्वरूपस्यैव मणिप्रभृतीनां प्रभाश्रयत्वमिव ज्ञानाश्रयत्वमपि ज्ञानाश्रयत्वमपि विरुद्धमित्युक्तम्।
 </details>
 
-### अ-सर्व-ज्ञता
+### धर्म-भूत-ज्ञान-विकाराः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5078,7 +5078,9 @@ Knowledge (the quality) which is in itself unlimited, is capable of contraction 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः क्षेत्रज्ञावस्थायां कर्मणा सङ्कुचित-स्वरूपं तत्तत्-कर्मानुगुणं तरतम-भावेन वर्तते ।
+अतः क्षेत्र-ज्ञावस्थायां  
+कर्मणा सङ्कुचित-स्वरूपं  
+तत्-तत्-कर्मानुगुणं तर-तम-भावेन वर्तते ।
 </details>
 
 <details><summary>English</summary>
@@ -5093,7 +5095,7 @@ In the so-called kshetrajña – condition of the Self, knowledge is, owing to t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच् च इन्द्रिय-द्वारेण व्यवस्थितम् ।
+तच् चेन्द्रिय-द्वारेण व्यवस्थितम् ।
 </details>
 
 <details><summary>English</summary>
@@ -5108,7 +5110,8 @@ and is variously determined by the different senses.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तम् इमम् इन्द्रिय-द्वारा ज्ञान-प्रसरम् अपेक्ष्य उदयास्तमय-व्यपदेशः प्रवर्तते ।
+तम् इमम् इन्द्रिय-द्वारा ज्ञान-प्रसरम् अपेक्ष्य  
+उदयास्तमय-व्यपदेशः प्रवर्तते ।
 </details>
 
 <details><summary>English</summary>
@@ -5121,7 +5124,6 @@ With reference to this various flow of knowledge as due to the senses, it is spo
 तमिमम् इन्द्रियद्वारा ज्ञानप्रसरमपेक्ष्य उदयास्तमयव्यपदेशः प्रवर्तते ।
 </details>
 
-(आत्मनः ज्ञान-सङ्कोच-विकासात्मक-विकारित्व-सम्मतिः)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5138,9 +5140,12 @@ and the Self possesses the quality of an agent.
 ज्ञानप्रसरे तु कर्तृत्वम् अस्त्येव ।
 </details>
 
+#### आत्म-स्वरूपाविकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच् च न स्वाभाविकम्, अपि तु कर्म-कृतम् इति, अविक्रिय-स्वरूप एव आत्मा ।
+तच् च न स्वाभाविकम्,  
+अपि तु कर्म-कृतम् इति,  
+अविक्रिय-स्वरूप एव आत्मा ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -5155,7 +5160,8 @@ As this quality is not, however, essential, but originated by action, the Self i
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं रूप-विक्रियात्मकं ज्ञातृत्वं ज्ञान-स्वरूपस्यात्मनः एव इति न कदाचिद् अपि जडस्य अहङ्कारस्य ज्ञातृत्व-सम्भवः ॥
+एवं-रूप-विक्रियात्मकं ज्ञातृत्वं ज्ञान-स्वरूपस्यात्मन एवेति  
+न कदाचिद् अपि जडस्याहङ्कारस्य ज्ञातृत्व-सम्भवः ॥
 </details>
 
 <details><summary>English</summary>
@@ -5168,11 +5174,15 @@ This changeful quality of being a knower can belong only to the Self whose essen
 एवं रूपविक्रियात्मकं ज्ञातृत्वं ज्ञानस्वरूपस्यात्मनः एव इति न कदाचिदपि जडस्य अहङ्कारस्य ज्ञातृत्वसम्भवः ॥
 </details>
 
-## चिच्छायापत्त्या ज्ञातृत्वनिर्वाहनिरासः
+### चित्-सङ्गताहङ्कारो न
+#### चिच्-छायया ज्ञातृत्वं न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जड-स्वरूपस्यापि अहङ्कारस्य चित्-सन्निधानेन तच्-छायापत्त्या तत्-सम्भव इति चेत्; केयम् चिच्-छायापत्तिः?
+> जड-स्वरूपस्याप्य् अहङ्कारस्य  
+चित्-सन्निधानेन, तच्-छायापत्त्या तत्-सम्भव 
+
+इति चेत्; केयम् चिच्-छायापत्तिः?
 </details>
 
 <details><summary>English</summary>
@@ -5217,7 +5227,8 @@ or does the ahaṁkāra become a reflection of consciousness?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तावत् संविदः, संविदो ज्ञातृत्वानभ्युपगमात्।
+न तावत् संविदः +++(अहङ्कार-च्छाया-भावः)+++,  
+संविदो ज्ञातृत्वानभ्युपगमात्।
 </details>
 
 <details><summary>English</summary>
@@ -5232,7 +5243,10 @@ The former alternative is inadmissible, since you will not allow to consciousnes
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाप्य् अहङ्कारस्य, उक्तरीत्या तस्य जडस्य ज्ञातृत्वायोगात्, द्वयोर् अप्य् अचाक्षुषत्वाच् च, न ह्य् अचाक्षुषाणां छाया दृष्टा॥
+नाप्य् अहङ्कारस्य +++(संविच्-छाया-भावः)+++,  
+उक्त-रीत्या तस्य जडस्य ज्ञातृत्वायोगात्,  
+द्वयोर् अप्य् अ-चाक्षुषत्वाच् च,  
+न ह्य् अ-चाक्षुषाणां छाया दृष्टा॥
 </details>
 
 <details><summary>English</summary>
@@ -5245,11 +5259,16 @@ and so is the latter since, as explained above, the non-intelligent ahaṁkāra 
 नाप्यहङ्कारस्य, उक्तरीत्या तस्य जडस्य ज्ञातृत्वायोगात्, द्वयोरप्यचाक्षुषत्वाच्च, न ह्यचाक्षुषाणां छाया दृष्टा॥
 </details>
 
-## चित्सम्पर्केण ज्ञातृत्वनिर्वाहनिरासः
+#### चित्-सम्पर्केण ज्ञातृत्वं न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ – अग्नि-सम्पर्काद् अयः-पिण्डौष्ण्य-वत् चित्-सम्पर्काद् ज्ञातृत्वोपलब्धिः – इति चेत्,
+अथ –  
+
+> अग्नि-सम्पर्काद् अयः-पिण्डौष्ण्यवत्  
+चित्-सम्पर्काद् ज्ञातृत्वोपलब्धिः 
+
+– इति चेत्,
 </details>
 
 <details><summary>English</summary>
@@ -5264,7 +5283,8 @@ Let it then be said that as an iron ball is heated by contact with fire, so the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैतत्, संविदि वस्तुतो ज्ञातृत्वानभ्युपगमाद्व एव न तत्-सम्पर्काद् अहङ्कारे ज्ञातृत्वं तदुपलब्धिर्वा ।
+नैतत्, संविदि वस्तुतो ज्ञातृत्वानभ्युपगमाद् एव  
+न तत्-सम्पर्काद् अहङ्कारे ज्ञातृत्वं तद्-उपलब्धिर् वा ।
 </details>
 
 <details><summary>English</summary>
@@ -5277,9 +5297,12 @@ This view too is inadmissible; for as you do not allow real knowership to Intell
 नैतत्, संविदि वस्तुतो ज्ञातृत्वानभ्युपगमादेव न तत्सम्पर्कादहङ्कारे ज्ञातृत्वं तदुपलब्धिर्वा ।
 </details>
 
+#### असम्भवात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहङ्कारस्य त्व् अचेतनस्य ज्ञातृत्वासम्भवाद् एव सुतरां न तत्-सम्पर्कात् संविदि ज्ञातृत्वं तदुपलब्धिर्वा॥
+अहङ्-कारस्य त्व् अचेतनस्य ज्ञातृत्वासम्भवाद् एव  
+सुतरां न तत्-सम्पर्कात्  
+संविदि ज्ञातृत्वं तद्-उपलब्धिर् वा॥
 </details>
 
 <details><summary>English</summary>
@@ -5292,41 +5315,39 @@ and much less even can knowership or the consciousness of it be imparted to Inte
 अहङ्कारस्य त्वचेतनस्य ज्ञातृत्वासम्भवादेव सुतरां न तत्सम्पर्कात्संविदि ज्ञातृत्वं तदुपलब्धिर्वा॥
 </details>
 
-## अभिव्यक्तिपक्षस्य दूषणम्
+#### नाभिव्यक्तिर् आदर्शवत्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् अप्य् उक्तम् – उभयत्र न वस्तुतो ज्ञातृत्वम् अस्ति।
+यद् अप्य् उक्तम् – 
+
+> उभयत्र न वस्तुतो ज्ञातृत्वम् अस्ति।  
+अहङ्-कारस् त्व् अनुभूतेर् अभिव्यञ्जकः  
+स्वात्म-स्थाम् एवानुभूतिम् अभिव्यनक्ति,  
+आदर्शादिवत्, 
+
+इति -
 </details>
 
 <details><summary>English</summary>
 
-Nor can we accept what you say about 'manifestation.' Neither the ahaṁkāra, you say, nor Intelligence is really a knowing subject,
-</details>
-
-<details><summary>मूलम्</summary>
-
-यदप्युक्तम् – उभयत्र न वस्तुतो ज्ञातृत्वमस्ति।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अहङ्कारस् त्व् अनुभूतेर् अभिव्यञ्जकः स्वात्म-स्थाम् एव अनुभूतिम् अभिव्यनक्ति, आदर्शादि-वत्, इति।
-</details>
-
-<details><summary>English</summary>
-
+Nor can we accept what you say about 'manifestation.'  
+Neither the ahaṁkāra, you say, nor Intelligence is really a knowing subject,  
 but the ahaṁkāra manifests consciousness abiding within itself (within the ahaṁkāra), as the mirror manifests the image abiding within it.
 </details>
 
 <details><summary>मूलम्</summary>
 
+यदप्युक्तम् – उभयत्र न वस्तुतो ज्ञातृत्वमस्ति।
 अहङ्कारस्त्वनुभूतेरभिव्यञ्जकः स्वात्मस्थामेव अनुभूतिमभिव्यनक्ति, आदर्शादिवत्, इति।
 </details>
 
+##### स्वयम्-प्रकाशत्वात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अयुक्तम्, आत्मनस् स्वयञ्ज्योतिषो जड-स्वरूपाहङ्काराभिव्यङ्ग्यत्वायोगात्॥
+तद् अयुक्तम्,  
+आत्मनस् स्वयञ्-ज्योतिषो  
+जड-स्वरूपाहङ्काराभिव्यङ्ग्यत्वायोगात्॥
 </details>
 
 <details><summary>English</summary>
@@ -5372,7 +5393,10 @@ The truth is that all things depend for their proof on self-luminous consciousne
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र तद्-आयत्त-प्रकाशो ऽचित् अहङ्कारः अनुदितानस्तमित-स्वरूप-प्रकाशम् अशेषार्थ-सिद्धि-हेतु-भूतम् अनुभवम् अभिव्यनक्तीत्य् आत्मविदः परिहसन्ति।
+तत्र तद्-आयत्त-प्रकाशो ऽचिद् अहङ्कारः  
+अनुदितानस्तमित-स्वरूप-प्रकाशम्  
+अशेषार्थ-सिद्धि-हेतु-भूतम् अनुभवम् अभिव्यनक्तीत्य्  
+आत्मविदः परिहसन्ति।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -5385,11 +5409,12 @@ and now you maintain that one of these things, viz. the non-intelligent ahaṁk�
 तत्र तदायत्तप्रकाशोऽचित् अहङ्कारः अनुदितानस्तमितस्वरूपप्रकाशमशेषार्थसिद्धिहेतुभूतमनुभवमभिव्यनक्तीत्यात्मविदः परिहसन्ति।
 </details>
 
-## उक्तव्यङ्क्तृव्यङ्ग्यभावः तयोर्मिथोऽनुपपन्नः
-
+##### न जडे ज्ञानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च अहङ्कारानुभवयोस् स्वभाव-विरोधाद् अनुभूतेर् अननुभूतित्व-प्रसङ्गाच् च न व्यङ्क्तृ-व्यङ्ग्य-भावः।
+किञ्च, अहङ्-कारानुभवयोस् स्व-भाव-विरोधाद्  
+अनुभूतेर् अननुभूतित्व-प्रसङ्गाच् च  
+न व्यङ्क्तृ-व्यङ्ग्य-भावः।
 </details>
 
 <details><summary>English</summary>
@@ -5402,9 +5427,18 @@ The relation of 'manifestation' cannot hold good between consciousness and the a
 किञ्च अहङ्कारानुभवयोस्स्वभावविरोधादनुभूतेरननुभूतित्वप्रसङ्गाच्च न व्यङ्क्तृव्यङ्ग्य-भावः।
 </details>
 
-> यथोक्तं-  
-> व्यङ्क्तृ-व्यङ्ग्यत्वम् अन्योन्यं न च स्यात् प्रातिकूल्यतः।  
-> व्यङ्ग्यत्वे ऽननुभूतित्वम् आत्मनि स्याद् यथा घटे॥ (आत्मसिद्धिः) इति॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथोक्तं-  
+
+> व्यङ्क्तृ-व्यङ्ग्यत्वम् अन्योऽन्यं  
+न च स्यात् प्रातिकूल्यतः।  
++++(अहङ्कारेणादर्शवद्)+++ व्यङ्ग्यत्वे ऽननुभूतित्वम्  
+आत्मनि स्याद् यथा घटे॥  
+(आत्मसिद्धिः)  
+
+इति॥  
+</details>
 
 <details><summary>English</summary>
 
@@ -5418,9 +5452,13 @@ As has been said, 'One cannot manifest the other, owing to contradictoriness; an
 व्यङ्ग्यत्वेऽननुभूतित्वमात्मनि स्याद्यथा घटे॥ (आत्मसिद्धिः) इति॥
 </details>
 
+##### न कर-तल-रवि-किरणवत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च रवि-कर-निकराणां स्वाभिव्यङ्ग्य-करतलाभिव्यङ्ग्यत्व-वत् संविद्-अभिव्यङ्ग्याहङ्कार-अभिव्यङ्ग्यत्वं संविदस् साधीयः, तत्रापि रवि-कर-निकराणां करतलाभिव्यङ्ग्यत्वाभावात् ।
+न च रवि-कर-निकराणां  
+स्वाभिव्यङ्ग्य--कर-तलाभिव्यङ्ग्यत्ववत्  
+संविद्-अभिव्यङ्ग्य-+अहङ्काराभिव्यङ्ग्यत्वं संविदस् साधीयः,  
+तत्रापि रवि-कर-निकराणां कर-तलाभिव्यङ्ग्यत्वाभावात् ।
 </details>
 
 <details><summary>English</summary>
@@ -5435,7 +5473,10 @@ Nor is the matter improved by your introducing the hand and the sunbeams, and to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-करतल-प्रतिहत-गतयो हि रश्मयो बहुलास् स्वयम् एव स्फुटतरम् उपलभ्यन्ते इति तद्-बाहुल्य-मात्र-हेतुत्वात् करतलस्य नाभिव्यञ्जकत्वम्॥
+कर-तल-प्रतिहत-गतयो हि रश्मयो बहुलास्  
+स्वयम् एव स्फुटतरम् उपलभ्यन्ते  
+इति तद्-बाहुल्य-मात्र-हेतुत्वात् +++(अन्यथानभिव्यक्तेः)+++  
+करतलस्य नाभिव्यञ्जकत्वम्॥
 </details>
 
 <details><summary>English</summary>
@@ -5448,11 +5489,12 @@ What takes place is that the motion of the sunbeams is reversed (reflected) by t
 करतलप्रतिहतगतयो हि रश्मयो बहुलास्स्वयमेव स्फुटतरमुपलभ्यन्त इति तद्बाहुल्यमात्रहेतुत्वात् करतलस्य नाभिव्यञ्जकत्वम्॥
 </details>
 
-## अभिव्यक्तिकल्पानां दूषणम्
+##### नोत्पत्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्चास्य संवित्-स्वरूपस्य आत्मनो ऽहङ्कार-निर्वर्त्या अभिव्यक्तिः किंरूपा।
+किञ्चास्य संवित्-स्वरूपस्य आत्मनो  
+ऽहङ्कार-निर्वर्त्या अभिव्यक्तिः किंरूपा?
 </details>
 
 <details><summary>English</summary>
@@ -5467,7 +5509,8 @@ What could, moreover, be the nature of that 'manifestation' of the Self consisti
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तावद् उत्पत्तिः, स्वतस् सिद्धतयाऽनन्योत्पाद्यत्वाभ्युपगमात्।
+न तावद् उत्पत्तिः,  
+स्वतस् सिद्धतया ऽनन्योत्पाद्यत्वाभ्युपगमात्।
 </details>
 
 <details><summary>English</summary>
@@ -5480,9 +5523,11 @@ It cannot be origination; for you acknowledge that what is self-established cann
 न तावदुत्पत्तिः, स्वतस्सिद्धतयाऽनन्योत्पाद्यत्वाभ्युपगमात्।
 </details>
 
+##### न प्रकाशनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नापि तत्-प्रकाशनम्, तस्यानुभव-अन्तराननुभाव्यत्वात्।
+नापि तत्-प्रकाशनम्,  
+तस्यानुभवान्तराननुभाव्यत्वात्।
 </details>
 
 <details><summary>English</summary>
@@ -5495,9 +5540,11 @@ Nor can it be 'illumination' (making to shine forth), since consciousness cannot
 नापि तत्प्रकाशनम्, तस्यानुभवान्तराननुभाव्यत्वात्।
 </details>
 
+##### न प्रकाश-सहकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत एव च न तद्-अनुभव-साधनानुग्रहः।
+तत एव च  
+न तद्-अनुभव-साधनानुग्रहः।
 </details>
 
 <details><summary>English</summary>
@@ -5512,7 +5559,10 @@ For the same reason it cannot be any action assisting the means of being conscio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स हि द्विधा; [[ज्ञेयस्येन्द्रियसम्बन्धहेत्वेन|ज्ञेयस्येन्द्रिय-सम्बन्ध-हेतुत्वेन]] वा, यथा जातिर् निज-मुखादि-ग्रहणे व्यक्ति-दर्पणादीनां नयनादीन्द्रिय-सम्बन्ध-हेतुत्वेन;
+स हि द्विधा;  
+ज्ञेयस्येन्द्रिय-सम्बन्ध-हेतुत्वेन वा,  
+यथा जाति--निज-मुखादि-ग्रहणे  
++++(क्रमशो)+++ व्यक्ति-दर्पणादीनां नयनादीन्द्रिय-सम्बन्ध-हेतुत्वेन;
 </details>
 
 <details><summary>English</summary>
@@ -5522,12 +5572,13 @@ For such helpful action could be of two kinds only. It would either be such as t
 
 <details><summary>मूलम्</summary>
 
-स हि द्विधा; ज्ञेयस्येन्द्रियसम्बन्धहेत्वेन वा, यथा जातिर्निजमुखादिग्रहणे व्यक्तिदर्पणादीनां नयनादीन्द्रियसम्बन्धहेतुत्वेन;
+स हि द्विधा; ज्ञेयस्येन्द्रियसम्बन्धहेत्वेन वा, यथा जातिनिजमुखादिग्रहणे व्यक्तिदर्पणादीनां नयनादीन्द्रियसम्बन्धहेतुत्वेन;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बोद्धृ-गत-कल्मषापनयनेन वा, यथा पर-तत्त्वावबोधन-साधनस्य शास्त्रस्य शम-दमादिना।
+बोद्धृ-गत-कल्मषापनयनेन वा,  
+यथा पर-तत्त्वावबोधन-साधनस्य शास्त्रस्य शम-दमादिना।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -5540,8 +5591,16 @@ Or it would be such as to remove some obstructive impurity in the mind of the kn
 बोद्धृगतकल्मषापनयनेन वा, यथा परतत्त्वावबोधनसाधनस्य शास्त्रस्य शमदमादिना।
 </details>
 
-> यथोक्तम् –  
-> करणानाम् अभूतित्वात् न तत्-सम्बन्ध-हेतुता । – (आत्मसिद्धिः) इति॥  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथोक्तम् –  
+
+1.13 +++(आत्मत्वेनाभिमतस्य संविदः)+++ करणानाम् अ-भूमित्वान्  
+न तत्+++(→करण)+++-+++(विषय)+++संबन्ध-हेतुता +++(अहङ्कारस्य)+++।
+– (आत्मसिद्धिः) 
+
+इति॥  
+</details>
 
 <details><summary>English</summary>
 
@@ -5551,14 +5610,14 @@ As has been said 'Since the instruments (organs) have no existence (independent 
 <details><summary>मूलम्</summary>
 
 यथोक्तम् –  
-करणानामभूतित्वान्न तत्सम्बन्धहेतुता । – (आत्मसिद्धिः) इति॥
+करणानामभूमित्वान्न तत्सम्बन्धहेतुता । – (आत्मसिद्धिः) इति॥
 </details>
 
-## अनुभूतेः अनुभाव्यत्वमभ्युपगम्य अनुग्रहपक्षदूषणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[[किञ्ञ्च|किञ्च]] अनुभूतेर् अनुभाव्यत्वाभ्युपगमेऽप्य् अहम्-अर्थेन न तद्-अनुभव-साधनानुग्रहः सुवचः;
+किञ्च, अनुभूतेर् अनुभाव्यत्वाभ्युपगमेऽप्य्  
+अहम्-अर्थेन +++(त्वन्-मते ऽहङ्कारेण)+++ न तद्+++(→अनुभूत्य्)+++-अनुभव-साधनानुग्रहः सु-वचः;
 </details>
 
 <details><summary>English</summary>
@@ -5568,36 +5627,25 @@ Moreover, even if it were admitted that consciousness may be an object of consci
 
 <details><summary>मूलम्</summary>
 
-किञ्ञ्च अनुभूतेरनुभाव्यत्वाभ्युपगमेऽप्यहमर्थेन न तदनुभवसाधनानुग्रहः सुवचः;
+किञ्च अनुभूतेरनुभाव्यत्वाभ्युपगमेऽप्यहमर्थेन न तदनुभवसाधनानुग्रहः सुवचः;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स ह्य् अनुभाव्यानुभवोत्पत्ति-प्रतिबन्ध-निरसनेन भवेत्।
+स ह्य् +++(अनुग्रहः)+++ अनुभाव्यानुभवोत्पत्ति-प्रतिबन्ध-निरसनेन भवेत्,  
+यथा रूपादिग्रहणोत्पत्ति-निरोधि-सन्तमस-निरसनेन  
+चक्षुषो दीपादिना।
 </details>
 
 <details><summary>English</summary>
 
-For if it did so, it could only be in the way of removing any obstacles impeding the origination of such consciousness;
-</details>
-
-<details><summary>मूलम्</summary>
-
-स ह्यनुभाव्यानुभवोत्पत्तिप्रतिबन्धनिरसनेन भवेत्।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-यथा रूपादिग्रहणोत्पत्ति-निरोधि-सन्तमस-निरसनेन चक्षुषो दीपादिना।
-</details>
-
-<details><summary>English</summary>
-
+For if it did so, it could only be in the way of removing any obstacles impeding the origination of such consciousness;  
 analogous to the way in which a lamp assists the eye by dispelling the darkness which impedes the origination of the apprehension of colour.
 </details>
 
 <details><summary>मूलम्</summary>
 
+स ह्यनुभाव्यानुभवोत्पत्तिप्रतिबन्धनिरसनेन भवेत्
 यथा रूपादिग्रहणोत्पत्तिनिरोधिसन्तमसनिरसनेन चक्षुषो दीपादिना।
 </details>
 
@@ -5618,7 +5666,8 @@ But in the case under discussion we are unable to imagine such obstacles.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तावत् संविद् आत्म-गतं तज्-ज्ञानोत्पत्ति-निरोधि [[किञ्चिचदप्यहङ्कारापनेयमस्ति|किञ्चिद् अप्य् अहङ्कारापनेयम् अस्ति]]।
+न तावत् संविद् आत्म-गतं  
+तज्-ज्ञानोत्पत्ति-निरोधि किञ्चिद् अप्य् अहङ्कारापनेयम् अस्ति।
 </details>
 
 <details><summary>English</summary>
