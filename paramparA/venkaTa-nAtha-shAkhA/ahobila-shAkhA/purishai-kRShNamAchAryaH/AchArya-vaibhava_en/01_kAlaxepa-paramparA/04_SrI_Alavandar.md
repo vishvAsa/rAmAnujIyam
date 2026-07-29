@@ -4,7 +4,10 @@ title = "०४ SrI Alavandar"
 +++
 
 
-आषाडेचोत्तराषाडसम्भूतं तत्र वै पुरे। सिंहाननांशं विख्यातं श्रीयामुनमुनिं भजे॥
+आषाढे चोत्तराषाढ-  
+सम्भूतं तत्र वै पुरे।  
+सिंहाननांशं विख्यातं  
+श्रीयामुनमुनिं भजे॥
 
 AshADe ca uttarAshADasambhutam tatra vai pure | simhAsananAmSam vikhyAtAm SriyAmunim bhaje ||
 
@@ -23,9 +26,12 @@ Here, Yamunaitturaivar declared that they refuse to pay the (Kappam). We are not
 
 invitation of Yamunaitturaivan to the Royal Court
 
-The royal couple came to know about the challenge to their court scholar. They discussed. The Queen concluded that the courageous one who responded this way must be a superior scholar. She suggested to her husband to invite this scholar to the court with royal honors. The king knew that his court scholar might not like this idea and decided not to consult AkkiyazhvAn. The King ordered one of his ministers to invite Yamunaitturaivan to the court and sent his royal palanquin. The minister conveyed the message of the King and mentioned that the King looks very much forward to YaamunAcAriyar's visit to the royal court. Yaamunar recognized the good intention of the King and accepted the invitation. Yaamunar asked his well wishers to join him on this journey and asked them to recite the two Slokams: आशैलादद्रिकन्याचरण किसलयन्यासधन्योपकण्ठात्
+The royal couple came to know about the challenge to their court scholar. They discussed. The Queen concluded that the courageous one who responded this way must be a superior scholar. She suggested to her husband to invite this scholar to the court with royal honors. The king knew that his court scholar might not like this idea and decided not to consult AkkiyazhvAn. The King ordered one of his ministers to invite Yamunaitturaivan to the court and sent his royal palanquin. The minister conveyed the message of the King and mentioned that the King looks very much forward to YaamunAcAriyar's visit to the royal court. Yaamunar recognized the good intention of the King and accepted the invitation. Yaamunar asked his well wishers to join him on this journey and asked them to recite the two Slokams: 
 
-आरक्षानीतसीतामुखकमलसमुल्लासहेतोश्च सेतोः । आ च प्राच्यप्रतीच्यक्षितिधरयुगलादर्कचन्द्रावतंसात्
+आशैलादद्रिकन्याचरण किसलयन्यासधन्योपकण्ठात्
+
+आरक्षानीतसीतामुखकमलसमुल्लासहेतोश्च सेतोः ।  
+आ च प्राच्यप्रतीच्यक्षितिधरयुगलादर्कचन्द्रावतंसात्
 
 मीमंसाशास्त्रयुग्मविमलमना मृग्यतां मादृशोऽन्यः॥ [[18]]
 ASailAdadri kanyAcaraNa kisalayanyAsadhanyopakaNThAt ArakshAnIta sItAmukha kamalasamullAsahetoSca setoH | Aca prAcyapratIcyakshitidhara yugalAdarka candrAvatamsAt mImAmSAstra yugmavimalamanA mrgyatAm mAddrSo'nyaH ||
@@ -123,8 +129,10 @@ The eight granthams bequeathed to us by SvAmi Alavandar are:
 
 taniyan:
 
-विगाहे यामुनं तीर्थं साधुबृन्दावने स्थितम् ।
-निरस्त जिह्मगस्पर्शे यत्र कृAष्ण: कृAतादरः॥
+विगाहे यामुनं तीर्थं  
+साधु-वृन्दावने-स्थितम् ।
+निरस्त-जिह्म-ग-स्पर्शे  
+यत्र कृष्णः कृतादरः॥
 
 vihAhe yAmunam tIrtham sAdhubrndAvane sthitam | nirasta jihmagasparSe yatra krshNaH krtAdaraH |
 
