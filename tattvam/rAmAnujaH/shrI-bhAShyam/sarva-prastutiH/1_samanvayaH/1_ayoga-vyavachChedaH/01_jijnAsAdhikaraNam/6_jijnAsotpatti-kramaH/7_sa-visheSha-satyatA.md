@@ -6903,11 +6903,12 @@ The fact rather is that such consciousness destroys Nescience, and so on, becaus
 अपि तु तद्विरोधित्वान्नाशयत्येव।
 </details>
 
-#### निवृत्ताविद्यानामपि अहम्प्रत्ययः
+#### वामदेवादिषु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मात्म-भावापरोक्ष्य-निर्धूत-निरवशेषाविद्यानाम् अपि वामदेवादीनाम् अहम् इत्य् एव आत्मानुभव-दर्शनाच् च।
+ब्रह्मात्म-भावापरोक्ष्य-- निर्धूत-निरवशेषाविद्यानाम् अपि वामदेवादीनाम्  
+"अहम्" इत्य् एवात्मानुभव-दर्शनाच् च +++(मुक्ताव् अप्य् अहम्-भानम्)+++।
 </details>
 
 <details><summary>English</summary>
@@ -6922,12 +6923,32 @@ In agreement with this we observe that persons like the r̥shi Vāmadeva, in who
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रूयते हि – तद् धैतत् पश्यन्न् ऋषिर् वामदेवः प्रतिपेदे अहं मनुर् अभवं सूर्यश् च ([[बृ.३.४.१०|बृ.१.४.१०]]) इति, अहम् एकः प्रथमम् आसम् वर्तामि च भविष्यामि च (अथर्व.शि.उ.९.खण्डे) इत्य्-आदि।
+श्रूयते हि – 
+
+> तद् धैतत् पश्यन्न् ऋषिर् वामदेवः प्रतिपेदे  
+अहं मनुर् अभवं सूर्यश् च  
+(बृ.१.४.१०) 
+
+इति, 
 </details>
 
 <details><summary>English</summary>
 
 for scripture says, 'Seeing this the r̥shi Vāmadeva understood, I was Manu and the Sun' (B_ri._ Up. I, 4, 10).
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रूयते हि – तद्धैतत्पश्यन्नृषिर्वामदेवः प्रतिपेदे अहं मनुरभवं सूर्यश्च (बृ.१.४.१०) इति, </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अहम् एकः प्रथमम् आसम्  
+वर्तामि च भविष्यामि च  
+(अथर्व.शि.उ.९.खण्डे) 
+
+इत्य्-आदि।
+
 </details>
 
 <details><summary>English - Notes</summary>
@@ -6937,14 +6958,17 @@ The second citation from the Atharvaśiras Upanisad (section 9)—'अहमे�
 
 <details><summary>मूलम्</summary>
 
-श्रूयते हि – तद्धैतत्पश्यन्नृषिर्वामदेवः प्रतिपेदे अहं मनुरभवं सूर्यश्च ([[बृ.३.४.१०|बृ.१.४.१०]]) इति, अहमेकः प्रथममासं वर्तामि च भविष्यामि च (अथर्व.शि.उ.९.खण्डे) इत्यादि।
+
+अहमेकः प्रथममासं वर्तामि च भविष्यामि च (अथर्व.शि.उ.९.खण्डे) इत्यादि।
 </details>
 
-## ब्रह्मणोऽप्यहं प्रत्ययः श्रुतिस्मृतिषु
+
+#### ब्रह्मणोऽपि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सकलेतराज्ञान-विरोधिनः सच्-शब्द-प्रत्यय-मात्र-भाजः परस्य ब्रह्मणो व्यवहारो ऽप्य् एवम् एव हन्ताहम् इमास् तिस्रो देवताः (छा.६.३.२), बहु स्यां प्रजायेय (तै.आन.६.२), स ईक्षत लोकान् नु सृजा इति; (ऐत १.१.१),
+स-कलेतराज्ञान-विरोधिनः सच्-शब्द--प्रत्यय-मात्र-भाजः परस्य ब्रह्मणो  
+व्यवहारो ऽप्य् एवम् एव 
 </details>
 
 <details><summary>English</summary>
@@ -6954,29 +6978,94 @@ And the highest Brahman also, which is opposed to all other forms of Nescience a
 
 <details><summary>मूलम्</summary>
 
-सकलेतराज्ञानविरोधिनः सच्छब्दप्रत्ययमात्रभाजः परस्य ब्रह्मणो व्यवहारोऽप्येवमेव हन्ताहमिमास्तिस्रो देवताः (छा.६.३.२), बहु स्यां प्रजायेय (तै.आन.६.२), स ईक्षत लोकान्नु सृजा इति; (ऐत १.१.१),
+सकलेतराज्ञानविरोधिनः सच्छब्दप्रत्ययमात्रभाजः परस्य ब्रह्मणो व्यवहारोऽप्येवमेव 
 </details>
 
+##### श्रुतिषु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा यस्मात् क्षरम् अतीतो ऽहम् अक्षराद् अपि चोत्तमः। अतो ऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः (भ.गी.१५.१८), अहम् आत्मा गुडाकेश (भ.गी. १०.२०), न त्व् एवाहं जातु नासम् (भ.गी. २.१२), अहं कृत्स्नस्य जगतः प्रभवः प्रलयस् तथा (भ.गी.७.६), अहं सर्वस्य प्रभवो मत्तस् सर्वं प्रवर्तते (भ.गी.१०.८), तेषाम् अहं समुद्धर्ता मृत्यु-संसार-सागरात् (भ.गी.१२.७), अहं बीज-प्रदः पिता (भ.गी.१४.४), वेदाहं समतीतानि – (भ.गी.७.२६) इत्य्-आदिषु॥
-</details>
+> हन्ताहम् इमास् तिस्रो देवताः (छा.६.३.२),  
 
-<details><summary>English</summary>
+> बहु स्यां प्रजायेय (तै.आन.६.२), 
 
-and again, 'Since I transcend the Destructible, and am higher also than the Indestructible, therefore I am proclaimed in the world and in the Veda as the highest Person' (Bha. Gī. XV, 18); 'I am the Self, O Gūḍākeśa.' (Bha. Gī. X, 20); 'Never was I not' (Bha. Gī. II, 12); 'I am the source and the destruction of the whole world' (Bha. Gī. VII, 6); 'I am the source of all; from me proceeds everything' (Bha. Gī. X, 8); 'I am he who raises them from the ocean of the world of death' (Bha. Gī. XII, 7); 'I am the giver of seed, the father' (Bha. Gī. XIV, 4); 'I know the things past' (Bha. Gī. VII, 26).--
+> स ईक्षत - "लोकान् नु सृजा" इति; (ऐत १.१.१),
+
 </details>
 
 <details><summary>मूलम्</summary>
 
-तथा यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः। अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः (भ.गी.१५.१८), अहमात्मा गुडाकेश (भ.गी. १०.२०), न त्वेवाहं जातु नासम् (भ.गी. २.१२), अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा (भ.गी.७.६), अहं सर्वस्य प्रभवो मत्तस्सर्वं प्रवर्तते (भ.गी.१०.८), तेषामहं समुद्धर्ता मृत्युसंसारसागरात् (भ.गी.१२.७), अहं बीजप्रदः पिता (भ.गी.१४.४), वेदाहं समतीतानि – (भ.गी.७.२६) इत्यादिषु॥
+हन्ताहमिमास्तिस्रो देवताः (छा.६.३.२), बहु स्यां प्रजायेय (तै.आन.६.२), स ईक्षत लोकान्नु सृजा इति; (ऐत १.१.१),
 </details>
 
-## उक्तार्थे गीतोक्तिविरोधशङ्कापरिहारौ
+##### स्मृतिषु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्य् अहम् इत्य् एवात्मनः स्वरूपम्, कथं तर्ह्य् अहङ्कारस्य क्षेत्रान्तर्भावो भगवतोपदिश्यते – महा-भूतान्य् अहङ्कारो बुद्धिर अव्यक्तम् एव च (भ.गीता.१३.५) इति।
+तथा
+
+> यस्मात् क्षरम् अतीतो ऽहम्  
+अक्षराद् अपि चोत्तमः।  
+अतो ऽस्मि लोके वेदे च  
+प्रथितः पुरुषोत्तमः  
+(भ.गी.१५.१८), 
+</details>
+
+<details><summary>English</summary>
+
+and again, 'Since I transcend the Destructible, and am higher also than the Indestructible, therefore I am proclaimed in the world and in the Veda as the highest Person' (Bha. Gī. XV, 18); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः। अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः (भ.गी.१५.१८), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अहम् आत्मा गुडाकेश (भ.गी. १०.२०), 
+
+> न त्व् एवाहं जातु नासम् (भ.गी. २.१२),  
+
+> अहं कृत्स्नस्य जगतः  
+प्रभवः प्रलयस् तथा (भ.गी.७.६), 
+
+> अहं सर्वस्य प्रभवो  
+मत्तस् सर्वं प्रवर्तते (भ.गी.१०.८), 
+
+> तेषाम् अहं समुद्धर्ता  
+मृत्यु-संसार-सागरात् (भ.गी.१२.७), 
+
+> अहं बीज-प्रदः पिता (भ.गी.१४.४), 
+
+> वेदाहं समतीतानि (भ.गी.७.२६) 
+
+इत्य्-आदिषु॥
+</details>
+
+<details><summary>English</summary>
+
+'I am the Self, O Gūḍākeśa.' (Bha. Gī. X, 20); 'Never was I not' (Bha. Gī. II, 12); 'I am the source and the destruction of the whole world' (Bha. Gī. VII, 6); 'I am the source of all; from me proceeds everything' (Bha. Gī. X, 8); 'I am he who raises them from the ocean of the world of death' (Bha. Gī. XII, 7); 'I am the giver of seed, the father' (Bha. Gī. XIV, 4); 'I know the things past' (Bha. Gī. VII, 26).--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहमात्मा गुडाकेश (भ.गी. १०.२०), न त्वेवाहं जातु नासम् (भ.गी. २.१२), अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा (भ.गी.७.६), अहं सर्वस्य प्रभवो मत्तस्सर्वं प्रवर्तते (भ.गी.१०.८), तेषामहं समुद्धर्ता मृत्युसंसारसागरात् (भ.गी.१२.७), अहं बीजप्रदः पिता (भ.गी.१४.४), वेदाहं समतीतानि – (भ.गी.७.२६) इत्यादिषु॥
+</details>
+
+### अहङ्कारो ऽहमीकारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यद्य् अहम् इत्य् एवात्मनः स्वरूपम्,  
+कथं तर्ह्य् अहङ्-कारस्य क्षेत्रान्तर्भावो भगवतोपदिश्यते –  
+> 
+>>  महा-भूतान्य् अहङ्कारो  
+बुद्धिर अव्यक्तम् एव च  
+(भ.गीता.१३.५) 
+> 
+> इति?
 </details>
 
 <details><summary>English</summary>
@@ -6991,7 +7080,9 @@ But if the 'I' (aham) constitutes the essential nature of the Self, how is it th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उच्यते, स्वरूपोपदेशेषु सर्वेष्व् अहम् इत्य् एवोपदेशात् तथैवात्म-स्वरूप-प्रतिपत्तेश् चाहम् इत्य् एव प्रत्यग्-आत्मनस् स्वरूपम्।
+उच्यते, स्वरूपोपदेशेषु सर्वेष्व् "अहम्" इत्य् एवोपदेशात्  
+तथैवात्म-स्वरूप-प्रतिपत्तेश् च  
+"अहम्" इत्य् एव प्रत्यग्-आत्मनस् स्वरूपम्।
 </details>
 
 <details><summary>English</summary>
@@ -7006,7 +7097,7 @@ As in all passages, we reply, which give information about the true nature of th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव्यक्त-परिणाम-भेदस्य अहङ्कारस्य क्षेत्रान्तर्भावो भगवतैवोपदिश्यते।
+अव्यक्त-परिणाम-भेदस्य अहङ्-कारस्य क्षेत्रान्तर्भावो भगवतैवोपदिश्यते।
 </details>
 
 <details><summary>English</summary>
@@ -7021,7 +7112,9 @@ Where, on the other hand, the Holy One declares the ahaṁkāra – a special ef
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स त्व् अनात्मनि देहेऽहम्-भाव-करण-हेतुत्वेन अहङ्कार इत्य् उच्यते।
+स त्व् अनात्मनि देहे  
+ऽहम्-भाव-करण-हेतुत्वेन  
+अहङ्-कार इत्य् उच्यते।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -7036,7 +7129,9 @@ he means that principle which is called ahaṁkāra, because it causes the assum
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्य त्व् अहङ्कार-शब्दस्य अभूत-तद्-भावेऽर्थे च्वि-प्रत्ययम् उत्पाद्य व्युत्पत्तिर् द्रष्टव्या।
+अस्य त्व् अहङ्कार-शब्दस्य  
+अभूत-तद्-भावेऽर्थे च्वि-प्रत्ययम् उत्पाद्य  
+व्युत्पत्तिर् द्रष्टव्या।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -7056,7 +7151,9 @@ This sentence is omitted in Thibaut's translation.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अयम् एव त्व् अहङ्कारः उत्कृष्ट-जनावमान-हेतुर् गर्वापर-नामा शास्त्रेषु बहुशो हेयतया प्रतिपाद्यते।
+अयम् एव त्व् अहङ्कार  
+उत्कृष्ट-जनावमान-हेतुर् गर्वापर-नामा  
+शास्त्रेषु बहुशो हेयतया प्रतिपाद्यते।
 </details>
 
 <details><summary>English</summary>
@@ -7069,9 +7166,11 @@ Such egoity constitutes the ahaṁkāra also designated as pride or arrogance, w
 अयमेव त्वहङ्कारः उत्कृष्टजनावमानहेतुर्गर्वापरनामा शास्त्रेषु बहुशो हेयतया प्रतिपाद्यते।
 </details>
 
+#### अहम्-बुद्धि-विभागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद् बाधकापेताऽहम्-बुद्धिस् साक्षाद्-आत्म-गोचरैव।
+तस्माद् बाधकापेता ऽहम्-बुद्धिस्  
+साक्षाद्-आत्म-गोचरैव।
 </details>
 
 <details><summary>English</summary>
@@ -7086,7 +7185,7 @@ Such consciousness of the 'I' therefore as is not sublated by anything else has 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शरीर-गोचरा त्व् अहम् बुद्धिर अविद्यैव।
+शरीर-गोचरा त्व् अहम्-बुद्धिर अविद्यैव।
 </details>
 
 <details><summary>English</summary>
@@ -7101,39 +7200,36 @@ while, on the other hand, such consciousness of the 'I' as has the body for its 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथोक्तं भगवता पराशरेण श्रूयतां चाप्य् अविद्यायाः स्वरूपं कुल-नन्दन।
+यथोक्तं भगवता पराशरेण 
+
+> श्रूयतां चाप्य् अविद्यायाः  
+स्वरूपं कुल-नन्दन।  
+अनात्मन्य् आत्म-बुद्धिर् या  
+(वि.पु.६.७.११) 
+
+– इति।
 </details>
 
 <details><summary>English</summary>
 
 In agreement with this the Reverend Parāsara has said, 'Hear from me the essential nature of Nescience;
-</details>
-
-<details><summary>मूलम्</summary>
-
-यथोक्तं भगवता पराशरेण श्रूयतां चाप्यविद्यायाः स्वरूपं कुलनन्दन ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अनात्मन्य् आत्म-बुद्धिर् या ([[वि.पु.६.७.१०.११|वि.पु.६.७.११]]) – इति।
-</details>
-
-<details><summary>English</summary>
-
 it is the attribution of Selfhood to what is not the Self.'
 </details>
 
 <details><summary>मूलम्</summary>
 
-अनात्मन्यात्मबुद्धिर्या (वि.पु.६.७.१०.११) – इति ।
+यथोक्तं भगवता पराशरेण श्रूयतां चाप्यविद्यायाः स्वरूपं कुलनन्दन । अनात्मन्यात्मबुद्धिर्या (वि.पु.६.७.१०.११) – इति ।
 </details>
 
-## अहमर्थात्मत्वोपसंहारः
+
+#### न ज्ञप्ति-मात्रारोपो देहे
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि ज्ञप्ति-मात्रम् एवाऽत्मा, तदाऽनात्मन्य् आत्माभिमाने शरीरे ज्ञप्ति-मात्र-प्रतिभासस् स्यात्, न ज्ञातृत्व-प्रतिभासः।
+यदि ज्ञप्ति-मात्रम् एवाऽत्मा,  
+तदाऽनात्मन्य् आत्माभिमाने शरीरे  
+ज्ञप्ति-मात्र-प्रतिभासस् स्यात्,  
+न ज्ञातृत्व-प्रतिभासः।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -7146,9 +7242,10 @@ If the Self were pure consciousness then pure consciousness only, and not the qu
 यदि ज्ञप्तिमात्रमेवाऽत्मा, तदाऽनात्मन्यात्माभिमाने शरीरे ज्ञप्तिमात्र-प्रतिभासस्स्यात्, न ज्ञातृत्वप्रतिभासः।
 </details>
 
+### सङ्ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माज् ज्ञाताऽहमर्थ एवाऽऽत्मा तद् उक्तम् –
+तस्माज् ज्ञाता ऽहम्-अर्थ एवाऽऽत्मा। 
 </details>
 
 <details><summary>English</summary>
@@ -7158,25 +7255,32 @@ The conclusion therefore remains that the Self is nothing but the knowing 'I'.
 
 <details><summary>मूलम्</summary>
 
-तस्माज्ज्ञाताऽहमर्थ एवाऽऽत्मा तदुक्तम् –
+तस्माज्ज्ञाताऽहमर्थ एवाऽऽत्मा ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः प्रत्यक्ष-सिद्धत्वाद् उक्त-न्यायागमान्वयात्।
+तद् उक्तम् –
 
-अविद्या-योगतश् चाऽत्मा ज्ञाताऽहम् इति भासते॥ इति॥
+> अतः प्रत्यक्ष-सिद्धत्वाद्  
+उक्त-न्यायागमान्वयात्।  
++++(देहात्म-भ्रमे ज्ञप्ति-मात्र-भिन्ने)+++ अविद्या-योगतश् चात्मा  
+"ज्ञाता ऽहम्" इति भासते॥ 
+
+इति॥
 </details>
 
 <details><summary>English</summary>
 
-Thus it has been said, 'As is proved by perception, and as also results from reasoning and tradition, and from its connexion with ignorance, the Self presents itself as a knowing 'I'.
+Thus it has been said, 
+
+> 'As is proved by perception, and as also results from reasoning and tradition, and from its connexion with ignorance, the Self presents itself as a knowing 'I'.'
 </details>
 
 <details><summary>मूलम्</summary>
 
+तदुक्तम् –  
 अतः प्रत्यक्षसिद्धत्वादुक्तन्यायागमान्वयात्।
-
 अविद्यायोगतश्चाऽत्मा ज्ञाताऽहमिति भासते॥ इति॥
 </details>
 
@@ -7197,9 +7301,13 @@ And again,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देहेन्द्रिय-मनः-प्राण-धीभ्यो ऽन्यो ऽन्यन्या-साधनः।
+> देहेन्द्रिय-मनः-प्राण-  
+धीभ्यो ऽन्यो ऽनन्य-साधनः।  
+नित्यो +++(अणु-सूक्ष्मतया)+++ व्यापी प्रतिक्षेत्रम्  
+आत्मा भिन्नस् स्वतस् सुखी॥  
+(आत्मसिद्धौ) +++(5)+++ 
 
-नित्यो व्यापी प्रतिक्षेत्रम् आत्मा भिन्नस् स्वतस् सुखी॥ (आत्मसिद्धौ) इति।
+इति।
 </details>
 
 <details><summary>English</summary>
