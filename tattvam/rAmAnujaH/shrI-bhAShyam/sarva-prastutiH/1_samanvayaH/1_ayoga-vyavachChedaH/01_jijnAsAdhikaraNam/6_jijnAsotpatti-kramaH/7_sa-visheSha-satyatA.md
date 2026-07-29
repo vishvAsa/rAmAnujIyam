@@ -7417,6 +7417,7 @@ we ask you to point out what defect it is on which Perception is based and may h
 अनादिभेदवासनैव हि दोष इति चेत्;
 </details>
 
+#### न शास्त्र-सिद्धा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भेद-वासनायास्  
@@ -7488,6 +7489,7 @@ Moreover, if Perception gives rise to perverse cognition because it is based on 
 किञ्च, यदि भेदवासनामूलत्वेन प्रत्यक्षस्य विपरीतार्थत्वम्; शास्त्रमपि तन्मूलत्वेन तथैव स्यात्।
 </details>
 
+#### दोषेण दोषापकृतिः?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोच्येत –  
@@ -7564,6 +7566,7 @@ for the reflection (which follows on hearing) consists in repeated attempts to c
 श्रवणावगतनिखिलभेदोपमर्दिब्रह्मात्मैकत्वविज्ञानाभ्यासरूपत्वान्मननादेः॥
 </details>
 
+#### प्रमाणाभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च - इदं शास्त्रम्,  
@@ -7584,8 +7587,10 @@ We further ask, 'By what means do you arrive at the conclusion that Scripture ca
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तावत् स्वतस् सिद्धा -  
-निर्धूत-निखिल-विशेषाऽनुभूतिर् इमम् अर्थम् अवगमयति, तस्यास् सर्व-विषय-विरक्तत्वात्, शास्त्र-पक्षपात-विरहात् च।
+न तावत् स्वतस् सिद्धा निर्धूत-निखिल-विशेषानुभूतिर्  
+इमम् अर्थम् अवगमयति,  
+तस्यास् सर्व-विषय-विरक्तत्वात्,  
+शास्त्र-पक्ष-पात-विरहात् च।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -7600,7 +7605,8 @@ It is certainly not Consciousness – self-proved and absolutely devoid of all d
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाप्य् ऐन्द्रियिकं प्रत्यक्षम्, दोष-मूलत्वेन विपरीतार्थत्वात्।
+नाप्य् ऐन्द्रियिकं प्रत्यक्षम्,  
+दोष-मूलत्वेन विपरीतार्थत्वात्।
 </details>
 
 <details><summary>English</summary>
@@ -7615,7 +7621,8 @@ Nor can sense-perception be the source of your conviction; for as it is founded 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-मूलत्वाद् एव नान्यान्य् अपि प्रमाणानि।
+तन्-मूलत्वाद् एव  
+नान्यान्य् अपि प्रमाणानि।
 </details>
 
 <details><summary>English</summary>
@@ -7630,7 +7637,8 @@ Nor again the other sources of knowledge; for they are all based on sense-percep
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस् स्व-पक्ष-साधन-प्रमाणानभ्युपगमान् न स्वाभिमतार्थ-सिद्धिः॥
+अतस् स्व-पक्ष-साधन-प्रमाणानभ्युपगमान्  
+न स्वाभिमतार्थ-सिद्धिः॥
 </details>
 
 <details><summary>English</summary>
@@ -7643,9 +7651,10 @@ As thus there are no acknowledged means of knowledge to prove your view, you mus
 अतस्स्वपक्षसाधनप्रमाणानभ्युपगमान्न स्वाभिमतार्थसिद्धिः॥
 </details>
 
+#### व्यावहारिक-स्तरे हि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु व्यावहारिक-प्रमाण-प्रमेय-व्यवहारो [[ऽस्माकप्यस्त्येव|ऽस्माकम् अप्य् अस्त्य् एव]]।
+> ननु व्यावहारिक-प्रमाण-प्रमेय-व्यवहारो ऽस्माकम् अप्य् अस्त्य् एव।
 </details>
 
 <details><summary>English</summary>
@@ -7675,7 +7684,11 @@ What, we ask in reply, do you understand by 'empirical'?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपात-प्रतीति-सिद्धो युक्तिभिर् निरूपितो न तथाऽवस्थित इति चेत्, किं तेन प्रयोजनम्?
+> आपात-प्रतीति-सिद्धो  
+युक्तिभिर् निरूपितो  
+न तथाऽवस्थित 
+
+इति चेत्, किं तेन प्रयोजनम्?
 </details>
 
 <details><summary>English</summary>
@@ -7690,7 +7703,9 @@ What rests on immediate unreflective knowledge, but is found not to hold good wh
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रमाणतया प्रतिपन्ने ऽपि यौक्तिक-बाधाद् एव प्रमाण-कार्याभावात्।
+प्रमाणतया प्रतिपन्ने ऽपि  
+यौक्तिक-बाधाद् एव  
+प्रमाण-कार्याभावात्।
 </details>
 
 <details><summary>English</summary>
@@ -7703,14 +7718,25 @@ If logical reasoning refutes something known through some means of knowledge, th
 प्रमाणतया प्रतिपन्नेऽपि यौक्तिकबाधादेव प्रमाणकार्याभावात्।
 </details>
 
+#### बाधाभावेऽपि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथोच्येत – शास्त्र-प्रत्यक्षयोः द्वयोर् अप्य् अविद्या-मूलत्वे ऽपि प्रत्यक्ष-विषयस्य शास्त्रेण बाधो दृश्यते; शास्त्र-विषयस्य सद्-अद्वितीय-ब्रह्मणः पश्चात्तन-बाधा-दर्शनेन निर्विशेषानुभूति-मात्रं ब्रह्मैव परमार्थ इति।
+अथोच्येत –  
+
+> शास्त्र-प्रत्यक्षयोर् द्वयोर् अप्य् अविद्या-मूलत्वे ऽपि  
+प्रत्यक्ष-विषयस्य शास्त्रेण बाधो दृश्यते।  
+शास्त्र-विषयस्य सद्-अद्वितीय-ब्रह्मणः पश्चात्तन-बाधाऽदर्शनेन  
+निर्विशेषानुभूति-मात्रं ब्रह्मैव परमार्थ 
+
+इति।
 </details>
 
 <details><summary>English</summary>
 
-Now you will possibly argue as follows: 'Scripture as well as Perception is founded on Nescience; but all the same Perception is sublated by Scripture. For as the object of Scripture, i.e. Brahman, which is one and without a second, is not seen to be sublated by any ulterior cognition, Brahman, i.e. pure non-differenced Consciousness, remains as the sole Reality.'--
+Now you will possibly argue as follows: 
+
+> 'Scripture as well as Perception is founded on Nescience; but all the same Perception is sublated by Scripture.  
+For as the object of Scripture, i.e. Brahman, which is one and without a second, is not seen to be sublated by any ulterior cognition, Brahman, i.e. pure non-differenced Consciousness, remains as the sole Reality.'--
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7720,7 +7746,8 @@ Now you will possibly argue as follows: 'Scripture as well as Perception is foun
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अयुक्तम्, अबाधितस्यापि दोष-मूलस्यापारमार्थ्य-निश्चयात्।
+तद् अयुक्तम्,  
+अबाधितस्यापि दोष-मूलस्यापारमार्थ्य-निश्चयात्।
 </details>
 
 <details><summary>English</summary>
@@ -7735,7 +7762,11 @@ But here too you are wrong, since we must decide that something which rests on a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतद् उक्तम् भवति – यथा सकलेतर-काचादि-दोष-रहित-पुरुषान्तरागोचर-गिरि-गुहासु वसतस् तैमिरिक-जनस्य अज्ञात-स्व-तिमिरस्य सर्वस्य तिमिर-दोषाविशेषेण द्विचन्द्र-ज्ञानम् अविशिष्टं जायते।
+एतद् उक्तम् भवति –  
+
+यथा सकलेतर-काचादि-दोष-रहित-- पुरुषान्तरागोचर--  
+गिरि-गुहासु वसतस् तैमिरिक-जनस्याज्ञात-स्व-तिमिरस्य सर्वस्य  
+तिमिर-दोषाविशेषेण द्वि-चन्द्र-ज्ञानम् अविशिष्टं जायते।
 </details>
 
 <details><summary>English</summary>
@@ -7750,7 +7781,9 @@ We will illustrate this point by an analogous instance. Let us imagine a race of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तत्र बाधक-प्रत्ययो ऽस्त्य् इति न तन् मिथ्या न भवतीति तद्-विषय-भूतं द्विचन्द्रत्वम् अपि मिथ्यैव।
+न तत्र +++(द्विचन्द्र-ज्ञाने)+++ बाधक-प्रत्ययो ऽस्तीति  
+न तन् +++(ज्ञानं)+++ मिथ्या न भवतीति  
+तद्-विषय-भूतं द्वि-चन्द्रत्वम् अपि मिथ्यैव। +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -7765,7 +7798,7 @@ Now in the case of these people there never arises a subsequent cognition sublat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दोषो ह्य् अयथार्थ-ज्ञान-हेतुः।
+दोषो ह्य् अ-यथार्थ-ज्ञान-हेतुः।
 </details>
 
 <details><summary>English</summary>
@@ -7780,7 +7813,9 @@ the defect of vision being the cause of a cognition not corresponding to reality
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा ब्रह्म-ज्ञानम् अविद्या-मूलत्वेन बाधक-ज्ञान-रहितम् अपि स्व-विषयेण ब्रह्मणा सह मिथ्यैव इति।
+तथा ब्रह्म-ज्ञानम्  
+अ-विद्या-मूलत्वेन बाधक-ज्ञान-रहितम् अपि  
+स्व-विषयेण ब्रह्मणा सह मिथ्यैवेति।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -7793,11 +7828,14 @@ And so it is with the cognition of Brahman also. This cognition is based on Nesc
 तथा ब्रह्मज्ञानमविद्यामूलत्वेन बाधकज्ञानरहितमपि स्वविषयेण ब्रह्मणा सह मिथ्यैव – इति।
 </details>
 
-## शास्त्रस्याविद्यामूलत्वाभ्युपगमे दोषप्रसञजनम्
+### शास्त्र-गत-ब्रह्म-मिथ्यात्वम्?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भवन्ति चात्र प्रयोगाः, विवादाध्यासितं ब्रह्म मिथ्या, अविद्यावत उत्पन्न-ज्ञान-विषयत्वात्, प्रपञ्च-वत्।
+भवन्ति चात्र प्रयोगाः -  
+
+> विवादाध्यासितं ब्रह्म मिथ्या,  
+अविद्यावत+++(→)+++ उत्पन्न-ज्ञान-विषयत्वात्, प्रपञ्च-वत्।
 </details>
 
 <details><summary>English</summary>
@@ -7827,7 +7865,9 @@ This conclusion admits of various expressions in logical form. 'The Brahman unde
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म मिथ्या, असत्य-हेतु-जन्य-ज्ञान-विषयत्वात्, प्रपञ्च-वद् एव।
+ब्रह्म मिथ्या,  
+अ-सत्य--हेतु-जन्य--ज्ञान-विषयत्वात्,  
+प्रपञ्चवद् एव।
 </details>
 
 <details><summary>English</summary>
@@ -7840,11 +7880,18 @@ This conclusion admits of various expressions in logical form. 'The Brahman unde
 ब्रह्म मिथ्या, असत्यहेतुजन्यज्ञानविषयत्वात्, प्रपञ्चवदेव।
 </details>
 
-## असत्यात् सत्यप्रतिपत्तिनिदर्शनैः प्रत्यक्षात् शास्त्रप्राबल्योक्तेः दूषणम्
+#### स्वप्नवच् चेद् अपि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च वाच्यं स्वाप्नस्य हस्त्यादि-विज्ञानस्यासत्यस्य परमार्थ-शुभाशुभ-प्रतिपत्ति-हेतुभाव-वत् अविद्या-मूलत्वेनासत्यस्यापि शास्त्रस्य परमार्थ-भूत-ब्रह्म-विषय-प्रतिपत्ति-हेतुभावो न विरुद्ध इति, स्वाप्न-ज्ञानस्यासत्यत्वाभावात्।
+न च वाच्यं -  
+
+> स्वाप्नस्य हस्त्यादि-विज्ञानस्यासत्यस्य 
+परमार्थ-शुभाशुभ- प्रतिपत्ति-हेतुभाववत्  
+अविद्या-मूलत्वेनासत्यस्यापि शास्त्रस्य  
+परमार्थ-भूत-ब्रह्म-विषय-- प्रतिपत्ति-हेतुभावो न विरुद्ध 
+
+इति, स्वाप्न-ज्ञानस्यासत्यत्वाभावात्।
 </details>
 
 <details><summary>English</summary>
@@ -7859,22 +7906,47 @@ You will now perhaps set forth the following analogy. States of dreaming conscio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र हि विषयाणाम् एव मिथ्यात्वम्; तेषामेव हि बाधो दृश्यते; न ज्ञानस्य, न हि मया स्वप्न-वेलायाम् अनुभूतं ज्ञानम् अपि न विद्यत इति कस्यचिद् अपि प्रत्ययो जायते।
+तत्र हि विषयाणाम् एव मिथ्यात्वम्;  
+तेषामेव हि बाधो दृश्यते;  
+न ज्ञानस्य। +++(5)+++ 
 </details>
 
 <details><summary>English</summary>
 
-it is only their objects that are false; these objects only, not the conscious states, are sublated by the waking consciousness. Nobody thinks 'the cognitions of which I was conscious in my dream are unreal';
+it is only their objects that are false; these objects only, not the conscious states, are sublated by the waking consciousness. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत्र हि विषयाणामेव मिथ्यात्वम्; तेषामेव हि बाधो दृश्यते; न ज्ञानस्य, न हि मया स्वप्नवेलायामनुभूतं ज्ञानमपि न विद्यत इति कस्यचिदपि प्रत्ययो जायते।
+तत्र हि विषयाणामेव मिथ्यात्वम्; तेषामेव हि बाधो दृश्यते; न ज्ञानस्य, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दर्शनं तु विद्यते, अर्था न सन्तीति हि बाधक-प्रत्ययः।
+न हि 
+
+> मया स्वप्न-वेलायाम् अनुभूतं ज्ञानम् अपि न विद्यत  
+
+इति कस्यचिद् अपि प्रत्ययो जायते।
+
+</details>
+
+<details><summary>English</summary>
+
+Nobody thinks 'the cognitions of which I was conscious in my dream are unreal';
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि मया स्वप्नवेलायामनुभूतं ज्ञानमपि न विद्यत इति कस्यचिदपि प्रत्ययो जायते।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दर्शनं तु विद्यते,  
+अर्था न सन्तीति हि बाधक-प्रत्ययः।
 </details>
 
 <details><summary>English</summary>
@@ -7889,7 +7961,9 @@ what men actually think is 'the cognitions are real, but the things are not real
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मायाविनो मन्त्रौषधादि-प्रभवं माया-मयं ज्ञानं सत्यम् एव प्रीतेर् भयस्य च हेतुः तत्रापि ज्ञानस्याबाधितत्वात्।
+मायाविनो मन्त्रौषधादि-प्रभवं मायामयं ज्ञानं  
+सत्यम् एव प्रीतेर् भयस्य च हेतुः -  
+तत्रापि ज्ञानस्याबाधितत्वात्।
 </details>
 
 <details><summary>English</summary>
@@ -7904,7 +7978,8 @@ In the same way the illusive state of consciousness which the magician produces 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विषयेन्द्रियादि-दोष-जन्यं रज्ज्व् आदौ सर्पादि-विज्ञानं सत्यम् एव, भयादि-हेतुः।
+विषयेन्द्रियादि-दोष-जन्यं रज्ज्व्-आदौ सर्पादि-विज्ञानं  
+सत्यम् एव भयादि-हेतुः।
 </details>
 
 <details><summary>English</summary>
@@ -7919,7 +7994,9 @@ The cognition which, owing to some defect in the object, the sense organ, &c., a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यैवादष्टे ऽपि स्वात्मनि सर्प-सन्निधानात् दष्ट-बुद्धिः, सत्यैव शङ्का-विष-बुद्धिर् मरण-हेतु-भूता।
+सत्यैवादष्टे ऽपि स्वात्मनि  
+सर्प-सन्निधानाद् दष्ट-बुद्धिः,  
+सत्यैव शङ्का-विष-बुद्धिर् मरण-हेतु-भूता।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -7934,7 +8011,8 @@ True also is the imagination which, owing to the nearness of a snake, arises in 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस्तु-भूत एव जलादौ मुखादि-प्रतिभासो वस्तु-भूत-मुख-गत-विशेष-निश्चय हेतुः।
+वस्तु-भूत एव जलादौ मुखादि-प्रतिभासो  
+वस्तु-भूत--मुख-गत-विशेष --निश्चय-हेतुः।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -7949,7 +8027,9 @@ In the same way the reflection of the face in the water is real, and hence enabl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एषां संवेदनानाम् उत्पत्तिमत्त्वाद् अर्थ-क्रिया-कारित्वात् च सत्यत्वम् अवसीयते।
+एषां संवेदनानाम् उत्पत्तिमत्त्वाद्  
+अर्थ-क्रिया-कारित्वाच् च  
+सत्यत्वम् अवसीयते।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -7962,11 +8042,14 @@ All these states of consciousness are real, as we conclude from their having a b
 एषां संवेदनानामुत्पत्तिमत्त्वादर्थक्रियाकारित्वाच्च सत्यत्वमवसीयते।
 </details>
 
-## ज्ञानसत्यत्वं विषयसत्यताव्याप्तमिति, तन्निवृत्त्या तन्निवृत्तिरिति शङ्का, तत्परिहारश्च
-
+##### बुद्ध्य्-आलम्बनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हस्त्यादीनाम्, अभावे ऽपि कथं तद्-बुद्धयः सत्या भवन्तीति चेत्, नैतत्, बुद्धीनां सालम्बनत्व-मात्र-नियमात्।
+> हस्त्य्-आदीनाम् अभावे ऽपि  
+कथं तद्-बुद्धयः सत्या भवन्ति
+
+इति चेत्, नैतत्,  
+बुद्धीनां सालम्बनत्व-मात्र-नियमात्।
 </details>
 
 <details><summary>English</summary>
@@ -7981,7 +8064,9 @@ Nor would it avail you to object that in the absence of real elephants, and so o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्थस्य प्रतिभासमानत्वम् एव ह्य् आलम्बनत्वे ऽपेक्षितम्; प्रतिभासमानता चास्त्य् एव दोष-वशात्।
+अर्थस्य प्रतिभासमानत्वम् एव ह्य्  
+आलम्बनत्वे ऽपेक्षितम्;  
+प्रतिभासमानता चास्त्य् एव दोष-वशात्।
 </details>
 
 <details><summary>English</summary>
@@ -7996,7 +8081,8 @@ the mere appearance of a thing is a sufficient substrate, and such an appearance
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स तु बाधितो ऽसत्य इत्य् अवसीयते।
+स तु बाधितो ऽसत्य  
+इत्य् अवसीयते।
 </details>
 
 <details><summary>English</summary>
@@ -8011,7 +8097,8 @@ The thing we determine to be unreal because it is sublated;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अबाधिता हि बुद्धिस् सत्यैवेत्य् उक्तम्॥
+अबाधिता हि बुद्धिस्  
+सत्यैवेत्य् उक्तम्॥
 </details>
 
 <details><summary>English</summary>
@@ -8024,9 +8111,12 @@ the idea is non-sublated, and therefore real.
 अबाधिता हि बुद्धिस्सत्यैवेत्युक्तम्॥
 </details>
 
+###### रेखाया वर्णः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रेखया वर्ण-प्रतिपत्ताव् अपि नासत्यात् सत्य-बुद्धिः, रेखायास् सत्यत्वात् ॥
+रेखया वर्ण-प्रतिपत्ताव् अपि  
+नासत्यात् सत्य-बुद्धिः,  
+रेखायास् सत्यत्वात् ॥
 </details>
 
 <details><summary>English</summary>
@@ -8039,35 +8129,22 @@ Nor can you quote in favour of your view – of the real being known through the
 रेखया वर्णप्रतिपत्तावपि नासत्यात्सत्यबुद्धिः, रेखायास्सत्यत्वात् ॥
 </details>
 
-## असत्यात् सत्यबुद्धेः आपाद्यनिरासः
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु वर्णात्मना प्रतिपन्ना रेखा वर्ण-बुद्धि-हेतुः।
-</details>
-
-<details><summary>English</summary>
-
-But the stroke causes the idea of the letter only in so far as it is apprehended as being a letter,
-</details>
-
-<details><summary>मूलम्</summary>
-
-ननु वर्णात्मना प्रतिपन्ना रेखा वर्णबुद्धिहेतुः।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+> ननु वर्णात्मना प्रतिपन्ना रेखा  
+वर्ण-बुद्धि-हेतुः।
 वर्णात्मता त्व् असत्या।
 </details>
 
 <details><summary>English</summary>
 
+> But the stroke causes the idea of the letter only in so far as it is apprehended as being a letter,
 and this 'being a letter' is untrue!--
 </details>
 
 <details><summary>मूलम्</summary>
 
+ननु वर्णात्मना प्रतिपन्ना रेखा वर्णबुद्धिहेतुः।
 वर्णात्मता त्वसत्या।
 </details>
 
@@ -8088,7 +8165,8 @@ Not so, we rejoin. If this 'being a letter' were unreal it could not be a means 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असतो निरुपाख्यस्य ह्य् उपायत्वं न दृष्टम् अनुपपन्नं च।
+असतो निरुपाख्यस्य ह्य् उपायत्वं  
+न दृष्टम् अनुपपन्नं च।
 </details>
 
 <details><summary>English</summary>
@@ -8103,12 +8181,14 @@ for we neither observe nor can prove that what is non-existent and indefinable c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ तस्यां वर्ण-बुद्धेर् उपायत्वम्; एवं तर्ह्य् असत्यात् सत्य-बुद्धिर् न स्याद् बुद्धेस् सत्यत्वाद् एव।
+अथ "तस्यां वर्ण-बुद्धेर् उपायत्वम्?";  
+एवं तर्ह्य् असत्यात् सत्य-बुद्धिर् न स्याद्  
+बुद्धेस् सत्यत्वाद् एव।
 </details>
 
 <details><summary>English</summary>
 
-Let then the idea of the letter constitute the means!--In that case, we rejoin, the apprehension of the real does not spring from the unreal; and besides,
+Let then the idea of the letter constitute the means!--In that case, we rejoin, the apprehension of the real does not spring from the unreal; 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8123,7 +8203,7 @@ Let then the idea of the letter constitute the means!--In that case, we rejoin, 
 
 <details><summary>English</summary>
 
-it would follow therefrom that the means and what is to be effected thereby would be one, i.e. both would be, without any distinction, the idea of the letter only.
+and besides, it would follow therefrom that the means and what is to be effected thereby would be one, i.e. both would be, without any distinction, the idea of the letter only.
 </details>
 
 <details><summary>मूलम्</summary>
