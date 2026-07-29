@@ -8111,7 +8111,8 @@ the idea is non-sublated, and therefore real.
 अबाधिता हि बुद्धिस्सत्यैवेत्युक्तम्॥
 </details>
 
-###### रेखाया वर्णः
+#### वर्ण-रेखावच् चेद् अपि
+##### रेखा-सत्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रेखया वर्ण-प्रतिपत्ताव् अपि  
@@ -8129,6 +8130,7 @@ Nor can you quote in favour of your view – of the real being known through the
 रेखया वर्णप्रतिपत्तावपि नासत्यात्सत्यबुद्धिः, रेखायास्सत्यत्वात् ॥
 </details>
 
+##### वर्णात्म-सत्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु वर्णात्मना प्रतिपन्ना रेखा  
@@ -8183,7 +8185,7 @@ for we neither observe nor can prove that what is non-existent and indefinable c
 
 अथ "तस्यां वर्ण-बुद्धेर् उपायत्वम्?";  
 एवं तर्ह्य् असत्यात् सत्य-बुद्धिर् न स्याद्  
-बुद्धेस् सत्यत्वाद् एव।
+बुद्धेस् सत्यत्वाद् एव,
 </details>
 
 <details><summary>English</summary>
@@ -8198,7 +8200,8 @@ Let then the idea of the letter constitute the means!--In that case, we rejoin, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपायोपेययोर् एकत्व-प्रसक्तेस् च, उभयोर् वर्ण-बुद्धित्वाविशेषात्।
++++(असत्यात् सत्य-बुद्धिर् न)+++ उपायोपेययोर् एकत्व-प्रसक्तेस् च,  
+उभयोर् वर्ण-बुद्धित्वाविशेषात्।
 </details>
 
 <details><summary>English</summary>
@@ -8213,7 +8216,9 @@ and besides, it would follow therefrom that the means and what is to be effected
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रेखाया अविद्यमान-वर्णात्मनोपायत्वे चैकस्याम् एव रेखायाम् अविद्यमान-सर्व-वर्णात्मकत्वस्य सुलभत्वाद् एक-रेखा-दर्शनात् सर्व-वर्ण-प्रतिपत्तिस् स्यात्।
+रेखाया अविद्यमान-वर्णात्मनोपायत्वे च  
+एकस्याम् एव रेखायाम् अ-विद्यमान-सर्व-वर्णात्मकत्वस्य सुलभत्वाद्  
+एक-रेखा-दर्शनात् सर्व-वर्ण-प्रतिपत्तिस् स्यात्।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -8228,7 +8233,13 @@ Moreover, if the means were constituted by the stroke in so far as it is _not_ t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ पिण्ड-विशेषे देवदत्तादि-शब्द-सङ्केत-वत् चक्षुर् ग्राह्य-रेखा-विशेषे श्रोत्र-ग्राह्य-वर्ण-विशेष-सङ्केत-वशाद् रेखा-विशेषो वर्ण-विशेष-बुद्धि-हेतुर् इति।
+अथ 
+
+> पिण्ड-विशेषे देवदत्तादि-शब्द-सङ्केतवत्  
+चक्षुर् ग्राह्य-रेखा-विशेषे श्रोत्र-ग्राह्य-वर्ण-विशेष-सङ्केत-वशाद्  
+रेखा-विशेषो वर्ण-विशेष-बुद्धि-हेतुर् 
+
+इति।
 </details>
 
 <details><summary>English</summary>
@@ -8243,7 +8254,10 @@ But, in the same way as the word 'Devadatta' conventionally denotes some particu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हन्त तर्हि सत्याद् एव सत्य-प्रतिपत्तिः; रेखायास् सङ्केतस्य च सत्यत्वात्, रेखा-गवयाद् अपि सत्य-गवय-बुद्धिस् सादृश्य-निबन्धना, सादृश्यं च सत्यम् एव॥
+हन्त तर्हि सत्याद् एव सत्य-प्रतिपत्तिः;  
+रेखायास् सङ्केतस्य च सत्यत्वात्,  
+रेखा-गवयाद् अपि सत्य-गवय-बुद्धिस् सादृश्य-निबन्धना,  
+सादृश्यं च सत्यम् एव॥+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -8256,21 +8270,34 @@ Quite so, we reply, but on this explanation the real is known through the real; 
 हन्त तर्हि सत्यादेव सत्यप्रतिपत्तिः; रेखायास्सङ्केतस्य च सत्यत्वात्, रेखागवयादपि सत्यगवयबुद्धिस्सादृश्यनिबन्धना, सादृश्यं च सत्यमेव॥
 </details>
 
-## स्फोटवादावलम्बि उदाहरणमादाय शङ्कापरिहारौ
+#### स्फोटवादावलम्बि उदाहरणमादाय शङ्कापरिहारौ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चैकरूपस्य शब्दस्य नाद-विशेषेणार्थ-भेद-बुद्धि-हेतुत्वे ऽप्य् असत्यात् सत्य-प्रतिपत्तिः, नाना-नादाभिव्यक्तस्यैकस्यैव शब्दस्य तत्तन्नादाभिव्यङ्ग्य-स्वरूपेणार्थ-विशेषैस् सह सम्बन्ध-ग्रहण-वशाद् अर्थ-भेद-बुद्ध्य् उत्पत्ति-हेतुत्वात्।
+न चैक-रूपस्य शब्दस्य  
+नाद-विशेषेण +अर्थ-भेद-बुद्धि-हेतुत्वे ऽप्य्  
+असत्यात् सत्य-प्रतिपत्तिः, 
+
+नाना-नादाभिव्यक्तस्यैकस्यैव शब्दस्य  
+तत्-तन्-नादाभिव्यङ्ग्य--स्वरूपेण  
+अर्थ-विशेषैस् सह सम्बन्ध-ग्रहण-वशाद्  
+अर्थ-भेद-बुद्ध्य्-उत्पत्ति-हेतुत्वात्।
 </details>
 
 <details><summary>English</summary>
 
-Nor can it be said (with a view to proving the pūrvapaksha by another analogous instance) that we meet with a cognition of the real by means of the unreal in the case of sound (śabda) which is essentially uniform, but causes the apprehension of different things by means of difference of tone (nāda). For sound is the cause of the apprehension of different things in so far only as we apprehend the connexion of sound manifesting itself in various tones, with the different things indicated by those various tones [^fn_13].
+Nor can it be said (with a view to proving the pūrvapaksha by another analogous instance) that  
+we meet with a cognition of the real by means of the unreal in the case of sound (śabda)  
+which is essentially uniform,  
+but causes the apprehension of different things by means of difference of tone (nāda).  
+For sound is the cause of the apprehension of different things  
+in so far only as we apprehend the connexion of sound manifesting itself in various tones,  
+with the different things indicated by those various tones [fn_13].
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^fn_13]: 77:1 And those manifestations of sound by means of various tones are themselves something real.
+[fn_13]: 77:1 And those manifestations of sound by means of various tones are themselves something real.
 </details>
 
 <details><summary>मूलम्</summary>
