@@ -6065,85 +6065,1184 @@ In the absence of egoity, 'inwardness' could not be established for consciousnes
 अहम्भावविगमे तु ज्ञप्तेरपि न प्रत्यक्त्वसिद्धिरित्युक्तम्॥
 </details>
 
-## सुप्तौ अहमर्थस्य अविशदस्फुरणम्
+### सुप्तौ
+<details><summary>English</summary>
 
-तमोगुणाभिभवात् परागर्थानुभवाभावाच्च अहमर्थस्य विविक्तस्फुटप्रतिभासाभावेऽप्याप्रबोधात् अहमित्येकाकारेणाऽत्मनस्स्फुरणात्सुषुप्तावपि नाहम्भावविगमः। भवदभिमताया अनुभूतेरपि तथैव प्रथेति वक्तव्यम्।
+The conscious subject persists in deep sleep.
+</details>
 
-## स्वपक्षे प्रमाणानुरोधः, परपक्षे तदननुरोधश्च
 
-न हि सुषुप्तोत्थितः कश्चिदहम्भाववियुक्तार्थान्तरप्रत्यनीकाकारा ज्ञप्तिरहमज्ञानसाक्षितया अवतिष्ठत इत्येवंविधां स्वापसमकालामनुभूतिं परामृशति । एवं हि सुप्तोत्थितस्य परामर्शः, सुखमहमस्वाप्समिति । अनेन प्रत्यवमर्शेन तदानीमप्यहमर्थस्यैवाऽत्मनस्सुखित्वं ज्ञातृत्वं च ज्ञायते॥
+#### अ-विशद-स्फुरणम्
 
-## उक्ते परामर्शे परोक्तायाः अन्यासिद्धेः परिहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च वाच्यं, यथेदानीं सुखं भवति; तथा तदानीमस्वाप्समित्येषा प्रतिपत्तिरिति; अतद्रूपत्वात्प्रतिपत्तेः। न चाहमर्थस्याऽत्मनोऽस्थिरत्वेन तदानीमहमर्थस्य सुखित्वानुसन्धानानुपपत्तिः। यतस्सुषुप्तिदशायाः प्रागनुभूतं वस्तु सुप्तोत्थितो मयेदं कृतं, मयेदमनुभूतम् अहमेतदवोचम् इति परामृशति।
+तमो-गुणाभिभवात्  
+पराग्-अर्थानुभवाभावाच् च  
+अहम्-अर्थस्य विविक्त-स्फुट-प्रतिभासाभावे ऽप्य्  
+आप्रबोधाद् "अहम्" इत्य् एकाकारेणात्मनस् स्फुरणात्  
+सुषुप्ताव् अपि नाहम्भाव-विगमः।+++(4)+++
+</details>
 
-(अहमर्थाननुभवसाधकनिषेधसामान्यविषयपरामर्शमादाय शङ्कासमाधाने)
+<details><summary>English</summary>
 
-एतावन्तं कालं न किञ्चिदहमज्ञासिषम् इति च परामृशतीति चेत्, ततः किम्? न किञ्चिदिति कृत्स्नप्रतिषेध इति चेत्; न, नाहमवेदिषम् इति वेदितुरहमर्थस्यैवानुवृत्तेः वेद्यविषयो हि स प्रतिषेधः। न किञ्चिदिति निषेधस्य कृत्स्नविषयत्वे भवदभिमता अनुभूतिरपि प्रतिषिद्धा स्यात्।
+In deep sleep the quality of darkness prevails in the mind and there is no consciousness of outward things, and thus there is no distinct and clear presentation of the 'I'; but all the same the Self somehow presents itself up to the time of waking in the one form of the 'I,' and the latter cannot therefore be said to be absent.
+</details>
 
-## अनुभूतेः न निषेधः, किन्तु तदनुवृत्तेः, इत्याशङ्कापरिहारौ
+<details><summary>मूलम्</summary>
+
+तमोगुणाभिभवात् परागर्थानुभवाभावाच्च अहमर्थस्य विविक्तस्फुटप्रतिभासाभावेऽप्याप्रबोधात् अहमित्येकाकारेणाऽत्मनस्स्फुरणात्सुषुप्तावपि नाहम्भावविगमः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भवद्-अभिमताया अनुभूतेर् अपि तथैव प्रथेति वक्तव्यम्।
+</details>
+
+<details><summary>English</summary>
+
+Pure consciousness assumed by you (to manifest itself in deep sleep) is really in no better case;
+</details>
+
+<details><summary>मूलम्</summary>
+
+भवदभिमताया अनुभूतेरपि तथैव प्रथेति वक्तव्यम्।
+</details>
+
+#### उत्थाने प्रत्यवमर्शः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि सुषुप्तोत्थितः कश्चिद्  
+
+> अहम्-भाव-वियुक्त-- +अर्थान्तर-प्रत्यनीकाकारा ज्ञप्तिर् अहम्  
+अ-ज्ञान--साक्षितया अवतिष्ठ
+
+इत्य् एवं-विधाम् स्वाप-समकालाम् अनुभूतिम् परामृशति।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+for a person risen from deep sleep never represents to himself his state of consciousness during sleep in the form, 'I was pure consciousness free from all egoity and opposed in nature to everything else, witnessing Nescience';
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि सुषुप्तोत्थितः कश्चिदहम्भाववियुक्तार्थान्तरप्रत्यनीकाकारा ज्ञप्तिरहमज्ञानसाक्षितया अवतिष्ठ इत्येवंविधां स्वापसमकालामनुभूतिं परामृशति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् हि सुप्तोत्थितस्य परामर्शः,  
+
+> सुखम् अहम् अस्वाप्सम् 
+
+इति।
+</details>
+
+<details><summary>English</summary>
+
+what he thinks is only 'I slept well.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं हि सुप्तोत्थितस्य परामर्शः, सुखमहमस्वाप्समिति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनेन प्रत्यवमर्शेन  
+तदानीम् अप्य् अहम्-अर्थस्यैवाऽत्मनस् सुखित्वम् ज्ञातृत्वम् च ज्ञायते॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+From this form of reflection it appears that even during sleep the Self. i.e. the 'I,' was a knowing subject and perceptive of pleasure.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनेन प्रत्यवमर्शेन तदानीमप्यहमर्थस्यैवाऽत्मनस्सुखित्वं ज्ञातृत्वं च ज्ञायते॥
+</details>
+
+#### अनुमानं न
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च वाच्यम्,  
+
+> "+++(यतः→)+++ यथेदानीम् सुखम् भवति;  
+तथा +++(→ततः)+++ तदानीम् अस्वाप्सम्" इत्य् एषा प्रतिपत्तिर् 
+
+इति; अ-तद्-रूपत्वात् प्रतिपत्तेः।
+</details>
+
+<details><summary>English</summary>
+
+Nor must you urge against this that the reflection has the following form: 'As now I feel pleasure, so I slept then also'; for the reflection is distinctly _not_ of that kind. [fn_12]
+</details>
+
+<details><summary>English - Notes</summary>
+
+[fn_12]: 68:1 I. e. the reflection as to the perception of pleasure refers to the past state of sleep only, not to the present moment of reflection.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च वाच्यं, यथेदानीं सुखं भवति; तथा तदानीमस्वाप्समित्येषा प्रतिपत्तिरिति; अतद्रूपत्वात्प्रतिपत्तेः।
+</details>
+
+##### नात्मास्थिरत्वात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चाहम्-अर्थस्याऽत्मनो ऽस्थिरत्वेन  
+तदानीम् अहम्-अर्थस्य सुखित्वानुसन्धानानुपपत्तिः।
+</details>
+
+<details><summary>English</summary>
+
+Nor must you say that owing to the non-permanency of the 'I' its perception of pleasure during sleep cannot connect itself with the waking state.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चाहमर्थस्याऽत्मनोऽस्थिरत्वेन तदानीमहमर्थस्य सुखित्वानुसन्धानानुपपत्तिः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतस् सुषुप्ति-दशायाः प्राग्-अनुभूतम् वस्तु  
+सुप्तोत्थितो "मयेदम् कृतम्",  
+"मयेदम् अनुभूतम्", "अहम् एतद् अवोचम्" इति परामृशति।
+</details>
+
+<details><summary>English</summary>
+
+For (the 'I' is permanent as appears from the fact that) the person who has risen from sleep recalls things of which he was conscious before his sleep, 'I did such and such a thing,' 'I observed this or that,' 'I said so or so.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+यतस्सुषुप्तिदशायाः प्रागनुभूतं वस्तु सुप्तोत्थितो मयेदं कृतं, मयेदमनुभूतम् अहमेतदवोचम् इति परामृशति।
+</details>
+
+##### नास्मृतेः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "एतावन्तम् कालं न किञ्चिद् अहम् अज्ञासिषम्" 
+इति च परामृशति
+
+इति चेत्, ततः किम्?
+</details>
+
+<details><summary>English</summary>
+
+--But, you will perhaps say, he also reflects, 'For such and such a time I was conscious of nothing!'--'And what does this imply?' we ask.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतावन्तं कालं न किञ्चिदहमज्ञासिषम् इति च परामृशतीति चेत्, ततः किम्?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "न किञ्चिद्" इति कृत्स्न-प्रतिषेधः 
+
+इति चेत्; न,  
+"नाहम् अवेदिषम्" इति वेदितुर अहम्-अर्थस्यैवानुवृत्तेः  
+वेद्य-विषयो हि स प्रतिषेधः।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+'It implies a negation of everything!'--By no means, we rejoin. The words 'I was conscious' show that the knowing 'I' persisted, and that hence what is negated is only the objects of knowledge.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न किञ्चिदिति कृत्स्नप्रतिषेध इति चेत्; न, नाहमवेदिषम् इति वेदितुरहमर्थस्यैवानुवृत्तेः वेद्यविषयो हि स प्रतिषेधः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"न किञ्चिद्" इति निषेधस्य कृत्स्न-विषयत्वे  
+भवद्-अभिमता ऽनुभूतिर् अपि प्रतिषिद्धा स्यात्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+If the negation implied in 'of nothing' included everything, it would also negative the pure consciousness which you hold to persist in deep sleep.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न किञ्चिदिति निषेधस्य कृत्स्नविषयत्वे भवदभिमता अनुभूतिरपि प्रतिषिद्धा स्यात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुषुप्ति-समये त्व् अनुसन्धीयमानम्  
+अहम्-अर्थम् आत्मनम् ज्ञातारम् "अहम्" इति परामृश्य  
+"न किञ्चिद् अवेदिषम्" इति वेदने +++(→प्रतिषिध्यमाने)+++ तस्य +++(ज्ञातुः)+++ प्रतिषिध्यमाने  
+
+तस्मिन् काले निषिध्यमानाया वित्तेस् सिद्धिम्,  
+अनुवर्तमानस्य ज्ञातुर अहम्-अर्थस्य चासिद्धिम्,  
+अनेनैव "न किञ्चिद् अहम् अवेदिषम्" इति परामर्शेन साधयंस्  
+तम् इमम् अर्थम् +++(निरुत्तराणां)+++ देवानाम् +++(अग्रय्)+++ एव साधयतु॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+In the judgment 'I was conscious of nothing,' the word 'I' clearly refers to the 'I,' i.e. the knowing Self which persists even during deep sleep, while the words 'was conscious of nothing' negative all knowledge on the part of that 'I'; 
+
+if, now, in the face of this, you undertake to prove by means of this very judgment that knowledge – which is expressly denied – existed at the time, and that the persisting knowing Self did not exist, you may address your proof to the patient gods who give no reply!--
+</details>
+
+<details><summary>मूलम्</summary>
 
 सुषुप्तिसमये त्वनुसन्धीयमानमहमर्थमात्मनं ज्ञातारमहमिति परामृश्य न किञ्चिदवेदिषमिति वेदने तस्य प्रतिषिध्यमाने तस्मिन्काले निषिध्यमानाया वित्तेस्सिद्धिमनुवर्तमानस्य ज्ञातुरहमर्थस्य चासिद्धिमनेनैव न किञ्चिदहमवेदिषम् इति परामर्शेन साधयंस्तमिममर्थं देवानामेव साधयतु॥
+</details>
 
-## निषेधविशेषविषयपरामर्शमादाय शङ्कासमाधाने
+##### न स्व-विशेषास्मृतेः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मामप्यहं न ज्ञातवान् इति अहमर्थस्यापि तदानीमननुसन्धानं प्रतीयत इति चेत्; स्वानुभवस्ववचनयोर्विरोधमपि न जानन्ति भवन्तः। अहं मां न ज्ञातवान् इति ह्यनुभववचने। मामिति किं निषिध्यत इति चेत्; साधु पृष्टं भवता। तदुच्यते, अहमर्थस्य ज्ञातुरनुवृत्तेः न स्वरूपं निषिध्यते; अपि तु प्रबोधसमयेऽनुसन्धीयमानस्याहमर्थस्य वर्णाश्रमादिविशिष्टता।
+> "माम् अप्य् अहम् न ज्ञातवान्"  
+इत्य् अहम्-अर्थस्यापि तदानीम् अननुसन्धानम् प्रतीयत  
 
-## अहम् माम् इति पदयोः विशिष्टविथयता
+इति चेत्;  
+स्वानुभव-स्ववचनयोर् विरोधम् अपि न जानन्ति भवन्तः।+++(5)+++
+</details>
 
-अहं मां न ज्ञातवान् इत्युक्ते विषयो विवेचनीयः। जागरितावस्थानुसंहितजात्यादि-विशिष्टोऽस्मदर्थो मामित्यंशस्य विषयः। स्वाप्ययावस्थाप्रसिद्धाविशदस्वानुभवैकतानश्च अहमर्थोऽहमित्यंशस्य विषयः। अत्र सुप्तोऽहमीदृशोऽहमिति च मामपि न ज्ञातवानहमित्येव खल्वनुभवप्रकारः॥
+<details><summary>English</summary>
 
-## उक्तांशस्य परमतेन उपपादन्
+But – our opponent goes on to urge – I form the following judgment also: 'I then was not conscious of myself,' and from this I understand that the 'I' did not persist during deep sleep!--You do not know, we rejoin, that this denial of the persistence of the 'I' flatly contradicts the state of consciousness expressed in the judgment 'I was not conscious of myself' and the verbal form of the judgment itself!--
+</details>
 
-किञ्च, सुषुप्तावात्माऽज्ञानसाक्षित्वेनाऽस्त इति हि भवदीया प्रक्रिया। साक्षित्वं च साक्षाज्ज्ञातृत्वमेव। न ह्यजानतस्साक्षित्त्वम्। ज्ञातैव हि लोकवेदयोस्साक्षीति व्यपदिश्यते; न ज्ञानमात्रम्। स्मरति च भगवान् पाणिनिः
-साक्षाद्द्रष्टरि सञ्ज्ञायाम् (अष्टा.५.२.९१) इति साक्षाज्ज्ञातर्येव साक्षिशब्दम्। स चायं साक्षी जानामीति प्रतीयमानोऽस्मदर्थ एवेति कुतस्तदानीमहमर्थो न प्रतीयेत । आत्मने स्वयमवभासमानोऽहमित्येवावभासत इति स्वापाद्यवस्थास्वप्यात्मा प्रकाशमानोऽहमित्येवावभासत इति सिद्धम्॥
+<details><summary>मूलम्</summary>
 
-## मुक्तौ अहमर्थानुवृत्तेः अनूद्य दूषणम्
+मामप्यहं न ज्ञातवान् इति अहमर्थस्यापि तदानीमननुसन्धानं प्रतीयत इति चेत्; स्वानुभवस्ववचनयोर्विरोधमपि न जानन्ति भवन्तः।
+</details>
 
-यत्तु – मोक्षदशायामहमर्थो नानुवर्तते – इति; तदपेशलम्। तथा सत्यात्मनाश एवापवर्गः प्रकारान्तरेण प्रतिज्ञातः स्यात्। न चाहमर्थो धर्ममात्रम्; येन
-तद्विगमेऽप्यविद्यानिवृत्ताविव स्वरूपमवतिष्ठते। प्रत्युत स्वरूपमेवाहमर्थ आत्मनः। ज्ञानं तु तस्य धर्मः अहं जानामि, ज्ञानं मे जातम् इति चाहमर्थधर्मतया ज्ञानप्रतीतेरेव॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## श्रुत्यर्थापत्त्या उक्तार्थसमर्थनम्
+> "अहम् माम् न ज्ञातवान्" इति ह्य् अनुभव-वचने  
+"माम्" इति किम् निषिध्यत 
 
-अपि च यः परमार्थतो भ्रान्त्या वाऽऽध्यात्मिकादिदुःखैर्दुःखितया स्वात्मानमनुसन्धत्ते अहं दुःखी इति। सर्वमेतद्दुःखजातमपुनर्भवमपोह्य कथमहमनाकुलस्स्वस्थो भवेयम् इत्युत्पन्नमोक्ष-रागः स एव तत्साधने प्रवर्तते। स साधनानुष्ठानेन यद्यहमेव न भविष्यामीत्यवगच्छेत्; अपसर्पेदेवासौ मोक्षकथाप्रस्तावात्। ततश्चाधिकारिविरहादेव सर्वं मोक्षशास्त्रमप्रमाणं स्यात्। अहमुपलक्षितं प्रकाशमात्रमपवर्गेऽवतिष्ठत
-इति चेत्; किमनेन? मयि नष्टेऽपि किमपि प्रकाशमात्रमपवर्गेऽवतिष्ठत इति मत्वा न हि कश्चित् बुद्धिपूर्वकारी प्रयतते। अतोऽहमर्थस्यैव ज्ञातृतया सिद्ध्यतः प्रत्यगात्मत्वम्।
+इति चेत्; साधु पृष्टम् भवता।
+</etails>
 
-## उक्तार्थे अनुमानम्
+<details><summary>English</summary>
 
-स च प्रत्यगात्मा मुक्तावप्यहमित्येव प्रकाशते, स्वस्मै प्रकाशमानत्वात्, यो यः स्वस्मै प्रकाशते स सर्वोऽहमित्येव प्रकाशते यथा तथावभासमानत्वेनोभयवादिसम्मतस्संसार्यात्मा। यः पुनरहमिति न चकास्ति; नासौ स्वस्मै प्रकाशते, यथा घटादिः। स्वस्मै प्रकाशते चायं मुक्तात्मा; तस्मादहमित्येव प्रकाशते॥
+But what then is denied by the words 'of myself?--
+This, we admit, is a reasonable question.
+</details>
 
-## उक्तानुमाने हेतोः साध्यविशेषविरुद्धत्वाशङ्कापरिहारौ
+<details><summary>मूलम्</summary>
 
-न चाहमिति प्रकाशमानत्वेन तस्याज्ञत्वसंसारित्वादिप्रसङ्गः। मोक्षविरोधात्, अज्ञत्वाद्यहेतुत्वाच्चाहम्प्रत्ययस्य। अज्ञानं नाम स्वरूपाज्ञानमन्यथा ज्ञानं विपरीतज्ञानं वा। अहिमत्येवाऽत्मनस्स्वरूपमिति स्वरूपज्ञानरूपोऽहम्प्रत्ययो नाज्ञत्वमापादयति, कुतस्संसारित्वम्। अपि तु
-तद्विरोधित्वान्नाशयत्येव।
+अहं मां न ज्ञातवान् इति ह्यनुभववचने
+मामिति किं निषिध्यत इति चेत्; साधु पृष्टं भवता।
+</details>
 
-## निवृत्ताविद्यानामपि अहम्प्रत्ययः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मात्मभावापरोक्ष्यनिर्धूतनिरवशेषाविद्यानामपि वामदेवादीनामहमित्येव आत्मानुभवदर्शनाच्च। श्रूयते हि – तद्धैतत्पश्यन्नृषिर्वामदेवः प्रतिपेदे अहं मनुरभवं सूर्यश्च (बृ.३.४.१०) इति, अहमेकः प्रथममासं वर्तामि च भविष्यामि च (अथर्व.शि.उ.९.खण्डे) इत्यादि।
+तद् उच्यते,  
+अहम्-अर्थस्य ज्ञातुर् अनुवृत्तेः  
+न स्वरूपम् निषिध्यते;  
+अपि तु प्रबोध-समये ऽनुसन्धीयमानस्याहम्-अर्थस्य वर्णाश्रमादि-विशिष्टता।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Let us consider the point. What is negatived in that judgment is not the knowing 'I' itself, but merely the distinctions of caste, condition of life, &c. which belong to the 'I' at the time of waking.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदुच्यते, अहमर्थस्य ज्ञातुरनुवृत्तेः न स्वरूपं निषिध्यते; अपि तु प्रबोधसमयेऽनुसन्धीयमानस्याहमर्थस्य वर्णाश्रमादिविशिष्टता।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अहम् मां न ज्ञातवान् 
+
+इत्य् उक्ते विषयो विवेचनीयः।
+</details>
+
+<details><summary>English</summary>
+
+We must distinguish the objects of the several parts of the judgment under discussion.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहं मां न ज्ञातवान् इत्युक्ते विषयो विवेचनीयः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जागरितावस्थानुसंहित-जात्य्-आदि-विशिष्टो ऽस्मद्-अर्थो  
+"माम्" इत्य् अंशस्य विषयः।
+</details>
+
+<details><summary>English</summary>
+
+The object of the '(me) myself' is the 'I' distinguished by class characteristics as it presents itself in the waking state;
+</details>
+
+<details><summary>मूलम्</summary>
+
+जागरितावस्थानुसंहितजात्यादि-विशिष्टोऽस्मदर्थो मामित्यंशस्य विषयः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व+-अप्ययावस्था-प्रसिद्धाविशद-स्वानुभवैकतानश् चाहम्-अर्थो  
+"ऽहम्" इत्य् अंशस्य विषयः।
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अत्र समानस्याहं-शब्द-वाच्यस्य स्वापकालीनम् अविशदाहन्तानुभवः, उत्थानकालीन-जात्यादि-स्मृतिश् च काल-व्यवस्थया ऽविरुद्धौ।  
+एवम् अत्र विशेषण-त्यागं विनैव वस्त्व्-ऐक्यम् उक्तम्।  
+उभय-विशेषण-सामानाधिकरण्यं चोक्तम्।  
+तद् इदं "पुरा काश्यां दृष्टो देवदत्तः काञ्च्यां दृष्यते" इति प्रसिद्ध-प्रत्यभिज्ञोदाहरणे यथा। 
+</details>
+
+
+<details><summary>English</summary>
+
+the object of the word 'I' (in the judgment) is that 'I' which consists of a uniform flow of self-consciousness which persists in sleep also, but is then not quite distinct.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वाप्ययावस्थाप्रसिद्धाविशदस्वानुभवैकतानश्च अहमर्थोऽहमित्यंशस्य विषयः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र "सुप्तो ऽहम्", "ईदृशो ऽहम्" इति च  
+"माम् अपि न ज्ञातवान् अहम्" इत्य् एव खल्व् अनुभव-प्रकारः॥
+</details>
+
+<details><summary>English</summary>
+
+The judgment 'I did not know myself' therefore means that the sleeper was not conscious of the place where he slept, of his special characteristics, and so on.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्र सुप्तोऽहमीदृशोऽहमिति च मामपि न ज्ञातवानहमित्येव खल्वनुभवप्रकारः॥
+</details>
+
+#### साक्षिता ज्ञातृता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च, "सुषुप्ताव् आत्मा ऽज्ञान-साक्षित्वेनाऽस्त" इति हि भवदीया प्रक्रिया।
+</details>
+
+<details><summary>English</summary>
+
+It is, moreover, your own view that in deep sleep the Self occupies the position of a witnessing principle with regard to Nescience.
+</details>
+
+<details><summary>मूलम्</summary>
+
+किञ्च, सुषुप्तावात्माऽज्ञानसाक्षित्वेनाऽस्त इति हि भवदीया प्रक्रिया।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साक्षित्वम् च साक्षाज् ज्ञातृत्वम् एव।
+</details>
+
+<details><summary>English</summary>
+
+But by a witness (sākshin) we understand some one who knows about something by personal observation (sākshāt);
+</details>
+
+<details><summary>मूलम्</summary>
+
+साक्षित्वं च साक्षाज्ज्ञातृत्वमेव।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अजानतस् साक्षित्त्वम्।
+</details>
+
+<details><summary>English</summary>
+
+a person who does not know cannot be a witness.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न ह्यजानतस्साक्षित्त्वम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञातैव हि लोक-वेदयोस् "साक्षी"ति व्यपदिश्यते;  
+न ज्ञान-मात्रम्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Accordingly, in scripture as well as in ordinary language a knowing subject only, not mere knowledge, is spoken of as a witness;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञातैव हि लोकवेदयोस्साक्षीति व्यपदिश्यते; न ज्ञानमात्रम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मरति च भगवान् पाणिनिः  
+
+> "साक्षाद्-द्रष्टरि सञ्ज्ञायाम्" (अष्टा. ५.२.९१) 
+
+इति साक्षाज्-ज्ञातर्य् एव साक्षि-शब्दम्।
+</details>
+
+<details><summary>English</summary>
+
+and with this the Reverend Pānini also agrees when teaching that the word 'sākshin' means one who knows in person (Pā. Sū. V, 2, 91).
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्मरति च भगवान् पाणिनिः साक्षाद्द्रष्टरि सञ्ज्ञायाम् (अष्टा.५.२.९१) इति साक्षाज्ज्ञातर्येव साक्षिशब्दम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स चायम् साक्षी "जानामी"ति प्रतीयमानो  
+ऽस्मद्-अर्थ एवेति  
+कुतस् तदानीम् अहम्-अर्थो न प्रतीयेत।
+</details>
+
+<details><summary>English</summary>
+
+Now this witness is nothing else but the 'I' which is apprehended in the judgment 'I know '; and how then should this 'I' not be apprehended in the state of sleep?
+</details>
+
+<details><summary>मूलम्</summary>
+
+स चायं साक्षी जानामीति प्रतीयमानोऽस्मदर्थ एवेति कुतस्तदानीमहमर्थो न प्रतीयेत ।
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मने स्वयम् अवभासमानो  
+"ऽहम्" इत्य् एवावभासत इति  
+स्वापाद्य्-अवस्थास्व् अप्य्  
+आत्मा प्रकाशमानो "ऽहम्" इत्य् एवावभासत  
+इति सिद्धम्॥
+</details>
+
+<details><summary>English</summary>
+
+That which itself appears to the Self appears as the 'I,' and it thus follows that also in deep sleep and similar states the Self which then shines forth appears as the 'I.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मने स्वयमवभासमानोऽहमित्येवावभासत इति स्वापाद्यवस्थास्वप्यात्मा प्रकाशमानोऽहमित्येवावभासत इति सिद्धम्॥
+</details>
+
+### मुक्तौ 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु – 
+
+> मोक्ष-दशायाम् अहम्-अर्थो नानुवर्तते – 
+
+इति; तद् अपेशलम्।
+</details>
+
+<details><summary>English</summary>
+
+To maintain that the consciousness of the 'I' does not persist in the state of final release is again altogether inappropriate.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तु – मोक्षदशायामहमर्थो नानुवर्तते – इति; तदपेशलम्।
+</details>
+
+#### आत्म-नाश-प्रसङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा सत्य् आत्म-नाश एवापवर्गः  
+प्रकारान्तरेण प्रतिज्ञातः स्यात्।
+</details>
+
+<details><summary>English</summary>
+
+It in fact amounts to the doctrine – only expressed in somewhat different words – that final release is the annihilation of the Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा सत्यात्मनाश एवापवर्गः प्रकारान्तरेण प्रतिज्ञातः स्यात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चाहमर्थो धर्म-मात्रम्;  
+येन तद्-विगमेऽप्य्  
+अ-विद्या-निवृत्ताव् इव स्वरूपम् अवतिष्ठते।
+</details>
+
+<details><summary>English</summary>
+
+The 'I' is not a mere attribute of the Self so that even after its destruction the essential nature of the Self might persist – as it persists on the cessation of ignorance;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चाहमर्थो धर्ममात्रम्; येन तद्विगमेऽप्यविद्यानिवृत्ताविव स्वरूपमवतिष्ठते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्युत स्वरूपम् एवाहम्-अर्थ आत्मनः।
+</details>
+
+<details><summary>English</summary>
+
+but it constitutes the very nature of the Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रत्युत स्वरूपमेवाहमर्थ आत्मनः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानं तु तस्य धर्मः -  
+"अहं जानामि", "ज्ञानं मे जातम्" इति चाहम्-अर्थ-धर्मतया ज्ञान-प्रतीतेर् +++(हेतोर्)+++ एव॥
+</details>
+
+<details><summary>English</summary>
+
+Such judgments as 'I know', 'Knowledge has arisen in me', show, on the other hand, that we are conscious of knowledge as a mere attribute of the Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानं तु तस्य धर्मः अहं जानामि, ज्ञानं मे जातम् इति चाहमर्थधर्मतया ज्ञानप्रतीतेरेव॥
+</details>
+
+#### मुमुक्षार्थकता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च, यः परमार्थतो भ्रान्त्या वा  
+ऽऽध्यात्मिकादि-दुःखैर् दुःखितया  
+स्वात्मानम् अनुसन्धत्ते - "अहं दुःखी" इति,
+</details>
+
+<details><summary>English</summary>
+
+Moreover, a man who suffering pain, mental or of other kind – whether such pain be real or due to error only – puts himself in relation to pain--'I am suffering pain'--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च यः परमार्थतो भ्रान्त्या वाऽऽध्यात्मिकादिदुःखैर्दुःखितया स्वात्मानमनुसन्धत्ते अहं दुःखी इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्वम् एतद् दुःख-जातम् अपुनर्भवम् अपोह्य  
+कथम् अहम् अनाकुलस् स्वस्थो भवेयम् 
+
+इत्य् उत्पन्न-मोक्ष-रागः  
+स एव तत्-साधने प्रवर्तते।
+</details>
+
+<details><summary>English</summary>
+
+naturally begins to reflect how he may once for all free himself from all these manifold afflictions and enjoy a state of untroubled ease; the desire of final release thus having arisen in him he at once sets to work to accomplish it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वमेतद्दुःखजातमपुनर्भवमपोह्य कथमहमनाकुलस्स्वस्थो भवेयम् इत्युत्पन्नमोक्ष-रागः स एव तत्साधने प्रवर्तते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स साधनानुष्ठानेन यद्य् "अहम् एव न भविष्यामी"त्य् अवगच्छेत्;  
+अपसर्पेद् एवासौ मोक्ष-कथा-प्रस्तावात्।
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, he were to realise that the effect of such activity would be the loss of personal existence, he surely would turn away as soon as somebody began to tell him about 'release'.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स साधनानुष्ठानेन यद्यहमेव न भविष्यामीत्यवगच्छेत्; अपसर्पेदेवासौ मोक्षकथाप्रस्तावात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश् चाधिकारि-विरहाद् एव  
+सर्वं मोक्ष-शास्त्रम् अप्रमाणं स्यात्।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+And the result of this would be that, in the absence of willing and qualified pupils, the whole scriptural teaching as to final release would lose its authoritative character.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततश्चाधिकारिविरहादेव सर्वं मोक्षशास्त्रमप्रमाणं स्यात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अहम्-उपलक्षितं प्रकाश-मात्रम् अपवर्गेऽवतिष्ठत 
+
+इति चेत्; किम् अनेन?
+</details>
+
+<details><summary>English</summary>
+
+--Nor must you maintain against this that even in the state of release there persists pure consciousness; for this by no means improves your case.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहमुपलक्षितं प्रकाशमात्रमपवर्गेऽवतिष्ठत इति चेत्; किमनेन?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मयि नष्टेऽपि  
+किम् अपि प्रकाश-मात्रम् अपवर्गे ऽवतिष्ठत 
+
+इति मत्वा  
+न हि कश्चिद् बुद्धि-पूर्व-कारी प्रयतते।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+No sensible person exerts himself under the influence of the idea that after he himself has perished there will remain some entity termed 'pure light!'
+</details>
+
+<details><summary>मूलम्</summary>
+
+मयि नष्टेऽपि किमपि प्रकाशमात्रमपवर्गेऽवतिष्ठत इति मत्वा न हि कश्चित् बुद्धिपूर्वकारी प्रयतते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽहम्-अर्थस्यैव ज्ञातृतया सिद्ध्यतः प्रत्यग्-आत्मत्वम् +++(भवति)+++।
+</details>
+
+<details><summary>English</summary>
+
+--What constitutes the 'inward' Self thus is the 'I', the knowing subject.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतोऽहमर्थस्यैव ज्ञातृतया सिद्ध्यतः प्रत्यगात्मत्वम्।
+</details>
+
+#### अहम्-भान-नियतता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स च प्रत्यग् आत्मा  
+मुक्ताव् अप्य् "अहम्" इत्य् एव प्रकाशते,  
+स्वस्मै प्रकाशमानत्वात्।  
+</details>
+
+<details><summary>English</summary>
+
+This 'inward' Self shines forth in the state of final release also as an 'I'; for it appears to itself. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स च प्रत्यगात्मा मुक्तावप्यहमित्येव प्रकाशते, स्वस्मै प्रकाशमानत्वात्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यो यः स्वस्मै प्रकाशते  
+स सर्वो "ऽहम्" इत्य् एव प्रकाशते  
+यथा तथाऽवभासमानत्वेन  
++उभय-वादि-सम्मतस् संसार्य्-आत्मा।
+</details>
+
+<details><summary>English</summary>
+
+The general principle is that whatever being appears to itself appears as an 'I'; both parties in the present dispute establish the existence of the transmigrating Self on such appearance.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यो यः स्वस्मै प्रकाशते स सर्वोऽहमित्येव प्रकाशते यथा तथावभासमानत्वेनोभयवादिसम्मतस्संसार्यात्मा।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यः पुनर् "अहम्" इति न चकास्ति;  
+नासौ स्वस्मै प्रकाशते, यथा घटादिः।
+</details>
+
+<details><summary>English</summary>
+
+On the contrary, whatever does not appear as an 'I', does not appear to itself; as jars and the like.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यः पुनरहमिति न चकास्ति; नासौ स्वस्मै प्रकाशते, यथा घटादिः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वस्मै प्रकाशते चायं मुक्तात्मा;  
+तस्माद् "अहम्" इत्य् एव प्रकाशते॥
+</details>
+
+<details><summary>English</summary>
+
+Now the emancipated Self does thus appear to itself, and therefore it appears as an 'I'.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वस्मै प्रकाशते चायं मुक्तात्मा; तस्मादहमित्येव प्रकाशते॥
+</details>
+
+#### अहम्-भानं न संस्कारिष्व् एव
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चाहम् इति प्रकाशमानत्वेन  
+तस्याज्ञत्व-संसारित्वादि-प्रसङ्गः-  
+मोक्ष-विरोधात्,  
+अज्ञत्वाद्य्-अहेतुत्वाच् चाहम्-प्रत्ययस्य।
+</details>
+
+<details><summary>English</summary>
+
+Nor does this appearance as an 'I' imply in any way that the released Self is subject to Nescience and implicated in the Saṁsāra;  
+for this would contradict the nature of final release, and moreover the consciousness of the 'I' cannot be the cause of Nescience and so on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चाहमिति प्रकाशमानत्वेन तस्याज्ञत्वसंसारित्वादिप्रसङ्गः
+मोक्षविरोधात्, अज्ञत्वाद्यहेतुत्वाच्चाहम्प्रत्ययस्य।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अज्ञानं नाम -  
+स्वरूपाज्ञानम्, अन्यथा-ज्ञानं, विपरीत-ज्ञानं वा।
+</details>
+
+<details><summary>English</summary>
+
+Nescience (ignorance) is either ignorance as to essential nature, or the cognition of something under an aspect different from the real one (as when a person suffering from jaundice sees all things yellow); or cognition of what is altogether opposite in nature (as when mother o' pearl is mistaken for silver).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अज्ञानं नाम स्वरूपाज्ञानमन्यथा ज्ञानं विपरीतज्ञानं वा।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अहम्" इत्य् एव आत्मनस् स्वरूपम्  
+इति स्वरूप-ज्ञान-रूपो ऽहम्-प्रत्ययो  
+नाज्ञत्वम् आपादयति,  
+कुतस् संसारित्वम्।
+</details>
+
+<details><summary>English</summary>
+
+Now the 'I' constitutes the essential nature of the Self; how then can the consciousness of the 'I,' i.e. the consciousness of its own true nature, implicate the released Self in Nescience, or, in the Saṁsāra?
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहमित्येवात्मनस्स्वरूपमिति स्वरूपज्ञानरूपोऽहम्प्रत्ययो नाज्ञत्वमापादयति, कुतस्संसारित्वम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि तु तद्-विरोधाद् एव नाशयत्य् एव।
+</details>
+
+<details><summary>English</summary>
+
+The fact rather is that such consciousness destroys Nescience, and so on, because it is essentially opposed to them.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि तु तद्विरोधित्वान्नाशयत्येव।
+</details>
+
+#### निवृत्ताविद्यानामपि अहम्प्रत्ययः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मात्म-भावापरोक्ष्य-निर्धूत-निरवशेषाविद्यानाम् अपि वामदेवादीनाम् अहम् इत्य् एव आत्मानुभव-दर्शनाच् च।
+</details>
+
+<details><summary>English</summary>
+
+In agreement with this we observe that persons like the r̥shi Vāmadeva, in whom the intuition of their identity with Brahman had totally destroyed all Nescience, enjoyed the consciousness of the personal 'I';
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मात्मभावापरोक्ष्यनिर्धूतनिरवशेषाविद्यानामपि वामदेवादीनामहमित्येव आत्मानुभवदर्शनाच्च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रूयते हि – तद् धैतत् पश्यन्न् ऋषिर् वामदेवः प्रतिपेदे अहं मनुर् अभवं सूर्यश् च ([[बृ.३.४.१०|बृ.१.४.१०]]) इति, अहम् एकः प्रथमम् आसम् वर्तामि च भविष्यामि च (अथर्व.शि.उ.९.खण्डे) इत्य्-आदि।
+</details>
+
+<details><summary>English</summary>
+
+for scripture says, 'Seeing this the r̥shi Vāmadeva understood, I was Manu and the Sun' (B_ri._ Up. I, 4, 10).
+</details>
+
+<details><summary>English - Notes</summary>
+
+The second citation from the Atharvaśiras Upanisad (section 9)—'अहमेकः प्रथममासं वर्तामि च भविष्यामि च' ('I alone was first, and I am, and I shall be')—is omitted in Thibaut's translation.
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रूयते हि – तद्धैतत्पश्यन्नृषिर्वामदेवः प्रतिपेदे अहं मनुरभवं सूर्यश्च ([[बृ.३.४.१०|बृ.१.४.१०]]) इति, अहमेकः प्रथममासं वर्तामि च भविष्यामि च (अथर्व.शि.उ.९.खण्डे) इत्यादि।
+</details>
 
 ## ब्रह्मणोऽप्यहं प्रत्ययः श्रुतिस्मृतिषु
 
-सकलेतराज्ञानविरोधिनः सच्छब्दप्रत्ययमात्रभाजः परस्य ब्रह्मणो व्यवहारोऽप्येवमेव हन्ताहमिमास्तिस्रो देवताः (छा.६.३.२), बहु स्यां प्रजायेय (तै.आन.६.२), स ईक्षत लोकान्नु सृजा इति; (ऐत १.१.१), तथा यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः। अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः (भ.गी.१५.१८), अहमात्मा गुडाकेश (भ.गी. १०.२०), न त्वेवाहं जातु नासम् (भ.गी. २.१२), अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा (भ.गी.७.६), अहं सर्वस्य प्रभवो मत्तस्सर्वं प्रवर्तते (भ.गी.१०.८), तेषामहं समुद्धर्ता मृत्युसंसारसागरात् (भ.गी.१२.७), अहं बीजप्रदः पिता (भ.गी.१४.४), वेदाहं समतीतानि – (भ.गी.७.२६) इत्यादिषु॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सकलेतराज्ञान-विरोधिनः सच्-शब्द-प्रत्यय-मात्र-भाजः परस्य ब्रह्मणो व्यवहारो ऽप्य् एवम् एव हन्ताहम् इमास् तिस्रो देवताः (छा.६.३.२), बहु स्यां प्रजायेय (तै.आन.६.२), स ईक्षत लोकान् नु सृजा इति; (ऐत १.१.१),
+</details>
+
+<details><summary>English</summary>
+
+And the highest Brahman also, which is opposed to all other forms of Nescience and denoted and conceived as pure Being, is spoken of in an analogous way; cp. 'Let me make each of these three deities,' &c. (_Kh._ Up. VI, 3, 3); 'May I be many, may I grow forth' (_Kh._ Up. VI, 2, 3); 'He thought, shall I send forth worlds?' (Ait. Ār. II, 4, 1, 1);
+</details>
+
+<details><summary>मूलम्</summary>
+
+सकलेतराज्ञानविरोधिनः सच्छब्दप्रत्ययमात्रभाजः परस्य ब्रह्मणो व्यवहारोऽप्येवमेव हन्ताहमिमास्तिस्रो देवताः (छा.६.३.२), बहु स्यां प्रजायेय (तै.आन.६.२), स ईक्षत लोकान्नु सृजा इति; (ऐत १.१.१),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा यस्मात् क्षरम् अतीतो ऽहम् अक्षराद् अपि चोत्तमः। अतो ऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः (भ.गी.१५.१८), अहम् आत्मा गुडाकेश (भ.गी. १०.२०), न त्व् एवाहं जातु नासम् (भ.गी. २.१२), अहं कृत्स्नस्य जगतः प्रभवः प्रलयस् तथा (भ.गी.७.६), अहं सर्वस्य प्रभवो मत्तस् सर्वं प्रवर्तते (भ.गी.१०.८), तेषाम् अहं समुद्धर्ता मृत्यु-संसार-सागरात् (भ.गी.१२.७), अहं बीज-प्रदः पिता (भ.गी.१४.४), वेदाहं समतीतानि – (भ.गी.७.२६) इत्य्-आदिषु॥
+</details>
+
+<details><summary>English</summary>
+
+and again, 'Since I transcend the Destructible, and am higher also than the Indestructible, therefore I am proclaimed in the world and in the Veda as the highest Person' (Bha. Gī. XV, 18); 'I am the Self, O Gūḍākeśa.' (Bha. Gī. X, 20); 'Never was I not' (Bha. Gī. II, 12); 'I am the source and the destruction of the whole world' (Bha. Gī. VII, 6); 'I am the source of all; from me proceeds everything' (Bha. Gī. X, 8); 'I am he who raises them from the ocean of the world of death' (Bha. Gī. XII, 7); 'I am the giver of seed, the father' (Bha. Gī. XIV, 4); 'I know the things past' (Bha. Gī. VII, 26).--
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः। अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः (भ.गी.१५.१८), अहमात्मा गुडाकेश (भ.गी. १०.२०), न त्वेवाहं जातु नासम् (भ.गी. २.१२), अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा (भ.गी.७.६), अहं सर्वस्य प्रभवो मत्तस्सर्वं प्रवर्तते (भ.गी.१०.८), तेषामहं समुद्धर्ता मृत्युसंसारसागरात् (भ.गी.१२.७), अहं बीजप्रदः पिता (भ.गी.१४.४), वेदाहं समतीतानि – (भ.गी.७.२६) इत्यादिषु॥
+</details>
 
 ## उक्तार्थे गीतोक्तिविरोधशङ्कापरिहारौ
 
-यद्यहमित्येवात्मनः स्वरूपम्, कथं तर्ह्यहङ्कारस्य क्षेत्रान्तर्भावो भगवतोपदिश्यते । महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च (भ.गीता.१३.५) इति। उच्यते, स्वरूपोपदेशेषु सर्वेष्वहमित्येवोपदेशात् तथैवात्मस्वरूपप्रतिपत्तेश्चाहमित्येव प्रत्यगात्मनस्स्वरूपम्। अव्यक्तपरिणामभेदस्य अहङ्कारस्य क्षेत्रान्तर्भावो भगवतैवोपदिश्यते। स त्वनात्मनि देहेऽहम्भावकरणहेतुत्वेन अहङ्कार इत्युच्यते। अस्य त्वहङ्कारशब्दस्य अभूततद्भावेऽर्थे च्विप्रत्ययमुत्पाद्य व्युत्पत्तिर्द्रष्टव्या। अयमेव त्वहङ्कारः उत्कृष्टजनावमानहेतुर्गर्वापरनामा शास्त्रेषु बहुशो हेयतया प्रतिपाद्यते। तस्माद्बाधकापेताऽहम्बुद्धिस्साक्षादात्मगोचरैव। शरीरगोचरा त्वहं बुद्धिरविद्यैव। यथोक्तं भगवता पराशरेण श्रूयतां चाप्यविद्यायाः स्वरूपं कुलनन्दन । अनात्मन्यात्मबुद्धिर्या (वि.पु.६.७.१०.११) – इति ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् अहम् इत्य् एवात्मनः स्वरूपम्, कथं तर्ह्य् अहङ्कारस्य क्षेत्रान्तर्भावो भगवतोपदिश्यते – महा-भूतान्य् अहङ्कारो बुद्धिर अव्यक्तम् एव च (भ.गीता.१३.५) इति।
+</details>
+
+<details><summary>English</summary>
+
+But if the 'I' (aham) constitutes the essential nature of the Self, how is it that the Holy One teaches the principle of egoity (ahaṁkāra) to belong to the sphere of objects, 'The great elements, the ahaṁkāra, the understanding (buddhi), and the Unevolved' (Bha. Gī. XIII, 5)?--
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद्यहमित्येवात्मनः स्वरूपम्, कथं तर्ह्यहङ्कारस्य क्षेत्रान्तर्भावो भगवतोपदिश्यते – महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च (भ.गीता.१३.५) इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उच्यते, स्वरूपोपदेशेषु सर्वेष्व् अहम् इत्य् एवोपदेशात् तथैवात्म-स्वरूप-प्रतिपत्तेश् चाहम् इत्य् एव प्रत्यग्-आत्मनस् स्वरूपम्।
+</details>
+
+<details><summary>English</summary>
+
+As in all passages, we reply, which give information about the true nature of the Self it is spoken of as the 'I', we conclude that the 'I' constitutes the essential nature of the inward Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उच्यते, स्वरूपोपदेशेषु सर्वेष्वहमित्येवोपदेशात् तथैवात्मस्वरूपप्रतिपत्तेश्चाहमित्येव प्रत्यगात्मनस्स्वरूपम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्यक्त-परिणाम-भेदस्य अहङ्कारस्य क्षेत्रान्तर्भावो भगवतैवोपदिश्यते।
+</details>
+
+<details><summary>English</summary>
+
+Where, on the other hand, the Holy One declares the ahaṁkāra – a special effect of the Unevolved – to be comprised within the sphere of the Objective,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अव्यक्तपरिणामभेदस्य अहङ्कारस्य क्षेत्रान्तर्भावो भगवतैवोपदिश्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स त्व् अनात्मनि देहेऽहम्-भाव-करण-हेतुत्वेन अहङ्कार इत्य् उच्यते।
+</details>
+
+<details><summary>English</summary>
+
+he means that principle which is called ahaṁkāra, because it causes the assumption of Egoity on the part of the body which belongs to the Not-self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स त्वनात्मनि देहेऽहम्भावकरणहेतुत्वेन अहङ्कार इत्युच्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्य त्व् अहङ्कार-शब्दस्य अभूत-तद्-भावेऽर्थे च्वि-प्रत्ययम् उत्पाद्य व्युत्पत्तिर् द्रष्टव्या।
+</details>
+
+<details><summary>English</summary>
+
+The etymology of this word 'ahaṅkāra' is to be understood here as having been derived by applying the suffix 'cvi' in the sense of 'becoming what it was not' (abhūtatadbhāva).
+</details>
+
+<details><summary>English - Notes</summary>
+
+This sentence is omitted in Thibaut's translation.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्य त्वहङ्कारशब्दस्य अभूततद्भावेऽर्थे च्विप्रत्ययमुत्पाद्य व्युत्पत्तिर्द्रष्टव्या।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयम् एव त्व् अहङ्कारः उत्कृष्ट-जनावमान-हेतुर् गर्वापर-नामा शास्त्रेषु बहुशो हेयतया प्रतिपाद्यते।
+</details>
+
+<details><summary>English</summary>
+
+Such egoity constitutes the ahaṁkāra also designated as pride or arrogance, which causes men to slight persons superior to themselves, and is referred to by scripture in many places as something evil.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अयमेव त्वहङ्कारः उत्कृष्टजनावमानहेतुर्गर्वापरनामा शास्त्रेषु बहुशो हेयतया प्रतिपाद्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् बाधकापेताऽहम्-बुद्धिस् साक्षाद्-आत्म-गोचरैव।
+</details>
+
+<details><summary>English</summary>
+
+Such consciousness of the 'I' therefore as is not sublated by anything else has the Self for its object;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माद्बाधकापेताऽहम्बुद्धिस्साक्षादात्मगोचरैव।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरीर-गोचरा त्व् अहम् बुद्धिर अविद्यैव।
+</details>
+
+<details><summary>English</summary>
+
+while, on the other hand, such consciousness of the 'I' as has the body for its object is mere Nescience.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरीरगोचरा त्वहं बुद्धिरविद्यैव।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथोक्तं भगवता पराशरेण श्रूयतां चाप्य् अविद्यायाः स्वरूपं कुल-नन्दन।
+</details>
+
+<details><summary>English</summary>
+
+In agreement with this the Reverend Parāsara has said, 'Hear from me the essential nature of Nescience;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथोक्तं भगवता पराशरेण श्रूयतां चाप्यविद्यायाः स्वरूपं कुलनन्दन ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनात्मन्य् आत्म-बुद्धिर् या ([[वि.पु.६.७.१०.११|वि.पु.६.७.११]]) – इति।
+</details>
+
+<details><summary>English</summary>
+
+it is the attribution of Selfhood to what is not the Self.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनात्मन्यात्मबुद्धिर्या (वि.पु.६.७.१०.११) – इति ।
+</details>
 
 ## अहमर्थात्मत्वोपसंहारः
 
-यदि ज्ञप्तिमात्रमेवाऽत्मा, तदाऽनात्मन्यात्माभिमाने शरीरे ज्ञप्तिमात्र-प्रतिभासस्स्यात्, न ज्ञातृत्वप्रतिभासः। तस्माज्ज्ञाताऽहमर्थ एवाऽऽत्मा तदुक्तम् –
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि ज्ञप्ति-मात्रम् एवाऽत्मा, तदाऽनात्मन्य् आत्माभिमाने शरीरे ज्ञप्ति-मात्र-प्रतिभासस् स्यात्, न ज्ञातृत्व-प्रतिभासः।
+</details>
+
+<details><summary>English</summary>
+
+If the Self were pure consciousness then pure consciousness only, and not the quality of being a knowing subject, would present itself in the body also, which is a Not-self wrongly imagined to be a Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि ज्ञप्तिमात्रमेवाऽत्मा, तदाऽनात्मन्यात्माभिमाने शरीरे ज्ञप्तिमात्र-प्रतिभासस्स्यात्, न ज्ञातृत्वप्रतिभासः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माज् ज्ञाताऽहमर्थ एवाऽऽत्मा तद् उक्तम् –
+</details>
+
+<details><summary>English</summary>
+
+The conclusion therefore remains that the Self is nothing but the knowing 'I'.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्माज्ज्ञाताऽहमर्थ एवाऽऽत्मा तदुक्तम् –
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः प्रत्यक्ष-सिद्धत्वाद् उक्त-न्यायागमान्वयात्।
+
+अविद्या-योगतश् चाऽत्मा ज्ञाताऽहम् इति भासते॥ इति॥
+</details>
+
+<details><summary>English</summary>
+
+Thus it has been said, 'As is proved by perception, and as also results from reasoning and tradition, and from its connexion with ignorance, the Self presents itself as a knowing 'I'.
+</details>
+
+<details><summary>मूलम्</summary>
 
 अतः प्रत्यक्षसिद्धत्वादुक्तन्यायागमान्वयात्।
 
 अविद्यायोगतश्चाऽत्मा ज्ञाताऽहमिति भासते॥ इति॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च
+</details>
+
+<details><summary>English</summary>
+
+And again,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा च
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देहेन्द्रिय-मनः-प्राण-धीभ्यो ऽन्यो ऽन्यन्या-साधनः।
+
+नित्यो व्यापी प्रतिक्षेत्रम् आत्मा भिन्नस् स्वतस् सुखी॥ (आत्मसिद्धौ) इति।
+</details>
+
+<details><summary>English</summary>
+
+'That which is different from body, senses, mind, and vital airs; which does not depend on other means; which is permanent, pervading, divided according to bodies-that is the Self blessed in itself.'
+</details>
+
+<details><summary>मूलम्</summary>
 
 देहेन्द्रियमनः प्राणधीभ्योऽन्योऽनन्यसाधनः।
 
 नित्यो व्यापी प्रतिक्षेत्रमात्मा भिन्नस्स्वतस्सुखी॥ (आत्मसिद्धौ) इति।
+</details>
 
-अनन्यसाधनः – स्वप्रकाशः। व्यापी – अतिसूक्ष्मतया सर्वाचेतनान्तःप्रवेशनस्वभावः॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्य-साधनः – स्व-प्रकाशः।
+</details>
+
+<details><summary>English</summary>
+
+Here 'not dependent on other means' means 'self-luminous';
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनन्यसाधनः – स्वप्रकाशः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यापी – अति-सूक्ष्मतया सर्वाचेतनान्तः-प्रवेशन-स्वभावः॥
+</details>
+
+<details><summary>English</summary>
+
+and 'pervading' means 'being of such a nature as to enter, owing to excessive minuteness, into all non-sentient things.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्यापी – अतिसूक्ष्मतया सर्वाचेतनान्तःप्रवेशनस्वभावः॥
+</details>
 
 ## शास्त्रप्रत्यक्षविरोधे शास्त्रप्राबल्यस्यानूद्यनिरासः
 
