@@ -153,34 +153,93 @@ title = "पॆरिय्-आण्डवन्न्-अन्ता रह�
 अपूर्यत मनोरथः ॥ ३४ ॥
 
 ## यामुनः
+<div class="js_include" url="/rAmAnujIyam/kAvyam/padyam/rAmAnuja-stutiH/yatirAjasaptatiH_venkaTanAtha-kRtA/vigAhe_yAmunam.md" unfilled newLevelForH1="5" includeTitle="false"> 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 विगाहे यामुनं तीर्थं  
-साधु-बृन्दा-वने स्थितम् ।  
+साधु-वृन्दावने स्थितम् ।
 निरस्त-जिह्म-ग-स्पर्शे  
-यत्र कृष्णः कृतादरः ॥ ३५ ॥
+यत्र कृष्णः कृतादरः॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+विगाहे यामुनं तीर्थं साधु बृन्दावने स्थितम् ।  
+निरस्तजिह्मगस्पर्शे यत्र कृष्णः कृतादरः ॥
+</details>
+</div>  
 
 ## राममिश्रः मणल्-काल्-नम्बिः
-अनुज्झित-क्षमा-योगम्  
-अ-पुण्य-जन-बाधकम् । 
+<div class="js_include" url="/rAmAnujIyam/kAvyam/padyam/rAmAnuja-stutiH/yatirAjasaptatiH_venkaTanAtha-kRtA/anujjhita-rAma-mishraH.md" unfilled newLevelForH1="5" includeTitle="false">   
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्-उज्झित-क्षमा-योगम्  
+अ-पुण्य-जन-बाधकम् ।  
 अ-स्पृष्ट-मद-रागं तं  
-रामं तुर्यम् उपास्महे ॥ ३६ ॥
+रामं तुर्यम् उपास्महे ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुज्झितक्षमायोगमपुण्यजनबाधकम् ।  
+अस्पृष्टमदरागं तं रामं तुर्यमुपास्महे ॥
+</details>
+</div>
 
 ## उय्यक्कॊण्डर्-पुण्डरीकाक्षः 
+<div class="js_include" url="/rAmAnujIyam/kAvyam/padyam/rAmAnuja-stutiH/yatirAjasaptatiH_venkaTanAtha-kRtA/namasyAmi_puNDarIkAxaH_uyyakkoNDAr.md" unfilled newLevelForH1="5" includeTitle="false"> 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 नमस्याम्य् अरविन्दाक्षं  
 नाथ-भावे व्यवस्थितम् ।  
-शुद्ध-सत्वमयं शौरेः  
-अवतारम् इवापरम् ॥ ३७ ॥
+शुद्ध-सत्त्वमयं शौरेर्  
+अवतारम् इवापरम् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+नमस्याम्यरविन्दाक्षं नाथभावे व्यवस्थितम् ।  
+शुद्धसत्त्वमयं शौरेरवतारमिवापरम् ॥
+</details>
+</div>  
 
 ## नाथमुनिः
-नाथेन मुनिना तेन  
+<div class="js_include" url="/rAmAnujIyam/kAvyam/padyam/rAmAnuja-stutiH/yatirAjasaptatiH_venkaTanAtha-kRtA/nAthena_muni-nAthena.md" unfilled newLevelForH1="5" includeTitle="false"> 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाथेन मुनिनाथेन  
 भवेयं नाथवान् अहम् ।  
 यस्य नैगमिकं तत्त्वं  
-हस्तामलकतां गतम् ॥ ३८ ॥
+हस्तामलकतां गतम् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाथेन मुनिनाथेन (तेन) भवेयं नाथवानहम् ।  
+यस्य नैगमिकं तत्त्वं हस्तामलकतां गतम् ॥
+</details>
+</div>  
 
 ## शठकोपः
-यस्य सारस्वत-स्रोतो-  
+<div class="js_include" url="/rAmAnujIyam/kAvyam/padyam/rAmAnuja-stutiH/yatirAjasaptatiH_venkaTanAtha-kRtA/yasya_sArasvatam_shaThakopaH.md" unfilled newLevelForH1="5" includeTitle="false">  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस्य सारस्वतं स्रोतो  
 वकुलामोद-वासितम् ।  
 श्रुतीनां विश्रमायालं  
-शठारिं तम् उपास्महे ॥ ३९ ॥
+शठारिं तम् उपास्महे ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+यस्य सारस्वतं स्रोतो वकुलामोदवासितम् ।  
+श्रुतीनां विश्रमायालं शठारिं तमुपास्महे ॥
+</details>
+</div>
 
 ## सेनेशः
 वन्दे वैकुण्ठ-सेनान्यं  
