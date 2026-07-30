@@ -8270,7 +8270,7 @@ Quite so, we reply, but on this explanation the real is known through the real; 
 हन्त तर्हि सत्यादेव सत्यप्रतिपत्तिः; रेखायास्सङ्केतस्य च सत्यत्वात्, रेखागवयादपि सत्यगवयबुद्धिस्सादृश्यनिबन्धना, सादृश्यं च सत्यमेव॥
 </details>
 
-#### स्फोटवादावलम्बि उदाहरणमादाय शङ्कापरिहारौ
+#### शब्दवच् चेद् अपि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8278,7 +8278,7 @@ Quite so, we reply, but on this explanation the real is known through the real; 
 नाद-विशेषेण +अर्थ-भेद-बुद्धि-हेतुत्वे ऽप्य्  
 असत्यात् सत्य-प्रतिपत्तिः, 
 
-नाना-नादाभिव्यक्तस्यैकस्यैव शब्दस्य  
+नाना-नादाभिव्यक्तस्यैकस्यैव +++(सत्यस्य)+++ शब्दस्य  
 तत्-तन्-नादाभिव्यङ्ग्य--स्वरूपेण  
 अर्थ-विशेषैस् सह सम्बन्ध-ग्रहण-वशाद्  
 अर्थ-भेद-बुद्ध्य्-उत्पत्ति-हेतुत्वात्।
@@ -8307,7 +8307,9 @@ with the different things indicated by those various tones [fn_13].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शब्दस्यैकरूपत्वम् अपि न साधीयः, गकारादेर् बोधकस्यैव श्रोत्र-ग्राह्यत्वेन शब्दत्वात्।
+शब्दस्यैकरूपत्वम् अपि न साधीयः,  
+गकारादेर् बोधकस्यैव  
+श्रोत्र-ग्राह्यत्वेन शब्दत्वात्।
 </details>
 
 <details><summary>English</summary>
@@ -8322,7 +8324,8 @@ And, moreover, it is not correct to argue on the ground of the uniformity of sou
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो ऽसत्याच् शास्त्रात् सत्य-ब्रह्म-विषय-प्रतिपत्तिर् दुरुपपादा॥
+अतो ऽसत्याच् छास्त्रात्  
+सत्य-ब्रह्म-विषय-प्रतिपत्तिर् दुरुपपादा॥
 </details>
 
 <details><summary>English</summary>
@@ -8335,11 +8338,12 @@ All this proves that it is difficult indeed to show that the knowledge of a true
 अतोऽसत्याच्छास्त्रात्सत्यब्रह्मविषय-प्रतिपत्तिर्दुरुपपादा॥
 </details>
 
-## शास्त्रेषु असत्यता न अत्यन्तासत्यत्वरूपा, किन्तु विलक्षणा इत्याशङ्कापरिहारौ
+### ईषत्-सत्यता?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु न शास्त्रस्य गगन-कुसुम-वद् असत्यत्वम्; प्राग् अद्वैत-ज्ञानात् सद्-बुद्धि-बोध्यत्वात्।
+> ननु न शास्त्रस्य गगन-कुसुम-वद् असत्यत्वम्;  
+प्राग् अद्वैत-ज्ञानात् सद्-बुद्धि-बोध्यत्वात्।
 </details>
 
 <details><summary>English</summary>
@@ -8354,7 +8358,7 @@ Our opponent may finally argue as follows:--Scripture is not unreal in the same 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्पन्ने तत्त्व-ज्ञाने ह्य् असत्यत्वं शास्त्रस्य।
+> उत्पन्ने तत्त्व-ज्ञाने ह्य् असत्यत्वं शास्त्रस्य।
 </details>
 
 <details><summary>English</summary>
@@ -8369,7 +8373,8 @@ and only on the rise of that knowledge it is seen to be unreal.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तदा शास्त्रं निरस्त-निखिल-भेद-चिन्मात्र-ब्रह्म-ज्ञानोपायः।
+> न तदा शास्त्रं  
+निरस्त-निखिल-भेद-- चिन्मात्र-ब्रह्म-ज्ञानोपायः।
 </details>
 
 <details><summary>English</summary>
@@ -8384,7 +8389,8 @@ At this latter time Scripture no longer is a means of cognising Brahman, devoid 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदोपायस् तदा अस्त्य् एव शास्त्रम्, अस्तीति बुद्धेः।
+> यदोपायस्, तदा अस्त्य् एव शास्त्रम्,  
+अस्तीति बुद्धेः।
 </details>
 
 <details><summary>English</summary>
@@ -8397,6 +8403,7 @@ as long on the other hand as it is such a means, Scripture is; for then we judge
 यदोपायस्तदा अस्त्येव शास्त्रम्, अस्तीति बुद्धेः।
 </details>
 
+#### बुद्धि-मिथ्यात्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवम्; असति शास्त्रे, अस्ति शास्त्रम् इति बुद्धेर् मिथ्यात्वात्।
@@ -8414,7 +8421,7 @@ But to this we reply that if Scripture is not (true), the judgment 'Scripture is
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः किम्?
+> ततः किम्?
 </details>
 
 <details><summary>English</summary>
@@ -8429,7 +8436,9 @@ And what of that?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदं ततः – मिथ्या-भूत-शास्त्र-जन्य-ज्ञानस्य मिथ्यात्वेन तद्-विषयस्यापि ब्रह्मणो मिथ्यात्वम्;
+इदं ततः –  
+मिथ्या-भूत-शास्त्र-जन्य-ज्ञानस्य मिथ्यात्वेन  
+तद्-विषयस्यापि ब्रह्मणो मिथ्यात्वम्;
 </details>
 
 <details><summary>English</summary>
@@ -8444,7 +8453,8 @@ This is why: the knowledge resting on false Scripture being false likewise, the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा धूम-बुद्ध्या गृहीत-बाष्प-जन्याग्नि-ज्ञानस्य मिथ्यात्वेन तद्-विषयस्याग्नेर् अपि मिथ्यात्वम्।
+यथा धूम-बुद्ध्या गृहीत-+++(धूम-निभ)+++बाष्प+++(=नीहर)+++- जन्याग्नि-ज्ञानस्य  
+मिथ्यात्वेन तद्-विषयस्याग्नेर् अपि मिथ्यात्वम्।
 </details>
 
 <details><summary>English</summary>
