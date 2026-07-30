@@ -8912,9 +8912,13 @@ Nor does this imply a conflict with the texts which declare Brahman to be withou
 न च निर्गुणवाक्यविरोधः, प्राकृतहेयगुणविषयत्वात्तेषां निर्गुणं, निरञ्जनं, निष्कलं, निष्क्रियं, शान्तम् इत्यादीनाम्।
 </details>
 
+### ज्ञातुर् ज्ञान-स्वरूपता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञान-मात्र-स्वरूप-वादिन्यो ऽपि श्रुतयो ब्रह्मणो ज्ञान-स्वरूपताम् अभिदधति; न तावता निर्विशेष-ज्ञान-मात्रम् एव तत्त्वम्, ज्ञातुर् एव ज्ञान-स्वरूपत्वात्।
+ज्ञान-मात्र-स्वरूप-वादिन्यो ऽपि श्रुतयो  
+ब्रह्मणो ज्ञान-स्वरूपताम् अभिदधति;  
+न तावता निर्विशेष-ज्ञान-मात्रम् एव तत्त्वम्,  
+ज्ञातुर् एव ज्ञान-स्वरूपत्वात्।
 </details>
 
 <details><summary>English</summary>
@@ -8929,7 +8933,8 @@ Those texts again which refer to mere knowledge declare indeed that knowledge is
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञान-स्वरूपस्यैव तस्य ज्ञान-आश्रयत्वं मणि-द्युमणि-दीपादिवद् युक्तम् एवेत्य् उक्तम्।
+ज्ञान-स्वरूपस्यैव तस्य ज्ञान-आश्रयत्वं  
+मणि--द्यु-मणि--दीपादिवद् युक्तम् एवेत्य् उक्तम्।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -8944,24 +8949,89 @@ in the same way as the sun, lamps, and gems are the substrate of Light.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञातृत्वम् एव हि सर्वाश् श्रुतयो वदन्ति यस् सर्वज्ञस् सर्ववित् (मु.१.१.९) तद् ऐक्षत सेयं देवतैक्षत (छा.६.३.२), स ईक्षत लोकान् नु सृजा इति (ऐ.११), नित्यो नित्यानां चेतनश् चेतनानाम् एको बहूनां यो विदधाति कामान् (कठ.२.५.१३), ज्ञाज्ञौ द्वाव् अजाव् ईशनीशौ (श्वे.१.९), तम् ईश्वराणां परमं महेश्वरं तं देवतानां परमं च दैवतम्। पतिं पतीनां परमं परस्ताद् विदाम देवं भुवनेशम् ईड्यम् (श्वे.६.७), न तस्य कार्य करणं च विद्यते न तत्-समश् चाभ्यधिकश् च दृश्यते। परा ऽस्य शक्तिर् विविधैव श्रूयते स्वाभाविकी ज्ञान-बल-क्रिया च (श्वे.६.८), एष आत्मा ऽपहत-पाप्मा विजरो विमृत्युर् विशोको विजिघत्सो ऽपिपासस् सत्य-कामः सत्य-सङ्कल्पः – (छा.८.१.५) – इत्य् आद्याश् श्रुतयो ज्ञातृत्व-प्रमुखान् कल्याण-गुणान् ज्ञान-स्वरूपस्यैव ब्रह्मणस् स्वाभाविकान् वदन्ति, समस्त-हेय-रहिततां च ॥
+ज्ञातृत्वम् एव हि सर्वाश् श्रुतयो वदन्ति 
 </details>
 
 <details><summary>English</summary>
 
-That Brahman is a knowing subject all scriptural texts declare; cp. 'He who is all knowing' (Mu. Up. I, 1, 9); 'It thought' (Cḥ. Up.VI, 2, 3); 'This divine being thought' (Cḥ. Up. VI, 3, 2); 'He thought, let me send forth the worlds' (Ait. Ār. II,4, 1, 2); 'He who arranges the wishes – as eternal of those who are not eternal, as thinker of (other) thinkers, as one of many' (Ka. Up. II, 5, 13); 'There are two unborn ones – one who knows, one who does not know – one strong, the other weak' (Śvet. Up. I, 9); 'Let us know Him, the highest of Lords, the great Lord, the highest deity of deities, the master of masters, the highest above the god, the lord of the world, the adorable one' (Śvet. Up. VI, 7); 'Of him there is known no effect (body) or instrument; no one is seen like unto him or better; his high power is revealed as manifold, forming his essential nature, as knowledge, strength, and action' (Śvet. Up. VI, 8); 'That is the Self, free from sin, ageless, deathless, griefless, free from hunger and thirst, whose wishes are true, whose purposes are true' (Cḥ. Up. VIII, 1, 5). These and other texts declare that to Brahman, whose essential nature is knowledge, there belong many excellent qualities – among which that of being a knowing subject stands first, and that Brahman is free from all evil qualities.
+That Brahman is a knowing subject all scriptural texts declare; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञातृत्वमेव हि सर्वाश्श्रुतयो वदन्ति 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यस् सर्वज्ञस् सर्ववित् (मु.१.१.९)  
+
+> तद् ऐक्षत … सेयं देवतैक्षत (छा.६.३.२), 
+
+> स ईक्षत लोकान् नु सृजा इति (ऐ.११),  
+
+> नित्यो नित्यानां, चेतनश् चेतनानाम्, एको बहूनां, यो विदधाति कामान् (कठ.२.५.१३), 
+
+> ज्ञाज्ञौ द्वाव् अजाव् ईशनीशौ (श्वे.१.९), 
+
+> तम् ईश्वराणां परमं महेश्वरं  
+तं देवतानां परमं च दैवतम्।  
+पतिं पतीनां परमं परस्ताद्  
+विदाम देवं भुवनेशम् ईड्यम् (श्वे.६.७), 
+
+> न तस्य कार्यं करणं च विद्यते  
+न तत्-समश् चाभ्यधिकश् च दृश्यते।  
+परा ऽस्य शक्तिर् विविधैव श्रूयते  
+स्वाभाविकी ज्ञान-बल-क्रिया च (श्वे.६.८), 
+
+> एष आत्मा ऽपहत-पाप्मा  
+विजरो विमृत्युर् विशोको विजिघत्सो ऽपिपासस् सत्य-कामः सत्य-सङ्कल्पः – (छा.८.१.५) – 
+</details>
+
+<details><summary>English</summary>
+
+cp. 'He who is all knowing' (Mu. Up. I, 1, 9); 'It thought' (Cḥ. Up.VI, 2, 3); 'This divine being thought' (Cḥ. Up. VI, 3, 2); 'He thought, let me send forth the worlds' (Ait. Ār. II,4, 1, 2); 'He who arranges the wishes – as eternal of those who are not eternal, as thinker of (other) thinkers, as one of many' (Ka. Up. II, 5, 13); 'There are two unborn ones – one who knows, one who does not know – one strong, the other weak' (Śvet. Up. I, 9); 'Let us know Him, the highest of Lords, the great Lord, the highest deity of deities, the master of masters, the highest above the god, the lord of the world, the adorable one' (Śvet. Up. VI, 7);  
+'Of him there is known no effect (body) or instrument;  
+no one is seen like unto him or better;  
+his high power is revealed as manifold, forming his essential nature, as knowledge, strength, and action' (Śvet. Up. VI, 8);  
+'That is the Self, free from sin, ageless, deathless, griefless, free from hunger and thirst, whose wishes are true, whose purposes are true' (Cḥ. Up. VIII, 1, 5).  
 </details>
 
 <details><summary>मूलम्</summary>
 
-ज्ञातृत्वमेव हि सर्वाश्श्रुतयो वदन्ति यस्सर्वज्ञस्सर्ववित् (मु.१.१.९) तदैक्षत सेयं देवतैक्षत (छा.६.३.२), स ईक्षत लोकान्नु सृजा इति (ऐ.११), नित्यो नित्यानां चेतनश्चेतनानामेको बहूनां यो विदधाति कामान् (कठ.२.५.१३), ज्ञाज्ञौ द्वावजावीशनीशौ (श्वे.१.९), तमीश्वराणां परमं महेश्वरं तं देवतानां परमं च दैवतम्। पतिं पतीनां परमं परस्ताद्विदाम देवं भुवनेशमीड्यम् (श्वे.६.७), न तस्य कार्य करणं च विद्यते न तत्समश्च[[अभ्यिधकश्च|अभ्यधिकश्च]] दृश्यते। पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.६.८), एष आत्माऽपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामः सत्यसङ्कल्पः – (छा.८.१.५) – इत्याद्याश्श्रुतयो ज्ञातृत्वप्रमुखान् कल्याणगुणान् ज्ञानस्वरूपस्यैव ब्रह्मणस्स्वाभाविकान्वदन्ति, समस्तहेयरहिततां च ॥
+यस्सर्वज्ञस्सर्ववित् (मु.१.१.९) तदैक्षत सेयं देवतैक्षत (छा.६.३.२), स ईक्षत लोकान्नु सृजा इति (ऐ.११), नित्यो नित्यानां चेतनश्चेतनानामेको बहूनां यो विदधाति कामान् (कठ.२.५.१३), ज्ञाज्ञौ द्वावजावीशनीशौ (श्वे.१.९), तमीश्वराणां परमं महेश्वरं तं देवतानां परमं च दैवतम्। पतिं पतीनां परमं परस्ताद्विदाम देवं भुवनेशमीड्यम् (श्वे.६.७), न तस्य कार्यं करणं च विद्यते न तत्समश्च अभ्यधिकश्च दृश्यते। पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.६.८), एष आत्माऽपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामः सत्यसङ्कल्पः – (छा.८.१.५)
 </details>
-
-## श्रुत्यैव सगुण-निर्गुणवाक्ययोः विषयविभागसिद्धिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्गुण-वाक्यानां सगुण-वाक्यानां च विषयम् अपहत-पाप्मा इत्य् आदि अपिपास इत्य् अन्तेन हेय-गुणान् प्रतिषिद्ध्य सत्य-कामस् सत्य-सङ्कल्पः इति ब्रह्मणः कल्याण-गुणान् विदधतीयं श्रुतिर् एव विविनक्तीति सगुण-निर्गुण-वाक्ययोर् विरोधाभावाद् अन्यतरस्य मिथ्या-विषयता-आश्रयणम् अपि नाशङ्कनीयम्॥
+– इत्य् आद्याश् श्रुतयो  
+ज्ञातृत्व-प्रमुखान् कल्याण-गुणान्  
+ज्ञान-स्वरूपस्यैव ब्रह्मणस् स्वाभाविकान् वदन्ति,  
+समस्त-हेय-रहिततां च ॥
+</details>
+
+<details><summary>English</summary>
+
+These and other texts declare that to Brahman, whose essential nature is knowledge, there belong many excellent qualities – among which that of being a knowing subject stands first, and that Brahman is free from all evil qualities.
+</details>
+
+<details><summary>मूलम्</summary>
+
+– इत्याद्याश्श्रुतयो ज्ञातृत्वप्रमुखान् कल्याणगुणान् ज्ञानस्वरूपस्यैव ब्रह्मणस्स्वाभाविकान्वदन्ति, समस्तहेयरहिततां च ॥
+</details>
+
+
+### निर्गुण-सगुण-विषय-विभागः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्गुण-वाक्यानां सगुण-वाक्यानां च विषयम्  
+"अपहत-पाप्मा"-इत्य्-आद्य्- "अपिपास" इत्य्-अन्तेन हेय-गुणान् प्रतिषिद्ध्य  
+"सत्य-कामस् सत्य-सङ्कल्पः" इति ब्रह्मणः कल्याण-गुणान् विदधतीयं श्रुतिर् एव विविनक्तीति  
+सगुण-निर्गुण-वाक्ययोर् विरोधाभावाद्  
+अन्यतरस्य मिथ्या-विषयताऽऽश्रयणम् अपि नाशङ्कनीयम्॥
 </details>
 
 <details><summary>English</summary>
@@ -8974,11 +9044,21 @@ That the texts referring to Brahman as free from qualities, and those which spea
 निर्गुणवाक्यानां सगुणवाक्यानां च विषयम् अपहतपाप्मा इत्यादि अपिपास इत्यन्तेन हेयगुणान् प्रतिषिद्ध्य सत्यकामस्सत्यसङ्कल्पः इति ब्रह्मणः कल्याणगुणान्विदधतीयं श्रुतिरेव विविनक्तीति सगुणनिर्गुणवाक्ययोर्विरोधाभावादन्यतरस्य मिथ्याविषयताश्रयणमपि नाशङ्कनीयम्॥
 </details>
 
-## श्रुत्या ब्रह्मणि वाङ्मनोनिवृत्तिज्ञापनात् निर्विशेषसिद्धिः इत्यस्य निरासः
+### वाङ्-मनो-निवृत्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भीषा ऽस्माद् वातः पवते (तै.आन.८.१) इत्य् आदिना ब्रह्म-गुणान् आरभ्य ते ये शतम् (तै.आन.८.१) इत्य् अनुक्रमेण क्षेत्रज्ञानन्दातिशयम् उक्त्वा यतो वाचो निवर्तन्ते। अप्राप्य मनसा सह। आनन्दं ब्रह्मणो विद्वान् (तै.आन.९.१) इति ब्रह्मणः कल्याणगुणानन्त्यम् अत्य् आदरेण वदतीयं श्रुतिः॥
+> भीषा ऽस्माद् वातः पवते (तै.आन.८.१) 
+
+इत्य्-आदिना ब्रह्म-गुणान् आरभ्य  
+"ते ये शतम्" (तै.आन.८.१) इत्य् अनुक्रमेण  
+क्षेत्र-ज्ञानन्दातिशयम् उक्त्वा  
+
+> यतो वाचो निवर्तन्ते।  
+अप्राप्य मनसा सह।  
+आनन्दं ब्रह्मणो विद्वान् (तै.आन.९.१) 
+
+इति ब्रह्मणः कल्याण-गुणानन्त्यम् अत्य् आदरेण वदतीयं श्रुतिः॥
 </details>
 
 <details><summary>English</summary>
