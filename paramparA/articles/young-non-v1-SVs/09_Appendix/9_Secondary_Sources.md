@@ -1,11 +1,11 @@
 +++
 title = "9 Secondary Sources"
 +++
-‘Achievements in the Field of Percussive Arts over 50 Years (1947–97)’. *[[MusicResearchLibrary*.*NetPeriodicals*|MusicResearchLibrary.Net Periodicals]]*. Available at [[http://archive. org/stream/MusicRes-Periodicals/PAC-Souvenir|http://archive.org/stream/MusicRes-Periodicals/PAC-Souvenir]] (accessed 16 December 2014).
+‘Achievements in the Field of Percussive Arts over 50 Years (1947–97)’. *MusicResearchLibrary.Net Periodicals*. Available at http://archive.org/stream/MusicRes-Periodicals/PAC-Souvenir (accessed 16 December 2014).
 
 Ahimohanan, A. S. ‘Ayya Vaikundar: A Different Revolutionist and Social Reformer’. Trivandrum: Nadar Family Welfare Centre. Available at www.ayyavaikundar.org (accessed 28 March 2016).
 
-‘A. K. C. Natarajan’. *Wikipedia*. Available at [[http://en.wikipedia.org/wiki/A.\_K.\_C.\_Natarajan|http://en.wikipedia.org/wiki/A._K._C._Natarajan]] (accessed 6 June 2012).
+‘A. K. C. Natarajan’. *Wikipedia*. Available at http://en.wikipedia.org/wiki/A._K._C._Natarajan (accessed 6 June 2012).
 
 ‘Alarmel Valli’. *Wikipedia*. Available at http://en.wikipedia.org/wiki/Alarmelvalli (accessed 15 March 2015).
 
@@ -21,7 +21,7 @@ Appadurai, Arjun, 1974. ‘Right and Left-Hand Castes in South India’. *Indian
 
 \_\_\_\_\_\_\_\_\_\_\_, 2007. *Worship and Conflict under Colonial Rule: A South Indian Case*, Cambridge South Asian Studies. Cambridge: Cambridge University Press.
 
-Auclair, Christine, 1998. *Ville à Vendre: [[Voie* *lib*é*rale* *et* *privatization* *du*|Voie libérale et privatisation du]] secteur de l’habitat à Chennai (Inde)*. Pondichéry: Institut Français de Pondichéry.
+Auclair, Christine, 1998. *Ville à Vendre: Voie libérale et privatisation du secteur de l’habitat à Chennai (Inde)*. Pondichéry: Institut Français de Pondichéry.
 
 ‘Ayyavazhi’. *Wikipedia*. Available at https://en.wikipedia.org/wiki/Ayyavazhi (accessed 28 March 2016).
 
@@ -33,17 +33,17 @@ Bate, B., 2013. *Tamil Oratory and the Dravidian Aesthetic: Democratic Practice 
 
 Bergunder, Michael, Heiko Frese and Ulrike Schroder, 2011. *Ritual*, *Caste and Religion in Colonial South India*. New Delhi: Primus Books.
 
-[[Brimmes|Brimnes]], Niels, 1999. *Constructing the Colonial Encounter: Right and Left-Hand Castes in Early Colonial South India*. London: Psychology Press.
+Brimnes, Niels, 1999. *Constructing the Colonial Encounter: Right and Left-Hand Castes in Early Colonial South India*. London: Psychology Press.
 
-Carman, John B., 1974. *The Theology of [[R āmānuja|Rāmānuja]]: An Essay in Interreligious Understanding*. New Haven: Yale University Press.
+Carman, John B., 1974. *The Theology of Rāmānuja: An Essay in Interreligious Understanding*. New Haven: Yale University Press.
 
-Carman, John, and Vasudha Narayanan, 1989. *The Tamil Veda: [[Pi* *ḷḷaṉ’s|Piḷḷaṉ’s]] Interpretation of the Tiruvāymoḻi*. Chicago: University of Chicago Press.
+Carman, John, and Vasudha Narayanan, 1989. *The Tamil Veda: Piḷḷaṉ’s Interpretation of the Tiruvāymoḻi*. Chicago: University of Chicago Press.
 
 Chhibber, Pradeep, and Sandeep Shastri, 2014. *Religious Practice and Democracy in India*. Cambridge: Cambridge University Press.
 
 Chidambaram Pillai, P., 2008. *Right of Temple Entry: A Critical Analysis*. Chennai: MJP Publishers.
 
-‘Chinna Jeeyar’, 2016. *Wikipedia*. Available at [[https://en.wikipedia.org/wiki/Chinna\_Jeeyar|https://en.wikipedia.org/wiki/Chinna_Jeeyar]] (accessed 26 January 2016).
+‘Chinna Jeeyar’, 2016. *Wikipedia*. Available at https://en.wikipedia.org/wiki/Chinna_Jeeyar (accessed 26 January 2016).
 
 Clooney, Francis X., 1996. *Seeing Through Texts: Doing Theology among the Śrīvaiṣṇavas of South India*. Albany: State University of New York.
 
@@ -53,11 +53,11 @@ Clooney, Francis X., 1996. *Seeing Through Texts: Doing Theology among the Śrī
 
 Dalmia, Vasudha, 1995. *Representing Hinduism: The Construction of Religious Traditions and National Identity*. Thousand Oaks, CA: Sage Publications.
 
-Das, Kumudini, et al., 2010. ‘Inter-caste Marriage in India: Has it Really Changed Over Time?’ European Population Conference, Vienna, 1–4 September. Available at [[epc2010.princeton.edu/ papers/100157|epc2010.princeton.edu/papers/100157]].
+Das, Kumudini, et al., 2010. ‘Inter-caste Marriage in India: Has it Really Changed Over Time?’ European Population Conference, Vienna, 1–4 September. Available at epc2010.princeton.edu/papers/100157.
 
 Deshpande, Satish, 2003. *Contemporary India: A Sociological View*. New Delhi: Viking.
 
-\_\_\_\_\_\_\_\_\_\_\_, 2013. ‘Caste and [[Castelesness|Castelessness]]: Towards a Biography of the “General Category”’. *Economic and Political Weekly* XLVIII (15).
+\_\_\_\_\_\_\_\_\_\_\_, 2013. ‘Caste and Castelessness: Towards a Biography of the “General Category”’. *Economic and Political Weekly* XLVIII (15).
 
 \_\_\_\_\_\_\_\_\_\_\_, 2018. ‘Srinivas, M. N. (1916–99)’, in Hilary Callan (ed.), *The International Encyclopedia of Anthropology*. Hoboken, New Jersey: John Wiley & Sons. [[P364]]
 
@@ -79,19 +79,19 @@ Gittinger, Juli L., 2015. ‘Contesting Hinduism in the Electronic Public Sphere
 
 *The Economic Times*, 2015. ‘Gold-rich Temples Weigh Monetisation Scheme, But “Melting” a Dampener’, 20 December. Available at http://economictimes.indiatimes.com (accessed 19 February 2018).
 
-Goodall, Dominic, 2014. ‘Saiddhāntika paddhatis 1. On Rāmanātha, the Earliest Southern Author of the Śaivasiddhānta of Whom Works Survive, and on Eleventh-century Revisions of the [[Soma*ś*ambhupaddhati*|*Somaśambhupaddhati*]]’, in Marzenna Czerniak-Dorzdzowicz and Ewa Debicka-Borek (eds), *Cracow Indological Studies: Tantric Traditions in Theory and Practice*, 169–202. Ksiegarnia Akademika.
+Goodall, Dominic, 2014. ‘Saiddhāntika paddhatis 1. On Rāmanātha, the Earliest Southern Author of the Śaivasiddhānta of Whom Works Survive, and on Eleventh-century Revisions of the *Somaśambhupaddhati*’, in Marzenna Czerniak-Dorzdzowicz and Ewa Debicka-Borek (eds), *Cracow Indological Studies: Tantric Traditions in Theory and Practice*, 169–202. Ksiegarnia Akademika.
 
-Hancock, Mary E., 1995. ‘The Dilemmas of Domesticity: Possessional and Devotional Experience Among Urban Smārta Women’, in Lindsey [[Harlin|Harlan]] and Paul B. Courtright (eds), *From the Margins of Hindu Marriage: Essays on Gender, Religion, and Culture*, 66–91. New York: Oxford University Press, rev. edn.
+Hancock, Mary E., 1995. ‘The Dilemmas of Domesticity: Possessional and Devotional Experience Among Urban Smārta Women’, in Lindsey Harlan and Paul B. Courtright (eds), *From the Margins of Hindu Marriage: Essays on Gender, Religion, and Culture*, 66–91. New York: Oxford University Press, rev. edn.
 
 Hardgrave, Robert L., 1969. *The Nadars of Tamilnad: The Political Culture of a Community in Change*. Berkeley: University of California Press.
 
 Hardy, Friedhelm, 1978. ‘The Tamil Veda of a Śūdra Saint: The Śrīvaiṣṇava Interpretation of Nammāḻvār’, in G. Krishna (ed.), *Contributions to South Asian Studies*, Vol. 1, 29–87. Delhi: Oxford University Press. [[P365]]
 
-Hardy, Friedhelm, 1983. *Viraha-Bhakti: The Early History of [[K ṛṣṇa|Kṛṣṇa]] Devotion in South India*. Delhi: Oxford University Press.
+Hardy, Friedhelm, 1983. *Viraha-Bhakti: The Early History of Kṛṣṇa Devotion in South India*. Delhi: Oxford University Press.
 
 Hari Rao, V. N., 1976. *History of Srirangam Temple*. Tirupati: Sri Venkateswara University Press.
 
-Hebbar, Prajakta, 2018. ‘Jayalalithaa’s Relatives Perform Her “Cremation” to Ensure She Attains Moksha’. *HuffPost*. Available at [[http:/www.|http://www.]]huffingtonpost.in/2016/12/13/jayalalithaas-relatives-perform-her-cremation-to-ensure-she-a\_a\_21627450/ (accessed 20 March 2018).
+Hebbar, Prajakta, 2018. ‘Jayalalithaa’s Relatives Perform Her “Cremation” to Ensure She Attains Moksha’. *HuffPost*. Available at http://www.huffingtonpost.in/2016/12/13/jayalalithaas-relatives-perform-her-cremation-to-ensure-she-a\_a\_21627450/ (accessed 20 March 2018).
 
 Hemingway, F. R., 1906. *Tanjore*, Madras District Gazetteers. Madras: Superintendent, Government Press.
 
@@ -99,19 +99,19 @@ Hinde, Robert A., 2010 \[1999\]. *Why Gods Persist: A Scientific Approach to Rel
 
 *The Hindu*, 2009. ‘Court Dismisses Jeeyar’s Petition’, 6 May. Available at http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/court-dismisses-jeeyars-petition/article276599.ece (accessed 3 June 2016).
 
-\_\_\_\_\_\_\_\_\_\_\_, 2014. ‘69% Quota: SC Notice to Tamil Nadu’, 6 November. Available at http://www.thehindu.com/todays-paper/tp-national/[[69-quota=sc|69-quota-sc]] (accessed 25 September 2015).
+\_\_\_\_\_\_\_\_\_\_\_, 2014. ‘69% Quota: SC Notice to Tamil Nadu’, 6 November. Available at http://www.thehindu.com/todays-paper/tp-national/69-quota-sc (accessed 25 September 2015).
 
 \_\_\_\_\_\_\_\_\_\_\_, 2015. ‘It’s Now Dalits vs. Non-Dalits in Tamil Nadu’. 5 July. Available at http://www.thehindu.com/news/national/tamil-nadu/its-now-dalits-vs-nondalits/article7386958.ece (accessed 3 April 2018).
 
-*Hindustan Times*, 2015. ‘Non-Brahmins Can Also Be Temple Priests, says SC’, New Delhi, 16 December. Available at www.[[hinustantimes.com|hindustantimes.com]]/India/non-brahmins-can-also-be-temple-priests (accessed 14 May 2016).
+*Hindustan Times*, 2015. ‘Non-Brahmins Can Also Be Temple Priests, says SC’, New Delhi, 16 December. Available at www.hindustantimes.com/India/non-brahmins-can-also-be-temple-priests (accessed 14 May 2016).
 
 Hopkins, Steven Paul, 2002. *Singing the Body of God: The Hymns of Vedāntadeśika in their South Indian Tradition*. Oxford: Oxford University Press.
 
-Hudson, D. Dennis, 1992. ‘Winning Souls for Siva: Arumuga Navalar’s Transmission of the Saiva Religion’, in Raymond Bradbury Williams (ed.), *The Sacred Thread: Modern Transmissions of Hindu Traditions in India and Abroad*, 23–51. Chambersburg, PA: Anima [[Publication|Publications]].
+Hudson, D. Dennis, 1992. ‘Winning Souls for Siva: Arumuga Navalar’s Transmission of the Saiva Religion’, in Raymond Bradbury Williams (ed.), *The Sacred Thread: Modern Transmissions of Hindu Traditions in India and Abroad*, 23–51. Chambersburg, PA: Anima Publications.
 
 \_\_\_\_\_\_\_\_\_\_\_, 1995. ‘Tamil Hindu Responses to Protestants: Nineteenth Century Literati in Jaffna and Tinnevelly’, in Steven Kaplan (ed.), *Indigenous Responses to Western Christianity*, 95–123, New York: New York University Press. [[P366]]
 
-*The Indian Express*, 2017. ‘Man Who Fought for Thevaram No More’, 29 April. Available at www.newindianexpress.com/states/tamil-nadu/2017/apr/09/[[man-who-fought-fir-tgevaran-b-more-1591692.html|man-who-fought-for-thevaram-no-more-1591692.html]] (accessed 4 December 2017).
+*The Indian Express*, 2017. ‘Man Who Fought for Thevaram No More’, 29 April. Available at www.newindianexpress.com/states/tamil-nadu/2017/apr/09/man-who-fought-for-thevaram-no-more-1591692.html (accessed 4 December 2017).
 
 Irschick, Eugene F., 1969. *Politics and Social Conflict in South India: The Non-Brahman Movement and Tamil Separatism, 1916–1929*. Berkeley: University of California Press.
 
@@ -119,13 +119,13 @@ Irschick, Eugene F., 1969. *Politics and Social Conflict in South India: The Non
 
 Jaffrelot, Christophe, 2010. *Religion, Caste and Politics in India*. Oxford: Oxford University Press.
 
-Janardhanan, Arun, 2016. ‘Jayalalithaa Was Buried: This Could Be Why’, *The Indian Express*, 7 December. Available at [[http:/www. indianexpress.com|http://www.indianexpress.com]] (accessed 27 March 2018).
+Janardhanan, Arun, 2016. ‘Jayalalithaa Was Buried: This Could Be Why’, *The Indian Express*, 7 December. Available at http://www.indianexpress.com (accessed 27 March 2018).
 
 ‘Jayakanthan’, *Wikipedia*. Available at https://en.wikipedia.org/wiki/Jayakanthan (accessed 3 June 2016).
 
-‘Kalladan’, 2016. *Geocities.ws*. Available at [[www.geocities.ws/ kalladan|www.geocities.ws/kalladan]] (accessed 4 August 2016).
+‘Kalladan’, 2016. *Geocities.ws*. Available at www.geocities.ws/kalladan (accessed 4 August 2016).
 
-Kavitha, S. S., 2007. ‘Inter-caste Marriage Scheme Not a Hit’. *The Hindu*, 27 December. Available at http://www.thehindu.com/todays-paper/tp-tamilnadu/[[inter-cas-caste-marriage-scheme-not-a hit/article14902415.ece|inter-caste-marriage-scheme-not-a-hit/article14902415.ece]] (accessed 6 November 2017).
+Kavitha, S. S., 2007. ‘Inter-caste Marriage Scheme Not a Hit’. *The Hindu*, 27 December. Available at http://www.thehindu.com/todays-paper/tp-tamilnadu/inter-caste-marriage-scheme-not-a-hit/article14902415.ece (accessed 6 November 2017).
 
 Kent, Eliza F., 2004. *Converting Women: Gender and Christianity in Colonial South India*. New York: Oxford University Press.
 
@@ -139,19 +139,19 @@ Leopold, Simon Robert, 1984. *Spiritual Aspects of Indian Music*. Delhi: Sundeep
 
 Lester, Robert C., 1994. ‘The Sāttāda Śrīvaiṣṇavas’. *Journal of the American Oriental Society* 114 (1): 39–53.
 
-Magnier, Mark, 2012. ‘In India, Trained Priests from Lower Caste Still Awaiting Jobs’. *Los Angeles Times*, 1 October. Available at http://articles.latimes.com/2012/[[0ct|Oct]]/01/world/la-fg-india-caste- (accessed 7 March 2015). [[P367]]
+Magnier, Mark, 2012. ‘In India, Trained Priests from Lower Caste Still Awaiting Jobs’. *Los Angeles Times*, 1 October. Available at http://articles.latimes.com/2012/Oct/01/world/la-fg-india-caste- (accessed 7 March 2015). [[P367]]
 
-Maraneri-nambi, 2013. [[SrivaishNavaguruparamparai|Srivaishnavaguruparamparai]]. Available at guruparamparai.wordpress.com/2013/03/02/maraneri-nambi (accessed 9 May 2015).
+Maraneri-nambi, 2013. Srivaishnavaguruparamparai. Available at guruparamparai.wordpress.com/2013/03/02/maraneri-nambi (accessed 9 May 2015).
 
-Marius-Gnanou, Kamala, 2010. ‘[[Nouvelles activitées économiques|Nouvelles activités économiques]] et dynamique métropolitaine: Le cas de la périphérie Sud de Chennai’. *Ann. Géo.* 671–72: 28–51.
+Marius-Gnanou, Kamala, 2010. ‘Nouvelles activités économiques et dynamique métropolitaine: Le cas de la périphérie Sud de Chennai’. *Ann. Géo.* 671–72: 28–51.
 
 Marszal, Andrew, 2016. ‘“Untouchable” Who Married Upper-caste Girl Hacked to Death on Busy Indian Street’. *The Telegraph*, 14 March. Available at https://www.telegraph.co.uk.
 
-McCann, Erin, 2016. ‘Defining Identity: Language, Religion and Caste in [[Pi ḷḷai|Piḷḷai]] Lokācārya’s *Śrīvacana Bhūṣaṇam*’. Ph.D. thesis, McGill University.
+McCann, Erin, 2016. ‘Defining Identity: Language, Religion and Caste in Piḷḷai Lokācārya’s *Śrīvacana Bhūṣaṇam*’. Ph.D. thesis, McGill University.
 
 Michelutti, Lucia, 2009. *The Vernacularization of Democracy: Politics, Caste, and Religion in India*. New Delhi: Routledge.
 
-Mitchell, Lisa, 2009. *Language, Emotion, and Politics in South India: The Making of a Mother Tongue*. [[Bloomingdale|Bloomington]]: Indiana University Press.
+Mitchell, Lisa, 2009. *Language, Emotion, and Politics in South India: The Making of a Mother Tongue*. Bloomington: Indiana University Press.
 
 *The Modern Rationalist*, 2012. ‘In Kerala Temples, Non-Brahmin Priests are Appointed in 50% of Vacancies’, 13 April. Attributed to *The Times of India*, 12 March 2012. Available at http://www.new.modernrationalist.com/...in-kerala-temples-non-brahmin-priests-are-appointed-in-modernrationalist.com (accessed 16 March 2016).
 
@@ -197,7 +197,7 @@ Pillai, P. Chidambaram, 2008. *Right of Temple Entry*. New Delhi: MJP Publishers
 
 Ponnu, R, 2000. *Vaikunda Swamigal and the Struggle for Social Equality in South India*. Madurai: Ram Publishers.
 
-Prabhakar, Siddharth, 2016. ‘At 14.9 mn, Tamil Nadu Has Highest Broadband Subscribers in Country’. *The Times of India*, 22 August. Available at https://timesofindia.indiatimes.com/city/chennai/[[broadbannd-subscribers-in-country/articleshowprint/53802348.cms|broadband-subscribers-in-country/articleshowprint/53802384.cms]] (accessed 10 April 2018).
+Prabhakar, Siddharth, 2016. ‘At 14.9 mn, Tamil Nadu Has Highest Broadband Subscribers in Country’. *The Times of India*, 22 August. Available at https://timesofindia.indiatimes.com/city/chennai/broadband-subscribers-in-country/articleshowprint/53802384.cms (accessed 10 April 2018).
 
 Prentiss, Karen Pechilis, 1999. *The Embodiment of Bhakti*. Oxford: Oxford University Press.
 
@@ -247,13 +247,13 @@ Ravindran, V., 2000. ‘Discourses of Empowerment: Missionary Orientalism in the
 
 Reddiyar, K. Venkataswami, 1981. *Nalayira Divya Prabandham*. Madras: Tiruvenkattan Tirmunram.
 
-Rudolph, Lloyd, and Susanne Rudolph, 1967. *The Modernity of Tradition: Political Development in India*. Chicago: University [[ofChicago|of Chicago]] Press.
+Rudolph, Lloyd, and Susanne Rudolph, 1967. *The Modernity of Tradition: Political Development in India*. Chicago: University of Chicago Press.
 
 *The Rules and Regulations of Bysani Madhava Chetty’s Charity Fund*, 1977. Madras: Madhava Chetty’s Charity.
 
 Schmitthenner, Peter L., 2001. *Telugu Resurgence: C. P. Brown and Cultural Consolidation in Nineteenth-century South India*. New Delhi: Manohar.
 
-Schröder, Ulrike, 2011. ‘No Religion, But Ritual? Robert Caldwell and the Tinnevelly Shanars’, in Michael Bergunder, Heiko Frese and Ulrike [[Schöder|Schröder]] (eds), *Ritual*, *Caste and Religion in Colonial South India*, 131–60. Delhi: Primus.
+Schröder, Ulrike, 2011. ‘No Religion, But Ritual? Robert Caldwell and the Tinnevelly Shanars’, in Michael Bergunder, Heiko Frese and Ulrike Schröder (eds), *Ritual*, *Caste and Religion in Colonial South India*, 131–60. Delhi: Primus.
 
 Seshadri, Kandadai, 1998. *Srivaishnavism and Social Change*. Calcutta: K. P. Bagchi and Co.
 
@@ -265,7 +265,7 @@ Spratt, P., 1970. *D.M.K. in Power*. Bombay: Nachiketa.
 
 Srinivas, M. N., 1962. *Caste in Modern India: and Other Essays*. New York: Asia Publishing House.
 
-‘Sriperumbudur Sanskrit College’. Available at [[http://sanskritcollege. in/samvardhini.html|http://sanskritcollege.in/samvardhini.html]] (accessed 9 January 2018).
+‘Sriperumbudur Sanskrit College’. Available at http://sanskritcollege.in/samvardhini.html (accessed 9 January 2018).
 
 Srivathsan, A., 2014. ‘Reforms in the House of God’. *The Hindu*. 13 January. Available at https://www.thehindu.com/opinion/op-ed/reforms-in-the-house-of-god/article5570711.ece (accessed 22 March 2016).
 
@@ -273,7 +273,7 @@ Stein, Burton, 1965. ‘Coromandel Trade in Medieval India’, in John Parker (e
 
 Steinschneider, Eric, 2016. ‘Beyond the Warring Sects: Universalism, Dissent, and Canon in Tamil Śaivism, ca. 1675–1994’. Ph.D. thesis, University of Toronto.
 
-‘Subramania Bharati’. *Wikipedia*. Available at [[en.wikipedia.org?wiki?subramania\_bharati|en.wikipedia.org/wiki/Subramania_Bharati]] (accessed 3 June 2016).
+‘Subramania Bharati’. *Wikipedia*. Available at en.wikipedia.org/wiki/Subramania_Bharati (accessed 3 June 2016).
 
 Subramaniam, Kuppu, 1974. *Brahmin Priest of Tamil Nadu*. New Delhi: Wiley Eastern.
 
@@ -281,7 +281,7 @@ Sundaram, B. M., 2011. ‘Harikatha Kalakshepa’. *Narthkai*, 15 March. Availab
 
 Tarabout, Gilles, 2016. ‘Birth vs Merit: Kerala Temple Priests and the Courts’, in Daniela Berti, Gilles Tarabout and Raphael Voix (eds), *Filing Religion: State*, *Hinduism*, *and the Courts of Law*, 3–33. Oxford: Oxford University Press.
 
-Tatachar, D. Ramaswamy, 1937. *The [[Vanamammalai|Vanamamalai]] Temple and Mutt*. Tinnevelly.
+Tatachar, D. Ramaswamy, 1937. *The Vanamamalai Temple and Mutt*. Tinnevelly.
 
 Thurston, Edgar, 1909, assisted by K. Rangachari. *Castes and Tribes of Southern India*. Madras: Government Press. Available at http://openlibrary.org (accessed 10 January 2015).
 
@@ -307,7 +307,7 @@ Vijayavenugopal, G., 2007. ‘Sri Vaisnavam-Tomorrow’, in *Symposium on Sri Va
 
 Viraraghavacharya, T. K. T., 1962. *History of Tirupati (The Tiruvengadam Temple)*. Tirupati: Tirumala-Tirupati Devasthanams.
 
-[[Vishwanatha, Rupa|Viswanath, Rupa]], 2014. *The Pariah Problem: Caste*, *Religion*, *and the Social in Modern India*. New York: Columbia University Press.
+Viswanath, Rupa, 2014. *The Pariah Problem: Caste*, *Religion*, *and the Social in Modern India*. New York: Columbia University Press.
 
 Waghorne, Joanne Punzo, 1985. *Images of Dharma: The Epic World of C. Rajagopalachari*. Delhi: Chanakya.
 
@@ -325,13 +325,13 @@ Young, Katherine K., 1978. ‘Beloved Places (*ukantaruḷiṉanilaṅkaḷ*): T
 
 \_\_\_\_\_\_\_\_\_\_\_, 2002. ‘Om, the Vedas, and the Status of Women with Special Reference to Śrīvaiṣṇavism’, in Laurie L. Patton (ed.), *Jewels of Authority: Women and Textual Tradition in Hindu India*, 84–121. Oxford: Oxford University Press.
 
-\_\_\_\_\_\_\_\_\_\_\_, 2007. ‘Brāhmaṇas, Pāñcarātrins, and the Formation of Śrīvaiṣṇavism’, in Gerhard Oberhammer and Marion Rastelli (eds), *The Relationship between Viśiṣṭādvaita and Pañcarātra*, 179–262. Vienna: Austrian Academy of [[Science|Sciences]]. [[P374]]
+\_\_\_\_\_\_\_\_\_\_\_, 2007. ‘Brāhmaṇas, Pāñcarātrins, and the Formation of Śrīvaiṣṇavism’, in Gerhard Oberhammer and Marion Rastelli (eds), *The Relationship between Viśiṣṭādvaita and Pañcarātra*, 179–262. Vienna: Austrian Academy of Sciences. [[P374]]
 
-Young, Katherine K., 2009. ‘Fate Hangs on a Particle: The Hermeneutics of [[Bhagavadg* *ītā*|Bhagavadgītā]] 9:32–33’. *The Journal of Hindu Studies* 2 (2): 229–41.
+Young, Katherine K., 2009. ‘Fate Hangs on a Particle: The Hermeneutics of Bhagavadgītā 9:32–33’. *The Journal of Hindu Studies* 2 (2): 229–41.
 
-\_\_\_\_\_\_\_\_\_\_\_, 2014. ‘Śrīvaiṣṇava Topoi: Constructing a South Indian Sect through Place’, in Valérie Gillet (ed.), *Mapping the Chronology of Bhakti: Milestones*, *Stepping Stones*, *and Stumbling Stones*, 335–64. Pondicherry: Publications [[de École|de l’École]] française d’Extrême Orient.
+\_\_\_\_\_\_\_\_\_\_\_, 2014. ‘Śrīvaiṣṇava Topoi: Constructing a South Indian Sect through Place’, in Valérie Gillet (ed.), *Mapping the Chronology of Bhakti: Milestones*, *Stepping Stones*, *and Stumbling Stones*, 335–64. Pondicherry: Publications de l’École française d’Extrême Orient.
 
-\_\_\_\_\_\_\_\_\_\_\_, forthcoming (a). ‘Who is [[theāḻvārs’|the āḻvārs’]] Supreme God?’, in Marcus Schmücker (ed.), *Changing Forms and the Becoming of a Deity in Indian Religious Traditions: The God [[Vi* *ṣṇu-Nārāyaṇa*|Viṣṇu-Nārāyaṇa]]*, Studies in Hinduism V. [[Beitrage|Beiträge]] zur Kultur-und Geistesgeschichte Asiens Nr. Vienna: Press of the Austrian Academy of Sciences.
+\_\_\_\_\_\_\_\_\_\_\_, forthcoming (a). ‘Who is the āḻvārs’ Supreme God?’, in Marcus Schmücker (ed.), *Changing Forms and the Becoming of a Deity in Indian Religious Traditions: The God Viṣṇu-Nārāyaṇa*, Studies in Hinduism V. Beiträge zur Kultur-und Geistesgeschichte Asiens Nr. Vienna: Press of the Austrian Academy of Sciences.
 
 \_\_\_\_\_\_\_\_\_\_\_, forthcoming (b). ‘Development of the *Divyaprabandham*: A New Approach to Śrīvaiṣṇava History’.
 

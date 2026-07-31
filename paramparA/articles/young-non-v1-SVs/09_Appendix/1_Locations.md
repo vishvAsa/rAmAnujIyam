@@ -5,9 +5,9 @@ Appendix 1
 
 Location of Places Mentioned in Interviews
 
-Places (with variant modern spellings) are located in the relevant district (2020) of Tamil Nadu, moving generally clockwise from northeast to the south and northwest. A more precise location of these places can be found by searching for the village name on the Internet or the name plus the word ‘map’. Otherwise, one can search for the district and then for the place. One can also find maps of the 108 [[*divyade*ś*a*s|*divyadeśas*]] on the Internet.
+Places (with variant modern spellings) are located in the relevant district (2020) of Tamil Nadu, moving generally clockwise from northeast to the south and northwest. A more precise location of these places can be found by searching for the village name on the Internet or the name plus the word ‘map’. Otherwise, one can search for the district and then for the place. One can also find maps of the 108 *divyadeśas* on the Internet.
 
-♠ Indicates a [[*divyade*ś*a*|*divyadeśa*]] (a place mentioned by an *āḻvār*), an *āḻvār* birthplace and/or a major *maṭha*.  
+♠ Indicates a *divyadeśa* (a place mentioned by an *āḻvār*), an *āḻvār* birthplace and/or a major *maṭha*.  
 \* Indicates site of an interview. Otherwise the list includes places mentioned in the interviews or analysis. Some sites are in neighbouring states.
 
 ### Chennai and Beyond
@@ -16,7 +16,7 @@ Places (with variant modern spellings) are located in the relevant district (202
 * \* Athipet (Ambattur)
 * \* Minjur
 * Ponneri
-* ♠\* [[Tirumalicai|Tirumaḻicai]]
+* ♠\* Tirumaḻicai
 
 #### Chennai District
 * \* Alwarpet
@@ -64,7 +64,7 @@ Places (with variant modern spellings) are located in the relevant district (202
 #### Viluppuram District
 * \* Kottaimedu
 * \* Kumalam
-* [[Nallan Pillai Perral|Nallan Pillai Petral]]
+* Nallan Pillai Petral
 * ♠\* Tirukkoyilur (Tirukoilur)
 * \* Virapandi (Veerapandi)
 
@@ -115,10 +115,10 @@ Places (with variant modern spellings) are located in the relevant district (202
 #### Ramanathapuram District
 * Ramnad (Ramanathapuram)
 
-#### [[Thoothikudi|Thoothukudi]] District (Tuticorin, Tutukuti)
+#### Thoothukudi District (Tuticorin, Tutukuti)
 * Maruthan Valvu (Maruthan Valvoo)
 * \* Thoothukudi
-* ♠ [[Tirukkurunkudi(Thirukkurungudi)|Tirukkurunkudi (Thirukkurungudi)]]
+* ♠ Tirukkurunkudi (Thirukkurungudi)
 * ♠ Alvartirunagari
 * Koyilpatti (Kovilpatti)
 

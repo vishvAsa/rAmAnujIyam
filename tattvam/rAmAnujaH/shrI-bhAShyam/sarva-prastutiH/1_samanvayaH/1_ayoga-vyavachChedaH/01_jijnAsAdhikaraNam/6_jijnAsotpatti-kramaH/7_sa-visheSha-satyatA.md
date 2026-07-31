@@ -9458,7 +9458,22 @@ Such passages as 'consciousness, bliss is Brahman,' therefore mean 'consciousnes
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव भवताम् एक-रसता।  
+अत एव भवताम् +++(ब्रह्मण्य्)+++ एक-रसता।  
+</details>
+
+<details><summary>English - </summary>
+
+On this identity of the two things there rests that homogeneous character of Brahman, so much insisted upon by yourself. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव भवतामेकरसता।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 अस्य ज्ञान-स्वरूपस्यैव  
 ज्ञातृत्वम् अपि श्रुति-शत-समधिगतम्  
 इत्य् उक्तम्।
@@ -9466,17 +9481,26 @@ Such passages as 'consciousness, bliss is Brahman,' therefore mean 'consciousnes
 
 <details><summary>English</summary>
 
-On this identity of the two things there rests that homogeneous character of Brahman, so much insisted upon by yourself. And in the same way as numerous passages teach that Brahman, while having knowledge for its essential nature, is at the same time a knowing subject;
+And in the same way as numerous passages teach that Brahman, while having knowledge for its essential nature, is at the same time a knowing subject;
 </details>
 
 <details><summary>मूलम्</summary>
 
-अत एव भवतामेकरसता। अस्य ज्ञानस्वरूपस्यैव ज्ञातृत्वमपि श्रुतिशतसमधिगतमित्युक्तम्।
+अस्य ज्ञानस्वरूपस्यैव ज्ञातृत्वमपि श्रुतिशतसमधिगतमित्युक्तम्।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-वद् एव स एको ब्रह्मण आनन्दः (तै.आन.८.४), आनन्दं ब्रह्मणो विद्वान् (तै.आन.९.१) इति व्यतिरेक-निर्देशाच् च ना ऽनन्द-मात्रं ब्रह्म; अपि त्व् आनन्दि। ज्ञातृत्वम् एव ह्य् आनन्दित्वम्॥
+तद्वद् एव 
+
+> स एको ब्रह्मण आनन्दः (तै.आन.८.४), 
+
+> आनन्दं ब्रह्मणो विद्वान् (तै.आन.९.१) 
+
+इति व्यतिरेक-निर्देशाच् च  
+नानन्द-मात्रं ब्रह्म;  
+अपि त्व् आनन्दि।  
+ज्ञातृत्वम् एव ह्य् आनन्दित्वम्॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -9489,11 +9513,26 @@ so other passages, speaking of Brahman as something separate from mere bliss, sh
 तद्वदेव स एको ब्रह्मण आनन्दः (तै.आन.८.४), आनन्दं ब्रह्मणो विद्वान् (तै.आन.९.१) इति व्यतिरेकनिर्देशाच्च नाऽनन्दमात्रं ब्रह्म; अपि त्वानन्दि। ज्ञातृत्वमेव ह्यानन्दित्वम्॥
 </details>
 
-## भेदनिषेदपरतया शङ्कितानां श्रुतीनां समीचीना योजना
+### द्वैतम् इव भवति, नेह नाना
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् इदम् उक्तं यत्र हि द्वैतम् इव भवति (बृ.४.४.१४), नेह नाना ऽस्ति किञ्चन (बृ.६.४.१९), मृत्योस् स मृत्युम् आप्नोति य इह नानेव पश्यति, यत्र त्व् अस्य सर्वम् आत्मैवाभूत् तत् केन कं पश्येत् (बृ.४.४.१४) इति भेद-निषेधो बहुधा दृश्यत इति; तत्-कृत्स्नस्य जगतो ब्रह्म-कार्यतया तद्-अन्तर्यामिकतया च तदात्मकत्वेनैक्यात्, तत्-प्रत्यनीक-नानात्वं प्रतिषिद्ध्यते।
+यद् इदम् उक्तं -  
+
+> > यत्र हि द्वैतम् इव भवति (बृ.४.४.१४),  
+> 
+> > नेह नाना ऽस्ति किञ्चन (बृ.६.४.१९), 
+> 
+> > मृत्योस् स मृत्युम् आप्नोति  
+य इह नानेव पश्यति,  
+यत्र त्व् अस्य सर्वम् आत्मैवाभूत्  
+तत् केन कं पश्येत् (बृ.४.४.१४) 
+> 
+> इति भेद-निषेधो बहुधा दृश्यत 
+
+इति; तत्-कृत्स्नस्य जगतो  
+ब्रह्म-कार्यतया तद्-अन्तर्यामिकतया च तद्-आत्मकत्वेनैक्यात्,  
+तत्-प्रत्यनीक-नानात्वं प्रतिषिद्ध्यते।
 </details>
 
 <details><summary>English</summary>
@@ -9508,7 +9547,11 @@ We now turn to the numerous texts which, according to the view of our opponent, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न पुनः बहु स्यां प्रजायेय इति बहु-भवन-सङ्कल्प-पूर्वकं ब्रह्मणो नानात्वं श्रुति-सिद्धं प्रतिषिध्यत इति परिहृतम्।
++++(कारणैकता-श्रुतिभिर्)+++ न पुनः  
+"बहु स्यां प्रजायेय" इति  
+बहु-भवन-सङ्कल्प-पूर्वकं ब्रह्मणो नानात्वं  
+श्रुति-सिद्धं प्रतिषिध्यत  
+इति परिहृतम्।
 </details>
 
 <details><summary>English</summary>

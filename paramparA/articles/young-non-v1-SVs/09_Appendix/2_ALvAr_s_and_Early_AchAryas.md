@@ -13,7 +13,7 @@ Appendix 2
 * Tirumaḻicai
 * Periyāḻvār
 * Āṇṭāḷ
-* [[Kulac ēkara|Kulacēkara]]
+* Kulacēkara
 * Nammāḻvār
 * Toṇṭaraṭippoṭi
 * Tirumaṅkai

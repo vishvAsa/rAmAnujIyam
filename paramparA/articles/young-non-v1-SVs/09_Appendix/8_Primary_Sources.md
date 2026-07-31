@@ -7,21 +7,21 @@ title = "8 Primary Sources"
 
 Aḻakiyamaṇavāḷa-rāmānuja-ekaṅki-svāmikaḷ, 1968. *Śrīvaiṣṇava* *Tīpikai*, 2 Parts. Madras: K. Nārāyaṇa Reṭṭiyar.
 
-Aṟumukaṉ, K., 1984 \[1966\]. *Tirunārāyaṇatāca* *Suvāmikaḷ* *Varalāṟu*. [[V īrapparaṇṭi|Vīrapparaṇṭi]]: Nārāyaṇatāca Cuvāmikaḷ [[Tēvattānam|Tēvastāṉam]]. 
+Aṟumukaṉ, K., 1984 \[1966\]. *Tirunārāyaṇatāca* *Suvāmikaḷ* *Varalāṟu*. Vīrapparaṇṭi: Nārāyaṇatāca Cuvāmikaḷ Tēvastāṉam. 
 
 *Inscriptions* *of* *Sadasivaraya’s* *Time:* *From* *1541* *to* *1547*, 1998, V. Vijayaraghavacharya (trans. and ed.), Tirumala Tirupati Devasthanams Inscriptions, Vol. V. Tirupati: Tirumala Tirupati Devasthanams.
 
-Irātākiruṭṭiṇaṉ, M. \[Pāvalar [[Maṇī|Maṇi]] Cittaṉ\]. ‘Vaiṇavattiṉ Etirkālam’, in *Symposium* *on* *Sri* *Vaishnavism* *Tomorrow*, 62–71. Chennai: Bysani Madhavachetty’s Charity Fund. 
+Irātākiruṭṭiṇaṉ, M. \[Pāvalar Maṇi Cittaṉ\]. ‘Vaiṇavattiṉ Etirkālam’, in *Symposium* *on* *Sri* *Vaishnavism* *Tomorrow*, 62–71. Chennai: Bysani Madhavachetty’s Charity Fund. 
 
-[[Kauvintarājalu|Kōvintarājalu]] Nāyuṭu, 2003. *[[Puvaṇakiri|Puvaṉakiri]]* *Śrīmat* *Aḻakiya* *Maṇavāḷa* *Rāmānuja* *Ekāṅki* *Suvāmikaḷ* by [[Kuṭalū|Kuṭalūr]].
+Kōvintarājalu Nāyuṭu, 2003. *Puvaṉakiri* *Śrīmat* *Aḻakiya* *Maṇavāḷa* *Rāmānuja* *Ekāṅki* *Suvāmikaḷ* by Kuṭalūr.
 
-Keśava, A. M., n.d. *[[Vaiṇava|Vaiṇavam]]*. Madras: P. V. Kannappa Mudaliar. 
+Keśava, A. M., n.d. *Vaiṇavam*. Madras: P. V. Kannappa Mudaliar. 
 
 Kiruṣṇasvāmi Ayyaṅkār, S. (ed.), 1975 \[1968\]. Piṉpaḻakiya Perumāḷ Cīyar, *Ārāyirappaṭi* *Kuruparamparāpirapāvam* \[*Guruparamparāprabāvam 6000*\]. Tirucci: Śrīnivāsam Accakam.
 
 *Koil* *Olugu*, 1961, V. N. Hari Rao (trans. and ed.). Madras: Rochouse and Sons. 
 
-[[K ṛṣṇa|Kṛṣṇa]] Piḷḷai, Gōpāla, 1892. *Ācārya-hṛdaya-sāra-saṅgraham*. Chennai: Kalaratnākara Press. [[P361]]
+Kṛṣṇa Piḷḷai, Gōpāla, 1892. *Ācārya-hṛdaya-sāra-saṅgraham*. Chennai: Kalaratnākara Press. [[P361]]
 
 Monier-Williams, Monier, 1963 \[1899\]. *Sanskrit-English* *Dictionary*. Oxford: Clarendon Press.
 
@@ -33,26 +33,26 @@ Purushothama Naidu, B. R., 1970. *Śrī* *Vacaṉa* *Pūshaṇam* (with the comm
 
 \_\_\_\_\_\_\_\_\_\_\_., n.d. *Śrīrāmāyaṇam* *Pācurappaṭi* (*Rāmāyaṇa* as found in the \[*āḻvār*s’\] verses). Chennai: Manavar Manram.
 
-\_\_\_\_\_\_\_\_\_\_\_ (ed.), 1951–59. *[[Tiruv* *āymoḻi|Tiruvāymoḻi]]* *Īṭiṉ* *Tamiḷ* *Ākkam*, 10 vols. Madras: University of Madras. 
+\_\_\_\_\_\_\_\_\_\_\_ (ed.), 1951–59. *Tiruvāymoḻi* *Īṭiṉ* *Tamiḷ* *Ākkam*, 10 vols. Madras: University of Madras. 
 
 Rāmānuja Dāsar, Lokanātha, 1930. *Kōyiḷ* *Aḻakiya* *Maṇavāḷa* *Rāmānuja* *Ekāṅgi* *Svāmikaḷ* *Vaibhavam*. Kalati.
 
 Rāmānuja Nāvalar, A. V., 1869. *Patmottara* *Purāṇam* (trans. into Tamil). Madras. Available at http://books.google.ca/books?id. 
 
-\_\_\_\_\_\_\_\_\_\_\_, 1891. *[[Tiruccitirakuṇapurāṇam|Tiruccitirakūṭapurāṇam]]* (trans. into Tamil). Chennai: Śriniketana [[Mutrakṣaracalai|Mudrākṣaraśālā]], K. R. Sundaram Iyer, Memorial Library. Available at [[https://www.yur/user/musicademy)|https://www.youtube.com/user/musicacademy)]] (accessed 23 January 2015).
+\_\_\_\_\_\_\_\_\_\_\_, 1891. *Tiruccitirakūṭapurāṇam* (trans. into Tamil). Chennai: Śriniketana Mudrākṣaraśālā, K. R. Sundaram Iyer, Memorial Library. Available at https://www.youtube.com/user/musicacademy) (accessed 23 January 2015).
 
-\_\_\_\_\_\_\_\_\_\_\_, 1968. *Vairakkiya* *Curiyotayam*. Pannurutti: Ramanuja Navalar Svamigal Sabhai. Available at http://nationallibrary.gov.in/[[showdetails.php[?id=376178|showdetails.php?id=376178]] (accessed 20 June 2016).
+\_\_\_\_\_\_\_\_\_\_\_, 1968. *Vairakkiya* *Curiyotayam*. Pannurutti: Ramanuja Navalar Svamigal Sabhai. Available at http://nationallibrary.gov.in/showdetails.php?id=376178 (accessed 20 June 2016).
 
 Ramasamy, A., 1969. *Tamil* *Nattil* *Gandhi*. Madurai: Gandhi Smarak Nidhi.
 
-Reddiyar, K. Venkataswami (ed.), 1981, *Nalayira* *Divya* *Prabandham*. Madras: Tiruvenkattan [[Tirmunram|Tirumunram]].
+Reddiyar, K. Venkataswami (ed.), 1981, *Nalayira* *Divya* *Prabandham*. Madras: Tiruvenkattan Tirumunram.
 
 *Śrīśaṇḍīlya-viśiṣṭa-parama-dharma-śāstra* (with Hindi commentary), 1930. Kanchipuram: Sri Prativadibhayankara Matha.
 
-*Tivya* *Vaipava* *Caṅkrakam* \[*Divya* *Vaibhava* *Saṅgraha*\] (about Putuvai Vilakṣaṇa Kavi), A. V. Irāmānuja Nāvalar Svāmikaḷ, collected by K. Nārāyaṇa Reṭṭiyar, 1972. Paṇṇuruṭṭi: Irāmānuja Nāvalar Svāmikaḷ Capaiyār (Sabhā) [[Veḷiyiṭṭalu|Veḷiyiṭu]].
+*Tivya* *Vaipava* *Caṅkrakam* \[*Divya* *Vaibhava* *Saṅgraha*\] (about Putuvai Vilakṣaṇa Kavi), A. V. Irāmānuja Nāvalar Svāmikaḷ, collected by K. Nārāyaṇa Reṭṭiyar, 1972. Paṇṇuruṭṭi: Irāmānuja Nāvalar Svāmikaḷ Capaiyār (Sabhā) Veḷiyiṭu.
 
 *Tamil* *Lexicon*, 1982–-83, 6 vols. Madras: Madras University Press. 
 
-Tātācāriyar, Akṉihōtram Irāmānuca, 1973. *[[Vālaṟṟil piranta vaiṇavam|Varalāṟṟil piṟanta vaiṇavam]]* (*The* *Vaiṣṇavism* *Born* *of* *History*). Kumbakonam: Sri Sarangapani Devasthanam. 
+Tātācāriyar, Akṉihōtram Irāmānuca, 1973. *Varalāṟṟil piṟanta vaiṇavam* (*The* *Vaiṣṇavism* *Born* *of* *History*). Kumbakonam: Sri Sarangapani Devasthanam. 
 
 362
