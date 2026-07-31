@@ -9034,6 +9034,12 @@ These and other texts declare that to Brahman, whose essential nature is knowled
 अन्यतरस्य मिथ्या-विषयताऽऽश्रयणम् अपि नाशङ्कनीयम्॥
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+शिथिलेयम् प्रत्युक्तिः। यथाप्रकरणं निर्गुणत्वस्यनिर्वाहान्तराणि वराणि, यथा रूपरसाद्य्-अतीतता, सत्त्वाद्य्-अतीतता च। 
+</details>
+
+
 <details><summary>English</summary>
 
 That the texts referring to Brahman as free from qualities, and those which speak of it as possessing qualities, have really one and the same object may be inferred from the last of the passages quoted above; the earlier part of which--'free from sin,' up to 'free from thirst'--denies of Brahman all evil qualities, while its latter part--'whose wishes are true,' and so on – asserts of its certain excellent qualities. As thus there is no contradiction between the two classes of texts, there is no reason whatever to assume that either of them has for its object something that is false.--
@@ -9058,7 +9064,7 @@ That the texts referring to Brahman as free from qualities, and those which spea
 अप्राप्य मनसा सह।  
 आनन्दं ब्रह्मणो विद्वान् (तै.आन.९.१) 
 
-इति ब्रह्मणः कल्याण-गुणानन्त्यम् अत्य् आदरेण वदतीयं श्रुतिः॥
+इति ब्रह्मणः कल्याण-गुणानन्त्यम् अत्य् आदरेण वदतीयं श्रुतिः॥+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -9073,11 +9079,15 @@ With regard to the concluding passage of the Taittiriya-text, 'from whence all s
 
 [^fn_14]: 82:1 Which passage appears to refer to a nirguṇa brahman, whence it might be inferred that the connected initial passage--'Satyam jñanam,' &c.--has a similar purport.
 
-## स्ववाक्यैकदेशेनापि ब्रह्मणः सविशेषता
+#### सह ब्रह्मणा विपश्चिता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो ऽश्नुते सर्वान् कामान् सह ब्रह्मणा [[विपिश्चता|विपश्चिता]] (तै.आन.१.२) इति ब्रह्म-वेदन-फलम् अवगमयद् वाक्यं परस्य [[विपिश्चतो|विपश्चितो]] ब्रह्मणो गुणानन्त्यं ब्रवीति।
+> सो ऽश्नुते सर्वान् कामान्  
+सह ब्रह्मणा विपश्चिता (तै.आन.१.२) 
+
+इति +++(वाक्य-शेषेण)+++ ब्रह्म-वेदन-फलम् अवगमयद् वाक्यं  
+परस्य विपश्चितो ब्रह्मणो गुणानन्त्यं ब्रवीति।
 </details>
 
 <details><summary>English</summary>
@@ -9087,7 +9097,7 @@ Moreover, a clause in the chapter under discussion – viz. 'he obtains all desi
 
 <details><summary>मूलम्</summary>
 
-सोऽश्नुते सर्वान् कामान् सह ब्रह्मणा [[विपिश्चता|विपश्चिता]] (तै.आन.१.२) इति ब्रह्मवेदनफलमवगमयद्वाक्यं परस्य [[विपिश्चतो|विपश्चितो]] ब्रह्मणो गुणानन्त्यं ब्रवीति।
+सोऽश्नुते सर्वान् कामान् सह ब्रह्मणा विपश्चिता (तै.आन.१.२) इति ब्रह्मवेदनफलमवगमयद्वाक्यं परस्य विपश्चितो ब्रह्मणो गुणानन्त्यं ब्रवीति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9110,6 +9120,12 @@ He enjoys all desires together with the all-wise Brahman.
 काम्यन्त इति कामाः – कल्याण-गुणाः।
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+रूढार्थोऽपि वा भवतु विशिष्य -  
+ब्रह्माभीष्टा लीला-भोगाव् इति। 
+</details>
+
 <details><summary>English</summary>
 
 The 'desires' (kāmāḥ) are the auspicious qualities of Brahman which are the objects of desire;
@@ -9122,7 +9138,9 @@ The 'desires' (kāmāḥ) are the auspicious qualities of Brahman which are the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मणा सह तद्-गुणान् [[सर्वानश्नुत|सर्वान् अश्नुते]] इत्य् अर्थः।
+> ब्रह्मणा सह तद्-गुणान् सर्वान् अश्नुते 
+
+इत्य् अर्थः।
 </details>
 
 <details><summary>English</summary>
@@ -9132,13 +9150,18 @@ the meaning is that the man who knows Brahman obtains, together with Brahman, al
 
 <details><summary>मूलम्</summary>
 
-ब्रह्मणा सह तद्गुणान् [[सर्वानश्नुत|सर्वानश्नुते]] इत्यर्थः।
+ब्रह्मणा सह तद्गुणान् सर्वानश्नुते इत्यर्थः।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दहर-विद्यायां तस्मिन्यदन्तस्तदन्वेष्टव्यम् (छा.८.१.१) इति-वद् गुण-प्राधान्यं वक्तुं सह-शब्दः।
+दहर-विद्यायां 
+
+> तस्मिन् यद् अन्तस् तद् अन्वेष्टव्यम् (छा.८.१.१) 
+
+इतिवद् गुण-प्राधान्यं वक्तुं सह-शब्दः +++(→"सह-योगो ऽप्रधाने [तृतीया]")+++।
 </details>
+
 
 <details><summary>English</summary>
 
@@ -9150,9 +9173,15 @@ The expression 'together with' is meant to bring out the primary importance of t
 दहरविद्यायां तस्मिन्यदन्तस्तदन्वेष्टव्यम् (छा.८.१.१) इतिवद्गुणप्राधान्यं वक्तुं सहशब्दः।
 </details>
 
+#### फलोपासनोर् ऐक्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-फल-उपासनयोः प्रकारैक्यं यथाक्रतुर् अस्मिन् लोके पुरुषो भवति तथेतः प्रेत्य भवति (छा.३.१४.१) इति श्रुत्यैव सिद्धम्॥
+फलोपासनयोः प्रकारैक्यं 
+
+> यथाक्रतुर् अस्मिन् लोके पुरुषो भवति  
+तथेतः प्रेत्य भवति (छा.३.१४.१) 
+
+इति श्रुत्यैव सिद्धम्॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -9165,11 +9194,25 @@ And that fruit and meditation are of the same character (i.e. that in meditation
 फलोपासनयोः प्रकारैक्यं यथाक्रतुरस्मिन् लोके पुरुषो भवति तथेतः प्रेत्य भवति (छा.३.१४.१) इति श्रुत्यैव सिद्धम्॥
 </details>
 
-## ज्ञेयत्वनिषेधपरश्रुत्या निर्विशेषतासिद्धिरित्यस्य निरासः
+### यस्यामतं तस्य मतम्
+<details><summary>विषयः</summary>
+
+ज्ञेयत्वनिषेधपरश्रुत्या निर्विशेषतासिद्धिरित्यस्य निरासः॥
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्यामतं तस्य मतम् …… अविज्ञातं विजानताम् (केन.२.३) इति ब्रह्मणो ज्ञानाविषयत्वम् उक्तं चेत्; ब्रह्म-विद् आप्नोति परम् (तै.१.१) ब्रह्म वेद ब्रह्मैव भवति (मु.३.२.९) इति ज्ञानान् मोक्षोपदेशो न स्यात्।
+> यस्यामतं तस्य मतम् ……  
+अविज्ञातं विजानताम् (केन.२.३) 
+
+इति ब्रह्मणो ज्ञानाविषयत्वम् उक्तं चेत्;  
+
+> ब्रह्म-विद् आप्नोति परम् (तै.१.१)  
+
+> ब्रह्म वेद, ब्रह्मैव भवति (मु.३.२.९) 
+
+इति ज्ञानान् मोक्षोपदेशो न स्यात्।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -9184,7 +9227,13 @@ If it be said that the passage 'By whom it is not thought by him it is thought',
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असन् एव स भवति, असद्-ब्रह्मेति वेद चेत्, अस्ति ब्रह्मेति चेद् वेद, सन्तम् एनं ततो विदुः (तै.आन.६.११) इति ब्रह्म-विषय-ज्ञानासद्भाव-सद्भावाभ्याम् आत्म-नाशम् आत्म-सत्तां च वदति।
+> असन्न् एव स भवति,  
+"असद् ब्रह्मे"ति वेद चेत्,  
+"अस्ति ब्रह्मे"ति चेद् वेद,  
+सन्तम् एनं ततो विदुः (तै.आन.६.११) 
+
+इति ब्रह्म-विषय-ज्ञानासद्भाव-सद्भावाभ्याम्  
+आत्म-नाशम् आत्म-सत्तां च वदति।
 </details>
 
 <details><summary>English</summary>
@@ -9199,7 +9248,8 @@ And, moreover, the text 'He who knows Brahman as non-existing becomes himself no
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो ब्रह्म-विषय-वेदनम् एवापवर्गोपायं सर्वाश् श्रुतयो विदधति ॥
+अतो ब्रह्म-विषय-वेदनम् एवापवर्गोपायं  
+सर्वाश् श्रुतयो विदधति ॥
 </details>
 
 <details><summary>English</summary>
@@ -9212,11 +9262,12 @@ We thus conclude that all scriptural texts enjoin just the knowledge of Brahman 
 अतो ब्रह्मविषयवेदनमेवापवर्गोपायं सर्वाश्श्रुतयो विदधति ॥
 </details>
 
-## उपासनात्मकज्ञानाविषयत्वपक्षदूषणम्
+#### उपासनात्मकं ज्ञानम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञानं चोपासनात्मकम्। उपास्यम् च ब्रह्म सगुणम् इत्य् उक्तम्।
+ज्ञानं चोपासनात्मकम्।  
+उपास्यम् च ब्रह्म सगुणम् इत्य् उक्तम्।
 </details>
 
 <details><summary>English</summary>
@@ -9229,9 +9280,17 @@ This knowledge is, as we already know, of the nature of meditation, and what is 
 ज्ञानं चोपासनात्मकम्। उपास्यञ्च ब्रह्म सगुणमित्युक्तम्।
 </details>
 
+#### इयत्ता-निषेधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यतो वाचो निवर्तन्ते। अप्राप्य मनसा सह (तै.आन.९.१) इति ब्रह्मणो ऽनन्तस्य अपरिच्छिन्न-गुणस्य वाङ्-मनसयोर् एतावद् इति परिच्छेदायोग्यत्व-श्रवणेन ब्रह्मैतावद् इति ब्रह्म-परिच्छेद-ज्ञानवतां ब्रह्माविज्ञातम् अमतम् इत्य् उक्तम्, [[अपिरिच्छिन्नत्वाद्ब्रह्मणः|अपरिच्छिन्नत्वाद् ब्रह्मणः]]।
+> > यतो वाचो निवर्तन्ते।  
+अप्राप्य मनसा सह (तै.आन.९.१) 
+> 
+> इति ब्रह्मणो ऽनन्तस्य अपरिच्छिन्न-गुणस्य  
+वाङ्-मनसयोर् "एतावद्" इति परिच्छेदायोग्यत्व-श्रवणेन  
+"ब्रह्मैतावद्" इति ब्रह्म-परिच्छेद-ज्ञानवतां ब्रह्माविज्ञातम् अमतम् 
+
+इत्य् उक्तम्, अपरिच्छिन्नत्वाद् ब्रह्मणः।
 </details>
 
 <details><summary>English</summary>
@@ -9241,7 +9300,7 @@ This knowledge is, as we already know, of the nature of meditation, and what is 
 
 <details><summary>मूलम्</summary>
 
-यतो वाचो निवर्तन्ते। अप्राप्य मनसा सह (तै.आन.९.१) इति ब्रह्मणोऽनन्तस्य अपरिच्छिन्नगुणस्य वाङ्मनसयोरेतावदिति परिच्छेदायोग्यत्वश्रवणेन ब्रह्मैतावदिति ब्रह्मपरिच्छेद-ज्ञानवतां ब्रह्माविज्ञातममतमित्युक्तम्, [[अपिरिच्छिन्नत्वाद्ब्रह्मणः|अपरिच्छिन्नत्वाद्ब्रह्मणः]]।
+यतो वाचो निवर्तन्ते। अप्राप्य मनसा सह (तै.आन.९.१) इति ब्रह्मणोऽनन्तस्य अपरिच्छिन्नगुणस्य वाङ्मनसयोरेतावदिति परिच्छेदायोग्यत्वश्रवणेन ब्रह्मैतावदिति ब्रह्मपरिच्छेद-ज्ञानवतां ब्रह्माविज्ञातममतमित्युक्तम्, अपरिच्छिन्नत्वाद्ब्रह्मणः।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
