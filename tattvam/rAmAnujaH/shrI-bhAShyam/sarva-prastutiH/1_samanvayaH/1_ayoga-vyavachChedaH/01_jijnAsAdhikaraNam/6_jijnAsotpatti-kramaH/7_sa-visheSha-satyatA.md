@@ -9566,12 +9566,15 @@ They do not, on the other hand, deny that plurality on Brahman's part which depe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नानात्व-निषेधाद् इयम् अपरमार्थ-विषयेति चेत्; न, प्रत्यक्षादि-सकल-प्रमाणानवगतं नानात्वं दुरारोहं ब्रह्मणः प्रतिपाद्य तद् एव बाध्यत इत्य् उपहास्यम् इदम्॥
+"नानात्व-निषेधाद् इयम् अपरमार्थ-विषये"ति चेत्; न,  
+प्रत्यक्षादि-सकल-प्रमाणानवगतं नानात्वं दुरारोहं+++(→दुर्बोधं)+++ ब्रह्मणः प्रतिपाद्य  
+तद् एव बाध्यत इत्य् उपहास्यम् इदम्॥
 </details>
 
 <details><summary>English</summary>
 
-Nor can our opponent urge against this that, owing to the denial of plurality contained in other passages this last text refers to something not real; for it is an altogether laughable assertion that Scripture should at first teach the doctrine, difficult to comprehend, that plurality as suggested by Perception and the other means of Knowledge belongs to Brahman also, and should afterwards negative this very doctrine!
+Nor can our opponent urge against this that, owing to the denial of plurality contained in other passages this last text refers to something not real;  
+for it is an altogether laughable assertion that Scripture should at first teach the doctrine, difficult to comprehend, that plurality as suggested by Perception and the other means of Knowledge belongs to Brahman also, and should afterwards negative this very doctrine!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9579,9 +9582,19 @@ Nor can our opponent urge against this that, owing to the denial of plurality co
 नानात्वनिषेधादियमपरमार्थविषयेति चेत्; न, प्रत्यक्षादिसकलप्रमाणानवगतं नानात्वं दुरारोहं ब्रह्मणः प्रतिपाद्य तदेव बाध्यत इत्युपहास्यमिदम्॥
 </details>
 
+### तस्य भयं भवति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदा ह्य् एवैष एतस्मिन् उदरम् अन्तरं कुरुते अथ तस्य भयं भवति (तै.आन.७.२), इति ब्रह्मणि नानात्वं पश्यतो भय-प्राप्तिर् इति यद् उक्तम्; तद् असत् सर्वं खल्व् इदं ब्रह्म तज्जलान् इति शान्त उपासीत (छा.३.१४.१) इति तन्-नानात्वानुसन्धानस्य शान्ति-हेतुत्वोपदेशात्।
+> यदा ह्य् एवैष एतस्मिन् उदरम् अन्तरं कुरुते  
+अथ तस्य भयं भवति (तै.आन.७.२), 
+
+इति "ब्रह्मणि नानात्वं पश्यतो भय-प्राप्तिर्" इति यद् उक्तम्;  
+तद् असत् -  
+
+> "सर्वं खल्व् इदं ब्रह्म। 
++++(सर्वं)+++ तज्+++(→ब्रह्म)+++-ज-ल-+अन्" इति शान्त उपासीत (छा.३.१४.१) 
+
+इति तन्-नानात्वानुसन्धानस्य शान्ति-हेतुत्वोपदेशात्।
 </details>
 
 <details><summary>English</summary>
@@ -9596,7 +9609,8 @@ Nor is it true that the text 'If he makes but the smallest "antaram" (i.e. diffe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि सर्वस्य जगतस् तद्-उत्पत्ति-स्थिति-लय-कर्मतया तदात्मकत्वानुसन्धानेनात्र शान्तिर् विधीयते।
+तथा हि, सर्वस्य जगतस् तद्-उत्पत्ति-स्थिति-लय-कर्मतया  
+तद्-आत्मकत्वानुसन्धानेनात्र शान्तिर् विधीयते।
 </details>
 
 <details><summary>English</summary>
@@ -9611,7 +9625,7 @@ For this passage declares that peace of mind is produced by a reflection on the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो यथावस्थित-देव-तिर्यङ्-मनुष्य-स्थावरादि-भेद-भिन्नं जगत् ब्रह्मात्मकम् इति इत्य् अनुसन्धानस्य शान्ति-हेतुतया अभय-प्राप्ति-हेतुत्वेन न भय-हेतुत्व-प्रसङ्गः।
+अतो यथाऽवस्थित-देव-तिर्यङ्-मनुष्य-- स्थावरादि-भेद-भिन्नं जगत् ब्रह्मात्मकम् इति इत्य् अनुसन्धानस्य शान्ति-हेतुतया अभय-प्राप्ति-हेतुत्वेन न भय-हेतुत्व-प्रसङ्गः।
 </details>
 
 <details><summary>English</summary>
