@@ -10184,7 +10184,7 @@ This great word bhagavat is the name of Vāsudeva who is the highest Brahman –
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> विष्णु-शक्तिः परा प्रोक्ता  
+> विष्णु-शक्तिः परा **प्रोक्ता**  
 क्षेत्रज्ञाख्या तथाऽपरा।  
 अ-विद्या कर्म-सञ्ज्ञाऽन्या  
 तृतीया शक्तिर् इष्यते॥  
