@@ -34,7 +34,7 @@ Presentation
   - Krishna Tatacharya's order to destroy tenkalai mark on deshika shrine; court's order in his favor not quoted.
   - Unnamed "Govenment records" reveal - Ahobila matha temple conversion - Tiruvellore. Contrary court order not cited.
   - Azhagiyamanavalamuni's temporary role in kAnchI.
-  - Suspicious viShNu-chittIya pATha inclusion. Source: [TW](/purANam_vaiShNavam/viShNu-purANam/viShNuchitta-TIkA/mUlam_me/01/08)
+  - Suspicious viShNu-chittIya pATha inclusion. Source: [TW](/purANam_vaiShNavam/viShNu-purANam/shrIdhara-viShNu-chittau/1/08_laxmy-utpatti-kathanaM)
 - To be checked
   - Madras Oriental Library - R. No. 104-H. 38-14 . Vedanta Desika Vaibhava Prakasika. RL to follow up; copy awaited from shaThakopa tAtArya.
 - Hatred 
