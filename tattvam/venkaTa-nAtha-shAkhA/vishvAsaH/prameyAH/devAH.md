@@ -389,6 +389,9 @@ Some distinguish the buddhAvatAra from the historical buddha based on the follow
 That's the ONLY reason for distinction. No doctrinal reason, no cope.  
 Before modern dating of buddhu, there was no need for such circus; and you wont find it as well.  
 Theologically/ philosophically there is no problem whatsoever. buddhu is an AveshAvatAra, designed for misleading certain people, and human part is always there to take the blame, if needed.
+
+> If there is one idea that epitomizes the colonial mindset, it is the claim that Gautama Buddha and the Buddhāvatāra are two different figures. This distinction was unknown before Sir William Jones address, “Of the Hindus,” before the Asiatic Society.  
+The evidence to show that Gautama Buddha was regarded as Buddhavatara is truly overwhelming and represents an unbroken tradition from the Puranas to commentaries to third-party references, poetry, and devotional works. It is further corroborated by Buddhist texts. - kushAgra aniket
 </details>
 
 
