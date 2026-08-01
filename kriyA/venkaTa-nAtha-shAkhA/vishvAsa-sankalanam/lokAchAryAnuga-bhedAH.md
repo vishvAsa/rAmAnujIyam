@@ -189,3 +189,15 @@ vid here - [TW](/conversations/YT/ten-vaDa-kalais/2026-03-13_shUdra-bhAgavatas_m
 वैखानसशास्त्रानुक्त-सपाद-पुण्ड्राग्रहेण,  
 भक्तत्वेन देवतान्तरप्रतिष्ठाया अपि विरोधेन … इत्यादिभिः। 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> Kurungudi & Vanamamalai take tapamudras. Supposedly some in Srivi and Thiruthankal ("they absolutely refuse").  
+> Nathan Koil, Nachiyarkoil, Thirukkovalur and sriperumbudur too have. 
+> Nachiyarkoil has VK-tilaka archakas & RDP only is recited in the temple. But - the archakas take tApa-mudras themselves to work in places like nathan koil and VKs do not ask them to.  
+> In sriperumbudur the archaka who does aradhana to azhwar & acharyas should take tapamudra while those who do to Adikeshava need not do.  
+> 
+> In andhra and karnataka, and all places where the archaka is exclusively dedicated to a vaDakalai temple, this practice is absent.  
+Ahobilamatha runs 3 Vaikh temples properly only with no issues.
+
+
+</details>

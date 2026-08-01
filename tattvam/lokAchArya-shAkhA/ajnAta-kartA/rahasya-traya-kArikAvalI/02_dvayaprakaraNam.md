@@ -253,7 +253,7 @@ title = "०२ द्वयप्रकरणम्"
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-विष्णुचित्तीये पाठे विवादे ऽस्य प्रभावो ऽन्यत्र द्रष्टव्यः। [TW](/purANam_vaiShNavam/viShNu-purANam/viShNuchitta-TIkA/mUlam_me/01/08) ।
+विष्णुचित्तीये पाठे विवादे ऽस्य प्रभावो ऽन्यत्र द्रष्टव्यः। [TW](/purANam_vaiShNavam/viShNu-purANam/shrIdhara-viShNu-chittau/1/08_laxmy-utpatti-kathanaM) ।
 </details>
 
 
