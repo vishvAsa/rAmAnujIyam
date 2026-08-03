@@ -10588,19 +10588,111 @@ All this proves that the passage 'in which all difference vanishes' does not mea
 अतोऽत्र न भेदापलापः प्रतीयते॥
 </details>
 
+### ज्ञान-स्वरूपम्?
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञान-स्वरूपम् (वि.पु.१-४-४०) इत्य् अपि ज्ञान-व्यतिरिक्तस्यार्थ-जातस्य कृत्स्नस्य न मिथ्यात्वं प्रतिपाद्यते, ज्ञान-स्वरूपस्याऽत्मनो देव-मनुष्याद्यर्थाकारेणावभासो भ्रान्तिर् इत्य् एतावन्-मात्र-वचनात्। न हि शुक्तिकाया रजततयाऽवभासो भ्रान्तिर् इत्य् उक्ते जगति कृत्स्नं रजत-जातं मिथ्या भवति। जगद्-ब्रह्मणोः सामानाधिकरण्येनैक्यप्रतीतेः, ब्रह्मणो ज्ञान-स्वरूपस्यार्थाकारता भ्रान्तिर् इत्य् उक्ते सत्यर्थ-जातस्य कृत्स्नस्य मिथ्यात्वम् उक्तं स्याद् इति चेत्; तद् अ-सत्; अस्मिन् शास्त्रे परस्य ब्रह्मणो विष्णोर् निरस्ताज्ञानादि-निखिल-दोष-गन्धस्य समस्त-कल्याण-गुणात्मकस्य महा-विभूतेः प्रतिपन्नतया तस्य भ्रान्ति-दर्शनासम्भवात्। सामानाधिकरण्येनैक्यप्रतिपादनं च बाधासहम्, अ-विरुद्धं चेत्य् अनन्तरम् [[एवोपपादियष्यते|एवोपपादयिष्यते]]। अतो ऽयम् अपि श्लोको नार्थ-स्वरूपस्य बाधकः॥
+> ज्ञान-स्वरूपम् (वि.पु.१-४-४०) 
+
+इत्य् अपि  
+ज्ञान-व्यतिरिक्तस्यार्थ-जातस्य कृत्स्नस्य  
+न मिथ्यात्वं प्रतिपाद्यते,  
+
+> ज्ञान-स्वरूपस्यात्मनो देव-मनुष्याद्य्-अर्थाकारेणावभासो  
+भ्रान्तिर् 
+
+इत्य् एतावन्-मात्र-वचनात्। 
 </details>
 
 <details><summary>English</summary>
 
-Nor, again, does the passage 'that which has knowledge for its essential nature' (Vi. Pu. 1,2,6) imply that the whole complex of things different from knowledge is false; for it declares only that the appearance of the Self – the essential nature of which is knowledge – as gods, men, and so on, is erroneous. A declaration that the appearance of mother o' pearl as silver is founded on error surely does not imply that all the silver in the world is unreal!--But if, on the ground of an insight into the oneness of Brahman and the world – as expressed in texts where the two appear in co-ordination – a text declares that it is an error to view Brahman, whose essential nature is knowledge, under the form of material things, this after all implies that the whole aggregate of things is false!--By no means, we rejoin. As our śástra distinctly teaches that the highest Brahman, i. e. Vishṇu, is free from all imperfections whatsoever, comprises within himself all auspicious qualities, and reveals his power in mighty manifestations, the view of the world's reality cannot possibly be erroneous. That information as to the oneness of two things by means of co-ordination does not allow of sublation (of either of the two), and is non-contradictory, we shall prove further on. Hence also the śloka last referred to does not sublate the reality of the world.
+Nor, again, does the passage 'that which has knowledge for its essential nature' (Vi. Pu. 1,2,6) imply that the whole complex of things different from knowledge is false; for it declares only that the appearance of the Self – the essential nature of which is knowledge – as gods, men, and so on, is erroneous. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानस्वरूपम् (वि.पु.1-4-40) इत्यत्रापि ज्ञानव्यतिरिक्तस्यार्थजातस्य कृत्स्नस्य न मिथ्यात्वं प्रतिपाद्यते, ज्ञानस्वरूपस्याऽत्मनो देवमनुष्याद्यर्थाकारेणावभासो भ्रान्तिरित्येतावन्मात्रवचनात्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि "शुक्तिकाया रजततयाऽवभासो भ्रान्तिर्" इत्य् उक्ते  
+जगति कृत्स्नं रजत-जातं मिथ्या भवति। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+A declaration that the appearance of mother o' pearl as silver is founded on error surely does not imply that all the silver in the world is unreal!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि शुक्तिकाया रजततयाऽवभासो भ्रान्तिरित्युक्ते जगतिकृत्स्नं रजतजातं मिथ्या भवति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जगद्-ब्रह्मणोः सामानाधिकरण्येनैक्य-प्रतीतेः,  
+"ब्रह्मणो ज्ञान-स्वरूपस्य  
+अर्थाकारता भ्रान्तिर्" इत्य्-उक्ते सत्य्  
+अर्थ-जातस्य कृत्स्नस्य मिथ्यात्वम् उक्तं स्याद् 
+
+इति चेत्; तद् अ-सत्;  
+अस्मिन् शास्त्रे  
+परस्य ब्रह्मणो विष्णोर्  
+निरस्ताज्ञानादि-निखिल-दोष-गन्धस्य समस्त-कल्याण-गुणात्मकस्य महा-विभूतेः प्रतिपन्नतया  
+तस्य भ्रान्ति-दर्शनासम्भवात्  
++++(ततश् चोक्तानुमाने हेतोर् असिद्धेः)+++। 
+</details>
+
+<details><summary>English</summary>
+
+--But if, on the ground of an insight into the oneness of Brahman and the world –  
+as expressed in texts where the two appear in co-ordination –  
+a text declares that it is an error to view Brahman, whose essential nature is knowledge, under the form of material things, this after all implies that the whole aggregate of things is false!--By no means, we rejoin. As our śástra distinctly teaches that the highest Brahman, i. e. Vishṇu, is free from all imperfections whatsoever, comprises within himself all auspicious qualities, and reveals his power in mighty manifestations, the view of the world's reality cannot possibly be erroneous. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जगद्ब्रह्मणोः सामानाधिकरण्येनैक्यप्रतीतेः, ब्रह्मणो ज्ञानस्वरूपस्यार्थाकारता भ्रान्तिरित्युक्ते सत्यर्थजातस्य कृत्स्नस्य मिथ्यात्वमुक्तं स्यादिति चेत्; तदसत्; अस्मिन् शास्त्रे परस्य ब्रह्मणो विष्णोर्निरस्ताज्ञानादिनिखिलदोषगन्धस्य समस्तकल्याणगुणात्मकस्य महाविभूतेः प्रतिपन्नतया तस्य भ्रान्तिदर्शनासम्भवात्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सामानाधिकरण्येनैक्य-प्रतिपादनं च +++(एकतर-)+++बाधाऽसहम्, अ-विरुद्धं चेत्य्  
+अनन्तरम् एवोपपादयिष्यते। 
+</details>
+
+<details><summary>English</summary>
+
+That information as to the oneness of two things by means of co-ordination does not allow of sublation (of either of the two), and is non-contradictory, we shall prove further on. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सामानाधिकरण्येनैक्यप्रतिपादनं च बाधासहम्, अविरुद्धं चेत्यनन्तरमेवोपपादियष्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ऽयम् अपि श्लोको नार्थ-स्वरूपस्य बाधकः॥
+</details>
+
+<details><summary>English</summary>
+
+Hence also the śloka last referred to does not sublate the reality of the world.
 </details>
 
 <details><summary>मूलम्</summary>
 
-ज्ञानस्वरूपम् (वि.पु.1-4-40) इत्यत्रापि ज्ञानव्यतिरिक्तस्यार्थजातस्य कृत्स्नस्य न मिथ्यात्वं प्रतिपाद्यते, ज्ञानस्वरूपस्याऽत्मनो देवमनुष्याद्यर्थाकारेणावभासो भ्रान्तिरित्येतावन्मात्रवचनात्। न हि शुक्तिकाया रजततयाऽवभासो भ्रान्तिरित्युक्ते जगतिकृत्स्नं रजतजातं मिथ्या भवति। जगद्ब्रह्मणोः सामानाधिकरण्येनैक्यप्रतीतेः, ब्रह्मणो ज्ञानस्वरूपस्यार्थाकारता भ्रान्तिरित्युक्ते सत्यर्थजातस्य कृत्स्नस्य मिथ्यात्वमुक्तं स्यादिति चेत्; तदसत्; अस्मिन् शास्त्रे परस्य ब्रह्मणो विष्णोर्निरस्ताज्ञानादिनिखिलदोषगन्धस्य समस्तकल्याणगुणात्मकस्य महाविभूतेः प्रतिपन्नतया तस्य भ्रान्तिदर्शनासम्भवात्। सामानाधिकरण्येनैक्यप्रतिपादनं च बाधासहम्, अविरुद्धं चेत्यनन्तरमेवोपपादियष्यते। अतोऽयमपि श्लोको नार्थस्वरूपस्य बाधकः॥
+अतोऽयमपि श्लोको नार्थस्वरूपस्य बाधकः॥
 </details>
 
 ### उपबृंहणविधिनिरूपणं
