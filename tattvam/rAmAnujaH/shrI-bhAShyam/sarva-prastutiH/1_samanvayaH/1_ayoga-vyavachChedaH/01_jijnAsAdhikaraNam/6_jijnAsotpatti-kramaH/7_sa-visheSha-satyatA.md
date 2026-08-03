@@ -10367,20 +10367,25 @@ that the entire complex of intelligent and non-intelligent beings (souls and mat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> "प्रत्यस्तमित-भेदम्" (वि.पु.६-७-५३) इत्य् अत्र  
+"प्रत्यस्तमित-भेदम्" (वि.पु.६-७-५३) इत्य् अत्र  
 देव-मनुष्यादि- प्रकृति-परिणाम-विशेष-संसृष्टस्याप्य् आत्मनस् स्वरूपं  
 तद्-गत-भेद-रहितत्वेन  
 तद्-भेद-वाचि-देवादि-शब्दागोचरं ज्ञान-सत्तैक-लक्षणं स्व-संवेद्यं  
 "योग-युङ्-मनसो न गोचर" इत्य् उच्यत इति,  
 अनेन न प्रपञ्चापलापः।  
-कथम् इदम् अवगम्यत? 
+
+> कथम् इदम् अवगम्यत? 
 
 इति चेत्;
 </details>
 
 <details><summary>English</summary>
 
-When now the text, in the śloka 'where all difference has vanished' (Vi. Pu. VI, 7, 53), declares that the Self, although connected with the different effects of Prakr̥ti, such as divine, human bodies, and so on, yet is essentially free from all such distinctions, and therefore not the object of the words denoting those different classes of beings, but to be defined as mere knowledge and Being; to be known by the Self and not to be reached by the mind of the practitioner of Yoga (yogayuj); this must in no way be understood as denying the reality of the world.--But how is this known?--As follows, we reply.
+When now the text, in the śloka 'where all difference has vanished' (Vi. Pu. VI, 7, 53), declares that the Self, although connected with the different effects of Prakr̥ti, such as divine, human bodies, and so on, yet is essentially free from all such distinctions, and therefore not the object of the words denoting those different classes of beings, but to be defined as mere knowledge and Being; to be known by the Self and not to be reached by the mind of the practitioner of Yoga (yogayuj); this must in no way be understood as denying the reality of the world.  
+
+--But how is this known?
+
+--As follows, we reply.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -10394,43 +10399,116 @@ When now the text, in the śloka 'where all difference has vanished' (Vi. Pu. VI
 
 तद् उच्यते –  
 अस्मिन् प्रकरणे संसारैक-भेषजतया योगम् अभिधाय  
-योगावयवान् प्रत्याहार-पर्यन्तांश् चोक्त्वा, धारणा-सिद्ध्यर्थं शुभाश्रयं वक्तुं परस्य ब्रह्मणो विष्णोश् शक्ति-शब्दाभिधेयं रूप-द्वयं मूर्तामूर्त-विभागेन प्रतिपाद्य, तृतीय-शक्ति-रूप-[[कर्मरूाविद्या|कर्मरूपाविद्या]]-वेष्टितम् अचिद्-विशिष्टं क्षेत्रज्ञं मूर्ताख्य-विभागं भावना-त्रयान्वयाद् अ-शुभम् इत्य् उक्त्वा, द्वितीयस्य कर्माख्याविद्या-विरहिणः अचिद्-वियुक्तस्य ज्ञानैकाकारस्यामूर्ताख्य-विभागस्य निष्पन्न-योगि-ध्येयतया योग-युङ्-मनसः अनालम्बनतया स्वतश् शुद्धि-विरहाच् च शुभाश्रयत्वं प्रतिषिध्य, पर-शक्ति-रूपम् इदम् अमूर्तम् अपर-शक्ति-रूपं क्षेत्रज्ञाख्य-मूर्तं च पर-शक्ति-रूपस्याऽत्मनः क्षेत्रज्ञतापत्ति-हेतु-भूत-तृतीय-शक्त्याख्य-कर्म-रूपाविद्या चेत्य् एतच् छक्ति-त्रयाश्रयो भगवद्-असाधारणम् आदित्य-वर्णम् इत्य् आदि-वेदान्त-सिद्धं मूर्त-रूपं शुभाश्रय इत्य् उक्तम्। अत्र परिशुद्धात्मस्वरूपस्य शुभाश्रयतानर्हातां वक्तुं [[प्रत्यस्तिमतभेदं यत्|प्रत्यस्तमित-भेदं यत्]] इत्य् उच्यते । तथा हि –
+योगावयवान् प्रत्याहार-पर्यन्तांश् चोक्त्वा,  
+धारणा-सिद्ध्य्-अर्थं शुभाश्रयं वक्तुं  
+परस्य ब्रह्मणो विष्णोश् शक्ति-शब्दाभिधेयं रूप-द्वयं  
+मूर्तामूर्त-विभागेन प्रतिपाद्य,  
+
+तृतीय-शक्ति-रूप-कर्मरूपाविद्या-वेष्टितम् अचिद्-विशिष्टं क्षेत्रज्ञं  
+मूर्ताख्य-विभागं भावना-त्रयान्वयाद् अ-शुभम् इत्य् उक्त्वा, 
+
+द्वितीयस्य कर्माख्याविद्या-विरहिणः,   
+अचिद्-वियुक्तस्य,  
+ज्ञानैकाकारस्यामूर्ताख्य-विभागस्य  
+निष्पन्न-योगि-ध्येयतया योग-युङ्-मनसः  
+अनालम्बनतया स्वतश्-शुद्धि-विरहाच् च  
+शुभाश्रयत्वं प्रतिषिध्य, 
+
+पर-शक्ति-रूपम् इदम् अमूर्तम्,  
+अपर-शक्ति-रूपं क्षेत्रज्ञाख्य-मूर्तं च  
+पर-शक्ति-रूपस्यात्मनः क्षेत्र-ज्ञतापत्ति--हेतु-भूत-- तृतीय-शक्त्य्-आख्य-कर्म-रूपाविद्या चेत्य् 
+
+एतच् छक्ति-त्रयाश्रयो,  
+भगवद्-असाधारणम् "आदित्य-वर्णम्" इत्य्-आदि-वेदान्त-सिद्धं मूर्त-रूपं  
+शुभाश्रय 
+
+इत्य् उक्तम्। 
 </details>
 
 <details><summary>English</summary>
 
-The chapter of the Purāṇa in which that śloka occurs at first declares concentration (Yoga) to be the remedy of all the afflictions of the Saṁsāra; thereupon explains the different stages of Yoga up to the so-called pratyāhāra (complete restraining of the senses from receiving external impressions); then, in order to teach the attainment of the 'perfect object' (śubhāśraya) required for dhāraṇā, declares that the highest Brahman, i. e. Vishṇu, possesses two forms, called powers (śakti), viz. a denned one (mūrta) and an undefined one (amūrta); and then teaches that a portion of the 'defined' form, viz. the embodied soul (kshetrajña), which is distinguished by its connexion with matter and involved in Nescience – that is termed 'action,' and constitutes a third power – is not perfect. The chapter further teaches that a portion of the undefined form which is free from Nescience called action, separated from all matter, and possessing the character of pure knowledge, is also not the 'perfect object,' since it is destitute of essential purity; and, finally, declares that the 'perfect object' is to be found in that defined form which is special to Bhagavat, and which is the abode of the three powers, viz. that non-defined form which is the highest power, that non-defined form which is termed embodied soul, and constitutes the secondary (apara) power, and Nescience in the form of work – which is called the third power, and is the cause of the Self, which is of the essence of the highest power, passing into the state of embodied soul. This defined form (which is the 'perfect object') is proved by certain Vedānta-texts, such as 'that great person of sun-like lustre' (Śvet. Up. III, 8). We hence must take the śloka, 'in which all differences vanish,' &c., to mean that the pure Self (the Self in so far as knowledge only) is not capable of constituting the 'perfect object.' Analogously
+The chapter of the Purāṇa in which that śloka occurs at first declares concentration (Yoga) to be the remedy of all the afflictions of the Saṁsāra; thereupon explains the different stages of Yoga up to the so-called pratyāhāra (complete restraining of the senses from receiving external impressions); then, in order to teach the attainment of the 'perfect object' (śubhāśraya) required for dhāraṇā, declares that the highest Brahman, i. e. Vishṇu, possesses two forms, called powers (śakti), viz. a denned one (mūrta) and an undefined one (amūrta); and then teaches that a portion of the 'defined' form, viz. the embodied soul (kshetrajña), which is distinguished by its connexion with matter and involved in Nescience – that is termed 'action,' and constitutes a third power – is not perfect. The chapter further teaches that a portion of the undefined form which is free from Nescience called action, separated from all matter, and possessing the character of pure knowledge, is also not the 'perfect object,' since it is destitute of essential purity; 
+
+and, finally, declares that the 'perfect object' is to be found in that defined form which is special to Bhagavat,  
+and which is the abode of the three powers, viz.  
+
+- that non-defined form which is the highest power,  
+- that non-defined form which is termed embodied soul, and constitutes the secondary (apara) power,  
+- and Nescience in the form of work – which is called the third power, 
+
+and is the cause of the Self, which is of the essence of the highest power, passing into the state of embodied soul.  
+
+This defined form (which is the 'perfect object') is proved by certain Vedānta-texts, such as 'that great person of sun-like lustre' (Śvet. Up. III, 8). 
+
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदुच्यते – अस्मिन् प्रकरणे संसारैकभेषजतया योगमभिधाय योगावयवान् प्रत्याहारपर्यन्तांश्चोक्त्वा, धारणासिद्ध्यर्थं शुभाश्रयं वक्तुं परस्य ब्रह्मणो विष्णोश्शक्तिशब्दाभिधेयं रूपद्वयं मूर्तामूर्तविभागेन प्रतिपाद्य, तृतीयशक्तिरूपकर्माख्याविद्यावेष्टितम् अचिद्विशिष्टं क्षेत्रज्ञं मूर्ताख्यविभागं भावनात्रयान्वयादशुभमित्युक्त्वा, द्वितीयस्य कर्माख्याविद्याविरहिणः अचिद्वियुक्तस्य ज्ञानैकाकारस्यामूर्ताख्यविभागस्य निष्पन्नयोगिध्येयतया योगयुङ्मनसः अनालम्बनतया स्वतश्शुद्धिविरहाच्च शुभाश्रयत्वं प्रतिषिध्य, परशक्तिरूपमिदममूर्तमपरशक्तिरूपं क्षेत्रज्ञाख्यमूर्तं च परशक्तिरूपस्याऽत्मनः क्षेत्रज्ञतापत्तिहेतुभूततृतीयशक्त्याख्यकर्मरूाविद्या चेत्येतच्छक्तित्रयाश्रयो भगवदसाधारणम् आदित्यवर्णम् इत्यादिवेदान्तसिद्धं मूर्तरूपं शुभाश्रय इत्युक्तम्। अत्र परिशुद्धात्मस्वरूपस्य शुभाश्रयतानर्हातां वक्तुं प्रत्यस्तिमतभेदं यत् इत्युच्यते । तथा हि –
+तदुच्यते – अस्मिन् प्रकरणे संसारैकभेषजतया योगमभिधाय योगावयवान् प्रत्याहारपर्यन्तांश्चोक्त्वा, धारणासिद्ध्यर्थं शुभाश्रयं वक्तुं परस्य ब्रह्मणो विष्णोश्शक्तिशब्दाभिधेयं रूपद्वयं मूर्तामूर्तविभागेन प्रतिपाद्य, तृतीयशक्तिरूपकर्माख्याविद्यावेष्टितम् अचिद्विशिष्टं क्षेत्रज्ञं मूर्ताख्यविभागं भावनात्रयान्वयादशुभमित्युक्त्वा, द्वितीयस्य कर्माख्याविद्याविरहिणः अचिद्वियुक्तस्य ज्ञानैकाकारस्यामूर्ताख्यविभागस्य निष्पन्नयोगिध्येयतया योगयुङ्मनसः अनालम्बनतया स्वतश्शुद्धिविरहाच्च शुभाश्रयत्वं प्रतिषिध्य, परशक्तिरूपमिदममूर्तमपरशक्तिरूपं क्षेत्रज्ञाख्यमूर्तं च परशक्तिरूपस्याऽत्मनः क्षेत्रज्ञतापत्तिहेतुभूततृतीयशक्त्याख्यकर्मरूाविद्या चेत्येतच्छक्तित्रयाश्रयो भगवदसाधारणम् आदित्यवर्णम् इत्यादिवेदान्तसिद्धं मूर्तरूपं शुभाश्रय इत्युक्तम्। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तद् योग-युजां शक्यं नृप चिन्तयितुं यतः। द्वितीयं विष्णु-सञ्ज्ञस्य योगि-ध्येयं परं पदम् ॥
-समस्ताश् शक्तयश् चैताः नृप यत्र प्रतिष्ठिताः। तद् विश्व-रूप-वैरूप्यं रूपम् अन्यद् हरेर् महत् ॥ (विष्णु.पु.६.७.५५,६९,७०)
+अत्र परिशुद्धात्म-स्वरूपस्य शुभाश्रयताऽनर्हतां वक्तुं  
+"प्रत्यस्तमित-भेदं यद्" इत्य् उच्यते ।
+</details>
+
+<details><summary>English</summary>
+
+We hence must take the śloka, 'in which all differences vanish,' &c., to mean that the pure Self (the Self in so far as knowledge only) is not capable of constituting the 'perfect object.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र परिशुद्धात्मस्वरूपस्य शुभाश्रयतानर्हतां वक्तुं प्रत्यस्तिमतभेदं यत् इत्युच्यते ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि +++(तद्-अग्रे)+++–
+
+> **न** तद् योग-युजां **शक्यं**  
+नृप **चिन्तयितुं** यतः।  
+द्वितीयं विष्णु-सञ्ज्ञस्य  
+योगि-ध्येयं परं पदम् ॥…
+
+> समस्ताश् शक्तयश् चैता  
+नृप यत्र **प्रतिष्ठिताः**।  
+तद् विश्व-रूप--वैरूप्यं  
+रूपम् अन्यद् हरेर् महत् ॥  
+(विष्णु.पु.६.७.५५,६९,७०)
+
 इति च वदति।
 </details>
 
 <details><summary>English</summary>
 
-two other passages declare 'Because this cannot be reflected upon by the beginner in Yoga, the second (form) of Vishṇu is to be meditated upon by Yogins-the highest abode.' 'That in which all these powers have their abode, that is the other great form of Hari, different from the (material) Viśva form.'
+Analogously two other passages declare 
+
+> 'Because this cannot be reflected upon by the beginner in Yoga, the second (form) of Vishṇu is to be meditated upon by Yogins-the highest abode.' 
+
+> 'That in which all these powers have their abode, that is the other great form of Hari, different from the (material) Viśva form.'
 </details>
 
 <details><summary>मूलम्</summary>
 
-न तद्योगयुजां शक्यं नृप चिन्तयितुं यतः। द्वितीयं विष्णुसञ्ज्ञस्य योगिध्येयं परं पदम् ॥
+तथा हि – न तद्योगयुजां शक्यं नृप चिन्तयितुं यतः। द्वितीयं विष्णुसञ्ज्ञस्य योगिध्येयं परं पदम् ॥
 समस्ताश्शक्तयश्चैताः नृप यत्र प्रतिष्ठिताः। तद्विश्वरूपवैरूप्यं रूपमन्यद्धरेर्महत् ॥ (विष्णु.पु.६.७.५५,६९,७०)
 इति च वदति।
 </details>
 
-### शुभाश्रयस्वरूपनिष्कर्षः
+#### शुभाश्रय--स्वरूपम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा चतुर्मुख-सनक-सनन्दनादीनां जगद्-अन्तर्वर्तिनाम् अ-विद्या-वेष्टितत्वेन शुभाश्रयतानर्हाताम् उक्त्वा बद्धानाम् एव पश्चाद् योगेनोद्भूत-बोधानां स्व-स्वरूपापन्नानां च स्वतश् शुद्धि-विरहाद् भगवता शौनकेन शुभाश्रयता निषिद्धा –
+तथा चतुर्मुख-सनक-सनन्दनादीनां जगद्-अन्तर्-वर्तिनाम्  
+अ-विद्या-वेष्टितत्वेन शुभाश्रयतानर्हताम् उक्त्वा  
+
+बद्धानाम् एव पश्चाद् योगेनोद्भूत-बोधानां स्व-स्वरूपापन्नानां च  
+स्वतश् शुद्धि-विरहाद्  
+भगवता शौनकेन शुभाश्रयता निषिद्धा –
 </details>
 
 <details><summary>English</summary>
@@ -10440,19 +10518,28 @@ In an analogous manner, Parāśara declares that Brahmā, Caturmukha, Sanaka, an
 
 <details><summary>मूलम्</summary>
 
-तथा चतुर्मुखसनकसनन्दनादीनां जगदन्तर्वर्तिनामविद्यावेष्टितत्वेन शुभाश्रयतानर्हातामुक्त्वा बद्धानामेव पश्चाद्योगेनोद्भूतबोधानां स्वस्वरूपापन्नानां च स्वतश्शुद्धिविरहाद्भगवता शौनकेन शुभाश्रयता निषिद्धा –
+तथा चतुर्मुखसनकसनन्दनादीनां जगदन्तर्वर्तिनामविद्यावेष्टितत्वेन शुभाश्रयतानर्हतामुक्त्वा बद्धानामेव पश्चाद्योगेनोद्भूतबोधानां स्वस्वरूपापन्नानां च स्वतश्शुद्धिविरहाद्भगवता शौनकेन शुभाश्रयता निषिद्धा –
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आब्रह्म-स्तम्भ-पर्यन्ता [[जगदन्तव्यर्वस्थिताः|जगदन्तर्व्यवस्थिताः]]।
-प्राणिनः कर्म-जनित-संसार-वश-वर्तिनः॥
-यतस् ततो न ते ध्याने ध्यानिनाम् उपकारकाः।
-अविद्यान्तर्गतास् सर्वे ते हि संसार-गोचराः॥
-पश्चाद् उद्भूत-बोधाश् च ध्याने नैवोपकारकाः।
-नैसर्गिको न वै बोधस् तेषाम् अप्य् अन्यतो यतः॥
-तस्मात् तद् अमलं ब्रह्म निसर्गाद् एव बोधवत्॥
-– (भविष्यत्-पुराणान्तर्गत-श्रीविष्णुधर्मे.१०४.२३,२४,२५,२६)
+> आब्रह्म-स्तम्ब-पर्यन्ता  
+जगद्-अन्तर्-**व्यवस्थिताः**।  
+प्राणिनः कर्म-जनित-  
+संसार-**वश-वर्तिनः**॥  
+यतस् ततो **न** ते ध्याने  
+ध्यानिनाम् **उपकारकाः**।  
+अ-विद्यान्तर्गतास् सर्वे  
+ते हि संसार-**गोचराः**॥  
+>
+> पश्चाद्-**उद्भूत-बोधाश्** च  
+ध्याने **नैवोपकारकाः**।
+नैसर्गिको न वै बोधस्  
+तेषाम् अप्य् अन्यतो यतः॥  
+>
+> तस्मात् तद् अ-मलं ब्रह्म  
+निसर्गाद् एव बोधवत् …॥  
+– (भविष्यत्-पुराणान्तर्गत-श्रीविष्णुधर्मे १०४.२३,२४,२५,२६)
 </details>
 
 <details><summary>English</summary>
@@ -10462,7 +10549,7 @@ In an analogous manner, Parāśara declares that Brahmā, Caturmukha, Sanaka, an
 
 <details><summary>मूलम्</summary>
 
-आब्रह्मस्तम्भपर्यन्ता जगदन्तव्यर्वस्थिताः।
+आब्रह्मस्तम्बपर्यन्ता जगदन्तव्यर्वस्थिताः।
 प्राणिनः कर्मजनितसंसारवशवर्तिनः॥
 यतस्ततो न ते ध्याने ध्यानिनामुपकारकाः।
 अविद्यान्तर्गतास्सर्वे ते हि संसारगोचराः॥
@@ -10474,7 +10561,21 @@ In an analogous manner, Parāśara declares that Brahmā, Caturmukha, Sanaka, an
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्य् आदिना परस्य ब्रह्मणो विष्णोस् स्वरूपं स्वासाधारणम् एव शुभाश्रय इत्य् उक्तम्। अतो ऽत्र न भेदापलापः प्रतीयते॥
+इत्य्-आदिना परस्य ब्रह्मणो विष्णोस् स्वरूपं  
+स्वासाधारणम् एव  
+शुभाश्रय इत्य् उक्तम्।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिना परस्य ब्रह्मणो विष्णोस्स्वरूपं स्वासाधारणमेव शुभाश्रय इत्युक्तम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+
+अतो ऽत्र न भेदापलापः प्रतीयते॥
 </details>
 
 <details><summary>English</summary>
@@ -10484,7 +10585,7 @@ All this proves that the passage 'in which all difference vanishes' does not mea
 
 <details><summary>मूलम्</summary>
 
-इत्यादिना परस्य ब्रह्मणो विष्णोस्स्वरूपं स्वासाधारणमेव शुभाश्रय इत्युक्तम्। अतोऽत्र न भेदापलापः प्रतीयते॥
+अतोऽत्र न भेदापलापः प्रतीयते॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
