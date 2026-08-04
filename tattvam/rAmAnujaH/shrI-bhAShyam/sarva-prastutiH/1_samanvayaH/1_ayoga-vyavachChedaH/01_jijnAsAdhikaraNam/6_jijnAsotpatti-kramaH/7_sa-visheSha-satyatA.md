@@ -10962,28 +10962,75 @@ In that case there would be room for one question only, viz. 'what is the substr
 तथा हि सति प्रपञ्चभ्रमस्य किमधिष्ठानमित्येवं रूपस्यैकस्य प्रश्नस्य निर्विशेषज्ञानमात्रमित्येवं रूपमेकमेवोत्तरं स्यात् ॥
 </details>
 
-### सामानाधिकरण्यस्यैक्यपरत्वे विरोधः
+#### नैक-द्रव्यता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जगद्-ब्रह्मणोर् एक-द्रव्यत्व-परे च सामानाधिकरण्ये सत्य् अ-सङ्कल्पत्वादिकल्याणगुणैकतानता निखिल-हेय-प्रत्यनीकता च बाध्येत। सर्वाशुभास्पदं च ब्रह्म भवेत्। आत्म-शरीर-भाव एवैदं सामानाधिकरण्यं मुख्य-वृत्तम् इति स्थाप्यते॥ अतो
+जगद्-ब्रह्मणोर् एक-द्रव्यत्व-परे च सामानाधिकरण्ये सत्य्  
+अ-सङ्कल्पत्वादि--कल्याण-गुणैकतानता निखिल-हेय-प्रत्यनीकता च बाध्येत। 
 </details>
 
 <details><summary>English</summary>
 
-And if the co-ordination expressed in the clause 'and the world is he' was meant to set forth the absolute oneness of the world and Brahman, then it could not be held that Brahman possesses all kinds of auspicious qualities, and is opposed to all evil; Brahman would rather become the abode of all that is impure. All this confirms the conclusion that the co-ordination expressed in that clause is to be understood as directly teaching the relation between a Self and its body.--
+And if the co-ordination expressed in the clause 'and the world is he' was meant to set forth the absolute oneness of the world and Brahman, then it could not be held that Brahman possesses all kinds of auspicious qualities, and is opposed to all evil; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जगद्ब्रह्मणोरेकद्रव्यत्वपरे च सामानाधिकरण्ये सत्यसङ्कल्पत्वादिकल्याणगुणैकतानता निखिलहेयप्रत्यनीकता च बाध्येत। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वाशुभास्पदं च ब्रह्म भवेत्। 
+</details>
+
+<details><summary>English</summary>
+
+Brahman would rather become the abode of all that is impure. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-जगद्ब्रह्मणोरेकद्रव्यत्वपरे च सामानाधिकरण्ये सत्यसङ्कल्पत्वादिकल्याणगुणैकतानता निखिलहेयप्रत्यनीकता च बाध्येत। सर्वाशुभास्पदं च ब्रह्म भवेत्। आत्मशरीरभाव एवेदं सामानाधिकरण्यं मुख्यवृत्तमिति स्थाप्यते॥ अतो
+सर्वाशुभास्पदं च ब्रह्म भवेत्। 
+</details>
+
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-शरीर-भाव एवेदं सामानाधिकरण्यं मुख्य-वृत्तम् इति स्थाप्यते॥
+</details>
+
+<details><summary>English</summary>
+
+All this confirms the conclusion that the co-ordination expressed in that clause is to be understood as directly teaching the relation between a Self and its body.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मशरीरभाव एवेदं सामानाधिकरण्यं मुख्यवृत्तमिति स्थाप्यते॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोस् सकाशाद् उद्भूतं जगत् तत्रैव च स्थितम्।
-स्थिति-संयम-कर्ता ऽसौ जगतो ऽस्य जगच् च सः ॥ (वि.पु.१अं.१-अ.३१श्लो.)
-इति सङ्ग्रहेणोक्तम् अर्थं परः पराणाम् इत्य् आरभ्य विस्तरेण वक्तुं पर-ब्रह्म-भूतं भगवन्तं विष्णुं स्वेनैव स्वरूपेणावस्थितम् अविकाराय इति [[शश्लोकने|श्लोकेन]] प्रथमं प्रणम्य तम् एव हिरण्यगर्भ-स्वावतार-शङ्कर-रूप-त्रिमूर्ति-प्रधान-काल-क्षेत्रज्ञ-समष्टि-व्यष्टि-रूपेणावस्थितं च नमस्करोति।
+अतो 
+
+> विष्णोस् सकाशाद् **उद्भूतं**  
+जगत् तत्रैव च **स्थितम्**।  
+**स्थिति-संयम-कर्ता** ऽसौ  
+जगतो ऽस्य, जगच् च सः ॥  
+(वि.पु.१अं.१-अ.३१श्लो.)
+
+इति सङ्ग्रहेणोक्तम् अर्थं  
+"परः पराणाम्" इत्य् आरभ्य विस्तरेण वक्तुं  
+पर-ब्रह्म-भूतं भगवन्तं विष्णुं  
+स्वेनैव स्वरूपेणावस्थितम्  
+"अविकाराय" इति श्लोकेन प्रथमं प्रणम्य  
+
+तम् एव हिरण्य-गर्भ--स्वावतार--शङ्कर- रूप-त्रिमूर्ति-- प्रधान-काल-क्षेत्रज्ञ-- समष्टि-व्यष्टि-रूपेणावस्थितं च नमस् करोति।
 </details>
 
 <details><summary>English</summary>
@@ -10993,14 +11040,18 @@ The śloka, 'From Vishṇu the world has sprung: in him he exists: he is the cau
 
 <details><summary>मूलम्</summary>
 
-विष्णोस्सकाशादुद्भूतं जगत्तत्रैव च स्थितम्।
+अतो विष्णोस्सकाशादुद्भूतं जगत्तत्रैव च स्थितम्।
 स्थितिसंयमकर्ताऽसौ जगतोऽस्य जगच्च सः ॥ (वि.पु.१अं.१-अ.३१श्लो.)
-इति सङ्ग्रहेणोक्तमर्थं परः पराणाम् इत्यारभ्य विस्तरेण वक्तुं परब्रह्मभूतं भगवन्तं विष्णुं स्वेनैव स्वरूपेणावस्थितम् अविकाराय इति शश्लोकने प्रथमं प्रणम्य तमेव हिरण्यगर्भस्वावतार-शङ्कररूपत्रिमूर्तिप्रधानकालक्षेत्रज्ञसमष्टिव्यष्टिरूपेणावस्थितं च नमस्करोति।
+इति सङ्ग्रहेणोक्तमर्थं परः पराणाम् इत्यारभ्य विस्तरेण वक्तुं परब्रह्मभूतं भगवन्तं विष्णुं स्वेनैव स्वरूपेणावस्थितम् अविकाराय इति श्लोकने प्रथमं प्रणम्य तमेव हिरण्यगर्भस्वावतार-शङ्कररूपत्रिमूर्तिप्रधानकालक्षेत्रज्ञसमष्टिव्यष्टिरूपेणावस्थितं च नमस्करोति।
 </details>
 
+### विष्णु-पुराणे निर्गुणत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र ज्ञान-स्वरूपम् इत्य् अयं श्लोकः क्षेत्रज्ञ-व्यष्ट्यात्मनाऽवस्थितस्य परमात्मनस् स्वभावम् आह। तस्मान् नात्र निर्-विशेष-वस्तु-प्रतीतिः॥
+तत्र "ज्ञान-स्वरूपम्" इत्य् अयं श्लोकः  
+क्षेत्रज्ञ-व्यष्ट्य्-आत्मना ऽवस्थितस्य परमात्मनस्  
+स्वभावम् आह।  
+तस्मान् नात्र निर्विशेष-वस्तु-प्रतीतिः॥
 </details>
 
 <details><summary>English</summary>
@@ -11013,56 +11064,115 @@ Here the śloka, 'Him whose essential nature is knowledge' (I, 2, 6), describes 
 तत्र ज्ञानस्वरूपम् इत्ययं श्लोकः क्षेत्रज्ञव्यष्ट्यात्मनाऽवस्थितस्य परमात्मनस्स्वभावमाह। तस्मान्नात्र निर्विशेषवस्तुप्रतीतिः॥
 </details>
 
-### निर्विशेषज्ञानपरत्वे पश्चात्तनप्रश्नोत्तराननुगुणत्वम्
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि निर्-विशेष-ज्ञान-रूप-ब्रह्माधिष्ठान-भ्रम-प्रतिपादन-परं शास्त्रम्; तर्हि
-निर्-गुणस्याप्रमेयस्य शुद्धस्याप्यमलात्मनः।
-कथं सर्गादि-कर्तृत्वं ब्रह्मणो ऽभ्युपगम्यते॥ इति चोद्यं,
-शक्तयस् सर्व-भगवानामचिन्त्यज्ञानगोचराः।
-यतो ऽतो [[ब्रह्मणतास्तु|ब्रह्मणस्तास्तु]] सर्गाद्या भाव-शक्तयः॥
-भवन्ति तपतां श्रेष्ठ पावकस्य यथोष्णता॥ (वि.पु.१.३.१,२)
-इति परिहारश् च न घटते। तथा हि सति – निर्-गुणस्य ब्रह्मणः कथं सर्गादि-कर्तृत्वम्? न ब्रह्मणः पारमार्थिकस् सर्गः; अपि तु भ्रान्ति-परिकल्पितः – इति चोद्य-परिहारौ स्याताम् ॥
+यदि निर्-विशेष-ज्ञान-रूप-- ब्रह्माधिष्ठान-भ्रम-प्रतिपादन-परं शास्त्रम्; तर्हि
+
+> निर्-गुणस्याप्रमेयस्य  
+शुद्धस्याप्य् अमलात्मनः।  
+कथं **सर्गादि-कर्तृत्वं**  
+ब्रह्मणो **ऽभ्युपगम्यते**॥  
+
+इति चोद्यं,
+
+> शक्तयस् सर्व-भावानाम्  
+अचिन्त्य-ज्ञान-गोचराः।  
+यतो ऽतो ब्रह्मणस् तास् तु  
+सर्गाद्या भाव-शक्तयः॥  
+भवन्ति तपतां श्रेष्ठ  
+पावकस्य यथोष्णता॥ (वि.पु.१.३.१,२)
+
+इति परिहारश् च न घटते। +++(5)+++
 </details>
 
 <details><summary>English</summary>
 
-If the śāstra aimed at teaching that the erroneous conception of a manifold world has for its substrate a Brahman consisting of non-differenced intelligence, there would be room neither for the objection raised in I, 3, I ('How can we attribute agency creative and otherwise to Brahman which is without qualities, unlimited, pure, stainless?') nor for the refutation of that objection, 'Because the powers of all things are the objects of (true) knowledge excluding all (bad) reasoning, therefore there belong to Brahman also such essential powers as the power of creating, preserving, and so on, the world; just as heat essentially belongs to fire [^fn_16].' In that case the objection would rather be made in the following form: 'How can Brahman, which is without qualities, be the agent in the creation, preservation, and so on, of the world?' and the answer would be, 'Creation by Brahman is not something real, but something erroneously imagined.'
+If the śāstra aimed at teaching that the erroneous conception of a manifold world has for its substrate a Brahman consisting of non-differenced intelligence, there would be room neither for the objection raised in I, 3, I ('How can we attribute agency creative and otherwise to Brahman which is without qualities, unlimited, pure, stainless?') nor for the refutation of that objection, 
+
+> 'Because the powers of all things are the objects of (true) knowledge excluding all (bad) reasoning, therefore there belong to Brahman also such essential powers as the power of creating, preserving, and so on, the world; just as heat essentially belongs to fire [fn_16].' 
 </details>
 
 <details><summary>English - Notes</summary>
 
-[^fn_16]: 94:1 The sense in which this sloka has to be taken is 'As in ordinary life we ascribe to certain things (e.g. gems, mantras) certain special powers because otherwise the effects they produce could not be accounted for; so to Brahman also,' &c.
+[fn_16]: 94:1 The sense in which this sloka has to be taken is 'As in ordinary life we ascribe to certain things (e.g. gems, mantras) certain special powers because otherwise the effects they produce could not be accounted for; so to Brahman also,' &c.
 </details>
+
 
 <details><summary>मूलम्</summary>
 
 यदि निर्विशेषज्ञानरूपब्रह्माधिष्ठानभ्रमप्रतिपादनपरं शास्त्रम्; तर्हि
 निर्गुणस्याप्रमेयस्य शुद्धस्याप्यमलात्मनः।
 कथं सर्गादिकर्तृत्वं ब्रह्मणोऽभ्युपगम्यते॥ इति चोद्यं,
-शक्तयस्सर्वभगवानामचिन्त्यज्ञानगोचराः।
+शक्तयस्सर्वभावानामचिन्त्यज्ञानगोचराः।
 यतोऽतो ब्रह्मणतास्तु सर्गाद्या भावशक्तयः॥
 भवन्ति तपतां श्रेष्ठ पावकस्य यथोष्णता॥ (वि.पु.१.३.१,२)
-इति परिहारश्च न घटते। तथा हि सति – निर्गुणस्य ब्रह्मणः कथं सर्गादिकर्तृत्वम्? न ब्रह्मणः पारमार्थिकस्सर्गः; अपि तु भ्रान्तिपरिकल्पितः – इति चोद्यपरिहारौ स्याताम् ॥
+इति परिहारश्च न घटते। 
 </details>
 
-### प्रश्नतदुत्तरयोः नैजः आशयः
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्पत्त्यादि-कार्यं सत्त्वादि-गुण-युक्तापरिपूर्ण-कर्म-वश्येषु दृष्टम् इति सत्त्वादि-गुण-रहितस्य परिपूर्णस्याकर्म-वश्यस्य कर्म-सम्बन्धानर्हास्य कथं सर्गादि-कर्तृत्वम् अभ्युपगम्यत इति चोद्यम्। दृष्ट-सकल-विसजातीयस्य ब्रह्मणो यथोदित-स्वभावस्यैव जलादि-विसजातीयस्याग्न्यादेरौष्ण्यादि-शक्ति-योगवत् सर्व-शक्ति-योगो न विरुध्यत इति परिहारः॥
+तथा हि सति – 
+
+> निर्गुणस्य ब्रह्मणः कथं सर्गादि-कर्तृत्वम्?  
+
+> न ब्रह्मणः पारमार्थिकस् सर्गः;  
+अपि तु भ्रान्ति-परिकल्पितः 
+
+– इति चोद्य-परिहारौ स्याताम् ॥
 </details>
 
 <details><summary>English</summary>
 
-The purport of the objection as it stands in the text is as follows: 'We observe that action creative and otherwise belongs to beings endowed with qualities such as goodness, and so on, not perfect, and subject to the influence of karman; how then can agency creative, and so on, be attributed to Brahman which is devoid of qualities, perfect, not under the influence of karman, and incapable of any connexion with action?' And the reply is, 'There is nothing unreasonable in holding that Brahman as being of the nature described above, and different in kind from all things perceived, should possess manifold powers; just as fire, which is different in kind from water and all other material substances, possesses the quality of heat and other qualities.'
+In that case the objection would rather be made in the following form: 'How can Brahman, which is without qualities, be the agent in the creation, preservation, and so on, of the world?' and the answer would be, 'Creation by Brahman is not something real, but something erroneously imagined.'
 </details>
 
 <details><summary>मूलम्</summary>
 
-उत्पत्त्यादिकार्यं सत्त्वादिगुणयुक्तापरिपूर्णकर्मवश्येषु दृष्टमिति सत्त्वादिगुणरहितस्य परिपूर्णस्याकर्मवश्यस्य कर्मसम्बन्धानर्हास्य कथं सर्गादिकर्तृत्वमभ्युपगम्यते इति चोद्यम्। दृष्टसकलविसजातीयस्य ब्रह्मणो यथोदितस्वभावस्यैव जलादिविसजातीयस्याग्न्यादेरौष्ण्यादि-शक्तियोगवत्सर्वशक्तियोगो न विरुध्यत इति परिहारः॥
+तथा हि सति – निर्गुणस्य ब्रह्मणः कथं सर्गादिकर्तृत्वम्? न ब्रह्मणः पारमार्थिकस्सर्गः; अपि तु भ्रान्तिपरिकल्पितः – इति चोद्यपरिहारौ स्याताम् ॥
 </details>
+
+#### निर्गुणतायां शक्तिमत्ता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उत्पत्त्य्-आदि-कार्यं सत्त्वादि-गुण-युक्तापरिपूर्ण-कर्म-वश्येषु दृष्टम् इति  
+सत्त्वादि-गुण-रहितस्य परिपूर्णस्याकर्म-वश्यस्य कर्म-सम्बन्धानर्हास्य  
+कथं सर्गादि-कर्तृत्वम् अभ्युपगम्यत 
+
+इति चोद्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+The purport of the objection as it stands in the text is as follows: 'We observe that action creative and otherwise belongs to beings endowed with qualities such as goodness, and so on, not perfect, and subject to the influence of karman; how then can agency creative, and so on, be attributed to Brahman which is devoid of qualities, perfect, not under the influence of karman, and incapable of any connexion with action?' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्पत्त्यादिकार्यं सत्त्वादिगुणयुक्तापरिपूर्णकर्मवश्येषु दृष्टमिति सत्त्वादिगुणरहितस्य परिपूर्णस्याकर्मवश्यस्य कर्मसम्बन्धानर्हास्य कथं सर्गादिकर्तृत्वमभ्युपगम्यते इति चोद्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> दृष्ट-सकल-विसजातीयस्य ब्रह्मणो यथोदित-स्वभावस्यैव  
+जलादि-विसजातीयस्य  
+अग्न्य्-आदेर्-औष्ण्यादि-शक्ति-योगवत् सर्व-शक्ति-योगो न विरुध्यत 
+
+इति परिहारः॥
+</details>
+
+<details><summary>English</summary>
+
+And the reply is, 'There is nothing unreasonable in holding that Brahman as being of the nature described above, and different in kind from all things perceived, should possess manifold powers; just as fire, which is different in kind from water and all other material substances, possesses the quality of heat and other qualities.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+दृष्टसकलविसजातीयस्य ब्रह्मणो यथोदितस्वभावस्यैव जलादिविसजातीयस्याग्न्यादेरौष्ण्यादि-शक्तियोगवत्सर्वशक्तियोगो न विरुध्यत इति परिहारः॥
+</details>
+
 
 ### वराहचतुश्श्लोकीव्याख्यानम्
 
