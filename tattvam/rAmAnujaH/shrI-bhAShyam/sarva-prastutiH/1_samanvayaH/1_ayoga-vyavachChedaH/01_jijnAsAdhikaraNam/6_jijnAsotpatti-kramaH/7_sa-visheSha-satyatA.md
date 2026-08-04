@@ -10962,28 +10962,74 @@ In that case there would be room for one question only, viz. 'what is the substr
 तथा हि सति प्रपञ्चभ्रमस्य किमधिष्ठानमित्येवं रूपस्यैकस्य प्रश्नस्य निर्विशेषज्ञानमात्रमित्येवं रूपमेकमेवोत्तरं स्यात् ॥
 </details>
 
-### सामानाधिकरण्यस्यैक्यपरत्वे विरोधः
+#### नैक-द्रव्यता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जगद्-ब्रह्मणोर् एक-द्रव्यत्व-परे च सामानाधिकरण्ये सत्य् अ-सङ्कल्पत्वादिकल्याणगुणैकतानता निखिल-हेय-प्रत्यनीकता च बाध्येत। सर्वाशुभास्पदं च ब्रह्म भवेत्। आत्म-शरीर-भाव एवैदं सामानाधिकरण्यं मुख्य-वृत्तम् इति स्थाप्यते॥ अतो
+जगद्-ब्रह्मणोर् एक-द्रव्यत्व-परे च सामानाधिकरण्ये सत्य्  
+अ-सङ्कल्पत्वादि--कल्याण-गुणैकतानता निखिल-हेय-प्रत्यनीकता च बाध्येत। 
 </details>
 
 <details><summary>English</summary>
 
-And if the co-ordination expressed in the clause 'and the world is he' was meant to set forth the absolute oneness of the world and Brahman, then it could not be held that Brahman possesses all kinds of auspicious qualities, and is opposed to all evil; Brahman would rather become the abode of all that is impure. All this confirms the conclusion that the co-ordination expressed in that clause is to be understood as directly teaching the relation between a Self and its body.--
+And if the co-ordination expressed in the clause 'and the world is he' was meant to set forth the absolute oneness of the world and Brahman, then it could not be held that Brahman possesses all kinds of auspicious qualities, and is opposed to all evil; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जगद्ब्रह्मणोरेकद्रव्यत्वपरे च सामानाधिकरण्ये सत्यसङ्कल्पत्वादिकल्याणगुणैकतानता निखिलहेयप्रत्यनीकता च बाध्येत। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वाशुभास्पदं च ब्रह्म भवेत्। 
+</details>
+
+<details><summary>English</summary>
+
+Brahman would rather become the abode of all that is impure. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-जगद्ब्रह्मणोरेकद्रव्यत्वपरे च सामानाधिकरण्ये सत्यसङ्कल्पत्वादिकल्याणगुणैकतानता निखिलहेयप्रत्यनीकता च बाध्येत। सर्वाशुभास्पदं च ब्रह्म भवेत्। आत्मशरीरभाव एवेदं सामानाधिकरण्यं मुख्यवृत्तमिति स्थाप्यते॥ अतो
+सर्वाशुभास्पदं च ब्रह्म भवेत्। 
+</details>
+
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-शरीर-भाव एवेदं सामानाधिकरण्यं मुख्य-वृत्तम् इति स्थाप्यते॥
+</details>
+
+<details><summary>English</summary>
+
+All this confirms the conclusion that the co-ordination expressed in that clause is to be understood as directly teaching the relation between a Self and its body.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मशरीरभाव एवेदं सामानाधिकरण्यं मुख्यवृत्तमिति स्थाप्यते॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोस् सकाशाद् उद्भूतं जगत् तत्रैव च स्थितम्।
-स्थिति-संयम-कर्ता ऽसौ जगतो ऽस्य जगच् च सः ॥ (वि.पु.१अं.१-अ.३१श्लो.)
-इति सङ्ग्रहेणोक्तम् अर्थं परः पराणाम् इत्य् आरभ्य विस्तरेण वक्तुं पर-ब्रह्म-भूतं भगवन्तं विष्णुं स्वेनैव स्वरूपेणावस्थितम् अविकाराय इति [[शश्लोकने|श्लोकेन]] प्रथमं प्रणम्य तम् एव हिरण्यगर्भ-स्वावतार-शङ्कर-रूप-त्रिमूर्ति-प्रधान-काल-क्षेत्रज्ञ-समष्टि-व्यष्टि-रूपेणावस्थितं च नमस्करोति।
+अतो 
+
+> विष्णोस् सकाशाद् उद्भूतं  
+जगत् तत्रैव च स्थितम्।  
+स्थिति-संयम-कर्ता ऽसौ  
+जगतो ऽस्य जगच् च सः ॥  
+(वि.पु.१अं.१-अ.३१श्लो.)
+
+इति सङ्ग्रहेणोक्तम् अर्थं  
+"परः पराणाम्" इत्य् आरभ्य विस्तरेण वक्तुं  
+पर-ब्रह्म-भूतं भगवन्तं विष्णुं  
+स्वेनैव स्वरूपेणावस्थितम्  
+"अविकाराय" इति श्लोकेन प्रथमं प्रणम्य  
+तम् एव हिरण्यगर्भ-स्वावतार-शङ्कर-रूप-त्रिमूर्ति-प्रधान-काल-क्षेत्रज्ञ-समष्टि-व्यष्टि-रूपेणावस्थितं च नमस्करोति।
 </details>
 
 <details><summary>English</summary>
@@ -10993,9 +11039,9 @@ The śloka, 'From Vishṇu the world has sprung: in him he exists: he is the cau
 
 <details><summary>मूलम्</summary>
 
-विष्णोस्सकाशादुद्भूतं जगत्तत्रैव च स्थितम्।
+अतो विष्णोस्सकाशादुद्भूतं जगत्तत्रैव च स्थितम्।
 स्थितिसंयमकर्ताऽसौ जगतोऽस्य जगच्च सः ॥ (वि.पु.१अं.१-अ.३१श्लो.)
-इति सङ्ग्रहेणोक्तमर्थं परः पराणाम् इत्यारभ्य विस्तरेण वक्तुं परब्रह्मभूतं भगवन्तं विष्णुं स्वेनैव स्वरूपेणावस्थितम् अविकाराय इति शश्लोकने प्रथमं प्रणम्य तमेव हिरण्यगर्भस्वावतार-शङ्कररूपत्रिमूर्तिप्रधानकालक्षेत्रज्ञसमष्टिव्यष्टिरूपेणावस्थितं च नमस्करोति।
+इति सङ्ग्रहेणोक्तमर्थं परः पराणाम् इत्यारभ्य विस्तरेण वक्तुं परब्रह्मभूतं भगवन्तं विष्णुं स्वेनैव स्वरूपेणावस्थितम् अविकाराय इति श्लोकने प्रथमं प्रणम्य तमेव हिरण्यगर्भस्वावतार-शङ्कररूपत्रिमूर्तिप्रधानकालक्षेत्रज्ञसमष्टिव्यष्टिरूपेणावस्थितं च नमस्करोति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
