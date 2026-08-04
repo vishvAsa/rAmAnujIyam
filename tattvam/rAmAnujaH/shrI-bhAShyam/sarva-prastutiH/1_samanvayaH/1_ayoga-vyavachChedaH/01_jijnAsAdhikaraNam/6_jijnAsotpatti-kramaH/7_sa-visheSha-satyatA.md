@@ -10695,11 +10695,28 @@ Hence also the śloka last referred to does not sublate the reality of the world
 अतोऽयमपि श्लोको नार्थस्वरूपस्य बाधकः॥
 </details>
 
-### उपबृंहणविधिनिरूपणं
+### उपबृंहणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि – यतो वा इमानि भूतानि जायन्ते। येन जातानि जीवन्ति। [[यत्प्रयत्न्यभिसंविशन्ति|यत् प्रयन्त्य् अभिसंविशन्ति]]। तद् विजिज्ञासस्व। तद् ब्रह्म (तै.उ.भृगु.१) इति जगद्-जन्मादि-कारणं ब्रह्मेत्य् अवसिते सति, इतिहास-पुराणाभ्यां वेदं समुपबृंहयेत्। बिभेत्य् अल्प-श्रुताद् वेदो माम् अयं प्रतरिष्यति॥ (महाभारतम् – आदि.प.१-२७३) इति शास्त्रेणार्थस्य इतिहास-पुराणाभ्याम् उपबृंहणं कार्यम् इति विज्ञायते।
+तथा हि – 
+
+> यतो वा इमानि भूतानि जायन्ते।  
+येन जातानि जीवन्ति।  
+यत् प्रयन्त्य् अभिसंविशन्ति।  
+तद् विजिज्ञासस्व।  
+तद् ब्रह्म (तै.उ.भृगु.१) 
+
+इति जगद्-जन्मादि-कारणं ब्रह्मेत्य् अवसिते सति,  
+
+> इतिहास-पुराणाभ्यां  
+वेदं समुपबृंहयेत्।  
+बिभेत्य् अल्प-श्रुताद् वेदो  
+माम् अयं प्रतरिष्यति॥  
+(महाभारतम् – आदि.प.१-२७३)  
+
+इति शास्त्रेणार्थस्य इतिहास-पुराणाभ्याम् उपबृंहणं कार्यम्  
+इति विज्ञायते।
 </details>
 
 <details><summary>English</summary>
@@ -10712,28 +10729,63 @@ Hence also the śloka last referred to does not sublate the reality of the world
 तथा हि – यतो वा इमानि भूतानि जायन्ते। येन जातानि जीवन्ति। यत्प्रयत्न्यभिसंविशन्ति। तद्विजिज्ञासस्व। तद्ब्रह्म (तै.उ.भृगु.१) इति जगज्जन्मादिकारणं ब्रह्मेत्यवसिते सति, इतिहासपुराणाभ्यां वेदं समुपबृंहयेत्। बिभेत्यल्पश्रुताद्वेदो मामयं प्रतरिष्यति॥ (महाभारतम् – आदि.प.१-२७३) इति शास्त्रेणार्थस्य इतिहासपुराणाभ्यामुपबृंहणं कार्यमिति विज्ञायते।
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपबृंहणं नाम विदित-सकल-वेद-तदर्थानां स्व-योग-महिम-साक्षात्कृत-वेद-तत्त्वार्थानां वाक्यैस् स्वावगत-वेद-वाक्यार्थ-व्यक्ती-करणम्। सकल-शाखा-गतस्य वाक्यार्थस्याल्प-भाग-श्रवणाद् दुरवगमत्वेन तेन विना निश्चयायोगाद् उपबृंहणं हि कार्यम् एव॥
+उपबृंहणं नाम विदित-सकल-वेद-तद्-अर्थानां  
+स्व-योग-महिम-साक्षात्कृत- वेद-तत्त्वार्थानां वाक्यैस्  
+स्वावगत-वेद-वाक्यार्थ-व्यक्ती-करणम्। 
 </details>
 
 <details><summary>English</summary>
 
-By this 'making to grow' we have to understand the elucidation of the sense of the Vedic texts studied by means of other texts, promulgated by men who had mastered the entire Veda and its contents, and by the strength of their devotion had gained full intuition of Vedic truth. Such 'making to grow' must needs be undertaken, since the purport of the entire Veda with all its Śākhās cannot be fathomed by one who has studied a small part only, and since without knowing that purport we cannot arrive at any certitude.
+By this 'making to grow' we have to understand the elucidation of the sense of the Vedic texts studied by means of other texts, promulgated by men who had mastered the entire Veda and its contents, and by the strength of their devotion had gained full intuition of Vedic truth. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपबृंहणं नाम विदितसकलवेदतदर्थानां स्वयोगमहिमसाक्षात्कृतवेदतत्त्वार्थानां वाक्यैस्स्वावगतवेदवाक्यार्थव्यक्ती-करणम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सकल-शाखा-गतस्य वाक्यार्थस्य  
+अल्प-भाग-श्रवणाद् दुरवगमत्वेन  
+तेन विना निश्चयायोगाद्  
+उपबृंहणं हि कार्यम् एव॥
+</details>
+
+<details><summary>English</summary>
+
+Such 'making to grow' must needs be undertaken, since the purport of the entire Veda with all its Śākhās cannot be fathomed by one who has studied a small part only, and since without knowing that purport we cannot arrive at any certitude.
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपबृंहणं नाम विदितसकलवेदतदर्थानां स्वयोगमहिमसाक्षात्कृतवेदतत्त्वार्थानां वाक्यैस्स्वावगतवेदवाक्यार्थव्यक्ती-करणम्। सकलशाखागतस्य वाक्यार्थस्याल्पभागश्रवणाद्दुरवगमत्वेन तेन विना निश्चयायोगात् उपबृंहणं हि कार्यमेव॥
+सकलशाखागतस्य वाक्यार्थस्याल्पभागश्रवणाद्दुरवगमत्वेन तेन विना निश्चयायोगात् उपबृंहणं हि कार्यमेव॥
 </details>
 
-### विष्णुपुराणप्राशस्त्यं
+### जगच् च सः
 
+#### प्रष्टा, प्रश्नः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र पुलस्त्य-वसिष्ठ-वर-प्रदान-लब्ध-पर-देवता-पारमार्थ्य-ज्ञानवतो भगवतः पराशरात् स्वावगत-वेदार्थोपबृंहणम् इच्छन् मैत्रेयः परिपप्रच्छ –
-सो ऽहम् इच्छामि धर्म-ज्ञ श्रोतुं त्वत्तो यथा जगत्। बभूव भूयश् च यथा महा-भाग भविष्यति॥
-यन्-मयं च जगद् ब्रह्मन् यतश् चैतच् चराचरम्। लीनम् आसीद् यथा यत्र लयम् एष्यति यत्र च॥ (वि.पु.१.१.४,५) इत्य् आदिना॥
+तत्र पुलस्त्य-वसिष्ठ-वर-प्रदान-लब्ध- पर-देवता-पारमार्थ्य-ज्ञानवतो भगवतः पराशरात्  
+स्वावगत-वेदार्थोपबृंहणम् इच्छन्  
+मैत्रेयः परिपप्रच्छ –
+
+> सो ऽहम् इच्छामि धर्म-ज्ञ  
+श्रोतुं त्वत्तो यथा जगत्।  
+**बभूव** भूयश् च यथा  
+महा-भाग **भविष्यति**॥
+यन्मयं च जगद् ब्रह्मन्  
+यतश् चैतच् चराचरम्।  
+**लीनम् आसीद्** यथा यत्र  
+**लयम् एष्यति** यत्र च॥ (वि.पु.१.१.४,५) 
+
+इत्य्-आदिना॥
 </details>
 
 <details><summary>English</summary>
@@ -10750,27 +10802,93 @@ The Vishṇu Purāṇa relates how Maitreya, wishing to have his knowledge of Ve
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र ब्रह्म-स्वरूप-विशेष-तद्-विभूति-भेद-प्रकार-तद्-आराधन-स्वरूप-फल-विशेषाश् च पृष्टाः। ब्रह्म-स्वरूप-विशेष-प्रश्नेषु यतश् चैतच् चराचरम् इति निमित्तोपादानयोः पृष्टत्वाद् यन्-मयम् इत्य् अनेन सृष्टि-स्थिति-लय-कर्म-भूतं जगत् किम्-आत्मकम् इति पृष्टम्। तस्य चोत्तरं जगच् च स इति।
+अत्र ब्रह्म-स्वरूप-विशेष-- तद्-विभूति-भेद-प्रकार-- तद्-आराधन-स्वरूप-- फल-विशेषाश् च पृष्टाः। 
 </details>
 
 <details><summary>English</summary>
 
-The questions asked refer to the essential nature of Brahman, the different modes of the manifestation of its power, and the different results of propitiating it. Among the questions belonging to the first category, the question 'whence proceed animate and inanimate things?' relates to the efficient and the material cause of the world, and hence the clause 'of what the world consists' is to be taken as implying a question as to what constitutes the Self of this world, which is the object of creation, sustentation, and dissolution. The reply to this question is given in the words 'and the world is He.'
+The questions asked refer to the essential nature of Brahman, the different modes of the manifestation of its power, and the different results of propitiating it. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र ब्रह्मस्वरूपविशेषतद्विभूतिभेदप्रकारतदाराधनस्वरूपफलविशेषाश्च पृष्टाः। 
+</details>
+
+#### यन्मयम्?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-स्वरूप-विशेष-प्रश्नेषु  
+"यतश् चैतच् चराचरम्" इति निमित्तोपादानयोः पृष्टत्वाद्  
+"यन्मयम्" इत्य् अनेन  
+
+> सृष्टि-स्थिति-लय-कर्म-भूतं जगत् किम्-आत्मकम् 
+
+इति पृष्टम्।  
+तस्य चोत्तरं "जगच् च स" इति।
+</details>
+
+<details><summary>English</summary>
+
+Among the questions belonging to the first category, the question 'whence proceed animate and inanimate things?' relates to the efficient and the material cause of the world, and hence the clause 'of what the world consists' is to be taken as implying a question as to what constitutes the Self of this world, which is the object of creation, sustentation, and dissolution. The reply to this question is given in the words 'and the world is He.'
 </details>
 
 <details><summary>मूलम्</summary>
 
-अत्र ब्रह्मस्वरूपविशेषतद्विभूतिभेदप्रकारतदाराधनस्वरूपफलविशेषाश्च पृष्टाः। ब्रह्मस्वरूपविशेषप्रश्नेषु यतश्चैतच्चराचरमिति निमित्तोपादानयोः पृष्टत्वात् यन्मयमित्यनेन सृष्टिस्थितिलयकर्मभूतं जगत्किमात्मकमिति पृष्टम्। तस्य चोत्तरं जगच्च स इति।
+ब्रह्मस्वरूपविशेषप्रश्नेषु यतश्चैतच्चराचरमिति निमित्तोपादानयोः पृष्टत्वात् यन्मयमित्यनेन सृष्टिस्थितिलयकर्मभूतं जगत्किमात्मकमिति पृष्टम्। तस्य चोत्तरं जगच्च स इति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदं च तादात्म्यम् अन्तर्यामि-रूपेणाऽत्मतया व्याप्तिकृतम्। न तु व्याप्यव्यापकयोर् वस्त्वैक्यकृतम्। यन्-मयम् इति प्रश्नस्योत्तरत्वाज् जगच् च स इति सामानाधिकरण्यस्य। यन्-मयम् इति मयडत्र न विकारार्थः, पृथक्-प्रश्न-वैयर्थ्यात्। नापि प्राण-मयादिवत् स्वार्थिकः, जगच् च स [[इत्योत्तरानुपपत्तेः|इत्युत्तरानुपपत्तेः]] तदा हि विष्णुर् एव् इत्य् उत्तरम् [[अभिवष्यत्|अभविष्यत्]]। अतः प्राचुर्यार्थ एव। तत्प्रकृतवचने मयट् (अष्टा.५.४.२१) इति मयट्।
+इदं च तादात्म्यम्  
+अन्तर्यामि-रूपेणात्मतया व्याप्ति-कृतम्,  
+न तु व्याप्यव्-यापकयोर् वस्त्व्-ऐक्यकृतम्,   
+यन्मयम् इति प्रश्नस्योत्तरत्वाज्  
+"जगच् च स" इति सामानाधिकरण्यस्य। 
 </details>
 
 <details><summary>English</summary>
 
-Now the identity expressed by this clause is founded thereon that he (i.e. Brahman or Vishṇu) pervades the world as its Self in the character of its inward Ruler; and is not founded on unity of substance of the pervading principle and the world pervaded. The phrase 'consists of' (-maya) does not refer to an effect (so that the question asked would be as to the causal substance of which this world is an effect), for a separate question on this point would be needless. Nor does the – maya express, as it sometimes does-e.g. in the case of praṇa-maya [^fn_15], the own sense of the word to which it is attached; for in that case the form of the reply 'and the world is He' (which implies a distinction between the world and Vishṇu) would be inappropriate; the reply would in that case rather be 'Vishṇu only.' What 'maya' actually denotes here is
+Now the identity expressed by this clause is founded thereon that he (i.e. Brahman or Vishṇu) pervades the world as its Self in the character of its inward Ruler; and is not founded on unity of substance of the pervading principle and the world pervaded. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदं च तादात्म्यमन्तर्यामिरूपेणाऽत्मतया व्याप्तिकृतम्। न तु व्याप्यव्यापकयोर्वस्त्वैक्यकृतम्, यन्मयमिति प्रश्नस्योत्तरत्वाज्जगच्च स इति सामानाधिकरण्यस्य।  
+</details>
+
+##### न विकारार्थे मयट्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यन्मयम् इति मयड्  
+अत्र न विकारार्थः,  
+पृथक्-प्रश्न-वैयर्थ्यात्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The phrase 'consists of' (-maya) does not refer to an effect (so that the question asked would be as to the causal substance of which this world is an effect), for a separate question on this point would be needless. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यन्मयमिति मयडत्र न विकारार्थः, पृथक्प्रश्नवैयर्थ्यात्। 
+</details>
+
+##### न स्वार्थे मयट्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि प्राणमयादिवत् +++(मयट्)+++ स्वार्थिकः,  
+"जगच् च स" इत्य्-उत्तरानुपपत्तेः -  
+तदा हि "विष्णुर् एव" इत्य् उत्तरम् अभविष्यत्।  
+</details>
+
+<details><summary>English</summary>
+
+Nor does the – maya express, as it sometimes does-e.g. in the case of praṇa-maya [^fn_15], the own sense of the word to which it is attached; for in that case the form of the reply 'and the world is He' (which implies a distinction between the world and Vishṇu) would be inappropriate; the reply would in that case rather be 'Vishṇu only.' 
 </details>
 
 <details><summary>English - Notes</summary>
@@ -10780,37 +10898,68 @@ Now the identity expressed by this clause is founded thereon that he (i.e. Brahm
 
 <details><summary>मूलम्</summary>
 
-इदं च तादात्म्यमन्तर्यामिरूपेणाऽत्मतया व्याप्तिकृतम्। न तु व्याप्यव्यापकयोर्वस्त्वैक्यकृतम्। यन्मयमिति प्रश्नस्योत्तरत्वाज्जगच्च स इति सामानाधिकरण्यस्य। यन्मयमिति मयडत्र न विकारार्थः, पृथक्प्रश्नवैयर्थ्यात्। नापि प्राणमयादिवत्स्वार्थिकः, जगच्च स इत्योत्तरानुपपत्तेः तदा हि विष्णुरेवेत्युत्तरमभिवष्यत्। अतः प्राचुर्यार्थ एव। तत्प्रकृतवचने मयट् (अष्टा.५.४.२१) इति मयट्।
+नापि प्राणमयादिवत्स्वार्थिकः, जगच्च स इत्योत्तरानुपपत्तेः तदा हि विष्णुरेवेत्युत्तरमभिवष्यत्। 
 </details>
 
+##### प्राचुर्यार्थे मयट्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृत्स्नं च जगत् तच्-शरीरतया तत्-प्रचुरम् एव। तस्माद् यन्-मयम् इत्यस्य प्रतिवचनं जगच् च स इति सामानाधिकरण्यं जगद्-ब्रह्मणोश् शरीरात्मभाव-निबन्धनम् इति निश्चीयते।
+अतः प्राचुर्यार्थ एव।  
+"तत्-प्रकृत-वचने मयट्" (अष्टा.५.४.२१) इति मयट्।
+कृत्स्नं च जगत् तच्-शरीरतया तत्-प्रचुरम् एव।  
+तस्माद् यन्मयम् इत्यस्य प्रतिवचनं  
+"जगच् च स" इति सामानाधिकरण्यं  
+जगद्-ब्रह्मणोश् शरीरात्मभाव-निबन्धनम्  
+इति निश्चीयते।
 </details>
 
 <details><summary>English</summary>
 
-abundance, prevailingness, in agreement with Pāṇini, V, 4, 21, and the meaning is that Brahman prevails in the world in so far as the entire world constitutes its body. The co-ordination of the two words 'the world' and 'He' thus rests on that relation between the two, owing to which the world is the body of Brahman, and Brahman the Self of the world.
+What 'maya' actually denotes here is abundance, prevailingness, in agreement with Pāṇini, V, 4, 21, and the meaning is that Brahman prevails in the world in so far as the entire world constitutes its body. The co-ordination of the two words 'the world' and 'He' thus rests on that relation between the two, owing to which the world is the body of Brahman, and Brahman the Self of the world.
 </details>
 
 <details><summary>मूलम्</summary>
 
-कृत्स्नं च जगत्तच्छरीरतया तत्प्रचुरमेव। तस्माद्यन्मयमित्यस्य प्रतिवचनं जगच्च स इति सामानाधिकरण्यं जगद्ब्रह्मणोश्शरीरात्मभावनिबन्धनमिति निश्चीयते।
+अतः प्राचुर्यार्थ एव। तत्प्रकृतवचने मयट् (अष्टा.५.४.२१) इति मयट्। कृत्स्नं च जगत्तच्छरीरतया तत्प्रचुरमेव। तस्माद्यन्मयमित्यस्य प्रतिवचनं जगच्च स इति सामानाधिकरण्यं जगद्ब्रह्मणोश्शरीरात्मभावनिबन्धनमिति निश्चीयते।
 </details>
 
+#### न निर्विशेषं वस्तु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्यथा निर्-विशेष-वस्तु-प्रतिपादन-परे शास्त्रे ऽभ्युपगम्यमाने सर्वाण्य् एतानि प्रश्न-प्रतिवचनानि न सङ्गच्छन्ते। तद्-विवरण-रूपं कृत्स्नं च शास्त्रं न सङ्गच्छते। तथा हि सति प्रपञ्च-भ्रमस्य किम् अधिष्ठानम् इत्य् एवं रूपस्यैकस्य प्रश्नस्य निर्-विशेष-ज्ञान-मात्रम् इत्य् एवं रूपम् एकम् एवोत्तरं स्यात् ॥
+अन्यथा निर्-विशेष-वस्तु-प्रतिपादन-परे शास्त्रे ऽभ्युपगम्यमाने  
+सर्वाण्य् एतानि प्रश्न-प्रतिवचनानि न सङ्गच्छन्ते। तद्-विवरण-रूपं कृत्स्नं च शास्त्रं न सङ्गच्छते। 
 </details>
 
 <details><summary>English</summary>
 
-If, on the other hand, we maintained that the śāstra aims only at inculcating the doctrine of one substance free from all difference, there would be no sense in all those questions and answers, and no sense in an entire śāstra devoted to the explanation of that one thing. In that case there would be room for one question only, viz. 'what is the substrate of the erroneous imagination of a world?' and for one answer to this question, viz. 'pure consciousness devoid of all distinction!'--
+If, on the other hand, we maintained that the śāstra aims only at inculcating the doctrine of one substance free from all difference, there would be no sense in all those questions and answers, and no sense in an entire śāstra devoted to the explanation of that one thing. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यथा निर्विशेषवस्तुप्रतिपादनपरे शास्त्रेऽभ्युपगम्यमाने सर्वाण्येतानि प्रश्नप्रतिवचनानि न सङ्गच्छन्ते। तद्विवरणरूपं कृत्स्नं च शास्त्रं न सङ्गच्छते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि सति 
+
+> प्रपञ्च-भ्रमस्य किम् अधिष्ठानम् 
+
+इत्य्-एवं-रूपस्यैकस्य प्रश्नस्य  
+"निर्-विशेष-ज्ञान-मात्रम्" इत्य् एवं रूपम् एकम् एवोत्तरं स्यात् ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+In that case there would be room for one question only, viz. 'what is the substrate of the erroneous imagination of a world?' and for one answer to this question, viz. 'pure consciousness devoid of all distinction!'--
 </details>
 
 <details><summary>मूलम्</summary>
 
-अन्यथा निर्विशेषवस्तुप्रतिपादनपरे शास्त्रेऽभ्युपगम्यमाने सर्वाण्येतानि प्रश्नप्रतिवचनानि न सङ्गच्छन्ते। तद्विवरणरूपं कृत्स्नं च शास्त्रं न सङ्गच्छते। तथा हि सति प्रपञ्चभ्रमस्य किमधिष्ठानमित्येवं रूपस्यैकस्य प्रश्नस्य निर्विशेषज्ञानमात्रमित्येवं रूपमेकमेवोत्तरं स्यात् ॥
+तथा हि सति प्रपञ्चभ्रमस्य किमधिष्ठानमित्येवं रूपस्यैकस्य प्रश्नस्य निर्विशेषज्ञानमात्रमित्येवं रूपमेकमेवोत्तरं स्यात् ॥
 </details>
 
 ### सामानाधिकरण्यस्यैक्यपरत्वे विरोधः
