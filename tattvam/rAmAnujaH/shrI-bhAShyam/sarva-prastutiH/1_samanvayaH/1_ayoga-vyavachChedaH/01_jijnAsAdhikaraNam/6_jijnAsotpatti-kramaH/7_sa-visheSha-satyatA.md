@@ -11174,26 +11174,144 @@ And the reply is, 'There is nothing unreasonable in holding that Brahman as bein
 </details>
 
 
-### वराहचतुश्श्लोकीव्याख्यानम्
+### परमार्थस् त्वम् एवैकः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परमार्थस् त्वम् एवैकः (वि.पु.१-४-३८) इत्य् आदि अपि न कृत्स्नस्यापारमार्थ्यं वदति। अपि तु कृत्स्नस्य तदात्मकतया तद्व्यतिरेकेणावस्थितस्यापारमार्थ्यम्। तद् एवोपपादयति – तवैष महिमा येन व्याप्तम् एतच् चराचरम् (वि.पु.१अं.४अ.३८.श्लो) इति। येन त्वयेदं चराचरं व्याप्तम्; अतस् त्वदात्मकम् एवैदं सर्वम् इति त्वदन्यः को ऽपि नास्ति। अतस् सर्वात्मतया त्वम् एवैकः परमार्थः। अत इदम् उच्यते तवैष महिमा, या सर्व-व्याप्तिः – इति। अन्यथा तवैषा भ्रान्तिर् इति वक्तव्यम्। जगतः पते त्वम् इत्य् आदीनां पदानां लक्षणा च स्यात्। लीलया महीम् उद्धरतो भगवतो महा-वराहस्य स्तुति-प्रकरण-विरोधश् च॥
+> परमार्थस् त्वम् एवैकः +++(सर्व-विशिष्टः)+++ (वि.पु.१-४-३८) 
+
+इत्य्-आद्य् अपि  
+न कृत्स्नस्यापारमार्थ्यं वदति,  
+अपि तु कृत्स्नस्य तद्-आत्मकतया  
+तद्-व्यतिरेकेणावस्थितस्यापारमार्थ्यम्। 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अथवा, "सर्व-धारकत्वात् अर्थेषु परमस् त्वम् ईश्वर" इत्य् अर्थे गृहीते ऽपि,  
+न ह्य् अर्थान्तर-मिथ्यात्वं किमप्य् उक्तम्। 
+</details>
+
 
 <details><summary>English</summary>
 
-The ślokas also, which begin with the words 'Thou alone art real' (Vi. Pu. I, 4, 38 ff.), do not assert that the whole world is unreal, but only that, as Brahman is the Self of the world, the latter viewed apart from Brahman is not real. This the text proceeds to confirm, 'thy greatness it is by which all movable and immovable things are pervaded.' This means – because all things movable and immovable are pervaded by thee, therefore all this world has thee for its Self, and hence 'there is none other than thee' and thus thou being the Self of all art alone real. Such being the doctrine intended to be set forth, the text rightly says, 'this all-pervasiveness of thine is thy greatness'; otherwise it would have to say, 'it is thy error.' Were this latter view intended, words such as 'Lord of the world,' 'thou,' &c., could not, moreover, be taken in their direct sense, and there would arise a contradiction with the subject-matter of the entire chapter, viz. the praise of the Holy one who in the form of a mighty boar had uplifted in play the entire earth.--
+The ślokas also, which begin with the words 
+
+> 'Thou alone art real' (Vi. Pu. I, 4, 38 ff.), 
+
+do not assert that the whole world is unreal, but only that, as Brahman is the Self of the world,  
+the latter viewed apart from Brahman is not real. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-परमार्थस्त्वमेवैकः (वि.पु.1-4-38) इत्याद्यपि न कृत्स्नस्यापारमार्थ्यं वदति। अपि तु कृत्स्नस्य तदात्मकतया तद्व्यतिरेकेणावस्थितस्यापारमार्थ्यम्। तदेवोपपादयति – तवैष महिमा येन व्याप्तमेतच्चराचरम् (वि.पु.१अं.४अ.३८.श्लो) इति। येन त्वयेदं चराचरं व्याप्तम्; अतस्त्वदात्मकमेवेदं सर्वमिति त्वदन्यः कोऽपि नास्ति। अतस्सर्वात्मतया त्वमेवैकः परमार्थः। अत इदमुच्यते तवैष महिमा, या सर्वव्याप्तिः – इति। अन्यथा तवैषा भ्रान्तिरिति वक्तव्यम्। जगतः पते त्वमित्यादीनां पदानां लक्षणा च स्यात्। लीलया महीमुद्धरतो भगवतो महावराहस्य स्तुतिप्रकरणविरोधश्च॥
+परमार्थस्त्वमेवैकः (वि.पु.1-4-38) इत्याद्यपि न कृत्स्नस्यापारमार्थ्यं वदति। अपि तु कृत्स्नस्य तदात्मकतया तद्व्यतिरेकेणावस्थितस्यापारमार्थ्यम्। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यतः कृत्स्नं जगत् ज्ञानात्मना त्वयाऽऽत्मतया व्याप्तत्वेन तव मूर्तम्। तस्मात् त्वदात्मकत्वानुभव-साधन-योग-विरहिण एतत् केवल-देव-मनुष्यादि-रूपम् इति भ्रान्ति-ज्ञानेन पश्यन्तीत्याह यदेतद्दृश्यते इति॥
+तद् एवोपपादयति – 
+
+> तवैष महिमा येन  
+व्याप्तम् एतच् चराचरम्  
+(वि.पु.१अं.४अ.३८.श्लो) 
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+This the text proceeds to confirm, 
+
+> 'thy greatness it is  
+by which all movable and immovable things are pervaded.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदेवोपपादयति – तवैष महिमा येन व्याप्तमेतच्चराचरम् (वि.पु.१अं.४अ.३८.श्लो) इति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> येन त्वयेदं चराचरं व्याप्तम्;  
+अतस् त्वद्-आत्मकम् एवेदं सर्वम् इति  
+त्वद्-अन्यः को ऽपि नास्ति।  
+अतस् सर्वात्मतया त्वम् एवैकः परमार्थः। 
+</details>
+
+<details><summary>English</summary>
+
+This means – because all things movable and immovable are pervaded by thee, therefore all this world has thee for its Self, and hence 'there is none other than thee' and thus thou being the Self of all art alone real. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+येन त्वयेदं चराचरं व्याप्तम्; अतस्त्वदात्मकमेवेदं सर्वमिति त्वदन्यः कोऽपि नास्ति। अतस्सर्वात्मतया त्वमेवैकः परमार्थः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अत इदम् उच्यते -  
+"तवैष महिमा, या सर्व-व्याप्तिर्" इति। 
+</details>
+
+<details><summary>English</summary>
+
+Such being the doctrine intended to be set forth, the text rightly says, 'this all-pervasiveness of thine is thy greatness'; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत इदमुच्यते तवैष महिमा, या सर्वव्याप्तिः – इति। 
+</details>
+
+#### निर्विशेषे ब्रह्मण्य् असङ्गतिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यथा तवैषा भ्रान्तिर् इति वक्तव्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+otherwise it would have to say, 'it is thy error.' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यथा तवैषा भ्रान्तिर् इति वक्तव्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"जगतः पते", "त्वम्" इत्य् आदीनां पदानां लक्षणा च स्यात्,  
+लीलया महीम् उद्धरतो भगवतो महा-वराहस्य स्तुति-प्रकरण-विरोधश् च॥
+</details>
+
+<details><summary>English</summary>
+
+Were this latter view intended, words such as 'Lord of the world,' 'thou,' &c., could not, moreover, be taken in their direct sense, and there would arise a contradiction with the subject-matter of the entire chapter, viz. the praise of the Holy one who in the form of a mighty boar had uplifted in play the entire earth.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यथा तवैषा भ्रान्तिरिति वक्तव्यम्। जगतः पते त्वमित्यादीनां पदानां लक्षणा च स्यात्। लीलया महीमुद्धरतो भगवतो महावराहस्य स्तुतिप्रकरणविरोधश्च॥
+</details>
+
+### यद् एतद् दृश्यते
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतः कृत्स्नं जगत्  
+ज्ञानात्मना त्वया ऽऽत्मतया व्याप्तत्वेन  
+तव मूर्तम्,  
+तस्मात् त्वद्-आत्मकत्वानुभव-साधन- योग-विरहिण  
+"एतत् केवल-देव-मनुष्यादि-रूपम्"  
+इति भ्रान्ति-ज्ञानेन पश्यन्तीत्याह -  
+"यद् एतद् दृश्यते" इति॥
 </details>
 
 <details><summary>English</summary>
@@ -11206,9 +11324,14 @@ Because this entire world is thy form in so far as it is pervaded as its Self by
 यतः कृत्स्नं जगत् ज्ञानात्मना त्वयाऽऽत्मतया व्याप्तत्वेन तव मूर्तम्। तस्मात्त्वदात्मकत्वानुभवसाधन-योगविरहिण एतत्केवलदेवमनुष्यादिरूपमिति भ्रान्तिज्ञानेन पश्यन्तीत्याह यदेतद्दृश्यते इति॥
 </details>
 
+### ज्ञान-स्वरूपम् अखिलम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न केवलं वस्तुतस् त्वदात्मकं जगद् देव-मनुष्याद्यात्मकम् इति दर्शनम् एव भ्रमः; ज्ञानाकाराणाम् आत्मनां देव-मनुष्याद्यर्थाकारत्व-दर्शनम् अपि भ्रम इत्य् आह ज्ञान-स्वरूपम् अखिलम् इति॥
+न केवलं वस्तुतस् त्वद्-आत्मकं जगद्  
+"देव-मनुष्याद्य्-आत्मकम्" इति दर्शनम् एव भ्रमः;  
+ज्ञानाकाराणाम् आत्मनां  
+देव-मनुष्याद्य्-अर्थाकारत्व-दर्शनम् अपि भ्रम  
+इत्य् आह "ज्ञान-स्वरूपम् अखिलम्" इति॥
 </details>
 
 <details><summary>English</summary>
@@ -11221,105 +11344,444 @@ And it is an error not only to view the world which has its real Self in thee as
 न केवलं वस्तुतस्त्वदात्मकं जगद्देवमनुष्याद्यात्मकमिति दर्शनमेव भ्रमः; ज्ञानाकाराणामात्मनां देवमनुष्याद्यर्थाकारत्वदर्शनमपि भ्रम इत्याह ज्ञानस्वरूपमखिलम् इति॥
 </details>
 
+### ये तु ज्ञान-विदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये पुनर् बुद्धिमन्तो ज्ञान-स्वरूपात्मविद्स् सर्वस्य भगवदात्मकत्वानुभव-साधन-योग-योग्य-परिशुद्ध-मनसश् च ते देव-मनुष्यादि-प्रकृति-परिणाम-विशेष-शरीर-रूपम् इदम् अखिलं जगच् छरीरातिरिक्त-ज्ञान-स्वरूपात्मकं त्वच्-शरीरं च पश्यन्तीत्याह ये तु ज्ञान-विदः इति। अन्यथा श्लोकानां पौनरुक्त्यम्, पदानां लक्षणा, अर्थ-विरोधः, प्रकरण-विरोधः, शास्त्र-तात्पर्य-विरोधश् च॥
+ये पुनर् बुद्धिमन्तो ज्ञान-स्वरूपात्म-विद्स्  
+सर्वस्य भगवद्-आत्मकत्वानुभव-साधन-- योग-योग्य-परिशुद्ध-मनसश् च  
+
+ते, देव-मनुष्यादि-- प्रकृति-परिणाम-विशेष-शरीर-रूपम् इदम् अखिलं जगच्  
+छरीरातिरिक्त-ज्ञान-स्वरूपात्मकं त्वच्-छरीरं च पश्यन्तीत्याह "ये तु ज्ञान-विदः" इति। 
 </details>
 
 <details><summary>English</summary>
 
-Those wise men, on the other hand, who have an insight into the essentially intelligent Self, and whose minds are cleared by devotion – the means of apprehending the Holy one as the universal Self--, they view this entire world with all its manifold bodies – the effects of primeval matter – as thy body – a body the Self of which is constituted by knowledge abiding apart from its world-body; this is the meaning of the following śloka: 'But those who possess knowledge,' &c.--If the different ślokas were not interpreted in this way, they would be mere unmeaning reiterations; their constitutive words could not be taken in their primary sense; and we should come into conflict with the sense of the passages, the subject-matter of the chapter, and the purport of the entire śāstra.
+Those wise men, on the other hand, who have an insight into the essentially intelligent Self, and whose minds are cleared by devotion – the means of apprehending the Holy one as the universal Self--,  
+they view this entire world with all its manifold bodies –  
+the effects of primeval matter – as thy body –  
+a body  
+the Self of which is constituted by knowledge abiding apart from its world-body;  
+this is the meaning of the following śloka: 'But those who possess knowledge,' &c.--
 </details>
+
 
 <details><summary>मूलम्</summary>
 
-ये पुनर्बुद्धिमन्तो ज्ञानस्वरूपात्मविदस्सर्वस्य भगवदात्मकत्वानुभवसाधनयोगयोग्य-परिशुद्धमनसश्च ते देवमनुष्यादिप्रकृतिपरिणामविशेषशरीररूपमिदमखिलं जगच्छरीरातिरिक्त-ज्ञानस्वरूपात्मकं त्वच्छरीरं च पश्यन्तीत्याह ये तु ज्ञानविदः इति। अन्यथा श्लोकानां पौनरुक्त्यम्, पदानां लक्षणा, अर्थविरोधः, प्रकरणविरोधः, शास्त्रतात्पर्यविरोधश्च॥
+ये पुनर् बुद्धिमन्तो ज्ञान-स्वरूपात्मविद्स् सर्वस्य भगवदात्मकत्वानुभव-साधन-योग-योग्य-परिशुद्ध-मनसश् च ते देव-मनुष्यादि-प्रकृति-परिणाम-विशेष-शरीर-रूपम् इदम् अखिलं जगच् छरीरातिरिक्त-ज्ञान-स्वरूपात्मकं त्वच्-शरीरं च पश्यन्तीत्याह ये तु ज्ञान-विदः इति। 
 </details>
 
-### प्रकार्यद्वैतप्रकाराद्वैतविवेकः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यात्मपरदेहेषु सतो ऽप्येकमयम् (वि.पु.२-१४-३१) इत्य् अत्र सर्वेष्व् आत्मसु ज्ञानैकाकारतया समानेषु सत्सु देव-मनुष्यादि-प्रकृति-परिणाम-विशेष-रूप-पिण्ड-संसर्ग-कृतम् आत्मसु देवाद्याकारेण द्वैत-दर्शनम् अतथ्यम् इत्य् उच्यते। पिण्ड-गतम् आत्म-गतम् अपि द्वैतं न प्रतिषिध्यते। देव-मनुष्यादि-विविध-विचित्र-पिण्डेषु वर्तमानं सर्वम् आत्म-वस्तु समम् इत्य् अर्थः। यथोक्तं भगवता शुनि चैव श्वपाके च पण्डितास् सम-दर्शिनः (भ.गी.५.१८) निर्-दोषं हि समं ब्रह्म (भ.गी.५.१९) इत्यादिषु । तस्यात्मपरदेहेषु सतो ऽपि इति देहातिरिक्ते वस्तुनि स्व-पर-विभागस्योक्तत्वात् ॥
+अन्यथा श्लोकानां पौनरुक्त्यम्, पदानां लक्षणा, अर्थ-विरोधः, प्रकरण-विरोधः, शास्त्र-तात्पर्य-विरोधश् च॥
 </details>
 
 <details><summary>English</summary>
 
-The passage, further, 'Of that Self although it exists in one's own and in other bodies, the knowledge is of one kind' (Vi. Pu. II, 14, 31 ff.), refers to that view of duality according to which the different Selfs – although equal in so far as they are all of the essence of knowledge – are constituted into separate beings, gods, men, &c., by their connexion with different portions of matter all of which are modifications of primary matter, and declares that view to be false. But this does not imply a denial of the duality which holds good between matter on the one hand and Self on the other: what the passage means is that the Self which dwells in the different material bodies of gods, men, and so on, is of one and the same kind. So the Holy one himself has said, 'In the dog and the low man eating dog's flesh the wise see the same'; 'Brahman, without any imperfection, is the same' (Bha. Gī. V, 18, 19). And, moreover, the clause 'Of the Self although existing in one's own and in other bodies' directly declares that a thing different from the body is distributed among one's own and other bodies.
+If the different ślokas were not interpreted in this way, they would be mere unmeaning reiterations; their constitutive words could not be taken in their primary sense; and we should come into conflict with the sense of the passages, the subject-matter of the chapter, and the purport of the entire śāstra.
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्यात्मपरदेहेषु सतोऽप्येकमयम् (वि.पु.2-14-31) इत्यत्र सर्वेष्वात्मसु ज्ञानैकाकारतया समानेषु सत्सु देवमनुष्यादिप्रकृतिपरिणामविशेषरूपपिण्डसंसर्गकृतमात्मसु देवाद्याकारेण द्वैतदर्शनमतथ्यमित्युच्यते। पिण्डगतमात्मगतमपि द्वैतं न प्रतिषिध्यते। देवमनुष्यादि-विविधविचित्रपिण्डेषु वर्तमानं सर्वमात्मवस्तु सममित्यर्थः। यथोक्तं भगवता शुनि चैव श्वपाके च पण्डितास्समदर्शिनः (भ.गी.५.१८) निर्दोषं हि समं ब्रह्म (भ.गी.५.१९) इत्यादिषु । तस्यात्मपरदेहेषु सतोऽपि इति देहातिरिक्ते वस्तुनि स्वपरविभागस्योक्तत्वात् ॥
+अन्यथा श्लोकानां पौनरुक्त्यम्, पदानां लक्षणा, अर्थविरोधः, प्रकरणविरोधः, शास्त्रतात्पर्यविरोधश्च॥
 </details>
+
+### सतो ऽप्य् एकमयम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्य् अन्यो ऽस्ति परः को ऽपि इत्य् अत्रापि नात्मैक्यं प्रतीयते; यदि मत्तः परः को ऽप्य् अन्य इत्य् एकस्मिन्न् अर्थे पर-शब्दान्य-शब्दयोः प्रयोगायोगात् तत्र पर-शब्दस् स्व-व्यतिरिक्तात्म-वचनः। अन्य-शब्दस् तस्यापि ज्ञानैकाकारत्वाद् अन्याकारत्व-प्रतिषेधार्थः। एतद् उक्तं भवति – यदि मद्व्यतिरिक्तः को ऽप्यात्मा मदाकार-भूत-ज्ञानाकाराद् अन्याकारो ऽस्ति, तदा ऽहम् एवम्-आकारः; अयञ् चान्यादृशाकार इति शक्यते व्यपदेष्टुम्; न चैवम् अस्ति; सर्वेषां ज्ञानैकाकारत्वेन समानत्वाद् एवेति॥
+> तस्यात्म-पर-देहेषु  
+सतो ऽप्य् एकमयम्  
+(वि.पु.२-१४-३१) 
+
+इत्य्-अत्र 
+सर्वेष्व् आत्मसु  
+ज्ञानैकाकारतया समानेषु सत्सु  
+देव-मनुष्यादि-- प्रकृति-परिणाम-विशेष-रूप- पिण्ड-संसर्ग-कृतम्   
+आत्मसु देवाद्य्-आकारेण +++(आकृति-)+++द्वैत-दर्शनम्  
+अ-तथ्यम् इत्य् उच्यते। 
 </details>
 
 <details><summary>English</summary>
 
-Nor does the passage 'If there is some other (para) different(anya)from me,' &c. (Vi. Pu. II, 13, 86) intimate the oneness of the Self; for in that case the two words 'para' and 'anya' would express one meaning only (viz. 'other' in the sense of 'distinct from'). The word 'para' there denotes a Self distinct from that of one's own Self, and the word 'anya' is introduced to negative a character different from that of pure intelligence: the sense of the passage thus is 'If there is some Self distinct from mine, and of a character different from mine which is pure knowledge, then it can be said that I am of such a character and he of a different character'; but this is not the case, because all Selfs are equal in as far as their nature consists of pure knowledge.--
+The passage, further, 'Of that Self although it exists in one's own and in other bodies, the knowledge is of one kind' (Vi. Pu. II, 14, 31 ff.), refers to that view of duality according to which the different Selfs – although equal in so far as they are all of the essence of knowledge – are constituted into separate beings, gods, men, &c., by their connexion with different portions of matter all of which are modifications of primary matter, and declares that view to be false. 
 </details>
+
 
 <details><summary>मूलम्</summary>
 
-यद्यन्योऽस्ति परः कोऽपि इत्यत्रापि नात्मैक्यं प्रतीयते; यदि मत्तः परः कोऽप्यन्य इत्येकस्मिन्नर्थे परशब्दान्यशब्दयोः प्रयोगायोगात् तत्र परशब्दस्स्वव्यतिरिक्तात्मवचनः। अन्यशब्दस्तस्यापि ज्ञानैकाकारत्वादन्याकारत्वप्रतिषेधार्थः। एतदुक्तं भवति – यदि मद्व्यतिरिक्तः कोऽप्यात्मा मदाकारभूतज्ञानाकारादन्याकारोऽस्ति, तदाऽहमेवमाकारः; अयञ्चान्यादृशाकार इति शक्यते व्यपदेष्टुम्; न चैवमस्ति; सर्वेषां ज्ञानैकाकारत्वेन समानत्वादेवेति॥
+तस्यात्मपरदेहेषु सतोऽप्येकमयम् (वि.पु.2-14-31) इत्यत्र सर्वेष्वात्मसु ज्ञानैकाकारतया समानेषु सत्सु देवमनुष्यादिप्रकृतिपरिणामविशेषरूपपिण्डसंसर्गकृतमात्मसु देवाद्याकारेण द्वैतदर्शनमतथ्यमित्युच्यते। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वेणु-रन्ध्र-विभेदेन इत्य् अत्राप्याकार-वैषम्यम् आत्मनां न स्वरूप-कृतम्। अपि तु देवादि-पिण्ड-प्रवेश-कृतम् इत्य् उपदिश्यते; नात्मैक्यम्। दृष्टान्ते चानेकरन्ध्रवर्तिनां वाय्व्-अंशानां न स्वरूपैक्यम्; अपित्वाकार-साम्यम् एव। तेषां वायुत्वेनैकाकाराणां रन्ध्र-भेद-निष्क्रमण-कृतो हि षड्जादि-सञ्ज्ञा-भेदः। एवम् आत्मनां देवादिसञ्ज्ञाभेदः यथा तैजसाप्यपार्थिवद्रव्यांशभूतानां पदार्थानां तद्-तद्-द्रव्यत्वेनैक्यम् एव; न स्वरूपैक्यम्। तथा वायवीयानाम् अंशानाम् अपि स्वरूप-भेदो ऽवर्जनीयः॥
+पिण्ड-गतम् आत्म-गतम् अपि द्वैतं न प्रतिषिध्यते +++("स्व-पर-देहेष्व्" इति प्रयुक्तत्वात्)+++। 
 </details>
 
 <details><summary>English</summary>
 
-Also the śloka beginning 'Owing to the difference of the holes of the flute' (Vi. Pu. II, 14, 32) only declares that the inequality of the different Selfs is owing not to their essential nature, but to their dwelling in different material bodies; and does not teach the oneness of all Selfs. The different portions of air, again, passing through the different holes of the flute – to which the many Selfs are compared – are not said to be one but only to be equal in character; they are one in character in so far as all of them are of the nature of air, while the different names of the successive notes of the musical scale are applied to them because they pass out by the different holes of the instrument. For an analogous reason the several Selfs are denominated by different names, viz. gods and so on. Those material things also which are parts of the substance fire, or water, or earth, are one in so far only as they consist of one kind of substance; but are not absolutely one; those different portions of air, therefore, which constitute the notes of the scale are likewise not absolutely one.
+But this does not imply a denial of the duality which holds good between matter on the one hand and Self on the other: 
 </details>
+
 
 <details><summary>मूलम्</summary>
 
-वेणुरन्ध्रविभेदेन इत्यत्राप्याकारवैषम्यमात्मनां न स्वरूपकृतम्। अपि तु देवादिपिण्डप्रवेशकृतम् इत्युपदिश्यते; नात्मैक्यम्। दृष्टान्ते चानेकरन्ध्रवर्तिनां वाय्वंशानां न स्वरूपैक्यम्; अपित्वाकारसाम्यमेव। तेषां वायुत्वेनैकाकाराणां रन्ध्रभेदनिष्क्रमणकृतो हि षड्जादिसञ्ज्ञाभेदः। एवमात्मनां देवादिसञ्ज्ञाभेदः यथा तैजसाप्यपार्थिवद्रव्यांशभूतानां पदार्थानां तत्तद्द्रव्यत्वेनैक्यमेव; न स्वरूपैक्यम्। तथा वायवीयानामंशानामपि स्वरूपभेदोऽवर्जनीयः॥
+पिण्डगतमात्मगतमपि द्वैतं न प्रतिषिध्यते। 
 </details>
 
-### आदिभरतनिगमनश्लोकार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो ऽहं स च त्वम् इति सर्वात्मनां पूर्वोक्तं ज्ञानाकारत्वं तच्-शब्देन परामृश्य तत्-सामानाधिकरण्येनाहं त्वम् इत्य् आदीनाम् अर्थानां ज्ञानम् एवाऽकार इत्य् उपसंहरन् देवाद्याकार-भेदेनाऽत्मसु भेद-मोहं परित्यजेत्याह। अन्यथा [[देहातिररिक्तात्मोपदेश्यस्वरूपे|देहातिरिक्तात्मोपदेश्यस्वरूपे]] अहं त्वं सर्वम् एतद् आत्म-स्वरूपम् इति भेद-निर्देशो न घटते। अहं त्वम् आदि-शब्दानाम् उपलक्ष्येण सर्वम् एतद् आत्म-स्वरूपम् इत्य् अनेन सामानाधिकरण्याद् उपलक्षणत्वम् अपि न सङ्गच्छते। सो ऽपि यथोपदेशम् अकरोद् इत्य् आह तत्याज भेदं परमार्थ-दृष्टिः इति ॥
+देव-मनुष्यादि-विविध-विचित्र-पिण्डेषु वर्तमानं  
+सर्वम् आत्म-वस्तु समम्  
+इत्य् अर्थः। 
 </details>
 
 <details><summary>English</summary>
 
-Where the Purāṇa further says 'He (or "that") I am and thou art He (or "that"); all this universe that has Self for its true nature is He (or "that"); abandon the error of distinction' (Vi. Pu. II, 16, 23); the word 'that' refers to the intelligent character mentioned previously which is common to all Selfs, and the co-ordination stated in the two clauses therefore intimates that intelligence is the character of the beings denoted 'I' and 'Thou'; 'abandon therefore,' the text goes on to say, 'the illusion that the difference of outward form, divine and so on, causes a corresponding difference in the Selfs.' If this explanation were not accepted (but absolute non-difference insisted upon) there would be no sense in all those questions and answers, and no sense in an entire śāstra devoted to the explanation of that one thing.
+what the passage means is that the Self which dwells in the different material bodies of gods, men, and so on, is of one and the same kind. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-सोऽहं स च त्वम् इति सर्वात्मनां पूर्वोक्तं ज्ञानाकारत्वं तच्छब्देन परामृश्य तत्सामानाधिकरण्येनाहं त्वमित्यादीनामर्थानां ज्ञानमेवाऽकार इत्युपसंहरन् देवाद्याकारभेदेनाऽत्मसु भेदमोहं परित्यजेत्याह। अन्यथा देहातिररिक्तात्मोपदेश्यस्वरूपे अहं त्वं सर्वमेतदात्मस्वरूपमिति भेदनिर्देशो न घटते। अहं त्वमादिशब्दानामुपलक्ष्येण सर्वमेतदात्मस्वरूपमित्यनेन सामानाधिकरण्यादुपलक्षणत्वमपि न सङ्गच्छते। सोऽपि यथोपदेशमकरोदित्याह तत्याज भेदं परमार्थदृष्टिः इति ॥
+देवमनुष्यादि-विविधविचित्रपिण्डेषु वर्तमानं सर्वमात्मवस्तु सममित्यर्थः। 
 </details>
 
-### वाक्यानामद्वैतपरत्वाद्यभावसाधकोपपादनम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतश् चैष निर्णय इति चेत् देहात्म-विवेक-विषयत्वादुपदेशस्य। तच् च पिण्डः पृथग् यतः पुंसश् शिरः पाण्यादि-लक्षणः (वि.पु.२.१३.८९) इति प्रक्रमात्॥
+यथोक्तं भगवता 
+
+> शुनि चैव श्वपाके च  
+पण्डितास् सम-दर्शिनः  
+(भ.गी.५.१८)  
+
+> निर्-दोषं हि समं ब्रह्म (भ.गी.५.१९) 
+
+इत्य्-आदिषु । 
 </details>
 
 <details><summary>English</summary>
 
-Accordingly the text goes on to say that the king acted on the instruction he had received, 'he abandoned the view of difference, having recognised the Real.'--But on what ground do we arrive at this decision (viz. that the passage under discussion is not meant to teach absolute non-duality)?--On the ground, we reply, that the proper topic of the whole section is to teach the distinction of the Self and the body – for this is evident from what is said in an early part of the section, 'as the body of man, characterised by hands, feet, and the like,' &c. (Vi. Pu. II, 13, 85).--
+So the Holy one himself has said, 'In the dog and the low man eating dog's flesh the wise see the same'; 'Brahman, without any imperfection, is the same' (Bha. Gī. V, 18, 19). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथोक्तं भगवता शुनि चैव श्वपाके च पण्डितास्समदर्शिनः (भ.गी.५.१८) निर्दोषं हि समं ब्रह्म (भ.गी.५.१९) इत्यादिषु । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तस्यात्म-पर-देहेषु सतो ऽपि 
+
+इति देहातिरिक्ते वस्तुनि  
+स्व-पर-विभागस्योक्तत्वात्  
++++(पिण्ड-गतम् आत्म-गतम् अपि द्वैतं न प्रतिषिध्यते)+++॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+And, moreover, the clause 'Of the Self although existing in one's own and in other bodies' directly declares that a thing different from the body is distributed among one's own and other bodies.
 </details>
 
 <details><summary>मूलम्</summary>
 
-कुतश्चैष निर्णय इति चेत् देहात्मविवेकविषयत्वादुपदेशस्य। तच्च पिण्डः पृथग्यतः पुंसश्शिरः पाण्यादिलक्षणः (वि.पु.२.१३.८९) इति प्रक्रमात्॥
+तस्यात्मपरदेहेषु सतोऽपि इति देहातिरिक्ते वस्तुनि स्वपरविभागस्योक्तत्वात् ॥
+</details>
+
+### यद्य् अन्यो ऽस्ति परः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यद्य् अन्यो ऽस्ति परः को ऽपि 
+
+इत्य् अत्रापि नात्मैक्यं प्रतीयते;  
+"यदि मत्तः परः को ऽप्य् अन्य"  
+इत्य् एकस्मिन्न् अर्थे पर-शब्दान्य-शब्दयोः प्रयोगायोगात्। +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+Nor does the passage 'If there is some other (para) different (anya) from me,' &c. (Vi. Pu. II, 13, 86) intimate the oneness of the Self; for in that case the two words 'para' and 'anya' would express one meaning only (viz. 'other' in the sense of 'distinct from'). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद्यन्योऽस्ति परः कोऽपि इत्यत्रापि नात्मैक्यं प्रतीयते; यदि मत्तः परः कोऽप्यन्य इत्येकस्मिन्नर्थे परशब्दान्यशब्दयोः प्रयोगायोगात्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र पर-शब्दस् स्व-व्यतिरिक्तात्म-वचनः।  
+अन्य-शब्दस् तस्यापि ज्ञानैकाकारत्वाद् अन्याकारत्व-प्रतिषेधार्थः। 
+</details>
+
+<details><summary>English</summary>
+
+The word 'para' there denotes a Self distinct from that of one's own Self, and the word 'anya' is introduced to negative a character different from that of pure intelligence: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र परशब्दस्स्वव्यतिरिक्तात्मवचनः। 
+अन्यशब्दस्तस्यापि ज्ञानैकाकारत्वादन्याकारत्वप्रतिषेधार्थः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति – 
+
+> यदि मद्-व्यतिरिक्तः को ऽप्य् आत्मा  
+मद्-आकार-भूत-ज्ञानाकाराद् अन्याकारो ऽस्ति,  
+तदा "ऽहम् एवम्-आकारः;  
+अयञ् चान्यादृशाकार" इति शक्यते व्यपदेष्टुम्;  
+न चैवम् अस्ति;  
+सर्वेषां ज्ञानैकाकारत्वेन समानत्वाद् एव
+
+इति॥
+</details>
+
+<details><summary>English</summary>
+
+the sense of the passage thus is 'If there is some Self distinct from mine, and of a character different from mine which is pure knowledge, then it can be said that I am of such a character and he of a different character'; but this is not the case, because all Selfs are equal in as far as their nature consists of pure knowledge.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति – यदि मद्व्यतिरिक्तः कोऽप्यात्मा मदाकारभूतज्ञानाकारादन्याकारोऽस्ति, तदाऽहमेवमाकारः; अयञ्चान्यादृशाकार इति शक्यते व्यपदेष्टुम्; न चैवमस्ति; सर्वेषां ज्ञानैकाकारत्वेन समानत्वादेवेति॥
+</details>
+
+### वेणु-रन्ध्र-विभेदेन
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"वेणु-रन्ध्र-विभेदेन" इत्य् अत्राप्य् आकार-वैषम्यम् आत्मनां  
+न स्वरूप-कृतम्,  
+अपि तु देवादि-पिण्ड-प्रवेश-कृतम् इत्य् उपदिश्यते; नात्मैक्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+Also the śloka beginning 'Owing to the difference of the holes of the flute' (Vi. Pu. II, 14, 32) only declares that the inequality of the different Selfs is owing not to their essential nature, but to their dwelling in different material bodies; and does not teach the oneness of all Selfs. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वेणुरन्ध्रविभेदेन इत्यत्राप्याकारवैषम्यमात्मनां न स्वरूपकृतम्। अपि तु देवादिपिण्डप्रवेशकृतम् इत्युपदिश्यते; नात्मैक्यम्। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विभेद-जनके ऽज्ञाने (वि.पु.६-७-९४) इति च नात्मस्वरूपैक्यपरम्। नापि जीव-परयोः आत्मस्वरूपैक्यम् उक्त-रीत्या निषिद्धम्। जीव-परयोर् अपि स्वरूपैक्यं देहात्मनोर् इव न सम्भवति।
+दृष्टान्ते चानेकरन्ध्रवर्तिनां वाय्व्-अंशानां  
+न स्वरूपैक्यम्;  
+अपि त्व् आकार-साम्यम् एव। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The different portions of air, again, passing through the different holes of the flute – to which the many Selfs are compared – are not said to be one but only to be equal in character; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+दृष्टान्ते चानेकरन्ध्रवर्तिनां वाय्वंशानां न स्वरूपैक्यम्; अपित्वाकारसाम्यमेव। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेषां वायुत्वेनैकाकाराणां  
+रन्ध्र-भेद-निष्क्रमण-कृतो हि षड्-जादि-सञ्ज्ञा-भेदः। 
+</details>
+
+<details><summary>English</summary>
+
+they are one in character in so far as all of them are of the nature of air, while the different names of the successive notes of the musical scale are applied to them because they pass out by the different holes of the instrument. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेषां वायुत्वेनैकाकाराणां रन्ध्रभेदनिष्क्रमणकृतो हि षड्जादिसञ्ज्ञाभेदः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् आत्मनां देवादि-सञ्ज्ञा-भेदः।  
+</details>
+
+<details><summary>English</summary>
+
+For an analogous reason the several Selfs are denominated by different names, viz. gods and so on.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवम् आत्मनां देवादिसञ्ज्ञाभेदः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा तैजसाप्य-पार्थिव-द्रव्यांश-भूतानां पदार्थानां  
+तद्-तद्-द्रव्यत्वेनैक्यम् एव;  
+न स्वरूपैक्यम्,   
+तथा वायवीयानाम् अंशानाम् अपि  
+स्वरूप-भेदो ऽवर्जनीयः॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Those material things also which are parts of the substance fire, or water, or earth, are one in so far only as they consist of one kind of substance; but are not absolutely one; those different portions of air, therefore, which constitute the notes of the scale are likewise not absolutely one.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमात्मनां देवादिसञ्ज्ञाभेदः यथा तैजसाप्यपार्थिवद्रव्यांशभूतानां पदार्थानां तत्तद्द्रव्यत्वेनैक्यमेव; न स्वरूपैक्यम्, तथा वायवीयानामंशानामपि स्वरूपभेदोऽवर्जनीयः॥
+</details>
+
+### सो ऽहं, स च त्वम्
+
+<details><summary>विषयः</summary>
+
+आदिभरतनिगमनश्लोकार्थः
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(ज्ञानाकारत्वं→)+++सो ऽहं, स च त्वम् 
+
+इति सर्वात्मनां पूर्वोक्तं ज्ञानाकारत्वं  
+तच्-शब्देन परामृश्य  
+तत्-सामानाधिकरण्येन  
+
+> अहं त्वम् 
+
+इत्य्-आदीनाम् अर्थानां  
+"ज्ञानम् एवाकार" इत्य् उपसंहरन्  
+
+> देवाद्य्-आकार-भेदेनात्मसु भेद-मोहं परित्यज
+
+इत्य् आह। 
+</details>
+
+<details><summary>English</summary>
+
+Where the Purāṇa further says 'He (or "that") I am and thou art He (or "that"); all this universe that has Self for its true nature is He (or "that"); abandon the error of distinction' (Vi. Pu. II, 16, 23); the word 'that' refers to the intelligent character mentioned previously which is common to all Selfs, and the co-ordination stated in the two clauses therefore intimates that intelligence is the character of the beings denoted 'I' and 'Thou'; 'abandon therefore,' the text goes on to say, '+++(drop)+++ the illusion that the difference of outward form, divine and so on, causes a corresponding difference in the Selfs.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सोऽहं स च त्वम् इति सर्वात्मनां पूर्वोक्तं ज्ञानाकारत्वं तच्छब्देन परामृश्य तत्सामानाधिकरण्येनाहं त्वमित्यादीनामर्थानां ज्ञानमेवाऽकार इत्युपसंहरन् देवाद्याकारभेदेनाऽत्मसु भेदमोहं परित्यजेत्याह। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यथा देहातिरिक्तात्मोपदेश्य-स्वरूपे  
+
+> अहं, त्वं, सर्वम् एतद् आत्म-स्वरूपम् 
+
+इति भेद-निर्देशो न घटते। 
+</details>
+
+<details><summary>English</summary>
+
+If this explanation were not accepted (but absolute non-difference insisted upon) there would be no room for the references to difference which the passages quoted manifestly contain.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यथा देहातिरिक्तात्मोपदेश्यस्वरूपे अहं त्वं सर्वमेतदात्मस्वरूपमिति भेदनिर्देशो न घटते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहं-त्वम्-आदि-शब्दानाम् उपलक्ष्येण  
+"सर्वम् एतद् आत्म-स्वरूपम्" इत्य्-अनेन सामानाधिकरण्याद्  
++++(भेदाभावपक्षे)+++ उपलक्षणत्वम् अपि न सङ्गच्छते। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहं त्वमादिशब्दानामुपलक्ष्येण सर्वमेतदात्मस्वरूपमित्यनेन सामानाधिकरण्यादुपलक्षणत्वमपि न सङ्गच्छते।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सो ऽपि यथोपदेशम् अकरोद् 
+
+इत्य् आह 
+
+> तत्याज भेदं परमार्थ-दृष्टिः 
+
+इति ॥
+</details>
+
+<details><summary>English</summary>
+
+Accordingly the text goes on to say that the king acted on the instruction he had received, 'he abandoned the view of difference, having recognised the Real.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+सोऽपि यथोपदेशमकरोदित्याह तत्याज भेदं परमार्थदृष्टिः इति ॥
+</details>
+
+#### देहात्म-विवेको विषयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"कुतश् चैष निर्णय" इति चेत्  
+देहात्म-विवेक-विषयत्वाद् उपदेशस्य। 
+</details>
+
+<details><summary>English</summary>
+
+--But on what ground do we arrive at this decision (viz. that the passage under discussion is not meant to teach absolute non-duality)?--On the ground, we reply, that the proper topic of the whole section is to teach the distinction of the Self and the body 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतश्चैष निर्णय इति चेत् देहात्मविवेकविषयत्वादुपदेशस्य। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तच् च +++(देहात्म-विवेक-विषयत्वम्)+++ 
+
+> पिण्डः पृथग् यतः पुंसश्  
+शिरः-पाण्य्-आदि-लक्षणः (वि.पु.२.१३.८९) 
+
+इति प्रक्रमात्॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+– for this is evident from what is said in an early part of the section, 'as the body of man, characterised by hands, feet, and the like,' &c. (Vi. Pu. II, 13, 85).--
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच्च पिण्डः पृथग्यतः पुंसश्शिरः पाण्यादिलक्षणः (वि.पु.२.१३.८९) इति प्रक्रमात्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विभेद-जनके ऽज्ञाने (वि.पु.६-७-९४) 
+
+इति च नात्मस्वरूपैक्यपरम्। नापि जीव-परयोः आत्मस्वरूपैक्यम् उक्त-रीत्या निषिद्धम्। जीव-परयोर् अपि स्वरूपैक्यं देहात्मनोर् इव न सम्भवति।
 </details>
 
 <details><summary>English</summary>
