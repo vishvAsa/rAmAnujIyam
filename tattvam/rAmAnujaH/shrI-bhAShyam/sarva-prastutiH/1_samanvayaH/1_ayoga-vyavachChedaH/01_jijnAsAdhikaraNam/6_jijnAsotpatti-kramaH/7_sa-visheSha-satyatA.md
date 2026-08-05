@@ -11798,6 +11798,7 @@ Accordingly the text goes on to say that the king acted on the instruction he ha
 विभेदजनकेऽज्ञाने (वि.पु.6-7-94) इति च नात्मस्वरूपैक्यपरं नापि जीवपरयोः।
 </details>
 
+#### जीवैक्यं न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मस्वरूपैक्यम् उक्त-रीत्या निषिद्धम्। 
@@ -11810,13 +11811,16 @@ For analogous reasons the śloka (essential unity of all Selfs doesn't hold).
 
 <details><summary>मूलम्</summary>
 
-आत्मस्वरूपैक्यम् उक्त-रीत्या निषिद्धम्। 
+आत्मस्वरूपैक्यमुक्तरीत्या निषिद्धम्। 
 </details>
 
+#### जीव-परैक्यं न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीव-परयोर् अपि स्वरूपैक्यं देहात्मनोर् इव न सम्भवति।
+जीव-परयोर् अपि स्वरूपैक्यं  
+देहात्मनोर् इव  
+न सम्भवति।
 </details>
 
 <details><summary>English</summary>
@@ -11826,12 +11830,28 @@ And that the embodied soul and the highest Self should be essentially one, is no
 
 <details><summary>मूलम्</summary>
 
-आत्मस्वरूपैक्यमुक्तरीत्या निषिद्धम्। जीवपरयोरपि स्वरूपैक्यं देहात्मनोरिव न सम्भवति।
+जीवपरयोरपि स्वरूपैक्यं देहात्मनोरिव न सम्भवति।
 </details>
 
+##### श्रुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा च श्रुतिः द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते। तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति (मु.३.१.१), ऋतं पिबन्तौ सुकृतस्य लोके गुहां प्रविष्टौ परमे परार्ध्ये । छायातपौ ब्रह्म-विदो वदन्ति पञ्चाग्नयो ये च त्रिणाचिकेताः॥ (कठ. २.१) अन्तः प्रविष्टश् शास्ता जनानां सर्वात्मा (यजुरारण्यके.३.२०.) इत्याद्याः।
+तथा च श्रुतिः 
+
+> द्वा सुपर्णा सयुजा सखाया  
+समानं वृक्षं परिषस्वजाते।  
+तयोर् अन्यः पिप्पलं स्वाद्व् अत्त्य्  
+अनश्नन्न् अन्यो अभिचाकशीति  
+(मु.३.१.१), 
+
+> ऋतं पिबन्तौ सुकृतस्य लोके  
+गुहां प्रविष्टौ परमे परार्ध्ये ।  
+छायातपौ ब्रह्म-विदो वदन्ति  
+पञ्चाग्नयो ये च त्रिणाचिकेताः +++(→ब्रह्म-विदः)+++॥ (कठ. २.१) 
+
+> अन्तः प्रविष्टश् शास्ता जनानां सर्वात्मा (यजुरारण्यके.३.२०.) 
+
+इत्य्-आद्याः।
 </details>
 
 <details><summary>English</summary>
@@ -11844,31 +11864,108 @@ In agreement herewith Scripture says, 'Two birds, inseparable friends, cling to 
 तथाच श्रुतिः द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते। तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति (मु.३.१.१), ऋतं पिबन्तौ सुकृतस्य लोके गुहां प्रविष्टौ परमे परार्ध्ये । छायातपौ ब्रह्मविदो वदन्ति पञ्चाग्नयो ये च त्रिणाचिकेताः॥ (कठ. २.१) अन्तः प्रविष्टश्शास्ता जनानां सर्वात्मा (यजुरारण्यके.३.२०.) इत्याद्याः।
 </details>
 
+##### विष्णु-पुराणे हि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्मिन्न् अपि शास्त्रे स सर्व-भूत-प्रकृतिं विकारान् गुणादि-दोषांश् च मुने व्यतीतः। अतीत-सर्वावरणो ऽखिलात्मा तेनाऽस्तृतं यद् भुवनान्तराले, समस्त-कल्याण-गुणात्मको ऽसौ, परः पराणां सकला न यत्र क्लेशादयस् सन्ति परावरेशे (वि.पु.६.५.८३,८४,८५) अविद्या कर्म-सञ्ज्ञाऽन्या तृतीया शक्तिर् इष्यते। यया क्षेत्रज्ञ-शक्तिस् सा वेष्टिता नृप सर्व-गा (वि.पु.६.७.६१,६२) इति भेद-व्यपदेशात्, उभये ऽपि हि भेदेनैनम् अधीयते (ब्र.सू.१.२.२१), भेद-व्यपदेशाच् चान्यः (ब्र.सू.१.२.२२), अधिकं तु भेद-निर्देशात् (ब्र.सू.२.१.२१) इत्य् आदि-सूत्रेषु च य आत्मनि तिष्ठन्न् आत्मनो ऽन्तरो यम् आत्मा न वेद यस्याऽत्मा शरीरं [[य आत्मानमन्तो यमयति|य आत्मानमन्तरो यमयति]] (बृ.५.७.२२), प्राज्ञेनात्मना सम्परिष्वक्तः (बृ.६.३.२१), प्राज्ञेनाऽत्मनाऽन्वारूढः (बृ.६.३.३५) इत्य् आदिभिरु भयोर् अन्योन्य-प्रत्यनीकाकारेण स्वरूप-निर्णयात्।
+अस्मिन्न् अपि शास्त्रे 
+
+> स सर्व-भूत-प्रकृतिं विकारान्  
+गुणादि-दोषांश् च मुने व्यतीतः।  
+अतीत-सर्वावरणो ऽखिलात्मा  
+तेनाऽस्तृतं यद् भुवनान्तराले, समस्त-कल्याण-गुणात्मको ऽसौ,  
+परः पराणां सकला न यत्र  
+क्लेशादयस् सन्ति परावरेशे (वि.पु.६.५.८३,८४,८५) 
+
+> अविद्या कर्म-सञ्ज्ञाऽन्या  
+तृतीया शक्तिर् इष्यते।  
+यया क्षेत्रज्ञ-शक्तिस् सा  
+वेष्टिता नृप सर्व-गा  
+(वि.पु.६.७.६१,६२) 
+
+इति भेद-व्यपदेशात्, 
+
 </details>
 
 <details><summary>English</summary>
 
-And in this śāstra also (i.e. the Vishṇu Purāṇa) there are passages of analogous import; cp. the stanzas quoted above, 'He transcends the causal matter, all effects, all imperfections such as the guṇas' &c. The Sūtras also maintain the same doctrine, cp. I, 1, 17; I, 2, 21; II, 1, 22; and others. They therein follow Scripture, which in several places refers to the highest and the individual soul as standing over against each other, cp. e.g. 'He who dwells in the Self and within the Self, whom the Self does not know, whose body the Self is, who rules the Self from within' (Br̥. Up. III, 7, 22); 'Embraced by the intelligent Self (Br̥. Up. IV, 3, 21); 'Mounted by the intelligent Self (IV, 3, 35).
+And in this śāstra also (i.e. the Vishṇu Purāṇa) there are passages of analogous import; cp. the stanzas quoted above, 'He transcends the causal matter, all effects, all imperfections such as the guṇas' &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्मिन्नपि शास्त्रे स सर्वभूतप्रकृतिं विकारान् गुणादिदोषांश्च मुने व्यतीतः। अतीतसर्वावरणोऽखिलात्मा तेनाऽस्तृतं यद्भुवनान्तराले, समस्तकल्याणगुणात्मकोऽसौ, परः पराणां सकला न यत्र क्लेशादयस्सन्ति परावरेशे (वि.पु.६.५.८३,८४,८५) अविद्या कर्मसञ्ज्ञाऽन्या तृतीया शक्तिरिष्यते। यया क्षेत्रज्ञशक्तिस्सा वेष्टिता नृप सर्वगा (वि.पु.६.७.६१,६२) इति भेदव्यपदेशात्, 
+</details>
+
+##### ब्रह्मसूत्रादौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उभये ऽपि हि भेदेनैनम् अधीयते (ब्र.सू.१.२.२१), 
+
+> भेद-व्यपदेशाच् चान्यः (ब्र.सू.१.२.२२), 
+
+> अधिकं तु भेद-निर्देशात् (ब्र.सू.२.१.२१) 
+
+इत्य्-आदि-सूत्रेषु च  
+
+> य आत्मनि तिष्ठन्न्,  
+आत्मनो ऽन्तरो  
+यम् आत्मा न वेद  
+यस्याऽत्मा शरीरं  
+य आत्मानमन्तरो यमयति (बृ.५.७.२२), 
+
+> प्राज्ञेनात्मना सम्परिष्वक्तः (बृ.६.३.२१), 
+
+> प्राज्ञेनाऽत्मनान्वारूढः (बृ.६.३.३५) 
+
+इत्य्-आदिभिर् उभयोर् अन्योन्य-प्रत्यनीकाकारेण स्वरूप-निर्णयात्।
+</details>
+
+<details><summary>English</summary>
+
+The Sūtras also maintain the same doctrine, cp. I, 1, 17; I, 2, 21; II, 1, 22; and others. They therein follow Scripture, which in several places refers to the highest and the individual soul as standing over against each other, cp. e.g. 'He who dwells in the Self and within the Self, whom the Self does not know, whose body the Self is, who rules the Self from within' (Br̥. Up. III, 7, 22); 'Embraced by the intelligent Self (Br̥. Up. IV, 3, 21); 'Mounted by the intelligent Self (IV, 3, 35).
 </details>
 
 <details><summary>मूलम्</summary>
 
-अस्मिन्नपि शास्त्रे स सर्वभूतप्रकृतिं विकारान् गुणादिदोषांश्च मुने व्यतीतः। अतीतसर्वावरणोऽखिलात्मा तेनाऽस्तृतं यद्भुवनान्तराले, समस्तकल्याणगुणात्मकोऽसौ, परः पराणां सकला न यत्र क्लेशादयस्सन्ति परावरेशे (वि.पु.६.५.८३,८४,८५) अविद्या कर्मसञ्ज्ञाऽन्या तृतीया शक्तिरिष्यते। यया क्षेत्रज्ञशक्तिस्सा वेष्टिता नृप सर्वगा (वि.पु.६.७.६१,६२) इति भेदव्यपदेशात्, उभयेऽपि हि भेदेनैनमधीयते (ब्र.सू.१.२.२१), भेदव्यपदेशाच्चान्यः (ब्र.सू.१.२.२२), अधिकं तु भेदनिर्देशात् (ब्र.सू.२.१.२१) इत्यादिसूत्रेषु च य आत्मनि तिष्ठन्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तो यमयति (बृ.५.७.२२), प्राज्ञेनात्मना सम्परिष्वक्तः (बृ.६.३.२१), प्राज्ञेनाऽत्मनाऽन्वारूढः (बृ.६.३.३५) इत्यादिभिरुभयोरन्योन्यप्रत्यनीकाकारेण स्वरूपनिर्णयात्।
+उभयेऽपि हि भेदेनैनमधीयते (ब्र.सू.१.२.२१), भेदव्यपदेशाच्चान्यः (ब्र.सू.१.२.२२), अधिकं तु भेदनिर्देशात् (ब्र.सू.२.१.२१) इत्यादिसूत्रेषु च य आत्मनि तिष्ठन्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तो यमयति (बृ.५.७.२२), प्राज्ञेनात्मना सम्परिष्वक्तः (बृ.६.३.२१), प्राज्ञेनाऽत्मनाऽन्वारूढः (बृ.६.३.३५) इत्यादिभिरुभयोरन्योन्यप्रत्यनीकाकारेण स्वरूपनिर्णयात्।
 </details>
 
-### मुक्तौ जीवब्रह्मणोः स्वरूपैक्यनिरासः
+### मुक्तौ 
+#### न स्वरूपैक्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नापि साधनानुष्ठानेन निर्मुक्ताविद्यस्य परेण स्वरूपैक्य-सम्भवः; अ-विद्याश्रयत्व-योग्यस्य तद्-अनर्हात्वा-सम्भवात्। यथोक्तम् – परमात्मात्मनोर् योगः परमार्थ इतीष्यते। मिथ्यैतद् अन्यद् द्रव्यं हि नैति तद्-द्रव्यतां यतः॥ इति॥ (वि.पु.२.१४.२७)
+नापि साधनानुष्ठानेन निर्मुक्ताविद्यस्य  
+परेण स्वरूपैक्य-सम्भवः; अ-विद्याश्रयत्व-योग्यस्य तद्-अनर्हात्वासम्भवात्। 
+</details>
+<details><summary>English</summary>
+
+Nor can the individual Self become one with the highest Self by freeing itself from Nescience, with the help of the means of final Release; for that which admits of being the abode of Nescience can never become quite incapable of it. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नापि साधनानुष्ठानेन निर्मुक्ताविद्यस्य  
+परेण स्वरूपैक्य-सम्भवः; अ-विद्याश्रयत्व-योग्यस्य तद्-अनर्हात्वासम्भवात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथोक्तम् – 
+
+> परमात्मात्मनोर् योगः  
+परमार्थ इतीष्यते।  
++++(किन्तु)+++ मिथ्यैतद् अन्यद् द्रव्यं हि  
+नैति तद्-द्रव्यतां यतः॥ 
+
+इति॥ (वि.पु.२.१४.२७)
 </details>
 
 <details><summary>English</summary>
 
-Nor can the individual Self become one with the highest Self by freeing itself from Nescience, with the help of the means of final Release; for that which admits of being the abode of Nescience can never become quite incapable of it. So the Purāṇa says, 'It is false to maintain that the individual Self and the highest Self enter into real union; for one substance cannot pass over into the nature of another substance.'
+So the Purāṇa says, 'It is false to maintain that the individual Self and the highest Self enter into real union; for one substance cannot pass over into the nature of another substance.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -11876,23 +11973,58 @@ Nor can the individual Self become one with the highest Self by freeing itself f
 नापि साधनानुष्ठानेन निर्मुक्ताविद्यस्य परेण स्वरूपैक्यसम्भवः; अविद्याश्रयत्वयोग्यस्य तदनर्हात्वासम्भवात्। यथोक्तम् – परमात्मात्मनोर्योगः परमार्थ इतीष्यते। मिथ्यैतदन्यद्द्रव्यं हि नैति तद्द्रव्यतां यतः॥ इति॥ (वि.पु.२.१४.२७)
 </details>
 
-### जीवस्य मुक्तावपि न स्वरूपैक्यम्म्, परेण परमसाम्यमेव
+#### साधर्म्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुक्तस्य तु तद्-धर्मतापत्तिर् एवेति भगवद्-गीतासूक्तम् – इदं ज्ञानम् उपाश्रित्य मम साधर्म्यम् आगताः। सर्गे ऽपि नोपजायन्ते प्रलये न व्यथन्ति च ॥ इति ॥ (भ.गी.१४.२) इहापि आत्म-भावं नयत्य् एनं तद् ब्रह्म ध्यायिनं मुने । विकार्यम् आत्मनश् शक्त्या लोहम् आ-कर्षको यथा ॥ इति॥ (वि.पु.६.७.३) आत्म-भावम् – आत्मनस् स्वभावम्। न ह्याकर्षक-स्वरूपापत्तिर् आ-कृष्यमाणस्य।
+> मुक्तस्य तु तद्-धर्मतापत्तिर् एव  
+
+इति भगवद्-गीतासूक्तम् – 
+
+> इदं ज्ञानम् उपाश्रित्य  
+मम साधर्म्यम् **आगताः**।  
+सर्गे ऽपि **नोपजायन्ते**  
+प्रलये **न व्यथन्ति** च ॥  
+(भ.गी.१४.२) 
+
+इति ॥
 </details>
 
 <details><summary>English</summary>
 
-Accordingly the Bhagavad Gītā declares that the released soul attains only the same attributes as the highest Self. 'Abiding by this knowledge, they, attaining to an equality of attributes with me, do neither come forth at the time of creation, nor are troubled at the time of general destruction' (XIV, 2). Similarly our Purāṇa says, 'That Brahman leads him who meditates on it, and who is capable of change, towards its own being (ātmabhāva), in the same way as the magnet attracts the iron' (Vi. Pu. VI, 7, 30). Here the phrase 'leads him towards his own being' means 'imparts to him a nature like his own' (not 'completely identifies him with itself'); for the attracted body does not become essentially one with the body attracting.
+Accordingly the Bhagavad Gītā declares that the released soul attains only the same attributes as the highest Self. 'Abiding by this knowledge, they, attaining to an equality of attributes with me, do neither come forth at the time of creation, nor are troubled at the time of general destruction' (XIV, 2). 
 </details>
+
 
 <details><summary>मूलम्</summary>
 
 मुक्तस्य तु तद्धर्मतापत्तिरेवेति भगवद्गीतासूक्तम् –
 इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः।
-सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ॥ इति ॥ (भ.गी.१४.२)
+सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ॥(भ.गी.१४.२) इति ॥ 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इहापि 
+
+> आत्म-भावं **नयत्य्** एनं  
+तद् ब्रह्म ध्यायिनं मुने ।  
+विकार्यम् आत्मनश् शक्त्या  
+लोहम् आ-कर्षको यथा ॥  
+(वि.पु.६.७.३) +++(5)+++
+
+इति॥ आत्म-भावम् – आत्मनस् स्वभावम्। न ह्याकर्षक-स्वरूपापत्तिर् आ-कृष्यमाणस्य।
+</details>
+
+<details><summary>English</summary>
+
+Similarly our Purāṇa says, 'That Brahman leads him who meditates on it, and who is capable of change, towards its own being (ātmabhāva), in the same way as the magnet attracts the iron' (Vi. Pu. VI, 7, 30). Here the phrase 'leads him towards his own being' means 'imparts to him a nature like his own' (not 'completely identifies him with itself'); for the attracted body does not become essentially one with the body attracting.
+</details>
+
+<details><summary>मूलम्</summary>
+
 इहापि
 आत्मभावं नयत्येनं तद्ब्रह्म ध्यायिनं मुने ।
 विकार्यमात्मनश्शक्त्या लोहमाकर्षको यथा ॥ इति॥ (वि.पु.६.७.३)
