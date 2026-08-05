@@ -12153,7 +12153,7 @@ The following scriptural texts establish the same view, 'Those who depart from h
 श्रुतयश्च य इहात्मानमनुविद्य व्रजन्त्येतांश्च सत्यान् कामांस्तेषां सर्वेषु लोकेषु कामचारो भवति (छां.८.प्र.१.ख.६), ब्रह्मविदाप्नोति परं सोऽश्नुते सर्वान् कामान् सह। ब्रह्मणा विपिश्चता (तै.आन.१अनु.१,२), एतमानन्दमयमात्मानमुपसङ्क्रम्य। इमान् लोकान् कामान्नी कामरूप्यनुसञ्चरन् (तै.भृगु.१०अनु.५), स तत्र पर्येति (छा.८.१२.३), रसो वै सः। रसं ह्येवायं लब्ध्वाऽऽनन्दी भवति (तै.आ.७.अनु.१), यथा नद्यः स्यन्दमानास्समुद्रे अस्तं गच्छन्ति नामरूपे विहाय। तथा विद्वान्नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् (मु.३.२.८), तदा विद्वान् पुण्यपापे विधूय निरञ्जनः परमं साम्यमुपैति (मु.३.१.३) इत्याद्याः।
 </details>
 
-### सगुणो ह्य् उपास्यः
+#### फल-साम्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12171,7 +12171,7 @@ The objects of meditation in all the vidyās which refer to the highest Brahman,
 परविद्यासु सर्वासु सगुणमेव ब्रह्मोपास्यम्। फलं चैकरूपमेव। 
 </details>
 
-
+##### सूत्राणि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो "विद्या-विकल्प" इति सूत्रकारेणैव  
@@ -12235,6 +12235,7 @@ The same view is expressed by the Bhāshyakāra in the passage beginning 'Althou
 भाष्यकृता व्याख्यातं च यद्यपि सच्चित्तः इत्यादिना।
 </details>
 
+#### श्रुतयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ब्रह्म वेद ब्रह्मैव भवति (मु.३.२.९) 
@@ -12280,25 +12281,87 @@ Of him who has freed himself from his ordinary name and form, and all the distin
 प्रकारैक्ये च तत्त्वव्यवहारो मुख्य एव; यथा सेयं गौरिति॥
 </details>
 
+#### विष्णु-पुराणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्रापि विज्ञानं प्रापकं प्राप्ये परे ब्रह्मणि पार्थिव। प्रापणीयस् तथैवाऽत्मा प्रक्षीणाशेषभावनः॥ (वि.पु.६.७.९३) इति॥ पर-ब्रह्म-ध्यानाद् आत्मा पर-ब्रह्म-वत् प्रक्षीणाशेषभावनः – कर्म-भावना-ब्रह्म-भावनोभय-भावनेति भावना-त्रय-रहितः प्रापणीय इत्य् अभिधाय, क्षेत्रज्ञः करणी ज्ञानं करणं तस्य वै द्विज। निष्पाद्य मुक्ति-कार्यं हि कृत-कृत्यं निवर्तयेत्॥ (वि.पु.६.७.९४) इति करणस्य पर-ब्रह्म-ध्यान-रूपस्य प्रक्षीणाशेषभावनात्मस्वरूपप्राप्त्या कृत-कृत्यत्वेन निवृत्ति-वचनाद् यावत्-सिद्धि अनुष्ठेयम् इत्य् उक्त्वा तद्-भाव-भावम् आपन्नस् तदा ऽसौ परमात्मना। भवत्य् अभेदी भेदश् च तस्याज्ञानकृतो भवेत्॥ (वि.पु.६.७.९३,९४,९५) इति मुक्तस्य स्वरूपम् आह।
+अत्रापि 
+
+> विज्ञानं प्रापकं प्राप्ये  
+परे ब्रह्मणि पार्थिव।  
+प्रापणीयस् तथैवात्मा  
+प्रक्षीणाशेष-भावनः॥ (वि.पु.६.७.९३) 
+
+इति पर-ब्रह्म-ध्यानाद्  
+आत्मा पर-ब्रह्म-वत्  
+प्रक्षीणाशेषभावनः – कर्म-भावना--ब्रह्म-भावनोभय-भावनेति भावना-त्रय-रहितः  
+प्रापणीय इत्य् अभिधाय, 
 </details>
 
 <details><summary>English</summary>
 
-Our Purāṇa also propounds the same view. The śloka (VI, 7, 91), 'Knowledge is the means to obtain what is to be obtained, viz. the highest Brahman: the Self is to be obtained, freed from all kinds of imagination,' states that that Self which through meditation on Brahman, is freed from all imagination so as to be like Brahman, is the object to be attained. (The three forms of imagination to be got rid of are so-called karma-bhāvanā, brahma-bhāvanā and a combination of the two. See Vi. Pu. VI, 7.) The text then goes on, 'The embodied Self is the user of the instrument, knowledge is its instrument; having accomplished Release – whereby his object is attained – he may leave off.' This means that the Devotee is to practise meditation on the highest Brahman until it has accomplished its end, viz. the attainment of the Self free from all imagination.--The text continues, 'Having attained the being of its being, then he is non-different from the highest Self; his difference is founded on Nescience only.' This śloka describes the state of the released soul.
+Our Purāṇa also propounds the same view. The śloka (VI, 7, 91), 'Knowledge is the means to obtain what is to be obtained, viz. the highest Brahman: the Self is to be obtained, freed from all kinds of imagination,' states that that Self which through meditation on Brahman, is freed from all imagination so as to be like Brahman, is the object to be attained. (The three forms of imagination to be got rid of are so-called karma-bhāvanā, brahma-bhāvanā and a combination of the two. See Vi. Pu. VI, 7.) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्रापि विज्ञानं प्रापकं प्राप्ये परे ब्रह्मणि पार्थिव। प्रापणीयस्तथैवाऽत्मा प्रक्षीणाशेषभावनः॥ (वि.पु.६.७.९३) इति
+परब्रह्मध्यानादात्मा परब्रह्मवत् प्रक्षीणाशेषभावनः – कर्मभावनाब्रह्माभावनोभयभावनेति भावनात्रयरहितः प्रापणीय इत्यभिधाय, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> क्षेत्रज्ञः करणी, ज्ञानं  
+करणं तस्य वै द्विज।  
+निष्पाद्य मुक्ति-कार्यं हि  
+कृत-कृत्यं निवर्तयेत्॥ (वि.पु.६.७.९४) 
+
+इति करणस्य पर-ब्रह्म-ध्यान-रूपस्य  
+प्रक्षीणाशेष-भावना- ऽऽत्म-स्वरूप-प्राप्त्या कृत-कृत्यत्वेन निवृत्ति-वचनाद्  
+"यावत्-सिद्धि अनुष्ठेयम्" इत्य् उक्त्वा 
+</details>
+
+<details><summary>English</summary>
+
+The text then goes on, 'The embodied Self is the user of the instrument, knowledge is its instrument; having accomplished Release – whereby his object is attained – he may leave off.' This means that the Devotee is to practise meditation on the highest Brahman until it has accomplished its end, viz. the attainment of the Self free from all imagination.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अत्रापि विज्ञानं प्रापकं प्राप्ये परे ब्रह्मणि पार्थिव। प्रापणीयस्तथैवाऽत्मा प्रक्षीणाशेषभावनः॥ (वि.पु.६.७.९३) इति॥
-परब्रह्मध्यानादात्मा परब्रह्मवत् प्रक्षीणाशेषभावनः – कर्मभावनाब्रह्माभावनोभयभावनेति भावनात्रयरहितः प्रापणीय इत्यभिधाय, क्षेत्रज्ञः करणी ज्ञानं करणं तस्य वै द्विज। निष्पाद्य मुक्तिकार्यं हि कृतकृत्यं निवर्तयेत्॥ (वि.पु.६.७.९४) इति करणस्य परब्रह्मध्यानरूपस्य प्रक्षीणाशेषभावनात्मस्वरूपप्राप्त्या कृतकृत्यत्वेन निवृत्तिवचनाद्यावत्सिद्धि अनुष्ठेयम् इत्युक्त्वा तद्भावभावमापन्नस्तदाऽसौ परमात्मना। भवत्यभेदी भेदश्च तस्याज्ञानकृतो भवेत्॥ (वि.पु.६.७.९३,९४,९५) इति मुक्तस्य स्वरूपमाह।
+क्षेत्रज्ञः करणी ज्ञानं करणं तस्य वै द्विज। निष्पाद्य मुक्तिकार्यं हि कृतकृत्यं निवर्तयेत्॥ (वि.पु.६.७.९४) इति करणस्य परब्रह्मध्यानरूपस्य प्रक्षीणाशेषभावनात्मस्वरूपप्राप्त्या कृतकृत्यत्वेन निवृत्तिवचनाद्यावत्सिद्धि अनुष्ठेयम् इत्युक्त्वा 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-भावः ब्रह्मणो भावः स्वभावः। न तु स्वरूपैक्यम्, तद्-भाव-भावम् आपन्न इति द्वितीय-भाव-शब्दानन्वयात् पूर्वोक्तार्थ-विरोधाच् च। यद् ब्रह्मणः प्रक्षीणाशेषभावनत्वं तद्-आपत्तिः तद्-भाव-भावापत्तिः।
+> तद्-भाव-भावम् आपन्नस्  
+तदा ऽसौ परमात्मना।  
+भवत्य् अभेदी, भेदश् च  
+तस्याज्ञानकृतो भवेत्॥  
+(वि.पु.६.७.९३,९४,९५) 
+
+इति मुक्तस्य स्वरूपम् आह।
+</details>
+
+<details><summary>English</summary>
+
+--The text continues, 'Having attained the being of its being, then he is non-different from the highest Self; his difference is founded on Nescience only.' This śloka describes the state of the released soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्भावभावमापन्नस्तदाऽसौ परमात्मना। भवत्यभेदी भेदश्च तस्याज्ञानकृतो भवेत्॥ (वि.पु.६.७.९३,९४,९५) इति मुक्तस्य स्वरूपमाह।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**तद्-भावः** ब्रह्मणो भावः स्वभावः,  
+न तु स्वरूपैक्यम्,  
+"तद्-भाव-भावम् आपन्न" इति द्वितीय-भाव-शब्दानन्वयात्,  
+पूर्वोक्तार्थ-विरोधाच् च। 
+
+यद् ब्रह्मणः प्रक्षीणाशेषभावनत्वं तद्-आपत्तिः तद्-भाव-भावापत्तिः।
 </details>
 
 <details><summary>English</summary>
