@@ -11777,21 +11777,56 @@ Accordingly the text goes on to say that the king acted on the instruction he ha
 तच्च पिण्डः पृथग्यतः पुंसश्शिरः पाण्यादिलक्षणः (वि.पु.२.१३.८९) इति प्रक्रमात्॥
 </details>
 
+### विभेद-जनके ऽज्ञाने
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विभेद-जनके ऽज्ञाने (वि.पु.६-७-९४) 
 
-इति च नात्मस्वरूपैक्यपरम्। नापि जीव-परयोः आत्मस्वरूपैक्यम् उक्त-रीत्या निषिद्धम्। जीव-परयोर् अपि स्वरूपैक्यं देहात्मनोर् इव न सम्भवति।
+इति च नात्मस्वरूपैक्यपरम्,  
+नापि जीव-परयोः +++(ऐक्यस्य बोधकम्)+++। 
 </details>
 
 <details><summary>English</summary>
 
-For analogous reasons the śloka 'When that knowledge which gives rise to distinction' &c. (Vi. Pu. VI, 7, 94) teaches neither the essential unity of all Selfs nor the oneness of the individual Self and the highest Self. And that the embodied soul and the highest Self should be essentially one, is no more possible than that the body and the Self should be one.
+'When that knowledge which gives rise to distinction' &c. (Vi. Pu. VI, 7, 94) teaches neither the essential unity of all Selfs nor the oneness of the individual Self and the highest Self. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विभेदजनकेऽज्ञाने (वि.पु.6-7-94) इति च नात्मस्वरूपैक्यपरं नापि जीवपरयोः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मस्वरूपैक्यम् उक्त-रीत्या निषिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+For analogous reasons the śloka (essential unity of all Selfs doesn't hold).
 </details>
 
 <details><summary>मूलम्</summary>
 
-विभेदजनकेऽज्ञाने (वि.पु.6-7-94) इति च नात्मस्वरूपैक्यपरम्। नापि जीवपरयोः आत्मस्वरूपैक्यमुक्तरीत्या निषिद्धम्। जीवपरयोरपि स्वरूपैक्यं देहात्मनोरिव न सम्भवति।
+आत्मस्वरूपैक्यम् उक्त-रीत्या निषिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीव-परयोर् अपि स्वरूपैक्यं देहात्मनोर् इव न सम्भवति।
+</details>
+
+<details><summary>English</summary>
+
+And that the embodied soul and the highest Self should be essentially one, is no more possible than that the body and the Self should be one.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मस्वरूपैक्यमुक्तरीत्या निषिद्धम्। जीवपरयोरपि स्वरूपैक्यं देहात्मनोरिव न सम्भवति।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
