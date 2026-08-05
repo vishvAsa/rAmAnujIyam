@@ -9759,7 +9759,7 @@ And the Sūtra III, 2, 3 declares that the things seen in dreams are mere 'Māy�
 </details>
 
 
-## स्मृति-पुराणानि
+## पुराणेषु बहुत्वम्, सविशेषता
 <details><summary>विषयः</summary>
 
 **अथ स्मृतिपुराणघट्टः**
@@ -11931,8 +11931,7 @@ The Sūtras also maintain the same doctrine, cp. I, 1, 17; I, 2, 21; II, 1, 22; 
 उभयेऽपि हि भेदेनैनमधीयते (ब्र.सू.१.२.२१), भेदव्यपदेशाच्चान्यः (ब्र.सू.१.२.२२), अधिकं तु भेदनिर्देशात् (ब्र.सू.२.१.२१) इत्यादिसूत्रेषु च य आत्मनि तिष्ठन्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तो यमयति (बृ.५.७.२२), प्राज्ञेनात्मना सम्परिष्वक्तः (बृ.६.३.२१), प्राज्ञेनाऽत्मनाऽन्वारूढः (बृ.६.३.३५) इत्यादिभिरुभयोरन्योन्यप्रत्यनीकाकारेण स्वरूपनिर्णयात्।
 </details>
 
-### मुक्तौ 
-#### न स्वरूपैक्यम्
+### मुक्तौ न स्वरूपैक्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11973,8 +11972,9 @@ So the Purāṇa says, 'It is false to maintain that the individual Self and the
 नापि साधनानुष्ठानेन निर्मुक्ताविद्यस्य परेण स्वरूपैक्यसम्भवः; अविद्याश्रयत्वयोग्यस्य तदनर्हात्वासम्भवात्। यथोक्तम् – परमात्मात्मनोर्योगः परमार्थ इतीष्यते। मिथ्यैतदन्यद्द्रव्यं हि नैति तद्द्रव्यतां यतः॥ इति॥ (वि.पु.२.१४.२७)
 </details>
 
-#### साधर्म्यम्
+### मुक्तौ साधर्म्यम्
 
+#### स्मृतयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > मुक्तस्य तु तद्-धर्मतापत्तिर् एव  
@@ -12015,7 +12015,8 @@ Accordingly the Bhagavad Gītā declares that the released soul attains only the
 लोहम् आ-कर्षको यथा ॥  
 (वि.पु.६.७.३) +++(5)+++
 
-इति॥ आत्म-भावम् – आत्मनस् स्वभावम्। न ह्याकर्षक-स्वरूपापत्तिर् आ-कृष्यमाणस्य।
+इति॥ आत्म-भावम् – आत्मनस्+++(=स्वस्य)+++ स्वभावम्।  
+न ह्य् आकर्षक-स्वरूपापत्तिर् आ-कृष्यमाणस्य।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -12031,24 +12032,115 @@ Similarly our Purāṇa says, 'That Brahman leads him who meditates on it, and w
 आत्मभावम् – आत्मनस्स्वभावम्। नह्याकर्षकस्वरूपापत्तिराकृष्यमाणस्य।
 </details>
 
+#### सूत्राणि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वक्ष्यति च जगद्-व्यापार-वर्जं प्रकरणाद् अ-सन्निहितत्वाच् च (ब्र.सू.४.४.१७), भोग-मात्र-साम्य-लिङ्गाच् च (शारी.४.४.२१), मुक्तोपसृप्यव्यपदेशाच् च (शारी.१.३.२) इति। वृत्तिर् अपि जगद्-व्यापार-वर्जं समानो ज्योतिषा (बोधायन-वृत्तिः) इति। द्रमिड-भाष्य-कारश् च देवता-सायुज्याद् अ-शरीरस्यापि देवतावत् सर्वार्थ-सिद्धिस् स्यात् (ब्रह्मनन्दि) इत्याह।
+वक्ष्यति च 
+
+> जगद्-व्यापार-वर्जं -  
+प्रकरणाद्, अ-सन्निहितत्वाच् च (ब्र.सू.४.४.१७), 
+
+> भोग-मात्र-साम्य-लिङ्गाच् च (शारी.४.४.२१), 
+
+> मुक्तोपसृप्य-व्यपदेशाच् च (शारी.१.३.२) 
+
+इति। 
 </details>
 
 <details><summary>English</summary>
 
-The same view will be set forth by the Sūtrakāra in IV, 4, 17; 2l, and I, 3, 2. The Vr̥tti also says (with reference to Sū. IV, 4, 17) 'with the exception of the business of the world (the individual soul in the state of release) is equal (to the highest Self) through light'; and the author of the Dramiḍabhāshya says, 'Owing to its equality (sāyujya) with the divinity the disembodied soul effects all things, like the divinity.'
+The same view will be set forth by the Sūtrakāra in IV, 4, 17; 2l, and I, 3, 2. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वक्ष्यति च जगद्व्यापारवर्जं प्रकरणादसन्निहितत्वाच्च (ब्र.सू.४.४.१७), भोगमात्रसाम्यलिङ्गाच्च (शारी.४.४.२१), मुक्तोपसृप्यव्यपदेशाच्च (शारी.१.३.२) इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वृत्तिर् अपि 
+
+> जगद्-व्यापार-वर्जं समानो ज्योतिषा (बोधायन-वृत्तिः) 
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+The Vr̥tti also says (with reference to Sū. IV, 4, 17) 
+
+> 'with the exception of the business of the world (the individual soul in the state of release) is equal (to the highest Self) through light'; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वृत्तिरपि जगद्व्यापारवर्जं समानो ज्योतिषा (बोधायनवृत्तिः) इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्रमिड-भाष्य-कारश् च 
+
+> देवता-सायुज्याद्  
+अ-शरीरस्यापि देवतावत् सर्वार्थ-सिद्धिस् स्यात्  
+(ब्रह्मनन्दि-भाष्यम्) 
+
+इत्य् आह।
+</details>
+
+<details><summary>English</summary>
+
+and the author of the Dramiḍabhāshya says, 
+
+> 'Owing to its equality (sāyujya) with the divinity the disembodied soul effects all things, like the divinity.'
 </details>
 
 <details><summary>मूलम्</summary>
 
-वक्ष्यति च जगद्व्यापारवर्जं प्रकरणादसन्निहितत्वाच्च (ब्र.सू.४.४.१७), भोगमात्रसाम्यलिङ्गाच्च (शारी.४.४.२१), मुक्तोपसृप्यव्यपदेशाच्च (शारी.१.३.२) इति। वृत्तिरपि जगद्व्यापारवर्जं समानो ज्योतिषा (बोधायनवृत्तिः) इति। द्रमिडभाष्यकारश्च देवतासायुज्यादशरीरस्यापि देवतावत्सर्वार्थसिद्धिस्स्यात् (ब्रह्मनन्दि) इत्याह।
+द्रमिडभाष्यकारश्च देवतासायुज्यादशरीरस्यापि देवतावत्सर्वार्थसिद्धिस्स्यात् (ब्रह्मनन्दि) इत्याह।
 </details>
+
+#### श्रुतयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रुतयश् च य इहात्मानम् अनुविद्य व्रजन्त्य् एतांश् च सत्यान् कामान् तेषां सर्वेषु लोकेषु काम-चारो भवति (छां.८.प्र.१.ख.६), ब्रह्म-विद् आप्नोति परं सो ऽश्नुते सर्वान् कामान् सह। [[ब्रह्मणा विपिश्चता|ब्रह्मणा विपश्चिता]] (तै.आन.१अनु.१,२), एतम् आनन्द-मयम् आत्मानम् उपसङ्क्रम्य। इमान् लोकान् कामान्नी काम-रूप्य् अनुसञ्चरन् (तै.भृगु.१०अनु.५), स तत्र पर्येति (छा.८.१२.३), रसो वै सः। रसं ह्येवायं लब्ध्वा ऽऽनन्दी भवति (तै.आ.७.अनु.१), यथा नद्यः स्यन्दमानास् समुद्रे अस्तं गच्छन्ति नाम-रूपे विहाय। तथा विद्वान् नाम-रूपाद् वि-मुक्तः परात्परं पुरुषम् उपैति दिव्यम् (मु.३.२.८), तदा विद्वान् पुण्य-पापे विधूय निरञ्जनः परमं साम्यम् उपैति (मु.३.१.३) इत्याद्याः।
+श्रुतयश् च 
+
+> य इहात्मानम् अनुविद्य व्रजन्त्य्  
+एतांश् च सत्यान् कामान्  
+तेषां सर्वेषु लोकेषु काम-चारो भवति  
+(छां.८.प्र.१.ख.६), 
+
+> ब्रह्म-विद् आप्नोति परम्।  
+
+> सो ऽश्नुते सर्वान् कामान् सह ब्रह्मणा विपश्चिता (तै.आन.१अनु.१,२) +++(←सहयोगोऽप्रधाने तृतीया)+++। 
+
+> एतम् आनन्द-मयम् आत्मानम् उपसङ्क्रम्य।  
+इमान् लोकान् कामान्नी काम-रूप्य् अनुसञ्चरन्  
+(तै.भृगु.१०अनु.५), 
+
+> स तत्र पर्येति (छा.८.१२.३), 
+
+> रसो वै सः।  
+रसं ह्य् एवायं लब्ध्वा ऽऽनन्दी भवति  
+(तै.आ.७.अनु.१), 
+
+> यथा नद्यः स्यन्दमानास् समुद्रे अस्तं गच्छन्ति  
+नाम-रूपे विहाय,  
+तथा विद्वान् नाम-रूपाद् वि-मुक्तः  
+परात् परं पुरुषम् उपैति दिव्यम्  
+(मु.३.२.८), 
+
+> तदा विद्वान् पुण्य-पापे विधूय  
+निरञ्जनः परमं साम्यम् उपैति  
+(मु.३.१.३) 
+
+इत्य्-आद्याः।
 </details>
 
 <details><summary>English</summary>
@@ -12061,36 +12153,131 @@ The following scriptural texts establish the same view, 'Those who depart from h
 श्रुतयश्च य इहात्मानमनुविद्य व्रजन्त्येतांश्च सत्यान् कामांस्तेषां सर्वेषु लोकेषु कामचारो भवति (छां.८.प्र.१.ख.६), ब्रह्मविदाप्नोति परं सोऽश्नुते सर्वान् कामान् सह। ब्रह्मणा विपिश्चता (तै.आन.१अनु.१,२), एतमानन्दमयमात्मानमुपसङ्क्रम्य। इमान् लोकान् कामान्नी कामरूप्यनुसञ्चरन् (तै.भृगु.१०अनु.५), स तत्र पर्येति (छा.८.१२.३), रसो वै सः। रसं ह्येवायं लब्ध्वाऽऽनन्दी भवति (तै.आ.७.अनु.१), यथा नद्यः स्यन्दमानास्समुद्रे अस्तं गच्छन्ति नामरूपे विहाय। तथा विद्वान्नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् (मु.३.२.८), तदा विद्वान् पुण्यपापे विधूय निरञ्जनः परमं साम्यमुपैति (मु.३.१.३) इत्याद्याः।
 </details>
 
-### उपासनं सगुणब्रह्मण एव
+### सगुणो ह्य् उपास्यः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पर-विद्यासु सर्वासु स-गुणम् एव ब्रह्म उपास्यम्। फलं चैक-रूपम् एव। अतो विद्या-विकल्प इति सूत्रकारेणैव आनन्दादयः प्रधानस्य (ब्र.सू.३.३.११), विकल्पो ऽविशिष्ट-फलत्वात् (ब्र.सू.३.३.७५) इत्य् आदिषूक्तम्। वाक्यकारेण च स-गुणस्यैवोपास्यत्वं विद्या-विकल्पश् चोक्तः – युक्तं तद्-गुणकोपासनात् इति। भाष्यकृता व्याख्यातं च यद्यपि सच्-चित्तः इत्य् आदिना।
+पर-विद्यासु सर्वासु स-गुणम् एव ब्रह्म उपास्यम्।  
+फलं चैक-रूपम् एव। 
 </details>
 
 <details><summary>English</summary>
 
-The objects of meditation in all the vidyās which refer to the highest Brahman, are Brahman viewed as having qualities, and the fruit of all those meditations. For this reason the author of the Sūtras declares that there is option among the different vidyās – cp. Ve. Sū. III, 3, 11; III, 3, 59. In the same way the Vākyakāra teaches that the qualified Brahman only is the object of meditation, and that there is option of vidyās; where he says '(Brahman) connected (with qualities), since the meditation refers to its qualities.' The same view is expressed by the Bhāshyakāra in the passage beginning 'Although he who bases himself on the knowledge of Being.'--
+The objects of meditation in all the vidyās which refer to the highest Brahman, are Brahman viewed as having qualities, and the fruit of all those meditations. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-परविद्यासु सर्वासु सगुणमेव ब्रह्मोपास्यम्। फलं चैकरूपमेव। अतो विद्याविकल्प इति सूत्रकारेणैव आनन्दादयः प्रधानस्य (ब्र.सू.३.३.११), विकल्पोऽविशिष्टफलत्वात् (ब्र.सू.३.३.७५) इत्यादिषूक्तम्। वाक्यकारेण च सगुणस्यैवोपास्यत्वं विद्याविकल्पश्चोक्तः – युक्तं तद्गुणकोपासनात् इति। भाष्यकृता व्याख्यातं च यद्यपि सच्चित्तः इत्यादिना।
+परविद्यासु सर्वासु सगुणमेव ब्रह्मोपास्यम्। फलं चैकरूपमेव। 
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म वेद ब्रह्मैव भवति (मु.३.२.९) इत्य् अत्रापि नाम-रूपाद्विमुक्तः परात्परं पुरुषम् उपैति दिव्यम् (मु.३.२.८), निरञ्जनः परमं साम्यम् उपैति (मु.३.१.३), परं ज्योतिर् उपसम्पद्य स्वेन रूपेणाभिनिष्पद्यते (छा.८.१२.२) इत्य् आदिभिरैकार्थ्यात् प्राकृत-नामरूपाभ्यां विनिर्मुक्तस्य निरस्त-तत्-कृत-भेदस्य ज्ञानैकाकारतया ब्रह्म-प्रकारतोच्यते। प्रकारैक्ये च तत्त्व-व्यवहारो मुख्य एव; यथा सेयं गौरिति॥
+अतो "विद्या-विकल्प" इति सूत्रकारेणैव  
+
+> आनन्दादयः प्रधानस्य (ब्र.सू.३.३.११), 
+
+> विकल्पो ऽविशिष्ट-फलत्वात् (ब्र.सू.३.३.७५) 
+
+इत्य् आदिषूक्तम्। 
 </details>
 
 <details><summary>English</summary>
 
-Texts such as 'He knows Brahman, he becomes Brahman' (Mu. Up. III, 2, 9) have the same purport, for they must be taken in connexion with the other texts (referring to the fate of him who knows) such as 'Freed from name and form he goes to the divine Person who is higher than the high'; 'Free from stain he reaches the highest oneness' (Mu. Up. III, 2, 8; III, 1,3); 'Having approached the highest light he manifests himself in his own shape' (Kh. Up. VIII, 3, 4). Of him who has freed himself from his ordinary name and form, and all the distinctions founded thereon, and has assumed the uniform character of intelligence, it may be said that he is of the character of Brahman.--
+For this reason the author of the Sūtras declares that there is option among the different vidyās – cp. Ve. Sū. III, 3, 11; III, 3, 59. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो विद्याविकल्प इति सूत्रकारेणैव आनन्दादयः प्रधानस्य (ब्र.सू.३.३.११), विकल्पोऽविशिष्टफलत्वात् (ब्र.सू.३.३.७५) इत्यादिषूक्तम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाक्यकारेण च  
+स-गुणस्यैवोपास्यत्वं विद्या-विकल्पश् चोक्तः –  
+
+> +++(गुण-)+++युक्तं तद्-गुणकोपासनात् 
+
+इति।  
+</details>
+
+<details><summary>English</summary>
+
+In the same way the Vākyakāra teaches that the qualified Brahman only is the object of meditation, and that there is option of vidyās; where he says '(Brahman) connected (with qualities), since the meditation refers to its qualities.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वाक्यकारेण च सगुणस्यैवोपास्यत्वं विद्याविकल्पश्चोक्तः – युक्तं तद्गुणकोपासनात् इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भाष्यकृता व्याख्यातं च  
+
+> यद्य् अपि सच्-चित्तः 
+
+इत्य्-आदिना।
+</details>
+
+<details><summary>English</summary>
+
+The same view is expressed by the Bhāshyakāra in the passage beginning 'Although he who bases himself on the knowledge of Being.'--
 </details>
 
 <details><summary>मूलम्</summary>
 
-ब्रह्म वेद ब्रह्मैव भवति (मु.३.२.९) इत्यत्रापि नामरूपद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् (मु.३.२.८), निरञ्जनः परमं साम्यमुपैति (मु.३.१.३), परं ज्योतिरुपसम्पद्य स्वेन रूपेणाभिनिष्पद्यते (छा.८.१२.२) इत्यादिभिरैकार्थ्यात् प्राकृतनामरूपाभ्यां विनिर्मुक्तस्य निरस्ततत्कृतभेदस्य ज्ञानैकाकारतया ब्रह्मप्रकारतोच्यते। प्रकारैक्ये च तत्त्वव्यवहारो मुख्य एव; यथा सेयं गौरिति॥
+भाष्यकृता व्याख्यातं च यद्यपि सच्चित्तः इत्यादिना।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ब्रह्म वेद ब्रह्मैव भवति (मु.३.२.९) 
+
+इत्य्-अत्रापि 
+
+> नाम-रूपाद् विमुक्तः  
+परात् परं पुरुषम् उपैति दिव्यम् (मु.३.२.८), 
+
+> निरञ्जनः परमं साम्यम् उपैति (मु.३.१.३), 
+
+> परं ज्योतिर् उपसम्पद्य  
+स्वेन रूपेणाभिनिष्पद्यते (छा.८.१२.२) 
+
+इत्य्-आदिभिर् ऐकार्थ्यात्  
+प्राकृत-नाम-रूपाभ्यां विनिर्मुक्तस्य  
+निरस्त-तत्-कृत-भेदस्य  
++++(अकुण्ठित-)+++ज्ञानैकाकारतया ब्रह्म-+++(सारूप्यम्=)+++प्रकारतोच्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Texts such as 'He knows Brahman, he becomes Brahman' (Mu. Up. III, 2, 9) have the same purport, for they must be taken in connexion with the other texts (referring to the fate of him who knows) such as 'Freed from name and form he goes to the divine Person who is higher than the high'; 'Free from stain he reaches the highest oneness' (Mu. Up. III, 2, 8; III, 1,3); 'Having approached the highest light he manifests himself in his own shape' (Kh. Up. VIII, 3, 4). 
+
+Of him who has freed himself from his ordinary name and form, and all the distinctions founded thereon, and has assumed the uniform character of intelligence, it may be said that he is of the character of Brahman.--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म वेद ब्रह्मैव भवति (मु.३.२.९) इत्यत्रापि नामरूपद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् (मु.३.२.८), निरञ्जनः परमं साम्यमुपैति (मु.३.१.३), परं ज्योतिरुपसम्पद्य स्वेन रूपेणाभिनिष्पद्यते (छा.८.१२.२) इत्यादिभिरैकार्थ्यात् प्राकृतनामरूपाभ्यां विनिर्मुक्तस्य निरस्ततत्कृतभेदस्य ज्ञानैकाकारतया ब्रह्मप्रकारतोच्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकारैक्ये च तत्त्व-व्यवहारो मुख्य एव;  
+यथा - "+++(पुरा दृष्टा)+++ सेयं गौर्" इति +++(प्रत्यभिज्ञाने)+++॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रकारैक्ये च तत्त्वव्यवहारो मुख्य एव; यथा सेयं गौरिति॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
