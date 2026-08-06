@@ -13537,8 +13537,8 @@ the 'hiding' or 'making to disappear' of light can only mean its destruction.
 
 अपि च 
 
-> निर्-विषया निराश्रया स्वप्रकाशेयम् अनुभूतिः  
-स्वाश्रय-दोषवशाद्  
+> निर्-विषया निराश्रया स्व-प्रकाशेयम् अनुभूतिः  
++++(विचारयिष्यमाण-)+++स्वाश्रय-दोष-वशाद्  
 अनन्ताश्रयम् अनन्त-विषयम् आत्मानम् अनुभवति
 
 इत्य् अत्र 
@@ -13560,6 +13560,8 @@ Consider the following point also. Your theory is that
 स्वाश्रयदोषवशाद् अनन्ताश्रयम् अनन्त-विषयम् आत्मानम् अनुभवति +इत्य् अत्र 
 </details>
 
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किम् अयं स्वाश्रय-दोषः परमार्थ-भूतः? उतापरमार्थभूत इति विवेचनीयम्। 
@@ -13570,12 +13572,12 @@ Consider the following point also. Your theory is that
 Is then, we ask, that imperfection residing within consciousness something real or something unreal?--
 </details>
 
-#### न परमार्थः
 <details><summary>मूलम्</summary>
 
 किम् अयं स्वाश्रयदोषः परमार्थ-भूतः? उतापरमार्थभूत इति विवेचनीयम्। 
 </details>
 
+#### न परमार्थः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तावत् परमार्थः, +++(त्वयैव)+++ अनभ्युपगमात्। 
