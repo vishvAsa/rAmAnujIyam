@@ -12696,9 +12696,12 @@ The passage immediately following is 'Whatever being there is, powerful, beautif
 विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥ (भ.गी.१०.४१.४२) इति॥
 </details>
 
+### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतश् शास्त्रेषु न निर्-विशेष-वस्तु-प्रतिपादनम् अस्ति । नाप्य् अर्थ-जातस्य भ्रान्तत्व-प्रतिपादनम्। नापि चिद्-अचिद्-ईश्वराणां स्वरूप-भेद-निषेधः॥
+अतश् शास्त्रेषु न निर्-विशेष-वस्तु-प्रतिपादनम् अस्ति ।  
+नाप्य् अर्थ-जातस्य भ्रान्तत्व-प्रतिपादनम्।  
+नापि चिद्-अचिद्-ईश्वराणां स्वरूप-भेद-निषेधः॥
 </details>
 
 <details><summary>English</summary>
@@ -12716,6 +12719,12 @@ All this clearly proves that the authoritative books do _not_ teach the doctrine
 
 सप्त-विधाः अनुपपत्तयः॥
 </details>
+
+<details><summary>English</summary>
+
+The theory of Nescience cannot be proved.
+</details>
+
 
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -12944,7 +12953,8 @@ You cannot reply 'the individual soul'; for the individual soul itself exists in
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि ब्रह्माश्रित्य;  
-तस्य स्वयं-प्रकाश-ज्ञान-स्वरूपत्वेनाविद्या-विरोधित्वात्।  
+तस्य स्वयं-प्रकाश-ज्ञान-स्वरूपत्वेन  
+अविद्या-विरोधित्वात्।  
 सा हि ज्ञानबाध्याभिमता॥
 </details>
 
