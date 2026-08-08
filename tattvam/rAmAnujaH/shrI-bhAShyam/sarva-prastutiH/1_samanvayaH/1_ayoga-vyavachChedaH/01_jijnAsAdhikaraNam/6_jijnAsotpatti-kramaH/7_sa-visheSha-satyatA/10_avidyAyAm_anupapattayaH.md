@@ -2947,10 +2947,17 @@ Let it then be said [^112_1] that ajṇāna having first hidden Brahman then bec
 तिरस्कार-पूर्वकानुभव-पक्षं शङ्कते ब्रह्मेति । तिरस्कृत्यानुभव-विषय इत्य् उक्ते सत्तया तिरस्कारकम् इति १ उक्तेः, न तु प्रतीयमानतया । तदानीं काचादिवत् परमार्थत्वेन ज्ञान-निबर्त्यत्वं न सिध्यतीत्य् अर्थः ।
 </details>
 
-
+#### युगपत् तिरोधानानुभवौ?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथेदम् अज्ञानं स्वयम् अनादि, [[ब्र्मणस्|ब्रह्मणस्]] स्व-साक्षित्वं ब्रह्म-स्वरूप-तिरस्कृतिं च युगपद् एव करोति।
+अथ
+
+> इदम् अज्ञानं स्वयम् अनादि,  
+ब्रह्मणस् स्व-साक्षित्वं ब्रह्म-स्वरूप-तिरस्कृतिं च  
+युगपद् एव करोति।
+अतो नानवस्थादयो दोषा 
+
+इति 
 </details>
 
 <details><summary>English</summary>
@@ -2960,7 +2967,7 @@ Let us then put the case as follows:--Ajṇāna, which is by itself beginningles
 
 <details><summary>मूलम्</summary>
 
-अथेदमज्ञानं स्वयमनादि, ब्र्मणस्स्वसाक्षित्वं ब्रह्मस्वरूपतिरस्कृतिं च युगपदेव करोति।
+अथेदमज्ञानं स्वयमनादि, ब्रह्मणस्स्वसाक्षित्वं ब्रह्मस्वरूपतिरस्कृतिं च युगपदेव करोति।
 </details>
 
 <details><summary>टीका</summary>
@@ -2971,7 +2978,9 @@ Let us then put the case as follows:--Ajṇāna, which is by itself beginningles
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो नानवस्थादयो दोषा इति नैतत्; स्वानुभव-स्वरूपस्य [[ब्र्मणस्|ब्रह्मणस्]] स्वरूप-तिरस्कृतिम् अन्तरेण साक्षित्वापादनायोगात्।
+नैतत्;  
+स्वानुभव-स्वरूपस्य ब्रह्मणस् स्वरूप-तिरस्कृतिम् अन्तरेण  
+साक्षित्वापादनायोगात्।
 </details>
 
 <details><summary>English</summary>
@@ -2981,7 +2990,7 @@ But this also we cannot admit; for Brahman is essentially consciousness of Self,
 
 <details><summary>मूलम्</summary>
 
-अतो नानवस्थादयो दोषा इति नैतत्; स्वानुभवस्वरूपस्य ब्र्मणस्स्वरूपतिरस्कृतिमन्तरेण साक्षित्वापादनायोगात्।
+अतो नानवस्थादयो दोषा इति नैतत्; स्वानुभवस्वरूपस्य ब्रह्मणस्स्वरूपतिरस्कृतिमन्तरेण साक्षित्वापादनायोगात्।
 </details>
 
 <details><summary>टीका</summary>
@@ -2992,7 +3001,8 @@ But this also we cannot admit; for Brahman is essentially consciousness of Self,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हेत्व् अन्तरेण तिरस्कृतम् इति चेत्, तर्ह्य् अस्यानादित्वम् अपास्तम्।
+"हेत्व्-अन्तरेण तिरस्कृतम्" इति चेत्,  
+तर्ह्य् अस्यानादित्वम् अपास्तम्।
 </details>
 
 <details><summary>English</summary>
@@ -3034,7 +3044,8 @@ And the infinite regress was already mentioned before.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतिरस्कृत-स्वरूपस्यैव साक्षित्वापादने ब्रह्मणस् स्वानुभवैकतानता च न स्यात्॥
+अ-तिरस्-कृत-स्वरूपस्यैव साक्षित्वापादने  
+ब्रह्मणस् स्वानुभवैकतानता च न स्यात्॥
 </details>
 
 <details><summary>English</summary>
@@ -3053,21 +3064,25 @@ And if Brahman were assumed to become a witness, without its essential nature be
 </details>
 
 
-## पूर्वोक्तविशदाविशदावभासदूषणम्
+#### पूर्वोक्तविशदाविशदावभासदूषणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च – अविद्यया ब्रह्मणि तिरोहिते तद् ब्रह्म न किञ्चिद् अपि प्रकाशते?
+अपि च – अविद्यया ब्रह्मणि तिरोहिते  
+तद् ब्रह्म न किञ्चिद् अपि प्रकाशते?  
+उत किञ्चित् प्रकाशते?
 </details>
 
 <details><summary>English</summary>
 
 If, moreover, Brahman is hidden by avidyā, does it then not shine forth at all,
+or does it shine forth to some extent?
 </details>
 
 <details><summary>मूलम्</summary>
 
 अपि च – अविद्यया ब्रह्मणि तिरोहिते तद्ब्रह्म न किञ्चिदपि प्रकाशते?
+उत किञ्चित्प्रकाशते?
 </details>
 
 <details><summary>टीका</summary>
@@ -3078,23 +3093,8 @@ If, moreover, Brahman is hidden by avidyā, does it then not shine forth at all,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत किञ्चित् प्रकाशते?
-</details>
-
-<details><summary>English</summary>
-
-or does it shine forth to some extent?
-</details>
-
-<details><summary>मूलम्</summary>
-
-उत किञ्चित्प्रकाशते?
-</details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-पूर्वस्मिन् कल्पे प्रकाश-मात्र-स्वरूपस्य ब्रह्मणो ऽप्रकाशे तुच्छतापत्तिर् असकृद् उक्ता।
+पूर्वस्मिन् कल्पे प्रकाश-मात्र-स्वरूपस्य  
+ब्रह्मणो ऽप्रकाशे तुच्छताऽऽपत्तिर् असकृद् उक्ता।
 </details>
 
 <details><summary>English</summary>
