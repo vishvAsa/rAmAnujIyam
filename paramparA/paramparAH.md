@@ -371,3 +371,14 @@ Tatacharyas lost lot of sishyas in the 19th century since they lost the income f
 
 ### कॊङ्गु-प्रदेशः
 Lots of v4 vdk sishyas in Kongu area were lost to tks.
+
+### एकाङ्गि-सन्न्यासिनः
+non-v1 Ekangi "sanyasi"s among tenkalai Srivaisnavas
+
+There have been atleast 4 in the last 2 centuries
+
+1. Bhuvanagiri Ekangi (1860–1927). Purushothama Naidu was a disciple.
+2. Srinath Balakrsa Ekangi 
+3. Koyil Ekangi (1850-1907)
+4. Nampillai Ekangi (1903-1994)
+
