@@ -3168,7 +3168,8 @@ To that substance which is pure light, free from all division and distinction, t
 अविद्यया तिरोहित-स्वरूपम्  
 अ-विशदम् इव लक्ष्यत  
 
-इति प्रकाश-मात्र-स्वरूपस्य विशदताऽविशदता वा किं-रूपा।
+इति?  
+प्रकाश-मात्र-स्वरूपस्य विशदताऽविशदता वा किं-रूपा?
 </details>
 
 <details><summary>English</summary>
@@ -3186,7 +3187,7 @@ Let us then say that Brahman, which is homogeneous being, intelligence, bliss, h
 एवं प्रकाश-तिरस्कारयोयर्ौगपद्यानुपपत्तौ सत्याम् अप्य् अविशद-शब्देन प्रत्यवतिष्ठते अथेति । अथ-शब्दो ऽनुमति-प्रदाने वर्तते । दूषयति - प्रकाशेति । किंरूपा । अनुपपन्नेत्य् अर्थः ।
 </details>
 
-
+###### सविशेषे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् उक्तं भवति –  
@@ -3208,14 +3209,13 @@ When an object of light which has parts and distinguishing attributes appears in
 <details><summary>टीका</summary>
 
 कथम् अनुपपत्तिर् इति शङ्कायां वैशद्यावैशद्य-स्वरूपं शिक्षयितुम् अत्र तदनुपपत्तिञ् च दशर्यितुम् आह - एतदुक्तम् इति वेशद्य-स्वरूपं शिक्षयति - यस्सांश इत्यादिना ।
-</details>
+</details>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र य आकारो ऽप्रतिपन्नस्  
-तस्मिन् अंशे  
-प्रकाशाभावाद् एव  
+तस्मिन् अंशे प्रकाशाभावाद् एव  
 प्रकाशावैशद्यं न विद्यते।
 </details>
 
@@ -3237,7 +3237,8 @@ Now in those aspects of the thing which do not appear, light (illumination) is a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यच् चांशः प्रतिपन्नस् तस्मिन् अंशे तद्-विषय-प्रकाशो विशद एव।
+यच् चांशः प्रतिपन्नस्  
+तस्मिन् अंशे तद्-विषय-प्रकाशो विशद एव।
 </details>
 
 <details><summary>English</summary>
@@ -3253,7 +3254,8 @@ in those parts on the other hand which do appear, the light of which they are th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस् सर्वत्र प्रकाशांशे अवैशद्यं न सम्भवति।
+अतस् सर्वत्र प्रकाशांशे  
+अवैशद्यं न सम्भवति।
 </details>
 
 <details><summary>English</summary>
@@ -3269,7 +3271,8 @@ Indistinctness is thus not possible at all where there is light.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विषये ऽपि स्वरूपे प्रतीयमाने तद्गत-कतिपय-विशेषाप्रतीतिर् एवावैशद्यम्।
+विषये ऽपि स्वरूपे प्रतीयमाने  
+तद्-गत-कतिपय-विशेषाप्रतीतिर् एवावैशद्यम्।
 </details>
 
 <details><summary>English</summary>
@@ -3288,9 +3291,13 @@ In the case of such things as are apprehended as objects, indistinctness may tak
 </details>
 
 
+###### निर्विशेषे न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद् अविषये निर्विशेषे प्रकाश-मात्रे ब्रह्मणि स्वरूपे प्रकाशमाने तद्गत-कतिपय-विशेषाप्रतीति-रूपावैशद्यं नामाज्ञान-कार्यं न सम्भवति।
+तस्माद्, अविषये निर्विशेषे प्रकाश-मात्रे ब्रह्मणि  
+स्वरूपे प्रकाशमाने  
+तद्-गत-कतिपय-विशेषाप्रतीति-रूपावैशद्यं नाम  
+अज्ञान-कार्यं न सम्भवति।
 </details>
 
 <details><summary>English</summary>
@@ -3309,11 +3316,17 @@ But in Brahman, which is not an object, without any distinguishing attributes, p
 </details>
 
 
-## विशदाविशदावभासस्यैव मुखान्तरेण दूषणम्
+###### ??
+<details><summary>विषयः</summary>
+
+विशदाविशदावभासस्यैव मुखान्तरेण दूषणम्
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च – इदम् अविद्या-कार्यम् अवैशद्यं तत्त्वज्ञानोदयान् निवर्तते न वा?
+अपि च – इदम् अविद्या-कार्यम्  
+अवैशद्यं तत्त्व-ज्ञानोदयान् निवर्तते न वा?
 </details>
 
 <details><summary>English</summary>
