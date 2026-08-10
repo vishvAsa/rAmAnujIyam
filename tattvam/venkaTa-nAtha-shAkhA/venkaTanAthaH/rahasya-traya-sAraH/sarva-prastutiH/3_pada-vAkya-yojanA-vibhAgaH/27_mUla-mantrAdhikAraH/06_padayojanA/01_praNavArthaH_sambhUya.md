@@ -11,8 +11,8 @@ THE MEANING OF PRAŅAVA AND ITS POTENCY:
 El significado de praņava y su potencia:
 </details>
 
-## स्वतन्त्रार्थः
-
+## अखण्डार्थो ऽन्यत्र
+### स्वतन्त्र-प्रयोगे
 <details><summary>विजय-राघवः (क) - अवतारिका</summary>
 
 **मुन्दॆ प्रणवद स्व-तन्त्र-स्थितियल्लू इतर-मन्त्रगळॊन्दिगॆ सेरिरुवागलू बोधितार्थगळन्नु तिळिसुत्तारॆ.** 
@@ -132,7 +132,7 @@ para **denotar** a Brahman como efecto (Kārya) o Brahman como causa (Kāraṇa)
 </details>
 
 
-## अविभागेन भगवद्-वाचिता
+### व्यापक-मन्त्रेष्व् अपि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यापक-मन्त्रङ्गळिलुम्  
@@ -185,7 +185,7 @@ y como **denotando** entonces el yo supremo.
 </details>
 
 
-## महत्त्वम्
+### महत्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदिऩ् प्रभावम् 
@@ -301,7 +301,7 @@ La grandeza y la gloria de Praṇava **son** bien **conocidos** por pasajes como
 </details>
 
 
-## आत्म-समर्पणम्
+### आत्म-समर्पणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु 
@@ -455,7 +455,8 @@ Por la misma razón, algunos **lo interpretan** incluso aquí como **denotación
 
 </details>
 
-## शेषत्व-स्वरूपम्
+## सखण्डार्थः 
+### शेषत्व-स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व्-इडत्तिल् 
@@ -556,8 +557,8 @@ Si **es** así, **contribuye** con una calificación o elemento de competencia p
 
 </details>
 
-## विशुद्धिर् आर्था
-### शेषत्व-ज्ञानार्थय् अधिकार-परः
+### विशुद्धिर् आर्था
+#### शेषत्व-ज्ञानार्थय् अधिकार-परः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘क्षेत्र-ज्ञस्येश्वर-ज्ञानाद्  
@@ -637,7 +638,7 @@ Cuando **consideramos** que praṇava solo **da** un **conocimiento** del Śeṣ
 
 </details>
 
-### उपायार्थे मोक्षपरम्
+#### उपायार्थे मोक्षपरम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -701,8 +702,8 @@ La 'pureza suprema' **significaría** mokṣa.
 
 इप् प्रणवार्थानुसन्धान-क्रमत्तै 
 
-> ‘‘ईदृशः परमात्मा ऽयं  
-प्रत्यग्-आत्मा तथेदृशः ।  
+> ‘‘+++("अ"→)+++ ईदृशः परमात्मा ऽयं  
++++("म्"→)+++ प्रत्यग्-आत्मा तथेदृशः ।  
 तत्-**सम्बन्धानुसन्धानम्**  
 इति **योगः प्रकीर्तितः**॥’’  
 (शाण्डिल्य-स्मृतिः ५-१७) 
@@ -714,8 +715,8 @@ La 'pureza suprema' **significaría** mokṣa.
 
 एतत्-प्रणवार्थानुसन्धान-क्रमम्, 
 
-> ‘‘ईदृशः परमात्मा ऽयं  
-प्रत्यग्-आत्मा तथेदृशः ।  
+> ‘‘+++("अ"→)+++ ईदृशः परमात्मा ऽयं  
++++("म्"→)+++ प्रत्यग्-आत्मा तथेदृशः ।  
 तत्-**सम्बन्धानुसन्धानम्**  
 इति **योगः प्रकीर्तितः**॥’’  
 (शाण्डिल्य-स्मृतिः ५-१७) 
@@ -769,7 +770,7 @@ y el Jīva **es** de tal y tal naturaleza.
 
 </details>
 
-## शेषत्वार्थ-विवरणम्
+### शेषत्वार्थ-विवरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्तै 
@@ -901,7 +902,7 @@ y **es** la **esencia** de los (tres) Vedas **revela** este significado ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ’’कण्ण-बुरम् ऒऩ्ऱ्-उडैयाऩुक्क् +++(←"अ")+++ **अडियेय्**+++(→"म्")+++,  
+> ’’कण्ण-पुरम्-ऒऩ्ऱ्-उडैयाऩुक्क् +++(←"अ")+++ **अडियेय्**+++(→"म्")+++,  
 +++(अन्यस्मै)+++ ऒरुवर्क्क् उरियेऩोव्+++(=योग्यः)+++? +++(←"उ")+++’’  
 (पॆरियदिरुमॊऴि ८-५-३)  
 
@@ -965,7 +966,7 @@ El Señor de Tirukkannapuram;
 
 </details>
 
-## वेद-त्रयम्
+### वेद-त्रयम्
 
 <details><summary>विजय-राघवः (क) - अवतारिका</summary>
 

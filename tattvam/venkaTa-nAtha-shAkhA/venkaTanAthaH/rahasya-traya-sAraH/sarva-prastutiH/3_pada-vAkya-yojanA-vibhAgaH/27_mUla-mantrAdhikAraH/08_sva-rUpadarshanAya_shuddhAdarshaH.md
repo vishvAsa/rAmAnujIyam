@@ -177,6 +177,13 @@ y que también **están implícitos** en este mantra,
 रक्षकत्वम्,
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+इत आरभ्य+ उच्यमाना गुणाः  
+कस्मिंश्चन दिव्यदेशे ऽर्चनायाम् प्रयुज्यन्ते संस्कृतेनानूद्य।
+</details>
+
+
 <details><summary>नीलमेघः (सं)</summary>
 
 रक्षकत्वम्,

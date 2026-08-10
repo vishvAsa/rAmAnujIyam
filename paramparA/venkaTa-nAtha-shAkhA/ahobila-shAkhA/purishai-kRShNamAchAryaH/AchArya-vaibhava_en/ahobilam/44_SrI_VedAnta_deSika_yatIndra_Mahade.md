@@ -8,8 +8,7 @@ Born at the holy village of Mukkur in North Arcot (presently Tiruvannamalai) Dis
 
 Tributes to this Azhagiasingar 1. Mangalam by Villivalam Srimad Azhagiasingar 2. Numerous eulogies submitted by eminent vidvans in prose and
    poetry
-3. The Master Preceptor—a comprehensive biography of the
-   Mukkur Mahan
+3. The Master Preceptor—a comprehensive biography of the Mukkur Mahan
 
 
 
