@@ -113,6 +113,13 @@ Bhagavān, quien **es** el **apoyo** de todo, **se denota**;
 ब्रह्मणोऽपि स्वभावतः ॥+++(5)+++
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+उच्चारससमये ऽकार-प्रयत्नो हि मुक्ततमो भवति (संवृतत्वम् अन्तरा)।  
+अन्ये वर्णास् तत्-सङ्कोचेनैव जायन्ते।
+</details>
+
+
 <details><summary>नीलमेघः (सं)</summary>
 
 > समस्त-शब्द-मूलत्वाद्  
@@ -547,6 +554,12 @@ Todo esto **es evidente** por el Nighantus y el **uso** de académicos.
 
 सर्व-रक्षकत्वादि-विशिष्टऩ् आगक् काट्टुम्।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अवतेर् २१ अर्था उच्यन्ते। ते सर्वे ऽपि ग्राह्याः।
+</details>
+
 
 <details><summary>नीलमेघः (सं)</summary>
 
