@@ -39,6 +39,8 @@ But since Kashakrtsnas daivi mimamsa supposedly has sa vishnur aha hi and tam br
 - गम्भीर-न्याय-सागर-भाषी श्रीवत्साङ्कमिश्रः
   - छान्दोग्योपनिषदि - भाष्यम्
   - उल्लेखस्थानम् - यामुन आत्मसिद्धौ
+- Vedāntasūtropanyāsa composed by Śaṅkara, the son of the very ancient Yajñeśvara
+  - उल्लेखस्थानम् - मेघनादारिसूरिः न्यायप्रकाशिकायाम्
 - वामनष् टीकाकारः
   - छान्दोग्योपनिषदि - टीका
 - गुह-देवः, कपर्दि-भारुची - छान्दोग्योपनिषदि? 
@@ -158,6 +160,11 @@ Sukhaduḥkhādhikaraṇa is the sixth section of the first pāda of Nathamuni's
 >
 > Uttaradhi matha chronicles record that temple officials were tortured for money and valuables. It was not a good time for SVs back then. Persons named ramanuja, ramachandra etc were specifically targeted as per uttaradhi matha chronicle of satyaabhinava tirthas time. UM guys say that this ramanuja and ramachandra were the  tatacharyas of that time.  
 </details>
+
+## Interpolations
+mahopanishad is an example for interpolation by shAnkarans.  
+You cant dismiss the possibility of interpolation by our own fanatics.  
+One finds sadanuShThAna darpaNa like quotes innocently repeated by otherwise good authorities.
 
 ## अप्रकाशिताः
 List of works of Kumara Varadacharya (सुन्दरमालोलतः):
