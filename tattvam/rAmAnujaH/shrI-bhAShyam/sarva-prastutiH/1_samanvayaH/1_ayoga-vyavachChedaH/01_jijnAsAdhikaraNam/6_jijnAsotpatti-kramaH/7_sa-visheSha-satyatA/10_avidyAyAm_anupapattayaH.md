@@ -3712,7 +3712,7 @@ and thus the whole supposition of ajñāna as an entity becomes useless.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टान्तश् च साधन-विकलः;   
-दीप-प्रभाया अ-प्रकाशितार्थ-प्रकाशकत्वाभावात्।
+दीप-प्रभाया अ-प्रकाशितार्थ-प्रकाशकत्वाभावात् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
 <details><summary>English</summary>
@@ -3731,9 +3731,10 @@ The proving instance, moreover, adduced by our opponent, has no proving power; f
 </details>
 
 
+##### प्रकाशकत्वं ज्ञानस्य
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वत्र ज्ञानस्यैव हि प्रकाशकत्वम्।
+सर्वत्र ज्ञानस्यैव हि प्रकाशकत्वम् –
 </details>
 
 <details><summary>English</summary>
@@ -3754,7 +3755,8 @@ Everywhere illumining power belongs to knowledge only;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्य् अपि दीपे ज्ञानेन विना विषय-प्रकाशाभावात्।
+सत्य् अपि दीपे  
+ज्ञानेन विना विषय-प्रकाशाभावात्।
 </details>
 
 <details><summary>English</summary>
@@ -3775,7 +3777,7 @@ there may be light, but if there is not also Knowledge there is no lighting up o
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रियाणाम् अपि ज्ञानोत्पत्ति-हेतुत्वम् एव; न प्रकाशकत्वम्।
+इन्द्रियाणाम् अपि ज्ञानोत्पत्ति-हेतुत्वम् एव; न प्रकाशकत्वम्। +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -3796,7 +3798,9 @@ The senses also are only causes of the origination of knowledge, and possess no 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रदीप-प्रभायास् तु चक्षुर्-इन्द्रियस्य ज्ञानम् उत्पादयतो विरोधि-तमो-निरसन-द्वारेण उपकारकत्व-मात्रम् एव।
+प्रदीप-प्रभायास् तु  
+चक्षुर्-इन्द्रियस्य ज्ञानम् उत्पादयतो  
+विरोधि-तमो-निरसन-द्वारेण उपकारकत्व-मात्रम् एव।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -3814,10 +3818,12 @@ The function of the light of the lamp on the other hand is a merely auxiliary on
 दीपप्रभायाः परम्परया ऽपि प्रकाशकत्वं दूरत इत्याह - प्रदीपेति ।
 </details>
 
-
+##### ज्ञानोत्पत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकाशक-ज्ञानोत्पत्तौ व्याप्रियमाण-चक्षुर्-इन्द्रियोपकारक-हेतुत्वम् अपेक्ष्य दीपस्य प्रकाशकत्व-व्यवहारः।
+प्रकाशक-ज्ञानोत्पत्तौ  
+व्याप्रियमाण- चक्षुर्-इन्द्रियोपकारक-हेतुत्वम् अपेक्ष्य  
+दीपस्य प्रकाशकत्व-व्यवहारः।
 </details>
 
 <details><summary>English</summary>
@@ -3835,10 +3841,13 @@ and it is only with a view to this auxiliary action that illumining power is con
 प्रकाशकत्व-व्यवहारः कथम् इत्य् आह - प्रकाशकेति ।
 </details>
 
-
+##### विषयावरण-निरसनम्?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नास्माभिर् ज्ञान-तुल्य-प्रकाशकत्वाभ्युपगमेन दीप-प्रभा निदर्शिता।
+> नास्माभिर् ज्ञान-तुल्य-प्रकाशकत्वाभ्युपगमेन दीप-प्रभा निदर्शिता।  
+अपि तु, ज्ञानस्यैव स्व-विषयावरण-निरसन-पूर्वक -प्रकाशकत्वम् अङ्गीकृत्य
+
+इति चेन् न।
 </details>
 
 <details><summary>English</summary>
@@ -3848,7 +3857,7 @@ But in using the light of the lamp as a proving instance, we did not mean to mai
 
 <details><summary>मूलम्</summary>
 
-नास्माभिर्ज्ञानतुल्य-प्रकाशकत्वाभ्युपगमेन दीपप्रभा निदर्शिता।
+नास्माभिर्ज्ञानतुल्य-प्रकाशकत्वाभ्युपगमेन दीपप्रभा निदर्शिता। अपि तु ज्ञानस्यैव स्वविषयावरणनिरसनपूर्वक-प्रकाशकत्वमङ्गीकृत्येति चेन्न, 
 </details>
 
 <details><summary>टीका</summary>
@@ -3859,7 +3868,8 @@ But in using the light of the lamp as a proving instance, we did not mean to mai
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि तु ज्ञानस्यैव स्व-विषयावरण-निरसन-पूर्वक-प्रकाशकत्वम् अङ्गीकृत्येति चेन् न, न हि विरोधिनिरसनमात्रं प्रकाशकत्वम्; अपि त्व् अर्थ-परिच्छेदः।
+न हि विरोधि-निरसन-मात्रं प्रकाशकत्वम्;  
+अपि त्व् अर्थ-परिच्छेदः।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -3869,7 +3879,7 @@ We refuse to accept this explanation. Illumining power does not only mean the di
 
 <details><summary>मूलम्</summary>
 
-अपि तु ज्ञानस्यैव स्वविषयावरणनिरसनपूर्वक-प्रकाशकत्वमङ्गीकृत्येति चेन्न, न हि विरोधिनिरसनमात्रं प्रकाशकत्वम्; अपि त्वर्थपरिच्छेदः।
+न हि विरोधिनिरसनमात्रं प्रकाशकत्वम्; अपि त्वर्थपरिच्छेदः।
 </details>
 
 <details><summary>टीका</summary>
@@ -3880,7 +3890,7 @@ We refuse to accept this explanation. Illumining power does not only mean the di
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यवहार-योग्यतापादनम् इति यावत्।
+व्यवहार-योग्यतापादनम् इति यावत्।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -3922,7 +3932,10 @@ and this belongs to knowledge only (not to the light of the lamp).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्य् उपकारकाणाम् अपि अप्रकाशितार्थ-प्रकाशकत्वम् अङ्गीकृतं, तर्हीन्द्रियाणाम् उपकारकतमत्वेनाप्रकाशितार्थ-प्रकाशकत्वम् अङ्गीकरणीयम्।
+यद्य् उपकारकाणाम् अपि  
+अ-प्रकाशितार्थ-प्रकाशकत्वम् अङ्गीकृतं,  
+तर्हीन्द्रियाणाम् उपकारकतमत्वेन  
+अ-प्रकाशितार्थ-प्रकाशकत्वम् अङ्गीकरणीयम्।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -3940,10 +3953,12 @@ If you allow the power of illumining what was not illumined, to auxiliary factor
 ननु न साध्याविशिष्टत्वं हेतोः । स्व-प्रागभाव-निरासकत्वं स्व-विषयावरण-निरसन-शब्देन विवक्षितम् । तेन भाव-रूप-निरसनीय-पूर्वकत्वं साध्यम् इति । न; स्व-प्रागभाव-निरासकत्वस्य हेतोर् इन्द्रिय-सहप्रयोगे अनैकान्तिकत्वात् । भासमानत्वे सति अप्रकाशितार्थ-प्रकाशकत्वादिति हेतौ विशेषिते ऽपि पूर्ववद् विकल्पः स्यात् । तत्र साक्षात्-पक्षे दृष्टान्तः साधन-विकलः । प्रणाड्येति पक्षे हेत्वसिद्धिः । तृतीये लिङ्गादौ व्यभिचारः । चतुर्थे साध्याविशिष्टता; भासमानत्व-विशेषितस्य विषयावरण-निरासकत्वस्यासंप्रतिपत्तेः ।
 </details>
 
-
+##### इन्द्रियवत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा सति तेषां [[स्वनिवर्त्य-??वस्त्वन्तरपूर्वकत्वाभावाद्धेतोः|स्वनिवर्त्य-स्वदेशगत-वस्त्वन्तर-पूर्वकत्वाभावाद् धेतोः]] अनैकान्त्यम् इत्य् अलम् अनेन॥
+तथा सति  
+तेषां स्व-निवर्त्य--स्व-देश-गत-- वस्त्व्-अन्तर-पूर्वकत्वाभावाद् धेतोर्  अनैकान्त्यम् +++(दृष्टान्ते)+++  
+इत्य् अलम् अनेन॥
 </details>
 
 <details><summary>English</summary>
@@ -3957,7 +3972,7 @@ and as in their case there exists no different thing to be terminated by their a
 </details>
 
 
-## भावरूपाज्ञानानुमानस्य प्रतिकूलतर्कपराहतिः
+#### प्रति-तर्कः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3982,7 +3997,9 @@ There are also formal inferences, opposed to the conclusion of the pūrvapakshin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-1. [[विवादाध्यासिमज्ञानं|विवादाध्यासितम् अज्ञानं]] न ज्ञानमात्र-ब्रह्माश्रयम्; अज्ञानत्वात्; शुक्तिकाद्य्-अज्ञान-वत्।
+1\. विवादाध्यासितम् अज्ञानं  
+न ज्ञानमात्र-ब्रह्माश्रयम्; अज्ञानत्वात्;  
+शुक्तिकाद्य्-अज्ञानवत्।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -4003,7 +4020,7 @@ Of the ajñāna under discussion, Brahman, which is mere knowledge, is not the s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञात्राश्रयं हि तत्।
+ज्ञात्र्-आश्रयं हि तत् +++(शुक्तिकाद्य्-अज्ञानम्)+++।
 </details>
 
 <details><summary>English</summary>
@@ -4024,7 +4041,9 @@ for such non-knowledge abides within the knowing subject.--
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-2. [[विवादाध्यासितमज्ञानं|विवादाध्यासितम् अज्ञानं]] न ज्ञान-मात्र-ब्रह्मावरणम्; अज्ञानत्वात्, शुक्तिकाद्य्-अज्ञान-वत्।
+2\. विवादाध्यासितम् अज्ञानं  
+न ज्ञान-मात्र-ब्रह्मावरणम्; अज्ञानत्वात्,  
+शुक्तिकाद्य्-अज्ञान-वत्।
 </details>
 
 <details><summary>English</summary>
