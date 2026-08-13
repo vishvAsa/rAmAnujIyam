@@ -37,3 +37,6 @@ Apart from this, Periya Svami seems to have written a separate khaNDana of vyAsa
 - विजयीन्द्र-भिक्षु-कृत- रामानुज-मत-निरासः
 - विजयीन्द्र-पराजयः Source: [TW](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/parakAla-shAkhA/vijayIndra-parAjayaH/)
 - सत्यप्रमोदकृत– विजयीन्द्र-विजय-वैभवम् - Source: [TW](/mAdhvam/tattvam/vijayIndra-tIrthAH/sarva-siddhAnta-sAra-vivechanam/satya-pramoda-vijayIndra-vijaya-vaibhavam)
+
+### तर्क-ताण्डवादि
+> Surapuram 'Sri Venkatacharya' has refuted Tarka Tandava?? - bhAskara-sharmA
