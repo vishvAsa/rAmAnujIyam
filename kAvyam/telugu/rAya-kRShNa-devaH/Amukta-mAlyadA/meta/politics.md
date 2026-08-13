@@ -1,6 +1,8 @@
 +++
 title = "Politics"
 +++
+Source: [TW](https://iks.iitgn.ac.in/wp-content/uploads/2020/01/Krishnadevaraya_and_his_political_theory_of_Vijayanagara.pdf)
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 > I would be very careful about the translation done by Rao and Schulman. I saw a book on Annamacharya translated by them. So far from the truth. - अद्वितीयः
@@ -351,3 +353,4 @@ The parallels between the *Āmukta-mālyada* and Faizi’s *Nal-Daman* are strik
 ---
 
 ### Appendix: A fresh translation of the *Rājanīti* section
+अन्यत्र निक्षिप्तम् - Source: [TW](/rAmAnujIyam/kAvyam/telugu/rAya-kRShNa-devaH/Amukta-mAlyadA/en/rAjanItiH_nArAyaNaH)। 
