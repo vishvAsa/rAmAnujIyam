@@ -1,5 +1,5 @@
 +++
-title = "राजनीतिः - नारायणः"
+title = "राजनीतिः - नारायणः, Shulman"
 +++
 
 Rāja-nīti 4. 204–285
@@ -300,6 +300,13 @@ will become swollen-headed.
 Famines, sickness and infant deaths will increase.  
 Just show devotion to the learned  
 and if they resent their poverty—don’t be concerned.  
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Better translation - 
+
+> If you donate wealth and whole villages to ascetics and matted-hair monks merely out of fondness for learning, they may become conceited and stray from their sacred vows. As a result, famines, epidemics, and infant deaths will increase in the land. Showing devotion toward them is sufficient; if they suffer from a lack of material goods, that distress will not bring any sin upon you. Dispel all doubts regarding this matter.
+</details>
 
 **243.**  
 Before you punish a condemned man,  

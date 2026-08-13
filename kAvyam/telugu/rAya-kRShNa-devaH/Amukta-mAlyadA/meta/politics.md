@@ -208,6 +208,14 @@ But the king’s leanings toward Brahmins do not extend as far as those learned 
 > Just show devotion to the learned,  
 > and if they resent their poverty – don’t be concerned. (242)
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Actual translation -
+
+> If you donate wealth and whole villages to ascetics and matted-hair monks merely out of fondness for learning, they may become conceited and stray from their sacred vows. As a result, famines, epidemics, and infant deaths will increase in the land. Showing devotion toward them is sufficient; if they suffer from a lack of material goods, that distress will not bring any sin upon you. Dispel all doubts regarding this matter.
+</details>
+
+
 This verse seems to be directed against *maṭhādhipatis*, the heads of sectarian mutts, and seems to reflect real tensions that existed in this context in fifteenth-century Vijayanagara.[[^20]
 
 [^20]: This may be an oblique reference to the complex relations between the Sringeri establishment and Vijayanagara, for which see Hermann Kulke, ‘Maharajas, Mahants and Historians: Reflections on the Historiography of Early Vijayanagara and Sringeri’, in A.L. Dallapiccola and S. Zingel-Avé Lallemant, eds., *Vijayanagara – City and Empire: New Currents of Research*, 2 Vols., Stuttgart, 1985, Vol. I, pp. 120-143. But also see the more general view in K. Sarojini Devi, *Religion in Vijayanagara Empire*, New Delhi, 1990.
