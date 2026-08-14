@@ -1492,9 +1492,6 @@ de estas dos formas de **combinar** las dos partes de la palabra (samāsa)
 
 [[P3182]]
 
-""
-""
-""
 </details>
 
 ### गुण-विभूति-योगः
@@ -1556,6 +1553,12 @@ a **saber**, līlā vibhūti (este universo (material) con todos los seres sensi
 तत्पुरुषसमासत्तै विवक्षित्ताल् इरण्डुम् शाब्दम् आम् ऎऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
