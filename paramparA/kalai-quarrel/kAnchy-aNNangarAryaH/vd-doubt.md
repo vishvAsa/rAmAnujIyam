@@ -1,0 +1,458 @@
+
+Source: [here](https://visadavaak.wordpress.com/2016/06/16/clarification-of-a-strong-doubt-part-1/).
+
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Prabala sandeha pariharam
+
+An English translation of a publication by Mahavidwan Sri U.Ve. Perumal Kovil Prativadi Bhayankaram Annagaracharya Swamy in his “Sri Ramanujan” magazine in the months of September and October, 1968 – corrsesponding to edition numbers 237 and 238 respectively
+</details>
+
+
+## Strong doubt
+
+Isn’t it a well known fact that Srimath Paramahamsa Andavan Swamy is camping at Malleswaram in Bangalore for the last two months and delivering a splendid discourse on Mahabharatam in all its grandeur? My magazines “Sri Ramanujan” and “Vaidika Manohara” are in wide circulation amongst the scholars therein, in addition to all of my other works. I learn, therefore, that the scholars of that region perusing my literary works recently gathered together at the Malleswaram sannidhi (Sri Venugopala Krishna swamy temple) for a symposium under the presidency of stalwarts like Sri U. Ve. Asthana Vidwan Pandita Bhushanam Sri Krishnamacharya swamy and others. It seems their intent was to discuss my work named ‘upanyaasa shatadvayam’. This work named *upanyaasa shatadvayam* was published in my Sri Ramanujan magazine editions numbered 199 to 208 (published sometime around the end of 1965 to early 1966). This was later published as an independent book as well. One of those two hundred ‘upanyaasa’s, numbered 179 to be precise, is titled “Sri Ranganatha Paadukaa Prekshanopanyaasam”. It starts off with the phrase “Srimadaandavan”, which apparently aroused their curiosity that eventually led them to read the entire series. The series is such that the subjects upto the 192^(nd) upanyaasa have a continuation, which spans about twenty four pages; and they must be read together in one sitting. So the scholars gathered in the symposium followed a strategy by having one of the scholars read out the passages aloud while the others listened intently. Later, the subject topics dealt thereof were discussed.
+
+The discourse numbered 180 is titled “gurou vaadi-hamsaambuda-achaarya-vurai”. My important submission in the introduction to that discourse was as follows:
+
+> I humbly present a long standing doubt in this opportune context of
+> the row over the tiruman kaappu to be adorned on the elephant. I
+> wonder why the people who desperately repeat ***desika sampradayam***,
+> ***desika darsanam***, ***desikan***, ***desikan***, ***desikan***,
+> ***desikan*** in one breath propound a pundram (tiruman kaappu) and
+> the philosophical tenets that are quite unacceptable to Desikan
+> himself! Why are temples being built desperately in Srirangam Periya
+> kovil (in various praakaaras such as uttara veedi, chittirai veedi,
+> adaiyavalaindaan etc) hunting for Desikan while he is actually hidden
+> inside the main temple? Alas, not a single rational thinker seemed to
+> have spared a thought as to why they should be hating a certain style
+> of tiruman kaappu that was dear to their Desikan himself! Is there
+> anything more astonishing than this fact? Let the fact about pundram
+> remain. Even the philosophical tenets are so much opposed to his
+> thoughts. I shall contextually touch upon those differences as well in
+> my subsequent discourses.
+
+Following this introduction are discourses numbered 180 to 192, where these thirteen discourses clearly show how the tenets propounded by the neophytes (*naveenargal*) are outright contradictory to the tenets propounded by Desikan. It is as clear as an image in a spotless mirror. Especially, the detailed discourse numbered 191 shows in depth how the neophytes are quite opposed to Desikan’s thoughts regarding Piratti (in his Rahasya traya saaram), and how such new concepts are baseless in nature indeed.
+
+It seems that the scholars of Malleswaram who studied these discourses objectively concluded thus: 
+
+> “Nothing in these series seems to have been written with obstinacy. Each and every point in these discourses is quite enjoyable to the rational people who abide by pramaanas (proofs). Also, it appears that all these discourses have been written particularly aiming at Srimad Andavan Swamy. Wouldn’t Andavan have seen these publications? Since he is right here (in Malleswaram), we must find an opportune moment and approach him on this subject”. 
+
+Agreeing thus, they all approached Andavan at a reasonable time. Briefing him on all these discourses, it seems they asked him “Has swamy seen all these before? Has swamy thought of justifications for these apparent allegations? Today swamy must definitely expound his thoughts to us”. It seems Andavan replied, 
+
+> “I am indeed reading every letter of Anna swamy’s publications. But I have not the least bit of disturbance in my mind regarding these. In fact, I haven’t had any fluctuations in mind in my purvasramam itself. Then how could I have them in this asramam (sannyasam)?”.
+
+Further to this, it seems the scholars asked if he could not publish justifications on these allegations in his *paadukaa* magazine at least. When Andavan replied saying “I always propose not to have any chance of publishing controversial subjects in my magazine”, the scholars took leave of him and returned.
+
+In fact, I so desired to publish Sriman U. Ve. E. S. Bhuvarahacharyar M.A. swamy’s letter as is, in which he has explained all these to me in great detail. But that letter is entirely in sanskrit. So I had to leave the task of printing the letter in my other magazine *vaidika manohara*, if there is a chance for it. Andavan’s reply is indeed befitting of his saattvik nature. Let this matter remain. Keeping this matter in mind, the scholars of Malleswaram have approached me regarding a ‘strong doubt’. Since that letter is also entirely in sanskrit, I am giving a gist of it here in tamil (English):
+
+> “After having read in great detail the third centum of *sadartha saptashati* that was published in your Vaidika Manohara recently, we developed great interest in studying all of your tamil publications. Therefore, we collected some important books from Sri U. Ve. Dr. V. Ramaiyyangar Swamy and Sri U. Ve. Vidwan Elaiyavilli Bhuvarahacharyar Swamy and studied them as a group. All subject matters dealt therein are indeed very convincing. The booklet that was published by Tenparai Andavan a few years ago, applauding you, is indeed true to the last word. We conclude that the only honest way of responding to your writings is by standing with folded hands (anjali bandham). There is certainly no other way. 
+>
+> This is the truth that people of both *kalai*s state in unison. But we humbly submit a strong doubt that has arisen within us. We request you to kindly clarify the doubt to our content. The doubt is: Even after knowing that Desikan subscribes to tennacharya sampradayam – both by pundram and tenets – which can be concluded beyond doubt as in a stone inscription, how did the neophytes start worshipping him? 
+>
+> Be it anything about Piraatti or Prapatti or anything else; when Desikan’s divine works are a thorn in the throat for the neophytes, and even when Desikan expounds such tenets in an explicit fashion, there are so many people out there who are actually scholars and supposedly rational thinkers who not only stop at considering Desikan as their head (kootasthar) but also start off big fights and great outcries. How is this possible? You should only analyze the cause for all these and enlighten the entire world in the pretext of enlightening us”. 
+
+
+This is the *strong doubt* of the scholars of Malleswaram. This article is to clarify this strong doubt; hence the title ‘prabala sandeha pariharam’ or ‘clarification of a strong doubt’.
+
+
+## Response
+Source: [here](https://visadavaak.wordpress.com/2016/06/17/clarification-of-a-strong-doubt-part-2/).
+
+
+
+It is not that my earlier publications do not have a clarification for this doubt. However, there is no point in directing a reader to a certain publication, saying “look into that book”, “look into this book” and the like. Also, this doubt is something that many people across the globe can get at any point in time. Especially, this doubt is most expectable amongst many people in the current context (of a tiff between the two *kalai*s). Therefore, I decided to put this down as an independent publication by itself. I intend to explain the matters of fact. Firstly, everyone should strongly know one thing in mind; and indeed, everyone has it in their minds. It is the firm belief that the neophytes are not related to Desikan by any means either by pundram or by philosophical tenets. After all, it is only with this assumption in mind that the scholars have had this strong doubt. Is it not? Before clarifying their doubt, I shall state a few things as an introduction to it.
+
+## Father & deshika
+If my respected father was now alive, he would have turned 108 years old today. He was born in the *Roudra* samvatsara (1860 CE) in the month of *aavani* (simha maasa) under the asterism *purattadi* (purva bhadrapada). Today being aavani purattadi, I remember him with fondness along with many other things that he taught me as I set to write this article. My father lived only for forty four years. He left to Paramapadam as soon as I turned fourteen. As far as I can remember, I have never stayed away from him right from my fifth year of age. Even if he were to go to our native, he would take me along. 
+
+When he started teaching me stotras (as santhai), he started with Hayagreeva stotram and taught me only Desika stotras at first. He taught the stotras of Alavandar, Azhwan, Bhattar and other Acharyas only later. In those days, Desika stotras were never published (they were just available as palm leaf copies).+++(5)+++ Therefore, he had to write down all the stotras out of his memory and teach them to me. 
+
+Since I learnt them very early in life, I can remember them vividly even now (at an age when I am not using them very often). In those days, the *vadagalai*s knowing Desika stotras were very few. Their strength was as good as non existent! There were few vadagalais who knew only Varadaraja Panchashat stotram with the sole intention of participating in temple fights.+++(4)+++ 
+
+## deshika name
+In those days, all tengaliyars as well as vadagalaiyars would use the term ‘vedantacharyar’ only. The name ‘desikan’ never existed before. It was only later that the neophytes felt the urge to give him a new name because the name ‘vedantachar’ sounded much like ‘rangachar’ or ‘raghavachar’, and they wanted him to be different! Thus was born the name ‘desikan’. I do not intend to expand my article on this trivial subject for now. 
+
+Just listen to one thing: Swami, in the beginning of his adhikarana-saaraavali, says “Srimadbhyaam syaadasaavityanupadi varadaachaarya-raamaanujaabhyaam”. He calls his step preceptor (or praachaaryan) nadadur ammal as ***varadacharyar*** and calls his own preceptor as ***ramanujar***. One may be led to reason that this is because it is just a sloka or a verse (to fit the metre). But would it be ok for him to address him as ‘varadachar’ just like ‘rangachar’ or ‘raghavachar’ in his rahasya granthas? 
+
+In his rahasya traya saaram, and specifically in the saadhyopaaya shodhanaadhikaaram, he addresses ammal as ***varadacharyar*** only! Even in other places, he never refers to his step preceptor as ***ammaal***anywhere. The name ***Vedantacharya***is a title that Swamy got, and hence highly venerable. It is not like the name ‘varadacharya’. In fact, calling swamy as ‘vedantacharya’ is only a respectable way of addressing him, and not a sign of disrespect by any means. 
+
+Yet, in the modern times (post 1900 CE), the neophytes have come to consider this as a substandard way of addressing him. Also they wanted a shorter name for addressing him. So know that even we started addressing him as ‘desikan’ along with them, for the aforesaid reasons. This was just a contextual insertion.
+
+## Vedantacharyar idol
+My father had a worshipping idol (vigraham) of Vedantacharyar. This vigraham is worshipped even today. Just a couple of years ago, when Srimath Paramahamsa Mukkur Azhagiya singar arrived at my residence along with his kin out of his causeless mercy – akin to the saying ***vidurasya yayau veshma***(Krishna went to the house of Vidura), he desired to have a glimpse of that vigraham. After seeing the divine form, he said “it looks like he is adorning the tengalai tiruman kaappu” with a smile on his face. This is also contextual. I shall now explain why I talked about my father here.
+
+The current year is 1968 CE. The year of birth of my father was 1860 CE. His father had four siblings. One of them remained a brahmachari till the end. Two of them were adopted by the two Prativadi Bhayankaram tirumaligais (households) at Tiruppati. Both of their offsprings are seen at Tiruppati even today. Those two tirumaligais have the name ‘vedantacharyar’ in usage even now. One of those swamys has a large following of disciples in Hyderabad and surrounding areas since long. 
+
+One swamy by name (Tiruppati) Anna Vedantacharya swamy conceded to the request of a wealthy disciple named Kompalli Ramachandra Rao and erected a temple for Chakravarti tirumagan (Sri Ramar) at a place called Gandikalmettu near Gowlipuram Darwaja in Hyderabad, about 175 years ago. He has consecrated all Azhwars and Acharyas without any exceptions. Vedantacharyar is also present here. Even to this day, this temple has priests from our regions only performing daily rituals. The celebrations of Vedantacharyar’s tirunakshatram are also happening without any hindrances. Listen further.
+
+In the same city of Hyderabad, another swamy Srimad U. Ve. Kaaranai Prativadi Bhayankaram (Adya) Anantacharya Swamy (who lived quite long ago) accepted Purnamal Seth as his disciple and built a temple for Devapperumal at a place called Sitarambagh. This temple is more famous than the aforementioned Gandikalmettu. When there was a proposal to install Vedantacharyar in this temple, it was somehow rejected. That is because this temple was built after about 40-50 years of building the Gandikalmettu temple. It is said that there was no fight on Vedantacharyar’s installation in the Gandikalmettu temple. It is also said that vadagalaiyars existed even then, but never knew about Vedantacharyar or Udaiyavar or even the Azhwars. 
+
+Hence they say that there was never a fight at the time when Vedantacharyar was installed there. It seems the Periya swami of Kaaranai would say, “That is why the Tiruppati Prativadi Bhayankaram swami installed Vedantacharyar without any hassles. But at the time of building this Sitarambagh temple, there have been so many fights by the neophytes in various divya desams in the south, even to the extent of moving the court and being slapped with hefty penalties and major punishments. So why buy problems for a price?”. Hence there was no opportunity to install Vedantacharyar in either Sitarambagh or in Pushkaram. 
+
+Even (my acharyan) Gadi swami who lived in the recent times had to follow suit while constructing his temples at Panaswadi (Venkateswara mandir) and Marvadam role (Sri ranganatha mandir). I have heard about this from the mouth of Gadi swamy several times. I have published this earlier as well. Now I shall explain all that I have heard and seen during the times of my father.
+
+## Bio
+
+Source: [here](https://visadavaak.wordpress.com/2016/06/21/clarification-of-a-strong-doubt-part-3/).
+
+
+
+Of all the scholars who had met with my father, only one Sri U. Ve. Tirumalai Eechampadi Varadacharyar swamy is alive today. Since he is about four years elder to me, I guess he must have been with my father till he was about eighteen years of age. I cannot remember any other resident of Kanchi at this time. This swamy was famous as ‘sarvabhuta suhrut’ (a very benevolent one). I personally know that most of the residents of Kanchi, including smaarthas and maadhvas, learnt from my father. That he conducted some classes of Vanamamalai patasala at home when he was unable to move out has been explained in great detail in my autobiography (*taansonna tancharitai*). In those days, many stalwarts were very close to my father. 
+
+It is from my personal experience of more than seven years that I can say that two vadagalai swamis namely Sri U. Ve. Alavur Krishnamacharyar Swamy and Sri Tandri Pattanna tatacharyar, and two tengalai swamis namely Sri U. Ve. Tirumalai Eechampadi Rangacharya swamy and Vanamamalai Singaracharyar swamy were extremely close to my father – much more than all others.
+
+Of the four swamis mentioned here, I learn that Alavur Krishnamacharyar swamy was my father’s classmate. That swamy had a deeper education particularly in the dharma shaastram. After the demise of my father, that swamy continued to live for another fifteen or twenty years. He was a learned man. He would never engage in petty fights even by thoughts, words or actions. I do not intend to write more about him because there are still many people who know about him in Kanchipuram. The reason why I mentioned this swamy specially shall be detailed a little later.
+
+A certain institution by name **Tennacharya darshana sabha**has been existent for quite sometime now. It seems that an institution by this name was established in several divyadesams when the vadagalaiyars started their wicked deeds. The institution started at Kanchi (registered) is functioning even to this day. It seems that some of the adhyapakas of Devapperumal temple (mostly youngsters) would take turns in attending the evening nityanusandhana goshti at various divya desams in bigger Kanchipuram such as Ulagalanda perumal sannidhi, Vaikundanathan sannidhi, Pandavadootar sannidhi, etc apart from Vilakkoli sannidhi and others. My father used to attend such nityanusandhana goshtis at Deepaprakasan sannidhi and at Vedantacharya mantapam for several years. For some time, he would attend only annual tirunakshatra goshtis due to his physical ailments. He would often say that the initial fights at Vilakkoli temple was only about introducing Ramanujapatram (taniyan). When it came to changing the existing tengalai tiruman, there was no contention earlier. It was only much later that this was also contended. He would distinctly remember that the contention to adorn the tengalai tiruman came up only when he was about fourteen years of age; and that he had clearly seen tengalai tiruman at Vilakkoli sannidhi when he accompanied his father in his young age. He would also remember that the Vilakkoli sannidhi remained closed for a long time due to a tiff between the vadagalais and the heriditary dharmakartas of Vilakkoli sannidhi – named ‘kaikkolar’s, and that he had seen this fight as the first thing in this regard. I have heard him say this repeatedly. There was no way that he would discuss these things with me directly, given my small age. But these are things that I remember having heard during his conversations with several other scholars. I remember such conversations right from my ninth year or so. Not just this; there were several such incidents that were discussed in his books.
+
+There was one scholar by name Eechampadi Vijayaraghavacharyar in the Eastern madaveedi (temple street). I did not have a chance to know him as a householder. I only knew him very well as a sannyasi. He attained paramapadam when I was about thirteen years of age. Although I have heard about his horrendous past from various sources, the first I heard about him was from my father. That swamy held the keys to the temple of Vedantacharyar. In his lifespan of eighty years, he was totally engaged in looking after the Vedantacharya sannidhi right from his twenty years of age until he was seventy. \[He was an ascetic for the last ten years of his life.\] Even to this day, many people here fondly remember how this swamy would go to various households during various functions and get the ‘Vedantacharyar dakshinai’, and also how he would go around the madaveedis of Devapperumal, Yathoktakaari, Ashtabujam etc on the days of shravana nakshatram with a basket full of savories – selling them in order to earn enough money to conduct tirunakshatra goshti for Vedantacharyar.
+
+One night when this swamy was closing the doors of Vedantacharyar sannidhi, a couple of well built vadagalaiyars came and snatched the keys from him with force. This swami –a strong man that he was – also retaliated and fought with them for a long time. Finally a person hit his hand hard with a hammer. Unable to withstand the pain, he fell down like Jatayu Maharajar, unconscious for a long time. Later he was moved to his tirumaligai by the same miscreants at the mid of the night. This incident is quite popular amongst everyone.
+
+The fact that Vilakkoli Vedantacharyar adorned tengalai tiruman kaappu without the least bit of distortion until the year 1874 CE is known by the world at large from the photograph which has Vedantacharyar shot along with Deepaprakashar. This photograph was published by vadagaliyars themselves in their *sevaa* magazine. Even I have published that photograph in my review on sampradaya pradeepa, which I published on 1-1-55. It can be found all over page 7.
+
+
+
+Source: [here](https://visadavaak.wordpress.com/2016/06/27/clarification-of-a-strong-doubt-part-4/).
+
+
+
+One question arises here. It is known that the newly inserted ‘Ramanujapatram’ was undone in Vilakkoli sannidhi. Then why couldn’t this new insertion of vadagalai namam be undone? Here’s my reply. Listen. When some thieves go out to steal something, they see a vinayakar temple on the wayside and pray to him. Their prayer (either with donations or a promise to donate later) is to beget great wealth and to never be caught. By luck (or God’s intervention), such requests might be fulfilled also. Later, those who lost wealth to the thieves also pray for getting it back. That request may also get fulfilled. It might go unfulfilled also. I shall show an example from Vedas also, to expound this further. There is an activity called ‘abhichaaram’, mentioned in the Vedas. It means blackmagic. The Vedapurusha teaches a way to a person who decides to do abhichaaram. The one who does blackmagic is called ‘abhichara’. The Vedas show a way for such an abhichara by prescribing a ritual saying “aagnaa vaishnavam ekaadasha-kapaalam abhicharan”. The abhichara follows it. On the other hand, don’t we see a victim for this blackmagic? If such victim approaches, the same Vedapurusha readily shows a way out for him as well. Do you know what way he shows? The Vedas say “etayaiva yajeta abhicharyamaanaH”. The Vedapurusha shows the same ritual that he prescribed previously to the abhichara to the abhicharyamaana (victim) as well. Which of these would fructify? Both of them might succeed, or both of them might fail. One of them might succeed either. We don’t need more detail on this here. Is it not a well known fact that the dispute over tiruman kappu to be adorned on the temple elephant of Devapperumal sannidhi had been continuing for long and has recently been concluded with the final verdict passed \[in the Chengalpattu Court\]. Let the fact about a possible appeal to contend the judgement remain. The world will get to see the wicked deeds of those wicked people to the last detail through the 49 page judgement on the dispute of pundram given by a well learned and an impartial judge, which will be published in the forthcoming editions of Sri Ramanujan. Let the appeal result in anyway. But the judgement of an impartial judge passed after a thorough analysis of all records without the least bit of laziness and showing the truth in bright light is like a torch to show the atrocities in other divyadesams over the subject of pundram. Let this remain for now.
+
+In the current context of writing this article titled ‘prabala sandeha pariharam’, all the aforesaid facts do not act as suitable clarifications for the strong doubts raised herein. Yet, the reason why I explained so far is because people should know the facts of activities going on in the birth place of Vedantacharyar. At this time, I have got a writeup with request from the dharmakarta of Sri Yathoktakari sannidhi – Sriman U. Ve. Nallappa Jeeyappangar swami, to publish the same in Sri Ramanujan magazine. The next publication will be of that writeup only. With that article, many facts will be clear with proof from several court records. Therefore, I now set my focus on the main subject of this article. How did the neophytes accept Vedantacharyar as their head even after knowing that his doctrines are totally opposed to their own? This is the ‘prabala sandeham’ or strong doubt. Isn’t it? Now listen.
+
+I shall now tell you what the two vadagalai swamis *Alavur Krishnamacharyar swamy* and *Tandri Pattanna tatacharyar swamy* – whom I had mentioned earlier as extremely close to my father and spent most of their time in our house – would discuss very often. My long time vow of open challenge to be the servant of anyone who dares to show me a single book with a mention of Azhwar or Ramanujar or Desikan amongst the neophytes that were written before 200 years from now comes from the unflinching support of these two swamy’s words only. Alavur Krishnamacharyar swamy would always tell this with firm conviction. It seems the neophytes are extremely vaidika in nature; so much so that they would even wash fire before touching it! Therefore, they would not revere anyone from the lower castes, or entertain any of their compositions, or even consider the places sung by them as holy. They would not even revere the acharyas who subscribed to those people or compositions or places. But they had to intervene by entering such temples because the tengaliyars were plundering some of those temples and enjoying, which was unwarranted. In the pursuit, they wanted to have a unique acharya to claim as their head. It was then they realized that the tengaliyars would not speak high of Desikan or consider his rahasya granthas for learning. Keeping this as a major factor, and also considering that Desikan was nonetheless a scholar, they considered it right to have him as their lead preceptor. But they could not be on agreeable terms with the heriditary Sri Vaishnavas. Therefore, they inserted many new customs and practices in the existing norms. In this pursuit, their opening itself came out as a huge fight! This is how I have heard Alavur swamy repeatedly describe in great detail – so much so that my ears have had a hole listening to the same story. The gist of this whole story is that the neophytes considered Vedantacharyar as their lead preceptor because there were chances to think that his expositions in his rahasya granthas are a little opposed to the tennacharyas.
+
+**
+
+***The truths revealed by Sriman D. T. Tatacharyar***
+
+Why should we talk about Alavur Swamy or anyone else who lived in the past? Sriman D. T. Tatacharyar who lives even today has not only stopped at speaking out all these truths, but also has gone a step further and published all these truths in black and white for posterity. I shall quote from his works only.
+
+In his sanskrit work named ‘sampradaaya pradeepa’, which he has personally authored and published widely, there are several truths that are revealed in pages 69, 70, etc. Listen:
+
+- > *Owing to the wickedness of kali, since divyadesams are on the verge
+  > of going under the control of a sect of **avaidikas**, the right
+  > thing for sattvikas to do is to not look at those temples even by
+  > mere sight. Yet, this opposing sect of avaidikas is enjoying a great
+  > deal of respect in many of these divyadesams. We are therefore
+  > forced to enter into these temples and fight against them because we
+  > cannot stand the sight of such downfall of divyadesams. We greatly
+  > regret this!*
+
+- > *The vadagalais definitely have the right to chant Desikapaatra
+  > taniyan. They are not bereft of it. Yet, owing to the fact that
+  > vadagalaiyars are extremely sattvik in nature, and given that they
+  > are opposed to violence and desiring peace, they never attempted to
+  > chant that paatra taniyan.*
+
+- Listen to what I would call the ‘essence’ of his writings (page 69 of
+  the aforesaid publication, under point 49 in his argument):  
+
+  > *The tengaliyars have this conversion of vadagalai temples – which
+  > were vadagalai from time immemorial – to tengalai as their only job.
+  > Therefore, many temples were encroached by them and made
+  > **avaidika**. Now, is it not reasonable to convert them back as
+  > vadagalai temples? Vilakkoli sannidhi was avaidika in nature for a
+  > long time. Srimad Tirupputkuzhi swamy took interest in turning it
+  > back to a vaidika temple. His ideas worked very well. After all, we
+  > must be doing this for the welfare of the entire world. Is it not
+  > the duty of theists?*
+
+It is verily at this stage of his article that he concludes that the temples that were originally vadagalai from time immemorial were converted to tengalai by the duo – **Udaiyavar**and **Koorattazhwan**.
+
+
+
+Source: [here](https://visadavaak.wordpress.com/2016/06/28/clarification-of-a-strong-doubt-part-5/).
+
+
+
+# Relentless efforts
+
+## The flesh unworthy of money!
+
+There are several celebrations in this world by several people in several places. Various celebrations such as silver jubilee, golden jubilee, diamond jubilee, centenary, etc are celebrated by materialistic people (laukikas) and learned people (vaidikas) in different ways. The laukikas celebrate using the Gregorian calendar whereas the vaidikas celebrate using the prabhava and other samvatsara names. Initially, the completion of first year of birth itself is celebrated using prabhavaadi samvatsaras. Keeping this firmly in your mind, read on to know further.
+
+The year in which our Vedantacharyar was born is still under confusion. Srimath Paramahamsa. Injimedu azhagiya singar (vaikunthavaasi), who abides by pramanas, declares that there is only proof to show that the birth year of Vedantacharyar is ‘shukla samvatsaram’, and that the claims of his birth being in ‘vibhava’ year is just a word of mouth, and also that the word ‘shuklavarshe’ in the pramanam can be interpreted as ‘vibhava-varshe’ by logic (lakshana vrutti). This – he has shown in the introduction of his work ‘tattvateekaa’. I have shown this in my article series ‘sadartha saptashati’ in the sixth centum – paragraph numbered 581.
+
+That the birth year of a great acharya may remain unconcluded due to confusions and contradictions is never possible. If we ask a common man about the birth year of Koorattazhwan, Embar, Bhattar, Nanjeeyar, Nambillai et al, he may not have an answer on the top of his mind. However, the fact that these are recorded in writing is never contended. The fact that Manavala Mamunigal was born in ‘saadhaarana’ year is recorded in a beautiful verse by the contemporary Acharyas themselves. The same holds good for Emberumanar as well. Why talk so much? If we quote a great acharyan and ask a common man as to when that acharyan was born, some may respond saying they have never taken note of it. Some of them, on the other hand, state the year of birth conclusively, with no scope for any confusions or contentions. If this does not happen, and if there is confusion amongst the scholars themselves on the year of birth of an acharya, do you know what we can conclude from it? Should we even repeatedly say that out? It only shows that the name that they have earned for themselves as ‘neophytes’ (naveenar) is all the more befitting of them.
+
+Are there any ignorant souls who don’t know the reason behind them worshipping a new leader as “creating unwanted fights within temples”? Do you even know how much of money was wasted till now in sorting out these unwarranted fights? I tell here without exaggeration – the money that was spent on such fights is enough to build a huge temple akin to Sri rangam periya kovil. Let them fight how much ever they want. Let them fight without being dejected by failures. When there are so many wealthy men out there who are ready to shell 10 rupees for them when asked for 1, or 1000 rupees when asked for 10, there is no need to hesitate for shortage of money. But shouldn’t one’s act at least result in self satisfaction? This must be realized by the neophytes themselves!
+
+If asked “what is Bhagavad Ramanujar’s philosophy?” or “what is Pillai lokacharyar’s philosophy” or “what is Manavala Mamunigal’s philosophy?”, no one would hesitate to reply instantly. But if we ask “what is the philosophy of your new leader?”, they have no option but for saying “Speaking with highly contradictory statements is our philosophy”! Of what use are their red eyes or their grumpy faces red with anger? Alas, they do not even seem to realize that it would do so much good for them if they engaged learned scholars abiding by pramanas and published their writings on just two topics (leaving out the rest) namely ‘piratti’ and ‘prapatti’, so that even laymen could understand their philosophy with ease! “Oh no; they know this pretty well. But they lack content. What to do?” say the praamaanikas. I wonder, then, as to what good they realize by sitting at printing press day and night without sufficient food or sleep and converting all white papers into black ones! I wonder what they achieve with this! Such relentless efforts and flesh unworthy of money do not interest the laymen! One may spend several lakhs and build a mansion. One may do all that he pleases. But none of these are really great achievements. Then what is real achievement? It is nothing but making everyone aware of the shortcomings in the philosophy of those neophytes which is dead opposed to Bhagavad Ramanuja’s darsanam. This is no mean feat, and is a true achievement!
+
+
+
+Source: [here](https://visadavaak.wordpress.com/2016/06/29/clarification-of-a-strong-doubt-part-6/).
+
+
+
+# The sixth centenary of Sri Desikan
+
+### Authored by Geethaaratnam Nallappa Jeeyappangar, Little Kanchipuram, Aanaikatti Street
+
+When asked if the vadagalaiyars celebrated Sri Desikar’s sixth centenary on a grand scale in the last century, Kanchi Sri PBA swamy conclusively established with sufficient proofs that the vadagalaiyars started revering Sri Desikan as their leader only recently, and that he was in fact revered as a Sri Vaishnava scholar by tengalaiyars from the beginning. In this article, I intend to show how several court orders have strengthened this claim with all legal proceedings.
+
+As is the case in many other divya desams, tengalaiyars had only taken great interest in taking care and also dominated the Vilakkoli sannidhi, which is the birth place of Sri Desikan. As can be seen today, the tengalai mantra ‘Sri sailesa dayapatram’ was only chanted at all times of regular and special worships even at Sri Desikar sannidhi. The tengalaiyars have only been chanting Azhwars’ hymns continuously – which is one of the prime rituals of all Vishnu temples, since a very long time. But some vadagalai tatacharyas began their efforts to change all this during the early nineteenth century. This was not supported by any general vadagalai at that time. It was these few vadagalai tatacharyas who pursued interest in introducing the newly conceptualized *Ramanuja dayapatram* in this temple. They even started some festivities with this taniyan. This was strongly opposed by the tengalaiyars. To sort things out, the then collector Mr.Hodgson came to Kanchi and heard the case fully from both parties. In conclusion, he identified the new practices by the two tatacharyas and imposed a fine of 10 varahas each (amounting to Rs. 35/-) for such act. Given below is an excerpt from his judgement dated 23-2-1799:
+
+> I understand that in the Pagoda of Vedantacharyalu near
+> Deepaprakasakala Pagoda, the prayer “Ramanuja dayapatram” has been
+> recited for some days which was never before done .. .. It is
+> therefore very improper that it should be done so. You (Thasildar)
+> should therefore put a stop to the same, and order the **proper**
+> “**Sree sailesa dayapatram**” to be recited **as usual**. For such
+> **improper act** of Ragunadacharyala and Tiruppakudi
+> Krishnamacharyala, among the Tatachariars and for their having given
+> me the trouble of going and seeing that Pagoda you should levy from
+> them a fine of 10 Pagodas each and send the same.
+>
+> Poonamallee,                (Sd) JOHN HODGSON
+>
+> 23^(rd) Feb. of Fasli 1208.             Collector
+
+(This has been recorded as ‘Exhibit S’ in 5 Madras cases)
+
+On 10-1-1801, a collector named Greenway (Mr. Edward Greenway) held a complete hearing on this case and finally upheld the judgement passed by collector Hodgson. Later, a dispute was held in the Magistrate court of Chengalpattu in the year 1811, with Civil case number 4134, regarding this new taniyan. The Ramanuja dayapatram taniyan was defeated in this case as well. The tatacharyas further challenged the order with an appeal numbered **A. S. No. 26 of 1812** at the higher court. Given below is just one statement from the judgement on this appeal:
+
+> Their (the vadagalai Tatacharis’) very pleadings show that the mode of
+> worship which they wish to establish is **an innovation** of which not
+> one out of eighteen Pagodas at Congeevaram furnishes an example.
+
+As a result of this judgement, the Tatacharyas had not only to pay the Tengalaiyars for the damages but also pay a fine of 120 varahas (Rs. 420/-) to the Government.
+
+Since the relentless efforts of Tatacharyas were being continuously busted as shown here, they decided to introduce their innovations in the temple in 1864 by befriending some kaikolars, who were the then trustees of the temple, and coming into an agreement with them to share the rights of temple in half. This was again strongly opposed by the tengalaiyars who moved both the Magistrate court as well as the Civil court for justice. Due to this, the Tatacharyars and some kaikolars jointly closed down the temple of Sri Desikan in 1864, only to be reopened in the year 1870. Here, it is relevant for us to peruse an excerpt from the judgement of a case numbered 297 of 1878, which is as follows:
+
+Paragraph 31:
+
+> In the year 1864 the Tatacharis obtained from the Kaikalars on
+> assignment of half the trusteeship of the Deepaprakasa swamy’s temple
+> with this temple (Sri Desikar shrine) as its appendage. Disputes arose
+> between those parties and the Tenkalais in consequence of the
+> assignment. The latter appealed to the magistrate. The appeal ended in
+> a failure. They next preferred suit No. 310 of 1865 for the
+> Deepaprakasa Swami’s temple……… The temple in dispute (Sri Desikar
+> shrine) which had been shut up by the Kaikalars and the Tatacharis in
+> 1864 was opened in 1870.
+
+Paragraph 32:
+
+> Then came upon the scene the party called other Vadakalais in
+> opposition to the Tatacharis. They secured the interest of Kandasamy
+> (1st defendant) and some other Kaikalars and contrived to get **the
+> document 13** executed. The Kaikalars won over by them alleged therein
+> that by virtue of the special condition in the counter part of 2 (the
+> assignment to the Tatacharis) was cancelled and a quarter share of the
+> trusteeship was assigned to the other Vadakalais. They also locked the
+> temple again in September of the same year (1870).
+
+From this, we can conclude that the trusteeship of the birthplace of Sri Desikan was tossed around amongst the Kaikolars, Tatacharyars and other vadagalaiyars, and as a result the shrine was locked for six long years (from 1864 to 1870).
+
+Further to this, the paragraph 35 of the same judgement clearly shows how the other vadagalaiyars began to take interest in the shrine at the birthplace of Desikan. Given below is an excerpt from that paragraph as well:
+
+> I have next to see what right the other Vadakalais have in this
+> temple. The evidence clearly shows that they had **no connection with
+> it** before the execution of document 13 (1870). Soon after its
+> execution the temple was closed. When it was reopened in 1873 it was
+> subject to the influence of three sects, viz., the Kaikalars, the
+> Tatacharis and the other Vadakalais in accordance with the document
+> By, \[Vide defence 11^(th) and 18^(th) witnesses and Ex. VII to X and
+> Bn, to Br.\]
+
+From this, it becomes amply clear that the vadagalaiyars other than the Tatacharyars became related to this temple only in the year 1870, and that the temple was closed again for three years with no worship as soon as they started celebrating their connection with it. This is how the vadagalaiyars celebrated the sixth centenary of Sri Desikan at Sri Kanchi.
+
+
+
+Source: [here](https://visadavaak.wordpress.com/2016/06/30/clarification-of-a-strong-doubt-part-7/).
+
+
+
+We see the same strategy followed at Srirangam too. This itself will turn into a Mahabharatam (in length) if we start elaborating on it. Everywhere in this holy place of Srirangam – otherwise referred to ‘bhuloka vaikuntham’, the tengalai tiruman kaappu and Srisailesa dayapatram prayer have only been in effect for a very long time. The shrine of Sri Desikan in this temple also followed this custom long ago. Even here, the vadagalaiyars established new connections and carried out their henious acts only in the beginning of the 19^(th) century. It was only in the year 1803 CE (11-8-1803) that the modern devotees of Desikan started their efforts in introducing the Ramanuja dayapatram prayer at this shrine of Sri Desikan. This atrocity did not involve tiruman kaappu at that time. The tengalai tiruman kaappu at that shrine was accepted by the vadagalaiyars themselves for a very long time, without any objections.
+
+The atrocity with respect to Ramanuja dayapatram prayer at this shrine was subjugated very soon after it was started (This can be seen in the paragraph 15 of the judgement on C. C. No. 9 of 1874 in the Magistrate court of Tiruchirapalli district). Later, when the vadagalaiyars started introducing some new practices which were opposed to the age old customs in some other ways, a dispute was held in the Civil court (O. S. No. 130 of 1808). As an outcome of this dispute, the tengalaiyars were only fully authorized for all proceedings in the seven compounds (praakaaras) of the temple. In the paragraph 31 of the aforesaid judgement (C. C. No. 9 of 1874), it can be clearly seen that the tiruman kaappu in Sri Desikan shrine at Sri Rangam was undisputedly tengalai until the year 1835 CE. We shall see here just the last statement of that paragraph:
+
+> Considering then the respective position of the parties in 1834 and
+> the fact that in 1803 this Vedantachari is called **Tenkalai
+> Vedantachari** by a man who calls himself on **arbiter** and espreally
+> considering that there is **no evidence** that this curious expression
+> of his was never even challenged by the Vedakalai party it does seem
+> most unreasonable to suppose that he has been constantly carried in
+> procession with a Vadakalai mark before 1835.
+
+Even after 1835, the shrines of Sriman Nathamunigal, Vedantacharyar, et al in the temple of Sri Rangam sported the tengalai tiruman for a long time. The first strong attack on tiruman arose in the year 1863. On 15-9-1863, the temple authorities routinely went through all seven compounds of the temple and started making a list of all tirumans therein in the presence of third party witnesses. According to this list, all Azhwars and Acharyas in the temple of Sri Rangam including Sriman Nathamunigal and Vedantacharyar sported a tengalai tiruman only. The reason for creation of this list for records was only because the vadagalaiyars had freshly painted a vadagalai tiruman outside the shrine of Sriman Nathamunigal. Even when this list was being created, the vadagalaiyars never seemed to object to the fact that the vigrahas of Sriman Nathamunigal and Vedantacharyar sported a tengalai tiruman kaappu. During October of the same year (1863), the then collector Mr. Nisbet got a complaint that the vadagalaiyars had forcefully changed the tiruman at Dhanvantari shrine. He immediately summoned the two parties and heard their arguments. In conclusion, he slapped a 1000 rupees fine (on 30-10-1863) on one Mr. Rengasamy Iyengar who headed the vadagalaiyars, stating that their atrocities were crossing limits.
+
+But since he did not follow certain legal procedures while investigating on the allegations, this fine was dishonored in the high court on 21-7-1864. However, in this pursuit, the highcourt clearly noted all atrocities of the vadagalaiyars and prohibited them from meddling in the temple proceedings for the next ten years. It was in the year 1874 that they again changed the tiruman on Sriman Nathamunigal and Sri Vedantacharyar during the Vaikuntha Ekadashi festival and brought their processional deities out with vadagalai tiruman with huge strategies. In the suit filed against them as a consequence of this act (C. C. No. 9 of 1874), there were detailed arguments before the then Magistrate Mr. J B Pennington, and ended on 28-3-1874. The one to argue on behalf of Vadagalaiyars was one English Barrister named Mr. O’Sullivan, who would charge a hefty amount of Rs.1000/- per day. The fine imposed on them was Rs. 1000/- for one Kodiyalam Rengasamy Iyengar who headed the vadagalai group, and Rs. 51/- for the other eleven guilty vadagalaiyars, failing which they could be imprisoned for six months. The judgement also ordered to pay the tengalaiyars for damage from the amount so collected. This judgement was upheld even in the highcourt later. Such hefty penalty curbed them from creating any further troubles for the next twenty years. In 1893, they again started in a big way to change the tirumans in this temple. On one fateful night of 3-10-1893, some of those miscreants hid themselves in one corner of shesharayar mantapam and started deforming the stone sculptures that sported a tengalai tiruman with a chisel to make them vadagalai. When the court was moved for justice (C. C. No. 10 of 1894), each of those miscreants were slapped with a fine of Rs. 500/- with rigorous imprisonment. This was also upheld by the highcourt. In fact the high court did not support the Magistrate’s opinion that such hefty penalty was unnecessary. It rather opined that this was insufficient for their acts. The lawyer of vadagalaiyars in this case was the world famous Norton. Even then they couldn’t escape punishment. With all these efforts, Sri Desikan only lost his legacy respects on par with other Azhwars and Acharyas before Sri Ranganatha swamy at the temple. The vadagalaiyars never gained anything from it.
+
+When the vadagalaiyars have thus celebrated the sixth centenary of Sri Desikan at Sri Kanchi as well as at Sri Rangam – with such grandeur that it was taken notice by everyone, every city, the whole of country, and even by the respected courts and their own kinsmen, how could we even say that they never celebrated his tirunakshatram? There is no way we could say this, right?
+
+
+Source: [here](https://visadavaak.wordpress.com/2016/07/04/clarification-of-a-strong-doubt-part-8/).
+
+
+
+## A summary of activities at Srirangam temple
+
+#### A more detailed account of activities at Srirangam temple pointed out by Sri U. Ve. Nallappa Jeeyappangar swamy earlier in this article
+
+1.  Here is an excerpt from a letter to Lord Wallace (collector) by one
+    Mr. Velu, who was the officer in charge of Srirangam temple at a
+    time when it was under the management of East India Company,
+    regarding the dispute over tengalai and vadagalai tiruman (letter
+    dated 15-8-1803):
+
+(**Translator’s note**: this excerpt is given as a gist in tamil, which is being translated back in English; so the exact words might not be used. But the purport remains the same)
+
+> The community resolution is to continue with the prevelant age old
+> practices in the temple. In accordance, the tengalaiyars have
+> celebrated the birth star of Tengalai Vedantachariar with age old
+> customs and practices. But the vadagalaiyars started reciting a prayer
+> of *Ramanuja Dayapatram* as against the prevelant customs, to which
+> the tengalaiyars strongly opposed saying it was an innovation. Some
+> ascetics amongst those tengalaiyars immediately left the place citing
+> that it was humiliating… … Since some three or four evil vadagalaiyars
+> are eagerly carrying out their revolutionary acts without fearing the
+> Company, we must inform everyone through drumming that anyone who goes
+> against the established practices shall be prosecuted.
+
+2.  Velu, who – on records – is considered as impartial to any party,
+    writes on 13-9-1803 that he is receiving some requests from
+    vadagalaiyars. The gist of the letter is thus: “Tengalaiyars alone
+    have been enjoying all privileges in the temple right from the
+    beginning. Now that the Company is in charge of the temple, the
+    vadagalaiyars have written to see if they could be vested with some
+    privileges too.” From this, we can clearly understand that all
+    powers of Srirangam temple were with the tengalaiyars from time
+    immemorial, and that the vadagalaiyars have started fighting for
+    their place as a recent development only.
+
+&nbsp;
+
+3.  Here is a gist of the judgement passed by district judge R. H.
+    Latham on 28-4-1808:  
+
+    > It is evident that the tengalaiyars are the final authorities in
+    > directing ceremonies within the seven compounds of the temple; and
+    > it is evident from several facts including all tirumans in the
+    > temple being tengalai. It is also evident that all seven compounds
+    > of the temple solely belong to the tengalaiyars, and that the
+    > vadagaliayars have been permitted to reside in those compounds on
+    > a condition that they abide by the tengalai dominance both in
+    > their household rituals as well as temple rituals. The tengalai
+    > dominance in the temple is evident from several signatures. If the
+    > vadagalaiyars try to intervene in the privy of tengalaiyars in any
+    > way, they may be penalized with physical punishment, expulsion
+    > from the seven compounds or imprisonment.
+
+&nbsp;
+
+4.  In one of the recent disputes between Archakas and others, a sub
+    court judge opines thus:  
+
+    > Having concluded on the customs of the temple clearly and
+    > explicitly, an old judgement that has stood for more than 100
+    > years and accepted by all courts in various occassions cannot be
+    > dishonored.
+
+    Even with relentless efforts by vadagalaiyars atop the aforesaid
+    judgement of 1808 to gain dominance, the judgement only got stronger
+    with time.
+
+&nbsp;
+
+5.  Appeal court, on 14-12-1835:  
+
+    > The vadagalaiyars have been stubbornly defying tengalai dominance
+    > even against law. Their intent is to chase away the tengalaiyars
+    > from their privileged positions by continually troubling them and
+    > depriving them of their powers. The tengalaiyars must be enabled
+    > to enjoy their privileges without any hindrance, while the
+    > offenders of law must be penalized appropriately.
+
+&nbsp;
+
+6.  Collector’s judgement, 13-4-1820:  
+
+    > Should there be any doubt regarding temple practices, only the
+    > tengalaiyars learned in such practices must be approached for a
+    > resolution.
+
+&nbsp;
+
+7.  It is a recorded fact that some vadagalaiyars who disobeyed the 1808
+    judgement were penalized with a restriction to enter the ‘aryabattal
+    vaasal’ (a certain entrance to the temple), and they were allowed
+    again to enter the temple only after getting a bail.
+
+&nbsp;
+
+8.  When some temple artifacts were brought out on the streets during
+    the visit of Ahobilam Jeeyar starting from the year 1829 CE, a stay
+    order was issued with only a permission for recital of svasti
+    vachanam by tengaliyars during such events.
+
+&nbsp;
+
+9.  Here is a gist of the order passed by Bennington when Kodiyalam
+    Rengasamy Iyengar arranged to bring out the processional deity of
+    Tengalai Vedantachariar of Srirangam temple with a vadagalai
+    tiruman:  
+
+    > The vadagalaiyars have continually been searching for ways to
+    > disobey the decree of 1808. The age old privileges and rights of
+    > tengalaiyars is much evident. We learn from the list created in
+    > 1863 that every single tiruman in the temple – be it on the walls,
+    > vessels, idols, or any artifacts – was tengalai. The vadagalai
+    > tiruman on desikar is clearly ignoble, against age old practices
+    > and also illegal. (Kodiyalam) Rengasamy Iyengar seems to have
+    > arranged to bring out the processional deities of Vedantachariar
+    > and Nathamunigal sporting vadagalai tiruman with the sole
+    > intention of hurting the sentiments of tengalaiyars. In view of
+    > this crime, he is imposed with a fine of Rs. 1000, failing which
+    > he shall be imprisoned for six months.
+
+    This decree was upheld even in the high court.
+
+&nbsp;
+
+10. Consequently, there were four cases in the high court pleading to
+    allow Desikar and Nathamunigal to be brought out in procession,
+    sporting a vadagalai tiruman, which were dismissed. In the order
+    passed on this dispute, the high court has noted that the
+    vadagalaiyars have repeatedly been requesting to authorize them to
+    go against the decree of 1808 which otherwise authorizes only
+    tengalai customs for worship in all shrines within the temple. The
+    court had warned them not to do so.
+
+
+Source: [here](https://visadavaak.wordpress.com/2016/07/12/clarification-of-a-strong-doubt-part-8-concluded/).
+
+
+
+11\. In the year 1894 CE, some vadagalaiyars tried to distort the idols with tengalai tiruman in shesharayar mantapam using chisels. This was noted by the courts as sheer atrocity of the vadagalaiyars. As a consequence of this atrocity and many more of such acts of hatred, they were fined with an amount of Rs. 500 each, along with a sentence of imprisonment for three months.
+
+12\. The magistrate had ordered not to bring out the processional deity of Desikar installed at the *Private House* in Chittarai street of Srirangam. In 1909, an appeal was raised against this order. The vadagalaiyars argued that they would bring out *veli desikar* (desikar located outside of temple) in the streets in procession just as how Privy Council had ordered that Manavala Mamunigal may be taken in procession in public streets at Tiruvahindrapuram. All evidences and exhibits in this case were analyzed in great detail and finally the ruling of 1808 decree was upheld. As a part of this judgement, it is recorded thus: “The dominance of tengalaiyars in this temple is ancient. The vadagalaiyars have come to dominate the temple only recently. All the rituals of the temple are in accordance with the tengalai practices. All tirumans are tengalai. It is only a recent development that there have been some isolated instances of sighting vadagalai tiruman on the outer walls of the temple. Such changes are not ancient.”
+
+13\. A certain order pertaining to the dispute on Sri Ranga Narayana Jeeyar’s privileges at the temple, passed in the year 1909, has concluded thus: “All customs and practices of the temple are tengalai. All the rituals are supervised by the Jeeyar”.
+
+In the case of vadagalai veda parayanam in the temple, the decree of 1808 passed by Latham ruled the outcome leading to the practices to be followed.
+
+14\. Here’s a gist of the order passed in the case of *archaka namaskaram* which went on for a long time: “From all the exhibits mentioned here, it becomes clear that the temple had tengalai dominance even prior to 1808, for a very long time. The tengalai privilege is evident in every event of the temple. The priests are highly bound by the tengalai practices in all instances. The tengalai naamam is very distinct and imposing. The chanting of Srisailesa dayapatram prayer is undisputed and stands distinguished. The Srisailesa dayapatra prayer and tengalai vaazhi tirunamam (closing prayer) are clearly followed in every event such as reading of the almanac, recital of gadyatrayam, kaisika puranam, *aayanar padippu*, recital of azhwar’s hymns, etc. in an undisputed fashion. All trusteeships and all honors are exclusively for tengalaiyars. From all these, it is very clear that the temple practices are tengalai. Lawyer Srinivasayyar \[one of the trustees\] is aloof from all tengalai-vadagalai fights. He is a renowed lawyer. His affidavits shall be regarded highly.”
+
+15\. Apart from all the aforesaid records, there are still hundreds of them which can be cited to show the tengalai dominance at the temple. All of these records could themselves be published as an independent book.
+
+16\. There is a chance that the vadagalaiyars point about these cases regarding the temple of Srirangam. Vadagalai Nathamuni Rengaiyyangar was slapped with a fine of Rs. 1000 for changing the tiruman at Dhanvantari shrine by a lower court. But the fine was recalled at a higher court citing a technical reason. This fact might be stated by the vadagalaiyars in favor of themselves. But it must be noted that the order never said that they could adorn a vadagalai tiruman on the deities. It only concludes that the fine was unjustified because the case was never heard legally. Therefore, the aforesaid fact is not really in favor of them.
+
+17\. In fact, it has been observed in other instances that such reversal of fine in the case of Kodiyalam Rengasamy Iyengar for having changed the tiruman on tengalai Vedantachariar was quite unfortunate; and that this itself was an inspiration for the vadagalaiyars to pursue their atrocities further.
+
+18\. Although there are umpteen records to show the turn of events at Srirangam, enough to compete with Sri Ramayanam and Mahabharatam, we stop at this – considering this sufficient enough to drive home the point.
+
+I hereby declare that all the aforesaid points related to Srirangam temple were quoted by me from the various temple records.
+
+                                   
+                (Sd) V. N. VENKATA VARADACHARI,
+
+ Advocate, Vedavilas, Madras-8.
+
+
