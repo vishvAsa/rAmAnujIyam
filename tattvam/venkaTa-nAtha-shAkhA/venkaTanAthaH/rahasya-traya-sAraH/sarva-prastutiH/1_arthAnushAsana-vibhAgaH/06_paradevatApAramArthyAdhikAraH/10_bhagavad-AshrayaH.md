@@ -244,7 +244,7 @@ like rivers flowing into the ocean, (although we do not desire them now)."
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-ईशाण्डान् इत्यसौ रामानुजाय नृसिंहमन्त्रम् उपादिशद् इति विजयेन श्रुतम्। 
+ईशाण्डान् इत्यसौ रामानुजाय नृसिंह-मन्त्रम् उपादिशद् इति विजयेन श्रुतम्। 
 </details>
 
 <details><summary>English</summary>
