@@ -7780,7 +7780,7 @@ But there is no contradiction between two different conditions of a thing which 
 ## न श्रुतौ निर्विशेष-ब्रह्म-विज्ञानम्
 <details><summary>विषयः</summary>
 
-Scripture does not teach that Release is due to the knowledge of a non-qualified Brahman.--the meaning of 'tat tvam asi.'
+Scripture does not teach that Release is due to the knowledge of a non-qualified Brahman. -- the meaning of 'tat tvam asi.'
 </details>
 
 ### वेदान्तानां निर्विशेषब्रह्मविज्ञानेन अविद्यानिवृत्तिपरत्वशङ्का-परिहारौ
