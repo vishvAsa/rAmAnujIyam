@@ -2,21 +2,181 @@
 title = "७ निवर्तकानुपपत्तिः"
 +++
 
-## निवर्तकज्ञानस्य ज्ञात्रनुपपत्तिः
-
+## दुष्टैक्य-ज्ञानं बन्धाय
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च – चिन्-मात्र-ब्रह्म-व्यतिरिक्त-कृत्स्न-निषेध-विषय-ज्ञानस्य को ऽयं ज्ञाता अध्यास-रूप इति चेत् न; तस्य निषेध्यतया निवर्तक-ज्ञान-कर्मत्वात् तत्-कर्तृत्वानुपपत्तेः।
+भवद्-अभिमतस्यैक्य-ज्ञानस्य  
+यथाऽवस्थित-वस्तु- विपरीत-विषयस्य  
+मिथ्या-रूपत्वेन बन्ध-विवृद्धिर् एव फलं भवति +++(5)+++  
+
+> मिथ्यैतद् अन्यद् द्रव्यं हि  
+नैति तद्-द्रव्यतां यतः  
+(वि.पु.२.१४.२७) 
+
+इति शास्त्रात्,
 </details>
 
 <details><summary>English</summary>
 
-Who moreover should, according to you, be the cognising subject in a cognition which has for its object the negation of everything that is different from Brahman?--That cognising subject is himself something fictitiously superimposed on Brahman!--This may not be, we reply: he himself would in that case be something to be negatived, and hence an object of the 'terminating' cognition; he could not therefore be the subject of cognition!--
+As the cognition of universal oneness which you assume rests on a view of things directly contrary to reality, and therefore is false, the only effect it can have is to strengthen the ties of bondage.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अपि च – चिन्मात्रब्रह्मव्यतिरिक्तकृत्स्ननिषेधविषयज्ञानस्य कोऽयं ज्ञाता अध्यासरूप इति चेन्न; तस्य निषेध्यतया निवर्तकज्ञानकर्मत्वात् तत्कर्तृत्वानुपपत्तेः।
+भवदभिमतस्यैक्यज्ञानस्य यथावस्थितवस्तु-विपरीतविषयस्य मिथ्यारूपत्वेन बन्धविवृद्धिरेव फलं भवति मिथ्यैतदन्यद्द्रव्यं हि नैति तद्द्रव्यतां यतः (वि.पु.२.१४.२७) इति शास्त्रात्।
+</details>
+
+
+<details><summary>टीका</summary>
+
+प्रपञ्चस्य ज्ञानानिवर्त्यत्वम् उक्तम् । ऐक्यज्ञानस्योपायत्वानुपपत्तिम् आह - भवदभिमतस्य इति । तत्त्वज्ञानं हि मोक्षोपायः । भिन्नविषयस्याभेदज्ञानस्य अतत्त्वज्ञानरूपत्वाद्विपरीतफलत्वम् इत्य् अर्थः । अद्वैतस्य अतथ्यत्वे प्रमाणम् आह - मिथ्यैतदिति । ऐक्यस्य अतात्त्विकत्व-कण्ठोक्तिर् दर्शिता ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उत्तमः पुरुषस् त्व् अन्यः (भ.गी.१५.१७), 
+
+> पृथग् आत्मानं प्रेरितारं च मत्वा (श्वे.१.६) 
+
+इति जीवात्म-विसजातीयस्य  
+तद्-अन्तर्यामिणो ब्रह्मणो ज्ञानं  
+परम-पुरुषार्थ-लक्षण- मोक्ष-साधनम् इत्य् उपदेशात् च॥
+</details>
+
+<details><summary>English</summary>
+
+Moreover, texts such as 'But different is the highest Person' (Bha. Gī. XV, 17), and 'Having known the Self and the Mover as separate' (Śvet. Up. I, 6), teach that it is the cognition of Brahman as the inward ruler different from the individual soul, that effects the highest aim of man, i.e. final release.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्तमः पुरुषस्त्वन्यः (भ.गी.१५.१७), पृथगात्मानं प्रेरितारं च मत्वा (श्वे.१.६) इति जीवात्मविसजातीयस्य तदन्तर्यामिणो ब्रह्मणो ज्ञानं परमपुरुषार्थलक्षणमोक्षसाधनमित्युपदेशाच्च॥
+</details>
+
+
+<details><summary>टीका</summary>
+
+ऐक्यस्य असत्यत्वं यथा फलति, तथा भेदज्ञानस्यैव मोक्ष-हेतुत्वम् आह - उत्तम इति । स्मृतिवचसोः सङ्गत्यर्थं श्रुतेः पश्चादुपादानम् ।
+</details>
+
+---
+
+## मिथ्या-रूप-ज्ञान-निवर्तकम् क्व
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च भवद्-अभिमतस्यापि निवर्तक-ज्ञानस्य मिथ्या-रूपत्वात्  
+तस्य निवर्तकान्तरं मृग्यम्।
+</details>
+
+<details><summary>English</summary>
+
+And, further, as that 'bondage-terminating' knowledge which you assume is itself unreal, we should have to look out for another act of cognition to put an end to it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च भवदभिमतस्यापि निवर्तकज्ञानस्य मिथ्यारूपत्वात्तस्य निवर्तकान्तरं मृग्यम्।
+</details>
+
+
+<details><summary>टीका</summary>
+
+ऐक्य-ज्ञानस्य निवर्तकत्वे प्रमाणविरोध उक्तः । अथ तर्कविरोधम् आह - अपिचेति ।
+</details>
+
+---
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निवर्तक-ज्ञानम् इदं स्व-विरोधि  
+सर्वं भेद-ज्ञानं निवर्त्य  
+क्षणिकत्वात् स्वयम् एव नश्यति
+
+इति चेन् न;  
+तत्-स्वरूप-- तद्-उत्पत्ति-विनाशानां काल्पनिकत्वेन  
+विनाश--तत्-कल्पना-कल्पक-रूपाविद्याया निवर्तकान्तरं अन्वेषणीयम्।
+</details>
+
+<details><summary>English</summary>
+
+--But may it not be said that this terminating cognition, after having put an end to the whole aggregate of distinctions antagonistic to it, immediately passes away itself, because being of a merely instantaneous nature?--No, we reply. Since its nature, its origination, and its destruction are all alike fictitious, we have clearly to search for another agency capable of destroying that avidyā which is the cause of the fiction of its destruction!--
+</details>
+
+<details><summary>मूलम्</summary>
+
+निवर्तकज्ञानमिदं स्वविरोधि सर्वं भेदज्ञानं निवर्त्य क्षणिकत्वात्स्वयमेव नश्यतीति चेन्न; तत्स्वरूपतदुत्पत्तिविनाशानां काल्पनिकत्वेन विनाशतत्कल्पनाकल्पकरूपाविद्याया निवर्तकान्तरं अन्वेषणीयम्।
+</details>
+
+
+<details><summary>टीका</summary>
+
+दावानल-विष-नाशक-विष दृष्टान्ताभिप्रायेण शङ्कते - निवर्तकज्ञानमिति । निवर्तकज्ञानं तद्विनाशश्च किं ब्रह्म-व्यतिरिक्तम्, उत स्वरूपम् इति विकल्पम् अभिप्रेत्याह - नेति । ब्रह्म-व्यतिरिक्तत्वाद् घटादेर् इव विनाशस्य काल्पनिकत्वम्, यथा स्वप्नपदार्थस्वरूपतदुत्पत्ति-स्थितीनां काल्पनिकत्वान्नाशश्च काल्पनिकः, तथेति भावः । विनाशतत्कल्पनाकल्पकरूपाविद्याया इति । विनाशः कल्प्यः, तद्विषयभ्रमबुद्धिः कल्पना, कल्पकः भ्रमाश्रयादिः; एवंरूपाविद्याया इत्यर्थः ।
+</details>
+
+---
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तद्-विनाशो ब्रह्म-स्वरूपम् एवे"ति चेत्;  
+तथा सति निवर्तक-ज्ञानोत्पत्तिर् एव न स्यात्,  
+तद्+++(→निवर्तक-ज्ञान)+++-विनाशे +++(→ब्रह्म-स्वरूपे)+++ तिष्ठति, तद्-उत्पत्त्य्-असम्भवात्॥ +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Let us then say that the essential nature of Brahman itself is the destruction of that cognition!--From this it would follow, we reply, that such 'terminating' knowledge would not arise at all; for that the destruction of what is something permanent can clearly not originate!--
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्विनाशो ब्रह्मस्वरूपमेवेति चेत्; तथा सति निवर्तकज्ञानोत्पत्तिरेव न स्यात्, तद्विनाशे तिष्ठति, तदुत्पत्त्यसम्भवात्॥
+</details>
+
+
+<details><summary>टीका</summary>
+
+स्वरूप-पक्षं दूषयति - तथा सतीति । पूर्वस्मिन् पक्षे दूषणं प्रकारान्तरेणाप्युक्तं वेदार्थसङ्ग्रहे, "भाव-रूपस्य नाशो ह्युत्तरावस्था-प्राप्तिः । सा चात्रानुपपन्ना; ब्रह्म-व्यतिरिक्तस्यावस्थावतो ऽन्यस्य स्थित्यभ्युपगमे अद्वैत-हानि-प्रसङ्गात्" इति । भावान्तरं ह्य् अभावः । घटस्य प्रागभावः पिण्डत्वादि-पूर्वावस्था, प्रध्वंसः कपालत्वाद्य्-उत्तरावस्था, इतरेतराभावो ऽपि अश्वस्य गोत्वाभावो ऽश्वत्वम्, गोर् अप्य् अश्वत्वाभावो गोत्वम् । संसर्गाभावे कथं भाव-रूपत्वम् । यदि मही-मात्रम् एव, तर्हि घट-संसर्गे सत्यपि [[संसर्गभावः|संसर्गाभावः]] स्यात् । यद्य् अतिरिक्तः, तर्ह्य् अभावो ऽङ्गीकृत इति । उच्यते । भवत्पक्षे अभावाश्रयस्य यत् वैलक्षण्यम्, तदेव संसर्गाभावः । यदि मही-मात्रम् एव अभावाश्रयः, तर्हि भावाश्रय-भूतले ऽप्य् अभावाश्रयत्व-प्रसङ्गः; तत्रापि मही-मात्र-सद्भावात् । यदि केनचिद्विशेषेण विशिष्टं भूतलमभावाश्रयः, स एव विशेषः संसर्गाभाव इति । काल-विशेष-विशिष्टत्वे सति देश-विशेषत्वम् एव स च विशेषः । तदानीमेव घट-सहित-[[प्रदेशन्तर|प्रदेशान्तर]]-व्यावृत्त्यर्थं देश-विशेषत्वम् इत्युक्ते; तस्यैव देशस्य कालान्तरे [[घटहितस्य|घट-सहितस्य]] व्यावृत्त्यर्थं काल-विशेष-विशिष्टत्वे सतीत्य् उक्तम् । यथाऽऽहुः - "संसर्गाभावम् एवं विदुरिह सुधियो भावम् एव त्व् अभावं मन्वानाः, कुम्भवद्-भूतलत इतर-भूभाग-भेदस् त्व् अभावः । यस्तत्तत्कालभेदव्यतिकरितगृहप्राङ्गणादिप्रदेशः कुम्भाभावाश्रयो ऽन्यैर् अगणि स इह नः क्वाधिकस्योपलम्भः ।" इति । नाशस्यावस्थान्तरत्वात् कर्म-नाशं वदतस्तवापि चोद्यं तुल्यमिति चेत् - न । कर्म ह्य् अस्मत्-पक्षे भगवत्-प्रीत्यप्रीतिरूपम् । तत्र यः संसार-फलानुगुणः सङ्कल्पः, तत् विनाश्यं कर्म; यस्तु मोक्षानुगुणः सङ्कल्पः, स एव पूर्वस्य नाश इत्युपपन्नमेव, "धातुः प्रसादान् महिमानम् ईशम्" इत्य् आदिभिः ।
+</details>
+
+---
+
+
+## निवर्तक-ज्ञान-ज्ञाता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च – चिन्-मात्र-ब्रह्म-व्यतिरिक्त- कृत्स्न-निषेध-विषय-ज्ञानस्य  
+को ऽयं ज्ञाता?  
+</details>
+
+<details><summary>English</summary>
+
+Who moreover should, according to you, be the cognising subject in a cognition which has for its object the negation of everything that is different from Brahman?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च – चिन्मात्रब्रह्मव्यतिरिक्तकृत्स्ननिषेधविषयज्ञानस्य कोऽयं ज्ञाता 
+</details>
+
+### नाध्यासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"+++(ज्ञाता)+++ अध्यास-रूप" इति चेन् न;  
+तस्य निषेध्यतया  
+निवर्तक-ज्ञान-कर्मत्वात्  
+तत्-कर्तृत्वानुपपत्तेः।
+</details>
+
+<details><summary>English</summary>
+
+--That cognising subject is himself something fictitiously superimposed on Brahman!--This may not be, we reply: he himself would in that case be something to be negatived, and hence an object of the 'terminating' cognition; he could not therefore be the subject of cognition!--
+</details>
+
+<details><summary>मूलम्</summary>
+
+अध्यासरूप इति चेन्न; तस्य निषेध्यतया निवर्तकज्ञानकर्मत्वात् तत्कर्तृत्वानुपपत्तेः।
 </details>
 
 
@@ -27,9 +187,12 @@ Who moreover should, according to you, be the cognising subject in a cognition w
 
 ---
 
+### न ब्रह्म-स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म स्वरूपम् इति चेत्; ब्रह्मणो निवर्तक-ज्ञानं प्रति ज्ञातृत्वं किं स्वरूपम्; उताध्यस्तम्।
+"+++(ज्ञाता)+++ ब्रह्म-स्वरूपम्" इति चेत्;  
+ब्रह्मणो निवर्तक-ज्ञानं प्रति ज्ञातृत्वं  
+किं स्वरूपम्; उताध्यस्तम्।
 </details>
 
 <details><summary>English</summary>
@@ -48,11 +211,12 @@ Well, then, let us assume that the essential nature of Brahman itself is the cog
 निवर्त्यत्वे सति हि कर्मकर्तृविरोधः । अतस् तत्-परिहारार्थं स्वरूप-पक्षं शङ्कते ब्रह्मेति । ज्ञातृत्वधर्मविकल्पो ऽयम् । किं स्वरूपम् इति । [[स्वरूपम्स्वा- भाविकमित्यर्थः|स्वरूपं स्वाभाविकम् इत्य् अर्थः]] ।
 </details>
 
----
+#### नाध्यस्त-ज्ञातृत्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अध्यस्तं चेत्, अयम् अध्यासस् तन्-मूलाविद्यान्तरं च निवर्तक-ज्ञानाविषयतया तिष्ठत्य् एव।
+"अध्यस्तं" चेत्,  
+अयम् अध्यासस्, तन्-मूलाविद्यान्तरं च निवर्तक-ज्ञानाविषयतया तिष्ठत्य् एव।
 </details>
 
 <details><summary>English</summary>
@@ -75,7 +239,9 @@ In the latter case that superimposition and the Nescience founded on it would pe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निवर्तक-ज्ञानान्तराभ्युपगमे तस्यापि त्रि-रूपत्वात् ज्ञात्रपेक्षया ऽनवस्था स्यात्।
+निवर्तक-ज्ञानान्तराभ्युपगमे  
+तस्यापि +++(ज्ञातृ-ज्ञेय-ज्ञान→)+++त्रि-रूपत्वात्  
+ज्ञात्र्-अपेक्षया ऽनवस्था स्यात्।
 </details>
 
 <details><summary>English</summary>
@@ -94,11 +260,11 @@ and if a further terminating act of knowledge were assumed, that also would poss
 निवर्तक-ज्ञानान्तराभ्युपगमे तस्यापि कस्यचित् कञ्चित् प्रति सिद्धि-रूपतया ज्ञात्रपेक्षया ऽनवस्था स्याद् इत्य् आह - निवर्तकेति ।
 </details>
 
----
-
+#### न स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म-स्वरूपस्यैव ज्ञातृत्वे ऽस्मदीय एव पक्षः परिगृहीतस् स्यात्।
+ब्रह्म-स्वरूपस्यैव ज्ञातृत्वे  
+ऽस्मदीय एव पक्षः परिगृहीतस् स्यात् +++("ब्रह्म ज्ञान-मात्रं ने"ति)+++।
 </details>
 
 <details><summary>English</summary>
@@ -122,11 +288,18 @@ If, on the other hand, the essential nature of Brahman itself constitutes the kn
 आद्यं शिरो दूषयति - ब्रह्म-स्वरूपस्य इति । निरुपाधिकस्यैव ब्रह्म-स्वरूपस्याभ्युपगम्यमानं ज्ञातृत्वं स्वाभाविकम् इति भवताम् अपि सिद्धान्तः स्याद् इत्य् अर्थः ।
 </details>
 
----
-
+#### न निवर्त्यान्तर्गतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निवर्तक-ज्ञान-स्वरूपं स्वस्य ज्ञाता च ब्रह्म-व्यतिरिक्तत्वेन स्व-निवर्त्यान्तर्गतम् इति वचनं भूतल-व्यतिरिक्तं कृत्स्नं देवदत्तेन च्छिन्नम् इत्य् अस्याम् एव च्छेदन्-क्रियायाम् अस्य च्छेत्तुः अस्याश् छेदन-क्रियायाश् च च्छेद्यानुप्रवेश-वचन-वद्-उपहास्यम्।
+> निवर्तक-ज्ञान-स्वरूपं, स्वस्य ज्ञाता च  
+ब्रह्म-व्यतिरिक्तत्वेन स्व-निवर्त्यान्तर्गतम् 
+
+इति वचनं  
+
+> भूतल-व्यतिरिक्तं कृत्स्नं देवदत्तेन च्छिन्नम् 
+
+इत्य् अस्याम् एव च्छेदन्-क्रियायाम्  
+अस्य च्छेत्तुः, अस्याश् छेदन-क्रियायाश् च च्छेद्यानुप्रवेश-वचन-वद् उपहास्यम्।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -146,10 +319,13 @@ And if you should say that the terminating knowledge itself and the knowing subj
 </details>
 
 ---
-
+### स्व-नाश-कर्तृता?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अध्यस्तो ज्ञाता स्व-नाश-हेतु-भूत-निवर्तक-ज्ञाने स्वयं कर्ता च न भवति, स्व-नाशस्यापुरुषार्थत्वात्।
+अध्यस्तो ज्ञाता  
+स्व-नाश-हेतु-भूत-निवर्तक-ज्ञाने  
+स्वयं कर्ता च न भवति,  
+स्व-नाशस्यापुरुषार्थत्वात्। +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -165,14 +341,14 @@ The second alternative, on the other hand – according to which the knowing sub
 
 <details><summary>टीका</summary>
 
-ज्ञातुर् अपि निवर्तक-ज्ञान-निवर्त्यत्वे निवर्तक-[[निवर्तकज्ञेनार्थं|ज्ञानार्थं]] श्रवणादौ प्रवृत्तिश् च न स्याद् इत्य् आह - अध्यस्तो ज्ञातेति ।
+ज्ञातुर् अपि निवर्तक-ज्ञान-निवर्त्यत्वे निवर्तक-ज्ञानार्थं श्रवणादौ प्रवृत्तिश् च न स्याद् इत्य् आह - अध्यस्तो ज्ञातेति ।
 </details>
 
 ---
-
+### ब्रह्म-स्वरूप-कर्तृता?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्-नाशस्य ब्रह्म-स्वरूपत्वाभ्युपगमे भेद-दर्शन-तन्-मूलाविद्यादीनां कल्पनम् एव न स्यात्।
+तन्+++(→ज्ञातृ)+++-नाशस्य ब्रह्म-स्वरूपत्वाभ्युपगमे भेद-दर्शन--तन्-मूलाविद्यादीनां कल्पनम् एव न स्यात्।
 </details>
 
 <details><summary>English</summary>
@@ -200,7 +376,7 @@ And should it be said that the destruction of the knowing agent belongs to the v
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्य् अलम् अनेन दिष्ट-हत-मुद्गराभिघातेन॥
+इत्य् अलम् अनेन दिष्ट+++(=विधि)+++-हत-मुद्गराभिघातेन॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -221,111 +397,3 @@ And should it be said that the destruction of the knowing agent belongs to the v
 
 ---
 
-## कर्मविचारपूर्ववृत्ततायुक्ततमत्वम्
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तस्मात् अनादि-कर्म-प्रवाह-रूपाज्ञान-मूलत्वात् बन्धस्य तन्-[[निबर्हाणं|निबर्हणम्]] उक्त-लक्षण-ज्ञानादेव।
-</details>
-
-<details><summary>English</summary>
-
-All this confirms our theory, viz. that since bondage springs from ajṇāna in the form of an eternal stream of karman, it can be destroyed only through knowledge of the kind maintained by us.
-</details>
-
-<details><summary>मूलम्</summary>
-
-तस्मादनादिकर्मप्रवाहरूपाज्ञानमूलत्वाद्बन्धस्य तन्[[निबर्हाणं|निबर्हणम्]] उक्तलक्षणज्ञानादेव।
-</details>
-
-
-<details><summary>टीका</summary>
-
-एवं ब्रह्म-व्यतिरिक्त-कृत्स्न-मिथ्यात्व-निराकरणेन बन्धस्य सत्यत्व-सिद्धेस् तन्-निवृत्तिः कर्म-सापेक्ष-उपासनात्मक-[[ज्ञानेदेवेति|ज्ञानादेवेति]] कर्म-विचार-पूर्ववृत्तत्वं युक्तम् इत्य् आह - तस्माद् इति । तस्मात् साधन-चतुष्टयस्य ब्रह्म-विचारं प्रति पूर्ववृत्तत्वे वस्तु-सामर्थ्यं नाम हेतुर् उक्तः; तच् च निर्विशेष-ब्रह्माध्यस्त-प्रपञ्चस्य कर्म-निरपेक्ष-ज्ञान-निवर्त्यत्वम्; तच् चानुपपन्नम् इत्य् उपपादनेन वस्तु-सामर्थ्यासिद्धेरित्य् अर्थः । स्वरूप-अनादित्व-व्यावृत्त्यर्थं प्रवाह-शब्दः । अनिर्वचनीय-व्यावृत्त्यर्थः कर्म-शब्दः । उक्त-लक्षण-ज्ञानादेव - उपासनात्मकाद् एव ।
-</details>
-
----
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तदुत्पत्तिस् च अहरहः अनुष्ठीयमान-परम-पुरुषाराधन-वेषात्म-याथात्म्य-बुद्धि-विशेष-संस्कृत-वर्णाश्रमोचित-कर्म-लभ्या।
-</details>
-
-<details><summary>English</summary>
-
-Such knowledge is to be attained only through the due daily performance of religious duties as prescribed for a man's caste and āśrama, such performance being sanctified by the accompanying thought of the true nature of the Self, and having the character of propitiation of the highest Person.
-</details>
-
-<details><summary>मूलम्</summary>
-
-तदुत्पत्तिश्च अहरहः अनुष्ठीयमानपरमपुरुषाराधनवेषात्मयाथात्म्यबुद्धिविशेषसंस्कृतवर्णाश्रमोचितकर्मलभ्या।
-</details>
-
-
-<details><summary>टीका</summary>
-
-तदुत्पत्तिर् वर्णाश्रमोचित-[[कमर्|कर्म]]-लभ्या ऽस्तु; ततः किम् उपासनादि-स्वरूप-ज्ञानं प्रति प्रस्तुत-कर्म-विचार-पूर्ववृत्तत्वस्येत्य् अत्राह - तत्रेति ।
-</details>
-
----
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तत्र केवल-कर्मणाम् अल्पास्थिर-फलत्वम्, अनभिसंहित-फल-परम-पुरुषाराधन-वेषाणां कर्मणां उपासनात्मक-ज्ञानोत्पत्ति-द्वारेण ब्रह्म-याथात्म्यानुभवरूपानन्त-स्थिर-फलत्वं च कर्म-स्वरूप-ज्ञानात् ऋते न ज्ञायते।
-</details>
-
-<details><summary>English</summary>
-
-Now, that mere works produce limited and non-permanent results only, and that on the other hand works not aiming at an immediate result but meant to please the highest Person, bring about knowledge of the character of devout meditation, and thereby the unlimited and permanent result of the intuition of Brahman being the Self of all – these are points not to be known without an insight into the nature of works,
-</details>
-
-<details><summary>मूलम्</summary>
-
-तत्र केवलकर्मणामल्पास्थिरफलत्वम्, अनभिसंहितफलपरमपुरुषाराधनवेषाणां कर्मणां उपासनात्मक-ज्ञानोत्पत्तिद्वारेण ब्रह्मयाथात्म्यानुभवरूपानन्तस्थिरफलत्वं च कर्मस्वरूपज्ञानादृते न ज्ञायते।
-</details>
-
-
-<details><summary>टीका</summary>
-
-कर्म-विचाराद् एव तस्य अल्पास्थिर-फलत्व-ज्ञानं फलितम् इति भावः । अनभिसंहितफलेति । "यज्ञेन दानेन" इत्य् आदि-कर्म-विनियोजक-वाक्यार्थ-ज्ञानस्य पदार्थ-ज्ञान-पूर्वकत्वात् पदार्थ-भूत-कर्म-स्वरूपाख्य-विशेष्य-ज्ञानात् ऋते उपासना-द्वारा अनन्त-स्थिर-फलत्व-रूपं पदार्थ-ज्ञान-पूर्वकत्वात् पदार्थ-भूत-कर्म-स्वरूपाख्य-विशेष्य-ज्ञानात् ऋते उपासना-द्वारा अनन्त-स्थिर-फलत्व-रूपं विशेषणं च न ज्ञायते इति भावः ।
-</details>
-
----
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-केवलाकार-परित्याग-पूर्वक-यथोक्त-स्वरूप-कर्मोपादानं च न सम्भवतीति कर्म-विचारानन्तरं तत एव हेतोः ब्रह्म-विचारः कर्तव्य इति अथात इत्य् उक्तम्।
-</details>
-
-<details><summary>English</summary>
-
-and hence, without this, the attitude described – which is preceded by the abandonment of mere works – cannot be reached. For these reasons the enquiry into Brahman has to be entered upon _after_ the enquiry into the nature of works.
-</details>
-
-<details><summary>मूलम्</summary>
-
-केवलाकारपरित्यागपूर्वक-यथोक्तस्वरूपकर्मोपादानं च न सम्भवतीति कर्मविचारानन्तरं तत एव हेतोः ब्रह्मविचारः कर्तव्य इति अथात इत्युक्तम्।
-</details>
-
-
-<details><summary>टीका</summary>
-
-ततः किम् इत्य् अत्राह - केवलेति । केवलाकारः - आत्म-याथात्म्य-बुद्धि-संस्कार-शून्याकारः । हानार्थम् उपादानार्थं च हि कस्यचिद् ज्ञानम् । तत्र फल-द्वारा कर्म त्याज्यम्; स्व-रूपेणोपादेयम्; उभयार्थं ज्ञानं कर्म-विचारात् ऋते न सिध्यति । तस्मात् कर्म-विचार-निवृत्तौ तज्-ज्ञान-फलं हानम् उपादानं च न भवतीत्य् अर्थः । अथातश्-शब्दार्थं निगमयति इति कर्म-विचारानन्तरम् इति । ब्रह्म-विचारः कर्तव्य इत्य् अनेन ब्रह्म-जिज्ञासा-[[शब्दाथर्ः|शब्दार्थः]] उक्तः । विचारस्य कर्तव्यतायां नातीव विवादः, शाब्दः [[आथर्ः|आर्थः]] इत्य् एतावद् एव हि वैषम्यम् । अथातश्-शब्दार्थ एव ह्य् अतीव विवादः । अतः अथात इत्य् एतावद् उपात्तम् ॥
-</details>
-
----
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इति महा-सिद्धान्तः
-</details>
-
-<details><summary>English</summary>
-
-[Thus ends the Great Siddhānta.]
-</details>
-
-<details><summary>मूलम्</summary>
-
-इति महासिद्धान्तः
-</details>
