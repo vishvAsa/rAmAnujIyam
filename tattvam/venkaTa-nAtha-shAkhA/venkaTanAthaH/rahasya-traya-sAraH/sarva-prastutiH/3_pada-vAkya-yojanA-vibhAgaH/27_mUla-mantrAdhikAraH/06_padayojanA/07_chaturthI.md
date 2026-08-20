@@ -12,6 +12,14 @@ THE MEANING OF THE DATIVE (FOURTH) CASE OF THE WORD NĀRĀYAṆA (i.e.) NĀRĀYA
 El significado del caso dativo (cuarto) de la palabra nārāyaṇa (**es decir**) nārāyaņāya:
 </details>
 
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**मुन्दॆ नारायण-पददॊन्दिगिरुव चतुर्थिय अर्थगळन्नु तिळिसुत्तारॆ.** 
+
+नारायणाय ऎम्बल्लिरुव नारायण-शब्दक्कॆ सम्पूर्णवागि अर्थगळन्नॆल्ला तिळिसिदरु. चतुर्थि-विभक्तियिन्द तोरुव अर्थगळनु व्यक्तपडिसुतारॆ - 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन् नारायण-शब्दत्तिल् चतुर्थियाले  
@@ -46,6 +54,12 @@ que **se correspondirá** con el significado de las **oraciones** que **se mostr
 इन् नारायणशब्दत्तिल् चतुर्थियाले मेल् सॊल्लप्पुगुगिऱ वाक्यार्थङ्गळुक्कीडाग तादर्थ्यादिगळ् काट्टप्पडुगिऱऩ। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
 
 
 ## व्याकरणतो नमः-प्रेरिता
