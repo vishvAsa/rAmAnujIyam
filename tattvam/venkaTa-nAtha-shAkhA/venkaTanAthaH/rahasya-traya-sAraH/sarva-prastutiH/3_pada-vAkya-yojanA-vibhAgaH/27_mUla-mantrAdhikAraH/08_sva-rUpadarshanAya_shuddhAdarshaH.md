@@ -34,6 +34,12 @@ Por lo tanto, con la **ayuda** de un **estudio** cuidadoso de las **interpretaci
 व्युत्पत्तिपरामर्शत्ताले - व्युत्पत्तिसिद्धार्थपरामर्शत्ताले,  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
