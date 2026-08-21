@@ -3,7 +3,7 @@ title = "उत्तमूरु-वीरराघव-दर्पणः"
 +++
 
 
-Source: [TW](https://archive.org/details/shribhashyaarthadarpanatika)
+Source: [TW double page scan](https://archive.org/details/shribhashyaarthadarpanatika)
 
 TODO: परिष्कार्यम्
 
