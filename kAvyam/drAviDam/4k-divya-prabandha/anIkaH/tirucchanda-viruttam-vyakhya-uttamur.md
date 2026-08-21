@@ -1,4 +1,6 @@
-# Tirucchanda Viruttam Vyakhya
++++
+title = "Tirucchanda Viruttam Vyakhya"
++++
 
 **Original text:** Tirucchanda Viruttam of Tirumazhisai Āḻvār  
 **Commentary:** Uttamūr T. Vīrarāghavācārya  
