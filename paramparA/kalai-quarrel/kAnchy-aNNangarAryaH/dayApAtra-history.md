@@ -45,44 +45,6 @@ Presentation
 </details>
 
 
-<details><summary>विश्वास-टिप्पनी</summary>
-
-Source: [TW](https://youtu.be/cwlrsQ_KepA)
-
-20th CE kAnchI PB aNNangarAchArya errs - rAmAnuja-dayApAtra hatred, parakAla / ahobila yati slander.
-
-00:00 - Intro
-01:55 - aNNangarAchArya good qualities, post 40-s vedAdhyayana. Good sentiments. Devotion to abhinava-ranganAtha, etc..
-03:40 - His own criteria for truth.
-05:45 - **Verifiable lies** - rAmAnuja dayApAtra shloka was well over 300 years old, not as claimed.
-07:30 -  maisUru edict 1649 misrepresented - primary source not quoted. (Correction - 1709 mute king not infant.) Convenient blame on unnamed kannaDa text.
-13:05 - periya parakAla-yati reign - 1677-1738(C.E.) is after this edict. But is slandered to have invented and propagated the shloka.
-18:30 - rAmAnuja-dayA-pAtra taniyan actually found in manuscripts (eg. Sajjana-vaibhava) - but he claims otherwise. This is irrespective out who wrote sajjana-vaibhava.
-21:10 - Presence of vaDakalai AchArya worship/ vigraha-s in shrines.
-22:00  - Labored misinterpretation of parAshara-saMhitA and cobra mark. (vaDakalai vs tenkalai tilaka)
-30:00 - "deshika was tenkalai". Doctrinal dismissals clear in his texts. Here he pleads it's a "Tough subject".
-32:30 - Claim (in sat-sampradAyArtha-sAranidhi) that in rahasya-traya-jIvAtu, ahobila yati opposes deshika. Also, wrong access-number.
-33:15 - **Bad inferences** - venkaTAdhvari's notes on tenkalais
-36:50 - saptati-ratna-mAlikA - Poor editing is not malice.
-38:15 - improprieties in divyadesa-s as devas' hardships. Cuts both ways.
-39:30 - Tanjore district temple conversions.
-39:30  - Where did archaka-s in shrIrangam come from if tenkalai shrIranga-shrI continues as it did? koil olugu incompletenss in 1803.
-42:50 - Avoidence of desecrated tenkalai shrines = deshika's refusal to be adored in VK way.
-46:25 - **Unverifiable slander** - parAshara-bhaTTa as an opponent of unnamed vaDakalais
-47:15 - In Ahobilam, that Mathadhipati's efforts to efface the Tenkalai marks.
-47:45 - **Selective quotes & twists** - Krishna Tatacharya's order to destroy tenkalai mark on deshika shrine; court's order in his favor not quoted.
-49:25 - Unnamed "Govenment records" reveal - Ahobila matha temple conversion - Tiruvellore. Contrary court order not cited.
-50:10 - Azhagiyamanavalamuni's temporary role in kAnchI.
-50:40 - Suspicious viShNu-chittIya pATha inclusion.
-55:15 - **To be checked** - Madras Oriental Library - R. No. 104-H. 38-14 . Vedanta Desika Vaibhava Prakasika. RL to follow up.
-55:40  - Open **Hatred** - Portayal of parakAla-yati (singular number used),  
-57:40 - portayal of ahobila-yati
-59:15 - Glee at the plight of **shrIranga archakas**. "cannot prostrate... twice"
-1:00:10 - Funeral restrictions too!
-1:02:00 - No Adhyayanotsava role for deshika in shrIranga. (**Correction** - misspoke nammALvAr instead of nAthamuni)
-1:03:40 - His own statement - "bigotry makes even a learned person err".
-1:06:40 - Conclusion.
-</details>
 
 
 RAMANUJADAYAPATRA CHARITRAM  
