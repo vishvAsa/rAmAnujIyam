@@ -1,5 +1,5 @@
 +++
-title = "RangAchAri"
+title = "RAMANUJACHARI"
 +++
 
 सत्यमेव जयते 
