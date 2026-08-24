@@ -50,7 +50,7 @@ title = "३१ कारणत्वाधिकरणम्"
 पुनः प्रधान-कारण-वादी प्रत्य् अवतिष्ठते –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here the philosopher who holds the Pradhāna to be the general cause comes forward with another objection.
 </details>
@@ -72,7 +72,7 @@ Here the philosopher who holds the Pradhāna to be the general cause comes forwa
 जगतो ब्रह्मैक-कारणत्वं न युज्यते वक्तुम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vedānta-texts, he says, do not teach that creation proceeds from one and the same agent only, and you therefore have no right to hold that Brahman is the sole cause of the world.
 </details>
@@ -99,7 +99,7 @@ The Vedānta-texts, he says, do not teach that creation proceeds from one and th
 इति सत्-पूर्विका सृष्टिर् आम्नायते;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In one place it is said that our world proceeded from 'Being', 'Being only this was in the beginning' (Cḥ. Up. VI, 2, 1).
 </details>
@@ -116,7 +116,7 @@ In one place it is said that our world proceeded from 'Being', 'Being only this 
 इत्य् असत्-पूर्विका च;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In other places the world is said to have sprung from 'Non-being', 'Non-being indeed this was in the beginning' (Taitt. Up. II, 7, i);
 </details>
@@ -137,7 +137,7 @@ In other places the world is said to have sprung from 'Non-being', 'Non-being in
 इति च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 'Non-being only was this in the beginning; it became Being' (Cḥ. Up. III, 19, 1).
 </details>
@@ -153,7 +153,7 @@ and 'Non-being only was this in the beginning; it became Being' (Cḥ. Up. III, 
 जगतो ब्रह्मैक-कारणत्वं न निश्चेतुं शक्यम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As the Vedānta-texts are thus not consequent in their statements regarding the creator, we cannot conclude from them that Brahman is the sole cause of the world.
 </details>
@@ -174,7 +174,7 @@ As the Vedānta-texts are thus not consequent in their statements regarding the 
 प्रत्युत प्रधान-कारणत्वम् एव निश्चेतुं शक्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the other hand, those texts do enable us to conclude that the Pradhāna only is the universal cause.
 </details>
@@ -203,7 +203,7 @@ On the other hand, those texts do enable us to conclude that the Pradhāna only 
 इत्य् अव्याकृताद् एव जगतस् सृष्टिश् चाभिधीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the text 'Now all this was then undeveloped' (Br̥. Up. I, 4, 7) teaches that the world was merged in the undeveloped Pradhāna. and the subsequent clause, 'That developed itself by form and name,' that from that Undeveloped there resulted the creation of the world.
 </details>
@@ -220,7 +220,7 @@ For the text 'Now all this was then undeveloped' (Br̥. Up. I, 4, 7) teaches tha
 इत्य् अर्थः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and this is none other than the Pradhāna.
 </details>
@@ -241,7 +241,7 @@ and this is none other than the Pradhāna.
 अव्यक्तं प्रधानम् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and this is none other than the Pradhāna.
 </details>
@@ -264,7 +264,7 @@ and this is none other than the Pradhāna.
 ब्रह्मणीव अस्मिन् न विरोत्स्येते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And as this Pradhāna is at the same time eternal, as far as its essential nature is concerned, and the substrate of all change, there is nothing contradictory in the different accounts of creation calling it sometimes 'Being' and sometimes 'Non-being'; while, on the other hand, these terms cannot, without contradiction, both be applied to Brahman.
 </details>
@@ -288,7 +288,7 @@ And as this Pradhāna is at the same time eternal, as far as its essential natur
 ईक्षणादयः कारण-गतास् सृष्ट्य्-औन्मुख्याभिप्रायेण योजयितव्याः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The causality of the Undeveloped having thus been ascertained, such expressions as 'it _thought_, may I be many,' must be interpreted as meaning its being about to proceed to creation.
 </details>
@@ -319,7 +319,7 @@ The causality of the Undeveloped having thus been ascertained, such expressions 
 बृहत्त्व-व्यापित्वाभ्यां प्रधाने एव वर्तेते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The terms 'Self and 'Brahman' also may be applied to the Pradhāna in so far as it is all-pervading(atman from āpnoti), and preeminently great (br̥hat).
 </details>
@@ -342,7 +342,7 @@ The terms 'Self and 'Brahman' also may be applied to the Pradhāna in so far as 
 वेदान्त-वाक्यैः प्रतिपाद्यते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We therefore conclude that the only cause of the world about which the Vedānta-texts give information is the Pradhāna.
 </details>
@@ -367,7 +367,7 @@ We therefore conclude that the only cause of the world about which the Vedānta-
 इति प्राप्ते प्रचक्ष्महे –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This view is set aside by the Sūtra.
 </details>
@@ -384,7 +384,7 @@ This view is set aside by the Sūtra.
 यथा-व्यपदिष्ट-+++(-ब्रह्म)++++उक्तेः ॥ १–४–१४ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 14. And on account of (Brahman) as described being declared to be the cause with regard to Ether, and so on.
 </details>
@@ -400,7 +400,7 @@ This view is set aside by the Sūtra.
 च-शब्दस् तु-शब्दार्थे;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word _and_ is used in the sense of _but_.
 </details>
@@ -417,7 +417,7 @@ The word _and_ is used in the sense of _but_.
 इति निश्चेतुं शक्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is possible to ascertain from the Vedānta-texts that the world springs from none other than the highest Brahman, which is all-knowing, lord of all, free from all shadow of imperfection, capable of absolutely realising its purposes, and so on;
 </details>
@@ -440,7 +440,7 @@ It is possible to ascertain from the Vedānta-texts that the world springs from 
 कुतः? आकाशादिषु कारणत्वेन यथा-व्यपदिष्टस्योक्तेः –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 since scripture declares Brahman as described to be the cause of Ether, and so on.
 </details>
@@ -467,7 +467,7 @@ since scripture declares Brahman as described to be the cause of Ether, and so o
 तस्यैकस्यैवाकाशादिषु कारणत्वेनोक्तेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By 'Brahman as described' is meant 'Brahman distinguished by omniscience and other qualities, as described in the Sūtra "that from which the origination, and so on, of the world proceed," and in other places.'
 </details>
@@ -494,7 +494,7 @@ By 'Brahman as described' is meant 'Brahman distinguished by omniscience and oth
 सर्वज्ञं ब्रह्मैव कारणत्वेनोच्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That Brahman only is declared by scripture to be the cause of Ether, and so on, i.e. the being which is declared to be the cause in passages such as 'From that Self sprang Ether' (Taitt. Up. II, 1); 'that sent forth fire'(Cḥ. Up. VI, 2, 3), is none other than Brahman possessing omniscience and similar qualities.
 </details>
@@ -526,7 +526,7 @@ That Brahman only is declared by scripture to be the cause of Ether, and so on, 
 इति परामृश्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the former of these texts follows on the passage 'The True, intelligence, infinite is Brahman; he reaches all desires together with the intelligent Brahman,' which introduces Brahman as the general subject-matter – that Brahman being then referred to by means of the connecting words 'from that.'
 </details>
@@ -555,7 +555,7 @@ For the former of these texts follows on the passage 'The True, intelligence, in
 इति परामृश्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way the 'that' (in 'that sent forth fire') refers back to the omniscient Brahman introduced in the clause 'that thought, may I be many.'
 </details>
@@ -576,7 +576,7 @@ In the same way the 'that' (in 'that sent forth fire') refers back to the omnisc
 एवं सर्वत्र सृष्टि-वाक्येषु द्रष्टव्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This view is confirmed by a consideration of all the accounts of creation,
 </details>
@@ -597,7 +597,7 @@ This view is confirmed by a consideration of all the accounts of creation,
 अतो ब्रह्मैक-कारणम् जगद् इति निश्चीयते ॥ १४ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and we hence conclude that Brahman is the sole cause of the world.--
 </details>
@@ -627,7 +627,7 @@ and we hence conclude that Brahman is the sole cause of the world.--
 इत्य् अत आह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But the text 'Non-being indeed this was in the beginning' calls the general cause 'something that is not'; how then can you say that we infer from the Vedānta-texts as the general cause of the world a Brahman that is all-knowing, absolutely realises its purposes, and so on?--To this question the next Sūtra replies.
 </details>
@@ -648,7 +648,7 @@ But the text 'Non-being indeed this was in the beginning' calls the general caus
 १२४. +++("असद् वा" इत्यादिषु ब्रह्मणः)+++ समाकर्षात् ॥ १–४–१५ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 15. From connexion.
 </details>
@@ -673,7 +673,7 @@ But the text 'Non-being indeed this was in the beginning' calls the general caus
 विपश्चिद् आनन्दमयं सत्य-सङ्कल्पं ब्रह्मैव समाकृष्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The fact is that Brahman intelligent, consisting of bliss, &c., connects itself also with the passage 'Non-being was this in the beginning' (Taitt. Up. II, 7).
 </details>
@@ -730,7 +730,7 @@ The fact is that Brahman intelligent, consisting of bliss, &c., connects itself 
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the section of the text which precedes that passage (viz. 'Different from this Self consisting of understanding is the Self consisting of Bliss;--he wished, may I be many;--he created all whatever there is. Having created he entered into it; having entered it he became sat and tyat') clearly refers to Brahman consisting of Bliss, which realises its purposes, creates all beings, and entering into them is the Self of all. When, therefore, after this we meet with the.śloka ('Non-being this was in the beginning') introduced by the words 'On this there is also this śloka'--which shows that the śloka is meant to throw light on what precedes;
 </details>
@@ -756,7 +756,7 @@ For the section of the text which precedes that passage (viz. 'Different from th
 सर्वस्य प्रशासितृत्व-निरतिशयानन्दत्वादयो ऽभिधीयन्ते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and when further or we have the passage 'From fear of it the wind blows' &c., which, referring to the same Brahman, predicates of it universal rulership, bliss of nature, and so on;
 </details>
@@ -777,7 +777,7 @@ and when further or we have the passage 'From fear of it the wind blows' &c., wh
 अतो ऽयं मन्त्रस् तद्-विषय एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we conclude with certainty that the śloka about 'Non-being' also refers to Brahman.
 </details>
@@ -794,7 +794,7 @@ we conclude with certainty that the śloka about 'Non-being' also refers to Brah
 ब्रह्मैव +असच्-छब्देनोच्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As during a pralaya the distinction of names and forms does not exist, and Brahman also then does not exist in so far as connected with names and forms, the text applies to Brahman the term 'Non-being.'
 </details>
@@ -818,7 +818,7 @@ As during a pralaya the distinction of names and forms does not exist, and Brahm
 इत्य् अत्राप्य् अयम् एव निर्वाहः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text 'Non-being only this was in the beginning' explains itself in the same way.--
 </details>
@@ -848,7 +848,7 @@ The text 'Non-being only this was in the beginning' explains itself in the same 
 तत्राप्य् अव्याकृत-शब्देनाव्याकृत-शरीरं ब्रह्मैवाभिधीयते
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we admit the contention that the text 'Now all this was then undeveloped 'refers to the Pradhāna as the cause of the world; for the Undeveloped there spoken of is nothing else but Brahman in so far as its body is not yet evolved.
 </details>
@@ -878,7 +878,7 @@ Nor can we admit the contention that the text 'Now all this was then undeveloped
 प्रशासितृत्वेनानुकर्षात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the text continues 'That same being entered thither to the very tips of the finger-nails;' 'When seeing, eye by name; when hearing, ear by name; when thinking, mind by name;' 'Let men meditate upon him as Self;' where the introductory words 'that same being' refer back to the Undeveloped – which thus is said to enter into all things and thereby to become their ruler.
 </details>
@@ -898,7 +898,7 @@ For the text continues 'That same being entered thither to the very tips of the 
 कार्यानुप्रवेश-नाम-रूप-व्याकरण-प्रसिद्धेश् च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And it is known from another text also(Cḥ. Up. VI, 3, 2) that it is the all-creative highest Brahman which enters into its creation and evolves names and forms.
 </details>
@@ -923,7 +923,7 @@ And it is known from another text also(Cḥ. Up. VI, 3, 2) that it is the all-cr
 एवं-रूपो ऽनुप्रवेशो न सम्भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text 'Having entered within, the ruler of creatures, the Self of all' moreover shows that the creative principle enters into its creatures for the purpose of ruling them, and such entering again cannot be attributed to the non-sentient Pradhāna.
 </details>
@@ -951,7 +951,7 @@ The text 'Having entered within, the ruler of creatures, the Self of all' moreov
 स्वयम् एव व्याक्रियत इत्य् उच्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Undeveloped therefore is Brahman in that state where its body is not yet developed; and when the text continues 'it developed itself by names and forms' the meaning is that Brahman developed itself in so far as names and forms were distinguished in the world that constitutes Brahman's body.
 </details>
@@ -974,7 +974,7 @@ The Undeveloped therefore is Brahman in that state where its body is not yet dev
 ईक्षणादयो मुख्या एव भवन्ति +++(शब्दार्थ–वृत्तयः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On this explanation of the texts relating to creation we further are enabled to take the thought, purpose, &c,, attributed to the creative principle, in their primary literal sense.
 </details>
@@ -998,7 +998,7 @@ On this explanation of the texts relating to creation we further are enabled to 
 प्रधाने न कथञ्चिद् उपपद्येते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And, we finally remark, neither the term 'Brahman' nor the term 'Self in any way suits the Pradhāna, which is neither absolutely great nor pervading in the sense of entering into things created with a view to ruling them.
 </details>
@@ -1020,7 +1020,7 @@ And, we finally remark, neither the term 'Brahman' nor the term 'Self in any way
 अतो ब्रह्मैक-कारणम् जगद् इति स्थितम् ॥ १५ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It thus remains a settled conclusion that Brahman is the sole cause of the world.--
 </details>
@@ -1041,7 +1041,7 @@ It thus remains a settled conclusion that Brahman is the sole cause of the world
 **इति श्रीशारीरक-मीमांसा-भाष्ये कारणत्वाधिकरणम् ॥ ४ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here terminates the adhikaraṇa of '(Brahman's) causality.'
 </details>

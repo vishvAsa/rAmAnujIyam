@@ -16,7 +16,7 @@ title = "७ निवर्तकानुपपत्तिः"
 इति शास्त्रात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As the cognition of universal oneness which you assume rests on a view of things directly contrary to reality, and therefore is false, the only effect it can have is to strengthen the ties of bondage.
 </details>
@@ -43,7 +43,7 @@ As the cognition of universal oneness which you assume rests on a view of things
 परम-पुरुषार्थ-लक्षण- मोक्ष-साधनम् इत्य् उपदेशाच् च॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, texts such as 'But different is the highest Person' (Bha. Gī. XV, 17), and 'Having known the Self and the Mover as separate' (Śvet. Up. I, 6), teach that it is the cognition of Brahman as the inward ruler different from the individual soul, that effects the highest aim of man, i.e. final release.
 </details>
@@ -68,7 +68,7 @@ Moreover, texts such as 'But different is the highest Person' (Bha. Gī. XV, 17)
 तस्य निवर्तकान्तरं मृग्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And, further, as that 'bondage-terminating' knowledge which you assume is itself unreal, we should have to look out for another act of cognition to put an end to it.
 </details>
@@ -97,7 +97,7 @@ And, further, as that 'bondage-terminating' knowledge which you assume is itself
 विनाश--तत्-कल्पना-कल्पक-रूपाविद्याया निवर्तकान्तरं अन्वेषणीयम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But may it not be said that this terminating cognition, after having put an end to the whole aggregate of distinctions antagonistic to it, immediately passes away itself, because being of a merely instantaneous nature?--No, we reply. Since its nature, its origination, and its destruction are all alike fictitious, we have clearly to search for another agency capable of destroying that avidyā which is the cause of the fiction of its destruction!--
 </details>
@@ -122,7 +122,7 @@ And, further, as that 'bondage-terminating' knowledge which you assume is itself
 तद्+++(→निवर्तक-ज्ञान)+++-विनाशे +++(→ब्रह्म-स्वरूपे)+++ तिष्ठति, तद्-उत्पत्त्य्-असम्भवात्॥ +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Let us then say that the essential nature of Brahman itself is the destruction of that cognition!--From this it would follow, we reply, that such 'terminating' knowledge would not arise at all; for that the destruction of what is something permanent can clearly not originate!--
 </details>
@@ -149,7 +149,7 @@ Let us then say that the essential nature of Brahman itself is the destruction o
 को ऽयं ज्ञाता?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Who moreover should, according to you, be the cognising subject in a cognition which has for its object the negation of everything that is different from Brahman?
 </details>
@@ -169,7 +169,7 @@ Who moreover should, according to you, be the cognising subject in a cognition w
 तत्-कर्तृत्वानुपपत्तेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --That cognising subject is himself something fictitiously superimposed on Brahman!--This may not be, we reply: he himself would in that case be something to be negatived, and hence an object of the 'terminating' cognition; he could not therefore be the subject of cognition!--
 </details>
@@ -195,7 +195,7 @@ Who moreover should, according to you, be the cognising subject in a cognition w
 किं स्वरूपम्; उताध्यस्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Well, then, let us assume that the essential nature of Brahman itself is the cognising subject!--Do you mean,we ask in reply, that Brahman's being the knowing subject in that 'terminating' cognition belongs to Brahman's essential nature, or that it is something fictitiously superimposed on Brahman?
 </details>
@@ -219,7 +219,7 @@ Well, then, let us assume that the essential nature of Brahman itself is the cog
 अयम् अध्यासस्, तन्-मूलाविद्यान्तरं च निवर्तक-ज्ञानाविषयतया तिष्ठत्य् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the latter case that superimposition and the Nescience founded on it would persist, because they would not be objects of the terminating cognition,
 </details>
@@ -244,7 +244,7 @@ In the latter case that superimposition and the Nescience founded on it would pe
 ज्ञात्र्-अपेक्षया ऽनवस्था स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and if a further terminating act of knowledge were assumed, that also would possess a triple aspect (viz. knowledge, object known, and subject knowing), and we thus should be led to assume an infinite series of knowing subjects.
 </details>
@@ -267,12 +267,12 @@ and if a further terminating act of knowledge were assumed, that also would poss
 ऽस्मदीय एव पक्षः परिगृहीतस् स्यात् +++("ब्रह्म ज्ञान-मात्रं ने"ति)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, the essential nature of Brahman itself constitutes the knowing subject, your view really coincides with the one held by us. [^fn_24]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Thibaut - Notes</summary>
 
 [^fn_24]: 146:1 According to which Brahman is not jñānam, but jñātr̥.
 </details>
@@ -302,7 +302,7 @@ If, on the other hand, the essential nature of Brahman itself constitutes the kn
 अस्य च्छेत्तुः, अस्याश् छेदन-क्रियायाश् च च्छेद्यानुप्रवेश-वचन-वद् उपहास्यम्।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if you should say that the terminating knowledge itself and the knowing subject in it are things separate from Brahman and themselves contained in the sphere of what is to be terminated by that knowledge, your statement would be no less absurd than if you were to say 'everything on the surface of the earth has been cut down by Devadatta with one stroke'--meaning thereby that Devadatta himself and the action of cutting down are comprised among the things cut down!--
 </details>
@@ -328,7 +328,7 @@ And if you should say that the terminating knowledge itself and the knowing subj
 स्व-नाशस्यापुरुषार्थत्वात्। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The second alternative, on the other hand – according to which the knowing subject is not Brahman itself, but a knower superimposed upon it – would imply that that subject is the agent in an act of knowledge resulting in his own destruction; and this is impossible since no person aims at destroying himself.
 </details>
@@ -351,12 +351,12 @@ The second alternative, on the other hand – according to which the knowing sub
 तन्+++(→ज्ञातृ)+++-नाशस्य ब्रह्म-स्वरूपत्वाभ्युपगमे भेद-दर्शन--तन्-मूलाविद्यादीनां कल्पनम् एव न स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And should it be said that the destruction of the knowing agent belongs to the very nature of Brahman itself [^fn_25], it would follow that we can assume neither plurality nor the erroneous view of plurality, nor avidyā as the root of that erroneous view.--
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Thibaut - Notes</summary>
 
 [^fn_25]: 147:1 And, on that account, belongs to what constitutes man's highest aim.
 </details>
@@ -379,7 +379,7 @@ And should it be said that the destruction of the knowing agent belongs to the v
 इत्य् अलम् अनेन दिष्ट+++(=विधि)+++-हत-मुद्गराभिघातेन॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 [Therefore, enough of this striking with a mallet of one who is already slain by fate.]
 </details>

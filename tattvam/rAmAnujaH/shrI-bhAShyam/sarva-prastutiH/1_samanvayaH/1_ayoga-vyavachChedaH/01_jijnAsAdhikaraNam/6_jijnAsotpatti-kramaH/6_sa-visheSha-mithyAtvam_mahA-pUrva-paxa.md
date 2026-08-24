@@ -8,7 +8,7 @@ title = "६ स-विशेष-मिथ्यात्वम्? महा-�
 **अथ महापूर्वपक्षः॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 THE GREAT PŪRVAPAKSHA.  
 THE ONLY REALITY IS BRAHMAN.
@@ -29,7 +29,7 @@ THE ONLY REALITY IS BRAHMAN.
 अ-शेष--विशेष-प्रत्यनीक-- चिन्-मात्रं ब्रह्मैव परमार्थः 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Brahman, which is pure intelligence and opposed to all difference, constitutes the only reality; 
 </details>
@@ -47,7 +47,7 @@ Brahman, which is pure intelligence and opposed to all difference, constitutes t
 तस्मिन्न् एव परिकल्पितं मिथ्या-भूतं –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and everything else, i.e. the plurality of manifold knowing subjects, objects of knowledge, and acts of knowledge depending on those two, is only imagined on (or 'in') that Brahman, and is essentially false.
 </details>
@@ -68,7 +68,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 एकम् एवाद्वितीयम् (छा.६.२.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'In the beginning, my dear, there was that only which is, one only without a second' (Cḥ. Up. VI, 2, 1); 
 </details>
@@ -90,7 +90,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 भूत-योनिं परिपश्यन्ति धीराः ॥ (मु.१.१.६) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'The higher knowledge is that by which the Indestructible is apprehended' (Mu. Up. I, 1, 5); 'That which cannot be seen nor seized, which has no eyes nor ears, no hands nor feet, the permanent, the all-pervading, the most subtle, the imperishable which the wise regard as the source of all beings' (Mu. Up. I, 1, 6); 
 </details>
@@ -107,7 +107,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > सत्यं ज्ञानमनन्तं ब्रह्म (तै.उ.आन.१.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'The True, knowledge, the Infinite is Brahman' (Taitt. Up. II, 1); 
 </details>
@@ -125,7 +125,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 निरवद्यं निरञ्जनम् (श्वे.उ.६.१९) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'He who is without parts, without actions, tranquil, without fault, without taint' (Śvet. Up. VI, 19); 
 </details>
@@ -143,7 +143,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 विज्ञातम् अविजानताम् (केन.२.३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'By whom it is not thought, by him it is thought; he by whom it is thought knows it not. It is not known by those who know it, known by those who do not know it' (Ke. Up. II, 3); 
 </details>
@@ -160,7 +160,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 न मतेर् मन्तारं मन्वीथाः (बृ.५.४.२) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Thou mayest not see the seer of sight; thou mayest not think the thinker of thought' (Br̥. Up. III, 4, 2); 
 </details>
@@ -177,7 +177,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > आनन्दो ब्रह्म (तै.उ.भृगु.६अनु.) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Bliss is Brahman' (Taitt. Up. III, 6, 1); 
 </details>
@@ -194,7 +194,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > इदं सर्वं यद् अयम् आत्मा (बृ.४.४.६) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'All this is that Self' (Br̥. Up. IV, 5, 7); 
 </details>
@@ -212,7 +212,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (बृ.६.४.१९) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'There is here no diversity whatever' (Br̥. Up. IV, 4, 19); 
 </details>
@@ -229,7 +229,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 य इह नानेव पश्यति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'From death to death goes he who sees any difference here' (Ka. Up. II, 4, 10); 
 </details>
@@ -251,7 +251,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 तत् केन कं विजानीयात् (बृ.४.४.१४) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'For where there is duality as it were, there one sees the other';  
 > 'but where the Self has become all of him, by what means, and whom, should he see? by what means, and whom, should he know?' (Br̥. Up. IV, 5, 15); 
@@ -270,7 +270,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 मृत्तिकेत्य् एव सत्यम् (छा.६.१.४) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'the effect is a name merely which has its origin in speech; the truth is that (the thing made of clay) is clay merely' (Cḥ. Up. VI, 1, 4); 
 </details>
@@ -287,7 +287,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 अथ तस्य भयं भवति (तै.उ.आन.७.२) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'for if he makes but the smallest distinction in it there is fear for him' (Taitt. Up. II, 7);
 </details>
@@ -305,7 +305,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > न स्थानतोऽपि परस्योभयलिङ्गं सर्वत्र हि (ब्र.सू.३.२.११) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --the two following Vedānta-sūtras: III, 2, 11; III, 2, 3
 </details>
@@ -339,7 +339,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (वि.पु.६.७.४३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --the following passages from the Vishṇu-purāṇa:
 
@@ -363,7 +363,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (वि.पु.१,२,६) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Him whose essential nature is knowledge, who is stainless in reality'; 
 
@@ -384,7 +384,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (वि.पु.१.४.३८) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > the Reality thou art alone, there is no other, O Lord of the world!
 </details>
@@ -405,7 +405,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 जगद्-रूपम् अ-योगिनः॥ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > --whatever matter is seen belongs to thee whose being is knowledge; but owing to their erroneous opinion the non-devout look on it as the form of the world. 
 </details>
@@ -425,7 +425,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 भ्राम्यन्ते मोह-सम्प्लवे॥ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > This whole world has knowledge for its essential nature, but the Unwise viewing it as being of the nature of material things are driven round on the ocean of delusion. 
 </details>
@@ -445,7 +445,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (वि.पु.१.४-३९,४०,४१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Those however who possess true knowledge and pure minds see this whole world as having knowledge for its Self, as thy form, O highest Lord!' (Vi. Pu. I, 4, 38 ff.).
 </details>
@@ -466,7 +466,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (वि.पु.२.१४.३१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > --'Of that Self, although it exists in one's own and in other bodies, the knowledge is of one kind, and that is Reality; those who maintain duality hold a false view' (II, 14, 31); 
 </details>
@@ -484,7 +484,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 वक्तुम् एवम् अपीष्यते॥ (वि.पु.२.१३.९०) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'If there is some other one, different from me, then it can be said, "I am this and that one is another"' (II, 13, 86); 
 </details>
@@ -505,7 +505,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (वि.पु.२.१४.३२) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'As owing to the difference of the holes of the flute the air equally passing through them all is called by the names of the different notes of the musical scale; so it is with the universal Self' (II, 14, 32); 
 </details>
@@ -524,7 +524,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 **तत्याज** भेदं परमार्थदृष्टिः॥ (वि.पु.२.१६.२३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'He is I; he is thou; he is all: this Universe is his form. Abandon the error of difference. The king being thus instructed, abandoned the view of difference, having gained an intuition of Reality' (II, 16, 24). 
 </details>
@@ -544,7 +544,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (वि.पु.६.७.९६) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'When that view which gives rise to difference is absolutely destroyed, who then will make the untrue distinction between the individual Self and Brahman?' (VI, 7, 94).
 </details>
@@ -563,7 +563,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (भ.गी.१०.२०) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --The following passages from the Bhagavad-Gītā: 
 
@@ -587,7 +587,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Know me to be the soul within all bodies' (XIII, 2); 
 </details>
@@ -603,7 +603,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 मया भूतं चराचरम्॥ (भ.गी.१०.९३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Being there is none, movable or immovable, which is without me' (X, 39).
 </details>
@@ -625,7 +625,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 इत्य् अभिधानात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --All these and other texts, the purport of which clearly is instruction as to the essential nature of things, declare that Brahman only, i.e. non-differenced pure intelligence is real, while everything else is false.
 </details>
@@ -637,7 +637,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 </details>
 
 ## मिथ्या ऽविद्यया
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The appearance of plurality is due to avidyā.
 </details>
@@ -650,7 +650,7 @@ The appearance of plurality is due to avidyā.
 यथा रज्ज्व्-आद्य्-अधिष्ठान-सर्पादेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Falsehood' (mithyātva) belongs to what admits of being terminated by the cognition of the real thing – such cognition being preceded by conscious activity (not by mere absence of consciousness or knowledge). The snake, e.g. which has for its substrate a rope or the like is false; 
 </details>
@@ -667,7 +667,7 @@ The appearance of plurality is due to avidyā.
 दोषवशाद् धि तत्र तत्-कल्पनम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for it is due to an imperfection (dosha) that the snake is imagined in (or 'on') the rope. 
 </details>
@@ -687,7 +687,7 @@ for it is due to an imperfection (dosha) that the snake is imagined in (or 'on')
 यथावस्थित-- ब्रह्म--स्व-रूपावबोध-बाध्यं मिथ्या-रूपम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way this entire world, with its distinctions of gods, men, animals, inanimate matter, and so on, is, owing to an imperfection, wrongly imagined in the highest Brahman whose substance is mere intelligence, and therefore is false in so far as it may be sublated by the cognition of the nature of the real Brahman. 
 </details>
@@ -708,7 +708,7 @@ In the same way this entire world, with its distinctions of gods, men, animals, 
 सद्--अ-सद्--अ-निर्वचनीया ऽनाद्य्-अविद्या। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What constitutes that imperfection is beginningless Nescience (avidyā), which, hiding the truth of things, gives rise to manifold illusions, and cannot be defined either as something that is or as something that is not.
 </details>
@@ -725,7 +725,7 @@ What constitutes that imperfection is beginningless Nescience (avidyā), which, 
 > अनृतेन हि प्रत्यूढाः (छा.८.३.२) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'By the Untrue they are hidden; ' ; 
 </details>
@@ -743,7 +743,7 @@ What constitutes that imperfection is beginningless Nescience (avidyā), which, 
 अ-नृतम् अपिधानम् (छा.८.३.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > of them which are true the Untrue is the covering  
 (Cḥ, Up. VIII, 3, 1)
@@ -782,7 +782,7 @@ What constitutes that imperfection is beginningless Nescience (avidyā), which, 
 मायिनं तु महेश्वरम् (श्वे.४.१०) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Know Māya to be Prakr̥ti,  
 and the great Lord him who is associated with Māya'  
@@ -801,7 +801,7 @@ and the great Lord him who is associated with Māya'
 > इन्द्रो मायाभिः पुरु-रूप ईयते (बृ.४.५.१९) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Indra appears manifold through the Māyās' (Br̥. Up. II, 5, 19); 
 </details>
@@ -817,7 +817,7 @@ and the great Lord him who is associated with Māya'
 > मम माया दुर्-अत्यया (भ.गी.७.१४) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'My Māya is hard to overcome' (Bha. Gī. VII, 14); 
 </details>
@@ -835,7 +835,7 @@ and the great Lord him who is associated with Māya'
 यदा जीवः प्रबुध्यते (गौ.२.२१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'When the soul slumbering in beginningless Māyā awakes' (Gau. Kā. I, 16).
 </details>
@@ -853,7 +853,7 @@ and the great Lord him who is associated with Māya'
 स्व-गत-नानात्वं पश्यतीत्य् अवगम्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --These and similar texts teach that it is through beginningless Māyā that to Brahman which truly is pure non-differenced intelligence its own nature hides itself, and that it sees diversity within itself. 
 </details>
@@ -879,7 +879,7 @@ and the great Lord him who is associated with Māya'
 **जानीहि** विज्ञान-विजृम्भितानि॥ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As has been said, 
 
@@ -907,7 +907,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 (वि.पु.२.१२.३९,४०) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But when, on the cessation of all work, everything is only pure intelligence in its own proper form, without any imperfections; then no differences – the fruit of the tree of wishes – any longer exist between things. 
 </details>
@@ -926,7 +926,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 विभिन्न-चित्तैर् बहुधा **ऽभ्युपेतम्**॥ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Therefore nothing whatever, at any place or any time, exists apart from intelligence: intelligence, which is one only, is viewed as manifold by those whose minds are distracted by the effects of their own works. 
 </details>
@@ -947,7 +947,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 (वि.पु.२.१२.४३,४४) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Intelligence pure, free from stain, free from grief, free from all contact with desire and other affections, everlastingly one is the highest Lord – Vāsudeva apart from whom nothing exists. 
 </details>
@@ -967,7 +967,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 (वि.पु.१.१२.४५)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 I have thus declared to you the lasting truth of things – that intelligence only is true and everything else untrue. And that also which is the cause of ordinary worldly existence has been declared to you' (Vi. Pu. II, 12, 39, 40, 43-45).
 </details>
@@ -980,7 +980,7 @@ I have thus declared to you the lasting truth of things – that intelligence on
 
 ## अविद्या-निवृत्तिः
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Avidyā is put an end to by true Knowledge.
 </details>
@@ -993,7 +993,7 @@ Avidyā is put an end to by true Knowledge.
 निवृत्तिं वदन्ति – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Other texts declare that this Nescience comes to an end through the cognition of the essential unity of the Self with Brahman which is nothing but non-differenced intelligence. 
 </details>
@@ -1011,7 +1011,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 तद् एकं पश्यति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'He does not again go to death;'   
 'He sees this as one;' 
@@ -1027,7 +1027,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 > न पश्यो मृत्युं पश्यति (बृ.७.२६.२) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He who sees this does not see death' (_Kh._ Up. VI, 27); 
 </details>
@@ -1046,7 +1046,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 अथ सोऽभयं गतो भवति (तै.आन.७.२) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'When he finds freedom from fear and rest in that which is invisible, incorporeal, undefined, unsupported, then he has obtained the fearless' (Taitt. Up. II, 7); 
 </details>
@@ -1066,7 +1066,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 तस्मिन् **दृष्टे** परावरे (मु.२.२.८) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'The fetter of the heart is broken, all doubts are solved and all his works perish when he has been beheld who is high and low' (Mu. Up. II, 2, 8); 
 </details>
@@ -1083,7 +1083,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 (मु.३.२.९) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'He knows Brahman, he becomes Brahman only' (Mu. Up. III, 2, 9); 
 </details>
@@ -1102,7 +1102,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 – इत्य्-आद्याश्श् रुतयः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Knowing him only a man passes over death; there is no other path to go' (Śvet. Up. III, 8). 
 </details>
@@ -1136,7 +1136,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In these and similar passages, the term 'death' denotes Nescience;  
 analogously to the use of the term in the following words of Sanatsujāta, 
@@ -1159,7 +1159,7 @@ analogously to the use of the term in the following words of Sanatsujāta,
 > सत्यं ज्ञानम् अनन्तं ब्रह्म (तै.आन.१.अनु.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'The True, knowledge, the Infinite is Brahman' (Taitt. Up. II, 1); 
 </details>
@@ -1174,7 +1174,7 @@ analogously to the use of the term in the following words of Sanatsujāta,
 > विज्ञानम् आनन्दं ब्रह्म (बृ.५.९.२८) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Knowledge, bliss is Brahman' (Br̥. Up. III, 9, 28)--
 </details>
@@ -1190,7 +1190,7 @@ analogously to the use of the term in the following words of Sanatsujāta,
 इत्य्-आदि--शोधक-वाक्यावसेय- निर्विशेष--स्व-रूप--ब्रह्मात्मैकत्व-विज्ञानं च 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The knowledge again of the essential unity and non-difference of Brahman – which is ascertained from decisive texts such as (the above).
 </details>
@@ -1209,7 +1209,7 @@ The knowledge again of the essential unity and non-difference of Brahman – whi
 न स वेद (बृ.३.४.१०) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Now if a man meditates on another deity, thinking the deity is one and he another, he does not know' (Br̥. Up. I, 4, 10); 
 </details>
@@ -1236,7 +1236,7 @@ The knowledge again of the essential unity and non-difference of Brahman – whi
 > आत्मेत्य् एवोपासीत (बृ.उ.३.४.७) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Let men meditate upon him as the Self (Br̥. Up. I, 4, 7); 
 </details>
@@ -1253,7 +1253,7 @@ The knowledge again of the essential unity and non-difference of Brahman – whi
 > तत् त्वम् असि (छां.उ.६.८.७) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Thou art that' (Cḥ. Up. VI, 8, 7); 
 </details>
@@ -1269,7 +1269,7 @@ The knowledge again of the essential unity and non-difference of Brahman – whi
 अहं वै त्वम् असि भगवो देवते?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Am I thou, O holy deity? and art thou me, O holy deity?'; 
 </details>
@@ -1287,7 +1287,7 @@ The knowledge again of the essential unity and non-difference of Brahman – whi
 (ऐ.आ.४.२) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'What I am that is he; what he is that am I.'--
 </details>
@@ -1303,7 +1303,7 @@ The knowledge again of the essential unity and non-difference of Brahman – whi
 इत्य्-आदि-वाक्य-सिद्धम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This is confirmed by other passages, such as (the above).
 </details>
@@ -1324,7 +1324,7 @@ This is confirmed by other passages, such as (the above).
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This the Sūtrakāra himself will declare 'But as the Self (scriptural texts) acknowledge and make us apprehend (the Lord)' (Ve. Sū. IV, 1, 3). 
 </details>
@@ -1346,7 +1346,7 @@ This the Sūtrakāra himself will declare 'But as the Self (scriptural texts) ac
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus the Vākyakāra also, 'It is the Self – thus one should apprehend (everything), for everything is effected by that.' 
 </details>
@@ -1364,7 +1364,7 @@ Thus the Vākyakāra also, 'It is the Self – thus one should apprehend (everyt
 निवृत्तिर् युक्ता ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And to hold that by such cognition of the oneness of Brahman essentially false bondage, together with its cause, comes to an end, is only reasonable.
 </details>
@@ -1378,7 +1378,7 @@ And to hold that by such cognition of the oneness of Brahman essentially false b
 
 ## प्रत्यक्षाच् छास्त्र-बलम्
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Scripture is of greater force than Perception
 </details>
@@ -1389,7 +1389,7 @@ Scripture is of greater force than Perception
 > ननु च सकल-भेद-निवृत्तिः प्रत्यक्ष-विरुद्धा कथम् इव शास्त्रजन्यविज्ञानेन क्रियते? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, an objection is raised--
 
@@ -1408,7 +1408,7 @@ But, an objection is raised--
 प्रत्यक्ष-विरुद्धा सर्प-निवृत्तिः क्रियते? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > How then, we rejoin, can the knowledge that this thing is a rope and not a snake bring about, in opposition to actual perception, the cessation of the (idea of the) snake?
 </details>
@@ -1428,7 +1428,7 @@ But, an objection is raised--
 > इति चेत्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > You will perhaps reply that in this latter case there is a conflict between two forms of perception, while in the case under discussion the conflict is between direct perception and Scripture which is based on perception. 
 </details>
@@ -1443,7 +1443,7 @@ But, an objection is raised--
 > तुल्ययोर् विरोधे वा कथं बाध्य-बाधक-भावः? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But against this we would ask the question how, in the case of a conflict between two equal cognitions, we decide as to which of the two is refuted (sublated) by the other. 
 </details>
@@ -1460,7 +1460,7 @@ But, an objection is raised--
 > इति चेत्;  
 शास्त्र-प्रत्यक्षयोर् अपि समानम् एतत्।
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > If – as is to be expected – you reply that what makes the difference between the two is that one of them is due to a defective cause while the other is not:  
 we point out that this distinction holds good also in the case of Scripture and perception being in conflict. 
@@ -1482,7 +1482,7 @@ we point out that this distinction holds good also in the case of Scripture and 
 तत्र हि ज्वालैक्यं प्रत्यक्षेणावगम्यते।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is not considerations as to the equality of conflicting cognitions, as to their being dependent or independent, and so on,  
 that determine which of the two sublates the other;  
@@ -1508,13 +1508,13 @@ if that were the case, the perception which presents to us the flame of the lamp
 इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Wherever there is a conflict between cognitions based on two different means of knowledge we assign the position of the 'sublated one' to that which admits of being accounted for in some other way; while that cognition which affords no opening for being held unauthoritative and cannot be accounted for in another way, is the 'sublating one.'  
 This is the principle on which the relation between 'what sublates' and 'what is sublated' is decided everywhere. 
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Thibaut - Note</summary>
 
 25:1 The distinction is illustrated by the different views Perception and Inference cause us to take of the nature of the flame of the lamp. To Perception the flame, as long as it burns, seems one and the same: but on the ground of the observation that the different particles of the wick and the oil are consumed in succession, we infer that there are many distinct flames succeeding one another. And we accept the Inference as valid, and as sublating or refuting the immediate perception, because the perceived oneness of the flame admits of being accounted for 'otherwise,' viz. on the ground of the many distinct flames originating in such rapid succession that the eye mistakes them for one. The inference on the other hand does not admit of being explained in another way.
 </details>
@@ -1534,7 +1534,7 @@ This is the principle on which the relation between 'what sublates' and 'what is
 सम्भाव्यमान-दोष-सावकाश- प्रत्यक्षादि-सिद्ध-- विविध-विकल्प-रूप-- बन्ध-निवृत्तिर् युक्तैव । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now apprehension of Brahman – which is mere intelligence, eternal, pure, free, self-luminous – is effected by Scripture which rests on endless unbroken tradition, cannot therefore be suspected of any, even the least, imperfection, and hence cannot be non-authoritative;  
 the state of bondage, on the other hand, with its manifold distinctions is proved by Perception, Inference, and so on,  
@@ -1556,7 +1556,7 @@ It is therefore reasonable to conclude that the state of bondage is put an end t
 अनादि-भेद-वासनादि-रूपाविद्याख्यो दोषः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that imperfection of which Perception – through which we apprehend a world of manifold distinctions – may be assumed to be capable, is so-called Nescience, which consists in the beginningless wrong imagination of difference.
 </details>
@@ -1570,7 +1570,7 @@ And that imperfection of which Perception – through which we apprehend a world
 
 ## भेदशास्त्रान् मोक्षशास्त्र-बलम् 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The texts which represent Brahman as devoid of qualities have greater force
 </details>
@@ -1583,7 +1583,7 @@ The texts which represent Brahman as devoid of qualities have greater force
 बाध्यत्वं प्रसज्येत। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Well then-- a further objection is raised-- let us admit that Scripture is perfect because resting on an endless unbroken tradition; but must we then not admit that texts evidently presupposing the view of duality, as e.g. 'Let him who desires the heavenly world offer the Jyotishṭoma-sacrifice'--are liable to refutation?
 </details>
@@ -1602,7 +1602,7 @@ The texts which represent Brahman as devoid of qualities have greater force
 तेन बाध्यत एव । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --True, we reply.  
 As in the case of the Udgātr̥ and Pratihartr̥ breaking the chain (not at the same time, but) in succession [fn_4], so here also the earlier texts (which refer to duality and transitory rewards) are sublated by the later texts which teach final release, and are not themselves sublated by anything else.
@@ -1624,7 +1624,7 @@ As in the case of the Udgātr̥ and Pratihartr̥ breaking the chain (not at the 
 निर्गुणत्वात् परस्य ब्रह्मणः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same reasoning applies to those passages in the Vedānta-texts which inculcate meditation on the qualified Brahman, since the highest Brahman is without any qualities.
 </details>
@@ -1642,7 +1642,7 @@ The same reasoning applies to those passages in the Vedānta-texts which inculca
 > ननु च – "यस् सर्वज्ञस् सर्व-वित्" (मु.उ.२.२.७) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But consider such passages as  
 'He who cognises all, who knows all' (Mu. Up. I, 1, 9); 
@@ -1661,7 +1661,7 @@ The same reasoning applies to those passages in the Vedānta-texts which inculca
 स्वाभाविकी ज्ञान-बल-क्रिया च (श्वे.उ.६.८) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > > 'His high power is revealed as manifold, as essential, acting as force and knowledge' (Śvet. Up. VI, 8); 
 </details>
@@ -1678,7 +1678,7 @@ The same reasoning applies to those passages in the Vedānta-texts which inculca
 > > सत्य-कामस् सत्य-सङ्कल्पः (छा.उ.८.१.५) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 
 > > 'He whose wishes are true,  
@@ -1695,7 +1695,7 @@ whose purposes are true' (Cḥ. Up. VIII, 1, 5);
 > इत्य्-आदि-- ब्रह्म--स्व-रूप--प्रतिपादन-पराणां शास्त्राणां कथं बाध्यत्वम्? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > how can these passages, which clearly aim at defining the nature of Brahman, be liable to refutation?
 </details>
@@ -1712,7 +1712,7 @@ whose purposes are true' (Cḥ. Up. VIII, 1, 5);
 निर्गुण-वाक्य-सामर्थ्यात् इति ब्रूमः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Owing to the greater weight, we reply, of those texts which set forth Brahman as devoid of qualities. 
 </details>
@@ -1730,7 +1730,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 > अ-स्थूलम् अ-नण्व् अ-ह्रस्वम् अ-दीर्घम् (बृ.५अ.८ब्रा.) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'It is not coarse, not fine, not short, not long' (Br̥. Up. III, 8, 8); 
 </details>
@@ -1745,7 +1745,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 > सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'The True, knowledge, infinite is Brahman' (Taitt. Up. II, 1); 
 </details>
@@ -1760,7 +1760,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 > निर्गुणम् (आत्मोपनिषत्) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'That which is free from qualities,' 
 </details>
@@ -1776,7 +1776,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 > निरञ्जनम् (श्वे.उ.६.१९.) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'that which is free from stain'
 </details>
@@ -1798,7 +1798,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 इतराणि च सगुणम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --these and similar texts convey the notion of Brahman being changeless, eternal intelligence devoid of all difference; while the other texts – quoted before – teach the qualified Brahman. 
 </details>
@@ -1819,7 +1819,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 इति न किञ्चिद् अपहीनम् ॥ +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And there being a conflict between the two sets of passages, we – according to the Mīmāṁsā principle referred to above – decide that the texts referring to Brahman as devoid of qualities are of greater force, because they are later in order [fn_5] than those which speak of Brahman as having qualities. Thus everything is settled.
 
@@ -1835,7 +1835,7 @@ And there being a conflict between the two sets of passages, we – according to
 
 
 ## सत्यादि-गुणाः?
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text Taitt. Up. II, 1 refers to Brahman as devoid of qualities.
 </details>
@@ -1847,7 +1847,7 @@ The text Taitt. Up. II, 1 refers to Brahman as devoid of qualities.
 सत्य-ज्ञानादयो गुणाः प्रतीयन्ते॥ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But – an objection is raised--
 
@@ -1865,7 +1865,7 @@ But – an objection is raised--
 नेत्य् उच्यते, सामानाधिकरण्येनैकार्थत्व-प्रतीतेः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Not so, we reply.  
 From the circumstance that all the terms of the sentence stand in co-ordination,  
@@ -1886,7 +1886,7 @@ it follows that they convey the idea of one matter (sense) only.
 \– इति चेत्; अन्-अभिधान-ज्ञो देवानां प्रियः +++(वक्ष्यमाण-रीत्या)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If against this you urge that the sentence may convey the idea of one matter only, even if directly expressing a thing distinguished by several qualities; we must remark that you display an ignorance of the meaning of language which appears to point to some weak-mindedness on your part. 
 </details>
@@ -1903,7 +1903,7 @@ If against this you urge that the sentence may convey the idea of one matter onl
 एकार्थत्वं नाम सर्व-पदानाम् अर्थैक्यम्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A sentence conveys the idea of one matter (sense) only when all its constitutive words denote one and the same thing; 
 </details>
@@ -1920,7 +1920,7 @@ A sentence conveys the idea of one matter (sense) only when all its constitutive
 विशिष्ट-पदार्थाभिधाने विशेषण-भेदेन पदानाम् अर्थ-भेदो ऽवर्जनीयः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 if, on the othcr hand, it expresses a thing possessing several attributes, the difference of these attributes necessarily leads to a difference in meaning on the part of the individual words, 
 </details>
@@ -1936,7 +1936,7 @@ if, on the othcr hand, it expresses a thing possessing several attributes, the d
 ततश्चैकार्थत्वं न सिध्यति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and then the oneness of meaning of the sentence is lost.
 </details>
@@ -1954,7 +1954,7 @@ and then the oneness of meaning of the sentence is lost.
 अ-विशिष्टार्थाभिधायित्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But from your view of the passage it would follow that the several words are mere synonyms!
 </details>
@@ -1971,7 +1971,7 @@ and then the oneness of meaning of the sentence is lost.
 एकार्थाभिधायित्वे ऽप्य् अ-पर्यायत्वम् अवहित-मनाश् शृणु; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Give us your attention, we reply,  
 and learn that several words may convey one meaning  
@@ -1991,7 +1991,7 @@ without being idle synonyms.
 सर्व-पदानाम् अर्थवत्त्वम् एकार्थत्वम् अपर्यायता च॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From the determination of the unity of purport of the whole sentence [fn_6] we conclude that the several words, applied to one thing, aim at expressing what is opposite in nature to whatever is contrary to the meanings of the several words, and that thus they have meaning and unity of meaning and yet are not mere synonyms.
 
@@ -2015,7 +2015,7 @@ From the determination of the unity of purport of the whole sentence [fn_6] we c
 सकलेतर-पदार्थ-विरोधि-रूपम्। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The details are as follows. Brahman is to be defined as what is contrary in nature to all other things. 
 </details>
@@ -2032,7 +2032,7 @@ The details are as follows. Brahman is to be defined as what is contrary in natu
 अनेन पद-त्रयेण फलतो व्युदस्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now whatever is opposed to Brahman is virtually set aside by the three words (constituting the definition of Brahman in the Taittiriya-text). 
 </details>
@@ -2048,7 +2048,7 @@ Now whatever is opposed to Brahman is virtually set aside by the three words (co
 तत्र सत्य-पदं विकारास्पदत्वेनासत्याद् वस्तुनो व्यावृत्त-ब्रह्म-परम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'true' (or 'truly being') has the purport of distinguishing Brahman from whatever things have no truth, as being the abodes of change; 
 </details>
@@ -2065,7 +2065,7 @@ The word 'true' (or 'truly being') has the purport of distinguishing Brahman fro
 ज्ञान-पदं चान्याधीन-प्रकाश--जड-रूपाद् वस्तुनो व्यावृत्त-+++(ब्रह्म-)+++परम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the word 'knowledge' distinguishes Brahman from all non-sentient things whose light depends on something else (which are not self-luminous); 
 </details>
@@ -2083,7 +2083,7 @@ the word 'knowledge' distinguishes Brahman from all non-sentient things whose li
 देशतः कालतो वस्तुतश् च परिच्छिन्नात् व्यावृत्त+++(ब्रह्म-)+++परम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the word 'infinite' distinguishes it from whatever is limited in time or space or nature. 
 </details>
@@ -2100,7 +2100,7 @@ and the word 'infinite' distinguishes it from whatever is limited in time or spa
 न च व्यावृत्तिर् भाव-रूपो ऽभाव-रूपो वा धर्मः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is this 'distinction' some positive or negative attribute of Brahman, 
 </details>
@@ -2116,7 +2116,7 @@ Nor is this 'distinction' some positive or negative attribute of Brahman,
 अपि तु सकलेतरविरोधि ब्रह्मैव। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it rather is just Brahman itself as opposed to everything else; 
 </details>
@@ -2132,7 +2132,7 @@ it rather is just Brahman itself as opposed to everything else;
 यथा शौक्ल्यादेः कार्ष्ण्यादि-व्यावृत्तिस् तत्-पदार्थ--स्व-रूपम् एव, न धर्मान्तरम् +++(4)+++-  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 just as the distinction of white colour from black and other colours is just the true nature of white, not an attribute of it. 
 </details>
@@ -2149,7 +2149,7 @@ just as the distinction of white colour from black and other colours is just the
 अर्थवत्तरम् एकार्थम् अ-पर्यायं च पदत्रयम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The three words constituting the text thus _have_ a meaning, have _one_ meaning, and are non-synonymous, in so far as they convey the essential distinction of one thing, viz. Brahman from everything else. 
 </details>
@@ -2169,7 +2169,7 @@ The three words constituting the text thus _have_ a meaning, have _one_ meaning,
 इत्य् उक्तं भवति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text thus declares the one Brahman which is self-luminous and free from all difference. 
 </details>
@@ -2193,7 +2193,7 @@ The text thus declares the one Brahman which is self-luminous and free from all 
 इत्य्-आदिभिर् ऐकार्थ्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On this interpretation of the text we discern its oneness in purport with other texts, such as 
 
@@ -2212,7 +2212,7 @@ On this interpretation of the text we discern its oneness in purport with other 
 > यतो वा इमानि भूतानि जायन्ते (तै.भृगु.१.अनु.) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'That from whence these beings are born' (Taitt. Up. III, 1); 
 </details>
@@ -2228,7 +2228,7 @@ On this interpretation of the text we discern its oneness in purport with other 
 सद् एव सोम्येदम् अग्र आसीत् (छां.६.२.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Being only this was in the beginning' (Cḥ. Up. VI, 2, 1); 
 </details>
@@ -2244,7 +2244,7 @@ On this interpretation of the text we discern its oneness in purport with other 
 > आत्मा वा इदम् एक एवाग्र आसीत् (ऐ.१.१.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Self alone was this in the beginning' (Br̥. Up. I, 4, 1), &c., 
 </details>
@@ -2265,7 +2265,7 @@ On this interpretation of the text we discern its oneness in purport with other 
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Texts such as (the above) describe Brahman as the cause of the world; and of this Brahman the Taittirīya passage 'The True, knowledge, infinite is Brahman' gives the strict definition.
 
@@ -2287,7 +2287,7 @@ Texts such as (the above) describe Brahman as the cause of the world; and of thi
 अद्वतीयं ब्रह्मावगतम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In agreement with the principle that all śākhās teach the same doctrine we have to understand that, in all the texts which speak of Brahman as cause, Brahman must be taken as being 'without a second', i.e. without any other being of the same or a different kind; 
 </details>
@@ -2305,7 +2305,7 @@ In agreement with the principle that all śākhās teach the same doctrine we ha
 +++("सत्यं ज्ञानम् अनन्तम्"→)+++ तद्-अविरोधेन वक्तव्यम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the text which aims at defining Brahman has then to be interpreted in accordance with this characteristic of Brahman, viz. its being without a second. 
 </details>
@@ -2322,7 +2322,7 @@ and the text which aims at defining Brahman has then to be interpreted in accord
 गुणतोऽपि स-द्वितीयतां न सहते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The statement of the Cḥāndogya as to Brahman being without a second must also be taken to imply that Brahman is non-dual as far as qualities are concerned;  
 </details>
@@ -2338,7 +2338,7 @@ The statement of the Cḥāndogya as to Brahman being without a second must also
 अन्यथा "निरञ्जनम्" (श्वे.६.१९) "निर्गुणम्" (आत्मोपनिषत्) इत्य्-आदिभिश् च विरोधः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 otherwise it would conflict with those passages which speak of Brahman as being without qualities and without stain. 
 </details>
@@ -2356,7 +2356,7 @@ otherwise it would conflict with those passages which speak of Brahman as being 
 अ-खण्डैक-रसम् एव प्रतिपादयति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We therefore conclude that the defining Taittirīya-text teaches Brahman to be an absolutely homogeneous substance.
 </details>
@@ -2377,7 +2377,7 @@ We therefore conclude that the defining Taittirīya-text teaches Brahman to be a
 लक्षणा स्यात्। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But, the above explanation of the passage being accepted, it follows that the words 'true being,' 'knowledge,' &c., have to be viewed as abandoning their direct sense, and merely suggesting a thing distinct in nature from all that is opposite (to what the three words directly denote), and this means that we resort to so-called implication (implied meaning, lakshaṇā)!--
 </details>
@@ -2395,7 +2395,7 @@ We therefore conclude that the defining Taittirīya-text teaches Brahman to be a
 तात्पर्य-वृत्तेर् बलीयस्त्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What objection is there to such a proceeding? we reply. The force of the general purport of a sentence is greater than that of the direct denotative power of the simple terms, 
 </details>
@@ -2413,7 +2413,7 @@ What objection is there to such a proceeding? we reply. The force of the general
 इति सर्व-सम्मतम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and it is generally admitted that the purport of grammatical co-ordination is oneness (of the matter denoted by the terms co-ordinated).
 </details>
@@ -2430,7 +2430,7 @@ and it is generally admitted that the purport of grammatical co-ordination is on
 > ननु च – वाक्ये सर्व-पदानां लक्षणा न दृष्टचरी। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But we never observe that all words of a sentence are to be understood in an implied sense!--
 </details>
@@ -2448,7 +2448,7 @@ and it is generally admitted that the purport of grammatical co-ordination is on
 एकस्यापि न दृष्टा +++(लक्षणा)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Is it then not observed, we reply, that (not even) _one_ word is to be taken in its implied meaning if ~~otherwise~~ it would('nt) contradict the purport of the whole sentence?
 </details>
@@ -2471,7 +2471,7 @@ Is it then not observed, we reply, that (not even) _one_ word is to be taken in 
 अनेन ग्रन्थपीडनेनेष्टाभिप्रायोद्भावनं सम्मतम् :-D।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if the purport of the sentence, which is nothing but an aggregate of words employed together, has once been ascertained, why should we not take two or three or all words in an implied sense – just as we had taken one – and thus make them fit in with the general purport? 
 </details>
@@ -2486,7 +2486,7 @@ And if the purport of the sentence, which is nothing but an aggregate of words e
 
 तथा च शास्त्र-स्थैर् अभ्युपगम्यते ॥
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (This is) in agreement herewith those scholars 
 </details>
@@ -2505,7 +2505,7 @@ And if the purport of the sentence, which is nothing but an aggregate of words e
 लौकिक-वाक्येषु सर्वेषां पदानां लक्षणा समाश्रीयते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 who explain to us the sense of imperative sentences, teach that in imperative sentences belonging to ordinary speech all words have an implied meaning only (not their directly denotative meaning). 
 </details>
@@ -2523,7 +2523,7 @@ who explain to us the sense of imperative sentences, teach that in imperative se
 लिङ्-आदिभिः +++(लौकिक-)+++क्रिया-कार्यं लक्षणया प्रतिपाद्यते। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For, they maintain, imperative forms have their primary meaning only in (Vedic) sentences which enjoin something not established by other means; and hence in ordinary speech the effect of the action is conveyed by implication only. 
 </details>
@@ -2543,12 +2543,12 @@ For, they maintain, imperative forms have their primary meaning only in (Vedic) 
 लाक्षणिकम् एव । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The other words also, which form part of those imperative sentences and denote matters connected with the action, have their primary meaning only if connected with an action not established by other means; while if connected with an ordinary action they have a secondary, implied, meaning only [fn_7].
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Thibaut - Note</summary>
 
 [fn_7]: 30:1 The theory here referred to is held by some of the Mīmāṁsakas. 
 
@@ -2604,7 +2604,7 @@ and this conclusion is extended, somewhat unwarrantably one should say, to all t
 
 ## निर्विशेष-प्रत्यक्षम्
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Perception reveals to us non-differenced substance only
 </details>
@@ -2616,7 +2616,7 @@ Perception reveals to us non-differenced substance only
 शास्त्रस्य बलीयस्त्वम् उक्तम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We have so far shown that in the case of a conflict between Scripture and Perception and the other instruments of knowledge, Scripture is of greater force. 
 </details>
@@ -2646,7 +2646,7 @@ We have so far shown that in the case of a conflict between Scripture and Percep
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The fact, however, is that no such conflict is observed to exist,  
 since Perception itself gives rise to the apprehension of a non-differenced Brahman whose nature is pure Being.
@@ -2666,7 +2666,7 @@ since Perception itself gives rise to the apprehension of a non-differenced Brah
 कथम् इव सन्-मात्र-ग्राहीत्य् उच्यते?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But how can it be said that Perception, which has for its object things of various kinds – and accordingly expresses itself in judgments such as 'Here is a jar,' 'There is a piece of cloth'--causes the apprehension of mere Being? 
 </details>
@@ -2684,7 +2684,7 @@ since Perception itself gives rise to the apprehension of a non-differenced Brah
 धारा-वाहिक-विज्ञानवद् एक-व्यवहार-हेतुतैव स्यात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If there were no apprehension of difference, all cognitions would have one and the same object, and therefore would give rise to one judgment only – as takes place when one unbroken perceptional cognition is continued for some time.
 </details>
@@ -2701,7 +2701,7 @@ If there were no apprehension of difference, all cognitions would have one and t
 सत्यम्; तथैवात्र विविच्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --True. 
 </details>
@@ -2729,7 +2729,7 @@ If there were no apprehension of difference, all cognitions would have one and t
 "घटोऽस्ती"त्य्-अत्रास्तित्वं तद्-भेदश्च व्यवह्रियते;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We therefore have to enquire in what way,in the judgment 'here is a jar,' an assertion is made about being as well as some special form of being. 
 </details>
@@ -2758,7 +2758,7 @@ We therefore have to enquire in what way,in the judgment 'here is a jar,' an ass
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 These implied judgments cannot both be founded on perception, for they are the results of acts of cognition occupying different moments of time, while the perceptional cognition takes place in one moment (is instantaneous). 
 </details>
@@ -2776,7 +2776,7 @@ These implied judgments cannot both be founded on perception, for they are the r
 इति विवेचनीयम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We therefore must decide whether it is the essential nature of the jar, or its difference from other things, that is the object of perception. 
 </details>
@@ -2797,7 +2797,7 @@ We therefore must decide whether it is the essential nature of the jar, or its d
 न भेदः प्रत्यक्षेण गृह्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And we must adopt the former alternative,  
 because the apprehension of difference presupposes the apprehension of the essential nature of the thing,  
@@ -2816,7 +2816,7 @@ and, in addition, the remembrance of its counterentities (i.e. the things from w
 अतो भ्रान्ति-मूल एव भेद-व्यवहारः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence difference is not apprehended by Perception; and all judgments and propositions relative to difference are founded on error only.
 </details>
@@ -2837,7 +2837,7 @@ Hence difference is not apprehended by Perception; and all judgments and proposi
 न्याय-विद्भिर् निरूपयितुं न शक्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Difference – bheda – does not admit of logical definition
 </details>
@@ -2856,7 +2856,7 @@ Difference – bheda – does not admit of logical definition
 स्व-रूप--व्यवहारवत् सर्वस्माद्-भेद-व्यवहार-प्रसक्तेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Logicians, moreover, are unable to give a definition of such a thing as 'difference.' Difference cannot in the first place be the essential nature (of that which differs); for from that it would follow that on the apprehension of the essential nature of a thing there would at once arise not only the judgment as to that essential nature but also judgments as to its difference from everything else.
 </details>
@@ -2879,7 +2879,7 @@ The Logicians, moreover, are unable to give a definition of such a thing as 'dif
 \– इति - 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But, it may be objected to this, 
 
@@ -2902,7 +2902,7 @@ Such reasoning, we reply, is inadmissible.
 स्व-रूप--भेदयोस् स्व-रूपत्वाविशेषात् +++(वक्ष्यमाण-रीत्या)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 He who maintains that 'difference' is nothing but 'essential nature'  
 has no right to assume a dependence on counterentities  
@@ -2921,7 +2921,7 @@ since, according to him, essential nature and difference are the same, i.e. noth
 भेद-व्यवहारोऽपि तथैव स्यात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the judgment of difference can, on his view, depend on counterentities no more than the judgment of essential nature does. 
 </details>
@@ -2939,7 +2939,7 @@ the judgment of difference can, on his view, depend on counterentities no more t
 "घटो, भिन्न" इति पर्यायत्वं च स्यात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 His view really implies that the two words 'the jar' and 'different' (in the judgment 'the jar is different') are synonymous, just as the words 'hasta' and 'kara' are (both of which mean 'hand').
 </details>
@@ -2957,7 +2957,7 @@ His view really implies that the two words 'the jar' and 'different' (in the jud
 नापि धर्मः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, in the second place, can 'difference' be held to be an attribute (dharma). 
 </details>
@@ -2976,7 +2976,7 @@ Nor, in the second place, can 'difference' be held to be an attribute (dharma).
 अन्यथा स्व-रूपम् एव स्यात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if it were that, we should have to assume that 'difference' possesses difference (i.e. is different) from essential nature; for otherwise it would be the same as the latter. 
 </details>
@@ -3005,7 +3005,7 @@ For if it were that, we should have to assume that 'difference' possesses differ
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And this latter difference would have to be viewed as an attribute of the first difference, and this would lead us on to a third difference, and so in infinitum. 
 </details>
@@ -3032,7 +3032,7 @@ And this latter difference would have to be viewed as an attribute of the first 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the view of 'difference' being an attribute would further imply that difference is apprehended on the apprehension of a thing distinguished by attributes such as generic character and so on, and at the same time that the thing thus distinguished is apprehended on the apprehension of difference; and this would constitute a logical seesaw.
 </details>
@@ -3050,7 +3050,7 @@ And the view of 'difference' being an attribute would further imply that differe
 सन्-मात्रस्यैव प्रकाशकं प्रत्यक्षम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Difference' thus showing itself incapable of logical definition, we are confirmed in our view that perception reveals mere 'Being' only.
 </details>
@@ -3077,7 +3077,7 @@ And the view of 'difference' being an attribute would further imply that differe
 सत्तानुभूति-घटिता एव दृश्यन्ते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, it appears that in states of consciousness such as 'Here is a jar,' 'There is a piece of cloth,' 'The jar is perceived,' 'The piece of cloth is perceived,' that which constitutes the things is Being (existence; sattā) and perception (or 'consciousness'; anubhūti). 
 </details>
@@ -3095,7 +3095,7 @@ Moreover, it appears that in states of consciousness such as 'Here is a jar,' 'T
 इति तदेव परमार्थः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And we observe that it is pure Being only which persists in all states of cognition: this pure Being alone, therefore, is _real_. 
 </details>
@@ -3122,7 +3122,7 @@ And we observe that it is pure Being only which persists in all states of cognit
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The differences, on the other hand, which do not persist, are unreal. The case is analogous to that of the snake-rope. 
 </details>
@@ -3141,7 +3141,7 @@ The differences, on the other hand, which do not persist, are unreal. The case i
 व्यावर्तमानास् सर्प-भू-दलनाम्बु-धारादयो ऽपरमार्थाः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The rope which persists as a substrate is real, while the non-continuous things (which by wrong imagination are superimposed on the rope) such as a snake, a cleft in the ground, a watercourse, and so on, are unreal.
 </details>
@@ -3164,7 +3164,7 @@ The rope which persists as a substrate is real, while the non-continuous things 
 न व्यावर्तमानत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But – our adversary objects--
 
@@ -3184,7 +3184,7 @@ But – our adversary objects--
 किं त्व् अ-बाधितत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way the reality of the rope does not follow from its persistence, but from the fact of its being not sublated (by another cognition). 
 </details>
@@ -3200,7 +3200,7 @@ In the same way the reality of the rope does not follow from its persistence, bu
 
 > अत्र तु घटादीनाम् अबाधितानां कथम् अपारमार्थ्यम्?
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But what, we ask, establishes the non-reality of jars and pieces of cloth?--
 </details>
@@ -3219,7 +3219,7 @@ In the same way the reality of the rope does not follow from its persistence, bu
 सा किं-रूपेति विवेचनीयम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All are agreed, we reply, that we observe, in jars and similar things, individual difference (vyāvr̥tti, literally 'separation,' 'distinction').  
 The point to decide is of what nature such difference is. 
@@ -3237,7 +3237,7 @@ The point to decide is of what nature such difference is.
 किं घटोऽस्तीत्य्-अत्र पटाद्य्-अ-भावः? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Does it not mean that the judgment 'This is a jar' implies the negation of pieces of cloth and other things? 
 </details>
@@ -3254,7 +3254,7 @@ Does it not mean that the judgment 'This is a jar' implies the negation of piece
 सिद्धं तर्हि घटोऽस्तीत्य्-अनेन पटादीनां बाधितत्वम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But this means that by this judgment pieces of cloth and other things are sublated (bādhita). 
 </details>
@@ -3271,7 +3271,7 @@ But this means that by this judgment pieces of cloth and other things are sublat
 अतो बाध-फल-भूता विषय-निवृत्तिर् व्यावृत्तिः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Individual difference (vyāvr̥tti) thus means the cessation (or absence), due to sublation, of certain objects of cognition, 
 </details>
@@ -3297,7 +3297,7 @@ Individual difference (vyāvr̥tti) thus means the cessation (or absence), due t
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and it proves the non-reality of whatever has non-continuous existence; 
 </details>
@@ -3314,7 +3314,7 @@ and it proves the non-reality of whatever has non-continuous existence;
 रज्जुवत् सन्-मात्रम् अबाधितम् अनुवर्तते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while on the other hand, pure Being, like the rope, persists non-sublated. 
 </details>
@@ -3331,7 +3331,7 @@ while on the other hand, pure Being, like the rope, persists non-sublated.
 तस्मात् सन्-मात्रातिरेकि सर्वम् अ-परमार्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence everything that is additional to pure Being is non-real.
 </details>
@@ -3348,7 +3348,7 @@ Hence everything that is additional to pure Being is non-real.
 सत् परमार्थः, अनुवर्तमानत्वात्, रज्जु-सर्पादौ रज्ज्व्-आदिवत्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --This admits of being expressed in technical form. 'Being' is real because it persists, as proved by the case of the rope in the snake-rope; 
 </details>
@@ -3366,7 +3366,7 @@ Hence everything that is additional to pure Being is non-real.
 रज्ज्व्-अद्य्-अधिष्ठान-सर्पादिवत् – इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 jars and similar things are non-real because they are non-continuous, as proved by the case of the snake that has the rope for its substrate.
 </details>
@@ -3379,7 +3379,7 @@ jars and similar things are non-real because they are non-continuous, as proved 
 ## अनुभूतिः
 ### सत्-अनुभूत्योर् ऐक्यम्
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Being and consciousness are one. 
 </details>
@@ -3391,7 +3391,7 @@ Being and consciousness are one.
 सैव सती॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From all this it follows that persisting consciousness only has real being; it alone is.
 </details>
@@ -3408,7 +3408,7 @@ From all this it follows that persisting consciousness only has real being; it a
 ततो भिन्नम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, our adversary objects, 
 
@@ -3427,7 +3427,7 @@ But, our adversary objects,
 पुरस्ताद् एव निरस्तः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Not so, we reply. That there is no such thing as 'difference,' we have already shown above on the grounds that it is not the object of perception, and moreover incapable of definition. 
 </details>
@@ -3445,7 +3445,7 @@ Not so, we reply. That there is no such thing as 'difference,' we have already s
 न प्रमाण-पदवीम् अनुसरति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It cannot therefore be proved that 'Being' is the object of consciousness. 
 </details>
@@ -3462,7 +3462,7 @@ It cannot therefore be proved that 'Being' is the object of consciousness.
 तस्मात्, सत् अनुभूतिर् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence Consciousness itself is 'Being'--that which is.
 </details>
@@ -3474,7 +3474,7 @@ Hence Consciousness itself is 'Being'--that which is.
 </details>
 
 ### स्वयम्-प्रकाशता
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Consciousness is svayaṁprakāsa.
 </details>
@@ -3486,7 +3486,7 @@ Consciousness is svayaṁprakāsa.
 अनुभूतित्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --This consciousness is self-proved, just because it is consciousness. 
 </details>
@@ -3504,7 +3504,7 @@ Consciousness is svayaṁprakāsa.
 घटादिवद् अननुभूतित्व-प्रसङ्गः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Were it proved through something else, it would follow that like jars and similar things it is not consciousness. 
 </details>
@@ -3524,7 +3524,7 @@ Were it proved through something else, it would follow that like jars and simila
 सत्तयैव प्रकाशमानत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can there be assumed, for consciousness, the need of another act of consciousness (through which its knowledge would be established); for it shines forth (prakāśate) through its own being. 
 </details>
@@ -3542,7 +3542,7 @@ Nor can there be assumed, for consciousness, the need of another act of consciou
 येन परायत्त-प्रकाशा ऽभ्युपगम्येत॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 While it exists, consciousness – differing therein from jars and the like – is never observed not to shine forth, and it cannot therefore be held to depend, in its shining forth, on something else.
 </details>
@@ -3565,7 +3565,7 @@ While it exists, consciousness – differing therein from jars and the like – 
 "घटोऽनुभूयते" इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You (who object to the above reasoning) perhaps hold the following view:--
 
@@ -3588,7 +3588,7 @@ a fact expressed in sentences such as:
 तदानीम् एवाविषय-भूताम् अन्-इदम्-भावाम्-अनुभूतिम् अप्य् अनुभवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > When a person forms the judgment 'This is a jar,' he is not at the time conscious of a consciousness which is not an object and is not of a definite character. 
 </details>
@@ -3605,7 +3605,7 @@ a fact expressed in sentences such as:
 चक्षुर्-आदि-करण-सन्निकर्षवद् अनुभूतेस् सद्भाव एव हेतुः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Hence the existence of consciousness is the reason which brings about the 'shining forth' of jars and other objects, and thus has a similar office as the approximation of the object to the eye or the other organs of sense (which is another condition of perceptive consciousness). 
 </details>
@@ -3621,7 +3621,7 @@ a fact expressed in sentences such as:
 तद्-अनन्तरम् अर्थ-गत-कादाचित्क-- प्रकाशातिशय-लिङ्गेनानुभूतिर् अनुमीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 After this the existence of consciousness is inferred on the ground that the shining forth of the object is (not permanent, but) occasional only [fn_8]. 
 
@@ -3643,7 +3643,7 @@ After this the existence of consciousness is inferred on the ground that the shi
 > इति चेत्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > And should this argumentation be objected to on the ground of its implying that consciousness – which is essentially of the nature of intelligence – is something non-intelligent like material things, 
 </details>
@@ -3663,7 +3663,7 @@ After this the existence of consciousness is inferred on the ground that the shi
 न हि कदाचिदपि सुखादयस् सन्तो नोपलभ्यन्ते; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > we ask you to define this negation of non-intelligence (which you declare to be characteristic of consciousness). Have we, perhaps, to understand by it the invariable concomitance of existence and shining forth? If so, we point out that this invariable concomitance is also found in the case of pleasure and similar affections;  
 for when pleasure and so on exist at all, they never are non-perceived (i.e. they exist in so far only as we are conscious of them). 
@@ -3684,7 +3684,7 @@ for when pleasure and so on exist at all, they never are non-perceived (i.e. the
 इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > It is thus clear that we have no consciousness of consciousness itself – just as the tip of a finger, although touching other things, is incapable of touching itself.
 </details>
@@ -3702,7 +3702,7 @@ for when pleasure and so on exist at all, they never are non-perceived (i.e. the
 तद् इदम् अनाकलितानुभव-विभवस्य स्व-मति-विजृम्भितम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All this reasoning, we reply, is entirely spun out of your own fancy, without any due consideration of the power of consciousness. 
 </details>
@@ -3721,7 +3721,7 @@ All this reasoning, we reply, is entirely spun out of your own fancy, without an
 रूपादिवद् अनुपलब्धेः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The fact is, that in perceiving colour and other qualities of things, we are not aware of a 'shining forth' as an attribute of those things, and as something different from consciousness; 
 </details>
@@ -3738,7 +3738,7 @@ The fact is, that in perceiving colour and other qualities of things, we are not
 प्रकाशाख्य-धर्म-कल्पनानुपपत्तेश् च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor can the assumption of an attribute of things called 'light,' or 'shining forth,' be proved in any way, since the entire empirical world itself can be proved only through consciousness, the existence of which we both admit. 
 </details>
@@ -3754,7 +3754,7 @@ nor can the assumption of an attribute of things called 'light,' or 'shining for
 अतो नानुभूतिर् अनुमीयते। नापि ज्ञानान्तर-सिद्धा। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Consciousness, therefore, is not something which is inferred or proved through some other act of knowledge; 
 </details>
@@ -3772,7 +3772,7 @@ Consciousness, therefore, is not something which is inferred or proved through s
 स्वयम् एव सिद्ध्यति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but while proving everything else it is proved by itself. 
 </details>
@@ -3791,7 +3791,7 @@ but while proving everything else it is proved by itself.
 स्व-सम्बन्धाद् अर्थान्तरे तद्+++(→अर्थान्तर-)+++-धर्म-व्यवहार-हेतुत्वात् +++(रूपादिवत्, वक्ष्यमाण-रीत्या)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This may be expressed in technical form as follows--  
 Consciousness is, with regard to its attributes and to the empirical judgments concerning it, independent of any other thing, because through its connexion with other things it is the cause of their attributes and the empirical judgments concerning them. 
@@ -3812,7 +3812,7 @@ Consciousness is, with regard to its attributes and to the empirical judgments c
 यथा रूपादिश् चाक्षुषत्वादौ। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For it is a general principle that  
 of two things  
@@ -3833,7 +3833,7 @@ is itself independent of that other as to those two points.
 स्वस्मिन् न रूपादि-सम्बन्धाधीनश् चाक्षुषत्वादौ। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We see e.g. that colour, through its conjunction with earth and the like, produces in them the quality of visibility, but does not itself depend for its visibility on conjunction with colour. 
 </details>
@@ -3853,7 +3853,7 @@ We see e.g. that colour, through its conjunction with earth and the like, produc
 स्वयम् एव हेतुः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence consciousness is itself the cause of its own 'shining forth,' as well as of the empirically observed shining forth of objects such as jars and the like.
 </details>
@@ -3866,7 +3866,7 @@ Hence consciousness is itself the cause of its own 'shining forth,' as well as o
 
 
 ### नित्यता
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Consciousness is eternal and incapable of change.
 </details>
@@ -3878,7 +3878,7 @@ Consciousness is eternal and incapable of change.
 प्राग्-अभावाद्य्--अ-भावात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This self-luminous consciousness, further, is eternal, for it is not capable of any form of non-existence – whether so – called antecedent non-existence or any other form. 
 </details>
@@ -3895,7 +3895,7 @@ This self-luminous consciousness, further, is eternal, for it is not capable of 
 +++(प्राग्-अभावाद्य्→)+++तद्-अभावश् च स्वतस्-सिद्धत्वाद् एव। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This follows from its being self-established. 
 </details>
@@ -3913,7 +3913,7 @@ This follows from its being self-established.
 स्वतो ऽन्यतो वाऽवगन्तुं शक्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the antecedent non-existence of self-established consciousness cannot be apprehended either through consciousness or anything else. 
 </details>
@@ -3936,7 +3936,7 @@ For the antecedent non-existence of self-established consciousness cannot be app
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If consciousness itself gave rise to the apprehension of its own non-existence, it could not do so in so far as 'being,' for that would contradict its being; 
 </details>
@@ -3954,7 +3954,7 @@ If consciousness itself gave rise to the apprehension of its own non-existence, 
 कथं सा स्वाभावम् अवगमयति? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 if it is, i.e. if its non-existence is not, how can it give rise to the idea of its non-existence? 
 </details>
@@ -3973,7 +3973,7 @@ if it is, i.e. if its non-existence is not, how can it give rise to the idea of 
 स्वाभावे कथं प्रमाणं भवेत्? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it do so if not being; for if consciousness itself is not, how can it furnish a proof for its own non-existence? 
 </details>
@@ -3991,7 +3991,7 @@ Nor can it do so if not being; for if consciousness itself is not, how can it fu
 अनुभूतेर् अन्-अन्य-गोचरत्वात्। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can the non- existence of consciousness be apprehended through anything else; for consciousness cannot be the object of anything else. 
 </details>
@@ -4009,7 +4009,7 @@ Nor can the non- existence of consciousness be apprehended through anything else
 तद्-अभावं साधयेत्;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Any instrument of knowledge proving the non-existence of consciousness, could do so only by making consciousness its object--'this is consciousness'; 
 </details>
@@ -4026,7 +4026,7 @@ Any instrument of knowledge proving the non-existence of consciousness, could do
 न तत्-प्राग्-अभावो ऽन्यतः शक्यावगमः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but consciousness, as being self-established, does not admit of that objectivation which is implied in the word 'this,' and hence its previous non-existence cannot be proved by anything lying outside itself.
 </details>
@@ -4053,7 +4053,7 @@ but consciousness, as being self-established, does not admit of that objectivati
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As consciousness thus does not admit of antecedent non-existence, it further cannot be held to originate, and hence also all those other states of being which depend on origination cannot be predicated of it.
 </details>
@@ -4074,7 +4074,7 @@ As consciousness thus does not admit of antecedent non-existence, it further can
 व्यापक-+++(अनुत्पन्नताख्य-)+++विरुद्धोपलब्धेः ॥ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As consciousness is beginningless,  
 it further does not admit of any plurality within itself;  
@@ -4096,7 +4096,7 @@ which quality invariably accompanies plurality).
 न ह्यनुत्पन्नं नानाभूतं दृष्टम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For we never observe a thing characterised by plurality to be without a beginning.
 </details>
@@ -4115,7 +4115,7 @@ For we never observe a thing characterised by plurality to be without a beginnin
 न सम्भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And moreover difference, origination, &c., are objects of consciousness, like colour and other qualities,  
 and hence cannot be attributes of consciousness. 
@@ -4134,7 +4134,7 @@ and hence cannot be attributes of consciousness.
 अन्योऽपि कश्चिद् अनुभाव्यो नास्या धर्मः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Therefore, consciousness being essentially consciousness only,  
 nothing else that is an object of consciousness can be its attribute.  
@@ -4150,7 +4150,7 @@ The conclusion is that consciousness is free from difference of any kind.
 
 ## संविद् एवात्मा
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The apparent difference between Consciousness and the conscious subject is due to the unreal ahaṁkāra.
 </details>
@@ -4162,7 +4162,7 @@ The apparent difference between Consciousness and the conscious subject is due t
 स्व-प्रकाश-रूपा +++(संवित्→)+++ सैवाऽत्मा।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From this it further follows that there is no substrate of consciousness-- different from consciousness itself-- such as people ordinarily mean when speaking of a 'knower.' It is self-luminous consciousness itself which constitutes the so-called 'knower.'  
 </details>
@@ -4189,7 +4189,7 @@ From this it further follows that there is no substrate of consciousness-- diffe
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This follows therefrom also that consciousness is not non-intelligent (jaḍa); for non-intelligence invariably accompanies absence of Selfhood (anātmatva); hence, non-intelligence being absent in consciousness, consciousness is not non-Self, that means, it is the Self.
 </details>
@@ -4209,7 +4209,7 @@ This follows therefrom also that consciousness is not non-intelligent (jaḍa); 
 > ननु च – "अहं जानामी"ति ज्ञातृता प्रतीतिसिद्धा। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, our adversary again objects, the consciousness which expresses itself in the judgment 'I know,' proves that the quality of being a 'knower' belongs to consciousness!
 </details>
@@ -4236,7 +4236,7 @@ But, our adversary again objects, the consciousness which expresses itself in th
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --By no means, we reply. The attribution to consciousness of this quality rests on error, no less than the attribution, to the shell, of the quality of being silver. 
 </details>
@@ -4254,7 +4254,7 @@ But, our adversary again objects, the consciousness which expresses itself in th
 ज्ञातृत्वम् अप्य् अध्यस्तम्। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Consciousness cannot stand in the relation of an agent toward itself: the attribute of being a knowing agent is erroneously imputed to it – an error analogous to that expressed in the judgment 'I am a man,' which identifies the Self of a person with the outward aggregate of matter that bears the external characteristics of humanity. 
 </details>
@@ -4271,7 +4271,7 @@ Consciousness cannot stand in the relation of an agent toward itself: the attrib
 ज्ञातृत्वं हि ज्ञान-क्रिया-कर्तृत्वम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To be a 'knower' means to be the agent in the action of knowing; 
 </details>
@@ -4299,7 +4299,7 @@ To be a 'knower' means to be the agent in the action of knowing;
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and this is something essentially changeful and non-intelligent (jaḍa), having its abode in the ahaṁkāra, which is itself a thing subject to change. How, on the other hand, could such agency possibly belong to the changeless 'witness' (of all change, i.e. consciousness) whose nature is pure Being? 
 </details>
@@ -4315,7 +4315,7 @@ and this is something essentially changeful and non-intelligent (jaḍa), having
 रूपादेर् इव कर्तृत्वादेर् नात्म-धर्मत्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That agency cannot be an attribute of the Self  
 follows therefrom also that,  
@@ -4337,7 +4337,7 @@ like colour and other qualities, agency depends, for its own proof, on seeing, i
 नाऽत्मनो ऽहं-प्रत्यय-गोचरत्वम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the Self does not fall within the sphere (is not an object of), the idea of 'I' is proved thereby also that in deep sleep, swoon, and similar states, the idea of the 'I' is absent, while the consciousness of the Self persists. 
 </details>
@@ -4355,7 +4355,7 @@ That the Self does not fall within the sphere (is not an object of), the idea of
 देहस्येव जडत्व-पराक्त्वानात्मत्वादि-प्रसङ्गो दुष्परिहरः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, if the Self were admitted to be an agent and an object of the idea of 'I,' it would be difficult to avoid the conclusion that like the body it is non-intelligent, something merely outward ('being for others only, not for itself') and destitute of Selfhood. 
 </details>
@@ -4374,7 +4374,7 @@ Moreover, if the Self were admitted to be an agent and an object of the idea of 
 प्रामाणिकानां प्रसिद्धम् एव। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That from the body, which is the object of the idea of 'I,' and known to be an agent, there is different that Self which enjoys the results of the body's actions, viz. the heavenly word, and so on, is acknowledged by all who admit the validity of the instruments of knowledge; 
 </details>
@@ -4392,7 +4392,7 @@ That from the body, which is the object of the idea of 'I,' and known to be an a
 प्रत्याग्-आत्मेति प्रतिपत्तव्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 analogously, therefore, we must admit that different from the knower whom we understand by the term 'I,' is the 'witnessing' inward Self. 
 </details>
@@ -4413,7 +4413,7 @@ analogously, therefore, we must admit that different from the knower whom we und
 स्वाश्रयतया तम् अभिव्यनक्ति । +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The non-intelligent ahaṁkāra thus merely serves to manifest the nature of non-changing consciousness, and it effects this by being its abode; 
 </details>
@@ -4431,7 +4431,7 @@ The non-intelligent ahaṁkāra thus merely serves to manifest the nature of non
 अभिव्यञ्जकानां स्वभावः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for it is the proper quality of manifesting agents to manifest the objects manifested, in so far as the latter abide in them. 
 </details>
@@ -4449,7 +4449,7 @@ for it is the proper quality of manifesting agents to manifest the objects manif
 मुख--चन्द्र-बिम्ब--गोत्वादिकम् आत्म-स्थतया ऽभिव्यनक्ति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A mirror, e.g., or a sheet of water, or a certain mass of matter, manifests a face or the disc of the moon (reflected in the mirror or water) or the generic character of a cow (impressed on the mass of matter) in so far as all those things abide in them.
 </details>
@@ -4466,7 +4466,7 @@ A mirror, e.g., or a sheet of water, or a certain mass of matter, manifests a fa
 तत्-कृतो ऽयं "जानाम्य् अहम्" इति भ्रमः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --In this way, then, there arises the erroneous view that finds expression in the judgment 'I know.'
 </details>
@@ -4487,7 +4487,7 @@ A mirror, e.g., or a sheet of water, or a certain mass of matter, manifests a fa
 इति मा वोचः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Nor must you, in the way of objection, raise the question how self-luminous consciousness is to be manifested by the non-intelligent ahaṁkāra, which rather is itself manifested by consciousness; 
 </details>
@@ -4504,7 +4504,7 @@ A mirror, e.g., or a sheet of water, or a certain mass of matter, manifests a fa
 रवि-कर-निकराभिव्यङ्ग्य-- कर-तलस्य तद्-अभिव्यञ्जकत्व-दर्शनात्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for we observe that the surface of the hand, which itself is manifested by the rays of sunlight falling on it, at the same time manifests those rays. 
 </details>
@@ -4522,7 +4522,7 @@ for we observe that the surface of the hand, which itself is manifested by the r
 स्फुट-तर-प्रकाशो हि दृष्टचरः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This is clearly seen in the case of rays passing through the interstices of network; the light of those rays is intensified by the hand on which they fall, and which at the same time is itself manifested by the rays.
 </details>
@@ -4542,7 +4542,7 @@ This is clearly seen in the case of rays passing through the interstices of netw
 अत एव सुषुप्तिमुक्त्योर्नान्वेति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It thus appears that the 'knowing agent,' who is denoted by the 'I,' in the judgment 'I know,' constitutes no real attribute of the Self, the nature of which is pure intelligence. 
 </details>
@@ -4559,7 +4559,7 @@ It thus appears that the 'knowing agent,' who is denoted by the 'I,' in the judg
 स्वाभाविकानुभव-मात्र-रूपेणाऽत्मा ऽवभासते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This is also the reason why the consciousness of Egoity does not persist in the states of deep sleep and final release: in those states this special form of consciousness passes away, and the Self appears in its true nature, i.e. as pure consciousness. 
 </details>
@@ -4575,7 +4575,7 @@ This is also the reason why the consciousness of Egoity does not persist in the 
 "माम् अप्य् अहं न ज्ञातवान्" इति परामृशति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence a person who has risen from deep, dreamless sleep reflects, 'Just now I was unconscious of myself.'
 </details>
@@ -4587,7 +4587,7 @@ Hence a person who has risen from deep, dreamless sleep reflects, 'Just now I wa
 
 ### सङ्ग्रहः
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Summing up of the pūrvapaksha view.
 </details>
@@ -4601,7 +4601,7 @@ Summing up of the pūrvapaksha view.
 विवर्तत इति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As the outcome of all this, we sum up our view as follows.--Eternal, absolutely non-changing consciousness, whose nature is pure non-differenced intelligence, free from all distinction whatever, owing to error illusorily manifests itself (vivarttate) as broken up into manifold distinctions – knowing subjects, objects of knowledge, acts of knowledge.
 </details>
@@ -4622,7 +4622,7 @@ As the outcome of all this, we sum up our view as follows.--Eternal, absolutely 
 इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the purpose for which we enter on the consideration of the Vedānta-texts is utterly to destroy what is the root of that error, i.e. Nescience, and thus to obtain a firm knowledge of the oneness of Brahman, whose nature is mere intelligence – free, pure, eternal.
 </details>

@@ -21,7 +21,7 @@ Nescience cannot be terminated by the simple act of cognising Brahman as the uni
 बन्धस्य पारमार्थिकत्वेन ज्ञान-निवर्त्यत्वाभावात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The doctrine, again, that Nescience is put an end to by the cognition of Brahman being the Self of all can in no way be upheld; for as bondage is something real it cannot be put an end to by knowledge.
 </details>
@@ -45,7 +45,7 @@ The doctrine, again, that Nescience is put an end to by the cognition of Brahman
 मिथ्यात्वं कथम् इव शक्यते वक्तुम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 How, we ask, can any one assert that bondage – which consists in the experience of pleasure and pain caused by the connexion of souls with bodies of various kind, a connexion springing from good or evil actions – is something false, unreal?
 </details>
@@ -72,7 +72,7 @@ How, we ask, can any one assert that bondage – which consists in the experienc
 पूर्वम् एवोक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that the cessation of such bondage is to be obtained only through the grace of the highest Self pleased by the devout meditation of the worshipper, we have already explained.
 </details>

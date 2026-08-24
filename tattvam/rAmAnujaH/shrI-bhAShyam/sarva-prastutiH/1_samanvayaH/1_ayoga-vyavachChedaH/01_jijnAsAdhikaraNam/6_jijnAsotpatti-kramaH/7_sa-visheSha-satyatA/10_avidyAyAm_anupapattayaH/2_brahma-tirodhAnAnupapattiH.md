@@ -12,7 +12,7 @@ title = "२ ब्रह्म-तिरोधानानुपपत्ति
 स्वरूप-नाश एवोक्तस्स्यात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When, in the next place, you maintain that Brahman, whose nature is homogeneous intelligence, is invested and hidden by Nescience, you thereby assert the destruction of Brahman's essential nature. 
 </details>
@@ -30,7 +30,7 @@ When, in the next place, you maintain that Brahman, whose nature is homogeneous 
 विद्यमानस्य विनाशो वा। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Causing light to disappear means either obstructing the origination of light, or else destroying light that exists. 
 </details>
@@ -48,7 +48,7 @@ Causing light to disappear means either obstructing the origination of light, or
 प्रकाश-तिरोधानं प्रकाश-नाश एव॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And as you teach that light (consciousness) cannot originate,  
 the 'hiding' or 'making to disappear' of light can only mean its destruction.

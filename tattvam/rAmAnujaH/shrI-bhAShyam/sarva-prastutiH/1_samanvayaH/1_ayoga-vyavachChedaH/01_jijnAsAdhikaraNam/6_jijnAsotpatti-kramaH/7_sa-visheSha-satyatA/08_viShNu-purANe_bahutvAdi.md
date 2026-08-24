@@ -15,7 +15,7 @@ title = "०८ विष्णु-पुराणे बहुत्वाद�
 इति यद् अभिहितं तद् अ-सत् –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor do Smr̥ti and Purāṇa teach such a doctrine.
 
@@ -35,7 +35,7 @@ Nor is it true that also according to Smr̥ti and Purāṇas only non-difference
 (भ.गी.१०.३ )
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He who knows me as unborn and without a beginning, the supreme Lord of the worlds' (Bha. Gī. X, 3);
 </details>
@@ -56,7 +56,7 @@ Nor is it true that also according to Smr̥ti and Purāṇas only non-difference
 (भ.गी.९.अ.४-५)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'All beings abide in me, I abide not in them. Nay, the beings abide not in me – behold my lordly power. My Self bringing forth the beings supports them but does not abide in them' (Bha. Gī. IX, 4, 5);
 </details>
@@ -79,7 +79,7 @@ Nor is it true that also according to Smr̥ti and Purāṇas only non-difference
 (भ.गी.७.६-७)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'I am the origin and the dissolution of the entire world; higher than I there is nothing else: on me all this is strung as pearls on a thread' (Bha. Gī. VII, 6, 7);
 </details>
@@ -98,7 +98,7 @@ Nor is it true that also according to Smr̥ti and Purāṇas only non-difference
 (भ.गी.१०अ.४२)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Pervading this entire Universe by a portion (of mine) I abide' (Bha. Gī. X, 42);
 </details>
@@ -121,7 +121,7 @@ Nor is it true that also according to Smr̥ti and Purāṇas only non-difference
 (भ.गी.१५.१७,१८)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'But another, the highest Person, is called the highest Self who, pervading the three worlds supports them, the eternal Lord. Because I transcend the Perishable and am higher than the Imperishable even, I am among the people and in the Veda celebrated as the supreme Person' (Bha. Gī. XV, 17, 18).
 </details>
@@ -159,7 +159,7 @@ Nor is it true that also according to Smr̥ti and Purāṇas only non-difference
 (वि.पु.६.५.८३,८४,८५,८६,८७)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He transcends the fundamental matter of all beings, its modifications, properties and imperfections; he transcends all investing (obscuring) influences, he who is the Self of all. Whatever (room) there is in the interstices of the world is filled by him; all auspicious qualities constitute his nature. The whole creation of beings is taken out of a small part of his power. Assuming at will whatever form he desires he bestows benefits on the whole world effected by him. Glory, strength, dominion, wisdom, energy, power and other attributes are collected in him, Supreme of the supreme in whom no troubles abide, ruler over high and low, lord in collective and distributive form, non-manifest and manifest, universal lord, all-seeing, all-knowing, all-powerful, highest Lord. The knowledge by which that perfect, pure, highest, stainless homogeneous (Brahman) is known or perceived or comprehended – that is knowledge: all else is ignorance' (Vishṇu Purāṇa VI, 5, 82-87).--
 </details>
@@ -204,7 +204,7 @@ Nor is it true that also according to Smr̥ti and Purāṇas only non-difference
 (वि.पु.६.५९.७२,७३,७४,७५)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'To that pure one of mighty power, the highest Brahman to which no term is applicable, the cause of all causes, the name "Bhagavat" is suitable. The letter bha implies both the cherisher and supporter; the letter ga the leader, mover and creator. The two syllables bhaga indicate the six attributes – dominion, strength, glory, splendour, wisdom, dispassion. That in him – the universal Self, the Self of the beings – all beings dwell and that he dwells in all, this is the meaning of the letter va.
 </details>
@@ -229,7 +229,7 @@ Nor is it true that also according to Smr̥ti and Purāṇas only non-difference
 विना हेयैर् गुणादिभिः॥ (वि.पु.६.५.७९)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Wisdom, might, strength, dominion, glory, without any evil qualities, are all denoted by the word bhagavat.
 </details>
@@ -254,7 +254,7 @@ Wisdom, might, strength, dominion, glory, without any evil qualities, are all de
 (वि.पु.६.५.७६,७७)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This great word bhagavat is the name of Vāsudeva who is the highest Brahman – and of no one else. This word which denotes persons worthy of reverence in general is used in its primary sense with reference to Vāsudeva only; in a derived sense with regard to other persons' (Vi. Pu. VI, 5, 72 ff.);
 </details>
@@ -284,7 +284,7 @@ This great word bhagavat is the name of Vāsudeva who is the highest Brahman –
 चेष्टा तस्याप्रमेयस्य **व्यापिन्य्** अ-व्याहतात्मिका॥ (वि.पु.६.७.७०,७१,७२)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Where all these powers abide, that is the form of him who is the universal form: that is the great form of Hari. That form produces in its sport forms endowed with all powers, whether of gods or men or animals. For the purpose of benefiting the worlds, not springing from work (karman) is this action of the unfathomable one; all-pervading, irresistible' (Vi. Pu. VI, 7, 69-71);
 </details>
@@ -307,7 +307,7 @@ This great word bhagavat is the name of Vāsudeva who is the highest Brahman –
 विष्ण्व्-आख्यं परमं पदम्॥ (वि.पु.१ं.२२.५३)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Him who is of this kind, stainless, eternal, all-pervading, imperishable, free from all evil, named Vishṇu, the highest abode' (Vi. Pu. I, 22,53);
 </details>
@@ -346,7 +346,7 @@ This great word bhagavat is the name of Vāsudeva who is the highest Brahman –
 (विष्णु.पु.१.२.१३,१४)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He who is the highest of the high, the Person, the highest Self, founded on himself; who is devoid of all the distinguishing characteristics of colour, caste and the like; who is exempt from birth, change, increase, decay and death; of whom it can only be said that he ever is. He is everywhere and in him everything abides; hence he is called Vāsudeva by those who know. He is Brahman, eternal, supreme, imperishable, undecaying; of one essential nature and ever pure, as free from all defects. This whole world is Brahman, comprising within its nature the Evolved and the Uneveloped; and also existing in the form of the Person and in that of time' (Vi. Pu. I, 2, 10-14);
 </details>
@@ -379,7 +379,7 @@ This great word bhagavat is the name of Vāsudeva who is the highest Brahman –
 (वि.पु.६.४.३९,४०)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'The Prakr̥ti about which I told and which is Evolved as well as Uneveloped, and the Person – both these are merged in the highest Self. The highest Self is the support of all, the highest Lord; as Vishṇu he is praised in the Vedas and the Vedānta-texts' (Vi. Pu. VI, 4, 38, 39).
 </details>
@@ -409,7 +409,7 @@ This great word bhagavat is the name of Vāsudeva who is the highest Brahman –
 (वि.पु.१.२२.५५,५६,५७)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Two forms are there of that Brahman, one material, the other immaterial. These two forms, perishable and imperishable, are within all things: the imperishable one is the highest Brahman, the perishable one this whole world. As the light of a fire burning in one place spreads all around, so the energy of the highest Brahman constitutes this entire world' (Vi. Pu. I, 23,53-55).
 </details>
@@ -440,7 +440,7 @@ This great word bhagavat is the name of Vāsudeva who is the highest Brahman –
 (वि.पु.६.७.६१,६२,६३)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'The energy of Vishṇu is the highest, that which is called the embodied soul is inferior; and there is another third energy called karman or Nescience, actuated by which the omnipresent energy of the embodied soul perpetually undergoes the afflictions of worldly existence. Obscured by Nescience the energy of the embodied soul is characterised in the different beings by different degrees of perfection' (Vi. Pu. VI, 7, 61-63).
 </details>
@@ -470,7 +470,7 @@ This great word bhagavat is the name of Vāsudeva who is the highest Brahman –
 (विष्णु.पु.२.७.२९,३०,३१)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Pradhāna (nature) and Puruṣa (spirit), O highly wise one, are both enveloped by the energy of Viṣṇu, which is the self of all beings, and are characterized by mutual dependence. She (this energy) alone is the cause of their separation and of their connection. Just as the wind supports hundreds of water droplets suspended in water, so does that energy of Viṣṇu support both Pradhāna and Puruṣa' (Vi. Pu. II, 7, 29-31).
 </details>
@@ -493,7 +493,7 @@ This great word bhagavat is the name of Vāsudeva who is the highest Brahman –
 **जन्म-नाश**-विकल्पवत्॥ (वि.पु.१.२२.६० )
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Therefore, O best of sages, this entire universe is imperishable and eternal, though it undergoes the distinctions of manifestation, disappearance, birth, and destruction' (Vi. Pu. I, 22, 60).
 </details>
@@ -512,7 +512,7 @@ This great word bhagavat is the name of Vāsudeva who is the highest Brahman –
 जगद्-उत्पत्ति-स्थिति-संहारान्तःप्रवेश- नियमनादि-लीलं **प्रतिपाद्य**  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 These and other texts teach that the highest Brahman is essentially free from all imperfection whatsoever,  
 comprises within itself all auspicious qualities, and finds its pastime in originating, preserving, reabsorbing, pervading, and ruling the universe;  
@@ -531,7 +531,7 @@ comprises within itself all auspicious qualities, and finds its pastime in origi
 तत्-तच्-छब्द-सामानाधिकरण्येन चाभिधाय  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 that the entire complex of intelligent and non-intelligent beings (souls and matter) in all their different estates is real, and constitutes the form, i.e. the body of the highest Brahman, as appears from those passages which co-ordinate it with Brahman by means of terms such as śarīra (body), rūpa (form), tanu (body), aṁsa (part), śakti (power), vibhūti (manifestation of power), and so on;
 </details>
@@ -550,7 +550,7 @@ that the entire complex of intelligent and non-intelligent beings (souls and mat
 अचिन्-मिश्रतया क्षेत्रज्ञ-रूपेण स्थितिं चोक्त्वा,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --that the souls which are a manifestation of Brahman's power exist in their own essential nature, and also, through their connexion with matter, in the form of embodied souls (kshetrajña);
 </details>
@@ -569,7 +569,7 @@ that the entire complex of intelligent and non-intelligent beings (souls and mat
 अचिद्-रूपार्थाकारतया अनुसन्धानं च प्रतिपादितम् इति,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --and that the embodied souls, being engrossed by Nescience in the form of good and evil works, do not recognise their essential nature, which is knowledge, but view themselves as having the character of material things.
 
@@ -586,7 +586,7 @@ that the entire complex of intelligent and non-intelligent beings (souls and mat
 
 परं ब्रह्म स-विशेषम्, तद्-विभूति-भूतं जगद् अपि पारमार्थिकम् एवेति ज्ञायते॥
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --The outcome of all this is that we have to cognise Brahman as carrying plurality within itself, and the world, which is the manifestation of his power, as something real.
 </details>
@@ -620,7 +620,7 @@ that the entire complex of intelligent and non-intelligent beings (souls and mat
 इति चेत्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When now the text, in the śloka 'where all difference has vanished' (Vi. Pu. VI, 7, 53), declares that the Self, although connected with the different effects of Prakr̥ti, such as divine, human bodies, and so on, yet is essentially free from all such distinctions, and therefore not the object of the words denoting those different classes of beings, but to be defined as mere knowledge and Being; to be known by the Self and not to be reached by the mind of the practitioner of Yoga (yogayuj); this must in no way be understood as denying the reality of the world.  
 
@@ -666,7 +666,7 @@ When now the text, in the śloka 'where all difference has vanished' (Vi. Pu. VI
 इत्य् उक्तम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The chapter of the Purāṇa in which that śloka occurs at first declares concentration (Yoga) to be the remedy of all the afflictions of the Saṁsāra; thereupon explains the different stages of Yoga up to the so-called pratyāhāra (complete restraining of the senses from receiving external impressions); then, in order to teach the attainment of the 'perfect object' (śubhāśraya) required for dhāraṇā, declares that the highest Brahman, i. e. Vishṇu, possesses two forms, called powers (śakti), viz. a denned one (mūrta) and an undefined one (amūrta); and then teaches that a portion of the 'defined' form, viz. the embodied soul (kshetrajña), which is distinguished by its connexion with matter and involved in Nescience – that is termed 'action,' and constitutes a third power – is not perfect. The chapter further teaches that a portion of the undefined form which is free from Nescience called action, separated from all matter, and possessing the character of pure knowledge, is also not the 'perfect object,' since it is destitute of essential purity; 
 
@@ -694,7 +694,7 @@ This defined form (which is the 'perfect object') is proved by certain Vedānta-
 "प्रत्यस्तमित-भेदं यद्" इत्य् उच्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We hence must take the śloka, 'in which all differences vanish,' &c., to mean that the pure Self (the Self in so far as knowledge only) is not capable of constituting the 'perfect object.' 
 </details>
@@ -724,7 +724,7 @@ We hence must take the śloka, 'in which all differences vanish,' &c., to mean t
 इति च वदति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Analogously two other passages declare 
 
@@ -752,7 +752,7 @@ Analogously two other passages declare
 भगवता शौनकेन शुभाश्रयता निषिद्धा –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In an analogous manner, Parāśara declares that Brahmā, Caturmukha, Sanaka, and similar mighty beings which dwell within this world, cannot constitute the 'perfect object' because they are involved in Nescience; after that goes on to say that the beings found in the Saṁsāra are in the same condition – for they are essentially devoid of purity since they reach their true nature, only later on, when through Yoga knowledge has arisen in them--; and finally teaches that the essential individual nature of the highest Brahman, i.e. Vishṇu, constitutes the 'perfect object.'
 </details>
@@ -783,7 +783,7 @@ In an analogous manner, Parāśara declares that Brahmā, Caturmukha, Sanaka, an
 – (भविष्यत्-पुराणान्तर्गत-श्रीविष्णुधर्मे १०४.२३,२४,२५,२६)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'From Brahmā down to a blade of grass, all living beings that dwell within this world are in the power of the Saṁsāra due to works, and hence no profit can be derived by the devout from making them objects of their meditation. They are all implicated in Nescience, and stand within the sphere of the Saṁsāra; knowledge arises in them only later on, and they are thus of no use in meditation. Their knowledge does not belong to them by essential nature, for it comes to them through something else. Therefore the stainless Brahman which possesses essential knowledge,' &c. &c.--
 </details>
@@ -819,7 +819,7 @@ In an analogous manner, Parāśara declares that Brahmā, Caturmukha, Sanaka, an
 अतो ऽत्र न भेदापलापः प्रतीयते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All this proves that the passage 'in which all difference vanishes' does not mean to deny the reality of the world.
 </details>
@@ -845,7 +845,7 @@ All this proves that the passage 'in which all difference vanishes' does not mea
 इत्य् एतावन्-मात्र-वचनात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, does the passage 'that which has knowledge for its essential nature' (Vi. Pu. 1,2,6) imply that the whole complex of things different from knowledge is false; for it declares only that the appearance of the Self – the essential nature of which is knowledge – as gods, men, and so on, is erroneous. 
 </details>
@@ -862,7 +862,7 @@ Nor, again, does the passage 'that which has knowledge for its essential nature'
 जगति कृत्स्नं रजत-जातं मिथ्या भवति। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A declaration that the appearance of mother o' pearl as silver is founded on error surely does not imply that all the silver in the world is unreal!
 </details>
@@ -889,7 +889,7 @@ A declaration that the appearance of mother o' pearl as silver is founded on err
 +++(ततश् चोक्तानुमाने हेतोर् असिद्धेः)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But if, on the ground of an insight into the oneness of Brahman and the world –  
 as expressed in texts where the two appear in co-ordination –  
@@ -909,7 +909,7 @@ a text declares that it is an error to view Brahman, whose essential nature is k
 अनन्तरम् एवोपपादयिष्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That information as to the oneness of two things by means of co-ordination does not allow of sublation (of either of the two), and is non-contradictory, we shall prove further on. 
 </details>
@@ -926,7 +926,7 @@ That information as to the oneness of two things by means of co-ordination does 
 अतो ऽयम् अपि श्लोको नार्थ-स्वरूपस्य बाधकः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence also the śloka last referred to does not sublate the reality of the world.
 </details>
@@ -960,7 +960,7 @@ Hence also the śloka last referred to does not sublate the reality of the world
 इति विज्ञायते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'That from whence these beings are born, by which, when born, they live, into which they enter when they die, endeavour to know that; that is Brahman' (Taitt. Up. III, 1). From this scriptural text we ascertain that Brahman is the cause of the origination, and so on, of the world. After this we learn from a Purāṇa text ('He should make the Veda grow by means of Itihāsa and Purāṇa; the Veda fears that a man of little reading may do it harm') that the Veda should be made to grow by Itihāsa and Purāṇa.
 </details>
@@ -978,7 +978,7 @@ Hence also the śloka last referred to does not sublate the reality of the world
 स्वावगत-वेद-वाक्यार्थ-व्यक्ती-करणम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By this 'making to grow' we have to understand the elucidation of the sense of the Vedic texts studied by means of other texts, promulgated by men who had mastered the entire Veda and its contents, and by the strength of their devotion had gained full intuition of Vedic truth. 
 </details>
@@ -998,7 +998,7 @@ By this 'making to grow' we have to understand the elucidation of the sense of t
 उपबृंहणं हि कार्यम् एव॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such 'making to grow' must needs be undertaken, since the purport of the entire Veda with all its Śākhās cannot be fathomed by one who has studied a small part only, and since without knowing that purport we cannot arrive at any certitude.
 </details>
@@ -1029,7 +1029,7 @@ Such 'making to grow' must needs be undertaken, since the purport of the entire 
 इत्य्-आदिना॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vishṇu Purāṇa relates how Maitreya, wishing to have his knowledge of Vedic matters strengthened by the holy Parāsara, who through the favour of Pulastya and Vasishṭḥa had obtained an insight into the true nature of the highest divinity, began to question Parāśara, 'I am desirous to hear from thee how this world originated, and how it will again originate in future, and of what it consists, and whence proceed animate and inanimate things; how and into what it has been resolved, and into what it will in future be resolved?' &c. (Vi. Pu. I, 1).
 </details>
@@ -1046,7 +1046,7 @@ The Vishṇu Purāṇa relates how Maitreya, wishing to have his knowledge of Ve
 अत्र ब्रह्म-स्वरूप-विशेष-- तद्-विभूति-भेद-प्रकार-- तद्-आराधन-स्वरूप-- फल-विशेषाश् च पृष्टाः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The questions asked refer to the essential nature of Brahman, the different modes of the manifestation of its power, and the different results of propitiating it. 
 </details>
@@ -1070,7 +1070,7 @@ The questions asked refer to the essential nature of Brahman, the different mode
 तस्य चोत्तरं "जगच् च स" इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Among the questions belonging to the first category, the question 'whence proceed animate and inanimate things?' relates to the efficient and the material cause of the world, and hence the clause 'of what the world consists' is to be taken as implying a question as to what constitutes the Self of this world, which is the object of creation, sustentation, and dissolution. The reply to this question is given in the words 'and the world is He.'
 </details>
@@ -1089,7 +1089,7 @@ Among the questions belonging to the first category, the question 'whence procee
 "जगच् च स" इति सामानाधिकरण्यस्य। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now the identity expressed by this clause is founded thereon that he (i.e. Brahman or Vishṇu) pervades the world as its Self in the character of its inward Ruler; and is not founded on unity of substance of the pervading principle and the world pervaded. 
 </details>
@@ -1108,7 +1108,7 @@ Now the identity expressed by this clause is founded thereon that he (i.e. Brahm
 पृथक्-प्रश्न-वैयर्थ्यात्। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The phrase 'consists of' (-maya) does not refer to an effect (so that the question asked would be as to the causal substance of which this world is an effect), for a separate question on this point would be needless. 
 </details>
@@ -1127,12 +1127,12 @@ The phrase 'consists of' (-maya) does not refer to an effect (so that the questi
 तदा हि "विष्णुर् एव" इत्य् उत्तरम् अभविष्यत्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor does the – maya express, as it sometimes does-e.g. in the case of praṇa-maya [^fn_15], the own sense of the word to which it is attached; for in that case the form of the reply 'and the world is He' (which implies a distinction between the world and Vishṇu) would be inappropriate; the reply would in that case rather be 'Vishṇu only.' 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Thibaut - Notes</summary>
 
 [^fn_15]: 92:1 'Prāṇamaya' is explained as meaning 'praṇa' only.
 </details>
@@ -1154,7 +1154,7 @@ Nor does the – maya express, as it sometimes does-e.g. in the case of praṇa-
 इति निश्चीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What 'maya' actually denotes here is abundance, prevailingness, in agreement with Pāṇini, V, 4, 21, and the meaning is that Brahman prevails in the world in so far as the entire world constitutes its body. The co-ordination of the two words 'the world' and 'He' thus rests on that relation between the two, owing to which the world is the body of Brahman, and Brahman the Self of the world.
 </details>
@@ -1171,7 +1171,7 @@ What 'maya' actually denotes here is abundance, prevailingness, in agreement wit
 सर्वाण्य् एतानि प्रश्न-प्रतिवचनानि न सङ्गच्छन्ते। तद्-विवरण-रूपं कृत्स्नं च शास्त्रं न सङ्गच्छते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, we maintained that the śāstra aims only at inculcating the doctrine of one substance free from all difference, there would be no sense in all those questions and answers, and no sense in an entire śāstra devoted to the explanation of that one thing. 
 </details>
@@ -1193,7 +1193,7 @@ If, on the other hand, we maintained that the śāstra aims only at inculcating 
 "निर्-विशेष-ज्ञान-मात्रम्" इत्य् एवं रूपम् एकम् एवोत्तरं स्यात् ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In that case there would be room for one question only, viz. 'what is the substrate of the erroneous imagination of a world?' and for one answer to this question, viz. 'pure consciousness devoid of all distinction!'--
 </details>
@@ -1211,7 +1211,7 @@ In that case there would be room for one question only, viz. 'what is the substr
 अ-सङ्कल्पत्वादि--कल्याण-गुणैकतानता निखिल-हेय-प्रत्यनीकता च बाध्येत। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if the co-ordination expressed in the clause 'and the world is he' was meant to set forth the absolute oneness of the world and Brahman, then it could not be held that Brahman possesses all kinds of auspicious qualities, and is opposed to all evil; 
 </details>
@@ -1228,7 +1228,7 @@ And if the co-ordination expressed in the clause 'and the world is he' was meant
 सर्वाशुभास्पदं च ब्रह्म भवेत्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Brahman would rather become the abode of all that is impure. 
 </details>
@@ -1245,7 +1245,7 @@ Brahman would rather become the abode of all that is impure.
 आत्म-शरीर-भाव एवेदं सामानाधिकरण्यं मुख्य-वृत्तम् इति स्थाप्यते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All this confirms the conclusion that the co-ordination expressed in that clause is to be understood as directly teaching the relation between a Self and its body.--
 </details>
@@ -1274,7 +1274,7 @@ All this confirms the conclusion that the co-ordination expressed in that clause
 तम् एव हिरण्य-गर्भ--स्वावतार--शङ्कर- रूप-त्रिमूर्ति-- प्रधान-काल-क्षेत्रज्ञ-- समष्टि-व्यष्टि-रूपेणावस्थितं च नमस् करोति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The śloka, 'From Vishṇu the world has sprung: in him he exists: he is the cause of the subsistence and dissolution of this world: and the world is he' (Vi. Pu. I, 1, 35), states succinctly what a subsequent passage – beginning with 'the highest of the high' (Vi. Pu. I, 2, 10)--sets forth in detail. Now there the śloka,'to the unchangeable one' (I, 2, 1), renders homage to the holy Vishṇu, who is the highest Brahman in so far as abiding within his own nature, and then the text proceeds to glorify him in his threefold form as Hiraṇyagarbha, Hari, and Śankara, as Pradhāna, Time, and as the totality of embodied souls in their combined and distributed form.
 </details>
@@ -1295,7 +1295,7 @@ The śloka, 'From Vishṇu the world has sprung: in him he exists: he is the cau
 तस्मान् नात्र निर्विशेष-वस्तु-प्रतीतिः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here the śloka, 'Him whose essential nature is knowledge' (I, 2, 6), describes the aspect of the highest Self in so far as abiding in the state of discrete embodied souls; the passage cannot therefore be understood as referring to a substance free from all difference.
 </details>
@@ -1326,14 +1326,14 @@ Here the śloka, 'Him whose essential nature is knowledge' (I, 2, 6), describes 
 इति परिहारश् च न घटते। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the śāstra aimed at teaching that the erroneous conception of a manifold world has for its substrate a Brahman consisting of non-differenced intelligence, there would be room neither for the objection raised in I, 3, I ('How can we attribute agency creative and otherwise to Brahman which is without qualities, unlimited, pure, stainless?') nor for the refutation of that objection, 
 
 > 'Because the powers of all things are the objects of (true) knowledge excluding all (bad) reasoning, therefore there belong to Brahman also such essential powers as the power of creating, preserving, and so on, the world; just as heat essentially belongs to fire [fn_16].' 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Thibaut - Notes</summary>
 
 [fn_16]: 94:1 The sense in which this sloka has to be taken is 'As in ordinary life we ascribe to certain things (e.g. gems, mantras) certain special powers because otherwise the effects they produce could not be accounted for; so to Brahman also,' &c.
 </details>
@@ -1364,7 +1364,7 @@ If the śāstra aimed at teaching that the erroneous conception of a manifold wo
 – इति चोद्य-परिहारौ स्याताम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In that case the objection would rather be made in the following form: 'How can Brahman, which is without qualities, be the agent in the creation, preservation, and so on, of the world?' and the answer would be, 'Creation by Brahman is not something real, but something erroneously imagined.'
 </details>
@@ -1385,7 +1385,7 @@ In that case the objection would rather be made in the following form: 'How can 
 इति चोद्यम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The purport of the objection as it stands in the text is as follows: 'We observe that action creative and otherwise belongs to beings endowed with qualities such as goodness, and so on, not perfect, and subject to the influence of karman; how then can agency creative, and so on, be attributed to Brahman which is devoid of qualities, perfect, not under the influence of karman, and incapable of any connexion with action?' 
 </details>
@@ -1404,7 +1404,7 @@ The purport of the objection as it stands in the text is as follows: 'We observe
 इति परिहारः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the reply is, 'There is nothing unreasonable in holding that Brahman as being of the nature described above, and different in kind from all things perceived, should possess manifold powers; just as fire, which is different in kind from water and all other material substances, possesses the quality of heat and other qualities.'
 </details>
@@ -1434,7 +1434,7 @@ And the reply is, 'There is nothing unreasonable in holding that Brahman as bein
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The ślokas also, which begin with the words 
 
@@ -1460,7 +1460,7 @@ the latter viewed apart from Brahman is not real.
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This the text proceeds to confirm, 
 
@@ -1482,7 +1482,7 @@ by which all movable and immovable things are pervaded.'
 अतस् सर्वात्मतया त्वम् एवैकः परमार्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This means – because all things movable and immovable are pervaded by thee, therefore all this world has thee for its Self, and hence 'there is none other than thee' and thus thou being the Self of all art alone real. 
 </details>
@@ -1498,7 +1498,7 @@ This means – because all things movable and immovable are pervaded by thee, th
 "तवैष महिमा, या सर्व-व्याप्तिर्" इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such being the doctrine intended to be set forth, the text rightly says, 'this all-pervasiveness of thine is thy greatness'; 
 </details>
@@ -1516,7 +1516,7 @@ Such being the doctrine intended to be set forth, the text rightly says, 'this a
 अन्यथा तवैषा भ्रान्तिर् इति वक्तव्यम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 otherwise it would have to say, 'it is thy error.' 
 </details>
@@ -1533,7 +1533,7 @@ otherwise it would have to say, 'it is thy error.'
 लीलया महीम् उद्धरतो भगवतो महा-वराहस्य स्तुति-प्रकरण-विरोधश् च॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Were this latter view intended, words such as 'Lord of the world,' 'thou,' &c., could not, moreover, be taken in their direct sense, and there would arise a contradiction with the subject-matter of the entire chapter, viz. the praise of the Holy one who in the form of a mighty boar had uplifted in play the entire earth.--
 </details>
@@ -1555,7 +1555,7 @@ Were this latter view intended, words such as 'Lord of the world,' 'thou,' &c., 
 "यद् एतद् दृश्यते" इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Because this entire world is thy form in so far as it is pervaded as its Self by thee whose true nature is knowledge; therefore those who do not possess that devotion which enables men to view thee as the Self of all, erroneously view this world as consisting only of gods, men, and other beings; this is the purport of the next śloka, 'this which is seen.'--
 </details>
@@ -1575,7 +1575,7 @@ Because this entire world is thy form in so far as it is pervaded as its Self by
 इत्य् आह "ज्ञान-स्वरूपम् अखिलम्" इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And it is an error not only to view the world which has its real Self in thee as consisting of gods, men, and so on, but also to consider the Selfs whose true nature is knowledge as being of the nature of material beings such as gods, men, and the like; this is the meaning of the next śloka, 'this world whose true nature is knowledge.'--
 </details>
@@ -1595,7 +1595,7 @@ And it is an error not only to view the world which has its real Self in thee as
 छरीरातिरिक्त-ज्ञान-स्वरूपात्मकं त्वच्-छरीरं च पश्यन्तीत्याह "ये तु ज्ञान-विदः" इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Those wise men, on the other hand, who have an insight into the essentially intelligent Self, and whose minds are cleared by devotion – the means of apprehending the Holy one as the universal Self--,  
 they view this entire world with all its manifold bodies –  
@@ -1617,7 +1617,7 @@ this is the meaning of the following śloka: 'But those who possess knowledge,' 
 अन्यथा श्लोकानां पौनरुक्त्यम्, पदानां लक्षणा, अर्थ-विरोधः, प्रकरण-विरोधः, शास्त्र-तात्पर्य-विरोधश् च॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the different ślokas were not interpreted in this way, they would be mere unmeaning reiterations; their constitutive words could not be taken in their primary sense; and we should come into conflict with the sense of the passages, the subject-matter of the chapter, and the purport of the entire śāstra.
 </details>
@@ -1643,7 +1643,7 @@ If the different ślokas were not interpreted in this way, they would be mere un
 अ-तथ्यम् इत्य् उच्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The passage, further, 'Of that Self although it exists in one's own and in other bodies, the knowledge is of one kind' (Vi. Pu. II, 14, 31 ff.), refers to that view of duality according to which the different Selfs – although equal in so far as they are all of the essence of knowledge – are constituted into separate beings, gods, men, &c., by their connexion with different portions of matter all of which are modifications of primary matter, and declares that view to be false. 
 </details>
@@ -1659,7 +1659,7 @@ The passage, further, 'Of that Self although it exists in one's own and in other
 पिण्ड-गतम् आत्म-गतम् अपि द्वैतं न प्रतिषिध्यते +++("स्व-पर-देहेष्व्" इति प्रयुक्तत्वात्)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But this does not imply a denial of the duality which holds good between matter on the one hand and Self on the other: 
 </details>
@@ -1678,7 +1678,7 @@ But this does not imply a denial of the duality which holds good between matter 
 इत्य् अर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 what the passage means is that the Self which dwells in the different material bodies of gods, men, and so on, is of one and the same kind. 
 </details>
@@ -1702,7 +1702,7 @@ what the passage means is that the Self which dwells in the different material b
 इत्य्-आदिषु । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 So the Holy one himself has said, 'In the dog and the low man eating dog's flesh the wise see the same'; 'Brahman, without any imperfection, is the same' (Bha. Gī. V, 18, 19). 
 </details>
@@ -1723,7 +1723,7 @@ So the Holy one himself has said, 'In the dog and the low man eating dog's flesh
 +++(पिण्ड-गतम् आत्म-गतम् अपि द्वैतं न प्रतिषिध्यते)+++॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And, moreover, the clause 'Of the Self although existing in one's own and in other bodies' directly declares that a thing different from the body is distributed among one's own and other bodies.
 </details>
@@ -1743,7 +1743,7 @@ And, moreover, the clause 'Of the Self although existing in one's own and in oth
 इत्य् एकस्मिन्न् अर्थे पर-शब्दान्य-शब्दयोः प्रयोगायोगात्। +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor does the passage 'If there is some other (para) different (anya) from me,' &c. (Vi. Pu. II, 13, 86) intimate the oneness of the Self; for in that case the two words 'para' and 'anya' would express one meaning only (viz. 'other' in the sense of 'distinct from'). 
 </details>
@@ -1761,7 +1761,7 @@ Nor does the passage 'If there is some other (para) different (anya) from me,' &
 अन्य-शब्दस् तस्यापि ज्ञानैकाकारत्वाद् अन्याकारत्व-प्रतिषेधार्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'para' there denotes a Self distinct from that of one's own Self, and the word 'anya' is introduced to negative a character different from that of pure intelligence: 
 </details>
@@ -1788,7 +1788,7 @@ The word 'para' there denotes a Self distinct from that of one's own Self, and t
 इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the sense of the passage thus is 'If there is some Self distinct from mine, and of a character different from mine which is pure knowledge, then it can be said that I am of such a character and he of a different character'; but this is not the case, because all Selfs are equal in as far as their nature consists of pure knowledge.--
 </details>
@@ -1806,7 +1806,7 @@ the sense of the passage thus is 'If there is some Self distinct from mine, and 
 अपि तु देवादि-पिण्ड-प्रवेश-कृतम् इत्य् उपदिश्यते; नात्मैक्यम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Also the śloka beginning 'Owing to the difference of the holes of the flute' (Vi. Pu. II, 14, 32) only declares that the inequality of the different Selfs is owing not to their essential nature, but to their dwelling in different material bodies; and does not teach the oneness of all Selfs. 
 </details>
@@ -1824,7 +1824,7 @@ Also the śloka beginning 'Owing to the difference of the holes of the flute' (V
 अपि त्व् आकार-साम्यम् एव। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The different portions of air, again, passing through the different holes of the flute – to which the many Selfs are compared – are not said to be one but only to be equal in character; 
 </details>
@@ -1841,7 +1841,7 @@ The different portions of air, again, passing through the different holes of the
 रन्ध्र-भेद-निष्क्रमण-कृतो हि षड्-जादि-सञ्ज्ञा-भेदः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 they are one in character in so far as all of them are of the nature of air, while the different names of the successive notes of the musical scale are applied to them because they pass out by the different holes of the instrument. 
 </details>
@@ -1858,7 +1858,7 @@ they are one in character in so far as all of them are of the nature of air, whi
 एवम् आत्मनां देवादि-सञ्ज्ञा-भेदः।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For an analogous reason the several Selfs are denominated by different names, viz. gods and so on.  
 </details>
@@ -1878,7 +1878,7 @@ For an analogous reason the several Selfs are denominated by different names, vi
 स्वरूप-भेदो ऽवर्जनीयः॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Those material things also which are parts of the substance fire, or water, or earth, are one in so far only as they consist of one kind of substance; but are not absolutely one; those different portions of air, therefore, which constitute the notes of the scale are likewise not absolutely one.
 </details>
@@ -1914,7 +1914,7 @@ Those material things also which are parts of the substance fire, or water, or e
 इत्य् आह। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Where the Purāṇa further says 'He (or "that") I am and thou art He (or "that"); all this universe that has Self for its true nature is He (or "that"); abandon the error of distinction' (Vi. Pu. II, 16, 23); the word 'that' refers to the intelligent character mentioned previously which is common to all Selfs, and the co-ordination stated in the two clauses therefore intimates that intelligence is the character of the beings denoted 'I' and 'Thou'; 'abandon therefore,' the text goes on to say, '+++(drop)+++ the illusion that the difference of outward form, divine and so on, causes a corresponding difference in the Selfs.' 
 </details>
@@ -1934,7 +1934,7 @@ Where the Purāṇa further says 'He (or "that") I am and thou art He (or "that"
 इति भेद-निर्देशो न घटते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If this explanation were not accepted (but absolute non-difference insisted upon) there would be no room for the references to difference which the passages quoted manifestly contain.
 </details>
@@ -1969,7 +1969,7 @@ If this explanation were not accepted (but absolute non-difference insisted upon
 इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Accordingly the text goes on to say that the king acted on the instruction he had received, 'he abandoned the view of difference, having recognised the Real.'
 </details>
@@ -1986,7 +1986,7 @@ Accordingly the text goes on to say that the king acted on the instruction he ha
 देहात्म-विवेक-विषयत्वाद् उपदेशस्य। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But on what ground do we arrive at this decision (viz. that the passage under discussion is not meant to teach absolute non-duality)?--On the ground, we reply, that the proper topic of the whole section is to teach the distinction of the Self and the body 
 </details>
@@ -2008,7 +2008,7 @@ Accordingly the text goes on to say that the king acted on the instruction he ha
 इति प्रक्रमात्॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 – for this is evident from what is said in an early part of the section, 'as the body of man, characterised by hands, feet, and the like,' &c. (Vi. Pu. II, 13, 85).--
 </details>
@@ -2032,7 +2032,7 @@ Accordingly the text goes on to say that the king acted on the instruction he ha
 नापि जीव-परयोः +++(ऐक्यस्य बोधकम्)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'When that knowledge which gives rise to distinction' &c. (Vi. Pu. VI, 7, 94) teaches neither the essential unity of all Selfs nor the oneness of the individual Self and the highest Self. 
 </details>
@@ -2049,7 +2049,7 @@ Accordingly the text goes on to say that the king acted on the instruction he ha
 आत्मस्वरूपैक्यम् उक्त-रीत्या निषिद्धम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For analogous reasons the śloka (essential unity of all Selfs doesn't hold).
 </details>
@@ -2068,7 +2068,7 @@ For analogous reasons the śloka (essential unity of all Selfs doesn't hold).
 न सम्भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that the embodied soul and the highest Self should be essentially one, is no more possible than that the body and the Self should be one.
 </details>
@@ -2099,7 +2099,7 @@ And that the embodied soul and the highest Self should be essentially one, is no
 इत्य्-आद्याः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In agreement herewith Scripture says, 'Two birds, inseparable friends, cling to the same tree. One of them eats the sweet fruit, the other looks on without eating' (Mu. Up. III, 1, 1). 'There are two drinking their reward in the world of their own works, entered into the cave, dwelling on the highest summit. Those who know Brahman call them shade and light,' &c. (Ka. Up. I, 3, 1).
 </details>
@@ -2131,7 +2131,7 @@ In agreement herewith Scripture says, 'Two birds, inseparable friends, cling to 
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And in this śāstra also (i.e. the Vishṇu Purāṇa) there are passages of analogous import; cp. the stanzas quoted above, 'He transcends the causal matter, all effects, all imperfections such as the guṇas' &c. 
 </details>
@@ -2166,7 +2166,7 @@ And in this śāstra also (i.e. the Vishṇu Purāṇa) there are passages of an
 इत्य्-आदिभिर् उभयोर् अन्योन्य-प्रत्यनीकाकारेण स्वरूप-निर्णयात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtras also maintain the same doctrine, cp. I, 1, 17; I, 2, 21; II, 1, 22; and others. They therein follow Scripture, which in several places refers to the highest and the individual soul as standing over against each other, cp. e.g. 'He who dwells in the Self and within the Self, whom the Self does not know, whose body the Self is, who rules the Self from within' (Br̥. Up. III, 7, 22); 'Embraced by the intelligent Self (Br̥. Up. IV, 3, 21); 'Mounted by the intelligent Self (IV, 3, 35).
 </details>
@@ -2183,7 +2183,7 @@ The Sūtras also maintain the same doctrine, cp. I, 1, 17; I, 2, 21; II, 1, 22; 
 नापि साधनानुष्ठानेन निर्मुक्ताविद्यस्य  
 परेण स्वरूपैक्य-सम्भवः; अ-विद्याश्रयत्व-योग्यस्य तद्-अनर्हात्वासम्भवात्। 
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can the individual Self become one with the highest Self by freeing itself from Nescience, with the help of the means of final Release; for that which admits of being the abode of Nescience can never become quite incapable of it. 
 </details>
@@ -2207,7 +2207,7 @@ Nor can the individual Self become one with the highest Self by freeing itself f
 इति॥ (वि.पु.२.१४.२७)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 So the Purāṇa says, 'It is false to maintain that the individual Self and the highest Self enter into real union; for one substance cannot pass over into the nature of another substance.'
 </details>
@@ -2235,7 +2235,7 @@ So the Purāṇa says, 'It is false to maintain that the individual Self and the
 इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Accordingly the Bhagavad Gītā declares that the released soul attains only the same attributes as the highest Self. 'Abiding by this knowledge, they, attaining to an equality of attributes with me, do neither come forth at the time of creation, nor are troubled at the time of general destruction' (XIV, 2). 
 </details>
@@ -2264,7 +2264,7 @@ Accordingly the Bhagavad Gītā declares that the released soul attains only the
 न ह्य् आकर्षक-स्वरूपापत्तिर् आ-कृष्यमाणस्य।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Similarly our Purāṇa says, 'That Brahman leads him who meditates on it, and who is capable of change, towards its own being (ātmabhāva), in the same way as the magnet attracts the iron' (Vi. Pu. VI, 7, 30). Here the phrase 'leads him towards his own being' means 'imparts to him a nature like his own' (not 'completely identifies him with itself'); for the attracted body does not become essentially one with the body attracting.
 </details>
@@ -2292,7 +2292,7 @@ Similarly our Purāṇa says, 'That Brahman leads him who meditates on it, and w
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same view will be set forth by the Sūtrakāra in IV, 4, 17; 2l, and I, 3, 2. 
 </details>
@@ -2313,7 +2313,7 @@ The same view will be set forth by the Sūtrakāra in IV, 4, 17; 2l, and I, 3, 2
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vr̥tti also says (with reference to Sū. IV, 4, 17) 
 
@@ -2338,7 +2338,7 @@ The Vr̥tti also says (with reference to Sū. IV, 4, 17)
 इत्य् आह।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the author of the Dramiḍabhāshya says, 
 
@@ -2388,7 +2388,7 @@ and the author of the Dramiḍabhāshya says,
 इत्य्-आद्याः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The following scriptural texts establish the same view, 'Those who depart from hence, after having known the Self and those true desires, for them there is freedom in all the worlds' (Cḥ. Up. VIII, 1, 6); 'He who knows Brahman reaches the Highest' (Taitt. Up. II, 1); 'He obtains all desires together with the intelligent Brahman' (Taitt. Up. II, 1, 1); 'Having reached the Self which consists of bliss, he wanders about in these worlds having as much food and assuming as many forms as he likes' (Taitt. Up. III, 10, 5); 'There he moves about' (Cḥ. Up. VIII, 12, 3); 'For he is flavour; for only after having perceived a flavour can any one perceive pleasure' (Taitt. Up. II, 7); 'As the flowing rivers go to their setting in the sea, losing name and form; thus he who knows, freed from name and form, goes to the divine Person who is higher than the high' (Mu. Up. III, 2, 8); 'He who knows, shaking off good and evil, reaches the highest oneness, free from stain' (Mu. Up. III, 1, 3).
 </details>
@@ -2406,7 +2406,7 @@ The following scriptural texts establish the same view, 'Those who depart from h
 फलं चैक-रूपम् एव। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The objects of meditation in all the vidyās which refer to the highest Brahman, are Brahman viewed as having qualities, and the fruit of all those meditations. 
 </details>
@@ -2428,7 +2428,7 @@ The objects of meditation in all the vidyās which refer to the highest Brahman,
 इत्य् आदिषूक्तम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this reason the author of the Sūtras declares that there is option among the different vidyās – cp. Ve. Sū. III, 3, 11; III, 3, 59. 
 </details>
@@ -2449,7 +2449,7 @@ For this reason the author of the Sūtras declares that there is option among th
 इति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way the Vākyakāra teaches that the qualified Brahman only is the object of meditation, and that there is option of vidyās; where he says '(Brahman) connected (with qualities), since the meditation refers to its qualities.' 
 </details>
@@ -2470,7 +2470,7 @@ In the same way the Vākyakāra teaches that the qualified Brahman only is the o
 इत्य्-आदिना।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same view is expressed by the Bhāshyakāra in the passage beginning 'Although he who bases himself on the knowledge of Being.'--
 </details>
@@ -2502,7 +2502,7 @@ The same view is expressed by the Bhāshyakāra in the passage beginning 'Althou
 +++(अकुण्ठित-)+++ज्ञानैकाकारतया ब्रह्म-+++(सारूप्यम्=)+++प्रकारतोच्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Texts such as 'He knows Brahman, he becomes Brahman' (Mu. Up. III, 2, 9) have the same purport, for they must be taken in connexion with the other texts (referring to the fate of him who knows) such as 'Freed from name and form he goes to the divine Person who is higher than the high'; 'Free from stain he reaches the highest oneness' (Mu. Up. III, 2, 8; III, 1,3); 'Having approached the highest light he manifests himself in his own shape' (Kh. Up. VIII, 3, 4). 
 
@@ -2543,7 +2543,7 @@ Of him who has freed himself from his ordinary name and form, and all the distin
 प्रापणीय इत्य् अभिधाय, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Our Purāṇa also propounds the same view. The śloka (VI, 7, 91), 'Knowledge is the means to obtain what is to be obtained, viz. the highest Brahman: the Self is to be obtained, freed from all kinds of imagination,' states that that Self which through meditation on Brahman, is freed from all imagination so as to be like Brahman, is the object to be attained. (The three forms of imagination to be got rid of are so-called karma-bhāvanā, brahma-bhāvanā and a combination of the two. See Vi. Pu. VI, 7.) 
 </details>
@@ -2568,7 +2568,7 @@ Our Purāṇa also propounds the same view. The śloka (VI, 7, 91), 'Knowledge i
 "यावत्-सिद्धि अनुष्ठेयम्" इत्य् उक्त्वा 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text then goes on, 'The embodied Self is the user of the instrument, knowledge is its instrument; having accomplished Release – whereby his object is attained – he may leave off.' This means that the Devotee is to practise meditation on the highest Brahman until it has accomplished its end, viz. the attainment of the Self free from all imagination.
 </details>
@@ -2589,7 +2589,7 @@ The text then goes on, 'The embodied Self is the user of the instrument, knowled
 इति मुक्तस्य स्वरूपम् आह।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --The text continues, 'Having attained the being of its being, then he is non-different from the highest Self; his difference is founded on Nescience only.' This śloka describes the state of the released soul.
 </details>
@@ -2608,7 +2608,7 @@ The text then goes on, 'The embodied Self is the user of the instrument, knowled
 पूर्वोक्तार्थ-विरोधाच् च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Its being' is the being, viz. the character or nature, of Brahman; but this does not mean absolute oneness of nature; because in this latter case the second 'being' would be out of place and the śloka would contradict what had been said before. 
 </details>
@@ -2637,7 +2637,7 @@ The text then goes on, 'The embodied Self is the user of the instrument, knowled
 ज्ञानैकाकारतया परमात्मनैक-प्रकारस्यास्य । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The meaning is: when the soul has attained the nature of Brahman, i.e. when it has freed itself from all false imagination, then it is non-different from the highest Self.   
 This non-difference is due to the soul, as well as the highest Self, having the essential nature of uniform intelligence. 
@@ -2657,7 +2657,7 @@ This non-difference is due to the soul, as well as the highest Self, having the 
 न स्वरूप-कृतः 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The difference of the soul –  
 presenting itself as the soul of a god, a man, &c.--  
@@ -2683,7 +2683,7 @@ but rests on the basis of Nescience in the form of work:
 इत्य् **अभेदी** भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 when through meditation on Brahman this basis is destroyed, the difference due to it comes to an end, and the soul no longer differs from the highest Self. 
 </details>
@@ -2707,7 +2707,7 @@ when through meditation on Brahman this basis is destroyed, the difference due t
 इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 So another text says, 'The difference of things of one nature is due to the investing agency of outward works; when the difference of gods, men, &c., is destroyed, it has no longer any investing power' (Vi. Pu. II, 14, 33).--
 </details>
@@ -2730,7 +2730,7 @@ So another text says, 'The difference of things of one nature is due to the inve
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text then adds a further explanation, 'when the knowledge which gives rise to manifold difference is completely destroyed, who then will produce difference that has no real existence?'
 </details>
@@ -2752,7 +2752,7 @@ The text then adds a further explanation, 'when the knowledge which gives rise t
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The manifold difference is the distinction of gods, men, animals, and inanimate things: compare the saying of Śaunaka:'this fourfold distinction is founded on false knowledge.' 
 </details>
@@ -2771,7 +2771,7 @@ The manifold difference is the distinction of gods, men, animals, and inanimate 
 कः करिष्यतीत्य् अर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Self has knowledge for its essential nature; when Nescience called work – which is the cause of the manifold distinctions of gods, men, &c.--has been completely destroyed through meditation on the highest Brahman, who then will bring about the distinction of gods, &c., from the highest Self – a distinction which in the absence of a cause cannot truly exist.
 </details>
@@ -2788,7 +2788,7 @@ The Self has knowledge for its essential nature; when Nescience called work – 
 अविद्या कर्म-सञ्ज्ञाऽन्या इति ह्य् अत्रैवोक्तम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --That Nescience is called karman(work)is stated in the same chapter of the Purāṇa (st. 61--avidyā karmasa_mgñ_a).
 </details>

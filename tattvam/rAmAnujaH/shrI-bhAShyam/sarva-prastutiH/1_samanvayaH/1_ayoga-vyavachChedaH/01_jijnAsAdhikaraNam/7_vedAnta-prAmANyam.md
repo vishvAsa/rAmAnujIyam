@@ -51,7 +51,7 @@ title = "७ वेदान्त-प्रामाण्यम्"
 
 
 ## कार्यं हि वेद-वेद्यम्?
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vedāntin aiming to ascertain the nature of Brahman from Scripture,  
 need not be disconcerted by the Mīmāṁsā-theory of all speech having informing power with regard to actions only.
@@ -69,7 +69,7 @@ need not be disconcerted by the Mīmāṁsā-theory of all speech having informi
 इति कार्य-रूप एव वेदार्थः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here another primā facie view [^fn_26] finally presents itself. The power of words to denote things cannot be ascertained in any way but by observing the speech and actions of experienced people. Now as such speech and action always implies the idea of something to be done (kārya), words are means of knowledge only with reference to things to be done; and hence the matter inculcated by the Veda also is only things to be done.
 
@@ -94,7 +94,7 @@ Here another primā facie view [^fn_26] finally presents itself. The power of wo
 प्रमाण-भावम् अनुभवितुम् अर्हान्ति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From this it follows that the Vedānta-texts cannot claim the position of authoritative means of knowledge with regard to Brahman, which is (not a thing to be done but) an accomplished fact.
 </details>
@@ -126,7 +126,7 @@ From this it follows that the Vedānta-texts cannot claim the position of author
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Against this view it must not be urged that in the case of sentences expressive of accomplished facts – as e.g. that a son is born to somebody – the idea of a particular thing may with certainty be inferred as the cause of certain outward signs – such as e.g. a pleased expression of countenance – which are generally due to the attainment of a desired object; for the possible causes of joy, past, present, and future, are infinite in number, and in the given case other causes of joy, as e.g. the birth having taken place in an auspicious moment, or having been an easy one, &c., may easily be imagined.
 </details>
@@ -152,7 +152,7 @@ Against this view it must not be urged that in the case of sentences expressive 
 > ज्ञात-कार्याभिधायि- पद-समुदायस्य तद्+++(→ज्ञात-पद-समुदाय)+++-अंश-विशेष-निश्चय-रूपत्वात् तस्य+++(→ज्ञात-पद-समुदायस्य)+++ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, can it be maintained that the denotative power of words with regard to accomplished things may be ascertained in the way of our inferring either the meaning of one word from the known meaning of other words, or the meaning of the radical part of a word from the known meaning of a formative element;  
 for the fact is that  
@@ -188,7 +188,7 @@ what the meaning of some particular constituent of that group may be.--
 अत्रापि "निश्चेष्टं निर्विशेषम् अचेतनम् इदं वस्त्व्" इत्य्-आद्य्-अर्थ-बोधेषु बहुषु भय-निवृत्ति-हेतुषु सत्सु विशेष-निश्चयायोगात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, when a person, afraid of what he thinks to be a snake, is observed to dismiss his fear on being told that the thing is not a snake but only a rope, can we determine thereby that what terminates his fear is the idea of the non-existence of a snake. For there are many other ideas which may account for the cessation of his fear – he may think, e.g., 'this is a thing incapable of moving, devoid of poison, without consciousness'--the particular idea present to his mind we are therefore not able to determine.--
 </details>
@@ -215,7 +215,7 @@ Nor, again, when a person, afraid of what he thinks to be a snake, is observed t
 नान्यान्वित-स्वार्थ-मात्रे पद-शक्ति-निश्चयः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The truth is that from the fact of all activity being invariably dependent on the idea of something to be done, we learn that the meaning which words convey is something prompting activity. All words thus denoting something to be done, the several words of a sentence express only some particular action to be performed, and hence it is not possible to determine that they possess the power of denoting their own meaning only, in connexion with the meaning of the other words of the sentence.--
 </details>
@@ -241,7 +241,7 @@ The truth is that from the fact of all activity being invariably dependent on th
 अतीतानागत-वर्तमान- -+इष्टोपाय-बुद्धिषु प्रवृत्त्य्-अनुपलब्धेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (Nor must it be said that what moves to action is not the idea of the thing to be done, but the idea of the means to do it; for) the idea of the means to bring about the desired end causes action only through the idea of the thing to be done, not through itself; as is evident from the fact that the idea of means past, future, and even present (when divorced from the idea of an end to be accomplished), does not prompt to action.
 </details>
@@ -271,7 +271,7 @@ The truth is that from the fact of all activity being invariably dependent on th
 तावन् न प्रवर्तते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As long as a man does not reflect 'the means towards the desired end are not to be accomplished without an effort of mine; it must therefore be accomplished through my activity'; so long he does not begin to act.
 </details>
@@ -307,7 +307,7 @@ As long as a man does not reflect 'the means towards the desired end are not to 
 – इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What causes activity is thus only the idea of things to be done; and as hence words denote such things only, the Veda also can tell us only about things to be done, and is not therefore in a position to give information about the attainment of an infinite and permanent result, such result being constituted by Brahman, which is (not a thing to be done, but) an accomplished entity. The Veda does, on the other hand, actually teach that mere works have a permanent result ('Imperishable is the merit of him who offers the cāturmāsya-sacrifices,' and so on); and hence it follows that to enter on an enquiry into Brahman for the reason that the knowledge of Brahman has an infinite and permanent result, while the result of works is limited and non-permanent, is an altogether unjustified proceeding.
 </details>
@@ -339,7 +339,7 @@ What causes activity is thus only the idea of things to be done; and as hence wo
 प्रामाणिका न बहु मन्वते ॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this we make the following reply.--To set aside the universally known mode of ascertaining the connexion of words and their meanings, and to assert that all words express only one non-worldly meaning (viz. those things to be done which the Veda inculcates), is a proceeding for which men paying due attention to the means of proof can have only a slight regard.
 </details>
@@ -377,7 +377,7 @@ To this we make the following reply.--To set aside the universally known mode of
 इति निश्चिन्वन्ति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A child avowedly learns the connexion of words and meanings in the following way. The father and mother and other people about him point with the finger at the child's mother, father, uncle, &c, as well as at various domestic and wild animals, birds, snakes, and so on, to the end that the child may at the same time pay attention to the terms they use and to the beings denoted thereby, and thus again and again make him understand that such and such words refer to such and such things. The child thus observing in course of time that these words of themselves give rise to certain ideas in his mind, and at the same time observing neither any different connexion of words and things, nor any person arbitrarily establishing such connexion, comes to the conclusion that the application of such and such words to such and such things is based on the denotative power of the words.
 </details>
@@ -406,7 +406,7 @@ A child avowedly learns the connexion of words and meanings in the following way
 पर-प्रत्यायनाय तत्-तद्-अर्थावबोधि वाक्य-जातं प्रयुञ्जते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And being taught later on by his elders that other words also, in addition to those learned first, have their definite meaning, he in the end becomes acquainted with the meanings of all words, and freely forms sentences conveying certain meanings for the purpose of imparting those meanings to other persons.
 </details>
@@ -439,7 +439,7 @@ And being taught later on by his elders that other words also, in addition to th
 इति शब्दं प्रयुङ्क्ते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And there is another way also in which the connexion of words and things can easily be ascertained. Some person orders another, by means of some expressive gesture, to go and inform Devadatta that his father is doing well, and the man ordered goes and tells Devadatta 'Your father is doing well.'
 </details>
@@ -469,7 +469,7 @@ And there is another way also in which the connexion of words and things can eas
 इति कार्यार्थ एव व्युत्पत्तिर् इति निर्बन्धो निर्निबन्धनः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A by-stander who is acquainted with the meaning of various gestures, and thus knows on what errand the messenger is sent, follows him and hears the words employed by him to deliver his message: he therefore readily infers that such and such words have such and such a meaning.--We thus see that the theory of words having a meaning only in relation to things to be done is baseless.
 </details>
@@ -495,7 +495,7 @@ A by-stander who is acquainted with the meaning of various gestures, and thus kn
 तन्-निर्णय-फलो ब्रह्म-विचारः कर्तव्यः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vedānta-texts tell us about Brahman, which is an accomplished entity, and about meditation on Brahman as having an unlimited result, and hence it behoves us to undertake an enquiry into Brahman so as fully to ascertain its nature.
 </details>
@@ -519,7 +519,7 @@ The Vedānta-texts tell us about Brahman, which is an accomplished entity, and a
 ब्रह्म-विचारः कर्तव्य एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We further maintain that even on the supposition of the Veda relating only to things to be done, an enquiry into Brahman must be undertaken.
 </details>
@@ -567,7 +567,7 @@ We further maintain that even on the supposition of the Veda relating only to th
 कार्योपयोगितयैव सिद्धेः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For 'The Self is to be seen, to be heard, to be reflected on, to be meditated on' (Br̥. Up. II, 4, 5); 'He is to be searched out, him we must try to understand' (Cḥ. Up. VIII, 7, 1); 'Let a Brāhmaṇa having known him practise wisdom' (Br̥. Up. IV, 4, 21); 'What is within that small ether, that is to be sought for, that is to be understood' (Cḥ. Up. VIII, 1,1); 'What is in that small ether, that is to be meditated upon' (Mahānār. Up. X, 7)--these and similar texts enjoin a certain action, viz. meditation on Brahman, and when we then read 'He who knows Brahman attains the highest,' we understand that the attainment of Brahman is meant as a reward for him who is qualified for and enters on such meditation. Brahman itself and its attributes are thus established thereby only – that they subserve a certain action, viz. meditation. 
 
@@ -606,7 +606,7 @@ And where a text says that a person threatening a Brāhmaṇa is to be punished 
 भवद्-अभिमत-+++(अपूर्वाख्य-)+++कार्यस्य दुर्निरूपत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We, however, really object to the whole theory of the meaning of words depending on their connexion with 'things to be done,' since this is not even the case in imperative clauses such as 'bring the cow.' For you are quite unable to give a satisfactory definition of your 'thing to be done '(kārya).
 </details>
@@ -629,7 +629,7 @@ We, however, really object to the whole theory of the meaning of words depending
 कृति-भाव-भावि कृत्य्-उद्देश्यं हि भवतः कार्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You understand by 'kārya' that which follows on the existence of action (kr̥ti) and is aimed at by action.
 </details>
@@ -650,7 +650,7 @@ You understand by 'kārya' that which follows on the existence of action (kr̥ti
 कृत्य्-उद्देश्यत्वं च कृति-कर्मत्वम्+++(→कर्म-कारकम्)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now to be aimed at by action is to be the object(karman) of action,
 </details>
@@ -673,7 +673,7 @@ Now to be aimed at by action is to be the object(karman) of action,
 कृति-कर्मत्वञ् च कृत्या प्राप्तुम् इष्टतमत्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and to be the object of action is to be that which it is most desired to obtain by action (according to the grammarian's definition).
 </details>
@@ -694,7 +694,7 @@ and to be the object of action is to be that which it is most desired to obtain 
 इष्टतमं च सुखं वर्तमान-दुःखस्य तन्-निवृत्तिर् वा।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But what one desires most to obtain is pleasure or the cessation of pain.
 </details>
@@ -720,7 +720,7 @@ But what one desires most to obtain is pleasure or the cessation of pain.
 इच्छा-विषयस्य कृत्य्-अधीन-सिद्धित्वम् अन्तरेण कृत्य्-उद्देश्यत्वं नाम किञ्चिद् अप्य् उपलभ्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When a person desirous of some pleasure or cessation of pain is aware that his object is not to be accomplished without effort on his part, he resolves on effort and begins to act: in no case we observe an object of desire to be aimed at by action in any other sense than that of its accomplishment depending on activity.
 </details>
@@ -743,7 +743,7 @@ When a person desirous of some pleasure or cessation of pain is aware that his o
 तत एव प्रवृत्तेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The prompting quality (prerakatva) also, which belongs to objects of desire, is nothing but the attribute of their accomplishment depending on activity; for it is this which moves to action.--
 </details>
@@ -766,7 +766,7 @@ The prompting quality (prerakatva) also, which belongs to objects of desire, is 
 यतस् सुखम् एव पुरुषानुकूलम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be said that 'to be aimed at by action' means to be that which is 'agreeable' (anukūla) to man; for it is pleasure only that is agreeable to man.
 </details>
@@ -790,7 +790,7 @@ Nor can it be said that 'to be aimed at by action' means to be that which is 'ag
 सुख-दुःखयोस् स्वरूप-विवेकः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The cessation of pain, on the other hand, is not what is 'agreeable' to man. The essential distinction between pleasure and pain is that the former is agreeable to man, and the latter disagreeable (pratikūla),
 </details>
@@ -812,7 +812,7 @@ The cessation of pain, on the other hand, is not what is 'agreeable' to man. The
 तन्-निवृत्तिर् इष्टा भवति; नानुकूलतया।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the cessation of pain is desired not because it is agreeable, but because pain is disagreeable:
 </details>
@@ -834,7 +834,7 @@ and the cessation of pain is desired not because it is agreeable, but because pa
 स्वरूपेणावस्थितिर् हि दुःख-निवृत्तिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 absence of pain means that a person is in his normal condition, affected neither with pain nor pleasure.
 </details>
@@ -856,7 +856,7 @@ absence of pain means that a person is in his normal condition, affected neither
 अतस् सुख-व्यतिरिक्तस्य क्रियादेर् अनुकूलत्वं न सम्भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Apart from pleasure, action cannot possibly be agreeable,
 </details>
@@ -878,7 +878,7 @@ Apart from pleasure, action cannot possibly be agreeable,
 दुःखात्मकत्वात् तस्य।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor does it become so by being subservient to pleasure; for its essential nature is pain.
 </details>
@@ -900,7 +900,7 @@ nor does it become so by being subservient to pleasure; for its essential nature
 तद्-उपादानेच्छा-मात्रम् एव भवति +++(न कृत्य्-उद्देश्यत्वम्)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Its being helpful to pleasure merely causes the resolve of undertaking it.--
 </details>
@@ -923,7 +923,7 @@ Its being helpful to pleasure merely causes the resolve of undertaking it.--
 भवत्-पक्षे शेषित्वस्यानिरूपणात्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, can we define that which is aimed at by action as that to which action is auxiliary or supplementary (śesha), while itself it holds the position of something principal to be subserved by other things (śeshin); for of the śesha and śeshin also no proper definition can be given.
 </details>
@@ -949,7 +949,7 @@ Nor, again, can we define that which is aimed at by action as that to which acti
 तां +++(→कृतिं)+++ प्रति तत्-साध्यस्य शेषित्वाभावात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It cannot be said that a śesha is that which is invariably accompanied by an activity proceeding with a view to something else, and that the correlate of such a śesha is the śeshin; for on this definition the action is not a śesha, and hence that which is to be effected by the action cannot be the correlative śeshin.
 </details>
@@ -973,7 +973,7 @@ It cannot be said that a śesha is that which is invariably accompanied by an ac
 प्रधानस्यापि भृत्योद्देश-प्रवृत्त्य्-अर्हत्व-दर्शनाच् च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And moreover a śeshin may not be defined as what is correlative to an action proceeding with a view to – i. e. aiming at – something else; for it is just this 'being aimed at' of which we require a definition, and moreover we observe that also the śeshin (or 'pradhāna') is capable of action proceeding with a view to the śesha, as when e.g. a master does something for – let us say, keeps or feeds – his servant.
 </details>
@@ -999,7 +999,7 @@ And moreover a śeshin may not be defined as what is correlative to an action pr
 स्वोद्देशेनैव प्रवर्तते।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This last criticism you must not attempt to ward off by maintaining that the master in keeping his servant acts with a view to himself (to his own advantage); for the servant in serving the master likewise acts with a view to himself.--
 </details>
@@ -1024,7 +1024,7 @@ This last criticism you must not attempt to ward off by maintaining that the mas
 इत्य् अप्य् असङ्गतम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And as, further, we have no adequate definition of 'kārya,' it would be inappropriate to define śesha as that which is correlative to kārya, and śeshin as that which is correlative to śesha.--
 </details>
@@ -1113,7 +1113,7 @@ And as, further, we have no adequate definition of 'kārya,' it would be inappro
 नापि +++(इच्छाम् अन्तरा)+++ कृति-प्रयोजनत्वं कृत्य्-उद्देश्यत्वम्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, finally, may we define 'that which is aimed at by action' as that which is the final end (prayojana) of action; 
 </details>
@@ -1135,7 +1135,7 @@ Nor, finally, may we define 'that which is aimed at by action' as that which is 
 स चेच्छा-विषयः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for by the final end of an action we could only understand the end for which the agent undertakes the action, and this end is no other than the desired object.  
 </details>
@@ -1158,7 +1158,7 @@ for by the final end of an action we could only understand the end for which the
 कृति-साध्यता-- कृति-प्रधानत्व+++(=शेषित्व)+++-रूपं +++(अपूर्वादि-)+++कार्यं दुर्निरूपम् एव॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As thus 'what is aimed at by action' cannot be defined otherwise than what is desired,
 kārya cannot be defined as what is to be effected by action and stands to action in the relation of principal matter (pradhāna or śeshin).
@@ -1184,7 +1184,7 @@ kārya cannot be defined as what is to be effected by action and stands to actio
 तत्-साधनतयैवेष्टत्वं कृति-साध्यत्वं च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (Let it then be said that the 'niyoga,' i.e. what is commonly called the apūrva – the supersensuous result of an action which later on produces the sensible result – constitutes the prayojana – the final purpose – of the action.--But) the apūrva also can, as it is something different from the direct objects of desire, viz. pleasure and the cessation of pain, be viewed only as a means of bringing about these direct objects, and as something itself to be effected by the action;
 </details>
@@ -1206,7 +1206,7 @@ kārya cannot be defined as what is to be effected by action and stands to actio
 अन्यथा क्रियैव कार्यं स्यात्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it is for this very reason that it is something different from the action, otherwise the action itself would be that which is effected by the action.
 </details>
@@ -1231,7 +1231,7 @@ it is for this very reason that it is something different from the action, other
 स्वर्ग-साधनतोल्लेखेनैव ह्य् अपूर्व-व्युत्पत्तिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The thing to be effected by the action-which is expressed by means of optative and imperative verbal forms such as yajeta, 'let him sacrifice '--is, in accordance with the fact of its being connected with words such as svargakāmaḥ, 'he who is desirous of heaven', understood to be the means of bringing about (the enjoyment of) the heavenly world; and as the (sacrificial) action itself is transitory, there is assumed an altogether 'new' or 'unprecedented' (apūrva) effect of it which (later on) is to bring about the enjoyment of heaven. This so-called 'apūrva' can therefore be understood only with regard to its capability of bringing about the heavenly world.
 </details>
@@ -1260,7 +1260,7 @@ The thing to be effected by the action-which is expressed by means of optative a
 कृति-साध्यता-प्रतीत्य्-अनुपपत्तेश् च ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now it certainly is ludicrous to assert that  
 the apūrva, which is assumed to the end of firmly establishing the independent character of the effect of the action first recognised as such (i.e. independent),  
@@ -1313,7 +1313,7 @@ other than either pleasure or cessation of pain, or the means to bring about the
 अपि च – किम् इदं +++(अपूर्वस्य=)+++नियोगस्य प्रयोजनत्वम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What, moreover, do you understand by the apūrva being a final end (prayojana)?
 </details>
@@ -1335,7 +1335,7 @@ What, moreover, do you understand by the apūrva being a final end (prayojana)?
 किं नियोगस् सुखम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You will perhaps reply, 'its being agreeable like pleasure.'--Is then the apūrva a pleasure?
 </details>
@@ -1356,7 +1356,7 @@ You will perhaps reply, 'its being agreeable like pleasure.'--Is then the apūrv
 सुखम् एव ह्य् अनुकूलम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is pleasure alone which is agreeable!
 </details>
@@ -1380,7 +1380,7 @@ It is pleasure alone which is agreeable!
 किं तत्र प्रमाणम् इति वक्तव्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Well, let us then define the apūrva as a kind of pleasure of a special nature, called by that name!--But what proof, we ask, have you for this?
 </details>
@@ -1404,7 +1404,7 @@ Well, let us then define the apūrva as a kind of pleasure of a special nature, 
 "नियोगानुभव-सुखम् इदम्" इति भवता ऽपि नानुभूयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You will, in the first place, admit yourself that you do not directly experience any pleasure springing from consciousness of your apūrva, which could in any way be compared to the pleasure caused by the consciousness of the objects of the senses.--
 </details>
@@ -1429,7 +1429,7 @@ You will, in the first place, admit yourself that you do not directly experience
 इति चेत्; किं तन् नियोगस्य पुरुषार्थत्व-वाचि शास्त्रम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Well, let us say then that as authoritative doctrine gives us the notion of an apūrva as something beneficial to man, we conclude that it will be enjoyed later on.
 
@@ -1450,7 +1450,7 @@ But, we ask, what is the authoritative doctrine establishing such an apūrva ben
 तेन सुखादि-साधनतयैव कृति-साध्यता-मात्र-प्रतिपादनात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Not, in the first place, ordinary, i.e. non-Vedic doctrine; for such has for its object action only which always is essentially painful.
 </details>
@@ -1473,7 +1473,7 @@ Not, in the first place, ordinary, i.e. non-Vedic doctrine; for such has for its
 तेनापि स्वर्गादि-साधनतयैव कार्यस्य प्रतिपादनात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, in the next place, Vedic texts; for those also enjoin action only as the means to bring about certain results such as the heavenly world.
 </details>
@@ -1492,7 +1492,7 @@ Nor, in the next place, Vedic texts; for those also enjoin action only as the me
 उक्त-रीत्या तेनापि सुखादि-साधन-कार्याभिधानम् अवर्जनीयम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor again the Smr̥ti texts enjoining works of either permanent or occasional obligation; for those texts always convey the notion of an apūrva only on the basis of an antecedent knowledge of the apūrva as intimated by Vedic texts containing terms such as svargakāmaḥ.
 </details>
@@ -1512,7 +1512,7 @@ Nor again the Smr̥ti texts enjoining works of either permanent or occasional ob
 न किञ्चन प्रमाणम् उपलभामहे।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And we, moreover, do not observe that in the case of works having a definite result in this life, there is enjoyment of any special pleasure called apūrva, in addition to those advantages which constitute the special result of the work and are enjoyed here below, as e.g. abundance of food or freedom from sickness. Thus there is not any proof of the apūrva being a pleasure.
 </details>
@@ -1536,7 +1536,7 @@ And we, moreover, do not observe that in the case of works having a definite res
 भवता ऽपि न दृष्ट-चरम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The arthavāda-passages of the Veda also, while glorifying certain pleasurable results of works, as e.g. the heavenly world, do not anywhere exhibit a similar glorification of a pleasure called apūrva.
 </details>
@@ -1556,7 +1556,7 @@ The arthavāda-passages of the Veda also, while glorifying certain pleasurable r
 लिङ्गादेर् वाच्यम् इत्य् अध्यवसीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From all this we conclude that also in injunctory sentences that which is expressed by imperative and similar forms is only the idea that the meaning of the root – as known from grammar – is to be effected by the effort of the agent.
 </details>
@@ -1585,7 +1585,7 @@ From all this we conclude that also in injunctory sentences that which is expres
 इत्यत्र प्रतिपादयिष्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that what constitutes the meaning of roots, viz. the action of sacrificing and the like, possesses the quality of pleasing the highest Person, who is the inner ruler of Agni and other divinities (to whom the sacrifices are ostensibly offered), and that through the highest Person thus pleased the result of the sacrifice is accomplished, we shall show later on, under Sū. III, 2, 37--
 </details>
@@ -1607,7 +1607,7 @@ And that what constitutes the meaning of roots, viz. the action of sacrificing a
 ब्रह्मोपासन-फलानन्त्यं स्थिरत्वं च सिद्धम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is thus finally proved that the Vedānta-texts give information about an accomplished entity, viz. Brahman, and that the fruit of meditation on Brahman is something infinite and permanent.
 </details>
@@ -1636,7 +1636,7 @@ It is thus finally proved that the Vedānta-texts give information about an acco
 इत्य्-आदिभिवद् आपेक्षिकं मन्तव्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Where, on the other hand, Scripture refers to the fruit of mere works, such as the cāturmāsya-sacrifices, as something imperishable, we have to understand this imperishableness in a merely relative sense, for Scripture definitely teaches that the fruit of all works is perishable.
 </details>
@@ -1660,7 +1660,7 @@ Where, on the other hand, Scripture refers to the fruit of mere works, such as t
 इति स्थितम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We thus arrive at the settled conclusion that, since the fruit of mere works is limited and perishable, while that of the cognition of Brahman is infinite and permanent, there is good reason for entering on an enquiry into Brahman – the result of which enquiry will be the accurate determination of Brahman's nature.--
 </details>
@@ -1683,7 +1683,7 @@ We thus arrive at the settled conclusion that, since the fruit of mere works is 
 **इति श्री-शारीरक-मीमांसा-भाष्ये जिज्ञासाधिकरणम्॥१॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here terminates the adhikaraṇa of 'Enquiry.'
 </details>

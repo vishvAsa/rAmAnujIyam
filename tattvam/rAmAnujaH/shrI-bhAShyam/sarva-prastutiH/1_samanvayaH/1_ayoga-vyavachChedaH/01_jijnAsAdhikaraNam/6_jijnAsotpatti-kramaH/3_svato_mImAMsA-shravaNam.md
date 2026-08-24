@@ -10,7 +10,7 @@ title = "३ स्वतो मीमांसा-श्रवणम्"
 अधीत-वेदः पुरषस् स्वयम् एव प्रवर्तते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is further observed that the Veda thus apprehended through reading spontaneously gives rise to the ideas of certain things subserving certain purposes. A person, therefore, who has formed notions of those things immediately, i.e. on the mere apprehension of the text of the Veda through reading, thereupon naturally applies himself to the study of the Mimāṁsa, which consists in a methodical discussion of the sentences constituting the text of the Veda, and has for its result the accurate determination of the nature of those things and their different modes. 
 </details>
@@ -30,7 +30,7 @@ It is further observed that the Veda thus apprehended through reading spontaneou
 तन्-निर्णय-फल-- वेदान्त-वाक्य--विचार-रूप-- शारीरक-मीमांसायाम् अधिकरोति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Through this study the student ascertains the character of the injunctions of work which form part of the Veda, and observes that all work leads only to non-permanent results; and as, on the other hand, he immediately becomes aware that the Upanishad sections – which form part of the Veda which he has apprehended through reading – refer to an infinite and permanent result, viz. immortality, he applies himself to the study of the Sārīraka-Mīmāṁsā, which consists in a systematic discussion of the Vedānta-texts, and has for its result the accurate determination of their sense. 
 </details>
@@ -49,7 +49,7 @@ Through this study the student ascertains the character of the injunctions of wo
 तद् यथा - 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the fruit of mere works is transitory, while the result of the knowledge of Brahman is something permanent, the Vedanta-texts declare in many places--
 </details>
@@ -67,7 +67,7 @@ That the fruit of mere works is transitory, while the result of the knowledge of
 > (छान्दोग्ये.८.१.६) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'And as here the world acquired by work perishes, so there the world acquired by merit perishes' (Cḥ. Up. VIII, 1,6); 
 </details>
@@ -82,7 +82,7 @@ That the fruit of mere works is transitory, while the result of the knowledge of
 > अन्तवद् एवास्य तद् भवति (बृ.५.८.१०) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'That work of his has an end' (Br̥. Up. III, 8, 10); 
 </details>
@@ -100,7 +100,7 @@ That the fruit of mere works is transitory, while the result of the knowledge of
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'By non-permanent works the Permanent **is not obtained**' (Ka. Up. I, 2, 10); 
 </details>
@@ -116,7 +116,7 @@ That the fruit of mere works is transitory, while the result of the knowledge of
 > प्लवा ह्य् एते अ-दृढा यज्ञ-रूपाः (मु.१.२.७) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Frail indeed are those boats, the sacrifices' (Mu. Up. I, 2, 7); 
 </details>
@@ -135,7 +135,7 @@ That the fruit of mere works is transitory, while the result of the knowledge of
 तद्-विज्ञानार्थं स गुरुम् एवाभिगच्छेत् समित्-पाणिश् श्रोत्रियं ब्रह्मनिष्ठम्।+++(5)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Let a Brāhmaṇa, after he has examined all these worlds that are gained by works, acquire freedom from all desires. What is not made cannot be gained by what is made.  
 To understand this, let the pupil, with fuel in his hand, go to a teacher who is learned and dwells entirely in Brahman. 
@@ -155,7 +155,7 @@ To understand this, let the pupil, with fuel in his hand, go to a teacher who is
 तां तत्त्वतो ब्रह्मविद्याम् । (मु.१.२.१२-१३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > To that pupil who has approached him respectfully, whose mind is altogether calm, the wise teacher truly told that knowledge of Brahman through which he knows the imperishable true Person' (Mu. Up. I, 2, 12, l3).  
 ('Told' here means 'he is to tell.')
@@ -172,7 +172,7 @@ To understand this, let the pupil, with fuel in his hand, go to a teacher who is
 > ब्रह्मविदाप्नोति परम् (तै.आनन्द.२.१अनु.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the other hand, 
 
@@ -191,7 +191,7 @@ On the other hand,
 न पश्यो मृत्युं पश्यति (बृ.७.२६.२) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'He who sees this does not see death' (Cḥ. Up. VII, 26, 2); 
 </details>
@@ -207,7 +207,7 @@ On the other hand,
 > स स्वराड् भवति (छां.७.२५.२) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'He becomes a self-ruler' (Cḥ. Up. VII, 25, 2); 
 </details>
@@ -224,7 +224,7 @@ On the other hand,
 नान्यः पन्था अयनाय विद्यते (पु.सू.१७) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Knowing him he becomes immortal here' (Taitt. Ār. III, 12, 7);  
 > 'Having known him he passes over death;  
@@ -247,7 +247,7 @@ there is no other path to go' (Śvet. Up. VI, 15);
 इत्यादीनि॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Having known as separate his Self and the Mover,  
 pleased thereby he goes to immortality'  
@@ -273,7 +273,7 @@ pleased thereby he goes to immortality'
 किमर्था धर्म-विचारापेक्षा? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But – an objection here is raised--
 
@@ -292,7 +292,7 @@ But – an objection here is raised--
 साङ्गाध्ययनादेव कृत्स्नस्य ज्ञातत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --If this reasoning were valid, we reply, tin – person desirous of release need not even apply himself to the study of the Sārīraka Mīmāṁsā, since Brahman is known from the mere reading of the Veda with its auxiliary disciplines.
 </details>
@@ -316,7 +316,7 @@ But – an objection here is raised--
 इति चेत्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > True. Such knowledge arises indeed immediately (without deeper enquiry). But a matter apprehended in this immediate way is not raised above doubt and mistake. Hence a systematic discussion of the Vedānta-texts must he undertaken in order that their sense may be fully ascertained--
 </details>
@@ -334,7 +334,7 @@ But – an objection here is raised--
 इति पश्यतु भवान् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We agree. But you will have to admit that for the very same reason we must undertake a systematic enquiry into religious duty!
 </details>

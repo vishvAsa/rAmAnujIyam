@@ -11,7 +11,7 @@ title = "४ साधन-चतुष्टयेनालम्? लघु-प
 वेदान्त-वाक्यार्थ-विचारोपपत्तेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But – a further objection is urged--
 
@@ -37,7 +37,7 @@ even if he is not acquainted with works.
 इति चेत् –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But in the Vedanta-texts there are enjoined meditations on the Udgītha and the like which;uc matters auxiliary to works; and such meditations are not possible for him who is not acquainted with those works!--
 </details>
@@ -54,7 +54,7 @@ even if he is not acquainted with works.
 अनभिज्ञो भवान् शारीरक-शास्त्र-विज्ञानस्य। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You who raise this objection clearly are ignorant of what kind of knowledge the Śārīraka Mīmāṁsā is concerned with! 
 </details>
@@ -74,7 +74,7 @@ You who raise this objection clearly are ignorant of what kind of knowledge the 
 आत्मैकत्व-विज्ञानं प्रतिपिपादयिषितम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What that śāstra aims at is to destroy completely that wrong knowledge which is the root of all pain, for man, liable to birth, old age, and death, and all the numberless other evils connected with transmigratory existence – evils that spring from the view, due to beginningless Nescience, that there is plurality of existence; and to that end the śāstra endeavours to establish the knowledge of the unity of the Self. 
 </details>
@@ -91,7 +91,7 @@ What that śāstra aims at is to destroy completely that wrong knowledge which i
 अस्य हि भेदावलम्बि कर्म-ज्ञानं क्वोपयुज्यते? प्रत्युत विरुद्धमेव। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now to this knowledge, the knowledge of works – which is based on the assumption of plurality of existence – is not only useless but even opposed. 
 </details>
@@ -109,7 +109,7 @@ Now to this knowledge, the knowledge of works – which is based on the assumpti
 ज्ञान-रूपत्वाविशेषाद् इहैव क्रियते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The consideration of the Udgītha and the like, which is supplementary to works only, finds a place in the Vedānta-texts, only because like them it is of the nature of knowledge; 
 </details>
@@ -124,7 +124,7 @@ The consideration of the Udgītha and the like, which is supplementary to works 
 स तु न साक्षात्-सङ्ग-तः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but it has no direct connexion with the true topic of those texts. 
 </details>
@@ -141,7 +141,7 @@ but it has no direct connexion with the true topic of those texts.
 तद्-अपेक्षितम् एव पूर्व-वृत्तं किम् अपि वक्तव्यम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence some prerequisite must be indicated which has reference to the principal topic of the śāstra.
 </details>
@@ -157,7 +157,7 @@ Hence some prerequisite must be indicated which has reference to the principal t
 > बाढम्; तद्-अपेक्षितं च कर्मविज्ञानमेव, कर्मसमुच्चितात् ज्ञानाद् अपवर्गश्रुतेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > --Quite so; and this prerequisite is just the knowledge of works;  
 for scripture declares that final release results from knowledge with works added. 
@@ -180,7 +180,7 @@ for scripture declares that final release results from knowledge with works adde
 > इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > The Sūtra-writer himself says further on  
 > 
@@ -203,7 +203,7 @@ on account of the scriptural statement of sacrifices and the like' (Ve. Sū. III
 अतस् तद् एव पूर्ववृत्तम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > And if the required works were not known,  
 one could not determine which works have to be combined with knowledge and which not.  
@@ -226,7 +226,7 @@ Hence the knowledge of works is just the necessary prerequisite.
 अविद्या-निवृत्तिर् एव हि मोक्षः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Not so, we reply. That which puts an end to Nescience is exclusively the knowledge of Brahman, which is pure intelligence and antagonistic to all plurality. For final release consists just in the cessation of Nescience; 
 </details>
@@ -245,7 +245,7 @@ Hence the knowledge of works is just the necessary prerequisite.
 कथम् इव साधनं भवेत्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 how then can works – to which there attach endless differences connected with caste, āśrama, object to be accomplished, means and mode of accomplishment, &c.--ever supply a means for the cessation of ignorance, which is essentially the cessation of the view that difference exists? 
 </details>
@@ -263,7 +263,7 @@ how then can works – to which there attach endless differences connected with 
 ज्ञानस्यैव मोक्ष-साधनत्वं च दर्शयन्ति – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That works, the results of which are transitory, are contrary to final release, and that such release can be effected through knowledge only, scripture declares in many places; compare all the passages quoted above (p. 7).
 </details>
@@ -340,7 +340,7 @@ That works, the results of which are transitory, are contrary to final release, 
 "यज्ञादि-कर्मापेक्षा विद्ये"ति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As to the assertion that knowledge requires sacrifices and other works,  
 we remark that--
@@ -360,7 +360,7 @@ we remark that--
 "विविदिषन्ति" इति श्रवणात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 as follows from the essential contrariety of knowledge and works,  
 and as further appears from an accurate consideration of the words of scripture--  
@@ -388,7 +388,7 @@ According to this passage, the desire only of knowledge springs up through works
 ज्ञानोत्पत्तौ शमादीनाम् एवान्तरङ्गोपायतां श्रुतिर् एवाऽह – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while another text teaches that calmness, self-restraint, and so on, are the direct means for the origination of knowledge itself. 
 </details>
@@ -409,7 +409,7 @@ while another text teaches that calmness, self-restraint, and so on, are the dir
 इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Having become tranquil, calm, subdued, satisfied, patient, and collected,  
 he is to see the Self within the Self (Br̥. Up. IV, 4,23).
@@ -430,7 +430,7 @@ he is to see the Self within the Self (Br̥. Up. IV, 4,23).
 विविदिषोत्पत्तौ सत्यां 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The process thus is as follows. After the mind of a man has been cleaned of all impurities through works performed in many preceding states of existence, without a view to special forms of reward, there arises in him the desire of knowledge, 
 </details>
@@ -448,7 +448,7 @@ The process thus is as follows. After the mind of a man has been cleaned of all 
 एकम् एवाद्वितीयम् (छा.उ.६.२.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Being only, this was in the beginning, one only without a second' (Cḥ. Up. VI, I, 2); 
 </details>
@@ -464,7 +464,7 @@ The process thus is as follows. After the mind of a man has been cleaned of all 
 > सत्यं ज्ञानम् अनन्तं ब्रह्म (तै.आन.२.१.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Truth, Knowledge, the Infinite, is Brahman' (Taitt. Up. II, 1); 
 </details>
@@ -479,7 +479,7 @@ The process thus is as follows. After the mind of a man has been cleaned of all 
 > ??
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Without parts, without actions, calm, without fault, without taint' (Śvet. Up. VI, 19); 
 </details>
@@ -495,7 +495,7 @@ The process thus is as follows. After the mind of a man has been cleaned of all 
 > अयम् आत्मा ब्रह्म (बृ.६.४.५) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'This Self is Brahman' (Br̥. Up. II, 5, 19); 
 </details>
@@ -510,7 +510,7 @@ The process thus is as follows. After the mind of a man has been cleaned of all 
 
 > तत् त्वम् असि (छां.६.८.७) 
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Thou art that' (_Kh._ Up. VI, 9, 7),  
 </details>
@@ -526,7 +526,7 @@ The process thus is as follows. After the mind of a man has been cleaned of all 
 इत्य्-आदि-वाक्य-जन्य-ज्ञानाद् अविद्या निवर्तते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and thereupon--  
 through knowledge itself originated by certain scriptural texts (above)--  
@@ -546,7 +546,7 @@ Nescience comes to an end.
 वाक्यार्थ-ज्ञानोपयोगीनि च श्रवण-मनन-निदिध्यासनानि। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now, 'Hearing,' 'reflection,' and 'meditation,' are helpful towards cognising the sense of these Vedic texts. 
 </details>
@@ -566,7 +566,7 @@ Now, 'Hearing,' 'reflection,' and 'meditation,' are helpful towards cognising th
 न्याय-युक्तार्थ-ग्रहणम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Hearing' (śravaṇa) means the apprehension of the sense of scripture, together with collateral arguments, from a teacher who possesses the true insight, viz. that the Vedānta-texts establish the doctrine of the unity of the Self. 
 </details>
@@ -585,7 +585,7 @@ Now, 'Hearing,' 'reflection,' and 'meditation,' are helpful towards cognising th
 इति हेतुतः प्रतिष्ठापनं मननम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Reflection' (mananam) means the confirmation within oneself of the sense taught by the teacher, by means of arguments showing it alone to be suitable. 
 </details>
@@ -602,7 +602,7 @@ Now, 'Hearing,' 'reflection,' and 'meditation,' are helpful towards cognising th
 अस्यैवार्थस्यानवरत-भावना निदिध्यासनम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Meditation' (nididhyāsanam) finally means the constant holding of that sense before one's mind, so as to dispel thereby the antagonistic beginningless imagination of plurality. 
 </details>
@@ -623,7 +623,7 @@ Now, 'Hearing,' 'reflection,' and 'meditation,' are helpful towards cognising th
 पूर्ववृत्तं वक्तव्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the case of him who through 'hearing,' 'reflection,' and meditation,' has dis-dispelled the entire imagination of plurality, the knowledge of the sense of Vedānta-texts puts an end to Nescience; and what we therefore require is a statement of the indispensable prerequisites of such 'hearing,' 'reflection,' and so on. 
 </details>
@@ -639,7 +639,7 @@ In the case of him who through 'hearing,' 'reflection,' and meditation,' has dis
 तच् च – नित्यानित्य-वस्तु-विवेकः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now, those are -  
 discrimination of what is permanent and what is non-permanent; 
@@ -656,7 +656,7 @@ discrimination of what is permanent and what is non-permanent;
 शम-दमादि-साधन-सम्पत्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the full possession of calmness of mind, self-restraint and similar means; 
 </details>
@@ -673,7 +673,7 @@ the full possession of calmness of mind, self-restraint and similar means;
 इहामुत्र-फल-भोग-विरागः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the renunciation of all enjoyment of fruits here below as well as in the next world; 
 </details>
@@ -689,7 +689,7 @@ the renunciation of all enjoyment of fruits here below as well as in the next wo
 मुमुक्षुत्वं च  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the desire of final release.
 </details>
@@ -706,7 +706,7 @@ and the desire of final release.
 इत्य् एतत् साधनचतुष्टयम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 - these four prerequisites.  
 </details>
@@ -723,7 +723,7 @@ and the desire of final release.
 इति ज्ञायते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Without these the desire of knowledge cannot arise; and they are therefore known, from the very nature of the matter, to be necessary prerequisites. 
 </details>
@@ -743,7 +743,7 @@ Without these the desire of knowledge cannot arise; and they are therefore known
 बन्ध-मूलम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To sum up: The root of bondage is the unreal view of plurality which itself has its root in Nescience that conceals the true being of Brahman. 
 </details>
@@ -760,7 +760,7 @@ To sum up: The root of bondage is the unreal view of plurality which itself has 
 बन्धश् चापारमार्थिकः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Bondage itself thus is unreal, 
 </details>
@@ -779,7 +779,7 @@ Bondage itself thus is unreal,
 ज्ञानेनैव निवर्त्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and is on that account cut short, together with its root, by mere knowledge. 
 </details>
@@ -796,7 +796,7 @@ and is on that account cut short, together with its root, by mere knowledge.
 "तत् त्वम् अस्य्"-आदि-वाक्य-जन्यम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such knowledge is originated by texts such as 'That art thou'; 
 </details>
@@ -813,7 +813,7 @@ Such knowledge is originated by texts such as 'That art thou';
 कर्मणां नोपयोगः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and work is of no help either towards its nature, or its origination, or its fruit (i.e. release). 
 </details>
@@ -829,7 +829,7 @@ and work is of no help either towards its nature, or its origination, or its fru
 विविदिषायाम् एव तु कर्मणाम् उपयोगः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is on the other hand helpful towards the desire of knowledge, 
 </details>
@@ -848,7 +848,7 @@ It is on the other hand helpful towards the desire of knowledge,
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 which arises owing to an increase of the element of goodness (sattva) in the soul, due to the destruction of the elements of passion (rajas) and darkness (tamas) which are the root of all moral evil. 
 </details>
@@ -866,7 +866,7 @@ which arises owing to an increase of the element of goodness (sattva) in the sou
 "ब्राह्मणा विविदिषन्ति" इत्युक्तमिति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This use is referred to in the text quoted above, 'Brāhmaṇas wish to know him,' &c.  
 </details>
@@ -886,7 +886,7 @@ This use is referred to in the text quoted above, 'Brāhmaṇas wish to know him
 इति वक्तव्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As, therefore, the knowledge of works is of no use towards the knowledge of Brahman, we must acknowledge as the prerequisite of the latter knowledge the four means mentioned above.
 </details>
@@ -903,7 +903,7 @@ As, therefore, the knowledge of works is of no use towards the knowledge of Brah
 **लघुसिद्धान्तः**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 THE SMALL SIDDHĀNTA.
 </details>

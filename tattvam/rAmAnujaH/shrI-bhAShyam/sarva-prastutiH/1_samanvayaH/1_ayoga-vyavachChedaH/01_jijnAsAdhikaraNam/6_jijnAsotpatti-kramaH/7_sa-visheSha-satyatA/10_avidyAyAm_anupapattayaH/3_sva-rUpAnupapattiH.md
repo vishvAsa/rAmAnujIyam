@@ -13,7 +13,7 @@ title = "३ स्व-रूपानुपपत्तिः"
 इत्य् अत्र 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Consider the following point also. Your theory is that 
 
@@ -45,7 +45,7 @@ Consider the following point also. Your theory is that
 इति विवेचनीयम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Is then, we ask, that imperfection residing within consciousness something real or something unreal?--
 </details>
@@ -61,7 +61,7 @@ Is then, we ask, that imperfection residing within consciousness something real 
 न तावत् परमार्थः, +++(त्वयैव)+++ अनभ्युपगमात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The former alternative is excluded,  
 as not being admitted by yourself. 
@@ -88,7 +88,7 @@ as not being admitted by yourself.
 द्रष्टृत्वेन वा, दृश्यत्वेन वा, दृशित्वेन वा ऽभ्युपगमनीयः +++(स्वाश्रय-दोषः)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we accept the latter alternative;  
 for if we did we should have to view that imperfection as being either a knowing subject, or an object of knowledge, or Knowing itself. 
@@ -113,13 +113,13 @@ for if we did we should have to view that imperfection as being either a knowing
 +++(त्वयैव)+++ दृशि-स्वरूप-भेदानभ्युपगमात् +++(←दृशि-द्वयानभ्युपगमात्)+++; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now it cannot be 'Knowing,'  
 as you deny that there is any distinction in the nature of knowing;  
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Thibaut - Note</summary>
 
 [fn_18]: 106:1 If the imperfection inhering in Consciousness is itself of the nature of consciousness, and at the same time unreal, we should have to distinguish two kinds of Consciousness – which is contrary to the fundamental doctrine of the oneness of Consciousness. 
 </details>
@@ -152,14 +152,14 @@ as you deny that there is any distinction in the nature of knowing;
 **अपारमार्थ्यानभ्युपगमाच्** च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and that 'Knowing,' which is the substrate of the imperfection,  
 cannot be held to be unreal,  
 because that would involve the acceptance of the Mādhyamika doctrine, viz. of a general void [fn_18].
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Thibaut - Note</summary>
 
 And if, on the other hand, we should say that the Consciousness in which the imperfection inheres is of the same nature as the latter, i.e. unreal, we are landed in the view of universal unreality.
 </details>
@@ -184,7 +184,7 @@ And if, on the other hand, we should say that the Consciousness in which the imp
 मूल-दोषान्तरापेक्षया ऽनवस्था स्यात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if knowers, objects of knowledge and knowing as determined by those two are fictitious, i.e. unreal,  
 we have to assume another fundamental imperfection, and are thus driven into a _regressuss in infinitum_.
@@ -220,7 +220,7 @@ we have to assume another fundamental imperfection, and are thus driven into a _
 इति चेत्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To avoid this difficulty,  
 it might now be said that 
@@ -252,7 +252,7 @@ it might now be said that
 प्रपञ्च-दर्शनस्यैव तन् मूलं स्यात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But if Brahman itself constitutes the imperfection,  
 then Brahman is the basis of the appearance of a world, 
@@ -275,7 +275,7 @@ then Brahman is the basis of the appearance of a world,
 किं प्रपञ्चतुल्याविद्यान्तर-परिकल्पनेन? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and it is gratuitous to assume an additional avidyā to account for the world. 
 </details>
@@ -298,7 +298,7 @@ and it is gratuitous to assume an additional avidyā to account for the world.
 तस्य नित्यत्वेनानिर्मोक्षश् च स्यात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, as Brahman is eternal,  
 it would follow from this hypothesis that no release could ever take place. 
@@ -318,7 +318,7 @@ it would follow from this hypothesis that no release could ever take place.
 न तावद् भ्रान्तिर् उपपादिता भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Unless, therefore, you admit a real imperfection apart from Brahman, you are unable to account for the great world-error.
 </details>

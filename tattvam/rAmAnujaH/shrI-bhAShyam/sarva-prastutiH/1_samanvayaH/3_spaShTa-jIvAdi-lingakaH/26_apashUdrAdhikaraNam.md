@@ -484,7 +484,7 @@ had not yet quite vanished.
 तन् नेत्य् आह – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtra now refutes that argument, which the Pūrvapakshin derives from the use of the word 'Śūdra' in the Saṁvarga-vidyā.
 </details>
@@ -522,7 +522,7 @@ this is intimated by his (Jānaśruti's) resorting to him (Raikva) on hearing a 
 छुग् अस्य सञ्जातेति हि सूच्यते;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From what the text says about Jānaśruti Pautrāyaṇa having been taunted by a flamingo  
 for his want of knowledge of Brahman,  
@@ -547,7 +547,7 @@ it appears that sorrow (śuc) had taken possession of him;
 न चतुर्थ-वर्णत्वेन।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and it is with a view to this that Raikva addresses him as Śūdra.
 </details>
@@ -565,7 +565,7 @@ and it is with a view to this that Raikva addresses him as Śūdra.
 शोचतीति हि शूद्रः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the word Śūdra, etymologically considered, means one who grieves or sorrows (śocati). 
 </details>
@@ -599,7 +599,7 @@ For the word Śūdra, etymologically considered, means one who grieves or sorrow
 न जातियोगः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The appellation 'śūdra' therefore refers to his sorrow,  
 not to his being a member of the fourth caste.  
@@ -618,7 +618,7 @@ not to his being a member of the fourth caste.
 जानश्रुतिः किल पौत्रायणो बहु-द्रव्य-प्रदो बह्व्-अन्न-प्रदश् च बभूव। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This clearly appears from a consideration of the whole story.  
 Jānaśruti Pautrāyaṇa was a very liberal and pious king. 
@@ -637,7 +637,7 @@ Jānaśruti Pautrāyaṇa was a very liberal and pious king.
 अन्यतर इतरम् उवाच –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Being much pleased with his virtuous life,  
 and wishing to rouse in him the desire of knowing Brahman,  
@@ -664,7 +664,7 @@ when one of them addressed the other,
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'O Bhallāksha.  
 The light of Jānaśruti has spread like the sky;  
@@ -689,7 +689,7 @@ do not go near that it may not burn thee.'
 एवं जानश्रुति-प्रशंसारूपं वाक्यम् उपश्रुत्य परो हंसः प्रत्युवाच –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this praise of Jānaśruti the other flamingo replied, 
 </details>
@@ -709,7 +709,7 @@ To this praise of Jānaśruti the other flamingo replied,
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'How can you speak of him, being what he is,  
 as if he were Raikva "sayuktvān"?'  
@@ -729,7 +729,7 @@ as if he were Raikva "sayuktvān"?'
 एतद् आत्थ;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 i.e. 
 
@@ -750,7 +750,7 @@ as if he were Raikva, who knows Brahman and is endowed with the most eminent qua
 > स ब्रह्मज्ञो रैक्व एव लोके गुणवत्तरः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Raikva, who knows Brahman, alone in this world is truly eminent. 
 </details>
@@ -769,7 +769,7 @@ as if he were Raikva, who knows Brahman and is endowed with the most eminent qua
 इत्य् अर्थः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Janaśruti may be very pious,  
 but as he does not know Brahman.  
@@ -792,7 +792,7 @@ could produce splendour capable of burning me like the splendour of Raikva?'
 एवम् उक्तेन परेण "को ऽसौ रैक्व" इति पृष्टः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The former flamingo thereupon asks who that Raikva is, 
 </details>
@@ -867,7 +867,7 @@ The former flamingo thereupon asks who that Raikva is,
 तद् एवं न्याय-विरोधिनि शूद्रस्याधिकारे लिङ्गं नोपलभ्यत इत्य् उक्तम्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 So far the Sūtras have shown that there is no inferential mark to prove what is contradicted by reasoning, viz. the qualification of the Śūdras. 
 </details>
@@ -885,7 +885,7 @@ So far the Sūtras have shown that there is no inferential mark to prove what is
 इत्य् आह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra declares that the non-qualification of the Śūdra proved by reasoning is confirmed by Scripture and Smr̥ti.
 </details>
@@ -901,7 +901,7 @@ The next Sūtra declares that the non-qualification of the Śūdra proved by rea
 > १०१. संस्कार-परामर्शात् तद्-अभावाभिलापाच् च ॥ १–३–३६ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 36. On account of the reference to ceremonial purifications,  
 and on account of the declaration of their absence.
@@ -921,7 +921,7 @@ and on account of the declaration of their absence.
 ब्रह्म-विद्योपदेशेषूपनयन-संस्कारः परामृश्यते –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In sections the purport of which is to give instruction about Brahman  
 the ceremony of initiation is referred to, 
@@ -938,7 +938,7 @@ the ceremony of initiation is referred to,
 > उप त्वा नेष्ये (छा.४.४.५)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'I will initiate you;' (_Ch._ Up. IV, 4).
 </details>
@@ -955,7 +955,7 @@ the ceremony of initiation is referred to,
 इत्य्-आदिषु। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > he initiated him
 </details>
@@ -974,7 +974,7 @@ the ceremony of initiation is referred to,
 शूद्रस्य चोपनयनादि-संस्काराभावो ऽभिलप्यते –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And at the same time the absence of such ceremonies in the case of Śūdras is stated: 
 </details>
@@ -991,7 +991,7 @@ And at the same time the absence of such ceremonies in the case of Śūdras is s
 न च संस्कारम् अर्हति (मनु.१०.१२.६),
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'In the Śūdra there is not any sin,  
 and he is not fit for any ceremony' (Manu X, 126); 
@@ -1012,7 +1012,7 @@ and he is not fit for any ceremony' (Manu X, 126);
 इत्य्-आदिषु ॥ ३६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 
 
@@ -1036,7 +1036,7 @@ and
 > १०२. तद्+++(→ब्राह्मणत्व)+++-अभाव-निर्धारणे च प्रवृत्तेः ॥ १–३–३७ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 37. And on account of the procedure,  
 on the ascertainment of the non-being of that.
@@ -1069,7 +1069,7 @@ on the ascertainment of the non-being of that.
 न शूद्रस्याधिकारः॥ ३७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That a Śūdra is not qualified for knowledge of Brahman  
 appears from that fact also that as soon as Gautama has convinced himself that Jābāla, who wishes to become his pupil, is not a Śūdra,  
@@ -1092,7 +1092,7 @@ he proceeds to teach him the knowledge of Brahman.
 > १०३ श्रवणाध्ययनार्थ-प्रतिषेधात् ॥ १–३–३८ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 38. And on account of the prohibition of hearing, studying, and performance of (Vedic) matter.
 </details>
@@ -1108,7 +1108,7 @@ he proceeds to teach him the knowledge of Brahman.
 शूद्रस्य वेद-श्रवण--तद्-अध्ययन--तद्-अर्थानुष्ठानानि प्रतिषिध्यन्ते
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Śūdra is specially forbidden to hear and study the Veda and to perform the things enjoined in it. 
 </details>
@@ -1124,7 +1124,7 @@ The Śūdra is specially forbidden to hear and study the Veda and to perform the
 तस्माच् छूद्र-समीपे नाध्येतव्यम्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'For a Śūdra is like a cemetery,  
 therefore the Veda must not be read in the vicinity of a Śūdra;' 
@@ -1144,7 +1144,7 @@ therefore the Veda must not be read in the vicinity of a Śūdra;'
 बहु-पशुः - पशु-सदृश इत्यर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Therefore the Śūdra is like a beast, unfit for sacrifices.
 </details>
@@ -1163,7 +1163,7 @@ therefore the Veda must not be read in the vicinity of a Śūdra;'
 अनुपशृण्वतो ऽध्ययन--तद्-अर्थ-ज्ञान--तद्-अर्थानुष्ठानानि न सम्भवन्ति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And he who does not hear the Veda recited  
 cannot learn it so as to understand and perform what the Veda enjoins. 
@@ -1181,7 +1181,7 @@ cannot learn it so as to understand and perform what the Veda enjoins.
 अतस् तान्य् अपि प्रतिषिद्धान्य् एव॥३८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The prohibition of hearing thus implies the prohibition of understanding and whatever depends on it.
 </details>
@@ -1200,7 +1200,7 @@ The prohibition of hearing thus implies the prohibition of understanding and wha
 १०४. स्मृतेश्च ॥ १–३–३९ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 39. And on account of Smr̥ti.
 </details>
@@ -1223,7 +1223,7 @@ The prohibition of hearing thus implies the prohibition of understanding and wha
 इति,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Smr̥ti also declares this prohibition of hearing, and so on. 
 
@@ -1251,7 +1251,7 @@ if he preserves it his body is to be cut through.'
 इति च; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And 
 
@@ -1269,7 +1269,7 @@ And
 अतश् शूद्रस्यानधिकार इति सिद्धम्॥३९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 -- It is thus a settled matter that the Śūdras are not qualified for meditations on Brahman.
 </details>
@@ -1291,7 +1291,7 @@ And
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 those who hold that 
 
@@ -1311,7 +1311,7 @@ those who hold that
 > अन्यत् सर्वं मिथ्याभूतम्;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > that everything else is false; 
 </details>
@@ -1326,7 +1326,7 @@ those who hold that
 > बन्धश् चापारमार्थिकः;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > that all bondage is unreal;
 </details>
@@ -1341,7 +1341,7 @@ those who hold that
 > स च वाक्य-जन्य-वस्तु-याथात्म्य-ज्ञान-मात्र-निवर्त्यः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > that such bondage may be put an end to by the mere cognition of the true nature of Reality – such cognition resulting from the hearing of certain texts; 
 </details>
@@ -1356,7 +1356,7 @@ those who hold that
 > तन्-निवृत्तिर् एव मोक्षः – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > and that the cessation of bondage thus effected constitutes final Release. 
 </details>
@@ -1372,7 +1372,7 @@ those who hold that
 तैर् ब्रह्म-ज्ञाने शूद्रादेर् अनधिकारो वक्तुं न शक्यते; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We must here point out that the non-qualification of Śūdras for the cognition of Brahman can in no way be asserted by (them).
 </details>
@@ -1398,7 +1398,7 @@ We must here point out that the non-qualification of Śūdras for the cognition 
 वस्तु-याथात्म्य-ज्ञानोत्पत्तेः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For (the following) may be secured by any one who learns from another person -  
 
@@ -1427,7 +1427,7 @@ and that everything else is falsely superimposed on Brahman.
 तावतैव बन्ध-निवृत्तेश् च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the release resulting from it, 
 </details>
@@ -1444,7 +1444,7 @@ and the release resulting from it,
 न वाक्यान्तरेणेति नियन्तुं शक्यम्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the cognition of such truth can be arrived at only on the basis of certain Vedic texts, such as 'Thou art that,' is a restriction which does not admit of proof; 
 </details>
@@ -1460,7 +1460,7 @@ That the cognition of such truth can be arrived at only on the basis of certain 
 ज्ञानस्यापुरुष-तन्त्रत्वात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for knowledge of the truth does not depend on man's choice, 
 </details>
@@ -1476,7 +1476,7 @@ for knowledge of the truth does not depend on man's choice,
 सत्यां सामग्र्याम् अनिच्छतो ऽपि ज्ञानोत्पत्तेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and at once springs up in the mind even of an unwilling man as soon as the conditions for such origination are present. 
 </details>
@@ -1498,7 +1498,7 @@ and at once springs up in the mind even of an unwilling man as soon as the condi
 इति शक्यं वक्तुम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be proved in any way that bondage can be put an end to  
 only through such knowledge of the truth as springs from Vedic texts;  
@@ -1515,7 +1515,7 @@ only through such knowledge of the truth as springs from Vedic texts;
 येन केनापि वस्तु-याथाम्य-ज्ञाने सति भ्रान्ति-निवृत्तेः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for error comes to an end through the knowledge of the true nature of things, whatever agency may give rise to such knowledge. 
 </details>
@@ -1536,7 +1536,7 @@ for error comes to an end through the knowledge of the true nature of things, wh
 तावतैव भ्रम-निवृत्तेश् च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 True knowledge, of the kind described,  
 will spring up in the mind of a man  
@@ -1561,7 +1561,7 @@ and this will suffice to free him from error.
 वस्तु-याथात्म्य-ज्ञानेन जगद्-भ्रम-निवृत्तिर् अपि भविष्यति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When a competent and trustworthy person asserts that  
 what was mistaken for silver is merely a sparkling shell,  
@@ -1604,7 +1604,7 @@ through a statement resting on the traditional lore of men knowing the Veda.
 उपनिषच् च तपस्विनी दत्त-जलाञ्जलिस् स्यात्। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And as the knowledge of Brahman may be reached in this way not only by Śūdras but also by Brāhmaṇas and members of the other higher castes, the poor Upanishad is practically defunct.
 </details>
@@ -1631,7 +1631,7 @@ And as the knowledge of Brahman may be reached in this way not only by Śūdras 
 > मोक्ष-साधनतया वेदान्त-वाक्यैर् विहितं ज्ञानम् उपासन-रूपम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There are, on the other hand, those who hold that 
 
@@ -1649,7 +1649,7 @@ There are, on the other hand, those who hold that
 > तच् च पर-ब्रह्म-भूत-परम-पुरुष-प्रीणनम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > that such meditation has the effect of winning the love of the supreme Spirit 
 </details>
@@ -1665,7 +1665,7 @@ There are, on the other hand, those who hold that
 > तच् च शास्त्रैक-समधिगम्यम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > and is to be learned from scripture only; 
 </details>
@@ -1684,7 +1684,7 @@ There are, on the other hand, those who hold that
 स्वो+++(क्तो)+++पायतया **स्वीकरोति**, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > that the injunctions of meditation refer to such knowledge  
 only as springs from the legitimate study of the Veda on the part of a man  
@@ -1707,7 +1707,7 @@ and is assisted by the seven means (see above, p. 17);
 इति पक्षः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and that 
 
@@ -1732,7 +1732,7 @@ and thus releases him from bondage.
 तस्य यथोक्तया नीत्या शूद्रादेर् अनधिकार उपपद्यते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And on this view the proof of the non-qualification of the Śūdra, as given in the preceding Sūtras, holds good.
 </details>
@@ -1750,7 +1750,7 @@ And on this view the proof of the non-qualification of the Śūdra, as given in 
 **इति श्रीशारीरकमीमांसाभाष्ये अपशूद्राधिकरणम्॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of 'the exclusion of the Śūdras.'
 </details>

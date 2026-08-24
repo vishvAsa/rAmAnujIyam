@@ -7,7 +7,7 @@ title = "१ अथ"
 +++(- पूर्वोत्तर-मीमांसयोर् एक-शास्त्रत्वात्, उत्तर-पदान्वय-बलात्)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In this Sūtra the word 'then' expresses immediate sequence; 
 </details>

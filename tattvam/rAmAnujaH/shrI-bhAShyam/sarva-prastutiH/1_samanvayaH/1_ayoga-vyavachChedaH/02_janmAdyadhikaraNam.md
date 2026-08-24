@@ -20,7 +20,7 @@ title = "०२ जन्माद्यधिकरणम्"
 उच्यत इत्य् अत्राह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What then is that Brahman which is here said to be an object that should be enquired into?--To this question the second Sūtra gives a reply.
 </details>
@@ -43,7 +43,7 @@ What then is that Brahman which is here said to be an object that should be enqu
 २. जन्माद्य् अस्य यतः ॥ १-१-२ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 2. (Brahman is that) from which the origin, &c., of this (world proceed).
 </details>
@@ -66,7 +66,7 @@ What then is that Brahman which is here said to be an object that should be enqu
 जन्मादीति – सृष्टि-स्थिति-प्रलयम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The expression 'the origin', &c., means 'creation, subsistence, and reabsorption'.
 </details>
@@ -137,7 +137,7 @@ The expression 'the origin', &c., means 'creation, subsistence, and reabsorption
 तद् ब्रह्मेति सूत्रार्थः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The 'this' (in 'of this') denotes this entire world with its manifold wonderful arrangements, not to be fathomed by thought, and comprising within itself the aggregate of living souls from Brahmā down to blades of grass, all of which experience the fruits (of their former actions) in definite places and at definite times. 'That from which,' i.e. that highest Person who is the ruler of all; whose nature is antagonistic to all evil; whose purposes come true; who possesses infinite auspicious qualities, such as knowledge, blessedness, and so on; who is omniscient, omnipotent, supremely merciful; from whom the creation, subsistence, and reabsorption of this world proceed – he is Brahman: such is the meaning of the Sūtra.
 </details>
@@ -204,7 +204,7 @@ The 'this' (in 'of this') denotes this entire world with its manifold wonderful 
 इति श्रूयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The definition here given of Brahman is founded on the text Taitt. Up. III, 1, 'Bhr̥gu Vāruṇi went to his father Varuṇa, saying, Sir, teach me Brahman', &c., up to 'That from which these beings are born, that by which when born they live, that into which they enter at their death, try to know that: that is Brahman.'
 </details>
@@ -234,7 +234,7 @@ The definition here given of Brahman is founded on the text Taitt. Up. III, 1, '
 – इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A doubt arises here. Is it possible, or not, to gain a knowledge of Brahman from the characteristic marks stated in this passage?
 </details>
@@ -264,7 +264,7 @@ A doubt arises here. Is it possible, or not, to gain a knowledge of Brahman from
 किं प्राप्तम्? न शक्यम् इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is not possible, the Pūrvapakshin contends.
 </details>
@@ -288,7 +288,7 @@ It is not possible, the Pūrvapakshin contends.
 अनेक-विशेषण-व्यावृत्तत्वेन ब्रह्मणो ऽनेकत्व-प्रसक्तेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The attributes stated in that passage – viz. being that from which the world originates, and so on – do not properly indicate Brahman; for as the essence of an attribute lies in its separative or distinctive function, there would result from the plurality of distinctive attributes plurality on the part of Brahman itself.
 </details>
@@ -309,7 +309,7 @@ The attributes stated in that passage – viz. being that from which the world o
 विशेषणत्वं हि व्यावर्तकत्वम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For being an attribute consists in being distinctive (exclusionary).
 </details>
@@ -333,7 +333,7 @@ For being an attribute consists in being distinctive (exclusionary).
 एक एव देवदत्तः प्रतीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But when we say 'Devadatta is of a dark complexion, is young, has reddish eyes,' &c., we also make a statement as to several attributes, and yet we are understood to refer to one Devadatta only;
 </details>
@@ -354,7 +354,7 @@ But when we say 'Devadatta is of a dark complexion, is young, has reddish eyes,'
 > एवम् अत्राप्य् एकम् एव ब्रह्म भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 similarly we understand in the case under discussion also that there is one Brahman only!
 </details>
@@ -371,7 +371,7 @@ similarly we understand in the case under discussion also that there is one Brah
 एकस्मिन्न् एव विशेषणानाम् उपसंहारः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Not so, we reply. In Devadatta's case we connect all attributes with one person, because we know his unity through other means of knowledge;
 </details>
@@ -392,7 +392,7 @@ Not so, we reply. In Devadatta's case we connect all attributes with one person,
 अन्यथा तत्रापि व्यावर्तकत्वेनानेकत्वम् अपरिहार्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 otherwise the distinctive power of several attributes would lead us, in this case also, to the assumption of several substances to which the several attributes belong.
 </details>
@@ -415,7 +415,7 @@ otherwise the distinctive power of several attributes would lead us, in this cas
 व्यावर्तक-भेदेन ब्रह्म-बहुत्वम् अवर्जनीयम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the case under discussion, on the other hand, we do not, apart from the statement as to attributes, know anything about the unity of Brahman, and the distinctive power of the attributes thus necessarily urges upon us the idea of several Brahmans.
 </details>
@@ -446,7 +446,7 @@ In the case under discussion, on the other hand, we do not, apart from the state
 ब्रह्म-व्यक्तयो ऽपि बह्व्यस् स्युः। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But we maintain that the unity of the term 'Brahman' intimates the unity of the thing 'Brahman'!--By no means, we reply. If a man who knows nothing about cows, but wishes to know about them, is told 'a cow is that which has either entire horns, or mutilated horns, or no horns,' the mutally exclusive ideas of the possession of entire horns, and so on, raise in his mind the ideas of several individual cows, although the term 'cow' is one only; and in the same way we are led to the idea of several distinct Brahmans.
 </details>
@@ -469,7 +469,7 @@ But we maintain that the unity of the term 'Brahman' intimates the unity of the 
 एषां विशेषणानां सम्भूय लक्षणत्वम् अप्य् अनुपपन्नम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this reason, even the different attributes combined are incapable of defining the thing, the definition of which is desired.
 </details>
@@ -495,7 +495,7 @@ For this reason, even the different attributes combined are incapable of definin
 +++(उपलक्ष्योपलक्षणयोर् अन्तरा पूर्वप्रतिपन्न-)+++ आकारान्तराप्रतिपत्तेः +++(वक्ष्यमाणरीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor again are the characteristics enumerated in the Taitt. passage (viz. creation of the world, &c.) capable of defining Brahman in the way of secondary marks (upalakshaṇa), because the thing to be defined by them is not previously known in a different aspect.
 </details>
@@ -519,7 +519,7 @@ Nor again are the characteristics enumerated in the Taitt. passage (viz. creatio
 "यत्रायं सारसः, स देवदत्त-केदारः", इत्य् आदिषु॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 So-called secondary marks are the cause of something already known from a certain point of view, being known in a different aspect – as when it is said 'Where that crane is standing, that is the irrigated field of Devadatta.'
 </details>
@@ -571,7 +571,7 @@ So-called secondary marks are the cause of something already known from a certai
 जगज्-जन्मादीन्य् उपलक्षणानि भवन्ति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But may we not say that from the text 'The True, knowledge, the Infinite is Brahman,' we already have an idea of Brahman, and that hence its being the cause of the origin, &c., of the world may be taken as collateral indications (pointing to something already known in a certain way)?
 </details>
@@ -593,7 +593,7 @@ But may we not say that from the text 'The True, knowledge, the Infinite is Brah
 उभयोर् लक्षण-वाक्ययोर् अन्योन्याश्रयणात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Not so, we reply; either of these two defining texts has a meaning only with reference to an aspect of Brahman already known from the other one, and this mutual dependence deprives both of their force.
 </details>
@@ -615,7 +615,7 @@ Not so, we reply; either of these two defining texts has a meaning only with ref
 अतो "न लक्षणतो ब्रह्म प्रतिपत्तुं शक्यत" इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Brahman cannot therefore be known through the characteristic marks mentioned in the text under discussion.
 </details>
@@ -641,7 +641,7 @@ Brahman cannot therefore be known through the characteristic marks mentioned in 
 ब्रह्म प्रतिपत्तुं शक्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this primā facie view we make the following reply. Brahman can be known on the basis of the origination, subsistence, and reabsorption of the world – these characteristics occupying the position of collateral marks.
 </details>
@@ -663,7 +663,7 @@ To this primā facie view we make the following reply. Brahman can be known on t
 ब्रह्माप्रतिपत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 No objection can be raised against this view, on the ground that, apart from what these collateral marks point to, no other aspect of Brahman is known;
 </details>
@@ -686,7 +686,7 @@ No objection can be raised against this view, on the ground that, apart from wha
 बृहतेर् धातोस् तद्-अर्थत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for as a matter of fact they point to that which is known to us as possessing supreme greatness (br̥hattva) and power of growth (b_rim_hana)--this being the meaning of the root b_rim_h (from which 'Brahman' is derived).
 </details>
@@ -725,7 +725,7 @@ for as a matter of fact they point to that which is known to us as possessing su
 तद्-उपलक्षण-भूताश् च जगज्-जन्म-स्थिति-लयाः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of this Brahman, thus already known (on the basis of etymology), the origination, sustentation, and reabsorption of the world are collateral marks.
 </details>
@@ -748,7 +748,7 @@ Of this Brahman, thus already known (on the basis of etymology), the origination
 यथा-प्रसिद्धि जन्मादि-कारणम् अनूद्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, in the Taitt. text under discussion, the relative pronoun – which appears in three forms, (that) 'from whence,' (that) 'by which,' (that) 'into which'--refers to something which is already known as the cause of the origin, and so on, of the world.
 </details>
@@ -777,7 +777,7 @@ Moreover, in the Taitt. text under discussion, the relative pronoun – which ap
 इत्य् एकस्यैव सच्-छब्दवाच्यस्य निमित्तोपादान-कारणत्वेन –  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This previous knowledge rests on the Cḥ. passage, 'Being only this was in the beginning,' &c., up to 'it sent forth fire'--which declares that the one principle denoted as 'being' is the universal material, and instrumental cause. 
 </details>
@@ -801,7 +801,7 @@ This previous knowledge rests on the Cḥ. passage, 'Being only this was in the 
 इत्य् एकस्यैव +++(निमित्तत्वेन)+++ प्रतिपादनात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There the clause 'Being only this was in the beginning, one only,' establishes that one being as the general material cause; the word 'without a second' negatives the existence of a second operative cause; and the clauses 'it thought, may I be many, may I grow forth', and 'it sent forth fire', establish that one being (as the cause and substance of everything).
 </details>
@@ -824,7 +824,7 @@ There the clause 'Being only this was in the beginning, one only,' establishes t
 स्व-निमित्तोपादान-भूतं वस्तु ब्रह्मेति लक्षयन्ति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, then, it is said that Brahman is that which is the root of the world's origination, subsistence, and reabsorption, those three processes sufficiently indicate Brahman as that entity which is their material and operative cause;
 </details>
@@ -849,7 +849,7 @@ If, then, it is said that Brahman is that which is the root of the world's origi
 नाकारान्तराप्रतिपत्ति-रूपानुपपत्तिः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and as being the material and the operative cause implies greatness (br̥hattva) manifesting itself in various powers, such as omniscience, and so on, Brahman thus is something already known; and as hence origination, etc., of the world are marks of something already known, the objection founded above on the absence of knowledge of another aspect of Brahman is seen to be invalid.
 </details>
@@ -875,7 +875,7 @@ and as being the material and the operative cause implies greatness (br̥hattva)
 न कश्चिद् दोषः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is there really any objection to the origination, &c., of the world being taken as characteristic marks of Brahman in so far as they are distinctive attributes.
 </details>
@@ -897,7 +897,7 @@ Nor is there really any objection to the origination, &c., of the world being ta
 स्व-विरोधि-व्यावृत्तं वस्तु लक्षयन्ति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For taken as attributes they indicate Brahman as something different from what is opposed to those attributes.
 </details>
@@ -922,7 +922,7 @@ For taken as attributes they indicate Brahman as something different from what i
 एकस्मिन्न् एवोपसंहारात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Several attributes which do not contradict each other may serve quite well as characteristic marks defining one thing, the nature of which is not otherwise known, without the plurality of the attributes in any way involving plurality of the thing defined; for as those attributes are at once understood to belong to one substrate, we naturally combine them within that one substrate.
 </details>
@@ -944,7 +944,7 @@ Several attributes which do not contradict each other may serve quite well as ch
 विरोधाद् एव गो-व्यक्ति-भेदम् आपादयन्ति ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such attributes, of course, as the possession of mutilated horns (mentioned above), which are contradictorily opposed to each other, necessarily lead to the assumption of several individual cows to which they severally belong;
 </details>
@@ -965,7 +965,7 @@ Such attributes, of course, as the possession of mutilated horns (mentioned abov
 अत्र तु काल-भेदेन जन्मादीनां न विरोधः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but the origination, &c., of the world are processes separated from each other by difference of time only, and may therefore, without contradiction, be connected with one Brahman in succession.
 </details>
@@ -996,7 +996,7 @@ but the origination, &c., of the world are processes separated from each other b
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text 'from whence these beings', &c., teaches us that Brahman is the cause of the origination, &c., of the world, and of this Brahman thus known the other text 'The True, knowledge, the Infinite is Brahman', tells us that its essential nature marks it off from everything else.
 </details>
@@ -1029,7 +1029,7 @@ The text 'from whence these beings', &c., teaches us that Brahman is the cause o
 तत्र सत्य-पदं निरुपाधिक-सत्ता-योगि ब्रह्माह।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The term 'True' expresses Brahman in so far as possessing absolutely non-conditioned existence,
 </details>
@@ -1053,7 +1053,7 @@ The term 'True' expresses Brahman in so far as possessing absolutely non-conditi
 तयोर् निरुपाधिक-सत्ता-योग-रहितत्वात्।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and thus distinguishes it from non-intelligent matter, the abode of change, and the souls implicated in matter;
 
@@ -1079,7 +1079,7 @@ for as both of these enter into different states of existence called by differen
 ज्ञान-पदं नित्यासङ्कुचित-ज्ञानैकाकारम् आह।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The term 'knowledge' expresses the characteristic of permanently non-contracted intelligence,
 </details>
@@ -1104,7 +1104,7 @@ The term 'knowledge' expresses the characteristic of permanently non-contracted 
 तेन कदाचित् सङ्कुचित-ज्ञानत्वेन मुक्ता व्यावृत्ताः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and thus distinguishes Brahman from the released souls whose intelligence is sometimes in a contracted state.
 </details>
@@ -1126,7 +1126,7 @@ and thus distinguishes Brahman from the released souls whose intelligence is som
 अनन्त-पदं देश-काल-वस्तु-परिच्छेद-रहितं स्वरूपम् आह।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the term 'Infinite' denotes that, whose nature is free from all limitation of place, time, and particular substantial nature;
 </details>
@@ -1148,7 +1148,7 @@ And the term 'Infinite' denotes that, whose nature is free from all limitation o
 स्वरूपेण गुणैश् चानन्त्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and as Brahman's essential nature possesses attributes, infinity belongs both to the essential nature and to the attributes.
 </details>
@@ -1171,7 +1171,7 @@ and as Brahman's essential nature possesses attributes, infinity belongs both to
 सातिशय-स्वरूप-स्व-गुणाः नित्याः व्यावृत्ताः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The qualification of Infinity excludes all those individual souls whose essential nature and attributes are not unsurpassable, and who are distinct from the two classes of beings already excluded by the two former terms (viz. 'true being' and 'knowledge').
 </details>
@@ -1200,7 +1200,7 @@ The qualification of Infinity excludes all those individual souls whose essentia
 सकलेतर-वस्तु-विसजातीयम् इति लक्ष्यत इति नान्योन्याश्रयणम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For attributes are distinctive.
 The entire text therefore defines Brahman – which is already known to be the cause of the origination, &c., of the world – as that which is in kind different from all other things; and it is therefore not true that the two texts under discussion have no force because mutually depending on each other.
@@ -1228,7 +1228,7 @@ The entire text therefore defines Brahman – which is already known to be the c
 लक्षणतः प्रतिपत्तुं शक्यत इति सिद्धम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And from this it follows that a knowledge of Brahman may be gained on the ground of its characteristic marks – such as its being the cause of the origination, &c., of the world, free from all evil, omniscient, all-powerful, and so on.
 </details>
@@ -1255,7 +1255,7 @@ And from this it follows that a knowledge of Brahman may be gained on the ground
 तच् च ब्रह्म जगज्-जन्मादि-कारणम् इति वचनाच् च।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To those, on the other hand, who maintain that the object of enquiry is a substance devoid of all difference, neither the first nor the second Sūtra can be acceptable; for the Brahman, the enquiry into which the first Sūtra proposes, is, according to authoritative etymology, something of supreme greatness; and according to the second Sūtra it is the cause of the origin, subsistence, and final destruction of the world.
 </details>
@@ -1281,7 +1281,7 @@ To those, on the other hand, who maintain that the object of enquiry is a substa
 न तत्र प्रमाणम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same remark holds good with regard to all following Sūtras, and the scriptural texts on which they are based – none of them confirm the theory of a substance devoid of all difference.
 </details>
@@ -1305,7 +1305,7 @@ The same remark holds good with regard to all following Sūtras, and the scriptu
 न निर्विशेष-वस्तुनि प्रमाणम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, does Reasoning prove such a theory; for Reasoning has for its object things possessing a 'proving' attribute which constantly goes together with an attribute 'to be proved.'
 </details>
@@ -1333,7 +1333,7 @@ Nor, again, does Reasoning prove such a theory; for Reasoning has for its object
 अज्ञान-साक्षि ब्रह्मेत्य् अभ्युपगमात् +++(ततः सविशेषता-सिद्धेर् वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And even if, in agreement with your view, we explained the second Sūtra as meaning 'Brahman is that whence proceeds the error of the origination, &c., of the world', we should not thereby advance your theory of a substance devoid of all difference. For, as you teach, the root of all error is Nescience, and Brahman is that which witnesses (is conscious of) Nescience,
 </details>
@@ -1354,7 +1354,7 @@ And even if, in agreement with your view, we explained the second Sūtra as mean
 साक्षित्वं हि प्रकाशैक-रसतयैवोच्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the essence of witnessing consciousness consists in being pure light (intelligence),
 </details>
@@ -1376,7 +1376,7 @@ and the essence of witnessing consciousness consists in being pure light (intell
 स्वस्य परस्य च व्यवहार-योग्यताऽऽपादन-स्वभावेन भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the essence of pure light or intelligence is that, distinguishing itself from the Non-intelligent, it renders itself, as well as what is different from it, capable of becoming the object of empiric thought and speech (vyavahāra).
 </details>
@@ -1397,7 +1397,7 @@ and the essence of pure light or intelligence is that, distinguishing itself fro
 तथा सति सविशेषत्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All this implies the presence of difference –
 </details>
@@ -1419,7 +1419,7 @@ All this implies the presence of difference –
 तद्+++(→जड-व्यावर्तक-विशेष)+++-अभावे प्रकाशतैव न स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 if there were no difference, light or intelligence could not be what it is,
 </details>
@@ -1440,7 +1440,7 @@ if there were no difference, light or intelligence could not be what it is,
 तुच्छतैव स्यात्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it would be something altogether void, without any meaning.
 </details>
@@ -1456,7 +1456,7 @@ it would be something altogether void, without any meaning.
 **इति श्री-शारीरक-मीमांसा-भाष्ये जन्माद्य्-अधिकरणम्॥२॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of 'origination and so on.'
 </details>

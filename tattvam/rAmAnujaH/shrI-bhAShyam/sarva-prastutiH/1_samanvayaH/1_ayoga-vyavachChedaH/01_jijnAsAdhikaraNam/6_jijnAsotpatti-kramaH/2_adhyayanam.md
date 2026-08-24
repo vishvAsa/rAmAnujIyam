@@ -14,7 +14,7 @@ title = "२ अध्ययनम्"
 +++(न तद् अर्थपर्यन्तम् - रागतस् तत् प्राप्तम् इति)+++॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This is as follows.  
 At first the precept  
@@ -54,7 +54,7 @@ and is here referred to as 'svādhyāya.'
 तच् चाध्ययनं किंरूपं कथं च कर्तव्यम् इत्य् अपेक्षायाम्  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Next there arises the desire to know of what nature the 'Learning' enjoined is to be, and how it is to be done. 
 </details>
@@ -86,7 +86,7 @@ Next there arises the desire to know of what nature the 'Learning' enjoined is t
 इत्य् अनेन,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here there come in certain injunctions such as
 
@@ -352,7 +352,7 @@ and
 चापेक्षितानि विधीयन्ते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and certain rules about special observances and restrictions--  
 such as 
@@ -387,7 +387,7 @@ such as
 **अध्ययनम्** इत्य् अवगम्यते॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From all these it is understood that the study enjoined has for its result the apprehension of the aggregate of syllables called Veda, on the part of a pupil who has been initiated by a teacher sprung from a good family, leading a virtuous life, and possessing purity of soul; who practises certain special observances and restrictions; and who learns by repeating what is recited by the teacher.
 </details>
@@ -409,7 +409,7 @@ From all these it is understood that the study enjoined has for its result the a
 इति स्वाध्यायस्य +++(अध्ययन-क्रियायां)+++ कर्मत्वावगमात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And this study of the Veda is of the nature of a saṁskāra of the text,  
 since the form of the injunction 'the Veda is to be studied' shows that the Veda is the object (of the action of studying). 
@@ -428,7 +428,7 @@ since the form of the injunction 'the Veda is to be studied' shows that the Veda
 संस्कारो हि नाम कार्यान्तर-योग्यता-करणम्। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By a saṁskāra is understood an action whereby something is fitted to produce some other effect; 
 </details>
@@ -446,7 +446,7 @@ By a saṁskāra is understood an action whereby something is fitted to produce 
 जपादिना स्वरूपेणापि तत्-साधनत्वाच् च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and that the Veda should be the object of such a saṁskaāra is quite appropriate, since it gives rise to the knowledge of the four chief ends of human action – viz. religious duty, wealth, pleasure, and final release – and of the means to effect them; and since it helps to effect those ends by itself also, viz. by mere mechanical repetition (apart from any knowledge to which it may give rise).
 </details>
@@ -463,7 +463,7 @@ and that the Veda should be the object of such a saṁskaāra is quite appropria
 मन्त्रवन्-नियमवद्--अक्षर-राशि-ग्रहण-मात्रे पर्यवस्यति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The injunction as to the study of the Veda thus aims only at the apprehension of the aggregate of syllables (constituting the Veda) according to certain rules; it is in this way analogous to the recital of mantras.
 </details>

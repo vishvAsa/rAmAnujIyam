@@ -16,7 +16,7 @@ title = "०८ विहितत्वाधिकरणम्"
 > **४५०. +++(आश्रमस्थमात्रेभ्यो)+++ विहितत्वाच् चाश्रमकर्मापि +++(मुमुक्षुविद्याङ्गत्वेऽपि)+++ ॥ ३–४–३२ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 32\. The works of the āśramas also, on account of their being enjoined.
 </details>
@@ -35,7 +35,7 @@ title = "०८ विहितत्वाधिकरणम्"
 यज्ञादि-कर्माङ्गिका ब्रह्म-विद्येत्य् उक्तम्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It has been said that sacrifices and other works are auxiliary to the knowledge of Brahman. 
 </details>
@@ -54,7 +54,7 @@ It has been said that sacrifices and other works are auxiliary to the knowledge 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The doubt now arises whether those works are to be performed by him also who merely wishes to fulfil the duties of his āśrama, without aiming at final Release, or not. 
 </details>
@@ -74,7 +74,7 @@ The doubt now arises whether those works are to be performed by him also who mer
 इति प्राप्ते
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 They are not, the Pūrvapakshin holds,  
 for that things auxiliary to knowledge should stand in subordinate relation to a certain state of life  
@@ -95,7 +95,7 @@ would imply the contradiction of permanent and non-permanent obligation.
 उच्यते - आश्रमकर्मापि – इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Of this view the Sūtra disposes, 'The works of the āśramas also.' 
 </details>
@@ -121,7 +121,7 @@ would imply the contradiction of permanent and non-permanent obligation.
 केवलाश्रमिणापि अनुष्ठेयानीत्यर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The works belonging to each āśrama have to be performed by those also who do not aim at more than to live according to the āśrama; 
 </details>
@@ -138,7 +138,7 @@ The works belonging to each āśrama have to be performed by those also who do n
 कुतः? यावज्जीवमग्निहोत्रं जुहोति इत्यादिना विहितत्वात् – जीवननिमित्ततया नित्यवद्विहितत्वादित्यर्थः ॥३२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for they are specifically enjoined by texts such as as long as life lasts he is to offer the Agnihotra'; this implies a permanent obligation dependent on life. 
 </details>
@@ -162,7 +162,7 @@ for they are specifically enjoined by texts such as as long as life lasts he is 
 विद्या-शेषतया ऽप्य् अनुष्ठेयानीत्य् आह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that the same works are also to be performed as being auxiliary to knowledge appears from the texts enjoining them in that aspect, 'Him they seek to know by the study of the Veda' (Br̥. Up. IV, 4, 22); this the next Sūtra declares.
 </details>
@@ -178,7 +178,7 @@ And that the same works are also to be performed as being auxiliary to knowledge
 > **४५१. सहकारित्वेन च ॥ ३–४–३३ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 33\. And on account of co-operativeness.
 </details>
@@ -194,7 +194,7 @@ And that the same works are also to be performed as being auxiliary to knowledge
 विद्योत्पत्ति-द्वारेण विद्या-सहकारितया ऽप्य् अनुष्ठेयानि । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 These works are to be performed also on account of their being co-operative towards knowledge in so far, namely, as they give rise to the desire of knowledge; 
 </details>
@@ -211,7 +211,7 @@ These works are to be performed also on account of their being co-operative towa
 इत्य् अर्थः ॥ ३३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and their thus being enjoined for a double purpose does not imply contradiction any more than the double injunctions of the Agnihotra, which one text connects with the life of the sacrificer and another text with his desire to reach the heavenly world.
 </details>
@@ -230,7 +230,7 @@ and their thus being enjoined for a double purpose does not imply contradiction 
 तद्वदेव कर्मान्तरत्वमपि नास्तीत्याह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Nor does this imply a difference of works – this the next Sūtra declares.
 </details>
@@ -247,7 +247,7 @@ and their thus being enjoined for a double purpose does not imply contradiction 
 > **४५२. सर्वथापि +++(यज्ञादयः)+++ त एवोभयिलङ्गात् +++(←तुल्य-विधेः, भेदानुक्तेः)+++ ॥ ३–४–३४ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 34\. In any case they are the same, on account of twofold inferential signs.
 </details>
@@ -263,7 +263,7 @@ and their thus being enjoined for a double purpose does not imply contradiction 
 सर्वथा – विद्यार्थत्वे आश्रमार्थत्वेऽपि, त एव यज्ञादय इति प्रतिपत्तव्यम्; न कर्मस्वरूपभेद इत्यर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There is no radical difference of works; but in any case, i.e. whether they be viewed as duties incumbent on the āśrama or as auxiliary to knowledge, sacrifices and other works are one and the same. 
 </details>
@@ -281,7 +281,7 @@ There is no radical difference of works; but in any case, i.e. whether they be v
 कर्म-स्वरूप-भेदे प्रमाणाभावाच् च ॥३४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For Scripture, in enjoining them in both these aspects, makes use of the same terms, so that we recognise the same acts, and there is no means of proof to establish difference of works.
 </details>
@@ -300,7 +300,7 @@ For Scripture, in enjoining them in both these aspects, makes use of the same te
 > **४५३. +++(दुष्कर्मभिर्)+++ अनभिभवं च दर्शयति ॥ ३–४–३५ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 35\. And Scripture also declares (knowledge) not to be overpowered.
 </details>
@@ -317,7 +317,7 @@ For Scripture, in enjoining them in both these aspects, makes use of the same te
 **धर्मेण पापम् अपनुदति** (तै.ना.५०) इत्यादिभिश्च 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Texts such as 'By works of sacred duty he drives away evil' 
 </details>
@@ -335,7 +335,7 @@ Texts such as 'By works of sacred duty he drives away evil'
 पाप-कर्मभिर् उत्पत्ति-प्रतिबन्धाभावं दर्शयति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 declare that sacrifices and similar works have the effect of knowledge 'not being overpowered,' i.e. of the origination of knowledge not being obstructed by evil works. 
 </details>
@@ -352,7 +352,7 @@ declare that sacrifices and similar works have the effect of knowledge 'not bein
 अहरहरनुष्ठीयमानैर्हि यज्ञादिभिः विशुद्धेऽन्तःकरणे प्रत्यहं प्रकृष्यमाणा विद्योत्पद्यते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Sacrifices and similar works being performed day after day have the effect of purifying the mind, and owing to this, knowledge arises in the mind with ever increasing brightness. 
 </details>
@@ -368,7 +368,7 @@ Sacrifices and similar works being performed day after day have the effect of pu
 अतस्त एवोभयत्र यज्ञादयः ॥३५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This proves that the works are the same in either case.
 </details>
@@ -386,7 +386,7 @@ This proves that the works are the same in either case.
 **इति श्रीशारीरकमीमांसाभाष्ये विहितत्वाधिकरणम् ॥८॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of 'the being enjoined' (of sacrifices, and so on).
 </details>

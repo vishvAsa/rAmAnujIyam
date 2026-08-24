@@ -14,7 +14,7 @@ title = "५ साधन-चतुष्टयेन नालम्"
 इति, तद् अभ्युपगम्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this argumentation we make the following reply. We admit that release consists only in the cessation of Nescience, and that this cessation results entirely from the knowledge of Brahman. 
 </details>
@@ -35,7 +35,7 @@ To this argumentation we make the following reply. We admit that release consist
 इति विवेचनीयम् – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But a distinction has here to be made regarding the nature of this knowledge which the Vedānta-texts aim at enjoining for the purpose of putting an end to Nescience. 
 </details>
@@ -54,7 +54,7 @@ But a distinction has here to be made regarding the nature of this knowledge whi
 \– इति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Is it merely the knowledge of the sense of sentences which originates from the sentences?  
 or is it knowledge in the form of meditation (upāsana) which has the knowledge just referred to as its antecedent? 
@@ -73,7 +73,7 @@ or is it knowledge in the form of meditation (upāsana) which has the knowledge 
 वाक्याद् एव सिद्धेः; तावन्-मात्रेणाविद्या-निवृत्त्य्-अनुपलब्धेश् च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It cannot be knowledge of the former kind: for such knowledge springs from the mere apprehension of the sentence, apart from any special injunction,  
 and moreover we do not observe that the cessation of Nescience is effected by such knowledge merely. 
@@ -93,7 +93,7 @@ and moreover we do not observe that the cessation of Nescience is effected by su
 वाक्यम् अ-विद्या-निवर्तकं ज्ञानं न जनयति,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Our adversary will perhaps attempt to explain things in the following way. 
 
@@ -113,7 +113,7 @@ Our adversary will perhaps attempt to explain things in the following way.
 द्वि-चन्द्र--ज्ञानानिवृत्तिवत्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > And the fact that such knowledge, even when produced, does not at once and for every one put a stop to the view of plurality by no means subverts my opinion; for, to mention an analogous instance, the double appearance of the moon – presenting itself to a person affected with a certain weakness of vision – does not come to an end as soon as the oneness of the moon has been apprehended by reason. 
 </details>
@@ -132,7 +132,7 @@ Our adversary will perhaps attempt to explain things in the following way.
 इति- 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Moreover, even without having come to an end, the view of plurality is powerless to effect further bondage, as soon as the root, i.e. Nescience, has once been cut.
 </details>
@@ -147,7 +147,7 @@ Our adversary will perhaps attempt to explain things in the following way.
 
 सत्यां सामग्र्यां ज्ञानानुत्पत्त्य्-अनुपपत्तेः; </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (But this defence we are unable to admit.)  
 It is impossible that knowledge should not arise when its means, i.e. the texts conveying knowledge, are once present. 
@@ -164,7 +164,7 @@ It is impossible that knowledge should not arise when its means, i.e. the texts 
 आप्तोपदेश-लिङ्गादिभिर् बाधक-ज्ञानोत्पत्ति-दर्शनात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And we observe that even when there exists an antagonistic imagination (interfering with the rise of knowledge), information given by competent persons, the presence of characteristic marks (on which a correct inference may be based), and the like give rise to knowledge which sublates the erroneous imagination. 
 </details>
@@ -186,7 +186,7 @@ And we observe that even when there exists an antagonistic imagination (interfer
 ज्ञानोत्पत्त्यैव निवृत्तत्वात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we admit that even after the sense of texts has been apprehended, the view of plurality may continue owing to some small remainder of beginningless imagination. 
 
@@ -206,7 +206,7 @@ For as this imagination which constitutes the means for the view of plurality is
 कदाचिद् अपि नास्या वासनाया निवृत्तिः।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If this did not take place, that imagination would never come to an end, since there is no other means but knowledge to effect its cessation. 
 </details>
@@ -225,7 +225,7 @@ If this did not take place, that imagination would never come to an end, since t
 अथ चानुवर्तत इति बालिश-भाषितम्॥ +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To say that the view of plurality, which is the effect of that imagination, continues even after its root has been cut, is mere nonsense. 
 </details>
@@ -245,7 +245,7 @@ To say that the view of plurality, which is the effect of that imagination, cont
 मिथ्या-ज्ञानानिवृत्तिर् अविरुद्धा। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The instance of some one seeing the moon double is not analogous. For in his case the non-cessation of wrong knowledge explains itself from the circumstance that the cause of wrong knowledge, viz. the real defect of the eye which does not admit of being sublated by knowledge, is not removed, although that which would sublate wrong knowledge is near. 
 </details>
@@ -263,7 +263,7 @@ The instance of some one seeing the moon double is not analogous. For in his cas
 भयादि-कार्यं तु निवर्तते।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the other hand, effects, such as fear and the like, may come to an end because they can be sublated by means of knowledge of superior force. 
 </details>
@@ -284,7 +284,7 @@ On the other hand, effects, such as fear and the like, may come to an end becaus
 कदाचिद् अपि ज्ञानोत्पत्तिर् न सेत्स्यति; +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, if it were true that knowledge arises through the dispelling of the imagination of plurality, the rise of knowledge would really never be brought about. 
 </details>
@@ -300,7 +300,7 @@ Moreover, if it were true that knowledge arises through the dispelling of the im
 भेद-वासनाया अनादिकालोपचितत्वेनापरिमितत्वात्,+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the imagination of plurality has through gradual growth in the course of beginningless time acquired an infinite strength, 
 </details>
@@ -316,7 +316,7 @@ For the imagination of plurality has through gradual growth in the course of beg
 अनया तन्-निरसनानुपपत्तेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and does not therefore admit of being dispelled by the comparatively weak conception of non-duality. 
 </details>
@@ -336,7 +336,7 @@ and does not therefore admit of being dispelled by the comparatively weak concep
 वेदान्त-वाक्यैर् विधित्सितम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence we conclude that the knowledge which the Vedānta-texts aim at inculcating is a knowledge other than the mere knowledge of the sense of sentences, and denoted by 'dhyāna,' 'upāsanā' (i. e. meditation), and similar terms.
 </details>
@@ -354,7 +354,7 @@ Hence we conclude that the knowledge which the Vedānta-texts aim at inculcating
 > विज्ञाय प्रज्ञां कुर्वीत (बृ.६.४.२१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With this agree scriptural texts such as 
 
@@ -373,7 +373,7 @@ With this agree scriptural texts such as
 > अनुविद्य विजानाति (छां.८.१२.६) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'He who, having searched out the Self, knows it' (Cḥ. Up. VIII, 7, 1); 
 </details>
@@ -388,7 +388,7 @@ With this agree scriptural texts such as
 > ओम् इत्य् एवात्मानं ध्यायथ (मु.२.२.६) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Meditate on the Self as Om' (Mu. Up. II, 2, 6); 
 </details>
@@ -403,7 +403,7 @@ With this agree scriptural texts such as
 > निचाय्य तं मृत्यु-मुखात् प्रमुच्यते (क.१.३.१५) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Having known that,  
 he is freed from the jaws of death' (Ka. Up. I, 3, 15); 
@@ -421,7 +421,7 @@ he is freed from the jaws of death' (Ka. Up. I, 3, 15);
 > आत्मानम् एव लोकम् उपासीत (बृ.३.४.१४) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Let a man meditate on the Self only as his world' (Br̥. Up. I, 4, 15); 
 </details>
@@ -437,7 +437,7 @@ he is freed from the jaws of death' (Ka. Up. I, 3, 15);
 > आत्मा वा अरे द्रष्टव्यश् श्रोतव्यो मन्तव्यो निदिध्यासितव्यः (बृ.६.४.६) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'The Self is to be seen, to be heard, to her reflected on, to be meditated on' (Br̥. Up. IV, 5, 6); 
 </details>
@@ -454,7 +454,7 @@ he is freed from the jaws of death' (Ka. Up. I, 3, 15);
 इत्येवमाद्याः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'That we must search out,  
 that we must try to understand' (Cḥ. Up. VIII, 7, 1).
@@ -485,7 +485,7 @@ that we must try to understand' (Cḥ. Up. VIII, 7, 1).
 इति ध्यानं विधीयते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (According to the principle of the oneness of purport of the different śākhās) all these texts must be viewed as agreeing in meaning with the injunction of meditation contained in the passage quoted from the Br̥. Up.; and what they enjoin is therefore meditation. In the first and second passages quoted, the words 'having known' and 'having searched out' (vijñāya; anuvidya) contain a mere reference to (not injunction of) the apprehension of the meaning of texts, such apprehension subserving meditation; while the injunction of meditation (which is the true purport of the passages) is conveyed by the clauses 'let him practise meditation' (prajñāṁ kurvīta) and 'he knows it.' 
 </details>
@@ -508,7 +508,7 @@ that we must try to understand' (Cḥ. Up. VIII, 7, 1).
 इति श्रवणस्य प्राप्तत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way the clause 'the Self is to be heard' is a mere anuvāda,  
 i.e. a mere reference to what is already established by other means; for a person who has read the Veda observes that it contains instruction about matters connected with certain definite purposes, and then on his own account applies himself to methodical 'hearing,' in order definitely to ascertain these matters; 'hearing' thus is established already. 
@@ -527,7 +527,7 @@ i.e. a mere reference to what is already established by other means; for a perso
 मन्तव्य इति चानुवादः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way the clause 'the Self is to be reflected upon' is a mere anuvāda of reflection which is known as a means of confirming what one has 'heard.' 
 </details>
@@ -544,7 +544,7 @@ In the same way the clause 'the Self is to be reflected upon' is a mere anuvāda
 तस्माद् ध्यानम् एव विधीयते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is therefore meditation only which all those texts enjoin. 
 </details>
@@ -564,7 +564,7 @@ It is therefore meditation only which all those texts enjoin.
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In agreement with this a later Sūtra also says, 
 
@@ -588,7 +588,7 @@ In agreement with this a later Sūtra also says,
 विद्य्-उपास्योर् व्यतिकरेण उपक्रमोपसंहार-दर्शनात् -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the knowledge intended to be enjoined as the means of final release is of the nature of meditation,  
 we conclude from the circumstance that the terms 'knowing' and'meditating' are seen to be used in place of each other in the earlier and later parts of Vedic texts. 
@@ -607,7 +607,7 @@ we conclude from the circumstance that the terms 'knowing' and'meditating' are s
 इत्यत्र 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Compare the following passages: 
 
@@ -625,7 +625,7 @@ Compare the following passages:
 य एवं वेद, (छां.३.१८.५) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 
 
@@ -647,7 +647,7 @@ and
 आत्मेत्य् एवोपासीत, (बृ.३.४.७) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And 'He does not know him, for he is not complete,'  
 and 'Let men meditate on him as the Self (Br̥. Up. I, 4, 7). 
@@ -668,7 +668,7 @@ and 'Let men meditate on him as the Self (Br̥. Up. I, 4, 7).
 इत्यत्र 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And 
 
@@ -688,7 +688,7 @@ And
 इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 
 
@@ -712,7 +712,7 @@ and
 इति ध्रुवायास् स्मृतेर् अपवर्गोपायत्व-श्रवणात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Meditation' means steady remembrance, i.e. a continuity of steady remembrance, uninterrupted like the flow of oil; in agreement with the scriptural passage which declares steady remembrance to be the means of release, 'on the attainment of remembrance all the ties are loosened' (Cḥ. Up. VII, 26, 2). 
 </details>
@@ -736,7 +736,7 @@ and
 इत्य् अनेनैकार्थ्यात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such remembrance is of the same character (form) as seeing (intuition); for the passage quoted has the same purport as the following one, 'The fetter of the heart is broken, all doubts are solved, and all the works of that man perish when he has been seen who is high and low' (Mu. Up. II, 2, 8). 
 </details>
@@ -757,7 +757,7 @@ Such remembrance is of the same character (form) as seeing (intuition); for the 
 इत्य्-अनेन निदिध्यासनस्य दर्शन-समानाकारता विधीयते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And this being so, we conclude that the passage 'the Self is to be seen' teaches that 'Meditation' has the character of 'seeing' or 'intuition.' 
 </details>
@@ -773,7 +773,7 @@ And this being so, we conclude that the passage 'the Self is to be seen' teaches
 भवति च स्मृतेर् भावना-प्रकर्षाद् दर्शन-रूपता। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that remembrance has the character of 'seeing' is due to the element of imagination (representation) which prevails in it. 
 </details>
@@ -794,7 +794,7 @@ And that remembrance has the character of 'seeing' is due to the element of imag
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All this has been set forth at length by the Vākyakāra. 'Knowledge (vedana) means meditation (upāsana), scripture using the word in that sense';  
 </details>
@@ -810,7 +810,7 @@ All this has been set forth at length by the Vākyakāra. 'Knowledge (vedana) me
 उपासनम् इत्य् उक्तम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 i.e. in all Upanishads that knowledge which is enjoined as the means of final release is Meditation.
 </details>
@@ -829,7 +829,7 @@ i.e. in all Upanishads that knowledge which is enjoined as the means of final re
 इति पूर्वपक्षं कृत्वा 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vākyakāra then propounds a pūrvapaksha (primā facie view), 
 
@@ -850,7 +850,7 @@ The Vākyakāra then propounds a pūrvapaksha (primā facie view),
 इति निर्णीतम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and then sums up against this in the words 'but (meditation) is established on account of the term meditation'; that means – knowledge repeated more than once (i.e. meditation) is determined to be the means of Release.
 </details>
@@ -869,7 +869,7 @@ and then sums up against this in the words 'but (meditation) is established on a
 ध्रुवानुस्मृतित्वम् उपवर्णितम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vākyakāra then goes on 'Meditation is steady remembrance, on the ground of observation and statement.' 
 
@@ -888,7 +888,7 @@ That means – this knowledge, of the form of meditation, and repeated more than
 सेयं स्मृतिर् दर्शनरूपा प्रतिपादिता । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such remembrance has been declared to be of the character of 'seeing,' 
 </details>
@@ -906,7 +906,7 @@ Such remembrance has been declared to be of the character of 'seeing,'
 दर्शनरूपता च प्रत्यक्षतापत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and this character of seeing consists in its possessing the character of immediate presentation (pratyakshatā). 
 </details>
@@ -925,7 +925,7 @@ and this character of seeing consists in its possessing the character of immedia
 एवं प्रत्यक्षतापन्नाम् अपवर्ग-साधन-भूतां स्मृतिं विशिनष्टि –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With reference to remembrance, which thus acquires the character of immediate presentation and is the means of final release, scripture makes a further determination, 
 </details>
@@ -949,7 +949,7 @@ With reference to remembrance, which thus acquires the character of immediate pr
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 viz. in the passage Ka. Up. I, 2, 23, 'That Self cannot be gained by the study of the Veda ("reflection"), nor by thought ("meditation"), nor by much hearing. Whom the Self chooses, by him it may be gained; to him the Self reveals its being.' 
 </details>
@@ -977,7 +977,7 @@ viz. in the passage Ka. Up. I, 2, 23, 'That Self cannot be gained by the study o
 इत्युक्तम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This text says at first that mere hearing, reflection, and meditation do not suffice to gain the Self, and then declares, 'Whom the Self chooses, by him it may be gained.' 
 </details>
@@ -996,7 +996,7 @@ This text says at first that mere hearing, reflection, and meditation do not suf
 प्रियतम एव हि वरणीयो भवति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now a 'chosen' one means a most beloved person; 
 </details>
@@ -1014,7 +1014,7 @@ Now a 'chosen' one means a most beloved person;
 स एवास्य प्रियतमो भवति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the relation being that he by whom that Self is held most dear is most dear to the Self. 
 </details>
@@ -1033,7 +1033,7 @@ the relation being that he by whom that Self is held most dear is most dear to t
 इति भगवतैवोक्तम्-  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the Lord (bhagavān) himself endeavours that this most beloved person should gain the Self, he himself declares in the following words, 
 </details>
@@ -1061,7 +1061,7 @@ That the Lord (bhagavān) himself endeavours that this most beloved person shoul
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'To those who are constantly devoted and worship with love I give that knowledge by which they reach me' (Bha. Gī. X, 10), 
 </details>
@@ -1087,7 +1087,7 @@ That the Lord (bhagavān) himself endeavours that this most beloved person shoul
 इति च॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 'To him who has knowledge I am dear above all things, and he is dear to me' (VII, 17). 
 </details>
@@ -1116,7 +1116,7 @@ and 'To him who has knowledge I am dear above all things, and he is dear to me' 
 तेनैव लभ्यते पर आत्मेत्य् उक्तं भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence, he who possesses remembrance, marked by the character of immediate presentation (sākshātkāra), and which itself is dear above all things since the object remembered is such; he, we say, is chosen by the highest Self, and by him the highest Self is gained. 
 </details>
@@ -1141,7 +1141,7 @@ Hence, he who possesses remembrance, marked by the character of immediate presen
 उपासनपर्यायत्वाद् भक्ति-शब्दस्य । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Steady remembrance of this kind is designated by the word 'devotion' (bhakti); for this term has the same meaning as upāsanā (meditation). 
 </details>
@@ -1159,7 +1159,7 @@ Steady remembrance of this kind is designated by the word 'devotion' (bhakti); f
 अत एव श्रुतिस्मृतिभिर् एवम् अभिधीयते –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this reason scripture and smr̥ti agree in making the following declarations, 
 </details>
@@ -1175,7 +1175,7 @@ For this reason scripture and smr̥ti agree in making the following declarations
 > तम् एव विदित्वा ऽतिमृत्युम् एति (श्वे.३.८) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'A man knowing him passes over death' (Śvet. Up. III, 8); 
 </details>
@@ -1192,7 +1192,7 @@ For this reason scripture and smr̥ti agree in making the following declarations
 नान्यः पन्था अयनाय विद्यते (पुरुषसूक्तं.१७)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Knowing him thus he here becomes immortal' (Taitt. Ār. III, 12,7); 
 </details>
@@ -1211,7 +1211,7 @@ For this reason scripture and smr̥ti agree in making the following declarations
 दृष्टवान् असि मां यथा॥ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Neither by the Vedas, nor by austerities, nor by gifts, nor by sacrifice can I be so seen as thou hast seen me. 
 </details>
@@ -1231,7 +1231,7 @@ For this reason scripture and smr̥ti agree in making the following declarations
 (भ.गी.११.५३,५४) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But by devotion exclusive I may in this form be known and seen in truth, O Arjuna, and also be entered into' (Bha. Gī. XI, 53, 54); 
 </details>
@@ -1250,7 +1250,7 @@ For this reason scripture and smr̥ti agree in making the following declarations
 (भ.गी.८.२२) इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'That highest Person, O Pārtha, may be obtained by exclusive devotion' (VIII, 22).
 </details>
@@ -1274,7 +1274,7 @@ For this reason scripture and smr̥ti agree in making the following declarations
 इत्य् अभिधास्यते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That of such steady remembrance sacrifices and so on are means will be declared later on (Ve. Sū. III, 4, 26). 
 </details>
@@ -1291,7 +1291,7 @@ That of such steady remembrance sacrifices and so on are means will be declared 
 यद्यपि "विविदषन्ती"ति यज्ञादयो विविदषोत्पत्तौ विनियुज्यन्ते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Although sacrifices and the like are enjoined with a view to the origination of knowledge (in accordance with the passage 'They desire to know,' Br̥. Up. IV, 4, 22), 
 </details>
@@ -1314,7 +1314,7 @@ Although sacrifices and the like are enjoined with a view to the origination of 
 तद्-उत्पत्तये सर्वाण्य्-आश्रम-कर्माणि यावज्-जीवम् अनुष्ठेयानि । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it is only knowledge in the form of meditation which – being daily practised, constantly improved by repetition, and continued up to death – is the means of reaching Brahman, and hence all the works connected with the different conditions of life are to be performed throughout life only for the purpose of originating such knowledge. 
 </details>
@@ -1333,7 +1333,7 @@ it is only knowledge in the form of meditation which – being daily practised, 
 > आप्रयाणात् - तत्रापि हि दृष्टम् (ब्र.सू.४.१.१२.) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This the Sūtrakāra declares in Ve. Sū. IV, 1, 12; 16; III, 4, 33, and other places. 
 </details>
@@ -1382,7 +1382,7 @@ This the Sūtrakāra declares in Ve. Sū. IV, 1, 12; 16; III, 4, 33, and other p
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vākyakāra also declares that steady remembrance results only from abstention, and so on; his words being 
 
@@ -1405,7 +1405,7 @@ The Vākyakāra also declares that steady remembrance results only from abstenti
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Vākyakāra also gives definitions of all these terms.  
 
@@ -1429,7 +1429,7 @@ The Vākyakāra also gives definitions of all these terms.
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The scriptural passage authorising this point is _Kh._ Up. VII, 26, 'The food being pure, the mind becomes pure; the mind being pure, there results steady remembrance.' 
 </details>
@@ -1447,7 +1447,7 @@ The scriptural passage authorising this point is _Kh._ Up. VII, 26, 'The food be
 विमोकः कामानभिष्वङ्गः (ब्र.न.वा) इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Freeness of mind (vimoka) means absence of attachment to desires. 
 </details>
@@ -1465,7 +1465,7 @@ Freeness of mind (vimoka) means absence of attachment to desires.
 इति निर्वचनम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The authoritative passage here is 'Let him meditate with a calm mind' (_Kh._ Up. III, 14, 1). 
 </details>
@@ -1484,7 +1484,7 @@ The authoritative passage here is 'Let him meditate with a calm mind' (_Kh._ Up.
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Repetition means continued practice. 
 </details>
@@ -1505,7 +1505,7 @@ Repetition means continued practice.
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this point the Bhāshya-kāra quotes an authoritative text from Smr̥ti, viz.: 'Having constantly been absorbed in the thought of that being' (sadā tadbhāvabhāvitaḥ; Bha. Gī.VIII, 6).
 </details>
@@ -1521,7 +1521,7 @@ For this point the Bhāshya-kāra quotes an authoritative text from Smr̥ti, viz
 > पञ्च-महा-यज्ञाद्य्-अनुष्ठानं शक्तितः क्रिया (ब्र.न.वा) । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --By 'works' (kriyā) is understood the performance, according to one's ability, of the five great sacrifices. 
 </details>
@@ -1540,7 +1540,7 @@ For this point the Bhāshya-kāra quotes an authoritative text from Smr̥ti, viz
 > क्रियावान् एष ब्रह्म-विदां वरिष्ठः (मु.३.१.४) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The authoritative passages here are 'This person who performs works is the best of those who know Brahman' (Mu. Up. III, 1, 4); 
 </details>
@@ -1559,7 +1559,7 @@ The authoritative passages here are 'This person who performs works is the best 
 इति च । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 
 
@@ -1578,7 +1578,7 @@ and
 > सत्यार्जव-दया-दानाहिंसानभिध्याः कल्याणानि (ब्र.न.वा) इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --By virtuous conduct (kalyāṇāni) are meant truthfulness, honesty, kindness, liberality, gentleness, absence of covetousness. 
 </details>
@@ -1596,7 +1596,7 @@ and
 > सत्येन लभ्यः (मु.३.१.५) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Confirmatory texts are 'By truth he is to be obtained' (Mu. Up. III, 1, 5) 
 </details>
@@ -1615,7 +1615,7 @@ Confirmatory texts are 'By truth he is to be obtained' (Mu. Up. III, 1, 5)
 इत्यादि । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 'to them belongs that pure Brahman-world' (Pr. Up. I, 16).
 </details>
@@ -1637,7 +1637,7 @@ and 'to them belongs that pure Brahman-world' (Pr. Up. I, 16).
 > तद्-विपर्ययो अनवसादः (ब्र.न.वा)। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --That lowness of spirit or want of cheerfulness which results from unfavourable conditions of place or time and the remembrance of causes of sorrow, is denoted by the term 'dejection'; the contrary of this is 'freedom from dejection.' 
 </details>
@@ -1658,7 +1658,7 @@ and 'to them belongs that pure Brahman-world' (Pr. Up. I, 16).
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The relevant scriptural passage is 'This Self cannot be obtained by one lacking in strength' (Mu. Up. III, 2, 4).
 </details>
@@ -1680,7 +1680,7 @@ The relevant scriptural passage is 'This Self cannot be obtained by one lacking 
 > तद्-विपर्ययो ऽनुद्धर्षः (ब्र.न.वा) । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Exultation' is that satisfaction of mind which springs from circumstances opposite to those just mentioned; the contrary is 'absence of exultation.
 </details>
@@ -1696,7 +1696,7 @@ The relevant scriptural passage is 'This Self cannot be obtained by one lacking 
 अतिसन्तोषश् च विरोधीत्यर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Overgreat satisfaction also stands in the way (of meditation). 
 </details>
@@ -1713,7 +1713,7 @@ Overgreat satisfaction also stands in the way (of meditation).
 निर्वर्चनमपि – शान्तो दान्तः(बृ.६.४.२३) इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The scriptural passage for this is 'Calm, subdued,' &c. (Br̥. Up. IV, 4, 23).
 </details>
@@ -1734,7 +1734,7 @@ The scriptural passage for this is 'Calm, subdued,' &c. (Br̥. Up. IV, 4, 23).
 विद्या-निष्पत्तिर् इत्य् उक्तं भवति॥ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --What the Vākyakāra means to say is therefore that knowledge is realised only through the performance of the duly prescribed works, on the part of a person fulfilling all the enumerated conditions.
 </details>
@@ -1755,7 +1755,7 @@ The scriptural passage for this is 'Calm, subdued,' &c. (Br̥. Up. IV, 4, 23).
 (ई.११) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Analogously another scriptural passage says 'He who knows both knowledge and non-knowledge together, overcoming death by non-knowledge reaches the Immortal through knowledge' (Īs. Up. II). 
 </details>
@@ -1772,7 +1772,7 @@ Analogously another scriptural passage says 'He who knows both knowledge and non
 अत्राविद्या-शब्दाभिहितं वर्णाश्रम-विहितं कर्म । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here the term 'non-knowledge' denotes the works enjoined on the different castes and āśramas; 
 </details>
@@ -1788,7 +1788,7 @@ Here the term 'non-knowledge' denotes the works enjoined on the different castes
 अविद्यया – कर्मणा, मृत्युं – ज्ञानोत्पत्ति-विरोधि प्राचीनं कर्म, तीर्त्वा – अपोह्य, विद्यया – ज्ञानेन, अमृतं – ब्रह्म। अश्नुते – प्राप्नोतीत्यर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the meaning of the text is that, having discarded by such works death, i.e. the previous works antagonistic to the origination of knowledge, a man reaches the Immortal, i.e. Brahman, through knowledge. 
 </details>
@@ -1804,7 +1804,7 @@ and the meaning of the text is that, having discarded by such works death, i.e. 
 मृत्युतरणोपायतया प्रतीता अविद्या विद्येतरद्विहितं कर्मैव, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The non-knowledge of which this passage speaks as being the means of overcoming death can only mean that which is other than knowledge, viz. prescribed works. 
 </details>
@@ -1828,7 +1828,7 @@ The non-knowledge of which this passage speaks as being the means of overcoming 
 इति॥ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word has the same sense in the following passage: 'Firm in traditional knowledge he offered many sacrifices, leaning on the knowledge of Brahman, so as to pass beyond death by non-knowledge' (Vi. Pu. VI, 6, l2).
 </details>
@@ -1845,7 +1845,7 @@ The word has the same sense in the following passage: 'Firm in traditional knowl
 ज्ञान-विरोधि च कर्म पुण्य-पाप-रूपम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Antagonistic to knowledge (as said above) are all good and evil actions, 
 </details>
@@ -1862,7 +1862,7 @@ The word has the same sense in the following passage: 'Firm in traditional knowl
 उभयोर् अपि पाप-शब्दाभिधेयत्वम् । +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and hence – as equally giving rise to an undesirable result – they may both be designated as evil. 
 </details>
@@ -1881,7 +1881,7 @@ and hence – as equally giving rise to an undesirable result – they may both 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 They stand in the way of the origination of knowledge in so far as they strengthen the elements of passion and darkness which are antagonistic to the element of goodness which is the cause of the rise of knowledge. 
 </details>
@@ -1902,7 +1902,7 @@ They stand in the way of the origination of knowledge in so far as they strength
 इति श्रुत्या ऽवगम्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That evil works stand in the way of such origination, the following scriptural text declares: 'He makes him whom he wishes to lead down from these worlds do an evil deed' (Ka. Up. III, 8). 
 </details>
@@ -1923,7 +1923,7 @@ That evil works stand in the way of such origination, the following scriptural t
 इत्य्-आदिना । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That passion and darkness veil the knowledge of truth while goodness on the other hand gives rise to it, the Divine one has declared himself, in the passage 'From goodness springs knowledge' (Bha. Gī. XIV, 17). 
 </details>
@@ -1940,7 +1940,7 @@ That passion and darkness veil the knowledge of truth while goodness on the othe
 अतश् च ज्ञानोत्पत्तये पापं कर्म निरसनीयम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence, in order that knowledge may arise, evil works have to be got rid of, 
 </details>
@@ -1956,7 +1956,7 @@ Hence, in order that knowledge may arise, evil works have to be got rid of,
 तन्निरसनं च अनभिसंहितफलेनानुष्ठितेन धर्मेण। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and this is effected by the performance of acts of religious duty not aiming at some immediate result (such as the heavenly world and the like); 
 </details>
@@ -1976,7 +1976,7 @@ and this is effected by the performance of acts of religious duty not aiming at 
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 according to the text 'by works of religious duty he discards all evil.' 
 </details>
@@ -1994,7 +1994,7 @@ according to the text 'by works of religious duty he discards all evil.'
 सर्वाश्रम-कर्मापेक्षम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Knowledge which is the means of reaching Brahman, thus requires the works prescribed for the different āśramas; 
 </details>
@@ -2014,7 +2014,7 @@ Knowledge which is the means of reaching Brahman, thus requires the works prescr
 सैवापेक्षिता ब्रह्म-जिज्ञासायाः पूर्ववृत्ता वक्तव्या॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and hence the systematic enquiry into works (i. e. the Pūrva Mīmāṁsā)--from which we ascertain the nature of the works required and also the transitoriness and limitation of the fruits of mere works – forms a necessary antecedent to the systematic enquiry into Brahman. 
 </details>
@@ -2034,7 +2034,7 @@ and hence the systematic enquiry into works (i. e. the Pūrva Mīmāṁsā)--fro
 मीमांसा-श्रवणम् अन्तरेण न सम्पत्स्यन्ते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover the discrimination of permanent and non-permanent things, &c. (i.e. the tetrad of 'means' mentioned above, p. 11) cannot be accomplished without the study of the Mīmāṁsā; 
 </details>
@@ -2052,7 +2052,7 @@ Moreover the discrimination of permanent and non-permanent things, &c. (i.e. the
 कर्म--स्व-रूप-- तत्-फल-स्थिरत्वात्म-नित्यत्वादीनां दुरवबोधत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for unless we ascertain all the distinctions of fruits of works, means, modes of procedure and qualification (on the part of the agent) we can hardly understand the true nature of works, their fruits, the transitoriness or non-transitoriness of the latter, the permanence of the Self, and similar matters. 
 </details>
@@ -2069,7 +2069,7 @@ for unless we ascertain all the distinctions of fruits of works, means, modes of
 एषां साधनत्वं च विनियोगावसेयम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That those conditions (viz. nityānityavastuviveka, śama, dama, &c.) are 'means' must be determined on the basis of viniyoga ('application' which determines the relation of principal and subordinate matters – angin and anga); 
 </details>
@@ -2085,7 +2085,7 @@ That those conditions (viz. nityānityavastuviveka, śama, dama, &c.) are 'means
 विनियोगश् च श्रुति-लिङ्गादिभ्यः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and this viniyoga which depends on direct scriptural statement (śruti), inferential signs (linga), and so on, 
 </details>
@@ -2100,7 +2100,7 @@ and this viniyoga which depends on direct scriptural statement (śruti), inferen
 स च तार्तीयः +++(कर्म-मीमांसा-भागेषु)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 is treated of in the third book of the Pūrva Mīmāṁsā-sūtras. 
 </details>
@@ -2119,7 +2119,7 @@ is treated of in the third book of the Pūrva Mīmāṁsā-sūtras.
 इहैव चिन्तनीयानि । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And further we must, in this connexion, consider also the meditations on the Udgītha and similar things – which, although aiming at the success of works, are of the nature of reflections on Brahman (which is viewed in them under various forms)--and as such have reference to knowledge of Brahman. 
 </details>
@@ -2136,7 +2136,7 @@ And further we must, in this connexion, consider also the meditations on the Udg
 तत्--साद्-गुण्यापादनान्य् एतानि सुतराम् इहैव सङ्गतानि। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Those works also (with which these meditations are connected) aim at no special results of their own, and produce and help to perfect the knowledge of Brahman: they are therefore particularly connected with the enquiry into Brahman. 
 </details>
@@ -2153,7 +2153,7 @@ Those works also (with which these meditations are connected) aim at no special 
 तेषां च कर्म--स्व-रूपाधिगमापेक्षा सर्व-सम्मता ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that these meditations presuppose an understanding of the nature of works is admitted by every one.
 </details>

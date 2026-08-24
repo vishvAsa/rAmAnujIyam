@@ -11,7 +11,7 @@ title = "०९ भगवद्-गीतायां बहुत्वाद�
 ऐक्याभिधानम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The passage in the Bhagavad Gītā, 'Know me to be the kshetrajña' (XIII, 2), teaches the oneness of all in so far as the highest Self is the inward ruler of all; 
 </details>
@@ -34,7 +34,7 @@ The passage in the Bhagavad Gītā, 'Know me to be the kshetrajña' (XIII, 2), t
 इत्य् आदिभिर् विरोधः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 taken in any other sense it would be in conflict with other texts, such as 'All creatures are the Perishable, the unchanging soul is the Imperishable; but another is the highest Person' (Bha. Gī. XV, 16).
 </details>
@@ -60,7 +60,7 @@ taken in any other sense it would be in conflict with other texts, such as 'All 
 इति च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In other places the Divine one declares that as inward Ruler he is the Self of all: 'The Lord dwells in the heart of all creatures' (XVIII, 61), and 'I dwell within the heart of all' (XV, 15). and 'I am the Self which has its abode within all creatures' (X, 20). The term 'creature' in these passages denotes the entire aggregate of body, &c., up to the Self.--
 </details>
@@ -98,7 +98,7 @@ In other places the Divine one declares that as inward Ruler he is the Self of a
 इति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Because he is the Self of all, the text expressly denies that among all the things constituting his body there is any one separate from him,'There is not anything which is without me' (X, 39). The place where this text occurs is the winding up of a glorification of the Divine one, and the text has to be understood accordingly. 
 </details>
@@ -127,7 +127,7 @@ Because he is the Self of all, the text expressly denies that among all the thin
 इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The passage immediately following is 'Whatever being there is, powerful, beautiful, or glorious, even that know thou to have sprung from a portion of my glory; pervading this entire Universe by a portion of mine I do abide' (X, 41; 42).
 </details>
@@ -147,7 +147,7 @@ The passage immediately following is 'Whatever being there is, powerful, beautif
 नापि चिद्-अचिद्-ईश्वराणां स्वरूप-भेद-निषेधः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All this clearly proves that the authoritative books do _not_ teach the doctrine of one non-differenced substance; that they do _not_ teach that the universe of things is false; and that they do _not_ deny the essential distinction of intelligent beings, non-intelligent things, and the Lord.
 </details>

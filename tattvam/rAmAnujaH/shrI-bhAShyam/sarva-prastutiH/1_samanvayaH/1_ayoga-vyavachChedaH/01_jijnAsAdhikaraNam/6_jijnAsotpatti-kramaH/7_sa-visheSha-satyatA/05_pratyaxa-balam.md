@@ -2,7 +2,7 @@
 title = "०५ प्रत्यक्ष-बलम्"
 +++
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In cases of Scripture conflicting with Perception, Scripture is not stronger. The True cannot be known through the Untrue.
 </details>
@@ -18,7 +18,7 @@ In cases of Scripture conflicting with Perception, Scripture is not stronger. Th
 इति
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With reference to the assertion (p. 24 ff.) that Perception, which depends on the view of plurality, is based on some defect and hence admits of being otherwise accounted for – whence it follows that it is sublated by Scripture;
 </details>
@@ -34,7 +34,7 @@ With reference to the assertion (p. 24 ff.) that Perception, which depends on th
 यन्-मूलतया प्रत्यक्षस्यान्यथा-सिद्धिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we ask you to point out what defect it is on which Perception is based and may hence be accounted for otherwise.
 </details>
@@ -51,7 +51,7 @@ we ask you to point out what defect it is on which Perception is based and may h
 इति चेत्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --' The beginningless imagination of difference' we expect you to reply.--
 </details>
@@ -69,7 +69,7 @@ we ask you to point out what defect it is on which Perception is based and may h
 किम् अन्यत्र ज्ञात-पूर्वम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, we ask in return, have you then come to know by some other means that this beginningless imagination of difference, acting in a manner analogous to that of certain defects of vision, is really the cause of an altogether perverse view of things?
 </details>
@@ -86,7 +86,7 @@ But, we ask in return, have you then come to know by some other means that this 
 इति चेत्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --If you reply that this is known just from the fact that Perception is in conflict with Scripture,
 </details>
@@ -105,7 +105,7 @@ But, we ask in return, have you then come to know by some other means that this 
 शास्त्रस्य निरस्त-निखिल-विशेष-वस्तु-- बोधित्व-निश्चय इति।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we point out that you are reasoning in a circle: you prove the defectiveness of the imagination of plurality through the fact that Scripture tells us about a substance devoid of all difference; and at the same time you prove the latter point through the former.
 </details>
@@ -123,7 +123,7 @@ we point out that you are reasoning in a circle: you prove the defectiveness of 
 शास्त्रम् अपि तन्-मूलत्वेन तथैव स्यात्।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, if Perception gives rise to perverse cognition because it is based on the imagination of plurality, Scripture also is in no better case – for it is based on the very same view.--
 </details>
@@ -145,7 +145,7 @@ Moreover, if Perception gives rise to perverse cognition because it is based on 
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If against this you urge that Scripture, although based on a defect, yet sublates Perception in so far as it is the cause of a cognition which dispels all plurality apprehended through Perception, and thus is later in order than Perception;
 </details>
@@ -162,7 +162,7 @@ If against this you urge that Scripture, although based on a defect, yet sublate
 परत्वम् अकिञ्चित्-करम् -  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we rejoin that the defectiveness of the foundation of Scripture having once been recognised, the circumstance of its being later is of no avail.
 </details>
@@ -180,7 +180,7 @@ we rejoin that the defectiveness of the foundation of Scripture having once been
 भयानिवृत्ति-दर्शनात्।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if a man is afraid of a rope which he mistakes for a snake his fear does not come to an end because another man, whom he considers to be in error himself, tells him 'This is no snake, do not be afraid.'
 </details>
@@ -197,7 +197,7 @@ For if a man is afraid of a rope which he mistakes for a snake his fear does not
 श्रवणावगत-निखिल-भेदोपमर्दि- ब्रह्मात्मैकत्व-विज्ञानाभ्यास-रूपत्वान् मननादेः॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that Scripture is founded on something defective is known at the very time of hearing Scripture,
 
@@ -219,7 +219,7 @@ for the reflection (which follows on hearing) consists in repeated attempts to c
 इति केनावगतं त्वया? +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We further ask, 'By what means do you arrive at the conclusion that Scripture cannot possibly be assumed to be defective in any way, while defects may be ascribed to Perception'?
 </details>
@@ -237,7 +237,7 @@ We further ask, 'By what means do you arrive at the conclusion that Scripture ca
 शास्त्र-पक्ष-पात-विरहाच् च।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is certainly not Consciousness – self-proved and absolutely devoid of all difference – which enlightens you on this point; for such Consciousness is unrelated to any objects whatever, and incapable of partiality to Scripture.
 </details>
@@ -253,7 +253,7 @@ It is certainly not Consciousness – self-proved and absolutely devoid of all d
 दोष-मूलत्वेन विपरीतार्थत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can sense-perception be the source of your conviction; for as it is founded on what is defective it gives perverse information.
 </details>
@@ -269,7 +269,7 @@ Nor can sense-perception be the source of your conviction; for as it is founded 
 नान्यान्य् अपि प्रमाणानि।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor again the other sources of knowledge; for they are all based on sense-perception.
 </details>
@@ -285,7 +285,7 @@ Nor again the other sources of knowledge; for they are all based on sense-percep
 न स्वाभिमतार्थ-सिद्धिः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As thus there are no acknowledged means of knowledge to prove your view, you must give it up.
 </details>
@@ -301,7 +301,7 @@ As thus there are no acknowledged means of knowledge to prove your view, you mus
 > ननु व्यावहारिक-प्रमाण-प्रमेय-व्यवहारो ऽस्माकम् अप्य् अस्त्य् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, you will perhaps say, we proceed by means of the ordinary empirical means and objects of knowledge!--
 </details>
@@ -316,7 +316,7 @@ But, you will perhaps say, we proceed by means of the ordinary empirical means a
 को ऽयम् व्यावहारिको नाम?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What, we ask in reply, do you understand by 'empirical'?
 </details>
@@ -335,7 +335,7 @@ What, we ask in reply, do you understand by 'empirical'?
 इति चेत्, किं तेन प्रयोजनम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What rests on immediate unreflective knowledge, but is found not to hold good when tested by logical reasoning!--But what is the use, we ask, of knowledge of this kind?
 </details>
@@ -352,7 +352,7 @@ What rests on immediate unreflective knowledge, but is found not to hold good wh
 प्रमाण-कार्याभावात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If logical reasoning refutes something known through some means of knowledge, that means of knowledge is no longer authoritative!--
 </details>
@@ -375,7 +375,7 @@ If logical reasoning refutes something known through some means of knowledge, th
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now you will possibly argue as follows: 
 
@@ -394,7 +394,7 @@ For as the object of Scripture, i.e. Brahman, which is one and without a second,
 अबाधितस्यापि दोष-मूलस्यापारमार्थ्य-निश्चयात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But here too you are wrong, since we must decide that something which rests on a defect is unreal, although it may remain unrefuted.
 </details>
@@ -413,7 +413,7 @@ But here too you are wrong, since we must decide that something which rests on a
 तिमिर-दोषाविशेषेण द्वि-चन्द्र-ज्ञानम् अविशिष्टं जायते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We will illustrate this point by an analogous instance. Let us imagine a race of men afflicted with a certain special defect of vision, without being aware of this their defect, dwelling in some remote mountain caves inaccessible to all other men provided with sound eyes. As we assume all of these cave dwellers to be afflicted with the same defect of vision, they, all of them, will equally see and judge bright things, e.g. the moon, to be double.
 </details>
@@ -430,7 +430,7 @@ We will illustrate this point by an analogous instance. Let us imagine a race of
 तद्-विषय-भूतं द्वि-चन्द्रत्वम् अपि मिथ्यैव। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now in the case of these people there never arises a subsequent cognition sublating their primitive cognition; but the latter is false all the same, and its object, viz., the doubleness of the moon, is false likewise;
 </details>
@@ -445,7 +445,7 @@ Now in the case of these people there never arises a subsequent cognition sublat
 दोषो ह्य् अ-यथार्थ-ज्ञान-हेतुः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the defect of vision being the cause of a cognition not corresponding to reality.--
 </details>
@@ -462,7 +462,7 @@ the defect of vision being the cause of a cognition not corresponding to reality
 स्व-विषयेण ब्रह्मणा सह मिथ्यैवेति।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And so it is with the cognition of Brahman also. This cognition is based on Nescience, and therefore is false, together with its object, viz. Brahman, although no sublating cognition presents itself.--
 </details>
@@ -482,7 +482,7 @@ And so it is with the cognition of Brahman also. This cognition is based on Nesc
 अविद्यावत+++(→)+++ उत्पन्न-ज्ञान-विषयत्वात्, प्रपञ्च-वत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This conclusion admits of various expressions in logical form. 'The Brahman under dispute is false because it is the object of knowledge which has sprung from what is affected with Nescience; as the phenomenal world is.'
 </details>
@@ -497,7 +497,7 @@ This conclusion admits of various expressions in logical form. 'The Brahman unde
 ब्रह्म मिथ्या, ज्ञान-विषयत्वात्, प्रपञ्च-वत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Brahman is false because it is the object of knowledge; as the world is.'
 </details>
@@ -514,7 +514,7 @@ This conclusion admits of various expressions in logical form. 'The Brahman unde
 प्रपञ्चवद् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Brahman is false because it is the object of knowledge, the rise of which has the Untrue for its cause; as the world is.'
 </details>
@@ -538,7 +538,7 @@ This conclusion admits of various expressions in logical form. 'The Brahman unde
 इति, स्वाप्न-ज्ञानस्यासत्यत्वाभावात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You will now perhaps set forth the following analogy. States of dreaming consciousness – such as the perception of elephants and the like in one's dreams – are unreal, and yet they are the cause of the knowledge of real things, viz. good or ill fortune (portended by those dreams). Hence there is no reason why Scripture – although unreal in so far as based on Nescience – should not likewise be the cause of the cognition of what is real, viz. Brahman.--The two cases are not parallel, we reply. The conscious states experienced in dreams are not unreal;
 </details>
@@ -555,7 +555,7 @@ You will now perhaps set forth the following analogy. States of dreaming conscio
 न ज्ञानस्य। +++(5)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it is only their objects that are false; these objects only, not the conscious states, are sublated by the waking consciousness. 
 </details>
@@ -575,7 +575,7 @@ it is only their objects that are false; these objects only, not the conscious s
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nobody thinks 'the cognitions of which I was conscious in my dream are unreal';
 </details>
@@ -593,7 +593,7 @@ Nobody thinks 'the cognitions of which I was conscious in my dream are unreal';
 अर्था न सन्तीति हि बाधक-प्रत्ययः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 what men actually think is 'the cognitions are real, but the things are not real.'
 </details>
@@ -610,7 +610,7 @@ what men actually think is 'the cognitions are real, but the things are not real
 तत्रापि ज्ञानस्याबाधितत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way the illusive state of consciousness which the magician produces in the minds of other men by means of mantras, drugs, &c., is true, and hence the cause of love and fear; for such states of consciousness also are not sublated.
 </details>
@@ -626,7 +626,7 @@ In the same way the illusive state of consciousness which the magician produces 
 सत्यम् एव भयादि-हेतुः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The cognition which, owing to some defect in the object, the sense organ, &c., apprehends a rope as a snake is real, and hence the cause of fear and other emotions.
 </details>
@@ -643,7 +643,7 @@ The cognition which, owing to some defect in the object, the sense organ, &c., a
 सत्यैव शङ्का-विष-बुद्धिर् मरण-हेतु-भूता।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 True also is the imagination which, owing to the nearness of a snake, arises in the mind of a man though not actually bitten, viz. that he has been bitten; true also is the representation of the imagined poison, for it may be the cause of actual death.
 </details>
@@ -659,7 +659,7 @@ True also is the imagination which, owing to the nearness of a snake, arises in 
 वस्तु-भूत--मुख-गत-विशेष --निश्चय-हेतुः।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way the reflection of the face in the water is real, and hence enables us to ascertain details belonging to the real face.
 </details>
@@ -676,7 +676,7 @@ In the same way the reflection of the face in the water is real, and hence enabl
 सत्यत्वम् अवसीयते।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All these states of consciousness are real, as we conclude from their having a beginning and actual effects.--
 </details>
@@ -696,7 +696,7 @@ All these states of consciousness are real, as we conclude from their having a b
 बुद्धीनां सालम्बनत्व-मात्र-नियमात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor would it avail you to object that in the absence of real elephants, and so on, the ideas of them cannot be real. For ideas require only _some_ substrate in general;
 </details>
@@ -713,7 +713,7 @@ Nor would it avail you to object that in the absence of real elephants, and so o
 प्रतिभासमानता चास्त्य् एव दोष-वशात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the mere appearance of a thing is a sufficient substrate, and such an appearance is present in the case in question, owing to a certain defect.
 </details>
@@ -729,7 +729,7 @@ the mere appearance of a thing is a sufficient substrate, and such an appearance
 इत्य् अवसीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The thing we determine to be unreal because it is sublated;
 </details>
@@ -745,7 +745,7 @@ The thing we determine to be unreal because it is sublated;
 सत्यैवेत्य् उक्तम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the idea is non-sublated, and therefore real.
 </details>
@@ -764,7 +764,7 @@ the idea is non-sublated, and therefore real.
 रेखायास् सत्यत्वात् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can you quote in favour of your view – of the real being known through the unreal – the instance of the stroke and the letter. The letter being apprehended through the stroke (i.e. the written character) does not furnish a case of the real being apprehended through the unreal; for the stroke itself is real.--
 </details>
@@ -782,7 +782,7 @@ Nor can you quote in favour of your view – of the real being known through the
 वर्णात्मता त्व् असत्या।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But the stroke causes the idea of the letter only in so far as it is apprehended as being a letter,
 and this 'being a letter' is untrue!--
@@ -799,7 +799,7 @@ and this 'being a letter' is untrue!--
 नैवम्, वर्णात्मताया असत्याया उपायत्वायोगात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Not so, we rejoin. If this 'being a letter' were unreal it could not be a means of the apprehension of the letter;
 </details>
@@ -815,7 +815,7 @@ Not so, we rejoin. If this 'being a letter' were unreal it could not be a means 
 न दृष्टम् अनुपपन्नं च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for we neither observe nor can prove that what is non-existent and indefinable constitutes a means.--
 </details>
@@ -832,7 +832,7 @@ for we neither observe nor can prove that what is non-existent and indefinable c
 बुद्धेस् सत्यत्वाद् एव,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Let then the idea of the letter constitute the means!--In that case, we rejoin, the apprehension of the real does not spring from the unreal; 
 </details>
@@ -848,7 +848,7 @@ Let then the idea of the letter constitute the means!--In that case, we rejoin, 
 उभयोर् वर्ण-बुद्धित्वाविशेषात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and besides, it would follow therefrom that the means and what is to be effected thereby would be one, i.e. both would be, without any distinction, the idea of the letter only.
 </details>
@@ -865,7 +865,7 @@ and besides, it would follow therefrom that the means and what is to be effected
 एक-रेखा-दर्शनात् सर्व-वर्ण-प्रतिपत्तिस् स्यात्।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, if the means were constituted by the stroke in so far as it is _not_ the letter, the apprehension of all letters would result from the sight of one stroke; for one stroke may easily be conceived as _not_ being _any_ letter.--
 </details>
@@ -886,7 +886,7 @@ Moreover, if the means were constituted by the stroke in so far as it is _not_ t
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, in the same way as the word 'Devadatta' conventionally denotes some particular man, so some particular stroke apprehended by the eye may conventionally symbolise some particular letter to be apprehended by the ear, and thus a particular stroke may be the cause of the idea of a particular letter!--
 </details>
@@ -904,7 +904,7 @@ But, in the same way as the word 'Devadatta' conventionally denotes some particu
 सादृश्यं च सत्यम् एव॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Quite so, we reply, but on this explanation the real is known through the real; for both stroke and conventional power of symbolisation are real. The case is analogous to that of the idea of a buffalo being caused by the picture of a buffalo; that idea rests on the similarity of picture and thing depicted, and that similarity is something real.
 </details>
@@ -928,7 +928,7 @@ Quite so, we reply, but on this explanation the real is known through the real; 
 अर्थ-भेद-बुद्ध्य्-उत्पत्ति-हेतुत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be said (with a view to proving the pūrvapaksha by another analogous instance) that  
 we meet with a cognition of the real by means of the unreal in the case of sound (śabda)  
@@ -939,7 +939,7 @@ in so far only as we apprehend the connexion of sound manifesting itself in vari
 with the different things indicated by those various tones [fn_13].
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Thibaut - Notes</summary>
 
 [fn_13]: 77:1 And those manifestations of sound by means of various tones are themselves something real.
 </details>
@@ -956,7 +956,7 @@ with the different things indicated by those various tones [fn_13].
 श्रोत्र-ग्राह्यत्वेन शब्दत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And, moreover, it is not correct to argue on the ground of the uniformity of sound; for only particular significant sounds such as 'ga,' which can be apprehended by the ear, are really 'sound.'--
 </details>
@@ -972,7 +972,7 @@ And, moreover, it is not correct to argue on the ground of the uniformity of sou
 सत्य-ब्रह्म-विषय-प्रतिपत्तिर् दुरुपपादा॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All this proves that it is difficult indeed to show that the knowledge of a true thing, viz. Brahman, can be derived from Scripture, if Scripture – as based on Nescience – is itself untrue.
 </details>
@@ -990,7 +990,7 @@ All this proves that it is difficult indeed to show that the knowledge of a true
 प्राग् अद्वैत-ज्ञानात् सद्-बुद्धि-बोध्यत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Our opponent may finally argue as follows:--Scripture is not unreal in the same sense as a sky-flower is unreal; for antecedently to the cognition of universal non-duality Scripture is viewed as something that is,
 </details>
@@ -1005,7 +1005,7 @@ Our opponent may finally argue as follows:--Scripture is not unreal in the same 
 > उत्पन्ने तत्त्व-ज्ञाने ह्य् असत्यत्वं शास्त्रस्य।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and only on the rise of that knowledge it is seen to be unreal.
 </details>
@@ -1021,7 +1021,7 @@ and only on the rise of that knowledge it is seen to be unreal.
 निरस्त-निखिल-भेद-- चिन्मात्र-ब्रह्म-ज्ञानोपायः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 At this latter time Scripture no longer is a means of cognising Brahman, devoid of all difference, consisting of pure Intelligence;
 </details>
@@ -1037,7 +1037,7 @@ At this latter time Scripture no longer is a means of cognising Brahman, devoid 
 अस्तीति बुद्धेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 as long on the other hand as it is such a means, Scripture is; for then we judge 'Scripture is.'--
 </details>
@@ -1053,7 +1053,7 @@ as long on the other hand as it is such a means, Scripture is; for then we judge
 नैवम्; असति शास्त्रे, अस्ति शास्त्रम् इति बुद्धेर् मिथ्यात्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But to this we reply that if Scripture is not (true), the judgment 'Scripture is' is false,
 </details>
@@ -1068,7 +1068,7 @@ But to this we reply that if Scripture is not (true), the judgment 'Scripture is
 > ततः किम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And what of that?
 </details>
@@ -1085,7 +1085,7 @@ And what of that?
 तद्-विषयस्यापि ब्रह्मणो मिथ्यात्वम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This is why: the knowledge resting on false Scripture being false likewise, the object of that knowledge, i.e. Brahman itself, is false.
 </details>
@@ -1101,7 +1101,7 @@ This is why: the knowledge resting on false Scripture being false likewise, the 
 मिथ्यात्वेन तद्-विषयस्याग्नेर् अपि मिथ्यात्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the cognition of fire which rests on mist being mistaken for smoke is false, it follows that the object of that cognition, viz. fire itself, is likewise unreal.
 </details>
@@ -1119,7 +1119,7 @@ If the cognition of fire which rests on mist being mistaken for smoke is false, 
 तस्यापि बाध-दर्शनात्।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be shown that (in the case of Brahman) there is no possibility of ulterior sublative cognition; for there may be such sublative cognition, viz. the one expressed in the judgment 'the Reality is a Void.'
 </details>
@@ -1135,7 +1135,7 @@ Nor can it be shown that (in the case of Brahman) there is no possibility of ult
 "एतद् अपि भ्रान्ति-मूलम्" इति त्वयैवोक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if you say that this latter judgment rests on error, we point out that according to yourself the knowledge of Brahman is also based on error.
 </details>
@@ -1151,7 +1151,7 @@ And if you say that this latter judgment rests on error, we point out that accor
 अलम् अप्रतिष्ठित-कुतर्क-परिहसनेन॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And of our judgment (viz. 'the Reality is a Void') it may truly be said that all further negation is impossible.--But there is no need to continue this demolition of an altogether baseless theory.
 </details>

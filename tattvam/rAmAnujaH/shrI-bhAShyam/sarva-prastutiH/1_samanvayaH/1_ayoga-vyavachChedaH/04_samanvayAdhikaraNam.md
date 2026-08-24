@@ -148,7 +148,7 @@ title = "०४ समन्वयाधिकरणम्"
 इति वेदान्तवाक्यैर् अभेदः प्रतीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this bhedābheda view the Pūrvapakshin now objects on the following grounds:--The whole aggregate of Vedānta-texts aims at enjoining meditation on a non-dual Brahman whose essence is reality, intelligence, and bliss, and thus sets forth the view of non-difference;
 </details>
@@ -172,7 +172,7 @@ To this bhedābheda view the Pūrvapakshin now objects on the following grounds:
 भेदः प्रतीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while on the other hand the karma-section of the Veda, and likewise perception and the other means of knowledge, intimate the view of the difference of things.
 </details>
@@ -190,7 +190,7 @@ while on the other hand the karma-section of the Veda, and likewise perception a
 इत्य् उक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now, as difference and non-difference are contradictory, and as the view of difference may be accounted for as resting on beginningless Nescience, we conclude that universal non-difference is what is real.
 </details>
@@ -210,7 +210,7 @@ Now, as difference and non-difference are contradictory, and as the view of diff
 इति -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The tenet that difference and non-difference are not contradictory because both are proved by our consciousness, cannot be upheld.
 </details>
@@ -233,7 +233,7 @@ The tenet that difference and non-difference are not contradictory because both 
 तस्मात् तस्य भेदः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If one thing has different characteristics from another there is distinction (bheda) of the two;
 </details>
@@ -257,7 +257,7 @@ If one thing has different characteristics from another there is distinction (bh
 तद्-विपरीतत्वं चाभेदः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the contrary condition of things constitutes non-distinction (abheda);
 </details>
@@ -279,7 +279,7 @@ the contrary condition of things constitutes non-distinction (abheda);
 अनुन्मत्तः को ब्रवीति?+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 who in his senses then would maintain that these two-suchness and non-suchness – can be found together?
 </details>
@@ -315,7 +315,7 @@ who in his senses then would maintain that these two-suchness and non-suchness �
 इति चेत् – न, विकल्पासहत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You have maintained that non-difference belongs to a thing viewed as cause and genus, and difference to the same viewed as effect and individual; and that, owing to this twofold aspect of things, non-difference and difference are not irreconcileable. 
 
@@ -342,7 +342,7 @@ But that this view also is untenable, a presentation of the question in definite
 उताकार-द्वय-योगि-वस्तु-गताव् उभाव् अपीति?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Do you mean to say that the difference lies in one aspect of the thing and the non-difference in the other? or that difference _and_ non-difference belong to the thing possessing two aspects?
 </details>
@@ -368,7 +368,7 @@ Do you mean to say that the difference lies in one aspect of the thing and the n
 नैकस्य +++(वस्तुन्तो)+++ द्व्य्-आत्मकता।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the former alternative the difference belongs to the individual and the non-difference to the genus; and this implies that there is no one thing with a double aspect.
 </details>
@@ -397,7 +397,7 @@ On the former alternative the difference belongs to the individual and the non-d
 तर्ह्य् आकार-भेदाद् अविरोधः परित्यक्तः स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And should you say that the genus and individual together constitute one thing only, you abandon the view that it is difference of aspect which takes away the contradictoriness of difference and non-difference.
 </details>
@@ -420,7 +420,7 @@ And should you say that the genus and individual together constitute one thing o
 विलक्षणत्व--तद्-विपर्ययौ विरुद्धाव् इत्य् उक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We have moreover remarked already that difference in characteristics and its opposite are absolutely contradictory.
 </details>
@@ -449,7 +449,7 @@ We have moreover remarked already that difference in characteristics and its opp
 न पुनर् अ-भेदः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the second alternative we have two aspects of different kind and an unknown thing supposed to be the substrate of those aspects; but this assumption of a triad of entities proves only their mutual difference of character, not their non-difference.
 </details>
@@ -482,7 +482,7 @@ On the second alternative we have two aspects of different kind and an unknown t
 स्वस्मिन् विरुद्ध-धर्म-द्वय-समावेश-निर्वाहकं कथं भवेत्?।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Should you say that the non-contradictoriness of two aspects constitutes simultaneous difference and non-difference in the thing which is their substrate, we ask in return – How can two aspects which have a thing for their substrate, and thus are different from the thing, introduce into that thing a combination of two contradictory attributes (viz. difference and non-difference)?
 </details>
@@ -513,7 +513,7 @@ Should you say that the non-contradictoriness of two aspects constitutes simulta
 अविलक्षणं तु कथन्तराम् +++(विरुद्ध-धर्म-सत्त्वम्)+++?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And much less even are they able to do so if they are viewed as non-different from the thing which is their substrate.
 </details>
@@ -540,7 +540,7 @@ And much less even are they able to do so if they are viewed as non-different fr
 निर्वाहकान्तरापेक्षया ऽनवस्था स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, moreover, the two aspects on the one hand, and the thing in which they inhere on the other, be admitted to be distinct entities, there will be required a further factor to bring about their difference and non-difference, and we shall thus be led into a _regressus in infinitum._
 </details>
@@ -569,7 +569,7 @@ If, moreover, the two aspects on the one hand, and the thing in which they inher
 यतः - "इदम् इत्थम्" इति सर्वत्र प्रकार-प्रकारितयैव सर्वा प्रतीतिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is it a fact that the idea of a thing inclusive of its generic character bears the character of unity, in the same way as the admittedly uniform idea of an individual; for wherever a state of consciousness expresses itself in the form 'this is such and such' it implies the distinction of an attribute or mode, and that to which the attribute or mode belongs.
 </details>
@@ -591,7 +591,7 @@ Nor is it a fact that the idea of a thing inclusive of its generic character bea
 तत्र प्रकारांशो जातिः, प्रकार्य्-अंशो व्यक्तिर् इति नैकाकारा प्रतीतिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the case under discussion the genus constitutes the mode, and the individual that to which the mode belongs: the idea does not therefore possess the character of unity.
 </details>

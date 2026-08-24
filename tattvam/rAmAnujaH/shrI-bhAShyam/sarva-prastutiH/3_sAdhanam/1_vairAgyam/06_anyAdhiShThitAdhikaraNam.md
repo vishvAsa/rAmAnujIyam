@@ -18,7 +18,7 @@ title = "०६ अन्याधिष्ठिताधिकरणम्"
 > **३११. +++(व्रीह्यादौ)+++ अन्याधिष्ठिते +++(जीवावतारः)+++ पूर्ववद् अभिलापात्॥ ३–१–२४ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 24\. Into (plants) animated by other souls, because the statement is as in the previous cases.
 </details>
@@ -37,7 +37,7 @@ title = "०६ अन्याधिष्ठिताधिकरणम्"
 इति श्रूयते 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text declares that the descending souls are born as rice, corn, &c., 
 </details>
@@ -57,7 +57,7 @@ The text declares that the descending souls are born as rice, corn, &c.,
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'they are born here as rice, corn, herbs, trees,' &c. 
 </details>
@@ -79,7 +79,7 @@ The text declares that the descending souls are born as rice, corn, &c.,
 इति विशये,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The question here is whether the souls cling to plants animated by other souls which have those plants for their bodies; or whether the descending souls themselves are born with those plants for their bodies.--
 </details>
@@ -100,7 +100,7 @@ The question here is whether the souls cling to plants animated by other souls w
 व्रीह्य्-आदि-शरीरा एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The latter view is the right one; for the text says, 'they are born as rice, grain,' and so on, and this expression is of the same kind as when we say 'he is born as a man, as a deva,' and so on.  
 The text therefore means that the souls are embodied in the different plants.
@@ -119,7 +119,7 @@ The text therefore means that the souls are embodied in the different plants.
 इति प्राप्ते उच्यते – अन्याधिष्ठिते इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --This view the Sūtra rejects. 
 </details>
@@ -137,7 +137,7 @@ The text therefore means that the souls are embodied in the different plants.
 तेषां संश्लेषमात्रम् एव। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The souls merely cling to those plants which constitute the bodies of other souls; 
 </details>
@@ -156,7 +156,7 @@ The souls merely cling to those plants which constitute the bodies of other soul
 केवल तद्-भावाभिलापात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'since the statement is as in the previous cases,' i.e. because the text only says that the souls become plants as it had previously been said that they become ether, and so on. 
 </details>
@@ -175,7 +175,7 @@ The souls merely cling to those plants which constitute the bodies of other soul
 **रमणीय-चरणाः** … **कपूय-चरणाः** (छा.५.१०.७) इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Where the text means to say that the soul enters on the condition of an enjoying soul (i.e. of a soul assuming a new body for the purpose of retributive enjoyment), it refers to the deeds which lead to such enjoyment; so e. g. in the passage, 'Those whose works have been good obtain a good birth,' &c. 
 </details>
@@ -192,7 +192,7 @@ Where the text means to say that the soul enters on the condition of an enjoying
 इह चाकाशादिवन्नाभिलप्यते कर्म, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But in the text under discussion there is no such reference to karman. 
 </details>
@@ -210,7 +210,7 @@ But in the text under discussion there is no such reference to karman.
 स्वर्गोपभोगाद् एव समाप्तत्वात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For those works – viz. sacrifices and the like – which were undertaken with a view to reward, such as enjoyment of the heavenly world, are, in the case of the descending souls, completely wiped out by the enjoyment of the heavenly world (which precedes the descent of the souls); 
 </details>
@@ -227,7 +227,7 @@ For those works – viz. sacrifices and the like – which were undertaken with 
 अनारब्धस्य **रमणीयचरणाः**…….**कपूयचरणाः** (छा.५.१०.७) इति वक्ष्यमाणत्वात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and those works on the other hand, the action of which has not yet begun, lead to the embodiments mentioned further on ('Those whose works are good'). 
 </details>
@@ -244,7 +244,7 @@ and those works on the other hand, the action of which has not yet begun, lead t
 मध्ये कर्मान्तराभावाच्च। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And in the interval between those two conditions no new karman originates. 
 </details>
@@ -261,7 +261,7 @@ And in the interval between those two conditions no new karman originates.
 व्रीह्य्-आदि-भावेन जन्म-वचनम् औपचारिकम्॥२४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When, therefore, the text says that the souls are born as plants, the statement cannot be taken in its literal sense.
 </details>
@@ -281,7 +281,7 @@ When, therefore, the text says that the souls are born as plants, the statement 
 > **३१२. अशुद्धम् इति चेन् न - शब्दात् ॥ ३–१–२५ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 25\. It is unholy. Not so, on the ground of Scripture.
 </details>
@@ -304,7 +304,7 @@ When, therefore, the text says that the souls are born as plants, the statement 
 इति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The conclusion arrived at above cannot be accepted,  
 </details>
@@ -320,7 +320,7 @@ The conclusion arrived at above cannot be accepted,
 भोक्तृत्वहेतुसद्भावात् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 since there is a reason why the descending soul should enter on the condition of an enjoying soul. 
 </details>
@@ -338,7 +338,7 @@ since there is a reason why the descending soul should enter on the condition of
 पाप-मिश्रम्, अग्नी-षोमीयादि हिंसा-युक्तत्वात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such works as sacrifices, the fruit of which is the enjoyment of the heavenly world, are mixed with evil,  
 for they imply injury to living beings as in the case of the goat offered to Agnīshomau. 
@@ -358,7 +358,7 @@ for they imply injury to living beings as in the case of the goat offered to Agn
 पापम् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And such injury is evil as it is forbidden by texts such as 'let him not harm any creature.' 
 </details>
@@ -376,7 +376,7 @@ And such injury is evil as it is forbidden by texts such as 'let him not harm an
 भिन्न-विषयत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be said that the injunctions of sacrificing animals constitute exceptions to the general rule of not harming any creature. --For the two injunctions refer to different things. 
 </details>
@@ -392,7 +392,7 @@ Nor can it be said that the injunctions of sacrificing animals constitute except
 अग्नीषोमीय-हिंसा-विधिर् हिंसायाः क्रतूपकारकत्वं बोधयति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The injunction to kill the goat for Agnīshomau intimates that the killing of the animal subserves the accomplishment of the sacrifice, 
 </details>
@@ -408,7 +408,7 @@ The injunction to kill the goat for Agnīshomau intimates that the killing of th
 "न हिंस्यात्" इति तु हिंसायाः प्रत्यवाय-फलत्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while the injunction not to 'harm' teaches that such harming has disastrous consequences. 
 </details>
@@ -437,7 +437,7 @@ while the injunction not to 'harm' teaches that such harming has disastrous cons
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Should it be said that the prohibition of harming does not refer to such actions as the sacrifice of the goat which proceed on the basis of scriptural injunction,  
 but only to such actions as spring from natural passion or desire (rāga); 
@@ -455,7 +455,7 @@ but only to such actions as spring from natural passion or desire (rāga);
 नैवम्, इहापि राग-प्राप्तेर् अविशिष्टत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we remark that in the case of sacrifices also the action is equally prompted by natural desire. 
 </details>
@@ -475,7 +475,7 @@ we remark that in the case of sacrifices also the action is equally prompted by 
 फल-रागत एव यागादौ प्रवर्तते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Injunctions such as 'He who desires the heavenly world is to sacrifice', teach that sacrifices are to be undertaken by persons desirous of certain pleasant results, and such persons having thus learned by what means the result is to be accomplished proceed to action from the natural desire of the result. 
 </details>
@@ -494,7 +494,7 @@ Injunctions such as 'He who desires the heavenly world is to sacrifice', teach t
 रागाद् एव प्रवर्तते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This applies to the killing of the goat also which is offered to Agnīshomau; man learns from Scripture that such actions help to accomplish the sacrifice which effects the result, and then performs those actions from natural desire. 
 </details>
@@ -513,7 +513,7 @@ This applies to the killing of the goat also which is offered to Agnīshomau; ma
 इति न कश्चन विशेषः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The case in no way differs from that of harm done in ordinary life – where the agent always is prompted by natural desire, having somehow arrived at the conclusion that his action will accomplish something aimed at by himself. 
 </details>
@@ -537,7 +537,7 @@ The case in no way differs from that of harm done in ordinary life – where the
 इत्यादि-वचनात् फल-साधनत्वमवगम्य 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same holds good with regard to works of permanent obligation. Men learn from Scripture that through the performance of the special duties of their caste they attain happiness of the highest kind, 
 </details>
@@ -554,7 +554,7 @@ The same holds good with regard to works of permanent obligation. Men learn from
 तेषाम् अप्य् अशुद्धि-युक्तत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and then apply themselves to their duties from a natural desire of such happiness,  
 and therefore such works also are mixed with evil. 
@@ -576,7 +576,7 @@ and therefore such works also are mixed with evil.
 व्रीह्य्-आदि-स्थावर-भावेनानुभूयते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the souls of those who have performed sacrifices, and so on, which contain an element of evil, at first experience in the heavenly world that result which is to be enjoyed there, and then embodying themselves in non-moving things such as plants, experience the fruit of that part of their actions which is of a harmful nature. 
 </details>
@@ -599,7 +599,7 @@ Hence the souls of those who have performed sacrifices, and so on, which contain
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That embodiment in non-moving beings is the result of evil deeds Smr̥ti declares: 'Owing to those defects of work which are due to the body, a man becomes a non-moving being.' 
 </details>
@@ -616,7 +616,7 @@ That embodiment in non-moving beings is the result of evil deeds Smr̥ti declare
 अतो व्रीह्यादिभावेन भोगायानुशयिनो जायन्ते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From all this it follows that the souls embody themselves in plants to the end of enjoying the fruits of their works.
 </details>
@@ -639,7 +639,7 @@ From all this it follows that the souls embody themselves in plants to the end o
 स्वर्ग-लोक-प्राप्ति-हेतुतया हिंसात्वाभाव-शब्दात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --To this the Sūtra replies – it is not so, on account of scriptural statement. For Scripture declares that the killing of sacrificial animals makes them to go up to the heavenly world, and therefore is not of the nature of harm. 
 </details>
@@ -661,7 +661,7 @@ From all this it follows that the souls embody themselves in plants to the end o
 इत्य्-आदिकम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This is declared in the text, 'The animal killed at the sacrifice having assumed a divine body goes to the heavenly world'; 'with a golden body it ascends to the heavenly world.' 
 </details>
@@ -681,7 +681,7 @@ This is declared in the text, 'The animal killed at the sacrifice having assumed
 प्रत्युत रक्षणम् एव । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 An action which is the means of supreme exaltation is not of the nature of harm, even if it involves some little pain; it rather is of beneficial nature.
 </details>
@@ -705,7 +705,7 @@ An action which is the means of supreme exaltation is not of the nature of harm,
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --With this the mantra also agrees: 
 
@@ -728,7 +728,7 @@ there the divine Savitr̥ may lead thee.'
 पूजयन्ति च तज्-ज्ञाः॥२५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 An act which has a healing tendency, although it may cause a transitory pain, men of insight declare to be preservative and beneficial.
 </details>
@@ -747,7 +747,7 @@ An act which has a healing tendency, although it may cause a transitory pain, me
 > **३१३. रेतस्-सिग्-योगोऽथ ॥ ३–१–२६ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 26\. After that conjunction with him who performs the act of generation.
 </details>
@@ -783,7 +783,7 @@ An act which has a healing tendency, although it may cause a transitory pain, me
 तद्वद् व्रीह्य्-आदि-भावो ऽपीत्य् अर्थः॥२६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The declaration that the descending souls _become_ rice plants, and so on,  
 cannot be taken literally for that reason also,  
@@ -808,7 +808,7 @@ Now the meaning of this latter text can only be that the soul enters into conjun
 > **३१४. योनेश्शरीरम् ॥ ३–१–२७ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 27\. From the yoni the body.
 </details>
@@ -826,7 +826,7 @@ Now the meaning of this latter text can only be that the soul enters into conjun
 तत्रैव सुख-दुःखोपभोग-सद्-भावात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Only after having reached a yoni the soul, affected with a remnant of its works, obtains a new body, and only in a body there can be the enjoyment of pleasure and pain. 
 </details>
@@ -844,7 +844,7 @@ Only after having reached a yoni the soul, affected with a remnant of its works,
 इत्य् अर्थः ॥ २७ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When, therefore, previous to that the soul is said to reach ether, wind, and so on, this can only mean that it enters into conjunction with them.
 </details>
@@ -861,7 +861,7 @@ When, therefore, previous to that the soul is said to reach ether, wind, and so 
 **इति श्रीशारीरकमीमांसाभाष्ये अन्याधिष्ठिताधिकरणम् ॥६॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of 'that animated by another soul.'
 </details>
