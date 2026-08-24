@@ -91,6 +91,8 @@ shAstra states AnurUpyam of the diva-dampatI, well beyond that between nityas an
 
 Further there are suggestions aplenty that her restraint is entirely voluntary. For example, "… **तपसश् चानुपालनात्** न त्वां कुर्मि दशग्रीव भस्म भस्मार्ह तेजसा".
 
+एवं लक्ष्म्या भगवच्-छरीरत्वं सिद्धम् एव। 
+
 ### नित्य-सूरयः
 तेषु गरुडानन्त-निभास् तु नित्य-सूरयो  
 नित्य-विभूति-वासिनः।  
