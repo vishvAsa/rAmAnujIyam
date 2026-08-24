@@ -42,3 +42,7 @@ Here, अधीशः refers to the Atma described in
 
 while हरि refers to a particular embodiment of the same.
 
+Cf mAdhva handling resorting to word order mutation - [TW](https://www.youtube.com/watch?v=MYKZaQ-FoZI)
+
+## nArAyaNopaniShat, nArAyaNa-sUkta
+See [TW](https://youtu.be/5G9xoEXMMFg)
