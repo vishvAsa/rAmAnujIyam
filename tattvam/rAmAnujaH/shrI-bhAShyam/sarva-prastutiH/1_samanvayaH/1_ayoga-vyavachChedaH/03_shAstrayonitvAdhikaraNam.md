@@ -507,7 +507,7 @@ Nor inference of the latter kind, because we do not observe any characteristic f
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> ननु च जगतः कार्यत्वं  
-तद्-उपादानोपकरण-सम्प्रदान- प्रयोजनाभिज्ञ-कर्तृकत्व-व्याप्तम्।
+तद्-उपादानोपकरण-सम्प्रदान- प्रयोजनाभिज्ञ-कर्तृकत्व-व्याप्तम् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
 <details><summary>Translation</summary>
@@ -530,7 +530,7 @@ But there is such a feature, viz. the world's being an effected thing; it being 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > अचेतनारब्धत्वं जगतश् च  
-एक-चेतनाधीनत्वेन व्याप्तम्।
+एक-चेतनाधीनत्वेन व्याप्तम् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
 <details><summary>Translation</summary>
@@ -545,14 +545,15 @@ It further is matter of experience that whatever consists of non-sentient matter
 
 <details><summary>श्रुत-प्रकाशिका</summary>
 
-एक-कर्तृकत्व-सिद्ध्य्-अर्थम् अनुमान-न्तरम् आह अचेतनेति ।
+एक-कर्तृकत्व-सिद्ध्य्-अर्थम् अनुमानान्तरम् आह अचेतनेति ।
 </details>
 
 ---
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > सर्वं हि घटादि-कार्यं तद्-उपादानोपकरण-सम्प्रदान-प्रयोजनाभिज्ञ-कर्तृकं दृष्टम्।
+> > सर्वं हि घटादि-कार्यं  
+तद्-उपादानोपकरण-सम्प्रदान- प्रयोजनाभिज्ञ-कर्तृकं दृष्टम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -574,7 +575,8 @@ The former generalization is exemplified by the case of jars and similar things,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अचेतनारब्धम् अरोगं स्वशरीरम् एक-चेतनाधीनं च।
+> > अचेतनारब्धम् अ-रोगं स्व-शरीरम्  
+एक-चेतनाधीनं च।
 </details>
 
 <details><summary>Translation</summary>
@@ -596,7 +598,7 @@ and the latter by a living body in good health, which consists of non-intelligen
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सावयवत्वेन जगतः कार्यत्वम् ॥
+> > सावयवत्वेन जगतः कार्यत्वम् ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -616,11 +618,11 @@ And that the [[body|world]] is an effected thing follows from its consisting of 
 
 ---
 
-### **Section 6: सिद्धान्त्येकदेशिनः दूषणम्**
+#### एक-चेतनाधीनता न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उच्यते – किम् इदम् एक-चेतनाधीनत्वम्?
+> उच्यते – किम् इदम् एक-चेतनाधीनत्वम्?
 </details>
 
 <details><summary>Translation</summary>
@@ -639,10 +641,10 @@ Against this argumentation also objections may be raised. What, it must be asked
 </details>
 
 ---
-
+##### एकायत्तोत्पत्ति-स्थितित्वं न 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तावत् तद्-आयत्तोत्पत्तिस्थितित्वम्;
+> न तावत् तद्-आयत्तोत्पत्ति-स्थितित्वम्;
 </details>
 
 <details><summary>Translation</summary>
@@ -657,14 +659,17 @@ Not, we suppose, that the origination and subsistence of the non-intelligent thi
 
 <details><summary>श्रुत-प्रकाशिका</summary>
 
-एक-चेतनाधीनत्वं नाम किं तद्-आयत्तोत्पत्तिस्थितित्वम्, उत तद्-आयत्त-प्रवृत्तित्वम् इति विकल्प्य प्रथमे ऽपि तद्-आयत्तोत्पत्तिस्थितित्वं नाम किं [[तदिच्छाधीनोत्पत्तिस्थित्वम्त्वम्|तदिच्छाधीनोत्पत्तिस्थितित्वम्]] , उत तद्-अदृष्टाधीनोत्पत्तिस्थितित्वम् इति [[किल्पो|विकल्पो]] ऽभिप्रेतः । तेषां विकल्पानां क्षेपार्थः किं शब्दः ।
+एक-चेतनाधीनत्वं नाम किं तद्-आयत्तोत्पत्तिस्थितित्वम्, उत तद्-आयत्त-प्रवृत्तित्वम् इति विकल्प्य प्रथमे ऽपि तद्-आयत्तोत्पत्तिस्थितित्वं नाम किं तदिच्छाधीनोत्पत्तिस्थितित्वम् , उत तद्-अदृष्टाधीनोत्पत्तिस्थितित्वम् इति विकल्पो ऽभिप्रेतः । तेषां विकल्पानां क्षेपार्थः किं शब्दः ।
 </details>
 
 ---
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृष्टान्तो हि साध्य-विकलस् स्यात्, न ह्य् अरोगं स्वशरीरम् एक-चेतनायत्तोत्पत्तिस्थिति, तच्-शरीरस्य भोक्तॄणां भार्यादि-सर्व-चेतनानाम् अदृष्ट-जन्यत्वात् तदुत्पत्तिस्थित्योः।
+> दृष्टान्तो हि साध्य-विकलस् स्यात्,  
+न ह्य् अ-रोगं स्व-शरीरम्  
+एक-चेतनायत्तोत्पत्ति-स्थिति,  
+तच्-छरीरस्य भोक्तॄणां भार्यादि-सर्व-चेतनानाम् +++(←अ-दृष्ट)+++ {अ-दृष्ट}-जन्यत्वात् तद्+++(←शरीर)+++-उत्पत्ति-स्थित्योः।
 </details>
 
 <details><summary>Translation</summary>
@@ -686,7 +691,10 @@ for in that case your example would not help to prove your contention. Neither t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च शरीरावयविनस् स्वावयव-समवेतता-रूप-स्थितिः अवयव-संश्लेष-विशेष-व्यतिरेकेण न चेतनम् अपेक्षते।
+> किञ्च शरीरावयविनस् स्वावयव-समवेतता-रूप-स्थितिः  
+अवयव-संश्लेष-विशेष-व्यतिरेकेण  
+न चेतनम् अपेक्षते  
++++(यतो यन्त्रवद् अपि तत् स्यात्)+++।
 </details>
 
 <details><summary>Translation</summary>
@@ -708,7 +716,9 @@ Moreover, the existence of a body made up of parts means that body's being conne
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राणन-लक्षणा तु स्थितिः पक्षत्वाभिमते क्षितिजलाब्धिमहीधरादौ न सम्भवतीति पक्ष-सपक्षानुगताम् एक-रूपां स्थितिं नोपलभामहे।
+> प्राणन-लक्षणा तु +++(शरीर-)+++स्थितिः  
+पक्षत्वाभिमते क्षिति-जलाब्धि--मही-धरादौ न सम्भवतीति  
++++(जगत्→)+++पक्ष-+++(शरीर→)+++सपक्षानुगताम् एक-रूपां स्थितिं नोपलभामहे।
 </details>
 
 <details><summary>Translation</summary>
@@ -723,14 +733,19 @@ The existence of animated bodies, moreover, has for its characteristic mark the 
 
 <details><summary>श्रुत-प्रकाशिका</summary>
 
-अथ उक्त-प्रकार-विकल्प-दूषणेन निरस्तम् अपि शिरो-न्तरं दूषण-न्तर-सद्भावाद् उपादाय दूषयति प्राणनेति । प्राणन-लक्षणा पञ्च-वृत्ति-प्राण-सहितत्व-लक्षणा । नोपलभामह इति । कालात्ययापदेश इत्य् अभिप्रायः ।
+अथ उक्त-प्रकार-विकल्प-दूषणेन निरस्तम् अपि  
+शिरोऽन्तरं दूषणान्तर-सद्भावाद् उपादाय दूषयति प्राणनेति । प्राणन-लक्षणा पञ्च-वृत्ति-प्राण-सहितत्व-लक्षणा । नोपलभामह इति । कालात्ययापदेश इत्य् अभिप्रायः ।
 </details>
 
 ---
 
+##### तद्-आयत्त-प्रवृत्तित्वं न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्-आयत्त-प्रवृत्तित्वं तदधीनत्वम् इति चेत् – अनेक-चेतन-साध्येषु गुरुतर-रथ-शिला-महीरुहादिषु व्यभिचारः।
+> तद्-आयत्त-प्रवृत्तित्वं तद्+++(→एक-चेतन)+++-अधीनत्वम् 
+
+इति चेत् –  
+अनेक-चेतन-+++(चालन-)+++साध्येषु गुरुतर-रथ-शिला-महीरुहादिषु व्यभिचारः।
 </details>
 
 <details><summary>Translation</summary>
@@ -745,14 +760,14 @@ Let us then understand by the dependence of a non-intelligent thing on an intell
 
 <details><summary>श्रुत-प्रकाशिका</summary>
 
-तद्-आयत्त-प्रवृत्तित्वम् एक-चेतनाधीनत्वम् इति पक्षं शङ्कते तदायत्तेति । अचेतनारब्धत्व-हेतोः अनैकान्त्यम् आह अनेकेति । अनेक-चेतन-साध्येषु - अनेक-चेतन-प्रवर्त्त्येष्व् इत्य् अर्थः ।
+तद्-आयत्त-प्रवृत्तित्वम् एक-चेतनाधीनत्वम् इति पक्षं शङ्कते तदायत्तेति । अचेतनारब्धत्व-हेतोः अनैकान्त्यम् आह अनेकेति । अनेक-चेतन-साध्येषु - अनेक-चेतन-प्रवर्त्येष्व् इत्य् अर्थः ।
 </details>
 
 ---
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चेतन-मात्राधीनत्वे सिद्ध-साध्यता॥
+> चेतन-मात्राधीनत्वे सिद्ध-साध्यता॥
 </details>
 
 <details><summary>Translation</summary>
@@ -772,11 +787,11 @@ If, on the other hand, you mean to say that all motion depends on intelligence i
 
 ---
 
-### **Section 7: कार्यत्वहेतुकानुमाने सिद्धसाधनदोषः**
+#### जगतो जीव-कर्तृत्वे लाघवम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च – उभय-वादि-सिद्धानां जीवानाम् एव लाघवेन कर्तृत्वाभ्युपगमो युक्तः।
+> किञ्च – उभय-वादि-सिद्धानां जीवानाम् एव लाघवेन कर्तृत्वाभ्युपगमो युक्तः।
 </details>
 
 <details><summary>Translation</summary>
@@ -798,7 +813,8 @@ Another alternative, moreover, here presents itself. As we both admit the existe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च जीवानाम् उपादानाद्य्-अनभिज्ञतया कर्तृत्वासम्भवः; सर्वेषाम् एव चेतनानां पृथिव्य्-आद्य्-उपादान-यागाद्य्-उपकरण-साक्षात्कार-सामर्थ्यात्।
+> न च जीवानाम् उपादानाद्य्-अनभिज्ञतया कर्तृत्वासम्भवः;  
+सर्वेषाम् एव चेतनानां पृथिव्य्-आद्य्-उपादान- -यागाद्य्-उपकरण- -साक्षात्-कार-सामर्थ्यात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -820,7 +836,7 @@ Nor must you object to this view on the ground that such agency cannot belong to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा इदानीं पृथिव्यादयो यागादयश् च प्रत्यक्षम् ईक्ष्यन्ते।
+> यथा - इदानीं पृथिव्यादयो यागादयश् च प्रत्यक्षम् ईक्ष्यन्ते।
 </details>
 
 <details><summary>Translation</summary>
