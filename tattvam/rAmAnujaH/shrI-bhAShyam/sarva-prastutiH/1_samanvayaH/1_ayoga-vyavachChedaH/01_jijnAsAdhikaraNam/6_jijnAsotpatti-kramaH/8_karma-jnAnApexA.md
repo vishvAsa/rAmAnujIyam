@@ -10,7 +10,7 @@ title = "८ कर्म-ज्ञानापेक्षा"
 तन्-निबर्हणम् उक्त-लक्षण+++(→कर्म-सापेक्षोपासनात्मक)+++-ज्ञानाद् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All this confirms our theory, viz. that since bondage springs from ajṇāna in the form of an eternal stream of karman, it can be destroyed only through knowledge of the kind maintained by us.
 </details>
@@ -35,7 +35,7 @@ All this confirms our theory, viz. that since bondage springs from ajṇāna in 
 अहर्-अहर्-अनुष्ठीयमान- परम-पुरुषाराधन-वेष– +आत्म-याथात्म्य-बुद्धि-विशेष-संस्कृत- वर्णाश्रमोचित-कर्म-लभ्या।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such knowledge is to be attained only through the due daily performance of religious duties as prescribed for a man's caste and āśrama, such performance being sanctified by the accompanying thought of the true nature of the Self, and having the character of propitiation of the highest Person.
 </details>
@@ -62,7 +62,7 @@ Such knowledge is to be attained only through the due daily performance of relig
 कर्म-स्वरूप-ज्ञानाद् ऋते न ज्ञायते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now, that mere works produce limited and non-permanent results only, and that on the other hand works not aiming at an immediate result but meant to please the highest Person, bring about knowledge of the character of devout meditation, and thereby the unlimited and permanent result of the intuition of Brahman being the Self of all – these are points not to be known without an insight into the nature of works,
 </details>
@@ -89,7 +89,7 @@ Now, that mere works produce limited and non-permanent results only, and that on
 "अथात" इत्य् उक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and hence, without this, the attitude described – which is preceded by the abandonment of mere works – cannot be reached. For these reasons the enquiry into Brahman has to be entered upon _after_ the enquiry into the nature of works.
 </details>
@@ -112,7 +112,7 @@ and hence, without this, the attitude described – which is preceded by the aba
 इति महा-सिद्धान्तः
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 [Thus ends the Great Siddhānta.]
 </details>

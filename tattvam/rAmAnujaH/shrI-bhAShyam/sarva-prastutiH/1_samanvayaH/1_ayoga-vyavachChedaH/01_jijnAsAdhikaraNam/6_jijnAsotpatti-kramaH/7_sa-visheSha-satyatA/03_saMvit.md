@@ -3,7 +3,7 @@ title = "०३ संवित्"
 +++
 ## सद्-अनुभूति-भेदः
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Being and consciousness are not one.
 </details>
@@ -16,7 +16,7 @@ Being and consciousness are not one.
 अनुभूतिर् एव सतीत्य् एतद् अपि निरस्तम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And as the distinction between consciousness and its objects – which rests just on this relation of object and that for which the object is – is proved by perception, the assertion that only consciousness has real existence is also disposed of.
 </details>
@@ -31,7 +31,7 @@ And as the distinction between consciousness and its objects – which rests jus
 
 ## स्वयम्-प्रकाशत्व-परिमितिः
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The true meaning of Svayaṁprakāsatva.
 </details>
@@ -42,7 +42,7 @@ The true meaning of Svayaṁprakāsatva.
 यत् तु त्व् अनुभूतेस् स्वयम्-प्रकाशत्वम् उक्तम्, तद्-विषय-प्रकाशन-वेलायां ज्ञातुर् आत्मनस् तथैव +++(स्वयम्-प्रकाशत्वम्)+++;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We next take up the point as to the self-luminousness of consciousness (above, p. 33). The contention that consciousness is not an object holds good for the knowing Self at the time when it illumines (i.e. constitutes as its objects) other things;
 </details>
@@ -60,7 +60,7 @@ We next take up the point as to the self-luminousness of consciousness (above, p
 "अज्ञासिषम्" इति ज्ञान-विषयत्व-दर्शनाच् च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but there is no absolute rule as to all consciousness never being anything but self-luminous. For common observation shows that the consciousness of one person may become the object of the cognition of another, viz. of an inference founded on the person's friendly or unfriendly appearance and the like, and again that a person's own past states of consciousness become the object of his own cognition – as appears from judgments such as 'At one time I knew.'
 </details>
@@ -75,7 +75,7 @@ but there is no absolute rule as to all consciousness never being anything but s
 अतो "ऽनुभूतिश् चेत् स्वतस्-सिद्धे"ति वक्तुं न शक्यते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It cannot therefore be said 'If it is consciousness it is self-proved' (above p. 33),
 </details>
@@ -95,7 +95,7 @@ It cannot therefore be said 'If it is consciousness it is self-proved' (above p.
 इत्य् अपि दुरुक्तम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor that consciousness if becoming an object of consciousness would no longer be consciousness;
 </details>
@@ -111,7 +111,7 @@ nor that consciousness if becoming an object of consciousness would no longer be
 अनुभाव्यत्वेनाननुभूतित्व-प्रसङ्गात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for from this it would follow that one's own past states, and the conscious states of others – because being objects of consciousness – are not themselves consciousness.
 </details>
@@ -128,7 +128,7 @@ for from this it would follow that one's own past states, and the conscious stat
 समस्त-शब्द-व्यवहारोच्छेद-प्रसङ्गः +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, unless it were admitted that there is inferential knowledge of the thoughts of others, there would be no apprehension of the connexion of words and meaning, and this would imply the absolute termination of all human intercourse depending on speech.
 </details>
@@ -145,7 +145,7 @@ Moreover, unless it were admitted that there is inferential knowledge of the tho
 सा च नोपपद्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor also would it be possible for pupils to attach themselves to a teacher of sacred lore, for the reason that they had become aware of his wisdom and learning.
 And that approach is not possible otherwise.
@@ -163,7 +163,7 @@ And that approach is not possible otherwise.
 न चान्य-विषयत्वे ऽननुभूतित्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The general proposition that consciousness does not admit of being an object is in fact quite untenable.
 </details>
@@ -182,12 +182,12 @@ The general proposition that consciousness does not admit of being an object is 
 स्व-सत्तयैव स्व-विषय-साधनत्वं वा।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The essential 'nature of consciousness or knowledge – consists therein that it shines forth, or manifests itself, through its own being to its own substrate at the present moment; or (to give another definition) that it is instrumental in proving its own object by its own being [^fn_10]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Thibaut - Notes</summary>
 
 [^fn_10]: 48:1 The comment of the Sru. Pra. on the above definitions runs, with a few additional explanations, as follows: The term 'anubhūti' here denotes knowledge in general, not only such knowledge as is not remembrance (which limited meaning the term has sometimes). With reference to the 'shining forth' it might be said that in this way jars also and similar things know or are conscious because they also shine forth' (viz. in so far as they are known); to exclude jars and the like the text therefore adds 'to its own substrate' (the jar 'shines forth,' not to itself, but to the  knowing person). There are other attributes of the Self, such as atomic extension, eternity, and so on, which are revealed (not through themselves) but through an act of knowledge different from them; to exclude those the text adds 'through its own being.' In order to exclude past states of consciousness or acts of knowledge, the text adds 'at the present moment.' A past state of consciousness is indeed not revealed without another act of knowledge (representing it), and would thus by itself be excluded; but the text adds this specification (viz. 'at the present moment') on purpose, in order to intimate that a past state of consciousness can be represented by another state – a point denied by the opponent. 'At the present moment' means 'the connexion with the object of knowledge belonging to the present time.' Without the addition of 'to its own substrate' the definition might imply that a state of consciousness is manifest to another person also; to exclude this the clause is added. This first definition might be objected to as acceptable only to those who maintain the svayaṁprakāsatva-theory (which need not be discussed here); hence a second definition is given.The two clauses 'to its own substrate' and 'at the present moment' have to be supplied in this second definition also. 'Instrumental in bringing about' would apply to staffs, wheels, and such like implements also; hence the text adds 'its own object.' (Staffs, wheels, &c. have no 'objects.') Knowledge depending on sight does not bring about an object depending on hearing; to exclude this notion of universal instrumentality the text specifies the object by the words 'its own.' The clause 'through its own being' excludes the sense organs, which reveal objects not by their own being, but in so far as they give rise to knowledge. The two clauses 'at the present moment' and 'to its own substrate' have the same office in the second definition as in the first.
 </details>
@@ -205,7 +205,7 @@ The essential 'nature of consciousness or knowledge – consists therein that it
 इति नानुभूतित्वम् अपगच्छेत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now these two characteristics are established by a person's own state of consciousness and do not vanish when that consciousness becomes the object of another state of consciousness; consciousness remains also in the latter case what it is.
 </details>
@@ -221,7 +221,7 @@ Now these two characteristics are established by a person's own state of conscio
 एतत्-स्वभाव-विरहात्; नानुभाव्यत्वात्।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Jars and similar things, on the other hand, do not possess consciousness, not because they are objects of consciousness but because they lack the two characteristics stated above.
 </details>
@@ -239,7 +239,7 @@ Jars and similar things, on the other hand, do not possess consciousness, not be
 गगन-कुसुमादेर् अननुभाव्यस्य अननुभूतित्वात्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If we made the presence of consciousness dependent on the absence of its being an object of consciousness, we should arrive at the conclusion that consciousness is not consciousness;
 for there are things – e.g. sky-flowers – which are not objects of consciousness and at the same time are not consciousness.
@@ -259,7 +259,7 @@ for there are things – e.g. sky-flowers – which are not objects of conscious
 इति चेत्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You will perhaps reply to this that a sky-flower's not being consciousness is due not to its not being an object of consciousness, but to its non-existence!--
 </details>
@@ -278,7 +278,7 @@ You will perhaps reply to this that a sky-flower's not being consciousness is du
 +++(येन घट-खपुष्पयोस् समानकारणं लक्ष्येत)+++॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Well then, we rejoin, let us say analogously that the reason of jars and the like not being contradictory to Nescience (i.e. of their being jaḍa), is their not being of the nature of consciousness, and let us not have recourse to their being objects of consciousness!--
 </details>
@@ -298,7 +298,7 @@ Well then, we rejoin, let us say analogously that the reason of jars and the lik
 इति चेत् +++(कुतर्कः)+++;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But if consciousness is an object of consciousness, we conclude that it also is non-contradictory of Nescience, like a jar!--
 </details>
@@ -314,7 +314,7 @@ But if consciousness is an object of consciousness, we conclude that it also is 
 गगन-कुसुमादेर् इवाज्ञानाविरोधित्वम् अपि प्रसज्यत एव +++(इत्य् अनुभाव्यत्वं हेत्व्-आभासः)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 At this conclusion, we rejoin, you may arrive even on the opposite assumption, reasoning as follows: 'Consciousness is non-contradictory of Nescience, because it is not an object of consciousness, like a sky-flower!
 </details>
@@ -329,7 +329,7 @@ At this conclusion, we rejoin, you may arrive even on the opposite assumption, r
 अतो "ऽनुभाव्यत्वे अननुभूतित्वम्" इत्य् उपहास्यम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All which shows that to maintain as a general principle that something which is an object of consciousness cannot itself be consciousness is simply ridiculous.
 </details>
@@ -341,7 +341,7 @@ All which shows that to maintain as a general principle that something which is 
 
 ## अनित्या
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Consciousness is not eternal.
 </details>
@@ -355,7 +355,7 @@ Consciousness is not eternal.
 +++(वक्ष्यमाण-रीत्या)+++।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It was further maintained by the pūrvapakshin that as consciousness is self-established it has no antecedent non-existence and so on, and that this disproves its having an origin. But this is an attempt to prove something not proved by something else that is equally unproved; comparable to a man blind from birth undertaking to guide another blind man!
 </details>
@@ -372,7 +372,7 @@ It was further maintained by the pūrvapakshin that as consciousness is self-est
 अनुभूत्यैव ग्रहणात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You have no right to maintain the non-existence of the antecedent non-existence of consciousness on the ground that there is nothing to make us apprehend that non-existence; for there is something to make us apprehend it, viz. consciousness itself!
 </details>
@@ -390,7 +390,7 @@ You have no right to maintain the non-existence of the antecedent non-existence 
 इति चेत्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But how can consciousness at the time when it is, make us apprehend its own previous non-existence which is contradictorily opposed to it?--
 </details>
@@ -407,7 +407,7 @@ You have no right to maintain the non-existence of the antecedent non-existence 
 अतीतानागतयोर् अ-विषयत्व-प्रसङ्गात्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Consciousness, we rejoin, does not necessarily constitute as its objects only what occupies the same time with itself; were it so it would follow that neither the past nor the future can be the object of consciousness.
 </details>
@@ -427,7 +427,7 @@ Consciousness, we rejoin, does not necessarily constitute as its objects only wh
 इति;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Or do you mean that there is an absolute rule that the antecedent non-existence of consciousness, if proved, must be contemporaneous with consciousness?
 </details>
@@ -443,7 +443,7 @@ Or do you mean that there is an absolute rule that the antecedent non-existence 
 येन नियमं ब्रवीषि।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Have you then, we ask, ever observed this so as to be able to assert an absolute rule?
 </details>
@@ -460,7 +460,7 @@ Have you then, we ask, ever observed this so as to be able to assert an absolute
 इति न तद्-अपह्नवः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if it were observed, that would prove the existence of previous non-existence, not its negation!
 </details>
@@ -476,7 +476,7 @@ And if it were observed, that would prove the existence of previous non-existenc
 अनुन्मत्तः को ब्रवीति।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The fact, however, is that no person in his senses will maintain the contemporaneous existence of consciousness and its own antecedent non-existence.
 </details>
@@ -496,7 +496,7 @@ The fact, however, is that no person in his senses will maintain the contemporan
 कालान्तर-वर्तिनो ऽपि ग्रहण-दर्शनात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the case of perceptive knowledge originating from sensation, there is indeed this limitation, that it causes the apprehension of such things only as are actually present at the same time. But this limitation does not extend to cognitions of all kinds, nor to all instruments of knowledge; for we observe that remembrance, inference, and the magical perception of Yogis apprehend such things also as are not present at the time of apprehension.
 </details>
@@ -516,7 +516,7 @@ In the case of perceptive knowledge originating from sensation, there is indeed 
 तस्य तथा-विधाकार-मिथ्यात्व-प्रत्यनीकता।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On this very point there rests the relation connecting the means of knowledge with their objects, viz. that the former are not without the latter. This does not mean that the instrument of knowledge is connected with its object in that way that it is not without something that is present at the time of cognition; but rather that the instrument of knowledge is opposed to the falsehood of that special form in which the object presents itself as connected with some place and time.--
 </details>
@@ -534,7 +534,7 @@ On this very point there rests the relation connecting the means of knowledge wi
 नष्टे ऽप्य् अर्थे स्मृति-दर्शनाद् इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This disposes also of the contention that remembrance has no external object; for it is observed that remembrance is related to such things also as have perished.--
 </details>
@@ -553,7 +553,7 @@ This disposes also of the contention that remembrance has no external object; fo
 > न तावत् संवित्-प्राग्-अभावः प्रत्यक्षावसेयः, अवर्तमानत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Possibly you will now argue as follows. The antecedent non-existence of consciousness cannot be ascertained by perception, for it is not something present at the time of perception.
 </details>
@@ -568,7 +568,7 @@ Possibly you will now argue as follows. The antecedent non-existence of consciou
 > न च प्रमाणान्तरावसेयः लिङ्गाद्य्-अभावात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It further cannot be ascertained by the other means of knowledge, since there is no characteristic mark (linga) on which an inference could be based:
 </details>
@@ -583,7 +583,7 @@ It further cannot be ascertained by the other means of knowledge, since there is
 > न हि संवित्-प्राग्-अभाव-व्याप्तम् इह लिङ्गम् उपलभ्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for we do not observe any characteristic mark invariably accompanied by the antecedent non-existence of consciousness.
 </details>
@@ -598,7 +598,7 @@ for we do not observe any characteristic mark invariably accompanied by the ante
 > न चाऽगमस् तावत् तद्-विषयो दृष्ट-चरः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor do we meet with any scriptural text referring to this antecedent non-existence.
 </details>
@@ -616,7 +616,7 @@ Nor do we meet with any scriptural text referring to this antecedent non-existen
 – इति;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence, in the absence of any valid instrument of knowledge, the antecedent non-existence of consciousness cannot be established at all.--
 </details>
@@ -635,7 +635,7 @@ Hence, in the absence of any valid instrument of knowledge, the antecedent non-e
 इत्य् उपशाम्यतु भवान्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, we reply, you thus, altogether setting aside the force of self-provedness (on which you had relied hitherto), take your stand on the absence of valid means of knowledge, we again must request you to give in; for there is a valid means of knowledge whereby to prove the antecedent non-existence of consciousness, viz. valid non-perception (anupalabdhi).
 </details>
@@ -654,7 +654,7 @@ If, we reply, you thus, altogether setting aside the force of self-provedness (o
 इति घटादेः पूर्वोत्तर-काल-सत्ता न प्रतीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, we observe that perceptional knowledge proves its object, be it a jar or something else, to exist only as long as it exists itself, not at all times; we do not, through it, apprehend the antecedent or subsequent existence of the jar.
 </details>
@@ -670,7 +670,7 @@ Moreover, we observe that perceptional knowledge proves its object, be it a jar 
 संवेदनस्य काल-परिच्छिन्नतया प्रतीतेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now this absence of apprehension is due to the fact that consciousness itself is limited in time.
 </details>
@@ -688,7 +688,7 @@ Now this absence of apprehension is due to the fact that consciousness itself is
 इति नित्यस् स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If that consciousness which has a jar for its object were itself apprehended as non-limited in time, the object also – the jar – would be apprehended under the same form, i.e. it would be eternal.
 </details>
@@ -706,7 +706,7 @@ If that consciousness which has a jar for its object were itself apprehended as 
 इत्य् एव प्रतीयेत।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if self-established consciousness were eternal, it would be immediately cognised as eternal;
 </details>
@@ -721,7 +721,7 @@ And if self-established consciousness were eternal, it would be immediately cogn
 न च तथा प्रतीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but this is not the case.
 </details>
@@ -740,7 +740,7 @@ but this is not the case.
 ते च सर्वे कालानवच्छिन्ना नित्यास् स्युः, संविद्-अनुरूपत्वाद् विषयाणाम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Analogously, if inferential consciousness and other forms of consciousness were apprehended as non-limited in time, they would all of them reveal their objects also as non-limited, and these objects would thus be eternal; for the objects are conform in nature to their respective forms of consciousness.
 </details>
@@ -752,7 +752,7 @@ Analogously, if inferential consciousness and other forms of consciousness were 
 
 ### सविषयता
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There is no consciousness without object.
 </details>
@@ -763,7 +763,7 @@ There is no consciousness without object.
 न च निर्विषया काचित् संविद् अस्ति, अनुपलब्धेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is there any consciousness devoid of objects; for nothing of this kind is ever known.
 </details>
@@ -783,7 +783,7 @@ Nor is there any consciousness devoid of objects; for nothing of this kind is ev
 संविदस् तुच्छतैव स्यात् +++(विषयिता-विषयताभावात्)+++ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, the self-luminousness of consciousness has, by our opponent himself, been proved on the ground that its essential nature consists in illumining (revealing) objects; the self-luminousness of consciousness not admitting of proof apart from its essential nature which consists in the lighting up of objects. And as moreover, according to our opponent, consciousness cannot be the object of another consciousness, it would follow that (having neither an object nor itself being an object) it is something altogether unreal, imaginary.
 </details>
@@ -802,7 +802,7 @@ Moreover, the self-luminousness of consciousness has, by our opponent himself, b
 योग्यानुपलब्धि-पराहतत्वात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor are you justified in maintaining that in deep sleep, swoon, senselessness and similar states, pure consciousness, devoid of any object, manifests itself. This view is negatived by 'valid non-perception'.
 </details>
@@ -819,7 +819,7 @@ Nor are you justified in maintaining that in deep sleep, swoon, senselessness an
 न च तद् अस्ति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If consciousness were present in those states also, there would be remembrance of it at the time of waking from sleep or recovery from swoon; but as a matter of fact there is no such remembrance.
 </details>
@@ -837,7 +837,7 @@ If consciousness were present in those states also, there would be remembrance o
 स्मरण-नियमो न दृष्ट-चरः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But it is not an absolute rule that something of which we were conscious must be remembered;
 </details>
@@ -852,7 +852,7 @@ But it is not an absolute rule that something of which we were conscious must be
 > अतस् स्मरणाभावः कथम् अनुभवाभावं साधयेत्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 how then can the absence of remembrance prove the absence of previous consciousness?
 </details>
@@ -869,7 +869,7 @@ how then can the absence of remembrance prove the absence of previous consciousn
 अनुभवाभावम् एव साधयति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Unless, we reply, there be some cause of overpowering strength which quite obliterates all impressions – as e.g. the dissolution of the body – the absence of remembrance does necessarily prove the absence of previous consciousness.
 </details>
@@ -890,7 +890,7 @@ Unless, we reply, there be some cause of overpowering strength which quite oblit
 इति प्रत्यवमर्शेनैव सिद्धेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And, moreover, in the present case the absence of consciousness does not only follow from absence of remembrance; it is also proved by the thought presenting itself to the person risen from sleep, 'For so long a time I was not conscious of anything.'
 </details>
@@ -913,7 +913,7 @@ And, moreover, in the present case the absence of consciousness does not only fo
 अनुभूतार्थान्तरास्मरण-हेतुत्वाभावात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor may it be said that even if there was consciousness, absence of remembrance would necessarily follow from the absence (during deep sleep) of the distinction of objects, and from the extinction of the consciousness of the 'I'; for the non-consciousness of some one thing, and the absence of some one thing cannot be the cause of the non-remembrance of some other thing, of which there had been consciousness.
 </details>
@@ -931,7 +931,7 @@ Nor may it be said that even if there was consciousness, absence of remembrance 
 इति च वक्ष्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that in the states in question the consciousness of the 'I' does persist, will moreover be shown further on.
 </details>
@@ -947,7 +947,7 @@ And that in the states in question the consciousness of the 'I' does persist, wi
 सविशेषो ऽनुभवो ऽस्तीति पूर्वम् उक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, our opponent urges, have you not said yourself that even in deep sleep and similar states there is consciousness marked by difference?
 </details>
@@ -962,7 +962,7 @@ But, our opponent urges, have you not said yourself that even in deep sleep and 
 सत्यम् उक्तम्; स त्व् आत्मानुभवः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 True, we have said so. But that consciousness is consciousness of the Self,
 </details>
@@ -977,7 +977,7 @@ True, we have said so. But that consciousness is consciousness of the Self,
 स च सविशेष एवेति स्थापयिष्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and that this is affected by difference will be proved further on.
 </details>
@@ -992,7 +992,7 @@ and that this is affected by difference will be proved further on.
 इह तु, सकल-विषय-विरहिणी निराश्रया च संविन् निषिध्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 At present we are only interested in denying the existence of your pure consciousness, devoid of all objects and without a substrate.
 </details>
@@ -1009,7 +1009,7 @@ At present we are only interested in denying the existence of your pure consciou
 सा च साश्रयेति ह्य् उपपादयिष्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we admit that your pure consciousness could constitute what we call the consciousness of the Self; for we shall prove that the latter has a substrate.
 </details>
@@ -1028,7 +1028,7 @@ Nor can we admit that your pure consciousness could constitute what we call the 
 प्राग्-अभावासिद्धिर् न शक्यते वक्तुम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It thus cannot be maintained that the antecedent non-existence of consciousness does not admit of being proved, because consciousness itself does not prove it.
 </details>
@@ -1044,7 +1044,7 @@ It thus cannot be maintained that the antecedent non-existence of consciousness 
 अन्यतो ऽप्य् अ-सिद्धिर् निरस्ता ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And as we have shown that consciousness itself may be an object of consciousness, we have thereby disproved the alleged impossibility of antecedent non-existence being proved by other means.
 </details>
@@ -1060,7 +1060,7 @@ And as we have shown that consciousness itself may be an object of consciousness
 संविदो ऽनुत्पत्तिर् उपपत्तिमती ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Herewith falls the assertion that the non-origination of consciousness can be proved.
 </details>
@@ -1072,7 +1072,7 @@ Herewith falls the assertion that the non-origination of consciousness can be pr
 
 ## विकारिता
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Consciousness is capable of change.
 </details>
@@ -1085,7 +1085,7 @@ Consciousness is capable of change.
 प्राग्-अभावे व्यभिचारात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Against the assertion that the alleged non-origination of consciousness at the same time proves that consciousness is not capable of any other changes [[P36]], we remark that the general proposition on which this conclusion rests is too wide: it would extend to antecedent non-existence itself,
 </details>
@@ -1100,7 +1100,7 @@ Against the assertion that the alleged non-origination of consciousness at the s
 तस्य +++(प्राग्-अभावस्य स्वतः)+++ हि जन्माभावे ऽपि विनाशो दृश्यते +++(उत्पत्त्या)+++ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for, of this (antecedent non-existence), it is seen that it comes to an end, although it has no origination.
 </details>
@@ -1117,7 +1117,7 @@ for, of this (antecedent non-existence), it is seen that it comes to an end, alt
 तर्क-कुशलताऽऽविष्कृता भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In qualifying the changes as changes of 'Being,' you manifest great logical acumen indeed!
 </details>
@@ -1135,7 +1135,7 @@ In qualifying the changes as changes of 'Being,' you manifest great logical acum
 इति तस्याम् +++(प्राग्-अभावाभाव-रूप-हेतोर्)+++ अनैकान्त्यम् +++(अविकार-विकार-दर्शनेन)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For according to your own view Nescience also (which is not 'Being') does not originate, is the substrate of manifold changes, and comes to an end through the rise of knowledge; thus there is inconstancy (anaikāntya) in your argument with regard to it.
 </details>
@@ -1154,7 +1154,7 @@ For according to your own view Nescience also (which is not 'Being') does not or
 येनैतद्-विशेषणम् अर्थवद् भवति?+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Perhaps you will say that the changes of Nescience are all unreal. But, do you then, we ask in reply, admit that any change is real? - whereby this qualification (of being) becomes meaningful.
 </details>
@@ -1169,7 +1169,7 @@ Perhaps you will say that the changes of Nescience are all unreal. But, do you t
 न ह्य् असाव् अभ्युपगम्यते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You do not; and yet it is only this admission which would give a sense to the distinction expressed by the word 'Being' [^fn_11].
 
@@ -1189,7 +1189,7 @@ You do not; and yet it is only this admission which would give a sense to the di
 यद् अप्य् – अनुभूतिर् अ-जत्वात् स्वस्मिन् +++(इतरापेक्षया)+++ विभागं न सहते इति -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is it true that consciousness does not admit of any division within itself, because it has no beginning [[P36]].
 </details>
@@ -1209,7 +1209,7 @@ Nor is it true that consciousness does not admit of any division within itself, 
 आत्मनो व्यतिरेकस्यावश्याश्रयणीयत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the non-originated Self is divided from the body, the senses, &c., and Nescience also, which is avowedly without a beginning, must needs be admitted to be divided from the Self.
 </details>
@@ -1225,7 +1225,7 @@ For the non-originated Self is divided from the body, the senses, &c., and Nesci
 जन्म-प्रतिबद्धः पारमार्थिक-विभागः किं क्वचिद् दृष्टस् त्वया?।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if you say that the latter division is unreal, we ask whether you have ever observed a real division invariably connected with origination!
 </details>
@@ -1241,7 +1241,7 @@ And if you say that the latter division is unreal, we ask whether you have ever 
 वस्तुतो ह्य् अविद्यैव स्याद् आत्मा।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, if the distinction of Nescience from the Self is not real, it follows that Nescience and the Self are essentially one.
 </details>
@@ -1259,7 +1259,7 @@ Moreover, if the distinction of Nescience from the Self is not real, it follows 
 छेद्य-भेदाच् छेदन-भेदवत्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You further have yourself proved the difference of views by means of the difference of the objects of knowledge as established by non-refuted knowledge; an analogous case being furnished by the difference of acts of cleaving, which results from the difference of objects to be cleft.
 </details>
@@ -1284,7 +1284,7 @@ You further have yourself proved the difference of views by means of the differe
 इति च,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And if you assert that of this knowing – which is essentially knowing only –  
 nothing that is an object of knowledge can be an attribute,  
@@ -1305,7 +1305,7 @@ cannot be attributes of knowing;
 उभयम् +++(←वाक्य-द्वयम्)+++ अनैकान्तिकम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we point out that both these remarks would apply also to eternity, self-luminousness, and the other attributes of 'knowing', which are acknowledged by yourself, and established by valid means of proof.
 </details>
@@ -1321,7 +1321,7 @@ we point out that both these remarks would apply also to eternity, self-luminous
 न च ते संवेदन-मात्रम्, स्वरूप-भेदात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor may you urge against this that all these alleged attributes are in reality mere 'consciousness' or 'knowing'; for they are essentially distinct.
 </details>
@@ -1336,7 +1336,7 @@ Nor may you urge against this that all these alleged attributes are in reality m
 स्वसत्तयैव स्वाश्रयं प्रति कस्यचिद् विषयस्य प्रकाशनं हि संवेदनम्।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By 'being conscious' or 'knowing', we understand the illumining or manifesting of some object to its own substrate (i.e. the substrate of knowledge), by its own existence (i.e. the existence of knowledge) merely;
 </details>
@@ -1352,7 +1352,7 @@ By 'being conscious' or 'knowing', we understand the illumining or manifesting o
 स्वयम्-प्रकाशता तु स्वसत्तयैव स्वाश्रयाय प्रकाशमानता।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 by self-luminousness (or 'self-illuminatedness') we understand the shining forth or being manifest by its own existence merely to its own substrate;
 </details>
@@ -1368,7 +1368,7 @@ by self-luminousness (or 'self-illuminatedness') we understand the shining forth
 चिद्-अचिद्--अ-शेष--पदार्थ-साधारणं व्यवहारानुगुण्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the terms 'shining forth', 'illumining', 'being manifest' in both these definitions meaning the capability of becoming an object of thought and speech which is common to all things, whether intelligent or non-intelligent.
 </details>
@@ -1383,7 +1383,7 @@ the terms 'shining forth', 'illumining', 'being manifest' in both these definiti
 सर्वकाल-वर्तमानत्वं हि नित्यत्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Eternity again means 'being present in all time';
 </details>
@@ -1398,7 +1398,7 @@ Eternity again means 'being present in all time';
 एकत्वम् एक-सङ्ख्यावच्छेद इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 oneness means 'being defined by the number one'.
 </details>
@@ -1415,7 +1415,7 @@ oneness means 'being defined by the number one'.
 +++(दृश्यत्वाख्य-हेतोर् धर्मत्व-बाधने)+++ अनैकान्त्यम् अपरिहार्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Even if you say that these attributes are only negative ones, i.e. equal to the absence of non-intelligence and so on, you still cannot avoid the admission that they are attributes of consciousness.
 </details>
@@ -1433,7 +1433,7 @@ Even if you say that these attributes are only negative ones, i.e. equal to the 
 तत्-तन्+++(→जडत्वादि)+++-निषेधोक्त्या किमपि नोक्तं भवेत्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, being of a nature opposite to non-intelligence and so on, be not admitted as attributes of consciousness – whether of a positive or a negative kind – in addition to its essential nature; it is an altogether unmeaning proceeding to deny to it such qualities, as non-intelligence and the like.
 </details>
@@ -1451,7 +1451,7 @@ If, on the other hand, being of a nature opposite to non-intelligence and so on,
 न चेत्; तुच्छता, गगन-कुसुमादि-वत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We moreover must admit the following alternative: consciousness is either proved (established) or not. If it is proved it follows that it possesses attributes; if it is not, it is something absolutely nugatory, like a sky-flower, and similar purely imaginary things.
 </details>

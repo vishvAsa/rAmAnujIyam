@@ -20,7 +20,7 @@ title = "०१ पुरुषार्थाधिकरणम्"
 **४१९. पुरुषार्थो ऽतश् +++(←विद्यातः)+++ - शब्दाद् इति बादरायणः ॥ ३–४–१ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 1. The benefit to man results from thence, on account of scriptural statement; thus Bādarāyaṇa thinks.
 </details>
@@ -39,7 +39,7 @@ title = "०१ पुरुषार्थाधिकरणम्"
 गुणोपसंहारानुपसंहार-फला विद्यैकत्व-नानात्व-चिन्ता कृता; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We have concluded the investigation into the oneness or diverseness of meditations – the result of which is to indicate in which cases the special points mentioned in several meditations have to be combined, and in which not. 
 </details>
@@ -57,7 +57,7 @@ We have concluded the investigation into the oneness or diverseness of meditatio
 उत विद्याङ्गकात्कर्मण इति चिन्त्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A further point now to be investigated is whether that advantage to the meditating devotee, which is held to accrue to him from the meditation, results from the meditation directly, or from works of which the meditations are subordinate members.
 </details>
@@ -77,7 +77,7 @@ A further point now to be investigated is whether that advantage to the meditati
 इति भगवान् बादरायणो मन्यते;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --The Reverend Bādarāyaṇa holds the former view. The benefit to man results from thence, i.e. from the meditation,
 </details>
@@ -93,7 +93,7 @@ A further point now to be investigated is whether that advantage to the meditati
 कुतः? शब्दात् – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 because Scripture declares this to be so. 
 </details>
@@ -121,7 +121,7 @@ because Scripture declares this to be so.
 > **ब्रह्मविदाप्नोति परम्** (तै.आ.१.अनु)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He who knows Brahman reaches the Highest' (Taitt. Up. II, 1, 1); 
 </details>
@@ -138,7 +138,7 @@ because Scripture declares this to be so.
 > **वेदाहमेतं पुरुषं महान्तमादित्यवर्णं तमसः परस्तात्। तमेवं विद्वानमृत इह भवति। नान्यः पन्था विद्यतेऽयनाय** (पु.सू.) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'I know that great Person of sun-like lustre beyond the darkness. A man who knows him truly passes over death; there is no other path to go' (Śvet. Up. III, 8); 
 </details>
@@ -160,7 +160,7 @@ because Scripture declares this to be so.
 इत्यादि॥१॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'As the flowing rivers disappear in the sea, losing their name and their form,  
 > thus a man who possesses knowledge, freed from name and form, goes to the divine Person who is greater than the great' (Mu. Up. III, 2, 8).
@@ -183,7 +183,7 @@ because Scripture declares this to be so.
 अत्र पूर्वपक्षी प्रत्यवतिष्ठते –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Against this view the Pūrvapakshin raises an objection.
 </details>
@@ -203,7 +203,7 @@ Against this view the Pūrvapakshin raises an objection.
 इति जैमिनिः ॥ ३–४–२ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 2\. On account of (the Self) standing in a complementary relation, they are arthavādas, as in other cases; thus Jaimini opines.
 </details>
@@ -221,7 +221,7 @@ Against this view the Pūrvapakshin raises an objection.
 नैतदेवम् – यद् विद्यातः पुरुषार्थावाप्तिश् शब्दाद् अवगम्यते – इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What has been said as to Scripture intimating that a beneficial result is realised through the meditations by themselves is untenable. 
 </details>
@@ -243,7 +243,7 @@ What has been said as to Scripture intimating that a beneficial result is realis
 कर्मसु कर्तृ-भूतस्याऽत्मनो याथात्म्य-वेदन-प्रतिपादन-परत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For texts such as 'he who knows Brahman reaches the Highest' do not teach that the highest aim of man is attained through knowledge; their purport rather is to inculcate knowledge of Truth on the part of a Self which is the agent in works prescribed. 
 </details>
@@ -263,7 +263,7 @@ For texts such as 'he who knows Brahman reaches the Highest' do not teach that t
 इति जैमिनिर् आचार्यो मन्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Knowledge, therefore, stands in a complementary relation to sacrificial works, in so far as it imparts to the acting Self a certain mystic purification; and the texts which declare special results of knowledge, therefore, must be taken as mere arthavādas. 'As in the case of other things; so Jaimini thinks,' 
 </details>
@@ -284,7 +284,7 @@ Knowledge, therefore, stands in a complementary relation to sacrificial works, i
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 i.e. as Jaimini holds that in the case of substances, qualities, and so on, the scriptural declaration of results is of the nature of arthavāda.
 </details>
@@ -307,7 +307,7 @@ i.e. as Jaimini holds that in the case of substances, qualities, and so on, the 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > -- But it has been shown before that  
 > the Vedānta-texts represent as the object to be attained, by those desirous of Release,  
@@ -367,7 +367,7 @@ i.e. as Jaimini holds that in the case of substances, qualities, and so on, the 
 > इत्येवमादिभिस्सूत्रैः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > cp. on this point Sū. I, 1, 15; I, 3, 5; I, 2, 3; I, 3, 18. And Sū. II, 1, 22 and others have refuted the view that Brahman is to be considered as non-different from the personal soul, 
 </details>
@@ -388,7 +388,7 @@ i.e. as Jaimini holds that in the case of substances, qualities, and so on, the 
 > **अधिकं तु भेदनिर्देशात्** (ब्र.सू.२.१.२२) इत्य् एवम्-आदिभिर् निरस्तम्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 because in texts such as 'thou art that' it is exhibited in co-ordination with the latter. 
 </details>
@@ -410,7 +410,7 @@ because in texts such as 'thou art that' it is exhibited in co-ordination with t
 > **य आत्मनि तिष्ठन्** (बृ.६.३.२२) इत्य्-आदिना ऽवगत-तत्-तद्-आत्मतया ऽवस्थिति-निबन्धनः
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > And other Sūtras have proved that Brahman must, on the basis of numerous scriptural texts, be recognised as the inner Self of all things material and immaterial. 
 </details>
@@ -442,7 +442,7 @@ because in texts such as 'thou art that' it is exhibited in co-ordination with t
 > इति विद्यायाः कर्माङ्गत्वं प्रतिपाद्यते?।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > How then can it be said that the Vedānta-texts merely mean to give instruction as to the true nature of the active individual soul, and that hence all meditation is merely subservient to sacrificial works?--
 </details>
@@ -466,7 +466,7 @@ because in texts such as 'thou art that' it is exhibited in co-ordination with t
 इति बलाद् अभ्युपगमनीयम्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the strength of numerous inferential marks, the Pūrvapakshin replies, which prove that in the Vedānta-texts all knowledge (~~meditation~~) is really viewed as subordinate to meditation (~~knowledge~~),  
 and of the declarations of co-ordination of Brahman and the individual soul (which must be taken to imply that the two are essentially of the same nature),  
@@ -502,7 +502,7 @@ we cannot help forming the conclusion that the real purport of the Vedānta-text
 > +++(लौकिक-कर्मोचितस् स्यात् विद्या-कृतः संस्कारः)+++। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But, again it is objected, 
 
@@ -527,7 +527,7 @@ we cannot help forming the conclusion that the real purport of the Vedānta-text
 क्रत्व्-अनुप्रवेशो न विरुध्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There is a difference, the Pūrvapakshin rejoins. Worldly works can proceed also if the agent is non-different from the body; while an agent is qualified for sacred works only in so far as he is different from the body, and of an eternal non-changing nature. Meditations, therefore, properly connect themselves with sacrifices, in so far as they teach that the agent really is of that latter nature. 
 </details>
@@ -543,7 +543,7 @@ There is a difference, the Pūrvapakshin rejoins. Worldly works can proceed also
 अतो विद्यायाः क्रतुशेषत्वान्नातः पुरुषार्थः॥२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We thus adhere to the conclusion that meditations are constituents of sacrificial actions, and hence are of no advantage by themselves.
 </details>
@@ -564,7 +564,7 @@ We thus adhere to the conclusion that meditations are constituents of sacrificia
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But what then are those inferential marks  
 which, as you say, fully prove that the Vedānta-texts aim at setting forth the nature of the individual soul?--  
@@ -580,7 +580,7 @@ which, as you say, fully prove that the Vedānta-texts aim at setting forth the 
 तत्राह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this the next Sūtra replies.
 </details>
@@ -597,7 +597,7 @@ To this the next Sūtra replies.
 **४२१. आचारदर्शनात् ॥ ३–४–३ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 3. On account of (such) conduct being seen.
 </details>
@@ -614,7 +614,7 @@ To this the next Sūtra replies.
 ब्रह्मविदां प्राधान्येन कर्मस्वेवाचारो दृश्यते 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is seen, viz in Scripture, that those who knew Brahman busied themselves chiefly with sacrifices.
 </details>
@@ -636,7 +636,7 @@ It is seen, viz in Scripture, that those who knew Brahman busied themselves chie
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 -- Aśvapati Kaikeya had a deep knowledge of the Self; but when three R̥shis had come to him to receive instruction regarding the Self, he told them 'I am about, to perform a sacrifice, Sirs' (Cḥ. Up. V, II). 
 </details>
@@ -653,7 +653,7 @@ It is seen, viz in Scripture, that those who knew Brahman busied themselves chie
 तथा जनकादयो ब्रह्म-विद्-अग्रेसराः कर्मनिष्ठाः स्मृतिषु दृश्यन्ते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Similarly we learn from Smr̥ti that Janaka and other princes deeply versed in the knowledge of Brahman applied themselves to sacrificial works, 
 </details>
@@ -671,7 +671,7 @@ Similarly we learn from Smr̥ti that Janaka and other princes deeply versed in t
 > आस्थिता जनकादयः** (भ.गी.३.२०) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'By works only Janaka and others attained to perfection'; 
 </details>
@@ -691,7 +691,7 @@ Similarly we learn from Smr̥ti that Janaka and other princes deeply versed in t
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'He also, well founded in knowledge, offered many sacrifices.' 
 </details>
@@ -710,7 +710,7 @@ Similarly we learn from Smr̥ti that Janaka and other princes deeply versed in t
 न विद्यातः पुरुषार्थः॥३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And this fact – that those who know Brahman apply themselves to works chiefly – shows that knowledge (or meditation) has no independent value, but serves to set forth the true nature of the active Self, and thus is subordinate to work.--
 </details>
@@ -731,7 +731,7 @@ And this fact – that those who know Brahman apply themselves to works chiefly 
 प्राप्तिर् उच्यताम् इत्य्-अत्राह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 An even more direct proof is set forth in the next Sūtra.
 </details>
@@ -746,7 +746,7 @@ An even more direct proof is set forth in the next Sūtra.
 > **४२२. तच्छ्रुतेः ॥ ३–४–४ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 4. On account of direct scriptural statement.
 </details>
@@ -764,7 +764,7 @@ An even more direct proof is set forth in the next Sūtra.
 श्रुतिरेव हि विद्यायाः कर्माङ्गत्वमाह – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Scripture itself directly declares knowledge to be subordinate to works, 
 </details>
@@ -784,7 +784,7 @@ Scripture itself directly declares knowledge to be subordinate to works,
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'whatever he does with knowledge, with faith, with the Upanishad, that is more vigorous'. 
 </details>
@@ -802,7 +802,7 @@ Scripture itself directly declares knowledge to be subordinate to works,
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be said that this text refers, on the ground of leading subject-matter (prakaraṇa), to the Udgītha only; for direct scriptural statement (śuti) is stronger than subject-matter,
 </details>
@@ -819,7 +819,7 @@ Nor can it be said that this text refers, on the ground of leading subject-matte
 इति विद्यामात्रविषया हीयं श्रुतिः ॥४॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the words 'whatever he does with knowledge' clearly refer to knowledge in general.
 </details>
@@ -839,7 +839,7 @@ and the words 'whatever he does with knowledge' clearly refer to knowledge in ge
 > **४२३. +++(विद्याकर्मभ्याम्)+++ समन्वारम्भणात् ॥ ३–४–५ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 5\. On account of the taking hold together.
 </details>
@@ -857,7 +857,7 @@ and the words 'whatever he does with knowledge' clearly refer to knowledge in ge
 इति विद्या-कर्मणोस् साहित्यं च दृश्यते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text 'then both knowledge and work take hold of him' (Br̥. Up. IV, 4, 2) shows that knowledge and work go together, 
 </details>
@@ -874,7 +874,7 @@ The text 'then both knowledge and work take hold of him' (Br̥. Up. IV, 4, 2) sh
 विद्यायाः कर्माङ्गत्वे सत्य् एव भवति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and this going together is possible only if, in the manner stated, knowledge is subordinate to work.
 </details>
@@ -894,7 +894,7 @@ and this going together is possible only if, in the manner stated, knowledge is 
 **४२४. +++(विद्या→)+++तद्वतो विधानात् ॥ ३–४–६ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 6\. On account of injunction for such a one.
 </details>
@@ -911,7 +911,7 @@ and this going together is possible only if, in the manner stated, knowledge is 
 विद्या कर्माङ्गमित्यवगम्यते –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That knowledge is subordinate to works follows therefrom also that works are enjoined on him only who possesses knowledge. 
 </details>
@@ -932,7 +932,7 @@ That knowledge is subordinate to works follows therefrom also that works are enj
 इत्यादौ । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For texts such as 'He who has learnt the Veda from a family of teachers,' &c. (Cḥ. Up. VIII, 15), 
 </details>
@@ -948,7 +948,7 @@ For texts such as 'He who has learnt the Veda from a family of teachers,' &c. (C
 इत्य् अध्ययनवतः कर्माणि विद-तद्-अर्थावबोध-पर्यन्ताध्ययनवत एव विदधाति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 enjoin works on him only who has mastered the sacred texts so as fully to understand their meaning-- 
 </details>
@@ -964,7 +964,7 @@ enjoin works on him only who has mastered the sacred texts so as fully to unders
 अर्थावबोधपर्यन्तं ह्यध्ययनमिति स्थापितम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for this is the sense of the term 'learning' (adhyayana).
 </details>
@@ -982,7 +982,7 @@ for this is the sense of the term 'learning' (adhyayana).
 न पृथक्-फलायावकल्पते ॥६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the knowledge of Brahman also is enjoined with a view to works only:  
 it has no independent result of its own.
@@ -1001,7 +1001,7 @@ it has no independent result of its own.
 **४२५. नियमात् +++(यावज्जीवं कर्म)+++ ॥ ३–४–७ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 7\. On account of definite rule.
 </details>
@@ -1016,7 +1016,7 @@ it has no independent result of its own.
 इतश्च न विद्यातः पुरुषार्थः - 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Another argument for our conclusion is that 
 </details>
@@ -1035,7 +1035,7 @@ Another argument for our conclusion is that
 इत्यात्मविदः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the text 'Doing works here let a man desire to live a hundred years,' &c. (Is. Up. II), 
 </details>
@@ -1054,7 +1054,7 @@ the text 'Doing works here let a man desire to live a hundred years,' &c. (Is. U
 इत्य् अवगम्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 expressly enjoins lifelong works on him who knows the Self. 
 </details>
@@ -1070,7 +1070,7 @@ expressly enjoins lifelong works on him who knows the Self.
 विद्या तु कर्माङ्गमिति ॥७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The general conclusion, therefore, is that knowledge (meditation) is merely auxiliary to works. 
 </details>
@@ -1090,7 +1090,7 @@ The general conclusion, therefore, is that knowledge (meditation) is merely auxi
 एवं प्राप्ते प्रचक्ष्महे –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of this view the next Sūtra finally disposes.
 </details>
@@ -1106,7 +1106,7 @@ Of this view the next Sūtra finally disposes.
 > **४२६. +++(ब्रह्म→)+++अधिकोपदेशात् तु बादरायणस्यैवं +++(सिद्धान्तः)+++ - +++(ब्रह्म-गुणादि→)+++तद्-दर्शनात् ॥ ३–४–८ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 8\. But on account of the teaching of the different one, Badarāyaṇa's (view is valid); as this is seen.
 </details>
@@ -1132,7 +1132,7 @@ Of this view the next Sūtra finally disposes.
 विद्यात एव पुरुषार्थः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Knowledge by itself benefits man; 
 </details>
@@ -1153,7 +1153,7 @@ Knowledge by itself benefits man;
 "विद्यातः फलं" इत्येवमेव मतम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Knowledge by itself benefits man; since Scripture teaches that the object of knowledge is the highest Brahman which, as it is of an absolutely faultless and perfect nature, is other than the active individual soul.
 
@@ -1173,7 +1173,7 @@ Badarāyaṇa, therefore, holds that knowledge has an independent fruit of its o
 लिङ्गानि तिष्ठन्तु;  
 वेद्यतयोपदेशस् तु तावत् कर्तुः प्रत्यग्-आत्मनो ऽधिकस्यैव। 
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Let the inferential marks (referred to by the Pūrvapakshin) be; the direct teaching of the texts certainly refers to a being different from the Self that acts; 
 </details>
@@ -1206,7 +1206,7 @@ Let the inferential marks (referred to by the Pūrvapakshin) be; the direct teac
 परस्य ब्रह्मणो वेदनोपदेशवाक्येषु दर्शनात् – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for we clearly see that their object is the highest creative Brahman with all its perfections and exalted qualities, which cannot possibly be attributed to the individual Self whether in the state of Release or of bondage: 
 </details>
@@ -1223,7 +1223,7 @@ for we clearly see that their object is the highest creative Brahman with all it
 विजिघत्सो ऽपिपासस् सत्य-कामस् सत्य-सङ्कल्पः** (छा.८.१.५) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Free from evil, free from old age,' &c. &c. 
 </details>
@@ -1360,7 +1360,7 @@ for we clearly see that their object is the highest creative Brahman with all it
 गन्धोऽपि नास्तीति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In all those texts there is not the slightest trace of any reference to the wretched individual soul, as insignificant and weak as a tiny glow-worm, implicated in Nescience and all the other evils of finite existence. 
 </details>
@@ -1379,7 +1379,7 @@ In all those texts there is not the slightest trace of any reference to the wret
 इति विद्यातः पुरुषार्थ इति सुष्ठूक्तम् ॥८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the fruit of that knowledge of the highest Person the texts expressly declare, in many places, to be immortality – which consists in attaining to Him. The view of knowledge by itself benefitting man therefore is well founded.--
 </details>
@@ -1398,7 +1398,7 @@ And the fruit of that knowledge of the highest Person the texts expressly declar
 लिङ्गान्यपि निरस्यन्ते –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtras proceed to dispose of the so-called inferential marks.
 </details>
@@ -1415,7 +1415,7 @@ The Sūtras proceed to dispose of the so-called inferential marks.
 > **४२७. तुल्यं तु दर्शनम् ॥ ३–४–९ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 9\. But the declarations are equal.
 </details>
@@ -1437,7 +1437,7 @@ The Sūtras proceed to dispose of the so-called inferential marks.
 इति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The argument that knowledge must be held subordinate to work because we learn from Scripture that those who know Brahman perform sacrificial works, will not hold good; 
 </details>
@@ -1482,7 +1482,7 @@ The argument that knowledge must be held subordinate to work because we learn fr
 इत्यादौ। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 since, on the other hand, we also see that men knowing Brahman abandoned all work; cp. texts such as 'The R̥shis descended from Kavasha said: For what purpose should we study the Veda? for what purpose should we sacrifice?' 
 </details>
@@ -1499,7 +1499,7 @@ since, on the other hand, we also see that men knowing Brahman abandoned all wor
 अतो ब्रह्मविदां कर्मत्यागदर्शनान्न विद्या कर्माङ्गम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As it thus appears that those who know Brahman give up works, knowledge cannot be a mere auxiliary to works.
 </details>
@@ -1518,7 +1518,7 @@ As it thus appears that those who know Brahman give up works, knowledge cannot b
 > कथम् इदम् उपपद्यते ब्रह्म-विदां कर्मानुष्ठानम् अननुष्ठानं च – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > --But how can it be accounted for that those who know Brahman both do and do not perform works?
 </details>
@@ -1535,7 +1535,7 @@ As it thus appears that those who know Brahman give up works, knowledge cannot b
 तथा-विधस्य कर्मणो ऽनुष्ठान-दर्शनम् उपपद्यते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Works may be performed in so far as sacrifices and the like, if performed by one not having any special wish, stand in subordinate relation to the knowledge of Brahman; hence there is no objection to texts enjoining works. 
 </details>
@@ -1568,7 +1568,7 @@ As it thus appears that those who know Brahman give up works, knowledge cannot b
 मोक्षैक-फल-ब्रह्म-विद्याविरोधित्वात् तस्याननुष्ठान-दर्शनम् उपपन्नतरम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And as, on the other hand, sacrifices and such-like works when aiming at results of their own are opposed to the knowledge of Brahman which has Release for its only result, there is all the less objection to texts which suggest the non-performance of works.  
 </details>
@@ -1584,7 +1584,7 @@ And as, on the other hand, sacrifices and such-like works when aiming at results
 विद्यायाः कर्माङ्गत्वे कर्मत्यागः कथमपि नोपपद्यते ॥ ९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, knowledge were subordinate to works, works could on no account be dispensed with.  
 </details>
@@ -1604,7 +1604,7 @@ If, on the other hand, knowledge were subordinate to works, works could on no ac
 यद् उक्तं – "श्रुत्यैव विद्यायाः कर्माङ्गत्वम् अवगम्यते" इति; तत्राह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Against the assertion that Scripture directly declares knowledge to be subordinate to works the next Sūtra declares itself.
 </details>
@@ -1620,7 +1620,7 @@ If, on the other hand, knowledge were subordinate to works, works could on no ac
 > **४२८. असार्वत्रिकी +++(कर्माङ्ग-विद्या-श्रुतिः)+++ ॥ ३–४–१० ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 10\. (It is) non-comprehensive.
 </details>
@@ -1637,7 +1637,7 @@ If, on the other hand, knowledge were subordinate to works, works could on no ac
 न सर्वविद्याविषयेयं श्रुतिः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The scriptural declaration does not refer to all meditations, 
 </details>
@@ -1662,7 +1662,7 @@ The scriptural declaration does not refer to all meditations,
 इति प्रस्तुतोद्गीथ-विशेष-निष्ठत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but only to the meditation on the Udgītha. In the clause 'what he does with knowledge,' the 'what' is in itself indefinite, and therefore must be defined as connecting itself with the Udgītha mentioned in the previous clause, 'Let him meditate on the Udgītha.' 
 </details>
@@ -1680,7 +1680,7 @@ but only to the meditation on the Udgītha. In the clause 'what he does with kno
 न हि "यत् करोति, तद् विद्ययेति" सम्बध्यते; +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The sentence cannot be construed to mean 'whatever he does is to be done with knowledge,' 
 </details>
@@ -1701,7 +1701,7 @@ The sentence cannot be construed to mean 'whatever he does is to be done with kn
 तस्य हि वीर्यवत्तरत्वम् उच्यते ॥१०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but means 'that which he does with knowledge becomes more vigorous,' and _that which is_ done with knowledge that is the Udgītha. 
 </details>
@@ -1728,7 +1728,7 @@ but means 'that which he does with knowledge becomes more vigorous,' and _that w
 इति; तत्राह-
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra refutes the argument set forth in Sūtra 5.
 </details>
@@ -1745,7 +1745,7 @@ The next Sūtra refutes the argument set forth in Sūtra 5.
 **४२९. विभागश् शतवत् ॥ ३–४–११ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 11\. There is distribution, as in the case of the hundred.
 </details>
@@ -1766,7 +1766,7 @@ The next Sūtra refutes the argument set forth in Sūtra 5.
 कर्म च स्वस्मै फलायेति विभागो द्रष्टव्यः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As knowledge and work have different results, the text 'of him knowledge and work lay hold' must be understood in a distributive sense, i.e. as meaning that knowledge lays hold of him to the end of bringing about its own particular result, and that so likewise does work. 
 </details>
@@ -1787,7 +1787,7 @@ As knowledge and work have different results, the text 'of him knowledge and wor
 तथेहापि ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'As in the case of a hundred,' i.e. as it is understood that, when a man selling a field and a gem is said to receive two hundred gold pieces, one hundred are given for the field and one hundred for the gem.
 </details>
@@ -1807,7 +1807,7 @@ As knowledge and work have different results, the text 'of him knowledge and wor
 > **४३०. अध्ययनमात्रवतः ॥ ३–४–१२ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 12\. Of him who has merely read the Veda.
 </details>
@@ -1829,7 +1829,7 @@ As knowledge and work have different results, the text 'of him knowledge and wor
 \– इति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the argument that knowledge is only auxiliary to work because works are enjoined on him who possesses knowledge. 
 </details>
@@ -1847,7 +1847,7 @@ In the argument that knowledge is only auxiliary to work because works are enjoi
 **वेदमधीत्य** (छा.८.१५.१) इत्य् अध्ययनमात्रवतो विधानात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is there any force (in the above) -  
 
@@ -1867,7 +1867,7 @@ For the text which refers to the man 'who has read the Veda' enjoins works on hi
 आधानवद्+++(=??)+++ अध्ययनस्याक्षर-राशि-ग्रहण-मात्रे पर्यवसानात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and _reading_ there means nothing more than the apprehension of the aggregate of syllables called Veda, without any insight into their meaning. 
 </details>
@@ -1886,7 +1886,7 @@ and _reading_ there means nothing more than the apprehension of the aggregate of
 पुरुषः स्वयम् एव प्रवर्तते; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A man who has thus mastered the words of the Veda  
 apprehends therefrom that  
@@ -1906,7 +1906,7 @@ and then on his own account applies himself to the enquiry into the meaning of t
 मोक्षार्थी च ब्रह्मज्ञाने 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 he who is desirous of work applies himself to the knowledge of works; he who is desirous of Release applies himself to the knowledge of Brahman. 
 </details>
@@ -1936,7 +1936,7 @@ he who is desirous of work applies himself to the knowledge of works; he who is 
 अर्थज्ञानाद् अर्थान्तरत्वाद् विद्यायाः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And even if the injunction of _reading_ were understood as prompting to the understanding of the text also, all the same, knowledge would not be a subsidiary to works.  
 For _knowledge_, in the sense of the Upanishads, is something different from mere cognition of sense. 
@@ -1955,7 +1955,7 @@ For _knowledge_, in the sense of the Upanishads, is something different from mer
 फल-साधन-भूतं कर्मानुष्ठानम् अर्थान्तरम्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way as the performance of such works as the Jyotishṭoma sacrifice is something different from the cognition of the true nature of those works; 
 </details>
@@ -1973,7 +1973,7 @@ In the same way as the performance of such works as the Jyotishṭoma sacrifice 
 अर्थान्तरम् एव ध्यानोपासनादि-शब्द-वाच्या पुरुषार्थ-साधन-भूता विद्या 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 so that vidyā, which effects the highest purpose of man, i. e. devout meditation (dhyāna, upāsanā), is something different from the mere cognition of the true nature of Brahman. 
 </details>
@@ -1991,7 +1991,7 @@ so that vidyā, which effects the highest purpose of man, i. e. devout meditatio
 इति न तस्याः कर्म-सम्बन्ध-गन्धो विद्यते ॥१२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Knowledge of that kind has not the most remote connexion even with works.
 </details>
@@ -2010,7 +2010,7 @@ Knowledge of that kind has not the most remote connexion even with works.
 > **४३१. नाविशेषात् ॥ ३–४–१३ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 13\. Not so, on account of non-specification.
 </details>
@@ -2028,7 +2028,7 @@ Knowledge of that kind has not the most remote connexion even with works.
 यावज् जीवं कर्मानुष्ठाने नियमयतीति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the text 'Doing works here,' &c., is meant to divert him who knows the Self from knowledge and restrict him to works. 
 </details>
@@ -2043,7 +2043,7 @@ That the text 'Doing works here,' &c., is meant to divert him who knows the Self
 तन्नोपपद्यते; अविशेषात् – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is this true -  
 </details>
@@ -2062,7 +2062,7 @@ Nor is this true -
 इति +++(मन्तुं)+++ विशेष-हेतुर् अस्ति, विद्याङ्ग-भूत-कर्म-विषयतया ऽप्य् उपपत्तेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For there is no special reason  
 to hold that that text refers to works as independent means of a desirable result:  
@@ -2086,7 +2086,7 @@ it may as well be understood to refer to works merely subordinate to knowledge.
 आप्रयाणाद् उपासनस्य अनुवर्तमानत्वात् ॥१३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As he who knows the Self has to practise meditation as long as he lives, he may also have to practise, for the same period, works that are helpful to meditation. 
 </details>
@@ -2105,7 +2105,7 @@ As he who knows the Self has to practise meditation as long as he lives, he may 
 **कुर्वन्नेवेह कर्माणि** (ई.२) इत्यस्य वाक्यस्यार्थम् आह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Having thus refuted the objection on the ground of the reason of the matter, the Sūtrakāra proceeds to give his own interpretation of the text.
 </details>
@@ -2122,7 +2122,7 @@ Having thus refuted the objection on the ground of the reason of the matter, the
 > **४३२. स्तुतये ऽनुमितर् वा ॥ ३–४–१४ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 14\. Or the permission is for the purpose of glorification.
 </details>
@@ -2138,7 +2138,7 @@ Having thus refuted the objection on the ground of the reason of the matter, the
 वा-शब्दो ऽवधारणार्थः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The or has assertive force. 
 </details>
@@ -2157,7 +2157,7 @@ The or has assertive force.
 विद्या-स्तुतये सर्वदा कर्मानुष्ठानानुमतिर् इयम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The introductory words of the Upanishad, 'Hidden in the Lord is all this,' show knowledge to be the subject-matter; hence the permission of works can aim only at the glorification of knowledge. 
 </details>
@@ -2176,7 +2176,7 @@ The introductory words of the Upanishad, 'Hidden in the Lord is all this,' show 
 इति हि विद्या स्तुता भवति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The sense of the text therefore is – owing to the power of knowledge a man although constantly performing works is not stained by them.
 </details>
@@ -2225,7 +2225,7 @@ The sense of the text therefore is – owing to the power of knowledge a man alt
 > **४३३. काम-कारेण चैके +++(गार्हास्थ्य-त्यागम् अधीयते)+++ ॥ ३–४–१५ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 15\. Some also, by proceeding according to their liking.
 </details>
@@ -2249,7 +2249,7 @@ The sense of the text therefore is – owing to the power of knowledge a man alt
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In some śākhās, moreover, we read that  
 he who possesses the knowledge of Brahman may,  
@@ -2274,7 +2274,7 @@ we who have this Self and this world?' (Br̥. Up. V, 4, 22.)
 ब्रह्म-विद्यायाः कर्मानङ्गत्वं दर्शयति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This text also proves knowledge not to be subsidiary to works;  
 for if it were so subsidiary, it would not be possible for him who knows Brahman to give up householdership (with all the works obligatory on that state) according to his liking.
@@ -2318,7 +2318,7 @@ for if it were so subsidiary, it would not be possible for him who knows Brahman
 > **४३४. +++(सञ्चित-कर्म-)+++उपमर्दं च +++(अधीयते)+++ ॥ ३–४–१६ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 16\. And destruction.
 </details>
@@ -2336,7 +2336,7 @@ for if it were so subsidiary, it would not be possible for him who knows Brahman
 प्रतिवेदान्तम् अधीयते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There is moreover a Vedānta-text which declares the knowledge of Brahman to destroy work-good and evil- which is the root of all the afflictions of transmigratory existence: 
 </details>
@@ -2359,7 +2359,7 @@ There is moreover a Vedānta-text which declares the knowledge of Brahman to des
 इत्य्-आदिकम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'The knot of the heart is broken,  
 all doubts are solved,  
@@ -2381,7 +2381,7 @@ when He has been beheld who is high and low'
 तद् विद्यायाः कर्माङ्गत्वे न सङ्गच्छते॥१६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This also contradicts the view of knowledge being subordinate to works.
 </details>
@@ -2400,7 +2400,7 @@ This also contradicts the view of knowledge being subordinate to works.
 > **४३५. +++(ब्रह्म-विद्या)+++ ऊर्ध्वरेतस्सु च शब्दे हि ॥ ३–४–१७ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 17\. And of him who is chaste; for in Scripture (this is declared).
 </details>
@@ -2420,7 +2420,7 @@ This also contradicts the view of knowledge being subordinate to works.
 न विद्या कर्माङ्गम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The knowledge of Brahman belongs to those who have to observe chastity, and men living in that state have not to perform the Agnihotra, the Darśapūrṇamāsa, and similar works. 
 </details>
@@ -2440,7 +2440,7 @@ The knowledge of Brahman belongs to those who have to observe chastity, and men 
 श्रुति-विरुद्धानां स्मृतीनां चाप्रामाण्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this reason also knowledge cannot be subsidiary to works.--But, it may be objected, there is no such condition of life; for texts such as 'he is to perform the Agnihotra as long as he lives,' declare men to be obliged to perform sacrifices and the like up to the end of their lives, and Smr̥ti texts contradicting Scripture have no authority.
 </details>
@@ -2456,7 +2456,7 @@ For this reason also knowledge cannot be subsidiary to works.--But, it may be ob
 अत आह – शब्दे हि – इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --To meet this the Sūtra adds 'for in Scripture.' 
 </details>
@@ -2473,7 +2473,7 @@ For this reason also knowledge cannot be subsidiary to works.--But, it may be ob
 वैदिक एव हि शब्दे ते दृश्यन्ते 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The three stages of life are recognised in Scripture only; 
 </details>
@@ -2502,7 +2502,7 @@ The three stages of life are recognised in Scripture only;
 > ये चेमेऽरण्ये श्रद्धा तप इत्युपासते (छा.५.१०.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 cp. texts such as  
 
@@ -2522,7 +2522,7 @@ cp. texts such as
 इत्यादौ। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Wishing for that world only mendicants wander forth from their homes' (Br̥. Up. IV, 4, 22). 
 </details>
@@ -2538,7 +2538,7 @@ cp. texts such as
 यावज्-जीव-श्रुतिस् त्व् अ-विरक्त-विषया ॥१७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text as to the lifelong obligatoriness of the Agnihotra is valid for those only who do not retire from worldly life.
 </details>
@@ -2559,7 +2559,7 @@ The text as to the lifelong obligatoriness of the Agnihotra is valid for those o
 अचोदनाच् च, अपवदति हि ॥ ३–४–१८ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 18\. A reference (only) Jaimini (holds them to be), on account of absence of injunction; for (Scripture) forbids.
 </details>
@@ -2581,7 +2581,7 @@ The text as to the lifelong obligatoriness of the Agnihotra is valid for those o
 इति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The argument for the three stages of life, founded on their mention in Vedic texts, 
 </details>
@@ -2601,7 +2601,7 @@ The argument for the three stages of life, founded on their mention in Vedic tex
 अनुवाद-मात्रम् इत्य् अर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 has no force, since all those references are only of the nature of anuvāda. 
 </details>
@@ -2627,7 +2627,7 @@ has no force, since all those references are only of the nature of anuvāda.
 
 न ह्य् अत्र विधिशब्दः श्रूयते;
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For none of those texts contain injunctive forms. 
 </details>
@@ -2647,7 +2647,7 @@ For none of those texts contain injunctive forms.
 प्रकृतं प्रणवेन ब्रह्मोपासनं स्तूयते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text 'There are three branches of sacred observance,' &c. (Cḥ. Up. II, 23, 1), is meant to glorify the previous meditation on Brahman under the form of the pranava, 
 </details>
@@ -2664,7 +2664,7 @@ The text 'There are three branches of sacred observance,' &c. (Cḥ. Up. II, 23,
 इत्य् उपसंहारात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 as appears from the concluding clause 'he who is firmly grounded in Brahman obtains immortality'; 
 </details>
@@ -2679,7 +2679,7 @@ as appears from the concluding clause 'he who is firmly grounded in Brahman obta
 अतो ऽन्यार्थम् अनुवाद-मात्रम् अत्र क्रियते  
 तेषाम् आश्रमाणाम्।  
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it therefore cannot mean to enjoin the three conditions of life as valid states. 
 </details>
@@ -2700,7 +2700,7 @@ it therefore cannot mean to enjoin the three conditions of life as valid states.
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way the text 'And those who in the forest practise penance and faith' refers to the statements previously made as to the path of the gods, and cannot therefore be meant to make an original declaration as to another condition of life. 
 </details>
@@ -2722,7 +2722,7 @@ In the same way the text 'And those who in the forest practise penance and faith
 इत्य्-आदिका । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Scripture moreover expressly forbids that other condition, 'a murderer of men is he who removes the fire,' &c. 
 </details>
@@ -2738,7 +2738,7 @@ Scripture moreover expressly forbids that other condition, 'a murderer of men is
 अत ऊर्ध्वरेतस आश्रमा न सन्तीति जैमिनिराचार्यो मन्यते ॥१८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There are therefore no conditions of life in which men are bound to observe chastity. This is the opinion of the teacher Jaimini.
 </details>
@@ -2756,7 +2756,7 @@ There are therefore no conditions of life in which men are bound to observe chas
 **४३७. +++(गृहस्थेतराश्रम-गतम् अप्य्)+++ अनुष्ठेयं +++(इति)+++ बादरायणस् - +++(अनुष्ठेयत्वे तेषु)+++ साम्यश्रुतेः॥ ३–४–१९ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 19. It is to be accomplished, Bādarayaṇa holds, on account of scriptural statement of equality.
 </details>
@@ -2772,7 +2772,7 @@ There are therefore no conditions of life in which men are bound to observe chas
 गृहस्थाश्रमवद् आश्रमान्तरम् अप्यनुष्ठेयं भगवान् बादरायणो मन्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Bādarāyaṇa is of opinion that, in the same way as the condition of householdership, those other conditions of life also are obligatory; 
 </details>
@@ -2816,7 +2816,7 @@ Bādarāyaṇa is of opinion that, in the same way as the condition of household
 गृहस्थाश्रमस्येतरेषां च समानम्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 since in the section beginning 'there are three branches of sacred duty' all the three conditions of life are equally referred to,  
 with a view to glorifying him who is firmly grounded in Brahman.  
@@ -2841,7 +2841,7 @@ with a view to glorifying him who is firmly grounded in Brahman.
 अन्यत्राभिनिवेशात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The reference there made to the condition of the householder  
 necessarily presupposes that condition to be already established and obligatory,  
@@ -2872,7 +2872,7 @@ with regard to the other conditions mentioned.
 इति युक्तम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor must it be said that the special duties mentioned at the beginning of the section--  
 sacrifice, study, charity, austerity, Brahmacarya--  
@@ -2899,7 +2899,7 @@ all of them belong to the state of the householder
 इति विभाग-वचनानुपपत्तेः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for on that supposition the definite reference to a threefold division of duties, 'Sacrifice, &c. are the first, austerity the second, Brahmacarya the third,' would be unmeaning. 
 </details>
@@ -2944,7 +2944,7 @@ The proper explanation is to take the words ' sacrifice, study, and charity' as 
 उभयोः तपः-प्रधानत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the word 'austerity' as descriptive of the duties of the Vaikhānasa and the wandering mendicant, who both practise mortification; 
 </details>
@@ -2972,7 +2972,7 @@ the word 'austerity' as descriptive of the duties of the Vaikhānasa and the wan
 ब्रह्म-चारि-धर्म एव ब्रह्म-चर्य-शब्देनाभिधीयते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the word 'Brahmacarya' as referring to the duties of the Brahmacarin. 
 </details>
@@ -2992,7 +2992,7 @@ and the word 'Brahmacarya' as referring to the duties of the Brahmacarin.
 सर्वेषामाश्रमिणां ब्रह्म-संस्था-सम्भवात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The term 'Brahmasaṁstha' finally, in the concluding clause, refers to all the three conditions of life, as men belonging to all those conditions may be founded on Brahman. 
 </details>
@@ -3023,7 +3023,7 @@ The term 'Brahmasaṁstha' finally, in the concluding clause, refers to all the 
 तेष्व् एव ब्रह्म-निष्ठो ऽमृतत्व-भाग् भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Those, the text means to say, who are destitute of this foundation on Brahman and only perform the special duties of their condition of life, obtain the worlds of the blessed;  
 while he only who at the same time founds himself on Brahman attains to immortality.
@@ -3101,7 +3101,7 @@ while he only who at the same time founds himself on Brahman attains to immortal
 देवयान-विधानस्य तत्रापि तत्-प्राप्तिर् अङ्गीकरणीया ॥ १९॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --In the text 'and those who in the forest,' &c. the mention made of the forest shows that the statement as to the path of the gods has for its presupposition the fact that that stage of life which is especially connected with the forest is one generally recognised.
 </details>
@@ -3123,7 +3123,7 @@ while he only who at the same time founds himself on Brahman attains to immortal
 नानुवाद इत्युपपादयितुमाह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --So far it has been shown that the other stages of life are no less obligatory than that of the householder, whether we take the text under discussion as containing merely a reference to those stages (as established by independent means of proof) or as directly enjoining them. The next Sūtra is meant to show that the latter view is after all the right one.
 </details>
@@ -3140,7 +3140,7 @@ while he only who at the same time founds himself on Brahman attains to immortal
 > **४३८. विधिर् वा +++(अनुवादप्राय-वाक्य-विहित-समिद्-)+++धारणवत् ॥ ३–४–२० ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 20\. Or an injunction, as in the case of the carrying.
 </details>
@@ -3185,7 +3185,7 @@ while he only who at the same time founds himself on Brahman attains to immortal
 विधिर् आश्रीयते; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As the second part of the text  
 
@@ -3224,7 +3224,7 @@ since the carrying of firewood above is not established by any other injunction;
 विधिर् एवाश्रयणीयः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 so the text under discussion also must be taken as an injunction of the different stages of life (which are not formally enjoined elsewhere). 
 </details>
@@ -3247,7 +3247,7 @@ so the text under discussion also must be taken as an injunction of the differen
 यदहरेव विरजेत् तद्-अहरेव प्रव्रजेत्** (जाबा.उ.४) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Having completed his studentship he is to become a householder,' &c., 
 </details>
@@ -3267,7 +3267,7 @@ so the text under discussion also must be taken as an injunction of the differen
 इत्य् उपपादितम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 No account being taken of the text of the Jābālas,  
 it is thus a settled conclusion that the texts discussed,  
@@ -3291,7 +3291,7 @@ must at the same time be viewed as proving the validity of the several condition
 ऋण-श्रुतिर् यावज्-जीव-श्रुतिर् अपवाद-श्रुतिश्+++(=??-)+++ चाविरक्त-विषया एवेति वेदितव्याः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From this it follows that the text enjoining the performance of the Agnihotra up to the end of life, and similar texts, are not universally binding, but concern those only who do not retire from worldly life.--
 </details>
@@ -3309,7 +3309,7 @@ From this it follows that the text enjoining the performance of the Agnihotra up
 स्व-स्वाश्रम-धर्म-विषयाः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The final conclusion therefore is that as the knowledge of Brahman is enjoined on those who lead a life of austerity (which does not require the performance of sacrifices and the like), it is not subordinate to works, but is in itself beneficial to man.
 </details>
@@ -3338,7 +3338,7 @@ The final conclusion therefore is that as the knowledge of Brahman is enjoined o
 **इति श्रीशारीरकमीमांसाभाष्ये पुरुषार्थाधिकरणम् ॥ १॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of 'benefit to man.'
 </details>

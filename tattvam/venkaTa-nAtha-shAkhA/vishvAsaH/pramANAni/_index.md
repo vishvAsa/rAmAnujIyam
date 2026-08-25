@@ -192,6 +192,9 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 ### उपनिषदः
 उपनिषदां काचिद् आवलिर् लभ्यते वैकुण्ठदीक्षितीये - [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/03_shAstra-nAma-nirUpaNam) ।
 
+See commentary on authoritative upaniShats - [TW](/content/conversations/YT/shAnkaras/upaniShat-fabrication). 
+
+
 ## स्मृतिः
 साधारणविचारो ऽन्यत्र द्रष्टव्यः। 
 

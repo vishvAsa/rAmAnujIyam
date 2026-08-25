@@ -15,7 +15,7 @@ title = "०७ सूत्रम् सविशेषं वक्ति"
 सविशेषं ब्रह्मेत्य् एव हि तत्र वक्ष्यति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtra III, 2, 11 does not, as our opponent alleges, refer to a Brahman free from all difference, but to Brahman as possessing attributes – as we shall show in its place.
 </details>
@@ -37,7 +37,7 @@ The Sūtra III, 2, 11 does not, as our opponent alleges, refer to a Brahman free
 पारमार्थिकत्वम् एव वक्ष्यति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the Sūtra III, 2, 3 declares that the things seen in dreams are mere 'Māyā' because they differ in character from the things perceived in the waking state; from which it follows that the latter things are real.
 </details>

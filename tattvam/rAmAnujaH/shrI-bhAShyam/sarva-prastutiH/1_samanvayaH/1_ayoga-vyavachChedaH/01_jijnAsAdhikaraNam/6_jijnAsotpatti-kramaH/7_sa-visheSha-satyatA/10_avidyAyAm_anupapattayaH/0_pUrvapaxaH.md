@@ -10,7 +10,7 @@ title = "० पूर्वपक्षः"
 दोष-परिकल्पितम् ईशेशितव्याद्य्-अनन्त-विकल्पं सर्वं जगत्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We now proceed to the consideration of Nescience.--  
 According to the view of our opponent,  
@@ -34,7 +34,7 @@ fictitiously superimposed upon the non-differenced, self-luminous Reality;
 सद्-असद्-अनिर्वचनीयानाद्य्-अविद्या। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and what constitutes that defect is beginningless Nescience,  
 which invests the Reality,  
@@ -59,7 +59,7 @@ and cannot be denned either as being or non-being.
 > इत्य्-आदिभिः श्रुतिभिः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such Nescience, he says,  
 must necessarily be admitted,  
@@ -78,7 +78,7 @@ firstly on the ground of scriptural texts, such as
 > +++(सा चावश्याभ्युपगमनीया)+++ ब्रह्मणस् "तत् त्वम् अस्य्"-आदि- वाक्य--सामानाधिकरण्यावगत-- जीवैक्यानुपपत्त्या च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and secondly because  
 otherwise the oneness of the individual souls with Brahman--  
@@ -99,7 +99,7 @@ cannot be established.
 +++(सत्तायाम्)+++ भ्रान्ति-बाधयोर् अयोगात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This Nescience is neither 'being,'  
 because in that case it could not be the object of erroneous cognition (bhrama) and sublation (bādha); 
@@ -117,7 +117,7 @@ because in that case it could not be the object of erroneous cognition (bhrama) 
 > नाप्य् असती, ख्याति-बाधयोश् चायोगात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor is it 'non-being,' because in that case it could not be the object of apprehension and sublation [^fn_17]. 
 
@@ -138,7 +138,7 @@ nor is it 'non-being,' because in that case it could not be the object of appreh
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence orthodox Philosophers declare that this Nescience falls under neither of these two opposite categories.
 </details>

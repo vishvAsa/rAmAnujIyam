@@ -9,7 +9,7 @@ title = "+७ सविशेष-सत्यता"
 महासिद्धान्तः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 THE GREAT SIDDHĀNTA.
 </details>

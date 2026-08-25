@@ -5,7 +5,7 @@ title = "०६ श्रुतयः सविशेष-पराः"
 
 श्रुतिघट्टः
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 No scriptural texts teach a Brahman devoid of all difference.
 </details>
@@ -30,7 +30,7 @@ No scriptural texts teach a Brahman devoid of all difference.
 श्वेतकेतुं प्रत्य् उपदेशाय प्रवृत्तत्वात् प्रकरणस्य।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We now turn to the assertion that certain scriptural texts, as e.g. 'Being only was this in the beginning,' are meant to teach that there truly exists only one homogeneous substance, viz. Intelligence free from all difference.--This we cannot allow. For the section in which the quoted text occurs, in order to make good the initial declaration that by the knowledge of one thing all things are known, shows that the highest Brahman which is denoted by the term 'Being' is the substantial and also the operative cause of the world; that it is all-knowing, endowed with all powers; that its purposes come true; that it is the inward principle, the support and the ruler of everything; and that distinguished by these and other good qualities it constitutes the Self of the entire world; and then finally proceeds to instruct Śvetaketu that this Brahman constitutes his Self also ('Thou art that').
 </details>
@@ -45,7 +45,7 @@ We now turn to the assertion that certain scriptural texts, as e.g. 'Being only 
 प्रपञ्चितश् चायम् अर्थो वेदार्थ-सङ्ग्रहे।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We have fully set forth this point in the Vedārtha-saṁgraha
 </details>
@@ -60,7 +60,7 @@ We have fully set forth this point in the Vedārtha-saṁgraha
 अत्राप्य् आरम्भणाधिकरणे निपुणतरम् उपपादयिष्यते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and shall establish it in greater detail in the present work also, in the so-called ārambhaṇa-adhikaraṇa.
 </details>
@@ -79,7 +79,7 @@ and shall establish it in greater detail in the present work also, in the so-cal
 नित्यत्व-विभुत्व-सूक्ष्मत्व-सर्वगतत्वाव्ययत्व-- भूत-योनित्व--सार्वज्ञ्यादि- कल्याण-गुण-योगः परस्य ब्रह्मणः प्रतिपादितः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way the passage 'the higher knowledge is that by which the Indestructible is apprehended, &c.' (Mu. Up. I, 1, 5) first denies of Brahman all the evil qualities connected with Prakr̥ti, and then teaches that to it there belong eternity, all-pervadingness. subtilty, omnipresence, omniscience, imperishableness, creativeness with regard to all beings, and other auspicious qualities.
 </details>
@@ -100,7 +100,7 @@ In the same way the passage 'the higher knowledge is that by which the Indestruc
 न निर्विशेष-वस्तु-सिद्धिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now we maintain that also the text 'True, knowledge, infinite is Brahman', does not prove a substance devoid of all difference, for the reason that the co-ordination of the terms of which it consists explains itself in so far only as denoting one thing distinguished by several attributes.
 </details>
@@ -115,7 +115,7 @@ Now we maintain that also the text 'True, knowledge, infinite is Brahman', does 
 प्रवृत्ति-निमित्त-भेदेनैकार्थ-वृत्तित्वं हि सामानाधिकरण्यम्।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For 'co-ordination' (sāmānādhikaraṇya, lit.'the abiding of several things in a common substrate') means the reference (of several terms) to one thing, there being a difference of reason for the application (of several terms to one thing).
 </details>
@@ -133,7 +133,7 @@ For 'co-ordination' (sāmānādhikaraṇya, lit.'the abiding of several things i
 निमित्त-भेदो ऽवश्याश्रयणीयः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now whether we take the several terms,' True','Knowledge','Infinite', in their primary sense, i.e. as denoting qualities, or as denoting modes of being opposed to whatever is contrary to those qualities; in either case we must needs admit a plurality of causes for the application of those several terms to one thing.
 </details>
@@ -150,7 +150,7 @@ Now whether we take the several terms,' True','Knowledge','Infinite', in their p
 +++("निमित्त-भेदो गुण-विरोधि-प्रत्यनीकैर्" इत्य्)+++ अपरस्मिंश् च तेषां लक्षणा।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There is however that difference between the two alternatives that in the former case the terms preserve their primary meaning, while in the latter case their denotative power depends on so-called 'implication' (lakshaṇā).
 </details>
@@ -167,7 +167,7 @@ There is however that difference between the two alternatives that in the former
 पदान्तर-प्रयोग-वैयर्थ्यात्।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be said that the opposition in nature to non-knowledge,&c.(which is the purport of the terms on the hypothesis of lakshaṇā), constitutes nothing more than the essential nature (of one non-differenced substance; the three terms thus having one purport only); for as such essential nature would be sufficiently apprehended through one term, the employment of further terms would be purposeless.
 </details>
@@ -183,7 +183,7 @@ Nor can it be said that the opposition in nature to non-knowledge,&c.(which is t
 एकस्मिन् वस्तुनि वर्तमानानां पदानां निमित्त-भेदानाश्रयणात्।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This view would moreover be in conflict with co-ordination, as it would not allow of difference of motive for several terms applied to one thing.
 </details>
@@ -202,7 +202,7 @@ This view would moreover be in conflict with co-ordination, as it would not allo
 एकस्मिन्न् अर्थे वृत्तिस् सामानाधिकरण्यम् (कैयटे वृद्ध्य्-आह्निके) इति हि शाब्दिकाः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the other hand it cannot be urged against the former alternative that the distinction of several attributes predicated of one thing implies a distinction in the thing to which the attributes belong, and that from this it follows that the several terms denote several things – a result which also could not be reconciled with 'co-ordination'; for what 'co-ordination' aims at is just to convey the idea of one thing being qualified by several attributes. For the grammarians define 'coordination' as the application, to one thing, of several words, for the application of each of which there is a different motive.
 </details>
@@ -227,7 +227,7 @@ On the other hand it cannot be urged against the former alternative that the dis
 इति -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You have further maintained the following view:--In the text 'one only without a second', the phrase 'without a second' negatives all duality on Brahman's part even in so far as qualities are concerned. We must therefore, according to the principle that all Śākhās convey the same doctrine, assume that all texts which speak of Brahman as cause, aim at setting forth an absolutely non-dual substance. Of Brahman thus indirectly defined as a cause, the text 'The True, knowledge, infinite is Brahman,' contains a direct definition;
 </details>
@@ -248,7 +248,7 @@ You have further maintained the following view:--In the text 'one only without a
 विचित्र-शक्ति-योग-प्रतिपादन-परत्वाद् अद्वितीय-पदस्य।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the Brahman here meant to be defined must thus be devoid of all qualities. Otherwise, moreover, the text would be in conflict with those other texts which declare Brahman to be without qualities and blemish.--But this also cannot be admitted. What the phrase 'without a second' really aims at intimating is that Brahman possesses manifold powers, and this it does by denying the existence of another ruling principle different from Brahman.
 </details>
@@ -268,7 +268,7 @@ the Brahman here meant to be defined must thus be devoid of all qualities. Other
 इत्य्-आदि।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That Brahman actually possesses manifold powers the text shows further on, 'It thought, may I be many, may I grow forth,' and 'it sent forth fire,' and so on.--
 </details>
@@ -293,7 +293,7 @@ That Brahman actually possesses manifold powers the text shows further on, 'It t
 इति प्रतिपादितम् +++("अद्वितीयम्" इत्यस्मात् प्राक्)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But how are we to know that the mere phrase 'without a second' is meant to negative the existence of all other causes in general?--As follows, we reply. The clause 'Being only this was in the beginning, one only,' teaches that Brahman when about to create constitutes the substantial cause of the world.
 </details>
@@ -310,7 +310,7 @@ But how are we to know that the mere phrase 'without a second' is meant to negat
 इत्य् अवगम्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here the idea of some further operative cause capable of giving rise to the effect naturally presents itself to the mind, and hence we understand that the added clause 'without a second' is meant to negative such an additional cause.
 </details>
@@ -327,7 +327,7 @@ Here the idea of some further operative cause capable of giving rise to the effe
 स्वाभ्युपगतास् सिषाधयिषिता नित्यत्वादयश् च निषिद्धास् स्युः ॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If it were meant absolutely to deny all duality, it would deny also the eternity and other attributes of Brahman which you yourself assume.
 </details>
@@ -346,7 +346,7 @@ If it were meant absolutely to deny all duality, it would deny also the eternity
 सर्व-ज्ञत्वादीनां गुणानाम् अत्रोपसंहार-हेतुत्वात् +++(तस्य न्यायस्य)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You in this case make just the wrong use of the principle of all the--Śākhās containing the same doctrine; what this principle demands is that the qualities attributed in all--Śākhās to Brahman as cause should be taken over into the passage under discussion also.
 </details>
@@ -363,7 +363,7 @@ You in this case make just the wrong use of the principle of all the--Śākhās 
 स-विशेषम् एव प्रतिपाद्यत इति विज्ञायते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same consideration teaches us that also the text 'True, knowledge', &c., teaches Brahman to possess attributes; for this passage has to be interpreted in agreement with the texts referring to Brahman as a cause.
 </details>
@@ -385,7 +385,7 @@ The same consideration teaches us that also the text 'True, knowledge', &c., tea
 न च निर्गुण-वाक्य-विरोधः, प्राकृत-हेय-गुण-विषयत्वात् तेषां निर्गुणं, निरञ्जनं, निष्कलं, निष्क्रियं, शान्तम् इत्य् आदिनाम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor does this imply a conflict with the texts which declare Brahman to be without qualities; for those texts are meant to negative the evil qualities depending on Prakr̥ti.--
 </details>
@@ -404,7 +404,7 @@ Nor does this imply a conflict with the texts which declare Brahman to be withou
 ज्ञातुर् एव ज्ञान-स्वरूपत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Those texts again which refer to mere knowledge declare indeed that knowledge is the essential nature of Brahman, but this does not mean that mere knowledge constitutes the fundamental reality. For knowledge constitutes the essential nature of a knowing subject only which is the substrate of knowledge,
 </details>
@@ -420,7 +420,7 @@ Those texts again which refer to mere knowledge declare indeed that knowledge is
 मणि--द्यु-मणि--दीपादिवद् युक्तम् एवेत्य् उक्तम्।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 in the same way as the sun, lamps, and gems are the substrate of Light.
 </details>
@@ -435,7 +435,7 @@ in the same way as the sun, lamps, and gems are the substrate of Light.
 ज्ञातृत्वम् एव हि सर्वाश् श्रुतयो वदन्ति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That Brahman is a knowing subject all scriptural texts declare; 
 </details>
@@ -473,7 +473,7 @@ That Brahman is a knowing subject all scriptural texts declare;
 विजरो विमृत्युर् विशोको विजिघत्सो ऽपिपासस् सत्य-कामः सत्य-सङ्कल्पः – (छा.८.१.५) – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 cp. 'He who is all knowing' (Mu. Up. I, 1, 9); 'It thought' (Cḥ. Up.VI, 2, 3); 'This divine being thought' (Cḥ. Up. VI, 3, 2); 'He thought, let me send forth the worlds' (Ait. Ār. II,4, 1, 2); 'He who arranges the wishes – as eternal of those who are not eternal, as thinker of (other) thinkers, as one of many' (Ka. Up. II, 5, 13); 'There are two unborn ones – one who knows, one who does not know – one strong, the other weak' (Śvet. Up. I, 9); 'Let us know Him, the highest of Lords, the great Lord, the highest deity of deities, the master of masters, the highest above the god, the lord of the world, the adorable one' (Śvet. Up. VI, 7);  
 'Of him there is known no effect (body) or instrument;  
@@ -495,7 +495,7 @@ his high power is revealed as manifold, forming his essential nature, as knowled
 समस्त-हेय-रहिततां च ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 These and other texts declare that to Brahman, whose essential nature is knowledge, there belong many excellent qualities – among which that of being a knowing subject stands first, and that Brahman is free from all evil qualities.
 </details>
@@ -523,7 +523,7 @@ These and other texts declare that to Brahman, whose essential nature is knowled
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the texts referring to Brahman as free from qualities, and those which speak of it as possessing qualities, have really one and the same object may be inferred from the last of the passages quoted above; the earlier part of which--'free from sin,' up to 'free from thirst'--denies of Brahman all evil qualities, while its latter part--'whose wishes are true,' and so on – asserts of its certain excellent qualities. As thus there is no contradiction between the two classes of texts, there is no reason whatever to assume that either of them has for its object something that is false.--
 </details>
@@ -550,7 +550,7 @@ That the texts referring to Brahman as free from qualities, and those which spea
 इति ब्रह्मणः कल्याण-गुणानन्त्यम् अत्य् आदरेण वदतीयं श्रुतिः॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With regard to the concluding passage of the Taittiriya-text, 'from whence all speech, together with the mind, turns away, unable to reach it [^fn_14],' we point out that with the passage 'From terror of it the wind blows,' there begins a declaration of the qualities of Brahman, and that the next section 'one hundred times that human bliss,' &c., makes statements as to the relative bliss enjoyed by the different classes of embodied souls; the concluding passage 'He who knows the bliss of that Brahman from whence all speech, together with the mind, turns away unable to reach it,' hence must be taken as proclaiming with emphasis the infinite nature of Brahman's auspicious qualities.
 </details>
@@ -573,7 +573,7 @@ With regard to the concluding passage of the Taittiriya-text, 'from whence all s
 परस्य विपश्चितो ब्रह्मणो गुणानन्त्यं ब्रवीति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, a clause in the chapter under discussion – viz. 'he obtains all desires, together with Brahman the all-wise' (II, 1)--which gives information as to the fruit of the knowledge of Brahman clearly declares the infinite nature of the qualities of the highest all-wise Brahman.
 </details>
@@ -588,7 +588,7 @@ Moreover, a clause in the chapter under discussion – viz. 'he obtains all desi
 विपश्चिता ब्रह्मणा सह सर्वान् कामान् समश्नुते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 He enjoys all desires together with the all-wise Brahman.
 </details>
@@ -609,7 +609,7 @@ He enjoys all desires together with the all-wise Brahman.
 ब्रह्माभीष्टा लीला-भोगाव् इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The 'desires' (kāmāḥ) are the auspicious qualities of Brahman which are the objects of desire;
 </details>
@@ -626,7 +626,7 @@ The 'desires' (kāmāḥ) are the auspicious qualities of Brahman which are the 
 इत्य् अर्थः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the meaning is that the man who knows Brahman obtains, together with Brahman, all qualities of it.
 </details>
@@ -646,7 +646,7 @@ the meaning is that the man who knows Brahman obtains, together with Brahman, al
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The expression 'together with' is meant to bring out the primary importance of the qualities; as also described in the so-called dahara-vidyā (Cḥ. Up. VIII, 1).
 </details>
@@ -667,7 +667,7 @@ The expression 'together with' is meant to bring out the primary importance of t
 इति श्रुत्यैव सिद्धम्॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that fruit and meditation are of the same character (i.e. that in meditations on Brahman its qualities are the chief matter of meditation, just as these qualities are the principal point in Brahman reached by the Devotee) is proved by the text 'According to what a man's thought is in this world, so will he be after he has departed this life' (Cḥ. Up. III, 14, 1).
 </details>
@@ -698,7 +698,7 @@ And that fruit and meditation are of the same character (i.e. that in meditation
 इति ज्ञानान् मोक्षोपदेशो न स्यात्।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If it be said that the passage 'By whom it is not thought by him it is thought', 'not understood by those who understand' (Ke. Up. II, 3), declares Brahman not to be an object of knowledge; we deny this, because were it so, certain other texts would not teach that final Release results from knowledge; cp. 'He who knows Brahman obtains the Highest' (Taitt. Up. II, 1, 1); 'He knows Brahman, he becomes Brahman.'
 </details>
@@ -719,7 +719,7 @@ If it be said that the passage 'By whom it is not thought by him it is thought',
 आत्म-नाशम् आत्म-सत्तां च वदति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And, moreover, the text 'He who knows Brahman as non-existing becomes himself non-existing; he who knows Brahman as existing, him we know himself as existing' (Taitt Up. II, 6, 1), makes the existence and non-existence of the Self dependent on the existence and non-existence of knowledge which has Brahman for its object.
 </details>
@@ -735,7 +735,7 @@ And, moreover, the text 'He who knows Brahman as non-existing becomes himself no
 सर्वाश् श्रुतयो विदधति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We thus conclude that all scriptural texts enjoin just the knowledge of Brahman for the sake of final Release.
 </details>
@@ -753,7 +753,7 @@ We thus conclude that all scriptural texts enjoin just the knowledge of Brahman 
 उपास्यम् च ब्रह्म सगुणम् इत्य् उक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This knowledge is, as we already know, of the nature of meditation, and what is to be meditated on is Brahman as possessing qualities.
 </details>
@@ -776,7 +776,7 @@ This knowledge is, as we already know, of the nature of meditation, and what is 
 इत्य् उक्तम्, अपरिच्छिन्नत्वाद् ब्रह्मणः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (The text from the Ke. Up. then explains itself as follows:--) We are informed by the passage 'from whence speech together with mind turns away, being unable to reach it', that the infinite Brahman with its unlimited excellences cannot be defined either by mind or speech as being so or so much, and from this we conclude the Kena text to mean that Brahman is not thought and not understood by those who understand it to be of a definitely limited nature; Brahman in truth being unlimited.
 </details>
@@ -796,7 +796,7 @@ This knowledge is, as we already know, of the nature of meditation, and what is 
 इति मतत्व-विज्ञातत्व-वचनं तत्रैव विरुध्यते॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the text did not mean this, it would be self-contradictory, parts of it saying that Brahman is _not_ thought and _not_ understood, and other parts, that it iś thought and iś understood.
 </details>
@@ -835,7 +835,7 @@ If the text did not mean this, it would be self-contradictory, parts of it sayin
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now as regards the assertion that the text 'Thou mayest not see the seer of seeing; thou mayest not think the thinker of thinking' (Br̥. Up. III, 5, 2), denies the existence of a seeing and thinking subject different from mere seeing and thinking – This view is refuted by the following interpretation. The text addresses itself to a person who has formed the erroneous opinion that the quality of consciousness or knowledge does not constitute the essential nature of the knower, but belongs to it only as an adventitious attribute, and tells him 'Do not view or think the Self to be such, but consider the seeing and thinking Self to have seeing and thinking for its essential nature.'--
 </details>
@@ -869,7 +869,7 @@ Now as regards the assertion that the text 'Thou mayest not see the seer of seei
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Or else this text may mean that the embodied Self which is the seer of seeing and the thinker of thinking should be set aside, and that only the highest Self – the inner Self of all beings – should be meditated upon.--Otherwise a conflict would arise with texts declaring the knowership of the Self, such as 'whereby should he know the knower?' (Br̥. Up. IV, 5, 15).
 </details>
@@ -897,7 +897,7 @@ Or else this text may mean that the embodied Self which is the seer of seeing an
 ज्ञानं स्वरूपम् इति वदती"ति परिहृतम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Your assertion that the text 'Bliss is Brahman' (Taitt. Up. III, 6, 1) proves pure Bliss to constitute the essential nature of Brahman is already disposed of by the refutation of the view that knowledge (consciousness) constitutes the essential nature of Brahman; Brahman being in reality the substrate only of knowledge.
 </details>
@@ -912,7 +912,7 @@ Your assertion that the text 'Bliss is Brahman' (Taitt. Up. III, 6, 1) proves pu
 ज्ञानम् एव ह्य् अनुकूलम् आनन्द इत्युच्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For by bliss we understand a pleasing state of consciousness.
 </details>
@@ -929,7 +929,7 @@ For by bliss we understand a pleasing state of consciousness.
 इत्य् आनन्द-रूपम् एव ज्ञानं ब्रह्मेत्य् अर्थः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such passages as 'consciousness, bliss is Brahman,' therefore mean 'consciousness – the essential character of which is bliss – is Brahman.'
 </details>
@@ -944,7 +944,7 @@ Such passages as 'consciousness, bliss is Brahman,' therefore mean 'consciousnes
 अत एव भवताम् +++(ब्रह्मण्य्)+++ एक-रसता।  
 </details>
 
-<details><summary>English - </summary>
+<details><summary>Thibaut - </summary>
 
 On this identity of the two things there rests that homogeneous character of Brahman, so much insisted upon by yourself. 
 </details>
@@ -962,7 +962,7 @@ On this identity of the two things there rests that homogeneous character of Bra
 इत्य् उक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And in the same way as numerous passages teach that Brahman, while having knowledge for its essential nature, is at the same time a knowing subject;
 </details>
@@ -986,7 +986,7 @@ And in the same way as numerous passages teach that Brahman, while having knowle
 ज्ञातृत्वम् एव ह्य् आनन्दित्वम्॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 so other passages, speaking of Brahman as something separate from mere bliss, show it to be not mere bliss but a subject enjoying bliss; cp. 'That is one bliss of Brahman' (Taitt. Up. II, 8, 4); 'he knowing the bliss of Brahman' (Taitt. Up. II, 9, 1). To be a subject enjoying bliss is in fact the same as to be a conscious subject.
 </details>
@@ -1018,7 +1018,7 @@ so other passages, speaking of Brahman as something separate from mere bliss, sh
 तत्-प्रत्यनीक-नानात्वं प्रतिषिद्ध्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We now turn to the numerous texts which, according to the view of our opponent, negative the existence of plurality.--'Where there is duality as it were' (Br̥. Up. IV, 5, 15); 'There is not any plurality here; from death to death goes he who sees here any plurality' (Br̥. Up. IV, 4, 19); 'But when for him the Self alone has become all, by what means, and whom, should he see?' (Br̥. Up. IV, 5, 15) &c.--But what all these texts deny is only plurality in so far as contradicting that unity of the world which depends on its being in its entirety an effect of Brahman, and having Brahman for its inward ruling principle and its true Self.
 </details>
@@ -1037,7 +1037,7 @@ We now turn to the numerous texts which, according to the view of our opponent, 
 इति परिहृतम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 They do not, on the other hand, deny that plurality on Brahman's part which depends on its intention to become manifold – a plurality proved by the text 'May I be many, may I grow forth' (Cḥ. Up. VI, 2, 3).
 </details>
@@ -1054,7 +1054,7 @@ They do not, on the other hand, deny that plurality on Brahman's part which depe
 तद् एव बाध्यत इत्य् उपहास्यम् इदम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can our opponent urge against this that, owing to the denial of plurality contained in other passages this last text refers to something not real;  
 for it is an altogether laughable assertion that Scripture should at first teach the doctrine, difficult to comprehend, that plurality as suggested by Perception and the other means of Knowledge belongs to Brahman also, and should afterwards negative this very doctrine!
@@ -1081,7 +1081,7 @@ for it is an altogether laughable assertion that Scripture should at first teach
 इति तन्-नानात्वानुसन्धानस्य शान्ति-हेतुत्वोपदेशात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is it true that the text 'If he makes but the smallest "antaram" (i.e. difference, interval, break) in it there is fear for him' (Taitt. Up. II, 7) implies that he who sees plurality within Brahman encounters fear. For the other text 'All this is Brahman; let a man meditate with calm mind on all this as beginning, ending and breathing in it, i.e. Brahman' (Cḥ. Up. III, 14, 1) teaches directly that reflection on the plurality of Brahman is the cause of peace of mind.
 </details>
@@ -1097,7 +1097,7 @@ Nor is it true that the text 'If he makes but the smallest "antaram" (i.e. diffe
 तद्-आत्मकत्वानुसन्धानेनात्र शान्तिर् विधीयते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this passage declares that peace of mind is produced by a reflection on the entire world as springing from, abiding within, and being absorbed into Brahman, and thus having Brahman for its Self;
 </details>
@@ -1114,7 +1114,7 @@ For this passage declares that peace of mind is produced by a reflection on the 
 न भय-हेतुत्व-प्रसङ्गः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and as thus the view of Brahman constituting the Self of the world with all its manifold distinctions of gods, men, animals, inanimate matter and so on, is said to be the cause of peace of mind, and, consequently, of absence of fear, that same view surely cannot be a _cause_ of fear!--
 </details>
@@ -1140,7 +1140,7 @@ and as thus the view of Brahman constituting the Self of the world with all its 
 तस्या विच्छेदे भयं भवतीति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But how then is it that the Taitt. text declares that 'there is fear for him'?--That text, we reply, declares in its earlier part that rest in Brahman is the cause of fearlessness ('when he finds freedom from fear, rest, in that which is invisible, incorporeal, undefined, unsupported; then he has obtained fearlessness'); its latter part therefore means that fear takes place when there is an interval, a break, in this resting in Brahman.
 </details>
@@ -1164,7 +1164,7 @@ But how then is it that the Taitt. text declares that 'there is fear for him'?--
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As the great R̥shi says 'When Vāsudeva is not meditated on for an hour or even a moment only; that is loss, that is great calamity, that is error, that is change.'
 
@@ -1184,7 +1184,7 @@ and so on.
 ब्रह्मणि प्रतिष्ठाया **अन्तरम्** अवकाशो विच्छेद एव॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Taitt. text says 'he makes but the smallest antaram', i.e. difference, interval, break; which means 'break in resting in Brahman'.
 </details>

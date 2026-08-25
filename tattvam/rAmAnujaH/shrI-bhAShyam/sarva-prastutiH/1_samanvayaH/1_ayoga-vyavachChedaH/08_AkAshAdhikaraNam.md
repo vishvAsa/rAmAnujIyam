@@ -22,7 +22,7 @@ title = "०८ आकाशाधिकरणम्"
 इति जगत्कारणं ब्रह्मेत्य् अवगम्यते।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text, 'That from which these beings are born,' teaches that Brahman is the cause of the world; 
 </details>
@@ -41,7 +41,7 @@ The text, 'That from which these beings are born,' teaches that Brahman is the c
 किं तज् जगत्-कारणम् इत्य् अपेक्षायां  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 to the question thence arising of what nature that cause of the world is, 
 </details>
@@ -58,7 +58,7 @@ to the question thence arising of what nature that cause of the world is,
 > सदेव सोम्येदमग्र आसीत् (छा.६.२.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 ' Being only this was in the beginning'; 
 </details>
@@ -75,7 +75,7 @@ to the question thence arising of what nature that cause of the world is,
 > तत्तेजोऽसृजत (छा.६.२.३)  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'It sent forth fire'; 
 </details>
@@ -92,7 +92,7 @@ to the question thence arising of what nature that cause of the world is,
 > आत्मा वा इदमेक एवाग्र आसीत् (ऐत.१.१.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'The Self only this was in the beginning,' &c.
 </details>
@@ -130,7 +130,7 @@ to the question thence arising of what nature that cause of the world is,
 इति साधारणैश् शब्दैर् जगत्कारणे निर्दिष्टे 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 (thus) certain other texts give a reply in general terms 
 </details>
@@ -147,7 +147,7 @@ to the question thence arising of what nature that cause of the world is,
 प्रधान--क्षेत्र-ज्ञादि--व्यतिरिक्तं ब्रह्मेत्य् उक्तम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and thereupon it is shown on the basis of the special nature of that cause  
 as proved by the attributes of 'thought' and 'bliss,'  
@@ -167,7 +167,7 @@ that Brahman is different from the pradhāna and the individual souls.
 आकाशादि-शब्दाभिधेयतया 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 where such special terms as Ether and the like are used  
 in sections setting forth the creation and government of the world, 
@@ -187,7 +187,7 @@ in sections setting forth the creation and government of the world,
 उक्त-लक्षणम् एव ब्रह्मेति प्रतिपाद्यते – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 they designate not the thing- sentient or non-sentient--  
 which is known from ordinary experience,  
@@ -205,7 +205,7 @@ but Brahman as proved so far.
 आकाशस्तल्लिङ्गात् इत्यादिना पादशेषेण-
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The remaining part of this Pāda now is devoted to the task of proving that.  
 </details>
@@ -225,7 +225,7 @@ The remaining part of this Pāda now is devoted to the task of proving that.
 २३. आकाशस्तिल्लङ्गात् ॥ १-१-२३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 23. Ether (is Brahman), on account of the characteristic marks.
 </details>
@@ -244,7 +244,7 @@ The remaining part of this Pāda now is devoted to the task of proving that.
 "अस्य लोकस्य का गतिर्" इति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We read in the Cḥāndogya (I, 9), 
 
@@ -262,7 +262,7 @@ We read in the Cḥāndogya (I, 9),
 "आकाश" इति होवाच 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Ether,' he replied. 
 </details>
@@ -278,7 +278,7 @@ We read in the Cḥāndogya (I, 9),
 > सर्वाणि ह वा इमानि भूतान्य् आकाशाद् एव समुत्पद्यन्ते 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'For all these beings spring from the ether only, 
 </details>
@@ -293,7 +293,7 @@ We read in the Cḥāndogya (I, 9),
 > आकाशं प्रत्यस्तं यन्ति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > and return into the ether. 
 </details>
@@ -309,7 +309,7 @@ We read in the Cḥāndogya (I, 9),
 > आकाशो ह्य् एवैभ्यो ज्यायान्  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Ether is greater than these; 
 </details>
@@ -326,7 +326,7 @@ We read in the Cḥāndogya (I, 9),
 इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > ether is their rest.' 
 </details>
@@ -349,7 +349,7 @@ We read in the Cḥāndogya (I, 9),
 \– इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here there arises the doubt whether the word 'ether' denotes the well-known element or Brahman.  
 </details>
@@ -367,7 +367,7 @@ Here there arises the doubt whether the word 'ether' denotes the well-known elem
 किं प्राप्तम्? "प्रसिद्धाकाश" इति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Pūrvapakshin maintains the former alternative. 
 </details>
@@ -388,7 +388,7 @@ The Pūrvapakshin maintains the former alternative.
 स एव ग्रहीतव्यः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For, he says, in the case of things to be apprehended through words  
 we must accept that sense of the word  
@@ -410,7 +410,7 @@ which, proved by etymology, is immediately suggested by the word.
 > अतः प्रसिद्धाकाश एव चराचरभूतस्य कृत्स्नस्य कारणम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > We therefore conclude from the passage that the well-known Ether is the cause of the entire aggregate of things, moving or non-moving, 
 </details>
@@ -426,7 +426,7 @@ which, proved by etymology, is immediately suggested by the word.
 > अतस् तस्माद् अनतिरिक्तं ब्रह्म।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and that 
 
@@ -448,7 +448,7 @@ and that
 अचेतनाज् जीवाच् च व्यतिरिक्तं ब्रह्मेत्य् उक्तम्?।्-। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > > But has it not been shown that Brahman is something different from non-sentient things  
 because its creative activity is preceded by thought?
@@ -466,7 +466,7 @@ because its creative activity is preceded by thought?
 > सत्यम्, उक्तम्। अयुक्तं तु तत्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > This has been asserted indeed,  
 but by no means proved. 
@@ -488,7 +488,7 @@ but by no means proved.
 > इत्य् उक्ते 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > For the proper way to combine the different texts is as follows.  
 Having been told that 
@@ -509,7 +509,7 @@ Having been told that
 > इत्य्-आदि-विशेषापेक्षायां 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > we desire to know more especially  
 what that source of all beings is,  
@@ -530,7 +530,7 @@ what that source of all beings is,
 > इत्य्-आदिना विशेष-प्रतीतेः –  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > and this desire is satisfied by the special information given by the text, 
 > 
@@ -548,7 +548,7 @@ what that source of all beings is,
 > "जगज्-जन्मादि-कारणम् आकाश एवे"ति निश्चिते सति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > It thus being ascertained that the ether only is the cause of the origin, and so on, of the world, 
 </details>
@@ -565,7 +565,7 @@ what that source of all beings is,
 > इत्य्-आदिष्व् अपि 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > ((in) 'Being only was this in the beginning') 
 </details>
@@ -583,7 +583,7 @@ what that source of all beings is,
 तम् एव विशेषम् आकाशम् अभिदधति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > we conclude that also such general terms as 'Being'  
 denote the particular substance called 'ether.' 
@@ -603,7 +603,7 @@ denote the particular substance called 'ether.'
 > इत्य्-आदिष्व् आत्मशब्दोऽपि तत्रैव वर्तते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > And we further conclude that in passages such as  
 > 
@@ -625,7 +625,7 @@ denote the particular substance called 'ether.'
 यथा "मृद्-**आत्मको** घटः" इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > for that word is by no means limited to non-sentient things-- cp., e.g., the phrase,  
 >
@@ -643,7 +643,7 @@ denote the particular substance called 'ether.'
 सुतराम् आकाशे ऽप्य् आत्म-शब्दो वर्तते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > and its etymology also (ātman from āp, to reach) shows that  
 it may very well be applied to the ether. 
@@ -666,7 +666,7 @@ it may very well be applied to the ether.
 +ईक्षणादयस् तद्-अनुगुणा गौणा वर्णनीयाः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It having thus been ascertained that the ether is the general cause or Brahman,  
 we must interpret such words as 'thinking' (which we meet with in connexion with the creative activity of the general cause)  
@@ -687,7 +687,7 @@ in a suitable, i.e. secondary, or metaphorical sense.
 "चेतन-विशेष एव कारणम्" इति निरचेष्यत। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > If the texts denoted the general cause by general terms only, such as 'Being',  
 we should, in agreement with the primary sense of 'thinking', and similar terms, decide that that cause is an intelligent being; 
@@ -705,7 +705,7 @@ we should, in agreement with the primary sense of 'thinking', and similar terms,
 इति नार्थ-स्वाभाव्यान् निर्णेतव्यम् अस्ति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > but since, as a matter of fact,  
 we ascertain a particular cause on the basis of the word 'ether',  
@@ -727,7 +727,7 @@ our decision cannot be formed on general considerations of what would suit the s
 आकाशस्यापि कार्यत्वं प्रतीयते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > > --But what then about the passage,  
 'From the Self there sprang the ether' (Taitt. Up. II, 1, 1),  
@@ -745,7 +745,7 @@ from which it appears that the ether itself is something created?
 > सत्यम्, सर्वेषाम् एवाकाश-वाय्व्-आदीनां सूक्ष्मावस्था स्थूलावस्था चेत्य् अवस्था-द्वयम् अस्ति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All elementary substances, we reply, such as ether, air, and so on, have two different states,  
 a gross material one, and a subtle one. 
@@ -763,7 +763,7 @@ a gross material one, and a subtle one.
 स्थूलावस्था तु कार्यम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > The ether, in its subtle state, is the universal cause;  
 in its gross state it is an effect of the primal cause;  
@@ -788,7 +788,7 @@ in its gross state it is an effect of the primal cause;
 > इत्य् अर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > in its gross state it thus springs from itself, i.e. ether in the subtle state. 
 </details>
@@ -809,7 +809,7 @@ in its gross state it is an effect of the primal cause;
 तद् एव हि कारणं ब्रह्मेति निश्चितम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > The text, 'All these beings spring from ether only' (Cḥ. Up. I, 9, 1), declares that  
 the whole world originates from ether only,  
@@ -832,7 +832,7 @@ and from this it follows that ether is none other than the general cause of the 
 > > यद् एष आकाश आनन्दो न स्यात् (तै.आन.७.)  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 
 > This non-difference of Brahman from the empirically known ether  
@@ -856,7 +856,7 @@ also gives a satisfactory sense to texts such as the following:
 > इत्य् एवम्-आदि-निर्देशो ऽप्य् उपपन्नतरः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'Ether, indeed, is the evolver of names and forms' (Cḥ. Up. VIII, 14, 1, and so on).
 </details>
@@ -875,7 +875,7 @@ also gives a satisfactory sense to texts such as the following:
 > अतः "प्रसिद्धाकाशाद् अनतिरिक्तं ब्रह्म" +इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > It thus appears that Brahman is none other than the well-known elemental ether.
 </details>
@@ -895,7 +895,7 @@ also gives a satisfactory sense to texts such as the following:
 आकाशस् तल्-लिङ्गात् – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This primā facie view is set aside by the Sūtra. 
 </details>
@@ -914,7 +914,7 @@ This primā facie view is set aside by the Sūtra.
 यथोक्त-लक्षणः परमात्मैव। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > The word 'ether' in the text under discussion denotes the highest Self  
 with its previously established characteristics--  
@@ -935,7 +935,7 @@ which is something quite different from the non-sentient elemental ether.
 इत्य्-आदीनि परमात्म-लिङ्गान्य् उपलभ्यन्ते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the qualities which the passage attributes to ether, viz. its being the one cause of the entire world, its being greater than all, and the rest of all, clearly indicate the highest Self. 
 </details>
@@ -955,7 +955,7 @@ For the qualities which the passage attributes to ether, viz. its being the one 
 चेतन-वस्तुनस् तत्-कार्यत्वासम्भवात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The non-intelligent elemental ether cannot be called the cause of all,  
 since intelligent beings clearly cannot be its effects;  
@@ -984,7 +984,7 @@ since intelligent beings clearly cannot be its effects;
 तच् चाचेतनस्य हेयस्य सकल-पुरुषार्थ-विरोधिनो न सम्भवति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor can it be called the 'rest' of intelligent beings,  
 for non-sentient things are evil and antagonistic to the true aim of man;  
@@ -1013,7 +1013,7 @@ for non-sentient things are evil and antagonistic to the true aim of man;
 तद् अप्य् अचितो नोपपद्यते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 nor can it be called 'greater' than all,  
 for it is impossible that a non-sentient element should possess all excellent qualities whatever  
@@ -1039,7 +1039,7 @@ and thus be absolutely superior to everything else.
 इति, तद् अयुक्तम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is the Pūrvapakshin right when maintaining that, 
 
@@ -1061,7 +1061,7 @@ all other texts are to be interpreted in accordance herewith.
 इति +++("ह वै"→)+++ प्रसिद्धवन् निर्देशात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The words, 
 
@@ -1082,7 +1082,7 @@ merely give expression to something generally known,
 प्रमाणान्तर-प्राप्तिम् अपेक्षते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and statements of this nature presuppose other means of knowledge to prove them. 
 </details>
@@ -1103,7 +1103,7 @@ and statements of this nature presuppose other means of knowledge to prove them.
 इत्य् एवम्-आदीन्य् एव वाक्यानि। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now these other means required are, in our case,  
 supplied by such texts as  
@@ -1125,7 +1125,7 @@ supplied by such texts as
 तत्-प्रतिपादितं ब्रह्माकाश-शब्देन प्रसिद्धवन् निर्दिश्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and these, as we have shown, establish the existence of Brahman.  
 To Brahman thus established, the text mentioning the ether  
@@ -1145,7 +1145,7 @@ merely refers as to something well known.
 आकाशते, आकाशयति च इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Brahman may suitably be called 'ether' (ākāśa),  
 because being of the nature of light it shines (ākāśate) itself,  
@@ -1165,7 +1165,7 @@ and makes other things shine forth (ākāśayati).
 +++(कार्ये जगति)+++ चेतनांशं प्रत्य् अ-सम्भावित-कारण-भावम् अ-चेतन-विशेषम् +++(खाख्यम्)+++ अभिदधानेन 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, the word 'ether' is indeed capable of conveying the idea of a special being (as cause),  
 but as it denotes a special non-intelligent thing which cannot be admitted as the cause of the intelligent part of the world  
@@ -1182,7 +1182,7 @@ but as it denotes a special non-intelligent thing which cannot be admitted as th
 > तदैक्षत - बहु स्यां प्रजायेय (छा.६.२.३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'it thought, may I be many, may I grow forth,' 
 </details>
@@ -1197,7 +1197,7 @@ but as it denotes a special non-intelligent thing which cannot be admitted as th
 > सोऽकामयत। बहुस्यां प्रजायेय (तै.आन.६) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 
 
@@ -1218,7 +1218,7 @@ and
 न प्रमाण-पदवीम् अधिरोहति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we must deny all authoritativeness to the attempt to tamper,  
 in the interest of that one word,  
@@ -1244,7 +1244,7 @@ which we ascertain from certain complementary texts-such as (the above).
 +अन्यथा कर्त्तुं न शक्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We also point out that the agreement in purport of a number of texts capable of establishing the existence of a wonderful being possessing infinite wonderful attributes  
 is not lightly to be disregarded  
@@ -1270,7 +1270,7 @@ only makes a reference to what is already established by other texts.
 इत्य् उक्तम्; तत्रोच्यते – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As to the averment that 
 
@@ -1291,7 +1291,7 @@ we remark that
 यद्य् अपि चेतनाद् अन्यत्रापि क्वचिद् आत्म-शब्दः प्रयुज्यते; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 that word is indeed applied occasionally to non-sentient things, 
 </details>
@@ -1307,7 +1307,7 @@ that word is indeed applied occasionally to non-sentient things,
 तथापि शरीर-प्रतिसम्बन्धिन्य् आत्म-शब्दस्य प्रयोग-प्राचुर्यात् +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but prevailingly to that which is the correlative of a body, i.e. the soul or spirit; 
 </details>
@@ -1323,7 +1323,7 @@ but prevailingly to that which is the correlative of a body, i.e. the soul or sp
 > आत्मा वा इदम् एक एवाग्र आसीत् (ऐत.१.१.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 in texts such as 
 
@@ -1343,7 +1343,7 @@ in texts such as
 इत्य्-आदिषु
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'from the Self there sprang the ether,' 
 </details>
@@ -1359,7 +1359,7 @@ in texts such as
 शरीर-प्रतिसम्बन्धि-चेतन एव प्रतीयते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we must therefore understand by the 'Self,' the universal spirit. 
 </details>
@@ -1399,7 +1399,7 @@ we must therefore understand by the 'Self,' the universal spirit.
 तथा स्वतः प्राप्तं शरीर-प्रतिसम्बन्धि-चेतनाभिधानम् एव 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The denotative power of the term 'atman,'  
 which is thus proved by itself,  
@@ -1418,7 +1418,7 @@ which is thus proved by itself,
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'it desired, may I send forth the worlds', 
 </details>
@@ -1433,7 +1433,7 @@ which is thus proved by itself,
 सोऽकामयत, बहु स्यां प्रजायेय (छा.१.९.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'it desired, may I be many, may I grow forth.'
 </details>
@@ -1448,7 +1448,7 @@ which is thus proved by itself,
 इत्य्-आदि--तत्-तद्-वाक्य-विशेषा एव स्थिरीकुर्वन्ति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 is moreover confirmed by the(se) complementary passages 
 </details>
@@ -1465,7 +1465,7 @@ is moreover confirmed by the(se) complementary passages
 एवं वाक्य-शेषावधारित--अनन्य-साधारणानेकापूर्वार्थ-विशिष्टं 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We thus arrive at the following conclusion:  
 
@@ -1488,7 +1488,7 @@ which are ascertained from the complementary passages,
 इत्यादि-वाक्य-सिद्धं ब्रह्मैव  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 which -- by the passage  
 
@@ -1515,7 +1515,7 @@ is established as the sole cause of the world,
 इति सिद्धम् ॥ २३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 is, in the text under discussion,  
 referred to as something already known,  
@@ -1534,7 +1534,7 @@ by means of the term 'ether.'
 **इति श्रीशारीरकमीमांसाभाष्ये आकाशाधिकरणम् ॥ ८ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of' ether.'
 </details>

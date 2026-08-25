@@ -6,7 +6,7 @@ title = "+१० अविद्यायाम् अनुपपत्तय�
 सप्त-विधाः अनुपपत्तयः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The theory of Nescience cannot be proved.
 </details>

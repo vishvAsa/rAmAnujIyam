@@ -7,7 +7,7 @@ title = "१ आश्रयानुपपत्तिः"
 तद् अयुक्तम्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now this theory of Nescience is altogether untenable. 
 </details>
@@ -23,7 +23,7 @@ Now this theory of Nescience is altogether untenable.
 सा हि किम् आश्रित्य भ्रमं जनयति? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the first place we ask, 'What is the substrate of this Nescience which gives rise to the great error of plurality of existence?' 
 </details>
@@ -51,7 +51,7 @@ In the first place we ask, 'What is the substrate of this Nescience which gives 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You cannot reply 'the individual soul'; for the individual soul itself exists in so far only as it is fictitiously imagined through Nescience.
 </details>
@@ -71,7 +71,7 @@ You cannot reply 'the individual soul'; for the individual soul itself exists in
 सा हि ज्ञानबाध्याभिमता॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can you say 'Brahman'; for Brahman is nothing but self-luminous intelligence, and hence contradictory in nature to Nescience, which is avowedly sublated by knowledge.
 </details>
@@ -92,7 +92,7 @@ Nor can you say 'Brahman'; for Brahman is nothing but self-luminous intelligence
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'The highest Brahman has knowledge for its essential nature:  
 if Nescience, which is essentially false and to be terminated by knowledge, invests Brahman,  
@@ -115,7 +115,7 @@ who then will be strong enough to put an end to it?'
 > तद् अपि ह्य् अनिवर्तकम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'What puts an end to Nescience is the knowledge that Brahman is pure knowledge!'--'Not so, for that knowledge also is, like Brahman, of the nature of light, and hence has no power to put an end to Nescience.
 </details>
@@ -136,7 +136,7 @@ who then will be strong enough to put an end to it?'
 > (श्रीनाथमुनिश्लोकाः)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > And if there exists the knowledge that Brahman is knowledge,  
 > then Brahman is an object of knowledge,  
@@ -160,7 +160,7 @@ who then will be strong enough to put an end to it?'
 इति चेत् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To explain the second of these ślokas.--  
 If you maintain that 
@@ -190,7 +190,7 @@ If you maintain that
 अन्यतरस्य नेति विशेषानवगमात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we demur; for as both these kinds of knowledge are of the same nature, viz. the nature of light, which is just that which constitutes Brahman's nature, there is no reason for making a distinction and saying that one knowledge is contradictory of Nescience, and the other is not. 
 </details>
@@ -213,7 +213,7 @@ we demur; for as both these kinds of knowledge are of the same nature, viz. the 
 स्वयम् एव प्रकाशते  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Or, to put it otherwise – that essential nature of Brahman which is apprehended through the cognition that Brahman is knowledge, itself shines forth in consequence of the self-luminous nature of Brahman, 
 </details>
@@ -233,7 +233,7 @@ Or, to put it otherwise – that essential nature of Brahman which is apprehende
 इत्य् अविद्या-विरोधित्वे न कश्चिद् विशेषस् स्वरूप-तद्-विषय-ज्ञानयोर् इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and hence we have no right to make a distinction between that knowledge which constitutes Brahman's nature, and that of which that nature is the object, and to maintain that the latter only is antagonistic to Nescience.
 </details>
@@ -257,7 +257,7 @@ and hence we have no right to make a distinction between that knowledge which co
 न तद्-विषयं ज्ञानम् अस्ति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 \-- Moreover (and this explains the third śloka),  
 according to your own view  
@@ -295,7 +295,7 @@ and hence there is no knowledge which has Brahman for its object.
 नास्या ब्रह्माश्रयत्व-सम्भवः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, therefore, knowledge is contradictory to non-knowledge (Nescience),  
 Brahman itself must be contradictory to it,  
@@ -315,7 +315,7 @@ and hence cannot be its substrate.
 तन्-निवर्तने च ज्ञानान्तरम् अपेक्षन्ते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Shells (mistaken for silver) and the like which by themselves are incapable of throwing light upon their own true nature are not contradictory to non-knowledge of themselves, and depend, for the termination of that non-knowledge, on another knowledge (viz. on the knowledge of an intelligent being); 
 </details>
@@ -333,7 +333,7 @@ Shells (mistaken for silver) and the like which by themselves are incapable of t
 तत एव निवर्तकान्तरं च नापेक्षते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Brahman, on the other hand, whose essential nature is established by its own consciousness, is contradictorily opposed to non-knowledge of itself, and hence does not depend, for the termination of that non-knowledge, on some other knowledge.--
 </details>
@@ -362,7 +362,7 @@ Brahman, on the other hand, whose essential nature is established by its own con
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If our opponent should argue that the knowledge of the falsity of whatever is other than Brahman is contradictory to non-knowledge, 
 </details>
@@ -381,7 +381,7 @@ If our opponent should argue that the knowledge of the falsity of whatever is ot
 उत प्रपञ्च-सत्यत्व-रूपाज्ञान-विरोधीति विवेचनीयम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we ask whether this knowledge of the falsity of what is other than Brahman is contradictory  
 to the non-knowledge of the true nature of Brahman,  
@@ -400,7 +400,7 @@ or to that non-knowledge which consists in the view of the reality of the appare
 अ-तद्-विषयत्वात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The former alternative is inadmissible;  
 because the cognition of the falsity of what is other than Brahman has a different object  
@@ -419,7 +419,7 @@ and therefore cannot be contradictory to it;
 ज्ञानाज्ञानयोरेक-विषयत्वेन हि विरोधः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for knowledge and non-knowledge are contradictory in so far only as they refer to one and the same object. 
 </details>
@@ -436,7 +436,7 @@ for knowledge and non-knowledge are contradictory in so far only as they refer t
 प्रपञ्च-मिथ्यात्व-ज्ञानं तत्-सत्यत्व-रूपाज्ञानेन विरुध्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And with regard to the latter alternative we point out that the knowledge of the falsity of the world is contradictory to the non-knowledge which consists in the view of the reality of the world; 
 </details>
@@ -454,7 +454,7 @@ And with regard to the latter alternative we point out that the knowledge of the
 ब्रह्म-स्वरूपाज्ञानं तिष्ठत्य् एव। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the former knowledge therefore sublates the latter non-knowledge only,  
 while the non-knowledge of the true nature of Brahman is not touched by it.
@@ -476,7 +476,7 @@ while the non-knowledge of the true nature of Brahman is not touched by it.
 इति चेन्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Against this it will perhaps be urged that 
 
@@ -501,7 +501,7 @@ and that
 तद्-विरोधि सद्वितीयत्व-रूपाज्ञानं तद्-बाधश् च न स्याताम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But this too we refuse to admit. If non-duality constitutes the true nature of Brahman, and is proved by Brahman's own consciousness, there is room neither for what is contradictory to it, viz. that non-knowledge which consists in the view of duality, nor for the sublation of that non-knowledge.
 </details>
@@ -519,7 +519,7 @@ But this too we refuse to admit. If non-duality constitutes the true nature of B
 इति चेन् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Let then non-duality be taken for an attribute (not the essential nature) of Brahman!
 </details>
@@ -536,7 +536,7 @@ But this too we refuse to admit. If non-duality constitutes the true nature of B
 ऽनुभाव्य-धर्म-विरहस्य भवतैव प्रतिपादितत्वात्। +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This too we refuse to admit;  
 for you yourself have proved that Brahman,  
@@ -556,7 +556,7 @@ is free from attributes which are objects of Consciousness.
 अतो ज्ञान-स्वरूपस्य ब्रह्मणो विरोधाद् एव नाज्ञानाश्रयत्वम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From all this it follows that Brahman, whose essential nature is knowledge, cannot be the substrate of Nescience: the theory, in fact, involves a flat contradiction.
 </details>

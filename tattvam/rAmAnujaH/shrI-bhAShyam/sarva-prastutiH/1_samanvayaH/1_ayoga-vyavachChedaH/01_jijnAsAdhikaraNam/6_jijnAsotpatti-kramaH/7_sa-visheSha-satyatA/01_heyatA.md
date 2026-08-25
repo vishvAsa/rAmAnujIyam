@@ -8,7 +8,7 @@ title = "०१ हेयता"
 औपिनषद--परम-पुरुष-वरणीयता-हेतु- गुण-विशेष-विरहिणाम्  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By men who are destitute of those particular qualities which cause individuals to be chosen by the Supreme Person revealed in the Upanishads; 
 </details>
@@ -25,7 +25,7 @@ By men who are destitute of those particular qualities which cause individuals t
 अनादि-पाप-वासना- दूषिताशेष-शेमुषीकाणां 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 whose intellects are darkened by the impression of beginningless evil; 
 </details>
@@ -48,7 +48,7 @@ whose intellects are darkened by the impression of beginningless evil;
 समीचीन-न्याय-मार्गाणां
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and who thus have no insight into  
 the nature of words and sentences,  
@@ -66,7 +66,7 @@ and into the procedure of sound argumentation, with all its methods depending on
 
 +++(प्रतिपादन-क्रमे-)+++विकल्पासह-- विविध-कुतर्क-कल्क-कल्पितम् इति,+++(5)+++ 
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 devised (by such),  
 this entire theory rests on a fictitious foundation of altogether hollow and vicious arguments, incapable of being stated in definite logical alternatives. 
@@ -82,7 +82,7 @@ this entire theory rests on a fictitious foundation of altogether hollow and vic
 न्यायानुगृहीत-- प्रत्यक्षादि-सकल-प्रमाण-वृत्त-- याथात्म्य-विद्भिर् अनादरणीयम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The theory therefore must needs be rejected by all those who, through texts, perception and the other means of knowledge – assisted by sound reasoning – have an insight into the true nature of things.
 </details>

@@ -7,7 +7,7 @@ title = "४ अनिर्वचनीयत्वानुपपत्ति�
 अनिर्वचनीयत्वं च किम् अभिप्रेतम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What, to come to the next point, do you understand by the inexplicability (anirvacaniyatā) of Nescience? 
 </details>
@@ -31,7 +31,7 @@ What, to come to the next point, do you understand by the inexplicability (anirv
 अनिर्वचनीयतैव स्यात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Its difference in nature from that which is, as well as that which _is not_!  
 A thing of such kind would be inexplicable indeed;  
@@ -52,7 +52,7 @@ for none of the means of knowledge apply to it.
 एतद् उक्तं भवति – सर्वं हि वस्तु-जातं प्रतीति-व्यवस्थाप्यम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That is to say – the whole world of objects must be ordered according to our states of consciousness, 
 </details>
@@ -74,7 +74,7 @@ That is to say – the whole world of objects must be ordered according to our s
 सर्वा च प्रतीतिस् सद्--अ-सद्-आकारा। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and every state of consciousness presents itself in the form, either of something existing or of something non-existing. 
 </details>
@@ -100,7 +100,7 @@ and every state of consciousness presents itself in the form, either of somethin
 +++(तेनैव न्यायेन सद्, असद् वापि→)+++ सर्वं +++(सद्-असद्-विलक्षण→)+++सर्व-प्रतीतेर् विषयस् स्यात् – इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, therefore, we should assume that of states of consciousness which are limited to this double form, the object can be something which is neither existing nor non-existing, then anything whatever might be the object of any state of consciousness whatever.
 </details>

@@ -9,7 +9,7 @@ title = "०४ आत्मा"
 "कस्य कं प्रति" इति वक्तव्यम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Let it then be said that consciousness is proof (siddhiḥ) itself. Proof of what, we ask in reply, and to whom?
 </details>
@@ -25,7 +25,7 @@ Let it then be said that consciousness is proof (siddhiḥ) itself. Proof of wha
 सा तर्हि न सिद्धिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If no definite answer can be given to these two questions, consciousness cannot be defined as 'proof';
 </details>
@@ -41,7 +41,7 @@ If no definite answer can be given to these two questions, consciousness cannot 
 कस्यचित् किञ्चित् प्रति भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for 'proof' is a relative notion, like 'son.'
 </details>
@@ -56,7 +56,7 @@ for 'proof' is a relative notion, like 'son.'
 "आत्मन" इति चेत्; को ऽयम् आत्मा?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You will perhaps reply 'Proof to the Self'; and if we go on asking 'But what is that Self'?
 </details>
@@ -72,7 +72,7 @@ You will perhaps reply 'Proof to the Self'; and if we go on asking 'But what is 
 > ननु संविद् एवेत्य् उक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 you will say, 'Just consciousness as already said by us before.'
 </details>
@@ -87,7 +87,7 @@ you will say, 'Just consciousness as already said by us before.'
 सत्यम् उक्तम्; दुर्-उक्तं तु तत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 True, we reply, you said so; but it certainly was not well said.
 </details>
@@ -105,7 +105,7 @@ True, we reply, you said so; but it certainly was not well said.
 स्वयम् कथम् इवात्म-भावम् अनुभवेत्?॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if it is the nature of consciousness to be 'proof' ('light,' 'enlightenment') on the part of a person with regard to something, how can this consciousness which is thus connected with the person and the thing be itself conscious of itself?
 </details>
@@ -131,7 +131,7 @@ For if it is the nature of consciousness to be 'proof' ('light,' 'enlightenment'
 इति सर्वेषाम् आत्म-साक्षिकः प्रसिद्धः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To explain: the essential character of consciousness or knowledge is that by its very existence it renders things capable of becoming objects, to its own substrate, of thought and speech. This consciousness (anubhūti), which is also termed jñāna, avagati, saṁvid, is a particular attribute belonging to a conscious Self and related to an object: as such it is known to every one on the testimony of his own Self – as appears from ordinary judgments such as 'I know the jar,' 'I understand this matter,' 'I am conscious of (the presence of) this piece of cloth.'
 </details>
@@ -147,7 +147,7 @@ To explain: the essential character of consciousness or knowledge is that by its
 तस्यास् स्वयम्-प्रकाशता भवताप्य् उपपादिता।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That such is the essential nature of consciousness you yourself admit; for you have proved thereby its self-luminousness.
 </details>
@@ -164,7 +164,7 @@ That such is the essential nature of consciousness you yourself admit; for you h
 कर्मत्ववत्, कर्तृत्वम् अपि दुर्घटम् इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of this consciousness which thus clearly presents itself as the attribute of an agent and as related to an object, it would be difficult indeed to prove that at the same time it is itself the agent; as difficult as it would be to prove that the object of action is the agent.
 </details>
@@ -183,7 +183,7 @@ Of this consciousness which thus clearly presents itself as the attribute of an 
 उत्पत्ति-स्थिति-निरोधाश् च प्रत्यक्षम् ईक्ष्यन्ते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For we clearly see that this agent (the subject of consciousness) is permanent (constant), while its attribute, i. e. consciousness, not differing herein from joy, grief, and the like, rises, persists for some time, and then comes to an end.
 </details>
@@ -200,7 +200,7 @@ For we clearly see that this agent (the subject of consciousness) is permanent (
 इति-प्रत्यभिज्ञा-प्रत्यक्ष-सिद्धम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The permanency of the conscious subject is proved by the fact of recognition, 'This very same thing was formerly apprehended by me.'
 </details>
@@ -217,7 +217,7 @@ The permanency of the conscious subject is proved by the fact of recognition, 'T
 इति च संविद्-उत्पत्त्य्-आदयः प्रत्यक्ष-सिद्धा इति कुतः तद्-ऐक्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The non-permanency of consciousness, on the other hand, is proved by thought expressing itself in the following forms, 'I know at present,' 'I knew at a time,' 'I, the knowing subject, no longer have knowledge of this thing.' How then should consciousness and (the conscious subject be one?
 </details>
@@ -238,7 +238,7 @@ The non-permanency of consciousness, on the other hand, is proved by thought exp
 अन्येनानुभूतस्य न ह्य् अन्येन प्रत्यभिज्ञान-सम्भवः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If consciousness which changes every moment were admitted to constitute the conscious subject, it would be impossible for us to recognise the thing seen to-day as the one we saw yesterday; for what has been perceived by one cannot be recognised by another.
 </details>
@@ -257,7 +257,7 @@ If consciousness which changes every moment were admitted to constitute the cons
 प्रतिसन्धानासम्भवस् तद्-अवस्थः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And even if consciousness were identified with the conscious subject and acknowledged as permanent, this would no better account for the fact of recognition.
 </details>
@@ -275,7 +275,7 @@ And even if consciousness were identified with the conscious subject and acknowl
 "अहम् एव इदम् पूर्वम् अप्य् अन्वभूवम्" इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For recognition implies a conscious subject persisting from the earlier to the later moment, and not merely consciousness.
 
@@ -293,7 +293,7 @@ Its expression is 'I myself perceived this thing on a former occasion.'
 भवतो ऽप्य् अनुभूतेर् न ह्य् अनुभवितृत्वम् इष्टम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 According to your view the quality of being a conscious agent cannot at all belong to consciousness;
 </details>
@@ -308,7 +308,7 @@ According to your view the quality of being a conscious agent cannot at all belo
 अनुभूतिर् अनुभूति-मात्रम् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for consciousness, you say, is just consciousness and nothing more.
 </details>
@@ -325,7 +325,7 @@ for consciousness, you say, is just consciousness and nothing more.
 ऽत्यन्तानुपलब्धेर् न सम्भवतीत्य् उक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that there exists a pure consciousness devoid of substrate and objects alike, we have already refuted on the ground that of a thing of this kind we have absolutely no knowledge.
 </details>
@@ -342,7 +342,7 @@ And that there exists a pure consciousness devoid of substrate and objects alike
 उपलब्धि-पराहतम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that the consciousness admitted by both of us should be the Self is refuted by immediate consciousness itself.
 </details>
@@ -358,7 +358,7 @@ And that the consciousness admitted by both of us should be the Self is refuted 
 इति निष्कर्षक-हेत्व्-आभासाश् च निराकृताः +++(अनित्यत्व-विकारादि-प्रतिपादनैः)+++॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And we have also refuted the fallacious arguments brought forward to prove that mere consciousness is the only reality.
 </details>
@@ -376,7 +376,7 @@ And we have also refuted the fallacious arguments brought forward to prove that 
 स आत्मा।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But, another objection is raised, should the relation of the Self and the 'I' not rather be conceived as follows:--In self-consciousness which expresses itself in the judgment 'I know,' that intelligent something which constitutes the absolutely non-objective element, and is pure homogeneous light, is the Self;
 </details>
@@ -392,7 +392,7 @@ And we have also refuted the fallacious arguments brought forward to prove that 
 युष्मद्-अर्थ-लक्षणो "ऽहं जानामी"ति सिध्यन्न् अहम्-अर्थश् चिन्-मात्रातिरेकी युष्मद्-अर्थ एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the objective element (yushmad-artha) on the other hand, which is established through its being illumined (revealed) by the Self is the I – in 'I know'--and this is something different from pure intelligence, something objective or external?
 </details>
@@ -409,7 +409,7 @@ the objective element (yushmad-artha) on the other hand, which is established th
 प्रत्यक्ष-प्रतीति-विरोधाद् एव॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By no means, we reply; for this view contradicts the relation of attribute and substrate of attribute of which we are directly conscious, as implied in the thought 'I know.'
 </details>
@@ -426,7 +426,7 @@ By no means, we reply; for this view contradicts the relation of attribute and s
 किञ्च
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Consider also what follows.--
 </details>
@@ -444,7 +444,7 @@ Consider also what follows.--
 प्रत्यग्-अर्थो हि भिद्यते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'If the I were not the Self, the inwardness of the Self would not exist;  
 for it is just the consciousness of the I which separates the inward from the outward.
@@ -466,7 +466,7 @@ for it is just the consciousness of the I which separates the inward from the ou
 श्रवणादौ प्रवर्तते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 '"May I, freeing myself from all pain, enter on free possession of endless delight?"  
 This is the thought which prompts the man desirous of release to apply himself to the study of the sacred texts.
@@ -486,7 +486,7 @@ This is the thought which prompts the man desirous of release to apply himself t
 कथा-प्रस्ताव-गन्धतः॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Were it a settled matter that release consists in the annihilation of the I,  
 the same man would move away as soon as release were only hinted at.
@@ -506,7 +506,7 @@ the same man would move away as soon as release were only hinted at.
 कस्यापि न भविष्यति॥ +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 "When I myself have perished, there still persists some consciousness different from me;"  
 to bring this about nobody truly will exert himself.
@@ -528,7 +528,7 @@ to bring this about nobody truly will exert himself.
 छेदनादेर् अ-सिद्धिवत्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Moreover the very existence of consciousness, its being a consciousness at all,  
 and its being self-luminous, depend on its connexion with a Self; when that connexion is dissolved, consciousness itself cannot be established,  
@@ -549,7 +549,7 @@ not any more than the act of cutting can take place when there is no person to c
 प्रत्यग्-आत्मेति निश्चितम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence it is certain that the I, i.e. the knowing subject, is the inward Self.'
 </details>
@@ -565,7 +565,7 @@ Hence it is certain that the I, i.e. the knowing subject, is the inward Self.'
 जानात्य् एवे"ति च श्रुतिः (बृ.४.४.१४) ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This scripture confirms when saying 'By what should he know the knower?' (Br̥. Up. II, 4, 15);
 </details>
@@ -581,7 +581,7 @@ This scripture confirms when saying 'By what should he know the knower?' (Br̥. 
 क्षेत्र-ज्ञ इति च स्मृतिः (भ.गी.१३.१) ॥ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and Smr̥ti also, 'Him who knows this they call the knower of the body' (Bha. Gī. XIII, 1).
 </details>
@@ -599,7 +599,7 @@ and Smr̥ti also, 'Him who knows this they call the knower of the body' (Bha. G�
 ज्ञप्ति-मात्रम् इति स्थितम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the Sūtrakāra also, in the section beginning with 'Not the Self on account of scriptural statement' (II, 3, 17), will say  
 'For this very reason (it is) a knower' (II, 3, 18); and from this it follows that the Self is not mere consciousness.
@@ -620,7 +620,7 @@ And the Sūtrakāra also, in the section beginning with 'Not the Self on account
 युष्मत्-प्रत्यय-विषयो युष्मद्-अर्थः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What is established by consciousness of the 'I' is the I itself, while the not-I is given in the consciousness of the not-I;
 </details>
@@ -640,7 +640,7 @@ What is established by consciousness of the 'I' is the I itself, while the not-I
 "जननी मे वन्ध्ये"तिवद् व्याहतार्थम् च। +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 hence to say that the knowing subject, which is established by the state of consciousness, 'I know,' is the not-I, is no better than to maintain that one's own mother is a barren woman.
 </details>
@@ -655,7 +655,7 @@ hence to say that the knowing subject, which is established by the state of cons
 न चासौ ज्ञाता ऽहम्-अर्थो ऽन्याधीन-प्रकाशः - स्वयम्-प्रकाशत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be said that this 'I,' the knowing subject, is dependent on its light for something else. It rather is self-luminous;
 </details>
@@ -670,7 +670,7 @@ Nor can it be said that this 'I,' the knowing subject, is dependent on its light
 चैतन्य-स्वभावता हि स्वयम्-प्रकाशता।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for to be self-luminous means to have consciousness for one's essential nature.
 </details>
@@ -688,7 +688,7 @@ for to be self-luminous means to have consciousness for one's essential nature.
 सो ऽनन्याधीन-प्रकाशो दीपवत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that which has light for its essential nature does not depend for its light on something else. The case is analogous to that of the flame of a lamp or candle. 
 </details>
@@ -706,7 +706,7 @@ And that which has light for its essential nature does not depend for its light 
 अप्रकाशत्वम्, अन्याधीन-प्रकाशत्वम् च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From the circumstance that the lamp illumines with its light other things, it does not follow either that it is not luminous, or that its luminousness depends on something else;
 </details>
@@ -724,7 +724,7 @@ From the circumstance that the lamp illumines with its light other things, it do
 अन्यान् अपि प्रकाशयति प्रभया॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the fact rather is that the lamp being of luminous nature shines itself and illumines with its light other things also.
 </details>
@@ -743,7 +743,7 @@ the fact rather is that the lamp being of luminous nature shines itself and illu
 प्रभा-प्रभावद्-रूपेणावतिष्ठते,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To explain.--The one substance tejas, i.e. fire or heat, subsists in a double form, viz. as light (prabhā), and as luminous matter.
 </details>
@@ -762,7 +762,7 @@ To explain.--The one substance tejas, i.e. fire or heat, subsists in a double fo
 रूपवत्त्वाच् च 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Although light is a quality of luminous substantial things, it is in itself nothing but the substance tejas, not a mere quality like e.g. whiteness; for it exists also apart from its substrates, and possesses colour (which is a quality). 
 </details>
@@ -780,7 +780,7 @@ Although light is a quality of luminous substantial things, it is in itself noth
 तेजो द्रव्यम् एव; नार्थान्तरम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Having thus attributes different from those of qualities such as whiteness and so on, and possessing illumining power, it is the substance tejas, not anything else (e.g. a quality).
 </details>
@@ -796,7 +796,7 @@ Having thus attributes different from those of qualities such as whiteness and s
 स्व-स्वरूपस्य, +अन्येषाम् च प्रकाशकत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Illumining power belongs to it, because it lights up itself and other things.
 </details>
@@ -812,7 +812,7 @@ Illumining power belongs to it, because it lights up itself and other things.
 अस्यास्तु गुणत्व-व्यवहारो नित्य-तद्-आश्रयत्व--तच्-छेषत्व-निबन्धनः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 At the same time it is practically treated as a quality because it always has the substance tejas for its substrate, and depends on it.
 </details>
@@ -836,7 +836,7 @@ photon-विकिरणम् भवत्य् एव।
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This must not be objected to on the ground that what is called light is really nothing but dissolving particles of matter which proceed from the substance tejas; for if this were so, shining gems and the sun would in the end consume themselves completely.
 </details>
@@ -852,7 +852,7 @@ This must not be objected to on the ground that what is called light is really n
 कदाचिद् अपि न स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, if the flame of a lamp consisted of dissolving particles of matter, it would never be apprehended as a whole;
 </details>
@@ -872,7 +872,7 @@ Moreover, if the flame of a lamp consisted of dissolving particles of matter, it
 शक्यम् वक्तुम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for no reason can be stated why those particles should regularly rise in an agglomerated form to the height of four fingers breadth, and after that simultaneously disperse themselves uniformly in all directions – upwards, sideways, and downwards.
 </details>
@@ -890,7 +890,7 @@ for no reason can be stated why those particles should regularly rise in an aggl
 तद्+++(→कारण)+++-विनाशे विनाशाच् चावगम्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The fact is that the flame of the lamp together with its light is produced anew every moment and again vanishes every moment; as we may infer from the successive combination of sufficient causes (viz. particles of oil and wick) and from its coming to an end when those causes are completely consumed.
 </details>
@@ -907,7 +907,7 @@ The fact is that the flame of the lamp together with its light is produced anew 
 अग्न्य्-आदीनाम् औष्ण्यादिवत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This is to be explained by the fact that we perceive a higher degree of light and heat in the immediate neighborhood of the lamp, just as we do with regard to fire and the like.
 </details>
@@ -924,7 +924,7 @@ This is to be explained by the fact that we perceive a higher degree of light an
 चैतन्य+++(=स्वयम्-प्रकाश)+++-गुण इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Analogously to the lamp, the Self is essentially intelligent (cid-rūpa), and has intelligence (caitanya) for its quality.
 </details>
@@ -940,7 +940,7 @@ Analogously to the lamp, the Self is essentially intelligent (cid-rūpa), and ha
 चिद्-रूपता हि स्वयम्-प्रकाशता॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And to be essentially intelligent means to be self-luminous.
 </details>
@@ -956,7 +956,7 @@ And to be essentially intelligent means to be self-luminous.
 तथा हि श्रुतयः –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There are many scriptural texts declaring this, compare e.g.
 </details>
@@ -975,7 +975,7 @@ There are many scriptural texts declaring this, compare e.g.
 विज्ञान-घन एव (बृ.उ.४.४.१२),
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'As a mass of salt has neither inside nor outside but is altogether a mass of taste, thus indeed that Self has neither inside nor outside but is altogether a mass of knowledge' (Br̥. Up. IV, 5, 13; or IV, 4, 12);
 </details>
@@ -990,7 +990,7 @@ There are many scriptural texts declaring this, compare e.g.
 > अत्रायम् पुरुषस् स्वयञ्-ज्योतिर् भवति (बृ.उ.६.३.९),
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'There that person becomes self-luminous,
 </details>
@@ -1005,7 +1005,7 @@ There are many scriptural texts declaring this, compare e.g.
 > न विज्ञातुर् विज्ञातेर् वि-परिलोपो विद्यते (बृ.उ.६.३.१०),
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 </details>
@@ -1021,7 +1021,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 स आत्मा (बृ.उ.६.३.३०),
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He who knows, let me smell this, he is the Self (Cḥ. Up. VIII, 12, 4);
 </details>
@@ -1037,7 +1037,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 प्राणेषु हृद्य् अन्तर्-ज्योतिः पुरुषः (छा.उ.८.१२.४),
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Who is that Self? That one who is made of knowledge, among the prāṇas, within the heart, the light, the person' (Br̥. Up. IV, 3, 7);
 </details>
@@ -1052,7 +1052,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 > एष हि द्रष्टा, श्रोता, रसयिता, घ्राता, मन्ता, बोद्धा, कर्ता, विज्ञानात्मा पुरुषः (बृ.६.३.७),
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'For it is he who sees, hears, smells, tastes, thinks, considers, acts, the person whose Self is knowledge' (Pr. Up. IV, 9);
 </details>
@@ -1068,7 +1068,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 केन विजानीयात् (प्रश्न.उ.४.प्रश्न),
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Whereby should one know the knower' (Br̥. Up. IV, 5, 15).
 </details>
@@ -1083,7 +1083,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 > जानात्य् एवायम् पुरुषः,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'This person knows,'
 </details>
@@ -1100,7 +1100,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 स उत्तमः पुरुषः (छा.७.२६.२),
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'The seer does not see death nor illness nor pain' (Cḥ. Up. VII, 26, 2);
 </details>
@@ -1115,7 +1115,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 > नोपजनम् स्मरन्न् इदम् शरीरम् (छा.उ.८.१२.३),
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'That highest person not remembering this body into which he was born' (Cḥ. Up. VIII, 12, 3);
 </details>
@@ -1133,7 +1133,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 अस्तङ् गच्छन्ति (प्र.उ.६.५)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Thus these sixteen parts of the spectator that go towards the person; when they have readied the person, sink into him' (Pr. Up. VI, 5);
 </details>
@@ -1150,7 +1150,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 इत्य्-आद्याः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'From this consisting of mind, there is different an interior Self consisting of knowledge' (Taitt. Up. II, 4).
 </details>
@@ -1165,7 +1165,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 वक्ष्यति च "ज्ञो ऽत एव" (ब्र.सू.२.३.१९) इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the Sūtrakāra also will refer to the Self as a 'knower' in II, 3, 18.
 </details>
@@ -1181,7 +1181,7 @@ And the Sūtrakāra also will refer to the Self as a 'knower' in II, 3, 18.
 अतस् स्वयम्-प्रकाशो ऽयम् आत्मा ज्ञातैव, न प्रकाश-मात्रम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All which shows that the self-luminous Self is a knower, i.e. a knowing subject, and not pure light (non-personal intelligence).
 </details>
@@ -1197,7 +1197,7 @@ All which shows that the self-luminous Self is a knower, i.e. a knowing subject,
 दीपादि-प्रकाशवत्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In general we may say that where there is light it must belong to something, as shown by the light of a lamp.
 </details>
@@ -1212,7 +1212,7 @@ In general we may say that where there is light it must belong to something, as 
 तस्मान् नाऽत्मा भवितुम् अर्हति संवित्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Self thus cannot be mere consciousness.
 </details>
@@ -1229,7 +1229,7 @@ The Self thus cannot be mere consciousness.
 संविद्-अनुभूति-ज्ञानादि-शब्दास् सम्बन्धि-शब्दाः इति च शब्दार्थ-विदः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The grammarians moreover tell us that words such as 'consciousness,' 'knowledge,' &c., are relative;
 </details>
@@ -1246,7 +1246,7 @@ The grammarians moreover tell us that words such as 'consciousness,' 'knowledge,
 अ-कर्मकस्याकर्तृकस्य च प्रयोगो दृष्ट-चरः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 neither ordinary nor Vedic language uses expressions such as 'he knows' without reference to an object known and an agent who knows.
 </details>
@@ -1265,7 +1265,7 @@ neither ordinary nor Vedic language uses expressions such as 'he knows' without 
 अ-जडत्वम् इति किम् अभिप्रेतम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With reference to the assertion that consciousness constitutes the Self, because it (consciousness) is not non-intelligent (jada), we ask what you understand by this absence of non-intelligence.'
 </details>
@@ -1283,7 +1283,7 @@ With reference to the assertion that consciousness constitutes the Self, because
 तथा सति दीपादिष्व् अनैकान्त्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If you reply 'luminousness due to the being of the thing itself (i.e. of the thing which is ajaḍa)'; we point out that this definition would wrongly include lamps also, and similar things;
 </details>
@@ -1300,7 +1300,7 @@ If you reply 'luminousness due to the being of the thing itself (i.e. of the thi
 +++(आत्मताया)+++ अ-सिद्धिर् विरोधश् च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and it would moreover give rise to a contradiction, since you do not admit light as an attribute, different from consciousness itself.
 </details>
@@ -1316,7 +1316,7 @@ and it would moreover give rise to a contradiction, since you do not admit light
 सुखादिषु व्यभिचारान् निरस्तम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we allow you to define ajadatva as 'being of that nature that light is always present, without any exception,' for this definition would extend also to pleasure, pain, and similar states.
 </details>
@@ -1337,7 +1337,7 @@ Nor can we allow you to define ajadatva as 'being of that nature that light is a
 – इति -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Should you maintain that pleasure and so on, although being throughout of the nature of light, are non-intelligent for the reason that, like jars, &c., they shine forth (appear) to something else and hence belong to the sphere of the not-Self;
 </details>
@@ -1352,7 +1352,7 @@ Should you maintain that pleasure and so on, although being throughout of the na
 ज्ञानं वा किं स्वस्मै प्रकाशते?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 we ask in reply: Do you mean then to say that knowledge appears to itself?
 </details>
@@ -1368,7 +1368,7 @@ we ask in reply: Do you mean then to say that knowledge appears to itself?
 "अहम् सुखी"तिवज् "जानाम्य् अहम्" इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Knowledge no less than pleasure appears to some one else, viz. the 'I': there is, in that respect, no difference between the judgment 'I know,' and the judgment 'I am pleased.'
 </details>
@@ -1383,7 +1383,7 @@ Knowledge no less than pleasure appears to some one else, viz. the 'I': there is
 अतस् स्वस्मै प्रकाशमानत्व-रूपम् अ-जडत्वम् संविद्य् अ-सिद्धम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Non-intelligence in the sense of appearingness-to-itself is thus not proved for consciousness;
 </details>
@@ -1401,7 +1401,7 @@ Non-intelligence in the sense of appearingness-to-itself is thus not proved for 
 अ-जडो ऽहम्-अर्थः एवाऽत्मा ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and hence it follows that what constitutes the Self is the non-jada 'I' which is proved to itself by its very Being.
 </details>
@@ -1417,7 +1417,7 @@ and hence it follows that what constitutes the Self is the non-jada 'I' which is
 ज्ञानस्यापि प्रकाशता तत्-सम्बन्धायत्ता।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That knowledge is of the nature of light depends altogether on its connection with the knowing 'I':
 </details>
@@ -1434,7 +1434,7 @@ That knowledge is of the nature of light depends altogether on its connection wi
 इतरम् प्रत्य् अ-प्रकटत्वम् च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 it is due to the latter, that knowledge, like pleasure, manifests itself to that conscious person who is its substrate, and not to anybody else.
 </details>
@@ -1450,7 +1450,7 @@ it is due to the latter, that knowledge, like pleasure, manifests itself to that
 अपि तु ज्ञातैवाहम्-अर्थः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Self is thus not mere knowledge, but is the knowing 'I.'
 </details>
@@ -1462,7 +1462,7 @@ The Self is thus not mere knowledge, but is the knowing 'I.'
 
 ## ज्ञातृता न भ्रमः
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The view that the conscious subject is something unreal, due to the ahaṁkāra, cannot be maintained.
 </details>
@@ -1480,7 +1480,7 @@ The view that the conscious subject is something unreal, due to the ahaṁkāra,
 इति -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We turn to a further point. You maintain that consciousness which is in reality devoid alike of objects and substrate presents itself, owing to error, in the form of a knowing subject, just as mother o' pearl appears as silver; (consciousness itself being viewed as a real substrate of an erroneous imputation), because an erroneous imputation cannot take place apart from a substrate.
 </details>
@@ -1495,7 +1495,7 @@ We turn to a further point. You maintain that consciousness which is in reality 
 तद् अयुक्तम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But this theory is indefensible.
 </details>
@@ -1514,7 +1514,7 @@ But this theory is indefensible.
 पुरोऽवस्थित-भास्वर-द्रव्याकारतया रजतादिर् इव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If things were as you describe them, the conscious 'I' would be cognised as co-ordinate with the state of consciousness 'I am consciousness,' just as the shining thing presenting itself to our eyes is judged to be silver.
 </details>
@@ -1531,7 +1531,7 @@ If things were as you describe them, the conscious 'I' would be cognised as co-o
 दण्ड इव देवदत्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But the fact is that the state of consciousness presents itself as something apart, constituting a distinguishing attribute of the I, just as the stick is an attribute of Devadatta who carries it.
 </details>
@@ -1546,7 +1546,7 @@ But the fact is that the state of consciousness presents itself as something apa
 तथा हि "अनुभवाम्य् अहम्" इति प्रतीतिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For there is the cognition: "I experience."
 </details>
@@ -1565,7 +1565,7 @@ For there is the cognition: "I experience."
 कथम् इव प्रतिज्ञायेत?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And to declare that this cognition 'I experience' – which reveals the Self (asmad-artha) as distinguished by consciousness – refers only to a state of consciousness (which is a mere attribute) is no better than to say that the judgment 'Devadatta carries a stick' (daṇḍī devadattaḥ) is about the stick only.
 </details>
@@ -1584,7 +1584,7 @@ And to declare that this cognition 'I experience' – which reveals the Self (as
 > "स्थूलो ऽहम्" इत्य्-आदि-देहात्माभिमानवत एव ज्ञातृत्व-प्रतिभासनात् ज्ञातृत्वम् अपि मिथ्या – इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor are you right in saying that the idea of the Self being a knowing agent, presents itself to the mind of him only who erroneously identifies the Self and the body, an error expressing itself in judgments such as 'I am stout,' and is on that account false;
 </details>
@@ -1601,7 +1601,7 @@ Nor are you right in saying that the idea of the Self being a knowing agent, pre
 तद्वत एव प्रतीतेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for from this it would follow that the consciousness which is erroneously imagined as a Self is also false; for it presents itself to the mind of the same person.
 </details>
@@ -1621,7 +1621,7 @@ for from this it would follow that the consciousness which is erroneously imagin
 ज्ञातृत्वम् अपि न मिथ्या।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You will perhaps rejoin that consciousness is not false because it (alone) is not sublated by that cognition which sublates everything else. Well, we reply, then the knowership of the Self also is not false; for that also is not sublated.
 </details>
@@ -1640,7 +1640,7 @@ You will perhaps rejoin that consciousness is not false because it (alone) is no
 ज्ञान-क्रिया-कर्तृत्व-रूपं ज्ञातृत्वं न सम्भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 You further maintain that the character of being a knower, i.e. the agent in the action of knowing, does not become the unchanging Self;
 </details>
@@ -1658,7 +1658,7 @@ You further maintain that the character of being a knower, i.e. the agent in the
 अपि त्व् अन्तःकरण-रूपस्याहङ्कारस्य ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 that being a knower is something implying change, of a non-intelligent kind (jaḍa), and residing in the ahaṁkāra which is the abode of change and a mere effect of the Unevolved (the Prakr̥ti); so that knowership does not belong to the Self, but to the ahaṁkāra which is of the nature of an internal organ.
 </details>
@@ -1678,7 +1678,7 @@ that being a knower is something implying change, of a non-intelligent kind (ja�
 इति -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For being an agent and so on is like colour and other qualities, an attribute of what is objective; and if we admit the Self to be an agent and the object of the notion of the 'I,' it also follows that the Self is, like the body, not a real Self but something external and non-intelligent.
 </details>
@@ -1697,7 +1697,7 @@ For being an agent and so on is like colour and other qualities, an attribute of
 चेतनासाधारण-स्वभावत्वाच् च ज्ञातृत्वस्य॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But all this is unfounded, since the internal organ is, like the body, non-intelligent, an effect of Prakr̥ti, an object of knowledge, something outward and for the sake of others merely; while being a knowing subject constitutes the special essential nature of intelligent beings.
 </details>
@@ -1720,7 +1720,7 @@ But all this is unfounded, since the internal organ is, like the body, non-intel
 – इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To explain. Just as the body, through its objectiveness, outwardness, and similar causes, is distinguished from what possesses the opposite attributes of subjectiveness, inwardness, and so on; for the same reason the ahaṁkāra also – which is of the same substantial nature as the body – is similarly distinguished.
 </details>
@@ -1736,7 +1736,7 @@ To explain. Just as the body, through its objectiveness, outwardness, and simila
 न ज्ञातृत्वम् अहङ्कारस्य, दृशित्ववत् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the ahaṁkāra is no more a knower than it is something subjective;  
 otherwise there would be an evident contradiction.
@@ -1753,7 +1753,7 @@ otherwise there would be an evident contradiction.
 तथा ज्ञातृत्वम् अपि न तत्-कर्मणो ऽभ्युपगन्तव्यम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As knowing cannot be attributed to the ahaṁkāra, which is an object of knowledge, so knowership also cannot be ascribed to it; for of that also it is the object.
 </details>
@@ -1771,7 +1771,7 @@ As knowing cannot be attributed to the ahaṁkāra, which is an object of knowle
 ज्ञातृत्वं हि ज्ञान-गुणाश्रयत्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be maintained that to be a knower is something essentially changing. For to be a knower is to be the substrate of the quality of knowledge,
 </details>
@@ -1786,7 +1786,7 @@ Nor can it be maintained that to be a knower is something essentially changing. 
 ज्ञानं चास्य नित्यस्य स्वाभाविक-धर्मत्वेन नित्यम्।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and as the knowing Self is eternal, knowledge which is an essential quality of the Self is also eternal.
 </details>
@@ -1801,7 +1801,7 @@ and as the knowing Self is eternal, knowledge which is an essential quality of t
 नित्यत्वं चात्मनो "नात्मा श्रुतेः" (ब्र.सू.२.३.१८) इत्य्-आदिषु वक्ष्यति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the Self is eternal will be declared in the Sūtra, II, 3, 17;
 </details>
@@ -1818,7 +1818,7 @@ That the Self is eternal will be declared in the Sūtra, II, 3, 17;
 ज्ञानाश्रयत्वं च स्वाभाविकम् इति वक्ष्यति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and in II, 3, 18 the term 'gña' (knower) will show that it is an essential quality of the Self to be the abode of knowledge.
 </details>
@@ -1835,7 +1835,7 @@ and in II, 3, 18 the term 'gña' (knower) will show that it is an essential qual
 ज्ञानाश्रयत्वम् अप्य् अविरुद्धम् इति उक्तम्। +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That a Self whose essential nature is knowledge should be the substrate of the (quality of) knowledge – just as gems and the like are the substrate of light – gives rise to no contradiction whatever.
 </details>
@@ -1853,7 +1853,7 @@ That a Self whose essential nature is knowledge should be the substrate of the (
 सङ्कोच-विकासार्हम् इति उपपादयिष्यामः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Knowledge (the quality) which is in itself unlimited, is capable of contraction and expansion, as we shall show later on.
 </details>
@@ -1870,7 +1870,7 @@ Knowledge (the quality) which is in itself unlimited, is capable of contraction 
 तत्-तत्-कर्मानुगुणं तर-तम-भावेन वर्तते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the so-called kshetrajña – condition of the Self, knowledge is, owing to the influence of work (karman), of a contracted nature, as it more or less adapts itself to work of different kinds,
 </details>
@@ -1885,7 +1885,7 @@ In the so-called kshetrajña – condition of the Self, knowledge is, owing to t
 तच् चेन्द्रिय-द्वारेण व्यवस्थितम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and is variously determined by the different senses.
 </details>
@@ -1901,7 +1901,7 @@ and is variously determined by the different senses.
 उदयास्तमय-व्यपदेशः प्रवर्तते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 With reference to this various flow of knowledge as due to the senses, it is spoken of as rising and setting,
 </details>
@@ -1917,7 +1917,7 @@ With reference to this various flow of knowledge as due to the senses, it is spo
 ज्ञान-प्रसरे तु कर्तृत्वम् अस्त्य् एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the Self possesses the quality of an agent.
 </details>
@@ -1935,7 +1935,7 @@ and the Self possesses the quality of an agent.
 अविक्रिय-स्वरूप एव आत्मा ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As this quality is not, however, essential, but originated by action, the Self is essentially unchanging.
 </details>
@@ -1951,7 +1951,7 @@ As this quality is not, however, essential, but originated by action, the Self i
 न कदाचिद् अपि जडस्याहङ्कारस्य ज्ञातृत्व-सम्भवः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This changeful quality of being a knower can belong only to the Self whose essential nature is knowledge; not possibly to the non-intelligent ahaṁkāra.
 </details>
@@ -1972,7 +1972,7 @@ This changeful quality of being a knower can belong only to the Self whose essen
 इति चेत्; केयम् चिच्-छायापत्तिः?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, you will perhaps say, the ahaṁkāra, although of non-intelligent nature, may become a knower in so far as by approximation to intelligence it becomes a reflection of the latter. How, we ask in return, is this becoming a reflection of intelligence imagined to take place?
 </details>
@@ -1987,7 +1987,7 @@ But, you will perhaps say, the ahaṁkāra, although of non-intelligent nature, 
 किम् अहङ्कार-च्छायापत्तिस् संविदः?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Does consciousness become a reflection of the ahaṁkāra,
 </details>
@@ -2002,7 +2002,7 @@ Does consciousness become a reflection of the ahaṁkāra,
 उत संविच्-छायापत्तिर् अहङ्कारस्य?॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 or does the ahaṁkāra become a reflection of consciousness?
 </details>
@@ -2018,7 +2018,7 @@ or does the ahaṁkāra become a reflection of consciousness?
 संविदो ज्ञातृत्वानभ्युपगमात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The former alternative is inadmissible, since you will not allow to consciousness the quality of being a knower;
 </details>
@@ -2036,7 +2036,7 @@ The former alternative is inadmissible, since you will not allow to consciousnes
 न ह्य् अ-चाक्षुषाणां छाया दृष्टा॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and so is the latter since, as explained above, the non-intelligent ahaṁkāra can never become a knower. Moreover, neither consciousness nor the ahaṁkāra are objects of visual perception. Only things seen by the eye have reflections.
 </details>
@@ -2058,7 +2058,7 @@ and so is the latter since, as explained above, the non-intelligent ahaṁkāra 
 – इति चेत्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Let it then be said that as an iron ball is heated by contact with fire, so the consciousness of being a knower is imparted to the ahaṁkāra through its contact with Intelligence.
 </details>
@@ -2074,7 +2074,7 @@ Let it then be said that as an iron ball is heated by contact with fire, so the 
 न तत्-सम्पर्काद् अहङ्कारे ज्ञातृत्वं तद्-उपलब्धिर् वा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This view too is inadmissible; for as you do not allow real knowership to Intelligence, knowership or the consciousness of knowership cannot be imparted to the ahaṁkāra by contact with Intelligence;
 </details>
@@ -2092,7 +2092,7 @@ This view too is inadmissible; for as you do not allow real knowership to Intell
 संविदि ज्ञातृत्वं तद्-उपलब्धिर् वा॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and much less even can knowership or the consciousness of it be imparted to Intelligence by contact with the essentially non-intelligent ahaṁkāra.
 </details>
@@ -2116,7 +2116,7 @@ and much less even can knowership or the consciousness of it be imparted to Inte
 इति -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we accept what you say about 'manifestation.'  
 Neither the ahaṁkāra, you say, nor Intelligence is really a knowing subject,  
@@ -2137,7 +2137,7 @@ but the ahaṁkāra manifests consciousness abiding within itself (within the ah
 जड-स्वरूपाहङ्काराभिव्यङ्ग्यत्वायोगात्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But the essentially non-intelligent ahaṁkāra evidently cannot 'manifest' the self-luminous Self.
 </details>
@@ -2151,7 +2151,7 @@ But the essentially non-intelligent ahaṁkāra evidently cannot 'manifest' the 
 > शान्ताङ्गार इवाऽदित्यम् अहङ्कारो जडात्मकः।  
 > स्वयञ्ज्योतिषम् आत्मानं व्यनक्तीति न युक्तिमत्॥ (आत्मसिद्धिः) इति  
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As has been said 'That the non-intelligent ahaṁkāra should manifest the self-luminous Self, has no more sense than to say that a spent coal manifests the Sun.'
 </details>
@@ -2168,7 +2168,7 @@ As has been said 'That the non-intelligent ahaṁkāra should manifest the self-
 स्वयम्-प्रकाशानुभवाधीन-सिद्धयो हि सर्वे पदार्थाः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The truth is that all things depend for their proof on self-luminous consciousness;
 </details>
@@ -2186,7 +2186,7 @@ The truth is that all things depend for their proof on self-luminous consciousne
 आत्मविदः परिहसन्ति।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and now you maintain that one of these things, viz. the non-intelligent ahaṁkāra – which itself depends for its light on consciousness – manifests consciousness, whose essential light never rises or sets, and which is the cause that proves everything! Whoever knows the nature of the Self will justly deride such a view!
 </details>
@@ -2204,7 +2204,7 @@ and now you maintain that one of these things, viz. the non-intelligent ahaṁk�
 न व्यङ्क्तृ-व्यङ्ग्य-भावः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The relation of 'manifestation' cannot hold good between consciousness and the ahaṁkāra for the further reason also that there is a contradiction in nature between the two, and because it would imply consciousness not to be consciousness.
 </details>
@@ -2227,7 +2227,7 @@ The relation of 'manifestation' cannot hold good between consciousness and the a
 इति॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As has been said, 'One cannot manifest the other, owing to contradictoriness; and if the Self were something to be manifested, that would imply its being non-intelligent like a jar.'
 </details>
@@ -2248,7 +2248,7 @@ As has been said, 'One cannot manifest the other, owing to contradictoriness; an
 तत्रापि रवि-कर-निकराणां कर-तलाभिव्यङ्ग्यत्वाभावात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is the matter improved by your introducing the hand and the sunbeams, and to say that as the sunbeams while manifesting the hand, are at the same time manifested by the hand, so consciousness, while manifesting the ahaṁkāra, is at the same time itself manifested by the latter. The sunbeams are in reality not manifested by the hand at all.
 </details>
@@ -2266,7 +2266,7 @@ Nor is the matter improved by your introducing the hand and the sunbeams, and to
 करतलस्य नाभिव्यञ्जकत्वम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What takes place is that the motion of the sunbeams is reversed (reflected) by the opposed hand; they thus become more numerous, and hence are perceived more clearly; but this is due altogether to the multitude of beams, not to any manifesting power on the part of the hand.
 </details>
@@ -2284,7 +2284,7 @@ What takes place is that the motion of the sunbeams is reversed (reflected) by t
 ऽहङ्कार-निर्वर्त्या अभिव्यक्तिः किंरूपा?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What could, moreover, be the nature of that 'manifestation' of the Self consisting of Intelligence, which would be effected through the ahaṁkāra?
 </details>
@@ -2300,7 +2300,7 @@ What could, moreover, be the nature of that 'manifestation' of the Self consisti
 स्वतस् सिद्धतया ऽनन्योत्पाद्यत्वाभ्युपगमात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It cannot be origination; for you acknowledge that what is self-established cannot be originated by anything else.
 </details>
@@ -2317,7 +2317,7 @@ It cannot be origination; for you acknowledge that what is self-established cann
 तस्यानुभवान्तराननुभाव्यत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be 'illumination' (making to shine forth), since consciousness cannot – according to you – be the object of another consciousness.
 </details>
@@ -2334,7 +2334,7 @@ Nor can it be 'illumination' (making to shine forth), since consciousness cannot
 न तद्-अनुभव-साधनानुग्रहः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the same reason it cannot be any action assisting the means of being conscious of consciousness.
 </details>
@@ -2352,7 +2352,7 @@ For the same reason it cannot be any action assisting the means of being conscio
 +++(क्रमशो)+++ व्यक्ति-दर्पणादीनां नयनादीन्द्रिय-सम्बन्ध-हेतुत्वेन;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For such helpful action could be of two kinds only. It would either be such as to cause the connexion of the object to be known with the sense-organs; as e.g. any action which, in the case of the apprehension of a species or of one's own face, causes connexion between the organ of sight and an individual of the species, or a looking-glass.
 </details>
@@ -2368,7 +2368,7 @@ For such helpful action could be of two kinds only. It would either be such as t
 यथा पर-तत्त्वावबोधन-साधनस्य शास्त्रस्य शम-दमादिना।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Or it would be such as to remove some obstructive impurity in the mind of the knowing person; of this kind is the action of calmness and self-restraint with reference to scripture which is the means of apprehending the highest reality.
 </details>
@@ -2389,7 +2389,7 @@ Or it would be such as to remove some obstructive impurity in the mind of the kn
 इति॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As has been said 'Since the instruments (organs) have no existence (independent of the Self), they cannot be the cause of connection.'
 </details>
@@ -2407,7 +2407,7 @@ As has been said 'Since the instruments (organs) have no existence (independent 
 अहम्-अर्थेन +++(त्वन्-मते ऽहङ्कारेण)+++ न तद्+++(→अनुभूत्य्)+++-अनुभव-साधनानुग्रहः सु-वचः;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, even if it were admitted that consciousness may be an object of consciousness, it could not be maintained that the 'I' assists the means whereby that consciousness is effected.
 </details>
@@ -2424,7 +2424,7 @@ Moreover, even if it were admitted that consciousness may be an object of consci
 चक्षुषो दीपादिना।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if it did so, it could only be in the way of removing any obstacles impeding the origination of such consciousness;  
 analogous to the way in which a lamp assists the eye by dispelling the darkness which impedes the origination of the apprehension of colour.
@@ -2441,7 +2441,7 @@ analogous to the way in which a lamp assists the eye by dispelling the darkness 
 न चेह तथाविधं निरसनीयं सम्भाव्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But in the case under discussion we are unable to imagine such obstacles.
 </details>
@@ -2457,7 +2457,7 @@ But in the case under discussion we are unable to imagine such obstacles.
 तज्-ज्ञानोत्पत्ति-निरोधि किञ्चिद् अप्य् अहङ्कारापनेयम् अस्ति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There is nothing pertaining to consciousness which obstructs the origination of the knowledge of consciousness and which could be removed by the ahaṁkāra.
 </details>
@@ -2474,7 +2474,7 @@ There is nothing pertaining to consciousness which obstructs the origination of 
 अज्ञानस्याहङ्कारापनोद्यत्वानभ्युपगमात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There is something, you will perhaps reply, viz. Nescience! Not so, we reply. That Nescience is removed by the ahaṁkāra cannot be admitted;
 </details>
@@ -2489,7 +2489,7 @@ There is something, you will perhaps reply, viz. Nescience! Not so, we reply. Th
 ज्ञानम् एव ह्य् अज्ञानस्य निवर्तकम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 knowledge alone can put an end to Nescience.
 </details>
@@ -2506,7 +2506,7 @@ knowledge alone can put an end to Nescience.
 न च संविद्-आश्रयत्वम् अज्ञानस्य सम्भवति;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can consciousness be the abode of Nescience, </details>
 
@@ -2522,7 +2522,7 @@ Nor can consciousness be the abode of Nescience, </details>
 साक्षिणि नाज्ञानं भवितुम् अर्हाति;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 because in that case Nescience would have the same abode and the same object as knowledge.  
 In pure knowledge where there is no knowing subject and no object of knowledge – the so-called 'witnessing' principle (sākshin)--Nescience cannot exist.
@@ -2540,7 +2540,7 @@ In pure knowledge where there is no knowing subject and no object of knowledge �
 घटादेर् नाज्ञानाश्रयत्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Jars and similar things cannot be the abode of Nescience because there is no possibility of their being the abode of knowledge,
 </details>
@@ -2556,7 +2556,7 @@ Jars and similar things cannot be the abode of Nescience because there is no pos
 ज्ञानाश्रयत्वाभावेन, नाज्ञानाश्रयत्वं स्यात् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and for the same reason pure knowledge also cannot be the abode of Nescience.
 </details>
@@ -2575,7 +2575,7 @@ and for the same reason pure knowledge also cannot be the abode of Nescience.
 ज्ञानेन न तद्-गताज्ञान-निवृत्तिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And even if consciousness were admitted to be the abode of Nescience, it could not be the object of knowledge; for consciousness being viewed as the Self cannot be the object of knowledge, and hence knowledge cannot terminate the Nescience abiding within consciousness.
 </details>
@@ -2591,7 +2591,7 @@ And even if consciousness were admitted to be the abode of Nescience, it could n
 यथा रज्ज्‍व् आदौ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For knowledge puts an end to Nescience only with regard to its own objects, as in the case of the snake-rope.
 </details>
@@ -2607,7 +2607,7 @@ For knowledge puts an end to Nescience only with regard to its own objects, as i
 संविद्-आश्रयम् अज्ञानम् उच्छिद्येत।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the consequence of this would be that the Nescience attached to consciousness could never be destroyed by any one.
 </details>
@@ -2626,7 +2626,7 @@ And the consequence of this would be that the Nescience attached to consciousnes
 इत्य् उपरिष्टाद् वक्ष्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If Nescience, we further remark, is viewed as that which can be defined neither as Being nor non-Being, we shall show later on that such Nescience is something quite incomprehensible.
 </details>
@@ -2644,7 +2644,7 @@ If Nescience, we further remark, is viewed as that which can be defined neither 
 न तन्-निरसनेन तज्-ज्ञान-साधनानुग्रहः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the other hand, Nescience, if understood to be the antecedent non-existence of knowledge, is not opposed in nature to the origination of knowledge, and hence the dispelling of Nescience cannot be viewed as promoting the means of the knowledge of the Self.
 </details>
@@ -2661,7 +2661,7 @@ On the other hand, Nescience, if understood to be the antecedent non-existence o
 अतो न केनापि प्रकारेणाहङ्कारेणानुभूतेर् अभिव्यक्तिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From all this it follows that the ahaṁkāra cannot effect in any way 'manifestation of consciousness.'
 </details>
@@ -2680,7 +2680,7 @@ From all this it follows that the ahaṁkāra cannot effect in any way 'manifest
 यथावस्थित-पदार्थ-प्रतीत्य्-अनुगुण-स्वाभाव्याच् च ज्ञान-तत्-साधनयोर् अनुग्राहकस्य च।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor (to finish up this point) can it be said that it is the essential nature of manifesting agents to manifest things in so far as the latter have their abode in the former; for such a relation is not observed in the case of lamps and the like (which manifest what lies outside them).
 
@@ -2700,7 +2700,7 @@ The essential nature of manifesting agents rather lies therein that they promote
 +++(श्रुत-प्रकाशिकोक्त-)+++स्वतः-प्रामाण्य-न्याय-सिद्धम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And this is self-established by the principle of self-validity of knowledge (svataḥ-prāmāṇya-nyāya).
 </details>
@@ -2726,7 +2726,7 @@ And this is self-established by the principle of self-validity of knowledge (sva
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is it even true that the mirror manifests the face. The mirror is only the cause of a certain irregularity, viz. the reversion of the ocular rays of light,
 </details>
@@ -2741,7 +2741,7 @@ Nor is it even true that the mirror manifests the face. The mirror is only the c
 तद्-दोष-कृतश् च तत्रान्यथाऽवभासः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and to this irregularity there is due the appearance of the face within the mirror;
 </details>
@@ -2756,7 +2756,7 @@ and to this irregularity there is due the appearance of the face within the mirr
 अभिव्यञ्जकस् त्व् आलोकादिर् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but the manifesting agent is the light only.
 </details>
@@ -2772,7 +2772,7 @@ but the manifesting agent is the light only.
 संविदि स्वप्रकाशायां तादृश-दोषापादनं सम्भवति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And it is evident that the ahaṁkāra is not capable of producing an irregularity (analogous to that produced by the mirror) in consciousness which is self-luminous.
 </details>
@@ -2790,7 +2790,7 @@ And it is evident that the ahaṁkāra is not capable of producing an irregulari
 न तु व्यक्ति-व्यङ्ग्यत्वात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And – with regard to the second analogous instance alleged by you – the fact is that the species is known through the individual because the latter is its substrate (as expressed in the general principle, 'the species is the form of the individual'), but not because the individual 'manifests' the species.
 </details>
@@ -2809,7 +2809,7 @@ And – with regard to the second analogous instance alleged by you – the fact
 नाहङ्कारस्य ज्ञातृत्वं, तथोपलब्धिर् वा।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus there is no reason, either real or springing from some imperfection, why the consciousness of consciousness should be brought about by its abiding in the ahaṁkāra, and the attribute of being the knowing agent or the consciousness of that cannot therefore belong to the ahaṁkāra.
 </details>
@@ -2826,7 +2826,7 @@ Thus there is no reason, either real or springing from some imperfection, why th
 न ज्ञप्ति-मात्रम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence, what constitutes the inward Self is not pure consciousness but the 'I' which proves itself as the knowing subject.
 </details>
@@ -2842,7 +2842,7 @@ Hence, what constitutes the inward Self is not pure consciousness but the 'I' wh
 ज्ञप्तेर् अपि न प्रत्यक्त्व-सिद्धिर् इत्य् उक्तम्॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the absence of egoity, 'inwardness' could not be established for consciousness.
 </details>
@@ -2853,7 +2853,7 @@ In the absence of egoity, 'inwardness' could not be established for consciousnes
 </details>
 
 ## सुप्तौ
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The conscious subject persists in deep sleep.
 </details>
@@ -2870,7 +2870,7 @@ The conscious subject persists in deep sleep.
 सुषुप्ताव् अपि नाहम्भाव-विगमः।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In deep sleep the quality of darkness prevails in the mind and there is no consciousness of outward things, and thus there is no distinct and clear presentation of the 'I'; but all the same the Self somehow presents itself up to the time of waking in the one form of the 'I,' and the latter cannot therefore be said to be absent.
 </details>
@@ -2885,7 +2885,7 @@ In deep sleep the quality of darkness prevails in the mind and there is no consc
 भवद्-अभिमताया अनुभूतेर् अपि तथैव प्रथेति वक्तव्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Pure consciousness assumed by you (to manifest itself in deep sleep) is really in no better case;
 </details>
@@ -2907,7 +2907,7 @@ Pure consciousness assumed by you (to manifest itself in deep sleep) is really i
 इत्य् एवं-विधाम् स्वाप-समकालाम् अनुभूतिम् परामृशति।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for a person risen from deep sleep never represents to himself his state of consciousness during sleep in the form, 'I was pure consciousness free from all egoity and opposed in nature to everything else, witnessing Nescience';
 </details>
@@ -2926,7 +2926,7 @@ for a person risen from deep sleep never represents to himself his state of cons
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 what he thinks is only 'I slept well.'
 </details>
@@ -2942,7 +2942,7 @@ what he thinks is only 'I slept well.'
 तदानीम् अप्य् अहम्-अर्थस्यैवाऽत्मनस् सुखित्वम् ज्ञातृत्वम् च ज्ञायते॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From this form of reflection it appears that even during sleep the Self. i.e. the 'I,' was a knowing subject and perceptive of pleasure.
 </details>
@@ -2964,12 +2964,12 @@ From this form of reflection it appears that even during sleep the Self. i.e. th
 इति; अ-तद्-रूपत्वात् प्रतिपत्तेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor must you urge against this that the reflection has the following form: 'As now I feel pleasure, so I slept then also'; for the reflection is distinctly _not_ of that kind. [fn_12]
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Thibaut - Notes</summary>
 
 [fn_12]: 68:1 I. e. the reflection as to the perception of pleasure refers to the past state of sleep only, not to the present moment of reflection.
 </details>
@@ -2986,7 +2986,7 @@ Nor must you urge against this that the reflection has the following form: 'As n
 तदानीम् अहम्-अर्थस्य सुखित्वानुसन्धानानुपपत्तिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor must you say that owing to the non-permanency of the 'I' its perception of pleasure during sleep cannot connect itself with the waking state.
 </details>
@@ -3003,7 +3003,7 @@ Nor must you say that owing to the non-permanency of the 'I' its perception of p
 "मयेदम् अनुभूतम्", "अहम् एतद् अवोचम्" इति परामृशति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For (the 'I' is permanent as appears from the fact that) the person who has risen from sleep recalls things of which he was conscious before his sleep, 'I did such and such a thing,' 'I observed this or that,' 'I said so or so.'
 </details>
@@ -3023,7 +3023,7 @@ For (the 'I' is permanent as appears from the fact that) the person who has rise
 इति चेत्, ततः किम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But, you will perhaps say, he also reflects, 'For such and such a time I was conscious of nothing!'--'And what does this imply?' we ask.--
 </details>
@@ -3042,7 +3042,7 @@ For (the 'I' is permanent as appears from the fact that) the person who has rise
 वेद्य-विषयो हि स प्रतिषेधः।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'It implies a negation of everything!'--By no means, we rejoin. The words 'I was conscious' show that the knowing 'I' persisted, and that hence what is negated is only the objects of knowledge.
 </details>
@@ -3058,7 +3058,7 @@ For (the 'I' is permanent as appears from the fact that) the person who has rise
 भवद्-अभिमता ऽनुभूतिर् अपि प्रतिषिद्धा स्यात्।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the negation implied in 'of nothing' included everything, it would also negative the pure consciousness which you hold to persist in deep sleep.
 </details>
@@ -3080,7 +3080,7 @@ If the negation implied in 'of nothing' included everything, it would also negat
 तम् इमम् अर्थम् +++(निरुत्तराणां)+++ देवानाम् +++(अग्रय्)+++ एव साधयतु॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the judgment 'I was conscious of nothing,' the word 'I' clearly refers to the 'I,' i.e. the knowing Self which persists even during deep sleep, while the words 'was conscious of nothing' negative all knowledge on the part of that 'I'; 
 
@@ -3102,7 +3102,7 @@ if, now, in the face of this, you undertake to prove by means of this very judgm
 स्वानुभव-स्ववचनयोर् विरोधम् अपि न जानन्ति भवन्तः।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But – our opponent goes on to urge – I form the following judgment also: 'I then was not conscious of myself,' and from this I understand that the 'I' did not persist during deep sleep!--You do not know, we rejoin, that this denial of the persistence of the 'I' flatly contradicts the state of consciousness expressed in the judgment 'I was not conscious of myself' and the verbal form of the judgment itself!--
 </details>
@@ -3120,7 +3120,7 @@ But – our opponent goes on to urge – I form the following judgment also: 'I 
 इति चेत्; साधु पृष्टम् भवता।
 </etails>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But what then is denied by the words 'of myself?--
 This, we admit, is a reasonable question.
@@ -3140,7 +3140,7 @@ This, we admit, is a reasonable question.
 अपि तु प्रबोध-समये ऽनुसन्धीयमानस्याहम्-अर्थस्य वर्णाश्रमादि-विशिष्टता।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Let us consider the point. What is negatived in that judgment is not the knowing 'I' itself, but merely the distinctions of caste, condition of life, &c. which belong to the 'I' at the time of waking.
 </details>
@@ -3157,7 +3157,7 @@ Let us consider the point. What is negatived in that judgment is not the knowing
 इत्य् उक्ते विषयो विवेचनीयः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We must distinguish the objects of the several parts of the judgment under discussion.
 </details>
@@ -3173,7 +3173,7 @@ We must distinguish the objects of the several parts of the judgment under discu
 "माम्" इत्य् अंशस्य विषयः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The object of the '(me) myself' is the 'I' distinguished by class characteristics as it presents itself in the waking state;
 </details>
@@ -3198,7 +3198,7 @@ The object of the '(me) myself' is the 'I' distinguished by class characteristic
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the object of the word 'I' (in the judgment) is that 'I' which consists of a uniform flow of self-consciousness which persists in sleep also, but is then not quite distinct.
 </details>
@@ -3214,7 +3214,7 @@ the object of the word 'I' (in the judgment) is that 'I' which consists of a uni
 "माम् अपि न ज्ञातवान् अहम्" इत्य् एव खल्व् अनुभव-प्रकारः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The judgment 'I did not know myself' therefore means that the sleeper was not conscious of the place where he slept, of his special characteristics, and so on.--
 </details>
@@ -3230,7 +3230,7 @@ The judgment 'I did not know myself' therefore means that the sleeper was not co
 किञ्च, "सुषुप्ताव् आत्मा ऽज्ञान-साक्षित्वेनाऽस्त" इति हि भवदीया प्रक्रिया।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is, moreover, your own view that in deep sleep the Self occupies the position of a witnessing principle with regard to Nescience.
 </details>
@@ -3245,7 +3245,7 @@ It is, moreover, your own view that in deep sleep the Self occupies the position
 साक्षित्वम् च साक्षाज् ज्ञातृत्वम् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But by a witness (sākshin) we understand some one who knows about something by personal observation (sākshāt);
 </details>
@@ -3260,7 +3260,7 @@ But by a witness (sākshin) we understand some one who knows about something by 
 न ह्य् अजानतस् साक्षित्त्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 a person who does not know cannot be a witness.
 </details>
@@ -3276,7 +3276,7 @@ a person who does not know cannot be a witness.
 न ज्ञान-मात्रम्।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Accordingly, in scripture as well as in ordinary language a knowing subject only, not mere knowledge, is spoken of as a witness;
 </details>
@@ -3295,7 +3295,7 @@ Accordingly, in scripture as well as in ordinary language a knowing subject only
 इति साक्षाज्-ज्ञातर्य् एव साक्षि-शब्दम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and with this the Reverend Pānini also agrees when teaching that the word 'sākshin' means one who knows in person (Pā. Sū. V, 2, 91).
 </details>
@@ -3312,7 +3312,7 @@ and with this the Reverend Pānini also agrees when teaching that the word 'sāk
 कुतस् तदानीम् अहम्-अर्थो न प्रतीयेत।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now this witness is nothing else but the 'I' which is apprehended in the judgment 'I know '; and how then should this 'I' not be apprehended in the state of sleep?
 </details>
@@ -3332,7 +3332,7 @@ Now this witness is nothing else but the 'I' which is apprehended in the judgmen
 इति सिद्धम्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That which itself appears to the Self appears as the 'I,' and it thus follows that also in deep sleep and similar states the Self which then shines forth appears as the 'I.'
 </details>
@@ -3343,7 +3343,7 @@ That which itself appears to the Self appears as the 'I,' and it thus follows th
 </details>
 
 ## मुक्तौ 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The conscious subject persists in the state of release.
 </details>
@@ -3358,7 +3358,7 @@ The conscious subject persists in the state of release.
 इति; तद् अपेशलम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To maintain that the consciousness of the 'I' does not persist in the state of final release is again altogether inappropriate.
 </details>
@@ -3375,7 +3375,7 @@ To maintain that the consciousness of the 'I' does not persist in the state of f
 प्रकारान्तरेण प्रतिज्ञातः स्यात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It in fact amounts to the doctrine – only expressed in somewhat different words – that final release is the annihilation of the Self.
 </details>
@@ -3392,7 +3392,7 @@ It in fact amounts to the doctrine – only expressed in somewhat different word
 अ-विद्या-निवृत्ताव् इव स्वरूपम् अवतिष्ठते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The 'I' is not a mere attribute of the Self so that even after its destruction the essential nature of the Self might persist – as it persists on the cessation of ignorance;
 </details>
@@ -3407,7 +3407,7 @@ The 'I' is not a mere attribute of the Self so that even after its destruction t
 प्रत्युत स्वरूपम् एवाहम्-अर्थ आत्मनः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but it constitutes the very nature of the Self.
 </details>
@@ -3423,7 +3423,7 @@ but it constitutes the very nature of the Self.
 "अहं जानामि", "ज्ञानं मे जातम्" इति चाहम्-अर्थ-धर्मतया ज्ञान-प्रतीतेर् +++(हेतोर्)+++ एव॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such judgments as 'I know', 'Knowledge has arisen in me', show, on the other hand, that we are conscious of knowledge as a mere attribute of the Self.
 </details>
@@ -3442,7 +3442,7 @@ Such judgments as 'I know', 'Knowledge has arisen in me', show, on the other han
 स्वात्मानम् अनुसन्धत्ते - "अहं दुःखी" इति,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, a man who suffering pain, mental or of other kind – whether such pain be real or due to error only – puts himself in relation to pain--'I am suffering pain'--
 </details>
@@ -3461,7 +3461,7 @@ Moreover, a man who suffering pain, mental or of other kind – whether such pai
 स एव तत्-साधने प्रवर्तते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 naturally begins to reflect how he may once for all free himself from all these manifold afflictions and enjoy a state of untroubled ease; the desire of final release thus having arisen in him he at once sets to work to accomplish it.
 </details>
@@ -3477,7 +3477,7 @@ naturally begins to reflect how he may once for all free himself from all these 
 अपसर्पेद् एवासौ मोक्ष-कथा-प्रस्तावात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, he were to realise that the effect of such activity would be the loss of personal existence, he surely would turn away as soon as somebody began to tell him about 'release'.
 </details>
@@ -3493,7 +3493,7 @@ If, on the other hand, he were to realise that the effect of such activity would
 सर्वं मोक्ष-शास्त्रम् अप्रमाणं स्यात्।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the result of this would be that, in the absence of willing and qualified pupils, the whole scriptural teaching as to final release would lose its authoritative character.
 </details>
@@ -3510,7 +3510,7 @@ And the result of this would be that, in the absence of willing and qualified pu
 इति चेत्; किम् अनेन?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Nor must you maintain against this that even in the state of release there persists pure consciousness; for this by no means improves your case.
 </details>
@@ -3529,7 +3529,7 @@ And the result of this would be that, in the absence of willing and qualified pu
 न हि कश्चिद् बुद्धि-पूर्व-कारी प्रयतते।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 No sensible person exerts himself under the influence of the idea that after he himself has perished there will remain some entity termed 'pure light!'
 </details>
@@ -3544,7 +3544,7 @@ No sensible person exerts himself under the influence of the idea that after he 
 अतो ऽहम्-अर्थस्यैव ज्ञातृतया सिद्ध्यतः प्रत्यग्-आत्मत्वम् +++(भवति)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --What constitutes the 'inward' Self thus is the 'I', the knowing subject.
 </details>
@@ -3562,7 +3562,7 @@ No sensible person exerts himself under the influence of the idea that after he 
 स्वस्मै प्रकाशमानत्वात्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This 'inward' Self shines forth in the state of final release also as an 'I'; for it appears to itself. 
 </details>
@@ -3580,7 +3580,7 @@ This 'inward' Self shines forth in the state of final release also as an 'I'; fo
 +उभय-वादि-सम्मतस् संसार्य्-आत्मा।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The general principle is that whatever being appears to itself appears as an 'I'; both parties in the present dispute establish the existence of the transmigrating Self on such appearance.
 </details>
@@ -3597,7 +3597,7 @@ The general principle is that whatever being appears to itself appears as an 'I'
 नासौ स्वस्मै प्रकाशते, यथा घटादिः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the contrary, whatever does not appear as an 'I', does not appear to itself; as jars and the like.
 </details>
@@ -3613,7 +3613,7 @@ On the contrary, whatever does not appear as an 'I', does not appear to itself; 
 तस्माद् "अहम्" इत्य् एव प्रकाशते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now the emancipated Self does thus appear to itself, and therefore it appears as an 'I'.
 </details>
@@ -3633,7 +3633,7 @@ Now the emancipated Self does thus appear to itself, and therefore it appears as
 अज्ञत्वाद्य्-अहेतुत्वाच् चाहम्-प्रत्ययस्य।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor does this appearance as an 'I' imply in any way that the released Self is subject to Nescience and implicated in the Saṁsāra;  
 for this would contradict the nature of final release, and moreover the consciousness of the 'I' cannot be the cause of Nescience and so on.
@@ -3651,7 +3651,7 @@ for this would contradict the nature of final release, and moreover the consciou
 स्वरूपाज्ञानम्, अन्यथा-ज्ञानं, विपरीत-ज्ञानं वा।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nescience (ignorance) is either ignorance as to essential nature, or the cognition of something under an aspect different from the real one (as when a person suffering from jaundice sees all things yellow); or cognition of what is altogether opposite in nature (as when mother o' pearl is mistaken for silver).
 </details>
@@ -3669,7 +3669,7 @@ Nescience (ignorance) is either ignorance as to essential nature, or the cogniti
 कुतस् संसारित्वम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now the 'I' constitutes the essential nature of the Self; how then can the consciousness of the 'I,' i.e. the consciousness of its own true nature, implicate the released Self in Nescience, or, in the Saṁsāra?
 </details>
@@ -3684,7 +3684,7 @@ Now the 'I' constitutes the essential nature of the Self; how then can the consc
 अपि तु तद्-विरोधाद् एव नाशयत्य् एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The fact rather is that such consciousness destroys Nescience, and so on, because it is essentially opposed to them.
 </details>
@@ -3702,7 +3702,7 @@ The fact rather is that such consciousness destroys Nescience, and so on, becaus
 "अहम्" इत्य् एवात्मानुभव-दर्शनाच् च +++(मुक्ताव् अप्य् अहम्-भानम्)+++।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In agreement with this we observe that persons like the r̥shi Vāmadeva, in whom the intuition of their identity with Brahman had totally destroyed all Nescience, enjoyed the consciousness of the personal 'I';
 </details>
@@ -3723,7 +3723,7 @@ In agreement with this we observe that persons like the r̥shi Vāmadeva, in who
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for scripture says, 'Seeing this the r̥shi Vāmadeva understood, I was Manu and the Sun' (B_ri._ Up. I, 4, 10).
 </details>
@@ -3742,7 +3742,7 @@ for scripture says, 'Seeing this the r̥shi Vāmadeva understood, I was Manu and
 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Thibaut - Notes</summary>
 
 The second citation from the Atharvaśiras Upanisad (section 9)—'अहमेकः प्रथममासं वर्तामि च भविष्यामि च' ('I alone was first, and I am, and I shall be')—is omitted in Thibaut's translation.
 </details>
@@ -3762,7 +3762,7 @@ The second citation from the Atharvaśiras Upanisad (section 9)—'अहमे�
 व्यवहारो ऽप्य् एवम् एव 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the highest Brahman also, which is opposed to all other forms of Nescience and denoted and conceived as pure Being, is spoken of in an analogous way; cp. 'Let me make each of these three deities,' &c. (_Kh._ Up. VI, 3, 3); 'May I be many, may I grow forth' (_Kh._ Up. VI, 2, 3); 'He thought, shall I send forth worlds?' (Ait. Ār. II, 4, 1, 1);
 </details>
@@ -3801,7 +3801,7 @@ And the highest Brahman also, which is opposed to all other forms of Nescience a
 (भ.गी.१५.१८), 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and again, 'Since I transcend the Destructible, and am higher also than the Indestructible, therefore I am proclaimed in the world and in the Veda as the highest Person' (Bha. Gī. XV, 18); 
 </details>
@@ -3835,7 +3835,7 @@ and again, 'Since I transcend the Destructible, and am higher also than the Inde
 इत्य्-आदिषु॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'I am the Self, O Gūḍākeśa.' (Bha. Gī. X, 20); 'Never was I not' (Bha. Gī. II, 12); 'I am the source and the destruction of the whole world' (Bha. Gī. VII, 6); 'I am the source of all; from me proceeds everything' (Bha. Gī. X, 8); 'I am he who raises them from the ocean of the world of death' (Bha. Gī. XII, 7); 'I am the giver of seed, the father' (Bha. Gī. XIV, 4); 'I know the things past' (Bha. Gī. VII, 26).--
 </details>
@@ -3859,7 +3859,7 @@ and again, 'Since I transcend the Destructible, and am higher also than the Inde
 > इति?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But if the 'I' (aham) constitutes the essential nature of the Self, how is it that the Holy One teaches the principle of egoity (ahaṁkāra) to belong to the sphere of objects, 'The great elements, the ahaṁkāra, the understanding (buddhi), and the Unevolved' (Bha. Gī. XIII, 5)?--
 </details>
@@ -3876,7 +3876,7 @@ But if the 'I' (aham) constitutes the essential nature of the Self, how is it th
 "अहम्" इत्य् एव प्रत्यग्-आत्मनस् स्वरूपम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As in all passages, we reply, which give information about the true nature of the Self it is spoken of as the 'I', we conclude that the 'I' constitutes the essential nature of the inward Self.
 </details>
@@ -3891,7 +3891,7 @@ As in all passages, we reply, which give information about the true nature of th
 अव्यक्त-परिणाम-भेदस्य अहङ्-कारस्य क्षेत्रान्तर्भावो भगवतैवोपदिश्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Where, on the other hand, the Holy One declares the ahaṁkāra – a special effect of the Unevolved – to be comprised within the sphere of the Objective,
 </details>
@@ -3908,7 +3908,7 @@ Where, on the other hand, the Holy One declares the ahaṁkāra – a special ef
 अहङ्-कार इत्य् उच्यते।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 he means that principle which is called ahaṁkāra, because it causes the assumption of Egoity on the part of the body which belongs to the Not-self.
 </details>
@@ -3925,12 +3925,12 @@ he means that principle which is called ahaṁkāra, because it causes the assum
 व्युत्पत्तिर् द्रष्टव्या।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The etymology of this word 'ahaṅkāra' is to be understood here as having been derived by applying the suffix 'cvi' in the sense of 'becoming what it was not' (abhūtatadbhāva).
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Thibaut - Notes</summary>
 
 This sentence is omitted in Thibaut's translation.
 </details>
@@ -3947,7 +3947,7 @@ This sentence is omitted in Thibaut's translation.
 शास्त्रेषु बहुशो हेयतया प्रतिपाद्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such egoity constitutes the ahaṁkāra also designated as pride or arrogance, which causes men to slight persons superior to themselves, and is referred to by scripture in many places as something evil.
 </details>
@@ -3964,7 +3964,7 @@ Such egoity constitutes the ahaṁkāra also designated as pride or arrogance, w
 साक्षाद्-आत्म-गोचरैव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Such consciousness of the 'I' therefore as is not sublated by anything else has the Self for its object;
 </details>
@@ -3979,7 +3979,7 @@ Such consciousness of the 'I' therefore as is not sublated by anything else has 
 शरीर-गोचरा त्व् अहम्-बुद्धिर अविद्यैव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while, on the other hand, such consciousness of the 'I' as has the body for its object is mere Nescience.
 </details>
@@ -4001,7 +4001,7 @@ while, on the other hand, such consciousness of the 'I' as has the body for its 
 – इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In agreement with this the Reverend Parāsara has said, 'Hear from me the essential nature of Nescience;
 it is the attribution of Selfhood to what is not the Self.'
@@ -4023,7 +4023,7 @@ it is the attribution of Selfhood to what is not the Self.'
 न ज्ञातृत्व-प्रतिभासः।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the Self were pure consciousness then pure consciousness only, and not the quality of being a knowing subject, would present itself in the body also, which is a Not-self wrongly imagined to be a Self.
 </details>
@@ -4039,7 +4039,7 @@ If the Self were pure consciousness then pure consciousness only, and not the qu
 तस्माज् ज्ञाता ऽहम्-अर्थ एवाऽऽत्मा। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The conclusion therefore remains that the Self is nothing but the knowing 'I'.
 </details>
@@ -4061,7 +4061,7 @@ The conclusion therefore remains that the Self is nothing but the knowing 'I'.
 इति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus it has been said, 
 
@@ -4080,7 +4080,7 @@ Thus it has been said,
 तथा च
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And again,
 </details>
@@ -4101,7 +4101,7 @@ And again,
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'That which is different from body, senses, mind, and vital airs; which does not depend on other means; which is permanent, pervading, divided according to bodies-that is the Self blessed in itself.'
 </details>
@@ -4118,7 +4118,7 @@ And again,
 अनन्य-साधनः – स्व-प्रकाशः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here 'not dependent on other means' means 'self-luminous';
 </details>
@@ -4133,7 +4133,7 @@ Here 'not dependent on other means' means 'self-luminous';
 व्यापी – अति-सूक्ष्मतया सर्वाचेतनान्तः-प्रवेशन-स्वभावः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 'pervading' means 'being of such a nature as to enter, owing to excessive minuteness, into all non-sentient things.'
 </details>

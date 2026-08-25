@@ -28,7 +28,7 @@ title = "१३ अत्त्रधिकरणम्"
 इति आशङ्क्य आह -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the highest Self is not the enjoyer, then in all cases the one perceived as the enjoyer must be the individual soul; with this doubt, the author says—
 </details>
@@ -43,7 +43,7 @@ If the highest Self is not the enjoyer, then in all cases the one perceived as t
 ४१. +++(ब्रह्म)+++ अत्ता चराचर-ग्रहणात् ॥ १-२-९ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 9. The eater (is the highest Self) on account of there being taken all that is movable and immovable.
 </details>
@@ -68,7 +68,7 @@ If the highest Self is not the enjoyer, then in all cases the one perceived as t
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 We read in the Kaṭḥavallī (I, 2, 25), 
 
@@ -96,7 +96,7 @@ We read in the Kaṭḥavallī (I, 2, 25),
 इति सन्दिह्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 A doubt here arises whether the 'eater', suggested by the words 'food' and 'condiment,' is the individual soul or the highest Self.
 </details>
@@ -113,7 +113,7 @@ A doubt here arises whether the 'eater', suggested by the words 'food' and 'cond
 किं युक्तम् ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What is the right view?
 </details>
@@ -128,7 +128,7 @@ What is the right view?
 जीव इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The individual soul, the Pūrvapakshin maintains;
 </details>
@@ -144,7 +144,7 @@ The individual soul, the Pūrvapakshin maintains;
 जीवस्य एव तत् सम्भवात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for all enjoyment presupposes works, and works belong to the individual soul only.
 </details>
@@ -161,7 +161,7 @@ for all enjoyment presupposes works, and works belong to the individual soul onl
 अत्र उच्यते – अत्ता चराचर-ग्रहणात् – अत्ता परमात्मैव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of this view the Sūtra disposes. The 'eater' can be the highest Self only,
 </details>
@@ -179,7 +179,7 @@ Of this view the Sūtra disposes. The 'eater' can be the highest Self only,
 तस्यैव सम्भवति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 because the taking, i. e. eating, of the whole aggregate of movable and immovable things can be predicated of that Self only.
 </details>
@@ -195,7 +195,7 @@ because the taking, i. e. eating, of the whole aggregate of movable and immovabl
 अपि तु जगज्-जन्म-स्थिति-लय-हेतु-भूतस्य परस्य ब्रह्मणो विष्णोः संहर्तृत्वम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Eating' does not here mean fruition dependent on work, but rather the act of reabsorption of the world on the part of the highest Brahman, i. e. Vishṇu, who is the cause of the origination, subsistence, and final destruction of the universe.
 </details>
@@ -214,7 +214,7 @@ because the taking, i. e. eating, of the whole aggregate of movable and immovabl
 इत्य् अत्रैव +++(समानप्रकरणे १.२.२५ तोऽनन्तरम्)+++ दर्शनात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This appears from the fact that Vishṇu is mentioned in the same section, 'He reaches the end of his journey, and that is the highest place of Vishṇu' (Ka. Up. I, 3, 9).
 </details>
@@ -233,7 +233,7 @@ This appears from the fact that Vishṇu is mentioned in the same section, 'He r
 इहादनीयोदनत्वेन गृह्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover the clause 'to whom death is a condiment' shows that by the Brahmans and Kshattriyas, mentioned in the text, we have to understand the whole universe of moving and non-moving things, viewed as things to be consumed by the highest Self.
 </details>
@@ -248,7 +248,7 @@ Moreover the clause 'to whom death is a condiment' shows that by the Brahmans an
 उपसेचनं हि नाम स्वयम् अद्यमानं सत् अन्यस्यादनहेतुः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For a condiment is a thing which, while itself being eaten, causes other things to be eaten;
 </details>
@@ -265,7 +265,7 @@ For a condiment is a thing which, while itself being eaten, causes other things 
 इति गम्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the meaning of the passage, therefore, is that while death itself is consumed, being a condiment as it were, there is at the same time eaten whatever is flavoured or made palatable by death, and that is the entire world of beings in which the Brahmans and Kshattriyas hold the foremost place.
 </details>
@@ -281,7 +281,7 @@ the meaning of the passage, therefore, is that while death itself is consumed, b
 ईदृशं चादनम् उपसंहार एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now such eating of course is destruction or reabsorption,
 </details>
@@ -297,7 +297,7 @@ Now such eating of course is destruction or reabsorption,
 परमात्मन एव ॥ ९ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and hence such enjoyment – meaning general reabsorption – can belong to the highest Self only.
 </details>
@@ -314,7 +314,7 @@ and hence such enjoyment – meaning general reabsorption – can belong to the 
 ४२. प्रकरणाच् च ॥ १-२-१० ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 10. And on account of the topic of the whole section.
 </details>
@@ -333,7 +333,7 @@ and hence such enjoyment – meaning general reabsorption – can belong to the 
 (कठ.१.२.२२), 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover the highest Brahman constitutes the topic of the entire section. Cp. 'The wise who knows the Self as great and omnipresent does not grieve' (Ka. Up. I, 2, 22);
 </details>
@@ -354,7 +354,7 @@ Moreover the highest Brahman constitutes the topic of the entire section. Cp. 'T
 इति हि प्रकृतम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'That Self cannot be gained by the Veda, nor by understanding, nor by much learning. He whom the Self chooses, by him the Self can be gained; the Self chooses him as his own' (I, 2, 23).
 </details>
@@ -372,7 +372,7 @@ Moreover the highest Brahman constitutes the topic of the entire section. Cp. 'T
 तस्य दुरवबोधत्वम् एव पूर्वप्रस्तुतं प्रत्यभिज्ञायते ॥ १० ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, the clause (forming part of the text under discussion), 'Who knows him (i.e. the being which constitutes the topic of the section) where he is?' clearly shows that we have to recognise here the Self of which it had previously been said that it is hard to know unless it assists us with its grace.
 </details>
@@ -393,7 +393,7 @@ Moreover, the clause (forming part of the text under discussion), 'Who knows him
 > अनन्तरम् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this conclusion a new objection presents itself.--
 
@@ -415,7 +415,7 @@ To this conclusion a new objection presents itself.--
 > इति कर्मफलभोक्तुर् एव सद्वितीयस्याभिधानात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'There are two, drinking their reward in the world of their own works, entered into the cave, dwelling on the highest summit; those who know Brahman call them shade and light, likewise those householders who perform the Triṇāciketa-sacrifice.' Now this text clearly refers to the individual soul which enjoys the reward of its works, together with an associate coupled to it.
 </details>
@@ -430,7 +430,7 @@ To this conclusion a new objection presents itself.--
 > द्वितीयः च प्राणः बुद्धिः वा स्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > And this associate is either the vital breath, or the organ of knowledge (buddhi).
 </details>
@@ -447,7 +447,7 @@ To this conclusion a new objection presents itself.--
 – इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > For the drinking of 'r̥ta' is the enjoyment of the fruit of works, and such enjoyment does not suit the highest Self. The buddhi, or the vital breath, on the other hand, which are instruments of the enjoying embodied soul, may somehow be brought into connexion with the enjoyment of the fruit of works. As the text is thus seen to refer to the embodied soul coupled with some associate, we infer, on the ground of the two texts belonging to one section, that also the 'eater' described in the former text is none other than the individual soul.
 </details>
@@ -464,7 +464,7 @@ To this conclusion a new objection presents itself.--
 तत्रोच्यते –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To this we reply:
 </details>
@@ -480,7 +480,7 @@ To this we reply:
  तद्-दर्शनात् ॥ १-२-११ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 11\. The 'two entered into the cave' are the two Selfs; on account of this being seen.
 </details>
@@ -497,7 +497,7 @@ To this we reply:
 अपि तु जीव-परमात्मानौ हि तथा व्यपदिश्येते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The two, entered into the cave and drinking their reward, are neither the embodied soul together with the vital breath, nor the embodied soul together with the buddhi; it is rather the embodied Self and the highest Self which are designated by those terms.
 </details>
@@ -513,7 +513,7 @@ The two, entered into the cave and drinking their reward, are neither the embodi
 अस्मिन् प्रकरणे जीव-परयोः एव गुहा-प्रवेश-व्यपदेशः दृश्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For this is seen, i.e. it is seen that in that section the individual Self and the highest Self only are spoken of as entered into the cave.
 </details>
@@ -536,7 +536,7 @@ For this is seen, i.e. it is seen that in that section the individual Self and t
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To the highest Self there refers I, 2, 12, 'The wise who by meditation on his Self recognises the Ancient who is difficult to see, who has entered into the dark, who is hidden in the cave, who dwells in the abyss, as God, he indeed leaves joy and sorrow far behind.'
 </details>
@@ -558,7 +558,7 @@ To the highest Self there refers I, 2, 12, 'The wise who by meditation on his Se
 इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And to the individual soul there refers I, 4, 7, 'Who is together with the vital breath, who is Aditi, who is made of the deities, who entering into the cave abides therein, who was born variously through the elements.'
 </details>
@@ -573,7 +573,7 @@ And to the individual soul there refers I, 4, 7, 'Who is together with the vital
 कर्मफलान्य् अत्तीति "अदितिर्" जीव उच्यते ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Aditi here means the individual soul which enjoys (atti) the fruits of its works;
 </details>
@@ -588,7 +588,7 @@ Aditi here means the individual soul which enjoys (atti) the fruits of its works
 प्राणेन सम्भवति – प्राणेन सह वर्तते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 which is associated with the vital breath;
 </details>
@@ -603,7 +603,7 @@ which is associated with the vital breath;
 देवतामयी - इन्द्रियाधीन-भोगा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 which is made of the deities, i.e. whose enjoyment is dependent on the different sense-organs;
 </details>
@@ -618,7 +618,7 @@ which is made of the deities, i.e. whose enjoyment is dependent on the different
 गुहां प्रविश्य तिष्ठन्ती – हृदय-पुण्डरीकोदर-वर्तिनी । +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 which abides in the hollow of the heart;
 </details>
@@ -636,7 +636,7 @@ which abides in the hollow of the heart;
 देवादि-रूपेण विविधा जायते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and which, being connected with the elementary substances, earth, and so on, is born in various forms – human, divine, &c.--
 </details>
@@ -654,7 +654,7 @@ and which, being connected with the elementary substances, earth, and so on, is 
 "छत्रिणो +++(अच्छत्रिणश् च)+++ गच्छन्ति" +इतिवत् प्रतिपत्तव्यः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the text speaks of the two Selfs as drinking their reward (while actually the individual soul only does so) is to be understood in the same way as the phrase 'there go the umbrella-bearers' (one of whom only carries the umbrella).
 </details>
@@ -670,7 +670,7 @@ That the text speaks of the two Selfs as drinking their reward (while actually t
 कर्तृत्वं जीव-परयोर् उपपद्यते ॥ ११ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Or else we may account for this on the ground that both are agents with regard to the drinking, in so far as the 'drinking' individual soul is caused to drink by the highest Self.
 </details>
@@ -687,7 +687,7 @@ Or else we may account for this on the ground that both are agents with regard t
 ४४. +++(प्राप्तृ-प्राप्यत्वे→)+++ विशेषणाच् च ॥ १-२-१२ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 12. And on account of distinctive qualities.
 </details>
@@ -704,7 +704,7 @@ Or else we may account for this on the ground that both are agents with regard t
 सर्वत्र प्रतिपाद्येते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Everywhere in that section we meet with statements of distinctive attributes of the two Selfs, the highest Self being represented as the object of meditation and attainment, and the individual Self as the meditating and attaining subject.
 </details>
@@ -724,7 +724,7 @@ Everywhere in that section we meet with statements of distinctive attributes of 
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The passage 'When he has known and understood that which is born from Brahman, the intelligent, to be divine and venerable, then he obtains everlasting peace' (I, 1, 17) refers to the meditating individual soul which recognises itself as being of the nature of Brahman.
 </details>
@@ -740,7 +740,7 @@ The passage 'When he has known and understood that which is born from Brahman, t
 ब्रह्मणो जातत्वात्, ज्ञत्वाच् च ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Born of Brahman and knowing' refers to the individual soul, because it originates from Brahman and is a knowing subject.
 </details>
@@ -758,7 +758,7 @@ The passage 'When he has known and understood that which is born from Brahman, t
 इत्य् अर्थः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Having known that adorable god' means having understood the meditating soul as having Brahman for its Self.
 </details>
@@ -781,7 +781,7 @@ The passage 'When he has known and understood that which is born from Brahman, t
 इत्य् उपास्यः परमात्म उच्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On the other hand, I, 3, 2, 'That which is a bridge for sacrificers. the highest imperishable Brahman for those who wish to cross over to the fearless shore, the Nāciketa, may we be able to know that,' refers to the highest Self as the object of meditation;
 </details>
@@ -796,7 +796,7 @@ On the other hand, I, 3, 2, 'That which is a bridge for sacrificers. the highest
 नाचिकेतम् – नाचिकेतस्य कर्मणः प्राप्यम् इत्य् अर्थः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Nāciketa' here meaning that which is to be reached through the Nāciketa-rite.
 </details>
@@ -814,7 +814,7 @@ On the other hand, I, 3, 2, 'That which is a bridge for sacrificers. the highest
 इत्यादिनोपासको जीव उच्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Again, the passage 'Know the Self to be sitting in the chariot and the body to be the chariot' (I, 3, 3) refers to the meditating individual soul;
 </details>
@@ -837,7 +837,7 @@ Again, the passage 'Know the Self to be sitting in the chariot and the body to b
 इति प्राप्य-प्राप्तारौ अभिधीयेते जीव-परमात्मानौ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and the verse, I, 3, 9, 'But he who has understanding for his charioteer, and holds the reins of the mind, he reaches the end of his journey, and that is the highest place of Vishṇu.' refers to the embodied and the highest Selfs as that which attains and that which is to be attained.
 </details>
@@ -852,7 +852,7 @@ and the verse, I, 3, 9, 'But he who has understanding for his charioteer, and ho
 इहापि "छायातपौ" (कठ.१.३.१) इत्य् अज्ञत्व-सर्वज्ञत्वाभ्यां ताव् एव विशिष्य व्यपदिश्येते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And in the text under discussion also (I, 3, 1), the two Selfs are distinctly designated as light and shade, the one being all-knowing, the other devoid of knowledge.
 </details>
@@ -881,7 +881,7 @@ And in the text under discussion also (I, 3, 1), the two Selfs are distinctly de
 – इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, a new objection is raised, the initial passage, I, 1, 20, 'That doubt which there is when a man is dead – some saying, he is; others, he is not,' clearly asks a question as to the true nature of the individual soul, and we hence conclude that that soul forms the topic of the whole chapter.
 </details>
@@ -901,7 +901,7 @@ But, a new objection is raised, the initial passage, I, 1, 20, 'That doubt which
 तथा सति पूर्व-वर-द्वय-वरणानुपपत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Not so, we reply. That question does not spring from any doubt as to the existence or non-existence of the soul apart from the body; for if this were so the two first boons chosen by Nāciketas would be unsuitable.
 </details>
@@ -932,7 +932,7 @@ But, a new objection is raised, the initial passage, I, 1, 20, 'That doubt which
 एतच्च सर्वं देहातिरिक्तात्मानम् अजानतो नोपपद्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the story runs as follows: When the sacrifice offered by the father of Nāciketas... Yama on his return... allows him to choose three boons. Nāciketas, thereupon... chooses as his first boon that his father should forgive him. Now it is clear that conduct of this kind would not be possible in the case of one not convinced of the soul having an existence independent of the body.
 </details>
@@ -949,7 +949,7 @@ For the story runs as follows: When the sacrifice offered by the father of Nāci
 तद् अपि देहातिरिक्तात्मानभिज्ञस्य न सम्भवति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For his second boon, again, he chooses the knowledge of a sacrificial fire, which has a result to be experienced only by a soul that has departed from the body; and this choice also can clearly be made only by one who knows that the soul is something different from the body.
 </details>
@@ -973,7 +973,7 @@ For his second boon, again, he chooses the knowledge of a sacrificial fire, whic
 अत्र परम-पुरुषार्थ-रूप-- ब्रह्म-प्राप्ति--लक्षण-मोक्ष-याथात्म्य-विज्ञानाय तदुपाया-भूत-परमात्म-उपासन-परावरात्म-तत्व-जिज्ञासया अयं प्रश्नः क्रियते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When, therefore, he chooses for his third boon the clearing up of his doubt as to the existence of the soul after death (as stated in v. 20), it is evident that his question is prompted by the desire to acquire knowledge of the true nature of the highest Self – which knowledge has the form of meditation on the highest Self--, and by means thereof, knowledge of the true nature of final Release which consists in obtaining the highest Brahman.
 </details>
@@ -990,7 +990,7 @@ When, therefore, he chooses for his third boon the clearing up of his doubt as t
 अपि तु सर्व-बन्ध-विनिर्मोक्षाभिप्रायम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The passage, therefore, is not concerned merely with the problem as to the separation of the soul from the body, but rather with the problem of the Self freeing itself from all bondage whatever.
 </details>
@@ -1005,7 +1005,7 @@ The passage, therefore, is not concerned merely with the problem as to the separ
 यथा - न +++(मोक्षं)+++ प्रेत्य सञ्ज्ञाऽस्ति (बृ.४.४.१२) इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --the same problem, in fact, with which another scriptural passage also is concerned, viz. 'When he has departed there is no more knowledge' (Br̥. Up. II, 4, 12).
 </details>
@@ -1029,7 +1029,7 @@ The passage, therefore, is not concerned merely with the problem as to the separ
 \- इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The full purport of Nāciketas' question, therefore, is as follows: When a man qualified for Release has died and thus freed himself from all bondage, there arises a doubt as to his existence or non-existence – a doubt due to the disagreement of philosophers as to the true nature of Release; in order to clear up this doubt I wish to learn from thee the true nature of the state of Release.
 </details>
@@ -1046,7 +1046,7 @@ The full purport of Nāciketas' question, therefore, is as follows: When a man q
 तथा हि बहुधा विप्रतिपद्यन्ते – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Philosophers, indeed, hold many widely differing opinions as to what constitutes Release.
 </details>
@@ -1061,7 +1061,7 @@ Philosophers, indeed, hold many widely differing opinions as to what constitutes
 १. केचिद् वित्ति-मात्रस्य आत्मनः स्वरूपोच्छित्ति-लक्षणं मोक्षम् आचक्षते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 1. Some hold that the Self is constituted by consciousness only, and that Release consists in the total destruction of this essential nature of the Self.
 </details>
@@ -1076,7 +1076,7 @@ Philosophers, indeed, hold many widely differing opinions as to what constitutes
 २. अन्ये वित्ति-मात्रस्य एव सतो ऽविद्या-ऽस्तमयम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 2. Others, while holding the same opinion as to the nature of the Self, define Release as the passing away of Nescience (avidyā).
 </details>
@@ -1092,7 +1092,7 @@ Philosophers, indeed, hold many widely differing opinions as to what constitutes
 3. अपरे – पाषाणकल्पस्याऽत्मनो ज्ञानाद्य्-अशेष-वैशेषिक-गुणोच्छेद-लक्षणं कैवल्यरूपम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 3. Others hold that the Self is in itself non-sentient, like a stone, but possesses, in the state of bondage, certain distinctive qualities, such as knowledge, and so on. Release then consists in the total removal of all these qualities, the Self remaining in a state of pure isolation (kaivalya).
 </details>
@@ -1111,7 +1111,7 @@ Philosophers, indeed, hold many widely differing opinions as to what constitutes
 तद्-भाव-लक्षणं मोक्षम् आतिष्ठन्ते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 4. Others, again, who acknowledge a highest Self free from all imperfection, maintain that through connexion with limiting adjuncts that Self enters on the condition of an individual soul; Release then means the pure existence of the highest Self, consequent on the passing away of the limiting adjuncts.
 </details>
@@ -1141,7 +1141,7 @@ Philosophers, indeed, hold many widely differing opinions as to what constitutes
 मोक्षम् आचक्षते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 5. Those, however, who understand the Vedānta, teach as follows: There is a highest Brahman which is the sole cause of the entire universe, which is antagonistic to all evil, whose essential nature is infinite knowledge and blessedness, which comprises within itself numberless auspicious qualities of supreme excellence, which is different in nature from all other beings, and which constitutes the inner Self of all. Of this Brahman, the individual souls – whose true nature is unlimited knowledge, and whose only essential attribute is the intuition of the supreme Self – are modes, in so far, namely, as they constitute its body. The true nature of these souls is, however, obscured by Nescience, i.e. the influence of the beginningless chain of works; and by Release then we have to understand that intuition of the highest Self, which is the natural state of the individual souls, and which follows on the destruction of Nescience.
 </details>
@@ -1178,7 +1178,7 @@ Philosophers, indeed, hold many widely differing opinions as to what constitutes
 इति सर्वं समञ्जसम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When Nāciketas desires Yama graciously to teach him the true nature of Release and the means to attain it, Yama at first tests him by dwelling on the difficulty of comprehending Release, and by tempting him with various worldly enjoyments. But having in this way recognised the boy's thorough fitness, he in the end instructs him as to the kind of meditation on the highest Self which constitutes knowledge of the highest Reality, as to the nature of Release – which consists in reaching the abode of the highest Self--, and as to all the required details. This instruction begins, I, 2, 12, 'The Ancient one who is difficult to see,' &c., and extends up to I, 3, 9. 'and that is the highest place of Vishṇu.'--It thus is an established conclusion that the 'eater' is no other than the highest Self.
 </details>
@@ -1193,7 +1193,7 @@ When Nāciketas desires Yama graciously to teach him the true nature of Release 
 अतः परमात्मैव अत्ता इति सिद्धम् ॥ १२ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence it is proved that the 'eater' is the highest Self.
 </details>
