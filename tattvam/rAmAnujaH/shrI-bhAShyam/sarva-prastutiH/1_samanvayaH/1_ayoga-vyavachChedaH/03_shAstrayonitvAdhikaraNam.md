@@ -464,7 +464,8 @@ And if, after all, it does so, it is (not a means of knowledge but) a source of 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतीन्द्रिये वस्तुनि सम्बन्धावधारण-विरहाद् न विशेषतो दृष्टम्।
+> अतीन्द्रिये वस्तुनि सम्बन्धावधारण-विरहाद्  
+न विशेषतो दृष्टम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -483,7 +484,8 @@ Not inference of the former kind, because such inference is not known to relate 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समस्त-वस्तु-साक्षात्कार-तन्-निर्माण-समर्थ-पुरुष-विशेष-नियतं सामान्यतो दृष्टम् अपि न लिङ्गम् उपलभ्यते॥
+> समस्त-वस्तु-साक्षात्कार- -तन्-निर्माण-- समर्थ-पुरुष-विशेष-नियतं  
+सामान्यतो दृष्टम् अपि न लिङ्गम् उपलभ्यते॥
 </details>
 
 <details><summary>Translation</summary>
@@ -500,11 +502,12 @@ Nor inference of the latter kind, because we do not observe any characteristic f
 
 ---
 
-### **Section 5: पूर्वपक्ष्येकदेशिनः आक्षेपः**
+#### अनुमानम्?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु च जगतः कार्यत्वं तद्-उपादानोपकरण-सम्प्रदान-प्रयोजनाभिज्ञ-कर्तृकत्व-व्याप्तम्।
+>> ननु च जगतः कार्यत्वं  
+तद्-उपादानोपकरण-सम्प्रदान- प्रयोजनाभिज्ञ-कर्तृकत्व-व्याप्तम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -526,7 +529,8 @@ But there is such a feature, viz. the world's being an effected thing; it being 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अचेतनारब्धत्वं जगतश् चैक-चेतनाधीनत्वेन व्याप्तम्।
+> > अचेतनारब्धत्वं जगतश् च  
+एक-चेतनाधीनत्वेन व्याप्तम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -548,7 +552,7 @@ It further is matter of experience that whatever consists of non-sentient matter
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वं हि घटादि-कार्यं तद्-उपादानोपकरण-सम्प्रदान-प्रयोजनाभिज्ञ-कर्तृकं दृष्टम्।
+> > सर्वं हि घटादि-कार्यं तद्-उपादानोपकरण-सम्प्रदान-प्रयोजनाभिज्ञ-कर्तृकं दृष्टम्।
 </details>
 
 <details><summary>Translation</summary>
