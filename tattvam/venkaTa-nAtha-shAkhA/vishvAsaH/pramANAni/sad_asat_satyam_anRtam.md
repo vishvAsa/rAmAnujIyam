@@ -3,7 +3,7 @@ title = "सद्, असत्, सत्यम्, अनृतम्"
 +++
 
 ## सृष्टौ
-sat, satyam, asat, tyat, anRtam etc. are words used to refer to these concepts - brahman, created-existence, jIva, achetana, karman. The word-meaning connections (which vary) are clear from the context. For example, in kAraNatvAdhikaraNa of brahma-sUtras asat=brahman, sat=jIva, tyat = achetana.
+sat, satyam, asat, tyat, anRtam, manas, brahman etc. are words used to refer to these concepts - brahman, created-existence, jIva, achetana, karman. The word-meaning connections (which vary) are clear from the context. For example, in kAraNatvAdhikaraNa of brahma-sUtras asat=brahman, sat=jIva, tyat = achetana.
 
 
 ### नासद् आसीत्
@@ -50,12 +50,15 @@ In nAsadAsIt no sadAsIt, they refer to non-sentient and sentient. tamas = sUxmAv
 >> ना᳓सद् आसी᳓न् नो᳓ स᳓द् आसीत् तदा᳓नीम् 
 >
 > इ᳓ति। ने᳙व हि᳓ स᳓न् म᳓नो ने᳙वा᳓सत्॥
-त᳓द् इदं᳓ म᳓नः सृष्ट᳓म् आवि᳓र् अबुभूषत्॥  
-नि᳓रुक्ततरं मूर्त᳓तरं त᳓द् आत्मा᳓नम् अ᳓न्वैच्छत्  
-त᳓त् त᳓पो ऽतप्यत  
 
 अत्र मनः-शब्देन ब्रह्मैवोच्यते,  
 यद् एव "म᳓नसो रे᳓तः प्रथमं᳓ य᳓द् आ᳓सीत्" इति मूलय् उक्तम्। 
+
+> त᳓द् इदं᳓ म᳓नः सृष्ट᳓म् आवि᳓र् अबुभूषत्॥  
+नि᳓रुक्ततरं मूर्त᳓तरं त᳓द् आत्मा᳓नम् अ᳓न्वैच्छत्  
+त᳓त् त᳓पो ऽतप्यत  
+
+brahman formed prajApati, as earlier (or as R-s say - prajApati-sharIraka-brahman).
 
 ### तैत्तिरीये
 > सोऽकामयत - बहु स्यां प्रजायेयेति ।  
