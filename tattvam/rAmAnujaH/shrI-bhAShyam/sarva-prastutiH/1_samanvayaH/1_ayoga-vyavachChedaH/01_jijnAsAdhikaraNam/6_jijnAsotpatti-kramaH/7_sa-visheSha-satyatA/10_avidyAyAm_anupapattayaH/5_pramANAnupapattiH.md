@@ -5506,7 +5506,7 @@ And it is this distinction – viz. of things that are objects of general consci
 </details>
 
 ## न श्रुतिः
-### अनृतं कर्म-विशेषम्
+### अनृतं कर्म-विशेषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् पुनस् "सदसद्-अनिर्वचनीयम् अज्ञानं श्रुति-सिद्धम्" इति;  
@@ -5647,7 +5647,7 @@ The word 'anr̥ta' therefore denotes actions of a different kind, i.e. such as a
 ### सद्, असत् सृष्ट-विषयौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> नासदासीन् नो सदासीत् (यजु.२.अष्टक.८.प्र.९.अनु) 
+> नासद् आसीन् नो सदासीत् (यजु.२.अष्टक.८.प्र.९.अनु) 
 
 इत्य्-अत्रापि सद्--अ-सच्-छब्दौ चिद्-अचिद्-व्यष्टि-विषयौ …
 </details>
