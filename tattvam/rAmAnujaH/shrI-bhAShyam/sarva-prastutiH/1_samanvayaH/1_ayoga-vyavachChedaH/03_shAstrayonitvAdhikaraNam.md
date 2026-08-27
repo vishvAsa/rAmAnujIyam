@@ -88,7 +88,7 @@ for as Brahman may be inferred as the cause of the world through ordinary reason
 ## शास्त्र-योनित्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ३. शास्त्र-योनित्वात् ॥ १-१-३ ॥
+> ३. शास्त्र-योनित्वात् +++(ब्रह्म-ज्ञानस्य)+++ ॥ १-१-३ ॥
 </details>
 
 <details><summary>Translation</summary>
