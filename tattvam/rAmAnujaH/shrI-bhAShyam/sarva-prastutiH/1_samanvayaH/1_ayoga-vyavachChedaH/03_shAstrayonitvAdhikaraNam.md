@@ -178,8 +178,8 @@ Because Brahman, being raised above all contact with the senses, is not an objec
 </details>
 
 ---
-
-## प्रमाणान्तर-वेद्यता?
+## पूर्वपक्षः
+### प्रमाणान्तर-वेद्यता?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -225,7 +225,7 @@ For it is an acknowledged principle that Scripture has meaning only with regard 
 
 ---
 
-## न प्रत्यक्षम्
+### न प्रत्यक्षम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किम् तर्हि तत्र प्रमाणम् ?
@@ -307,7 +307,7 @@ being based either on the sense-organs or on extraordinary concentration of mind
 
 
 ---
-### नेन्द्रियजम्
+#### नेन्द्रियजम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रिय-सम्भवं च बाह्य-सम्भवम्,  
@@ -377,7 +377,7 @@ Nor can internal perception give rise to such knowledge; for only purely interna
 </details>
 
 ---
-### न योगजम्
+#### न योगजम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि योग-जन्यम्;  
@@ -439,7 +439,7 @@ And if, after all, it does so, it is (not a means of knowledge but) a source of 
 
 ---
 
-## नानुमानम्
+### नानुमानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् अनुमानं विशेषतो दृष्टं सामान्यतो दृष्टं वा;
@@ -502,7 +502,7 @@ Nor inference of the latter kind, because we do not observe any characteristic f
 
 ---
 
-## अनुमानम्?
+### अनुमानम्?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -618,8 +618,8 @@ And that the [[body|world]] is an effected thing follows from its consisting of 
 
 ---
 
-## नानुमानम्
-### एक-चेतनाधीनता न
+### नानुमानम्
+#### एक-चेतनाधीनता न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -642,7 +642,7 @@ Against this argumentation also objections may be raised. What, it must be asked
 </details>
 
 ---
-#### एकायत्तोत्पत्ति-स्थितित्वं न 
+##### एकायत्तोत्पत्ति-स्थितित्वं न 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तावत् तद्-आयत्तोत्पत्ति-स्थितित्वम्;
@@ -740,7 +740,7 @@ The existence of animated bodies, moreover, has for its characteristic mark the 
 
 ---
 
-#### तद्-आयत्त-प्रवृत्तित्वं न
+##### तद्-आयत्त-प्रवृत्तित्वं न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्-आयत्त-प्रवृत्तित्वं तद्+++(→एक-चेतन)+++-अधीनत्वम् 
@@ -788,7 +788,7 @@ If, on the other hand, you mean to say that all motion depends on intelligence i
 
 ---
 
-### जगतो जीव-कर्तृत्वे लाघवम्
+#### जगतो जीव-कर्तृत्वे लाघवम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -972,7 +972,7 @@ and in the same way intelligent beings may apply themselves to their work (to be
 
 ---
 
-### कार्यत्वं न चेतन-कार्यत्वम्
+#### कार्यत्वं न चेतन-कार्यत्वम्
 <details><summary>विषयः</summary>
 
 कार्यत्वहेतुकानुमानस्य सोपाधिकता॥
@@ -1049,7 +1049,7 @@ Hence the quality of being an effected thing can be used as an argument for prov
 
 ---
 
-### अल्पज्ञत्व-साधनम्
+#### अल्पज्ञत्व-साधनम्
 <details><summary>विषयः</summary>
 
 कार्यत्वहेतोः अभिमतविशेषविरुद्धत्वम्॥
@@ -1080,7 +1080,7 @@ Experience further teaches that earthen pots and similar things are produced by 
 
 ---
 
-#### न सर्वानुमानोच्छेदः
+##### न सर्वानुमानोच्छेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चैतावता सर्वानुमानोच्छेद-प्रसङ्गः।
@@ -1199,8 +1199,8 @@ The conclusion from all this is that, apart from Scripture, the existence of a L
 
 ---
 
-## अनुमानम्?
-### सावयवत्वात् कार्यत्वम्, शक्य-क्रियत्वम्
+### अनुमानम्?
+#### सावयवत्वात् कार्यत्वम्, शक्य-क्रियत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्राहुः – 
@@ -1335,7 +1335,7 @@ We may state this argument in various technical forms.
 
 ---
 
-#### कार्यत्व-विशेष-नियत-ज्ञान-शक्ती
+##### कार्यत्व-विशेष-नियत-ज्ञान-शक्ती
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सावयवेषु द्रव्येषु इदम् एव क्रियते नेतरद्  
@@ -1473,7 +1473,7 @@ Analogously, when a living body and the world have once been recognised to be ef
 
 ---
 
-### फल-प्रदत्वतः?
+#### फल-प्रदत्वतः?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1525,7 +1525,7 @@ For we do not observe that non-intelligent implements, such as axes and the like
 </details>
 
 ---
-#### बीजाङ्कुरादौ न व्यभिचारः
+##### बीजाङ्कुरादौ न व्यभिचारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बीजाङ्कुरादेः पक्षान्तर्-भावेन +++(हेतुना)+++  
@@ -1573,7 +1573,7 @@ The same remark would apply to pleasure and pain if used as a counter instance. 
 
 ---
 
-### न जीवाः
+#### न जीवाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च लाघवेन  
@@ -1688,7 +1688,7 @@ he is proved at the same time as possessing the essential power of intuitively k
 
 ---
 
-### नाल्पज्ञत्वादि-साधनम्
+#### नाल्पज्ञत्वादि-साधनम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1793,7 +1793,7 @@ The question would arise moreover whether such want of capability and knowledge 
 </details>
 
 ---
-#### क्रियाव्यतिरिक्त-ज्ञानम्
+##### क्रियाव्यतिरिक्त-ज्ञानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तावद् +++(व्यतिरिक्तार्थाज्ञानादिकं)+++ सर्व-विषयम्;  
@@ -1868,7 +1868,7 @@ From this it follows that the absence of lordly power and similar qualities whic
 
 ---
 
-## **Section 14: शरीरस्य कार्योपयोगित्वशङ्कापरिहारौ**
+#### अशरीरत्वेऽपि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1900,7 +1900,10 @@ A further objection will perhaps be raised, viz. that as experience teaches that
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथम् अशरीरस्य पर-प्रवर्तन-रूपस् सङ्कल्प इति चेन् न शरीरापेक्षस् सङ्कल्पः, शरीरस्य सङ्कल्प-हेतुत्वाभावात्।
+> कथम् अशरीरस्य पर-प्रवर्तन-रूपस् सङ्कल्प 
+
+इति चेन् – न शरीरापेक्षस् सङ्कल्पः,  
+शरीरस्य सङ्कल्प-हेतुत्वाभावात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1941,7 +1944,8 @@ The cause of volitions is not the body but the internal organ (manas),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अभ्युपगतम् ईश्वरे ऽपि; कार्यत्वेनैव ज्ञान-शक्ति-वन् मनसो ऽपि प्राप्तत्वात्।
+तद् अभ्युपगतम् ईश्वरे ऽपि;  
+कार्यत्वेनैव ज्ञान-शक्तिवन् मनसो ऽपि प्राप्तत्वात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1963,7 +1967,12 @@ and such an organ we ascribe to the Lord also, since what proves the presence of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मानसस् सङ्कल्पः सशरीरस्यैव, सशरीरस्यैव समनस्कत्वाद् इति चेन् न, मनसो नित्यत्वेन देहापगमे ऽपि मनसस् सद्भावेन अनैकान्त्यात्।
+> मानसस् सङ्कल्पः सशरीरस्यैव,  
+सशरीरस्यैव समनस्कत्वाद् 
+
+इति चेन् न,  
+मनसो नित्यत्वेन  
+देहापगमे ऽपि मनसस् सद्भावेनानैकान्त्यात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1983,9 +1992,14 @@ But volitions, even if directly springing from the internal organ, can belong to
 
 ---
 
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो विचित्रावयव-सन्निवेश-विशेष-तनु-भुवनादि-कार्य-निर्माणे पुण्य-पाप-परवशः परिमित-शक्ति-ज्ञानः क्षेत्रज्ञो न प्रभवतीति निखिल-भुवन-निर्माण-चतुरो ऽचिन्त्यापरिमित-ज्ञान-शक्त्य्-ऐश्वर्यो ऽशरीरः सङ्कल्प-मात्र-साधन-परिनिष्पन्न अनन्त-विस्तार-विचित्र-रचन-प्रपञ्चः पुरुष-विशेष ईश्वरो ऽनुमानेनैव सिद्ध्यति ॥
+अतो विचित्रावयव-सन्निवेश-विशेष-- तनु-भुवनादि-कार्य-निर्माणे  
+पुण्य-पाप-परवशः परिमित-शक्ति-ज्ञानः क्षेत्रज्ञो न प्रभवतीति  
+निखिल-भुवन-निर्माण-चतुरो ऽचिन्त्यापरिमित-ज्ञान-शक्त्य्-ऐश्वर्यो ऽशरीरः  
+सङ्कल्प-मात्र-साधन-परिनिष्पन्न-  -+अनन्त-विस्तार--विचित्र-रचन-प्रपञ्चः पुरुष-विशेष ईश्वरो  
+ऽनुमानेनैव सिद्ध्यति ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -2005,11 +2019,10 @@ The conclusion, therefore, is that – as the individual souls with their limite
 
 ---
 
-### **Section 15: ब्रह्मणि शास्त्राप्रामाण्यनिगमनम्**
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः प्रमाणान्तरावेसेयत्वाद् ब्रह्मणः न एतद् वाक्यं ब्रह्म प्रतिपादयति॥
+अतः प्रमाणान्तरावसेयत्वाद् ब्रह्मणो  
+नैतद् +++(→"जन्माद्य् अस्य यत")+++ वाक्यं ब्रह्म प्रतिपादयति॥
 </details>
 
 <details><summary>Translation</summary>
@@ -2029,9 +2042,13 @@ As Brahman may thus be ascertained by means of knowledge other than revelation, 
 
 ---
 
+#### निमित्तोपादान-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च अत्यन्त-भिन्नयोर् एव मृद्-द्रव्य-कुलालयोर् निमित्तोपादानत्व-दर्शनेन आकाशादेर् निरवयव-द्रव्यस्य कार्यत्वानुपपत्त्या च न एकम् एव ब्रह्म कृत्स्नस्य जगतो निमित्तम् उपादानं च प्रतिपादयितुं शक्नोतीति॥
+किञ्च, अत्यन्त-भिन्नयोर् एव मृद्-द्रव्य-कुलालयोर् निमित्तोपादानत्व-दर्शनेन  
+आकाशादेर् निरवयव-द्रव्यस्य कार्यत्वानुपपत्त्या च  
+नैकम् एव ब्रह्म  
+कृत्स्नस्य जगतो निमित्तम् उपादानं च प्रतिपादयितुं शक्नोतीति॥
 </details>
 
 <details><summary>Translation</summary>
@@ -2051,11 +2068,14 @@ Since, moreover, experience demonstrates that material and instrumental causes a
 
 ---
 
-### **Section 16: सिद्धान्तोपक्रमः, तत्र परमसाध्यप्रतिज्ञा**
+## सिद्धान्तः
+### प्रतिज्ञा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं प्राप्ते ब्रूमः – यथोक्त-लक्षणं ब्रह्म जन्मादि-वाक्यं बोधयत्य् एव।
+एवं प्राप्ते ब्रूमः –  
+यथोक्त-लक्षणं ब्रह्म  
+जन्मादि-वाक्यं बोधयत्य् एव।
 </details>
 
 <details><summary>Translation</summary>
@@ -2097,11 +2117,19 @@ since Scripture alone is a means for the knowledge of Brahman.
 
 ---
 
-### **Section 17: पूर्वपक्षानुभाषणपूर्वकं दूषणम्**
+### नैक-कर्तृकतानुमानम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् उक्तं सावयवत्वादिना कार्यं सर्वं जगत्। कार्यं च तद्-उचित-कर्तृ-विशेष-पूर्वकं दृष्टम् इति निखिल-जगन्-निर्माण-तद्-उपादानोपकरण-वेदन-चतुरः कश्चिद् अनुमेयः – इति।
+यद् उक्तं 
+
+> सावयवत्वादिना कार्यं सर्वं जगत्। कार्यं च तद्-उचित-कर्तृ-विशेष-पूर्वकं दृष्टम् 
+
+इति, 
+
+> निखिल-जगन्-निर्माण- -तद्-उपादानोपकरण-वेदन-चतुरः कश्चिद् अनुमेयः 
+
+– इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -2123,7 +2151,10 @@ That the world is an effected thing because it consists of parts; and that, as a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् अयुक्तम्, महीमहार्णवादीनां कार्यत्वे ऽपि एकदैव एकेनैव निर्मिता इत्य् अत्र प्रमाणाभावात्।
+तद् अयुक्तम्,  
+महीमहार्णवादीनां कार्यत्वे ऽपि  
+एकदैव एकेनैव निर्मिता  
+इत्य् अत्र प्रमाणाभावात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -2138,14 +2169,16 @@ this would be a conclusion altogether unjustified. There is no proof to show tha
 
 <details><summary>श्रुत-प्रकाशिका</summary>
 
-दूषयति तदयुक्तमिति । पक्ष-धर्मता-बलात् [[क्षेत्रद्भवैलक्षण्यं|क्षेत्रज्ञवैलक्षण्यं]] वदता किं विपुल-कार्याणां कर्तृ-कालैक्य-नियमम् अन्तर्भाव्य तद् उच्यते , उत विपुलत्व-मात्रेण , उत अतीन्द्रियोपादानादि-दर्शन-वशात् , अथवा शरीरानपेक्ष-सृष्टि-वशात् इति विकल्पम् अभिप्रेत्य प्रथमं दूषयति महीति । एकदैव एकेन निर्मितत्वाभावम् उपपादियति न चैकस्येत्यादिना ।
+दूषयति तदयुक्तमिति । पक्ष-धर्मता-बलात् क्षेत्रज्ञवैलक्षण्यं वदता किं विपुल-कार्याणां कर्तृ-कालैक्य-नियमम् अन्तर्भाव्य तद् उच्यते , उत विपुलत्व-मात्रेण , उत अतीन्द्रियोपादानादि-दर्शन-वशात् , अथवा शरीरानपेक्ष-सृष्टि-वशात् इति विकल्पम् अभिप्रेत्य प्रथमं दूषयति महीति । एकदैव एकेन निर्मितत्वाभावम् उपपादियति न चैकस्येत्यादिना ।
 </details>
 
 ---
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च एकस्य घटस्य इव सर्वेषाम् एकं कार्यत्वम्, yeन एकदैव एकः कर्ता स्यात्।
+न चैकस्य घटस्येव  
+सर्वेषाम् एकं कार्यत्वम्,  
+येनैकदैवैकः कर्ता स्यात्।+++(4)+++
 </details>
 
 <details><summary>Translation</summary>
@@ -2167,7 +2200,9 @@ Nor can it be pleaded in favour of such a conclusion that all those things have 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथग्-भूतेषु कार्येषु काल-भेद-कर्तृ-भेद-दर्शनेन कर्तृ-कालैक्य-नियमादर्शनात्।
+पृथग्-भूतेषु कार्येषु  
+काल-भेद--कर्तृ-भेद-दर्शनेन  
+कर्तृ-कालैक्य-नियमादर्शनात्।
 </details>
 
 <details><summary>Translation</summary>
