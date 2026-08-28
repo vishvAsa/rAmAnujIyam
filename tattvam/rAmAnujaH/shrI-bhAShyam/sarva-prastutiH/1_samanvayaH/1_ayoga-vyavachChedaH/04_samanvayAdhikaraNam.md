@@ -642,9 +642,8 @@ Against this view the Pūrvapakshin now argues as follows.
 
 
 
-## ध्याननियोगवादिकृतं भेदाभेददूषणम्
-
-### भेदाभेद-विरोधः
+## अभेद-ध्यान-नियोगः?
+### प्रतिज्ञा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रोच्यते –  
@@ -704,7 +703,7 @@ Now, as difference and non-difference are contradictory, and as the view of diff
 भेदाभेदयोः परस्परविरोधात् अनाद्यविद्यामूलतयाऽपि भेदप्रतीत्युपपत्तेरभेद एव परमार्थ इत्युक्तम्।
 </details>
 
-### नोभय-प्रतीतिः
+### न भेदाभेद-प्रतीतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र यद् उक्तं –  
@@ -808,7 +807,7 @@ who in his senses then would maintain that these two-suchness and non-suchness �
 स्व-पर-वचसोर् अपि विरोधाभावः स्यात् ।+++(5)+++
 </details>
 
-### न वस्तु-भेदेन
+### न वस्तु-भेदेन भेदाभेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > कारणात्मना जात्य्-आत्मना चाभेदः,  
@@ -1158,8 +1157,7 @@ In the case under discussion the genus constitutes the mode, and the individual 
 अतो नैक्य-साधकत्वम् इति ॥
 </details>
 
-## लौकिके वस्तुनीव वैदिकेऽपि भेदाभेदयोः विरुद्धता
-
+### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत एव जीवस्यापि ब्रह्मणो भिन्नाभिन्नत्वं न सम्भवति।
@@ -1184,7 +1182,8 @@ For these very reasons the individual soul cannot stand to Brahman in the bhedā
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद् अभेदस्यानन्यथा-सिद्ध-शास्त्र-मूलत्वात् अनाद्य्-अविद्या-मूल एव भेद-प्रत्ययः।
+तस्माद् अभेदस्यानन्यथा-सिद्ध-शास्त्र-मूलत्वात्  
+अनाद्य्-अविद्या-मूल एव भेद-प्रत्ययः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1203,10 +1202,11 @@ And as the view of non-difference is founded on Scripture, we assume that the vi
 </details>
 
 ***
-
+### ब्रह्माज्ञतादि?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नन्व् एवम् ब्रह्मण एवाज्ञत्वं तन्मूलाश् च जन्म-जरा-मरणादयो दोषाः [[प्रादुःष्युः|प्रादुःस्युः]]।
+नन्व् एवम् ब्रह्मण एवाज्ञत्वं  
+तन्मूलाश् च जन्म-जरा-मरणादयो दोषाः प्रादुःस्युः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1228,7 +1228,13 @@ And as the view of non-difference is founded on Scripture, we assume that the vi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततश् च यस् सर्वज्ञस् [[सर्वेवित्|सर्ववित्]] (मुण्ड.१.१.९), एष आत्मा ऽपहतपाप्मा (छा.८.१.५) इत्य् आदीनि शास्त्राणि बाध्येरन्।
+ततश् च 
+
+> यस् सर्वज्ञस् सर्ववित् (मुण्ड.१.१.९),  
+
+> एष आत्मा ऽपहतपाप्मा (छा.८.१.५) 
+
+इत्य् आदीनि शास्त्राणि बाध्येरन्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1243,6 +1249,7 @@ and this would contradict scriptural texts such as 'He who is all-knowing' (Mu. 
 
 ***
 
+### अज्ञानादि मिथ्या
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैवम् – अज्ञानादि-दोषाणाम् अपरमार्थत्वात्।
@@ -1264,10 +1271,13 @@ Not so, we reply. For all those imperfections we consider to be unreal.
 </details>
 
 ***
-
+#### भेदाभेद-पक्षाद् वैलक्षण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भवतस् तूपाधि-ब्रह्म-व्यतिरिक्तं वस्त्व् अन्तरम् [[अनभ्युगच्छतो|अनभ्युपगच्छतो]] ब्रह्मण्य् एवोपाधिसंसर्गस् तत्कृताश् च जीवत्वाज्ञत्वादयो दोषाः परमार्थत एव भवेयुः।
+भवतस् तूपाधि-ब्रह्म-व्यतिरिक्तं वस्त्व् अन्तरम् अनभ्युपगच्छतो  
+ब्रह्मण्य् एवोपाधि-संसर्गस्  
+तत्-कृताश् च जीवत्वाज्ञत्वादयो दोषाः  
+परमार्थत एव भवेयुः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1287,9 +1297,12 @@ On your view on the other hand, which admits nothing but Brahman and its limitin
 
 ***
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि ब्रह्मणि निरवयवे अच्छेद्ये सम्बध्यमाना उपाधयस् तत्-छित्वा भित्वा वा सम्बध्यन्ते।
+न हि ब्रह्मणि निरवयवे ऽच्छेद्ये  
+सम्बध्यमाना उपाधयस्  
+तच् छित्वा भित्वा वा सम्बध्यन्ते।
 </details>
 
 <details><summary>Translation</summary>
@@ -1311,7 +1324,8 @@ For as Brahman is without parts, indivisible, the upādhis cannot divide or spli
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि तु ब्रह्म-स्वरूपे संयुज्य तस्मिन् एव स्व-कार्याणि कुर्वन्ति ॥
+अपि तु ब्रह्म-स्वरूपे संयुज्य  
+तस्मिन् एव स्व-कार्याणि कुर्वन्ति ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1331,11 +1345,13 @@ but necessarily connect themselves with Brahman itself and produce their effects
 
 ***
 
-### ब्रह्मणः उपहितानुपहितांशभेदेन सदोषत्वनिर्दोषत्वोपपादनम्
+##### अनुपहितांशेऽदोषः?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि मन्वीत – उपाध्य्-उपहितं ब्रह्म जीवः।
+यदि मन्वीत – 
+
+> उपाध्य्-उपहितं ब्रह्म जीवः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1357,7 +1373,7 @@ Here the following explanation may possibly be attempted. Brahman determined by 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स चाणु-परिमाणः।
+> स चाणु-परिमाणः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1374,7 +1390,7 @@ This soul is of atomic size
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अणुत्वं चावच्छेदकस्य मनसो ऽणुत्वात्।
+> अणुत्वं चावच्छेदकस्य मनसो ऽणुत्वात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1391,7 +1407,7 @@ since what determines it, viz. the internal organ, is itself of atomic size;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स चावच्छेदो ऽनादिः
+> स चावच्छेदो ऽनादिः
 </details>
 
 <details><summary>Translation</summary>
@@ -1413,7 +1429,10 @@ and the limitation itself is without beginning.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवम् उपाध्य्-उपहिते ऽंशे सम्बध्यमाना दोषाः अनुपहिते परे ब्रह्मणि न सम्बध्यन्त – इति।
+> एवम् उपाध्य्-उपहिते ऽंशे सम्बध्यमाना दोषाः  
+अनुपहिते परे ब्रह्मणि न सम्बध्यन्त 
+
+– इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1428,9 +1447,12 @@ All the imperfections therefore connect themselves only with that special place 
 
 ***
 
+##### जीव-ब्रह्मोपाधि-सम्बन्ध-भेदाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अयं प्रष्टव्यः किम् उपाधिना छिन्नो ब्रह्म-खण्डो ऽणुरूपो जीवः?
+अयं प्रष्टव्यः 
+
+> किम् उपाधिना छिन्नो ब्रह्म-खण्डो ऽणुरूपो जीवः?
 </details>
 
 <details><summary>Translation</summary>
@@ -1452,7 +1474,7 @@ In reply to this we ask – Do you mean to say that what constitutes the atomic 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उताच्छिन्न एवाणुरूपोपाधिसंयुक्तो ब्रह्म-प्रदेश-विशेषः?
+> उताच्छिन्न एवाणुरूपोपाधि-संयुक्तो ब्रह्म-प्रदेश-विशेषः?
 </details>
 
 <details><summary>Translation</summary>
@@ -1469,7 +1491,7 @@ or some particular part of Brahman which, without being thereby divided off, is 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उतोपाधिसंयुक्तं ब्रह्म-स्वरूपम्?।
+> उतोपाधिसंयुक्तं ब्रह्म-स्वरूपम्?।
 </details>
 
 <details><summary>Translation</summary>
@@ -1486,7 +1508,7 @@ or Brahman in its totality as connected with an upādhi;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथोपाधिसंयुक्तं चेतनान्तरम्?।
+> अथोपाधिसंयुक्तं चेतनान्तरम् +++(जीवः)+++?।
 </details>
 
 <details><summary>Translation</summary>
@@ -1503,7 +1525,9 @@ or some other intelligent being connected with an upādhi,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथोपाधिरेव? इति।
+> अथोपाधिर् एव +++(जीवः)+++?  
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1517,7 +1541,7 @@ or finally the upādhi itself?--
 </details>
 
 ***
-
+###### ब्रह्म-च्छेदो न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अच्छेद्यत्वाद् ब्रह्मणः प्रथमः कल्पो न कल्पते।
@@ -1542,7 +1566,7 @@ The first alternative is not possible, because Brahman cannot be divided;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आदिमत्त्वं च जीवस्य स्यात्।
++++(शास्त्र-प्रतिषिद्धम्)+++ आदिमत्त्वं च जीवस्य स्यात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1584,9 +1608,12 @@ for division means the making of one thing into two.--
 
 ***
 
+###### प्रदेश-सम्बन्धे दोषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वितीये तु कल्पे ब्रह्मण एव प्रदेश-विशेषे उपाधि-सम्बन्धाद् औपाधिकास् सर्वे दोषास् तस्यैव स्युः।
+द्वितीये तु कल्पे  
+ब्रह्मण एव प्रदेश-विशेषे उपाधि-सम्बन्धाद्  
+औपाधिकास् सर्वे दोषास् तस्यैव स्युः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1608,7 +1635,10 @@ On the second alternative it would follow that, as a part of Brahman would be co
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपाधौ गच्छत्य् उपाधिना स्व-संयुक्त-ब्रह्म-प्रदेशाकर्षणायोगाद् अनुक्षणम् उपाधि-संयुक्त-ब्रह्म-प्रदेश-भेदात् क्षणे-क्षणे बन्ध-मोक्षौ च स्याताम्।
+उपाधौ गच्छत्य्  
+उपाधिना स्व-संयुक्त-ब्रह्म-प्रदेशाकर्षणायोगाद्  
+अनुक्षणम् उपाधि-संयुक्त-ब्रह्म-प्रदेश-भेदात्  
+क्षणे-क्षणे बन्ध-मोक्षौ च स्याताम्।+++(4)+++
 </details>
 
 <details><summary>Translation</summary>
@@ -1630,7 +1660,8 @@ And further, if the upādhi would not possess the power of attracting to itself 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आकर्षणे चाच्छिन्नत्वात् कृत्स्नस्य ब्रह्मणः आकर्षणं स्यात्।
++++(उपाधिना ब्रह्मांशस्य)+++ आकर्षणे च  
+अच्छिन्नत्वात् कृत्स्नस्य ब्रह्मणः आकर्षणं स्यात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1652,7 +1683,8 @@ If, on the contrary, the upādhi possessed the power of attraction, the whole Br
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निरंशस्य व्यापिनः आकर्षणं न सम्भवतीति चेत् तर्हि उपाधिर् एव गच्छतीति पूर्वोक्त एव दोषः स्यात्।
+"निरंशस्य व्यापिनः आकर्षणं न सम्भवती"ति चेत्  
+तर्हि उपाधिर् एव गच्छतीति पूर्वोक्त एव +++("क्षणे क्षणे बन्धमोक्षाव्" इति)+++ दोषः स्यात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1674,7 +1706,9 @@ And should it be said that what is all-pervading and without parts cannot be att
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अच्छिन्न-ब्रह्म-प्रदेशेषु सर्वोपाधिसंसर्गे सर्वेषां च जीवानां ब्रह्मण एव प्रदेशत्वेनैकत्वेन प्रतिसन्धानं न स्यात्।
+अच्छिन्न-ब्रह्म-प्रदेशेषु सर्वोपाधि-संसर्गे  
+सर्वेषां च जीवानां ब्रह्मण एव प्रदेशत्वेन  
+एकत्वेन प्रतिसन्धानं न स्यात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1696,7 +1730,9 @@ Moreover, if all the upādhis were connected with the parts of Brahman viewed as
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रदेश-भेदाद् अप्रतिसन्धाने चैकस्यापि स्वोपाधौ गच्छति प्रतिसन्धानं न स्यात्।
+प्रदेश-भेदाद् +++("अहम् ब्रह्मे"ति)+++ अप्रतिसन्धाने च +++(उक्त-दोष-परिहारे कल्पिते)+++  
+एकस्यापि स्वोपाधौ गच्छति  
++++("अहं ब्रह्मणोऽयम् प्रदेश" इति)+++ प्रतिसन्धानं न स्यात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1716,9 +1752,12 @@ And should it be said that they are not thus cognised as one because they are co
 
 ***
 
+###### सोपाधिक-ब्रह्म-स्वरूपे दोषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तृतीये तु कल्पे ब्रह्म-स्वरूपस्यैवोपाधिसम्बन्धेन जीवत्वापातात् तद्-अतिरिक्तानुपहित-ब्रह्मासिद्धिः स्यात्।
+तृतीये तु कल्पे  
+ब्रह्म-स्वरूपस्यैवोपाधिसम्बन्धेन जीवत्वापातात्  
+तद्-अतिरिक्तानुपहित-ब्रह्मासिद्धिः स्यात्। +++(4)+++
 </details>
 
 <details><summary>Translation</summary>
@@ -1740,7 +1779,8 @@ On the third alternative (the whole of) Brahman itself being connected with the 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वेषु च देहेष्व् एक एव जीवः स्यात्।
+सर्वेषु च देहेष्व्  
+एक एव जीवः स्यात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1760,9 +1800,12 @@ And, moreover, the soul in all bodies will then be one only.--
 
 ***
 
+###### जीव-भेदे ऽपसिद्धान्तः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तुरीये तु कल्पे ब्रह्मणो ऽन्य एव जीव इति जीव-भेदस्यौपाधिकत्वं परित्यक्तं स्यात्।
+तुरीये तु कल्पे  
+ब्रह्मणो ऽन्य एव जीव इति  
+जीव-भेदस्यौपाधिकत्वं परित्यक्तं स्यात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1781,7 +1824,7 @@ On the fourth alternative the individual soul is something altogether different 
 </details>
 
 ***
-
+###### उपाधि-जीवत्वं न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चरमे चार्वाक-पक्ष एव परिगृहीतः स्यात् ॥
@@ -1804,11 +1847,12 @@ And the fifth alternative means the embracing of the view of the Cārvāka (who 
 
 ***
 
-### भेदाभेददूषणोपसंहारः
+### निगमनम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद् अभेद-शास्त्र-बलेन कृत्स्नस्य भेदस्याविद्यामूलत्वम् एवाभ्युपगन्तव्यम्।
+तस्माद् अभेद-शास्त्र-बलेन  
+कृत्स्नस्य भेदस्याविद्यामूलत्वम् एवाभ्युपगन्तव्यम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -1830,7 +1874,11 @@ The conclusion from all this is that on the strength of the texts declaring non-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः प्रवृत्ति-निवृत्ति-प्रयोजन-परतयैव शास्त्रस्य प्रामाण्ये ऽपि ध्यान-विधिशेषतया वेदान्त-वाक्यानां ब्रह्म-स्वरूपे प्रामाण्यम् उपपन्नम् – इति॥
+अतः प्रवृत्ति-निवृत्ति-प्रयोजन-परतयैव शास्त्रस्य प्रामाण्ये ऽपि  
+ध्यान-विधिशेषतया वेदान्त-वाक्यानां  
+ब्रह्म-स्वरूपे प्रामाण्यम् उपपन्नम् 
+
+– इति॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1850,7 +1898,7 @@ Hence, Scripture being an authoritative instrument of knowledge in so far only a
 
 ***
 
-### मीमांसककृतं ध्याननियोगवादिदूषणम्
+## मीमांसककृतं ध्याननियोगवादिदूषणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
