@@ -59,5 +59,5 @@ while हरि refers to a particular embodiment of the same.
 
 Cf mAdhva handling resorting to word order mutation - [TW](https://www.youtube.com/watch?v=MYKZaQ-FoZI)
 
-## nArAyaNopaniShat, nArAyaNa-sUkta
-See [TW](https://youtu.be/5G9xoEXMMFg)
+## nArAyaNopaniShat, nArAyaNa-sUkta, ghRta/AsyuShya-sUktam 
+shankara-agreement too - [TW](/conversations/YT/shAnkaras/2026-04-25_shankara_on_viShNu_Aditya)
