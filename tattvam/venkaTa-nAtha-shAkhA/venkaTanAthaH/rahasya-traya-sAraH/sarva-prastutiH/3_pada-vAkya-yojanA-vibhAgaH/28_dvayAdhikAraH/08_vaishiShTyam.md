@@ -60,6 +60,13 @@ y **sin deseo alguno** de otros fines,
 तन्मनाः – प्राप्यऩाऩ अवऩिडत्तिले न्यस्तमाऩ मऩस्सै युडैयवऩ्, शान्तः – प्रयोजनान्तराभिसन्धिरहितः, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
