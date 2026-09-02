@@ -5,4 +5,8 @@ title = "+मुनि-त्रय-शाखा"
 
 munitraya = all the svayamAchAryas in the Desika tradition who had not yet affiliated with either of the two existent maThas (अहोबिल-परकालौ).
 
-parakala matha tradition mostly goes along with munitraya only.. even in srijayanti nirnaya
+parakala matha tradition mostly goes along with munitraya only.. even in srijayanti nirnaya.
+
+
+## स्वयमाचार्य-सङ्ग्रहणम्
+> There were a lot of grihasta acharya paramparas until some 250 years ago when Andavan Ashramam got established and most of the grihasta families who were unable to maintain acharya-adhikara migrated to the organisation - largely due to common purvacharya tree. - vijay
