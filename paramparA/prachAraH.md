@@ -31,6 +31,13 @@ Examples -
 > "lets make a new gopura/ necklace/ crown for that famous deity".  
 "agh - how to keep the dravidoids and rival degens from taking over and spoiling things?"
 
+## स्वयमाचार्य-क्षयः
+More pronounced in vaDakalai tradition.  
+An ignoramus Tk can be a svayamAchArya just by knowing samAshrayaNa prayoga.  
+Vks had higher ritual + knowledge expectations - those that couldnt keep up got subsumed into maThas
+
+> As late as 1700s, grhasthas had max sishyas among vadakalais. In fact, vadakalais were more grhastha oriented as a great number of them got samashrayana done within the family. Only in the last 3 centuries or so - due to most of the families losing their high levels of orthodoxy, have the vadakalais started accepting various yati mathas as acharya peetha. The higher insistence on orthopraxy could be called as one of the main reasons rather than any smarta effect - RL
+
 ## सहवासः
 ### kurnool
 Source: [TW](https://maps.app.goo.gl/M5J7oau8GnVEh2uW9)  
