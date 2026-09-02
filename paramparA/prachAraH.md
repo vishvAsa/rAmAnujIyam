@@ -5,28 +5,34 @@ title = "प्रचारः"
 
 ## काल-क्षेपः
 ### Presentations
-Video: who is a (learned) shrIvaiShNava? pancha-saMskAra initiation, 4 book kAlakShepa, upanyAsa, fakes  
-
-Source: [TW](https://youtu.be/782Kgtp3yA4)
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-00:00 - Intro
-01:00 - shAnkaran lectures, followers of fraudster chakkilam venkatesh
-03:00 - nadurI shrInivAs - shAnkara, not shrIvaiShNava
-05:00 - ekkirala kRhShNamAchArya - not shrIvaiShNava
-05:20 - Yogi Master CVV - not shrIvaiShNava
-07:00 - Prahlad Iyengar - MIT palestine activist - not shrIvaiShNava
-07:45 - Mohammed Salim Jain - not a Jain
-08:15 - Enquiry into Nanduri Srinivas
-09:30 - Bellamkonda Ramaraya - not shrIvaiShNava
-10:30 - Ekkirala BharadvAja - not shrIvaiShNava
-11:00 - Ekkirala vedavyAsa - may not be a shrIvaiShNava
-12:00 - pancha-saMskAra initiation - https://www.youtube.com/watch?v=yyiqAAyhWYo&t=7s
-17:40 - 4 book kAlakShepa 
-21:00 - kAlakShepa vs upanyAsa
-23:00 - Conclusion, proper shrIvaiShNavas.
-</details>
+See: [TW](/conversations/YT/ramAnujIyam/paramparA)
 
 ## यात्राः
 Usually there is an organizer for the Matha. Same organizer also facilitates for any accompanying shishyas. Technically it is two separate trips that are independently organized to co-occur. Advertized in Nrisimha Priya magazine in case of ahobila maTha.
+
+## Enthusiasm lack
+We observe SVs' joSh being lower than that of GVs or ISKCON people. Why?
+
+A charitable opinion -
+
+High standards required of the core; which is under severe attack from modernity - so almost all resources focused there.  
+
+Besides that old temple distractions. 
+
+### AchAra & funds
+
+> SV grhasthas and some yatis used to do lots of prachara in the past. Nowadays, the proper vaidika grhasthas are not finding it conducive to do pracara as in the past. Not easy to find proper wells, ponds etc for anushtanam. TTs stopped sancaram due to lack of funds (after varadan temple takeover and also due to availability of wells etc). AM stopped sancharam after UP govt tried to take over matham. Essentially we have gone into a turtle shell. Have to come out of it. - ravilochanaH
+
+### Temple distractions
+SV-s inherited many old temples + associated temple centric culture. (not as bad as vaikhAnasas though)
+
+Examples -
+
+> "lets make a new gopura/ necklace/ crown for that famous deity".  
+"agh - how to keep the dravidoids and rival degens from taking over and spoiling things?"
+
+## सहवासः
+### kurnool
+Source: [TW](https://maps.app.goo.gl/M5J7oau8GnVEh2uW9)  
+
+> They have a patron, they built a small town for their kind surrounding a temple. Was good. 75% of houses occupied. - सुन्दरमालोलः
