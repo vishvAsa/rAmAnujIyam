@@ -1,5 +1,6 @@
 +++
-title = "+NamperumAL site"
+title = "+लक्ष्मीपुर-श्रीनिवास-सङ्ग्रहः"
+unicode_script = "devanagari"
 +++
 श्री: 
 श्रीमते रामानुजाय नम: 
