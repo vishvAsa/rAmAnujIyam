@@ -8,8 +8,10 @@ js_extras = ["leaflet"]
 <script>
 const map = L.map('map').setView([0, 0], 2);
 
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
+// Use Esri World Street Map for dense, clear city and geographic labels at all zoom levels
+L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+    maxZoom: 17,
+    attribution: 'sundara-mAlola'
 }).addTo(map);
 
 const kmz = L.kmzLayer().addTo(map);
