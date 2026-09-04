@@ -1,11 +1,9 @@
 +++
 title = "Yati birth death locii"
+js_extras = ["leaflet"]
 +++
 
 <div id="map" style="height: 500px; width: 100%;"></div>
-
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet-kmz/dist/leaflet-kmz.js"></script>
 
 <script>
     const map = L.map('map').setView([0, 0], 2);
@@ -15,7 +13,7 @@ title = "Yati birth death locii"
     }).addTo(map);
 
     const kmz = L.kmzLayer();
-    kmz.load('yati-birth-death-locii.kmz');
+    kmz.load('../yati-birth-death-locii.kmz');
     kmz.addTo(map);
 
     kmz.on('load', function() {
