@@ -5,7 +5,6 @@ js_extras = ["leaflet"]
 
 <div id="map" style="height: 500px; width: 100%;"></div>
 
-
 <script>
     const map = L.map('map').setView([0, 0], 2);
 
