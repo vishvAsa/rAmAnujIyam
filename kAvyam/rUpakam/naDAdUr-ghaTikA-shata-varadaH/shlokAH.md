@@ -15,7 +15,7 @@ Indexextra = "(Scans 1, 2)"
 "Latest update" = "December 25, 2022"
 "Send corrections to" = "Sanskrit@cheerful.com"
 "Site access" = "http://sanskritdocuments.org"
-title = "यतिराजविजयश्लोकाः (घटिकाशतवात्स्यवरदगुरुभिरनुगृइहीताः)"
+title = "श्लोकाः"
 
 +++
   
