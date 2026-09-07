@@ -1,546 +1,9 @@
 +++
 title = "यति-राज-विजय-नाटकम्"
 +++
-<details><summary>AI Prompt</summary>
+TODO: परिष्कार्यम्
 
-PROMPT 0:  
-You are an expert Sanskrit proofreader and formatter. Your task is to process raw Sanskrit text and convert it into perfectly formatted and linguistically correct Markdown.  
-
-Where the text provided has blocks with summary starting with मूलम्, for example `<details><summary>मूलम्</summary> ...</details>`, you should not alter text within those; but process the rest. Otherwise, fix the entire text provided.
-
-
-Your entire output must be a single Markdown code block.
-
----
-
-### **Part 1: Definitions and Core Principles**
-
-#### **1. Word or Stem Boundary**
-
-A word or stem boundary is the point where two words or stems are joined (possibly but not always involving sandhi) without a space or hyphen. It is the character sequence spanning the end of the first word and the beginning of the second.
-
-#### **2. The Separation Principle**
-
-The core of your task is to identify "separable" boundaries and insert the correct separator (a space or a hyphen).
-
-The **cardinal rule** is: **Do not revert the sandhi.** You are splitting the *result* of the sandhi, not undoing it.
-
-#### **3. The Rule of Precedence: Non-Separability is Absolute**
-
-This is the most critical section. The rules for non-separation **always take precedence** over rules for separation.
-
-*   **If a boundary is identified as non-separable, you MUST NOT split it for any reason, even if the words form a compound (`samāsa`).** This is a veto rule.
-
-#### **4. Boundary Types and Examples**
-
-**A. Non-Separable Boundaries: These MUST NOT be split.**
-
-*   **Vowel Lengthening (dīrgha sandhi):** When two vowels merge into a single long vowel (`आ`, `ई`, `ऊ`, `ॠ`).
-    *   `दया + आर्द्र → दयार्द्र`. The boundary `या` is non-separable.
-    *   `अपि + इच्छा → अपीच्छा`. The boundary `पी` is non-separable.
-    *   **Crucial Compound Example:** `धर्म + अर्थ → धर्मार्थ`. This is a `dīrgha sandhi` within a compound. Because the non-separation rule is absolute, this **must remain `धर्मार्थ`**, not be split into `धर्म-अर्थ`.
-    *   **Error Case Study:** The input `स्वप्रकाशाद्वितीय` (from `स्वप्रकाश + अद्वितीय`) must remain `स्वप्रकाशाद्वितीय` because it is a `dīrgha sandhi`. It is incorrect to split it as `स्वप्रकाश-अद्वितीय`.
-
-*   **Vowel Combination (guṇa/vṛddhi sandhi):** When two vowels merge into a new, single vowel (`ए`, `ओ`, `ऐ`, `औ`).
-    *   `महा + उत्सव → महोत्सव`. The boundary `हो` is non-separable.
-    *   `राम + इति → रामेति`. The boundary `मे` is non-separable.
-    *   `सदा + एव → सदैव`. The boundary `दै` is non-separable.
-
-**B. Separable Boundaries: These MUST be split if not vetoed by a non-separable rule.**
-
-*   **Vowel to Semivowel (yaṇ sandhi):** The transformed semivowel (`य्` or `व्`) stays with the first word.
-    *   `इति + एवम् → इत्येवम्` must be split as `इत्य् एवम्`. (The `इ` became `य्`; the `य्` is kept).
-    *   `मधु + अरिः → मध्वरिः` must be split as `मध्व्-अरिः`.
-
-*   **Visarga (`ः`) Sandhi:**
-    *   `visarga` to `ो`: `रामः + अस्ति → रामोऽस्ति`. Split as `रामो ऽस्ति`. (The avagraha `ऽ` is part of the boundary).
-    *   `visarga` to `र्`: `दुः + प्रकृतेः + अस्य → दुष्प्रकृतेरस्य`. Split as `दुष्प्रकृतेर् अस्य`.
-    *   `visarga` to `स्/श्/ष्`: `नमः + ते → नमस्ते`. Split as `नमस् ते`.
-
-*   **Final `म्`:** A final `म्` before a vowel is separated by a space.
-    *   `फलम् + अश्नुते → फलमश्नुते`. Split as `फलम् अश्नुते`.
-    *   `अर्थम् + इति  → अर्थमिति`. Split as `अर्थम् इति`.
-
-*   **Consonant Assimilation:**
-    *   `तत् + हि → तद्धि`. Split as `तद् धि`.
-
-### **Part 2: The Rigorous Processing Workflow**
-
-Follow these steps in strict order. **This is not a set of guidelines; it is an algorithm.**
-
-**Step 1: Text Cleanup and Normalization**
-*   Remove hard-wrapped line breaks to create continuous paragraphs.
-*   Correct obvious typographical errors (e.g., a space in the middle of a word).
-*   Preserve intentional styles like **bold** and *italic*.
-*   Identify Sanskrit text and its script (eg. kannaDa), wrap it in `<santext script=SCRIPT_NAME>` tags, and transliterate to devanāgarī for internal processing.
-
-**Step 2: The Core Separation Algorithm**
-For each text wrapped in `<santext>` tags, iterate through every potential word boundary and apply the following logic:
-
-1.  **First Check (The Veto):** Examine the boundary. Is it a **non-separable** `dīrgha`, `guṇa`, or `vṛddhi` sandhi?
-    *   If **YES**, the Rule of Precedence applies. **Do nothing.** Do not split it. Move to the next boundary.
-2.  **Second Check (Separation):** If the boundary passed the first check (i.e., it is not a non-separable vowel merger), now determine if it is one of the **separable** types defined in Part 1, Section 4.B.
-    *   If **NO**, do nothing and move on.
-3.  **Apply Separation:** If the boundary has been confirmed as separable, insert the correct separator:
-    *   Use a **hyphen (`-`)** if the words form a compound (`samāsa`). Example: `पुण्य-पापैः`.
-    *   Use a **space (` `)** for all other separable cases. Example: `इत्य् एवम्`.
-
-After processing all boundaries, transliterate the `<santext>` contents back to the original script (e.g., kannaDa).
-
-**Step 3: Source Error Handling**
-*   **This step is distinct from sandhi separation.** It concerns fixing clear spelling or grammatical errors in the *source words themselves*.
-*   If you find such an error, suggest a correction inline using the format `[[OLD|NEW]]`. Example: `[[prarabvaṁ|prārabdhaṁ]]`.
-
-**Step 4: Final Markdown Formatting**
-*   Remove the `<santext>` tags.
-*   **Quotes & Mantras:** Enclose short quotes (under 5 words) in `"` and format longer quotes or mantras as blockquotes (`>`).
-*   **Structure:** End verse lines with two spaces for a soft break. Separate paragraphs with a blank line.
-*   **Page Numbers:** Format page numbers (e.g., `६४`) as `[[P64]]` at the precise point of the page break. This can be within a paragraph which continues to the next page.
-*   **Footnotes:** Format footnotes (e.g., `*`) using Markdown's footnote syntax (`[^1]`). Place the definition at the end. Make the footnote definitions appear next to the paragraph containing the corresponding footnote reference. Ensure that footnote references are unique, reflecting the number used in the source whenever possible. For example if footnote named 1 appears in page 12, make the reference 12_1.
-*   If the input contains `<details><summary>मूलम्</summary>...</details>`, preserve this structure as-is and only process the text around it; but not within it.
-
-Are you ready?
-</details>
-
-<details><summary>AI Response Headers</summary>
-
-[]
-</details>
-
-<details><summary>AI Prompt</summary>
-
-PROMPT 0:  
-You are an expert Sanskrit proofreader and formatter. Your task is to process raw Sanskrit text and convert it into perfectly formatted and linguistically correct Markdown.  
-
-Where the text provided has blocks with summary starting with मूलम्, for example `<details><summary>मूलम्</summary> ...</details>`, you should not alter text within those; but process the rest. Otherwise, fix the entire text provided.
-
-
-Your entire output must be a single Markdown code block.
-
----
-
-### **Part 1: Definitions and Core Principles**
-
-#### **1. Word or Stem Boundary**
-
-A word or stem boundary is the point where two words or stems are joined (possibly but not always involving sandhi) without a space or hyphen. It is the character sequence spanning the end of the first word and the beginning of the second.
-
-#### **2. The Separation Principle**
-
-The core of your task is to identify "separable" boundaries and insert the correct separator (a space or a hyphen).
-
-The **cardinal rule** is: **Do not revert the sandhi.** You are splitting the *result* of the sandhi, not undoing it.
-
-#### **3. The Rule of Precedence: Non-Separability is Absolute**
-
-This is the most critical section. The rules for non-separation **always take precedence** over rules for separation.
-
-*   **If a boundary is identified as non-separable, you MUST NOT split it for any reason, even if the words form a compound (`samāsa`).** This is a veto rule.
-
-#### **4. Boundary Types and Examples**
-
-**A. Non-Separable Boundaries: These MUST NOT be split.**
-
-*   **Vowel Lengthening (dīrgha sandhi):** When two vowels merge into a single long vowel (`आ`, `ई`, `ऊ`, `ॠ`).
-    *   `दया + आर्द्र → दयार्द्र`. The boundary `या` is non-separable.
-    *   `अपि + इच्छा → अपीच्छा`. The boundary `पी` is non-separable.
-    *   **Crucial Compound Example:** `धर्म + अर्थ → धर्मार्थ`. This is a `dīrgha sandhi` within a compound. Because the non-separation rule is absolute, this **must remain `धर्मार्थ`**, not be split into `धर्म-अर्थ`.
-    *   **Error Case Study:** The input `स्वप्रकाशाद्वितीय` (from `स्वप्रकाश + अद्वितीय`) must remain `स्वप्रकाशाद्वितीय` because it is a `dīrgha sandhi`. It is incorrect to split it as `स्वप्रकाश-अद्वितीय`.
-
-*   **Vowel Combination (guṇa/vṛddhi sandhi):** When two vowels merge into a new, single vowel (`ए`, `ओ`, `ऐ`, `औ`).
-    *   `महा + उत्सव → महोत्सव`. The boundary `हो` is non-separable.
-    *   `राम + इति → रामेति`. The boundary `मे` is non-separable.
-    *   `सदा + एव → सदैव`. The boundary `दै` is non-separable.
-
-**B. Separable Boundaries: These MUST be split if not vetoed by a non-separable rule.**
-
-*   **Vowel to Semivowel (yaṇ sandhi):** The transformed semivowel (`य्` or `व्`) stays with the first word.
-    *   `इति + एवम् → इत्येवम्` must be split as `इत्य् एवम्`. (The `इ` became `य्`; the `य्` is kept).
-    *   `मधु + अरिः → मध्वरिः` must be split as `मध्व्-अरिः`.
-
-*   **Visarga (`ः`) Sandhi:**
-    *   `visarga` to `ो`: `रामः + अस्ति → रामोऽस्ति`. Split as `रामो ऽस्ति`. (The avagraha `ऽ` is part of the boundary).
-    *   `visarga` to `र्`: `दुः + प्रकृतेः + अस्य → दुष्प्रकृतेरस्य`. Split as `दुष्प्रकृतेर् अस्य`.
-    *   `visarga` to `स्/श्/ष्`: `नमः + ते → नमस्ते`. Split as `नमस् ते`.
-
-*   **Final `म्`:** A final `म्` before a vowel is separated by a space.
-    *   `फलम् + अश्नुते → फलमश्नुते`. Split as `फलम् अश्नुते`.
-    *   `अर्थम् + इति  → अर्थमिति`. Split as `अर्थम् इति`.
-
-*   **Consonant Assimilation:**
-    *   `तत् + हि → तद्धि`. Split as `तद् धि`.
-
-### **Part 2: The Rigorous Processing Workflow**
-
-Follow these steps in strict order. **This is not a set of guidelines; it is an algorithm.**
-
-**Step 1: Text Cleanup and Normalization**
-*   Remove hard-wrapped line breaks to create continuous paragraphs.
-*   Correct obvious typographical errors (e.g., a space in the middle of a word).
-*   Preserve intentional styles like **bold** and *italic*.
-*   Identify Sanskrit text and its script (eg. kannaDa), wrap it in `<santext script=SCRIPT_NAME>` tags, and transliterate to devanāgarī for internal processing.
-
-**Step 2: The Core Separation Algorithm**
-For each text wrapped in `<santext>` tags, iterate through every potential word boundary and apply the following logic:
-
-1.  **First Check (The Veto):** Examine the boundary. Is it a **non-separable** `dīrgha`, `guṇa`, or `vṛddhi` sandhi?
-    *   If **YES**, the Rule of Precedence applies. **Do nothing.** Do not split it. Move to the next boundary.
-2.  **Second Check (Separation):** If the boundary passed the first check (i.e., it is not a non-separable vowel merger), now determine if it is one of the **separable** types defined in Part 1, Section 4.B.
-    *   If **NO**, do nothing and move on.
-3.  **Apply Separation:** If the boundary has been confirmed as separable, insert the correct separator:
-    *   Use a **hyphen (`-`)** if the words form a compound (`samāsa`). Example: `पुण्य-पापैः`.
-    *   Use a **space (` `)** for all other separable cases. Example: `इत्य् एवम्`.
-
-After processing all boundaries, transliterate the `<santext>` contents back to the original script (e.g., kannaDa).
-
-**Step 3: Source Error Handling**
-*   **This step is distinct from sandhi separation.** It concerns fixing clear spelling or grammatical errors in the *source words themselves*.
-*   If you find such an error, suggest a correction inline using the format `[[OLD|NEW]]`. Example: `[[prarabvaṁ|prārabdhaṁ]]`.
-
-**Step 4: Final Markdown Formatting**
-*   Remove the `<santext>` tags.
-*   **Quotes & Mantras:** Enclose short quotes (under 5 words) in `"` and format longer quotes or mantras as blockquotes (`>`).
-*   **Structure:** End verse lines with two spaces for a soft break. Separate paragraphs with a blank line.
-*   **Page Numbers:** Format page numbers (e.g., `६४`) as `[[P64]]` at the precise point of the page break. This can be within a paragraph which continues to the next page.
-*   **Footnotes:** Format footnotes (e.g., `*`) using Markdown's footnote syntax (`[^1]`). Place the definition at the end. Make the footnote definitions appear next to the paragraph containing the corresponding footnote reference. Ensure that footnote references are unique, reflecting the number used in the source whenever possible. For example if footnote named 1 appears in page 12, make the reference 12_1.
-*   If the input contains `<details><summary>मूलम्</summary>...</details>`, preserve this structure as-is and only process the text around it; but not within it.
-
-Are you ready?
-</details>
-
-<details><summary>AI Response Headers</summary>
-
-[
-  {
-    "pages_96_to_100": {
-      "sdk_http_response": {
-        "headers": {
-          "x-gemini-service-tier": "standard",
-          "content-type": "application/json; charset=UTF-8",
-          "vary": "Origin, X-Origin, Referer",
-          "content-encoding": "gzip",
-          "date": "Sun, 06 Sep 2026 16:37:30 GMT",
-          "server": "scaffolding on HTTPServer2",
-          "x-xss-protection": "0",
-          "x-frame-options": "SAMEORIGIN",
-          "x-content-type-options": "nosniff",
-          "server-timing": "gfet4t7; dur=166944",
-          "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
-          "transfer-encoding": "chunked"
-        }
-      },
-      "candidates": [
-        {
-          "content": {
-            "role": "model"
-          },
-          "finish_reason": "STOP",
-          "index": 0
-        }
-      ],
-      "model_version": "gemini-3.5-flash",
-      "response_id": "JJadapjPEqvfg8UPpbXH-Qc",
-      "usage_metadata": {
-        "candidates_token_count": 3124,
-        "prompt_token_count": 4522,
-        "prompt_tokens_details": [
-          {
-            "modality": "TEXT",
-            "token_count": 1822
-          },
-          {
-            "modality": "IMAGE",
-            "token_count": 2700
-          }
-        ],
-        "thoughts_token_count": 36282,
-        "total_token_count": 43928
-      }
-    }
-  },
-  {
-    "pages_101_to_105": {
-      "sdk_http_response": {
-        "headers": {
-          "x-gemini-service-tier": "standard",
-          "content-type": "application/json; charset=UTF-8",
-          "vary": "Origin, X-Origin, Referer",
-          "content-encoding": "gzip",
-          "date": "Sun, 06 Sep 2026 16:38:35 GMT",
-          "server": "scaffolding on HTTPServer2",
-          "x-xss-protection": "0",
-          "x-frame-options": "SAMEORIGIN",
-          "x-content-type-options": "nosniff",
-          "server-timing": "gfet4t7; dur=61743",
-          "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
-          "transfer-encoding": "chunked"
-        }
-      },
-      "candidates": [
-        {
-          "content": {
-            "role": "model"
-          },
-          "finish_reason": "STOP",
-          "index": 0
-        }
-      ],
-      "model_version": "gemini-3.5-flash",
-      "response_id": "zpadarbLC-ijqfkPpKm3wQQ",
-      "usage_metadata": {
-        "candidates_token_count": 1,
-        "prompt_token_count": 46625,
-        "prompt_tokens_details": [
-          {
-            "modality": "TEXT",
-            "token_count": 41225
-          },
-          {
-            "modality": "IMAGE",
-            "token_count": 5400
-          }
-        ],
-        "thoughts_token_count": 14324,
-        "total_token_count": 60950
-      }
-    }
-  },
-  {
-    "pages_106_to_110": {
-      "sdk_http_response": {
-        "headers": {
-          "x-gemini-service-tier": "standard",
-          "content-type": "application/json; charset=UTF-8",
-          "vary": "Origin, X-Origin, Referer",
-          "content-encoding": "gzip",
-          "date": "Sun, 06 Sep 2026 16:39:45 GMT",
-          "server": "scaffolding on HTTPServer2",
-          "x-xss-protection": "0",
-          "x-frame-options": "SAMEORIGIN",
-          "x-content-type-options": "nosniff",
-          "server-timing": "gfet4t7; dur=67257",
-          "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
-          "transfer-encoding": "chunked"
-        }
-      },
-      "candidates": [
-        {
-          "content": {
-            "role": "model"
-          },
-          "finish_reason": "STOP",
-          "index": 0
-        }
-      ],
-      "model_version": "gemini-3.5-flash",
-      "response_id": "D5edaoCIF-6_g8UP3NWi0Ao",
-      "usage_metadata": {
-        "cache_tokens_details": [
-          {
-            "modality": "TEXT",
-            "token_count": 38942
-          },
-          {
-            "modality": "IMAGE",
-            "token_count": 5678
-          }
-        ],
-        "cached_content_token_count": 44620,
-        "candidates_token_count": 3209,
-        "prompt_token_count": 63649,
-        "prompt_tokens_details": [
-          {
-            "modality": "IMAGE",
-            "token_count": 8100
-          },
-          {
-            "modality": "TEXT",
-            "token_count": 55549
-          }
-        ],
-        "thoughts_token_count": 13783,
-        "total_token_count": 80641
-      }
-    }
-  },
-  {
-    "pages_111_to_115": {
-      "sdk_http_response": {
-        "headers": {
-          "x-gemini-service-tier": "standard",
-          "content-type": "application/json; charset=UTF-8",
-          "vary": "Origin, X-Origin, Referer",
-          "content-encoding": "gzip",
-          "date": "Sun, 06 Sep 2026 16:40:51 GMT",
-          "server": "scaffolding on HTTPServer2",
-          "x-xss-protection": "0",
-          "x-frame-options": "SAMEORIGIN",
-          "x-content-type-options": "nosniff",
-          "server-timing": "gfet4t7; dur=62371",
-          "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
-          "transfer-encoding": "chunked"
-        }
-      },
-      "candidates": [
-        {
-          "content": {
-            "role": "model"
-          },
-          "finish_reason": "STOP",
-          "index": 0
-        }
-      ],
-      "model_version": "gemini-3.5-flash",
-      "response_id": "VZedatfSM5y0g8UPkLKn0Qg",
-      "usage_metadata": {
-        "cache_tokens_details": [
-          {
-            "modality": "TEXT",
-            "token_count": 52957
-          },
-          {
-            "modality": "IMAGE",
-            "token_count": 7883
-          }
-        ],
-        "cached_content_token_count": 60840,
-        "candidates_token_count": 3239,
-        "prompt_token_count": 83348,
-        "prompt_tokens_details": [
-          {
-            "modality": "TEXT",
-            "token_count": 72548
-          },
-          {
-            "modality": "IMAGE",
-            "token_count": 10800
-          }
-        ],
-        "thoughts_token_count": 12526,
-        "total_token_count": 99113
-      }
-    }
-  },
-  {
-    "pages_116_to_120": {
-      "sdk_http_response": {
-        "headers": {
-          "x-gemini-service-tier": "standard",
-          "content-type": "application/json; charset=UTF-8",
-          "vary": "Origin, X-Origin, Referer",
-          "content-encoding": "gzip",
-          "date": "Sun, 06 Sep 2026 16:41:47 GMT",
-          "server": "scaffolding on HTTPServer2",
-          "x-xss-protection": "0",
-          "x-frame-options": "SAMEORIGIN",
-          "x-content-type-options": "nosniff",
-          "server-timing": "gfet4t7; dur=52464",
-          "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
-          "transfer-encoding": "chunked"
-        }
-      },
-      "candidates": [
-        {
-          "content": {
-            "role": "model"
-          },
-          "finish_reason": "STOP",
-          "index": 0
-        }
-      ],
-      "model_version": "gemini-3.5-flash",
-      "response_id": "l5edatrIEa2yg8UPwuTxuQg",
-      "usage_metadata": {
-        "cache_tokens_details": [
-          {
-            "modality": "TEXT",
-            "token_count": 70354
-          },
-          {
-            "modality": "IMAGE",
-            "token_count": 10754
-          }
-        ],
-        "cached_content_token_count": 81108,
-        "candidates_token_count": 2878,
-        "prompt_token_count": 101817,
-        "prompt_tokens_details": [
-          {
-            "modality": "IMAGE",
-            "token_count": 13500
-          },
-          {
-            "modality": "TEXT",
-            "token_count": 88317
-          }
-        ],
-        "thoughts_token_count": 10741,
-        "total_token_count": 115436
-      }
-    }
-  },
-  {
-    "pages_121_to_125": {
-      "sdk_http_response": {
-        "headers": {
-          "x-gemini-service-tier": "standard",
-          "content-type": "application/json; charset=UTF-8",
-          "vary": "Origin, X-Origin, Referer",
-          "content-encoding": "gzip",
-          "date": "Sun, 06 Sep 2026 16:42:34 GMT",
-          "server": "scaffolding on HTTPServer2",
-          "x-xss-protection": "0",
-          "x-frame-options": "SAMEORIGIN",
-          "x-content-type-options": "nosniff",
-          "server-timing": "gfet4t7; dur=44591",
-          "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
-          "transfer-encoding": "chunked"
-        }
-      },
-      "candidates": [
-        {
-          "content": {
-            "role": "model"
-          },
-          "finish_reason": "STOP",
-          "index": 0
-        }
-      ],
-      "model_version": "gemini-3.5-flash",
-      "response_id": "zpedaqPfOYLCg8UPwNyB0Qg",
-      "usage_metadata": {
-        "cache_tokens_details": [
-          {
-            "modality": "TEXT",
-            "token_count": 87457
-          },
-          {
-            "modality": "IMAGE",
-            "token_count": 13897
-          }
-        ],
-        "cached_content_token_count": 101354,
-        "candidates_token_count": 2676,
-        "prompt_token_count": 118147,
-        "prompt_tokens_details": [
-          {
-            "modality": "IMAGE",
-            "token_count": 16200
-          },
-          {
-            "modality": "TEXT",
-            "token_count": 101947
-          }
-        ],
-        "thoughts_token_count": 9323,
-        "total_token_count": 130146
-      }
-    }
-  }
-]
-</details>
-
-
+Source: [TW](https://archive.org/details/shrI-vaiShNava-kAvyAni/)
 
 [[P1]]
 
@@ -590,7 +53,7 @@ PUBLISHED BY
 **श्रीवत्स-वरदाचार्याः**
 
 #### सम्पादकः —
-*(व्याख्यान-अनुबन्ध-[[टिप्पण्यादिभिसहितं|टिप्पण्यादि-सहितम्]])*  
+*(व्याख्यानानुबन्ध-[[टिप्पण्यादिभिसहितं|टिप्पण्यादि-सहितम्]])*  
 साहित्य-न्याय-वेदान्त-शिरोमणिः  
 उभय-वेदान्त-विद्वान्  
 **ति. कु. वें. न. सुदर्शनाचार्यः**  
@@ -670,7 +133,7 @@ Tirupati.
 
 विदित-चरम् एव हीदं सर्वेषामम् अपि विपश्चिद्-अपश्चिमानां यत्, शब्द-प्रधानेभ्यः प्रभु-सम्मतेभ्यो वेदेभ्यः, अर्थ-प्रधानेभ्यो मित्र-सम्मतेभ्यश् च पुराणेभ्यः, ललित-ललितया विलास-विक्रियया सर्वेषामम् अपि प्राणिनां निसर्ग-सम्प्रेयांसि मनांसि रञ्जयन्ती व्यङ्ग्य-प्रधाना कान्ता-सम्मितेव काव्य-श्रीः — कर्तव्येषु सत्सु कार्येषु प्रवर्तयति, निवर्तयति च अकर्तव्येभ्यो ऽसत्कार्येभ्यः सर्वान् अपि जनान् इति। तत्रापि पण्डितास्वादैक-विषयेभ्यः श्रव्य-काव्येभ्यः, निपुण-नट-चेष्टया समुत्तम्भितानि सकल-प्राणि-हृदयङ्गमानि दृश्य-काव्यानि चारुतराणि। अत एव “काव्येषु नाटकं रम्यम्”, “नाटकान्तं कवित्वम्” इत्यादयो महतां श्री-सूक्तयो बह्व्यो विराजन्ते।
 
-वेद-स्मृति-पुराण-इतिहासादिष्व् इव [[भारतीयेषु|भारतीयेषु]] काव्य-नाटकादिष्व् अपि धर्म-प्रबोधनम् एव प्रधानं कृत्यम्। तथा सति सुभग-रमणीयया सरण्या आध्यात्मिक-परम-
+वेद-स्मृति-पुराणेतिहासादिष्व् इव [[भारतीयेषु|भारतीयेषु]] काव्य-नाटकादिष्व् अपि धर्म-प्रबोधनम् एव प्रधानं कृत्यम्। तथा सति सुभग-रमणीयया सरण्या आध्यात्मिक-परम-
 
 ---
 
@@ -680,7 +143,7 @@ Tirupati.
 
 ### आध्यात्मिक-नाटकानि (Allegorical Plays)
 
-भारतीय-नाटक-प्रक्रिया चेयम् अनादि-निधना, ऋग्वेदीय-यम-यमी-संवादम् आरभ्य प्रवर्तते। एवम् इयम् आध्यात्मिक-नाटक-प्रक्रियापि समुल्लसति भृशम् अनादि-सिद्धतयैव। जन्तुषु, पुरुषस्य स्वभाव-गुणादिषु च मनुष्यत्वम् आरोप्य तानि वस्तूनि पात्रीकृत्य प्रथितानि नाटकानि — आध्यात्मिक-नाटकानि। एतेषाम् आङ्ग्ल-भाषायां (Allegorical Plays) इति व्यवहारः। तानीमानि नाटकानि वेद-कालाद् आरभ्यैव प्रसिद्धानि वर्तन्ते। वाक्-प्राण-इन्द्रियादीनां सम्भाषण-विवादादिकं वेदे समुपवर्ण्यते।
+भारतीय-नाटक-प्रक्रिया चेयम् अनादि-निधना, ऋग्वेदीय-यम-यमी-संवादम् आरभ्य प्रवर्तते। एवम् इयम् आध्यात्मिक-नाटक-प्रक्रियापि समुल्लसति भृशम् अनादि-सिद्धतयैव। जन्तुषु, पुरुषस्य स्वभाव-गुणादिषु च मनुष्यत्वम् आरोप्य तानि वस्तूनि पात्रीकृत्य प्रथितानि नाटकानि — आध्यात्मिक-नाटकानि। एतेषाम् आङ्ग्ल-भाषायां (Allegorical Plays) इति व्यवहारः। तानीमानि नाटकानि वेद-कालाद् आरभ्यैव प्रसिद्धानि वर्तन्ते। वाक्-प्राणेन्द्रियादीनां सम्भाषण-विवादादिकं वेदे समुपवर्ण्यते।
 
 तद्यथा —
 
@@ -720,11 +183,11 @@ Tirupati.
 
 एवं प्रवृत्तेषु आध्यात्मिक-नाटकेषु श्रीकृष्णमिश्र-प्रणीतं प्रबोधचन्द्रोदयं नाम नाटकं प्रधान-स्थानम् अलङ्करोति।
 
-तत्र-भवान् महा-प्राज्ञः वश्यवाक् च श्रीकृष्णमिश्र-यतिः, [[अत्यद्भूतावहेण|अत्यद्भुतावहेण]] प्रसन्न-गम्भीरं [[नाटकमिटं|नाटकम् इदं]], इतर-मत-निरसन-पूर्वकं विष्णुपारम्य-वाद्य्-अद्वैत-सिद्धान्त-व्यवस्थापनाय विरचयामास; आवर्जयामास च सर्वेषां दार्शनिकानां दृष्टिं स्वसिद्धान्त-स्थापनार्थं एतादृश-कलित-ग्रन्थ-विरचनाय। एवंविध-आध्यात्मिक-परिपक्व-नाटक-निर्माणस्य मार्गदर्शी श्रीमान् श्रीकृष्णमिश्र-यतिर् एवेति अतिरोहितं विमर्शकानाम्।
+तत्र-भवान् महा-प्राज्ञः वश्यवाक् च श्रीकृष्णमिश्र-यतिः, [[अत्यद्भूतावहेण|अत्यद्भुतावहेण]] प्रसन्न-गम्भीरं [[नाटकमिटं|नाटकम् इदं]], इतर-मत-निरसन-पूर्वकं विष्णुपारम्य-वाद्य्-अद्वैत-सिद्धान्त-व्यवस्थापनाय विरचयामास; आवर्जयामास च सर्वेषां दार्शनिकानां दृष्टिं स्वसिद्धान्त-स्थापनार्थं एतादृश-कलित-ग्रन्थ-विरचनाय। एवंविधाध्यात्मिक-परिपक्व-नाटक-निर्माणस्य मार्गदर्शी श्रीमान् श्रीकृष्णमिश्र-यतिर् एवेति अतिरोहितं विमर्शकानाम्।
 
-“अत्र नायको विवेकः, देव्यौ च मतिः, उपनिषच् च। वस्तु-विचारः — सेना-नायकः। तस्य सहायाः — शान्ति-करुणा-श्रद्धा-मैत्री-क्षमा-सन्तोष-वेराग्य-निदिध्यासनादयः। प्रति-नायकः — महा-मोहः। तस्य सहचारिणी — मिथ्या-दृष्टिः। सेना-नायकः — कामः, तस्य सहायाः — क्रोध-लोभ-दम्भ-अहङ्कारादयः। कामस्य रतिः, क्रोधस्य हिंसा, लोभस्य तृष्णा चेति पत्न्यः। चार्वाक-भिक्षु-क्षपणक-कापालिकादयश् च अस्य परिपोषकाः। कामादीनां विवेकादीनां च पिता मनः।
+“अत्र नायको विवेकः, देव्यौ च मतिः, उपनिषच् च। वस्तु-विचारः — सेना-नायकः। तस्य सहायाः — शान्ति-करुणा-श्रद्धा-मैत्री-क्षमा-सन्तोष-वेराग्य-निदिध्यासनादयः। प्रति-नायकः — महा-मोहः। तस्य सहचारिणी — मिथ्या-दृष्टिः। सेना-नायकः — कामः, तस्य सहायाः — क्रोध-लोभ-दम्भाहङ्कारादयः। कामस्य रतिः, क्रोधस्य हिंसा, लोभस्य तृष्णा चेति पत्न्यः। चार्वाक-भिक्षु-क्षपणक-कापालिकादयश् च अस्य परिपोषकाः। कामादीनां विवेकादीनां च पिता मनः।
 
-महा-प्रभाव-शालिन्या विष्णु-भक्तेर् अनुग्रहे सुसम्पन्ने, वस्तु-विचारेण कामे निहते, क्षमया च क्रोध-पारुष्य-हिंसादिषु, निहतेषु सन्तोषेण च लोभ-तृष्णा-दैन्यानृत-पैशुन्य-वाक्-स्तेय-आत्मभरि-महादिषु, अनसूयया च मात्सर्ये, परोत्कर्ष-भावनया च मदे निहते, महा-मोहः योगोपसर्गैः सह निलीनः विवेकस्य महाराजस्य विजयः सुसम्पन्नः।
+महा-प्रभाव-शालिन्या विष्णु-भक्तेर् अनुग्रहे सुसम्पन्ने, वस्तु-विचारेण कामे निहते, क्षमया च क्रोध-पारुष्य-हिंसादिषु, निहतेषु सन्तोषेण च लोभ-तृष्णा-दैन्यानृत-पैशुन्य-वाक्-स्तेयात्मभरि-महादिषु, अनसूयया च मात्सर्ये, परोत्कर्ष-भावनया च मदे निहते, महा-मोहः योगोपसर्गैः सह निलीनः विवेकस्य महाराजस्य विजयः सुसम्पन्नः।
 
 ततः पुत्र-पौत्रादि-व्यसन-जनित-शोकावेगेन खिन्ने मनसि, तत्-सहायेन सङ्कल्पेन, विष्णु-भक्ति-प्रचोदितया देव्या सरस्वत्या च वैराग्यं तस्य उत्पादितम्। विकारे च शान्ते, हरिं ब्रह्म वा प्रपन्नं मनः। निवृत्तिश् च पत्नीत्वेन परिगृहीता। शम-दम-सन्तोषादिषु पुत्रेषु, यम-नियमादिषु अमात्येषु उपचरत्सु, उपनिषद्-देवी-सहायः विवेकः यौवराज्ये अभिषिक्तः, देव्याः सरस्वत्या उपदेशेन वृद्ध-महाराजेन मनसा। ततश् च विवेकेन उपनिषद्-देव्यां प्रबोधचन्द्रः उत्पादितः। पुरुषस्य च परब्रह्म-तादात्म्यं [[“तत्त्वमस्या” दि|“तत्त्वमस्य्” आदि]] श्रुति-शिरः-प्रतिपादितं सुसम्पन्नं विष्णु-भक्ति-प्रसादतः। ततो जीवन्मुक्तिः सम्प्राप्ता।”
 
@@ -852,7 +315,7 @@ Tirupati.
 
 धर्म-रक्षणार्थं श्रीमद्-यतिराजस्य प्रतिज्ञाम् अपि वर्णयति, एवम् —
 
-> “ 'निशात-निस्त्रिंश-कठोर-धारैर् [[वाग्भैर्विलुत्य|वाग्भिर् विलुत्य]] [[वेदमति कूलमूहैः|वेद-मत-प्रतिकूल-ऊहैः]] ।  
+> “ 'निशात-निस्त्रिंश-कठोर-धारैर् [[वाग्भैर्विलुत्य|वाग्भिर् विलुत्य]] [[वेदमति कूलमूहैः|वेद-मत-प्रतिकूलोहैः]] ।  
 > महोत्सवो विष्णुपदाश्रितानां मया विधेयो महतां द्विजानाम् ॥'” इति ॥  
 
 ### इतरेषां मतानां निरूपण-प्रक्रिया
@@ -975,7 +438,7 @@ Tirupati.
 *   परिकरः — उपकरणम्
 *   चिरन्तनवचः — वेदः
 
-एवं कठिन-पदानाम् अर्थाः व्याख्याने प्रतिपाद्यन्ते। तत्र स्थिताः केचन विशेषाः उपोद्घाते समुपवर्णिताः। कुत्र कुत्रचित् नाटक-लक्षण-समन्वयः, क्लिष्ट-पदानां विभिन्न-अर्थ-विवरणम्, वेदान्त-वाक्यानां [[तात्पर्यनिट्णयः|तात्पर्य-निर्णयः]], तत्र तत्र [[अनिन्मर्नीनामुद्धटणम्|अभिनव-मतानाम् उद्धरणम्]], सर्वत्र अवतारिका-प्रदानम्, मूल-ग्रन्थ-समर्थनोपायिकानां विषयाणां [[कोडीकरणम्|क्रोडीकरणम्]] — इत्यादयो बहवो विशेषाः, सार-संग्रह-रूपे ऽस्मिन् व्याख्याने विद्यन्ते। ते सर्वे ऽपि विमत्सरैः महद्भिः स्वयम् एव [[अनुभूयन्तान्|अनुभूयन्ताम्]] — इति [[विमर्शमालिया|विमर्श-धिया]] विरम्यते।
+एवं कठिन-पदानाम् अर्थाः व्याख्याने प्रतिपाद्यन्ते। तत्र स्थिताः केचन विशेषाः उपोद्घाते समुपवर्णिताः। कुत्र कुत्रचित् नाटक-लक्षण-समन्वयः, क्लिष्ट-पदानां विभिन्नार्थ-विवरणम्, वेदान्त-वाक्यानां [[तात्पर्यनिट्णयः|तात्पर्य-निर्णयः]], तत्र तत्र [[अनिन्मर्नीनामुद्धटणम्|अभिनव-मतानाम् उद्धरणम्]], सर्वत्र अवतारिका-प्रदानम्, मूल-ग्रन्थ-समर्थनोपायिकानां विषयाणां [[कोडीकरणम्|क्रोडीकरणम्]] — इत्यादयो बहवो विशेषाः, सार-संग्रह-रूपे ऽस्मिन् व्याख्याने विद्यन्ते। ते सर्वे ऽपि विमत्सरैः महद्भिः स्वयम् एव [[अनुभूयन्तान्|अनुभूयन्ताम्]] — इति [[विमर्शमालिया|विमर्श-धिया]] विरम्यते।
 
 
 
@@ -1030,14 +493,14 @@ Tirupati.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> “ [[स्वस्वार्थैकानिरिह|स्व-स्व-अर्थ-एक-हानिर् इह]] न [[कचिच्छ्रतीनाम्|क्वचिच् छ्रुतीनाम्]]  
+> “ [[स्वस्वार्थैकानिरिह|स्व-स्वार्थैक-हानिर् इह]] न [[कचिच्छ्रतीनाम्|क्वचिच् छ्रुतीनाम्]]  
 > प्रत्यक्ष-प्रभृतिर् अपि प्रमाण-वर्गः ।  
 > स्वार्थेषु प्रभवति निस्सपत्न-चारी  
 > राजन्ते वहति धुरं यतीश्वरे ऽस्मिन् ॥” इति ।  
 
 इतिहास-पुराणाभ्याम् अनुमोदितः वेद-विचारो ऽपि सम्मान्य एव — इति प्रतिपादयति इतिहास-मुखतः —
 
-[^14_1]: १. अत्र शुकाः — महर्षयः; कृष्णपक्षाः — कृष्णे भक्तिमन्तः; [[कृनेयोगा|कृतयोगाः]] — [[कृतोत्कृष्टास्तदुपासाः|कृत-उत्कृष्टाः तद्-उपासाः]]; सत्पथाः — सतां ब्रह्मविदां मार्गः; द्विजाः — ब्राह्मणाः; यतिराजदर्शनम् — यतिराज-सिद्धान्तः।  
+[^14_1]: १. अत्र शुकाः — महर्षयः; कृष्णपक्षाः — कृष्णे भक्तिमन्तः; [[कृनेयोगा|कृतयोगाः]] — [[कृतोत्कृष्टास्तदुपासाः|कृतोत्कृष्टाः तद्-उपासाः]]; सत्पथाः — सतां ब्रह्मविदां मार्गः; द्विजाः — ब्राह्मणाः; यतिराजदर्शनम् — यतिराज-सिद्धान्तः।  
 [^14_2]: २. स्वस्वार्थेति। अत्रायम् अभिसन्धिः — उभय-मीमांसयोः एक-शास्त्रत्वात्, पूर्व-मीमांसा [[त्रैविद्य|त्रैविध्य]]-विषया; उत्तर-मीमांसा मुमुक्षु-विषया। तत्र याश् च श्रुतयो विरुद्धवत् प्रतिभासन्ते, तास् तु विषय-भेदात् परस्परं न बाधन्ते। उत्तर-मीमांसायां च ब्रह्मणो याः, शरीर-गुण-कर्मादि-[[वादिम्यः|वादिम्यः]] श्रुतयः, ताः, नित्य-निरवद्य-कल्याण-शरीर-गुण-कर्मादि-विषयाः; याः, [[तन्निषेधवन्त्यः|तन्निषेधवत्यः]], ताः, हेय-शरीर-विषयाः — इति न तासां परस्पर-विरोधः। प्रत्यक्ष-प्रमाणादयो ऽपि प्रबल-प्रमाणान्तर-बाधित-विषये प्रभुणि भवन्तीति प्रामाणिकं [[चिद्-चिद्|चिदचिद्-विशिष्टं]] जगत् सत्यम् एवेति।  
 
 ---
@@ -1051,7 +514,7 @@ Tirupati.
 
 सुनीति-मुखतश् च —
 
-“ देव ! सहस्राधिकरण-दृष्ट-पराक्रमो [[ऽमर्जुन|ऽर्जुन]] इव रामानुज-मुनेः निष्पन्नः, [[ज्ञातवैदिककुलपालनप्रत्यहकृतानविजया|प्रतिज्ञात-वैदिक-कुल-पालन-प्रत्यह-कृत-अद्भुत-विजया]] महा-भारत-रण-समर्थो भवति देवस्य ” इति।  
+“ देव ! सहस्राधिकरण-दृष्ट-पराक्रमो [[ऽमर्जुन|ऽर्जुन]] इव रामानुज-मुनेः निष्पन्नः, [[ज्ञातवैदिककुलपालनप्रत्यहकृतानविजया|प्रतिज्ञात-वैदिक-कुल-पालन-प्रत्यह-कृताद्भुत-विजया]] महा-भारत-रण-समर्थो भवति देवस्य ” इति।  
 
 इतिहास-पुराणयोः ग्रहणकत्वम् एवम् उपवर्ण्यते —
 
@@ -1118,7 +581,7 @@ Tirupati.
 
 एवम्,  
 
-> [[अन्तर्वेदामृताध्र ज|अन्तर्-वेदान्त-अमृताद्रं च]] बहिः-साहित्य-सौरभम् ।  
+> [[अन्तर्वेदामृताध्र ज|अन्तर्-वेदान्तामृताद्रं च]] बहिः-साहित्य-सौरभम् ।  
 > विद्मः खलु वेदान्त-विलासं भोक्तुम् अर्हति ॥  
 
 इति, [[व्याख्यानकृदर्भाशिनदिशा|व्याख्यान-कृद्-दर्शित-दिशा]] [[कर्मनीयगुमागाहित्यसुमनःसौरभं परिमदयेष|कमनीय-काव्य-साहित्य-सुमनः-सौरभं परिमलयन्]] [[परिपिञ्चन्|परिषिञ्चन्]], अप्राकृत-वेदान्त-[[पर्यायमधुरममास्वादमौभाग्यमप्यमर्प|पर्याय-मधुरतमास्वाद-सौभाग्यम् अपि एतेषु]] सम्पादयति, परम-सुभग-रमणीय-कोमल-[[कन्चन|काव्य]]-रचना-धुरीणः [[महद्यचक्रवर्ती|महा-कवि-चक्रवर्ती]] [[विद्वन्तल्लजः|विद्वत्-तल्लजः]] [[कविदिग्वामणिः|कवि-शिखामणिः]] अयम् इति, धन्ये साहित्य-वेदान्त-शास्त्रे, [[धन्याश्च रमिका विद्वत्त्वेम्वराश्रुति|धन्याश् च रसिकाः विद्वत्-शिखामणयः, इति]] महद् इदं प्रमोद-स्थानम्।
@@ -1141,7 +604,7 @@ Tirupati.
 
 [[P18]]
 
-६. आर्हताः अपि — जगत् सर्वं कार्य-कारण-रूपेण नित्यानित्य-मयात्मकं [[भिन्नाऽभिन्नात्मकम्|भिन्नाभिन्नात्मकम्]]। आत्मानः कर्मानुरूप-शारीर-परिमाण-परिमाणाः। [[अनादी|अनादिः]] संसारः मल-धारण-आत्मज्ञानादिभिः प्रकृष्ट-विनिर्मोकाद् ऊर्ध्व-गति-प्राप्तिः — मोक्षः — इति ब्रुवते।
+६. आर्हताः अपि — जगत् सर्वं कार्य-कारण-रूपेण नित्यानित्य-मयात्मकं [[भिन्नाऽभिन्नात्मकम्|भिन्नाभिन्नात्मकम्]]। आत्मानः कर्मानुरूप-शारीर-परिमाण-परिमाणाः। [[अनादी|अनादिः]] संसारः मल-धारणात्मज्ञानादिभिः प्रकृष्ट-विनिर्मोकाद् ऊर्ध्व-गति-प्राप्तिः — मोक्षः — इति ब्रुवते।
 
 ७. नैयायिकाः, वैशेषिकाश् च — जगद्-उपादानं परमाणवः; आनुमानिकेश्वरो निमित्तम्; [[अनादिर्ना|अनादिर् हि]] संसार-मार्गः। सर्वेश्वरोपासनेन एकविंशति-दुःख-ध्वंसो मोक्षः — इति निरूपयन्ति।
 
@@ -1216,13 +679,13 @@ Tirupati.
 
 [[P21]]
 
-इति दशरूपके प्रतिपाद्यते। महा-सत्त्वः — शोकमोहाद्यनभिभूत-अन्तःकरणः; अविकत्थनः — अनात्म-श्लाघनः; निगूढाहङ्कारः — विनय-च्छन्न-गर्व-लेपः; दृढ-व्रतः — अङ्गीकृत-निर्वाहको धीरोदात्तः — इति तस्य विवरणम्।
+इति दशरूपके प्रतिपाद्यते। महा-सत्त्वः — शोकमोहाद्यनभिभूतान्तःकरणः; अविकत्थनः — अनात्म-श्लाघनः; निगूढाहङ्कारः — विनय-च्छन्न-गर्व-लेपः; दृढ-व्रतः — अङ्गीकृत-निर्वाहको धीरोदात्तः — इति तस्य विवरणम्।
 
 [[एतादृशळक्षणळक्षणविशिष्ट|एतादृश-लक्षण-लक्षित-विशिष्ट]] एवायम् इत्य् अत्र न को ऽपि सन्देहः। तथाहि —
 
 प्रथमत एवायं माया-वाद-विषये विमनायते —
 
-> मान-अर्थ-[[मानार्थतन्त्वहीनो|तत्त्व-हीनो]] माया-जीवी [[मुषावादी|मृषावादी]] ।  
+> मानार्थ-[[मानार्थतन्त्वहीनो|तत्त्व-हीनो]] माया-जीवी [[मुषावादी|मृषावादी]] ।  
 > सुमति-सुनीति-द्वेषी माम् अप्य् एवं करोति किं कुर्मः ॥  
 
 > भेदोपजीव्य् अपि [[भनत्ति|भनक्ति]] तम् एव भेदम्  
@@ -1277,7 +740,7 @@ Tirupati.
 
 सुनीति-सुमतिभ्यां च अयम् विषयः समुपबृंहितः यथा — "(मम आश्रयम्) देव ! भक्तम् [[अन्न्तरेण|अन्तरेण]] को वा तत्त्वम् उपदिशति" इति ।
 
-किं च दिग्विजय-उद्यम-श्रवणम् अनुष्ठानम् अनेन —
+किं च दिग्विजयोद्यम-श्रवणम् अनुष्ठानम् अनेन —
 
 " द्विजेभ्यो दीयताम् ..... प्रमुच्यन्तां सर्वे [[प्रवलभवकारागृहगताः|प्रबल-भव-कारागृह-गताः]] । " इति, स्वस्य महौदार्यम् ; भगवद्-दिव्य-मङ्गल-विग्रहम् अनुस्मृत्य नमस्यति "निःप्रकम्पेण" — "[[जानीमन्तव|जानीमस् तव]] सत्यम् अर्जुन" (६-४५), "अर्कैः क्लृप्तम्" (६-४६) "परस्माद् अन्यस्मै" (६-४७) "नमो यस्माद् आसीत्" (६-४८) "अनिर्वाच्यं गतः" (६-५२) इत्यादिभिः श्लोकैः, भगवतः सौशील्य-सौलभ्य-वात्सल्य-स्वामित्वादिकल्याणगुणाश्च प्रकटीकृताः ।
 
@@ -1306,20 +769,20 @@ Tirupati.
 
 यथा —
 
-> वीरः प्रताप-विनय-अध्यवसाय-सत्त्व-अविषाद-विस्मय-विक्रमाद्यैः ।  
+> वीरः प्रताप-विनयाध्यवसाय-सत्त्वाविषाद-विस्मय-विक्रमाद्यैः ।  
 > उत्साहभूः स च दया-रण-दान-योगात् त्रेधा, [[कलिस्तत्र मनिगर्वधुनिप्रकर्षः|कलिस्तत्र मतिगर्वधृतिप्रकर्षः]] ॥ इति ।
 
 अत्रावलोकः —
 
-"प्रताप-विनयादिभिर् विभावितः, [[करूणायुद्धदानादैरनुभावितः|दयारणदानादिभिरनुभावितः]], गर्व-धृति-हर्ष-अमर्ष-स्मृति-मति-वितर्क-प्रभृतिभिर् भावितः, उत्साहः स्थायी, स्वदते भावक-मानसाविस्तरानन्दाय [[प्रभवन्तीत्येष|प्रभवन्न् एष]] वीरः " इति ।
+"प्रताप-विनयादिभिर् विभावितः, [[करूणायुद्धदानादैरनुभावितः|दयारणदानादिभिरनुभावितः]], गर्व-धृति-हर्षामर्ष-स्मृति-मति-वितर्क-प्रभृतिभिर् भावितः, उत्साहः स्थायी, स्वदते भावक-मानसाविस्तरानन्दाय [[प्रभवन्तीत्येष|प्रभवन्न् एष]] वीरः " इति ।
 
 अत्र मुनिः — "अथ वीरो नाम उत्तमप्रकृतिर् उत्साहात्मकः । स च [[अमंमोह|अमोह]]-अध्यवसाय-विनय-बल-पराक्रम-शक्ति-प्रताप-प्रभाव-प्रभृतिभिर् विभावैर् उत्पद्यते । तस्य स्थैर्य-धैर्य-त्याग-शौर्य-वैशारद्य-[[आश्लेषाशक्यादिभिरनुभावैः|अप्रतिघातादिभिरनुभावैर्]] अभिनयः
 
 ---
 [[P25]]
-प्रयोक्तव्यः । व्यभिचारिणश्चास्य स्मृति-मति-गर्व-वेग-औग्र्य-अमर्ष-रोमाञ्चादयः " इति ।
+प्रयोक्तव्यः । व्यभिचारिणश्चास्य स्मृति-मति-गर्व-वेगौग्र्यामर्ष-रोमाञ्चादयः " इति ।
 
-प्रस्वेद-रक्त-वदनत्वादि-क्रोध-अनुभाव-रहितो युद्धवीरः ; अन्यथा रौद्रः — इत्यनयोर् विवेकः । अत्रार्ये भवतः —
+प्रस्वेद-रक्त-वदनत्वादि-क्रोधानुभाव-रहितो युद्धवीरः ; अन्यथा रौद्रः — इत्यनयोर् विवेकः । अत्रार्ये भवतः —
 
 > उत्साहाद् अध्यवसायाद् [[द्विषादाद्|अविषादाद्]] विस्मयाद् अमर्षाच्च ।  
 > त्रिविधोऽयम् एवमुक्तो वीररसो नाम सम्भवति ॥  
@@ -1329,7 +792,7 @@ Tirupati.
 
 [[रम्यश्चित्रं तृतीयोऽङ्कः|रम्यश्चित्रस्तृतीयोऽङ्कः]] ।
 
-नाटके चास्मिन् प्रथमत एव [[श्रीमन्तं यतिराजं|श्रीमतो यतिराजस्य]] [[अमन्दहर्ष-पराक्रम-अतिप्रतापादयु उद्रेकप्रभावा|अमन्द-हर्ष-पराक्रम-अतिप्रतापाद्युद्रेक-प्रभावा]] अभिव्यज्यन्ते, यथा —
+नाटके चास्मिन् प्रथमत एव [[श्रीमन्तं यतिराजं|श्रीमतो यतिराजस्य]] [[अमन्दहर्ष-पराक्रमातिप्रतापादयु उद्रेकप्रभावा|अमन्द-हर्ष-पराक्रमातिप्रतापाद्युद्रेक-प्रभावा]] अभिव्यज्यन्ते, यथा —
 
 " भरतः — सर्वथा हि माहात्म्याढ्या यतिराजस्य, [[यद्यमेव|यद्येवं]] क्रियते । "  
 नारदः — किमत्राश्चर्यम् —
@@ -1389,7 +852,7 @@ Tirupati.
 > " [[निशातनिशितकठोरधार्यैर्व्यस्य वेदमनिपक्षव्यूहैः ।|निशात-निशित-कठोर-धारैर् अस्त्रैः वेदमार्ग-विपक्ष-व्यूहैः ।]]  
 > महोत्सवो विष्णुपदाश्रितानां मया विधेयो महतां जनानाम् ॥ "
 
-इति च स्वस्य [[उद्योगोद्यौगो प्रकत्यति|उद्योगं प्रकटयति]] भगवान् यतिराजः स्वयमेव । अतः, विभाव-अनुभाव-सात्त्विक-व्यभिचारिभाव-सामग्री-समुल्लसितः स्थायी समुत्साहः, वीररसात्मना समास्वाद्यते ह्य् अनुभवरसिकैर् भावुकैर् इति, अत्र वीर एव प्रधानो रसो विराजते नितराम् ।
+इति च स्वस्य [[उद्योगोद्यौगो प्रकत्यति|उद्योगं प्रकटयति]] भगवान् यतिराजः स्वयमेव । अतः, विभावानुभाव-सात्त्विक-व्यभिचारिभाव-सामग्री-समुल्लसितः स्थायी समुत्साहः, वीररसात्मना समास्वाद्यते ह्य् अनुभवरसिकैर् भावुकैर् इति, अत्र वीर एव प्रधानो रसो विराजते नितराम् ।
 
 श्रीमति मूलमन्त्रिणि यतिराजे [[गतसमुत्साहः,|गतः उत्साहः]] राज्ञ एव फलप्रद इति निरूपितम् एव ।
 
@@ -1400,7 +863,7 @@ Tirupati.
 > " एको रसोऽङ्गीकर्तव्यो वीरः शृङ्गार एव वा ।  
 > अङ्गम् अन्ये रसाः सर्वे कुर्यान् निर्वहणेऽद्भुतम् ॥ " —
 
-इत्यादिना दशरूपकोक्तं नाटक-लक्षणं च सम्यक् समन्वयीकृतम् । [[सुमतिवेदमौल्योः|सुमति-वेदमौल्योः]] शृङ्गारः विप्रलम्भ-सम्भोग-उभयात्मकः साधु परिपोषं नीतः । हास्य-अद्भुत-रौद्र-बीभत्स-[^27_1]
+इत्यादिना दशरूपकोक्तं नाटक-लक्षणं च सम्यक् समन्वयीकृतम् । [[सुमतिवेदमौल्योः|सुमति-वेदमौल्योः]] शृङ्गारः विप्रलम्भ-सम्भोगोभयात्मकः साधु परिपोषं नीतः । हास्याद्भुत-रौद्र-बीभत्स-[^27_1]
 
 [^27_1]: 
     विप्रलम्भो यथा —  
@@ -1410,9 +873,9 @@ Tirupati.
 
 
 [[P33]]
-स्त्री-पात्रेषु — सुमतिः — पट्टमहिषी, उदार-मङ्गलगुणा, वेदान्तस्य तुल्य-शील-वयो-वृत्ता, तुल्याभिजन-लक्षणा, अनन्यार्हत्व-अनन्यशरणत्व-अनन्यभोग्यत्व-रूप-आकारत्रयसम्पन्ना सकल-लोकोज्जीवनकरी राज्ञश्चात्यन्तवल्लभा सम्यग् उपवर्णिता । तस्याः सख्यौ सुनीतिः, गीता च महनीय-मङ्गल-गुण-चरित्रे नायिका-नायकयोर् अत्यन्त-प्रणयिन्यौ, सङ्घटन-कर्मणि नितरां जागरूके समुपवर्णिते । अत्र कविः, उत्तररामचरित्रे निबद्धाः — सीता — तमसा — वासन्तिकाः, शाकुन्तले चोपनिवद्धाः — शकुन्तला — अनसूया — प्रियंवदाश्च स्मारं स्मारं, एताः सुमति-सुनीति-गीताः चित्रितवान् इति अभ्यूहितुम् उचित इव प्रतिभाति । अन्यत् सर्वं पाठक-महाशयैर् एव सहृदयैः स्वयम् अनुभूयत एव इति विस्तरभीत्या विरम्यते ।
+स्त्री-पात्रेषु — सुमतिः — पट्टमहिषी, उदार-मङ्गलगुणा, वेदान्तस्य तुल्य-शील-वयो-वृत्ता, तुल्याभिजन-लक्षणा, अनन्यार्हत्वानन्यशरणत्वानन्यभोग्यत्व-रूपाकारत्रयसम्पन्ना सकल-लोकोज्जीवनकरी राज्ञश्चात्यन्तवल्लभा सम्यग् उपवर्णिता । तस्याः सख्यौ सुनीतिः, गीता च महनीय-मङ्गल-गुण-चरित्रे नायिका-नायकयोर् अत्यन्त-प्रणयिन्यौ, सङ्घटन-कर्मणि नितरां जागरूके समुपवर्णिते । अत्र कविः, उत्तररामचरित्रे निबद्धाः — सीता — तमसा — वासन्तिकाः, शाकुन्तले चोपनिवद्धाः — शकुन्तला — अनसूया — प्रियंवदाश्च स्मारं स्मारं, एताः सुमति-सुनीति-गीताः चित्रितवान् इति अभ्यूहितुम् उचित इव प्रतिभाति । अन्यत् सर्वं पाठक-महाशयैर् एव सहृदयैः स्वयम् अनुभूयत एव इति विस्तरभीत्या विरम्यते ।
 
-अस्मिन् नाटके — प्रथम, द्वितीय, चतुर्थ, पञ्चम, षष्ठेषु पञ्चसु विष्कम्भाः, तृतीयाङ्के प्रवेशकश्च, वृत्त-वर्तिष्यमाणानां कथांशानां निदर्शनाय उपनिबद्धाः । तत्र, प्रथमाङ्के — " नारं ददातीति नारदः " इति व्युत्पत्त्या लोकानां विज्ञान-प्रसादको नारदः नाट्य-द्वारा पण्डित-पामर-साधारणेन विज्ञान-अमृत-सेचकाय भरताय, तन्मुखेन सर्व-लोकेभ्यश्च, यतिराजस्य सुदर्शनत्वं, तद्दर्शनस्य परमार्थत्वम्, परम-हितत्वम्, [[वेदान्तम् अत्यन्तरङ्गत्वम्|वेदान्तस्यात्यन्तरङ्गत्वम्]], तेनैव तस्य सकल-प्रत्यर्थि-निरसनेन स्वपदे व्यवस्थापनं च स्थापयतीति, सुमहान् अयम् आमोदः । चतुर्थाङ्के च — गीता-जनकयोः सम्भाषणेन, विष्णोः दिव्य-मङ्गल-विग्रहस्य अनुभवः, जीव-परयोः स्वरूप-ऐक्यम्, किन्तु स्वभाव-ऐक्यम् एव — इत्येवम् अपि प्रधान-अंशो विज्ञापित इति सुमहान् अनुग्रहश्च ॥
+अस्मिन् नाटके — प्रथम, द्वितीय, चतुर्थ, पञ्चम, षष्ठेषु पञ्चसु विष्कम्भाः, तृतीयाङ्के प्रवेशकश्च, वृत्त-वर्तिष्यमाणानां कथांशानां निदर्शनाय उपनिबद्धाः । तत्र, प्रथमाङ्के — " नारं ददातीति नारदः " इति व्युत्पत्त्या लोकानां विज्ञान-प्रसादको नारदः नाट्य-द्वारा पण्डित-पामर-साधारणेन विज्ञानामृत-सेचकाय भरताय, तन्मुखेन सर्व-लोकेभ्यश्च, यतिराजस्य सुदर्शनत्वं, तद्दर्शनस्य परमार्थत्वम्, परम-हितत्वम्, [[वेदान्तम् अत्यन्तरङ्गत्वम्|वेदान्तस्यात्यन्तरङ्गत्वम्]], तेनैव तस्य सकल-प्रत्यर्थि-निरसनेन स्वपदे व्यवस्थापनं च स्थापयतीति, सुमहान् अयम् आमोदः । चतुर्थाङ्के च — गीता-जनकयोः सम्भाषणेन, विष्णोः दिव्य-मङ्गल-विग्रहस्य अनुभवः, जीव-परयोः स्वरूपैक्यम्, किन्तु स्वभावैक्यम् एव — इत्येवम् अपि प्रधानांशो विज्ञापित इति सुमहान् अनुग्रहश्च ॥
 
 ### ग्रन्थकर्तृ-काल-देशादि-विवरणम्
 
@@ -1450,7 +913,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 > " श्रीवेदान्तविलासस्य नाटकस्य यथामति ।  
 > प्रणम्य वरदं व्याख्या क्रियते रत्नदीपिका ॥ "
 
-इति मङ्गल-श्लोकेन प्रथमेन, " अन्तर्-वेदान्त-साम्राज्यम् " इत्यादिना द्वितीयेन च अनुबन्ध-चतुष्टयं सूचयता, स्व-अहङ्कार-निरसनं कुर्वता, इष्ट-देवतां प्रणमता, मृदु-मधुर-संक्षिप्त-भाषिणा व्याख्याकृता, अंश-द्वयम् [[परमात्र|परम् अत्र]] समुपबृंहितम् — व्याख्यानस्य नाम रत्नदीपिका इति, वरदः इष्ट-दैवतमिति च । रत्नदीपिका इति सर्वथा अन्वर्थम् इदं नामधेयम् । अयं वरदः, देवो वा, गुरुर्वा, उभौ वा । तेन वरद-दैवतोपासकः, वरदाचार्यस्य शिष्योऽयं भवति । वरदस्तु काञ्चीपुर्यां विराजमानः ; अतः ग्रन्थकर्तुर् आवासभूमिः काञ्चीपुरी भवितुम् अर्हति — इति अभ्यूहः समुचितो वेति सुधियो विभावयन्तु । एतदपेक्षया अन्यत् किमपि तद् अधिकृत्य न ज्ञायते ।
+इति मङ्गल-श्लोकेन प्रथमेन, " अन्तर्-वेदान्त-साम्राज्यम् " इत्यादिना द्वितीयेन च अनुबन्ध-चतुष्टयं सूचयता, स्वाहङ्कार-निरसनं कुर्वता, इष्ट-देवतां प्रणमता, मृदु-मधुर-संक्षिप्त-भाषिणा व्याख्याकृता, अंश-द्वयम् [[परमात्र|परम् अत्र]] समुपबृंहितम् — व्याख्यानस्य नाम रत्नदीपिका इति, वरदः इष्ट-दैवतमिति च । रत्नदीपिका इति सर्वथा अन्वर्थम् इदं नामधेयम् । अयं वरदः, देवो वा, गुरुर्वा, उभौ वा । तेन वरद-दैवतोपासकः, वरदाचार्यस्य शिष्योऽयं भवति । वरदस्तु काञ्चीपुर्यां विराजमानः ; अतः ग्रन्थकर्तुर् आवासभूमिः काञ्चीपुरी भवितुम् अर्हति — इति अभ्यूहः समुचितो वेति सुधियो विभावयन्तु । एतदपेक्षया अन्यत् किमपि तद् अधिकृत्य न ज्ञायते ।
 
 मूलस्य तु अनेका मातृका अस्मत्-पुस्तकालये, अन्यत्र च उपलभ्याः । ताभिः सह समीकृत्य, तत्रत्याः पाठभेदा [[अथो|अथ]] निवेशिताः । व्याख्यान-दर्शनेन केचन नूतनाः पाठभेदा उपलभ्यन्ते, ते, अन्ये च तत्रत्या विशेषाः सर्वे, अनुबन्धे प्रदर्शयिष्यन्ते ।
 
@@ -1461,7 +924,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 ---
 [[P36]]
-### [[कृतज्ञताSSविष्करणम्|कृतज्ञता-आविष्करणम्]]
+### [[कृतज्ञताSSविष्करणम्|कृतज्ञताविष्करणम्]]
 
 अस्य [[व्याख्यानस्यानुलेखनाय,|व्याख्यानस्य अनुलिखनाय,]] मुद्रणाय च कृपया अनुमतिं दत्तवद्भ्यः सहृदय-तल्लजेभ्यः [[मद्रासराजकीयतालपत्रपरिशोधनालयप्रधानाध्यक्षेभ्यः|मद्रास-राजकीय-तालपत्र-परिशोधनालय-प्रधानाध्यक्षेभ्यः]] [[अस्मत्सुहृ- द्वरेभ्यः|अस्मत्-सुहृद्-वरेभ्यः]] ब्रह्मश्री- T. चन्द्रशेखरन् दीक्षित ( M. A. L. T. ) महोदयेभ्यः विशिष्य कृतज्ञता निवेदनीया समस्ति ।
 
@@ -1555,7 +1018,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 | (३) विजयञ्जननाटकम् | श्रीबिन्दुमाधवतनुजः — इन्दिराशुकविः | श्रीद्वैतमतप्रबोधकम् । |
 
 [^39_1]: 
-    \* नाटकम् इदं, अस्मत्-प्रिय-मित्र-महोदयैः सहृदय-तल्लजैः श्रीवेङ्कटेश्वर-संस्कृत-महाविद्याशालायाम् व्याकरण-शास्त्र-विभागस्य प्रधान-उपाध्यायैः [[श्रीमुळ्ळिभजनवैयाकरणशिरोमणिभिः|श्रीमुळ्ळि-भव-वैयाकरण-शिरोमणिभिः]] धीमद्भिः राममूर्त्याचार्यैः सप्रीत-बहुमानं प्रदर्शि महां प्रसन्न-सञ्ज्ञया । तेषां सर्वदा कृतज्ञोऽस्मि ।
+    \* नाटकम् इदं, अस्मत्-प्रिय-मित्र-महोदयैः सहृदय-तल्लजैः श्रीवेङ्कटेश्वर-संस्कृत-महाविद्याशालायाम् व्याकरण-शास्त्र-विभागस्य प्रधानोपाध्यायैः [[श्रीमुळ्ळिभजनवैयाकरणशिरोमणिभिः|श्रीमुळ्ळि-भव-वैयाकरण-शिरोमणिभिः]] धीमद्भिः राममूर्त्याचार्यैः सप्रीत-बहुमानं प्रदर्शि महां प्रसन्न-सञ्ज्ञया । तेषां सर्वदा कृतज्ञोऽस्मि ।
 
 अत्र — योग्यता, सुचरित, जिज्ञासा, मुमुक्षा, प्रयत्न, [[परनीर्यः|परमर्षिः]], गुरुप्रसादः, तत्त्वविवेकः, अचिन्त्यशक्तिः (महिषी), गुणोत्कर्षः (सहचरः), निदिध्यासनं, प्रसादः, कलिः, साम्बशिवः, चरिताभेदो, शीघ्रगतिः, चाक्षुष्यः, शकुनिः, कठोरः, मणिमन्, प्राणदासः, प्रभञ्जनः, प्रवेशकः, शङ्कर (शङ्करः), गोविन्दस्वामी, ब्रह्मदन्तः, मिथ्याप्रज्ञः, क्षेमोत्तमः, प्रज्ञातीर्थः, सत्यप्रज्ञः, प्रज्ञातीर्थः, विद्याः, विवेकः, आनन्दतीर्थः, भूरिकरुण, जनाः, उपक्रमादयः, वादिनः, अगतप्रत्ययः, प्रत्यक्षम्, मिथ्यानुमितिः, व्यावहारिकी, विकल्पः, [[त्रिक्रमचार्यः|त्रिविक्रमाचार्यः]], पुण्डरीकः, व्याघातः, प्रसादः, द्वेषः, [[अपोश्याः|अपोह्याः]], योग्याः, सङ्कल्पः ([[महामन्त्रो|महामन्त्री]]), रमानाथः (महाराजः) — इत्येवमादयः आध्यात्मिक-पदार्थाः पात्राणि ।  
 (vi)
@@ -1647,7 +1110,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 > [[ब्रह्माणप्रवीणो|ब्रह्माण्ड-प्रवीणो]] घृत-धरणिधरः क्ष्मा-समुत्क्षेप-दक्षः  
 >    प्रह्लाद-ह्लादकारी मथित-बलि-बलो [[भद्रराजन्यजन्यः|भग्न-राजन्य-जन्यः]] ।  
-> [[लङ्कालङ्कारहारी|लङ्का-अलङ्कारहारी]] हल-हत-कलहो [[वल्लवोत्लासकारी|वल्लव-उल्लासकारी]] [^1_3]  
+> [[लङ्कालङ्कारहारी|लङ्कालङ्कारहारी]] हल-हत-कलहो [[वल्लवोत्लासकारी|वल्लवोल्लासकारी]] [^1_3]  
 >    भावी पाषण्ड-शत्रुः भवतु मधुरिपुः श्रेयसे भूयसे नः ॥ ३ ॥  
 
 [^1_1]: मङ्गलछन्दांसि — पा. ; छन्दोमयं वाहनम् — पा.
@@ -1679,7 +1142,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 **नटः** — भाव ! तन्-निवेद्यतां येन अहम् अपि चरितार्थो भवामि ।  
 
-**सूत्रधारः** — सम्प्रति सम-समय-[[सप्तदपरिमित|सप्तति-परिमित]]-निगम-कुलमणि-मुकुट-मरीचि-मञ्जरी-रञ्जित-चरण-कमलस्य जगद्-उदय-विभव-लय-लीलस्य कमलवनी-कुच-कलश-कपोल-न-युगल-युगपन्-मिलिखित-पत्रावली-परितुष्ट-किसलय-चतुष्टयस्य [^2_1] कावेरी-तीर-तरु-तत-माल-भूरुहस्य विभीषण-आराधित-पाद-पङ्कजस्य भुजङ्ग-भोग-पर्यङ्क-शायिनः श्रीरङ्गराजस्य चैत्र-उत्सव-यात्रायाम् , आत्मविद्या-[[विद्ग्यैः|विद्भिः]] अनवरत-निरवद्य-भरत-विद्या-विनोदैर् आर्य-मिश्रैर् आदिष्टोऽस्मि ; यदुत, "अस्ति खलु भगवद्-रामानुजमुनेः पूर्वाश्रम-भागिनेयः श्रीवत्स-कुल-चूडामणिः अखिल-परदर्शन-मद-[[मददर्शनः|मर्दनः]] सुदर्शनो  
+**सूत्रधारः** — सम्प्रति सम-समय-[[सप्तदपरिमित|सप्तति-परिमित]]-निगम-कुलमणि-मुकुट-मरीचि-मञ्जरी-रञ्जित-चरण-कमलस्य जगद्-उदय-विभव-लय-लीलस्य कमलवनी-कुच-कलश-कपोल-न-युगल-युगपन्-मिलिखित-पत्रावली-परितुष्ट-किसलय-चतुष्टयस्य [^2_1] कावेरी-तीर-तरु-तत-माल-भूरुहस्य विभीषणाराधित-पाद-पङ्कजस्य भुजङ्ग-भोग-पर्यङ्क-शायिनः श्रीरङ्गराजस्य चैत्रोत्सव-यात्रायाम् , आत्मविद्या-[[विद्ग्यैः|विद्भिः]] अनवरत-निरवद्य-भरत-विद्या-विनोदैर् आर्य-मिश्रैर् आदिष्टोऽस्मि ; यदुत, "अस्ति खलु भगवद्-रामानुजमुनेः पूर्वाश्रम-भागिनेयः श्रीवत्स-कुल-चूडामणिः अखिल-परदर्शन-मद-[[मददर्शनः|मर्दनः]] सुदर्शनो  
 
 [^2_1]: कावेरीमध्यमरकतमणिभूषणस्य — पा.
 
@@ -1722,7 +1185,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 **नटः** — साधु निदर्शितं भावेन ।  
 > नावैक्षत [[स रुष्टभीनहरिभिन्दन|स रुष्टभीमहरिर्भिन्दन्]] द्विषन्तं नखैः  
 >    चक्रं तच्-चटुल-स्फुलिङ्ग-कलिका-चक्रं नृचक्रं च तत् ।  
-> रिपु-[[त्रशनशङ्करोद्धनिविडासंम्याससङ्घान्तर-|त्रासन-शङ्करोद्धत-निविडासन्न-असि-सङ्घान्तर-]]  
+> रिपु-[[त्रशनशङ्करोद्धनिविडासंम्याससङ्घान्तर-|त्रासन-शङ्करोद्धत-निविडासन्नासि-सङ्घान्तर-]]  
 >    स्यातोच्चाण्डिम-[[भोरु|भूरि]]-डिण्डिम-मिलच्-छुण्डाल-घण्टारवम् ॥ ११ ॥  
 
 (*सविनयम् अञ्जलिं बध्वा*)  
@@ -1869,7 +1332,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 > [[कलिकलुषमतीनां का गतिर्मानवानां|कलि-कलुष-मतीनां का गतिर् मानवानां]]  
 >    [[भवजलधिगतानां पारलाभः कथं वा|भव-जलधि-गतानां पार-लाभः कथं वा]] ॥ २७ ॥  
 
-**नारदः** — वत्स ! मा भैषीः । प्रकृतिनिर्मले स्फटिकमणौ [[परकृतोपरागः|पर-कृत-उपरागः]] कियच्चिरं तिष्ठति ? पश्य,  
+**नारदः** — वत्स ! मा भैषीः । प्रकृतिनिर्मले स्फटिकमणौ [[परकृतोपरागः|पर-कृतोपरागः]] कियच्चिरं तिष्ठति ? पश्य,  
 > पौलस्त्येन यथा पुरा रघुपतिर् मायाविना वञ्चितः  
 >    भूयस् तं विनिहत्य [[शङ्करगिरिः|शङ्कर-गिरिः]] स्फूर्जत्-प्रतापोन्नतम् ।  
 > स्वामी नः [[श्रुतिमौलिरेष विजयी|श्रुतिमौलिर् एष विजयी]] रामानुजस्यौजसा  
@@ -1888,14 +1351,14 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 (*ततः प्रविशति राजा*)  
 
 **राजा** — (*विमृश्य*) सम्प्रति, मन्त्री मायावादः [[समयान्तरमदहरणशुण्डीरः|समयान्तर-मद-हरण-शुण्डीरः]] ; तथापि,  
-> मान-अर्थ-तत्त्व-हीनो [[मायाजीवी|माया-जीवी]] महा-मृषावादी ।  
+> मानार्थ-तत्त्व-हीनो [[मायाजीवी|माया-जीवी]] महा-मृषावादी ।  
 > [[सुमतिसुनीतिद्वेषी|सुमति-सुनीति-द्वेषी]] (*निश्वस्य, सखेदम्*)  
 >    [[मामप्येवं करोति|माम् अप्य् एवं करोति]] किं कुर्मः ॥ २९ ॥  
 
 (*विमृशन्, विहस्य*)  
-> [[मेदोपजीव्यपि|मेद-उपजीव्य् अपि]] भिनत्ति तम् एव मेदं  
+> [[मेदोपजीव्यपि|मेदोपजीव्य् अपि]] भिनत्ति तम् एव मेदं  
 >    मानं प्रतिक्षिपति मानपरायणोऽपि ।  
-> सोऽयं प्रमाण-पुरुषैः [[स्वकरोपनीतान्|स्व-कर-उपनीतान्]]  
+> सोऽयं प्रमाण-पुरुषैः [[स्वकरोपनीतान्|स्व-करोपनीतान्]]  
 >    मिथ्येति वक्ति मिषतोऽपि हरन् महार्थान् [^9_1] ॥ ३० ॥  
 
 [[तदल किं प्रतिविधेयम् ?|तद् अलं, किं प्रतिविधेयम् ?]] (*विचिन्त्य*) तावद् [[यावदस्म- दनुकूलोऽन्यो|यावद् अस्मद्-अनुकूलोऽन्यो]] नीतिशाली कश्चित् [[तत्पदे निवेशितस्स्यात्|तत्-पदे निवेशितः स्यात्]] ; अन्यथा, [[मामशरणयो|माम् अशरणं]] जीवग्राहं गृह्णीयुः ।  
@@ -2005,7 +1468,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 [[P13]]
 **धर्मः** — (*समन्ताद् अवलोक्य, सानन्दम्*)  
 > वाचा रञ्जयितुं जगत् व्यवसितं वाचंयमैः कोकिलैः  
->    मन्दं वाति समीरणोऽपि [[पुलकोद्भेदप्रानुमेयागमः|पुलकोद्भेद-अनुमेयागमः]] ।  
+>    मन्दं वाति समीरणोऽपि [[पुलकोद्भेदप्रानुमेयागमः|पुलकोद्भेदानुमेयागमः]] ।  
 > निश्शेष-च्युत-पर्ण-सञ्चयतया निष्प्राण-कल्पं वनं  
 >    भूयोऽप्य् उन्मिषतीव [[दृष्टिगुलभैः|दृष्टि-सुलभैः]] पुष्प-प्रवालोद्द्रुमैः ॥ ४१ ॥  
 
@@ -2056,7 +1519,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 **यतिराजः** — (*सादरम्*) तर्हि कथ्यताम् ।  
 **धर्मः** — [[चार्वाकेणाभियुक्त|चार्वाकेण अभियुक्त]] एव ।  
 
-**यतिराजः** — (*सभयकौतुकम्*) [[कथमेतद्भविष्यति ?|कथम् एतद् भविष्यति ?]] अथवा, [[किमन्यद्भविष्यति ?|किम् अन्यद् भविष्यति ?]] उच्छिष्ट-मानं चार्वाकं प्रकृत्या वेदविरोधिनी मायावाद-सौगतौ दिगम्बरश्च अनुवर्तेरन् ; तैर् अभियुज्यमानं वेदविचारं मात्रया वेदानुरोधिनोऽपि तत्-कृत-बहु-विरोधम् अनुस्मरन्तः कपिल-पतञ्जलि-कणभक्ष-अक्षचरण-समयाः उपेक्षेरन् , एवं सति [[एवं सत्यात्म- निरपेक्षणमुप्युपरि|आत्म-निरपेक्षणम् उपर्युपरि]] [[निप्त्य|निपात्य]] [[निशितनिशिंशानिष्टुरैस्तर्कैः|निशित-निशित्रिंश-निष्ठुरैस् तर्कैः]] खण्डयन्तः [[खण्डयत्तस्तर्कशरान्|तर्क-शरान्]] [[स्वाङ्गमात्रशेषः|स्वाङ्ग-मात्र-शेषः]] किं करिष्यति [[वेदविचारस्तपस्वी ?|वेदविचारस् तपस्वी ?]]  
+**यतिराजः** — (*सभयकौतुकम्*) [[कथमेतद्भविष्यति ?|कथम् एतद् भविष्यति ?]] अथवा, [[किमन्यद्भविष्यति ?|किम् अन्यद् भविष्यति ?]] उच्छिष्ट-मानं चार्वाकं प्रकृत्या वेदविरोधिनी मायावाद-सौगतौ दिगम्बरश्च अनुवर्तेरन् ; तैर् अभियुज्यमानं वेदविचारं मात्रया वेदानुरोधिनोऽपि तत्-कृत-बहु-विरोधम् अनुस्मरन्तः कपिल-पतञ्जलि-कणभक्षाक्षचरण-समयाः उपेक्षेरन् , एवं सति [[एवं सत्यात्म- निरपेक्षणमुप्युपरि|आत्म-निरपेक्षणम् उपर्युपरि]] [[निप्त्य|निपात्य]] [[निशितनिशिंशानिष्टुरैस्तर्कैः|निशित-निशित्रिंश-निष्ठुरैस् तर्कैः]] खण्डयन्तः [[खण्डयत्तस्तर्कशरान्|तर्क-शरान्]] [[स्वाङ्गमात्रशेषः|स्वाङ्ग-मात्र-शेषः]] किं करिष्यति [[वेदविचारस्तपस्वी ?|वेदविचारस् तपस्वी ?]]  
 
 ---
 [[P15]]
@@ -2196,12 +1659,12 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 **राजा** — किं तत् ?  
 
-**मन्त्री** — भवद्-राज्य-रत्नभूतं [[परं ब्रह्म|परं ब्रह्म]] निराकृत्य, [[तंप्रतिबिम्बतया|तत्-प्रतिबिम्बतया]] [[तच्छेषभूतान्सत्कल्पान्|तच्-शेष-भूतान् सत्-कल्पान्]] [[जीवानेव|जीवान् एव]] संसारिणः परमार्थ-पदे स्थापयन्, [[वेदविचारोऽस्माकमरातिरेव|वेदविचारोऽस्माकम् अरातिर् एव]] । [[तस्मात्तदुच्छेदाय|तस्मात् तद्-उच्छेदाय]] गच्छामि ।  
+**मन्त्री** — भवद्-राज्य-रत्नभूतं [[परं ब्रह्म|परं ब्रह्म]] निराकृत्य, [[तंप्रतिबिम्बतया|तत्-प्रतिबिम्बतया]] [[तच्छेषभूतान्सत्कल्पान्|तच्-छेष-भूतान् सत्-कल्पान्]] [[जीवानेव|जीवान् एव]] संसारिणः परमार्थ-पदे स्थापयन्, [[वेदविचारोऽस्माकमरातिरेव|वेदविचारोऽस्माकम् अरातिर् एव]] । [[तस्मात्तदुच्छेदाय|तस्मात् तद्-उच्छेदाय]] गच्छामि ।  
 
 **राजा** — साधु [[चिन्तितममात्येन|चिन्तितम् अमात्येन]] ।  
 (*मन्त्री निष्क्रान्तः*)  
 
-**मिथ्यादृष्टिः** — (*महाराजं कण्ठे गृहीत्वा*) महाराज ! [[दर्शनमात्रेण|दर्शन-मात्रेण]] [[चिरकालानुरूटप्रणय- पेशलो|चिरकाल-अनुरूट-प्रणय-पेशलो]] लक्ष्यसे । किन्तु,  
+**मिथ्यादृष्टिः** — (*महाराजं कण्ठे गृहीत्वा*) महाराज ! [[दर्शनमात्रेण|दर्शन-मात्रेण]] [[चिरकालानुरूटप्रणय- पेशलो|चिरकालानुरूट-प्रणय-पेशलो]] लक्ष्यसे । किन्तु,  
 
 > [[चन्द्रदर्शनेमात्रेण|चन्द्र-दर्शन-मात्रेण]] [[चन्द्रकान्तशिलाऽपि|चन्द्रकान्त-शिलापि]] [[शत् ।|यत् ।]]  
 >    द्रवीभवति तत् पुंसि [[खिद्यति|स्विद्यति]] स्त्रीति [[नाद्भुतम्|नाद्भुतम्]] ॥ ९ ॥  
@@ -2262,7 +1725,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 **राजा** — (*सपुलकानन्दम्*) कृशोदरि ! [[किमिति ब्रवीमि !|किम् अन्यद् ब्रवीमि !]] [^22_3]  
 > आख्यातुं तव पारयामि न दशाम् अज्ञात-पूर्वाम् इमां  
 >    [[आभोगास्तन मण्डलैवितयवैराश्लिष्यमाणस्य|आभोग-स्तन-मण्डल-द्वितयेन आश्लिष्यमाणस्य]] वा ।  
-> आनन्दामृत-सागर-अन्तर् अधुना गाढं निमग्नी भवन्  
+> आनन्दामृत-सागरान्तर् अधुना गाढं निमग्नी भवन्  
 >    आत्मानं न च किञ्चिद् अन्यद् अथ वा [[जानाममहं|जानाम्य् अहम्]] प्रेयसि ! ॥ १५ ॥  
 
 **मिथ्यादृष्टिः** — देव ! सकल-कला-विदग्धा ; सङ्गीत-लास्ये च मे कौशलं दर्शयामि । तन् नाट्य-शालां प्रविशावः ।  
@@ -2286,7 +1749,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 **मिथ्यादृष्टिः** —  
 > होदि तुह वेदमौले कित्ती मुत्ताळदा व कण्ठगदा ।  
->    गाअन्तीणं महुरं [[मूषा|मुहा]] गन्धव्वराअकण्णाणम् ॥ १७ ॥  
+>    गान्तीणं महुरं [[मूषा|मुहा]] गन्धव्वराकण्णाणम् ॥ १७ ॥  
 > 
 > अविअ,  
 > कण्ठे हारळआ कवोळफळए कप्पूरपत्तावळी  
@@ -2549,7 +2012,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 **मायावादः** — (*सरोषम् अवलोक्य, साट्टहासम्*) [[प्रपञ्चमप्यलपसि|प्रपञ्चम् अपलपसि]] — इति, किं [[कन्यागर्भ मुद्रावयसि|कन्यागर्भं मुद्रायसि]] ! [^32_2] (*समन्ताद् अवलोक्य*) यदि धीमन्तः, सर्वे भवन्तः शृण्वन्तु —  
 > [[मानासिद्धयतु|मानात् सिद्ध्यतु]] सर्वम् एव भुवनं मानं तु सिद्ध्येत् कुतः ?  
 >    किं स्वेनैव [[तथाऽस्त्यु|तथास्तु]] तर्हि भुवनं मानेऽपि माने यदि ।  
-> हन्त ! [[स्याद्विश्वातिशयरमनो|स्याद् विश्व-अतिशय-रहितो]] मेयं च न स्याद् इति  
+> हन्त ! [[स्याद्विश्वातिशयरमनो|स्याद् विश्वातिशय-रहितो]] मेयं च न स्याद् इति  
 >    क्वासौ तिष्ठतु विश्वम् अत्र सकलं सत्यं ब्रुवाणो जडः ॥ ५ ॥  
 
 **यादवः** — (*विहस्य*) कुतोऽनवस्था ; तवापि हि स्वतःसिद्धैव संवित् ।  
@@ -2564,7 +2027,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 [[P33]]
 **भास्करः** — (*मायावादं प्रति सोल्लुण्ठम्*) सर्व-लोक-शास्त्र-साधारणीम् अपि प्रमाण-प्रमेय-पदवीं [[मपलपन्ते|अपलपन्]] चिराय गोपितम् अपि सर्वज्ञत्वम् उन्मीलयति ।  
 
-**यादवः** — भोः [[सर्वापलापिन्|सर्व-अपलापिन्]] ! प्रमाण-व्यवस्थां आहत्य यत् किञ्चित् साधयन्, त्वम् अपि यस्य कस्यचित् [[कस्यचित्किञ्चिद्वास्मि|किञ्चिद् वा वदसि ।]] (*सर्वे हसन्ति*)  
+**यादवः** — भोः [[सर्वापलापिन्|सर्वापलापिन्]] ! प्रमाण-व्यवस्थां आहत्य यत् किञ्चित् साधयन्, त्वम् अपि यस्य कस्यचित् [[कस्यचित्किञ्चिद्वास्मि|किञ्चिद् वा वदसि ।]] (*सर्वे हसन्ति*)  
 
 **मायावादः** — (*सक्रोधं [[भ्रुकुटीमुद्धलयन|भ्रुकुटीम् उद्धूलयन्]] भास्करम् अवलोक्य*) भो ! जाल्म ! जल्पतु नाम यादवो यत् किञ्चित् । किम् आथ रे कितव ! सर्वोपनिषद्-भ्यासेन सकल-वैदिक-शिरोन्नतस्य मे सर्वज्ञ-शब्देन पाषण्डत्वम् उद्भावयसि !  
 
@@ -2669,7 +2132,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 > यस् त्वां रक्षितवान् [[यथापुरलमुद्रणानूर्वीमयं|यथापुरम् उदरान्तर् ऊर्वीम् अयम्]]  
 >    स त्वां सम्प्रति [[पीड्यमानमनरैः|पीड्यमानम् इतरैः]] विष्णुः कथं [[म्रुप्यति|मृष्यति]] ? ॥ १५ ॥ [^40_1]  
 
-**मायावादः** — (*भास्कर-यादवाभ्यां सह ससम्भ्रमम् अभ्युत्थाय, ससँरम्भम्*) देव ! [[वैतालिकलीकवचनेन|वैतालिक-अलीक-वचनेन]] [[सम्यग्विप्रलब्धोऽसि|सम्यग् विप्रलब्धोऽसि ।]]  
+**मायावादः** — (*भास्कर-यादवाभ्यां सह ससम्भ्रमम् अभ्युत्थाय, ससँरम्भम्*) देव ! [[वैतालिकलीकवचनेन|वैतालिकालीक-वचनेन]] [[सम्यग्विप्रलब्धोऽसि|सम्यग् विप्रलब्धोऽसि ।]]  
 > विदग्ध-वेश्या-शैलूष-पाषण्ड-विट-वन्दिभिः ।  
 >    विप्रलब्धा विनश्यन्ति राजान इति नः श्रुतम् ॥ १६ ॥  
 
@@ -2751,7 +2214,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 **मायावादः** — (*सामर्षम्*) राजन् ! [[वैतालिकाभ्याम्लीकोक्तिविप्रलब्धः|वैतालिकाभ्याम् अलीकोक्ति-विप्रलब्धः]], किम् अस्मान् भिक्षून् परिभावयसि ?  
 
-**प्रियरङ्गः** — [[सर्वप्रपञ्चालीकवादिन्|सर्व-प्रपञ्च-अलीक-वादिन्]] ! किं ते सत्यम् अपि किञ्चिद् वचनम् अस्ति ?  
+**प्रियरङ्गः** — [[सर्वप्रपञ्चालीकवादिन्|सर्व-प्रपञ्चालीक-वादिन्]] ! किं ते सत्यम् अपि किञ्चिद् वचनम् अस्ति ?  
 
 **मायावादः** — (*स्वगतम्*) [[सकलराजकुलगोष्ठीसञ्चारचतुरयोरनयोः|सकल-राजकुल-गोष्ठी-सञ्चार-चतुरयोर् अनयोः]] उपच्छन्दनम् अन्तरेण न किञ्चिद् उत्तरं पश्यामि । (*प्रकाशम्*) वत्सौ ! युवयोः पाटवातिशयेन प्रीतोऽस्मि । युवां बालकौ वैतालिकौ सर्वैर् उपलालनीयाव् एव । [[युष्मद्गुरुन्तु|युष्मद्-गुरुं तु]] रामानुजस्योत्तरं अहं दास्यामि ।  
 
@@ -2819,13 +2282,13 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 **वैतालिकौ** — (*सहर्षम्*) [[मृत्यजनस्येयमेव|भृत्य-जनस्य अयम् एव]] खलु स्वामी । (*समन्ताद् अवलोक्य*) पश्य —  
 
 > [['प्राच्यालेम्यतुलां|प्रायः पत्रतुलां]] प्रयाति भुवनं स्प्रष्टुं तमः-कन्दलैः  
->    दृश्यन्ते [[प्रतिकर्मभिश्च|प्रतिकर्मभिस् च]] सुदृशो [[देहान्तगन्धा|देहाङ्ग-गन्धा]] इव ।  
+>    दृश्यन्ते [[प्रतिकर्मभिश्च|प्रतिकर्मभिश् च]] सुदृशो [[देहान्तगन्धा|देहाङ्ग-गन्धा]] इव ।  
 > [[गृहदीपकश्च|गृह-दीपाश्च]] विमला [[धीवन्महायोगिनाम्|धिय इव महायोगिनाम्]]  
 >    [[मन्योपास्तिमियं|सन्ध्योपास्तिम् इयं]] तनोति [[मुकुलव्याजाञ्जलिः|मुकुल-व्याजाञ्जलिः]] पद्मिनी ॥ २७ ॥  
 
 **राजा** — (*समन्ताद् अन्धकारं पश्यन्, साश्चर्यम्*)  
-> येन स्पष्टम् [[स्पष्टमदृष्टिगोचरतया|अदृष्टि-गोचरतया]] सत्ता-अतिरिक्तं जगत्  
->    मिथ्येति प्रतिभाति मिलितम् इतो [[भेदप्रपञ्चोद्रमः|भेद-प्रपञ्च-उद्गमः]] ।  
+> येन स्पष्टम् [[स्पष्टमदृष्टिगोचरतया|अदृष्टि-गोचरतया]] सत्तातिरिक्तं जगत्  
+>    मिथ्येति प्रतिभाति मिलितम् इतो [[भेदप्रपञ्चोद्रमः|भेद-प्रपञ्चोद्गमः]] ।  
 > [[आनन्दन् मुखमन्धकारमुदयीमज्ञानपारं परं|आनन्द-मुखम् अन्धकारम् उदयम् अज्ञान-पारं परं]] [^45_2]  
 >    अद्वैतस्य पिता, गुरुः, किम् अथवा, किं वा तद् एव स्वयम् ॥ २८ ॥  
 
@@ -2853,8 +2316,8 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 > संविन्मयं [[सकलतत्त्वविभूषणालं|सकल-तत्त्व-विभूषणाढ्यं]]  
 >    रूपं स्मरन् परमसाम्यम् उपैति विष्णोः ।  
-> [[अज्ञानदोषविरहादखिलैश्च|अज्ञान-दोष-विरहाद् अखिलैस् च]] भोगैः  
->    [[ज्ञानादिमङ्गलगुणैश्च|ज्ञानादि-मङ्गल-गुणैस् च]] भवत्य् अभेदी ॥ २ ॥  
+> [[अज्ञानदोषविरहादखिलैश्च|अज्ञान-दोष-विरहाद् अखिलैश् च]] भोगैः  
+>    [[ज्ञानादिमङ्गलगुणैश्च|ज्ञानादि-मङ्गल-गुणैश् च]] भवत्य् अभेदी ॥ २ ॥  
 
 (*पुरोऽवलोक्य*)  
 > [[सन्यासिनी समायात कषा|सन्न्यासिनी समायाति का एषा]] काषायधारिणी ।  
@@ -2885,7 +2348,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 **जनकः** —  
 > [[दयापन्नसार्वभौम सुर मेधासाकुलैः युन्नतैः|दयावन्-सार्वभौम-सुर-मेधा-सङ्कुलैः उन्नतैः]] ।  
->    [[मृगार्द्रान्तिकैरैलङ्कृतमुखाभाजा स्थिता वक्षसि ।|मृग-आर्द्रान्तिकैर् अलङ्कृत-मुखाभासा स्थिता वक्षसि ॥]]  
+>    [[मृगार्द्रान्तिकैरैलङ्कृतमुखाभाजा स्थिता वक्षसि ।|मृगार्द्रान्तिकैर् अलङ्कृत-मुखाभासा स्थिता वक्षसि ॥]]  
 > स्वच्छ-छायावति कौस्तुभे कृत-पदा पत्न्यन्तराशङ्कया ।  
 >    क्रीडा-पङ्कज-ताडिता [[प्रियनमा|प्रियतमा]] देवी प्रसन्नाऽस्तु ते ॥ ४ ॥  
 
@@ -2930,14 +2393,14 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 ---
 [[P49]]
-> [[अस्याश्च स्तनसङ्गिनीमिव|अस्यास् च स्तन-सङ्गिनीम् इव]] वहन्न् अङ्गेन कस्तूरिकां  
+> [[अस्याश्च स्तनसङ्गिनीमिव|अस्याश् च स्तन-सङ्गिनीम् इव]] वहन्न् अङ्गेन कस्तूरिकां  
 >    [[आश्लिष्यत्यमयादरेण|आश्लिष्यत्य् अमूम् आदरेण]] [^49_1] रजनीम् अर्धोन्मिषत्-तारकाम् ॥ ९ ॥  
 
 **यामुनः** — (*राजानं चक्षुषा निर्दिशन्, जनान्तिकम्*) अयम् इदानीम् इन्द्रियैः दूरम् उन्माद्यति ।  
 
-**रामानुजः** — एवम् अप्य् अस्य भवतु [[रागोत्पीडः|रागोत्पीडः]] । स कदाचित् स्थाने पतिष्यति । देवी सुमतिस् च [[किवदुत्सुका|किञ्चिद् उत्सुका]] तिष्ठति ।  
+**रामानुजः** — एवम् अप्य् अस्य भवतु [[रागोत्पीडः|रागोत्पीडः]] । स कदाचित् स्थाने पतिष्यति । देवी सुमतिश् च [[किवदुत्सुका|किञ्चिद् उत्सुका]] तिष्ठति ।  
 
-**यामुनः** — कथम् एतत् सम्भवति ? यद् एष [[सकललोकविप्रलम्भचतुरया|सकल-लोक-विप्रलम्भ-चतुरया]] [^49_2] [[मायाविलासिन्या|माया-विलासिन्या]] वशीकृतः, तया मुक्तोऽपि न तां मुञ्चति । तज् जानती सुमतिस् च मानवती तं न गणयति ।  
+**यामुनः** — कथम् एतत् सम्भवति ? यद् एष [[सकललोकविप्रलम्भचतुरया|सकल-लोक-विप्रलम्भ-चतुरया]] [^49_2] [[मायाविलासिन्या|माया-विलासिन्या]] वशीकृतः, तया मुक्तोऽपि न तां मुञ्चति । तज् जानती सुमतिश् च मानवती तं न गणयति ।  
 
 **यतिराजः** — तत् तथैव ; तथापि, [[मद्दर्शितसूतमागानुसारिणी|मद्-दर्शित-सूत-मार्गानुसारिणी]] सुनीतिः, [^49_3] [[व्याजकलुषितौ|व्याज-कलुषितौ]] तौ संयोजितुं प्रभवति ।  
 
@@ -3056,7 +2519,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 (श्रुतिम् अभिनीय) किम् एतत् कल-शिञ्जितको ऽपि शब्दः कर्ण-विवरम् आह्लादयति? (विमृश्य सहर्षम्) मुखर-मञ्जीरा देवी समागता स्यात्।  
 (ततः प्रविशति सुनीतिम् अंसे गृहीत्वा [[गीनयाऽनुगम्यमाना|गीतया ऽनुगम्यमाना]] सुमतिः)
 
-**सुम** — हळा! अञ्ज उंत्तंस (इत्य् अर्ध-उक्ते)
+**सुम** — हळा! अञ्ज उंत्तंस (इत्य् अर्धोक्ते)
 
 **गीता** — (सभयम्) देवि! विरम, विरम। सुमतिर् अपि किं भरत-शापं विस्मरसि ।
 
@@ -3238,7 +2701,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 **शङ्क** — (सरोषं पश्यन्) को ऽयं रामानुजो नाम?
 
-**सद्-दू** — यच्-शिष्यो ऽहम् अस्मि।
+**सद्-दू** — यच्-छिष्यो ऽहम् अस्मि।
 
 **शङ्क** — तम् एव वेदितुम् इच्छामि।
 
@@ -3504,7 +2967,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 [^68_3]: अपवार्य - पा०
 [^68_4]: दिशति -- गा०
 
-**शङ्क** — (सविषादम्) किं कुर्मः; संप्रति धार्ष्ट्यम् एव नस् शरणम् अस्तु, जातयः प्रयुज्यन्ताम्।
+**शङ्क** — (सविषादम्) किं कुर्मः; संप्रति धार्ष्ट्यम् एव नश् शरणम् अस्तु, जातयः प्रयुज्यन्ताम्।
 
 ---
 
@@ -3608,7 +3071,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 [^71_1]: शिखोपवीतत्यागो हि - पा०
 [^71_2]: कृतः प्रागेव - पा०
 
-पश्चाद् अपि एवंविधान् यतीन् इन्द्रस् शालावकेभ्यः प्रयच्छति।
+पश्चाद् अपि एवंविधान् यतीन् इन्द्रश् शालावकेभ्यः प्रयच्छति।
 
 **शङ्क** — भगवन् पराङ्कुश! महाद्वैत-पातिन् विष्णु-भक्तो ऽसि; सो ऽहं भावनातिशयेन जीवन्-मुक्तो मुकुन्द एव; मयि न पापं कर्तुम् अर्हसि।
 
@@ -3700,13 +3163,13 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 
 **शिष्यः** —  
 > ब्रह्मैकं तत्त्वम् एतद् बहुविध-चिद्-अचिच्-चित्त-नियन्तृ-प्रभेदात्  
-> तत्तच्-शक्ति-स्वरूपं परिणमति यथा वारि-फेनादि-रूपम् ।  
+> तत्तच्-छक्ति-स्वरूपं परिणमति यथा वारि-फेनादि-रूपम् ।  
 > [[सत्त्वं|तत्त्वं]][^73_1] सर्वानुवृत्तं मणिषु परिमल-न्यायतो ऽचित्-पदार्थे  
 > चैतन्यं स्वप्रकाशं श्रुतिरिह विषये स्थापिता यादवेन ॥  
 
 [^73_1]: तत्त्वम् - पा०
 
-**याद्** — अस्यायम् अर्थः—सच्चिदानन्दमयं ब्रह्मैव तत्त्वम्; तच्च तत्तच्-शक्ति-मय-भोक्तृ-भोग्य-नियन्तृ-रूपेण परिणमति; यथा फेन-बुद्बुद-तरङ्ग-रूपेण वारि; कारण-भूतं ब्रह्म, गुणः चैतन्यं रत्न-गन्ध-न्यायेन क्वचिद् अचिद्-वस्तुनि विद्यमानम् अपि न प्रकाशते; कारणात्मना सर्वम् अभिन्नम्, कार्यात्मना च सर्वं भिन्नम्, यथा घट-शरावादि। भेदाभेद-श्रुतयश् च अस्मिन्न् अर्थे व्यवस्थाप्यन्ते।
+**याद्** — अस्यायम् अर्थः—सच्चिदानन्दमयं ब्रह्मैव तत्त्वम्; तच्च तत्तच्-छक्ति-मय-भोक्तृ-भोग्य-नियन्तृ-रूपेण परिणमति; यथा फेन-बुद्बुद-तरङ्ग-रूपेण वारि; कारण-भूतं ब्रह्म, गुणः चैतन्यं रत्न-गन्ध-न्यायेन क्वचिद् अचिद्-वस्तुनि विद्यमानम् अपि न प्रकाशते; कारणात्मना सर्वम् अभिन्नम्, कार्यात्मना च सर्वं भिन्नम्, यथा घट-शरावादि। भेदाभेद-श्रुतयश् च अस्मिन्न् अर्थे व्यवस्थाप्यन्ते।
 
 **सदू** — (विहस्य साट्टहासम्) किम् एवं महा-राज-विषयं, मन्त्रीश्वर! विप्लवयसि।  
 निर्विकार-श्रुतेर् ब्रह्म सविकारं न मृष्यति ।  
@@ -3890,7 +3353,7 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 **सुतर्कः** — (विमृश्य)  
 
 > हा कष्टं किम् अनेन चेष्टितम् अभूद् अस्मद्-दृशाम् अग्रणीः  
-> किं वा बुद्ध-सुबुद्धिर् अपि वृथाआचारो विचारोज्झितः ।  
+> किं वा बुद्ध-सुबुद्धिर् अपि वृथाचारो विचारोज्झितः ।  
 > सर्वज्ञो ऽपि शताध्वरो ऽपि कुहना-शास्त्रान्धकूपे [[नरान्|जनान्]][^78_1]  
 > अन्धान् एवम् अहो! निपात्य नरकावर्ते न वर्तेत कः? ॥ ४ ॥  
 
@@ -3957,3 +3420,2610 @@ the leading incidents in the life of Srimath Ramanuja Acharya. — इति ।
 **कञ्चु** — देव, पञ्चमं वेदं पुरस्कृत्य वेद-विचारो द्वारि तिष्ठति।
 
 **राजा** — (अश्रावणं नाटयति)
+
+
+
+[[P80]]
+यतिराजविजय-नाटकम्
+
+यति — देव ! प्रसादः क्रियताम् ।
+
+राजा — मायावाद-वाक्याद् विदितम् अस्य दौरात्म्यम् ।
+
+यति — देव ! विश्व-मृषावादि-वचने किं सत्यम् अपि [[किञ्चिद्देवेषयसि|किञ्चिद् द्वेषयसि]] ; स्व-वचनम् अपि मृषेति हि स प्रलपति । इतिहास-पुराण-वशवर्ती देवस्य स भृत्य एव ।
+
+राजा — (सुनीति-मुखं पश्यति)
+
+सुनी — देव ! मूल-मन्त्र-वचनं प्रमाणयितव्यम् एव ।
+
+यति — पञ्चमो वेदः प्रमाणयितव्यः ।
+
+राजा — यथा रोचते अमात्याय ।
+
+(कञ्चुकी निष्क्रान्तः)
+
+(ततः प्रविशति भारतं पुराणं च पुरस्कृत्य वेदविचारः)
+
+वेदविचारः — (स-भयम्) भारत ! दुष्ट-मन्त्रि-वचन-जनित-विरोधं महाराजं कथं पश्यामि ?
+
+इतिहास — तत् तिष्ठतु, विधि-प्रियो ऽपि [^80_1][[किम्अस्सत्सुहृदं|किम् अस्मत्-सुहृदं]] [^80_2]परमार्थ-वादम् अप्रमाणी-कुर्वन् राजानं प्रकोपयसि ?
+
+> मन्त्र-ब्राह्मण-देवता-परतया मान्यो विधेर् अप्य् अयं  
+> तस्मिंस् तद्-गुण-वर्णनैः प्रवणयत्य् अत्यद्भुतैर् यो जनान् ।  
+> दूरस्थे ऽपि विधाव् अनन्य-सुलभैर् अर्थैर् अलं प्रीणयन्  
+> राजानं विधि-निर्विशेषम् अमुना सम्माननीयस् त्वया ॥  
+
+[^80_1]: ‘[[किमस्सत्सुहृदं|किम् अस्मत्-सुहृदम्]]’ इत्य् आरभ्य, ‘तत एव लभन्ते’ इत्य् एतद्-अन्तस्य स्थाने, अयं पाठः क्वचिद् उपलभ्यते —  
+किम् महा-मन्त्रिणम् अर्थ-शास्त्रम् अर्थ-हितं कृत्वा प्रकोपयसि ?  
+अर्थ-प्रधानं राजानम् अपूर्वार्थेन तोषयन् ।  
+मन्त्री मानयितव्यो ऽयं [[विधिश्चैवतापतः|विधिश्च देवतापरः]] ॥  
+अग्नीन्द्रादि-देवता-मुखेन प्रीतस् सर्व-शेषी सर्वान्तरात्मा देवता-मुखेन यज्ञादिकं गृह्णाति । तद् वयं प्रमाणी-कृत्य — इति ।
+[^80_2]: देवता-वैभव-परमार्थ-वादम् — पा० ।
+
+---
+
+[[P81]]
+षष्ठो ऽङ्कः
+
+तथा सति,
+
+> ये यजन्ति [[पितृन्|पितॄन्]] देवान् ब्राह्मणान् स-हुताशनान् ।  
+> सर्व-भूतान्तरात्मानं विष्णुम् एव यजन्ति ते ॥  
+
+फलं च तत एव लभन्ते — इति, मद्वचने तिष्ठन्ते न किञ्चित् [[किञ्चित्किञ्चिद्वयमस्ति|किञ्चिद् भयम् अस्ति]] ।
+
+वेदवि — बाढम्, सम्यग् उपदिष्टो ऽस्मि ; न केवलं मन्त्रार्थाद् ध्यानादि-विधि-विषयतया विधेर् अन्यथा ऽनुपत्त्या च तद्-गत ईश्वरः स-विभूतिकस् सिद्ध एव ; अपि तु, ‘[^81_1]कर्माराध्य-विष्णु-वैभव-ज्ञान-शून्यानां कर्माणि श्रद्धा-जननाय तद्-वैभवम् उच्यते ।
+
+इतिहा — यथा-धिकारं प्राणि-रक्षणं भगवद्-अभिमतम् एव ।
+
+[^81_2][वेदवि — मदभिसंमतम् एव एतत् ।]
+
+इतिहा — (पुरो ऽवलोक्य, सानन्दम्)
+
+> अमन्द्यस्त-कलाचिकाधिवसत्-न्यायामपीठ-स्थली-  
+> म् आधूतामल-चामरः श्रुति-वधू-हस्तैः कणत्-कङ्कणैः ।  
+> अन्वास्यो ऽयम् अनादि-कर्म-विवशै [^81_3]र् आब्रह्म-कीटं जनैः  
+> आस्ते स-स्मितम् आशु मोक्ष-पदवीः शृण्वन् शुकोक्ताः कथाः ॥  
+
+किञ्च,
+
+> कलार्चीं शृङ्गारं कनक-मुकुरं चामर-लतां  
+> पताकां यच् चान्यत् कलम् इदम् आदाय चतुराः ।  
+> [^81_4][[झलकुर्वन्सर्वाभरणमपीयाञ्जलतिका|अलङ्कुर्वन् सर्वाभरणम् अपि या अञ्जलि-लतिका]]  
+> भजन्त्व् एतां देवीं पर-दहर-विद्या-प्रभृतयः ॥  
+
+पुराणम् — (सहर्षम्) सुनीति-प्रेरितो ऽस्मान् देवः पश्यति । तत्, प्रणामः क्रियताम् ।
+
+[^81_1]: कर्मन्तराराध्य — पा० ।
+[^81_2]: कुण्डलितो भागः: अधिकः पाठः ।
+[^81_3]: आब्रह्मरुद्रं जनैः — पा० ।
+[^81_4]: अलङ्कुर्वत् — पा० ।
+
+---
+
+[[P82]]
+यतिराजविजय-नाटकम्
+
+वे. वि. — [^82_1](तथा करोति)
+
+सुनी — देव ! सहस्र-वक्त्र-प्रवृत्त-क्रमो ऽयम् अर्जुन इव रामानुज-मते तिष्ठन् प्रतिज्ञात-वैदिक-कुल-पालन-प्रवृत्तोत्क्रान्त-विक्रमो महाभारत-करण-समर्थो भवति देवस्य ।
+
+राजा — (सादरं पश्यति)
+
+यति — देव ! भवद्-एकार्थो धर्म-प्रायो ऽयं त्रैवर्णिक-रक्षाधिकारे नियोक्तव्यः ; त्रैवर्णिका अपि कालेन धर्म-द्वारा [[देवयज्वानिष्यन्ति|देवयज्वानो भविष्यन्ति]] । [[आता अयं|अतो ऽयं]] देवस्य युवराज-पदे निवेश्य, बौद्धादि-विजयाय पूर्व-प्रस्थितेन तन्त्र-पालेन सह प्रस्थापनीयः ।
+
+राजा — तथा क्रियताम् ।
+
+वेदवि — यद् आज्ञापयति देवः । (इति निष्क्रान्तः)
+
+यति — (पुराणम् इतिहासम् च पश्यन् स-बहुमानम्)
+
+> [^82_2]विविध-चिद्-अचिदीश्वर-तल्-लीला-भोग-मोक्ष-तद्-उपायैः ।  
+> उपबृंहिता युवाभ्याम् उपभुज्यन्ते हि सद्-विद्यार्थाः ॥  
+
+पुरा — (इतिहास-मुखं पश्यति)
+
+यति — (स्मितं कृत्वा) कथ्यताम् इतिहास ! [^82_3]भवन्-मुखेनैव खलु पुराण-वचांसि निस्सरन्ति ।
+
+इतिहा — यतिराज ! महाराज-सौभाग्यं कथङ्कारं वर्णयामि ?
+
+> क्षेत्रेषु न को ऽपि वेत्ति विहितं भूमादि-मार्गं तृणैः  
+> [[याग्यं|योग्यं]], किं पुनर् अचिरादिम् ; अमुना वैकुण्ठ-वर्त्मन्य् अपि ।  
+> पान्थ-प्रीति-परावहि-ककुन्-न्यासादि-पन्थावली-  
+> [[ज्ञायोलोचमृलोपचारसुभगा|छाया-लोल-मृदोपचार-सुभगा]] जाता [[पुरीसञ्जिभा|पुरी-सञ्ज्ञिता]] ॥  
+
+[^82_1]: प्रणमति — पा० ।
+[^82_2]: विविध — पा० ।
+[^82_3]: भवद्रूपाम् — पा० ।
+
+---
+
+[[P83]]
+षष्ठो ऽङ्कः
+
+यति — (सहर्षम्) एतत् सर्वं युष्मद्-अनुशासन-फलम् एव ; [[भवद्भूयामपि|भवद्भ्याम् अपि]] स्वाधिकारे जाग्रद्भ्यां भवितव्यम् ।
+
+इतिहासपुराणे — तथा । (इति निष्क्रान्ते)
+
+(ततः प्रविशति धर्मशास्त्रम्)
+
+धर्म — (राजानं प्रणमति)
+
+यति — देव, धर्माधिकारिणि क्रियतां प्रसादः ।
+
+राजा — (कटाक्षेण पश्यति)
+
+यति — भद्र, राजाज्ञां पुरस्कृत्य भवता धर्माधिकारः कर्तव्यः ।
+
+धर्म — महान् अयं प्रसादः । ([[निष्क्रान्तम्|इति निष्क्रान्तः]])
+
+(प्रविश्य शब्दो राजानं प्रणमति)
+
+यति — [^83_1][[स्फोव्याधिविनिर्मुक्तोऽयं|स्फोट-व्याधि-विनिर्मुक्तो ऽयं]], देवस्य प्रकृति-प्रत्यय-बलेन सर्वत्र स-गुण-प्रियत्वं प्रकाशयन्, देवस्य पाद-सेवा कर्तुम् अर्हति ।
+
+शब्द — कृतार्थो ऽस्मि । (इति निष्क्रान्तः)
+
+यति — (विमृश्य) प्रत्यक्षम् अनुवर्तमानश् चार्वाको ऽनुमानेन जेतव्यः । अनुमानम् अनुवर्तमानो बौद्धः प्रत्यक्षेण जेतव्यः ।
+
+सुनी — सम्यग् उक्तम् ।
+
+राजा — (किमपि चिन्तयन् सोत्कण्ठं तिष्ठति)
+
+सुमतिः — हा ! धिक्, माया-विलासिनीं पुनर् अपि चिन्तयन्न् इव प्रतिभाति !
+
+यति — (ससम्भ्रमम्) (स्वगतम्) हन्त ! किं मयि नीति-विप्लवो दृष्टस् स्यात् ।
+
+राजा — (किञ्चिद् विहस्य)
+
+> सुमति-निरहितो न वेद्मि किञ्चित  
+> [^83_2]सुखम् असुलभं प्रभवामि नात्मनो ऽपि ।  
+
+[^83_1]: स्फोकव्याधि — पा० ।
+[^83_2]: सुखमपि च — गा० ।
+
+---
+
+[[P84]]
+यतिराजविजय-नाटकम्
+
+> मम दृशम् अथवा ममात्मसत्ताम्  
+> किमपि न जीवितुम् उत्सहाम्य् अपश्यन् ॥  
+
+यति — (सहर्षम्) [[समाधस्तोऽस्मि|समाश्वस्तो ऽस्मि]] ।
+
+सुम — (स्मितं करोति)
+
+सुनी — (सस्मितम्) देव, किम् अत्र [^84_1]पारितोषिकम्, इहैव देवीं दर्शयामि ।
+
+राजा — किम् अन्यत् ; त्वत्-सखीम् एतां सर्व-विषय-स्वामिनीं कृत्वा, तच्-छेषो भवामि ।
+
+सुनी — स-स्मितं दृशैव दर्शयति ।
+
+राजा — (पार्श्वम् अवलोक्य, सानन्दम्) किं चामर-ग्राहिणीषु अन्यतमा मज्-जीवित-कला तिष्ठति !
+
+यति — तद् उन्नीयते खलु तस्याश् चामर-ग्रहेण ।
+
+राजा — (हस्ते [^84_2]गृहीत्वा, सुमतिम् आसन-मध्ये निवेशयन् वदनम् उन्नमय्य) कथय कलालापिनि !
+
+> गच्छन्त्या सह मां विहाय सकलं किं देवि ! नीतं त्वया  
+> किं वा नष्टम् इदं न वेद्मि भुवने किञ्चिन् न दृष्टं मया ।  
+> दृश्यन्ते विषया यथा-पुरम् अमी त्वय्य् आगतायां जगत्  
+> सञ्जातं नु सहागतं नु यदि वा किं चक्षुर् आसीन् मम ? ॥  
+
+यति — देवि, किम् अत्र विचारेण ? सुमतिर् एव हि तत्त्व-दर्शिनस् ते चक्षुः ।
+
+सुनी — विस्फारितम् अपि [[क्रियिष्यति|किं करिष्यति]] प्राकृतं चक्षुः ?
+
+> यत् पञ्चोपनिषन्मयं पदम् इह प्रत्यञ्चि यानि स्वयं  
+> ज्योतींषि त्रि-विधानि यानि च तमो-भाञ्जि प्रतीपानि च ।  
+
+[^84_1]: किमस्ति — गा० ।
+[^84_2]: हस्तेन — पा० ।
+
+
+
+[[P85]]
+षष्ठो ऽङ्कः
+
+यत् [^85_1][[सर्गप्रतिसञ्चरादि|सर्ग-प्रतिसञ्चरादि]] सकलं तत्त्वेन गृह्णाति यत्  
+तच् चक्षुर् मतिर् एव काच-गुलिका-भेदः परं प्राकृतम् ॥  
+
+राजा — सुनीतिं विना कः पुनर् एवं विवेचयति ; (सुमतिं पश्यन्) चारुहासिनि, सत्यम् एव ते कथयामि ।
+
+> सर्वज्ञो ऽहम् अपि स्वयैव विषये राजा त्वदीयैर् अहं  
+> प्रख्यातो ऽस्मि भवत्-प्रसाद-कलया मानाधिको ऽसाव् इति ।  
+> विद्या-रूपिणि विश्व-विस्मय-निधे ! मुक्तेश् च [[दानास्म्यहं|दातास्म्य् अहम्]]  
+> मन्ये मानिनि, किं ब्रवीमि सुमति ! मज्-जीवितं च त्वयि ॥  
+
+सुनी — (स्मृतिम् अभिनीय) देवि, भर्तृ-वल्लभे, सम्प्रति हि सत्य-वचनासि ।
+
+सुम — (स्मितं कृत्वा) देव, राज-महिषी राज्ञी किं न भवति ?
+
+> कालस् तद्-विशानि सप्त-भुवनान्त्येषु स्थिताः प्राणिनः  
+> तत्-कर्माणि च तत्-फलं गुणमयी माया जगद्-रूपिणी ।  
+> [^85_2]माया-सीम्प्य्-अजण्डं पदं तद् इह च ज्योतिः परं श्यामलम्  
+> [[द्येतद्द्रोगसपीतयश्च|ये तद्-राग-सपीतयश् च]] कवयः सर्वे ममासीत् त्वया ॥  
+
+राजा — प्रेयसि ! ममापि सर्वम् इदं त्वम् एव । (इति तां कपोलयोर् उपाघ्रातुम् इच्छति)
+
+देवी — (यतिराजं विलोक्य, स-स्मितम्, वदनम् अपनयन्ती) कान्त ! विरक्त-सन्निधौ किं माम् एवं व्रीळयसि ?
+
+राजा — (स-खेदम्)
+
+> अस्मत्-केलि-रहस्य-[^85_3]बन्धुर् अमलाम् आनन्द-संविन्-मयीम्  
+> मुक्तैकावलि-शोभिनीम् अनुभवन् मुक्तिं रहस् त्वत्-सखीम् ।  
+
+[^85_1]: प्रतिसर्गकादिसकलम् — पा० ।
+[^85_2]: माया-सीम्य्-अज-सम्पद्-अन्तरहित ज्योतिः — पा० ।
+[^85_3]: केळिरसस्य बन्धुः — पा० ।
+
+---
+
+[[P86]]
+यतिराजविजयम्—नाटकम्
+
+> [^86_1]रागी वेत्ति च राग-कृत्त्व-मयो रामानुजो ऽप्य् आवयोः  
+> निर्देश्यम् इदं मुखं मम कराक्रष्टुं न युक्तं त्वया ॥  
+
+सुनी — देव ! [[सहजविजशालिन्यः|सहज-विभव-शालिन्यः]] खलु विलासिन्यः ! (विमृश्य) भगवन्, यतिराज ! भुक्ति-मुक्ति-सौभाग्य-निकषोपलो भवान् एव तयोर् वैषम्यं विवृणोतु ।
+
+यति — (विहस्य) [[आनन्दवत्त्व्यैव तुल्या विधुमेतत्|आनन्द-वत्त्वेनैव तुल्या विदुः एतत्]], तथाहि —
+
+> परब्रह्मास्वाद-प्रसृमर-महानन्द-लहरी  
+> विहारी मुक्तो ऽयं [^86_2]विमलरस-संविन्-मय-वपुः ।  
+> पदं तन् माहेन्द्रं पशुपति-विभूतिं च महतीं  
+> प्रभुत्वं वैशालं प्रसृति-परिमेयं कलयति ॥  
+
+राजा — अस्मद्-अमात्य-वचनं सुनीति-हृदयं किम् अनुरञ्जयति ?
+
+सुनी — देव, कथम् अन्यथा ऽहं सुनीतिः स्याम् ?
+
+यति — तत्त्वतो निरूपणे प्रसृतिर् अपि दुःखम् एव ।
+
+> पीड्यमाना हि रक्ष्यन्ते ब्रह्म-रुद्रेन्द्र-सम्पदः ।  
+> हरिणा भक्त-वश्येन हन्त ! किं कुर्महे परैः ? ॥  
+
+किञ्च,
+
+> मूर्तैस् तन्-मय-देहम् एव पुरुषः [^86_3][[पुष्यन्नहं|पुष्णन्न् अहम्]] भोगवान्  
+> इत्य् उन्मज्जति दुःख-सिन्धु-कुहरे मज्जन्न् अपि स्वात्मनि ।  
+
+(विचिन्तयन्, विहस्य)
+
+> शुद्ध-ज्ञान-सुखात्मको ऽप्य् अनुभवंस् त्व् [[त्वप्यथं|अयम्]] मूढ-धीः  
+> मांसासृग्-बल-मूत्र-पूय-भरितां भस्त्रीं [[वरलीति|वर-स्त्रीति]] च ॥  
+
+[^86_1]: वाञ्छति राग-वृत्तिम — गा० ।
+[^86_2]: विमल-सुख-संविन्-मय — पा० ।
+[^86_3]: पुष्णन् — पा० ।
+
+---
+
+[[P87]]
+षष्ठो ऽङ्कः
+
+राजा — अयम् अपि कश्चित् ।
+
+सुम — (विहस्य) भगवन्, किम् एवं स्त्री-शरीरं निन्दसि ?
+
+सुनी — भगवल्-लीला जन्तून् किं किं न कारयति ?
+
+राजा — अपरस्तु,
+
+> ध्यायन् सत्यम् अनन्तम् अन्तर-जडं ब्रह्मारविन्देक्षणं  
+> [^87_1][[निष्कम्प्यास्य|निष्कम्प्य् अस्य]] सुषुम्नयैव कृपया निर्धूत-माया-तुषः [^87_2] ।  
+> विष्णोस् तत्-पदम् एत्य तत्र परमे व्योम्नि स्वयं-विद् स्वराड्  
+> भुङ्क्ते तेन विपश्चिता सह महानन्दान् अनन्तान् बुधः ॥  
+
+सुनी — एवं सति, लीला, दया वा वासुदेवस्य का वल्लभा भवति ?
+
+राजा — (सस्मितम्) तद् इदं यतिराज एव विवृणोतु ।
+
+यति — देव एव वासुदेव-हृदयं जानाति, न सुमतिः ।
+
+राजा — (सुमतिम् अवलोकयति)
+
+सुम — देवस्य हृदयं च मूल-मन्त्री यतिराज एव जानाति ।
+
+यति — (विहस्य) तर्हि, सुनीतिर् एवावधारयतु ।
+
+> प्रगल्भेयम् लीला-परवश-[^87_3]यतीशं बहु-विधैः  
+> प्रकृत्याकृष्टात्म-प्रणय-परिहासैस् तद्-अपि सः ।  
+> परं तद्-दाक्षिण्यात् सुकृतम् इति किञ्चिद् व्यपदिशन्  
+> दया-वश्यो देवः [^87_4]त्रिगुण-निगळं न त्रुट्यति ॥  
+
+[^87_1]: निष्कम्प्याशु — पा० ।
+[^87_2]: मायामलः — गा० ।
+[^87_3]: यतिस्वामिनममुम्, विलासैरुद्रद्रैर्विशधनिजभूत्यै स्तवपि सः । — पा० ।
+[^87_4]: निगळान् त्रुञ्चति नरान् — पा० ।
+
+---
+
+[[P88]]
+यतिराजविजयम्—नाटकम्
+
+सुम — (स्मितं कृत्वा) षोडश-सहस्रावरोध-सीमन्तिनी-जन-रञ्जन-चतुरो ऽयं धूर्त-चूडा-मणिः किम् अत्र परिमुह्यति ?
+
+सुनी — (सानन्दम्) क्रीडन्न् एव हि केशवः सर्वात्मनो रक्षति ।
+
+राजा — 
+
+> यः प्रत्यञ्चि सृजन् पराञ्चि च महा-भूतानि रक्षन् हरन्  
+> क्रीडत्य् अद्भुत-दिव्य-मङ्गल-गुणः श्रीमान् अनादिः पुमान् ।  
+> सर्वं कर्तुम् अकर्तुम् अप्य् अन्यथा कर्तुं समर्थो ऽपि सन्  
+> व्याजं किञ्चिद् अपेक्ष्य रक्षति [[व्यवस्याकरः|जगद्-विश्व-व्यवस्थाकरः]] ॥  
+
+(विचिन्त्य)
+
+> [[मन्मैयाजकृताखिलात्मनिवहक्लेशायोवस्फुरद्|मन्-माया-ज-कृता-खिलात्म-निवह-क्लेशावबोध-स्फुरद्-]]  
+> पश्चात्ताप-कृपा-विमोचन-जगज्-जन्मादि-लीला-दरम् ।  
+> [[भोगैकरप्रवणं|भोगैक-रस-प्रवणं]] विधास्यति परं ब्रह्मा ऽपि दत्ताभयो  
+> भूतेभ्यो यतिराज एष इति मे चेतस्य् अभून् निश्चयः ॥  
+
+किञ्च,
+
+> सत्याशेष-जडान्तरैक-[[जङ्गदेही|जगद्-देही]] “ [[बहुस्या|बहु स्याम्]] ” इति  
+> स्वेच्छातौ बहुधा भवन्न् अपि न तद्-दोषेण लिप्येत सः ।  
+> तत्तच्छब्द-धियाम् अयं तद्-अपृथक्-सिद्धयैव विश्रान्ति-भूः  
+> देहात्मादि-नयेन येन सुप्रथा भेदैक-वाचो गताः ॥  
+
+यति — (स-परितोषम्) [^88_1]‘सर्वेश्वर-मङ्गल-मयस्य ते किम् अन्यत् कथयामि ?
+
+> [[देहाक्षादिविलक्षणोऽप्युरजडो|देहाक्षादि-विलक्षणो ऽप्य् अनुजडो]] नित्यो ऽहम्-अर्थो ऽमल  
+> ज्ञानान्दमयो ऽप्य् अतन्-मय इव भ्राम्यत्य् अविद्या-वृतः ।  
+> पञ्च-क्लेश-विपाक-पावक-शिखा-लीढस्य तस्यात्मनो  
+> निर्वाणाय निसर्ग-सौहृद-निधे ! नान्या गतिस् त्वं विना ॥  
+
+[^88_1]: सकल-मङ्गल-मयस्य — पा० ।
+
+---
+
+[[P89]]
+षष्ठो ऽङ्कः
+
+राजा — (विमृश्य स्मितं कृत्वा) [[सर्वमस्समुज्जीवनधुरस्य|सर्व-सत्त्व-समुज्जीवन-धुरस्य]] भवतो नान्यत् सदृशं पश्यामि । (इति त्रयम् अपि तद् एव पद्यं पठति)
+
+सुम, सुनी — (विहस्य, अन्योन्यं पाणिना पाणिम् आलम्भयन्तौ)  
+राजामात्ययोः परस्पर-निशायी प्रणय-बहुमान-पेशलः सल्लापः ।
+
+राजा — (सुमति-सुनीती पश्यन्) मय्य् एव युवयोर् उपदिशामि ।
+
+> सर्वज्ञो न न वेद नम्य-करुणा-शेषापेक्षा कुतः  
+> सर्वेशः किम् असौ न शक्ष्यति परित्रातुं तथापि प्रभुः ।  
+> सर्वान् रक्षति [[यत्कटाक्षक्षणिकपिक्षी|यत्-कटाक्ष-क्षणिक-प्रेक्षी]] नरान् उद्धरन्  
+> संसाराम्बुनिधेः स एव हि गुरुः सर्वोत्तरं दैवतम् ॥  
+
+यति — देव ! भवत्-पाद-सेवा कस्य वा गौरवं नापादयति ?
+
+उभे — (स-प्रश्रयम्) देव ! [[भवन्मन्तरेण|भवन्तम् अन्तरेण]] को वा तत्त्वम् उपदिशति ?
+
+यति — (स्पर्शम् अभिनेय)
+
+> वाताः के ऽपि वहन्ति सन्तत-वहत्-कल्लोल-कोलाहलद्-  
+> ग्रामा राम-कवेरजा-तरु-वरी-क्रीडा-निरूढादराः ।  
+> श्रीरङ्गधाम-रहसज्जननी-दृशामन्त-सीमन्तनी-  
+> [[कुसुति काधूली|कर्णाकल्पितकल्पवृक्षकुसुम-धूली-मधूली-मुचः]] ॥  
+
+(नेपथ्ये)
+
+जय जय महाराज ! विजयस्व ।
+
+> [^89_1][^89_2]चार्वाक-शैव-शाक्य-क्षणिक-कणभुक्-साङ्ख्य-योगाक्षपादाः  
+> भग्नाः स्व-तन्त्र-पालैः प्रति-दिशम् अगमन्न् [[आसि काच्छेद्खिन्नाः|नासिका-च्छेद-खिन्नाः]] ।  
+> लून-श्रुत्यन्त्य-तन्-मुखम् अशुभम् इति त्यक्त-दर्शनैर् न  
+> प्रीत्यालोकेन दृष्टा वयम् अपि विलसच्-छास्त्र-शस्त्रा निवृत्ताः ॥  
+
+(सर्वे श्रुत्वा हर्षं नाटयन्ति)
+
+[^89_1]: सर्व-ज्ञान-निधिश्च तस्य — पा० ।
+[^89_2]: चत्वार — पा० ।
+
+
+
+[[P90]]
+यतिराजविजयम्—नाटकम्
+
+(पुनर्नेपथ्ये)
+
+> षडङ्गोपेत-वक्त्र-कट-[[षडङ्गोपेतवक्त्रकटप्रटुलिम्बमानिनदे|प्रसृति-मन्-मन्द-निनादे]]  
+> वितण्डा-कण्डूल-प्रनिकथक-जिह्वा-कलकलः ।  
+> अमग्नो ऽप्य् आसीत् तन्-मुकुट-तट-कुट्टाक-चरण-  
+> [[ववणरन्त्सेनानीमणिकटककेलीचुलकितः|क्वणद्-रङ्ग-सेनानी-मणि-कटक-केली-चुलकितः]] ॥  
+
+(प्रविश्य)
+
+सेनापतिः — देव ! दिग्विजयोत्सवः क्रियताम् ।
+
+> [^90_1][[क्रुद्रहद्वयगदास्फोटकोटीभवत्-|क्रुद्ध-द्वय-गदा-स्फोट-कोटी-भवत्-]]  
+> [[भयदुतद्रवदहकुर्वाणदुर्वादुकः|तर्कातर्किक-भय-द्रुत-द्रवद्-अहह-कुर्वाण-दुर्वादुकः]] ।  
+> प्राप्तो ऽयं तव तन्त्र-पाल-निवहः क्षीरोद-नीरोदर-  
+> [[धुराधिक्यारढङ्कारवः|भ्राम्यन्-मन्दर-कन्दर-ध्वनि-धुराधिक्य-रढङ्कारवः]] ॥  
+
+राजा — (स-परितोषम्) विजय-प्रकारम् आवेदय ।
+
+सेना — देव ! [[कृते मति|कृते सति]] कर्तव्ये, किं करण-निरूपणेन !
+
+सुनीतिः — (पुरो ऽवलेख्य) सर्वम् एतद् उच्चीय [^90_2][[सर्वैज्ञ|सर्वज्ञ]]-नामात्येन प्रागेव प्रवर्तितो ऽयम् उत्सवः । पश्य ! पश्य !
+
+> श्रीमद्-बल-परिस्कृतैः पुरम् इदं सेन्द्रायुधं तोरणैः  
+> [[सौधारूढसुगन्धुमा|सौधारूढ-सुगन्धिमा]] इव कृतालङ्कार-चारु-ध्वजा ।  
+> दृश्यन्ते भुवि देवता इव जना दीप्त-श्रियो भूषणैः  
+> देवो रङ्ग-पतिश् च पौर-सदृशं दिव्यौत्सवः क्रीडति ॥  
+
+राजा — (सानन्दम्)
+
+> द्विजेभ्यो दीयन्तां कनक-खुर-[[शृङ्गाम्यसुरभयः|शृङ्ग्यस् सुरभयः]]  
+> प्रवर्त्त्यन्तां यागाः परम-पुरुषार्थ-प्रणयिनः ।  
+
+[^90_1]: स्फुटगदा — ग० ।  
+[^90_2]: सर्ववेदिना ऽमात्येन — पा० ।  
+
+---
+
+[[P91]]
+षष्ठो ऽङ्कः
+
+> प्रवृत्तिर् वा भगवति विधीयेत मनुजैः  
+> प्रमुच्यन्तां सर्वे प्रबल-भव-कारागृह-गताः ॥  
+
+सदृशः — सम्यग् औदार्य-सम्पद्-अनुगुणम् आदिष्टं देवेन । (ऊर्ध्वं विलोक्य)
+
+> गुण-पञ्जर-निर्मुक्तः शुक एव न केवलम् ।  
+> गुणन् कृष्णेति सर्वो ऽपि जन्तुर् विष्णुपदं गतः ॥  
+
+(श्रवणम् अभिनेय)
+
+> परब्रह्मास्थानी-स्फटिक-मय-सोपान-पदवी-  
+> समारोह-क्रीडा-चटुल-मणि-मञ्जीर-चरणाः ।  
+> स्तुवन्ति त्वाम् एते जय जय महाराज [[भवनः|भवन्तः]]  
+> प्रसादाद् आरूढाः परम-पदम् इत्य् अञ्जलि-धराः ॥  
+
+(नेपथ्ये दुन्दुभि-ध्वनिः ; सर्वे स-हर्षं शृण्वन्ति)
+
+यति — किम् एतत् ।
+
+(ततः प्रविश्य सुदर्शनः पुरो ऽवलोक्य सानन्दम्)
+
+अयम् इदानीम् ,
+
+> त्रिवर्गम् अवधीरयंस् त्रिविध-चेतनाचेतन-  
+> प्रपञ्च-मय-कञ्चुके भगवति स्वयं ज्योतिषि ।  
+> निवेशित-धियां सतां निखिल-मङ्गळैकास्पदं  
+> तम् एव कथयन् गतिं यतिभिर् ईडितः क्रीडति ॥  
+
+(उपसृत्य) देव, समय-विजय-सन्तुष्टैः [[श्रीमदराकुशपरकालनाथयामुन-|श्रीमत्-पराङ्कुश-परकाल-नाथ-यामुन-]] श्रीवत्साङ्क-दाशरथि-प्रभृतिभिः [[परिवर्तनविजयमन्तोत्सवो|परिवर्त्तन-विजय-महोत्सवो]] [[गोपीजनवल्लभसमा- गच्छति|गोपी-जन-वल्लभः समागच्छति ।]]
+
+राजा — (सानन्दम्, सुदर्शनं हस्ते कृत्वा, स-स्मितं रामानुजं पश्यन्) प्रथम-पटहः खल्व् असौ प्रिय-रङ्गः सकल-विजय-मङ्गल-प्रसङ्गस्य । य एषः,
+
+---
+
+[[P92]]
+यतिराजविजयम्—नाटकम्
+
+> कृत-ललित-सुवेषः केलि-वैनालिको ऽयम्  
+> मधुमथ-विषक्तैः [[मन्दहामैर्वचोभिः|मन्द-हासैर् वचोभिः]] ।  
+> [^92_1]कुहक-सचिव-माया-गर्व-सर्वस्व-हारी  
+> रमयति हृदयं मे स्व-यशः-प्राक-प्ररोहः ॥  
+
+तद् अस्मै वत्स-कुल-प्रदीपाय दीयतां कश्चिद् अधिकारः ।
+
+यति — दत्त एव अस्मै त्वद्-अर्थ-विचार-क्षमाय देवस्य कोशाधिकारः ।
+
+सुमतिः — (स्मितं कृत्वा) [^92_2]सहजः खलु [^92_3]वत्स-कुल-[[वासल्यं|वात्सल्यं]] रामानुजस्य ।
+
+राजा — (पुरो ऽवलोक्य, स-प्रणय-बहुमानम् अञ्जलिं बद्ध्वा)
+
+> सन्ध्यां कुङ्कु म-रेणुभिर् [[विचरयं श्चन्द्रोदयं|विरचयञ् चन्द्रोदयं]] दर्शयन् [^92_4]  
+> कर्पूरैः कर-हेम-शृङ्ग-सलिलैः कस्तूरिका-मेदुरैः ।  
+> गोपस्त्री-मुख-चन्द्र-बिम्बम् अमलं कुर्वन् कलङ्कौज्ज्वलं  
+> गोविन्दस्य [[कुतुहलं|कुतूहलं]] दिशतु मे को ऽप्य् एष केलि-क्रमः ॥  
+
+सुमतिः — (स-प्रणय-कौतुकं पश्यन्ती) सखि सुनीते, किं न पश्यसि ?
+
+> [[तट्टिद्वासो|तत्तडिद्-वासो]] वासः प्रतिफलित-सर्वाङ्ग-सुभगा  
+> वलद्-वेण्यो [[वलगत्कुचभरनमन्मध्यलतिकाः|वल्गत्-कुच-भर-नमन्-मध्य-लतिकाः]] ।  
+> [[पसिञ्चन्त्यन्योयं|प्रसिञ्चन्त्य् अन्योन्यं]] परिहसन-परेतर-जलाः  
+> [[करैरुच्चैर्दृगैः कलरणिभ्रूषा युवनायः|करैर् उच्चैर्... कलरणि-भूषा युवतयः]] ॥  
+
+सुनीतिः — (स-कौतुकं) देवि, किम् अन्यतो विलोकयसि ?
+
+> कस्तूरी-तिलक-भृतः कपोल-रिङ्गत्-कटाक्षास् तरल-दृशो निरुद्ध-मार्गाः ।  
+> गोविन्दे कनक-जल-कुङ्कु म-प्रहाराः मोदन्ते [[मुखरिन्|मुखरित-]] हेम-शृङ्ग-तोयाः ॥  
+
+[^92_1]: कृतक-सचिव — पा० ।  
+[^92_2]: सहजः खलु वत्स-कुले प्रेमानुरागो रामानुजस्य — पा० ।  
+[^92_3]: वत्स-कुल-लालना — पा० ।  
+[^92_4]: द्योतयन् — पा० ।  
+
+---
+
+[[P93]]
+षष्ठो ऽङ्कः
+
+[^93_1](सानन्दम्) सकल-गोप-सुन्दरी-विहार-भुजङ्गे भुजङ्ग-राज-पर्यङ्क-शायिनि रङ्ग-राजे दीयतां दृष्टिः । यद् इदानीम् ।
+
+> पाणिभ्यां प्रतिरुन्धतीं हृत-जलैर् एकां पुरोवर्तिनीं  
+> पश्चात्-कण्ठ-निमग्न-बाहु-वलयाम् अन्याम् पुनः प्रेयसीम् ।  
+> आवृत्त्याननम् ईक्षमाणम् इतरैर् आविस्मितैर् आद्रियन्  
+> मृष्टामृष्टविशेषको विहरते [[मृग्यम्यीयीभिर्युवा|... युवा]] ॥  
+
+राजा — (साञ्जलि-बन्धम्)
+
+> जानीमस् तव सत्यम् अर्जुन-कृते [[प्रहारोचमात्|प्रहारोद्यमात्]]  
+> गोक्षीर-विहार-धूर्त ! विदितं त्वद्-ब्रह्मचर्यं जनैः ।  
+> दौत्येन स्फुटम् ईश्वरत्वम् अपि ते [[त्वामिंस्तथाप्युत्तरा|त्वास्मिन् तथाप्य् उत्तरा-]]  
+> [[गर्मोज्जीवन|गर्भोज्जीवन]]-भेषजाय भवतः पादाय तस्मै नमः ॥  
+
+किञ्च,
+
+> अकोकिलाम् आशु विधातुम् उर्वीम् अपाक शालानमरांश् च नाथ ! ।  
+> शक्ता ऽपि शान्ता नमसैव याते तस्मै [[नमस्स्तमभूमिकायै|नमस् सप्तम-भूमिकायै]] ॥  
+
+अपि च,
+
+> परस्माद् अन्यस्मै यद् अपि यद् अपि स्वेन परतः  
+> परस्मै स्वस्मै तु स्वत इतरतो वा स्फुरति यत् ।  
+> [[तदेतद्मर्वांतं स्तव भवति षड्गुण्यूजलधेः|तद् एतत् सर्वात्मन् स्तव भवति षड्गुण्य-जलधेः]]  
+> विधेयं चाधेयं विविध-विनियोगोचितम् अपि ॥  
+
+किञ्च,
+
+> तमो यत्रासीत् त्रिगुण-मयम् अस्माच् च यद् अभूत्  
+> ततो [[यत्त्था|यथा]] ऽऽसीत् तद् बहु-विधम् अतो यत् समजनि ।  
+
+[^93_1]: निधीयताम् — पा० ।  
+[^93_3]: कर्तुम् — पा० ।  
+
+---
+
+[[P94]]
+यतिराजविजयम्—नाटकम्
+
+> ततः पञ्चभ्यो यत् पवन-गगनाद्यात्मकम् अभूत्  
+> [[तदेतसर्वं|तद् एतत् सर्वं]] ते भवति खलु लीला-परिकरः ॥  
+
+यति — देव, भवन्तम् अन्तरेण वस्तु-तत्त्वं भगवतो [[लीलाविल्सितं|लीला-विलसितं]] च को वा जानाति ?
+
+तन्त्र — 
+
+> विभुश् चेन् नैव स्याद् अणु-[[परिमेता|परिमिता]] ऽणुर् यदि भवान्  
+> कथं सर्वत्र स्याद् विभुर् इति चेन् नोचितम् इदम् ।  
+> स्वयं न स्याद् रूप-द्वयम् अपि न चेत् त्वां मधुरिपो !  
+> कथम्-भूताकारं कथय [[निरुणैप्युपनिषत्|निरुणोत्य् उपनिषत्]] ?  
+
+सुनीतिः — (विहस्य) सेना-पतिर् अपि सदृशतां दर्शयति ।
+
+यति — (सुनीतिं पश्यन्) भद्रे, किम् अन्यद् वदामि,
+
+> पारे चिरन्तन-वचस् तमसः परस्तात्  
+> मध्ये गुहं मनसि संयमिनां च [[सृष्ट्यम्|मृग्यम्]] ।  
+> [^94_1]तत्त्वं परं धृत-स-कुङ्कुम-वारि-शृङ्गं  
+> गोपी-कटाक्ष-दृढ-शृङ्खलितं विभाति ॥  
+
+राजा — भक्ति-विशेषः किं किं न कारयति ?
+
+सुनीतिः — (सोल्लुण्ठम्)
+
+> कुसुमायुध-कोटि-कान्ति-भाजा कुहना-गोप-कुमार-विग्रहेण ।  
+> मदनोपनिषद्रहस्य-विद्यां व्यवृणोद् एष विमुक्तये वधूनाम् ॥  
+
+राजा — सत्यम् । किन्तु,
+
+> अतिभूमिं गत-स्त्रीणाम् अनुरागो हरौ तु यः ।  
+> स एव भक्ति-रूपेण पच्यते मोक्ष-कारणम् ॥  
+
+[^94_1]: तेजः परम् — पा० ।  
+
+
+
+[[P95]]
+षष्ठो ऽङ्कः
+
+सुनीतिः — (सुमतिं प्रति स-परितोषम्)
+
+> साम्राज्य-सम्पद् असि सर्व-सुखानुभूतिः  
+> भक्तिः प्रसृतिर् अपि ते परिणाम-भेदः ।  
+> मुक्तिः [^95_1]परानुभव-भूमिर् असि त्वम् एवं  
+> पुणासि देवि ! भुवनानि विलास-भेदैः ॥  
+
+राजा — (स-स्नेह-बहुमानम्)
+
+> कुदर्शनानीतर-दर्शनानि यतीन्द्र ! [[कुर्वन्निजरर्शनेन|कुर्वन् निज-दर्शनेन]] ।  
+> सम्यक् श्रुति-न्याय-कलाप-दर्शी [^95_2] [[मुदर्शनोऽसि|सुदर्शनो ऽसि]] प्रियदर्शनस् त्वम् ॥  
+
+(प्रविश्य दिव्य-पुरुषः)
+
+दिव्य-पुरुषः — देव, प्रणमते भगवान् वासुदेवः । किं ते भूयः प्रियम् उपहरतु ?
+
+राजा — (स-परितोष-बहुमानम्)
+
+> मायावी सचिवो निरासि महितो [^95_3]मानार्थ-सत्त्वैर् अहम्  
+> सम्राड् अस्मि समृद्ध-सम्पद् अथवा वादो न वेदे क्वचित् ।  
+> [[भग्नाने|भग्नानि]] प्रतिदर्शनानि च ततः प्राप्ते च रामानुजे  
+> मन्त्रित्वं मम नास्ति किञ्चिद् अधुना सम्प्रार्थनीयं मया ॥  
+
+तथापि, इदम् अस्तु भरत-वाक्यम् ।
+
+> काले वर्षतु वासवः क्षितिभुजो रक्षन्तु सम्यङ् महीम्  
+> सर्वे सन्तु निरामयाश् च कृतिनः सत्त्वोत्तराः प्राणिनः ।  
+> पुण्यालोकम् इमं पुनातु भगवद्-भक्तिश् चिर-स्थायिनी  
+> [[मालाव्यातिशेखरस्य|माला-वद्-यति-शेखरस्य]] विहरन्त्व् आज्ञा नृणां मूर्धसु ॥  
+
+(इति हर्षं नाटयन्तो निष्क्रान्तास् सर्वे)
+
+[^95_1]: परानुभव-हेतुः — पा० ।  
+[^95_2]: कुर्वन् सुदर्शन इति पाठः स्यात् ; श्रुति-न्याय-सुदर्शनैन — पा० ।  
+[^95_3]: मानार्ह-तत्त्वैः — गा० ।  
+
+---
+
+[[P96]]
+यतिराजविजयम्—नाटकम्
+
+भरतः — 
+
+> नीतो मयाद्य निगमान्त-मद-द्विपो ऽयं  
+> रङ्ग-स्थलं रचित-नाटक-संविधानम् ।  
+> नित्यं निरङ्कुश-गतिर् निज-सूत्र-मार्गे  
+> किञ्चिद् यदि स्खलति सह्यम् इदं सदस्यैः ॥  
+
+इति श्रीवत्स-कुल-तिलक-श्रीघटिकाशत-सुदर्शनाचार्य-तनूभवस्य श्रीमद्-रङ्गाचार्यापरनामधेयस्य श्रीमद्-वरदाचार्यस्य कृतिषु वेदान्त-विलासापरनामधेये “ यतिराजविजये ” नाटके षष्ठो ऽङ्कः समाप्तम् इदं च नाटकम् ।
+
+> नमो वरद-विष्ण्व्-आर्य-नयनानन्द-दायिने ।  
+> वात्स्याय वरदार्याय वादि-नीहार-भास्वते ॥  
+
+श्रीमते वरदार्य-महा-गुरवे नमः
+
+तिरुमल तिरुपति देवस्थान मुद्रणालय, तिरुपति. १७–९–१९५५.
+
+---
+
+[[P1_Ratnadipika]]
+श्रीरस्तु  
+श्रियः कान्ताय नमः  
+श्रीमत्यै गोदायै नमः  
+श्रीमते रामानुजाय नमः  
+
+### यतिराजविजयव्याख्या रत्नदीपिका ।
+
+> श्री-वेदान्त-विलासस्य नाटकस्य यतापमिश्रम् ।  
+> प्रणय वरदं व्याख्या क्रियते रत्न-दीपिका ॥  
+> अन्तर्-वेदान्त-साम्राज्ये बहिस्-साहित्य-सौरभम् ।  
+> विदग्धः खलु वेदान्त-विलास मोक्तुम् अर्हति ॥  
+
+अत्र राज्ञा सह सुमतिं नु कृष्णः, [[श्रीभूमिनीलादेवीरुक्त्वान्प्रायितवान्|श्री-भूमि-नीला-देवीर् उक्तवान् प्रार्थितवान् ।]] इदम् उच्यते — “ पद्मे.त ” । अत्र “ पद्मे ” “ नीले ” “ महि ” - इति च संबुद्धयः । राज-पक्षे, पद्मे इति नयने रूप्येते, नीले इति कुन्तल-विशेषणम् । महितैः - पूजितैः । अनेन [[भाप्यान्तरात्|भाष्यान्तरात्]] सूत्र-विषय-वाक्यानां योजना-भेदः सूच्यते ।
+
+कस्याञ्चित् [[स्खदुहेतुमोहकारणं|स्व-गत-हेतु-मोह-कारणं]] पृष्टा काञ्चित् क्षणिकिका दैवज्ञां मोह-कारणं [[व्यञ्नावृत्त्या|व्यञ्जना-वृत्त्या]] [[धृतकृष्णा एवत्याह|धृत-कृष्णा एवम् इत्याह]] — कृ इति । [[तद्वद्-प्रायमभिज्ञाय|तद्-अभिप्रेतम् अभिज्ञाय]] कृष्ण-वर्जं सर्वो कृष्ण-सर्प एव तन्-मोह-कारणम्, स तु नरेन्द्रैः — [[विपवैद्यैः|विषवैद्यैः]] । न साध्यः । स एव पूज्यानां मोह-शान्तय इति मेनिरे । कृष्णस् तु ईक्षणिका-वाक्ये स्वनिप्रयाम् इति [[मन्वा|मत्वा]] स्मितम् अकरोत् । अत्र नरेन्द्रः - कंसादिः मोहं भेद - [[पुलकादिरु|पुलकादिः]] यत्र समानः । एतद्-अनुगुणं सर्वं योजनीयम् ।
+
+अत्रापि शम्भु-शिवादि-कारण-शब्दानां नारायण-परत्वं सूच्यते । दृशा शृणोतीति । चक्षुःश्रवाः - शेषो लक्ष्यते । [[छन्दोमैतीति|छन्दोमय इति]] ; “ सुपर्णो ऽसि गरुत्मान् ” इति वेदोक्त-छन्दोमयो गरुडो लक्ष्यते । लीला लीला-प्रकरणम् । कालकल-मलमिनि , चन्द्रादियो । नित्य-निरतिशय-[[स्वानन्दानु भजगायरुकम्य|स्वानन्दानुभव-जागरूकस्य]] भगवतो बाह्य-विराम-मात्रम् एव निद्रेत्युच्यते । [ भगवतो बाह्य-विराम-मात्रम् एव निद्रेत्युच्यते । नित्य-जागरूकस्य ] भगवतो न हि निद्रा सम्भवति । निगवस्तोभावतं
+
+---
+
+[[P2_Ratnadipika]]
+२ यतिराजविजयव्याख्या रत्नदीपिका
+
+सोत्पलम् इति । अनेन निखिल-वेदान्त-वेद्यत्वं, [[सुरति|सुरभि]]-सुकुमार-श्यामल-दिव्य-मङ्गल-विग्रह-योगश् च सूच्यते ।
+
+अत्र चतुर्विंशति-पदैः — चतुर्विंशति-प्राकृत-तत्त्वानि, षड्भिर् वाक्यैः षड्-मुक्त-नित्याः परं व्योम - काल - सर्वेश्वराश् च वेदान्त-वेद्याः सूच्यन्ते । अत्र समवाक्यत्वेन नान्दी-
+
+१. नान्दी नाम — “ नन्दन्ति देवता यस्मात्, तस्मान् नान्दीति कीर्त्यते ” इति निर्वचनेन देवतानाम् आनन्द-दायिनी मङ्गल-गीतिः — नान्दीति व्यवह्रियते ।
+
+> नान्दी वृषः को ऽपि महेश्वरस्य, रङ्ग-प्रसादं किल खे जगाम ।  
+> तद्-रङ्गम् उद्दिश्य कृतां तु नान्दीं नान्दीति तां रङ्ग-विदो वदन्ति ॥ इति ।  
+> नान्दी यो वृषा ऽस्य रङ्गो ऽभ्युन्नतयः पुरा ।  
+> अतस् तदाख्यया नान्दी रङ्ग-पूजा प्रकीर्तिता ” ॥  
+
+इति च वचनात् लाजाञ्जलि-प्रकिरादिना क्रियमाणा सपर्या [[सपर्याति|सपर्येति]], केचित् । अथवा, “ सकल-लोक-सन्तोष-कर-नृत्य-गीत-वादयः सुर-नर-किन्नर-गन्धर्वाद्याः सर्वतोदिशं गताः सम्भूय, समायन्तु — इति, अभिसन्धाय, क्रियमाणा मुरज-मृदङ्ग-तालादि-सामगान-संहिता सपर्या पूर्व-रङ्ग-शब्देन निगद्यते ; अथवा,
+
+> “ सभ्यान् नन्दयतीत्य् उच्चैः सा नन्दीति निगद्यते ”  
+
+इति वचनात् सभ्यावर्जन-रूपा सपर्या एवंविधा नान्दी ।
+
+नाटकादि-रूपकाणाम् आदौ विहितं पद्यं नान्दीति उच्यते ।
+
+> अर्थतः शब्दतो वापि मनाक् काव्यार्थ-सूचनम् ॥  
+> यत्राष्टभिर् दशभिर् अष्टादशभिर् एव वा ।  
+> द्वात्रिंशता पदैर् वा अपि सा नन्दी परिकीर्तिता ॥ इति प्रतापरुद्रीये ।  
+
+नाटकाौ कर्तव्यः प्रत्यूह-ग्रन्थि-[[कमीविशेषः|कर्म-विशेषः]] ;
+
+> यन् नाट्य-वस्तुनः पूर्वं रङ्ग-विघ्नोपशान्तये ।  
+> कुशीलवाः प्रकुर्वन्ति पूर्व-रङ्गः स कीर्तितः ॥  
+
+इति वचनात् । तस्य प्रत्याहारादीनि द्वात्रिंशद् अङ्गानि । तन्-मध्ये ऽवश्यं कर्तव्या नान्दी । तद् उक्तं बादरायणेन —
+
+> यद्य् अप्य् अङ्गानि भूयांसि पूर्व-रङ्गस्य नाटके ।  
+> तथाप्य् अवश्यं कर्तव्या नान्दी विघ्नोपशान्तये ॥ ” इति ।  
+> चन्द्र-नामाङ्किता प्रायो [[मङ्गलाथैपदोउज्ज्वला|मङ्गलार्था पदोज्ज्वला]] ।  
+> आशीर्-नमस्क्रिया वस्तु-निर्देशो वा प्रकथ्यते ॥  
+
+इति विशेषो ऽत्र द्रष्टव्यः ।
+
+---
+
+[[P3_Ratnadipika]]
+प्रथमो ऽङ्कः
+
+लक्षणं च सिद्धम् । रङ्ग-मङ्गल-निर्धारिति रङ्ग-प्रसाधनं च कृतं भवति ।
+
+[^3_1]एवं सर्वत्र अभिधा - लक्षणा - गौणी - व्यञ्जना-वृत्तिषु अन्यतमया वृत्त्या सर्व-शब्दानां वेदान्त-परत्वं स्वयम् एव ऊहनीयम् ।
+
+[[आस्खानेपेति|आस्थानेष्विति]] । एतेन आचार्य-प्रवृत्तेः पर-प्रयोजन-परत्वम् उच्यते ।
+
+अद्वितीयः — असदृशः, देहवत् [[व्याधीनतया|व्याध्यनधीनतया]] देहः ।
+
+आत्म-विद्या — अध्यात्म-विद्या, स्व-विद्या च । भगवन्-मुख्याः [[मुनगः|मुनयः]] — ब्रह्मविदः [[शुकदायः|शुकादयः]], नाट्य-सूत्र-प्रणेतारश् च । आत्म-लाभः — जीव-परमात्म-लाभः, स्वार्थ-लाभश् च ।
+
+विद्वन्न् इति — ब्रह्मविन्, भगिनी-पतिश् च “ [[भगिनीपतिराजुतो|भगिनी-पतिर् आवुत्तो]] विद्वान् ” इत्य् अमरः ।
+
+संक्षेपेण चतुर्विधा जीव-राशय उच्यन्ते — [[मुनरेति|मुनय इति]] ।
+
+वेदान्त-कूटस्थः वेदान्त-सम्प्रदाय-कुल-गुरुः । [[वच्छिष्याः|तच्छिष्याः]] — वेदव्यास-प्रभृतयः ।
+
+नान्द्य्-अनन्तरं प्रविशता सूत्रधारेण रङ्ग-साधन-पुरस्सरं भारती-वृत्त्याश्रयणेन श्लोकैः काव्यार्थः सूचनीयः । तथोक्तं दशरूपके —
+
+> रङ्गं प्रसाद्य मधुरैः श्लोकैः काव्यार्थ-सूचकैः ।  
+> ऋतुं कञ्चिद् उपादाय भारतीं वृत्तिम् आश्रयेत् ॥  
+
+इति नाटक-लक्षण-विशेषाः लक्षण-ग्रन्थेभ्यो ऽवगन्तव्याः ।
+
+[^3_1]: १. सूत्रधारेण द्वितीयेन रङ्ग-प्रसाधनं नाम — सभ्यता-मुख-विधे रङ्ग-प्रविष्ट — साम्प्रदायिक-सम्पादितो यवनिकापगम-त्रिभूत-पात्र-विशेष-प्रकीर्ण-पुष्पाञ्जलि-परिकृतो नृत्त-गीत-वाद्या-विशेष-प्रयोगः, केवल-गीत-वाद्य-विशेष-प्रयोगो, गीतादेर् एकैकशः प्रयोगो वा । एतच् च — “ सङ्गीतैर् बुधैस् सायं नायके प्रेक्षके स्थिते । प्रविश्य रङ्ग-भूमिं तं तिष्ठन्तः साम्प्रदायिकाः ॥ ” इत्यादिना सङ्गीतरत्नाकरे प्रपञ्चितम् ।
+
+
+
+[[P4_Ratnadipika]]
+४ यतिराजविजयव्याख्या रत्नदीपिका
+
+प्रज्ञा-शोधनाय [^4_1]प्रहेलिकाम् आह — चित्रकूटेति । अर्थ-प्रकरणादि-निर्धारणं तदर्थम् आह — तस्य स्वैरम् इति । अचः — स्वरा इति, स्वरा अकारादयः ।
+
+“ चक्रं रथाङ्गे सेनायाम् । ” चटुल-स्फुलिङ्ग-[[कलिताचरुमिति|कलितार्चिषम् इति]] — सुदर्शन-विशेषणम् । अन्यत्र चक्रम् इति — सेना । रिङ्गद्-गङ्गेति विशेषणस्य सेना-परत्वम् उच्यते । सङ्ख्यं — युद्धं । शुण्डालः — गजः ।
+
+भावाः, रसाः — इत्यादयः । रसः — शृङ्गारादिः ।
+
+यथाहुः —
+
+> रतिर् हासश् च शोकश् च क्रोधोत्साहौ भयं तथा ।  
+> जुगुप्सा - विस्मय-शमाः स्थायि-भावाः प्रकीर्त्तिताः ॥  
+> विकारैर् अनुभावैश् च सात्त्विकैर् व्यभिचारिभिः ।  
+> आनीयमानः स्वादुत्वं स्थायि-भावो रसः स्मृतः ॥ इति ।  
+
+रसो — ब्रह्म च । “ रसो वै सः ” इति श्रुतेः । भावाः — चिदचित्-पदार्थाः । वेदमौलिः — वेदान्तो नायकः ।
+
+हरिर् इव अहम् अपि रङ्ग-प्रियो भवामीत्याह — [[सुन्नरेति|सुमनस इति]] । [[नायर्मा नयति|नटो न नयति]], किं तु, स एव अयम् इति प्रेक्षकाणां यथा निश्चयः स्यात् , तथा अनुकर्तुर् रामाद्यवस्थां प्रत्यक्षयन् । [[भरतन्|भरतम्]] — नाट्य-शास्त्रम् । भाव - राग - ताल-नामाद्याक्षराणां ग्रहणेन भरतम् ; भरतमुनिश् च । धर्मपुत्रादयो वा । स्थायि-भावाः — स्थावर-जङ्गमाः । तेष्व् अन्तर्यामितया अवतार-रूपेण वा विहरति । मधुरिपोर् अपि सर्व-लोक-विदितो ऽहम् एव रङ्ग-प्रियः — इत्याह — [[अर्थवेति|अथवेति]] ।
+
+[^4_1]: आमुखस्य वीथ्या इव उद्घात्यकादीनि त्रयोदश अङ्गानि सन्ति । तत्र नालिका नाम — सोपहासा निगूढार्था प्रहेलिका ; निगूहो — गोपितो, बाह्यः, आभ्यन्तरो वा मुख्यो यो या तद्योक्ता । अत एव अन्तर्लापा, बहिर्लापा चेति द्विविधा प्रहेलिका । तद् उक्तं विदग्धमुखमण्डने —  
+“ व्यतीकृत्य कम् अपि अर्थं स्वरूपार्थस्य गोपनात् ।  
+यत्र बाह्यान्तरार्थौ कथ्येते सा प्रहेलिका ॥ ” इति ।  
+
+---
+
+[[P5_Ratnadipika]]
+प्रथमो ऽङ्कः
+
+[[मुक्तः|मुक्ताः]] — अनादि-संसार-बन्ध-रहिताः । ते विशेष-गुण-रहिताः — इति न्याय-वैशेषिकाः । निर्गुण-ब्रह्मात्मकाः — इति मायावादाः । तद् अप्य् उपमुक्तं विगुणी-कृतैः । “ सो ऽश्नुते सर्वान् कामान् , ” “ काम-रूपीत्य् अनुसञ्चरन् ” — इत्यादिषु श्रुतिषु, भोग-मात्र-साम्य-लिङ्गाद् इति सूत्रेषु । मुक्तस्य कल्याण-गुण-ग्राहिभिः । तज्ज्ञैः । मुक्ति-स्वरूप-ज्ञैः । हार-पक्षे, गुणः — सूत्रम् । स्पष्टम् अन्यत् ।
+
+अप्राकृते — वेदान्त-विषयत्वात् प्राकृत-लोकात् [[त्विर्त्तिनि|विवर्त्तिनि]] । “ स्त्रीणां तु प्राकृतं प्रायः शौरसेन्य् इतरेषु च ” इति, [[भाषाधिनियमम्|भाषा-नियमम्]] उक्त्वा, “ कार्यतश् चोत्तमादीनां कार्या [[दोपाथ्या क्रमः|भाषा-विपर्य्ययः]] ” इति अपवाद-दर्शनात् [[मत्र्यपात्राणामत्र|मर्त्य-पात्राणाम् अत्र]] संस्कृतम् एव । तत्र हेतु-भूतं कार्यम् आह — [[ब्रह्मसूतीति|ब्रह्म-सूत्रीति]] । वेदान्त-सूत्रार्थस्य प्राकृतादि-भाषान्तरान्वये दुर्य्यहत्वं स्याद् इति च भाषा-नियमः । तत्र नाटक-धर्मं पुरस्कृत्य वेदान्तार्थो व्यङ्ग्यः । ततश् च प्राधान्याद् इदं काव्यं ध्वनिः ।
+
+वकुला राम - शब्देन तत्-प्रबन्धो [[लक्ष्येते|लक्ष्यते]] । श्रुतिः — [[वेदमार्ः|वेदमार्गः]] । शुक-मुखाः — ब्रह्मविदः । [[हरि इव म्|हरिर् इव]] तत्त्वं — हरिर् इव । तत्त्वान्तराणां तत्त्वाविशेषणत्वात् । उच्चैः — सर्वस्मात् परम् । [[काभ्यमान्यन्दिनाद्युपानपत्सु|काठक-माध्यन्दिनाद्युपनिशत्सु]] । महान् आगमः समूहः । आगमाः — वृक्षाश् च । सरल-वकुलाः — वृक्ष-विशेषाः । हरि-तत्त्वं श्यामलत्वं च ।
+
+तीर्थी-कृत्य — शास्त्री-कृत्य । माधवः — विष्णुः, [[वमनश्च|व्यासश् च]] । [[सुग्भयः|सभ्याः]] — सारवन्तः । [[ममयाः|सम्याः]] — सिद्धान्त । “ समयाः [[अपथाचारकालसिद्धान्तसंविद्ः|शपथाचार-काल-सिद्धान्त-संविदः]] ” ।
+
+सुमनसः — विद्वांसः, पुष्पाणि च । प्रबन्धाः — ग्रन्थाः, सन्नतयश् च । श्रुति-सुख-परैः पूर्वाचार्यैः । पुष्टाः — पोषिता । [[पददादादाराः|प्रपत्ति-द्वाराः]] — शरणागति-मन्त्राः । सुदृशां — सुधियाम्, स्त्रीणां च ।
+
+प्रपञ्चं [[मद्वन्तः|निह्नुवानम्]] अन्धकारम् — इत्य् अन्वयः । अनेन काव्यार्थः सूच्यते । तम् एव विवृणोति [[सैन्यारति|संसारेति]] — बौद्धादि-समयैः । अद्वितीयं — असदृशम्, विधि-प्रतिषेध्यम् इति वा ।
+
+' इति प्रस्तावना
+
+[^5_1]: सर्वस्यापि काव्यार्थस्य सूचिका भारती वृत्तिः । तस्याः चत्वारि अङ्गानि — आमुखं, प्ररोचना, वीथी, प्रहसनं चेति । तत्र आमुखं नाम —  
+
+---
+
+[[P6_Ratnadipika]]
+६ यतिराजविजयव्याख्या रत्नदीपिका
+
+### अथ विष्कम्भः
+
+निदानं तु — आदिकारणम् । [[क्षणणं|क्षणनं]] — प्रकाशनम् । कुहना — माया । समयैः — दर्शनैः । असु — असुरेषु । तान् एव । “ सुदर्शनावतारो यतिराजः ” — इति हि ऐतिहासिकम् ।
+
+> सूत्रधारो नटीं ब्रूते मारिषं वा [[विदूपकम्|विदूषकम्]] ।  
+> स्वकार्य-प्रस्तुताक्षेपि चित्रोक्त्या यत् तद् आमुखम् ॥  
+> प्रस्तावना वा, यत्र स्यात् कथोद्धातः प्रवर्त्तकम् ।  
+> प्रयोगो ऽतिशयश् चेति वीथ्यङ्गानि [[आनुषङ्ग्य|आनुषङ्ग्यं]] तु ॥  
+
+द्वाव् अत्र सूत्रधारौ ; एकः पूर्व-रङ्ग-विधायकः , अपरस् तु नट - स्थापकाद्यपरपर्यायः पूर्व-सूत्रधार-सदृश-गुणाकृतिः प्रस्तावना-प्रवर्त्तकः । अस्य गृहिणी — नटी । मारिषः — पारिपार्श्वकः । नर्मसचिवो — विदूषकः ।
+
+एतेषां लक्षणानि भावप्रकाशे —
+
+> आसूत्रयन् गुणान् नेतुः कवेरपि च वस्तुतः ।  
+> रङ्ग-प्रसाधन-प्रौढः सूत्रधार इहोदितः ॥  
+> चतुरातोद्य-भेदज्ञा तत्कलासु विशारदा ।  
+> [[करणामिनयज्ञा|करणाभिनयज्ञा]] च सर्वभाषाविचक्षणा ॥  
+> नटानुयोक्त्री कृत्येपु नटस्य गृहिणी नटी ।  
+> भरतेनाभिनीतं यो भावं नानारसाश्रयम् ॥  
+> परिपूरयति पार्श्वस्थः स भवेत् पारिपार्श्वकः ।  
+> तदादेशप्रतीहारो [[नर्मचण्डमैद|नर्म-सचिवाद्याः]] प्रयोगवित् ॥  
+> वेदविन् नर्म-वादो यो नेतुः स स्याद् विदूषकः ।  
+
+स्थापकः — दिव्यं वस्तु दिव्यौ भूत्वा, मर्त्यं वस्तु मर्त्यौ भूत्वा, [[मित्रं दतु|मित्रं तु]] उभयोर् अन्यतरो भूत्वा सूचयेत् । तद् उक्तम् —
+
+> पूर्व-रङ्गं विधायादौ सूत्रधारे विनिर्गते ।  
+> प्रविश्य तद्वद् अपरः काव्यार्थं स्थापयेन् नरः ॥  
+> दिव्यं मर्त्यं स तद्-रूपो मिश्रम् अन्यतरस् तयोः ।  
+> सूचयेद् वस्तु बीजं वा मुखं पात्रम् अथापि वा ॥ इति ।  
+
+---
+
+[[P7_Ratnadipika]]
+प्रथमो ऽङ्कः
+
+वेदान्तस्य नायक-धर्मा उच्यन्ते — मर्त्यस्येति । हितं — पुरुषार्थोपायम् । समयाचारात् — दर्शनवर्त्मन् । माया-कल्पितौ जीव-परौ येषां, तान् । मायया — कपटेन । आजीवः — जीवनम् । “ [[वृत्तिर्वर्त्तनजवीने|वृत्तिर् वर्त्तन-जीवने]] ” इत्य् अमरः । मानेषु — प्रमाणेषु । मान-प्रतापोन्नततः । मानः — चित्त-समुन्नतिः । प्रतापः — प्रसिद्धिः । मानेन प्रतापेन च । नीतिषु — उपक्रमोपसंहारादि-न्याय-विशेषेषु, [[राजनीतिपु|राजनीतिषु]] । [[गुणात्तराभ्यां|गुणोत्तराभ्याम्]] अननिभृत-सत्त्व-गुणो — महा-सत्त्वः ; महाबलश् च । [[स्थ्यङ्गः|त्र्यङ्गः]] । अङ्ग — व्याकरणादि । [[युगा|युग्यः]] — मनोहरः । सत्त्व-शब्देन तत्-कार्यं ज्ञानं लक्ष्यते । “ नॄन् — पुरुषान् , मोक्ष-प्रदानेन, पा ” तीति — नृपः । समयाचाराः — देश-कुल-धर्माचाराः ।
+
+एवं सर्वत्र अर्थतः, शब्दतः, तात्पर्येण च वेदान्त-परत्वम् ऊहनीयम् ।
+
+[[विपवः|विषयाः]] — [[प्रतिगाद्यो|प्रतिपाद्यो]] ऽर्थः, देशश् च । [[नामीरैः|नास्तिकैः]] — अग्रेसरैः । प्रत्यक्षानुमान-शब्दाः — वेदान्तानुकूल-प्रमाणानि । तदाभासाः — तैः प्रमाणैः [[प्रत्यक्षद्रिप्रमाणो-|प्रत्यक्षादि-प्रमाणो-]] चिताङ्गहीनतया प्रत्यन्त — म्लेच्छदेशः ; ते च । तैः — [[प्रत्यक्षानुमानादैः|प्रत्यक्षानुमानाद्यैः]] — प्रोत्साहिताः पाषण्ड-समयाः । तान् एव — प्रमाणाभासान् एव । तीर्थी-कृत्य — शास्त्री-कृत्य । अलीकं तु — अप्रिये ऽनृते ।
+
+“ चिन्मात्रस्यैव सत्यत्वात्, तस्य च स्वयंप्रकाशत्वेन [[प्रमाणविषयत्या|प्रमाणविषयत्वात्]], सर्वो ऽपि वेदान्त-विषयः मिथ्येति ” — मायावाद-रहस्यम् ।
+
+शङ्खगिरि — [[शङ्करभाप्ये|शङ्करभाष्ये]] । “ गीर्वाणवाणी सरस्वती ” शङ्करगिरिः — कैलाशः । रामानुजः — यतिराजो, लक्ष्मणश् च । ओजः — बलम् । भरतादयः — ब्रह्मविदः, भरत-शत्रुघ्नादयश् च । सत्यं साम्राज्यं विषयं ; न तु [[असद्रिः|असद्भिः]] भावः ।
+
+### इति विष्कम्भः
+
+शुण्डीरः — समर्थः । मानार्थयोः — प्रमाण-प्रमेययोः । व्यावहारिकतया  
+
+[^7_1]: [[वृत्तवर्त्तियमाणानां|वृत्त-वर्त्तिष्यमाणानां]] [[कथांशानां|कथांशानां]] निदर्शकः ।  
+संक्षेपार्थस् तु विष्कम्भो मध्य-पात्र-प्रयोजितः ॥  
+इति तल्-लक्षणात् । अत्र शुद्ध-विष्कम्भः ।  
+
+---
+
+[[P8_Ratnadipika]]
+८ यतिराजविजयव्याख्या रत्नदीपिका
+
+(सत्त्व-हीनो) सत्त्व-बुद्धि-रहितः । मायया कल्पितो जीवो यस्य सः । सुमतिः — देवी । सुनीतिः — तत्-सखी ।
+
+ब्रह्मविदादि-भेदेनैव शास्त्र-निर्वाहः । तच् च सर्वं प्रमाणेन [[साध्यति|साधयति]] । मोक्षोपायतया मदीय-धर्मं हरन् — स्वीकुर्वन्न् अपि ।
+
+यामुनेन सिद्धित्रय-मुक्तेन ।
+
+पटच्चरं — जीर्ण-वस्त्रम् । परमहंसस्य वृक्ष-मूलम् एव आवास-स्थानम् इत्याह — [[वसतिमूलमिति|वसति-मूलम् इति]] । [[ईपणा|एषणा]] — इच्छा । सा च पुत्रैषणा, वित्तैषणा, दारैषणा — इति त्रिधा । वर्ग-धर्माः — अर्थ-कामाः । आत्मन्य् आरमते इति [[आत्मागारमतः|आत्मारामतः]] । अपहृत-विषयः — दूषित-प्रमेयः ।
+
+अभ्युदय-निमित्तं सूचयति — “ [[मद्दन्तःसन्तापम्|मदन-सन्तापम्]] ” — इति । [[पटीरद्रवमिलन्यकुन्दोरसि|पटीर-द्रव-मिलन्-मुकुन्दोरसि]] ।
+
+निक्षेप-विद्या — प्रपत्ति-विद्या । [[गयात्मना|मयात्मना]] — शरणागति-स्वरूपेण । [[म एवायमिति|स एवायम् इति]] । [[अर्थापन्नेति|अर्थापन्ना इति]] शेषः ।
+
+अविद्यया — देहेन्द्रिय-मनः-प्राणादिषु अनात्मसु आत्म-बुद्ध्या । विध्वस्तान् — [[नाशितान|नाशितान्]] ।
+
+> तत् कर्म यन् न बन्धाय सा विद्या या विमुक्तये ।  
+> आयासायापरं कर्म विद्यान्या शिल्प-नैपुणम् ॥  
+
+इति भावः ।
+
+[[निघ्नुक्रौशैः|निष्क्रौशैः]] — निर्दयैः ।
+
+धीर-सत्त्वैः नद्य्-अरण्य-पुरुषैः चिरं परिचयं यः करोति, स एतान् [[परिक्रोति|परिकरोति]] ; नान्य इत्याह — नापरैर् इति । नक्र-व्याघ्रादि-हिंसक-मृगाः — सत्त्वानि ।
+
+श्लोक-द्वयेन माधव-समयः सूच्यते । वेला — कालो, मर्यादा च । कुदृष्टिः — वेदस्य [[अन्यथावादिनिः|अन्यथावादिनः]] । [[शिगो|शिवो]] — रुद्रः, शैवागम-प्रणेता । उलूकः — वैशेषिक-प्रणेता । [[श्रुतिकटुक्तितिभिः|श्रुति-कटूक्तिभिः]] — वेद-विरुद्ध-वाक्यैः । [[अनितो|अनिशं]] जयतीति,
+
+
+
+[[P9_Ratnadipika]]
+प्रथमो ऽङ्कः ९
+
+[[अभिजिन्|अभिजित्]] । अन्यत्र शिवो — गोमायुः ; उलूकादयो — दिवान्धाः ; [[अनिजिन्समूह नो|अभिजिन्-समूहो]] वैष्णवः । मध्यमेन तेजसा ।
+
+मध्यमा मूर्तिः — विष्णुः । तत्-पदं — आकाशम् । मधु-विद्यायाम् — आदित्यो वसु-रुद्रादिभिर् देवैः आदित्यो मधु-रूपः पीयत इति श्रूयते । मध्यमो वेदः — यजुः । “ यजुर्वेदे तिष्ठति मध्ये ऽह्नः ” इति श्रुतेः ।
+
+दीप्तनार्कं — [[दीप्तनार्कं|दीप्तार्कं]] — तारक-ब्रह्मोपायम् ; दीप्त-तारकं तारक-ब्रह्म — प्रणवः ।
+
+“ य एषो ऽन्तरादित्ये हिरण्मयः पुरुषः, तस्य कप्यासं पुण्डरीकम् एवम् अक्षिणी । तस्योदिति नाम ” इत्य् अन्तरादित्य-विद्या-प्रकाशनम् आह — उन्नामेति ।
+
+एक एव धर्मः सङ्कल्प-भेदेन द्विधा भवतीत्याह — तत्तन्-निरूपण इति ।
+
+कर्म - कर्तृ - करण - फलादि-रूपः प्रपञ्चः परमार्थ इति वेदान्तस्य तात्पर्यम् । तत् सर्वं मिथ्येति मायावादः, सौगतश् च । तद् आह — प्रकृत्या वेद-विरोधिनाम् इति ।
+
+[[यद्द्वा|यद्वा]] , चार्वाक - सुगत - दिगम्बराः वेदम् एव न अङ्गी-कुर्वन्ति ; मायावादः तद् अङ्गी-कुर्वन्न् अपि मिथ्येत्याह ।
+
+नैयायिकाः मत-जगत्-प्रलय-संहारे ईश्वर-निषेधात् [[कवन्यर्म-मांसक्रस्य|कस्यचिन्-मीमांसकस्य]] नैयायिकादि-विरोधः । आत्म-निरपेक्षं — स्व-व्याघातम् [[अद्विजायतेति|अविजानतेति]] यावत् । स्वाङ्ग-मात्र-शेषः — तर्क-शून्य-केवल-शिक्षाद्यङ्गवान् ।
+
+[[धर्माधो|धर्मादीन्]] वेद इत्य् आह — त्वन्-निमित्तम् इति ।
+
+[[कच्छवत्|कच्छपवत्]] सागरं तृणी-कृत्य, तद्-रक्त-सिन्धौ — सोम-रक्त-सिन्धौ ।
+
+ऊहैः — तर्कैः । [[कठोधारैः|कठोर-धारैः]] । द्विजाः — विप्राः, पक्षिणः — मांस-भुजः ।
+
+इति [[वेदान्तविजस्पष्टीकायां|वेदान्त-विलास-टीकायां]] प्रथमो ऽङ्कः
+
+[^9_1]: अङ्क-स्वरूपं तु —  
+प्रत्यक्ष-नेतृ-चरितो बिन्दु-व्याप्ति-पुरस्कृतः ।  
+अङ्को [[नाप्रक्रारार्थसंविधानरसाश्रयः|नाना-प्रकारार्थ-संविधान-रसाश्रयः]] ॥ इति ।  
+
+---
+
+[[P10_Ratnadipika]]
+१० यतिराजविजयव्याख्या रत्नदीपिका
+
+### अथ द्वितीयो ऽङ्कः
+
+चार्वाकः स्व-मतम् अवतारयति — भुक्त इति । पञ्च-भूतात्मकं देहे ज्ञानम् उत्पद्यते पाक-विशेषात् किण्वादि-मद्य-शक्ति-वत् । किण्वं — सुरा-द्रव्यम् ।
+
+भक्ष्याभक्ष्ये, गम्यागम्ये — इत्यादि-नियमो नास्ति । देह एव आत्मा । अर्थ-कामौ पुरुषार्थौ । नास्ति परलोकः । बुद्धि-सामर्थ्य-रहितस्य जीवनोपायो धर्म इति हि लोकायतम् ।
+
+> नायकस्य यद् एक-चरित-प्रतिपादकः ।  
+> एक-प्रयोजनाश्लिष्टस् [[तैत्रासन्ननायकः|तत्रासन्न-नायकः]] ॥  
+> छिद्र-पक्षादिभिः पात्रैर् योग्यैश् चैतच्-चतुर्-द्विभिः ।  
+> समस्त-पात्र-निष्कामावसानो ऽङ्को ऽभिधीयते ॥  
+
+इति च निरूप्यते ।
+
+> एक-कार्यान्वितेष्व् अत्र कथांशेषु प्रयोगतः ।  
+> अवन्तरैकार्थस्य सम्बन्धः सन्धिरुच्यते ॥  
+
+इति प्रतिपादित-रीत्या एकेन — मुख्येन प्रयोजनेन अन्वितानाम् इतिवृत्त-खण्डानाम् अवान्तरैकार्थ-प्रयोजन-सम्बन्ध-रूपाः । पञ्च सन्धयः नाटके निबद्ध्यन्ते ।
+
+तेषां स्वरूपं तु :— पञ्च — अवस्था-समन्विताः पञ्च — अर्थ-प्रकृतयः, क्रमेण पञ्च — सन्धयो जायन्ते ; तत्र ।
+
+(१) आरम्भ-बीज-सम्बन्धः — मुख-सन्धिः ;  
+(२) प्रयत्न-बिन्दु-सम्बन्धः — प्रतिमुख-सन्धिः ;  
+(३) प्राप्त्याशा-पताकयोः सम्बन्धः — गर्भ-सन्धिः ;  
+(४) नियताप्ति-प्रकर्योः सम्बन्धः — विमर्श-सन्धिः ;  
+(५) फलागम-कार्ययोः सम्बन्धः — निर्वहण-सन्धिः । इति ॥  
+
+यतोक्तं दशरूपके —
+
+> [[बीजबिन्दुगतीकाव्यप्रकृतीधर्मलक्षणाः|बीज-बिन्दु-पताका-प्रकरी-कार्य-लक्षणाः]] ।  
+> आरम्भ-यत्न-प्राप्त्याशा-नियताप्ति-फलागमाः ॥  
+> अर्थ-प्रकृतयः पञ्च पञ्चावस्था-समन्विताः ।  
+> यथासंख्याने जायन्ते मुखाद्याः पञ्च सन्धयः ॥ इति ।  
+
+साङ्गोपाङ्गानाम् एतेषां समन्वयस् तु यथासम्भवं स्वयम् ऊहनीयः ।
+
+---
+
+[[P11_Ratnadipika]]
+प्रथमो ऽङ्कः ११
+
+वासांसि — स्वर्गः ; श्रियः — स्वर्गाः इति, [[कव्यन्मीमांसकाः|कर्म-मीमांसकाः]] । [[मन्तरूपेण|मन्त्र-रूपेण]] विविधो वेदः । तत्र मन्त्रार्थवादेषु हि देवता-तल्लोक-सर्वेश्वरादि-सिद्धिः ।
+
+विश्वो ऽविद्या-कल्पितः ; ज्ञानम् एव सत्यम् इति — बौद्ध-मार्गः ।
+
+वेदान्त-प्रतिपाद्यं सर्वम् असत्, विज्ञानम् एव सत्यम् ; एतच् च विज्ञानं वेदान्त-विषयम् — इति ह्य् आहुः [[राहुर्मीमांसकाः|राहु-मीमांसकाः]] ।
+
+### इति विष्कम्भः
+
+राज्यं — विषयः । हत-कण्टकं — हत-प्रतिपक्षम् । अहि-भयं — अन्तर्-विरोधः । “ महीभुजाम् अहिभयं स्वप्रभवं भयम् ” इत्य् अमरः ।
+
+प्रत्यक्षादि-ज्ञानस्य क्षणिकत्वात् “ इदमस्माद् भिन्नम् ” इति धर्मि-ग्रहण-पूर्वक-प्रतियोगि-स्मरण-सापेक्ष-भेद-ग्रहणानुपपत्तेः प्रतियोगि-सापेक्ष-भेदस्य तन्-निरपेक्ष-स्वरूपानुपपत्तेश् च । ग्राह्य-भेद - तद्-ग्राहक-प्रमाणयोर् अनुपपत्त्या अन्योन्याश्रय-दोषत्वाच् च भेद-प्रसङ्ग-रहितम् ।
+
+“ इदमस्मात् ” इति पुरोवर्त्ति-प्रतियोगिनोः भेदेन ग्रहणे सति ‘ इदमस्माद् भिन्नम् ’ इति भेद-ग्रहणं ; भेद-ग्रहणे सति पुरोवर्त्ति-प्रतियोगिनो ग्रहणम् — इत्य् अन्योन्याश्रयः । इदमस्माद् भिन्नम् इति अभेद-ग्रहण-पक्षे ऽपि समानो ऽयं दोष इति, सिद्धान्ते भेद-दोष-परिहारः । भेदाभावे ऽपि, याग-तत्-करण-तत्-कर्तृ-तत्-फलादि-रूपेण विहितात्मभेदः । यद्वा — आत्मैकत्वे ऽपि अनेकात्मभेदः । उभयोर् वेदत्वाविरोधात् [[आतुत्वम्|आप्तत्वम्]] ।
+
+देवता-स्वर्गादि — तच्छोक-निराकरणाच् चार्वाकत्वम् आरोपयन्ति — शब्दैर् इति । “ अथातो धर्मजिज्ञासा ” इति धर्म-परो ऽपि ।
+
+> ये यजन्ति पितॄन् देवान् ब्राह्मणान् सहुताशनान् ।  
+> सर्व-भूतान्तरात्मानं विष्णुम् एव यजन्ति ते ॥  
+
+इत्यादि प्रमाण-सिद्धम् अनङ्गी-कुर्वन् कृत्स्नस्य वेद-राशेर् एक-प्रमाणत्वे परस्पर-विरोध-सम्भवे ऽपि विरोधः कृत इति रहस्यं चिन्तयति — सिद्धं नस् समीहितम् इति ।
+
+मिथ्या-दृष्टि-विलय-समोहितं — सर्वं मिथ्येति सयुक्तिकम् अज्ञान-मोहितं कृत्वा, एन-
+
+---
+
+[[P12_Ratnadipika]]
+१२ यतिराजविजयव्याख्या रत्नदीपिका
+
+[[मपलप्य|अपलप्य]] । माया-विलासिनी-विलासान् — मायैव विलासिनी । तद्-विलासान् अविद्या-कृतान् दहर-विद्यादि-रूपान् ।
+
+मिथ्या-दृष्टिः — मिथ्या-मतिः । इह — अस्मिन् लोके । मर्त्यः बालो वा भवतु, यदि वा जरन् भवतु । असौ मया [[स्प्रष्टव्येत्|स्पृश्येत]] यदि — इत्य् अन्वयः । युवा तिष्ठतीति, वाक्यान्तर-वाक्यम् । असौ बालो जरन् विरक्तो ऽपि मया स्पृश्येत चेत् , न केवलं मुक्तिं, [[मुक्तिमपि|भुक्तिम् अपि]] जहातीत्याह — कृत्याकृत्येति ।
+
+अन्यथा - विपर्य्यस्तम् । मधुरेत्यादिना मिथ्या-दृष्टेस् सर्वं संमोहन-सौभाग्यम् आह । प्रामाणिक-समन्वया-विरोध-साधन-वन्तम् अपि राजानं मोहयितुं  मिथ्या-दृष्टि-सौभाग्यं दर्शयति — प्रकाशम् इति ।
+
+स-बहुमानं — “ सर्वं मिथ्येति मद्-वेदान्त-समुचिते ” त्य् अनेक-प्रमाण-सहितं यथा भवति तथा ।
+
+वारी तु — गज-बन्धनी । उर्वश्य् असि पुरूरवा असीति, ताभ्याम् उत्तराधरा-रण्योर् निरूपणात् ।
+
+वेद-विचार-विरोधं दर्शयति --- भवद्-व्याख्येति ।
+
+अहङ्कारे ब्रह्म-प्रतिपादनम् एव जीवः - इति मायावादः । नित्याः, सत्याः, कर्तृत्व-भोक्तृत्व-विशिष्टा एव जीवाः ; तद्-व्यतिरिक्तं ब्रह्म हि नास्तीति — [[कवन्यमीमांसकः|कर्म-मीमांसकः]] ।
+
+बौद्ध-बहुमता मिथ्या-मतिः । वेदान्तम् आत्मसात्-कर्तुम् उपक्रमते — राजानं कण्ठ इति । प्रेयसी-वाक्यस्य सर्वं मिथ्येति मतौ वेदान्तस्य प्रीतिर् नास्तीति भावः । मिथ्या-दृष्टिः वेदान्तं [[स्वाभिसुखं|स्वाभिमुखं]] कर्तुम् आह — मन्दारेति । सपीतिः — सहपानम् । “ सपीतिः स्त्री तुल्य-पानं सजग्धिः सह-भोजनम् ” इत्य् अमरः ।
+
+केचित् प्रत्यक्षम् अपि अपलपन्ति, केचित् परोक्षम् । उभयापलापित्वात् त्वय्य् एव अहम् अप्य् अन्तानुक्तेत्याह — पुरुषायेति ।
+
+विप्रतिपन्नं प्रति सर्वं मिथ्येत्याह — वेदाः शास्त्रम् इति ।
+
+---
+
+[[P13_Ratnadipika]]
+द्वितीयो ऽङ्कः १३
+
+स्वानुमतम् अपि भाष्यकारम् अनुविधत्ते — [[गगान्धस्ये यादिन।|कणादस्येत्यादिना]] । सोल्लुण्ठम् आह — [[त्वन्मङ्ग|त्वन्मग्ने]] इति ।
+
+अअज्ञात-पूर्व्वा — इतः पूर्वं मद्य-[[मद्यगन्धायनुर्वा|गन्धादिना]] अज्ञात-पूर्वाम् । आभोग-स्तन-मन्थरैर् इति मिथ्या-दृष्टेस् सर्व-जन-मोहन-सौभाग्यम् अपेक्ष्यते । अर्थं मिथ्येति ज्ञानम् इत्य् अभिप्रायं रागातिशयेन छादयति — आनन्दामृतेति ।
+
+एतादृशानां वाक्यानाम् अतिगम्भीरत्वात् एषाम् अर्थो व्याख्यातुं न शक्यते ; प्रकरणानुगुणम् एव ऊहनीयः ।
+
+महावाक्यम् आह — तत्त्वमसीति ।
+
+छाया :—
+
+> भवति तव वेदमौले कीर्ति-मुक्ता-कलापः कण्ठ-गतः !  
+> गायन्तीनां मधुरं [[भूपा|भूयः]] गन्धर्व-राज-कन्यानाम् ॥  
+
+कण्ठे हार-लता, अपि च कपोल-फलके कर्पूर-पत्रावली । धम्मिल्ल अम्पि — धम्मिल्ले च, मल्लिआ — मल्लिका, सुरवदुवग्गस्स — श्रुति-वधू-वर्गस्य, णिग्गच्छइ — निर्गच्छति । कीर्तिर् मौक्तिक-निर्मला तव महा-मोक्ष-दीक्षा-गुरुः । जोल्हाहोदि — ज्योत्स्ना भवति । विपक्ष-दर्शन-श्रीवक्त्रारविन्देषु ।
+
+भरत-शब्देन — शुक-पराशरादयो उच्यन्ते । तेषां चिदचिदीश्वर-भोग-मोक्षादि-विषये शास्त्र-सिद्धेन [[कचित्|क्वचित्]] मिथ्या-मति-प्रवेशः इति भावः ।
+
+मिथ्या-मतिः प्रमाण-दुर्महेत्याह — गृहीता ऽप्य् अंशुके इति । वितथाम् अपि तां सत्याम् इव भाष्यादि-प्रिय-[[प्रार्थ|प्रायः]] उपलालयति --- हा प्रिये इत्यादिना ।
+
+[[काटा|काष्ठा]] — चरम-सीमा । अनुक्रोशः — कृपा । माया-विलासिन्या — अविद्या ।
+
+“ कश्चिद् रजकः क्षाम-काले भक्षणार्थं व्याघ्र-चर्मणा समाच्छाद्य गर्दभीं विसृष्टवान् । सा प्रयत्न-संवर्धितान् कलमान् भक्षयन्ती व्याघ्र-भयेन मन्त्रगतं कम्बल-वृतं [[कल्पम-वाचकं|क्षेत्र-पालकं]] दृष्ट्वा गर्दभ-शङ्कया ररास । तदा निर्णं तां [[कल्पमपालो|क्षेत्रपालो]] जघान ” इति कथां स्मारयति — हा मुग्धेति ।
+
+
+
+[[P14_Ratnadipika]]
+१४ यतिराजविजयव्याख्या रत्नदीपिका
+
+मिथ्या-दृष्टि-चरितम् आह — आबालगोपम् इति । आत्मानम् एव शुल्कं दत्तवद्भिः मिथ्या-ज्ञान-मुषितात्मभिर् इत्य् अर्थः ।
+
+पुंश्चली — पुंसः चालयति स्वरूप-ज्ञानात् [[अंशय तीति|भ्रंशयतीति]] ।
+
+राज्ञः स्वाभाविकं मिथ्या-मति-विरोधं दर्शयति — कुहक-कुल-[[कुट्टुम्बिनीति|कुटुम्बिनीति]] ।
+
+सुनीतिः — प्रच्छन्न-पात्रम् । भर्तुः छाया-सम्बन्धम् अपि न सहन्ते ; किम् उत [[योपि-|योषित्-]][[दन्तरम्|अन्तरम्]] । न्यायोपबृंहित-प्रमाण-रहितं वेद्यम् एव न भवतीत्याह — सुमति-सुनीति-रहितम् इति ।
+
+सुनीतिः भयात् देवं शङ्कते — मायावाद-वशेति ।
+
+यतिराजं [[स्वानुकुलार्थनिरूपकं|स्वानुकूलार्थ-निरूपकम्]] कर्तु-[[मनःप्रायवानाह|मनः-प्रायवान् आह]] — तद् भवतेति ।
+
+यथा-प्रमाणम् — [[प्रत्यक्षानुमानमागमामिदं|प्रत्यक्षानुमानागमम् इदम्]] सर्वं प्रमेय-जातं सत्यं भवति, नासत्यम् इति भावः ।
+
+तत्र सम्प्रदायं दर्शयति — भगवान् यामुनो ऽपि इति । अत्र व्याख्यानाद् अपि — मूले सर्वं सुगमम् ।
+
+रसालः — चूतः ।
+
+वासनातिशयम् आह — प्रेयसीति । मिथ्या-दृष्टि-संसर्ग-परिवादात् यतिराज-वाक्यात् ।
+
+प्रपञ्चो मिथ्येति मतिः राज्ञो न नष्टेत्याह — एवम् अप्य् अस्य इति ।
+
+इति वेदान्त-विलास-टीकायां
+
+द्वितीयो ऽङ्कः समाप्तः ।
+
+---
+
+[[P15_Ratnadipika]]
+### अथ तृतीयो ऽङ्कः
+
+'सद् एव सोम्ये ' इत्य् उपनिषत्-मद्-विद्या । [[सदृहः|सदृशः]] सुविचारः । [[मन्त्रिषदे|मन्त्रि-पदे]] — भाष्यकार-पदे । मायावादः [[सुनकै|शुनकैः]] इत्य् आह — सेनापतिर् इति ।
+
+शं — सुखम् , कल्पयति दारयति — इति, मिथ्या-दृष्टिः — [[शङ्कळा|शङ्कला]], मोक्ष-सुख-विरोधित्वात् । [[न दिग्भति|न बिभेति]] । परित्यागे ऽपि तद्-वासना-लेशो ऽनुवर्त्तत इति भावः ।
+
+स-परिवारः । स्मृतीतिहास-पुराणादयः — परिवाराः । शंसनम् — प्रार्थनम् । भास्कर - यादव - मायावादाः परस्पर-विरुद्धा इत्याह — रामानुज-कृतोपजाप इति । उपजापः — [[अन्यभेदः|मन्त्र-भेदः]] । बहुमानं — बहु-प्रमाणम् । [[सद्विधैव|सद्विद्यैव]] ज्ञान-रूपत्वात् सुमतिर् इत्याह — [[मन्मिन्नाया|मन्मयीति]] ।
+
+' इति प्रवेशकः
+
+[[यामुनकारूलक्ष्मी|यामुन-करारविन्द-लक्ष्मीः]] [[यामुनप्रपिय|यामुन-प्रपन्न]] इत्य् अर्थः । मायावाद-दर्शित-मार्गः इत्य् अनेन सर्वं मिथ्येति मार्गः वेदान्त० अमत इति सूचितम् । मन्त्रिणः — भाष्यकारादयः । [[स्वमव्याव्यानुकूलं|स्व-व्याख्यानानुकूलं]] वेदान्तं मन्यन्ते इत्य् आह — स्वगतमित्यादिना ।
+
+बहु-व्याख्यान-परस्पर-विरोध-[[निस्तः|खिन्नः]] पृच्छति [[मन्मन्तभार|मन्मन्थर इति]] । प्रियमञ्जुः [[विवधमन्तकैः|विविध-मन्त्रकैः]] । विषय — प्रतिपाद्यम् [[प्रतिपाद्यमथ्स्यम्|अर्थस्य]] ।
+
+वेदान्त-माहात्म्यम् आह — राजन् इति । [[पुरुषत्वमग्नी आदिः|मरीच्यादिः]] येषां । ब्रह्माण्डान्तरेष्व् अपि अयम् एव वेदान्त मुमुक्षुः [[स्मय्य|स्मर्यत]] इत्याह — ब्रह्माण्डकोटीति ।
+
+प्रत्यक्षादि-प्रमाणानि [[स्वव्यापोपस्थापन|स्व-व्याप्योपस्थापन-]] वेदान्त-शेष-भूतानीत्याह — प्रत्येकं नियत इति । प्रमाणानुग्राहकस् तर्कः — इत्य् आह — तर्क-दंशितेति । [[न य शतम|“ न वै शतम् ”]] “ ते ये शतम् ” इति शत-गुणोत्तरम् । लीला-विभूतिर् नित्य-विभूतिर् इति, द्वे विभूती ।
+
+[[नेद नेद्र मिति|“ नेति नेति ” इति]] मिथ्या-भूत-प्रपञ्च-निरास- [[पञ्चमात्त्रमय नदिनरप्रपञ्च|पञ्चम-प्रकार-तुल्य-ब्रह्म-व्यतिरिक्त-प्रपञ्च-बाधकः]] स्वानुकूलत्वाद् आह — महागजम् इति ।
+
+[^15_1]: वृत्त-वर्त्तिष्यमाणानां कथांशानां निदर्शकः । प्रवेशस् तु नाटकाङ्के नाट्य-पात्र-प्रयोजितः ॥ इति प्रवेशकस्य लक्षणम्  
+
+---
+
+[[P16_Ratnadipika]]
+१६ यतिराजविजयव्याख्या रत्नदीपिका
+
+ब्रह्म-व्यतिरिक्त-प्रपञ्च-साधकः [[स्वानुकूलवादाह|स्वानुकूलत्वाद् आह]] — महागजम् इति । ब्रह्म-व्यतिरिक्त — सत्त्वे ऽप्य् उपाध्य्-अङ्गीकाराद् आह — [[तच्चमपि|तत्त्वम् अपि]] कदाचिद् इति । चिदचित्-प्रपञ्च-सद्भावस्य [[अभिमत्वादाह|अभिमतत्वाद् आह]] — तम् एव इति । [[स्वानिमन्त्वादाह|स्वानुमतत्वाद् आह]] — [[प्रमाणन्तीति|प्रमाणयन्तीति]] ।
+
+अन्वारुह्य अनवस्थां दर्शयति प्रमाण-सिद्धौ प्रमाणापेक्षायां अनवस्था । तद्-अपेक्षायां प्रमाण-वत् प्रपञ्चो ऽपि तथ्यः स्याद् इति, न प्रमाणम् अनङ्गीकरणम्, यम् इति श्लोकार्थः ।
+
+“ घटम् अहं जानामि ” इत्य् अत्र प्रमाण-प्रमेय-वत् प्रमाण-भूतं ज्ञानं स्वेनैव स्वात्मानम् अपि प्रकाशयतीति भावः ।
+
+इदमहं वेद्मीति, संविदः स्वतस्-सिद्धौ नानवस्था सम्भवति । संविद् एव हि [[नन्|ननु]] तवापि प्रमाणम् इत्य् अर्थः ।
+
+या खलु तद् इति पाठे, या संवित् प्रमाणम्, सा संवित् स्वतस्-सिद्धेत्यर्थः । तत्त्वं च — प्रमाणत्वं च ।
+
+ज्ञानस्य प्रामाण्यं स्वतः, अप्रामाण्यं परतः — इति मीमांसकाः । प्रामाण्या-प्रामाण्ये परतः — इति तार्किकाः । पक्ष-द्वये ऽपि न विरोधः इत्य् आह — स्वतः स्वार्थेति । [[मोल्लुण्ठनं|सोल्लुण्ठनं]] तु — मर्मस्पृक् ।
+
+“ मायावादम् असच्-छास्त्रं प्रच्छन्नं बौद्धम् उच्यते ” इति पुराण-वचनं हृदि निधायाह — [[सर्वलोकाश्नती|सर्वलोकाश्नन्तीति]] । [[यत्किञ्चिद्वेवामीति|यत्-किञ्चिद् जल्पामीति]] ग्राम्य-परिहासः । तद्-अभिप्रायं जानन्न् आह — भो जाल्मेति । जाल्मः — कुहकः । अन्यथा — [[असर्वज्ञत्वम्|असर्वज्ञत्वम्]] ।
+
+असत्यम् अपि सत्य-वत् प्रतिभासमानं व्यावहारिकम्, [[तद्द्बृष्यति|तद् दूषयति]] — मिथ्येति । न हि मिथ्येति [[विदिनो|विदिते]] रज्जुसर्पः त्रासं जनयति । न ह्य् असत्यम् अर्थ-क्रिया-कारि । अर्थ-क्रिया-कारित्वात् जगत् सत्यम् इति भावः ।
+
+राज्ञः — शास्त्रस्य । मन्त्रि-कुलस्य — तद्-व्याख्यातृ-वर्गस्य । [[परस्परवर्गं|परस्पर-वैरिणां]] तद् द्रष्टुं - तस्य शास्त्रस्य प्रमेयम् । सुखं — [[अयाकुलम्|अनाकुलम्]] । अन्यथा एतत् प्रमेयं नश्यति । अहि-भयं — परस्पर-विरोधः । अत्र राजनीतिः दृष्टान्तः ।
+
+भृगु-नारद-प्रभृतयो ब्रह्मविदः — अध्यात्मविदः । [[महारण्यं|महद्-अरण्यं]] — अरण्यानी ।
+
+---
+
+[[P17_Ratnadipika]]
+तृतीयो ऽङ्कः १७
+
+> “ प्राप्यस्य ब्रह्मणो रूपं प्राप्तुश् च प्रत्यगात्मनः ।  
+> प्राप्त्युपायं फलं प्राप्तिस् तथा [[प्राप्तिविरोध च|प्राप्ति-विरोधः च]] ॥ ”  
+
+इति वेदान्त-प्रधान-प्रतिपाद्या पञ्चार्थी । अम्लान-धीः — [[प्रतिभानैर्नाकुकलीः|प्रतिभानैर् अनाकुली]] । अनेन, श्रवणं, तत्-प्रतिष्ठार्थं मननं च उक्तम् । निदिध्यासनम् आह — पश्यन्तीति । “ श्रोतव्यो मन्तव्यो [[निदिध्यासितव्य|निदिध्यासितव्यः]] ” इति श्रुतेः । स्वस्मै स्वेन प्रकाशनं प्रत्यक् ; [[तत्कलमाह|तत्-फलम् आह]] — [[साम्म्यमिति|साम्यम् इति]] । निरञ्जनः — कर्म-[[तद्वासनागन्ध्ररहितः|तद्-वासना-गन्ध-रहितः]] । “ निरञ्जनः परमं साम्यम् उपैति ”, “ भोग-मात्र-साम्य-लिङ्गाच् च ” इति श्रुति-सूत्रे । पादाः — षोडश ।
+
+पृथग्जनः — प्राकृतः, भेद-दर्शी जनश् च । शून्य-कल्पः — [[जरद्वादद्वाक्या- र्थरहितः|जरद्-वाद-वाक्यार्थ-रहितः]] ।
+
+मुक्तानां सर्वेश्वर-सङ्कल्पैकरूप-स्वसङ्कल्पानुगुणं पञ्चोपनिषन्मयं शरीरम् अस्ति इत्य् आह — सङ्कल्पसिद्धेति । तमसः — प्रकृतेः । भोग-मात्र-साम्यम्, न तु [[सर्वसाम्य- मिति|सर्व-साम्यम्]] इति भावः । “ भोग-मात्र-साम्य-लिङ्गात् ” “ [[जगद्व्यापारवर्जं ” मिति|जगद्-व्यापार-वर्जं ” इति]] सूत्र-व्यवस्था । ब्रह्मणः पूः — अपराजिता । अनेन [[उपकारम्युनिरुक्ता|उपकारिका निरुक्ता]] । रक्त-कण्ठी — राग-युक्त-कण्ठी ।
+
+सम्प्रति [[अमात्यराजेन्यतेन|अमात्य-राजेन उदितेन]] गण्डम् उक्तम् । “ गण्डं प्रस्तुत-सम्बन्धि भिन्नार्थं [[स्वरयोदितम्|स्वरेणोदितम्]] ” इति वचनात् ।
+
+बोधायन - द्रमिडादयो विशिष्टाद्वैत-ग्रन्थ-कर्तारः ।
+
+“ स हि विद्या-तनुं जनयति ” इति आचार्य-प्रभावम् आह — स किलेति ।
+
+युगपत् ब्रह्माण्ड-संहार-पक्षम् आह — ब्रह्मेति । अण्डाधिपतीनां ब्रह्मणां [[परायु-|परायुः-]]क्षयो युगपद् एव । ततः प्रायः प्रतिसञ्चरत्सु, “ पृथिव्य् अप्सु प्रलीयते ” इत्यादिक्रमेण प्रतिसंह्रियमाणेष्व् इत्य् अर्थः ।
+
+चेतनाचेतन-वस्तुषु वर्णानाम् आकाश-धर्मत्वेन अनित्यत्वे ऽपि [[तन्मन्दर्म|तदानुपूर्वी-]]स्थायित्वम् एवे वेद-नित्यत्वम् इत्य् आह — यथापुरेति । यथा-पूर्व-सन्दर्भं वेदान् स्मृत्वा सर्गादौ उपदिशति । “ यो ब्रह्माणं विदधाति पूर्वं, यो वै वेदांश् च प्रहिणोति तस्मै ” इति श्रुतेः ।
+
+मन्त्र-माया — मन्त्र-कपटम् । [[मैव|मरीच्यैव]] मृगतृष्णा — मरीचिका-जलम् । मरीचिः — मृगतृष्णा च !
+
+---
+
+[[P18_Ratnadipika]]
+१८ यतिराजविजयव्याख्या रत्नदीपिका
+
+ब्रह्म-सूत्रं — ब्रह्म-मीमांसा-सूत्रम् परित्यज्य वैशेषिक-सूत्रस्य रावणो भाष्यं [[कृतवानित्याहुः|कृतवान् इत्याहुः]] । ब्रह्म-सूत्रं — यज्ञोपवीतं च । “ अहम् एव ब्रह्म, [[मतो|मत्तो]] ऽन्यत् सर्वं मिथ्या ” इति च [[सद्मदनिर्वचनीयानाद्यविद्या|सद्-असद्-अनिर्वचनीयानाद्यविद्या]] माया ; कपटं च । तच् च [[मन्त्रौषध|मन्त्रौषध]]-बलेन अविद्य-मानस्य विद्यमान-वत् प्रकाशनम् ।
+
+कुटीचक — बहूदक — हंस- परमहंसेषु [[सन्यास|संन्यास]]-भेदेषु परमहंसस्य यज्ञोपवीत-त्यागो न दोषाय इति मन्वान आह — त्वम् एव [[क्रिमिति|किम् इति]] ।
+
+नाहम् इदानीम् एतद् ब्रवीमीत्य् अनेन परमहंसस्य अपि यज्ञोपवीत-त्यागे महान् दोष इति भावः । शारीरक-सूत्रम् — वेदान्त-सूत्रम् । तत्-परित्याग-प्रकारम् आह — संप्रतीति । यथा-जातः — अज्ञः । अयथा-जातः — [[यन्त्रपूजनितः|यन्त्र-कूप-जनितः]] ।
+
+गगन-कुसुम-कल्पं निरूपाख्य-चिन्मात्रं ब्रह्म वेदान्त-वेद्यं न भवतीत्याह — तत्तन्-निरूपण इति ।
+
+अद्वैतमय - चिदात्मनः स्वयंप्रकाशस्य वेदान्त-वेद्यत्वे विरुद्धतां दर्शयति — तदाकाङ्क्षायाम् इति । मिथ्यात्वम्, अनित्यत्व - जडत्व - नानात्वादीनाम् उपलक्षणम् ।
+
+वेदान्त-वेद्यत्वं च स्व-मत-विरुद्धम् एव । तद् उक्तं खण्डने —
+
+> आपाततो यद् इदम् अद्वय-वादिनीनाम्  
+> अद्वैतम् आकलितम् अर्थतया श्रुतीनाम् ।  
+> तत्त्व-प्रकाश-परमार्थ-चिद् एव भूत्वा  
+> [[निष्र्पीडितादहह|निष्पीडिताद् अहह]] विचारात् ॥ इति ।  
+
+तन्-मतम् उद्बोधयन्न् उपालभते — [[मच्चिह्नेति|मच्चिह्नेति]] ।
+
+ब्रह्म-सूत्र-परित्यागे हेत्व्-अन्तरम् आह — कीदृशी मुक्तिर् इति ।
+
+ब्रह्मैव, उत [[तद्विलक्षणे|तद्-विलक्षणा]] इति विकल्प्य, पक्ष-द्वये ऽपि ते मोक्षो न सिद्ध्यती-त्याह — न साध्या ब्रह्म चेद् इति ।
+
+मायावाद-मौने हेतुं व्यपदिशति — तृणी-कृतेति ।
+
+
+
+[[P19_Ratnadipika]]
+चतुर्थो ऽङ्कः १९
+
+आत्त-गन्धो ऽभिभूतः स्यात् । किं तथैव तिष्ठति । पूर्वं मौनितो भवत इत्य् अर्थः । आलेख्यम् — चित्रम् ।
+
+अद्वैतमयान्धकार-साम्यम् आह — येनेति । अन्धकारे वस्तु-सत्ता-मात्रं स्फुरति ; [[तन्मस्थानरूपदिभेदो|तन्-मूर्त्त-रूपादि-भेदो]] न दृष्टि-गोचरः । अद्वैते सन्-मात्रं ब्रह्मैव सत्यम् ; तद्-व्यतिरिक्तं जगत् दृष्टि-गोचरतया अतत्त्व-ज्ञान-गोचरतया मिथ्यैव, घट-पटादि-वस्तु-भेदो ऽपि दुर्निरूप इत्य् आह — [[उन्मीलितमियोभेदेनि|उन्मीलितम् इव भेदेनेति]] । एवं विपरीत-ज्ञान-परम्परा तन्यते ।
+
+इति तृतीयो ऽङ्कः समाप्तः ।
+
+श्रीः
+
+### चतुर्थो ऽङ्कः
+
+ततः प्रविशति केशध्वजो जनकः । [[मोक्षोपायता|मोक्षोपायतां]] शम-दमादि-सम्पन्नां गीताम् आह — [[विगक्तिरथेति|विवेक-रथेति]] ।
+
+कर्म - ज्ञान - भक्ति - प्रपत्ति-योगाः मोक्षोपायाः — इति, मोक्षश् च परम-पुरुष-[[गाम्भ्यम्|प्राप्तिः]] — इति गीता-तात्पर्यम् ।
+
+वेदोपबृंहणतया तत्-परं श्रीविष्णुपुराणं कश्चिज्-जनः मुक्त्या जीवस्य परमात्मैक्यम् उक्तम् इति मायावादो वेदान्तम् [[आभायामुक्तवान्|आभास्य उक्तवान्]] । तद् इदं पृच्छति — नहि नहि इति ।
+
+[[मन्विन्मयेति|मन्मय इति]] [[श्लोकत्रयप्रमभिसन्धिः|श्लोक-त्रयस्याभिसन्धिः]] — “ असङ्कुचित-परमेश्वरत्वाश्रय-भूत-संविन्मय शुभाश्रयत्वात्यन्त-भगवद्-असाधारण-रूपानुज्ञानात् अज्ञानादि-द्वैत-हेतु-भूत-[[निशेष|विशेष]]-ज्ञान-विलये सति अखिलेहेयप्रत्यनीक - कल्याणैकतानाभ्यां ” भगवता अभेदो भवति — तुल्यो भवति इति ।
+
+अनेन “ तद्-भाव-भावम् आपन्नः ”, “ विभेद-जनके ज्ञाने ” इति श्लोकयोः तात्पर्यम् उक्तम् । दर्शित-बहु-नीति-विप्लवे — न्याय-शास्त्र-[[विरोध्ये|विरोधे]] ।
+
+इति विष्कम्भः
+
+---
+
+[[P20_Ratnadipika]]
+२० यतिराजविजयव्याख्या रत्नदीपिका
+
+अधर-बिम्बं — अधर-सदृशं [[विम्बम्|बिम्बम्]] ।
+
+आश्रम-धर्माणां “ सर्वापेक्षा च यज्ञादि-श्रुतेर् अश्व-वत् ” इत्य् अत्र ब्रह्म-विद्याङ्गत्वम् उचितम् इत्य् आह — गृहिणो ऽपि इति ।
+
+तारका — कनीनिका, नक्षत्रं च ।
+
+प्रमाणाभावे ऽपि [[सकल्लोक|सकल-लोक]]-मोहन-चतुराया माया-विलास-रूपत्वात्, मिथ्या-दृष्टिः — मायाविलासिनीत्युच्यते । सुमतिः — चिदचिदीश्वर-[[याथात्म्यमतिः|याथात्म्य-मतिः]] , [[प्रमाणवत्ती|प्रमाणवती]] । [[मदर्शित|मद्-दर्शित]]-सूत्र-मार्गः — मया सूत्रतया दर्शितो मार्गः ; अन्यत्र मायावादि-चिन्तितो मार्गश् च ।
+
+चतुर्विधेषु नायकेषु सचिवायत्त-सकल-भरो धीर-ललितः । शास्त्रम् अप्य् एवं [[भाष्यकाराायत्तमवार्थसिद्धिः|भाष्यकारायत्त-सर्वार्थ-सिद्धिः]] , अत एव धीर-ललित इत्युच्यते ।
+
+स्व-चरितं — वेदमौलि-चरितम् । समये — सिद्धान्ते, काले च । मिथ्या-दृष्टिः — पूर्व-पक्ष-पात्रम् । भरते — नटे, [[बहविन्दग्रेसरे|ब्रह्मविद्-अग्रेसरे]] च ।
+
+[[किगहमाकुलास्मि|किम् अहम् आकुलास्मि]] — इत्यनेन वाक्येन, व्यतिरेक-लक्षणया, देवं सुमतिं च [[बहुभिर्न्वार्यैयोजितु|बहुभिर् अनिवार्य्यैर् योक्तुम्]] आकुलास्मीति सूच्यते ।
+
+अमुम् एव अर्थं विशदयति — राजा सोल्लुण्ठम् इति । यामुनः [[तद्विजायाह|तद्-विजयाद् आह]] [[तत्त देव|तत्तद् एव]] इति ।
+
+वेदान्ते परमार्थतः चिदचिदीश्वर-प्रमित्या योजयितुम् उपक्रमोपसंहारादि-नीतैर् एव सामर्थ्यम् इति सुनीतिं प्रार्थयते — [[युक्तयुक्तैति|युक्तयुक्तैवेति]] । स्वयम् एवाभिहितस्य मोक्ष-तद्-उपाय-ब्रह्मोपासनाद्यर्थस्य सत्यत्वम् असत्यत्वं वा भवितुम् अर्हति । निरूपणम् — परस्पर-सदृशयोर् वेदान्त-सुमत्योर् योजनम् । सगुण-निर्गुणादि-वाक्ययोः — उत्सर्गापवादवत्, विषय-व्यवस्थया परस्पर-विरोध-शमनम् । गणिका-वत् — गण-वशीकारात् गणिका, उदार-शील-[[गुणयेति|गुणवती इति]] । संयोजयितुं सुलभेति भावः । पूर्व-काण्ड-नीतिम् अवतार्य सकल-वाक्य-विरोधः शमनीय इति भावः ।
+
+किं किं न कुर्यात् — सर्वं कुर्याद् एव । तद्-आवर्जनोपायम् आह — किन्त्व् इति ।
+
+[[वस्तुन्याथात्म्य|वस्तु-याथात्म्य]]-ज्ञानम् अत्र सुमतिः ; तस्यां वेदान्तः स्व-प्रेमातिशयम् आह — आजिघ्रन्न् इति । परम-पुरुष-गुण-विधि-निषेध-वाक्य-कलापस्य विरोध-परिहाराय सामान्य-विशेष-नीति-
+
+---
+
+[[P21_Ratnadipika]]
+चतुर्थो ऽङ्कः २१
+
+परित्यागे हेतुम् आह — [[दुर्मन्तीति|दुर्मते इति]] । सामान्य-विशेष-नीत्याप्यस्य [[नीत्याप्यय्य|नीत्याप्य् अस्य]] स्वारसिकत्वम् आह — ईदृशेति । लालित्यं — भाष्याधीनत्वम् ।
+
+सुमति-सौन्दर्यातिशयम् आह — [[साम्प्र्ये|साम्ये]] इति । कैशिकं — [[कशसंहतिः|केश-संहतिः]] । वैदेशिकं — देशान्तर-गतम् । असदृशम् इत्य् अर्थः । [[कोटरन्तरे|कोटरान्तरे]] — विवर-पक्षे ।
+
+अस्पर्श्याभ्यां मिथ्या-दृष्टिं लक्ष्यति — रथ्याम्भसीति ।
+
+वर्धकी — सकल-पुरुषार्थ-च्छेद-करी । वृधु — छेदने ।
+
+भगवद्-विषये प्रीति-रूपपन्ना [[मतिमन्नतिरेव|मति-सन्ततिर् एव]] — भक्तिः । त्वयि चित्तवान् [[भवनान्यनेन|भवन्न् अनेन]] अन्यत्र चित्तवान् भवतीति च गम्यते ।
+
+तत्त्व-हित-पुरुषार्थ-प्रमितेः स्वानुकूल-प्रमाण-विरहे, वेदान्तस्य च तादृश-प्रमिति-विरहे विनाश एव स्यात् । तद्-उभयं त्वया रक्षणीयम् इत्य् आह — शून्येति ।
+
+वेदान्त-जन्या सुमतिः, कथं तस्य स्त्रीति चेत् — तस्याः नित्यत्वात् ।
+
+तत्र सखी-वचनं मनो-विकार-परतया [[मापालम्भ|सापालम्भं]] मत्वा ऽआह — प्रियमखि मुञ्चेति । तत्र हेतुम् आह — [[मानार्हादित|मानार्हाद् इति]] । सुदृशां — विदुषाम्, मानं — प्रमाणम् । [[तन्खण्डन|तत्-खण्डनम्]] — प्रमाण-खण्डनम् । तन् न केनापि कर्त्तव्यम् ; सर्वोपजीव्यत्वात् प्रमाणस्य । तद्-भङ्गम् अपि कुर्वन् । खण्डन-युक्तिभिः — असद्-युक्तिभिः । [[व्यक्तपराघो|व्यक्तापराधो]] — धृष्टः । तद्-दर्शिनी — मान-खण्डनं पश्यन्ती सुमतिः । प्रमितिः किं जीवेत् ? जीवेद् एव । अन्यथा [[दृषितापि|दूषितापि]] व्यावहारिक-सत्ताम् आलम्ब्य जीवामीति चेत् । धृत-गणिका-शब्देन — मिथ्या-दृष्टिर् लक्ष्यते । भुक्तोच्छिष्टं तु निर्माल्यम् । मद्भिः — प्रामाणिकैः ।
+
+एतद् उक्तं भवति :— मायावाद-प्रेरणया सर्वं मिथ्येति दृष्ट्या [[मृष्टस्य|सृष्टस्य]] राजः प्रिया ऽहं न भवेयम् इति ।
+
+अन्यत्र मानः — अभिमानः । सुदृशां — योषिताम् । खण्डन-हेतवः — प्रति-नायिका-सम्भोग-चिह्नानि नख-क्षतादीनि । तच्-चिह्न-प्रकाशेन धृष्टः ।
+
+तत्त्व-हित-पुरुषार्थ-प्रमितेः स्वानुकूल-प्रमाण-विरहे, वेदान्तस्य च तादृश-प्रमिति-विरहे विनाश एव स्यात् । तद्-उभयं त्वया रक्षणीयम् इत्य् आह — शून्येति ।
+
+वेदान्त-जन्या सुमतिः, कथं तस्य स्त्रीति चेत् — तस्याः नित्यत्वात् ।
+
+---
+
+[[P22_Ratnadipika]]
+२२ यतिराजविजयव्याख्या रत्नदीपिका
+
+तद् उक्तम् — “ यथा न क्रियते ज्योत्स्ना मल-प्रक्षालनान् मणेः ।  
+तथा हेय-गुण-ध्वंसाद् अवबोधादयो गुणाः ॥  
+प्रकाशन्ते न जन्यन्ते नित्या एवात्मनो हि ते ॥ ” इति ।  
+
+सर्वो ऽप्य् अर्थः प्रमितेरेव विषयः । वेदान्तस्य तु प्रमिति-प्रकाशकत्वाद् इत्य् आह — यतिराजेनेति ।
+
+[[चन्द्रमरुताविति|चन्द्र-मरुताव् इति]] सम्बोधनम् । [[जडच्छीतालावनिति|जड-शीतलाव् इति]] च संबुद्धिः । निर्वापयितृत्वात् । आत्मनां — सुहृदाम् ।
+
+सुनीतिः वेदान्तेन सह सुमतिं योजयितुं यतते — किं न [[पश्यमीति|पश्यसीति]] । त्रिवर्गेण । तृतीयेन वर्गेण — कामेनेत्य् अर्थः ; यद्वा, धर्मार्थकामैः ।
+
+सुमति-सङ्गात् स्व-राग-पारवश्य-प्रच्छादनार्थम् आह — कुण्डलितेति । चन्द्रशाला — शिरोगृहम् ।
+
+श्रुतिमार्गेति — [[पदत्रयमुभयल|पद-त्रयम् उभयत्र]] विशेषणम् । चित् — आत्मा, [[तत|तस्य]] तापः । चित्तं मनश् च । तरल इति सम्बुद्धिश् च ।
+
+नीवी — मूल-धनम् ।
+
+ज्ञानस्य स्व-प्रकाशकत्वे हेतुम् उत्प्रेक्षते — तस्येति तिष्ठतीति । [[वाक्यान्तर्वाक्यम|वाक्यान्तर-वाक्यम्]] । ते ऽपि दीप-रत्नांशवो ऽपि ज्ञानायत्त-प्रकाशा अपि स्वयंप्रकाशा इति हि लोक-प्रसिद्धिः । ताम् अवलम्ब्य उच्यते — स्व-प्रकाशता इति ।
+
+मर्त्य-विषयायाः ज्ञेः तत्त्व-[[हिताद्यवान्तरविपयावयवोपकरणत्वं|हिताद्य्-अवान्तर-विषयावयवोपकरणत्वं]] प्रार्थयते — हाराणि स्तन-मण्डल इति । हाराणि — हारोद्भवानि, एवं लाक्षाणीत्यादि ।
+
+स्व-रागातिशयम् आह — कस्तूरीभिरिति । गरुडध्वज-लाञ्छनानि — शङ्ख-चक्र-कमलादीनि । निर्विकारात्मकं मनः — तत्त्वम् । नेत्रे कुवलय-बुद्धिर् [[मधुकरः|मधुकरः]] ; अहम् उत्पले नेत्र-बुद्धिर इति विभ्रमः — विपर्यय-ज्ञानम् ।
+
+इति वेदान्त-विलास-टीकायां
+
+चतुर्थो ऽङ्कः समाप्तः ।
+
+---
+
+[[P23_Ratnadipika]]
+### अथ पञ्चमो ऽङ्कः
+
+[[जन्मायावादिनौ|जैन-मायावादिनौ]] नियोगान् मोक्ष इत्य् आहुः ; शङ्करस् तु — नियोग-साम्य-स्वर्गादि-वत् मोक्षो ऽपि अनित्यः स्याद् इति, [[तत्त्वमर्सि|तत्त्वमसि]] - वाक्यार्थ-ज्ञानाद् एव मोक्ष इत्य् आह ; तद् उच्यते — सुदर्शन इत्यादिना ।
+
+इति विष्कम्भः
+
+संन्यासी — विवरणकारः । शुक्ल-पटः — वाचस्पतिः ।
+
+तत्र, ब्रह्मैव माया-मोहितं जीवति ; [[तन्मयम्विलसितं|तन्-मय-विलसितं]] जगत् ; तन्-मुक्तौ सर्व-मुक्तिर् इति — कस्यचित्-पक्षः । अन्यस्य, [[जलघटगतनपप्रतिबिम्बन्यायेन|जल-घट-गत-नभः-प्रतिबिम्ब-न्यायेन]] [[अनेकान्:- करणगत|अनेक-करण-गत-]]परब्रह्म-प्रतिफलनं — जीवाः ; ते च अनन्ताः — इति । तद् इदम् उच्यते — भो भो दुरात्मन्न् इत्यादिना ।
+
+नग्नं — दिगम्बरम् । अलङ्कर्तुं कटि-सूत्रम् आरभ्य सर्वं सम्पादनीयम् । अत्र तु भेदम् अवलम्ब्य भोग-मोक्षादि-सर्व-व्यवस्था वक्तव्या । निर्वाणं — नग्नत्वम् । मन्यामहे कौपीनम् अपि त्याज्यम् इति हि — [[ततपक्ष|तत्-पक्षः]] ।
+
+यथा-कथञ्चित् भेदे कल्पनीये सति दोषो न चिन्तनीय इत्य् आह — काशं — कुशम् इति । एक-जीव-कल्पनाया मायया [[सर्विनिर्वाहे|सर्व-निर्वाहे]] सम्भवति, बहु-जीव-कल्पनम् अविद्या-भेद-कल्पनं च न न्याय्यम्, कल्पना-प्रसङ्गाद् इत्य् आह — [[ब्रह्मणोति|ब्रह्मण इति]] ।
+
+ज्ञान-बाध्यम् अविद्या ज्ञान-रूपं ब्रह्म स्प्रष्टुम् अपि नार्हतीत्याह — अविद्या-चण्डालीति ।
+
+कर एव वर्ण-वर्त्तिका । करे वर्ण-वर्त्तिका च । मानं प्रमाणम् ।
+
+“ मानिनी ” इति [[सम्मीः|सस्नेहं]] सम्बोधनं च ।
+
+[[द्वैतसिरा|द्वैत-सरणिः]] — द्वैत-स्थापन-मार्गः । शिष्यः — [[मुनर्कः|मूकः]] ।
+
+[[मप्रदीपप्रदीपः|महा-प्रदीपः]] — सर्वार्थ-प्रकाशकः । “ एवं चेत् एवम् स्यात् ” इति हि तर्केणैव बालो ऽपि प्रवर्त्तते । [[कन्यावन|कन्यका इव]] कन्था, [[दुस्साम्प्रयदोपत्वात्|दुस्सम्प्रदाय-दोषत्वात्]] । लवनं —
+
+
+
+[[P24_Ratnadipika]]
+२४ यतिराजविजयव्याख्या रत्नदीपिका
+
+छेदनम् । [[कृर्तरी|कर्तरी]] — छेदिनी । कर्तरी सप्त-[[सप्तव्यूहः|व्यूहः]] — (१) आत्माश्रय, (२) अन्योन्याश्रय, (३) चक्रक, (४) अनवस्था, (५) केवलानिष्ट-प्रसङ्ग, (६) प्रतिबन्दी, (७) कल्पनावैभव-भेदात् । [[तल|तत्र]] सिद्धान्तः , [[मैल्यं|मौनं]] च ।
+
+परिशेष-प्रमाणं दर्शयति — अहम् एवेति ।
+
+तद्-विरुद्धम् अर्थान्तरम् अभिप्रयन्न् आह — एवम् एवेति ।
+
+वातूलः — वात्या । रविः — अर्क-वृक्षः । [[संग्रामकाम्नु|सङ्ग्राम-कामुकान्]] — शपथान् सङ्ग्रामाद् निवर्त्तिनः ।
+
+पार्थेनैव ते निहता इति दर्शयति — किम् अहम् इति । अपार्थः — असमर्थश् च । रामानुजः — कृष्णश् च ।
+
+सैरभाः — महिषाः । तर्केण तर्क-प्रवृत्तो वादः — तर्कातर्कि-युद्धम् । वितण्डा — पर-पक्षस्यैव दूषणम् । यत्-संरम्भ इत्य् अत्र, [[गलत्न् प्रेक्षातुर|गलन्-प्रेक्षावन्त इत्य् अन्वयः]] ।
+
+आत्म-निरपेक्षं स्वात्म-खण्डनम् अपि ब्रह्म-व्यतिरिक्तत्वे [[व्यतिरिक्तत्वेन्|न हितम्]] । आत्म-निरपेक्षत्वे अनिष्टम् आह — [[तर्होति|तर्हीति]] ।
+
+व्याघातं दर्शयति — स्व-वचनम् एवेति ।
+
+दृष्टान्तम् आह — [[बह्नीति|वह्नीति]] ।
+
+स्वोक्तिर् एव सुस्थिरो बाणः । अन्यत्र स्वोक्तौ स्व-वचने रुद्र-वचने कृष्ण-विजये सुस्थिरो बाणासुरः । बलिना — बलभद्र-सहितेन, प्रबलेन च । रामानुजः — यतिराजः, कृष्णश् च ।
+
+प्रपञ्च-खण्डन-सामर्थ्यातिशयम् आह — ब्रह्माण इति । पौनःपुनी — पौनःपुन्यम् । ब्रह्माणो निमित्त-कारणम् । पारीणाः — पटीयांसः । पुनःपुनर्-निर्माणम् इति यावत् । [[चिखाण्डिपा|चिखण्डयिषा]] — खण्डयितुम् इच्छा । न स्मर्यते — स्मृति-गोचरो न क्रियते ।
+
+ब्रह्म-व्यतिरिक्तं खण्डयामीत्याह — ब्रह्मास्त्रम् इति । [[समितिति|समित् इति]] — सभा, युद्धं च । ब्रह्मैव अस्त्रं — ब्रह्मास्त्रम् । ब्रह्मणो ऽस्त्रं चेति । [[ब्रह्मव्यच्यमनं|ब्रह्म-विवर्त्तं]] जगत् अधिष्ठान-ब्रह्म-ज्ञानेन हि निरस्यम् । ब्रह्मणो ऽस्त्रं च ।
+
+---
+
+[[P25_Ratnadipika]]
+पञ्चमो ऽङ्कः २५
+
+मितिः — प्रमितिः, तया सह [[कर्तत|वर्त्तत]] इति समितिः — विद्वत्-सभा, युद्धं च ।
+
+“ सर्वं खल्विदं ब्रह्म ” [[त्यादिषु|इत्यादिषु]] तमः-प्रकाश-वत् विरुद्ध-स्वभावयोः जगद्-ब्रह्मणोः प्रतीयमान-तादात्म्यानुपपत्त्या “ चोरः स्थाणुः ” [[इतिवन्|इतिवद्]] [[बाधार्थं|बाधार्थं]] सामानाधिकरण्यम् अङ्गीकरणीयम् । तत्र “ नेह नाना ऽस्ति किञ्चन ” इति [[श्रुतिबलान्|श्रुति-बलात्]] [[जगन्|जगद्]] बाध्यम् । स्थाणु-वत् ब्रह्म सत्यम् । निराधिष्ठान-भ्रमस्य अनुपपन्नत्वात् अधिष्ठान-सत्यत्वम् अङ्गीकरणीयम् — इत्य् आह — यस्मिन् इति । अध्यस्तं — आरोपितम् । यथा शुक्तिका-शकले रजतम् । स्वारोपित-जगद्-द्रष्टृ अपि स्वयम् एवेत्याह — यच् च पश्यतीति । स्व-व्यतिरिक्त-दर्शने हेतुम् आह — अविद्या-मुग्धम् इति । तस्य कदा अविद्या-निवृत्तिर् इत्याह — निजेति ।
+
+“ ब्रह्म वेद ब्रह्मैव भवति ” इति श्रुतेः । ज्ञानं — ज्ञान-मात्रं “ विज्ञानं ब्रह्म ” इति श्रुति-वशात् । तच् च अविद्या-कल्पित-कर्म - कर्तृ-करण-रूप-रहितम् इत्य् आह — ज्ञेयाद् इति ।
+
+“ यत् तद् अदृश्यम् अग्राह्यम् ” इति श्रुत्या न वेद्यम् इत्य् आह — अपदं संविदम् इति । “ निर्गुणं निष्क्रियं शान्तम् , एकमेवाद्वितीयम् ” इत्यादिभिः निर्गुणम् इत्य् आह — निर्विशेषम् इति । “ सद् एव सोम्य् इदम् अग्रे आसीत् ”, “ तत् सत्यम् ”, “ सत्यं ज्ञानम् अनन्तं ब्रह्म ” इत्यादि-श्रुति-सिद्धं दर्शयति — सत्यं तद् इति ।
+
+विवाद-पदं प्रपञ्चो मिथ्या, दृश्यत्वात् ; [[शुक्तिकाकरजतवत्|शुक्तिका-रजत-वत्]] । “ मृत्युम् आप्नोति ”, “ य इह नानेव पश्यति ”, “ नेह नाना ऽस्ति किञ्चन ” इति [[प्रमाणवलं|प्रमाण-बलं]] दर्शयति --- मिथ्या [[तदितरदिति|तद्-इतरद् इति]] । उक्तार्थं द्रढयति — को ऽन्यथेति । विस्तरस् तु शास्त्रे द्रष्टव्यः ।
+
+[[इदमर्थसतकं|इदम्-अर्थ-सप्तकं]] हि शास्त्र-प्रतिपाद्यम् ।
+
+तद् दूषयति — आकारेति । चाकचक्यं — [[अमहेतुः|भ्रम-हेतुः]] । [[मुक्तः|मुक्तिः]] — तन्-निवृत्ति-हेतुः । एवं ब्रह्मण्य् अपि धर्म-द्वयाभावो [[अमवात्रौ|भ्रम-मात्रौ]] न स्याताम् । दृश्यत्वं — दृश्य-प्रपञ्चाधिष्ठानत्वम् । अविद्या-विहितत्वम् इत्यादि । [[विशेषामवावात्|विशेषाभावात्]] द्वितीयं पदं सम्भवति स्वरूप-दर्शने स्वस्यैव कर्मत्वं, कर्तृत्वं च । तद्-उभयाभावे घटादि-वत् स्वरूप-दर्शनम् एव न स्यात् ।
+
+एवम् उत्तरत्रापि विशेषः निर्विशेष-ब्रह्मणः प्रसज्येरन् ।
+
+सुनीतिः रामानुज-विषये नेदम् आश्चर्यम् — इत्य् आह — किम् अत्रेति । प्रत्येकमिति ।
+
+---
+
+[[P26_Ratnadipika]]
+२६ यतिराजविजयव्याख्या रत्नदीपिका
+
+मायावादः [[स्वनो|स्वेन]] निर्विशेषस्य अपि ब्रह्मणो अविद्या-कल्पित-विशेषैः सर्वं सम्भव-तीति परिहरति --- अस्ति खलु अस्माकम् इति ।
+
+सुतर्कः तन्-मतम् उपालभते — आरोपितुम् इति ।
+
+[[समसु|समस्त-]]पूर्व-पक्ष-वाक्येषु प्रत्येकं [[दोषन्तरमाह|दोषान्तरम् आह]] — किं चेति । निर्विशेष-वस्तुनि कात्स्न्येन स्वयंप्रकाशे न अध्यासः सम्भवति । स्वरूप-व्यतिरेकेण बाधक-धर्मानभ्युपगमात् । तत एवाध्यासे [[सनि|सति]] निवृत्तिश् च स्यात् । द्वितीयं दूषणं तु स्पष्टम् । तृतीयं दूषयति — तत एवेति । तिरोधानाभावाद् एव संसार-मोक्षौ न स्याताम् इति भावः । चतुर्थं दूषयति — न ज्ञानम् इति । इदमहं जानामीत्यत्र ज्ञातृ-ज्ञेययोर् अपि ज्ञानेन सहैव सिद्धत्वात् , तयोर् बाध्ये ज्ञान-बाधो ऽपि सुवचः । पञ्चमं पदं दूषयति — मतिर् इति — प्रमतिः — प्रमाणम् । पदं — विषयः । यत्र प्रमाणं नास्ति, [[तन्नरविषाणमिव|तन् नर-विषाणम् इव]] न सता [[निरूपारव्यम्|निरूपाख्यम्]] । षष्ठं पदं दूषयति —  त्वयापि निर्विशेषम् इति । निर्विशेष-शब्देन ब्रह्म विशेष्यते । सप्तमं दूषयति —  सत्यं स्याद् इति । त्वमपि, “ ब्रह्मैव सत् ; [[अन्यन्मिथ्येति|अन्यत् मिथ्या + इति]] प्रमाण-बलेनैव ब्रवीषि । तथैव प्रमाण-सिद्धं जगद् अपि सत्यम् एव । यदि प्रमाण-प्रमेय-व्यवस्थां दूषयसि, [[तद्वा|तदा]] स्व-व्याघातः ; तद्-अनङ्गीकारे [[भ्रान्न|भ्रान्त]] इति सद्भिर् [[उपहाम्य|उपहास्य]] एव । आदिशब्दाल्-लोकप्रसिद्धि-विरोधश् च ।
+
+पुनश् च प्रपञ्च-सत्यत्वं साधयति — [[प्रत्यक्षति|प्रत्यक्ष इति]] । दृश्य-प्रपञ्च-बाधः किं प्रमाणेन ; उत, येन केनापि ; नाद्यः ; — तत्र प्रमाण-प्रमेयादि-भेदस्य सत्यत्वस्य च त्वया अवश्यम् अभ्युपगन्तव्यत्वात् ।
+
+नापि द्वितीयः — पामरैर् अपि भवत्-पक्ष-प्रतिक्षेपस्य येन केनापि [[शव्यन्त्वान|अप्रमाण-भूतेन]] कर्तुं शक्यत्वात् इत्य् आह — बाधस् तस्येति । परस्परं भिन्नं चिदचिदात्मकं जगत् ब्रह्मात्मकम् — ब्रह्मान्तर्यामिकम् ।
+
+“ सर्वं खल्विदं ब्रह्म ” [[इत्याद|इत्यादि-]]वाक्यं ब्रह्मात्मकतया प्रपञ्चैक्य-परम् । “ प्रधान-क्षेत्र-पतिर् गुणेशः ” इत्यादि द्वैत-वाक्यम् । ब्रह्मात्मक-प्रधान - क्षेत्रादि-पदार्थ-नानात्व-परम् । निर्गुण-वाक्यं — हेय-गुण-निषेध-परम् । “ यस्सर्वज्ञस्सर्ववित् ” इत्यादि-वाक्यं ब्रह्मणः कल्याण-गुण-परम् ।
+
+एवं ईदृश-विरुद्ध-गिरां भिन्न-विषयत्वात् परस्पर-बाधो न शङ्कनीयः ; तथापि
+
+---
+
+[[P27_Ratnadipika]]
+पञ्चमो ऽङ्कः २७
+
+बाधश् चेत्, “ न हिंस्यात् ” इति वाक्येन पश्वालम्भ-निषेधो [[निषेधो ऽप|ऽपि]] स्याद् इत्य् आह — द्वैताद्वैतेति ।
+
+सकल-श्रुति-विरोध-निर्वाहो न्याय इति दर्शयति — सुनीति-मुखं पश्यतीति ।
+
+पदेषु — स्थानेषु ; पद्मात्मकेषु वाक्येष्व् इति वा । [[सप्तपर्दीनं|साप्तपदीनं]] — सख्यम् । “ सख्यं साप्तपदीनं स्यात् ” इत्य् अमरः ।
+
+परो ऽपि उक्त-श्रुति-विरोध-निर्वाहम् अनुमन्यते — न हि [[विधिव्याध|विधि-बाध]] इति ।
+
+[[जातिच्छलयोर्बलेपः|जाति-च्छलयोर् वलेपः]] । जाति-च्छलादीनां च अस्मद्-उक्त-[[भेदौ|भेदः]] । जातिः — [[माल्टी|मालती]] । छलः — आग्रहः । वसन्त-काले जातिर् न स्फुरतीति कवि-समयः । मधु-मास-समृद्धिम इव [[विजान्तम्|विजानन्ति]] — इति हि कादम्बरी ।
+
+“ इदम् इत्थं ” [[मित्येव|इत्य् एव]] हि सर्वं ज्ञायते ; यथा निर्विशेष-चिन्मात्रं ब्रह्मेति ।
+
+अनुबन्धाः — सहायाः । बन्दीं यथा गृह्णाति, तथा ग्रहीतुम् इत्य् अर्थः ।
+
+त्वत्-सखीति । यतिराज-कृतो वेदान्त-निर्वाहः सम्यङ् न्याय-प्रयुक्तः, [[ह्राने|स्थाने]] दर्शयति । अहीरसाम् — सेवकाः ।
+
+[[शूद्रादिसवर्णसाधारणमित्यर्थः|शूद्रादि-वर्ण-साधारणम् इत्य् अर्थः]] ।
+
+शारीरक-सूत्र — मायावाद-भाष्ययोः परस्पर-विरोधं दर्शयति — [[दृम्यमिति|दृश्यम् इति]] ।
+
+सुतर्कः स्तुति-व्याजेन निन्दन्, तत्-पात-फलम् आह — सामन्तेति । सामन्तस्य भद्र-पीठम् । सुनीतिर् अपि तथैव तद्-एव अर्थम् उपबृंहयति — [[तथागतस्मवार्थसिद्ध एवैति|तथागत-सर्वार्थ-सिद्ध एव इति]] । तथागतः — सामन्त-भद्र-पीठं गतः । [[सर्वैर्न्नैः|सर्वार्थैः]] सिद्धः ।
+
+मायावादस् तु तं ततो [[निदार्थं|निन्दार्थं]] विज्ञायवाह — किम् अहं सुगत इति । सामन्त-भद्र — तथागत — सर्वार्थसिद्ध-शब्दान् बौद्ध-विशेषण-वाचकान् सुतर्कः पुनरपि स्तुति-व्याजेनाह — सर्वज्ञः किं न वेत्सीति ।
+
+शङ्करस् तत्सं विज्ञाय निवारयति — [[तत्सं|तत्त्वं]] भगवन्न् अलम् इति । सुतर्कः भगवच्-छब्दस्य बौद्ध-परत्वम् आरोपयन्स शङ्करं स्तौति — शङ्कर [[एवमनामनन्वयन्निति|एवम् इमम् अन्वयन्न् इति]] । अत्र
+
+---
+
+[[P28_Ratnadipika]]
+२८ यतिराजविजयव्याख्या रत्नदीपिका
+
+सर्वज्ञ-शब्दः बौद्ध-शङ्कर-वाचकः । उप — समीपे, स्थित्वा, स्वयं धर्मम् अन्यत्र दधतीत्य् उपाधयः — जपा-कुसुमादयः । विश्व-मुषोः — विश्व-चोरयोः ।
+
+पराङ्कुशो ऽपि कश्चिद् विशिष्टाद्वैतम् आह — तत् स्वाभिमत-[[द्वैतं|अद्वैतं]] मत्वा सान्त्वयति ।
+
+मुकुन्दाद्वैतं प्रमाण-विरुद्धम् इत्य् आह — [[केनादर्शीति|केनादर्शि + इति]] । न [[केनाचिद्दृष्ट|केनाचिद् दृष्ट]] इत्य् अर्थः । अन्यत् तिष्ठतु, कः, त्वयैव दृष्टः ! इत्य् उपालभते । [[रगाद्|रागाद्]] — अकर्मवश्यः ।
+
+पुण्ड्र-देशेषु कश्चिद् असुरो, वासुदेवो ऽहम् इति कृष्णेन स्पर्धां कृतवान्, सुदर्शनेन काशीं दग्ध्वा निहत इति — पुराणे । [[जितकाशिपुरेण|जितकाशिना]] — जयशीलेन, सुदर्शनावतारेण यतिराजेन । अन्यत्र, जितकाशि-पुरेण चक्रेण ।
+
+उभयोः साम्यम् आह — [[विजननमात्रयोरिति|विज्ञान-मात्रयोर् इति]] ।
+
+रामानुजे — यतिराजे । लब्धासिके — लब्ध-प्रतिष्ठे । माया-विलासिनी — अविद्या इति यावत् । अनासिका — अप्रतिष्ठा । अर्थान्तरं च स्फुरति — रामानुजे — लक्ष्मणे, लब्धासिके — गृहीत-खड्गे, माया-विलासिनी — शूर्पणखा ; मिथ्या-दृक् — [[राजानमभिकाङ्क्षन्ती|राजानम् अभिकाङ्क्षन्ती]] , अनासिका — नासिका-रहिता ; कथं न स्यात् — इति ।
+
+[[विपशेषः|विषय-शेषः]] — [[शलुषेशः|शैलूषेशः]] ।
+
+तदङ्गं — व्याकरण-शिक्षादि ।
+
+श्लोकस् तु स्वेनैव व्याख्यातः ।
+
+महा-मन्त्रि-[[महामन्त्वीश्वरेति|ईश्वरेति]] — सोल्लुण्ठम् । “ निष्कलं निष्क्रियं शान्तम् ” इति ब्रह्म-विषया अविकार-श्रुतिः । “ नित्यो नित्यानाम् ” इत्यादिः [[जीवनित्यत्ववादिनी|जीव-नित्यत्व-वादिनी]] ।
+
+यतिराजो विद्या-सम्बन्ध-[[सम्बन्धानिमित्तं|निमित्तं]] यादवप्रकाशम् अनुगृह्य, त्रिदण्डादिकम् अनुगृहीतवान् इति ऐतिहासिकम् । तद् अनुस्मारयति — रामानुजस् ते शरणम् इति ।
+
+तद्-विषय-वासिभिः — ब्रह्म-निष्ठैः ।
+
+परां [[कोटि|कोटिं]] — उन्नतं पदम् । त्रिदण्ड-धारणेन मत्-समान-धर्मा । मिथ्या-दृष्टिः — [[जीवपरैक्यमतिः|जीव-परैक्य-मतिः]] । शिवैक्यम् — इति । [[भास्करसन्यासे|भास्कर-संन्यासे]] अष्टादश-यति-लिङ्गानाम् उपलक्षणम् —
+
+
+
+[[P29_Ratnadipika]]
+षष्ठो ऽङ्कः २९
+
+त्रिदण्डादि । सत्योपाधि-कृत-सत्य-भेद-वादी । उपाधिः सत्यः । तत्-कृत-जीव-परयोर् अभेदः सत्यः — इति भास्करः । तत्-पक्षे [[प्रकृतिविकारान्तःकरणोपाध्यवच्छिन्नं|प्रकृति-विकारान्तःकरणोपाध्य्-अवच्छिन्नं]] ब्रह्मैव जीवाः । तद् ब्रह्मणो भिन्नत्वात् । अनुपहितं — उपाधि-रहितं ब्रह्मैव शान्तं निर्दोषम् । शिवं — सर्व-मङ्गल-गुणास्पदम् । सम-प्राधान्ये समुच्चयः ।
+
+चातुर्मास्यान्तर्गतत्वात् नभो-मासे संन्यासी क्वचित्तिष्ठति । अंशुकं — किरणं वस्त्रं च ।
+
+> व्याप्तिः [[तर्काप्रतिभातिरवसानं|तर्काप्रतिभातिर् अवसानं]] विपर्यये ।  
+> अनिष्टानुकूलत्वं इति [[तर्कङ्ग|तर्काङ्ग]]-पञ्चकम् ॥  
+
+सुनीतिः — सामान्य-विशेष-[[न्यायायाः|न्यायैः]] । [[त्रिपयव्यवस्था|विषय-व्यवस्था]] — परस्पर-बाध-रहितैः विषय-वाक्यैः ।
+
+इति वेदान्त-विलास-टीकायां
+
+पञ्चमो ऽङ्कः समाप्तः ।
+
+### अथ षष्ठो ऽङ्कः
+
+निरालम्बनम् — प्रमाण-सिद्धत्वा-शून्यम् अपि । एवं तत्-सद्भाव-समीचीन-शास्त्रम् इव गगन-चित्र-वद् इदम् अपि किञ्चिद् इन्द्र-जालम् इति भावः ।
+
+स्व-सामर्थ्य-दर्शनं यतिराजम् अभिनन्दति — [[मन्द्रीपाटवेति|मन्त्रि-पाटवेति]] । प्रमाण-सिद्धं — सत्यम् ; तच्-छून्यं — मिथ्या — इति हि तत्त्व-स्थितिः । अन्यथा — तद्-वैपरीत्येन । इन्द्रजाल-तुल्यम् इदम् अपि तत्त्वं पश्यन् । [[बत्त|बत]] — खेदे । अद्भुतं — शास्त्र-गगन-चित्र-लेखन-तुलं शास्त्रम् । त्वद्-अन्यो न वेत्ति ।
+
+दृष्टासम्भावनीयम् अपि मन्त्रौषधि-बलेन ऐन्द्रजालिकेन दर्शितम् । यथा सरसि, तथा पाषाणे ऽपि सम्भवति इति मन्यते चेत्, अस्य कुहना-शिल्पि-कौशलं नष्टम् इत्य् आह — द्रष्टेति । [[अबुद्धिज्ञातवान्|अबुधो ज्ञातवान्]] ।
+
+---
+
+[[P30_Ratnadipika]]
+३० यतिराजविजयव्याख्या रत्नदीपिका
+
+एवम्, यथा मायावादेन वेदमौलेः वेद-विचारोपरि विरोध उत्पादितः ; एवम् अन्यैः प्रभाकर-रुद्रादिभिः । व्याख्येय-वेद-राशेर् एक-शास्त्रत्वात् तद्-व्याख्यानम् अपि एकम् एव ; तत्र व्याख्यातृ-भेदात् वेद-विचारः, वेदान्त-विचारः — इति शास्त्र-भेद उक्तः ; यथा — पाणिनीय-सूत्र-वृत्तेः । तत्र कर्म-परस्य वेद-विचारस्य जैमिनिः सूत्र-कृत् ; ज्ञान-परस्य वेदान्तस्य व्यासः सूत्र-कृत् ; एतद् उक्तम् एक-शरीरयोर् इति ।
+
+### इति विष्कम्भः
+
+यतिराजो भावि-दिग्विजय-सूचकं निमित्तम् आह — दक्षिणतो दर्शयन् — [[शुका- मिनेति|शुकादिनेति]] । राजा तु स्वाभिमतानुरूपं तद्-अर्थं मन्वानः यतिराजं स्तौति — महर्षि-प्रिय-मेवेति । अत्र शुकाद्या महर्षयः — कृष्ण-पक्षाः — कृष्णं रक्तिमन्तः । कृतोद्योगाः — कृतोत्कृष्ट-प्रयत्नाः । मत्-पथः — सतां ब्रह्म-विदां मार्गः । द्विजाः — ब्राह्मणाः । यतिराज-दर्शनम् — यतिराज-सिद्धान्तः ।
+
+रामानुज-दर्शनम् इति व्यपदेशे सुनीतिर् हेतुम् आह — [[स्वस्वार्थेति|स्वार्थ इति]] ।
+
+अत्रायम् असन्धिः — उभय-मीमांसयोर् एक-शास्त्रत्वात्, पूर्व-मीमांसा त्रैवर्गिक-विषया ; उत्तर-मीमांसा मुमुक्षु-विषया । तत्र याश् च श्रुतयो विरुद्ध-वत् प्रतिभासन्ते, तास् तु विषय-भेदात् परस्परं न बाधन्ते । उत्तर-मीमांसायां च ब्रह्मणो याः, शरीर-गुण-कर्मादि-वादिन्यः श्रुतयः, ताः, नित्य — निरवद्य-कल्याण-शरीर - गुण — कर्मादि-विषयाः ; याः, तन्-निषेध-वादिन्यः, ताः, हेय-शरीर-विषयाः — इति, न तासां परस्पर-विरोधः ।
+
+प्रत्यक्षादि-प्रमाणान्य् अपि प्रबल-प्रमाणान्तराबाधित-स्वविषये प्रभूणि भवन्तीति प्रामाणिकं चिदचिदीश्वरात्मकं जगत् सत्यम् एवेति ।
+
+राजा “ शब्दैकशेषे ” त्यादिना द्वितीयाङ्कोक्तं विरोधं स्मरन्न् आह —  मायावाद-वाक्याद् इति । (१८ पुटे शब्दैकशेष — इत्यादि श्लोकः)
+
+यतिराजस् तद्-वचनम् असद् इत्य् आह — विश्वमृषेति । सर्वेश्वर — जगत् — स्वर्गादि-स्वीकारेण राजानुवर्त्तने हेतुम् आह — इतिहासेति ।
+
+---
+
+[[P31_Ratnadipika]]
+षष्ठो ऽङ्कः ३१
+
+राजा शास्त्रैक्यं किं न्याय्यम् इति निरूपयेत्य् आह — सुनीति-मुखम् इति । सुनीतिः [[तन्न््याय्यमित्याह|तन् न्याय्यम् इत्य् आह]] — मूलमन्त्रेति । मूल-मन्त्रं श्रीमद्-अष्टाक्षरम् । प्रधान-मन्त्री वा ।
+
+यतिराजः, तत्र वेदान्तोपबृंहणतया सूत्रकृत्-प्रणीते महाभारते शास्त्रैक्यम् उच्यत इति, भावेनाह — पञ्चमो वेद इति ।
+
+दुष्ट-मन्त्रिणः — मायावाद — [[भास्कराप्रभृतयः|भास्कर-प्रभृतयः]] ।
+
+इतिहासार्थवाद-प्रामाण्य-स्वीकारे हेतु-द्वयम् आह — मन्त्रेति । मन्त्र-ब्राह्मण-देवता-परतया, [[अनिज्ञानाया|अभिज्ञानाय]] वा अत्यद्भुतैः उक्तिभिः तद्-गुण-वर्णनैः — तेषां विध्य्-अङ्ग-भूत-मन्त्रादीनां गुण-वर्णनैः । त्रैलोक्ये तस्मिन् स्व-प्रधान-भूते विधौ प्रवणयति — [[बद्धीकुर्वन्त्य्|बुद्धीकुर्वन्त्य्]] [[अमर्थवादं|अर्थ-वादं]] तव प्रभुतया संमन्तस्य विधेर् अपि सम्मान्यः । अत्र — अर्थवादे, वैयर्थ्यापादनं विधि-वैयर्थ्यापादनम् एव पर्यवस्येत् ।
+
+सो ऽर्थवादश् चतुर्विधः :— (१) निन्दा, (२) प्रशंसा, (३) परकृतिः, (४) पुराकल्पः — इति । “ स भूरिति व्याहरत् ” इत्यादि-मन्त्रार्थवादः, “ वायुर् वै क्षेपिष्ठा ” [[क्षेपिष्ठ ” नि|इति]] देवता-परो ऽर्थवादः — इत्य् उभे — प्रशंसे । “ सदेव सोम्य ” इत्यादिः पुराकल्पः । [[ब्राह्मगं|ब्राह्मणं]] — विधि-वाक्यम् ।  ब्राह्मण-शेषो ऽर्थवादः ।
+
+दूरस्थे ऽपि । “ सदेव सोम्येदमग्र आसीत् ” इत्यादिषु जगत्-कारण-वाक्येषु विध्य-दर्शने ऽपि । अनन्य-सुलभैः — प्रमाणान्तराप्राप्तैः ।  राजानं — वेदमौलिम् । विधि-निर्विशेषम् — [[अस्पार्श|अस्पर्श]]-प्रतिपादकतया विधिवत् सम्माननीयः ; प्रमाणयितव्य इति यावत् । [[अनार्थवादस्य|अत्र अर्थवादस्य]] पूज्य-पुरुष-लक्षणं च द्रष्टव्यम् । [[मतीति|मतेति]] ।
+
+अर्थवाद-सिद्ध-देवता — तत्तत्-कार्य-कारित्वे तत्तद्-देवतान्तर्यामितया अवस्थितो विष्णुर् एव तैस् तैः कर्मभिर् आराध्यः, तत्तद्-देवता-मुखेन फल-प्रदश् च — इत्य् आह — ये यजन्तीति ;
+
+आशु-मोक्ष-पदवीं — ज्ञानोत्पत्ति-हेतु-भूत-कर्मानुष्ठानं विना, स्मरणेनापि सद्यो मोक्ष-प्रदा भगवद्-अवतार-कथा । शुकः — व्यास-सूनुः । स्पष्टम् अन्यत् ।
+
+पर-दहर-विद्येति — ब्रह्म-विद्या-विशेषाः ।
+
+---
+
+[[P32_Ratnadipika]]
+३२ यतिराजविजयव्याख्या रत्नदीपिका
+
+[[सहस्रेष्वधिकर्णेषु|सहस्रेष्व् अधिकरणेषु]] — धर्म-निर्णय-स्थानेषु । प्रत्यूह-वृत्तान्तः — प्रतिकूल-[[प्रतिकुल|तर्क]]-सिद्धान्ताः । तेषां विजय एव — महा-भारः ; तस्य तरणं — निर्वहणम् । अन्यत्र, सहस्राधिकेषु रणेषु ; रामानुजः — कृष्णः ; तन्-मतानुसारेणैव स्व-प्रतिज्ञात-वैदिक-[[मविभ्रभुत- यमविजयः|मर्यादा-विजयः]] । विजयस्य, महाभारत-युद्धस्य च निर्वाहकः इत्य् अर्थः ।
+
+भवद्-एकार्थः — भवत्-प्रयोजनैक-परः । अथातो धर्म-जिज्ञासा — इत्य् उपक्रमात् धर्म-परः ।
+
+[[चिद्गौ|चिद्-वर्गो]] — बद्ध - मुक्त - नित्य-रूपेण त्रिविधः । [[अचिद्गौ|अचिद्-वर्गो]] — मूल-प्रकृतिः, कालः, शुद्ध-सत्त्वम् — इति त्रिविधः । तयोर् ईशः — तद्-ईशः । तल्-लीला — ईश्वरस्य लीला जगत्-सृष्टि-संहारादि ।
+
+“ इतिहास-पुराणाभ्यां वेदं समुपबृंहयेत् ” ; इत्य् आह — उपबृंहिताः — विस्ता-रिता इति ।
+
+क्षेत्रज्ञाः — जीवाः । वर्त्तनीं — क्षुद्र-मार्गम् । याम्यं — यमलोक-मार्गम् । अर्चिरादिः — मार्गः ; अत्र पान्था मुक्ताः ।
+
+[[अर्चिरहस्सितपक्षानुगदगयनाब्दमरुत्केन्द्रान्|अर्चिर्-अहः-सित-पक्षोत्तरायणाब्द-मरुत्-केन्द्रान्]] । [[वैद्युतरुणेन्द्रप्रजापतीनातिवाहिकानाहुः|वैद्युत-वरुणेन्द्र-प्रजापतीन् आतिवाहिकान् आहुः]] ॥
+
+उल्लोचः — वितानम् । राजाज्ञां — सदाचार-व्यवहार-प्रायश्चित्तानि, इति बुद्ध्या ।
+
+श्रूयमाण-शब्दातिरेकेण तद्-अभिव्यङ्ग्यतया अभिमतस्य स्फोटस्य दुर्निरूपत्वात् व्याधिर् इति स्फोट उक्तः । वर्ण-समुदायः — पदम् ; तस्य सेवा — शोधनम् । प्रकृति-प्रत्ययानुगुण्येन व्युत्पत्तिः । प्रत्ययो विश्वासश् च ।
+
+सर्व-पदार्थो ऽप्य् प्रमितेर् एव विषयः । तत्-कारणत्वाच् छब्दस्यापि इत्य् अभिप्रयन्न् आह — त्वत्-सखीम् एव इति ।
+
+सुमति-विरहे, तत्-संयोगे च फलम् उत्प्रेक्षते — गच्छन्त्येति ।
+
+पञ्चोपनिषन्-मन्त्र-प्रतिपाद्य — पञ्च-तत्त्व-मयत्वात् [[मयत्वा|पञ्चोपनिषन्मयम्]] ।
+
+[^32_1]“ नडादर - अमळ ” इति प्रसिद्धानां श्रीमद्-भाष्यकार-मिश्राणाम् अयं श्लोकः ।
+
+---
+
+[[P33_Ratnadipika]]
+षष्ठो ऽङ्कः ३३
+
+इह — परम-पदे । विविधानि — नित्य-मुक्त-परब्रह्म-भेदेन । स्वयं ज्योतींषि — स्वयंप्रकाशानि । प्रत्यञ्चि — प्रत्यगात्म-तत्त्वानि ! बद्ध-वर्ग उच्यते — तम इति । तमः — प्रकृतिः, अज्ञानं वा । देहाद्यभिमानेन स्वात्म-प्रतिकूलानि । तेषां वर्गः । देह-द्वारेण प्रतिसञ्चरः ।
+
+मानाधिकः — मानो ऽधिकः । मज्-जीवितं च त्वयि — सर्वं त्वद्-आयत्तम् इति यावत् । साक्षात्-मोक्ष-प्रदानं च ज्ञानस्यैव ; तत्-कारणत्वात् वेदान्तस्य च ।
+
+चतुर्थाङ्के सुमत्यनुनयसमये “ यतिराजेन सह — एवं मन्त्रिन् देवि ” नेति स्व-वाक्य-सत्यतां स्मारयति — [[स्मृति मभिनीयतीति|स्मृतिम् अभिनीयेति]] ।
+
+प्राधान्या पति-प्रसाद-लब्धम् इत्याह — [[देवराजमहिषीति|देवराजमहिषीति]] ।
+
+लब्धं विशदयति — काल इति । [[तद्विशानि|तद्-विशानि]] — [[कालविवशानि|काल-विवशानि]] । तत्-कर्माणि — पुण्य-पाप-रूपाणि । महदादि-रूपेण [[जगद्रूषिणी|जगद्-रूपिणी]] । अजडं — स्व-सत्तायां स्वेनैव भासमानम् ।
+
+“ स्वसत्ताभासकं सत्त्वं, गुण-[[गुणसत्त्वाद्विलक्षणं ” मिति|सत्त्वाद् विलक्षणं ” इति]] कथितं शुद्ध-सत्त्वम् एतत् । [[मूलप्रकृतिकालाौ|मूल-प्रकृति-कालौ]] हि जडौ, स्व-सत्तायां ज्ञानेनैव प्रकाश्यत्वात् । [[इगामलमित्वनेन|इमम् अमलम् इत्य् अनेन]] दिव्य-मङ्गल-विग्रह-योग उक्तः । सपीतिः — सहपानम् ; [[समानमेगा|समानम् एव]] इत्य् अर्थः । “ भोग-मात्र-साम्य-लिङ्गात् ”, “ निरञ्जनः परमं साम्यम् उपैति ” [[साम्यमुपैति ” तीति|इति]] सूत्रात्, श्रुतेश् च ।
+
+ते नित्य-मुक्ताः स्वानुरागं सन्धुक्षयन्ति — किं माम् इति ।
+
+राजा स्वानुरागातिशयं दर्शयति — [[अस्मत्केळीति|अस्मत्-केलीति]] । रहस्य-बन्धुः । “ दुःखा-ज्ञान-मला धर्माः प्रकृतेस् ते न चात्मनः ” इति, तद्-विशेष-स्वरूपाविर्भाव-लक्षणं मोक्ष-स्वरूपम् इत्य् आह — अमलाम् इति । अनादि-प्रकृति-सम्बन्ध-विरहिता मुक्ताः । तेषाम् एकया आवल्या उपशोभत इति, [[आव्ल्युपशोभितम्|आवल्युपशोभितम्]] । प्रकाशम् एव ताम् अनुभवितुम् अनुरागी, तद्-उपाय-भूतयोः उभयोर् आवयोः परस्पर-प्रणयातिशयं वाञ्छतीत्याह — रागवृद्धिमिति । तन्-निमित्तं मुखं मम करान् [[करान्नापनेतव्यमिति|नापनेतव्यम् इति]] भावः ।
+
+“ ते ये शतम् ”, “ ते ये शतम् ” इति तुल्या — तारतम्येन । अवधृतं — निश्चितम् ।
+
+
+
+[[P34_Ratnadipika]]
+३४ यतिराजविजयव्याख्या रत्नदीपिका
+
+[[मिति|इति]] भावः । तद् एव वैषम्यम् आह — परब्रह्मेति । विमलेति हेय-प्रत्यनीकत्वम् उक्तम् । सुख-संविद् इति — कल्याणैकतानत्वम् । “ ते यद् शतम् इन्द्रस्य आनन्दाः । स एको बृहस्पतेर् आनन्दः ” । अत्र बृहस्पतिः — पशुपतिः, — “ बार्हताः पशवः ” इति श्रुतेः । बृहतां — इन्द्रादीनां पतिर् इति वा ; इन्द्र-पुरोहितस्य [[तदविकरनैश्वर्यानुपपत्ते|तद्-अविकृतैश्वर्यानुपपत्तेः]] ।
+
+अन्यथा भूत-प्रामाणिकात्मादीनाम् अङ्गीकारे दोषान्तरम् आह — भूतैर् इति । तन्-मयम् — पृथिव्यादि-भूत-मयम् । भूतैः — अन्न-पानादि-रूपैः देहेन्द्रियादि-विलक्षणैः । स्वात्मनि ।
+
+अयम् अपि कश्चिद् इति — प्रारब्ध-वाक्यार्थ-शेषं पूरयति — अपरस् त्व् इति । कृत्स्न-वेदान्त-विषय-भूतं “ ब्रह्म-विद् आप्नोति परम् ” इति वाक्यान्वित-ब्राह्मणार्थम् आह — ध्यायन्न् इति । अजडं — ज्ञान-रूपम् । “ सत्यं ज्ञानम् अनन्तं ब्रह्म ”, “ यो वेद ” इत्यादि-कं वा । तत्र, अनन्त-पदेन नारायण इति, व्यक्तम् । तद् उच्यते । स एव हि त्रिविध-परिच्छेद-रहितत्वात् अनन्तः प्रसिद्धः । “ हार्दानुगृहीतः [[ना ” व्येति|नाड्या एति]] ” सूत्रम् । “ तयोर्ध्वम् आयन्न् अमृतत्वम् एति ” इति श्रुतिं च स्मारयति — निष्कम्प्य् इति । माया — मलं कर्म-वासना । स्वयं चित् — ज्ञानैकमयः । स्वराट् — अकर्मवश्यत्वात् स्वतन्त्रः । परमात्म-परतन्त्र्यम् अपि मुक्तस्य सङ्कल्पायत्तम् इति न स्वातन्त्र्य-विरोधम् आवहति । विपश्चिता — सर्वज्ञेन ।
+
+मूल-मन्त्रार्थ-विद् एव तद्-विवरण-रूप-पदार्थं वेत्तीत्याह — मूलमन्त्रेति ।
+
+भगवतो लीला — [[तद्विधेयानात्मन|तद्-विधेयान् आत्मनः]] , कुलटया स्त्री-पुरुषादि-विकृतिमत्या प्रकृत्या संयोज्य, [[तद्व्यतयता|तद्-वश्यता]] । तन्-मयानाम् आत्मनां परस्पर-प्रणय-परिहासैर् ईश्वरं स्व-वशयति ; तथापि, स दया-वश्यो देवः — [[परिश्रान्तानात्मनो|परिश्रान्तान् आत्मनो]] विलोक्य लीलाम् अवधूय रक्षितुं समर्थो ऽपि, केवलं हेतु-परायां लीलायां दाक्षिण्याद् एव [[स्वनिमुत्त्यलक्षणं|स्व-निवृत्त्य्-लक्षणं]] यत्-किञ्चित् सुकृतम् इति व्यपदिश्य, प्राप्तुः पुरुषस्य त्रिगुण-निगलं छिनत्तीत्याह — प्रगल्भेति ।
+
+उक्तम् उपलालयति — क्रीडन्न् इति । स्पष्टम् अन्यत् ।
+
+यतिराजस्य अध्यवसाय-वैभवं विलोक्य तस्याश्रम-धर्म-भूतं [[सर्वान्नयप्रदानं|सर्वाभय-प्रदानं]] मोक्ष-दान-पर्यवसायि स्याद् इति निश्चिनोति — कर्म-व्याजेति ।
+
+---
+
+[[P35_Ratnadipika]]
+षष्ठो ऽङ्कः ३५
+
+स्व-सत्तायां [[परप्रकाशयं|पर-प्रकाश्यं]] जडम् ; स्वेनैव प्रकाशमानम् अजडम् । जडं — पृथिव्यादि । अजडं — आत्म-वस्तु । प्रलय-काले पृथिव्यादिकं तु सूक्ष्म-प्रकृत्य्-अवस्थं भवति । आत्मा तु [[देवादिहारीरविलयेन|देवादि-शरीर-विलयेन]] भेदानर्ह-स्वरूपेण अवतिष्ठते । तद्-उभयम्, परमात्म-शरीर-तया तस्मिन् प्रलीयते । सद्-भाव-शेषः — तद्-उभय-शरीरः परमात्मा, सृष्टिकाले स्वेच्छ्या “ बहु स्याम् ” इति सङ्कल्पयति । तद् इदम् उक्तं [[सत्ताशेपेति|सत्ता-शेष + इति]] ।
+
+तत्र बहु-भवन्-सङ्कल्प-विशिष्ट-वेषेण निमित्त-कारणम्, सूक्ष्म-चिदचिद्विशिष्ट-वेषेण उपादान-कारणं च ब्रह्मैव भवति । बहु-प्रकारत्वे ऽपि प्रकार-गताः सर्वे दोषाः प्रकारि ब्रह्म न स्पृशन्ति ; यथा शरीर-गता बाल्य-यौवनाद्य्-अवस्थाः शरीरिणम् आत्मानम् । तद् उक्तं — न [[तद्द्बोषेणेति|तद्-दोषेणेति]] ।
+
+तत्तच्-छब्दादि-पदार्थ-शब्दानां, धियां च, तत्तत्-पदार्थ-विशेष्ये परमात्मनि विश्रान्तिर् भवति ; यथा, देव-मनुष्यादि-शब्दा देवादि-शरीर-विशेष्ये आत्मनि विश्राम्यन्ति । यथा वा, शुक्ल-पट इत्यत्र शुक्ल-पदं तद्-विशेष्ये पटे ; देवादि-भूत-पदार्थानाम् आश्रय-भूत-[[भूतात्मापृथक्सिद्धत्वात्|आत्मापृथक्-सिद्धत्वात्]] । तद् उक्तं — [[तत्तच्छब्दाधियामिति|तत्तच्-छब्द-धियाम् इति]] ।
+
+अयम् एव सर्व-श्रुतीनाम् अकुतोभयः पन्थाः । तथा हि — “ क्षरं प्रधानम् अमृताक्षरं हरः ; [[क्षरात्मानावीशते|क्षरात्मानौ ईशते]] देव एकः ”, “ भोक्ता भोग्यं प्रेरितारं च मत्वा [[जुष्टस्तस्तेन|जुष्टस् तस् तेन]] [[अमृतत्वमेति|अमृतत्वम् एति]] ” इत्यादि भेद-श्रुतीनां प्रधान - पुरुष - ईश्वराणां स्वीकाराद् अविरोधः । [[इत्याभेदश्रुतेः|इत्य् अभेद-श्रुतेः]] सर्वस्य ब्रह्मात्मकत्व-स्वीकारात्, ऐक्य-श्रुतीनाम् अर्थवत्त्वम् । “ यस्यात्मा शरीरं, यस्य पृथिवी शरीरम् ” इति शरीरात्म-भावेन [[तच्चैक्यमिति|तच्-चैक्यम् इति]] श्रुत्यर्थ-स्वीकारेण येन [[सुपथैयुक्तम्|सुपथम् उक्तम्]] । [[सुपथेन्यनेन|सुपथेन इत्य् अनेन]] — “ ब्रह्म एकम् एव सत्यम्, [[अन्य- निमिश्येति|अन्यन् मिथ्येति]] ” पक्षस्य, पक्षान्तराणां च [[दोष|दोषः]] सूचितः ।
+
+जीव-स्वरूपं शोधयति — देहाक्षादीति । अक्षम् — इन्द्रियम् । आदि-शब्देन आत्मनः प्राण-संविदां संग्रहः । तद् उक्तम् [^35_1] —
+
+> देहेन्द्रिय-मनः-प्राण-धीभ्यो ऽन्यो ऽन्य-साधनः ।  
+> नित्यो व्यापी प्रतिक्षेत्रम् आत्मा भिन्नः स्वतः-सुखी ॥ इति ।  
+
+[^35_1]: सिद्धित्रये, चित्सारणे ।  
+
+---
+
+[[P36_Ratnadipika]]
+३६ यतिराजविजयव्याख्या रत्नदीपिका
+
+अणुः — “ एषो ऽणुर् आत्मा चेतसा वेदितव्यः ” इति श्रुतेः । अजडः — अनन्याधीन-प्रकाशः ज्ञान-स्वरूपः । नित्यः — सर्व-काल-सम्बन्धी । अहमर्थः — अहम् इति ज्ञान-शब्दयोर् [[आरोपियो|आरोपिणो]] विषयः । अत एव प्रत्यक् । अतन्-मय इव — अज्ञान-दुःख-मलरूप इव, प्रकृति-धर्माध्यासात् यो भ्राम्यति । तमो — मोह — महामोह — तामिस्र — अन्ध-तामिस्राः —  पञ्च-क्लेशाः । भेदस् तमसः अष्ट-विधः, मोहस्य च । दश-विधो महामोहः । तामिस्रो ऽष्टादशधा ; तथा भवति [[अन्यथाऽमस इति|अन्यथा-तमः इति]] , तद्-भेदाः [[सांख्य्ये|साङ्ख्ये]] द्रष्टव्याः । त एव तमादयः — अविद्यास्मिता-राग-द्वेषा इत्य् उच्यन्ते । जात्यायुर्-भोगाः — विपाकाः । ताप-त्रय-विनाशो — निर्वाणम् । निरतिशयानन्दानुभूतिर् वा ।
+
+माता-पितृ-सहस्रेभ्यो वत्सलतरं शास्त्रम् इत्य् आह — निसर्गेति ।
+
+तद्-गुरोर् अपि समानम् इति आह — अन्योन्यम् इति ।
+
+[[सर्वेश्वरदपि|सर्वेश्वराद् अपि]] गुरोर् अतिशयम् आह — सर्वज्ञ इति ।
+
+शुभ-निमित्तम् आह — [[दाताःकेऽपीति|वाताः के ऽपीति]] ।
+
+शैव — पाशुपत — कापाल — कालामुखा इति, चत्वारः शैवाः । सौत्रान्तिक — वैभाषिक — योगाचार — माध्यमिका इति, शाक्याश् चत्वारः । आसिका — प्रतिष्ठा । [[तच्छेद्ो|तच्छेदो]] ऽप्रतिष्ठा ।
+
+एतेन तर्कस्य [[बुद्धिप्रमदपेक्ष्या|बुद्धि-मद्-अपेक्षया]] [[प्रतिष्ठादित्यमुक्तम्|अप्रतिष्ठात्वम्  उक्तम्]] । “ तर्काप्रतिष्ठानात् ” इति सूत्रम् । बुद्धि-बलाद् आसिका-विच्छेदो ऽपि स्फुरति । श्रुतिः — वेदः, श्रोत्रं च । दर्शनं — शास्त्रं, आलोचनं च । अवैदिकं शास्त्रं त्याज्यम् इति भावः ।
+
+यथा-धिकारं — भक्तिः, प्रपत्तिश् च ।
+
+भक्ति-प्रपत्ति-निष्ठयोर् उभयोर् अपि मुक्तिं दर्शयति — गुण-पञ्जरेति । शुको ऽपि प्रपत्ति-निष्ठः । गुणन् कृष्णेति भक्ति-निष्ठः ; नाम-सङ्कीर्तनस्य नव-विध-भक्त्य्-अन्तर्-भावात् । अत्र [[पक्षसमाश्रिष्य|पक्षं समाश्रित्य]] व्यज्यते ।
+
+वेदान्त-विषये मुक्तानां कृतज्ञताम् आह — स्तुवन्तीति ।
+
+---
+
+[[P37_Ratnadipika]]
+पञ्चमो ऽङ्कः ३७
+
+तदर्थ-विचार इति । श्रीभाष्य-विषयः कश्चिद् ग्रन्थः सुदर्शनेन कृतः । कोशः — शास्त्र-सम्पुटिका, अर्थ-शाला च । वत्स-कुलं — गोत्रं, तर्णक-समूहश् च । रामानुजः — कृष्णश् च ।
+
+स्व - भक्त्योः प्रतिज्ञयोः भक्त-प्रतिज्ञां प्रतिपालयन् , स्व-प्रतिज्ञां विहाय शस्त्रं गृहीतवान् इत्य् आह — भीष्मेति ।
+
+प्रकृति-स्वरूपम् आह — तमो यद् इति । अस्मात् तमसस् त्रिगुणात्मको महान् ; तस्मात् त्रिविधो ऽहङ्कारश् च आसीत् । बहु-विधम् — चक्षुर्-आदि-ज्ञानेन्द्रियाणि पञ्च, वागादि-कर्मेन्द्रियाणि पञ्च, मनश् च, शब्दादि-तन्मात्राणि च पञ्च इति, षोडश-विधम् ! ततस् तेषु पञ्चभ्यः — [[तामसाहङ्कारेभ्यः|तामसाहङ्कारेभ्यः]] तन्मात्रेभ्यः । परिकरः — उपकरणम् ।
+
+आक्षेप-मुखेन भगवत्-तर्क-परिच्छेद्यत्वम् आह — विभुश् चेद् इति ।
+
+अणुषु — जीवेषु अन्तरवस्थानम् अंशेन वा, कात्स्न्येन वा । पूर्वत्र सांशत्वेन अनित्यत्व-प्रसङ्गः । उत्तरत्र अल्प-परिमाणे [[महत्परिमाणान्तर्भावानुपपत्तिः|महत्-परिमाणान्तर्भावानुपपत्तिः]] । न हि सर्पः [[शैलान्तर्भावः|शैलान्तर्भावः]] । कात्स्न्येन एक-वृत्तौ च, अन्यत्र पदार्थे वृत्तिर् न स्यात् ।
+
+अथाणु-परिमाणो भगवान् ; तर्हि, कथं विश्व-व्याप्तिः स्यात् ; न हि अल्प-परिमाणः, एकत्र सन्, अन्यत्रापि भवति ; घटादिषु अतद्-दृष्टेः ।
+
+अथ परिमाण-द्वयवान् ; नैतद् उपपन्नम् ; एकस्य [[विरुद्धआकार|विरुद्धाकार-]]द्वयानुपपत्तेः ; न हि एक एव शुको नीलश् च ।
+
+तर्हि तस्य द्वयम् अपि नास्तीति चेत्, द्रव्यस्य सतस् तस्य परिमाण-द्वयाभावेन द्रव्यता न स्यात् । न ह्य् अद्रव्यं भगवान्, सर्वज्ञादि-[[गुणाधारत्वात्|गुणाधारत्वात्]] ; अतस् त्वां “ अन्तर् बहिश्च तत् सर्वं व्याप्य नारायणः स्थितः ” इति श्रुतिः कथं [[निरणैपीत्|निरणैषीत्]] ।
+
+परिहारस् तु — जातिर् अपि व्यक्तिषु वर्तमाना प्रति-व्यक्ति निरंशत्वात् परिसमाप्य वर्तते । एवं सर्व-शक्तिः ईश्वरो वर्तताम् । किं च, शास्त्रैक-समधिगम्ये ऽर्थे प्रत्यक्षादि, स्वाविषयत्वात् साधन-बाधन-क्षमं न भवति । तत्र शास्त्रम् एव प्रमाणम् । तच् च — “ यच् च किञ्चित् ”, “ य आत्मनि ” इत्यादि । न हि वचन-विरोधे न्यायश् च प्रभवति ।
+
+---
+
+[[P38_Ratnadipika]]
+३८ यतिराजविजयव्याख्या रत्नदीपिका
+
+चिरन्तन-वचो — वेदः । [[अत|अत्र]] , परत्व — सौलभ्ये उक्ते ।
+
+[[भोगमोक्षानुभूति|भोग-मोक्षानुभूति]] — तद्-उपायौ च त्वम् एवेति स्तौति — साम्राज्येति ।
+
+अत्र, दर्शनं — शास्त्रम् ; शुभं दर्शनं यस्येति “ सुदर्शन ” इति ; तद्-अवतारश् च यतिराजः ।
+
+[[मानार्थानाम्|प्रमाण-प्रमेयानाम्]] । [[मच्चैः|सद्भिः]] — एकभावैः । [[मानार्थवैयैश्च|मानार्थ-वैभवैश् च]] । सम्राट् — स्वाधीन-[[सकलार्थः|सकलार्थः]] । तत्र हेतुम् आह — [[अगत्यात्राद|अगत्यादरात्]] इति । [[क्वचिदिति|क्वचिद् इति]] । मन्त्रार्थवादादि-रूपेषु सर्वेषु [[वेदार्येषु|वेदार्थेषु]] परमार्थतः प्रामाण्याभ्युपगमाद् इति भावः । मन्त्रित्वम् — अर्थ-निवाहकत्वम् ।
+
+इति, यत्-किञ्चिद् अस्माभिर् उपात्तम् ; अन्यच् च सर्वम् [[मध्यात्म|अध्यात्म]]-नाटक-विद्भिः स्वयम् ऊहनीयम् ॥
+
+इति, श्रीयतिराजविजय — अपर-नामधेयस्य श्री-वेदान्त-विलास-नाटकस्य टीकायां [[रत्नदीपिकाभ्यायां|रत्नदीपिकाख्यायां]] षष्ठो ऽङ्कः समाप्तः ।
+
+ग्रन्थश् च परिसमाप्तः ।
+
+
+
+[[Pi]]
+|| श्रीरस्तु ||
+
+## अनुबन्धः २
+### यतिराजविजयनाटकस्य
+## श्लोकानुक्रमणिका ।
+
+| श्लोकादिः | अङ्क-श्लोक-संख्या | पुटसंख्या |
+| :--- | :---: | :---: |
+| अकोकिलाम् आशु विधातुम् | ( ६ — ४६ ) | ( ९३ ) |
+| अमन्द्यस्त-कलाचिका | ( ६ — ११ ) | ( ८१ ) |
+| अतिभूमिं गत-स्त्रीणाम् | ( ६ — ५२ ) | ( ९४ ) |
+| अतिमानुषो ऽयम् अस्य | ( ५ — ६ ) | ( ६३ ) |
+| अल्पो ऽपि रिपुर् आक्रमन् | ( १ — २६ ) | ( ८ ) |
+| अश्रूयन्त न किं त्वया | ( ५ — १० ) | ( ६४ ) |
+| अस्मत्-केलि-रहस्य-बन्धुः | ( ६ — २० ) | ( ८५ ) |
+| आख्यातुं तव पारयामि | ( २ — १५ ) | ( २२ ) |
+| आजिघ्रन् मुख-पुण्डरीकम् | ( ४ — १३ ) | ( ५१ ) |
+| आज्ञा-भङ्गो नरेन्द्राणाम् | ( ५ — ११ ) | ( ६५ ) |
+| आनीलाः कर-पल्लवैः | ( ४ — ९ ) | ( ४८ ) |
+| आबालगोपम् अखिलैः | ( २ — २६ ) | ( २६ ) |
+| आमीलीद्-विरेक्ष्य | ( ४ — ८ ) | ( ४८ ) |
+| आरोपितुम् एव अस्य धर्मान् | ( ५ — २० ) | ( ६८ ) |
+| आलोल-स्तन-भार-हार | ( १ — १६ ) | ( ५ ) |
+| इदम् इत्थम् इति ज्ञेयम् | ( ५ — २३ ) | ( ६९ ) |
+| इन्दीवरार्थीव मधु | ( ४ — ३२ ) | ( ५८ ) |
+| उन्नामधेयम् उत्फुल्ल | ( १ — ४७ ) | ( १४ ) |
+| [[उपकर्तुराममचिराम्|उपकर्तुं राम-विद्विषाम्]] | ( १ — ५ ) | ( २ ) |
+| एनम् आत्मानम् आनन्द-मयम् | ( ३ — १९ ) | ( ४१ ) |
+| कण्ठे [[हारळआ|हार-लता]] | ( २ — १८ ) | ( २३ ) |
+| कर्णोत्सङ्ग-विसर्पिणी | ( ४ — २८ ) | ( ५७ ) |
+| कर्म-व्याज-कृता-खिल | ( ६ — २७ ) | ( ८८ ) |
+| कलार्चीं शृङ्गारम् | ( ६ — १२ ) | ( ८१ ) |
+| कल्पान्त-कन्दलित-सागर | ( ५ — ७ ) | ( ६३ ) |
+| कस्तूरिका कनक | ( ४ — ३३ ) | ( ५८ ) |
+
+---
+
+[[Pii]]
+ii
+
+| श्लोकादिः | अङ्क-श्लोक-संख्या | पुटसंख्या |
+| :--- | :---: | :---: |
+| कस्तूरिकास् तव | ( ४ — ३१ ) | ( ५८ ) |
+| कस्तूरी-तिलक-भृतः | ( ६ — ४३ ) | ( ९२ ) |
+| क्वणत्-कटक-मञ्जीर | ( ४ — २७ ) | ( ५७ ) |
+| काणाद-शाक्य-पाषण्डैः | ( १ — ३६ ) | ( ११ ) |
+| कामो मे रिपुर् एव | ( ४ — २० ) | ( ५४ ) |
+| कालस् तद्-विशानी | ( ६ — १९ ) | ( ८५ ) |
+| काले वर्षतु वासवः | ( ६ — ७ ) | ( ७९ ) |
+| काले वर्षतु वासवः क्षिति | ( ६ — ५६ ) | ( ९५ ) |
+| किं दीप-प्रभया किम् अक्षि | ( ४ — २६ ) | ( ५६ ) |
+| किं न्याय-तर्क-निपुणैः | ( ५ — ९ ) | ( ६४ ) |
+| किं सर्पो गरुडस्य | ( ३ — २६ ) | ( ४४ ) |
+| कीर्तिं ते भृगु-नारद | ( ३ — ८ ) | ( ३५ ) |
+| कुण्डलित-कण्ठ-नालाः | ( ४ — २२ ) | ( ५५ ) |
+| कुदर्शनानीतर-दर्शनानि | ( ६ — ५४ ) | ( ९५ ) |
+| [[कुदृष्टिभिजिशशोकैरु|कुदृष्टिभिर् जिघांसुभिः]] | ( १ — ४३ ) | ( १३ ) |
+| कुसुमायुध-कोटि-कान्ति | ( ६ — ५१ ) | ( ९४ ) |
+| कृत-ललित-सुवेषः | ( ६ — ४० ) | ( ९२ ) |
+| क्रोधोद्भूत-क्रुद्ध | ( ६ — ३४ ) | ( ९० ) |
+| क्षेत्रेषु न को ऽपि | ( ६ — १४ ) | ( ८२ ) |
+| गच्छन्त्या सह मां | ( ६ — १६ ) | ( ८४ ) |
+| गुण-पञ्जर-निर्मुक्त | ( ६ — ३७ ) | ( ९१ ) |
+| गृहिणो ऽपि तवादेश | ( ४ — ७ ) | ( ४८ ) |
+| गृहीता ऽप्य् अंशुके | ( २ — १५ ) | ( २३ ) |
+| चन्द्र-दर्शन-मात्रेण | ( २ — ९ ) | ( २० ) |
+| चन्द्रो मण्डल-मात्र-शेष | ( ४ — ३६ ) | ( ५९ ) |
+| चार्वाकश् शैव-शाक्य | ( ६ — ३२ ) | ( ८९ ) |
+| चित्रकूट-तटे रामः | ( १ — ९ ) | ( ३ ) |
+| [[चिन्मात्रमात्रयोरस्तत्त्वम्|चिन्मात्र-मात्र एवेत्यत्र]] | ( ५ — ३१ ) | ( ७१ ) |
+| छायाम् इव आतप-श्रान्तः | ( ४ — २५ ) | ( ५६ ) |
+| छाया-मूलम् उपैति | ( १ — ४४ ) | ( १३ ) |
+| जगद्-गुरुर् इदं | ( १ — ४६ ) | ( १४ ) |
+| जय जय नरसिंह | ( ४ — ३४ ) | ( ५९ ) |
+| जय जय भगवन् | ( ४ — ३५ ) | ( ५९ ) |
+
+---
+
+[[Piii]]
+iii
+
+| श्लोकादिः | अङ्क-श्लोक-संख्या | पुटसंख्या |
+| :--- | :---: | :---: |
+| जानीमस् तव सत्यम् अर्जुन | ( ६ — ४५ ) | ( ९३ ) |
+| तच् च ब्रह्म न संवेद्यम् | ( ३ — २१ ) | ( ४२ ) |
+| तडितम् इव दृगन्तां | ( २ — २२ ) | ( २४ ) |
+| तडिद्-वासो [[वामः|वासः]] प्रति | ( ६ — ४२ ) | ( ९२ ) |
+| तत्-कण्ठ-ग्रहणाय धावति | ( ४ — १९ ) | ( ५४ ) |
+| तत्त्वमसीति ब्रुवती | ( २ — १६ ) | ( २२ ) |
+| तमो यत्रागासीत् त्रिगुण | ( ६ — ४८ ) | ( ९३ ) |
+| तर्क-न्याय-तरङ्ग-लङ्घित | ( ५ — ३४ ) | ( ७३ ) |
+| तस्य वेदान्त-कूटस्थः | ( १ — ८ ) | ( ३ ) |
+| तिर्यग् अवलोक्य यान्ती | ( २ — २० ) | ( २४ ) |
+| तिष्ठन्न् अपि महाराज्ये | ( ३ — ११ ) | ( ३६ ) |
+| तृणी-कृत-बृहस्पतिः | ( ३ — २३ ) | ( ४२ ) |
+| त्रिदण्ड-काषाय-शिखो | ( १ — ३१ ) | ( ९ ) |
+| त्रिभुवन-महनीयः | ( १ — २१ ) | ( ६ ) |
+| त्रिवर्गम् अवधीरयन् | ( ६ — ३९ ) | ( ९१ ) |
+| विविध-चिद्-[[चिदचित्त्दीश्वर|अचिदीश्वर]] | ( ६ — १३ ) | ( ८२ ) |
+| त्वया सह त्वद्-आचार्यैः | ( ५ — १४ ) | ( ६६ ) |
+| दृश्यताम् एष देवेन | ( २ — १३ ) | ( २१ ) |
+| दृश्यं निन्दति दर्शयन्न् अपि | ( ५ — २६ ) | ( ७० ) |
+| देवी तिष्ठतु सा मम | ( ४ — ११ ) | ( ५१ ) |
+| देहाक्षादि-विलक्षणो | ( ६ — २९ ) | ( ८८ ) |
+| द्रष्टा यदा ऽवमन्येत | ( ६ — ३ ) | ( ७७ ) |
+| द्विजेभ्यो दीयन्तां कनक | ( ६ — ३६ ) | ( ९० ) |
+| [[धनुर्द्रवैर्विलिखितम्|धनुर्-द्वयैर् विलिखितम्]] | ( ४ — ३० ) | ( ५७ ) |
+| ध्यायन् सत्यम् अनन्त | ( ६ — २४ ) | ( ८७ ) |
+| न शिखा नोपवीतं च | ( ५ — १ ) | ( ६१ ) |
+| नष्ट-राज्यो ऽपि वेदान्तः | ( ३ — १२ ) | ( ३६ ) |
+| [[नष्टरुचिरय|नष्ट-रुचिर् अयम्]] रागी | ( २ — २९ ) | ( २८ ) |
+| न साध्या ब्रह्म चेन् मुक्तिः | ( ३ — २२ ) | ( ४२ ) |
+
+---
+
+[[Piv]]
+iv
+
+| श्लोकादिः | अङ्क-श्लोक-संख्या | पुटसंख्या |
+| :--- | :---: | :---: |
+| नाध्यासः स्वप्रकाशे | ( ५ — २१ ) | ( ६८ ) |
+| नापरैः परिभूयन्ते | ( १ — ४० ) | ( १२ ) |
+| [[नाविशिष्टं सरुक्ष|नाविशिष्टं स-रुक्ष]] | ( १ — ११ ) | ( ४ ) |
+| निधाय सर्व-कपट-नीति | ( ५ — ४३ ) | ( ७६ ) |
+| निरस्य तिमिरं भानुः | ( १ — २३ ) | ( ७ ) |
+| निरालम्बनम् अप्य् एतद् देवम् | ( ६ — १ ) | ( ७७ ) |
+| निर्विकार-श्रुतिर् ब्रह्म | ( ५ — ३६ ) | ( ७३ ) |
+| [[निशातनिशिस्त्रिंश|निशात-निशितासि-]] | ( १ — ४९ ) | ( १५ ) |
+| नीतो मयाद्य निगमान्त- | ( १ — १७ ) & ( ६ — ५६ ) | ( ५ ) & ( ९६ ) |
+| पद्माद् आशु समुद्धृत्य | ( ३ — २५ ) | ( ४४ ) |
+| पञ्चार्थी-पदवीं प्रविश्य | ( ३ — ५ ) | ( ३५ ) |
+| पद्मे त्वन्-नयने स्मरामि | ( १ — १ ) | ( १ ) |
+| परब्रह्मास्थानी-स्फटिक | ( ६ — ३८ ) | ( ९१ ) |
+| परब्रह्मास्वाद-प्रसृमर | ( ६ — २१ ) | ( ८६ ) |
+| परस्पर-महान्तक- | ( ५ — ८ ) | ( ६४ ) |
+| परस्माद् अन्यस्मै यद् अपि | ( ६ — ४७ ) | ( ९३ ) |
+| परिणाम-पाटलम् इदम् | ( २ — २८ ) | ( २८ ) |
+| परिभवति हि भानुम् | ( १ — २७ ) | ( ८ ) |
+| पाणिभ्यां प्रतिरुन्धती | ( ६ — ४४ ) | ( ९३ ) |
+| पादाघात-किरीट | ( ५ — १२ ) | ( ६५ ) |
+| पादौ जडौ भवति | ( ४ — १४ ) | ( ५३ ) |
+| पारे चिरन्तन-वचः | ( ६ — ५० ) | ( ९४ ) |
+| पीड्यमाना हि रक्ष्यन्ते | ( ६ — २९ ) | ( ८६ ) |
+| पुरुषः मयाद्य दृष्टा | ( २ — १२ ) | ( २१ ) |
+| पौरन्दरी तिलक-बन | ( ४ — ५ ) | ( ४८ ) |
+| पौलस्त्येन यथा | ( १ — २८ ) | ( ८ ) |
+| प्रगल्भेयं लीला-परवश- | ( ६ — २५ ) | ( ८७ ) |
+| प्रत्यक्ष-प्रभृति-प्रमाण | ( ५ — २२ ) | ( ६८ ) |
+
+---
+
+[[Pv]]
+v
+
+| श्लोकादिः | अङ्क-श्लोक-संख्या | पुटसंख्या |
+| :--- | :---: | :---: |
+| प्रत्येकं नियत-स्वकीय | ( ३ — ४ ) | ( ३१ ) |
+| प्रद्युम्नेन जितो गृहः | ( ४ — १ ) | ( ४६ ) |
+| प्रमाणेष्व् इव वेदान्तः | ( ५ — ३९ ) | ( ७५ ) |
+| प्राच्यालेख्य-तुलां | ( ३ — २७ ) | ( ४५ ) |
+| फल-कुसुम-विनम्र-पाश्र्व | ( १ — ३४ ) | ( १० ) |
+| बलात्-कृत्य हरन्ती माम् | ( ४ — २३ ) | ( ५६ ) |
+| बहुधा जीव-रूपेण | ( ५ — ४१ ) | ( ७५ ) |
+| बालो वा यदि वा | ( २ — ५ ) | ( १९ ) |
+| ब्रह्म-त्राण-प्रवीणः | ( १ — ३ ) | ( १ ) |
+| ब्रह्मसूत्र-परित्यागी | ( ३ — १७ ) | ( ४० ) |
+| ब्रह्माणः कति वा न सन्ति | ( ५ — १६ ) | ( ६७ ) |
+| ब्रह्माण्डेषु परिस्फुरत्सु | ( ३ — १५ ) | ( ४० ) |
+| ब्रह्मात्मकम् आदाय | ( ५ — १७ ) | ( ६७ ) |
+| ब्रह्मैक-तत्त्वम् एतद् आहुः | ( ५ — ३५ ) | ( ७३ ) |
+| ब्रह्मैक-सद्-उपाधि-भेद | ( ५ — ४० ) | ( ७५ ) |
+| भवन्-मुख-समुद्भूतम् | ( ४ — ६ ) | ( ४८ ) |
+| भास्वान् एष तमो | ( १ — ४ ) | ( २ ) |
+| भुङ्क्ते वेत्ति च देह एव | ( २ — ४ ) | ( १६ ) |
+| भूतैस् तन्-मय-देहम् एव | ( ६ — २३ ) | ( ८६ ) |
+| भेद-प्रसङ्ग-रहितम् | ( २ — ३ ) | ( १७ ) |
+| वेदोपज्ञो ऽपि बिभर्ति | ( १ — ३० ) | ( ९ ) |
+| मति-नीति-विहीनम् | ( २ — २७ ) | ( २७ ) |
+| मदन-सन्तापम् | ( ४ — ३३ ) | ( ५८ ) |
+| मद्-गीः-पाटव-दर्शनाय | ( ६ — २ ) | ( ७७ ) |
+| मन्त्र-ब्राह्मण-देवता | ( ६ — ९ ) | ( ८० ) |
+| मन्त्रिषु न्यस्त-भारो ऽयम् | ( ५ — २७ ) | ( ७० ) |
+| मन्द-स्मितं च वदनम् | ( २ — २५ ) | ( २६ ) |
+| मन्द-स्मितं मधुमत् | ( २ — ११ ) | ( २१ ) |
+| मन्दार-पुष्प-मकरन्द | ( २ — १० ) | ( २१ ) |
+
+
+
+[[Pvi]]
+<div align="center">vi</div>
+
+| श्लोकादिः | अङ्क - श्लोक - संख्या | पुटसंख्या |
+| :--- | :---: | :---: |
+| मय्य् एव राज्यम् अखिलम् | ( २ -- २ ) | ( १७ ) |
+| मलय-पवनो मर्म-च्छेदी | ( ४ -- १२ ) | ( ५१ ) |
+| मस्करीव नमः-स्थायी | ( ५ -- ४२ ) | ( ७६ ) |
+| मा त्वं प्रयाहि मदिराक्षि | ( २ -- २३ ) | ( २४ ) |
+| मानं जीवितम् आमनन्ति | ( ४ -- १७ ) | ( ५३ ) |
+| मानात्-सिद्ध्यतु सर्वम् एव | ( ३ -- ५ ) | ( ३२ ) |
+| मानार्थ-त्व-विहीनो | ( १ -- २९ ) | ( ९ ) |
+| मामन्था विदधती | ( २ -- ६ ) | ( १९ ) |
+| माया-विमोहित-सुरान् | ( १ -- २४ ) | ( ७ ) |
+| मायावी सचिवो ऽनिरासि | ( ६ -- ५५ ) | ( ९५ ) |
+| मिथ्येति विदितैर् अर्थैः | ( ३ -- ६ ) | ( ३३ ) |
+| मुग्ध-हसितं मुग्धं ते | ( २ -- २१ ) | ( २४ ) |
+| मुदितः कदा शयिष्ये | ( ४ -- २१ ) | ( ५५ ) |
+| मूर्त्या मध्यमया | ( १ -- ४५ ) | ( १३ ) |
+| यज्ञोपवीती कार्षायी | ( ५ -- ३८ ) | ( ७४ ) |
+| यत्-पञ्चोपनिषन्मयम् | ( ६ -- १७ ) | ( ८४ ) |
+| यद् अप्य् अतत्या मौति | ( २ -- ८ ) | ( २० ) |
+| यश् चैको भुवि सर्व-धूर्वहः | ( ५ -- १३ ) | ( ६६ ) |
+| यद् वैभाषिक-भाषितम् | ( ५ -- ३२ ) | ( ७२ ) |
+| यस्मिन्न् अध्यस्तम् एतत् | ( ५ -- १८ ) | ( ६७ ) |
+| युक्तायुक्त-निरूपणम् | ( ४ -- १० ) | ( ५० ) |
+| येन स्वप्रभ-दृग्गोचर | ( ३ -- २८ ) | ( ४५ ) |
+| yeनैव कण्ठ-पाशेन | ( १ -- ३९ ) | ( १२ ) |
+| ये यजन्ति पितॄन् देवान् | ( ६ -- १० ) | ( ८१ ) |
+| यः प्रत्यञ्चं सृजन् | ( ६ -- २६ ) | ( ८८ ) |
+| राजन् ! मम महन्ति | ( ३ -- ३ ) | ( ३१ ) |
+| राज्ञो मन्त्रि-कुलस्य | ( ३ -- ७ ) | ( ३४ ) |
+| वल्गत्-खड्ग-निपात | ( ५ -- ४ ) | ( ६२ ) |
+| वसन्तलक्ष्मी-लाक्षाङ्क | ( १ -- २० ) | ( ६ ) |
+
+<br>
+
+[[Pvii]]
+<div align="center">vii</div>
+
+| श्लोकादिः | अङ्क - श्लोक - संख्या | पुटसंख्या |
+| :--- | :---: | :---: |
+| वाचा रञ्जयितुं जगत् | ( १ -- ४१ ) | ( १३ ) |
+| वाञ्छा ते परिपूर | ( १ -- १२ ) | ( ४ ) |
+| वाताः के ऽपि वहन्ति | ( ६ -- ३१ ) | ( ८९ ) |
+| वासुदेवो ऽहम् एवेति | ( ५ -- ३० ) | ( ७१ ) |
+| वासो मुक्त-पटच्चराणि | ( १ -- ३२ ) | ( १० ) |
+| विगुणीकृतापि मुग्धैः | ( १ -- १५ ) | ( ५ ) |
+| विदग्ध-वैदग्ध्य-शैलूष | ( ३ -- १६ ) | ( ४० ) |
+| विमुक्तेनैव स्यात् | ( ६ -- ४९ ) | ( ९४ ) |
+| विरमतु तव भीतिर् वेपमाना | ( ५ -- २४ ) | ( ६९ ) |
+| वेदान् आदाय धातुः | ( १ -- ४८ ) | ( १५ ) |
+| वेदाः शास्त्रम् इदम् | ( २ -- १४ ) | ( २१ ) |
+| वेदेष्व् अर्थ-निधानानि | ( ६ -- ६ ) | ( ७८ ) |
+| वैतालिकौ महाराजं | ( ३ -- १४ ) | ( ३६ ) |
+| शठकोप-मुनिर् एष | ( ५ -- २५ ) | ( ६९ ) |
+| शठदैक-शेष-वपुषः | ( २ -- ४ ) | ( १८ ) |
+| शय्यापन्नग-सार्वभौम | ( ४ -- ४ ) | ( ४७ ) |
+| शय्या यस्य दृशा | ( १ -- २ ) | ( १ ) |
+| शास्त्राणाम् अधिदेवताश् च | ( १ -- १३ ) | ( ४ ) |
+| शास्त्रेषु शस्त्र-पुरुषा | ( १ -- १० ) | ( ३ ) |
+| शिखोपवीत-च्छेदो हि | ( ५ -- २८ ) | ( ७१ ) |
+| शुक-नारद-वृत्तान्तः | ( ३ -- १८ ) | ( ४१ ) |
+| शुकासित-भरद्वाज | ( ६ -- ५ ) | ( ७८ ) |
+| शून्या त्वं लिखितेव | ( ४ -- १८ ) | ( ५३ ) |
+| श्रीमद्-वक्त्र-परिष्कृतैः | ( ६ -- ३५ ) | ( ९० ) |
+| षडङ्गोपेत-वत्त्रटक | ( ६ -- ३३ ) | ( ९० ) |
+| स एष साक्षात्-कृत | ( १ -- ३५ ) | ( ११ ) |
+| सङ्कल्प-सिद्ध-वपुषः | ( ३ -- १३ ) | ( ३६ ) |
+| सङ्कीर्ते द्रवतां नयत्य् अपि | ( २ -- ७ ) | ( १९ ) |
+| सत्कुर्वता संसदि | ( १ -- ७ ) | ( ३ ) |
+
+<br>
+
+[[Pviii]]
+<div align="center">viii</div>
+
+| श्लोकादिः | अङ्क - श्लोक - संख्या | पुटसंख्या |
+| :--- | :---: | :---: |
+| सत्याशेष-जडाजडात्म | ( ६ -- २८ ) | ( ८८ ) |
+| सद्यः स्पृष्टान् कराग्रैः | ( ५ -- २ ) | ( ६१ ) |
+| स दोषो वा ऽप्य् अदोषो वा | ( ५ -- १७ ) | ( ७४ ) |
+| सन्ताप-स्फुटितोद्विजन्त | ( ३ -- १ ) | ( ३० ) |
+| सन्त्य् एव अन्ये ऽपि लोके | ( ५ -- ३ ) | ( ६१ ) |
+| सन्ध्यां कुङ्कुम-[[रैणुभिः|रेणुभिः]] | ( ६ -- ४१ ) | ( ९२ ) |
+| संन्यस्त-भारः सचिवेषु | ( ३ -- २ ) | ( ३१ ) |
+| संन्यासिनी समायाति | ( ४ -- ३ ) | ( ४६ ) |
+| सप्तद्वीप-प्रदीव्यन् | ( ५ -- ५ ) | ( ६२ ) |
+| सम्यग् एकोत्तरेणैव | ( ५ -- १९ ) | ( ६७ ) |
+| सरल-कुचाभिरामः | ( १ -- १८ ) | ( ५ ) |
+| सर्वज्ञो न न वेद तस्य | ( ६ -- २० ) | ( ८९ ) |
+| सर्वज्ञो ऽहम् अपि त्वयैव | ( ६ -- १८ ) | ( ८५ ) |
+| सर्वस्यापि हितं ब्रवीति | ( १ -- २५ ) | ( ७ ) |
+| सर्वैर् विलुप्त-विषयः | ( १ -- २२ ) | ( ६ ) |
+| सस्मितम् उवाच वन्दाः | ( ४ -- १५ ) | ( ५२ ) |
+| साम्राज्य-सम्पद् असि | ( ६ -- ५३ ) | ( ९५ ) |
+| सा विद्या नैव हृद्या | ( १ -- ३७ ) | ( ११ ) |
+| सासूये शफरी-विवृत्तिषु | ( ४ -- १४ ) | ( ५१ ) |
+| सुख-शीतलास् समीराः | ( १ -- ४२ ) | ( १३ ) |
+| सुमति-विरहितो न वेद्मि | ( ६ -- १५ ) | ( ८३ ) |
+| सुमते ! न भवत्य् एव | ( ४ -- २४ ) | ( ५६ ) |
+| सुर-नर-तिर्यक्-स्थावर | ( १ -- ६ ) | ( २ ) |
+| सुर-नर-पशु-भूमिकां | ( १ -- १४ ) | ( ४ ) |
+| सुरभि-सुमनः-प्रबन्धाः | ( १ -- १९ ) | ( ६ ) |
+| सुस्नात-युक्त-सुवित्त | ( ३ -- २४ ) | ( ४३ ) |
+| सो ऽहंभावनया सुरासुर | ( ५ -- २९ ) | ( ७१ ) |
+| सौदामिनीव मेघं मां | ( २ -- २४ ) | ( २५ ) |
+| संविन्-मयं सकल | ( ४ -- २ ) | ( ४७ ) |
+
+<br>
+
+[[Pix]]
+<div align="center">ix</div>
+
+| श्लोकादिः | अङ्क - श्लोक - संख्या | पुटसंख्या |
+| :--- | :---: | :---: |
+| संसार-मग्न-सर्वात्म | ( ३ -- १० ) | ( ३६ ) |
+| स्ववाग्-विरोधः सत्या चेत् | ( ५ -- ३३ ) | ( ७२ ) |
+| स्व-स्वार्थ-क्षतिर् इह | ( ६ -- ८ ) | ( ७९ ) |
+| स्वोक्ति-सुस्थिर-बाणो ऽपि | ( ५ -- १५ ) | ( ६६ ) |
+| हा कष्टं किम् अनेन चेष्टित | ( ६ -- ४ ) | ( ७८ ) |
+| हाराणि स्तन-मण्डले | ( ४ -- २९ ) | ( ५७ ) |
+| हितस्य करणात् त्रियम् | ( १ -- ३८ ) | ( ११ ) |
+| होदि तुह वेद-मौले | ( २ -- १७ ) | ( २३ ) |
+
+<br>
+
+<div align="center">
+
+**श्रीरस्तु**
+
+**व्याख्यानादुपलब्धाः पाठभेदाः**
+
+</div>
+
+| पुटम् | पङ्क्तिः | मुद्रितपाठः | पाठान्तरम् |
+| :---: | :---: | :--- | :--- |
+| १ | ३ | वचो निशम्य | वचो ऽनुमाप्य, वचो ऽनुभाष्य |
+| १ | ४ | बः | नः |
+| १ | ५ | कूल इत्यादि को ऽप्य् अधिकः श्लोको वर्तते : स च श्लोको | यत्र कुत्रापि मूले नोपलब्धः । |
+| १ | ८ | स्तोमो ऽवतंसो | स्तोमावतंसो |
+| १ | १० | तृतीयो ऽयं श्लोको नास्ति व्याख्याते । | |
+| २ | १२ | मारिष | विद्वन् |
+| १५ | १० | जनानाम् | द्विजानाम् |
+| २० | १३ | महाराजम् | राजानम् |
+| २२ | ९ | स्तन-मण्डलैः | स्तन-मन्थरैः |
+
+<br>
+
+[[Px]]
+<div align="center">x</div>
+
+| पुटम् | पङ्क्तिः | मुद्रितपाठः | पाठान्तरम् |
+| :---: | :---: | :--- | :--- |
+| २३ | ६ | धम्मिल्लकेणेव | धम्मिल्लभिमअ |
+| २३ | १५ | भेद-दर्शन | विपक्ष-दर्शन |
+| २६ | २० | कुहन-जन | कुहन-कुल |
+| ३२ | १८ | तथा खलु | या खलु |
+| ३५ | ६ | तटारण्यानि | महारण्यानि |
+| ४२ | ३ | तच् च ब्रह्म | सच्चिद्-ब्रह्म |
+| ५० | ५ | किम् आकुला भवामि | किम् अहम् आकुलास्मि |
+| ५३ | ११ | खण्डन-हेतुभिः | खण्डन-युक्तिभिः |
+| ” | ” | दृष्टः | धृष्टः |
+| ५४ | १३ | जगच्छीतनयोः | जगच्छीतलौ |
+| ६२ | २० | द्वीप-प्रदीव्यत् | द्वीप-प्रदीपः |
+| ६४ | १५ | प्रेक्षादरः | प्रेक्षातुरः |
+| ६९ | १८ | सामिसराः | साहीरसाः |
+| ६९ | २४ | अनपेक्षित | अनवेक्षित |
+| ७१ | २० | चिन्मात्र | विज्ञान |
+| ७३ | १६ | मन्त्रीश्वर | महा-मन्त्रीश्वर |
+| ७८ | १७ | कृतालापाः | कृतोद्योगाः |
+| ८६ | १ | राग-वृत्तिम् | राग-वृद्धिम् |
+| ९५ | २० | मूर्धसु | मूर्धनि |
+
+
+
+[[P1]]
+<div align="center">
+
+॥ श्रीरस्तु ॥
+
+### **अनुबन्धः ३**
+### **नाटकलक्षणसंग्रहः**
+
+</div>
+
+चतुर्विधैर् अभिनयैः सात्त्विकाङ्गिक-पूर्वकैः ।  
+धीरोदात्ताद्य्-अवस्थानुकृतिर् नाट्यं रसाश्रयम् ॥  
+
+अभिव्यञ्जन् विभावानुभावादीन् नाटकाश्रयान् ।  
+उत्पादयन् सहृदये रस-ज्ञानं निरन्तरम् ।  
+अनुकर्तृस्थितो यो ऽर्थः, अभिनयस् तो ऽभिधीयते ॥  
+
+आङ्गिको वाचिकश् चैव सात्त्विकाहार्यकाव् इति ।  
+स चतुर्धा कृतस् तज्ज्ञैः, आङ्गिको ऽङ्ग-क्रियोच्यते ॥  
+
+रागानुषङ्गि यद् वाक्यं नाट्ये तद् वाचिकं स्मृतम् ।  
+सत्त्व-क्रिया सात्त्विकस् स्यात्, आहार्यो भूषणादिकम् ॥  
+<div align="right">( सङ्गीत-चूडामणौ - प्रताप-रुद्रीये च )</div>
+
+भावाश्रयं तु नृत्यं स्यात् नृत्तं ताल-लयान्वितम् ।  
+आद्यं पदार्थाभिनयो मार्गो, देशी तथा परम् ॥  
+
+मधुरोद्धत-भेदेन तद् द्वयं द्विविधं पुनः ।  
+लास्य-ताण्डव-रूपेण नाट्याद्य्-उपकारकम् ॥  
+<div align="right">( दश-रूपके )</div>
+
+रस-विषयं सात्त्विक-बहुलं नाट्यम् , भाव-विषयम् आङ्गिक-बहुलं मार्गापर-पर्यायं नृत्यम् , ताल-लयोभयाश्रयं देश्य्-अपर-पर्यायं नृत्तम् इति विवेकः । गीतादि-परिणामावच्छेदः काल-विशेषः चञ्चत्पुटादिः ; तालान्तरालवर्ती कालः, — लयनालुप्यः ।
+
+अवस्थानुकृतिर् नाट्यं, रूपं दृश्यतयोच्यते ।  
+रूपकं तत्-समारोपात्, दशधैव रसाश्रयम् ॥  
+
+A - 7
+
+<br>
+
+[[P2]]
+<div align="center">२ यतिराजविजयनाटकानुबन्धः</div>
+
+काव्योपनिबद्धानां धीरोदात्तादीनां नायकानाम् अवस्थानुकारः चतुर्विधैर् अभिनयैस् तादात्म्यापत्तिः — नाट्यम् । तद् एव नाट्यं दृश्यमानतया रूपम् इत्य् उच्यते, नीलादि-रूपवत् । नटे रामाद्य्-अवस्था-रोपेण वर्तमानत्वात् — रूपकम् । रसान् आश्रित्य वर्तमानं तद् इदं रूपकं नाटकादि-प्रभेदात् दशधा भिद्यते । वस्तु-नेतृ-रसास् तेषां भेदका भवन्ति ।
+
+तत्र नाटकलक्षणमुक्तम् —
+> साङ्गैः प्रकृति-युक्तम् अङ्क-गर्भोपसंहृतैः ।  
+> पूर्वं प्रकृतिर् अस्यैषा आधिकारिक-वृत्तितत् ॥  
+> वीर-शृङ्गारयोर् एकः प्रधानं यत्र वर्ण्यते ।  
+> प्रख्यात-नायकोपेतं नाटकं तद् उदाहृतम् ॥ इति प्रतापरुद्रीये ।  
+
+नाटकादौ विघ्न-निवारणार्थं पूर्वरङ्गः कर्तव्यः । तस्य प्रत्याहारादीनि द्वाविंशत्य्-अङ्गानि । तन्-मध्ये चावश्यं कर्तव्या नान्दी ।
+
+नान्दीलक्षणमपि —
+> अर्थतः शब्दतो वापि मनाक् काव्यार्थ-सूचनम् ।  
+> यत्राष्टाभिर् दशभिर् अष्टादशभिर् एव वा ।  
+> द्वाविंशत्या पदैर् वापि सा नान्दी परिकीर्तिता ॥ इति तत्रैवोक्तम् ।  
+
+नान्द्य्-अनन्तरं च [[प्रविशेन|प्रविशता]] सूत्रधारेण रङ्ग-प्रसाधन-पुरस्सरं भारती-वृत्त्य्-आश्रयेण श्लोकैः काव्यार्थः सूचनीयः । तद् उक्तं दश-रूपके —
+
+> रङ्गं प्रसाद्य मधुरैः श्लोकैः काव्यार्थ-सूचकैः ।  
+> ऋतुं कञ्चिद् उपादाय भारतीं वृत्तिम् आश्रयेत् ॥ इति ।  
+
+भारती-वृत्तिर् नाम — पुरुष-विशेष-प्रयोज्याः संस्कृत-बहुलो वाग्-व्यापारो नटाश्रयो व्यापारः । (१) प्ररोचना (२) वीथी (३) प्रहसनं (४) आमुखं च तदङ्गानि । तत्र, प्रस्तुतार्थ-प्रशंसनेन श्रोतॄणां [[प्रवृत्त्युन्मुखीकरणम्य|प्रवृत्त्य्-उन्मुखीकरणं]] प्ररोचना । आमुखम् — प्रस्तावना ।
+
+<br>
+
+[[P3]]
+<div align="center">नाटकलक्षणसंग्रहः</div>
+
+एतत् सर्वम् उक्तं दश-रूपके —
+> भारती संस्कृत-प्रायो वाग्-व्यापारो नटाश्रयः ।  
+> भेदैः प्ररोचना-वीथी-प्रहसनामामुखैः ।  
+> उन्मुखीकरणं तत्र प्रशंसतः प्ररोचना ।  
+> वीथी प्रहसनं चापि स्वप्रसङ्गे ऽभिधास्यते ।  
+> वीथ्य्-अङ्गानि आमुखाङ्गत्वाद् उच्यन्ते ऽत्र स्वशक्ततः ।  
+> सूत्रधारो नटीं ब्रूते मारिषं वा विदूषकम् ।  
+> स्वकार्यं प्रस्तुताक्षेपि चित्रोक्त्या यत् तद् आमुखम् ॥  
+> प्रस्तावना वा, तत्र स्युः कथोद्घातः प्रवृत्तकम् ।  
+> प्रयोगातिशयश् चाथ वीथ्य्-अङ्गानि त्रयोदश ॥  
+
+तत्र कथोद्घातः —
+> स्वेतिवृत्त-समं वाक्यम् अर्थं वा यत्र सूत्रिणः ।  
+> गृहीत्वा प्रविशेत् पात्रं कथोद्घातो द्विधैव सः ॥  
+
+अथ प्रवृत्तकम् —
+> काल-साम्य-समाक्षिप्त-प्रवेशः स्यात् प्रवृत्तकम् ।  
+
+अथ प्रयोगातिशयः —
+> एषो ऽयम् इत्य् उपक्षेपात् सूत्रधार-प्रयोगतः ।  
+> पात्र-प्रवेशो यत्रैष प्रयोगातिशयो मतः ॥  
+
+अथ वीथ्य्-अङ्गानि —
+> उद्घात्यकावलगिते प्रपञ्च-त्रिगते छलम् ।  
+> वाकेल्य्-अधिबले गण्डम् अवस्यन्दित-नालिके ।  
+> असत्-प्रलाप-व्याहार-मृदवानि त्रयोदश ॥ — इति ॥  
+
+एषाम् अन्यतमेनार्थं पात्रं चाक्षिप्य सूत्रभृत् ।  
+प्रस्तावनान्ते निर्गच्छेत् ततो वस्तु प्रपञ्चयेत् ॥  
+
+<br>
+
+[[P4]]
+<div align="center">यतिराजविजयनाटकानुबन्धः</div>
+
+तत्र
+> अभिगम्य-गुणैर् युक्तो धीरोदात्तः प्रतापवान् ।  
+> कीर्ति-कामो महोत्साहः त्रय्य्-आम्नाता महीपतिः ॥  
+> प्रख्यात-वंशो राजर्षिः दिव्यो वा यत्र नायकः ।  
+> तत् प्रख्यातं विधातव्यं वृत्तम् आधिकारिकम् ॥  
+> यत् तत्र अनुचितं किञ्चिन् नायकस्य रसस्य वा ।  
+> विरुद्धं तत् परित्याज्यम् अन्यथा वा प्रकल्पयेत् ॥  
+> आद्यन्तम् एवं निश्चित्य पञ्चधा तद् विभज्य च ।  
+> खण्डशः सन्धि-संज्ञांश् च विभागान् अपि खण्डयेत् ॥  
+
+तत्रैवं विभक्ते —
+> आदौ विष्कम्भकं कुर्यात्, अङ्कं वा कार्य-युक्तितः ।  
+> अपेक्षितं परित्यज्य नीरसं वस्तु-विस्तरम् ।  
+> यदा सन्दर्शयेच् छेद्यं कुर्याद् विष्कम्भकं तदा ।  
+> यदा तु सरसं वस्तु [[मूलदेव|मूलादेव]] प्रवर्तते ।  
+> आदाव् एव तदा ऽङ्कः स्याद् आमुखाक्षेप-संश्रयः ॥  
+
+स च — ( अङ्कलक्षणम् )
+> प्रत्यक्ष-नेतृ-चरितो बिन्दु-व्यक्ति-पुरस्कृतः ।  
+> अङ्को नाना-प्रकारार्थ-संविधान-रसाश्रयः ॥  
+
+तत्र च —
+> अनुभाव-विभावाभ्यां स्थायिना व्यभिचारिभिः ।  
+> गृहीत-मुक्तैः कर्तव्यं अङ्गिनः परिपोषणम् ॥  
+> न चातिरसतो वस्तु दूरं विच्छिन्नतां नयेत् ।  
+> रसं वा न तिरोदध्यात् वस्त्व्-अलङ्कार-लक्षणैः ॥  
+
+<br>
+
+[[P5]]
+<div align="center">नाटकलक्षणसंग्रहः</div>
+
+एको रसो ऽङ्गीकर्तव्यः वीरः शृङ्गार एव वा ।  
+अङ्गम् अन्ये रसाः सर्वे कुर्यान् निर्वहणे ऽद्भुतम् ॥  
+
+दूराध्वानं वधं युद्धं राज्य-देशादि-विप्लवम् ।  
+संरोधं भोजनं स्नानं सुरतं चानुलेपनम् ।  
+अम्बर-ग्रहणादीनि [[प्रत्यक्षानि|प्रत्यक्षाणि]] न निर्दिशेत् ॥  
+
+नाधिकारि-वधं क्वापि त्याज्यम् आवश्यकं न च ।  
+एकाह-चरितैकार्थम् इत्थम् आसन्न-नायकम् ।  
+पात्रैस् त्रि-चतुरैर् अङ्कं तेषाम् अन्ते ऽस्य निर्गमः ॥  
+
+पताका-स्थानकान्य् अत्र बिन्दुर् अन्ते च बीज-वत् ।  
+एवम् अङ्काः प्रकर्तव्याः प्रवेशादि-पुरस्कृताः ।  
+पञ्चाङ्कम् एतद् अवरं दशाङ्कम् नाटकं परम् ॥  
+<div align="right">इति चान्ये विशेषा अन्यतो ज्ञेयाः ॥</div>
+
+### **सन्धि-पञ्चक-निरूपणम्**
+
+[[सन्धिनार्म|सन्धिर्नाम]] — एकेन प्रयोजनेन अन्वितानां कथानाम् अवान्तर-प्रयोजन-सम्बन्धः । ते च सन्धयः पञ्च । तत्र आरम्भ-बीज-सम्बन्धो मुख-सन्धिः ; प्रयत्न-बिन्दु-सम्बन्धः प्रतिमुख-सन्धिः ; प्राप्त्य्-आशा-पताकयोस् सम्बन्धो गर्भ-सन्धिः ; नियताप्ति-प्रकर्योः सम्बन्धो विमर्श-सन्धिः ; [[फलागमाकार्ययोस्सम्बन्धो|फलागम-कार्ययोस् सम्बन्धो]] निर्वहण-सन्धिः ।
+
+तत्र, पञ्चावस्थाः —
+> औत्सुक्य-मात्रम् आरम्भः फल-लाभाय भूयसे ।  
+> प्रयत्नस् तु फलाप्राप्तौ व्यापारो ऽतित्वरान्वितः ।  
+> उपायापाय-शङ्काभ्यां प्राप्त्य्-आशा कार्य-सम्भवः ।  
+> अपायाभावतः कार्य-निश्चयो नियताप्तिका ।  
+> समग्र-फल-सम्पत्तिः फलागम उदाहृतः ॥  
+
+
+
+[[P196]]
+<div align="center">
+
+**यतिराजविजयनाटकानुबन्धः**
+
+</div>
+
+#### **पञ्च अर्थप्रकृतयः —**
+स्तोक-प्रदिष्टः कार्य-हेतुर् बीजं विस्तार्य् अनेकता ।  
+अवान्तरार्थ-विच्छेदे बिन्दुर् अच्छेद-कारणम् ॥  
+
+प्रतिपाद्य-कथाङ्गं स्यात् पताका व्यापिनी कथा ।  
+अव्यापिनी प्रकरीका, कार्यं निर्वाहकं फलम् ॥  
+
+#### **तत्र च —**
+(१) मुखं बीज-समुत्पत्तिः नानार्थ-रस-सम्भवा ।  
+अङ्गानि द्वादशैतस्य बीजारम्भ-समन्वयात् ॥  
+
+(२) लक्ष्यालक्ष्यस्य बीजस्य व्यक्तिः प्रतिमुखं मतम् ।  
+बिन्दु-प्रयत्नानुगमाद् अङ्गान्य् अस्य त्रयोदश ॥  
+
+(३) गर्भस् तु दृष्ट-नष्टस्य बीजस्यान्वेषणं मुहुः ।  
+अस्याप्याशा-पताकानुगुणेन अङ्गोपकल्पनम् ॥  
+
+(४) गर्भ-सन्धौ प्रसिद्धस्य बीजार्थस्यावमर्शनम् ।  
+हेतुना येन केनापि विमर्शः सन्धिर् इष्यते ।  
+नियताप्ति-प्रकृत्योर् अङ्गान्य् अत्र त्रयोदश ॥  
+
+(५) बीजवन्तो मुखार्था विप्रकीर्णा यथायथम् ।  
+ऐकार्थ्यम् उपनीयन्ते यत्र निर्वहणं हि तत् ॥  
+फलातिकार्यानुगुण्याद् अङ्गान्य् अस्य चतुर्दश ॥ इति ॥  
+
+वस्तु — सूच्यम् , असूच्यं चेति द्विधा । सूच्यं च पञ्चभिः प्रकारैः ।  
+
+#### **यथा —**
+अर्थोपक्षेपकैः सूच्यं पञ्चभिः प्रतिपादयेत् ।  
+विष्कम्भ - चूलिका - अङ्कास्य - अङ्कावतार - प्रवेशकैः ॥  
+
+वृत्त-वर्तिष्यमाणानां कथांशानां निदर्शकः ।  
+संक्षेपार्थस् तु विष्कम्भो मध्य-पात्र-प्रयोजितः ॥  
+
+<br>
+
+[[P197]]
+<div align="center">
+
+**[[नाटकलक्षणानं|नाटकलक्षणानां]] समन्वयः**
+
+</div>
+
+एकानेक-कृतः शुद्धः सङ्कीर्णो नीच-मध्यमैः ।  
+तद्वद् एवोदात्तोच्चस्य नीच-पात्र-प्रयोजितः ॥  
+
+प्रवेशो ऽक्रुद्ध-मध्यस्थः शेषार्थस्योपसूचकः ।  
+अन्तर्-यवनिका-संस्थैः चूलिकार्थस्य सूचना ॥  
+
+अङ्कान्त-पात्रैर् अङ्कास्यं छिन्नाङ्कस्य अर्थ-सूचनात् ।  
+अङ्कावतारस् त्व् अङ्कान्ते पात्राङ्कस्याविभागतः ॥  
+
+एतैः संसूचयेत् सूच्यं दृश्यम् अङ्कैः प्रदर्शयेत् ॥ इति ॥  
+
+विस्तरस् तु दश-रूपकादौ द्रष्टव्यः ॥  
+
+<br>
+
+<div align="center">
+
+॥ श्रीरस्तु ॥
+
+### **अनुबन्धः ४**
+### **नाटकलक्षणानामत्र समन्वयः**
+
+#### **नान्द्या काव्यार्थ-सूचनम्**
+
+</div>
+
+प्रथम-श्लोकेन — राधया सह सुप्तस् सन् श्रीकृष्णः, [[श्रीमूनीलदेवीरुत्त्वस्थापितवान्|श्रीमन्नीलादेवीर् उत्थापितवान्]] । तन्-निशम्य राधया निर्भर्त्सितः, स रसिकावतंसः क्रीडा-विटः श्रीकृष्णः तत्-परम् एव तद्-व्यपदिशन् तां तोषयामास — इति विशिष्टो ऽर्थः प्रतिपाद्यते । अनेन — मातुलादेशेन पित्रा समर्पितायां सकल-लोक-सम्मोहन-चतुरायां माया-विलासिन्यां नितान्तं बद्धानुरागो राजा वेदमौलिः, यतिराजस्य समीपे " मन्दस्मितं च नयनम् " (२-२५) इत्यादिना [[उत्सवज्जिदितवान्|उत्स्वप्नायितवान्]] । यतिराजेन सन्दर्शित-सूत्र-मार्गानुसरिण्या सुनीत्या निर्भर्त्सितः, स्व-चरित-नाटकावलोकनेन च मिथ्या-दृष्टि-व्यूहेहासु संवृद्ध-जुगुप्सकः " आजिघ्रन् मुख-पुण्डरीकम् " (४-१३) इत्यादिना सुमति-विषये तम् अनुरागं प्रकटयति — इति नाटकस्य प्रकृतः कथांशः सम्यग् व्यज्यते ।
+
+<br>
+
+[[P198]]
+<div align="center">
+
+**यतिराजविजयनाटकानुबन्धः**
+
+</div>
+
+द्वितीयेन श्लोकेन — [[चक्षुःश्रवसामधिपतिरादिरादिरादिरामिशेषः|चक्षुःश्रवसाम् अधिपतिर् आदिशेषः]] — शय्या, वेदात्मा विहगेश्वरो — वाहनम्, सर्वाणि जगन्ति — लीलाविभूतिः, काल-कलना-मूलभूतौ चन्द्रादित्यौ — लोचने, निखिल-जगद्-रक्षण-जागरूकता — निद्रा, नित्यम् अदुष्टो निगम-स्तोमः — [[अवतंसोत्सलम्|अवतंसोत्पलम्]] च यस्य, स देवः रङ्ग-मङ्गल-निधिः श्रेयांसि भूयांसि पुष्णातु — इति वाच्यार्थः — मङ्गलाशासनम् । अनेन — निखिल-जगद्-उदय-विभव-लय-लीलस्य सूर्य-चन्द्र-नेत्रस्य निखिल-वेदान्त-प्रतिपाद्यस्य पर-व्यूह-विभवान्तर्याम्य्-अर्चारूपेण पञ्चधा अवस्थितस्य अप्राकृत-दिव्य-मङ्गल-विग्रहस्य रङ्ग-मङ्गल-निधेः श्रीमतो भगवतः परम-पुरुषस्य अघटित-घटना-सामर्थ्य-रूप-दिव्य-प्रसून-परिमलोल्लासको वेदमौलिर् आसचिवः ; तद्-अनुग्रह-सम्पादिका च सुमतिस् तद्-अनुहार्या — इति च व्यज्यते । किञ्च, अनन्त-गरुड-विष्वक्सेनादि-नित्य-मुक्त-परिषण्ढ्यमान-[[चरणलिनमय|चरण-नलिन-द्वय-]]परमस्य पुंसः कर्ण-भूषण-स्थानीयो ऽयं वेदान्त इति च ध्वन्यते ।
+
+तृतीय-श्लोकेन — शिष्ट-परित्राणाय, दुष्ट-शिक्षणाय, धर्म-संस्थापनाय च दशावतार-धारी मधुकैटभ-मर्दनो देवः, वेदान् कुदृष्टि-कुहनामुखेभ्यो [[नोरंररक्षतिनि|नूनं रक्षतीति]] व्यज्यते । अतो नान्द्या मनाक् काव्यार्थः संसूच्यत इति सर्वं समञ्जसम् ॥
+
+नान्द्य्-अनन्तरम् आगतेन पूर्वरङ्गाङ्गेन सूत्रधारेण च " भास्वानेष " इति श्लोकेन, श्रीमतो यतिराजस्य महौदार्यं, सर्व-प्राणि-हितङ्करत्वं, दयार्द्र-हृदयता चेति, अनेके दिव्य-कल्याण-गुणा व्यज्यन्ते । उत्तरत्र च यतिराजः स्वयम् एव अभिधत्ते — " वासो मुक्त-पटच्चराणि " इति श्लोकेन स्वस्य आत्यन्तिकं वैराग्यं, वेदमौलि-सचिवत्वे च चिन्ता-दन्तुरित-मानस्त्वम् अपि स्वस्य प्रकटय्य, " यद् यद् अहम् आत्मारामस्य मे किम् एभिर् मनो-व्याक्षेपैः " इत्य् आरभ्य, " तस्माद् अनेक-जीव-लोक-सन्तापात् एक-सन्तापो वरम् इत्य् असदुद्योग एव श्रेयान् " इति ग्रन्थ-सन्दर्भेण मुक्तकण्ठम् ।
+
+" अत्र चतुर्विंशति-पदैः — चतुर्विंशति-प्राकृत-[[नत्तवानि|तत्त्वानि]], पडिभविकैयैः बद्ध-मुक्त-नित्याः, परम-व्योम-[[कालमेवैधराश्च|कालम् एव ईश्वराश् च]] वेदान्त-वेद्याः सूच्यन्ते । अत्र समवाक्यत्वेन नान्दी-लक्षणं च सिद्धम् । रङ्ग-मङ्गल-निधिर् इति रङ्ग-प्रसाधनं च कृतं भवति " इति व्याख्यायां नाटक-लक्षण-समन्वय-प्रकारः प्रदर्शितः ।
+
+<br>
+
+[[P199]]
+<div align="center">
+
+**नाटकालक्षणानां समन्वयः**
+
+</div>
+
+सूत्रधारः — मारिषं प्रस्तुताक्षेपि स्वकार्यं ब्रूते इति प्रस्तावना-लक्षणम् अन्वितं भवति । तत्र " उपकर्तुः " इति श्लोके, आत्म-विद्या — अध्यात्म-विद्या, [[भरतमुन्या|भरत-मुख्या]] मुनयः — ब्रह्मविच्छुकादयः, आत्मलाभः — जीव-परमात्म-लाभः — इत्य्-आदयो वेदान्तौपयिका विषयाः सूच्यन्ते ।
+
+प्रज्ञा-शोधनाय " चित्रकृत् " इति प्रहेलिकाम् उक्तवान् । रसो — ब्रह्म, " रसो वै सः " इति श्रुतेः । भावाः — चिद्-अचित्-पदार्थाः । वेदमौलिः — वेदान्तो नायकः । स्थायि-भावाः — स्थावर-जङ्गमाः । तेष्व् अन्तर्यामितया अवतार-रूपेण वा विहरति । मुक्ताः — अनादि-संसार-बन्धरहिताः । " सो ऽश्नुते सर्वान् कामान् ", " कामरूप्य्-अनुसञ्चरन् " इत्यादिषु श्रुतिषु, " भोग-मात्र-साम्य-लिङ्गा " इति सूत्रेषु, च मुक्तस्य कल्याण-गुणादिभिः । तज्ज्ञैः — मुक्ति-तत्त्वज्ञैः ।
+
+अप्राकृते — वेदान्त-विषयतया प्राकृत-लोकातिवर्तिनि । " तत्र नाटक-धर्मं पुरस्कृत्य वेदान्तार्थो व्यङ्ग्यः । तस्यैव प्राधान्याद् इदं काव्यं ध्वनिः " इति व्याख्यायाम् उच्यते ।
+
+" वकुल-कुचाभिराम " शब्देन तत्त्व-बन्धो लक्ष्यते । श्रुतिः — वेद-सारः, शुक-मुखाः — ब्रह्म-विदः । हरिर् एव तत्त्वम् — हरि-तत्त्वम् । तत्त्वान्तराणां हरि-तत्त्व-विशेषणत्वात् । उच्चैः — सर्वस्मात् परम् । शाखा-कोटिषु — काण्व-माध्यन्दिनाद्य्-उपनिषत्सु । महान् आगम-सङ्ग्रहः ॥
+
+तीर्थी-कृत्य — शारीरी-कृत्य । माधवः — विष्णुः, सुरभयः — सारवन्तः, समयः — सिद्धान्तः । सुमनसः — विद्वांसः । प्रबन्धाः — ग्रन्थाः । श्रुति-सुख-परैः — पूर्वाचार्यैः । पुष्टाः — पोषिताः । षट्पदालापाः — शरणागति-मन्त्राः । सुदृशाम् — सुधियाम् ।
+
+" प्रपञ्चं निदुवानम् अन्धकारम् — इत्य्-अन्वयः । अनेन काव्यार्थः सूच्यते । तम् एव विवृणोति — सर्वैर् इति — बौद्धादि-समयैः । अद्वितीयम् — असदृशम् । विशिष्टाद्वैतम् इति वा " इति व्याख्यायां प्रतिपाद्यते ।
+
+" शास्त्राणाम् अधिदेवताश् च " इति श्लोकेन भारती-वृत्तेर् अङ्गं प्ररोचना — प्रशंसता उन्मुखीकरणम्, निरूपितम् । " सरल-कुचाभिराम " इति श्लोकेन रङ्ग-प्रसाधनं कृतं भवति । " सुरभि-सुमनः-प्रबन्धाः " इति श्लोकेन वसन्तर्तु-वर्णनम् अपि कृतम् ।
+
+A - 8
+
+<br>
+
+[[P200]]
+<div align="center">
+
+**यतिराजविजयनाटकानुबन्धः**
+
+</div>
+
+" सर्वैर् विलुप्त-विषयः " इति श्लोकं स्वेतिवृत्त-समं सूत्रधारस्य गृहीत्वा, पात्रस्य नारदस्य प्रवेशात्, अत्र " कथोद्घातः " इति आमुखाङ्गम् उक्तम् । गुण-वर्णनात् प्रवृत्तकम् अपि भवितुम् अर्हति ।
+
+एवं प्रस्तावना मनाक् काव्यार्थ-सूचनम् एव ।
+
+<br>
+
+#### **मुखसन्धि — तदङ्गानां समन्वयः**
+
+" सर्वैर् विलुप्त-विषयः " [[इत्यादिश्वौकं|इत्यादि-श्लोकः]] सचिवोत्तमेन यतीश्वरेण अद्वितीयं स्व-पद-वैभवं [[सम्प्रापिनोऽसौ|सम्प्राप्तो ऽसौ]] वेदमौलिः सम्राड् खलु भविष्यति — इति सन्दर्भेण बीज-न्यासरूपः उपक्षेपः ; " निरस्य तिमिरम् " इत्यनेन बीजस्य बहूपकरणं परिकरः ; " मायाविमोहित " इत्यनेन बीजस्य व्यापनेन परिनिष्पन्नः परिन्यासः ; " [[हितन्|हितम्]] " इत्यनेन " पौलस्त्येन यथा " इत्यनेन च बीजस्य श्रेयो ऽनुबन्ध्यरूपत्वात् विलोभनम् ; " भेदोपजीव्यपि " इत्यनेन सुख-दुःख-हेतुभूतं विधानम् ; " त्रिदण्ड-काषाय " इत्यनेन बीज-प्रकाशनात् उद्भेदः ; " आत्मारामस्य मे .... वरम् इत्य् उद्योग एव श्रेयान् ", " तद् वाभ्याम् अभ्युद्योगः कार्यः " " महोत्सवो विष्णुभक्ताश्रितानां मया विधेयो महतां द्विजानाम् " इति च आरम्भः, बीजानुगुण-समरूपं करणं च निरूपितानाम् ।
+
+एवं, प्रथमाङ्कः — आरम्भ-बीज-समरूपः साङ्गो मुख-सन्धिर् निरूपितः ।
+
+<br>
+
+#### **प्रतिमुखसन्धि — तदङ्गानां समन्वयः**
+
+" [[मथ्येव|मय्य् एव]] राज्यम् अखिलम् " इति श्लोकेन, विच्छिन्नस्य प्रकृतार्थस्य अवमर्शात् बिन्दुः रूपितः । " साधु न चिन्तितम् अमात्येन " इति, " भगवान् ! हितम् एव कथितवान् " इति च, परिजन-वचनोत्था प्रीतिः — नर्मद्युतिः निरूपिता ।
+
+एवं द्वितीयाङ्कः — प्रतिमुख-सन्धिर् निरूपितः ।
+
+<br>
+
+#### **गर्भसन्धि — तदङ्गानां समन्वयः**
+
+" [[पद्मार्थीमट्वीम्|पद्मार्थीम् अट्वीम्]] " इति श्लोकेन, " नष्ट-राज्यो ऽपि वेदान्तः " इति श्लोकेन च
+
+
+
+[[P201]]
+<div align="center">
+
+**नाटकलक्षणानां समन्वयः ११**
+
+</div>
+
+बीजस्य अन्वेषणात् [[गर्भसन्धिर्दाहतः|गर्भ-सन्धिर् उदाहृतः]] । " सम्प्रति अमात्य-राज-भावयोर् विपर्ययो ऽस्तु " इत्यनेन ‘ गण्डम् ’ उदाहृतम् । " रे वृथा पण्डितम्-मन्य ! पश्य ; एतम् आत्मानम् " इत्यादिना रोष-सम्बन्ध-वचन-रूपं तोटकम् निरूपितम् ।  
+
+एवं तृतीयाङ्के [[गर्भसन्धिरूपि|गर्भ-सन्धिर् निरूपितः]] ।  
+
+#### **अवमर्शसन्धि — तदङ्गानां समन्वयः**
+
+" गीता — ( विहस्य ) मिथ्या-दृष्टि-विमोहितस्य न कदाचिद् अपि [[तत्सम्पवति|तत् सम्भवति]] ; तथापि, यतिराज-कृपाभ्यां प्रविश्य [[प्रकाशिनबहुनीर्विभवे|प्रकाशित-बहु-वीर्य-विभवे]] " इत्यादिना बीजस्य अवमर्शात् अवमर्श-सन्धिर् निरूप्यते ।  
+
+#### **प्रभातभोगावली : —**
+आद्यन्त-पद्य-संयुक्ता संस्कृत-प्राकृतात्मिका ।  
+अष्टभिर् चतुर्भिर् वा वाक्यैः स्कन्ध-समन्विता ॥  
+
+प्रतिस्कन्धं [[भिन्नवाक्यैर्तिदेवनृपोचिता|भिन्न-वाक्यैर् त्रिदेव-नृपोचिता]] ।  
+सर्वत्र देव-शब्दादिर् एषा भोगावली मता ॥ इति तल्लक्षणम् ।  
+
+एवं, चतुर्थ - पञ्चमाङ्कयोर् अवमर्श-सन्धिर् निरूप्यते ।  
+
+#### **निर्वहणसन्धि — तदङ्गानां समन्वयः**
+
+" शुकासित-भरद्वाज " इत्यादिना बीजस्योपगमात् निर्वहण-सन्धिर् निरूप्यते । " काले वर्षतु वासवः " इत्यादिना प्रकृतानुगुण्येन अन्योन्य-परिभाषणात् परिभाषणम् । " महाराज-सौभाग्यं कथङ्कारं वर्णयामि " इत्यादिना नरेश्वर-पर्युपासनात् प्रसादः ।  
+
+" देव ! प्रसन्नस् ते भगवान् वासुदेवः " इत्यनेन वाक्यार्थ-परिसमाप्ति-रूपा संहृतिः ; " मायावी सचिवो निरासि " इत्यनेन वाञ्छितार्थ-प्राप्ति-रूप आनन्दः, ‘ काले वर्षतु ’ इत्यनेन शुभाशंसन-रूपा प्रशस्तिश् च समुपवर्णिताः ।  
+
+एवं षष्ठाङ्के निर्वहण-सन्धिर् निरूपितः ।  
+
+इति नाटक-लक्षण-समन्वये दिक् प्रदर्शिता ; अन्यत् सर्वं बुद्धिमद्भिः स्वयम् ऊह्यम् ।  
+
+<br>
+
+[[P202]]
+<div align="center">
+
+**१२ यतिराजविजयनाटकानुबन्धः**
+
+॥ श्रीरस्तु ॥
+
+### **अत्र उदाहृतानि सुभाषितानि, लोकोक्तयश् च**
+
+</div>
+
+भास्वान् एष तमो निहन्ति सकल-प्रह्लाद-कारी शशी  
+किं ताव् एव फलादिभिश् च तरवः किं नोपकुर्वन्ति नः ।  
+एवं वस्तु परोपकारि सकलं दृष्ट्वापि नष्टाशयो  
+यस् स्वार्थैक-परो भवत्य् अयम् अहो दृष्टान्त-शून्यो जनः ॥ १-४ ॥  
+
+सुर-नर-तिर्यक्-स्थावर-देहास् सर्वे ऽपि नश्वरा एव ।  
+तत्-क्षणम् अपि यदि जीवेत् जीवतु देही परोपकारेण ॥ १-६ ॥  
+
+शास्त्रेषु शस्त्र-परुषा अपि नास्त्रमार्गे  
+कर्णामृतानि च भवन्ति कवीन्द्र-वाचः ।  
+दैत्येन्द्र-शैल-कुलिशं दयिता-नितम्ब-  
+नाथस्य कोमलम् उदाहरणं [[नृनं नः|नूनं नः]] ॥ १-१० ॥  
+
+विगुणी-कृतापि मुग्धैः सदसि गुण-ग्राहिभिर् मनोज्ञैः ।  
+मुक्तावलीव हृद्या सम्यक् मन्त्रीयते विद्या ॥ १-१५ ॥  
+
+अल्पो ऽपि रिपुर् आक्रामन्न् असह्यः खलु मानिनाम् ।  
+नेत्रे पराग-लेशो ऽपि निपतन् कुरुते रुजम् ॥ १-२६ ॥  
+
+प्रकृति-निर्मले स्फटिक-मणौ प्रकृतोपरागः वियच् चिरं तिष्ठति । (८. पुटे)  
+
+हितस्य करणात् त्रियम् अहितेभ्यो निवारणात् ।  
+मातुर् अप्य् अधिको बन्धुः प्राप्तो धर्मो ऽयम् आत्मनाम् ॥ १-३८ ॥  
+
+राहु-गृहीतो रजनी-करः कथं दृश्यते ? (११. पुटे)  
+
+नापरैः परिभूयन्ते महद्-अरण्यं पुमान् अपि ।  
+तं विना धीर-सत्त्वैस् [[धीर-सत्त्वैर्नैः|तैः]] चिरं परिचिनोति यः ॥ १-४० ॥  
+
+<br>
+
+[[P203]]
+<div align="center">
+
+**उदाहृतानि सुभाषितानि - लोकोक्तयश् च १३**
+
+</div>
+
+प्रायश् च सोदरत एव भयं नृपाणां, दृष्टं च तद् भवति वालिनि रावणे च ॥ २-३ ॥  
+
+न हि कस्यापि रत्न-भूतस्य दीपो ऽस्ति । १९. (पुटे २-३)  
+
+चन्द्र-दर्शन-मात्रेण चन्द्रकान्त-शिलापि यत् ।  
+द्रवी-भवति तत् पुंसि सिद्ध्यति स्त्रीति नाद्भुतम् ॥ २-९ ॥  
+
+गर्दभी-वत् स्ववाग्-दोषेण हतासि । (२५ पुटे)  
+
+अत्र कथा व्याख्याने (१३ पुटे) विलिख्यते ; यथा —  
+" कश्चिद् रजकः क्षाम-काले भक्षणार्थं व्याघ्र-चर्मणा समाच्छाद्य गर्दभीं विसृष्टवान् । सा प्रयत्न-संवर्धितान् कलमान् भक्षयन्ती व्याघ्र-भयेन मन्दगतं कम्बलावृतं [[कल्मवाचकं|कलम-रक्षकं]] दृष्ट्वा गर्दभ-शङ्कया ररास । तदा निर्भयं तां [[कल्मपालो|कलम-पालो]] जघान " इति ।  
+
+" छाया-सम्बन्धम् अपि न सहन्ते हि योषितः " (२७ पुटे)  
+
+मति-नीति-विहीनस्य महतो ऽपि विनश्यति ।  
+राज्यम् इत्य् अत्र दृष्टान्तो रावणस्य यथा पुरी ॥ २-२७ ॥  
+
+" महा-पुरुष-मुखात् प्रमाणवन्त्य् एव वचांसि निस्सरन्ति " (३२ पुटे)  
+
+मिथ्येति विदितैर् अर्थैः किञ्चित् कर्तुम् अर्हति ।  
+स्वर्णालङ्कार-सुवर्णेन किं कार्यं कर्ण-भूषणम् ॥ ३-६ ॥  
+
+" न ह्य् एवम् आत्म-विदाम् अकार्ये मतिर् [[मतिरवतरेति|अवतरति इति]] " (३७ पुटे)  
+
+" न हि कण्टकः पादुकाम् अभिन्दन् पाद-तलम् उल्लिखति " (४३, ६२ पुष्टयोः)  
+
+" न हि कश्चिद् आत्त-गन्धं पुष्पम् अवतंसयति " (४३ पुटे)  
+
+" राहु-गृहीतः शशी किं तथैव तिष्ठति ? " (४४ पुटे)  
+
+" उन्मुखेन शिरः-कण्डूयनम् एव " (४७ पुटे)  
+
+" प्रणय-रस-भूमिः खलु दाम्पत्यम् " (४८ पुटे)  
+
+" भर्तेव खलु नारीणां प्रथमाभरणम् " (५७ पुटे)  
+
+<br>
+
+[[P204]]
+<div align="center">
+
+**१४ यतिराजविजयनाटकानुबन्धः**
+
+</div>
+
+" कण्ठीरवः पतति किं करि-यूथ-योधी  
+सङ्घे ऽपि सम्मुख-निपातिनि [[सौरिभाणाम्|सौरभाणाम्]] " ॥ ५-९ ॥  
+
+" व्रीहि-कोशः स्वात्मानम् अदग्ध्वा किं गृहं दहति ? " (६५ पुटे)  
+
+" आज्ञा-भङ्गो नरेन्द्राणां [[विद्वामुक्तिकृद्रपणम्|विद्वदामुक्तिकृद्-रूपणम्]] ।  
+पृथक्-शय्या च नारीणाम् अशस्त्र-वध उच्यते ॥ ५-११ ॥ "  
+
+" महोरगे निपतन् गरुडः किं मण्डूके निपतति !  
+कञ्चुके पतितः स्वङ्गो न स्पृशेत् किं कलेवरम् ? (६६ पुटे)  
+मनसैव लक्षी-कुर्वन् सुर-पतिः महिषे किं निपतति ? "  
+
+" प्रत्येकं माल-भेदाय न रामः सन्दधे शरान् " (५-१२)  
+
+" स्फटिकः किं [[प्रदुष्येन|प्रदुष्येत]] वर्ण-भेदैर् उपाहितैः " (५-२७)  
+
+" वृश्चिक-घातेन विष-धरो ऽपि हतः " (७२ पुटे)  
+
+" [[मुनीनिरव|मुनिर् एव]] राज्ञां महाराज-शब्दं स्थापयति " (७९ पुटे)  
+
+अविश्रमं [[गनस्तॄणामनुरागो|गतास्थानाम् अनुरागो]] हरौ तु यः ।  
+स एव भक्ति-रूपेण पच्यते मोक्ष-कारणम् ॥ ६-५२ ॥  
+
+<br>
+
+<div align="center">
+
+॥ श्रीरस्तु ॥
+
+### **अनुबन्धः ५**
+### **कठिनपद टिप्पणी**
+
+</div>
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| महितैः | पूजितैः | तीर्थी-कृत्य | शास्त्री-कृत्य |
+| विद्वन् | भगिनीपतिः | शुण्डीरः | समर्थः |
+| मन्थ्यम् | युद्धम् | मानार्थयोः | प्रमाण-प्रमेययोः |
+| शुण्डालः | गजः | पटच्चरम् | जीर्ण-वस्त्रम् |
+| आजीवः | जीवनम् | वर्ग-धर्माः | अर्थ-कामाः |
+| नामीगै | अग्रसरैः | ईषणा | इच्छा |
+
+<br>
+
+[[P205]]
+<div align="center">
+
+**कठिनपद टिप्पणी १५**
+
+</div>
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| अपहत-विषयः | दूषित-प्रमेयः | वर्धकी | सकल-पुरुषार्थ-च्छेदकरी |
+| निक्षेप-विद्या | प्रपत्ति-विद्या | सद्भिः | प्रामाणिकैः |
+| निरनुक्रोशैः | निर्दयैः | मुदृशाम् | विदुषाम् , योषितां च |
+| अभिभयम् | आन्तर-विरोधः | मण्डन-हेतवः | सम्भोग-चिह्नानि च |
+| वारी | गज-बन्धनी | चन्द्रशाला | शिरो-गृहम् |
+| सर्पिणिः | सहपानम् | नीवी | मूल-धनम् |
+| काष्ठा | चरम-सीमा | मन्यासी | विवरणकारः |
+| माया-विलासिनी | अविद्या | शक्र-पटः | वानस्पतिः |
+| सुनीतिः | प्रच्छन्न-पात्रम् | नग्नम् | दिगम्बरम् |
+| सद्गृहः | सुविचारः | निर्वाणम् | नम्रत्वम् |
+| शेमनं | प्रार्थना | द्वैतमिरा | द्वैत-स्थापन-मार्गः |
+| उपजापः | भेदः | कन्था | जीर्ण-कन्थलम् |
+| बहुमानम् | बहु-प्रमाणम् | लवनम् | छेदनम् |
+| जाल्मः | कुहकः | कर्तरी | छेदनी |
+| अरण्यानी | महारण्यम् | वातूलः | वात्या |
+| मन्त्र-माया | मन्त्र-कपटम् | रविः | अर्क-वृक्षः |
+| मृग-तृष्णा | मरीचिका-जलम् | [[संशत्तकः|संशप्तकः]] | सङ्ग्रामाद् अनिवर्ती |
+| यथाजातः | अज्ञः | अपार्थः | असमर्थश् च |
+| अयथाजातः | यथेष्ट-जनितः | रामानुजः | कृष्णश् च |
+| नरेन्द्रैः | विप्र-वैद्यैः | मैरिभाः | महिषाः |
+| आत्त-गन्धः | अभिभूतः | [[चितण्डा|वितण्डा]] | परपक्ष-निक्षेपः |
+| तारका | कनीनिका | पौनःपुनी | पौनःपुन्यम् |
+| समये | सिद्धान्ते, काले च | पारीणाः | पटीयांसः |
+| कैशिकं | केशासंहतिः | चिखण्डिषा | खण्डयितुम् इच्छा |
+| वैदेशिकं | देशान्तर-गतम् | समितिः | सभा, युद्धं च |
+| कोट्यन्तरे | विसदृश-पक्षे | मितिः | प्रमितिः |
+
+
+
+[[P206]]
+<div align="center">
+
+**१६ यतिराज-विजय-नाटकानुबन्धः**
+
+</div>
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| समितिः | [[विद्वात्सभा|विद्वत्सभा]], युद्धं च | अंशुकम् | किरणम्, वस्त्रं च |
+| पदेषु | स्थानेषु | सुनीतिः | सामान्य-विशेषादि-न्यायः |
+| साम्पदीनम् | सत्यम् | मूलमन्त्रम् | श्रीमदष्टाक्षरम् |
+| अनुबन्धाः | सहायाः | क्षेत्रज्ञाः | जीवाः |
+| बन्दीग्राहम् | बन्दीं यथा गृह्णन्ति, तथा | वर्तनीम् | क्षुद्र-मार्गम् |
+| अहीरमाः | सेवकाः | याम्यम् | यमलोक-मार्गम् |
+| उपाश्रयः | जपा-कुसुमादयः | अर्चिरादिः | अर्चिरादि-मार्गः |
+| विश्वमुषोः | विश्व-चोराः | उल्लोचः | वितानम् |
+| स्वराट् | अकर्मवश्यः | प्रत्यञ्चि | प्रत्यगात्म-तत्त्वानि |
+| लब्धाम्बिकं | लब्ध-प्रसिद्धं, [[गृहान्तर्गद्वं|गृहान्तर्गतं]] च | स्वयञ्चित् | ज्ञानैकमयः |
+| अनामिका | अप्रतिष्ठा, नासिकारहिता च | विपश्चिता | सर्वज्ञेन |
+| परां कोटिम् | उन्नत-पदम् | अक्षम् | इन्द्रियम् |
+| अनुपहितं | उपाधि-रहितम् | परिकरः | उपकरणम् |
+| शिवम् | [[सर्वमङ्गलगाणाम्पदम्|सर्व-मङ्गल-गुणास्पदम्]] | चिरन्तनवचः | वेदः |
+
+<br>
+
+एवं [[कठिनपदानांमर्थः|कठिन-पदानाम् अर्थः]] व्याख्याने प्रतिपाद्यते । तत्र स्थिताः केचन विशेषाः उपोद्घाते समुपवर्णिताः । कुत्र कुत्रचित् नाटक-लक्षण-समन्वयः, क्लिष्ट-पदानां विभिन्नार्थ-विवरणम्, वेदान्त-वाक्यानां [[तात्पर्यनर्णयः|तात्पर्य-निर्णयः]], तत्र तत्र अभिनन्द्यानाम् उद्घाटनम्, सर्वत्र अवतारिका-प्रदानम्, मूल-ग्रन्थ-[[समर्थनोपयिकानां|समर्थनौपयिकानां]] विषयाणां कोडीकरणम् — इत्य्-आदयो बहवो विशेषाः, सार-सङ्ग्रह-रूपे ऽस्मिन् व्याख्याने [[विद्योत्तन्ते|विद्योतन्ते]] । ते [[सर्वैऽपि|सर्वैर् अपि]] निर्मत्सरैः [[सहृदयै|सहृदयैः]] स्वयम् एव [[अनुभूयन्तान्|अनुभूयन्ताम्]] — इति [[विम्भरभीत्या|विस्तर-भीत्या]] विरम्यते ।
