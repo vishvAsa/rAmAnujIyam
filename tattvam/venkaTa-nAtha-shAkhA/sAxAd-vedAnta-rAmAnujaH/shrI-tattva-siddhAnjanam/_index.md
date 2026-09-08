@@ -205,7 +205,7 @@ K. R. Padmanabhan.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-Is this referring to some sholigur mahAcharya or an ahobila maTha yati? This is unclear, and can be interpreted both ways based on one's prior biases. Given that certain AM hagiographers themselves said such things, the latter interpretation can't be ruled out. (Eg. purishai kRShNamAchArya supposedly referred to some 1800s book by the 34th ahobila yati, who said that.)  
+Is this referring to some sholigur mahAcharya or an ahobila maTha yati? This is unclear, and can be interpreted both ways based on one's prior biases. Given that certain AM hagiographers themselves said such things, the latter interpretation can't be ruled out. (Eg. purishai kRShNamAchArya supposedly referred to some 1800s book by the 34th ahobila yati, who said that.) Even in that case, it would only imply that a broader class of VK AchAryas were fooled by tenks as annavappangarwas the first to claim that the text was written by second AS and that it supports tk paksha. 
 
 If it is mahAcharya, this is not the main doddayacharya - this mahAcharya was likely a 19th century 1 descendent of ChandamArutam author - he tried to claim that Desika supported the 4th paksha reg lakshmi - is the progenitor of all such fights. Contemporary of annavappangar. - SV
 
