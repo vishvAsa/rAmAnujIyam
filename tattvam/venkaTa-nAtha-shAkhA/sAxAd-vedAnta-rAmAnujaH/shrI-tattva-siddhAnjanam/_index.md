@@ -205,7 +205,9 @@ K. R. Padmanabhan.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-> Not the main doddayacharya - this mahAcharya was likely a 19th century 1 descendent of ChandamArutam author - he tried to claim that Desika supported the 4th paksha reg lakshmi - is the progenitor of all such fights. Contemporary of annavappangar. - SV
+Is this referring to some sholigur mahAcharya or an ahobila maTha yati? This is unclear, and can be interpreted both ways based on one's prior biases. Given that certain AM hagiographers themselves said such things, the latter interpretation can't be ruled out. (Eg. purishai kRShNamAchArya supposedly referred to some 1800s book by the 34th ahobila yati, who said that.)  
+
+If it is mahAcharya, this is not the main doddayacharya - this mahAcharya was likely a 19th century 1 descendent of ChandamArutam author - he tried to claim that Desika supported the 4th paksha reg lakshmi - is the progenitor of all such fights. Contemporary of annavappangar. - SV
 
 सम्भ्रान्तोऽत्र वीरराघवर्य  इति साधु प्रतिपादितं शकुन्तला-प्रबन्धे।  
 न हि वेदान्तरामानुजयतिः स्पष्टं पूर्वपक्षिणं नाम्ना निर्दिशति।  
