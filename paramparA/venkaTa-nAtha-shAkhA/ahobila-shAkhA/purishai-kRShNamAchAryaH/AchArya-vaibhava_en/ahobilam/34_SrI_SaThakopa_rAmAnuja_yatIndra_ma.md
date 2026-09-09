@@ -7,7 +7,7 @@ This Azhagiyasingar was born in the agrahAram of AttippaTTu near Thiruvallur. He
 
 His father and grand father belonged to Injimedu and were linked to the mADabhUshi vamSam. Since this future Azhagiyasingar grew up in his maternal grandfather's house at AttipaTTu, he was hailed as AttipaTTu Azhagiyasingar later. SrImad Injimettu Azhagiyasingar in the Mangala Slokam of his sArabodiini, a commentary on SrImad Rahasyatraya sAram said that 34th paTTam Azhagiyasingar belonged to his vamSam with the salutation "madIyakulanAtham"
 
-स्तुतिपुलकाङ्कितगात्रं नृहरेर्बाष्पाम्बुना लसनेत्रम् ।।
+स्तुतिपुलकाङ्कितगात्रं नृहरेर्बाष्पाम्बुना लसन्नेत्रम् ।।
 वन्दे शठरिपुरामावरजमिनिन्द्रं मदीयकुलनाथम् ॥
 
 stutipuLakAnkitagAtram nruharer bAshpAmbunA lasanetram | vande SaTharipurAmAvarajaminindram madIyakulanAtham ||

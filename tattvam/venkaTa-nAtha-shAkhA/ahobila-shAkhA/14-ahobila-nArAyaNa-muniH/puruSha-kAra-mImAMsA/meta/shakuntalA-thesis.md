@@ -3170,13 +3170,7 @@ It may be worthwhile to probe into the circumstances under which VR had to write
 
 इति संस्कृतभूमिकानुवादो ऽत्र। 
 
-He was misled by tenkalai polemicists -
-
-> "एभिर् एव पश्चात् श्रिय उपायत्व-स्थापक-ग्रन्थ-भागो ऽपि व्यलेखी"ति,  
-"स तु कैश्चित् लोपित" इति च श्री-लक्ष्मी-नृसिंहास्थान-मूर्धाभिषिक्तैः महाचार्यैः प्रत्यपादि  
-इत्य् उभय-वेदान्त-ग्रन्थ-मालायाम् ईशोपनिषन्-मुद्रणावसरे भूमिकायाम् अस्माभिर् निर्दिष्टम् अपि द्रष्टव्यम्।
-
-This error is shown below.
+He was misled (directly or indirectly) by tenkalai polemicists -  Source: [TW](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/sAxAd-vedAnta-rAmAnujaH/shrI-tattva-siddhAnjanam/).
 </details>
 
 
