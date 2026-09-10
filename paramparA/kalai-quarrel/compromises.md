@@ -1,6 +1,11 @@
 +++
 title = "Compromises"
 +++
+## shrImUShNam
+> This place also had its share of disputes between Vadakali and Thenkalai Sri Vaishnavities; but they have been once for all set at rest by the orders of the Sub-Court of South Arcot at Cuddalore. In the appeal suit A.S,1/38, and the two groups commence the Tamil prabandha recitation simultaneously by invoking their respective acharyas and end with a commemoration of their respective preceptors and celebrate Sathumurai. This practice obtains in all the shrines of this temple and has the sanction of the decisions of the civil and criminal courts.
+  
+
+Source: [TW](http://www.srimushnam.org/festivals.html)
 
 ## bengaLUru kRShNa temple
 The temple had issues once - mysore raja mediated and made it a temple of both kalais. Remarkably meticulous. Quite unlike modern India we know. 

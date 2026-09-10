@@ -28,7 +28,14 @@ Tk tried to place him in 1400s. When pointed out that the copper plate inscripti
 
 
 ## On the SDP agreement
-1709 mysore order's original doc is available. No original doc available regarding the kanchi agreement. Only a copy is available without any signature. While SDP recital allowance is accepted, it doesn't give any verified date at all. And the doc is dated after mysore order
+1709 mysore order's original doc is available. No original doc available regarding the kanchi agreement. Only a copy is available without any signature. While SDP recital allowance is accepted, it doesn't give any verified date at all. And the doc is dated after mysore order.
+
+Btw the aathaan jeeyar agreement version shown by TKS has no signature. Original is not found with anyone now. Even in 1915 court order this was submitted as an exhibit. But original was not found back then itself.
+
+We only know that Tenkalai patram was allowed by the agreement. The so called claim that it was the mamool in this temple (as claimed to have been written in the agreement) is certainly not proven.
+
+My hunch is that it was indeed the norm in 1710 (after fall of vellore). And only because TTs had left kanchi after 1646. Utsavar was taken to udayarpalayam. TKS might have recited their own patram in the absence of TTs and their sishyas.
+
 
 ## Later SDP insertion in temples
 - SDP “won” in Srivilliputtur case on one fake claim accepted by the British (both patrams cannot be recited in same temple):  

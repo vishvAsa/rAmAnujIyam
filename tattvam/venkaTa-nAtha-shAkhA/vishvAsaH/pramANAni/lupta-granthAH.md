@@ -159,9 +159,9 @@ Sukhaduḥkhādhikaraṇa is the sixth section of the first pāda of Nathamuni's
 
 <details><summary>काञ्ची-स्थितिः -- रविलोचनः</summary>
 
-> In fact kanchi was in great distress back then.. varadar was taken to udayarpalayam. 15th Jeeyar of Ahobilam mutt is claimed to have attained paramapadam at kanchi in 1690s but his brindavanam is not found there. My suspicion is that he might have been killed in some fighting. 
->
-> Uttaradhi matha chronicles record that temple officials were tortured for money and valuables. It was not a good time for SVs back then. Persons named ramanuja, ramachandra etc were specifically targeted as per uttaradhi matha chronicle of satyaabhinava tirthas time. UM guys say that this ramanuja and ramachandra were the  tatacharyas of that time.  
+Parakala matha library was lost in 1689 during sack of Kanchi by Mughals. In fact kanchi was in great distress back then.. varadar was taken to udayarpalayam. 15th Jeeyar of Ahobilam mutt is claimed to have attained paramapadam at kanchi in 1690s but his brindavanam is not found there. My suspicion is that he might have been killed in some fighting. 
+
+Uttaradhi matha chronicles record that temple officials were tortured for money and valuables. It was not a good time for SVs back then. Persons named ramanuja, ramachandra etc were specifically targeted as per uttaradhi matha chronicle of satyaabhinava tirthas time. UM guys say that this ramanuja and ramachandra were the  tatacharyas of that time.  
 </details>
 
 ## Interpolations
