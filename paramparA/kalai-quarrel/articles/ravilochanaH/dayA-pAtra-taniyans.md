@@ -34,7 +34,7 @@ Btw the aathaan jeeyar agreement version shown by TKS has no signature. Original
 
 We only know that Tenkalai patram was allowed by the agreement. The so called claim that it was the mamool in this temple (as claimed to have been written in the agreement) is certainly not proven.
 
-My hunch is that it was indeed the norm in 1710. And only because TTs had left kanchi after 1646. Utsavar was taken to udayarpalayam. TKS might have recited their own patram in the absence of TTs and their sishyas.
+My hunch is that it was indeed the norm in 1710 (after fall of vellore). And only because TTs had left kanchi after 1646. Utsavar was taken to udayarpalayam. TKS might have recited their own patram in the absence of TTs and their sishyas.
 
 
 ## Later SDP insertion in temples
