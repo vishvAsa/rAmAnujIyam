@@ -420,6 +420,29 @@ Secondly, the founding date of Ahobila maTha is traditionally held to be 1398 CE
 
 Inscriptions referring to the 1st Jiyar, 2nd Jiyar, 3rd Jiyar and 6th Jiyar are attached below that confirm this. The dates of first 10 Jiyars must be adjusted by 60 years and the long reigns of 11th and 12th Jiyars that lack any inscriptions from their eras or texts authored by these Jiyars should be reduced to adjust.+++(5)+++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Second jeeyar's inscriptions are found in.Tirumala dated to 1510s. Third jeeyar's inscriptions at Varadar Kovil belong to 1530.
+</details>
+
+<details><summary>periya-tirumuDi-aDaivu</summary>
+
+PTA author refers to seventh jiyar. Because the list mentions only asthana jiyars from second AS. And PTA gives MM birth year as vijaya. All the tk claims about his birth year are now based on books written later than PTA - essentially later lies.
+
+> PTA: "इवर् (२) शिष्यर् श्रीपराङ्कुशजीयर्। अवर् (३) शिष्यर् श्रीनिवासजीयर् (४), ऎम्मडिवण् शठकोपजीयर्। इवर् शिष्यर् श्रीपराङ्कुशजीयर्(६)। अवर् शिष्यर् अहोबिलजीयर्। 
+
+Immadi Van Satakopa is the fifth Jeeyar (Immadi = “second”, referring to the second person bearing the Van Satakopa name).
+→ https://x.com/Ravilochanan86/status/2097665931463803129
+→ https://x.com/Ravilochanan86/status/2097672138027418103
+→ https://x.com/Ravilochanan86/status/2097682405792583715
+The seventh Jeeyar is the one known as Ahobila Jeeyar, because he regained Ahobilam from the Golconda rulers.
+→ https://x.com/Ravilochanan86/status/2097672138027418103
+Sixth Jeeyar reigned in the 1560s–70s; seventh Jeeyar lived in the 1580s.
+→ https://x.com/Ravilochanan86/status/2097659227859001854
+</details>
+
+
+
 The Matha’s dating since the 13th Jiyar’s days matches well with the historical evidences available.
 
 > 1\.  TTD inscriptions talk about Van Satakopa maTha only from 1493 CE and
@@ -967,7 +990,7 @@ Sannads from the 17th century prove categorically that the Vadakalai sect of Sri
 Following sannads from Annual report of Mysore Archaeological Department (1938) prove conclusively that Rajagopalan is lying brazenly:
 
 
-A sanad from 1649 (erroneously written as 1709 – the 1709 kaNThIravanarasarAja was a deaf and dumb infant under the care of a melukoTe tenkalai Tirumalai Iyengar who would not have issued an order exclusively favoring the vaDakalai side) mentions that Ramanuja dayapatram alone was being recited in all sannidhis of Melkote Tirunarayanaswamy temple during prabandham recitation from the times of Raja Wodeyar and that the same shall continue henceforth as well.
+A sanad from 1649 (erroneously written as 1709 – the 1709 kaNThIravanarasarAja was a deaf and dumb king under the influence of a melukoTe tenkalai Tirumalai Iyengar who would not have issued an order exclusively favoring the vaDakalai side) mentions that Ramanuja dayapatram alone was being recited in all sannidhis of Melkote Tirunarayanaswamy temple during prabandham recitation from the times of Raja Wodeyar and that the same shall continue henceforth as well. Details at: [TW](/purANam_vaiShNavam/history/mahiSha-pura-maNDalam/yadu-giriH_melukoTe/records)
 
 ![](https://vansatakopadaya.wordpress.com/wp-content/uploads/2026/03/image-10.png?w=968)
 
