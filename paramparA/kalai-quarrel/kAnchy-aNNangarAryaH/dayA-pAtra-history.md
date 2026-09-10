@@ -1,5 +1,5 @@
 +++
-title = "dayApAtra history"
+title = "dayA-pAtra history"
 +++
 
 <details><summary>विश्वास-टिप्पनी</summary>
