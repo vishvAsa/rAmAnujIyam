@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;अहोबिल-परम्परा on रामानुजीये विश्वासटिप्पन्यः</title>
+    <link>https://vishvAsa.github.io/rAmAnujIyam/paramparA/venkaTa-nAtha-shAkhA/ahobila-shAkhA/</link>
+    <description>Recent content in &#43;अहोबिल-परम्परा on रामानुजीये विश्वासटिप्पन्यः</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vishvAsa.github.io/rAmAnujIyam/paramparA/venkaTa-nAtha-shAkhA/ahobila-shAkhA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yati birth death locii</title>
+      <link>https://vishvAsa.github.io/rAmAnujIyam/paramparA/venkaTa-nAtha-shAkhA/ahobila-shAkhA/yati-birth-death-locii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/rAmAnujIyam/paramparA/venkaTa-nAtha-shAkhA/ahobila-shAkhA/yati-birth-death-locii/</guid>
+      <description>&lt;div id=&#34;map&#34; style=&#34;height: 500px; width: 100%;&#34;&gt;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;const map = L.map(&#39;map&#39;).setView([0, 0], 2);&#xA;&#xA;// Use Esri World Street Map for dense, clear city and geographic labels at all zoom levels&#xA;L.tileLayer(&#39;https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png&#39;, {&#xA;    maxZoom: 17,&#xA;    attribution: &#39;sundara-mAlola&#39;&#xA;}).addTo(map);&#xA;&#xA;const kmz = L.kmzLayer().addTo(map);&#xA;&#xA;kmz.on(&#39;load&#39;, function(e) {&#xA;    // Add the parsed features to the map&#xA;    e.layer.addTo(map);&#xA;&#xA;    // Fit bounds safely&#xA;    const bounds = e.layer.getBounds();&#xA;    if (bounds &amp;&amp; bounds.isValid()) {&#xA;        map.fitBounds(bounds);&#xA;    }&#xA;});&#xA;&#xA;&#xA;// Load your KMZ file&#xA;kmz.load(&#39;../yati-birth-death-locii.kml&#39;);&#xA;&lt;/script&gt;</description>
+    </item>
+  </channel>
+</rss>
