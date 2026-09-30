@@ -182,14 +182,6 @@ y quienes **fueron dominados** únicamente por su compasión (para **enseñar** 
 इत्य् अनुगृहीतम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-एकं द्वयं त्र्यवयवं सुखलभ्यतुर्यं  
-व्यक्तार्थपञ्चकमुपात्तषडङ्गयोगम् ।  
-सप्तार्णवीमहिमवद्विवृताष्टवर्णं  
-रङ्गे सतामिह रसं नवमं प्रसूते ॥ *
-</details>
-
 <details><summary>English</summary>
 
 2. This (mantra) **is understood** as **consisting** of eight words (if Śrīman Nārāyaṇa caraṇau should be taken as three separate words ;)  
