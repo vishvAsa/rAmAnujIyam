@@ -553,9 +553,4 @@ This is the sum and substance of Dvaya.
 
 [[P3731]]
 
-""
-""
-""
-
 </details>
-
