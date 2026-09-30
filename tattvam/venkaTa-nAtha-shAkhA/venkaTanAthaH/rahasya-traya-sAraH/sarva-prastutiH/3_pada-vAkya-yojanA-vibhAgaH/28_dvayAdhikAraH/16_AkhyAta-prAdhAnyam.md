@@ -122,14 +122,6 @@ y quienes **fueron dominados** únicamente por su compasión (para **enseñar** 
 आखातेतरपञ्च-पदैर् युक्तं, आखातप्रधानकं षट्पदं वाक्यं विदुर् इत्य् उचितम् भाति। 
 </details>
 
-
-
-<details><summary>मूलम्</summary>
-
-इदमष्टपदं व्यासे समासे षट्पदं विदुः ।  
-वाक्यं पञ्चपदैर्युक्तमित्याख्यातप्रधानकम् ॥  
-</details>
-
 <details><summary>टीकान्तरम्</summary>
 
 (सा.दी) इति च पञ्चपदैर्युक्तम्,  
