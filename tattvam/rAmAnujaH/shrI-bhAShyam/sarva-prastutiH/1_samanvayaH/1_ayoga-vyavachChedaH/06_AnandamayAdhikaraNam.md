@@ -2344,7 +2344,7 @@ If this latter point was aimed at, it would follow that the sentence would conve
 तत् तु न सम्भवति –  
 न हि नैल्य-विशिष्टाकारेण  
 तद्-वस्तु उत्पल-पदेन विशेष्यते,  
-जाति-गुणयोर् अन्योन्य-समवाय-प्रसङ्गात्।
+जाति-गुणयोर् अन्योऽन्य-समवाय-प्रसङ्गात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -2366,7 +2366,7 @@ but this is not possible, for the thing (denoted by the two terms) is not charac
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो [[नीलत्वोत्पलत्वउपक्षितवस्त्वेकत्वमात्रं|नीलत्वोत्पलत्वोपलक्षित-वस्त्व्-एकत्व-मात्रं]] सामानाधिकरण्येन प्रतिपाद्यते।
+अतो नीलत्वोत्पलत्वोपलक्षित-वस्त्व्-एकत्व-मात्रं सामानाधिकरण्येन प्रतिपाद्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -2383,7 +2383,10 @@ What the co-ordination of the two words conveys is, therefore, only the oneness 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा सो ऽयम् देवदत्तः इत्य् अतीत-काल-विप्रकृष्ट-देश-विशिष्टस्य तेनैव रूपेण सन्निहित-देश-वर्तमान-काल-विशिष्टतया प्रतिपादनानुपपत्तेर् उभय-देश-कालोपलक्षित-स्वरूप-मात्रैक्यं सामानाधिकरण्येन प्रतिपाद्यते ॥
+तथा "सो ऽयम् देवदत्तः"  
+इत्य् अतीत-काल-विप्रकृष्ट-देश-विशिष्टस्य  
+तेनैव रूपेण सन्निहित-देश-वर्तमान-काल-विशिष्टतया प्रतिपादनानुपपत्तेर्  
+उभय-देश-कालोपलक्षित-स्वरूप-मात्रैक्यं सामानाधिकरण्येन प्रतिपाद्यते ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -2400,7 +2403,8 @@ In the same way, when we say 'this (person is) that Devadatta' the co-ordination
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्यपि नीलम् इत्य् आद्य्-एक-पद-श्रवणे, प्रतीयमानं विशेषणं सामानाधिकरण्य-वेलायां विरोधान्त न प्रतिपाद्यते।
+यद्य् अपि "नीलम्" इत्य्-आद्य्-एक-पद-श्रवणे प्रतीयमानं विशेषणं  
+सामानाधिकरण्य-वेलायां विरोधान् न प्रतिपाद्यते,
 </details>
 
 <details><summary>Translation</summary>
@@ -2451,7 +2455,10 @@ The essence of co-ordination consists, in all cases, therein that it suppresses 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वत्र [[सामानाधिकरण्स्यैष|सामानाधिकरण्यस्यैष]] एव स्वभाव इति न कश्चिद् दोष इति॥
+सर्वत्र सामानाधिकरण्यस्यैष एव स्वभाव  
+इति न कश्चिद् दोष 
+
+इति॥
 </details>
 
 <details><summary>Translation</summary>
@@ -2464,28 +2471,34 @@ And as thus our explanation cannot be charged with 'implication,' it cannot be o
 सर्वत्र [[सामानाधिकरण्स्यैष|सामानाधिकरण्यस्यैष]] एव स्वभाव इति न कश्चिद्दोष इति॥
 </details>
 
-## उक्तपूर्वपक्षप्रतिक्षेपः
+#### व्युत्पन्नार्थ-संसर्गो वाक्यार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् इदम् असारम् – सर्वेष्व् एव वाक्येषु पदानां व्युत्पत्ति-सिद्धार्थ-संसर्गि-विशेष-मात्रं प्रत्याय्यम्।
+तद् इदम् अ-सारम् –  
+सर्वेष्व् एव वाक्येषु  
+पदानां व्युत्पत्ति-सिद्धार्थ- -संसर्ग-विशेष-मात्रं प्रत्याय्यम्।
 </details>
 
 <details><summary>Translation</summary>
 
-All this, we rejoin, is unfounded. What the words in all sentences whatsoever aim at conveying is only a particular connexion of the things known to be denoted by those words.
+All this, we rejoin, is unfounded.  
+What the words in all sentences whatsoever aim at conveying  
+is only a particular connexion of the things known to be denoted by those words.
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदिदमसारम् – सर्वेष्वेव वाक्येषु पदानां व्युत्पत्तिसिद्धार्थसंसर्गिविशेषमात्रं प्रत्याय्यम्।
+तदिदमसारम् – सर्वेष्वेव वाक्येषु पदानां व्युत्पत्तिसिद्धार्थसंसर्गविशेषमात्रं प्रत्याय्यम्।
 </details>
 
 ---
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र समानाधिकरण-वृत्तानाम् अपि नीलादि-पदानां [[नैल्यादिविशष्ट|नैल्यादि-विशिष्ट]] एव अर्थो व्युत्पत्ति-सिद्धः पदान्तरार्थ-संसृष्टो अभिधीयते।
+तत्र समानाधिकरण-वृत्तानाम् अपि नीलादि-पदानां  
+नैल्यादि-विशिष्ट एवार्थो व्युत्पत्ति-सिद्धः   
+पदान्तरार्थ-संसृष्टो अभिधीयते।
 </details>
 
 <details><summary>Translation</summary>
@@ -2502,7 +2515,8 @@ Words such as 'blue,' standing in co-ordination with others, express that some m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा नीलम् उत्पलम् आनय इत्य् उक्ते नीलिमादि-विशिष्टम् एव आनीयते,
+यथा "नीलम् उत्पलम् आनय" इत्य् उक्ते  
+नीलिमादि-विशिष्टम् एवानीयते,
 </details>
 
 <details><summary>Translation</summary>
@@ -2519,7 +2533,11 @@ When, e.g., somebody says 'bring the blue lotus,' a thing is brought which posse
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा च विन्ध्याटव्यां मद-मुदितो [[मातङ्गणस्तिष्ठति|मातङ्गस् तिष्ठति]] इति पद-द्वयावगत-विशेषण-[[विशष्ट|विशिष्ट]] एव अर्थः प्रतीयते;
+यथा च 
+
+> विन्ध्याटव्यां मद-मुदितो मातङ्गस् तिष्ठति 
+
+इति पद-द्वयावगत-विशेषण-विशिष्ट एव अर्थः प्रतीयते;
 </details>
 
 <details><summary>Translation</summary>
@@ -2536,7 +2554,8 @@ And when we are told that 'a herd of elephants excited with passion lives in the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं वेदान्त-वाक्येष्व् अपि समानाधिकरण-निर्देशेषु [[तत्तद्वविशेषणविशिष्टमेव|तत्तद्-विशेषण-विशिष्टम् एव]] ब्रह्म प्रतिपत्तव्यम् ॥
+एवं वेदान्त-वाक्येष्व् अपि समानाधिकरण-निर्देशेषु  
+तत्तद्-विशेषण-विशिष्टम् एव ब्रह्म प्रतिपत्तव्यम् ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -2549,11 +2568,12 @@ Analogously we have to understand, as the thing intimated by Vedānta-texts in t
 एवं वेदान्तवाक्येष्वपि समानाधिकरणनिर्देशेषु [[तत्तद्वविशेषणविशिष्टमेव|तत्तद्-विशेषण-विशिष्टम् एव]] ब्रह्म प्रतिपत्तव्यम् ॥
 </details>
 
-## सर्वैरपि विशेषणैः स्वरूपस्यैव विशेष्यता
+#### स्वरूपस्यैव विशेषणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च विशेषण-विवक्षायाम् इतर-विशिष्टाकारं वस्तु अन्येन विशेष्टव्यम्।
+न च विशेषण-विवक्षायाम्  
+इतर-विशिष्टाकारं वस्तु अन्येन विशेष्टव्यम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -2587,7 +2607,13 @@ the case rather is that the thing itself is equally qualified by all attributes.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि – भिन्न-प्रवृत्ति-निमित्तानां शब्दानाम् एकस्मिन् अर्थे वृत्तिस् सामानाधिकरण्यम् इति अन्वयेन निवृत्त्या वा पदान्तर-प्रतिपाद्यात् आकाराद् आकारान्तर-युक्ततया तस्यैव वस्तुनः पदान्तर-प्रतिपाद्यत्वं सामानाधिकरण्य-कार्यम्।
+तथा हि –  
+भिन्न-प्रवृत्ति-निमित्तानां शब्दानाम्  
+एकस्मिन्न् अर्थे वृत्तिस् सामानाधिकरण्यम् इति  
+अन्वयेन निवृत्त्या वा  
+पदान्तर-प्रतिपाद्यात् आकाराद्  
+आकारान्तर-युक्ततया  
+तस्यैव वस्तुनः पदान्तर-प्रतिपाद्यत्वं सामानाधिकरण्य-कार्यम्।
 </details>
 
 <details><summary>Translation</summary>
