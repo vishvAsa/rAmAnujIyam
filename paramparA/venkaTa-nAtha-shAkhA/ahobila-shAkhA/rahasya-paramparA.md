@@ -6,81 +6,87 @@ title = "रहस्य-परम्परा"
 - vedAnta-deshikaH
 - Kumara VaradAchArya
 - brahma-tantra-svatantra-yatiH
-- Ghatikashatam Ammal
+- Ghatikashatam-Ammal
 - AVS
   - AS02
-  - AS03
+  - AS03 पराङ्कुशः
     - AS04
       - AS05
-    - AS06 (Other perceptor - Ghatikashatam Ammal → Sirungattur Nadathur [SN] VaradavishnuvAchArya → SN AhobilAchArya → SN varadadeshika → NarasimhAchArya)
+    - AS06 पराङ्कुशः (Other perceptor - Ghatikashatam Ammal → Sirungattur Nadathur [SN] VaradavishnuvAchArya → SN AhobilAchArya → SN varadadeshika → NarasimhAchArya)
       - AS07
       - AS08
         - AS09
         - AS10
-        - AS11
+        - AS11 श्रीनिवासः
 
 ## AS11 branch
 - AS12
 - AS13
 - Varadacharyar
   - SrisaileshAchArya
-    - AS14
+    - AS14 नारायणः
       - AS15
       - AS16
         - Keshavashatakopajiyar
       - AS17
       - AS18
-      - AS19
+      - AS19 श्रीनिवासः
         - AS21
         - AS22
-        - AS20
-          - AS23
-            - AS25
+        - AS20 वीरराघवः
+          - AS23 वीरराघवः
+            - AS25 श्रीनिवासः
           - AS24
 
-## AS25 branch
-- AS26
+## AS25 श्रीनिवासः branch
+- AS26 रङ्गनाथः
   - AS27
   - AS29
   - AS30
   - AS31
-  - AS28
+    - AS32
+      - AS33
+        - AS36 श्रीनिधिः, AS39, AS40, AS41
+        - Thirukkallam Agent LakshminRsimha Ramanuja Yati
+      - AS41 (Also AS32)
+        - AS43
+        - Villivalam NarayanAchArya
+      - Sholavandan
+        - Goshtipuram SundararajAchArya
+          - Goshtipuram Sowmyanarayana
+  - AS28 रङ्गनाथशठकोपः
     - AS35
-    - AS34
+    - AS34 शठकोप-रामानुजः (१८१३ - १८८२)
       - AS38
         - Thillaiyambur svAmI
           - AS44 मुक्कूर्-यतिः
             - AS46 आहिताग्नी रङ्गनाथः (also from agnihotraM rAmAnuja tAtAchArya earlier)
         - Kali Rangacharya
         - Thillaisthanam svAmI
-      - AS37
+      - AS37 वीरराघवः (१८४५-१८९९)
+        - svarNaM kRShNamAchAryaH
 
-## AS37 branch
-- svarNaM kRShNamAchAryaH
-  - AS32
-    - AS33
-      - AS36, AS39, AS40, AS41
-      - Thirukkallam Agent LakshminRsimha Ramanuja Yati
-    - AS41
-      - AS43
-      - Villivalam NarayanAchArya
-    - Sholavandan
-      - Goshtipuram SundararajAchArya
-        - Goshtipuram Sowmyanarayana
-  - Puthankottai svAmI
-    - Pazhaveri LakshminRsimhAchArya (Father of AS45)
-  - AS42 injimeDu-yatiH
-    - AS45 विल्लिवलं-यतिः
-      - mannArguDi rAjagopAla
-        - sudarshanaH (पऴवेरि-राजगोपाल-शिष्यो ऽपि)
-    - Padur Saralakavi RaghavAchArya
-    - Padur GopalAchArya
-    - Melpakkam nRsimhAchArya
-    - Sokkanavur nRsimhAchArya
-    - Purisai KrishnamAchArya
-    - Perukkaranai ChakravarthyAchArya (सारसारज्ञः)
-    - Azhisoor Srinivasacharyar
-    - Thiruk-kallam nRsimharaghavAchArya  (सारसारज्ञः)
-    - Pazhaveri RajagopalAchArya (Hindi Pandit, सारसारज्ञः)
-      - Pazhaveri laxmInRsiMhaH (bAlAjI तत्-पुत्रः)
+## स्वर्ण-कृष्णमाचार्य-शाखा
+- Puthankottai svAmI
+  - Pazhaveri LakshminRsimhAchArya (Father of AS45)
+- AS42 injimeDu-yatiH
+  - AS45 विल्लिवलं-यतिः
+    - mannArguDi rAjagopAla
+      - sudarshanaH (पऴवेरि-राजगोपाल-शिष्यो ऽपि)
+  - Padur Saralakavi RaghavAchArya
+  - Padur GopalAchArya
+  - Melpakkam nRsimhAchArya
+  - Azhisoor Srinivasacharyar
+  - Sokkanavur nRsimhAchArya
+  - Purisai KrishnamAchArya
+  - Perukkaranai ChakravarthyAchArya (सारसारज्ञः)
+  - Thiruk-kallam nRsimharaghavAchArya  (सारसारज्ञः)
+  - Pazhaveri RajagopalAchArya (Hindi Pandit, सारसारज्ञः)
+    - Pazhaveri laxmInRsiMhaH (bAlAjI तत्-पुत्रः)
 
+<details><summary>Thirukkallam Agent LakshminRsimha Ramanuja Yati (द्रष्टुं नोद्यम्)</summary>
+
+Post 1905 british forced reforms, AM had to appoint "Agent" of jiyar in many places throughout madras presidency.
+
+His native was thirukkallam and was an Agent in Thiruvallur. Later took up sannyasa from AS40, did samashrayana bharanyasa etc.
+</details>
