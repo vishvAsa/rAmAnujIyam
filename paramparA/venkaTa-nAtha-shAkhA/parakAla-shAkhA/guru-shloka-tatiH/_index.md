@@ -66,7 +66,7 @@ For a more detailed account of his life and accomplishments as well as some memo
 
 ![Śri Abhinava Ranganātha Brahmatantra Swatantra Parakāla Swāmi](https://www.parakalamatham.org/wp-content/uploads/3300-Brahmatantra-Swatantra-Jeer-Swami-CLEAN.png)
 
-> श्रीकृष्ण ब्रह्मतन्त्रोत्तमगुरुकरुणाप्तचक्राङ्कभाष्यम्  
+> श्रीकृष्णब्रह्मतन्त्रोत्तमगुरुकरुणाप्तचक्राङ्कभाष्यम्  
 > वैराग्याचारवार्घो वरदपदमुखे लक्ष्मणे न्यस्तभारम् ।  
 > श्रीवागीशात्ततुर्यं शठरिपुयतिराड्वेदचूडार्यमूर्तिम्  
 > नूतनं श्रीरङ्गनाथं कलिरिपुमनघं ब्रह्मतन्त्रं श्रयामः ।  
