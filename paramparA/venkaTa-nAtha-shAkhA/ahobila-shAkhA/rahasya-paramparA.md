@@ -54,33 +54,33 @@ title = "रहस्य-परम्परा"
         - Kali Rangacharya
         - Thillaisthanam svAmI
       - AS37 वीरराघवः (१८४५-१८९९)
+        - svarNaM kRShNamAchAryaH
 
-## AS37 branch
-- svarNaM kRShNamAchAryaH
-  - AS32
-    - AS33
-      - AS36, AS39, AS40, AS41
-      - Thirukkallam Agent LakshminRsimha Ramanuja Yati
-    - AS41
-      - AS43
-      - Villivalam NarayanAchArya
-    - Sholavandan
-      - Goshtipuram SundararajAchArya
-        - Goshtipuram Sowmyanarayana
-  - Puthankottai svAmI
-    - Pazhaveri LakshminRsimhAchArya (Father of AS45)
-  - AS42 injimeDu-yatiH
-    - AS45 विल्लिवलं-यतिः
-      - mannArguDi rAjagopAla
-        - sudarshanaH (पऴवेरि-राजगोपाल-शिष्यो ऽपि)
-    - Padur Saralakavi RaghavAchArya
-    - Padur GopalAchArya
-    - Melpakkam nRsimhAchArya
-    - Sokkanavur nRsimhAchArya
-    - Purisai KrishnamAchArya
-    - Perukkaranai ChakravarthyAchArya (सारसारज्ञः)
-    - Azhisoor Srinivasacharyar
-    - Thiruk-kallam nRsimharaghavAchArya  (सारसारज्ञः)
-    - Pazhaveri RajagopalAchArya (Hindi Pandit, सारसारज्ञः)
-      - Pazhaveri laxmInRsiMhaH (bAlAjI तत्-पुत्रः)
+## स्वर्ण-कृष्णमाचार्य-शाखा
+- AS32
+  - AS33
+    - AS36, AS39, AS40, AS41
+    - Thirukkallam Agent LakshminRsimha Ramanuja Yati
+  - AS41
+    - AS43
+    - Villivalam NarayanAchArya
+  - Sholavandan
+    - Goshtipuram SundararajAchArya
+      - Goshtipuram Sowmyanarayana
+- Puthankottai svAmI
+  - Pazhaveri LakshminRsimhAchArya (Father of AS45)
+- AS42 injimeDu-yatiH
+  - AS45 विल्लिवलं-यतिः
+    - mannArguDi rAjagopAla
+      - sudarshanaH (पऴवेरि-राजगोपाल-शिष्यो ऽपि)
+  - Padur Saralakavi RaghavAchArya
+  - Padur GopalAchArya
+  - Melpakkam nRsimhAchArya
+  - Sokkanavur nRsimhAchArya
+  - Purisai KrishnamAchArya
+  - Perukkaranai ChakravarthyAchArya (सारसारज्ञः)
+  - Azhisoor Srinivasacharyar
+  - Thiruk-kallam nRsimharaghavAchArya  (सारसारज्ञः)
+  - Pazhaveri RajagopalAchArya (Hindi Pandit, सारसारज्ञः)
+    - Pazhaveri laxmInRsiMhaH (bAlAjI तत्-पुत्रः)
 
