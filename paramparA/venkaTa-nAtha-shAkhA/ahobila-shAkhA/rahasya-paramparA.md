@@ -44,6 +44,16 @@ title = "रहस्य-परम्परा"
   - AS29
   - AS30
   - AS31
+    - AS32
+      - AS33
+        - AS36 श्रीनिधिः, AS39, AS40, AS41
+        - Thirukkallam Agent LakshminRsimha Ramanuja Yati
+      - AS41 (Also AS32)
+        - AS43
+        - Villivalam NarayanAchArya
+      - Sholavandan
+        - Goshtipuram SundararajAchArya
+          - Goshtipuram Sowmyanarayana
   - AS28 रङ्गनाथशठकोपः
     - AS35
     - AS34 शठकोप-रामानुजः (१८१३ - १८८२)
@@ -57,16 +67,6 @@ title = "रहस्य-परम्परा"
         - svarNaM kRShNamAchAryaH
 
 ## स्वर्ण-कृष्णमाचार्य-शाखा
-- AS32
-  - AS33
-    - AS36, AS39, AS40, AS41
-    - Thirukkallam Agent LakshminRsimha Ramanuja Yati
-  - AS41
-    - AS43
-    - Villivalam NarayanAchArya
-  - Sholavandan
-    - Goshtipuram SundararajAchArya
-      - Goshtipuram Sowmyanarayana
 - Puthankottai svAmI
   - Pazhaveri LakshminRsimhAchArya (Father of AS45)
 - AS42 injimeDu-yatiH
@@ -76,11 +76,17 @@ title = "रहस्य-परम्परा"
   - Padur Saralakavi RaghavAchArya
   - Padur GopalAchArya
   - Melpakkam nRsimhAchArya
+  - Azhisoor Srinivasacharyar
   - Sokkanavur nRsimhAchArya
   - Purisai KrishnamAchArya
   - Perukkaranai ChakravarthyAchArya (सारसारज्ञः)
-  - Azhisoor Srinivasacharyar
   - Thiruk-kallam nRsimharaghavAchArya  (सारसारज्ञः)
   - Pazhaveri RajagopalAchArya (Hindi Pandit, सारसारज्ञः)
     - Pazhaveri laxmInRsiMhaH (bAlAjI तत्-पुत्रः)
 
+<details><summary>Thirukkallam Agent LakshminRsimha Ramanuja Yati (द्रष्टुं नोद्यम्)</summary>
+
+Post 1905 british forced reforms, AM had to appoint "Agent" of jiyar in many places throughout madras presidency.
+
+His native was thirukkallam and was an Agent in Thiruvallur. Later took up sannyasa from AS40, did samashrayana bharanyasa etc.
+</details>
