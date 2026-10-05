@@ -3737,7 +3737,7 @@ We may further illustrate the entire relation of co-ordinated words to the actio
 
 ---
 
-### क्रियाविशेषणवत्
+### क्रिया-विशेषणवत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् उक्तं भवति –  
@@ -3990,14 +3990,15 @@ Nor can we agree to the contention that, as the buying of the Soma is exclusivel
 अरुणिम्नश् शाब्दे द्रव्यान्वये सिद्धे  
 
 > द्रव्य-गुणयोः क्रय-साधनत्वानुपपत्त्या  
-अर्थात् परस्परान्वयस् सिध्यति
+अर्थात् परस्परान्वयस् सिध्यति +++(न तु शब्दमात्रात्)+++
 
 इत्य् अप्य् असङ्गतम्।
 </details>
 
 <details><summary>Translation</summary>
 
-And since, as shown, the quality of tawniness connects itself with its substance (the cow) on the mere basis of the form of the words, it is wrong (on the part of the Pūrvapakshin to abandon this natural connexion and) to establish their connexion on the ground of their being otherwise incapable of serving as means of the purchase.
+And since, as shown, the quality of tawniness connects itself with its substance (the cow) on the mere basis of the form of the words,  
+it is wrong (on the part of the Pūrvapakshin to abandon this natural connexion and) to establish their connexion on the ground of their being otherwise incapable of serving as means of the purchase.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4036,11 +4037,12 @@ All this confirms our contention, viz. that the co-ordination of 'thou' and 'tha
 स्वोक्ताधिकरणार्थमुपसंहरति अतो यथोक्त एवार्थ इति । अत इमौ पूर्वपक्षराद्धान्तौ, अतिदुस्स्थतया, सूत्रकाराभिमताविति वक्तुमयुक्तम् । अतोऽस्याधिकरणस्य यथोक्तावेव पूर्वपक्षराद्धान्तौ सूत्रकाराभिमौ ॥ एवमस्तु; ततः किं प्रस्तुतसामानाधिकरण्यस्येत्यत्राह तस्मादिति । तस्मात् सामानाधिकरण्यस्य अनेकविशेषणविशिष्टैकार्थपरत्वस्य लोकवेदसिद्धत्वात् । ईदृशं सामानाधिकरण्यं परपक्षे न संभवति, पदद्वयावगतगुणहानादित्याह तत्त्विति ।
 </details>
 
-## उक्तलक्षणसामानाधिकरण्यस्य [[पररक्षनानुगुणता|परपक्षाननुगुणता]]
+### "तत् त्वम् असी"त्यत्र विशेषणात्यागः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात् तत्त्वमस्यादि-सामानाधिकरण्ये पद-द्वयाभिहित-विशेषणापरित्यागेनैवैक्य-प्रतिपादनं [[वर्णनियम्|वर्णनीयम्]]।
+तस्मात् "तत् त्वम् अस्य्"-आदि-सामानाधिकरण्ये  
+पद-द्वयाभिहित-विशेषणापरित्यागेनैवैक्य-प्रतिपादनं वर्णनीयम्।
 </details>
 
 <details><summary>Translation</summary>
@@ -4064,7 +4066,8 @@ This however is not feasible for those who do not admit a highest Self
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् तु अनाद्य्-अविद्योपहितानवधिक-दुःख-भागिनः शुद्ध्य्-अशुद्ध्य्-उभयावस्थाच् चेतनाद् अर्थान्तर-भूतम् अशेष-हेय-प्रत्यनीकानवधिक-कल्याणैकतानं परमात्मानम् अनभ्युपगच्छतो न सम्भवति।
+तत् तु अनाद्य्--अ-विद्योपहितानवधिक-दुःख-भागिनः शुद्ध्य्-अशुद्ध्य्-उभयावस्थाच् चेतनाद् अर्थान्तर-भूतम्  
+अ-शेष-हेय--प्रत्यनीकानवधिक-कल्याणैकतानं परमात्मानम् अनभ्युपगच्छतो न सम्भवति।
 </details>
 
 <details><summary>Translation</summary>
