@@ -260,7 +260,7 @@ por hacer brillante el camino de los Vedas en todo el mundo.
 वैयमॆल्लाम् - ऎल्ला लोगङ्गळिलुम्। मऱै - वेदङ्गळ्। विळङ्ग - प्रकाशिक्कैक्काग। वाळ् - कत्तियैयुम्, वेल् - वेलायुदत्तैयुम्, एन्दुम् - एन्दुगिऱ। अदावदु ऒरु कालत्तिल् तिरुवालिमणवाळऩ् कल्याण कोलत्तोडु ऎऴुन्दरुळ, इवरुम् वाळुम् वेलुम् एन्दि अवरुडैय सर्वार्थत्तैयुम् अपहरिक्कप् पुग, कालिल् इरुन्द तङ्गप् पीलि कऴऱ्ऱ मुडियामैयाले इवरुम् अदैप् पल्लाले कव्व, आस्यत्तिल् तिरुवडि सम्बन्धित्त अळविले ज्ञानम् उदित्तु अव्वाळैयुम् वेलैयुम् समित्तागक् कॊण्डु 'समित्पाणिश्श्रोत्रियम्' ऎऩ्गिऱबडि सर्वेश्वरऩै आचार्यऩाग इवर् वरिक्क, अवर् उबदेशित्त तिरुमन्दिरत्तिऩाल् प्रबुद्धराय् सकललोकङ्गळिलुम् वेदार्थङ्गळ् विशदमागुम्बडि द्रामिडगाथैकळै अरुळिच् चॆय्दवराऩ ऎऩ्ऱबडि। मङ्गैयर्गोऩ् - मङ्गैयॆऩ्ऱु इवरुडैय नगरत्तुक्कुप् पॆयर्। अदिलुळ्ळवर्गळ् मङ्गैयर्। अवर्गळुक्कुक् कोऩ् - निर्वाहकराऩ तिरुमङ्गैयाऴ्वार्। इप्पडि आऴ्वार्गळैत् तऩित्तऩिये अनुसन्धित्तु आदरातिशयत्ताले तिरुम्बवुम् अवर्गळिऩ् तिरळै अनुवदिक्किऱार् - ऎऩ्ऱिवर्गळ् ऎऩ्ऱु। मूर्तिमत्ताऩ कृष्णतृष्णातत्त्वमागक् कॊण्डाडप्पडुमिवर्गळ् ऎऩ्ऱबडि। मगिऴ्न्दु - भगवदनुभवजनितमाऩ आनन्दत्ताल् परिपूर्णर्गळाय्; पाडुम् - उळ्ळडङ्गाद अव् आनन्दपरीवाहमागप् पाडुम्। सॆय्य - ऋजुक्कळाऩ मिगवुम् सरळङ्गळाऩ ऎऩ्ऱबडि। तमिऴ्मालैगळ् - मालैयैप्पोल् सर्वेश्वरऩुम् शिरस्साले कॊण्डाडुम्बडियाऩ द्रमिडगाथैकळै। नाम् - 'द्रमिडेषु च भूरिशः' ऎऩ्ऱु ऋषिकळुम् कॊण्डाडुम्बडियाऩ तमिऴ्नाट्टिले, श्रीवैष्णवगुलत्तिले जनिक्कुम्बडियाऩ भाग्यम् पॆऱ्ऱ नाम्। तॆळियवोदि - अर्थज्ञानत्तोडु विशदमाग अध्ययनम् पण्णि। इदऱ्कुत् तॆळिगिऩ्ऱोमे ऎऩ्बदोडु अन्वयम्। तॆळियाद - इतिहासपुराणाद्युपबृंहणङ्गळालुम् मीमांसादिगळालुम् सम्यङ्निश्चितमागाद। मऱैनिलङ्गळ् - वेदप्रदेशङ्गळै। तॆळिगिऩ्ऱोमे - निश्चयिक्कप् पॆऱ्ऱोम्। इदऩाल् इप्प्रबन्धत्तिल् वक्ष्यमाणार्थङ्गळुक्कु सुदृढप्रमाणमूलत्वमुम् महाऩ्गळिऩ् परिग्रहमुम् सम्प्रदायागतत्वमुम् सूचितमागिऱदु। 
 </details>
 
-
+## आचार्यापेक्षा
 <details open=""><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 +++(मधुरकवि-श्लोक-दशक-प्रतिपादिताचार्यानुग्रह-लाभाः- )+++  
@@ -269,14 +269,22 @@ por hacer brillante el camino de los Vedas en todo el mundo.
 तऩ्-पऱ्ऱिल्+++(=स्नेहे)+++, विनै+++(=पाप)+++-विलक्किल्+++(=निवर्तने)+++, +तगव्+++(=कृपा)+++-ओक्कत्तिल्+++(=आधिक्ये)+++  
 तत्तुवत्तैय् उणर्त्तुदलिल्+++(=निश्चयने)+++, तऩ्-मैयाक्किल्+++(=तन्मयत्वे)+++,  
 अन्बर्क्केय्+++(=स्निग्धेभ्य)+++ अवतरिक्कुम् आय(ऩ्)+++(=गोपस्य)+++ निऱ्कव्+++(=स्थितौ)+++  
++++(तम् उपेक्ष्य)+++  
 अरु+++(=धर्म)+++-मऱैगळ्+++(=छन्दांसि←आच्छादने)+++ तमिऴ् सॆय्दाऩ्-ताळे+++(=पादौ)+++ कॊण्डु,  
 तुन्ब्+++(=दुष्ट)+++-अऱ्ऱ+++(=इतर)+++ मधुरकवि तोऩ्ऱक्+++(=स्पष्टं)+++ काट्टुऩ्  
-तॊल्+++(=प्राचीन)+++-वऴिये नल्-वऴिगळ् +++([मुमुक्षु-])+++तुणिवार्कट्क्+++(=धीरेभ्यः)+++  ए. (2)
+तॊल्+++(=प्राचीन)+++-वऴिये नल्-वऴिगळ् +++([मुमुक्षु-])+++तुणिवार्कट्के+++(=धीरेभ्यः)+++ . (2)
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-(गाथा) आनन्दे, समाश्रयणे, अभ्य्-उपगमनीय-पुरुषार्थे, अप्रच्युत-बहुविधसंबन्धे, रागनिवृत्तौ, स्वसंबन्धापादने, कर्म-निवारणे, कृपोत्कर्षे, तत्त्वोद्बोधने, स्वस्वभावापादने च (विषये) भक्तार्थमेवावतीर्णे गोपाले स्थिते सति सूक्ष्मा(र्थान्) वेदान् द्राविडीकृतवतः (कुरुकेशस्य) चरणावेवावलम्ब्य दुःखरहितभूतेन मधुरकविना प्रदर्शितानादिमार्ग एव धैर्यवतां सन्मार्गाः ॥
+(गाथा) आनन्दे, समाश्रयणे, अभ्य्-उपगमनीय-पुरुषार्थे, अप्रच्युत-बहु-विध-संबन्धे, राग-निवृत्तौ, स्वसंबन्धापादने, कर्म-निवारणे,  
+कृपोत्कर्षे, तत्त्वोद्बोधने, स्व-स्वभावापादने च (विषये)  
+भक्तार्थम् एवावतीर्णे गोपाले स्थिते सति,   
++++(तम् उपेक्ष्य)+++  
+सूक्ष्मा(र्थान्) वेदान् द्राविडीकृतवतः  
+(कुरुकेशस्य) चरणाव् एवावलम्ब्य  
+दुःख-रहित-भूतेन मधुर-कविना  
+प्रदर्शितानादिमार्ग एव धैर्यवतां सन्-मार्गाः ॥
 </details>
 
 
@@ -288,16 +296,16 @@ por hacer brillante el camino de los Vedas en todo el mundo.
 <details><summary>English</summary>
 
 To those who venture to attain release from the bondage of saṁsāra,  
-the ancient path indicated to us by the spotless Madhurakavi  by his own example is the only safe[^3]  path,  
+the ancient path indicated to us by the spotless Madhurakavi  by his own example is the only safe[3]  path,  
 
 for while there is Śrīkṛṣṇa, the great cowherd, who incarnated solely for the sake of his devotees to confer bliss on them, to be their refuge, to be their final goal, to stand in relation to them as mother, father, brother and so on,  
-to change their desire for the pleasures of this world into a desire for Himself, to remove all their sins, to show them infinite compassion, to reveal the truth, and so also to bring about in them a likeness to Himself - while there is Śrīkṛṣṇa ever ready to do all this,[^4]  
+to change their desire for the pleasures of this world into a desire for Himself, to remove all their sins, to show them infinite compassion, to reveal the truth, and so also to bring about in them a likeness to Himself - while there is Śrīkṛṣṇa ever ready to do all this,[4]  
 
 he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil the truths contained in the Vedas which are otherwise hard to understand.
 
-[^3]: safe path: This means Bhakti and Prapatti which lead to mokṣa . Acārya bhakti is called bhakti and prapatti as it leads to them.
+[3]: safe path: This means Bhakti and Prapatti which lead to mokṣa . Acārya bhakti is called bhakti and prapatti as it leads to them.
 
-[^4]: Madhurakavi in his decade of Tamil verses, says that, to him, Nammalvar is the only God and that through him, he expects to derive all the benefits that men expect to have from God Himself. The path indicated by him is that of devotion to the ācārya for attaining mukti as well as other things.
+[4]: Madhurakavi in his decade of Tamil verses, says that, to him, Nammalvar is the only God and that through him, he expects to derive all the benefits that men expect to have from God Himself. The path indicated by him is that of devotion to the ācārya for attaining mukti as well as other things.
 </details>
 
 <details><summary>Español</summary>
@@ -354,7 +362,6 @@ que de otro modo **son** difíciles de **entender**.
 </details>
 
 
-## आचार्यापेक्षा
 
 <details><summary>English</summary>
 
@@ -368,29 +375,46 @@ LA ĀCĀRYA **ESTA ESENCIAL** PARA MOKṢA:
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “पापिष्ठः क्षत्रबन्धुश्च  
-पुण्डरीकश्च +++(आपद्य् अपि)+++ पुण्यकृत् ।  
+> “पापिष्ठः क्षत्र-बन्धुश् च  
+पुण्डरीकश् च +++(आपद्य् अपि)+++ पुण्यकृत् ।  
 आचार्यवत्तया मुक्तौ  
-तस्मादाचार्यवान् भवेत् ॥”  
+तस्माद् आचार्यवान् भवेत् ॥”  
 > +++(पुण्यपापे लीलाविभूताव् एव भोक्तव्ये, न मोक्षवत् परमपदे। )+++
 
 ऎऩ्ऱु आचार्यवत्तैये  
-सर्वरुक्कुम् मोक्षकारणम् ऎऩ्ऱ् अऱुदिय्+++(=निश्चित्य)+++ इट्टार्गळ् .  
+सर्वरुक्कुम् मोक्ष-कारणम् ऎऩ्ऱ् अऱुदिय्+++(=निश्चित्य)+++ इट्टार्गळ् .  
 </details>
 
 
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> “पापिष्ठः क्षत्र-बन्धुश् च  
+पुण्डरीकश् च +++(आपद्य् अपि)+++ पुण्यकृत् ।  
+आचार्यवत्तया मुक्तौ  
+तस्माद् आचार्यवान् भवेत् ॥”  
+> +++(पुण्यपापे लीलाविभूताव् एव भोक्तव्ये, न मोक्षवत् परमपदे। )+++
+
+इति आचार्यवत्तैव सर्वेषां मोक्ष-कारणम् इति निर्धारयाम् आसुः ॥
+</details>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
-क्षत्रबन्धुर् भ्रष्ट-क्षत्रियो वनस्थो लुण्ठको ऽकस्मात्  
-तटाके स्खलितम् ऋषिं रक्षितुं  
+क्षत्रबन्धुर् भ्रष्ट-क्षत्रियो वन-स्थो लुण्ठको  
+ऽकस्मात् तटाके स्खलितम् ऋषिं रक्षितुं  
 प्रेरणां लेभे।  
-तत्-प्रतिचिकीर्षया "सन्मार्गप्रवर्तनानेच्छायाम् अपि  
+तत्-प्रतिचिकीर्षया  
+"सन्-मार्गे प्रवर्तने ऽनेच्छायाम् अपि  
 गोविन्दनाम स्मर" इत्य् उपदिष्टः।  
 पुनः पुनस् तन्नाम स्मरति स्म।  
 कालक्रमेण +आचार्यं लब्ध्वा  
 जन्मान्तरे भक्तिमार्गेण मुक्तः। 
+
+पुण्डरीक इति विप्रः बहु तीर्थयात्रादि कृत्वाऽपि  
+भगवद्-दर्शनं न लेभे।  
+नारदेनाष्टाक्षरमन्त्रोपदेशं लब्ध्वा, तद्-अनन्तरम् अमुच्यत। 
 </details>
+
 
 <details><summary>English</summary>
 
@@ -463,11 +487,21 @@ el único medio de asegurar mokṣa es tener un ācārya.
 महर्षिकळ् ऎऩ्ऱु शेषम्। 
 </details>
 
-
+## आचार्य-तति-स्मृत्य्-अपेक्षा
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुमुक्षुवुक्कु आचार्य-वंशम् भगवान् अळवुं सॆल्ल+++(=यावत्)+++ अनुसन्धिक्क वेणुम् ऎऩ्ऱ् +++(श्रुतियिल्)+++ ओदप्-पट्टदु.
+मुमुक्षुवुक्कु आचार्य-वंशम् भगवान् अळवुं सॆल्ल+++(=यावत्)+++ अनुसन्धिक्क वेणुम्  
+ऎऩ्ऱ् +++(श्रुतियिल्)+++ ओदप्-पट्टदु.
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मुमुक्षोर् आचार्य-वंशो  
+ऽनुक्रमेण भगवत्पर्यन्तगामितया ऽनुसन्धेय  
+
+इत्य् आम्नातम् अस्ति ।
+</details>
+
 
 <details><summary>English</summary>
 
