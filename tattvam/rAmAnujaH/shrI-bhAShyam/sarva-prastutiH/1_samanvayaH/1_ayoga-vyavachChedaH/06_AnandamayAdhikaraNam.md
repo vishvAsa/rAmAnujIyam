@@ -5796,7 +5796,7 @@ and 'abundance' being one of the possible meanings of -maya.--
 
 <details><summary>Translation</summary>
 
-Since bliss such as described in the Taitt. Up.--bliss which is reached by successively multiplying by hundred all inferior kinds of bliss – cannot belong to the individual soul, we conclude that it belongs to Brahman; and as Brahman cannot be an effect, and as -maya may have the sense of 'abounding in,' we conclude that the ānandamaya is Brahman itself; inner contradiction obliging us to set aside that sense of -maya which is recommended by regard to 'consequence' and frequency of usage.
+Since bliss such as described in the Taitt. Up.--bliss which is reached by successively multiplying by hundred all inferior kinds of bliss – cannot belong to the individual soul, we conclude that it belongs to Brahman; and as Brahman cannot be an effect, and as -maya may have the sense of 'abounding in,' we conclude that the ānandamaya is Brahman itself; 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5813,15 +5813,17 @@ Since bliss such as described in the Taitt. Up.--bliss which is reached by succe
 
 ---
 
+### अर्थ-विरोध-बलीयस्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-औचित्यात् प्रयोग-प्रौढ्या च  
-मयटो विकारार्थत्वम् अर्थ-विरोधान् न सम्भवति।
++++(प्रकरणय्)+++ औचित्यात्, प्रयोग-प्रौढ्या+++(→बाहुल्याच्)+++ च  
+मयटो विकारार्थत्वम्  
++++(पूर्वोक्ताद्)+++ अर्थ-विरोधान् न सम्भवति।
 </details>
 
 <details><summary>Translation</summary>
 
-The regard for consistency, moreover, already has to be set aside in the case of the 'prāṇamaya'; for in that term -maya cannot denote 'made of.'
+inner contradiction obliging us to set aside that sense of -maya which is recommended by regard to 'consequence' and frequency of usage.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5831,23 +5833,37 @@ The regard for consistency, moreover, already has to be set aside in the case of
 
 <details><summary>टीका</summary>
 
-बाधकसद्भावाद्विकारार्थत्वं त्यज्यते चेत्, पूर्वोक्तसाधकसद्भावात् तत् स्वीक्रियतामिति शङ्ककायाम्, परेण विकारार्थत्वस्वीकारसाधकतयोक्तमग्रयप्रायन्यायं प्रयोगप्राचुयर्ं च परिहरति औचित्यादिति । औचित्यम्- प्रकरणौचित्यम् । तत् लिङ्गबाध्यम् । प्रयोगप्रसिद्धिरपि गङ्गापदादिष्वर्थविरोधेन बाधिता । अतः उभयमपि प्रमाणान्तराबाधितत्वे सत्येवार्थसाधकम् ।
+> बाधक-सद्-भावाद् विकारार्थत्वं त्यज्यते चेत्,  
+पूर्वोक्त-साधक-सद्-भावात्  
+तत् स्वीक्रियताम् 
 
-अत्र त्वर्थविरोधान्न साधकमित्यर्थः ।
+इति शङ्कायाम्,  
+परेण विकारार्थत्व-स्वीकार-साधकतयोक्तम्  
+अग्र्य-प्राय-न्यायं प्रयोग-प्राचुर्यं च परिहरति - औचित्याद् इति ।  
 
-अर्थविरोधात्- आनन्दमये जीव त्वविकारत्वयोः पूर्वोक्तादसंभवादित्यर्थः ।
+औचित्यम् - प्रकरणौचित्यम् । तल् लिङ्गबाध्यम् ।  
+
+प्रयोग-प्रसिद्धिर् अपि  
+गङ्गा-पदादिष्व् अर्थ-विरोधेन बाधिता ।  
+अतः उभयम् अपि प्रमाणान्तराबाधितत्वे सत्य् एवार्थसाधकम् ।  
+अत्र त्व् अर्थविरोधान् न साधकम् इत्यर्थः ।
+
+अर्थ-विरोधात् -  
+आनन्दमये जीवत्व-विकारत्वयोः पूर्वोक्ताद् असंभवाद् इत्य् अर्थः ।
 </details>
 
 ---
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च औचित्यं प्राणमय एव परित्यक्तम्, तत्र विकारार्थत्वासम्भवात्।
+किञ्च +++(प्रकरणय्)+++ औचित्यं  
+प्राणमय एव परित्यक्तम्,  
+तत्र विकारार्थत्वासम्भवात्।
 </details>
 
 <details><summary>Translation</summary>
 
-The 'prāṇamaya' Self can only be called by that name in so far as air with its five modifications has (among others) the modification called prāṇa, i.e. breathing out,
+The regard for consistency, moreover, already has to be set aside in the case of the 'prāṇamaya'; for in that term -maya cannot denote 'made of.'  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5872,11 +5888,15 @@ The 'prāṇamaya' Self can only be called by that name in so far as air with it
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस् तत्र पञ्च-वृत्तेर् वायोः प्राण-वृत्ति-मत्ता-मात्रेण प्राणमयत्वम्, प्राणापानादिषु पञ्चसु वृत्तिषु प्राण-वृत्तेः प्राचुर्याद् वा ।
+अतस् तत्र पञ्च-वृत्तेर् वायोः  
+प्राण-वृत्तिमत्ता-मात्रेण प्राणमयत्वम्,  
+प्राणापानादिषु पञ्चसु वृत्तिषु  
+प्राण-वृत्तेः प्राचुर्याद् वा ।
 </details>
 
 <details><summary>Translation</summary>
 
+The 'prāṇamaya' Self can only be called by that name in so far as air with its five modifications has (among others) the modification called prāṇa, i.e. breathing out,
 or because among the five modifications or functions of air prāṇa is the 'abounding,' i.e. prevailing one.--
 </details>
 
@@ -5891,10 +5911,11 @@ or because among the five modifications or functions of air prāṇa is the 'abo
 </details>
 
 ---
-
+### प्राचुर्ये प्रयोग-बाहुल्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च प्राचुर्ये मयट् प्रत्ययस्य प्रौढिर् नास्ति, अन्नमयो यज्ञः, शकटमयी यात्रा इत्य् आदिषु दर्शनात्॥
+न च प्राचुर्ये मयट्-प्रत्ययस्य प्रौढिर् नास्ति,  
+"अन्नमयो यज्ञः", "शकटमयी यात्रा" इत्य्-आदिषु दर्शनात्॥
 </details>
 
 <details><summary>Translation</summary>
@@ -5908,10 +5929,14 @@ Nor can it be truly said that -maya is but rarely used in the sense of 'aboundin
 </details>
 
 ---
-
+### नाल्पदुःखोक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् उक्तम् आनन्द-प्राचुर्यम् अल्प-दुःख-सद्भावम् अवगमयतीति; तद् असत्, तत्-प्रचुरत्वं हि तत्-प्रभूतत्वम्, तच् च इतरस्य सत्तां ना अवगमयति; अपि तु तस्य अल्पत्वं निवर्तयति।
+यद् उक्तम् आनन्द-प्राचुर्यम् अल्प-दुःख-सद्भावम् अवगमयतीति;  
+तद् असत्,  
+तत्-प्रचुरत्वं हि तत्-प्रभूतत्वम्,  
+तच् चेतरस्य सत्तां नावगमयति;  
+अपि तु तस्याल्पत्वं निवर्तयति।
 </details>
 
 <details><summary>Translation</summary>
@@ -5941,7 +5966,13 @@ Nor can we admit that to call something 'abounding in bliss' implies the presenc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतर-सद्भावासद्भावौ तु प्रमाणान्तराभ्याम् अवसेयौ, इह च प्रमाणान्तरेण तद्-अभावो अवगम्यते अपहत-पाप्मा (छा.८-२-५) इत्य् आदिना।
+इतर-सद्-भावासद्भावौ तु  
+प्रमाणान्तराभ्याम् अवसेयौ,  
+इह च प्रमाणान्तरेण तद्-अभावो ऽवगम्यते  
+
+> अपहत-पाप्मा (छा.८-२-५) 
+
+इत्य् आदिना।
 </details>
 
 <details><summary>Translation</summary>
@@ -5967,7 +5998,9 @@ The presence or absence of what is contrary has to be ascertained by other means
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र एतावद् एव वक्तव्यं, ब्रह्मानन्दस्य प्रभूतत्वम् अन्यानन्दस्य अल्पत्वम् अपेक्षत इति।
+तत्र एतावद् एव वक्तव्यं,  
+ब्रह्मानन्दस्य प्रभूतत्वम्  
+अन्यानन्दस्याल्पत्वम् अपेक्षत इति।
 </details>
 
 <details><summary>Translation</summary>
