@@ -1054,7 +1054,7 @@ Now that which consists of understanding (vijñāna) is the individual soul (jī
 
 <details><summary>टीका</summary>
 
-अत्रेदम् उपान्तम्, अस्मिन् वाक्ये विज्ञानमय-शब्दस्य बुद्धि-मात्र-परत्वं व्युदस्यति - विज्ञानमयो हीति । "यो ऽयं विज्ञानमयः प्राणेषु हृद्य्-अन्तर-ज्योतिः पुरुषः" इति श्रुति-प्रसिद्धि-द्योतको हि-शब्दः । शब्द-स्वारस्यानुग्राहक-प्रत्यक्ष-प्रसिद्धि-द्योतको वा, अहं जानामीति ज्ञातृत्वं ह्यात्मनः [[पतीयते|प्रतीयते]] । ज्ञप्ति-वाचिनो विज्ञानमय-शब्दस्य ज्ञायते ऽनेन इति व्युत्पत्त्या अन्तःकरण-परत्वम् अस्वरसम् इत्य् अभिप्रयन्न् आह - न बुद्धि-मात्रम् इति । मात्रचा अभिप्रेतं प्रत्यय-वैयर्थ्यं विशदयति - मयट्-प्रत्ययेनेति । प्रकरण-वशात् स्वार्थिकत्वम् आशङ्कयाह - प्राणमये त्वति । अगत्या विकार-प्राचुर्याद्य्-अर्थान्तरासम्भवात् । पक्षे तद्-वैषम्यम् आह - इह त्वति । तद्वतो इति - [[प्रातुर्यार्थत्वं|प्राचुर्यार्थत्वं]] सम्भवतीत्य् अर्थः ।
+अत्रेदम् उपान्तम्, अस्मिन् वाक्ये विज्ञानमय-शब्दस्य बुद्धि-मात्र-परत्वं व्युदस्यति - विज्ञानमयो हीति । "यो ऽयं विज्ञानमयः प्राणेषु हृद्य्-अन्तर-ज्योतिः पुरुषः" इति श्रुति-प्रसिद्धि-द्योतको हि-शब्दः । शब्द-स्वारस्यानुग्राहक-प्रत्यक्ष-प्रसिद्धि-द्योतको वा, अहं जानामीति ज्ञातृत्वं ह्यात्मनः [[पतीयते|प्रतीयते]] । ज्ञप्ति-वाचिनो विज्ञानमय-शब्दस्य ज्ञायते ऽनेन इति व्युत्पत्त्या अन्तःकरण-परत्वम् अस्वरसम् इत्य् अभिप्रयन्न् आह - न बुद्धि-मात्रम् इति । मात्रचा अभिप्रेतं प्रत्यय-वैयर्थ्यं विशदयति - मयट्-प्रत्ययेनेति । प्रकरण-वशात् स्वार्थिकत्वम् आशङ्कयाह - प्राणमये त्वति । अगत्या विकार-प्राचुर्याद्य्-अर्थान्तरासम्भवात् । पक्षे तद्-वैषम्यम् आह - इह त्वति । तद्वतो इति - [[प्राचुर्यार्थत्वं|प्राचुर्यार्थत्वं]] सम्भवतीत्य् अर्थः ।
 </details>
 
 ---
@@ -5776,7 +5776,7 @@ and 'abundance' being one of the possible meanings of -maya.--
 
 <details><summary>टीका</summary>
 
-न केवलं प्रातुर्यरूपार्थसद्भावेनालम्, शब्दशक्तिश्चापेक्षितेति शङ्कायां सूत्राभिप्रेतार्थमाह प्राचुर्यार्थे चेति ।
+न केवलं प्राचुर्यरूपार्थसद्भावेनालम्, शब्दशक्तिश्चापेक्षितेति शङ्कायां सूत्राभिप्रेतार्थमाह प्राचुर्यार्थे चेति ।
 </details>
 
 ---
@@ -5796,7 +5796,7 @@ and 'abundance' being one of the possible meanings of -maya.--
 
 <details><summary>Translation</summary>
 
-Since bliss such as described in the Taitt. Up.--bliss which is reached by successively multiplying by hundred all inferior kinds of bliss – cannot belong to the individual soul, we conclude that it belongs to Brahman; and as Brahman cannot be an effect, and as -maya may have the sense of 'abounding in,' we conclude that the ānandamaya is Brahman itself; inner contradiction obliging us to set aside that sense of -maya which is recommended by regard to 'consequence' and frequency of usage.
+Since bliss such as described in the Taitt. Up.--bliss which is reached by successively multiplying by hundred all inferior kinds of bliss – cannot belong to the individual soul, we conclude that it belongs to Brahman; and as Brahman cannot be an effect, and as -maya may have the sense of 'abounding in,' we conclude that the ānandamaya is Brahman itself; 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5806,22 +5806,24 @@ Since bliss such as described in the Taitt. Up.--bliss which is reached by succe
 
 <details><summary>टीका</summary>
 
-मयट्प्रत्ययस्य प्रातुर्यार्थत्वमपि संभवतु, तथाऽपि विकारार्थत्वपरित्यागे को हेतुरित्यत्राह एतदुक्तमिति । अभ्यस्यमानानन्दयोगः उत्तरसूत्रगतानामन्येषामपि हेतूनां प्रदर्शनार्थः ।
+मयट्प्रत्ययस्य प्राचुर्यार्थत्वमपि संभवतु, तथाऽपि विकारार्थत्वपरित्यागे को हेतुरित्यत्राह एतदुक्तमिति । अभ्यस्यमानानन्दयोगः उत्तरसूत्रगतानामन्येषामपि हेतूनां प्रदर्शनार्थः ।
 
 अयोग्यत्वं त्यागहेतुरित्यर्थः ।
 </details>
 
 ---
 
+### अर्थ-विरोध-बलीयस्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-औचित्यात् प्रयोग-प्रौढ्या च  
-मयटो विकारार्थत्वम् अर्थ-विरोधान् न सम्भवति।
++++(प्रकरणय्)+++ औचित्यात्, प्रयोग-प्रौढ्या+++(→बाहुल्याच्)+++ च  
+मयटो विकारार्थत्वम्  
++++(पूर्वोक्ताद्)+++ अर्थ-विरोधान् न सम्भवति।
 </details>
 
 <details><summary>Translation</summary>
 
-The regard for consistency, moreover, already has to be set aside in the case of the 'prāṇamaya'; for in that term -maya cannot denote 'made of.'
+inner contradiction obliging us to set aside that sense of -maya which is recommended by regard to 'consequence' and frequency of usage.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5831,23 +5833,37 @@ The regard for consistency, moreover, already has to be set aside in the case of
 
 <details><summary>टीका</summary>
 
-बाधकसद्भावाद्विकारार्थत्वं त्यज्यते चेत्, पूर्वोक्तसाधकसद्भावात् तत् स्वीक्रियतामिति शङ्ककायाम्, परेण विकारार्थत्वस्वीकारसाधकतयोक्तमग्रयप्रायन्यायं प्रयोगप्राचुयर्ं च परिहरति औचित्यादिति । औचित्यम्- प्रकरणौचित्यम् । तत् लिङ्गबाध्यम् । प्रयोगप्रसिद्धिरपि गङ्गापदादिष्वर्थविरोधेन बाधिता । अतः उभयमपि प्रमाणान्तराबाधितत्वे सत्येवार्थसाधकम् ।
+> बाधक-सद्-भावाद् विकारार्थत्वं त्यज्यते चेत्,  
+पूर्वोक्त-साधक-सद्-भावात्  
+तत् स्वीक्रियताम् 
 
-अत्र त्वर्थविरोधान्न साधकमित्यर्थः ।
+इति शङ्कायाम्,  
+परेण विकारार्थत्व-स्वीकार-साधकतयोक्तम्  
+अग्र्य-प्राय-न्यायं प्रयोग-प्राचुर्यं च परिहरति - औचित्याद् इति ।  
 
-अर्थविरोधात्- आनन्दमये जीव त्वविकारत्वयोः पूर्वोक्तादसंभवादित्यर्थः ।
+औचित्यम् - प्रकरणौचित्यम् । तल् लिङ्गबाध्यम् ।  
+
+प्रयोग-प्रसिद्धिर् अपि  
+गङ्गा-पदादिष्व् अर्थ-विरोधेन बाधिता ।  
+अतः उभयम् अपि प्रमाणान्तराबाधितत्वे सत्य् एवार्थसाधकम् ।  
+अत्र त्व् अर्थविरोधान् न साधकम् इत्यर्थः ।
+
+अर्थ-विरोधात् -  
+आनन्दमये जीवत्व-विकारत्वयोः पूर्वोक्ताद् असंभवाद् इत्य् अर्थः ।
 </details>
 
 ---
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च औचित्यं प्राणमय एव परित्यक्तम्, तत्र विकारार्थत्वासम्भवात्।
+किञ्च +++(प्रकरणय्)+++ औचित्यं  
+प्राणमय एव परित्यक्तम्,  
+तत्र विकारार्थत्वासम्भवात्।
 </details>
 
 <details><summary>Translation</summary>
 
-The 'prāṇamaya' Self can only be called by that name in so far as air with its five modifications has (among others) the modification called prāṇa, i.e. breathing out,
+The regard for consistency, moreover, already has to be set aside in the case of the 'prāṇamaya'; for in that term -maya cannot denote 'made of.'  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5872,11 +5888,15 @@ The 'prāṇamaya' Self can only be called by that name in so far as air with it
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस् तत्र पञ्च-वृत्तेर् वायोः प्राण-वृत्ति-मत्ता-मात्रेण प्राणमयत्वम्, प्राणापानादिषु पञ्चसु वृत्तिषु प्राण-वृत्तेः प्राचुर्याद् वा ।
+अतस् तत्र पञ्च-वृत्तेर् वायोः  
+प्राण-वृत्तिमत्ता-मात्रेण प्राणमयत्वम्,  
+प्राणापानादिषु पञ्चसु वृत्तिषु  
+प्राण-वृत्तेः प्राचुर्याद् वा ।
 </details>
 
 <details><summary>Translation</summary>
 
+The 'prāṇamaya' Self can only be called by that name in so far as air with its five modifications has (among others) the modification called prāṇa, i.e. breathing out,
 or because among the five modifications or functions of air prāṇa is the 'abounding,' i.e. prevailing one.--
 </details>
 
@@ -5891,10 +5911,11 @@ or because among the five modifications or functions of air prāṇa is the 'abo
 </details>
 
 ---
-
+### प्राचुर्ये प्रयोग-बाहुल्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च प्राचुर्ये मयट् प्रत्ययस्य प्रौढिर् नास्ति, अन्नमयो यज्ञः, शकटमयी यात्रा इत्य् आदिषु दर्शनात्॥
+न च प्राचुर्ये मयट्-प्रत्ययस्य प्रौढिर् नास्ति,  
+"अन्नमयो यज्ञः", "शकटमयी यात्रा" इत्य्-आदिषु दर्शनात्॥
 </details>
 
 <details><summary>Translation</summary>
@@ -5908,10 +5929,14 @@ Nor can it be truly said that -maya is but rarely used in the sense of 'aboundin
 </details>
 
 ---
-
+### नाल्पदुःखोक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद् उक्तम् आनन्द-प्राचुर्यम् अल्प-दुःख-सद्भावम् अवगमयतीति; तद् असत्, तत्-प्रचुरत्वं हि तत्-प्रभूतत्वम्, तच् च इतरस्य सत्तां ना अवगमयति; अपि तु तस्य अल्पत्वं निवर्तयति।
+यद् उक्तम् आनन्द-प्राचुर्यम् अल्प-दुःख-सद्भावम् अवगमयतीति;  
+तद् असत्,  
+तत्-प्रचुरत्वं हि तत्-प्रभूतत्वम्,  
+तच् चेतरस्य सत्तां नावगमयति;  
+अपि तु तस्याल्पत्वं निवर्तयति।
 </details>
 
 <details><summary>Translation</summary>
@@ -5941,7 +5966,13 @@ Nor can we admit that to call something 'abounding in bliss' implies the presenc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतर-सद्भावासद्भावौ तु प्रमाणान्तराभ्याम् अवसेयौ, इह च प्रमाणान्तरेण तद्-अभावो अवगम्यते अपहत-पाप्मा (छा.८-२-५) इत्य् आदिना।
+इतर-सद्-भावासद्भावौ तु  
+प्रमाणान्तराभ्याम् अवसेयौ,  
+इह च प्रमाणान्तरेण तद्-अभावो ऽवगम्यते  
+
+> अपहत-पाप्मा (छा.८-२-५) 
+
+इत्य् आदिना।
 </details>
 
 <details><summary>Translation</summary>
@@ -5958,7 +5989,7 @@ The presence or absence of what is contrary has to be ascertained by other means
 
 तर्हि व्यवच्छेद्याभावे प्रत्ययवैयथ्यर्मित्यत्राह अपि त्विति ।
 
-यदि प्राचुर्यवाचिमयूदप्रत्ययः स्वयं नार्थान्तरसद्भावे प्रमाणम्, तर्हि तत्सद्भावः केनावगम्यत इत्यत्राह इतरेति ।
+यदि प्राचुर्यवाचिमयट्-प्रत्ययः स्वयं नार्थान्तरसद्भावे प्रमाणम्, तर्हि तत्सद्भावः केनावगम्यत इत्यत्राह इतरेति ।
 
 ततः किमत्यपेक्षायां पराभिमतप्रतियोग्यभावो ब्रह्मणि प्रमाणसिद्ध इत्याह इह चेति ।
 </details>
@@ -5967,7 +5998,9 @@ The presence or absence of what is contrary has to be ascertained by other means
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र एतावद् एव वक्तव्यं, ब्रह्मानन्दस्य प्रभूतत्वम् अन्यानन्दस्य अल्पत्वम् अपेक्षत इति।
++++("आनन्दः प्रचुरः कस्यापेक्षया?"→)+++ तत्रैतावद् एव वक्तव्यं,  
+ब्रह्मानन्दस्य प्रभूतत्वम्  
+अन्यानन्दस्याल्पत्वम् अपेक्षत इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -5982,9 +6015,18 @@ Abundance of bliss on the part of Brahman certainly implies a relation to paucit
 
 <details><summary>टीका</summary>
 
-तर्हि ब्रह्मणि प्रमाणविरुद्धप्रतियोगिदुःखान्वयद्योतको मयर्डर्थंस्त्यज्यताम्; इतरथा तस्यानन्दप्रातुर्यस्य प्रतियोगि किमित्यत्राह तत्रैतावदिति ।
+> तर्हि ब्रह्मणि प्रमाण-विरुद्ध-प्रतियोगि-दुःखान्वय-द्योतको मयड्-अर्थंस् त्यज्यताम्;  
+इतरथा तस्यानन्द-प्राचुर्यस्य प्रतियोगि किम् 
 
-प्रमाणान्तरसिद्धार्थान्तरप्रतियोगिकं प्रातुर्यमभिदधतो मयूदप्रत्ययस्य स्वयमर्थान्तरसाधकत्वाभावात् ब्रह्मणि च दुःखसंबन्धस्य प्रमाणबाधितत्वात् जीवानन्दाल्पत्वस्य लोकसिद्धत्वाच्च ब्रह्मानन्दप्राचुर्यप्रतियोगि जीवानन्दाल्पत्वमिति अर्थात्सिद्धमित्यर्थः ।
+इत्य्-अत्राह तत्रैतावदिति ।
+
+प्रमाणान्तर-सिद्धार्थान्तर-प्रतियोगिकं प्राचुर्यम् अभिदधतो मयट्-प्रत्ययस्य  
+स्वयम्-अर्थान्तर-साधकत्वाभावात्  
+ब्रह्मणि च दुःख-संबन्धस्य प्रमाण-बाधितत्वात्  
+जीवानन्दाल्पत्वस्य लोक-सिद्धत्वाच् च  
+ब्रह्मानन्द-प्राचुर्य-प्रतियोगि जीवानन्दाल्पत्वम्  
+इति अर्थात् सिद्धम्  
+इत्यर्थः ।
 
 जीवानन्दाल्पत्वस्य प्रतियोगित्वं न केवलमर्थसिद्धम्, अपि तु कण्ठोक्तं चेत्याह उच्यते चेति । अयमर्थः- यदि सजातीयाल्पत्वं समानाश्रयं प्रतियोगि तत् व्याहतम् । यदि विजातीयं समानाश्रयम्, तत् प्रमाणान्तराधीनसद्भावासद्भावम् । अन्याश्रयमपि सजातीयं विजातीयं वा प्रतियोगि मानान्तरावसेयम् ।
 
@@ -5999,7 +6041,12 @@ Abundance of bliss on the part of Brahman certainly implies a relation to paucit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उच्यते च तत् स एको मानुष आनन्दः (तै.आन.८.अनु) इत्य् आदिना जीवानन्दापेक्षया ब्रह्मानन्दो निरतिशय-दशा-पन्नः प्रभूत इति।
+उच्यते च तत् -  
+
+> स एको मानुष आनन्दः (तै.आन.८.अनु) 
+
+इत्य्-आदिना,  
+जीवानन्दापेक्षया ब्रह्मानन्दो निरतिशय-दशा-पन्नः प्रभूत इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -6014,9 +6061,14 @@ and in accordance with this demand the text says 'That is one measure of human b
 
 ---
 
+### जीवो नानन्द-विकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यच् चोक्तं जीवस्य आनन्द-विकारत्वं सम्भवतीति; तद् अपि न उपपद्यते, जीवस्य ज्ञानानन्द-स्वरूपस्य केनचिद् आकारेण मृद इव घटाद्याकारेण परिणामः सकल-श्रुति-स्मृति-न्याय-विरुद्धः।
+यच् चोक्तं, जीवस्यानन्द-विकारत्वं सम्भवतीति;  
+तद् अपि नोपपद्यते,  
+जीवस्य ज्ञानानन्द-स्वरूपस्य  
+केनचिद् आकारेण मृद इव घटाद्य्-आकारेण परिणामः  
+सकल-श्रुति-स्मृति-न्याय-विरुद्धः।
 </details>
 
 <details><summary>Translation</summary>
@@ -6044,7 +6096,8 @@ Nor can it be maintained that the individual soul may be viewed as being an effe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संसार-दशायां तु कर्मणा ज्ञानानन्दौ सङ्कुचिताव् इत्य् उपपादयिष्येते।
+संसार-दशायां तु  
+कर्मणा ज्ञानानन्दौ सङ्कुचिताव् इत्य् उपपादयिष्येते।
 </details>
 
 <details><summary>Translation</summary>
@@ -6066,7 +6119,7 @@ That in the Saṁsāra state the soul's bliss and knowledge are contracted owing
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतश् च आनन्दमयो जीवाद् अन्यः परं ब्रह्म॥१४॥
+अतश् च - आनन्दमयो जीवाद् अन्यः परं ब्रह्म॥१४॥
 </details>
 
 <details><summary>Translation</summary>
