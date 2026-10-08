@@ -502,22 +502,30 @@ el único medio de asegurar mokṣa es tener un ācārya.
 इत्य् आम्नातम् अस्ति ।
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> ‘‘स चाचार्यवंशो ज्ञेयः,  
+आचार्याणाम् असाव् असाव् इत्य् आ-भगवत्तः’’ 
+
+इति श्रुतिः।
+</details>
+
 
 <details><summary>English</summary>
 
-To the man desirous of mokṣa , the line of ācāryas is stated in the śruti[^7] to extend upward even to the Supreme Bhagavān for purposes of meditation.
+To the man desirous of mokṣa , the line of ācāryas is stated in the śruti[7] to extend upward even to the Supreme Bhagavān for purposes of meditation.
 
-[^7]: The śruti  referred to here means - “This line of the ācāryas extends up to Bhagavān thus: This is his ācārya; his ācārya is so and so and so on up to the Lord".
+[7]: The śruti  referred to here means - “This line of the ācāryas extends up to Bhagavān thus: This is his ācārya; his ācārya is so and so and so on up to the Lord".
 </details>
 
 <details><summary>Español</summary>
 
 Al hombre deseoso de Mokṣa,  
-la línea de ācāryas se indica en el Śruti [^es7]  
+la línea de ācāryas se indica en el Śruti [es7]  
 para extenderse incluso al supremo Bhagavān  
 para fines de meditación.
 
-[^es7]: 
+[es7]: 
 
     El Śruti mencionado aquí significa:  
     
@@ -540,7 +548,8 @@ para fines de meditación.
 
 ऎऩ्ऱु। इङ्गु अनुसन्धान पदम् प्रीतिपूर्वक-स्मरणपरम्। ओदप्पट्टदु - 
 
-> ‘‘स चाचार्यवंशो ज्ञेयः, आचार्याणाम् असाव् असाव् इत्य् आ-भगवत्तः’’ 
+> ‘‘स चाचार्यवंशो ज्ञेयः,  
+आचार्याणाम् असाव् असाव् इत्य् आ-भगवत्तः’’ 
 
 ऎऩ्गिऱ रहस्याम्नायश्रुतियिल् सॊल्लप्पट्टदु। विधिक्कप्पट्टदु ऎऩ्ऱबडि। 
 </details>
@@ -560,8 +569,8 @@ Bhagavān el primer ācārya:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘तमिमं सर्वसम्पन्नम्  
-आमाचार्यं पितरं गुरुम् ।  
+> ‘‘तम् इमं सर्व-सम्पन्नम्  
+आचार्यं पितरं गुरुम् ।  
 (अर्च्यम् अर्चितुम् इच्छामि  
 सर्वे सम्मन्तुम् अर्हथ ॥)’’ 
 > +++(इति सहदेवेन राजसूय-यागाग्र-पूजा-प्रसङ्गे प्रत्याक्षिपद्भ्यो वामपादं प्रसार्योक्तं रोषेण)+++
@@ -572,10 +581,12 @@ Bhagavān el primer ācārya:
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘तमिमं सर्वसम्पन्नम्  
-आमाचार्यं पितरं गुरुम् ।  
+आचार्यं पितरं गुरुम् ।  
 (अर्च्यम् अर्चितुम् इच्छामि  
 सर्वे सम्मन्तुम् अर्हथ ॥)’’ 
 > +++(इति सहदेवेन राजसूय-यागाग्र-पूजा-प्रसङ्गे प्रत्याक्षिपद्भ्यो वामपादं प्रसार्योक्तं रोषेण)+++
+
+इति
 </details>
 
 
@@ -628,10 +639,22 @@ como se puede ver en los siguientes pasajes -
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “ममाप्य् अखिल लोकानां  
-गुरुर् नारायणो गुरुः” 
+गुरुर् नारायणो गुरुः”  
++++(– विष्णुपुराणे भूमिः)+++
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “ममाप्य् अखिल लोकानां  
+गुरुर् नारायणो गुरुः” 
++++(– विष्णुपुराणे भूमिः)+++
+
+इति
+</details>
+
+
 <details><summary>English</summary>
 
 > "Nārāyaṇa [^f10] who is the guru of all the world is also my guru", 
@@ -659,10 +682,18 @@ como se puede ver en los siguientes pasajes -
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “त्वमेव बन्धुश् च गुरुस् त्वमेव” 
+> “त्वम् एव बन्धुश् च गुरुस् त्वम् एव” 
 
 ऎऩ्ऱुम्, 
 </details>
+<details><summary>नीलमेघः (सं)</summary>
+
+> “त्वम् एव बन्धुश् च गुरुस् त्वम् एव” 
+
+इति
+</details>
+
+
 <details><summary>English</summary>
 
 > "Thou[^f11] art my kinsman, and Thou art my guru", 
@@ -684,33 +715,34 @@ y
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-नारायण-व्यतिरिक्तऩुक्कु एतादृश-गुरुत्वमिल्लैयॆऩ्बदिल् प्रमाणङ्गाट्टुगिऱार् ‘‘त्वमेव बन्धुश्च गुरुस्त्वमेवेति’’। इदिल् अवधारणम् अन्यरुक्कु एतादृशगुरुत्वमिल्लैयॆऩ्गिऱदु। 
+नारायण-व्यतिरिक्तऩुक्कु एतादृश-गुरुत्वमिल्लैयॆऩ्बदिल् प्रमाणङ्गाट्टुगिऱार् ‘‘त्वमेव बन्धुश्च गुरुस्त्वमेवेति’’।  
+इदिल् अवधारणम् अन्यरुक्कु एतादृशगुरुत्वमिल्लैयॆऩ्गिऱदु। 
 </details>
 
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “गुरुर् असि, +++(मानुष-गुरु-वैलक्षण्येन)+++ गतिश् चासि जगताम्”  
-> +++(यामुनेन स्तोत्ररत्ने)+++
+> +++(– यामुनेन स्तोत्ररत्ने)+++
 
 ऎऩ्ऱुञ् चॊल्लुगिऱप्-पडिये+++(=प्रकारेण)+++ सर्वलोकत्तुक्कुम् परमाचार्यन् आऩ सर्वेश्वरऩ्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> “गुरुर् असि, +++(मानुष-गुरु-वैलक्षण्येन)+++ गतिश् चासि जगताम्”  
+> +++(– यामुनेन स्तोत्ररत्ने)+++
+
+इति चोक्तरीत्या सर्वस्यापि लोकस्य परमाचार्यः सर्वेश्वरो  
+</details>
+
+
 <details><summary>English</summary>
-
-
-
-
 
 > "Thou art[^f12] the guru of all the worlds and likewise their goal". 
 </details>
 
 <details><summary>Español</summary>
-
-
-
-
-
 
 > "Tú eres [^f12] el gurú de todos los mundos  
 > y de la misma manera su objetivo".
@@ -733,6 +765,14 @@ y
 अवऱ्ऱिऱ्कु अपहारम् पिऱन्द-पोदु  
 मीट्टुक्+++(=प्रति)+++ **कॊडुत्तुम्**,  
 इवऩ् मुखम् आग शास्त्रङ्गळैप् **प्रवर्तिप्पित्तुम्**,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ब्रह्मणे आदौ वेदान् प्रदाय,  
+तेषाम् अपहारे जाते  
+पुनस् तान् प्रत्यानीय प्रदाय,  
+एतन्-मुखेन शास्त्राणि प्रवर्त्य, 
 </details>
 
 <details><summary>English</summary>
@@ -773,12 +813,24 @@ y a través de él difundió su conocimiento en el mundo.
 
 इवऩ् पुत्रर्गळ् आऩ सनत्-कुमारादिगळै  
 
-> “स्वयम् आगत-विज्ञाना  
+> “स्वयम्-आगत-विज्ञाना  
 निवृत्तिं धर्मम् आस्थिताः” 
 
 ऎऩ्ऩुम्-पडि पण्णि  
-अवर्गळ् मुखङ्गळाले हित+++(→उपाय)+++-प्रवर्तनं पण्णुवित्तुम्,  
+अवर्गळ् मुखङ्गळाले हित+++(→उपाय)+++-प्रवर्तनं पण्णु-वित्तुम्,  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतत्-पुत्रान् सनत्-कुमारादीन् 
+
+> "स्वयम्-आगत-विज्ञानाः  
+निवृत्तिं धर्मम् आस्थिताः” 
+
+इत्य् उक्ताकारान् आपाद्य  
+तन्-मुखेन च हित+++(→उपायः)+++-प्रवर्तनं कारयित्वा, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -808,14 +860,21 @@ los medios para alcanzar la salvación.
 अध्यात्म-संप्रदायङ् कुलैयाद+++(=नाशमागद)+++-पडि नडत्तियुम्,  
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+इत्य् अन्यान्य-नारद-पराशर-शुक-शौनकादि- -बहु-महर्षि-द्वारा च  
+अध्यात्म-संप्रदायम् अ-विनश्वर-रूपेण प्रवर्त्य,
+</details>
+
+
 <details><summary>English</summary>
 
-It is Bhagavān who, later by the agency of such great seers as Nārada , Parāśara, Śuka  and Soubaka, maintained intact the tradition of the Upaniṣads. 
+It is Bhagavān who, later by the agency of such great seers as Nārada , Parāśara, Śuka  and Sounaka, maintained intact the tradition of the Upaniṣads. 
 </details>
 
 <details><summary>Español</summary>
 
-Es Bhagavān quien, más tarde por la agencia de los grandes videntes como Nārada, Parāśara, Śuka y Soubaka, mantuvieron intacta la tradición de los Upaniṣads.
+Es Bhagavān quien, más tarde por la agencia de los grandes videntes como Nārada, Parāśara, Śuka y Sounaka, mantuvieron intacta la tradición de los Upaniṣads.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -825,21 +884,22 @@ Es Bhagavān quien, más tarde por la agencia de los grandes videntes como Nāra
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “कृष्णद्वैपायनं व्यासं  
+> “कृष्ण-द्वैपायनं व्यासं  
 **विद्धि** नारायणं प्रभुम् ।  
 को ह्य् अन्यो भुवि मैत्रेय  
-महाभारत-**कृद्** भवेत्॥” 
+महा-भारत-**कृद्** भवेत्॥” 
 
 ऎऩ्ऱुम् +++(अनुमान-वचनम्)+++,  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> “कृष्णद्वैपायनं व्यासं  
+> “कृष्ण-द्वैपायनं व्यासं  
 **विद्धि** नारायणं प्रभुम् ।  
 को ह्य् अन्यो भुवि मैत्रेय  
 महाभारत-**कृद्** भवेत्॥” 
 
+इति +++(अनुमान-वचनम्)+++, 
 </details>
 
 
@@ -879,8 +939,17 @@ Se ha dicho
 > “महर्षेः +++(नाम्नः)+++ कीर्तनात् तस्य  
 भीष्मः प्राञ्जलिर् अब्रवीत्” 
 
-ऎऩ्ऱुञ् चॊल्लुगिऱ-पडि निऱ्किऱ+++(=स्थितस्य)+++ 
+ऎऩ्ऱुञ् चॊल्लुगिऱ-पडि
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “महर्षेः +++(नाम्नः)+++ कीर्तनात् तस्य  
+भीष्मः प्राञ्जलिर् अब्रवीत्” 
+
+इति चोक्त-रीत्या
+</details>
+
 
 <details><summary>English</summary>
 
@@ -912,9 +981,16 @@ También se ha dicho,
 
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-निऱ्किऱ व्यासादिगळै **अनुप्रवेशित्तु** +++(न तु साक्षाद् अवतीर्य)+++  
+निऱ्किऱ+++(=स्थितान्)+++  व्यासादिगळै **अनुप्रवेशित्तु** +++(न तु साक्षाद् अवतीर्य)+++  
 महाभारत-शारीरकादिगळैप् प्रवर्तिप्पित्तुम्,  +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अवस्थितान् व्यासादीन् अनुप्रविश्य  
+महा-भारत--शारीरकादीनि प्रवर्त्य च,
+</details>
+
 
 <details><summary>English</summary>
 
@@ -937,11 +1013,20 @@ grandes obras como Mahābhārata y Sārīraka Mīmāmsā (Brahma Sūtras).+++(5)
 ### साक्षाद् उपदेशाः
 <details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(ब्रह्म-बोधक-)+++हंस-मत्स्य-हयग्रीव--  
++++(ब्रह्म-बोधक-)+++हंस-मत्स्य--हय-ग्रीव--  
 +++(पराकर्षण-हेतुक-द्विधावतीर्ण--अष्टाक्षरबोधक-)+++नर-नारायण--गीताचार्याद्य्-अवतारङ्गळाले  
 ताऩे वॆळि +++(अनुप्रवेशं विना)+++ **निऩ्ऱु**  
-तत्व-हितङ्गळैप्+++(=उपायान्)+++ **प्रकाशिप्पित्तुम्**,  
+तत्त्व-हितङ्गळैप्+++(=उपायान्)+++ **प्रकाशिप्पित्तुम्**,  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(ब्रह्म-बोधक-)+++हंस-मत्स्य--हय-ग्रीव--  
++++(पराकर्षण-हेतुक-द्विधावतीर्ण--अष्टाक्षरबोधक-)+++ नर-नारायण--गीताचार्याद्य्-अवतारैः  
+स्वयम् एवाविर्भूय च  
+तत्त्व-हितानि+++(→उपायान्)+++ प्रकाश्य, 
+</details>
+
 
 <details><summary>English</summary>
 
