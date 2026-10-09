@@ -3,13 +3,13 @@ title = "०८ परित्यज्य"
 +++
 <details><summary>English</summary>
 
-THE MEANING OF PARITYAJYA (HAVING GIVEN UP).  
+THE MEANING OF PARITYAJYA (HAVING GIVEN UP). 
 page528
 </detailsa>
 
 <details><summary>Español</summary>
 
-EL SIGNIFICADO DE PARITYAJYA (**HABIENDO RENDIDO**).  
+EL SIGNIFICADO DE PARITYAJYA (**HABIENDO RENDIDO**). 
 página 528
 </details>
 
@@ -21,10 +21,9 @@ página 528
 
 <details><summary>नीलमेघः (सं)</summary>
 
-"परित्यज्य" इत्यत्र  
+"परित्यज्य" इत्यत्र 
 त्यागो नाम - 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -35,7 +34,6 @@ In the word parityajya, the 'giving up' or abandonment **consists in**
 
 En la palabra parityajya, el 'abandono' **consiste en**
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -63,16 +61,16 @@ En la palabra parityajya, el 'abandono' **consiste en**
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘अनया च प्रपत्त्या माम्  
-आकिञ्चन्यैक-पूर्वकम्’’()  
+> ‘‘अनया च प्रपत्त्या माम् 
+आकिञ्चन्यैक-पूर्वकम्’’() 
 
 इत्य्-आदिगळिऱ् पडिये
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘अनया च प्रपत्त्या माम्  
-आकिञ्चन्यैक-पूर्वकम्’’()  
+> ‘‘अनया च प्रपत्त्या माम् 
+आकिञ्चन्यैक-पूर्वकम्’’() 
 
 इत्य्-आद्य्-उक्त-रीत्या 
 </details>
@@ -92,10 +90,9 @@ porque **se ha dicho**,
 </details>
 
 
-
 <details><summary>मूलम्</summary>
 
-‘‘अनया च प्रपत्त्या मामाकिञ्चन्यैकपूर्वकम्’’()  इत्यादिगळिऱ्पडिये
+‘‘अनया च प्रपत्त्या मामाकिञ्चन्यैकपूर्वकम्’’() इत्यादिगळिऱ्पडिये
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -111,7 +108,7 @@ porque **se ha dicho**,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अकिञ्चनऩ् आऩ तऩ्ऩिलैयैक् कण्डु  
+अकिञ्चनऩ् आऩ तऩ्ऩिलैयैक् कण्डु 
 उपायान्तरङ्गळिऱ् पिऱन्द नैराश्यम्।
 </details>
 
@@ -120,19 +117,17 @@ porque **se ha dicho**,
 अकिञ्चनस्य स्वस्य दशा-दर्शनेनोपायान्तरेषु जातं नैराश्यम् । 
 </details>
 
-
 <details><summary>English</summary>
 
-the **aversion** to other kinds of upāya (than prapatti),  
+the **aversion** to other kinds of upāya (than prapatti), 
 which **arises** from a **consideration** of one's **being destitute** of the competency for them. 
 </details>
 
 <details><summary>Español</summary>
 
-la **aversión** a otros tipos de upāya (que no **sean** prapatti),  
+la **aversión** a otros tipos de upāya (que no **sean** prapatti), 
 que **surge** de una **consideración** de que uno **está desprovisto** de la competencia para ellos.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -157,28 +152,27 @@ que **surge** de una **consideración** de que uno **está desprovisto** de la c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आसैयाले पऱ्ऱ् आऩाल्  
+आसैयाले पऱ्ऱ् आऩाल् 
 "आसैयै विडुगै त्यागम्" ऎऩ्ऩ उचितम् इऱे।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-आशया ग्रहणे क्रियमाणे,  
+आशया ग्रहणे क्रियमाणे, 
 आशात्यागस् त्याग इति सुवचः किल । 
 </details>
 
 <details><summary>English</summary>
 
-If there **is connection** due to **desire**,  
+If there **is connection** due to **desire**, 
 the **giving up** of that **desire** **is** certainly tyāga or **renunciation**.
 </details>
 
 <details><summary>Español</summary>
 
-Si **hay conexión** por **deseo**,  
+Si **hay conexión** por **deseo**, 
 **renunciar** a ese **deseo es** ciertamente tyāga o **renunciación**.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -200,13 +194,12 @@ Si **hay conexión** por **deseo**,
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-> अत्र 'परि' इत्य् उपसर्गः  
-कर्म-ज्ञानयोर् अपि भक्ति-योगाङ्ग-भूतयोर् अनधिकारं द्योतयति ।+++(5)+++  
+> अत्र 'परि' इत्य् उपसर्गः 
+कर्म-ज्ञानयोर् अपि भक्ति-योगाङ्ग-भूतयोर् अनधिकारं द्योतयति ।+++(5)+++ 
 अतो वर्णाश्रम-धर्मादीनां न परित्याग-प्रसङ्गः ॥
 
 इति कुमारवरदः। 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -218,7 +211,6 @@ Si **hay conexión** por **deseo**,
 तत्र 'परि' इत्युपसर्गेण 
 </details>
 
-
 <details><summary>English</summary>
 
 The preposition pari (before tyaj) 
@@ -228,7 +220,6 @@ The preposition pari (before tyaj)
 
 La preposición pari (antes de tyaj)
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -246,31 +237,29 @@ La preposición pari (antes de tyaj)
 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’  
+> ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’ 
 (श्रीरङ्गगद्यम्), 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’  
+> ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’ 
 (श्रीरङ्गगद्यम्), 
 </details>
 
 <details><summary>English</summary>
 
-> “I **see** no means of **crossing** (the sea of samsāra) in all the eternity of time  
+> “I **see** no means of **crossing** (the sea of samsāra) in all the eternity of time 
 which **lies** before me," 
 </details>
 
 <details><summary>Español</summary>
 
-> “Yo **no veo** ningún medio de **cruzar** (el mar del samsāra) en toda la eternidad del tiempo  
+> “Yo **no veo** ningún medio de **cruzar** (el mar del samsāra) en toda la eternidad del tiempo 
 que **yace** delante de mí",
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -287,15 +276,15 @@ que **yace** delante de mí",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘त्वत्-पाद-कमलाद् अन्यन्  
-न मे जन्मान्तरेष्व् अपि’’  
+> ‘‘त्वत्-पाद-कमलाद् अन्यन् 
+न मे जन्मान्तरेष्व् अपि’’ 
 (जितन्ता-स्तोत्रम् १-१०) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘त्वत्-पाद-कमलाद् अन्यन्  
-न मे जन्मान्तरेष्व् अपि’’  
+> ‘‘त्वत्-पाद-कमलाद् अन्यन् 
+न मे जन्मान्तरेष्व् अपि’’ 
 (जितन्ता-स्तोत्रम् १-१०) 
 </details>
 
@@ -303,8 +292,8 @@ que **yace** delante de mí",
 
 and 
 
-> "It **is** only by the lotus feet of the Lord  
-that I **shall attain** the **desired** goal.  
+> "It **is** only by the lotus feet of the Lord 
+that I **shall attain** the **desired** goal. 
 I **have** no other means of **attaining** spiritual welfare in any of my births."
 </details>
 
@@ -312,8 +301,8 @@ I **have** no other means of **attaining** spiritual welfare in any of my births
 
 y 
 
-> "Es ** sólo por los pies de loto del Señor  
-que **alcanzaré** la meta **deseado**.  
+> "Es ** sólo por los pies de loto del Señor 
+que **alcanzaré** la meta **deseado**. 
 **No tengo** otros medios para **alcanzar** bienestar espiritual en ninguno de mis **nacimientos**".
 </details>
 
@@ -330,38 +319,36 @@ que **alcanzaré** la meta **deseado**.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्य्-आदिगळिऱ् पडिये  
-अत्यन्ताकिञ्चनऩुक्कु  
-सर्व-कालत्तिलुम् सर्व-प्रकारत्तालुम् योग्यतैय् इल्लामै तॆळिगैयाले  
+इत्य्-आदिगळिऱ् पडिये 
+अत्यन्ताकिञ्चनऩुक्कु 
+सर्व-कालत्तिलुम् सर्व-प्रकारत्तालुम् योग्यतैय् इल्लामै तॆळिगैयाले 
 पिऱन्द नैराश्यातिशयञ् जॊल्लप् पडुगिऱदु। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-इत्य्-आद्य्-उक्त-रीत्या  
-अत्यन्ताकिञ्चनस्य  
-सर्व-कालेषु सर्व-प्रकार-योग्यता-राहित्यस्य ज्ञानेन  
+इत्य्-आद्य्-उक्त-रीत्या 
+अत्यन्ताकिञ्चनस्य 
+सर्व-कालेषु सर्व-प्रकार-योग्यता-राहित्यस्य ज्ञानेन 
 जातो नैराश्यातिशय उच्यते । 
 </details>
 
-
 <details><summary>English</summary>
 
-(This prefix) **is** to **show** the extreme **aversion arising** from the lack of competence (for other upāyas )  
-at all times and in every form,  
-which the person **destitute** of upāyas **has come to realise** in himself  
+(This prefix) **is** to **show** the extreme **aversion arising** from the lack of competence (for other upāyas ) 
+at all times and in every form, 
+which the person **destitute** of upāyas **has come to realise** in himself 
 as **expressed** in the above passages.
 </details>
 
 <details><summary>Español</summary>
 
-(Este prefijo) **es** para **mostrar** la **aversión** extrema que **surge** de la falta de competencia (para otros upāyas)  
-en todo momento y en toda forma,  
+(Este prefijo) **es** para **mostrar** la **aversión** extrema que **surge** de la falta de competencia (para otros upāyas) 
+en todo momento y en toda forma, 
 
-que la persona **desposeída** de upāyas **ha llegado a realizar** en sí misma  
+que la persona **desposeída** de upāyas **ha llegado a realizar** en sí misma 
 como **expresado** en los pasajes anteriores.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -386,9 +373,9 @@ como **expresado** en los pasajes anteriores.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व-प्रकारत्तालुम् त्यागम् आवदु;  
+सर्व-प्रकारत्तालुम् त्यागम् आवदु; 
 
-> पूर्णानुष्ठान-शक्तिय् इल्लाद बोदु  
+> पूर्णानुष्ठान-शक्तिय् इल्लाद बोदु 
 यथा-शक्त्य्-अनुष्ठानम् पण्णुगिऱोम् 
 
 ऎऩ्ऱुम्, 
@@ -396,37 +383,34 @@ como **expresado** en los pasajes anteriores.
 
 <details><summary>नीलमेघः (सं)</summary>
 
-सर्व-प्रकारैस् त्यागो नाम -  
+सर्व-प्रकारैस् त्यागो नाम - 
 
-> पूर्णानुष्ठान-शक्त्य्-अभावे  
+> पूर्णानुष्ठान-शक्त्य्-अभावे 
 यथा-शक्त्य्-अनुष्ठानं कुर्म 
 
 इति, 
 </details>
 
-
 <details><summary>English</summary>
 
-"**Aversion** in every form" **means**  
+"**Aversion** in every form" **means** 
 
-> “Though I **cannot adopt** the upāya in full perfection,  
-I **will do** it to the best of my ability;  
+> “Though I **cannot adopt** the upāya in full perfection, 
+I **will do** it to the best of my ability; 
 </details>
 
 <details><summary>Español</summary>
 
-"**Aversión** en todas sus formas" **significa**  
+"**Aversión** en todas sus formas" **significa** 
 
-> “Aunque **no puedo adoptar** el upāya en plena perfección,  
+> “Aunque **no puedo adoptar** el upāya en plena perfección, 
 Lo **haré** lo mejor que pueda;
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 सर्वप्रकारत्तालुम् त्यागमावदु; पूर्णानुष्ठानशक्तियिल्लादबोदु यथाशक्त्यनुष्ठानम् पण्णुगिऱोमॆऩ्ऱुम्, 
 </details>
-
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
@@ -443,8 +427,8 @@ Lo **haré** lo mejor que pueda;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अदुक्कु योग्यतैय् इल्लाद दशैयिले  
-वेऱे सिल अनुकल्पङ्गळैय् आदल्  
+> अदुक्कु योग्यतैय् इल्लाद दशैयिले 
+वेऱे सिल अनुकल्पङ्गळैय् आदल् 
 उपायोपायङ्गळैय् आदल् अनुष्ठिक्किऱोम्
 
 ऎऩ्ऱुम्, 
@@ -454,24 +438,23 @@ Lo **haré** lo mejor que pueda;
 
 [[३५३]] 
 
-> तद्-योग्यता-विरह-दशायाम्  
+> तद्-योग्यता-विरह-दशायाम् 
 अन्यान् कांश्चिदनुकल्पान् वा उपायोपायान् वाऽनुतिष्ठाम 
 
 इति 
 </details>
 
-
 <details><summary>English</summary>
 
-> when that also **is** too difficult to **perform**,  
-I **will adopt**, in the place of the **prescribed** aṅgas, something less difficult  
+> when that also **is** too difficult to **perform**, 
+I **will adopt**, in the place of the **prescribed** aṅgas, something less difficult 
 or the upāyas which **will produce** the **prescribed** upāyas",
 </details>
 
 <details><summary>Español</summary>
 
-> cuando eso también **es** demasiado difícil de **realizar**,  
-**Adoptaré**, en lugar de los **aṅgas prescritos**, algo menos difícil.  
+> cuando eso también **es** demasiado difícil de **realizar**, 
+**Adoptaré**, en lugar de los **aṅgas prescritos**, algo menos difícil. 
 o los upāyas que **producirán** los upāyas **prescritos**",
 </details>
 
@@ -482,7 +465,7 @@ o los upāyas que **producirán** los upāyas **prescritos**",
 
 <details><summary>विजय-राघवः (क)</summary>
 
-**अदुक्कु योग्यतॆ इल्लाद** - आ उपासनक्कॆ योग्यतॆ इल्लदिरुव, **दशैयिल्** - अवस्थॆयल्लि, **वेरेशिल अनुकल्पङ्गळैयादल्** - साक्षात्तागि अदन्ने अनुष्ठिसलु आगदॆ इरुवदरिन्द अदक्कॆ बदलागि इन्नु यावुदन्नागलि, **उपायोपायङ्गळैयादल्** - उपायक्कॆ[[??]] साधनगळन्नागलि, **अनुष्ठिक्किरोम्** -  अनुष्ठिसुवॆवु, **ऎन्रुम्** - ऎम्बदागि 
+**अदुक्कु योग्यतॆ इल्लाद** - आ उपासनक्कॆ योग्यतॆ इल्लदिरुव, **दशैयिल्** - अवस्थॆयल्लि, **वेरेशिल अनुकल्पङ्गळैयादल्** - साक्षात्तागि अदन्ने अनुष्ठिसलु आगदॆ इरुवदरिन्द अदक्कॆ बदलागि इन्नु यावुदन्नागलि, **उपायोपायङ्गळैयादल्** - उपायक्कॆ[[??]] साधनगळन्नागलि, **अनुष्ठिक्किरोम्** - अनुष्ठिसुवॆवु, **ऎन्रुम्** - ऎम्बदागि 
 
 </details>
 
@@ -496,22 +479,20 @@ o los upāyas que **producirán** los upāyas **prescritos**",
 स्वस्य दुष्करेषु प्रवर्तमानाया दुराशाया अभावः । 
 </details>
 
-
 <details><summary>English</summary>
 
-\- **being** without the improper **desire** to **perform**  
-what **is** impossible for a man  
+\- **being** without the improper **desire** to **perform** 
+what **is** impossible for a man 
 with the (above) thoughts. 
 
 </details>
 
 <details><summary>Español</summary>
 
-\- **ser** sin el **deseo** inapropiado de **actuar**  
-¿Qué **es** imposible para un hombre?  
+\- **ser** sin el **deseo** inapropiado de **actuar** 
+¿Qué **es** imposible para un hombre? 
 con los **pensamientos** (arriba).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -557,7 +538,7 @@ con los **pensamientos** (arriba).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व् +++(सिद्धस्यैव)+++ अनुवादत्तुक्कु  
+इव्व् +++(सिद्धस्यैव)+++ अनुवादत्तुक्कु 
 अधिकार-विशेषत्तैक् काट्टुगै प्रयोजनम्।
 </details>
 
@@ -568,37 +549,36 @@ con los **pensamientos** (arriba).
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-> अनित्यम् असुखं लोकम्  
+> अनित्यम् असुखं लोकम् 
 इमं प्राप्य पभजस्व माम्। 
 
-इत्यत्राप्य् अधिकार-बोधन-परो ऽनुवाद एव ल्यबन्तेन - पूर्वम् एव लोकः प्राप्तो जन्मना।  
+इत्यत्राप्य् अधिकार-बोधन-परो ऽनुवाद एव ल्यबन्तेन - पूर्वम् एव लोकः प्राप्तो जन्मना। 
 अधिकार-बोधकत्वाद् अनुवादो व्यर्थो ऽपि न। 
 
-> “+++(म्लेच्छादीन्)+++ संभाष्य पुण्यकृतो मनसा ध्यायेत्”  
+> “+++(म्लेच्छादीन्)+++ संभाष्य पुण्यकृतो मनसा ध्यायेत्” 
 
 इत्यत्रापि तथा। 
 
-विधाव् अंशाः - नियोगः, नियोग+++(=अङ्गि)+++-स्वरूपम्, अधिकारि-विशेषणम्, फलम्, इति-कर्तव्यता +++(=अङ्ग-स्वरूपम्)+++, करणम्।  
+विधाव् अंशाः - नियोगः, नियोग+++(=अङ्गि)+++-स्वरूपम्, अधिकारि-विशेषणम्, फलम्, इति-कर्तव्यता +++(=अङ्ग-स्वरूपम्)+++, करणम्। 
 अत्राधिकारि-विशेषणम् मुख्यम् एव। 
 </details>
 
 <details><summary>English</summary>
 
-The object of this anuvāda (**statement** of what **has already occurred**)  
-**namely** "sarva dharmān parityajya" (which is not a vidhi or injunction)  
-**is** to **indicate** the person  
+The object of this anuvāda (**statement** of what **has already occurred**) 
+**namely** "sarva dharmān parityajya" (which is not a vidhi or injunction) 
+**is** to **indicate** the person 
 who **is** specially competent to **adopt** prapatti. 
 </details>
 
 <details><summary>Español</summary>
 
-El objeto de esta anuvāda (**declaración** de lo que **ya ha ocurrido**)  
-**a saber** "sarva dharmān parityajya" (que **no es** un vidhi o mandato)  
+El objeto de esta anuvāda (**declaración** de lo que **ya ha ocurrido**) 
+**a saber** "sarva dharmān parityajya" (que **no es** un vidhi o mandato) 
 
-**es** para **indicar** la persona  
+**es** para **indicar** la persona 
 quien **es** especialmente competente para **adoptar** prapatti.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -607,8 +587,8 @@ quien **es** especialmente competente para **adoptar** prapatti.
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-ल्यबादिगळ् अनुवादरूपमायुम् विधिरूपमायुमिरुक्कुम्। ‘‘भुक्त्वा चान्द्रायणञ्चरेत्’’ ऎऩ्गिऱविडत्तिल् निषिद्धभोजनत्तै अनुवदित्तु निषिद्धभोजनं कृत्वा वर्तमानः चान्द्रायणरूपं प्रायश्चित्तं चरेत् ऎऩ्ऱु प्रायश्चित्तत्तै विधिक्कैयाल् इङ्गु भुजिधातूत्तरमाऩ क्त्वाप्रत्यत्तिऱ्कु भोजनानुवादरूपत्वमे कॊळ्ळवेण्डुम्। प्रायश्चित्त विधानवचनत्तिल् निषिद्धभोजनविधानस्यासम्भवात् ।  
-इप्पडिये ‘‘त्रीन् लोकान् सम्परिक्रम्य’’ ऎऩ्गिऱविडत्तिलुम् कण्डुगॊळ्वदु। ‘‘स्नात्वा भुञ्जीत’’ ऎऩ्गिऱविडत्तिल् क्त्वाप्रत्ययत्तिऱ्कु विधिरूपत्वमे कॊळ्ळवेणुम्; अप्राप्तत्वेनानुवादासम्भवात् । इप्पडिये ‘‘प्रक्षाल्याचामेत्’’ ऎऩ्गिऱविडत्तिलुम् ल्यप्पुक्कु विधिपरत्वमे स्वीकार्यम्; प्रक्षाळनस्य पूर्वमप्राप्तत्वात् । तथा च इङ्गु त्यजधातुवुक्कु अनुवादरूपत्वं विधिरूपत्वं वेति विशये कीऴ् ‘‘अकिञ्चनऩाऩ तऩ्ऩिलैयैक्कण्डु उपायान्तरङ्गळिल् पिऱन्द नैराश्यम्’’ ऎऩ्ऱु प्राप्तमाऩ नैराश्यार्थकत्वम्   
+ल्यबादिगळ् अनुवादरूपमायुम् विधिरूपमायुमिरुक्कुम्। ‘‘भुक्त्वा चान्द्रायणञ्चरेत्’’ ऎऩ्गिऱविडत्तिल् निषिद्धभोजनत्तै अनुवदित्तु निषिद्धभोजनं कृत्वा वर्तमानः चान्द्रायणरूपं प्रायश्चित्तं चरेत् ऎऩ्ऱु प्रायश्चित्तत्तै विधिक्कैयाल् इङ्गु भुजिधातूत्तरमाऩ क्त्वाप्रत्यत्तिऱ्कु भोजनानुवादरूपत्वमे कॊळ्ळवेण्डुम्। प्रायश्चित्त विधानवचनत्तिल् निषिद्धभोजनविधानस्यासम्भवात् । 
+इप्पडिये ‘‘त्रीन् लोकान् सम्परिक्रम्य’’ ऎऩ्गिऱविडत्तिलुम् कण्डुगॊळ्वदु। ‘‘स्नात्वा भुञ्जीत’’ ऎऩ्गिऱविडत्तिल् क्त्वाप्रत्ययत्तिऱ्कु विधिरूपत्वमे कॊळ्ळवेणुम्; अप्राप्तत्वेनानुवादासम्भवात् । इप्पडिये ‘‘प्रक्षाल्याचामेत्’’ ऎऩ्गिऱविडत्तिलुम् ल्यप्पुक्कु विधिपरत्वमे स्वीकार्यम्; प्रक्षाळनस्य पूर्वमप्राप्तत्वात् । तथा च इङ्गु त्यजधातुवुक्कु अनुवादरूपत्वं विधिरूपत्वं वेति विशये कीऴ् ‘‘अकिञ्चनऩाऩ तऩ्ऩिलैयैक्कण्डु उपायान्तरङ्गळिल् पिऱन्द नैराश्यम्’’ ऎऩ्ऱु प्राप्तमाऩ नैराश्यार्थकत्वम् 
 सॊल्लुगैयाले तदुत्तरमाऩ ल्यप्पुक्कु अनुवादरूपत्वमे कॊळ्ळवेणुमॆऩ्ऱु एऱ्पडुगिऱदु। तथा च इन्द अनुवादत्तिऱ्कु प्रयोजनमॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इव्वनुवादत्तिऱ्कु अधिकार विशेषत्तैक् काट्टुगै प्रयोजनमिति । अधिकारविशेषत्तै - आकिञ्चन्यरूपमाऩ अधिकारविशेषत्तै, 
 </details>
 
@@ -624,10 +604,9 @@ quien **es** especialmente competente para **adoptar** prapatti.
 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदिल् ‘‘परि’’ ऎऩ्गिऱ उपसर्गम्  
+अदिल् ‘‘परि’’ ऎऩ्गिऱ उपसर्गम् 
 अधिकार-पौष्कल्यत्तै विवक्षिक्किऱदु।
 </details>
 
@@ -636,21 +615,19 @@ quien **es** especialmente competente para **adoptar** prapatti.
 अत्र परीत्य्-उपसर्गेणाधिकार-पौष्कल्यं विवक्ष्यते । 
 </details>
 
-
 <details><summary>English</summary>
 
-The preposition pari in parityajya **is** to **indicate** the person  
-who **is** most competent  
+The preposition pari in parityajya **is** to **indicate** the person 
+who **is** most competent 
 or **has** full competence. 
 </details>
 
 <details><summary>Español</summary>
 
-La preposición pari en parityajya **es** para **indicar** la persona  
-Quien **es** más competente  
+La preposición pari en parityajya **es** para **indicar** la persona 
+Quien **es** más competente 
 o **tiene** plena competencia.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -676,16 +653,15 @@ o **tiene** plena competencia.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ११‘‘अनित्यम् असुखं लोकम्  
+> ११‘‘अनित्यम् असुखं लोकम् 
 इमं प्राप्य भजस्व माम्’’(गीता ९-३३) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ११‘‘अनित्यम् असुखं लोकम्  
+> ११‘‘अनित्यम् असुखं लोकम् 
 इमं प्राप्य भजस्व माम्’’(गीता ९-३३) 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -694,10 +670,9 @@ o **tiene** plena competencia.
 
 <details><summary>Español</summary>
 
-> "**Habiendo llegado** a este mundo corruptible y sin placer,  
+> "**Habiendo llegado** a este mundo corruptible y sin placer, 
 **deberías recurrir** a mí con devoción."
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -717,14 +692,13 @@ o **tiene** plena competencia.
 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्गिऱव् इडत्तिल् "प्राप्य" ऎऩ्गिऱदु विधिय् अऩ्ऱिक्के  
+ऎऩ्गिऱव् इडत्तिल् "प्राप्य" ऎऩ्गिऱदु विधिय् अऩ्ऱिक्के 
 
 > ‘‘प्राप्य वर्तमानस् त्वम्’’ 
 
-ऎऩ्ऱु व्याख्यातम् आऩाऱ् पोले  
+ऎऩ्ऱु व्याख्यातम् आऩाऱ् पोले 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -736,28 +710,26 @@ o **tiene** plena competencia.
 " प्राप्य वर्तमानस्त्वम्” इति व्याख्यानवत् 
 </details>
 
-
 <details><summary>English</summary>
 
-In the (above) sentence:-  "having reached" does not state a vidhi or injunction meaning \- "Reach this world". 
+In the (above) sentence:- "having reached" does not state a vidhi or injunction meaning \- "Reach this world". 
 
-It only means  
-'**Being** in this world'  
-or  
-'since you are in this world'.  
+It only means 
+'**Being** in this world' 
+or 
+'since you are in this world'. 
 </details>
 
 <details><summary>Español</summary>
 
-En la **oración** (arriba): -  
+En la **oración** (arriba): - 
 "**haber alcanzado**" **no establece** un vidhi o mandato que **signifique** \- "**Alcanza** este mundo".
 
-solo **significa**  
-'**Estar** en este mundo'  
-o  
-'ya que **estás** en este mundo'.  
+solo **significa** 
+'**Estar** en este mundo' 
+o 
+'ya que **estás** en este mundo'. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -767,7 +739,7 @@ o
 
 <details><summary>विजय-राघवः (क)</summary>
 
-**ऎङ्गिरविडत्तिल्** - ऎन्दु हेळिरुव सन्दर्भदल्लि, **प्राप्य ऎङ्गिरदु** - प्राप्य ऎम्ब लॆप्प्रत्यय्यविरुव पदवु, **विधियन्रिक्के** -  विध्य्-अर्थवल्लदॆ, **प्राप्य वर्तमानस् त्वं** - "हॊन्दिरुव नीनु ऎम्बदागि", **व्याख्यातमानार्‌ पोले** - श्री-भाष्यकार्यवरिन्द अनुवादवॆन्दु तोरिसुवुदक्कागि व्याख्यानमाडल्पट्टिरुव हगॆ, 
+**ऎङ्गिरविडत्तिल्** - ऎन्दु हेळिरुव सन्दर्भदल्लि, **प्राप्य ऎङ्गिरदु** - प्राप्य ऎम्ब लॆप्प्रत्यय्यविरुव पदवु, **विधियन्रिक्के** - विध्य्-अर्थवल्लदॆ, **प्राप्य वर्तमानस् त्वं** - "हॊन्दिरुव नीनु ऎम्बदागि", **व्याख्यातमानार्‌ पोले** - श्री-भाष्यकार्यवरिन्द अनुवादवॆन्दु तोरिसुवुदक्कागि व्याख्यानमाडल्पट्टिरुव हगॆ, 
 
 </details>
 
@@ -775,7 +747,7 @@ o
 
 इङ्गुम् 
 
-> ‘‘परित्यज्य स्थितस् त्वम्’’  
+> ‘‘परित्यज्य स्थितस् त्वम्’’ 
 
 ऎऩ्ऱु विवक्षितम् आगक् कडवदु।
 </details>
@@ -789,27 +761,25 @@ o
 इति विवक्षितं युक्तम् । 
 </details>
 
-
 <details><summary>English</summary>
 
-So also, here,  
-the words "sarvadharmān parityajya"  
-do not mean **give up** all dharmas.  
-It **should be taken** to **mean**:  
+So also, here, 
+the words "sarvadharmān parityajya" 
+do not mean **give up** all dharmas. 
+It **should be taken** to **mean**: 
 
 > "You that **have given up** all dharmas". 
 </details>
 
 <details><summary>Español</summary>
 
-Así también, aquí,  
-las palabras "sarvadharmān parityajya"  
-**No quieren decir renunciar** a todo el dharmas.  
-**Debe entenderse** en el sentido de **significa**:  
+Así también, aquí, 
+las palabras "sarvadharmān parityajya" 
+**No quieren decir renunciar** a todo el dharmas. 
+**Debe entenderse** en el sentido de **significa**: 
 
 > "Tú que **has renunciado** a todos los dharmas".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -830,48 +800,46 @@ las palabras "sarvadharmān parityajya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि अर्थान्तरङ्गळिलुम् प्रयोगम् उण्डागैयाले  
-क्त्वा-श्रुति-मात्रत्तैक् कॊण्डु  
+इप्-पडि अर्थान्तरङ्गळिलुम् प्रयोगम् उण्डागैयाले 
+क्त्वा-श्रुति-मात्रत्तैक् कॊण्डु 
 "त्यागम् अङ्गम्" ऎऩ्ऩव् ऒण्णादु।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-इत्थम् अर्थान्तरेष्व् अपि प्रयोग-सत्त्वात्  
-क्त्वा-श्रुति-मात्रावलम्बनेन  
+इत्थम् अर्थान्तरेष्व् अपि प्रयोग-सत्त्वात् 
+क्त्वा-श्रुति-मात्रावलम्बनेन 
 त्यागोऽङ्गम् इति वक्तुं न युक्तम् । 
 </details>
 
-
 <details><summary>English</summary>
 
-Since this usage of '**having done** a thing' (past participle) **is met with** in other senses also,  
-it **is not** right to **say** that  
-'**having given up** all dharmas'  
-or '**giving up** all dharmas'  
+Since this usage of '**having done** a thing' (past participle) **is met with** in other senses also, 
+it **is not** right to **say** that 
+'**having given up** all dharmas' 
+or '**giving up** all dharmas' 
 **is** one of the accessories **enjoined** for prapatti.
 
-(What **is meant is not** that  
-the person **should give up**  
-but that, as he **is unable** to **adopt** other dharmas,  
+(What **is meant is not** that 
+the person **should give up** 
+but that, as he **is unable** to **adopt** other dharmas, 
 he **should seek** the Lord as an upāya.)
 </details>
 
 <details><summary>Español</summary>
 
-Dado que este uso de '**haber hecho** una cosa' (participio pasado) **se encuentra** también en otros sentidos,  
-**no** es correcto **decir** eso  
-'**habiendo renunciado** a todos los dharmas'  
-o '**renunciar** a todos los dharmas'  
+Dado que este uso de '**haber hecho** una cosa' (participio pasado) **se encuentra** también en otros sentidos, 
+**no** es correcto **decir** eso 
+'**habiendo renunciado** a todos los dharmas' 
+o '**renunciar** a todos los dharmas' 
 **es** uno de los accesorios **ordenado** para prapatti.
 
-(Lo que **quiere decir no es** que  
-la persona **debería rendirse**  
-pero que,  
-como **es incapaz** de **adoptar** otros dharmas,  
+(Lo que **quiere decir no es** que 
+la persona **debería rendirse** 
+pero que, 
+como **es incapaz** de **adoptar** otros dharmas, 
 él **debe buscar** al Señor como un upāya.)
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -914,41 +882,39 @@ como **es incapaz** de **adoptar** otros dharmas,
 ## अनुसन्धान-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘परित्यज्य’’ ऎऩ्गिऱव् इदु  
-विधिय् आऩ बोदु  
-प्रपत्त्य्-अध्यायादिगळिल् विधिक्किऱ बडिये  
-आकिञ्चन्य-प्रतिसन्धानादि-रूपम् आऩ कार्पण्यम् आगिऱ प्रपत्त्य्-अङ्गत्तै विधिक्किऱद् ऎऩ्ऱाल्  
+‘‘परित्यज्य’’ ऎऩ्गिऱव् इदु 
+विधिय् आऩ बोदु 
+प्रपत्त्य्-अध्यायादिगळिल् विधिक्किऱ बडिये 
+आकिञ्चन्य-प्रतिसन्धानादि-रूपम् आऩ कार्पण्यम् आगिऱ प्रपत्त्य्-अङ्गत्तै विधिक्किऱद् ऎऩ्ऱाल् 
 अर्थत्तिल् विरोधम् इल्लै +++(यद्य् अपि शीघ्र-धी-गम्यता नास्ति)+++। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-"परित्यज्य" इत्य्-अस्य विधित्वे,  
-प्रपत्त्य्-अध्यायादिषु विहित-रीत्या  
-आकिञ्चन्य-प्रतिसन्धानादि-रूपं कार्पण्यं  
-प्रपत्त्य्-अङ्गं विधीयत  
-इत्य्-उक्तौ - नार्थे विरोधः  +++(यद्य् अपि शीघ्र-धी-गम्यता नास्ति)+++। 
+"परित्यज्य" इत्य्-अस्य विधित्वे, 
+प्रपत्त्य्-अध्यायादिषु विहित-रीत्या 
+आकिञ्चन्य-प्रतिसन्धानादि-रूपं कार्पण्यं 
+प्रपत्त्य्-अङ्गं विधीयत 
+इत्य्-उक्तौ - नार्थे विरोधः +++(यद्य् अपि शीघ्र-धी-गम्यता नास्ति)+++। 
 </details>
-
 
 <details><summary>English</summary>
 
-If parityajya (having given up) **is to be considered** (at all) as **enjoining** what **should be done** (vidhi),  
-there **is** nothing wrong in **stating**  
-that it **enjoins**, as in the chapters on Prapatti and elsewhere, the **thought** of **helplessness** (kārpaṇya)  
-which **is** of the nature of such thoughts  
+If parityajya (having given up) **is to be considered** (at all) as **enjoining** what **should be done** (vidhi), 
+there **is** nothing wrong in **stating** 
+that it **enjoins**, as in the chapters on Prapatti and elsewhere, the **thought** of **helplessness** (kārpaṇya) 
+which **is** of the nature of such thoughts 
 as **being destitute** of upãyas. 
 </details>
 
 <details><summary>Español</summary>
 
-Si parityajya (**haber renunciado**) **debe considerarse** (en absoluto) como **ordenar** lo que **debe hacerse** (vidhi),  
-no **hay** nada de malo en **afirmar**  
-que **impone**, como en los capítulos sobre Prapatti y otros lugares, el **pensamiento** de **impotencia** (kārpaṇya)  
-que **es** de la naturaleza de tales pensamientos  
+Si parityajya (**haber renunciado**) **debe considerarse** (en absoluto) como **ordenar** lo que **debe hacerse** (vidhi), 
+no **hay** nada de malo en **afirmar** 
+que **impone**, como en los capítulos sobre Prapatti y otros lugares, el **pensamiento** de **impotencia** (kārpaṇya) 
+que **es** de la naturaleza de tales pensamientos 
 como **ser desprovisto** de upãyas.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -984,7 +950,6 @@ como **ser desprovisto** de upãyas.
 तदा, 'सर्वधर्मान् परित्यज्य' इत्यनेन, 
 </details>
 
-
 <details><summary>English</summary>
 
 In that interpretation, "sarva dharmān parityajya" 
@@ -994,7 +959,6 @@ In that interpretation, "sarva dharmān parityajya"
 
 En esa **interpretación**, "sarva dharmān parityajya"
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1014,35 +978,33 @@ En esa **interpretación**, "sarva dharmān parityajya"
 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘अहम् अस्म्य् अपराधानाम्  
-आलयो ऽकिञ्चनोऽगतिः’’  
+> ‘‘अहम् अस्म्य् अपराधानाम् 
+आलयो ऽकिञ्चनोऽगतिः’’ 
 (अहिर्बुध्न्यसंहिता ३७-३०), 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘अहम् अस्म्य् अपराधानाम्  
-आलयो ऽकिञ्चनोऽगतिः’’  
+> ‘‘अहम् अस्म्य् अपराधानाम् 
+आलयो ऽकिञ्चनोऽगतिः’’ 
 (अहिर्बुध्न्यसंहिता ३७-३०), 
 </details>
 
 <details><summary>English</summary>
 
-> "I **am** the abode of all offences (against Thee)  
-and I **have** no means of **saving** myself  
+> "I **am** the abode of all offences (against Thee) 
+and I **have** no means of **saving** myself 
 **nor have I** anything else to **attain** than Thee", 
 </details>
 
 <details><summary>Español</summary>
 
-> "Yo **soy** la morada de todas las ofensas (contra Ti)  
-y **no tengo** medios para **salvarme**  
+> "Yo **soy** la morada de todas las ofensas (contra Ti) 
+y **no tengo** medios para **salvarme** 
 **ni tengo** nada más que **alcanzar** que Ti",
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1052,65 +1014,68 @@ y **no tengo** medios para **salvarme**
 <details><summary>विजय-राघवः (क)</summary>
 
 > अहम् अस्म्य् अपराधानाम् आलयो ऽकिञ्चनो ऽगतिः - (अहि. ३७-३०) ऎम्ब 
-
-""
-""
-""
-(२) "स्वधर्मनिष्ठोऽपि" ऎन्दू   
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘न धर्म-निष्ठो ऽस्मि’’  
+> ‘‘न धर्म-निष्ठो ऽस्मि’’ 
 (आळवन्दार्-स्तोत्रम् २२) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘न धर्म-निष्ठो ऽस्मि’’  
+> ‘‘न धर्म-निष्ठो ऽस्मि’’ 
 (आळवन्दार्-स्तोत्रम् २२) 
 </details>
-
 
 <details><summary>English</summary>
 
 and 
 
-> "I **have not performed** dharma with any constancy;  
-I **have not realised** the nature of the self  
-**nor have I** bhakti  or devotion to Thy lotus feet". 
+> "I **have not performed** dharma with any constancy; 
+I **have not realised** the nature of the self 
+**nor have I** bhakti or devotion to Thy lotus feet". 
 </details>
 
 <details><summary>Español</summary>
 
 y 
 
-> "Yo **no he realizado** el dharma con constancia;  
-**No me he dado cuenta** de la naturaleza del yo.  
+> "Yo **no he realizado** el dharma con constancia; 
+**No me he dado cuenta** de la naturaleza del yo. 
 **tampoco tengo** bhakti o devoción a Tus pies de loto".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 ‘‘न धर्मनिष्ठोस्मि’’(आळवन्दार्-स्तोत्रम् २२) 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+"न धर्म-निष्ठो ऽस्मि" - (स्तोत्र-रत्न. २१)ऎन्दारम्भिसि, 
+
+> अकिञ्चनो ऽनन्य-गतिश् शरण्यं त्वत्-पाद-मूलं शरणं प्रपद्ये 
+
+ऎम्ब, 
+
+[[P68]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्य्-आदिगळिऱ् पडिये  
+इत्य्-आदिगळिऱ् पडिये 
 
-> सर्व-धर्मङ्गळुम् तऩ्ऩै योग्यता-पर्यन्तम् आगक् कऴित्त बडियै  
+> सर्व-धर्मङ्गळुम् तऩ्ऩै योग्यता-पर्यन्तम् आगक् कऴित्त बडियै 
 मुऩ्ऩ् इट्टुक् कॊण्ड् 
 
 ऎऩ्ऱ बडि।
 </details>
 
-
 <details><summary>नीलमेघः (सं)</summary>
 
-इत्य्-आद्य्-उक्त-रीत्या  
+इत्य्-आद्य्-उक्त-रीत्या 
 
 > सर्व-धर्मैस् स्वस्य योग्यता-पर्यन्ततया त्यक्ततां पुरस्कृत्य
 
@@ -1123,8 +1088,8 @@ as **has been** (well) **expressed** in such passages as the above:
 
 (It) **would mean** 
 
-> "**Reflect** at first on the state in which you **are** unfit  
-for the **adoption** or **performance** of every form of dharma"  
+> "**Reflect** at first on the state in which you **are** unfit 
+for the **adoption** or **performance** of every form of dharma" 
 
 (in this case it **would be** a vidhi). 
 
@@ -1136,12 +1101,11 @@ como **ha sido** (bien) **expresado** en pasajes como el anterior:
 
 (Eso) **significaría** 
 
-> "**Reflexiona** al principio sobre el estado en el que **estás** no apto  
-para la **adopción** o **ejecución** de cada forma de dharma"  
+> "**Reflexiona** al principio sobre el estado en el que **estás** no apto 
+para la **adopción** o **ejecución** de cada forma de dharma" 
 
 (en este caso **sería** un vidhi).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1153,51 +1117,62 @@ para la **adopción** o **ejecución** de cada forma de dharma"
 सर्वधर्मङ्गळुम् तऩ्ऩै योग्यतापर्यन्तमागक् कऴित्तबडियै मुऩ्ऩिट्टुक्कॊण्डु इति । इङ्गु लक्षणया धर्मान् ऎऩ्गिऱ द्वितीयैक्कु षष्ट्यर्थत्तैयुम् परिपूर्वकत्यजि धातुवुक्कु परित्यागपुरस्कारार्थत्तैयुम् अङ्गीकरित्तु स्वकर्मकसर्वधर्म कर्तृकपरित्यागत्तै पुरस्करित्तुक्कॊण्डु ऎऩ्ऱु अर्थम् कॊळ्ळवेण्डुमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इत्य्-आदिगळिर्पडिये** - इत्य्-आदि-प्रमाणगळल्लि हेळिरुव हागॆ, **तन्नै** - तन्नन्नु, **योग्यता-पर्यन्तमाग कळित्त पडिये** - योग्यतॆय पर्यन्तवागि त्यागमाडि ऎन्दरॆ तन्न अ-शक्ततॆयन्नु प्रदर्शिसि ऎम्बर्थवु, इदन्नु **मुन्निट्टुकॊण्डॆन्रपडि** - मूलक माडिक्कॊण्डु ऎन्दु हेळिदन्तागुवदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ऎन्दरॆ अदन्ने मुख्याङ्गवागि इट्टुकॊन्दु ऎम्ब भाववु विधियागबेकादरॆ अङ्गिगॆ सेरिद अङ्गवे आगिरबेकु. मिक्क यावुदु प्रपत्तिगॆ अङ्गवागलारदादुदरिन्द (१) **अहम् अस्म्य् अपराधानाम्** ऎम्ब श्लोकवु हिन्दॆये परिकर-विभागाधिकारदल्लि उदाहृतवु. १०३५ नेय पुटवन्नोडि. इदल्लदॆ कृत-कृत्याधिकारदल्लू प्रपत्ति-योग्याधिकादल्लू उदाहृतवु. (२) **"न धर्म-निष्ठो ऽस्मि"** ऎम्बुदू हिन्दॆ द्वयाधिकारदल्लि उदाहृतवु. [[??]]नॆय पुटवन्नु नोडि, कर्म-योग, ज्ञान-योग भक्ति-योगगळिगॆ अ-शक्त्यतॆयिन्द आकिञ्चन्य मत्तु अनन्य-गतित्वदिन्द शरणागत्य्-अनुष्ठानक्कॆ योग्यतॆयन्नुपपादिसुव श्लोकवु. परित्यज्य ऎम्बल्लिरुव लॆप् प्रत्ययक्कॆ विधि-परवागि अर्थ हेळबेकादरॆ, अङ्गाङ्गिगळल्लि ऒन्दर विषयवागि अर्थवन्नु हेळिदरॆ शास्त्र-सम्मतवागुत्तदॆ, मिक्कवुगळन्नु विधियागि हेळिदरॆ शास्त्र-विरुद्धवागुत्तदॆ, आदुदरिन्द कार्पण्याङ्गवु विधिसल्पट्टितॆन्दु अर्थमाडुवदरल्लि एनॊन्दू दोषविल्लवु. आदरॆ आपाततः विळम्बविल्लदॆ तोरुव सर्व-धर्मगळ स्व-रूपगळ त्यागवॆम्बर्थवन्नु बिट्टु, हेगॆ साक्षात्तागि तोरदॆ विळम्बवागि स्वल्प-कष्टदिन्द ऊहॆयिन्द तोरुव अर्थवन्नु स्वीकरिसबहुदु ? ऎम्बाक्षेप उण्टादरॆ, अदक्कॆ समाधानवन्नु हेळुत्तारेनॆन्दरॆ.- अ-विळम्बितवागि साक्षात्तागि तोरुव अर्थवु बहु-शास्त्र-प्रमाण-विरुद्धवागिद्द पक्षदल्लि, विळम्बितवागि कष्ट पट्टु अर्थमाडबेकाद अभिप्रायवु शास्त्र-सम्मतवादुदादरॆ, ऎरडनॆय अर्थवे साधुवादुदु ऎन्दु उपदेशिसुत्तारॆ.-
+
+[[P69]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व्-अळवु विलम्बित-प्रतीतिकम् आऩव् अर्थमुम्  
-बहु-प्रमाणानुगुणम् आगैयाल्  
+इव्व्-अळवु विलम्बित-प्रतीतिकम् आऩव् अर्थमुम् 
+बहु-प्रमाणानुगुणम् आगैयाल् 
 
-अवऱ्ऱुक्कु विरुद्धम् आग शङ्कराद्य्+++(→सयूथ्यभ्रान्तैर् अपि)+++-उक्तङ्गळ् आऩ  
-सर्व-धर्म-स्वरूप-त्यागाद्य्+++(→उपायत्वबुद्धित्यागोऽपि)+++-अर्थङ्गळिऱ् काट्टिलुम्  
+अवऱ्ऱुक्कु विरुद्धम् आग शङ्कराद्य्+++(→सयूथ्यभ्रान्तैर् अपि)+++-उक्तङ्गळ् आऩ 
+सर्व-धर्म-स्वरूप-त्यागाद्य्+++(→उपायत्वबुद्धित्यागोऽपि)+++-अर्थङ्गळिऱ् काट्टिलुम् 
 उपादेयम्।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-एतावद् विलम्बित--प्रतीतिको ऽप्य् अर्थो  
-बहु-प्रमाणानुगुणत्वात्  
+एतावद् विलम्बित--प्रतीतिको ऽप्य् अर्थो 
+बहु-प्रमाणानुगुणत्वात् 
 तद्-विरुद्ध-शङ्कराद्य्+++(→सयूथ्यभ्रान्तैर् अपि)+++ -उक्त-- सर्व-धर्म-स्वरूप-त्यागाद्य् +++(→उपायत्वबुद्धित्यागोऽपि)+++- अर्थापेक्षयोपादेयः । 
 </details>
 
-
 <details><summary>English</summary>
 
-Even this interpretation, which **is not** the meaning that **strikes** one immediately  
-and **is** therefore a little strained,  
-**is** better than the meanings given by Saṅkara and others  
-that what **is intended** here  
-**is** such as the **giving up** of the dharmas themselves in their essential nature (svarūpa),  
-because it **is not** in keeping with any pramāṇas  
-(for in the chapters on prapatti,  
-it **is enjoined** that the rites and observances of castes and āśramas  
+Even this interpretation, which **is not** the meaning that **strikes** one immediately 
+and **is** therefore a little strained, 
+**is** better than the meanings given by Saṅkara and others 
+that what **is intended** here 
+**is** such as the **giving up** of the dharmas themselves in their essential nature (svarūpa), 
+because it **is not** in keeping with any pramāṇas 
+(for in the chapters on prapatti, 
+it **is enjoined** that the rites and observances of castes and āśramas 
 **should** (always) **be performed**).
 </details>
 
 <details><summary>Español</summary>
 
-Incluso esta interpretación, que **no** es el significado que **salta a uno** inmediatamente  
-y **está** por lo tanto un poco tenso,  
-**es** mejor que los significados dados por Saṅkara y otros  
-eso es lo que **se pretende** aquí  
-**es** tal como el **abandono** de los dharmas mismos en su naturaleza esencial (svarūpa),  
-porque **no** está de acuerdo con ningún pramāṇas  
-(porque en los capítulos sobre prapatti,  
-**se ordena** que los ritos y observancias de castas y āśramas  
+Incluso esta interpretación, que **no** es el significado que **salta a uno** inmediatamente 
+y **está** por lo tanto un poco tenso, 
+**es** mejor que los significados dados por Saṅkara y otros 
+eso es lo que **se pretende** aquí 
+**es** tal como el **abandono** de los dharmas mismos en su naturaleza esencial (svarūpa), 
+porque **no** está de acuerdo con ningún pramāṇas 
+(porque en los capítulos sobre prapatti, 
+**se ordena** que los ritos y observancias de castas y āśramas 
 **debe** (siempre) **realizarse**).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1208,13 +1183,56 @@ porque **no** está de acuerdo con ningún pramāṇas
 
 ननु सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कु सर्वधर्मङ्गळै स्वरूपेण विट्टु ऎऩ्गिऱ अर्थम् अविलम्बितमागत् तोऩ्ऱानिऱ्क सर्वधर्म कर्तृकस्वकर्मकपरित्यागत्तै मुऩ्ऩिट्टुक्कॊण्डु ऎऩ्ऱु इव्वळवु विळम्बितमाय्त् तोऩ्ऱुगिऱ अर्थत्तै अङ्गीकरिप्पदु उचितमागुमो वॆऩ्ऩ? अविलम्बितप्रतीतिकमायिरुन्दालुम् बहुप्रमाणविरुद्धमागैयाल् शङ्कराद्युक्तसर्वधर्मस्वरूप त्यागरूपार्थत्तैक्काट्टिलुम् बहुप्रमाणानुगुणमाऩ इव्वर्थमे उपादेयमॆऩ्गिऱार् इव्वळवु इत्यादियाल्। 
 
-शङ्करादीत्यत्रादिपदत्ताले एकदेशिकळुक्कु ग्रहणम्। +++(5)+++  
-स्वरूपत्यागाद्यर्थङ्गळिति ।  
+शङ्करादीत्यत्रादिपदत्ताले एकदेशिकळुक्कु ग्रहणम्। +++(5)+++ 
+स्वरूपत्यागाद्यर्थङ्गळिति । 
 इङ्गु आदिशब्दत्ताले सर्वधर्मङ्गळिलुम् उपायत्वबुद्धित्यागत्तिऱ्कु सङ्ग्रहः । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**सर्व-धर्म--स्व-रूप-परित्यागवु विधिसल्पट्टितॆम्ब वादद निरासवु.** 
+
+**इव्वळवु** - ई मेले उदाहरिसिद रीतियल्लि, **विलम्बित-प्रतीतिकमान अर्थमुम्** - साक्षात्तागि तोरदॆ, सावकाशदिन्द कष्टपट्टु तोरिबरुव अर्थवु, **बहु-प्रमाणानुगुणमागैयाले**- अनेक-श्रुति-स्मृति-रूप-प्रमाणगळिगॆ अनुसारवागिरुवदरिन्द, **अवत्तुक्कु विरुद्धमागॆ** - अन्तह शास्त्र-प्रमाणगळिगॆल्ला विरुद्धवाद, **शङ्कराद्य्-उक्तङ्गळान** - श्रीमच्-छङ्कराचार्यार्यरे मोदलादवरुगळिन्द हेळल्पट्ट, इल्लि आदि-शब्ददिन्द सारास्वादिनीयहवरु एक-देशियु हेळल्पट्टनु ऎन्दु व्याख्यान माडिरुत्तारॆ. एक-देशियु, एकायननु - परम-पुरुषनोब्बने प्राप्यनु लक्ष्मीयल्लवॆन्दु हेळुव माध्व-सिद्धान्तवु,[[??]] साक्षात्तागि अविलम्बितवागि तोरुव ऎम्ब भाववु, **सर्व-धर्म--स्व-रूप-त्यागाद्य्-अर्थङ्गळिऱ् काट्टिल्** - सर्व-धर्मगळन्नु सम्पूर्णवागि स्व-रूप-त्यागवे मोदलाद अर्थगळिगिन्तलू, **उपादेयम्** - अङ्गीकारार्हवु, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+यद्य् अपि ई विध्य्-अर्थक्कॆ स्वल्प विळम्बदिन्द तोरुवुदु अर्थवॆम्ब दोषविद्दरू, शास्त्र-विरुद्धवल्लवादुदरिन्द ग्राह्यवे ऎन्दरॆ सर्व-धर्मगळ स्व-रूप-त्यागवेम्बर्थवु साक्षातागि तोरिबन्दु श्रीमच्-छङ्कराचार्यरे मोदलादवरिन्द परिगृतितवागिद्दरू नमगॆ ग्राह्यवल्लवु, एकॆन्दरॆ अनेक-शास्त्र-प्रमाणगळिगॆ विरुद्धवागुत्तदे. ई सर्व-धर्मान् ऎम्बवुगळल्ले नित्य-नैमित्तिक-कर्मगळू सेरि, अवुगळन्नु बिडबहुदु एम्ब विध्य्-अर्थवु उण्टागुवदरिन्द आ अर्थवु समञ्जसवादुदल्लवु. नित्य-नैमित्तिक-कर्मगळु ईतन जन्म-मूलक बन्दवुगळागि जन्मविरुववरॆगू नडेसतक्कद्दागिरुत्तदे. 
+
+> कुर्वन्न् एवेह कर्माणि जिजीविषेत् शतगं समाः (ईशा. २)
+
+[[P70]]
+
+इवे मोदलाद अनेक-प्रमाणगळिगॆ विरुद्धवु. अन्तह कॆलवु प्रमाणगळिगॆ [[??]] विरुद्धवागि हेळिदरू,[[??]] अदू अल्लदॆ गीताचार्यरु [[??]] अष्टु दूर धर्मगळन्ने निनु माडतक्कद्दॆन्दु 
+
+> कुरु कर्मैव तस्मात् त्वम् 
+
+> यज्ञ-दान-तपः-कर्म न त्याज्यं कार्यम् एव तत्
+
+> एतान्य् अपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च । 
+कर्तव्यानीति मे पार्थ निश्चितं मतम् उत्तमम् ॥ [[??]] 
+
+> स्वे स्वे कर्मण्य् अभिरतः संसिद्धिं लभते नरः [[??]]
+
+> स्व-कर्मणा तम् अभ्यर्च्य सिद्धिं विन्दति मानवः - (१८-४५, ४६) 
+
+हीगॆल्ला हेळुत्ता होगि, कॊनॆगॆ **"सर्व-धर्मान् परित्यज्य"** ऎम्ब [[??]] ऎल्ला धर्मगळ स्व-रूप-त्याग हेळिबिट्टितॆन्दरॆ लोक-गुरुवु परस्पर-विरुद्धवागि उपदेशिसिदनु, ऎन्दागि [[??]] हागॆ आगुत्तदॆम्ब भाववु. आदुदरिन्दले [[??]]**विरुद्धमाग"** ऎम्ब प्रयोगवु. तावु विधि-वशरागि अन्वयिसिरुवदरल्लि [[??]] विळम्बदिन्द तोरिबरुव अर्थवे [[??]] वेनू इल्लवॆम्ब तात्पर्यवु. ई विध्य्-अर्थवु विळम्बित-प्रतीतिकवादुदु ऎम्ब पक्षदल्लि, हिन्दॆ उपपादिसिद [[??]] स्वीकरिसिदरे एनॊन्दु विरोधवू इल्लवॆम्ब [[??]] इदरिन्द सूचितवु. 
+
+ई विध्य्-अर्थवु इष्टु [[??]] विळम्ब[[??]] अर्थवादरू इन्नॊन्दु [[??]] ग्राहवे सरि ऎन्दु मुन्दिन वाक्यवाद **"प्रपत्तिक्काह"** ऎम्बुदरिन्द तिळिसुत्तारे.-
+
+</details>
 
 ## न धर्मान्तर-त्याग-विधिः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+यावाग ई ऎल्ला धर्मगळ अनुष्ठानदल्लू तनगॆ योग्यतॆ इल्लवे ऎम्ब कार्पण्याङ्गवु उण्टायितो, आग अदरिन्द सूचितवागि मिक्क याव धर्मानुष्ठानवू ई प्रपदनक्कॆ अङ्गवल्लवॆम्ब भाववु एर्पट्टितु. ई अर्थ स्वारस्यदिन्द ई विध विध्य्-अर्थवू उचितवागि ग्राह्यवे ऎन्दु तिळिसुत्तारॆ - 
+
+[[P71]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > प्रपत्तिक्क् आगव् ऒरु धर्मङ्गळुम् अनुष्ठिक्क वेण्डाव् 
@@ -1227,34 +1245,32 @@ porque **no** está de acuerdo con ningún pramāṇas
 <details><summary>नीलमेघः (सं)</summary>
 
 > > "प्रपत्त्य्-अर्थं कश्चिद् अपि धर्मो नानुष्ठेय" >
-> इति प्रपत्तेर् नैरपेक्ष्यम् उच्यत  
+> इति प्रपत्तेर् नैरपेक्ष्यम् उच्यत 
 
-इत्य् एतत् विधि-पक्षस्योचितम् ।  
+इत्य् एतत् विधि-पक्षस्योचितम् । 
 </details>
-
 
 <details><summary>English</summary>
 
-When we **take** parityajya as a vidhi or injunction,  
-it **would be appropriate** to **say** that  
-the meaning of sarva dharmān parityajya **is** -  
+When we **take** parityajya as a vidhi or injunction, 
+it **would be appropriate** to **say** that 
+the meaning of sarva dharmān parityajya **is** - 
 
 > "No dharma of any kind **need be performed** for the sake of prapatti", 
 
-in the sense that prapatti does not require any of them (as aṅgas).  
+in the sense that prapatti does not require any of them (as aṅgas). 
 </details>
 
 <details><summary>Español</summary>
 
-Cuando **tomamos** "parityajya" como vidhi o mandato,  
-**sería apropiado decir** que  
-el significado de "sarva dharmān parityajya" **es** -  
+Cuando **tomamos** "parityajya" como vidhi o mandato, 
+**sería apropiado decir** que 
+el significado de "sarva dharmān parityajya" **es** - 
 
 > "**No es necesario realizar** ningún dharma de ningún tipo por el bien de prapatti", 
 
 en el sentido de que prapatti **no requiere** ninguno de ellos (como aṅgas).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1266,6 +1282,13 @@ en el sentido de que prapatti **no requiere** ninguno de ellos (como aṅgas).
 सर्वधर्मान् परित्यज्य ऎऩ्गिऱविदु वर्णाश्रमादिसकलधर्मङ्गळुम् भक्तिक्कु अङ्गमाग ऎप्पडि अपेक्षिक्कप्पडुगिऱदो अप्पडि प्रपत्तिक्कु अङ्गमाग ऒरु धर्मङ् गळैयुमपेक्षिक्कवेण्डामॆऩ्ऱु प्रपत्तिनैरपेक्ष्यत्तै विधिक्किऱदॆऩ्ऱाल् स्वरसमॆऩ्गिऱार् प्रपत्तिक्काग इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रपत्तिक्काह** - प्रपत्तिगागि, 
+""
+""
+""
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
