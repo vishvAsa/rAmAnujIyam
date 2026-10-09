@@ -8,7 +8,7 @@ title = "०६ आनन्दमयाधिकरणम्"
 चेतन-भोग्य-भूत-- -जड-रूप- -सत्त्व-रजस्-तमोमय-प्रधानाद् व्यावृत्तिर् उक्ता। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Translation</summary>
 
 So far the Sūtras have declared that the Brahman which forms the object of enquiry is different from the non-intelligent Pradhāna, which is merely an object of fruition for intelligent beings. 
 </details>
@@ -1824,7 +1824,7 @@ To avoid these difficulties let us then assume that both aspects of Brahman – 
 सर्वस्य ज्ञातव्यस्याभावान् न सेत्स्यति।+++(4)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Translation</summary>
 
 The promise that through the knowledge of one thing everything will be known can certainly not be fulfilled if everything is false, for in that case there exists nothing that could be known. 
 </details>
@@ -6141,7 +6141,7 @@ The Self of bliss therefore is other than the individual soul; it is Brahman its
 तद्धेतुव्यपदेशाच्च । पूर्वोक्तमानन्दप्राचुर्यमप्यनेनोपपादितं भवति । अनितरसुकरमोक्षप्रदानक्षमत्वं हि नितरामानन्दहेतुर्भवति । किञ्च घनप्रचुरो हि पुरुषोऽन्यस्मै तदभिप्रेतं धनं ददातीति सूत्रानन्तर्यम् ।
 </details>
 
-## आनन्दहेतौ आनन्दमयशब्दः आनन्दप्रचुरार्थकः
+## आनन्द-हेतुत्वात् प्राचुर्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6162,7 +6162,7 @@ And for this reason also, the Self consisting of bliss is the Highest Self:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-१५. तद्-हेतु-व्यपदेशाच् च ॥ १-१-१५ ॥
+> १५. तद्+++(→आनन्द)+++-हेतु-व्यपदेशाच् च ॥ १-१-१५ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -6179,7 +6179,12 @@ And for this reason also, the Self consisting of bliss is the Highest Self:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-को ह्य् एवान्यात् कः प्राण्यात्। यद् एष आकाश आनन्दो न स्यात्। एष ह्येवानन्दयाति (तै.आन.७.अनु) इति। एष एव जीवान् आनन्दयतीति जीवानन्द-हेतुर् अयं व्यपदिश्यते।
+> को ह्य् एवान्यात्, कः प्राण्यात्?  
+यद् एष आकाश आनन्दो न स्यात्।  
+एष ह्य् एवानन्दयाति (तै.आन.७.अनु) 
+
+इति।  
+एष एव जीवान् आनन्दयतीति जीवानन्द-हेतुर् अयं व्यपदिश्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -6205,7 +6210,8 @@ And for this reason also, the Self consisting of bliss is the Highest Self:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतश् च आनन्दयितव्याज् जीवाद् आनन्दयिता ऽयम् अन्य आनन्दमयः परमात्मेति विज्ञायते।
+अतश् च आनन्दयितव्याज् जीवाद्  
+आनन्दयिता ऽयम् अन्य आनन्दमयः परमात्मेति विज्ञायते।
 </details>
 
 <details><summary>Translation</summary>
@@ -6229,7 +6235,8 @@ Some one is here designated as the cause of bliss enjoyed by the souls; and we t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आनन्दमय एव अत्र आनन्द-शब्देनोच्यते इति चानन्तरम् एव वक्ष्यते॥
+आनन्दमय एवात्रानन्द-शब्देनोच्यते  
+इति चानन्तरम् एव वक्ष्यते॥
 </details>
 
 <details><summary>Translation</summary>
@@ -6247,7 +6254,7 @@ In the passage quoted the term 'bliss' denotes him who abounds in bliss, as will
 आनन्दशब्दवाच्यस्य ह्यानन्दयितृत्वमुक्तम्, न त्वानन्दमयस्येत्यत्राह आनन्दमय एवेति ॥ 15 ॥ एवमानन्दमयपदप्रकृतिप्रत्ययार्थविषयं सूत्रश्रयं प्रवृत्तम् ।
 </details>
 
-## सत्यं ज्ञानमिति मन्त्रवर्णेन आनन्दमयशब्देन च एकस्यैव वस्तुनः प्रतिपादनम्, आनन्दमयस्य परमात्मत्वम्
+## "ब्रह्म-विद् आप्नोति" इत्यत्रोक्तः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6273,7 +6280,7 @@ And for this reason also, the Self of bliss is other than the individual soul:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-१६. मान्त्रवर्णिकम् एव च गीयते ॥ १-१-१६ ॥
+> १६. +++("ब्र॒ह्म॒-विद् आ॑प्नोति॒ पर॑म् … सत्यं ज्ञानम् अनन्तं ब्रह्म; ब्रह्मविद् " →)+++ मान्त्र-वर्णिकम् +++(ब्रह्म)+++ एव च +++("आनन्द-मय" इति)+++ गीयते ॥ १-१-१६ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -6290,7 +6297,9 @@ And for this reason also, the Self of bliss is other than the individual soul:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यं ज्ञानम् अनन्तं ब्रह्म (तै.आन.१) इति मन्त्र-वर्णोदितं ब्रह्मैवानन्दमय इति गीयते।
+> सत्यं ज्ञानम् अनन्तं ब्रह्म (तै.आन.१) 
+
+इति मन्त्र-वर्णोदितं ब्रह्मैवानन्दमय इति गीयते।
 </details>
 
 <details><summary>Translation</summary>
@@ -6336,7 +6345,11 @@ And that Brahman is the highest Brahman, other than the individual soul;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि – ब्रह्म-विद् आप्नोति परम् (तै.आन.१) इति जीवस्य प्राप्यतया ब्रह्म निर्दिष्टम् ॥
+तथा हि – 
+
+> ब्रह्म-विद् आप्नोति परम् (तै.आन.१) 
+
+इति जीवस्य प्राप्यतया ब्रह्म निर्दिष्टम् ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -6360,7 +6373,12 @@ for the passage 'He who knows Brahman attains the Highest' refers to Brahman as 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् एषाभ्युक्ता (तै.आन.१) इति – तत् ब्रह्म अभिमुखीकृत्य प्रतिपाद्यतया परिगृह्य, ऋग् एषा अध्येतृभिर् उक्ता।
+> +++(ब्र॒ह्म॒-विद् आ॑प्नोति॒ पर॑म्,)+++ तद् एषाभ्युक्ता (तै.आन.१) 
+
+इति –  
+तद् ब्रह्म अभिमुखी कृत्य  
+प्रतिपाद्यतया परिगृह्य,  
+ऋग् एषा अध्येतृभिर् उक्ता।
 </details>
 
 <details><summary>Translation</summary>
@@ -6390,17 +6408,20 @@ and the words 'On this the following verse is recorded' show that the verse is r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्राह्मणोक्तस्य अर्थस्य वैशद्यम् अनेन मन्त्रेण क्रियत इत्य् अर्थः, जीवस्य उपासकस्य प्राप्यं ब्रह्म तस्माद् विलक्षणम् एव।
+> ब्राह्मणोक्तस्यार्थस्य वैशद्यम्  
+अनेन मन्त्रेण क्रियत 
+
+इत्य् अर्थः।  
 </details>
 
 <details><summary>Translation</summary>
 
-The mantra thus is meant to render clear the meaning of the Brāhmaṇa passage. Now the Brahman to be reached by the meditating Devotee must be something different from him.
+The mantra thus is meant to render clear the meaning of the Brāhmaṇa passage. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-ब्राह्मणोक्तस्यार्थस्य वैशद्यमनेन मन्त्रेण क्रियत इत्यर्थः, जीवस्योपासकस्य प्राप्यं ब्रह्म तस्माद्विलक्षणमेव।
+ब्राह्मणोक्तस्यार्थस्य वैशद्यमनेन मन्त्रेण क्रियत इत्यर्थः, 
 </details>
 
 <details><summary>टीका</summary>
@@ -6412,17 +6433,47 @@ The mantra thus is meant to render clear the meaning of the Brāhmaṇa passage.
 ब्राह्मणोक्तार्थविशदीकरणरूपो मन्त्र इति प्रयोजकम् । सङ्ग्रहेणोक्तस्य विस्तरेण कथनं विस्तृतस्य प्रतिपत्तिसौकयर्ाय सङ्ग्रहेण कथनमपि वैषद्यावहम् ।
 
 नित्यनिर्दोषत्वाविशेषात् मन्त्रब्राह्मणयोः प्राबल्यदौर्बल्यविभागोऽनुपपन्न इति भावः ।
-
-एवं मन्त्रवर्णेन जीवब्रह्मभेदसिद्धिं फलितां दशर्यति जीवस्येति ।
-
-प्राप्तुरस्योपासकात्मस्वरूपस्य, प्राप्तव्यस्य परब्रह्मणश्च कथमैवयमित्यर्थः ।
 </details>
 
 ---
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनन्तरं च तस्माद् वा एतस्माद् आत्मनः आकाशस् सम्भूतः (तै.आन.७) इत्य् आरभ्य उत्तरोत्तरैर् ब्राह्मणैर् मन्त्रैश् च तद् एव विशदीक्रियते। अतो जीवाद् अन्य आनन्दमयः॥
+जीवस्योपासकस्य प्राप्यं ब्रह्म,  
+तस्माद् विलक्षणम् एव।
+</details>
+
+<details><summary>Translation</summary>
+
+Now the Brahman to be reached by the meditating Devotee must be something different from him.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवस्योपासकस्य प्राप्यं ब्रह्म तस्माद्विलक्षणमेव।
+</details>
+
+
+<details><summary>टीका</summary>
+
+एवं मन्त्रवर्णेन जीवब्रह्मभेदसिद्धिं फलितां दशर्यति जीवस्येति ।
+
+प्राप्तुरस्योपासकात्मस्वरूपस्य, प्राप्तव्यस्य परब्रह्मणश्च कथमैवयमित्यर्थः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्तरं च 
+
+> तस्माद् वा एतस्माद् आत्मन  
+आकाशस् सम्भूतः (तै.आन.७) 
+
+इत्य् आरभ्य  
+उत्तरोत्तरैर् ब्राह्मणैर् मन्त्रैश् च  
+तद् एव विशदीक्रियते।  
+अतो जीवाद् अन्य आनन्दमयः॥+++(4)+++
 </details>
 
 <details><summary>Translation</summary>
@@ -6444,11 +6495,14 @@ The same point is rendered clear by all the following Brāhmaṇa passages and m
 तद्धि "आनन्दमयोऽभ्यासात्" इति सूत्रशेषम् ।
 </details>
 
-## प्राप्यस्य प्राप्तुश्च अभेदशङ्का-परिहारौ
+### प्राप्य-प्राप्त्र्-अभेदः?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्राह – यद्यप्य् उपासकात् प्राप्यस्य भेदेन भवितव्यम्; तथापि न वस्त्वन्तरं जीवान् मान्त्रवर्णिकं ब्रह्म;
+अत्राह – 
+
+यद्य् अप्य् उपासकात् प्राप्यस्य भेदेन भवितव्यम्;  
+तथापि न वस्त्व्-अन्तरं जीवान् मान्त्र-वर्णिकं ब्रह्म;
 </details>
 
 <details><summary>Translation</summary>
@@ -6470,7 +6524,8 @@ Here an opponent argues as follows:--We indeed must acknowledge that the object 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किन्तु तस्यैवोपासकस्य निरस्त-समस्ताविद्या-गन्ध-निर्विशेष-चिन्मात्रैक-रसं शुद्धं स्वरूपम्, तद् एव सत्यं ज्ञानम् अनन्तं ब्रह्म इति मन्त्रेण विशोध्यते।
+किन्तु तस्यैवोपासकस्य  
+निरस्त-समस्ताविद्या-गन्ध- -निर्विशेष--चिन्-मात्रैक-रसं शुद्धं स्वरूपम्, तद् एव "सत्यं ज्ञानम् अनन्तं ब्रह्म" इति मन्त्रेण विशोध्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -6494,7 +6549,13 @@ that Brahman is nothing but the soul of the Devotee in its pure state, consistin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद् एव च यतो वाचो निवर्तन्ते। अप्राप्य मनसा सह (तै.आन.३.९) इति वाङ्मनसागोचरतया निर्विशेषम् इति गम्यते।
+तद् एव च 
+
+> यतो वाचो निवर्तन्ते।  
+अप्राप्य मनसा सह (तै.आन.३.९) 
+
+इति वाङ्-मनसागोचरतया  
+निर्विशेषम् इति गम्यते।+++(4)+++
 </details>
 
 <details><summary>Translation</summary>
@@ -6520,20 +6581,41 @@ A subsequent passage, 'that from which all speech, with the mind, turns away, un
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस् तद् एव मान्त्रवर्णिकम् इति तस्माद् अनतिरिक्त आनन्दमय इति। अत उत्तरं पठति ।
+अतस् तद् एव मान्त्र-वर्णिकम् इति  
+तस्माद् अनतिरिक्त आनन्दमय 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
 
-It is this therefore to which the mantra refers, and the Self of bliss is identical with it.--To this view the next Sūtra replies.
+It is this therefore to which the mantra refers, and the Self of bliss is identical with it.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अतस्तदेव मान्त्रवर्णिकमिति तस्मादनतिरिक्त आनन्दमय इति। अत उत्तरं पठति ।
+अतस्तदेव मान्त्रवर्णिकमिति तस्मादनतिरिक्त आनन्दमय इति। 
 </details>
 
 ---
+
+### परमात्मनो नेतरः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत उत्तरं पठति ।
+</details>
+
+<details><summary>English</summary>
+
+--To this view the next Sūtra replies.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत उत्तरं पठति ।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6554,7 +6636,8 @@ It is this therefore to which the mantra refers, and the Self of bliss is identi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परमात्मन इतरो जीव-शब्दाभिलप्यो मुक्तावस्थो ऽपि न भवति मान्त्रवर्णिकः। कुतः? अनुपपत्तेः।
+परमात्मन इतरो जीव-शब्दाभिलप्यो मुक्तावस्थो ऽपि न भवति मान्त्रवर्णिकः।  
+कुतः? अनुपपत्तेः।
 </details>
 
 <details><summary>Translation</summary>
@@ -6576,7 +6659,8 @@ The other than the highest Self, i.e. the one called jīva, even in the state of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथाविधस्य तस्यैव आत्मनो निरुपाधिकं विपश्चित्त्वं न उपपद्यते ।
+तथा-विधस्य तस्यैवात्मनो  
+निरुपाधिकं विपश्चित्त्वं न उपपद्यते ।
 </details>
 
 <details><summary>Translation</summary>
@@ -6602,7 +6686,11 @@ For to a Self of that kind unconditioned intelligence (such as is, in the mantra
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदम् एव हि निरुपाधिकं विपश्चित्त्वम् । सो ऽकामयत बहु स्यां प्रजायेय (तै.आन.६) इति सत्य-सङ्कल्पत्व-प्रदर्शनेन विवरिष्यते।
+इदम् एव हि निरुपाधिकं विपश्चित्त्वम् 
+
+> सो ऽकामयत - "बहु स्यां प्रजायेय" (तै.आन.६) 
+
+इति सत्य-सङ्कल्पत्व-प्रदर्शनेन विवरिष्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -6624,7 +6712,9 @@ Unconditioned intelligence is illustrated by the power of all one's purposes rea
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विविधं पश्यच्-चित्त्वं हि विपश्चित्त्वम्। पृषोदरादित्वात् पश्यच्-छब्दावयवस्य यच्-छब्दस्य लोपं कृत्वा व्युत्पादितो विपश्चिच्-छब्दः।
+विविधं पश्यच्-चित्त्वं हि विपश्चित्त्वम्।  
+पृषोदरादित्वात् पश्यच्-छब्दावयवस्य यच्-छब्दस्य लोपं कृत्वा  
+व्युत्पादितो विपश्चिच्-छब्दः।
 </details>
 
 <details><summary>Translation</summary>
@@ -6652,7 +6742,9 @@ Intelligence (vipaścittvam, i.e. power of insight into various things) does ind
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्यपि मुक्तस्य विपश्चित्त्वं सम्भवति; तथापि तस्यैव आत्मनस् संसार-दशायाम् अविपश्चित्त्वम् अप्य् अस्तीति निरुपाधिकं विपश्चित्त्वं न उपपद्यते।
+यद्य् अपि मुक्तस्य विपश्चित्त्वं सम्भवति;  
+तथा ऽपि तस्यैव आत्मनस् संसार-दशायाम् अ-विपश्चित्त्वम् अप्य् अस्तीति  
+निरुपाधिकं विपश्चित्त्वं नोपपद्यते।
 </details>
 
 <details><summary>Translation</summary>

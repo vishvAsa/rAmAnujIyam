@@ -3,7 +3,7 @@ title = "०० गुरु-परंपरा-सारः"
 
 +++
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ०० श्रीगुरुपरंपरासारः  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥  
@@ -102,7 +102,7 @@ Una breve **descripción** de la **sucesión** de ācāryas.
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/venkaTanAthaH/sIr-oNDru.md">
 
-<details open=""><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 सीर्+++(=सुगुणः)+++-ऒण्ड्रु+++(=प्राप्त)+++--तूप्-पुल्+++(=दर्भ[-कुल])+++-- तिरु-वेङ्गडम्-उडैयान्  
 पार्+++(=भू)+++-ऒण्ड्रच्+++(=प्राप्त)+++ चॊन्न पऴ-मॊऴियुळ्+++(=भाषॆयुळ्)+++ - **ओर्** ऒण्ड्रु+++(=प्राप्त)+++ …  
@@ -124,7 +124,7 @@ Una breve **descripción** de la **sucesión** de ācāryas.
 ## गुरु-नतिः
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
 
-<details open=""><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 गुरुभ्यस् तद्-गुरुभ्यश् च  
 नमो-वाकम् **अधीमहे**+++(→वीप्सायाम्)+++ ।  
@@ -167,7 +167,7 @@ y los medios de alcanzarlo).
 
 </div>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 +++(सम्प्रदायोक्त-काल-क्रमेण)+++  
 पॊय्गै+++(=सरः)+++-मुनि, +++(देव-स्मृत्या शिथिल-गात्रो)+++ भूतत्तार्, +++(भक्त्युन्माद-गृहीत इव)+++ पेय्-आऴ्वार् +++(इत्य् अयोनिजाः)+++, तण्-  
@@ -261,7 +261,7 @@ por hacer brillante el camino de los Vedas en todo el mundo.
 </details>
 
 ## आचार्यापेक्षा
-<details open=""><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 +++(मधुरकवि-श्लोक-दशक-प्रतिपादिताचार्यानुग्रह-लाभाः- )+++  
 इऩ्बत्तिल्+++(=तुष्टौ)+++, इऱैञ्जुदलिल्+++(=प्रणिपाते)+++, इसैयुम्+++(=अङ्गीकृत)+++ पेऱ्ऱिल्+++(=अर्थवरे)+++,  
@@ -373,7 +373,7 @@ THE ĀCĀRYA IS ESSENTIAL FOR MOKṢA :
 LA ĀCĀRYA **ESTA ESENCIAL** PARA MOKṢA:
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “पापिष्ठः क्षत्र-बन्धुश् च  
 पुण्डरीकश् च +++(आपद्य् अपि)+++ पुण्यकृत् ।  
@@ -488,7 +488,7 @@ el único medio de asegurar mokṣa es tener un ācārya.
 </details>
 
 ## आचार्य-तति-स्मृत्य्-अपेक्षा
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षुवुक्कु आचार्य-वंशम् भगवान् अळवुं सॆल्ल+++(=यावत्)+++ अनुसन्धिक्क वेणुम्  
 ऎऩ्ऱ् +++(श्रुतियिल्)+++ ओदप्-पट्टदु.
@@ -720,7 +720,7 @@ y
 </details>
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “गुरुर् असि, +++(मानुष-गुरु-वैलक्षण्येन)+++ गतिश् चासि जगताम्”  
 > +++(– यामुनेन स्तोत्ररत्ने)+++
@@ -759,7 +759,7 @@ y
 </details>
 
 ### सद्वारकोपदेशाः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मावुक्क् अडियिले+++(=मूले)+++ वेदङ्गळैक् **कॊडुत्तुम्**,  
 अवऱ्ऱिऱ्कु अपहारम् पिऱन्द-पोदु  
@@ -809,7 +809,7 @@ y a través de él difundió su conocimiento en el mundo.
 
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवऩ् पुत्रर्गळ् आऩ सनत्-कुमारादिगळै  
 
@@ -854,7 +854,7 @@ los medios para alcanzar la salvación.
 इवऩ् पुत्रर्गळाऩ सनत्कुमारादिगळै “स्वयमागत-विज्ञाना निवृत्तिं धर्ममास्थिताः” ऎऩ्ऩुम्बडि पण्णि अवर्गळ् मुखङ्गळाले हित-प्रवर्तनं पण्णुवित्तुम्,  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिये मऱ्ऱुम्+++(=पुनः)+++ नारद-पराशर-शुक-शौनकादिगळ् आऩ पल मह-र्षिगळैय् इट्टु  
 अध्यात्म-संप्रदायङ् कुलैयाद+++(=नाशमागद)+++-पडि नडत्तियुम्,  
@@ -979,7 +979,7 @@ También se ha dicho,
 
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निऱ्किऱ+++(=स्थितान्)+++  व्यासादिगळै **अनुप्रवेशित्तु** +++(न तु साक्षाद् अवतीर्य)+++  
 महाभारत-शारीरकादिगळैप् प्रवर्तिप्पित्तुम्,  +++(5)+++
@@ -1011,7 +1011,7 @@ grandes obras como Mahābhārata y Sārīraka Mīmāmsā (Brahma Sūtras).+++(5)
 </details>
 
 ### साक्षाद् उपदेशाः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(ब्रह्म-बोधक-)+++हंस-मत्स्य--हय-ग्रीव--  
 +++(पराकर्षण-हेतुक-द्विधावतीर्ण--अष्टाक्षरबोधक-)+++नर-नारायण--गीताचार्याद्य्-अवतारङ्गळाले  
@@ -1046,7 +1046,7 @@ y también los medios para alcanzar Mokṣa (Tattva y Hita).
 हंस-मत्स्य-हयग्रीव-नर-नारायण-गीताचार्याद्यवतारङ्गळाले ताऩे वॆळि निऩ्ऱु तत्वहितङ्गळैप् प्रकाशिप्पित्तुम्,  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताऩ् अरुळिच् चॆय्द अर्थङ्गळैय् ऎल्लाम्  
 श्रीभीष्मर् मुदल् आऩ ज्ञानाधिकरैय् इट्टु मूदलिप्पित्तुम्+++(=प्रमाणीकृत्य)+++,  
@@ -1146,7 +1146,7 @@ con sus mentes establecidas en lo eterno ".
 
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सात्वतं विधिम् आस्थाय  
 +++(नाशे पुनः)+++ गीतस् संकर्षणेन यः +++(सङ्कर्षणकाण्डे विधिः)+++।  
@@ -1272,7 +1272,7 @@ en forma de formas Parankusa (Nammalvar), Parakala (tirumaṅgai) y otros.
 </details>
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेघङ्गळ् समुद्र-जलत्तै वाङ्गि  
 +++(लवणम् अन्तरा)+++ सर्वोपजीव्यम् आऩ तण्णीर् आग उमिऴुमाप्+++(=निष्ठीवनम्)+++ पोले  
@@ -1465,7 +1465,7 @@ de **impartir** la **enseñanza** del Veda".
 </details>
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(व्याकरण-रचनेनापि)+++ अगस्त्य-सेवितमान देशत्तिले  
 अनेक देशिकापदेशत्तालेय् **अवतरित्त् अरुळिऩाऩ्**.
@@ -1557,7 +1557,7 @@ los devotos de Nārāyaṇa dotados de grandeza espiritual, **nacerán** aquí y
 </details>
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ताम्रपर्णी-नदी यत्र  
 कृत-माला+++(=वैगै-काञ्चीसमीपिनी)+++ पयस्विनी+++(=पालार्)+++ ।  
@@ -1613,7 +1613,7 @@ La sucesión de Vaishnavita ācāryas.
 </details>
 
 ### रङ्ग-नाथ-मुनिः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् आचार्यर्गळिल्;  
 ईश्वर-मुनिगळ् पिळ्ळै **नाथ-मुनिगळ्**.  
@@ -1696,7 +1696,7 @@ y nos dio "Nyāya Tatvam" y "Yoga Rahasyam".
 </details>
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **इवरुक्कु** श्री-मधुर-कविगळ् मुदल्-आगव् उण्ड् आऩ संप्रदाय-परंपरैयालुम्  
 तिरु-वाय्-मॊऴि मुखत्तालुम् योग-दशैयिले साक्षात्-कृतर् आयुम्,  
@@ -1779,7 +1779,7 @@ Desde que Nāthamuni recibió la tradición sagrada de uno de los descendientes 
 
 
 #### यामुनः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **नाथमुनिगळ्** पिळ्ळै ईश्वर-भट्टाऴ्वाऩ्+++(←आऴ्=निमज्जने)+++.  
 ईश्वर-भट्टाऴ्वाऩ् पिळ्ळैय् **आळ+++(←आळ् ऐश्वर्ये)+++-वन्दार्**+++(=यामुनः)+++.  
@@ -1817,7 +1817,7 @@ El hijo de Nāthamuni era Iśvara Bhatta. A iśvara bhatta nació aḷavandār (
 </details>
 
 #### प्रजाः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **आळवन्दार्** पिळ्ळै सॊट्टै+++(=खल्वाट?)+++-नम्बि+++(←नम्, =पूर्ण)+++.  
 सॊट्टै-नम्बि-पिळ्ळै ऎऩ्ऩ्-आच्चाऩ्+++(←आचार्य)+++.  
@@ -1855,7 +1855,7 @@ Sottai Nambi era el hijo de Aḷavandār. El hijo de Sottai Nambi era Ennachchan
 
 
 ### नाथ-मुनि-शिष्याः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **नाथमुनिगळ्**-श्री-पादत्तै आश्रयित्त मुदलिगळ्+++(=मुख्याः)+++;  
 +++(आचार्य-पत्न्य्-अपमानेनारुष्ट)+++ उय्यक्+++(=अस्मत्)+++-कॊण्डार्,  
@@ -1887,7 +1887,7 @@ Los principales discípulos que buscaron los pies de Nāthamuni eran ocho:-
 </details>
 
 ### पुण्डरीकाक्ष उय्यक्-कॊण्डार्
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **उय्यक्-कॊण्डार्**--श्रीपादत्तै आश्रयित्तवर्गळ् ऐवर्.  
 अवर्गळ् आगिऱार्;  
@@ -1915,7 +1915,7 @@ Uyyakondar tenía cinco discípulos; Son Manakkal Nambi, Tiruvallikkeni Pan Peru
 </details>
 
 ### राम-मिश्रः मणक्-काल्--नम्बि
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **मणक्-काल्--नम्बि** श्रीपादत्तै आश्रयित्तवर्गळ् ऐवर्.  
 अवर्गळागिऱार्;  
@@ -1943,7 +1943,7 @@ Los principales discípulos de Manakkal Nambi eran cinco; Son Aḷavandār, Deiv
 </details>
 
 ### यामुन-शिष्याः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **आळ-वन्दार्**--श्री-पादत्तै आश्रयित्तवर्गळ् पदिऩ्-ऐवर्गळ्.  
 अवर्गळ् आगिऱार्;  
@@ -1981,7 +1981,7 @@ Aḷavandār tuvo quince discípulos: son - Peria Nambi, Tirukkottiyar Nambi, Ti
 </details>
 
 ### महा-पूर्ण-शिष्याः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **पॆरिय-नम्बि**--श्रीपादत्तै आश्रयित्तवर्गळ् अऱुवर्.  
 अवर्गळ् आगिऱार्;  
@@ -2012,7 +2012,7 @@ Seis discípulos buscaron los pies de Perianambi; Ellos eran:- Emperumanar (Śr�
 
 ### रामानुजः
 #### गुरवः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎम्-बॆरुमानार्  
 तिरुक्-कोट्टिय्-ऊर्--नम्बि-श्री-पादत्तिले  
@@ -2049,7 +2049,7 @@ Seis discípulos buscaron los pies de Perianambi; Ellos eran:- Emperumanar (Śr�
 </details>
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिरु-मालैय्-आण्डाऩ्--श्री-पादत्तिल्-ए तिरु-वाय्-मॊऴि+++(=भाषा)+++ +++(अर्थतः)+++ **केट्टार्**.
 </details>
@@ -2069,7 +2069,7 @@ Estudió Tiruvoymozhi a los pies de Tirumalai Andan.
 तिरुमालैयाण्डाऩ् श्रीपादत्तिले तिरुवाय्मॊऴि केट्टार्.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आळ-वन्दार्-आऴ्वार्--श्रीपादत्तिले  
 तिरु-वाय्-मॊऴियुम् **ओदि**+++(=वचनानुवचनं विधाय)+++  
@@ -2092,7 +2092,7 @@ Aprendió Tirúvoimozhi a los pies de Aḷavandār Alvar y aprendió también "S
 आळवन्दाराऴ्वार् श्रीपादत्तिले तिरुवाय्मॊऴियुम् ओदि स्तोत्रादिगळुम्, अरुळिच्चॆयलुम् नल्वार्त्तैगळुम् केट्टरुळिनार्. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिरुमलै-नम्बि--श्री-पादत्तिले  
 श्रीमद्-रामायणङ् **केट्ट् अरुळिनार्**  
@@ -2115,7 +2115,7 @@ A los pies de Tirumalai Nambi estudió el Rāmāyana.
 </details>
 
 #### कृतयः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवर् अरुळिच्-चॆय्द **प्रबन्धङ्गळ्**  
 श्रीभाष्यम्, दीपम्, सारम्,  
@@ -2142,7 +2142,7 @@ Los escritos de Śrī Rāmānuja son nueve en número: Śrī Bhāṣyam, Dīpam,
 </details>
 
 #### शिष्याः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवर् श्री-पादत्तिल् आश्रयित्त मुदलिगळैत्+++(=मुख्यानां)+++ तऩ्-ताम्+++(=स्वस्व)+++-संप्रदायप्-पडिगळिले+++(=सोपानेषु)+++  
 **अऱिन्दु-कॊळ्वदु**.
@@ -2182,7 +2182,7 @@ Bhakti a ācārya esencial:
 </details>
 
 ### प्रकाशनम्
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “गुरुं प्रकाशयेद् धीमान्  
 मन्त्रं यत्नेन गोपयेत् ।  
@@ -2219,7 +2219,7 @@ y al **revelar** el mantra,
 </details>
 
 ### भक्तिः कारणं विहितम्
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरुवैय् ऒरुवऩ् प्रकाशिप्पिक्किऱदुवुम्  
 ऒरुवऩ् प्रकाशिप्पियाद् ऒऴिगिऱदुवुम्+++(=त्यागश्च)+++  
@@ -2261,7 +2261,7 @@ Hacer a la luz al gurú y su omisión para hacerlo, no necesita decir, se debe a
 
 [^f22]: Śeṣasamhita: 14-50
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवद्-विषयत्तिऱ् पोले गुरु विषयत्तिलुम्  
 परैय्+++(←परा)+++ आऩ भक्तिय् उडैयवऩुक्कु  
@@ -2317,7 +2317,7 @@ De [^f23] Kaṭha śruti [^9] y [^f24] Jābala śruti [^10] Es bien sabido que t
 </details>
 
 ### अभावे प्रत्यवायः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्ङऩ्+++(=ईस्दृश)+++ अल्लादार्क्कु  
 इप्पडि +++(उपायाद्य्-अनुष्ठान-पर्यन्त--फल-रूपम् आऩ)+++ ज्ञान-संपत्त् उण्डागाद् ऎऩ्ऩुम् इडम्+++(=स्थानम्)+++  
@@ -2343,7 +2343,7 @@ De [^f23] Kaṭha śruti [^9] y [^f24] Jābala śruti [^10] Es bien sabido que t
 </details>
 
 ### आचार्यतोऽपेक्षा
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिगवुम्+++(=अतीव)+++ गुणाधिकर् आऩ शिष्यर्गळुक्कुङ्  
 कडुग+++(=वेगेन)+++ अध्यात्म-विषयङ्गळै प्रकाशिप्पियादार्क्कु  
@@ -2439,7 +2439,7 @@ los pecados del discípulo **se convierten** también en los pecados del gurú.
 </details>
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरुवदु विचारियादे इन्द्रऩुक्कु उपदेशित्तुत्  
 तानुम् ब्रह्म-विद्यैयै मऱन्दु  
@@ -2481,7 +2481,7 @@ Esto se puede ver desde la historia de Brahma. Sin una cuidadosa investigación 
 </details>
 
 ### क्षीयेते संपद्-आयुषी
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि “अप्रकाश-प्रकाशाभ्याम्” ऎऩ्गिऱ इरण्डुक्कुम्  
 “क्षीयेते संपद्-आयुषी” ऎऩ्गिऱ फलङ्गळै  
@@ -2527,7 +2527,7 @@ y al apoyo de Jabala y Kaṭha Śruti s.
 </details>
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इरण्डिलुम् इरण्डु फलम् अन्वयित्तालुम्  
 वाक्यत्तिल् वरुम् विरोधम् इल्लै.
@@ -2538,7 +2538,7 @@ y al apoyo de Jabala y Kaṭha Śruti s.
 इरण्डिलुम् इरण्डु फलम् अन्वयित्तालुम् वाक्यत्तिल् वरुम् विरोधमिल्लै.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इरण्डिलुम्  
 इरण्डु फलम् अन्वयित्तालुम्  
@@ -2650,7 +2650,7 @@ y la grandeza espiritual del gurú también
 </details>
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिल्व्+++(=अल्प)+++ आऩ +++(धन-कीर्त्यादि-)+++प्रयोजनङ्गळैप् पऱ्ऱ+++(=सम्बद्ध)+++  
 शिष्य-गुण-पूर्तिय् इल्लाद चपलर्गळुक्कु  
@@ -2686,7 +2686,7 @@ y que el mantra sagrado **no debería**, en aras de ninguna ventaja material,
 
 ### परम-गुरु-सङ्ग्रहः
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् इडत्तिल् **गुरु-शब्दं**  
 परम-गुरुक्कळुक्कुम् **उपलक्षणं**,  
@@ -2717,7 +2717,7 @@ La palabra gurú se refiere, por implicación, a los gurús anteriores también 
 </details>
 
 ### मन्त्रार्थ-सङ्ग्रहः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्र-शब्दं मन्त्रार्थं मुदल् आऩ रहस्यङ्गळुक्कुम् प्रदर्शन-परम् । 
 </details>
@@ -2744,7 +2744,7 @@ Del mismo modo, la palabra mantra se refiere también a los significados del man
 
 ## अनुसन्धान-निमित्तानि
 ### मन्त्रार्थानुसन्धानेऽपि
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताऩ् इन्द रहस्यङ्गळै अनुसन्धिक्कुम् पोद् ऎल्लाम्  
 **आचार्य-परंपरैयै अनुसन्धिक्कैयुम्**  
@@ -2792,7 +2792,7 @@ Como regla general o Vidhi, se ha establecido que, cada vez que un hombre medita
 
 
 ### प्रायश्चित्तेऽपि
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्वाचार्यर्गळ् उडैय अनुसन्धानं  
 
@@ -2844,7 +2844,7 @@ También se ha dicho: "Como una [^f25] expiación por haber conversado con aquel
 
 
 ## अनुसन्धेय-सङ्ग्रहः
-<details open=""><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 ऎऩ्ऩ् उयिर्+++(→विष्णुं)+++ तन्द् अळित्तवरै+++(←अळि रक्षणे, गुरुगळै)+++ **शरणम् पुक्कि**+++(=गत्वा)+++,  
 याऩ्+++(=नान्)+++ अडैवे+++(=क्रमेण)+++ अवर् गुरुक्कळ् निरै+++(=गणं)+++ **वणङ्गिप्**+++(=नत्वा)+++,  
@@ -2891,7 +2891,7 @@ También se ha dicho: "Como una [^f25] expiación por haber conversado con aquel
 
 
 ## गुरु-भक्त्यै प्रार्थना
-<details open=""><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 एते **मह्यम्** अपोढ+++(=अपास्त)+++-मन्मथ-शरोन्माथाय **नाथादयस्**  
 त्रय्य्-अन्त--प्रतिनन्दनीय--विविधोदन्ताः+++(=कथाः)+++ **स्वदन्ताम्** इह ।  
@@ -2936,7 +2936,7 @@ Que estos grandes maestros espirituales, Nāthamuni y otros, llenen mi corazón 
 
 ## स्व-परम्-परा--जयः
 
-<details open=""><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 हृद्या हृत्-पद्म-सिंहासन-रसिक--हय-ग्रीव--हेषोर्मि-घोष-  
 क्षिप्त-प्रत्यर्थि-दृप्तिर् **जयति** बहु-गुणा **पङ्क्तिर्** अस्मद्-गुरूणाम् ।  
@@ -2983,7 +2983,7 @@ La maravillosa línea de nuestros gurús que poseen muchas cualidades auspiciosa
 
 ### रामानुजः
 
-<details open=""><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 आरण+++(=आरण्यक→वेद)+++-नूल्+++(→आध्यात्मिक-ग्रन्थ)+++-वऴिच्-चॆव्वैय्+++(=सौन्दर्यम्)+++-+++(प्रत्येकम्-)+++अऴित्त्-इडुम् ऐतुकर्क्क्+++(=हेतुकर्क्)+++ ओर्  
 **वारणम् आय्** अवर् वादक्-कदलिगळ्+++(←को वायुर् दलतीति)+++ **माय्त्त**+++(=पातितवान्)+++ पिराऩ्+++(=उपकारक)+++  
@@ -3024,7 +3024,7 @@ Nos aferramos a las nobles cualidades y las dulces palabras del salvia benevolen
 
 ### यामुनः
 
-<details open=""><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 नीळ+++(=बहु)+++-वन्द् इऩ्ऱु+++(=अद्य)+++ विधिव्-अगैयाल्+++(=वृद्ध्या)+++ +++(शेषत्व-)+++निनैव्+++(=स्मृति)+++-ऒऩ्ऱिय+++(=युक्त)+++ नाम्  
 मीळ+++(=पुनः)+++ **वन्द्** इऩ्ऩुम्+++(=इतः)+++ विनैय्+++(=पाप)+++-उडम्ब्-ऒऩ्ऱि+++(=युक्त्वा)+++ **विऴुन्द् उऴलाद्**+++(=न परिवर्तामहे)+++  
@@ -3062,7 +3062,7 @@ Nosotros, que estábamos atrapados en la corriente de Saṁsāra desde el tiempo
 </details>
 
 ### नाथमुनिः
-<details open=""><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 काळम्+++(=वाद्य-विशेषः)+++ वलम्+++(=दक्षिण)+++बुरिय्+++(=वर्तन [शङ्ख])+++ अऩ्ऩ+++(=इव)+++ नऱ्+++(ल्)+++-‌कादल्-अडियवर्क्कुत् +++(←मेल्[=पश्चिम]-अगत्[=गृह]-आऴ्वान्, कीळ्[=पूर्व]-अगत्-आऴ्वान्)+++  
 ताळम्+++(→भरत-शास्त्रम्)+++ **वऴङ्गित्**+++(=दत्तवद्)+++, तमिऴ्-मऱैय्+++(=छन्दः←छादने)+++  इऩ्ऩ्+++(=मधुर)+++-इसै+++(=गान)+++ तन्द-वळ्ळल्+++(=उदार)+++  
@@ -3118,7 +3118,7 @@ Vendremos a la nueva vida nuevamente inclinándonos todos los días a los pies d
 </details>
 
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति श्रीकवितार्किकसिंहस्य सर्वसन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
