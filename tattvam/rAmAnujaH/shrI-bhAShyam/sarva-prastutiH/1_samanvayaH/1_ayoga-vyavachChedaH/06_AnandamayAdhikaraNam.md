@@ -7000,7 +7000,7 @@ That, moreover, the all-wise being referred to in the mantra is other than the i
 किञ्च अस्य मान्त्रवर्णिकस्य विपश्चितः सोऽकामयत (तै.आन.६) इत्यारभ्य वक्ष्यमाणस्वसङ्कल्पाव प्तजगज्जन्मस्थितिजगदन्तरात्मत्वादेः मुक्तात्मस्वरूपादन्यत्वं सुस्पष्टमेव॥१७॥
 </details>
 
-## भेदव्यपदेशात् श्रौतात् आनन्दमयस्य जीवादन्यता
+## विज्ञानमयाद् भेदः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7021,7 +7021,7 @@ And on account of the declaration of difference, the Self consisting of bliss is
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-१८. भेद-व्यपदेशाच् च ॥ १-१-१८ ॥
+१८. +++(विज्ञानमयानन्दमययोर्)+++ भेद-व्यपदेशाच् च ॥ १-१-१८ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -7038,7 +7038,12 @@ And on account of the declaration of difference, the Self consisting of bliss is
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद् वा एतस्माद् आत्मनः आकाशः (तै.आन.१) इत्य् आरभ्य मान्त्रवर्णिकं ब्रह्म व्यञ्जयद् वाक्यम् अन्न-प्राण-मनोभ्य इव जीवाद् अपि तस्य भेदं व्यपदिशति
+> तस्माद् वा एतस्माद् आत्मन आकाशः (तै.आन.१) 
+
+इत्य् आरभ्य  
+मान्त्र-वर्णिकं ब्रह्म व्यञ्जयद् वाक्यम्  
+अन्न-प्राण-मनोभ्य इव  
+जीवाद् अपि तस्य भेदं व्यपदिशति –
 </details>
 
 <details><summary>Translation</summary>
@@ -7062,7 +7067,10 @@ The part of the chapter – beginning with the words 'From that same Self there 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद् वा एतस्माद् विज्ञानमयात्। (तै.आन.५) अन्यो ऽन्तर आत्माऽनन्दमयः (तै.आन.५) इति।
+> तस्माद् वा एतस्माद् विज्ञानमयाद्  
+अन्यो ऽन्तर आत्माऽनन्दमयः (तै.आन.५) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -7079,7 +7087,8 @@ viz. in the clause 'different from this which consists of knowledge, is the othe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो जीवाद् भेदस्य व्यपदेशाच् च अयं मान्त्रवर्णिक आनन्दमयो अन्य एवेति ज्ञायते ॥१८॥
+अतो जीवाद् भेदस्य व्यपदेशाच् च  
+अयं मान्त्रवर्णिक आनन्दमयो अन्य एवेति ज्ञायते ॥१८॥
 </details>
 
 <details><summary>Translation</summary>
