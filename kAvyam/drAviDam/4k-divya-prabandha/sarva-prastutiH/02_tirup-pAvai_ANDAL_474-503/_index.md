@@ -1,6 +1,5 @@
 +++
 title = "+०२ तिरुप्पावै आण्डाळ् ४७४-५०३"
-
 +++
 
 ————-
@@ -8,12 +7,9 @@ title = "+०२ तिरुप्पावै आण्डाळ् ४७४-
 ## व्रत-प्रतिज्ञा
 ### ०१ गोपालसिंहः - मार्गऴित्-तिङ्गळ्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ०१</summary>
 
 <div caption="vibhA - 01 - Margazhitingal - nATa" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/01__Margazhitingal__nATa.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४७४ - ०१</summary>
@@ -170,12 +166,9 @@ In a way that the whole world sings about.
 
 ### ०२ व्रत-नियमाः- वैयत्तु वाऴ्वीर्गाळ्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ०२</summary>
 
 <div caption="vibhA - 02 - Vaiyattu Vazhveergal - gauLa" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/02__Vaiyattu_Vazhveergal__gauLa.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४७५ - ०२</summary>
@@ -317,12 +310,9 @@ And worship our Goddess Pavai.
 
 ### ०३ फलं - ओङ्गि युलगळन्द
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ०३</summary>
 
 <div caption="vibhA - 03 - Ongi Ulagalanda - Arabhi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/03__Ongi_Ulagalanda__Arabhi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४७६ - ०३</summary>
@@ -460,12 +450,9 @@ And all this I assure by worship of our Goddess Pavai.
 
 ### ०४ पर्जन्यप्रार्थना - आऴिमऴैक् कण्णा
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ०४</summary>
 
 <div caption="vibhA - 04 - Aazhi Mazhai - varALi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/04__Aazhi_Mazhai__varALi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४७७ - ०४</summary>
@@ -599,12 +586,9 @@ And worship our goddess Pavai.
 
 ### ०५ नामस्मरण-प्रभावः - मायनै मन्नु
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ०५</summary>
 
 <div caption="vibhA - 05 - Maayanai Mannu - shrI" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/05__Maayanai_Mannu__shrI.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४७८ - ०५</summary>
@@ -761,12 +745,9 @@ Oh, Goddess Pavai.
 
 ### ०६ भगवत्पूजाध्वनिना जागृतिः - पुळ्ळुं शिलम्बिन
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ०६</summary>
 
 <div caption="vibhA - 06 - Pullum - shankarAbharaNam" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/06__Pullum__shankarAbharaNam.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४७९ - ०६</summary>
@@ -870,6 +851,7 @@ Let us go and worship our Pāvai:”
 </details>
 
 ## परस्परोद्बोधनम्
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः - ०६</summary>
@@ -906,12 +888,9 @@ And make our mind cool, Oh, Goddess Pavai.
 
 ### ०७ प्रातश्शब्दैर् जागृतिः - कीशु कीशॆन्ऱॆङ्गुं
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ०७</summary>
 
 <div caption="vibhA - 07 - Keesu - Bhairavi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/07__Keesu__Bhairavi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४८० - ०७</summary>
@@ -1051,12 +1030,9 @@ And worship our goddess Pavai.
 
 ### ०८ गोपीप्रतीक्षा - कीळ्वानम्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ०८</summary>
 
 <div caption="vibhA - 08 - Keezhvaanam - dhanyAsi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/08__Keezhvaanam__dhanyAsi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४८१ - ०८</summary>
@@ -1197,12 +1173,9 @@ And worship our Goddess Pavai
 
 ### ०९ तर्जनेनोद्बोधनम् - तूमणि माटत्तु
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ०९</summary>
 
 <div caption="vibhA - 09 - Thoomani - hamir kalyANi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/09__Thoomani__hamir_kalyANi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४८२ - ०९</summary>
@@ -1339,12 +1312,9 @@ And worship the Goddess Pavai.
 
 ### १० निद्रास्पर्धा - नोऱ्ऱु स्वर्गम्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - १०</summary>
 
 <div caption="vibhA - 10 - Nottruchuvarkam - thODi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/10__Nottruchuvarkam__thODi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४८३ - १०</summary>
@@ -1475,12 +1445,9 @@ And worship the Goddess Pavai.
 
 ### ११ - कऱ्ऱुक्कऱवै
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ११</summary>
 
 <div caption="vibhA - 11 - Katrukkaravai Kanangal - husEni" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/11__Katrukkaravai_Kanangal__husEni.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४८४ - ११</summary>
@@ -1617,12 +1584,9 @@ And not worship our Goddess pavai.
 
 ### १२ - कनैत्तिळं
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - १२</summary>
 
 <div caption="vibhA - 12 - Kanaittilam Katrerumai - kedAragauLa" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/12__Kanaittilam_Katrerumai__kedAragauLa.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४८५ - १२</summary>
@@ -1754,12 +1718,9 @@ And are ready to worship our Goddess Pavai...
 
 ### १३ - पुळ्ळिन् वाय्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - १३</summary>
 
 <div caption="vibhA - 13 - Pullinvaai Keendanai - aTHANA" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/13__Pullinvaai_Keendanai__aTHANA.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४८६ - १३</summary>
@@ -1904,12 +1865,9 @@ And worship our Goddess Pavai.
 
 ### १४ - उङ्गळ् पुऴैक्कडै
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - १४</summary>
 
 <div caption="vibhA - 14 - Ungal Puzhakkadai - Ananda bhairavi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/14__Ungal_Puzhakkadai__Ananda bhairavi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४८७ - १४</summary>
@@ -2046,12 +2004,9 @@ And worship our Goddess Pavai.
 
 ### १५ - ऎल्ले! इळङ्किळिये
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - १५</summary>
 
 <div caption="vibhA - 15 - Elle Elang Kiliye - begaDA" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/15__Elle_Elang Kiliye__begaDA.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४८८ - १५</summary>
@@ -2178,12 +2133,9 @@ And worship our Goddess Pavai.”
 
 ### १६ - नायगनाय् निन्ऱ
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - १६</summary>
 
 <div caption="vibhA - 16 - Nayagannai Nindra - mOhanam" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/16__Nayagannai_Nindra__mOhanam.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४८९ - १६</summary>
@@ -2284,6 +2236,7 @@ We are going to worship our Pāvai:”
 </details>
 
 ## नन्द-गृह-प्राप्तिः
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः - १६</summary>
@@ -2320,12 +2273,9 @@ So that we can worship our Goddess Pavai.
 
 ### १७ - अम्बरमे तण्णीरे
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - १७</summary>
 
 <div caption="vibhA - 17 - Ambarame Thaneere - kalyANi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/17__Ambarame_Thaneere__kalyANi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४९० - १७</summary>
@@ -2464,12 +2414,9 @@ So we can worship our Goddess Pavai.
 
 ### १८ - उन्दु मद
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - १८</summary>
 
 <div caption="vibhA - 18 - UndhuMadhagalittran - sAvEri" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/18__UndhuMadhagalittran__sAvEri.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४९१ - १८</summary>
@@ -2572,6 +2519,7 @@ We are going to worship our Pāvai
 </details>
 
 ## नीला-बोधनम्
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः - १८</summary>
@@ -2606,12 +2554,9 @@ So that we can worship our Goddess Pavai.
 
 ### १९ - कुत्तु विळक्कॆरिय
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - १९</summary>
 
 <div caption="vibhA - 19 - KuttuVilakkeriya - sahAnA" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/19__KuttuVilakkeriya__sahAnA.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४९२ - १९</summary>
@@ -2747,12 +2692,9 @@ Please allow us to worship our Goddess Pavai.
 
 ### २० - मुप्पत्तु मूवर्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - २०</summary>
 
 <div caption="vibhA - 20 - Muppatthumoovar - senchuruTTi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/20__Muppatthumoovar__senchuruTTi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४९३ - २०</summary>
@@ -2859,6 +2801,7 @@ We are going to worship our Pāvai
 </details>
 
 ## कृष्ण-जागरणम्
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः - २०</summary>
@@ -2896,12 +2839,9 @@ And thus worship our Goddess Pavai.
 
 ### २१ नन्दसुतः श्रीमान् बलवान् - एऱ्ऱ कलङ्गळ्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - २१</summary>
 
 <div caption="vibhA - 21 - EtraKalangal - nAdanAmakriya" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/21__EtraKalangal__nAdanAmakriya.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४९४ - २१</summary>
@@ -3023,12 +2963,9 @@ And worship our Goddess Pavai.
 
 ### २२ राजभिर् अहङ्कारत्यागः - अङ्गण् मा
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - २२</summary>
 
 <div caption="vibhA - 22 - AnganNma - Yamuna KalyaNi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/22__AnganNma__Yamuna_KalyaNi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४९५ - २२</summary>
@@ -3123,6 +3060,7 @@ We are going to worship our Pāvai
 </details>
 
 ## प्रार्थनाः
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः - २२</summary>
@@ -3181,12 +3119,9 @@ And we can worship our Goddess Pavai
 
 ### २३ सिंहः - मारिमलै
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - २३</summary>
 
 <div caption="vibhA - 23 - Maarimalai - Bilahari" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/23__Maarimalai__Bilahari.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४९६ - २३</summary>
@@ -3319,12 +3254,9 @@ And help us to worship our Goddess Pavai.
 
 ### २४ अवतार-कर्माणि वीर्यवन्ति - अन्ड्रु इव्वुलगमळन्दाय्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - २४</summary>
 
 <div caption="vibhA - 24 - Andrivvulagam - Sindhubhairavi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/24__Andrivvulagam__Sindhubhairavi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४९७ - २४</summary>
@@ -3468,12 +3400,9 @@ And worship our Goddess Pavai.
 
 ### २५ कंस-वैफल्य-कृत् - ओरुत्ति मगनाय्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - २५</summary>
 
 <div caption="vibhA - 25 - Oruthi Maganai - Behaag" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/25__Oruthi_Maganai__Behaag.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४९८ - २५</summary>
@@ -3609,12 +3538,9 @@ And worship our Goddess Pavai.
 
 ### २६ शङ्खादि-परिकराः - माले मणिवण्णा
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - २६</summary>
 
 <div caption="vibhA - 26 - Maale Manivanna - Kuntala VaraLi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/26__Maale_Manivanna__Kuntala VaraLi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_४९९ - २६</summary>
@@ -3750,12 +3676,9 @@ So that we worship our Goddess Pavai.
 
 ### २७ गानात् पुष्कलो भोगः - कूडारै वेल्लुम् सीर्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - २७</summary>
 
 <div caption="vibhA - 27 - Koodaraivellum - Poorvi KalyaNi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/27__Koodaraivellum__Poorvi_KalyaNi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_५०० - २७</summary>
@@ -3853,6 +3776,7 @@ We are going to worship our Pāvai:”
 </details>
 
 ## व्रतान्त-भावाः
+
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>श्रीरामदेशिक-पद्य-सारः - २७</summary>
@@ -3887,12 +3811,9 @@ And worship our Goddess Pavai.
 
 ### २८ अपराध-क्षमा - कऱवैगळ् पिन्
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - २८</summary>
 
 <div caption="vibhA - 28 - Karavaigalpin - Kamboji" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/28__Karavaigalpin__Kamboji.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_५०१ - २८</summary>
@@ -4022,12 +3943,9 @@ So that we can worship our Goddess Pavai.
 
 ### २९ भविष्येऽपि कैङ्कर्य-भग्यम् - शिऱ्ऱं शिऱु
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - २९</summary>
 
 <div caption="vibhA - 29 - Chitram Chirukaale - Madhyamaavati" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/29__Chitram_Chirukaale__Madhyamaavati.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_५०२ - २९</summary>
@@ -4163,12 +4081,9 @@ And help us to worship Goddess Pavai.
 ## फल-स्तुतिः
 ### ३० फलस्तुतिः - वङ्गक्कडल् कडैन्द
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>गानम् - ३०</summary>
 
 <div caption="vibhA - 30 - Vangakkadal kadainda - suruTTi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/30__Vangakkadal_kadainda__suruTTi.mp3"></div>
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - DP_५०३ - ३०</summary>
