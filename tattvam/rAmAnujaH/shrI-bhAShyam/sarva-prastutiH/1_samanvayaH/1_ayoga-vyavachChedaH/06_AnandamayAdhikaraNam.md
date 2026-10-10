@@ -7101,7 +7101,7 @@ Through this declaration of difference from the individual soul we know that the
 अतो जीवाद्भेदस्य व्यपदेशाच्चायं मान्त्रवर्णिक आनन्दमयोऽन्य एवेति ज्ञायते ॥१८॥
 </details>
 
-## आनन्दमयस्य जीवादन्यत्वम् अचित्संसर्गाभावकालिकसृष्टिसङ्कल्पज्ञाप्यम्
+### अचित्-संसर्गः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7122,7 +7122,7 @@ And on account of desire, the Self of bliss is other than the individual soul:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-१९. कामाच् च न आनुमानापेक्षा ॥ १-१-१९ ॥
+१९. कामाच् च नानुमानापेक्षा ॥ १-१-१९ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -7164,7 +7164,9 @@ And on account of desire, the Self of bliss is other than the individual soul:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीवस्य अविद्या-परवशस्य जगत्-कारणत्वे ह्य् अवर्जनीया आनुमानिक-प्रधानादि-शब्दाभिधेयाचिद्-वस्तु-संसर्गापेक्षा; तथैव हि चतुर्मुखादीनां कारणत्वम्,
+जीवस्याविद्या-पर-वशस्य जगत्-कारणत्वे ह्य् अवर्जनीया  
+आनुमानिक--प्रधानादि-शब्दाभिधेयाचिद्- -वस्तु-संसर्गापेक्षा;  
+तथैव हि चतुर्-मुखादीनां कारणत्वम्,
 </details>
 
 <details><summary>Translation</summary>
@@ -7186,7 +7188,11 @@ In order that the individual soul which is enthralled by Nescience may operate a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इह च सो ऽकामयत, बहु स्यां प्रजायेय (तै.आन.६) इत्य् अचित्-संसर्ग-रहितस्य स्व-कामाद् एव विचित्र-चिदचिद्-वस्तुनस् सृष्टिः इदं सर्वम् असृजत, यद् इदं किञ्च (तै.आन.६.२) इत्य् आम्नायते।
+इह च - 
+
+> सो ऽकामयत, बहु स्यां प्रजायेय (तै.आन.६) 
+
+इत्य् अचित्-संसर्ग-रहितस्य स्व-कामाद् एव विचित्र-चिदचिद्-वस्तुनस् सृष्टिः इदं सर्वम् असृजत, यद् इदं किञ्च (तै.आन.६.२) इत्य् आम्नायते।
 </details>
 
 <details><summary>Translation</summary>
