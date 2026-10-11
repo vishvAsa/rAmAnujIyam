@@ -1,6 +1,5 @@
 +++
 title = "+०२ तिरुप्पावै आण्डाळ् ४७४-५०३"
-
 +++
 
 ————-
@@ -24,6 +23,8 @@ title = "+०२ तिरुप्पावै आण्डाळ् ४७४-
 नारायणने नमक्के पऱै+++(=इष्टार्थं/ दुन्दुभिं)+++ **तरुवान्**+++(=तरुत्तानॆ)+++,  
 पार्-ओर्+++(=भूमिस्थानां)+++ **पुगऴप्**+++(=हॊगळ)+++ **पडिन्देल्**+++(=युक्तं चेत्)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४७४</summary>
 
@@ -85,7 +86,6 @@ as the world praises him:”
 
 शीर्=सम्पत्तु, मल् गुम्=तुम्बिरुव\(समृद्धियागिरुव\), आय् प्पाडि=गोकुलद, शॆल्वम्=सौन्दर्यद सिरियुन्नुळ्ळ, शिऱुमीर्हाळ्=ऎळॆय वयस्सिन हॆङ्गळे, नेर्=नेर्मॆयॆम्ब, इऱैयीर्= आभरणवुळ्ळवरे, कूर्=हरितवाद, वेल्=वेलायुधवन्नुळ्ळ, कॊडु=क्रूर, तॊऴिलन्=कार्यदवनाद, नन्दगोपन्=नन्दगोपन, कुमरन्=मगनू, एर्=सौन्दर्यवु \(आकर्षणॆयिन्द कूडिद\), आर्न्द=तुम्बिद, कण्णि=कण्णिनवळाद, अशोदै=यशोदॆय, इळ=ऎळॆय, शिङ्गम्=सिंहनू, कार्=कार्मुगिलिन, मेनि=देहकान्तियुळ्ळवनू, शॆम्=कॆन्दावरॆयन्तॆ, कण्=कण्णुळ्ळवनू, कदिर्=सूर्य, मदियन्=चन्द्रर, पोल्=हागॆ, मुहत्तान्=मुखदवनू, आद, नारायणने=श्रीमन्नारायणने, नमक्के=नम्मगळिगॆ \(नमगॆ\), पऱै=आशिसुव वस्तुवन्नु, तरुवान्=करुणिसुत्तानॆ\(आद्दरिन्द\), मार्हऴि तिङ्गळ्=मार्गशिर मासद, मदि=चन्द्रनु, निऱैन्द=तुम्बिद, नल्=ऒळ्ळॆय, नाळाल्=दिनदन्दु, पारोर्=लोकद जनरॆल्ल, पुहऴ्=कॊण्डाडुवन्तॆ, पडिन्दु पल्=नॆलॆयन्नु गळिसुवुदक्कॆन्दु ऎम्=नम्मदाद, ओर् पावाय्=ऒन्दु व्रतक्कागि, नीर् आड=मज्जन माडुवुदक्कागि, पोदुवीर्=बरुववरॆल्लरू, पोदुमिन्=बन्नि.
 </details>
-
 
 <details><summary>गरणि-गद्यानुवादः - DP_४७४ - ०१</summary>
 
@@ -162,6 +162,7 @@ In a way that the whole world sings about.
 [^prr3]: The foster mother of Lord Krishna
 [^prr4]: Another name for God Vishnu
 </details>
+</details>
 
 ### ०२ व्रत-नियमाः- वैयत्तु वाऴ्वीर्गाळ्
 
@@ -181,6 +182,8 @@ In a way that the whole world sings about.
 ऐयमुं पिच्च् ऐयुम् आन्दनैयुं कैकाट्टि,  
 उय्युम् आऱॆण्णि उगन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४७५</summary>
 
@@ -303,6 +306,7 @@ And worship our Goddess Pavai.
 [^prr5]: Lord Vishnu is believed to sleep on his Serpant bed floating in the holy ocean of milk.
 [^prr6]: Black lamp soot worn in the eyes by ladies in India.
 </details>
+</details>
 
 ### ०३ फलं - ओङ्गि युलगळन्द
 
@@ -322,6 +326,8 @@ And worship our Goddess Pavai.
 क्कुडं निऱैक्कुं वळ्ळल् पॆरुं पशुक्कळ्,  
 नीङ्गाद शॆल्वं निऱैन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४७६</summary>
 
@@ -440,6 +446,7 @@ And all this I assure by worship of our Goddess Pavai.
 
 [^prr7]: Lord Narayana in Vamana Avatara measured the three worlds.
 </details>
+</details>
 
 ### ०४ पर्जन्यप्रार्थना - आऴिमऴैक् कण्णा
 
@@ -459,6 +466,8 @@ And all this I assure by worship of our Goddess Pavai.
 वाऴ वुलकिनिल् पॆय्दिडाय्, नाङ्गळुं  
 मार्कऴि नीराड मगिऴ्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४७७</summary>
 
@@ -573,6 +582,7 @@ And worship our goddess Pavai.
 
 [^prr8]: Lord Vishnu had a lotus grown out of his belly on which sat Lord Brahma. Hence he is called Padmanabha
 </details>
+</details>
 
 ### ०५ नामस्मरण-प्रभावः - मायनै मन्नु
 
@@ -592,6 +602,8 @@ And worship our goddess Pavai.
 पोय पिऴैयुं पुगुदरुवा निन्ऱनवुम्,  
 तीयिनिल् तूशागुं शॆप्पेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४७८</summary>
 
@@ -690,7 +702,6 @@ Let us go and worship our Pāvai:”
 पादुकासेवकत्व बिरुदतुल्यत्वम् अस्यापि।
 </details>
 
-
 <details><summary>अभिनयः - ०५</summary>
 
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=DxA_Uv9q1mg"></div>
@@ -730,6 +741,7 @@ Oh, Goddess Pavai.
 [^prr10]: Holy River which is a tributary of Ganges
 [^prr11]: He who has been tied by his mother in the belly.
 </details>
+</details>
 
 ### ०६ भगवत्पूजाध्वनिना जागृतिः - पुळ्ळुं शिलम्बिन
 
@@ -749,6 +761,8 @@ Oh, Goddess Pavai.
 मॆळ्ळवॆऴुन्दु अरियॆन्ऱ पेररवम्,  
 उळ्ळं पुगुन्दु कुळिर्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४७९</summary>
 
@@ -834,8 +848,12 @@ Let us go and worship our Pāvai:”
 
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=GL9Z-ujkvG0"></div>
 </details>
+</details>
 
 ## परस्परोद्बोधनम्
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः - ०६</summary>
 
 काचिद् गोपिका अपराम् उद्बोधयति -  
@@ -866,6 +884,7 @@ And make our mind cool, Oh, Goddess Pavai.
 [^prr14]: Lord Krishna killed Ogress Poothaa who tried to kill him poisonous milk
 [^prr15]: Lord Krisna killed an ogre called Shakatasura who appeared in the form of cart
 </details>
+</details>
 
 ### ०७ प्रातश्शब्दैर् जागृतिः - कीशु कीशॆन्ऱॆङ्गुं
 
@@ -885,6 +904,8 @@ And make our mind cool, Oh, Goddess Pavai.
 केशवनै प्पाडवुं नी केट्टे किडत्तियो,  
 देशमुडैयाय् तिऱवेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४८०</summary>
 
@@ -1005,6 +1026,7 @@ And worship our goddess Pavai.
 [^prr16]: Another name of Lord Vishnu
 [^prr17]: Yet another name of Lord Vishnu
 </details>
+</details>
 
 ### ०८ गोपीप्रतीक्षा - कीळ्वानम्
 
@@ -1024,6 +1046,8 @@ And worship our goddess Pavai.
 देवादिदेवनै **शॆन्ऱु** नां **शेवित्ताल्**+++(=सेविसिदरॆ [नमनदिन्द])+++,  
 आव् आव् **ऎन्ऱार् आय्न्द् अरुळेल्** ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४८१</summary>
 
@@ -1145,6 +1169,7 @@ And worship our Goddess Pavai
 [^prr18]: The Asura called Kesi who came in the form of horse.
 [^prr19]: Kamsa set upon Krishna two wresters known as Chanura and Mushtika to kill him and he killed them.
 </details>
+</details>
 
 ### ०९ तर्जनेनोद्बोधनम् - तूमणि माटत्तु
 
@@ -1164,6 +1189,8 @@ And worship our Goddess Pavai
 मामायन् मादवन् वैकुन्दन् ऎन्ऱॆन्ऱु,  
 नामं पलवुं नविन्ऱेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४८२</summary>
 
@@ -1281,6 +1308,7 @@ And worship the Goddess Pavai.
 [^prr20]: Another name of Vishnu
 [^prr21]: Abode of Lord Vishnu
 </details>
+</details>
 
 ### १० निद्रास्पर्धा - नोऱ्ऱु स्वर्गम्
 
@@ -1300,6 +1328,8 @@ And worship the Goddess Pavai.
 आऱ्ऱ वनन्दलुडैयाय् अरुङ्गलमे,  
 तेऱ्ऱमाय् वन्दु तिऱवेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४८३</summary>
 
@@ -1411,6 +1441,7 @@ And worship the Goddess Pavai.
 
 [^prr22]: Ravana’s brother who was killed by Lord Rama who used to sleep continuously for six months in a year
 </details>
+</details>
 
 ### ११ - कऱ्ऱुक्कऱवै
 
@@ -1430,6 +1461,8 @@ And worship the Goddess Pavai.
 शिऱ्ऱादे पेशादे शॆल्व प्पॆण्डाट्टि,  
 नी ऎऱ्ऱुक्कुऱङ्गुं पॊरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ११ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४८४</summary>
 
@@ -1547,6 +1580,7 @@ How can you neither move nor talk,
 And lie in deep trance,  
 And not worship our Goddess pavai.
 </details>
+</details>
 
 ### १२ - कनैत्तिळं
 
@@ -1566,6 +1600,8 @@ And not worship our Goddess pavai.
 इनित्तानॆऴुन्दिराय् ईदॆन्न पेरुऱक्कम्,  
 अनैत्तिल्लत्तारु मऱिन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४८५</summary>
 
@@ -1678,6 +1714,7 @@ And are ready to worship our Goddess Pavai...
 
 [^prr23]: Ravana was the king of Lanka.He was killed by Lord Rama
 </details>
+</details>
 
 ### १३ - पुळ्ळिन् वाय्
 
@@ -1697,6 +1734,8 @@ And are ready to worship our Goddess Pavai...
 पळ्ळिक्किडत्तियो पावाय्! नी नन्नाळाल्,  
 कळ्ळं तविर्न्दु कलन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४८६</summary>
 
@@ -1822,6 +1861,7 @@ And worship our Goddess Pavai.
 [^prr24]: A Rakshasa called Bhakasura
 [^prr25]: Indicates the cutting of ten heads of ravana
 </details>
+</details>
 
 ### १४ - उङ्गळ् पुऴैक्कडै
 
@@ -1841,6 +1881,8 @@ And worship our Goddess Pavai.
 शङ्गॊडु शक्करमेन्दुं तडक्कैयन्,  
 पङ्गयक्कण्णानै प्पाडेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४८७</summary>
 
@@ -1958,6 +2000,7 @@ And worship our Goddess Pavai.
 
 [^prr26]: Lord Vishnu has a Shankha and Sri Chakra in his hands
 </details>
+</details>
 
 ### १५ - ऎल्ले! इळङ्किळिये
 
@@ -1977,6 +2020,8 @@ And worship our Goddess Pavai.
 वल्लानै कॊन्ऱानै माऱ्ऱारै माऱ्ऱऴिक्क  
 वल्लानै, मायानै पाडेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४८८</summary>
 
@@ -2084,6 +2129,7 @@ And worship our Goddess Pavai.”
 [^prr27]: Verse in the form of question and answers from friends and she who is sleeping
 [^prr28]: Kuvalaya pIDa the elephant with four tusks was sent to kill Lord Krishna and he killed it.
 </details>
+</details>
 
 ### १६ - नायगनाय् निन्ऱ
 
@@ -2103,6 +2149,8 @@ And worship our Goddess Pavai.”
 वायाल् मुन्नमुन्नं माऱ्ऱादे अम्मा, नी  
 नेय निलैक्कदवं नीक्केल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४८९</summary>
 
@@ -2185,8 +2233,12 @@ We are going to worship our Pāvai:”
 
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=JMTUbFBGlEA"></div>
 </details>
+</details>
 
 ## नन्द-गृह-प्राप्तिः
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः - १६</summary>
 
 एतावता सर्वा उद्बुध्य  
@@ -2217,6 +2269,7 @@ So that we can worship our Goddess Pavai.
 [^prr29]: Nanda Gopa , the foster father of Lord Krishna
 [^prr30]: Meaning Darling child but indicates lord Krishna
 </details>
+</details>
 
 ### १७ - अम्बरमे तण्णीरे
 
@@ -2236,6 +2289,8 @@ So that we can worship our Goddess Pavai.
 शॆं पॊऱ्‌कऴलडि च्चॆल्वा बलदेवा,  
 उम्बियुं नीयुमुऱङ्गेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४९०</summary>
 
@@ -2355,6 +2410,7 @@ So we can worship our Goddess Pavai.
 
 [^prr31]: The elder brother of Lord Krishna
 </details>
+</details>
 
 ### १८ - उन्दु मद
 
@@ -2374,6 +2430,8 @@ So we can worship our Goddess Pavai.
 शॆन्दामरै क्कैयाल् शीरार् वळैयॊळिप्प,  
 वन्दु तिऱवाय् मगिऴ्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४९१</summary>
 
@@ -2458,8 +2516,12 @@ We are going to worship our Pāvai
 
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=3Fz2yQtLf_s"></div>
 </details>
+</details>
 
 ## नीला-बोधनम्
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः - १८</summary>
 
 पुरुष-कार-भूतां नीलाम् **उद्बोधयन्ति** - उन्दु मदकळिट्ऱ्ऱन् - इति ।  
@@ -2488,6 +2550,7 @@ So that we can worship our Goddess Pavai.
 
 [^prr32]: Darling wife of Lord Krishna identified as Nila Devi
 </details>
+</details>
 
 ### १९ - कुत्तु विळक्कॆरिय
 
@@ -2507,6 +2570,8 @@ So that we can worship our Goddess Pavai.
 ऎत्तनैयेलुं पिरिवाऱ्ऱ गिल्लैयाल्,  
 तत्तुवमन्ऱु तगवेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४९२</summary>
 
@@ -2623,6 +2688,7 @@ This is not that good,
 And cannot be accepted by us.  
 Please allow us to worship our Goddess Pavai.
 </details>
+</details>
 
 ### २० - मुप्पत्तु मूवर्
 
@@ -2642,6 +2708,8 @@ Please allow us to worship our Goddess Pavai.
 उक्कमुं+++(=व्यजनं)+++ तट्टॊळियुं+++(=आदर्शं)+++ तन्द् उन् मण्-आळनै+++(=विवाह-पतिं)+++,  
 इप्पोदे यॆम्मै नीर् आट्टेल्+++(=आडिसलु)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४९३</summary>
 
@@ -2730,8 +2798,12 @@ We are going to worship our Pāvai
 
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=FVCpj75q7wM"></div>
 </details>
+</details>
 
 ## कृष्ण-जागरणम्
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः - २०</summary>
 
 श्रियःपतिं कृष्ण-परमात्मानं गोपिकाः प्रबोधयन्ति - मुप्पत्तुमूवर् - इति ।  
@@ -2763,6 +2835,7 @@ And thus worship our Goddess Pavai.
 
 [^prr33]: Eight Vasus, Eleven Rudras, Twelve Adhiyas, and two agni each with a clan of 10 million devas
 </details>
+</details>
 
 ### २१ नन्दसुतः श्रीमान् बलवान् - एऱ्ऱ कलङ्गळ्
 
@@ -2782,6 +2855,8 @@ And thus worship our Goddess Pavai.
 आऱ्ऱादु+++(=विकल्प-बाहुल्यं विना)+++ वन्दु उन्न् अडि पणियुम्+++(=नीचम्)+++ आ पोले,  
 पोऱ्ऱियां+++(=नमस्कारेण)+++ वन्दों पुगऴ्न्देल्+++(=हॊगळिदरे)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २१ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४९४</summary>
 
@@ -2884,6 +2959,7 @@ We came praising you,
 So that we get fame,  
 And worship our Goddess Pavai.
 </details>
+</details>
 
 ### २२ राजभिर् अहङ्कारत्यागः - अङ्गण् मा
 
@@ -2903,6 +2979,8 @@ And worship our Goddess Pavai.
 अं+++(=आ)+++-गण् इरण्डुं कॊण्डु ऎङ्गळ् मेल् नोक्कुदियेल्+++(=नोडिदरॆ)+++,  
 ऎङ्गळ् मेल् शापम् इऴिन्द्+एल्+++(=इळिदरॆ)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २२ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४९५</summary>
 
@@ -2979,8 +3057,12 @@ We are going to worship our Pāvai
 
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=D-KcyMGuB-Y"></div>
 </details>
+</details>
 
 ## प्रार्थनाः
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः - २२</summary>
 
 एतावता भगवन्तम् उत्थाप्य  
@@ -3033,6 +3115,7 @@ And we can worship our Goddess Pavai
 आफ्नै इन्द्रिय छन् शत्रु असुरोपम ती सब ।  
 कृपा ईश्वरको भेटी सप्रिन्छन् शत्रु ती सब ॥२२॥  
 </details>
+</details>
 
 ### २३ सिंहः - मारिमलै
 
@@ -3052,6 +3135,8 @@ And we can worship our Goddess Pavai
 शीरिय+++(=श्रेष्ठ)+++ शिङ्गाशनत्त् इरुन्दु, यां+++(=वयं)+++ वन्द  
 कारियम् आराय्न्द्+++(=तिळिदु)+++ अरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४९६</summary>
 
@@ -3165,6 +3250,7 @@ And hear with compassion,
 For why we have come here,  
 And help us to worship our Goddess Pavai.
 </details>
+</details>
 
 ### २४ अवतार-कर्माणि वीर्यवन्ति - अन्ड्रु इव्वुलगमळन्दाय्
 
@@ -3184,6 +3270,8 @@ And help us to worship our Goddess Pavai.
 ऎन्ऱ् ऎन्ऱुन् शेवगमेय्+++(=[युद्ध]सेवकताम्)+++ एत्तिप्+++(=हॊगळि)+++ पऱै+++(=इष्टार्थं)+++ कॊळ्वान्+++(=कोळ्ळलु)+++,  
 इन्ऱु+++(=इन्दु)+++ यां+++(=वयं)+++ वन्दोम् इरन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४९७</summary>
 
@@ -3308,6 +3396,7 @@ And worship our Goddess Pavai.
 
 [^prr34]: Once when Indra made rain trouble the cowherds, Krishna raised the Govardhana mountain and held it as an umbrella
 </details>
+</details>
 
 ### २५ कंस-वैफल्य-कृत् - ओरुत्ति मगनाय्
 
@@ -3327,6 +3416,8 @@ And worship our Goddess Pavai.
 तिरुत्+++(=श्रीक्)+++-तक्क शॆल्वमुं+++(=सम्पत्तिं)+++ शेवगमुं+++(=[युद्ध]सेवकताम्)+++ यां पाडि,  
 वरुत्तमुं+++(=पीडां)+++ तीर्न्दु मगिऴ्न्देल्+++(=हर्षिसिदरॆ)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २५ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४९८</summary>
 
@@ -3443,6 +3534,7 @@ And worship our Goddess Pavai.
 
 [^prr35]: Uncle of Krishna who wanted to kill him but was killed by him in the end
 </details>
+</details>
 
 ### २६ शङ्खादि-परिकराः - माले मणिवण्णा
 
@@ -3462,6 +3554,8 @@ And worship our Goddess Pavai.
 कोल विळक्के, कॊडिये+++(=ध्वजमे)+++, वितानमे,  
 आलिन्+++(=आलद)+++ इलैयाय्+++(=ऎलॆयवने)+++ अरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २६ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_४९९</summary>
 
@@ -3578,6 +3672,7 @@ So that we worship our Goddess Pavai.
 
 [^prr36]: Invocation praying he live for ever
 </details>
+</details>
 
 ### २७ गानात् पुष्कलो भोगः - कूडारै वेल्लुम् सीर्
 
@@ -3597,6 +3692,8 @@ So that we worship our Goddess Pavai.
 मूड+++(=मुळुगुवष्टु)+++ नॆय् पॆय्दु+++(=हुय्दु)+++, मुऴङ्-गै+++(=मॊळ-कै)+++ वऴिवार+++(=वऴिय् इक्रप्डि)+++,  
 कूडिय् +++(खादित्वा)+++ इरुन्दु कुळिर्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_५००</summary>
 
@@ -3676,8 +3773,12 @@ We are going to worship our Pāvai:”
 
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=AX3GGb7zhTc"></div>
 </details>
+</details>
 
 ## व्रतान्त-भावाः
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>श्रीरामदेशिक-पद्य-सारः - २७</summary>
 
 गोप-स्त्रियः व्रतम् **अनुष्ठाय**  
@@ -3706,6 +3807,7 @@ And with the ghee dripping from our forehands,
 We will be together and be happy,  
 And worship our Goddess Pavai.  
 </details>
+</details>
 
 ### २८ अपराध-क्षमा - कऱवैगळ् पिन्
 
@@ -3725,6 +3827,8 @@ And worship our Goddess Pavai.
 शिऱु+++(=किरु)+++-पेर्+++(=नामानि)+++ अऴैत्-तनवुं+++(=करॆद-मात्रक्के)+++ शीऱिय्+++(=कोपम्)+++ अरुळादे  
 इऱैवा+++(=सर्वेश)+++! नी ताराय्+++(←तारो)+++ पऱैय्+++(=इष्टार्थं)+++ एल्+++(=चेत्)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २८ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_५०१</summary>
 
@@ -3835,6 +3939,7 @@ So please be not be angry on us,
 And please give us drums, Oh Lord,  
 So that we can worship our Goddess Pavai.  
 </details>
+</details>
 
 ### २९ भविष्येऽपि कैङ्कर्य-भग्यम् - शिऱ्ऱं शिऱु
 
@@ -3854,6 +3959,8 @@ So that we can worship our Goddess Pavai.
 उऱ्ऱोम्+++(=सम्बद्धास् स्मः)+++ एय् +++(=एव)+++ आवों, उनक्के नां आट्+++(←आळ्)+++ चॆय्वोम्,  
 मऱ्ऱै+++(=अन्य)+++ नं कामङ्गळ् माऱ्ऱ्+++(=विनिमितं)+++ एल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २९ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_५०२</summary>
 
@@ -3969,6 +4076,7 @@ And we would be thine slaves,
 And so please remove all our other desires,  
 And help us to worship Goddess Pavai.  
 </details>
+</details>
 
 ## फल-स्तुतिः
 ### ३० फलस्तुतिः - वङ्गक्कडल् कडैन्द
@@ -3989,6 +4097,8 @@ And help us to worship Goddess Pavai.
 शॆङ्-गन् तिरु-मुगत्तुच् चॆल्वत्+++(=श्रीयुत)+++ तिरु+++(=श्री)+++-मालाल्+++(=पति-तः)+++,  
 ऎङ्गुं तिरुव् अरुळ् पॆऱ्ऱु+++(=पडॆदु)+++ इन्ब्+++(=आनन्दम्)+++ उऱुवर्+++(=उळ्ळुवर्)+++ ऎम् बावाय् ॥ ३० ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (विभक्तम्) - DP_५०३</summary>
 
@@ -4095,6 +4205,7 @@ From the beautiful city of Puduvai,
 Will be happy and get the grace,  
 Of our Lord Vishnu with merciful pretty eyes.  
 And four mountain like shoulders, for ever  
+</details>
 </details>
 
 आण्डाळ् तिरुव्-अडिगळे शरणम् ॥
