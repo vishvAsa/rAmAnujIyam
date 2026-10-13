@@ -213,23 +213,27 @@ On the other hand it cannot be urged against the former alternative that the dis
 </details>
 
 ## एकम् एवाद्वितीयम्
-### निर्विशेषम्
+### विशेषैर् न द्वितीत्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् उक्तम्, 
 
 > "एकम् एवाद्वितीयम्" इत्य्-अत्राद्वितीय-पदं  
-गुणतो ऽपि स-द्वितीयतां न सहते;  
+गुणतो ऽपि स-द्वितीयतां न सहते।  
 अतस् सर्व-शाखा-प्रत्यय-न्यायेन  
-कारण-वाक्यानाम् अद्वितीय-वस्तु-प्रतिपादन-परत्वम् अभ्युपगमनीयम्;  
-कारणतयोपलक्षितस्याद्वितीयस्य ब्रह्मणो लक्षणम् इदम् उच्यते सत्यं ज्ञानम् अनन्तं ब्रह्म 
+कारण-वाक्यानाम् अद्वितीय-वस्तु-प्रतिपादन-परत्वम् अभ्युपगमनीयम्।  
+कारणतयोपलक्षितस्याद्वितीयस्य ब्रह्मणो लक्षणम् इदम् उच्यते "सत्यं ज्ञानम् अनन्तं ब्रह्म" इति।  
+अतो लिलक्षयिषितं ब्रह्म निर्गुणम् एव;  
+अन्यथा "निर्गुणम्" (मन्त्रिकोपनिषत्) "निरञ्जनम्" (श्वे.६.१९) इत्य् आदिभिर् विरोधश् च – 
 
-इति -
+इति 
 </details>
 
 <details><summary>Thibaut</summary>
 
-You have further maintained the following view:--In the text 'one only without a second', the phrase 'without a second' negatives all duality on Brahman's part even in so far as qualities are concerned. We must therefore, according to the principle that all Śākhās convey the same doctrine, assume that all texts which speak of Brahman as cause, aim at setting forth an absolutely non-dual substance. Of Brahman thus indirectly defined as a cause, the text 'The True, knowledge, infinite is Brahman,' contains a direct definition;
+You have further maintained the following view:--
+
+> In the text 'one only without a second', the phrase 'without a second' negatives all duality on Brahman's part even in so far as qualities are concerned. We must therefore, according to the principle that all Śākhās convey the same doctrine, assume that all texts which speak of Brahman as cause, aim at setting forth an absolutely non-dual substance. Of Brahman thus indirectly defined as a cause, the text 'The True, knowledge, infinite is Brahman,' contains a direct definition; the Brahman here meant to be defined must thus be devoid of all qualities. Otherwise, moreover, the text would be in conflict with those other texts which declare Brahman to be without qualities and blemish.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -239,10 +243,7 @@ You have further maintained the following view:--In the text 'one only without a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अतो लिलक्षयिषितं ब्रह्म निर्गुणम् एव;  
-अन्यथा "निर्गुणम्" (मन्त्रिकोपनिषत्) "निरञ्जनम्" (श्वे.६.१९) इत्य् आदिभिर् विरोधश् च – 
-
-इति तद् अनुपपन्नं;  
+तद् अनुपपन्नं;  
 जगद्-उपादानस्य ब्रह्मणस्  
 स्व-व्यतिरिक्ताधिष्ठात्र्-अन्तर-निवारणेन  
 विचित्र-शक्ति-योग-प्रतिपादन-परत्वाद् अद्वितीय-पदस्य।
@@ -250,7 +251,7 @@ You have further maintained the following view:--In the text 'one only without a
 
 <details><summary>Thibaut</summary>
 
-the Brahman here meant to be defined must thus be devoid of all qualities. Otherwise, moreover, the text would be in conflict with those other texts which declare Brahman to be without qualities and blemish.--But this also cannot be admitted. What the phrase 'without a second' really aims at intimating is that Brahman possesses manifold powers, and this it does by denying the existence of another ruling principle different from Brahman.
+--But this also cannot be admitted. What the phrase 'without a second' really aims at intimating is that Brahman possesses manifold powers, and this it does by denying the existence of another ruling principle different from Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -384,6 +385,14 @@ The same consideration teaches us that also the text 'True, knowledge', &c., tea
 
 न च निर्गुण-वाक्य-विरोधः, प्राकृत-हेय-गुण-विषयत्वात् तेषां निर्गुणं, निरञ्जनं, निष्कलं, निष्क्रियं, शान्तम् इत्य् आदिनाम्।
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> "अपहत-पाप्मा"-+इत्य्-आद्य्- "अपिपास" इत्य्-अन्तेन हेय-गुणान् प्रतिषिद्ध्य
+
+इति प्रकरणगत-कारणं प्राकृत-हेय-गुण-विषयत्वे वदत्य् अन्यत्र। 
+</details>
+
 
 <details><summary>Thibaut</summary>
 
@@ -519,7 +528,9 @@ These and other texts declare that to Brahman, whose essential nature is knowled
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-शिथिलेयम् प्रत्युक्तिः। यथाप्रकरणं निर्गुणत्वस्यनिर्वाहान्तराणि वराणि, यथा रूपरसाद्य्-अतीतता, सत्त्वाद्य्-अतीतता च। 
+तत्-प्रकरण-गत-पद-प्रयोगे योग्या स्याद् इयं प्रत्युक्तिः।  
+अन्यत्र तु निर्गुणत्वस्य निर्वाहान्तराणि वराणि,  
+यथा रूपरसाद्य्-अतीतता, सत्त्वाद्य्-अतीतता च। 
 </details>
 
 

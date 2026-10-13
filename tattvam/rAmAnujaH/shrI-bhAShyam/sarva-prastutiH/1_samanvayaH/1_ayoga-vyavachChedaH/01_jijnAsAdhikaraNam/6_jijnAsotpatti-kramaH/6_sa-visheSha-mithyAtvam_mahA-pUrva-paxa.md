@@ -1742,7 +1742,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 </details>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१) 
+> सत्यं ज्ञानम् अनन्तं ब्रह्म (तै.आन.१) 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1797,6 +1797,14 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 \– इति प्रतिपादयन्ति,  
 इतराणि च सगुणम् । 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> न च निर्गुण-वाक्य-विरोधः, प्राकृत-हेय-गुण-विषयत्वात् तेषां निर्गुणं, निरञ्जनं, निष्कलं, निष्क्रियं, शान्तम् इत्य् आदिनाम्।
+
+इति प्रतिवक्ष्यति। 
+</details>
+
 
 <details><summary>Thibaut</summary>
 
