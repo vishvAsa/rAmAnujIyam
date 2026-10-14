@@ -1,12 +1,9 @@
 +++
 title = "०७ अन्तरधिकरणम्"
 +++
-
-
-## आनन्दमयाधिकरणशेषभूतम्
-
 <details><summary>अधिकरणार्थः</summary>
 
+आनन्दमयाधिकरणशेषभूतम्  
 **श्रीशारीरमीमांसाभाष्ये अन्तरधिकरणम्॥७॥**
 
 अक्ष्यादित्य्-आन्तर्-वर्तित्वेनोपास्यत्वम् अपि  
@@ -18,58 +15,1163 @@ title = "०७ अन्तरधिकरणम्"
 
 ## अवान्तरसङ्गतिप्रदर्शनम्
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्यपि मन्द-पुण्यानां जीवानां,  
+कामाज् जगत्-सृष्टिः, अतिशयितानन्द-योगो, भयाभयहेतुत्वम् इत्यादि न सम्भवति,  
+तथापि, विलक्षण-पुण्यानाम् आदित्येन्द्र-प्रजापति-प्रभृतीनां सम्भवत्य् एवेति  
+इमाम् आशङ्कां निराकरोति –
+</details>
+
+<details><summary>Translation</summary>
+
+A new doubt here presents itself. --It must indeed be admitted that such individual souls as possess only a moderate degree of merit are unable to accomplish the creation of the world by their mere wish, to enjoy supreme bliss, to be the cause of fearlessness, and so on; but why should not beings like Āditya and Prajāpati, whose merit is extraordinarily great, be capable of all this? --Of this suggestion the next Sūtra disposes. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 यद्यपि मन्दपुण्यानां जीवानां, कामाज्जगत्सृष्टिः, अतिशयितानन्दयोगो भयाभयहेतुत्वमित्यादि न सम्भवति, तथापि, विलक्षणपुण्यानाम् आदित्येन्द्र प्रजापतिप्रक्षृतीनां सम्भवत्येवेति इमाम् आशङ्कां निराकरोति –
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 २१. अन्तस्तद्धर्मोपदेशात् ॥ १-१-२१ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+21\. The one within (the sun and the eye); on account of his qualities being declared.
+</details>
+
+<details><summary>मूलम्</summary>
+
+२१. अन्तस्तद्धर्मोपदेशात् ॥ १-१-२१ ॥
+</details>
 
 ## विषयवाक्यप्रदर्शनम्
 
-इदमाम्नायते छान्दोग्ये य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुर्हिरण्यकेश आप्रणखात्सर्व एव सुवर्णः। तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदित नाम स एष सर्वेभ्यः पाप्मभ्य उदितः उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद। तस्यर्क्च साम च गेष्णौ इत्यधिदैवतम् (छा.१.६.६,७,८) अथाध्यात्मम्, अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते सैवर्क तत्साम तदुक्थ्यं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गेष्णौ तौ गेष्णौ यन्नाम तन्नाम (छा.१.७.५) इति॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदमाम्नायते छान्दोग्ये य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुर्हिरण्यकेश आप्रणखात्सर्व एव सुवर्णः।
+</details>
+
+<details><summary>Translation</summary>
+
+It is said in the Cḥāndogya: 'Now that person bright as gold, who is seen within the sun, with beard bright as gold and hair bright as gold, golden altogether to the very tips of his nails,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदमाम्नायते छान्दोग्ये य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुर्हिरण्यकेश आप्रणखात्सर्व एव सुवर्णः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदित नाम स एष सर्वेभ्यः पाप्मभ्य उदितः उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद।
+</details>
+
+<details><summary>Translation</summary>
+
+whose eyes are like blue lotus; his name is Ut, for he has risen (udita) above all evil. He also who knows this rises above all evil.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदित नाम स एष सर्वेभ्यः पाप्मभ्य उदितः उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्यर्क्च साम च गेष्णौ इत्यधिदैवतम् (छा.१.६.६,७,८) अथाध्यात्मम्, अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते सैवर्क तत्साम तदुक्थ्यं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गेष्णौ तौ गेष्णौ यन्नाम तन्नाम (छा.१.७.५) इति॥
+</details>
+
+<details><summary>Translation</summary>
+
+R̥k and Sāman are his joints.- So much with reference to the devas. --Now with reference to the body. --Now that person who is seen within the eye, he is R̥k, he is Sāman, Uktha, Yajus, Brahman. The form of this person (in the eye) is the same as of that person yonder (in the sun), the joints of the one are the joints of the other, the name of the one is the – name of the other' (_Kh._ Up. I, 7).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्यर्क्च साम च गेष्णौ इत्यधिदैवतम् (छा.१.६.६,७,८) अथाध्यात्मम्, अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते सैवर्क तत्साम तदुक्थ्यं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गेष्णौ तौ गेष्णौ यन्नाम तन्नाम (छा.१.७.५) इति॥
+</details>
 
 ## संशयस्वरूपम्
 
-तत्र सन्दिह्यते – किमयमक्ष्यादित्यमण्डलार्न्तवर्ती पुरुषः पुण्योपचयनिमित्तैश्वर्य आदित्यादिशब्दाभिलप्यो जीव एव; आहोस्वित्तदतिरिक्तः परमात्मा – इति।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र सन्दिह्यते – किमयमक्ष्यादित्यमण्डलार्न्तवर्ती पुरुषः पुण्योपचयनिमित्तैश्वर्य आदित्यादिशब्दाभिलप्यो जीव एव;
+</details>
+
+<details><summary>Translation</summary>
+
+--Here there arises the doubt whether that person dwelling within the eye and the sun be the individual soul called Āditya, who through accumulation of religious merit possesses lordly power,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र सन्दिह्यते – किमयमक्ष्यादित्यमण्डलार्न्तवर्ती पुरुषः पुण्योपचयनिमित्तैश्वर्य आदित्यादिशब्दाभिलप्यो जीव एव;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आहोस्वित्तदतिरिक्तः परमात्मा – इति।
+</details>
+
+<details><summary>Translation</summary>
+
+or the highest Self other than that soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आहोस्वित्तदतिरिक्तः परमात्मा – इति।
+</details>
 
 ## पूर्वपक्षः
 
-किं युक्तम्? उपिचतपुण्यो जीव एवेति।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं युक्तम्?
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+किं युक्तम्?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपिचतपुण्यो जीव एवेति।
+</details>
+
+<details><summary>Translation</summary>
+
+That individual soul of high merit, the Pūrvapakshin maintains.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपिचतपुण्यो जीव एवेति।
+</details>
 
 ## पूर्वपक्षे युक्तिः
 
-कुतः? सशरीरत्वश्रवणात्। शरीरसम्बन्धो हि जीवानामेव सम्भवति। कर्मानुगुणप्रियाप्रिययोगाय हि शरीरसम्बन्धः। अत एव हि कर्मसम्बन्धरहितस्य मोक्षस्य प्राप्यत्वमशरीरत्वेनोच्यते न ह वै सशरीरस्य सतः प्रियाप्रिययोरपहतिरस्ति। अशरीरं वा व सन्तं न प्रियाप्रिये स्पृशतः (छा.८.१२.१) इति। सम्भवति च पुण्यातिशयात् ज्ञानाधिक्यम्, शक्त्याधिक्यञ्च। अत एव लोककामेशत्वादि तस्यैवोपपद्यते। तत एव चोपास्यत्वम्, फलदायित्वं, पापक्षपणकरत्वेन मोक्षोपयोगित्वं च। मनुष्येष्वप्युपचितपुण्याः केचित् ज्ञानशक्त्यादिभिरधिकतरा दृश्यन्ते; ततश्च सिद्धगन्धर्वादयः; ततश्च देवाः; ततश्चेन्द्रादयः। अतो ब्रह्मादिष्वन्यतम एवैकैकस्मिन् कल्पे पुण्यविशेषेणैवम्भूतमैश्वर्यं प्राप्तो जगत्सृष्ट्याद्यपि करोतीति जगत्कारणत्वजगदन्तरात्मत्वादि वाक्यमस्मिन्नेवोपचितपुण्यविशेषे सर्वज्ञे सर्वशक्तौ वर्तते । अतो न जीवादतिरिक्तः परमात्मा नाम कश्चिदस्ति। एवं च सति अस्थूलमनण्वह्रस्वम् (बृ.५.८.८) इत्यादयो जीवात्मनस्स्वरूपाभिप्राया
-भवन्ति। मोक्षशास्त्राण्यपि तत्स्वरूपतत्प्रात्युपायोपदेशपराणि – इति॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः?
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+कुतः?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सशरीरत्वश्रवणात्।
+</details>
+
+<details><summary>Translation</summary>
+
+For the text states that that person has a body,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सशरीरत्वश्रवणात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरीरसम्बन्धो हि जीवानामेव सम्भवति।
+</details>
+
+<details><summary>Translation</summary>
+
+and connexion with a body belongs to individual souls only,
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरीरसम्बन्धो हि जीवानामेव सम्भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्मानुगुणप्रियाप्रिययोगाय हि शरीरसम्बन्धः।
+</details>
+
+<details><summary>Translation</summary>
+
+for it is meant to bring the soul into contact with pleasure and pain, according to its deserts.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्मानुगुणप्रियाप्रिययोगाय हि शरीरसम्बन्धः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव हि कर्मसम्बन्धरहितस्य मोक्षस्य प्राप्यत्वमशरीरत्वेनोच्यते न ह वै सशरीरस्य सतः प्रियाप्रिययोरपहतिरस्ति।
+</details>
+
+<details><summary>Translation</summary>
+
+It is for this reason that Scripture describes final Release where there is no connexion with works as a state of disembodiedness. 'So long as he is in the body he cannot get free from pleasure and pain.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव हि कर्मसम्बन्धरहितस्य मोक्षस्य प्राप्यत्वमशरीरत्वेनोच्यते न ह वै सशरीरस्य सतः प्रियाप्रिययोरपहतिरस्ति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अशरीरं वा व सन्तं न प्रियाप्रिये स्पृशतः (छा.८.१२.१) इति।
+</details>
+
+<details><summary>Translation</summary>
+
+But when he is free from the body, then neither pleasure nor pain touches him' (_Kh._ Up. VIII, 12, 1).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अशरीरं वा व सन्तं न प्रियाप्रिये स्पृशतः (छा.८.१२.१) इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम्भवति च पुण्यातिशयात् ज्ञानाधिक्यम्, शक्त्याधिक्यञ्च।
+</details>
+
+<details><summary>Translation</summary>
+
+And a soul of transcendent merit may possess surpassing wisdom and power,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सम्भवति च पुण्यातिशयात् ज्ञानाधिक्यम्, शक्त्याधिक्यञ्च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव लोककामेशत्वादि तस्यैवोपपद्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+and thus be capable of being lord of the worlds and the wishes (I, 6, 8).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव लोककामेशत्वादि तस्यैवोपपद्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत एव चोपास्यत्वम्, फलदायित्वं, पापक्षपणकरत्वेन मोक्षोपयोगित्वं च।
+</details>
+
+<details><summary>Translation</summary>
+
+For the same reason such a soul may be the object of devout meditation, bestow rewards, and by being instrumental in destroying evil, be helpful towards final release.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत एव चोपास्यत्वम्, फलदायित्वं, पापक्षपणकरत्वेन मोक्षोपयोगित्वं च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनुष्येष्वप्युपचितपुण्याः केचित् ज्ञानशक्त्यादिभिरधिकतरा दृश्यन्ते;
+</details>
+
+<details><summary>Translation</summary>
+
+Even among men some are seen to be of superior knowledge and power, owing to superior religious merit;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनुष्येष्वप्युपचितपुण्याः केचित् ज्ञानशक्त्यादिभिरधिकतरा दृश्यन्ते;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश्च सिद्धगन्धर्वादयः;
+</details>
+
+<details><summary>Translation</summary>
+
+and this holds good with regard to the Siddhas and Gandharvas also;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततश्च सिद्धगन्धर्वादयः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश्च देवाः;
+</details>
+
+<details><summary>Translation</summary>
+
+then with regard to the devas;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततश्च देवाः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश्चेन्द्रादयः।
+</details>
+
+<details><summary>Translation</summary>
+
+then with regard to the divine beings, beginning with Indra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततश्चेन्द्रादयः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ब्रह्मादिष्वन्यतम एवैकैकस्मिन् कल्पे पुण्यविशेषेणैवम्भूतमैश्वर्यं प्राप्तो जगत्सृष्ट्याद्यपि करोतीति जगत्कारणत्वजगदन्तरात्मत्वादि वाक्यमस्मिन्नेवोपचितपुण्यविशेषे सर्वज्ञे सर्वशक्तौ वर्तते ।
+</details>
+
+<details><summary>Translation</summary>
+
+Hence, also, one among the divine beings, beginning with Brahmā, may in each kalpa reach, through a particularly high degree of merit, vast lordly power and thus effect the creation of the world, and so on. On this supposition the texts about that which constitutes the cause of the world and the inward Self of the world must also be understood to refer to some such soul which, owing to superiority of merit, has become all-knowing and all-powerful.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो ब्रह्मादिष्वन्यतम एवैकैकस्मिन् कल्पे पुण्यविशेषेणैवम्भूतमैश्वर्यं प्राप्तो जगत्सृष्ट्याद्यपि करोतीति जगत्कारणत्वजगदन्तरात्मत्वादि वाक्यमस्मिन्नेवोपचितपुण्यविशेषे सर्वज्ञे सर्वशक्तौ वर्तते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो न जीवादतिरिक्तः परमात्मा नाम कश्चिदस्ति।
+</details>
+
+<details><summary>Translation</summary>
+
+A so-called highest Self, different from the individual souls, does not therefore exist.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतो न जीवादतिरिक्तः परमात्मा नाम कश्चिदस्ति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं च सति अस्थूलमनण्वह्रस्वम् (बृ.५.८.८) इत्यादयो जीवात्मनस्स्वरूपाभिप्राया
+भवन्ति।
+</details>
+
+<details><summary>Translation</summary>
+
+Where the texts speak of that which is neither coarse nor fine nor short, &c., they only mean to characterise the individual soul;
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं च सति अस्थूलमनण्वह्रस्वम् (बृ.५.८.८) इत्यादयो जीवात्मनस्स्वरूपाभिप्राया
+भवन्ति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मोक्षशास्त्राण्यपि तत्स्वरूपतत्प्रात्युपायोपदेशपराणि – इति॥
+</details>
+
+<details><summary>Translation</summary>
+
+and those texts also which refer to final Release aim only at setting forth the essential nature of the individual soul and the means of attaining that essential nature.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मोक्षशास्त्राण्यपि तत्स्वरूपतत्प्रात्युपायोपदेशपराणि – इति॥
+</details>
 
 ## सिद्धान्तः सयुक्तिकः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एवं प्राप्तेऽभिधीयते – अन्तस्तद्धर्मोपदेशात् ।
+</details>
+
+<details><summary>Translation</summary>
+
+This primā facie view is set aside by the Sūtra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं प्राप्तेऽभिधीयते – अन्तस्तद्धर्मोपदेशात् ।
+</details>
 
 ## तत्र सूत्राक्षरार्थवर्णनम्
 
-अन्तरादित्येऽन्तरक्षिणि च यः पुरुषः प्रतीयते, स जीवादन्यः परमात्मैव; कुतः? तद्धर्मोपदेशात् – जीवेष्वसम्भवंस्तदतिरिक्तस्यैव परमात्मनो धर्मोऽयमपहतपाप्मत्वादिः स एष सर्वेभ्यः पाप्मभ्य उदितः (छा.१.६.७) इत्यादिनोपदिश्यते। अपहतपाप्मत्वं हि अपहतकर्मत्वम्, कर्मवश्यतागन्धरहितत्वमित्यर्थः। कर्माधीनसुखदुःखभागित्वेन कर्मवश्या हि जीवाः। अतोऽपहतपाप्मत्वं जीवादन्यस्य परमात्मन एव धर्मः ॥ तत्पूर्वकं स्वरूपोपाधिकं लोककामेशत्वम्, सत्यसङ्कल्पत्वादिकं सर्वभूतान्तरात्मत्वञ्च तस्यैव धर्मः। यथाह एष आत्माऽपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासः सत्यकामस्सत्यसङ्कल्पः (छा.८.१.५) इति, तथा एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुबाल.७) इति। सोऽकामयत। बहु स्यां प्रजायेयेति (तै.आन.६) इत्यादिसत्यसङ्कल्पत्वपूर्वक समस्तचिदचिद्वस्तुसृष्टियोगो निरुपाधिकभयाभयहेतुत्वम्, वाङ्मनसपरिमितिकृतपरिच्छेदरहितानवधिकातिशयान्दयोग इत्यादयोऽकर्मसम्पाद्यास्स्वाभाविका धर्मा जीवस्य न सम्भवन्ति॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तरादित्येऽन्तरक्षिणि च यः पुरुषः प्रतीयते, स जीवादन्यः परमात्मैव;
+</details>
+
+<details><summary>Translation</summary>
+
+The person who is perceived within the sun and within the eye, is something different from the individual soul, viz. the highest Self;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्तरादित्येऽन्तरक्षिणि च यः पुरुषः प्रतीयते, स जीवादन्यः परमात्मैव;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः?
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+कुतः?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्धर्मोपदेशात् – जीवेष्वसम्भवंस्तदतिरिक्तस्यैव परमात्मनो धर्मोऽयमपहतपाप्मत्वादिः स एष सर्वेभ्यः पाप्मभ्य उदितः (छा.१.६.७) इत्यादिनोपदिश्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+because there are declared qualities belonging to that. The text ascribes to him the quality of having risen above, i.e. being free from all evil, and this can belong to the highest Self only, not to the individual soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्धर्मोपदेशात् – जीवेष्वसम्भवंस्तदतिरिक्तस्यैव परमात्मनो धर्मोऽयमपहतपाप्मत्वादिः स एष सर्वेभ्यः पाप्मभ्य उदितः (छा.१.६.७) इत्यादिनोपदिश्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपहतपाप्मत्वं हि अपहतकर्मत्वम्, कर्मवश्यतागन्धरहितत्वमित्यर्थः।
+</details>
+
+<details><summary>Translation</summary>
+
+For to be free from all evil means to be free from all influence of karman,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपहतपाप्मत्वं हि अपहतकर्मत्वम्, कर्मवश्यतागन्धरहितत्वमित्यर्थः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्माधीनसुखदुःखभागित्वेन कर्मवश्या हि जीवाः।
+</details>
+
+<details><summary>Translation</summary>
+
+and this quality can belong to the highest Self only, differing from all individual souls
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्माधीनसुखदुःखभागित्वेन कर्मवश्या हि जीवाः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतोऽपहतपाप्मत्वं जीवादन्यस्य परमात्मन एव धर्मः ॥
+</details>
+
+<details><summary>Translation</summary>
+
+which, as is shown by their experience of pleasure and pain, are in the bonds of karman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतोऽपहतपाप्मत्वं जीवादन्यस्य परमात्मन एव धर्मः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्पूर्वकं स्वरूपोपाधिकं लोककामेशत्वम्, सत्यसङ्कल्पत्वादिकं सर्वभूतान्तरात्मत्वञ्च तस्यैव धर्मः।
+</details>
+
+<details><summary>Translation</summary>
+
+Those essential qualities also which presuppose freedom from all evil (and which are mentioned in other Vedic passages), such as mastery over all worlds and wishes, capability of realising one's purposes, being the inner Self of all, &c., belong to the highest Self alone.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्पूर्वकं स्वरूपोपाधिकं लोककामेशत्वम्, सत्यसङ्कल्पत्वादिकं सर्वभूतान्तरात्मत्वञ्च तस्यैव धर्मः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथाह एष आत्माऽपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासः सत्यकामस्सत्यसङ्कल्पः (छा.८.१.५) इति, तथा एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुबाल.७) इति।
+</details>
+
+<details><summary>Translation</summary>
+
+Compare passages such as 'It is the Self free from evil, free from old age, from death and grief, from hunger and thirst, whose wishes come true, whose purposes come true' (Cḥ. Up. VIII, 1, 5); and 'He is the inner Self of all, free from evil, the divine one, the one god Nārāyaṇa' (Subā. Up.).
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथाह एष आत्माऽपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासः सत्यकामस्सत्यसङ्कल्पः (छा.८.१.५) इति, तथा एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुबाल.७) इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोऽकामयत।
+</details>
+
+<details><summary>Translation</summary>
+
+Attributes such as the attribute of being the creator of the whole universe – which presupposes the power of realising one's wishes --(cp. the passage 'it desired, may I be many');
+</details>
+
+<details><summary>मूलम्</summary>
+
+सोऽकामयत।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बहु स्यां प्रजायेयेति (तै.आन.६) इत्यादिसत्यसङ्कल्पत्वपूर्वक समस्तचिदचिद्वस्तुसृष्टियोगो निरुपाधिकभयाभयहेतुत्वम्, वाङ्मनसपरिमितिकृतपरिच्छेदरहितानवधिकातिशयान्दयोग इत्यादयोऽकर्मसम्पाद्यास्स्वाभाविका धर्मा जीवस्य न सम्भवन्ति॥
+</details>
+
+<details><summary>Translation</summary>
+
+the attribute of being the cause of fear and fearlessness; the attribute of enjoying transcending bliss not limited by the capabilities of thought and speech and the like, are essential characteristics of that only which is not touched by karman, and they cannot therefore belong to the individual soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बहु स्यां प्रजायेयेति (तै.आन.६) इत्यादिसत्यसङ्कल्पत्वपूर्वक समस्तचिदचिद्वस्तुसृष्टियोगो निरुपाधिकभयाभयहेतुत्वम्, वाङ्मनसपरिमितिकृतपरिच्छेदरहितानवधिकातिशयान्दयोग इत्यादयोऽकर्मसम्पाद्यास्स्वाभाविका धर्मा जीवस्य न सम्भवन्ति॥
+</details>
 
 ## पूर्वपक्षस्य सयुक्तिकः निरासः
 
-यत्तु शरीरसम्बन्धान्न जीवातिरक्त इत्युक्तम्; तदसत्, न हि सशरीरत्वं कर्मवश्यतां साधयति, सत्यसङ्कल्पस्येच्छयाऽपि शरीरसम्बन्धसम्भवात्। अथोच्यते – शरीरं नाम त्रिगुणात्मकप्रकृति-परिणामरूपभूतसङ्घातः; तत्सम्बन्धश्चापहतपाप्मनस्सत्यसङ्कल्पस्य पुरुषस्य इच्छया न सम्भवति, अपुरुषार्थत्वात्। कर्मवश्यस्य तु स्वरूपानभिज्ञस्य कर्मानुगुणफलोपभोगायानिच्छतोऽपि तत्सम्बन्धोऽवर्जनीयः – इति॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्तु शरीरसम्बन्धान्न जीवातिरक्त इत्युक्तम्;
+</details>
+
+<details><summary>Translation</summary>
+
+--Nor is there any truth in the contention that the person within the sun, &c., cannot be a being different from individual souls because it possesses a body.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्तु शरीरसम्बन्धान्न जीवातिरक्त इत्युक्तम्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदसत्, न हि सशरीरत्वं कर्मवश्यतां साधयति, सत्यसङ्कल्पस्येच्छयाऽपि शरीरसम्बन्धसम्भवात्।
+</details>
+
+<details><summary>Translation</summary>
+
+For since a being which possesses the power of realising all its desires can assume a body through its mere wish, it is not generally true that embodiedness proves dependence on karman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदसत्, न हि सशरीरत्वं कर्मवश्यतां साधयति, सत्यसङ्कल्पस्येच्छयाऽपि शरीरसम्बन्धसम्भवात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथोच्यते – शरीरं नाम त्रिगुणात्मकप्रकृति-परिणामरूपभूतसङ्घातः;
+</details>
+
+<details><summary>Translation</summary>
+
+--But, it may be said, by a body we understand a certain combination of matter which springs from the primal substance (prakr̥ti) with its three constituents.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथोच्यते – शरीरं नाम त्रिगुणात्मकप्रकृति-परिणामरूपभूतसङ्घातः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्सम्बन्धश्चापहतपाप्मनस्सत्यसङ्कल्पस्य पुरुषस्य इच्छया न सम्भवति, अपुरुषार्थत्वात्।
+</details>
+
+<details><summary>Translation</summary>
+
+Now connexion with such a body cannot possibly be brought about by the wish of such souls even as are free from all evil and capable of realising their desires; for such connexion would not be to the soul's benefit. In the case, on the other hand, of a soul subject to karman and not knowing its own essential nature, such connexion with a body necessarily takes place in order that the soul may enjoy the fruit of its actions – quite apart from the soul's desire.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्सम्बन्धश्चापहतपाप्मनस्सत्यसङ्कल्पस्य पुरुषस्य इच्छया न सम्भवति, अपुरुषार्थत्वात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्मवश्यस्य तु स्वरूपानभिज्ञस्य कर्मानुगुणफलोपभोगायानिच्छतोऽपि तत्सम्बन्धोऽवर्जनीयः – इति॥
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+कर्मवश्यस्य तु स्वरूपानभिज्ञस्य कर्मानुगुणफलोपभोगायानिच्छतोऽपि तत्सम्बन्धोऽवर्जनीयः – इति॥
+</details>
 
 ## भगवतः अकर्मवश्यस्याऽपि देहसम्बन्धः
 
-स्यादेतदेवम्। यदि गुणत्रयमयः प्राकृतोऽस्य देहस्स्यात्; स तु स्वाभिमतस्स्वानुरूपोऽप्राकृत एवेति सर्वमुपपन्नम्॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतदुक्तं भवति – परस्यैव ब्रह्मणो निखिलहेयप्रत्यनीकानन्तज्ञानानन्दैकस्वरूपतया सकलेतरविलक्षणस्य स्वाभाविकानविधकातिशयासङ्ख्येयकल्याणगुणगणाश्च सन्ति। तद्वदेव स्वाभिमतानुरूपैकरूपाचिन्त्य-दिव्याद्भुतनित्यनिरवद्यनिरतिशयौज्ज्वल्यसौन्दर्यसौगन्ध्य-सौकुमार्य-लावण्ययौवनाद्यनन्तगुणगणनिधिदिव्यरूपमपि स्वाभाविकमस्ति। तदेवोपासकानुग्रहेण तत्तत्प्रतिपत्त्यनुरूपसंस्थानं करोत्यपारकारुण्यसौशील्यवात्सल्यौदार्य- जलनिधिः, निरस्तनिखिलहेयगन्धोऽपहतपाप्मा परमात्मा परं ब्रह्म पुरुषोत्तमो नारायणः इति॥
+स्यादेतदेवम्।
+</details>
+
+<details><summary>Translation</summary>
+
+--Your objection would be well founded, we reply,
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्यादेतदेवम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि गुणत्रयमयः प्राकृतोऽस्य देहस्स्यात्;
+</details>
+
+<details><summary>Translation</summary>
+
+if the body of the highest Self were an effect of Prakr̥ti with its three constituents;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि गुणत्रयमयः प्राकृतोऽस्य देहस्स्यात्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स तु स्वाभिमतस्स्वानुरूपोऽप्राकृत एवेति सर्वमुपपन्नम्॥
+</details>
+
+<details><summary>Translation</summary>
+
+but it is not so, it rather is a body suitable to the nature and intentions of that Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स तु स्वाभिमतस्स्वानुरूपोऽप्राकृत एवेति सर्वमुपपन्नम्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतदुक्तं भवति – परस्यैव ब्रह्मणो निखिलहेयप्रत्यनीकानन्तज्ञानानन्दैकस्वरूपतया सकलेतरविलक्षणस्य स्वाभाविकानविधकातिशयासङ्ख्येयकल्याणगुणगणाश्च सन्ति।
+</details>
+
+<details><summary>Translation</summary>
+
+The highest Brahman, whose nature is fundamentally antagonistic to all evil and essentially composed of infinite knowledge and bliss – whereby it differs from all other souls – possesses an infinite number of qualities of unimaginable excellence,
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति – परस्यैव ब्रह्मणो निखिलहेयप्रत्यनीकानन्तज्ञानानन्दैकस्वरूपतया सकलेतरविलक्षणस्य स्वाभाविकानविधकातिशयासङ्ख्येयकल्याणगुणगणाश्च सन्ति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्वदेव स्वाभिमतानुरूपैकरूपाचिन्त्य-दिव्याद्भुतनित्यनिरवद्यनिरतिशयौज्ज्वल्यसौन्दर्यसौगन्ध्य-सौकुमार्य-लावण्ययौवनाद्यनन्तगुणगणनिधिदिव्यरूपमपि स्वाभाविकमस्ति।
+</details>
+
+<details><summary>Translation</summary>
+
+and, analogously, a divine form suitable to its nature and intentions, i.e. adorned with infinite, supremely excellent and wonderful qualities – splendour, beauty, fragrance, tenderness, loveliness, youthfulness, and so on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्वदेव स्वाभिमतानुरूपैकरूपाचिन्त्य-दिव्याद्भुतनित्यनिरवद्यनिरतिशयौज्ज्वल्यसौन्दर्यसौगन्ध्य-सौकुमार्य-लावण्ययौवनाद्यनन्तगुणगणनिधिदिव्यरूपमपि स्वाभाविकमस्ति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदेवोपासकानुग्रहेण तत्तत्प्रतिपत्त्यनुरूपसंस्थानं करोत्यपारकारुण्यसौशील्यवात्सल्यौदार्य- जलनिधिः, निरस्तनिखिलहेयगन्धोऽपहतपाप्मा परमात्मा परं ब्रह्म पुरुषोत्तमो नारायणः इति॥
+</details>
+
+<details><summary>Translation</summary>
+
+And in order to gratify his devotees he individualises that form so as to render it suitable to their apprehension – he who is a boundless ocean as it were of compassion, kindness and lordly power, whom no shadow of evil may touch - --he who is the highest Self, the highest Brahman, the supreme soul, Nārāyaṇa!
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदेवोपासकानुग्रहेण तत्तत्प्रतिपत्त्यनुरूपसंस्थानं करोत्यपारकारुण्यसौशील्यवात्सल्यौदार्य- जलनिधिः, निरस्तनिखिलहेयगन्धोऽपहतपाप्मा परमात्मा परं ब्रह्म पुरुषोत्तमो नारायणः इति॥
+</details>
 
 ## उक्तेर्थे प्रमाणानि
 
-यतो वा इमानि भूतानि जायन्ते (तै.भृ.१), सदेव सोम्येदमग्र आसीत् (छा.६.२.१), आत्मा वा इदमेक एवाग्र आसीत् (ऐतरेय.१.१.१), एको ह वै नारायण आसीन्न ब्रह्मा नेशानः (महोप.१.१) इत्यादिषु निखिलजगदेककारणतयाऽवगतस्य परस्य ब्रह्मणः सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१), विज्ञानमनन्दं ब्रह्म (बृ.५.९.२८), इत्यादिष्वेवम्भूतं स्वरूपमित्यवगम्यते। निर्गुणम् (आत्मोप), निरञ्जनम् (श्वेता.६.१९), अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामः सत्यसङ्कल्पः (छा.८.५.१), न तस्य कार्यं करणं च विद्यते न तत्समश्चाभ्यिधकश्च दृश्यते। पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.६.८), तमीश्वराणां परमं महेश्वरं तं दैवतानां परमञ्च दैवतम् (श्वे.६.७), स कारणं करणाधिपाधियो न चास्य कश्चिज्जनिता न चाधिपः (श्वे.६.९), सर्वाणि रूपाणि विचित्य धीरः। नामानि कृत्वाऽभिवदन्यदास्ते (तै.य.आर.३.१२), वेदाहमेतं पुरुषं महान्तम्। आदित्यवर्णं तमसः परस्तात् (तै.यजु.आर.३.१२), सर्वे निमेषा जज्ञिरे विद्युतः पुरुषादधि (तै.नारा.१.अनु.८) इत्यादिषु परस्य ब्रह्मणः प्राकृतहेयगुणान् प्राकृतहेयदेहसम्बन्धं तन्मूलकर्मवश्यतासम्बन्धं च प्रतिषिध्य कल्याणगुणान् कल्याणरूपं च वदन्ति। तदिदं स्वाभाविकमेव रूपमुपासकानुग्रहेण तत्प्रतिपत्त्यनुगुणाकारं देवमनुष्यादिसंस्थानं करोति स्वेच्छयैव परमकारुणिको भगवान्। तदिदमाह श्रुतिः – अजायमानो बहुधा विजायते (तै.आर.३.१२) इति। स्मृतिश्च अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्। प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया। परित्राणाय साधूनां विनाशाय च दुष्कृताम् (भ.गी.४.६) इति। साधवो ह्युपासकाः, तत्परित्राणमेवोद्देश्येम्, आनुषङ्गिकस्तु दुष्कृतां विनाशः, सङ्कल्पमात्रेणापि तदुपपत्तेः। प्रकृतिं स्वाम्, इति प्रकृतिः – स्वभावः। स्वमेव स्वभावमास्थाय, न संसारिणां स्वभावमित्यर्थः। आत्ममाययेति स्वसङ्कल्परूपेण ज्ञानेनेत्यर्थः ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-माया वयुनं ज्ञानम् (वेदनिखण्टौ,धर्मवर्गे,२२.श्लो.) इति ज्ञानपर्यायमपि मायाशब्दं नैखण्टुका अधीयते। आह च भगवान् पराशरः – समस्ताश्शक्तयश्चैता नृप यत्र प्रतिष्ठिताः। तद्विश्वरूपवैरूप्यं रूपमन्यद्धेरर्महत्॥ समस्तशक्तिरूपाणि तत्करोति जनेश्वर। देवतिर्यङ्मनुष्याख्या चेष्टावन्ति स्वलीलया। जगतामुपकाराय न सा कर्मनिमित्तजा – (वि.पु.६.७.७०) इति । महाभारते चावताररूपस्याप्यप्राकृतत्वमुच्यते न भूत सङ्घसंस्थानो देहोऽस्य परमात्मनः इति। अतः परस्यैव ब्रह्मण एवंरूपवत्त्वादयमपि तस्यैव धर्मः। अत आदित्यमण्डलाक्ष्यधिकरणः आदित्यादिजीवव्यतिरिक्तः परमात्मैव ॥ २१॥
+यतो वा इमानि भूतानि जायन्ते (तै.भृ.१), सदेव सोम्येदमग्र आसीत् (छा.६.२.१), आत्मा वा इदमेक एवाग्र आसीत् (ऐतरेय.१.१.१), एको ह वै नारायण आसीन्न ब्रह्मा नेशानः (महोप.१.१) इत्यादिषु निखिलजगदेककारणतयाऽवगतस्य परस्य ब्रह्मणः सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१), विज्ञानमनन्दं ब्रह्म (बृ.५.९.२८), इत्यादिष्वेवम्भूतं स्वरूपमित्यवगम्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+--Certain texts tell us that the highest Brahman is the sole cause of the entire world: 'From which these beings originate' (Taitt. Up.); 'Being only was this in the beginning' (Kh. Up. VI, 2, 1); 'The Self only was this in the beginning' (Ai. Up. I, 1); 'Nārāyaṇa alone existed, not Brahmā nor Siva.' Other texts define his nature: 'The True, knowledge, infinite is Brahman' (Taitt. Up. II, 1, 1); 'Knowledge, bliss is Brahman' (Br̥. Up. III. 9. 28);
+</details>
+
+<details><summary>मूलम्</summary>
+
+यतो वा इमानि भूतानि जायन्ते (तै.भृ.१), सदेव सोम्येदमग्र आसीत् (छा.६.२.१), आत्मा वा इदमेक एवाग्र आसीत् (ऐतरेय.१.१.१), एको ह वै नारायण आसीन्न ब्रह्मा नेशानः (महोप.१.१) इत्यादिषु निखिलजगदेककारणतयाऽवगतस्य परस्य ब्रह्मणः सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१), विज्ञानमनन्दं ब्रह्म (बृ.५.९.२८), इत्यादिष्वेवम्भूतं स्वरूपमित्यवगम्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्गुणम् (आत्मोप), निरञ्जनम् (श्वेता.६.१९), अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामः सत्यसङ्कल्पः (छा.८.५.१), न तस्य कार्यं करणं च विद्यते न तत्समश्चाभ्यिधकश्च दृश्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+and others again deny of Brahman all connexion with evil qualities and inferior bodies sprung from Prakr̥ti, and all dependence on karman, and proclaim his glorious qualities and glorious forms: 'Free from qualities' (?); 'Free from taint' (Śvet. Up. VI, 19); 'Free from old age, from death and grief, from hunger and thirst, realising his wishes and purposes' (Cḥ. Up. VIII, 1, 5); 'There is no effect and no cause known of him, no one is seen like to him or superior:
+</details>
+
+<details><summary>मूलम्</summary>
+
+निर्गुणम् (आत्मोप), निरञ्जनम् (श्वेता.६.१९), अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामः सत्यसङ्कल्पः (छा.८.५.१), न तस्य कार्यं करणं च विद्यते न तत्समश्चाभ्यिधकश्च दृश्यते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.६.८), तमीश्वराणां परमं महेश्वरं तं दैवतानां परमञ्च दैवतम् (श्वे.६.७), स कारणं करणाधिपाधियो न चास्य कश्चिज्जनिता न चाधिपः (श्वे.६.९), सर्वाणि रूपाणि विचित्य धीरः।
+</details>
+
+<details><summary>Translation</summary>
+
+his high power is revealed as manifold, as inherent action of force and knowledge' (Śvet. Up. VI, 8); 'That highest great lord of lords, the highest deity of deities' (Śvet. Up. VI, 7); 'He is the cause, the lord of the lords of the organs, and there is of him neither parent nor lord' (Śvet. Up. VI, 9); 'Having created all forms and given names to them the wise one goes on calling them by those names' (Taitt. Ār. III, 12, 7);
+</details>
+
+<details><summary>मूलम्</summary>
+
+पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.६.८), तमीश्वराणां परमं महेश्वरं तं दैवतानां परमञ्च दैवतम् (श्वे.६.७), स कारणं करणाधिपाधियो न चास्य कश्चिज्जनिता न चाधिपः (श्वे.६.९), सर्वाणि रूपाणि विचित्य धीरः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नामानि कृत्वाऽभिवदन्यदास्ते (तै.य.आर.३.१२), वेदाहमेतं पुरुषं महान्तम्।
+</details>
+
+<details><summary>Translation</summary>
+
+'I know that great Person
+</details>
+
+<details><summary>मूलम्</summary>
+
+नामानि कृत्वाऽभिवदन्यदास्ते (तै.य.आर.३.१२), वेदाहमेतं पुरुषं महान्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आदित्यवर्णं तमसः परस्तात् (तै.यजु.आर.३.१२), सर्वे निमेषा जज्ञिरे विद्युतः पुरुषादधि (तै.नारा.१.अनु.८) इत्यादिषु परस्य ब्रह्मणः प्राकृतहेयगुणान् प्राकृतहेयदेहसम्बन्धं तन्मूलकर्मवश्यतासम्बन्धं च प्रतिषिध्य कल्याणगुणान् कल्याणरूपं च वदन्ति।
+</details>
+
+<details><summary>Translation</summary>
+
+of sunlike lustre beyond the darkness' (Śvet. Up. III, 8); 'All moments originated from the Person shining like lightning' (Mahānār. Up. I, 6).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आदित्यवर्णं तमसः परस्तात् (तै.यजु.आर.३.१२), सर्वे निमेषा जज्ञिरे विद्युतः पुरुषादधि (तै.नारा.१.अनु.८) इत्यादिषु परस्य ब्रह्मणः प्राकृतहेयगुणान् प्राकृतहेयदेहसम्बन्धं तन्मूलकर्मवश्यतासम्बन्धं च प्रतिषिध्य कल्याणगुणान् कल्याणरूपं च वदन्ति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदिदं स्वाभाविकमेव रूपमुपासकानुग्रहेण तत्प्रतिपत्त्यनुगुणाकारं देवमनुष्यादिसंस्थानं करोति स्वेच्छयैव परमकारुणिको भगवान्।
+</details>
+
+<details><summary>Translation</summary>
+
+--This essential form of his the most compassionate Lord by his mere will individualises as a shape human or divine or otherwise, so as to render it suitable to the apprehension of the devotee and thus satisfy him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदिदं स्वाभाविकमेव रूपमुपासकानुग्रहेण तत्प्रतिपत्त्यनुगुणाकारं देवमनुष्यादिसंस्थानं करोति स्वेच्छयैव परमकारुणिको भगवान्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदिदमाह श्रुतिः – अजायमानो बहुधा विजायते (तै.आर.३.१२) इति।
+</details>
+
+<details><summary>Translation</summary>
+
+This the following scriptural passage declares, 'Unborn he is born in many ways' (Gau. Kā. III, 24);
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदिदमाह श्रुतिः – अजायमानो बहुधा विजायते (तै.आर.३.१२) इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मृतिश्च अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्।
+</details>
+
+<details><summary>Translation</summary>
+
+and likewise Smr̥ti. 'Though unborn I, the imperishable Self, the Lord of the beings,
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्मृतिश्च अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया।
+</details>
+
+<details><summary>Translation</summary>
+
+presiding over my Nature, manifest myself by my Māya
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परित्राणाय साधूनां विनाशाय च दुष्कृताम् (भ.गी.४.६) इति।
+</details>
+
+<details><summary>Translation</summary>
+
+for the protection of the Good and the destruction of the evil doers '(Bha. Gī. IV, 6. 8).
+</details>
+
+<details><summary>मूलम्</summary>
+
+परित्राणाय साधूनां विनाशाय च दुष्कृताम् (भ.गी.४.६) इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साधवो ह्युपासकाः, तत्परित्राणमेवोद्देश्येम्, आनुषङ्गिकस्तु दुष्कृतां विनाशः, सङ्कल्पमात्रेणापि तदुपपत्तेः।
+</details>
+
+<details><summary>Translation</summary>
+
+The 'Good' here are the Devotees;
+</details>
+
+<details><summary>मूलम्</summary>
+
+साधवो ह्युपासकाः, तत्परित्राणमेवोद्देश्येम्, आनुषङ्गिकस्तु दुष्कृतां विनाशः, सङ्कल्पमात्रेणापि तदुपपत्तेः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकृतिं स्वाम्, इति प्रकृतिः – स्वभावः।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+प्रकृतिं स्वाम्, इति प्रकृतिः – स्वभावः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वमेव स्वभावमास्थाय, न संसारिणां स्वभावमित्यर्थः।
+</details>
+
+<details><summary>Translation</summary>
+
+and
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वमेव स्वभावमास्थाय, न संसारिणां स्वभावमित्यर्थः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्ममाययेति स्वसङ्कल्परूपेण ज्ञानेनेत्यर्थः ।
+</details>
+
+<details><summary>Translation</summary>
+
+by 'Māya' is meant the purpose, the knowledge of the Divine Being --;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्ममाययेति स्वसङ्कल्परूपेण ज्ञानेनेत्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+माया वयुनं ज्ञानम् (वेदनिखण्टौ,धर्मवर्गे,२२.श्लो.) इति ज्ञानपर्यायमपि मायाशब्दं नैखण्टुका अधीयते।
+</details>
+
+<details><summary>Translation</summary>
+
+in agreement with the Naighaṇṭukas who register 'Māya' as a synonym of jñāna (knowledge).
+</details>
+
+<details><summary>मूलम्</summary>
+
+माया वयुनं ज्ञानम् (वेदनिखण्टौ,धर्मवर्गे,२२.श्लो.) इति ज्ञानपर्यायमपि मायाशब्दं नैखण्टुका अधीयते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आह च भगवान् पराशरः – समस्ताश्शक्तयश्चैता नृप यत्र प्रतिष्ठिताः।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+आह च भगवान् पराशरः – समस्ताश्शक्तयश्चैता नृप यत्र प्रतिष्ठिताः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्विश्वरूपवैरूप्यं रूपमन्यद्धेरर्महत्॥
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+तद्विश्वरूपवैरूप्यं रूपमन्यद्धेरर्महत्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समस्तशक्तिरूपाणि तत्करोति जनेश्वर।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+समस्तशक्तिरूपाणि तत्करोति जनेश्वर।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवतिर्यङ्मनुष्याख्या चेष्टावन्ति स्वलीलया।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+देवतिर्यङ्मनुष्याख्या चेष्टावन्ति स्वलीलया।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जगतामुपकाराय न सा कर्मनिमित्तजा – (वि.पु.६.७.७०) इति ।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+जगतामुपकाराय न सा कर्मनिमित्तजा – (वि.पु.६.७.७०) इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महाभारते चावताररूपस्याप्यप्राकृतत्वमुच्यते न भूत सङ्घसंस्थानो देहोऽस्य परमात्मनः इति।
+</details>
+
+<details><summary>Translation</summary>
+
+In the Mahābhārata also the form assumed by the highest Person in his avatāras is said not to consist of Prakriti, 'the body of the highest Self does not consist of a combination of material elements.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+महाभारते चावताररूपस्याप्यप्राकृतत्वमुच्यते न भूत सङ्घसंस्थानो देहोऽस्य परमात्मनः इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः परस्यैव ब्रह्मण एवंरूपवत्त्वादयमपि तस्यैव धर्मः।
+</details>
+
+<details><summary>Translation</summary>
+
+--For these reasons
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतः परस्यैव ब्रह्मण एवंरूपवत्त्वादयमपि तस्यैव धर्मः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत आदित्यमण्डलाक्ष्यधिकरणः आदित्यादिजीवव्यतिरिक्तः परमात्मैव ॥ २१॥
+</details>
+
+<details><summary>Translation</summary>
+
+the Person within the Sun and the eye is the highest Self which is different from the individual soul of the Sun,&c.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत आदित्यमण्डलाक्ष्यधिकरणः आदित्यादिजीवव्यतिरिक्तः परमात्मैव ॥ २१॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 २२. भेदव्यपदेशाच्चान्यः ॥ १-१-२२ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+22\. And on account of the declaration of difference (the highest Self is) other (than the individual souls of the sun, &c.).
+</details>
+
+<details><summary>मूलम्</summary>
+
+२२. भेदव्यपदेशाच्चान्यः ॥ १-१-२२ ॥
+</details>
 
 ## जीवभेदसाधकं हेत्वन्तरम्
 
-आदित्यादिजीवेभ्यो भेदो व्यपदिश्यतेऽस्य परमात्मनः – य आदित्ये तिष्ठान्नादित्यादन्तरो यमादित्यो न वेद यस्यादित्यश्शरीरं य आदित्यमन्तरो यमयति । (बृ.५.७.९) य आत्मनि तिष्ठान्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तरो यमयति (बृ.५.७.२२) इति । योऽक्षरमन्तरे सञ्चरन्यस्याक्षरं शरीरं यमक्षरं न वेद यो मृत्युमन्तरे सञ्चरन्यस्य मृत्युश्शरीरं यं मृत्युर्न वेद एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुवाल.७) इति चास्यापहतपाप्मनः परमात्मनस्सर्वान् जीवान्
-शरीरत्वेन व्यपदिश्य तेषामन्तरात्मत्वेनैनं व्यपदिशति। अतस्सर्वेभ्यो हिरण्यगर्भादिजीवेभ्योऽन्य एव परमात्मेति सिद्धम्॥२॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**इति श्रीशारीरकमीमांसाभाष्ये अन्तरधिकरणम्॥७॥**
+आदित्यादिजीवेभ्यो भेदो व्यपदिश्यतेऽस्य परमात्मनः – य आदित्ये तिष्ठान्नादित्यादन्तरो यमादित्यो न वेद यस्यादित्यश्शरीरं य आदित्यमन्तरो यमयति ।
+</details>
 
+<details><summary>Translation</summary>
+
+There are texts which clearly state that the highest Self is different from Āditya and the other individual souls: 'He who, dwelling within Aditya (the sun), is different from Āditya, whom Āditya does not know, of whom Āditya is the body, who rules Āditya from within;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आदित्यादिजीवेभ्यो भेदो व्यपदिश्यतेऽस्य परमात्मनः – य आदित्ये तिष्ठान्नादित्यादन्तरो यमादित्यो न वेद यस्यादित्यश्शरीरं य आदित्यमन्तरो यमयति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(बृ.५.७.९) य आत्मनि तिष्ठान्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तरो यमयति (बृ.५.७.२२) इति ।
+</details>
+
+<details><summary>Translation</summary>
+
+who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7, 9 ff.);
+</details>
+
+<details><summary>मूलम्</summary>
+
+(बृ.५.७.९) य आत्मनि तिष्ठान्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तरो यमयति (बृ.५.७.२२) इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योऽक्षरमन्तरे सञ्चरन्यस्याक्षरं शरीरं यमक्षरं न वेद यो मृत्युमन्तरे सञ्चरन्यस्य मृत्युश्शरीरं यं मृत्युर्न वेद एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुवाल.७) इति चास्यापहतपाप्मनः परमात्मनस्सर्वान् जीवान्
+शरीरत्वेन व्यपदिश्य तेषामन्तरात्मत्वेनैनं व्यपदिशति।
+</details>
+
+<details><summary>Translation</summary>
+
+'Of whom the Imperishable is the body, whom the Imperishable does not know; who moves within Death, of whom Death is the body, whom Death does not know; he is the inner self of all beings, free from evil, divine, the one God Nārāyaṇa' (Sub. Up.VII). These texts declare all individual souls to be the body of the sinless highest Self which is said to be the inward principle of all of them.
+</details>
+
+<details><summary>मूलम्</summary>
+
+योऽक्षरमन्तरे सञ्चरन्यस्याक्षरं शरीरं यमक्षरं न वेद यो मृत्युमन्तरे सञ्चरन्यस्य मृत्युश्शरीरं यं मृत्युर्न वेद एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुवाल.७) इति चास्यापहतपाप्मनः परमात्मनस्सर्वान् जीवान्
+शरीरत्वेन व्यपदिश्य तेषामन्तरात्मत्वेनैनं व्यपदिशति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस्सर्वेभ्यो हिरण्यगर्भादिजीवेभ्योऽन्य एव परमात्मेति सिद्धम्॥२॥
+</details>
+
+<details><summary>Translation</summary>
+
+--It is thereby completely proved that the highest Self is something different from all individual souls such as Āditya, and so on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्सर्वेभ्यो हिरण्यगर्भादिजीवेभ्योऽन्य एव परमात्मेति सिद्धम्॥२॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति श्रीशारीरकमीमांसाभाष्ये अन्तरधिकरणम्॥७॥
+</details>
+
+<details><summary>Translation</summary>
+
+--Here terminates the adhikaraṇa of the 'one within.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति श्रीशारीरकमीमांसाभाष्ये अन्तरधिकरणम्॥७॥
+</details>
+
+<details><summary>Appendix</summary>
+
+- 77 sentences from 77 paragraphs interleaved with translations from [20.md, 21.md, 22.md].
+- 0 Translation - Notes blocks; 10 skipped (no counterpart found).
+- Scope: translation stream scoped by end_after "Here terminates the adhikaraṇa of the 'one within.'" to words [0,1991) of 1992.
+position tags advanced in: 20.md, 21.md, 22.md.
+</details>
 
