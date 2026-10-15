@@ -1,6 +1,8 @@
 +++
 title = "०७ अन्तरधिकरणम्"
 +++
+## सङ्गतिः
+
 <details><summary>अधिकरणार्थः</summary>
 
 आनन्दमयाधिकरणशेषभूतम्  
@@ -12,15 +14,13 @@ title = "०७ अन्तरधिकरणम्"
 अन्तरादित्यविद्या, अन्तरक्षिविद्या च छा.उ.1-6-7।
 </details>
 
-
-## अवान्तरसङ्गतिप्रदर्शनम्
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्य् अपि मन्द-पुण्यानां जीवानां,  
-कामाज् जगत्-सृष्टिः, अतिशयितानन्द-योगो, भयाभयहेतुत्वम् इत्यादि न सम्भवति,  
-तथापि, विलक्षण-पुण्यानाम् आदित्येन्द्र-प्रजापति-प्रभृतीनां सम्भवत्य् एवेति  
-इमाम् आशङ्कां निराकरोति –
+> यद्य् अपि मन्द-पुण्यानां जीवानां,  
+कामाज् जगत्-सृष्टिः, अतिशयितानन्द-योगो, भयाभयहेतुत्वम् इत्य्-आदि न सम्भवति,  
+तथापि, विलक्षण-पुण्यानाम् आदित्येन्द्र-प्रजापति-प्रभृतीनां सम्भवत्य् एव  
+
+इतीमाम् आशङ्कां निराकरोति –
 </details>
 
 <details><summary>Translation</summary>
@@ -35,7 +35,7 @@ A new doubt here presents itself. --It must indeed be admitted that such individ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-२१. अन्तस्तद्धर्मोपदेशात् ॥ १-१-२१ ॥
+२१. +++(आदित्यस्य)+++ अन्तस् +++(ब्रह्म)+++ तद्+++(→ब्रह्म)+++-धर्मोपदेशात् ॥ १-१-२१ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -48,11 +48,16 @@ A new doubt here presents itself. --It must indeed be admitted that such individ
 २१. अन्तस्तद्धर्मोपदेशात् ॥ १-१-२१ ॥
 </details>
 
-## विषयवाक्यप्रदर्शनम्
-
+### छान्दोग्योक्तिः
+#### आदित्ये पुरुषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदमाम्नायते छान्दोग्ये य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुर्हिरण्यकेश आप्रणखात्सर्व एव सुवर्णः।
+इदम् आम्नायते छान्दोग्ये -  
+
+> य एषोऽन्तर् आदित्ये  
+हिरण्मयः पुरुषो दृश्यते  
+हिरण्य-श्मश्रुर् हिरण्य-केश  
+आप्रणखात् सर्व एव सुवर्णः।
 </details>
 
 <details><summary>Translation</summary>
@@ -67,39 +72,59 @@ It is said in the Cḥāndogya: 'Now that person bright as gold, who is seen wit
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदित नाम स एष सर्वेभ्यः पाप्मभ्य उदितः उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद।
+> तस्य यथा क-प्य्-आसं पुण्डरीकम्  
+एवम् अक्षिणी।  
+तस्योद् इति नाम।  
+स एष सर्वेभ्यः पाप्मभ्य उदितः।  
+उदेति ह वै सर्वेभ्यः पाप्मभ्यो  
+य एवं वेद।  
+> तस्य र्क् च साम च गेष्णौ  
+इत्य् अधिदैवतम् (छा.१.६.६,७,८)  
 </details>
 
 <details><summary>Translation</summary>
 
-whose eyes are like blue lotus; his name is Ut, for he has risen (udita) above all evil. He also who knows this rises above all evil.
+whose eyes are like blue lotus; his name is Ut, for he has risen (udita) above all evil. He also who knows this rises above all evil.  
+R̥k and Sāman are his joints.- So much with reference to the devas. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदित नाम स एष सर्वेभ्यः पाप्मभ्य उदितः उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद।
+तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदिति नाम स एष सर्वेभ्यः पाप्मभ्य उदितः उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद। तस्यर्क्च साम च गेष्णौ इत्यधिदैवतम् (छा.१.६.६,७,८) 
 </details>
 
+#### अक्षिणि पुरुषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यर्क्च साम च गेष्णौ इत्यधिदैवतम् (छा.१.६.६,७,८) अथाध्यात्मम्, अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते सैवर्क तत्साम तदुक्थ्यं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गेष्णौ तौ गेष्णौ यन्नाम तन्नाम (छा.१.७.५) इति॥
+> अथाध्यात्मम्,  
+अथ य एषो ऽन्तर् अक्षिणि पुरुषो दृश्यते  
+सैव र्क्, तत् साम, तद् उक्थ्यं, तद् यजुस्, तद् ब्रह्म।  
+तस्यैतस्य तद् एव रूपं  
+यद् अमुष्य रूपं,  
+याव् अमुष्य गेष्णौ,  
+तौ गेष्णौ,  
+यन् नाम  
+तन् नाम। (छा.१.७.५) 
+
+इति॥
 </details>
 
 <details><summary>Translation</summary>
 
-R̥k and Sāman are his joints.- So much with reference to the devas. --Now with reference to the body. --Now that person who is seen within the eye, he is R̥k, he is Sāman, Uktha, Yajus, Brahman. The form of this person (in the eye) is the same as of that person yonder (in the sun), the joints of the one are the joints of the other, the name of the one is the – name of the other' (_Kh._ Up. I, 7).
+Now with reference to the body. --Now that person who is seen within the eye, he is R̥k, he is Sāman, Uktha, Yajus, Brahman. The form of this person (in the eye) is the same as of that person yonder (in the sun), the joints of the one are the joints of the other, the name of the one is the – name of the other' (_Kh._ Up. I, 7).
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्यर्क्च साम च गेष्णौ इत्यधिदैवतम् (छा.१.६.६,७,८) अथाध्यात्मम्, अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते सैवर्क तत्साम तदुक्थ्यं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गेष्णौ तौ गेष्णौ यन्नाम तन्नाम (छा.१.७.५) इति॥
+अथाध्यात्मम्, अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते सैवर्क् तत्साम तदुक्थ्यं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गेष्णौ तौ गेष्णौ यन्नाम तन्नाम (छा.१.७.५) इति॥
 </details>
 
-## संशयस्वरूपम्
+### संशयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र सन्दिह्यते – किमयमक्ष्यादित्यमण्डलार्न्तवर्ती पुरुषः पुण्योपचयनिमित्तैश्वर्य आदित्यादिशब्दाभिलप्यो जीव एव;
+तत्र सन्दिह्यते – किम् अयम् अक्ष्य्-आदित्य-मण्डलान्तर्-वर्ती पुरुषः  
+पुण्योपचय-र्निमित्तैश्वर्य आदित्य्-आदि-शब्दाभिलप्यो जीव एव;
 </details>
 
 <details><summary>Translation</summary>
@@ -109,7 +134,7 @@ R̥k and Sāman are his joints.- So much with reference to the devas. --Now with
 
 <details><summary>मूलम्</summary>
 
-तत्र सन्दिह्यते – किमयमक्ष्यादित्यमण्डलार्न्तवर्ती पुरुषः पुण्योपचयनिमित्तैश्वर्य आदित्यादिशब्दाभिलप्यो जीव एव;
+तत्र सन्दिह्यते – किमयमक्ष्यादित्यमण्डलान्तर्वर्ती पुरुषः पुण्योपचयनिमित्तैश्वर्य आदित्यादिशब्दाभिलप्यो जीव एव;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
