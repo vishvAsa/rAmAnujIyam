@@ -1209,6 +1209,7 @@ the Person within the Sun and the eye is the highest Self which is different fro
 अत आदित्यमण्डलाक्ष्यधिकरणः आदित्यादिजीवव्यतिरिक्तः परमात्मैव ॥ २१॥
 </details>
 
+## भेद-व्यपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 २२. भेद-व्यपदेशाच् चान्यः +++(सूर्यादिभ्यः)+++॥ १-१-२२ ॥
@@ -1224,11 +1225,16 @@ the Person within the Sun and the eye is the highest Self which is different fro
 २२. भेदव्यपदेशाच्चान्यः ॥ १-१-२२ ॥
 </details>
 
-## जीवभेदसाधकं हेत्वन्तरम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आदित्यादिजीवेभ्यो भेदो व्यपदिश्यतेऽस्य परम् आत्मनः – य आदित्ये तिष्ठान्नादित्यादन्तरो यमादित्यो न वेद यस्याद् इत्यश् शरीरं य आदित्यमन्तरो यमयति ।
+आदित्यादि-जीवेभ्यो भेदो व्यपदिश्यतेऽस्य परमात्मनः –  
+
+> य आदित्ये तिष्ठान्न्  
+आदित्याद् अन्तरो  
+यम् आदित्यो न वेद  
+यस्यादित्यश् शरीरं  
+य आदित्यम् अन्तरो यमयति । (बृ.५.७.९) 
 </details>
 
 <details><summary>Translation</summary>
@@ -1238,12 +1244,17 @@ There are texts which clearly state that the highest Self is different from Ādi
 
 <details><summary>मूलम्</summary>
 
-आदित्यादिजीवेभ्यो भेदो व्यपदिश्यतेऽस्य परमात्मनः – य आदित्ये तिष्ठान्नादित्यादन्तरो यमादित्यो न वेद यस्यादित्यश्शरीरं य आदित्यमन्तरो यमयति ।
+आदित्यादिजीवेभ्यो भेदो व्यपदिश्यतेऽस्य परमात्मनः – य आदित्ये तिष्ठान्नादित्यादन्तरो यमादित्यो न वेद यस्यादित्यश्शरीरं य आदित्यमन्तरो यमयति । (बृ.५.७.९) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(बृ.५.७.९) य आत्मनि तिष्ठान्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तरो यमयति (बृ.५.७.२२) इति ।
+> य आत्मनि तिष्ठान्न् आत्मनोऽन्तरो  
+यम् आत्मा न वेद  
+यस्याऽत्मा शरीरं  
+य आत्मानम् अन्तरो यमयति (बृ.५.७.२२) 
+
+इति ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1253,13 +1264,23 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 
 <details><summary>मूलम्</summary>
 
-(बृ.५.७.९) य आत्मनि तिष्ठान्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तरो यमयति (बृ.५.७.२२) इति ।
+य आत्मनि तिष्ठान्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तरो यमयति (बृ.५.७.२२) इति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-योऽक्षरमन्तरे सञ्चरन्यस्याक्षरं शरीरं यम-क्षरं न वेद यो मृत्युम् अन्तरे सञ्चर-न्यस्य मृत्युश् शरीरं यं मृत्युर् न वेद एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुवाल.७) इति चास्यापहतपाप्मनः परमात्मनस् सर्वान् जीवान्
-शरीरत्वेन व्यपदिश्य तेषामन्तरात्मत्वेनैनं व्यपदिशति।
+> योऽक्षरम् अन्तरे सञ्चरन्  
+यस्याक्षरं शरीरं  
+यम् अक्षरं न वेद,  
+यो मृत्युम् अन्तरे सञ्चरन्  
+यस्य मृत्युश् शरीरं  
+यं मृत्युर् न वेद  
+एष सर्व-भूतान्तरात्मा ऽपहतपाप्मा  
+दिव्यो देव एको नारायणः (सुवाल.७) 
+
+इति चास्यापहत-पाप्मनः परमात्मनस्  
+सर्वान् जीवान् शरीरत्वेन व्यपदिश्य  
+तेषाम् अन्तरात्मत्वेनैनं व्यपदिशति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1275,7 +1296,8 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस्सर्वेभ्यो हिरण्यगर्भादिजीवेभ्योऽन्य एव पर्-अमात्म् एति सिद्धम्॥२॥
+अतस् सर्वेभ्यो हिरण्यगर्भादि-जीवेभ्यो  
+ऽन्य एव परमात्मेति सिद्धम्॥२॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1301,12 +1323,4 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 <details><summary>मूलम्</summary>
 
 इति श्रीशारीरकमीमांसाभाष्ये अन्तरधिकरणम्॥७॥
-</details>
-
-<details><summary>Appendix</summary>
-
-- 77 sentences from 77 paragraphs interleaved with translations from [20.md, 21.md, 22.md].
-- 0 Translation - Notes blocks; 10 skipped (no counterpart found).
-- Scope: translation stream scoped by end_after "Here terminates the adhikaraṇa of the 'one within.'" to words [0,1991) of 1992.
-position tags advanced in: 20.md, 21.md, 22.md.
 </details>
