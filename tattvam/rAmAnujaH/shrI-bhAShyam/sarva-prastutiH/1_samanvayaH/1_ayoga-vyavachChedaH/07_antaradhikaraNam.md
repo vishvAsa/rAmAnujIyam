@@ -35,7 +35,7 @@ A new doubt here presents itself. --It must indeed be admitted that such individ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-२१. +++(आदित्यस्य)+++ अन्तस् +++(ब्रह्म)+++ तद्+++(→ब्रह्म)+++-धर्मोपदेशात् ॥ १-१-२१ ॥
+२१. +++(आदित्य-पुरुषयोर्)+++ अन्तस् +++(ब्रह्म)+++ तद्+++(→ब्रह्म)+++-धर्मोपदेशात् ॥ १-१-२१ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -119,7 +119,7 @@ Now with reference to the body. --Now that person who is seen within the eye, he
 अथाध्यात्मम्, अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते सैवर्क् तत्साम तदुक्थ्यं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गेष्णौ तौ गेष्णौ यन्नाम तन्नाम (छा.१.७.५) इति॥
 </details>
 
-### संशयः
+### जीवत्व-संशयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,7 +139,9 @@ Now with reference to the body. --Now that person who is seen within the eye, he
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आहोस्वित्तदतिरिक्तः परमात्मा – इति।
+आहोस्वित् तद्-अतिरिक्तः परमात्मा  
+
+– इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -152,14 +154,12 @@ or the highest Self other than that soul.
 आहोस्वित्तदतिरिक्तः परमात्मा – इति।
 </details>
 
-## पूर्वपक्षः
+### पूर्वपक्षः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं युक्तम्?
 </details>
-
-<!-- TRANSLATION-SKIPPED -->
 
 <details><summary>मूलम्</summary>
 
@@ -181,14 +181,12 @@ That individual soul of high merit, the Pūrvapakshin maintains.
 उपिचतपुण्यो जीव एवेति।
 </details>
 
-## पूर्वपक्षे युक्तिः
-
+#### शरीर-बन्धात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुतः?
 </details>
 
-<!-- TRANSLATION-SKIPPED -->
 
 <details><summary>मूलम्</summary>
 
@@ -197,7 +195,7 @@ That individual soul of high merit, the Pūrvapakshin maintains.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सशरीरत्वश्रवणात्।
+स-शरीरत्व-श्रवणात्।
 </details>
 
 <details><summary>Translation</summary>
@@ -212,7 +210,7 @@ For the text states that that person has a body,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शरीरसम्बन्धो हि जीवानामेव सम्भवति।
+शरीर-सम्बन्धो हि जीवानाम् एव सम्भवति।
 </details>
 
 <details><summary>Translation</summary>
@@ -227,7 +225,7 @@ and connexion with a body belongs to individual souls only,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कर्मानुगुणप्रियाप्रिययोगाय हि शरीरसम्बन्धः।
+कर्मानुगुण-प्रियाप्रिय-योगाय हि शरीर-सम्बन्धः।
 </details>
 
 <details><summary>Translation</summary>
@@ -242,37 +240,47 @@ for it is meant to bring the soul into contact with pleasure and pain, according
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव हि कर्मसम्बन्धरहितस्य मोक्षस्य प्राप्यत्वमशरीरत्वेनोच्यते न ह वै सशरीरस्य सतः प्रियाप्रिययोरपहतिरस्ति।
+अत एव हि  
+कर्म-सम्बन्ध-रहितस्य मोक्षस्य प्राप्यत्वम्  
+अ-शरीरत्वेनोच्यते -  
+
 </details>
 
 <details><summary>Translation</summary>
 
-It is for this reason that Scripture describes final Release where there is no connexion with works as a state of disembodiedness. 'So long as he is in the body he cannot get free from pleasure and pain.
+It is for this reason that Scripture describes final Release where there is no connexion with works as a state of disembodiedness. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-अत एव हि कर्मसम्बन्धरहितस्य मोक्षस्य प्राप्यत्वमशरीरत्वेनोच्यते न ह वै सशरीरस्य सतः प्रियाप्रिययोरपहतिरस्ति।
+अत एव हि कर्मसम्बन्धरहितस्य मोक्षस्य प्राप्यत्वमशरीरत्वेनोच्यते 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अशरीरं वा व सन्तं न प्रियाप्रिये स्पृशतः (छा.८.१२.१) इति।
+> न ह वै सशरीरस्य सतः  
+प्रियाप्रिययोर् अपहतिर् अस्ति।
+> अशरीरं वा व सन्तं  
+न प्रियाप्रिये स्पृशतः (छा.८.१२.१) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
 
-But when he is free from the body, then neither pleasure nor pain touches him' (_Kh._ Up. VIII, 12, 1).
+'So long as he is in the body he cannot get free from pleasure and pain. But when he is free from the body, then neither pleasure nor pain touches him' (_Kh._ Up. VIII, 12, 1).
 </details>
 
 <details><summary>मूलम्</summary>
 
-अशरीरं वा व सन्तं न प्रियाप्रिये स्पृशतः (छा.८.१२.१) इति।
+न ह वै सशरीरस्य सतः प्रियाप्रिययोरपहतिरस्ति। अशरीरं वा व सन्तं न प्रियाप्रिये स्पृशतः (छा.८.१२.१) इति।
 </details>
 
+#### ज्ञानैश्वर्यादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम्भवति च पुण्यातिशयात् ज्ञानाधिक्यम्, शक्त्याधिक्यञ्च।
+सम्भवति च पुण्यातिशयात्  
+ज्ञानाधिक्यम्, शक्त्य्-आधिक्यञ् च।
 </details>
 
 <details><summary>Translation</summary>
@@ -287,7 +295,7 @@ And a soul of transcendent merit may possess surpassing wisdom and power,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत एव लोककामेशत्वादि तस्यैवोपपद्यते।
+अत एव लोक-कामेशत्वादि तस्यैवोपपद्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -302,7 +310,7 @@ and thus be capable of being lord of the worlds and the wishes (I, 6, 8).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत एव चोपास्यत्वम्, फलदायित्वं, पापक्षपणकरत्वेन मोक्षोपयोगित्वं च।
+तत एव चोपास्यत्वम्, फल-दायित्वं, पाप-क्षपण-करत्वेन मोक्षोपयोगित्वं च।
 </details>
 
 <details><summary>Translation</summary>
@@ -317,7 +325,8 @@ For the same reason such a soul may be the object of devout meditation, bestow r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मनुष्येष्वप्युपचितपुण्याः केचित् ज्ञानशक्त्यादिभिरधिकतरा दृश्यन्ते;
+मनुष्येष्व् अप्य् उपचित-पुण्याः केचित्  
+ज्ञान-शक्त्य्-आदिभिर् अधिकतरा दृश्यन्ते;
 </details>
 
 <details><summary>Translation</summary>
@@ -332,7 +341,7 @@ Even among men some are seen to be of superior knowledge and power, owing to sup
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततश्च सिद्धगन्धर्वादयः;
+ततश् च सिद्ध-गन्धर्वादयः;
 </details>
 
 <details><summary>Translation</summary>
@@ -347,7 +356,7 @@ and this holds good with regard to the Siddhas and Gandharvas also;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततश्च देवाः;
+ततश् च देवाः;
 </details>
 
 <details><summary>Translation</summary>
@@ -362,7 +371,7 @@ then with regard to the devas;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततश्चेन्द्रादयः।
+ततश् चेन्द्रादयः।
 </details>
 
 <details><summary>Translation</summary>
@@ -375,9 +384,13 @@ then with regard to the divine beings, beginning with Indra.
 ततश्चेन्द्रादयः।
 </details>
 
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो ब्रह्मादिष्वन्यतम एवैकैकस्मिन् कल्पे पुण्यविशेषेणैवम्भूतमैश्वर्यं प्राप्तो जगत्सृष्ट्याद्यपि करोतीति जगत्कारणत्वजगदन्तरात्मत्वादि वाक्यमस्मिन्नेवोपचितपुण्यविशेषे सर्वज्ञे सर्वशक्तौ वर्तते ।
+अतो ब्रह्मादिष्व् अन्यतम एव  
+एकैकस्मिन् कल्पे पुण्य-विशेषेणैवम्-भूतम् ऐश्वर्यं प्राप्तो  
+जगत्-सृष्ट्य्-आद्य् अपि करोतीति  
+जगत्-कारणत्व-- जगद्-अन्तर्-आत्मत्वादि-वाक्यम् अस्मिन्न् एवोपचित-पुण्य-विशेषे सर्व-ज्ञे सर्व-शक्तौ वर्तते ।
 </details>
 
 <details><summary>Translation</summary>
@@ -392,7 +405,7 @@ Hence, also, one among the divine beings, beginning with Brahmā, may in each ka
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो न जीवादतिरिक्तः परमात्मा नाम कश्चिदस्ति।
+अतो न जीवाद् अतिरिक्तः परमात्मा नाम कश्चिद् अस्ति।
 </details>
 
 <details><summary>Translation</summary>
@@ -405,9 +418,14 @@ A so-called highest Self, different from the individual souls, does not therefor
 अतो न जीवादतिरिक्तः परमात्मा नाम कश्चिदस्ति।
 </details>
 
+#### श्रुति-सङ्गतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं च सति अस्थूलमनण्वह्रस्वम् (बृ.५.८.८) इत्यादयो जीवात्मनस्स्वरूपाभिप्राया
+एवं च सति 
+
+> अ-स्थूलम् अ-नण्व् अ-ह्रस्वम् (बृ.५.८.८) 
+
+इत्य्-आदयो जीवात्मनस् स्वरूपाभिप्राया
 भवन्ति।
 </details>
 
@@ -424,7 +442,10 @@ Where the texts speak of that which is neither coarse nor fine nor short, &c., t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मोक्षशास्त्राण्यपि तत्स्वरूपतत्प्रात्युपायोपदेशपराणि – इति॥
+मोक्ष-शास्त्राण्य् अपि  
+तत्--स्व-रूप--तत्-प्रात्य्-उपायोपदेश-पराणि – 
+
+इति॥
 </details>
 
 <details><summary>Translation</summary>
@@ -437,11 +458,13 @@ and those texts also which refer to final Release aim only at setting forth the 
 मोक्षशास्त्राण्यपि तत्स्वरूपतत्प्रात्युपायोपदेशपराणि – इति॥
 </details>
 
-## सिद्धान्तः सयुक्तिकः
+## तद्-धर्मोपदेशः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं प्राप्तेऽभिधीयते – अन्तस्तद्धर्मोपदेशात् ।
+एवं प्राप्ते ऽभिधीयते –  
+
+> २१. +++(आदित्य-पुरुषयोर्)+++ अन्तस् +++(ब्रह्म)+++ तद्+++(→ब्रह्म)+++-धर्मोपदेशात् +++("सर्वेभ्यः पाप्मभ्य उदितः" इति)+++ ॥ १-१-२१ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -454,11 +477,11 @@ This primā facie view is set aside by the Sūtra.
 एवं प्राप्तेऽभिधीयते – अन्तस्तद्धर्मोपदेशात् ।
 </details>
 
-## तत्र सूत्राक्षरार्थवर्णनम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्तरादित्येऽन्तरक्षिणि च यः पुरुषः प्रतीयते, स जीवादन्यः परमात्मैव;
+अन्तर्-आदित्ये ऽन्तर्-अक्षिणि च यः पुरुषः प्रतीयते,  
+स जीवाद् अन्यः परमात्मैव;
 </details>
 
 <details><summary>Translation</summary>
@@ -476,16 +499,21 @@ The person who is perceived within the sun and within the eye, is something diff
 कुतः?
 </details>
 
-<!-- TRANSLATION-SKIPPED -->
-
 <details><summary>मूलम्</summary>
 
 कुतः?
 </details>
 
+### पाप्मभ उदितः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्धर्मोपदेशात् – जीवेष्वसम्भवंस्तदतिरिक्तस्यैव परमात्मनो धर्मोऽयमपहतपाप्मत्वादिः स एष सर्वेभ्यः पाप्मभ्य उदितः (छा.१.६.७) इत्यादिनोपदिश्यते।
+तद्-धर्मोपदेशात् –  
+जीवेष्व् अ-सम्भवंस्  
+तद्-अतिरिक्तस्यैव परमात्मनो धर्मोऽयम् अपहत-पाप्मत्वादिः  
+
+> स एष सर्वेभ्यः पाप्मभ्य उदितः (छा.१.६.७) 
+
+इत्य्-आदिनोपदिश्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -498,9 +526,11 @@ because there are declared qualities belonging to that. The text ascribes to him
 तद्धर्मोपदेशात् – जीवेष्वसम्भवंस्तदतिरिक्तस्यैव परमात्मनो धर्मोऽयमपहतपाप्मत्वादिः स एष सर्वेभ्यः पाप्मभ्य उदितः (छा.१.६.७) इत्यादिनोपदिश्यते।
 </details>
 
+### अकर्म-बन्धः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपहतपाप्मत्वं हि अपहतकर्मत्वम्, कर्मवश्यतागन्धरहितत्वमित्यर्थः।
+अपहत-पाप्मत्वं हि अपहत-कर्मत्वम्,  
+कर्म-वश्यता-गन्ध-रहितत्वम् इत्य् अर्थः।
 </details>
 
 <details><summary>Translation</summary>
@@ -515,7 +545,7 @@ For to be free from all evil means to be free from all influence of karman,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कर्माधीनसुखदुःखभागित्वेन कर्मवश्या हि जीवाः।
+कर्माधीन-सुख-दुःख-भागित्वेन कर्म-वश्या हि जीवाः।
 </details>
 
 <details><summary>Translation</summary>
@@ -530,7 +560,7 @@ and this quality can belong to the highest Self only, differing from all individ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतोऽपहतपाप्मत्वं जीवादन्यस्य परमात्मन एव धर्मः ॥
+अतो ऽपहत-पाप्मत्वं जीवाद् अन्यस्य परमात्मन एव धर्मः ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -543,9 +573,11 @@ which, as is shown by their experience of pleasure and pain, are in the bonds of
 अतोऽपहतपाप्मत्वं जीवादन्यस्य परमात्मन एव धर्मः ॥
 </details>
 
+### धर्म-विशेषाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्पूर्वकं स्वरूपोपाधिकं लोककामेशत्वम्, सत्यसङ्कल्पत्वादिकं सर्वभूतान्तरात्मत्वञ्च तस्यैव धर्मः।
+तत्-पूर्वकं स्व-रूपोपाधिकं लोक-कामेशत्वम्, सत्य-सङ्कल्पत्वादिकं, सर्व-भूतान्तरात्मत्वञ् च  
+तस्यैव धर्मः।
 </details>
 
 <details><summary>Translation</summary>
@@ -560,7 +592,20 @@ Those essential qualities also which presuppose freedom from all evil (and which
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथाह एष आत्माऽपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासः सत्यकामस्सत्यसङ्कल्पः (छा.८.१.५) इति, तथा एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुबाल.७) इति।
+यथा ऽऽह 
+
+> एष आत्मा ऽपहत-पाप्मा  
+विजरो, विमृत्युर्, विशोको,  
+विजिघत्सो, ऽपिपासः  
+सत्य-कामस् सत्य-सङ्कल्पः (छा.८.१.५) 
+
+इति,  
+तथा 
+
+> एष सर्व-भूतान्तरात्मा ऽपहत-पाप्मा  
+दिव्यो देव एको नारायणः (सुबाल.७) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -575,39 +620,33 @@ Compare passages such as 'It is the Self free from evil, free from old age, from
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोऽकामयत।
+> सोऽकामयत।  
+बहु स्यां प्रजायेयेति (तै.आन.६) 
+
+इत्य्-आदि- -सत्य-सङ्कल्पत्व-पूर्वक-  
+-समस्त-चिद्--अ-चिद्-वस्तु-सृष्टि-योगो,  
+निरुपाधिक-भयाभय-हेतुत्वम्,  
+वाङ्-मनस-परिमिति-कृत- -परिच्छेद-रहित– -+अनवधिकातिशयानन्द-योग  
+इत्य्-आदयो ऽकर्म-सम्पाद्यास् स्वाभाविका धर्मा  
+जीवस्य न सम्भवन्ति॥
 </details>
 
 <details><summary>Translation</summary>
 
 Attributes such as the attribute of being the creator of the whole universe – which presupposes the power of realising one's wishes --(cp. the passage 'it desired, may I be many');
-</details>
-
-<details><summary>मूलम्</summary>
-
-सोऽकामयत।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-बहु स्यां प्रजायेयेति (तै.आन.६) इत्यादिसत्यसङ्कल्पत्वपूर्वक समस्तचिदचिद्वस्तुसृष्टियोगो निरुपाधिकभयाभयहेतुत्वम्, वाङ्मनसपरिमितिकृतपरिच्छेदरहितानवधिकातिशयान्दयोग इत्यादयोऽकर्मसम्पाद्यास्स्वाभाविका धर्मा जीवस्य न सम्भवन्ति॥
-</details>
-
-<details><summary>Translation</summary>
-
 the attribute of being the cause of fear and fearlessness; the attribute of enjoying transcending bliss not limited by the capabilities of thought and speech and the like, are essential characteristics of that only which is not touched by karman, and they cannot therefore belong to the individual soul.
 </details>
 
 <details><summary>मूलम्</summary>
 
-बहु स्यां प्रजायेयेति (तै.आन.६) इत्यादिसत्यसङ्कल्पत्वपूर्वक समस्तचिदचिद्वस्तुसृष्टियोगो निरुपाधिकभयाभयहेतुत्वम्, वाङ्मनसपरिमितिकृतपरिच्छेदरहितानवधिकातिशयान्दयोग इत्यादयोऽकर्मसम्पाद्यास्स्वाभाविका धर्मा जीवस्य न सम्भवन्ति॥
+सोऽकामयत। बहु स्यां प्रजायेयेति (तै.आन.६) इत्यादिसत्यसङ्कल्पत्वपूर्वक समस्तचिदचिद्वस्तुसृष्टियोगो निरुपाधिकभयाभयहेतुत्वम्, वाङ्मनसपरिमितिकृतपरिच्छेदरहितानवधिकातिशयानन्दयोग इत्यादयोऽकर्मसम्पाद्यास्स्वाभाविका धर्मा जीवस्य न सम्भवन्ति॥
 </details>
 
 ## पूर्वपक्षस्य सयुक्तिकः निरासः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्तु शरीरसम्बन्धान्न जीवातिरक्त इत्युक्तम्;
+यत् तु शरीर-सम्बन्धान् न जीवातिरक्त इत्य् उक्तम्;
 </details>
 
 <details><summary>Translation</summary>
@@ -622,7 +661,9 @@ the attribute of being the cause of fear and fearlessness; the attribute of enjo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदसत्, न हि सशरीरत्वं कर्मवश्यतां साधयति, सत्यसङ्कल्पस्येच्छयाऽपि शरीरसम्बन्धसम्भवात्।
+तद् अ-सत्,  
+न हि स-शरीरत्वं कर्म-वश्यतां साधयति,  
+सत्य-सङ्कल्पस्येच्छयाऽपि शरीर-सम्बन्ध-सम्भवात्।+++(5)+++
 </details>
 
 <details><summary>Translation</summary>
