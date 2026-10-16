@@ -195,7 +195,6 @@ Moreover, unless it were admitted that there is inferential knowledge of the tho
 Nor also would it be possible for pupils to attach themselves to a teacher of sacred lore, for the reason that they had become aware of his wisdom and learning.
 And that approach is not possible otherwise.
 </details>
-</details>
 
 <details><summary>मूलम्</summary>
 

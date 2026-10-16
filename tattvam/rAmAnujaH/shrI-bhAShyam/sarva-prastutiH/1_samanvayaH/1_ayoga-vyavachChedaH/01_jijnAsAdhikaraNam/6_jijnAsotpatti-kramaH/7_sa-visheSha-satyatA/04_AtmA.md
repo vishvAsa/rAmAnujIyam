@@ -4633,7 +4633,7 @@ But – our opponent goes on to urge – I form the following judgment also: 'I 
 "माम्" इति किम् निषिध्यत 
 
 इति चेत्; साधु पृष्टम् भवता।
-</etails>
+</details>
 
 <details><summary>Thibaut</summary>
 
