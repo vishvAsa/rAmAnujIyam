@@ -825,8 +825,8 @@ And in order to gratify his devotees he individualises that form so as to render
 तदेवोपासकानुग्रहेण तत्तत्प्रतिपत्त्यनुरूपसंस्थानं करोत्यपारकारुण्यसौशील्यवात्सल्यौदार्य- जलनिधिः, निरस्तनिखिलहेयगन्धोऽपहतपाप्मा परमात्मा परं ब्रह्म पुरुषोत्तमो नारायणः इति॥
 </details>
 
-## स्वरूपे श्रुतयः
-
+## श्रुतयः
+### कारणतायाम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यतो वा इमानि भूतानि जायन्ते (तै.भृ.१), 
@@ -840,6 +840,21 @@ And in order to gratify his devotees he individualises that form so as to render
 
 इत्य्-आदिषु  
 निखिल-जगद्-एक-कारणतया ऽवगतस्य परस्य ब्रह्मणः 
+</details>
+
+<details><summary>Translation</summary>
+
+--Certain texts tell us that the highest Brahman is the sole cause of the entire world: 'From which these beings originate' (Taitt. Up.); 'Being only was this in the beginning' (Kh. Up. VI, 2, 1); 'The Self only was this in the beginning' (Ai. Up. I, 1); 'Nārāyaṇa alone existed, not Brahmā nor Siva.' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यतो वा इमानि भूतानि जायन्ते (तै.भृ.१), सदेव सोम्येदमग्र आसीत् (छा.६.२.१), आत्मा वा इदमेक एवाग्र आसीत् (ऐतरेय.१.१.१), एको ह वै नारायण आसीन्न ब्रह्मा नेशानः (महोप.१.१) इत्यादिषु निखिलजगदेककारणतयाऽवगतस्य परस्य ब्रह्मणः 
+</details>
+
+### स्वरूपे 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सत्यं ज्ञानम् अनन्तं ब्रह्म (तै.आन.१), 
 
@@ -848,86 +863,110 @@ And in order to gratify his devotees he individualises that form so as to render
 इत्य्-आदिष्व् एवम्-भूतं स्व-रूपम् इत्य् अवगम्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>English</summary>
 
---Certain texts tell us that the highest Brahman is the sole cause of the entire world: 'From which these beings originate' (Taitt. Up.); 'Being only was this in the beginning' (Kh. Up. VI, 2, 1); 'The Self only was this in the beginning' (Ai. Up. I, 1); 'Nārāyaṇa alone existed, not Brahmā nor Siva.' Other texts define his nature: 'The True, knowledge, infinite is Brahman' (Taitt. Up. II, 1, 1); 'Knowledge, bliss is Brahman' (Br̥. Up. III. 9. 28);
+Other texts define his nature: 'The True, knowledge, infinite is Brahman' (Taitt. Up. II, 1, 1); 'Knowledge, bliss is Brahman' (Br̥. Up. III. 9. 28);
 </details>
 
 <details><summary>मूलम्</summary>
 
-यतो वा इमानि भूतानि जायन्ते (तै.भृ.१), सदेव सोम्येदमग्र आसीत् (छा.६.२.१), आत्मा वा इदमेक एवाग्र आसीत् (ऐतरेय.१.१.१), एको ह वै नारायण आसीन्न ब्रह्मा नेशानः (महोप.१.१) इत्यादिषु निखिलजगदेककारणतयाऽवगतस्य परस्य ब्रह्मणः सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१), विज्ञानमानन्दं ब्रह्म (बृ.५.९.२८), इत्यादिष्वेवम्भूतं स्वरूपमित्यवगम्यते।
+सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१), विज्ञानमानन्दं ब्रह्म (बृ.५.९.२८), इत्यादिष्वेवम्भूतं स्वरूपमित्यवगम्यते।
 </details>
 
+### अपहत-पाप्मता, अप्राकृतता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > निर्गुणम् (आत्मोप),  
 > निरञ्जनम् (श्वेता.६.१९),  
-> अपहतपाप्मा, विजरो विमृत्युर् विशोको  
+> अपहतपाप्मा,  
+विजरो विमृत्युर् विशोको  
 विजिघत्सो ऽपिपासस्  
 सत्य-कामः सत्य-सङ्कल्पः (छा.८.५.१), 
+</details>
+
+<details><summary>Translation</summary>
+
+and others again deny of Brahman all connexion with evil qualities and inferior bodies sprung from Prakr̥ti, and all dependence on karman, and proclaim his glorious qualities and glorious forms: 'Free from qualities' (?); 'Free from taint' (Śvet. Up. VI, 19); 'Free from old age, from death and grief, from hunger and thirst, realising his wishes and purposes' (Cḥ. Up. VIII, 1, 5); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+निर्गुणम् (आत्मोप), निरञ्जनम् (श्वेता.६.१९), अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामः सत्यसङ्कल्पः (छा.८.५.१), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न तस्य कार्यं करणं च विद्यते  
 न तत्-समश् चाभ्यिधकश् च दृश्यते।
+पराऽस्य शक्तिर् विविधैव श्रूयते  
+स्वाभाविकी ज्ञान-बल-क्रिया च (श्वे.६.८), 
+
+> तमीश्वराणां परमं महेश्वरं  
+तं दैवतानां परमञ् च दैवतम् (श्वे.६.७), 
+
+> स कारणं कारणाधिपाधिपो  
+न चास्य कश्चिज् जनिता न चाधिपः (श्वे.६.९), 
 </details>
 
 <details><summary>Translation</summary>
 
-and others again deny of Brahman all connexion with evil qualities and inferior bodies sprung from Prakr̥ti, and all dependence on karman, and proclaim his glorious qualities and glorious forms: 'Free from qualities' (?); 'Free from taint' (Śvet. Up. VI, 19); 'Free from old age, from death and grief, from hunger and thirst, realising his wishes and purposes' (Cḥ. Up. VIII, 1, 5); 'There is no effect and no cause known of him, no one is seen like to him or superior:
+'There is no effect and no cause known of him, no one is seen like to him or superior: his high power is revealed as manifold, as inherent action of force and knowledge' (Śvet. Up. VI, 8); 'That highest great lord of lords, the highest deity of deities' (Śvet. Up. VI, 7); 'He is the cause, the lord of the lords of the organs, and there is of him neither parent nor lord' (Śvet. Up. VI, 9); 
 </details>
 
 <details><summary>मूलम्</summary>
 
-निर्गुणम् (आत्मोप), निरञ्जनम् (श्वेता.६.१९), अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामः सत्यसङ्कल्पः (छा.८.५.१), न तस्य कार्यं करणं च विद्यते न तत्समश्चाभ्यिधकश्च दृश्यते।
+न तस्य कार्यं करणं च विद्यते न तत्समश्चाभ्यिधकश्च दृश्यते। पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.६.८), तमीश्वराणां परमं महेश्वरं तं दैवतानां परमञ्च दैवतम् (श्वे.६.७), स कारणं कारणाधिपाधिपो न चास्य कश्चिज्जनिता न चाधिपः (श्वे.६.९), 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.६.८), तमीश्वराणां परमं महेश्वरं तं दैवतानां परमञ्च दैवतम् (श्वे.६.७), स कारणं करणाधिपाधियो न चास्य कश्चिज्जनिता न चाधिपः (श्वे.६.९), सर्वाणि रूपाणि विचित्य धीरः।
+> सर्वाणि रूपाणि विचित्य धीरः।
+नामानि कृत्वाऽभिवदन् यद् आस्ते (तै.य.आर.३.१२), 
+
+> वेदाहम् एतं पुरुषं महान्तम्।  
+आदित्यवर्णं तमसः परस्तात् (तै.यजु.आर.३.१२), 
+
+> सर्वे निमेषा जज्ञिरे विद्युतः पुरुषादधि (तै.नारा.१.अनु.८) 
 </details>
 
 <details><summary>Translation</summary>
 
-his high power is revealed as manifold, as inherent action of force and knowledge' (Śvet. Up. VI, 8); 'That highest great lord of lords, the highest deity of deities' (Śvet. Up. VI, 7); 'He is the cause, the lord of the lords of the organs, and there is of him neither parent nor lord' (Śvet. Up. VI, 9); 'Having created all forms and given names to them the wise one goes on calling them by those names' (Taitt. Ār. III, 12, 7);
+> 'Having created all forms and given names to them the wise one goes on calling them by those names' (Taitt. Ār. III, 12, 7);
+
+> 'I know that great Person
+of sunlike lustre beyond the darkness' (Śvet. Up. III, 8);  
+
+> 'All moments originated from the Person shining like lightning' (Mahānār. Up. I, 6).
 </details>
 
 <details><summary>मूलम्</summary>
 
-पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.६.८), तमीश्वराणां परमं महेश्वरं तं दैवतानां परमञ्च दैवतम् (श्वे.६.७), स कारणं करणाधिपाधियो न चास्य कश्चिज्जनिता न चाधिपः (श्वे.६.९), सर्वाणि रूपाणि विचित्य धीरः।
+सर्वाणि रूपाणि विचित्य धीरः। नामानि कृत्वाऽभिवदन्यदास्ते (तै.य.आर.३.१२),
+वेदाहमेतं पुरुषं महान्तम्। आदित्यवर्णं तमसः परस्तात् (तै.यजु.आर.३.१२), सर्वे निमेषा जज्ञिरे विद्युतः पुरुषादधि (तै.नारा.१.अनु.८) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नामानि कृत्वाऽभिवदन्यदास्ते (तै.य.आर.३.१२), वेदाहमेतं पुरुषं महान्तम्।
+इत्य्-आदिषु परस्य ब्रह्मणः  
+प्राकृत-हेय-गुणान्, प्राकृत-हेय-देह-सम्बन्धं, तन्-मूल-कर्म-वश्यता-सम्बन्धं च प्रतिषिध्य  
+कल्याणगुणान् कल्याणरूपं च वदन्ति।
 </details>
 
 <details><summary>Translation</summary>
-
-'I know that great Person
 </details>
 
 <details><summary>मूलम्</summary>
 
-नामानि कृत्वाऽभिवदन्यदास्ते (तै.य.आर.३.१२), वेदाहमेतं पुरुषं महान्तम्।
+इत्यादिषु परस्य ब्रह्मणः प्राकृतहेयगुणान् प्राकृतहेयदेहसम्बन्धं तन्मूलकर्मवश्यतासम्बन्धं च प्रतिषिध्य कल्याणगुणान् कल्याणरूपं च वदन्ति।
 </details>
 
+## अप्राकृत-रूपान्तर-ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आदित्यवर्णं तमसः परस्तात् (तै.यजु.आर.३.१२), सर्वे निमेषा जज्ञिरे विद्युतः पुरुषादधि (तै.नारा.१.अनु.८) इत्यादिषु परस्य ब्रह्मणः प्राकृतहेयगुणान् प्राकृतहेयदेहसम्बन्धं तन्मूलकर्मवश्यतासम्बन्धं च प्रतिषिध्य कल्याणगुणान् कल्याणरूपं च वदन्ति।
-</details>
-
-<details><summary>Translation</summary>
-
-of sunlike lustre beyond the darkness' (Śvet. Up. III, 8); 'All moments originated from the Person shining like lightning' (Mahānār. Up. I, 6).
-</details>
-
-<details><summary>मूलम्</summary>
-
-आदित्यवर्णं तमसः परस्तात् (तै.यजु.आर.३.१२), सर्वे निमेषा जज्ञिरे विद्युतः पुरुषादधि (तै.नारा.१.अनु.८) इत्यादिषु परस्य ब्रह्मणः प्राकृतहेयगुणान् प्राकृतहेयदेहसम्बन्धं तन्मूलकर्मवश्यतासम्बन्धं च प्रतिषिध्य कल्याणगुणान् कल्याणरूपं च वदन्ति।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तदिदं स्वाभाविकमेव रूपमुपासकानुग्रहेण तत्प्रतिपत्त्यनुगुणाकारं देवमनुष्यादिसंस्थानं करोति स्वेच्छयैव परमकारुणिको भगवान्।
+तद् इदं स्वाभाविकम् एव रूपम्  
+उपासकानुग्रहेण  
+तत्-प्रतिपत्त्य्-अनुगुणाकारं देव-मनुष्यादि-संस्थानं करोति  
+स्वेच्छयैव परम-कारुणिको भगवान्।
 </details>
 
 <details><summary>Translation</summary>
@@ -942,7 +981,11 @@ of sunlike lustre beyond the darkness' (Śvet. Up. III, 8); 'All moments origina
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदिदमाह श्रुतिः – अजायमानो बहुधा विजायते (तै.आर.३.१२) इति।
+तद् इदम् आह श्रुतिः –  
+
+> अजायमानो बहुधा विजायते (तै.आर.३.१२) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -955,44 +998,42 @@ This the following scriptural passage declares, 'Unborn he is born in many ways'
 तदिदमाह श्रुतिः – अजायमानो बहुधा विजायते (तै.आर.३.१२) इति।
 </details>
 
+### गीता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्मृतिश्च अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्।
+स्मृतिश् च 
+
+> अजोऽपि सन्न् अव्ययात्मा  
+भूतानाम् ईश्वरोऽपि सन्।  
+प्रकृतिं स्वाम् अधिष्ठाय  
+सम्भवाम्य् आत्म-मायया।
 </details>
 
 <details><summary>Translation</summary>
 
-and likewise Smr̥ti. 'Though unborn I, the imperishable Self, the Lord of the beings,
-</details>
+and likewise Smr̥ti. 
 
-<details><summary>मूलम्</summary>
-
-स्मृतिश्च अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया।
-</details>
-
-<details><summary>Translation</summary>
-
+> Though unborn I, the imperishable Self, the Lord of the beings,
 presiding over my Nature, manifest myself by my Māya
 </details>
 
 <details><summary>मूलम्</summary>
 
+स्मृतिश्च अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्।
 प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परित्राणाय साधूनां विनाशाय च दुष्कृताम् (भ.गी.४.६) इति।
+> परित्राणाय साधूनां  
+विनाशाय च दुष्कृताम् (भ.गी.४.६) 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
 
-for the protection of the Good and the destruction of the evil doers '(Bha. Gī. IV, 6. 8).
+> for the protection of the Good and the destruction of the evil doers(Bha. Gī. IV, 6. 8).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1002,7 +1043,10 @@ for the protection of the Good and the destruction of the evil doers '(Bha. Gī.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-साधवो ह्युपासकाः, तत्परित्राणमेवोद्देश्येम्, आनुषङ्गिकस्तु दुष्कृतां विनाशः, सङ्कल्पमात्रेणापि तदुपपत्तेः।
+साधवो ह्य् उपासकाः,  
+तत्-परित्राणम् एवोद्देश्येम्,  
+आनुषङ्गिकस् तु दुष्कृतां विनाशः,  
+सङ्कल्प-मात्रेणापि तद्-उपपत्तेः।+++(5)+++
 </details>
 
 <details><summary>Translation</summary>
@@ -1017,7 +1061,7 @@ The 'Good' here are the Devotees;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकृतिं स्वाम्, इति प्रकृतिः – स्वभावः।
+"प्रकृतिं स्वाम्", इति प्रकृतिः – स्वभावः।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1027,7 +1071,8 @@ The 'Good' here are the Devotees;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वमेव स्वभावमास्थाय, न संसारिणां स्वभावमित्यर्थः।
+स्वम् एव स्वभावम् आस्थाय,  
+न संसारिणां स्व-भावम् इत्य् अर्थः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1040,9 +1085,10 @@ and
 स्वमेव स्वभावमास्थाय, न संसारिणां स्वभावमित्यर्थः।
 </details>
 
+#### माया ज्ञाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आत्ममाययेति स्वसङ्कल्परूपेण ज्ञानेनेत्यर्थः ।
+"आत्म-मायये"ति स्व-सङ्कल्प-रूपेण ज्ञानेनेत्य् अर्थः ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1057,7 +1103,10 @@ by 'Māya' is meant the purpose, the knowledge of the Divine Being --;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-माया वयुनं ज्ञानम् (वेदनिखण्टौ,धर्मवर्गे,२२.श्लो.) इति ज्ञानपर्यायमपि मायाशब्दं नैखण्टुका अधीयते।
+> माया वयुनं ज्ञानम्  
+(वेदनिघण्टौ,धर्मवर्गे,२२.श्लो.) 
+
+इति ज्ञान-पर्यायम् अपि माया-शब्दं नैघण्टुका अधीयते।
 </details>
 
 <details><summary>Translation</summary>
@@ -1067,62 +1116,54 @@ in agreement with the Naighaṇṭukas who register 'Māya' as a synonym of jñ�
 
 <details><summary>मूलम्</summary>
 
-माया वयुनं ज्ञानम् (वेदनिखण्टौ,धर्मवर्गे,२२.श्लो.) इति ज्ञानपर्यायमपि मायाशब्दं नैखण्टुका अधीयते।
+माया वयुनं ज्ञानम् (वेदनिघण्टौ,धर्मवर्गे,२२.श्लो.) इति ज्ञानपर्यायमपि मायाशब्दं नैघण्टुका अधीयते।
 </details>
 
+#### पराशरोक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आह च भगवान् पराशरः – समस्ताश्शक्तयश्चैता नृप यत्र प्रतिष्ठिताः।
+आह च भगवान् पराशरः –  
+
+> समस्ताश् शक्तयश् चैता  
+नृप यत्र प्रतिष्ठिताः।  
+तद् विश्व-रूप-वैरूप्यं  
+रूपम् अन्यद् धेरर् महत्॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 आह च भगवान् पराशरः – समस्ताश्शक्तयश्चैता नृप यत्र प्रतिष्ठिताः।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तद्विश्वरूपवैरूप्यं रूपमन्यद्धेरर्महत्॥
-</details>
-
-<details><summary>मूलम्</summary>
-
 तद्विश्वरूपवैरूप्यं रूपमन्यद्धेरर्महत्॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समस्तशक्तिरूपाणि तत्करोति जनेश्वर।
+समस्त-शक्ति-रूपाणि  
+तत् करोति जनेश्वर।  
+देव-तिर्यङ्-मनुष्याख्या  
+चेष्टावन्ति स्व-लीलया।
+जगताम् उपकाराय  
+न सा कर्म-निमित्त-जा – (वि.पु.६.७.७०)  
+
+इति ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 समस्तशक्तिरूपाणि तत्करोति जनेश्वर।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 देवतिर्यङ्मनुष्याख्या चेष्टावन्ति स्वलीलया।
-</details>
-
-<details><summary>मूलम्</summary>
-
-देवतिर्यङ्मनुष्याख्या चेष्टावन्ति स्वलीलया।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 जगतामुपकाराय न सा कर्मनिमित्तजा – (वि.पु.६.७.७०) इति ।
 </details>
 
-<details><summary>मूलम्</summary>
-
-जगतामुपकाराय न सा कर्मनिमित्तजा – (वि.पु.६.७.७०) इति ।
-</details>
-
+### महाभारते
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महाभारते चावताररूपस्याप्यप्राकृतत्वमुच्यते न भूत सङ्घसंस्थानो देहोऽस्य परमात्मनः इति।
+महा-भारते चावतार-रूपस्याप्य् अप्राकृतत्वम् उच्यते 
+
+> न भूत-सङ्घ-संस्थानो  
+देहो ऽस्य परमात्मनः 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -1135,9 +1176,11 @@ In the Mahābhārata also the form assumed by the highest Person in his avatāra
 महाभारते चावताररूपस्याप्यप्राकृतत्वमुच्यते न भूत सङ्घसंस्थानो देहोऽस्य परमात्मनः इति।
 </details>
 
+### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः परस्यैव ब्रह्मण एवंरूपवत्त्वादयमपि तस्यैव धर्मः।
+अतः परस्यैव ब्रह्मण एवंरूपवत्त्वाद्  
+अयम् अपि तस्यैव धर्मः।
 </details>
 
 <details><summary>Translation</summary>
@@ -1152,7 +1195,8 @@ In the Mahābhārata also the form assumed by the highest Person in his avatāra
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत आदित्यमण्डलाक्ष्यधिकरणः आदित्यादिजीवव्यतिरिक्तः परमात्मैव ॥ २१॥
+अत आदित्य-मण्डलाक्ष्य्-अधिकरणः  
+आदित्यादि-जीव-व्यतिरिक्तः परमात्मैव ॥ २१॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1167,7 +1211,7 @@ the Person within the Sun and the eye is the highest Self which is different fro
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-२२. भेदव्यपदेशाच्चान्यः ॥ १-१-२२ ॥
+२२. भेद-व्यपदेशाच् चान्यः +++(सूर्यादिभ्यः)+++॥ १-१-२२ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1184,7 +1228,7 @@ the Person within the Sun and the eye is the highest Self which is different fro
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आदित्यादिजीवेभ्यो भेदो व्यपदिश्यतेऽस्य परमात्मनः – य आदित्ये तिष्ठान्नादित्यादन्तरो यमादित्यो न वेद यस्यादित्यश्शरीरं य आदित्यमन्तरो यमयति ।
+आदित्यादिजीवेभ्यो भेदो व्यपदिश्यतेऽस्य परम् आत्मनः – य आदित्ये तिष्ठान्नादित्यादन्तरो यमादित्यो न वेद यस्याद् इत्यश् शरीरं य आदित्यमन्तरो यमयति ।
 </details>
 
 <details><summary>Translation</summary>
@@ -1214,7 +1258,7 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-योऽक्षरमन्तरे सञ्चरन्यस्याक्षरं शरीरं यमक्षरं न वेद यो मृत्युमन्तरे सञ्चरन्यस्य मृत्युश्शरीरं यं मृत्युर्न वेद एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुवाल.७) इति चास्यापहतपाप्मनः परमात्मनस्सर्वान् जीवान्
+योऽक्षरमन्तरे सञ्चरन्यस्याक्षरं शरीरं यम-क्षरं न वेद यो मृत्युम् अन्तरे सञ्चर-न्यस्य मृत्युश् शरीरं यं मृत्युर् न वेद एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुवाल.७) इति चास्यापहतपाप्मनः परमात्मनस् सर्वान् जीवान्
 शरीरत्वेन व्यपदिश्य तेषामन्तरात्मत्वेनैनं व्यपदिशति।
 </details>
 
@@ -1231,7 +1275,7 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतस्सर्वेभ्यो हिरण्यगर्भादिजीवेभ्योऽन्य एव परमात्मेति सिद्धम्॥२॥
+अतस्सर्वेभ्यो हिरण्यगर्भादिजीवेभ्योऽन्य एव पर्-अमात्म् एति सिद्धम्॥२॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1246,7 +1290,7 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति श्रीशारीरकमीमांसाभाष्ये अन्तरधिकरणम्॥७॥
+इति श्रीशारीरकमीमांसाभाष्ये अन्तर् अधिकरणम्॥७॥
 </details>
 
 <details><summary>Translation</summary>
