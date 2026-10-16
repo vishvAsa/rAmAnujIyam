@@ -4,12 +4,12 @@ title = "०४ समन्वयाधिकरणम्"
 
 
 
-**श्रीशारीरिकमीमांसाभाष्ये समन्वयाधिकरणम्॥४॥**
-
 <details><summary>अधिकरणार्थः</summary>
 
-ब्रह्मणः स्वतः पुरुषार्थतया अन्वयः।  
-साफल्यरूप-तात्पर्यलिङ्गसमर्थनपरम्।
+**श्रीशारीरिकमीमांसाभाष्ये समन्वयाधिकरणम्॥४॥**
+
+ब्रह्मणः स्वतः-पुरुषार्थतया अन्वयः।  
+साफल्यरूप-तात्पर्यलिङ्ग-समर्थन-परम्।
 </details>
 
 ---
@@ -2614,15 +2614,7 @@ The conclusion therefore is that texts such as 'That from whence these beings ar
 
 ***
 
-## Appendix: Non-sequential / Extra Commentary
-
-The provided commentary source contains a long, continuous disquisition beginning with `शास्त्रारम्भसिध्द्यर्थैषा चतुस्सूत्री...` and ending with `अतो भाष्यकारोक्तार्थपरत्वमेव चतुस्सूत्र्या उपपन्नम् ॥ ॥ इति समन्वयाधिकरणम् ॥5`. 
-
-This section does not correlate sentence-by-sentence with the provided *mūlam* text of the Samanvayādhikaraṇa (which terminates at Sūtra 4). It is a summarizing philosophical critique (*chatussūtrī-pūrvapakṣa-saṅgraha*) authored by Sudarśanasūri in his *Śrutaprakāśikā*, reviewing Advaita (mṛṣāvāda) and Yādavaprakāśa critiques of the entire first four sūtras.
-
-To maintain script integrity and completeness, the raw Sanskrit commentary of this summarizing text has been processed below with the hyphenator algorithm applied:
-
-<details><summary>Processed Extra Commentary</summary>
+<details><summary>श्रुत-प्रकाशिका - चतुस्-सूत्री-पूर्वपक्ष-सङ्ग्रहः</summary>
 
 शास्त्रारम्भ-सिध्द्यर्थैषा [[चतुस्सूत्री|चतुःसूत्री]] मृषावादिनां पक्षे न सङ्गच्छते; तत्-पक्षे विषय-प्रयोजनानुपपत्त्या शास्त्रस्यानारम्भणीयत्वात् । तथा हि- विषयः किं ब्रह्म, उत भेद-मिथ्यात्वम्, उत जीव-ब्रह्मणोर् ऐक्यम्? ॥
 

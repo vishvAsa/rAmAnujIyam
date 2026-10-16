@@ -27,6 +27,11 @@ fictitiously superimposed upon the non-differenced, self-luminous Reality;
 दोष-परिकल्पितम् ईशेशितव्याद्य्-अनन्त-विकल्पं सर्वं जगत्। 
 </details>
 
+<details><summary>टीका</summary>
+
+निर्विशेषस्य कथं भ्रमसंभव इत्यत्राह - दोषेति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > दोषश् च  
@@ -46,6 +51,11 @@ and cannot be denned either as being or non-being.
 <details><summary>मूलम्</summary>
 
 दोषश् च स्वरूप-तिरोधान-विविध-विचित्र-विक्षेप-करी सदसदनिर्वचनीयानाद्य्-अविद्या। 
+</details>
+
+<details><summary>टीका</summary>
+
+ब्रह्मव्यतिरिक्तदोषोऽस्ति चेत्, अद्वैतहानिरित्यत्राह - दोषश्चेति ।
 </details>
 
 
@@ -71,6 +81,11 @@ firstly on the ground of scriptural texts, such as
 <details><summary>मूलम्</summary>
 
 सा चावश्याभ्युपगमनीया; अनृतेन हि प्रत्यूढाः (छा.८.३.२) इत्यादिभिः श्रुतिभिः, 
+</details>
+
+<details><summary>टीका</summary>
+
+अस्मिन्नर्थे परोक्ताः श्रुतिस्मृत्यर्थापत्तीर्दर्शयति अनृतेनेति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +126,13 @@ because in that case it could not be the object of erroneous cognition (bhrama) 
 सा तु न सती,  
 भ्रान्ति-बाधयोर् अयोगात्। 
 </details>
+
+<details><summary>टीका</summary>
+
+सदसद्विलक्षणत्वमुपपादयति - सा त्विति । भ्रान्तिबाधयोरयोगात्- भ्रान्तिविषयत्वबाधविषयत्वयोरयोगात् ।
+
+प्रमितिभ्रान्तिबाधान्यथानुपपत्त्या सदसदनिर्वचनीयत्वमित्यर्थः ।
+</details>
   
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,5 +169,12 @@ Hence orthodox Philosophers declare that this Nescience falls under neither of t
 <details><summary>मूलम्</summary>
 
 अतः कोटिद्वयविनिर्मुक्तेयम् अविद्येति तत्त्वविद इति।
+</details>
+
+<details><summary>टीका</summary>
+
+"सद्भाव एवं भवतो मयोक्तः" इतिवत्, न परमतमिति दर्शयितुं - तत्त्वविद इत्युक्तम् ।
+
+दूषयति - तदयुक्तमिति ।
 </details>
 
