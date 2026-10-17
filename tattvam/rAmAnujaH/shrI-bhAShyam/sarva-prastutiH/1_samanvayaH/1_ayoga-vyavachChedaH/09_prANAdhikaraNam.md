@@ -1,11 +1,6 @@
 +++
 title = "०९ प्राणाधिकरणम्"
 +++
-
-
-
-
-
 <details><summary>अधिकरणार्थः</summary>
 
 शारीरकमीमांसाभाष्ये प्राणाधिकरणम् ॥  
@@ -19,6 +14,11 @@ title = "०९ प्राणाधिकरणम्"
 २४. अत एव प्राणः ॥ १-१-२४॥
 </details>
 
+<details><summary>Translation</summary>
+
+24\. For the same reason breath (is Brahman).
+</details>
+
 <details><summary>मूलम्</summary>
 
 २४. अत एव प्राणः ॥ १-१-२४॥
@@ -29,6 +29,11 @@ title = "०९ प्राणाधिकरणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदम् आम्नायते छान्दोग्ये – प्रस्तोतर्या देवता प्रस्तावमन्वायत्ता (छा.उ.1.10.9) इति प्रस्तुत्य, कतमा सा देवतेति प्राण इति होवाच सर्वाणि ह वा इमानि भूतानि प्राणम् एवाभिसंविशन्ति प्राणमभ्युज्जिहते सैषा देवता प्रस्तावमन्वायत्ता तां चेद-विद्वान् प्रास्तोष्यो मूर्धा ते व्य-पतिष् यत् (छां.१.११.४,५) इति॥
+</details>
+
+<details><summary>Translation</summary>
+
+We read in the Cḥāndogya (I, 10; ii), 'Prastotr̥, that deity which belongs to the Prastāva,' &c.; and further on, 'which then is that deity? He said – Breath. For all these beings merge into breath alone, and from breath they arise. This is the deity belonging to the Prastāva. If without knowing that deity you had sung forth, your head would have fallen off.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -54,6 +59,11 @@ title = "०९ प्राणाधिकरणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र प्राण-शब्दोऽप्याकाश-शब्दवत्-प्रसिद्ध-प्राण-व्यति-रक्ते परस्मिन्नेव ब्रह्मणि वर्तते।
+</details>
+
+<details><summary>Translation</summary>
+
+Here the word 'breath,' analogously to the word 'ether' denotes the highest Brahman, which is different from what is commonly called breath;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -85,6 +95,11 @@ title = "०९ प्राणाधिकरणम्"
 तदसाधारणनिखिलजगत्प्रवेश-निष्क्रमणादिलिङ्गात्प्रसिद्धवर्न्निर्दिष्टात् ॥
 </details>
 
+<details><summary>Translation</summary>
+
+we infer this from the fact that special characteristics of Brahman, viz. the whole world's entering into and rising from it, are in that text referred to as well-known things.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदसाधारणनिखिलजगत्प्रवेश-निष्क्रमणादिलिङ्गात्प्रसिद्धवर्न्निर्दिष्टात् ॥
@@ -95,6 +110,11 @@ title = "०९ प्राणाधिकरणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधिकाशङ्का तु – कृत्स्न्स्य भूत-जातस्य प्राणाधीन-स्थिति-प्रवृत्त्यादि-दर्शनात् प्रसिद्ध एव प्राणो जगत् कारणतया निर्देशम् अर्हाति – इति॥
+</details>
+
+<details><summary>Translation</summary>
+
+There indeed here arises a further doubt; for as it is a matter of observation that the existence, activity, &c., of the whole aggregate of creatures depend on breath, breath – in its ordinary acceptation – may be called the cause of the world.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -114,6 +134,11 @@ title = "०९ प्राणाधिकरणम्"
 परिहारस् तु – शिलाकाष्टादिषु चेतन-स्वरूपे च तद् अभावात् सर्वाणि ह वा इमानि भूतानि प्राणम् एवाभिसंविशन्ति प्राणमभ्युज्जिहते (छा.१.११.५) इति नोपपद्यत इति।
 </details>
 
+<details><summary>Translation</summary>
+
+This doubt is, however, disposed of by the consideration that breath is not present in things such as stones and wood, nor in intelligence itself, and that hence of breath in the ordinary sense it cannot be said that 'all beings enter into it,' &c.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परिहारस्तु – शिलाकाष्टादिषु चेतनस्वरूपे च तदभावात् सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छा.१.११.५) इति नोपपद्यत इति।
@@ -131,6 +156,11 @@ title = "०९ प्राणाधिकरणम्"
 अतः प्राणयति सर्वाणि भूत-नीति कृत्वा परं ब्रह्मैव प्राण-शब्देनाभिधीयते ॥
 </details>
 
+<details><summary>Translation</summary>
+
+We therefore conclude that Brahman is here called 'breath' in so far as he bestows the breath of life on all beings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अतः प्राणयति सर्वाणि भूतनीति कृत्वा परं ब्रह्मैव प्राणशब्देनाभिधीयते ॥
@@ -146,6 +176,11 @@ title = "०९ प्राणाधिकरणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः प्रसिद्धाकाश-प्राणादेरन्य-देव निखिलजगदेककारणापहतपाप्मत्वसार्वज्ञ्य-सत्यसङ्कल्पत्वादि अनन्त-कल्याण-गुण-गणं परं ब्रह्मैवाकाश प्राणादिशब्दाभिधेयम् इति सिद्धम्॥२४॥
+</details>
+
+<details><summary>Translation</summary>
+
+And the general result of the discussion carried on in connexion with the last two Sūtras thus is that the words 'ether' and 'breath' denote something other than what is ordinarily denoted by those terms, viz. the highest Brahman, the sole cause of this entire world, free from all evil, &c. &c.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -175,8 +210,21 @@ title = "०९ प्राणाधिकरणम्"
 **इति श्रीशारीरकमीमांसाभाष्ये प्राणाधिकरणम् ॥ ९ ॥**
 </details>
 
+<details><summary>Translation</summary>
+
+--Here terminates the adhikaraṇa of 'breath.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 **इति श्रीशारीरकमीमांसाभाष्ये प्राणाधिकरणम् ॥ ९ ॥**
+</details>
+
+<details><summary>Appendix</summary>
+
+- 9 sentences from 9 paragraphs interleaved with translations from [24.md].
+- 0 Translation - Notes blocks; 0 skipped (no counterpart found).
+- Scope: translation stream scoped by end_after 'Here terminates the adhikaraṇa' to words [0,292) of 357.
+position tags advanced in: 24.md.
 </details>
 
