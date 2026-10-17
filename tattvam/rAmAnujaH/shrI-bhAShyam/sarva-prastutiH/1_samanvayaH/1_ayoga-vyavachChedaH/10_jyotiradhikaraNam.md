@@ -438,11 +438,11 @@ Moreover, the Lord himself declares that he constitutes the Self of the intestin
 वेदनस्य यथार्थविषयत्वे संभवति अतस्मिस्तद्दृष्टिरूपताश्रयणं परोक्तमयुक्तमिति भावः । द्युसंबन्धिविषयस्य पूर्ववाक्यस्य परमात्मपरत्वमाक्षिष्य समाधते ।
 </details>
 
-## ??
+## गायत्र्य्-उक्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> २६. छन्दोऽभिधानान् नेति चेन् - न तथा – चेतोर्पण-निगमात् तथा हि दर्शनम् ॥ १-१-२६ ॥
+> २६. +++("त्रिपाद् अस्यामृतं दिवि" इति)+++ छन्दोऽभिधानान् नेति चेन् - न तथा – +++(दृष्टि-विधेः→)+++ चेतोऽर्पण-निगमात्, तथा हि +++(छन्दो-दृष्टि-विधि-)+++दर्शनम् ॥ १-१-२६ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -460,6 +460,7 @@ Moreover, the Lord himself declares that he constitutes the Self of the intestin
 छन्दोभिधानान्नेति चेन्न तथाचेतोर्पणनिगमात् तथा हि दर्शनम् ॥
 </details>
 
+### छन्दो-विषयता?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > पूर्वस्मिन् वाक्ये 
@@ -499,9 +500,13 @@ The previous section at first refers to the metre called Gāyatrī, 'The Gāyatr
 छन्दोभिधानं नेत्यर्थः ।
 </details>
 
+### दृष्टि-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्-न, तथा चेतोर्पणनिगमात् न गायत्री-शब्देन छन्दोमात्रमिहाभिधीय-ते, छन्दो-मात्रस्य सर्वात्मक-त्वानुपपत्तेः, अपि तु ब्रह्मण एव गायत्रीचेतोर्पणमिह निगम्यते।
+तन् न, तथा **चेतो-ऽर्पण-निगमात्** –  
+न गायत्री-शब्देन छन्दो-मात्रम् इहाभिधीयते,  
+छन्दो-मात्रस्य सर्वात्मकत्वानुपपत्तेः,  
+अपि तु ब्रह्मण एव गायत्री-चेतोऽर्पणम् इह निगम्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -525,7 +530,8 @@ The previous section at first refers to the metre called Gāyatrī, 'The Gāyatr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मणि गायत्री-सादृश्यानुसन्धानं फलायोपदिश्यत इत्यर्थः ।
+ब्रह्मणि गायत्री-सादृश्यानुसन्धानं फलायोपदिश्यत  
+इत्य् अर्थः ।
 </details>
 
 <details><summary>Translation</summary>
@@ -538,33 +544,27 @@ i.e. teaches, to the end of a certain result being obtained, meditation on Brahm
 ब्रह्मणि गायत्रीसादृश्यानुसन्धानं फलायोपदिश्यत इत्यर्थः ।
 </details>
 
+### गायत्री-चतुष्-पात्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम्भवति च पादो ऽस्य सर्वा भूतानि।
+सम्भवति च 
+
+> पादो ऽस्य सर्वा भूतानि।  
+त्रिपाद्-अस्यामृतं दिवि (छा.३.१२.६) 
+
+इति चतुष्-पदो ब्रह्मणश्  
+चतुष्-पदया गायत्र्या च सादृश्यम्।
 </details>
 
 <details><summary>Translation</summary>
 
 For Brahman having four feet, in the sense indicated by the _rik_,
-</details>
-
-<details><summary>मूलम्</summary>
-
-सम्भवति च पादोऽस्य सर्वा भूतानि।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-त्रिपाद्-अस्यामृतं दिवि (छा.३.१२.६) इति चतुष्पदो ब्रह्मणश् चतुष्पदया गायत्र्या च साद्-ऋश्यम्।
-</details>
-
-<details><summary>Translation</summary>
-
 may be compared to the Gāyatrī with its four (metrical) feet.
 </details>
 
 <details><summary>मूलम्</summary>
 
+सम्भवति च पादोऽस्य सर्वा भूतानि।
 त्रिपादस्यामृतं दिवि (छा.३.१२.६) इति चतुष्पदो ब्रह्मणश्चतुष्पदया गायत्र्या च सादृश्यम्।
 </details>
 
@@ -601,7 +601,7 @@ may be compared to the Gāyatrī with its four (metrical) feet.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चतुष्पदा च गायत्री क्वचिद्-दृश्यते।
+चतुष्पदा च गायत्री क्वचिद् दृश्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -616,67 +616,37 @@ The Gāyatrī (indeed has as a rule three feet, but) occasionally a Gāyatrī wi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तद्यथा इन्द्रश् श-चीपतिः।
+तद् यथा - 
+
+> इन्द्रश् शची-पतिः।  
+वलेन पीडितः।  
+दुश्च्यवनो वृषा।  
+समित्सुसासहिः 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
 
 so, e.g., 'Indraś śacīpatiḥ |
-</details>
-
-<details><summary>मूलम्</summary>
-
-तद्यथा इन्द्रश्शचीपतिः।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-बलेन पीडितः।
-</details>
-
-<details><summary>Translation</summary>
-
 valena pīḍitaḥ |
-</details>
-
-<details><summary>मूलम्</summary>
-
-बलेन पीडितः।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-दुश्च्यवनो वृषा।
-</details>
-
-<details><summary>Translation</summary>
-
 duścyavano vr̥shā |
-</details>
-
-<details><summary>मूलम्</summary>
-
-दुश्च्यवनो वृषा।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-समित्सुसासहिः इति।
-</details>
-
-<details><summary>Translation</summary>
-
 samitsu sāsahiḥ.'
 </details>
 
 <details><summary>मूलम्</summary>
 
+तद्यथा इन्द्रश्शचीपतिः।
+वलेन पीडितः।
+दुश्च्यवनो वृषा।
 समित्सुसासहिः इति।
 </details>
 
+### छन्दो-दृष्टि-विधि-बाहुल्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा ह्यन्यत्रापि सादृश्याच्छन्दोभिधायी शब्दो ऽर्थान्तरे प्रयुज्यमानो दृश्यते।
+तथा ह्य् अन्यत्रापि सादृश्याच्  
+छन्दोऽभिधायी शब्दो ऽर्थान्तरे प्रयुज्यमानो दृश्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -706,7 +676,15 @@ We see that in other passages also words primarily denoting metres are employed 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा संवर्ग-विद्यायां ते वा एते पञ्चान्ये पञ्चान्ये दश सम्पद्यन्त इत्यारभ्य सैषा विराडन्नात् (छा.४.३.८) इत्युच्यते॥ २६॥
+यथा संवर्ग-विद्यायां 
+
+> ते वा एते पञ्चान्ये पञ्चान्ये दश सम्पद्यन्त  
+
+इत्य् आरभ्य 
+
+> सैषा विराड् अन्नात् (छा.४.३.८) 
+
+इत्य् उच्यते॥ २६॥
 </details>
 
 <details><summary>Translation</summary>
@@ -742,25 +720,6 @@ thus, e.g., in the saṁvargavidyā (Cḥ. Up. IV, 3, 8), where Virāj (the name
 ननु सर्वभूतवाक्पृथिवीशरीरहृदयप्राणाख्यपदार्थषट्कप्रतिपादनात् स्वारस्यभङ्गेनापि षाड्िवध्यनिगमनपरत्वमास्थेयमिति चेन्न; वाक्प्राणयोर्गानत्राणादिवत् अन्यार्थमुक्ततया भूतपृथिव्यादिवत् प्राधान्यतः प्रतिपाद्यत्वाभावेन पदार्थषट्कासिद्धेः । ब्रह्मणो गानत्राणाभ्यां गायत्रीशब्दवाच्यत्वोपपादनाय वाक् प्रस्तुता, शरीरस्य प्राणप्रतिष्ठात्वोपपादनाय प्राणप्रसङ्गः ।
 
 तथा हि "गायत्री वा इदं सर्वं भूतम्" इति गायत्रीशब्दः चतुष्पाद्ब्रह्मपरः । सर्वभूतशब्दः आत्मपरः । आत्मवर्गस्य तत्पादत्वं सामानाधिकरण्येनोक्तम् ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-इतश्च गायत्री-शब्देन ब्रह्मैवाभिधीयते –
-</details>
-
-<details><summary>Translation</summary>
-
-For this conclusion the next Sūtra supplies a further argument.
-</details>
-
-<details><summary>मूलम्</summary>
-
-इतश्च गायत्रीशब्देन ब्रह्मैवाभिधीयते –
-</details>
-
-<details><summary>टीका</summary>
-
 तस्यैव ब्रह्मणो गानत्राणादिभिः षाड्िवध्यञ्च विवक्षुः श्रुतिर्गानत्राणोपपादनाय वाग्रूपत्वमाहवाग्वै गायत्रीति ।
 
 गायत्रीशब्दवाच्यं चतुष्पाद्ब्रह्म वाग्रूपविशिष्टमित्यर्थः ।
@@ -776,9 +735,25 @@ For this conclusion the next Sūtra supplies a further argument.
 तदनुवादपूर्वकं द्वितीयं पादं सामानाधिकरण्येनाह- या वै गायत्री इयं वा व सा येयं पृथिवीति । उक्ताकारविशिष्टप्रकृतधर्मिपरौ यत्तच्छब्दौ ।
 </details>
 
+## ??
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-२७. भूतादि-पादव्यपदेशोपपत्तेश्चैवम् ॥ १-१-२७ ॥
+इतश्च गायत्री-शब्देन ब्रह्मैवाभिधीयते –
+</details>
+
+<details><summary>Translation</summary>
+
+For this conclusion the next Sūtra supplies a further argument.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इतश्च गायत्रीशब्देन ब्रह्मैवाभिधीयते –
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+२७. भूतादि--पाद-व्यपदेशोपपत्तेश् चैवम् ॥ १-१-२७ ॥
 </details>
 
 <details><summary>Translation</summary>
