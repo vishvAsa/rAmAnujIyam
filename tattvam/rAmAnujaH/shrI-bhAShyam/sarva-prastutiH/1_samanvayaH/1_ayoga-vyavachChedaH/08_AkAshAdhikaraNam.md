@@ -13,13 +13,13 @@ title = "०८ आकाशाधिकरणम्"
 </details>
 
 
-## पेटिकाभेदस्य तत्सङ्गतेश्च प्रतिपादनम्
+## पाद-शेष-सङ्गतिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यतो वा इमानि भूतानि जान्यन्ते (तै.भृ.१.२) 
 
-इति जगत्कारणं ब्रह्मेत्य् अवगम्यते।  
+इति जगत्-कारणं ब्रह्मेत्य् अवगम्यते।  
 </details>
 
 <details><summary>Thibaut</summary>
@@ -37,7 +37,13 @@ The text, 'That from which these beings are born,' teaches that Brahman is the c
 
 <details><summary>टीका</summary>
 
-अथ चिदचिद्विलक्षणस्य वस्तुनो वेदान्तवेद्यत्वनिर्णयात् तदुत्तराधिकरणमनारम्भणीयमिति शङ्कां परि हरन् पेटिकाभेदतत्सङ्गती आह यतो वा इमानीत्यादिना । सद्ब्रह्मात्मादिसाधारणशब्दानां जगत्कारणवाचिनामर्थस्वभावादभिमतविशेषपर्यवसानं कृतम् ।
+अथ चिद्-अचिद्-विलक्षणस्य वस्तुनो वेदान्तवेद्यत्व-निर्णयात्  
+तद्-उत्तराधिकरणम् अनारम्भणीयम् इति शङ्कां परिहरन्  
+पेटिकाभेद--तत्-सङ्गती आह  
+यतो वा इमानीत्यादिना ।  
+
+सद्-ब्रह्मात्मादि-साधारणशब्दानां  
+जगत्कारणवाचिनामर्थस्वभावादभिमतविशेषपर्यवसानं कृतम् ।
 
 वस्त्वन्तरविरोपासाधारणत्वेन व्युत्पन्नैरपि शब्दैः जगत्कारणे निर्दिष्टे तषमपि अर्थस्वभावात् अभिमत विशेष पर्यवसानं क्रियत इत्यर्थः ।
 
@@ -46,10 +52,12 @@ The text, 'That from which these beings are born,' teaches that Brahman is the c
 लिङ्गाच्छ्रुतेबर्लीयस्त्वात् कारणविशेषे आकाशादिपदश्रुत्या निश्चिते सति, लिङ्गात् तद्विरुद्धविशेषनिश्चयोऽनुपपन्न इति पूर्वपक्षोत्थानादधिकरणस्यारम्भणीयत्वं सिद्धमिति भावः ।
 </details>
 
-
+### जगत्-कारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं तज् जगत्-कारणम् इत्य् अपेक्षायां  
+> किं तज् जगत्-कारणम्? 
+
+इत्य् अपेक्षायां  
 </details>
 
 <details><summary>Thibaut</summary>
@@ -66,7 +74,7 @@ to the question thence arising of what nature that cause of the world is,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सदेव सोम्येदमग्र आसीत् (छा.६.२.१) 
+> सद् एव सोम्येदमग्र आसीत् (छा.६.२.१) 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -83,7 +91,7 @@ to the question thence arising of what nature that cause of the world is,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तत्तेजोऽसृजत (छा.६.२.३)  
+> तत् तेजो ऽसृजत (छा.६.२.३)  
 </details>
 
 <details><summary>Thibaut</summary>
@@ -100,7 +108,7 @@ to the question thence arising of what nature that cause of the world is,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आत्मा वा इदमेक एवाग्र आसीत् (ऐत.१.१.१) 
+> आत्मा वा इदम् एक एवाग्र आसीत् (ऐत.१.१.१) 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -117,18 +125,18 @@ to the question thence arising of what nature that cause of the world is,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स इमाल्लोकानसृजत (ऐतरेय.१.१.२) 
+> स इमाल्ँ लोकान् असृजत (ऐतरेय.१.१.२) 
 </details>
 
 <details><summary>मूलम्</summary>
 
-स इमाल्लोकानसृजत (ऐतरेय.१.१.२) 
+स इमाल्ँलोकानसृजत (ऐतरेय.१.१.२) 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माद्वा एतस्मादात्मन आकाशस्सम्भूतः (तै.आन.१) 
+> तस्माद् वा एतस्माद् आत्मन आकाशस् सम्भूतः (तै.आन.१) 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -151,7 +159,7 @@ to the question thence arising of what nature that cause of the world is,
 इति साधारणैश्शब्दैर्जगत्कारणे निर्दिष्टे 
 </details>
 
-
+### चेतनत्वम्, अजीवत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईक्षण-विशेष--आनन्द-विशेष--रूप--विशेषार्थ-स्वभावात्  
@@ -171,9 +179,10 @@ that Brahman is different from the pradhāna and the individual souls.
 ईक्षणविशेष-आनन्दविशेषरूपविशेषार्थस्वभावात्प्रधानक्षेत्रज्ञादिव्यतिरिक्तं ब्रह्मेत्युक्तम्। 
 </details>
 
+### आकाशादि-शब्दाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदानीम् आकाशादि-विशेषशब्दैर् निर्दिश्य  
+इदानीम् आकाशादि-विशेष-शब्दैर् निर्दिश्य  
 जगत्-कारणत्व--जगद्-ऐश्वर्यादि-वादे ऽप्य्  
 आकाशादि-शब्दाभिधेयतया 
 </details>
@@ -213,17 +222,13 @@ but Brahman as proved so far.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आकाशस्तल्लिङ्गात् इत्यादिना पादशेषेण-
+"आकाशस् तल्-लिङ्गात्" इत्य्-आदिना पाद-शेषेण -
 </details>
 
 <details><summary>Thibaut</summary>
 
 The remaining part of this Pāda now is devoted to the task of proving that.  
 </details>
-
-
-
-## विषयवाक्यप्रदर्शनम्
 
 <details><summary>मूलम्</summary>
 
@@ -240,7 +245,7 @@ The remaining part of this Pāda now is devoted to the task of proving that.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-२३. आकाशस्तिल्लङ्गात् ॥ १-१-२३॥
+२३. +++(‘इमानि भूतान्याकाशादेव समुत्पद्यन्त आकाशं प्रत्यस्तं यन्त्याकाशो ह्येवैभ्यो ज्यायानाकाशः परायणम्’ (छा. उ. १ । ९ । १) इत्यादाव् अमहाभूतं ब्रह्मैव+)+++ आकाशस् - +++(नानावचनेषु)+++ तल्+++(→ब्रह्म)+++-लिङ्गात् ॥ १-१-२३॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -254,6 +259,8 @@ The remaining part of this Pāda now is devoted to the task of proving that.
 २३. आकाशस्तिल्लङ्गात् ॥ १-१-२३॥
 </details>
 
+
+## आकाश-कारणतोक्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -302,7 +309,8 @@ We read in the Cḥāndogya (I, 9),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सर्वाणि ह वा इमानि भूतान्य् आकाशाद् एव समुत्पद्यन्ते 
+> सर्वाणि ह वा इमानि भूतान्य्  
+आकाशाद् एव समुत्पद्यन्ते 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -380,7 +388,7 @@ We read in the Cḥāndogya (I, 9),
 </details>
 
 
-### संशय-प्रदर्शनम्
+### संशयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -403,7 +411,7 @@ Here there arises the doubt whether the word 'ether' denotes the well-known elem
 </details>
 
 
-## पूर्व-पक्ष-प्रदर्शनम्
+## पूर्व-पक्षः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -424,9 +432,9 @@ The Pūrvapakshin maintains the former alternative.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतः?  
+> कुतः?  
 
-> शब्दैक-समधिगम्ये वस्तुनि  
+शब्दैक-समधिगम्ये वस्तुनि  
 य एवार्थो व्युत्पत्ति-सिद्धश् शब्देन प्रतीयते  
 स एव ग्रहीतव्यः। 
 </details>
@@ -459,12 +467,12 @@ which, proved by etymology, is immediately suggested by the word.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अतः प्रसिद्धाकाश एव चराचरभूतस्य कृत्स्नस्य कारणम्। 
+अतः प्रसिद्धाकाश एव चराचरभूतस्य कृत्स्नस्य कारणम्। 
 </details>
 
 <details><summary>Thibaut</summary>
 
-> We therefore conclude from the passage that the well-known Ether is the cause of the entire aggregate of things, moving or non-moving, 
+We therefore conclude from the passage that the well-known Ether is the cause of the entire aggregate of things, moving or non-moving, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -484,14 +492,13 @@ which, proved by etymology, is immediately suggested by the word.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अतस् तस्माद् अनतिरिक्तं ब्रह्म।
+अतस् तस्माद् अनतिरिक्तं ब्रह्म।
 </details>
 
 <details><summary>Thibaut</summary>
 
-and that 
-
-> hence Brahman is the same as Ether.
+and that  
+hence Brahman is the same as Ether.
 </details>
 
 
@@ -501,17 +508,17 @@ and that
 </details>
 
 
-### अर्थ-विरोधात् व्युत्पत्ति-सिद्धार्थस्य त्याज्यत्व-शङ्का-परिहारौ
+### कारण-वाक्यान्तर-विरोधः?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > नन्व् ईक्षा-पूर्वक-सृष्ट्य्-आदिभिर्  
-अचेतनाज् जीवाच् च व्यतिरिक्तं ब्रह्मेत्य् उक्तम्?।्-। 
+> नन्व् ईक्षा-पूर्वक-सृष्ट्य्-आदिभिर्  
+अचेतनाज् जीवाच् च व्यतिरिक्तं ब्रह्मेत्य् उक्तम्?
 </details>
 
 <details><summary>Thibaut</summary>
 
-> > But has it not been shown that Brahman is something different from non-sentient things  
+> But has it not been shown that Brahman is something different from non-sentient things  
 because its creative activity is preceded by thought?
 </details>
 
@@ -526,15 +533,15 @@ because its creative activity is preceded by thought?
 अर्थविरोधात् व्युत्पत्तिसिद्धार्थः त्यज्यत इति चोदयति नन्विति ।
 </details>
 
-
+### आकाशोक्त्या निश्चयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सत्यम्, उक्तम्। अयुक्तं तु तत्। 
+सत्यम्, उक्तम्। अयुक्तं तु तत्। 
 </details>
 
 <details><summary>Thibaut</summary>
 
-> This has been asserted indeed,  
+This has been asserted indeed,  
 but by no means proved. 
 </details>
 
@@ -552,11 +559,11 @@ but by no means proved.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तथा हि 
-> 
-> > यतो वा इमानि भूतानि जायन्ते तद्ब्रह्म (तै.भृ.१.अनु.) 
-> 
-> इत्य् उक्ते 
+तथा हि 
+
+> यतो वा इमानि भूतानि जायन्ते तद् ब्रह्म (तै.भृ.१.अनु.) 
+
+इत्य् उक्ते 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -575,9 +582,9 @@ Having been told that
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > कुत इमानि भूतानि जायन्त 
-> 
-> इत्य्-आदि-विशेषापेक्षायां 
+> कुत इमानि भूतानि जायन्त 
+
+इत्य्-आदि-विशेषापेक्षायां 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -601,9 +608,9 @@ what that source of all beings is,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > सर्वाणि ह वा इमानि भूतान्य् आकाशाद् एव समुत्पद्यन्ते (छा.१.९.१) 
->
-> इत्य्-आदिना विशेष-प्रतीतेः –  
+> सर्वाणि ह वा इमानि भूतान्य् आकाशाद् एव समुत्पद्यन्ते (छा.१.९.१) 
+
+इत्य्-आदिना विशेष-प्रतीतेः –  
 </details>
 
 <details><summary>Thibaut</summary>
@@ -646,14 +653,14 @@ what that source of all beings is,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > सदेव सोम्येदमग्र आसीत् (छा.६.२.१) 
->
-> इत्य्-आदिष्व् अपि 
+> सदेव सोम्येदमग्र आसीत् (छा.६.२.१) 
+
+इत्य्-आदिष्व् अपि 
 </details>
 
 <details><summary>Thibaut</summary>
 
-> ((in) 'Being only was this in the beginning') 
+((in) 'Being only was this in the beginning') 
 </details>
 
 
@@ -665,13 +672,13 @@ what that source of all beings is,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सद्-आदि-शब्दास् साधारणाकारास्  
+सद्-आदि-शब्दास् साधारणाकारास्  
 तम् एव विशेषम् आकाशम् अभिदधति। 
 </details>
 
 <details><summary>Thibaut</summary>
 
-> we conclude that also such general terms as 'Being'  
+we conclude that also such general terms as 'Being'  
 denote the particular substance called 'ether.' 
 </details>
 
@@ -681,12 +688,12 @@ denote the particular substance called 'ether.'
 सदादिशब्दास्साधारणाकारास्तमेव विशेषमाकाशमभिदधति। 
 </details>
 
-
+### आत्म-शब्दः साधारणः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > आत्मा वा इदम् एक एवाग्र आसीत् (ऐत.१.१.१) 
->
-> इत्य्-आदिष्व् आत्मशब्दोऽपि तत्रैव वर्तते। 
+> आत्मा वा इदम् एक एवाग्र आसीत् (ऐत.१.१.१) 
+
+इत्य्-आदिष्व् आत्म-शब्दोऽपि तत्रैव वर्तते। 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -726,15 +733,15 @@ denote the particular substance called 'ether.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तस्यापि +++(आत्म-शब्दस्य)+++ हि चेतनैकान्तत्वं न सम्भवति;  
+तस्यापि +++(आत्म-शब्दस्य)+++ हि चेतनैकान्तत्वं न सम्भवति;  
 यथा "मृद्-**आत्मको** घटः" इति। 
 </details>
 
 <details><summary>Thibaut</summary>
 
-> for that word is by no means limited to non-sentient things-- cp., e.g., the phrase,  
->
->> 'Clay constitutes the Self of the jar'--, 
+for that word is by no means limited to non-sentient things-- cp., e.g., the phrase,  
+
+> 'Clay constitutes the Self of the jar'--, 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -744,13 +751,13 @@ denote the particular substance called 'ether.'
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> "आप्नोतीत्य् आत्मे"ति व्युत्पत्त्या  
+"आप्नोतीत्य् आत्मे"ति व्युत्पत्त्या  
 सुतराम् आकाशे ऽप्य् आत्म-शब्दो वर्तते ॥
 </details>
 
 <details><summary>Thibaut</summary>
 
-> and its etymology also (ātman from āp, to reach) shows that  
+and its etymology also (ātman from āp, to reach) shows that  
 it may very well be applied to the ether. 
 </details>
 
@@ -769,12 +776,12 @@ it may very well be applied to the ether.
 
 
 
-### तदैक्षतेतीक्षणादीनां गौणता-निर्वाहः
+### ईक्षतेर् गौणता
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अत एवम् "आकाश एव कारणं ब्रह्मे"ति निश्चिते सति  
+अत एवम् "आकाश एव कारणं ब्रह्मे"ति निश्चिते सति  
 +ईक्षणादयस् तद्-अनुगुणा गौणा वर्णनीयाः।
 </details>
 
@@ -802,7 +809,7 @@ in a suitable, i.e. secondary, or metaphorical sense.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> यदि हि साधारण-शब्दैर् एव सद्-आदिभिः  
+यदि हि साधारण-शब्दैर् एव सद्-आदिभिः  
 कारणम् अभ्यधायिष्यत,  
 ईक्षणाद्य्-अर्थानुरोधेन  
 "चेतन-विशेष एव कारणम्" इति निरचेष्यत। 
@@ -810,7 +817,7 @@ in a suitable, i.e. secondary, or metaphorical sense.
 
 <details><summary>Thibaut</summary>
 
-> If the texts denoted the general cause by general terms only, such as 'Being',  
+If the texts denoted the general cause by general terms only, such as 'Being',  
 we should, in agreement with the primary sense of 'thinking', and similar terms, decide that that cause is an intelligent being; 
 </details>
 
@@ -829,13 +836,13 @@ we should, in agreement with the primary sense of 'thinking', and similar terms,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आकाश-शब्देन तु विशेष एव निश्चित  
+आकाश-शब्देन तु विशेष एव निश्चित  
 इति नार्थ-स्वाभाव्यान् निर्णेतव्यम् अस्ति।
 </details>
 
 <details><summary>Thibaut</summary>
 
-> but since, as a matter of fact,  
+but since, as a matter of fact,  
 we ascertain a particular cause on the basis of the word 'ether',  
 our decision cannot be formed on general considerations of what would suit the sense.
 </details>
@@ -856,17 +863,17 @@ our decision cannot be formed on general considerations of what would suit the s
 </details>
 
 
-### आकाशस्य कार्यताश्रुतेः परमकारणत्वानुपपत्ति-शङ्का-परिहारौ
+### आकाश-कार्यता?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > ननु "आत्मन आकाशसम्भूतः" (तै.आन.१.२) इत्य्  
+> ननु "आत्मन आकाशसम्भूतः" (तै.आन.१.२) इत्य्  
 आकाशस्यापि कार्यत्वं प्रतीयते। 
 </details>
 
 <details><summary>Thibaut</summary>
 
-> > --But what then about the passage,  
+> --But what then about the passage,  
 'From the Self there sprang the ether' (Taitt. Up. II, 1, 1),  
 from which it appears that the ether itself is something created? 
 </details>
@@ -882,9 +889,10 @@ from which it appears that the ether itself is something created?
 कार्यतयाऽवगतस्य परमकारणत्वानुपपत्तिमुखेन चोदयति नन्विति ।
 </details>
 
+#### अवस्था-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सत्यम्, सर्वेषाम् एवाकाश-वाय्व्-आदीनां सूक्ष्मावस्था स्थूलावस्था चेत्य् अवस्था-द्वयम् अस्ति। 
+सत्यम्, सर्वेषाम् एवाकाश-वाय्व्-आदीनां सूक्ष्मावस्था स्थूलावस्था चेत्य् अवस्था-द्वयम् अस्ति। 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -908,13 +916,13 @@ a gross material one, and a subtle one.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तत्राकाशस्य सूक्ष्मावस्था कारणं  
+तत्राकाशस्य सूक्ष्मावस्था कारणं  
 स्थूलावस्था तु कार्यम् । 
 </details>
 
 <details><summary>Thibaut</summary>
 
-> The ether, in its subtle state, is the universal cause;  
+The ether, in its subtle state, is the universal cause;  
 in its gross state it is an effect of the primal cause;  
 </details>
 
@@ -927,14 +935,14 @@ in its gross state it is an effect of the primal cause;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > "आत्मन आकाशस् सम्भूतः" (तै.आन.१.२)  
->
-> इति 
->
-> > स्वस्माद् एव सूक्ष्म-रूपात्  
+> "आत्मन आकाशस् सम्भूतः" (तै.आन.१.२)  
+
+इति 
+
+> स्वस्माद् एव सूक्ष्म-रूपात्  
 स्वयं स्थूल-रूपस् सम्भूत 
->
-> इत्य् अर्थः। 
+
+इत्य् अर्थः। 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -951,7 +959,8 @@ in its gross state it is an effect of the primal cause;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सर्वाणि ह वा इमानि भूतान्य् आकाशादेव समुत्पद्यन्ते (छा.१.९.१)  
+> सर्वाणि ह वा इमानि भूतान्य्  
+आकाशादेव समुत्पद्यन्ते (छा.१.९.१)  
 
 इति सर्वस्य जगत  
 आकाशाद् एव प्रभवाप्ययादि-श्रवणात्  
@@ -982,12 +991,13 @@ and from this it follows that ether is none other than the general cause of the 
 परायणमिति ह्यत्रोक्तम् ।
 </details>
 
+### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> यत एवं प्रसिद्धाकाशाद् अनतिरिक्तं ब्रह्म,  
+यत एवं, प्रसिद्धाकाशाद् अनतिरिक्तं ब्रह्म,  
 अत एव च  
-> 
-> > यद् एष आकाश आनन्दो न स्यात् (तै.आन.७.)  
+
+> यद् एष आकाश आनन्दो न स्यात् (तै.आन.७.)  
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1009,9 +1019,9 @@ also gives a satisfactory sense to texts such as the following:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > आकाशो ह वै नामरूपयोर् निर्वहिता (छा.८.१४.१) 
-> 
-> इत्य् एवम्-आदि-निर्देशो ऽप्य् उपपन्नतरः। 
+> आकाशो ह वै नाम-रूपयोर् निर्वहिता (छा.८.१४.१) 
+
+इत्य्-एवम्-आदि-निर्देशो ऽप्य् उपपन्नतरः। 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1035,12 +1045,14 @@ also gives a satisfactory sense to texts such as the following:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अतः "प्रसिद्धाकाशाद् अनतिरिक्तं ब्रह्म" +इति॥
+अतः "प्रसिद्धाकाशाद् अनतिरिक्तं ब्रह्म" 
+
++इति॥
 </details>
 
 <details><summary>Thibaut</summary>
 
-> It thus appears that Brahman is none other than the well-known elemental ether.
+It thus appears that Brahman is none other than the well-known elemental ether.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1056,13 +1068,13 @@ also gives a satisfactory sense to texts such as the following:
 </details>
 
 
-## सिद्धान्तः
-### चेतनत्व-लिङ्गानि
+## चेतनत्व-लिङ्गानि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्राप्ते ब्रूमः –  
-आकाशस् तल्-लिङ्गात् – 
+
+> **आकाशस् तल्-लिङ्गात्**+++(‘इमानि भूतान्याकाशादेव समुत्पद्यन्त आकाशं प्रत्यस्तं यन्त्याकाशो ह्येवैभ्यो ज्यायानाकाशः परायणम्’ (छा. उ. १ । ९ । १) इत्यादाव् अमहाभूतं ब्रह्मैव+)+++ आकाशस् - +++(नानावचनेषु)+++ तल्+++(→चेतन)+++-लिङ्गात् – 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1097,7 +1109,7 @@ which is something quite different from the non-sentient elemental ether.
 आकाशशब्दाभिधेयः प्रसिद्धाकाशादचेतनात् अर्थान्तरभूतो यथोक्तलक्षणः परमात्मैव। 
 </details>
 
-
+### कारणता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुतः? तल्-लिङ्गात् -  
@@ -1127,7 +1139,7 @@ For the qualities which the passage attributes to ether, viz. its being the one 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निखिलकारणत्वं हि  
+निखिल-कारणत्वं हि  
 अ-चिद्-वस्तुनः प्रसिद्धाकाश-शब्दाभिधेयस्य नोपपद्यते,  
 चेतन-वस्तुनस् तत्-कार्यत्वासम्भवात्। 
 </details>
@@ -1163,7 +1175,7 @@ since intelligent beings clearly cannot be its effects;
 सकलानां पुरुषाणां साक्षात्पुरुषार्थो मोक्षः; बन्धहेतुतयां तस्य विरोधिन इत्यर्थः । यद्वा मोक्षविरोधितया हेयस्य, शब्दादिनिषिद्धविषयप्रावण्यजननात् धर्मादिसकलपुरुषार्थविरोधिनः ।
 </details>
 
-
+### परायणता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परायणत्वं च चेतनानां परम-प्राप्यत्वम्। 
@@ -1199,6 +1211,7 @@ for non-sentient things are evil and antagonistic to the true aim of man;
 यद्वा कारणावस्थायामत्यन्तज्ञानसङ्कोचहेतुतया चतुर्णामपि पुरुषार्थानां विरोधिन इत्यर्थः ।
 </details>
 
+### ज्यायस्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वस्माज् ज्यायस्त्वं च निरुपाधिकं,  
@@ -1234,7 +1247,7 @@ and thus be absolutely superior to everything else.
 </details>
 
 
-## प्रसिद्धवन्निर्देशः
+## प्रसिद्धवन् निर्देशः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1271,7 +1284,7 @@ all other texts are to be interpreted in accordance herewith.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सर्वाणि ह वा इमानि भूतान्य्  
-आकाशादेव समुत्पद्यन्ते (छा.१.९.१) 
+आकाशाद् एव समुत्पद्यन्ते (छा.१.९.१) 
 
 इति +++("ह वै"→)+++ प्रसिद्धवन् निर्देशात्। 
 </details>
@@ -1398,10 +1411,10 @@ and makes other things shine forth (ākāśayati).
 रूढिप्राबल्यमर्थाविरोधे सतीति अपशूद्राधिकरणनयोपजीवनेनात्रावयवशक्या निर्वाहः कृतः; रूढ्यपरित्यागेनापर्यवसानवृत्त्या आकाशशब्दस्य आकाशारीरकपरमात्मपरतया निर्वाहोऽप्यभिमतः ; वैश्वानराधिकरणे वैश्वानरशब्दस्योभयथाऽपि परमात्मपरत्वस्य वक्ष्यमाणत्वात्; आकाशादिशब्दानां तत्तच्छरीरकपरमात्मवाचित्वस्यानन्तरपादेऽनुवदिष्यमाणत्वाच्च । आकाशशब्दस्याव्याकृतशरीरकपरमात्मपरत्वं तु यादवप्रकाशोक्तं विलम्बद्वयवत्त्वादुपेक्षितम् ।
 </details>
 
-
+## वाक्यान्तर-लक्षणापत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च अनेनाकाश-शब्देन विशेष+++(-अर्थ)+++-समर्पण-क्षमेणापि  
+किञ्च, अनेनाकाश-शब्देन विशेष+++(-अर्थ)+++-समर्पण-क्षमेणापि  
 +++(कार्ये जगति)+++ चेतनांशं प्रत्य् अ-सम्भावित-कारण-भावम् अ-चेतन-विशेषम् +++(खाख्यम्)+++ अभिदधानेन 
 </details>
 
@@ -1428,7 +1441,7 @@ but as it denotes a special non-intelligent thing which cannot be admitted as th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तदैक्षत - बहु स्यां प्रजायेय (छा.६.२.३) 
+> तद् ऐक्षत - बहु स्यां प्रजायेय (छा.६.२.३) 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1448,7 +1461,7 @@ but as it denotes a special non-intelligent thing which cannot be admitted as th
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सोऽकामयत। बहुस्यां प्रजायेय (तै.आन.६) 
+> सोऽकामयत। बहु स्यां प्रजायेय (तै.आन.६) 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1472,8 +1485,8 @@ and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्यादि वाक्य-शेषावधारित-सार्वज्ञ्य--सत्य-सङ्कल्पत्वादि-  
-विशिष्टापूर्वार्थ-प्रतिपादन-समर्थ--वाक्यार्थान्यथा-करणं  
+इत्य्-आदि-वाक्य-शेषावधारित- -सार्वज्ञ्य--सत्य-सङ्कल्पत्वादि-  
+विशिष्टापूर्वार्थ-प्रतिपादन-समर्थ- -वाक्यार्थान्यथा-करणं  
 न प्रमाण-पदवीम् अधिरोहति। 
 </details>
 
@@ -1506,8 +1519,8 @@ which we ascertain from certain complementary texts-such as (the above).
 एवम् अपूर्वानन्त-विशेषण-विशिष्ट-- 
 +अपूर्वार्थ-प्रतिपादन-समर्थ-  
 +अनेक-वाक्य--गति-सामान्यं च  
-+एकेनानुवाद--स्व-रूपेण +++(न त्व्-अपूर्वार्थ-ज्ञापकेन)+++  
-+अन्यथा कर्त्तुं न शक्यते।
++एकेनानुवाद--स्व-रूपेण +++(न त्व् अपूर्वार्थ-ज्ञापकेन)+++  
++अन्यथा कर्तुं न शक्यते।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1526,16 +1539,26 @@ only makes a reference to what is already established by other texts.
 
 <details><summary>टीका</summary>
 
-उक्तवैषम्यद्वयानुवादेव अनेकवाक्यान्येकेन वाक्येन बाधयितु(बाधितु?)मशक्यानीत्याह एवमिति । गतिसामान्यम्- प्रवृत्तिसामान्यम् । अस्य लोकस्य का गतिः" इत्युपक्रमवशादन्यपरत्वं स्फुटम् ।
+उक्त-वैषम्य-द्वयानुवादेव??  
+अनेक-वाक्यान्य् एकेन वाक्येन बाधयितु(बाधितु?)मशक्यानीत्याह एवमिति ।  
+गतिसामान्यम् - प्रवृत्तिसामान्यम् ।  
+"अस्य लोकस्य का गतिः" इत्य् उपक्रमवशाद् अन्य-परत्वं स्फुटम् ।
 
-एवमाकाशकारणपक्षे अन्यपरत्वमेकवाक्यत्वमयोग्यार्थत्वमनुवादरूपत्वम्, स्वपक्षे अनन्यपरत्वं वाक्यबहुत्वं योग्यार्थत्वमपूर्वत्वञ्चेति वैषम्यचतुष्टयमुक्तम् ।
+एवम् आकाश-कारण-पक्षे  
+अन्यपरत्वम्, एक-वाक्यत्वम्, अयोग्यार्थत्वम्, अनुवाद-रूपत्वम्,  
+स्वपक्षे अनन्य-परत्वं, वाक्य-बहुत्वं, योग्यार्थत्वम्, अपूर्वत्वञ् चेति  
+वैषम्यचतुष्टयम् उक्तम् ।
 
-एवं योग्यार्थश्रुतिमूलं लिङ्गम् अयोग्यार्थश्रुतितः प्रबलमिति सिद्धान्तन्याय उक्तो भवति ।
+एवं योग्यार्थश्रुतिमूलं लिङ्गम्  
+अयोग्यार्थश्रुतितः प्रबलमिति सिद्धान्त-न्याय उक्तो भवति ।
 
-यथा गङ्गाशब्दः स्वार्थसमर्पणक्षमो भूतलधर्मतया प्रत्यक्षसिद्धघोषाधिकरणत्वलिङ्गविरोधेनान्वयायोग्यः स्वार्थप्रतिपादनक्षमत्वाभावात् श्रुत्याभासः; एवं योग्यार्थश्रुतिमूललिङ्गापेक्षया आकाशश्रुतिः श्रुत्याभास इति ।
+यथा गङ्गाशब्दः स्वार्थ-समर्पण-क्षमो भू-तल-धर्मतया प्रत्यक्ष-सिद्ध-घोषाधिकरणत्व- -लिङ्ग-विरोधेनान्वयायोग्यः  
+स्वार्थ-प्रतिपादन-क्षमत्वाभावात् श्रुत्य्-आभासः;  
+एवं योग्यार्थ-श्रुति-मूल-लिङ्गापेक्षया  
+आकाश-श्रुतिः श्रुत्य्-आभास इति ।
 </details>
 
-### आत्म-शब्दानैकान्त्यं न
+## आत्म-शब्दः प्रायेण शारीरः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1638,7 +1661,7 @@ in texts such as
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शरीर-प्रतिसम्बन्धि-चेतन एव प्रतीयते। 
+शरीर-प्रतिसम्बन्धि-चेतन एव प्रतीयते। +++(4)+++
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1652,7 +1675,7 @@ we must therefore understand by the 'Self,' the universal spirit.
 शरीरप्रतिसम्बन्धिचेतन एव प्रतीयते। 
 </details>
 
-
+### असाधारण-निर्देशापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा गो-शब्दस्यानेकार्थ-वाचित्वेऽपि  
@@ -1678,7 +1701,7 @@ we must therefore understand by the 'Self,' the universal spirit.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा स्वतः प्राप्तं शरीर-प्रतिसम्बन्धि-चेतनाभिधानम् एव 
+तथा स्वतः प्राप्तं शरीर-प्रतिसम्बन्धि-चेतनाभिधानम् एव, 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1730,7 +1753,7 @@ which is thus proved by itself,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोऽकामयत, बहु स्यां प्रजायेय (छा.१.९.१) 
+> सोऽकामयत, बहु स्यां प्रजायेय (छा.१.९.१) 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1745,7 +1768,7 @@ which is thus proved by itself,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्य्-आदि--तत्-तद्-वाक्य-विशेषा एव स्थिरीकुर्वन्ति। 
+इत्य्-आदि--तत्-तद्-वाक्य-विशेषा एव स्थिरी कुर्वन्ति। 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1759,10 +1782,10 @@ is moreover confirmed by the(se) complementary passages
 इत्यादितत्तद्वाक्यविशेषा एव स्थिरीकुर्वन्ति। 
 </details>
 
-### निगमनम्
+## निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं वाक्य-शेषावधारित--अनन्य-साधारणानेकापूर्वार्थ-विशिष्टं 
+एवं वाक्य-शेषावधारित- -अनन्य-साधारणानेकापूर्वार्थ-विशिष्टं 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1785,7 +1808,7 @@ which are ascertained from the complementary passages,
 
 > सद् एव सोम्य (छां.६.२.१) 
 
-इत्यादि-वाक्य-सिद्धं ब्रह्मैव  
+इत्य्-आदि-वाक्य-सिद्धं ब्रह्मैव  
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1807,7 +1830,7 @@ is established as the sole cause of the world,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अकाशशब्देन प्रसिद्धवत् 
+अकाश-शब्देन प्रसिद्धवत् +++(→"ह वा")+++ 
 
 > सर्वाणि ह वा इमानि भूतानि (छां.१.९.१) 
 
