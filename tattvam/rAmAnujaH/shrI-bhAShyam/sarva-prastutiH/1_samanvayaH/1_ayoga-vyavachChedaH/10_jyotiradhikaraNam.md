@@ -442,7 +442,7 @@ Moreover, the Lord himself declares that he constitutes the Self of the intestin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> २६. +++("त्रिपाद् अस्यामृतं दिवि" इति)+++ छन्दोऽभिधानान् नेति चेन् - न तथा – +++(दृष्टि-विधेः→)+++ चेतोऽर्पण-निगमात्, तथा हि +++(छन्दो-दृष्टि-विधि-)+++दर्शनम् ॥ १-१-२६ ॥
+> २६. +++("गायत्री वा इदं सर्वम् … त्रिपाद् अस्यामृतं दिवि" इति)+++ छन्दोऽभिधानान् नेति चेन् - न तथा – +++(दृष्टि-विधेः→)+++ चेतोऽर्पण-निगमात्, तथा हि +++(छन्दो-दृष्टि-विधि-)+++दर्शनम् ॥ १-१-२६ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -735,10 +735,10 @@ thus, e.g., in the saṁvargavidyā (Cḥ. Up. IV, 3, 8), where Virāj (the name
 तदनुवादपूर्वकं द्वितीयं पादं सामानाधिकरण्येनाह- या वै गायत्री इयं वा व सा येयं पृथिवीति । उक्ताकारविशिष्टप्रकृतधर्मिपरौ यत्तच्छब्दौ ।
 </details>
 
-## ??
+### भूताङ्गाद्य्-उक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्च गायत्री-शब्देन ब्रह्मैवाभिधीयते –
+इतश् च गायत्री-शब्देन ब्रह्मैवाभिधीयते –
 </details>
 
 <details><summary>Translation</summary>
@@ -753,7 +753,7 @@ For this conclusion the next Sūtra supplies a further argument.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-२७. भूतादि--पाद-व्यपदेशोपपत्तेश् चैवम् ॥ १-१-२७ ॥
+२७. भूतादि+++(→पृथिवी-शरीर-हृदयानि)+++--पाद-व्यपदेशोपपत्तेश् चैवम् ॥ १-१-२७ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -766,11 +766,15 @@ For this conclusion the next Sūtra supplies a further argument.
 २७. भूतादिपादव्यपदेशोपपत्तेश्चैवम् ॥ १-१-२७ ॥
 </details>
 
-## योग्यतायाः अर्थनिर्णायकत्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूत-पृथिवी-शरीरहृदयानि निर्दिश्य सैषा चतुष्पदा (छा.३.१२.५) इति व्यपदेशो ब्रह्मण्य् एव गायत्री-शब्दाभिधेय उपपद्यते।
+भूत-पृथिवी-शरीर-हृदयानि निर्दिश्य 
+
+> सैषा चतुष्-पदा (छा.३.१२.५) 
+
+इति व्यपदेशो  
+ब्रह्मण्य् एव गायत्री-शब्दाभिधेय उपपद्यते।
 </details>
 
 <details><summary>Translation</summary>
@@ -807,14 +811,17 @@ The text, moreover, designates the Gāyatrī as having four feet, after having r
 
 पूर्ववद्ब्रह्मात्मकत्वमुपपादयति- अस्मिन् हीमे प्राणाः प्रतिष्ठिताः एतदेव नातिशीयन्त इति । प्राणाः- प्राणापानादयः; इन्द्रियाणि वा । तेषां हृदयसंबन्धिनाडीद्वारा हृदयप्रतिष्ठितत्वम् । प्राणशब्दस्य जीवपरत्वं केचिदाहुः । तदयुक्तम्; भूतप्राणशब्दयोरर्थवैषम्याभावेन तदभिमतषाड्िवध्यासिद्धेः । भूतपृथिवीशरीरहृदयवाक्प्राणैर्हि ते षाड्िवध्यं वदन्ति । एवं तृतीयचतुर्थौ पादौ प्राणप्रतिष्ठात्वतदनतिवर्त्यत्वरूपं विधाद्वयञ्चोक्तम् ।
 
-एवमुक्तं चतुष्पात्त्वं षाड्िवध्यं च निगमयति- सैषा चतुष्पदा षडिधा गायत्रीति ।
+एवमुक्तं चतुष्पात्त्वं षाड्िवध्यं च निगमयति- सैषा चतुष्पदा षड्विधा गायत्रीति ।
 
-नन्वेवं तर्हि ब्रह्मणः परिच्छिन्नत्वं स्यादिति शङ्कायाम्, उक्तस्य महिम्न एतावत्त्वप्रतिक्षेपिकामृचमुदाह- रति तदेतदिति । ब्रह्माभिप्रायेण नपुंसकत्वम् ।
+नन्वेवं तर्हि ब्रह्मणः परिच्छिन्नत्वं स्यादिति शङ्कायाम्, उक्तस्य महिम्न एतावत्त्वप्रतिक्षेपिकामृचमुदाहरति तदेतदिति । ब्रह्माभिप्रायेण नपुंसकत्वम् ।
 </details>
+
+## ??
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-२८. उपदेश-भेदान् नेति चेन्नोभ-यस्मिन्न् अप्य-विरोधात् ॥ १-१-२८ ॥
+२८. +++("त्रिपाद् अस्यामृतं दिवि", "दिवः परः" इत्य्)+++ "उपदेश-भेदान् ने"ति चेन् न –  
+उभयस्मिन्न् अप्य् अ-विरोधात् +++("वृक्षाग्रे श्येनो, वृक्षाद् उपरी"तिवत्)+++॥ १-१-२८ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -831,7 +838,19 @@ The text, moreover, designates the Gāyatrī as having four feet, after having r
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पूर्व-वाक्ये त्रिपाद्-अस्यामृतं दिवि (छां.६.१२.६) इति दिवः अधिकरणत्वेन निर्देशाद् इह च दिवः पर इत्यवधित्वेन निर्देशाद् उपदेशस्य भिन्न-रूपत्वेन पूर्व-वाक्योक्तं ब्रह्म परस्मिन् न प्रत्यभिज्ञायत इति चेत् – तन्-न, उभ-यस्मिन्न् अपि उपदेशे अर्थ-स्वभावैक्येन प्रत्यभिज्ञाया अविरोधात्;
+> पूर्व-वाक्ये  
+> 
+> > त्रिपाद् अस्यामृतं दिवि (छां.६.१२.६) 
+> 
+> इति दिवो ऽधिकरणत्वेन निर्देशाद्  
+इह च "दिवः पर" इत्य् अवधित्वेन निर्देशाद्  
+उपदेशस्य भिन्न-रूपत्वेन  
+पूर्व-वाक्योक्तं ब्रह्म  
+परस्मिन् न प्रत्यभिज्ञायत 
+
+इति चेत् – तन् न,  
+उभयस्मिन्न् अप्य् उपदेशे  
+अर्थ-स्वभावैक्येन प्रत्यभिज्ञाया अ-विरोधात्;
 </details>
 
 <details><summary>Translation</summary>
@@ -853,7 +872,11 @@ In the former passage, 'three feet of it are what is immortal in heaven,' heaven
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा वृक्षाग्रे श्येनो वृक्षाग्रात्परतश्श्येनः इति।
+यथा 
+
+> वृक्षाग्रे श्येनो, वृक्षाग्रात् परतश् श्येनः 
+
+इति।
 </details>
 
 <details><summary>Translation</summary>
@@ -868,7 +891,9 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात् परम-पुरुष एव निरतिशयतेजस्को दिवः परो ज्योतिर् दीप्य् अत इति प्रतिपाद्यते ॥
+तस्मात् परम-पुरुष एव  
+निरतिशय-तेजस्को दिवः परो ज्योतिर् दीप्यत  
+इति प्रतिपाद्यते ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -881,11 +906,12 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 तस्मात्परमपुरुष एव निरतिशयतेजस्को दिवः परो ज्योतिर्दीप्यत इति प्रतिपाद्यते ॥
 </details>
 
-## अधिकरणार्थनिगमनम्
+## महा-तेजस्त्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतावानस्य महिमा।
+> एतावान् अस्य महिमा।
+अतो ज्यायांश्च पुरुषः।
 </details>
 
 <!-- TRANSLATION-SKIPPED -->
@@ -893,33 +919,19 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 <details><summary>मूलम्</summary>
 
 एतावानस्य महिमा।
+अतो ज्यायांश्च पुरुषः।
 </details>
 
 <details><summary>टीका</summary>
 
 अतस्तावानस्य महिमेत्यनेन पृथिवीतदन्तर्गतपदार्थैश्चतुष्पात्वरूपमहिमानुवादः ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अतो ज्यायांश्च पुरुषः।
-</details>
-
-<!-- TRANSLATION-SKIPPED -->
-
-<details><summary>मूलम्</summary>
-
-अतो ज्यायांश्च पुरुषः।
-</details>
-
-<details><summary>टीका</summary>
-
 तावत्त्वं प्रतिषेधति- अतो ज्यायानिति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पादो ऽस्य विश्वाभू-तानि।
+> पादो ऽस्य विश्वा भूतानि।
+त्रिपाद्-अस्यामृतं दिवि (यजु.आर.३.१२) 
 </details>
 
 <!-- TRANSLATION-SKIPPED -->
@@ -927,6 +939,7 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 <details><summary>मूलम्</summary>
 
 पादोऽस्य विश्वाभूतानि।
+त्रिपादस्यामृतं दिवि (यजु.आर.३.१२) 
 </details>
 
 <details><summary>टीका</summary>
@@ -934,25 +947,6 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 पादोऽस्येति । इहोक्तं पादचतुष्टयमेकपादस्थानीयम् । अतोऽतिरिक्ता त्रिपाद्विभूतिः ।
 
 तस्मात् अतो ज्यायानित्युपपन्नमित्यर्थः । एवमस्या ॠचः परिच्छिन्नत्वशङ्काव्युदासार्थत्वं युक्तम्; अनन्तरमपि "तदेतत्पूर्णमप्रवर्ति ।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-त्रिपाद्-अस्यामृतं दिवि (यजु.आर.३.१२) इति प्रतिपादितस्य चतुष्पदः परम-पुरुषस्य वेदाहमेतं पुरुषं महान्तम्।
-</details>
-
-<details><summary>Translation</summary>
-
-Him who in the former passage is called four-footed, we know to have an extraordinarily beautiful shape and colour-(cp., e.g., 'I know that great Person
-</details>
-
-<details><summary>मूलम्</summary>
-
-त्रिपादस्यामृतं दिवि (यजु.आर.३.१२) इति प्रतिपादितस्य चतुष्पदः परमपुरुषस्य वेदाहमेतं पुरुषं महान्तम्।
-</details>
-
-<details><summary>टीका</summary>
-
 पूर्णामप्रवर्तिनीं श्रियं लभते, य एवं वेद" इति पूर्णत्वादिगुणकतयोपासनविधानात् ॥ नन्वेवं सति ब्राह्मणोक्तचतुष्पात्त्वविषयत्वाभावेन ब्राह्मणस्य ॠचश्चैकार्न्यं न सिध्येत् न; उभयोर्ब्रह्मविषयत्वात् ॥ यदि इयमृक् चतुष्पात्त्वविषया न भवति, तर्हि किमर्थे तदुदाहरणम् ॥
 
 परिच्छिन्नत्वशङ्काव्युदासार्थमित्युक्तम् । तथा सत्येवार्थवत्त्वम् । न ह्युक्तमात्रज्ञापने प्रयोजनम् । न चेयमृक् पूर्वोक्तविवरणरूपा दृश्यते ।
@@ -984,12 +978,36 @@ Him who in the former passage is called four-footed, we know to have an extraord
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आदित्यवर्णं तमस् स्तु पारे (ते.आर.३.१२) इत्य् अभिहिताप्राकृत-रूपस्य तेजोऽप्यप्राकृतम् इति तद्वत् तया स एव ज्योतिश् शब्दाभिधेय इति निरवद्यम्॥
+इति प्रतिपादितस्य चतुष्पदः परम-पुरुषस्य 
 </details>
 
 <details><summary>Translation</summary>
 
-of sunlike colour beyond the darkness' (Śvet.Up. III, 9) --, and as hence his brilliancy also must be extraordinary, he is, in the text under discussion, quite appropriately called 'light.'
+Him who in the former passage is called four-footed, we know to have an extraordinarily beautiful shape and colour-
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति प्रतिपादितस्य चतुष्पदः परमपुरुषस्य वेदाहमेतं पुरुषं महान्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेदाहम् एतं पुरुषं महान्तम्।
+आदित्यवर्णं तमसस् तु पारे (ते.आर.३.१२) 
+
+इत्य् अभिहिताप्राकृत-रूपस्य तेजोऽप्य् अ-प्राकृतम् इति  
+
+> तद्वत् तया स एव ज्योतिश्-शब्दाभिधेय 
+
+इति निरवद्यम्॥
+</details>
+
+<details><summary>Translation</summary>
+
+(cp., e.g., 'I know that great Person of sunlike colour beyond the darkness' (Śvet.Up. III, 9) --, 
+
+and as hence his brilliancy also must be extraordinary, he is, in the text under discussion, quite appropriately called 'light.'
 </details>
 
 <details><summary>मूलम्</summary>
