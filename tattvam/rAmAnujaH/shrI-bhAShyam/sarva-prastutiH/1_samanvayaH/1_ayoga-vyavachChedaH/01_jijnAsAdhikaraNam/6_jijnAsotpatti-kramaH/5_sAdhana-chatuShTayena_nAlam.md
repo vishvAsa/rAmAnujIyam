@@ -3046,7 +3046,7 @@ And further we must, in this connexion, consider also the meditations on the Udg
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान्य् अपि +++(उपासना-सङ्गत-)+++कर्माण्य् अनभिसंहित-फलानि ब्रह्म-विद्योत्पादकानीति  
-तत्--साद्-गुण्यापादनान्य् एतानि सुतराम् इहैव सङ्गतानि। 
+तत्--साद्गुण्यापादनान्य् एतानि सुतराम् इहैव सङ्गतानि। 
 </details>
 
 <details><summary>Thibaut</summary>
