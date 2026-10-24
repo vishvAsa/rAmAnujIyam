@@ -1176,9 +1176,10 @@ The next Sūtra states, in reply to an objection, the reason why, in the section
 तत् चोद्यरूपेण पृष्टवान् इत्यर्थः ॥
 </details>
 
+### जीव–मुख्य-प्राण-लिङ्गानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-३२. जीव--मुख्य-प्राण-लिङ्गान् नेति चेन् न – उपासा-त्रैविध्याद्, आश्रितत्वाद्, इह तद्-योगात् ॥ १-१-३२ ॥
+३२. "जीव--मुख्य-प्राण-लिङ्गान् ने"ति चेन् न – उपासा-त्रैविध्याद्, आश्रितत्वाद्, इह तद्-योगात् ॥ १-१-३२ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -1207,7 +1208,7 @@ The next Sūtra states, in reply to an objection, the reason why, in the section
 > न वाचं विजिज्ञासीत,  
 वक्तारं विद्यात् (कौ.१.८), 
 
-> त्रिशीर्षाणं त्वाष्ट्रम् अहनम्  
+> त्रि-शीर्षाणं त्वाष्ट्रम् अहनम्  
 अरुन्-मुखान् यतीन् साला-वृकेभ्यः प्रायच्छम् (कौषी ३.१) 
 
 इत्य्-आदि-जीव लिङ्गात्,  
@@ -1215,20 +1216,39 @@ The next Sūtra states, in reply to an objection, the reason why, in the section
 > यावद् अस्मिन् शरीरे प्राणो वसति  
 तावद् आयुः (कौ.३.१)  
 
-> अथ खलु प्राण एव प्रज्ञा ऽऽत्मेदं शरीरं परिगृह्योत्थापयति (कौ.३.१) 
+> अथ खलु प्राण एव प्रज्ञा ऽऽत्मा  
+इदं शरीरं परिगृह्योत्थापयति (कौ.३.१) 
 
-इति मुख्य-प्राणलिङ्गाच्च नाध्यात्म-सम्बन्धभूमेति चेत् – न, उपासा-त्रैविध्यात् हेतोः उपासनात्रैविध्यमुपदेष्टुं तत्तच्-छब्देनाभिधानम् – निखिल-कारण-भूतस्य ब्रह्मणस् स्वरूपेणानुसन्धानम्, भोक्तृ-वर्गशरीरकत्वानुसन्धानं भोग्य-भोगोपकरणशरीरकत्वानुसन्धानं चेति त्रिविधम् अनुसन्धानम् उपदेष्टुमित्यर्थः।
+इति मुख्य-प्राणलिङ्गाच् च  
+नाध्यात्म-सम्बन्ध-भूमा
 </details>
 
 <details><summary>Translation</summary>
 
-An objection is raised. 'Let none try to find out what speech is, let him know the speaker'; 'I slew the three-headed son of Tvash_tri_; I delivered the Arunmukhas, the devotees, to the wolves'; these passages state characteristic marks of an individual soul (viz. the god Indra). --'As long as Prāṇa dwells in this body, so long there is life'; 'Prāṇa alone is the conscious Self, and having laid hold of this body, it makes it rise up.' --These passages again mention characteristic attributes of the chief vital air. Hence there is here no 'multitude of attributes belonging to the Self.' --The latter part of the Sūtra refutes this objection. The highest Self is called by these different terms in order to teach threefoldness of devout meditation; viz. meditation on Brahman in itself as the cause of the entire world; on Brahman as having for its body the totality of enjoying (individual) souls; and on Brahman as having for its body the objects and means of enjoyment.
-</details>
+An objection is raised. 'Let none try to find out what speech is, let him know the speaker'; 'I slew the three-headed son of Tvash_tri_; I delivered the Arunmukhas, the devotees, to the wolves'; these passages state characteristic marks of an individual soul (viz. the god Indra). --'As long as Prāṇa dwells in this body, so long there is life'; 'Prāṇa alone is the conscious Self, and having laid hold of this body, it makes it rise up.' --These passages again mention characteristic attributes of the chief vital air. Hence there is here no 'multitude of attributes belonging to the Self.' </details>
 
 <details><summary>मूलम्</summary>
 
-न वाचं विजिज्ञासीत वक्तारं विद्यात् (कौ.१.८), त्रिशीर्षाणं त्वाष्ट्रमहनम् अरुन्मुखान्यतीन् सालावृकेभ्यः प्रायच्छम् (कौषी ३.१) इत्यादिजीवलिङ्गात्, यावदस्मिन् शरीरे प्राणो वसति तावदायुः (कौ.३.१) अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति (कौ.३.१) इति मुख्यप्राणलिङ्गाच्च नाध्यात्मसम्बन्धभूमेति चेत् – न, उपासात्रैविध्यात् हेतोः उपासनात्रैविध्यमुपदेष्टुं तत्तच्छब्देनाभिधानम् – निखिलकारणभूतस्य ब्रह्मणस्स्वरूपेणानुसन्धानम्, भोक्तृवर्गशरीरकत्वानुसन्धानं भोग्यभोगोपकरणशरीरकत्वानुसन्धानं चेति त्रिविधमनुसन्धानम् उपदेष्टुमित्यर्थः।
+न वाचं विजिज्ञासीत वक्तारं विद्यात् (कौ.१.८), त्रिशीर्षाणं त्वाष्ट्रमहनम् अरुन्मुखान्यतीन् सालावृकेभ्यः प्रायच्छम् (कौषी ३.१) इत्यादिजीवलिङ्गात्, यावदस्मिन् शरीरे प्राणो वसति तावदायुः (कौ.३.१) अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति (कौ.३.१) इति मुख्यप्राणलिङ्गाच्च नाध्यात्मसम्बन्धभूमा
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति चेत् – न,  
+उपासा-त्रैविध्यात् हेतोः उपासनात्रैविध्यमुपदेष्टुं तत्तच्-छब्देनाभिधानम् – निखिल-कारण-भूतस्य ब्रह्मणस् स्वरूपेणानुसन्धानम्, भोक्तृ-वर्गशरीरकत्वानुसन्धानं भोग्य-भोगोपकरणशरीरकत्वानुसन्धानं चेति त्रिविधम् अनुसन्धानम् उपदेष्टुमित्यर्थः।
+</details>
+
+<details><summary>English</summary>
+
+--The latter part of the Sūtra refutes this objection. The highest Self is called by these different terms in order to teach threefoldness of devout meditation; viz. meditation on Brahman in itself as the cause of the entire world; on Brahman as having for its body the totality of enjoying (individual) souls; and on Brahman as having for its body the objects and means of enjoyment.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति चेत् – न, उपासात्रैविध्यात् हेतोः उपासनात्रैविध्यमुपदेष्टुं तत्तच्छब्देनाभिधानम् – निखिलकारणभूतस्य ब्रह्मणस्स्वरूपेणानुसन्धानम्, भोक्तृवर्गशरीरकत्वानुसन्धानं भोग्यभोगोपकरणशरीरकत्वानुसन्धानं चेति त्रिविधमनुसन्धानम् उपदेष्टुमित्यर्थः।
+</details>
+
 
 <details><summary>टीका</summary>
 
