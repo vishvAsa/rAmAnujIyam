@@ -1,7 +1,6 @@
 +++
 title = "१२ सर्वत्रप्रसिद्ध्यधिकरणम्"
 +++
-
 <details><summary>विषयः</summary>
 
 अन्ययोगव्यवच्छेदत्रिपादी
@@ -9,16 +8,33 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 **द्वितीयः पादः**
 अस्पष्टजीवादिलिङ्गकवेदान्तवाक्यविचाररूपः
 **सर्वत्र-प्रसिद्ध्य् अधिकरणम् ॥१॥**
+
+पादार्थः – परमात्मनः सर्वशरीरकत्वम् ।  
+
+(अधिकरणार्थः – ब्रह्मण एव सर्वात्म-भावेनावस्थानम्)
+(शाण्डिल्य-विद्या छा.उ.3.14)
 </details>
 
 
-## पादार्थः – परमात्मनः सर्वशरीरकत्वम्
 
-## पूर्वपादीयः जिज्ञासाधिकरणार्थः
+## सङ्गतिः
+### पूर्व-पाद-सङ्ग्रहः 
+#### जिज्ञासाधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रथमे पादे अधीत-वेदः पुरुषः कर्म-मीमांसा-श्रवणाधिगत-कर्म-याथात्म्य-ज्ञानः केवल-कर्मणाम् अल्पास्थिर-फलत्व-मव गम्य, वेदान्त-वाक्येषु चापात-प्रतीतानन्त-स्थिर-फल-ब्रह्म-स्वरूप तदुपासनसमुप-जातपरमपुरुषार्थलक्षणमोक्षापेक्षोऽवधारितपरिनिष्पन्नवस्तुबोधनशब्दशक्तिः वेदान्त-वाक्यानां परस्मिन् ब्रह्मणि निश्चितप्रमाणभावस्तदितिकर्तव्यतारूपशारीरकमीमांसा-श्रवणमारभेतेत्युक्तं शास्त्रारम्भ-सिद्धये ॥१॥
+प्रथमे पादे ऽधीत-वेदः पुरुषः  
+कर्म-मीमांसा-श्रवणाधिगत- -कर्म-याथात्म्य-ज्ञानः  
+केवल-कर्मणाम् अल्पास्थिर-फलत्वम् अवगम्य,  
+वेदान्त-वाक्येषु चापात-प्रतीतानन्त-स्थिर-फल- -ब्रह्म-स्वरूप-- -तद्-उपासन-समुपजात- -परम-पुरुषार्थ-लक्षण- -मोक्षापेक्षो  
+ऽवधारित-परिनिष्पन्न-वस्तु- -बोधन-शब्द-शक्तिः  
+वेदान्त-वाक्यानां परस्मिन् ब्रह्मणि निश्चित-प्रमाणभावस्  
+तद्--इति-कर्तव्यता--रूप- -शारीरक-मीमांसा-श्रवणम् आरभेतेत्य् उक्तं शास्त्रारम्भ-सिद्धये ॥१॥
+</details>
+
+<details><summary>Translation</summary>
+
+SECOND PĀDA. THE contents of the first Pāda may be summed up as follows: --It has been shown that a person who has read the text of the Veda; who further, through the study of the Karma-Mīmāṁsa, has acquired a full knowledge of the nature of (sacrificial and similar) works, and has recognised that the fruits of such works are limited and non-permanent; in whom there has arisen the desire for the highest aim of man, i.e. Release, which, as he has come to know in the course of reading the Vedānta portions of scripture, is effected by meditation on the nature of Brahman – such meditation having an infinite and permanent result; who has convinced himself that words are capable of conveying information about accomplished things (not only about things to be done), and has arrived at the conclusion that the Vedānta-texts are an authoritative means of knowledge with regard to the highest Brahman; --that such a person, we say, should begin the study of the Śārīraka-Mīmāṁsā which indicates the method how Brahman is to be known through the Vedānta-texts.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -49,11 +65,16 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 यद्वा शास्त्रारम्भसिद्धय इतिपदमुत्तराधिकरणत्रयेऽनुषज्यत इति चतुस्सूत्र्याः शास्त्रारम्भसिध्द्यर्थत्वमुक्तं भवति ।
 </details>
 
-## जन्माद्यधिकरणार्थः
+#### जन्माद्यधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनन्तविचित्रस्थिरत्रसरूपभोक्तृभोग्यभोगोपकरणभोगस्थानलक्षणनिखिलजगदुदयविभवलय-महानन्दैककारणं परं ब्रह्म यतो वा इमानि इत्य्-आदि-वाक्यं बोधयतीति च प्रत्यपादि॥२॥
+अनन्त-विचित्र-स्थिर-त्रस-रूप- -भोक्तृभोग्यभोगोपकरणभोगस्थानलक्षणनिखिलजगदुदयविभवलय-महानन्दैककारणं परं ब्रह्म यतो वा इमानि इत्य्-आदि-वाक्यं बोधयतीति च प्रत्यपादि॥२॥
+</details>
+
+<details><summary>Translation</summary>
+
+We next have shown that the text 'That from which these creatures are born,' &c., conveys the idea of the highest Brahman as that being which in sport, as it were, creates, sustains, and finally reabsorbs this entire universe, comprising within itself infinite numbers of variously constituted animated beings – moving and non-moving --, of objects of enjoyment for those beings, of means of enjoyment, and of abodes of enjoyment; and which is the sole cause of all bliss.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -77,6 +98,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 जगदेक-कारणं परं ब्रह्म सकलेतर-प्रमाणाविषयतया शास्त्रैकप्रमाणकमित्यभ्यधाम॥३॥
 </details>
 
+<details><summary>Translation</summary>
+
+We have established that this highest Brahman, which is the sole cause of the world, cannot be the object of the other means of knowledge, and hence is to be known through scripture only.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जगदेककारणं परं ब्रह्म सकलेतरप्रमाणाविषयतया शास्त्रैकप्रमाणकमित्यभ्यधाम॥३॥
@@ -87,6 +113,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शास्त्र-प्रमाणकत्वं च ब्रह्म प्रवृत्तिनिवृत्त्यन्वयविरहेऽपि स्वरूपेणैव परम-पुरुषार्थ-भूते परस्मिन् ब्रह्मणि वेदान्त-वाक्यानां समन्वयान्निरुह्यत इत्यब्रूम॥४॥
+</details>
+
+<details><summary>Translation</summary>
+
+We have pointed out that the position of scripture as an authoritative means of knowledge is established by the fact that all the Vedānta-texts connectedly refer to the highest Brahman, which, although not related to any injunctions of action or abstention from action, by its own essential nature constitutes the highest end of man.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -106,6 +137,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 निखिल-जगद्-एक-कारणतया वेदान्त-वेद्यं ब्रह्म च ईक्षणाद्यन्वयादानुमानिक-प्रधानादर्थान्तरभूतः चेतन-विशेष एवेत्य् उपापीपदाम॥ ५॥
 </details>
 
+<details><summary>Translation</summary>
+
+We have proved that Brahman, which the Vedānta-texts teach to be the sole cause of the world, must be an intelligent principle other than the non-sentient pradhāna. since Brahman is said to think.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निखिलजगदेककारणतया वेदान्तवेद्यं ब्रह्म च ईक्षणाद्यन्वयादानुमानिक-प्रधानादर्थान्तरभूतः चेतनविशेष एवेत्युपापीपदाम॥ ५॥
@@ -116,6 +152,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च स्वाभाविकानवधिकातिशयानन्दविपश्चित्त्वनिखिलचेतनभयाभयहेतुत्वसत्यसङ्कल्पत्व-समस्त-चेतनाचेतनान्तरात्मत्वादिभिर्बद्धमुक्तोभयावस्थाज्जीव शब्दााभिलपनीयाच्चार्थान्तर-भूत इति च समार्तिथामहि॥६॥
+</details>
+
+<details><summary>Translation</summary>
+
+We have declared that this intelligent principle is other than the so-called individual soul, whether in the state of bondage or that of release; since the texts describe it as in the enjoyment of supreme bliss, all-wise, the cause of fear or fearlessness on the part of intelligent beings, the inner Self of all created things, whether intelligent or non-intelligent, possessing the power of realising all its purposes, and so on.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -130,6 +171,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 स चाप्राकृताकर्म-निमित्त-स्वासाधारण-दिव्य-रूप इत्युदैरिराम॥ ७॥
 </details>
 
+<details><summary>Translation</summary>
+
+--We have maintained that this highest Being has a divine form, peculiar to itself, not made of the stuff of Prakr̥ti, and not due to karman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स चाप्राकृताकर्मनिमित्तस्वासाधारणदिव्यरूप इत्युदैरिराम॥ ७॥
@@ -140,6 +186,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकाशप्राणाद्यचेतनविशेषाभिधायिभिर्जगत्-कारणतया प्रसिद्धवन्निर्दिश्यमानः सकलेतरचेतन-अचेतनविलक्षणस्स एवेति समगरिष्महि॥ ८॥
+</details>
+
+<details><summary>Translation</summary>
+
+--We have explained that the being which some texts refer to as a well-known cause of the world – designating it by terms such as ether or breath, which generally denote a special non-sentient being – is that same highest Self which is different from all beings, sentient or non-sentient.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -154,6 +205,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 पर-तत्त्वासाधारण-निरतिशय-दीप्ति-युक्त-ज्योतिश् शब्दाभिधेयो द्यु सम्बन्धितया प्रत्यभिज्ञानात्स एवेत्यातिष्ठा-महि॥ ९ ॥
 </details>
 
+<details><summary>Translation</summary>
+
+--We have declared that, owing to its connexion with heaven, this same highest Self is to be recognised in what the text calls a 'light,' said to possess supreme splendour, such as forms a special characteristic of the highest Being.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परतत्त्वासाधारणनिरतिशयदीप्तियुक्तज्योतिश्शब्दाभिधेयो द्युसम्बन्धितया प्रत्यभिज्ञानात्स एवेत्यातिष्ठामहि॥ ९ ॥
@@ -164,6 +220,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परमकार-ण-साधारणामृतत्व-प्राप्ति-हेतु-भूतः परम-पुरुष एव शास्त्र-दृष्ट्येन्द्रादि-शब्दैर् अभिधीयत इत्यब्रूमहि ॥१०॥
+</details>
+
+<details><summary>Translation</summary>
+
+We have stated that, as we recognise through insight derived from scripture, that same highest Person is denoted by terms such as Indra, and so on; as the text ascribes to that 'Indra' qualities exclusively belonging to the highest Self, such, e.g., as being the cause of the attainment of immortality.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -191,6 +252,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 तद् एवम् अतिपतित-सकलेतर-प्रमाण-सम्भावना-भूमिस् सार्वज्ञ्य-सत्यसङ्कल्पत्वाद्य-परिमितोदार-गुणसागर-तया स्वेतर-समस्त-वस्तु-विलक्षणः परं ब्रह्म पुरुषोत्तमो नारायण एव वेदान्त-वेद्य इत्य्-उक्तम्॥११॥
 </details>
 
+<details><summary>Translation</summary>
+
+--And the general result arrived at was that the Vedānta-texts help us to the knowledge of one being only, viz. Brahman, or the highest Person, or Nārāyaṇa – of whom it is shown that he cannot possibly be the object of the other means of knowledge, and whom the possession of an unlimited number of glorious qualities proves to differ totally from all other beings whatsoever.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदेवमतिपतितसकलेतरप्रमाणसम्भावनाभूमिस्सार्वज्ञ्यसत्यसङ्कल्पत्वाद्यपरिमितोदारगुणसागरतया स्वेतरसमस्तवस्तुविलक्षणः परं ब्रह्म पुरुषोत्तमो नारायण एव वेदान्तवेद्य इत्युक्तम्॥११॥
@@ -214,6 +280,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः परं द्वितीय-तृतीय-चतुर्थेषु पाद् एषु यद्यपि वेदान्त-वेद्यं ब्रह्मैव, तथापि कानिचिद् वेदान्त-वाक्यानि प्रधानक्षेत्रज्ञान्तर्भूतवस्तुविशेषस्वरूपप्रतिपादनपराण्येवेत्याशङ्कय तन्-निरसन-मुखेन तत्तद् वाक्योदित-कल्याण-गुणाकरत्वं ब्रह्मणः प्रतिपाद्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+Now, although Brahman is the only object of the teaching of the Vedānta-texts, yet some of these texts might give rise to the notion that they aim at setting forth (not Brahman), but some particular being comprised within either the pradhāna or the aggregate of individual souls. The remaining Pādas of the first Adhyāya therefore apply themselves to the task of dispelling this notion and proving that what the texts in question aim at is to set forth certain glorious qualities of Brahman.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -241,6 +312,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 तत्रास्पष्टजीवादि-लिङ्गकानि वाक्यानि द्वितीये पादे विचार्यन्ते;
 </details>
 
+<details><summary>Translation</summary>
+
+The second Pāda discusses those texts which contain somewhat obscure references to the individual soul;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्रास्पष्टजीवादिलिङ्गकानि वाक्यानि द्वितीये पादे विचार्यन्ते;
@@ -260,6 +336,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्पष्ट-लिङ्गकानि तृतीये, तत्तत्प्रतिपादनच्छायानुसारीणि चतुर्थे॥
+</details>
+
+<details><summary>Translation</summary>
+
+the third Pāda those which contain clear references to the same; and the fourth Pāda finally those texts which appear to contain even clearer intimations of the individual soul, and so on.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -283,6 +364,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 ३३. सर्वत्र प्रसिद्धोपदेशात् ॥ १-२-१ ॥
 </details>
 
+<details><summary>Translation</summary>
+
+1\. Everywhere; because there is taught what is known.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ३३. सर्वत्र प्रसिद्धोपदेशात् ॥ १-२-१ ॥
@@ -290,27 +376,12 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(अधिकरणार्थः – ब्रह्मण एव सर्वात्म-भावेनावस्थानम्)
-</details>
-
-<details><summary>मूलम्</summary>
-
-(अधिकरणार्थः – ब्रह्मण एव सर्वात्मभावेनावस्थानम्)
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-(शाण्डिल्य-विद्या छा.उ.3.14)
-</details>
-
-<details><summary>मूलम्</summary>
-
-(शाण्डिल्यविद्या छा.उ.3.14)
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 इदम् आम्नायते छान्दोग्ये – अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिंल्लोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत मनोमयः प्राणशरीरो भारूपः (छा.३.१४.१) इत्य्-आदि॥
+</details>
+
+<details><summary>Translation</summary>
+
+We read in the Cḥāndogya, 'Man is made of thought; according to what his thought is in this world, so will he be when he has departed this life. Let him form this thought: he who consists of mind, whose body is breath, whose form is light,' &c. (III, 14).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -328,6 +399,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र स क्रतुं कुर्वीत (छा.३.१४.१) इति प्रतिपादितस्योपासनस्योपास्यः मनोमयः प्राण-शरीरः (छा.३.१४.१) इति निर्दिश्यत इति प्रतीयते ॥
+</details>
+
+<details><summary>Translation</summary>
+
+We here understand that of the meditation enjoined by the clause 'let him form this thought' the object is the being said to consist of mind, to have breath for its body, &c.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -351,6 +427,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 तत्र संशयः – किं मनोमयत्वादि-गुणकः क्षेत्रज्ञः;
 </details>
 
+<details><summary>Translation</summary>
+
+A doubt, however, arises whether the being possessing these attributes be the individual soul
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्र संशयः – किं मनोमयत्वादिगुणकः क्षेत्रज्ञः;
@@ -364,6 +445,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत परमात्मा – इति ॥
+</details>
+
+<details><summary>Translation</summary>
+
+or the highest Self.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -391,6 +477,8 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 किं युक्तम्?
 </details>
 
+<!-- TRANSLATION-SKIPPED -->
+
 <details><summary>मूलम्</summary>
 
 किं युक्तम्?
@@ -399,6 +487,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षेत्र-ज्ञ इति।
+</details>
+
+<details><summary>Translation</summary>
+
+--The Pūrvapakshin maintains the former alternative.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -410,6 +503,8 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 
 कुतः?
 </details>
+
+<!-- TRANSLATION-SKIPPED -->
 
 <details><summary>मूलम्</summary>
 
@@ -426,6 +521,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 मनः-प्राणयोः क्षेत्रज्ञोपकरणत्वात्, परमात्मनस् तु अप्राणो ह्यमनाः (मुं.२.१.२) इति तत्प्रतिषेधाच्च।
 </details>
 
+<details><summary>Translation</summary>
+
+For, he says, mind and breath are instruments of the individual soul; while the text 'without breath, without mind,' distinctly denies them to the highest
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनःप्राणयोः क्षेत्रज्ञोपकरणत्वात्, परमात्मनस्तु अप्राणो ह्यमनाः (मुं.२.१.२) इति तत्प्रतिषेधाच्च।
@@ -439,6 +539,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च सर्वं खल्विदं ब्रह्म (छां.३.१४.१) इति पूर्व-निर्दिष्टं ब्रह्मा-त्रोपास्यतया सम्बद्धुं शक्यते, शान्त उपासीत (छां.३.१४.१) इत्युपासनोपकरणशान्ति-निर्वृत्त्युपायभूतब्रह्मात्मकत्वोपदेशायोपात्तत्वात् ॥
+</details>
+
+<details><summary>Translation</summary>
+
+Self. Nor can the Brahman mentioned in a previous clause of the same section ('All this indeed is Brahman') be connected as an object with the meditation enjoined in the passage under discussion; for Brahman is there referred to in order to suggest the idea of its being the Self of all – which idea constitutes a means for bringing about that calmness of mind which is helpful towards the act of meditation enjoined in the clause 'Let a man meditate with calm mind,' &c.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -462,6 +567,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 न च स क्रतुं कुर्वीत (छां.३.१४.१) इत्य् उपासनस्योपास्य-साकाङ्क्षत्वाद् वाक्यान्तरस्थम् अपि ब्रह्म सम्बध्यत इति युक्तं वक्तुम्, स्व-वाक्योपात्तेन मनोमयत्वादि-गुणकेन निराकाङ्क्षत्वात्;
 </details>
 
+<details><summary>Translation</summary>
+
+Nor, again, can it be said that as the meditation conveyed by the clause 'let him form this thought' demands an object, Brahman, although mentioned in another passage, only admits of being connected with the passage under discussion; for the demand for an object is fully satisfied by the being made of mind, &c., which is mentioned in that very passage itself;
+</details>
+
 <details><summary>मूलम्</summary>
 
 न च स क्रतुं कुर्वीत (छां.३.१४.१) इत्युपासनस्योपास्यसाकाङ्क्षत्वाद्वाक्यान्तरस्थमपि ब्रह्म सम्बध्यत इति युक्तं वक्तुम्, स्ववाक्योपात्तेन मनोमयत्वादिगुणकेन निराकाङ्क्षत्वात्;
@@ -477,6 +587,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनोमयः प्राण-शरीरः (छां.३.१४.१) इत्य् अनन्यार्थतया निर्दिष्टस्य विभक्ति-विपरिणाम-मात्रेण उभयाकाङ्क्षा-निवृत्ति-सिद्धेः।
+</details>
+
+<details><summary>Translation</summary>
+
+in order to supply the object we have merely to change the case-terminations of the words 'manomayaḥ prāṇaśarīraḥ,' &c.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -504,6 +619,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 एवं निश्चिते जीवत्वे एतद् ब्रह्म (छां.३.१४.१) इत्युपसंहारस्थ-ब्रह्मपदमपि जीव एव पूजार्थं प्रयुक्तमित्यध्यवसीयत इति॥
 </details>
 
+<details><summary>Translation</summary>
+
+It having thus been determined that the being made of mind is the individual soul, we further conclude that the Brahman mentioned in the concluding passage of the section ('That is Brahman') is also the individual soul, there called Brahman in order to glorify it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं निश्चिते जीवत्वे एतद्ब्रह्म (छां.३.१४.१) इत्युपसंहारस्थ-ब्रह्मपदमपि जीव एव पूजार्थं प्रयुक्तमित्यध्यवसीयत इति॥
@@ -514,6 +634,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्राप्ते ब्रूमः- सर्वत्र प्रसिद्धोपदेशात्
+</details>
+
+<details><summary>Translation</summary>
+
+This primā facie view is set aside by the Sūtra.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -533,6 +658,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 नोमयत्वादि-गुणकः परमात्मा कुतः सर्वत्र – वेदान्तेषु परस्मिन्न् एव ब्रह्मणि प्रसिद्धस्य मनोमयत्वादेरुपदेशात्।
 </details>
 
+<details><summary>Translation</summary>
+
+The being made of mind is the highest Self; for the text states certain qualities, such as being made of mind, &c., which are well known to denote, in all Vedānta-texts, Brahman only.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नोमयत्वादिगुणकः परमात्मा कुतः सर्वत्र – वेदान्तेषु परस्मिन्नेव ब्रह्मणि प्रसिद्धस्य मनोमयत्वादेरुपदेशात्।
@@ -549,6 +679,8 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 
 प्रसिद्धं हि मनो-मयत्वादि ब्रह्मणः।
 </details>
+
+<!-- TRANSLATION-SKIPPED -->
 
 <details><summary>मूलम्</summary>
 
@@ -567,6 +699,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 यथा मनोमयः प्राण-शरीर-नेता (मुं.२.२.७) स एषोऽन्तर्हृादय आकाशः।
 </details>
 
+<details><summary>Translation</summary>
+
+Passages such as 'He who is made of mind, the guide of the body of breath' (Mu. Up. II, 2, 7); 'There is the ether within the heart,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा मनोमयः प्राणशरीरनेता (मुं.२.२.७) स एषोऽन्तर्हृादय आकाशः।
@@ -582,6 +719,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 तस्मिन् नयं पुरुषो मनोमयः।
 </details>
 
+<details><summary>Translation</summary>
+
+and in it there is the Person, consisting of mind,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मिन्नयं पुरुषो मनोमयः।
@@ -590,6 +732,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृतो हिरण्मयः (तै.शिक्षा ६.३) हृदा मनीषा मनसा ऽभिकॢप्तो य एनं विदुरमृतास्ते भवन्ति (तै.नारा.३) न चक्षुषा गृह्यते नापि वाचा (मु.३.१.८), मनसा तु विशुद्धेन तथा प्राणस्य प्राणः (केन.१.२), अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्था-पयति (कौषी.३.२), सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छां.१.११.५) इत्य्-आदिषु ॥
+</details>
+
+<details><summary>Translation</summary>
+
+immortal, golden' (Taitt. Up. I. 6, 1); 'He is conceived by the heart, by wisdom, by the mind. Those who know him are immortal' (Ka. Up. II, 6, 9); 'He is not apprehended by the eye nor by speech, but by a purified mind' (Mu. Up. III, 1, 8); 'The breath of breath' (Br̥. Up. IV, 4, 183); 'Breath alone is the conscious Self, and having laid hold of this body it makes it rise up' (Kau. Up. III, 3); 'All these beings merge into breath alone, and from breath they arise' (Cḥ. Up. I, 11, 5) --these and similar texts refer to Brahman
 </details>
 
 <details><summary>मूलम्</summary>
@@ -621,6 +768,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 मनोमयत्वं – विशुद्धेन मनसा ग्राह्यत्वम्।
 </details>
 
+<details><summary>Translation</summary>
+
+as consisting of mind, to be apprehended by a purified mind,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनोमयत्वं – विशुद्धेन मनसा ग्राह्यत्वम्।
@@ -638,6 +790,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 प्राण-शरीरत्वं – प्राणस्याप्याधारत्वं नियन्तृत्वं च।
 </details>
 
+<details><summary>Translation</summary>
+
+having breath for its body, and being the abode and ruler of breath.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणशरीरत्वं – प्राणस्याप्याधारत्वं नियन्तृत्वं च।
@@ -653,6 +810,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 एवं च सति एष म आत्माऽर्न्तहृदय एतद् ब्रह्म (छा.३.१४.४) इति ब्रह्म-शब्दोऽपि मुख्य एव भवति।
 </details>
 
+<details><summary>Translation</summary>
+
+This being so, we decide that in the concluding passage, 'my Self within the heart, that is Brahman,' the word 'Brahman' has to be taken in its primary sense (and does not denote the individual soul).
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं च सति एष म आत्माऽर्न्तहृदय एतद्ब्रह्म (छा.३.१४.४) इति ब्रह्मशब्दोऽपि मुख्य एव भवति।
@@ -666,6 +828,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्राणो ह्यमनाः (मु.२.१.२) इति मन आयत्तं ज्ञानं प्राणायत्तां स्थितिं च ब्रह्मणो निषेधति।
+</details>
+
+<details><summary>Translation</summary>
+
+The text which declares Brahman to be without mind and breath, merely means to deny that the thought of Brahman depends on a mind (internal organ), and that its life depends on breath.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -691,6 +858,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 अथवा सर्वं खल्विदं ब्रह्म तज्-जलान् इति शान्त उपासीत (छा.३.१४.१) इत्यत्रैवोपासनं विधीयते – सर्वात्मकं ब्रह्म शान्तस्सन्नुपासीतेति।
 </details>
 
+<details><summary>Translation</summary>
+
+Or else we may interpret the Vedic text and the Sūtra as follows. The passage 'All this is Brahman; let a man meditate with a calm mind on this world as originating, ending, and breathing in Brahman,' conveys the imagination of meditation on Brahman as the Self of all.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथवा सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत (छा.३.१४.१) इत्यत्रैवोपासनं विधीयते – सर्वात्मकं ब्रह्म शान्तस्सन्नुपासीतेति।
@@ -714,6 +886,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 स क्रतुं कुर्वीत (छा.३.१४.१) इति तस्यैव गुणोपादनार्थोऽनुवादः।
 </details>
 
+<details><summary>Translation</summary>
+
+The subsequent clause 'Let him form the thought,' &c., forms an additional statement to that injunction, the purport of which is to suggest certain attributes of Brahman,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स क्रतुं कुर्वीत (छा.३.१४.१) इति तस्यैव गुणोपादनार्थोऽनुवादः।
@@ -727,6 +904,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपादेयाश् च गुणा मनो-मयत्वादयः;
+</details>
+
+<details><summary>Translation</summary>
+
+such as being made of mind.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -754,6 +936,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 यतस् सर्वात्मकं ब्रह्म मनोमयत्वादिगुणकमुपासीतेति वाक्यार्थः ॥
 </details>
 
+<details><summary>Translation</summary>
+
+So that the meaning of the whole section is 'Let a man meditate on Brahman, which is made of mind, has breath for its body, &c., as the Self of the whole world.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 यतस्सर्वात्मकं ब्रह्म मनोमयत्वादिगुणकमुपासीतेति वाक्यार्थः ॥
@@ -764,6 +951,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र सन्देहः – किम् इह ब्रह्म-शब्देन प्रत्यग्-आत्मा निर्दिश्यते;
+</details>
+
+<details><summary>Translation</summary>
+
+--Here a doubt presents itself. Does the term 'Brahman' in this section denote the individual soul
 </details>
 
 <details><summary>मूलम्</summary>
@@ -779,6 +971,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत परमात्मा – इति।
+</details>
+
+<details><summary>Translation</summary>
+
+or the highest Self?
 </details>
 
 <details><summary>मूलम्</summary>
@@ -806,6 +1003,8 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 किं युक्तम्?
 </details>
 
+<!-- TRANSLATION-SKIPPED -->
+
 <details><summary>मूलम्</summary>
 
 किं युक्तम्?
@@ -814,6 +1013,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यग्-आत्मेति।
+</details>
+
+<details><summary>Translation</summary>
+
+--The individual soul, the Pūrvapakshin maintains,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -826,6 +1030,8 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 कुतः?
 </details>
 
+<!-- TRANSLATION-SKIPPED -->
+
 <details><summary>मूलम्</summary>
 
 कुतः?
@@ -836,6 +1042,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 तस्यैव सर्व-पद-सामानाधिकरण्य-निर्देशोपपत्तेः।
 </details>
 
+<details><summary>Translation</summary>
+
+for that only admits of being exhibited in co-ordination with the word 'all.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्यैव सर्वपदसामानाधिकरण्यनिर्देशोपपत्तेः।
@@ -844,6 +1055,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-शब्द-निर्दिष्टं हि ब्रह्मादिस्तम्ब-पर्यन्तं कृत्स्नं जगत्।
+</details>
+
+<details><summary>Translation</summary>
+
+For the word 'all' denotes the entire world from Brahmā down to a blade of grass;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -861,6 +1077,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 ब्रह्मादि-भावश् च प्रत्यगात्मनोऽनाद्यविद्यामूलकर्मविशेषोपाधिको विद्यत एव;
 </details>
 
+<details><summary>Translation</summary>
+
+and the existence of Brahmā and other individual beings is determined by special forms of karman, the root of which is the beginningless Nescience of the individual soul.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्मादिभावश्च प्रत्यगात्मनोऽनाद्यविद्यामूलकर्मविशेषोपाधिको विद्यत एव;
@@ -876,6 +1097,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परस्य तु ब्रह्मणस् सर्वज्ञस्य सर्वशक्तेरपहतपाप्मनो निरस्तसमस्ताविद्यादिदोष-गन्धस्य समस्त-हेयाकर-सर्व-भावो नोपपद्यते ॥
+</details>
+
+<details><summary>Translation</summary>
+
+The highest Brahman, on the other hand, which is all-knowing, all-powerful, free from all evil and all shadow of Nescience and similar imperfections, cannot possibly exist as the 'All' which comprises within itself everything that is bad.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -897,6 +1123,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 प्रत्यग्-आत्मन्य् अपि क्वचित् क्वचिद् ब्रह्म-शब्दः प्रयुज्यते।
 </details>
 
+<details><summary>Translation</summary>
+
+Moreover we find that occasionally the term 'Brahman' is applied to the individual soul also;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रत्यगात्मन्यपि क्वचित्क्वचिद्ब्रह्मशब्दः प्रयुज्यते।
@@ -910,6 +1141,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत एव परमात्मा परं ब्रह्मेति परमेश्वरस्य क्वचित्सविशेषणो निर्देशः।
+</details>
+
+<details><summary>Translation</summary>
+
+just as the highest Lord (paramesvara) may be called 'the highest Self' (paramātman) or 'the highest Brahman.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -929,6 +1165,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 प्रत्यग्-आत्म-नश्च निर्मुक्तोपाधेर्बृहत्वं च विद्यते स चानन्त्याय कल्पते (श्वे.५.९) इति श्रुतेः।
 </details>
 
+<details><summary>Translation</summary>
+
+That 'greatness' (br̥hattva; which is the essential characteristic of 'brahman') belongs to the individual soul when it has freed itself from its limiting conditions, is moreover attested by scripture: 'That (soul) is fit for infinity' (Śvet. Up. V, 9).
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रत्यगात्मनश्च निर्मुक्तोपाधेर्बृहत्वं च विद्यते स चानन्त्याय कल्पते (श्वे.५.९) इति श्रुतेः।
@@ -944,6 +1185,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 अविदुषस् तस्यैव कर्मनिमित्तत्वाज्जन्मस्थितिलयानां तज्-जलान् इति हेतुनिर्देशोऽप्युपपद्यते।
 </details>
 
+<details><summary>Translation</summary>
+
+And as the soul's Nescience is due to karman (only), the text may very well designate it – as it does by means of the term 'tajjalān' --as the cause of the origin, subsistence, and reabsorption of the world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अविदुषस्तस्यैव कर्मनिमित्तत्वाज्जन्मस्थितिलयानां तज्जलानिति हेतुनिर्देशोऽप्युपपद्यते।
@@ -957,6 +1203,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् अयमर्थः – अयं जीवात्मा स्वतोऽपरिच्छिन्न-स्वरूपत्वेन ब्रह्मभूतस्सन्ननाद्यविद्यया देवतिर्यङ्मनुष्यस्थावरात्मनाऽवतिष्ठते- इति।
+</details>
+
+<details><summary>Translation</summary>
+
+That is to say – the individual soul which, in its essential nature, is non-limited, and therefore of the nature of Brahman, owing to the influence of Nescience enters into the state of a god, or a man, or an animal, or a plant.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -986,6 +1237,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 अत्र प्रतिविधीयते – सर्वत्र प्रसिद्धोपदेशात् – सर्वत्र – सर्व खल्व् इदम् (छा.३.१४.१) इति निर्दिष्टे सर्वस्मिन् जगति ब्रह्म-शब्देन तद्-आत्मतया विधीयमानं परं ब्रह्मैव, न प्रत्यग्-आत्मा।
 </details>
 
+<details><summary>Translation</summary>
+
+This view is rejected by the Sūtra. 'Everywhere,' i.e. in the whole world which is referred to in the clause 'All this is Brahman' we have to understand the highest Brahman – which the term 'Brahman' denotes as the Self of the world --, and not the individual soul;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अत्र प्रतिविधीयते – सर्वत्र प्रसिद्धोपदेशात् – सर्वत्र – सर्व खल्विदम् (छा.३.१४.१) इति निर्दिष्टे सर्वस्मिन् जगति ब्रह्मशब्देन तदात्मतया विधीयमानं परं ब्रह्मैव, न प्रत्यगात्मा।
@@ -1001,6 +1257,8 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 कुतः?
 </details>
 
+<!-- TRANSLATION-SKIPPED -->
+
 <details><summary>मूलम्</summary>
 
 कुतः?
@@ -1009,6 +1267,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसिद्धोपदेशात्, तज्-ज-लान् (छां.३.१४.१) इति हेतुतः सर्वं खल्विदं ब्रह्म इति प्रसिद्धवद् उपदेशात्।
+</details>
+
+<details><summary>Translation</summary>
+
+'because there is taught what is known,' i.e. because the clause 'All this is Brahman' --for which clause the term 'tajjalān' supplies the reason – refers to Brahman as something generally known.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1028,6 +1291,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 ब्रह्मणो जातत्वाद् ब्रह्मणि लीनत्वाद्ब्रह्माधीनजीवनत्वाच्च हेतोर् ब्रह्मात्मकं सर्वं खल्विदं जगद् इत्युक्ते यस्माज्जगज्जन्मस्थिति-लया वेदान्तेषु प्रसिद्धास् तद् एवात्र ब्रह्मेति प्रतीयते ॥
 </details>
 
+<details><summary>Translation</summary>
+
+Since the world springs from Brahman, is merged in Brahman, and depends on Brahman for its life, therefore – as the text says --'All this has its Self in Brahman'; and this shows to us that what the text understands by Brahman is that being from which, as generally known from the Vedānta texts, there proceed the creation, and so on, of the world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्मणो जातत्वाद् ब्रह्मणि लीनत्वाद्ब्रह्माधीनजीवनत्वाच्च हेतोर्ब्रह्मात्मकं सर्वं खल्विदं जगदित्युक्ते यस्माज्जगज्जन्मस्थितिलया वेदान्तेषु प्रसिद्धास्तदेवात्र ब्रह्मेति प्रतीयते ॥
@@ -1043,6 +1311,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्च परम् एव ब्रह्म;
+</details>
+
+<details><summary>Translation</summary>
+
+That the highest Brahman only,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1062,6 +1335,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 तथा हि यतो वा इमानि भूतानि जायन्ते, येन जातानि जीवन्ति, यत्प्रयन्त्यभिसंविशन्ति, तद् विजिज्ञासस्व तद्-ब्रह्म (तै.भृ.१) इत्य्-उपक्रम्य आनन्दो ब्रह्मेति व्यजानात्, आनन्दाद्ध्येव खल्व् इमानि भूतानि जायन्ते (तै.भृ.६) इत्य्-आदिना पूर्वानुवाकप्रतिपादित- अनवधिकातिशयानन्द-योगिनो विपिश्चतः परस्माद् ब्रह्मण एव जगद्-उत्पत्ति-स्थित-लया निर्दिश्यन्ते;
 </details>
 
+<details><summary>Translation</summary>
+
+all-wise and supremely blessed, is the cause of the origin, &c., of the world, is declared in the section which begins. 'That from which these beings are born,' &c., and which says further on, 'he knew that Bliss is Brahman, for from bliss these beings are born' (Taitt. Up. III, 6);
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा हि यतो वा इमानि भूतानि जायन्ते, येन जातानि जीवन्ति, यत्प्रयन्त्यभिसंविशन्ति, तद्विजिज्ञासस्व तद्ब्रह्म (तै.भृ.१) इत्युपक्रम्य आनन्दो ब्रह्मेति व्यजानात्, आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते (तै.भृ.६) इत्यादिना पूर्वानुवाकप्रतिपादित- अनवधिकातिशयानन्दयोगिनो विपिश्चतः परस्माद्ब्रह्मण एव जगदुत्पत्तिस्थितलया निर्दिश्यन्ते;
@@ -1077,6 +1355,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा स कारणं करणाधिपाधिपो न चास्य कश्चिज्-जनिता न चाधिपः (श्वे.६.९) इति करणाधिपस्य जीवस्याधिपः परं ब्रह्मैव कारणं व्यपदिश्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+and analogously the text 'He is the cause, the lord of lords of the organs,' &c. (Śvet. Up. VI, 9), declares the highest Brahman to be the cause of the individual soul.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1096,6 +1379,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 एवं सर्वत्र परस्यैव ब्रह्मणः कारणत्वं प्रसिद्धम् ॥
 </details>
 
+<details><summary>Translation</summary>
+
+Everywhere, in fact, the texts proclaim the causality of the highest Self only.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं सर्वत्र परस्यैव ब्रह्मणः कारणत्वं प्रसिद्धम् ॥
@@ -1106,6 +1394,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः पर-ब्रह्मणो जातत्वात् त-स्मिन् प्रली-नत्वात्तेन प्राणनात्तदात्मकतया तादात्म्यम् उपपन्नम्।
+</details>
+
+<details><summary>Translation</summary>
+
+As thus the world which springs from Brahman, is merged in it, and breathes through it, has its Self in Brahman, the identity of the two may properly be asserted;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1123,6 +1416,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतस् सर्व-प्रकारं सर्व-शरीरं सर्वात्मभूतं परं ब्रह्म शान्तो भूत्वोपासीतेति श्रुतिरेव परस्य ब्रह्मणस् सर्वात्म-कत्वम् उपपाद्य तस्योपासनम् उपदिशति।
+</details>
+
+<details><summary>Translation</summary>
+
+and hence the text – the meaning of which is 'Let a man meditate with calm mind on the highest Brahman of which the world is a mode, which has the world for its body, and which is the Self of the world' --first proves Brahman's being the universal Self, and then enjoins meditation on it.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1148,6 +1446,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 परं ब्रह्म हि कारणावस्थं कार्यावस्थं सूक्ष्म-स्थूल चिद्-अचिद्-वस्तु-शरीरतया सर्वदा सर्वात्मभूतम् ॥
 </details>
 
+<details><summary>Translation</summary>
+
+The highest Brahman, in its causal condition as well as in its so-called 'effected' state, constitutes the Self of the world, for in the former it has for its body all sentient and non-sentient beings in their subtle form, and in the latter the same beings in their gross condition.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परं ब्रह्म हि कारणावस्थं कार्यावस्थं सूक्ष्मस्थूलचिदचिद्वस्तुशरीरतया सर्वदा सर्वात्मभूतम् ॥
@@ -1167,6 +1470,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 एवम्-भूत-तादात्म्यस्य प्रतिपादने परस्य ब्रह्मणस् सकल-हेय-प्रत्यनीक-कल्याण-गुणाकरत्वं न विरुध्यते, प्रकारभूतशरीरगतानां दोषाणां प्रकारिण्य् आत्म-न्य-प्रसङ्गात्, प्रत्युत निरति-शयैश्वर्यापादनेन गुणायैव भवतीति पूर्वमेवोक्तम्॥
 </details>
 
+<details><summary>Translation</summary>
+
+Nor is there any contradiction between such identity with the world on Brahman's part, and the fact that Brahman treasures within itself glorious qualities antagonistic to all evil; for the imperfections adhering to the bodies, which are mere modes of Brahman, do not affect Brahman itself to which the modes belong. Such identity rather proves for Brahman supreme lordly power, and thus adds to its excellences.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवम्भूततादात्म्यस्य प्रतिपादने परस्य ब्रह्मणस्सकलहेयप्रत्यनीककल्याणगुणाकरत्वं न विरुध्यते, प्रकारभूतशरीरगतानां दोषाणां प्रकारिण्यात्मन्यप्रसङ्गात्, प्रत्युत निरतिशयैश्वर्यापादनेन गुणायैव भवतीति पूर्वमेवोक्तम्॥
@@ -1184,6 +1492,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 यद् उक्तं जीवस्य सर्वतादात्म्यम् उपपद्यत इति;
 </details>
 
+<details><summary>Translation</summary>
+
+Nor, again, can it rightly be maintained that of the individual soul also identity with the world can be predicated;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदुक्तं जीवस्य सर्वतादात्म्यमुपपद्यत इति;
@@ -1199,6 +1512,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 तद् असत्, जीवानां प्रतिशरीरं भिन्नानामन्योन्य-तादात्म्यासम्भवात्।
 </details>
 
+<details><summary>Translation</summary>
+
+for the souls being separate according to the bodies with which they are joined cannot be identical with each other.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदसत्, जीवानां प्रतिशरीरं भिन्नानामन्योन्य-तादात्म्यासम्भवात्।
@@ -1207,6 +1525,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुक्तस्याप्यनवच्छिन्नस्वरूपस्यापि जगत् तादात्म्यं जगज्जन्मस्थिति-प्रलयकारणत्वनिमित्तं न सम्भवतीति जगद्-व्यापार-वर्जम् (शारी.४.४.१७) इत्य्-अत्र वक्ष्यते ।
+</details>
+
+<details><summary>Translation</summary>
+
+Even in the state of release, when the individual soul is not in any way limited, it does not possess that identity with the world on which there depends causality with regard to the world's creation, sustentation, and reabsorption; as will be declared in Sūtra IV, 4, 17.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1224,6 +1547,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवकर्म-निमित्तत्वात् जगज्जन्मस्थितिलयानां स एव कारणम् इत्यपि न साधीयः, तत्कर्मनिमित्तत्वेऽपि श्वर् अस्यैव जगत्-कारणत्वात् ॥
+</details>
+
+<details><summary>Translation</summary>
+
+Nor, finally, does the Pūrvapakshin improve his case by contending that the individual soul may be the cause of the creation. &c., of the world because it (viz. the soul) is due to karman; for although the fact given as reason is true, all the same the Lord alone is the cause of the Universe.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1247,6 +1575,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 अतः परमात्मैवाऽत्र ब्रह्म-शब्दाभिधेयः।
 </details>
 
+<details><summary>Translation</summary>
+
+--All this proves that the being to which the text refers as Brahman is none other than the highest Self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अतः परमात्मैवाऽत्र ब्रह्मशब्दाभिधेयः।
@@ -1262,6 +1595,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 इम-मेव सूत्रार्थम् अभि-युक्ता बहु-मन्वते।
 </details>
 
+<details><summary>Translation</summary>
+
+This second alternative interpretation of the Sūtra is preferred by most competent persons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इममेव सूत्रार्थमभियुक्ता बहुमन्वते।
@@ -1275,6 +1613,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाह वृत्तिकारः – सर्वं खल्व् इति सर्वात्मा ब्रह्मेशः इति॥ १॥
+</details>
+
+<details><summary>Translation</summary>
+
+The Vr̥ttikāra, e.g. says, 'That Brahman which the clause "All this is Brahman" declares to be the Self of all is the Lord.'
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1294,6 +1637,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 ३४. विविक्षतगुणोपपत्तेश् च ॥ १-२-२ ॥
 </details>
 
+<details><summary>Translation</summary>
+
+2\. And because the qualities meant to be stated are possible (in Brahman).
+</details>
+
 <details><summary>मूलम्</summary>
 
 ३४. विविक्षतगुणोपपत्तेश्च ॥ १-२-२ ॥
@@ -1302,6 +1650,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वक्ष्यमाणाश् च गुणाः परमात्मन्य् एवोपपद्यन्ते मनोमयः प्राणशरीरो भारूपस्सत्य-सङ्कल्प आकाशात्मा सर्व-कर्मा सर्वकामस्सर्वगन्धस्सर्वरसस्सर्वमिदमभ्यात्तोऽवाक्य-नादरः (छां.३.१४.२) इति।
+</details>
+
+<details><summary>Translation</summary>
+
+The qualities about to be stated can belong to the highest Self only. 'Made of mind, having breath for its body,' &c.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1325,6 +1678,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 मनोमयः – परिशुद्धेन मनसैकेन ग्राह्यः;
 </details>
 
+<details><summary>Translation</summary>
+
+'Made of mind' means to be apprehended by a purified mind only.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनोमयः – परिशुद्धेन मनसैकेन ग्राह्यः;
@@ -1342,6 +1700,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 विवेकविमोकादिसाधनसप्तकानुगृहीत-परमात्मोपासननिर्मलीकृतेन हि मनसा गृह्यते।
 </details>
 
+<details><summary>Translation</summary>
+
+The highest Self can be apprehended only by a mind purified by meditation on that Self, such meditation being assisted by the seven means, viz. abstention, &c. (see above, p. 17).
+</details>
+
 <details><summary>मूलम्</summary>
 
 विवेकविमोकादिसाधनसप्तकानुगृहीत-परमात्मोपासननिर्मलीकृतेन हि मनसा गृह्यते।
@@ -1357,6 +1720,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 अनेन हेय-प्रत्यनीक-कल्याणैकतानतया सकलेतरविलक्षण-स्वरूपतोच्यते;
 </details>
 
+<details><summary>Translation</summary>
+
+This intimates that the highest Self is of pure goodness, precluding all evil, and therefore different in nature from everything else;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनेन हेयप्रत्यनीककल्याणैकतानतया सकलेतरविलक्षणस्वरूपतोच्यते;
@@ -1370,6 +1738,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मलिनमनोभिर्मलिनानामेव ग्राह्यत्वात्।
+</details>
+
+<details><summary>Translation</summary>
+
+for by the impure minded impure objects only can be apprehended.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1391,6 +1764,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 प्राण-शरीरः – जगति सर्वेषां प्राणानां धारकः।
 </details>
 
+<details><summary>Translation</summary>
+
+--'Having the vital breath for its body' means – being the supporter of all life in the world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणशरीरः – जगति सर्वेषां प्राणानां धारकः।
@@ -1404,6 +1782,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणो यस्य शरीरम् आधेयं विधेयं शेषभूतं च स प्राण-शरीरः।
+</details>
+
+<details><summary>Translation</summary>
+
+To stand in the relation of a body to something else, means to abide in that other thing, to be dependent on it, and to subserve it in a subordinate capacity, as we shall fully show later on. And all 'vital breath' or 'life' stands in that relation to the highest Self.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1420,6 +1803,8 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 
 आधेयत्व-विधेयत्व-शेषत्वानि शरीरशब्दप्रवृत्तिनिमित्तानी- त्युपपादयिष्यते।
 </details>
+
+<!-- TRANSLATION-SKIPPED -->
 
 <details><summary>मूलम्</summary>
 
@@ -1438,6 +1823,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 भारूपः – भास्वर-रूपः;
 </details>
 
+<details><summary>Translation</summary>
+
+'Whose form is light'; i.e. who is of supreme splendour,
+</details>
+
 <details><summary>मूलम्</summary>
 
 भारूपः – भास्वररूपः;
@@ -1451,6 +1841,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्राकृत-स्वासाधारण-निरतिशय-कल्याण-दिव्य-रूपत्वेन निरतिशय-दीप्ति-युक्त इत्य्-अर्थः।
+</details>
+
+<details><summary>Translation</summary>
+
+his form being a divine one of supreme excellence peculiar to him, and not consisting of the stuff of Prakr̥ti.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1470,6 +1865,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 सत्य-सङ्कल्पः – अप्रतिहत-सङ्कल्पः।
 </details>
 
+<details><summary>Translation</summary>
+
+--'Whose purposes are true'; i.e. whose purposes realise themselves without any obstruction.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्यसङ्कल्पः – अप्रतिहतसङ्कल्पः।
@@ -1480,6 +1880,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 आकाशात्मा – आकाशवत्सूक्ष्मस्वच्छ-स्वरूपः;
 </details>
 
+<details><summary>Translation</summary>
+
+'Who is the (or "of the") Self of ether'; i.e. who is of a delicate and transparent nature, like ether;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आकाशात्मा – आकाशवत्सूक्ष्मस्वच्छस्वरूपः;
@@ -1488,6 +1893,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सकलेतर-कारण-भूतस्य आकाशस्याप्यात्म-भूत इति वा आकाशात्मा;
+</details>
+
+<details><summary>Translation</summary>
+
+or who himself is the Self of ether, which is the causal substance of everything else;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1507,6 +1917,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 स्वयं च प्रकाशते अन्यान् अपि प्रकाशयतीति वा आकाशात्मा।
 </details>
 
+<details><summary>Translation</summary>
+
+or who shines forth himself and makes other things shine forth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वयं च प्रकाशते अन्यानपि प्रकाशयतीति वा आकाशात्मा।
@@ -1520,6 +1935,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-कर्मा क्रियत इति कर्म;
+</details>
+
+<details><summary>Translation</summary>
+
+--'To whom all works belong';
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1537,6 +1957,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 सर्वं जग-द्यस्य कर्म, असौ सर्व-कर्मा;
 </details>
 
+<details><summary>Translation</summary>
+
+i.e. he of whom the whole world is the work;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वं जगद्यस्य कर्म, असौ सर्वकर्मा;
@@ -1545,6 +1970,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वा वा क्रिया यस्यासौ सर्व-कर्मा।
+</details>
+
+<details><summary>Translation</summary>
+
+or he to whom all activities belong.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1562,6 +1992,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 सर्व-कामः – काम्यन्त इति कामाः- भोग्य-भोगोपकरणादयः;
 </details>
 
+<details><summary>Translation</summary>
+
+--'To whom all wishes belong'; i.e. he to whom
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वकामः – काम्यन्त इति कामाः- भोग्यभोगोपकरणादयः;
@@ -1575,6 +2010,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते परिशुद्धाः सर्व-विधास् तस्य सन्तीत्यर्थः।
+</details>
+
+<details><summary>Translation</summary>
+
+all pure objects and means of desire and enjoyment belong.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1592,6 +2032,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-गन्धः सर्व-रसः – अशब्दमस्पर्शम् (कठ.१.३.१५) इत्य्-आदिना प्राकृत-गन्धरसादि-निषेधाद् अप्राकृताः स्वासाधारणा निरवद्या निरतिशयाः कल्याणाः स्व-भोग्य-भूतास् सर्व-विधा गन्ध-रसास् तस्य सन्तीत्यर्थः।
+</details>
+
+<details><summary>Translation</summary>
+
+'He to whom all odours and tastes belong'; i.e. he to whom there belong, as objects of enjoyment, all kinds of uncommon, special, perfect, supremely excellent odours and tastes; ordinary smells and tastes being negatived by another text, viz. 'That which is without sound, without touch, without taste,' &c. (Ka. Up. I, 3, l5).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1613,6 +2058,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 सर्वम् इदम् अभ्यात्तः – उक्तं रस-पर्यन्तं सर्वम् इदं कल्याण-गुण-जातं स्वी-कृतवान्।
 </details>
 
+<details><summary>Translation</summary>
+
+--'He who embraces all this'; i.e. he who makes his own the whole group of glorious qualities enumerated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वमिदमभ्यात्तः – उक्तं रसपर्यन्तं सर्वमिदं कल्याणगुणजातं स्वीकृतवान्।
@@ -1631,6 +2081,8 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 
 अभ्य्-आत्तः इति भुक्ता ब्राह्मणाः इतिवत्-कर्तरि-क्तः प्रतिपत्तव्यः।
 </details>
+
+<!-- TRANSLATION-SKIPPED -->
 
 <details><summary>मूलम्</summary>
 
@@ -1655,6 +2107,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 अवाकी – वाकः उक्तिः;
 </details>
 
+<details><summary>Translation</summary>
+
+--'He who does not speak,'
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवाकी – वाकः उक्तिः;
@@ -1664,6 +2121,8 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 
 सोऽस्य नास्तीत्यवाकी।
 </details>
+
+<!-- TRANSLATION-SKIPPED -->
 
 <details><summary>मूलम्</summary>
 
@@ -1684,6 +2143,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 कुत इत्याह – अनादर इति अवाप्तसमस्तकामत्वेनादर्तव्याभावादादररहितः।
 </details>
 
+<details><summary>Translation</summary>
+
+because, being in possession of all he could desire, he 'has no regard for anything';
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुत इत्याह – अनादर इति अवाप्तसमस्तकामत्वेनादर्तव्याभावादादररहितः।
@@ -1700,6 +2164,8 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 
 अत एव अवाकी-अजल्पाकः;
 </details>
+
+<!-- TRANSLATION-SKIPPED -->
 
 <details><summary>मूलम्</summary>
 
@@ -1718,6 +2184,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 परिपूर्णैश्वर्यत्वात् ब्रह्मादिस्तम्ब-पर्यन्तं निखिलं जगत् तृणी-कृत्य जोषम् आसीन इत्य्-अर्थः।
 </details>
 
+<details><summary>Translation</summary>
+
+i.e. he who, in full possession of lordly power, esteems this whole world with all its creatures no higher than a blade of grass, and hence abides in silence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परिपूर्णैश्वर्यत्वात् ब्रह्मादिस्तम्बपर्यन्तं निखिलं जगत्तृणीकृत्य जोषमासीन इत्यर्थः।
@@ -1731,6 +2202,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त एते विविक्षता गुणाः परमात्मन्य् एवोपपद्यन्ते॥२॥
+</details>
+
+<details><summary>Translation</summary>
+
+--All these qualities stated in the text can belong to the highest Self only.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1752,6 +2228,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 ३५. अनुपपत्तेस् तु न शारीरः॥ १-२-३ ॥
 </details>
 
+<details><summary>Translation</summary>
+
+3\. But, on account of impossibility, not the embodied soul.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ३५. अनुपपत्तेस्तु न शारीरः॥ १-२-३ ॥
@@ -1760,6 +2241,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमिमं गुणसागरं पर्यालोचयतां खद्योत-कल्पस्य शरीरसम्बन्धनिबन्धनापरिमित-दुःखसम्बन्धयोग्यस्य बद्ध-मुक्तावस्थस्य जीवस्य प्रस्तुत-गुण-लेश-सम्बन्ध-गन्धो ऽपि नोपपद्यत इति नास्मिन् प्रकरणे शारीर-परिग्रह-शङ्का जायत इत्य्-अर्थः॥३॥
+</details>
+
+<details><summary>Translation</summary>
+
+Those who fully consider this infinite multitude of exalted qualities will recognise that not even a shadow of them can belong to the individual soul – whether in the state of bondage or that of release – which is a thing as insignificant as a glow-worm and, through its connexion with a body, liable to the attacks of endless suffering. It is not possible therefore to hold that the section under discussion should refer to the individual soul.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1789,6 +2275,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 ३६. कर्मकर्तृव्यपदेशाच्च ॥ १-२-४ ॥
 </details>
 
+<details><summary>Translation</summary>
+
+4\. And because there is (separate) denotation of the object and the agent.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ३६. कर्मकर्तृव्यपदेशाच्च ॥ १-२-४ ॥
@@ -1797,6 +2288,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतमितः प्रेत्याभिसम्भिवताऽस्मि (छा.३.१४.४) इति प्राप्यतया परं ब्रह्म व्यपदिश्यते, प्राप्त-तृतया च जीवः।
+</details>
+
+<details><summary>Translation</summary>
+
+The clause 'When I shall have departed from hence I shall obtain him' denotes the highest Brahman as the object to be obtained, and the individual soul as that which obtains it.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1812,6 +2308,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः प्राप्ता जीव उपासकः, प्राप्यं परं ब्रह्मोपास्य-मिति प्राप्तुर् अन्यद् एवेदम् इति विज्ञायते ॥४॥
+</details>
+
+<details><summary>Translation</summary>
+
+This shows that the soul which obtains is the person meditating, and the highest Brahman that is to be obtained, the object of meditation: Brahman, therefore, is something different from the attaining soul.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1837,6 +2338,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 **३**७. शब्द-विशेषात् ॥ १-२-५ ॥
 </details>
 
+<details><summary>Translation</summary>
+
+5\. On account of the difference of words.
+</details>
+
 <details><summary>मूलम्</summary>
 
 **३**७. शब्दविशेषात् ॥ १-२-५ ॥
@@ -1845,6 +2351,11 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष म आत्माऽन्तर्-हृदये (छा.३.१४.३) इति शारीरष्षष्ठ्या निर्दिष्टः उपास्य-स्तु प्रथमया।
+</details>
+
+<details><summary>Translation</summary>
+
+The clause 'That is the Self of me, within the heart' designates the embodied soul by means of a genitive form, while the object of meditation is exhibited in the nominative case.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1862,10 +2373,17 @@ title = "१२ सर्वत्रप्रसिद्ध्यधिकर�
 एवं समान-प्रकरणे वाजिनां च श्रुतौ शब्द-विशेषश् श्रूयते जीव-परयोः;
 </details>
 
+<details><summary>Translation</summary>
+
+Similarly, a text of the Vājasaneyins, which treats of the same topic, applies different terms to the embodied and the highest Self,
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं समानप्रकरणे वाजिनां च श्रुतौ शब्दविशेषश्श्रूयते जीवपरयोः;
 </details>
+
+<!-- TRANSLATION-MATCH-CONTINUE done_core=113 total_core=140 next_en=3155 total_en=4096 total_paras=140 files=_index.md,01.md,02.md,03.md,04.md,05.md,06.md,07.md,08.md,13.md,14.md,15.md,16.md,17.md,18.md,19.md,20.md,21.md,22.md,23.md,24.md,25.md,26.md,27.md,28.md,29.md,30.md,31.md,32.md,33.md -->
 
 <details><summary>टीका</summary>
 
