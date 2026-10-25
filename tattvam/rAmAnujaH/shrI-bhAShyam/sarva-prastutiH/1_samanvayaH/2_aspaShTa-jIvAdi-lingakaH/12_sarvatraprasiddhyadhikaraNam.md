@@ -65,11 +65,12 @@ SECOND PĀDA. THE contents of the first Pāda may be summed up as follows: --It 
 यद्वा शास्त्रारम्भसिद्धय इतिपदमुत्तराधिकरणत्रयेऽनुषज्यत इति चतुस्सूत्र्याः शास्त्रारम्भसिध्द्यर्थत्वमुक्तं भवति ।
 </details>
 
-#### जन्माद्यधिकरणार्थः
+#### जन्माद्य्-अधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनन्त-विचित्र-स्थिर-त्रस-रूप- -भोक्तृभोग्यभोगोपकरणभोगस्थानलक्षणनिखिलजगदुदयविभवलय-महानन्दैककारणं परं ब्रह्म यतो वा इमानि इत्य्-आदि-वाक्यं बोधयतीति च प्रत्यपादि॥२॥
+अनन्त-विचित्र- -स्थिर-त्रस-रूप- -भोक्तृ-भोग्य-भोगोपकरण- -भोग-स्थान-लक्षण- -निखिल-जगद्-उदय-विभव-लय- -महानन्दैक-कारणं परं ब्रह्म  
+"यतो वा इमानि" इत्य्-आदि-वाक्यं बोधयतीति च प्रत्यपादि॥२॥
 </details>
 
 <details><summary>Translation</summary>
@@ -88,14 +89,16 @@ We next have shown that the text 'That from which these creatures are born,' &c.
 
 महानन्दैककारणत्वं "तद्विजिज्ञासस्व" इति वाक्याभिप्रेतम्, तापत्रयातुरजिज्ञास्यस्य हि लक्षणं निरूपितम्, अतो महानन्दैककारणमित्युक्तम् ।
 
-यद्वा "यत्प्रयन्ती "त्यस्य आत्यन्तिकल्यपर्यन्तत्वाभिप्रायेणोक्तम्- महानन्देति ।
+यद्वा "यत्प्रयन्ती "त्यस्य आत्यन्तिकल्यपर्यन्तत्वाभिप्रायेणोक्तम्- महानन्देति ।  
+"येयं प्रेते" "न प्रेत्य" इति चात्यन्तिकलयो हि प्रायणं श्रुतम्, अविरुद्धविशेषणभेदो न विशेष्यभेदावह इत्यभिप्रायेण एकशब्दप्रयोगः, निमित्तोपादानैकत्वाभिप्रायेण वा ।
 </details>
 
-## शास्त्रयोनित्वाधिकरणार्थः
+#### शास्त्र-योनित्वाधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जगदेक-कारणं परं ब्रह्म सकलेतर-प्रमाणाविषयतया शास्त्रैकप्रमाणकमित्यभ्यधाम॥३॥
+जगद्-एक-कारणं परं ब्रह्म  
+सकलेतर-प्रमाणाविषयतया शास्त्रैक-प्रमाणकम् इत्य् अभ्यधाम॥३॥
 </details>
 
 <details><summary>Translation</summary>
@@ -108,11 +111,14 @@ We have established that this highest Brahman, which is the sole cause of the wo
 जगदेककारणं परं ब्रह्म सकलेतरप्रमाणाविषयतया शास्त्रैकप्रमाणकमित्यभ्यधाम॥३॥
 </details>
 
-## समन्वयाधिकरणार्थः
+#### समन्वयाधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शास्त्र-प्रमाणकत्वं च ब्रह्म प्रवृत्तिनिवृत्त्यन्वयविरहेऽपि स्वरूपेणैव परम-पुरुषार्थ-भूते परस्मिन् ब्रह्मणि वेदान्त-वाक्यानां समन्वयान्निरुह्यत इत्यब्रूम॥४॥
+शास्त्र-प्रमाणकत्वं च ब्रह्म  
+प्रवृत्ति-निवृत्त्य्-अन्वय-विरहेऽपि  
+स्वरूपेणैव परम-पुरुषार्थ-भूते परस्मिन् ब्रह्मणि  
+वेदान्त-वाक्यानां समन्वयान् निरुह्यत इत्य् अब्रूम॥४॥
 </details>
 
 <details><summary>Translation</summary>
@@ -125,16 +131,13 @@ We have pointed out that the position of scripture as an authoritative means of 
 शास्त्रप्रमाणकत्वं च ब्रह्म प्रवृत्तिनिवृत्त्यन्वयविरहेऽपि स्वरूपेणैव परमपुरुषार्थभूते परस्मिन् ब्रह्मणि वेदान्तवाक्यानां समन्वयान्निरुह्यत इत्यब्रूम॥४॥
 </details>
 
-<details><summary>टीका</summary>
-
-"येयं प्रेते" "न प्रेत्य" इति चात्यन्तिकलयो हि प्रायणं श्रुतम्, अविरुद्धविशेषणभेदो न विशेष्यभेदावह इत्यभिप्रायेण एकशब्दप्रयोगः, निमित्तोपादानैकत्वाभिप्रायेण वा ।
-</details>
-
-## ईक्षत्यधिकरणार्थः
+#### ईक्षत्यधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निखिल-जगद्-एक-कारणतया वेदान्त-वेद्यं ब्रह्म च ईक्षणाद्यन्वयादानुमानिक-प्रधानादर्थान्तरभूतः चेतन-विशेष एवेत्य् उपापीपदाम॥ ५॥
+निखिल-जगद्-एक-कारणतया वेदान्त-वेद्यं ब्रह्म च  
+ईक्षणाद्य्-अन्वयाद् आनुमानिक-प्रधानाद् अर्थान्तर-भूतश्  
+चेतन-विशेष एवेत्य् उपापीपदाम॥ ५॥
 </details>
 
 <details><summary>Translation</summary>
@@ -147,11 +150,13 @@ We have proved that Brahman, which the Vedānta-texts teach to be the sole cause
 निखिलजगदेककारणतया वेदान्तवेद्यं ब्रह्म च ईक्षणाद्यन्वयादानुमानिक-प्रधानादर्थान्तरभूतः चेतनविशेष एवेत्युपापीपदाम॥ ५॥
 </details>
 
-## आनन्दमयाधिकरणार्थः
+#### आनन्दमयाधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स च स्वाभाविकानवधिकातिशयानन्दविपश्चित्त्वनिखिलचेतनभयाभयहेतुत्वसत्यसङ्कल्पत्व-समस्त-चेतनाचेतनान्तरात्मत्वादिभिर्बद्धमुक्तोभयावस्थाज्जीव शब्दााभिलपनीयाच्चार्थान्तर-भूत इति च समार्तिथामहि॥६॥
+स च स्वाभाविकानवधिकातिशयानन्द- -विपश्चित्त्व- -निखिल-चेतन-भयाभय-हेतुत्व- -सत्य-सङ्कल्पत्व- -समस्त-चेतनाचेतनान्तरात्मत्वादिभिर्  
+बद्ध-मुक्तोभयावस्थाज् जीव-शब्दाभिलपनीयाच् चार्थान्तर-भूत  
+इति च समार्तिथामहि॥६॥
 </details>
 
 <details><summary>Translation</summary>
@@ -164,11 +169,11 @@ We have declared that this intelligent principle is other than the so-called ind
 स च स्वाभाविकानवधिकातिशयानन्दविपश्चित्त्वनिखिलचेतनभयाभयहेतुत्वसत्यसङ्कल्पत्व-समस्त-चेतनाचेतनान्तरात्मत्वादिभिर्बद्धमुक्तोभयावस्थाज्जीव शब्दााभिलपनीयाच्चार्थान्तरभूत इति च समार्तिथामहि॥६॥
 </details>
 
-## अन्तरधिकरणार्थः
+#### अन्तर्-अधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स चाप्राकृताकर्म-निमित्त-स्वासाधारण-दिव्य-रूप इत्युदैरिराम॥ ७॥
+स चाप्राकृताकर्म-निमित्त- -स्वासाधारण-दिव्य-रूप इत्य् उदैरिराम॥ ७॥
 </details>
 
 <details><summary>Translation</summary>
@@ -181,11 +186,14 @@ We have declared that this intelligent principle is other than the so-called ind
 स चाप्राकृताकर्मनिमित्तस्वासाधारणदिव्यरूप इत्युदैरिराम॥ ७॥
 </details>
 
-## आकाशाधिकरणार्थः
+#### आकाशाधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आकाशप्राणाद्यचेतनविशेषाभिधायिभिर्जगत्-कारणतया प्रसिद्धवन्निर्दिश्यमानः सकलेतरचेतन-अचेतनविलक्षणस्स एवेति समगरिष्महि॥ ८॥
+आकाश-प्राणाद्य्- -अचेतन-विशेषाभिधायिभिर्  
+जगत्-कारणतया प्रसिद्धवन् निर्दिश्यमानः  
+सकलेतर-चेतनाचेतनविलक्षणस्  
+स एवेति समगरिष्महि॥ ८॥
 </details>
 
 <details><summary>Translation</summary>
@@ -198,11 +206,13 @@ We have declared that this intelligent principle is other than the so-called ind
 आकाशप्राणाद्यचेतनविशेषाभिधायिभिर्जगत्कारणतया प्रसिद्धवन्निर्दिश्यमानः सकलेतरचेतन-अचेतनविलक्षणस्स एवेति समगरिष्महि॥ ८॥
 </details>
 
-## ज्योतिरधिकरणार्थः
+#### ज्योतिर्-अधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पर-तत्त्वासाधारण-निरतिशय-दीप्ति-युक्त-ज्योतिश् शब्दाभिधेयो द्यु सम्बन्धितया प्रत्यभिज्ञानात्स एवेत्यातिष्ठा-महि॥ ९ ॥
+पर-तत्त्वासाधारण- -निरतिशय-दीप्ति-युक्त- -ज्योतिश्-शब्दाभिधेयो  
+द्यु-सम्बन्धितया प्रत्यभिज्ञानात्  
+स एवेत्य् आतिष्ठामहि॥ ९ ॥
 </details>
 
 <details><summary>Translation</summary>
@@ -215,11 +225,12 @@ We have declared that this intelligent principle is other than the so-called ind
 परतत्त्वासाधारणनिरतिशयदीप्तियुक्तज्योतिश्शब्दाभिधेयो द्युसम्बन्धितया प्रत्यभिज्ञानात्स एवेत्यातिष्ठामहि॥ ९ ॥
 </details>
 
-## इन्द्रप्राणाधिकरणार्थः
+#### इन्द्रप्राणाधिकरणार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परमकार-ण-साधारणामृतत्व-प्राप्ति-हेतु-भूतः परम-पुरुष एव शास्त्र-दृष्ट्येन्द्रादि-शब्दैर् अभिधीयत इत्यब्रूमहि ॥१०॥
+परम-कारण-साधारण- -अमृतत्व-प्राप्ति-हेतु-भूतः  
+परम-पुरुष एव शास्त्र-दृष्ट्येन्द्रादि-शब्दैर् अभिधीयत इत्य् अब्रूमहि ॥१०॥
 </details>
 
 <details><summary>Translation</summary>
@@ -2383,8 +2394,6 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 एवं समानप्रकरणे वाजिनां च श्रुतौ शब्दविशेषश्श्रूयते जीवपरयोः;
 </details>
 
-<!-- TRANSLATION-MATCH-CONTINUE done_core=113 total_core=140 next_en=3155 total_en=4096 total_paras=140 files=_index.md,01.md,02.md,03.md,04.md,05.md,06.md,07.md,08.md,13.md,14.md,15.md,16.md,17.md,18.md,19.md,20.md,21.md,22.md,23.md,24.md,25.md,26.md,27.md,28.md,29.md,30.md,31.md,32.md,33.md -->
-
 <details><summary>टीका</summary>
 
 जीवपरयोरित्युक्तिः फलितार्थाभिप्रायेण, अतो नान्योन्याश्रयः, अत्र हिरण्यमयशब्देन दिव्यविग्रहवत्त्वं च सिद्धम् ।
@@ -2397,6 +2406,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 यथा व्रीहिर् वा यवो वा श्यामाको वा श्यामाकतण्डुलो वा एवम् अयम् अन्तर्-आत्मन् पुरुषो हिरण्मयो यथा ज्योतिर् अधूमम् (शत.ब्रा.१.६.३) इति।
 </details>
 
+<details><summary>Translation</summary>
+
+'Like a rice grain, or a barley grain, or a canary seed, or the kernel of a canary seed, thus that golden Person is within the Self' (Śat. Br. X, 6, 3, 2).
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा व्रीहिर्वा यवो वा श्यामाको वा श्यामाकतण्डुलो वा एवमयमन्तरात्मन् पुरुषो हिरण्मयो यथा ज्योतिरधूमम् (शत.ब्रा.१.६.३) इति।
@@ -2405,6 +2419,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र अन्तरात्मन् इति सप्तम्य् अन्तेन शारीरो निर्दिश्यते;
+</details>
+
+<details><summary>Translation</summary>
+
+Here the locative form, 'within the Self,' denotes the embodied Self,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2426,6 +2445,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 पुरुषो हिरण्मयः इति प्रथमयोपास्यः।
 </details>
 
+<details><summary>Translation</summary>
+
+and the nominative, 'that golden Person,' the object to be meditated on.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुरुषो हिरण्मयः इति प्रथमयोपास्यः।
@@ -2434,6 +2458,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः पर एवोपास्यः॥
+</details>
+
+<details><summary>Translation</summary>
+
+--All this proves the highest Self to be the object of meditation.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2448,6 +2477,8 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 इतश् च शारीरादन्यः-
 </details>
 
+<!-- TRANSLATION-SKIPPED -->
+
 <details><summary>मूलम्</summary>
 
 इतश्च शारीरादन्यः-
@@ -2458,6 +2489,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 ३८. स्मृतेश् च ॥ १-२-६ ॥
 </details>
 
+<details><summary>Translation</summary>
+
+6\. And on account of Smr̥ti.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ३८. स्मृतेश्च ॥ १-२-६ ॥
@@ -2466,6 +2502,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनञ्च (भ.गी.१५.१५) यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् (गी.१५.१९), ईश्वरस् सर्व-भूतानां हृद्-देशेऽर्जुन तिष्ठति।
+</details>
+
+<details><summary>Translation</summary>
+
+'I dwell within the hearts of all, from me come memory and knowledge, as well as their loss'; 'He who free from delusion knows me to be the highest Person'; 'The Lord, O Arjuna, is seated in the heart of all Beings,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2499,6 +2540,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 भ्रामयन् सर्व-भूतानि यन्त्रारूढानि मायया।
 </details>
 
+<details><summary>Translation</summary>
+
+driving round by his mysterious power all beings as if mounted on a machine;
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया।
@@ -2507,6 +2553,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेव शरणं गच्छ (गी.१८-६१) इति शारीरम् उपासकं, परमात्मानं चोपास्यं स्मृतिर् दर्शयति॥ ६॥
+</details>
+
+<details><summary>Translation</summary>
+
+to him fly for refuge' (Bha. Gi. XV, 15, 19; XVIII, 61). These Smr̥ti-texts show the embodied soul to be the meditating subject, and the highest Self the object of meditation.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2530,6 +2581,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 ३९. अर्भकौकस्त्वात्तद्व्यपदेशाच्च नेति चेन्न निचाय्यत्वा-देवं व्योमवच् च ॥ १-२-७ ॥
 </details>
 
+<details><summary>Translation</summary>
+
+7\. Should it be said that (the passage does) not (refer to Brahman) on account of the smallness of the abode, and on account of the denotation of that (viz. minuteness of the being meditated on); we say no, because (Brahman) has thus to be meditated upon, and because (in the same passage) it is said to be like ether.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ३९. अर्भकौकस्त्वात्तद्व्यपदेशाच्च नेति चेन्न निचाय्यत्वादेवं व्योमवच्च ॥ १-२-७ ॥
@@ -2539,6 +2595,8 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 
 अल्पायतनत्वमर्भकौकस्त्वम्, तद्-व्यपदेशः – अल्पत्व-व्यपदेशः।
 </details>
+
+<!-- TRANSLATION-SKIPPED -->
 
 <details><summary>मूलम्</summary>
 
@@ -2550,6 +2608,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 एष म आत्माऽन्तर्हृादये (छा.३.१४.३) इत्यणीयसि हृदयायतने स्थितत्वात् अणीयान् व्रीहेर् वा यवाद्वा (छां.३.१४.३) इत्यादिनाऽणीयस् त्वस्य स्वरूपेण व्यपदेशाच् च नायं परमात्मा, अपि तु जीव एव;
 </details>
 
+<details><summary>Translation</summary>
+
+It might be contended that, as the text 'he is my Self within the heart' declares the being meditated on to dwell within a minute abode, viz. the heart; and as moreover another text --'smaller than a grain of rice,' &c., declares it to be itself of minute size, that being cannot be the highest Self, but only the embodied soul.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एष म आत्माऽन्तर्हृादये (छा.३.१४.३) इत्यणीयसि हृदयायतने स्थितत्वात् अणीयान् व्रीहेर्वा यवाद्वा (छां.३.१४.३) इत्यादिनाऽणीयस्त्वस्य स्वरूपेण व्यपदेशाच्च नायं परमात्मा, अपि तु जीव एव;
@@ -2558,6 +2621,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-गतं सुसूक्ष्मं तद् अव्ययं यद् भूत-योनिं परिपश्यन्ति धीराः (मुण्ड.१.१.६) इत्य्-आदिभिः परमात्मनोऽपरिच्छन्नत्व -अवगमात्, जीवस्य चाराग्र-मात्रत्व-व्यपदेशाद् इति चेत् –
+</details>
+
+<details><summary>Translation</summary>
+
+For other passages speak of the highest Self as unlimited, and of the embodied soul as having the size of the point of a goad (cp. e.g. Mu. Up. I, 1, 6, and Śvet. Up. V, 8).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2575,6 +2643,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 नैतदेवम्, परमात्मैव ह्यणीयानित्येवं निचाय्यत्वेन व्यपदिश्यते;
 </details>
 
+<details><summary>Translation</summary>
+
+--This objection the Sūtra rebuts by declaring that the highest Self is spoken of as such, i.e. minute, on account of its having to be meditated upon as such.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नैतदेवम्, परमात्मैव ह्यणीयानित्येवं निचाय्यत्वेन व्यपदिश्यते;
@@ -2584,6 +2657,8 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 
 एवं निचाय्यत्वेन – एवं द्रष्टव्यत्वेन, एवमुपास्यत्वेनेति यावत्।
 </details>
+
+<!-- TRANSLATION-SKIPPED -->
 
 <details><summary>मूलम्</summary>
 
@@ -2604,6 +2679,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 न पुनरणीयस्त्वमेवास्य स्वरूपम् इति;
 </details>
 
+<details><summary>Translation</summary>
+
+Such minuteness does not, however, belong to its true nature;
+</details>
+
 <details><summary>मूलम्</summary>
 
 न पुनरणीयस्त्वमेवास्य स्वरूपमिति;
@@ -2621,6 +2701,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्योमवच् चायं व्यपदिश्यते, स्वाभाविक-महत्त्वं चात्रैव व्यपदिश्यते – ज्यायान् पृथिव्या ज्यायानन्तरिक्षाज्ज्यायान् दिवो ज्यायान् एभ्यो लोकेभ्यः (छां.३.१४.१) इति।
+</details>
+
+<details><summary>Translation</summary>
+
+for in the same section it is distinctly declared to be infinite like ether --'greater than the earth, greater than the sky, greater than heaven, greater than all these worlds' (Cḥ. Up. III, 14, 3).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2646,6 +2731,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 अत उपासनार्थम् एवाल्पत्व-व्यपदेशः।
 </details>
 
+<details><summary>Translation</summary>
+
+This shows that the designation of the highest Self as minute is for the purpose of meditation only.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अत उपासनार्थमेवाल्पत्वव्यपदेशः।
@@ -2654,6 +2744,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि –
+</details>
+
+<details><summary>Translation</summary>
+
+--The connexion of the whole section then is as follows.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2671,6 +2766,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वं खल्विदं ब्रह्म तज्-जलान् इति शान्त उपासीत (मुण्ड.३.१४.४) इति सर्वोत्पत्ति-प्रलय-कारणत्वेन सर्वस्याऽत्मतया अनुप्रवेशकृतजीवयितृत्वेन च सर्वात्मकं ब्रह्मोपासीतेत्युपासनं विधाय अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्लोङ्के पुरुषो भवति तथेतः प्रेत्य भवति (छां.३.१४.४) इति यथोपासनं प्राप्य-सिद्धिम् अभिधाय स क्रतुं कुर्वीत इति गुण-विधान् आर्थम् उपासनम् अनूद्य (छां.३.१४.४) मनोमयः प्राणशरीरो भारूपस्सत्य-सङ्कल्प आकाशात्मा सर्व-कर्मा सर्वकामस्सर्वगन्धरस्सर्वरसः सर्वमिदमभ्यात्तोऽवाक्य-नादरः (छां.३.१४.४) इति जगदैश्वर्य-विशिष्टस्य स्वरूपगुणांश्चोपादेयान् प्रतिपाद्य एष म आत्माऽन्तर्हृादयेऽणीयान् व्रीहेर् वा यवाद्वा सर्षपाद्वा श्यामाकाद्वा श्यामाक-तण्डुलाद्वा (छां.३.१४.४) इत्य् उपासकस्य हृदयेऽणीयस्त्वेन तदात्मतयोपास्यस्य परमपुरुषस्योपासनार्थम् अवस्थानम् उक्त्वा एष म आत्माऽन्तर्हृादये ज्यायान् पृथिव्या ज्यायानन्तरक्षाज्ज्यायान्दिवो ज्यायानेभ्योलोकेभ्यस्सर्व-कर्मा सर्वकामस्सर्वरसस्सर्वमिदम् अभ्य्-आत्तः अवाक्य-नादरः (छां.३.१४.१,४) इत्यन्तर्हृादयेऽवस्थितस्य उपास्यमानस्य प्राप्य् आकारं निर्दिश्य एष म आत्माऽन्तर्हादय एतद् ब्रह्म इत्य्-एवं भूतं परं ब्रह्म परमकारुण्येनास्मदुज्जिजीवयिषया अस्मद्-धृदये सन्निहितम् इतीदम् अनुसन्धानं विधाय एतमितः प्रेत्याभिसम्भवितास्मि (छां.३.१४.४) इति यथोपासनं प्राप्ति-निश्चयानुसन्धानं च विधाय इति यस्य स्याद् अद्धा न विचिकत्साऽस्ति (छां.३.१४.४) इत्येवंविधप्राप्यप्राप्ति-निश्चयोपेतस्योपासकस्य प्राप्तौ न संशयोऽस्तीत्य् उपसंहृतम्।
+</details>
+
+<details><summary>Translation</summary>
+
+The clause 'All this is Brahman; let a man meditate with calm mind on this world as beginning, ending, and breathing in Brahman,' enjoins meditation on Brahman as being the Self of all, in so far as it is the cause of the origin and destruction of all, and entering into all beings as their soul gives life to them. The next clause, 'Man is made of thought; according as his thought is in this world, so will he be when he has departed this life,' declares the attainment of the desired object to depend on the nature of the meditation; and the following clause, 'Let him therefore form the following thought,' thereupon repeats the injunction with a view to the declaration of details. The clause 'He who consists of mind,' &c., up to 'who is never surprised,' then states the nature and qualities, of the being to be meditated upon, which are to be comprised in the meditation. Next, the clause 'He is my Self,' up to 'the kernel of a canary seed, 'declares that the highest Person, for the purpose of meditation, abides in the heart of the meditating devotee; representing it as being itself minute, since the heart is minute. After this the clause 'He also is my Self,' up to 'who is never surprised,' describes those aspects of the being meditated upon as within the heart, which are to be attained by the devotee. Next, the words 'this my Self within the heart is that Brahman' enjoins the reflection that the highest Brahman, as described before, is, owing to its supreme kindness, present in our hearts in order thereby to refresh and inspirit us. Then the clause 'When I shall have departed from hence I shall obtain him' suggests the idea that there is a certainty of obtaining him on the basis of devout meditation; and finally the clause 'He who has this faith has no doubt' declares that the devotee who is firmly convinced of his aim being attainable in the way described, will attain it beyond any doubt.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2694,6 +2794,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 अत उपासनार्थम् अर्भकौकस्त्वमणीयस्त्वं च॥७॥
 </details>
 
+<details><summary>Translation</summary>
+
+--From all this it appears that the 'limitation of abode,' and the 'minuteness' ascribed to Brahman, are merely for the purpose of meditation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अत उपासनार्थम् अर्भकौकस्त्वमणीयस्त्वं च॥७॥
@@ -2706,6 +2811,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 ४०. सम्भोग-प्राप्तिरिति चेन्न वैशेष्यात् ॥ १-२-८ ॥
 </details>
 
+<details><summary>Translation</summary>
+
+8\. Should it be said that there is attainment of fruition (of pleasure and pain); we reply, not so, on account of difference.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ४०. सम्भोगप्राप्तिरिति चेन्न वैशेष्यात् ॥ १-२-८ ॥
@@ -2714,6 +2824,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवस्येव परस्यापि ब्रह्मणश्शरीरान्तर्वर्तित्वमभ्युपगतं चेत् – तद्वद् एव शरीरसम्बन्धप्रयुक्त-सुखदुःखोपभोगप्राप्तिरिति चेत् – तन्न, हेतुवै-शेष्यात् – न हि शरीरान्तर्वर्तित्वमेव सुखदुःखोप-भोगहेतुः;
+</details>
+
+<details><summary>Translation</summary>
+
+But, if the highest Brahman is assumed to dwell within bodies, like the individual soul, it follows that, like the latter, it is subject to the experience of pleasure and pain, such experience springing from connexion with bodies! --Of this objection the Sūtra disposes by remarking 'not so, on account of difference (of reason).' For what is the cause of experiences, pleasurable or painful, is not the mere dwelling within a body,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2731,6 +2846,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 अपि तु पुण्यपापरूपकर्मपरवशत्वम्;
 </details>
 
+<details><summary>Translation</summary>
+
+but rather the subjection to the influence of good and evil deeds;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपि तु पुण्यपापरूपकर्मपरवशत्वम्;
@@ -2741,6 +2861,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 तत्त्व् अपहत-पाप्मनः परमात्मनो न सम्भवति।
 </details>
 
+<details><summary>Translation</summary>
+
+and such subjection is impossible in the case of the highest Self to which all evil is foreign.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्त्वपहतपाप्मनः परमात्मनो न सम्भवति।
@@ -2749,6 +2874,11 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च श्रुतिः तयोर् अन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति (मुण्ड.३.११) इति ॥८॥
+</details>
+
+<details><summary>Translation</summary>
+
+Compare the scriptural text 'One of the two eats the sweet fruit, the other one looks on without eating' (Mu. Up. III, 1, 1).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2788,7 +2918,21 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 **इति श्रीशारीरकमीमांसाभाष्ये सर्वत्र-प्रसिद्ध्य् अधिकरणम्॥१॥**
 </details>
 
+<details><summary>Translation</summary>
+
+--Here finishes the adhikaraṇa of 'what is known everywhere.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 **इति श्रीशारीरकमीमांसाभाष्ये सर्वत्रप्रसिद्ध्यधिकरणम्॥१॥**
 </details>
+
+<details><summary>Appendix</summary>
+
+- 140 sentences from 140 paragraphs interleaved 
+- 0 Translation - Notes blocks; 13 skipped (no counterpart found).
+- Scope: translation stream scoped by end_after 'Here .+? the adhikaraṇa' to words [0,4096) of 12635.
+position tags advanced in: _index.md, 01.md, 02.md, 03.md, 04.md, 05.md, 06.md, 07.md, 08.md, 13.md, 14.md, 15.md, 16.md, 17.md, 18.md, 19.md, 20.md, 21.md, 22.md, 23.md, 24.md, 25.md, 26.md, 27.md, 28.md, 29.md, 30.md, 31.md, 32.md, 33.md.
+</details>
+
