@@ -2,16 +2,20 @@
 title = "वैखानस-सज्जन-वैभवम्"
 +++
 
-<details><summary>रविलोचनः</summary>
+<details><summary>Provenance</summary>
 
-We don't know the names of all the granthas written by VD. 120 granthas is what his sishya says. But many of the so called prabandhas are merely collection of tamil verses from his rahasya granthas of same name. And this text has been mentioned in the foreword of Pancaratra raksha publication by Adyar library as a work of VD. The manuscript has VD taniyan in the beginning, colophon mentions it as work of VD and the last line also claims the same. No reason to suspect it's authenticity, unless we have specific proof that it is not his work.
+> We don't know the names of all the granthas written by VD. 120 granthas is what his sishya says. But many of the so called prabandhas are merely collection of tamil verses from his rahasya granthas of same name. And this text has been mentioned in the foreword of Pancaratra raksha publication by Adyar library as a work of VD. The manuscript has VD taniyan in the beginning, colophon mentions it as work of VD and the last line also claims the same. No reason to suspect it's authenticity, unless we have specific proof that it is not his work. - रविलोचनः
+
+Vaikhanasa-s (including 19th CE sundararAja) acknowledge this work, and have published it's translation.
 </details>
 
 
 **॥ सज्जन-वैभवम् ॥**
 
-रामानुज-दया-पात्रं ज्ञान-वैराग्य-भूषणम् ।  
-श्रीमद्-वेङ्कटनाथार्यं वन्दे वेदान्त-देशिकम् ॥
+रामानुज-दया-पात्रं  
+ज्ञान-वैराग्य-भूषणम् ।  
+श्रीमद्-वेङ्कटनाथार्यं  
+वन्दे वेदान्त-देशिकम् ॥
 
 ## प्रतिज्ञा
 सर्वाधीश्वर-लक्ष्मीश-  

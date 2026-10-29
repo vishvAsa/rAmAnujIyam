@@ -17,6 +17,8 @@ Source: [TW](https://archive.org/details/vaikhAnasa-tattva-granthAH)
 विरचित-  
 **वैखानस-विजय-भूमिका-सहितः**
 
+<details><summary>प्रकाशन-विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 अभिनवदेशिकान्तेवासिनां  
 सत्-सम्प्रदाय-शेवधि-पैयम्बाडि  
 **श्री-उ.वे.-वेङ्कटवरदार्य-महादेशिकानां**  
@@ -30,8 +32,6 @@ Source: [TW](https://archive.org/details/vaikhAnasa-tattva-granthAH)
 ---
 **First Edition 1963**  
 **Second Edition 2002**
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 **CR: Sri. T.Srinivasaraghavan**  
 **Sri. T.V.Rajagopal**
