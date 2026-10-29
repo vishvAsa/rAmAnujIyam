@@ -38,7 +38,9 @@ In both systems, the act of your will only muddy the waters. in both systems, "l
 
 > not a descent into unconscious, rock-like insensibility (jaDatva)
 
-Rather, a descent into pashutva, or perhaps ajIvikatva - [TW](https://x.com/banana_sethhh/status/1918973752362111110/video/1)
+Is this then a descent into pashutva, or perhaps ajIvikatva - [TW](https://x.com/banana_sethhh/status/1918973752362111110/video/1)?  
+
+Tenks may be said to have "openness to the mystery" beyond "stopping one's effort" which ajIvika-s show. But then that can't be said to be any greater than what proper prapanna-s or even post-sannyAsa shAnkara-s have.
 </details>
 
 
