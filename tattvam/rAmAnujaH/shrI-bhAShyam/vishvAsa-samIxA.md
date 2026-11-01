@@ -56,3 +56,6 @@ photon-विकिरणम् भवत्य् एव।
 दूर-स्थम् अपि गृह्यते॥
 
 इति तु तत्र साधु निगमनम्। 
+
+## इन्द्र-प्राणाधिकरणे प्रकरणत्यागः
+रामानुजेनाल्पो दोषः कृतो भाति। विस्तारस् तत्रैव दृश्यताम् – Source: [TW](/rAmAnujIyam/tattvam/rAmAnujaH/shrI-bhAShyam/sarva-prastutiH/1_samanvayaH/1_ayoga-vyavachChedaH/11_indraprANAdhikaraNam) ।  
