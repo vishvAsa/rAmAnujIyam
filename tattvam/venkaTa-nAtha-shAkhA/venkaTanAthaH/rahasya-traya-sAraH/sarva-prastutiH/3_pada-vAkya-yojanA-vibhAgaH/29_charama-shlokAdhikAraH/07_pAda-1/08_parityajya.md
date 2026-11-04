@@ -3,13 +3,13 @@ title = "०८ परित्यज्य"
 +++
 <details><summary>English</summary>
 
-THE MEANING OF PARITYAJYA (HAVING GIVEN UP).  
+THE MEANING OF PARITYAJYA (HAVING GIVEN UP). 
 page528
 </detailsa>
 
 <details><summary>Español</summary>
 
-EL SIGNIFICADO DE PARITYAJYA (**HABIENDO RENDIDO**).  
+EL SIGNIFICADO DE PARITYAJYA (**HABIENDO RENDIDO**). 
 página 528
 </details>
 
@@ -21,10 +21,9 @@ página 528
 
 <details><summary>नीलमेघः (सं)</summary>
 
-"परित्यज्य" इत्यत्र  
+"परित्यज्य" इत्यत्र 
 त्यागो नाम - 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -36,7 +35,6 @@ In the word parityajya, the 'giving up' or abandonment **consists in**
 En la palabra parityajya, el 'abandono' **consiste en**
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ‘‘परित्यज्य’’ ऎऩ्गिऱविडत्तिल् त्यागमावदु, 
@@ -47,19 +45,32 @@ En la palabra parityajya, el 'abandono' **consiste en**
 इऩि परित्यज्य ऎऩ्बदऱ्कु अर्थमरुळिच्चॆय्बप्पोगिऱवराय्, अदु उपसर्गम्, धातु, ल्यप्, ऎऩ्ऱिम्मूऩ्ऱु रूबमायिरुप्पदाल् अदिल् प्रधानमाऩ धातुवुक्कु अर्थमरुळिच् चॆय्गिऱार् परित्यज्य ऎऩ्गिऱविडत्तिल् त्यागमावदु इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**परित्यज्य ऎम्ब पदद अर्थवु - अदरल्लिरुव त्याग-शब्दार्थवु.**
+
+**"परित्यज्य", ऎङ्गिरविडत्तिल्"** - ऎन्दु हेळिरुवुदरल्लि, **त्यागमावदु ?** - त्यागवॆन्दरॆनु ? 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+**परित्यज्य**वॆन्दरॆ परित्यागवन्नु माडि ऎन्दर्थवागुत्तदॆ, अल्लिरुव त्यागक्कॆ एनु अर्थवु ? ऎन्दरॆ हेळुत्तारॆ. आ शब्ददल्लि मूरु अंशगळिवॆ - (१) परि ऎम्ब उपसर्गवु (२) धातुवु (३) ल्यप्-प्रत्ययवु. मॊदलु धात्व्-अर्थवन्नु उपपादिसुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘अनया च प्रपत्त्या माम्  
-आकिञ्चन्यैक-पूर्वकम्’’()  
+> ‘‘अनया च प्रपत्त्या माम् 
+आकिञ्चन्यैक-पूर्वकम्’’() 
 
 इत्य्-आदिगळिऱ् पडिये
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘अनया च प्रपत्त्या माम्  
-आकिञ्चन्यैक-पूर्वकम्’’()  
+> ‘‘अनया च प्रपत्त्या माम् 
+आकिञ्चन्यैक-पूर्वकम्’’() 
 
 इत्य्-आद्य्-उक्त-रीत्या 
 </details>
@@ -79,10 +90,9 @@ porque **se ha dicho**,
 </details>
 
 
-
 <details><summary>मूलम्</summary>
 
-‘‘अनया च प्रपत्त्या मामाकिञ्चन्यैकपूर्वकम्’’()  इत्यादिगळिऱ्पडिये
+‘‘अनया च प्रपत्त्या मामाकिञ्चन्यैकपूर्वकम्’’() इत्यादिगळिऱ्पडिये
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -90,10 +100,15 @@ porque **se ha dicho**,
 अनया चेति । इतरोपायनैराश्यपूर्वकमाग इन्द प्रपत्तियिऩालेये ऎऩ्ऩै वशीकरिक्कक्कडवऩॆऩ्गै। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(१) **"अनया प्रपत्त्या च** - ई प्रपत्तिय मूलकवागिये, **आकिञ्चन्यैक-पूर्वकम्** - उपायान्तरवन्नु अवलम्बिसलु तानु अ-समर्थनादुदरिन्द, आकिञ्चन्य-पूर्वकवागि, **मां** - नन्नन्नु श्रयिसतक्कदॆम्ब भाववु" **इत्य्-आदिगळिर् पडिये** - इवे मॊदलाद प्रमाणगळल्लि हेळिरुव हागॆ, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अकिञ्चनऩ् आऩ तऩ्ऩिलैयैक् कण्डु  
+अकिञ्चनऩ् आऩ तऩ्ऩिलैयैक् कण्डु 
 उपायान्तरङ्गळिऱ् पिऱन्द नैराश्यम्।
 </details>
 
@@ -102,50 +117,62 @@ porque **se ha dicho**,
 अकिञ्चनस्य स्वस्य दशा-दर्शनेनोपायान्तरेषु जातं नैराश्यम् । 
 </details>
 
-
 <details><summary>English</summary>
 
-the **aversion** to other kinds of upāya (than prapatti),  
+the **aversion** to other kinds of upāya (than prapatti), 
 which **arises** from a **consideration** of one's **being destitute** of the competency for them. 
 </details>
 
 <details><summary>Español</summary>
 
-la **aversión** a otros tipos de upāya (que no **sean** prapatti),  
+la **aversión** a otros tipos de upāya (que no **sean** prapatti), 
 que **surge** de una **consideración** de que uno **está desprovisto** de la competencia para ellos.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 अकिञ्चनऩाऩ तऩ्ऩिलैयैक् कण्डु उपायान्तरङ्गळिऱ् पिऱन्द नैराश्यम्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अकिञ्चननान तन्निलै कण्डु** - अ-समर्थनागिरुव तन्न दॆशॆयन्नु कण्डु, **उपायान्तरङ्गळिल्** - उपासनवाद बेरॆ उपायदल्लि ऎन्दरॆ उपायदल्लिरुव अ-शक्ततॆयिन्द ऎम्ब भाववु, **पिरन्द** - हुट्टिद, **नैराश्यम्** - अदन्नवलम्बिसबेकॆम्ब आशॆयन्नु तॊरॆयुविकॆयु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+सार-विवरणॆयवरु ई त्याग-शब्दवन्नु नाल्कु विधवागि विकल्पिसि, अवु यावुदू ई प्रपदन-विषयवाद योजनॆयल्लि आगुवदिल्लवॆन्दु उपपादिसुत्तारॆ. ई त्यागवेनु (१) फल-सङ्ग-कर्तृत्वगळ त्यागवे अथवा (२) स्व-रूप-त्यागवे (३) प्रपत्त्य्-अङ्गवल्लदिदुरिन्द अदर त्यागवे, अथवा (४) अङ्गत्व-बुद्धि-त्यागवे ? ऎन्दरॆ इवु ऒन्दू अल्लवु. (१) गीता-भाष्यदल्लि उपासन-परवागि फल-सङ्ग-कर्तृत्व-त्यागवॆन्दु अर्थमाडिरुवदरिन्द मॊदलिन विकल्पवु कूडुवदिल्लवु, 
+
+[[P60]]
+
+(२) अ-शक्तनादवनिगॆ आ उपासन-सम्बन्धवे अ-प्रस्तुतवादुदरिन्द अदर स्व-रूप-त्यागवॆम्बर्थवु सरिहोगुवदिल्लवु. प्रारम्भ माडुवुदक्कॆ अ-शक्ततॆ इरुवाग, इन्नु त्यागवॆल्लियदु ? आदुदरिन्द अनुवादवॆन्दागलि, विधि ऎन्दागलि भाविसुवदक्कॆ साध्यवे इल्लवु. (३) बेरॆ उपायवाद उपासनॆय अङ्गगळु ई भर-न्यासक्कॆ अङ्गवागलारदादुदरिन्द अदर त्यागवॆन्दरॆ अ-सङ्गतवादुदागुत्तदॆ. (४)नॆय विकल्पवू सरियल्लवु. एकॆन्दरॆ प्रपत्तिगॆ हेळिरुव अङ्गगळल्लदॆ, बेरॆ अङ्गगळागि यावुवु इल्लवु. आदुदरिन्दले त्यागवु नैराश्यवु. बेरॆ उपायवाद उपासनॆयु ननगॆ फल-सादिसिकॊट्टीतॆम्ब आशॆयन्नु तॊरॆयुवदे त्यागवॆम्ब भाववु. अदु हेगॆम्बुदन्नु तिळिसुत्तारॆ - त्याग-शब्दक्कॆ साधारणवागि अर्थवु स्वीकरिसिद्दन्नु बिट्टुबिडुवदु ऎम्बुदु. हीगॆ अर्थवादरॆ मॊदलु उपासनवन्नु आरम्भिसिद्दुदन्नु बिट्टु ऎम्ब अपार्थ उण्टागुत्तदॆ. हागॆ अर्थवल्लवॆम्ब भावदिन्द हेळुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आसैयाले पऱ्ऱ् आऩाल्  
+आसैयाले पऱ्ऱ् आऩाल् 
 "आसैयै विडुगै त्यागम्" ऎऩ्ऩ उचितम् इऱे।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-आशया ग्रहणे क्रियमाणे,  
+आशया ग्रहणे क्रियमाणे, 
 आशात्यागस् त्याग इति सुवचः किल । 
 </details>
 
 <details><summary>English</summary>
 
-If there **is connection** due to **desire**,  
+If there **is connection** due to **desire**, 
 the **giving up** of that **desire** **is** certainly tyāga or **renunciation**.
 </details>
 
 <details><summary>Español</summary>
 
-Si **hay conexión** por **deseo**,  
+Si **hay conexión** por **deseo**, 
 **renunciar** a ese **deseo es** ciertamente tyāga o **renunciación**.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -157,20 +184,22 @@ Si **hay conexión** por **deseo**,
 उपायत्तै विडुगै त्यागशब्दार्थमाग इरुक्क नैराश्यत्तै त्यागशब्दार्थमागच् चॊल्ललामो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् आसैयाले पऱ्ऱाऩालिति । आसैयिऩाले उपायान्तरत्तिल् सम्बन्धमागिल् आशारूपकारणाभावे उपायान्तरसम्बन्धरूपकार्याभावम् स्वतः सिद्धिक्कुमागैयाल् इङ्गु सम्बन्धाभावरूपत्यागवचनम् तत्कारणीभूताशाभावत्तै उपचारत्ताले बोधिक्कुमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
 
+**आशॆयाले पत्तानाल्** - आशॆय मूलकवागि बन्दु परिगृहीतवागुवन्ताद्दादरॆ, **आशॆयैबिडुगै** - आग आशॆयन्नु बिडबहुदु, अदु **त्यागमॆन्र उचितमिरे** - अदर त्यागवॆन्दु हेळुवदु सरियु, उपायान्तरवाद उपासनवु ननगॆ फलवन्नु साधिसिकॊडुत्तदॆ ऎम्बुदर आशॆयन्नु बिडुवुदे त्याग-शब्दार्थवु. 
 
+</details>
 
 ## परि
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-> अत्र 'परि' इत्य् उपसर्गः  
-कर्म-ज्ञानयोर् अपि भक्ति-योगाङ्ग-भूतयोर् अनधिकारं द्योतयति ।+++(5)+++  
+> अत्र 'परि' इत्य् उपसर्गः 
+कर्म-ज्ञानयोर् अपि भक्ति-योगाङ्ग-भूतयोर् अनधिकारं द्योतयति ।+++(5)+++ 
 अतो वर्णाश्रम-धर्मादीनां न परित्याग-प्रसङ्गः ॥
 
 इति कुमारवरदः। 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -182,7 +211,6 @@ Si **hay conexión** por **deseo**,
 तत्र 'परि' इत्युपसर्गेण 
 </details>
 
-
 <details><summary>English</summary>
 
 The preposition pari (before tyaj) 
@@ -192,7 +220,6 @@ The preposition pari (before tyaj)
 
 La preposición pari (antes de tyaj)
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -204,50 +231,60 @@ La preposición pari (antes de tyaj)
 इऩि परि ऎऩ्गिऱ उपसर्गार्थत्तैयरुळिच्चॆय्गिऱार् अदिल् परि ऎऩ्गिऱ उपसर्गत्ताले इति । नैराश्यम् त्यागशब्दार्थमाऩाल् परि ऎऩ्गिऱ उपसर्गम् अदिऩ् अतिशयत्तैच्चॊल्लुमिऱे। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
 
+**अदिल्** - आ परित्यज्य ऎम्ब पददल्लिरुव, **परि ऎङ्गिर उपसर्गत्ताले** - परि ऎम्ब उपसर्गदिन्द, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’  
+> ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’ 
 (श्रीरङ्गगद्यम्), 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’  
+> ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’ 
 (श्रीरङ्गगद्यम्), 
 </details>
 
 <details><summary>English</summary>
 
-> “I **see** no means of **crossing** (the sea of samsāra) in all the eternity of time  
+> “I **see** no means of **crossing** (the sea of samsāra) in all the eternity of time 
 which **lies** before me," 
 </details>
 
 <details><summary>Español</summary>
 
-> “Yo **no veo** ningún medio de **cruzar** (el mar del samsāra) en toda la eternidad del tiempo  
+> “Yo **no veo** ningún medio de **cruzar** (el mar del samsāra) en toda la eternidad del tiempo 
 que **yace** delante de mí",
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 ‘‘अनागतानन्तकालसमीक्षयाप्यदृष्टसन्तारोपायः’’(श्रीरङ्गगद्यम्), 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अनागतानन्त-काल-समीक्षयापि** - मुन्दॆ बहु-कालानन्तरदल्लू कूड निरीक्षिसिदरू, **अ-दृष्ट--सन्तारोपायः** - उपायान्तरवाद भक्ति-योगद मूलक संसारवन्नु दाटुव उपायवन्नु काणदवनागि, - (श्री-रङ्ग-गद्यम्) ऎन्दरॆ भक्ति-योगदल्लि अ-शक्तनादुदरिन्द इन्नु मुन्दक्कू ऎष्टु काल निरीक्षिसिदरू तनगॆ संसारवन्नु दाटुव उपायवु काणदॆ ऎम्बर्थवु. मत्तु 
+
+[[P61]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘त्वत्-पाद-कमलाद् अन्यन्  
-न मे जन्मान्तरेष्व् अपि’’  
+> ‘‘त्वत्-पाद-कमलाद् अन्यन् 
+न मे जन्मान्तरेष्व् अपि’’ 
 (जितन्ता-स्तोत्रम् १-१०) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘त्वत्-पाद-कमलाद् अन्यन्  
-न मे जन्मान्तरेष्व् अपि’’  
+> ‘‘त्वत्-पाद-कमलाद् अन्यन् 
+न मे जन्मान्तरेष्व् अपि’’ 
 (जितन्ता-स्तोत्रम् १-१०) 
 </details>
 
@@ -255,8 +292,8 @@ que **yace** delante de mí",
 
 and 
 
-> "It **is** only by the lotus feet of the Lord  
-that I **shall attain** the **desired** goal.  
+> "It **is** only by the lotus feet of the Lord 
+that I **shall attain** the **desired** goal. 
 I **have** no other means of **attaining** spiritual welfare in any of my births."
 </details>
 
@@ -264,8 +301,8 @@ I **have** no other means of **attaining** spiritual welfare in any of my births
 
 y 
 
-> "Es ** sólo por los pies de loto del Señor  
-que **alcanzaré** la meta **deseado**.  
+> "Es ** sólo por los pies de loto del Señor 
+que **alcanzaré** la meta **deseado**. 
 **No tengo** otros medios para **alcanzar** bienestar espiritual en ninguno de mis **nacimientos**".
 </details>
 
@@ -274,55 +311,71 @@ que **alcanzaré** la meta **deseado**.
 ‘‘त्वत्पादकमलादन्यन्न मे जन्मान्तरेष्वपि’’(जितन्ता-स्तोत्रम् १-१०) 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**त्वत्-पाद-कमलाद् अन्यत्** - निन्न पाद-कमलगळिगिन्त बेरॆ ऎन्दरॆ पाद-कमलदल्लि माडुव शरणागतियल्लद, बेरॆ यावुदू **जन्मान्तरेषु** - बेरॆ जन्मदल्लेयागलि, **मे** - अकिञ्चननाद ननगॆ, **न** - इल्लवु. ननगॆ स्वामि-पाद-कमलवल्लदॆ बेरॆ गतियिल्लवॆम्ब भाववु," - (जिनन्ता-स्तोत्रम्)
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्य्-आदिगळिऱ् पडिये  
-अत्यन्ताकिञ्चनऩुक्कु  
-सर्व-कालत्तिलुम् सर्व-प्रकारत्तालुम् योग्यतैय् इल्लामै तॆळिगैयाले  
+इत्य्-आदिगळिऱ् पडिये 
+अत्यन्ताकिञ्चनऩुक्कु 
+सर्व-कालत्तिलुम् सर्व-प्रकारत्तालुम् योग्यतैय् इल्लामै तॆळिगैयाले 
 पिऱन्द नैराश्यातिशयञ् जॊल्लप् पडुगिऱदु। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-इत्य्-आद्य्-उक्त-रीत्या  
-अत्यन्ताकिञ्चनस्य  
-सर्व-कालेषु सर्व-प्रकार-योग्यता-राहित्यस्य ज्ञानेन  
+इत्य्-आद्य्-उक्त-रीत्या 
+अत्यन्ताकिञ्चनस्य 
+सर्व-कालेषु सर्व-प्रकार-योग्यता-राहित्यस्य ज्ञानेन 
 जातो नैराश्यातिशय उच्यते । 
 </details>
 
-
 <details><summary>English</summary>
 
-(This prefix) **is** to **show** the extreme **aversion arising** from the lack of competence (for other upāyas )  
-at all times and in every form,  
-which the person **destitute** of upāyas **has come to realise** in himself  
+(This prefix) **is** to **show** the extreme **aversion arising** from the lack of competence (for other upāyas ) 
+at all times and in every form, 
+which the person **destitute** of upāyas **has come to realise** in himself 
 as **expressed** in the above passages.
 </details>
 
 <details><summary>Español</summary>
 
-(Este prefijo) **es** para **mostrar** la **aversión** extrema que **surge** de la falta de competencia (para otros upāyas)  
-en todo momento y en toda forma,  
+(Este prefijo) **es** para **mostrar** la **aversión** extrema que **surge** de la falta de competencia (para otros upāyas) 
+en todo momento y en toda forma, 
 
-que la persona **desposeída** de upāyas **ha llegado a realizar** en sí misma  
+que la persona **desposeída** de upāyas **ha llegado a realizar** en sí misma 
 como **expresado** en los pasajes anteriores.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 इत्यादिगळिऱ् पडिये अत्यन्ताकिञ्चनऩुक्कु सर्वकालत्तिलुम् सर्वप्रकारत्तालुम् योग्यतैयिल्लामै तॆळिगैयाले पिऱन्द नैराश्यातिशयञ्जॊल्लप्पडुगिऱदु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इत्य्-आदिगळिर् पडिये** - इवे मॊदलाद प्रमाणगळल्लि हेळिरुव हागॆ, **अत्यन्ताकिञ्चननुक्कु** - भक्ति-योगवन्नू तत्-परिकरगळन्नू अनुष्ठिसलु अत्यन्ताशक्तनागि अकिञ्चननागिरुववनिगॆ, सर्व-कालदल्लू, सर्व-प्रकारदल्लू, योग्यतॆ इल्लदिरोणवु, **तॆळिगैयाले** - तोरबन्दुदरिन्द, **पिरन्द** - उण्टाद, **नैराश्यातिशयम्** - नैराश्याधिक्यवु ऎन्दरॆ भक्ति-योगदल्लि तनगॆ सुतराम् आशॆयिल्लदिरोणदर आधिक्यवु, **शॊल्लपडुगिरदु** - हेळल्पडुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+परित्यज्य ऎम्बल्लिरुव त्यागवु भक्ति-योगदल्लि आशॆयन्नु तॊरॆयोणवन्नु सूचिसुत्तदॆन्दू, **परि** ऎम्ब उपसर्गदिन्द अत्यन्तवागि आशॆयन्नु तॊरॆयोणवन्नु सूचिसुत्तदॆन्दू तिळिसिदरु. **त्याग**-शब्ददिन्दले भक्ति-योगवेनु तत्-परिकरगळ अनुष्ठानवेनु इवुगळॆल्लवू हेळल्पट्टरॆ, **परि** ऎम्ब उपसर्गक्कॆ याव अर्थवॆन्दरॆ, मुन्दॆ अनन्त-काल-निरीक्षिसिदरू, ऎन्दिगू तनगॆ योग्यतॆयुण्टागुवदिल्ल ऎम्ब अत्यन्त-नैराश्यवन्नु ई उपसर्गवु बोधिसुत्तदॆन्दु हेळिदरु. ई नैराश्यातिशय-शब्ददिन्द सम्पूर्णवाद सर्व-प्रकार-त्यागवु परित्यज्यवॆम्बुदरिन्द हेळल्पट्टरॆ, ई सर्व-प्रकार-त्यागक्कॆ एनु अर्थवॆन्दरॆ, उपपादिसुत्तारॆ -
+
+[[P62]]
+
+</details>
 
 ### यथा-शक्त्य्-अनुष्ठानं न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व-प्रकारत्तालुम् त्यागम् आवदु;  
+सर्व-प्रकारत्तालुम् त्यागम् आवदु; 
 
-> पूर्णानुष्ठान-शक्तिय् इल्लाद बोदु  
+> पूर्णानुष्ठान-शक्तिय् इल्लाद बोदु 
 यथा-शक्त्य्-अनुष्ठानम् पण्णुगिऱोम् 
 
 ऎऩ्ऱुम्, 
@@ -330,48 +383,52 @@ como **expresado** en los pasajes anteriores.
 
 <details><summary>नीलमेघः (सं)</summary>
 
-सर्व-प्रकारैस् त्यागो नाम -  
+सर्व-प्रकारैस् त्यागो नाम - 
 
-> पूर्णानुष्ठान-शक्त्य्-अभावे  
+> पूर्णानुष्ठान-शक्त्य्-अभावे 
 यथा-शक्त्य्-अनुष्ठानं कुर्म 
 
 इति, 
 </details>
 
-
 <details><summary>English</summary>
 
-"**Aversion** in every form" **means**  
+"**Aversion** in every form" **means** 
 
-> “Though I **cannot adopt** the upāya in full perfection,  
-I **will do** it to the best of my ability;  
+> “Though I **cannot adopt** the upāya in full perfection, 
+I **will do** it to the best of my ability; 
 </details>
 
 <details><summary>Español</summary>
 
-"**Aversión** en todas sus formas" **significa**  
+"**Aversión** en todas sus formas" **significa** 
 
-> “Aunque **no puedo adoptar** el upāya en plena perfección,  
+> “Aunque **no puedo adoptar** el upāya en plena perfección, 
 Lo **haré** lo mejor que pueda;
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 सर्वप्रकारत्तालुम् त्यागमावदु; पूर्णानुष्ठानशक्तियिल्लादबोदु यथाशक्त्यनुष्ठानम् पण्णुगिऱोमॆऩ्ऱुम्, 
 </details>
 
-
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 नैराश्यत्तुक्कु अतिशयमावदु सर्वप्रकारत्तालुम् त्यागमाग मुडिगैयाल् सर्वप्रकारत्यागत्तै विवरिक्किऱार् सर्वप्रकारत्तालुम् त्यागमावदु इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**परित्यज्य ऎम्ब पदक्कॆ अनुवादार्थवन्नु हेळुत्तारॆ** - 
+
+**सर्व-प्रकारत्तालुम् त्यागमावदु ?** सर्व-प्रकारदिन्दलू आ नाना-विध--ब्रह्म-विद्यॆगळन्नु स-परिकरवागि बिडोणवॆन्दरेनु ? **पूर्णनुष्ठानम् शक्तियिल्लादपोदु** - सम्पूर्णवागि आ ब्रह्म-विद्यॆगळल्लि यावुदादरू ऒन्दन्नु अनुष्ठिसुव शक्तियिल्लदिरुवाग, **यथा-शक्त्य्-अनुष्ठानम् * पण्णुगिरोमॆन्रुम्** - तमगॆ शक्ति इरुवष्टन्नादरू अनुष्ठिसुवॆवॆन्दागलि, अथवा 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अदुक्कु योग्यतैय् इल्लाद दशैयिले  
-वेऱे सिल अनुकल्पङ्गळैय् आदल्  
+> अदुक्कु योग्यतैय् इल्लाद दशैयिले 
+वेऱे सिल अनुकल्पङ्गळैय् आदल् 
 उपायोपायङ्गळैय् आदल् अनुष्ठिक्किऱोम्
 
 ऎऩ्ऱुम्, 
@@ -381,24 +438,23 @@ Lo **haré** lo mejor que pueda;
 
 [[३५३]] 
 
-> तद्-योग्यता-विरह-दशायाम्  
+> तद्-योग्यता-विरह-दशायाम् 
 अन्यान् कांश्चिदनुकल्पान् वा उपायोपायान् वाऽनुतिष्ठाम 
 
 इति 
 </details>
 
-
 <details><summary>English</summary>
 
-> when that also **is** too difficult to **perform**,  
-I **will adopt**, in the place of the **prescribed** aṅgas, something less difficult  
+> when that also **is** too difficult to **perform**, 
+I **will adopt**, in the place of the **prescribed** aṅgas, something less difficult 
 or the upāyas which **will produce** the **prescribed** upāyas",
 </details>
 
 <details><summary>Español</summary>
 
-> cuando eso también **es** demasiado difícil de **realizar**,  
-**Adoptaré**, en lugar de los **aṅgas prescritos**, algo menos difícil.  
+> cuando eso también **es** demasiado difícil de **realizar**, 
+**Adoptaré**, en lugar de los **aṅgas prescritos**, algo menos difícil. 
 o los upāyas que **producirán** los upāyas **prescritos**",
 </details>
 
@@ -407,6 +463,11 @@ o los upāyas que **producirán** los upāyas **prescritos**",
 अदुक्कु योग्यतैयिल्लाद दशैयिले वेऱे सिल अनुकल्पङ्गळैयादल् उपायोपायङ्गळैयादलनुष्ठिक्किऱोम् ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अदुक्कु योग्यतॆ इल्लाद** - आ उपासनक्कॆ योग्यतॆ इल्लदिरुव, **दशैयिल्** - अवस्थॆयल्लि, **वेरेशिल अनुकल्पङ्गळैयादल्** - साक्षात्तागि अदन्ने अनुष्ठिसलु आगदॆ इरुवदरिन्द अदक्कॆ बदलागि इन्नु यावुदन्नागलि, **उपायोपायङ्गळैयादल्** - उपायक्कॆ साधनगळन्नागलि, **अनुष्ठिक्किरोम्** - अनुष्ठिसुवॆवु, **ऎन्रुम्** - ऎम्बदागि 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,22 +479,20 @@ o los upāyas que **producirán** los upāyas **prescritos**",
 स्वस्य दुष्करेषु प्रवर्तमानाया दुराशाया अभावः । 
 </details>
 
-
 <details><summary>English</summary>
 
-\- **being** without the improper **desire** to **perform**  
-what **is** impossible for a man  
+\- **being** without the improper **desire** to **perform** 
+what **is** impossible for a man 
 with the (above) thoughts. 
 
 </details>
 
 <details><summary>Español</summary>
 
-\- **ser** sin el **deseo** inapropiado de **actuar**  
-¿Qué **es** imposible para un hombre?  
+\- **ser** sin el **deseo** inapropiado de **actuar** 
+¿Qué **es** imposible para un hombre? 
 con los **pensamientos** (arriba).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -445,12 +504,41 @@ con los **pensamientos** (arriba).
 दुष्करङ्गळैक् कणिसिक्कुम् - दुष्करङ्गळै विषयीगरिक्कुम्, दुराशैयऱ्ऱिरुक्कै इति । इङ्गु सर्वप्रकारत्तालुम् त्यागमावदु ऎऩ्ऱारम्बित्तु दुराशैयऱ्ऱिरुक्कै ऎऩ्ऱु मुडिक्कैयाल् कीऴ्च्चॊऩ्ऩबडि प्रयोज्यप्रयोजकयोरभेदोपचारम् प्रदर्शितमायिऱ्ऱु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**तनक्कु** - तनगॆ, **दुष्करङ्गळै** - अ-साध्यवादवुगळन्नु, **कणशिक्कुम्** - इच्छिसुव, **दुराशै** - कॆट्ट आशॆयन्नु, **अत्तिरुक्कै** - बिट्टिरोणवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+सर्व-प्रकारदिन्दलू बिडुवदु ऎन्दरॆ उपायान्तरवाद भक्ति-योगदल्लि सर्व-विधवाद सम्बन्धवन्नू त्याग माडबेकॆन्दु हेळल्पट्टितु. सरियागि अदन्नु अनुष्ठिसलु शक्ति इल्लवॆन्दु भाविसि शरणागतियन्ननुष्ठिसुवॆनॆन्दू, यथा-शक्ति उपायान्तरवन्नू अनुष्ठिसुवॆनॆन्दू होगकूडदु, **स्नानं सप्त-विधम्** ऎन्दु हेळिरुव हागॆ अवगाहन-स्नान माडलु शक्तियिल्लदवनु अनुकल्पवाद मन्त्र-स्नानवन्नु अनुष्ठिसुव हागॆ, भक्ति-योगक्कॆ बरलागि बेरॆ इन्नोन्दन्नु अनुष्ठिसुवनॆन्दु होगकूडदु, अथवा भक्ति-योगद साधनगळन्नादरू अनुष्ठिसुवनॆन्दू होगकूडदु, इन्तह अनुष्ठानगळल्लि यावुदन्नागलि माडुवॆनॆम्ब दुराशॆयन्नु त्याग माडतक्कदु. इन्तह परित्यागवीग सर्व-प्रकार-त्यागवॆन्दु उपदेशिसिदरु.
+
+[[P63]]
+
+हीगॆ परित्यज्यवॆम्बल्लिरुव **त्याग** शब्दक्कू **परि** ऎम्ब उपसर्गक्कू अर्थवन्नु हेळि, मुन्दॆ लॆप् प्रत्ययद अर्थवन्नु विवरिसि हेळुत्तारॆ - लॆप् पत्ययद प्रयोगवु हेगॆन्दरॆ - ऒब्ब अधिकारियु ऎरडु कार्यगळन्नु माडिदरॆ अदरल्लि ऒन्दु पूर्व-कालिकवागिरुवदक्कॆ लॆप्पाद त्वा प्रत्ययवु बरुत्तदॆ. इल्लि त्यक्त्वा ऎम्बुदक्कॆ परि ऎम्ब उपसर्ग बन्दिरुवदरिन्द परित्यज्य ऎन्दागिरुत्तदॆ. हागॆये **भुक्त्वा** ऎम्बुदक्कॆ **परि** ऎम्ब उपसर्ग सेरॆसिदरॆ **परिभुज्य**वॆन्दागुत्तदॆ, ई लॆप्पु अनुवादार्थदल्लू, विध्य्-अर्थदल्लू प्रयोगिसुवदुण्टु. हेगॆन्दरॆ,- 
+
+> भुक्त्वा चान्द्रायणं चरेत् 
+
+दोष-युक्त ऊटमाडिदुदादरॆ आ दोषक्कागि चान्द्रायण-व्रतवन्नु आचरिसतक्कद्दु. इल्लि भुक्त्वा ऎम्बल्लि अनुवादार्थवु. **स्नात्वा भुञ्जीत** - स्नानमाडिये ऊटमाडतक्कद्दु, **प्रक्षाल्याचमेत** - कालु तॊळकॊण्डे आचमनमाडतक्कद्दु; **दर्भान् अद्भिस् संस्पृश्य अग्नौ प्रहरति** - दर्भॆगळन्नु नीरिनिन्द मुट्टि अग्नियल्लि होम माडतक्कद्दु, इत्य्-आदि-स्थळगळल्लि, **स्नात्वा, प्रक्षाल्य, संस्पृश्य** ऎम्ब पदगळल्लिन लॆप्पु विधि-पदवु, एकॆन्दरॆ स्नान माडिये, कालु तॊळकॊण्डे, नीरन्नु मुट्टिये ऎम्ब क्रियॆगळिन्द, स्नान माडदॆ, कालु तॊळॆयदॆ, नीरन्नु मुट्टदॆ, नडॆसतक्कद्दल्लवॆम्ब विधियु ए‌र्पडुत्तदॆ. इल्लि इरुव परित्यज्य ऎम्बल्लिरुव लॆप्पु अनुवादवे ? अथवा विधिये ? अथवा ऎरडु विधवागियू भाविसबहुदे ? ऎम्ब सन्दर्भगळन्नु चर्चिसि, अन्तह भावनॆगळिन्दुण्टागुव प्रयोजनगळन्नु तिळिसुत्तारॆ - 
+
+</details>
 
 ## अधिकार-परता
 
+<details><summary>विजय-राघवः (क) - अवतारिक</summary>
+
+**अनुवादार्थदिन्द उण्टागुव प्रयोजनवु** 
+
+**परित्यज्य** ऎम्बुदक्कॆ स-परिकरगळाद नाना-ब्रह्म-विद्यॆगळ दुष्करतॆयिन्द सर्व-प्रकारदिन्दलू परित्यागमाडि ऎन्दु हीगॆ अनुवाद रूपार्थवन्नु लॆप्पिगॆ हेळिदुदरिन्द उण्टागुव प्रयोजनवेनु ? ऎन्दरॆ तिळिसुत्तारॆ.- 
+
+[[P64]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व् +++(सिद्धस्यैव)+++ अनुवादत्तुक्कु  
+इव्व् +++(सिद्धस्यैव)+++ अनुवादत्तुक्कु 
 अधिकार-विशेषत्तैक् काट्टुगै प्रयोजनम्।
 </details>
 
@@ -461,37 +549,36 @@ con los **pensamientos** (arriba).
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-> अनित्यम् असुखं लोकम्  
+> अनित्यम् असुखं लोकम् 
 इमं प्राप्य पभजस्व माम्। 
 
-इत्यत्राप्य् अधिकार-बोधन-परो ऽनुवाद एव ल्यबन्तेन - पूर्वम् एव लोकः प्राप्तो जन्मना।  
+इत्यत्राप्य् अधिकार-बोधन-परो ऽनुवाद एव ल्यबन्तेन - पूर्वम् एव लोकः प्राप्तो जन्मना। 
 अधिकार-बोधकत्वाद् अनुवादो व्यर्थो ऽपि न। 
 
-> “+++(म्लेच्छादीन्)+++ संभाष्य पुण्यकृतो मनसा ध्यायेत्”  
+> “+++(म्लेच्छादीन्)+++ संभाष्य पुण्यकृतो मनसा ध्यायेत्” 
 
 इत्यत्रापि तथा। 
 
-विधाव् अंशाः - नियोगः, नियोग+++(=अङ्गि)+++-स्वरूपम्, अधिकारि-विशेषणम्, फलम्, इति-कर्तव्यता +++(=अङ्ग-स्वरूपम्)+++, करणम्।  
+विधाव् अंशाः - नियोगः, नियोग+++(=अङ्गि)+++-स्वरूपम्, अधिकारि-विशेषणम्, फलम्, इति-कर्तव्यता +++(=अङ्ग-स्वरूपम्)+++, करणम्। 
 अत्राधिकारि-विशेषणम् मुख्यम् एव। 
 </details>
 
 <details><summary>English</summary>
 
-The object of this anuvāda (**statement** of what **has already occurred**)  
-**namely** "sarva dharmān parityajya" (which is not a vidhi or injunction)  
-**is** to **indicate** the person  
+The object of this anuvāda (**statement** of what **has already occurred**) 
+**namely** "sarva dharmān parityajya" (which is not a vidhi or injunction) 
+**is** to **indicate** the person 
 who **is** specially competent to **adopt** prapatti. 
 </details>
 
 <details><summary>Español</summary>
 
-El objeto de esta anuvāda (**declaración** de lo que **ya ha ocurrido**)  
-**a saber** "sarva dharmān parityajya" (que **no es** un vidhi o mandato)  
+El objeto de esta anuvāda (**declaración** de lo que **ya ha ocurrido**) 
+**a saber** "sarva dharmān parityajya" (que **no es** un vidhi o mandato) 
 
-**es** para **indicar** la persona  
+**es** para **indicar** la persona 
 quien **es** especialmente competente para **adoptar** prapatti.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -500,16 +587,26 @@ quien **es** especialmente competente para **adoptar** prapatti.
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-ल्यबादिगळ् अनुवादरूपमायुम् विधिरूपमायुमिरुक्कुम्। ‘‘भुक्त्वा चान्द्रायणञ्चरेत्’’ ऎऩ्गिऱविडत्तिल् निषिद्धभोजनत्तै अनुवदित्तु निषिद्धभोजनं कृत्वा वर्तमानः चान्द्रायणरूपं प्रायश्चित्तं चरेत् ऎऩ्ऱु प्रायश्चित्तत्तै विधिक्कैयाल् इङ्गु भुजिधातूत्तरमाऩ क्त्वाप्रत्यत्तिऱ्कु भोजनानुवादरूपत्वमे कॊळ्ळवेण्डुम्। प्रायश्चित्त विधानवचनत्तिल् निषिद्धभोजनविधानस्यासम्भवात् ।  
-इप्पडिये ‘‘त्रीन् लोकान् सम्परिक्रम्य’’ ऎऩ्गिऱविडत्तिलुम् कण्डुगॊळ्वदु। ‘‘स्नात्वा भुञ्जीत’’ ऎऩ्गिऱविडत्तिल् क्त्वाप्रत्ययत्तिऱ्कु विधिरूपत्वमे कॊळ्ळवेणुम्; अप्राप्तत्वेनानुवादासम्भवात् । इप्पडिये ‘‘प्रक्षाल्याचामेत्’’ ऎऩ्गिऱविडत्तिलुम् ल्यप्पुक्कु विधिपरत्वमे स्वीकार्यम्; प्रक्षाळनस्य पूर्वमप्राप्तत्वात् । तथा च इङ्गु त्यजधातुवुक्कु अनुवादरूपत्वं विधिरूपत्वं वेति विशये कीऴ् ‘‘अकिञ्चनऩाऩ तऩ्ऩिलैयैक्कण्डु उपायान्तरङ्गळिल् पिऱन्द नैराश्यम्’’ ऎऩ्ऱु प्राप्तमाऩ नैराश्यार्थकत्वम्   
+ल्यबादिगळ् अनुवादरूपमायुम् विधिरूपमायुमिरुक्कुम्। ‘‘भुक्त्वा चान्द्रायणञ्चरेत्’’ ऎऩ्गिऱविडत्तिल् निषिद्धभोजनत्तै अनुवदित्तु निषिद्धभोजनं कृत्वा वर्तमानः चान्द्रायणरूपं प्रायश्चित्तं चरेत् ऎऩ्ऱु प्रायश्चित्तत्तै विधिक्कैयाल् इङ्गु भुजिधातूत्तरमाऩ क्त्वाप्रत्यत्तिऱ्कु भोजनानुवादरूपत्वमे कॊळ्ळवेण्डुम्। प्रायश्चित्त विधानवचनत्तिल् निषिद्धभोजनविधानस्यासम्भवात् । 
+इप्पडिये ‘‘त्रीन् लोकान् सम्परिक्रम्य’’ ऎऩ्गिऱविडत्तिलुम् कण्डुगॊळ्वदु। ‘‘स्नात्वा भुञ्जीत’’ ऎऩ्गिऱविडत्तिल् क्त्वाप्रत्ययत्तिऱ्कु विधिरूपत्वमे कॊळ्ळवेणुम्; अप्राप्तत्वेनानुवादासम्भवात् । इप्पडिये ‘‘प्रक्षाल्याचामेत्’’ ऎऩ्गिऱविडत्तिलुम् ल्यप्पुक्कु विधिपरत्वमे स्वीकार्यम्; प्रक्षाळनस्य पूर्वमप्राप्तत्वात् । तथा च इङ्गु त्यजधातुवुक्कु अनुवादरूपत्वं विधिरूपत्वं वेति विशये कीऴ् ‘‘अकिञ्चनऩाऩ तऩ्ऩिलैयैक्कण्डु उपायान्तरङ्गळिल् पिऱन्द नैराश्यम्’’ ऎऩ्ऱु प्राप्तमाऩ नैराश्यार्थकत्वम् 
 सॊल्लुगैयाले तदुत्तरमाऩ ल्यप्पुक्कु अनुवादरूपत्वमे कॊळ्ळवेणुमॆऩ्ऱु एऱ्पडुगिऱदु। तथा च इन्द अनुवादत्तिऱ्कु प्रयोजनमॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इव्वनुवादत्तिऱ्कु अधिकार विशेषत्तैक् काट्टुगै प्रयोजनमिति । अधिकारविशेषत्तै - आकिञ्चन्यरूपमाऩ अधिकारविशेषत्तै, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
 
+**इव्वनुवादत्तुक्कु** - परित्यज्य ऎम्बल्लिरुव लॆप्पिगॆ मेलॆ हेळिद रीतियल्लि अनुवादार्थवन्नु हेळुवदक्कॆ, **अधिकार-विशेषत्तै** - भर-न्यासक्कॆ आकिञ्चन्यादि-रूपवाद अधिकार-विशेषवन्नु, **काट्टुगै** - प्रदर्शिसोणवु **प्रयोजनवु.** 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अनुवादार्थवन्नु बोधिसुव लॆप् प्रत्ययदिन्द आकिञ्चन्य-रूपवाद भर-न्यासाधिकार-विशेषवु बोधितवॆन्दु हेळिदरु. आकिञ्चन्य-रूप अधिकारवु अ-शक्त्य्-अनुसन्धानदिन्दुण्टाद नैराश्यदिन्दले ऎन्दरॆ, त्याग-शब्ददिन्दले उण्टागुवाग, **परि** ऎम्ब उपसर्गवु आग निरर्थकवागुवदिल्लवो ऎन्दरॆ, आग **परि** ऎम्ब उपसर्गदिन्द अधिकार-पौष्कल्यवु हेळल्पट्टु, अत्यन्ताकिञ्चनत्ववु बोधितवॆन्दु भाविसबहुदु ऎन्दु मुन्दॆ उपदेशिसुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदिल् ‘‘परि’’ ऎऩ्गिऱ उपसर्गम्  
+अदिल् ‘‘परि’’ ऎऩ्गिऱ उपसर्गम् 
 अधिकार-पौष्कल्यत्तै विवक्षिक्किऱदु।
 </details>
 
@@ -518,21 +615,19 @@ quien **es** especialmente competente para **adoptar** prapatti.
 अत्र परीत्य्-उपसर्गेणाधिकार-पौष्कल्यं विवक्ष्यते । 
 </details>
 
-
 <details><summary>English</summary>
 
-The preposition pari in parityajya **is** to **indicate** the person  
-who **is** most competent  
+The preposition pari in parityajya **is** to **indicate** the person 
+who **is** most competent 
 or **has** full competence. 
 </details>
 
 <details><summary>Español</summary>
 
-La preposición pari en parityajya **es** para **indicar** la persona  
-Quien **es** más competente  
+La preposición pari en parityajya **es** para **indicar** la persona 
+Quien **es** más competente 
 o **tiene** plena competencia.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -544,19 +639,29 @@ o **tiene** plena competencia.
 अप्पोदु परि ऎऩ्गिऱ उपसर्गम् अधिकारपौष्कल्यत्तिऱ्कु द्योतकमॆऩ्गिऱार् अदिल् परि ऎऩ्गिऱ उपसर्गमिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अदिल्** - आ सन्दर्भदल्लि ऎन्दरॆ अनुवाद-मूलक अधिकार-विशेषवन्नु बोधिसुवुदरल्लि **"परि" ऎङ्गिर उपसर्गम्** - परि ऎम्ब उपसर्गवु, **अधिकार-पौष्कल्यत्तै** - आ आकिञ्चन्याधिकारत्व-सम्पूर्णतॆयन्नु, **विवक्षिक्किरदु** - तोर्पडिसुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+आगलू **परि** ऎम्ब उपसर्गवु व्यर्थवल्लवु सम्पूर्णवाद आकिञ्चन्यवन्नु बोधिसुत्तदॆन्दु तिळिसिदरु. मुन्दॆ अनु[[??]] तप्पिगॆ ऒन्दु उदाहरणॆयन्नु कॊट्टु, इन्तह प्रयोगदल्लि अन्वयवु हेगॆ ऎन्दु तिळिसि, इन्तह अनुवादार्थबलदिन्द त्यागक्कॆ अदु अङ्गवे आगिरबेकॆन्दु इतररु हेळुवदु सरियल्लवॆन्दु हेळुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ११‘‘अनित्यम् असुखं लोकम्  
+> ११‘‘अनित्यम् असुखं लोकम् 
 इमं प्राप्य भजस्व माम्’’(गीता ९-३३) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ११‘‘अनित्यम् असुखं लोकम्  
+> ११‘‘अनित्यम् असुखं लोकम् 
 इमं प्राप्य भजस्व माम्’’(गीता ९-३३) 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -565,10 +670,9 @@ o **tiene** plena competencia.
 
 <details><summary>Español</summary>
 
-> "**Habiendo llegado** a este mundo corruptible y sin placer,  
+> "**Habiendo llegado** a este mundo corruptible y sin placer, 
 **deberías recurrir** a mí con devoción."
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -580,15 +684,21 @@ o **tiene** plena competencia.
 अनुवादपक्षत्तिऱ्कु अनुगुणमाऩ दृष्टान्तत्तैक् काट्टि दार्ष्टान्तिकत्तिलुम् तत्समानार्थकतैयैयुपपादिक्किऱार् अनित्यमसुखमित्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
 
+**"इमं** - इन्तह क्षुद्रवाद **अ-नित्यं** - अ-शाश्वतवाद, **अ-सुखं** - दुःखदिन्द सेरिरुवदरिन्दले सुखविल्लदिरुव, **लोकं** - भू-मण्डलवन्नु, **प्राप्य** - हॊन्दिरुवदरिन्दले नीनु, **भजस्व माम्** - भक्तियिन्द उपासनॆयन्नादरू माडु अथवा शरणागतियन्नु माडु, हागॆ माडिदुदादरॆ, ई अ-नित्यक्कॆ बदलागि प्रळयक्कॆ सिक्कद शाश्वतवागिरुव, अ-सुखवाद लोकक्कॆ बदलागि दुःख-गन्धवे इल्लदॆ निरतिशय-सुख-रूपवाद दिव्य-वैकुण्ठ-लोकवन्नु हॊन्दुवि ऎम्ब भाववु" - (गी. ९-३३.)
+
+[[P65]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्गिऱव् इडत्तिल् "प्राप्य" ऎऩ्गिऱदु विधिय् अऩ्ऱिक्के  
+ऎऩ्गिऱव् इडत्तिल् "प्राप्य" ऎऩ्गिऱदु विधिय् अऩ्ऱिक्के 
 
 > ‘‘प्राप्य वर्तमानस् त्वम्’’ 
 
-ऎऩ्ऱु व्याख्यातम् आऩाऱ् पोले  
+ऎऩ्ऱु व्याख्यातम् आऩाऱ् पोले 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -600,39 +710,44 @@ o **tiene** plena competencia.
 " प्राप्य वर्तमानस्त्वम्” इति व्याख्यानवत् 
 </details>
 
-
 <details><summary>English</summary>
 
-In the (above) sentence:-  "having reached" does not state a vidhi or injunction meaning \- "Reach this world". 
+In the (above) sentence:- "having reached" does not state a vidhi or injunction meaning \- "Reach this world". 
 
-It only means  
-'**Being** in this world'  
-or  
-'since you are in this world'.  
+It only means 
+'**Being** in this world' 
+or 
+'since you are in this world'. 
 </details>
 
 <details><summary>Español</summary>
 
-En la **oración** (arriba): -  
+En la **oración** (arriba): - 
 "**haber alcanzado**" **no establece** un vidhi o mandato que **signifique** \- "**Alcanza** este mundo".
 
-solo **significa**  
-'**Estar** en este mundo'  
-o  
-'ya que **estás** en este mundo'.  
+solo **significa** 
+'**Estar** en este mundo' 
+o 
+'ya que **estás** en este mundo'. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
-ऎऩ्गिऱविडत्तिल् प्राप्य ऎऩ्गिऱदु विधियऩ्ऱिक्के 
+ऎऩ्गिऱविडत्तिल् प्राप्य ऎऩ्गिऱदु विधियऩ्ऱिक्के ‘‘प्राप्य वर्तमानस्त्वम्’’ ऎऩ्ऱु व्याख्यातमाऩाऱ्पोले 
+
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**ऎङ्गिरविडत्तिल्** - ऎन्दु हेळिरुव सन्दर्भदल्लि, **प्राप्य ऎङ्गिरदु** - प्राप्य ऎम्ब लॆप्प्रत्यय्यविरुव पदवु, **विधियन्रिक्के** - विध्य्-अर्थवल्लदॆ, **प्राप्य वर्तमानस् त्वं** - "हॊन्दिरुव नीनु ऎम्बदागि", **व्याख्यातमानार्‌ पोले** - श्री-भाष्यकार्यवरिन्द अनुवादवॆन्दु तोरिसुवुदक्कागि व्याख्यानमाडल्पट्टिरुव हगॆ, 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गुम् 
 
-> ‘‘परित्यज्य स्थितस् त्वम्’’  
+> ‘‘परित्यज्य स्थितस् त्वम्’’ 
 
 ऎऩ्ऱु विवक्षितम् आगक् कडवदु।
 </details>
@@ -646,78 +761,85 @@ o
 इति विवक्षितं युक्तम् । 
 </details>
 
-
 <details><summary>English</summary>
 
-So also, here,  
-the words "sarvadharmān parityajya"  
-do not mean **give up** all dharmas.  
-It **should be taken** to **mean**:  
+So also, here, 
+the words "sarvadharmān parityajya" 
+do not mean **give up** all dharmas. 
+It **should be taken** to **mean**: 
 
 > "You that **have given up** all dharmas". 
 </details>
 
 <details><summary>Español</summary>
 
-Así también, aquí,  
-las palabras "sarvadharmān parityajya"  
-**No quieren decir renunciar** a todo el dharmas.  
-**Debe entenderse** en el sentido de **significa**:  
+Así también, aquí, 
+las palabras "sarvadharmān parityajya" 
+**No quieren decir renunciar** a todo el dharmas. 
+**Debe entenderse** en el sentido de **significa**: 
 
 > "Tú que **has renunciado** a todos los dharmas".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 ‘‘प्राप्य वर्तमानस्त्वम्’’ ऎऩ्ऱु व्याख्यातमाऩाऱ्पोले इङ्गुम् ‘‘परित्यज्य स्थितस्त्वम्’’ ऎऩ्ऱु विवक्षितमागक् कडवदु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इङ्गुम्** - ई सर्व-धर्मान् परित्य1ज्य ऎम्ब स्थळदल्लू, **परित्यज्य स्थितस् त्वम्** - सर्व-प्रकारदिन्दलू स-परिकर--ब्रह्म-विद्यॆगळन्नॆला दुष्करतॆयिन्द सम्पूर्णवागि त्याग माडिरुव नीनु, **ऎन्रु विवक्षिक्किरदु** - ऎन्दु बोधिसुत्तदॆ. मेलिन **भजस्व**वरदिन्द ऎरडु उपायगळू बोधितवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+आगलि हीगॆ अनुसन्धानमाडि, **माम् एकं शरणं व्रज** ऎन्दु हेळिरुवदरिन्द, अन्तह परित्यागवु अङ्गियाद शरणागतिगॆ अङ्गवागबेकल्लवे ? ऎन्दरॆ, अङ्गियु विधियु, अन्तह अङ्गिगॆ सम्बन्धपट्ट अङ्गगळू विधिगॆ सेरिदवे, आदुदरिन्द यावाग विधियल्लवु अनुवादवॆन्दु उपपादितवो आग अङ्गवागुवदिल्लवु. हागॆ अङ्गवॆन्दु भाविसुववर अभिप्रायवु सरियल्लवॆन्दायितु. ई अभिप्रायवन्ने मुन्दिन वाक्यदिन्द तिळिसुत्तारॆ -
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि अर्थान्तरङ्गळिलुम् प्रयोगम् उण्डागैयाले  
-क्त्वा-श्रुति-मात्रत्तैक् कॊण्डु  
+इप्-पडि अर्थान्तरङ्गळिलुम् प्रयोगम् उण्डागैयाले 
+क्त्वा-श्रुति-मात्रत्तैक् कॊण्डु 
 "त्यागम् अङ्गम्" ऎऩ्ऩव् ऒण्णादु।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-इत्थम् अर्थान्तरेष्व् अपि प्रयोग-सत्त्वात्  
-क्त्वा-श्रुति-मात्रावलम्बनेन  
+इत्थम् अर्थान्तरेष्व् अपि प्रयोग-सत्त्वात् 
+क्त्वा-श्रुति-मात्रावलम्बनेन 
 त्यागोऽङ्गम् इति वक्तुं न युक्तम् । 
 </details>
 
-
 <details><summary>English</summary>
 
-Since this usage of '**having done** a thing' (past participle) **is met with** in other senses also,  
-it **is not** right to **say** that  
-'**having given up** all dharmas'  
-or '**giving up** all dharmas'  
+Since this usage of '**having done** a thing' (past participle) **is met with** in other senses also, 
+it **is not** right to **say** that 
+'**having given up** all dharmas' 
+or '**giving up** all dharmas' 
 **is** one of the accessories **enjoined** for prapatti.
 
-(What **is meant is not** that  
-the person **should give up**  
-but that, as he **is unable** to **adopt** other dharmas,  
+(What **is meant is not** that 
+the person **should give up** 
+but that, as he **is unable** to **adopt** other dharmas, 
 he **should seek** the Lord as an upāya.)
 </details>
 
 <details><summary>Español</summary>
 
-Dado que este uso de '**haber hecho** una cosa' (participio pasado) **se encuentra** también en otros sentidos,  
-**no** es correcto **decir** eso  
-'**habiendo renunciado** a todos los dharmas'  
-o '**renunciar** a todos los dharmas'  
+Dado que este uso de '**haber hecho** una cosa' (participio pasado) **se encuentra** también en otros sentidos, 
+**no** es correcto **decir** eso 
+'**habiendo renunciado** a todos los dharmas' 
+o '**renunciar** a todos los dharmas' 
 **es** uno de los accesorios **ordenado** para prapatti.
 
-(Lo que **quiere decir no es** que  
-la persona **debería rendirse**  
-pero que,  
-como **es incapaz** de **adoptar** otros dharmas,  
+(Lo que **quiere decir no es** que 
+la persona **debería rendirse** 
+pero que, 
+como **es incapaz** de **adoptar** otros dharmas, 
 él **debe buscar** al Señor como un upāya.)
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -729,45 +851,70 @@ como **es incapaz** de **adoptar** otros dharmas,
 ल्यप् अनुवादत्तिऱ्कुम् विधिक्कुम् साधारणमागैयाले इन्द ल्यप् मात्तिरत्तैक् कॊण्डु सर्व धर्मपरित्यागत्तै प्रपत्तिक्कु अङ्गमाग विधिप्पदागच् चॊल्लक्कूडादॆऩ्गिऱार् इप्पडि इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि** - ई लॆप्पिगॆ अनुवाद रूपार्धवन्नु इल्लि हेळिद हागॆ, **अर्थान्तरङ्गळिलुम्** - बेरे इतर-सन्दर्भगळल्लू, **प्रयोगम् उण्डागैयाले** - प्रयोगवु कण्डुबरुवदरिन्द, **त्वाश्रुति-मात्रत्तैकॊण्डु** - लॆप् प्रत्ययवाद त्वा ऎम्बुदु श्रोत्र-वधक्कॆ बित्तो इल्लवो, **त्यागम्** - हीगॆ मेलॆ उपपादिसिद रीतियल्लि धर्मगळ त्यागवु, **अङ्गमॆन्रवॊण्णादु** - मुन्दॆ **शरणं व्रज** ऎम्बल्लि विधिसुव शरणागतिगॆ अङ्गवॆन्दु हेळलागुवुदिल्लवु. 
+
+[[P66]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इदरिन्द इल्लि हेळिरुव परित्यागवु शरणागतिगॆ अङ्गवॆन्दु भाविसुवदु सरियल्लवु. एकॆन्दरॆ यावाग अनुवादवॆन्दु हेळल्पट्टितो आग अङ्गवागलु मार्गविल्लवु. अङ्गियु यावाग विधियो मुख्याङ्गगळू सह विधि-रूपदल्ले हेळल्पट्टिरबेकु. एकॆन्दरॆ अङ्गगळिल्लद अङ्गि-निष्पत्ति इल्लवादुदरिन्द अङ्गगळू विधि-रूपदल्ले हेळल्पडतक्कवुगळु. इदु मेलॆकॊट्टिरुव उदाहरणॆगळिन्दले व्यक्तवु. **स्नात्वा भुञ्जीत** ऎम्बल्लि भोजनक्कॆ स्नानवु अङ्गवादुदरिन्द स्नात्वा ऎम्बुदू विधिये, हागॆये 
+
+> दर्भान् अद्भिस् संस्पृश्याग्नौ प्रहरति 
+
+ऎम्बल्लू दर्भॆगळ नीरिनिन्द संस्पर्शनवु अग्नियल्लि प्रहरणक्कॆ अङ्गवॆन्दु इल्लि लॆप्पु बोधिसुत्तदॆ. आदुदरिन्द अङ्गिगॆ अङ्गवॆन्दु हेळबेकादरॆ, अङ्गवू विधि-रूपदल्लि हेळल्पट्टिरबेकु. इल्लि 
+
+> अ-नित्यम् अ-सुखं लोकम् इमं प्राप्य 
+
+ऎम्बल्लि हेळिरुवदु यावाग अनुवादवॆन्दायितो, आग अङ्गवल्लवॆम्बुदु व्यक्तवॆम्ब भाववु. हागॆ **भुक्त्वा चान्द्रायणञ् चरेत्** - निषिद्ध-भोजन उण्टादरॆ प्रायश्चित्त-रूपदल्लि चान्द्रायणवन्नु अनुष्ठिसु, ऎम्बल्लि त्वा प्रत्यविरुवदरिन्द इल्लि चान्द्रायणक्कॆ हेगॆ अङ्गवॆन्दु हेळलागुत्तदॆ ? निषिद्ध-भोजन माडु, चान्द्रायणवन्नु अनुष्ठिसु ऎन्दु हेळितॆम्बर्थवु हेगॆ अ-सङ्गतवादुदो हागॆ ऎम्ब भाववु. 
+
+इदू अल्लदॆ स-परिकर--सर्व-धर्मगळ त्यागवु अङ्गवॆन्दु भाविसिदुदादरॆ नित्य-नैमित्तिकादि--सकल-वर्णाश्रम-धर्मगळू प्रवत्तिगॆ अङ्गवॆन्दागि, अवुगळन्नॆल्ला बिडबेकागि बरुवदरिन्द सर्व-शास्त्रार्थगळिगू उपप्लव उण्टागुवदरिन्दलू, आ अभिप्रायवु सरियल्लवॆम्ब तात्पर्यवु. 
+
+आगलि, अनुवाद मत्तु विधि हीगॆ ऎरडु विधदल्लू लॆप्पिन प्रयोगविरुवाग, नावु विधि ऎन्दे भाविसुवॆवु ऎन्दरॆ हागॆये भाविसबहुदु, अड्डियिल्लवु. नीवु हेळिद हागॆ अनेक-शास्त्र-प्रमाणगळिगॆ विरोध उण्टागदॆ, शरणागतिगॆ मुख्याङ्गवाद आकिञ्चन्यानुसन्धानदिन्दुण्टाद कार्पण्याङ्गवु विधिसल्पट्टितॆन्दु भाविसिदरॆ विरोधवेनू इल्लवॆन्दु मुन्दिन वाक्यदिन्द हेळुत्तारॆ.-
+
+[[P67]]
+
+</details>
 
 ## अनुसन्धान-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘परित्यज्य’’ ऎऩ्गिऱव् इदु  
-विधिय् आऩ बोदु  
-प्रपत्त्य्-अध्यायादिगळिल् विधिक्किऱ बडिये  
-आकिञ्चन्य-प्रतिसन्धानादि-रूपम् आऩ कार्पण्यम् आगिऱ प्रपत्त्य्-अङ्गत्तै विधिक्किऱद् ऎऩ्ऱाल्  
+‘‘परित्यज्य’’ ऎऩ्गिऱव् इदु 
+विधिय् आऩ बोदु 
+प्रपत्त्य्-अध्यायादिगळिल् विधिक्किऱ बडिये 
+आकिञ्चन्य-प्रतिसन्धानादि-रूपम् आऩ कार्पण्यम् आगिऱ प्रपत्त्य्-अङ्गत्तै विधिक्किऱद् ऎऩ्ऱाल् 
 अर्थत्तिल् विरोधम् इल्लै +++(यद्य् अपि शीघ्र-धी-गम्यता नास्ति)+++। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-"परित्यज्य" इत्य्-अस्य विधित्वे,  
-प्रपत्त्य्-अध्यायादिषु विहित-रीत्या  
-आकिञ्चन्य-प्रतिसन्धानादि-रूपं कार्पण्यं  
-प्रपत्त्य्-अङ्गं विधीयत  
-इत्य्-उक्तौ - नार्थे विरोधः  +++(यद्य् अपि शीघ्र-धी-गम्यता नास्ति)+++। 
+"परित्यज्य" इत्य्-अस्य विधित्वे, 
+प्रपत्त्य्-अध्यायादिषु विहित-रीत्या 
+आकिञ्चन्य-प्रतिसन्धानादि-रूपं कार्पण्यं 
+प्रपत्त्य्-अङ्गं विधीयत 
+इत्य्-उक्तौ - नार्थे विरोधः +++(यद्य् अपि शीघ्र-धी-गम्यता नास्ति)+++। 
 </details>
-
 
 <details><summary>English</summary>
 
-If parityajya (having given up) **is to be considered** (at all) as **enjoining** what **should be done** (vidhi),  
-there **is** nothing wrong in **stating**  
-that it **enjoins**, as in the chapters on Prapatti and elsewhere, the **thought** of **helplessness** (kārpaṇya)  
-which **is** of the nature of such thoughts  
+If parityajya (having given up) **is to be considered** (at all) as **enjoining** what **should be done** (vidhi), 
+there **is** nothing wrong in **stating** 
+that it **enjoins**, as in the chapters on Prapatti and elsewhere, the **thought** of **helplessness** (kārpaṇya) 
+which **is** of the nature of such thoughts 
 as **being destitute** of upãyas. 
 </details>
 
 <details><summary>Español</summary>
 
-Si parityajya (**haber renunciado**) **debe considerarse** (en absoluto) como **ordenar** lo que **debe hacerse** (vidhi),  
-no **hay** nada de malo en **afirmar**  
-que **impone**, como en los capítulos sobre Prapatti y otros lugares, el **pensamiento** de **impotencia** (kārpaṇya)  
-que **es** de la naturaleza de tales pensamientos  
+Si parityajya (**haber renunciado**) **debe considerarse** (en absoluto) como **ordenar** lo que **debe hacerse** (vidhi), 
+no **hay** nada de malo en **afirmar** 
+que **impone**, como en los capítulos sobre Prapatti y otros lugares, el **pensamiento** de **impotencia** (kārpaṇya) 
+que **es** de la naturaleza de tales pensamientos 
 como **ser desprovisto** de upãyas.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -779,6 +926,19 @@ como **ser desprovisto** de upãyas.
 इन्द ल्यप्पुक्कु विधिरूपत्वमे अङ्गीकरिक्कवेण्डुमॆऩ्गिऱ पक्षत्तिल् शास्त्रविरुद्धमाऩ सर्वधर्मपरित्यागविधिरूपत्वत्तै विट्टु शास्त्रानुगुणमाऩ आकिञ्चन्यानुसन्धानरूपकार्पण्यत्तै त्यजिधातुवाले लक्षित्तु विधिक्किऱदॆऩ्ऱाल् बाधकमिल्लै यॆऩ्गिऱार् परित्यज्य ऎऩ्गिऱविदु विधियाऩबोदु इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"परित्यज्य" ऎम्बुदु विधियादरॆ आग अर्थवेनेन्दरॆ** 
+
+**परित्यज्य एङ्गिरविदु** - परित्यज्य ऎन्दु इल्लि हेळिरुवुदु, **विधियानपोदु** - विधि ऎन्दे भाविसुव सन्दर्भदल्लि, **प्रपत्त्य्-अध्यायादिगळिल्** - प्रपत्तिय स्व-रूपवन्नु व्यक्तपडिसुव शास्त्रगळल्लि, **विधिक्किरबडिये** - विधिसिरुव हागॆये, **आकिञ्चन्य-प्रतिसन्धानादि-रूपमान** - आकिञ्चन्यादिगळ प्रदर्शन-रूपवाद इल्लि आदि-पददिन्द गर्व-हानियू हेळल्पट्टितु, **कार्पण्यमागिर** - कार्पण्यवॆन्दु हेळिसिकोळ्ळुव, **प्रपत्त्य्-अङ्गत्तै विधिक्किरदॆन्राल्** - प्रपत्त्य्-अङ्गवु इल्लि विधिसल्पट्टितॆन्दु अभिप्रायपट्टरॆ, **अर्थत्तिल् विरोधमिल्लै** - आ पददिन्द तोरिबरुव अर्थक्केनू विरोध उण्टागुवदिल्लवु, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हीगॆ विध्य्-अर्थवन्नु हेळिदुदरिन्द **"सर्व-धर्मान् परित्यज्य"** ऎम्बुदर अर्थवेनॆम्बुदन्नु तिळिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -790,7 +950,6 @@ como **ser desprovisto** de upãyas.
 तदा, 'सर्वधर्मान् परित्यज्य' इत्यनेन, 
 </details>
 
-
 <details><summary>English</summary>
 
 In that interpretation, "sarva dharmān parityajya" 
@@ -800,7 +959,6 @@ In that interpretation, "sarva dharmān parityajya"
 
 En esa **interpretación**, "sarva dharmān parityajya"
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -812,93 +970,112 @@ En esa **interpretación**, "sarva dharmān parityajya"
 इप्पडि कार्पण्यत्तै विधिक्किऱदॆऩ्ऱाल् अप्पोदु ‘‘सर्वधर्मान् परित्यज्य’’ ऎऩ्बदऱ्कु अर्थमॆऩ्ऩवॆऩ्ऩवरुळिच् चॆय्गिऱार् अप्पोदु सर्वधर्मान् परित्यज्य ऎऩ्गिऱविदु इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अप्पोदु** - आ सन्दर्भदल्लि विध्य्-अर्थवन्नु हेळिद सन्दर्भदल्लि, शरणागतियाद अङ्गिगॆ अङ्गवादुदे विधियागुत्तदॆ विना इन्नु यावुदू अङ्गवागलारद प्रयुक्त अधिकारियाद तन्न कार्पण्यवे विधिसल्पट्टितॆन्दु भाविसतक्कद्दु ऎन्दु हेळुत्तारॆ.-
+
+**"सर्वधर्मान् परित्यज्य" ऎन्ङ्गिरदु** - ऎन्दु हेळिरुवदर अभिप्रायवेनेन्दरॆ तिळिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘अहम् अस्म्य् अपराधानाम्  
-आलयो ऽकिञ्चनोऽगतिः’’  
+> ‘‘अहम् अस्म्य् अपराधानाम् 
+आलयो ऽकिञ्चनोऽगतिः’’ 
 (अहिर्बुध्न्यसंहिता ३७-३०), 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘अहम् अस्म्य् अपराधानाम्  
-आलयो ऽकिञ्चनोऽगतिः’’  
+> ‘‘अहम् अस्म्य् अपराधानाम् 
+आलयो ऽकिञ्चनोऽगतिः’’ 
 (अहिर्बुध्न्यसंहिता ३७-३०), 
 </details>
 
 <details><summary>English</summary>
 
-> "I **am** the abode of all offences (against Thee)  
-and I **have** no means of **saving** myself  
+> "I **am** the abode of all offences (against Thee) 
+and I **have** no means of **saving** myself 
 **nor have I** anything else to **attain** than Thee", 
 </details>
 
 <details><summary>Español</summary>
 
-> "Yo **soy** la morada de todas las ofensas (contra Ti)  
-y **no tengo** medios para **salvarme**  
+> "Yo **soy** la morada de todas las ofensas (contra Ti) 
+y **no tengo** medios para **salvarme** 
 **ni tengo** nada más que **alcanzar** que Ti",
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 ‘‘अहमस्म्यपराधानामालयोऽकिञ्चनोऽगतिः’’(अहिर्बुध्न्यसंहिता ३७-३०), 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+> अहम् अस्म्य् अपराधानाम् आलयो ऽकिञ्चनो ऽगतिः - (अहि. ३७-३०) ऎम्ब 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘न धर्म-निष्ठो ऽस्मि’’  
+> ‘‘न धर्म-निष्ठो ऽस्मि’’ 
 (आळवन्दार्-स्तोत्रम् २२) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘न धर्म-निष्ठो ऽस्मि’’  
+> ‘‘न धर्म-निष्ठो ऽस्मि’’ 
 (आळवन्दार्-स्तोत्रम् २२) 
 </details>
-
 
 <details><summary>English</summary>
 
 and 
 
-> "I **have not performed** dharma with any constancy;  
-I **have not realised** the nature of the self  
-**nor have I** bhakti  or devotion to Thy lotus feet". 
+> "I **have not performed** dharma with any constancy; 
+I **have not realised** the nature of the self 
+**nor have I** bhakti or devotion to Thy lotus feet". 
 </details>
 
 <details><summary>Español</summary>
 
 y 
 
-> "Yo **no he realizado** el dharma con constancia;  
-**No me he dado cuenta** de la naturaleza del yo.  
+> "Yo **no he realizado** el dharma con constancia; 
+**No me he dado cuenta** de la naturaleza del yo. 
 **tampoco tengo** bhakti o devoción a Tus pies de loto".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 ‘‘न धर्मनिष्ठोस्मि’’(आळवन्दार्-स्तोत्रम् २२) 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+"न धर्म-निष्ठो ऽस्मि" - (स्तोत्र-रत्न. २१)ऎन्दारम्भिसि, 
+
+> अकिञ्चनो ऽनन्य-गतिश् शरण्यं त्वत्-पाद-मूलं शरणं प्रपद्ये 
+
+ऎम्ब, 
+
+[[P68]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्य्-आदिगळिऱ् पडिये  
+इत्य्-आदिगळिऱ् पडिये 
 
-> सर्व-धर्मङ्गळुम् तऩ्ऩै योग्यता-पर्यन्तम् आगक् कऴित्त बडियै  
+> सर्व-धर्मङ्गळुम् तऩ्ऩै योग्यता-पर्यन्तम् आगक् कऴित्त बडियै 
 मुऩ्ऩ् इट्टुक् कॊण्ड् 
 
 ऎऩ्ऱ बडि।
 </details>
 
-
 <details><summary>नीलमेघः (सं)</summary>
 
-इत्य्-आद्य्-उक्त-रीत्या  
+इत्य्-आद्य्-उक्त-रीत्या 
 
 > सर्व-धर्मैस् स्वस्य योग्यता-पर्यन्ततया त्यक्ततां पुरस्कृत्य
 
@@ -911,8 +1088,8 @@ as **has been** (well) **expressed** in such passages as the above:
 
 (It) **would mean** 
 
-> "**Reflect** at first on the state in which you **are** unfit  
-for the **adoption** or **performance** of every form of dharma"  
+> "**Reflect** at first on the state in which you **are** unfit 
+for the **adoption** or **performance** of every form of dharma" 
 
 (in this case it **would be** a vidhi). 
 
@@ -924,12 +1101,11 @@ como **ha sido** (bien) **expresado** en pasajes como el anterior:
 
 (Eso) **significaría** 
 
-> "**Reflexiona** al principio sobre el estado en el que **estás** no apto  
-para la **adopción** o **ejecución** de cada forma de dharma"  
+> "**Reflexiona** al principio sobre el estado en el que **estás** no apto 
+para la **adopción** o **ejecución** de cada forma de dharma" 
 
 (en este caso **sería** un vidhi).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -941,51 +1117,62 @@ para la **adopción** o **ejecución** de cada forma de dharma"
 सर्वधर्मङ्गळुम् तऩ्ऩै योग्यतापर्यन्तमागक् कऴित्तबडियै मुऩ्ऩिट्टुक्कॊण्डु इति । इङ्गु लक्षणया धर्मान् ऎऩ्गिऱ द्वितीयैक्कु षष्ट्यर्थत्तैयुम् परिपूर्वकत्यजि धातुवुक्कु परित्यागपुरस्कारार्थत्तैयुम् अङ्गीकरित्तु स्वकर्मकसर्वधर्म कर्तृकपरित्यागत्तै पुरस्करित्तुक्कॊण्डु ऎऩ्ऱु अर्थम् कॊळ्ळवेण्डुमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इत्य्-आदिगळिर्पडिये** - इत्य्-आदि-प्रमाणगळल्लि हेळिरुव हागॆ, **तन्नै** - तन्नन्नु, **योग्यता-पर्यन्तमाग कळित्त पडिये** - योग्यतॆय पर्यन्तवागि त्यागमाडि ऎन्दरॆ तन्न अ-शक्ततॆयन्नु प्रदर्शिसि ऎम्बर्थवु, इदन्नु **मुन्निट्टुकॊण्डॆन्रपडि** - मूलक माडिक्कॊण्डु ऎन्दु हेळिदन्तागुवदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ऎन्दरॆ अदन्ने मुख्याङ्गवागि इट्टुकॊन्दु ऎम्ब भाववु विधियागबेकादरॆ अङ्गिगॆ सेरिद अङ्गवे आगिरबेकु. मिक्क यावुदु प्रपत्तिगॆ अङ्गवागलारदादुदरिन्द (१) **अहम् अस्म्य् अपराधानाम्** ऎम्ब श्लोकवु हिन्दॆये परिकर-विभागाधिकारदल्लि उदाहृतवु. १०३५ नेय पुटवन्नोडि. इदल्लदॆ कृत-कृत्याधिकारदल्लू प्रपत्ति-योग्याधिकादल्लू उदाहृतवु. (२) **"न धर्म-निष्ठो ऽस्मि"** ऎम्बुदू हिन्दॆ द्वयाधिकारदल्लि उदाहृतवु. [[??]]नॆय पुटवन्नु नोडि, कर्म-योग, ज्ञान-योग भक्ति-योगगळिगॆ अ-शक्त्यतॆयिन्द आकिञ्चन्य मत्तु अनन्य-गतित्वदिन्द शरणागत्य्-अनुष्ठानक्कॆ योग्यतॆयन्नुपपादिसुव श्लोकवु. परित्यज्य ऎम्बल्लिरुव लॆप् प्रत्ययक्कॆ विधि-परवागि अर्थ हेळबेकादरॆ, अङ्गाङ्गिगळल्लि ऒन्दर विषयवागि अर्थवन्नु हेळिदरॆ शास्त्र-सम्मतवागुत्तदॆ, मिक्कवुगळन्नु विधियागि हेळिदरॆ शास्त्र-विरुद्धवागुत्तदॆ, आदुदरिन्द कार्पण्याङ्गवु विधिसल्पट्टितॆन्दु अर्थमाडुवदरल्लि एनॊन्दू दोषविल्लवु. आदरॆ आपाततः विळम्बविल्लदॆ तोरुव सर्व-धर्मगळ स्व-रूपगळ त्यागवॆम्बर्थवन्नु बिट्टु, हेगॆ साक्षात्तागि तोरदॆ विळम्बवागि स्वल्प-कष्टदिन्द ऊहॆयिन्द तोरुव अर्थवन्नु स्वीकरिसबहुदु ? ऎम्बाक्षेप उण्टादरॆ, अदक्कॆ समाधानवन्नु हेळुत्तारेनॆन्दरॆ.- अ-विळम्बितवागि साक्षात्तागि तोरुव अर्थवु बहु-शास्त्र-प्रमाण-विरुद्धवागिद्द पक्षदल्लि, विळम्बितवागि कष्ट पट्टु अर्थमाडबेकाद अभिप्रायवु शास्त्र-सम्मतवादुदादरॆ, ऎरडनॆय अर्थवे साधुवादुदु ऎन्दु उपदेशिसुत्तारॆ.-
+
+[[P69]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व्-अळवु विलम्बित-प्रतीतिकम् आऩव् अर्थमुम्  
-बहु-प्रमाणानुगुणम् आगैयाल्  
+इव्व्-अळवु विलम्बित-प्रतीतिकम् आऩव् अर्थमुम् 
+बहु-प्रमाणानुगुणम् आगैयाल् 
 
-अवऱ्ऱुक्कु विरुद्धम् आग शङ्कराद्य्+++(→सयूथ्यभ्रान्तैर् अपि)+++-उक्तङ्गळ् आऩ  
-सर्व-धर्म-स्वरूप-त्यागाद्य्+++(→उपायत्वबुद्धित्यागोऽपि)+++-अर्थङ्गळिऱ् काट्टिलुम्  
+अवऱ्ऱुक्कु विरुद्धम् आग शङ्कराद्य्+++(→सयूथ्यभ्रान्तैर् अपि)+++-उक्तङ्गळ् आऩ 
+सर्व-धर्म-स्वरूप-त्यागाद्य्+++(→उपायत्वबुद्धित्यागोऽपि)+++-अर्थङ्गळिऱ् काट्टिलुम् 
 उपादेयम्।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-एतावद् विलम्बित--प्रतीतिको ऽप्य् अर्थो  
-बहु-प्रमाणानुगुणत्वात्  
+एतावद् विलम्बित--प्रतीतिको ऽप्य् अर्थो 
+बहु-प्रमाणानुगुणत्वात् 
 तद्-विरुद्ध-शङ्कराद्य्+++(→सयूथ्यभ्रान्तैर् अपि)+++ -उक्त-- सर्व-धर्म-स्वरूप-त्यागाद्य् +++(→उपायत्वबुद्धित्यागोऽपि)+++- अर्थापेक्षयोपादेयः । 
 </details>
 
-
 <details><summary>English</summary>
 
-Even this interpretation, which **is not** the meaning that **strikes** one immediately  
-and **is** therefore a little strained,  
-**is** better than the meanings given by Saṅkara and others  
-that what **is intended** here  
-**is** such as the **giving up** of the dharmas themselves in their essential nature (svarūpa),  
-because it **is not** in keeping with any pramāṇas  
-(for in the chapters on prapatti,  
-it **is enjoined** that the rites and observances of castes and āśramas  
+Even this interpretation, which **is not** the meaning that **strikes** one immediately 
+and **is** therefore a little strained, 
+**is** better than the meanings given by Saṅkara and others 
+that what **is intended** here 
+**is** such as the **giving up** of the dharmas themselves in their essential nature (svarūpa), 
+because it **is not** in keeping with any pramāṇas 
+(for in the chapters on prapatti, 
+it **is enjoined** that the rites and observances of castes and āśramas 
 **should** (always) **be performed**).
 </details>
 
 <details><summary>Español</summary>
 
-Incluso esta interpretación, que **no** es el significado que **salta a uno** inmediatamente  
-y **está** por lo tanto un poco tenso,  
-**es** mejor que los significados dados por Saṅkara y otros  
-eso es lo que **se pretende** aquí  
-**es** tal como el **abandono** de los dharmas mismos en su naturaleza esencial (svarūpa),  
-porque **no** está de acuerdo con ningún pramāṇas  
-(porque en los capítulos sobre prapatti,  
-**se ordena** que los ritos y observancias de castas y āśramas  
+Incluso esta interpretación, que **no** es el significado que **salta a uno** inmediatamente 
+y **está** por lo tanto un poco tenso, 
+**es** mejor que los significados dados por Saṅkara y otros 
+eso es lo que **se pretende** aquí 
+**es** tal como el **abandono** de los dharmas mismos en su naturaleza esencial (svarūpa), 
+porque **no** está de acuerdo con ningún pramāṇas 
+(porque en los capítulos sobre prapatti, 
+**se ordena** que los ritos y observancias de castas y āśramas 
 **debe** (siempre) **realizarse**).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -996,13 +1183,56 @@ porque **no** está de acuerdo con ningún pramāṇas
 
 ननु सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कु सर्वधर्मङ्गळै स्वरूपेण विट्टु ऎऩ्गिऱ अर्थम् अविलम्बितमागत् तोऩ्ऱानिऱ्क सर्वधर्म कर्तृकस्वकर्मकपरित्यागत्तै मुऩ्ऩिट्टुक्कॊण्डु ऎऩ्ऱु इव्वळवु विळम्बितमाय्त् तोऩ्ऱुगिऱ अर्थत्तै अङ्गीकरिप्पदु उचितमागुमो वॆऩ्ऩ? अविलम्बितप्रतीतिकमायिरुन्दालुम् बहुप्रमाणविरुद्धमागैयाल् शङ्कराद्युक्तसर्वधर्मस्वरूप त्यागरूपार्थत्तैक्काट्टिलुम् बहुप्रमाणानुगुणमाऩ इव्वर्थमे उपादेयमॆऩ्गिऱार् इव्वळवु इत्यादियाल्। 
 
-शङ्करादीत्यत्रादिपदत्ताले एकदेशिकळुक्कु ग्रहणम्। +++(5)+++  
-स्वरूपत्यागाद्यर्थङ्गळिति ।  
+शङ्करादीत्यत्रादिपदत्ताले एकदेशिकळुक्कु ग्रहणम्। +++(5)+++ 
+स्वरूपत्यागाद्यर्थङ्गळिति । 
 इङ्गु आदिशब्दत्ताले सर्वधर्मङ्गळिलुम् उपायत्वबुद्धित्यागत्तिऱ्कु सङ्ग्रहः । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**सर्व-धर्म--स्व-रूप-परित्यागवु विधिसल्पट्टितॆम्ब वादद निरासवु.** 
+
+**इव्वळवु** - ई मेले उदाहरिसिद रीतियल्लि, **विलम्बित-प्रतीतिकमान अर्थमुम्** - साक्षात्तागि तोरदॆ, सावकाशदिन्द कष्टपट्टु तोरिबरुव अर्थवु, **बहु-प्रमाणानुगुणमागैयाले**- अनेक-श्रुति-स्मृति-रूप-प्रमाणगळिगॆ अनुसारवागिरुवदरिन्द, **अवत्तुक्कु विरुद्धमागॆ** - अन्तह शास्त्र-प्रमाणगळिगॆल्ला विरुद्धवाद, **शङ्कराद्य्-उक्तङ्गळान** - श्रीमच्-छङ्कराचार्यार्यरे मोदलादवरुगळिन्द हेळल्पट्ट, इल्लि आदि-शब्ददिन्द सारास्वादिनीयहवरु एक-देशियु हेळल्पट्टनु ऎन्दु व्याख्यान माडिरुत्तारॆ. एक-देशियु, एकायननु - परम-पुरुषनोब्बने प्राप्यनु लक्ष्मीयल्लवॆन्दु हेळुव माध्व-सिद्धान्तियु. साक्षात्तागि अ-विळम्बितवागि तोरुव ऎम्ब भाववु, **सर्व-धर्म--स्व-रूप-त्यागाद्य्-अर्थङ्गळिऱ् काट्टिल्** - सर्व-धर्मगळन्नु सम्पूर्णवागि स्व-रूप-त्यागवे मोदलाद अर्थगळिगिन्तलू, **उपादेयम्** - अङ्गीकारार्हवु, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+यद्य् अपि ई विध्य्-अर्थक्कॆ स्वल्प विळम्बदिन्द तोरुवुदु अर्थवॆम्ब दोषविद्दरू, शास्त्र-विरुद्धवल्लवादुदरिन्द ग्राह्यवे ऎन्दरॆ सर्व-धर्मगळ स्व-रूप-त्यागवेम्बर्थवु साक्षातागि तोरिबन्दु श्रीमच्-छङ्कराचार्यरे मोदलादवरिन्द परिगृतितवागिद्दरू नमगॆ ग्राह्यवल्लवु, एकॆन्दरॆ अनेक-शास्त्र-प्रमाणगळिगॆ विरुद्धवागुत्तदे. ई सर्व-धर्मान् ऎम्बवुगळल्ले नित्य-नैमित्तिक-कर्मगळू सेरि, अवुगळन्नु बिडबहुदु एम्ब विध्य्-अर्थवु उण्टागुवदरिन्द आ अर्थवु समञ्जसवादुदल्लवु. नित्य-नैमित्तिक-कर्मगळु ईतन जन्म-मूलक बन्दवुगळागि जन्मविरुववरॆगू नडेसतक्कद्दागिरुत्तदे. 
+
+> कुर्वन्न् एवेह कर्माणि जिजीविषेत् शतगं समाः (ईशा. २)
+
+[[P70]]
+
+इवे मोदलाद अनेक-प्रमाणगळिगॆ विरुद्धवु. अन्तह कॆलवु प्रमाणगळिगॆ २७७७ ने पुटगळन्नु नोडि. अदू अल्लदॆ गीताचार्यरु अष्टु दूर धर्मगळन्ने निनु माडतक्कद्दॆन्दु 
+
+> कुरु कर्मैव तस्मात् त्वम् 
+
+> यज्ञ-दान-तपः-कर्म न त्याज्यं कार्यम् एव तत्
+
+> एतान्य् अपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च । 
+कर्तव्यानीति मे पार्थ निश्चितं मतम् उत्तमम् ॥ 
+
+> स्वे स्वे कर्मण्य् अभिरतः संसिद्धिं लभते नरः 
+
+> स्व-कर्मणा तम् अभ्यर्च्य सिद्धिं विन्दति मानवः - (१८-४५, ४६) 
+
+हीगॆल्ला हेळुत्ता होगि, कॊनॆगॆ **"सर्व-धर्मान् परित्यज्य"** ऎम्बुदरिन्द ऎल्ला धर्मगळ स्व-रूप-त्याग हेळिबिट्टितॆन्दरॆ लोक-गुरुवु परस्पर-विरुद्धवागि उपदेशिसिदनु, ऎन्दागि अपहास्यक्कॆ गुरिमाडिद हागॆ आगुत्तदॆम्ब भाववु. आदुदरिन्दले **अवत्तुक्कु विरुद्धमान"** ऎम्ब प्रयोगवु. तावु विधि-वशरागि अन्वयिसिरुवदरल्लि विळम्बदिन्द तोरिबरुव अर्थवेम्बुदॊन्दु आक्षेपवे विनू शास्त्र-विरुद्धवाद अर्थवेनू इल्लवॆम्ब तात्पर्यवु. ई विध्य्-अर्थवु विळम्बित-प्रतीतिकवादुदु ऎम्ब पक्षदल्लि, हिन्दॆ उपपादिसिद अनुवादार्थवन्नु स्वीकरिसिदरे एनॊन्दु विरोधवू इल्लवॆम्ब भाववु इदरिन्द सूचितवु. 
+
+ई विध्य्-अर्थवु इष्टु दूरवागि विळम्ब-प्रतीतियुण्टागुव अर्थवादरू इन्नॊन्दु स्वारस्यवु आ अर्थदिन्द तोरि बरुवदरिन्द अदू ग्राह्यवे सरि ऎन्दु मुन्दिन वाक्यवाद **"प्रपत्तिक्काह"** ऎम्बुदरिन्द तिळिसुत्तारे.-
+
+</details>
 
 ## न धर्मान्तर-त्याग-विधिः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+यावाग ई ऎल्ला धर्मगळ अनुष्ठानदल्लू तनगॆ योग्यतॆ इल्लवे ऎम्ब कार्पण्याङ्गवु उण्टायितो, आग अदरिन्द सूचितवागि मिक्क याव धर्मानुष्ठानवू ई प्रपदनक्कॆ अङ्गवल्लवॆम्ब भाववु एर्पट्टितु. ई अर्थ स्वारस्यदिन्द ई विध विध्य्-अर्थवू उचितवागि ग्राह्यवे ऎन्दु तिळिसुत्तारॆ - 
+
+[[P71]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > प्रपत्तिक्क् आगव् ऒरु धर्मङ्गळुम् अनुष्ठिक्क वेण्डाव् 
@@ -1015,34 +1245,32 @@ porque **no** está de acuerdo con ningún pramāṇas
 <details><summary>नीलमेघः (सं)</summary>
 
 > > "प्रपत्त्य्-अर्थं कश्चिद् अपि धर्मो नानुष्ठेय" >
-> इति प्रपत्तेर् नैरपेक्ष्यम् उच्यत  
+> इति प्रपत्तेर् नैरपेक्ष्यम् उच्यत 
 
-इत्य् एतत् विधि-पक्षस्योचितम् ।  
+इत्य् एतत् विधि-पक्षस्योचितम् । 
 </details>
-
 
 <details><summary>English</summary>
 
-When we **take** parityajya as a vidhi or injunction,  
-it **would be appropriate** to **say** that  
-the meaning of sarva dharmān parityajya **is** -  
+When we **take** parityajya as a vidhi or injunction, 
+it **would be appropriate** to **say** that 
+the meaning of sarva dharmān parityajya **is** - 
 
 > "No dharma of any kind **need be performed** for the sake of prapatti", 
 
-in the sense that prapatti does not require any of them (as aṅgas).  
+in the sense that prapatti does not require any of them (as aṅgas). 
 </details>
 
 <details><summary>Español</summary>
 
-Cuando **tomamos** "parityajya" como vidhi o mandato,  
-**sería apropiado decir** que  
-el significado de "sarva dharmān parityajya" **es** -  
+Cuando **tomamos** "parityajya" como vidhi o mandato, 
+**sería apropiado decir** que 
+el significado de "sarva dharmān parityajya" **es** - 
 
 > "**No es necesario realizar** ningún dharma de ningún tipo por el bien de prapatti", 
 
 en el sentido de que prapatti **no requiere** ninguno de ellos (como aṅgas).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1054,6 +1282,28 @@ en el sentido de que prapatti **no requiere** ninguno de ellos (como aṅgas).
 सर्वधर्मान् परित्यज्य ऎऩ्गिऱविदु वर्णाश्रमादिसकलधर्मङ्गळुम् भक्तिक्कु अङ्गमाग ऎप्पडि अपेक्षिक्कप्पडुगिऱदो अप्पडि प्रपत्तिक्कु अङ्गमाग ऒरु धर्मङ् गळैयुमपेक्षिक्कवेण्डामॆऩ्ऱु प्रपत्तिनैरपेक्ष्यत्तै विधिक्किऱदॆऩ्ऱाल् स्वरसमॆऩ्गिऱार् प्रपत्तिक्काग इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रपत्तिक्काह** - प्रपत्तिगागि, **ऒरुधर्मङ्गळुम्** याव धर्मगळन्नू, **अनुष्ठिक्कवेण्डा** - अङ्गवागि अनुष्ठिसबेकागिल्लवु, **ऎन्रु** - ऎम्बदागि, **प्रपत्तियिनुडैय** - भर-न्यासद, **नैरपेक्ष्यत्तै** - स्वन्त अङ्ग-पञ्चकगळल्लदॆ मिक्क यावुदर अपेक्षॆयू इल्लवॆम्बुदन्नु, **शॊल्लुगिरदॆन्गै** - हेळुत्तदॆम्ब भाववु, **विधि-पक्षत्तुक्कु** - लॆप्पिगॆ विधि-परवागि अर्थमाडुव पक्षक्कॆ, **उचितम्** - योगवाद अर्थवु, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+उत्कृष्टवागि उपादेयवादुदु ऎम्ब भाववु. प्रपदनक्कॆ अदक्कॆ बेकाद ऐदु अङ्गगळल्लदॆ इन्नु यावुदू बेकागिल्लवॆम्ब सारवाद भाववु ई लॆप्पिन विध्य्-अर्थदिन्द तोरि बरुवदरिन्द ई विध्य्-अर्थवू उपादेयवे ऎन्दु हेळिदरु. ई अभिप्रायवु हिन्दॆ परिकर-विभागाधिकारदल्लि व्यक्तवु. १०२९ नॆय पटवन्नु नोडि 
+
+> न जाति-भेदं न कुलं न लिङ्गं न गुण-क्रियाः ।  
+न देश-कालौ नावस्थां योगो ह्य् अयम् अवेक्षते ॥ 
+
+ऎम्ब मत्तु 
+
+> सकृद् एव प्रसन्नस्य कृत्यं नैवान्यद् इष्यते
+
+ऎम्ब प्रमाणगळु इल्लि अनुसन्धेयगळु. 
+
+हीगॆ परित्यज्य ऎम्बल्लिरुव लॆप्पु, विधि-परवादाग परि एम्ब उपसर्गदिन्द तोरि बरुव अर्थवेनु ? ऎन्दरॆ उपदेशिसुत्तारॆ, ऐदु अङ्गगळल्लदॆ, इन्नु यावुदन्नू सुतराम् अङ्गवागि भाविसबेड ऎम्ब भाववन्नु व्यक्तपडिसुत्तदॆन्दु हेळुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1122,6 +1372,21 @@ que **son requisitos** para **asegurar** la aptitud para todos los ritos en com�
 इन्द नैरपेक्ष्यपक्षत्तिल् धातुविऩालेये कर्मसामान्यनैरपेक्ष्यम् तोऩ्ऱुगैयाल् परि ऎऩ्बदऱ्कु प्रयोजनमुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् अप्पोदु ‘‘परि’’ ऎऩ्गिऱ उपसर्गमिति । त्यजिधातुविऩाले शरणागतिक्कु विशिष्य अङ्गमाग कर्मापेक्षैयिल्लैयॆऩ्ऱु तोऩ्ऱिऩालुम् सर्वशास्त्रीय कर्मङ्गळुक्कुम् योग्यतापादकमाग विधिक्कप्पट्ट शुचित्वाचमनादिगळैयुम् निषेधिक्कैयिल् परि ऎऩ्गिऱ उपसर्गत्तिऱ्कुत् तात्पर्यमॆऩ्ऱदायिऱ्ऱु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अप्पोदु** - लॆप्पिगॆ विध्य्-अर्थवन्नु हेळिद पक्षदल्लि, **परि** ऎम्ब उपसर्गवु, **"आचान्तेन कर्तव्यम्"** - आचमन माडिदवनिन्द माडतक्कद्दु ऎन्दरॆ आचमन-पूर्वकवागिये सकल-कर्मवन्नू माडतक्कद्दु, **शुचिना कर्तव्यम्** - स्नान-सन्ध्या-वन्दनादि--नित्य-कर्मगळन्ननुष्ठिसिदवनिन्द माडतक्कद्दु", **इत्य्-आदिगळिर्** - इवे मॊदलाद विधि-रूप-प्रमाणगळल्लि, **चॊल्लुगिर** -  हेळुव, **सर्व-साधारण-योग्यतापादकङ्गळुम्** - समस्त-कर्मगळिगू साधारणवागि योग्यतॆयन्नुण्टुमाडुव स्नान-सन्ध्यावन्दन, आचमन-प्राणायामादिगळू, **इदुक्कु** - ई प्रपत्तिगॆ, **अङ्गमाग स्वीकार्यङ्गळाकादॆन्रु** - अङ्गवागि अङ्गिकरिसतक्कद्दल्लवॆम्बुदन्नु, **विवक्षिक्किरदु** - व्यक्तपडिसुत्तदॆ. 
+
+[[P72]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+त्यागवु विधियाद नन्तर उपायान्तरदल्लि अ-शक्ततॆयु एर्पट्टु अदन्नु तागमाडिदुदरिन्द कार्पण्याङ्गवु तोरिबन्दरॆ, आग परि-शब्दार्थवेनॆन्दरॆ साधारणवागि ऎल्ला कर्मगळिगू बेकाद स्नान-सन्ध्या-वन्दन, आचमन-प्राणायाम इवे मॊदलादवुगळन्नु कूड अङ्गत्वेन भाविसदॆ सम्पूर्णवागि त्यागमाडु ऎम्बर्थवन्नु बोधिसुत्तदॆम्बुदु हीगॆ हेळिदुदरिन्द स्नान-सन्ध्या-वन्दन आचमनादिगळु यावुवू प्रपदनानुष्ठानद दिवस बेकिल्लवॆम्ब अर्थवल्लवु बेरे स्व-तन्त्र-विधिगळिन्द आवश्यकवे, आदरॆ आदिन अवुगळन्नु अनुष्ठिसिदरू प्रपदनक्कॆ अवु अङ्गवॆन्दु भाविसतक्कद्दल्लवॆम्ब भाववु.
+
+आगलि, श्रीमच्-छङ्कराचार्यर अर्थक्कू इल्लि उपपादिसल्पट्ट अभिप्रायक्कू इन्नॊन्दु व्यत्यासवू तोरिबरलिल्लवल्ला. अवरुगळु विध्य्-अर्थदिन्द आ कर्म-योग, ज्ञान-योगादि-परिकरगळ मत्तु भक्ति-योगद स्व-रूप-त्यागवन्नु हेळि अवुगळन्नु अनुष्ठिसुव आवश्यकतॆ इल्लवॆन्दु हेळिदरु. इल्लियू अवुगळ परित्यागवे हेळल्पट्टिरुत्तदॆ. अदर अ-शक्ततॆयिन्द कार्पण्य-मूलक त्यागवु. अन्तू ऎरडु सन्दर्भदल्लू अनुष्ठानद अभाववे इरुत्तदॆ हीगाद नन्तर अवरुगळ अभिप्रायवु हेगॆ सरियल्लवु ? ऎन्दु प्रश्निसिदरॆ उत्तरवन्नु हेळुत्तारॆ. 
+
+</details>
 
 ## नोपायान्तर-त्याग-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1172,6 +1437,21 @@ prapatti **no** es **competencia** de nadie.
 सर्वधर्म स्वरूपत्यागम् शरणागतिक्कु अङ्गमॆऩ्ऱु सॊल्लुबवर्गळ् पक्षत्तिल् अनिष्टत्तै आपादिक्किऱार् इङ्ङऩऩ्ऱिक्के इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**धर्म-स्व-रूप-त्याग-वादद निरसनवु** हेळल्पडुत्तदॆ. 
+
+**इङ्गननिन्रिक्कॆ** - हीगॆ परित्यज्य-शब्दद लॆप्पिगॆ विध्य्-अर्थवन्नु ईग उपपादिसिद रीतियल्लि हेळदॆ, **कर्म-योगं ज्ञान-योगम् भक्ति-योगं, ऎङ्गिर धर्मङ्गळिनुडैय त्यागम्** - ऎन्नुव अनुष्ठानगळन्नु स्व-रूपतः त्यागमाडोणवु, **प्रपत्तिक्कु अङ्गम् ऎन्रु पक्षत्तिल्** - प्रपदनक्कॆ अङ्गवु ऎन्दु हेळिद पक्षदल्लि, **प्रपत्ति** - प्रपत्तियु, **सर्वाधिकारमन्रिक्के यॊळियुम्** - स्त्री-शूद्रादि-समस्तरिगू अधिकारवुळ्ळदल्लवॆन्दागुत्तदॆ. 
+
+[[P73]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अदु हेगॆ ऎम्बुदन्नु उपपादिसुत्तारॆ.- कर्म-योग--ज्ञान-योग--भक्ति-योगगळ सम्पूर्णवागि स्व-रूपतः त्यागवु अङ्गवागि विधिसितु ऎन्दु ऒप्पिदरॆ, आ कर्म-योगादिगळिगॆ अधिकारिगळागिरबेकु, अन्तवरु अवुगळन्नु स्व-रूपतः त्यागमाडबेकु, आग अन्तह परित्यागवु अङ्गवॆन्दरॆ, कर्म-योगादिगळल्लि अधिकारविरुववरु ब्राह्मण-क्षत्रिय-वैश्यरु. इवरुगळिगॆ मात्रवे प्रपदनदल्लि अधिकारवु, कर्म-योगादिगळिगॆ अनधिकारिगळाद स्त्री-शूद्रादिगळिगॆ प्रपदनदल्लि अधिकारविल्लवॆन्दागुवदरिन्द स्व-रूप-त्यागाभिप्रायवु शास्त्र-विरुद्धवागि अपार्थवागुत्तदॆन्दु हेळुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1210,6 +1490,19 @@ quién **es capaz** de **realizarlo**.
 सर्वाधिकारमऩ्ऱिक्केयॊऴियु मॆऩ्बदै सहेतुकमाग उपपादिक्किऱार् धर्मानुष्ठानशक्तऩुक्किऱे इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**धर्मानुष्ठान-शक्तनुक्किरे** - कर्म-योगादिगळन्नु अनुष्ठिसुव योग्यतॆ इरुव अधिकारिगल्लवे, **अवत्तिनुडैय** – आ कर्म-योगादिगळ, **त्यागत्तै** - परित्यागवन्नु, **विधिक्क वेण्डुवदु**  - अङ्गवागि विधिसबेकादुदु ? 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हीगॆ प्राप्तवागुवदरिन्द ई धर्मगळ स्व-रूप-त्यागवु प्रपदनक्कॆ अङ्गवागि विधिसल्पट्टितॆम्ब अभिप्रायवु शास्त्र-विरुद्धवादुदॆम्ब भाववु. इदरिन्द प्रपदनक्कॆ सर्वाधिकारत्वविल्लवॆन्दागुत्तदॆयादुदरिन्द अनेक-प्रमाणगळिगॆ विरुद्धवॆम्ब भाववु. मुन्दॆ आळ्वार् आचार्यरुगळ नाल्कु दिव्य-सूक्तिगू सम्प्रदायक्कू विरुद्धवाद भाववागुत्तदॆन्दु हेळुत्तारॆ. प्रपदनक्कॆ कार्पण्य अथवा अकिञ्चनत्ववू ऒन्दु मुख्यवाद अङ्गवु, ई नाल्कु प्रमाणगळू अदन्ने बोधिसुत्तवॆ. अन्तह अङ्गवे इल्लदुदरिन्द स्व-रूप-त्याग-विधिय वादवु सरियादुदल्लवॆन्दु तिळिसुत्तारॆ.- 
+
+[[P74]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1245,6 +1538,12 @@ que **se llama** aṅga (de prapatti) según muchos pramāṇas.
 शक्तऩुक्के विधिक्क वेण्डुमॆऩ्गिऱ आपत्ति इष्टमॆऩ्ऩिल्; कार्पण्यम् अङ्गमॆऩ्गिऱ प्रमाणत्तिऱ्कुम् आकिञ्चन्यम् अधिकारमॆऩ्गिऱ सम्प्रदायत्तिऱ्कुम् विरुद्धमामॆऩ्गिऱार् इदु बहुप्रमाणेत्यादिना । यद्यपि शक्तऩायिरुप्पवऩुक्के कर्मयोग ज्ञानयोग भक्तियोगङ्गळुडैय स्वरूपत्यागम् विहिदमॆऩ्ऱाल् अशक्ताधिकारत्व सम्प्रदायम् विरुद्धमाम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इदु** - ई कर्म-योगादि-धर्मगळ स्व-रूप-त्यागवु प्रपदनक्कॆ अङ्गवॆन्दु विधिसल्पट्टरुत्तदॆम्ब वादवु, **बहु-प्रमाण-सिद्धमान** - अनेक प्रमाणगळाद लक्ष्मी-तन्त्र, शाण्डिल्य-स्मृति मॊदलादवुगळिन्द स्थापितवाद, **कार्पण्यमागिर अङ्गुत्तुक्कुम्** - कार्पण्यवु प्रपदनक्कॆ मुख्य अङ्गवॆम्बुदक्कू, मुन्दॆ आळ्वाराचार्यरुगळ प्रमाणगळल्लि, 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1276,6 +1575,12 @@ y **no tengo** otro salvador".
 ’’पुगलॊऩ्ऱिल्लावडियेऩ्’’(तिरुवाय्मॊऴि ६-१०-१०), 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"पुगुलॊन्रिल्लापडियेन्"** - (तिरु. ६-१०-१०) - इदु **अगुगिल्लेन्** ऎम्ब पाशुरदल्लि बरुत्तदॆ. इदु हिन्दॆये अनेक सल उपपादितवु, द्वयाधिकारद[[??]] पुटवन्नु नोडि, **पुगुलॊन्रिल्ला** ऎन्दरॆ ननगॆ नीनल्लदॆ बेरॆ उपायान्तरगळल्लि शक्तियु इल्लवु ऎम्बुदरिन्द कार्पण्य-रूप अनन्य-गतित्ववु, **अडियेन्** - ऎम्बुदरिन्द अनन्यार्ह-शेषत्ववू इल्लि हेळल्पट्टवु. 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'कुलङ्गळ् आयव् (ईर्-इरण्डिल्' +++(न जातः)+++)  
@@ -1305,6 +1610,11 @@ para **ser competente** para la **ejecución** del dharma".
 ’’कुलङ्गळाय’’(तिरुच्-छन्दविरुत्तम् ९०), 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**कुलङ्गळाय्** - (तिरुच्-छन्दविरुत्तम् ९०) - इदू हिन्दॆये ऎरडु सल उदाहृतवु ई पाशुरार्थक्कॆ उत्तर-कृत्याधिकारद १२७१ नॆय पुटवन्नु नोडि. उत्तम-कुलदल्लि जन्मविल्लदिरुवदेनु, पञ्चेन्द्रियगळ हावळिगॆ सिक्किरुवदेनु, वेदगळन्नू वेदार्थगळन्नू ग्रहिसलु शक्तियिल्लदिरुवदेनु, हीगिरुवदरिन्द **इलङ्गु पादमन्रिमत्तॊरु पत्तिलेन्** - निन्न पादवन्नु नम्बिरुवदॊन्दल्लदॆ बेरॆ उपायदल्लि तनगॆ अधिकारवू शक्तियू इल्लवु. आदुदरिन्द इल्लू अनन्य-गतित्व-रूप-कार्पण्यवु प्रदर्शितवु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1333,6 +1643,14 @@ que **tiene** la marca de **adorar** los tres fuegos después de la **ablución*
 <details><summary>मूलम्</summary>
 
 ’’कुळित्तु मूऩ्ऱु’’(तिरुमालै २५),
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**कुळित्तु मून्रनल्वॆ** - (तिरुमालै २५) - इदू हिन्दॆये ऎरडु सल उदाहृतवु. उत्तर-कृत्याधिकारद १२६९ नॆय पुटवन्नु नोडि, इल्लियू कार्पण्यवे उपपादितवु. 
+
+[[P75]]
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1368,6 +1686,27 @@ en la **realización** del dharma,
 <details><summary>मूलम्</summary>
 
 ‘‘न धर्मनिष्ठोऽस्मि’’(आळवन्दार्-स्तोत्रम्) 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**न धर्म-निष्ठो ऽस्मि** - (आळ. २२) - इदू हिन्दॆये उदाहृतवु उत्तर-कृत्याधिकारद १२७८ नॆय पुटवन्नू, द्वयाधिकारद [[??]] नॆय पुटवन्न नोडि. उपायान्तरदल्लू तद्-अङ्गगळन्नु अनुष्ठिसलु तमगॆ शक्तियिल्लदुदरिन्दले **अकिञ्चनो ऽनन्य-गतिः** ऎन्दु श्री आळवन्दार्रु हेळिकॊण्डिरुत्तारॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+आदुदरिन्द उपायान्तरद स्व-रूप-त्यागवु प्रपदनक्कॆ अङ्गवागिये इल्लि **परित्यज्य** ऎम्बल्लि विधिसल्पट्टिदॆ ऎन्दरॆ प्रपदनक्कॆ मुख्याङ्गवाद कार्पण्यवे इल्लवागि आळ्वाराचार्यरुगळ सूक्ति-सम्प्रदायगळिगू विरुद्धवागुत्तदॆन्दु हेळल्पट्टितु. श्री-भगवद्-गीतॆयल्लादरो ई चरम-श्लोकद मूलक अर्जुननिगॆ कर्म-योग--ज्ञान-योग--भक्ति-योगगळ उपदेशदिन्द अवुगळ अनुष्ठानवु दुष्करवे, तनगॆ अनुष्ठिसलु शक्तियिल्लवे ऎन्दे शोकाकुलनागिद्दुदरिन्दले भक्ति-योगोपदेशानन्तरवू 
+
+> नष्टो मोहस् स्मृतिर् लब्धा त्वत्-प्रसादान् मयाच्युत ।  
+स्थितो ऽस्मि गत-सन्देहः करिष्ये वचनं तव ॥ (गी. १८-७३) 
+
+ऎन्दु हेळदॆ, चरम-श्लोकवन्नु हेळि **"मा शुचः"** ऎन्दु श्री-कृष्ण-भगवान्रवरु हेळिद नन्तर, मेलॆ हेळिद हागॆ मोह होयितु ऎन्दु तिळिसिरुवदरिन्द अर्जुननू कूड, कर्म-योगादिगळ अनुष्ठानवु बहु-दुष्करवागि तोरि, कार्पण्य-युक्तनागियू तन्-मूलक शोक-युक्तनागियू इद्दनॆम्बुदु व्यक्तवॆन्दु भाविसबहुदु. 
+
+ई अभिप्रायवन्नु सार-प्रकाशिकॆयवरु सूचिसिरुत्तारॆ. 
+
+[[P76]]
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1406,7 +1745,22 @@ lo cual **es evidente** en pasajes como el anterior.
 इत्यादिगळिले प्रसिद्धमाऩवकिञ्चनाधिकारमॆऩ्गिऱ संप्रदायत्तुक्कुम् विरुद्धमाम्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रसिद्धमान** - प्रसिद्धवागि तोरिबरुव, **अकिञ्चनाधिकारमॆङ्गिर सम्प्रदायत्तुक्कुम्** - तनगॆ कर्म-योगादिगळिन्द कूडिद भक्ति-योगक्कॆ तनगॆ अ-शक्ततॆयिन्दलागलि, आधिकारविल्लदुदरिन्दलागलि प्राप्तवाद आकिञ्चन्यवु प्रपदनक्कॆ आवश्यकवॆम्ब सम्प्रदायक्कू, ऎन्दरॆ **सम्प्रदायत्तुक्कुं विरुद्धमाम्** - विरुद्धवादुदागुत्तदॆ. मेलॆ मूलदल्लि हेळिरुव नाल्कु प्रमाणगळल्लू आकिञ्चन्यवु उपपादितवु. 
+
+</details>
+
 ## नात्यन्त-पारतन्त्र्यतस् त्यागः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**ई मेलिन स्व-रूप-त्याग-विधि-वाददिन्द, सर्व-शास्त्र--स्व-वचन--स्व-प्रवृत्ति--विरोध-बाधकगळुण्टागुत्तवॆन्दू हेळुत्तारॆ.** 
+
+आगलि, जीवात्मनिगॆ स्व-तन्त्र-कर्तृत्ववे इल्लवु, परमात्मनिगॆ अधीनवागिये समस्त-कर्तृत्ववू इरुवदु. हीगिरुवदरिन्द बहळ कष्ट-साध्यवाद कर्म-योगादिगळिन्द कूडिद उपायान्तरदल्लि ईतनिगॆ कर्तृत्ववे इल्लवु, आदुदरिन्द आ धर्मगळ स्व-रूप-त्यागवे इल्लि परित्यज्यवॆम्बल्लि अङ्ग-रूपदल्लि विधिसल्पट्टितॆन्दु भाविसलु अड्डि एनु ? ऎन्दु पूर्व-पक्षवन्नु तन्दरॆ, इन्तह वादवु, सर्व-शास्त्रक्कू, हीगॆ अन्वयिसुववर उक्तिगळिगॆ परस्पर-विरोधवू, अन्तवनु नित्यवू अनुष्ठिसबेकाद नित्य-नैमित्तिकादि-प्रवृत्तिगळिगू विरुद्ध उण्टागुत्तदॆन्दु **"ईश्वरनैपत्त"** ऎन्दारम्भिसिद वाक्यद मूलक उपपादिसुत्तारॆ. मॊदलु ई पूर्व-पक्षवन्नु हेळि अदरिन्दुण्टागुव बाधकगळन्नु तिळिसुत्तारॆ -
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> ईश्वरऩैप् पऱ्ऱ अत्यन्त-पर-तन्त्रतैयाले  
@@ -1482,6 +1836,42 @@ Por lo tanto, **sería** extremadamente ridículo **sostener** esta opinión.
 सर्वशास्त्रस्ववचनस्वप्रवृत्त्यादिविरोधत्ताले इति । अशक्तियिऩाले सर्वधर्मस्वरूपत्यागत्तै विधिक्किऱदु ऎऩ्गैयिल् उत्तरकृत्यविधायक सर्वशास्त्रविरोधमुम्, उपायान्तरत्तिले इवऩै नित्याशक्तऩागच् चॊल्लि, अन्द अशक्तऩुक्कु तत्त्यागत्तै विधिक्किऱदॆऩ्ऱाल् स्ववचनविरोधमुम्, स्नानोर्ध्वपुण्ड्रधारणजपमालाकरणादिस्वप्रवृत्तिविरोधमुम्, आदिशब्दग्राह्यशिष्टानुष्ठानविरोधमुम्, वरुमागैयाल् अत्यन्तपरिहास्यमामॆऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ईश्वरनैप्पत्त** - ईश्वरनन्नु कुरितु, **पारतन्त्रनागैयाले** - पर-तन्त्रनादुदरिन्द, **उपायान्तरङ्गळुक्कु** - बेरॆ उपायवन्नू, अदक्कॆ सेरिद अङ्गगळन्नू सेरिसि बहु-वचनवु, प्रपत्तियल्लदॆ अनेक उपायगळिवॆ ऎम्ब भ्रमॆयु कूडदु, कर्म-योग, ज्ञान-योग-साध्य--भक्ति-योग, हीगॆ इवुगळॆल्लक्कू, **क्षेत्र-ज्ञन्** - ई शरीरवॆम्ब क्षेत्रदल्लिद्दुकॊण्डु, अदक्किन्त तानु बेरॆयादवनॆन्दु तिळिदवनु ऎम्बर्थवु, ई मनुष्यनु, **नित्याशक्तनॆन्रु काट्टि** - यावागलू अ-शक्तनॆन्दु, **काट्टि** - तोर्पडिसि, **इवनुक्कु** - ई क्षेत्र-ज्ञनिगॆ, **अवत्तिनुडैय** - ई कर्म-योगादिगळ, **त्यागत्तै** - स्व-रूपतः त्यागवन्नु, **विधिक्किरदॆन्रुमदु** -  विधिसुत्तदॆन्दु हेळुवदु, इदे पूर्व-पक्षवु, अदरिन्दुण्टागुव भाधकगळन्नु तिळसुत्तारॆ.- (१) **सर्व-शास्त्र** - उत्तर-कृत्यादिगळन्नु विधिसुव सर्व-शास्त्रक्कू (२) **स्व-वचन** - तम्म उक्तिगेने (३) **स्व-प्रवृत्त्य्-आदि** - तावु ईग अनुष्ठिसुत्तिरुवदे मॊदलादुदक्कू, आदि-शब्ददिन्द शिष्टरुगळ अनुष्ठानक्कू, **विरोधत्ताले** - विरोध उण्टागुवदरिन्द, **अत्यन्त-परिहास्यम्** - तुम्बा हास्यास्पदवागुत्तदॆ.- 
+
+[[P77]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+पूर्व-पक्षाभिप्रायवेनॆन्दु, ई चेतननिगॆ शास्त्रदल्लि कर्तृत्ववु हेळल्पट्टिद्दरू, अदु परमात्मनिगॆ अधीनवादुदॆन्दु **परात् तु तच्-च्रुतेः** (२-३-४०) ऎम्ब व्यास-सूत्रदल्लि हेळल्पट्टिरुत्तदॆ. हीगॆये गीताचार्यरिन्द
+
+> प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वतः ।  
+अहङ्कार-विमूढात्मा कर्ताहम् इति मन्यते ॥ 
+
+प्रकृतियिन्दागुवुदन्नॆल्ला मूढात्मनु तानु स्व-तन्त्रिसि माडिदॆनॆन्दु तिळियुवनेन्दु निन्दिसल्पट्टिरुत्तानॆ. हागॆये इन्नॊन्दु कडॆयल्लू 
+
+> भ्रामयन् सर्व-भूतानि यन्त्रारूढानि मायया
+
+शरीरगळॆम्ब यन्त्र-मूलक सर्वेश्वरनाद, नाने ऎल्ला प्राणिगळन्नू सुत्तिसुत्तेनॆन्दु हेळिकॊण्डिरुवदरिन्द ऎल्ला मनुष्यरू पर-तन्त्ररादुदरिन्द आ कष्ट-साध्यवाद कर्म-योग--ज्ञान-योगगळिन्द अनुग्रहीतवाद भक्ति-योगवन्नु अनुष्ठिसलु पराधीनरु आदुदरिन्द अन्तह ऎल्ला धर्मगळ स्व-रूप-त्यागवु इल्लि विधिसल्पट्टितु ऎम्बुदु पूर्व-पक्षवु. अभिप्रायवु सर्व-शास्त्रक्कू, पूर्व-पक्षिय हेळिकॆगू, अवरुगळ प्रवृत्तिगू विरोधवागि हास्यास्पदवॆन्दु हेळिदरु. 
+
+(१) सर्व-शास्त्रक्कू हेगॆ विरोधवॆन्दरॆ ? प्रपन्नादवनु भर-न्यासानन्तर आज्ञानुज्ञा-रूपवाद याव याव प्रवृत्तिगळन्नुळ्ळवनागिरतक्कद्दॆन्दु उत्तर-कृत्याधिकारदल्लि हेळिदॆयो अदक्कॆल्ला विरोधवु इदू अल्लदॆ अनेक इति-कर्तव्यतॆगळन्नु शास्त्रगळु विधिसिरुत्तवे. इवू परमात्म-सङ्कल्पाधीनवागि नडॆयुवदरिन्द, ईतनु प्रयत्निसुवदॆल्ला निरर्थकवादुदरिन्द ऎल्ला शास्त्रानुमतियिन्द नडॆययुव दार-पुत्र-पोषणादिगळू, धर्मदिन्द भगवद्-भागवत-कैङ्कर्यगळिगागियू, देह-यात्रॆगागियू धनार्जनॆ मॊदलादवुगळ परित्यागवु विधिसल्पट्टिरुत्तदॆन्दु आगुवदरिन्द हास्यास्पदवु. 
+
+(२) स्व-वचन-विरोधवु हेगॆन्दरॆ ? परमात्मनिगॆ पर-तन्त्रनादुदरिन्द धर्मानुष्ठानगळिगॆ अ-शक्तनादुदरिन्द अवुगळ स्व-रूप-त्यागवु स्वतस्-सिद्धवु. अदन्नु विधिसिदरु ऎन्दु हेळिदरॆ अन्ताद्दन्नु विधिसबेके ? ऎन्दु केळबेकागुत्तदॆ. आदरू एनो विधिसितु ऎन्दरॆ, ईग केळबेकागुत्तदेनॆन्दरॆ, त्यागमाडलु मात्र ईतनगॆ शक्ततॆयु हेगॆ ?- अदक्कू अ-शक्ततॆयन्नु हेळबेकल्लवे ? शरणागतियन्नु अनुष्ठिसुवदरल्लि मात्र पराधीनतॆ इल्लवो ? हीगॆ तम्म वचनक्कॆ तावे विरोध-कल्पिसिद हागुत्तदॆम्बुदन्नु योचिसदॆ वाद माडुवदरिन्द हास्यास्पदवु.
+
+[[P78]]
+
+(३) स्व-प्रवृत्तिगॆ विरोधवु हेगॆ ? ऎन्दरॆ, हीगॆ हेळुववरू नित्य-नैमित्तिकानुष्ठानगळल्लि प्रवृत्तियन्नु इट्टुकॊण्डिरुत्तारॆ. स्नान, ऊर्ध्व-पुण्ड्र-धारण, सन्ध्या-वन्दन, ब्रह्म-यज्ञादिगळन्नु तावे अनुष्ठिसुत्तारॆ. ऎल्ला धर्मगळ स्व-रूप-त्यागवु विधिसल्पट्टितु ऎन्दरॆ इवुगळन्नु बिडबेकागि बरुत्तदॆ. आदुदरिन्दलू हास्यास्पदु. हीगॆये अनेक-शिष्टाचारगळुण्टु. भगवद्-भागवताराधनॆय रूपदल्लि नडॆयुत्तवॆ अवुगळन्नॆल्ला अङ्गवागि बिडबेकागि बरुवदरिन्दलू हास्यास्पदवु.
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मुन्दॆ इन्नू ऒन्दु विरोधु, प्रतिद्वन्द्वि-रूपदल्लि उण्टागुत्तदॆन्दु हेळुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1523,6 +1913,21 @@ incluso el vidhi **contenido** en vraja (**búscame** etc.)
 जीवऩै नित्याशक्तऩाग ऒप्पुक्कॊण्डाल् इवऩैक्कुऱित्तु शरणं व्रज ऎऩ्ऱु विधिक्कवुम् मुडियादॆऩ्गिऱार् अप्पोदु इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अप्पोदु** - हागॆ धर्मगळ स्व-रूप-त्याग-विधियु **परित्यज्य** ऎम्बल्लि हेळल्पट्टितॆन्दु भाविसिदरॆ, **तुल्य-न्यायत्तले** - समानवाद न्यायदिन्द, चेतननु तुम्बा पर-तन्त्रनागि अ-शक्तनागिरुवदरिन्द कर्म-योगादिगळ परित्यागवु हेळल्पट्टितु ऎम्ब न्यायक्कॆ अनुसारवाद न्यायदिन्दले, **व्रज** - इल्ले ई चरम-श्लोकदल्लि, **शरणं व्रज** - शरणवन्नागि हॊन्दु, शरणागतियन्ननुष्ठिसु, **ऎन्गैतानुम्** - ऎन्दु हेळुवदू कूड, **घटियादु** - कूडुवदिल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हीगॆ शरणागत्य्-अनुष्ठानक्कू पराधीनतॆयिन्द अ-शक्ततॆयु इद्दे इरुत्तदॆ अल्लिन न्यायवु इदक्कू उण्टे उण्टु, आदुदरिन्द शरणागतियन्नु परित्याग माडबहुदु ऎन्दागुवदरिन्द इन्नू परिहास्यवॆम्ब भाववु. 
+
+अ-शक्ततॆ ऎन्दु यावाग उपपादिसल्पट्टितो, अन्तह अ-शक्ततॆयिन्दले त्यागवॆम्बुदु सिद्धवागुत्तदॆ. इदक्कॆ त्याग माडु ऎम्ब विधियु एतक्कॆ ? आदुदरिन्द निम्म अ-शक्तता-वाददिन्दले त्यागवु एर्पडुवदरिन्दले, पूर्व-पक्षियू कूड ई तम्म वाददिन्द सरियाद अनुवाद-रूपाभिप्रायवन्ने स्थिरीकरिसिद हागायितॆन्दु मुन्दिन वाक्यदिन्द तिळिसुत्तारॆ.- 
+
+[[P79]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1566,6 +1971,17 @@ que a estos escritores **no les gustaría aceptar**.
 प्रसङ्गाद् दूषणान्तरमरुळिच्चॆय्गिऱार् उपायान्तरङ्गळुक्कु इत्यादियाल्। उपायान्तरत्तिल् जीवऩ् नित्याशक्तऩॆऩ्ऱाल् तत्त्यागम् पूर्वमे सिद्धमागैयाले अदु अवर्गळुक्कनिष्टमाऩ त्यागानुवादपक्षत्तिऱ्के अनुकूलमामॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**उपायान्तरङ्गळुक्कु** - कर्म-योगादिगळिन्द सहकृतवाद भक्ति-योगवाद बेरॆ उपायक्कॆ, **जीवात्मनु, नित्याशक्तनॆन्गै** - यावागलू अ-शक्तनॆन्दु हेळुवदु, **तङ्गळुक्कु अनिष्टमान** - पूर्व-पक्षिगळिन्द तमगॆ इष्टविल्लद, **अनुवाद-पक्षतुक्कु** - परित्यज्यवॆम्बुदु अनुवादवन्नु सूचिसुत्तदॆ ऎम्ब पक्षवन्नॆ, **स्थिरी-करणं पण्णिन पडियामत्तनै** - स्थापिसिद हागॆये आगुत्तदे विना अन्यथा अल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+पूर्व-पक्षियु इदर मेलॆ हेळबहुदेनॆन्दरॆ - अ-शक्तन विषयदल्लि अनुवादवॆन्दु भाविसिदरू हिन्तॆयिल्लवु, शक्तन विषयदल्लादरो परित्यज्यवॆम्बुदरिन्द परित्यागवु विधिसल्पट्टितॆन्दु हेळुवॆवु ऎन्दरॆ आगलू सरियल्लवॆन्दु हेळुत्तारॆ. शक्तनू अ-शक्तनू भिन्नाधिकारिगळु, अन्तवरिगॆ ऒन्दे विधवाद साधनवन्नु अनुवाद-रूपदल्लेयागलि, विधि-रूपदल्लागलि हेळुवदु हेगॆ समञ्जसवु ? ऎन्नुत्तारॆ. शक्तनिगॆ साधनवु अ-शक्तनिगॆ साधनवू बेरॆ बेरॆयागिरुवदु सहजवु. हागल्लदॆ ऒन्दे वाक्यदिन्द साधनवन्नु हेळुवदु अ-सङ्गतवल्लवे ऎन्दु हेळुत्तारॆ -
+
+</details>
 
 ## नाधिकारिविशेषे विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1631,6 +2047,21 @@ y el **mandato** al hombre que **es capaz** de **realizar** un **renuncia**
 वाक्यभेदाङ्गीकारे स एव दोषः ऎऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**एक-प्रयोगन्ताने** - साधनवॆन्दु हेळुव ऒन्दे वाक्यवे अ-शक्तन विषयदल्लि त्यागवु अनुवादवागि कार्पण्यवन्नु प्रकटिसुत्तदॆन्दू, **इत्त नैपत्त** - शक्तनन्नु कुरितु, **त्यागवु विधिमागै** - विधियागोणवु, **एक-वाक्यत्तिल् घटियादु** - ऒन्दे वाक्यदल्लि हेळुवदु साध्यविल्लवु. अ-शक्तन विषयदल्लि हेळिद साधन-रूप-वाक्यवु, शक्तन विषयदल्लि अन्वयिसलारदॆम्ब भाववु. 
+
+[[P80]]
+
+</details>
+
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+भिन्नाधिकारिगळाद अ-शक्तशक्तरिगॆ ई परित्यज्यनॆम्बुदु अन्वयिसुत्तदॆन्दु हेळिदरल्लवे नीवु दूषणवन्नु हेळिदिरि. नावु हागॆ हेळुवदे इल्लवु. शक्तनन्नु कुरिते हेळिदुदु; शक्तनागिरुवदरिन्द भक्ति-योगवन्नु स-परिकारवागि अनुष्ठिसबहुदु; आतन विषयदल्ले विकल्पिसि प्रपदनवन्नादरु अनुष्ठिसबहुदु ऎन्दु हेळि, हीगे अनुष्ठिसुवाग मात्र सर्व-धर्मगळ परित्यागवु विधिसल्पट्टितॆन्दु हेळुवॆवु, ऎन्दरॆ आगलू दूषणवु तप्पिद्दल्लवॆन्नुत्तारे.- ऒब्ब अधिकारिगेने ऒन्दु फलवुळ्ळ गुरु-लघु उपायगळन्नु हेळबहुदो ? शक्तनिगॆ गुरूपायवन्नू अ-शक्तनितॆ लघूपायवन्नु हेळुवदीग फल-तारतम्यविल्लद सन्दर्भदल्लि, न्यायवॆन्दु हेळुत्तारॆ.- 
+
+</details>
+
 ## न गुरु-लघु-विकल्पः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1680,6 +2111,23 @@ cuando **no hay** diferencia en el objeto de logro.
 उपायान्तरशक्तऩैक्कुऱित्ते उपायान्तरत्यागविधिपूर्वकमाऩ लघुवाऩ शरणागतियै विधिक्किऱदॆऩ्ऱुम्, अवऩुक्के विगल्बत्ताले गुरुवाऩ उपायान्तरत्तैये उपासनवाक्यम् विधिक्किऱदॆऩ्बदुम् घटियादॆऩ्गिऱार् फलत्तिल् वैषम्यमुमऩ्ऱिक्के इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**फलत्तिल् वैषम्यमम् अन्रिक्कॆ** - फलदल्लि एनू तारतम्यविल्लदिरुवाग ऎन्दरॆ ऎरडू मोक्ष-दायिकगळागिरुवाग, **अधिकारियुम् एकनायिरुक्क** - अधिकारियु ऒब्बनेयागिरुवाग, **गुरु-लघु-विकल्पमुम्** - गुरूपायवाद उपासनवन्नेयागलि लघूपयवाद प्रपदनवन्नेयागलि माडबहुदॆम्ब विकल्पवन्नु, **शॊल्लवॊण्णादु** -  हेळलु साध्यविल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+दहर-विद्यॆ, अक्षि-विद्यॆ मॊदलाद ब्रह्म-विद्यॆगळ हागॆ समवाद उपायवादरू आगिद्द पक्षदल्लि ऒब्ब अधिकारिगेने विकल्पिसि हेळबहुदु. ऒन्दु गुरूपायवागियू ईन्नॊन्दु लघूपायवागियू आगिरुवाग, हीगॆ ऒब्बने अधिकारिगॆ विकल्पिसि हेळलागुत्तदॆम्ब भाववु. शक्ताशक्त-भिन्नधिकारिगळिगीग विकल्पिसि हेळबहुदु ऎम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हीगॆ ऒन्दु गुरूपायवू ईन्नॊन्दु लघूपायवू आदरॆ तिळुवळिकॆ इरुव यावनु गुरूपायवन्नु अनुष्ठिसुवनु ? अदन्नु ऒन्दु उपायवागि शास्त्रदल्लि हेळिरुवदु निरर्थकवल्लवो ऎन्दु मुन्दॆ तिळिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1722,6 +2170,13 @@ entonces nadie jamás **pensaría en adoptar** el upāya más difícil
 ऒरु अधिकारिक्कु ऒरु फलत्तैक् कुऱित्ते गुरुवाऩ उपायत्तैयुम् लघुवाऩ उपायत्तैयुम् विधिक्किऱदॆऩ्गिऱ इप्पक्षत्तिल् ऎल्लोरुम् लघूपायत्तिलेये प्रवृत्तिप्पारागैयाल् गुरूपायविधायकशास्त्रत्तिऱ्कु अननुष्ठानलक्षणाप्रामाण्यम् सम्भविक्कुमॆऩ्गिऱार् गुरूपायत्तिले इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**गुरूपायत्तिले** - गुरूपायवाद भगवद्-उपासनदल्लि ऎन्दरॆ भक्ति-योगदल्लि, **शक्तनानवनुक्के** - शक्तनादवनिगेने, **अदिन् त्याग-विशिष्टमान** - अदर त्यागवाद अङ्गदिन्द कूडिद, **लघूपायत्तै** - प्रपत्तियन्नु, **विधित्ताल्** - परित्यज्यवॆम्बुदरिन्द विधिसल्पट्टरॆ, **गुरूपायत्तिल्** - कष्टवाद उपासनदल्लि, भक्ति-योगदल्लि, **ऒरुत्तरुम्** - ऒब्बरू, **प्रवृत्तिप्पारिल्लामैयालुम्** - अनुष्ठिसुवरिल्लदिरुवदरिन्द, 
+
+[[P81]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1763,8 +2218,28 @@ todos los śāstras que **ordenan** la realización o **adopción** del upāya m
 वेऱॊरु मुखत्ताले इति । मन्दज्ञानरुम् मन्दविश्वासरुम् भक्तिक्कु अधिकारियॆऩ्ऱुम्, पूर्णज्ञानरुम् महाविश्वासशालियुम् प्रपत्तिक्कु अधिकारियॆऩ्ऱुम् अधिकारिभेदकल्पनम् वक्ष्यमाणरीत्या व्यासादिगळुक्कु ज्ञानविश्वासमान्द्यापादकमागैयाले सॊल्लवॊण्णामैयालुमॆऩ्ऱबडि। लोकत्तिल् गुडजिह्विकान्यायत्ताले, अदावदु रुग्णऩाऩ बालऩुक्कु कटुवाऩ औषधत्तैक् कॊडुक्क वेण्डियदऱ्काग मुदलिल् जिह्वैयिल् गुडत्तैत् तडवि इप्पडित्ताऩ् इरुक्कु मॆऩ्ऱु औषधत्तिल् प्ररोचऩैयैयुण्डुबण्णि कटुवाऩ औषधत्तैक् कॊडुप्पदुवऴक्कम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**वेरोरु मुखत्ताले** - इतररु हेळुव ज्ञान-विश्वास-मान्द्य-रूपवाद बेरॆ याव रूपदल्लेयागलि, **अधिकार-भेदम् शोल्लवॊण्णामैयालुम्** - अधिकार-भेदवन्नु हेळदिरुवदरिन्दलू ऎन्दरॆ, उपासनक्कॆ इन्तवनिगॆ अधिकारवॆन्दु हेळदॆ इरुवदरिन्दलू, **गुरूपायत्तै विधिक्किर** - ई कष्टतरवाद उपायवाद भक्ति-योगवन्नु विधिसुव. **शास्त्रङ्गळॆल्लाम्** - शास्त्रगळॆल्ला अवु यावुवॆन्दरॆ उपनिषत्तु स्मृति, ब्रह्म-सूत्र, भारत-भगवद्-गीतॆ भागवतादिगळॆल्ला, **प्रमाणमन्रिक्केयॊळियुम्** - प्रमाणवल्लदे होगुवुवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हीगॆ हेळुववरिगॆ ई शास्त्रगळॆल्ला प्रमाणवल्लदे होगुवुवु ऎम्ब भाववु. शक्तनिगे ई त्याग-विधियु हेळल्पट्टिरुवदरिन्द आतनिगेने प्रपत्तियु विधिसल्पट्टितु ऎन्दरॆ आग आतनु भक्ति-योग--गुरूपायवन्नादरू अथवा विकल्पिसि लघूपायवन्नागलि अनुष्ठिसबहुदु ऎन्दायितु. लघूपायविरुवाग अदन्नु बिट्टु कष्टतरवाद उपायवन्नु याव बुद्धिवन्तनू अनुष्ठिसुवदिल्लवु. आदुदरिन्द गुरूपायवन्नु विधिसुव शास्त्रगळॆल्ला निरर्थकगळावुवु ऎम्ब तात्पर्यवु. 
+
+</details>
 
 ### न प्ररोचनम्
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+आगलि, शास्त्रगळल्लि गुरूपायवन्नु उपदेशिसिरुवदु अदर कष्टतर-दॆशॆयन्नु प्रदर्शिसि, लघूपायवाद प्रपदनदल्लि अभिरुचियन्नुण्टु माडिसुवदक्कागि, उपासनादिगळु बहु-कष्टतरवादवुगळॆन्दु ई शास्त्रगळल्लि उपपादिसल्पट्टवॆन्दु हेळुत्तेवॆ. हीगॆ कष्टतरवागिरुवदरिन्दले अवु परित्यज्यवॆम्बुव विधियिन्द निषेधिसल्पट्टवु ऎन्नुत्तेवॆ, ऎन्दरॆ आग विकल्पिसि केळबेकागुत्तदॆ. शास्त्रवु प्ररोचनार्थवागि भक्ति-योगवन्नु विधिसि, अदु कष्टतरवॆन्दु हेळि निषेधिसितु ऎन्दरॆ अदू उपायवे ऎन्दु हेळि निषेधिसिते ? अथवा अदु उपायवे अल्लवु, आदुदरिन्द परित्यागमाडु ऎन्दु निषेधिसिते ? ऎम्ब ऎरडु विकल्पगळिल्लि, मॊदलिन विकल्पवन्नु **"अदु तन्नैये निषेधिक्किरदु"** ऎम्बुदरिन्द दूषिसुत्तारॆ.- हीगॆ हेळुवदु अत्यन्त अनुचितवु ऎन्दु मुन्दिन वाक्यदिन्द हेळुत्तारॆ. 
+
+[[P82]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लघूपाय-प्ररोचनार्थम् आग गुरूपायत्तै विधित्तु  
@@ -1808,8 +2283,30 @@ y luego **prohibido** para **rendimiento**.
 इन्द न्यायत्ताले लघूपायत्तैक् काट्टि गुरूपायत्तै प्ररोचिप्पिक्किऱदु न्याय्यमाऩालुम् मुदलिल् गुरूपायत्तै विधित्तु लघूपायप्ररोचनार्थम् अदै विडच् चॊल्लुगिऱदॆऩ्बदु अत्यन्तानुचितमॆऩ्गिऱार् लघूपायप्ररोचनार्थमाग इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**लघूपाय-प्ररोचनार्थवाग** - वञ्चिसि, गुरूपायवन्नु तिरस्करिसि, लघूपायवाद प्रपत्तियल्लि मनस्सुण्टागुवदक्कागि, मॊदलु **गुरुपायत्तैविधित्तु** - गुरूपायवाद भक्ति-योगवन्नु उपपादिसि, विधिसि, **अदु तन्नै** - आ गुरूपायवन्ने, **निषेधिक्किरदॆन्गैयुम्** - निषेधिसि हेळितॆम्बुदू, **अत्यन्तानुचितम्** - अत्यन्त-योग्यवादुदल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+भगवद्-गीतॆय अष्टु अध्यायगळिन्दलू भक्ति-योगद माहात्म्यॆयन्नॆल्ला स-परिकरवागि उपवादिसि हेळि, कॊनॆयल्लि **मन्-मना भव मद्-भक्तो** ऎन्दू विधिसि, कडॆगॆ **"नेति नेति"** ऎम्ब श्रुति-वाक्यक्कॆ कॆलवरु अर्थ माडिरुव हागॆ, **सर्व-धर्मान् परित्यज्य** ऎम्बल्लि निषेधिसि हेळितु ऎम्ब अभिप्रायवु अत्यन्त अनुचितवादुदु ऎन्दु हेळिदरु. एकॆन्दरॆ, साविर माता-पितृगळिगिन्तलू वत्सलतरवाद शास्त्रवु ऎन्दिगादरू वञ्चिसुत्तदॆये ? ऎन्दरॆ परम-हित-बोधनॆयू कूड प्ररोचनार्थवागि ऎन्दिगादरू हेळबहुदे ? स्वामियु प्ररोचन-प्रवृत्तियन्नु नडसलिल्ल ऎन्दु हेळुवदिल्लवु. दुष्टराद वृत्रासुर, काल-यवन, शूर्प-नखा मॊदलादवर विषयदल्लि प्ररोचनवुण्टु. महात्मराद ज्ञानिगळ विषयदल्लू, **"शाधिमां त्वां प्रपन्नम्"** ऎन्दु शरणागतियन्ननुष्ठिसि प्रार्थिसिदवनिगॆ, **"सर्व-गुह्यतमं भूयः"** उपदेशिसुवॆनु ऎन्दु हेळि वञ्चिसुवने ? लोकदल्लू ऒब्ब रोगिगॆ ऒन्दु औषधवन्नु वञ्चिसि कुडिसि, अदरल्लि बुद्धियुण्टादनन्तर अदु सरियाद औषधवल्ला ऎन्दु हेळि बेरॆ औषधवन्नु तॆगदुको ऎन्दु हेळुवदु हेगॆ अनुचितवो हागॆये इल्लियू ऎन्दु भाविसतक्कद्दु. इदक्कॆ व्यत्यस्तवागि प्ररोचनवन्नु ऎन्तह सन्दर्भदल्लि माडबहुदु ऎन्दरॆ, मॊदलु सुकरवागि रुचियागिरुव औषधवन्नु कॊट्टु तद्-अनन्तर दुष्करवागियू कहियागिरुव औषधदल्लि शीघ्र-गुणवुण्टु ऎन्दु हेळि वञ्चनॆयु ऎन्दु हेळिदरादरू ऒप्पबहुदु. गुरुवादुदन्नु वञ्चिसि मॊदलु उपदेशिसि अनन्तर अदु बेड ई लघुवादुदन्नु अवलम्बिसु ऎन्दु भगवान् हेळिदरु ऎम्बुदु परिहास्य-करवू अल्लदॆ, शास्त्रक्कॆ वैयर्थ्यवन्नू कल्पिसिदरु ऎन्दु हेळबेकागुत्तदादुदरिन्द अनुचितवु अदू उपायवादरॆ प्ररोचनवु हेगादीतु ? 
+
+[[P83]]
+
+श्री-कृष्ण-भगवान्रवरे भक्ति-योग-निष्ठनन्नु **"युक्ततम"**नॆन्दू, तनगॆ **"अत्यर्थ-प्रिय"**नॆन्दू, **"महात्मनस् तु"** हीगॆल्ला कॊण्डाडि, विधिसि, अनन्तर इदु यावुदू बेड, ऎल्लवन्नू बिट्टु बिडु ऎन्दु विधिसिदरु ऎन्दरॆ भगवन्तन मातु हेगॆ सत्यवॆन्दु नम्बलागुत्तदॆ ? मॊदलिन उपदेशवॆल्ला सत्यवे ? अदक्कॆ प्रतियागि ऎरडनेय सलद विधियु सत्यवे ? ऎम्ब शङ्का बरुवुदरिन्द, अत्यन्तानुचितवॆन्दु हेळिदरु. भगवन्तने ऒन्दु कडॆ ऒन्दु विधवागि हेळुत्तानॆ, इन्नॊन्दु कडॆ अदक्कॆ विरुद्धवागि हेळुत्तानॆ, ऎन्दरॆ आतन उपदेशदल्लि नम्बिकॆ हेगॆ ऎन्दु सन्देह उण्टागुवदरिन्द अत्यन्तानुचितवु. 
+
+</details>
 
 ### शास्त्र-मोहकतापत्तिः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+ऎरडनॆय विकल्पद विषयदल्लि **"अनुपायङ्गळै उपायङ्गळाग्"** ऎन्दारम्भिसि दूषिसुत्तारॆ. भक्ति-योगवु उपायवे अल्लवु, अदन्नु उपायवॆन्दु भाविसिदरॆ अदु ऎष्टु कष्टतरवादुदु नोडु, आदुदरिन्द अदन्नु त्यागमाडि, प्रपदनवन्नु अनुष्ठिसु ऎन्दु प्रपदनदल्लि अभिरुचियुण्टागिरुवदक्कागि उपायवल्लदुदन्नु उपायवॆन्दु मॊदलु भाविसल्पट्टितु, अनन्तर अदन्ने निषेधिसबेकॆन्दु त्यागवु विधिसल्पट्टितु ऎन्दरॆ,- आगलू दूषणवु तप्पलिल्लवॆन्नुत्तारॆ - 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुपायङ्गळै उपायङ्गळ् आग विधिक्किऱद् ऎऩ्ऱाल्  
@@ -1865,8 +2362,22 @@ Incluso cosas como la naturaleza esencial del Salvador (que **aprendemos** sólo
 शरणागतिविधानमे कूडादॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अनुपायङ्गळै**- इल्लि स-परिकर--भक्ति-योगवु उपायवे अल्लवॆन्दु ऒप्पि हेळुव वादवु, उपायगळे अल्लद, भक्ति-योगादिगळन्नु (इल्लि परिकरगळिन्द सेरिद भक्ति-योगवॆम्ब भावनॆयिन्द बहु-वचनवु, उपायगळु ऎरडे ऎन्दु मुन्दॆये हेळुत्तारॆ,) **उपायङ्गळाक** - उपायगळॆन्दु, **विधिक्किरदॆन्नाल्** - ई परित्यज्य ऎम्ब शब्दवु विधिसुत्तदॆ ऎन्दरॆ, **श्रुति-स्मृतिगळ्** - ३२ विध ब्रह्म-विद्यॆगळन्नु बोधिसुव उपनिषत्तुगळू मत्तु स्मृति-शब्ददिन्द भगव-द्गीता मॊदलादवु हेळल्पट्टवु, इवुगळल्ले ब्रह्म-सूत्रगळू सेरिदवु - इवुगळॆल्ला, **मोहन-शास्त्रङ्गळाग प्रसङ्गिक्कैयाले** - अ-सत्यवादुदन्नु सत्यवॆम्ब भ्रमॆयन्नुण्टुमाडुव बृहस्पति-स्मृति, पाशुपत-शास्त्र, मॊदलाद मोहन-शास्त्रगळ हागॆ ई श्रुति-स्मृतिगळिगू अपलापवु उण्टागुवदर मूलक, **शरण्य-स्व-रूपादिगळुम्** - यथार्थवागि शरण्यन स्व-रूप--स्व-भावादिगळू सह, **सिद्धियादपडियाम्** - सिद्धिसदे होगलु कारणवागुत्तदॆ. मोहन-शास्त्रवागि, अवुगळल्लि हेळिरुव परमात्म-स्व-रूप--स्व-भावगळू सह मोहन-रूपवागि यथार्थवल्लदे होगि उपादेयवागलारदॆम्ब भाववु. 
+
+[[P84]]
+
+</details>
 
 ### लोके ऽधिकारि-भेदः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+आगलि, लोकदल्लि अर्थ-सम्पादनॆगागि कष्टतरवाद कष्य्-आदि-व्यापारगळु बेडवॆन्दु निषेधिसि लघुवाद रत्न-व्यापार--वाणिज्यादिगळन्नु अवलम्बिसु ऎन्दु हेळुवदरल्लि एनॊन्दू अ-सङ्गतवादुदन्नु कण्डिल्लवल्ला, ऎन्दरॆ अधिकारियु ऒब्बने आगिद्दरॆ आगलू दोष-युक्तवे, शक्ताशक्त-भिन्नाधिकारिगळ विषयदल्लीग हागॆ विकल्पिसि हेळबहुदु ऎन्दु हेळुत्तारॆ. कृष्य्-आदि-व्यापारगळिगॆ योग्याधिकारिये बेरॆ, रत्न-वाणिज्यादिगळिगॆ अधिकारिये बेरॆ, इदु लोक-प्रसिद्धवाद विषयवॆन्दु उपदेशिसुत्तारॆ - 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरुक्कळ् आऩ कृष्य्-आदि-व्यापारङ्गळुम्  
@@ -1921,6 +2432,29 @@ pero esta opción **está determinada** por las diferencias de capacidad o compe
 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**गुरुक्कळान** - कष्ट-साध्यगळाद, **कृष्य्-आदि-व्यापारङ्गळ्** - जमीनिन सागुवळि मॊदलाद व्यापारगळु आदि-शब्ददिन्द कॆरॆकट्टुवदु, भावि तॆगियुवदे मुन्तादवु सूचितवु, **लघूक्कळान** - सुलभगळाद, **रत्न-वाणिज्यादिगळुम्** -रत्नपडि व्यापार, सरकुगळ व्यापार, आदि-शब्ददिन्द चिन्न बॆळ्ळि व्यापारादिगळु हेळल्पट्टवु, **अर्थार्थिगळ पक्कळ्** - ऒन्दे फलवाद धनार्जनॆ माडबेकॆम्बुवदर विषयदल्लि, **विकल्पिक्किरदु** - विकल्पिसि हेळुवदू सह, **अधिकारि-विशेष-व्यवस्थैयाले** - यारु यावुदरल्लि योग्यतॆ इरुव अधिकारिगळॆम्ब व्यवस्थॆय मूलकवावि, **ऎन्रुमिडम्** - ऎम्बुव सन्दर्भवु लोक-प्रसिद्धवु. 
+
+[[P85]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इदरिन्द गुरूपायवाद भक्ति-योगक्कू लघूपायवाद प्रपदनक्कू अधिकारिगळु बेरॆ बेरॆ ऎम्बुदु स्थापितवु. इदु हिन्दॆ अधिकारि-विभागाधिकारदल्लि उपादितवु. हागॆये इल्लि लीला-सारथिय उपदेशदल्लू ऎरडु उपायगळू भिन्नाधिकारिगळिगॆ विधिसल्पट्टिरुत्तवॆ ऎम्ब भाववु. 
+
+आगलि, पूर्व-पक्षियु पुनः हेळबहुदेनॆन्दरॆ - श्रीवत्साङ्क-मिश्रराद (आळ्वान्) ज्ञान-निधिगळु ई चरम-श्लोक-व्याख्यानदल्लि नावु हेळिद हागॆ ऒब्ब अधिकारिगेनॆ, उपायान्तर-दौष्कर्यदिन्द शोकिसुववनिगेनॆ प्रपत्तियु विधिसल्पट्टिरुत्तदॆन्दु तोर्पडिसुत्तारल्ला ऎन्दरॆ अदक्कॆ समाधानवन्नु हेळुत्तारॆ - अवर अर्थवु निम्म अभिप्रायानुगुणवल्लवॆन्दु हेळि, अवर अभिप्रायवु यावुदॆन्दरॆ तिळिसुत्तारॆ - श्रीवत्साङ्क-मिश्ररवरु बरॆदिरुवदेनॆन्दरे - 
+
+> उपायान्तर-दौष्कर्यात्  
+शोचन् त्वं मद्-अवाप्तये ।  
+साधनत्वेन निर्णीतान्  
+सर्वान् सन्त्यज्य दूरतः ॥  
+माम् एकं शरणं याहि 
+
+ऎम्बदागि, उपायान्तरवाद भक्ति-योगवन्नु अनुष्ठिसुवदु तुम्बा कष्टवे ऎन्दु शोकिसुत्तिरुव, मत्तु नन्नन्नु हॊन्दुवदक्कॆ उपायवागि निर्णयिसल्पट्टिरुवदु यावुदो अवॆल्ला धर्मगळन्नु दूरवागि त्यजिसिरुव नीनु नन्नॊब्बनन्ने उपायवागि हॊन्दु ऎन्दरॆ प्रपदनवन्नु अनुष्ठिसु ऎम्बुदु अर्थवु. आदुदरिन्द कूरत्ताळ्वार्रवर अभिप्रायवू भिन्नाधिकारिगॆन्दे हेळुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2000,6 +2534,41 @@ o **significa** sólo "**sin hacerlo** como un aṅga **requerido** para prapatt
 ऎऩ्गिऱविडत्तिल् उपायान्तरदौष्कर्यत्ताल् साधनत्वेन निर्णीतङ्गळाऩ सर्वधर्मङ्गळैयुम् विट्टु शोचित्तुक्कॊण्डिरुक्किऱ त्वं मामेकं शरणं याहि ऎऩ्ऱु अन्वयित्तु अर्थम् कॊण्डाल् अनुवादपक्षत्तिल् कीऴ् नाम् सॊऩ्ऩ अर्थमे तोऱ्ऱु कैयाल् अदिल् गुरुलघुविकल्पप्रतीति प्रसक्तियेयिल्लै यॆऩ्गिऱार् आऴ्वाऩुडैय इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आळवानुडैय** -श्री-कूरत्ताळ्वार्रवर, **चरम-श्लोक-व्याख्यानत्तिलुम्** - चरम-श्लोक-व्याख्यानदल्लू, **इव्वळवे विवक्षितमागैयाले** - अधिकारिय विशेष-व्यवस्थॆये हेळल्पट्टिरुवदरिन्द, **ऒरु विधमिल्लै** - यावुदॊन्दु विरोधवू इल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+श्री-कुरत्ताळ्वार्रवर अभिप्रायवू नम्म अभिप्रायवे विना बेरॆ अल्लवॆम्ब भाववु. 
+
+> साधनत्वेन निर्णेतान् सर्वान् सन्त्यज्य 
+
+[[P86]]
+
+ऎम्बुदक्कॆ शोकिसुत्तिरुव नीनु ऎम्बुदरॊन्दिगॆ अन्वयिसलु साध्यविल्लवागि अनुवाद-पक्षदल्लि अत्यन्त अ-शक्ताधिकारवु तोरिबरुवदरिन्द, यथा-श्रुतवाद अन्वयदल्लि नैरपेक्ष्यवु तोरिबरुवदरिन्द विरोधवेनू इल्लवॆम्ब भाववु. **उपायान्तर-दौष्कर्यात्** ऎम्बुदरिन्द प्रपवदनवु अ-शक्ताधिकारिगू भक्ति-योगवु शक्तनिगू ऎम्बुदु व्यक्तवु. 
+
+> केनोपायेन लघुना विष्णोर् नाम-सहस्रकम् ।  
+पठ्यते पण्डितैर् नित्यं श्रोतुम् इच्छाम्य् अहम् प्रभो ॥ 
+
+याव लघुवाद उपाय-मूलक विष्णु-सहस्र-नाम--पठन-फलवे उण्टागुत्तदो अदन्नु दयविट्टु तिळिसि ऎन्दु पार्वतियु तन्न पतियन्नु कुरितु केळिदुदक्कॆ ईश्वरनु 
+
+> श्री-राम राम रामेति रमे रामे मनो-रमे ।  
+सहस्र-नाम तत्-तुल्यं राम-नाम वरानने ॥ 
+
+श्री-राम रामनॆन्दागि श्री-राम-नाम-पठनवु आ विष्णु-सहस्र-नाम-पठनक्कॆ समानवाद फलवुळ्ळद्दॆन्दु हेळिदुदू, शक्तनिगॆ विष्णु-सहस्र-नाम-पठनवे, अदक्कॆ अ-शक्तनादरॆ आगलि अधवा कालानुकूलविल्लदवनागलि आदरॆ, आतनिगॆ श्री-राम-नाम-सङ्कीर्तनवू, हीगॆ हेगॆ भिन्नाधिकारिगळन्नु कुरितु हेळल्पट्टितो हागॆये इल्लियू ऎन्दु भाविसतक्कद्दु. गुरुवाद अवगाहन-स्नानक्कॆ बदलागि विकल्पिसि लघुवाद मन्त्र-स्नान-विधियू कूड भिन्नाधिकारिगळाद शक्ताशक्तरन्नु कुरितद्दॆन्दे भाविसतक्कद्दु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मुन्दॆ समावर्तनादिगळल्लि ऒब्ब अधिकारिगेने गुरु-लघु-प्रक्रियॆगळुण्टल्ला ऎन्दरॆ, अदक्कॆ समाधानवागि, भिन्नवाद अवस्था-विशेषगळिन्द विकल्पिसि हेळितॆन्दु हेळि, हीगॆ भाविसदिद्दरॆ गुरु-प्रक्रियॆगॆ वैयर्थवुण्टागुत्तदॆन्दु हेळुत्तारॆ - 
+
+[[P87]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2079,6 +2648,29 @@ Si **no lo tomamos** desde esta perspectiva,
 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**समावर्तनदिगळिल्** - ब्रह्म-चर्याश्रम-गुरु-कुल-वासदॊन्दिगॆ कळॆद नन्तर गृह-स्थाश्रम अथवा संन्यासाश्रमगळिगॆ पूर्व-भावियागि आचरिसबेकाद समावर्तन मॊदलादवुगळल्लि, आदि-शब्ददिन्द स्नान-भेदवन्नु विकल्पिसि हेळुव प्रकरणगळु हेळल्पट्टवु, अवु यावुवॆन्दरॆ कालविल्लदॆयू अ-शक्त्य्-आद्य्-अवस्थेगळल्लिरुवागलू स्नान-भेदवु विकल्पिसि हेळल्पट्टिरुत्तदे, **गुरु-लघु-विकल्पमुम्** - स्नान-कर्मवन्नु विस्तरिसि गुरुवागियू ऎन्दरॆ विळम्बविद्दु मत्तु शक्तनागिरुव सन्दर्भदल्लि ई स्नान-कर्मवन्नु गुरू-रूपदल्लू, विळम्बवन्नु सहिसदॆयू अ-शक्तनू आगिरुव सन्दर्भदल्लि अवनिगे लघुवागि तूष्णीं स्नानवनू हीगॆ विकल्पिसि विधिसिरोणवु, **अवस्था-विशेषङ्गळाले** - शक्त्य्-अ-शक्त्य्--अ-विळम्ब-सहत्व-विळम्बासहत्वादि अवस्था-विशेषगळिन्द, **नियतमॆन्रु** - शास्त्रदल्लि विहितवॆन्दु, **कॊळ्ळादपोदु** - अङ्गीकरिसदे होदरे, **गुरु-विधान-वैयर्थ्यमुम् वरुम्** - गुरुवागि शास्त्रदल्लि बोधिसिरुव अनुष्ठानक्के, प्रयोजनान्तरवेविल्लदे होगबहुदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+लघूवाद मार्गवन्ने ऎल्लरू अवलम्बिसुवरे विना, गुरुवाद मार्गवु त्यजिसल्पडुवदरिन्द निरुपयोगवुळ्ळदागुत्तदॆम्ब भाववु. गुरु-प्रक्रियॆयल्लि 
+
+> स्नान-कर्म करिष्यमाणं सूर्योदयात् पूर्वं व्रतं[[??]] प्रविश्य 
+
+ऎन्दारम्भिसि, बहळ हॊत्तु हिडियुव मन्त्र-प्रक्रियॆगळुण्टु. इदु बहु-काल हिडियुत्तदॆ. इदन्नॆल्ला अनुष्ठिसलु शक्तियू इरबेकु हागिल्लद पक्षदल्लि 
+
+> अथैतद् अपरं तूष्णीम् एव तीर्थे स्नात्वा तूष्णीम् एव समिधम् आदधाति 
+
+अ-शक्तनिगॆ हीगॆ विवरिसि हेळल्पट्टिरुत्तदॆ. हीगॆ अर्थमाडदिद्दरे गुरु-मार्गवु यारिन्दलू अनुष्ठिसल्पडदे निरर्थकवागुत्तदॆम्ब भाववु. इल्लि हेगॆ शक्तनादवनु गुरु-मार्गवन्नु त्यजिसि लघु-मार्गवन्ने अवलम्बिसबेकॆम्बदागि विधिसल्पडलिल्लवो हागॆये भक्ति-प्रपत्तिगळन्नु विकल्पिसि हेळिरुवदरल्लू ऎन्दु भाविसतक्कद्दु. विळम्बवन्नु सहिसदे इरुववनिगू अ-शक्तनिगू प्रपत्ति-मार्गवॆम्ब अभिप्रायवादरॆ निर्विवादवागुत्तदॆम्ब भाववु. समावर्तनॆयल्लि इन्नॊन्दु विकल्प-विषयवू उण्टु. 
+
+[[P88]]
+
+हिन्दॆ गुरूपायदल्लि शक्तनादवनिगेनॆ अदर त्यागवु इल्लि विधिसल्पट्टितु ऎम्ब पूर्व-पक्षक्कॆ मूरु दूषणवन्नु हिन्दॆ हेळिदरु, एनॆन्दरे (१) लघूपायविरुवाग याव विवेकियू गुरूपायवन्नु अवलम्बिसलारनॆन्दू (२) गुरूपायक्के अधिकारियु बेरॆ एल्लू हेळल्पडदे होगुत्तदॆन्दू (३) गुरूपाय-विधिसुव शास्त्रगळॆल्ला निरर्थकवागुत्तदॆन्दू तिळिसिद्दरु, ईग पूर्व-पक्षिगळु गुरूपायक्कॆ, बेरॆ अधिकारियु हेळल्पट्टिरुवनल्ला, बेरॆ आदुदरिन्द ई उपायगळु नावू भिन्नाधिकारिगळिगे ऎन्दरॆ नावू हागॆये ऎन्दे हेळुत्तेवॆ.- हेगॆन्दरॆ प्रपत्तिगॆ अधिकारियु, ज्ञान मत्तु विश्वास-पूर्णवागिरुववनु, ज्ञान मत्तु विश्वास-पूर्णवागिल्लदवनु उपासनक्कॆ अधिकारियु, ऎन्दु हीगॆ भिन्नाधिकारिगळिगॆ ई प्रपत्ति-भक्तिगळाद उपायगळॆन्दु ऒब्ब महनीयरु तावु बरॆद ग्रन्थदल्लि हेळिरुत्तारॆ. ई अभिप्रायवु हेगॆ कल्पिविसिदरू सरियल्लवॆन्दु खण्डिसुत्तारॆ. 
+
+</details>
 
 ## न ज्ञान-विश्वास-पूर्तेर् अधिकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2129,6 +2721,15 @@ quien **carece** de esta plenitud de conocimiento o plenitud de fe.
 कीऴ् वेऱॊरु मुखत्ताले अधिकारिभेदम् सॊल्लवॊण्णादु ऎऩ्ऱु सॊऩ्ऩदै स्पष्टमाग उपपादिक्किऱार् ज्ञानपूर्तियादलित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+
+**ज्ञान-विश्वासपूर्तिये प्रपत्तिगॆ अधिकारवु;** 
+**अवुगळ मान्द्यवे भक्तिगॆ अधिकारवु, ऎम्ब वादद निरसनवु** 
+
+**ज्ञान-पूर्तियादल्** - सम्पूर्ण-ज्ञानवन्नागलि, तत्त्व-हित-पुरुषार्थगळ सम्पूर्ण-ज्ञानवन्नागलि ऎम्ब भाववु, **विश्वास-पूर्तियादल्** - सम्पूर्ण-विश्वासवन्नागलि, **उडैयवन्** - हॊन्दिदवनु, **प्रपत्तिक्कु अधिकारि** - प्रपत्तिगॆ अधिकारियु, **ज्ञान-मान्द्यमादल्** - ज्ञानदल्लि न्यूनतॆयन्नागलि, **विश्वास-मान्द्यमादल्** - विश्वासदल्लि न्यूनतॆयन्नागलि, **उडैयवन्** - हॊन्दिदवनु, **उपासनादिगळुक्कु** - उपासनवे मॊदलादवुगळिगॆ, आदि-शब्ददिन्द कर्म-योगादिगळु हेळल्पट्टवु, **अधिकारियु, ऎन्नाल्** - ऎम्ब अभिप्रायवादरॆ, 
+
+</details>
 
 ### व्यासादौ विपर्यासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2176,6 +2777,21 @@ y quienes, a causa de su piedad, **tenían** plenitud de conocimiento y plenitud
 पूर्णज्ञानविश्वासराऩ व्यासादिगळुक्कु इति । इदु पूर्णज्ञानाभावे चरमश्लोकोपदेष्टृत्वमुम् आदिपदग्राह्यमाऩ महाभारतोपदेष्टृत्वमुम् कूडादॊऴियुम्, परिपूर्णविश्वासमिल्लाविडिल् परमास्तिकत्वम् घटियादॊऴियुम् ऎऩ्ऱु व्यतिरेकप्रदर्शनत्तिले तत्परम्। उपासनादिगळिल् अधिकारमिल्लैयामिति । नी सॊल्लुगिऱबडि पूर्णज्ञान विश्वासमुडैयवऩ् प्रपत्तिक्के अधिकारियागैयाल् अवर्गळ् पण्णिवरुम् उपासनत्तिल् अवर्गळुक्कु अधिकारमिल्लै यॆऩ्ऱु सॊल्लवेण्डिवरुमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ई चरम-श्लोकादिगळुक्कुम्** - ई चरम-श्लोकक्कू, आदि-शब्ददिन्द हिन्दिन अध्यायगळल्लि बोधिसल्पट्ट कर्म-योग--भक्ति-योगादिगळिगू, **उपदेष्टाक्कळुमाय्** - उपदेशिसुवरागियू, **परमास्तिकरुमागैयाले** - परमात्म-शास्त्रादिगळ प्रामाण्यवन्नु अङ्गीकरिसिरुवरागियू, इरुवदरिन्द, **पूर्ण-ज्ञान-विश्वासरान व्यासादिगळुक्कु** - सम्पूर्ण ई ज्ञान-विश्वासवन्नु हॊन्दिरुव व्यास-वसिष्ठ-पराशरादिगळिगू **उपासनादिगळिल् अधिकारमिल्लैयाम्** - स-परिकरगळाद उपासनदल्लि अधिकारविल्लवॆन्दागुत्तदॆ.
+
+[[P89]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+एकॆन्दरॆ - नीवु सम्पूर्ण-ज्ञानवागलि विश्वासवागलि इरुववरिगॆ प्रपत्तियल्लि अधिकारवॆन्दु हेळिरुवदरिन्द, श्री-व्यासादिगळु सम्पूर्ण-ज्ञान-विश्वासवन्नुळ्ळवरादुदरिन्द उपासनदल्लि अधिकारविल्लवॆन्दागुत्तदॆ; इदु सरियल्लवॆम्ब भाववु. सम्पूर्ण-ज्ञान-विश्वासादिगळिल्लदवरादुदरिन्द अवरु उपासनाधिकारगळॆन्दु हेळलु साध्यविल्लवु. एकॆन्दरॆ अवरुगळु अनुग्रहिसिरुव ग्रन्थगळिन्द अवरु ज्ञानाग्रेसररॆन्दे भाविसबेकल्लवे ? ऎन्दरॆ इदक्कॆ पूर्व-पक्षगळु हेळबहुदेनॆन्दरॆ - 
+
+श्री-व्यासादिगळु ज्ञानेग्रेसररॆन्दु ऒप्पदिरलु साध्यविल्लवु. आदुदरिन्द, उपदेश-कालदल्लि परिपूर्ण-ज्ञान-युक्तरे हौदु; अनन्तर ज्ञानदल्लि न्यूनतॆयुण्टागि उपासनॆयन्नु कैकॊण्डिरबहुदु, ऎन्दु वादवन्नु तन्दरॆ, अदक्कॆ प्रमाणवेनिदॆ ऎन्दु केळुत्तारॆ - 
+
+</details>
 
 #### न भ्रान्तिः पश्चात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2224,8 +2840,28 @@ y **haber** (más tarde) **volverse** débil en inteligencia y fe **adoptado** u
 व्यासादिगळ् भारतचरमश्लोकोपदेशकालत्तिल् परिपूर्णज्ञानविश्वासराय् इरुन्दु पिऩ्बु कलङ्गि उपासकर्गळाऩार्गळॆऩ्ऱु सॊल्लक्कूडादो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् अवर्गळ् उपदेशकालत्तिले इति । ऒरु प्रमाणमिल्लै इति । प्रमाणमिऩ्ऱिक्के सॊल्लुवदु प्रामाणिकहृदयङ्गममागादॆऩ्ऱु तिरुवुळ्ळम्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अवर्गळ्** - आ श्री-व्यासादिगळु, **उपदेश-कालत्तिले** - तम्म ग्रन्थगळल्लि उपदेशिसिरुव कालदल्लि, **ज्ञान-विश्वासङ्गळैयुडैवराय्** - पूर्ण-ज्ञान-विश्वासगळन्नु हॊन्दिदवरागि, **पिन्बु** - अनन्तर, **कलङ्गि** - आ ज्ञान-विश्वासगळु व्यत्यस्तवागि म्लानतॆयन्नु हॊन्दि, **उपासकराना‌र्गळ** - उपासकरादरु, **ऎन्गैक्कु** - ऎन्दु हेळुवुदक्कॆ **ऒरु प्रमाणमिल्लै** - ऒन्दु प्रमाणवू इल्लवु, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अदू अल्लदॆ मॊदलु उपदेश-कालदल्लि ज्ञानाग्रेसररागिरुववरु ऎन्दिगादरू ज्ञान-विश्वासगळ हानियन्नु हॊन्दुवरे ? स्वामिय अनुग्रहदिन्द उण्टाद सम्पूर्ण-ज्ञानक्कॆ कॊरतॆयुण्टागुव हागॆ कु-मार्गदल्लि प्रपर्तिसुवन्तवरे ? आदुदरिन्द अन्तह भावनॆये सरियल्लवॆम्ब भाववु. 
+
+[[P90]]
+
+</details>
 
 #### लोक-सङ्ग्रहो न
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+होगलि, लोक-सङ्ग्रहार्थक्कागि, तावु उपासनवन्नु अनुष्ठिसिदरॆ अदन्नु मेलुपङ्क्तियागिट्टुकॊण्डु, इतररु अनुष्ठिसुवरु ऎम्ब लोक-सङ्ग्रहक्कागि अनुष्ठिसिदरु ऎन्दु हेळुत्तेवॆ ऎन्दरॆ, आगलू समञ्जसवागुवदिल्लवु, हागॆ प्रपदनाधिकारिगळागिद्दरू लोक-सङ्ग्रहक्कागि उपासनमाडिदरु ऎम्बुदक्कॆ प्रमाणवू इल्लवॆन्दु हेळुत्तारॆ. 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्रपन्नर् आय् वैत्तु लोक-संग्रहार्थम् आगव् उपासनादिगळै अनुष्ठित्तार्गळ् 
@@ -2269,6 +2905,12 @@ por **dar** un ejemplo al mundo.
 
 व्यासादिगळ् वस्तुतः प्रपन्नर्गळे। आऩालुम् मन्दज्ञानविश्वासमुळ्ळ साधारण ऋषिकळुडैय सङ्ग्रहार्थमाग उपासनत्तैयुमनुष्ठित्तार्गळॆऩ्ऱु सॊऩ्ऩालो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् प्रपन्नराय् वैत्तु इति ।  
 वचनमिल्लै इति ।  
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रपन्नराय्वैत्तु** - प्रपत्तिगॆ अधिकारिगळागि इद्दुकॊण्डे, **लोक-सङ्ग्रहार्थमाह** - लोकद जनर सङ्ग्रहार्थवागि, लोकद जनरन्नु तम्म मार्गक्कॆ तन्दुकॊण्डु तोरिसिकॊडुवुदक्कागि, **उपासनादिगळै अनुष्ठित्तार्गळिन्गैक्कुम्** - स-परिकर उपासनवन्नु अनुष्ठिसिदरॆन्दु हेळुवुदक्कॆ, **प्रबन्धगळिल्** - अवर ग्रन्थगळल्लि, **ऒरु वचनमिल्लै** - ऒन्दु प्रमाणवू इल्ल अवर ग्रन्थगळल्लू इल्लवु; मत्तु आ ग्रन्थगळन्नु कुरितु बरॆदिरुव उपपादनॆगळल्लू प्रमाणविल्लवु. 
+
 </details>
 
 
@@ -2328,6 +2970,11 @@ la **adopción** de un dharma que **está** prohibido a un hombre con el fin de 
 अवर्गळे लोकत्तै सङ्ग्रहित्तार्गळॆऩ्ऱु कल्बिप्पदु अवर्गळुक्कु पापमाग मुडिवदोडु कूड निषिद्धानुष्ठानम् सॆय्युमवर्गळाल् लोकसङ्ग्रहमुम् पण्णमुडियादु ऎऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अप्पडि कल्पिक्कपुक्कालुम्** - हागॆ प्रमाणवे इल्लदिरुवदन्नु कल्पिसुवदक्कॆ प्रारम्भिसिदरू, प्रमाणवल्लदिरुवदन्नु ऒन्दु वेळॆ ऒप्पिकॊण्डरू, **तन् अधिकारत्तुक्कु निषिद्धमानत्तै** - तन्न अधिकारवाद प्रपत्तिगॆ निषिद्धवाद उपासनवन्नु, **लोक-सङ्ग्रहार्थवागि, अनुष्ठिक्कपुक्काल्** - अनुष्ठिसलु आरम्भिसिदरॆ, ऎन्दरॆ अनुष्ठिसिदुदादरॆ, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2363,6 +3010,27 @@ y como la **observancia** o **adopción** del dharma **se opone** a la competenc
 
 अवैयिवऩ्ऱऩक्कुम् पापमाय् अधिकारत्तुक्कु विरुद्धानुष्ठानम् पण्णुगैयाले तऩ्ऩनुष्ठानत्तैयिट्टु लोकसंग्रहम् पण्णवुङ्गडप् पडादॊऴियुम्। 
 </details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**अवै** - अन्तह अनुष्ठानगळु, **इवन् तनक्कुम् षापमाय्** - इवनिगू अदु अपराध-रूपवागि, **अधिकारत्तुक्कु विरुद्धानुष्ठानं** - तन्न अधिकारक्कॆ विरुद्धवाद उपासनानुष्ठानवन्नु, **पण्णुगैयालॆ** - माडुवदरिन्द, **तन्ननुष्ठानत्तैयिट्टु** - तन्न विरुद्धानुष्ठानवन्नु मूलमाडिक्कॊण्डु, **लोक-सङ्ग्रहम् पण्णवुम्** - लोक-सङ्ग्रहवन्नु माडोणवु, **कडप्पडादॊळियुम्** - सिद्धिसदे होगुत्तदॆ. 
+
+[[P91]] 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+तन्न अधिकारवे बेरॆ, अनुष्ठानवे बेरॆ, नमगॆ तोरिसुव अनुष्ठानवे बेरॆ ऎन्दु तिळिदु जनरु अनुमोदिसदे होगबहुदु. लोक-सङ्ग्रहवे सिद्धिसुवदिल्लवॆम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+आगलि, तन्न विषयवु हागिरलि, तनगॆ अधिकारवु यावुदरल्लादरू आगलि, लोक-सङ्ग्रहवु लोकोपकारक्कागियल्लवो ? अवरुगळिगॆ यावुदु हितवो अदन्नु अनुष्ठिसि तोरिसुवदु लोक-सङ्ग्रवल्लवो ? अदु उपादेयवल्लवो ? ऎन्दरॆ इदु लोक-सङ्ग्रहवागुवदिल्लवु, श्रीमद्-गीताचार्यर अभिप्रायानुसार लोक-सङ्ग्रहवेनॆम्बुदन्नु तिळिसुत्तारॆ; तानु यावुदन्नु शास्त्रानुमतियिन्द अनुष्ठिसतक्कद्दो, अदन्ने लोक-हितक्कागि अनुष्ठिसतक्कदॆन्दु उपदेशिसोणवे लोक-सङ्ग्रहवॆन्दु श्री-कृष्ण-भगवान्रवरु गीता मूरनॆय अध्यायदल्लि उपदेशिसिदरॆन्दु "तनक्किरण्डु" ऎम्ब वाक्यद मूलक तिळिसुत्तारॆ.-
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2416,6 +3084,34 @@ para **establecerlos** firmemente en él.
 आऩाल् लोक सङ्ग्रहम् पण्णुगिऱ प्रकारम् ऎप्पडि यिरुक्कुमॆऩ्ऩ वरुळिच्चॆय्गिऱार् तऩक्किरण्डु वऴिगळ् शास्त्रानुमतङ्गळ् आऩालिति । शिष्टतया व्यपदेश्यऩाऩ ऒरुवऩुक्के शास्त्रचोदितमाऩ दुष्करमाऩ वऴियिलुम् सुकरमाऩ वऴियिलुम् सामर्थ्यमिरुन्दाल् अवऩ् दुष्करमाऩ वऴियै अनुष्ठित्ताल् लोकत्तारुम् अदै इवऩैप् पार्त्तु अनुष्ठिप्पार्गळागैयाल् अवर्गळुक्कु अदु अशक्यमाग मुडियुम्। इवऩ् सुलभमाऩ वऴियै अनुष्ठित्ताल् लोकत्तारुम् अदैप् पार्त्तु सुलभमाऩ वऴियै अनुष्ठिप्पार्गळागैयाल् लोकत्तारै सङ्ग्रहित्त तागुम्। अप्पोदु इरण्डु वऴिगळुम् इवऩुक्कु शास्त्रचोदितङ्गळागैयाल् लघुवै अनुष्ठित्ताल् अधिकारविरोधमिल्लैयाम् ऎऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+ **तनक्किरण्डुवळिगळ्** - तनगॆ मोक्षोपायगळाद ऎरडु मार्गगळु, भक्ति-प्रपत्तिगळु, **शास्त्रानुमतङ्गळानाल्** - शास्त्रानुमतिवुळ्ळवुगळाद नन्तर, **अवत्तिल्** - अवॆरडरल्लि, **लोकत्तार्कु शक्यमाय्** - लोकद जनरिगॆ साध्यवागि, **अवरुगळुक्कु हितमायिरुप्पदॊन्रै** - अवरुगळिगॆ हितवागिरुवदॊन्दन्न, **तान् अनुष्ठित्तुक्काट्टि** - ताने अनुष्ठिसि तोरिसि ऎन्दरॆ तनगू शास्त्रानुमति-रीत्या अधिकारविद्द अनुष्ठिसि तोरिसि, **लोकत्तारैयदिले** - लोकद जनरन्नु आ अनुष्ठानदल्लि, **निलैनिरुत्तिगैये** - स्थापिसि निल्लिसुवदे, **लोक-सङ्ग्रहवॆन्दु, श्री-गीता-भाष्यत्तिले** - श्री-गीताभाष्यदल्लि, **अरुळिच्चॆय्दार्** - श्री-भाष्यकाररु कृपया अप्पणॆकॊडिसिरुत्तारॆ, 
+
+[[P92]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ऎन्दरॆ श्री-गीताचार्यर लोक-सङ्ग्रहाभिप्रायवन्नु व्यक्तपडिसिदरॆम्ब भाववु. ऎल्लि ऎन्दरॆ 
+
+> सक्ताः कर्मण्य् अ-विद्वांसो यथा कुर्वन्ति भारत ।  
+कुर्याद् विद्वांस् तथासक्तश् चिकीर्षुर् लोक-सङ्ग्रहम् ॥  
+न बुद्धि-भेदं जनयेद् अ-ज्ञानां कर्म-सङ्गिनाम् ।  
+जोषयेत् सर्व-कर्माणि विद्वान् युक्तस् समाचरन् ॥ 
+
+ऎम्ब श्लोकगळल्लि (३-२५, २६) प्रकरणवेनॆन्दरॆ - अर्जुननु ज्ञान-योगवन्नु अनुष्ठिसतक्कद्दे कर्म-योगवन्नु अनुष्ठिसतक्कद्दे ऎन्दु श्री-कृष्ण-भगवान्रवरन्नु प्रश्निसलु, ज्ञान-योगवु सर्वेन्द्रिय उपरतियिन्द अनुष्ठिसतक्कद्दादुदरिन्द अदु कष्टवु, अदक्कु कूड कर्म-योगवु बेकु, आदुदरिन्द नीनु कर्म-योगवन्ने अनुष्ठिसतक्कद्दु ऎन्दु श्री-कृष्ण-भगवान् उत्तरवन्नु हेळुव प्रकरणवु. ज्ञान-योगाधिकारियागिद्दरू, नित्य-नैमिक-कर्मगळिन्द कूडिद कर्म-योगवन्नु अनुष्ठिसुवदे सरियाद मार्गवॆन्दु भाविसि अ-विद्वांसरू कूड तन्नन्नु अनुसरिसि अनुष्ठिसलि ऎम्बदागि विद्वांसनू अवुगळन्नु अनुष्ठिसतक्कद्दॆन्दू, हागॆये हिन्दॆ ज्ञान-योगाधिकारिगळागिरलु योग्यराद जनकादिगळु अदन्नु बिट्टु कर्म-योगवन्ने अनुष्ठिसिदरु ऎम्बुदु उपदेशवु. **गीता-भाष्यत्तिल् अरुळिच्चॆय्यदार्** ऎन्दु हेळिरुवदु यावुदु ऎन्दरॆ - 
+
+> ज्ञान-योग-शक्तो ऽपि पूर्वोक्त-रीत्या कर्म-योग एव ज्ञान-योग-निरपेक्ष आत्मावलोकन-साधनम् इति बुद्ध्या युक्तः कर्मैवाचरन् सर्व-कर्मसु अ-कृत्स्न-विदां प्रीतिं जनयेत् 
+
+ई व्याख्यानदिन्द **लोकत्तार्कु शक्यमाय् अवरुगळक्कु हितमायिरुप्पदॊन्रै तान् अनुष्ठित्तुक्काट्टि लोकत्तारै अदिलॆ निलै निरुत्तिगैये लोक-सङ्ग्रहमॆन्रु अरुळिच्चॆय्दार्,** ऎम्बुदु उपपादनॆयु. 
+
+इदरिन्द तानु अनुष्ठिसि तोरिसतक्कद्दल्लवादुदन्नु अनुष्ठिसि तोरिसवदु लोक-सङ्ग्रहवागुवदिल्लवु. तनगू अदू शास्त्र-विहितवादुदागि, अदन्नु लोक-हितक्कागि तानु अनुष्ठिसि तोरिसिदरॆ अदु लोक-सङ्ग्रहवागुत्तदॆ. हागल्लदिरुवदन्नु अनुष्ठिसि तोरिसुवदु शुद्धाभासवागि परिणमिसबहुदु. हेगॆन्दरॆ तिळिसुत्तारॆ. गृह-स्थ-धर्मगळे बेरॆ, संन्यासिय धर्मगळे बेरॆ लोक-सङ्ग्रहक्कागि संन्यासियु गृह-स्थन अनुष्ठानगळवलम्बिसि तोरुवदु सरियल्लवु. अदु लोक-सङ्ग्रहवागुवदिल्लवॆन्दु उपदेशिसुत्तारॆ.
+
+[[P93]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2462,6 +3158,17 @@ y **prohibido** a sí mismo
 तऩक्कु निषिद्धमाऩ उपासनत्तै अनुष्ठित्तुक् काट्टुवदु सन्न्यासि गृहस्थ धर्मत्तै अनुष्ठित्तुक् काट्टुवदुबोल् लोकसङ्ग्रहार्थमागमाट्टादॆऩ्गिऱार् अल्लदु सन्न्यासिक्कु इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अल्लदु** - हागल्लदॆ ऎन्दरॆ तनगू आ मार्गवु विहितवागि शास्त्रदल्लि हेळल्पट्टु लोक-हितक्कागि तावु अनुष्ठिसि तोरिसदॆ, तनगॆ विहितवल्लद मार्गवाद उपासनवन्नु व्यासादिगळु कैकॊण्डरॆन्दु हेळुवदु, **संन्यासिक्कु** - संन्यासिगॆ, **निषिद्धवाद, गृह-स्थैकान्त-धर्मत्तै** - गृह-स्थनिगॆ एकान्तवाद, पत्नियॊन्दिगॆ इरुव धर्मवन्नु, संन्यासियु, **अनुष्ठित्तु काट्टुमदु** - अनुष्ठिसि तोरिसुवदु, **लोक-सङ्ग्रहमागादु** - लोक-सङ्ग्रहवागुवदिल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+तमगॆ विहितवल्लद कर्मवन्नु आचरिसुत्तारॆन्दु हेळनक्कॆ कारणवागि यारू आ अनुष्ठान-रीत्या नडॆयुवदिल्लवॆम्ब भाववु. इदरिन्द लोकक्कॆ हितविल्लवु; तनगादरो भगवन्-निग्रह-प्राप्ति ऎन्दु मुन्दॆ हेळुत्तारॆ. लोक-सङ्ग्रहक्कॆ बदलागि इदु एनागुत्तदॆ. ऎन्दरॆ 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2495,6 +3202,13 @@ Esto **sería** sólo la **violación** del mandamiento (del Señor).
 आऩाल् अप्पडिच् चॆय्वदु ऎदिले सेरुमॆऩ्ऩ वरुळिच्चॆय्गिऱार् इदु आज्ञातिलङ्घनमा मत्तऩै इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इदु आज्ञातिलङ्घनमामत्तनै**- तनगॆ निषिद्धवाद आचरणॆयन्नु अवलम्बिसिदुदरिन्द स्वामिगॆ आज्ञाच्-छेदियागि भगवन्-निग्रहक्कॆ पात्रनागुवनु. आदुदरिन्द व्यासादिगळु ऎन्दिगू तमगॆ विहितवल्लद उपासनादिगळन्नु लोक-हितक्कागि अनुष्ठिसिदवरल्लवॆम्ब तात्पर्यवु. 
+
+आ अभिप्रायवन्ने इन्नॊन्दु विधवागि विकल्पिसि लोक-हितक्कागि कैङ्कर्य-भावनॆयिन्द अनुष्ठिसिदरॆन्दु हेळुवदू सह अवरुगळ अधिकारक्कॆ विरुद्धवादुदादुदरिन्द सरियल्लवॆन्दु हेळुत्तारॆ.- 
+
+</details>
 
 #### कैङ्कर्यं न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2540,6 +3254,21 @@ bajo el **malentendido** de que **sería** una forma de kaiṅkarya
 मुदलिल् दृष्टान्तत्तैक् काट्टि अदिल् सॊऩ्ऩ धर्मत्तै दार्ष्टान्तिकत् तिलतिदेशिक्किऱार् इप्पडिये इति । कैङ्कर्यबुद्धियाले इति । इदऩाल् तऩक्कु निषिद्धमाऩवैयैकामतः अनुष्ठिप्पदु दोषमाऩालुम् कैङ्कर्यबुद्ध्या अनुष्ठिक्कलागादो ऎऩ्गिऱ शङ्गैयुम् परास्तम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडिये** - इदे रीतियल्ले ऎन्दरॆ लोक-सङ्ग्रहक्कागि तनगॆ विरुद्धवादुदर आचरणॆयु हेगॆ सरियल्लवागि लोक-सङ्ग्रहवागुवदिल्लवो हागॆये, **प्रपत्त्य्-अधिकारिक्कु** - प्रपत्तिगॆ अधिकारियादवनिगॆ, **निषिद्धत्तै** - तनगॆ हेळल्पडदे इरुव उपासनादिगळन्नु, **अवन्ताने** - अवनू, **कैङ्कर्य-बुद्धियाले** - भगवन्तनु मॆच्चुव कैङ्कर्यवॆम्ब बुद्धियिन्द, **अनुष्ठिक्कैयुम्** - अनुष्ठिसोणवु, **स्वाधिकार-विरुद्धम्** - तन्न अधिकारक्कॆ विरुद्धवाद अनुष्ठानवागुत्तदॆ. 
+
+[[P94]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इदरिन्द इदु कैङ्कर्यवू आगुवुदिल्लवु, भगवन्तनू प्रीतनागुवदिल्लवॆम्ब भाववु. आदुदरिन्द व्यासादिगळु ज्ञान-विश्वासाधिक्यगळिन्द प्रपत्तिगॆ अधिकारिगळागिद्दरू कैङ्कर्य-बुद्धियिन्द उपासनादिगळन्नु अनुष्ठिसिदरु ऎन्दु हेळलू साध्यविल्लवॆन्दु हेळि मुगिसिदरु. 
+
+मुन्दॆ ई प्रपत्त्य्-अधिकारिगॆ तन्न उपायक्कॆ अङ्गवागि विधिसदे इरुव, तन्न वर्णाश्रम-धर्मगळन्नु कैङ्कर्य-बुद्धियिन्द अनुष्ठिसकूडदे ऎन्दरॆ अवुगळन्नु अगत्यवागि कैङ्कर्य-बुद्धियिन्द अनुष्ठिसले बेकु ऎम्ब शास्त्रार्थविरुवदरिन्द अनुष्ठिसतक्कद्दॆन्दू, हागॆ अनुष्ठिसदे बिट्टरॆ ज्ञान-शून्य--मृग-पक्षि-पशुगळिगॆ समानवागुवनॆन्दू हेळुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2581,6 +3310,25 @@ con la idea de que **son** (formas de) kaiṅkarya (**servicio**).
 आऩाल् प्रपन्नऩ् ऎवैगळै कैङ्कर्यबुद्ध्या अनुष्ठिक्कलामॆऩ्ऩ वरुळिच्चॆय्गिऱार् प्रपत्तिक्कनपेक्षितङ्गळाऩ शास्त्रीयङ्गळै इति । भक्तिक्कुप्पोले प्रपत्तिक्कु अङ्गतयानपेक्षितङ्गळाऩ वर्णाश्रमादिधर्मङ्गळैयॆऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रपत्तिगॆ बेकागिल्लद वर्णाश्रम-धर्मगळु त्यागमाडतक्कवुगळल्लवु, शास्त्र-विहितवादुदरिन्द** 
+
+**प्रपत्तिकु अनपेक्षितङ्गळान** - प्रपत्ति-रूप उपायानुष्ठानक्कॆ बेकागदु ऎन्दरॆ अदक्कॆ अङ्गगळल्लदे इरुव, **शास्त्रीयङ्गळै** - शास्त्रगळल्लि हेळिरुव धर्मगळन्नु, **कैङ्कर्य-बुद्धियाले** - भगवन्तनिगॆ माडुव कैङ्कर्यवॆम्ब बुद्धियिन्द, **अनुष्ठिप्पार्कु** - अनुष्ठिसुववरिगॆ, **विरोधमिल्लै** - विरोधवेनू इल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हागॆ अनुष्ठिसुवदरल्लि शास्त्र-विरुद्धवादुदु एनू इल्लवु, आदुदरिन्द अनुष्ठिसबेकॆम्ब तात्पर्यवु. शास्त्र-विहितवाद कर्मगळन्नु शास्त्रानुमतियिन्दले, फलाभिसन्धि-रहितनागि अनुष्ठिसि, भगवत्-प्रीतियुण्टागलॆन्दु कैङ्कर्य-रूपदल्लि ऎसॆगि आतनल्लि समर्पिसोणदरल्लि एनॊन्दू विरोधविल्लवॆम्ब भाववु.
+
+> मया सर्वाणि कर्माणि संन्यस्याध्यात्म-चेतनः 
+
+ऎम्बल्लि हेळिरुव हागॆ अनुष्ठिसबहुदॆम्ब तात्पर्यवु. 
+
+[[P95]]
+
+</details>
 
 ## न विहित-त्यागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2627,6 +3375,11 @@ y **capaz** también de **ser realizada** por ellos,
 सर्वधर्मान् ऎऩ्गिऱ विडत्तिल् धर्मशब्दत्तिऱ्कु कर्मयोगज्ञानयोग भक्तियोगरूपधर्मपरत्वत्तै ऒप्पुक्कॊण्डु अवैगळुडैय स्वरूपत्यागम् अङ्गतया विधिक्कप्पडुगिऱदॆऩ्ऱाल् उपायान्तरशक्तऩुक्के तत्त्यागाङ्गकप्रपत्तियिल् अधिकारमॆऩ्ऱु सॊल्लवेण्डुमागैयाल् प्रपत्ति सर्वाधिकारमऩ्ऱिक्के पोगवेण्डिवरुमाऩालुम्, धर्मशब्दत्तिऱ्कु विहितङ्गळाय् तऩक्कु शक्यङ्गळाऩ धर्म परत्वत्तै अङ्गीकरित्तु तत्स्वरूपत्यागत्तै प्रपत्तिक्कु अङ्गमाग ऒप्पुक्कॊण्डाल् अदऱ्कु सर्वाधिकारत्वविरोधमिल्लैये ऎऩ्ऩ अनिष्टत्तै प्रसङ्गिक्किऱार् तन्दाम् जात्यादिगळुक्कु इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**तन्तां जात्य्-आदिगळुक्कु** - तम्म तम्म वर्णाश्रमगळिगॆ, **अनुरूपङ्गळुमाय्** - अनुगुणवादुदागि, शास्त्रगळल्लि विधिसल्पट्टवुगळागियागलि, शास्त्रानुमतियुळ्ळवगळागियागलि, **तन्तामुक्कु शक्यङ्गळुमान** - तम्मगळिगॆ साध्यवाद, **सर्व-धर्मङ्गळनुडैय** - समस्त-धर्मगळ, **स्व-रूप-त्यागम्** - सम्पूर्ण-त्यागवु, **अङ्गमाकवडैत** - अङ्गवॆन्दु ग्रहिसिद, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2683,6 +3436,25 @@ y **deambulan** como ganado, bestias y pájaros.
 इत्यादि निषेधवाक्यसिद्धङ्गळाऩ कळञ्ज भक्षणाभावानृतवदनाभावङ्गळ् अभावरूपङ्गळागैयाल् अवैगळुक्कु स्वरक्षणार्थस्वव्यापाररूपत्वमिल्लामैयाल् तत्त्यागे निषिद्धानुष्ठानत्तै प्रसङ्गिक्क मुडियादु ऎऩ्ऱुम्, प्रवृत्तिरूपकैङ्कर्याचार्यवन्दनत्यागादिविषयत्तिऱ्सॊऩ्ऩ प्रसङ्गम् इष्टप्रसङ्गमॆऩ्ऱु सॊल्लुवार्क्कु दूषणमरुळिच्चॆय्गिऱार् निषेधवाक्यसिद्धङ्गळाऩ निवृत्तिरूपधर्मङ्गळित्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**कैङ्कर्य-फलत्तैयुम्** - भगवत्-कैङ्कर्य-रूप-फलवन्नू, **इळन्दु** - इल्लदे होगि, **अ-हिंसा--सत्य-वचनादि-धर्मङ्गळैयुम्** - पर-हिंसॆयन्नु माडकूडदु, सत्यवन्ने हेळतक्कद्दु. इवे मॊदलाद धर्मगळन्नू,, **आचार्य-वन्दनादिगळैयुम्** - तम्म आचार्यरिगॆ नमस्कार-कैङ्कर्यगळन्नू, **तविरन्दु** - त्यागमाडि, **पशु-मृग-पक्ष्य्-आदिगळैपोलॆ** - पशु-मृग-पक्षिये मॊदलाद ज्ञान-शून्य-जन्तुगळ हागॆ, **तिरुयुम्पडियाम्** - यथेच्छवागि सञ्चरिसुव हागॆ आगुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+**सर्व-धर्मान् परित्यज्य** - ऎम्बल्लि सर्व-धर्मगळ स्व-रूप-त्यागवु विधिसल्पट्टितॆन्दरॆ, सर्व-धर्मगळल्लि ईतनिगॆ विहितगळाद आज्ञा-कैङ्कर्यगळाद नित्य-नैमित्तिक-कर्मगळन्नू हागॆये भगवद्-भागवत-कैङ्कर्यगळन्नू त्यागमाडतक्कद्दॆन्दू विधिसल्पट्टितॆन्दागुवदरिन्द इन्तह प्रपन्ननु मृग-पशु-पक्ष्य्-आदिगळ हागॆ यथेच्छवागि तिरुगबहुदु; ऎन्दरॆ शास्त्रीयवागि माडतक्क ऎनॊन्दू निर्बन्धविल्लदॆ इरबहुदु, ज्ञान-विवेक-युक्तनाद तानू, ज्ञान-शून्यगळाद अवू ऒन्दे आयितॆम्ब भाववु. 
+
+[[P96]]
+
+आगलि, धर्मगळु ऎरडु विधवु प्रवृत्ति-धर्मगळु निवृत्ति-धर्मगळु ऎम्बदागि, 
+
+> प्रवृत्तिः पुनर्-आवृत्तिर् निवृत्तिः परमा-गतिः (भार. शान्ति २१९-४) 
+
+ऎन्दु हेळिरुव हागॆ प्रवृत्ति-रूपवाद सर्व-धर्मगळू स्व-रक्षणार्थवाद स्व-व्यापारवादुदरिन्द आवाग विरुद्धवादुवुगळु, अवुगळत्यागवीग अङ्गवागि विधिसल्पट्टवॆन्दु हेळिदॆवु, निवृत्ति-रूप-धर्मगळादरो अन्तवुगळल्लवादुदरिन्द अन्तवुगळ त्यागवु अङ्गवॆन्दु विधिसलिल्लवॆन्दु हेळुत्तेवॆ, अन्तह सन्दर्भदल्लि हिंसिसबेड, अनृत हेळबेड इत्य्-आदि--निषेध-धर्मगळ त्यागवु हेळिदन्तागुवदिल्लवष्टे ? ऎन्दरॆ ई अभिप्रायवू सरियल्लवॆन्दु तिळिसुत्तारॆ - एकॆन्दरॆ निषेधदिन्दुण्टागुव निवृत्तियू ऒन्दु व्यापार-विशेषवे आगुत्तदॆ, अदू कूड स्व-रक्षणार्थवादुदे आगुत्तदॆन्दु तिळिसुत्तारॆ.- 
+
+</details>
 
 ## न प्रवृत्ति-मात्र-त्यागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2740,6 +3512,11 @@ Este argumento también **es** erróneo.
 निषेधवाक्यसिद्धङ्गळाऩ निवृत्तिरूपधर्मङ्गळ् स्वरक्षणार्थस्वव्यापारमल्लामैयाले शरणागतियोडु विरोधमिल्लै यामैयाल् इङ्गु प्रवृत्तिरूपधर्मङ्गळिऩुडैय त्यागमे विवक्षितमॆऩ्ऩुम् निर्वाहमुम् मन्दम्; 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**निषेध-वाक्यङ्गळान** - वेदगळल्लिन निषेध-वाक्यगळिन्द "न हिंस्यात्" इवे मॊदलादवुगळिन्द सिद्धगळाद, **निवृत्ति-रूप-धर्मगळल्लि, स्व-रक्षणार्थ--स्व-व्यापारमिल्लामैयालॆ** - तन्न रक्षणॆगॆ उपयुक्तवाद तन्न व्यापारगळु यावुवू इल्लवादुदरिन्द, **शरणागतियोडुविरोधमिल्लामैयाले** - शरणागति-धर्मक्केनू विरोधवादुदु यावुदू इल्लदुदरिन्द, **इङ्गु** - ई स्थळदल्लि ऎन्दरॆ **परित्यज्य** ऎम्बुदक्कॆ व्याख्यान माडुवदरल्लि, **प्रवृत्ति-रूप-धर्मगळ स्व-रूप-त्यागवे, विपक्षितमॆन्रुम्** - इल्लि विधिसतक्कद्दॆम्ब, **निर्वाहमुम्** - योजनॆयू कूड, **मन्दम्** - प्रज्ञा-शालिगळ हेळिकॆयागुवुदिल्लवु, एकॆन्दरॆ ऎरडु कारणगळन्नु हेळुत्तारॆ .-
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2796,8 +3573,28 @@ incluso **las abstenciones son actividades**.
 वेदत्तिल् ‘‘न हिंस्याद्’’ इत्यादिगळाले सॊल्लप्पट्ट हिंसा निवृत्त्यादिगळुम् स्वरक्षणार्थस्वव्यापारङ्गळाग सिद्धङ्गळिऱे। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(१) **निवृत्तियुम् व्यापार-विशेषमॆन्नु मिडमुम्** - श्रुतिय निषेध-वाक्यवन्ननुसरिसि नडॆयुव निवृत्तियू कूड ऒन्दु व्यापार-विशेषवे ऎम्बुव सन्दर्भवू (२) **अदुवुम्** - अन्तह निवृत्तियू सह, **स्व-रक्षणार्थमामॆन्नु मिडमुम्** - स्व-रक्षणॆगॆ उपयुक्तवागुवदॆम्बुव सन्दर्भवू सह, **लोक-वेद-सिद्धमिरॆ** - लोकदल्लू अथवा लोकवॆन्दरॆ स्मृतियल्लू, वेददल्लू व्यक्तवाद विषयवष्टे. 
+
+[[P97]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+पूर्व-पक्षियु निषेध-वाक्यानुसार नडॆयुव निवृत्तियु व्यापारवे अल्लवॆन्दु भाविसिद्दनु. अदू व्यापारवे अगुत्तदॆ; हेगॆन्दरॆ इन्नॊब्बर धनवन्नु मुट्टबेडवॆन्दरॆ, तन्न भण्डियल्लि कूतिद्द स्नेहितनु हणद चीलवन्नु मरॆतु बिट्टु होगि, ऎल्लि बिट्टु बिट्टॆनो ? ऎन्दु तट-स्थनागिद्दरू, तानु आतनिगॆ तलुपिसबेकाद व्यापार उळ्ळदुदु; अदू अल्लदॆ अदन्नु अपहरिसि इट्टुकॊळ्ळतक्कद्दल्लवॆन्दु मनस्सन्नु निग्रहिसुव व्यापारवन्नू उळ्ळदुदु (३) अन्तह निवृत्तियू स्व-रक्षणक्कॆ उपयुक्तवागुत्तदॆ. हेगॆन्दरॆ - आ हणद चीलवु,  इवनल्लिदॆ ऎम्ब रुजुवातु उण्टादरॆ न्यायाधिपतियु आग्रहदिन्द रक्षिसल्पडुवदक्कू हेतुवागुत्तदॆम्ब भाववु. हागॆये वेददल्लू इतरर द्रव्यक्कॆ आशॆपडबेडवॆन्दु हेळि, हागॆ नडॆदुकॊळ्ळुवदु भगवद्-अनुग्रह-प्राप्तिगॆ हेतुवागुत्तदॆ. हागिल्लदिद्दरॆ भगवन्-निग्रहक्कॆ गुरियागुवनु. हीगॆ अनेक-निवृत्ति-धर्मगळू व्यापारगळॆन्दू, अवु स्वरक्षणॆगॆ उपयुक्तवागबहुदॆन्दू तोरिसबहुदु. 
+
+</details>
 
 ## न कैङ्कर्य-प्रायश्चित्तादि-परित्यागः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हागादरॆ, प्रवृत्ति-निवृत्ति-रूपगळाद ऎल्ला धर्मगळ त्यागवे विधिसितु ऎन्दु हेळिबिडुत्तेवॆ, ऎन्दरॆ आगलू दूषणवन्नु हेळि, आदुदरिन्द धर्मगळ स्व-रूप-त्याग-विधिसल्पट्टितॆम्ब अभिप्रायवे साधुवादुदल्लवॆन्दु मुन्दॆ तिळिसुत्तारॆ.- 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इव् विधि-बलत्ताले  
@@ -2846,6 +3643,11 @@ y que esta **es** la verdadera **intención** de los śāstras,
 कामत्ताले प्रवृत्तिनिवृत्तिरूपसर्वधर्मङ्गळै विडुगै दोषमाऩालुम् परित्यज्य ऎऩ्गिऱ इन्द विधिबलत्तालेये अवैगळै विट्टाल् दोषमागाददोडु शास्त्रार्थमुमागादोवॆऩ्ऩिल्, अप्पोदु शिष्टाचारमॆल्लाम् विरुद्धानुष्ठानमाग मुडियुमॆऩ्गिऱार् इव् विधिबलत्ताले इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इव्विधि-बलत्ताले** - परित्यज्य ऎम्बल्लि सर्व-धर्मगळ स्व-रूप-त्याग-विधिसल्पट्टितॆम्ब बलदिन्द, **प्रवृत्ति-निवृत्ति-रूपङ्गळान सर्व-धर्मङ्गळैयुम्** - प्रवृत्ति-निवृत्ति-रूप--समस्त-धर्मगळन्नू, **तवि‌र्न्दु** - सम्पूर्णवागि त्यागमाडि, **तिरिगैताने** - यथेच्छॆयिन्द सञ्चरिसुवदे, **प्रपन्ननुक्कु** - प्रपदनानुष्ठान माडिदनिगॆ, **शास्त्रार्थमानालोवॆन्निल्** - शास्त्राभिप्रायवॆम्बुदे एकॆ कूडदु ? ऎन्दरॆ 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2892,6 +3694,25 @@ y **no sería necesaria ninguna expiación** para ello).+++(5)+++
 प्रपन्नराऩ पूर्वर्गळुम् इप्पोदुळ्ळारुम् सावधानराय्प् पण्णिप्पोरुगिऱ कैङ्कर्यङ्गळुम् अपचारपरिहारङ्गळुम् विरुद्धानुष्ठानमाम्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रपन्नरान पू‌र्वरुगळुम्** - प्रपदनवन्ननुष्ठिसिद पूर्वाचार्यरुगळू तच्-छिष्यराद महनीयरू सह, **इप्पोदुळ्ळारुम्** - ईगिरुव महनीयराद प्रपन्नरू सह, **सावधानराय्** - तुम्बा जागरूकरागि, श्रद्धा-भक्ति-युतरागि ऎम्ब भाववु, **पणिपोरुगिर कैङ्कर्यङ्गळुम्** - अनुष्ठिसुत्तिरुव कैङ्कर्यगळू मत्तू, **अपचार-परिहारङ्गळुम्** - अन्तह प्रपन्नरल्लि माडिद अपचारगळिगॆ प्रायश्चित्त-रूपदल्लि अवरुगळु अनुष्ठिसुव क्षमापणॆ शरणागति मॊदलाद अनुष्ठानगळू सह, **विरुद्धानुष्ठानमाम्** - निम्म अभिप्रायद प्रकार विरुद्धवाद आनुष्ठानवागबहुदु. 
+
+[[P98]]
+
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+समस्त-प्रवृत्ति-निवृत्ति-धर्मगळ स्व-रूप-त्यागवु, **परित्यज्य** - ऎम्बल्लि त्यागवु विधियाद प्रयुक्त हिन्दॆ आळ्वाराचार्यरुगळु नडॆसिद कैङ्कर्यगळू, ईगिन ब्रह्म-वित्तुगळू भागवतोत्तमरुगळू अनुष्ठिसुव कैङ्कर्यगळु, भागवतापचारगळ सङ्घटनॆयल्लि प्रायश्चित्त-रूपदल्लि अवरुगळु अनुष्ठिसुव कर्मगळू ऎल्लवू निम्म अभिप्रायद प्रकार विरुद्धाचरणॆगळागुवुवु ऎम्ब तात्पर्यपु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+आगलि, हिन्दिन आचार्यरुगळू ईगिनवरू सह अनुष्ठिसिदुदु सरियल्लवु; एकॆन्दरॆ भ्रम-विप्रलम्भादिगळिन्द हागॆ अनुष्ठिसिरबहुदॆन्दु एकॆ हेळकूडदु; सर्व-धर्मान् परित्यज्य ऎम्बुदर निश्चयवाद अर्थवु अवरिगॆ उण्टागदॆ भ्रम-बुद्धियिन्द अवरुगळु अनुष्ठिसिरबहुदॆन्दु पूर्व-पक्षियु हेळबहुदॆन्दु भाविसि अदक्कॆ समाधानवन्नु हेळुत्तारॆ. एनॆन्दरॆ - नम्म पूर्वाचार्यरुगळिगॆ भ्रम-विप्रलम्भादिगळन्नु आरोपिसुवदु न्यायवल्लवु. अवरुगळु शास्त्रगळिगॆ ईषद् अपि विरोधविल्लदॆ शास्त्रगळन्नु चन्नागि विमर्शिसि तिळिदु तद्-अनुगुणवागि अनुष्ठिसिदवरु, आदुदरिन्द अवरुगळिगॆ भ्रम मॊदलादवुगळ आरोपणॆयु ऎन्दिगू उचितवल्लवॆन्दु केळुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2937,6 +3758,13 @@ y que **son** también sumamente compasivos
 प्रपन्नर्गळाऩ पूर्वर्गळुम् इप्पोदुळ्ळ शिष्टप्रपन्नर्गळुम् भ्रमविप्रलम्भादिगळाले इवऱ्ऱैप् पण्णुगिऱार्गळॆऩ्ऩिल् उत्तरमरुळिच्चॆय्गिऱार् यथाप्रमाणमित्यादियाल्। यथाप्रमाणमॆऩ्ऱदाल् अवर्गळुक्कु भ्रमसम्भावऩैयिल्लैयॆऩ्ऱुम्, परमकारुणिकरुमाय् ऎऩ्ऱदाल् विप्रलम्भसम्भावऩैयिल्लैयॆऩ्ऱुम् स्पष्टीकरिक्कप्पट्टदु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**यथा-प्रमाणम्** - शास्त्र-प्रमाणवु हेगिरुत्तदो तद्-अनुगुणवागि, **प्रपत्ति-सम्प्रदाय-प्रवर्तकराय्** - प्रपदनानुष्ठानवन्नु तम्म तम्म आचार्यरुगळु नडॆसिद क्रमदल्ले नडॆसुववरागियू, **परम-कारुणिकरुमाय्** - तम्मन्नु आश्रयिसिदवर विषयदल्लि परम-कृपॆयुळ्ळवरागियू, **इरुक्किरवरगळुक्कु** - इरुववरिगॆ, **भ्रम-विप्रलम्भ-सम्भावनॆयुम्** - अ-ज्ञानदिन्द यथार्थ-ज्ञानवन्नु ग्रहिसदे इरोणवु भ्रमॆयु, इतररन्नु वञ्चिसि अपार्थवन्नु हेळोणवु विप्रलम्भवु इवुगळ प्रसक्तियु, **इल्लै** -  इल्लवु. 
+
+[[P99]]
+
+</details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -2945,6 +3773,13 @@ y que **son** también sumamente compasivos
 
 
 ## न प्रपत्ति-क्षणे विहित-त्यागः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मुन्दॆ पूर्व-पक्षियु बहुमट्टिगॆ ई समाधानगळिन्द जितनागि हेळबहुदु एनॆन्दरॆ, यावागलू यावज्-जीववू अवुगळ त्यागवन्नु प्रपन्ननु माडबहुदॆन्दु हेळिदरल्लवे इष्टुदूर दूषणॆयन्नु हेळुविरि; आ प्रपदन-कालदल्लि मात्रवे अवुगळ परित्यागवु विधिसल्पट्टितॆन्दु हेळुवॆवु ऎन्दरॆ, आगलू विरोधवु तप्पिद्दल्लवु ऎन्नुत्तारॆ, हेगॆन्दरॆ अयोग्य-प्रवृत्तियागि अदु धर्मवे अल्लदिद्दरॆ अदग त्याग-विधियन्नु ई सन्दर्भदल्लि हेळबेकाद आवश्यकतॆ एनु ? यावागलू त्यागमाडतक्कद्दॆयादुदरिन्द ईग निषेधिसि विधिसबेकाद प्रकरणवे इल्लवु, अदू अल्लदॆ आ कालदल्लि शिखा-यज्ञोपवीत, द्वादशोर्ध्व-पुण्ड्र, भगवत्-क्षेत्र-वास इवुगळ त्यागवू विधिसल्पट्टितॆन्दु भाविसबेकागुवदिल्लवे ? ऎन्दु आक्षेपिसुत्तारॆ - 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यावज्-जीवं सर्व-धर्म-त्यागं विधेयम् आगिल् अऩ्ऱो  
@@ -3016,6 +3851,19 @@ La **respuesta** a este argumento es la siguiente:
 प्रपत्त्युत्तरमाऩ सर्वकालत्तिलुम् सर्वधर्मत्यागम् विधेयमाऩालऩ्ऱो कामचारादिप्रसङ्गम् वरुवदु; प्रपत्तिपूर्वक्षणत्तिल् सर्वधर्मत्यागम् प्रपत्तिक्कु अङ्गमॆऩ्ऱाल् दोषमिल्लैये ऎऩ्ऩ वरुळिच्चॆय्गिऱार् यावज्जीवमित्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**यावज्-जीवम्** - प्रपन्ननिगॆ जीवमानविरुव तनक, **स्व-धर्म-त्यागम्** - सर्व-धर्मगळ स्व-रूप-त्यागवु, **विधेयमुगिलन्रो** -  अङ्गवागि विधिसल्पट्टितॆन्दु हेळिदरल्लवे, **इव्विरोधमुळ्ळदु** - नीवु हेळुव आक्षेपणॆगळुण्टागुत्तवॆ. आदुदरिन्द नावु ईग हेळुवुदेनॆन्दरॆ - **प्रपत्त्य्-अनुष्ठान-क्षणत्तिल्** - प्रपदनवन्नु अनुष्ठिसुव आ क्षण-कालदल्लि, **सर्व-धर्मङ्गळुडैय स्व-रूप-त्यागम्** - समस्त-धर्मगळ स्व-रूप-त्यागवु, **अङ्गमानाल्** - अङ्गवागि विधिसल्पट्टितॆन्दु हेळिदरॆ, **विरोधमिल्लैये** - आग एनॊन्दु आक्षेपणॆयू इल्लवष्टॆ, **ऎन्निल्** - ऎन्दु हेळिदरॆ, आगलू आक्षेपवु तप्पिद्दल्लवॆन्दु मुन्दॆ हेळुत्तारॆ.- 
+
+[[P100]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+नीवु अ-कालदल्लि मात्र धर्मगळ स्व-रूप-त्यागवु विधिसितु ऎन्दु हेळिदरल्ला, आ धर्मगळेनु अ-सम्भावितगळे अथवा सम्भावितगळे ऎन्दु विकल्पिसि, मॊदलु अ-सम्भावितगळागिद्दरॆ दूषणवन्नु हेळुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3046,7 +3894,17 @@ o de una **abstención** que **no es** probable que esté presente en ese moment
 अप्पोदु संभावितमाऩवऱ्ऱिऩुडैय स्वरूपत्यागम् विधिक्कवेण्डा; 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
 
+**अप्पोदु** - आ सन्दर्भदल्लि, आ प्रपदनवन्नु अनुष्ठिसुव सन्दर्भदल्लि, **सम्भावितमल्लादवत्तिनुडैय** - अ-प्रस्तुतवादवुगळ, **स्व-रूप-त्यागवु, विधिक्कवेण्डा** - विधिसुवदक्कॆ कारणवे इल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+सम्भावितगळागिद्दरॆ आग एनु आक्षेपवु उण्टागुत्तदॆन्दरॆ तिळिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3090,6 +3948,19 @@ después de **renunciar** a cosas como las siguientes:--
 प्रपत्तिपूर्वक्षणत्तिल् इवऩुक्कु असम्भावितमाऩ धर्मत्यागम् विधेयमो, सम्भावितधर्मत्यागम् विधेयमोवॆऩ्ऱु विगल्बित्तु क्रमेण उत्तरमरुळिच्चॆय्गिऱार् अप्पोदु सम्भावितमल्लाद इत्यादियाल्। आऩाल् त्यागविधिपक्षत्तै निर्वहिक्कुम् प्रकारम् ऎप्पडि यॆऩ्ऩ, प्रपत्तिक्काग ऒरु धर्मङ्गळुमपेक्षिक्कवेण्डा इत्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**सम्भावितमानत्तिनुडैय** - आ धर्मगळु उचितवादवागिद्द पक्षदल्लि अवुगळ कॆलवु अन्तह सम्भावित-धर्मगळन्नु हेळुत्तारॆ - **अप्पोदुण्डान** - आ प्रपदन-कालदल्लिरुव, **भगवत्-क्षेत्रदल्लि वासवन्नू, शिखॆ, यज्ञोपवीत, द्वादशोर्ध्व-पुण्ड्र, इवुगळ धारणादिगळै** - धारण मॊदलादवुगळन्नू, **तविर्न्दुक्कॊण्डु** - त्याग माडि, **प्रपत्तिपण्ण प्रसङ्गिक्कुम्** - आ त्यागवु विधियादुदरिन्द अवुगळन्नू त्यागमाडिये प्रपदनवन्नु अनुष्ठिसबेकागि बरुवदु ऎम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+आदुदरिन्द इल्लि परित्यज्य ऎम्बल्लिरुव त्यागक्कॆ स्व-रूप-त्यागवु अङ्गवागि विधिसितु ऎन्दु हेळिदरॆ, नाना-विधवाद दूषणॆगळिगॆ ऒळगागुवदरिन्द, त्यागवन्नु विधियागि भाविसुवदादरॆ आग प्रपदनक्कॆ अवश्यकवागि बेकाद ऐदु अङ्गगळल्लदॆ इन्नु याव धर्मगळन्नू अङ्गवागि परिग्रहिसबेडवॆन्दु विधिसितु ऎन्दु इट्टुकॊण्डरॆ याव विरोधवू इल्लवॆन्दु निगमनमाडि हेळुत्तारॆ. हीगॆ त्याग-विधिगॆ अर्थवादरॆ भक्ति-योगक्कॆ अ-शक्तनागिरुवनिगू, काल-विळम्बवन्नु सहिसदे इरुववनिगू प्रपदनदल्लि अधिकारवु, हीगॆ अभिप्रायवादरॆ याव प्रमाणगळिगू विरोधविरुवदिल्लवॆन्दु उपदेशिसुत्तारॆ.- 
+
+[[P101]]
+
+</details>
 
 ## उपासनाङ्ग-त्यागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3142,6 +4013,19 @@ lo cual **se requiere** como un aṅga (como el karma) para upāsana (meditació
 मुऩ्बु सॊऩ्ऩ निरपेक्षत्वत्तैच् चॊल्लुवदे उसिदमॆऩ्गिऱार् आगैयालुपासनत्तिल् वरुमित्यादियाल्। प्रपत्तिक्कु अङ्गमाग ऒरु धर्मत्तैयुम् अपेक्षिक्क वेण्डामॆऩ्ऱुसर्वधर्मनैरपेक्ष्यम् सॊल्लुवदे त्यागविधि पक्षत्तुक्कु स्वरसमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आदुदरिन्द त्याग-विधिगॆ अर्थवन्नुपदेशिसि ई वादवन्नु उपसंहार माडुत्तारॆ.**
+
+**आगैयाल्** - धर्मगळ स्व-रूप-त्यागवु अङ्गवागि विधिसिरुत्तदॆम्ब अभिप्रायवु अनेक-दूषणॆगॆ ऒळगागिरुवदरिन्द, **उपासनत्तिल् वरुम्** - भक्ति-योगक्कॆ बेकाद, **कर्माद्य्-अङ्गगळाले** - कर्म-योग, आदि-शब्ददिन्द ज्ञान-योग--नित्य-नैमित्तिकानुष्ठान, इवुगळिन्द, **निरपेक्षॆयायिरुक्किरॆ** - सेरिरबेकॆम्ब आपेक्षॆ इल्लदिरुव, **प्रपत्तिक्कु** - प्रपदनक्कॆ, **अङ्गमाग** - अङ्गवागि, **ऒरु धर्मङ्गळैयुम्** - यावदॊन्दु धर्मवन्नागलि, **पत्तवेण्डा** - अनुष्ठिसतक्कद्दल्लवु, **ऎङ्गैये** - ऎम्बुदे, **त्याग-विधि-पक्षत्तिक्कु उचितम्** - परित्यज्य ऎम्बल्लि त्यागवु विधिसल्पट्टिरुत्तदॆ ऎम्बुव सन्दर्भक्कॆ योग्यवादुदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+परित्यज्य ऎम्बल्लि त्यागवु विधिसल्पट्टिरुत्तदॆ ऎम्बुदु अभिप्रायवादरॆ, याव धर्मवन्नागलि प्रपदनक्कॆ अङ्गवागि अङ्गीकरिसबेडवॆन्दु ऎल्ला धर्मगळ अङ्गत्वेन त्यागवु विधिसल्पट्टितॆन्दु भाविसतक्कद्दु. अदक्कॆ अधिकारियु यारु ? ऎन्दरॆ पूर्व-पक्षियु हेळिद हागॆ उपासनाधिकारिये अल्लवु. आ उपासनक्कॆ शक्तियिल्लदवनू मत्तु विळम्बवन्नु सहिसदे इरुववनू ऎन्दु तिळिसुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3194,6 +4078,11 @@ o alguien que, aunque **capaz** de otros upāyas,
 इप्पडि त्यागविधिपक्षत्तिल् निरपेक्षत्वम् सॊल्लप्पडुगिऱदॆऩ्ऩिल्, इङ्गु आकिञ्चन्याद्यधिकारम् सॊल्लप्पडामैयाले उपायान्तरशक्तऩुक्कुम् विळम्बसहऩुक्कुम् कूड सर्वधर्मनिरपेक्षमाऩ प्रपत्त्यनुष्ठानम् प्रसङ्गियादोवॆऩ्ऩ अनुवादपक्षत्तिऱ्सॊऩ्ऩ अधिकारमे इप्पक्षत्तिऱ्कुम् अधिकारमाग सिद्धिक्कुमॆऩ्गिऱार् इन्द त्यागविधियाऩ पक्षन्दऩ्ऩिलुमिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इन्द त्याग-विधियानपक्षम् तन्निलुम्** - ई त्यागवु विधियॆन्दु भाविसुव पक्षदल्लि, **उपायान्तर-सामर्थ्यमिल्लादार्कु** - उपासनदल्लि सामर्थ्यविल्लादवरिगू, **आदुण्डागिलुम्** - ऒन्दु वेळॆ सामर्थ्यवुण्टागिद्दरू कूड, **विळम्बक्षमदल्लादार्कु** - विळम्बवन्नु सहिसदे इरुववरिगू, **प्रपत्तियिल् अधिकारम्** - प्रपदनदल्लि अधिकारवु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3233,6 +4122,22 @@ y aquellos que **imponen** bhakti yoga y similares).
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 इप् पक्षत्तिल् अनुवादपक्षोक्ताधिकारत्तैये कॊळ्ळवेण्डुमॆऩ्ऱु प्रमाणमिऩ्ऱिक्के सॊल्ललामोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडियाऩालॊरु प्रमाणङ् गळुक्कुम् विरोधमिल्लैयिति । अन्यथा सर्वाधिकारत्वम् कॊण्डाल् उपासनविधायकशास्त्र वैयर्थ्यापत्त्या तद्विधायकशास्त्रङ्गळोडु विरोधम् वरुमॆऩ्ऱु करुत्तु।
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडियानाल्** - हीगॆ मेलॆ हेळिद हागॆ अर्थमाडिदरॆ, **ऒरु प्रमाणङ्गळुक्कुम्** -यावदॊन्दु शास्त्र-प्रमाणगळिगू, **विरोधमिल्लै** - विरोधवागुवदिल्लवु. 
+
+[[P102]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+**परित्यज्य** - ऎम्बल्लि त्यागवु विधिसल्पट्टितॆन्दू, स्व-रूप-त्यागवु अङ्गवागि विधिसल्पट्टितॆन्दु नीवु भाविसिदरॆ, अनेक-प्रमाणगळिगॆ विरुद्धवादुदागुत्तदॆन्दु तोरिसिदॆवु. त्यागवे विधिसल्पट्टितॆन्दु भाविसुवदादरॆ, नावु हेळिद हागॆ ऒप्पिकॊण्डरॆ, ऎन्दरॆ प्रपदनक्कॆ अङ्गवागि यावदू बेकिल्लवादुदरिन्द अवुगळ नैरपेक्ष्यवु विधिसल्पट्टितॆन्दू, अदक्कॆ अधिकारियु उपायान्तरवाद उपासनक्कॆ अ-शक्तनू, विळम्बवन्नु सहिसदवनू ऎन्दू भाविसतक्कद्दु. उपासनक्कादरो शक्तियू इरबेकु, ऒन्दु वेळॆ ई जन्मदल्ले मोक्ष-प्राप्तियुण्टादरू उण्टागबहुदु; इल्लवे विळम्बिसिदरू विळम्बिसबहुदु. त्रैवर्णिकनागि शक्तियू इद्दु विळम्बवन्नु सहिसिकॊळ्ळुववनिगॆ उपासनदल्लि अधिकारवु. अ-शक्ततॆयू विळम्बवन्नु सहिसदवनिगू प्रपदनदल्लि अधिकारवॆम्ब भाववु. हीगॆ हेळिदरेने भक्ति-योगवन्नु विधिसुव शास्त्रक्कॆ नैरर्थ्यक्यविल्लवु. 
+
+अगलि श्री-यति-वर्यर जीवमान-दॆशॆयल्ले कॆलवरु ई त्यागवु अनुवादार्थवॆन्दू, इन्नु कॆलवरु सर्व-धर्म-त्यागवु विधिसल्पट्टितॆन्दू विवादवु नडॆयितल्लवे ? श्री-भाष्यकाररू ई सन्दर्भदल्लि यावदॊन्दु भाववन्नु खण्डिसलिल्लवादुदरिन्द सर्व-धर्म--स्व-रूप-त्यागवु अङ्गवागि विधिसल्पट्टितॆम्ब भावदल्लू श्री-भाष्यकाररिगॆ सम्मतिये ऎन्दु भाविसतक्कद्दल्लवो ? ऎन्दु पूर्व-पक्षियु केळबहुदु इदक्कॆ उत्तरवागि हेळुत्तारॆनॆन्दरॆ ? विवादविद्दुदेनो निश्चयवु. विवादवु याव सन्दर्भल्लि ऎन्दरॆ नीवु हेळिद सन्दर्भदल्लि अल्लवु; प्रपदनक्कॆ मुख्यवाद अङ्गवाद आकिञ्चन्यवू मत्तु प्रपत्तिय नैरपेक्ष्यवू याव पदगळल्लि बोधितवॆम्ब विचारदल्लीग विवादवु नडॆदु ई पदगळल्लि ऎन्दु व्यवस्थॆयन्नु माडिदरु ऎन्दु मुन्दॆ उपदेशिसुत्तारॆ. अन्तह व्यवस्थॆयु मुख्यवॆन्दु भाविसि अवुगळन्नु मुन्दिन कारिकॆगळ मूलक तिळिसुत्तारॆ.- 
+
 </details>
 
 
@@ -3278,6 +4183,13 @@ Los antiguos ācāryas **no discutieron** el punto de si el **abandono** de todo
 ननु श्रीभाष्यकारर् कालत्तिल् तत्समक्षत्तिल् इन्द श्लोकविषयमाग सर्वधर्मस्वरूपत्यागम् प्रपत्त्यङ्गमाग इन्द श्लोकत्तिल् विधिक्कप्पडुगिऱदॆऩ्ऱुम्, अप्पडियल्लवॆऩ्ऱुम् विवादमुण्डाऩदायुम्, इरण्डु पक्षमुम् कूडुमॆऩ्गिऱ ऎण्णत्ताल् भाष्यकारर् अव्विरण्डु पक्षत्तिल् ऎदैयुम् सरियऩ्ऱु ऎऩ्ऱु सॊल्लामल् तूष्णीमिरुन्ददायुम् केळ्विप्पडुगिऱोमेयॆऩ्ऩ, अव्विवादम् अन्यविषयकमागैयाल् इव्वैदिह्यम् प्रतिवादिगळाल् कल्बिदमॆऩ्गिऱार् पूर्वाचार्यर्गळुमिव्विडत्तिलित्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**पूर्वाचार्यरुगळुम्** - श्री-भाष्यकारर कालदवरागि अवर शिष्यरुगळाद आचार्यरुगळू, **इव्विडत्तिल्** - ई चरम-श्लोकदल्लि, **सर्व-धर्म--स्व-रूप-त्यागवु, प्रपत्त्य्-अङ्गमॆन्रुम्** - प्रपदनक्कॆ अङ्गवॆन्दू, **इप्पडियन्रॆन्रुम्** - इन्नु कॆलवरु हागल्लवॆन्दू, **विवादम्पणिना‌र्गळन्रु** - विवादवन्नु माडिदरु ऎम्बुदु सरियल्लवु, हागेनू विवादवु नडॆयलिल्लवु. हागादरॆ याव सन्दर्भदल्लि विवादवु नडॆदिद्दु ऎन्दरॆ हेळुत्तारॆ.- 
+
+[[P103]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3323,6 +4235,25 @@ y qué palabras (**indicaron**) la idea de que prapatti **no requería** (ningú
 अन्यविषयकमाऩ विवादमॆदुवॆऩ्ऩ वरुळिच्चॆय्गिऱार् प्रपत्तिक्कधिकारमाऩ इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रपत्तिक्कु अधिकारमान** - प्रपदनक्कॆ अधिकारवन्नुण्टु माडुव, **आकिञ्चन्यवू, प्रपत्तियिनुडैय नैरपेक्ष्यमुम्** - प्रपत्तिगॆ तन्न अङ्गगळु विना इन्नु यावदू अङ्गवागि बेकिल्लवॆम्बुदू, **इच्चरम-श्लोकत्तिल्** - ई चरम-श्लोकदल्लि, **ऎन्द पदङ्गळिले** - याव पदगळल्लि, **विवक्षिक्कैयुचितम्** - हेळल्पट्टवॆम्ब भावनॆयु समञ्जसवादुदु, **ऎन्रु विमर्शित्तार्गळत्तनै** - ऎन्दु विमर्शिसि तिळिदरु, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इष्टु मात्रवे नडॆदुदु ऎम्ब भाववु. विवादवू इल्लवू, आ सन्दर्भदल्लि अपार्थवन्नु यारू हेळलिल्लवु आदुदरिन्द श्री-भाष्य-काररु यावुदन्नू खण्डिसि हेळलू इल्लवु ऎम्बुदु तात्पर्यवु. श्री-यति-वर्यर कालद कॆलवु आचार्यरुगळ अभिप्रायवेनॆन्दरॆ ? "सर्व-धर्मान् परित्यज्य" ऎम्बुदक्कॆ अनुवाद परवागि अर्थ हेळि, आकिञ्चन्य-रूपवाद अधिकारवु हेळल्पट्टितॆन्दू, अनन्तर ई प्रपत्तिगॆ अन्य-नैरपेक्ष्यवु **माम् एकम्** ऎम्बल्लिरुव **एक**-शब्ददिन्द बोधितवॆन्दू अभिप्रायपट्टरु. इन्नु कॆलवरु पूर्वार्धदल्लि नैरपेक्ष्य-युक्तवाद उपायवन्नु हेळि, उत्तरार्धद **मा शुचः** ऎम्बल्लि शोक-मूलकवागि आकिञ्चन्य-युक्तवाद अधिकारवु बोधिसल्पट्टितॆन्दु अभिप्रायपट्टरु. योजनॆय भेददल्लि विवादवे विना, तात्पर्यार्थदल्लि विवादविल्लवादुदरिन्द श्री-भाष्य-काररु यावुदन्नू निराकरिसलिल्लवु. सर्व-धर्म--स्व-रूप-त्यागवॆम्बुदु विधिसल्पट्टितॆन्दु यारादरू हेळिद्द पक्षदल्लि अदन्नु खण्डिसुत्तिद्दरु. विवादवु याव पदगळिन्द आकिचन्यवू अन्य-नैरपेक्ष्यवू तोरिबरुत्तवॆ ऎम्ब विषयवागियादुदरिन्द, ई अभिप्रायगळु साधुवादुवु. आदुदरिन्द निराकरिसलिल्लवॆम्ब तात्पर्यवु. ई सर्व-धर्म--स्व-रूप-त्यागवु अङ्गवागि हेळल्पट्टितॆम्ब विषयदल्लि विवादवु श्री-यति-वर्यर कालदल्ले नडॆयितॆम्बुदु, अवरिन्दीचिनवरु आरोपिसि हेळिद विषयवे विना, अवर कालदल्लि इन्तह विवादवु नडॆयले इल्लवॆम्ब भाववु. नडॆदुदु, याव पदगळल्लि अङ्किचन्य-रूप अधिकारवू, अङ्गत्वेन अन्य-नैरपेक्षवू बोधितवॆम्ब विषयदल्लि ऎन्दु तिळियतक्कद्दु. 
+
+[[P104]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मुन्दॆ श्री-भाष्य-कारर कालदल्लि नडॆद विवादवु याव विषयदल्लि ऎम्बुदन्नु ऎरडु कारिकॆगळिन्द अनुग्रहिसि तिळिसुत्तारॆ.- आनन्तर ऎरडु कारिकॆगळिन्द पूर्व-पक्षिगळिन्द हेळल्पट्ट विवादाभिप्रायवु आरोपितवॆन्दू, आ अभिप्रायवु श्री-विष्णु-चित्त--वरदाचार्यरे मॊदलादवरुगळिन्द निराकरिसल्पट्टितॆन्दू तिळिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3366,6 +4297,18 @@ ese prapatti como upāya **no requiere** nada más como aṅga o accesorio.
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 विवादप्रकारत्तैक् कारिगैगळाले निरूपित्तु प्रतिवादिगळ् आरोपित्तुच् चॊल्लुम् विषयमॆल्लाम् वेरऱ्ऱैवै ऎऩ्ऱु विष्णुचित्तादि पूर्वाचार्यर्गळाले प्रदर्शितमॆऩ्गिऱार् अधिकारं पुरस्कृत्येत्यादियाल्। सर्वधर्मान् परित्यज्य ऎऩ्गिऱविडत्तिल् वर्तमानः ऎऩ्ऱु अध्याहरित्तु अदऩाल् प्राप्तमाऩ आकिञ्चन्यत्तै मुऩ्ऩिट्टुक्कॊण्डु उपायत्तिऩुडैय निरपेक्षतैयै एकशब्दत्ताले चरमश्लोकम् सॊल्लुगिऱदु ऎऩ्ऱु वाक्यस्वारस्य वित्तुक्कळाऩसिलर् सॊऩ्ऩार्गळ्। 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**अधिकारं पुरस्कृत्य - "सर्व-धर्मान् परित्यज्य"** ऎम्बुदु अनुवादवागि, आकिञ्चन्य-विशिष्टवाद अधिकारवन्नु मॊदलु हेळि, **उपायस्य निरपेक्षतां** - ई प्रपदन-रूपवाद उपायक्कॆ इन्नु यावुदू अङ्गवागि बेकिल्लवॆम्बुदन्नु **एक-शब्देन वक्ती** - एकवॆम्ब पददिन्द हेळुत्तदॆ ऎन्दु इदक्कॆ कर्तृ-पदवु चरम-श्लोकवॆन्दागि इट्टुकॊळ्ळबहुदु; अथवा **भगवान् वक्ति** - श्री-कृष्ण-भगवान्रवरु हेळुत्तारॆन्दागलि इट्टुकॊळ्ळबहुदु, **इति** - ऎम्बदागि, **केचिद् वाक्य-विदः** - कॆलवु प्राज्ञराद अचार्यरुगळु, ई चरम-श्लोक-रहस्यार्थवन्नु तिळिदवरु, **विदुः** - अभिप्रायपट्टिरुवरु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+परित्यज्यवॆम्ब सन्दर्भदल्लि अनुवादवागुवुदरिन्द, अधिकारवन्नु हेळि, प्रपत्त्य्-उपायद नैरपेक्षवन्नु एक-शब्ददिन्द बोधिसुत्तदॆन्दु कॆलवरु हेळिदर, ऎम्ब भाववु. अदरिन्द आकिञ्चन्यवु बोधितवॆम्बुवदु अवर अभिप्रायवु. मुन्दिन श्लोकदल्लि इन्नु कॆलवर अभिप्रायवन्नु तिळिसुत्तारॆ- 
+
 </details>
 
 
@@ -3430,6 +4373,19 @@ del punto si prapatti **ordenó** el **abandono** de todos los dharmas
 वेऱु सिलर् मुदलिले नैरपेक्ष्यत्तैच् चॊल्लि, पिऩ्बु विहितमाय्, अत एव लघीयस्सुमाऩ उपायत्तुक्कु अधिकारम् मा शुचः ऎऩ्गिऱ विडत्तिल् निषेधिक्कप्पट्ट शोकत्ताले द्योतितमागिऱदु ऎऩ्ऱु सॊऩ्ऩार्गळ्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**लघीयसः** - लघुवाद, **विहितस्य शरणं व्रज** ऎन्दु शास्त्रदल्लि हेळल्पट्ट, **उपायस्य** - उपायवाद प्रपदनद **नैरपेक्षम्** - अङ्गवागि यावदू बेकागिल्लवॆम्बुदन्नु, **पुरस्कृत्त्य** - मॊदलु पूर्वार्धदल्लि हेळि, **अधिकारन् तु** - आकिञ्चन्य-युक्तवाद अधिकारवन्नादरो, अनन्तर, **शोकद्-योतं - "मा शुचः"** ऎन्दु उत्तरार्धदल्लि हेळल्पट्ट पददल्लि व्यक्तपडुव शोकदिन्द तोरल्पडुत्तदॆन्दु, **परे** - इन्नू कॆलवु आचार्यरुगळु **विदुः** - अभिप्रायपट्टरु. **परे** ऎम्बुदक्कू **परे वाक्य-विदो** ऎम्बुदन्नु सेरिसि अर्थमाडबहुदु. 
+
+[[P105]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इन्नु कॆलवु आचार्यरुगळ अभिप्रायवादरो, मॊदलु नैरपेक्षवागि लघुवाद उपायवन्नु विधिसि. उत्तरार्धदल्लि अन्तह सु-करवाद उपायक्कॆ अधिकारियन्नु, **मा शुचः** ऎम्बल्लि तोरिबरुव आकिञ्चन्यवुळ्ळवनॆन्दु हेळिदरु; हीगॆ ऎरडु विध आचार्यरुगळ अभिप्रायगळल्लू एनॊन्दू तुम्बा व्यत्यासविल्लवादुदरिन्द श्री-भाष्य-काररु सुम्मने इद्दरॆ विना, स्व-रूप-त्यागाभिप्रायवुळ्ळवरागि याव उत्तरवन्नू कॊडलिल्लवॆम्बुदु तात्पर्यवु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3474,6 +4430,23 @@ y el autor de Śrī Bhāṣya **no detuvo** la discusión.
 इप्पडिअधिकारमुम् नैरपेक्ष्यमुम् चरमश्लोकत्तिल् सॊल्लप्पडुगिऱदु ऎऩ्गिऱ अंशत्तिल् विवादमिल्लैयेयागिलुम् सिलर् ‘‘स्वर्गकामो यजेत’’, ‘‘वृष्टिकामो यजेत’’ ऎऩ्गिऱविडत्तिल् पोल् अधिकारत्तै मुऩ्ऩिट्टु उपायत्तै विधिप्पदु स्वरसमॆऩ्ऱुम्, सिलर् ‘‘मन्मना भव’’ ऎऩ्गिऱ श्लोकत्तिऱ्सॊऩ्ऩ भक्तियोगत्तिऩुडैय दुष्करतैयै निऩैत्तु शोकित्त अर्जुनऩुक्कु मुदलिले विधिक्कप्पोगिऱ उपायत्तिऩ् लघीयस्त्वत्तै सॊल्लवेण्डियदु आवश्यकमागैयाल् नैरपेक्ष्यत्तै मुऩ्बु सॊल्वदु उचितमॆऩ्ऱुम् सॊऩ्ऩार्गळ्। इप्पडि योजनाभेदमात्रत्ताले प्राचीनर्गळुक्कु विवादम् उण्डायिऱ्ऱु। इप्पडि योजनाभेदत्तिल् विवादमिरुन्दालुम् इरण्डु कक्षियिलुम् आकिञ्चन्यनैरपेक्ष्यरूपमाऩ अपेक्षितार्थम् सिद्धिक्कैयाल् श्रीभाष्यकारर् ऒरु कक्षियैयुम् इदु सरियऩ्ऱु ऎऩ्ऱु तडुक्कविल्लै। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इत्थं** - ई प्रकारवागि, **अर्थाविशेषे ऽपि** - अभिप्रायदल्लि एनॊन्दू व्यत्यासविल्लदुदरिन्दले, हेगॆन्दरॆ इब्बर अभिप्रायगळल्लू आकिञ्चन्य-रूप अधिकारवू, प्रपदनक्कॆ नैरपेक्षवू बेकॆम्बुदु उपपादिसल्पट्टिरुवदरिन्द, अर्थदल्लि **अ-विशेष**वॆम्ब भाववु; आदरॆ व्यत्यासवॆल्लि ? ऎन्दरॆ योजनॆयल्लि ऎन्दु हेळुत्तारॆ, **योजना-भेद-मात्रतः** - अवु याव पदगळल्लि हेळल्पट्टवॆन्दु निर्धरिसुव योजनॆय भेद-मात्रदिन्द, **प्राचां** - पूार्वाचार्यरुगळ, **संवृत्तः** - प्राप्तवाद विवादवु, **भाष्य-कारैः** - श्री-भाष्य-काररिन्द, **अ-वारितः** - तिरस्करिसल्पडलिल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इब्बर अभिप्रायगळू शास्त्र-सम्मतवागिद्दुदरिन्द यार अभिप्रायवन्नू खण्डिसलिल्लवु. शास्त्र-विरुद्धवागियागलि, इतर-सम्प्रदाय-प्रमाणगळिगॆ विरुद्धवागियागि इल्लदुदरिन्द तट-स्थरागिद्दुबिट्टरॆम्ब भाववु. इल्लि **सर्व-धर्मान् परित्यज्य** ऎम्ब प्रथम-पादपु आकिञ्चन्यवन्नु उपपादिसुत्तदॆन्दु कॆलवर अभिप्रायवु, एकॆन्दरॆ स-परिकरवाद भक्ति-योगवन्ननुष्ठिसुवदु अ-साध्यवे ऎम्बदागि आकिञ्चन्यवु. इन्नु कॆलवरु आ प्रथम-पादवु प्रपदनक्कॆ अन्य-नैरपेक्ष्यवन्नु साधिसुत्तदॆन्दु हेळिदरु ऎन्दरॆ इन्नु यावुदू प्रपदनक्कॆ अङ्गवल्लवॆम्बुदन्नु बोधिसुत्तदॆन्दु हेळिदरु. उभय-पक्षदल्लू शास्त्र-विरुद्धवादुदेनू इल्लदुदरिन्द इब्बर वादवू खण्डिसल्पडलिल्लवु. 
+
+[[P106]]
+
+यावाग प्रतिषेधिसल्पडलिल्लवो आग अभिमतवादुदे ऎम्ब न्यायवाद प्रकार बहुशः श्री-भाष्य-काररिगॆ ऎरडू सम्मतवे. प्रथम-पादवु आकिञ्चन्याधिकार-बोधकवॆन्दरू बाधकविल्लवु; अथवा बेरॆ अङ्गवु यावुदू बेकिल्लवॆम्ब नैरपेक्ष-विधि-परवॆन्दरू बाधकविल्लवु; हीगीग विवाद उण्टादुदे विना, ईचिनवरु कल्पनॆ माडि सर्व-कर्म--स्व-रूप-त्याग-विधि-परवॆन्दु हेळुवदु शास्त्र-विरुद्धवु, अन्तह वादवु नडॆयले इल्लवॆम्बुदु, श्री-विष्णु-चित्त--वरदाचार्यरुगळ वाक्यगळिन्द व्यक्तवॆम्ब भाववु. ई श्री-भाष्य-कारर प्रवृत्तियिन्द नावु मुख्यवागि ग्रहिसतक्क ऒन्दु विषयवुण्टु. यारादरू श्री-महर्षिगळ अथवा भगवद्-उक्तिगळल्लि योजना-बेधदिन्द स्वारस्यार्थगळन्नु कल्पिसिदरॆ, अवुगळु सिद्धान्तक्कू इतर-शास्त्र-प्रमाणगळिगू अ-विरुद्धवागियू इद्दरॆ, अवू कूड ग्राह्यवे, अन्तह स्वारस्याभिप्रायगळु हिन्दॆ यारिन्दलू उपपादितवल्लवॆम्ब भावनॆयिन्द अवुगळन्नु सुम्मनॆ निराकरिसिबिडुवदु सरियल्लवॆम्ब भाववु शिक्षितवु. श्री-यति-वर्यरु अ कारणदिन्दले आ ऎरडु अभिप्रायगळल्लि यावुदॊन्दन्नू निराकरिसलिल्लवु. **"अ-प्रतिषिद्धम् अनुमतं"** यावाग निराकरिसलिल्लवो आग इष्टवादुदे ऎम्ब न्यायानुसारवागि श्री-भाष्य-काररिगॆ अवु अभिमतगळे ऎन्दु भाविसतक्कद्दागिवॆ ऎम्ब भाववु. 
+
+हीगीग विवादवु नडॆयिते विना, पूर्वप-क्षगळु हेळुव हागल्लवु. विषयवन्नु चन्नागि विमर्शिसि तिळियदॆ, स्व-रूप-त्यागवु अङ्गवागि विधिसितु ऎम्ब अभिप्रायवन्नु श्री-यति-वर्यरु निराकरिसलिल्लवॆम्ब हेळिकॆयु, ईचिनवर विषय तिळियदवर आरोपणॆ ऎन्दू, आ अभिप्रायवन्नु श्री-विष्णु-चित्तरु वरदाचार्यरे मॊदलादवरे खण्डिसिरुत्तारॆन्दु मुन्दिन श्लोकदिन्द हेळुत्तारॆ .. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -3519,7 +4492,6 @@ eso **se demostró** que **no tenía** ningún fundamento por parte de maestros 
 </details>
 
 
-
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 अज्ञातपूर्ववृत्तान्तैर्यत्तत्रारोपितं परैः ।  
@@ -3540,10 +4512,50 @@ eso **se demostró** que **no tenía** ningún fundamento por parte de maestros 
 इत्यादि निबन्धनमुखत्तालुम् प्रदर्शितमॆऩ्गै।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
 
+**अ-ज्ञात-पूर्व-वृत्तान्तैः** - तिळियल्पडदिरुव पूर्व-वृत्तान्तवुळ्ळवराद ऎन्दरॆ पूर्वदल्लि श्री-यति-व‌र्यर सान्निध्यदल्लि नडॆद वृत्तान्तवेनॆम्बुदु तिळियदे इरुव, इतररुगळिन्द, **यत्** -  याव सर्व-कर्मगळ त्यागवॆम्ब अभिप्रायवु, **तत्र** - आ विवाददल्लि, **आरोपितं** - नडॆयदिरुवदन्नु आरोपिसि हेळल्पट्टितो, **तत् तु** - आ अभिप्रायवादरो, **श्री-विष्णु-चित्ताद्यैः.** - श्री-विष्णु-चित्तरू **आदि**-पददिन्द वरदाचार्य--वादि-हंसाम्बुवाहरे मॊदलादवरिन्द, अवरुगळ ग्रन्थगळल्लि, **निर्मूलम् इति** - आधारविल्लदुदॆन्दु, स-हेतुकवादुदल्लवॆन्दु, **दर्शितं** - प्रदर्शिसल्पट्टितु. 
+
+[[P107]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+श्री-विष्णु-चित्तरवरु साक्षात्तागि यति-वर्यरिन्दले उपदेशवन्नु हॊन्दिदवरु; अवरु बरॆदिरुवदेनॆन्दरॆ 
+
+> स्व-स्व--वर्णाश्रमाधीनं कर्म न त्याज्यम् एव तत् ।  
+यावद्-देहं प्रपन्नैश् च त्याग-हेतोर् अ-दर्शनात् ।  
+विहितेषु व्यवस्थानं प्रपन्नानां प्रपञ्च्यते ।  
+श्रुति-स्मृत्य्-आदि-विहितम् अनुष्ठानन् तु नैत्यकम् ॥ 
+
+तम्म तम्म वर्णाश्रमगळिगॆ अधीनवागि शास्त्रदल्लि हेळल्पट्टिरुव कर्मवन्नु बिडतक्कद्दल्लवु. देहविरुववरिगू जन्मानुसारवागि प्रपन्नरिन्दलू कूड बिडलु शास्त्रगळल्लि याव कारणवु तोरि बारदिरुवदरिन्द अवरवरिगॆ विहितवाद नित्य-कर्मगळल्लिरोणवु प्रपन्नरिगू कूड हेळल्पट्टिरुत्तदॆ. श्रुति-स्मृत्य्-आदिगळल्लि विधिसल्पट्ट नित्य-कर्मगळू प्रपन्नरिन्द अनुष्ठिसतक्कवुगळे ऎम्बदागि उपदेशिसिरुत्तारॆ. सार-दीपिकॆयवरु 
+
+> इप्पाल् पट्टिव‌र्गळालॆ अरोपितमॆन्रु ऎङ्गळाळ्वान् तिरुक्कुरुक्कैप्पिरान् पिळ्ळान् मुदलानार्गळाल् काट्टु पट्टदॆन्गै 
+
+ऎन्दु अप्पणॆ कॊडिसिरुत्तारॆ. इवरिब्बरु श्री-भाष्य-कारर प्रिय-शिष्यरागि, आचार्याभिप्रायवन्नु चन्नागि तिळिदवरादुदरिन्द स्व-रूप-त्यागार्थवन्नु श्री-यति-वर्यरु अङ्गीकरिसलिल्लवॆम्बुदु व्यक्तवु. ई **तिरुक्कुरुक्कै पिरान् पिळ्ळान्** ऎम्बुवरु श्री-भाष्य-कारर मुख्य-शिष्यरु; श्री-नम्माळ्वार्रवर तिरुवाय्‌-मॊळिगॆ अरायिरप्पडि ऎम्ब भाष्यवन्नु अनुग्रहिसिदवरु. इवरु श्री-भाष्य-सिंहासनाधिगळाद नाल्वरल्लि मुख्य-स्थरु. इवरु हीगॆ श्री-भाष्य मत्तु भगवद्-विषयवॆरडरल्लू अ-द्वितीय-पाण्डित्यवन्नु हॊन्दिदवरादुदरिन्द उभय-वेदान्त--सिंहासनाधिपति ऎम्ब बिरुदन्नु वहिसिद्दरु. ऎङ्गळाळ्वान्रवरु श्री-भाष्य-कार्रवर ७४ शिष्यरुगळल्लि ऒब्बरु. इवरिगॆ श्री-भाष्य-कारर नियमनानुसारवागि तिरुक्करुहैप्पिरान् पिळ्ळान्रवरु श्री-भाष्य--भगवद्-विषय मॊदलादवुगळन्नु उपदेशिसि, श्री-रामानुज-सिद्धान्तवन्नु प्रचुरपडिसुव हागॆ माडिदरु. 
+
+**"सर्व-धर्मान् परित्यज्य"** ऎम्ब प्रथम-पाददिन्द तोरिबरुव मुख्याभिप्रायगळु (१) आकिञ्चन्याधिकारवू (२) अङ्गान्तर-नैरपेक्ष्यवू, ऎन्दु व्यक्तवागि समर्थिसल्पट्टवु. महर्षिगळाद व्यासादिगळु प्रपत्तियन्नु त्यजिसि, उपासनवन्नवलम्बिसलु, प्रपदन-शास्त्र-ज्ञान-विश्वासगळ मान्द्यवु कारणवॆन्दु कॆलवरु हेळिदरु. ई अभिप्रायवन्नु हिन्दॆये खण्डिसिदरु. 
+
+[[P108]]
+
+(१) प्रपत्ति-शास्त्र-प्रक्रियॆयन्नॆल्ला अतिविशदवागि उपपादिसि हेळिद ज्ञानाग्रेसररागि ऋषिगळल्लॆल्ला सर्व-श्रेष्ठरॆन्दू, 
+
+> कृष्ण-द्वैपायनं व्यासं विद्धि नारायणं प्रभुं 
+
+हीगॆ विष्ण्व्-अंशरॆन्दु तम्म तन्दॆयाद श्री-पराशररिन्दले हॊगळल्पट्टवरिगॆ ज्ञान-विश्वासगळल्लि मान्द्यवुण्टे ? हागॆ हेळलु हेगॆ मनस्सु ऒप्पितो ? आश्चर्यवु. इन्तवरिगॆ ज्ञान-विश्वास-मान्द्यगळु सर्वात्मना इल्लवु. स्व-तन्त्र-प्रपत्तियल्लि अधिकार उण्टागलु (१) भक्ति-प्रपत्तिगळ स्व-रूप-ज्ञान उण्टागुवदर मूलक गुरु-लघूपायगळ स्व-रूप-ज्ञानवु बेकु (२) हीगॆ ज्ञानविरुवदर मूलक भक्त्य्-उपायदल्लि तानु अ-शक्तनॆम्ब भाववुण्टाग बेकु. (३) हीगॆ ज्ञानविद्दरू विळम्बवन्नु सहिसदे इरबेकु. श्री-व्यासादिगळु ज्ञान-विश्वास-मान्द्यविल्लदॆ परिपूर्ण-ज्ञानवुळ्ळवरागि विळम्बवन्नु सहिसुववरागि भक्त्य्-उपायदल्लि शक्तियुळ्ळवरागियू इद्दुदरिन्द, विपुळ-सुख-दायकवागिरुव उपासनानुष्ठानवन्ने अवलम्बिसिदरॆम्बुदु श्री-गुरुगळ अभिप्रायवु. 
+
+</details>
 
 ## अधिकार-सङ्कोचे ऽविरोधः
 ### ज्ञतृता
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+आदरॆ **"इदं शरणम् अ-ज्ञानाम्"** ऎम्ब लक्ष्मी-तन्त्र-श्लोकदल्लू, **"अविद्यातो देवे"** ऎम्ब श्री-पराशर-भट्टर श्लोकदल्लू, ज्ञान-मान्द्यविरुववरिगॆ भक्तियल्लि अधिकारवॆम्ब भाववु तोरिबरुवदिल्लवे ? ऎन्दरॆ, अल्लि हेळिरुव अ-ज्ञान-शब्द-तात्पर्यवेनॆम्बुदन्नु तिळिसुत्तारॆ.- आ श्लोकगळ तात्पर्यवन्नु मुन्दॆ विशदीकरिसुत्तारॆ. आदुदरिन्द अवुगळ तात्पर्यवन्नु सङ्ग्रहवागि तिळिसुवॆवु.- 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3611,6 +4623,25 @@ que **quieren** (inmediatamente) **rendir** constante **servicio** al Señor",
 ननु ज्ञानविश्वासपूर्णर् प्रपत्तिक्कु अधिकारिकळ्। मन्दज्ञानविश्वासशालिकळ् भक्तिक्कु अधिकारि-कळॆऩ्ऱु सॊऩ्ऩदै कीऴे दूषित्तार्। लक्ष्मीतन्त्रत्तिल् ‘‘इदं शरणमज्ञानामिदमेव विजानताम्’’ ऎऩ्ऱु अत्यन्ताज्ञर्गळुक्कुम् अत्यन्तज्ञानिकळुक्कुम् प्रपत्ति उपायमॆऩ्ऱु सॊल्लियिरुप्पदाल् इव्विरण्डुबडियुमिऩ्ऱिक्के मन्दज्ञानवाऩ्गळायिरुप्पवर्गळुक्के भक्तियिल् अधिकारमॆऩ्ऱु एऱ्पडविल्लैयो? अदैयडियॊऱ्ऱि भट्टर् ‘‘अविद्यातो देवे’’ ऎऩ्गिऱ मुक्तकश्लोकत्तिल् अत्यन्ताज्ञानिकळुक्कुम् अत्यन्तज्ञानिकळुक्कुमे भगवाऩ्उपायमागिऱार् ऎऩ्ऱु सॊल्लुगैयालुम् मन्दज्ञानिकळुक्के भक्ति उपायमॆऩ्ऱु एऱ्पड विल्लैयो ऎऩ्ऱु शङ्गित्तु अन्द श्लोकङ्गळिऩ् भाववर्णनत्ताले समाधानमरुळिच् चॆय्गिऱार् आऩाल् इदं शरणमित्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आनाल्** - मेलॆ हेळिदुदे अभिप्रायवादरॆ, **"इदं शरणम् अ-ज्ञानाम्"** (लक्ष्मी-तन्त्रम् १७-१००) **ऎन्नुम्** - ऎम्बुदागियू, मत्तु 
+
+**इदम्** - ई प्रपदनवु, **अ-ज्ञानां** - प्रपदनद सामान्य-ज्ञानविद्दु भक्ति-योगवाद उपासनद सरियाद ज्ञानविल्लदवरिगू, **शरणं** - उपायवु; **विजानतां** - प्रपत्ति-भक्तिगळ ज्ञानवुण्टागि, भक्ति-योगवन्नु स-परिकरवागि अनुष्ठिसलु तनगॆ शक्तियिल्लदुदरिन्द प्रपत्त्य्-अनुष्ठानवे सु-करवॆन्दु विवेक-ज्ञानवन्नु हॊन्दिदवनिगू, **इदं** - ई, प्रपदनवे **शरणम्** - उपायवु. **तितीर्षतां पारं** - संसारद, **अनिष्टं तर्तुम् इच्छताम्** - अनिष्टवन्नु दाटि आचॆ दडवन्नु हॊन्दलु अपेक्षॆयल्लि त्वरॆयुळ्ळवरिगू, **इदं शरणम्** - इदे उपायवु; विळम्बवन्नु सहिसदे इरुववरिगू इदे उपायवॆम्ब भाववु; **इदम् आनन्त्यम् इच्छतां**  - परिपूर्ण-ब्रह्मानुभववन्नु हॊन्दबेकॆम्ब अपेक्षॆयुळ्ळवरॆल्लरिगू इदे उपायवु, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इदरिन्द तुम्बा ज्ञानविल्लदवरिगू ज्ञानविद्दरू उपासनॆयन्नु माडलु अ-शक्तरादवरिगू, विळम्बवन्नु सहिसदवरिगू मोक्षबेकॆम्बुवरिगू हीगॆ प्रपदनक्कॆ सर्वरू अधिकारगळॆम्बुदु स्थापितवु. हीगॆ ई नाल्कु विध अधिकारिगळिगू प्रपदनदल्ले अधिकारवॆन्दु हेळल्पट्टितु. इल्लि **इदम् एव विजानताम्** ऎन्दिरुवुदरिन्द, ऒळ्ळॆय प्राज्ञनादवनिगॆ प्रपदन अधिकारवॆन्दु अर्थमाडि, मन्दाधिकारिगळिगीग भक्ति-योगवाद उपासनदल्लि अधिकारवॆन्दु कॆलवरु अर्थमाडि बिट्टरु. हीगॆ अर्थवल्लवॆन्दु मुन्दॆ उपपादिसुत्तारॆ. **इदम् आनन्त्यम् इच्छताम्** ऎम्बुदरिन्द **"अ-भयं सर्व-भूतेभ्यः"** ऎम्बल्लि तोरिबरुव सर्वाधिकारत्ववु बोधितवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+(२) इदू हिन्दिन श्लोकद अनुवादवे, प्रपत्तियल्लि यारिगॆ अधिकारवॆन्दु तिळिसुव सन्दर्भदल्लि, प्रपदनक्कू उपासनक्कू प्रपत्ति-भक्तिगळल्लि अधिकार-भेदवू हेळल्पडुत्तदॆ.
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3664,6 +4695,28 @@ y debido a la intensidad del bhakti ".
 १९‘‘अविद्यातो देवे परिबृढतया वा विदितया स्वभक्तेर्भूम्ना वा जगति गतिमन्यामविदुषाम्’’(भट्टर्-मुक्तकम्) ऎऩ्ऱुञ्
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"अविद्यातो देवे" एन्नुम्** ऎम्बुदागियू, 
+
+[[P109]]
+
+**अविद्यातः** - इदरर्थवु. **इदं शरणम् अ-ज्ञानाम्** ऎम्बुदर आर्थवे; उपासन-प्रपदनगळ सरियाद ज्ञानविल्लदुदर मूलकवागि **गतिम् अन्याम् अ-विदुषां** - बेरॆ उपायवन्नु अथवा इन्नॊन्दु उपायवाद भक्ति-योग-गतियन्नु तिळियदे इरुववरिगू, २. **देवे** - सर्वेश्वरनल्लि, **विदितया** - गुरूपदेशदिन्दलागलि शास्त्र-ज्ञानदिन्दलागलि तिळिद, **परिभृढतया वा** - अ-घटित-घटना-सामर्थ्यवुळ्ळवनॆम्बुदरिन्दलागलि ऎन्दरॆ महापराधियागिद्दरू आश्रयिसिबिट्टरॆ मुक्तियन्नीयुव सामर्थ्यवुळ्ळवनॆम्बुदरिन्दलागलि अथवा **स्व-भक्तेर् भूम्ना वा** - आश्रयिसिदरॆ रक्षिसिये रक्षिसुवनॆम्ब तन्न सम्पूर्ण-भक्ति-विश्वासगळिन्दलागलि, **जगति गतिम् अन्याम् अ-विदुषां** - ई जगत्तिनल्लि बेरॆ गति इल्लवॆन्दु तिळिदवनिगू इदु **इदम् एव विजानताम्** - ऎम्बुदर अभिप्रायवु. 
+
+[[P110]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+३ नॆय अधिकारि सह इदरल्ले सेरिदनु. **गतिम् अन्याम् अ-विदुषाम्** ऎम्बुदरिन्द सर्वाधिकारत्ववन्नु हेळबहुदु. इदर उत्तरार्धवु इन्तवरिगॆल्ला श्री-हरिये प्राप्यनू प्रापकनू ऎन्दु द्वय-मन्त्रद अर्थवन्नु बोधिसुत्तारॆ.- अदु यावुदॆन्दरॆ 
+
+> गतिर् गम्यश् चासौ हरिर् इति जितन्ताह्वय-मनो रहस्यं व्याजह्रे स खलु भगवान् शौनक-मुनिः
+
+ऎम्बुदु परम-शेषियाद श्रीमन्-नारायणनिगिन्त बेरॆ सिद्धोपायनू इल्लवु; उपेयनू इल्लवु; ऎन्दु इल्लि हेळल्पट्टितु. इन्तह महत्ताद रहस्यवन्नु शौनक-मुनिगळु उपदेशिसिरुत्तारॆन्दु हेळल्पट्टिरुत्तदॆ. तुम्बा तिळुवळिकॆ इल्लदवरिगू, तिळुवळिकॆ इरुववरिगू, अ-शक्तरिगू, विळम्बवन्नु सहिसदवरिगू प्रपदनवे ऎम्बुदु ई श्लोकद तात्पर्यवु. 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > जॊल्लुगिऱव् अधिकारि-भेदम् इरुक्कुम् बडिय् ऎऩ्ऩ् 
@@ -3711,6 +4764,12 @@ La **respuesta** a esta **pregunta es** la **siguiente**:-
 जॊल्लुगिऱवधिकारि भेदमिरुक्कुम्बडियॆऩ्ऩॆऩ्ऩिल्; 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**शॊल्लुगिर** - हेळल्पट्ट, **अधिकार-भेदम्** - अधिकारदल्लिरुव भेदवु, **इरुक्कुम्पडि** उपपादिसल्पट्ट क्रमवु, **यॆन्नॆन्निल्** - हेगॆ ऎन्दरॆ मुन्दॆ ई ऎरडु श्लोकगळू समानार्थकगळादुदरिन्द ऎरडन्नू सेरिसि तात्पर्यवन्नु बोधिसुत्तारॆ. इतररु माडिरुव अर्थवु सरियादवल्लवॆन्दु तोरिसुवदक्कागि तावे अर्थवन्नु दयपालिसुत्तारॆ.- 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व्-इडत्तिऱ् सॊऩ्ऩव् अ-ज्ञानं  
@@ -3749,6 +4808,13 @@ de lo que **se afirma** en los śāstras.
 इङ्गुळ्ळ अज्ञानामॆऩ्बदऱ्कु पश्वादिगळुक्कुप्पोले अत्यन्ताज्ञानवताम् ऎऩ्ऱु अर्थम्म् कॊण्डाल् शास्त्रवश्यऩाय् प्रपत्त्यनुष्ठानम् पण्णमुडियादागैयाल् इदं शरणमज्ञानाम् ऎऩ्ऱु सॊऩ्ऩदु कूडादु। आगैयाल् "अनुदरा कन्या" इत्यादिगळिल्बोले नञः अल्पार्थकत्वत्तै स्वीकरित्तु अर्थमरुळिच्चॆय्गिऱार् इव्विडत्तिल् सॊऩ्ऩ अज्ञानमित्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इव्विडत्तिल्** - ई ऎरडु प्रमाणदल्लू, **चॊन्न अ-ज्ञानम् "इदं शरणम् अ-ज्ञानाम्"** ऎम्बल्लियू **"अविद्यातः"** ऎम्बल्लियू हेळिरुव अ-ज्ञानवु, **पश्व्-आदिगळैपोले** - आकळु मॊदलाद मूग जन्तुगळ हागॆ, **शास्त्रीयमॊन्रुम् अरियादॊळिगै यन्रु** - शास्त्र-सम्बन्धवागिरुव ऒन्दन्नु तिळियदॆ इरुवदल्लवु. 
+
+[[P111]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3793,6 +4859,23 @@ de sutilezas sutiles o **distinciones** en él.
 नञः अल्पार्थकत्वत्तै विशदीकरिक्किऱार् उपासनादिगळिल् तॆळिविल्लामैयादल् प्रपत्ति तऩ्ऩिलुम् सूक्ष्मविशेषङ्गळऱियामैयादलामिति । इङ्गु प्रपत्ति तऩ्ऩिल् सूक्ष्मविशेषङ्गळऱियामैयै अधिकारमागच् चॊऩ्ऩदु उक्तिप्रपत्तिनिष्ठऩ् विषयत्तिल्। सूक्ष्मविशेषम् तॆरिन्दाल् अवऩ् स्वनिष्ठैक्कु अधिकारियिऱे। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**मत्तेदॆन्निल्** - हागादरॆ अ-ज्ञानवु यावुदरल्लि ? ऎन्दरॆ - **उपासनादिगळिल् शॆळिविल्लामैयादल्** - उपासन मत्तु आदि-शब्ददिन्द अदक्कॆ अङ्गगळाद कर्म-योग--ज्ञान-योगगळु, इवुगळ ज्ञानविल्लदिरुवदरिन्दलागलि, अधवा **प्रपत्ति तन्निलुम्** प्रपदन-शास्त्रदल्लागलि, **सूक्ष्म-विशेषङ्गळ्** - प्रपत्तिय अर्थवेनु ? अदु हेगॆ उपायवागुत्तदॆ ? अदन्ननुष्ठिसुव क्रम हेगॆ ? इवे मॊदलाद सूक्ष्म-विशेषगळन्नु,, **आरियामैयादिलामत्तनै** - तिळियदे इरुवदागलि आगबहुदु, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इष्टु मात्रवे, **"अ-ज्ञानां"** ऎम्बुदरल्लू मत्तु **"अविज्ञातः"** ऎम्बुदरल्लू इरुव अ-ज्ञान-शब्दद अर्थवॆम्ब तात्पर्यवु. उपासनारूपोपायक्कॆ बेकाद स-परिकर--भक्ति-योग-ज्ञानविल्लदवरिगू, अथवा प्रपदन-शास्त्रद विशेष-ज्ञानविल्लदवरिगू प्रपदनदल्ले अधिकारवॆन्दु हेळिदन्तायितु. आगलि, हागादरॆ प्रपदनानुष्ठानवन्नु माडुववनिगॆ सूक्ष्म-विशेष-ज्ञानवु बेडवो ? ऎन्दरॆ प्रपत्तिगॆ उपयुक्तवाद सामान्य-ज्ञानवे साकु, विशेष-ज्ञानवु बेकागिल्लवॆम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हिन्दॆ ज्ञान-शून्यरिगू इदे उपायवॆन्दु हेळल्पट्टितु. मुन्दॆ आ श्लोकगळल्लिरुव **"इदम् एव विजानताम्"** ऎम्बुदर मत्तु **"देवे परिबृढतया वा विदितया"** ऎम्बुदर अर्थवन्नु व्यक्तपडिसुत्तारॆ. ज्ञानवुळ्ळवरू इदक्कॆ अधिकारिगळॆन्दु हेळल्पट्टिरुत्तदॆ. याव ज्ञानवुळ्ळवरॆन्दरॆ हेळुत्तारॆ- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3846,6 +4929,13 @@ que **es necesario** para prapatti.
 इद मेव विजानताम् ऎऩ्बदऱ्कुम्, देवे परिबृढतया वा विदितया ऎऩ्बदऱ्कुमर्थमरुळिच्चॆय्गिऱार् इवऱ्ऱिल् विजानताम् ऎऩ्ऱुमित्यादियाल्। उपासनादिगळिल् तॆळिवादलिति । इदु अधिकारमावदु शक्तियिल्लादबोदु ऎऩ्ऱु मेले सॊल्लप्पडुगिऱदु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इवत्तिल्** - ई प्रमाणगळल्लि **"विजनतां" ऎन्रुम्** - ऎम्बदागियू, **"देवे परिबृडतया वा विदितया" ऎन्रुम्** - ऎम्बदागियू, **शॊन्न ज्ञान-विशेषमुम्** - हेळल्पट्ट ज्ञान-विशेषवु, **उपासनादिगळिल् तॆळिवादल्** - स-परिकरवाद उपासनवाद ब्रह्म-विद्यॆय पूर्ण-ज्ञानवागलि, अथवा **प्रपत्तिक्कुपयुक्तमान** - प्रपदनक्कॆ सहकारियाद, **शरण्य-गुणादि-विषयत्तिल्** - सर्व-रक्षकनाद भगवन्तन कल्याण-गुणगळे मॊदलाद विषयदल्लि, **तॆळिवादलामत्तनै** - सरियाद ज्ञानवादरू आगबहुदु. 
+
+[[P112]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3887,6 +4977,17 @@ porque sólo el **conocimiento** de la cualidad del Salvador de **ser** el Seño
 ननु अल्पज्ञानवद्वाचकमाऩ अज्ञानामॆऩ्बदऱ्कु प्रतिकोटियाऩ विजानताम् ऎऩ्गिऱ पदम् सर्वविषयकज्ञानवाऩैच् चॊल्लादो वॆऩ्ऩ? अप्पडिप्पट्ट प्रपत्त्यधिकारि दुर्लभऩागैयालुम् ‘‘देवे परिबृढतया वा विदितया’’ ऎऩ्गिऱ अभियुक्तोक्तियिल् प्रपत्त्युपयुक्तपरिबृढत्वगुणज्ञानमे अधिकारमागच् चॊल्लुगैयालुम् सर्वविषयकज्ञानत्तै अधिकारमागच् चॊल्लादॆऩ्गिऱार् अल्लदु इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अल्लदु** - हागल्लदॆ **अनपेक्षितमान सर्व-विषय-ज्ञानमन्रु** - प्रपदनक्कॆ बेकागदे इरुव समस्त-विषयद तिळिवळिकॆयु अल्लवु. उपासनादिगळल्लि ज्ञान उण्टागुवदरिन्द, अदु तुम्बा गुरुवाद उपायवु, अनुष्ठिसुवदु कष्टतरवॆम्ब विषयवन्नु ग्रहिसुवनु; मत्तु परमात्मन आश्रित-रक्षणोपयुक्तगळाद कल्याण-गुणगळ ज्ञानवू, आतनु सर्व-शेषियागि अ-घटित-घटना-शक्तियुळ्ळवनागि हीगॆ परिबृढनागि प्रपन्ननन्नु ऎन्दिगू कै बिडनु, इदीग तनगॆ अनुकूलवाद लघूपायवॆम्ब ज्ञान उण्टागुवनिगू ई प्रपदनदल्लि अधिकार उण्टागुत्तदॆम्ब भाववु. इदन्ने मुन्दिन वाक्यद मूलक उपपादिसुत्तारॆ.- **परिबृढत्व-रूप** - सर्वेश्वरनागि सर्व-शेषियागि सर्व-नियामकनागि, अ-घटित-घटना-शक्तियुळ्ळ, **शरण्य-गुण-विशेष-ज्ञानमिरे** - सिद्धोपायनागि सर्व-रक्षकनागि प्रपन्नरिगॆ प्राप्यनागियू इरलु योग्यवाद गुण-विशेषगळाद कारुण्य-सौलभ्य-सौशील्य-वात्सल्यादिगळ ज्ञानवीग, **इङ्गु शॊल्लुप्पडुगिरदु** - इल्लि हेळल्पडतक्कद्दागिरुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+पूर्व-पक्षिगळु इदक्कॆ हेगॆ अर्थमाडिदरु ? ऎन्दरॆ, हीगॆ सम्पूर्ण-ज्ञानाधिकारियू प्रपदनाधिकारि ऎन्दु हेळल्पट्टिरुवदरिन्द, अन्तह ज्ञानविल्लदॆ मन्दाधिकारिये उपासनक्कॆ अधिकारि ऎन्दु भाविसिदरु. इदु सरियाद अभिप्रायवल्लवॆन्दु उपपादिसि हेळुत्तारॆ. ई ज्ञान-मूलकवागि तानु अ-शक्तनु, तन्-मूलक अ-किञ्चननु ऎन्दु तोरिदरॆ अन्तवनिगू प्रपदनदल्लि अधिकारवॆन्दु ई मुन्दिन वाक्यवाद इव्वुपयुक्त-ज्ञानमुण्डानाल् ऎम्बुदरिद केळुत्तारॆ. आदरॆ उपायवु गुरुवादरू तनगॆ शक्तियुण्टु ऎन्दु भाविसिदुदादरॆ उपासनक्के अधिकारियागुवनु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3929,8 +5030,40 @@ cuando **está sin** la **habilidad** de **adoptar** ese (upāsana),
 उपासनादिगळिल् तॆळिवै प्रपत्तिक्कु अधिकारमागच्चॊल्ललामो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इव्वुपयुक्तज्ञानमुण्डाऩालिति । इव्वुपयुक्तज्ञानम् - प्रपत्तिक्कु उपयुक्तमाऩ इन्द गुणादिविषयकज्ञानम्, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इव्वुपयुक्त-ज्ञानमुण्डानाल्** - हीगॆ उपासनक्कॆ बेकाद ज्ञानवागलि, अथवा प्रपदनक्कॆ बेकाद शरण्यन कल्याण-गुणगळ ज्ञानवागलि, उण्टादरॆ **उपायान्तरत्तिल्** - बेरॆ उपायवाद उपासनदल्लि, **शक्तियिल्लादपोदु** - अदु गुरूपालवु, तुम्बा कष्टतरवादुदु, आदुदरिन्द तनगॆ शक्तियिल्लदिरुवाग, **अ-किञ्चननागि, प्रपत्तिकु अधिकारियाम्** - तानु प्रपत्तिगॆ अधिकारियु आगुवनु; 
+
+[[P113]]
+
+</details>
+
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ऎन्दरॆ अन्तह ज्ञान-मूलकवागि हागॆ भाविसुवनु. हीगॆ ज्ञान उण्टादुदर मूलक तानु उपासनक्कॆ अ-शक्तनु ऎम्बुदरिन्द अ-किञ्चन्यवु, एर्पट्टु, प्रपत्तिगेने तानु योग्यनॆन्दु भाविसुवनादुदरिन्द इन्तह ज्ञानाधिकारियू सह प्रपदनक्कॆ अधिकारि ऎम्ब भाववु. श्री-यामुन-मुनिगळु अवर स्तोत्र-रत्नदल्लि ई अभिप्रायगळन्ने **"न धर्म-निष्ठो ऽस्मि"** इत्य्-आदिगळिन्द तमगॆ कर्म-योग--ज्ञान-योग--भक्ति-योगगळल्लि अ-शक्ततॆयादुदरिन्द, अ-किञ्चननागियू आनन गतिकनागियू इरुव नानु प्रपदनवन्नु अनुष्ठिसिरुत्तेनॆन्दु हेळि, हीगॆ भर-न्यासवन्नू अ-ज्ञानदिन्द तावु अनुष्ठिसलिल्लवॆन्दू **"प्रबुद्ध-धी"**यागिये ऎन्दु हेळिकॊळ्ळुत्तारॆ. 
+
+हीगॆ अल्प-ज्ञानवुळ्ळवनू उपायान्तर-ज्ञानविल्लदवनादुदरिन्द प्रपदनक्कॆ अधिकारि ऎन्दू, विशय-ज्ञानवुळ्ळवनू उपायान्तरक्कॆ तनगॆ शक्तियिल्लवॆम्ब आकिञ्चन्यवुण्टागुवुदर मूलक प्रपदनक्कॆ अधिकारि ऎन्दू, ई प्रमाणगळु बोधिसिदवॆन्दू प्रथम-द्वितीय-वादार्थगळन्नु तिळिसिदरु. मुन्दॆ **"इदन् तितीर्षताम् पारम्"** मत्तु **"स्व-भक्तेर् भूम्ना वा"** ऎम्बुदर अर्थवन्नु बोधिसुत्तारॆ. उपायान्तरवाद उपासनदल्लि शक्ति इरुवरू अधिकारिगळागबहुदो ऎन्दरॆ ऎरडु सन्दर्भदल्लि अधिकारवुण्टु ऎन्दु मुन्दॆ हेळल्पडुत्तदॆ - (१) शक्ति इद्दरू विळम्बवन्नु सहिसदॆ ई देहावसानदल्लि मोक्ष बेकॆन्दिरुववनु मत्तु (२) आतनन्नु सेरि इरदॆ आगुवदे इल्लवॆन्दु आर्तनागिरुववनू सह अधिकारिगळे ऎन्दु मुन्दॆ हेळल्पडुत्तदॆ. हीगॆ भक्ति-योग मॊदलादवुगळ ज्ञानाधिकारियु (१)अ-शक्तनागिद्दरागलि (२) विळम्बवन्नु सहिसदे इद्दरागलि प्रपत्तियल्ले अधिकारवॆन्दु हेळुव सन्दर्भदल्लि कॆलवरु मुन्दिन वादवन्नु तरबहुदु - एनॆन्दरॆ ? उपासनदल्लि ऒन्दु वेळॆ शक्तियिद्दरू, ई चेतननु भगवत्-पारतन्त्र्यनु, भगवन्तनादरो परिबृढनु, सर्व-शक्तनु; शेषराद नावु अन्तह शेषियन्नु नम्बि बिट्टु नावु निश्चिन्तॆयिन्द इरुवदु उचितवल्लवो ? हागल्लदॆ तनगॆ शक्तियिदॆ, उपासनॆयन्नु माडुत्तेनॆम्बुदु अहङ्कार-गर्भितवागि तन्न स्व-रूपक्कॆ हानियु, आदुदरिन्द स्वामियन्नु नम्बि बिडुवदु उचितवल्लवो ? सीतॆगॆ यद्य् अपि रावणनन्नु भस्म माडुव शक्तियित्तु. हागॆये आकॆयु रावणनन्नु कुरितु हेळुत्ताळॆ 
+
+> अ-सन्देशात् तु रामस्य तपसश् चानुपालनात् ।  
+ना त्वां कुर्मि दश-ग्रीव भस्म भस्मार्ह तेजसा ॥ 
+
+[[P114]]
+
+ओ दश-ग्रीवने ई क्षणदल्लि नन्न पातिव्रत्य-रूप-तेजस्सिन बलदिन्द भस्ममाडलु योग्यनाद निन्नन्नु दहिसि भस्म माडुव शक्तियु ननगुण्टु, आदरू निन्नन्नु भस्ममाडलु नन्न पतियाद श्री-राम-चन्द्र-प्रभुविन आज्ञॆयु ननगिल्लवु. एकॆन्दरॆ निन्नॊब्बनन्नु मार्त भस्म माडुवदक्कागि नानु बन्दिल्लवु, ई लोकवन्नु अ-राक्षसवागि माडबेकॆम्बुदु नन्न पतिय सङ्कल्पवु, आदुदरिन्द पतिय आज्ञॆयिल्लवु. आदू अल्लदॆ मुन्दॆ नन्न पातिव्रत्य-तेजो-बलदिन्द **"शीतो भव हनूमतः"** ऎन्दु अग्नियन्नु प्रार्थिसुवदक्कू, मत्तु नाने अग्नि-प्रवेश माडिदाग ननगू सह शीतलवागिरुव हागॆ इरुवदक्कू, नन्न तपस्सन्नु खर्चुमाडदॆ अनुपालन माडिकॊळ्ळबेकागिरुवदरिन्द निन्नन्नु दहिसुवदिल्लवु ऎन्दु श्री-रामनिगॆ **"शरैस् तु सङ्कलां कृत्वा"** ऎन्दु हेळि कळुहिसिद हागॆ परमात्मनन्नु नम्बिबिडुवदे, ई शेष-भूतनिगॆ उचितवादुदल्लवे ? ऎम्बुदु पूर्व-पक्षवु. इदन्ने उपपादिसि हेळि ई अभिप्रायवन्ने खण्डिसुत्तारॆ:-
+
+</details>
 
 ### शक्तिमत्त्वे प्रयासौचित्यम्
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**शरण्यन कल्याण-गुण-ज्ञानदिन्द नम्म प्रवृत्ति-नैरपेक्ष्यवे युक्तवॆम्ब वादद खण्डनवु.**
+
+ऒन्दु वेळॆ उपासनदिगळिगॆ बेकाद ज्ञानवू शक्तियू इद्दरू कर्म-योग--ज्ञान-योग--भक्ति-योगगळ मूलकवागि मोक्षवन्नु साधिसिकॊळ्ळुत्तेनॆम्बुदु अहङ्कार-गर्भितवागि मुमुक्षुविन स्व-रूपक्कॆ विरुद्धवाद प्रवृत्तियल्लवो ? अन्तह ज्ञानियू शक्तनागिद्दरू प्रपदनक्कॆ अधिकारियु ऎन्दु हेळुवरु. इदर समर्थनॆगागि सीता-प्रवृत्तियन्नु उदाहरिसुवरु. हीगॆ पूर्व-पक्षवन्नु उपपादिसि खण्डिसुत्तारॆ. 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > शक्तिय् उण्डेय् आगिलुम् 
@@ -4011,6 +5144,16 @@ La **respuesta** a esto **es** que
 उपायान्तरत्तिल् शक्तियिरुन्दालुम् परतन्त्रऩाऩ जीवऩुक्कु उपायान्तरानुष्ठानम् कूडुमो ऎऩ्ऱु आक्षेपित्तु उत्तरमरुळिच्चॆय्गिऱार् शक्तियुण्डेयागिलुमिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**शक्तियुण्डेयागिलुम्** - शक्तियिद्दरू कूड, इदरल्ले भक्ति-योगादिगळ ज्ञानवू सेरितु; हीगॆ उपासनक्कॆ शक्ति इद्दरू कूड, **शरैस् तु** - बाणगळ मूलकवागि, **लङ्कां** - लङ्का-पट्टणवन्नु, **सङ्कुलां कृत्वा** -  व्याकुलितवादुदन्नागिमाडि, **पर-बलार्दनः** - शत्रु-बलवन्नु निर्मूल माडुव, **काकुत्स्थः** - ककुस्थ-वंशोत्पन्ननाद श्री-रामनु, **मां नयेद् यदि** - नन्नन्नु ई बन्धदिन्द बिडिसि करॆदुक्कॊण्डु होदरे, **तत्** - आ पराक्रमवन्नु व्यक्तगॊळिसुव आ प्रवृत्तियु, **तस्य** - आ धीरोदात्तनाद प्रभुविगॆ, **सदृशं भवेत्** - योग्यवादुदागुवदु, - (रा. सुन्दर ३९-३०) 
+
+[[P115]]
+
+ऎन्दु सीतॆयु आञ्जनेयनिगॆ हेळि तन्न पतिगॆ हीगीग तिळिसतक्कद्दु ऎन्दु हेळुव प्रकरणवु. मेलॆ हेळिरुव हागॆ सीतॆगे रावणनन्नु भस्म माडुव शक्तियु इद्दरू, शेष-भूतळाद तनगॆ अदु हेगॆ योग्यवल्लवॆन्दु तिळिदु **"न त्वां कुर्मि भस्म"** ऎन्दु हेळि प्रवृत्तियिन्द निवृत्तळादळो हागॆये मुमुक्षुवू, तनगॆ उपासनक्कॆ शक्तियिद्दरू, अदन्नु अवलम्बिसदॆ शेषियाद सर्व-शक्तनन्ने नम्बिबिडुवदु ईतन शेष-रूप--स्व-रूपक्कॆ उचितवल्लवो ? ऎम्बुदु पूर्व-पक्षवु. इदन्ने मुन्दॆ उपपादिसुत्तारॆ - **ऎङ्गिरपडिये** - ऎन्दु सीता-वृत्तान्तदल्लि तोरिबरुव, **रक्षकन् कै पार्त्तु** - सर्व-शक्तनागि रक्षणॆगॆ उपयुक्त-गुणगळन्नु हॊन्दि रक्षिसबेकॆम्ब सङ्कल्पदिन्दिरुववन अर्हतॆयन्नु विमर्शिसि नोडि, **तान् कैवाङ्गिरुक्कै** - स्व-प्रवृत्तियन्नु माडदिरोणवु, **अन्रो उचितमॆन्रिल्** - अल्लवो योग्य वादुदु ऎन्दरॆ, 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4046,6 +5189,34 @@ La **respuesta** a esto **es** que
 इदु प्रपन्नऩुडैय उत्तरकृत्यविशेषत्तिऱ्कुदाहरणमामिति । समर्पितभरऩाऩ प्रपन्नऩ् प्रपत्त्युत्तरकालम् उपायान्तर शक्तऩायिरुन्दालुम् ऒरुविद प्रयत्नमिऩ्ऱिक्के इरुक्कवेण्डुमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इदु प्रपन्ननुडैय उत्तर-कृत्य-विशेषत्तुक्कु** - इदु प्रपन्ननु उपायानुष्ठानवन्नु माडिद नन्तर उत्तर-कृत्य-विशेषक्कॆ, **उदाहरणमाम्** - उदाहरणवागबहुदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+उपायवन्नु अनुष्ठिसि बिट्टनन्तर कृत-कृत्यनादनु. अन्तह कृत-कृत्यनीग मोक्षक्कागि इन्नेनन्नू माडतक्कद्दिल्लवु; शरण्यन अनुग्रहवन्नु नीरीक्षिसुत्ता **"मृत्युं प्रियम् इवातिथम्"** ऎन्दु ऎदरु नोडुत्ता इरबहुदु. अन्तह कृत-कृत्यनिगू कूड हन्नॊन्दु विध इति-कर्तव्यतॆगळुण्टॆन्दु उत्तर-कृत्याधिकारदल्लि उपदेशिसिरुत्तारॆ. **रक्षकन् कैपार्त्तु तान् कैवाङ्गि इरुक्क** अवस्थॆयु यावाग ऎन्दरॆ उपायानुष्ठान माडि कृत-कृत्यनाद नन्तरवीग, उपाय-विषयदल्लि इन्नु यावुदू बेकिल्लवादुदरिन्द तट-स्थनागिरबहुदु, उपायानुष्ठान-विषयदल्लि तट-स्थनागिरबहुदो ? ऎम्बुदु तात्पर्यवु. ई भाववन्नु पूर्व-पक्षिगळु उदाहरिसिद सीता-प्रवृत्तियल्लू काणबहुदु. हेगॆन्दरॆ सीतॆय तन्दॆयाद जनक-महा-राजनु यावाग विवाह-कलापदल्लि 
+
+> इयं सीता मम सुता सह-धर्म-चरी तव ।  
+प्रतीक्ष चैनाम् भद्रं ते पाणिङ् गृह्णीष्व पाणिना ॥ 
+
+[[P116]]
+
+ऎम्बल्लि हेळिरुव हागॆ, महा-गुरुविन स्थानदल्लिरुव जनकनु तन्न शिष्य-स्थानीयळाद सीता-विषयदल्लि रक्षणॆय भरवन्नु पाणि-ग्रहण-रूपवाद प्रपदन-कालदल्लि समर्पिसि बिट्टरो, आनन्तर शिष्यळाद सीतॆय उत्तर-कृत्यवु न्यायवागि 
+
+> शरैस् तु सङ्कुलां कृत्वा लङ्कां पर-बलार्दनः 
+
+ऎन्दु हेळि तट-स्थळागिद्दु बिट्टळु. आदुदरिन्द आकॆय प्रवृत्ति-निवृत्तियु तुम्ब साधुवादुदे ऎम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवातारिका</summary>
+
+हीगॆ स्व-प्रवृत्तियु निन्द्यवॆन्दु भाविसि, स्व-प्रवृत्ति-निवृत्तिये ज्ञानिगॆ उचितवादुदॆन्दरॆ, उपायगळन्नु अनुष्ठिसबेकॆन्दु विधिसुव शास्त्रगळु आग निरर्थकगळागुवुवॆन्दु तिळिसुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4084,6 +5255,31 @@ todos los Śāstras que **imponen** la **adopción** de upāyas
 शक्तऩ् कैवाङ्गि यिरुक्कवेण्डुमॆऩ्ऱाल् बाधकमरुळिच्चॆय्गिऱार् अल्लादबोदु इति । उपायविधायकशास्त्रङ्गळ् निरर्थकङ्गळामिति । भक्तिपोले प्रपत्तियुम् स्वरक्षणार्थस्वव्यापारमागैयाल् परतन्त्रऩाऩ इवऩुक्कु अननुष्ठेयमाय् मुडिगैयाले ‘‘ओमित्यात्मानं ध्यायथ’’ ऎऩ्गिऱ उपासनविधायकशास्त्रम्बोल् ‘‘मामेकं शरणं व्रज’’ ऎऩ्गिऱ प्रपत्तिविधायकशास्त्रमुम् अधिकारिदौर्लभ्यत्ताले निरर्थकमामॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अल्लाद पोदु** - हीगॆ भाविसदे होदरॆ, तट-स्थनागिरुवदु उपायानुष्ठान माडिद नन्तरवॆन्दु भाविसिदॆ, उपायानुष्ठान-दॆशॆयल्ले ऎन्दु भाविसिदुदादरॆ, **उपाय-विधायक-शास्त्रङ्गळ्** - उपायवन्नु विधिसुव शास्त्रगळु, **निरर्थकङ्गळाम्** - उपयोगविल्लदवुगळागुववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+सर्वेश्वरने तानागिये नमगॆ सर्व-श्रेयस्सन्नुण्टुमाडुवनु; नावेनु माडतक्कदिल्लवॆन्दागुत्तदॆ. आग अनेक-शास्त्रगळॆल्ला विरुद्धवादुवागुत्तवॆम्ब तात्पर्यवु 
+
+> भक्त्या परमया वापि प्रपत्त्या वा महा-मुने ।  
+प्राप्यो ऽहं नान्यथा प्राप्तो मम कैङ्कर्य-लिप्सुभिः ॥
+
+ऎम्ब **उपासीत, ध्यायिथ शरणं व्रज** 
+
+> ओम् इत्य् आत्मानं युञ्जीत 
+
+इत्य्-आदि-शास्त्रगळिगॆ वैयर्थ्य उण्टागुत्तदॆम्ब भाववु. 
+आगलि, प्रपदनानुष्ठानवन्नु निम्मल्लू तुम्बा ज्ञान-निष्ठरागियू उपासनक्कॆ शक्तिवन्तरागियू इरुववरु अनुष्ठिसुत्तारल्ला, अदु हेगॆ ? अदु हेगॆ उचितवाद मार्गवु ? ऎन्दु पूर्व-पक्षियु आक्षेपिसबहुदु हागॆ ज्ञान-निष्ठनागिद्दरू, विळम्बवन्नु सहिसदे, आर्तनागि ऒडनॆयेयागलि, अथवा दृप्तनागि ई जन्मद देहावसानदल्ले आगलि मोक्षवन्नु अपेक्षिसुव ज्ञान-शक्तिगळिरुववनिगू कूड प्रपदनदल्ले अधिकारवॆन्दु तिळिसुत्तारॆ - हागॆ समाधानवन्नु हेळुव सन्दर्भदल्लि **इदं तितीर्षतां पारं** मत्तु **स्व-भक्त्या भूम्ना वा जगति गतिम् अन्याम् अ-विदुषाम्**
+
+ऎम्बुवुगळ तात्पर्यवन्नु तिळिसुत्तारॆ -
+
+[[P117]]
+
+</details>
 
 ### विलम्बाक्षमता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4139,6 +5335,23 @@ si **piensa** que sólo prapatti **aseguraría** su objetivo (es decir, el **log
 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**उपायान्तरत्तिल्** - बेरॆ उपायवाद भक्ति-योगदल्लि ऎन्दरॆ उपासनदल्लि, **तनक्कु ज्ञानमुण्डाय्** - तनगॆ पूर्ण-ज्ञानवू उण्टागि, **अदिल्** - अदरल्लि, **अनुष्ठान-शक्तियुण्डानालुम्** - अनुष्ठिसुव शक्तियन्नु हॊन्दिद्दरू, **विळम्ब-क्षमनन्रिक्के** - मोक्ष-प्राप्तियल्लि विळम्बवन्नु सहिसिदवनागि, **इरुक्कुमागिल्** - इद्द पक्षदल्लि, **कडुग फलं तरवल्ल** - शीघ्रवागि फलवन्नु हॊन्दिसतक्क शक्तियुळ्ळ प्रपत्तिये, **नमक्कु उचितै ऎन्रिरुक्कुमवनुम्** - नमगॆ योग्यवादुदु ऎन्दु भाविसिरुववनू, **प्रपत्तिक्कु अधिकारियाम्** - प्रपदनक्कॆ अधिकारियागुवनु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+उपासनानुष्ठानवन्नु माडुवदक्कॆ बेकाद ज्ञान मत्तु शक्ति ऎरडू इद्दरू, मोक्ष-प्राप्तियल्लि विळम्बवन्नु सहिसदॆ इद्दरॆ, ऎन्दरॆ ई देहावसानानन्तरवे मोक्षवागबेकॆम्ब त्वरॆयुळ्ळवनादरॆ, प्रपदनदल्ले अधिकारवॆन्दु हेळुल्पट्टितु. हीगॆ हेळिदरॆ ज्ञान-शक्तिगळिद्दु विळम्बवन्नु सहिसुवनादरॆ भक्ति-योगदल्ले अधिकार उण्टागुवदरिन्द उपासनवन्नु बोधिसुव ब्रह्म-विद्यॆयु निरर्थकवागुवदिल्लवॆम्ब भाववु. अन्तवर मूलक उपाय-विधायक-शास्त्रगळु निरर्थकगळागुवदिल्लवॆन्दु हेळिदन्तायितु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+ई अभिप्रायवे मेलॆ उदाहरिसिद लक्ष्मी-तन्त्र--श्री-पराशर-भट्टरवर श्लोकगळल्लि ऎल्लि उपपादितवॆन्दरॆ मुन्दॆ तिळिसुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4173,6 +5386,12 @@ si él **no puede tolerar** la demora)
 <details><summary>मूलम्</summary>
 
 इत्तै ‘‘इदन्तितीर्षतां पारम्’’ इत्यादिगळिले सॊल्लुगिऱदु। 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**इत्तै** - ई अभिप्रायवे, ज्ञान-शक्तिगळिद्दरू, विळम्बवन्नु सहिसदिरुववनिगॆ प्रपदनदल्लि अधिकारवॆम्बुदु **"इदं तितीर्षतां पारम्" इत्य्-आदिगळिले** - इवे मॊदलादुवुगळल्लि **शॊल्लुगिरदु** - हेळल्पट्टिरुत्तदॆ. 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4230,6 +5449,19 @@ porque "los que **quieren cruzar**", aquí, **significa**
 संसारतरणेच्छै ऎल्ला अधिकारिकळुक्कुम् सममायिरुक्कैयाल् इदु अधिकारिविशेषद्योतकमागुमो वॆऩ्ऩ भावमरुळिच्चॆय्गिऱार् तितीर्षतां पारम् ऎऩ्ऱदु कडुग अनिष्टनिवृत्ति पिऱक्कवेणुमॆऩ्ऩुम् त्वरै युडैयार्क् कॆऩ्ऱबडि इति । इदऩाल् संसारतरणेच्छै ऎल्ला अधिकारिकळुक्कुम् तुल्यमाऩालुम् तरणत्वरै इङ्गु विवक्षितमागैयाल् अधिकारिविशेषम् सिद्धमॆऩ्ऱु सूचितम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ऎङ्गने ऎन्निल्** - अदु हेगॆ ऎन्दरॆ, **तितीर्षतां पारम् ऎन्रुदु** - ऎन्दु हेळिरुवदु, **कडुग अनिष्ट-निवृत्ति पिरिक्कवेणुमॆन्नुम्** - शीघ्रदल्लि अनिष्ट-निवृत्ति ऎन्दरॆ संसार-बन्ध-निवृत्तियुण्टागबेकॆम्बुदागि, **त्वरैयुडैयारॆन्रपडि** - त्वरॆयुळ्ळवरिगू कूड ई प्रपदनवे उपायवॆन्दु हेळीद हागॆ 
+
+[[P118]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मुन्दॆ **इदम् आनन्त्यम् इच्छताम्** ऎम्बुदर तात्पर्यवन्नु व्यक्तपडिसुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4273,7 +5505,6 @@ Aquí también el **significado es**
 </details>
 
 
-
 <details><summary>मूलम्</summary>
 
 ‘‘आनन्त्यमिच्छताम्’’ ऎऩ्ऱदु स्वरूपप्राप्तपरिपूर्ण भगवदनुभवत्तैप्पॆऱ्ऱल्लदु धरिक्कमाट्टादार्क्कॆऩ्ऱबडि।
@@ -4284,6 +5515,29 @@ Aquí también el **significado es**
 इप्पडिअनिष्टनिवृत्तियिल् त्वरैयुडैयवऩुक्कुप्पोल् इष्टप्राप्तियिल् प्रेमातिशयमुळ्ळवऩुक्कुम् प्रपत्तियिल् अधिकारमुण्डॆऩ्गिऱदु ‘‘इदमानन्त्यमिच्छताम्’’ ऎऩ्गिऱ वाक्यमॆऩ्गिऱार् ‘‘आनन्त्यमिच्छताम्’’ ऎऩ्ऱदु इत्यादियाल्। पॆऱ्ऱल्लदु धरिक्कमाट्टादार्क्कु ऎऩ्बदाल् इङ्गुम् प्रेमातिशयप्रयुक्तत्वरातिशयम् विवक्षितमॆऩ्ऱु सूचितम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आनन्त्यम् इच्छताम् ऎन्रदु** - आनन्त्यवन्नु अपेक्षिसुववरिगॆ ऎन्दु हेळिदुदु, **स्व-रूप-प्राप्त--परिपूर्ण-भगवद्-अनुभवत्तै** - प्रपन्नन स्व-रूपक्कॆ उचितवाद परिपूर्ण-ब्रह्मानुभव-रूप-मोक्षवन्नु, **पॆऱ्ऱल्लदु** - हॊन्ददे इद्दुदादरॆ, **धरिक्कमाट्टादारक्कॆन्रपडि** - जीववे उळियुवदिल्लवॆन्दु भाविसुववरिगू सह, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+**इदं शरणं** - ई प्रपदनवे उपायवु ऎन्दरॆ आन्तवरिगू प्रपदनदल्लि अधिकारवु; ऎन्दरॆ परिपूर्ण-ब्रह्मानुभववु क्षिप्रदल्ले उण्टागबेकॆम्ब उत्कटेच्छॆयुळ्ळवरिगू कूड प्रपदनदल्ले अधिकारवॆम्ब तात्पर्यवु. इन्तह अधिकारिगॆ दृष्टान्तवु भरताळ्वार्रवर प्रवृत्तियल्लि काणबहुदु. 
+
+> इह मे स्तण्डिले शीघ्रं कुशान् आस्तर सारथे
+
+ऎन्दु श्री-भरतरु तन्न सारथिगॆ आज्ञापिसिदाग ऎन्तह उत्कटेच्छॆयुण्टायितो अन्तह अवस्थॆयु मत्तु श्री-नम्माळ्वार्रवरिगॆ **मुनिये नान्मुगने** ऎन्दु कूगि १० पाशुरगळन्नु हेळुवाग उण्टाद उत्कटेच्छॆयु इल्लि निदर्शनवु. कॆलवु गोप-कन्निकॆयर वृत्तान्तवू इदक्कॆ निदर्शनवु. 
+
+> चिन्तयन्ती जगत्-सूतिं पर-ब्रह्म--स्व-रूपिणं निर्-उछ्वासतया मुक्तिं गतान्या गोप-कन्यका
+
+जगत्-कारणनाद पर-ब्रह्म--स्व-रूपनाद श्री-कृष्ण-भगवान्रवरन्ने ध्यानिसुववळागि श्वास-निरोधवन्नु माडि इन्नॊब्ब गोप-कन्निकॆयु मुक्तियन्नु हॊन्दिदळॆन्दु हेळल्पट्टिरुत्तदॆ. इवुगळॆल्ला उत्कटेच्छॆगॆ निदर्शनगळु. इवुगळिगॆ सरियाद उक्तिगळु पराशर-भट्टर श्री-सूक्तियल्लि यावुदु ऎन्दरॆ, ई ऎरडु अभिप्रायगळन्नू ऒट्टु कूडिसि 
+
+> स्व-भक्तेर् भूम्ना वा गतिम् अन्याम् अ-विदुषाम् 
+
+ऎम्बल्लि हेळल्पट्टितॆन्दु अप्पणॆ कॊडिसुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4321,6 +5575,19 @@ Aquí también el **significado es**
 इन्द इरण्डु अधिकारत्तैयुम् ऒऩ्ऱाक्कि ‘‘स्वभक्तेर्भूम्ना वा’’ ऎऩ्ऱरुळिच्चॆय्दारॆऩ्गिऱार् इवैयिरण्डैयुम् निऩैत्तु इति । प्रेमभक्ति, अतिशयित्ताल् कडुग प्रतिबन्धकम् कऴियवेण्डुमॆऩ्ऱुम्, कडुग भगवदनुभवम् पॆऱवेण्डुमॆऩ्ऱुम् त्वरै युण्डागुमागैयाल् भक्तिभूमावाले तितीर्षताम् आनन्त्यमिच्छताम् ऎऩ्गिऱ इरण्डु अधिकारत्तैयुम् सङ्ग्रहिक्कलामॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इवै इरण्डैयुम् निनैत्तु** - हीगॆ **"इदं तितीर्षतां पारम्"** ऎन्दु मत्तु **"इदम् आनन्त्यम् इच्छताम्"** ऎन्दू हेळल्पट्ट ऎरडु विध अधिकारवन्नू ज्ञापकदल्लिट्टु **"स्व-भक्तेर् भूम्ना वा" ऎङ्गिरार्** ऎन्दु श्री-पराशर-भट्टरु हेळिरुत्तारॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+आ ऎरडर अभिप्रायवू ई **"स्व-भक्तेर् भूम्ना वा"** ऎम्बल्लि अडगिवॆ ऎम्ब भाववु. अदु हेगॆ ऎम्बुदन्नु अवरे उपपादिसि तिळिसुत्तारॆ- **"स्व-भक्तेर् भूम्ना वा** ऎम्बल्लिरुव भक्ति-शब्दवु भक्ति-योगवॆम्बर्थदल्लि प्रयोगिसल्पडलिल्लवॆन्दू, परमात्मनल्लिरुव निरतिशय-प्रीत्य्-अतिशयवन्नु बोधिसुत्तदॆन्दू तिळिसि, इन्तह प्रीत्य्-अतिशवु, विळम्बवन्नु सहिसदिद्दरू, अथवा प्राप्य-प्राप्तियल्लि उत्कटेच्छॆयुण्टादरू, लभिसुत्तदॆन्दु उपपादिसुत्तारॆ. अन्तह प्रीत्य्-अतिशयवन्नु हॊन्दिदवरू अधिकारिगळॆन्दु उपदेशिसुत्तारॆ - 
+
+[[P119]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4334,7 +5601,6 @@ Aquí también el **significado es**
 प्रेम-पारवश्यम् उच्यते ;  
 न तु भक्ति-योगः । 
 </details>
-
 
 
 <details><summary>English</summary>
@@ -4361,6 +5627,17 @@ sino 'intensidad del amor (del Señor)'.
 अल्लदु भक्तियोगत्तैच् चॊऩ्ऩबडि यऩ्ऱु इति । भक्तियोगत्तै इङ्गु अधिकारमागच् चॊऩ्ऩालऩ्ऱो प्रपत्तिक्कु अकिञ्चनाधिकारत्वम् सॊल्लुगिऱ प्रमाण विरोधम् वरुमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इङ्गु** - इल्लि ऎन्दरॆ **स्व-भक्तेर् भूम्ना वा** ऎम्बल्लि **भक्तियॆन्नदु** - भक्ति ऎन्दु हेळिरुवदु, **प्रेम-पारवश्यत्तै** - प्रीत्य्-अतिशयदिन्द पर-वशवागिरुव. अवस्थॆयन्नु, **चॊन्नपडि** - हेळिद हागॆ अर्थवॆन्दु भाविसतक्कद्दु. **अल्लदु** - हागल्लदॆ, **भक्ति-योगत्तै** - भक्ति-योगवन्नु, **चॊन्नपडियन्रु** - हेळितु ऎम्ब अर्थवल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+इन्तह प्रेम-पारवश्यद भूमा ऎन्दरेनॆम्बुदन्नु मुन्दिन वाक्यवाद **"इब्भक्तियनुडैय"** ऎम्बुदरिन्द तिळिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4402,6 +5679,25 @@ si él **no pudiera tener** un **logro** rápido.
 इन्द प्रेमभक्तिक्कु भूमा ऎदु ऎऩ्ऩ वरुळिच्चॆय्गिऱार् कडुग प्राप्ति किडैयादबोदऴियुम्बडियाऩ अवस्थाविशेषमिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इब्भक्तियिनुडैय** - इन्तह प्रीति-पारवश्यावस्थॆय, **भूमावागिरधु** - भूमा ऎम्बुदु, **कडुग प्राप्ति किडियादपोदु** - श्रीघ्रदल्लि प्राप्य-प्राप्तियुण्टागदे इद्दरॆ, **अळियुम्पडि** - जीवधारणॆगॆ शक्तिये इल्लदॆ देहनाशवन्नुण्टु माडुव अवस्था-विशेषवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ऒब्ब कामुकळन्नु शीघ्र हॊन्दबेकॆम्ब प्रीत्य्-अतिशयवन्नु हॊन्दिरुव कामुकनु, आकॆय प्राप्ति इल्लदुदरिन्द हेगॆ नशिसि होगि प्राणवन्नु बिडुवनो, अदर हागॆ ई प्रीत्य्-अतिशयविरुवनू सह; अन्तह प्रीत्य्-अतिशयवे भक्तिय **भूमा**वॆन्दु करॆयल्पडुत्तदॆम्ब भाववु. भगवन्तनल्लि इन्तह निरतिशय-प्रीत्य्-अतिरेकवु कॆलवरिगॆ हिन्दिन सु-कृत-विशेषदिन्द लभिसुत्तदॆ. अन्तवरु परमात्मनन्नगलि तुम्बा कालविरलारद दॆशॆयल्लिरुववरु. इन्तह अवस्थॆये विष्णु-पुराणदल्लि 
+
+> या प्रीतिर् अ-विवेकानां विषयेष्व् अनपायिनी ।  
+त्वाम् अनुस्मरतस् सा मे हृदयान् नापसर्पतु ॥ (वि.पु.) 
+
+[[P120]]
+
+विषय-लम्पटराद अ-विवेकिगळिगॆ इष्टवाद विषयदल्लि एकान्तवाद प्रीत्य्-अतिशयवु हेगिरुत्तदो, अन्तह प्रीत्य्-अतिशयवु भगवन्तनाद निन्न विषयदल्लि नन्न हृदयवन्नगलदे इरलि. इदु प्रह्लाद-वाक्यवु. इदे स्वारस्यवाद अर्थवु. इन्नॊन्दु अर्थवु. **हे माप** - ओ लक्ष्मी-पतिये इन्तह अ-विवेकिगळ प्रीतियु नन्न हृदयवन्नु बिट्टु, **सर्पतु** - हॊरटु होगलि ऎम्बुदु. इदु अष्टु स्वारस्यवादुदल्लवु. इन्तह प्रीत्य्-अतिशय-विशेषवन्ने प्रह्लादरु अपेक्षिसुत्तारॆ. 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4440,6 +5736,12 @@ por la gracia de Bhagavān debido a actos rectos (en nacimientos anteriores).
 इदु भक्तियोगनिष्ठऩुक्कु मेलेवरक्कूडिय अवस्थैपोल् तोऩ्ऱुगिऱदे; इदु अकिञ्चनऩुक्कुम् सम्भविक्कुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इदु सिलर्क्कु इत्यादियाल्। सुकृतविशेषमूलमाऩ भगवत्प्रसादत्ताले वरुमिति । इन्द सुकृत विशेषमूलमाऩ भगवत्प्रसादम् केवलाकिञ्चनऩिडत्तिलुम् सम्भविक्कुमागैयाल् तज्जन्यमाऩ इन्द प्रेमातिशयम् भक्त्युत्तरकालमे उण्डागवेण्डुमॆऩ्गिऱ नियममिल्लैयॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इदु शिलर्कु** - इदु कॆलवरिगॆ, **कट्टळैपट्ट भक्ति-योगमिल्लैयागिलुम्** - ब्राह्मणादिगळिगॆन्दु शास्त्रदल्लि विधिसिरुव भक्ति-योग इल्लदिद्दरू, ऎन्दरॆ स्त्री-शूद्रादिगळागिद्दरू, **सु-कृत-विशेष-मूलमान** - हिन्दिन जन्मदल्लि माडिद सु-कृति-विशेषगळिन्द, **भगवत्-प्रसादत्तालॆ** - भगवद्-अनुग्रहदिन्द, **वरुम्** - बरबहुदु. 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् अवस्थैयुडैय् अवऩुम् प्रपत्तिक्क् अधिकारि। 
@@ -4473,6 +5775,64 @@ El hombre que **tiene** este estado mental también **es** competente para prapa
 इव्वधिकारत्तैच् चॊल्लि मुडिक्किऱार् इव्ववस्थैयुडैयवऩुम् प्रपत्तिक्कधिकारि इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इव्वस्थैयुडैयवनुम्** - इन्तह प्रीत्य्-अतिशयवन्नु हॊन्दिरुववनू **अधिकारि** - प्रपदनक्कॆ आर्तनाद अधिकारियु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अदेनॆन्दरॆ, इन्नॊन्दाद उपायवाद उपासनदिन्द आर्तन मनो-रथवन्नु सर्वेश्वरनु पूर्ण माडलु साध्यविल्लदुदरिन्द; अन्तह अधिकारिगॆ प्रपदनवे अधिकारवु ऎम्ब तात्पर्यवु इदक्कॆ दृष्टान्तवागि 
+
+> चिन्तयन्ती जगत्-सूतिं पर-ब्रह्म--स्व-रूपिणम् ।  
+निरुच्छ्वासतया मुक्तिं गतान्या गोप-कन्निका ॥ 
+
+जगत्तिगॆ कारण-भूतनाद पर-ब्रह्म--स्व-रूपियाद श्री-कृष्ण-भगवान्रन्नु प्रीत्य्-अतिशयदिन्द चिन्तिसुत्ता श्वास-निरोध-मूलक निर्याणवन्नु इन्नॊब्ब **गोप**-कन्निकॆयु हॊन्दि मुक्तियन्नु पडॆदळु ऎन्दु हेळल्पट्टिरुत्तदॆ. इन्नॊन्दु निदर्शनवागि शबरी-वृत्तान्तवन्नु हेळबहुदु. शबरियु आर्तळागि श्री-रामाज्ञॆयन्नु प्रार्थिसुवळागि अग्नि-प्रवेशवन्नु माडि मोक्षवन्नु हॊन्दिदळु ऎन्दु हेळल्पट्टिरुत्तदॆ. 
+
+> यत्र ते सु-कृतात्मानो विहरन्ति महर्षयः ।  
+तत् पुण्यं शबरी स्थानं जगामात्म-समाधिना ॥ 
+
+ऎम्बल्लि **आत्म-समाधिना** ऎन्दरॆ पर-ब्रह्मनन्नु चिन्तिसुववळागि ऎम्बर्थवु. मेलिन श्लोकद **चिन्तयन्ती जगत्-सूतिम्** ऎम्बुदर अर्थवु. इदक्कॆ श्री-गोविन्द-राजीय-व्याख्यानदल्लि 
+
+> स्त्रीया अपि विदुरादेर् इव योगाधिकारस् सम्भवति, तद्-अङ्ग--यज्ञादि-कर्म-स्थाने गुरु-शुश्रूषा 
+
+हीगॆ शास्त्र-विरुद्धवागि, विदुरादिगळू स्त्रीयाद शबरियू उपासनवन्नु अनुष्ठिसिदरॆन्दु हेळल्पट्टिरुत्तदॆ. श्री-गोविन्द-राजीयरु इन्तह शास्त्र-विरुद्ध-व्याख्यानवन्नु माडिरुवुदु आश्चर्य-करवादुदु. श्री-कृष्ण-भगवान्रवरे दुर्योधनन सभॆयल्लि ऎळ्ळष्टागलि शास्त्रातिक्रमवन्नु माडुवुदिल्लवॆन्दु शपथ माडिदवरु. इतररु माडिदरॆ अनुग्रहिसुवरे ? स्त्रीत्वदिन्दलू शबरत्वदिन्दलू शबरियु योगक्कॆ ऎन्दरॆ भक्ति-योगक्कॆ अनधिकारियु इवरुगळिगॆल्ला सुलभ-मार्गवाद भागवत-संश्रयणवन्नु उपायवागि बोधिसिदवरु. हीगॆ श्री-कृष्ण-भगवान्रवरे उद्धवरिगॆ उपदेशिसुत्तारॆ - 
+
+[[P121]]
+
+> सत्-सङ्गेन हि दैतेया यातुधानाः खगा मृगाः  
+गन्धर्वाप्सरसो नागास् सिद्ध चारण-गुह्यकाः ।  
+विद्याधरा मनुष्येषु वैश्याश् शूद्रास् स्त्रिया न्त्यजाः ।  
+बहवो मत्-पदम् प्राप्ताः (भाग ११-११)
+
+ऎन्दु हेळिरुवाग अ-शास्त्रीयवाद बहु-कष्ट-साध्यवाद उपासनवु एतक्कॆ ? विदुररु धृत-राष्ट्रनिन्द पर-ब्रह्म-साधन-रूप-योगानुष्ठानवन्नु उपदेशिसॆन्दु प्रार्थिसल्पट्टरू, 
+
+> शूद्र-योनाव् अहम् जातः नातो ऽन्यद् वक्तुम् उत्सहे 
+
+शूद्र-योनियल्लि हुट्टिदवनादुदरिन्द ननगॆ उपदेशिसलु अधिकारविल्लवॆन्दु हेळि, सनत्सुजातरल्लिगॆ करॆदुकॊण्डु होगि धृत-राष्ट्रनिगॆ उपदेशिसुव हागॆ माडिरुत्तारॆ हीगॆ बायल्लू कूड उच्चरिसलु तमगॆ अर्हतॆ इल्लवॆन्दु हेळिदवरु तावे अनुष्ठिसुत्तारॆये ? महा-भारतवन्नॆल्ला बॆळकन्नु हच्चि हुडुकिदरू विशेषाधिकारियागि उपासनॆयन्नु माडिदरॆम्ब उक्तियु सिक्कुवुदिल्ल. महर्षिगळु  धर्मोपदेशक्कागिये बद्ध-कङ्कणरादवरु अ-शास्त्रीयवादुदन्नु उपपादिसिरुवरे ? आदुदरिन्द गोविन्द-राजीय-वाख्यानवु अनुवादेयवादुदु निरतिशय-प्रीतिय परा-काष्ठा-दॆशॆय प्राप्तियु भक्ति-योगदल्ले बरतक्कद्दु. उपासनॆगॆ अधिकारि अल्लदवनिगॆ उण्टागुवदे इल्लवॆन्दु भाविसतक्कद्दल्लवु. हिन्दॆ माडिद सु-कृत-विशेष-मूलकवागियू भगवन्तनल्लि विशेषवाद प्रीत्य्-अतिशयवु दॊरॆयबहुदु. अन्तवनू ई प्रपत्तिगॆ अधिकारियु. अन्तह अवस्था-विशेषवुळ्ळवरन्नु कुरिते  **"इदम् आनन्त्यम् इच्छताम्"** ऎन्दु हेळल्पट्टितॆन्दु तिळिसिरुत्तारॆ. इन्तह सु-कृत-विशेषदिन्द प्रीत्य्-अतिशय-लभिसिदवरिगॆ निदर्शनवागि विदुर, शबरी, गुह, गजेन्द्र, मॊदलादवरन्नु हेळबहुदु. 
+
+इन्तह अ-शास्त्रीय-व्याख्यानदल्लि तोरुव अभिप्रायवन्नु मनस्सिनल्लिट्टु **"धर्म-व्याधादयो ऽप्य् अन्ये"** ऎम्ब विष्णु-धर्म-श्लोकक्कॆ अपार्थवन्नु हेळुत्तारॆ. इवरॆल्ला उपासनॆगॆ अधिकारिगळल्लवु. हेगॆन्दरॆ **"श्रमणी यथा" श्रमणी** ऎन्दरॆ शबरियु; स्त्रीत्व-शबरत्वगळिन्द उपासनक्कॆ हेगॆ अधिकारियल्लवो हागॆ धर्म-व्याध-विदुरादिगळू अल्लवु इवरुगळॆल्ला भागवत-संश्रयणदिन्द मुक्तियन्नु हॊन्दिदवरु. 
+
+[[P122]]
+
+आदरॆ श्री-सार-दीपिकॆयवरु 
+
+> आळ्वार् नाथ-मुनि-प्रभृतिगळिक्कुक्किडैत्तदिरे 
+
+ऎन्दु इवरुगळन्नु निदर्शनवागि हेळिरुत्तारॆ आळ्वार्रवर निदर्शनवु सरिहोयितु. इवरु शूद्रर मध्यदल्लिद्दु सु-कृत-परिपाकदिन्द निरतिशय-प्रीतियु भगवन्तनल्लि उण्टागि शरणागतियन्नु माडि प्राप्यवन्नु हॊन्दबेकॆन्दु आर्तरागि इद्दरु नाथ-मुनि-दृष्टान्त हेगो तिळियलिल्लवु इवरिगू परमात्मनल्लि निरतिशय-प्रीत्य्-अतिरेक-वित्तॆम्बुदरल्लेनू सन्देहविल्लवु आदरॆ इवरु ब्राह्मणरु. भक्ति-योगदल्लि शक्तियिल्लदवरल्लवु. आदुदरिन्द भक्ति-योगवन्ननुष्ठिसि आ योग-बलदिन्द बहु-कालवॆन्दरॆ मुन्नूरु वर्षगळिगू हॆच्चु काल जीविसिद्दरॆम्ब वृत्तान्तवुण्टु आचार्य-परम्परॆयल्लि उपासनवन्नु अनुष्ठिसिदवरल्लि इवरे कॊनॆयवरु ऎन्दु हेळल्पट्टिरुत्तदॆ. इवराद नन्तर उपासनवन्नु अनुष्ठिसिद आचार्यरु यारू इल्लवु यामुन-मुनिगळु, श्री-भाष्य-काररे मॊदलादवरॆल्ला शरणागतियन्ने अनुष्ठिसिदवरु. शक्तरागिद्दरू विळम्बवन्नु सहिसदॆ प्रपदनाधिकारिगळादरु. श्री आळवन्दार्रवरु **"न धर्म-निष्ठो ऽस्मि"** ऎम्ब श्लोकदल्लि तमगॆ भक्ति-योगानुष्ठानक्कू अ-शक्ततॆयन्नु हेळिकॊण्डिरुत्तारॆ तम्म गुरुगळाद यामुन-मुनिगळे शरणागतियन्नु अनुष्ठिसिरुवाग श्री-यति-वर्यरिगू अदे उपादेयवु इल्लि **इदु भगवत्-प्रसादत्तालेवरुम्** ऎन्दु हेळिरुवुदरिन्द नावुग्रहिसतक्क इन्नॊन्दु विशेषवेनॆन्दरॆ, भगवन्तनल्लि उण्टागुव प्रीत्य्-अतिशयवु वृद्धियागि पर-भक्ति, पर-ज्ञान परमा-भक्ति-रूप अवस्थॆगळन्नु हॊन्दुवुदु बरी भक्ति-योगानुष्ठानदिन्दले प्राप्तवागुवन्ताद्दु, अन्यथा उण्टागतक्कद्दल्लवॆन्दु भाविसतक्कद्दल्लवु आदुदरिन्दले इल्लि उपासनॆगॆ शास्त्र-रीत्या अधिकारविल्लदिरुववरिगू कूड **जन्मार्जित-सुकृत-परिपाक**दिन्द उण्टागबहुदॆन्दू, अन्तवरू **प्रपदन**क्कॆ अधिकारिगळॆन्दू हेळल्पट्टितु. इदू अल्लदॆ प्रपदनवन्नु अनुष्ठिसिद नन्तर,  
+
+> पर-भक्ति-पर-ज्ञान-परम-भक्त्य्--ऐक-स्व-भावं मां कुरुष्व 
+
+ऎन्दु प्रार्थिसुत्तारॆ इदरिन्द कॆलवरु अभिप्रायपडुवदेनॆन्दरॆ इल्लि श्री-यति-वर्यरु आचरिसिरुव शरणागतियू, इल्लि प्रार्थिसिरुव 
+
+> पर-भक्ति-पर-ज्ञान-परम-भक्त्य्--ऐक-स्व-भावं मां कुरुष्व 
+
+ऎम्बुदू, उपासन-सिद्धि-प्रार्थनॆ ऎन्दु हेळुवरु. ई श्री-निगमान्तर वाक्यवन्नु मनस्सिगॆ तन्दुकॊण्डरॆ, उपासनक्कॆ अधिकारविल्लदवरिगू कूड सुकृत-विशेषदिन्दलू कृपा-निधिय अनुग्रहदिन्दलू ई अवस्थॆगळु उण्टागबहुदु आदरॆ श्री-यति-वर्यरु अनुष्ठिसिदुदु शरणागतिये विना उपासनवल्लवु ऎम्बुदु स्थापितवु. 
+
+[[P123]]
+
+</details>
 
 ### अधिकारि-सङ्ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4518,6 +5878,14 @@ y que **tienen** un **conocimiento** de lo que **es** prapatti en general
 इऩि कीऴ्च्चॊऩ्ऩ अधिकारङ्गळै शिष्यबुद्धिवैशद्याय मऱुबडियनुवदित्तु मुडिक्किऱार् इप्पडियागैयालित्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**हीगॆ ई ऎरडु श्लोकार्थगळन्नु उपपादिसि निगमनमाडुत्तारॆ**
+
+**इप्पडियागैयाले** - आ श्लोकगळल्लिरुव अभिप्रायवु ईग नावु उपवादिसिद रीतियल्लादुदरिन्द, **उपायान्तरत्तिल्** - भक्ति-योग-विषयदल्लि **(१)अज्ञराय्** - तिळिवळिकॆ इल्लदवरागि, **इव्वुपायत्तिल्** ई प्रपदनदल्लि, **समुदाय-ज्ञान-मात्रमुडैयरायिरुप्पार्क्कुम्** - ऒट्टिनल्लि मोक्ष-प्रापकवॆम्ब ज्ञान-मात्रवन्नु हॊन्दिरुववरिगू, 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4551,6 +5919,11 @@ pero **carecen** de la capacidad de **adoptar** este último;
 इदिलुमुपायान्तरत्तिलुन् तॆळिवुण्डाऩालुमुपायान्तरत्तिलनुष्ठानशक्तियिल्लादार्क्कुम्
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इदिलुम्** - इदरल्लू, मत्तु **(२)उपायान्तरत्तिलुम्** - भक्ति-योगनिष्ठॆयल्लि, **तॆळिवुण्डानालुम्** -  ज्ञान उण्टादरू, **उपायान्तरत्तिल्** - आ भक्ति-योगदल्लि, **अनुष्ठान-शक्तियिल्लादार्कुम्** - अनुष्ठिसुव शक्तियिल्लदवरिगू, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4562,7 +5935,6 @@ pero **carecen** de la capacidad de **adoptar** este último;
 
 एतद् उभय-सत्त्वे ऽपि विलम्बासहत्वातिशयवतां च  
 </details>
-
 
 
 <details><summary>English</summary>
@@ -4581,6 +5953,12 @@ pero **carecen** de la capacidad de **adoptar** este último;
 <details><summary>मूलम्</summary>
 
 इवै यिरण्डुमुण्डाऩालुम् विळम्बम्बॊऱादवार्त्यतिशयमुडैयार्क्कुम्
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**(३)इवैयिरण्डु उण्डानलुम्** - ई अनुष्ठानक्कॆ बेकाद ज्ञान-शक्ति ऎरडू इद्दरू, **विळम्बम्पोराद आर्त्य्-अतिशयमुडैयार्कुम्** - पुनर्जन्मविल्लदॆ मोक्ष-प्राप्तियल्लि विळम्बवन्नु सहिसदिरुव **आर्तय्-अतिशय**वन्नु हॊन्दिरुववरिगू हॆच्चाद आकिञ्चन्यवन्नु हॊन्दिरुववनिगू, 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4608,6 +5986,26 @@ prapatti **puede ser adoptado** por (los anteriores)
 <details><summary>मूलम्</summary>
 
 प्रपत्तियिलेयिऴियलाम्। 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रपत्तियिले** - प्रपदनदल्ले, **इळियलाम्** - प्रवेश उण्टागुत्तदॆ ऎन्दरॆ अधिकार उण्टागुत्तदॆम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हीगॆ ई मूवरू अधिकारिगळॆन्दु हेळल्पट्टितु. १ नॆय अधिकारियु, **"इदं शरणम् अ-ज्ञानाम्** ऎम्बुदरिन्दलू २ नॆय अधिकारियु "इदम् एव विजानताम्" ऎम्बुदरिन्दलू ३ नॆय अधिकारियु 
+
+> इदं तितीर्षतां पारम् इदम् आनन्त्यम् इच्छताम् 
+
+ऎम्बुदरिन्दलू हेळल्पट्टरॆम्ब भाववु. इवु ऎल्ला सन्दर्भदल्लि **"अ-किञ्चनो ऽनन्य-गतिः"** ऎन्दु श्री आळवन्दार्रवरु हेळिकॊण्ड हागॆ, आकिञ्चन्यवे प्रदर्शितवॆन्दु ग्रहिसतक्कद्दु. इदु श्री-पराशर-भट्टर श्लोकदल्लि व्यक्तवागि हेळल्पट्टिरुत्तदॆ. **"गतिम् अन्यां अ-विदुषाम्"** ऎम्ब प्रयोगविरुवदरिन्द **"अ-किञ्चनो ऽनन्य-गतिः"** ऎम्बुदु व्यक्तपडिसल्पट्टितु.
+
+[[P124]]
+
+आदरॆ ऒन्दु पूर्व-पक्षवु उदिसबहुदु; हेगॆन्दरॆ प्रथमाधिकारियल्लि अ-ज्ञानविरुवदरिन्द बेरॆ गतियु आतनिगिल्लदॆ **अ-किञ्चन्य** उण्टॆन्दु हेळबहुदु; द्वितीयाधिकारियल्लि अ-शक्ततॆ इरुवदरिन्द ई उवायवल्लदॆ बेरॆ गतियिल्लवादुदरिन्द आकिञ्चन्यवन्नु ऒप्पबहुदु. ज्ञान-शक्ति ऎरडू इरुव तृतीयाधिकारिगॆ विळम्बवन्नु सहिसद मात्रदिन्द अधिकारि हेगागुवनु ? ऎन्दरॆ अदक्कॆ मुन्दिन वाक्यवाद **"इव्विळम्बाक्षमनुम्"** ऎम्बुदरिन्द समाधानवन्नु हेळुत्तारॆ.
+
 </details>
 
 ### विलम्बाक्षम-कार्पण्यम्
@@ -4652,6 +6050,11 @@ en el momento en que él lo **quiera**
 इप्पडि भक्तियिल् ज्ञानशक्तिकळिरुन्दालुम् विळम्बक्षमऩल्लादबोदु प्रपत्तिक्कधिकारियावाऩॆऩ्ऱाल् अवऩुक्कु उपायान्तरशून्यत्वरूपमाऩ आकिञ्चन्यरूपाधिकारम् घटिक्कुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् इव्विळम्बाक्षमऩुमिति । ताऩ् निऩैत्त कालत्तिले फलम् पॆऱुगैक्कुपायान्तररहितऩिदि । इवऩुक्कु भक्तियिल् ज्ञानमुम् शक्तियुमिरुन्दालुम् इन्द भक्ति इवऩ् निऩैत्तबोदु मोक्षत्तैत् तरक्कूडिय उपायमल्लामैयाले इवऩुम् ताऩ् वेण्डिऩ कालत्तिल् फलत्तैक् कॊडुक्कुम् उपायमऱ्ऱवऩागैयाले इवऩुक्कुम् स्वापेक्षितकालत्तिल् फलत्तैत् तरक्कूडिय उपायशून्यत्वरूपाकिञ्चन्यमुण्डिऱे। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इव्विळम्बाक्षमनुम्** - ई ज्ञान-शक्तिगळॆरडू इद्दू मोक्ष-प्राप्तियल्लि विळम्बवन्नु सहिसदॆ इरुववनू सह, **तान् निन्नॆत्त कालत्तिलॆ** - तानु अपेक्षिसिद कालदल्ले, **फलं पॆरुगैक्कुम्** - मुक्ति-फलवन्नु हॊन्दुवदक्कॆ, **उपायान्तर-रहितन्** - बेरॆ उपायविल्लदिरुववनु, आदुदरिन्दले अ-किञ्चननु, अनन्य-गतिकनॆम्ब भाववु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4697,8 +6100,32 @@ It **is** in **consideration** of this circumstance that (Bhattar) **wrote**:-
 इप्पडि अपेक्षितकालत्तिलुम् फलप्रदानम् पण्णक्कूडिय उपायम् वेऱु इरुप्पदाग तॆरिन्दु कॊळ्ळाद इव्विळम्बाक्षमऩुक्कुम् अवऩे उपायमॆऩ्गिऱदु जगति गतिमित्यादि ऎऩ्गिऱार् इप् प्रकारत्तै निऩैत्तु इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+
+**इ प्रकारत्तै निनैत्तु** - इन्तह अनन्य-गतित्ववन्नु मनस्सिनल्लिट्टु, 
+
+> जगति गतिम् अन्याम् अ-विदुषाम् 
+
+**ऎङ्गिरदु** - जगत्तिनल्लि बेरॆ गतियन्नु तिळियदॆ आकिञ्चन्यवुळ्ळवरु ऎन्दु श्लोकदल्लि हेळिरुवदु. 
+
+</details>
+
 ### उपासना-ग्रहणम्
 #### व्यासादयो न मन्दाः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मुन्दॆ व्यासादि-महर्षिगळु हेगॆ भक्ति-योग-निष्ठॆगॆ अधिकारगळॆम्बुदन्नु तिळिसुत्तारॆ - पूर्व-पक्षिगळु 
+
+> नरस्य बुद्धि-दौर्बल्याद् उपायान्तरम् इष्यते 
+
+ऎम्ब श्लोकवन्नु मनस्सिनल्लिट्टु, ज्ञान-मान्द्य--विश्वास-मान्द्यवुळ्ळवरे अधिकारिगळॆन्दु तम्म ग्रन्थदल्लि हेळिद्दरु. हागल्लवु, व्यासादिगळु उवायान्तर-ज्ञानवुळ्ळवरागि, भजन-सुखवु निरतिशयवागि विपुलवादुदॆन्दु तिळिदवरागि, अदन्नु अनुष्ठिसलु शक्ति मत्तु विश्वासवुळ्ळवरागि, विळम्ब-प्राप्तियन्नु अनुमोदिसुववरागियू इद्दुदरिन्द अवरिगॆ उपासनवे उपादेयवागि, अदरल्लि अधिकार उण्टायितॆन्दु उपदेशिसुत्तारॆ.- 
+
+[[P125]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यासादिगळ् +++(भगवद्-कर्मणि)+++ अधिकारि-पुरुषर्गळ् आगैयाले  
@@ -4742,6 +6169,13 @@ y **eran** también **capaces** de realizar el otro upāya (es decir,) upāsana.
 ऎऩ्गिऱ सूत्रत्तिऩ्बडि अधिकारि पुरुषर्गळाऩ व्यासादिगळ् विळम्बाक्षमरायिरुक्कमुडियादागैयाले प्रपत्त्यधिकारमिल्लैयागैयाल् उपासनत्तिलेये इऴिन्दार्गळॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**व्यासादिगळिगॆ भक्ति-योगदल्लि अधिकारवु ज्ञान-शक्तिगळ मान्द्यदिन्दल्लवु. आर्थित्व-सामर्थ्य--विळम्ब-सहनादिगळ मूलकवागि.**
+
+**व्यासादिगळु** इल्लि **आदि**-शब्ददिन्द श्री-पराशर-विश्वामित्र-वसिष्ठ मॊदलादवरू जनकादिगळू हेळल्पट्टरु, **तधिकारिपुरुष‌र्गळागैयाले** - भक्ति-योगदल्लि अधिकारवुळ्ळवरादुदरिन्द, **विळम्ब-क्षमरुमाय्** - मोक्ष-प्राप्तियल्लि विळम्बवन्नु सहिसुववरागि, **उपायान्तर-शक्तरुमाय्** - भक्ति-योगवन्नु अनुष्ठिसलु बेकाद शक्तियन्नु हॊन्दिदवरागियू, **इरुप्पा‌र्गळागैयाले** - इरुवरादुदरिन्द, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4791,6 +6225,34 @@ antes de **pensar** en **logro**.)
 ऎऩ्ऱॊरु वचनमिल्लैयो? अदऱ्कु ऒरु मनुष्यऩुक्कु उपायान्तरप्रवृत्तियुण्डाऩाल् अदु बुद्धिदौर्बल्यत्ताले वन्ददु ऎऩ्ऱऩ्ऱो अर्थम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**उपासनत्तिल्** - उपासनदल्लि, **इळिन्दा‌र्गळ्** - प्रवेशवन्नु हॊन्दिदरु. **अल्लदॆ** - हागल्लदॆ, **ज्ञान-मान्द्यमादल्** - कॆलवरु तम्म ग्रन्थदल्लि बरॆदिरुव हागॆ, ज्ञानद दौर्बल्यवागलि, **विश्वास-मान्द्यमादल्** - विश्वासद दौर्बल्यवागलि, **उण्डाय्** - प्राप्तवागि **इळिन्दार्गळन्रु** - प्रवेश उण्टायितु ऎम्बुदल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+कॆलवरु हेळिरुवदेनॆन्दरॆ - **प्रापकान्तरम् अ-ज्ञ‌र्क्कुपायम्"** अ-ज्ञरिगॆ बेरॆ उपायवाद उपासनॆयु, हीगॆ अवर अभिप्रायवु; एतरिन्द ऎन्दरॆ 
+
+> नरस्य बुद्धि दौर्बल्याद् उपायन्तरम् इष्यते 
+
+ऎम्ब वाक्यवन्ननुसरिसि, अदरर्थवन्नु सरियागि ग्रहिसदॆ, हागॆ हेळुत्तारॆम्ब भाववु. प्रपदनदल्लि अधिकारिगळु मूरु विधवॆन्दु हिन्दॆ हेळल्पट्टितु. (१) भक्ति-योगद ज्ञानविल्लदवरु (२) ज्ञानविद्दरू अदक्कॆ अ-शक्तरु (३) ज्ञान-शक्तिगळिद्दरू विळम्बवन्नु सहिसदवरु. हीगॆ ई मूरु पङ्गडक्कू व्यासादिगळु सेरिदवरल्लवु - अवरिगॆ भक्ति-योगद ज्ञानवु सम्पूर्णवागि उण्टु, अदर विषयवागि भगवद्-गीतॆ भागवतादिगळल्लू ब्रह्म-सूत्रगळल्लू विस्तरिसि हेळिरुत्तारॆ. (२) अवरिगॆ याव विध अ-शक्ततॆयू इल्लवु, महा-समर्थरु (३) मत्तु अवरु विळम्बवन्नु सहिसुववरु, एकॆन्दरॆ मॊक्षदल्लि प्राप्तवागुव आनन्दवन्नु इल्लिये स्वल्प मट्टिगॆ, 
+
+[[P126]]
+
+> तम् एवं विद्वान् अमृत इह भवति 
+
+ऎन्दू 
+
+> भजन-सुखम् एकस्य विपुलम् 
+
+ऎन्दू हेळिरुव हागॆ अनुभविसुवराद प्रयुक्त, अवरु अष्टु त्वरॆयुळ्ळवरल्लवु हीगॆ ई कारणगळिन्द अवरिगॆ प्रपदनदल्लि अधिकारविल्लवु; भक्ति-योगदल्ले अधिकारवुळ्ळवरु ऎन्दु उपपादिसिदरु. आदुदरिन्द पूर्व-पक्षिगळु हेळिद हागॆ बुद्धि-दौर्बल्यदिन्दलागलि, विश्वास-मान्द्यदिन्दलागलि भक्ति-योगदल्लि अवरिगॆ अधिकारवॆन्दु हेळुवदु सरियल्लवॆम्ब भाववु. 
+
+ईग पूर्व-पक्षि-वादगळन्नु निरसन माडि स्थापिसिद अभिप्रायगळु मुख्यवादुदरिन्द, अवुगळन्नु मुन्दॆ ऎरडु कारिकॆगळ मूलक स्थापिसुत्तारॆ - 
+
+</details>
+
 
 #### प्रपत्ति-त्याग-कुहेतवः
 <details><summary>English</summary>
@@ -4811,6 +6273,18 @@ the **answer is** as **follows**):-
 que un hombre **adopta** upāsana  
 **debido** a la debilidad de la inteligencia?"  
 la **respuesta es** la siguiente**):-
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतरिका</summary>
+
+**अवतारिकॆयु.-** हिन्दॆ **सर्व-धर्मान् परित्यज्य** ऎम्बल्लि स्व-रूप-त्याग विधिसल्पट्टितॆम्ब वादवन्नु खण्डिसि, श्री-यति-वर्यरिगू ई अभिप्रायवु ग्राह्यवल्लवॆन्दू अवर शिष्यरुगळे तम्म ग्रन्थगळल्लि खण्डिसि हेळिरुत्तारॆन्दू, श्री-विष्णु-चित्तरे मॊदलादवरुगळ अभिप्रायवन्नु तिळिसिदरु. आदुदरिन्द आकिञ्चिन्यवे बोधिसल्पट्टितॆन्दु तिळिसि प्रपदनदल्लि अधिकार उण्टागुवुदु आकिञ्चिन्यदिन्दले ऎन्दु स्थापिसि हागॆये **"इदं शरणम् अ-ज्ञानाम्"** ऎम्ब लक्ष्मी-तन्त्र-श्लोकदल्लू, **"अ-विज्ञातो देवे"** ऎम्ब श्री-पराशर-भट्टर श्लोकदल्लू, आकिञ्चिन्यवे हेळल्पट्टितॆन्दू, ई आकिञ्चन्यवु मूरु विधवागि उण्टागबहुदादुदरिन्द, अवरु यारॆम्बुदन्नू हिन्दॆये उपपादिसि हेळिदरु. ई मेलिन ऎरडु श्लोकगळिगॆ सरियाद अर्थवन्नु ग्रहिसदॆ कॆलवरु ज्ञान-मान्द्य--विश्वास-मान्द्यविरुवरे भक्ति-योगक्कॆ अधिकारिगळॆन्दू, अदिल्लदवरु प्रपदनक्कॆ अधिकारिगळॆन्दू, आदुदरिन्दले व्यासादिगळु ज्ञान-मान्द्य--विश्वास-मान्द्यवुळ्ळवरागि उपासनवन्नु कैकॊण्डरॆन्दू हेळिद पूर्व-पक्षवन्नु खण्डिसि, व्यासादिगळु महत्ताद ज्ञान-निधिगळागि भक्ति-योगक्कॆ बेकाद ज्ञान-शक्तिगळन्नु हॊन्दिदवरागि, विळम्बवन्नु सहिसुववरागियू इद्दुदरिन्द उपासनवन्नु परिग्रहिसिदरॆन्दु तिळिसिदरु. प्रपदन-शास्त्र--भक्ति-योग-शास्त्र-प्रणीतरागिरुव श्री-व्यासदिगळिगॆ ज्ञान-विश्वास-मान्द्यवन्नु आरोपिसबहुदे ? हीगॆ ज्ञान-विश्वास-मान्द्यवन्नु श्री-व्यासादिगळल्लि पूर्प-पक्षिगळु आरोपिसुवुदक्कॆ कारणवेनॆन्दरॆ 
+
+[[P127]]
+
+> नरस्य बुद्धि-दौर्बल्याद् उपायान्तरम् इष्यते 
+
+ऎम्बल्लि हागॆ हेळिरुत्तदॆन्दु अदन्नु उदाहरिसिद्दरु. मनुष्यनु प्रपत्तियल्लि विश्वास-मान्द्यदिन्द भक्ति-योगक्कॆ अधिकारवन्नु हॊन्दुवनॆन्दू, ऒन्दु वेळॆ भक्ति-योगक्कॆ शक्तियन्नुण्टागिद्दरू व्यासादिगळ हागॆ विश्वास-मान्द्यदिन्द भक्ति-योगदल्ले अधिकारवॆन्दू, हागॆ ऒन्दु वेळॆ शक्तियिल्लदिद्दरू नाम-सङ्कीर्तनादिगळ सहायदिन्द क्रमेण भक्ति-योगदल्लि अधिकार उण्टागुत्तदॆन्दू पूर्व-पक्षिगळ अभिप्रायवु. यावाग महा-विश्वासविल्लवो, अन्तह आधिकारिगॆ भक्ति-योगवे युक्तवागि उपायवॆन्दु अवरु हेळुवरु. इदन्नु ई श्लोकदल्लि निराकरिसुत्तारॆ. ई प्रमाणक्कॆ हागॆ अर्थवल्लवॆन्दू, अदर सरियाद अभिप्रायवेनॆम्बुदन्नू ई कारिकॆगळ मूलक तिळिसुत्तारॆ.- 
+
 </details>
 
 
@@ -4860,6 +6334,19 @@ el **ignorar** del upāya fácil
 अदु उपायान्तरप्रवृत्तराऩ व्यासादिगळुक्कुम् तुल्यमऩ्ऱो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् अशक्तस्यातिकृच्छ्रेष्वित्यादिना । अतिकृच्छ्रेष्वशक्तस्य – अत्यन्तकष्टसाध्यङ्गळाऩ उपायान्तरङ्गळिल् अशक्तऩाय्, दुराशादार्ढ्यशालिनः - अवैगळिऩ् कष्टङ्गळ् तॆरिन्दुम् अवैगळै ऎप्पडियावदु सॆय्दुमुडिक्क वेण्डुमॆऩ्गिऱ दुराशैयिऩ् दार्ढ्यत्तैयुडैयऩाऩ, कस्यचित् - ऒरुवऩुक्कु इदऩाल् नरस्य ऎऩ्गिऱ वचनत्तिल् नरशब्दम् दुराशैयुळ्ळ अशक्तपरमॆऩ्ऱु सॊल्लप् पट्टदु। बुद्धिदौर्बल्यं – मन्दबुद्धित्वम्, लघुत्यागस्य कारणं – लघुवाऩ प्रपत्तियै विडुगैक्कु कारणम्, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अतिकृच्छ्रेषु** - तुम्बा कष्ट-साद्यगळाद एकॆन्दरॆ कर्म-योग--ज्ञान-योगगळिन्द सह-कृतवागियू तुम्ब कष्ट-साद्यवाद अनन्य-भक्तियिन्द कूडिद ई उपासनादिगळल्लि, **अ-शक्तस्य** - अ-शक्तनाद, **दुर्-आशा-दार्ढ्य-शालिनः** - मोक्षवन्नु हॊन्दलु बेरॆ उपायविल्लवादुदरिन्द ई उपासनदिन्दले साधिसुवनॆम्ब अहङ्कारदिन्द दुष्टवाद आशॆयल्लि दार्ढ्यवन्नु हॊन्दिद, ऎन्दरॆ आप्तरादवरु अदु सरियल्लवॆन्दु हेळिदरू कूड मनकॊडद हागॆ दार्ढ्यवन्नु हॊन्दिद, **कस्यचिन् नरस्य** - यावनो ऒब्ब मनुष्यन, **बुद्धि-दौर्बल्यं** - विवेक-ज्ञानद मान्द्यवु, ऎन्दरॆ सकृद्-अनुष्ठेयवाद प्रपदनवु मोक्षवन्नु ऎल्लादरू कॊडुत्तदो ऎम्ब संशयदिन्दुण्टाद विश्वास-न्यूनतॆयु, **लघु-त्यागस्य कारणम्** - लघुवागि सुकरवाद सकृद्-अनुष्ठेयवागि, देहावसानदल्लि मोक्ष-प्राप्तियन्नुण्टुमाडुव प्रपत्तियन्नु त्यागमाडुवदक्कॆ कारणवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इदीग **"नरस्य बुद्धि-दौर्बल्यात्"** ऎम्ब वाक्य-तात्पर्यवॆम्ब भाववु. ई लघुवाद सकृद्-अनुष्ठेयवाद प्रपदनवु ऎल्लादरू मोक्षवन्नु कॊट्टिते ऎम्ब संशयदिन्द प्रेरितनागि अदरल्लि विश्वासवन्नु तॊरॆदु ई लघुवाद उपायवन्नु त्यजिसि, बहु-कष्ट-साध्यवाददु बहु-कर्म-कलापगळिन्द कूडिद कर्म-योगादिगळिन्द सेरिद भक्ति-योगवन्नु तानु अवुगळिगॆ अ-शक्तनागिद्दरू अवलम्बिसुवनु; अदक्कॆ कारणवु प्रपदनदल्लि आतनिगॆ महा-विश्वासद न्यूनतॆये कारणवॆम्बुदु तात्पर्यवु. कॆलवरु प्रपत्तियन्नु त्यागमाडलु अवरिगॆ अदरल्लि विश्वासविल्लदिरुवदे कारणवु. आदरिन्द भक्तिगॆ अधिकारवुण्टायितु ऎम्बर्थवल्लवु. अदक्कू आतनु अ-शक्तनागिरबहुदॆम्ब भाववु.
+
+[[P128]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -4909,6 +6396,34 @@ porque **quitan** todas las dudas de los demás
 तत्र – लघुत्यागहेतुवाऩ बुद्धिदौर्बल्ये सति, प्रपत्त्यनर्हाणां – प्रपत्तिक्कुम् अनर्हर्गळाऩवर्गळुक्कु, अन्यदित्यपि युज्यते – दुराशैयिऩाले प्रपत्तीतरमाऩ उपायत्तिल् प्रवृत्तियुण्डागिऱ तॆऩ्ऱु सॊल्लुवदु तगुम्। संशयघातिषु व्यासादिषु - इतरर्गळुडैय संशयत्तैप् पोक्कडिक्कक् कूडिऩवर्गळाऩ व्यासादिगळ् विषयत्तिल्, एषा नीतिर्नैव – अशक्तऩागैयाले उपायान्तरानर्हऩाय् बुद्धिौर्बल्यत्ताले प्रपत्तिक्कुम् अनर्हऩाय्प् पोन्दवऩुडैय न्यायमाऩदु सम्भविक्कादॆऩ्गै। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**तत्र** - हागॆ उपासनादिगळिगॆ अ-शक्तरागिरुववर विषयदल्लि, **प्रपत्त्य्-अनर्हाणां** - बुद्धि-दुर्बलरागि विश्वास-मान्द्यदिन्द प्रपदनक्कॆ अनर्हरागिरुववरिगॆ, **अन्यद् इत्य् अपि** - परम्परॆयिन्द भक्ति-योगक्कॆ साधनवागिरुव नाम-सङ्कीर्तनादिगळु कूड, **युज्यते** - युक्तवादुदागुत्तवॆ. मुन्दॆ व्यासादिगळ विषयदल्लि ई न्यायवु कूडुवदिल्लवॆन्दु हेळुत्तारॆ **संशय-घातिषु** - मनुष्यरल्लिरुव संशय इदु भ्रम-विप्रलम्भादिगळिगू उपलक्षणवु, इवुगळन्नॆल्ला तम्म सद्-उपदेशदिन्दलू पाण्डित्यदिन्दलू नाशमाडुव शक्तियुळ्ळ, **व्यासादिषु** - व्यासरे मॊदलाद महर्षिगळल्लि, **नैवैषा नीतिः** - ई न्यायवु कूडुवदिल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अवरु प्रपदनवन्नु त्यजिसि उपासनवन्नु कैकॊण्डिदुदु बुद्धि-दौर्बल्यवॆन्दरॆ अदरल्लि महा-विश्वासविल्लदुदरिन्दल्लवु. हागॆ विश्वासविल्लदिद्दरॆ, शरणागतियन्ननुष्ठिसु ऎन्दु उपदेशिसिरुत्तारल्ला; हागादरॆ अवॆल्ला वञ्चनोक्तियॆ ? उद्धवरिगॆ श्री-कृष्णनु 
+
+> तस्मात् त्वम् उद्धवोत्सृज्य चोदनां प्रति-चोदनाम् ।  
+प्रवृत्तिञ् च निवृत्तिञ् च श्रोतव्यं श्रुतम् एव च ॥  
+माम् एकम् एव शरणम् आत्मानं सर्व-देहिनाम् ।  
+याहि सर्वात्म-भावेन यास्यस्य् अ-कुतो-भयम् ॥ 
+
+ऎन्दु हेळि, तन्नल्लि शरणागतियन्नु माडु ऎन्दु उपदेशवु हागादरॆ मोसवे ? हागादरॆ इन्तह तावे उपदेशिसिद लघु-मार्गवन्नु तावे एकॆ त्यजिसिदरु ? बहु-दुष्करगळाद कर्म-योगादि--सह-कृत उपासनादिगळ महात्मॆय ज्ञानवू, शक्तियू, विळम्बवन्नु सहिसुव योग्यतॆयू, अदरल्लि विशेषानन्द उण्टॆम्ब ज्ञानवू, ऎल्ला इद्दुदरिन्द भक्ति-योगवन्ने अवलम्बिसिदरु.
+
+[[P129]]
+
+इदन्नु बहु-सुलभवागि ऒन्दु दृष्टान्त-मूलक व्यक्तपडिसबहुदु. ऒन्दु नदियन्नु दाटबेकॆन्दु, इब्बरु नदिय हत्तिरक्कॆ बन्दिद्दारॆन्दु भाविसोण. ऒब्बनु बहळ अ-शक्तनु, अल्लिये हत्तिरदल्लि कट्टिरुव ऒन्दु सेतुवॆय मूलक नडेदु आचॆय दडक्कॆ होगि सेरुवनु इन्नॊब्बनु चन्नागि देह-दार्ढ्यविरुव यव्वन-स्थनु. ईजुवदरल्लि प्रवीणनु, ईजुवदरल्लिरुव आनन्दवन्नु तिळिदवनु, कष्टवॆन्दु तिळिदिद्दरू ईजुत्ता होगि, ईजुवाग आनन्दवन्नु हॊन्दि स्वल्प-निधानवागि, आ अ-शक्तनु होगि सेरिद ऒन्दु घण्टॆय मेलॆ आचॆय दडक्कॆ होगि सेरुवनु, ई ऎरडनॆयवनिगॆ सुलभवागि सेतुवॆय मेलॆ नडॆदु होगबहुदॆम्ब ज्ञानविल्लदॆयू इल्लवु विश्वासविल्लदॆयू इल्लवु. हागॆये ई व्यासादिगळु प्रपदनदल्लि ज्ञान-विश्वासविल्लदवरल्लवु आदरॆ तमगॆ उपासनदल्लि ज्ञान-शक्ति-विळम्ब-सहिष्णुतॆ, आनन्दवु ऎल्ला इद्दुदरिन्द कष्टवादरू उपासन-मार्गवन्ने अवलम्बिसिदरु. नदियल्लि ईजुवाग शक्तनागिद्दवन आनन्दानुभववु हेगॆ अ-शक्तनिगिल्लवो, हागॆये प्रपदनानुष्ठातृविगॆ इल्लवु. ई तारतम्यवन्ने **"प्रपन्याद् अन्येषाम्"** ऎम्ब श्लोकदल्लि 
+
+> भजन-सुखम् एकस्य विपुलम् 
+
+ऎन्दू **"परिमित-रसा"** ऎन्दू, प्रदर्शिसिरुत्तारॆ. ८४८ - ८५० पुटगळन्नु नोडि. 
+
+आदुदरिन्द उपासनवू प्रपदनवू ऎरडू योग्यवाद उपायगळे; आया अधिकारिगळिगॆ अवुगळु उपायगळे. आया अधिकारिगळिगॆ अवुगळु उपयुक्त-शास्त्रगळे विना अन्यथा अल्लवॆन्दु निगमनदल्लि हेळुत्तारॆ. उपासनवु दुष्करवादुदरिन्दलू, अहं-भाववन्नु प्रकटिसुवदरिन्दलू योग्यवादुदल्लवॆन्दू, मनुष्यनु ज्ञान-विश्वास-मान्द्यगळिन्द अदन्नु अवलम्बिसुवनॆन्दू, इतररु हेळिद अभिप्रायवु सर्वथा सरियल्लवॆन्दु तोरिसुवदक्कागियू ई निगमन वाक्यवु 
+
+</details>
 
 ### व्यवस्था, सप्रयोजनता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4947,6 +6462,33 @@ Ambos śāstras (los de upāsana y los de prapatti) **tienen** su propio propós
 इम्मादिरि उपासनत्तिऱ्कुम् प्रपत्तिक्कुम् सकिञ्चनत्वाकिञ्चनत्वरूपमाऩ अधिकारम् व्यवस्थितमायिरुप्पदाल् उपासनविधायकशास्त्रमुम् प्रपत्तिविधायकशास्त्रमुम् प्रयोजनवत्ताग आगुमॆऩ्ऱु मुडिक्किऱार् इप्पडि इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि** - नावु ईग उपदेशिसिद रीतियल्लि, **उपासन-प्रपदनङ्गळुक्कु** - भक्ति-प्रपत्तिगळाद ऎरडु उपायगळिगू, **अधिकारम् व्यवस्थितमागैयाल्** - अधिकारवु व्यवस्थितवागिरुवदरिन्द, **इरण्डु शास्त्रमुम्** - ई उपासनवन्नू प्रपदनवन्नू उपपादिसि विधिसिरुव शास्त्रवू, **स-प्रयोजनम्** - आया अधिकारिगळिगॆ उपयुक्तवादवुगळे. 
+
+[[P130]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+उपासनवु निरर्थकवाद शास्त्रवल्लवॆम्ब भाववु. इल्लि **अधिकारम् व्यवस्थितमागैयाल्** ऎन्दु हेळिरुत्तदॆयल्ला, हेगॆ व्यवस्थितवॆन्दरॆ:- 
+
+उपासनदल्लि ज्ञानविल्लदॆ प्रपदनदल्लि समुदाय-ज्ञानविरुववनिगू, 
+
+(२) उपासनदल्लि ऒळ्ळॆ ज्ञानविद्दरू, इदन्ननुष्ठिसलु तानु अ-शक्तनॆन्दु तिळिदिरुववनिगू, 
+
+(३) उपासनदल्लि ज्ञान-शक्ति ऎरडू इद्दरू विळम्बवन्नु सहिसदॆयू, आर्तनागियू इरुववनिगू प्रपदनदल्लि अधिकारवु, 
+
+(१) प्रपदनदल्लि विश्वास-शून्यनिगू, (२) ज्ञान-शक्तिगळिन्द कूडि विळम्बवन्नु सहिसिकॊळ्ळुववनिगू, (३) उपासनानन्ददल्लि ममतॆयुळ्ळवनिगू उपासनक्कॆ अधिकारवु. 
+
+इवॆरडरल्लि भक्ति अथवा प्रपत्तियन्नु अवलम्बिसबहुदॆम्ब योग्यतॆ इरुववरन्ने कुरितु हेळिद व्यवस्थॆयु. वर्ण-भेददिन्द अधिकार-भेदादिगळु हिन्दॆये अधिकारि-विभागाधिकारिदल्लि उपवादितवु. इल्लियादरो ऎरडक्कू योग्यतॆ इरुव नमगॆ यावुदु उचितवॆम्ब चर्चॆयल्लि कॆलवरु भक्ति-योगवन्नु निन्दिसि हेळिदरु. अदु सरियल्लवॆन्दु हेळि, हीगॆ अधिकारि-व्यवस्थॆयन्नु माडिदरॆन्दु तिळियतक्कद्दागिरुत्तदॆ. 
+
+हीगॆ स्व-रूप-त्यागवु **"सर्व-धर्मान् परित्यज्य"** ऎम्बल्लि विधि-परवॆम्ब वादवु स-मूलवागि निरसन माडल्पट्टितु. हागादरॆ नित्य-नैमित्तिकानुष्ठान-रूप--स्व-धर्म-त्यागवु कूडदन्तायितु ई धर्मगळन्नु अनुष्ठिसिदरॆ प्रपदन-विधिगॆ विरुद्धवल्लवो ? प्रपदनक्कॆ अन्यापेक्षॆयु इल्लवष्टे ? इवुगळिन्ननुष्ठिसिदरॆ ब्रह्मास्त्रवु शण-वल्कल-रज्जु-बन्धनवन्नु हेगॆ सहिसुवदिल्लवो हागॆये प्रपदनक्कू प्रत्यवाय सम्भवविल्लवो ? ऎन्दरॆ समाधानवन्नु हेळुत्तारॆ. ई नित्य-नैमित्तिकानुष्ठानवु उपासनक्कॆ मात्रवे अङ्गवु. प्रपदनक्कॆ अङ्गवागि अवु बेकिल्लवु. आदरू बेरे विधिय मूलक अगत्यवागि अनुष्ठिसतक्कवुगळादुदरिन्द त्यागमाडकूडदॆन्दू हागॆ त्याग माडिदुदादरॆ भगवन्-निग्रहक्कॆ ऒळगागुवरॆन्दू तिळियतक्कद्दु. आदुदरिन्द स्व-वर्णोचित-धर्मगळन्नु भगवत्-कैङ्कर्यवॆन्दु भाविसि आनुष्ठिसतक्कद्दु. आदुदरिन्न वर्णाश्रम-विहित-धर्मगळन्नु इब्बरू अनुष्ठिसले बेकु. आदरॆ इब्बर अनुष्ठानद अभिप्रायदल्लि व्यत्यास उण्टॆन्दु मुन्दिन वाक्यगळिन्द उपदेशिसुत्तारॆ: 
+
+[[P131]]
+
+</details>
 
 #### स्व-धर्मे प्रतिपत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4986,6 +6528,11 @@ La diferencia entre los dos adhikāris con respecto a los ritos y observancias d
 उपासकऩुक्कुम् प्रपन्नऩुक्कु मॆऩ्ऱबडि। प्रपत्तिवैषम्यमे युळ्ळदु इति । उपासकऩुक्कु अङ्गत्वप्रतिपत्तियुम्, प्रपन्नऩुक्कु कैङ्कर्यबुद्धियुमे युळ्ळदु ऎऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इरण्डधिकारिगळुक्कुम्** - ई ऎरडु विधवाद उपासन-प्रपदनाधिकारिगळिगू, **स्व-धर्मत्तिल्** - तम्म वर्णाश्रमोचित-धर्मदल्लि, ऎन्दरॆ अवरुगळ नित्य-नैमित्तिकानुष्ठानदल्लि, **प्रतिपत्ति-वैषम्यवे उळ्ळदु** - अभिप्रायद व्यत्यासवे इरुवन्ताद्दु; व्यत्यासवु हेगॆ ऎन्दु तोरिसुत्तारॆ -
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5034,6 +6581,11 @@ si **se realiza** cualquier otro rito para **alcanzar** el mismo fin.
 ननु प्रपन्नऩ् प्रपत्तीतरधर्मत्तै अनुष्ठित्ताल् ब्रह्मास्त्रन्यायत्ताले प्रपत्ति नऴुगादोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् प्रपन्नऩुक्कुक् कोलिऩ फलत्तैप्पऱ्ऱ इत्यादिना । कोलिऩ फलत्तैप्पऱ्ऱ – प्रपत्तिक्काग प्रार्थित्त मोक्षरूपफलत्तैप्पऱ्ऱ, ब्रह्मास्त्रबन्धन्यायत्ताले इति । ब्रह्मास्त्रत्तुक्कु फलमाऩ आञ्जनेयबन्धनत्तिऱ्कागवे रज्ज्वादिगळै प्रयोगित्तदालल्लवो ब्रह्मास्त्रम् नऴुविऱ्ऱु। इङ्गु स्वयम्प्रयोजनमाऩ धर्मानुष्ठानम् अप्पडिप्पट्टदऩ्ऱु ऎऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रपन्ननुक्कु** - प्रपदनानुष्ठानवन्नु माडिदवनिगॆ, **कोलिन फलत्तैप्पत्त** - आतनु अपेक्षिसिद फलवन्नु कुरितु **वेरॊन्नै अनुष्ठिक्किल्** - प्रपदनवल्लदॆ बेरॆ यावुदादरू ऒन्दन्नु अनुष्ठिसिदरॆ, **ब्रह्मास्त्र-बन्ध-न्यायत्ताले** - ब्रह्मास्त्रवु, इतर-बन्धवन्नु हेगॆ सहिसुवदिल्लवो हागॆ **विरोधमुण्डानालुम्** - विरोध उण्टादरू, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5080,6 +6632,21 @@ o por cosas tales como la gloria de Bhagavān o el bienestar de los Bhāgavatas,
 किञ्च भगवद्भागवतसमृद्ध्यर्थमाऩ धर्मानुष्ठानत्तिलुम् अन्द न्यायमिल्लै यॆऩ्गिऱार् भगवद्भागवतेत्यादि । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**स्वयं-प्रयोजनमागवादल्** - आ अनुष्ठानदिन्द बेरे फलद प्रयोजनवन्नु कोरदॆ, अनुष्ठानवु स्वतः प्रयोजनवॆन्दागलि, अथवा **भगवद्-भागवत-समृद्ध्य्-आदि-पत्तवादल्** - भगवद्-भागवत-कैङ्कर्यवे मॊदलादवुगळन्नु कुरितद्दॆन्दागलि, **वेरॊन्नै अनुष्ठित्ताल्** - बेरॆ यावुदादरू ऒन्दन्नु अनुष्ठिसिदरॆ, **विरोधमिल्लै** - प्रत्यवायवेनू इल्लवु; 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ब्रह्मास्त्र-बन्ध-न्यायद हागॆ प्रत्यवायवेनू इल्लवु. अनुष्ठिसिद प्रपदनक्कॆ एनॊन्दू तॊन्दरॆयू इल्लवु. उपासनाधिकारियु उपासनक्कॆ अङ्गवागि स्व-वर्णाश्रम-धर्मगळन्नु अनुष्ठिसले बेकु. ई प्रपदनानुष्ठानक्कॆ अङ्गवागि इन्नु यावुदू बेकिल्लवागिल्लवादुदरिन्द, नित्य-नैमित्तिकगळु प्रपदनक्कॆ बेकिल्लवु. हागादरॆ अवुगळन्नु बिडबहुदो ? बिडकूडदु अनुष्ठिसलेबेकु. प्रतिपत्तियल्लि तारतम्य उण्टु ? ई प्रपदनाधिकारियु, अवु स्वयं-प्रयोजनवॆन्दु फलापेक्षॆयिल्लदॆ अनुष्ठिसुवनु. अथवा भगवद्-भागवत-कैङ्कर्यवॆन्दु भाविसि अनुष्ठिसुवनु. अन्तू स्व-रूप-त्याग कूडदॆम्ब तात्पर्यवु. स्वामिय आज्ञा-कैङ्कर्यगळॆन्दू अनुष्ठिसुवनु. 
+
+आगलि, स्व-रूप-त्यागवु कूडदॆन्देनो ऒप्पोण. **सर्व-धर्मान् परित्यज्य** ऎन्दु हेळिरुवदरिन्द, उपाय-बुद्धि-त्यागवॆन्दु हेळुववु, ऎन्दरॆ आ अभिप्रायवु समञ्जसवल्लवॆन्दु तिळिसुत्तारॆ.
+
+[[P132]]
+
+</details>
 
 ## नोपायत्व-धी-त्यागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5098,7 +6665,6 @@ o por cosas tales como la gloria de Bhagavān o el bienestar de los Bhāgavatas,
 
 इति चेत् — 
 </details>
-
 
 
 <details><summary>English</summary>
@@ -5134,6 +6700,19 @@ que ellos **son** upāyas.
 ननु स्वरूपत्यागपक्षम् कूडादागिलुम् धर्मङ्गळिऩ् उपायत्वबुद्धि त्यागत्तै परित्यज्य ऎऩ्बदऱ्कु अर्थमागक् कॊळ्ळलागादो? परित्यज्य ऎऩ्बदाल् धर्मङ्गळुडैय परित्यागमे तोऩ्ऱुगिऱदेयॊऴिय, अदिल् उपायत्वबुद्धि त्यागम् तोऩ्ऱविल्लैये यॆऩ्ऩिल्; प्रपत्त्युत्तरकैङ्कर्यत्तिल् ‘‘उपायतां परित्यज्य’’ ऎऩ्ऱु गीतार्थसङ्ग्रहत्तिल् सॊऩ्ऩबडि इङ्गुम् सॊल्वदु उचितमागादोवॆऩ्ऩवरुळिच्चॆय्गिऱार् इप्पडि स्वरूपत्यागङ्गूडा तॊऴिन्दालुमित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"परित्यज्य" ऎम्बल्लि उपायत्व-बुद्धि-त्यागवु हेळल्पट्टितॆम्ब वादद खण्डनवु.** 
+
+**इप्पडि** - मेलॆ स-विस्तरवागि उपपादिसिदुदरिन्द, **स्व-रूप-त्यागम्** - ई **"परित्यज्य"**वॆम्बल्लि स्व-रूप-त्यागवु, **कूडादॊळिन्दालुम्** - समञ्जसवागदॆ होदरू, **उपायत्व-बुद्धि-त्यागम्** - ई उत्तर-कृत्यगळल्लि अवू उपाय-सह-कारिगळॆम्ब बुद्धिय त्यागवन्नु, **पण्णुगै** - माडोणवु,  **"परित्यज्य"वुक्कु** - परित्यज्यवॆम्बुदक्कॆ, **पॊरळानालोवॆन्निल्** -  तात्पर्यवॆन्दु हेळबहुदल्ला ऎन्दरॆ, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ई प्रश्नॆगॆ उत्तरवन्नु हेळुत्तारॆ - ईग पूर्व-पक्षाभिप्रायवेनॆन्दरॆ, तानु माडबेकाद वर्णाश्रम-धर्मगळल्लि, अवु मोक्ष-साधनगळॆम्ब भाववन्नु त्यजिसबेकॆम्बुदे, **परित्यज्य**वॆम्बल्लि हेळिद त्याग-विधियु ऎम्बुदु. इदू समञ्जसवागुवुदिल्लवॆन्दु उपदेशिसुत्तारॆ.- प्रपदनानुष्ठानानन्तर माडबेकाद उत्तर-कृत्यगळल्लि उपाय-बुद्धि-त्यागवन्नु विधिसुवदेनो उचितवु. हागल्लदॆ उपायानुष्ठान-कालदल्ले इन्तह उपाय-बुद्धि-त्यागवु विधिसल्पट्टितु ऎन्दरॆ, आग अन्तह उपाय-बुद्धि-त्यागवु प्रपदनक्कॆ अङ्गवॆन्दु ऒप्पबेकागुत्तदॆयागुवदरिन्द अभिप्रायवु समञ्जसवल्लवॆन्दु तोर्पडिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5178,6 +6757,28 @@ lo que **está ordenado** es **el abandono** del **pensamiento** de que estas **
 प्रपत्त्युत्तरकालिकस्ववर्णाश्रमोचितधर्मङ्गळिल् उपायत्वबुद्धियै विट्टुप् पण्णवेण्डुमॆऩ्ऱाल् स्वयं प्रयोजनमागप् पण्णवेण्डुमॆऩ्ऱु फलिक्कुम्,  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रपन्ननुक्कु** - प्रपदनानुष्ठान माडि प्रपन्ननादवनिगॆ, **उत्तर-कृत्य-गोचरङ्गळान** - उत्तर-कृत्यगळॆन्दु सूचिसल्पट्ट, **वाक्यङ्गळिल्** - प्रमाणगळल्लि, **उपाय-बुद्धि-त्यागम्** - उपायवॆम्ब बुद्धियन्नु त्यजिसोणवु, **विधिक्किरविडम्** - विधिसल्पट्टिरुत्तदॆन्दु हेळुव सन्दर्भवु, **उचित‍म्** - समञ्जसवादुदु. 
+
+[[P133]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+उपायवु अनुष्ठिसल्पट्ट नन्तर अदक्किन्नेनू सहायकवागलि, प्रयोजनवागियागलि अङ्गवागियागलि बेकागिल्लवादुदरिन्द, अन्तह उत्तर-कृत्यगळल्लि उपायवॆम्ब बुद्धियन्नु त्यागमाडतक्कद्दु न्यायवु. एकॆन्दरॆ श्री-यामन-मुनिगळु हागॆये गीतार्थ-सङ्ग्रहदल्लि अप्पणॆ कॊडिसिरुत्तारॆ :-
+
+> निज-कर्मादि--भक्त्य्-अन्तं कुर्यात् प्रीत्यैव-कारितः ।  
+उपायतां परित्यज्य न्यस्येद् देवे तु ताम् अ-भीः ॥ 
+
+ई श्लोकदल्लि हेळिरुव **न्यस्येत्** ऎम्बुदु शरणागतियन्नु बोधिसुवदिल्लवु. भगवन्तनल्लि अवुगळ समर्पणॆयन्नु 
+
+> मयि सर्वाणि कर्माणि संन्यस्य 
+
+ऎम्बल्लि हेगो हागॆ बोधिसुत्तदॆ. ई श्लोकक्कॆ कॆलवरु सरियाद अर्थवन्नु हेळदॆ विपरीतार्थवन्नु हेळिदुदरिन्द श्री-निगमान्त-देशिकरवरे समञ्जसार्थवन्नु उपदेशिसिरुत्तारॆ. श्री. भ. गीता १४५६-७ नॆय पुटवन्नु नोडि.
+
+</details>
 
 ### स्वयम्-प्रयोजन-कैङ्कर्य-हानिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5210,6 +6811,12 @@ y la palabra parityajya **ocurre** allí.
 <details><summary>मूलम्</summary>
 
 इङ्गु उत्तरकृत्यपरमऩ्ऱिक्के उपायविधायकमायिरुक्किऱ विव्वाक्यत्तिऱ् सॊल्लुगैयाले 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**इङ्गु - सर्व-धर्मान् परित्यज्य** ऎम्बल्लियादरो, **उत्तर-कृत्यमन्रिक्के** - तन्न वर्णाश्रम-धर्मगळ अनुष्ठानवु, प्रपदनानन्तर नडॆयुव उत्तर-कृत्यवल्लदॆ, **उपाय-विधायकमाय्** - उपायवन्नु विधिसुव सन्दर्भवागि, **इरुक्किर इव्वाक्यत्तिर् चॊल्लुगैयाले** - ई चरम-श्लोकद वाक्यदल्लि, **सर्व-धर्मान् परित्यज्य** -  ऎम्बल्लि हेळिरुवदरिन्द, 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5279,6 +6886,24 @@ y **no podrían ser** un fin en sí mismos).
 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**बुद्धि-त्याग-पूर्वकमान** - ई उपाय-बुद्धि-त्याग-पूर्वकवाद, **धर्म-स्व-रूपम्** - ई स्व-वर्णाश्रम-विहित-कर्म--स्व-रूपवु, **प्रपत्तिक्कु अङ्गमागि अनुष्ठेयमॆन्नु** - प्रपदन अङ्गवागि अनुष्ठिसल्पडतक्कद्दॆन्दु, **फलिक्कैयाल्** - प्राप्तवागुवदरिन्द, केवल **स्वयं-प्रयोजनमान** - अनुष्ठान-मात्रवे प्रयोजनवल्लदॆ इन्नू याव प्रयोजनवू इल्लद, **कैङ्कर्यम्** - नित्य-नैमित्तिकानुष्ठान-रूप-कैङ्कर्यवु, **उत्तर-कृत्यवॆङ्गिर मतवु** - कृत्यवॆन्दु हेळुव अभिप्रायवु, **सिद्धियादु** - शास्त्रानुमति इल्लदागुवदु, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हागॆ उपायत्व-बुद्धि-त्यागवु विधिसल्पट्टितु ऎन्दु हेळिदरॆ बरुव अनुपपत्तिगळन्नु हेळलु हॊरटु, प्रथमतः - 
+
+(१) उपाय-बुद्धि-त्याग हेळिल्पट्ट धर्मगळु प्रपदनक्कॆ अङ्गवॆन्दु हेळिदन्तागुवदु. प्रपदनक्कॆ मिक्क यावुवू अङ्गगळल्लवु. आदुदरिन्द नित्य-नैमित्तिकगळू अङ्गगळॆन्दु हेळुवदु सरियल्लवु. मुन्दॆ ऎरडु वाक्यगळिन्द इन्नू ऎरडु अनुपपत्तिगळन्नु हेळुत्तारॆ :-
+
+(२) ई उपायक्कॆ धर्मान्तरगळ याव अपेक्षॆयू बेकिल्लवॆम्ब प्रमाणवु इल्लवागुत्तदॆन्दू, (३) ई उपायक्कॆ आकिञ्चनवू इल्लवागुत्तदॆन्दू, हेळबेकागुत्तदॆन्दू तिळिसुत्तारॆ. अदन्ने **"ऎङ्गने ऎन्निल्"** ऎम्बुदर मूलक उपपादिसुत्तारॆ. 
+
+[[P134]]
+
+</details>
+
 ### नैरपेक्ष्य-हानिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5314,6 +6939,27 @@ que **se dice que** es la característica única de prapatti.
 दूषणान्तरङ्गळै आपादिक्किऱार् इव्वुपायत्तुक्कु इत्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इव्वुपायत्तुक्कु** - ई उपायवाद प्रपत्तिगॆ, **चॊल्लुगिर** - प्रमाणगळल्लि हेळिरुव, **धर्मान्तर-नैरपेक्ष्यमुम्** - बेरॆ याव धर्मगळ अपेक्षॆ इल्लदिरोणवु, **किडैयादु** - इल्लदॆ होगुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+**धर्मान्तर-नैरपेक्ष्यवु,** 
+
+> प्रपत्तेः क्वचिद् अप्य् एवं परापेक्षा न विद्यते 
+
+> न जाति-भेदं न कुलं न लिङ्गं न गुणा क्रियाः ।  
+न देश-कलौ नावस्थां योगो ह्य् अयं अपेक्षते 
+
+> सकृद् एव प्रपन्नस्य कृत्यं नैवान्यद् इष्यते ॥ 
+
+इत्य्-आदि-प्रमाणगळिगॆ विरुद्धवागुत्तदॆम्ब भाववु. इन्नू दोषवेनॆन्दरॆ हेळुत्तारॆ - 
+
+</details>
+
 ### अ-किञ्चनाधिकार-हानिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5342,6 +6988,17 @@ Así este upāya **dejaría** de **estar** dentro de la competencia del hombre *
 इव्वुपायम् अकिञ्चनाधिकारमऩ्ऱिक्केयॊऴियुम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इव्वुपायम्** - ई प्रपदनवु, **अ-किञ्चनाधिकारमन्रिक्के यॊळियुम्** - मुख्यवाद अ-किञ्चनाधिकारवे इल्लदे होगुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+**"अ-किञ्चनो ऽनन्य-गतिः"** ऎन्दु श्री-यामुन-मुनिगळु आकिञ्चन्यवु प्रपदनाधिकारिगॆ मुख्यवॆन्दु हेळिद प्रमाणक्कॆ विरुद्धवागुत्तदॆ. प्रपदनक्कॆ आकिञ्चन्यवाद अङ्गवु इल्लवॆन्दागुत्तदॆन्दु हेळिदरु. अदु हेगॆ ? ऎन्दरॆ मुन्दिन वाक्यगळिन्द उपपादिसुत्तारॆ.:- 
+
+</details>
 
 
 ### पूर्व-परिहार-व्यर्थता
@@ -5385,6 +7042,19 @@ con respecto a aquellos dharmas que **no son** upāyas.
 इवैगळै उपपादिक्किऱार् ऎङ्ङऩे यॆऩ्ऩिलित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ऎङ्गने ऎन्निल्** - अदु हेगॆ ऎन्दरॆ, **उपायमल्लादवत्तिल्** - उपायवल्लदिरुव धर्मगळल्लि, **उपाय-बुद्धि-त्यागम्** - उपायवॆम्ब बुद्धियन्नु, त्याग माडोणवन्नू, **विधिक्कवेण्डा** - विधिसबेकाद्देनू इल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+उपायवल्लदे इरुवदन्नु उपायवल्लवॆन्दु भाविसु ऎन्दु विधिसबेकादुदु एनू इल्लवु. उपायवागिरुवदक्कीग अदु उपायवॆम्ब भावनॆय त्याग माडु ऎन्दु विधिसुवदु न्यायवु. अदु उपायवे अल्लवादरॆ उपायवल्लवॆन्दु भाविसु ऎन्दु विधिसबेके ऎम्ब तात्पर्यवु. 
+
+[[P135]]
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5424,7 +7094,7 @@ sin el **pensamiento** de que **son** upāyas
 उपायमाऩवऱ्ऱिल् उपायबुद्धि त्यागम्बण्णि अनुष्ठिक्कैयावदु पऴैयवुपासनादिगळिल् निलैयाम्। 
 </details>
 
-<details><summary>नीलमेघः (सं)</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 पऴैय उपासनादिगळिल् निलैयामिति ।  
 
@@ -5433,6 +7103,17 @@ sin el **pensamiento** de que **son** upāyas
 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**उपायमानवत्तिल्** - उपायवागिरुवदरल्लि **उपाय-बुद्धि-त्यागम्पण्णि अनुष्ठिक्कै यावदु ?** - उपायवॆम्ब भाववन्नु त्यागमाडि अनुष्ठिसोणवॆम्बुदु हेगॆ आयितु ऎन्दरॆ ? **पळैय उपासनादिगळिल् निलैयाम्** - हिन्दॆ हेळल्पट्ट उपायान्तरवाद भक्ति-योगादिगळल्ले इरुव स्थितियागुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इल्लि आदि-शब्ददिन्द उपासनक्कॆ साधकगळाद कर्म-योग--ज्ञान-योगगळु हेळल्पट्टवु. उपायवल्लदे इरुवदक्कॆ उपायत्व-बुद्धि-त्याग कूडुवदिल्लवादुदरिन्द, उपाय-बुद्धि-त्यागवु विधिसल्पट्टितॆन्दु अभिप्रायवडुवदादरॆ, आग प्रपदनानुष्ठान माडुववनु उपासनवन्ननुष्ठिसि, अदरल्लि उपाय-बुद्धि-त्याग माडबेकॆन्दु हेळिदन्तायितु. आग प्रपदनानुष्ठान माडुववनु उपासनवन्नु अङ्गवागि अनुष्ठिसि, प्रपदनवन्नु अङ्गवागि अनुष्ठिसतक्कदॆन्दायितु. उपासनानुष्ठान माडुववनु प्रपदनवन्नु अङ्गवागियू उपासनवन्नु अङ्गियागि अनुष्ठिसतक्कद्दॆन्दू हिन्दॆ हेळल्पट्टिरुवदरिन्द ऎरडक्कू तुम्बा व्यत्यासविल्लदॆ ऎरडू शक्त्य्-अधिकारिगळिगॆ उपायवॆन्दागि, प्रपदनक्कॆ आकिञ्चन्य-रूपवाद अङ्गवे इल्लवागुत्तदॆम्ब भाववु. इवुगळन्ने मुन्दिन वाक्यगळिन्दलू उपपादिसुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5483,6 +7164,20 @@ y eso del **rendimiento** al **decir** que la diferencia **se** se debe a las pe
 इप्पडि उपायत्वबुद्धित्यागम् विधिक्किऱदॆऩ्गिऱ पक्षत्तिल् प्रपन्नऩ् त्यागाधिकारी, भक्तऩ् अनुष्ठानाधिकारी ऎऩ्ऱु सॊऩ्ऩ स्वग्रन्थत्तुक्कुम् विरोधम् वरुमॆऩ्गिऱार् इङ्गु उपायत्वबुद्धि त्यागम् पॊरुळागच् चॊल्लुगिऱ पक्षत्तिलिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इङ्गु** - ई चरम-श्लोकद सर्व-धर्मान् परित्यज्यवॆम्बल्लि, **उपायत्व-बुद्धि-त्यागम् पॊरुळाग च्चॊल्लुगिर पक्षत्तिल्** - विधिसल्पट्टितॆम्बुदे अभिप्रायवॆन्दु हेळुव पक्षदल्लि, **त्याग-विधिक्कुम्** - प्रपन्ननु उपासनदल्लि उपायत्व-बुद्धियन्नु बिट्टु अङ्गवागि अनुष्ठिसतक्कदॆम्बुदक्कू, **अनुष्ठान-विधिक्कुम्** - उपासकनु प्रपदनवन्नु अङ्गवागि अनुष्ठिसतक्कद्दॆम्बुदक्कू, **अधिकारि-बेधत्ताले** - हीगॆ प्रपन्ननु त्यागाधिकारि, उपासकनु अनुष्ठानाधिकारि ऎम्ब भेददिन्द, **विरोधम् परिहरित्तविडमुम्** - इब्बर अनुष्ठानदल्लू प्रपदन उपासनगळिरुवदरिन्द विरोधवे इल्लवादुदागुत्तदॆ; भेधवे इल्लदॆ ऎरडू शक्त्य्-अधिकारिगळिगे आगुत्तदॆ ऎम्ब सन्दर्भवू सह, **अनपेक्षित-वचनम्** - इष्टविल्लद उक्तियागुत्तदॆ; 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ऎन्दरॆ ऎरडक्कू भेदविल्लद हागॆ प्रसङ्ग बरुवदरिन्द ऎरडक्कू भेद हेळुवदु निरर्थक-विषयवागुत्तदॆम्ब भाववु. नावु हिन्दॆ खण्डिसिद स्व-रूप-त्याग-विधियल्लादरू ऎरडु उपायगळिगू विरोधविरुवदॆन्दु ऎन्दरॆ व्यत्यासविरुवदॆन्दु हेळबहुदु. ई मेलिन उपायत्व-बुद्धि-त्याग-विधिय विषयदल्लादरो ऎरडक्कू इल्लवागुत्तदॆन्दु हेळुत्तारॆ - 
+
+[[P136]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु स्व-रूप-त्यागञ् जॊल्लुम् बोद् इऱे,  
@@ -5518,7 +7213,20 @@ allí **surgiría** cualquier conflicto de este tipo.
 परिहारमनपेक्षितमॆऩ्बदै उपपादिक्किऱार् इङ्गु स्वरूपत्यागमिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इङ्गु - ई सर्व-धर्मान् परित्यज्य** ऎम्ब व्यत्यासवे स्थळदल्लि, **स्व-रूप-त्यागम् शॊल्लुम् पोदिरॆ,** पूर्व-पक्षिगळु स्व-रूप-त्याग-विधि ऎन्दु हेळुवागवादरू, **इव्विरोध-प्रसङ्गमुळ्ळदु** - ई ऎरडु उपायगळाद प्रपदन उपासनगळिगॆ व्यत्यासद प्रसङ्गवादरू इत्तु; 
+
+</details>
+
 ### भक्त-प्रपन्न-व्यत्यासः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+ई उपायत्व-बुद्धि-त्यागवन्नु हेळुव सन्दर्भदल्लि ऎरडक्कू व्यत्यासवे इल्लवॆन्दागुत्तदॆम्ब भाववु. ऎरडु उपायगळिगू व्यत्यासवे इल्लवॆम्बुदन्नु **"इप्पडि"** ऎन्दारम्भिसिद वाक्यद मूलक उपपादिसुत्तारॆ.- 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि बुद्धि-विशेष-त्याग-पूर्वक-- कर्म-ज्ञान-भक्तिगळै प्रपत्तिक्क् अङ्गम् आगव् इसैयुम् पक्षत्तिल् 
@@ -5553,6 +7261,11 @@ pero sin el **pensamiento** de que **son** upāyas **es** un aṅga para prapatt
 उपायत्वबुद्धित्याग पूर्वकमाऩ कर्मज्ञानभक्तिकळै प्रपत्त्यङ्गमाग ऒप्पुक्कॊण्डाल् बाधकमरुळिच्चॆय्गिऱार् इप्पडि बुद्धिविशेषेत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि** - ई रीतियल्लि, याव रीतियल्लि ऎम्बुदन्नु अवरे विशदीकरिसुत्तारॆ.- **बुद्धि-विशेष-त्याग-पूर्वक** - उपायत्व-बुद्धि-त्याग-पूर्वकवागि, **कर्म-ज्ञान-भक्तिगळन्नु, प्रपत्तिक्कु अङ्गमाग** - प्रपदनक्कॆ अङ्गवागि, **इशैयुं पक्षत्तिल्** - अपेक्षितवॆन्दु हेळुव सन्दर्भदल्लि, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5608,6 +7321,26 @@ y **no habría** ninguna diferencia en su acción.)
 अङ्गाङ्गिव्यपदेशत्तिल् माऱाट्टमेयुळ्ळदु इति । उपासनस्थलत्तिल् उपासनम् अङ्गी, प्रपत्ति अङ्गमॆऩ्ऱुम्, प्रपत्तिस्थलत्तिल् प्रपत्ति अङ्गी, उपासनादिगळ् अङ्गङ्गळ् ऎऩ्गिऱ शब्दभेदम् उण्डेयॊऴिय इरुवरुम् इरण्डैयुम् अङ्गतया अङ्गितया वा अनुष्ठिक्कवेण्डुम् ऎऩ्बदऱ्कु निवारकरिल्लैयॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**उपासन-प्रपदन**गळॆरडक्कू, **आङ्गाङ्गि-व्यपदेशत्तिल्** - अङ्गाङ्गगळॆन्दु हेळुवदरल्लि मात्रवे, **माराट्टमेयुळ्ळदु** - व्यत्यासवन्नुळ्ळदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हेगॆ ? ऎन्दरॆ प्रपदनदल्लि प्रपत्ति अङ्गि, कर्म-योगादिगळिन्द कूडिद उपासनवु अङ्गवायितु. उपासनदल्लादरो उपासनवु अङ्गि, प्रपदनवु अङ्गवायितु. हीगॆ ऎरडु विध उपायदल्लू ऎरडू इरुवदरिन्द, ऎरडक्कू एनू व्यत्यासवे इल्लवॆन्दु एर्पडुत्तदॆ ऎम्ब भाववु. आदुदरिन्द आकिञ्चन्यवे ई प्रपत्तिगॆ इल्लदे होयितु ऎम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मुन्दॆ उपायात्व-बुद्धि-परित्यागवादिगळु हेळबहुदेनॆन्दरॆ, ऎरडू ऒन्दे विधवादुदु हेगागुत्तदॆ ? प्रपदनक्कॆ अङ्गवागि बेकाद उपासनवु, तुम्बा बेकिल्लवु. स्वल्पमट्टिगॆ इद्दरॆ साकु. उपासनदल्लादरो विशेषवागि बेकु. आदुदरिन्द व्यत्यासविदॆयल्ला ऎन्दु हेळबहुदॆन्दु योचिसि आगलू अभिप्रायवु सरियल्लवॆन्दु **अङ्ग-भावत्तिले** ऎन्दारम्भिसिद वाक्यदिन्द तिळिसुत्तारॆ. :- 
+
+[[P137]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अङ्ग-भावत्तिल् यथा-कथञ्चिद् अनुष्ठानम् अमैयुम् 
@@ -5621,7 +7354,6 @@ y **no habría** ninguna diferencia en su acción.)
 
 इति वैषम्यम् अपि मन्दम् । 
 </details>
-
 
 
 <details><summary>English</summary>
@@ -5650,6 +7382,12 @@ pero este **argumento no** es sólido.
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 ननु भक्तियै अङ्गियागवुम्, अदऱ्कु प्रपत्तियै अङ्गमागवुम् अनुष्ठिक्कुम् उपासकऩुक्कु भक्तिरूपाङ्गियाऩदु पूर्णमाग अनुष्ठिक्कवेण्डुम्। प्रपत्तियै अङ्गियागवुम् भक्तियै अङ्गमागवुम् अनुष्ठिक्कुम् प्रपन्नऩुक्कु भक्तियै यथा कथञ्चित् अनुष्ठित्ताल् पोदुमॆऩ्ऱु सॊल्वदुम् सरियिल्लै यॆऩ्गिऱार् अङ्गभावत्तिलिति । 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**अङ्ग-भावत्तिले** - अङ्ग-भावदिन्द, **यथा-कथञ्चिद् अनुष्ठानम्** - हेगो हागॆ स्वल्पवाद उपासनानुष्ठानवु, **अमैयुम्** - ई प्रपदनक्कॆ साकु, **ऎङ्गिर वैषम्यमुम्** - ऎन्दु हेळुव प्रपदन उपासनक्कॆ इरुव व्यत्यासद हेळिकॆयू कूड, **मन्दम्** - सरियाद तिळुवळिकॆ इल्लद विषयवु; एकॆन्दरॆ हागॆ हेळुवदु शास्त्र-विरुद्धवाद मातु ऎन्दु प्रमाणवन्नु उदाहरिसुत्तारॆ. :-
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5702,6 +7440,50 @@ only when all the accessory rites or aṅgas are duly **performed**?" (Pūrva M�
 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"सकलाङ्गोपसंहारः** - ऒन्दु कर्मद समस्तवाद अङ्गवु पूर्तियागि मुगियोणवु ऎन्दरॆ अङ्गद सम्पूर्णतॆयु, **काम्यं कर्म** - अभिलषित फलवन्नु कॊडुव कर्मवागि, **प्रसिध्यति** - परिणमिसुत्तदॆ सिद्धिसुत्तदॆ." **ऎन्रु शॊल्लप्पट्टिदिरे** - ऎन्दल्लवे हेळल्पट्टिरुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अङ्गवु **यथा-कथञ्चिद्**अल्लदॆ सम्पूर्णतॆयन्नु हॊन्दिदरेने अङ्गियाद कर्मवु फलवन्नु कॊडुव सिद्धियन्नु हॊन्दीतु. हागॆ अङ्ग-पूर्णतॆयिल्लदिद्दरॆ अङ्गिये इल्लवु. आदुदरिन्दले अङ्ग-न्यूनतॆ कूडदॆम्ब भावदिन्द अन्तह अभिप्रायवु **मन्दम्** ऎन्दु हेळिदरु. 
+
+ई सन्दर्भदल्लि अ-प्रस्तुतवादरू प्रासङ्गिकवागि तिळिसतक्क विषयवु ऒन्दुण्टु; एनॆन्दरॆ - पूर्व-जन्मदल्लि कर्म-योगवन्नु नडॆसिद अधिकारियु ई जन्मदल्लि कर्म-योग-रूपवाद अङ्गद अपेक्षॆ इल्लदेने उपासनॆयन्नु अवलम्बिसबहुदॆन्नुवरु. ई अभिप्रायवू मन्दवे, एकॆन्दरॆ - 
+
+(१) हिन्दिन जन्मदल्लि कर्म-योगादिगळु अनुष्ठिसल्पट्टिद्दवु ऎन्दु तिळियुव बगॆ हेगॆ ? हीगॆ अङ्गवन्नु अनुष्ठिसदॆ उपासनवन्नु अवलम्बिसिदरॆ, ई श्री-निगमान्त-देशिकरवर वाक्यद प्रकार, अङ्गविल्लदुदरिन्द अङ्गियिन्द फल-सिद्धियिल्लवॆम्बुदु व्यक्तवु. होद जन्मदल्लि उपनयनवागिद्दरॆ, ई जन्मदल्लि बेडवॆ ? हॊसदागि अक्षर मॊदलादवुगळन्नु हेगॆ कलियबेको, हागॆये ई जन्मद उपासनानुष्ठानक्कॆ कर्म-योगवू बेकु. ई अभिप्रायवन्नु श्री-निगमान्त-देशिकरवरु **न धर्म-निष्ठो ऽस्मि"** ऎम्ब यामुनेय-श्लोक-व्याख्यानदल्लि तिळिसिरुत्तारॆ.-
+
+[[P138]]
+
+(२) अङ्गाङ्गिगळ समुच्चयविद्दरेने कर्मदिन्द फल-सिद्धियु. आदरॆ पूर्व-जन्मद कर्मानुष्ठानवु निरर्थकवादुदो ? ऎन्दरॆ निरर्थकवल्लवु. अनुष्ठान-संस्कार-बलदिन्द ईग नडॆसुव कर्म-योग-सिद्धियु बहु-शीघ्रवागि लभिसुत्तदॆन्दु इट्टुकॊळ्ळतक्कद्दु. 
+
+ईग उपाय-बुद्धि-त्यागवु **"सर्व-धर्मान्"** ऎम्बुदरिन्द विधिसल्पट्टितु ऎन्दु अभिप्रायपट्टरॆ, हीगॆ अनेक-दोष अनुपपत्तिगळिगॆ कारणवागुत्तदॆन्दु तिळिसिदरु :- 
+
+१. उपायान्तरवु प्रपत्तिगॆ अङ्गवॆन्दु हेळबेकागुत्तदॆ.
+
+२ नित्य-नैमित्तिकगळु उत्तर-कृत्यवागि कैङ्कर्य-रूपवादुदॆम्बुदु तप्पि होगुत्तदॆ. 
+
+३. प्रपदनद स्वन्त अङ्गगळिल्लदॆ मिक्क यावुदु बेकिल्लवॆम्ब नैरपेक्ष्य-विधिगॆ विरुद्धवागुत्तदॆ. 
+
+४. अ-किञ्चनाधिकारवे इल्लवागुत्तदॆ. प्रपदन उपासनगळॆरडू शक्ताधिकारिगॆ ऎन्दे हेळिदन्तागुत्तदॆ. 
+
+५. प्रपदनक्कू भक्ति-योगक्कू तुम्बा व्यत्यासवे इल्लवादुदागुत्तदॆ, प्रपदनक्कॆ भक्ति-योगवु अङ्गवागियू भक्तिगॆ प्रपदनवु अङ्गवागि ऎरडरल्लू ऎरडु इरुवदरिन्द तुम्बा व्यत्यासविल्लदागि, गुरु-लघु-वैष्यम्य हेळुव प्रमाणगळिगॆ विरुद्धवागुत्तदॆ. 
+
+६. अङ्गवादवु सम्पूर्णवागि अनुष्ठिसबेकागिल्लवॆन्दरॆ, अङ्गाङ्गिगळ सम्पूर्ण-समच्चयदिन्दले कर्म-फलगळ सिद्धि ऎन्दु हेळुव प्रमाणगळिगॆ विरोधवु. आदुदरिन्द उपायत्व-बुद्धि-त्यागवु विधिसल्पट्टितॆम्ब भाववु स्व-रूप-त्यागवु विधिसल्पट्टितॆम्ब अभिप्रायद हागॆये अ-समञ्जसवॆन्दु हेळिदरु. 
+
+स्व-रूप-त्याग-विधि सरियल्लवॆम्ब अभिप्रायवन्नु हिन्दॆ कारिकॆगळ मूलक समर्थिसि, हेळिद हागॆ ई उपायत्व-बुद्धि-त्याग-विधि ऎम्बुदू सरियल्लवॆन्दु **"अतः"** ऎन्दु आरम्भिसिद ई मुन्दिन कारिकॆगळिन्द स्थापिसुत्तारॆ.-
+
+[[P139]]
+
+धर्म-स्व-रूप-त्याग हेळिदरेनो अनुपपत्तिगळु उण्टागुवदरिन्द, 
+
+> सङ्गन् त्यक्त्वा फलञ् चैव स त्यागस् सात्त्विको मतः (गी १८-९) 
+
+ऎम्बल्लि हेळिरुव हागॆ सात्त्विक-त्यागवन्नु **"सर्व-धर्मान् परित्यज्य"**वॆम्बल्लि हेळुवदे न्यायवॆन्दु भाविसि, **उपाय-बुद्धि-त्यागवे** हेळल्पट्टितॆम्बुदरिन्दलू मेलॆ तोर्पडिसिरुव हागॆ आरु विध अनुपपत्तिगळुण्टागुत्तवॆन्दु उपपादिसिदरु. उपायत्व-बुद्धि-त्यागवेनु उपायवल्लदुदरल्लि उपायत्व-बुद्धि-त्यागवे ? अथवा उपायवादुदरल्लि उपायत्व-बुद्धि-त्यागवे ? ऎन्दु विकल्पिसि, मॊदलनॆय विकल्पवु कूडुवदे इल्लवु. उपायवल्लदुदरल्लि उपायत्व-बुद्धिये उण्टागुवदिल्लवादुदरिन्द. ऎरडनॆय विकल्पवू सह कूडुवदिल्लवु :- हेगॆन्दरॆ तनगॆ कर्म-योगादिगळे अ-शक्यवादुवु; अन्तह धर्मगळल्लि उपायत्व-रूप-बुद्धिये उदयिसुवदिल्लवु; शक्यगळागि अनुष्ठेयगळागिरुव धर्मगळल्लीग उपायत्व-बुद्धियुण्टागबहुदु; अन्तवुगळ त्यागवन्नु विधिसुवदीग न्यायवु. आदुदरिन्द उपायत्व-बुद्धि-त्याग हेळिदरॆ प्रपत्तिगॆ अङ्गवागि कर्म-योगादिगळिन्द कूडिद उपासनवन्नु अनुष्ठिसि सात्त्विक-त्यागवन्नु हेळतक्कद्दॆन्दु आगुत्तदॆ. हीगागिरुवदरिन्द प्रपत्तिगॆ उपासनवु अङ्गवू उपासनक्कॆ प्रपत्तियु अङ्गवु ऎन्दागि ऎरडु उपायगळु शक्तनिगे अर्हवादुदागि, (१) अ-किञ्चनत्ववु प्रपत्तिगॆ इल्लवायितु. (२) नैरपेक्ष्यवन्नु हेळुव प्रमाणगळिगू विरोधवु. (३) प्रपत्तियल्लि सर्वरिगू अधिकारवुण्टॆम्बुदु तप्पि, उपासनाधिकारि-मात्रवे अदक्कॆ अर्हनॆम्ब हीगॆ दोषगळु उण्टागुत्तवॆ. स्व-रूप-त्यागवन्नु **परित्यज्य**वॆम्बुदक्कॆ हेळिदरॆ कैङ्कर्य-रूपदल्लि आवश्यकवागि, अनुष्ठिसबेकाद धर्मगळन्नू सह बिडबहुदॆन्दु आगुवदरिन्द अदू सरियल्लवॆम्बुदु हिन्दॆ हेळल्पट्टितु. आदुदरिन्द स्व-रूप-त्यागद विधि ऎन्दू, उपायता-बुद्धि-त्याग-विधि ऎन्दू, सर्व-धर्मान् परित्यज्यवॆम्बुदक्कॆ व्याख्यानगळु अ-सङ्गतवादुवॆम्बुदन्नु कारिकॆगळ मूलक तिळिसुत्तारॆ. 
+
+</details>
+
 
 ## त्याग-विधि-भ्रम-सङ्ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5751,6 +7533,21 @@ entonces los dharmas en su forma esencial **se convertirían** en un aṅga (de 
 उक्तार्थङ्गळै कारिकैकळाले उपसंहरिक्किऱार् अतः स्वरूपत्यागोक्ताविति । स्वरूपत्यागपक्षत्तिल् मुऩ् सॊऩ्ऩबडि वर्णाश्रमोचितधर्मानुष्ठानमुम् गुरुवन्दनादिगळुम् अपचारमाग मुडियुम्। धर्मङ्गळिल् उपायत्व बुद्धित्यागम् विधिक्किऱदॆऩ्गिऱ पक्षत्तिल् धर्मङ्गळुडैय स्वरूपम् प्रपत्त्यङ्गमाग मुडियुम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अतः** - आ कारणदिन्द, **स्व-रूप-त्यागोक्तौ** - सर्व-धर्मान् परित्यजवॆम्बल्लि समस्त-धर्मगळ त्यागवु विधिसल्पट्टितॆन्दु हेळिदरॆ, **कैङ्कर्यस्यापचारता** - अवश्यकवागि माडबेकाद नित्य-नैमित्तिक-रूप आज्ञा-कैङ्कर्यगळन्नू, मत्तु भगवद्-भागवतार्चन-रूपगळाद अनुज्ञा-कैङ्कर्यगळन्नू माडुवदु अपचारवागि सरियल्लदॆम्बुदू **भवेत्** - आगुत्तदॆ. **उपायत्व-मति-त्यागे** - उपायत्व-बुद्धि-त्यागवु **सर्व-धर्मान् परित्यज्य** ऎम्बल्लि विधिसल्पट्टितॆन्दरॆ, **तत्-स्व-रूपाङ्गता** - आ उपायवागिरुव उपासनवन्नु अनुष्ठिसि उपायत्व-बुद्धियन्नु त्याग माडबेकॆन्दागुवुदरिन्द आ उपासनवन्नु प्रपदनक्कॆ अङ्गवॆम्ब भाववु, **भवेत्** - उण्टागुत्तदॆ. 
+
+[[P140]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इवॆरडु अभिप्रायगळू आ कारणदिन्द सरियादवल्लवॆम्ब भाववु. स्व-रूप-त्याग-पक्षदल्लि अवश्यकवागि कर्तव्यगळाद नित्य-नैमित्तिकगळू, भगवद्-भागवत अनुज्ञा-कैङ्कर्यगळू अपचारगळु हेगागुत्तवॆ ? ऎन्दरॆ अवुगळ त्यागवु विधियागि निषेधिसल्पट्टिरुवदरिन्द, अ-कृत्य-करण-दोष-युक्तगळागि परिणमिसुत्तवॆम्ब भाववु. ऎरडनॆय अभिप्रायदल्लि उपासनवु अङ्गवागि हेळल्पट्टु, उपासनक्कॆ शक्तियिरुववनिगॆ प्रपत्तियु विहितवागि आकिञ्चन्य अङ्गविल्लदुदागुत्तवॆम्ब भाववु. नैरपेक्ष्य-शास्त्र-प्रमाणक्कू सह विरोधवागुत्तदॆ. 
+
+हीगॆ उपायत्व-मति-त्याग-विषयदल्लि दूषणान्तरवन्नू हेळुत्तारॆ. अनेकरु अनुष्ठिसिरुव प्रपदनगळल्लि इन्तह उपायत्व-मति-त्याग-विषयवु तोरिबरुवदिल्लवादुदरिन्द अ-सङ्गतवादुदॆन्दु तिळिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5806,6 +7603,19 @@ sin ninguno de los ritos debidos a varṇa o āśrama.)
 सात्त्विकत्यागयुक्तमाऩ धर्मङ्गळिऩुडैय अनुष्ठानम् प्रपत्तिक्कु अङ्गम् ऎऩ्ऱु सॊल्लुम्, पूर्वम् सॊल्लाद सिलरुडैय पक्षमुम् सात्त्विकत्यागपूर्वकधर्मानुष्ठानङ्गळै प्रपत्तिक्कु अङ्गमागप् पण्णामल्, केवलप्रपत्तियै अनुष्ठित्त काकविभीषणादिगळुडैय वृत्तान्तङ्गळै मऱन्दु सॊऩ्ऩबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अर्थवु - सात्त्विक-त्याग-युक्तानां** - धर्मगळिगॆ उपायत्व-बुद्धिय त्यागवॆन्दरॆ सात्त्विक-त्यागदिन्द कूडिरुव **धर्माणां** - कर्म-योगादिगळिन्द कूडिद उपासन-रूप-धर्मगळु, **एतद्-अङ्गता** - ई प्रपदनक्कॆ अङ्गवागिरुव भाववु, **विस्मृत-काकादि-वृत्तान्तैः** - मॆरॆतु होद काकासुर, आदि-शब्ददिन्द गजेन्द्र-काळीय, दौपदि, गुह, विभीषणने मॊदलाद वृतान्तगळिन्द **उपवर्णिता** - वर्णिसल्पट्टितॆम्बुदु, **नूनं** - निश्चयवु, 
+
+[[P141]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+तात्पर्यवेनॆन्दरॆ ई मेलॆ हेळिद काकादिगळ प्रपदनगळल्लि ऎल्लियू ई अधिकारिगळु उपासनवन्नु अनुष्ठिसि सात्त्विक-त्यागवन्नु हेळि प्रपदनवन्नु अनुष्ठिसिदरॆन्दु ग्रन्थगळल्लि हेळिल्लवु. आग पूर्व-पक्षिगळु याव समाधानवन्नु हेळबेकागुत्तदॆ ऎन्दरॆ अल्लल्लि हेळुवुदन्नु मरॆतु बिट्टरॆन्दु हेळबेकागुत्तदॆ ऎम्ब तात्पर्यवु. प्रपदनवन्नु वर्णिसिरुव, वाल्मीकि-व्यास मॊदलाद महर्षिगळिगॆ विस्मृति ऎल्लादरू उण्टो ? निश्चयवल्लद विषयदल्लि निश्चयत्ववन्नु अरोपिसुवुदक्कागिये, **नूनम्** - ऎम्ब उत्प्रेक्षॆयन्नु सूचिसुव अव्ययवु. आदुदरिन्द ई याव वृत्तान्तदल्लू उपासनादिगळन्नु अङ्गवागि अनुष्ठिसल्पट्टु सात्त्विक-त्यागवु हेळल्पट्टिल्लवॆम्बुदु तात्पर्यवु. हीगॆ उत्प्रेक्षिसि हेळिरुवुदरिन्द अवर अभिप्रायवु तुम्बा हास्यास्पदवॆन्दु तोर्पडिसिदरु हेगॆन्दरॆ काकनू, निषादनू, गजेन्द्रनू, स्त्रीयागियू बहिष्ठॆयागियू इद्द द्रौपदियू काळीयनू सह उपासनक्कॆ अनर्हरु. अदू अल्लदॆ आर्तरागि शरणागतियन्नु माडुव कालदल्लि उपासनक्कॆ ऎल्लि अवकाशवु ? क्षण-कालदल्लि साध्यवागुव शरणागतिगॆ उपासनवु हेगॆ अङ्गवादीतु आदुदरिन्द अभिप्रायवु परिहसनीयवु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5850,7 +7660,36 @@ los antiguos **obtuvieron** de inmediato lo que **deseaban**.
 ऒरु धर्मङ्गळुम् अङ्गमल्लामैयाल् अवैगळुक्कु दूरत्तिलिरुक्कुम् सकृत्प्रपत्तिमात्रत्ताले अप्पॊऴुदे स्वाभिमतमाऩ फलत्तै प्राचीनर्गळ् अडैन्दार्गळॆऩ्ऱु इतिहासपुराणङ्गळिऩिऩ्ऱुम् केट्टिरुक्किऱोम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
 
+**अर्थवु** - मेलॆ हेळिद काक, कपोत, काळीय, गजेन्द्र, निषादादिगळु अ-ज्ञरु, आदुदरिन्द प्रपदनवु हेगो अनुष्ठिसल्पट्टितु. ज्ञानिगळाद श्री-पराङ्कुशरे मॊदलादवरुगळल्लि प्रवदनवु, भक्ति-योगाङ्कवागि अनुष्ठिसल्पट्ट हागॆ तोरिबरुत्तदॆ ऎन्दरू, आ सन्दर्भदल्लू सरियल्लवॆन्दु हेळुत्तारॆ **पूर्वे** - हिन्दिनवरु ऎन्दरॆ श्री-पराङ्कुशरे मॊदलाद आळ्वाराचार्यरुगळु, **धर्मान्तर-दवीयसा** - धर्मन्तरगळाद कर्म-योगादिगळिन्द दूरतरवागि, ऎन्दरॆ उपायान्तरवाद कर्म-योगादिगळिन्द सेरिद उपासनवॊन्दू इल्लदॆ, **सकृत्-प्रपदनेनैव** - ऒन्दु सल अल्प-कालदल्लि अनुष्ठिसल्पट्ट प्रपदनदिन्दलेने, **तक्षणे** - अवरुगळु आर्त-प्रपत्तियन्नु अनुष्ठिसिद प्रयुक्तवागि प्रपदनवन्नु अनुष्ठिसिद तक्षणवे, **अभिमतं** - तमगॆ इष्टवाद परम-पुरुषार्थवन्नु **ऎन्दरॆ मोक्षवन्नु** ऎम्ब भाववु, **सम्प्रापुः** - हॊन्दिदरु, **इति** -  ऎम्बदागि, **शुश्रुम** - केळिरुवॆवु. 
+
+[[P142]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+श्री-नम्माळ्वार्रवरिगॆ तुम्बा आर्तराद ऒडनॆये मुक्तियु लभिसितॆम्बुदन्नु अवर १० नॆय पत्तु-हत्तनॆय तिरुवाय्-मॊळियल्लि उपपादितवागिरुवदन्नु काणबहुदु. हागॆयॆ हिन्दॆ हेळिद गजेन्द्र-काकादिगळू सह आर्तरागिये प्रपदनवन्नु अनुष्ठिसिदरे विना, उपासनादिगळन्नु अङ्गवागि अनुष्ठिसि, सात्त्विक-त्याग-पूर्वकवागि प्रपदनवन्नु अनुष्ठिसिदरॆन्दु ऎल्लियू हेळिल्लवादुदरिन्द, अवरुगळु तम्म अभीष्टवन्नु ऒडनॆये हॊन्दिदरॆन्दे नावु केळिरुवॆवु ऎम्ब तात्पर्यवु. गजेन्द्रनू, काकनू, द्रौपदियू, काळीयनू, विभीषणनू इवरॆल्ला आर्तरागिये शरणागतियन्नु अनुष्ठिसिदरादुदरिन्द अवर अभिमतवन्नु ऒडनॆये हॊन्दिदरॆम्बर्थवू सुलभवागि तोरिबरुत्तदॆ हेगॆन्दरॆ **पूर्वे** हिन्दॆ प्रपदनवन्नु अनुष्ठिसिदरॆन्दु इतिहासादिगळल्लि उपवर्णितरादवरु, **धर्मान्तर-दवीयसा** - उपासनादिगळ अनुष्ठान यावुदू इल्लदॆ अवुगळिगॆ दूरतरवागिये **सकृद् एव प्रपदनेनैव** - 
+
+> सकृद् एव प्रपन्नाय तवास्मीति च याचते 
+
+ऎम्बल्लि हेळिरुव हागॆ आर्तरागि माडिद **सकृत्**-प्रपदनानुष्ठानदिन्दले, **तक्षणे** - ऒडनॆये **आभिमतं** - तम्म तम्म अभीष्टवन्नु, **सम्प्रापुर् इति शुश्रुम** - हॊन्दिदरॆन्दु केळिरुवॆवु. ई मेलॆ हेळिदवरिगॆल्ला ऒडनॆये स्वामिय अनुग्रह-प्राप्तियु ऎम्बुदु तात्पर्यवु. ई मेलॆ उदाहरिसिरुववरिगॆल्ला हीगॆ सर्वेश्वरानुग्रह-प्राप्ति ऎम्बुदु इतिहासगळिन्द सर्वरिगू तिळिद विषयवे. 
+
+आदुदरिन्द हीगॆ स्व-रूप-त्याग--विधि-पक्षदल्लू, उपायत्व-बुद्धि-त्याग--विधि-पक्षदल्लू दोषगळु तप्पिद्दल्लवॆन्दु हिन्दिन श्लोकगळिन्द हेळिदरु. हागादरॆ पूर्व-पक्षिगळु केळबहुदु एनॆन्दरॆ - **सर्व-धर्मान् परित्यज्य** ऎम्बुदक्कॆ विधि-पक्षवागि अर्थवन्नु नीवू हेळुवदादरॆ आग नीवु हेगॆ अर्थवन्नु हेळुविरि ? ऎन्दु केळिदरॆ, नावु नैरपेक्ष्य-विधियु हेळल्पट्टितॆन्दु भाविसि आकिञ्चन्यवन्नु स्थापिसुवॆवु, आदुदरिन्द नम्म अभिप्रायक्कॆ स्वल्पवागलि बाधॆ इल्लवॆन्दु मुन्दिन कारिकॆयिन्द तिळिसुत्तारॆ -
+
+</details>
+
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**नैरपेक्ष्य-विधि-पक्षदल्लीग याव प्रमाणक्कू बाधॆयु इल्लवॆन्दु हेळुत्तारॆ.** 
+
+प्रपदनक्कॆ अङ्गवागि उपासनवु हेळल्पट्टिरुत्तदॆम्ब ईग प्रसक्तवाद वादवु बाधिसल्पट्टरेने, हागॆ सर्व-समस्त अङ्ग-नैरपेक्ष्यवू बोधिसल्पट्टितॆन्दु भाविसिदरेने सर्व-सामञ्जस्यवू उण्टागुत्तदॆम्ब भावदिन्द, प्रपदनक्कॆ ब्रह्मास्त्र-तुल्य-प्रभाववु कापाडल्पडुत्तदॆ. नित्य-नैमित्तिकादिगळू स्व-रूपतः त्यागवादवुगळल्लदॆ कैङ्कर्य-रूपदल्लि अनुष्ठिसतक्कद्दॆम्बुदू स्थापिसल्पडुत्तदॆन्दू हेळुत्तारॆ. हीगॆ नावु हेळुव नैरपेक्षवु विधिसल्पट्टितॆम्बुदरिन्द हीगॆ ऎरडु विधवाद सामञ्जस्यवू एर्पट्टितु. ऎन्दु हेळुत्तारॆ. पूर्व-वक्षिगळ ऎरडु विधगळाद स्व-रूप-त्याग-विधि, उपायत्व-बुद्धि-त्याग-पक्षगळल्लि इन्तह समञ्जसगळिल्लदॆ दोषगळे उण्टागुवदरिन्द, अवुगळन्नु व्यावर्तिसि हेळुवदक्कागिये इल्लि "तु" शब्दवु 
+
+[[P143]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -5902,6 +7741,32 @@ y la **prestación** de **servicio** y similares también **serán** apropiadas.
 नैरपेक्ष्यविधिपक्षत्तिल् उपायप्रभावम् सिद्धिप्पदोडु कैङ्कर्यादिगळुम् स्थिरप्रतिष्ठितङ्गळागु मॆऩ्गिऱार् प्रसक्ताङ्गत्वबाधे तु इति । इतरब्रह्मविद्यान्यायत्ताले न्यासविद्यारूपमाऩ प्रपत्तिक्कुम् अङ्गमाग वर्णाश्रमधर्मङ्गळ् अनुष्ठेयङ्गळॆऩ्ऱु प्रसक्तमाग, अवैगळ् अङ्गङ्गळल्लवॆऩ्ऱु सर्वधर्मान् परित्यज्य ऎऩ्बदाल् अवैगळुडैय नैरपेक्ष्यम् विधिक्किऱदॆऩ्गिऱ पक्षत्तिल् सहायान्तरनिरपेक्षमाऩ ब्रह्मास्त्रत्तिऱ्कु तुल्यवीर्यमाऩ प्रपत्त्युपायत्तिऩ् प्रभावम् सॊल्लिऱ्ऱाम्। अङ्गतया धर्मङ्गळुक्कु अपेक्षैयिल्लाविडिलुम् आश्रमधर्मतया अनुष्ठेयत्वत्तिऱ्कु बाधमिल्लामैयाल् अवैगळुम् स्वयम्प्रयोजनकैङ्कर्यङ्गळाग सिद्धङ्गळामॆऩ्गै।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**प्रसक्ताङ्गत्व-बाधे तु** - ईग प्रसक्तवागिरुव कर्म-योगादि उपासनगळु अङ्गवॆम्बुदु परिहारवागि इतरगळाद अङ्गगळ नैरपेक्षवु विधिसल्पट्टितॆम्ब भावनॆयल्लादरो, **ब्रह्मास्त्र-सम-तेजसः** - ब्रह्मास्त्रक्कॆ समवाद प्रभाववुळ्ळ, **उपायस्य** - उपायवाद प्रपदनद, **प्रभावश् च** - प्रभाववू कूड, **सुस्थिरं** - सु-प्रतिष्ठितवायितु, मत्तू **कैङ्कर्यादि च** - नित्य-नैमित्तिकगळ अनुष्ठानवू, गति-चिन्तनादिगळू कैङ्कर्य-रूपदल्लि अङ्गत्वेनवल्लदॆ अनुष्ठेयगळॆम्बुदू सह, **सुस्थिरम्** - स्थापिसल्पट्टितु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+प्रपदनक्कॆ अङ्गवागि यावुदू विधिसल्पडलिल्लवॆन्दु हेळिदरेने सर्व-सामञ्जस्यवु उण्टागुत्तदॆ प्रथमतः प्रपदनद महात्मॆयू उळकॊण्डितु. अदक्कॆ बेकाद ऐदु अङ्गगळल्लदॆ इन्नु यावुदु बेकिल्लवॆन्दु नैरपेक्षवन्नु हेळुव शास्त्रगळिगॆ प्रामाण्यवू हेळिदन्तायितु. इन्नॊन्दु उपायक्कीग **सह-कारित्वेन च** - ऎम्ब ब्रह्म-सूत्रदल्लि हेळिरुव हागॆ (३-४-३३) नित्य-नैमित्तिकादिगळु अङ्गवागि अनुष्ठिसतक्कद्दु. इदु यावुदु प्रपदनक्कॆ अङ्गवागि बेकिल्लवु. इदरिन्द नित्य-नैमित्तिकानुष्ठानक्कू एनॊन्दु विघातविल्लवु. अदू **सुस्थिरम्** - रक्षिसल्पट्टितु. अदु अङ्गवागि बेकिल्लवादरू इतर-प्रमाणगळिन्द अवुगळ अनुष्ठानवु आवश्यकवागि, सुरक्षितवॆम्ब भाववु. इल्लि **"कैङ्कर्यादि"** - ऎम्बल्लिरुव आदि-शब्ददिन्द अ-किञ्चनाधिकारत्ववू सर्वाधिकारत्ववू सह **सुस्थिरम्** - चन्नागि रक्षिसल्पट्टवु. इदु सार-सङ्ग्रह-व्याख्याताविन अभिप्रायवु.
+
+[[P144]]
+
+ई प्रपदनक्कॆ इन्नु यावुदादरु सापेक्षॆयुण्टॆन्दु भाविसिदरॆ प्रपदनद माहात्म्यॆगे कुन्दकवॆम्ब भाववु **ब्रह्मास्त्र-सम-तेजसम्** ऎम्बल्लि ब्रह्मास्त्र-साम्यदिन्द हेळल्पट्टितु. आञ्जनेयनु इन्द्र-जितु बिट्ट ब्रह्मास्त्रदिन्द कट्टल्पट्टिद्दनु. यावाग इन्द्र-जितुविन सैनिकरु ऒन्दु शण-वल्कलगळिन्द आञ्जनेयनन्नु कट्टिदरो, आग ब्रह्मास्त्रक्कॆ अवमर्यादॆयागि, आदरॆ बन्धवु बिट्टु होयितॆन्दु हेळल्पट्टिरुत्तदॆ. 
+
+> स बद्धस् तेन वल्केन विमुक्तो ऽस्त्रेण वीर्यवान् ।  
+अस्त्र-बन्धस् स चान्यं हि न बन्धम् अनुवर्तते ॥ (रा. सुन्दर. ४८-४९) 
+
+आञ्जनेयनु शणबु हग्गगळिन्द यावाग कट्टल्पट्टनो, आग पराक्रम-शालियाद आञ्जनेयनु ब्रह्मास्त्रदिन्द बिडल्पट्टनु; एकॆन्दरॆ ब्रह्मास्त्र-बन्धवु, बेरॆयाद इन्याव बन्धवन्नागलि अनुसरिसि इरुवदिल्लवष्टे ! ऎन्दरॆ इतर-बन्धद जॊतॆयल्लि ब्रह्मास्त्र-बन्धवु निल्लुवदिल्लवॆम्ब भाववु ब्रह्मास्त्रक्कॆ हेगॆ इतर-बन्ध-नैरपोक्ष्यवो हागॆये प्रपदनक्कू ऎम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हिन्दॆ हेळिद पक्ष-द्वयदल्लू उण्टागुव दोषगळन्नु अनुवाद माडि हेळि उपसंहार माडुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5920,8 +7785,6 @@ y la **prestación** de **servicio** y similares también **serán** apropiadas.
 
 इति, 
 </details>
-
-
 
 <details><summary>English</summary>
 
@@ -5942,6 +7805,12 @@ Por lo tanto, la **visión** de que aquí (en parityajya) **se ordena** (para pr
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 उक्तहेतुक्कळाले धर्मङ्गळिऩुडैय स्वरूपत्यागपक्षत्तिलुम् अवैगळिल् उपायत्वबुद्धित्यागपक्षत्तिलुम् सॊऩ्ऩ दूषणङ्गळै उपसंहरिक्किऱार् आगैयालित्यादिना । स्वरूपत्यागपक्षत्तिल् आज्ञानुपालनादिशास्त्रङ्गळुम् बुद्धित्यागपक्षत्तिल् प्रपत्तिनैरपेक्ष्यम् सॊल्लुगिऱ शास्त्रङ्गळुम्, उभयपक्षत्तिलुम् पूर्वाचार्यसम्प्रदायादिगळुम् विरुद्धङ्गळामॆऩ्ऱु करुत्तु।
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**आगैयाल्** - ईग नावु उपपादिसि हेळिद रीतियल्लि स्व-रूप-त्याग-विधि मत्तू उपायत्व-बुद्धि-त्याग-विधि इवॆरडरल्लू, दोषगळु स्थापितवादुदरिन्द, **इङ्गु** - ई चरम-श्लोकदल्लि, **स्व-रूप-त्यागत्तै अङ्गमाग विधिक्किरदॆन्रुम्** - समस्त-धर्मगळ सम्पूर्णवाद स्व-रूप-त्यागवु प्रपदनक्कॆ अङ्गवागि विधिसिरुत्तदॆन्दु 
+
 </details>
 
 
@@ -5978,6 +7847,14 @@ y el **pensamiento** de que son aṅgas para ello—
 <details><summary>मूलम्</summary>
 
 अवैयङ्गमाम्बडि इङ्गु बुद्धिविशेषत्यागमात्रम् विधिक्किऱदॆऩ्ऱुञ् जॊल्लुगिऱ पक्षङ्गळ् 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**अवै** - आ धर्मगळु, **अङ्गमाम्पडि** - आवश्यकवागि अङ्गवागि अनुष्ठिसिसल्पट्टु, **बुद्धि-विशेष-त्याग-मात्रम्** - उपायत्व-बुद्धि-विशेषद त्याग-मात्रवन्नु इदरिन्द उपासनादिगळु अङ्गवागि अनुष्ठिसल्पट्टु, आ अनुष्ठानवु उपाय-रूपदल्लि ऎन्दु भाविसिद फल-कर्तृत्वादिगळ त्यागवन्नु विधिसितु ऎन्दू, **शॊल्लुगिर पक्षङ्गळ्** - हेळुव वादगळु, 
+
+[[P145]]
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6030,6 +7907,11 @@ y con el código de conducta **seguido** por los hombres virtuosos en tiempos pa
 आज्ञानुपालनादिशास्त्रङ्गळुक्कुम् प्रपत्तिक्कु नैरपेक्ष्यञ् जॊल्लुगिऱ शास्त्रङ्गळुक्कुम् पूर्वाचार्यसंप्रदायङ्गळुक्कुम् प्रपन्नराय्प् पोन्द पूर्वशिष्टर्गळुडैय आचारत्तुक्कुम् विरुद्धङ्गळाम्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(१) **आज्ञानुपालन-शास्त्रङ्गळुक्कु** - स्व-रूप-त्याग-विधिय वाददिन्द आज्ञा-कैङ्कर्यगळ त्यागवु विधिसल्पट्टिदुदरिन्द नित्य-नैमित्तिक-कर्मगळन्नु **अहरहस् सन्ध्याम् उपासीतेत्य्-अदि** स्वामिय अज्ञानुसार नडॆसिये तीरबेकॆन्दु हेळुव शास्त्रगळिगू विरुद्धगळागुत्तवॆ. (२) **प्रपत्ति-नैरपेक्ष्य शॊल्लुगिर शास्त्रङ्गळुक्कुम्** - प्रपत्तिगॆ अङ्गवागि याव धर्मगळ अनुष्ठानवु बेकिल्लवॆन्दु हेळुव **"न जाति-भेदम्"** इत्य्-आदि--प्रपत्ति-शास्त्रगळिगू, विरुद्धवागुत्तदॆ; इदु उपायत्व-बुद्धि-त्यागवाददिन्दुण्टागुत्तदॆ. (३) **पूर्वाचार्य-सम्प्रदायज्ञळुक्कुम्** - पूर्वाचार्यरु सम्प्रदाय-रीत्या नडॆसिद अनुष्ठानक्कू, विरुद्धवागुत्तदॆ. पूर्वाचार्यरुगळु नित्य-नैमित्तिकानुष्ठानगळन्नु बहु-ममतॆयिन्द अनुष्ठिसिदरे विना अवुगळन्नु स्व-रूवतः अङ्गवागि त्याग माडलिल्लवु; मत्तु अवरुगळु उपासनादिगळन्नु अनुष्ठिसि अवुगळल्लि उपायत्व-बुद्धियन्नु त्यागमाडलिल्लवु. (४) **प्रपन्नराय् पोन्द** - प्रपदनवन्नु अनुष्ठिसि होद, **पूर्व-शिष्टरुगळुडैय** - शास्त्र-रीत्या अनुष्ठानवन्नु इट्टुकॊण्डु महा-भागवतोत्तमरॆनिसिद हिन्दिनवर **आचारतुक्कुम्** - प्रवृत्तिगू, **विरुद्धङ्गळाम्** - इवु नाल्कक्कू विरुद्धगळागुत्तवॆ. 
+
+</details>
 
 
 ### सङ्ग्रहः
@@ -6074,6 +7956,11 @@ el **abandono** de todos los dharmas **no es** un aṅga para prapatti;
 आगैयाल् धर्मान्तरनैरपेक्ष्यत्तिल् इन्द त्यागविधिक्कुत् तात्पर्य मॆऩ्गिऱार् इप्पडि उक्तदोषङ्गळाले इत्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि** - ई रीतियल्लि, **उक्त-दोषङ्गळाले** -  आज्ञा-पालनवन्नु बोधिसुव शास्त्रगळिगू नैरपेक्ष-शास्त्रादिगळिगू, पूर्वाचार्यरु मत्तु अवरन्ननुसरिसि नमगॆ हिन्दॆ अनुष्ठिसिदवराद शिष्टाचार्यक्कू विरुद्धवॆम्ब हिन्दॆ हेळल्पट्ट दोषगळिन्द **धर्मङ्गळुडैय स्व-रूप-त्यागमुम्** - ऎल्ला धर्मगळन्नु स्व-रूपतः त्याग माडोणवू, **प्रपत्तिक्कु अङ्गमन्रु** - प्रवत्तिगॆ अङ्गवल्लवु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6108,9 +7995,23 @@ prapatti **no requiere** la **realización** de ningún otro dharma.
 उक्तनैरपेक्ष्यत्ताले अन्द धर्मङ्गळिऩुडैय स्वरूपमुमिदुक्कङ्गमऩ्ऱु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**उक्त-नैरपेक्ष्यत्ताले** - प्रपदनक्कॆ इन्नु याव धर्मगळू अङ्गवागि बेकिल्लदिरुवुदरिन्द, **अन्द धर्मगळिनुडैय स्व-रूपमुम्** - आ धर्मगळ स्व-रूपतः अनुष्ठानवू सह, **प्रपत्तिक्कु अङ्गमन्रु** - प्रपदनक्कॆ अङ्गवल्लवु. 
+
+</details>
 
 
 ## उपासनाद्य्-अङ्ग-निरपेक्षा
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हागादरॆ सर्व-धर्मान् परित्यज्य ऎम्बल्लि यावुदर त्यागवु विधिसल्पट्टितॆन्दरॆ हेळुत्तारॆ 
+
+[[P146]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > आगैयाल् इङ्गु मऱ्ऱ् ऒरु धर्मङ्गळालुम्  
@@ -6150,6 +8051,25 @@ la **declaración** de que prapatti **no requiere** ninguna (ayuda) de ningún o
 आगैयालिङ्गु मऱ्ऱॊरु धर्मङ्गळालुमिप् प्रपत्तिक्कपेक्षैयिल्लै यॆऩ्गैयिले इत् त्यागविधिक्कुत् तात्पर्यम्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आगैयाल्** - आ कारणदिन्द, पूर्व-पक्षगळ ऎरडु विधवाद अभिप्रायवू सरियल्लवादुदरिन्द, **इङ्गु** - ई सर्व-धर्मान् परित्यज्यवॆम्बल्लि, **ऒरु धर्मङ्गळालुम्** - याव धर्मगळिन्दलू, **इप्रवत्तिक्कु** - ई प्रपदनक्कॆ, अपेक्षॆ इल्लवु, **ऎन्गैयिलॆ** - ऎन्दु हेळुवदरल्लि, नैरपेक्ष, **इत्त्याग-विधिक्कु तात्पर्यम्** - ई त्याग-विधिगॆ अभिप्रायवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+स्व-रूप-त्याग-विधि-पक्षदल्लि आज्ञानुपालन-शास्त्रक्कॆ विरोधवू, उपायत्व-बुद्धि-त्याग-विधि-पक्षदल्लि नैरपेक्ष-शास्त्र-विरोधवू, उभय-वाददल्लू पूर्वाचा‌र्यरुगळ अनुष्ठानक्कू अनेक-शिष्टाचारक्कू, विरोधवु उण्टागुत्तदॆन्दु उवदेशिसिरुत्तारॆ. प्रपदनक्कॆ अङ्गवागि यावुदू बेकागिल्लवॆम्ब नैरपेक्षवे विधिसितु ऎन्दु भाविसतक्कद्दॆन्दु हेळिदरु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**नैरपेक्ष-विधिये सिद्धान्तवादरॆ, अदक्कॆ प्रसक्तियन्नू प्रसक्तवादवुगळन्नू तिळिसुत्तारॆ.** 
+
+हीगॆ स्व-रूप-त्याग-विधियू, उपायत्व-बुद्धि-त्याग-विधियू सरिहोगुवदिल्लवॆन्दु हेळि सर्व-धर्मान् परित्यज्यवॆम्बुदु विधियादरॆ नैरपेक्ष-विधियन्ने हेळबेके विना अन्यथा इल्लवॆन्दु हेळिदुदायितु आदरॆ, हागॆ नैरपेक्ष्यवन्नु विधिसुवुदक्कॆ प्रसक्ति इरबेकु, कारणविरबेकु. हागॆ नैरपेक्ष्यवु हेळल्पट्टरॆ यावुगळ नैरपेक्ष्यवु हेळल्पट्टितॆन्दु तिळिसुवदु आवश्यकवु. यावुगळु इल्लि प्रसक्तवागि यावुगळु निषेधिसल्पट्टवॆन्दु प्रश्निसि उत्तरवन्नु दयपालिसुत्तारॆ **"इप्पडि"** ऎन्दारम्भिसि 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6186,6 +8106,11 @@ Para **hacer** esta **negación**,
 ऎऩ्ऱुप्रश्नम् पण्णि, प्रसक्तिप्रकारत्तै प्रकाशिप्पित्तुक्कॊण्डु इङ्गु प्रतिषेधम् कूडुमॆऩ्गिऱार् इप्पडि प्रतिषेधिक्कैक्कु इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि** - हीगॆ नैरपेक्ष्य-विधियन्नु सिद्धान्तिसि हेळुव सन्दर्भदल्लि, **प्रतिषेधिक्कैक्कु** - धर्मगळु अङ्गवागि बेडवॆन्दु निषेधिसि हेळुवदक्कॆ, **प्रसङ्गम् वेणुम्** - सन्दर्भविरबेकु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6219,6 +8144,13 @@ y **se** luego **se indica** que es innecesario (la respuesta **es** la siguient
 इङ्गु ऎऩ्ऩ धर्मङ्गळ् प्रसक्तङ्गळाय् प्रतिषेधिक्कप्पडुगिऱऩ वॆऩ्ऩिल्; 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+अ-प्रसक्तगळागिरुव धर्मगळाद ऊट माडोण मुन्ताद धर्मगळ निषेधवन्नु हेळलु कारणविल्लवष्टे ऎम्ब भाववु. आ धर्मगळु प्रसक्तगळागिरबेकु; अवु इल्लि अङ्गत्वेन निषेधिसल्पट्टिरबेकु अन्तवुगळु यावुवॆन्दरॆ तिळिसुत्तारॆ. 
+
+[[P147]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6278,6 +8210,12 @@ estos **podrían ser necesarios** como accesorios.
 ऒरु विद्यैकळिले इति । ऒरु विद्याप्रकरणत्तिल् यज्ञेन दानेनेत्यादिगळाले अङ्गतया श्रुतङ्गळाऩ वर्णाश्रमधर्मङ्गळ् चित्तशुद्ध्यापादकत्वरूपमाऩ अर्थसामर्थ्यत्ताले ऎल्ला विद्यैकळुक्कुम् अङ्गङ्गळाग आगुमाप्पोलवुम्, पञ्चाग्निविद्यादिगळिल् श्रुतमाऩ अर्चिरादिगतिचिन्तनम् फलप्राप्त्यनुकूलतया विद्यान्तरङ्गळिल् वरुमाप् पोलवुम् इन्द न्यासविद्यैयिलुम् विद्यात्वाविशेषत्ताले सर्वधर्मङ्गळुम् अङ्गतया प्रसक्तङ्गळागुमागैयाल् अवैगळिऩुडैय नैरपेक्ष्यम् विधिक्किऱदॆऩ्बदु उसिदमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**वेदान्त-चोदितैगळान** - उपनिषत्तुगळल्लि बोधिसल्पट्टिरुव, **विद्यैगळिल्** - मूवत्तॆरडु विध, ब्रह्म-विद्यॆगळल्लि, **ऒरु विद्यैगळिले** - ऒन्दु ब्रह्म-विद्यॆयल्लि, **ओदि** - विधिसल्पट्ट, **अङ्गगळाय् तॊत्तिन** - उपासनक्कॆ अङ्गवागि हेळल्पट्ट, **वर्णाश्रम-धर्मङ्गळुम्** - वर्णाश्रम-धर्मगळू, मत्तु **गति-चिन्तनादिळगू, विद्यान्तरत्तिलुम्** - बेरॆ ब्रह्म-विद्यॆगळल्लू **वरुमाप्पोलॆ** - अङ्गगळागि बरुव हागॆ, **न्यास-विद्यॆयिलुम्** - बह्म-विद्यॆगॆ तुल्यवाद ई प्रपदनदल्लू, **इवै** - इवुगळु वर्णाश्रम-धर्मगळु गति-चिन्तन मॊदलादवुगळू, **तुल्य-न्यायत्तल्** - ब्रह्म-विद्यॆगळॆल्ला समवॆम्ब न्यायदिन्द **वरप्पुग** - अङ्गत्वेन बरतक्कद्दॆन्दादरॆ, इष्टु दूर पूर्व-पक्षद अनुवादवु, हीगॆ वादवु उण्टादरॆ, आग 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6319,8 +8257,51 @@ Esta **es** la **interpretación** correcta del texto aquí.
 इप्पडि अङ्गत्वप्रसङ्गत्वमुडैय सर्वधर्मङ्गळालुम् इदुक्कपेक्षैयिल्लै यॆऩ्गै यिव्विडत्तुक्कुचितम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि** - ईग अनुवाद माडिद रीतियल्लि, **अङ्गत्व-प्रसङ्गमुडैय** - अङ्गवागि भाविसबहुदाद, **सर्व-धर्मङ्गळालुम्** - समस्त-धर्मगळिन्दलू, **इदुक्कु** - ई न्यास-विद्यॆयाद प्रपदनक्कॆ, **अपेक्षॆ इल्लै ऎन्गै** - आपेक्षॆ इल्लवु, ऎन्दरॆ इवु याव धर्मगळु प्रपदनक्कॆ अङ्गवागि बेकिल्लवॆन्दु हेळुवदु, **इव्विडत्तुक्कु** - सर्व-धर्मान् परित्यज्य ऎम्बुदु विधि ऎन्दु भाविसुव स्थळदल्लि, **उचितं** - योग्यवादुदु, ऎन्दरॆ शास्त्र-समञ्जसवादुदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+पूर्व-पक्षद अनुवादवु हेगॆन्दरॆ पञ्चाग्नि-विद्यॆ उपकोसल-विद्यॆ इवे मॊदलाद ब्रह्म-विद्या-प्रकरणगळल्लि अङ्गवागि हेळल्पट्ट वर्णाश्रम-धर्मगळन्नु हागॆ हेळल्पडदे इरुव मिक्क ऎल्ला ब्रह्म-विद्यॆगळल्लू अङ्गवागि इट्टु कॊळ्ळबेकॆम्बुदु हेगॆ विधियो, हागॆये न्यास-विद्यॆयु सह ब्रह्म-विद्यॆये आगिरुवाग तुल्य-न्यायद प्रकार इदक्कु अङ्गवागि विधिसल्पट्टिदॆ ऎन्दु भाविसतक्कद्दल्लवे ऎम्बुदु आक्षेपवु. इदक्कॆ समाधानवु हेगॆन्दरॆ, सर्व-धर्मान् परित्यज्य ऎम्ब विशेष-विधियिन्द ई न्यास-विद्यॆगॆ याव अङ्गद अपेक्षॆयू इल्लदिरुवदरिन्द नित्य-नैमित्तकवे मॊदलाद आज्ञानुज्ञा-कैङ्कर्यगळु यावुवू अङ्गवागि विधिसल्पडदे इरुवदरिन्द, अवुगळ नैरपेक्षवु विधिसल्पट्टितु ऎम्बुदे शास्त्र-सम्मतवाद अभिप्रायवु. 
+
+[[P148]]
+
+इतर-ब्रह्म-विद्यॆगळल्लि हेळदिद्दरू इवुगळन्नु अङ्गवागि धाविसतक्कद्दादरू ई ब्रह्म-विद्यॆयाद प्रपदनदल्लि मात्र वर्णाश्रम-धर्मगळन्नु अङ्गवागि भाविसतक्कद्दल्लवु ऎन्दु **"सर्व-धर्मान् परित्यज्य"** ऎम्ब विधियु इतर अङ्ग-नैरपेक्ष्यॆयन्नु बोधिसितु ऎम्बुदु समाधानवु. यावाग प्रपदनानुष्ठानक्कॆ नित्य-नैमित्तिकगळु अङ्गवल्लवॆन्दु हेळल्पट्टितो, आग नित्य-नैमित्तिकगळन्नु प्रपन्ननु अनुष्ठिसतक्कद्दे अथवा त्यजिसबहुदे ऎम्ब सन्दर्भदल्लि आवश्यकवागि बेरॆ विधिगळिन्द आनुष्ठेयवॆन्दु **"इद्धर्मङ्गळुक्कु"** ऎन्दारम्भिसि उपदेशिसुत्तारॆ. **विहितत्वाच् चाश्रम-कर्मापि** (ब्र सू. ३-४-३२) ऎम्बल्लि आश्रम-कर्मगळु आवश्यकवागि अनुष्ठेयगळु ऎन्दु हेळल्पट्टिरुवदेनो न्यायवु हागॆये 
+
+> तम् एतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति, यज्ञेन दानेन तपसानाशकेन
+
+> वर्णाश्रमाचारवता पुरुषेण परः पुमान् ।  
+विष्णुर् आराध्यते पन्था नान्यत् तत्-तोष-कारकः ॥ (वि. पु. ३-८-९) 
+
+**"सह-कारित्वेन च"** (ब्र. सू ३-८-३३) 
+
+> अग्नि-होत्रादि तु तत्-कार्यायैव तद्-दर्शनात् (ब्र. सू. ४-१-१६) 
+
+इवे मॊदलाद प्रमाणगळु उपासनक्कॆ वर्णाश्रमादि-धर्मगळु अङ्गवॆन्दु हेळुत्तवॆ. इवॆल्ला भक्ति-योग-निष्ठनाद उपासकन विषयवादुदरिन्द प्रपदनानुष्ठानवन्नु माडिदवनु अवुगळन्नु अनुष्ठिसबेके ? ऎम्ब सन्दर्भदल्लि हेळुत्तारेनॆन्दरॆ - 
+
+> अहरहस् सन्ध्याम् उपासीत, 
+
+> तद् उ ह वा एते ब्रह्म-वादिनः पूर्वाभिमुखास् सन्ध्यायां गायत्र्याभिमन्त्रा अप ऊर्ध्वं विक्षपन्ति 
+
+> सन्ध्या-हीनो ऽशुचिर् नित्यम् अनर्हस् सर्व-कर्मसु
+
+इत्य्-आदि-प्रमाणगळिरुवुदरिन्द, प्रपदनक्कॆ अङ्गत्वेन बेकागिल्लद्दरू, अवुगळ अवश्यानुष्ठानवु विधिसल्पट्टिरुत्तदॆन्दु उपदेशिसुत्तारॆ :
+
+</details>
+
 ## न कैङ्कर्य-त्यागः
 ### नित्यादौ शक्यानुष्ठानं कैङ्कर्य-मात्रम्
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**हीगॆ नैरपेक्ष्यवु विधिसल्पट्टरॆ प्रप्रन्नरिगॆ वर्णाश्रम-धर्मानुष्ठानवु हेगॆ सम्भविसुत्तदॆ ?** 
+
+प्रपदनानुष्ठान माडिदवनिगॆ नित्य-नैमित्तिकगळ अनुष्ठानद आवश्यकविल्लवॆन्दु हेळलु यारिगू प्रमाणद सहायविल्लवॆन्दु तिळिसुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6366,6 +8347,13 @@ como **se dice** que **son** para upāsana en Brahma Sūtras (3.4 -33),
 इप्पडि प्रपन्नऩुक्कु वर्णाश्रमधर्मङ्गळ् प्रपत्त्यङ्गङ्गळाग अनुष्ठेयङ्गळऩ्ऱागिल् अवैगळै प्रपन्नर्गळ् विडवेण्डिवरादोवॆऩ्ऩ, अवैगळ् प्रपत्त्यङ्गङ्गळाग वपेक्षिदङ्गळल्ला विडिलुम् विनियोगपृथक्त्वन्यायत्ताले ‘‘विहितत्वाच्चाश्रमकर्मापि’’ ऎऩ्गिऱ सूत्रत्तिऩ्बडि आश्रमाङ्गतया विहितमागैयाल् अदै, विड प्रसक्तियेयिल्लैयॆऩ्गिऱार् इत् धर्मङ्गळुक्कु इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इद्धर्मङ्गळुक्कु** - ई वर्णाश्रम-धर्मगळिगॆ **सह-कारित्वेन च"** - (शा. सू.  ३- ४-३३) - **"तम् एतं वेदानुवचनेन"** (बृ ६-४-२२) इत्य्-आदि-श्रुतियिन्द ब्रह्म-विद्यॆयाद उपासनक्कॆ सहकारियागि ऎन्दरॆ अङ्गवागि भक्तियोगोत्पादकवागि ई कर्मगळन्नु अनुष्ठिसतक्कद्दु" **ऎङ्गिर सूत्रत्तिल्, चॊन्न** - ऎम्ब सूत्रदल्लि हेळिरुव **विद्या-सह-कारित्व-वेषं तविर्न्दालुम्"** - ब्रह्म-विद्यॆगॆ अङ्गवागिरुव भाववु तप्पिदरू ऎन्दरॆ इल्लदिद्दरू,
+
+[[P149]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6408,6 +8396,32 @@ ya que **los mandamientos hay que obedecerlos** como tales (y por ningún otro m
 <details><summary>मूलम्</summary>
 
 ‘‘विहितत्वाच्चाश्रमकर्मापि’’(ब्रह्मसूत्रम् ३-४-३२) ऎऩ्ऱु सूत्रान्तरत्तिऱ्सॊऩ्ऩ विनियोगान्तरत्तुक्कु प्रपन्नऩ्बक्कल् निवारकरिल्लै। 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**"विहितत्वाच् चाश्रम-कर्मापि"** - (शा. सू. ३-४-३२) - **"सह-कारित्वेन च"** ऎम्बुदर हिन्दिन सूत्रवाद इदरल्लि ब्रह्म-विद्या-निष्ठनल्लद केवलाश्रमिगू कूड इवुगळु अङ्गवागि विधिसल्पट्टिरुत्तदॆ" **ऎन्रु** - ऎम्बुदागि **सूत्रान्तरत्तिले** - बेरे सूत्रदल्लि, **चॊन्न** - हेळल्पट्टु, **विनियोगान्तरत्तुक्कु** - बेरॆ विधवागि विधिसल्पट्टु आ कारणदिन्द उपयुक्तवागुवदक्कॆ, **प्रपन्नन् पक्कल्** - प्रपदनवन्नु अनुष्ठिसिदवन सन्दर्भदल्लि **निवारकरिल्लै** - अनुष्ठानवन्नु तप्पिसुवरिल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+विहित-कर्मानुष्ठानवु बेरॆ विधि-प्राप्तवागि बन्दिरुवदरिन्द अदन्नु तप्पिसलु यारिगू शक्तियिल्लवु. अन्तह विहित-कर्मगळन्नु त्याग माडबहुदॆम्ब हेळिकॆयु अ-शास्त्रीयवादुदॆम्ब भाववु. **"विहितत्वाच् चाश्रम-कर्मापि"** ऎम्ब ब्रह्म-सूत्रद अभिप्रायवेनॆन्दरॆ - ब्रह्म-विद्यॆगॆ अङ्गगळाद यज्ञादि-कर्मगळु, ब्रह्म-विद्या-निष्ठरल्लद केवलाश्रमिगळिगॆ आवश्यकवे इल्लवे ऎम्ब सन्दर्भदल्लि, मुक्ति-फल-साधनक्कू - केवल-स्वर्गादि-साधनत्वक्कू उपयुक्तवॆम्बुदु विरुद्धवागुवदरिन्द, केवलाश्रमिगळिगॆ यज्ञादि-कर्मगळु आवश्यकविल्लवॆम्ब पूर्व-पक्ष बन्दरॆ, ई सूत्रवु अदन्नु निरसन माडुत्तदॆ. 
+
+> यावज्-जीवम् अग्नि-होत्रं जुहुयात् 
+
+इत्य्-आदिगळिन्द केवलाश्रमिगळिगॆ यावज्-जीववू विधिसिरुवुदरिन्द, ई अग्नि-हॊत्रादिगळु आश्रम-कर्मगळू सह आगिवॆ. नित्यवाद अनित्यवाद फलगळ साधनवु परस्पर-विरुद्धवादुवु. इवॆरडू हेगॆ कूडुत्तवॆ ? ऎन्दरॆ विधि-भेददिन्द कूडुत्तवॆ. अनित्य-फल हॊन्दुव केवलाश्रमिगॆ 
+
+> यावज्-जीवम् अग्नि-होत्रं जुहुयात् 
+
+ऎन्दु हेळल्पट्टितु नित्य-फलहॊन्दुव भक्ति-योग-निष्ठनिगॆ 
+
+> तम् एतं वेदानुवचनेन ब्राह्मणा विवदिषन्ति यज्ञेन दानेन तपसा ऽनाशकेन
+
+ऎन्दु विधिसिरुत्तदॆ. आदुदरिन्द एनॊन्दु विरोधविल्लवु. यज्ञादि-कर्मगळन्नु केवलाश्रमिगळू सह आवश्यकवागि अनुष्ठिसतक्कद्दे, ऎम्बुदु ई सूत्राभिप्रायवु. 
+
+[[P150]]
+
 </details>
 
 
@@ -6465,6 +8479,13 @@ Por lo tanto, como ni la **realización** de estos dharmas
 इप्पडि सर्वधर्मङ्गळिऩुडैय स्वरूपतस्त्यागम् प्रपत्तिक्कु अङ्गमऩ्ऱु। सर्वधर्मङ्गळिऩुडैय अनुष्टाऩमुम् अदऱ्कु अङ्गमऩ्ऱु ऎऩ्ऱु सॊऩ्ऩाल् ऒरु प्रपन्नऩ् अशक्यङ्गळाऩ सिल धर्मङ्गळै विडुवदुम् शक्यङ्गळाऩ सिल धर्मङ्गळै अनुष्ठिप्पदुम् ऎदिले सेरुम् ऎऩ्ऩ वरुळिच्चॆय्गिऱार् आगैयालित्यादिना । अशक्यङ्गळिल् नैराश्यम् आकिञ्चन्यप्रभेदमागैयाल् अधिकारकोटियिलेसेरुम्। शक्यङ्गळिऩुडैय अनुष्टाऩम् भगवत्प्रीत्यर्थमागैयाले कैङ्कर्यकोटियिले सेरुम् ऎऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+मेलॆ उपपादिसिद अभिप्रायवन्ने समर्थन माडि हेळुत्तारॆ.- 
+
+**आगैयाल्** - स्व-वर्णाश्रम-विहितगळाद नित्य-नैमित्तिक-कर्मगळु अवश्यानुष्ठेयगळागि प्रपन्नाप्रपन्न-भेदवल्लदॆ ऎल्लरू अनुष्ठिसतक्कद्दादुदरिन्द, **इद्धर्मङ्गळिनुडैय अनुष्ठानमुम्** - ई नित्य-नैमित्तिक-धर्मगळ अनुष्ठानवागलि, **धर्मङ्गळै त्यजिक्कैयुम्** - अवुगळ त्यागवागलि, प्रपत्तिगॆ **अङ्गमल्लामैयाल्** - अङ्गवल्लदुदरिन्द, **अ-शक्यङ्गळिल् नैराश्यम्** - तनगॆ साध्यवल्लद कर्म-योगादिगळिन्द कूडिद भक्ति-योगद नैरपेक्ष्यवु, **आधिकारत्तिले शॊरुगुम्** - अ-शक्ततॆयिन्दुण्टागुव आङ्किञ्चन्यद मूलक प्रपदनद अधिकारदल्लि सम्बन्धवन्नुण्टुमाडुत्तदॆ मत्तु 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6502,8 +8523,42 @@ y cuáles **están** dentro del rango de la propia capacidad
 शक्यमाऩ नित्यनैमिक्तिकङ्गळुडैय वनुष्ठानम् आज्ञानुपालनमाऩ कैङ्कर्यमात्रमाम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
 
+**शक्यमान** - तनगॆ साध्यवागिरुव **नित्य-नैमित्तिकगळ अनुष्ठानवु, आज्ञानुपालनमान** - 
 
+> अहरहस् सन्ध्याम् उपासीत 
+
+इत्य्-आदि--प्रत्येक-विधि-प्राप्तवागि, भगवद्-आज्ञानुपालन-रूपवाद, **कैङ्कर्य-मात्रमाम्** - कैङ्कर्य-मात्रवागुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इल्लि मात्र-शब्दवु एतक्कॆन्दरॆ उपासकन विषयदल्लि नित्य-नैमित्तिकगळ अनुष्ठानवु अङ्गवागियू भगवत्-कैङ्कर्यवू ऎरडू आगुत्तदॆ प्रपत्तियन्नु अनुष्ठिसिदवन विषयदल्लि कैङ्कर्य-मात्रवागुत्तदॆम्ब भाववु. अ-शक्यवाद कर्म-योग--भक्ति-योगादिगळ नैराश्यवन्ने श्री-यामुन-मुनिगळु, 
+
+> न धर्म-निष्ठो ऽस्मि न चात्म-वेदी न भक्तिमान् त्वच्-चरणारविन्दे 
+
+ऎम्बुदरिन्द तिळिसि, आदुदरिन्दले तमगॆ आकिञ्चन्य-रूपवाद अधिकारवु प्राप्तवायितॆन्दु **"अ-किञ्चनो ऽनन्य-गतिः"** ऎन्दु उत्तरार्धदल्लि हेळिकॊण्डरु. इदरिन्द **"अधिकारत्तिले शॊरगुम्"** ऎम्बुदु निदर्शिसल्पट्टितु. प्रपत्तिगॆ याव धर्मगळू अङ्गवल्लवॆम्ब अभिप्रायवन्नु **धरङ्गळुडैय अनुष्ठानम् धर्मङ्गळैत्यजिक्कैयुम् अङ्गममल्लामैयाले** ऎन्दु उपदेशिसिरुत्तारॆ. ई अभिप्रायवे ई मुन्दिन श्लोकदल्लि उपपादितवु. 
+
+[[P151]]
+
+> भावाभावौ न धर्माणां प्रपत्तेर् अङ्गम् इष्यते ।  
+स्व-तन्त्र-शिष्ट्या शक्येहा शेष-भावो ऽधिकार-गः ॥ 
+
+ई श्लोक-तात्पर्यवेनॆन्दरॆ, धर्मगळ इरुविकॆयागलि इल्लदिरुवदागलि, ऎन्दरॆ अवुगळ अनुष्ठानवागलि अनुष्ठानविल्लदिरुवदागलि प्रपत्तिगॆ अङ्गवागिरबेकॆम्ब अपेक्षॆयिल्लवु. इदरिन्द भक्ति-योगद नैरपेक्ष्यवु बोधितवु. हागादरॆ शक्यगळाद नित्य-नैमित्तिकगळ आवश्यकतॆ इल्लवो ? ऎन्दरॆ, स्व-तन्त्र-विधियिन्द ई शक्यगळाद नित्य-नैमित्तिकगळन्नु अनुष्ठिसतक्कद्दु. हीगॆ याव धर्मगळू प्रपत्तिगॆ अङ्गवल्लदुदरिन्द अ-शक्यगळादुवुगळ नैराश्यदिन्द प्रपदनक्कॆ अङ्गवाद आकिञ्चन्यवु एर्पडुत्तदॆ, ऎम्बुदु. 
+
+आगलि, प्रपदनक्कॆ आनुकूल्य-सङ्कल्पवु ऒन्दु अङ्गवाद नन्तर, नित्य-नैमित्तिकगळ अनुष्ठानवु शास्त्र-विहितवागि, शास्त्रानुगुणवागि नडॆयोणवु आनुकूल्य-सङ्कल्पक्कॆ सेरिदुदादरिन्द, अवुगळ अनुष्ठानवू, अङ्गवागि एर्पडुवुदिल्लवो ? स्व-तन्त्र-विधियिन्द मात्र प्रयुक्तवादुवॆन्दु हेगॆ हेळुविरि ? ऎम्ब पूर्व-पक्षक्कॆ समाधानवन्नु मुन्दिन कारिकॆय मूलक तिळिसुत्तारॆ. ई पूर्व-पक्षक्कॆ सिद्धान्तिसि हेळुवदु आवश्यकवादुदरिन्द कारिकॆयु ऎन्दु भाविसतक्कद्दु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**वर्णाश्रम-धर्मगळू कूड शास्त्रगळल्लि विहितवादुवुगळागि आनुकूल्य-सङ्कल्पदल्ले सेरिदवादुदरिन्द अवुगळू प्रपत्तिगॆ अङ्गवॆम्ब वादद निरसनवु.** 
+
+आनुकूल्य-सङ्कल्प-मात्रवे अङ्गवु शास्त्र-चोदित-मार्गदल्लि नडॆयुवनॆम्ब सङ्कल्प-मात्रवे अङ्गवे विना, मुन्दॆ आ सङ्कल्पानुगुणवागि माडबेकाद अनुष्ठानवु अङ्गवल्लवु आदुदरिन्द भगवद्-आज्ञॆय प्रकार नडॆयतक्कद्दु आवश्यकवादुदरिन्द, अन्तवुगळ अनुष्ठानवु अङ्गवागुवुदिल्लवॆन्दु ई श्लोकदल्लि सिद्धान्तिसि हेळुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -6556,6 +8611,33 @@ y no porque **sea** la **consecuencia** de la voluntad o del pensamiento
 ननु प्रपत्त्यङ्गङ्गळिल् ‘‘आनूकूल्यस्य सङ्कल्पः’’ ऎऩ्ऱु आनुकूल्य सङ्कल्पम् अङ्गमागत् तोऩ्ऱु कैयाल् आनुकूल्याचरणमुम् अङ्गमागवेण्डावो ऎऩ्ऩ वरुळिच्चॆय्गिऱार् सङ्कल्पमात्रमेवेति । आनुकूल्यस्य सङ्कल्पः ऎऩ्गिऱ वचनत्तिल् आनुकूल्यसङ्कल्पमात्रत्तिऱ्के अङ्गत्वम् श्रुतम्; न तु तदाचरणस्य । आगैयाल् आनुकूल्याचरणम् अङ्गमागादु। आऩाल् आनुकूल्याचरणम् वेण्डावो ऎऩ्ऩिल्, तदाचरणन्तु आज्ञैयिऩाले, अदावदु विधियिऩाले प्राप्तमागिऱदु। अदु प्रपत्त्यङ्गभूतानुकूल्यसङ्कल्पप्रयुक्तमऩ्ऱु ऎऩ्गै।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अर्थवु - सङ्कल्प-मात्रम् एवाङ्गं श्रुतम्** - शास्त्रगळल्लि हेळिरुवदक्कनुगणवागि नडॆयुत्तेनॆम्ब सङ्कल्प-मात्रवे प्रपदनक्कॆ अङ्गवागि शास्त्रदल्लि विधिसल्पट्टिरुत्तदॆ, **मात्रम् एव** - ऎम्बी ऎरडु पदगळिन्द प्रयत्न अनुष्ठानादिगळु यावुवू अल्लवॆम्बुदु द्योतितवादरू, अदन्ने मुन्दॆ व्यक्तपडिसुत्तारॆ.- **आचरणं पुनः** - अवुगळ अनुष्ठानवादरो **अनङ्गं श्रुतम्** - प्रपदनक्कॆ अङ्गवल्लवॆन्दू हेळल्पट्टितु, **आज्ञया प्राप्तम्** - स्व-तन्त्राज्ञॆयिन्दुण्टादुदर अनुष्ठानवु, **न सङ्कल्प-निबन्धनम्** - आनुकूल्य-सङ्कल्पक्कॆ सेरिदुदल्लवु. 
+
+[[P152]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अनुष्ठान-सङ्कल्प-मात्रवे अङ्गवे विना, अनुष्ठानवल्लवु. हेगॆन्दरॆ उपनयनक्कॆ अङ्गवागि आचार्यनाद पिता, कर्म कुरु, मा सुषुप्ताः, बिक्षाचर्यं चर, आचार्याधीनो भव, वटुवन्नु कुरितु आज्ञापिसिदरॆ, आतनु बाढम् ऎन्दु सङ्कल्पिसि हेळुवदु मात्रवे हेगॆ अङ्गवो हागॆये इल्लियू ऎन्दु भाविसतक्कद्दागिरुत्तदॆ. अनुष्ठानगळॆल्ला उत्तर-कालीनवादुवु हागॆये विवाहदल्लू कन्या-पितृवु 
+
+> कन्यां सालङ्कृतां साध्वीं सु-शीलाय सु-धीमते ।  
+प्रयतो ऽहं प्रयच्छामि धर्म-कामार्थ-सिद्धये ॥  
+लक्ष्मी-रूपाम् इमां कन्यां तुभ्यं श्री-धर-रूपिणे ॥ 
+
+ऎन्दु हेळि तन्न अळियन्दिरन्नु कुरितु - 
+
+> धर्मे चार्थे च कामे च भवान् मा चरेद् इमाम् 
+
+प्रतिज्ञॆ माडिसलु, अळियनु नातिचरामि ऎन्दु सङ्कल्प-पूर्वक-प्रतिज्ञॆ माडुवदन्नु इदक्कॆ निदर्शनवागि भाविसबहुदु. 
+
+हीगॆ नित्य-नैमित्तिकगळॆल्ला बेरॆ स्व-तन्त्र-विधिगळ मूलक अनुष्ठेयगळॆन्दु हेळिदरॆ, इवु आज्ञा-कैङ्कर्यगळागि भगवन्-निग्रहदिन्द तप्पिसिकॊळ्ळुवुदक्कागियू, भगवत्-प्रीणनक्कागियू, फलाभिसन्धि-रहितवागि सात्विक-त्याग-पूर्वकवागियू माडतक्कद्देनो सरिये आदरॆ आनुज्ञा-कैङ्कर्यगळिगॆ अन्तह विधियिल्लद प्रयुक्त त्यागमाडबहुदॆन्दागुवदिल्लवे ? हिन्दिन आळ्वार् आचार्यरुगळ अनुष्ठानदल्लू महा-भागवतरुगळ सत्-सम्प्रदायदल्लू अनुज्ञा-कैङ्कर्यगळिगू तुम्बा प्रामुख्यतॆयन्नु कॊट्टिरुत्तारल्ला, श्री-पर-कालरू श्री-भाष्य-काररू सह बहु-श्रद्धॆयिन्द तुम्बा द्रव्यवन्नु विनियोगिसि, देव-स्थान, गोपुरादिगळन्नु कट्टिदरल्ला; नीवु हेळिद हागॆ ऒप्पिकॊण्डरॆ, अनुज्ञा-कैङ्कर्यगळु मोक्षेपायवागलि, अवुगळिगॆ अङ्गवागियागलि, भगवद्-आज्ञा-सिद्धवागियागलि, प्रायश्चित्त-रूपवागि आगलि स्वर्ग-पश्व्-आदि-कामार्थवागियागलि, अथवा स्व-सुखक्कागलि, आगुवदिल्लवु. मुक्तर हागॆ प्रत्यक्षवागि भगवत्-प्रीत्य्-अर्थवॆन्दू तिळिदु अनुष्ठिसुवदू इल्लवु; हीगिरुवाग अनुज्ञा-कैङ्कर्यगळल्लि प्रवृत्तियु हेगॆ ? अवुगळिन्द प्रपन्ननिगॆ एनु प्रयोजनवु ? ऎन्दरॆ समाधानवन्नु हेळुत्तारॆ. 
+
+[[P153]]
+
+</details>
 
 ### काम्य-कैङ्कर्य-कारणम् भिन्नम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6604,6 +8686,22 @@ Cuál **no puede incluirse** entre los comandos para **realizar** nitya y naimit
 ऎऩ्ऱु शङ्गित्तु, प्रपन्नऩुक्कु मुक्तऩैप्पोलवे भगवदभिप्रायसाक्षात्कारमिल्ला विडिलुम् शास्त्रत्ताले इन्द अनुज्ञाकैङ्कर्यानुष्ठानम् भगवाऩुक्कु अत्यन्तप्रीतिहेतुवॆऩ्ऱु तॆरिन्दु सत्त्वोत्तरऩाऩ तऩ् स्वभावत्तिऱ्कु अनुगुणमाऩ प्रीतिविशेषत्ताले सुहृत्पुत्राद्युपलालनत्तिऱ्पोले स्वयं प्रयोजनमाग इवऩ् प्रवृत्तिक्किऱाऩ् ऎऩ्गिऱार् इप्पडियागिलित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अनुज्ञा-कैङ्कर्यगळु प्रपन्ननिगॆ अनावश्यकवे ऎन्दरॆ आतनिगू उचितवाद प्रयोजनवन्नु तिळिसुत्तारॆ.** 
+
+**इप्पडियागिल्** - नित्य-नैमित्तिकानुष्ठानवु प्रपदनक्कॆ अङ्गवल्लदॆ स्व-तन्त्र-विधियिन्द अनुष्ठेयगळॆन्दु ऒप्पिकॊण्डरॆ, **नित्य-नैमित्तिकङ्गळिल् अडैक्क ऒण्णाद** - नित्य-नैमित्तिकगळल्ले सेरिदवॆन्दु भाविसलु साध्यविल्लद, **प्रभूत-कैङ्कर्यङ्गळुक्कु** - देवालय--गोपुर-मण्टपादिगळाद महत्ताद अनुज्ञा-कैङ्कर्यगळिगॆ, **प्रयोजकरार्** - प्रवर्तकरु यारु ? ऎन्दरॆ अवुगळिन्द एनु प्रयोजनवॆम्ब भाववु, **ऎन्निल्** - हीगॆ पूर्व-पक्ष तन्दरॆ, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अदर अनुष्ठानक्कॆ कॆलवु प्रयोजनगळन्नु विकल्पिसि, अवु यावुवू आगुवदिल्लवॆन्दु तिळिसि, भगवत्-प्रीणनवे मुख्य-प्रयोजनवॆन्दु कॊनॆयल्लि तिळिसुत्तारॆ. पूर्व-पक्षिय आशयवेनॆन्दरॆ नावु हेळिद हागॆ प्रपदनक्कॆ अङ्गवागि भाविसि, त्यागवु **सर्व-धर्मा परित्यज्य** ऎम्बल्लि हेळल्पट्टितॆन्दु भाविसिदरॆ, ई अनुज्ञा-कैङ्कर्यगळू अवुगळल्ले सेरिदवॆन्दु भाविसबहुदु. ईग प्रपत्तिगॆ यावुदू अङ्गवल्लवॆन्दु नैरपेक्ष्यवु सिद्धान्तिसल्पट्टिदुदरिन्द अनुज्ञा-कैङ्कर्यगळन्नु अष्टु भक्ति-विश्वासदिन्द श्री-तिरुमङ्गैयाळ्वार्. श्री-भाष्य-कार‌र् प्रभृतिगळु अनुष्ठिसलु हेतुवेनु ? इष्टु मात्रवे अल्लदॆ श्री-भाष्य-काररु तम्म चरम-दॆशॆयल्लि तम्म शिष्यरिगॆ प्रधानवागि ई अनुज्ञा-कैङ्कर्यगळु प्रपन्ननिगॆ स्व-रूप-दायकगळॆन्दु भाविसि उपदेशिसिदरल्ला अदु हेगॆ ? अवु प्रपन्ननिगॆ हेगॆ अनुष्ठेयगळु ? ऎन्दरॆ विकल्पिसि, अवु यावुवू अल्लवॆन्दु उपदेशिसि भगवत्-प्रीणनाभिसन्धिये प्रवर्तकवॆन्दु तिळिसुत्तारॆ.- 
+
+[[P154]]
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6640,6 +8738,18 @@ Estos **no pueden incluirse** entre ninguno de los otros upāyas para mokṣa.
 </details>
 
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इवै इवनुक्कु** - ई अनुज्ञा-कैङ्कर्यगळु इवनिगॆ, **उपायान्तरत्तिर् पुगादु** - बेरॆ उपायवाद उपासनक्कु अङ्गवागि सेरिद्दल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अभिप्रायवेनॆन्दरॆ इन्तह प्रभूत-कैङ्कर्यगळल्लि प्रवृत्तियुळ्ळवरु प्रपदनवन्नु अनुष्ठिसिदवरल्लवु; उपासनवन्नु अवलम्बिसिदवरु; ऎन्दु हेळलू साध्यविल्लवु. उवासनक्कॆ अङ्गवागि नित्य-नैमित्तिकगळेनो आवश्यकवु. हागॆ आवश्यकवॆन्दु ई अनुज्ञा-कैङ्कर्यगळ विषयदल्लू हेळलु साध्यविल्लवु ऎम्ब भाववु. 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गान्तर-निरपेक्षैय् आऩ प्रपत्तिक्कु परिकरङ्गळुम् आगादु।
@@ -6673,6 +8783,12 @@ porque **no requiere** tales aṅgas o ayudas.
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 अङ्गान्तर निरपेक्षयाऩ इति । इदु हेतुगर्भविशेषणम्। 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**अङ्गान्तर-निरपेक्षैयान** - ऐदु अङ्गगळल्लदॆ बेरॆ याव अङ्गगळू बेडदे इरुव, **प्रपत्तिक्कुं** - प्रपदनक्कॆ, **परिकरङ्गळुमागादु** - अङ्गगळॆन्दु भाविसलू साध्यविल्लवु. 
+
 </details>
 
 
@@ -6712,6 +8828,17 @@ La persona **no las realiza** por temor a que el Señor **se ofenda** por su **i
 अकरणत्तिलिति । अकरणत्तिल् प्रत्यवायकर मल्लामैयाल् नित्यमुमऩ्ऱु ऎऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अ-करणत्तिल्** - ई अनुज्ञा-कैङ्कर्यगळन्नु अनुष्ठिसदिद्दरॆ, **ईश्वरन्** - सर्वेश्वरनु, **वॆरुक्कुमॆन्रु** - कोपिसि निग्रहिसुवनॆन्दु, **शॆय्गिरानुमल्लन्** - प्रपन्ननु अनुष्ठिसुवनु ऎम्बुदू अल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+एकॆन्दरॆ कोपिसि निग्रहिसबेकादरॆ आज्ञा-कैङ्कर्यगळागिरबेकु; इवादरो अनुज्ञा-कैङ्कर्यगळु, हागादरॆ इन्नु स्व-प्रयोजनादिगळिगागि आचरिसुवनो ? ऎन्दरॆ हागू अल्लवॆन्दु उपवादिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6723,8 +8850,6 @@ La persona **no las realiza** por temor a que el Señor **se ofenda** por su **i
 
 पृथग् एवैषां किम् अपि पाप-क्षय-- स्वर्ग-पशु-पुत्रादि-फलान्तरम् आशास्य च न करोति । 
 </details>
-
-
 
 <details><summary>English</summary>
 
@@ -6750,6 +8875,17 @@ con el **deseo** de que ellos **provocaran**, por sí mismos, la **extinción** 
 तऩिये यिवैयिति । प्रपन्नऩुक्कुफलान्तरार्थङ्गळाऩ काम्यकर्मङ्गळ् निषिद्धङ्गळागैयाल् ऎऩ्ऱबडि। तऩ्ऩुगप्पाले प्रवर्तिक्किऱाऩुमल्लऩिदि । द्यूतविहारङ्गळ्बोले तऩ् उगप्पुक्कागवे इवैगळिल् प्रवृत्ति काणामैयाले ऎऩ्ऱबडि।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**तनिये** - बेरॆयागि ऎन्दरॆ ई उपायानुष्ठानक्केनू सम्बन्धविल्लदॆ, **इवै** - ई अनुज्ञा-कैङ्कर्यगळु, **तनक्कु** - तनगॊन्दु, **पाप-क्षय, स्वर्ग, पशु, पुत्ररे** मॊदलाद **फलान्तरत्तै** - मोक्षवल्लद बेरॆ फलगळिगॆ आशॆ पट्टु, **चॆय्गिरानु मल्लन्** - माडतक्कवनू अल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+एकॆन्दरॆ ई प्रपन्ननु वैराग्यदल्लिरुववनु, मोक्षेतर-फलाकाङ्क्षॆ इल्लदवनु; अवनिगॆ इवु यावुवू बेकिल्लवु; आगलि पाप-क्षय बेकिल्लवो ? ऎन्दरॆ अदु प्रपदनदिन्दले आगिरुवाग उपायान्तर बेकिल्लवु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6782,6 +8918,20 @@ al igual que los hombres mundanos **jugando** a los dados y cosas por el estilo,
 <details><summary>मूलम्</summary>
 
 लौकिकराऩवर्गळ् द्यूतादिगळ् पण्णुमाप्पोले केवलम् तऩ्ऩुगप्पाले प्रवर्तिक्किऱाऩुमल्लऩ्,
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**लौकिकरानव‌र्गळ्** - ई लोकद अनुभवगळल्लि इच्छॆयुळ्ळवरु, **द्यूतादिगळ पण्णुमाप्पोले** - जूजाटगळल्लि प्रवर्तिसुव हागॆयू, **केवलतन्नु कप्पाले** - केवल तन्न उपभोगक्कागि, **प्रवर्तिक्किरानुमल्लन्** -  प्रवर्तिसुवनू अल्लवु, 
+
+[[P155]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+एकॆन्दरॆ आतनिगॆ ऐहिकोपभोगगळल्लि विरक्तियुण्टागिरुवदरिन्द ऎम्ब भाववु. काम्य-कर्मगळु प्रपन्ननिगॆ सर्वात्मना त्याज्यवादुदरिन्द आ भावनॆयिन्द ऎन्दिगू प्रपन्ननु अनुज्ञा-कैङ्कर्यगळन्नु माडुवनल्लवु. अथवा 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6819,6 +8969,11 @@ lo que **sería aprobado** por Él.
 मुक्तरैप्पोले भगवदभिप्रायत्तै प्रत्यक्षमागक् कण्डु अवऩैयुगप्पिक्कैक्कु प्रवर्तिक्किऱाऩुमल्लऩ्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+मुक्तर हागॆ भगवद्-अभिप्रायवन्नू **प्रत्यक्षमाकक्कण्डु** - प्रत्यक्षवागि नोडि, **अवनै उकप्पिक्कैक्कु प्रवर्तिकारानुमल्लन्** - भगवन्तन मुखोल्लासवन्नुण्टुमाडुवदक्कागि प्रवर्तिसुवनू अल्लवु; एकॆन्दरॆ मुक्तनू आगलिल्लवु; भगवत्-प्रत्यक्षवू इन्नू उण्टागलिल्लवु आदुदरिन्द, 
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6866,6 +9021,12 @@ estos actos de **servicio tienen**, como fruto, la **propiciación** del Señor 
 मऱ्ऱॆङ्ङऩेयॆऩ्ऩिल्; इक् कैङ्कर्यङ्गळुक्कुम् फलान्तरङ्गळ् पोले भगवत्प्रीतियुम् फलमाग शास्त्रसिद्धमागैयाले
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**मत्तॆङ्गने यॆन्निल्** - हागादरॆ इन्नु एतक्कागि प्रवृत्तियु ? ऎन्दरॆ हेळुत्तारॆ - इन्तह अनुज्ञा-कैङ्कर्यगळिन्द तनगॆ निरतिशय-श्रेयस्सन्नुण्टुमाडुव शेषियु प्रीतनागुवनु, ई कैङ्कर्यगळिन्द भगवन्-मुखोल्लासवु उण्टागुत्तदॆ ऎम्ब उद्देश-मात्रदिन्द अवुगळन्नु ऎसगुवनॆन्दु तिळिसुत्तारॆ - **इक्कैङ्कर्यङ्गळुक्कु** - ई अनुज्ञा-कैङ्कर्यगळिगॆ, **फलान्तरङ्गळ् प्पोले** - स्वर्गोपभोगादिगळाद इतर-फलगळुण्टागुव हागॆये **भगवत्-प्रीतियुम् फलवाग** - भगवन्तन प्रीतियू तनगॆ बेकाद फलवॆम्बुदु, **शास्त्र-सिद्धमागैयाले** - शास्त्रदल्लि स्थापितवादुदरिन्द, 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवऩ्+++(→भगवद्)+++-उगप्पिले  
@@ -6897,6 +9058,11 @@ Como alguien en cuya naturaleza la cualidad de sattvam **predomina**,
 अवऩुगप्पिले सत्वोत्तरऩाऩ तऩ् प्रकृतिस्वभावत्ताले रुचि पिऱक्कैयाले 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अवनुगप्पिले** - भगवन्तन प्रीणनार्थवागि, **सर्वोत्तरनान** - सत्त्व-गुणगणाधिक्यवुळ्ळ, **तन् प्रकृति-स्व-भावत्ताले** - तन्न देह-सम्बन्ध-गुणगळिन्द **रुचिपिरक्कैयाले** - आ कैङ्कर्यगळन्ननुष्ठिसबेकॆम्ब अभिरुचियुण्टागुवदरिन्द, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6936,7 +9102,67 @@ de la misma manera que **muestra** su amor a sus amigos, hijos y similares.
 सुहृत्पुत्राद्युपलालनङ्गळिऱ्पोले सर्वविधबन्धुवाऩवऩुडैय प्रीणनङ्गळिले शास्त्रङ् गैविळक्काग प्रवर्तिक्किऱाऩ्।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**सुहृत्-पुत्राद्य्-उपलाळनङ्गिळिर्पोले** - स्नेहित, पुत्र आदि-शब्ददिन्द पत्नी-बन्धु-वर्गवु हेळल्पट्टरु; इवरुगळ प्रीतियु सरस-सल्लापादिगळिन्द उण्टागुव हागॆ, **सर्व-विध-बन्धुवानवनुडैय** - 
+
+> पिता त्वं माता त्वं दयित-तनयस् त्वम् 
+
+ऎन्दु मत्तु 
+
+> त्वम् एव माता च पिता त्वम् एव त्वम् एव बन्धुश् च गुरुस् त्वम् एव 
+
+ऎम्बल्लू (शरणागति-गद्य) हेळिरुव हागॆ, सर्व-विध-बन्धुवादवनिगॆ **प्रीणनङ्गळिले** - प्रीतियन्नुण्टु माडुवदक्कागिये, **शास्त्रम् कैविळक्काग** - शास्त्रवे तनगॆ कैदीविटिगॆ ऎन्दु भाविसि, ऎन्दरॆ शास्त्रवे तनगॆ मार्ग-दर्शियॆन्दु भाविसि, **प्रवर्तिक्किरान्** - प्रपदन-निष्ठनु प्रवर्तिसुवनु. 
+
+[[P156]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+आज्ञा-कैङ्कर्यवन्नु, श्री-यति-वर्यरू श्री-तिरुमङ्गैयाळ्वारवरू मॊदलादवरू तुम्बा आदरदिन्दलू भक्ति-विश्वासदिन्दलू अनुष्ठिसिद सम्प्रदाय-रीत्या, प्रपन्ननू सह केवल भगवन्-मुखोल्लासक्कागिये अनुष्ठिसुत्तानॆये विना अन्यथा अल्लवु, इन्नु याव फलक्कागियू अल्लवु, मेलिन वाक्यदल्लि ई कैङ्कर्यगळिन्द भगवत्-प्रीणन-रूप-फलवु शास्त्र-सिद्धवॆन्दु हेळल्पट्टितु. ऎल्लि ऎन्दरॆ शाण्डिल्य-स्मृतियन्नु उदाहरिसबहुदु. १४४८ नॆय पुटवन्नु नोडि, 
+
+> यस् तु कारयते भूमौ विष्णोर् आयतनानि वै ।  
+तस्य तुष्टो भवेद् विष्णुस् सर्व-लोकेश्वरः प्रभुः ॥  
+शुभे त्व् असौ तुष्यति दुष्-कृते तु  
+न तुष्यते ऽसौ परमश् शरीरी ।  
+अनादृत-सुतङ् गेही पुरुषं नाभिनन्दति ।  
+तथानर्चित सद्-भक्तं भगवान् नाभिनन्दति ॥  
+मम मद्-भक्त-भक्तेषु प्रीतिर् अभ्यधिका भवेत् ।  
+तस्मान् मद्-भक्त-भक्ताश् च पूजनीया विशेषतः ॥ 
+
+ऎम्बुदागि प्रमाणविदॆ इदरर्थवेनॆन्दरॆ - 
+
+> ई लोकदल्लि यावनु विष्णु-देवालयादिगळन्नु निर्मिसुवनो, अवनु सर्व-लोकेश्वरनाद सर्व-समर्थनाद विष्णुविगॆ प्रीणनवन्नुण्टुमाडुवनु. शुभ-कर्मवागिद्दरॆ सर्व-शरीरियागि सर्व-श्रेष्ठनाद भगवन्तनु सन्तोषिसुवनु अदु दुष्कृतवागिद्दरॆ आनन्दिसुवदिल्लवु. हागॆये यजमाननू सह आनन्दिसल्पडद पुत्रनुळ्ळ पुरुषनन्नु कुरितु आनन्दिसुवदिल्लवु. हागॆये तन्न सद्-भक्तनन्नु पूजिसदे इरुवनन्नु कण्डु भगवन्तनु सन्तोषिसुवदिल्लवु 
+>
+>> नन्न भक्तरुगळ भक्तरुगळल्लू प्रीतियु ननगॆ विशेषवागि उण्टु. आदुदरिन्द अन्तह भक्त-भक्तरुगळु विशेषवागि पूजिसलु अर्हरु  
+
+ऎन्दु हेळल्पट्टिरुत्तदॆ. इल्लि **शास्त्रं कैविळक्काग प्रपर्तिक्किरान्** ऎन्दु हेळिरुवदरिन्द प्रपन्ननिगॆ, शास्त्रीय नियमनाधिकारदल्लि हेळल्पट्ट शास्त्रानुगुणवाद प्रवृत्तिये आवश्यकवॆम्बुदु ज्ञापिसल्पट्टितु. आज्ञा-कैङ्कर्यगळु हेगॆ शास्त्रानुगुणवागि नडॆसतक्कद्दो, अदॆ मेरॆगॆ अनुज्ञा-कैङ्कर्यगळन्नू शास्त्र-रीत्या नडॆसतक्कद्दु. देवालयदल्लि स्वामिगॆ उत्सववन्नु नडॆसुत्तेनॆन्दु, बिसिलल्लागलि मळॆयल्लागलि सुत्तिसबारदु. धूप-दीप-निवेदन शात्तुमॊरैगळन्नु शास्त्र-क्रम-रीत्या नडॆसतक्कद्दु; व्यत्यस्त-क्रमवु कूडदु स्वामिगॆ तुळसियन्नु ऎत्तुवदु निषिद्ध-दिनगळल्लि कूडदु निषिद्ध-पुष्पगळन्नू समर्पिसलागदु. आदुदरिन्द 
+
+[[P157]]
+
+> तस्माच् छास्त्रं प्रमाणन् ते कार्याकार्य-व्यवस्थितौ (गी १६-२४) 
+
+ऎम्ब लीला-सारथि-वाक्यवन्ने मुन्दॆ उदाहरिसुत्तारॆ. अनुज्ञा-कैङ्कर्यगळल्लू शास्त्र-क्रम-व्यत्यासवु सर्वदा कूडदॆन्दु ऒन्दु कारिकॆयन्ने दयपालिसिरुत्तारॆ. 
+
+> अनुज्ञया प्रवृत्ते ऽपि क्रम-कोपादि-सम्भवे ।  
+आज्ञातिक्रम-दोषस् स्यान् नियतो दुरत्ययः ॥ 
+
+१४७१ नॆय पुटवन्नु नोडि. प्रपन्ननिगॆ शास्त्रवे कैविळक्कागिरबेकॆम्ब उपपादनॆगॆ १४२८ नॆय पुटवन्नु नोडि. ई मेलिन वाक्यदल्लि **सुहृत्-पुत्राद्य्-उपलालनगळिर् पडिये** ऎन्दु उपमॆयन्नु हेळिरुवदु ई मेलिन **"अनादृत-सुतङ् गेही"** ऎम्ब शाण्डिल्य-वाक्यवन्नु स्मरिसुव हागॆ माडुत्तदॆ. 
+
+</details>
+
 ## न कैङ्कर्ये शास्त्र-त्यागः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**प्रपन्ननिगॆ तन्न स्व-रूप-ज्ञानवीग मुख्यवु, शास्त्र-ज्ञानदिन्दागुव फलवेनु ? ऎम्ब पूर्व-पक्षवन्नु माडि परिहरिसुत्तारॆ.** 
+
+अनुज्ञा-कैङ्कर्यगळू अवश्यकवागि माडतक्कद्दु. इल्लदिद्दरॆ भगवत्-प्रीणनानुग्रहगळिगॆ बदलागि भगवन्-निग्रह उण्टागुत्तदॆन्दू स्थापिसल्पट्टितु. ई अनुज्ञा-कैङ्कर्यगळेनु त्याज्यवे उपादेयवे ऎन्दु तिळिसलु तन्न शेषत्व-स्व-रूप-ज्ञानदिन्दले साध्यवागिरुवाग, शास्त्र-ज्ञानवु एतक्कॆ ? प्रपन्ननिगॆ निरर्थकवल्लवो ? अ-प्रपन्ननिगॆ इन्नू आवश्यकवॆन्दरॆ ऒप्पबहुदु. प्रपन्ननिगॆ एतक्कॆ ? ऎन्दु पूर्व-पक्षवन्नु अनुवाद माडि वरिहरिसुत्तारॆ. 
+
+[[P158]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6988,6 +9214,11 @@ el **conocimiento** de su propia naturaleza esencial (svarūpa)?
 इदुवुम् अनुपपन्नमित्यन्तेन । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इव्विडत्तिल्** - ई स्थळदल्लि ऎन्दरॆ ई सन्दर्भदल्लि, **शिलर्** - कॆलवरु, **सर्वेश्वरन् पक्कलिले** सर्वेश्वरनन्नुद्देशिसि, **सर्व-भर-न्यासं पण्णिन** - समस्त-रक्षण-भरवन्नु भगवन्तनल्लि समर्पिसिद, **विवेकिक्कु** - विवेक-ज्ञानवुळ्ळ प्रपन्ननिगॆ, **त्याज्योपादेय-विभाग-निर्णायकम्** - ई कर्मानुष्ठानवु बिडतक्कद्दु, इदन्नु अङ्गीकरिसतक्कद्दॆम्ब विभागवन्नु निर्णयिसवन्ताद्दु, **स्व-रूप-ज्ञानमन्रो** - शेषि-शेषत्व-रूप--स्व-रूपद ज्ञानवल्लवो ? 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7024,6 +9255,11 @@ why, then, **should he follow** the **dictates** of the śāstras?".
 इप्पडि इवऩ् स्वरूपवश्यऩामत्तऩैबोक्कि शास्त्रवश्यऩाम्बडि यॆऩ्ऩॆऩ्ऱु सॊल्लुवर्गळ्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि** - हीगॆ, **इवन्** - ई प्रपन्ननु, **स्व-रूप-वश्यनामत्तनै पोक्कि** - स्व-रुप-ज्ञानक्कॆ अधीननागुवनु, अष्टु मात्रवल्लदॆ, **शास्त्रवश्य-नाम्पडियन्रॆन्रु शॊल्लुवर्गळ्** - शास्त्र-ज्ञानक्कॆ अधीननागबेकॆम्बुदु हेगॆ ? ऎन्दु कॆलवरु आक्षेपिसुवरु, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7052,6 +9288,11 @@ Esta **pregunta** es **inapropiada**,
 इदुवुमनुपपन्नम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इदुवुम् अनुपपन्नम् - हिन्दॆ सर्व-धर्मान् परित्यज्य** ऎम्बल्लि पूर्व-पक्षगळन्नु माडिदहागॆये, इदू सह, समञ्जसवादुदल्लवु 
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7091,6 +9332,11 @@ porque, si **se determina** cuál es su naturaleza esencial con la **ayuda** de 
 शास्त्रत्ताले स्वरूपज्ञानम् अदावदु आत्मस्वरूपम् भगवदेकशेषमॆऩ्गिऱ ज्ञानम् पिऱन्दवऩुक्कुम् स्वरूपानुगुणमाग त्याज्योपादेयङ्गळाऩ पुरुषार्थतदुपायङ्गळै मुक्तऩामळवुम् शास्त्रङ्गॊण्डे अऱियवेण्डुमॆऩ्गिऱार् स्वरूपमिऩ्ऩबडियिरुक्कुमित्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ऎङ्गने ऎन्निल् ?** - अदु हेगॆ समञ्जसवल्लवु ऎन्दरॆ, उपपादिसि हेळुत्तारॆ. स्व-रूप-ज्ञान-मात्रदिन्द आनुज्ञा-कैङ्कर्यगळन्नु अनुष्ठिसिदरॆ, शास्त्र-विरुद्ध-प्रक्रियॆगळागि, भगवत्-प्रीणन-सम्पादक उपचारगळागदॆ अपचारगळागबहुदु. आदुदरिन्द अवुगळू कूड शास्त्रानुगुणवागिये नडॆसबेकागिरुवदरिन्द शास्त्र-ज्ञानवु आवश्यकवॆन्दु तिळिसुत्तारॆ - **स्व-रूपम् इन्नपडि इरुक्कुमॆन्रु शास्त्रत्तैक्कॊण्डु अरुदि इट्टाल्** - शेषियादवनिगॆ शेषनादवनु हीगॆ नडॆदरॆ भोग्यवागुत्तदॆन्दु इदे तन्न स्व-रूपवु ऎन्दु शास्त्र-मूलकवागि तिळुवळिकॆयुण्टादरॆ, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7146,6 +9392,20 @@ y también los upāyas para **asegurar** estos objetivos.
 इस्स्वरूपत्तुक्किऩ्ऩ पुरुषार्थमुम् तदुपायमुम् त्याज्यम्, इऩ्ऩ पुरुषार्थमुम् तदुपायमुमुपादेयमॆऩ्ऱु पिरित्तुत्तॆळिगैक्कु मुक्तऩामळवुम् शास्त्रमॊऴिय वऴियिल्लै।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इस्व-रूपत्तुक्कु** - ई तन्न शेषनागि, तद्-एक-भोग्यता-बुद्धियिन्द इरुव स्व-रूपक्कॆ, **इन्न पुरुषार्थमुम् तद्-उपायमुम् त्याज्यम्** - ई ऐहिक-पुरुषार्थवू अदक्कॆ साधनवाद उपायवू त्याज्यवॆन्दू, **इन्न पुरुषार्थमुम् तद्-उपायम् उपादेयमॆन्रु** - ई भगवद्-आलय-निर्माण, माला-करण--दीपारोपण--तुलस्य्-आहरण-फलगळू, तत्-साधनगळू सह उचितवॆन्दु, **पिरित्तु तिळुगैक्कु** - विभागिसि विवेकिसि तिळियुवदक्कॆ, **मुक्त-नामळवुम्** - मुक्तियन्नु हॊन्दुववरॆगू, **शास्त्रमॊळिय वळियिल्लै** - शास्त्रवन्नु बिट्टरॆ बेरॆ मार्गविल्लवु. 
+
+[[P1559]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+काम्य-कर्मगळू तत्-साधनगळू सरियल्लवु, तनगॆ योग्यवल्लवॆन्दु तिळियलू शास्त्रवु बेकु. याव कैङ्कर्यगळु अनुज्ञा-कैङ्कर्यगळागि तन्न स्व-रूपक्कॆ उचितवादवॆन्दू, अदक्कॆ साधनगळु यावुवॆन्दू इवुगळन्नॆल्ला तिळियलू सह, शास्त्र बिट्टरॆ मार्गवे इल्लवॆम्ब भाववु. इवॆल्ला शास्त्रीय-नियमनाधिकारदल्लि स-दृष्टान्तगळागि उपपादितवु. धनुर्-मासदल्लि उषः-कालाराधनॆयु शास्त्र-विहितवु, अदन्नु त्यजिसि, मध्याह्न १२ गण्टॆगॆ आचरिसुवदु अपचारवु. पुष्पगळन्नू तुलसियन्नू तन्दु कॊडुवदेनो स्वामिगॆ उपचारवे, आदरॆ शास्त्र-निषिद्ध-पुष्पगळन्नू भानुवारादि-निषिद्ध-कालगळल्लि तन्द तुळसियन्नू स्वामिगॆ अर्पिसिदरॆ उपचारवागुवदिल्लवु. अपचारवागुत्तदॆ इदक्कॆल्ला शास्त्र-ज्ञानवु आवश्यकवु. केवल स्व-रूप-ज्ञानवु ई सन्दर्भगळल्लि अनुकूलिसुवदिल्लवु केवल स्व-रूप-ज्ञानदिन्द एनन्नु तिळियबहुदु ? ऎन्दरॆ तिळिसुत्तारॆ.- 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वरूपत्तिल् शेषत्वादिगळैक् कॊण्डु  
@@ -7187,6 +9447,11 @@ que **son apropiados** para el śeṣa.
 औचित्य मात्रमऱियलाम् अत्तऩैयिति । शेषभूतऩुक्कु शेषियुगन्द कैङ्कर्यमे पुरुषार्थमॆऩ्ऱु इव्वळवु मात्तिरमऱियलामॆऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**स्व-रूपत्तिल्** - तन्न स्व-रूप-ज्ञानद, **शेषत्वादिगळैक्कॊण्डु** - शेषत्व मॊदलादवुगळ मूलकवागि, इल्लि आदि-शब्ददिन्द पराधीनत्व अनन्य-भोग्यत्वादिगळु हेळल्पट्टवु इवुगळ ज्ञान-मूलकवागि, **शिल औचित्य-मात्रमरियुम्** - याव कैङ्कर्यगळु उचितवॆम्बुदन्नु मात्र तिळियबहुदु; **इत्तनैयल्लदु** - इष्टु मात्रवे अल्लदॆ, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7227,6 +9492,11 @@ para que **pueda complacer** al śeṣī,
 आऩाल् अलभ्यमानांशमॆदुवॆऩ्ऩ वरुळिच्चॆय् किऱार् अल्लदु इति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**शेषियुगन्द प्रकारमिदु** - शेषियाद भगवन्तनिगॆ प्रीणनवुण्टागुव क्रम हीगॆ, धर्मदिन्द अर्जितवाद धनवागिद्दरेने प्रीणनवु इत्य्-आदिगळु, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7252,6 +9522,12 @@ para que **pueda complacer** al śeṣī,
 <details><summary>मूलम्</summary>
 
 इक् कैङ्कर्यत्तुक्कुपायङ्गळिवैय् 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**इक्कैङ्कर्यत्तुक्कु** - ई कैङ्कर्यक्कॆ, **उपायङ्गळु इवै** - साधनगळु इवु 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7282,6 +9558,11 @@ El **conocimiento** de la propia naturaleza esencial **no puede indicar**, inequ
 ऎऩ्ऱु स्वरूपज्ञानम् नियमित्तुक् काट्टादु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ऎन्रु** - ऎन्दु, **स्व-रूप-ज्ञानवु नियमित्तुक्काट्टादु** - विमर्शिसि तोरिसलारदु 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7322,6 +9603,13 @@ y **presta servicio** con sustancias prohibidas (como el opio, por ejemplo)
 शास्त्रत्तै अनादरित्तुक् कैङ्कर्यङ्गळैप् पण्णिऩाल् उपचारापचारविभाजकशास्त्रम् व्यर्थमामॆऩ्गिऱार् आऩ पिऩ्बु इत्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आनपिन्बु** - हीगादनन्तर, **शास्त्रत्तै अनादरित्तु** - शास्त्रवन्नु तिरस्करिसि, **निषिद्ध-द्रव्यङ्गळै कॊण्डादल्** - निषिद्धगळाद द्रव्यगळ मूलकवागलि, 
+
+[[P160]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7348,6 +9636,12 @@ o incluso entre sustancias que **están permitidas**, para **prestar servicio** 
 <details><summary>मूलम्</summary>
 
 विहितङ्गळ् तऩ्ऩिलुम् न्यायार्जितमल्लाद द्रव्यङ्गळैक् कॊण्डादल् 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**विहितङ्गळ् तन्निलुम्** - ऒन्दु वेळॆ निषिद्धगळिल्लदॆ शास्त्र-विहितगळागिद्दरू, **न्यायार्जितमल्लाद द्रव्यङ्गळैक्कॊण्डादल्** - न्यायवागि संवादिसदे इरुव द्रव्यगळ मूलकवागलि ऎन्दरॆ ऒब्बरिगॆ अन्याय माडि सम्पादिसिद द्रव्य-मूलकवागलि, 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7384,6 +9678,34 @@ entonces **no habría** diferencia entre conducta reverencial y ofensa.
 <details><summary>मूलम्</summary>
 
 तऩक्कु रुचित्तबडिये शास्त्रविरुद्धमा यिरुक्कुङ्गट्टळैयिले कैङ्कर्यत्तै नडत्तप् पार्त्ताल् उपचारापचारङ् गळुक्कुप् पिरिविल्लैयाम्। 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**तनक्कु रुचित्त पडिये** - शास्त्रवन्नु बिट्टु तनगॆ इष्टबन्द हागॆ ऎन्दरॆ ईरुळ्ळि हुळि तनगॆ इष्टवॆन्दु अदन्नु भगवन्तनिगॆ निवेदन माडुवदु, **शास्त्र-विरुद्धमायिरुक्कु कट्टळैयिले** - शास्त्र-विरुद्धवागिरुव रीतियल्लि, **कैङ्कर्यत्तै नडत्तप्पार्ताल्** - कैङ्कर्यवन्नु नडॆसिदुदादरॆ, **उपचारापचारङ्गळुक्कु** - इवुगळु भगवन्तनिगॆ उपचार-रूपवादवु, इवु अपचारगळादुवु ऎम्ब **पिरिवु** - विभागवु, **इल्लैयाम्** - इल्लवागुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अपचारगळु उपचारगळागि ऎरडू ऒन्देयागुत्तवॆ इदरिन्द अनुज्ञा-कैङ्कर्यगळॆन्दु तन्न इष्टबन्दन्तॆ माडतक्कद्दल्लवु. अवुगळन्नु सह शास्त्रानुसारवागि नडॆसतक्कद्दॆम्बुरु तात्पर्यवु. देवरिगॆ माला-कैङ्कर्यवन्नु माडुत्तेनॆन्दु तुलसियु इल्लदॆ, मनॆय हित्तलल्लि बेविन मरविद्दरॆ अदर सॊप्पिन मालॆयन्नु कट्टि मनबन्दन्तॆ समर्पिसलागदॆम्ब भाववु. मत्तु ऒब्बन तलॆयन्नु हॊडॆदु बाचिकॊण्डु बन्द हणदिन्द स्वामिगॆ उत्सवादि-कैङ्कर्यगळन्नु नडॆसकूडदॆम्ब भाववु. इवुगळु उपचारगळागुवदिल्लवु. अपचारगळागि भगवद्-अनुग्रहवु उण्टागलारदॆम्ब भाववु. श्री-कृष्ण-भगवानरिगॆ दुर्योधनन धनवु अ-धर्मदिन्दुण्टादुदरिन्द आतन शास्त्र-विरुद्धातिथ्यवन्नु परिग्रहिसलिल्लवु. आ कारणदिन्दले भीष्म-द्रोणर प्रार्थनॆयन्नू अङ्गीकरिसलिल्लवु. श्री-रङ्ग-नाथनु वेश्या-स्त्री कट्टिसिद गोपुरवन्नु अनुमोदिसलिल्लवु. पित्रार्जितवाद द्रव्यद मूलक परम-भागवतराद विदुररु माडिद आतिथ्यवु **"शुचीनि गुणवन्ति च"** ऎम्बल्लि हेळिरुव हागॆ प्रशस्तवागि उपादेयवायितु. हागॆये कुचेलर पृथुक-तण्डलवू, ऋष्य्-अंश-सम्भूतराद गोप-स्त्रीयर क्षीर-दधि-नवनीतगळन्नू तावागिये परिग्रहिसिदरु. हागॆये शबरियु समर्पिसिद फलवू श्री-राम-चन्द्रनिगॆ प्रियवादुदायितु ई सन्दर्भदल्लॆल्ला शास्त्र-विरुद्धवादुदल्लवादुदरिन्द उपादेयवु. गजेन्द्रन कमल-पुष्पवू माला-कारन हारवू उपादेयवागि परिणमिसितु. ई सन्दर्भदल्लि 
+
+> कौसल्या-कल्पितं गेहे कानने लक्ष्मणार्पितम् ।  
+पम्पायां शबरी-दत्तं यद् भरद्वाज-कल्पितम् ॥  
+नवनीतं घृतं क्षीरं व्रजैः यद् यद् समर्पितम् ॥ 
+
+इत्य्-आदि अनुसन्धेयवु 
+
+[[P161]]
+
+आगलि, भगवच्-छास्त्रदल्लि हेळिरुवदेनॆन्दरॆ - 
+
+> आत्मनो यत् प्रियं भोज्यं तत् सर्वं विनिवेदयेत् 
+
+> तनगॆ यावुदु प्रियवाद भोजनवो अदन्नॆल्ला भगवन्तनिगॆ निवेदनवागि समर्पिसबहुदु 
+
+ऎन्दु भगवच्-छास्त्रदल्लि हेळिदॆयल्ला ऎम्ब पूर्व-पक्ष तन्दरॆ, अदक्कॆ समाधानवन्नु हेळुत्तारॆ. एनॆन्दरॆ निनगॆ प्रियवाद भोज्यवु शास्त्र-विहितवादुदे आगिरबेकु अन्तह भोज्यवन्ने समर्पिसतक्कद्दॆम्बुदु शास्त्राभिप्रायवु. 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7428,6 +9750,21 @@ y por lo tanto **evitado** por los **buscadores** de mukti.
 शास्त्रमऩ्ऱिक्के तऩ् रुचिमात्रत्तालेये कैङ्कर्यम् पण्णलामॆऩ्ऱाल् पूर्वर्गळ् त्याज्यङ्गळॆऩ्ऱुविट्टवैगळैयॆल्लाम् तऩ् रुचियाले सॆय्दाल् अदुवुम् कैङ्कर्यमागप् प्रसङ्गिक्कुमॆऩ्गिऱार् अप्पोदु इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अप्पोदु** - आ सन्दर्भदल्लि ऎन्दरॆ शास्त्रवन्नु अनादरिसि, तन्न इष्टानुसारवागि नडॆदुदादरॆ, **तन्न रुचियॊळिय** - तन्न इष्टवल्लदॆ, **वेरुनियामकमिल्लामैयाले** - बेरॆ यावुदु व्यवस्थिस तक्कद्दिल्लवादुदरिन्द, **मुमुक्षुक्कळ्** - मोक्षार्थिगळु, **तविर्न्दु पोरुकिर** - परित्याग माडुव, **सर्व-निषिद्धङ्गळैयुं** - समस्त-निषिद्ध-द्रव्यगळन्नू, आहार, पान अर्चन, निवेदनगळिगॆ निषिद्धगळॆन्दु हेळल्पट्टवुगळन्नु, **तन् रुचि-मात्रत्ताले** - तनगॆ इष्टवादवु प्रियवादुवु ऎम्ब मात्रदिन्द, **कैङ्कर्यमाग अनुष्ठिक्क प्रसङ्गिक्कुम्** - कैङ्कर्यवॆन्दु भाविसि, समर्पिसबेकागुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+तनगॆ प्रियवादवु ऎन्दु इष्टु मात्रवे इट्टुकॊण्डरॆ अवु शास्त्र-विरुद्धवादवुगळागि निषिद्धगळादरू चिन्तॆयिल्ल, समर्पिसबहुदॆन्दागुत्तदॆ. आदुदरिन्द तनगॆ प्रियवागियू इरबेकल्लदॆ, शास्त्र-विरुद्धगळल्लदॆ आ कारणदिन्द निषिद्धवल्लदवुगळागियू इरबेकॆन्दु मुन्दिन वाक्यदिन्द हेळुत्तारॆ.- भगवच्-छास्त्र-प्रमाणद **"आत्मनो यत् प्रियं भोज्यम्"** ऎम्ब वाक्यदल्लू इदे अभिप्रायवु. शास्त्र-विरुद्धवल्लद **"यत् प्रियं भोजम्"** ऎम्बुदे तात्पर्यवु. हागॆये स्वामिगॆ पुष्पगळन्नु अष्टोत्तर-शत-नाम-रूपदल्लि समर्पिसुवाग  **"वेदोक्त पुष्पाणि समर्पयामि"** ऎन्दे सङ्कल्पवु शास्त्र-निषिद्ध-पुष्पगळु कूडदु. 
+
+[[P162]]
+
+इदन्ननुसरिसिये श्री-यति-वर्यरु तावु रचिसिद **"नित्य"**वॆम्ब ग्रन्धदल्लि हागॆये उपदेशिसिरुत्तारॆन्दु मुन्दिन वाक्यदिन्द तिळिसुत्तारॆ - 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7474,6 +9811,23 @@ que **no están prohibidos** en los śāstras, etc."
 प्रपन्नऩ् सर्वविषयत्तिलुम् शास्त्रवश्यऩागवे इरुक्कवेण्डुमॆऩ्बदिल् श्रीभाष्यकारर् सम्मतियै स्थालीपुलाकन्यायत्ताले ओरिडत्तिल् काट्टुगिऱार् हविर्निवेदनत्तिलुमिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**हविर्-निवेदनत्तिलुम्** - ई भगवद्-आराधनॆ ऎम्ब यज्ञदल्लि भगवन्तनिगॆ हविस्सिन रूपदल्लि भोज्यासनवन्नु अलङ्करिसुव हागॆ भाविसि, निवेदन-रूपदल्लि समर्पिसुव पदार्थगळ विषयदल्लू ऎम्ब भाववु, **श्री-भाष्यकार‌र्** - श्री-यति-वर्यरु, **शास्त्राविरुद्धानि ऎन्रु** - शास्त्र-विरुद्धगळल्लद भोज्य-पदार्थगळन्नु सम्पादिसिक्कॊण्डु ऎन्दु **अरुळिच्चिय्दार्** - अप्पणॆ कॊडिसिरुत्तारॆ - 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अवर पूरा वाक्यवु यावुदॆन्दरॆ - 
+
+> लोके प्रियतमान्य् आत्मनश् च इष्टतमानि, शास्त्राविरुद्धानि सम्भृत्य शोषणादि कृत्वार्घ्य-जलेन सम्प्रोक्ष्यास्त्र-मन्त्रेण रक्षां कृत्वा, सुरभि-मुद्रां प्रदर्श्य अर्हण-पूर्वकं हविर् निवेदयेत्
+
+ऎन्दु इरुत्तदॆ निवेदन-रूपदल्लि समर्पिसुव हविस्सिगॆ मूरु गुणगळिरबेकॆन्दु हेळिरुत्तारॆ - (१) लोकदल्लि ऎल्लरिगू प्रियतमवादवुगळागियू (२) तनगू इष्टतमवागियू (३) शास्त्र-विरुद्धवल्लदवुगळागियू इरतक्कद्दॆन्दु हेळिरुत्तारॆ. आदुदरिन्द प्रपन्नरिगॆ शास्त्र-वश्यतॆ बेकिल्लवॆम्ब वादवु ई यति-वर्यर दिव्य-सूक्तियिन्दलू निरस्तवु. प्रपन्ननिगॆ कैङ्कर्यवु प्रियवागिद्दुदादरॆ साकु; शास्त्र-वश्यतॆ बेकागिल्लवॆम्ब वादवन्नु श्री-यति-वर्यर दिव्य-सूक्तियिन्दले निराकरिसिरुत्तारॆ. प्रपन्नाप्रपन्नरिगू ई शास्त्र-वश्यत्ववु मुख्यवॆन्दु स-प्रमाणवागि मुन्दिन वाक्यगळिन्द समर्थिसि हेळुत्तारॆ. 
+
+[[P163]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7515,6 +9869,13 @@ y **sujeto** a los **dictados** de los śāstras.
 प्रपन्नऩुम् शास्त्रवश्यऩागवे इरुक्क वेण्डुमॆऩ्बदै निगमिक्किऱार् आगैयाल् शास्त्रवश्यऩायिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आदुदरिन्द ऎल्लरिगू शास्त्र-वश्यतॆयु अत्यावश्यकवु**
+
+**आगैयाल्** - हीगॆ श्री-यति-वर्यर दिव्य-सूक्तियिन्दलू शास्त्र-विरुद्धवल्लद द्रव्यगळु भगवत्-कैङ्कर्यक्कॆ उपादेयगळॆन्दु विधिसल्पट्टिरुवदरिन्द, **शास्त्र-वश्यनाय्** - मुमुक्षुवू कूड शास्त्र-वश्यनागिये इद्दुकॊण्डु, तनगॆ शास्त्र-वश्यतॆयु बेकागिल्लवॆन्दु भाविसुवदु अनुचितवॆम्ब तात्पर्यवु **तन् अधिकारत्तुक्कु शास्त्रमडैत्त** - प्रपन्ननागिरुव तन्न अधिकारक्कॆ शास्त्रवु उचितवॆन्दु सम्मतिसिद, कैङ्कर्यगळन्नु, **पण्ण प्राप्तं** - माडतक्कद्दु विधायकवु. हीगॆ तावु स्थापिसिद अभिप्रायद समर्थनॆगागि श्री-गीता-चार्यर दिव्य-सूक्तियन्नु उदाहरिसि शास्त्र-वश्यतॆयु प्रपन्नरे आगलि अ-प्रपन्नरे आगलि सर्वरिगू आवश्यकवॆन्दु स्थापिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7575,6 +9936,37 @@ Por lo tanto, mientras estés aquí,
 प्रपन्नऩ् शास्त्रवश्यऩागवे इरुक्कवेण्डुमॆऩ्बदिल् श्रीगीतावचनत्तै उदाहरिक्किऱार् तस्माच्छास्त्रमिति । कार्याकार्यव्यवस्थितौ – कार्याकार्यविभागे । इव्वुपदेशम् अप्रपन्नमात्रविषयमागादो ऎऩ्गिऱ शङ्गैयैप् परिहरिक्किऱार् सर्वाधिकारिकळुक्कुमिति । अधिकारिविशेषम् सॊल्लामैयाल् ऎऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**(१) तस्मात्** - शास्त्र-विधिगनुसारवाद प्रवृत्तिगळिल्लदिद्दरॆ याव पुरुषार्थगळू लभिसुवदिल्लवॆन्दु हेळल्पट्टिरुवदरिन्द, **ते** - दैव-स्व-भाव-युक्तनाद निनगे, (अर्जुननिगॆ भगवन्तन वाक्यवु) **शास्त्रवे प्रमाणवु;** यावुदक्कॆ ऎन्दरॆ हेळुत्तारॆ **कार्याकार्य-व्यवस्थितौ** - श्रुतिगळल्लि हीगॆ माडु ऎन्दु विधिसिरुवुदक्कॆ विधि ऎम्ब हॆसरु, हीगॆ माडकूडदॆन्दु हेळिरुवदक्कॆ निषेधवॆन्दु हॆसरु, हीगॆ विधि-निषेध-वाक्यगळिगनुसारवागि नडॆयुवदीग कार्य, अदक्कॆ विरुद्धवागि नडॆयुव कृत्याकरण--अ-कृत्य-करणगळॆरडू अ-कार्यगळु, इवुगळन्नु निष्कर्षिसि तिळियुवदरल्लि, शास्त्रवे प्रमाणवु शास्त्र-शब्ददिन्द उपनिषत्तुगळिन्द कूडिद वेदगळू, अवुगळ उपब्रह्मणगळू हेळल्पट्टवु. अवु हदिनाल्कॆन्दु 
+
+> अङ्गानि वेदाश् चत्वारो मीमांसा न्याय-विस्तरः ।  
+पुराणं धर्म-शास्त्रं च विद्या ह्य् एताश् चतुर्दश ॥ 
+
+ऎम्बल्लि हेळल्पट्टवु ऎल्ला पुराणगळू प्रमाणवल्लवु. सात्त्विकवॆन्दु विभागिसल्पट्ट आरु मात्रवे प्रमाणगळु. व्यास-सूत्रगळू शास्त्रक्कॆ सेरिदवु. स्मृतिगळल्लू कॆलवु मात्रवे ग्राह्यवे कॆलवन्नु श्री-व्यासरु उपादेयवल्लवॆन्दु खण्डिसिरुत्तारॆ 
+
+> श्रुति-स्मृती तु विप्राणां चक्षुषी द्वे विनिर्मिते ।  
+काणस् तत्रैकया हीनो द्वाभ्याम् अन्धः प्रकीर्त्यते ॥ 
+
+ऎम्ब श्री-पराशरोक्तियु इरुत्तदॆ विप्ररिगॆ श्रुति-स्मृतिगळॆरडू ऎरडु कण्णुगळागि निर्मिसल्पट्टिवॆ. अवुगळल्लि ऒन्दर ज्ञानविल्लदवनु ऒक्कण्णनु; ऎरडर ज्ञानवू इल्लदवनु सम्पूर्ण कुरुडनॆन्दु हेळल्पट्टिरुत्तदॆ. आदुदरिन्द ईग युद्ध माडुवदु न्यायवे ? युद्ध माडदिरुवदु न्यायवे ? ऎम्ब विवेक-ज्ञानक्कॆ शास्त्रवे प्रमाणवॆन्दु श्री-गीता-चार्यरु उपदेशिसिदरु. 
+
+[[P164]]
+
+आदुदरिन्द **शास्त्र-विधानोक्तं** - शास्त्र-प्रक्रियॆगॆ अनुसारवागि हेळिदुदन्नु, **ज्ञात्वा** - विवेकिसि तिळिदु, **इह** - ई लोकदल्लि आथवा ई युद्ध माडुव सन्दर्भदल्लि, ई प्रकरणक्कनुगुणवागि अर्थ बरॆयबेकादरॆ, **इह** - ई सर्व-धर्मान् परित्यज्य ऎम्बर्थ निरूपणॆयल्लि अनुज्ञा-कैङ्कर्यगळु माडतक्कवे ? अथवा त्याज्यवे, मत्तु माडतक्कवुगळादरॆ हेगॆ माडतक्कवु ? मुमुक्षुविन इष्ट-प्रकारवे अथवा शास्त्र-रीतियल्ले ? ऎम्ब सन्दर्भदल्लि, **कर्म कर्तुम् अर्हसि** - अन्तह शास्त्र-विधान-रीतियल्ले माडलु योग्यनागु, **ऎन्रु** - ऎम्ब उपदेशवू, **सर्वाधिकारिगळुक्कु** - मुमुक्षु बुबुक्षु व्यत्यास मत्तु वर्णाश्रम-भेद-तारतम्यविल्लदॆ समस्ताधिकारिगळिगू, **पॊदुवायिरुक्कुं** - समवाद हितोपदेशवागिरुत्तदॆ.
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इदर मेलॆ इन्नॊन्दु पूर्व-पक्षवन्नु उपपादिसि खण्डिसिरुत्तारॆ. इदु हिन्दॆये उपपादितवागिद्दरू (१४५६-५७ नॆय पुटगळन्नु नोडि) पुनः अदक्कॆ प्रकरणवु ऒदगिदुदरिन्द अनुवाद-रूपदल्लि प्रासङ्गिकवागि हेळबेकागिरुत्तदॆ. ईग मोक्षार्थियु तन्न इष्टानुसार मात्र आनुज्ञा-कैङ्कर्यगळन्नु माडतक्कद्दल्लवु. शास्त्र-विधानोक्तवागिये नडॆसतक्कद्दॆन्दु स्थापिसिदरु. श्री-यामुन-मुनिगळु हीगॆ हेळदॆ गीतार्थ-सङ्ग्रहदल्लि 
+
+> निज-कर्मादि--भक्त्य्-अन्तं कुर्यात् प्रीत्यैव कारितः 
+
+ऎम्ब मुमुक्षुवु **प्रीत्यैव** - प्रीतियिन्दले ऎन्दु अवधारणदॊन्दिगॆ हेळिरुत्तारॆ. अदु हेगॆ समञ्जसवॆन्दु आक्षेप तन्दरॆ समाधानवन्नु हेळुत्तारॆ.
+
+[[P165]]
+
+</details>
 
 
 ### यामुनोक्तिः
@@ -7640,6 +10032,36 @@ Su mente **está** siempre con el Señor.
 इप्पडियागिल् आळवन्दार् गीतार्थसङ्ग्रहावसानत्तिल् ‘‘निजकर्मादिभक्त्यन्तं कुर्यात् प्रीत्यैव कारितः’’ ऎऩ्ऱु एवकारत्ताले प्रीतिव्यतिरिक्तमाऩ शास्त्रकारितत्वत्तै निषेधित्तदुबोल् तोऩ्ऱुगिऱदे अदऱ्कु गति ऎऩ्ऩॆऩ्ऩ? अङ्गुळ्ळ एवकारत्ताले अभिप्रेतमाऩवर्थत्तै वॆळियिडुगिऱार् आळवन्दार् श्रीगीतार्थसङ्ग्रहत्तिले इत्यादिना । ज्ञानीत्विति । ज्ञानी तु – ‘‘ आर्तो जिज्ञासुः’’ ऎऩ्गिऱ श्लोकत्तिल् ज्ञानी च ऎऩ्ऱु इतरविलक्षणऩागच्चॊल्लप्पडुम् ‘‘ज्ञानी त्वात्मैव मे मतम्’’ ऎऩ्ऱु कॊण्डाडप्पट्टुमुळ्ळ ज्ञानियाऩवऩ्, परमैकान्ती – अनन्यदेवताकत्वानन्यप्रयोजनत्वङ्गळाले एकान्तिकळुक्कुळ्ळे उत्कृष्टतमऩाय्, परायत्तात्मजीवनः – परमपुरुषऩुक्कु स्वाधीनमाऩ तऩ्ऩुडैय प्राणधारणम् मुदलिय व्यापारङ्गळैयुडैयवऩाय्, तत्संश्लेषैकवियोगैकसुखदुःखः – अन्द भगवाऩुडैय सेर्क्कैये सुखम्, अवऩुडैय पिरिवे दुःखमॆऩ्ऱु उणरुगिऱवऩायुम्, तदेकधीः – अन्द भगवाऩिडत्तिल् अनन्यविषयकमाऩ बुद्धियैयुडैयवऩायुम्, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"प्रीत्यैव कारितः" ऎम्ब श्री-यामुनोक्तियिन्द प्रपन्ननिगॆ शास्त्र-वश्यतॆ इल्लवॆम्ब वादद खण्डनवु.** 
+
+**आळवन्दार्** - श्री-यामुनाचार्यरवरे श्री-गीतार्थ-सङ्ग्रहदल्लि, **ज्ञानी तु** - ज्ञानियादरो हिन्दॆ हेळिद मूरु जन भक्तरुगळ हागॆ अल्लदॆ अ-व्यभिचरित-भक्तियुळ्ळवनागि ऎन्दरॆ अन्य-देवता-भक्ति इल्लदे भगवन्तनल्ले भक्तियुळ्ळवनागि, इष्टु मात्रवे अल्लदॆ ऐहिकापेक्षॆ यावुदू इल्लदॆ अनन्य-प्रयोजनवुळ्ळवनादुदरिन्द, परॆमैकान्तियु. हिन्दॆ हेळल्पट्ट मूरु जन भक्तरू ऐकान्तिगळु. इवरु अन्य-प्रयोजनवन्नू उळ्ळवरु. परमैकान्तियादरो आनन्य-प्रयोजननु. इन्नु मूरु जन भक्तरिगिन्तलू ईतनु विलक्षणनॆन्दु **तु** शब्दवु. **"प्रतिबुद्धस् तु मोक्ष-भाक्"** ऎम्बुदर अर्थवु उपपादितवु. **तद्-आयत्तात्म-जीवनः** - 
+
+> मच्-चित्ता मद्-गत-प्राणा बोधयन्तः परस्परम् ।  
+कथयन्तश् च मां नित्यं तुष्यन्ति च रमन्ति च ॥ (गी. १०-९)
+
+ऎम्बल्लि हेळिरुव हागॆ इरुव आ ज्ञानियु ऎन्तवनॆन्दरॆ परमात्मनिगॆ अधीनवाद तन्न आत्म-स्व-रूपद सत्ता-स्थितिगळुळ्ळवनु. मेलॆ हेळिदुदन्नु माडदिद्दरॆ प्राणवे उळियुवदिल्लवॆन्दु भाविसुवनु. इन्नू ऎन्तवनॆन्दरॆ ? **तत्-संश्लेष-वियोगैक--सुख-दुःखः** - परम-पुरुषनॊन्दिगॆ सेरिरुवुदन्ने सुखवागियू, हागिल्लदिरुव अवस्थॆयन्नु दुःखवागियू, भाविसुववनु. आतनन्ने उपासनॆ माडोणवु; अदिल्लद कालदल्लि आतन गुण-चेष्टितगळन्नु कॊण्डाडोणवु, मॊदलादवु मुन्दिन श्लोकदल्लि हेळल्पडुववु. इदु संश्लेष ऎनिसुत्तदॆ. हीगॆ उपासन, श्रवण, कीर्तन, अर्चनादिगळिल्लदिरोणवे विश्लेषवु. मॊदलनॆय सन्दर्भदल्लि सुखवन्नू ऎरडनॆय अवस्थॆयल्लि दुःखवन्नू हॊन्दुववनु. महर्षियु 
+
+> यन् मुहूर्तं क्षणं वापि वासुदेवो न चिन्त्यते ।  
+सा हानिस् तन् महच्-छिद्रं सा भ्रान्तिस् सा च विक्रिया ॥ (वि. पु. १-९-७३) 
+
+इदर अर्थक्कॆ उपाय-विभागाधिकारद [[??]] पुटवन्नु नोडि ऎन्दु हागॆये हेळिरुत्तारॆ. मत्तु 
+
+> एतस्मिन्न् अप्य् अतिक्रान्ते मुहूर्ते ध्यान-वर्जिते ।  
+दस्युभिर् मुषितेनैव युक्तम् आक्रन्दितुं भृशम् ॥ 
+
+परमात्म-ध्यानविल्लदॆ ऒन्दु महूर्तवु कळॆदुहोदरू आ हॊत्तिनल्लि कळ्ळरु बन्दु सुलिगॆ माडुव कालदल्लि कूगिकॊळ्ळुव हागॆ अळतक्कद्दॆन्दु हेळल्पट्टिरुत्तदॆ. मत्तु आ ज्ञानियु इन्नू ऎन्तवनॆन्दरॆ **तद्-एक-धीः** आतनॊब्बनल्ले इट्ट बुद्धियुळ्ळवनु, चिन्तॆयुळ्ळवनु. 
+
+ज्ञानिय वैलक्षण्यवन्नु हिन्दॆ हेळिदरु. इन्नू आतनु ऎन्तवनॆन्दरॆ भगवद्-गीतॆय परम-हितोपदेशवाद 
+
+> मन्-मना भव मद्-भक्तो मद्-याजी मां नमस्कुरु 
+
+ऎम्बल्लि तोरिबरुव लक्षणवन्नुळ्ळवरॆन्दु हेळुत्तारॆ. 
+
+[[P166]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7688,6 +10110,38 @@ de **inclinarse** ante Él y **pronunciar** sus sagrados nombres.
 भगवद्ध्यानेत्यादि । भगवाऩुडैय ध्यानम् योगम् उक्ति वन्दनम् स्तुतिकीर्तनमिवैगळाल् आत्माविऩ् सत्तैयै युडैयवऩायुम्, अन्द भगवाऩिडत्तिल् समर्पिक्कप्पट्ट प्राणऩ्, मनस्, बुद्धि, इन्द्रियम् इवैगळिऩ् क्रियैकळै युडैयवऩायुम्, अदावदु अवऩुडैय अनुभवमिल्लाविडिल् करणकळेबरङ्गळ् शिथिलमाम्बडियाऩ अवस्थैयै युडैयवऩायुमॆऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**भगवद्-ध्यान** - भगवन्तन अनुचिन्तनवु, **योग** - आसनादिगळन्नु निर्मिसिकॊण्डु तद्-एक-ध्यानदिन्द पर-ब्रह्म-साक्षात्कारक्कागि उपासनॆयु, **उक्तिः** - प्रतिपादनवु अथवा सेवॆयु, **वन्दन** - त्रि-करणगळिन्दलू प्रणामवु, **स्तुति** - गुणानुकथनवु, स्तोत्रगळन्नु हेळोणवु, **कीर्तनैः** - आतन गुण-विभव-चेष्टितादिगळन्नु कॊण्डाडोणवु इवुगळिन्द **लब्धात्मा** - सत्तॆयन्नु हॊन्दिद आत्म-स्व-रूपवन्नुळ्ळवनु, इवुगळिल्लदॆ तानु वस्तुवे अल्लवॆम्ब भाववु. अथवा ई मेलॆ हेळिद ध्यानादि-व्यापारगळन्नु आतनल्लि समर्पिसुवदर मूलक उण्टाद अनुग्रहदिन्द सत्तॆयन्नु हॊन्दिदवनु, इन्नू ऎन्तवनॆन्दरॆ **तद्-गत ...क्रियः, तद्-गत** - आ परम-पुरुषनन्नु हॊन्दिद, प्राण, मनस्सु, ऎन्दरॆ सङ्कल्प, बुद्धि ऎन्दरॆ विवेक-ज्ञान अथवा मनस्सिनिन्दुण्टाद निश्चय-ज्ञानवु, हीगॆ अनेक कडॆयल्लि मनस्सिगू बुद्धिगू स्वल्प-व्यत्यासवु हेळल्पट्टिरुत्तदॆ, इदक्कॆ उदाहरणवागि 
+
+> मय्य् एव मन आधत्स्व, मयि बुद्धिं निवेशय (गी. १२-७) 
+
+ऎम्बुदन्नु हेळबहुदु. इदु मनस्सिन मूलकवागि आत्माविगॆ उण्टागुव विवेकोत्थज्ञानक्कॆ सम्बन्धिसिदुदु. श्री-यति-वर्यरु श्री-भाष्यदल्लि 
+
+> अध्यवसायाभिमान-चिन्ता-वृत्ति-भेदान् मन एव बुद्ध्य्-अहङ्कार-चित्त-शब्दैर् व्यवह्रीयते 
+
+ऎन्दु अप्पणॆ कॊडिसिरुत्तारॆ. बाह्येन्द्रिय, इवुगळ **क्रियः** - क्रियॆगळन्नुळ्ळवनु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अभिप्रायवेनॆन्दरॆ मनस्सु इन्द्रियगळु ऐहिक-विषयोपगळल्लि प्रवर्तिसद हागॆ माडिक्कॊण्डु, ऎल्लवू भगवन्तनल्ले सक्तवागिरुव वृत्तियुळ्ळवनु ज्ञानियु. 
+
+> मय्य् एव मन आधत्स्व, मयि बुद्धिं निवेशय 
+
+ऎम्बल्लि उपदेशिसल्पट्ट भाववु सूचितवु. 
+
+ज्ञानियु ऎन्तवनु हेगॆ विलक्षणनॆम्बुदन्नु हिन्दिन श्लोकगळिन्द उपपादिसि हेळिदरु, हीगॆ आतनु 
+
+> सततं कीर्तयन्तो मां यतन्तश् च दृढ-व्रताः ।  
+नमंस्यन्तश् च मां भक्त्या नित्य-युक्ता उपासते ॥ 
+
+सदा ध्यान-योग-स्तुति-वन्दन-कीर्तनादिगळल्ले इरुव प्रपन्ननिगॆ तनगॆ विधिसल्पट्ट वर्णाश्रम-धर्मगळाद नित्य-नैमित्तिक-कर्मगळ आवश्यकतॆ एतक्कॆ ? **"सर्व-धर्मान् परित्यज्य"** ऎम्बल्लि ऎल्ला कर्मगळन्नू त्यागमाडबहुदॆन्दु विधिसिरुत्तॆयल्ला ऎन्दु पूर्व-पक्षवन्नु तन्दरॆ, अवुगळू आवश्यकवागि कर्तव्यगळॆन्दू, अवुगळन्नु हेगॆ आनुष्ठिसतक्कद्दॆम्बुदन्नू ई श्लोकदल्लि उपपादिसुत्तारॆ. इदु हिन्दॆये शास्त्रीय-नियमनाधिकारदल्लि उपपादितवादुदरिन्द इदर अर्थक्कॆ १४५६-७ नॆय पुटगळन्नु नोडि. अल्लि अप्पणॆ कॊडिसिरुवदेनॆन्दरॆ 
+
+[[P167]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7738,6 +10192,23 @@ y **colocar** el upāya en el Señor sin ningún temor".
 ऎऩ्ऱु तां – अन्द उपायत्वबुद्धियै, देवे – तऩ् माहात्म्यत्तिऱ्कु अनुगुणमाऩ लीलैयाले तऩ्ऩै आश्रयिक्कादवर्गळुक्कु बन्धत्तैयुम्, तऩ्ऩै आश्रयित्तवर्गळुक्कु बन्धमोचनत्तैयुम् सॆय्गिऱ भगवाऩिडत्तिल्, अभीः – निर्भयऩाय्, न्यस्येत् – वैक्कक्कडवऩ्। अवऩ् ताऩ् उपायमॆऩ्गिऱ बुद्धियैच् चॆय्यक्कडवऩॆऩ्गै ऎऩ्बदु इन्द श्लोकङ्गळुक्कु अर्थम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"निज-कर्मादि" ऎन्रु श्री-गीतार्थ-सङ्ग्रहत्तिल् "प्रीत्यैव" ऎङ्गिर अवधारणत्ताले साधनत्व-बुद्धियै व्यवच्छेदित्तारॆन्रु मिडम् "उपायतां परित्यज्य" ऎन्रु विवरिक्कैयाले सु-व्यक्तम्".** नित्य-दास्यैक--स्व-भावनागि ऐहिकवनॆल्ला तॊरॆदु परमात्मनल्ले सक्तवाद मनस्सुळ्ळवनागि मुक्तन हागॆ आनन्दिसिकॊण्डिरुव प्रपन्ननिगॆ, तनगॆ नियतवाद नित्य-नैमित्तिक-कर्मगळाद आज्ञा-कैङ्कर्यगळन्नू, हागॆये भगवन्तन मुखोल्लासक्कॆ हेतुगळाद अनुज्ञा-कैङ्कर्यगळन्नू, यथाधिकारवागि शास्त्र-रीत्या अनुष्ठिसतक्कद्दु. अवुगळल्लि आज्ञा-कैङ्कर्यगळन्नु यथा-शास्त्रम् अनुष्ठिसले बेकु. इल्लवादरॆ 
+
+भगवद्-आज्ञाच्-छेदियागि भगवन्-निग्रहक्कॆ ऒळगागुवनु. अदू अल्लदॆ 
+
+>  सन्ध्या-हीनो ऽशुचिर् नित्यम् अनर्हः सर्व-कर्मसु 
+
+ऎन्दू हेळल्पट्टिरुवुदरिन्द भगवद्-आराधन-रूपवाद याव कर्मगळिगू योग्यनागुवदिल्लवु. अनुज्ञा-कैङ्कर्यगळन्नॆसगुवदू, भगवन्-मुखोल्लासकरवादुदरिन्द, अवुगळु शास्त्रीय-नियमनानुसारवागि अनुष्ठितगळागदे होदरॆ, **"प्रीत्यैव कारितः"** ऎन्दु हेळिद हागॆ आगुवदिल्लवु. तन्न इष्टानुसार-कैङ्कर्यगळन्नु माडबहुदु ऎम्बुदु इदक्कॆ अर्थवल्लवु. भगवत्-प्रीणन उण्टागुव हागॆये प्रीतियिन्द शास्त्र-रीत्या माडतक्कद्दु ऎम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मुन्दॆ **प्रीत्यैव** ऎम्बल्लिरुव एव कारद अर्थवेनु ? यावुदन्नु व्यवच्छेदिसि ई अवधारणवु प्रयोगिसल्पट्टिरुत्तदॆ ? ऎम्बुदन्नु मुन्दिन वाक्यगळिन्द उपपादिसि पूर्व-पक्षिगळु हेळिद अर्थवु सरियल्लवॆन्दु तिळिसुत्तारॆ. हागादरॆ सरियाद अभिप्रायवु यावुदॆन्दरॆ तिळिसुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7758,7 +10229,6 @@ y **colocar** el upāya en el Señor sin ningún temor".
 इतीदम् अपि  
 "शास्त्रम् अनपेक्षितम्" इत्य् एवं-परं न । 
 </details>
-
 
 
 <details><summary>English</summary>
@@ -7786,6 +10256,13 @@ En estos ślokas lo que Aḷavandār **quiso decir** con las palabras
 प्रीत्यैव कारितः ऎऩ्ऱदुवुम् शास्त्रम् वेण्डा वॆऩ्ऱबडि यऩ्ऱु इति । एऩॆऩ्ऱाल् निजकर्मम् इऩ्ऩदु ऎऩ्ऱु शास्त्रत्तैक्कॊण्डे अऱिय वेण्डुमागैयालुम् इवऩ् सॆय्य वेण्डिय भक्तियुम् शास्त्रैकवेद्यमागैयालुम् तदपैक्षैयैत् तविरमुडियादॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ऎन्रु** - ऎम्बदागि, ऎन्दरॆ हिन्दिन **निज-कर्मादि** ऎम्ब श्लोकदल्लि, **अरुळिच्चॆय्द विडत्तिल्** - कृपया उपदेशिसिद सन्दर्भदल्लि, **"प्रीत्यैव कारितः", ऎन्रुदुवुम्** - ऎन्दु हेळिरुवदु, **शास्त्रं वेण्डावॆन्र पडियन्रु** - शास्त्रवु बेडवॆन्दु हेळिदुदल्लवु, प्रीतियिन्दले माडतक्कद्दु ऎन्दरॆ शास्त्रद आवश्यकतॆ बेकिल्लवॆन्दु हेळिद अभिप्रायवल्लवॆम्ब भाववु. 
+
+[[P168]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7835,6 +10312,29 @@ para **darle deleite**.
 आऩाल् प्रीत्यैव कारितः ऎऩ्बदऱ्कु तात्पर्यमॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इङ्गु शास्त्रङ्गॊण्डॆ यऱिय वेण्डुगिऱ कैङ्कर्यन्दऩ्ऩिलिति । प्रीतियिऩुडैय प्रेरकत्वातिशयञ्जॊल्लुगैयिले तात्पर्यमिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इङ्गु** - ई सन्दर्भदल्लि ऎन्दरॆ अनुज्ञा-कैङ्कर्यगळन्नु अनुष्ठिसुव सन्दर्भदल्लि, **शास्त्रम् कॊण्डॆ** - शास्त्र-मूलकवागिये, **अरियवेण्डुगिर कैङ्कर्यं तन्निल्** - तिळियबेकाद कैङ्कर्यानुष्ठानदल्लि, **स्वामि-सन्तोष-जनकत्वमडियाग** - सर्वेश्वरनिगॆ सन्तोषवन्नुण्टुमाडुवदर मूलकवागि, **शेष-भूतनाद तनुक्कु** - तनगॆ, **पिरुक्किर प्रीतियिनुडैय** - उण्टागुव प्रीतिय, **प्रेरकत्वातिशयम्** - प्रेरिसोणदर आधिक्यवन्नु, **शॊल्लुगैयिले तात्पर्यम्** - हेळुवदरल्लि अभिप्रायवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ई आज्ञानुज्ञा-कैङ्कर्यगळन्नॆल्ला शास्त्र-विधान-क्रमगळन्ननुसरिसिये नडॆसतक्कद्दागिवॆ. 
+
+> तस्माच् छास्त्रं प्रमाणन् ते 
+
+ऎन्दु श्री-कृष्ण-भगवान्रवर उपदेशवु. तानु मनुष्यावतारियादुदरिन्द मनुष्यन हागॆये ताने शास्त्रातिक्रममाडि ऎन्दिगू नडॆयुवनल्लवॆन्दु दुर्योधनन ऎदुरिनल्लि प्रतिज्ञॆयन्नु माडिद्दारॆ. [[??]]नॆय पुटवन्नु नोडि. शास्त्र-रीत्या नडिसिदरेने भगवन्तन प्रीतियु दॊरॆयुत्तदॆ ऎन्दु अन्तह प्रीतियु लभिसुवदक्कागि तुम्बा प्रीत्य्-अतिशयदिन्दले आ आज्ञानुज्ञा-कैङ्कर्यगळन्नॆल्ला अनुष्ठिसतक्कद्दॆम्ब तात्पर्यवु. आदुदरिन्द आ कर्मानुष्ठानगळल्लि अवु उपायवागि परिणमिसुत्तवॆ ऎम्ब भाववन्नु परित्यागमाडबेकु ऎम्ब भाववु. इदीग **प्रीत्यैव** ऎम्बल्लिन एव कारद भाववु ऎन्दु उपदेशिसिरुत्तारॆ. कर्मवे उपायवॆम्बुदु कर्म-मीमांसकन अभिप्रायवु. क्षण-साध्यवाद कर्मदिन्द ऒन्दु अपूर्ववु उत्पन्नवागि फलवन्नु कॊडुत्तदॆम्बुदु आतन अभिप्रायवु. सरियाद अभिप्रायवेनॆन्दरॆ ई क्षण-साध्यवाद कर्मवु भगवन्-मुखोल्लासवन्नुण्टुमाडि आतन अनुग्रह-मूलक फल-प्राप्तियु. आदुदरिन्द ई कर्मगळॆल्ला भगवद्-आराधन-रूपवादुदरिन्द आतनु मॆच्चुव हागॆ शास्त्र-रीत्या श्रद्धा-भक्तिगळ आधिक्य-पुरस्सरवागि अनुष्ठिसिदुदादरॆ आतनु प्रीतनागि श्रेयस्सन्नु वर्षिसुवनु. आतनु प्रसन्ननादरेने फलवु. भगवन्तनु ई मुमुक्षुविगॆ सिद्धोपायनागि कङ्कण-बद्धनागि निन्तिरुवाग आतन मुखोल्लास हेगॆ उण्टागबेको हागॆ भक्त्याधिक्यदिन्द नडॆसबेकॆम्बुदे श्री-यामुन-मुनिगळ अभिप्रायवु. 
+
+[[P169]]
+
+ई **"निज-भक्त्य्-आदि"** ऎन्दु हेळिदुदेनु प्रपत्त्य्-अधिकारिय विषयवागि हेळिदुदे अथवा उपासनाधिकारिय विषयवागि हेळिदुदे ऎम्ब चर्चॆयल्लि भगवद्-गीतॆयु ऒन्दे उपायवन्नु कुरितु हेळलिल्लवु. ऎरडु उपायगळन्नु कुरिते हेळिरुवदु ऎम्बुदन्नु दासन गीतार्थ उपपादनॆयाद आचार्य-हृदयान्वेषिणियल्लि प्राप्त-स्थळगळल्लि तोरिसिरुत्तेनॆ. ई प्रकरणदल्लि ई गीतार्थ-सङ्ग्रह-वाक्यवु स्व-तन्त्र--प्रपत्ति-निष्ठनिगॆ अन्वयिसुत्तदॆन्दु श्री-देशिक-वर्यरु तिळिसि, मुन्दिन वाक्यदल्लि 
+
+> ई श्लोकङ्गळै उपासनाधिकारिपक्कलिले 
+
+ऎन्दारम्भिसि भक्ति-योग-निष्ठनन्नु कुरितु हेळुव सन्दर्भदल्लि याव याव भावगळु ई श्लोकगळिन्द द्योतितवॆन्दु तिळिसुत्तारॆ. इदरिन्द श्री-यामुन-मुनिगळ मत्तु श्री-देशिक-वर्यर अभिप्रायवू ऐककण्ठ्यदिन्द श्रीमद्-गीता-शास्त्रवू अदर सङ्ग्रह-व्याख्यानवाद गीतार्थ-सङ्ग्रहवू सह ऎरडु विध उपायगळन्नू बोधिसुत्तवॆ ऎम्बुदन्नु इल्लि व्यक्तवागि ग्रहिसबहुदु. इदरिन्द गीता-शास्त्रवु उपासन ऒन्दन्ने बोधिसुत्तदॆम्ब वादवु निराकरिसल्पट्टितु. ई सङ्ग्रह-श्लोकगळु एनन्नु उपपादिसुत्तवॆन्दरॆ हेळुत्तारॆ. मूरु मुख्यांशगळन्नु ग्रहिसबहुदॆन्दु तिळिसुत्तारॆ. 
+
+</details>
 
 #### उपासके
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7885,6 +10385,13 @@ que estos upāsanas
 साङ्गमाऩ भक्तियिल् साक्षादुपायत्वबुद्धियैत् तविरवेण्डुमॆऩ्ऱु ‘‘उपायतां परित्यज्य’’ ऎऩ्बदाले सॊल्लप्पट्टदॆऩ्ऱुम्, इन्द उपासनत्ताले प्रसन्नऩाऩ भगवाऩिडत्तिलेये साक्षादुपायत्वबुद्धियैप् पण्ण वेण्डुमॆऩ्ऱु ‘‘न्यस्येद्देवे तु तामभीः ऎऩ्बदाले सॊल्लप्पट्टदॆऩ्ऱुम्’’ करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इश्लोकङ्गळै** - ई सङ्ग्रह-श्लोकगळन्नु, **उपासनाधिकारिपक्कलिले** - उपासन-निष्ठन विषयदल्लि, **योचिक्कुम्पोदु** - अन्वयिसुव सन्दर्भदल्लि (१) **उपासनादिगळुडैय** -  उपासनवे मॊदलादवुगळ, आदि-शब्ददिन्द तद्-इतर-कालगळल्लि नडॆयुव, श्रवण, कीर्तनॆ, भगवद्-आराधनॆ, नाम-सङ्कीर्तनॆ मॊदलादवु हेळल्पट्टवु. **स्वादुतमत्वत्तैयुम्** - अत्यन्त तनगॆ भोग्यवागिरुवुदन्नू इवु मॊदलिन ऎरडु श्लोकगळिन्दलू, स्पष्टवु. 
+
+[[P170]]
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7918,6 +10425,15 @@ quien **es** el medio directo o upāya para **obtener** este fin,
 फलोपायमाऩ शरण्यऩुक्कु प्रसादनमाय्क्कॊण्डु फलत्तुक्कु साक्षादुपायमऩ्ऱिक्के निऱ्किऱ निलैयुम्, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(२) **फलोपायमान** - पलक्कॆ साधकवाद, **शरण्यनुक्कु प्रसादनमाय्क्कॊण्डु** - सर्व-रक्षकनाद भगवन्तन प्रसन्नतॆयन्नुण्टुमाडुवदागि **फलत्तुक्कु साक्षाद्-उपायमन्रिक्के निर्किर निलैयुम्** - आ उपासनादिगळु व्याज-मात्रवे अल्लदॆ फलवन्नु तावागिये साक्षात्तागि ऎन्दिगू फलवन्नु साधिसिकॊडलाररॆम्ब भाववन्नू, इदु 
+
+> उपायतां परित्यज्य न्यसेद् देवे तु ताम् अ-भीः 
+
+ऎम्बल्लि उपपादितवु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7959,7 +10475,37 @@ Quién **está complacido** con estos upāsanas
 इव्वुपासनत्ताले प्रसन्नऩाऩ सर्वेश्वरऩ्ऱाऩे फलत्तुक्कु साक्षादुपायमाय् निऱ्किऱ निलैयुञ् जॊल्लुगैयिले नोक्कागक्कडवदु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(३) **इव्वुपासनत्ताले** - ई उपासननिन्द, **प्रसन्ननान** - प्रीतनाद, **सर्वेश्वरन् ताने** - सर्वेश्वरने, **साक्षाद्-उपाय माय् निर्किरनिलै यैयुम्** - साक्षाद्-उपायवागिरुव, फल-प्रदातावागि ताने कङ्कण-बद्धनागि निन्तिरुव स्थितियन्नू इदु 
+
+> निज-कर्मादि--भक्त्य्-अन्तं कुर्यात् प्रीत्यैव-कारितः ।   
+उपायतां परित्यज्य 
+
+ऎम्बुदरिन्द हेळल्पट्टवु. ईतनु माडुव भक्ति-योगवू आदक्कॆ सम्बन्धपट्ट सर्व-विधानुष्ठानगळू व्याज-मात्रवादवे, आदुदरिन्दले **उपायतां परित्यज्य** ऎम्ब उपदेशवु. हागादरॆ फल-प्रदनु यारु ? ऎन्दरॆ प्रत्यैवकारितवागुवदर मूलक उण्टाद भगवन्तन अनुग्रहवे ऎम्ब भाववु, **शॊल्लुगैयिले** - हीगॆ मूरन्नू हेळुवदरल्लि **नोक्काकक्कडवदु** - मुख्य-तात्पर्यवुळ्ळवुगळागिरुत्तवॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ई मूरु श्लोकगळिन्द ग्रहिसतक्क भावगळु ई मूरु ऎन्दु हेळिदरु.- उपायवाद उपासनॆयू अदक्कॆ सम्बन्धिसिद प्रवृत्तिगळू 
+
+> भजन-सुखम् एकस्य विपुलम् 
+
+ऎम्बल्लि हेळिरुव हागॆ स्वादुतमवॆन्दू, हीगिद्दरू, अदु व्याज-मात्रवे ऎन्दू, प्रीत्य्-अतिशयदिन्द माडुवदरिन्द उण्टाद भगवद्-अनुग्रहवे साक्षात्तागि फल-दायकवॆन्दू, बोधिसुत्तवॆन्दु तात्पर्यवु. 
+
+</details>
+
 #### प्रपन्ने
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+ई उपासन-निष्ठन विषयदल्लादरो ई श्लोकगळु उपासनादि-स्वादुतमत्व मॊदलादुवु बोधितवॆन्देनॊ हेळल्पट्टितु. प्रपत्ति-निष्ठनिगॆ उपासनादिगळु यावुवु इल्लवल्ला, हागादरॆ अन्तह भर-न्यास-निष्ठनिगॆ ई श्लोकगळन्नु अन्वयिसुवदरिन्द तोरुव अर्थगळु यावुवॆन्दरॆ **"स्व-तन्त्र--प्रपत्ति-निष्ठन्"** ऎम्ब वाक्यद मूलक तिळिसुत्तारॆ.- ईतन विषयदल्लि ई श्लोकगळिन्द ऎरडु मुख्याभिप्रायगळु तोरिबरुत्तवॆन्दु तिळिसुत्तारे.-
+
+[[P171]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-तन्त्र--प्रपत्ति-निष्ठऩ् तिऱत्तिल्+++(=पक्षे)+++  
@@ -8003,6 +10549,12 @@ tal como **están recomendados** para el bhakti yoga,
 इन्द श्लोकङ् गळै स्वतन्त्रप्रपत्ति निष्ठऩ् विषयमाग योजिक्कुम्बोदु तात्पर्यविशेषत्तैक् काट्टुगिऱार् स्वतन्त्र प्रपत्ति निष्ठऩ् तिऱत्तिलित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**स्व-तन्त्र--प्रपत्ति-निष्ठन्तिरुत्तिल्** - स्व-तन्त्र--प्रपत्ति-निष्ठन विषयदल्लि ई श्लोकगळन्नु, **योजिक्कुम्पोदु** - आन्वयिसुव सन्दर्भदल्लि (१) **इवन्** - ई शरणागतियन्नु अनुष्ठिसिदवनु, **आज्ञानुज्ञैगळाले पण्णुम् कैङ्कर्यमॆल्लाम्** - आज्ञानुज्ञा-रूपदल्लि माडुव कैङ्कर्यवॆल्ला, **भक्ति-योगादिगळिन् कट्टळै कुलै यादिरुन्दालुम्** - भक्ति-योग मत्तु अदक्कॆ सम्बन्धिसिद प्रवृत्तिगळु इवुगळ आनुष्ठानदल्लि शास्त्र-मर्यादॆयन्नु हेगॆ तिरस्करिसकूडदो हागॆये आनुष्ठिसल्पट्टरू, 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8036,6 +10588,11 @@ y **los realiza** únicamente para **agradar** al Señor,
 स्वामिसन्तोषमॊऴिय वेऱॊरु स्वर्गमोक्षादि प्रयोजनत्तुक्कुपायमाग अनुष्ठिक्किऱाऩल्लामैयाले
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**स्वामि-सन्तोषमोळिय** - स्वामिगॆ सन्तोषवागुवदन्नु बिट्टु, **वेरॊरु** - बेरॆ यावुदॊन्दू, **स्वर्ग-मोक्षादि-प्रयोजनत्तुक्कु उपायवागि** - स्वर्गवाद अथवा मोक्षवाद, आदि-शब्ददिन्द विहित-कैङ्कर्यवाद, प्रयोजनगळिगॆ साधनवॆन्दु भाविसि, आगलि, मोक्ष-प्रयोजनक्कू साधनवॆन्दु भाविसुवदिल्लवो ? ऎन्दरॆ सर्व-भरवन्नू पुरम-पुरुषनल्लिट्टु निर्भरनागियू निर्भयनागियू इरुव ई प्रपन्ननिगॆ इन्नु मोक्ष-प्रयोजनक्कॆ साधनवेकॆ ? आदुदरिन्द इवॆल्ला प्रयोजनगळिगू साधनवॆम्ब भावनॆ इल्लदॆ इरुवदरिन्द ऎम्बर्थवु 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8071,6 +10628,11 @@ y **no tiene** otros intereses u objetivos.
 इन्द योजऩैयिल् प्रीत्यैव ऎऩ्गिऱविडत्तिल् एवकारत्ताले स्वामिसन्तोषव्यतिरिक्तफलसामान्यत्तै निषेधिक्किऱदागैयाल् अदिल् मोक्षफलनिषेधत्ताले अनन्योपायत्वमुम् फलान्तरनिषेधत्ताले अनन्यप्रयोजनत्वमुम् सॊल्लप्पडुगिऱदु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(१) **इवनक्कु** - ई कृत-कृत्यनिगॆ अनन्योपायतॆ अनन्य-प्रयोजनवन्नू परम-पुरुषनल्लदॆ तनगॆ बेरॆ उपायवु यावुदू इल्लवॆन्दू, भगवत्-प्रीणन-मात्र-प्रयोजनवल्लदॆ बेरॆ इन्नु याव प्रयोजनवू इल्लवॆन्दू, ऎम्ब भावगळु, **कुलैयादे इरुक्किर पडियुम्** - न्यूनतॆयन्नु हॊन्ददे इरुव स्थितियन्नू 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8119,8 +10681,32 @@ Su objetivo **es mostrar** (lo anterior).
 ‘‘न्यस्येद्देवे तु तामभीः’’ ऎऩ्गैयाल् अकिञ्चनऩाऩ इवऩुक्कु ईश्वरऩ् ताऩे उपायान्तरस्थानत्तिल् निऩ्ऱु फलम् कॊडुक्किऱबडियुम् सॊल्लप्पट्टदॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(२) **अकिञ्चननान विवनक्कु** - सर्वेश्वरनल्लदॆ तनगॆ इन्नु यारु रक्षकरिल्लवॆन्दु दैन्यदिन्दिरुव ई प्रपन्ननिगॆ **ईश्वरन् ताने** - सर्वेश्वरनाद ताने, **उपायान्तर-स्थानत्तिले** - बेरे उपायवाद भक्ति-योग-स्थानदल्लि, **निन्रु** - निन्तु, **फलङ्कॊडुक्किर पडियैयुम्** - फलवन्नु दयपालिसुव रीतियन्नु, **शॊल्लुगैयिले तात्पर्यम्** - उपदेशिसुवदरल्लि तात्पर्यवु. 
+
+[[P172]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+भक्ति-योगक्कॆ आन्वयिसिदाग हेगॆ आ आनुष्ठानगळॆल्ला शास्त्र-रीत्या नडॆसतक्कवॆन्दु एर्पट्टवो, अदे रीतियल्ले ई कृत-कृत्यनू सह अनुष्ठिसतक्कद्दु; **प्रीत्यैव** ऎन्दु अवधारणदॊन्दिगॆ हेळिरुवदरिन्द, याव फलापेक्षॆय बुद्धियू इरकूडदॆन्दागुवदरिन्द, इदरल्लि मोक्ष-फलवू सेरि आनन्योपायत्व-बुद्धियु एर्पट्टितु. **उपायतां परित्यज्य** ऎम्बल्लिये इदु सु-व्यक्तवु. बेरॆ फलव्यावदन्नू अपेक्षिसदॆ बरी प्रीति-पुरस्सरवागि नडॆसुवदरिन्द अनन्य-प्रयोजनत्ववू एर्पट्टितु. यावाग उपायान्तरदल्लि बुद्धियिल्लवो, आग **न्यसेद् देवे तु ताम् अ-भीः** ऎम्बल्लि तोरुव हागॆ, उपायान्तर-स्थानदल्लि परम-पुरुष-निवेशनवू सिद्धिसितु ऎम्बुदु मेलिन वाक्य-तात्पर्यवु. ईतनु ताने अ-स्व-तन्त्रनादुदरिन्द आकिञ्चन्यवु एर्पट्टु परमात्मनल्ले सर्व-भरवन्निट्टवनादुदरिन्द आतन मुखोल्लासक्कागिये शास्त्र-नियमनानुसार सर्व-विहितगळाद आज्ञानुज्ञा-कैङ्क‌र्यगळन्नु माडतक्कद्दॆम्ब भाववु. 
+
+</details>
 
 ## न देवतान्तर-द्वारक-धर्म-त्यागः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**हीगॆ शास्त्र-रीत्या आज्ञानुज्ञा-कैङ्कर्यगळन्नु अनुष्ठिसिदरॆ देवतान्तर-सम्बन्ध उण्टागुत्तदॆम्ब शङ्काविगॆ समाधानवु.** 
+
+हीगॆ श्री-यामुन-मुनिगळ दिव्य-सूक्तगळिन्द ई ऎरडु विध उपायनिष्ठराद भक्तरू प्रपन्नरू वर्णाश्रमादि-धर्मगळन्नॆल्ला शास्त्र-रीत्या भगवत्-प्रीणनक्कागि तुम्बा भक्तियिन्द अनुष्ठिसतक्कद्दॆन्दु उपदेशिसल्पट्टितु. ई अभिप्रायगळु हिन्दॆये शास्त्रीय-नियमनाधिकारदल्लि उपपादितवागिद्दरू **"सर्व-धर्मान् परित्यज्य"** ऎम्बल्लिन त्याग-शब्दार्थ-विवरणवु प्रकरणवादुदरिन्द अवुगळन्ने पुनः अनुवाद-रूपदल्लि हेळबेकादुदु आवश्यकवायितु. मेलॆ उपपादिसिद रीतियल्लि आज्ञानुज्ञा-कैङ्कर्यगळन्नु शास्त्र-रीत्या नडॆसलेबेकॆन्दादरॆ, आग सूर्य, अग्नि मॊदलाद देवतान्तर-सम्बन्धवु तप्पिद्दल्लवागुत्तदॆ. आग ई भक्तर मत्तु प्रपन्नर परमैकान्तित्वक्कॆ भङ्गबरुवुदिल्लवो ? ऎन्दरॆ इल्लवॆन्दु समाधानवन्नु ऎरडु विधवागि उपदेशिसुत्तारॆ. मॊदलु पूर्व-पक्षवन्नु उपपादिसुत्तारॆ-
+
+[[P173]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इरण्ड् अधिकारिगळुम् 
@@ -8167,6 +10753,15 @@ porque la recompensa que **pueden dar** ellos **es** limitada",
 इप्पडि शास्त्रवश्यतैवेण्डुमॆऩ्ऱुम् निजकर्मादिभक्त्यन्तं कुर्यात् ऎऩ्गिऱ आळवन्दार् श्रीसूक्तियैक् कॊण्डु इरण्डधिकारिकळुक्कुम् स्ववर्णाश्रमधर्मादिगळ् अनुष्ठेयङ्गळॆऩ्ऱुम् सॊऩ्ऩाल् अन्द धर्मङ्गळ् अग्नीन्द्रादिदेवतान्तरप्रतिपादकमन्त्रकरणकङ्गळाग इरुप्पदाल् देवतान्तरस्पर्शमुण्डाय् इवर्गळुक्कु अनन्यदेवताकत्वरूपपारमैकान्त्यम् कुलैयादो वॆऩ्ऱु वेदान्तव्युत्पत्तियिल्लाद सिलरुडैय चोद्यत्तै अनुवदिक्किऱार् इरण्डधिकारिकळुमिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इरण्डधिकारिगळुम्** - भक्ति-योग-निष्ठरु मत्तु भर-न्यास-निष्ठरु आद ऎरडु विध अधिकारिगळू 
+
+> प्रतिबुद्धा न सेवन्ते यस्मात् परिमितं फलम् - (भा. शान्ति. ३५०-३६)
+
+अल्पास्थिर-फलगळन्नु कॊडुव ब्रह्म-रुद्रेन्द्रादि--सर्व-देवतॆगळन्नु प्राज्ञरु आराधिसुवदिल्लवॆम्ब, ६७५ मत्तु ९२६ नॆय पुटवन्नु नोडि. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8203,6 +10798,15 @@ y que **me buscan** solo como su upāya"
 ‘‘अनन्यदेवताभक्ताः’’(भारतम् आश्वमेधिक-पर्व १०४-९१),
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+> अनन्य-देवता-भक्ताः - (वैष्णव-धर्म-शास्त्रम्) 
+
+> इन्नु याव देवतॆगळन्नू अल्लदॆ श्री-महा-विष्णुवन्नु मात्रवे ध्यानिसुव भक्तरुगळु 
+
+ऎम्ब 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8239,6 +10843,16 @@ y que **me buscan** solo como su upāya"
 ‘‘नान्यं देवं नमस्कुर्याद्’’(बादरायण इति श्रीपाञ्चरात्ररक्षा)  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+> नान्यं देवं नमस्कुर्यात् - (भारत)
+
+> परम-पुरुषनल्लदॆ बेरॆ याव देवतॆगू नमस्करिसबेड 
+
+([[??]] नॆय पुट नोडि) 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इत्य्-आदिगळिऱ् पडिये  
@@ -8269,6 +10883,11 @@ y que **me buscan** solo como su upāya"
 इत्यादिगळिऱ्पडिये परमैकान्तिगळायिरुक्क, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इत्य्-आदिगळिर् पडिये** - इवे मॊदलाद प्रमाणगळल्लि हेळिरुव हागॆ **परमैकान्तिगळागि इरुक्क** - परम-पुरुषनाद श्रीमन्-नारायणनॊब्बनल्ले यावागलू सक्तवागिरुव ई ऎरडु विध प्रपन्नरू इरुवाग, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8304,6 +10923,12 @@ a saber, "todos los karmas **pertenecientes** a ellos y también al bhakti",
 इङ्गु ‘‘निजकर्मादि-भक्त्यन्तम्’’ ऎऩ्ऱरुळिच्चॆय्दबडिये वर्णाश्रमादिधर्मङ्गळै इवर्गळनुष्ठिक्कप्पुक्काल्
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इङ्गु** - ई सन्दर्भदल्लि, **"निज-कर्मादि-भक्त्य्-अन्तम्"** **ऎन्रु अरुळिच्चॆय्दपडिये** - ऎन्दु कृपया उपदेशिसिरुव हागॆ, **वर्णाश्रमादि-धर्मगळन्नु** इवरुगळु **अनुष्ठिक्कपुक्काल्** - अनुष्ठिसुवुवॆन्दु हॊरटरॆ, 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अग्नीन्द्रादि-देवता-व्यामिश्रतैयाले परमैकान्तित्वङ् कुलैयादोव् ?
@@ -8335,6 +10960,11 @@ En la medida en que estos ritos o dharmas **están mezclados** con (la adoració
 अग्नीन्द्रादि देवताव्यामिश्रतैयाले परमैकान्तित्वङ् गुलैयादोव् 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+अग्नीन्द्रादि अग्नि, इन्द्र, सूर्य, मॊदलाद **देवता-व्यामिश्रतैयाले** - परम-पुरुषाराधन-रूप-कैङ्कर्यदॊन्दिगॆ सेरिरुवदरिन्द, **परमैकान्तित्वं कुलैयादो** - अवरुगळ परमैकान्तित्वक्कॆ अन्य-देवता-सम्बन्धवु सर्वात्मना कूडदागिरुवाग, ई नित्य-नैमित्तिकगळल्लि सूर्य, अग्नि, ब्रह्म, रुद्रेन्द्राग्नि मॊदलाद सम्बन्धवु उण्टागुवदरिन्द आ परमैकान्तित्वक्कॆ भङ्ग उण्टागुवदिल्लवो ? 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8362,6 +10992,24 @@ Aquellos que **no han estudiado** Vedānta **podrían preguntar** (en este senti
 <details><summary>मूलम्</summary>
 
 ऎऩ्ऱु वेदान्तव्युत्पत्तिपण्णादार् चोद्यम् पण्णुवर्गळ्।
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**ऎन्रु** - ऎम्बुदागि, **वेदान्त-व्युत्पत्तिप्तिपण्णादार्** - वेदान्त-शास्त्रदल्लि पाण्डित्यवन्नु हॊन्ददवरु, **चोद्यं पण्णुवर्गळ्** - आक्षेपणॆयन्नु माडुवरु. 
+
+[[P174]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+सन्ध्या-वन्दनादि--पञ्च-महा-यज्ञगळल्लि सूर्य, अग्नि, मत्तु इतर-देवतॆगळन्नु कुरित ध्यान-हविस्-समर्पणादिगळिवॆ; इन्तह कर्मगळन्नु अनुष्ठिसुवदु ई प्रपन्नर परमैकान्तित्वक्कॆ हानियल्लवे ? आगलि, त्याग हेळुवदरिन्द आ दोषवु होगुत्तदॆ ऎन्दरॆ 
+
+> प्रक्षालनाद् धि पङ्कस्य दूराद् अ-स्पर्शनं वरम् 
+
+ऎन्दु हेळिरुव हागॆ कॆसरन्नु तुळियुवदेतक्कॆ ? अनन्तर कालु तॊळियुवुदु एतक्कॆ ? आदुदरिन्द दूरदल्लिद्दु बिडुवदु युक्तवल्लवो ? हीगॆ अन्य-देवता-सम्बन्धविरुव सन्ध्यादि--पञ्च-महा-यज्ञगळ अनुष्ठानवेतक्कॆ ? अनन्तर त्याग हेळुवदु एतक्कॆ ? ऎम्बुदु पूर्व-पक्षवु, ई पूर्व-पक्षवु वेदान्त-शास्त्र-परिश्रमविल्लदिरुव बालिशर वादवागिरुत्तदॆम्ब भाववु. ई पूर्व-पक्षक्कॆ समाधानवन्नु हेळुत्तारॆ, 
+
 </details>
 
 ### व्युत्पत्त्या भगवद्-आराधनम्
@@ -8404,6 +11052,11 @@ Aquí, como **explica** en los Brahma Sūtras (1-2-29),
 इन्द चोद्यत्तै इरण्डुविदमाग परिहरिक्कक्कोलि मुदल् परिहारत्तै यरुळिच्चॆय्गिऱार् इव्विडत्तिलित्यादिना । साक्षादपीति, अग्रं नयतीत्यादिव्युत्पत्तिकळाले अग्नीन्द्रादिशब्दङ्गळ् साक्षात्तागवे अदावदु देवतान्तरव्यवधानमऩ्ऱिक्के भगवद्वाचकमागैयाले विरोधमिल्लै यॆऩ्ऱु सॊल्लुगिऱ सूत्रत्तिऩ्बडिये, निर्वहिक्कलामिडत्तिल् अनन्यथासिद्धजीवादिलिङ्गमिल्लादविडत्तिल् ऎऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इव्विडत्तिल्** - ई सन्दर्भदल्लि, **"साक्षाद् अप्य् अ-विरोधं जैमिनिः",** - (शा. सू. १-२-२९) **ऎङ्गिर सूत्रत्तिन्‌ पडिये** - ऎन्दु सूत्रदल्लि हेळिरुव हागॆ, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8453,6 +11106,31 @@ porque **son** como los nombres sagrados que se encuentran en Sahasranama (etimo
 इवै श्रीसहस्रनामत्तिऩ् तिरु नामङ्गळिऩ्बडिये निऱ्कैयाले यिवऱ्ऱिल् देवतान्तरस्पर्शमिल्लैयिति । ‘‘यानि नामानि गौणानि तानि वक्ष्यामि’’ ऎऩ्ऱु गुणकृतनामङ्गळैये सॊल्लुवदाग प्रतिज्ञै पण्णि सॊल्लप्पट्ट सहस्रनामत्तिल् शुभावहत्वशुभत्वादिगळैच् चॊल्लुम् शर्वशिवादिशब्दोच्चारणत्तिल्बोल् अग्रं नयतीति योगव्युतपत्तियाले निरुपाधिकाग्रनयनादिरूपगुणविशिष्टपरमात्मावै साक्षात्तागच् चॊल्लुम् अग्नीन्द्रादि शब्दघटितमन्त्रकरणकवर्णाश्रमधर्मानुष्ठानत्ताले पारमैकान्त्यभङ्गम् वारादॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अग्र-नयनादि-व्युत्पत्तिगळाले - अग्रे नयतीत्य् अग्निः** ऎन्दरॆ मुन्दॆ निन्तु सिद्धोपायनागि करॆदुकॊण्डु होगुवनु ऎम्बिवे मॊदलाद व्युत्पत्तिगळिन्द **अग्न्य्-आदि-शब्दङ्गळै** - अग्निये मॊदलाद शब्दगळन्नु **सर्वेश्वरनुक्कु** - सर्वेश्वरनिगॆ, **साक्षाद्-वाचकङ्गळान** - साक्षात्तागि बोधकगळागि, **निर्वहिक्किलामिडत्तिल्** - निर्वहिसबहुदॆन्दु श्री-जैमिन्य्-आचार्यरु हेळिद सन्दर्भदल्लि, **इवु** - ई अग्न्य्-आदि-शब्दगळु आदि-शब्ददिन्द, वैश्वानर, सूर्य, मित्र, इन्द्र मॊदलाद शब्दगळु हेळल्पट्टिवु, **श्री-सहस्र-नामत्तिन् तिरुनामङ्गळिर्‌ पडिये** - श्री-विष्णु-सहस्र-नामदल्लि शब्दगळ हागॆ, **निर्कैयाले** - व्युत्पत्तिय मूलक अर्थवन्नु बोधिसुव स्थितियल्लिरुवदरिन्द, इवॆल्ला पदगळू व्युत्पत्तिय मूलक परम-पुरुषनन्ने बोधिसुवदरिन्द, देवतान्तरगळाद अग्नि, सूर्य, मॊदलाद अन्य-देवतॆगळ, **स्पर्शमिल्लै** - सम्बन्धविल्लवु. 
+
+[[P175]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इवॆल्ला पदगळू सर्वेश्वरनन्ने साक्षात्तागि बोधिसुत्तवॆन्दु जैमिन्य्-आचार्यराद श्री व-यास-शिष्यरु हेळिरुवदरिन्द देवतान्तरद सम्बन्धवे इल्लवॆन्दु भाविसबहुदॆम्ब तात्पर्यवु. ई 
+
+> साक्षाद् अप्य् अ-विरोधं जैमिनिः 
+
+ऎम्ब ब्रह्म-सूत्रद उपपादनॆगॆ २३३२-३३ नॆय पुटगळन्नु नोडि. ई समाधानगळॆल्ला हिन्दॆये साध्योपाय-शोधनाधिकारदल्लि उपपादितवागिद्दरू प्रकरणवु ऒदगिदुदरिन्द पुनः ज्ञापकवन्नु कॊट्टिरुत्तारॆ. इदु कृत-कृत्याधिकारदल्लू सङ्ग्रहवागि बोधिसल्पट्टिरुत्तदॆ. ११५५ नॆय पुटवन्नु नोडि. हीगॆ परमात्मनन्ने ई शब्दगळु बोधिसुवदरिन्द, **देवतान्तर-स्पर्शम् इल्लै** ऎन्दु हेळल्पट्टितु, 
+
+मुमक्षुविगॆ श्राद्धादि-कर्मगळू अवश्य-कर्तव्यगळाद कर्मगळु. अल्लि पितृ-देवतॆगळ अराधनॆयुण्टल्ला, अल्लॆल्ला देवतान्तर-स्पर्शवे इल्लवॆन्दु जैमिन्य्-आचार्यर न्यायवन्नु हेगॆ हेळलागुत्तदॆ ? अदू अल्लदॆ प्रतर्दन-विद्यॆयल्लि इन्द्रने **माम् उपास्व** ऎन्दु हेळिरुत्तानल्ला ? मत्तु 
+
+> जीव-मुख्य-प्राण-लिङ्गात् नेति चेन् न, उपासा-त्रैविध्यात् 
+
+ऎम्ब सूत्रदल्लि परमात्मनु मूरु विधवागि उपास्यनॆन्दु हेळल्पट्टिरुत्तदॆ. हेगॆन्दरॆ - (१) निखिल-कारण-भूतनाद पर-ब्रह्मनन्नु सत्यत्व-ज्ञानत्वानन्तत्व--दिव्य-मङ्गळ-विग्रह-विषिष्टनन्नागि उपासिसोणवु; (२) जीवात्म-शरीरकनन्नागि उपासिसोणवु प्रतर्दन-विद्यॆय हागॆ, (३) भोग्य-भोगोपकरण-शरीरकनागि उपासिसोणवु. आदुदरिन्द मुमुक्षुविगू कूड जीव-शरीरक-परमात्मनु उपास्यनु ऎन्दु हेळल्पट्टिदॆयल्ला ? इल्लियू जैमिन्य्-आचार्यर न्यायवु कूडुवदिल्लवल्ला ? ऎन्दरॆ श्री-व्यास-महर्षिय अभिमतानुसारवागि इन्नॊन्दु विधवागियू समाधानवन्नु हेळबहुदॆन्दु स-प्रमाणवागि उपदेशिसुत्तारॆ.- 
+
+[[P176]]
+
+</details>
 
 ### शरीर-शरीरि-भावतो भगवद्-आराधनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8502,6 +11180,15 @@ etc.
 अनन्यथासिद्धजीवादिलिङ्गमुडैय कर्मविशेषत्तिल् प्रतर्दनविद्यान्यायत्ताले ‘‘देवान् ऋषीन् पितृन् भगवदात्मकान् ध्यात्वा सन्तर्प्य’’ ऎऩ्ऱु नित्यत्तिलेसॊऩ्ऩबडि तत्तद्देवताशरीरकऩाऩ परमात्मावे आराध्यऩाग निऱ्कैयालुम् विशेषणीभूतदेवतैकळुक्कु आराध्यत्वादिगळ् इल्लामैयालुम् देवतान्तरसम्बन्धमिल्लामैयाल् अन्द कर्मानुष्ठानत्तालुम् पारमैकान्त्य भङ्गम् वारादॆऩ्ऱु द्वितीयपरिहारत्तैयरुळिच्चॆय्गिऱार् देवानृषीनित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"देवान्** - ब्रह्मादि-देवतॆगळन्नू, **ऋषीन्** - कृष्ण-द्वैपायनादि ऋषिगळन्नू, **पितॄन्** - पितृगळन्नू इवरु ऎन्तवरॆन्दरॆ **भगवद्-आत्मकान्** - भगवन्तनिगॆ शरीरवागि भगवन्तनन्ने आत्मावागि उळ्ळवरु, इन्तवरन्नु ध्यानिसि, **सन्तर्प्य** - देव-र्षि-पितृ-तर्पणवन्नु अवरु भगवद्-आत्मकरॆन्दु भाविसि तर्पणवन्नु कॊट्टु, - (श्री-भाष्य-कार-नित्य) देवतॆगळिन्दलू ऋषिगळिन्दलू पितृगळिन्दलू उण्टाद महोपकार ऋणक्कागि प्रतिदिनवू ई तर्पणवन्नु माडतक्कद्दु; आदरॆ हीगॆ तर्पिसुवुदरिन्द अवरुगळिगॆ आत्मावाद भगवन्तने इदरिन्द प्रीतनागुवनॆम्ब भाववु. १५० नॆय पुटवन्नु नोडि. **ऎन्रु नित्य-प्रभृतिगळिले** - ऎन्दु श्री-यति-वर्यरु रचिसिरुव नित्यवे मॊदलाद ग्रन्थगळल्लि, प्रभृति-शब्ददिन्द गीता-भाष्यादिगळु हेळल्पट्टवु. गीता-भाष्यदल्लि ऎल्लि हेळिरुत्तदॆ ऎन्दरॆ 
+
+> वेदान्त-वाक्य-जातं हि परम-पुरुष-शरीरतयावस्थितानाम् इन्द्रादीनाम् आराध्यत्वं विदधत् आत्म-भूतस्य परम-पुरुषस्येव साक्षाद्-आराधत्वं विदधाति (गी. ७-२३) 
+
+इत्य्-आदि-स्थळगळल्लि प्रोक्तवु. हीगॆ श्री-भाष्य-काररु हेळिरुव हागॆ, 
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8536,6 +11223,15 @@ para **realizar** estos respectivos ritos **meditando** que el Ser Supremo **tie
 तत्तद्देवताशरीरकऩाग परमात्मावै अनुसन्धित्तुक्कॊण्डु तत्तत्कर्मङ्गळै अनुष्ठिक्कै शास्त्रबलसिद्धमाऩविडत्तिल्
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**तत्-तद्-देवता-शरीरकनान** - आ आ देवतॆगळन्ने शरीरवागिवुळ्ळ, **परमात्मनन्ने, अनुसन्धित्तुक्कॊण्डु** - अनुसन्धानमाडिकॊण्डु, **तत्-तत्-कर्मङ्गळै आनुष्ठिक्कै** - 
+
+> मयि सर्वाणि कर्माणि संन्यस्याध्यात्म-चेतसा (गी ३-३०) 
+
+ऎम्बल्लि हेळिरुव हागॆ आया कर्मगळन्नु अनुष्ठिसोणवु, इल्लि आज्ञानुज्ञा-कैङ्कर्यगळु प्रकरणानुगुणवागि हेळल्पट्टवु, **शास्त्र-सिद्धमान विडत्तिल्** - शास्त्रदल्लि विधिसल्पट्टिरुव सन्दर्भदल्लि, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8596,6 +11292,14 @@ y no a Sus atributos (o cuerpos) (es decir, los seres sintientes y no sintientes
 ‘‘उपासा त्रैविध्यात्’’(ब्रह्मसूत्रम् १-१-३२) ऎऩ्गिऱबडिये प्रतर्दनविद्यादिगळिल् विशेष्यमाऩ दिव्यात्मस्वरूपत्तालुम् चेतनाचेतनविशिष्टऩागवुम् परमात्मावै उपासियानिऩ्ऱालुम् विशेषणमाऩ चेतनाचेतनङ्गळिलाराध्यत्वमिल्लादाप्पोले 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"उपासा त्रैविध्यात्"** - ( ब्र. सू. १-१-३२) "उपासनॆयु मूरु विधवागिरुवदरिन्द" **ऎङ्गिरपडिये** - ऎन्दु व्यास-सूत्रदल्लि हेळिरुव हागॆ, **प्रतर्दन-विद्यादिगळिले** - प्रतर्दन-विद्यॆ **आदि**-शब्ददिन्द मधु-विद्यॆ पञ्चाग्नि-विद्यॆगळल्लि, **विशेष्यमान** - विशेष्यनागि **दिव्यात्म--स्व-रूपत्तालुम्** - दिव्य-परमात्म--स्व-रूपदिन्दलू, **चेतनाचेतन-विशिष्टनागवुम्** - चेतनाचेतनगळन्नु शरीरवागि हॊन्दिरुववनागियू, **परमात्मावै उपासीया निन्रालुम्** - परमात्मनन्ने उपासिसल्पट्टरू, **विशेषणमान चेतनाचेतनङ्गळिल्** - विशेषणगळाद चेतनाचेतनगळल्लि **आराध्यत्वम् इल्लादार्पोले** - आराधिसल्पडुव भाववु हेगॆ इल्लवो हागॆये,
+
+[[177]]
+
+</details>
+
 ### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8630,6 +11334,44 @@ quienes **son** realmente atributos o cuerpos del Ser Supremo.
 इव्विडत्तिलुम् विशेषणमाऩ देवर्षिपित्रादिगळै इवऩाराधिक्किऱाऩल्लऩ्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इव्विडत्तिलुम्** - ई प्रपन्ननु आज्ञानुज्ञा-कैङ्कर्यगळन्नु माडुव सन्दर्भदल्लि **देव-र्षि-पितृगळन्नु इवन्** - ई अनुष्ठिसुववनु **आराधिकरानल्लन्** - आराधिसुवदिल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+देव-र्षि-पितृ-तर्पणगळन्नू सन्ध्या-वन्दनादिगळन्नू पञ्च-महा-यज्ञ-रूपवाद वैश्वदेववन्नू, प्रतिदिनवू प्रपन्ननू माडतक्कद्दागिरुत्तदॆ. अवुगळल्लि अन्य-देवता-पितृ मॊदलादवुगळ आराधनॆयु इरुत्तदॆयल्ला, प्रपन्ननु अन्तह कर्मगळन्नॆसगुवदरिन्द अन्य-देवताराधनॆय सम्बन्ध उण्टागुवदिल्लवो ऎन्दरॆ ई आराधनॆगळल्लि आ अन्य-देवतादिगळिगॆल्ला आत्मावाद परमात्मने आराधिसल्पडुवदरिन्द दोषविल्लवु. शास्त्र-विहितवादुदरिन्द माडले तीरबेकॆन्दु उपदेशिसिदरु. इन्तह भावनॆयु ब्रह्म-विद्यॆयाद उपासनिगॆ उण्टॆन्दु, **"उपासा त्रैविद्यात्"** ऎम्ब ब्रह्म-सूत्रदल्ले उपपादितवागिदॆ ऎन्दु तिळिसि, ई प्रक्रियॆये प्रतर्दन-विद्यॆ, पञ्चाग्नि-विद्यॆगळल्लू उण्टॆन्दु हेळिदरु. **"उपासा त्रैविद्यात्"** ऎम्ब ब्रह्म-सूत्रदल्लि उपासनॆयन्नु मूरु विध भावनॆयिन्द माडल्पडबहुदॆन्दु हेळल्पट्टिरुत्तदॆ. हेगॆन्दरॆ निखिल-कारण-भूतनाद पर-ब्रह्मवन्नु सत्यत्व-ज्ञानत्यादिगळेनु दिव्य-मङ्गळ-विग्रह-युक्ततॆ एनु इवुगळिन्द विशिष्टनन्नागि उपासिसोणवु ऒन्दु विध. भोक्तृ-वर्ग-शरीरकनागि दिव्य-मङ्गळ-विग्रह-युक्तनॆन्दु उपासिसोणवु ऎरडनॆयदु. भोग्य-भोगोपकरण-शरीरकनागि दिव्य-मङ्गळ-विग्रह-युक्तनागि उपासिसोणवु मूरनॆयदु. हीगॆ सर्व-चेतनाचेतन-शरीरकनागिरुवदरिन्द सर्व-चेतनाराधनॆयु केवल-चेतनाराधनॆयु आगुवदिल्लवु. तद्-आत्मनाद परमात्मन आराधनॆये ऎम्ब भाववु. प्रतर्दन-विद्यॆयल्लि प्रतर्दनरु होगि इन्द्रनन्नु कुरितु, हिततमवागि ऎन्दरॆ मुक्ति-दायकवागिरुवदन्नु उपदेशिसु ऎन्दु प्रार्थिसुत्तारॆ. अदक्कॆ इन्द्रनु **माम् उपास्व** - नन्नन्नु उपासनॆ माडु ऎन्दु हेळिदनु. इन्द्रनु जीवनु, दिव्य-मङ्गळ-विग्रह-रहितनु, इन्तवन उपासनॆयु प्रतीकालम्बनवॆन्दु हेळल्पट्टु, अन्तह उपासनॆगॆ मोक्षविल्लवु, हागादरॆ इन्द्रनु नन्नन्नु उपासिसु ऎन्दु हेळिद्दु हेगॆ ? ऎन्दरॆ 
+
+> शास्त्र-दृष्ट्या तूपदेशो वाम-देववत्
+
+ऎम्ब सूत्रदल्लि (ब्र. सू. १-१-३१) हेळिरुव प्रकार, इन्द्रनु हेळिदुदेनॆन्दरॆ ? नानु ऎन्दरॆ मच्-छरीरक-परमात्मनु, मच्-छरीरकनाद परम-पुरुषन दिव्य-मङ्गळ-विग्रहवे उपास्यवॆम्ब भाववु. हीगॆये परम-भागवतराद प्रह्लादरु असुर-पुत्रररिगॆ उपदेशिसिरुत्तारॆ.- 
+
+[[178]]
+
+> सर्व-गत्वाद् अनन्तस्य स एवाहम् अवस्थितः ।  
+मत्तस् सर्वम् अहं सर्वं मयि सर्वं सनातने ॥ 
+
+अनन्तनाद श्री-महा-विष्णुवु ऎल्लक्कू आत्मावागि व्यापिसिरुवदरिन्द, आतनु ऎन्दरॆ परम-पुरुषने नानागि इद्दानॆ, मच्-छरीरकनागि ऎन्दरॆ मद्-आत्मकनागिद्दानॆ. आदुदरिन्दले नन्निन्दले ऎल्लवू ऎन्दरॆ मच्छ-रीरक-परमात्मने ऎल्लवु, **अहं सर्वं** - नाने ऎल्लवु ऎन्दरॆ मच्-छरीरक-परमात्मने ऎल्लवु, **मयि सर्वं सनातने** - अनादियागिरुव नन्नल्ले सर्ववु ऎन्दरॆ मच्-छरीरक-परमात्मनल्ले सर्ववु ऎम्बुदु श्लोकार्थवु. 
+
+मधु-विद्यॆयल्लि हेळिरुवदेनॆन्दरॆ ? आदित्यन पूर्व, दक्षिण, पश्चिम, उत्तर ऊर्ध्वांशगळन्नु वसु, रुद्र, आदित्य, मरुत्, साध्यरुगळिगॆ भोग्यवॆन्दू, आ आ आदित्यांशगळे अवरिगॆ उपास्यवॆन्दू, छान्दोग्यदल्लि हेळल्पट्टिरुत्तदॆ. ई देवतॆगळिगॆल्ला परमात्मोपासनॆयल्लि आधिकारवुण्टॆ इल्लवे ऎम्ब चर्चॆयल्लि व्यास-शिष्यराद जैमिन्य्-आचार्यरु इल्लवॆन्दु अभिप्रायपट्टरु. एकॆन्दरॆ तम्मन्नु तावे उपासिसोणवॆम्बुदु अ-सङ्गतवॆम्ब अभिप्रायदिन्द अधिकारविल्लवॆन्दु हेळिदरु. श्री-व्यासरादरो 
+
+> भावन् तु बादरायणो ऽस्ति हि (१-३-३२) 
+
+ऎम्ब ब्रह्म-सूत्रदल्लि, ई वस्व्-आदि ऐदु पङ्गडदवरिगू उपासनदल्लि अधिकारवु उण्टॆन्दु स्थापिसिदरु. एकॆन्दरॆ **अस्ति हि** - उपास्यत्ववू प्राप्य-प्राप्तियू उण्टु. एकॆन्दरॆ वस्व्-आदित्यादि-शरीरकनाद परमात्मने अवरुगळिगॆ उपास्यनु. अन्तह परम-पुरुषनन्नु उपासिसिदरॆ कल्पान्तदल्लि ब्रह्म-प्राप्ति ऎन्दु हेळल्पट्टिरुत्तदॆ. 
+
+पञ्चाग्नि-विद्यॆयल्लि हेय-प्रकृतिगिन्त विलक्षणवाद परिशुद्धात्म--स्व-रूपवन्नु पर-ब्रह्मात्मकवॆन्दु उपासिसल्पडुत्तदॆ. इदक्कॆ फलवेनॆन्दरॆ मधु-विद्यॆयल्लि वस्व्-आदि-प्राप्तियुण्टागि अनन्तर मोक्ष-प्राप्ति हेगो हागॆये, स्वात्मानुभववाद कैवल्य-प्राप्तियुण्टागि अनन्तर मॊक्ष-प्राप्तियु. ई पञ्चाग्नि-विद्या-निष्ठनन्नु जिज्ञासुवॆन्दु गीतॆयल्लि हेळल्पट्टिरुत्तदॆ. 
+
+[[179]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+अगलि, देव-र्षि-पितृगळन्ने आराधिसि बिट्टु तत्-तच्-छरीरक-परमात्मने आराधिसल्पट्टनु ऎन्दु हेळिदरू, विशेष्यवेनो आराधिसल्पट्ट हागॆ भावनॆयादरू विशेषणगळाद देव-र्षि-पितृगळ आराधनॆयिन्द देवतान्तर-सम्बन्धवु उण्टागलिल्लवो ? ऎन्दरॆ सर्वान्तर्यामियाद सर्वेश्वरन आराधनॆयॆन्दे ईतनु भाविसुवाग शास्त्र-विधिगनुगुणवागि माडुव कैङ्कर्यगळु ऎन्दिगू देवतान्तर आराधनवागुवदिल्लवॆन्दु स-प्रमाणवागि **"अहं हि"** ऎन्दारम्भिसि, उपपादिसुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8664,6 +11406,11 @@ y también **soy** yo quien **recompensa**
 ‘‘अहं हि सर्वयज्ञानां भोक्ताच प्रभुरेव च’’(गीता ९-२४), 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**सर्व-यज्ञानां** - समस्तगळाद श्रुतिगळल्लि हेळल्पट्ट यज्ञगळिगू, **अहं हि** - नानु ताने, **भोक्ता च** - हविस्सुगळन्नु स्वीकरिसि प्रीतनागुवनू नाने, **प्रभुर् एव च** - समर्थनागि अवुगळिगॆल्ला स्वामियागि निर्वाहकनु नाने. - (गी. ९-२४) आदरॆ इवुगळन्नु अनुष्ठिसुव क्रमवु ऎरडु विधवु. शास्त्र-दृष्टियिन्द नानु अवरिगॆ आत्मा ऎन्दु भाविसि इवुगळन्नु कर्मारम्भदल्लू कर्म-समाप्तियल्लू त्यागवन्नु हेळि अनुष्ठिसिदरॆ नानु प्रीतनागि बन्धकवागुव फलवन्नु कॊडुवदिल्लवु. हीगॆ ज्ञानविल्लदॆ अनुष्ठिसुववरु जारिबिद्दु बन्धवन्नु अनुभविसुवरॆन्दु उत्तरार्धदल्लि हेळल्पट्टिरुत्तदॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8697,6 +11444,12 @@ y las **ofrendas** (kavya) **hechas** a los Manes en sraddhas"
 <details><summary>मूलम्</summary>
 
 ‘‘हव्यकव्यभुगेकस्त्वं पितृदेवस्वरूपधृत्’’(विष्णुपुराणम् १-१९-७३),
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**पितृ-देव--स्व-रूप-धृत्** - पितृ-देवतॆगळल्लि स्व-रूपवन्नु धरिसिरुव ऎन्दरॆ पितृ-देवतात्मकनागि आ कारणदिन्द **हव्य-कव्य-भुग् एकस् त्वं** - पूर्वापर-कर्मगळल्लि हविस्सन्नू कव्यवन्नू परिग्रहिसुवनु नीनॊब्बने. - (वि. पु. १-१९-७३)
+
 </details>
 
 
@@ -8742,6 +11495,17 @@ quien **es** el yo interior de todas las cosas"
 ‘‘ये यजन्ति पितृन्देवान् ब्राह्मणान् सहुताशनान् । सर्वभूतान्तरात्मानं विष्णुमेव यजन्ति ते’’(भारतम् शान्ति-पर्व ३५५-४१। (दक्ष-स्मृति))
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(५) **"ये** - यारु, पितृगळन्नू ब्रह्म-रुद्रेन्द्रादि-देवतॆगळन्नू **ब्राह्मणान् स-हुताशनान्** - औपासनादि अग्नि-कार्यगळिन्द कूडिद ब्राह्मणरन्नू, **यजन्ति** - आराधिसुत्तारो, **ते** . अवरॆल्लरू, सर्व-भूतगळिगू आत्मावागि विष्णुवन्ने आराधिसुत्तारॆ. 
+
+> त्वां योगिनश् चिन्तयन्ति त्वां यजन्ति च याजकाः
+
+ऎम्बुदु इदर पूर्वार्धवु. 
+
+[[180]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8780,6 +11544,11 @@ que **es** objeto de **adoración** del sabio.
 ऎऩ्गिऱ पडिये सर्वान्तर्यामियाऩवऩे प्रतिबुद्धऩाऩविवऩुक्काराध्यऩागैयाले 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ऎङ्गिरपडिये** - ऎन्दु हेळिरुव हागॆ, **सर्वान्तर्यामियादवने** - ई अन्य-देवतॆगळाद समस्तरिगू अन्तर्यामियाद श्री-महा-विष्णुवे, **प्रतिबुद्धनान** - प्राज्ञनाद, **इवनुक्कु** - ई नित्य-नैमित्तिकगळन्नू आज्ञानुज्ञा-कैङ्कर्यगळन्नू माडुव ई प्रपन्ननिगॆ, आराध्यनादुदरिन्द, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8818,6 +11587,27 @@ Por lo tanto, para el hombre que **realiza** kaiṅkarya o servicio **de acuerdo
 अनन्यथासिद्धजीवलिङ्गकस्थलत्तिल् तत्तद्देवतान्तर्यामियाऩ भगवाऩे आराध्यऩागैयाल् विधिबलत्ताले विशेषणमाय् निऱ्किऱ देवतान्तरत्ताल् पारमैकान्त्य भङ्गम् वारादॆऩ्बदिल् सप्रमाणम् दृष्टान्तद्वयमरुळिच्चॆय्गिऱार् अहं हि सर्वयज्ञानामॆऩ्ऱु तुडङ्गि इप्पडि तॆळिन्दनुष्ठिक्कुमवऩुक्किति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि तॆळिन्दु** - हीगॆ शास्त्र-ज्ञानवन्नु हॊन्दि, **अनुष्ठिक्कुम् अवनुक्कु** - अनुष्ठिसुव अवनिगॆ, **यथा-शास्त्रम् अनुष्ठिक्किर कैङ्कर्यङ्गळाम्** - शास्त्रानुगुणवागि आनुष्ठिसुव परम-पुरुषन प्रीति-सम्पादकगळाद कैङ्कर्यगळागुत्तवॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अन्य-देवताराधनवॆन्दिगू आगुवदिल्लवॆम्ब भाववु. **अहर्-अहस् सन्ध्याम् उपासीत** - इत्य्-आदि--शास्त्र-विधिगळिगनुगुणवागि माडुवदरिन्द प्रपन्ननिगॆ विरुद्धवाद अन्य-देवताराधनॆयु ऎन्दिगू आगुवदिल्लवॆम्बुदु तात्पर्यवु. ई विधियल्लि **सन्ध्यां** - ऎम्बुदु सन्ध्या-शब्दद द्वितीयवल्लवु. आग अन्य-देवतॆय उपासनॆ ऎम्बर्थवागुत्तदॆ. अदु **सन्धि**-शब्दद सप्तमि. **सन्ध्यायां भगवन्तम् उपासीत** - ऎम्बर्थवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**देवतान्तर-स्पर्श-दोषवुण्टागदिरुवदु यावाग ? उण्टागुवदु यावाग ? ऎम्बुदन्नु तिळिसुत्तारॆ.** 
+
+मुन्दॆ ऎरडु वाक्यगळ मूलक ई विधि-प्राप्तवाद नित्य-नैमित्तिकादिगळन्नु हेगॆ अनुष्ठिसिदरॆ देवतान्तर-स्पर्श-दोषवु प्राप्तवागुवदिल्लवॆन्दू, इन्नु हेगॆ अनुष्ठिसिदरॆ अन्तह दोषवु उण्टागुत्तदॆन्दू हेळुत्तारॆ. मॊदलु वाक्यदिन्द याव सन्दर्भदल्लि दोष-प्राप्तियिल्लवॆम्बुदन्नु तिळिसुत्तारॆ. 
+
+[[181]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8860,6 +11650,17 @@ y en **comer** la comida **ofrecida** (a estos dioses).
 इदऱ्कु देवतान्तरस्पर्शदोषम् वारादु ऎऩ्बदोडन्वयम्। कैङ्कर्यङ्गळिल् उपायत्वबुद्धियिल्लामैयाले तदनुष्ठानत्तिल् ऎप्पडि उपायान्तरस्पर्शमिल्लैयो द्रव्यार्जन निवेदितनिवेदनादिगळिल् प्रयोजनत्वबुद्धियिल्लामैयाले ऎप्पडि प्रयोजनान्तरस्पर्शमिल्लैयो, अप्पडिये विशेषणीभूततत्तद्देवतान्तरङ्गळिल् कर्माराध्यत्वबुद्धियिल्लामैयाले देवतान्तरस्पर्शमिल्लैयॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**उपायान्तर-स्पर्शम् वारादार्पोलुवुम्** - बेरॆ उपायवाद अन्य-देवतोपासनदल्लि सम्बन्ध उण्टागद हागू, **कैङ्कर्यार्थङ्गळान** - कैङ्कर्यगळिगॆ प्रयोजनगळागिरुव ऎन्दरॆ कैङ्कर्यगळिगॆ बेकाद, **द्रव्यार्जन** - द्रव्य-सम्पादनॆ मत्तु **निवेदितोपयोगादिगळाल्** - ब्रह्म-रुद्रालयगळल्लि निवेदन माडल्पट्टुदुदन्नु स्वीकरिसुवदे मॊदलादवुगळल्लद हागॆ, **प्रयोजनानन्तर-स्पर्शं वारादार्पोलुवुम्** - मोक्षेतरगळाद ऐहिक-प्रयोजनगळ सम्बन्ध बारद हागू, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ऎन्दरॆ देह-यात्रॆ भगवद्-भागवत--नित्य-नैमित्तिक-कर्मगळनुष्ठान इवुगळिगॆ बेकाद द्रव्यार्जनॆ आहार-सेवनॆये मॊदलाद प्रवृत्तिगळल्लि अन्य-देवता-सम्बन्धविल्लद हागू, लिप्तनागदहागू, ऎम्ब तात्पर्यवु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8899,6 +11700,33 @@ quien, **obedeciendo** los **mandatos** (**contenidos** en los śastras,
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 आराध्यविशेषणमाग विधिबलप्राप्तङ्गळाऩ चेतनाचेतनङ्गळाल् ऎऩ्गिऱविडत्तिल् अचेतनकथनम् दृष्टान्तार्थम्। अचेतनमाऩ कञ्चुकादिगळैप्पोले देवतैगळॆऩ्ऱबडि। 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**आराध्य-विशेषणमाग** - आराध्यनु श्री-महा-विष्णुवु, आतनिगॆ विशेषणगळाद सूर्य, अग्नि, ब्रह्म-रुद्रेन्द्रादिगळेनु, मत्तु द्रव्यवे मॊदलाद सामग्रिगळेनु हव्य-कव्यगळेनु इवुगळाद, **विधि-बल-प्राप्तङ्गळान** - शास्त्र-विधिय मूलक उण्टाद आदुदरिन्द आवश्यकवागि विधिसल्पट्ट यज्ञ-रूपगळागि अनुष्ठिसले बेकाद, **चेतनाचेतनङ्गळाल्** - आ अन्य-देवतॆगळ मत्तु अ-चेतनगळाद द्रव्यगळ सम्बन्धदिन्द, **देवतान्तर-स्पर्श-दोषवु, वारादु** - उण्टागलारदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+देह-धारणॆगू, ईतनु माडबेकाद नित्य-नैमित्तिकादि--भगवद्-आराधनॆ पञ्च-महा-यज्ञगळिगू बेकाद द्रव्यवन्नु हविस्से मॊदलादवुगळन्नू सम्पादिसुवदरल्लि ईतनु लिप्तनागदिरबेकु, मत्तु उपायान्तर-संसर्गवू कूडदु. हीगॆ इद्दुकॊण्डु 
+
+> मयि सर्वाणि कर्माणि संन्यस्याध्यात्म-चेतसा 
+
+ऎन्दू, 
+
+> यत् करोषि यद् अश्नासि यज् जुहोषि ददासि यत् ।  
+यत् तपस्यसि कौन्तेय तत् कुरुष्व मद्-अर्पणम् ॥ 
+
+ऎन्दू हेळिरुव हागॆ नडॆसिदरॆ देवतान्तरादि-सम्बन्ध-दोषवुण्टागुवदिल्लवॆन्दु हेळिदरु.
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+इन्नु हेगॆ अनुष्ठिसिदरॆ अन्तह दोषवुण्टागुत्तदॆम्बुदन्नु मुन्दिन वाक्यदिन्द तिळिसुत्तारॆ.- 
+
 </details>
 
 
@@ -8948,6 +11776,13 @@ y **es** su Señor y Maestro--
 इप्पडि देवतान्तरङ्गळिलाराध्यत्वबुद्धि देवतान्तरस्पर्श दोषापादकमॆऩ्ऱाल् भगवाऩिडत्तिल् देवतान्तरसमत्वबुद्धिपण्णिऩालुम् देवतान्तरस्थलङ्गळिल् सॆऩ्ऱालुम् दोषमिल्लैयो? परमैकान्तियाऩ इवऩुक्कुऎदऩाल् ताऩ् ऐकान्त्यविरोधम् वरुम्? ऎप्पडियिरुन्दाल् वारादॆऩ्ऩ, वाक्यद्वयत् ताले अदै विभजित्तुक् काट्टुगिऱार् नारायणं परित्यज्येत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**नारायणं परित्यज्य** - श्रीमन्-नारायणनन्नु त्यजिसि, अवनु ऎन्तवनॆन्दरॆ हेळुत्तारॆ. **हृदि-स्थं** - बहळ दूर होगि आश्रयिसबेकॆम्ब कष्टवेनू इल्लदॆ, तन्न हृदय-गुहॆयल्लिये इरुववनन्नु **प्रभुम्** - एनो आश्रयिसिदरॆ तन्न कामनॆयु सिद्धिसुत्तो इल्लवो ऎम्ब सन्देहक्कॆ कारणवे इल्लदॆ सर्व-समर्थनन्नु, **ईश्वरम्** - आश्रयिसिदरॆ, साकु, परम-हित-प्रवर्तनॆयन्नू माडुवनॆम्ब सङ्कल्पदिन्द तनगॆ नियामकनागिरुववनन्नु इन्तवनन्नु मौढ्यदिन्द त्यागमाडि, **यः** - यावनु, **अन्यं देवम्** - एनन्नू स्वतः कॊडलु योग्यतॆ इल्लद अन्य-देवतॆयन्नु, **पर-बुध्या** - आतने पर-देवतॆयु ऎन्दरॆ सर्वेश्वरनु, ऎम्ब बुद्धियिन्द **अर्चयते** - पूजिसुवनो, **सः** - अन्तवनु, **पाप-भाक्** - पापिष्ठनु" - (प्रजा-स्मृति) ऎन्दू 
+
+[[182]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8984,6 +11819,12 @@ mientras **duren** el sol y la luna”,
 <details><summary>मूलम्</summary>
 
 ‘‘यस्तु नारायणन्देवं सामान्येनाभिमन्यते । स याति नरकं घोरं यावच्चन्द्रदिवाकरं’’(भारतमॆऩ्बर्गळ्), 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**यस् तु** - यावनादरो देवनाद नारायणनन्नु, **सामान्येन** - इतर-देवतॆगळिगॆ समाननॆम्बदागि, **अभिमन्यते** - तिळियुवनो, **सः** - अवनु, **यावच्-चन्द्र-दिवाकरम्** - सूर्य-चन्द्ररिरुववरॆगू घोरवाद नरकवन्नु, **याति** - हॊन्दुवनु. - (भारतमॆऩ्बर्गळ्) 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9025,6 +11866,20 @@ y así también cerca del lugar de cremación, cerca de un cadáver, cerca de un
 <details><summary>मूलम्</summary>
 
 ‘‘बुद्धरुद्रादिवसतिं श्मशानं शवमेव च । अटवीं राजधानीञ्च दूरतः परिवर्जये’’(शाण्डिल्य-स्मृतिः ४-१९१)
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**"बुद्ध-रुद्रादि-वसतिं** - बुद्धनन्नू रुद्रनन्नू आदि-शब्ददिन्द इतर-देवतॆगळु हेळल्पट्टरु., इवरुगळ **वसतिं** - गुडिगळन्नू, श्मशानवन्नू, **शवम् एव च** - शववन्नू सह, **अडवि**यन्नू, **राज-धानि**यन्नू **दूरतः परिवर्जयेत्** - दूरवागिद्दुकॊण्डु बिट्टुबिडतक्कवु. - (शाण्डिल्य-स्मृति ४-१९१)
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ब्रह्म-रुद्रादि-वसतियन्नु शाण्डिल्यरु इवुगळिगॆल्ला समवॆम्ब भावदिन्द हेळिरुत्तारॆ. अवरुगळ आलयक्कॆ होगि आश्रयिसुवदरिन्द श्मशान शव अडविगळन्नाश्रयिसिदरॆ ऎष्टु फल-प्राप्तियो, अष्टे अवरुगळ आश्रयदिन्दलू ऎम्ब भाववु. अवरुगळॆल्ला नम्म हागॆये बद्धरु. नम्म हागॆये अ-समर्थरु. अवरुगळु ऒन्दु वेळॆ दयपालिसिदरू क्षुद्रगळागि क्लेश-युक्तगळागि इरुव अ-शाश्वत-फलगळन्नु कॊडुववरु. आदुदरिन्द प्राज्ञनु अन्य-देवतालयगळिन्द दूरविरतक्कद्दु योग्यवॆम्ब भाववु. इवुगळॊन्दिगॆ राज-धानियन्नू सेरिसिरुवदर अभिप्रायवु, बहुशः प्रपन्ननिगॆ राज-धानियल्लिद्दु राजाश्रयदिन्द आगतक्कद्देनू इल्लवॆन्दागलि, अथवा एनादरू प्राप्तवादरॆ अदू अ-शाश्वतवे ऎम्ब भावनॆयिन्दलागलि, अथवा ऒन्दॊन्दु सन्दर्भदल्लि राजन कोपक्कॆ वशवागि ई रीति बाधॆयुण्टु ऎम्ब भावनॆयिन्दलागलि, आगिरबहुदु. आदुदरिन्दले श्री-निगमान्त-देशिकरवरु राज्याङ्गक्कॆ सेरिद विद्यारण्यरवरु राज-सन्मान उण्टागुत्तदॆन्दु हेळिबरबेकॆन्दु बलवन्तमाडिदरू मत्तु शिङ्ग-भूपालनु तन्न राज्यक्कॆ बरबेकॆन्दु बहळ प्रार्थिसिदरू अवुगळन्नु निराकरिसिदरु. 
+
+[[183]]
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9077,6 +11932,24 @@ cuando estas deidades **no tienen** nada que **ver** con sus ritos y **observanc
 नित्यनैमित्तिकङ्गळिल् तुवक्कऱ्ऱ ऎऩ्बदऱ्कु सॆल्लुदलोडन्वयम्। तथाच नित्यनैमित्तिकत्तिऱ्कुप् पुऱम्बाऩ देवतान्तरवाचकशब्दोच्चारणत्तैप् पण्णुवदुम्, देवतान्तरालयङ्गळुक्कुच् चॆल्लुदलुम् पारमैकान्त्यभञ्जकमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इत्य्-आदिगळिर् पडिये** - इवे मॊदलादवुगळल्लि हेळिरुव हागॆ (१) **देवतान्तरगळल्लि परत्व-बुद्धि पण्णुदल्** - सर्वेश्वरने अवरु ऎम्ब भावनॆयन्नु माडिदरू, (२) **समत्व-बुद्धि पण्णुदल्** - ई अन्य-देवतॆगळू पर-ब्रह्मनू ऎल्ला समवॆम्ब भावनॆयन्नु माडिदरू, नित्य-नैमित्तिकगळल्लि, **तुवक्कत्त** - सम्बन्धविल्लद, **देवतान्तर-स्थलङ्गळिल्** - अन्य-देवतॆगळिरुव ऎन्दरॆ आराधिसल्पडुव प्रदेशगळल्लि, **शॆल्लुदल्** - होगि सेरुवदागलि, (४) **शॆय्यिल्** - कैङ्कर्य माडुवदागलि, **परमैकान्तिक्कु** - परमैकान्तिगॆ, ऎन्दरॆ परमात्मनन्नु ऐकान्त-भक्तियिन्द ध्यानिसुवनिगॆ, **दोषमाम्** - दोषवागुत्तदॆ, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ऎन्दरॆ अन्तह परमैकान्तित्वक्कॆ भङ्ग उण्टागुत्तदॆम्ब भाववु. **नित्य-नैमित्तिकतुवक्कत्त देवतान्तर-स्थलङ्गळिगॆ शॆल्लुतल्** ऎम्बल्लि नित्य-नैमित्तिक-सम्बन्धविल्लदे इरुव ऎन्दु हेळिरुवदर अभिप्रायवेनॆन्दरॆ नित्य-नैमित्तिकगळल्लि आन्य-देवतॆगळ सम्बन्धवु वैश्वदेव मुन्ताद कर्मगळु शास्त्र-सिद्धवागि तप्पिद्दल्लवादुदरिन्द दोषविल्लवु. इन्तह नित्य-नैमित्तिकगळल्लि अल्लदॆ रुद्रालय मॊदलादवुगळिगॆ होगि आराधिसुवदु शास्त्र-सिद्धवादुदल्लवादुदरिन्द दोषावहवॆन्दु एर्पट्टितु, आगलि, नित्य-नैमित्तिकगळल्लि विशेषण-सम्बन्धदिन्द एकान्त्यक्कॆ भङ्गवल्लवॆन्दु एर्पट्ट नन्तर, रुद्रादि आलयगळिगॆ होगि आराधिसिदरू विशेष्यनाद परम-पुरुषने, आराधिसल्पडुवनु, आदुदरिन्द अन्तह आलय-गमनवु निषेधिसल्पडलु कारणवेनु ? ऎम्ब पूर्व-पक्षक्कू ई वाक्यवु समाधानवन्नु कॊडुत्तदॆ. नित्य-नैमित्तिकगळु शास्त्र-सिद्धगळु, आदुदरिन्द आगबहुदु अन्तह आलयगमनवु प्रपन्ननिगॆ शास्त्र-सिद्धवल्लवु, आदुदरिन्द निराकरिसल्पट्टितु. 
+
+> ब्रह्माणं शिति-कण्ठञ् च याश् चान्या देवतास् स्मृताः ।  
+प्रतिबुद्धा न सेवन्ते यस्मात् परिमितं फलम् ॥ 
+
+ऎम्बुदु अनुसन्धेयवु.
+
+[[184]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9132,6 +12005,11 @@ o de que **sean** los **dispensadores** de los frutos de las **acciones**.
 स्वनिष्ठत्वबुद्धियावदु - स्वातन्त्र्यबुद्धि, अदावदु भगवाऩुक्कु शेषभूतऩऩ्ऱु; तऩक्कुत् ताऩे स्वतन्त्रऩॆऩ्गिऱ बुद्धि । आराध्यत्वबुद्धियावदु - नाम् सॆय्गिऱ कर्मम् विशेषणीभूत तत्तद्देवताप्रीति जनकमॆऩ्गिऱ बुद्धि । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अल्लदु** - मेलॆ हेळिद नाल्कु विधगळिन्दलू परमैकान्तित्वक्कॆ भङ्गबारद हागॆ, नित्य-नैमित्तिकगळल्लि, **आराध्यनान** - आराधिसल्पडुव, **सर्वान्तर्यामिक्कु** - सर्ववन्नू व्यापिसि अवुगळिगॆल्ला आत्मावागिरुव सर्वेश्वरनिगॆ, **शरीरमाय् निर्किरनिलैयि (ना)ल्** - शरीरवागि ई देवतान्तरगळल्लि निन्तिरुवदरल्लि, **इद्देवतॆगळ पक्कल् परत्व-बुद्धियुम्** - ई अन्य-देवतॆगळ विषयदल्लि पर-तत्त्ववॆम्ब बुद्धियू, **साम्य-बुद्धियुम्** - ऎल्ला देवतॆगळू श्री-महा-विष्णुवू समवॆम्ब बुद्धियू, **स्व-निष्ठत्व-बुद्धियुम्** - भगवन्तनिगॆ तानु शेष-भूतनॆम्ब भावनॆयिल्लदॆ ताने स्व-तन्त्रनॆम्ब बुद्धियू, **आराध्यत्व-बुद्धियुम्** - आ आन्य-देवतॆगळे आराधिसलु योग्यरॆम्ब बुद्धियू अथवा ईग तानु अनुष्ठिसुवदरिन्द आ अन्य-देवतॆगळु आराधिसल्पडुवरॆम्ब बुद्धियू, **फल-प्रदत्व-बुद्धियुम्** - अवरुगळे तानु माडुव कर्मगळ फलवन्नु कॊडतक्कवरॆम्ब भावनॆयू, **इल्लामैयाल्** - प्रपन्ननल्लि इवु याव दोषवू इल्लदिरुवदरिन्द, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9169,6 +12047,13 @@ que **son** los atributos del Ser Supremo en los Vidyās o meditaciones llamadas
 इदिल् अनुरूपमाऩ दृष्टान्तमरुळिच्चॆय्गिऱार् उपास्यविशेषणङ्गळाऩवित्यादियाल्। ऎप्पडि उपासनस्थलत्तिल् उपास्यऩाऩ भगवाऩुक्कु विशेषणङ्गळाऩ इन्द्रप्राणवैश्वानर त्रैलोक्यादिगळाऩ चेतनाचेतनङ्गळुडैय सम्बन्धत्ताले उपासकऩुक्कु पारमैकान्त्यभङ्गमिल्लैयो, अप्पडिये कर्माराध्यविशेषणमाऩ तत्तद्देवतैकळुडैय शब्दोच्चारणसम्बन्धत्ताले इवऩुक्कु पारमैकान्त्यभङ्गमिल्लैयॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**उपास्य-विशेषणङ्गळान** - उपास्यनाद पर-ब्रह्मनिगॆ अ-पृथक्-सिद्ध-विशेषणगळाद, मेलॆ हेळिद अन्य-देवतॆगळाद **प्राण-वैश्वानर-त्रैलोक्यादिगळाल्** - प्राण-शब्द-वाच्यवादुदन्नू, जाठराग्नि-वाच्यवादुदन्नू मत्तु त्रैलोक्याधिपतियाद इन्द्र-शब्द-वाच्यवादुदन्नू उपासिसुवदर मूलक, आदि-पददिन्द वसुवु उपास्यवागिरुवदु हेळल्पट्टितु, ई विद्यॆगळिगॆ प्राण-विद्यॆ, वैश्वानर-विद्यॆ, प्रतर्दन-विद्यॆ, मधु-विद्यॆ ऎम्ब हॆसरुगळु, **इवनुक्कु व्यभिचारम्** - इवनिगॆ अन्य-देवता-सम्बन्ध-रूप-दोषवु, **वारादार्‌ पोले** - बारद हागॆ ऎन्दरॆ हेगॆ प्राण-विद्यॆ, वैश्वानर-विद्यॆ प्रतर्दन-विद्यॆ इवुगळिन्द, दोष उण्टागुवदिल्लवो हागॆ, ऎम्ब तात्पर्यवु, 
+
+[[P185]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9198,7 +12083,36 @@ así también su **devoción** exclusiva al Señor **no** (en lo más mínimo) *
 शास्त्रसिद्धङ्गळाऩ अग्नीन्द्रादिविशेषणङ्गळालुमिवऩुक्कु ऐकान्त्यविरोधम् वारादु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**शास्त्र-सिद्धङ्गळान** - शास्त्रदल्लि विधिसल्पट्ट, **अग्नीन्द्रादि-विशेषणङ्गळालुम्** - जाठराग्नि इन्द्र, आदि-शब्ददिन्द वसु मॊदलाद परमात्मनिगॆ शरीर-भूतगळागि विशेषणगळागिरुवुगळ मूलकवागि, **इवनुक्कु ऐकान्त्य-विरोधम् वारादु** - ई नित्य-नैमित्तिकगळन्नु **यथा-शास्त्रं, यथा-विधि** अनुष्ठिसुववनिगॆ ऐकान्त्यक्कॆ भङ्गवु बरुवुदिल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+प्राण-वैश्वानर-प्रतर्दन-मधु-विद्यॆगळु शास्त्रदल्लि पॊक्तगळाद ब्रह्म-विद्यॆगळु. इवुगळ विचारवु हिन्दॆ[[??]] पुटगळल्लि उपपादितवु. इवुगळल्लि हेगॆ अन्य-देवता-सम्बन्धविल्लवो, हागॆये नित्य-नैमित्तिकगळू शास्त्रदल्लि विधिसल्पट्टु आवश्यकवागि अनुष्ठिसल्पडतक्कवुगळादुदरिन्द अवुगळ अनुष्ठानदल्लू देवतान्तर-स्पर्श-कारणविल्लवु. मेलिन ब्रह्म-विद्यॆगळल्लि अवुगळु विशेषणगळागि अवुगळिन्द सेरिद विशेष्यवे उपास्यवागिरुवदर मूलक ऐकान्त्य-हानि हेगॆ इल्लवो, हागॆये ई नित्य-नैमित्तिकानुष्ठानगळल्लू सूर्य, अग्नि, ब्रह्मेन्द्रादि-विशेषणगळिन्द कूडिद विशेष्यनाद परम-पुरुषने आराध्यनागुवदरिन्द देवतान्तर-स्पर्शविल्लवॆम्ब भाववु. ऒब्बनु कञ्चुकवन्नु धरिसिरुवदर मेलॆ हारवन्नु समर्पिसिदरॆ, अदु विशेषणवाद कञ्चुकक्कॆ हेगॆ अल्लदॆ आतन आत्मा हेगॆ तृप्तियन्नु हॊन्दुत्तदो हागॆये इल्लू ई विशेषणगळाद अन्य-देवतॆगळिगॆ सम्बन्धिसुवदिल्लवॆम्ब भाववु. **परत्व-बुद्धियुम् साम्य-बुद्धियुम् स्व-निष्टत्व-बुद्धियुम् आराध्यत्व-बुद्धियुम्, फल-प्रदत्व-बुद्धियुम्** हीगॆ ई ऐदु विध बुद्धियू परमैकान्तित्वक्कॆ बाधकगळॆन्दु इल्लि हेळल्पट्टितु. 
+
+नित्य-नैमित्तिकानुष्ठानगळिन्द प्रपन्ननिगॆ ऐकान्त्य-भङ्गविल्लवॆन्दु ऎरडु विधवागि उपापादिसि हेळिदरु.- 
+
+१. नित्य-नैमित्तिकगळ अनुष्ठानदल्लि बरुव सूर्य, अग्नि, वैश्वानर, इन्द्र मॊदलाद शब्दगळु जैमन्य्-आचार्यर अभिप्राय-रीत्या व्युत्पत्ति-मूलक परम-पुरुषने हेळल्पडुव भावनॆयिन्द ऐकान्त्यक्कॆ हानि इल्लवु. 
+
+२. इल्लि उच्चरिसल्पडुव सूर्य, अग्नि, वैश्वानर ब्रह्म-रुद्रेन्द्रादि-देवतॆगळॆल्ला परमात्मनिगॆ शरीरवागि, अवरिगॆल्ला परमात्मने आत्मावादुदरिन्द शरीरक्कॆ माडिद उपचारगळू शरीरक्कल्लदॆ आत्माविगॆ सल्लुवदरिन्दलू आतने प्रीतनागुवदरिन्दलू ऐकान्त्यक्कॆ भङ्गविल्लवॆन्दू हेळिदरु. आदुदरिन्द नित्य-नैमित्तिकगळु आवश्यकवागि अनुष्ठेयगळु; बिट्टरॆ प्रत्यवायुवॆम्ब भाववु. 
+
+[[P186]]
+
+</details>
+
 ### वङ्गि-पुर-पूर्णोक्तिः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**पूर्वाचार्यरुगळ सम्प्रदायानुष्ठानगळ मूलक दृढीकरिसुत्तारॆ.** 
+
+हागादरॆ पूर्वाचार्यरुगळ सम्प्रदाय हेगॆ ? सम्प्रदाय-बलवुण्टो ? ऎन्दरॆ कॆलवु पूर्वाचार्यरुगळु नित्यवॆम्ब आह्निक-ग्रन्थगळन्नु उदाहरिसि, अवुगळ अनुष्ठानावश्यकतॆयन्नु स्थापिसुत्तारॆ श्रीमान्-वङ्गि-पुरत्तनम्बि, कूरत्ताळ्वार्, भट्टर् नञ्जीयर्‌गळ ग्रन्थगळिन्द उदाहरिसुत्तारॆ.- 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वङ्गि-बुरत्तु नम्बियुम् प्रपन्नऩुक्क् अहो-रात्र-कृत्यम् आऩ भगवत्-समाराधनत्तैच् चॊल्लव् इऴिन्दु
@@ -9233,6 +12147,12 @@ Vaṅgīpuram Nambi
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 नित्यकर्मङ्गळिल् अन्यथासिद्धजीवलिङ्गकस्थलत्तिल् साक्षात् भगवाऩैयुम्, अनन्यथासिद्धजीवलिङ्गकस्थलत्तिल् तत्तदन्तर्यामियैयुम् आराधिक्कैयाल् अवैगळाल् देवतान्तरस्पर्शम् वारादॆऩ्ऩुमिडत्तिल्वङ्गिबुरत्तुनम्बि, कूरत्ताऴ्वाऩ्, भट्टर्, नञ्जीयर् इवर्गळुडैय वचनङ्गळैक् काण्बिक्किऱार् वङ्गिबुरत्तु नम्बियुमित्यादियाल्। 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**वङ्गि-पुरद नम्बियुम्** - स्वामिगळु, **प्रपन्ननुक्कु** - प्रपन्ननिगॆ, **अहो-रात्र-कृत्यमान** - हगलिनल्लू रात्रियल्लू माडबेकाद, **भगवत्-समाराधनत्तै** - भगवन्तन आराधना-रूप-कैङ्कर्यगळन्नु **च्चॊल्लविळिन्दु** - हेळलु आरम्भिसि 
+
 </details>
 
 
@@ -9279,6 +12199,11 @@ después de **sorber** el agua (achamana) con los mantras prescritos;
 मन्त्राचमनपूर्वकं – सूर्यश्चेत्यादिमन्त्राचमनपूर्वकं, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**मन्त्राचमन-पूर्वकम्** - मन्त्रवन्नु हेळि आचमनवन्नु माडिदुदु पूर्वकवागि, **गायत्री-जप-पर्यन्तं** - गायत्री-जपवन्नु माडिद पर्यन्तवागि, **अखिलं** - समस्तवाद, **सान्ध्यं कर्म** - सन्धिगळल्लि, रात्रि-प्रातः, मत्तु अहस्सु, रात्रि, इवुगळ सन्धिगळल्लि माडबेकाद सन्ध्या-वन्दनादि-कर्मवन्नु, **यथा-विधि** - शास्त्रदल्लि विधिसिरुव प्रकार, **साधु** - चन्नागि, **समाप्य** - मुगिसि" - (वङ्गि-नित्यं ७७) 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9309,6 +12234,14 @@ He **should do** every karma  at the time **prescribed** for them in the śāstr
 
 समिदाज्यादिभिर्द्रव्यैः मन्त्रैरपि यथोदितैः ।  
 हुत्वाग्नीनग्निहोत्रादावुक्तं कालमपि क्षिपन्॥ ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**समिद्-आज्यादिभिर् द्रव्यैः** - समित्तु तुप्पवे मॊदलाद **होम-द्रव्यैः** आदि-शब्ददिन्द, अक्षतॆ, निवेदनक्कॆ बेकाद सामग्री कुश, आस्तरण मॊदलादवुगळु हेळल्पट्टवु, **यथोदितैः** - शास्त्रगळल्लि विधिसिरुव, **मन्त्रैर् अपि** - मन्त्रगळिन्दलू कूड, **अग्नि-होत्रादौ** - अग्नि-होत्रवे मॊदलादवुगळल्लि, **अग्नीन्** - अग्निगळन्नु, ऎन्दरॆ अग्नियल्लि, **हुत्वा** - होममाडि, **उक्तं कालं** - हेळल्पट्ट कालवन्नु, प्रकरणानुगुणवागि प्रातः-कालवन्नु **अविक्षिपन्** - कळॆयुववनागि," - (वङ्गि-नित्यं ८४, ८५) ऎन्दू, 
+
+[[P187]]
+
 </details>
 
 
@@ -9368,6 +12301,11 @@ para su āśrama como aptos **para realizarse** al mediodía",
 ऎऩ्ऱु ब्रह्मयज्ञत्तिऱ्कु भोजनात्पूर्वमुम् मनुष्ययज्ञत्तिऱ्कुप् पिऱगुम् कालम् सॊल्लप्पट्टदिऱे।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ततः** - अनन्तरदल्लि **स्वोदितम्** - तनगागि हेळल्पट्ट, मत्तु **श्रुति-चोदितम्** - श्रुतिगळल्लि विधिसल्पट्ट, **माध्यन्दिनं कर्म** - मध्याह्नदल्लि माडबेकाद माध्याह्निकवन्नु **स्नानादि-ब्रह्म-यज्ञान्तं** - माध्याह्निकवे मॊदलादवुगळिगागि स्नानवे मॊदलुगॊण्डु ब्रह्म-यज्ञ-पर्यन्तनागि. **अखिलं** - ऎल्ला कर्मवन्नू, **अतन्द्रितः** - मैमरॆयदॆ जागरूकनागि, **कृत्वा** - माडि" - (वङ्गि-नित्यं. ९०) **ऎन्रुम्** - ऎम्बुदागियू, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9416,6 +12354,35 @@ después de lo cual **debe comer** la comida **ofrecida** a Bhagavān (cuyo **ac
 पितृक्रियै - पितृयज्ञम्, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+अनन्तर **होमं** - वैश्वदेव-होम-कर्मवन्नु, **पितृ-क्रियां** - पञ्च-महा-यज्ञगळल्लि ऒन्दाद पितृ-यज्ञवन्नु, **पश्चात्** - अनन्तर, **आनुयागादिकम्** - अनुयागवे मॊदलादवुगळन्नुळ्ळ कर्मवु; - (वङ्गि-नित्यं ४९६) अनुयाग-शब्दार्थवेनॆन्दरॆ वैश्वदेवक्कॆ सेरिदवु पञ्च-महा-यज्ञगळु.- देव-यज्ञ, पितृ-यज्ञ, भूत-यज्ञ मनुष्य-यज्ञ, ब्रह्म-यज्ञ. इवुगळु यावुवु ऎम्बुदक्कॆ ११५१ नॆय पुटवन्नु नोडि. इवॆल्ला आद नन्तर अतिथिगळॊन्दिगॆ भगवन्-निवेदितान्नद भोजन अनुयागवॆनिसुत्तदॆ. **यत्** - यावुदो ? **तत्** ऎन्दु इट्टुकॊळ्ळतक्कद्दु, अवॆल्लवन्नू **समाचरेत्** - सरियागि आचरिसतक्कद्दु. हीगॆ स्नान-सन्ध्या-वन्दनादिगळन्नू, पुनः माध्याह्निकक्कागि स्नान-माध्याह्निक, ब्रह्म-यज्ञ, भगवद्-आराधन, वैश्वदेव हीगॆ ऎल्ला नित्य-नैमित्तिक-कर्मगळन्नू प्रपन्ननु द्विजनाद पक्षदल्लि आवश्यकवागि आनुष्ठिसलेबेकॆन्दु वङ्गि-पुरद नम्बियवरु रचिसिद नित्यवॆम्ब ग्रंन्थ (५२२ श्लोकगळुळ्ळद्दु) दिन्द तोरिसि, पूर्वाचार्यर सम्प्रदाय-रीत्या नित्य-नैमित्तिकगळु अनुष्ठेयगळे विना ऎन्दिगू बिडतक्कद्दल्लवु ब्रह्म-यज्ञानुष्ठानवन्नु ऎरडु विधवागि अनुष्ठिसुव क्रमवुण्टु स्नान, सन्ध्या-वन्दन, तद्-अङ्गवागि मूल-मन्त्र-द्वय-चरम-श्लोक-जपगळु इदादनन्तर देव-र्षि, काण्ड-र्षि पितृ-तर्पणवु अनन्तर औपासन, भगवद्-आराधन, आमेलॆ माध्याह्निकक्कागि स्नान, माध्याह्निक-वैश्वदेवगळु. हीगॆ ऒन्दु क्रम. 
+
+[[P188]]
+
+ब्रह्म-यज्ञवन्नु प्रातः माडदिद्दरॆ ई नित्यदल्लि हेळिरुव हागॆ माध्याह्निकवाद नन्तर अनुष्ठिसतक्कद्दु. इवुगळल्लि औपासन, ब्रह्म-यज्ञ, वैश्वदेवगळन्नु पत्नी-युक्त--गृह-स्थनु नडॆसतक्कद्दादुदरिन्द पत्नी-वियोगवन्नु हॊन्दिद विधुरनिगॆ ई मूररल्लू अधिकारविल्लवु. आदरॆ ब्रह्म-चारिगॆ ब्रह्म-यज्ञदल्लि मात्र अधिकारवु, औपासन, वैश्वदेवगळिल्लवु. आतनिगॆ विधिसिरुव अग्नि-कार्यवन्नु ऎन्दरॆ समिद्-आधानवन्नु माडतक्कद्दु. इल्लि वङ्गि-पुरत्त नम्बियन्नु सम्प्रदाय-स्थापनार्थवागि उदाहरिसिरुवदु श्री-भाष्य-काररिगॆ साक्षात् शिष्यरागि श्री-भाष्य-कार-सम्प्रदाय-रीत्या नित्यानुष्ठानगळन्नॆल्ला विशदवागि तम्म नित्य ऎम्ब ग्रन्थदल्लि विस्तरिसि हेळिरुवदरिन्द ऎन्दु भाविसतक्कद्दु. 
+
+> इत ऊर्ध्वम् अहन् तावद् यावज्-जीवं श्रियश् श्रियः ।  
+पदयोर् अर्चनङ् कर्तुं यतमानस् समाहितः ॥  
+अभिगच्छन् हरिं प्रातः पश्चाद् द्रव्याणि चार्जयन् ।  
+अर्चयंश् च ततो देवं ततो मन्त्रान् जपन्न् अपि ॥  
+ध्यायन्न् अपि परन् देवं कालेषूक्तेषु पञ्चसु ।  
+वर्तमानस् सदा चैवं पाञ्चकालिक-वर्त्मना ॥  
+स्वार्जितैर् गन्ध-पुष्पाद्यैश् शुभैश् शक्त्य्-अनुरूपतः ।  
+आराधयन् हरिं भक्त्या गमयिष्यामि वासरान् ॥ 
+
+ऎम्ब मुख्य-श्लोकगळ मूलक ऎल्लरू प्रतिदिनवू माडबेकाद दिन-चर्यद सङ्ग्रहवु उपदेशिसल्पट्टिरुत्तदॆ. इल्लि आहो-रात्र-कृतमानवादुदॆल्ला, भगवत्-समाराधनवॆन्दु हेळिरुवदु. 
+
+> यत् करोषि यद् अश्नासि यज् जुहोषि ददासि यत् ।  
+यत् तपस्यसि कौन्तेय तत् कुरुष्व मद्-अर्पणम् ॥ 
+
+ऎम्ब हितोपदेशवन्नु स्मरिसुत्तदॆ. (गी. ९-२७) इल्लॆल्ला वर्णाश्रम-धर्मगळॆल्ला 
+
+> न त्याज्यं कार्यम् एव तत् 
+
+(गी.१८-५) ऎम्बुदु स्थापिसल्पट्टितु. **ऎन्रुम्** - ऎन्दू, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9446,8 +12413,21 @@ con sus respectivos mantras (en los pasajes anteriores).
 इप्प्रकारङ्गळिले तत्तन्मन्त्रपूर्वकङ्गळाऩ वर्णाश्रमधर्मङ्गळै यरुळिच्चॆय्दार्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्रकारङ्गळिले** - ई रीतियागि, **तत्-तन्-मन्त्र-पूर्वकङ्गळान** - आया नित्य-कर्मानुष्ठानगळन्नु अववुगळिगॆ विधिसिरुव मन्त्र-पुरस्सरवागि वर्णाश्रम-धर्मगळन्नु, **अरुळिच्चॆय्दार्** - कृपया अप्पणॆ कॊडिसिदरु. ई वङ्गि-वङ्गेश्वररिगॆ श्री-रङ्ग-नारायणाचार्यरॆम्ब हॆसरुण्टु. इवरु रचिसिद नित्यवु ५२२ श्लोकगळन्नुळ्ळ अमोघ-ग्रन्थवु. इदरल्लि मुख्यवागि मॊदलिन कॆलवु श्लोकगळु नित्य-पठनीयगळागि स्तोत्र-जालगळल्लि मुद्रिसल्पट्टिवॆ.
+
+[[P189]]
+
+</details>
 
 ### अन्य-नित्य-ग्रन्थोक्तिः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मुन्दॆ श्री-पराशर-भट्टरु मत्तु श्री-भाष्य-कारर मुख्य-शिष्यराद कूरत्ताळ्वारवर नित्यवॆम्ब ग्रन्थगळिन्द उदाहरिसि, नित्यादि-कर्मगळु आवश्यकवागि अनुष्ठॆयगळॆन्दु हेळि पूर्वाचार्य-सम्प्रदायवन्नु स्थापिसुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9475,6 +12455,12 @@ Bhattar y Koorathalvan también, en sus respectivos nityas,
 <details><summary>मूलम्</summary>
 
 भट्टरुम्, आऴ्वाऩुम् तन्दाङ्ग ळरुळिच्चॆय्द नित्यङ्गळिले
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**भट्टरुम्** - श्री-पराशर-भट्टरू, **आळ्वानुम्** - अवर तन्दॆयाद श्री-कूरत्ताळ्वानरवरू, **तन्ताङ्गळ्** - अवरवरुगळु, **अरुळिचॆय्द** - कृपया रचिसिद, **नित्यङ्गळिले** - नित्यवॆम्ब ग्रन्थगळल्लि 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9529,6 +12515,34 @@ y luego **ofrecer oblaciones** de agua (tarpaṇam)".
 ‘‘श्रुतिस्मृत्युदितं कर्म यावच्छक्तिपरात्मनः । आराधनत्वेनापाद्य सोर्द्ध्वपुण्ड्रश्च तर्पयेत्॥’’(पराशरभट्ट-नित्य-ग्रन्थः)  इत्यादिगळै यरुळिच्चॆय्दार्गळ्।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"श्रुति-स्मृत्य्-उदितं कर्म** - श्रुति-स्मृतिगळल्लि विधिसल्पट्ट कर्मवन्नु, **यावच्-छक्ति** - तनगॆ शक्ति इरुव तनक, तन्न शक्त्य्-अनुसारवागि ऎम्बर्थवल्लवु: सन्ध्या-वन्दनॆय आचरणॆगॆ मात्र शक्तियुण्टु; मिक्कवुगळॆ आनुष्ठानक्कॆ शक्ति इल्लवॆन्दु अवुगळन्नु परित्याग माडबहुदागुवदरिन्द, **परात्मनः** - परमात्मन, **आराधनत्वेन** - अवुगळन्नु अनुष्ठिसुवदु, आतन आराधनवॆन्दु एर्पट्टिरुवदरिन्द, **आपाद्य** - अनुष्ठिसि, ऎन्दरॆ ऎल्ला भगवद्-आराधनवॆन्दु भाविसि, **सोर्ध्व-पुण्ड्रः** - द्वादशोर्ध्व-पुण्ड्रगळ सहितनागि ऎन्दरॆ धरिसि, **तर्पयेत्** - देव-र्षि-पितृ-तर्पणवन्नु अनुष्ठिसतक्कद्दु" - (भट्ट‌र् नित्यम्) **इत्य्-आदिगळै** - इवे मॊदलाद नित्य-कर्मानुष्ठानगळन्नु, **अरुळिचॆय्दार्** - कृपया उपदेशिसिदरु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+पूर्वाचार्यरुगळल्लि मुख्यराद श्री-पराशर-भट्टरू, आळ्वान्रवरू अवरुगळु अनुग्रहिसिरुव नित्यवॆम्ब ग्रन्थदल्लि हेळिरुत्तारॆम्ब तात्पर्यवु. 
+
+[[P190]]
+
+श्री-पराशर-भट्टरु यारॆन्दरॆ - श्री-यामुन-मुनिगळ मूरु सङ्कल्पगळल्लि ऒन्दाद विष्णु-पुराण-कर्तावाद श्री-पराशरर हॆसरन्नु ऒब्बरिगिट्टु माहात्म्यॆयन्नु कापाडतक्कद्दॆम्बुदन्नु निर्वहिसुवदक्कागि श्री-रङ्ग-नायिकि--श्री-रङ्ग-नाथरुगळल्लि श्री-यति-वर्यरु माडिद शरणागतिय मूलक कूरत्ताळ्वान् अवरु देवियवरुगळिगॆ पुत्ररागि जनिसिद महानुभावरु. इवरु लक्ष्मी-नारायणर दिव्य-कटाक्ष-बलदिन्द हुट्टिदवरु. ज्ञान-निधिगळाद श्री-कूरेशर पुत्ररु. आ कारणदिन्द इवरिगॆ श्री-रङ्ग-नाथरॆम्ब हॆसरू उण्टु. महा-प्राज्ञराद ऎम्बारर शिष्यरु. हीगिरुवाग इवर प्राज्ञतॆयु निरतिशयवादुदॆम्बुदु ऎन्दिगू अतिशयोक्तियल्लवु. इवरु सहस्र-नामक्कॆ श्री-विष्णु-पुराणोक्ति मॊदलादवुगळन्नु उदाहरिसि अमोघवाद विलक्षणवाद भाष्यवन्नु बरॆदिरुत्तारॆ. इन्तह अमोघ-ग्रन्थद सङ्ग्रहार्थवन्नू कूड तिळिदुकॊळ्ळदे अनेकरु इरुत्तारल्ला ऎम्ब परितापदिन्द दासनु अदक्कॆ सङ्ग्रहवागि अवर व्याख्यानवन्ननुसरिसि, कन्नडदल्लि अर्थवन्नु बरॆदिरुत्तेनॆ. श्री-पराशर-भट्टरवरु श्री-गुण-रत्न-कोशवॆम्ब श्री-लक्ष्मिय स्व-रूप-रूप-गुण-विभवैश्वर्यादिगळन्नुपपादिसि लक्ष्मी-तत्त्ववन्नु स्थापिसुव ग्रन्थवन्नु अनुग्रहिसिरुत्तारॆ. इवर मुख्य-शिष्यरु नञ्जीयरॆम्बुवरु. इवरु मॊदलु अ-द्वैतियागि नम्म मैसूरु देशद श्री-रङ्गप-ट्टणदल्लि अ-द्वैत-सिद्धान्तदल्लि अग्र-गण्यरागिद्दरु, इवर नाम-धेयवु आग माधव-सूरिगळॆम्बुदागि. इवरिगॆ वेदान्तदल्लिरुव अपार-ज्ञानदिन्द वेदान्ती ऎन्दु हॆसरित्तु. इवरन्नु श्री-पाशर-भट्टरु वाददल्लि जयिसि विशिष्टाद्वैतवन्नु अवलम्बिसि, तमगॆ प्रिय-शिष्यरागि माडिक्कॊण्डु, अवरिगॆ मन्त्रोपदेश, रहस्य-त्रयार्थ मॊदलादवुगळन्नु अनुग्रहिसि, तम्म हॆसराद रङ्गनाथरॆम्ब दास्य-नामवन्नु दयपालिसिदरु. इवरु आनन्तर सन्यासाश्रमवन्नु अवलम्बिसि नारायण-मुनि ऎम्ब नामवन्निट्टुकॊण्डरु. अनन्तर तम्म गुरुगळाद श्री-पराशर-भट्टरन्नु सेविसुवदक्कागि श्री-रङ्गक्कॆ बन्दु नॆलसि उपदेशादिगळन्नु हॊन्दिद नन्तर इवर प्रज्ञा-रूप-महिमॆयन्नु कण्डु श्री-पराशर-भट्टरवरु **नञ्जीयर्,** ऎन्दु विशेष-प्रीतियिन्द नम्म जीयरु ऎम्ब नामदिन्द करॆयुत्तिद्दरु. इवरु अनेक-ग्रन्थगळन्नु बरॆदिरुत्तारॆ. मुख्यवादुदु श्री-सूक्त-भाष्यवु. उभय-कलॆयवरिगू ई व्याख्यानवु उपादेयवु. श्री-निगमान्त-देशिकरवरिगॆ इवरल्लि विशेष-गौरववु. अदरिन्द इवरन्नु **पॆरॆयजी**यरॆन्दु श्रीमद्-रहस्य-त्रय-सारदल्लू चतुश्-श्लोकिय भाष्यदल्लू कॊण्डाडि, उदाहरिसिरुत्तारॆ. ऎल्लि ऎन्दरॆ ? सिद्धोपाय-शोधनाधिकारद २१२५ नॆय पुट नोडि. अल्लि अवर भाष्यवु परमोपादेयवॆन्दु हेळिरुत्तारॆ. श्री-तत्त्व-विषयवाद सर्वस्ववन्नू इवरू मत्तु इवर गुरुगळाद श्री-पराशर-भट्टरू, श्री-यति-वर्यरिगॆ महानस-कैङ्कर्य-परराद किडाम्बि आच्चान् अथवा मडप्पळ्ळि आच्चान् अथवा प्रणत्तां हरन् ऎम्बुवदरिन्द अधिकरिसिदरु. 
+
+[[P191]]
+
+इवरु तम्म आचार्यर उपदेशक्कनुगुणवागि आळ्वराचार्यर चरित्रॆयन्नु प्रपन्नामृतवॆम्ब हॆसरिनिन्द रचिसिरुत्तारॆ. श्रीमद्-भगवद्-गीतॆगू भाष्यवन्नू बरॆदिरुत्तारॆन्दू अल्लि अवरिगॆ नारायणार्यरॆम्ब हॆसरॆन्दु श्रीमान् ऎ. श्रीनिवास-राघवन् ऎं.ऎ. यवरु तावु रचिसिरुव श्री-सूक्त-भाष्यद परिवर्तनदल्लि तिळिसिरुत्तारॆ. श्रीमद्-भगवद्-गीतॆय ७ नॆय अध्यायद २३ नॆय श्लोकद **मद्-भक्ता यान्ति माम् अपि** ऎम्बुदक्कॆ 
+
+> भगवति फलान्तरार्थिनाम् अपि मोक्षे विश्रमो नारायणार्यैर् उक्तः  
+
+ऎन्दु श्री-देशिकरवरु तात्पर्य-चन्द्रिकॆयल्लि हेळिरुत्तारॆ. आर्तनू अर्थार्थियू मोक्षेतर-फलाकाङ्क्षिगळादरू भगवन्तनन्नु उपासिसिद सुकृत-मूलक अवरिगॆ कॊनॆगादरू मोक्षदल्लि पर्यवसानवॆन्दु हेळिरुत्तारॆ. श्रीमान् नञ्जीयरिगॆ द्राविड-प्रबन्धगळल्लू अद्भुत-ज्ञानवु. नम्माळ्वार् तिरुवाय् मॊळिगू **ऒम्बदनायरम्पडि** ऎम्ब व्याख्यानवन्नु दयपालिसिरुत्तारॆ. मेलिन वाक्यदल्लि **"भट्टरुम्, आळ्वानुम्"** ऎन्दु मक्कळ हॆसरन्नु मॊदलु हेळि अनन्तर तन्दॆय हॆसरन्नु हेळिरुवदु, एकॆन्दरॆ पुत्ररु श्री-रङ्ग-नायकियवर वर-प्रसाददिन्द जनसिदवरागि ज्ञान-निधिगळल्लि अग्र-गण्यरु, तन्दॆयन्नु मीरिसिदवरु. श्री-पराशररिगिन्त अवर मक्कळाद व्यास-महर्षिगॆ प्राशस्त्यवु हेगो हागॆ ऎन्दु भाविसतक्कद्दु. श्री-पराशररे तम्म मक्कळाद व्यासरन्नु 
+
+> कृष्ण-द्वैपायनं व्यासं विद्धि नारायणं प्रभुम् ।  
+को ह्य् अन्यो भुवि मैत्रेय महा-भारत-कृद् भवेत् ॥ 
+
+ऎन्दु प्रशंसिसिरुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9554,7 +12568,6 @@ y luego **ofrecer oblaciones** de agua (tarpaṇam)".
 पॆरिय-जीयर् नाम पराशर-भट्ट-शिष्यः श्रीसूक्त-भाष्यस्य नित्यग्रन्थस्य च प्रणेता ।  
 विस्तारो [ऽत्र](/vedAH_Rk/shAkalam/khilam/2/06_shrI-sUktam_hiraNya-varNAm/TIkA/ranganAtha-muniH) ।
 </details>
-
 
 
 <details><summary>English</summary>
@@ -9588,6 +12601,17 @@ Con esto **nos recuerda** la tradición especial
 पॆरिय जीयर् - नारायणमुनियॆऩ्गिऱ नञ्जीयर्।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**पॆरिय जीयरुम्** - नञ्जीयरू इवरु श्री-लोकाचार्यर मत्तु नम्पिळ्ळैयवर आचार्यरु. इवरिगॆ नारायणमुनि ऎम्ब हॆसरुण्टु. श्री-निगमान्तरवरु पाञ्च-रात्र-रक्षॆयल्लि 
+
+> नारायण-मुनिभिर् अपि पञ्च-काल-कल्पनया तत्-तत्-कालानुष्ठेयानि यथा-क्रमं प्रपञ्चितानि  
+
+ऎन्दु हेळि ई मुन्दिन प्रमाणवन्ने उदाहरिसिरुत्तारॆ.- **श्री-पराशर-भट्टार्य-चरणौ** - तम्म गुरुगळाद पूज्यराद श्री-पराशर-भट्टरवर पादगळन्नु **संश्रयेमहि** - आश्रयिसुवॆवु; - (श्री-नञ्जीयर् नित्यम्) **इत्य्-आदियाले** - इवे मॊदलादवुगळिन्द, **सम्प्रदाय-विशेष-ज्ञापनार्थमाह** - सम्प्रदाय-विशेषवन्नु ज्ञापिसुवदक्कागि, **गुरु-नमस्कारादिगळैप्पण्णि** - गुरु-नमस्कार, आदि-शब्ददिन्द तनय-पठन मॊदलादवुगळन्नु माडि,
+
+[[P192]]
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9633,6 +12657,12 @@ por hombres con **devoción** exclusiva hacia él (ekāntins)”.
 <details><summary>मूलम्</summary>
 
 ‘‘भगवच्चरणाम्भोज परिचर्याविधिक्रमम् । एकान्तिभिरनुष्ठेयं नित्यं समभिदध्महे’’(पॆरिय-जीयर्-नित्य-ग्रन्थः) ऎऩ्ऱु तुडङ्गि
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**"एकान्तिभिः** - अन्य-देवता-सम्बन्धविल्लदॆ भगवन्तनल्ले सक्तराद प्रपन्नरुगळिन्द, **नित्यं** - प्रतिनित्यवू, **अनुष्ठेयम्** - अनुष्ठिसल्पडतक्क, **भगवच्-चरणाम्भोज--परिचर्या-विधि-क्रमम्** - भगवन्तन पाद-कमलद अर्चनादि-रूप-कैङ्कर्यवन्नु माडुव शास्त्र-क्रमवन्नु **समभिदध्महे** - हेळुवॆवु." **ऎन्रु तुडङ्गि** - ऎन्दारम्भिसि, 
+
 </details>
 
 
@@ -9683,6 +12713,11 @@ con la **expresión** de los mantras que **denotan** Bhagavān;
 वाचकैः परमात्मन इति । अन्यथासिद्धजीवलिङ्गकस्थलत्तिल् साक्षादप्यविरोधमॆऩ्गिऱबडि साक्षात्परमात्मवाचकङ्गळायुम्, अनन्यथासिद्धजीवलिङ्गकस्थलत्तिल् प्रतर्दनविद्यान्यायत्ताले तत्तद्देवतान्तर्यामिभगवद्वाचकङ्गळाऩ ऎऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(६) **परमात्म-वाचकैः** - परमात्मनन्नु हेळुव, **आपो हीत्य्-आदिभिर् मन्त्रैः** - आपो हि ष्ठा ऎम्बिवे मॊदलाद मन्त्रगळिन्द, **सम्प्रोक्ष्य** - प्रोक्षिसिकॊण्डु, **तत्-प्रतिपादकैः** - आ प्रसिद्धनाद परम-पुरुषनन्नु प्रतिपादिसुव, **मन्त्रैः** - मन्त्रगळिन्द, **मन्त्राचमनम्** - मन्त्राचमनवन्नु, कृत्वा ऎन्दु इट्टुकॊळ्ळबेकु. माडि, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9723,6 +12758,11 @@ y luego **realizar** japa,
 आदित्यान्तस्स्थितस्यार्घ्यं वितीर्य परमात्मनः । प्रतिपादिकया विष्णोस्सावित्र्या तं जपेद्धरिम् ॥ 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आदित्यान्तस्-स्थितस्य** -  सूर्यनल्लि अन्तर्यामियागिरुव, **परमात्मनः** - परमात्मनिगॆ, **अर्घ्यम्** - अर्घ्यवन्नु, **वितीर्य** - ऎरचि ऎन्दरॆ कॊट्टु, **विष्णोः प्रतिपादकया** -  विष्णुवन्नु प्रतिपादिसुव, **सावित्र्या** - गायत्री-मन्त्रदिन्द, **तं हरिम्** - आ प्रसिद्धवाद श्री-हरियन्नु **ध्यायन्** - ध्यानिसिकॊण्डु, **जपेत्** - जपिसतक्कद्दु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9763,8 +12803,30 @@ y luego **realizar** japa,
 ध्यायन् जप्त्वोपतिष्ठेत तमेव पुरुषोत्तमम् । नारायणात्मकान् देवानृषीन् सन्तर्पयेत्पितॄन्’’ ऎऩ्ऱरुळिच्चॆय्दार्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ध्यायन् जप्त्वा** - हीगॆ श्री-हरियन्नु मनसा ध्यानिसिदवनागि गायत्री-जपवन्नु माडिद नन्तर, **तम् एव पुरुषोत्तमम्** - आ सूर्य, मध्यान्तर्-वर्तियाद पुरुषोत्तमनन्ने, **उपतिष्ठेत** - उपस्थानवन्नु माडतक्कद्दु. आनन्तर, **नारायणात्मकान्** - श्रीमन्-नारायणनन्ने अत्मावागिवुळ्ळ, **देवान्, ऋषीन्, पितॄन्** - देवतॆगळन्नू, ऋषिगळन्नू, पितृगळन्नू, **तर्पयेत्** - तर्पिसतक्कद्दु, ऎन्दरॆ देव-र्षि-पितृ-तर्पणवन्नु माडतक्कद्दु. **ऎन्रु अरुळिच्चॆय्दार्** - ऎन्दु नञ्जीयरु तम्म नित्यवॆम्ब ग्रन्थदल्लि कृपया अप्पणॆ कॊडिसिरुत्तारॆ. 
+
+[[P193]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हीगॆ मेलिन श्लोकगळिन्द स्नान, द्वादशोर्ध्व-पुण्ड्र-धारणानन्तर प्रातस्-सन्ध्या-वन्दनवन्नु, क्रमवागि मन्त्रगळॊन्दिगॆ सङ्कल्प, आचमन, प्रोक्षण, अर्घ्य-समर्पण, श्रीमन्-नारायण-ध्यानदॊन्दिगॆ गायत्री-मन्त्र-जप, उपस्थान-क्रमदिन्द अनुष्ठिसि, अनन्तर मूरु ऋणगळन्नु ई प्रपन्ननू तीरिसबेकॆम्ब विधिगनुसारवागि देव-र्षि-पितृ-तर्पणवन्नु माडतक्कद्दु ऎम्ब सम्प्रदायवन्नु स्थापिसिदरॆम्ब भाववु. सूर्यनन्नू, देवतॆगळन्नू ऋषिगळन्नू पितृगळन्नू ई प्रपन्ननु हीगॆ आराधिसुवदु न्यायवो ऎम्ब आक्षेपक्कॆ कारणविल्लवॆन्दु सन्ध्या-वन्दनॆयल्लि सूर्यान्तर्-वर्तियाद भगवन्तने आराधिसल्पडुवनॆन्दु **अदित्यान्तस्-स्थितस्य परमात्मनः** - ऎम्ब, **तत्-प्रतिपादकैर् मन्त्रैः** ऎम्ब **"प्रतिपादकया विष्णोस् सावित्र्या"** इत्य्-आदि-प्रयोगगळु. हागॆये देव-र्षि-पितृ-तर्पणदल्लू तद्-आत्मकनाद भगवन्तने सुप्रीतनागुवनॆन्दु हेळुवदक्कागि **नारायणात्मकान्** - ऎम्ब प्रयोगवु. हागॆये दर्शादि-तर्पणगळल्लू, माता-पितृ-श्राद्धगळल्लू अवरुगळु भगवद्-आत्मकरादुदरिन्द भगवन्तने प्रीतनागुवनॆम्ब आभिसन्धि इरतक्कद्दॆम्बुदू बोधितवु. इदरिन्द नित्य-नैमित्तिकानुष्ठानगळन्नू नम्म आचार्यरुगळु प्रपन्नराद कृत-कृत्यरिगू शास्त्र-रीत्या अनुष्ठेयवॆम्ब सम्प्रदायवन्नु स्थापिसिदरॆम्बुदु अभिप्रायवु. 
+
+</details>
 
 ### शिष्टाचरणम्
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मुन्दॆ श्री-भाष्य-काररवर सम्प्रदायदिन्दलू अन्य-देवतॆगळन्नु कुरित मन्त्रोच्चारणॆगळिन्दले तत्-तद्-देवतात्मक--श्री-महा-विष्णुवे अराधिसल्पडुवनादुदरिन्द उपनयन-विवाह-प्रक्रियॆयल्लिन मन्त्रगळिन्द अन्य-देवताराधना-रूप-दोषवेनू इल्लवॆन्दु मुन्दॆ तिळिसुत्तारॆ.- 
+
+[[P194]]
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भाष्य-कार-संप्रदायत्तिल् उळ्ळ कुलङ्गळ् ऎल्लाम्  
@@ -9810,6 +12872,17 @@ con los respectivos mantras que **denotan** las respectivas deidades.+++(5)+++
 इप्पडिये अग्न्यादिशब्दघटितमन्त्रङ्गळैक्कॊण्डु श्रीभाष्यकारसम्प्रदायनिष्ठर्गळाऩ शिष्टर्गळिऩ् अनुष्ठानमुम् इऩ्ऱऱुदि काणप्पडुगिऱदॆऩ्गिऱार् भाष्यकारसम्प्रदायेत्यादियाल् कुलङ्गळॆल्लाम् - तत्तद्वंश्यर्गळॆल्लाम्, देवतामन्त्रङ्गळ् - देवताघटितमन्त्रङ्गळ्, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**श्री-भाष्य-कारवर सम्प्रनायत्तिलुळ्ळ कुलङ्गळॆल्ला** - श्री-यति-व‌र्यर सम्प्रदायदल्लिद्द समस्त-श्री-वैष्णवरुगळू तद्-वंशीयरु ऎल्ला ; **इन्ररुतियाग** - इदुवरॆगू, **स्व-सूत्रोक्तमानपडिये** - तम्म तम्म सूत्रगळिगॆ अनुसारवागि शास्त्रगळल्लि विधिसिरुव हागॆये, **तत्-तद्-देवता-मन्त्रङ्गळैक्कॊण्डु** - आयाब्रह्म-रुद्रेन्द्र-वरुण-अग्न्य्-आदिगळन्नु कुरित मन्त्रगळन्ने अङ्गीकरिसि विवाहोपनयनादिगळन्नु, **अनुष्ठिक्कुवुम्** - अनुष्ठिसोणवन्नु, **काणानिन्रोम्** - कण्डिरुवॆवुव् अष्टॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+विवाहोपनयन-होमादिगळल्लि अन्य-देवतॆगळन्नु कुरित मन्त्रोच्चारणॆयु उण्टु. इन्तह मन्त्रगळन्नु हेळिये अन्तह शुभ-कर्मगळन्नु श्री-यति-वर्यर सम्प्रदायक्कॆ सेरिदवरॆल्लरू ईगलू अनुष्ठिसिरुत्तारॆ. इदु सरिये ? ऎम्ब आक्षेपक्कॆ समाधानवागि तत्-तद्-देवतात्मकनाद श्री-महा-विष्णुवे आराधिसल्पडुवनादुदरिन्द दोषवेनू इल्लवॆन्दु हेळल्पट्टितु.
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9852,8 +12925,42 @@ de acuerdo con sus respectivos sūtras.
 सन्ध्यावन्दनादिकर्मानुष्ठानङ्गळिल् शिष्टाचारत्तैक्काट्टि तत्तद्देवताघटितमन्त्रङ्गळाले यज्ञाद्यनुष्ठानङ्गळिलुम् शिष्टाचारत्तैक् काट्टुगिऱार् पॆरिय नम्बि मुदलाऩ परमाचार्यर् कळुमिति ।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**पॆरिय-नम्बि मुदलान परमाचार्यरुगळुम्** - पॆरिय-नम्बियु श्री-भाष्य-कार्रवर मुख्य-गुरुगळु, श्री-यामुन-मुनिगळ शिष्यरु, इवरन्नु श्री-यति-वर्यरु श्री-काञ्ची-वरदन आज्ञानुसार आश्रयिसि मधुरान्तकदल्लि मन्त्रोपदेश मुन्तादवुगळन्नु हॊन्दि शिष्यरादरु. इल्लि मुदलान ऎम्बुदरिन्द श्री-यामुन-मुनिगळ इतर-शिष्यरु हेळल्पट्टरु, इन्तह परमाचार्यरुगळॆल्ला, **तन्ताम् सूत्रं गळिन् पडिये** - तम्म तम्म सूत्रगळन्ननुसरिसि, **यज्ञादिगळ् पण्णिना‌र् गळॆन्नु मिडम्** - अन्य-देवता-मन्त्रगळिरुव यज्ञादिगळन्नु पञ्च-महा-यज्ञादिगळन्नु माडिदरु ऎम्बुवदु, **सर्वरुक्कुम् प्रसिद्धम्** - सर्वरिगू चॆन्नागि वेद्यवाद विषुयवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+आगलि, पाञ्चरात्र-संहिता-विशेषगळल्लि पुंसवन मॊदलुगॊण्डु विवाह-पर्यन्तवागि विष्णु-मन्त्रगळ मूलकवागिये नडॆसतक्कद्दॆन्दू, हीगॆ नडॆसिदरॆ देवतान्तर स्पर्शवू इरुवदिल्लवॆन्दू हेळिरुवाग हागॆ नडॆसतक्कद्दु न्यायवल्लवो ? श्री-पाञ्चरात्रदल्लि हेळिरुवदेनॆन्दरॆ -
+
+[[P195]]
+
+> न्यग्रोधस्याङ्कुरं क्षुत्वा तस्या नासा-पुटे पुनः ।  
+सञ्चयेद् दक्षिणे सम्यग् इदं विष्णुर् इति ब्रुवन् ॥  
+चतुर्थे मासि सीमन्तं पञ्चमे वाष्टमे ऽपि वा ।  
+होमं पुरुष-सूक्तेन कृत्वाज्य-समिद्-ओदनैः ॥  
+शिखा-स्थापनम् एवन् तु पश्चाद् उपनयेच् छिशुम् ।  
+पञ्चमे सप्तमे वा तु नवमे वा तु वत्सरे ॥  
+ऋग्भिः पुरुष-सूक्तस्य विष्णु-सूक्तस्य च क्रमात् ।  
+समिद्भिश् च घृतेनैव तैलैर् अन्यैश् च होमयेत् ॥  
+ततस् तु मेखलां बध्वा त्रि-गुणां विष्णु-निर्मिताम् ।  
+विष्णोः कर्माणि मन्त्रेण गुरुर् अग्नेस् समीपतः ॥  
+दद्याद् दण्डन् तु पालाशं यो मे दण्ड इति ब्रुवन् ।  
+एवं भागवतो वेदम् उपनीतो ऽभ्यसेद् गुरोः ॥  
+
+</details>
 
 ### पाञ्चरात्र-विध्य्-अधिकारः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हीगॆ पुंसवन मॊदलुगॊण्डु विवाह-पर्यन्तवागि विष्णु-मन्त्रगळिन्दले ई संस्कारगळन्नॆल्ला अनुष्ठिसतक्कद्दॆन्दु हेळिरुवाग, अवुगळन्नु बिट्टु अन्य-देवतॆगळन्नु कुरित मन्त्रगळिन्द इवुगळन्नु नडॆसुवदु सरिये ? शुद्धवाद वैष्णव-मन्त्रगळिल्लद पक्षदल्लि एनो ऒन्दु वेळॆ आगलि ऎन्दु ऒप्पबहुदागित्तु. मन्त्रगळू इवॆ; पाञ्चरात्र-विधि-वाक्यगळू इवॆ. हीगिरुवाग अन्य-देवता-मन्त्रगळ प्रयोगवु हीगॆ साधुवु ? ऎम्ब पूर्व-पक्षक्कॆ **आनपिन्बु** ऎन्दारम्भिसिद वाक्यद मूलक समाधानवन्नु हेळुत्तारॆ. 
+
+[[P196]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9924,6 +13031,61 @@ que **están prescritos** especialmente (a quienes los siguen).
 ऎऩ्ऱु प्रमाणमिरुप्पदालुमॆऩ्ऱु करुत्तु।+++(5)+++
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आनपिन्बु** - हीगाद नन्तर ऎन्दरॆ हिन्दिन आचार्यरुगळ सम्प्रदायानुगुणवागि नित्य-नैमित्तिकगळन्नु आया नियत-मन्त्रगळ मूलकवे अनुष्ठिसतक्कद्दॆन्दू अनन्तर **भाष्य-काररुडैयुम्** - श्री-यति-वर्यर मत्तु अवर शिष्यर मत्तु शिष्यर शिष्यराद प्रशिष्यरुगळ, **उपदेशानुष्ठानङ्गळिले** - उपदेश मत्तु अनुष्ठानगळल्लि, **निष्ठैयुडैयार्कुम्** - सम्प्रदाय-रीत्या अनुष्ठानवन्नु इट्टुकॊण्डिरुववरिगॆ **अगम-सिद्धान्तानुवर्तिगळान** - पाञ्चरात्रदल्लिरुव नाल्कु विधगळाद, **आगम-सिद्धान्त, मन्त्र-सिद्धान्त, तन्त्र-सिद्धान्त, तन्त्रान्तर-सिद्धान्तगळल्लि ऒन्दाद आगमसिद्धान्तवन्नु** अनुसरिसि हेळिरुव **संहिता-विशेषङ्गळिल्** - संहिता-विशेषगळल्लि **प्रतिनियतमाग चॊल्लुम्** - विशेषिसि विधिसि हेळिरुव **मन्त्र-विशेषङ्गळैक्कॊण्डु** - विष्णुवन्नु बोधिसुव मन्त्रगळ मूलकवागि, **क्रिया-विशेषङ्गळ्** - सीमन्त मॊदलुगॊण्डु उपनयनदवरॆगू हेळिरुव क्रिया-विशेषगळन्नु, **अनुष्ठिक्कवॊण्णादु** - अनुष्ठिसुवदु सरियल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+पूर्वाचार्यरुगळु चॆन्नागि विमर्शिसि तिळिदु अनुष्ठिसिद सम्प्रदायविरुवाग, अदक्कॆ विरोधवागि ई आगम-सिद्धान्तगळल्लि हेळिरुव मेरॆगॆ अनुष्ठिसुवदु युक्तवल्लवॆम्ब भाववु. पाञ्चरात्रदल्लि हेळिरुवदेनॆन्दरॆ 
+
+> न्यग्रोधस्याङ्कुरं क्षुत्वा तस्या नासा-पुटे पुनः ।  
+सञ्चयेद् दक्षिणे सम्यग् इदं विष्णुर् इति ब्रुवन् ॥  
+चतुर्थे मासि सीमन्तं पञ्चमे वाष्टमे ऽपि वा ।  
+होमं पुरुष-सूक्तेन कृत्वाज्य-समिद्-ओदनैः ।  
+शिखा-स्थापनम् एवन् तु पश्चाद् उपनयेच् छिशुम् ।  
+विष्णोः कर्माणि मन्त्रेण गुरुर् अग्नेस् समीपतः ।  
+दद्याद् दण्डन् तु पालाशं यो मे दण्ड इति ब्रुवन् ।  
+एवं भागवतो वेदम् उपनीतो ऽभ्यसेद् गुरोः ॥  
+
+ऎन्दु वैष्णव-मन्त्रगळु हेळल्पट्टिवॆ. 
+
+आदरॆ हीगॆ श्री-भाष्य-कारर मत्तु अवर शिष्य-प्रशिष्यर सम्प्रदाय-रीत्या अनुष्ठिसतक्कद्दे न्यायवॆन्दु तीर्मानिसिदरॆ, आगम-सिद्धान्तादिगळु नमगॆ बेकिल्लवॆन्दु एर्पडुवदिल्लवे ! श्री-भाष्य-काररे श्री-पाञ्चरात्राधिकरणदल्लि मुमुक्षुविगॆ पाञ्चरात्रवु विशेषवागि उपादेयवॆन्दु समर्थिसिरुत्तारल्ला ? एकॆन्दरॆ अदू मोक्ष-दायकवॆन्दु 
+
+> तद् धि वासुदेवाख्यं परं ब्रह्म सम्पूर्ण-षाड्गुण्य-वपुस् सूक्ष्मं व्यूह-विभव--भेद-भिन्नं यथाधिकारं भक्तैर् ज्ञान-पूर्वेण कर्मणा अभ्यर्चितं सम्यक् प्राप्यते, विभवार्चनाद् व्यूहं प्राप्य व्यूहार्चनात् परं ब्रह्म वासुदेवाख्यं सूक्ष्मं प्राप्यत इति वदन्ति 
+
+ऎन्दु हेळिरुवदरिन्द मोक्षवन्नु हॊन्दिसुत्तदॆ ऎन्दु हेळुवदरल्लि तात्पर्यवु. अदू अल्लदॆ, पाद्मदल्लि 
+
+> सद्-आगमादि-सिद्धान्ते चतुष्के सत्-पद-प्रदे 
+
+ऎन्दु ई पाञ्चरात्रद नाल्कु सिद्धान्तवू **सत्-पद**वॆन्दरॆ मोक्षवन्नु कॊडुवन्थाद्दॆन्दु हेळल्पट्टिरुत्तदॆ. हागॆये हय-ग्रीव-संहितॆयल्लू, 
+
+> आगमाख्यं हि सिद्धान्तं सन्-मोक्षैक-फल-प्रदम् ।  
+मन्त्र-सञ्ज्ञं हि सिद्धान्तं सिद्धि-मोक्ष-प्रदं नृणाम् ॥  
+तन्त्र-सङ्गं हि सिद्धान्तं चतुर्-वर्ग-फल-प्रदम् ।  
+तन्त्रान्तरं हि सिद्धान्तं वञ्छितार्थ-फल-प्रदम् ॥ 
+नान्यो विमुक्तये पन्था मुक्त्वा श्रम-विधिं सुखम् ।  
+तस्मात् कर्माणि कुर्वीत तुष्टये परमेष्ठिनः ॥ 
+
+[[P197]]
+
+ऎन्दु हेळिरुवदरिन्द चतुर्-वर्गदल्लू, वाञ्छितार्थदल्लू मोक्षवू सेरिदुदरिन्द, ऎरडू मोक्ष-प्रदवॆन्दू, ई ऎरडू इतर-फलगळॊन्दिगॆ मोक्ष-प्रदवॆन्दू हेळल्पट्टिरुत्तदॆ. ई नाल्कु सिद्धान्तगळ सङ्करवु निषेधिसल्पट्टु सङ्करदिन्द प्रत्यवायुवू अदक्कॆ प्रायश्चित्तवू सह विधिसल्पट्टिरुत्तदॆ. हीगिरुवाग अन्तह अमोघ-शास्त्रवन्नु निराकरिसि सम्प्रदाय-रीत्या अग्नेन्द्रादिगळन्नु बोधिसुव मन्त्रवन्ने हेळि अनुष्ठिसि भगवद्-अर्पणवन्नु माडतक्कद्दॆन्दु स्थापिसिदुदु हेगॆ ऎम्ब पूर्व-पक्षवु बन्दीतॆन्दु भाविसि, अदक्कॆ समाधानवन्नु अनुग्रहिसुत्तारॆ. पाञ्चरात्र-शास्त्रवु परम-ग्राह्यवु; 
+
+> पञ्चरात्रस्य कृत्स्नस्य वक्ता नारायणस् स्वयम् 
+
+ऎन्दु भारत-शान्ति-पर्वदल्लि कॊण्डाडिरुवदरिन्दलू उपादेयवु. आदुदरिन्द आ शास्त्रक्कॆ विरोधवागि इल्लि हेळलिल्लवु. हेळिदुदु एनॆन्दरॆ **"अधिकारिगळुक्कु"** ऎन्दारम्भिसिद नाल्कु वाक्यगळ मूलक तिळिसुत्तारॆ. प्रथमतः तावु बरॆद पाञ्चरात्र-रक्षॆयल्लि, पाञ्चरात्र-शास्त्रवू अदर नाल्कु विधिगळू उपादेयवॆन्दे हेळिरुवदागि आप्पणे कॊडिसुत्तारॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**वर्णाश्रम-धर्मानुष्ठानदिन्द पाञ्चरात्र-शास्त्रक्केनू विरोधविल्लवु** 
+
+तावु वर्णाश्रम-धर्मगळन्नु अवश्यानुष्ठेयवॆन्दु हिन्दॆ सिद्धान्तिसिदुदरिन्द, श्री-पाञ्चरात्र-शास्त्रवन्नेनू निराकरिसि हेळलिल्लवु; श्री-पाञ्चरात्र-रक्षॆयल्लि पाञ्चरात्र-शास्त्रवु परमोपादायवॆन्दे उपपादिसल्पट्टिरुत्तदॆन्दु तिळिसुत्तारॆ.
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9975,6 +13137,13 @@ Que el Pāñcarātra **es** de cuatro tipos o sistemas (Āgama Siddhānta, Mantr
 ऎऩ्ऱु फलत्तोडु कूड चतुर्धा विभक्तमायिरुक्कुम् प्रकारत्तैयुम् ऎऩ्ऱ बडि 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अधिकारादिगळुक्कु** - आ शास्त्रद नाल्कु विभागगळाद सिद्धान्तगळिगॆ यारु यारु अधिकारिगळु, आदि-शब्ददिन्द अनुष्ठानगळेनु, फलगळेनु, इवुगळिगॆ, **अनुरूपमाग** - अनुगुणवागि (१) **चतुर्-विध-पञ्च-रात्रं विभक्तमाय् निर्कु निलैयुम्** - पञ्च-रात्रवु नाल्कु विधवागि आगम-सिद्धान्त, मन्त्र-सिद्धान्त, तन्त्र-सिद्धान्त, तन्त्रान्तर-सिद्धान्तवॆन्दू विभागिसल्पट्ट इरुविकॆयन्नू 
+
+[[P198]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10025,6 +13194,11 @@ siempre que **no haya conflicto** u **oposición**,
 ऎऩ्गिऱ नारदीयवचनानुसारत्ताले ऎऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(२) **वचन-विरोधमिल्लाद विडत्तिल् "अनुक्तम् अन्यतो ग्राह्यम्" ऎङ्गिर न्यायं नडक्कुम् पडियुम्** - ई नाल्कु सिद्धान्तगळल्लि परस्पर-वचनगळिगॆ विरोधविल्लद सन्दर्भदल्लि ऒन्दु सिद्धान्तदल्लि हेळि इन्नॊन्दरल्लि हेळदिद्दरॆ अल्लिगू अन्वयिसुत्तदॆन्दु स्वीकरिसतक्कद्दु" ऎम्ब न्यायद प्रकार नडॆदुकॊळ्ळबेकाद प्रकारवन्नू, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10073,6 +13247,12 @@ y que para cada uno de ellos **existe** la posibilidad de **alcanzar** mokṣa.
 नालाश्रमत्तिलुम् ब्रह्म विद्यैयुम् मोक्ष लाभमुमुण्डॆऩ्ऱुशारीरकादिगळिले समर्थित्ताऱ्पोले आगमसिद्धान्तादिगळ् नालिलुम् साक्षान्मोक्षोपायमुम् मोक्षप्राप्तियुमुण्डॆऩ्ऱुम्
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(३) **नालु आश्रमत्तालुम् ब्रह्म-विद्यॆयुम् मोक्ष-लाभमुण्डॆन्रु शारीरकादिगळिले समर्थित्तार् पोले** - ब्रह्म-चर्य, गृह-स्थ, वान-प्रस्थ, संन्यासगळाद नालु आश्रमदल्लू ऎन्दरॆ नाल्कु आश्रमद अधिकारिगळिगू ब्रह्म-विद्यॆयू मोक्ष-प्राप्तियू उण्टॆन्दु व्यास-सूत्रगळल्लि समर्थिसल्पट्ट हागॆ, **आगम-सिद्धान्तादिगळ् नालिलुम्** - ई पाञ्चरात्र-शास्त्रक्कॆ सेरिद आगम-सिद्धान्तवे मॊदलाद नाल्कु सिद्धान्तगळल्लू, **साक्षान्-मोक्षोपायमुम्**  - साक्षात्तागि मोक्षक्कॆ उपायवाद भक्ति-प्रपत्तियू, **मोक्ष-प्राप्तियू, उण्डॆन्रु** - उण्टॆम्बदागि, 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10083,8 +13263,6 @@ y que para cada uno de ellos **existe** la posibilidad de **alcanzar** mokṣa.
 
 श्री-पाञ्च-रात्र-रक्षायाम् उपापादिषाम । 
 </details>
-
-
 
 <details><summary>English</summary>
 
@@ -10102,6 +13280,63 @@ Ya **hemos mostrado** (lo anterior) en Śrī pañcarātrarakṣā (La Defensa de
 श्रीपाञ्चरात्ररक्षैयिले उपपादित्तोम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**श्री-पाचरात्र-रक्षैयिलै** - तावु रचिसिरुव श्री-पाञ्चरात्र-रक्षॆयल्लि, **उपपादित्तोम्** - समर्थनॆ माडि हेळिरुवॆवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ई मूरर विषयगळन्नू समर्थनॆयन्नु माडि हेळिरुत्तेवॆ ऎन्दु हेळिरुवदरिन्द आ पाञ्चरात्र-शास्त्रवु तमगॆ परम-ग्राह्यवु. नित्य-कर्मानुष्ठानगळन्नु अवरवरुगळ आचार्यरुगळु नडॆसिकॊण्डु बन्द सम्प्रदाय-रीत्या नडॆसतक्कद्दॆन्दु हेळिदरॆ, ई शास्त्रवन्नु निराकरिसिद हागॆ हेगायितु ऎम्ब भाववु. ई नाल्कु सिद्धान्तदल्लू **"अनुक्तम् अन्यतो ग्राह्यम्"** ऎन्दु हेळिरुवदरिन्द, उक्तवादुवुगळन्नु तन्निष्टानुसार नडॆसि, सिद्धान्त-साङ्कर्यवन्नु ऎन्दिगू माडतक्कद्दल्लवॆन्दू, हागॆ माडिदुदादरॆ प्रायश्चित्तक्कॆ गुरियागुवनॆम्ब भाववू सूचितवु. **नारदीयदल्लि** 
+
+[[P199]]
+
+> तन्त्रेणैकेन कर्तव्यं कर्षणादिषु नारद ।  
+यत्-तन्त्रेण समारब्धं तत्-तन्त्रेणैव कारयेत् ॥  
+अनुक्तांश् चान्य-तन्त्रेषु निरीक्ष्यान्यत्र योजयेत् । 
+विशेषांश् च मुनि-श्रेष्ठ त्व् अन्यथा राष्ट्र-नाश-कृत् ॥ 
+
+ऎन्दु हेळिरुत्तदॆ. ऒन्दु तन्त्रदल्लि आरम्भिसिद कार्यवन्नु आ तन्त्रदिन्दले पूरैसतक्कद्दॆन्दू, तान्त्र-साङ्कर्य कूडदॆन्दू, ऒन्दरल्लि हेळिदुदन्नु इन्नॊन्दरल्लि हेळदिद्दरॆ, आग परिशीलिसि आगीग आ भागवन्नु अङ्गीकरिसतक्कद्दॆन्दू, हागल्लदॆ ऒन्दर तन्त्रद प्रक्रियॊन्दिगॆ इन्नॊन्दन्नु नडॆसिदरॆ राष्ट्र-नाशवागुव प्रत्यवायवु प्राप्तवागुत्तदॆन्दू हेळल्पट्टितु. हागॆये पारमेश्वरदल्लि 
+
+> शास्त्र-सिद्धान्त-साङ्कर्यं नाचर्तव्यं कृतात्मभिः ।  
+यद् यद् इष्टतमं लोके पूर्व-सिद्धाविरोधि तत् ।  
+प्रतिग्राह्यम् अथान्योन्यं विरुद्धं सन्त्यजेद् बुधः ॥ 
+
+ऎन्दु हेळल्पट्टिरुत्तदॆ, इदरभिप्रायवू मेलिन प्रमाणाभिप्रायवू ऒन्दे. हीगॆल्ला श्री-पाञ्चरात्र-रक्षॆयल्लि स-प्रमाणवागि सिद्धान्तिसिरुत्तेवॆ ऎन्दु हेळिरुवदरिन्द, आ नाल्कु विधवाद पाञ्चरात्र-शास्त्रवू उपादेयवादुदे ऎम्ब भाववु. हागॆये 
+
+> स्वकं कर्म परित्यज्य यद् अन्यत् कुरुते द्विजः ।  
+अ-ज्ञानाद् अथवा लोभात् त्यागेन पतितो भवेत् ॥  
+स्व-गृह्ये विद्यमाने यः पर-गृह्योक्तम् आचरेत् ।  
+भ्रूण-हत्या-समन् तस्य स्व-गृह्यस्यावमानतः ॥ 
+
+ऎम्बल्लू प्रोक्तवु. तनगॆ हेळल्पट्ट गृह-सूत्रानुसार नडॆयतक्कद्दु. अन्यथा नडॆदरॆ दोषवु. हागॆ नडॆदरॆ प्रायश्चित्तवू उण्टु. इदन्ने मुन्दिन वाक्यदिन्द तिळिसुत्तारॆ. (३) **नालु आश्रमत्तिलुम् ब्रह्म-विद्यॆयू** मोक्ष-प्राप्तियू उण्टॆन्दु शारीरक-सूत्रदल्लि ऎल्लि हेळिरुत्तदॆ ऎन्दरॆ 
+
+> कृत्स्न-भावात् तु गृहिणोपसंहार (ब्र.सू. ३-४-४७) 
+
+ऎम्ब सूत्रदल्लू उपपादितवु. गृह-स्थादि आश्रमगळल्लि ब्रह्म-विद्यॆयू इरुवदरिन्द **गृहिणां** - गह-स्थाश्रमद मूलक, श्रुतियु उपसंहार माडि हेळितु. ऎल्लि ऎन्दरॆ 
+
+> स खल्व् एवम् वर्तयन् यावद्-आयुषं ब्रह्म-लोकम् अभिसम्पद्यते, न च पुनर् आवर्तते 
+
+(छां. कॊनॆय मन्त्रवु.) आदुदरिन्द हीगॆ हेळिरुवदु सर्वाश्रम-प्रदर्शनार्थवागि, हागॆयॆ वाजसनेयदल्लि 
+
+> अथ भिक्षाचर्यञ् चरेत् 
+
+ऎन्दु संन्यासाश्रमियन्नु कुरितु उपसंहारमाडि हेळिरुत्तदॆ. इदन्नु मनस्सिनल्लिट्टु श्री-व्यास-महर्षियु **"मौनवद् इतरेषाम्"** ऎम्ब ब्रह्म-सूत्रदल्लू, हागॆये **"अथ मुनिः"** ऎम्ब बृहद्-आरण्यक-वाक्यदल्लू (बृ. ५-५-१) मत्तु मेलिन 
+
+> अथ भिक्षाचर्यञ् चरेत् 
+
+[[P200]]
+
+ऎम्ब वाजसनेय-वाक्यदल्लू, हेळिरुवदरिन्द, गृह-स्थाश्रम मत्तु संन्यासाश्रमवन्नु कुरितु उपसंहार माडिरुवदरिन्द, सर्वाश्रमिगळिगू ब्रह्म-विद्यॆयू, अदरिन्दुण्टागुव मोक्ष-प्राप्तियुण्टॆम्बुदू सिद्धवु. आदुदरिन्दले इल्लि 
+
+> नालु आश्रमत्तिलुम् ब्रह्म-विद्यॆयुम् मोक्ष-लाभमुमुण्डॆन्रु शारीरकादिगळिले समर्थितार्पोले 
+
+ऎम्ब प्रयोगवु. ई मेलिन वाक्यद मूलक श्री-गुरुगळवरु पाञ्चरात्र-शास्त्रद नाल्कु सिद्धानगळल्लू मोक्षोपायवू तत्-फलवू हेळल्पट्टिवॆ ऎन्दू तावु रचिसिद पाञ्चरात्र-रक्षॆयल्लि चन्नागि समर्थिसिरुवदरिन्द अदु प्रमाणवॆम्बुदरल्लि सन्देहविल्लवु. आदरॆ कॆलवु नित्य-नैमित्तिकगळु इतर-मन्त्रगळिन्द बहु-कालदिन्द अनुष्ठेयगळागि, अदन्नु नम्म पूर्वाचार्यरुगळू उपादेयवॆन्दु भाविसि परिग्रहिसि सम्प्रदाय-रीत्या नमगू अनुष्ठेयगळादुदरिन्दले, ई सिद्धानगळल्लि हेळिरुव वैष्णव-मन्त्रगळन्नु निराकरिसिदॆवॆन्दु भाविसुवदु उचितवल्लवु. अवुगळल्लि कॆलवु मगळु तैत्तरीयादि उपनिषत्तुगळल्ले प्रोक्तवागिरुवदरिन्दले अवुगळू ग्राह्यगळे. 
+
+ई पाञ्चरात्र-शास्त्रद नाल्कु सिद्धान्तगळल्लि ऒन्दरल्लि मन्त्रवु विधिसिद्दरॆ अदन्नु परित्यागमाडि इन्नॊन्दु सिद्धान्तद विधियन्नु तन्निष्टानुसार परिग्रहिसुवदु हेगॆ दोषावहवागि प्रायश्चित्तक्कॆ गुरियागुत्तदो, हागॆये सन्ध्या-वन्दनादि--नित्य-कर्मगळन्नू गर्भादान-सीमन्त-नाम-करण, चौल, उपनयनादिगळन्नू अवुगळिगॆ विधिसल्पट्टिरुव मन्त्रगळन्नु त्यागमाडि इष्टबन्द रीत्या इतर-मन्त्रगळ मूलक नडॆसुवदरल्लि प्रत्यवाय उण्टॆन्दू, हागॆ नडॆसिदुदक्कॆ प्रायश्चित्तादिगळू चन्नागि हेळल्पट्टिवॆ ऎन्दु तिळिसुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10147,6 +13382,31 @@ que si una persona **realizara** todos los karma-s o ritos con cualquier mantra 
 शास्त्रङ्गळिल् तत्तदधिकारिकळुक्कु व्यवस्थितमाग विहिदङ्गळाऩ मन्त्रङ्गळैक्कॊण्डु कर्मानुष्ठानम् सॆय्यवेण्डुमे यॊऴिय देवतान्तरशब्दघटितमन्त्रङ्गळै विट्टु सद्ब्रह्मनारायणादिशब्दघटितमन्त्रङ्गळैक्कॊण्डु कर्मानुष्ठानम् सॆय्यलागादॆऩ्ऱु निषेधित्तिरुप्पदोडु सॆय्दाल् प्रत्यवायमुम् प्रायश्चित्तमुम् विधिक्कप्पट्टदॆऩ्गिऱार् इश् शास्त्रङ्गळिलिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इश्शास्त्रङ्गळिल्** - ई शास्त्रगळल्लि, **व्यवस्थितमाग** - निर्णयिसल्पट्टु, **विधित्तपडियॊळिय** - विधिसिरुव क्रमवन्नु बिट्टु, **तन्तामुक्कु रुचित्त मन्त्रङ्गळैक्कॊण्डु** - तम्म तम्मगळिगॆ इष्टबन्द मन्त्रगळ मूलकवागि **सर्व-कर्मङ्गळैयुम्, अनुष्ठित्ताल्** - ऎल्ला कर्मगळन्नू अनुष्ठिसिदरॆ, **प्रायश्चित्तादिगळुम्** - प्रायश्चित्तवे मॊदलादवुगळु, आदि-शब्ददिन्द प्रत्यवायुवु हेळल्पट्टितु. अथवा स्व-सूत्रदल्लि हेळिरुव मेरिगॆ पुनः कर्मानुष्ठानवु हेळल्पट्टितॆन्दु भाविसबहुदु. **परक्कच्चॊल्लपट्टदु** - चन्नागि विस्तरिसि हेळल्पट्टिरुत्तदॆ. 
+
+[[P201]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+आदुदरिन्द नमगॆ मनस्सु बन्दहागॆ याव कैङ्कर्यवन्नागलि आनुष्ठिसलु नमगॆ स्वातन्त्र्यविल्लवु. शास्त्रदल्लि हेळिरुव रीत्या नडॆसतक्कद्दुगिरुत्तदॆ. अन्यथा नडॆसिदुदादरॆ प्रत्यवायवु, प्रायश्चित्तवन्नू आचरिसबेकागुत्तदॆ. आदुदरिन्द श्री-कृष्ण-भगवान्रवरु अर्जुननिगॆ 
+
+> तस्माच् छास्त्रं प्रमाणन् ते कार्याकार्य-व्यवस्थितौ 
+
+ऎन्दु उपदेशिसिदरु. इदु माडतक्कद्दु, इदु माडतक्कद्दल्लवु. ऎम्ब निर्णयदल्लि निनगॆ शास्त्रवे प्रमाणवु ऎन्दु उपदेशिसिदरु. इल्लि कार्य-व्यवस्थितियल्लि शास्त्रवे प्रमाणवॆन्दु हेळिरुवदरल्लि अनुष्ठान-क्रमदल्लू शास्त्रवे प्रमाणवॆन्दु हेळिदन्तायितु. यद्य् अपि श्री-कृष्ण-भगवान्रवरु परम-पुरुषरादुदरिन्द शास्त्र-वश्यतॆ इल्लदिद्दरू, यावाग मनुष्यनागि अवतरिसिदरो आग मनुष्यनिगिरुव शास्त्र-वशतॆय प्रकार तावू नडॆयतक्कवरॆन्दु दुर्योधनन ऎदुरिगॆ शास्त्रातिक्रमणवन्नु ऎन्दिगू माडुवनल्लवॆन्दु शपथवन्नु माडिरुत्तारॆ -
+
+> नाहं कामान् न संरम्भान् न द्वेषान् नार्थ-कारणात् ।  
+न हेतु-वादाल् लोभाद् अ-धर्मं जह्यां कथञ्चन ॥ 
+
+( [[??]] ) नॆय पटवन्नु नोडि. हीगॆ सर्व-स्व-तन्त्रनाद सर्वेश्वरने मनुष्यावतारियादाग मनुष्यरन्तॆ शास्त्रातिक्रमणवन्नु ऎन्दिगू नडॆसदिद्दरॆ, मनुष्यरागि कर्म-वश्य मत्तु शास्त्र-वश्यराद नावु, शास्त्रातिक्रमणवन्नु माडबहुदो ? आदुदरिन्द शरीरविरुववरॆगू आया शरीर-धारिगळिगॆ विधिसल्पट्ट शास्त्रानुगुणवागि नडॆयतक्कद्दु आवश्यकवागि, हागॆ नडॆयदे इद्दरॆ प्रत्यवाय उण्टादुदरिन्द **सर्व-धर्मान् परित्यज्य** ऎम्बल्लि तमगॆ विधिसल्पट्ट यावज्-जीववू अनुष्ठिसबेकाद नित्य-नैमित्तिक-रूपगळाद आज्ञा-कैङ्कर्यगळन्नू शास्त्र-वश्यरागि शास्त्रगळल्लि विधिसिरुव मेरिगॆ प्रपन्नरू सह अनुष्ठिसिये तीरबेके विना तनगॆ इष्टबन्दन्तॆ नडॆसलु मार्गविल्लवु; मत्तु तन्न मनबन्दन्तॆ शास्त्रदल्लि विधिसल्पट्टिरुवुगळन्नु परित्यागमाडलु साध्यविल्लवॆन्दू, मुन्दिन ऎरडु वाक्यगळ मूलक पूर्व-पक्षिगळिगॆ समाधानवन्नु हेळि सिद्धान्तिसिरुत्तारॆ.
+
+[[P202]]
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10187,6 +13447,17 @@ de cualquier manera distinta a la que **está ordenada** en los śāstras como *
 इऩि मुक्तऩामळवुम् स्वाधिकारानुगुणमाग शास्त्रम् विधित्त प्रकारमॊऴिय कैङ्कर्यम् पण्ण वेऱु वऴियिल्लै यॆऩ्ऱु शास्त्रवश्यतै आवश्यकमॆऩ्बदै निगमिक्किऱार् आऩबिऩ्बु इत्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आनपिन्बु** - शास्त्र-वश्यतॆयु आवश्यकवॆन्दादनन्तर, **मुक्तनामळवुम्** - ई प्रपन्ननु देह-त्यागमाडि मुक्तियन्नु हॊन्दुववरॆगू कृत-कृत्यनिगॆ मुक्तियु सिद्धवादुदरिन्द हागॆ हेळल्पट्टितु; **स्वाधिकारानुगुणमाग** - तन्न अधिकारक्कॆ अनुगुणवागि तन्न वर्णाश्रमदिन्दुण्टाद अधिकारक्कॆ, तन्न शक्त्य्-अ-शक्तिगळिगनुगुणवागि उण्टागुव उपायानुष्ठानवेनु, उत्तर-कृत्यक्कनुगुणवागि, **शास्त्रम्‌ शॊन्न कट्टळैयन्रिक्कॆ** - शास्त्रदल्लि विधिसिरुव प्रक्रियॆगॆ विरोधवागि, **कैङ्कर्यम् पण्णुम्** - नित्य-कर्मगळन्नु कैङ्कर्य-रूपवागि माडुवदक्कॆ, **विरगिल्लै** - मार्गविल्लवु, ऎन्दरॆ शास्त्रवन्नु तिरस्करिसि अनुष्ठिसुवदक्कॆ साध्यविल्लवॆम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+आदुदरिन्द प्रपन्ननू कूड **शास्त्र-वश्यनाय्** - शास्त्रदल्लि हेळिरुव गॆरॆयन्नु मीरदॆ, ईतनिगॆ देहावसानदवरॆगू माडबेकाद कैङ्कर्यगळन्नॆल्ला, फल-कर्तृत्व-ममतॆगळन्नु त्यागमाडि, भगवद्-अर्पण-बुद्धियिन्द नडॆसबेकादुदु साम्प्रदायकवागि बन्दिरुवदरिन्द नडॆसतक्कद्दॆन्दु निगमनदल्लि हेळि, अदक्कॆ विरुद्धवाद अभिप्रायगळॆल्ला शास्त्र मत्तु सम्प्रदाय-विरुद्धवादवुगळादुदरिन्द प्रमाण-शरणरिगॆ ग्राह्यवल्लवॆन्दु हेळुत्तारॆ - 
+
+</details>
 
 ## न शास्त्रोक्त-कैङ्कर्य-हानम् - निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10200,8 +13471,6 @@ de cualquier manera distinta a la que **está ordenada** en los śāstras como *
 इत्थं प्रपन्नेनापि शास्त्र-वश्येन सता  
 शास्त्रोक्त-कैङ्कर्यस्यैव कर्तव्यत्वाद् 
 </details>
-
-
 
 <details><summary>English</summary>
 
@@ -10226,6 +13495,11 @@ y **debe realizar** únicamente el **servicio** que **esté permitido** o **proh
 इप्पडि प्रपन्नऩुम् शास्त्रवश्यऩागवे यिरुक्कवेण्डु मॆऩ्ऱु साधित्तदाल् इवऩुक्कु शास्त्रविरुद्धङ्गळाऩ पक्षङ्गळॆल्लामनुपादेयङ्गळॆऩ्गिऱार् इप्पडि प्रपन्नऩुक्कुमित्यादियाल्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि** - मेलॆ उपपादिसिद रीतियल्लि, प्रपन्ननिगू, **शास्त्र-वश्यनाय्** - शास्त्रक्कॆ अधीननागि, **शास्त्रोक्त-कैङ्कर्यमे पण्णवेण्डुगैयाले** - शास्त्रदल्लि विधिसिरुव कैङ्कर्यवन्नु माडुवदे कर्तव्यवादुदरिन्द 
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10262,6 +13536,19 @@ y aquellos que **prohiben** ciertas actividades **deben ser violadas**;
 विधि निषेधलङ्घनपक्षमावदु - विहिदमाऩ सन्ध्यावन्दनादिगळैयतिक्रमिक्कैयुम् निषिद्धमाऩ परदारगमनादिगळैप् पण्णुगैयुम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(१) **विधि-निषेध -लङ्घन-पक्षमुम्** - प्रपन्ननु शास्त्र-वश्यनल्लवु; 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+एकॆन्दरॆ कृत-कृत्यनु, अन्तवनिगॆ विधि-निषेध-वाक्यगळु बन्धिसुवदिल्लवु; आदुदरिन्द प्रपन्ननु अवुगळन्नु अतिक्रमिसि इष्टबन्द हागॆ नडॆयबहुदॆम्ब पूर्व-पक्षाभिप्रायवू इदरिन्द कृत्याकरण-अ-कृत्य-करण ऎन्दरॆ माडबेकादुदन्नु बिडुवदु, माडबेडवॆन्दु हेळिदुदन्नु माडुवदु, हेळल्पट्टवु. ऎरडू दोषावहवु. श्री-यति-वर्यरे ई दोषगळेनादरू इद्दरॆ **क्षमस्व** ऎन्दु शरणागति-गद्यदल्लि प्रार्थिसिरुत्तारॆ. 
+
+[[P203]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10298,6 +13585,17 @@ y los que **están prohibidos**
 विहितनिषिद्धत्यागमावदु:- इरण्डैयुम् पण्णादॊऴिगै। इदिल् निषिद्धत्यागम् पापमागाविडिलुम् विहितत्यागम् पापमागुमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(२) **विहित-निषिद्ध-त्याग-पक्षमुम्** - विहित-त्याग यावुदॆन्दरॆ नित्य-नैमित्तिकगळु कृत-कृत्यनिगॆ बेकिल्लवॆन्दु अवुगळ त्यागवु, 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+निषिद्धद त्यागवु, अ-सत्यवन्नु हेळबेड पर-स्वत्तन्नु अपरिहसबेड, इतररन्नु हिंसिसबेड ऎन्दु निषेधिसि हेळिरुवदर त्यागवु; ऎन्दरॆ सुळ्ळु हेळुवदु पर-स्वत्तन्नु अपहरिसुवदु इत्य्-आदि अपराधगळु कृत-कृत्यनिगॆ अण्टुवदिल्लवॆन्दु भाविसि, अन्तह अपराधगळन्नु मनः-पूर्वकवागि माडोणवु; 
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10341,6 +13639,11 @@ quien **ha alcanzado** un verdadero conocimiento de la naturaleza esencial de su
 वर्णेति । आत्मस्वरूपत्तिल् ब्राह्मणादिवर्णमुम् ब्रह्मचर्याद्याश्रममुम् इल्लामैयाले वर्णाश्रमवत्ताऩ शरीरसम्बन्धत्तालेये आत्मावुक्कु वर्णाश्रमधर्मङ्गळ् विहिदङ्गळागैयाले अवैगळ् सोपाधिकङ्गळ्। भगवच्छेषतैकस्वभावमाऩ आत्मस्वरूपत्तै यऱिन्दवऩुक्कु अवैगळ् अनुपादेयङ्गळॆऩ्गिऱ पक्षम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(३) **वर्णाश्रम-धर्मगळु औपाधिकङ्गळागैयाले** - उपाधिय मूलक उण्टागुववु; आदुदरिन्द, इल्लि उपाधि यावुदु ऎन्दरॆ प्रारब्ध-कर्मगळु, प्रारब्ध-कर्मानुभवगळिगागि जन्म मत्तु शरीरगळु, आ शरीरगळिगॆ विधिसल्पट्ट वर्णाश्रम-धर्मगळु, **स्व-रूप-ज्ञान पिरन्दवुनक्के** - तन्न स्व-रूप मत्तु परमात्म-स्व-रूपगळ ज्ञानवु उण्टागिरुववरिगॆ **त्याज्यङ्गळ् ऎङ्गिर पक्षमुम्** - बिडलु योग्यवादुवु; एकॆन्दरॆ ई वर्णाश्रम-धर्मगळॆल्ला ईतनन्नु पवित्रीकरिसि स्व-रूप-ज्ञानवन्नुण्टुमाडुवदक्कागि अवुगळ अनुष्ठानवु. ई स्व-रूप-ज्ञान उण्टाद नन्तर अवुगळ आवश्यकतॆ इल्लवादुदरिन्द त्याज्यगळु ऎन्दु हेळुव पक्षवू,
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10379,6 +13682,11 @@ quien **ha alcanzado** un verdadero conocimiento de la naturaleza esencial de su
 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(४) **इवै शॆय्यवुमां तविरवुमाम् ऎङ्गिर पक्षमुम्** - कॆलवु सामान्य-धर्मगळाद ऎल्लरिगू अन्वयिसुव **सत्यं वद** इत्य्-आदिगळन्नेनो माडतक्कवु. वर्णाश्रम-धर्मगळादरो सार्वत्रिकवागि बेकादवल्लवादुदरिन्द अवुगळ अनुष्ठानवन्नु त्याग माडबहुदु ऎम्ब पक्षवू; अथवा **इवै** - ई वर्णाश्रम-धर्मगळन्नु **तय्यवुमाम् तविरमाम् ऎङ्गिर पक्षमुम्** - माडिदरॆ माडबहुदु, बिट्टरू बिडबहुदु, ऎम्ब अभिप्रायवू; हागॆन्दरॆ माडिदरेनू प्रयोजनविल्लवु, बिट्टरू एनू प्रत्यवायुवू इल्लवु ऎम्ब वादवू ऎम्ब भाववु; 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10420,6 +13728,13 @@ excepto la **pérdida** del **placer** del Señor
 उगप्पिऴक्कुमिति । वर्णाश्रमधर्मङ्गळैत् तविर्न्दाल् वर्णाश्रमधर्मानुष्ठानत्ताले वरक्कूडिय भगवत्प्रीतियैयिऴन्दुबोवदु तविर भगवन्निग्रहरूपप्रत्यवायम् वारादॆऩ्गिऱ पक्षम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(५) **इवै तविर्न्दालुम्** - ई नित्य-नैमित्तिक--कर्मानुष्ठानगळन्नु परित्यागमाडिदरू, **उकप्पिळक्कुमत्तनैये** - भगवन्तन प्रीति इल्लदॆ होगुत्तदॆ अष्टु मात्रवे विना, **वेरोरु प्रत्यवायम् इल्लै ऎङ्गिर पक्षमुम्** - अदल्लदॆ इन्नु याव प्रत्यवायवू इल्लवॆम्बुव पक्षवू ऎन्दरॆ भगवन्तनु ऎन्दिगू ई प्रपन्ननन्नु नित्य-नैमित्तिकगळन्नु अनुष्ठिसदे इरुवदरिन्द निग्रहिसुवदिल्लवु. ऎम्ब पक्षवू ऎम्ब भाववु. 
+
+[[P204]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10461,6 +13776,11 @@ excepto la **pérdida** del **placer** del Señor
 लोकविरोधमात्रमे इति । इवैगळै अनुष्ठियादबोदु लोकनिन्दारूप दृष्टप्रत्यवायमे यॊऴिय भगवन्निग्रहपरलोकप्राप्तिरूपादृष्टप्रत्यवायमिल्लैयॆऩ्गिऱ पक्षम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(६) **इवै** - ई नित्य-नैमित्तिक--वर्णाश्रम-धर्मगळन्नु **अनुष्ठियादपोदु** - अनुष्ठिसदे होद सन्दर्भदल्लि, **लोक-विरुद्ध-मात्रमे प्रत्यवायुम्** - शिष्ट-मण्डलिगॆ विरुद्धवागोण मात्रवे प्रत्यवायवु, ऎन्दरॆ अवरुगळ अभिमानविल्लदॆ अवरुगळु निन्दिसोण मात्रवे प्रत्यवायवु ऎम्ब पक्षवू, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10475,7 +13795,6 @@ excepto la **pérdida** del **placer** del Señor
 सम्यङ्-न्यायानुगृहीत-शास्त्र-संप्रदाय-विरुद्धत्वात्   
 सत्त्व-स्थानाम् अनुपादेयाः ।
 </details>
-
 
 
 <details><summary>English</summary>
@@ -10503,11 +13822,23 @@ por aquellos que **desean** **estar** en sattvam.
 
 मऱ्ऱुमिप्पुडैगळिलुळ्ळ पक्षङ्गळॆल्लाम् सम्यङ्न्यायानुगृहीतशास्त्रसंप्रदायविरुद्धङ्गळाऩ पडियाले सत्त्वस्थर्क्कनुपादेयङ्गळ्।
 </details>
+
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 अनुक्तङ्गळाऩ पक्षान्तरङ्गळैयुम् सङ्ग्रहिक्किऱार् मऱ्ऱुमिप्पुडैगळिलुळ्ळ पक्षङ्गळॆल्लामिति । इप्पुडैगळ् - इम्मादिरिगळाऩ, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**मत्तुम्** - इष्टु मात्रवे अल्लदॆ इन्नू, **इप्पुडै कळिलुळ्ळ पक्षङ्गळॆल्लाम्** - हीगॆ इवे मॊदलाद अवान्तर-भेदगळुळ्ळ पूर्व-पक्षगळॆल्ला, इवुगळु यावुवॆन्दरॆ आवश्यकगळागि आनुष्ठिसबेकॆम्ब विधि इरुव नित्य-नैमित्तिकगळल्लि, कॆलवु मात्र अगत्यवागि माडतक्कवु; मिक्कवु अनुष्ठिसबेकागिल्लवु; ऎम्ब पक्षवु; हेगॆन्दरॆ सङ्क्रमणगळल्लि नाल्कु मात्रवे अनुष्ठिसतक्कवु, मिक्कवुगळन्नु अनुष्ठिसुव आवश्यकविल्लवु; श्रवण-द्वादशियन्नु अनुष्ठिसबेकागिल्लवु, विवाहवन्नु ऐदु दिन नडॆसबेकागिल्लवु, ऒन्दे दिनदल्ले ऎल्लवन्नू नडॆसबहुदु, कन्या-मासद पितृ-पक्षवन्नु श्राद्ध-रूपदल्लि माडबेकादुदिल्लवु, ब्राह्मणरिगॆ कालु तॊळदु अन्न हाकिदरॆ साकु. मत्तु गर्भादान, सीमन्त, नामकरणादि-संस्कारगळॆल्ला अनावश्यकगळॆम्ब पक्षगळु, इत्य्-आदिगळॆल्ला ई आदि-शब्ददिन्द हेळल्पट्टवु. **सम्यङ्-न्यायानुगृहीत--शास्त्र-सम्प्रदाय-विरुद्धङ्गळान पडियाले** - सत्-तर्कदिन्द अनुगृहीतवाद शास्त्र-विधिगू तद्-अनुगुणवागि आचार्यरुगळ अनुष्ठानक्कू विरुद्धगळाद प्रयुक्त **सत्त्व-स्थर्कुम्** - सत्त्व-मार्गदल्लिरुववरिगू सह **अनुपादेयङ्गळ्** - अवलम्बिसलु योग्यवादवुगळल्लवु.
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+शास्त्रवु विधिसिरुव कर्मगळल्लि कॆलवु मात्र अनुष्ठिसतक्कवु, कॆलवु बेकागिल्लवॆम्ब पक्षवन्नु उदाहरणॆय मूलक उपपादिसि खण्डिसि, माडबेकागि विधिसिरुववुगळन्नॆल्ला तन्न तन्न वर्णाश्रम-रीत्या मत्तु तन्न तन्न गृह्यदल्लि विधिसिरुव कर्मगळन्नॆल्ला माडिये तीरबेकॆन्दु उपदेशिसुत्तारॆ.
+
+</details>
 
 ### कर्म-विभागः
 #### अवश्यं कार्याणि
@@ -10550,6 +13881,13 @@ y ciertos nuevos ritos y observancias **impuestos**,
 
 प्रपन्नऩुक्कु भगवच्छास्त्रादिगळिल् अभिगमनादिगळै अपूर्वमाग विधित्तु देवतान्तरसम्बन्धादिगळै निषेधित्तुमिरुप्पदुबोल् सर्वधर्मत्यागत्तैत् ताऩ् विधिक्कलागादो ऎऩ्ऩ? दृष्टान्तप्रदर्शनपूर्वकम् अप्पडि विधिक्कलागादॆऩ्गिऱार् सन्न्यासाश्रमस्थर्गळुक्कु इत्यादिना । </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**संन्यासाश्रम-स्थर्कु** - संन्यासाश्रमदल्लि इरुववरिगॆ **पण्डुळवै** - हिन्दॆ ऎन्दरॆ हिन्दिन गृह-स्थाश्रमदल्लि माडुत्तिद्द, **शिलवत्तै** - कॆलवु नित्य-कर्मगळन्नु, **निषेधित्तु** - निषेधिसि हेळि, औपासन, पञ्च-महा-यज्ञादिगळिन्द कूडिद वैश्वदेव, स्वयं-पाक, इवुगळन्नु निषेधिसि ऎम्ब भाववु, **पुदिशाक** - हॊसदागि, **शिलवत्तै विधिक्कुमाप्पोले** - कॆलवन्नु विधिसिरुव हागॆ, भिक्षाचरणॆ, पर्व-काल-मण्डन मॊदलादवुगळु इल्लि सूचितवु, हागॆये 
+
+[[P205]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10584,6 +13922,12 @@ y ciertas cosas nuevas **están prohibidas**.
 <details><summary>मूलम्</summary>
 
 भागवतत्वमडियागच् चिलवऱ्ऱै निषेधित्तुच् चिलवऱ्ऱै अपूर्वमाग विधित्तालुम् 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**भागवतत्वमडियाग** - ईतनु ईग प्रपन्ननागि भागवतनागिरुवदर मूलकवागि, **शिलवत्तै निषेधित्तु** - अन्य-देवतालय-प्रवेशादिगळन्नु मत्तु काम्य-कर्मगळे मॊदलादवन्नु निषेधिसि, **चिलवत्तै अ-पूर्वमाग विधित्तालुम्** - कॆलवुगळन्नु हॊसदागि विधिसिद्दरू हेगॆन्दरॆ आचार्यरुगळ तनयगळॊन्दिगॆ रहस्य-त्रयगळ जप मॊदलादवुगळु इल्लि सूचिसल्पट्टवु. 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10640,6 +13984,21 @@ Cualquier otro rito o karma que **realice**,
 अवश्यकर्तव्यङ्गळागच् चॊल्लप्पट्ट कर्मङ्गळै इति । अधिकारानुगुणमाग विशेषनिषेधत्ताले सिलवऱ्ऱुक्कु त्यागमुण्डाऩालुम् अकरणे प्रत्यवायजनकमाऩ सामान्यविधिसिद्ध सन्ध्यावन्दनादिधर्मङ्गळै सन्न्यासिक्कुम् विडमुडियादाप् पोले प्रपन्नऩुक्कुम् विडमुडियादॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(१) **सन्ध्या-हीनः** - मूरु सन्धिगळल्लू सन्ध्या-वन्दन-माध्याह्निकगळन्नु अनुष्ठिसदिरुववनु, **नित्यं** - यावागलू स्नानमाडलि, माडदिरलि यावागलू, **अ-शुचिः** - शुद्धनल्लवु, **सर्व-कर्मसु** - सर्व-कर्मगळल्लू ऎन्दरॆ ऎल्ला कर्मानुष्ठानक्कू **अनर्हनु"** - (दक्ष-स्मृति) **इत्य्-आदिगळाले** - इवे मॊदलाद शास्त्र-विधिगळिन्द, **अवश्य-कर्तव्यङ्गळाग** - अवश्य माडबेकादवुगळॆन्दु, **शॊल्लप्पट्ट** - हेळल्पट्ट, **कर्मङ्गळै** - कर्मगळन्नु, **विडवॊण्णादु** - बिडलु साध्यविल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इल्लि सन्ध्या-वन्दनॆयन्नु बिडतक्कद्दल्लवॆन्दु हेळिदुदु ब्रह्म-यज्ञादि इतर-नित्य-नैमित्तिक-कर्मगळन्नादरू बिडबहुदु; सन्ध्या-वन्दनॆगळन्नु बिडतक्कद्दल्लवॆम्ब अर्थवल्लवु. सन्ध्या-वन्दनॆयन्नु बिडतक्कद्दल्लवॆन्दु हेळिदुदु प्रपन्ननु माडबेकाद ऎल्ला नित्य-नैमित्तिक-रूप--वर्णाश्रम-धर्मगळिगू उपलक्षणवॆन्दु इट्टुकॊळ्ळतक्कद्दु. 
+
+अदरॆ भगवच्-छास्त्र मॊदलादवुगळल्लि ई सन्ध्या-वन्दनादि-भेदगळु हेळल्पट्टिवॆयल्ला अवुगळल्लि यावुदन्नु अनुष्ठिसतक्कद्दु ? ऎम्ब सन्दर्भदल्लि हेळुत्तारॆ - हागॆ विकल्पगळु हेळल्पट्टिद्दरॆ अवरवरुगळ पूर्वाचार्यरुगळ अनुष्ठानदिन्द बन्द सम्प्रदायानुगुणवागि नडॆयुवदे व्यवस्थापकवॆन्दु उपदेशिसुत्तारॆ.- 
+
+[[P206]]
+
+</details>
 
 #### सन्ध्योपास्ति-विधौ व्यवस्थित-विकल्पः
 
@@ -10689,8 +14048,26 @@ respectivamente por aquellos que **siguen** estos **respectivos** Śāstras.
 सन्ध्यावन्दनादिगळ् प्रपन्नऩुक्कुम् अवश्यानुष्ठेयमागिल् सूर्याग्निमित्रवरुणादिशब्दघटितङ्गळाऩ मन्त्रङ्गळैक्कॊण्डे सन्ध्यानुष्ठानम् सॆय्यवेण्डुमो, पञ्चरात्रसंहितैकळिल् सॊऩ्ऩ सन्ध्यावन्दनादिगळै प्रपन्नऩ् अनुष्ठिक्कलागादोवॆऩ्ऩ? आपस्तम्बबोधायनाश्वलायनादि सूत्रङ्गळिल् सॊऩ्ऩ तत्तत्सन्ध्योपासनादिगळै अव्वो सूत्रनिष्ठर्गळे प्रतिनियतमाग अनुष्ठिप्पदुबोल् तत्तत्संहिताभेदङ्गळिऱ्सॊऩ्ऩसन्ध्योपासनादिगळैयुम् तत्तत्संहितानिष्ठर्गळे अनुष्ठिक्कवेण्डुमे यॊऴिय प्रपन्नसामान्यम् संहितोक्तप्रकारेण अनुष्ठिक्कक्कूडादॆऩ्गिऱार् धर्मशास्त्रसूत्रभेदङ्गळिऱ् पोले इत्यादि । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**धर्म-शास्त्र-सूत्र-भेदङ्गळिर् पोलॆ** - धर्म-शास्त्र-मनु-स्मृति-पराशर-स्मृति, मॊदलाद धर्म-शास्त्रगळल्लू, आपस्तम्ब-बोधायनादि-सूत्रगळल्लि हेळिरुव आचार-भेदगळ हागॆ, **भगवच्-छास्त्रद नाल्कु संहिता** भेदगळल्लू, **इतिहास-पुराणगळल्लू शॊल्लुम्** - हेळल्पट्ट, सन्ध्योपासनाबेधगळन्नु **आव्वोशास्त्रङ्गळिले इळिन्दवर्गळ्** - आया शास्त्रगळन्नु अवलम्बिसिरुवरुगळु, **अनुष्ठिक्कक्कडवर्गळ्** - अनुष्ठिसतक्कवरागिरुत्तारॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+पूर्वाचार्यरुगळु यावुगळन्ननुसरिसि हेगॆ अनुष्ठिसिदरो हागॆये तच्-छिष्यरुगळू आनुष्ठिसतक्कद्दॆम्ब भाववु. हीगॆ नडॆसुवदरिन्द प्रपन्नन पारमैकान्त्यक्केनू भङ्गविल्लवॆम्ब भाववु. 
+
+</details>
 
 #### देवताभिगमनम्
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हीगॆ स्मृति-गृह्य-सूत्रादिगळल्लि हेळिरुव आचारगळन्नु अवलम्बिसिदरॆ **"दैवतान्य् अभिगच्छेत् तु"** इत्य्-आदिगळिन्द हेळल्पट्ट देवतान्तर-भजनगळिन्द प्रपन्नन पारमैकान्त्यक्कॆ भङ्गवल्लवो ? ऎन्दरॆ इल्लवॆन्दु उपपादिसुत्तारॆ. प्रपन्ननादुदरिन्द, अवॆल्ला अन्य-देवता-विषयवल्लदॆ साक्षाद्-भगवन्तनन्नु कुरितद्दे आगुत्तदॆये विना अन्यथा अल्लवॆन्दु हेळुत्तारॆ. 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘दैवतान्य् अभिगच्छेत् तु’’  
@@ -10731,6 +14108,11 @@ uno **debe orar** a las deidades **para protección**"
 इप्पडि प्रपन्नऩुक्कुम् शास्त्रवश्यतै वेण्डुमॆऩ्ऱाल् ‘‘दैवतान्यभिगच्छेत्तु’’ ऎऩ्ऱु मनुस्मृतियिलुम्, ‘‘देवस्थानप्रणामनम्’’ ऎऩ्ऱु इतिहासत्तिलुम् सॊऩ्ऩबडि देवतान्तराभिगमनमुम् सॆय्यवेण्डि वारादो वॆऩ्ऩवरुळिच्चॆय्गिऱार् दैवतान्यभिगच्छेत्तु इत्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"देवतान्य् अभिगच्छेत् तु"** - (मनु-स्मृति ४-१५३) -  देवतॆगळ आराधनॆयन्नु माडतक्कद्दु, **ऎन्रुम्** - ऎन्दू, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10766,6 +14148,12 @@ donde los dioses **son adorados**"
 <details><summary>मूलम्</summary>
 
 ‘‘देवस्थानप्रणामनं’’(आनुशाासनिकमॆऩ्ऱु पूर्वर्गळ्)ऎऩ्ऱुम् 
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**"देव-स्थान-प्रणामनं** - देव-स्थानद नमस्कारवु" **ऎन्रु** - ऎम्बदागियू,
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10818,6 +14206,24 @@ debido a la autoridad del Śāstra
 ऎऩ्ऱु प्रपन्नऩुक्कु अन्यदेवतानमस्कारादि निषेधकवचनबलत्तालुम् दैवतदेवशब्दङ्गळ् नारायणरूपदैवतदेव विशेषत्तिले पर्यवसिक्कुमागैयालुम् अनन्यथासिद्धजीवलिङ्गकप्रकरणस्थ देवर्षिपितृशब्दङ्गळ्बोले तत्तदन्तर्यामिपरमाग नयिप्पिक्कवेण्डियदिल्लामैयालुम् भगवद्विषयत्तिलेये नियतमागवेण्डुमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पुडिगळिले** - ई रीतिगळल्लि, धर्म-शास्त्र मत्तु इतिहासगळल्लि, **चॊन्न** - हेळल्पट्ट, आचारवू, **परमैकान्तिगॆ शास्त्र-बलत्ताले** - शास्त्र-दृष्टियिन्द प्राप्तवाद शक्तिय मूलक, **नियतम्** - नियतवादुदे, न्यायवादुदे. 
+
+[[P207]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अन्य-देवतॆगळु हेळल्पट्टिद्दरू अग्नि-होत्रादिगळ हागॆ, भगवद्-अभिगमनादिगळल्ले पर्यवसितु. अन्य-देवताभिगमनगळागुवदिल्लवु. शास्त्र-दृष्ट्या आ देवतॆगळिगॆ अन्तर्यामियाद भगवन्तनन्नु उद्देशिसि माडिद अभिगमनादिगळागुवदरिन्द प्रपन्नन पारमैकान्त्यक्कॆ भङ्गवेनू इल्लवादुदरिन्द उपादेयवे ऎम्ब भाववु. मनु-स्मृतिय पूरा श्लोकवु यावुदॆन्दरॆ - 
+
+> दैवतान्य् अभिगच्छेत् तु धार्मिकांश् च द्विजोत्तम ।  
+ईश्वरं चैव रक्षार्थं गुरून् एव च पर्वसु ॥ 
+
+ऎम्बुदु. अमावास्यादि--पर्व-कालगळल्लि इवरुगळिगॆ अभिमुखवागि होगतक्कद्दु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10828,8 +14234,6 @@ debido a la autoridad del Śāstra
 
 अतः कैश्चिद् अपि शास्त्रैर् न विरोधः । 
 </details>
-
-
 
 <details><summary>English</summary>
 
@@ -10852,6 +14256,25 @@ Por lo tanto, ningún śāstra **es violado**.
 आगैयाल् ऒरु शास्त्रत्तिऱ्कुम् विरोधमिल्लै इति । आगैयाल् - सामान्यशास्त्रत्तिऱ्कु विशेषपर्यवसानम् न्यायसिद्धमागैयाल्, ऒरु शास्त्रत्तिऱ्कुम् - सामान्यशास्त्रत्तिऱ्कुम् विशेषशास्त्रत्तिऱ्कुम्।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+आदुदरिन्द ऎन्दरॆ तम्म तम्म आचार्यरुगळ मूलक बन्द सम्प्रदायानुसारवागि नडॆयुवदु युक्तवॆन्दु उपपादितवाद नन्तर, **ऒरु शास्त्रङ्गळुक्कुम्** - ऒन्दु शास्त्रक्कू, **विरोधमिल्लै** - विरोधविल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+सामान्यवागि **"नान्यं देवं नमस्कुर्यात्"** ऎन्दु निषेधिसिद्दरू, इदु अन्य-देवताभिगमनादिगळ हागॆ तोरिदरू प्रपन्नन विषयदल्लि आ अन्य-देवतात्मकनाद भगवन्तनल्ले आवुगळु अन्वयिसुवदरिन्द अन्य-देवता-सम्बन्धवु प्रपन्ननिगॆ कूडदॆन्दु हेळुव शास्त्र-पङ्क्तिगेनॊन्दू विरोधविल्लवॆम्बुदु अभिप्रायवु. 
+
+आगलि, अष्टाक्षर-मन्त्रवन्नू हागॆये द्वय-चरम-श्लोक-मन्त्रगळन्नू सन्ध्या-वन्दनॆ कालदल्लि जपवन्नु माडबेकॆन्दु सेरिसिरुवदु हिन्दिनिन्द बन्द सम्प्रदायक्कॆ सरिहोगुत्तदॆये ? अष्टाक्षर-मन्त्रवन्नु मुन्दॆ हेळिरुवदु मिक्क ऎरडु मन्त्रगळिगू उपलक्षणवॆन्दु इट्टुकॊळ्ळतक्कद्दु. सन्ध्या-कालदल्लि रहस्य-त्रयगळाद मूरु मन्त्रगळन्नु जपिसतक्कद्दु ऎन्दु प्रपन्ननिगॆ विधिसिरुवदरिन्द सन्ध्या-वन्दनॆयन्नु त्यजिसबहुदॆम्ब अर्थवागुवदिल्लवो ? श्री-यति-वर्यरू 
+
+> द्वयम् अर्थानुसन्धानेन सह सदैवं वक्ता 
+
+ऎन्दु हेळिरुवदरिन्द प्रपन्ननु **सदा** - ऎन्दिरुवदरिन्द सन्ध्या-कालदल्लू द्वय-मन्त्रवन्नु उच्चरिसुवदु साकॆम्ब अभिप्रायवागुवदिल्लवो ? ऎन्दरॆ, अदक्कॆ समाधानवागि ई शास्त्रदल्लि विधिसल्पट्ट अवश्य-कर्तव्यगळाद नित्य-नैमित्तिकगळ कालदल्लि अनुष्ठिसि अवुगळिगॆ विरोधविल्लद हागॆ, तद्-इतर-कालगळल्लि, अवुगळू सत्-सम्प्रदाय-रीत्या बन्दवुगळादुदरिन्द अवुगळन्नु अनुष्ठिसतक्कद्दॆन्दु उपदेशिसुत्तारॆ - 
+
+[[P208]]
+
+</details>
 
 #### मन्त्रान्तर-जपः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10917,6 +14340,11 @@ Mandatos como los anteriores en shrI-vaiShNava-dharma-shAstra-s,
 ऎऩ्ऩव् अरुळिच्चॆय्गिऱार् तस्मादष्टाक्षरमित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**"तस्मात्** - आ कारणदिन्द, **अष्टाक्षर-मन्त्रम्** - मूल-मन्त्रवु, **वीत-कल्मषैः** - नित्य-नैमित्तिकानुष्ठानदिन्दलू उपायानुष्ठानदिन्दलू कळॆदुहोद पापगळन्नुळ्ळ, **भक्तैः** - प्रपन्नरुगळिन्द, **आत्म-शुद्धये** - परिशुद्धात्म-प्राप्तिगागि, **सततं** - यावागलू, **सन्ध्या-कालगळल्लि, जप्तव्यम्** - जपिसतक्कद्दु, -(भा. आ. ९८-६९) **ऎन्रु** - ऎम्बुदागि, **वैष्णव-धर्म-शास्त्रङ्गळिल्** - वैष्णव-धर्म-शास्त्रगळल्लि, **शॊन्नदुवुम्** - विधिसिरुवदू, मत्तु 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10960,6 +14388,12 @@ in the Gadya -
 <details><summary>मूलम्</summary>
 
 ‘‘द्वयमर्थानुसन्धानेन सह सदैवं वक्ता’’(शरणागति-गद्यम्) ऎऩ्ऱु गद्यत्तिलरुळिच्चॆय्ददुवुम्
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**"द्वयम् अर्थानुसन्धानेन** - दय-मन्त्रदल्लि हेळल्पट्ट अभिप्रायगळन्नॆल्ला स्मरिसिकॊळ्ळुवदरॊन्दिगॆ सदा, यावागलू **एवं वक्ता** - ई प्रकारवागि द्वय-मन्त्रवन्नु जपिसुत्ता ऎन्दरॆ पठिसुत्ता" **ऎन्रु** - ऎम्बदागि, **गद्यत्तिल्** - श्री-यति-वर्यरु शरणागति-गद्यदल्लि, **अरुळिच्चॆय्ददुवुम्** - कृपया उपदेशिसिदुदू, 
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11015,6 +14449,30 @@ y en aquellos momentos que **sobran** después de su actuación.
 सन्ध्यायां – सन्ध्यावन्दन-क्रियायां, अवसरे – जपावसर एव, कार्यः – अवश्यकर्तव्यः ऎऩ्ऱु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+मत्तु **इप्पुडैगळिलुळ्ळवै एल्लाम्** - ई प्रकारवागिये महनीयराद आचार्यरुगळ उपदेशवॆल्लवू, **आवश्य-कर्तव्यङ्गळान नित्य-नैमित्तिकङ्गळुक्कु** - अवश्यवागि शास्त्र-विधिगनुसारवागि माडबेकाद नित्य-नैमित्तिकगळिगॆ, **विरोधम् वारादपडि** -  विरोधवु बारद हागॆ **अवत्तुक्कु प्पोक्कि** - अवुगळ अनुष्ठानक्कॆ बेकाद कालवु होगलागि, **मिक्क कालत्तिले** - निन्त कालदल्लि, **आगक्कडवदु** - हिरियराद आचार्यरुगळु उपदेशिसिद मन्त्र-जपगळनुष्ठानवु आगतक्कद्दु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+नित्य-नैमित्तिकगळन्नु त्यजिसि, आ कालदल्लि अवुगळिगॆ बदलागि इवुगळन्नु जपिसबहुदॆम्बुदु अवरुगळ उपदेशवल्लवु. यथा-विधियागि आ कालगळल्लि नित्य-नैमित्तिकगळाद आज्ञा-कैङ्कर्यगळन्नु अनुष्ठिसिबिट्टु मिक्क कालगळल्लि ई मन्त्रगळ जपवन्नु माडतक्कद्दॆम्बुदु श्री-यति-राजरे मॊदलाद अचार्यरुगळ मत्तु महर्षिगळ उपदेशवु. अदु हेगॆ ? ऎन्दरॆ इदन्नु उपदॆशिसुव श्री-निगमान्त--महा-देशिकरवरे सार-निष्कर्षाधिकारल्लि 
+
+> शाखानाम् उपरि-स्थितेन मनुना मूलेन लब्धात्मकः ।  
+सत्ता-हेतु--सकृज्-जपेन सकलं कालन् द्वयेन क्षिपन् 
+
+ऎम्बल्लि सकल-कालदल्लू द्वय-मन्त्र-पठन माडिकॊण्डु कालवन्नु कळॆयबेकॆन्दु हेळिरुत्तारॆ. अल्लि हेळिरुवागलू ईग तावु उपदेश-रीतियल्ले **"सकलं कालं"** ऎम्बुदक्कॆ अर्थ माडतक्कद्दॆन्दू हेळिदन्तायितु. आदुदरिन्द नित्य-नैमित्तिकगळन्नु अनुष्ठिसि मिक्क कालगळल्लि ऎम्बुदु व्यक्तवु. मेलिन वाक्यदल्लि **"इप्पुडैगळिलुळ्ळवै ऎल्लाम्"** ऎम्बुदरिन्द **"गुरोर् नाम सदा जपेत्"** ऎम्बिवे मॊदलादवुगळु हेळल्पट्टवु. 
+
+[[P209]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हीगॆ **सदा सततम्** ऎम्ब पदगळिद्दरू हीगॆ आ कालगळन्नु बिट्टु मिक्क कालगळल्लि ऎन्दु अर्थ माडिदरल्ला, अदक्कॆ प्रमाणवुण्टो ऎन्दरॆ ई अभिप्रायवु न्याय-सिद्धवादुदेयादरू प्रमाणवन्नु उदाहरिसुत्तारॆ- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11059,6 +14517,21 @@ en momentos que **no entren en conflicto** con la **realización** de los ritos 
 ताम् सॊऩ्ऩ इन्द निर्वाहत्तिल् महर्षिकळिऩ् संवादत्तैक् काट्टुगिऱार् श्रौतस्मार्ताविरुद्धेष्वित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**श्रौत-स्मार्ताविरुद्धेषु** - श्रुतियल्लू स्मृतियल्लू हेळुव कर्मानुष्ठानगळिगॆ विरोधविल्लद, **कालेषु** - कालगळल्लि, **जपम् आचरेत्** - अष्टाक्षर-मन्त्र-जपवन्नु इदु द्वय-चरम-श्लोकक्कू उपलक्षणवु, आचरिसतक्कद्दु, **ऎन्रु** - ऎम्बदागि **नारदादिगळुम्** - नारदरे मॊदलादवरु, **शॊन्नार्गळ्** - हेळिदरु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ई अभिप्रायक्कॆ पूर्वाचार्यरुगळ सम्मतियू उण्टॆन्दु हेळलु हॊरटु, श्री-यति-वर्यर मुख्य-शिष्यराद वङ्गि-पुरद नम्बियु श्री-भाष्य-कारर हृदयवन्नरितवराद प्रयुक्त, 
+
+> द्वयम् अर्थानुसन्धानेन सह सदैव वक्ता 
+
+ऎन्दु श्री-यति-वर्यरवरु उपदेशिसिरुवदर तात्पर्यवु, अग्नि-होत्रादि-कर्मगळिगॆ, इदरिन्द नित्य-नैमित्तिक-कर्मगळु हेळल्पट्टवु, विरोधविल्लद कालदल्ले, सदा द्वयोच्चारणॆयन्नु माडतक्कद्दॆम्बुदे तात्पर्यवॆन्दु आ वङ्गि-पुर-नम्बियवर दिव्य-सूक्तियिन्द प्रदर्शिसुत्तारॆ. 
+
+</details>
 
 ### शिष्टाचारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11076,8 +14549,6 @@ en momentos que **no entren en conflicto** con la **realización** de los ritos 
 
 इति वङ्गिपुरपूर्णो ऽप्य् अनुजग्राह । 
 </details>
-
-
 
 <details><summary>English</summary>
 
@@ -11104,6 +14575,26 @@ Vaṅgīpuram Nambi también **ha dicho**: -
 इदु साम्प्रदायिकमॆऩ्गिऱार् हुत्वाग्नीनिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अग्नि-होत्रादौ** - अग्नि-होत्रादिगळल्लि, **उक्तङ् कालं** - अवुगळिगॆ विधिसिरुव कालवन्नु, **अविक्षिपन्** - अतिक्रमिसिदवनागि, **ऎन्रु** - ऎम्बदागि वङ्गि-पुरद नम्बियु **आरुळॆच्चॆय्दार्** - कृपया अप्पणॆ कॊडिसिरुत्तारॆ. 
+
+इदु हिन्दॆये उदाहरिसल्पट्टिरुत्तदॆ. ([[??]] )नॆय पुट नोडि. इदक्कॆ हिन्दॆ 
+
+> स्व-वर्ण--स्वाश्रमार्हेण विधिना श्रद्धयान्वितः ।  
+समिद्-आज्यादिभिर् द्रव्यैर् मन्त्रैर् अपि यथोदितैः ॥ 
+
+ऎन्दु इरुवदरिन्दलू, मुन्दॆ 
+
+> पराराधन-रूपेण कृतेनैव स्व-कर्मणा ।  
+कृते निष्-कल्मषे शुद्धे स्वस्मिन् मनसि सु-स्थिते ।  
+लब्धाधिकारो देवस्य ध्यानार्चन-जपादिषु ॥ 
+
+[[P210]]
+
+ऎन्दू इरुवदरिन्दलू, नित्य-नैमित्तिक-रूप--वर्णाश्रम-धर्मगळन्नु विहित-कालगळल्लि आनुष्ठिसि, अदरिन्द परिशुद्धान्तःकरणनागि जपादिगळिगॆ अधिकारवन्नु हॊन्दतक्कद्दॆन्दु हेळिरुत्तदॆ. आदुदरिन्द सन्ध्या-वन्दनानन्तर अष्टाक्षरादि-जपवु श्री-यति-वर्यर मुख्य-शिष्यरु हीगॆ अवर नित्यवॆम्ब ग्रन्थदल्लि बरॆदिरुवदरिन्द श्री-यति-व‌र्यर अभिप्रायानुसारवागिये अप्पणॆकॊडिसिरुत्तारॆम्बुदु सु-व्यक्तवु. मुन्दॆ श्री-यति-वर्यर प्रवृत्तियिन्दलू सह ई अभिप्रायवन्ने ग्रहिसबहुदॆन्दु प्रदर्शिसुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11141,6 +14632,30 @@ y **ofreció** el anjali de agua en el momento de sandhyā.
 इदिल् श्रीभाष्यकाररनुष्ठानत्तै प्रमाणमागक् काट्टुगिऱार् श्रीभाष्यकाररिति । वरुन्दियॆऴुन्दिरुन्दु - इतरर्गळुडैय सहायत्ताले कष्टप्पट्टु ऎऴुन्दिरुन्दु, 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**भाष्य-कारर्** - श्री-यति-वर्यरु, **अन्तिम-दशैयिलुम्** - देह-वियोग-कालदल्लि **वरुन्दि** - तुम्बा कष्टपट्टु, आ दिन ऎद्दु निन्तु अर्घ्यवन्नु कॊडलु साध्यविल्लदिद्दरू, **ऎळुन्दिरुन्दु** - ऎद्दु निन्तु अर्घ्यवन्नु कॊडतक्कद्दॆम्ब विधि इरुवदरिन्द, शिष्यर सहाय-मूलक ऎद्दु निन्तु, **जलाञ्जलि प्रक्षेपम्** - ऎरडु कैगळन्नू जोडिसि अञ्जलिमाडिकॊण्डु, अर्घ्य-प्रदानवन्नु, **पण्णियरुळिनार्** - माडि कृपया सम्प्रदाय-क्रमवन्नु दयपालिसिदरु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+बरी उपदेश-मात्रवन्ने माडतक्कवरल्लवु. देहावसानद दिनवादुदरिन्द कूतुकॊण्डे अर्घ्यवन्नु कॊट्टिद्दरू स्वामियु एनू अन्यथा भाविसुत्तिद्दिल्लवु. हीगॆ कष्टवाद कालदल्लू शास्त्र-क्रमवन्नु अनुसरिसि सम्प्रदायवन्नु स्थापिसिरुत्तारॆ, पूर्व-पक्षिगळु हेळुव हागॆ देवतान्तर-मन्त्रगळिद्दरू शास्त्र-सम्प्रदायगळिगॆ कट्टु बिद्दु देह-त्याग माडुव दिनदल्लू कूड शास्त्र-विहित-रीत्या अनुष्ठिसिरुवदरिन्द, अवर सिद्धान्तक्कॆ सेरिदवरु यारू प्रपन्ननिगॆ वर्णाश्रम-धर्मगळु बेकिल्लवॆन्दु ई चरम-श्लोकदल्लि हेळल्पट्टितॆन्दु अभिप्रायपडुवुदु सरियल्लवु. ई वर्णाश्रम-धर्मगळु आत्माविगॆ अण्टिदुदल्लवु. जन्म-प्रयुक्तवाद देह-प्राप्ति-रूप उपाधियिन्द उण्टागि, जन्मविरुववरॆगू अनुष्ठिसतक्कवे विना त्यागमाडतक्कवुगळल्लवॆन्दू हिन्दॆयू हेळिदुदन्ने पुनः सिद्धान्तिसि हेळुत्तारॆ. ई अभिप्रायगळन्ने वङ्गि-नम्बियवर कारिकॆयल्लि अनुसन्धानमाडबहुदु. 
+
+> श्रुति-स्मृत्य्-उदितं सर्वं  
+स्व-वर्ण--स्वाश्रमोचितम् ।  
+फलाभिसन्धि-रहितं  
+पर-ब्रह्मार्चनात्मकम् ॥  
+न्यस्य कर्तृत्व-भोक्तृत्वे  
+स्वामित्वञ् च परात्मनि ।  
+नित्य-नैमित्तिकैः काम्यैः  
+कर्मभिश् च समन्वितः ॥ (७५-७६) 
+
+आदुदरिन्द वर्णाश्रम-धर्मगळन्नु त्यागमाडुवदु शास्त्र मत्तु सम्प्रदायगळिगॆ विरुद्धवॆन्दु सिद्धान्तिसि हेळुत्तारॆ.-
+
+[[P211]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11179,8 +14694,26 @@ con el pretexto de que **son** dependientes del upadhi del cuerpo
 इप्पडि श्रीभाष्यकारादिशिष्टानुष्ठानमिरुप्पदाल् वर्णाश्रमधर्मङ्गळै औपाधिकमागक्कॊण्डु त्यजिक्कै श्रीभाष्यकारादिशिष्टानुष्ठानविरुद्धमॆऩ्ऱु मुडिक्किऱार् आगैयालिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आगैयाल्** - हीगॆ शास्त्र-विरुद्ध-मात्रवे अल्लदॆ श्री-भाष्य-काररू मत्तु तच्-चिष्यर अनुष्ठानक्कॆ विरुद्धवागि, सम्प्रदायक्कू सह विरुद्धवादुदरिन्द, **वर्णाश्रम-धर्मगळु औपाधिकङ्गळॆन्रु** - अ-प्रपन्नरिगीग उपाधि-मूलक बन्दवे विना प्रपन्ननिगॆ आदुदरिन्द बेकिल्लवॆन्दु, **त्यजिक्कै** - अनुष्ठिसदे इरोणवु, **पूर्वानुष्ठानादि-विरुद्धम्** - पूर्वाचार्यरुगळ अनुष्ठानदिन्दुण्टाद सम्प्रदायादिगळिगॆ विरुद्धवादुदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+इल्लि आदि-शब्ददिन्द अनुष्ठान-मात्रवे अल्लदॆ अवरुगळ दिव्य-सूक्तिगळिगू विरोधवॆन्दु हेळल्पट्टितु. अथवा हिन्दॆ उपपादिसल्पट्ट शास्त्र-विरुद्धवॆम्बुदू **आदि**-पददिन्द हेळल्पट्टितॆन्दु भाविसबहुदु. 
+
+</details>
 
 ### औपाधिकता न त्याग-हेतुः
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हीगॆ शास्त्र मत्तु सम्प्रदाय-विरुद्धवॆन्दु स्थापिसिदनन्तरवू पूर्व-पक्षिगळु वर्णाश्रम-धर्मानुष्ठानगळन्नु त्यजिसिदरॆ उण्टागुव बाधकवन्नु युक्तिवा-दद मूलक उपपादिसुत्तारॆ. 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि +++(वर्णाश्रमधर्मङ्गळ् औपाधिकङ्गळॆऩ्ऱु)+++ त्यजिक्किल्  
@@ -11226,6 +14759,18 @@ incluso estos **tendrían que ser abandonados** (por el hombre que **ha realizad
 औपाधिकत्वबुद्ध्या त्यागम् पण्णिल् दूषणान्तरमरुळिच्चॆय्गिऱार् इप्पडि त्यजिक्किलित्यादिना । वर्णाश्रमाननुबन्धिकळाऩ मालाकरण दीपारोपणादिकैङ्कर्यङ्गळुम् देहेन्द्रियव्यापाररूपमागैयाले देहेन्द्रियोपाधिप्रयुक्तमागवेण्डुमागैयाल् पराभ्युपगतङ्गळाऩ अवैगळुम् त्याज्यङ्गळाग आगवेण्डिवरुमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि त्यजिक्किल्** - हीगॆ शास्त्र-सम्प्रदाय-विरुद्धवादरू औपाधिकगळागि त्याज्यगळॆन्दु भाविसि ई नित्य-नैमित्तिक--कर्मानुष्ठानगळन्नु त्यजिसिदरॆ, **देहेन्द्रियाद्य्-उपाधिगळैयॊळिय** - देह-इन्द्रिय मॊदलाद कारणगळिन्द बन्दवु ऎम्ब भावनॆ इल्लदॆ होदरॆ इल्लि आदि-पददिन्द जाति, संस्कार, आश्रम मॊदलादवुगळु हेळल्पट्टवु; **माला-करण** - पुष्प-मालॆगळन्नु कट्टि समर्पिसुवदु, **दीपारोपण** - देवरिगॆ दीपवन्नु हत्तिसुव कैङ्कर्य, **आदि** इवे मॊदलाद इल्लि पददिन्द चामरवन्नु हाकुवदु, बीसणिगॆयिन्द बीसुवदु तॆङ्गिनकायि बाळॆहण्णु मॊदलादवुगळन्नु समर्पिसुवदु. अभिषेक उत्सव मॊदलादवुगळू हेळल्पट्टवु; **विशेष-कैङ्कर्यङ्गळुम्** - प्रपन्ननु मुख्यवागि माडतक्कद्दॆन्दु नीवु विशेषिसि हेळिरुव अनुज्ञा-कैङ्कर्यगळन्नू **अनुष्ठिक्कवॊण्णामैयाले** - अनुष्ठिसबेकागिल्लवादुदरिन्द **अवै ऎल्लाम्** - अवुगळॆल्लवू, **औपाधिकङ्गळाय्** - व्याज-मूलक उण्टादवुगळादुदरिन्द, **त्याज्यङ्गळाम्** - बिडतक्कवुगळॆन्दु आगुत्तवॆ.
+
+[[P212]]
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इदु निमगॆ इष्टविल्लवादुदु ऎम्ब भाववु. याव कारणदिन्द नित्य-नैमित्तिक-रूप आज्ञा-कैङ्कर्यगळे बेकिल्लवॆन्दू त्याज्यगळॆन्दू हेळुत्तीरो आ कारणदिन्दले ई माला-करणादि अनुज्ञा-कैङ्कर्यगळू त्याज्यगळे ऎन्दु एर्पडुत्तदॆ. इदु निम्म अभिप्रायक्कॆ बाधकवॆम्ब भाववु. ई अनुज्ञा-कैङ्कर्यगळु मात्र अवश्यकवागि माडतक्कवॆन्दरॆ, ई अनुज्ञा-कैङ्कर्यगळन्नॆसगलु बेकाद पारशुद्ध्यवन्नु उण्टुमाडुव आज्ञा-कैङ्कर्यगळू सह अवश्यकवागि अनुष्ठेयगळे ऎन्दु मुन्दिन वाक्यदिन्द तिळिसुत्तारॆ -
+
+</details>
 
 ### योग्यतापादनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11267,6 +14812,42 @@ la pureza externa (āchāra) y los ritos purificatorios (samskāras) que **calif
 मालाकरण दीपारोपण पुष्पादिसमर्पणङ्गळ् भगवत्कैङ्कर्यङ्गळाग प्रत्यक्षसिद्धङ्गळागैयाल् अवैगळै विडमुडियादॆऩ्ऱाल् अवैगळैप् पण्णुवदऱ्कुम् योग्यतापादकमाऩ शौच सन्ध्यावन्दनादिगळैयुम् विडमुडियादॆऩ्गिऱार् अवैयनुष्ठिक्कवासैप्पडिलिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अवै अनुष्ठिक्क आशैपडिल्** - अवुगळन्नु अनुष्ठिसबेकॆन्दु आशॆपट्टरॆ, **अवत्तुक्कु योग्यतापादकङ्गळान** - अन्तह अनुज्ञा-कैङ्कर्यगळिगॆ योग्यतॆयन्नुण्टुमाडुव, **शौचाचार-संस्कारादिगळैयुम्** - स्नान-सन्ध्या-वन्दनादिगळ अनुष्ठान मत्तु संस्कार मॊदलादवुगळन्नू, **विडवॊण्णादु** - बिडुवदु न्यायवल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+संस्कारदिन्द द्वादशोर्ध्व-पुण्ड्र-धारणवू, आदि-पददिन्द मन्त्रोपदेश, प्रपन्ननागलु बेकाद संस्कारादिगळाद आचार्य उक्ति-निष्ठॆगळु मॊदलादवॆल्ला हेळल्पट्टवु. अथवा संस्कार-शब्ददिन्दलू नित्य-नैमित्तिकगळ अनुष्ठानवे हेळल्पट्टितॆन्दू भाविसबहुदु. एकॆन्दरॆ 
+
+> सन्ध्वा-हीनो ऽशुचिर् नित्यम् अनर्हस् सर्व-कर्मसु 
+
+ऎन्दु हेळिरुवदरिन्द नित्य-नैमित्तिक-रूप आज्ञा-कै‌ङ्कर्यगळन्नॆसगद संस्कारविल्लदवनु, भगवद्-आराधनॆ, कैङ्कर्य मॊदलादवुगळिगू अनर्हनॆन्दु हेळल्पट्टिरुत्तदॆ. आदुदरिन्द आज्ञा-कैङ्कर्यगळन्नु त्यागमाडि अनुज्ञा-कैङ्कर्यगळन्नु मात्र माडुवॆनॆन्दु प्रपन्ननु यत्निसुवदु न्यायवे अल्लवु. आग आतनु अ-पवित्रनादुदरिन्द ई अनुज्ञा-कैङ्कर्यगळिगॆ बेकाद संस्कारवे अधिकारवे, इल्लवॆन्दु हेळिदन्तायितु. आ कारणदिन्दले **आवत्तुक्कु योग्यतापादकङ्गळ्**, ई नित्य-नैमित्तिकगळाद आज्ञा-कैङ्कर्यगळु अवुगळिगॆ योग्यतॆयन्नुण्टुमाडुवुवु ऎन्दु हेळल्पट्टवु. शौचवॆन्दरॆ अन्तर्-बहि पारिशुद्ध्यवु. 
+
+[[P213]]
+
+बहिर्-शौचवु स्नान, मडि बट्टॆय धारणॆ, वरुण-मन्त्र-पठण, आपो हि ष्ठादि-मन्त्र-स्नानादिगळिन्दुण्टागुत्तदॆ अन्तर्-शौचवु सूर्यश् चादि-मन्त्र-पठण-मूलक पवित्रीकरिसल्पट्ट तीर्थापोशन, गायत्री-जप मॊदलादवुगळिन्दुण्टागुत्तदॆ. आचारवॆन्दरॆ शास्त्र-विहित-रीतियल्लि तन्न वर्णाश्रम-धर्मगळन्नु सत्-सम्प्रदायानुसारवागि नडॆसोणवु. इन्तह शौचाचार-संस्कारादिगळन्नु हॊन्ददिरुववनु याव कार्यक्कू अनर्हनॆन्दू, अन्तवनु माडिद भगवद्-भागवत-कैङ्कर्यगळिन्द भगवन्तनु प्रीतनागनु ऎन्दु हेळल्पट्टितु. अन्तवनु माडिद कैङ्कर्यवॆल्ला नीरिनल्लि होममाडिद हागॆ निरर्थकवॆन्दु हेळल्पट्टितु. ई सन्दर्भदल्लि 
+
+> एवं विलङ्घयन् मर्त्यो मर्यादां वेद-निर्मिताम् ।  
+प्रियो हि न प्रियो मे ऽसौ मद्-आज्ञा-व्यतिवर्तनात् ॥ 
+
+ऎम्ब प्रमाणवु अनुसन्धेयवु. १४६१ नॆय पुटवन्नु नोडि. हागॆये 
+
+> वर्णाश्रमाचारवता पुरुषेण परः पुमान् ।  
+विष्णुर् आराध्यते पन्था नान्यस् तत्-तोष-कारकः ॥ 
+
+ऎम्बुदू अनुसन्धेयवु. 
+
+</details>
+
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हिन्दॆ नित्य-नैमित्तिक-रूप आज्ञा-कैङ्कर्यगळु अवश्यकगळागि कर्तव्यगळु बिडतक्कवुगळल्लवॆन्दु उपपादिसल्पट्ट अर्थगळन्नॆल्ला मुन्दॆ १५ कारिकॆगळ मूलक स्थापिसुत्तारॆ. इवुगळल्लि मॊदलिन कारिकॆयु प्रभाव-व्यवस्थाधिकारदल्लि अनुग्रहिसल्पट्टिद्दरू प्रकरणक्कॆ आवश्यकवागि मुख्यवादुदरिन्द अदन्ने पुनः इल्लयू उपदेशिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11289,6 +14870,11 @@ la pureza externa (āchāra) y los ritos purificatorios (samskāras) que **calif
 उक्तमाऩ अर्थङ्गळै शिष्यबुद्धिसौकर्यार्थमाग कारिकैकळाले सङ्ग्रहित्तुक्काट्टुगिऱार् आऩ पिऩ्बु इति । वर्णाश्रमधर्मम् अवश्यानुष्ठेयमॆऩ्ऱु मुडिन्दबिऩ्बु ऎऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**आनपिन्बु** - हीगाद नन्तर ऎन्दरॆ नित्य-नैमित्तिकगळाद वर्णाश्रम-धर्मगळन्नु अनुष्ठिसिये तीरबेकॆन्दाद नन्तर, नम्म उपदेशवेनॆन्दरॆ तिळिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11330,8 +14916,6 @@ de acuerdo con la capacidad de cada uno
 y sin ningún otro fin o finalidad.
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 आहारग्रह(गृह)मन्त्रार्थजात्यादि नियमैर्युतः ।  
@@ -11343,6 +14927,33 @@ y sin ningún otro fin o finalidad.
 आहारेत्यादि । आहारनियममावदु:- जात्याश्रयनिमित्तादुष्टान्नत्तैये भुजिक्कै। गृहनियममावदु:- वासस्थाननियमम्। अदावदु - भागवतोत्तरदेशत्तिलेये वसिक्कै। अथवा गृहनियमः – सदाचार्यसकाशदेव ज्ञानम् सम्पादनीयमिति नियमः । मन्त्रनियममावदु:- भगवन्मन्त्रङ्गळुम् तत्सम्बन्धिसुदर्शनादिमन्त्रङ्गळुमे जप्यङ्गळॆऩ्गिऱ नियमम्। अर्थनियममावदु:- आपत्तिलुम् कुलटाषण्डपतितद्रव्यङ्गळै ग्रहिप् पदिल्लै ऎऩ्गिऱ नियमम्। जातिनियममावदु:- जात्यन्तराचारपरिग्रहमिऩ्ऱिक्के तन्दम् जादिक्कु अनुगुणमाऩ आचारत्तैये परिग्रहिक्कै। आदिशब्दत्ताले आश्रमादिगळुक्कु ग्रहणम्। लक्ष्मीशकैङ्कर्यमिति । इदऩाल् लक्ष्मीविशिष्टऩे कैङ्कर्यप्रतिसम्बन्धि, वेऱॊरुवऩऩ्ऱु ऎऩ्ऱु सॊल्लप्पट्टदु। शक्त्या – यथाशक्ति 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+इदर अर्थक्कॆ हिन्दॆ २७६९ रिन्द ७१ नॆय पुटगळन्नु नोडि. अल्लि **ग्रह-नियमः** ऎम्बुदक्कॆ अर्थवन्नु बरॆदॆवु. पाठान्तरवाद **गृह-नियमक्कॆ** अर्थवेनॆन्दरॆ पतितरे नास्तिकरे मॊदलादवरु इरुव मनॆयु कूडदु, सत्-सङ्गविरुव गृहवु उत्तमवॆम्ब नियमवॆन्दु इट्टुकॊळ्ळतक्कद्दु. हीगॆ तानु नित्यवू माडुव आज्ञानुज्ञा--सर्व-कर्मगळन्नू अनुष्ठिसि लक्ष्मी-नारायणरल्लि समर्पिसतक्कद्दॆम्ब भाववु. 
+
+[[P214]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+लक्ष्मियु यावागलू पतियॊन्दिगेनॆ नित्य-योगवन्नु हॊन्दिरुवदरिन्दले अवरिब्बरल्लू त्यागवन्नु हेळि समर्पिसतक्कद्दॆम्ब भाववु. ई नित्य-योगवन्नु मनस्सिनल्लिट्टे हिन्दॆये निगमान्त-गुरुगळु 
+
+> श्रीमान्-नारायणो नः अखिल-तनुर् मुक्ति-दो मुक्त-भोग्यः
+
+ऎन्दु पर-तत्त्व-निर्णयवन्नु माडिरुत्तारॆ. आदुदरिन्दले इल्लि **लक्ष्मीश-कैङ्कर्यम्** ऎन्दु प्रयोगिसि अदक्कॆ इब्बरू उद्देश्यरॆन्दु उपदेशिसिरुत्तारॆ. 
+
+> मयि सर्वाणि कर्माणि संन्यस्याध्यात्म-तेजसा (गी. ३-३०) 
+
+रल्लि **मयि** ऎन्दु हेळल्पट्टिद्दरू, **मयि** ऎम्बुदक्कॆ लक्ष्मीशे ऎम्बुदे अर्थवु. इल्लि **अनन्य-प्रयोजनः** ऎम्बुदक्कॆ परमात्मन प्रीति-सम्पादनवल्लदे बेरॆ याव प्रयोजनविल्लवॆन्दु हेळिदुदरिन्द ऐहिकादि-प्रयोजनवू, अन्य-देवतादि-प्रीणन-प्रयोजनादिगळु व्यावर्तिसल्पट्टवु. अनन्य-प्रयोजनवॆन्दु हेळिरुवदरिन्द नीरन्नु बडियुवदर हागॆ याव प्रयोजनवू इल्लदॆ ऎम्बर्थवल्लवु. भगवत्-प्रीतियन्नुण्टुमाडुवदे प्रयोजनवॆम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+हीगॆ श्रुति-स्मृत्य्-आदिगळल्लि विधिसल्पट्ट आचारगळाद नित्य-नैमित्तिकगळु प्रमाण-शरणराद प्रपन्नरिगू अवश्यकवागि अनुष्ठेयगळॆन्दू, हागॆ अनुष्ठिसदिद्दरॆ पूर्वाचार्यर सम्प्रदायक्कॆ विरोधवागुवदल्लदे भगवन्-निग्रहक्कॆ गुरियागुवरॆन्दू हेळि, मुन्दॆ अन्तह कैङ्कर्यगळन्नॆसगुवदु प्रपन्ननिगॆ स्व-रूपवॆन्दु मुन्दिन ऎरडु कारिकॆगळ मूलक दृष्टान्त-मूलक अन्वय-व्यतिरेक-रीत्या समर्थिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11372,8 +14983,6 @@ De la misma manera que una esposa casta **cuida** su auspicioso hilo, ropa y cos
 el prapanna debe **preservar** el camino y la manera **prescritos** en los Śāstras para el **servicio** del Señor.
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 मङ्गल्यसूत्रवस्त्रादीन् संरक्षति यथा वधूः ।  
@@ -11385,6 +14994,37 @@ el prapanna debe **preservar** el camino y la manera **prescritos** en los Śās
 शेषियाऩ भगवाऩुडैय कैङ्कर्यमाऩ स्ववर्णाश्रमधर्मानुष्ठानम् प्रतिव्रतैक्कु मङ्गळसूत्रवस्त्रादिरक्षणम्बोले प्रपन्नऩुक्कुमवश्यकर्तव्यमॆऩ्गिऱार् मङ्गळ्यसूत्रेति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**वधूः** - मदुवॆयाद हॆण्डतियु, **मङ्गल्य-सूत्र-वस्त्रादीन्** - विवाह-कालदल्लि कॊट्ट माङ्गल्यवन्नू अदु कट्टिरुव सूत्रवन्नू आग कॊट्ट शीरॆ, कुप्पस आदि-शब्ददिन्द आभरण-कालुङ्गर मॊदलादवुगळन्नू, **यथा संरक्षति** - पतिय प्रीतियन्नु कापाडिकॊळ्ळुवदक्कागि हेगॆ धरिसिरुवळो, **तथा** - हागॆये, **प्रपन्नः** - नूतन-विवाह-स्त्री-स्थानीयनागि महा-पवित्रतॆय हागॆ पति-पारार्थ्यवुळ्ळ ई प्रपन्ननू, **शास्त्रीय-पति-कैङ्कर्य-पद्धतिम्** - शास्त्रगळल्लि विहितगळाद तनगॆ पति ऎन्दरॆ स्वामियाद, अथवा **"पतिं विश्वस्य"** ऎम्बल्लि हेळिरुव हागॆ सर्व-शेषियाद, अथवा पति-व्रता-धर्मद हागॆ धर्मगळुळ्ळ तनगॆ पति-स्थानीयनाद भगवन्तन, **कैङ्कर्य-पद्धतिम्** - कैङ्कर्य माडुव मर्यादॆयन्नु, रीतियन्नु, **संरक्षति** - रक्षिसिकॊळ्ळुवनु. 
+
+[[P215]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+वधू कालदल्लि पतियु दयपालिसिद आभरणादिगळु अनर्घवादवुगळु. साध्वियु अदन्नु बहळ आदरदिन्द कापाडिकॊळ्ळुवळु ऎम्ब भाववु. श्री-राम-चन्द्र-प्रभुवे विवाह-कालदल्लि तम्म मावनाद जनक-महा-राजनिन्द सीतॆगॆ कॊट्ट आभरणवन्नु कुरितु श्लाघिसिरुवाग इन्नु साध्वियादवळु तन्न गण्डन मनॆयल्लि कॊट्ट आभरणवन्नु अमोघवागि भाविसुवळॆम्बुदु कैमुतिक-न्याय-सिद्धवु. सीतॆयु आञ्जनेयन मूलक कळुहिसिकॊट्ट मणि-रत्नवन्नु कण्डु, श्री-राम-प्रभुवु 
+
+> हृदये कृत्वा प्ररुरोद स-लक्ष्मणः 
+
+ऎन्दु बहळवागि शोकिसिदवरागि हेळुत्तारेनॆन्दरॆ - 
+
+> मणि-रत्नम् इदं दत्तं वैदेह्याश् श्वशुरेण मे ।  
+वधू-काले यथा-बद्धम् अधिकं मूर्ध्नि शोभते ॥ 
+
+ऎम्बदागि
+प्रपन्ननन्नु श्री-निगमान्तरवरु 
+
+> शुद्धानान् तु लभेमहि स्थिर-धियां शुद्धान्त-सिद्धान्तिनाम्  
+
+(१४१३नॆय पुट) ऎम्बल्लि अन्तः-पुर-स्त्रीय हागॆ सिद्धान्तवुळ्ळवळॆन्दु पति-पारार्थ्यवुळ्ळवरादुदरिन्द हेळिरुत्तारॆ. (पुरुषार्थ-काष्ठाधिकारद १४२ नॆय पुटवन्नु नोडि.) 
+
+हिन्दॆ मङ्गळ-सूत्रादिगळन्नु आदरदिन्द रक्षिसिदरॆ पतियु प्रीतनागुव हागॆ, प्रपन्ननिगॆ स्व-रूप-दायकवाद भगवन्तन आज्ञानुज्ञा-कैङ्कर्यगळन्नॆसगिदरॆ प्रीतनागुवनॆन्दु हेळिदरु. ईग हागॆ कैङ्कर्यगळन्नु ऎसगदिद्दरॆ, पतियु माङ्गल्यादिगळन्नु त्याग माडिद पत्नियन्नु हेगॆ शिक्षिसि, हागू हेगॆ रक्षिसुवनो, अदे रीतियल्ले लोक-पतियू आज्ञा-कैङ्कर्यगळन्नु त्यागमाडिदुदरिन्द शिक्षिसि, प्रपन्ननादुदरिन्द रक्षिसुवनॆन्दु हेळुत्तारॆ. 
+
+[[P216]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11432,6 +15072,22 @@ Así también **lo hará** el Señor (su devoto por **renunciar** o **realizar**
 पतिमतियाऩ ऒरु स्त्री मङ्गळ्यसूत्रवस्त्रादिगळै त्यजित्ताल् भर्तावाऩवऩ् अवळै भोगङ्गळिऩिऩ्ऱुम् निरोधम् पण्णियुम्, ऒरु स्त्री मङ्गळ्य सूत्रवस्त्रादिगळै नऩ्ऱाग रक्षिप्पाळागिलवळै भर्तावाऩवऩ् विशेषभोगप्रदानम्बण्णियुम् ऎप्पडि रक्षिप्पऩो अप्पडिये भगवाऩ् प्रपन्नऩाऩ नम्मै वर्णाश्रमधर्मङ्गळै विट्टाल् भोगङ्गळै निरोधित्तुम् अवैगळै अनुष्ठित्ताल् भोगङ्गळै वृद्धिपण्णियुम् रक्षिप्पाऩॆऩ्गिऱार् यद्वन्मङ्गळ्यसूत्रादेरिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**मङ्गल-सूत्रादेः** - माङ्गल्यसूत्र१ मॊदलादवुगळ, **त्यागे** - बिडोणदरल्लि ऎन्दरॆ बिट्टरॆ ऎम्बर्थवु, **भोगै** - भोगगळिन्द, **पतिः निरुन्ध्यात्** - पतियु तप्पिसि बिडुवनु; आदरॆ आकॆयन्नु बिडुवदिल्लवु. **संरक्षणे ऽपि वा** - संरक्षणॆयल्लू कूड, **रक्षेद् वा** - रक्षिसुवनो, हागॆये **इहापि** - ई प्रपन्नर सन्दर्भदल्लू, भगवन्तनु, **नः** - नम्मगळन्नु त्यागमाडिदरॆ शिक्षिसि रक्षिसुवनु; त्यागमाडदिद्दरॆ शिक्षॆ इल्लदॆ रक्षिसुवनु.
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हिन्दॆ **जात्य्-आदि-नियमैः** कैङ्कर्यगळन्नु माडबेकॆन्दु उपदेशिसिदुदु सरियो ? एकॆन्दरॆ, 
+
+> यश् शूद्रं भगवद्-भक्तं निषादं त्वपञ्चन् तथा ।  
+वीक्षते जाति-सामान्यात् स याति नरकं नर ॥ 
+
+ऎम्बल्लि जाति-सामान्यदिन्द भगवद्-भक्तरन्नु काणकूडदॆन्दु हेळिदॆयल्ला ? ऎन्दरॆ हागॆ जाति-सामान्यदिन्द काणुवदु नरक-हेतुवे निश्चयवु. आदरॆ जाति-व्यवस्थॆयु एतक्कॆ ? ऎन्दरॆ शास्त्र-व्यवस्थॆगागि मात्रवे जातियु हेळल्पट्टिरुवुदु. आदुदरिन्द **जात्य्-आदि-नियमैः** ऎन्दु हेळिदॆवु. दूषणॆगागियल्लवु. दूषणवेनो नारकीयवे ऎम्ब भावदिन्द हेळुत्तारॆ.- 
+
+</details>
 
 ### जाति-नियमाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11484,6 +15140,23 @@ no **hay ningún daño** en ello en ninguna parte.
 इप्पडि जात्यादि नियमङ्गळोडे कैङ्कर्यम् पण्णवेण्डुमॆऩ्ऱाल् इतरजातिकळैयुम् निरूपिक्कुम्बडि नेरादो? अप्पोदु शूद्रादिभागवतर्गळैयुम् शूद्रजातित्वेन निरूपिक्कवेण्डिवरुमागैयाल् ‘‘यश्शूद्रं भगवद्भक्तं निषादं श्वपचन्तथा । वीक्षते जातिसामान्यात्स याति नरकन्नरः’’ ऎऩ्गिऱ श्लोकत्तिल् सॊऩ्ऩ प्रत्यवायम् वारादो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् अवज्ञार्थमनर्थायेति । भक्तजन्मादिगळुडैयचिन्तनमाऩदु अवज्ञार्थमागच् चॆय्यप्पट्टाल् नरकाद्यनर्थावहमागुम्। अन्द भक्तजन्मादिचिन्तनमाऩदु शास्त्रव्यवस्थार्थमागच् चॆय्यप्पट्टाल् ओरिडत्तिलुम् दोषावहमागादॆऩ्गै। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अवज्ञार्थं**  - अवमानमाडुवदक्कागि, **भक्त-जन्मादि-चिन्तनम्** - भक्तरुगळाद विदुरादिगळ कीळु जन्मवन्नु मनस्सिगॆ तन्दुकॊळ्ळोणवु. **अनर्थाय** - मेलिन प्रमाणदल्लि हेळिरुव हागॆ नरक-प्राप्ति मॊदलाद शिक्षॆगळिगॆ गुरिपडिसुवदक्कागि, **भवति** - ऎन्दु क्रिया-पदवन्नु इट्टुकॊळ्ळबहुदु. **शास्त्र-व्यवस्था-मात्रार्थं** - शास्त्रदल्लि हेळिरुव अनुष्ठान-क्रमद व्यवस्थॆयन्नु तिळियुवदक्कॆ मात्रवाद, **तत्** - अन्तह व्यवस्था-क्रमवु, **क्वचित्** - याव सन्दर्भदल्लू, **न दूष्यति** - दूषिसल्पट्टिल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+शास्त्र-व्यवस्थॆ माडि केळुवदक्कागि अवरुगळ जन्मवु यावुदॆन्दु इतिहासगळल्लि हेळल्पट्टिवॆये विना, अन्तह महानुभावरुगळन्नु निकृष्टतॆयिन्द भाविसतक्कद्दॆम्ब भावदिन्द अल्लि हेळल्पडलिल्लवॆम्ब भाववु. इवरुगळु महा-प्राज्ञरादरू तम्म जन्मगळिगॆ विहितगळाद कर्मानुष्ठानवन्ने माडि स्वामि-कृपॆयन्नु हॊन्दिदवरादरॆन्दु हेळुवदक्कागिये अवरुगळ कीळु जन्मवु इतिहासगळल्लि प्रोक्तवॆम्ब भाववु. ई आभिप्रायवन्ने दृष्टान्तगळन्नु कॊट्टु मुन्दिन कारिकॆयल्लि उपपादिसुत्तारॆ.
+
+[[P217]]
+
+**शास्त्र-व्यवस्था-मात्रम्** - शास्त्रदल्लि हेळिरुव व्यवस्थॆयन्नु तिळियुवदक्कॆ मात्रवे आदपक्षदल्लि ऎन्दरॆ याव वर्णदवरिगू याव आश्रमिगळिगू नियतवाद अनुष्ठानगळु ऎम्बुदन्नु तिळियुवुदक्कागि मात्रवे; आदरॆ, **तत्** - अन्तह जात्य्-आदि-निरूपणॆयू, **क्वचित्** - ऎल्लियू, **न दुष्यति** - दोष-युक्तवागुवदिल्लवु. ब्राह्मणन विहित-कर्मगळु यावुवु ? क्षत्रिय-वैश्यादिगळिगॆ सेरिदवु याववु ? अवरुगळिगॆ याव यावुदरल्लि अधिकारवु ? शूद्रनिगॆ वेद-पाठवन्नु हेळबहुदे ? अवरुगळिगॆ मन्त्रगळ उपदेश हेगॆ ? ब्राह्मणनु, इतर-शूद्रादिगळु प्रपन्नरादुदरिन्द अवरिगॆ नमस्करिसबहुदे ? सह-पङ्ति-भोजनक्कॆ योग्यरे ? इत्य्-आदिगळ व्यवस्थॆयागि, जात्य्-आदिगळ प्रश्नॆ मॊदलादवु दोषावहवल्लवॆम्ब तात्पर्यवु. हागल्लदॆ अन्तवरु कीळु जातिगॆ सेरिदवरॆन्दु तुच्छवागि काणुवदक्कागि जात्य्-आदिगळ निरूपणॆयु तुम्बा दोषावहवॆम्ब भाववु. अन्तवरन्नू भागवतरॆन्दे भाविसबेकॆम्ब भाववु. 
+
+अनुष्ठान-व्यवस्थॆगागि जात्य्-आदि-निरूपणवु दोषावहवल्लवॆन्दु अभिप्रायपट्टरल्ला; अदन्नु समर्थिसबल्लिरा ? ऎन्दरॆ अन्तह समर्थनॆगागि मुन्दिन कारिकॆयन्नु अनुग्रहिसि शास्त्र-कारराद महर्षिगळे अन्तह जात्य्-आदि-व्यवस्थॆयन्नु माडिरुत्तारॆन्दु अत एव हि ऎन्दारम्भिसि हेळुत्तारॆ. ॥ १२५ ॥ 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11525,6 +15198,85 @@ Esa **ES** la razón por la cual, en los śāstras, Dharmavyadha Tuladhara, Saba
 अत एव हीति । आगैयालिऱे इतिहासकर्ताक्कळाऩ ऋषिकळुम् ब्रह्मवित्तुक्कळाऩ धर्मव्याधादिगळै धर्मव्याधऩॆऩ्ऱु व्याधत्वेनवुम्, तुलाधारऩॆऩ्ऱु वैश्यत्वेनवुम्, शबरी ऎऩ्ऱु निषादित्वेनवुम्, विदुररॆऩ्ऱु क्षत्त्रत्वेनवुम्, व्यपदेशित्तार्गळॆऩ्गै। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अर्थ - अत एव हि** - आ कारणदिन्दले ऎन्दरॆ अवमानक्कागि अल्लदॆ अनुष्ठान-क्रम-व्यवस्थॆगागि जात्य्-आदि-निरूपणवु आवश्यकवादुदरिन्दले, धर्म-व्याधरु, तुला-धाररु, शबरियु, विदुरादयः विदुररे मॊदलादवरु, आदि-शब्ददिन्द गुह, विभीषण, सुग्रीवादिगळु हेळल्पट्टरु. **तत्-तज्-जात्यैव दर्शिताः** - अवरवरुगळ जातिगळन्नु तावे प्रकटिसिरुत्तारॆ: ऎन्दर अवरवरुगळ जात्य्-अनुसारवागि अवरुगळ अनुष्ठान-प्रवृत्तिगळन्नु प्रदर्शिसिरुत्तारॆम्ब भाववु. 
+
+[[P218]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+धर्म-व्याधर वृत्तान्तक्कू शबरि-वृत्तान्तक्कू १८६३-६४ मत्तु २५५७ नॆय पुटगळन्नु नोडि. १८६४ नॆय पुटदल्लि ऒन्दु तप्पु वाक्यवुण्टु. अदु यावुदॆन्दरॆ 
+
+> विदुरनु शूद्रनागिद्दरू हेगॆ उपासनाधिकारियादनो, हागॆये शबरियु स्त्रीयागिद्दरू उपासकळु 
+
+ऎम्ब वाक्यवु तप्पु. इदन्नु तॆगॆदुहाकतक्कद्दागिरुत्तदॆ. ऒब्ब पण्डितराद दासन मित्ररु श्री-निगमान्त-देशिकर अभिप्रायद प्रकार इवरुगळु विशेषाधिकारिगळादुदरिन्द शास्त्रातिक्रमण-दोषवु इवरिगिरुवदिल्लवॆन्दु तिळिसिदुदरिन्द हागॆ बरॆदॆनु. अदु सरियल्लवॆन्दु ईग ई कारिकॆगळिन्द तोरुत्तवॆ. 
+
+> धर्म-व्याधादयो ऽप्य् अन्ये पूर्वाभ्यासाज् जुगुप्सिते ।  
+वर्णावरत्वे सम्प्राप्तास् संसिद्धिं श्रमणी यथा ॥
+
+ऎम्ब विष्णु-धर्म-श्लोकक्कॆ माडिरुव तप्पाद अर्थवे इदक्कॆ कारणवु. अवर अर्थवेनॆन्दरॆ **पूर्वाभ्यासात्** ऎन्दिरुवदरिन्द हिन्दिन उपासनद अभ्यासविद्दुदरिन्द, ईगलू अदन्ननुसरिसि उपासनॆयन्नु माडिदरॆन्दु अर्थमाडिदरु. इदर सरियाद अर्थवेनॆन्दरॆ ! ई वाक्यवु ऒन्दु अनुमान-प्रमाण-वाक्यद हागॆ इदॆ; **धर्म-व्याधादयः संसिद्धिं सम्प्राप्ताः** ऎम्बुदु प्रतिज्ञा-वाक्यवु. इदक्कॆ हेतुवु **पूर्वाभ्यासात्** ऎन्दू, दृष्टान्तवु **श्रमणी यथा** ऎन्दू, इरुत्तदॆ. अभ्यासवॆन्दरॆ अवर अर्थवल्लवु. श्री-यति-वर्यरु श्री-भाष्यदल्लि, साधन-सप्तकगळन्नु विवरिसुव सन्दर्भदल्लि 
+
+> आरम्भणं संशीलनं पुनः पुनर् अभ्यास इति 
+
+ऎन्दु अप्पणॆ कॊडिसिरुत्तारॆ. ऒन्दु शुभाश्रयवॆनिसुव दिव्य-मङ्गळ-विग्रहद पुनः पुनः स्मृत्य्-अभ्यासवे अभ्यासवॆनिसुत्तवॆ. सर्व-वाक्यवू सावधारणवॆम्ब हेळिकॆय प्रकार **पूर्वाभ्यासात्** ऎम्बुदु हेतुवादुदरिन्द **पूर्वाभ्यासाद् एव** ऎम्बर्थवागुत्तदॆ. हिन्दिन जन्मदल्लि माडिद उपासनॆयिन्दले, संसिद्धियन्नु हॊन्दिदरु. हेगॆ ? ऎन्दरॆ दृष्टान्तवु **श्रमणी यथा** शबरिय हागॆ. शबरियु स्त्रीयादुदरिन्दलू, नीच-जन्मवाद शबरत्ववु इद्दुदरिन्दलू हेगॆ मतङ्गऋषियन्नाश्रयिसिद ब्राह्मण-संश्रयणदिन्द मोक्षवन्नु हॊन्दिदळो हागॆ. ईकॆयु हीगॆ उपासनक्कॆ अनर्हळादुदरिन्द शास्त्र-मर्यादॆयन्नु हेगॆ अतिक्रमिसलिल्लवो, हागॆ धर्म-व्याधरू तुला-धाररू विदुररू सह हीन-जातियवरॆन्दे शास्त्रदल्लि हेळल्पट्टिरुवदरिन्द आवरुगळू कूड शास्त्रातिक्रमणवन्नु माडलिल्लवु. इदु विदुरर प्रवृत्तियल्लि सु-व्यक्तवु. ई धर्म-व्याधरू, तुला-धाररू विदुररू मूवरू तमगिन्त उत्कृष्ट-जातियवरिगॆ धर्मवन्नु बोधिसिरुत्तारॆ. मॊदलिनवरिब्बरु बाह्मणरिगू, मूरनॆयवरु क्षत्रियनाद धृत-राष्ट्रनिगू उपदेशवन्नु माडिरुत्तारॆ. 
+
+[[P219]]
+
+इदरल्लि शास्त्रातिक्रमणवेनू इल्लवु. आ ब्राह्मणरू धृत-राष्ट्रनू तमगॆ उपदेशिसिदवरिगॆ प्रणामादिगळन्नु माडि शास्त्रातिक्रमणवन्नु माडिदरॆन्दु ऎल्लि इतिहासगळल्लि हेळिदॆ ? अवरुगळु प्राज्ञरॆन्दु साधारण-मर्यादॆयन्नु तोरिसिदरॆन्दु हेळल्पट्टिरुत्तदॆ. विदुररिन्द धृत-राष्ट्रनु धर्मोपदेशवन्नॆल्ला केळिद नन्तर, सनत्सुजातरु **मृत्युर् नास्तीति"** ऎन्दु उपदेशिसुत्तारॆ. ऎन्दरॆ संसार-नाशक--ब्रह्म-विद्यॆयन्नु उपदेशिसुत्तारॆ. अदू तिळियतक्कद्दागिरुत्तदॆ ऎन्दु विदुररु हेळलु अदन्नु नीने हेळु ऎन्दु धृत-राष्ट्रनु केळलु; अदक्कॆ विदुररु 
+
+> शूद्र-योनाव् अहञ् जातः नातो ऽन्यद् वक्तुम् उत्सहे 
+
+ऎन्दु तनगॆ उपदेशिसुव अधिकारविल्लवॆन्दू, ब्रह्म-विद्यॆयॆन्दु हेळलू कूड योग्यतॆ इल्लवॆन्दु "अन्यत्" ऎम्ब शब्द-प्रयोगमाडिद महनीयरु तावे शास्त्रातिक्रमणवन्नु माडि तनगॆ अधिकारविल्लद उपासनवन्नु माडियारे ? भारतदल्लि ऎल्लू श्री-विदुररु उपासनवन्नु माडिदरॆम्ब हेळिकॆ इल्लवु. आदुदरिन्द विदुररु विशेषाधिकारियु, शूद्ररादरू उपासनवन्नु माडि मोक्षवन्नु हॊन्दिदरु ऎन्दु कॆलवु पण्डितरु हेळुवदु मत्तु हेळिरुवदु शास्त्र-विरुद्ध-विषयवु. आ हिन्दिन उपासनद संस्कार-बलदिन्द हीन-जन्मदवरिगॆ विहितवागिरुव भागवत-संश्रयण-रूपानुग्रहद मूलकवे मोक्षवन्नु हॊन्दिदरु. 
+
+इदु शबरिय विषयदल्लि व्यक्तवु. शबरत्व-रूप--नीच-जन्मदिन्दलू स्त्रीयादुदरिन्दलू उपासनक्कॆ अधिकारविल्लवु. मतङ्ग-ऋषियन्नु आश्रयिसि भागवत-संश्रयणद माहात्म्यॆयिन्द मुक्तियन्नु हॊन्दिदळु. श्री-रामनु नीनु यारु ऎन्दु केळिदुदक्कॆ **"अहन् तु परिचारिणी"** नानु मतङ्ग-ऋषिगॆ कैङ्कर्य माडिकॊण्डु इद्दवळु. अवरु होद स्थळक्के नानू होगबेकु ऎन्दु प्रार्थिसुत्ताळॆ. आदरॆ 
+
+> तत् पुण्यं शबरी-स्थानं जगामात्म-समाधिना 
+
+ऎन्दु (अरण्य ७४-३५) हेळिदॆयल्ला ऎन्दरॆ परमात्म-ध्यानवन्नु माडिकॊण्डु उत्तम-स्थानवन्नु हॊन्दिदळु ऎम्बर्थवु. इदर व्याख्यानदल्लि गोविन्द-राजीयदल्लि 
+
+> मतङ्ग-शिष्योपदिष्टा समाधिका शबरि 
+
+ऎन्दु हेळि 
+
+> स्त्रिया अपि विदुरादेर् इव योगाधिकारस् सम्भवति
+
+ऎन्दु हेळिरुत्तारॆ. इदु अ-शास्त्रीय-व्याख्यानवागि दासनिगॆ तोरुत्तदॆ. हीगॆ तन्न जातिगॆ विहितवाद अनुष्ठानद अतिलङ्घनवन्नु स्वामि-देशिकरवरे 
+
+> स्व-जात्य्-अनुगुणैवैषां वृत्तिर् अप्य् ऐतिहासिकी 
+
+[[P220]]
+
+ऎम्बल्लि मुन्दॆ निराकरिसिरुत्तारे. **"तस्माच् छास्त्रं प्रमाणन् ते** ऎन्दु उपदेशिसि, दुर्योधनन सभॆयल्लि शास्त्रविट्ट गॆरॆयन्नु ईषद् अपि तानू उल्लङ्घिसुवदिल्लवॆन्दू प्रतिज्ञॆयन्नु माडिद महा-प्रभुविन आज्ञॆगॆ विरोधवागि महा-प्राज्ञराद विदुररू, **"शबरीं धर्म-चारिणीं"** (बाल. १-५६) ऎन्दु हेळिसिकॊण्डु धर्मवन्नु तिळिद शबरियू, शास्त्रातिक्रमवन्नु ऎन्दिगादरू माडुवरे ? हागॆ उपासनवन्नु माडिदरु ऎन्दु हेळिदरॆ **"धर्मो विग्रहवान्"** ऎन्दु प्रसिद्धि हॊन्दिद श्री-राम-चन्द्र-प्रभुविगॆ वैषम्यवन्नु आरोपिसिदन्तागुत्तदॆ. उपासनॆयन्नु माडिद ई शबर-स्त्रीयु स्वामिगॆ मान्यळादळु. शूद्रनाद शम्बुकनु तापस-वेषदिन्द उपासनॆयन्नु माडिदुदक्कॆ, **"शिरश् चिच्छेद राघवः",** आतन तलॆयन्नु कत्तरिसिबिट्टनु. आदुदरिन्द शबरियू विदुररू विशेषाधिकारिगळादुदरिन्द, उपासनॆयन्नु माडिदरॆम्ब हेळिकॆयु सरियादुदल्लवु. शास्त्रातिक्रमण नडॆद ऒन्दॆरडु सन्दर्भगळाद युधिष्ठिरनु श्री-विदुररिगॆ ब्रह्म-मेध-संस्कार-रूप--प्रेत-कर्मवन्नु माडिदुदू, अवरुगळैवरु ऒब्ब कन्यॆयन्नु विवाह माडिकॊण्डिदुदू इन्तह सन्दर्भगळल्लि प्रबल-कारणवाद अ-शरीर-वाक्कुगळु नडॆदुदरिन्द अवुगळु युधिष्ठिररिगॆ उपादेयगळादवु. 
+
+तुला-धारर इतिहासक्कॆ भारतद मोक्ष-धर्म-पर्वद २६८ रिन्द नाल्कु सर्गगळन्नु पराम्बरिसबहुदु. इवर वृत्तान्तवन्नु सङ्ग्रहवागि हिन्दॆ २५५६ नॆय पुटदल्लि काणबहुदु. श्री-भीष्मरन्नु युधिष्ठिररु **"धर्म"**वॆम्ब शब्दद सरियाद अर्थवु मनस्सिगॆ बरलिल्लवु, दयमाडि हेळबॆकॆन्दु प्रश्निसुत्तारॆ. आग जाजलि ऎम्ब ब्राह्मणरु वाणिज्य-वृत्तियल्लिरुव तुला-धाररिन्द केळि तिळिद धर्म-शब्दार्थद इतिहासवन्नु बोधिसुत्तारॆ. आग श्री-व्यासरु ई इतिहासवन्नु हेळुवदक्कॆ मॊदले धर्मवु सदाचार-रूपवागियॊ, वेद-प्रतिपाद्यवागियू, ऋषि-प्रोक्तवाद स्मृति-सम्मतियुळ्ळद्दागियू, भगवद्-भागवत-कैङ्कर्यक्कॆ बेकाद न्याय-मार्गदल्लि द्रव्य-सम्पादकवागियू इरतक्कद्दॆन्दु हेळि, ई जाजलि-तुला-धार इतिहासवन्नु हेळुत्तारॆ. जाजलियु नीरिनल्लिद्दुकॊण्डु तपस्सन्नु माडुत्ता हॆम्मॆयिन्द ननगॆ धर्मवु यावुदॆम्बुदु ईग तिळियितॆन्दु कूगिदनु, अदन्नु केळि अल्लिन्द रक्षस्सुगळु निनगॆल्लि धर्मवु तिळियुवदु ? तुला-धाररॆन्दु ऒब्ब वणिक्कु वाराणसियल्लि इद्दारॆ. आतनिगीग धर्मवॆम्बुदु तिळियुवदु ऎन्दु पिशाचरौ हेळिदरु. 
+
+[[P221]]
+
+अनन्तर ई जाजालियु वान-प्रस्थरागि बहु-घोरवाद तपस्सन्नु माडिदरु. आग ऎरडु कुलिङ्ग-पक्षिगळु दाम्पत्य-भावदिन्द ई जाजालिय शिरस्सिनल्लि मॊट्टॆगळन्निट्टु मरिमाडिकॊण्डु सन्तोषदिन्दिद्दवु. आ कालदल्लॆल्ला कदलदे इद्दुकॊण्डु पक्षिगळिगॆ एनॊन्दू तॊन्दरॆ माडदे इद्दुदरिन्द तनगॆ धर्मवॆम्बुदु यावुदु ऎम्बुदु तिळियितॆन्दु भुजगळन्नु तट्टिदनु. आगलू नीनु काशियल्लिरुव तुला-धाररिन्द धर्मद भाववन्नु तिळियतक्कद्दिरुवाग निनगॆल्लि तिळियितु ऎन्दु आकाश-वाणियु आयितु. आग अवरल्लिगॆ होगि आग सामानुगळन्नु त्रासिनल्लि तूगि पदार्थगळन्नु विक्रयिसुत्तिद्द ई वैश्यरन्नु कण्डरु. आ तुला-धाररु ई बाह्मणनिगॆ प्रत्युत्थानादिगळन्नु माडि. **"स्वागतेनाज्यपूजयत्"** पूजिसिदरॆन्दु हेळल्पट्टिरुत्तदॆ. आग तुला-धाररु ब्राह्मणरन्नु कुरितु नीवु बन्द विषयवु विदितवायितु. ई नानु उपयोगिसुव त्रासु ननगॆ धर्मवन्नु तिळिसितु. 
+
+> तुला मे सर्व-भूतेषु समा तिष्ठति जाजले 
+
+ऎन्दू 
+
+> कृपा मे सर्व-भूतेषु समा तिष्ठति जाजले 
+
+ऎन्दू, हेळलु आरम्भिसि, धर्मवन्नॆल्ला तुला-धाररु जाजलिगॆ तिळिसुत्तारॆ. अवर उपदेशद सारांशवेनॆन्दरॆ, सदाचार, वेद, स्मृतिगळिगनुसारवागि -
+
+> यदा न कुरुते भावं सर्व-भूतेषु पापकम् ।  
+कर्मणा मनसा वाचा ब्रह्म सम्पद्यते तदा ॥ 
+
+हीगॆ नडॆदु हिंसा-त्याग-पूर्वकवागि तन्न शरीरक्कू क्लेशविल्लद हागॆ सदाचार, वेद, स्मृति-विहितवाद मार्गवे धर्मवॆम्बुदु. 
+
+आदुदरिन्द नीच-जन्म-प्राप्तवादरू, तनगॆ विहितवाद कर्मगळन्ननुष्ठिसि धर्म-प्रवृत्ति-मूलक यारिगू हिंसॆ माडदॆ इद्दुकॊण्डु स्वामिय अनुग्रहवन्नु हॊन्दबहुदु, इदरल्लि संशयविल्लवु. इदक्कागिये ई धर्म-व्याध, तुला-धार, विदुर, शबरि मॊदलादवरु तम्म तम्म विहित-वृत्तिगळिद्दरु ऎम्बुदन्नु तिळिसुवदक्कागिये इतिहासगळल्लि अवरुगळ अपकृष्ट-जन्मवु हेळल्पट्टिरुत्तदॆम्ब भाववु. अवरुगळु तमगॆ विहित-कर्मगळन्नु ऎन्दिगू अतिक्रमिसलिल्लवु. 
+
+हागॆ अवरवरुगळ आनुष्ठान-क्रम-व्यवस्थॆगागिये इतिहासगळल्लू अवरुगळ जातिगळ निरूपणॆयु ऎन्दु हिन्दॆ हेळिदरु. हागादरॆ अवरवरुगळ जात्य्-अनुगुणवागि शास्त्रगळल्लि हेळिरुव हागॆये अवरुगळ प्रवृत्तिये ? ऎन्दरॆ हौदु ऎन्दु पूर्वार्धदल्लि स्थापिसुत्तारॆ.
+
+[[P222]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11576,6 +15328,46 @@ porque una voz aérea **lo ordenó**.)
 इवर्गळुक्कु स्वजातिक्कु अनुगुणमाऩ वृत्तिये इतिहासङ्गळिल् सॊल्लप्पट्टदॆऩ्गिऱार् स्वजातीति । अवर्गळिडत्तिल् अशरीरवाक्यादिरूपविशेषविधियाले सिद्धमाऩ सिल विलक्षणाचारमिरुन्दाल् अदुवुम् अन्द विशेषविधिबलत्ताले अवर्गळुक्के नियतमागुम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**एषां** - ई धर्म-व्याध, तुला-धार, विदुर, शबरि मॊदलादवरुगळ, **ऐतिहासिकी** - इतिहासगळाद भारत-रामायणादिगळल्लि हेळिरुव **वृत्तिर् अपि** - अनुष्ठानवू कूड, **स्व-जात्य्-अनुगुणैव** - तम्म तम्म जातिगळिगॆ शास्त्रगळल्लि हेळिरुवदक्कॆ अनुगुणवागिये, अवरॆल्ला शास्त्रक्कॆ अनुगुणवागि नडॆदुकॊण्डरे विना शास्त्रातिक्रमणवन्नु ईषद् अपि माडिदवरल्लवु ऎन्दु हेळिदरु. 
+
+आगलि, कॆलवु सन्दर्भगळल्लि इतिहासगळल्लि शास्त्रातिक्रमणवू कूड, हेळिरुत्तॆ. युधिष्ठिररु शूद्रराद विदुररिगॆ देहावसानानन्तर ब्रह्म-मेध-संस्कारवन्नु माडोणवेनु, तम्म तम्मन्दिरॊन्दिगॆ शास्त्र-मर्यादॆयन्नु मीरि ऒब्ब कन्यॆयन्ने विवाह माडिकॊण्डिदुदेनु ? उपपादितवागिरुवुदु हेगॆ ? ऎन्दु आक्षेप बन्दीतॆन्दु भाविसि अदक्कॆ समाधानवन्नु उत्तरार्धदिन्द हेळुत्तारॆ. **विशेष-विधि-सिद्धन् तु** - विशेष-विधियाद आकाश-वाणिये मॊदलादवुगळिन्द सिद्धवाद शास्त्रातिक्रमणवागि तोरुवदादरॆ, **तद्-बलात्** - अन्तह आकाश-वाणिये मॊदलाद कारणद बलदिन्द, तत्र आ सन्दर्भदल्लि मात्र, **प्रयुज्यते** सम्बन्धिसुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अर्जुननु मीन-लक्ष्यवन्नु बेधिसि पडॆद द्रौपदियन्नु करॆदुकॊण्डु बन्दु तम्म तायियन्नु कुरितु ईवत्तु ऒन्दु सॊगसाद भिक्षॆयन्नु तन्दिरुवॆवॆन्दु हेळलु; द्रौपदि ऎन्दु तिळियदॆ ऎल्लरू अनुभविसिरि ऎन्दु हेळिदुदरिन्द, अर्जुननु हागॆ सम्मतिसिदरू, धर्म-राजनू दैवद महा-रायनू सह ऒब्ब कन्यॆयन्नु ऐदु जन सहोदररु मदुवॆयागुवदु अ-धर्मवादुदरिन्द ऒप्पलिल्लवु. अनन्तर श्री-व्यासरु बन्दु द्रौपदिय पूर्व-जन्म-वृत्तान्तवन्नू रुद्रनिन्द आकॆगॆ बन्द वरवन्नु तिळियपडिसि आ कारणदिन्द ई द्रौपदिय पञ्च-पाण्डवरिगू विवाहितळागुवदु ई विशेष-कारणदिन्द अ-धर्मवागुवदिल्लवु. इतर-स्त्रीयरिगादरो अ-धर्मवागुत्तदॆन्दु आ सन्दर्भदल्ले हेळल्पट्टिरुत्तदॆ. 
+
+[[P223]]
+
+श्री-विदुररिगॆ ब्रह्म-मेध-संस्कारवन्नु माडलु युधिष्ठिररु मॊदलिगॆ ऒप्पलिल्लवु. आकाश-वाणियादुदरिन्द इदक्कॆ कट्टु बिद्दु नडॆसिदरॆम्ब इतिहासविरुत्तदॆ. हागॆये श्री-राम-चन्द्र-प्रभुवु पक्षियाद जटायुविगॆ ब्रह्म-मेध-संस्कारवन्नु तावे स्व-तन्त्रिसि नडॆसिदुदू विशेष-विधि-सिद्धवादुदॆन्दु भाविसतक्कद्दागिरुत्तदॆ. स्त्री-हनन मातुल-हनन, मातृ-हनन, ब्राह्मणराद भीष्मर मेलॆ शस्त्र-प्रयोग इवे मॊदलाद प्रवृत्तिगळू कूड विशेष-विधि-सिद्धवादुदरिन्द अन्यत्र उपादेयवागुवदिल्लवॆम्ब तात्पर्यवु. 
+
+इदरिन्द हिन्दिन कारिकॆयल्लि हेळल्पट्ट धर्म-व्याध, तुला-धार, शबरी, विदुररे मॊदलादवरु विशेषाधिकारिगळिगॆ शास्त्रातिक्रमणवन्नु माडिदरॆम्बुदु श्री-दॆशिकरवर आभिप्रायवल्लवॆम्बुदु इदरिन्द सिद्धवु. कॆलवरु शास्त्रातिक्रमणवन्नु इवरु माडिदरॆन्दु हेळुवदु श्री-देशिकरवर अभिप्रायक्कॆ विरुद्धवादुदरिन्द उपादेयविल्लवु. हागॆ हेळुववरु ई मेलिन महानुभावरागि नम्म गौरवक्कॆ अर्हरागिरुववरन्नु शास्त्रातिक्रमण माडिदरॆम्ब दोषक्कॆ गुरिमाडि, तम्म स्व-रूपक्कू कुन्दुकवन्नु उण्टुमाडिकॊळ्ळुवरु. इवरॆल्ला महा-प्राज्ञरु. अति सुलभ-मार्गवाद भागवत-संश्रयणदिन्दले अवरिगॆ संसिद्धियु लभिसुवाग गुरुतरवाद उपासनवेतक्कॆ ? हागू उपासन माडिदरॆम्बुदु, शास्त्रातिक्रमण मातु हागिरलि, अवरु प्राज्ञरल्लवॆन्दु स्थापिसिदन्तागुवदु. महा-भारतवन्नॆल्ला हुडुकिदरू श्री-विदुररु उपासनवन्नु माडिदरॆम्बुदक्कॆ प्रमाणवु सिक्कुवदिल्लवु. आदरॆ पञ्च-व्याख्यानगळल्लि सार-दीपिकायवरु 
+
+> विदुरदिगळिल् भक्ति-योगादि-निष्ठै केळक्क पडुमागिल् 
+
+ऎन्दु विदुररु उपासनवन्नु अनुष्ठिसिदरॆम्बुदन्नु ऒप्पिरुत्तारॆ. आदरॆ सारास्वादिनियवरिगॆ ई अभिप्रायवु इष्टविल्लदॆ 
+
+> शूद्र-योनाव् अहं जातो नातो ऽन्यद् वक्तुम् उत्सहे
+
+ऎम्बुदन्नु उदाहरिसि, 
+
+> मर्यादातिलङ्घन कृतम् इति द्योत्यते 
+
+ऎन्दु शास्त्रातिक्रमणडलिल्लवॆन्दु हेळल्पट्टिरुत्तदॆ. इतररु, विदुररु उपासनवन्नु माडिदरे ऎम्ब विषयदल्लि एनन्नू हेळदॆ **"विशेष-विधि-सिद्धन् तु"** ऎन्दु कारिकॆयल्लिरुव प्रयोगक्कॆ विदुररिगॆ युधिष्ठिररु नडॆसिद ब्रह्म-मेध-संस्कार-मात्रवे दृष्टान्तवागि हेळिरुत्तारॆ इदरिन्द सारास्वादिगळवर अभिप्रायवे श्री-देशिकाभिप्रायक्कॆ अनुगुणवादुदॆन्दु नावु निस्संशयवागि इट्टुकॊळ्ळबहुदु. 
+
+[[P224]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**अर्थवु** - ऒन्दु कन्निकॆयन्नु ऐदु जनरु मदुवॆ माडिकॊळ्ळुवदू, शूद्रनिगॆ ब्रह्म-मेध-संस्कारवन्नु माडिदुदू, अष्टेकॆ, श्री-राम-चन्द्र-प्रभुवे जटायु-पक्षिगॆ ब्रह्म-मेध-संस्कारवन्नु माडिदुदू, हीगॆ शास्त्रातिक्रमणगळु ऒन्दॊन्दु सन्दर्भदल्लि नडॆदिद्द पक्षदल्लि, इतर-सन्दर्भदल्लू शास्त्रातिक्रमणवु एकॆ कूडदु ? ऎन्दाक्षेप तन्दरॆ, अदक्कॆ समाधानवु हेळल्पडुत्तदॆ - 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11617,6 +15409,34 @@ Los dharmas o ritos **prescritos** para un determinado lugar, un determinado per
 इप्पडिये देशकालविशेषङ्गळिल् विहितङ्गळाऩ धर्मङ्गळुम् देशान्तरकालान्तरङ्गळिल् प्रसङ्गिक्कादु ऎऩ्गिऱार् देशकालाधिकार्यादिविशेषेष्विति । इङ्गु अधिकारिग्रहणम् दृष्टान्तार्थम्। नर्मदोत्तरदेशत्तिल् सॊऩ्ऩ उपाकर्मविषयत्तिल् सिंहश्रावणनियमम् नर्मदादक्षिणदेशत्तिल् इल्लैयिऱे। दक्षिणदेशत्तिल् कर्कटकश्रावणम् अनुष्ठिक्कप्पडुगिऱदिऱे। क्रतुयागादिगळिल् स मांसो मधुपर्कः ऎऩ्ऱु सॊऩ्ऩ गोमांससहितमधुपर्कम् कलियुगत्तिल् मधुपर्के तु गोवधः ऎऩ्ऱु निषेधिक्कप्पट्टदिऱे। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**देश-कालादि--कार्यादि-विशेषेषु** - देश-विशेष, काल-विशेष, अधिकारि-विशेष आदि-पददिन्द अवस्था-विशेषगळु हेळल्पट्टवु. हेगॆन्दरॆ शरीरारोग्यद स्थिति, बाल्य, वृद्धतॆ मॊदलाद अवस्थॆगळु बोधितवु, इन्तह सन्दर्भगळल्लि **व्यवस्थिताः** - व्यवस्थॆ माडि हेळल्पट्टु, **धर्माः** - धर्मगळु, **देशकालान्तरादिषु** - बेरॆ देश, बेरॆ काल, बेरे अधिकारि, बेरॆ अवस्थॆ मॊदलादवुगळल्लि, **प्राप्तिम्** - अन्वयिसोणवन्नु **नार्हन्ति** - हॊन्दुवदिल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ऒन्दु देश-विशेष, काल-विशेष, अधिकारि-विशेष, अवस्था-विशेषगळल्लि हेळल्पट्ट विशेष-धर्मगळन्नु बेरॆ, देश-काल अधिकारि अवस्थॆगळिगू अन्वयिसुत्तेवॆ ऎम्ब वादवु उचितवाद वादवागुवदिल्लवु. हेगॆन्दरॆ - 
+
+**देशक्कॆ उदाहरणॆयु**- देव-स्थानदल्लि शूद्र-स्पर्शवादरू स्नानमाडकूडदु. माडिदरॆ दोषवॆन्दु हेळिरुत्तदॆ. इतर कडॆयल्लि शूद्र-स्पर्शक्कॆ इदु अन्वयिसुवदिल्लवु. इदक्कॆ प्रमाणवु :-
+
+> विष्ण्व्-आलय--समीप-स्थान् विष्णु-सेवार्थम् आगतान् ।  
+चण्डालान् पतितान् वापि स्पृष्ट्वा न स्नानम् आचरेत् ॥ 
+
+ऎम्बुदु. भगवन्तन सन्निधियल्लि शूद्रादिगळिन्द नोडल्पट्टरू भगवन्-निवेदित-प्रसादवन्नु स्वीकरिसतक्कद्दॆम्ब विशेष-विधि इदॆ. इदु इतर-प्रदेशदल्लि अन्वयिसुवदिल्लवु नर्मदोत्तर-देशाचारवु दक्षिण-देशक्कॆ उचितवल्लवु. बदरियल्लि छळियिन्द अङ्गियन्नु धरिसि देवतार्चनॆयन्नु माडुवदु इतर-पुण्य-क्षेत्रगळल्लि सरियल्लवु. 
+
+**कालक्कॆ उदाहरणॆयु** - अल्प-द्वादशियल्लि मध्याह्नदल्लि माडुव माध्याह्निकवन्नु मॊदले माडबेकॆम्ब विशेष-विधियु सार्वत्रिकवागि उचितवागुवदिल्लवु. आशौचादिगळल्लि हेळल्पट्ट लघु-सन्ध्या-वन्दनॆयू औपासन, पञ्च-महादि-लोपगळू, इतर सरियाद कालगळल्लि आन्वयिसुवदिल्लवु. श्रवण-द्वादशियल्लि विधिसिद उपोष्यवु सामान्य-द्वादशिगॆ सम्भविसुवदिल्लवु. 
+
+[[P225]]
+
+**अधिकारिगॆ उदाहरणॆयु**- रोगिष्ठनिगॆ विधिसिद मन्त्र-स्नानवु इतररिगॆ उचितवागुवदिल्लवु. विदुरनिगॆ ब्रह्म-यज्ञ औपासन, वैश्वदेवादिगळिल्लवॆन्दु हेळिदुदु दाम्पत्य-भावदल्लिरुव ब्रह्मणादिगळिगॆ अन्वयिसुवदिल्लवु. स्व-गुरुविगॆ तोरिसबेकॆन्दु हेळिरुव विशेष-मर्यादॆयु इतर-गुरुगळिगॆ सम्बन्धिसुवदिल्लवु. भागवतनाद शूद्रनिगॆ तोरिसुव मर्यादॆयु इतर-शूद्ररिगॆ अन्वयिसुवदिल्लवु. 
+
+**अवस्थादिगळिगॆ** - बालकरन्नू गर्भिणि-स्त्रीयन्नू ऊटमाडिसि यजमाननु अनन्तर ऊटमाडबेकॆम्ब नियमवु, इतर-स्त्री मॊदलादवरुगळ विषयदल्लि सम्बन्धिसुवदिल्लवु. आहारविल्लदॆ प्राण होगुव सन्दर्भदल्लि शूद्र, पक्ववादवुगळन्नु ब्राह्मणनु स्वीकरिसबहुदॆम्बुदु कहोळरिगॆ मात्र श्रुतियु विधिसिते विना अवर पत्निगॆ विधिसलिल्लवु. हीगॆये इन्नू अनेक-सन्दर्भगळन्नु विचारिसि तिळियबहुदु. 
+
+आदुदरिन्द ऒन्दॆरडु सन्दर्भगळल्लि शास्त्रातिक्रमणवु विशेष-विधियिन्द उण्टागिद्दरू सार्वत्रिकवागि अन्वयिसुवदु सत्-तर्कवल्लवु. ऎम्ब भाववु. आ कारणदिन्द हागॆ तर्क माडुवदु शास्त्र-मर्यादॆयन्नरियदॆ, भ्रम-युक्तरागि, ई कलि-युगद माहात्म्यॆगॆ सिलुकि कु-तर्क माडुववरॆन्दु हेळुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11657,6 +15477,38 @@ Algunas (personas) que **no pueden entender** el significado de ciertos episodio
 आऩाल् सिलर् शास्त्र विरुद्धमागच् चॊल्लुवाऩेऩ् ऎऩ्ऩ वरुळिच्चॆय्गिऱार् केचित्विति । अल्पज्ञर्गळाऩ सिलर् यथावस्थितमाऩ शास्त्रार्थत्तै अऱियामल् वर्णाश्रमधर्मङ्गळैक् कुलैत्तु अम् मुखत्ताले श्रियःपतियाऩ भगवाऩुक्कु कलिकोलाहलक्रीडैयै वृद्धि पण्णुगिऱार्गळ् ऎऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**केचित्** - कॆलवरादरो, **तद्-उपाख्येन तात्पर्य-ग्रहणाक्षमाः** - आ धर्म-व्याध, तुला-धार, शबरी-विदुरादिगळ उपाख्यानद मुख्य-तात्पर्यवेनॆन्दु ग्रहिसुव योग्यतॆ इल्लदवरागि **रमा-पतेः** - लक्ष्मी-पतिय, **कलि-कोलाहल-क्रीडाम्** - अ-धर्मवे धर्मवागिरुव कलि-पुरुषनिगॆ सन्तोषवन्नुण्टुमाडुव ई कलि-नायकन क्रीडॆयन्नु, **वर्धयन्ति** - वृद्धियन्नु हॊन्दिसुत्तारॆ. बॆळगुत्तारॆम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+कलि-पुरुषन विषयदल्लि हेळल्पट्टिरुवदेनॆन्दरॆ -
+
+> कलौ कार्तयुगं धर्मं कर्तुम् इच्छति यो नरः ।  
+स्वामि-द्रोहीति तं मत्वा तस्मै प्रद्विषते कलिः ॥ 
+
+[[P226]]
+
+ऎन्दरॆ कलि-युगदल्लि यावनादरू कृत-युग-धर्मवन्नु नडॆसुवनॆन्दु हॊरटरॆ आतनन्नु स्वामि-द्रोहियु ऎन्दु कलि-पुरुषनु भाविसि, आतनन्नु द्वेषिसि, अवर कैयल्लू अ-धर्मवन्ने नडॆसुव हागॆ माडुवनु. इदक्कॆ ईग हिट्लरादिगळु दृष्टान्तवु. कलियुगदल्लि *
+
+> अ-धर्मो ग्रसते धर्मम् 
+
+ऎन्दु आदि-कवियु हेळिरुत्तारॆ. श्री-पराशररू व्यासरू सह कलि-युगदल्लि बहळ अ-धर्मगळु नडॆयुत्तवॆन्दु विस्तरिसि हेळिरुवदरिन्द, **कलि-कोलाहल-क्रीडॆ** ऎन्दु हेळल्पट्टितु. 
+
+कॆलवरिगॆ ई सन्दर्भदल्लि हीगॆ कलि-कालदल्लि अ-धर्म-प्रवर्तनॆयुण्टुमाडुवदु, शुद्ध-सत्त्व-नियामकनाद महा-प्रभुविगॆ हेगॆ लीलॆयादीतु ? कॊट्टिद्दु नडॆदिद्दन्नु नोडुवदु लीलॆये ? ऒब्ब स्त्रीयन्नु कै हिडिदु पर-पुरुषनु ऎळॆदरॆ नावे सहिसलारॆवु. इन्तह सन्दर्भदल्लि ई व्यापारवु परम-पुरुषनिगॆ लीलॆ हेगॆ ? ऎम्ब प्रश्नॆयु न्यायवादुदे. इदक्कॆ समाधानवन्नु हेळुवॆवु. सर्वेश्वरनु ऎरडु विभूतियन्नु निर्मिसिकॊण्डनु. ऒन्दु दृष्टिगॆ सिक्कद विभूति, नित्य-विभूतियु; इन्नॊन्दु दृष्टिगॆ सिक्किदुदु लीला-विभूतियु, सृष्टिसुवाग परम-पुरुषनु जीवात्मरिगॆ तुम्बा करुणॆयिन्दले करण-कळॆबर-योगवन्नुण्टु माडि ई जीवात्मरु ज्ञान-स्व-रूपरागि ज्ञान-गुणकरादुदरिन्द अवर स्व-रूपवन्नू स्वामियाद तन्न स्व-रूपवन्नू अरितु तन्निन्द विधिसल्पट्ट उपायानुष्ठानवन्नु माडि तन्नल्लिगॆ नित्य-विभूतिगॆ बरलि ऎन्दु सङ्कल्पिसिदनु. इदक्कागि स्वामियु तन्न शास्त्रवाद वेदगळन्नू कळुहिसिकॊट्टु, अवुगळन्नु उपयोगिसुव योग्यतॆयुळ्ळवरु ऎल्ला कालदल्लू ई भू-लोकदल्लि सञ्चरिसुत्तिरलॆन्दू सङ्कल्पिसिदनु. हीगॆ ई उपदेशगळन्नु तिळियलु बेकाद इन्द्रियगळन्नू मनस्सन्नू विवेकिसुव बुद्धियन्नू सर्वेश्वरनु तन्न निर्हेतुक-कृपॆयिन्द कॊट्टिद्दरू, ई चेतननु अवुगळन्नु दुरुपयोगपडिसिकॊण्डु कॆट्ट मार्गगळल्लि प्रवर्तिसि दुष्-कर्मगळन्नु माडि कॆट्टु होगिरुत्तानॆ. इन्तह दुर्-अवस्थॆयन्नु हॊन्दिरुवदु ई कलि-युगदल्लि हॆच्चु. आदुदरिन्द कृपा-निधियु प्रळयवन्नुण्टुमाडि, पुनः सृष्टियन्नु ऎसगि सरिमाडुवनु. मत्तु कॆलवु काल ई चेतनरिगॆ एनॊन्दु क्लेशविल्लद हागॆ पुनस्सृष्टिवरॆगू इडुवनु. आदुदरिन्द प्रळयवू कृपा-प्रभावदिन्दुण्टागतक्कद्दे. भगवन्तनु परिपूर्ण-कामनु. आदुदरिन्द हीगॆ सृष्टि-स्थिति-लयादि-प्रवृत्तिगळॆल्ला लीला-रूपवादवु. आदुदरिन्दले **"कोलाहल-क्रीडां वर्धयन्ति"** ऎन्दु हेळल्पट्टितु. 
+
+[[P227]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**अर्थवु** - ई धर्म-व्या१धादिगळॆल्ला शास्त्रानुगुणवागिये प्रपत्तियन्नु हॊन्दिद्दरॆन्दु हेळल्पट्टितल्ला ? हागादरॆ अन्तवरुगळ हागॆ म्लेच्छनू भागवतनाद पक्षदल्लि, **"स च पूज्यो यथा ह्य् अहम्"** ऎम्ब श्रेष्ठ-स्मृति-वाक्यविदॆयल्ला परमात्मन हागॆ आतनन्नु पूजिसोणवु शास्त्र-विरुद्धवल्लवे ? ऎन्दरॆ अदक्कॆ मुन्दिन मूरु कारिकॆगळिन्द समाधानवन्नु हेळुत्तारॆ.
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11687,8 +15539,6 @@ who **desire** to have varied prosperity.
 que **desean tener** prosperidad variada.
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 मातृभिः पितृभिश्चैताः पतिभिर्देवरैस्तथा ।  
@@ -11711,6 +15561,17 @@ que **desean tener** prosperidad variada.
 इन्द नाट्टुप्पॆण्गळाऩवर्गळ् गृहङ्गळिले बहुवाऩ मङ्गळत्तै आसैप्पडुगिऱवर्गळाऩ पतियिऩुडैय मादा पिदाक्कळालुम्, पतिकळालुम्, मैत्तुऩऩ्गळालुम् पूजिक्कवेण्डियवर्गळ्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**बहु-कल्याणं** - हॆच्चाद श्रेयस्सन्नु, **ईप्सुभिः** - अपेक्षिसुव, **मातृभिः** - तायिगळिन्दलू. **पितृभिः** - तन्दॆगळिन्दलू, **पतिभिः** - गण्डन्दिरिन्दलू, **देवरैस् तथा** - हागॆये मैदुनरिन्दलू **एताः** - ई सॊसॆयरु, **पूज्याः** - पूजिसलु योग्यरु, **भूषयितव्याश् च** - मर्यादॆयन्नु माडलू सह अर्हरु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हेळिदुदर अभिप्रायवेनॆन्दरॆ अवरुगळु मर्यादॆयिन्द नोडलु योग्यरॆम्ब अभिप्राय-मात्रवे विना, तायि, तन्दॆ, गण्ड, मैदुन मॊदलादवरु ईकॆय कालिगॆ नमस्करिसि पाद तॊळॆदु पूजिसतक्कद्दॆम्ब भाववल्लवु, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11756,6 +15617,19 @@ como **derribadas** por espíritus malignos.
 आभरणङ्गळाले अलङ्गरिक्क वेण्डियवर्गळ्। नाट्टुप्पॆण्गळ् आदरिक्कप्पडादवर्गळाय्क् कॊण्डु ऎन्द गृहङ्गळै शपिक्किऱार्गळो, अन्द गृहङ्गळाऩदुगळ् नाऩ्गु पक्कत्तिलुम् पिशाचिकैयिऩाले हतङ्गळ् पोल नशित्तुप् पोय्विडुङ्गळ्, ऎऩ्गिऱ श्लोकङ्गळिल् नाट्टुप्पॆण्गळ् विषयमाऩ पूजावचनमाऩदु औचित्यत्ताले ऎप्पडि आदर विषयमाग नियमिक्कप्पडुगिऱदो, अप्पडिये भक्तऩाऩ म्लेच्छादिविषयमाऩ पूजा शब्दमुम् नियमिक्कप्पडवेण्डियदु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**जामयः** - सॊसॆयरु, **अ-प्रतिपूजिताः** - मर्यादॆ माडल्पडदे होदरॆ, **यानि गेहानि** - याव अत्तॆ मावन्दिर मनॆगळन्नु, **तपन्ति** -  अनुकूलविल्लदॆ, कष्ट पडिसि, कण्णीरन्नु बिडुव हागॆ माडिदुदर मूलक शपिसुत्तारो, **तानि** - अन्तह मनॆगळन्नु, **कृत्याहतानीव** - माटमाडुवुदर मूलक नाशवागुव हागॆ, **समन्ततः** - सम्पूर्णवागि, **विनश्यन्ति** -  नाशवागुवुवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+साध्वियाद सॊसॆयु अत्तॆ मावन्दिरु माडुव तॊन्दरॆगळिन्द कण्णीरु सुरिसिदरॆ आ मनॆयु हाळागुत्तदॆन्दु हेळिदरु. हेगॆ ऎम्बुदक्कॆ ऒन्दु दृष्टान्तवन्नु कॊट्टरु शत्रुविन मनॆहाळागबेकॆन्दु ऒब्ब दुष्ट-देवतॆयन्नाराधिसि, अन्तह दुष्ट-देवतॆय मूलक आतन मनॆयु हाळागुव हागॆ ई दुष्ट अत्तॆ मावन्दिर मनॆयू हाळागुत्तदॆम्ब भाववु. ॥ १३० ॥
+
+[[P228]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -11800,6 +15674,50 @@ Así también **mandatos respecto** del respeto que **se debe mostrar** a los de
 भक्तम्लेच्छादिपूजोक्तिरेवमेव नियम्यताम् ॥
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**एवम्-आदिषु** - इवे मॊदलाद दृष्टान्तगळल्लि, **पूजोक्तिः** - पूजिसलु अर्हवॆम्ब हेळिकॆयु, **औचित्यात्** - योग्यवॆम्ब भावदिन्द **यथा** - हेगॆ, **नियम्यते** - हेळल्पट्टिरुत्तदो, तन्न मगळन्नु अत्तॆयागलि मावनागलि हेगॆ विश्वासदिन्द काणबेको हागॆ सॊसॆयन्नू सह आदरदिन्द नोडतक्कदॆन्दु हेगॆ बोधिसुत्तदो, **भक्त-म्लेच्छादि-पूजोक्तिः** - भगवन्तनल्लि भक्तराद म्लेच्छादिगळन्नु पूजिसतक्कद्दॆम्ब शास्त्रगळल्लि हेळिरुव **"स च पूज्यो यथा ह्य् अहम्"** इत्य्-आदि-स्थळगळल्लि हेळिरोणवू, **एवम् एव** - मेलिन दृष्टान्तगळल्लि हेळिरुव हागॆ, **नियम्यताम्** - नयनमाडिकॊळ्ळतक्कद्दु; तिळियतक्कद्दु; 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+ऎन्दरॆ अवरन्नु निकृष्ट-भावदिन्द नोडतक्कद्दल्लवु. भागवतरादुदरिन्द विश्वासार्हरु ऎन्दिष्टु मात्रवे अर्थवल्लदॆ, अवर कालिगॆ नमस्कार माडुवदक्कागियागलि, सह-पङ्ति-भोजनादिगळिगागलि, कन्या-प्रदानक्कागि आगलि; इवे मॊदलादवुगळिगॆ अर्हरॆन्दु भाविसतक्कद्दल्लवु. विदुरादिगळु उत्कृष्ट-प्रवृत्तियुळ्ळवरागि भागवतोत्तमरादरू, तम्म निकृष्ट-जातिगनुगुणवागि सम्प्रदायवन्निट्टु विवाहादिगळन्नु नडॆसिकॊण्डरॆन्दु हिन्दॆये प्रभाव-व्यवस्थाधिकारदल्लि हेळल्पट्टिरुत्तदॆ. ([[??]] पुट) अहल्या-शाप-विमोचन-सन्दर्भदल्लि शिलॆयागिद्द अहल्यॆयु बहु-सुन्दरवाद स्त्री-रूपवन्नु धरिसि निन्त ऒडनॆये 
+
+> राघवौ तु ततस् तस्याः पादौ जगृहतुस् तदा
+
+महा-पवित्रळागि, ब्रह्मन मगळागि, ब्रह्म-वित्ताद गौतम-पत्नियादुदरिन्द क्षत्रियराद राम-लक्ष्मणरु ऋषि-पत्नियाद आकॆय पादगळिगॆ नमस्करिसिदरॆन्दु हेळल्पट्टिरुत्तदॆ. अनन्तर गौतमरु तम्म पत्नियॊन्दिगॆ 
+
+> गौतमो ऽपि महा-तेजा अहल्या-सहितस् सुखी ।  
+रामं सम्पूज्य विधिवत् तपस् तेपे महा-यशाः ॥ 
+
+ऎन्दु, विध्य्-अनुसारवागि मर्यादॆ माडिदरु ऎन्दु इष्टु मात्रवे हेळल्पट्टिरुत्तदॆ. हागॆये श्री-राम-चन्द्र-प्रभुवु दण्डकारण्यवन्नु प्रवेशिसिदाग 
+
+> मङ्गलानि प्रयुञ्जानाः प्रत्यगृह्णन् दृढ-व्रताः
+
+ऎन्दु अल्लिद्द महर्षिगळु मङ्गळवन्नु हाडिदरु ऎन्दु हेळल्पट्टिते विना, अवरु ई क्षत्रियराद राम-लक्ष्मणरिगॆ शास्त्र-मर्यादॆगॆ विरुद्धवागि नमस्करिसिदरॆन्दु श्री-वाल्मीकियु हेळलिल्लवु, अवरु वन्यगळाद फल-पुष्पादिगळिन्द पूजिसि, **"गर्भ-भूतास् तपो-धनाः"** ऎन्दु हेळिकॊण्डरे विना नमस्करिसिदरॆम्ब हेळिकॆ इल्लवु. श्री-राम-चन्द्र-प्रभुवु विश्वामित्र-भरद्वाजादिगळगॆ नमस्कारवन्नु माडिदरॆन्दु हेळल्पट्टिरुत्तदॆ. 
+
+[[P229]]
+
+> रामस् सौमित्रिणा सार्धं सीतया चाभ्यवादयत् 
+
+(आयोध्या ५४-१२). हागॆये श्री-कृष्ण-भगवान्रवरू तावु क्षत्रियरादुदरिन्द ब्राह्मणरागि ब्रह्म-वित्ताद कुचेलरिगॆ 
+
+> उपहृत्यावनिज्यास्य पादौ पादावनेजनीः 
+
+(भाग. १०-८०-१८) पादवन्नु तॊळॆदु शिरस्सिगॆ प्रोक्षिसिकॊण्डरॆन्दु हेळल्पट्टिरुत्तदे विना कुचेलरु ब्रह्म-वित्तादरू श्री-कृष्णरिगॆ नमस्करिसिदरॆन्दु हेळल्पट्टिल्लवु. आदरॆ विवाह-कालदल्लि, शिशु-पालनिगॆ पत्नियागुवदु इष्टविल्लदॆ श्री-रुक्किणियु, तन्नन्नु बन्दु ऒडनॆ करॆदुकॊण्डु होगबेकॆन्दु बरॆद पत्रवन्नु तन्द ब्रह्म-वित्तु आ कागदवन्नु स्वामि-पाददल्लिट्टु आतनिगॆ नमस्करिसिदरॆन्दु हेळल्पट्टिरुत्तदॆ. 
+
+> निधाय लिखितं पत्रं पादयोः प्रणनाम तम् ।  
+तद् आदाय जगन्-नाथः स्मित-सुन्दर-लोचनः ।  
+वाचयामास धर्मात्मा सादरं स्पृहयन्न् इव ॥ 
+
+ऎन्दु हेळल्पट्टिरुत्तदॆ. (भाग. १०) इदर अर्थवु स्पष्टवु. आ पत्रवन्नु श्री-कृष्ण-भगवान्रवरु कैयल्लि तॆगॆदुकॊण्डु, तम्म सर्व-ज्ञतॆयिन्द तिळिदवराद प्रयुक्त, नगुत्ता सुन्दर-कण्णुगळन्नु हॊन्दिदवरागि आ ब्रह्म-वित्तन्नु कुरितु, श्री-रुक्मिणियु तन्न अन्तरङ्ग-दासनन्नागि भाविसिद नन्तर निम्म विषयदल्लि रहस्यवेनु, नीवे ओदि नोडोणवॆम्ब भावनॆयिन्द आ ब्राह्मणर कैगॆ कॊट्टु ओदिसिदरॆन्दिरुत्तदॆ. इल्लि ब्राह्मणरु क्षत्रियनिगॆ नमस्करिसिरुत्तारॆ. इदु शास्त्र-विरुद्धवॆन्दु भाविसि ईचिगॆ अच्चागिरुव प्रतिगळल्लि दासनु उदाहरिसिरुव श्लोकगळिल्लवु. इन्तह ईगिन पण्डितरुगळ नडतॆयु श्लाघ्यवादुदल्लवु. श्री-वीर-राघवीयदल्लू मत्तु श्रीधरीय-व्याख्यानगळल्लू ई श्लोकगळ प्रतीकवन्नु हिडिदु व्याख्यानमाडिरुत्तारॆ. आदुदरिन्द प्राचीन-ग्रन्थगळल्लि इवु उण्टॆम्बुदु सिद्धवु. इदु शास्त्र-विरुद्धवॆन्दु भाविसलु कारणविल्लवु. श्री-रुक्मिणि लक्ष्मियॆन्दू, श्री-कृष्णनन्नु नारायणनॆन्दू चॆन्नागि तन्न योग-महिमॆयिन्द तिळिद ब्रह्म-वित्तु श्री-कृष्णनिगॆ नमस्करिसुवदु; श्री-देशकरवरु अप्पणॆ कॊट्ट हागॆ विशेष-विधि-प्राप्तवु. आदुदरिन्द इल्लि समञ्जसवे ऎन्दु भाविसतक्कद्दु. आदुदरिन्द श्री-राम-चन्द्र-प्रभुवेयागलि, श्री-कृष्ण-भगवान् आगलि शास्त्र-विरुद्धवागि ऎल्लियू नडॆदिल्लवु. हीगिरुवाग आ मेलुपङ्तियन्ननुसरिसि नावॆल्लरू जात्य्-अनुगुणवाद प्रवृत्तियन्नु अवलम्बिसबेके विना शास्त्र-विरुद्धवागि नडॆयकूडदॆम्बुदन्नु श्री-देशिकरवरु स्थापिसिरुत्तारॆ.
+
+अदुदरिन्द इष्टु दूर विमर्शिसि हेळिदवॆल्लवू शिष्टाचार-प्रतिपन्नवादुवॆन्दु हेळुत्तारॆ. 
+
+[[P230]]
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11837,6 +15755,20 @@ Estas **reservas** y **restricciones** **están establecidas** también por la *
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 इदु शिष्टानुष्ठानत्तालुम् सिद्धमॆऩ्गिऱार् इन् नियमङ्गळॆल्लामिति । उत्कृष्टजातीयर् अपकृष्टजातीयरै पूजिक्क वेण्डिय नियमुम्, इम्मादिरियुळ्ळ ऎल्ला नियमङ्गळुम्। सम्प्रतिपन्नशिष्टानुष्ठानपरम्परैयालुमिति । केवलं स्वाभिमानमात्रत्ताले शिष्टर्गळऩ्ऱिक्के सर्वलोकसम्प्रतिपन्नशिष्टर्गळुडैय अनुष्टाऩत्तालुम्, तादृशराऩ ऒरुवरुडैय अनुष्टाऩमात्तिरमऩ्ऱिक्के तादृशर्गळुडैय अनुष्ठानपारम्पर्यत्तालुम् सिद्धमॆऩ्ऱु करुत्तु।
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+ई नियमङ्गळॆल्लवू, **संप्रतिपन्न-शिष्टानुष्ठान-परम्परैयालुम्** - शास्त्र-सम्मतियुळ्ळद्दागि नम्म पूर्वाचार्यरुगळाद शिष्टर अनुष्ठानद परम्परॆयिन्दलू, ऎन्दरॆ अवर शिष्यरु प्रशिष्यरु हीगॆ परम्परॆयागि बन्द अनुष्ठानदिन्दलू ऒप्पल्पट्टुदरिन्दलू, **सिद्धङ्गळ्** - अनुष्ठिसले बेकॆन्दु स्थापितवादवुगळु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+महा-भक्तराद शूद्र-म्लेच्छादिगळ विषयदल्लि हेळल्पट्ट पूजोक्तियु, अवरन्नु तुच्छवागि काणकूडदु; उत्कृष्ट-जातियवरु पूजार्हराद अपकृष्ट-जातियवरन्नु बहुमानिसबेकादुदु धर्मवु. आदरॆ अवरुगळु सन्मानिसलु योग्यरॆन्दु इष्टु मात्र अभिप्रायवुळ्ळदे विना, शास्त्र-विरुद्धगळाद सह-पङ्ति-भोजन, विवाह मॊदलाद शुभ-शोभनादिगळिगॆ अर्हरॆम्ब भावनॆयल्लवु ऎम्बुदु तात्पर्यवु. 
+
+ईग प्रकृत-प्रकरणवाद **"सर्व-धर्मान् परित्यज्य"** ऎम्बल्लि मुख्यवागि कॆलवर भिन्नाभिप्रायवन्नु होगलाडिसि, परम-हितोपदेशवन्नु इदुवरॆगू माडिदुदन्नु निगमनमाडि हेळुत्तारॆ. वर्णाश्रम-धर्मगळ अनष्ठानवु औपाधिकवादरू परमैकान्तियू शास्त्र-विध्य्-अनुसार आवश्यकवागि माडलेबेकॆन्दु हेळि मुगिसुत्तारॆ. हागॆ हेळुवदरल्लि प्रपन्ननु इवुगळन्नु अनुष्ठिसुवदरल्लि इतरर अनुष्ठानगळिगिन्त वैलक्षण्य उण्टॆन्दू मूरु कारिकॆगळिन्द तिळिसुत्तारॆ -
+
 </details>
 
 
@@ -11883,6 +15815,21 @@ con el **cumplimiento** de la normativa
 परमप्रकृतत्तै निगमिक्किऱार् आगैयालिति । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**परमैकान्तिय वर्णाश्रम-धर्मानुष्ठानदल्लिरुव वैलक्षण्यवन्नु प्रदर्शिसुत्तारॆ,** 
+
+**आगैयाल्** - शास्त्र-विधि-प्राप्तवागियू मत्तु शिष्टाचारक्कॆ अनुगुणवागियू इरुवदरिन्द, **तन् वर्णाश्रमादिगळुक्कु** - तन्न वर्ण मत्तु आश्रम, आदि-पददिन्द  शास्त्र-प्रोक्त-रीतियल्लि ऋक्-यजुस्-साम-शाखॆगळु हेळल्पट्ट्वु, इवुगळिगॆ **अडैत्त नियमङ्गळोडॆ** - सम्बन्धिसल्पट्ट नियमगळॊन्दिगॆ, शास्त्र-प्रोक्त-रीतियल्लि **भगवत्-कैङ्कर्यम् पण्णुगै** -  भगवत्-कैङ्कर्यवागि माडोणवु **परमैकान्तित्व-विरुद्धमन्रु** - प्रपन्नन परमैकान्त्वक्कॆ विरुद्धवल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+आवश्यकवागि माडतक्कद्दॆन्दु हेळदॆ परमैकान्तित्वक्कॆ विरुद्धवल्लवॆन्दु उपदेशिसलु कारणवेनु ? ऎन्दरॆ कॆलवरु हागॆ अनुष्ठिसुवदु प्रपन्नन परमैकान्तित्वक्कॆ विरुद्धवॆन्दु भाविसिदरु. अदु सरियल्लवॆन्दु तिळिसुवदक्कागि हागॆ प्रयोगवु. 
+
+[[P231]]
+
+</details>
 
 #### सार-कल्क-विभागः
 
@@ -11927,6 +15874,41 @@ Incluso el **servicio rendido** directamente al Señor de Lakṣmī
 कीऴ् लक्ष्मीशकैङ्कर्यत्तै अनन्यप्रयोजनऩागवे पण्णवेण्डुमॆऩ्ऱु नियमित्तदु कूडुमो? प्रयोजनान्तरार्थमाग भगवत्पूजादिगळैप् पण्णिऩालुम् अदु कैङ्कर्यमागादो वॆऩ्ऩ भगवत्कैङ्कर्यमे सारकल्कविभागत्ताले इरुवगैप्पट्टिरुक्कुम् ऎऩ्गिऱार् साक्षादिति। साक्षाल्लक्ष्मीपतिविषयकमागवेयुळ्ळ सम्यगनुष्ठितमाऩ कैङ्कर्यमे सारमॆऩ्ऱुम् कल्कमॆऩ्ऱुम् इरण्डुविदमाग सत्तुक्कळाले सॊल्लप्पडुगिऱदु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**साक्षात्** - साक्षात्तागि नॆट्टगॆ, **लक्ष्मी-पताव् एव** - श्रियः-पतियल्लिये, **कृतं** - माडल्पट्ट, **कैङ्कर्यं** - कैङ्कर्यवू, **अञ्जसा** - ऎन्दरॆ शीघ्रवागि ऎम्बर्थवागुत्तदॆ. इल्लि निर्णयद मूलकवागि **सार-कल्क-विभागेन** - सारवॆम्ब कल्कवॆम्ब विभागदिन्द, **द्विधा** - ऎरडु विधवागि, **सद्भिः** - प्राज्ञरिन्द **उदीर्यते** - हेळल्पट्टिरुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+सारवत्तादुदु सारवु; सारवत्तल्लदॆ निस्सारवादुदु कल्कवु. सारक्कॆ प्रतिद्वन्दियादुदु कल्कवु. आदुदरिन्द निस्सारवॆन्दे अर्थवु. ऒन्दु गिडमूलिकॆयन्नु तन्दु कषाय हाकिदरॆ, अदक्कॆ जलदॊन्दिगॆ सार बन्दिरुत्तदॆ. हिण्डिद मूलिकॆयु निस्सारवादुदागि कल्कवु. अथवा कब्बन्नु अलॆयाडिदरॆ कब्बिनहालु सारवु, सिप्पॆयु कल्कवु. हागॆये ऎळ्ळन्नु गाणवाडिदरॆ तैलवु सारवु, हिण्डियु कल्कवु. 
+
+> तिल-कल्के च पिण्याको 
+
+ऎन्दु अमर-निघण्टुविदॆ. कल्क-शब्दक्कॆ 
+
+> कल्को ऽ-स्त्री शमलैनसोः ।  
+दम्भे ऽपि 
+
+ऎन्दु (१) देहदिन्द हॊरगॆ होगुव मल-रूप-निस्सार-भाग, (२) पाप, (३) दम्भवॆन्दु मूरर्थगळु. इल्लि निरर्थकवाद निस्सार-भागवॆम्बर्थवु. कल्क-शब्दद प्रयोगवन्नु आदि-पर्वद प्रथमाध्यायद कॊनॆय श्लोकदल्लि काणबहुदु. 
+
+> तपो न कल्को ऽध्ययनं न कल्कः  
+स्वाभाविको वेद-विधिर् न कल्कः ।  
+प्रसह्य वित्ताहरणं न कल्कस्  
+तान् एव भावोपहतानि कल्कः ॥ 
+
+[[P232]]
+
+इल्लि भारत-व्याख्यातृवु कल्क-शब्दक्कॆ पापवॆन्दु अर्थ माडिरुत्तारॆ. निस्सारवादुदु निरर्थकवादुदॆम्बुदे इल्लियू समञ्जसवाद अर्थवु. तपस्सू ताने स्व-तन्त्रिसि मोक्षवन्नु कॊडदिद्दरू, निस्सारवादुदल्लवु; हागॆये वेदाध्ययनवू निस्सारवादुदल्लवु; वर्णाश्रमगळिगॆ विहितगळागि वेदगळल्लि विधिसल्पट्टु नित्य-नैमित्तिकानुष्ठानवू निस्सारवादुदल्लवु; एकॆन्दरॆ अवुगळु फलाभिसन्धि-रहितवागि भगवद्-आराधनॆय रूपदल्लि अनुष्ठिसुवदरिन्द देहक्कॆ उण्टागुव अ-सुखगळन्नू सहिसिकॊण्डु भगवद्-भागवत-कैङ्कर्यगळिगागियू, तनगू तनगॆ सेरिदवर देह-यात्रॆगागियू कष्टदिन्द द्रव्यार्जनॆयू निस्सारवादुदल्लवु. हागादरॆ यावाग इवुगळॆल्ला निस्सारवादवुगळॆन्दरॆ नाल्कनॆय पाददिन्द हेळुत्तारॆ. **तान् एव** - अवुगळे, **भावोपहतानि** - फलाभिसन्धियन्नु त्यागमाडि परमात्मन अराधन-रूप-भावविल्लदॆ फलाशॆ इद्दरॆ **कल्कः** - निस्सारवादवागुत्तदॆम्बुदु ई श्लोकार्थवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**अर्थ** - हिन्दिन कारिकॆयल्लि सार-निस्सार-विभागवॆन्दु वैदिक-लौकिकगळाद ऎल्ला अनुष्ठानगळन्नू विभागिसि हेळिदरु. ई कारिकॆयिन्द सारवत्तादवु यावुवॆन्दु तिळिसुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11976,6 +15958,19 @@ o para la **protección** de personas como gurús.
 अदिल् कृतकृत्यऩाऩ प्रपन्नऩुडैय अनन्यप्रयोजनमाऩ यादॊरु कैङ्कर्यमुण्डो अदैयुम्, गुर्वादिगळुडैय रक्षणार्थमाग ऎदु सॆय्यप्पडुगिऱदो अदैयुम् सारमॆऩ्ऱु सॊल्लुगिऱार्गळ्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**यत्** - याव, **कृत-कृत्यस्य** - परम-हितवागि मोक्ष-साधकवागिरुव साध्योपायवु यावुदो अदन्नु अनुष्ठिसिदवनु कृत-कृत्यनु, अन्तह प्रपन्ननु माडुव, **कैङ्कर्यं** - भगवत्-कैङ्कर्यवो ऎन्दरॆ भगवन्तन प्रीतिगागि आतनल्लि समर्पिसल्पट्ट कैङ्कर्यवो अदु सार हेगॆ ? ऎन्दरॆ **अनन्य-प्रयोजनम्** - भगवत्-प्रीतिगागि अल्लदॆ इन्नु याव प्रयोजनवुळ्ळदल्लदुदरिन्दलू, **गुर्व-आदि-रक्षणार्थं वा** - इल्लि **वा** शब्दवु **च** ऎम्ब अर्थदल्लियादुदरिन्द समुच्चयवन्नु बोधिसुत्तदॆ, आदुदरिन्द गुरुगळे मॊदलादवर रक्षणार्थवागियू, माडल्पट्ट कैङ्कर्यवु यावुदो, **तत्** - अदु, **सारं** - सारवत्ताद कैङ्कर्यवॆन्दु, **सम्प्रचक्षते** - चॆन्नागि हेळिसिकॊळ्ळल्पडुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इल्लि **अनन्य-प्रयोजनम्** ऎन्दु हेळिरुवदरिन्द अन्य-प्रयोजनवुळ्ळ देवतान्तर-कैङ्कर्यवु व्यवच्छेदिसल्पट्टु अन्तह कैङ्कर्यवु कल्कवॆन्दे हेळिदन्तायितु. इल्लि **कृत-कृत्यस्य कैङ्कर्यं** सारवॆन्दु हेळिदुदरिन्द, कृत-कृत्यनल्लदवन कैङ्कर्यवु तनगॆ विहित-भोगार्थगळिगॆ माडिदुदागि अ-सार-फलक्कागि माडल्पट्टिदुदरिन्द अ-सारवॆन्दे हेळिदन्तायितु. गुरुविन रक्षणॆयु यावुदु ऎन्दरॆ गुरुविनिन्द बन्द ज्ञानद रक्ष
+
+[[P233]]
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
@@ -12173,6 +16168,11 @@ estos Bhagavān **los recibe** con Su cabeza.
 ‘‘याः क्रियास्संप्रयुक्तास्स्युरेकान्तगतबुद्धिभिः । तास्सर्वाश्शिरसादेवः प्रतिगृह्णाति वै स्वयम्’’(भारतम् शान्ति-पर्व ३५८-६४) ऎऩ्ऱुम् 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+ऐहिकगळल्लि सम्पूर्ण-वैराग्यदिन्द परमात्मनॊब्बनल्ले सक्तवाद मनस्सुळ्ळवरु, परमैकान्तिगळु; अवर कैङ्कर्यगळन्नॆल्ला देवनु शिरसा अङ्गीकरिसुवनॆन्दु हेळल्पट्टितु **ऎन्रुम्** - ऎम्बदागि, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12200,7 +16200,57 @@ Esta idea **es expresada** por Bhagavān Veda Vyasa en los (pasajes) anteriores.
 श्रीवेदव्यासभगवाऩरुळिच् चॆय्दाऩ्।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+श्री-वेद-व्यासरु, **अरुळिच्चॆय्दार्** - कृपया भारत-मोक्ष-धर्मदल्लि अप्पणॆ कॊडिसिरुत्तारॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+हीगॆ अ-प्रपन्नरू मत्तु प्रपन्नरू माडुव कैङ्कर्यगळिगॆ तारतम्यवुण्टॆन्दु तिळिसिदरु. हीगॆ व्यत्यासवन्नु हेळिदवरु साधारण-मनुष्यरल्लवु. पूज्यतमराद श्री-वेद-व्यास-भगवान्रवरु हागॆ हेळुत्तारॆम्ब भाववु. 
+
+भगवच्-छब्दक्कॆ मुख्य-वृत्तियु परमात्मनल्लि; इतररल्लादरो औपचारिकवॆन्दु श्री-पराशररु मुन्दिन श्लोकगळिन्द हेळिरुत्तारॆ.-
+
+> ऐश्वर्यस्य समग्रस्य वीर्यस्य यशसश् श्रियः ।  
+ज्ञान-वैराग्ययोश् चैव षण्णां भग इतीरिणा ॥  
+वसन्ति तत्र भूतानि भूतात्मन्य् अखिलात्मनि ।  
+स च भूतेष्व् अ-शेषेषु वकारार्थस् ततो ऽव्ययः ॥  
+एवम् एष महान् शब्दो मैत्रेय भगवान् इति ।  
+परम-ब्रह्म-भूतस्य वासुदेवस्य नान्य-गः ॥  
+
+ऎम्बुदरिन्द भगवच्-छब्दवु मुख्य-वृत्तियिन्द परम-पुरुषनल्ले अन्वयवॆन्दु तिळिसिदरु. अनन्तर हेळुत्तारॆनॆन्दरॆ:- 
+
+> तत्र पूज्य-पदार्थोक्ति-परिभाषा-समन्वितः ।  
+शब्दो ऽयं नोपचारेण त्व् अन्यत्र ह्य् उपचारतः ॥  
+उत्पत्तिं प्रळयञ् चैव भूतानाम् आगतिं गतिम् ।  
+वेत्ति विद्याम् अ-विद्याञ् च स वाच्यो भगवान् इति ॥ 
+
+हीगॆ उत्पत्ति-प्रळयादिगळन्नॆल्ला तिळिद प्राज्ञन विषयदल्लि औपचारकवागि भगवच्-छब्दवु प्रयोगिसल्पडुत्तदॆन्दु हेळिरुत्तारॆ. 
+
+**श्री-वेद-व्यास-भगवान्** ऎम्बल्लिरुव भगवच्-छब्दक्कॆ ई औपचारिकार्थवॆन्दु भाविसतक्कद्दु. उत्पत्ति-प्रळयादि-शास्त्रवन्नॆल्ला कूलङ्कूषवागि चन्नागि तिळिद महा-प्राज्ञरॆम्ब भाववु. 
+
+आदुदरिन्द भगवच्-छब्दवु षरमात्मनन्नु करितु हेळुवाग अर्थवेनॆन्दरॆ षाड्गुण्य-परिपूर्णनु मत्तु हेय-गुण-रहितनॆम्ब तात्पर्यवॆन्दु मुन्दिन श्लोकदिन्द तिळिसुत्तारॆ. 
+
+> ज्ञान-शक्ति-बलैश्वर्य-वीर्य-तेजांस्य् अ-शेषतः ।  
+भगवच्-शब्द-वाच्यानि विना हेयैर् गुणादिभिः ॥ (वि. पु. ६-५-७४-७९) 
+
+**श्री-वेद-व्यास-भगवान्** ऎन्दु प्रयोगिसिरुवदरिन्द अन्तह प्राज्ञर अभिप्रायवु प्रमाणवागि विशेषादरणीयवॆम्ब भाववु द्योतितवु. 
+
+[[P236]]
+
+</details>
+
 ### निगमनम्
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**प्रपदनक्कॆ सर्व-धर्मगळ नैरपेक्ष्य-विधि-पक्षवन्नु उपसंहारमाडि हेळुत्तारॆ.** 
+
+मुन्दॆ **सर्व-धर्मान् परित्यज्य** ऎम्बल्लिरुव **परित्यज्य** ऎम्बुदु विधियाद पक्षदल्लि, प्रपदनद नैरपेक्ष्य-विधियन्नु प्रदर्शिसुत्तदॆम्ब तात्पर्यवे उचितवॆन्दु हेळि निगमन माडुत्तारॆ. 
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिय् इवऩ् भगवद्-आज्ञैयालेय् अनुष्ठिक्किऱ नित्य-नैमित्तिकङ्गळुम्,  
@@ -12255,6 +16305,27 @@ y esto **se declara** mediante el **orden contenido** en la palabra parityajya (
 इव्वळवाले सॊऩ्ऩ प्रपत्तियिऩ् नैरपेक्ष्यविधिपक्षत्तै अदऱ्कु आज्ञानुज्ञाकैङ्कर्यत्तिऩ् सम्बन्धमऱ्ऱमैयैच् चॊल्लियुबसम्हरिक्किऱार् इप्पडियिवऩित्यादियाल्।  
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पडि** - ई रीतियल्लि, **इवन्** - ई भर-न्यास-निष्ठनाद प्रपन्ननु, **भगवद्-आज्ञैयाले** 
+
+> अहर्-अहस् सन्ध्याम् उपासीत
+
+इत्य्-आदि-भगवन्तन आज्ञॆय मूलक, **अनुष्ठिक्किर** - अनुष्ठिसुव, **नित-नैमित्तिक-कैङ्कर्यगळू** मत्तु **भगवद्-अनुज्ञैयाले** भगवन्तन अनुज्ञॆयिन्द ऎन्दरॆ भगवन्तनु प्रपन्नन स्व-रूपक्कॆ योग्यवादुदॆन्दु सम्मतिसिरुवदरिन्द, **अवनुगप्पे** - आतन सुप्रीतिये, प्रयोजनवागि, **आनुष्ठिक्किर** - अनुष्ठिसुव, **एत्तमान कैङ्कर्यङ्गळुम्** - अतिशयितगळाद भागवतार्चन, आलय-निर्माण, दीपारोपण, पुष्पाहरणादि अनुज्ञा-कैङ्कर्यगळू, हीगॆ आज्ञानुज्ञा-कैङ्कर्यगळॆल्ला हेळल्पट्टवु; इवॆल्लवू, **इप्प्रपत्तियोडु** - तानु अनुष्ठिसिद भर-न्यासदॊन्दिगॆ, **तुवक्कत्तु** -  सम्बन्धविल्लदॆ, **निन्रनिलै** - इरुव स्थितियन्नु, **सर्व-धर्मान् परित्यज्य ऎङ्गिर विधानत्ताले - सर्व-धर्मान् परित्यज्य** ऎम्बुदु विधि-परवादुदॆन्दु भाविसोणदरिन्द, **सिद्धमाय्त्तु** - स्थापितवायितु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+**सर्व-धर्मान् परित्यज्य** ऎम्बुदरिन्द नित्य-नैमित्तिकगळ अनुष्ठानवु ई प्रपदनानुष्ठानक्कॆ सम्बन्धिसिदुदल्लवागि अवु अङ्गगळल्लवादुदरिन्द, अवुगळन्नु अङ्गवागि एनू अनुष्ठिसतक्कदल्लवु ऎम्ब अर्थवु द्योतितवु. आदरॆ प्रपन्ननु सम्पूर्णवागि त्यागमाडबहुदे ऎन्दरॆ, प्रपदनक्कागि एनू बेकागिल्लवादरू बेरे विधिगळिन्द अनुष्ठानवु प्राप्यवादुदरिन्द अवुगळन्नु अनुष्ठिसबेकॆन्दु एर्पट्टितु. आदुदरिन्द 
+
+> भगवद्-आज्ञैयाले अनुष्ठिक्किर नित्य-नैमित्तिकङ्गळुम् 
+
+ऎम्ब प्रयोगवु. इदन्ने मुन्दॆ **सर्व-धर्मान् परित्यज्य** ऎम्बुदक्कॆ तावु उपपादिसि हेळिद अर्थक्कॆ ऒन्दाद ई अर्थवन्नु मुन्दिन कारिकॆगळल्लि, **अनङ्ग-भावो धर्माणाम्** (कारिकॆ) ऎम्बल्लि सङ्ग्रहिसि हेळुत्तारॆ - 
+
+[[P237]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -12300,6 +16371,19 @@ ni uno debe **adquirir**, por el bien de prapatti, la habilidad o destreza
 इन्द नैरपेक्ष्यविधियाले फलिक्कुमर्थत्तैक् काट्टुगिऱार् अतश्शक्यानीति । परित्यज्य ऎऩ्बदऱ्कु नैरपेक्ष्यविधिपरत्वम् सॊऩ्ऩबडियाले, शक्यमाऩ सर्वकर्मङ्गळैयुङ् गूड प्रपत्तिक्कु अङ्गमागच् चॆय्यवेण्डियदिल्लै। अशक्यङ्गळाऩ कर्मङ्गळै प्रपत्त्यर्थमाग सम्पादिक्कवेण्डियदुमिल्लै। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अतः** - आ कारणदिन्द ऎन्दरॆ प्रपदनक्कॆ ऐदु सम्बन्धपट्ट अङ्गगळल्लदॆ इन्नु यावुदू अङ्गगळल्लवादुदरिन्द, ई परित्यज्य ऎम्बुदु प्रपदनक्कॆ अङ्ग-नैरपेक्ष्यवन्नु विधिसुत्तदॆ ऎन्दु ऒप्पिद[[??]] नन्तर, **शक्यानि सर्वाणि** - तनगॆ सामर्थ्यवुळ्ळ समर्थ-कर्मगळन्नु[[??]] **न प्रपत्त्य्-अर्थम् आचरेत्**- प्रपत्तिगॆ अङ्गवॆम्ब भावदिन्द आचरिसतक्कद्दल्लवु. इन्नु हीगॆ आचरिसतक्कद्दॆन्दरॆ फलादि-कामनॆगळिल्लदॆ भगवत्-प्रीणनार्थवागिये शास्त्र-बोधित-रीतियल्ले माडतक्कद्दॆम्ब भाववु[[??]] आज्ञा-कैङ्कर्यगळादरॆ माडिये तिरबेकु. अनुज्ञा-कैङ्कर्यवागिद्दरॆ शक्यवादवुगळन्नु माडतक्कद्दु. आदरॆ अवु प्रपदनकारि[[??]] अल्लवु. **अ-शक्येषु च** - ऒन्दु वेळॆ अवु अ-शक्यवादवुगळागिद्दरॆ अवुगळल्लि, **सामर्थ्यं** - योग्यतॆयन्नू, **तद्-अर्थम्** - आ प्रपदनक्कागियू, **न समार्जयेत्** -  सम्पादिसिकॊळ्ळबेकागिरुवदिल्लवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+कॆलवु अनुचित-कैङ्कर्यगळन्नु माडलु ऒब्ब प्रपन्ननिगॆ योग्यतॆ इरलारदु. बे[[??]] दर कष्टपट्टु योग्यतॆयन्नु सम्पादिसिकॊण्डु अनुष्ठिसोणवू; [[??]] तानु अनुष्ठिसिद भर-न्यासक्कागि बेकागिल्लवु. एकॆन्दरॆ प्रपदन[[??]] तन्न स्वन्त अङ्गगळल्लदॆ इन्नु याव अङ्गगळू तत्-कालदल्लू बेकागिल्लवु. उत्तर-कालदल्लू बेकागिल्लवु ऎम्ब तात्पर्यवु. आदुदरिन्द आज्ञा-कैङ्कर्यगळन्नु बेरॆ विधि-बल-प्राप्तवॆन्दु तद्-अनुगुणवागि अनुष्ठिसतक्कद्दु; अनुज्ञा-कैङ्कर्यगळन्नू शास्रोक्त-रीतियल्ले तनगॆ शक्यवादुवुगळन्नु आनुष्ठिसतक्कद्दु. अवुगळ फलवन्नु कोरदॆ भगवन्तनल्लि [[??]] समर्पिसिदरॆ आतनु प्रीतनागुवनु ऎम्ब भाववु. **न तद्-अर्थं समार्जयेत्** - ऎन्दु हेळिरुवदरिन्द योग्यतॆयन्नु सम्पाकॊळ्ळलेबेडवॆन्दु विधिसलिलवु. प्रपदनक्कॆ अङ्गवॆन्दु भाविसि योग्यतॆयु बेकिल्लवॆन्दु हेळिरुवदरिन्द भगवत्-प्रीणनक्कागि योग्यतॆयन्नु सम्पादिसिकॊळ्ळबहुदॆम्बुदरल्लि तात्पर्यवु. 
+
+[[P238]]
+
+</details>
 
 ## अनुवाद-पक्षे शब्दान्तर-समन्वयः
 ### मा शुचः - आकिञ्चन्यम्
@@ -12349,6 +16433,21 @@ que **confiere** competencia (adhikāra) para prapatti
 इप्पडि ‘‘परित्यज्य’’ ऎऩ्बदऱ्कु नैरपेक्ष्यविधिपरत्वयोजऩैयिल् चरमश्लोकत्तिल् अधिकारम् सॊल्वदॆव्विडत्तिलॆऩ्ऩ वरुळिच् चॆय्गिऱार् इन्द योजऩैयिलित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**ई मेलिन विधि-पक्षदल्लि आकिञ्चन्य-रूपवाद अधिकारवु तोरिबरुव स्थळवन्नु व्यक्तपडिसुत्तारॆ.** 
+
+**इन्द योजनैयिल्** - ई विध पक्षवु नैरपेक्ष्यॆयन्नु तिळिसुव सन्दर्भदल्लि **अधिकारमान** - प्रपदनक्कॆ मुख्याङ्गवाद, **आकिञ्चन्यवु, शोकियादे कॊळ्ळॆनु तोत्तुविक्किर वाक्यत्ताले - मा शुचः** ऎम्ब प्रयोगदिन्द आकिञ्चन्यदिन्द अळुत्तिरुव अधिकारियन्नु कुरितल्लवे अळबेडवॆन्दु हेळि, नन्नन्नु आश्रयिसु ऎन्दु हितवन्नु बोधिसुव वाक्यदिन्द सूचितवु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+आगलि अनुवाद-पक्षदल्लि **सर्व-धर्मान् परित्यज्य** ऎम्बल्ले आकिञ्चन्यवु तोरिबरुवदरिन्द आग **मा शुचः** ऎम्ब उपदेशवु निरर्थकवल्लवो ? अनुवाद-सामर्थ्यदिन्दले अ-शक्य-नैरपेक्ष्यवेनो सिद्धवु. शक्यगळाद नित्य-नैमित्तिकगळ अङ्गत्वेन नैरपेक्ष्यद सिद्धियु हेगॆ ? ऎन्दरॆ अदु **एक**वॆम्ब शब्ददिन्द तोरिबरुत्तदॆन्दु तिळिसुत्तारॆ.- 
+
+[[P239]]
+
+</details>
 
 ### एकम् - नैरपेक्ष्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12417,8 +16516,28 @@ y prapatti.
 परित्यज्य वर्तमानः ऎऩ्ऱु मुऩ् सॊऩ्ऩ परित्यागानुवादपक्षत्तिल् परित्यज्य ऎऩ्बदाल् आकिञ्चन्यरूपाधिकारम् सॊल्लप्पडुम्बोदु नैरपेक्ष्यम् एकशब्दत्ताले सॊल्लप्पडुमॆऩ्गिऱार् अनुवादपक्षत्तिलित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अनुवादवॆम्ब पक्षदल्लि अङ्ग-नैरपेक्ष्यवु "एक"-शब्ददिन्द तोरिबरुत्तदॆ.** 
+
+**अनुवाद-पक्षत्तिल् - परित्यज्य** ऎम्बल्लि हेळिद त्यागवु अनुवादवॆम्ब पक्षदल्लि, **तन् अ-शक्तियाले कळिन्दवैयॊळिय** - तन्न अ-शक्तियिन्द त्याग माडबहुदाद अनुज्ञा-कैङ्कर्यगळल्लदॆ, **शक्यमाय् च्चॆय्गिर** - तनगॆ अनुष्ठिसलु योग्यतॆ इद्दु माडुव, **आज्ञानुपालनादिगळुम्** - भगवद्-आज्ञॆयन्नु सल्लिसुव नित्य-नैमित्तिक मॊदलादवुगळू, मत्तु **प्रपत्तियिल् तुवक्कॊण्णादॆन्रुमिडुमुम्** - अवु प्रपत्तिगॆ अङ्ग-रूप-सम्बन्धवादुदल्लवॆम्ब विषयवू, **एकं** - नन्नॊब्बनन्ने ऎम्बल्लिरुव **एक**वॆम्ब पददिन्द, **विवक्षितमागक्कडवदु** - बोधितवागुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+**एक**-शब्ददिन्द अन्य-नैरपेक्ष्यवु व्यक्तवु ऎम्ब भाववु. नन्नॊब्बनन्ने शरण हॊन्दु ऎन्दिरुवदरिन्द इन्नु यावुदू बेकिल्लवॆम्बुदु स्पष्टवागि तोरुव, अङ्ग-नैरपेक्ष्यवु बोधिसल्पट्टितॆम्ब भाववु. ई **एक**-शब्ददिन्द लक्ष्मी-साहचर्यवु निराकरिसल्पडलिल्लवु. 
+
+</details>
 
 ### मा शुचः - उत्तरकृत्ये नैर्भर्यम्
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+आगलि ई अनुवाद-पक्षदल्लि आकिञ्चन्यवु **सर्व-धर्मान् परित्यज्य**वॆम्बुदरिन्दलू, अङ्ग-नैरपेक्ष्यवु एक-शब्ददिन्दलू, बोध्यवाद नन्तर, ई पक्षक्कॆ **मा शुचः** ऎम्ब प्रयोगवु, हागादरॆ निरर्थकवो ऎन्दाक्षेप तन्दरॆ, हागल्लवॆन्दु अदर प्रयोजनवन्नु तिळिसुत्तारॆ. **परित्यज्य** ऎम्बल्लि तोरिबन्द आकिञ्चन्यवन्ने ई **मा शुचः** ऎम्बुदु चॆन्नागि समर्थिसुवदू अल्लदॆ, प्रपन्ननिगॆ उत्तर-कालदल्लि उण्टागुव निर्भरत्व, निर्भयत्व, निस्संशयत्ववे मॊदलादवुगळॆल्ला सूचिसि अवुगळिगॆल्ला उपलक्षणवागि प्रयोगिसल्पट्टिदॆ ऎम्बुदु तोरिबरुवदरिन्द निरर्थक-प्रयोगवल्लवॆन्दु अदर प्रयोजनवन्नु उपदेशिसुत्तारॆ,-
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पक्षत्तिल् "मा शुचः" ऎऩ्गिऱ वाक्यं,  
@@ -12456,6 +16575,11 @@ que **ya ha sido expresado** (en parityajya)
 इन्द अनुवादपक्षत्तिल् परित्यज्य ऎऩ्गिऱविडत्तिलधिकारमुम्, एकशब्दत्ताल् नैरपेक्ष्यमुम् सॊल्लप्पडुगिऱदॆऩ्ऱाल् मा शुचः ऎऩ्गिऱ वाक्यम् ऎऩ् सॆय्गिऱदॆऩ्ऩवरुळिच् चॆय्गिऱार् इप् पक्षत्तिल् मा शुचः ऎऩ्गिऱ वाक्यमित्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**इप्पक्षत्तिल्** - परित्यज्यवॆम्बुदु अनुवादवॆन्दु हेळुव सन्दर्भदल्लि, **"मा शुचः" ऎङ्गिर वाक्यं** - ऎन्नुव वाक्यवु, **"सर्व-धर्मान् परित्यज्य" ऎन्रु** - ऎम्बदागि, **उक्तमान** -  हेळल्पट्ट, **अधिकारत्तै** - आकिञ्चन्याधिकारवन्नु, **व्यक्तमाक्कि कॊण्डु** - व्यक्तवागि तिळियपडिसुवदागि, 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12488,6 +16612,20 @@ después de la **actuación** de prapatti -
 <details><summary>मूलम्</summary>
 
 मेलुळ्ळ निर्भरत्वादिगळै मुऩ्ऩिट्टु उत्तरकालत्तिलिरुक्कक् कडव पडियैयॆल्लामुबलक्षिक्किऱदु।
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**मेलुळ्ळ** - प्रपत्त्य्-उत्तर-कालदल्लि उण्टागुव, **निर्भरत्वादि** - निर्भरत्व, आदि-पददिन्द निर्भयत्व-फल-प्राप्तियल्लि निस्संशयत्व--हृष्ट-मनो-भाव मॊदलादवुगळु हेळल्पट्टवु इवुगळन्नु **मुन्निट्टु** - मुन्दुमाडिकॊण्डु, ऎन्दरॆ तत्-पूर्वकगळाद, **उत्तर-कालत्तिलिरुक्कक्कडव पडियै ऎल्लाम्** - उत्तर-कालदल्लि प्रपन्ननिरुव रीतियन्नॆल्ला, **उपलक्षक्किरदु** - उपलक्षण-रीतियल्लि, बोधिसुत्तदॆ. 
+
+[[P240]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+**मा शुचः** - ऎम्बुवदु प्रपन्नाधिकारिगॆ तत्-कालदल्लिरुव आकिञ्चन्यवन्नु व्यक्तवागि समर्थिसि हेळुवदल्लदॆ, प्रपत्त्य्-अनुष्ठानद उत्तर-कालदल्लि ई अधिकारिगॆ उण्टागुव निर्भरत्व, निर्भयत्व, निस्संशयत्वादिगळिगू उपलक्षणवागि, हॆळल्पट्टवॆन्दू, भाविसबहुदु. उत्तर-कालदल्लि ई प्रपन्ननु माडुव आज्ञानुज्ञा-कैङ्कर्यगळॆल्ला परम-पुरुषन मुखोल्लासक्कागि मात्रवे अल्लदॆ इन्नु याव प्रयोजनक्कागियू अल्लवॆम्ब भावक्कू कूड उपलक्षणवॆन्दू बोधितवु. 
+
 </details>
 
 ## त्याग-विधि-पक्ष-सङ्ग्रहः
@@ -12528,6 +16666,21 @@ como sin autoridad.
 त्यागविधिपक्षत्तिल् प्रमाणविरोधमिऩ्ऱिक्के इऩ्ऩुम् सिल प्रकारमुण्डॆऩ्गिऱार् त्यागविधिपक्षत्तुक्कु इत्यादिना । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**त्याग-विधि-पक्षत्तुक्कु - परित्यज्य** ऎम्बल्लि त्यागवु विधिसल्पट्टितॆम्ब पक्षदल्लि **प्रमाण-विरोधम्** - शास्त्र-प्रमाणक्कॆ विरोधवु, **वारादपडि** - बारद हागॆ, **इन्नमुम्** - हिन्दॆ हेळिदवल्लदॆ इन्नू बेरॆ, **शिल गतिगळुण्डु** - कॆलवु योजनॆगळुण्टु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+अवु यावुवॆन्दरॆ ! मूरु कारिकॆगळ मूलक उपदेशिसुत्तारॆ.- 
+
+हीगॆ अङ्ग-नैरपेक्ष्य-विधि-पक्षवन्नु उपपादिसि मुन्दॆ त्याग-विधि-पक्षदल्लि तोरुव मूरु अर्थगळन्नु सङ्ग्रहवागि कारिकॆगळ मूलक उपदेशिसुत्तारॆ. अवु यावुवॆन्दरॆ कॆलवु कैङ्कर्यगळिगॆ ई प्रपन्ननु अ-शक्तनागिद्दरॆ, अदक्कागि प्रयत्न-त्यागवन्नू, अ-शक्ततॆय विषयदल्लि शक्तियन्नुण्टुमाडुव साधन-रूप--कर्मानुष्ठानदल्लि इच्छॆय त्यागवन्नू, उपायान्तरवाद उपासनदल्लि अन्वयद त्यागवन्नू ई त्याग-विधि-बोधिसुत्तदॆन्दु हेळलु मूरु कारिकॆगळन्नु दयपालिसि अर्थवन्नु व्यक्तपडिसुत्तारॆ. 
+
+[[P241]]
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12565,8 +16718,6 @@ junto con la vergüenza o el **remordimiento**
 debido a la propia incapacidad (de **hacerlo** por completo).
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 आत्माशक्यवृथायास निवारणमिहापि वा ।  
@@ -12578,6 +16729,25 @@ debido a la propia incapacidad (de **hacerlo** por completo).
 प्रकारान्तरङ्गळैक् काट्टुगिऱार् आत्माशक्येति । अपि वा – अथवा । इदु नैरपेक्ष्यविधियैक् काट्टिलुम् प्रकारान्तरत्वद्योतकम्। इह – इन्द परित्यज्याविल्, तऩक्कशक्यङ्गळाऩ भक्त्यादिगळिले व्यर्थमाऩ आयासत्तिऩुडैय, निष्पलमाऩ उद्योगत्तिऩुडैय ऎऩ्ऱबडि। तडङ्गल् अदावदु वेण्डामॆऩ्गिऱ निषेधम्। विवक्षिक्कप्पडुगिऱदु ऎऩ्ऱु शेषम्। इन्दप् पक्षत्तिल् परि ऎऩ्गिऱ उपसर्गत्तिऩ् फलितार्थत्तैयुम् कूट्टुगिऱार् लज्जेति । लज्जा – अशक्यत्तैयारम्बित्तु ऎल्लाम् वृथावाग आय्विट्टदे ऎऩ्गिऱ लज्जै। अदै मुऩ्ऩिट्टिरुक्कुम् चिन्तानुतापादिगळुडैय त्यागोक्तियुम्, अत्र – वृथायासत्यागत्तिल् नियम्यतां – उपसर्गमाहात्म्यत्ताले प्रवेशिक्कप्पडट्टुम्। लज्जानुतापादिगळोडु अशक्यवृथायासङ्गळै विडु ऎऩ्ऱबडि। इदु ऒरु विधिप्रकारम्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**त्याग-विधि-पक्षदल्लि तोरिबरुव अर्थान्तरगळन्नु बोधिसुत्तारॆ.** 
+
+**आत्माशक्य-वृथायास-निवारणम्, आत्म** - तनगॆ, **अ-शक्य** - अ-शक्यगळाद कैङ्कर्यगळल्लि, **वृथायास** - प्रयोजनविल्लद आयासद, **निवारणं वा** - त्यागवागलि, **इहापि** - ई सन्दर्भदल्लू कूड, **लज्जा-पुरस्सर--त्याग-वादो ऽपि** - नाचिकॆयन्नु मुन्दुमाडिकॊण्डु, ऎन्दरॆ मॊदलु प्रारम्भिसि, मुगिसलु योग्यतॆ इल्लदिरुवदरिन्दुण्टाद लज्जा-पुरस्सरवागि बिडतक्कद्दॆम्ब वादवन्नू कूड, इदु परित्यज्य ऎम्बल्लिरुव परि ऎम्ब उपसर्गद अर्थवु, **अत्र** - ई सन्दर्भदल्लि ऎन्दरॆ तनगॆ अ-शक्यवादवुगळन्नु अनुष्ठिसुव वृथायासपडुव सन्दर्भदल्लि, **नियम्यताम्** -  आङ्गीकरिसबहुदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इतररु स्व-रूप-त्यागवन्नु, **परित्यज्य** ऎम्बुदु बोधिसुत्तदॆन्दू आ सन्दर्भदल्लि, लज्जॆ, अनुताप, रुचि, वासना, भय, इवुगळॊन्दिगॆ त्यागमाडतक्कद्दॆन्दू हेळिदुदन्नु हीगॆ तनगॆ अ-शक्यगळाद कैङ्कर्यगळल्लि मात्रवॆन्दु इट्टुकॊण्डरॆ बाधकवेनू इल्लवॆम्ब भाववु. **सर्व-धर्मान्** ऎम्बुदक्कॆ ऎल्ला धर्मगळॆन्दु अर्थ माडि अवुगळ स्व-रूप-त्यागवॆन्दू, मत्तु अवुगळल्लि लज्जा अनुतापादिगळ त्यागवॆन्दू अर्थमाडिदरॆ आगीग प्रमाणगळिगॆ बाधकवॆम्ब भाववु. हीगॆ ऒन्दु अर्थवन्नु हेळबहुदु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+**अर्थ** - इन्नॊन्दु आभिप्रायवन्नु तिळिसुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12626,6 +16796,29 @@ como un hombre **ahogándose** **atrapándose** una caña o una brizna de hierba
 प्रकारान्तरत्तै यरुळिच्चॆय्गिऱार् सुदुष्करेष्विति । सुदुष्करेषु स्वदुष्करेष्विति वा पाठः । स्वदुष्करेषु धर्मेषु – तऩक्कुअत्यन्ताशक्यङ्गळाऩ भक्त्यादिगळिले, कुशकाशावलम्बतः – प्रवाहत्तिलडित्तुक्कॊण्डु पोगिऱ ऒरुवऩ् करैयिलुळ्ळ दर्भत्तैयावदु नाणलैयावदु पिडित्तुक् कॊण्डु करैयेऱिविडलामॆऩ्ऱु ऎण्णुवदु पोलुळ्ळ, आशालेशानुवृत्तिर्वा – योगाङ्गमाऩ प्राणायामत्तै साधिप्पोम्; आसनजयत्तैप् परिसयम् पण्णुवोमॆऩ्गिऱ आशालेशत्तिऩुडैय अनुवृत्तियाऩदु, त्यागोक्त्या विनिवार्यते – परित्यज्य ऎऩ्गिऱविडत्तिलुळ्ळ त्यागविधियाले निवारिक्कप्पडुगिऱदु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**स्व-दुष्करेषु** - तनगॆ अत्यन्त-कष्टगळाद, **धर्मेषु** - अष्टाङ्गगळिन्द कूडिद योगाभ्यासगळल्लि, **कुश-काशावलम्बतः** - महा-प्रवाहदल्लि कॊच्चि होगुत्तिरुववनु प्राण-संरक्षणॆगागि अल्ले हत्तिर बॆळॆदिरुव दर्भॆयन्नागलि हुल्लन्नागलि हिडिदुकॊण्डरॆ हेगॆ कार्य-कारियागुवदिल्लवो, हागॆये तन्निन्द अ-शक्यगळाद प्राणयामादि अष्टाङ्ग-युक्त--भक्ति-योगावलम्बनदिन्द साधिसुवॆनॆन्दु निरर्थकवाद उपाय-सङ्ग्रहदिन्द **आशा-लेशानुवृत्तिर् वा** - हेगादरू माडि अभ्यास-मूलक साधिसुवनॆम्ब स्वल्प आशॆयु अनुसरिसि बरोणवागलि. **त्यागोक्त्या** - ई **"परित्यज्य"** ऎम्ब त्याग-प्रयोगदिन्द, **विनिवार्यते** - निरोधिसल्पडुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+प्रवाहदल्लि कॊच्चिहोगुत्तिरुववन्नु कॊच्चिहोगुत्तिरुवाग अल्लि हत्तिर बॆळदिरुव दर्भॆ हुल्लन्नु हिडिदुकॊण्डरॆ तन्न रक्षण-रूप इष्ट-सिद्धि हेगॆ इल्लवो, अदे न्यायदिन्द तनगॆ अ-साध्यवाद अष्टाङ्ग-युक्तवाद भक्ति-योगवन्नु अवलम्बिसि साधिसुत्तेनॆम्ब आशा-लेशवन्नु कूड त्यागमाडि ऎन्दादरू अर्थमाडबहुदॆम्ब भाववु. 
+
+[[P242]]
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+मूरनॆय अभिप्रायवन्नु तिळिसुत्तारॆ.- मुव्वत्तॆरडु ब्रह्म-विद्यॆगळु उपपादिसल्पट्टिवॆ. अवुगळल्लि यावुदादरू ऒन्दन्नु उपायवागि अनुष्ठिसिदरू मोक्षवॆन्दु 
+
+> विकल्पो ऽविशिष्ट-फलत्वात् 
+
+ऎम्ब ब्रह्म-सूत्रदल्लि उपपादिसल्पट्टिरुत्तदॆ. दहर, शाण्डिल्यादि-विद्यॆगळल्लि यावुदादरू ऒन्दन्नु अवलम्बिसिदरू मोक्ष-फल उण्टागुवदरिन्द, इवुगळिगॆ परस्पर-नैरपेक्ष्यवु उण्टु. हागॆये प्रपत्तिगू सह इन्नु याव ब्रह्म-विद्यॆगळ नैरपेक्ष्यवू उण्टु. आदुदरिन्द, आ ब्रह्म-विद्यॆगळल्लि हेळिरुवदन्नु यावुदन्नागलि प्रपदनदॊन्दिगॆ अनुष्ठिसिदरॆ ब्रह्मास्त्र-न्यायद प्रकार प्रपदनवु व्यर्थवागुत्तदादुदरिन्द आ ब्रह्म-विद्यॆगळल्लि हेळिरुव यावुदन्नु ई प्रपदनदॊन्दिगॆ उपयोगिसबारदॆन्दु ई **परित्यज्य** ऎम्बल्लिन त्याग-विधियु बोधिसुत्तदॆन्दु मुन्दिन कारिकॆयिन्द बोधिसुत्तारॆ. **ब्रह्मास्त्र-न्यायवु** यावुदॆन्दरॆ - इन्द्र-जितुवु आञ्जनेयनॊन्दिगॆ युद्ध माडि याव आयुध-प्रयोगवु कार्य-कारियागदिरलु आञ्जनॆयन मेलॆ ब्रह्मास्त्रवन्नु प्रयोगिसिदनु चतुर्-मुखन अस्त्रवादुदरिन्द अदक्कॆ मर्यादॆयन्नु माडुवदु तनगॆ स्व-रूपवॆन्दु भाविसि आञ्जनेयनु अदर बन्धक्कॆ ऒळपट्टु कॆळगॆ बिद्दनु. इदन्नु नोडि इन्द्र-जित्तिन परिजनरु बन्दु शणबु हग्गदिन्द कनुमन्तनन्नु बिगिदरु. इदु ब्रह्मास्त्रक्कॆ अवमार्यादॆयादुदरिन्द आ बन्धवु बिट्टुहोयितु. हागॆये ब्रह्मास्त्र-रूपदल्लिरुव भगवन्तनल्लि माडिद प्रपदनवु मोक्षवन्नु हॊन्दिसुव शक्तियुळ्ळदु. हीगिरुवाग इतर-ब्रह्म-विद्यॆगळिगॆ सेरिद अंशगळन्नु इदक्कॆ सेरिसिदरॆ महा-विश्वास-शैथिल्यदिन्द, आ प्रपदनद स्व-रूपक्कॆ कुन्दक उण्टागि, प्रपदनवु अन्तवनिगॆ सिद्धिसदु ऎम्ब तात्पर्यवु. आदुदरिन्द अन्तह इतर-ब्रह्म-विद्यॆगळिगॆ सम्बन्धिसिदवॆल्लवन्नू परित्याग माडतक्कद्दॆन्दु **परित्यज्य** ऎम्बल्लिन त्याग-विधियु बोधिसुत्तदॆन्दु ई मूरनॆय कारिकॆयिन्द तिळिसुत्तारॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -12686,6 +16879,34 @@ si también se **adopta** cualquier otro upāya.
 तृतीयं प्रकारमाह अविशिष्टफलत्वेनेति । विलक्षणफलमिल्लामैयाले, फलैक्यात् ऎऩ्ऱबडि। यः विकल्पः - यादॊरु दहरादिविद्यानां विकल्पः, (परस्परनिरपेक्ष फलसाधनत्वमाऩदु) सूत्रितः – ‘‘विकल्पोऽविशिष्टफलत्वात्’’ ऎऩ्ऱु सूत्रत्तिऩाले सॊल्लप्पट्टदो, तन्मुखेन – विगल्बिदमाऩ विद्यान्तरमुखेन, अदावदु अल्पकालसाध्यमाऩ प्रपत्तियाले मोक्षम् वरुमो ऎऩ्गिऱ शङ्गैयाल् उपायान्तरत्तैक् कूट्टुगैयाले, अत्र – प्रपत्तिविषयत्तिल्, ब्रह्मास्त्रन्यायसूचनमिति । विवक्षितमिति शेषः । अदावदु परस्परनिपेक्षङ्गळागच् चॊल्लप्पट्ट विद्यैकळुक्कुळ् ऒऩ्ऱाऩ प्रपत्तिरूपन्यासविद्यैयिल् क्षणकालसाध्यतया फलसाधनत्वशङ्गैयाले विद्यान्तरङ्गळैक् कूट्टिऩाल् ब्रह्मास्त्रन्यायत् ताले इन्द प्रपत्ति नऴुवि विडुमागैयाले अप्पडि इतरधर्मङ्गळैक् कूट्टादे, विडु ऎऩ्गिऱदु परित्यज्य ऎऩ्गिऱ पदमॆऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अ-विशिष्ट-फलत्वेन** -  ब्रह्म-विद्यॆगळिगॆल्ला फलवॆल्ला ऒन्देयागि फलदल्लेनू व्यत्यासविल्लदुदरिन्द, **यः** -  याव, **विकल्पः** - विद्यॆगळल्लि यावुदादरू ऒन्दु आगबहुदॆम्ब विकल्पवु, **सूत्रितः** - 
+
+> विकल्पो ऽविशिष्ट-फलत्वात् (ब्र. सू. ३.३.५९) 
+
+ऎम्ब ब्रह्म-सूत्रदल्लि हेळल्पट्टितो, **तन्-मुखेन** - आ न्यायद मूलकवागि, **ब्रह्मास्त्र-न्याय-सूचितम्** - ई न्यायवु श्रीमद्-रामायण--सुन्दर-काण्डदल्लि उपपादितवु. 
+
+[[P243]]
+
+> स बद्धस् तेन वल्केन विमुक्तो ऽस्त्रेण वीर्यवान् ।  
+अस्त्र-बन्धस् स चान्यं हि न बन्धम् अनुवर्तते ॥ (४८-४९) 
+
+ब्रह्मास्त्रवु इन्नु याव बेरॆ बन्धनवन्नू अनुवर्तिसिकॊण्डु इरुवदिल्लवष्टे ! ऎन्दरॆ बेरॆ बन्धनवु तनगॆ अवमर्यादॆयॆन्दु भाविसि ब्रह्मास्त्रवु इन्नू याव अस्त्रदिन्दलू प्रतिहति इल्लदिद्दरू, अन्य-बन्धवन्नु प्रयोगिसिदरॆ अदर माहात्म्यॆगॆ कुन्दकवागि अदु बिट्टुहोगुत्तदॆम्ब भाववु हागॆये प्रपदनवू इतर उपायगळ सम्बन्धदिन्द कार्य-कारियागदॆ विफलवागबहुदु, एकॆन्दरॆ आकिञ्चन्य-महा-विश्वासगळु इल्लवादुदरिन्द. आदुदरिन्द प्रपदननिष्ठनु इतर-ब्रह्म-विद्यॆगळन्नवलम्बिसुवॆनॆन्दु प्रवर्तिसकूडदु. आञ्जनेयन मेलॆ प्रयोगिसिद ब्रह्मास्त्रवु व्यर्थवादन्था न्यायवन्नु सूचिसोणवु **अत्र** - ई परित्यज्य ऎम्बल्लिन त्याग-विधिगॆ अर्थ हेळुवदरल्लि, **इष्टम्** - इष्टवादुदे, शास्त्र-सम्मतवादुदे ऎम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+विकल्पदिन्द हेळल्पट्ट ३२ विद्यॆगळल्लि यावुदन्नादरू इदरॊन्दिगॆ सेरिसिदरॆ आग ब्रह्मास्त्रवु हेगॆ शणबु हग्गदिन्द निरर्थकवायितो हागॆये प्रपदनवू निरर्थकवागुत्तदॆ. आदुदरिन्द हागॆ विकल्पिसि हेळिद याव ब्रह्म-विद्यॆय सम्बन्धवू कूडदादुदरिन्द अवुगळन्नु त्याग माडतक्कद्दॆन्दु ई त्याग-विधियु तिळिसुत्तदॆ ऎम्ब भाववु. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - अवतारिका</summary>
+
+ई मूरु कारिकॆगळिन्दलू बोधितांशवन्नु सङ्ग्रहवागि तिळिसुत्तारॆ.- 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12719,6 +16940,11 @@ le **dice** **“No lo hagas”**.
 आत्माशक्येत्यादिश्लोकङ्गळिऱ्सॊऩ्ऩ त्यागविधिकळै विधिप्रत्ययघटितमाऩ वाक्यत्रयत्ताले काट्टुगिऱार् अशक्यत्तिले प्रवृत्तऩैत् तविरॆऩ्गैयुमित्यादिना । तविर् - त्यज ऎऩ्ऱर्थम्। इदु वेण्डा इदै विट्टुविडु, परित्यज ऎऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**अ-शक्यत्तिले** - तनगॆ अ-साध्यवाद कर्मगळल्लि, **प्रवृत्तनै** - प्रवृत्तियुळ्ळवनन्नु, **तविर ऎन्गैयुम्** - अदन्नु बिट्टुबिडु ऎन्दु विधिसुवदू, इदु ई मूरु कारिकॆगळल्लि मॊदलिन कारिकॆय अर्थवु. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12750,6 +16976,14 @@ it **says**, "**Give up** this **determination**".
 <details><summary>मूलम्</summary>
 
 तऩक्कु दुष्करङ्गळाय्क् कऴिन्दु निऱ्किऱवऱ्ऱिले अभिनिवेशमुडैयवऩै इदु वेण्डावॆऩ्गैयुम्,
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+**तनक्कु** - प्रपन्ननाद तनगॆ, **दुष्करङ्गळिल्** - तनगॆ अ-साध्यवाद कर्मगळल्लि **अभिनिवेशमुडैयवनै** - सङ्कल्प माडिरुववनिगॆ **इदु वेण्डा वॆन्गैयुम्** - आ कर्मगळु निनगॆ बेडवॆन्दु हेळुवदरल्लू, 
+
+[[P244]]
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12805,6 +17039,15 @@ le **dice** que,
 ऒऩ्ऱैयिङ्गे कूट्टिल् ब्रह्मास्त्रन्यायत्ताले विरोधिक्कुमिति । कूट्टिऩाल् ब्रह्मास्त्रन्यायत्ताले विरोधम् वरुमागैयाल् कूट्टादे, परित्यज, ऎऩ्गिऱ विधियिले तात्पर्यमॆऩ्ऱबडि। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**विकल्पित्त उपायान्तरङ्गळिले** - प्रपदनवल्लदॆ विकल्पिसि हेळिद ३२ विध ब्रह्म-विद्यॆगळल्लि, **ऒन्नै** - ऒन्दन्नु, **इङ्गे कॊट्टिल्** - ई प्रपत्त्य्-अनुष्ठानदॊन्दिगॆ सेरिसिदरॆ, **ब्रह्मास्त्र-(बन्ध)-न्यायत्ताले** - आञ्जनेयनन्नु बन्धिसिद ब्रह्मास्त्रवु, बेरॆ शणबु हग्गदिन्द बन्धिसिदाग हेगॆ अवमानितवागि निरर्थकवायितो, आ न्यायद प्रकार, **विरोधिक्कु मॆन्रु** - विरोधिसुत्तदॆ ऎन्दु, **कळिक्कैयुम्** - उपायान्तरगळाद ब्रह्म-विद्यॆगळन्नु त्यागमाडतक्कद्दॆम्बुदु, **विधि-प्रकारङ्गळ्** - 
+
+> सर्व-धर्मान् परित्यज्य 
+
+ऎम्बुदु विधियॆम्ब भावनॆयिन्द उण्टागुव अभिप्राय-प्रकारगळु. हीगॆ हिन्दॆ मूरु कारिकॆगळिन्द हेळिद अर्थगळन्ने इल्लि क्रमवागि सङ्ग्रहिसि तिळिसिदरु. 
+
+</details>
 
 ## सङ्ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12870,6 +17113,33 @@ que **no están** dentro del poder de uno
 सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कुत् तामरुळिच्चॆय्द अर्थङ्गळैयॆल्लाम् इरण्डु कारिगैगळाले शिष्यबुद्धिसौकर्यार्थमाग क्रमेण सङ्ग्रहित्तुक् काट्टुगिऱार् अतोऽशक्ताधिकारत्वमित्यादिना । अतः – शास्त्राविरुद्धमाऩ विधिप्रकारङ्गळैक् काट्टिऩबडियाल्, अशक्ताधिकारत्वं – सर्वधर्मान् परित्यज्य वर्तमानः ऎऩ्गिऱ अनुवादपक्षत्तिल् प्रपत्तिक्कु अशक्ताधिकारित्वमुम्, विधिपक्षत्तिल्, आकिञ्चन्यपुरस्क्रिया – आकिञ्चन्यत्तिऩुडैय पुरस्करणम्, अदावदु आकिञ्चन्यानुसन्धानात्मक कार्पण्यरूपाङ्गविधानमॆऩ्ऱबडि। अनङ्गभावो धर्माणां – स्ववर्णाश्रमधर्मङ्गळै प्रपत्तिक्कु अङ्गमागक् कॊळ्ळामल् परित्यजऎऩ्ऱबडि। अशक्यारम्भवारणं — अशक्यङ्गळिल् कुशकाशा-वलम्बनन्यायत्तालुम् प्रवृत्तियादे विडु। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**हिन्दॆ सर्व-धर्मान् परित्यज्य ऎम्बुदक्कॆ हेळिद अर्थगळन्नॆल्ला सुखवागि ज्ञापकदल्लिडलु ऎरडु कारिकॆगळन्नु अनुग्रहिसुत्तारॆ.**
+
+**अतः** - आ कारणदिन्द ऎन्दरॆ नावु हिन्दॆ 
+
+> सर्व-धर्मान् परित्यज्य 
+
+ऎम्बुदक्कॆ अर्थगळन्नु उपपादिसिद अनुसन्धानक्कागि, 
+
+> सर्व-धर्मान् परित्यज्य 
+
+ऎम्बुदन्नु अनुवादवॆन्दु भाविसिदरॆ उण्टागुव ऒन्दर्थवन्नू, विधि ऎन्दु भाविसिदरॆ प्राप्तवागुव ऐदु अर्थगळन्नू हीगॆ आरर्थगळन्नु सङ्ग्रहिसि हेळुत्तारॆ:- (१) **अ-शक्ताधिकारत्व** - अ-शक्ताधिकारवन्नु ई सन्दर्भदल्लि **सर्व-धर्मान् परित्यज्य स्थितः** ऎन्दु इट्टुकॊण्डु माडिद अर्थवु; उपायान्तरगळ मत्तु अवुगळ अङ्गगळ नैराश्ववू परिशब्ददिन्द नैराश्यातिशय-बोधितवागित्तादुदरिन्द, अ-शक्याधिकार-भाववु. विधि-प्रकारवागि ऐदु आर्थगळु:- 
+
+(२) **"आकिञ्चन्य-पुरस्-क्रिया** - अकिञ्चन्य-प्रतिसन्धान-पूर्वकवागि त्यागमाडु ऎम्बर्थवु; निनगॆ कर्म-योग--ज्ञान-योग--भक्ति-योगगळन्नु अनुष्ठिसलु योग्यतॆ इल्लदॆ अ-किञ्चनवागिरुवदरिन्द, नीनु **शरणं व्रज** ऎम्बर्थवु; कार्पण्य-पूर्वकदिन्द त्यागमाडि ऎम्बर्थवु. **"अहम् अस्य पराधानां" "न धर्म-निष्ठो ऽस्मि"** इत्य्-आदिगळिन्द बोधितार्थवु.
+
+[[P245]]
+
+(३) **अनङ्ग-भावो धर्माणां** - नित्य-नैमित्तिकादि-धर्मगळ आवश्यकतॆयु इतर उपायगळाद ब्रह्म-विद्यॆगळिगॆ अङ्गवागिरुव हागॆ ई प्रपत्तिगॆ अवुगळ अङ्ग-भाववु बेकिल्ल ऎम्ब भाववु. आदरॆ अवुगळु प्रपन्ननिगॆ बेडले बेडवो ? ऎन्दरॆ ईतनिगॆ अन्य-विधिगळाद 
+
+> अहर्-अहस् सन्ध्याम् उपासीत 
+
+इत्य्-आदिगळिन्द प्राप्तवादुदरिन्द अवु अवश्यानुष्ठेयगळु. आदुदरिन्द ई नित्य-नैमित्तिकगळ अङ्गगळागिरुव नैरपेक्ष्यवु विधिसल्पट्टितु. प्रपन्ननिगॆ स्नान-सन्ध्या-वन्दनादिगळु बेकिल्लवॆम्ब वादवु निरस्तवु. 
+
+(४) **अ-शक्यारम्भ-वारणम्** - अ-शक्यवादवुगळल्लि प्राज्ञतॆ इल्लदॆ आरम्भिसबेडवॆम्ब त्याग-विधियु. कर्म-योग--ज्ञान-योग--भक्ति-योगादिगळु तनगॆ अ-शक्यवादवुगळॆन्दु तोरिबन्दरॆ अवुगळन्नु त्याग माडि भर-न्यासवन्नु अवलम्बिसबहुदॆम्ब भाववन्नु तोरिसुत्तदॆ. 
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12917,6 +17187,19 @@ que **son aprobados** por los sabios
 तत्प्रत्याशाप्रशमनं – प्रवृत्तियिल्लाविट्टालुम् अदै कथञ्चित् साधयेयम् ऎऩ्गिऱ यादॊरु आसैयुण्डो अदैयुम् विडु। अशक्यङ्गळिल् आशापर्यन्तमाऩ परित्यागत्तैप्पण्णु ऎऩ्ऱबडि। ब्रह्मास्त्रन्यायसूचनं – विगल्बिदमाऩ उपायान्तरङ्गळै इत्तोडु सेर्त्तु अनुष्ठित्ताल् ब्रह्मास्त्रन्यायत्ताले इरण्डुम् व्यर्थमागुमागैयाल् इतरोपायत्तै इत्तोडु कूट्टादे परित्यज्यऎऩ्ऱबडि। सर्वधर्मेति । सर्वधर्मपरित्यागविषयकशब्दः सर्वधर्मान् परित्यज्य ऎऩ्गिऱ शब्दमॆऩ्ऱबडि। इवैगळ् अन्द शब्दत्तिऩर्थङ्गळाग साधुक्कळाले निर्णयिक्कप्पट्टदुगळ्। 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+(५) **तत् प्रत्याशा-प्रशमनं** - अवुगळु अ-शक्यगळु ऎन्दु तोरिद्दरू, एनो प्रयत्न माडि नोडोणवॆम्ब आशॆयन्नु कूड त्याग माडु ऎम्ब विधियु तोरिबरुत्तदॆम्ब तात्पर्यवु. ईगेनो अ-शक्ततॆयिन्द भर-न्यासमाडिद्दायितु. कर्म-योगादिगळिन्द कूडिद उपासनॆयन्नु माडि नोडोणवॆम्ब आशॆयन्नू सह त्यागमाडतक्कद्दॆम्ब भाववु. 
+
+(६) **ब्रह्मास्त्र-न्याय-सूचनम्** - मॊदलु भर-न्यासवन्नु अनुष्ठिसिबिट्टु, अनन्तर इतरोपायवन्नु अनुष्ठिसुव यत्न माडिदरॆ आञ्जनेयन मेलॆ इन्द्र-जितु प्रयोगिसिद ब्रह्मास्त्रवु शण-वल्कल-बन्धदिन्द हेगॆ निरर्थकवादुदायितो, हागॆये भर-न्यासवु निष्-प्रयोजनवागुवदरिन्द, आ ब्रह्मास्त्र-न्यायद प्रकार अवुगळ त्यागवु विधिसल्पट्टितु ऎम्ब भाववु. 
+
+हीगॆ **सर्व-धर्म-परित्यागार्थाः** - ई आरु अर्थगळु **सर्व-धर्मान् परित्यज्य** ऎम्बल्लि तोरुव अर्थगळॆम्बुदु **साधु-सम्मताः** - प्राज्ञरिगॆ सम्मतवादवुगळु. हीगॆ हेळिरुवदरिन्द इतररु हेळुव विधेयगळाद धर्मगळ स्व-रूपतः त्यागवॆम्बर्थवु साधु-सम्मतवादुदल्लवॆन्दु हेळिदन्तायितु. स्नान-सन्ध्या-वन्दनादिगळन्नु स्व-रूपतः त्यागमाडबहुदॆम्ब अर्थवु सार्वात्मना कूडुवदिल्लवॆम्ब भाववु. 
+
+[[P246]]
+
+आगलि देवतान्तरगळ आराधन-रूप-धर्मगळ स्व-रूपतः त्यागवॆन्दु हेळुवदु समञ्जसवल्लवो ? अवुगळु कूडदष्टे ? ऎन्दरॆ ई अर्थवेनो समञ्जसवादुदे. आदरॆ ऎरडु विध उपायगळ विषयदल्लू ई अर्थवन्नु हेळबहुदाद प्रयुक्त ई भर-न्यासवन्नु कुरितु हेळुव सन्दर्भदल्लि आ अर्थवु उपयुक्तवादुदल्लवु. एकॆन्दरॆ कर्म-योगादिगळिन्द कूडिद भक्ति-योगवाद उपायान्तरवु व्यावर्तिसल्पडदे इरुवदरिन्द ऎन्दु मुन्दिन कारिकॆयन्नु अनुग्रहिसुत्तारॆ.
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -12968,6 +17251,15 @@ esta **interpretación es inapropiada** aquí
 सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कु देवतान्तरसम्बन्धिधर्मत्यागविधिपरत्वम् सॊल्ललागादोवॆऩ्ऩ अप्पडिच्चॊल्वदु विरुद्धमिल्लाविडिलुम् देवतान्तरधर्मत्यागम् उपासकऩुक्कुम् तुल्यमागैयाल् अदै प्रपत्त्यङ्गमाग विधिप्पदिल् प्रयोजनविशेषमिल्लामैयाल् देवतान्तर धर्मत्यागविधि इङ्गु सङ्ग्रहिक्कप्पड विल्लैयॆऩ्गिऱार् देवतान्तरेत्यादि । 
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+**विधि ऎम्ब पक्षदल्लि बेरॆ अभिप्रायवन्नु अनुवादमाडि अदु इल्लिगॆ उपयुक्तवादुदल्लवॆन्नुत्तारॆ.**
+
+**देवतान्तर-धर्मादि-त्यागोक्तिः** - ब्रह्म-रुद्रेन्द्रादिगळाद अन्य-देवताराधनवे मॊदलाद धर्मगळन्नु त्यागमाडबेकॆम्ब विधिय हेळिकॆयु, **अ-विरोधिनी** - यद्य् अपि **सर्व-धर्मान् परित्यज्य** ऎम्बुदक्कॆ विरुद्धवल्लद अर्थवादरू, ऎन्दरॆ आ अर्थदल्लि शास्त्र-विरुद्धवादुदु एनू इल्लदिद्दरू, आ अर्थवु उपयुक्तवादुदल्लवॆन्दु उत्तरार्थदिन्द हेळुत्तारॆ. इल्लिरुव आदि-पददिन्द काम्य-व्रतादिगळु हेळल्पट्टवु. हागॆ शास्त्र-विरुद्धवल्लदॆ शास्त्र-सम्मतवागिद्दरू, **उपासके ऽपि** - उपायान्तरवाद भक्ति-योग-निष्ठनल्लू कूड, **तुल्यत्वात्** - आ अभिप्रायवु समवादुदरिन्द ऎन्दरॆ, उपासकनू कूड अन्य-देवताराधन-धर्मगळन्नु बिडबेकागि ई त्याग-विधियु इब्बरिगू समनादुदरिन्द, **इह** - ई आकिञ्चन्याधिकारियाद भर-न्यास-निष्ठनन्नु हेळुव सन्दर्भदल्लि, **सा** - देवतान्तर-धर्मगळ त्याग-विधियु, **न विशेषिका** - उपासन-रूपोपायवन्नु व्यावर्तिसि, भर-न्यास-विषयदल्लि एनन्नू विशेष-विधियागि बोधिसुवदिल्लवु. आ कारणदिन्द ई अर्थवु अ-प्रस्तुतवागि अनुपादेयवॆन्दु तिळिसिदरु. 
+
+[[P247]]
+
+</details>
 
 ## वचनान्तर-निर्वाहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13025,6 +17317,33 @@ esta **interpretación es inapropiada** aquí
 ननु लक्ष्मीतन्त्रत्तिल् ‘‘उपायापायसन्त्यागी मध्यमां वृत्तिमाश्रितः । मामेकं शरणं प्राप्य मामेवान्ते समश्नुते’’ ऎऩ्गिऱविडत्तिल् शरणागत्यङ्गमागच् चॊऩ्ऩ स्वरूपतस्त्याज्यमाऩ निषिद्धत्तिऩुडैय त्यागसमभिव्याहृतोपायत्यागमुम् स्वरूपतस्त्यागमागवेगॊळ्ळवेण्डुमागैयाल् तदनुरोधेन इङ्गु सर्वधर्मपरित्यागमुम् स्वरूपत्यागमाग आगवेण्डावो ऎऩ्ऩ वरुळिच्चॆय्गिऱार् उपायापायसन्त्यागीत्यादिगळिऱ्सॊऩ्ऩ इति । इप् प्रकारङ्गळिले निर्वाह्यमिति । उपायापायसन्त्यागी ऎऩ्गिऱविडत्तिल् अपायत्यागम् स्वरूपत्यागपरमाऩालुम् बहुप्रमाणविरुद्धमागैयाले उपायत्यागम् कीऴ्च्चॊऩ्ऩ प्रकारम् निर्वाह्यमॆऩ्ऱु करुत्तु।
 </details>
 
+<details><summary>विजय-राघवः (क)</summary>
+
+आदरॆ, लक्ष्मी-तन्त्रदल्लि लक्ष्मियिन्द प्रश्निसल्पट्टु भगवन्तनु हेळुव वाक्यवाद 
+
+> उपायापाय-सन्त्यागी मध्यमां वृत्तिम् आस्थितः ।  
+माम् एकं शरणं प्राप्य माम् एवान्ते समश्नुते ।  
+षड्-अङ्गन् तम् उपायञ् च शृणु मे 
+
+ऎम्बल्लि ई आर्थवे तोरुव हागॆ इदॆयल्ला ? अल्लि त्याग-शब्दवन्नु हेगॆ निर्वहिसतक्कद्दु ? ऎन्दरॆ मेलॆ नावु उपपादिसिद रीतियल्ले निर्वाहमाडतक्कद्दॆन्दु मुन्दिन वाक्यदिन्द तिळिसुत्तारॆ. हेगॆन्दरॆ ? उपायगळन्नु सन्त्यज्यवॆन्दरॆ अनुवादार्थवागियागलि अथवा नैरपेक्ष्यादि अर्थगळन्नागलि हेळि निर्वाह माडबहुदॆन्दु तिळिसुत्तारॆ. स्व-रूप-त्याग अर्थवु इल्लियू हेळल्पडलिल्लवु. एकॆन्दरॆ चरम-श्लोकदल्लि हेळल्पट्ट अभिप्रायगळे इल्लियू हेळल्पट्टिवॆ. ऎरडक्कू परस्पर ऐककण्ठ्य उण्टे विना विरुद्धार्थगळु ऎन्दिगू इल्लवु. **"उपायापाय-सन्त्यागी"** 
+
+> इतर उपपायगळन्नू अपायगळन्नू सह त्यागमाडि 
+
+**इत्य्-आदिगळिर् च्चॊन्न** ऎम्बिवे मॊदलादवुगळल्लि हेळल्पट्ट उपायत्यागवू, **इप्प्रकारङ्गळिले** - ईग नावु कारिकॆगळ मूलकवू, हिन्दॆ उपपादनॆय मूलकवू तिळिसिद अनुवाद मत्तु नैरपेक्ष्य अभिप्रायगळिन्द, **निर्वाह्यम्** - निर्वहिसतक्कद्दागिरुत्तदॆ. 
+
+</details>
+
+<details><summary>विजय-राघवः (क) - तात्पर्यम्</summary>
+
+इल्लि **इत्य्-आदि** ऎम्बल्लिरुव आदि-पददिन्द ई चरम-श्लोकार्थ उपपादन-रूपवागि इतिहासदल्लिरुव प्रमाणगळाद, 
+
+> तस्मात् त्वम् उद्धवोत्सृज्य चोदनां प्रतिचोदनाम्
+
+इत्य्-आदिगळु हेळल्पट्टवु. इल्लि अपायवु यावुदु ऎन्दरॆ अनुष्ठिसिद प्रपत्तिगॆ विघात-करवादुदु; आदु यावुदॆन्दरॆ ननगॆ कर्म-योगक्कू शक्तियिल्लवु, ज्ञान-योगक्कू शक्ति इल्लवु, आदुदरिन्द भक्ति-योगक्कू शक्ति इल्लवु; आदुदरिन्द नानु अ-किञ्चनु अनन्य-गतिकनु ऎन्दु हेळिकॊण्डु शरणागतियन्ननुष्ठिसि, अनन्तर कर्म-योगादिगळन्नु अनुष्ठिसुवॆनु ऎन्दु आरम्भिसुवदु; आञ्जनेयनन्नु ब्रह्मास्त्रदिन्द कट्टि अनन्तर शणबु हग्गदिन्द कट्टिद तॆरदि, मॊदलु अनुष्ठिसिद शरणागतिगॆ अपायवु सम्भविसुत्तदॆ; आदुदरिन्द आन्तह अपाय उण्टागुव कर्मगळन्नु त्याग माडि ऎम्बर्थवु. 
+
+[[P248]]
+
+</details>
 
 
 ## उपसंहारः
@@ -13092,8 +17411,6 @@ Yo **perdonaré** todos tus pecados":
 **Ensalcemos** las grandes y buenas cualidades del santo Śrī Kṛṣṇa quien **pronunció** estas palabras.
 </details>
 
-
-
 <details><summary>मूलम् (त॰प॰)</summary>
 
 मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
@@ -13102,15 +17419,33 @@ Yo **perdonaré** todos tus pecados":
 पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆऩ्ऱ पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. ॥ 42 ॥
 </details>
 
-
-
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कुत्  
 ताम् सॊऩ्ऩ आऱु अर्थङ्गळैयुम् व्युत्क्रमेण अनु-वदित्तुक्कॊण्डु एतादृशपरित्यागपूर्वकमाग नी ऎऩ्ऩै शरणमडैन्दाल् उऩ्ऩुडैय सर्वपापङ्गळैयुम् पॊऱुप्पेऩ् ऎऩ्ऱु सॊऩ्ऩ सनातनधर्ममाऩ भगवाऩुडैय कल्याणगुणङ्गळै स्तोत्तरिप्पोमॆऩ्ऱु ऒरु पासुरत्ताले अरुळिच्चॆय्गिऱार् मूण्डालुमित्यादि ।  
 
 अरियदऩिल् - अऱियमुडियाद भक्त्यादिगळिल्, मूण्डालुम् - प्रवृत्तित्तालुम्, सॆय्दुविडलामॆऩ्ऱु आसैयिऩाले प्रथमप्रवृत्ति पण्णिऩालुम्, मुयलवेण्डा - द्वितीयादिप्रवृत्तिकळैप् पण्णवेण्डाम्। इदऩाल् सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कु अशक्यारम्भण वारणपरत्वम् सॊल्लप्पट्टदु। मुऩ्ऩम् - प्रथमप्रवृत्तिक्कु मुऩ्बे, अदिल् - अशक्यविषयत्तिल्, आसैदऩै - आसैयै, विडुगै - विट्टिरुक्कै, तिण्मै - मुदलिल् प्रवृत्ति पण्णि इरण्डावदु प्रवृत्तिकळै विडुवदैक् काट्टिलुम् मुदल् प्रवृत्तिक्कु मुऩ्बे अदिल् आसैयै विट्टिरुक्कै श्रेष्ठमाऩदु। इदऩाल् सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कु तत्प्रत्याशाप्रशमनपरत्वम् सॊल्लप् पट्टदु। सरणनॆऱि - शरणागतिरूपोपायमाऩदु, वेऱोर् कूट्टु - आनुकूल्याद्यतिरिक्तमाऩ परिकरत्तिऩुडैय सेर्क्कैयै, वेण्डादु - अपेक्षियादु। इदऩाल् सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कु धर्माणामनङ्गभावपरत्वम् सॊल्लप्पट्टदु। वेण्डिल् - स्वबुद्धियिऩाले परिकरान्तरत्तैयो उपायान्तरत्तैयो सहकारियाग वेण्डिऩाल्, अयऩ् - ब्रह्माविऩुडैय, अत्तिरम् पोल् - आञ्जनेयऩैक्कट्टिऩ ब्रह्मास्त्रम् राक्षसर्गळ् सहगारियागक्कट्टिऩ रज्जुक्कळाले विलगिऩदुबोल, वॆळ्गिनिऱ्कुम् - फलसाधनमऩ्ऱिक्के ऒऴिन्दुबोगुम्। इदऩाले सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कु ब्रह्मास्त्रन्यायसूचनपरत्वम् सॊल्लप्पट्टदु। नीण्डागुम् - नीण्डदाऩ, चिरकालसाध्यमाऩ ऎऩ्ऱबडि। निऱै - पूर्णमाऩ, मदियोर् - बुद्धियैयुडैयवर्गळुडैय, भक्तियोगत्तै साधिक्कुम्बडियाऩ बुद्धियैयुडैयार्गळुडैय ऎऩ्ऱबडि। नॆऱियिऱ्कूडा - मार्गत्तिल् सेरामलिरुक्किऱ, अकिञ्चनऩाऩ नी ऎऩ्ऱबडि। इदऩाल् सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कु अशक्ताधिकारपरत्वम् सॊल्लप्पट्टदु। निऩ्ऱऩिमै - उऩ्ऩुडैय असहायत्वत्तै, अदावदु आकिञ्चन्यत्तै, तुणैयाग - सहकारियागक् कॊण्डु, इदऩाल् सर्वधर्मान् परित्यज्य ऎऩ्बदऱ्कु आकिञ्चन्यपुरस्क्रियापरत्वम् सॊल्लप् पट्टदु। इप्पडि इप्पाट्टिल् अतोऽशक्ताधिकारित्वमित्यादिश्लोकङ्गळिऱ् सॊऩ्ऩ अर्थङ्गळै व्युत्क्रमेणानुसन्धित्तदाल् इव्वर्थङ्गळॆल्लाम् तुल्यङ्गळॆऩ्ऱु द्योतितमा यिऱ्ऱु। ऎऩ्ऱऩ् - ऎऩ्ऩुडैय, पादम् - तिरुवडिगळै, पूण्डाल् - शरणमाग वडैन्दाल्, इदऩाल् मामेकं शरणं व्रज ऎऩ्गिऱ पदङ्गळिऩ् अर्थम् सॊल्लप्पट्टदु। उऩ् - उऩ्ऩुडैय, पिऴैगळॆल्लाम् - पापङ्गळैयॆल्लाम्, पॊऱुप्पे ऩॆऩ्ऱ - पॊऱुत्तुविडुवेऩॆऩ्ऱु सॊऩ्ऩ, इदऩाल् अहं त्वा सर्वपापेभ्यो मोक्ष-यिष्यामि ऎऩ्बदिऩर्थम् सूचितम्। पुण्णियऩार् - ‘‘कृष्णं धर्मं सनातनम्’’ ऎऩ्ऱु कॊण्डाडप् पट्ट पुण्यस्वरूपऩाऩ भगवाऩुडैय, पुगऴऩैत्तुम् - ऎल्ला कल्याणगुणङ्गळैयुम्, पुगऴुवोमे - स्तोत्तरिप्पोमे।  
-    
-    
+
+</details>
+
+<details><summary>विजय-राघवः (क)</summary>
+
+मुन्धिन पाशुरद अर्थवु- (१) **अरियदनिल्** - अ-शक्तगळाद कर्मगळल्लि, **मूण्डालुम्** - दुष्करगळाद कर्म-योगादि-परम्परॆगळल्लि मॊदले प्रवृत्ति इद्दरू **मुयलवेण्डा** - मुन्दक्कॆ, अदरल्लि प्रवृत्ति बेड
+
+> आत्माशक्य--वृथायास-निवारणम् 
+
+ऎम्ब १३६ नॆय कारिकॆय अर्थवु सङ्ग्रहितवु. (२) **मुन्नं** - मॊदले, **आदिल्** - आ अ-शक्तवाद उपायदल्लि, **आशैतनै** - आशॆयन्ने, **विडुगै** - त्यागमाडोणवु, **तिण्मै** - बुद्धि-कौशलवु, ऎन्दरॆ हिन्दिन सन्दर्भदल्लि हेळिरुव हागॆ प्रयत्निसि अ-शक्यवॆन्दु तिळिदु अदन्नु त्याग माडुवदक्किन्त मॊदलिनिन्दले अन्तह अ-शक्तवाद उपायानुष्ठानदल्लि आशॆयन्ने त्यागमाडुवदु प्राज्ञतॆयु. इदरिन्द 
+
+> आशा-लेशानुवृत्तिर् वा त्यागो 
+
+ऎम्ब १३७ नॆय कारिकॆय तात्पर्यवु हेळल्पट्टितु. (२) **शरणनॆरि** - भर-न्यास-मार्गवु ऎन्दरॆ उपायवु, **वॆरु** - अदक्कॆ परिकरगळाद आनुकूल्य-सङ्कल्पादिगळ हॊरतु, **ऒरु** - ऒन्दु, **कॊट्टु** - परिकरद सहायवु, **वेण्डातु** - आपेक्षिसुवदिल्लवु. इदु मूरनॆय अर्थवु. आ भर-न्यासक्कॆ बेकाद ऐदु अङ्गगळल्लदॆ इन्नु यावुदन्नू अदु सहायवागि अपेक्षिसुवदिल्लवु. 
+
+> अनङ्ग-भावो धर्माणाम् 
+
+ऎम्ब १३९ नॆय कारिकॆय अर्थवु. (४) **वेण्डिल्** - भर-न्यासक्कू इतर-ब्रह्म-विद्यॆगळल्लि हेळिरुव हागॆ उपासनवू आवश्यकवॆम्ब भ्रमॆयिन्द अदन्नू आपेक्षिसिदरॆ, **अयन्** - चतुर्-मुख-ब्रह्मन, **आत्तिरं पोल्** - अस्त्रद हागॆ, **लज्जितस् सन्** - तन्नन्नु ई आधिकारियु अवमानपडिसिदनॆन्दु ई प्रपत्तियु नाचिकॆयन्नु हॊन्दिदागि, ऎन्दरॆ ई अधिकारिगॆ महा-विश्वासवे इल्लवॆन्दु नाचिकॆगॊण्डु, **निर्कुम्** - निल्लुवदु ऎन्दरॆ ब्रह्मास्त्रवु हेगॆ निरर्थकवायितो, हागॆ ई भर-न्यासवू निरर्थकवागुवदु. **ब्रह्मास्त्र-न्याय-सूचनम्** ऎन्दु १३८ नॆय कारिकार्थवु बोधितवु. (५) **नीण्डागुम् निरैमतियोर नॆरियल् कूडा, नीण्गाम्** - बहु-कालक्कॆ साध्यवाद, **निरैमतियोर्** - परिपूर्ण-ज्ञानवुळ्ळ, **नॆरियिल्** - मार्गदल्लि ऎन्दरॆ भक्ति-योगदल्लि, **कूडा** सम्बन्धविल्लदिरुव नीनु, इल्लि **"अ-शक्ताधिकारत्वम्"** ऎन्दु १३९ नॆय कारिकॆयल्लिरुवदु हेळल्पट्टितु. (६) **निन्र निमैत्तुणैयाग** - **निन्** - निन्न, **तनिमै** - आकिञ्चन्यनन्नु, इदरिन्द १३९ नॆय पाशुरदल्लिरुव, **आकिञ्चन-पुरस्त्रिया** - ऎम्बुदु उपपादिसल्पट्टितु. 
+
+[[P249]]
+
+**ऎन्** - नन्न, **पादम्** - पादवन्नु, **पूण्डाल्** - स्वीकरिसिदुदादरॆ **माम् एकं शरणं व्रज** ऎम्बुदर अर्थवु. **उन् पिळैगळॆल्लां पॊरुप्पेन्** अथवा **उन् विनैगळॆल्लाम् पॊरुप्पेन्** - निन्न पुण्य-पाप-रूप-कर्मगळन्नॆल्ला क्षमिसुवॆनु. **सर्व-पापेभ्यो मोक्षयिष्यामि** ऎम्बुदर अर्थवु. **ऎन्र** - ऎम्बदागि हेळुव, **पुण्णियानार् - कृष्णं धर्मं सनातनम्** ऎम्बल्लि हेळिरुव हागॆ सिद्धोपायनागिरुव श्री-कृष्णन, **अनैत्तुं** - समस्तवाद, **पुगळ् - "तस्य नाम महद्-यशः"** ऎन्दु श्रुतियल्लि हेळिरुव कीर्तियन्नु अत्यद्भुत अतिशयित-वात्सल्य-सौशील्य-सौलभ्यादि--कल्याण-गुणाकरनन्नु **पुगळुवोम्** - तुम्बा प्रीतियिन्द, प्रशंसिसुवॆवु, श्लाघिसुवॆवु.
 
 </details>

@@ -1,8273 +1,3613 @@
-॥ श्रीरस्तु ॥ 
++++
+title = "लक्ष्म्युपायत्वदीपः"
++++
+[[Pi]]
 
-全檢具 
+॥ श्रीर् अस्तु ॥
 
-श्रीलक्ष्मीहयवदनलक्ष्मीनारायणौ विजयेताम् | 
+श्री-लक्ष्मी-हयवदन-लक्ष्मी-नारायणौ विजयेताम् ।
 
-श्री ब्रह्मतन्त्रस्वतन्त्रपरकालगुरुपरम्परायै **नमः** ॥ 
+श्री-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-गुरु-परम्परायै नमः ॥
 
-**श्रीमद्वेदमार्गेत्यादिबिरुदाङ्कितैः श्रीमद्रामानुज सिद्धान्त** निर्धारणसार्वभौमैः श्रीमद्परकालसंयमिसार्वभौमकृपाकटाक्षसमधिगत तदास्थानसाम्राज्यैः श्रीश्रीनिवासपरकालसंयमिसार्वभौमदेशिकैः **पूर्वस्मिन् अश्रमे** अनुगृहीतः 
+श्रीमद्-वेद-मार्गेत्यादि-बिरुदाङ्कितैः श्रीमद्-रामानुज-सिद्धान्त-निर्धारण-सार्वभौमैः [[श्रीमद्परकाल|श्रीमत्-परकाल]]-संयमि-सार्वभौम-कृपा-कटाक्ष-समधिगत-तद्-आस्थान-साम्राज्यैः श्री-श्रीनिवास-परकाल-संयमि-सार्वभौम-देशिकैः पूर्वस्मिन् [[अश्रमे|आश्रमे]] अनुगृहीतः
 
-"लक्ष्म्युपायत्वदीपः” 
+"लक्ष्म्य्-उपायत्व-दीपः"
 
-**नाम** तदुपायत्वविप्रतिपत्तिधूननधुरन्धरः प्रबन्धः   
-D 
+नाम तद्-उपायत्व-विप्रतिपत्ति-धूनन-धुरन्धरः प्रबन्धः
 
-ஸ்ரீமதுபயவே வித்வான் மஹாமஹோபாத்யாய சு.பையம்பாடி சேட்டலூர் வா. ஸ்ரீவத்ஸாங்காசார்ய ஸ்வாமியின் 
+ஸ்ரீமதுபயவே வித்வான் மஹாமஹோபாத்யாய சு.பையம்பாடி சேட்டலூர் வா. ஸ்ரீவத்ஸாங்காசார்ய ஸ்வாமியின்
 
-லக்ஷ்மீ கடாக்ஷம் 
+லக்ஷ்மீ கடாக்ஷம்
 
-என்ற தமிழ் உரையுடன்   
-श्रीः   
-Adviterya Dixit Bongalore July 2019   
-U 
+என்ற தமிழ் உரையுடன்
 
-श्रीलक्ष्मीहयवदनलक्ष्मीनारायणौ विजयेताम् | 
+[[Piii]]
 
-श्री ब्रह्मतन्त्रस्वतन्त्रपरकालगुरुपरम्परायै नमः || 
+श्रीः
 
-श्रीमद्वेदमार्गेत्यादिबिरुदाङ्कितैः श्रीमद्रामानुज सिद्धान्त निर्धारणसार्वभौमैः श्रीमद्परकालसंयमिसार्वभौमकृपाकटाक्षसमधिगत तदास्थानसाम्राज्यैः श्रीश्रीनिवासपरकालसंयमिसार्वभौमदेशिकैः पूर्वस्मिन् आश्रमे अनुगृहीतः 
+श्री-लक्ष्मी-हयवदन-लक्ष्मी-नारायणौ विजयेताम् ।
 
-"3&444: 
+श्री-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-गुरु-परम्परायै नमः ॥
 
-नाम तदुपायत्वविप्रतिपत्तिधूननधुरन्धरः प्रबन्धः 
+श्रीमद्-वेद-मार्गेत्यादि-बिरुदाङ्कितैः श्रीमद्-रामानुज-सिद्धान्त-निर्धारण-सार्वभौमैः [[श्रीमद्परकाल|श्रीमत्-परकाल]]-संयमि-सार्वभौम-कृपा-कटाक्ष-समधिगत-तद्-आस्थान-साम्राज्यैः श्री-श्रीनिवास-परकाल-संयमि-सार्वभौम-देशिकैः पूर्वस्मिन् आश्रमे अनुगृहीतः
 
-ஸ்ரீ லக்ஷ்மீஹயக்ரீவ திவ்யபாதுகாஸேவக ஸ்ரீஸ்ரீநிவாஸ ப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகால ஸ்வாமி **(22**ம் பட்டம்) தம் பூர்வாஸ்ரமத்தில் அருளிச்செய்த 
+"[[3&444:|लक्ष्म्य्-उपायत्व-दीपः]]"
 
-லக்ஷ்மீ உபாயத்வதீபம் 
+नाम तद्-उपायत्व-विप्रतिपत्ति-धूनन-धुरन्धरः प्रबन्धः
 
-ஸ்ரீமதுபயவே வித்வான் மஹாமஹோபாத்யாய சு.பையம்பாடி சேட்டலூர் வா. ஸ்ரீவத்ஸாங்காசார்ய ஸ்வாமியின் 
+ஸ்ரீ லக்ஷ்மீஹயக்ரீவ திவ்யபாதுகாஸேவக ஸ்ரீஸ்ரீநிவாஸ ப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகால ஸ்வாமி (22ம் பட்டம்) தம் பூர்வாஸ்ரமத்தில் அருளிச்செய்த
 
-'லக்ஷ்மீ, கடாக்ஷம்” 
+லக்ஷ்மீ உபாயத்வதீபம்
 
-என்ற தமிழ் உரையுடன் 
+ஸ்ரீமதுபயவே வித்வான் மஹாமஹோபாத்யாய சு.பையம்பாடி சேட்டலூர் வா. ஸ்ரீவத்ஸாங்காசார்ய ஸ்வாமியின்
 
-ஸ்ரீ பரமஹம்ஸேத்யாதி லக்ஷ்மீ ஹயக்ரீவ திவ்யபாதுகாஸேவக ஸ்ரீமதபிநவ வாகீய ப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகால ஸ்வாமியின் ஸதாபிஷேக மஹோத்ஸவத்தில், 
+'லக்ஷ்மீ கடாக்ஷம்”
 
-ஜயஹு சித்திரை \-ரேவதியன்று (27-04-2014) மைசூர் ஸ்ரீப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகாலஸ்வாமி மடத்தில் 
+என்ற தமிழ் உரையுடன்
 
-வெளியிடப்பட்டது 
+ஸ்ரீ பரமஹம்ஸேத்யாதி லக்ஷ்மீ ஹயக்ரீவ திவ்யபாதுகாஸேவக ஸ்ரீமதபிநவ வாகீஷ ப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகால ஸ்வாமியின் ஸதாபிஷேக மஹோத்ஸவத்தில்,
 
-i   
-**"**Lakshmi**\-Upayatvadeepah**" of Sri **Srinivasa Brahmatantra Swatantra Parakala** Swamy (22nd **peethadhipathi**) with **"**Lakshmi **Kataksham**", **Tamizh** commentary by **Mahamahopadhyaya** Sri U. Ve **Paiyambadi Srivatsankacharya Swamy**. 
+ஜயஹு சித்திரை-ரேவதியன்று (27-04-2014) மைசூர் ஸ்ரீப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகாலஸ்வாமி மடத்தில் வெளியிடப்பட்டது
 
-*Published by* 
+**"Lakshmi-Upayatvadeepah"** of Sri **Srinivasa Brahmatantra Swatantra Parakala** Swamy (22nd **peethadhipathi**) with **"Lakshmi Kataksham"**, **Tamizh** commentary by **Mahamahopadhyaya** Sri U. Ve **Paiyambadi Srivatsankacharya Swamy**.
 
-**Vedanta Deshika Vihara Sabha,**   
-**Chetlur** 
+*Published by*  
+**Vedanta Deshika Vihara Sabha, Chetlur**  
+**Sri Brahmatantra Swatantra Parakala Swamy Matham,** Krishnavilas Road, Mysore.  
+2014
 
-**Sri Brahmatantra Swatantra Pakalaka Swamy Matham,** Krishnavilas Road, Mysore. 
+**ISBN:** 81-89650-42-4  
+**Price:** 250/- (Overseas US $ 15)
 
-2014 
+*Printed at:*  
+**Navbharath Press**  
+"Vishnu Chittam", No. 10, Sirur Park 'B' Street Seshadripuram, Bangalore - 560 020  
+Ph: 080-2356 1142, E-mail: navbarat@gmail.com
 
-**Sri Brahmatantra Swatantra** Pakalaka **Swamy Matham.** 
+---
 
-**ISBN:** 81-89650-42-4 
+### Contents
 
-**Price:** 250/\- (Overseas US $ 15) 
+Acknowledgement of Gratitude — *xiii-xvi*  
+Sri Srinivasa Brahmatantra Swatantra Parakala Maha Deshika Vaibhavam — *xvii-xviii*  
+ஸ்ரீபரமஹம்ஸேத்யாதி ஸ்ரீஸ்ரீநிவாஸ ப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகால மஹாதேசிகனின் வைபவம் — *xix-xxi*  
+முன்னுரை — *xxii-xxvi*  
+लक्ष्म्युपायत्वदीपः (லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்) — *1-239*  
+श्रीपरकालमहादेशिक मङ्गलम् — *240-241*  
+श्रीनिवासपरकालमहादेशिक मङ्गलम् — *242-243*
 
-*Copies can be ordered by sending an email to* sbspm.publications@gmail.com 
+---
 
-*Printed at:* 
+[[Piv]]
 
-**Navbharath Press** 
+Phone: 0821-2422536
 
-"Vishnu Chittam", No. 10, Sirur Park 'B' Street Seshadripuram, Bangalore \- 560 020 
+ಶ್ರೀ ಬ್ರಹ್ಮತಂತ್ರ ಸ್ವತಂತ್ರ ಪರಕಾಲಸ್ವಾಮಿ ಮಠ  
+ಕೃಷ್ಣವಿಲಾಸ ರಸ್ತೆ (ಜಗನ್ಮೋಹನ ಅರಮನೆ ಸಮೀಪ), ದೇವರಾಜ ಮೊಹಲ್ಲಾ, ಮೈಸೂರು - 570 024.
 
-Ph: 080-2356 1142, E\-mail: navbarat@gmail.com 
+SRI BRAHMATANTRA SWATANTRA PARAKALA SWAMY MUTT  
+Krishnavilasa Road (Near J. M. Palace), Devaraja Mohalla, Mysore - 570 024. Karnataka State, INDIA
 
-**Contents** 
+ಶ್ರೀ-ಲಕ್ಷ್ಮೀ-ಹಯವದನ-ಲಕ್ಷ್ಮೀ-ನಾರಾಯಣಾಭ್ಯಾಂ ನಮಃ  
+ಶ್ರೀಮತೇ ರಾಮಾನುಜಾಯ ನಮಃ  
+ಶ್ರೀಮತೇ ನಿಗಮಾಂತ-ಮಹಾದೇಶಿಕಾಯ ನಮಃ  
+ಶ್ರೀ-ಬ್ರಹ್ಮತಂತ್ರ-ಸ್ವತಂತ್ರ-[[ವರಕಾಲ|ಪರಕಾಲ]]-ಗುರು-ಪರಂಪರಾಯೈ ನಮಃ
 
-Acknowledgement of Gratitude 
+श्रीः
 
-Sri Srinivasa Brahmatantra Swatantra 
+श्रीनिवास-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-यति-स्वत्वानां “लक्ष्मी-उपायत्व-दीपः” इति कृतिरत्नस्य अगस्त्यभारत्यां "लक्ष्मीकटाक्षः" इति नाम्ना विलसितस्य अगस्त्यभाषानुवादः श्रीमद्-अभिनव-वाग्-ईशाज्ञया श्री-श्रीवत्साङ्काचार्य-विरचितः सहृदय-हृदयङ्गमः विराजते ।
 
-Parakala Maha Deshika Vaibhavam 
+इमम् अनुवादं लक्ष्मीपुत्राः सर्वे ऽप्य् अधीत्य कृतार्था भवन्तु इति प्रार्थयामः ।
 
-ஸ்ரீபரமஹம்ஸேத்யாதி ஸ்ரீஸ்ரீநிவாஸ   
-xiii*\-xvi* 
+इत्थम्,  
+श्रीचरण-आदेश-वशंवदः  
+डी० ए० एस० वेङ्कटनाभन्  
+महामहोपाध्यायः वाग्-देवी-वरपुत्रः डा० ए० एस० वेङ्कटनाथन्, श्रीकार्यकर्ता, परकालमठः, महीशूरपुरी
 
-*xvii\-*xviii 
+[[Pv]]
 
-ப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகால 
+श्री-लक्ष्मी-सदन-मतिः  
+॥ श्री-लक्ष्मी-हयवदन-परब्रह्मणे नमः ॥
 
-மஹாதேகனின் வைபவம் 
+श्रीमन्-निगमान्त-महादेशिकाः  
+श्री-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-स्वामीः  
+श्री-कुमार-वरद-देशिकाः
 
-முன்னுரை   
-*xix\-xxi* 
+[[Pvi]]
 
-*xxii*\-*xxvi* 
+श्री-लक्ष्मी-हयग्रीव-दिव्य-पादुका-सेवक-श्री-श्री-महा-परकाल-महादेशिकाः
 
-लक्ष्म्युपायत्वदीपः 
+> विन्यस्तात्म-भरं वरप्रद-गुरौ तद्-देशिकैर् वीक्षितं  
+> श्री-वेदान्त-यतीन्द्र-भूरि-कृपया संप्राप्त-मोक्षाश्रमम् ।  
+> सारार्थामृत-लाभ-वन्तम् अनघात् श्री-श्रीनिवासाद् गुरोः  
+> वन्दे श्री-परकाल-योगिनम् अहम् वेदान्त-विद्या-गुरुम् ॥
 
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்   
-1-239 
+[[Pvii]]
 
-श्रीपरकालमहादेशिक मङ्गलम्   
-*240-241* 
+श्री-लक्ष्मी-हयग्रीव-दिव्य-पादुका-सेवक-श्री-श्रीनिवास-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-महादेशिकाः
 
-श्रीनिवासपरकालमहादेशिक मङ्गलम्   
-*242-243* 
+> श्रीमत् श्री-परकाल-संयमि-वराद् आत्तापवर्गाश्रम-  
+> श्रुत्य्-अन्त-द्वय-सार-सारथि-वचो भाष्यार्थ-सम्यग्-धियम् ।  
+> श्रीमत्-तात-गुरौ समर्पित-भरं तत्-पाद-पद्माश्रयं  
+> श्रीवासं परकाल-योगि-तिलकं दान्तं श्रयामो ऽन्वहम् ॥
 
-iii   
-Phone**: 0821-2422536** 
+> ज्ञानाम्बुराशि-परकाल-गुरोर् अवाप्त-  
+> वेदान्त-युग्म-चरमाश्रम-संप्रदायम् ।  
+> श्री-तात-देशिक-पदार्पित-नैज-भारं  
+> श्री-श्रीनिवास-परकाल-गुरुं श्रयामः ॥
 
-**ಶ್ರೀ** ಬ್ರಹ್ಮತಂತ್ರ ಸ್ವತಂತ್ರ ಪರಕಾಲಸ್ವಾಮಿ **ಮಠ**   
-ಕೃಷ್ಣಬಿಲಾಸ ರಸ್ತೆ **(**ಜಗಮ್ಮೋಹನ **ಅರಮನೆ** ಸಮೀಪ),ದೇವರಾಜ ಮಹಲ್ಲಾ, 
+[[Pviii]]
 
-\-   
-570 024. 
+श्री-लक्ष्मी-हयग्रीव-दिव्य-पादुका-सेवक-श्रीमद्-अभिनव-वागीश-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-महादेशिकाः
 
-**SRI** BRAHMATANTRA SWATANTRA PARAKALA SWAMY MUTT Krishnavilasa Road (Near J. M.Palace), Devaraja Mohalla, **Mysore \-** 570 024\. Kamataka State, INDIA 
+> श्रीमन्-नूतन-रङ्गनाथ-यतिराद्-आप्तात्म-विद्यालयं  
+> श्रीमन्-नूतन-लक्ष्मणार्य-यतिराद्-संप्राप्त-तुर्याश्रमम् ।  
+> श्रीवासेन्द्र-कटाक्ष-संतत-सुधा-लक्ष्यात्म-योगाञ्चितं  
+> श्रीमन्-नूतन-वाग्-अधीश-यमिनं भक्त्याश्रयामः गुरुम् ॥
 
-**ಶ್ರೀ ಲಕ್ಷ್ಮೀಹಯವದನ** ಲಕ್ಷ್ಮೀ ನಾರಾಯಣಾಭ್ಯಾಂ ನಮ: 
+> नव्य-वाग्-ईश-योगीन्द्रं हयास्य-पद-सेविनम् ।  
+> ब्रह्मतन्त्र-स्वतन्त्रार्यं भजामस् स्वात्म-संपदम् ॥
 
-**ಶ್ರೀಮತೇ** ರಾಮಾನುಜಾಯ **ನಮ:** 
+[[Pix]]
 
-**ಶ್ರೀಮತೇ** ನಿಗಮಾಂತ **ಮಹಾದೇಶಿಕಾಯ ನಮಃ** 
+महामहोपाध्यायः पैयम्पाडि चेट्टलूर् श्री-श्रीवत्साङ्कार्य-महादेशिकाः
 
-ಶ್ರೀ ಬ್ರಹ್ಮತಂತ್ರ **ಸ್ವತಂತ್ರ ವರಕಾಲ ಗುರು** ಪರಂಪರಾಯ **ನಮಃ** 
+> श्रीरङ्ग-लक्ष्मण-मुनीन्द्र-पदाब्ज-भृङ्गं  
+> श्री-वासुदेव-गुरु-वर्य-कृपावलम्बम् ।  
+> श्री-वीरराघव-गुरूत्तम-लब्ध-बोधं  
+> श्रीवत्स-चिह्नम् अघमर्षणम् आश्रयामः ॥
 
-Ref.   
-Sree Lakshmi Hayavadana **Lakshmi** Narayanabhyam Namaha 
+[[Px]]
 
-Sreemathe Ramanujaya Namaha 
+ஸ்ரீ கோமளவல்லி தாயார், கும்பகோணம்
 
-Srimathe Nigamantha Maha Dosikaya Namaha 
+[[Pxi]]
 
-Sri Brahmatantra **Swatantra Parakala** Guruparamparayai Namaha 
+ஸ்ரீ பத்மாவதி தாயார், திருச்சானூர்
 
-Date 
+[[Pxii]]
 
-श्रीः 
+### Acknowledgement of Gratitude
 
-श्रीनिवासब्रह्मतन्त्रस्वतन्त्र परकाल यतिस्वत्वानां “लक्ष्मी\-उपायत्व\-दीपः*”* इति कृतिरत्नस्य अगस्त्यभारत्यां "लक्ष्मीकटाक्षः" इति नाम्ना विलसितस्य अगस्त्यभाषानुवादः श्रीमदभिनववागीशाज्ञया 
+Owing to the abundant *divya-anugrahams* of our Acharya Sarvabhouma, Srimadabhinava Vageesha Brahmatantra Swatantra Parakala Swamy, a few copies of the work "Lakshmi-Upayatvadeepah" in Telugu script were discovered during the digital cataloguing of the ancient works that are enshrined in the 'Brhat-grantha-bhaandaagaaram' of Sri Brahmatantra Swatantra Parakala Swamy Matham at Mysore. The copies discovered were in frail and dilapidated condition. The publication date read as Shalivahana year 1833 (1911 ACE) and was edited by Shathamarshana-kulatilaka Navyadurgam Srinivasaraghava-Thathacharya Swamy (Asthana Srikaryakarta).
 
-श्रीश्रीवत्साङ्काचार्यविरचितः सहृदयहृदयङ्गमः विराजते । 
+Sri Parakala Swamy perused the work and immediately ordained us to ensure digitization and Devanagari transliteration of the same with priority. It was Swamy's *divya-ajnaa* that this work must also be ennobled with a scholarly commentary subsequently. With folded hands, we submit our foremost gratitude at the twin lotus feet of our Acharya Sarvabhouma Srimadabhinava Vageesha Brahmatantra Swatantra Parakala Swamy for initiating us into this noble kainkaryam.
 
-इममनुवादं लक्ष्मीपुत्राः सर्वेप्यधीत्यकृतार्था भवन्तु इति प्रार्थयामः । 
+Our vast gratitude to Sri Parakala Swamy Matha Asthana Srikaryakarta, Mahamahopadhyaya Sri U. Ve Atmakur Venkatanathacharya for his sustained *anugrahams* and guidance on all the fronts of the ongoing *grantha-samrakshana* and *grantha-prakashana kainkaryams*. Our *anjali-baddha pranaamams* to this Swamy and we pray that he continues to shower us with his blessings always.
 
-इत्थं, 
+[[Pxiii]]
 
-श्रीचरण आदेशवशंवदः 
+Our Purvacharya Srisuktis have superlatively celebrated the glories and exemplified the *upakarams* of an Acharya who dispels our *ajnaanam* by lighting the lamp of knowledge in our hearts. They have unequivocally stated *"Achaaryaadiha devataam samadhikaam anyaam na manyamahe"*, *"maayanum oru kaimaaru kaanagillaan"*, "...*andhakaara nirodhitvaat gururityabhidheeyate*" and many more. One such exemplary Acharya of immense scholarship is Mahamahopadhyaya Sri U. Ve Paiyambadi Chetlur Srivatsankacharya Swamy.
 
-डी० ए० एस० वेङ्कटनाभन् 
+Sri Parakala Swamy expressed a wish that the commentary to this work "Lakshmi-upayatva-Deepah" be composed in Tamizh by Sri Srivatsankacharya Swamy. When this information was submitted, in spite of several ongoing *grantha-nirmana kainkaryams*, Sri Srivatsankacharya Swamy received it verily as the divine command of Sri Lakshmi Hayavadana Himself. After perusing the work completely, as a preparatory exercise, Swamy selected a small passage from the work and composed several commentaries to it in varying styles of depth and usage of language, much to the delight of Sri Parakala Swamy. Such an approach and dedication amazed us beyond comprehension. Swamy's pace and enthusiasm during the course of this *grantha-nirmanam* has been commendable. Keeping pace with an overwhelming schedule, yet Swamy was kind enough to accommodate us at regular intervals for review sessions, proof submissions and clarifications. Being adept in multiple languages, Swamy had enforced a rigorous review practice by checking the original Telugu script text through the transliterated Devanagari text and vice-versa. The accuracy of the original texts and commentary texts along with their alignment were meticulously checked several times. Swamy also referred to several ancient treatises to ascertain the correct contexts of the *purva-sangatis* and the *uttara-sangatis* of all the *pramana-vachanams* used by Paramahamsetyadi Sri Srinivasa Brahmatantra Swatantra Parakala Swamy (author) in the original work.
 
-महामहोपाध्यायः वाग्देवीवरपुत्रः डा. ए. एस्. वेङ्कटनाथन् श्रीकार्यकर्ता परकालमठः, महीशूरपुरी 
+[[Pxiv]]
 
-iv 
+As we approached the eve of the Shatabhishekam celebrations of prakrtam Parakala Swamy (Jayasamvatsara-Chaitra-Revati), we were blissfully surprised to behold the smiling countenance of Sri Srivatsankacharya Swamy at Mysore, with his lotus hands enshrining the completed manuscripts of the Tamizh commentary "Lakshmi Kataksham" analogous to "*trijagatpunyaphalam*". The same was presented at the sannidhi of Sri Lakshmi Hayavadana for *bhagavat-bhaagavatha-acharya-mukhollasam* on the day of Sri Parakala Swamy's Shatabhishekam. Realization dawned on us that just as "satyasankalpatvam" is an inherent virtue of the Sarvasheshi, indeed it is so, of a Sadaacharya as well. It may be celebrated that this Srisukti "Lakshmi-Upayatvadeepah" and its commentary "Lakshmi Kataksham" are nothing but the manifestations of Sri Mahalakshmi's *parama-kataksham* in *grantharupam*.
 
-□ 
+Our eternal indebtedness and vast gratitude to Sri Srivatsankacharya Swamy for bequeathing this rare treasure to our Srivaishnava Srisampradayam. Our *anjali-baddha sashtaanga pranaamams* at his feet for this *mahopakaram*. Just as the scriptures concur, in spite of expressing our gratitude a million times, we shall never be able to fully repay the kindness of an Acharya. With folded hands and heads bowed, we stand in humility contemplating on the scriptural adage "*yato vacho nivartante*" which is true for the glories of an Acharya as well.
 
-**श्रीलक्ष्मी** सदनमतिः 
+During the initial days of the *kainkaryam*, the pace of the Devanagari transliteration had slowed down drastically due to the frail legibility of the Telugu script. We had submitted the details of these challenges to Sri Parakala Swamy. It was indeed by divine intervention that during the very next week, we were made known about the availability of a hand-transliterated Devanagari version of the work through Mahavidvan Sri U. Ve Sogattur P. Ramanujacharya Swamy on his own accord. We learnt from him that he had received the manuscripts just a few days before. With folded hands we submit our humble *pranaamams* to this Swamy who was instrumental in securing a copy of the Devanagari transliterated work. We remain eternally indebted to him for his *mahopakaram* in this *grantha-samrakshana kainkaryam*. We realize that this incident stands out as a superior example of the divine *anugraham* and *tapas-siddhi* of our prakrtam Sri Parakala Swamy.
 
-॥ श्रीलक्ष्मीहयवदनपरब्रह्मणे नमः ॥ 
 
-*V* 
+[[Pxv]]
 
-AIASAA 
+The hand-transliteration of the work to Devanagari was performed by Vidushi Smt. **Pankaja Rajagopal**. We learn from her that this kainkaryam was initiated at the behest of her noble father Sri U. Ve S. M. Krishnamacharya, who wanted to initiate the propagation of this monumental work. His noble intentions have finally attained fruition (*kainkarya-purti*). With folded hands we whole-heartedly thank the immense kainkaryams of Smt. Pankaja Rajagopal in this grantha-samrakshanam towards the betterment of our Paramavaidika Srivaishnava Srisampradayam.
 
-श्रीमन्निगमान्तमहादेशिकाः 
+**Sri U. Ve Paiyambadi Chetlur S. Raghavacharya Swamy** has relentlessly provided for thorough review support at each and every step during the course of this *grantha-kainkaryam*. With folded hands we offer our humble pranaamams to this Swamy for guiding us throughout and for all the well thought-out suggestions.
 
-श्रीब्रह्मतन्त्रस्वतन्त्रपरकालस्वामीः   
-श्रीकुमारवरददेशिकाः 
+We also would like to submit our humble thanks and salutations to **Sri U. Ve Nedunthurai Kannan Swamy** who provided for additional review and proof-reading support for this noble *grantha-kainkaryam*.
 
-vi 
+We humbly pray for the kind indulgence of Bhagavathas in forgiving any unintended transgressions.
 
-श्रीलक्ष्मीहयग्रीवदिव्यपादुकासेवक श्रीश्रीमहापरकाल महादेशिकाः 
+May all glories be unto the lotus feet of Sri Lakshmi Hayagriva.  
+May all glories be unto the illustrious Acharya parampara.  
+*Sarvam Srikrishnarpanamastu.*
 
-विन्यस्तात्मभरं वरप्रदगुरौ तद्देशिकैर्वीक्षितं श्रीवेदान्तयतीन्द्रभूरिकृपया संप्राप्तमोक्षाश्रमम् । सारार्थामृतलाभवन्तमनघाच्छ्रीश्रीनिवासाद्गुरोः 
+With folded hands,  
+**Publications committee,**  
+**Vedanta Deshika Vihara Sabha,**  
+**Sri Brahmatantra Swatantra Parakala Swamy Matham.**
 
-वन्दे श्रीपरकालयोगिनमहं वेदान्तविद्यागुरुम् ॥ 
+---
 
-vii 
+[[Pxvi]]
 
-श्रीलक्ष्मीहयग्रीवदिव्यपादुकासेवक श्रीश्रीनिवासब्रह्मतन्त्रस्वतन्त्रपरकालमहादेशिकाः 
+॥ श्रीः ॥
 
-శ్రీశ్రీనివాస బ్రహ్మర శ్రీవరకాల **మహాతెశిశా** 
+॥ श्री-लक्ष्मी-हयवदन-लक्ष्मी-नारायण-वेणुगोपाल-परब्रह्मणे नमः ॥
 
-J. U 
+॥ श्री-शठकोप-रामानुज-देशिकेभ्यो नमः ॥
 
-श्रीमच्छ्रीपरकालसंयमिवरादात्तापवर्गाश्रम 
+॥ श्री-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-गुरु-परम्परायै नमः ॥
 
-श्रुत्यन्तद्वयसारसारथिवचो भाष्यार्थसम्यग्धियम् । श्रीमत्तातगुरौ समर्पितभरं तत्पादपद्माश्रयं 
+### Sri Srinivasa Brahmatantra Swatantra Parakala Maha Deshika Vaibhavam [22nd pattam]
 
-श्रीवासं परकालयोगितिलकं दान्तं श्रयामोऽन्वहम् ॥ ज्ञानाम्बुराशिपरकालगुरोरवाप्त वेदान्तयुग्मचरमाश्रमसंप्रदायम् । श्रीतातदेशिकपदार्पितनैजभारं श्री श्रीनिवासपरकालगुरुं श्रयामः ॥ 
+Asthana nirvaham: **1737-1750**
 
-This picture was preserved carefully amongst the personal rare collections of   
-Sri Krishna Brahmatantra Swatantra Parakala Swamy. 
+Sri Maha Parakala Swamy was succeeded by Sri Srinivasa Swamy in the year 1737 ACE. Born in 1687 ACE (Shalivahana year 1609), prabhava samvatsara pushyamasa krittika nakshatra in Pavugada village in the lineage of Thirumalai, this Swamy was known as Sri Venkatacharya in his purvashramam. This Swamy's own avatara nakshatra shlokam is as follows—
 
-viii श्रीलक्ष्मीहयग्रीवदिव्यपादुकासेवक श्रीमदभिनववागीशब्रह्मतन्त्रस्वतन्त्रपरकालमहादेशिकाः 
+> पुष्येत् सर्वार्थसिद्धीः प्रभवति च चतुर्वेदतद्भाष्यवाचाम् ।  
+> तेजश् चाग्नेर् इवासौ कलयति विधिनेत्य्-एवम्-आदौ विचिन्त्य ॥  
+> पुष्ये [[मासी|मासे]] प्रकृष्टे प्रभवशुभदिने कृत्तिकायां शुभर्क्षे ।  
+> युक्तः श्रीवासयोगीश्वरकलिमथनस्यावतारः स जीयात् ॥
 
-श्रीमन्नूतनरङ्गनाथयतिराडाप्तात्मविद्यालयं 
+This Swamy took to sanyasam in kalayukti samvatsaram, bhadrapada bahulapratipatti day. Swamy performed bhagavad-bhaagavatha kainkaryam, grantha rachana and kalakshepams in grand style. Swamy authored around 32 works that included Lakshmyupaayatvadeepa, Nyasaprakashika, Nyasaprakashika-vivritti, mangalam and Parakala vaibhavaprakashika.
 
-श्रीमन्नूतनलक्ष्मणार्ययतिराड्संप्राप्ततुर्याश्रमम् । श्रीवासेन्द्रकटाक्ष संततसुधा लक्ष्यात्मयोगाञ्चितं 
+[[Pxvii]]
 
-श्रीमन्नूतनवागधीशयमिनं भक्त्याश्रयामः गुरुम् ॥ 
+This Swamy also authored an avatara nakshatra shloka for his Acharya, Sri Maha Parakala Swamy:
 
-नव्यवागीशयोगीन्द्रं हयास्यपदसेविनं I ब्रह्मतन्त्रस्वतन्त्रार्यं भजामस्स्वात्मसंपदम् ॥ 
+**श्रीमहापरकालस्वामि-अवतार-नक्षत्रम्**
 
-**ix** 
+> मन्मथाख्याब्दवैशाख-मासार्द्रातारकोद्भवम् ।  
+> महान्तं परकालाख्य-यतिराजम् अहम् भजे ॥
 
-महामहोपाध्यायः पैयम्पाडि चेट्टलूर् श्री श्रीवत्साङ्कार्यमहादेशिकाः 
+Swamy remained on the acharya peetam till 1750 ACE for a period of 13 years and attained acharya's lotus feet in prajotpatti samvatsara on a bhadrapada bahula-shashti.
 
-श्रीरङ्गलक्ष्मणमुनीन्द्रपदाब्जभृङ्गं श्रीवासुदेवगुरुवर्यकृपावलम्बम् । श्रीवीरराघवगुरूत्तमलब्धबोधं श्रीवत्सचिह्नम् अघमर्षणमाश्रयामः ॥ 
+Swami's taniyan is as follows—
 
-**X** 
+> श्रीमत् श्री-परकाल-संयमि-वराद् आत्तापवर्गाश्रम-  
+> श्रुत्य्-अन्त-द्वय-सार-सारथि-वचो भाष्यार्थ-सम्यग्-धियम् ।  
+> श्रीमत्-तात-गुरौ समर्पित-भरं तत्-पाद-पद्माश्रयं  
+> श्रीवासं परकाल-योगि-तिलकं दान्तं श्रयामो ऽन्वहम् ॥
 
-ஸ்ரீ கோமளவல்லி தாயார்**,** கும்பகோணம் 
+> ज्ञानाम्बुराशि-परकाल-गुरोर् अवाप्त-  
+> वेदान्त-युग्म-चरमाश्रम-संप्रदायम् ।  
+> श्री-तात-देशिक-पदार्पित-नैज-भारं  
+> श्री-श्रीनिवास-परकाल-गुरुं श्रयामः ॥
 
-xi   
-www 
+---
 
-ஸ்ரீ பத்மாவதி **தாயார்,** திருச்சானூர் 
+[[Pxviii]]
 
-xii 
+॥ श्री-लक्ष्मी-हयवदन-लक्ष्मी-नारायण-वेणुगोपाल-परब्रह्मणे नमः ॥
 
-Acknowledgement of Gratitude 
+॥ श्री-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-गुरु-परम्परायै नमः ॥
 
-Owing to the abundant divyaanugrahams of our Acharya Sarvabhouma, Srimadabhinava Vageesha Brahmatantra Swatantra Parakala Swamy, few copies of the work "Lakshmi- **Upayatvadeepah"** in Telugu script were discovered during the digital cataloguing of the ancient works that are enshrined in the 'Brhat\-grantha\-bhaandaagaaram" of Sri Brahmatantra Swatantra Parakala Swamy Matham at Mysore. The copies discovered were in frail and dilapidated condition. The publication date read as Shalivahana year 1833 (1911 ACE) and was edited by **Shathamarshana\-**kulatilaka **Navyadurgam** Srinivasaraghava**\-thathacharya Swamy** 
+### ஸ்ரீபரமஹம்ஸேத்யாதி ஸ்ரீஸ்ரீநிவாஸ ப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகால மஹாதேசிகனின் வைபவம்
 
-Srikaryakartaa).   
-**Sriman** (Asthana 
+ஸ்ரீபரமஹம்ஸேத்யாதி ஸ்ரீஸ்ரீநிவாஸ ப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகால மஹாதேசிகன் என்ற திருநாமத்தோடு பரகால ஆஸ்தானத்தின் 22ம் பட்டத்தை அலங்கரித்த இந்த மஹான், சாலிவாஹன வருஷம் 1609 (1687 ACE) ப்ரபவ ஸம்வத்ஸர ஐப்பசி கார்த்திகை நக்ஷத்ரத்தில், ஆந்திர மாநிலத்தில் உள்ள பவுகுடா என்ற ஸ்ரீக்ராமத்தில் ஸ்ரீமத்திருமலை வம்ஸத்தில், ஸ்ரீநரஸிம்ஹதாதாசார்யரின் திருக்குமரராக அவதரித்தார். இவரது பூர்வாச்ரம திருநாமம் ஸ்ரீவேங்கடார்யர் என்பதாகும்.
 
-Sri Parakala Swamy perused the work and immediately ordained us to ensure digitization and Devanagari transliteration of the same with priority. It was Swamy's divyajnaa that this work must also be ennobled with a scholarly commentary subsequently. With folded hands, we submit our foremost gratitude at the twin lotus feet of our Acharya Sarvabhouma Srimadabhinava Vageesha Brahmatantra Swatantra Parakala Swamy for initiating us into this noble kainkaryam. 
+இந்த ஸ்வாமி சிறு வயதிலேயே நான்கு வேதங்களையும் பூர்ணமாக அத்யயனம் பண்ணியும், அத்யாத்மவித்தையில் சிறந்த
 
-Our vast gratitude to Sri Parakala Swamy **Matha Asthana** Srikaryakarta, Mahamahopadhyaya Sri U. Ve **Atmakur** Venkatanathacharya for his sustained anugrahams and guidance on all the fronts of the ongoing grantha\-samrakshana and grantha\-prakashana kainkaryams. Our anjali\-baddha pranaamams to this Swamy and we pray that he continues to shower us with his blessings always. 
+[[Pxix]]
 
-Our Purvacharya Srisuktis have superlatively celebrated the glories and exemplified the upakarams of an Acharya who dispels our ajnaanam by lighting the lamp of knowledge in our hearts. They have unequivocally stated "*Achaaryaadiha* devataam 
+தேர்ச்சிபெற்றும், ஜ்ஞானமுதிர்ச்சியுடனும், தேஜஸ்ஸுடனும் விளங்கியதை அவரது அவதார நக்ஷத்ர ச்லோகத்தில் காணலாம்.
 
-xiii   
-samadhikaam anyaam na *manyamahe*", *"maayanum* oru *kaimaaru* kaanagillaan*"*, "...andhakaara nirodhitvaat *gururityabhidheeyate"* and many more. One such exemplary Acharya of immense scholarship is **Mahamahopadhyaya** Sri U. **Ve Paiyambadi** Chetlur **Srivatsankacharya** Swamy. 
+> पुष्येत् सर्वार्थसिद्धीः प्रभवति च चतुर्वेदतद्भाष्यवाचाम् ।  
+> तेजश् चाग्नेर् इवासौ कलयति विधिनेत्य्-एवम्-आदौ विचिन्त्य ॥  
+> पुष्ये मासी प्रकृष्टे प्रभवशुभदिने कृत्तिकायां शुभर्क्षे ।  
+> युक्तः श्रीवासयोगीश्वरकलिमथनस्यावतारः स जीयात् ॥
 
-Sri Parakala Swamy expressed a wish that the commentary to this work "Lakshmiupayatva\-Deepah" be composed in tamizh by Sri Srivatsankacharya Swamy. When this information was submitted, in spite of several ongoing grantha\-nirmana kainkaryams, Sri Srivatsankacharya Swamy received it verily as the divine command of Sri Lakshmi Hayavadana Himself. After perusing the work completely, as a preparatory exercise, Swamy selected a small passage from the work and composed several commentaries to it in varying styles of depth and usage of language, much to the delight of Sri Parakala Swamy. Such an approach and dedication amazed us beyond comprehension. Swamy's pace and enthusiasm during the course of this grantha- nirmanam has been commendable. Keeping pace with an overwhelming schedule, yet Swamy was kind enough to accommodate us at regular intervals for review sessions, proof submissions and clarifications. Being adept in multiple languages, Swamy had enforced a rigorous review practice by checking the original Telugu script text through the transliterated Devanagari text and vice\-versa. The accuracy of the original texts and commentary texts along with their alignment were meticulously checked several times. Swamy also referred to several ancient treatises to ascertain the correct contexts of the purva\-sangatis and the uttara\-sangatis of all the pramana\-vachanams used by **Paramahamsetyadi** Sri **Srinivasa Brahmatantra Swatantra Parakala Swamy** (author) in the original work. 
+இந்த ஸ்வாமி, ஸ்ரீ மஹாபரகால ஸ்வாமி என்று உலகமே போற்றப்பட்ட 21ம் பட்டம் ஸ்ரீபரமஹம்ஸேத்யாதி ப்ரம்ஹதந்த்ரஸ்வதந்த்ர மஹாதேசினிடம் கைங்கர்யங்களைச் செய்து உபய வேதாந்த க்ரந்தங்களை (ரஹஸ்யக்ரந்தங்கள் உட்பட) அதிகரித்தார். ப்ரபல குருவான ஸ்ரீசைலதாதாசார்யரிடம் ஆத்ம பரத்தை ஸமர்ப்பித்தார். பிறகு க்ரந்த காலக்ஷேபங்களை கம்பீரமான முறையில் சாதித்து வந்தார். இந்த ஸ்வாமி, ஸ்ரீ பரமஹம்ஸேத்யாதி ஸ்ரீ மஹாபரகால ப்ரம்ஹதந்த்ரஸ்வதந்த்ர மஹாதேசினிடம் துரீயாச்ரமம் ஸ்வீகரித்தார். இவர் இந்த நான்காவது ஆச்ரமத்தை சாலிவாஹன வருஷம் 1659, காலயுக்தி ஸம்வத்ஸரம் புரட்டாசி மாதத்தில் ஸ்வீகரித்தார். இவர் தமது ஆசார்யனான ஸ்ரீ மஹாபரகாலஸ்வாமியின் திருவவதார நக்ஷத்ர ஸ்லோகத்தை பக்தியுடனும், மிகுந்த ரசனையுடனும் அருளியதை கீழே காணலாம்.
 
-As we approached the eve of the Shatabhishekam celebrations of prakrtam Parakala Swamy (Jayasamvatsara\-Chaitra\-Revati), we were blissfully surprised to behold the smiling countenance of Sri Srivatsankacharya Swamy at Mysore, with his lotus hands enshrining the completed manuscripts of the tamizh 
+[[Pxx]]
 
-xiv   
-commentary "Lakshmi **Kataksham**" analogous to "trijagatpunyaphalam*"*. The same was presented at the sannidhi of Sri Lakshmi Hayavadana for bhagavat\-bhaagavatha**\-**acharya- mukhollasam on the day of Sri Parakala Swamy's Shatabhishekam. Realization dawned on us that just as "satyasankalpatvam" is an inherent virtue of the Sarvasheshi, indeed it is so, of a Sadaacharya as well. It may be celebrated that this Srisukti "Lakshmi\-Upayatvadeepah" and its commentary "Lakshmi Kataksham" are nothing but the manifestations of Sri Mahalakshmi's parama\-kataksham in *grantharupam.* 
+**श्रीमहापरकालस्वामि-अवतार-नक्षत्रम्**
 
-Our eternal   
-eternal indebtedness and vast gratitude to Sri Srivatsankacharya Swamy for bequeathing this rare treasure to our Srivaishnava Srisampradayam. Our anjali\-baddha sashtaanga pranaamams at his feet for this mahopakaram. Just as the scriptures concur, in spite of expressing our gratitude a million times, we shall never be able to fully repay the kindness of an Acharya. With folded hands and heads bowed, we stand in humility contemplating on the scriptural adage "yato *vacho nivartante"* which is true for the glories of an Acharya as well. 
+> मन्मथाख्याब्दवैशाख-मासार्द्रातारकोद्भवम् ।  
+> महान्तं परकालाख्य-यतिराजम् अहम् भजे ॥
 
-During the initial days of the kainkaryam, the pace of the Devanagari transliteration had slowed down drastically due to the frail legibility of the Telugu script. We had submitted the details of these challenges to Sri Parakala Swamy. It was indeed by divine intervention that during the very next week, we were made known about the availability of a hand\-transliterated Devanagari version of the work through **Mahavidvan** Sri U. Ve **Sogattur P. Ramanujacharya** Swamy on his own accord. We learnt from him that he had received the manuscripts just a few days before. With folded hands we submit our humble pranaamams to this Swamy who was instrumental in securing a copy of the Devanagari transliterated work. We remain eternally indebted to him for his mahopakaram in this grantha- samrakshana kainkaryam. We realize that this incident stands out as a superior example of the divine anugraham and tapas\-siddhi of our prakrtam Sri Parakala Swamy. 
+இந்த ஸ்வாமி, பூர்வாச்ரமத்திலும், துரீயாச்ரமத்திலும் 32க்கும் மேற்பட்ட க்ரந்தங்களைச் சாதித்துள்ளார். அவைகளுள் சில அரிய க்ரந்தங்களாவன:
 
-XV   
-The hand\-transliteration of the work to Devanagari was performed by Vidushi Smt. **Pankaja Rajagopal**. We learn from her that this kainkaryam was initiated at the behest of her noble father Sri U. Ve S. M Krishnamacharya, who wanted to initiate the propagation of this monumental work. His noble intentions have finally attained fruition (kainkarya\-purti). With folded hands we whole\-heartedly thank the immense kainkaryams of Smt. Pankaja Rajgopal in this grantha- samrakshanam towards the betterment of our Paramavaidika Srivaishnava Srisampradayam. 
+1. லக்ஷ்மீ உபாயத்வ தீப:
+2. ந்யாய ப்ரகாசிகா
+3. ந்யாய ப்ரகாசிக விவ்ருத்தி
+4. பரகால மங்கலம்
+5. பரகால வைபவப்ரகாசிகா
 
-**Sri** U. **Ve Paiyambadi Chetlur** S. **Raghavacharya Swamy** has relentlessly provided for thorough review support at each and every step during the course of this grantha\-kainkaryam. With folded hands we offer our humble pranaamams to this Swamy for guiding us throughout and for all the well thought\-out suggestions. 
+இவர் பரகாலமட ஆசார்ய பீடத்தை சாலிவாஹன வருஷம் 1672 (1750 ACE) வரை, 13 ஆண்டுகள், கம்பீரமாக அலங்கரித்து, ப்ராஜாபதி ஸம்வத்ஸரம் பாத்ரபத பகுல சஷ்டி அன்று தமது ஆசார்யன் திருவடிகளை அடைந்தார்.
 
-We also would like to submit our humble thanks and salutations to **Sri U. Ve. Nedunthurai Kannan Swamy** who provided for additional review and proof\-reading support for this noble grantha\-kainkaryam. 
+இந்த மஹானின் தனியன்:
 
-We humbly pray for the kind indulgence of Bhagavathas in forgiving any unintended transgressions. 
+> श्रीमत् श्री-परकाल-संयमि-वराद् आत्तापवर्गाश्रम-  
+> श्रुत्य्-अन्त-द्वय-सार-सारथि-वचो भाष्यार्थ-सम्यग्-धियम् ।  
+> श्रीमत्-तात-गुरौ समर्पित-भरं तत्-पाद-पद्माश्रयं  
+> श्रीवासं परकाल-योगि-तिलकं दान्तं श्रयामो ऽन्वहम् ॥
 
-May **all** glories be unto the lotus feet of Sri Lakshmi Hayagriva **May** all glories be unto the illustrious Acharya parampara Sarvam Srikrishnarpanamastu 
+> ज्ञानाम्बुराशि-परकाल-गुरोर् अवाप्त-  
+> वेदान्त-युग्म-चरमाश्रम-संप्रदायम् ।  
+> श्री-तात-देशिक-पदार्पित-नैज-भारं  
+> श्री-श्रीनिवास-परकाल-गुरुं श्रयामः ॥
 
-With folded hands, 
+---
 
-**Publications committee,** 
+[[Pxxi]]
 
-**Vedanta Deshika Vihara Sabha,** 
+॥ श्री-लक्ष्मी-हयवदन-लक्ष्मी-नारायण-वेणुगोपाल-परब्रह्मणे नमः ॥
 
-**Sri Brahmatantra Swatantra Parakala Swamy Matham.** 
+॥ श्री-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-गुरु-परम्परायै नमः ॥
 
-xvi   
-॥ श्रीः॥ 
+### முன்னுரை
 
-॥ श्रीलक्ष्मीहयवदन- लक्ष्मीनारायण \- वेणुगोपालपरब्रह्मणे नमः ॥ 
+சில மாதங்களுக்கு முன்பாக தற்போது மஹீசூரபுரீநகரில் ஸ்ரீப்ரம்ஹதந்த்ர ஸ்வதந்த்ரபரகால மடத்தில் மூர்த்தாபிஷிக்தராய் எழுந்தருளியிருக்கும் ஸ்ரீபரமஹம்ஸேத்யாதி ஸ்ரீமதபிநவ வாகீஸ ப்ரஹ்மதந்த்ர ஸ்வதந்த்ர பரகாலமஹாதேசிகன் அடியேனிடம் க்ருபையாக இந்த ஸ்ரீகோசத்தைக் கொடுத்து இதை தமிழில் யதோக்தமாய் மொழிபெயர்த்துத் தரும்படி அருளிச்செய்தாயிற்று. க்ரந்த ப்ரசாரண ஸமிதிக்கு அத்யக்ஷரான மஹாமஹோபாத்யாய ஸ்ரீவேங்கடநாதாசார்ய ஸ்வாமியும் அடியேனை இதைச் செய்யவேண்டும் - ஸ்ரீமத் பரகாலஸ்வாமியின் அசீதிமஹோத்ஸவாங்கமாக இந்தநூல் மூலநூலான ஸம்ஸ்க்ருத புஸ்தகத்துடன் மொழிபெயர்ப்பையும் வெளியிடத் திருவுள்ளம் - என்று க்ருபையாக ஸ்ரீமுகம் அருளினார். மஹான்களின் நியமனத்தை சிரஸாவஹித்து இதை அடியேன் யதாசக்தி மொழிபெயர்த்துள்ளேன்.
 
-॥ श्री शठकोप \- रामानुज \- देशिकेभ्यो नमः ॥ 
+[[Pxxii]]
 
-॥ श्री ब्रह्मतन्त्रस्वतन्त्रपरकालगुरुपरम्परायै नमः ॥ 
+மூலக்ரந்தகாரரான ஸ்ரீபரமஹம்ஸேத்யாதி ஸ்ரீநிவாஸ ப்ரம்ஹதந்த்ர ஸ்வதந்த்ர பரகாலஸ்வாமி (22ம் பட்டம்) ஏறத்தாழ 250 ஸம்வத்ஸரங்களுக்கு முன்பு எழுந்தருளியிருந்தவர்.
 
-**Sri** Srinivasa Brahmatantra Swatantra **Parakala Maha** Deshika Vaibhavam \[ 22nd pattam \] 
+> पुष्येत् सर्वार्थसिद्धीः प्रभवति च चतुर्वेदतद्भाष्यवाचाम् ।  
+> तेजश् चाग्नेर् इवासौ कलयति विधिनेत्य्-एवम्-आदौ विचिन्त्य ॥  
+> पुष्ये मासी प्रकृष्टे प्रभवशुभदिने कृत्तिकायां शुभर्क्षे ।  
+> युक्तः श्रीवासयोगीश्वरकलिमथनस्यावतारः स जीयात् ॥
 
-Asthana nirvaham 
+என்ற பூர்வாசார்யஸூக்தியால் இவரது அவதார வர்ஷ-மாஸாதிகளை அறியலாம். ஸகலசாஸ்த்ரபாரங்கதர். நமது ஸம்ப்ரதாயத்தில் அத்யதிகமான பாண்டித்யபூர்ணர். இவர் இந்த நூலில் பிராட்டிக்கு ஜகத்காரணத்வம், மோக்ஷப்ரதத்வம் கிடையாது என்று ஸாக்ரஹமாக காட்டமுற்பட்ட ஏகதேசியை கண்டிக்கிறார். ஏகதேசியும் ஸாதாரணபண்டிதரில்லை. ப்ரௌட பண்டிதர். அவர் போகும் வழியிலேயே சென்று ப்ரமாணங்களைக் காட்டி இதில் பிராட்டியின் உபாயத்வத்தை நிலைநாட்டினார்.
 
-**1737-1750** 
+பூர்வபக்ஷி பாஞ்சராத்ராகமங்களில் பூர்ணபரிச்ரமமுள்ளவர். அடிக்கடி புதுப்புது வசனங்களைக்காட்டி உபாயத்வமில்லை என்று மறுக்கிறார். நம் ஸ்ரீபரகாலஸ்வாமියோ அவருக்கும் மேலான மஹாபண்டிதர். प्रमाण-कुक्षिः என்னலாம். அவரைவிட அவர் கையாளாத நடைமுறையிலுள்ள
 
-Sri Maha Parakala Swamy was succeeded by Sri Srinivasa Swamy in the year 1737 ACE. Born in 1687 ACE (Shalivahana year 1609), prabhava samvatsara pushyamasa krittika nakshatra in Pavugada village in the lineage of Thirumalai, this Swamy was known as Sri Venkatacharya in his purvashramam. This Swamy's own avatara nakshatra shlokam is as follows- 
+[[Pxxiii]]
 
-पुष्येत् सर्वार्थसिद्धीः प्रभवति च चतुर्वेदतद्भाष्यवाचाम् । तेजश्चाग्नेरिवासौ कलयति विधिनेत्येवमादौ विचिन्त्य ॥ 
+பாஞ்சராத்ராகமநூல்களையும் ப்ரமாணமாகக்காட்டி பூர்வபக்ஷியை மறுக்கிறார். இதில் ஸ்ரீபரகாலஸ்வாமி, பாஞ்சராத்ராகமங்களுடன் தர்மசாஸ்த்ராதிகளையும், பூர்வாசார்ய ஸ்ரீஸூக்திகளையும் அதிகமாகக்காட்டி பிராட்டியின் உபாயத்வத்தை நிலைநாட்டினார். பூர்வபக்ஷி தனது தர்க்கபாண்டித்யத்தை ஆங்காங்கே காட்டுகிறார். நம் பரகாலஸ்வாமියோ அதைவிடவும் மேலாக தர்க்கந்யாயங்களையும் காட்டி அவரை மறுக்கிறார். சாஸ்த்ரரஸிகர்களுக்கு இது பெரிய விருந்து – என்பதுடன், பிராட்டியின் உண்மையான நிலையை விளக்கும் கண்ணாடி இது – என்னலாம்.
 
-पुष्येमासी प्रकृष्टे प्रभवशुभदिने कृत्तिकायां शुभर्क्षे । 
+இந்த புஸ்தகத்தை அச்சிட்டு வெளிக்கொணர ஸாம்ப்ரதிக ஸ்ரீபரகாலஸ்வாமி திருவுள்ளப்பட்டது ஸ்ரீலக்ஷ்மீஹயக்ரீவனின் க்ருபையே. இது என்றோ வெளிவந்திருக்க வேண்டும். ஏகதேசிகளின் தூஷணங்களுக்கு இருநூறு வருஷங்கள் முன்பு எழுந்தருளியிருந்த ஸ்ரீமத்பரமஹ்மஸேத்யாதி பிள்ளைப்பாக்கம் ஸ்ரீவீரராகவயதீந்த்ர மஹாதேசிகன் எழுதிய பதில்களைத்திரட்டி வெளியிட்டோம். அடியேன் என்னும் நூலையும், ஸ்ரீமதுபயவே. திருப்புட்குழி ஸ்வாமி என்று ப்ரஸித்தரான ஸ்ரீஏடூர் இம்மிடி லக்ஷ்மீகுமார கோடிகன்யகாதானம் ஸ்ரீக்ருஷ்ணதாதாசார்ய ஸ்வாமியும், அவர் குமாரரும் என்னும் கண்டன நூலையும் எழுதியுள்ளனர். கண்டன-மண்டனங்களுக்கு நாம்
 
-युक्तः श्रीवासयोगीश्वरकलिमथनस्यावतारः स जीयात् ॥ 
+[[Pxxiv]]
 
-This Swamy took to sanyasam in kalayukti samvatsaram, bhadrapada bahulapratipatti day. Swamy performed bhagavad\-bhaagavatha kainkaryam, grantha rachana and kalakshepams in grand style. Swamy authored around 32 works that included   
-Lakshmyupaayatvadeepa,   
-— 
+முயலவில்லை, ஆயினும் தத்துவம் தெரியவேண்டாமா? என்றார்களே. இந்த க்ரந்தத்தில் அடியேன் ஸம்ப்ரதாயார்த்தங்களைத் முடிந்தவரையில் தமிழில் தெரிவித்துள்ளேன்.
 
-xvii   
-Nyasaprakashika, Nyasaprakashika\-vivritti, mangalam and Parakala vaibhavaprakashika.   
-Parakal 
+புதிதாக ஒரு நூல் ஒரு விஷயத்தைப் பற்றி எழுதிவிடலாம். ஆனால் ஒரு நூலை மொழிபெயர்ப்பதில் பல சிக்கல்கள் உள்ளன. மூலநூல் எழுதியவர் எந்த நிலையில் எந்த பொருளை எப்படிப்பார்க்கிறார் - என்பதை ஓரளவுக்கு உணர்ந்தால்தான் அவரது கொள்கையை அறியமுடியும். இதில் பூர்வபக்ஷி பல இடங்களில் அடாவடியாகக் கூறுகிறார். ஸ்ரீஸ்வாமிதேசிகனின் மற்றைய ஸ்ரீஸூக்திகளை முழுவதுமாக அவர் காணாதவர்.
 
-This Swamy also authored an avatara nakshatra shloka for his Acharya, Sri Maha Parakala Swamy. 
+ஏகதேசிகளிலும் ப்ராசீனர்கள் பிராட்டிக்கு ஸ்ரீதேசிகன் ஒப்பிய அங்கீகரித்தனர். இடைக்காலத்தில்தான் ஸ்ரீதேசிகன் கூறிய யாவற்றையும் மறுக்கவேண்டும் - என்று அவர்கள் முயன்றனர். சரணாகதி பண்ணுவதில் பிராட்டி - கைவல்யம் - அந்தர்வ்யாப்தி - அணுத்வம் முதலானவைகளை நிரூபணம் செய்வதில் ஏகதேசிகளுக்கும் நமக்கும் அபிப்ராய பேதமுண்டு.
 
-श्रीमहापरकालस्वामि अवतार नक्षत्रम् 
+அஷ்டாதச பேதங்கள் உண்டு எனக்காட்டினார்கள் - விரிவு வேறிடத்தில். இவைகளில் இந்நூலில் சரணாகதி-பிராட்டி என்ற இருவிஷயங்களைப் பற்றியே விசாரித்துள்ளார் பூர்வபக்ஷி. ஆகவே நாமும் அவைகளைப் பற்றியே மற்றைய
 
-मन्मथाख्याब्दवैशाख मासार्द्रातारकोद्भवम् । 
+[[Pxxv]]
 
-महान्तं परकालाख्य यतिराजमहं भजे ॥ 
+ப்ரமாணங்களைக்காட்டி ஸத்ஸம்ப்ரதாயத்தை நிலைநாட்டினோம்.
 
-Swamy remained on the acharya peetam till 1750 ACE for a period of 13 years and attained acharya's lotus feet in prajotpatti samvatsara on a bhadrapada bahula\-shashti. 
+எது எப்படியாயினும் இந்த ஸ்ரீபரகாலஸ்வாமி மஹான். பிராட்டியைப்பற்றி தெளிவாக இவர் இங்கு அருளியதைவிட விசதமாய் யாரும் கூறமுடியாது. இதை அநுஸந்திக்கவும், மொழிபெயர்க்கவும் அடியேனுக்கு ஏற்பட்ட ஒரு வாய்ப்பாகவே கொண்டு இதைச்செய்து முடித்துள்ளேன். வித்வான்கள் ப்ரமாணம்.
 
-Swami's taniyan is as follows \- 
+இதில் அடியேனை ஈடுபடுத்திய ப்ரஹ்மஸேத்யாதி ப்ரக்ருதம் ஸ்ரீமதபினவ வாகீஷ ப்ரஹ்மதந்த்ர ஸ்வதந்த்ர பரகால ஸ்வாமிகளின் திருவடிவாரங்களில் அடியேனது அனந்தப்ரணாமங்கள்.
 
-श्रीमच्छ्रीपरकालसंयमिवरादात्तापवर्गाश्रम 
+[[Pxxvi]]
 
-श्रुत्यन्तद्वयसारसारथिवचो भाष्यार्थसम्यग्धियम् । श्रीमत्तातगुरौ समर्पितभरं तत्पादपद्माश्रयं 
+பையம்பாடி சேட்டலூர் ஸ்ரீவாஸுதேவார்ய ஸூநு ஸ்ரீவத்ஸாங்காசார்யன்.
 
-श्रीवासं परकालयोगितिलकं दान्तं श्रयामोऽन्वहम् ॥ ज्ञानाम्बुराशिपरकालगुरोरवाप्त वेदान्तयुग्मचरमाश्रमसंप्रदायम् । श्रीतातदेशिकपदार्पितनैजभारं श्री श्रीनिवासपरकालगुरुं श्रयामः ॥ 
+---
 
-xviii வி: 
+[[P1]]
 
-॥ श्रीलक्ष्मीहयवदन\-लक्ष्मीनारायण\-वेणुगोपालपरब्रह्मणे नमः ॥ 
+श्रीः
 
-11289574-211415-24: 11 
+श्री-हयग्रीवाय नमः ।
 
-॥ श्री ब्रह्मतन्त्रस्वतन्त्रपरकालगुरुपरम्परायै नमः॥ 
+### लक्ष्म्य्-उपायत्व-दीपः
 
-ஸ்ரீபரமஹம்ஸேத்யாதி ஸ்ரீஸ்ரீநிவாஸ 
+श्रीमते रामानुजाय नमः । श्रीमते निगमान्त-महादेशिकाय नमः ॥  
+श्रीमते परकाल-संयमीन्द्र-महादेशिकाय नमः । श्रीमते श्रीनिवास-परकाल-महादेशिकाय नमः ॥
 
-ப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகால மஹாதேகனின் வைபவம் 
+#### लक्ष्म्य्-उपायत्व-दीपः (ल. उ. दी)
 
-ஸ்ரீபரமஹம்ஸேத்யாதி   
-ஸ்ரீஸ்ரீநிவாஸ 
+> उपायत्वम् उपेयत्वम् इव व्यासज्य-वृत्तिकम् ।  
+> ययोर् एकं विजयते दिव्यौ तौ दम्पती श्रये ॥ १ ॥
 
-ப்ரஹ்மதந்த்ரஸ்வதந்த்ர பரகால மஹாதேசிகன் என்ற திருநாமத்தோடு பரகால ஆஸ்தானத்தின் 22ம் பட்டத்தை அலங்கரித்த இந்த மஹான், சாலிவாஹன வருஷம் 1609 (1687 ACE) ப்ரபவ ஸம்வத்ஸர ஐப்பசி கார்த்திகை நக்ஷத்ரத்தில், ஆந்திர மாநிலத்தில் உள்ள பவுகுடா என்ற ஸ்ரீக்ராமத்தில்   
-ஸ்ரீமத்திருமலை வம்ஸத்தில், ஸ்ரீநரஸிம்ஹதாதாசார்யரின் திருக்குமரராக அவதரித்தார். இவரது பூர்வாச்ரம திருநாமம் ஸ்ரீவேங்கடார்யர் என்பதாகும். 
+> वेदान्त-द्वय-सारार्थो विदितो यत्-प्रसादतः ।  
+> परकाल-गुरोस् तस्य पदाब्जं शरणं भजे ॥ २ ॥
 
-இந்த ஸ்வாமி சிறு வயதிலேயே நான்கு வேதங்களையும் பூர்ணமாக அத்யயனம் பண்ணியும், 
+> श्री-श्रीशयोः पदाम्भोजे येन न्यस्त-भरो ऽस्म्य् अहम् ।  
+> तस्य तात-गुरोः पाद-पद्मं शरणम् आश्रये ॥ ३ ॥
 
-அத்யாத்மவித்தையில்   
-சிறந்த 
+> निगमान्त-गुरुर् भास्वान् निखिलार्थ-प्रकाशकः ।  
+> हृदये मे ऽस्तु सततं यस्योदय-हतं तमः ॥ ४ ॥
 
-xix   
-தேர்ச்சிபெற்றும்,   
-ஜ்ஞானமுதிர்ச்சியுடனும், தேஜஸ்ஸுடனும் விளங்கியதை 
+> रामानुज-गुरुं नत्वा तद्-गुरूंश् च अखिलान् अपि ।  
+> कैङ्कर्यं वाचिकं किञ्चित् कलये कलुषापहम् ॥ ५ ॥
 
-அவரது அவதார நக்ஷத்ர ச்லோகத்தில் காணலாம். 
+> लक्ष्म्याः पुरुषकारत्व-मात्रं न उपायता भवेत् ।  
+> इति केचित् प्रभाषन्ते परास्तन् न तु सांप्रतम् ॥ ६ ॥
 
-पुष्येत् सर्वार्थसिद्धीः प्रभवति च चतुर्वेदतद्भाष्यवाचाम् । 
+---
 
-तेजश्चाग्नेरिवासौ कलयति विधिनेत्येवमादौ विचिन्त्य ॥ 
+#### लक्ष्மீ கடாக்ஷம் என்னும் உரையுடன் (लक्ष्मीकटाक्ष-उरै / ल. क)
 
-पुष्येमासी प्रकृष्टे प्रभवशुभदिने कृत्तिकायां शुभर्क्षे । युक्तः श्रीवासयोगीश्वरकलिमथनस्यावतारः स जीयात् ॥ 
+> सर्व-शास्त्रार्थ-निष्णाताः परकाल-गुरूत्तमाः ।  
+> लक्ष्म्य्-उपायत्व-दीपेन विश्व-व्याप्तं घनं तमः ॥ १ ॥
 
-இந்த ஸ்வாமி, ஸ்ரீ மஹாபரகால ஸ்வாமி என்று உலகமே போற்றப்பட்ட 21ம் பட்டம் ஸ்ரீபரமஹம்ஸேத்யாதி 
+> न्यवर्तयन् महात्मानः ते के? क्व अहम् च मन्द-धीः ।  
+> तथापि श्री-यति-श्रेष्ठ-परकालाज्ञयाधुना ॥ २ ॥
 
-ப்ரம்ஹதந்த்ரஸ்வதந்த்ர   
-மஹாதேசினிடம் 
+> परकाल-यतीशान-आरोपितस्य प्रभावतः ।  
+> लक्ष्म्य्-उपायत्व-दीपस्य व्याख्यां लक्ष्मी-कटाक्षणात् ॥ ३ ॥
 
-கைங்கர்யங்களைச் செய்து உபய வேதாந்த க்ரந்தங்களை (ரஹஸ்யக்ரந்தங்கள் உட்பட) அதிகரித்தார். ப்ரபல குருவான ஸ்ரீசைலதாதாசார்யரிடம் ஆத்ம பரத்தை ஸமர்ப்பித்தார். பிறகு க்ரந்த காலசேஷபங்களை கம்பீரமான 
+> श्रीरङ्ग-लक्ष्मणाभिख्य-यतीश्वर-पदाश्रयः ।  
+> श्री-वीरराघवाचार्य-शिष्यः कौशिक-वंशजः ॥ ४ ॥
 
-முறையில் சாதித்து வந்தார். இந்த ஸ்வாமி, 
 
-மஹாபரகால   
-ஸ்ரீபரமஹம்ஸேத்யாதி   
-ஸ்ரீ 
+> श्री-वासुदेवार्य-सूनुः श्रीवत्साङ्को ऽनुवादनम् ।  
+> तनोति, महताम् आज्ञां शिरसा धारयन् शुभाम् ॥ ५ ॥
 
-ப்ரம்ஹதந்த்ரஸ்வதந்த்ர மஹாதேசினிடம் துரீயாச்ரமம் ஸ்வீகரித்தார். இவர் இந்த நான்காவது ஆச்ரமத்தை சாலிவாஹன வருஷம் 1659, காலயுக்தி ஸம்வத்ஸரம் புரட்டாசி மாதத்தில் ஸ்வீகரித்தார். இவர் தமது ஆசார்யனான ஸ்ரீ மஹாபரகாலஸ்வாமியின் திருவவதார நக்ஷத்ர ஸ்லோகத்தை பக்தியுடனும், மிகுந்த ரசனையுடனும் அருளியதை கீழே காணலாம். 
+1. எம்பெருமான் திருவடிகளை எம்பெருமானே எப்படி உபாயமாக இருக்கிறாரோ അതേபோல் பெரியபிராட்டியாரும் உபாயமாகும் நிலை இவ்விருவரிடமும் சேர்ந்தேயிருக்கிறது. அத்தகைய திவ்ய தம்பதிகளான எம்பெருமானையும் பெரியபிராட்டியாரையும் அடியேன் சரணமாகப் பற்றுகிறேன்.
 
-XX   
-श्रीमहापरकालस्वामि अवतार नक्षत्रम् 
+2. ஸம்ஸ்க்ருத வேதாந்த நூல்கள் - த்ராவிட வேதாந்த நூல்கள் என்ற இந்த இரண்டுவகையான வேதாந்தங்களின் ஸாரார்த்தங்கள் யாவும் எந்த மஹானின் திருவருளால் அடியேனுக்கு ஏற்பட்டதோ அத்தகைய மஹானான श्रीपरकालस्वामि-களின் திருவடித்தாமரைகளை சரணமாகப் பற்றுகிறேன்.
 
-मन्मथाख्याब्दवैशाख मासार्द्रातारकोद्भवम् । 
+3. எம்பெருமானுடையவும் பெரியபிராட்டியாருடையவும் திருவடித்தாமரைகளில் எந்த மஹானால் அடியேனைப் பாதுகாக்க வேண்டிய பாரம் ஸமர்ப்பிக்கப்பட்டதோ - அந்த
 
-महान्तं परकालाख्य यतिराजमहं भजे ॥ 
+[[P2]]
 
-இந்த ஸ்வாமி, பூர்வாச்ரமத்திலும், துரீயாச்ரமத்திலும் 
+ஸ்ரீதாதகுருவின் திருவடித்தாமரைகளை அடியேன் சரணமாகப் பற்றுகிறேன்.
 
-32க்கும் மேற்பட்ட க்ரந்தங்களைச் 
+4. எல்லாவிதப்பொருட்களையும் நன்கு விளக்கும் ஸூர்யனைப்போன்ற ஸ்ரீநிகமாந்தமஹாதேசிகன் அடியேன் மனதில் எப்போதும் விளங்கட்டும். இவர் உதயமான பின்னேதான் அஜ்ज्ञानமாகிய இருட்டு உலகில் நீங்கியது.
 
-அவைகளுள் சில அரிய க்ரந்தங்களாவன:   
-சாதித்துள்ளார். 
+5. ஸ்ரீபகவத் ராமாநுஜரையும், அவரது ஆசார்யர்களான ஸ்ரீபெரியநம்பி முதல் எம்பெருமான் வரையிலுமுள்ள எல்லோர்களையும் வணங்கி - பிறமதத்தினரால் கலக்கமுற்ற நம் ப்राசீன ஸம்ப்ரதாயத்தைத் தெளிவாக்க வாயால் ஓதக்கூடிய நூலாகிய ஒரு சிறு கைங்கர்யத்தை அடியேன் செய்கிறேன்.
 
-1\. லக்ஷ்மீ உபாயத்வ தீப: 
+6. “பெரியபிராட்டிக்கு - நம்மைப்பற்றி எம்பெருமானிடம் பரிந்து பேசி அநுகூலிப்பது மட்டுமே உண்டு. எம்பெருமானைப்போல் மோக்ஷத்திற்கு உபாயமாகும் நிலை கிடையாது" என்று ஒரு சிலர் கூறுகின்றனர். அது நேரில்லை.
 
-2\. ந்யாய ப்ரகாசிகா 
+---
 
-3\. ந்யாய ப்ரகாசிக விவ்ருத்தி 
+(S.3) "[[ain q4|वेदाहमेतं पुरुषं महान्तम्]]", "आत्मा वा अरे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यः”, “यो ब्रह्माणम् विदधाति पूर्वं यो वै वेदांश् च प्रहिणोति [[तस्मौ तरह|तस्मै तां ह]] देवम् आत्म-बुद्धि-प्रसादम् मुमुक्षुर् वै शरणम् अहम् प्रपद्ये" इत्यादिभिः न्यासोपासनविषयत्वेन प्रतिपन्नस्य ब्रह्मणो लक्षणं "यतो वा इमानि भूतानि जायन्ते । येन जातानि जीवन्ति । यत् प्रयन्त्य्-अभिसंविशन्ति ।", "सद् एव सोम्येदमग्र आसीत् एकम् एव-अद्वितीयं", "आत्मा वा इदम् एक एकाग्र आसीत्, एको ह वै नारायण आसीन् न ब्रह्मा न ईशा नो नेमे द्यावापृथिवी" इत्यादिभिः जगज्-जन्म-आदि-कारणत्वं प्रतिपादितं तच् च
 
-4\. பரகால மங்கலம் 
+[[P3]]
 
-5\. பரகால வைபவப்ரகாசிகா 
+प्रथमरहस्याद्यप्रणवाद्यक्षरेणापि प्रतिपाद्यते । तच् च लक्ष्मी-विशिष्ट-भगवन्-निष्ठम्, न भगवन्-मात्र-निष्ठम् ।
 
-இவர் பரகாலமட ஆசார்ய பீடத்தை சாலிவாஹன வருஷம் 1672 (1750 ACE) வரை, 13 ஆண்டுகள், கம்பீரமாக 
+> "नित्यैवेषा जगन्माता विष्णोः श्रीर् अनपायिनी ।  
+> यथा सर्वगतो विष्णुस् तथैवेयं द्विजोत्तम ॥"
 
-அலங்கரித்து, ப்ராஜாபதி ஸம்வத்ஸரம் பாத்ரபத பகுல சஷ்டி அன்று தமது ஆசார்யன் திருவடிகளை அடைந்தார். 
+> “त्वं माता सर्वलोकानां देवदेवो हरिः पिता ।  
+> त्वया च विष्णुना चाम्ब जगद्-व्याप्तं चराचरम् ॥”
 
-இந்த மஹானின் தனியன்: 
+> "लक्ष्म्या समस्तं चिद्-अचित्-स्वरूपं व्याप्तं तद्-ईशस्य तु सा ऽपि सर्वम् ।  
+> तथापि साधारणम् ईशितृत्वं श्री-श्रीशयोर् [[द्व्वी|द्वि]] च सदैक-शेषी ॥"
 
-श्रीमच्छ्रीपरकालसंयमिवरादात्तापवर्गाश्रम 
+*(“लक्ष्म्यास् समस्तश् चिद्-अचित्-प्रपञ्चो व्याप्यः” इति पाठान्तरम्)* इत्यादिभिर् भगवत्-स्वरूपस्यैव तन्-निरूपक-भूत-लक्ष्मी-स्वरूपस्यापि कारणत्व-व्यापकत्व-नियन्तृत्वादिवचनात् "सर्वस्य वशी सर्वस्येशानः”, “पतिं विश्वस्यात्मेश्वरम्” इत्यादिना भगवत्-स्वरूपस्यैव "अस्येशाना जगतो विष्णुपत्नी”, “ईश्वरी सर्वभूतानाम्" इत्यादिना तद्-असाधारण-श्री-स्वरूपस्यापि सर्व-शेषित्व-श्रवणाच् च ।
 
-श्रुत्यन्तद्वयसारसारथिवचो भाष्यार्थसम्यग्धियम् । श्रीमत्तातगुरौ समर्पितभरं तत्पादपद्माश्रयं 
+अत एव "कारणं तु ध्येयम्" इत्यादिना जगत्-कारणस्यैव न्यासोपासनविषय-सिद्धोपायतया द्वितीय-तृतीयरहस्य-प्रतिपन्नम् उपायत्वम् अपि लक्ष्मी-विशिष्ट-निष्ठम् एव, तथा च शास्त्रेषु प्रतिपाद्यते ।
 
-श्रीवासं परकालयोगितिलकं दान्तं श्रयामोऽन्वहम् ॥ ज्ञानाम्बुराशिपरकालगुरोरवाप्त वेदान्तयुग्मचरमाश्रमसंप्रदायम् । श्रीतातदेशिकपदार्पितनैजभारं श्री श्रीनिवासपरकालगुरुं श्रयामः॥ 
+> “लक्ष्मीं च मां सुरेशेश द्वयेन शरणं गतः ।  
+> मल्-लोकम् अचिराल्-लब्ध्वा मत्-सायुज्यं स गच्छति ॥
 
-xxi   
-11 17:11 
+> निरुपाधि-स्वतंत्रश् च स्वामी नः करुणा-निधिः ।  
+> निरुपाधि-स्वतंत्रा च स्वामिनी नः कृपा-निधिः ॥
 
-॥ श्रीलक्ष्मीहयवदन\-लक्ष्मीनारायण\-वेणुगोपालपरब्रह्मणे नमः ॥ 
+> त्वम् एव सर्व-शास्त्रेषु शरणत्वेन नीयसे ।  
+> आत्मात्मीयं च यत् किञ्चिद् दुर्भरं दुस्त्यजं मम ॥
 
-/13 288957\---4:11 ॥ श्री ब्रह्मतन्त्रस्वतन्त्रपरकालगुरुपरम्परायै नमः॥ 
+> तत् सर्वं तव विन्यस्तं शुभयोः पाद-पद्मयोः ।  
+> उपेयस्य तव प्राप्त्यै त्वाम् उपायतया वृणे ॥
 
-முன்னுரை 
+[[P4]]
 
-சில மாதங்களுக்கு முன்பாக தற்போது மஹீசூரபுரீநகரில் ஸ்ரீப்ரம்ஹதந்த்ர ஸ்வதந்த்ரபரகால மடத்தில் மூர்த்தாபிஷிக்தராய் எழுந்தருளியிருக்கும் ஸ்ரீபரமஹம்ஸேத்யாதி ஸ்ரீமதபிநவ வாகீஸ ப்ரஹ்மதந்த்ர ஸ்வதந்த்ர பரகாலமஹாதேசிகன் அடியேனிடம் க்ருபையாக இந்த ஸ்ரீகோசத்தைக் கொடுத்து இதை தமிழில் 
+> उपायो भव मे देव शरणं भव मे ऽच्युत ।  
+> उपायो भव मे देवि शरणं भव मे ऽम्बुजे ॥
 
-யதோக்தமாய்   
-மொழிபெயர்த்துத்   
-தரும்படி 
+> पुष्य मे दुरितं सर्वं पुष्य मे त्वद्-गतां धियम् ।  
+> इत्य्-एवम्-अनुसंधाय मां प्रपद्येत वै गतिम् ॥
 
-அருளிச்செய்தாயிற்று. க்ரந்த ப்ரசாரண ஸமிதிக்கு 
+> आदि-देवं जगन्-नाथम् ईशं वा पुरुषोत्तमम् ।  
+> सकृद् एव प्रपन्नस्य कृत्यं नैवावशिष्यते ॥”
 
-அத்யக்ஷரான   
-மஹாமஹோபாத்யாய 
+\- इति भगवत इव देव्या अप्य् उपायत्व-प्रतीतेः । किञ्च, "चन्द्रां प्रभासां यशसा ज्वलन्तीं श्रियं लोके देवजुष्टाम् उदाराम् । तां पद्मनेमीं शरणम् अहम् प्रपद्ये ऽलक्ष्मीर् मे नश्यतां त्वां वृणे ।", "वाचः परं प्रार्थयिता प्रपद्येन् नियतः श्रियम्" इति विशेषेण प्रपत्तव्यत्वं श्रुत्यादिभिर् अवगम्यते ।
 
-ஸ்ரீவேங்கடநாதாசார்ய ஸ்வாமியும் அடியேனை இதைச் 
+अभिहितं चाभियुक्तैः —
 
-செய்யவேண்டும்   
-ஸ்ரீமத் பரகாலஸ்வாமியின் 
+> “यत्-पदाम्भोज-घटिता प्रणतिर् दुर्लभान्य् अपि ।  
+> पदानि परमां मुक्तिं सूते तां श्रियम् आश्रये ॥” इति ।
 
-அசீதிமஹோத்ஸவாங்கமாக இந்தநூல் மூலநூலான 
+अपि च —
 
-ஸம்ஸ்க்ருத புஸ்தகத்துடன் மொழிபெயர்ப்பையும் 
+> "प्रणिपात-प्रसन्ना हि मैथिली जनकात्मजा ॥  
+> अलम् एषा परित्रातुं राक्षस्यो महतो भयात् ।  
+> अभियाचाम वैदेहीम् एतत् हि मम रोचते ॥” इति
 
-வெளியிடத் திருவுள்ளம்   
-\-   
-என்று க்ருபையாக ஸ்ரீமுகம் 
+रामभयार्दितानाम् आर्द्रागसां राक्षसीनां “भवेयं शरणं हि वः” इत्य् अभयं प्रदाय —
 
-அருளினார். மஹான்களின் நியமனத்தை சிரஸாவஹித்து 
+> “राजसंश्रयवश्यानां कुर्वतीनां पराज्ञया ।  
+> विधेयानाञ्च दासीनां कः कुप्येद् वानरोत्तम ॥
 
-இதை அடியேன் யதாசக்தி மொழிபெயர்த்துள்ளேன். 
+> पापानां वा शुभानां वा वधार्हाणां प्लवङ्गम ।  
+> कार्यं करुणम् आर्येण न कश्चिन् नापराध्यति ॥" इति
 
-xxii   
-மூலக்ரந்தகாரரான   
-ஸ்ரீபரமஹம்ஸேத்யாதி 
+श्रीरामपरिकरभूतान् मारुतात्मजाद् रक्षणं कुर्वत्या देव्या देवादपि शरण्यत्वं सुस्पष्टम् । देवो ऽपि —
 
-ஸ்ரீநிவாஸ ப்ரம்ஹதந்த்ர ஸ்வதந்த்ர பரகாலஸ்வாமி (22ம் 
+> “स पित्रा च परित्यक्तः सुरैश् च समहर्षिभिः ।  
+> त्रींल् लोकान् संपरिक्रम्य तम् एव शरणं गतः ॥
 
-பட்டம்) ஏறத்தாழ 250 
+> स तं निपतितं भूमौ शरण्यः शरणागतम् ।
 
-எழுந்தருளியிருந்தவர்.   
-ஸம்வத்ஸரங்களுக்கு முன்பு 
+[[P5]]
 
-पुष्येत् सर्वार्थसिद्धीः प्रभवति च चतुर्वेदतद्भाष्यवाचाम् । 
+> वधार्हम् अपि काकुत्स्थः कृपया पर्यपालयत् ॥”
 
-तेजश्चाग्नेरिवासौ कलयति विधिनेत्येवमादौ विचिन्त्य ॥ 
+इत्य् अनन्यगतिमार्तं प्रपन्नं काकम् एकाङ्गवैकल्येन पालयामास ।
 
-पुष्ये मासी प्रकृष्टे प्रभवशुभदिने कृत्तिकायां शुभर्क्षे । युक्तः श्रीवासयोगीश्वरकलिमथनस्यावतारः स जीयात् ॥ 
+> "त्यक्त्वा पुत्रांश् च दारांश् च राघवं शरणं गतः ।  
+> परित्यक्ता मया लङ्का मित्राणि च धनानि च ॥
 
-என்ற பூர்வாசார்யஸூக்தியால் இவரது அவதார வர்ஷு- 
+> भवद्-गतं मे राज्यं च जीवितं च सुखानि च ॥”
 
-மாஸாதிகளை அறியலாம். ஸகலசாஸ்த்ரபாரங்கதர். நமது 
+\- इति सर्वं परित्यज्य शरणागतं विभीषणं च वध्यतां वध्यताम् इति निगृहीतवतस् सुग्रीवप्रमुखान् अनुनीय —
 
-ஸம்ப்ரதாயத்தில் அத்யதிகமான பாண்டித்யபூர்ணர். இவர் 
+> "श्रूयते हि कपोतेन शत्रुः शरणम् आगतः ।  
+> अर्चितश् च यथान्याय्यं स्वैश् च मांसैर् निमन्त्रितः ॥" इति
 
-இந்த   
-நூலில் பிராட்டிக்கு ஜகத்காரணத்வம், மோக்ஷப்ரதத்வம் கிடையாது என்று ஸாக்ரஹமாக காட்டமுற்பட்ட ஏகதேசியை கண்டிக்கிறார். ஏகதேசியும் ஸாதாரணபண்டிதரில்லை. ப்ரௌட   
-ப்ரௌட பண்டிதர். அவர் போகும் வழியிலேயே சென்று ப்ரமாணங்களைக் காட்டி இதில் பிராட்டியின் உபாயத்வத்தை நிலைநாட்டினார். 
+कपोतोपाख्यानम् अप्य् उदाहृत्य,
 
-பூர்வபக்ஷி   
-பாஞ்சராத்ராகமங்களில் 
+> “आर्तो वा यदि वा दृप्तः परेषां शरणम् आगतः ।  
+> अरिः प्राणान् परित्यज्य रक्षितव्यः कृतात्मना ॥”
 
-பூர்ணபரிச்ரமமுள்ளவர்.   
-அடிக்கடி   
-புதுப்புது 
+\- इति कण्डुवचनमुखेन शरणागतरक्षणस्य परमधर्मत्वं प्रतिपाद्य —
 
-வசனங்களைக்காட்டி உபாயத்வமில்லை   
-என்று 
+> “मित्रभावेन सम्प्राप्तं न त्यजेयं कथञ्चन ।  
+> दोषो यद्यपि तस्य स्यात् सताम् एतद् गर्हितम् ॥" इति
 
-மறுக்கிறார். நம் ஸ்ரீபரகாலஸ்வாமியோ   
-அவருக்கும் 
+कथञ्चित् स्वीचकार । तद् इदम् उक्तम् अभियुक्तैः —
 
-மேலான மஹாபண்டிதர். प्रमाणकुक्षिः என்னலாம். 
+> “मातर् मैथिलि राक्षसीस् त्वयि तदैवार्द्रापराधास् त्वया  
+> रक्षन्त्या पवनात्मजाल् लघुतरा रामस्य गोष्ठी कृता ।  
+> काकं तं च विभीषणं च शरणम् इत्य्-उक्ति-क्षमौ रक्षतः  
+> सा नस् सान्द्रमहागसस् सुखयतु क्षान्तिस् तवाकस्मिकी ॥” इति ।
 
-அவரைவிட அவர் கையாளாத   
-நடைமுறையிலுள்ள 
+अतः सर्वलोकशरण्याद् अपि शरण्यभूता सा लक्ष्मीः सर्वाभीष्टसिद्ध्यर्थं संसारनिवृत्त्यर्थं च सर्वैर् उपायत्वेन आश्रयणीया,
 
-xxiii   
-பாஞ்சராத்ராகமநூல்களையும்   
-ப்ரமாணமாகக்காட்டி 
+> “सर्वकामप्रदां रम्यां संसारार्णवतारिणीम् ।  
+> क्षिप्रप्रसादिनीं लक्ष्मीं शरण्याम् अनुचिन्तयेत् ॥
 
-பூர்வபக்ஷியை மறுக்கிறார். இதில் ஸ்ரீபரகாலஸ்வாமி, 
+> अनेनैवं प्रपन्नस्य श्रियं देवीं सनातनीम् ।
 
-தர்மசாஸ்த்ராதிகளையும்,   
-பாஞ்சராத்ராகமங்களுடன்   
-\- 
+[[P6]]
 
-பூர்வாசார்ய ஸ்ரீஸூக்திகளையும் அதிகமாகக்காட்டி 
+> पापानुषङ्गस् सकलः तत्क्षणाद् एव नश्यति ॥
 
-பிராட்டியின் உபாயத்வத்தை நிலைநாட்டினார். பூர்வபக்ஷி 
+> प्रायश्चित्तप्रसङ्गे तु सर्वपापसमुद्भवे ।  
+> माम् एकां देवदेवस्य महिषीं शरणं व्रजेत् ॥” इति
 
-தனது தர்க்கபாண்டித்யத்தை ஆங்காங்கே காட்டுகிறார். நம் 
+विधानात् । एवं श्रुति-स्मृति-इतिहास-पुराणादि-सकल-प्रमाण-प्रसिद्धोपायता-शालिन्याः श्रियः श्रीमत्-पदेन शरण्य-भूत-नारायण-विशेषणत्व-प्रतिपादनात् तद्-विशिष्टस्यैव भगवत उपायत्वम् अकामेन अपि उररीकर्तव्यम् । तद् अपि विशिष्य विधीयते —
 
-அதைவிடவும் மேலாக   
-பரகாலஸ்வாமியோ 
+> “माम् एकं च श्रिया युक्तं भक्तियुक्तो नरोत्तमः ।  
+> द्वयेन मन्त्ररत्नेन मत्प्रियेण भजेत् सदा ॥
 
-தர்க்கந்யாயங்களையும் காட்டி அவரை மறுக்கிறார். சாஸ்த்ரரஸிகர்களுக்கு இது பெரிய விருந்து – என்பதுடன், 
+> अचिरात् मत्प्रसादेन मल्-लोकं च स गच्छति ।  
+> आकिञ्चन्यं समालम्ब्य बुद्ध्यैवं दृढया स्वया ॥
 
-பிராட்டியின் உண்மையான நிலையை விளக்கும் கண்ணாடி இது – என்னலாம். 
+> सर्वदा सर्वदेशेषु सर्वावस्थासु सर्वथा ।  
+> रक्षिष्यति हरिः श्रीमान् आश्रितान् इति निश्चयात् ॥
 
-\-   
-இந்த புஸ்தகத்தை அச்சிட்டு வெளிக்கொணர ஸாம்ப்ரதிக ஸ்ரீபரகாலஸ்வாமி திருவுள்ளப்பட்டது ஸ்ரீலக்ஷ்மீஹயக்ரீவனின் க்ருபையே. இது என்றோ 
+> आत्मात्मीयभरं सर्वं निक्षिप्य श्रीपतेः पदे ।  
+> उपायं वृणु लक्ष्मीशं तम् उपेयं विचिन्तयेत् ॥” इत्यादिभिः ।
 
-வெளிவந்திருக்க   
-வேண்டும்.   
-ஏகதேசிகளின் 
+तथा वचनान्तराण्यपि —
 
-தூஷணங்களுக்கு இருநூறு வருஷங்கள் முன்பு எழுந்தருளியிருந்த   
-ஸ்ரீமத்பரமஹ்மஸேத்யாதி 
+> “लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया ।  
+> रक्षकस् सर्वसिद्धान्ते वेदान्ते ऽपि च गीयते ॥
 
-பிள்ளைப்பாக்கம் ஸ்ரீவீரராகவயதீந்த்ர மஹாதேசிகன் எழுதிய பதில்களைத்திரட்டி வெளியிட்டோம். அடியேன் arai என்னும் நூலையும், ஸ்ரீமதுபயவே. திருப்புட்குழி ஸ்வாமி என்று ப்ரஸித்தரான ஸ்ரீஏடூர் இம்மிடி லக்ஷ்மீகுமார கோடிகன்யகாதானம் ஸ்ரீக்ருஷ்ணதாதாசார்ய ஸ்வாமியும், அவர் குமாரரும் எUH என்னும் கண்டன நூலையும் எழுதியுள்ளனர். கண்டன\-மண்டனங்களுக்கு   
-நாம் 
+> यन् मे ऽस्ति दुस्त्यजं किञ्चित् पुत्र-दार-क्रियादिकम् ।  
+> सर्वं तद्-आत्मना न्यस्तं श्रीपते तव पादयोः ॥
 
-xxiv   
-முயலவில்லை, ஆயினும் தத்துவம் தெரியவேண்டாமா? qa 
+> शरणं भव देवेश नाथ लक्ष्मीपते मम ।  
+> अहं मत्-प्राप्त्य्-उपायो वै साक्षाल्-लक्ष्मीपतिस् स्वयं ॥”
 
-arcond acz: என்றார்களே. இந்த க்ரந்தத்தில் அடியேன் ஸம்ப்ரதாயார்த்தங்களைத்   
-முடிந்தவரையில் 
+इत्यादीनि लक्ष्मी-विशिष्टोपायत्व-प्रतिपादकानि परश्-शतानि सन्ति ।
 
-தெரிவித்துள்ளேன்.   
-தமிழில் 
+---
 
-புதிதாக ஒரு நூல் ஒரு விஷயத்தைப் பற்றி எழுதிவிடலாம். ஆனால் ஒரு நூலை மொழிபெயர்ப்பதில் 
+[[P7]]
 
-பல சிக்கல்கள் உள்ளன. மூலநூல் எழுதியவர் எந்த நிலையில் எந்த பொருளை எப்படிப்பார்க்கிறார் \- என்பதை 
+#### (ல.க)
 
-ஓரளவுக்கு உணர்ந்தால்தான் அவரது கொள்கையை அறியமுடியும். இதில் பூர்வபக்ஷி பல இடங்களில் அடாவடியாகக் கூறுகிறார். ஸ்ரீஸ்வாமிதேசிகனின் மற்றைய ஸ்ரீஸூக்திகளை முழுவதுமாக அவர் காணாதவர். 
+"பரம் பொருளை உள்ளபடி அறிந்தவனே அந்த பரம்பொருளான ஸ்ரீமந்நாராயணனை அடைகிறான்”, “அந்த எம்பெருமானை இவ்விதம் நன்கு அறிந்தவனே மோக்ஷமடைகிறான்”, “அடியே மைத்ரேயி! அந்த பரமாத்மாதான் குருமுகமாக முதலில் நன்கு கேட்டறிந்து, அறிந்தபடி எண்ணிப்பார்த்து, பிறகு த்யானம் செய்து நேரில் (தர்ஸனஸமாநாகாரமாக) காணத்தகுந்தவன்”, “எவர் முதலில் பிரமனைப்படைத்து அவருக்கு எல்லா வேதங்களையும் அருளினாரோ அத்தகைய ஸ்ரீஹயக்ரீவனை ஆத்மாவுக்கான தெளிவான புத்தியை அருள்பவனை மோக்ஷம் செல்லவிரும்பும் அடியேன் சரணமாகப்பற்றுகிறேன்.” 
 
-ஏகதேசிகளிலும் ப்ராசீனர்கள் பிராட்டிக்கு ஸ்ரீதேசிகன் 
+இது முதலான வேதவாக்கியங்கள் பரமாத்மாவே பக்தியோகத்தாலும் சரணாகதியாலும் அடையக்கூடியவனென்று காட்டின. இத்தகைய ப்ரம்ஹத்துக்கு லக்ஷணமாக "யாரிடமிருந்து இந்த சேதனாசேதன ரூபமான ப்ரபஞ்சம் தோன்றியதோ, யாரால் பாதுகாக்கப்படுகிறதோ, ப்ரளயகாலத்தில் யாரிடம் ஒடுங்கிப்போகிறதோ, அதுவே ப்ரம்ஹம்" என்று காட்டியது. 
 
-ஒப்பிய   
-அங்கீகரித்தனர். 
+மேலும் "என்றும் எங்கும் எவ்விதத்திலும் உள்ள பொருளான படியால் सत् என்ற சொல்லால் பரம்பொருள் காட்டப்பட்டது. ஸ்ருஷ்டிக்கத் தொடங்கும் போது - மஹாப்ரளயகாலத்தில் இந்த ப்ரம்ஹம் ஒன்று மட்டுமே இருந்தது. இதற்கு நிகர் வேறு பொருளில்லை" என்றும், "எங்கும் வ்யாபித்ததானபடியால் आत्मा என்னப்பட்ட இந்த பரமாத்மா மட்டிலுமே ஸ்ருஷ்டி தொடங்கும் காலத்தில் இருந்தார்" என்றும், "ஸ்ரீமந்நாராயணன் என்ற அந்த பரமாத்மா ஒருவரே ஸ்ருஷ்டி தொடங்கும் காலத்தில் இருந்தார், நான்முகனோ - சிவனோ, இந்த மேல் - கீழ் உலகங்களோ இல்லை" என்றும் இப்படி எல்லா ஜகத்துக்கும் ஸ்ரீமந்நாராயணனே காரணம் - என்று பல ச்ருதிகள் காட்டுகின்றன.
 
-\-   
-நிலையையே 
+[[P8]]
 
-இடைக்காலத்தில்தான் ஸ்ரீதேசிகன் கூறிய யாவற்றையும் 
+இந்த விஷயம் மூன்று ரஹஸ்யங்களில் முதல் ரஹஸ்யமான திருவஷ்டாக்ஷரத்தில் முதல் பதமான ஓங்காரத்தில் முதல் எழுத்தான अ என்ற சொல்லாலும் தெரிவிக்கப்படுகிறது. இந்த ஜகத்காரணத்வம் என்பது - பெரியபிராட்டியான ஸ்ரீமஹாலக்ஷ்மியுடன் கூடிய भगवान्-இடமுள்ளது. भगवान् ஒருவர் மட்டிலும் இல்லை. 
 
-மறுக்கவேண்டும் \- என்று அவர்கள் முயன்றனர். சரணாகதி பிராட்டி \- கைவல்யம் அந்தர்வ்யாப்தி \- அணுத்வம் 
+"எல்லா உலகிற்கும் தாயான இந்த லக்ஷ்மிதேவி ஸ்ரீவிஷ்ணுவை விட்டு ஒருபோதும் நீங்காதவள்", "எங்கும் எதிலும் எம்பெருமான் எப்படி வ்யாபித்து உள்ளாரோ அதேபோல் இந்த பிராட்டியும் என்று அறிவீராக" - (என்று ஸ்ரீபராசரர் ஸ்ரீமைத்ரேயருக்கு உபதேசித்தார்.)
 
-பண்ணுவதில்   
-முதலானவைகளை   
-\- 
+இந்த்ரன் கூறுகிறான்: "எல்லா உலகிலுமுள்ள எல்லோருக்கும் தாயாக நீர் (லக்ஷ்மி) இருக்கிறீர். தேவர்களுக்கெல்லாம் தேவனான ஸ்ரீஹரியே உலகினர் யாவருக்கும் தந்தை. தாயே! தாயான உன்னாலும் ஸ்ரீவிஷ்ணுவாலும் இந்த அசையும் - அசையாததுமான உலகம் முழுவதும் வ்யாபிக்கப்பட்டிருக்கிறது."
 
-நிரூபணம் 
+அறிவுள்ளது - அறிவற்றது என்ற பாகுபாடுகளையுடைய இந்த ஸமஸ்த லோகமும் எங்கும் எப்போதும் அவளுக்குக் கணவனான எம்பெருமானுக்கு இவளும், ஸ்ரீமஹாலக்ஷ்மியால் இந்த எல்லா உலகமும் வ்யாபிக்கப்பட்டது. ஆளுகைக்கு உட்பட்டது. இந்த திவ்யதம்பதிகளான இருவருக்கும் பொதுவானது இவற்றுக்குத் தலைவனாயிருப்பது. ஆகவே இந்த श्री என்னப்பட்ட பெரியபிராட்டியும், श्रीशन् என்னப்பட்ட பரமாத்மாவும் எப்போதும் எல்லாவற்றிற்கும் சேஷிகள் = "உடமைகாரர்கள்" - என்பன போன்ற வசனங்கள் भगवत्-ஸ்வரூபத்துக்கு போன்று - பெரியபிராட்டியின் ஸ்வரூபத்துக்கும் எல்லா உலகுக்கும் காரணமாயிருப்பது - எங்கும் எதிலும் நீக்கமற வ்யாபித்திருப்பது - எப்பொருளையும் தன் கட்டுப்பாட்டில்
 
-ஏகதேசிகளுக்கும் நமக்கும் அபிப்ராய பேதமுண்டு. 
+[[P9]]
 
-அஷ்டாதச பேதங்கள் உண்டு எனக்காட்டினார்கள் \- விரிவு வேறிடத்தில். இவைகளில் இந்நூலில் சரணாகதி\-பிராட்டி என்ற இருவிஷயங்களைப் பற்றியே விசாரித்துள்ளார் 
+வைத்திருப்பது - முதலானவைகள் காட்டுகின்றன. மேலும் - "எதையும் தன் வயத்தில் பகவான் கொண்டுள்ளார், எல்லாவற்றிற்கும் அவரே தலைவர்”, "உலகிலுள்ள எல்லாவற்றிற்கும் ஸ்ரீமந்நாராயணனே தலைவர்" என்று பகவானைக் கூறுவதுபோல் "ஸ்ரீவிஷ்ணுவுக்கு பத்னியான பெரியபிராட்டி இந்த உலகினர் யாவருக்கும் தலைவி" என்றும், “எல்லா பூதர்களுக்கும் ஈஸ்வரி = தலைவி” என்றும் - பெருமானைப் போல பிராட்டியையும் சேஷி = உடமைகாரர் கோடியில் தெரிவித்த வசனங்களைக் காண்க.
 
-பூர்வபக்ஷி. ஆகவே நாமும் அவைகளைப் பற்றியே மற்றைய 
+இதே காரணத்தால் "ஜகத்துக்கு எது காரணமோ அதுவே த்யானம் செய்யத்தகுந்தது" என்று உலகிற்குக் காரணமானதே பக்தி-ப்ரபத்திகளாகிய உபாயங்களால் அடையமுடியும் என்பது இரண்டாவது ரஹஸ்யமான த்வயத்திலும், மூன்றாவது ரஹஸ்யமான சரமச்லோகத்திலும் தெரிவிக்கப்பட்டது. இந்த திவ்யதம்பதிகளையே இப்படியே சாஸ்த்ரங்களில் (பெருமாள் - பிராட்டிகளின் கூற்று) தெரிவிக்கப்பட்டுள்ளது:
 
-XXV   
-ப்ரமாணங்களைக்காட்டி நிலைநாட்டினோம்.   
-ஸத்ஸம்ப்ரதாயத்தை 
+"தேவர்களுக்கெல்லாம் தலைவனான இந்த்ரனே! லக்ஷ்மியையும் என்னையும் த்வயம் என்ற மந்த்ரத்தால் சரணம் புகுந்தவன் என் லோகத்தை விரைவில் அடைந்து எனக்கு ஸமானமான போகத்தை அடைகிறான்."
 
-எது எப்படியாயினும் இந்த ஸ்ரீபரகாலஸ்வாமி மஹான். பிராட்டியைப்பற்றி தெளிவாக இவர் இங்கு அருளியதைவிட விசதமாய் யாரும் கூறமுடியாது. இதை அநுஸந்திக்கவும், மொழிபெயர்க்கவும் அடியேனுக்கு 
+"இயல்பாகவே ஸர்வஸ்வதந்த்ரனும் தலைவனாயும் கருணைக்கடலாயும் பகவான் உள்ளார். அதே போல் அருளுக்கு இருப்பிடமாய் ஸர்வஸ்வதந்த்ரையாய் பெரியபிராட்டியாரும் உள்ளார்.”
 
-ஏற்பட்ட ஒரு வாய்ப்பாகவே கொண்டு இதைச்செய்து முடித்துள்ளேன். வித்வான்கள் ப்ரமாணம். 
+"பிராட்டியே! எல்லா சாஸ்த்ரங்களிலும் நீதான் பாதுகாப்பாக தெரிவிக்கப்படுகிறாய். அடியேனையும், அடியேனைச் சேர்ந்தவர்களுமான எங்கள் எல்லோருடையவுமான ரக்ஷணபாரம் முழுவதையும் தேவரீருடைய மங்களகரமான திருவடித்தாமரைகளில் ஸமர்ப்பித்துவிட்டோம். இந்த
 
-இதில் அடியேனை ஈடுபடுத்திய ப்ரஹ்மஸேத்யாதி ப்ரக்ருதம் ஸ்ரீமதபினவ வாகீ ப்ரஹ்மதந்த்ர ஸ்வதந்த்ர பரகால ஸ்வாமிகளின் திருவடிவாரங்களில் அடியேனது 
+[[P10]]
 
-அனந்தப்ரணாமங்கள். 
+பாரங்கள் = பாபங்கள் - எங்களால் தாங்க முடியாது. விடவும் முடியாது."
 
-xxvi   
-பையம்பாடி சேட்டலூர் ஸ்ரீவாஸுதேவார்ய ஸூநு ஸ்ரீவத்ஸாங்காசார்யன். 
+"அடைய வேண்டிய மோக்ஷத்துக்காக தேவரீரையே உபாயமாக அடியேன் வரிக்கிறேன். அடியேனை நழுவவிடாமல் தேவரீர் உபாயமாக இருந்து அருளவேண்டும்."
 
-श्रीः 
+"தேவி! தாமரையாளே! அடியேனுக்கு மோக்ஷாபாயமாக தேவரீர் இருக்கவேண்டும். எனது எல்லா பாபங்களையும் தேவரீர் தீர்த்து வைத்து, அடியேனுக்கு தேவரீரைப் பற்றிய புத்தியே எப்போதும் இருக்க அருள்வாயாக."
 
-श्रीहयग्रीवाय नमः   
-लक्ष्म्युपायत्वदीपः 
+"இப்படி மனதில் எண்ணிக்கொண்டு மோக்ஷமடைய என்னைச் சரணம் புகுந்து, எல்லோருக்கும் எதற்கும் காரணமான ஜகந்நாதனான ஸ்ரீபுருஷோத்தமனான பகவானைச் சரணம் புகவும். இப்படிப் புகுந்தவன் செய்யவேண்டியது வேறில்லை." என்பதாக பிராட்டி தானே உபாயம் என்பதை அருளியுள்ளார்.
 
-श्रीमते रामानुजाय नमः । श्रीमते निगमान्तमहादेशिकाय नमः ॥ श्रीमते परकालसंयमीन्द्रमहादेशिकाय नमः । श्रीमते श्रीनिवासपरकालमहादेशिकाय नमः ॥ 
 
-लक्ष्मी उपायत्वदीपः 
+[[P11]]
 
-लक्ष्मी उपायत्व \- दीपः (ल. उ. दी) 
+வசிப்பவளும், சந்த்ரனைப் போன்று மிக்க ஒளிவீசிவருபவளும், தமது புகழ்களால் ப்ரகாசிப்பவளும், உலகில் எல்லோராலும் ஆச்ரயிக்கப்படுமவளும், வேண்டிய யாவற்றையும் வாரிவழங்குபவளும், தாமரையின் நடுப்பகுதியில் அகாரவாச்யனான எம்பெருமானுக்கு ஏற்ற மனையாளுமான ஸ்ரீலக்ஷ்மியை நான் சரணமாகப் புகுகிறேன். எதற்காக என்றால் - எனக்கு ஏற்பட்ட பீடைகளும் அவலக்ஷணங்களும் அழியட்டும். இதற்காக உன்னை நான் இங்கிருக்க வரிக்கிறேன்-” என்றும், "சொல்லுக்கு அப்பாற்பட்ட பெருமைகளை அடைய விரும்புமவன் கட்டுப்பாடுடன் ஸ்ரீ என்ற பெரியபிராட்டியை சரணாகதி செய்யவேண்டும்" என்றும் ச்ருதிகளில் தெரிவிக்கப்பட்டது.
 
-उपायत्वमुपेयत्वमिव व्यासज्यवृत्तिकम्। ययोरेकं विजयते दिव्यौ तौ दम्पती श्रये ॥ १ ॥ वेदान्तद्वयसारार्थो विदितो यत्प्रसादतः। परकालगुरोस्तस्य पदाब्जं शरणं भजे ॥ २ ॥ श्री श्रीशयोः पदाम्भोजे येन न्यस्तभरोऽस्म्यहम् । तस्य तातगुरोः पादपद्मं शरणमाश्रये ॥३॥ निगमान्तगुरुर्भास्वान् निखिलार्थप्रकाशकः। हृदये मेऽस्तु सततं यस्योदयहतं तमः॥४॥ रामानुजगुरुं नत्वा तद्गुरूनखिलानपि । कैङ्कर्यं वाचिकं किञ्चित् कलये कलुषापहम् ॥५॥ लक्ष्म्याः पुरुषकारत्वमात्रं नोपायता भवेत् । इति केचित् प्रभाषन्ते परास्तन्न तु सांप्रतम् ॥ ६॥   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+இதையே சான்றோர்களும் கூறினார்கள்:
 
-லக்ஷ்மீ கடாக்ஷம் உரை (ல.க) 
+“எந்த பெரியபிராட்டியாரின் திருவடித்தாமரைகளில் செய்த நமஸ்காரம் ஒருவராலும் அடையமுடியாத துர்லபமான பெரியபதவியையும், மிக உயர்ந்த முக்தியையும் கொடுக்குமோ - அத்தகைய லக்ஷ்மிதேவியை நான் நன்கு அடைகிறேன்.” - என்று.
 
-सर्वशास्त्रार्थनिष्णाताः परकालगुरूत्तमाः। लक्ष्म्युपायत्वदीपेन विश्वव्याप्तं घनं तमः ॥ १ ॥ न्यवर्तयन् महात्मानः ते के? क्वाहं च मन्दधीः । तथाऽपि श्रीयतिश्रेष्ठपरकालाज्ञयाऽधुना॥२॥ परकालयतीशानारोपितस्य प्रभावतः । 
+"நமஸ்காரம் (சரணாகதியை) செய்பவர்களுக்கு அருள முன்நிற்பவள் ஜனகரின் திருமகளான மைதிலி. இவள் இப்போது ஹநுமாரிடமிருந்து ராக்ஷஸிகளுக்கு ஏற்பட்ட மிகப்பெரிய மரணபயத்திலிருந்து பாதுகாக்க போதுமானவள். இவளிடம் பாதுகாக்கும் படி வேண்டுவோம். இதுவே எனக்கு தகுந்ததாகத் தோன்றுகிறது" என்று ஸ்ரீராமன் ஆஞ்சநேயர் இவர்களிடமிருந்து ராக்ஷஸிகளுக்கு
 
-लक्ष्म्युपायत्वदीपस्य व्याख्यां लक्ष्मीकटाक्षणात् ॥३॥ 
+[[P12]]
 
-श्रीरङ्गलक्ष्मणाभिख्य यतीश्वरपदाश्रयः । 
+வரக்கூடிய பயத்தால் துன்புறும் "உங்களுக்கு நான் பாதுகாப்பாக ஆவேன்” என்று அபயமளித்துவிட்டு ஹநுமாரிடம் - "அரசன் உத்தரவுபடிக்கு கீழ்படிந்து அவனுக்கு அடங்கின ராக்ஷஸிகள் விஷயத்தில் - விஷயம் தெரிந்த யார் தான் கோபம் கொள்வார்கள்? அவர்கள் பாபம் செய்தவராயினும், அப்படி செய்யாதவராயினும், ஆஞ்சநேயரே! பாபமே கொல்லத்தக்கவர்களேயாயினும் பெரியோர்களால் கருணையுடன் இவர்கள் நடத்தப்பட வேண்டியவர்களே. உலகில் தப்பே செய்யாதவர் யார்?" என்று கூறி அரக்கிகளை அநுமனிடமிருந்து பாதுகாத்த ஸ்ரீஸீதாதேவிக்கு ஸ்ரீராமபிரானைவிட சரணமடைந்தவர்களைப் பாதுகாப்பது அதிகம் என்பது ஸ்பஷ்டம்.
 
-श्रीवीरराघवाचार्यशिष्यः कौशिकवंशजः ॥४॥ 
+எம்பெருமானும் "எல்லா தேவர்களாலும், மஹர்ஷிகளாலும் கைவிடப்பட்ட அந்த காகாஸுரன் மூவுலகையும் சுற்றித்திரிந்துவிட்டு பாதுகாப்பாளர் யாரும் இல்லாதபடியால் எம்பெருமானையே அந்த ஸ்ரீராமபிரானையே சரணமடைந்தான். எம்பெருமானும் பூமியில் விழுந்த அந்த
 
-श्रीवासुदेवार्यसूनुः श्रीवत्साङ्कोऽनुवादनम् । 
+[[P13]]
 
-तनोति, महतामाज्ञां शिरसा धारयन् शुभाम् ॥५॥ 
+காகத்தை - இவன் சரணாகதன் - என்று கொண்டு கொல்லவேண்டிய அளவுக்குப் பெரும்பிழை செய்த அவனை - கருணையே உருவெடுத்து வந்ததைப் போன்ற தம்மருகில் இருக்கும் ஸ்ரீஸீதாபிராட்டியுடனிருப்பதால் நன்கு ரக்ஷித்தார்." என்று உள்ளது. இதனால் வேறு போக்கற்ற ஆர்த்தப்ரபன்னனான காகத்தை பாதுகாத்தார். பிழைக்க செய்த பிழைக்குத் தண்டனையாக ஒரு கண்ணை வாங்கினார்.
 
-1\. எம்பெருமான் 
+இதே போல் - “மக்களையும், மனைவிமார்களையும் விட்டுவிட்டும், பரம்பரையாக வாழ்ந்த லங்கா நகரையும், அங்குள்ள நண்பர்கள், செல்வம் முதலியவற்றையும் விட்டுவிட்டு, பரமபாவனரை எம்பெருமான் ஸ்ரீராமனை சரணமடைந்தார் ஸ்ரீவிபீஷணாழ்வான்.” 'என் உயிர், ஸுகம், அரசு இவையாவும் இனி ஸ்ரீராமனே” என்றார் அவர். இத்தகைய "இவரைக் கொல்லவேண்டும், எதிரியிடமிருந்து வருகிறார்" என்று பரபரப்போடு அடக்க முற்பட்ட ஸுக்ரீவாதிகளை ஸமாதானப்படுத்தி, 'தன் மனைவியான புறாவைக்கொன்ற வேடனை, தான் வாஸம் செய்யும் மரத்தடியில் பசியுடன் வந்தபோது - ஆண்புறா தன்னையே அவன் சரணமடைந்ததாக எண்ணி, அந்த வேடனை பூஜித்ததுடன், தானே நெருப்பு கொணர்ந்து சுள்ளிகளை அதில் போட்டு எரியவிட்டு - பிறகு தான் அந்த தீயில் விழுந்து இறந்து தனது மாம்ஸத்தை அவன் உண்ணும்படி செய்தது" என்ற கபோதோபாக்யானத்தைக் கூறிய ஸ்ரீராமன் "நண்பன் என்ற முறையில் என்னை வந்தடைந்தவனை அவன் எத்தகையவனானாலும் ஒருகாலும் நான் கைவிடேன். அவனிடம் குற்றம் குறைகளிலிருந்தாலும் பொறுப்பேன். ஏன்? எனில் - இது ஸத்துக்களான சான்றோர்கள் கைக்கொண்ட நிலை" என்று கூறி அந்த விபீஷணாழ்வானை சேர்த்துக்கொண்டார்.
 
-எம்பெருமானே   
-திருவடிகளை 
+[[P14]]
 
-எப்படி உபாயமாக இருக்கிறாரோ 
+இதை சான்றோர்களான பெரியோர்கள் (ஸ்ரீபட்டர்) அருளிய விதமிது - "அம்மா தாயே! மிதிலாநகரத்தரசரின் செல்வியே! தேவரீரிடம் 'கொன்றுவிடுகிறேன் முழுங்கிவிடுகிறேன்' என்று கூறி பிழைசெய்து வரும்போதே அரக்கிகளான அவர்களையும் ஆஞ்சநேயரிடமிருந்து பாதுகாத்தீர் தேவரீர். காகாஸுரனையும் ஸ்ரீவிபீஷணாழ்வானையும் 'என்னைப் பாதுகாப்பாயாக' என்று கூறி காலில் விழுந்த பிறகே ஸ்ரீராமன் பாதுகாத்தார். நீயோ பாதுகாக்க ப்ரார்த்தனை செய்யாமல் - கடைசீ வரையில் தொல்லை கொடுத்துவந்த அரக்கிகளையும் எதையும் எதிர்பாராமல் பாதுகாத்தாய்! இதனால் ஸ்ரீராமரின் கோஷ்டியைவிட ஸ்ரீஸீதாபிராட்டியின் கோஷ்டி உயர்ந்தது. அடியேனைப் போன்று இன்னமும் அபராதங்களைச் செய்துவருபவர்கள் விஷயத்திலும் பொறுமையுடன் மன்னித்துக் காப்பாற்றும் தேவரீர் கோஷ்டிக்கே அடியோங்கள் ஏற்றவர்கள்” என்று இதன் பொருள். (இப்படிக் கூறியதால் ஸ்ரீராமபிரானை குறைவாகக் கூறியதாக எண்ணக்கூடாது. சரணாகதர்கள் விஷயத்தில் பிராட்டியின் நிலை இங்கு காட்டப்பட்டது.)
 
-அதேபோல் பெரியபிராட்டியாரும் 
+இதனால் பகவானைவிடவும் ஸர்வலோக சரண்யனான பெரியபிராட்டி இங்கு எல்லா விரும்பிய பலன்களையும், பிறகு ஸம்ஸாரத்திலிருந்து விரைவில் உயர்நிலையான மோக்ஷமளிப்பதையும் செய்வாள் - என்று திருவுள்ளம். ஏன்? எனில் இதை "விரும்பிய எல்லா பயன்களையும் அருள்பவளும், இனிய ஸ்வபாவமுடையவளும், பிறவிப்பெருங்கடலை தாண்டி வைப்பவளும், விரைவில் நம்பிழைகளை மன்னித்து நமக்கு வேண்டியதை
 
-உபாயமாகும்   
-நிலை   
-அடைய 
+[[P15]]
 
-உபாயமே. இந்த 
+அளிப்பவளும், சரணாகதி செய்ய உகந்தவளுமான ஸ்ரீலக்ஷ்மிதேவியை எப்போதும் த்யானம் செய்துவரவும். இந்த த்வயமந்த்ரத்தால் அநாதிகாலமாக நம்மை பாதுகாத்துவரும் ஸ்ரீலக்ஷ்மிதேவியைச் சரணம் புகுந்தவரின் எல்லாவகை பாபங்களும் தத்க்ஷணமே தொடர்பு அற்று அழியும்." என்றும், மேலும், "எல்லாத் தீவினைகளுக்கும் தனித்தனியாக ப்ராயச்சித்தம் செய்து மாளாது. அப்போது தேவதேவனான ஸ்ரீபரவாஸுதேவனுடைய பட்டமஹிஷியான என்னை சரணம் புகுவது ஒன்றே வழி" என்று பிராட்டியே கூறியுள்ள படியாலும் இது தகும்.
 
-இவ்விருவரிடமும் 
+இங்ஙனம் ச்ருதிகள் - ஸ்ம்ருதிகள் - இதிஹாஸங்கள் - புராணங்கள் - ஆகமங்கள் முதலான எல்லா ப்ரமாணங்களாலும் பிராட்டியும் எம்பெருமானைப் போன்று ஸித்தோபாயம் என்பது ஏற்படுகிறபடியால் - த்வயத்தில் श्रीमत् என்கிற சொல்லால் ஸர்வலோக சரண்யனான ஸ்ரீநாராயணனுக்கு விசேஷணமாக இவள் அமைந்திருப்பது தெரியவருவதாலும் ஸ்ரீயுடன் கூடிய பகவானுக்கு மோக்ஷாபாயமாகும் நிலை விரும்பாவிடினும் ஏற்க வேண்டும். மேலும் குறிப்பாகச் சொல்லப்படுகிறது:
 
-சேர்ந்தேயிருக்கிறது. அத்தகைய திவ்ய தம்பதிகளான எம்பெருமானையும் பெரியபிராட்டியாரையும் அடியேன் சரணமாகப் பற்றுகிறேன். 
+[எம்பெருமானின் திருவாக்கு இது - ]
 
-2\. ஸம்ஸ்க்ருத வேதாந்த நூல்கள் \- த்ராவிட வேதாந்த நூல்கள் என்ற இந்த இரண்டுவகையான வேதாந்தங்களின் ஸாரார்த்தங்கள் யாவும் எந்த மஹானின் திருவருளால் அடியேனுக்கு ஏற்பட்டதோ அத்தகைய மஹானான ஸ்ரீபரகாலஸ்வாமிகளின்   
-திருவடித்தாமரைகளை   
-\- 
+"பெரியபிராட்டியாருடன் கூடிய என் ஒருவனை ஸ்தோத்ர - வந்தனாதிகளான பக்தியுடன் கூடிய எந்த சிறந்த மனிதன் மந்த்ரரத்னமான த்வயமந்த்ரத்தைக் கொண்டு ஆஸ்ரயிக்கிறானோ அவன் வெகுவிரைவில் (மறுபிறவியின்றி) என் அநுக்ரஹத்தால் எனது சாஶ்வதலோகமான ஸ்ரீவைகுண்டத்தை அடைகிறான். தன்னிடம் பகவானையடைய எதுவும் உபாயமில்லை என்கிற உறுதியான புத்தியுடன் எல்லாவிடத்திலும், எல்லாக்காலத்திலும், எல்லாநிலையிலும், எல்லாவிதத்தாலும் - பெரியபிராட்டியுடன் கூடிய ஸ்ரீஹரி அடியேனை கட்டாயம் காப்பாற்றப்போகிறார் என்ற முடிவுடன் தன்னையும் தன்னைச் சார்ந்த சேதனாசேதனங்களின் காக்கும் பொறுப்பை ஸ்ரீபதியான
 
-சரணமாகப் பற்றுகிறேன். 
+[[P16]]
 
-3\. எம்பெருமானுடையவும்   
-பெரியபிராட்டியாருடையவும் 
+ஸ்ரீஹரியின் திருவடிகளில் ஸமர்ப்பித்துவிட்டு, இப்படி உபாயமான பெரியபிராட்டியாரையும் எம்பெருமானையும் வரித்து, அவர்களையே அடைய வேண்டிய உபாயமாக எண்ணி வரவும்” - என்று.
 
-திருவடித்தாமரைகளில் எந்த மஹானால் அடியேனைப் பாதுகாக்க வேண்டிய பாரம் ஸமர்ப்பிக்கப்பட்டதோ \- அந்த 
+இதேபோல் வேறு வசனங்களுமுள்ளன:
 
-2 लक्ष्म्युपायत्वदीपः 
+"எல்லாபுலன்களையும் அடக்கிக் காணவேண்டியவரான எம்பெருமான் கருணையே உருவான பெரியபிராட்டியாருடன் மனைவியுடன் பாதுகாப்பார் - என்று மந்த்ர - தந்த்ர - தந்த்ராந்தரரூபமான எல்லா பாஞ்சராத்ரஸித்தாந்தங்களிலும், வேதாந்தங்களிலும் ஓதப்படுகிறது."
 
-ஸ்ரீதாதகுருவின் திருவடித்தாமரைகளை அடியேன் சரணமாகப் பற்றுகிறேன். 
+"என்னால் விடவேமுடியாத பிள்ளை - மனைவியரின் செயல்கள் முதலானவைகளை எல்லாம் அதது அப்படி அப்படியே பெரியபிராட்டியுடன் கூடிய தேவரீர் திருவடிகளில் ஸமர்ப்பித்து விட்டேன். பெரியபிராட்டியுடன் கூடிய பகவானே! தேவரீரே அடியேனுக்குத் தலைவராயும், பாதுகாப்பாளராகவும் உள்ளீர். அடியேன் நல்ல கதியை அடைய உபாயமாக பெரியபிராட்டியுடன் கூடிய தேவரீரே தாமாகவே ஆகிறீர்." என்று. இன்னும் பல நூறு வசனங்கள் உண்டு.
 
-4\. எல்லாவிதப்பொருட்களையும் நன்கு விளக்கும் ஸூர்யனைப்போன்ற ஸ்ரீநிகமாந்தமஹாதேசிகன் அடியேன் மனதில் எப்போதும் விளங்கட்டும். இவர் உதயமான பின்னேதான் அஜ்ஞானமாகிய இருட்டு உலகில் நீங்கியது. 
+---
 
-5\. ஸ்ரீபகவத் ராமாநுஜரையும், அவரது ஆசார்யர்களான ஸ்ரீபெரியநம்பி முதல் எம்பெருமான் வரையிலுமுள்ள எல்லோர்களையும் வணங்கி \-பிறமதத்தினரால் கலக்கமுற்ற நம் ப்ராசீன ஸம்ப்ரதாயத்தைத் தெளிவாக்க வாயால் ஓதக்கூடிய நூலாகிய ஒரு சிறு கைங்கர்யத்தை அடியேன் செய்கிறேன்.   
-\- 
+(क.स)
 
-6\. “பெரியபிராட்டிக்கு \- நம்மைப்பற்றி எம்பெருமானிடம் பரிந்து பேசி அநுகூலிப்பது மட்டுமே உண்டு. எம்பெருமானைப்போல் மோசத்திற்கு உபாயமாகும் நிலை கிடையாது" என்று ஒரு சிலர் கூறுகின்றனர். அது நேரில்லை. 
+> “ममैव दुष्कृतं किञ्चिन् महद् अस्ति न संशयः ।  
+> समर्थाव् अपि तौ यन् मां नावेक्षेते परन्तपौ ॥
 
-(S.3.) "ain q4", " ", "3|HI वा अरे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यः”, “यो ब्रह्माणम् विदधाति पूर्वं यो वै वेदांश्च प्रहिणोति तस्मौ तरह देवं आत्मबुद्धिप्रसादम् मुमुक्षुर्वै शरणमहम् प्रपद्ये" इत्यादिभिः न्यासोपासनविषयत्वेन प्रतिपन्नस्य ब्रह्मणो लक्षणं "यतो वा इमानि भूतानि जायन्ते । येन जातानि जीवन्ति । यत् प्रयन्त्यभिसंविशन्ति । ", " सदेव सोम्येदमग्र आसीत् एकमेवाद्वितीयं", " आत्मा वा इदमेक एकाग्र आसीत्, एको हवै नारायण आसीन्न ब्रह्मा नेशानो नेमे द्यावापृथिवी" इत्यादिभिः जगज्जन्मादिकारणत्वं प्रतिपादितं तच 
+> आशंसेयं हरिश्रेष्ठः क्षिप्रं मां प्राप्स्यते पतिः ।  
+> अन्तरात्मा च मे शुद्धः तस्मिंश् च बहवो गुणाः ॥”
 
-3   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> “शरैस् तु सङ्कुलां कृत्वा लङ्कां परबलार्दनः ।  
+> मां नयेद् यदि काकुत्स्थः तत् तस्य सदृशं भवेत् ॥”
 
-प्रथमरहस्याद्यप्रणवाद्यक्षरेणापि प्रतिपाद्यते। तच्च लक्ष्मीविशिष्टभगवन्निष्ठम्, न 
+इत्यादिना स्वरक्षणे भगवद्-अपेक्षा भगवद्-गुणापेक्षा स्वानर्हतेत्यादिकम् उक्तम्, काकवृत्तान्ते स्वरक्षणासामर्थ्यं च सुप्रसिद्धम् । अतः "स्वरक्षणे ऽप्य् अशक्तस्य को हेतुः पररक्षणे” इति न्यायेन लक्ष्म्या उपायत्वं न संभाव्यते इति । प्रमाणसहस्रप्रतिपन्नोपायभावस्य दुरपह्नवत्वप्रतिपादनात् । राक्षसीरक्षणादेः प्रसिद्धत्वाच् च ।
 
-भगवन्मात्रनिष्ठम्। 
+स्वविरोधि-निरसनायाप्रवृत्तिस् तु स्वतः-सिद्ध-भगवत्-पारतन्त्र्यानुविधानाद् इति उच्यते, न तु असामर्थ्यात् । तद् इदम् उक्तं तत्रैव —
 
-"नित्यैवेषा जगन्माता विष्णो श्रीरनपायिनी । 
+> “असंदेशात् तु रामस्य तपसश् चानुपालनात् ।  
+> न त्वां कुर्मि दशग्रीव भस्म भस्मार्ह तेजसा ॥” इति ।
 
-यथा सर्वगतो विष्णुस्तथैवेयं द्विजोत्तम॥", 
+तस्माल् लक्ष्मी-विशिष्ट एव भगवन्-नारायण उपायत्वेन वरणीय इति भगवद्-भाष्यकार-अभिमत-निगमान्त-देशिक-संप्रदायानुयायिनस् सङ्गिरन्ते ।
 
-“त्वं माता सर्वलोकानां देवदेवो हरिः पिता । 
+---
 
-त्वया च विष्णुना चाम्व जगद्व्याप्तं चराचरम्॥”, 
+[[P17]]
 
-"लक्ष्म्यासमस्तं चिदचित्स्वरूपं व्याप्तं तदीशस्य तु साऽपि सर्वम् । 
+(ல.க) இதன் மேல் ஒரு பெரிய கேள்வி. ஸ்ரீஸீதாபிராட்டி தன்னைக் காத்துக்கொள்ள தனக்கு ஸாமர்த்யம் இல்லை என்று ஸுந்தரகாண்டத்தில் உள்ளதே! - “நான் செய்த பாபம் சிறிதேயாயினும் - ப்ரபலமானது. [துளி விஷமும் குடம் பாலைக் கெடுத்துவிடுமே! அது போல்] இதில் எந்த வகையிலும் ஸந்தேஹமேயில்லை. எல்லா திறமைசாலிகளான என் கணவரான ஸ்ரீராமபிரானும், அவரது தம்பியான ஸ்ரீலஷ்மணனும் இதுவரையில் என்னைக் காணவரவில்லையே! இதோ எதிரில் இருக்கும் குரங்குகளில் சிறந்தவரான ஆஞ்ஜநேயரே! என் கணவர் விரைவில் என்னை அடைவார். என் மனம் தூய்மையானது - இப்படி எண்ணுகிறது. எம்பெருமானிடம் பல நல்ல குணங்கள் உள்ளன. பாணங்களாலேயே கடலின் இக்கரைவரையிலும் பாலம் கட்டுவதைப்போன்று பின்னலிடச்செய்து இந்த இலங்கைக்கு வந்து – எங்கள் எதிரிகளான ராவணாதிகளைக் கொன்று என்னை மீட்டு
 
-तथापि साधारणमीशितृत्वं श्री श्रीशयोर्द्वी च सदैकशेषी । (“लक्ष्म्यास्समस्तश्चिदचित्प्रपञ्चो व्याप्यः*”* इति पाठान्तरम्) इत्यादिभिर्भगवत्स्वरूपस्येव तन्निरूपकभूतलक्ष्मीस्वरूपस्यापि कारणत्वव्यापकत्वनियन्तृत्वादिवचनात् "सर्वस्य वशी सर्वस्येशानः”, “पतिं विश्वस्यात्मेश्वरं” इत्यादिना भगवत्स्वरूपस्येव " अस्येशाना जगतो विष्णुपत्नी”, “ईश्वरी सर्वभूतानां" इत्यादिना तदसाधारणश्रीस्वरूपस्यापि सर्वशेषित्वश्रवणाच्च । 
+[[P18]]
 
-अत एव "कारणं तु ध्येय" इत्यादिना जगत्कारणस्यैव न्यासोपासनविषय- सिद्धोपायतया द्वितीय\-तृतीयरहस्य\-प्रतिपन्नमुपायत्वमपि लक्ष्मीविशिष्टनिष्टमेव, तथा च शास्त्रेषु प्रतिपाद्यते । 
+அழைத்துச் செல்வார் ஸ்ரீராமன். இதுவே அவரது வீர்யத்துக்கு ஏற்ற செயல்" என்கிறாள். இதனால் ஸ்ரீராமபிரானின் எதிர்பார்ப்பதும், குணங்களை தன்னைப்பாதுகாக்க தாமே முயலாததும் தெரிகிறதல்லவா? இதனால் தன்னை பாதுகாத்துக்கொள்ள ஸ்ரீஸீதாபிராட்டிக்கு சக்தியில்லை என்பதன்றோ தெரிகிறது. “தன்னையே காத்துக்கொள்ள முடியாதவனுக்கு - பிறரைக்காப்பது கூடுமோ?" என்றல்லவோ பெரியோர் பணிப்பது. ஆகவே பிராட்டி உபாயம் இல்லை.
 
-“लक्ष्मीं च मां सुरेशेश द्वयेन शरणं गतः । मल्लोकमचिराल्लब्ध्वा मत्सायुज्यं स गच्छति ॥ निरुपाधिस्वतंत्रश्च स्वामी नः करुणानिधिः । निरुपाधिस्वतंत्रा च स्वामिनी नः कृपानिधिः ॥ त्वमेव सर्वशास्त्रेषु शरणत्वेन नीयसे । आत्मात्मीयं च यत्किञ्चिदु दुर्भरं दुस्त्यजं मम ॥ तत् सर्वं तव विन्यस्तं शुभयोः पादपद्मयोः । उपेयस्य तव प्राप्त्यै त्वामुपायतया वृणे ॥ 
+இதற்கு பதில் -
 
-4 
+பல்லாயிரம் வசனங்களால் பிராட்டியும் உபாயம் என்று ஏற்படுகிறபடியால் அதை மறுக்கவோ - மறைக்கவோ முடியாது. அரக்கிகளை, அவர்கள் பாதுகாப்பைக் கேளாத போதே பிராட்டி காத்தருளியதை காட்டினோம். தன் விரோதிகளைத் தாமே அழிக்கும் திறமையிருப்பினும், भगवान्-க்கு = கணவனுக்கு அடங்கிய மனைவி தான் என்பதை உலகினருக்குக் காட்டவும், ஜலதுர்க - கிரிதுர்க - வனதுர்காதிகளின் நடுவே அசோகவனத்திலே தன்னை ராவணன் வைத்த போதிலும், அவர் எப்படியோ இவற்றைத் தாண்டிவந்து தன்னை மீட்டருள்வார் - என்று அவரது பெருமையைக் காட்டுவதிலும் நோக்கு பிராட்டிக்கு. திறமையில்லாதபடியால் அன்று.
 
-उपायो भव मे देव शरणं भव मेऽच्युत । उपायो भव मे देवि शरणं भव मेऽम्बुजे ॥ पुष्य मे दुरितं सर्वं पुष्य मे त्वद्गतां धियम् । इत्येवमनुसंधाय मां प्रपद्येत वै गतिम् ॥ आदिदेवं जगन्नाथमीशं वा पुरुषोत्तमम्।   
-लक्ष्म्युपायत्वदीपः 
+இதுவும் அங்கே கூறப்பட்டது:
 
-"   
-सकृदेवं प्रपन्नस्य कृत्यं नैवावशिष्यते॥” \- इति भगवत इव देव्या अप्युपायत्वप्रतीतेः । किञ्च, "चन्द्रां प्रभासां यशसा ज्वलन्तीं श्रियं लोके देवजुष्टामुदाराम्। तां पद्मनेमीं शरणमहं प्रपद्येऽलक्ष्मीर्मे नश्यतां त्वां वृणे । “ “वाचः परं प्रार्थयिता प्रपद्येन्नियतः श्रियम्” इति विशेषेण प्रपत्तव्यत्वं श्रुत्यादिभिरवगम्यते। 
+“எம்பெருமானிடம் ராவணாதிகளை அழிக்க உத்தரவுபெறாதபடியாலும், மனைவிக்கு உள்ள கடமைப்படி வல்லவனான கணவனால் எல்லாம் நடக்கும் என்ற எண்ணினபடியாலும், எந்த ஜீவனையும் தன்முயற்சியால் கொல்வதில்லை - என்ற தபஸ்ஸை பாதுகாப்பதாலும் ஹே! ராவண! உன்னை நான் சாம்பலாக்கவில்லை" என்கிறாள் பிராட்டி. (ச்ருதியில் லக்ஷ்மி 'ரபு' என்று
 
-अभिहितं चाभियुक्तैः “यत्पदाम्भोजघटिता प्रणतिर्दुलभान्यपि । 
+[[P19]]
 
-पदानि परमां मुक्तिं सूते तां श्रियमाश्रये” – इति । अपि च 
+காட்டப்பட்டாள். ஒருவரை கொல்வதைப் போன்ற கோரமான செயல்களை பெரியபிராட்டி செய்யமாட்டாள். ஆகவே இத்தகைய தபஸ்ஸை பாதுகாப்பதால் ராவணாதிகளைக் கொல்லவில்லை.]
 
-"प्रणिपातप्रसन्ना हि मैथिली जनकात्मजा ॥ 
+இதனால் ஸ்ரீபெரியபிராட்டியுடன் கூடிய எம்பெருमाने मोक्षोपायम्-ஆக வரிக்கத்தக்கவர் என்பது भगवद्-பாஷ்யகாரரின் திருவுள்ளமுகந்த ஸ்ரீமந்நிகமாந்த மஹாதேசிகனின் திருவுள்ளம் - என்பதாக ஸ்ரீதேசிக ஸம்ப்ரதாயாநுயாயிகள் கூறுகின்றனர்.
 
-अलमेषा परित्रातुं राक्षस्यो महतो भयात्। 
+---
 
-अभियाचाम वैदेहीमेतद्धि मम रोचते॥”   
-इति 
+(ल.उ.दी) तत्राहुस् तत्त्वदीपकृतः । यद्यपि —
 
-रामभयार्दितानामार्द्रागसां राक्षसीनां “भवेयं शरणं हि वः।” इत्यभयं प्रदाय 
+> "या सा भगवतश् शक्तिर् अहन्ता सर्वभावगा ।  
+> अपृथक्कारिणी सत्ता महानन्दमयी परा ॥
 
-“राजसंश्रयवश्यानां कुर्वतीनां पराज्ञया । 
+> भावाभावानुगा शक्तिस् सर्वकार्यकरी विभोः ।  
+> स्वातन्त्र्यरूपा सा विष्णोः प्रस्फुरत्ता जगन्मयी ॥
 
-विधेयानाञ्च दासीनां कः कुप्येद् वानरोत्तम ॥ 
+> अहन्ता ब्रह्मणस् तस्य साहम् अस्मि सनातनी ।  
+> आत्मा स सर्वभूतानाम् अहंभूतो हरिः स्मृतः ॥
 
-पापानां वा शुभानां वा वधार्हाणां प्लवङ्गम । 
+> अहं तया [[बिनाहं|विनाहं]] हि निरुपाख्यो न सिद्ध्यति ।  
+> अहमर्थं विना ऽहन्ता निराधारा न सिद्ध्यति ॥”
 
-कार्य करुणमार्येण न कश्चिन्नापराध्यति ॥ " इति 
+इत्यादिभिर् ब्रह्मणः सकल-कारण-भूतस्य निरतिशयानन्द-युक्तस्य सर्व-व्यापकस्य सर्वान्तरात्म-भूतस्य निरवधिक-स्वातन्त्र्य-स्वरूपस्य सकल-नियन्तृतया सर्वस्मात्-परत्वेन सर्व-प्रकार-साधारण-निरूपकत्वेन वस्तु-संस्थान-रूप-जात्यादिवत् देव्याः श्रियः तद्-अहन्ता-रूपत्व-प्रतिपादनात् स्वरूप-वाचि-पद-अन्तर्भावः, स्वरूप-निरूपकत्व-निबन्धन-स्वरूप-अनुबन्धित्वं च अस्ति, तथापि तन्-मात्रेण स्वरूपैक्यासम्भवात् पत्नीत्व-प्रयुक्त-पारतन्त्र्य-स्वाभाव्येन पत्न्य्-अन्तरादिवच् चेतन-समानाकारत्वात् कारणत्वादेः ईश्वरासाधारण्याच् च, तद्-अनुरोधेन तत्-प्रीति-करत्वम् अस्याः स्वरूपम् इति न तत्र साक्षाद् अन्वयः ।
 
-श्रीरामपरिकरभूतान्मारुतात्मजाद् रक्षणं कुर्वत्या देव्या देवादपि शरण्यत्वं 
 
-सुस्पष्टम् । देवोऽपि 
+[[P20]]
 
-“स पित्रा च परित्यक्तः सुरैश्च समहर्षिभिः । 
+लक्ष्म्या अपि शेषित्वाद् भगवत एव सर्वाधिक-शेषित्वम् इति श्रुतिर् एव आह — "यः पूर्व्याय वेधसे नवीयसे, सुमज्-जानये विष्णवे ददाशति" इति । जानिर् जाया, सुमतिर् जानिर् यस्य सः सुमज्-जानिः । अथवा — सुमदा शोभनानन्दा, यद्वा सुमती शोभनवती जानिर् यस्य स सुमज्-जानिः । तथा यद्यपि देव्याः श्रियः प्रमाणशतप्रतिपन्नं स्वतः-सिद्धम् उपायत्वं, तथापि भगवतस् तद्-विशिष्टस्योपायत्वे विवेचनीयो विशेषो ऽस्त्य् एव । तथा हि भगवतः परमपुरुषस्य निरङ्कुश-स्वातन्त्र्येण तद्-ऐकान्तिकं विरोधि-निवर्तकत्वादिकम् गुण-जातं तद्-असाधारणम् । अस्या नारीणाम् उत्तमायाः देव्याः भगवत्-पारार्थ्य-स्वाभाव्यात् तद्-अनुरूपं वात्सल्य-कारुण्यादि-गुण-जातम् एव तद्-असाधारणम् ।
 
-त्रींल्लोकान् संपरिक्रम्य तमेव शरणं गतः ॥ 
+उभयोर् उभयान्वये ऽपि स्वरूप-भेद-सूचकत्व-प्राचुर्येणैवम् विभज्यते । तद् उक्तम् आचार्यैः —
 
-स तं निपतितं भूमौ शरण्यश्शरणागतम् । 
+> "युवत्वाद्यैस् तुल्ये ऽप्य् अपरवशता-शत्रुशमन-  
+> स्थिरत्वादीन् कृत्वा भगवति गुणान् पुंस्त्वसुलभान् ।  
+> त्वयि स्त्रीत्वैकान्तान् म्रदिम-पतिपारार्थ्य-करुणा-  
+> क्षमादीन् वा भोक्तुं भवति युवयोर् आत्मनि भिदेति ॥"
 
-5   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+तथा च प्रतिभट-निरासादि-परिकर-भूतस्य दिव्यायुधादेर् उभय-साधारण्ये ऽपि प्रणत-रक्षा-विलम्बासहत्वेन सदा पञ्चायुधधरस्य भगवत एव असाधारणत्वं तैर् एवोक्तम् —
 
-वधार्हमपि काकुत्स्थः कृपया पर्यपालयत्॥" इत्यनन्यगतिमार्तं प्रपन्नं काकमेकाङ्गवैकल्येन पालयामास । 
+> "सामान्यभोग्यम् अपि कौस्तुभ-वैजयन्ती-  
+> पञ्चायुधादि रमणः स्वयम् एव विभ्रत् ।  
+> तद्भारखेदमिव ते परिहर्तुकामः  
+> श्रीरङ्गधाममणिमञ्जरि गाहते त्वाम् ॥" इति ।
 
-"त्यक्त्वा पुत्रांश्च दारांश्च राघवं शरणं गतः। परित्यक्ता मया लङ्का मित्राणि च धनानि च ॥ 
+एतद् उक्तं भवति । उपायभूतस्य ज्ञान-शक्त्यादि-गुण-गण-विशिष्टस्य लक्ष्मीविशिष्टत्वे ऽप्य् अस्य विशेष्यांश-भूतस्यैव प्राधान्येनोपायत्व-कार्य-करत्वं विशेषणांशस्य तद्-अनुविधायित्व-मात्रम् एव, नैतावतोपायस्य नैरपेक्ष्य-हानिः “कृपया पर्यपालयत्" इत्यादिषु कृपा-साहचर्य-दर्शनात् । तथात्वम् उक्तम् अस्या अपि —
 
-भवद्गतं मे राज्यं च जीवितं च सुखानि च। *“*\- इति सर्वं परित्यज्य शरणागतं विभीषणं च वध्यतां वध्यतामिति निगृहीतवतस्सुग्रीवप्रमुखान् अनुनीय 
+[[P21]]
 
-"श्रूयते हि कपोतेन शत्रुश्शरणमागतः। 
+> "लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया ।  
+> रक्षकस् सर्वसिद्धान्ते वेदान्ते ऽपि च गीयते ॥" इति ।
 
-अर्चितश्च यथान्याय्यं स्वैश्च मांसैर्निमंत्रितः” \- इति 
+अस्याः कारुण्य-रूपत्वं तद्-अतिशयापादकत्वेन तत्-प्राचुर्येण वा । अन्यथा चेतन-वस्तुनः कृपा-गुणत्वायोगात् । एवं सति "अहं मत्-प्राप्त्य्-उपायो वै साक्षाल्-लक्ष्मी-पतिस् स्वयं" इत्य्-उक्तेन "कारुणिकस् स्वयं" इत्य्-उक्तम् । एतद्-अभिप्रायेण विशिष्टतोक्तिः । अन्यथा सर्वात्मना ऽनन्वये वक्तव्ये सति सकल-श्रुति-स्मृति-इतिहासादि-विरोधस् स्यात् । अस्याः पृथग्-उपायत्व-वचनं भगवत्-प्रेयसीत्व-मुखेन तत्-प्रसादन-द्वारेण । अन्यथास्याः पारार्थ्यायोगात् । अतः एव सर्व-कारणत्व-नियन्तृत्वादौ अपि भगवद्-अनुविधायित्वम् एव अस्याः स्वरूपम् इति अवगन्तव्यम् इति । अतः लक्ष्मी-गुण-विग्रह-विशिष्टस्य उपायत्वे यथा विग्रहः शुभाश्रयत्वापादकः, यथा च गुणास् सूपसदत्वादितत्तत्कार्योपयुक्ताः, तथास्या अपि पुरुषकार-कार्योपयोग इति निष्कर्ष इति ।
 
-कपोतोपाख्यानमप्युदाहृत्य, 
+---
 
-“आर्तो वा यदि वा दृप्तः परेषां शरणागतः। 
+(ல.க) தத்த்வதீபம் என்ற நூலை எழுதியவர் இங்கு கூறிகிறார்: (இங்கு அனேக ப்ரமாணங்களைக் காட்டுகிறார்.)
 
-अरिः प्राणान् परित्यज्य रक्षितव्यः कृतात्मना । ” \- इति कण्डुवचनमुखेन शरणागतरक्षणस्य परमधर्मत्वं प्रतिपाद्य 
+"பகவானின் அஹந்தா என்ற எல்லாப்பொருளிலும் வ்யாபித்த யாதொரு சக்தி உண்டோ - எம்பெருமானை விட்டுப் பிரித்துப் பார்க்க முடியாததும், உயர்ந்ததாயும், பேராநந்தமயமானதும், எல்லாப்பொருட்களிலும் தொடர்வதாயும், எல்லாவித செயல்களைச் செய்வதாகவும், ஸ்வதந்த்ரமாய் இருப்பதாயும், இந்த உலகைப் படைத்தல் முதலானவைகளைச் செய்வதாயும், அநாதியாகவும் உண்டோ - அந்த அஹந்தா என்பது நானே." (இது பிராட்டியின் திருவாக்கு)
 
-“मित्रभावेन सम्प्राप्तं न त्यजेयं कथञ्चन । 
+"உலகிலுள்ள யாவருக்கும் அந்தராத்மா ஸ்ரீஹரியே. அவர் அஹந்தையான என்னைவிட்டுப் பிரிந்து இருக்கமுடியாதவர். ஒரு பொருள் என்றால் - அதற்கு
 
-दोषो यद्यपि तस्य स्यात् सतामेतद्गर्हितम्" इति 
+[[P22]]
 
-कथञ्चित् स्वीचकार। तदिदमुक्तं अभियुक्तैः 
+உள்ளவருக்கு - ஸ்வரூபம் தேவையல்லவா? அந்த ஸ்வரூபம் நானே. நிராதரமான அஹமர்த்தமில்லாத அஹந்தா என்பது ஸித்திக்காது." - என்பவை போன்ற ப்ரமாணங்களால் ஸகலகாரணமானவர் ஆன பரமாத்மாவுக்கு - எங்கும் வ்யாபித்தவருக்கு எல்லாவற்றிற்கும் அந்தராத்மாவாக எல்லாவற்றையும் தமது கட்டுப்பாட்டில் வைத்திருப்பதால் அளவற்ற ஸ்வாதந்த்ரியம் உள்ளவருக்கு - ஒருபொருளின் உருவ அமைப்பு என்ற ஸாஜாத்யாதிகளைப்போல் ஸ்ரீதேவிக்கு அவரின் அஹந்தா என்ற நிலையைக் காட்டுவதால் பகவத்ஸ்வரூபத்தைக் கூறும் சொல்லில் இவளும் அடங்கியவள், பகவத்ஸ்வரூபநிரூபண தர்மமானபடியால் அதில் சேர்ந்தவள் - என்பது இருக்கிறது. இதைக்கொண்டு “பகவத் ஸ்வரூபமும் ஸ்ரீபிராட்டியின் ஸ்வரூபமும் ஒன்றே" - என்று கூறமுடியாது. எம்பெருமானுக்கு இவள் திவ்யமஹிஷி ஆனபடியால் பகவானுக்கு சேஷபூதை. ஆகவே பூமி - நீளாதி தேவிகளைப் போலில்லை. பூ-நீளாதிகள் ஸாமாந்ய சேதனர்களைப் போன்றவர்கள். இவள் எம்பெருமானைப் போன்று ஈஸ்வர கோடியில் சேர்ந்தவள். ஆகவே பகவானுக்கு இந்தவகையில் இவள் ப்ரீதிக்கு பாத்ரமாயிருக்கிறாள்.
 
-“मातर्मैथिलि राक्षसीस्त्वयि तदैवार्द्रापराधास्त्वया 
+லக்ஷ்மிக்கும் பகவான் சேஷியானபடியால் பகவானை ஸர்வாதிகசேஷி என்று ச்ருதியே காட்டியது - “यः पूर्व्याय वेधसे नवीयसे, सुमज्जानये विष्णवे ददाशति" என்று. எவன் ஒருவன் சதுர்முகப்ப்ரம்ஹாவையும்விட முன்பே எழுந்தருளியிருப்பவரோ, ஆயினும் இளம் வயதினரைப்போல் என்றும் நூதனமாக இருக்கிறாரோ, நமக்கு நல்ல அறிவை அருளும் ஸுமதி என்னப்பட்ட பெரியபிராட்டிக்கு எவர் கணவரோ அத்தகைய ஸ்ரீவிஷ்ணுவின் பொருட்டு புரோடாசாதிகளை ஸमர்ப்பிக்கவும் - என்று இந்த மந்த்ரத்துக்குப் பொருள்.
 
-रक्षंत्या पवनात्मजाल्लघुतरा रामस्य गोष्टी कृता । 
+[[P23]]
 
-काकं तञ्च विभीषणं च शरणमित्युक्तिक्षमौ रक्षतः 
+1. सुमदन्ता जानिः = सुमज्जानिः  
+2. शोभनानन्दा जानिः = सुमज्जानिः  
+3. शोभनवती जानिः यस्य सः = सुमज्जानिः
 
-सा नस्सान्द्रमहागसस्सुखयतु क्षान्तिस्तवाकस्मिकी " 
+என்று மூன்று வகையாக ஸமாஸம் கொண்டு இச்சொல் வ்யுத்பன்னமானது. எவ்வகையிலும் பெரியபிராட்டிக்கு பகவான் பர்த்தா என்பது ஏற்படும். பத்னிக்கு பதிபாரதந்த்ர்யம் உண்டு என்பது லோக-வேதங்களில் ப்ரஸித்தமானபடியால் பகவான் சேஷி. பிராட்டி அவன் ஒருவனுக்கு மட்டிலும் சேஷபூதை. நமக்கெல்லாம் एकोनशेषित्वम्! ஆகவே பிராட்டிக்கு சேஷித்வமும் உண்டு என்பதை பிராட்டியும் கண்டுகொள்வது.
 
-इति। अतस्सर्वलोकशरण्यादपि शरण्यभूता सा लक्ष्मीः सर्वाभीष्टसिद्ध्यर्थं 
+இப்படி நூற்றுக்கணக்கான ப்ரமாணங்களால் பிராட்டிக்கும் உபாயத்வம் ஸித்தம். ஆயினும் பிராட்டியோடு கூடிய பகவானே உபாயம் - என்பதில் ஒரு விசேஷம் இருக்கிறது. பரமபுருஷன் தனது தடையற்ற ஸ்வாதந்த்ர்யத்தால் அஸுர-ராக்ஷஸாதி விரோதி நிவர்த்தனம் முதலான செயல்களை தானே செய்து வருகிறார். नारीणाम् उत्तमा देव्या என்னப்பட்ட பெரியபிராட்டியார் பகவத் பாரார்த்த்யஸ்வபாவத்தால் அதற்கு ஏற்ப வாத்ஸல்ய-காருண்ய-க்ஷமாதி குணங்களுடன் விளங்குகிறார் - என்பதே நிலை. இதை ஸ்ரீகுணரத்நகோச சுலோகத்தில் ஸ்ரீபராசரபட்டர் (சு-34) அருளினார். இதன் கருத்தாவது: யௌவனம் - ஆச்ரிதர்களிடம் அன்பு - எல்லோருக்கும் நன்மைகளையே செய்வது - முதலான கல்யாணகுணங்கள் எம்பெருமானுக்கும் பிராட்டிக்கும் பொதுவானவை. ஒருவருக்கு அதீனமாய் இருப்பதில்லை - எதிரிகளை ஒழிப்பது - எடுத்த கார்யத்தில் நிலை நிற்பது - முதலானவைகள் புருஷர்களுக்கு இயல்பாக
 
-संसारनिवृत्त्यर्थं च सर्वैरुपायत्वेन आश्रयणीया, 
+[[P24]]
 
-“सर्वकामप्रदां रम्यां संसारार्णवतारिणीम् । 
+அமைந்ததாகுக - என்றுகாட்ட இவைகளை எம்பெருமான் கைக்கொண்டார். பெண்களுக்கு இயல்பாக அமைந்த மென்மை - கணவருக்கு அடங்கியிருப்பது - கருணை - பொறுமை - முதலானவைகள் பிராட்டியிடம் நிலை நின்றன - இதுவே பிரிவு - என்று.
 
-क्षिप्रप्रसादिनीं लक्ष्मीं शरण्यामनुचिन्तयेत्॥ 
+சத்ருக்களை ஒழிக்க சங்க-சக்ர-கதை-வில் அம்பு முதலான ஆயுதங்கள் தேவையான படியால் அவைகளை பகவான் கை கொண்டான். அந்த ஆயுதங்களைத் தாங்கும் பளு வேண்டாம் என்ற திருவுள்ளத்தால் போலும் வெறும் தாமரைப்பூக்களையே தாங்கும் நிலையில் பிராட்டியின் ஸேவை. இதையும் ஸ்ரீகுணரத்னகோஸத்தில் (சு-47) காட்டியருளினார்.
 
-अनेनैवं प्रपन्नस्य श्रियं देवीं सनातनीम् । 
+இதனால் என்ன தெரியப்பட்டது? என்றால் - ஜ்ஞான-சக்த்யாதி குணங்களோடு கூடின உபாயமான ஸ்ரீநாராயணனுக்கு ப்ரதானமான ஜகத்ஸ்ருஷ்ட்யாதி கார்யங்களைச் செய்யும் நிலை - விசேஷணமாய் அமைந்த பிராட்டியுடனேயே. எம்பெருமானைச் சரணமடைகிறேன் என்று கூறினாலும் - அங்கமாக = இன்றியமையாததாக - எப்படி எம்பெருமானின் கல்யாணகுணங்களும் திருமேனியும் தன்னடைவே ஸித்திக்கிறதோ அப்படி உபாயதயையிலும் விசேஷணமாய் இருக்கும் பிராட்டியின் ஸம்பந்தமும் உண்டு. இதனால் साक्षात् என்று சொல்லப்பட்ட எம்பெருமானின் ப்ரபாவத்துக்கு எந்த ஹானியும் இல்லை. என்பதாகவே பகவான் செயல்படுகிறார் என்பது பொருந்தும். இதையே "कृपया पर्यपालयत्" என்றார் ஸ்ரீவால்மீகி பகவான்.
 
-*6* 
+இயல்பாகவே கருணாமूர்த்தியான எம்பெருमानுக்கு कारुण्यरूपया என்னப்பட்டபடி கருணையே உருவான பிராட்டியின் ஸம்பந்தம் பெருமைகளையே சேர்க்கும்.
 
-पापानुषङ्गस्सकलः तत्क्षणादेव नश्यति ॥, प्रायश्चित्तप्रसङ्गे तु सर्वपापसमुद्भवे। 
+[[P25]]
 
-मामेकां देवदेवस्य महिषीं शरणं व्रजेत्॥*”* इति 
+இதையே "लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । रक्षकः सर्वसिद्धान्ते वेदान्तेषु च गीयते ॥" என்று ப்ரமாணம் காட்டியது. எம்பெருமானின் கருணையே பிராட்டியின் கருணை அல்லது பரவச்செய்கிறது.
 
-विधानात् । एवं   
-लक्ष्म्युपायत्वदीपः 
+இதைக் கொண்டே ஜீவாத்மாவின் அநுஸந்தானம். இப்படி "अहं मत्प्राप्त्युपायो वै साक्षाल्लक्ष्मीपतिः स्वयं" என்றும், "कारुणिकः स्वयं" என்றும் கூறியது.
 
-श्रुतिस्मृतीतिहासपुराणादिसकलप्रमाणप्रसिद्धोपायताशालिन्याः श्रियः 
+சில இடங்களில் "பிராட்டி ஒருவரே தனித்து உபாயம்" என்று கூறியது - பகவானுக்கு இவள் ப்ரேயஸீயான படியால் - இவள் ஜீவர்களுக்காக பரிந்தும் பேசுவதால் இவள் பேச்சை எம்பெருமான் தட்டாமல் கேட்கிறார் கேட்டு இவளுடன் கலந்து ஜீவனுக்கு உண்டான நன்மைகளைச் செய்கிறார் - என்றபடி. இதனால் இவளது पारार्थ्यम् என்பதும் ரக்ஷிக்கப்பட்டது. இந்த விஷயம் ஸ்ரீமத்ராமாயணத்தில் "न त्वां कुर्मि दशग्रीव भस्म भस्मार्ह तेजसा ॥” என்று பிராட்டி காட்டியருளினாள். இங்கு भस्मार्ह तेजसा என்பதால் பிராட்டி எந்த ஜீவனையும் கொல்வதில்லை என்ற तपस्-ஐக் காட்டினார். विष्णुपत्नी अघोरा என்ற ஸ்ரீவிஷ்णूபத்னியானவள் பயங்கரமானவள் இல்லை என்று சுருதி காட்டியதே! அந்த தபஸ்ஸை பரிபாலனம் பண்ணவேண்டாமா? रामस्य अनुशासनात् என்பதால் கணவனுக்கு மனைவி அடங்கியவள் - என்ற நிலை காட்டப்பட்டது. असंदेशात् तु रामस्य இத்யாதிகளிலும் இவளுக்கு पारतन्त्र्यम् என்பது காட்டப்பட்டது.
 
-श्रीमत्पदेन शरण्यभूतनारायणविशेषणत्वप्रतिपादनात् तद्विशिष्टस्यैव भगवत उपायत्वमकामेन अपि उररीकर्तव्यम्। तदपि विशिष्य विधीयते 
+ஆகவே எம்பெருமானைச் சொல்வதால் பகவான் என்பது எப்படி தெரியவருகிறதோ, विग्रहविशिष्टः என்று சொன்னபோது விக்ரஹம் उपकारकम्-ஆனது என்பதை எப்படி காட்டுகிறதோ - एवमेव इहापि पुरुषकाररूपार्थोपयोगी भवति என்று கொள்வது. இதுவே நிஷ்கர்ஷம்.
 
-“मामेकं च श्रिया युक्तं भक्तियुक्तो नरोत्तमः। 
+---
 
-द्वयेन मन्त्ररत्नेन मत्प्रियेण भजेत् सदा ॥ 
+[[P26]]
 
-अचिरात् मत्प्रसादेन मल्लोकं च स गच्छति । 
+(ल.उ.दी) अर्वाचीनास् तु —
 
-आकिञ्चन्यं समालम्ब्य बुद्ध्यैवं दृढया स्वया ॥ 
+> "मत्प्राप्तिं प्रति जन्तूनां संसारे पतताम् अधः ।  
+> लक्ष्मीः पुरुषकारत्वे निर्दिष्टा परमर्षिभिः ॥
 
-सर्वदा सर्वदेशेषु सर्वावस्थासु सर्वथा ।   
-। 
+> ममापि च मतं ह्य् एतत् नान्यथा लक्षणं भवेत् ।  
+> अहं मत्-प्राप्त्य्-उपायो वै साक्षाल्-लक्ष्मीपतिस् स्वयं ॥
 
-रक्षिष्यति हरिः श्रीमान् आश्रितानिति निश्चयात् ॥ 
+> लक्ष्मीः पुरुषकारत्वे वल्लभा प्राप्ति-योगिनी ।  
+> एतस्याश् च विशेषो ऽयं निगमान्तेषु शब्द्यते ॥"
 
-आत्मात्मीयभरं सर्वं निक्षिप्य श्रीपतेः पदे । 
+इत्य्-अनेन व्यवस्था-वचनेन लक्ष्म्याः पुरुषकारत्वम् एव, भगवत एवोपायत्वम् इति व्यवस्था सिद्ध्यति । वचनस्य व्यवस्थायाम् एव तात्पर्यं स्वरसतः प्रतीयते । तथा हि "अहं मत्-प्राप्त्य्-उपाय" इत्य्-अनेन स्वस्य स्वयम् एवोपायत्वम् उक्त्वा “लक्ष्मीः पुरुषकारेण वल्लभा प्राप्ति-योगिनी” इति लक्ष्म्याः पुरुषकारत्वम् एव लक्ष्मीपतिना प्रतिपादितम् । ततस् तस्या उपायत्वाभावो व्यक्तः । अन्यथा "अहं मत्-प्राप्त्य्-उपाय" इतिवत् लक्ष्मीश् च मत्-प्राप्त्य्-उपाय-भूतेति भगवान् एव अवदिष्यत् । न च तथा अवदत् । प्रत्युत पुरुषकारत्वम् एव पुनः पुनः प्रतिपादयति स्म । एवं च लक्ष्म्या उपायत्वपक्षे जिज्ञासितोपायत्वाकथनम् अनुचितम् स्यात् । न च "एतस्याश् च विशेषो ऽयम्" इति लक्ष्म्याः पुरुषकारत्वं विशेष इत्युक्त्या उपायत्वम् उभय-साधारणम् इति व्यज्यत इति वाच्यं एतस्या अयम् विशेष इत्यनेन पूर्वोक्तोपायत्वस्य लक्ष्म्यपेक्षया विशेषत्वाभाव एव अवगम्यते । स च द्वेधा घटते — असम्भवात् अतिव्याप्त्या वा । तत्र असम्भव-रूप-लक्षण-दोषाद् एव लक्ष्म्या उपायत्वं न विशेषः किन्तु पुरुषकारत्वं विशेष इत्युक्तम् ।
 
-उपायं वृणु लक्ष्मीशं तमुपेयं विचिन्तयेत् ॥ *“* \- इत्यादिभिः। 
+[[P27]]
 
-तथा वचनान्तराण्यपि \- 
+न चोपायत्वस्य लक्ष्मी-नारायण-उभय-साधारण्यान् नारायणे ऽतिव्याप्ततया पुरुषकारत्वम् एव विशेषः नोपायत्वम् इत्युक्तम् इति किं न स्याद् इति वाच्यं । "अहं मत्-प्राप्त्य्-उपायो वै” इत्यनेन भगवत एवोपायत्वं प्रतीयते, न लक्ष्म्याः, अतस् तत्रासम्भव एव । न च लक्ष्मीपतिर् इत्युक्त्या विशेषण-भूत-लक्ष्म्याश् चोपायत्वं प्रतीयत इति नासम्भवः, किं तु अतिव्याप्तिर् एव इति वाच्यं । विशेषार्थस्य विशेष्यान्वय एव स्वरसतः प्रतीयते, न तु विशेषणान्वयः । यत्र विशेषणान्वयानङ्गीकारे बाधकम् अस्ति तत्रास्वरसो ऽपि विशेषणान्वयः स्वीकर्तव्यः, यथा लम्बकर्णम् आनयेत्यादौ । यदि बाधकाभावमात्राद् एव विशेषणान्वयो ऽपि स्यात् तर्हि चित्रगुम् आनयेत्यादौ गवानयनम् अपि स्यात् बाधकाभावात् । यत्र विशेष्यान्वयबाधस् तत्र विशेषणान्वय एव, यथा स्वर्गी ध्वस्त इत्यादौ । एवं च प्रकृते विशेष्यान्वये बाधाभावात् विशेषणान्वयानङ्गीकारे बाधकाभावाच् च विशेष्यान्वय एव, न विशेषणान्वयः ।
 
-“लक्ष्म्या सह हृषीकेषो देव्या कारुण्यरूपया । 
+अन्यथा लक्ष्मीपतित्वस्य अपि लक्ष्म्याः विशेषणत्वाविशेषाद् उपायत्वान्वयप्रसङ्गः । किञ्चोपायत्वस्य बाधकाभावमात्राद् विशेषणान्वयाभ्युपगमे बह्व्-अतिप्रसङ्गः प्राप्नुयात्, “अस्यां स्थिते जगन्नाथं प्रपद्येत जनार्दनम्" इत्यादिषु भगवदुपायत्वप्रतिपादनप्रकरणेषु जगदादिबहुविधनिरूपकाणाम् उपायत्वान्वयप्रसङ्गः तेषाम् उपायत्वाङ्गीकारे बाधकाभावाच् च ।
 
-रक्षकस्सर्वसिद्धान्ते वेदान्तेऽपि च गीयते ॥ यन्मेऽस्ति दुस्त्यजं किंचित् पुत्रदारक्रियादिकम्। सर्वं तदात्मना न्यस्तं श्रीपते तव पादयोः ॥ शरणं भव देवेश नाथ लक्ष्मीपते मम । 
+---
 
-\-   
-अहं मत्प्राप्त्युपायो वै साक्षाँल्लक्ष्मीपतिस्स्वयं ॥" इत्यादीनि लक्ष्मीविशिष्टोपायत्वप्रतिपादकानि परश्शतानि सन्ति । 
+(ல.க) புதியவர்களான சிலர் [ஏகதேசிகள்] பிராட்டிக்கு புருஷகாரத்வமே உண்டு - என்று பிடிவாதமாகக் கூறுகிறார்கள். "मत्प्राप्तिं प्रति जन्तूनां ... एतस्याश्च विशेषोऽयं निगमान्तेषु शब्द्यते ॥" என்பன போன்ற வ்யவஸ்தாவசனங்களைக் காட்டுகிறார்கள். [ஸம்ஸாரஸாகரத்தில் கீழே விழுந்து வரும் ஜீவர்களுக்கு -
 
-7   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
 
-\-   
-(ல.க) "பரம் பொருளை உள்ளபடி அறிந்தவனே அந்த பரம்பொருளான ஸ்ரீமந்நாராயணை அடைகிறான்”, “அந்த எம்பெருமானை இவ்விதம் நன்கு அறிந்தவனே மோக்ஷமடைகிறான்”, “அடியே மைத்ரேயி\! அந்த பரமாத்மாதான் குருமுகமாக முதலில் நன்கு கேட்டறிந்து, அறிந்தபடி எண்ணிப்பார்த்து, பிறகு த்யானம் செய்து நேரில் (தர்ஸனஸமாநாகாரமாக) காணத்தகுந்தவன்”, “எவர் முதலில் பிரமனைப்படைத்து அவருக்கு எல்லா வேதங்களையும் அருளினாரோ   
-அத்தகைய ஸ்ரீஹயக்ரீவனை ஆத்மாவுக்கான தெளிவான புத்தியை அருள்பவனை 
+[[P28]]
 
-செல்லவிரும்பும்   
-மோக்ஷம் 
+என்னை (=பகவானை) அடைய லக்ஷ்மியானவள் பரிந்துபேசுபவளாக பரமர்ஷிகளால் காட்டப்பட்டாள். இது எனக்கும் அபிமதமே. இப்படியில்லை என்றால் - "आत्मा वा अरे द्रष्टव्यः" என்ற ப்ரம்ஹலக்ஷணத்துக்கு அதிவ்யாப்தி முதலான தோஷங்கள் வரும். இதையே வேதாந்தங்களும் கூறுகின்றன] - என்று இதற்கு பொருள். இந்த வசனங்களை ஸேவித்தால் பிராட்டிக்கு புருஷகாரத்வத்தைக் காட்டுவதிலேயே நோக்கம் இருப்பது ஸ்வரஸமாக ஏற்படுகிறது. "अहं मत्प्राप्त्युपायो वै" என்பதால் - பகவானை அடைய அவரே உபாயம் என்பதும், "लक्ष्मीः पुरुषकारत्वे" என்பதால் ஸ்பஷ்டமாகவே புருஷகாரத்வமே அன்றோ சொல்லப்பட்டன. அப்படி அவளும் உபாயமாய் இருந்தால் - "लक्ष्मीश्च मत्प्राप्त्युपायभूता" என்று பகவான் சொல்லியிருக்க வேண்டும். அப்படி சொல்லவில்லையே? மீண்டும் மீண்டும் வசனங்களில் பிராட்டிக்கு புருஷகாரத்வம் ஒன்றே சொல்லப்பட்டிருக்கிறது. இந்த பிராட்டிக்கு புருஷகாரத்வம் ஒன்றே விசேஷம் என்பதை "एतस्याश्च विशेषोऽयम्" என்று கூறியதே. "பிராட்டிக்கும் உபாயத்வம் உண்டு. இவளுக்கு அதிகப்படியான விசேஷம் இவள் புருஷகாரமாய் இருப்பதும்" என்று பொருள் கொள்ளலாமே என்னக்கூடாது. உபாயவிஷயத்தை கீழே முடிவுகட்டின பிறகு பிராட்டி புருஷகாரமாய் உள்ளாள் என்பதை விசேஷமாக இவ்வசனம் காட்டுகிறது - என்பதே ஸ்வரஸம். பிராட்டியைவிட எம்பெருமானுக்கு விசேஷமில்லை என்பது இரண்டு வகையில் கூடும் असम्भवात्, अतिव्याप्त्या वा । அஸம்பவம் சொல்லமுடியாது. "अहं मत्प्राप्त्युपायो वै" என்றபடியால் ரக்ஷணத்துக்குத் தேவையான எல்லா அம்சங்களும் நிரம்பியவர் - என்பது தெளிவு. ஆகவே "अहं मत्प्राप्त्युपायो वै" என்ற பகவத் வசனத்தில் वै என்று அவதாரணார்த்தகமான சொல்
 
-சரணமாகப்பற்றுகிறேன்.”   
-இது   
-அடியேன் முதலான 
+[[P29]]
 
-வேதவாக்கியங்கள் பரமாத்மாவே பக்தியோகத்தாலும் ஸரணாகதியாலும் அடையக்கூடியவனென்று காட்டின. இத்தகைய ப்ரம்ஹத்துக்கு லக்ஷணமாக   
-"யாரிடமிருந்து   
-\-   
-\- 
+உள்ளபடியால் - எம்பெருமான் ஒருவரே உபாயம் - என்பது தெளிவு. "स च लक्ष्मीपतिः" என்று உள்ளபடியால் லக்ஷ்மீபதியான நிலையில் லக்ஷ்மியோடு கூடவே உபாயத்வம் பகவானுக்கு ஏற்படவில்லையா? - என்று கேட்கக்கூடாது. விசேஷ்யத்தில் அந்வயம் கொள்வதே சாஸ்த்ரகாரர்களின் நிலை. விசேஷ்யம் இங்கு நாராயணன். ஆகவே இது பொருந்தாது. "लम्बकर्णमानय" என்ற போது ஆநயனக்ரியையில் தொங்குகிற காதுக்கும் ஸம்பந்தமிருந்தாலும், அது அங்கு முக்யம் இல்லை. லம்பகர்ணங்களை உடைய தேவதத்தனே முக்யம். அதே போல் இங்கும் लक्ष्मीपतिः என்று இருந்தாலும், கஶ்யபபுத்ரனான நாராயணனே முக்யன். இப்படி ஒப்புக் கொள்ளாவிடில் "चित्रगुमानय" என்றவிடத்தில் விசித்ரமான பசுக்களையும் கொண்டுவர வேண்டியிருக்கும். அப்படி ஒரு சாஸ்த்ரகாரரும் தெரிவிக்கவில்லை. ஆகவே பிராட்டி உபலக்ஷணமே - என்பது பூர்வபக்ஷிகளின் கொள்கை.
 
-\- 
+இப்படியில்லையேல் விசேஷணத்துக்கு உபாயத்தில் அந்வயம் சொல்வதைப் போல் லக்ஷ்மீபதித்வரூபமான விசேஷணத்துக்கும் உபாயத்தில் அந்வயம் சொல்ல நேரிடும். உபலக்ஷண பக்ஷத்தில் இந்த கேள்வியே வராது.
 
-உள்ள 
+மேலும், "अस्यां स्थितो जगन्नाथं प्रपद्येत जनार्दनम्" என்றவிடத்தில் ஜகத்துக்கெல்லாம் தலைவராய் இருப்பது, அஸுர ஜனங்களை ஹிம்ஸிப்பது என்று இரு சொற்கள் விசேஷணங்களாய் உள்ளன. இந்த இரண்டு விசேஷணங்களுக்கு ப்ரபத்தவ்ய கோடியில் பகவானைப் போல் ஸம்பந்தம் கொள்ள வேண்டிவரும். இது ஒருவருக்கும் விருப்பமானதில்லை.
 
-சொல்லால் அந்த   
-இந்த சேதனாசேதன ரூபமான ப்ரபஞ்சம் தோன்றியதோ . யாரால் பாதுகாக்கப்படுகிறதோ \- ப்ரளயகாலத்தில் யாரிடம் ஒடுங்கிப்போகிறதோ \- அதுவே ப்ரம்ஹம்" என்று காட்டியது. மேலும் "என்றும் எங்கும் எவ்விதத்திலும் பொருளான படியால் सत् என்ற சொல்லால் பரம்பொருள் காட்டப்பட்டது. ஸ்ருஷ்டிக்கத் தொடங்கும் போது \- மஹாப்ரளயகாலத்தில் இந்த ப்ரம்ஹம் ஒன்று மட்டுமே இருந்தது. இதற்கு நிகர் வேறு பொருளில்லை" என்றும், "எங்கும் வ்யாபித்ததானபடியால் आत्मा என்னப்பட்ட இந்த பரமாத்மா மட்டிலுமே ஸ்ருஷ்டி தொடங்கும் காலத்தில் இருந்தார்" என்றும், "ஸ்ரீமந்நாராயணன் என்ற அந்த பரமாத்மா ஒருவரே ஸ்ருஷ்டி தொடங்கும் காலத்தில் இருந்தார், நான்முகனோ \- சிவனோ, இந்த மேல் \- கீழ் உலகங்களோ இல்லை" என்றும் இப்படி எல்லா ஜகத்துக்கும் ஸ்ரீமந்நாராயணனே காரணம் \- என்று பல ச்ருதிகள் காட்டுகின்றன. 
+---
 
-8 
+[[P30]]
 
-1   
-लक्ष्म्युपायत्वदीपः 
+(ल.उ.दी) किञ्चैवं सति अखण्डार्थवादी विजयेत "सत्यं ज्ञानम् अनन्तं ब्रह्म” इत्यादिस्वरूपलक्षणपरसमानाधिकरणवाक्येषु तदापादितस्य विशेषणानां परस्परान्वयस्य अभ्युपगमप्रसङ्गात् । अभ्युपगमे च तुल्यन्यायतया चापसिद्धान्तः । तस्माद् अखण्डार्थवादिनिरासार्थं विशेष्यान्वय एव स्वरसः, न तु विशेषणान्वयः सर्ववाक्यानां तथैव व्युत्पत्तिर् इति वक्तव्यम् । तथा च प्रकृते विशेषणान्वयासम्भवेन उपायत्वे साधारण्यप्रतीतिर् अयुक्ता एव ।
 
-இந்த விஷயம் மூன்று ரஹஸ்யங்களில் முதல் ரஹஸ்யமான திருவஷ்டாக்ஷரத்தில் முதல் பதமான ஓங்காரத்தில் முதல் எழுத்தான அ என்ற சொல்லாலும் தெரிவிக்கப்படுகிறது. இந்த ஜகத்காரணத்வம் என்பது \- பெரியபிராட்டியான ஸ்ரீமஹாலக்ஷ்மியுடன் கூடிய பகவானிடமுள்ளது. பகவான் ஒருவரிடம் மட்டிலும் இல்லை.   
-"எல்லா உலகிற்கும் தாயான இந்த லசஷ்மிதேவி ஸ்ரீவிஷ்ணுவை விட்டு ஒருபோதும் நீங்காதவள்", "எங்கும் எதிலும் எம்பெருமான் எப்படி வ்யாபித்து உள்ளாரோ அதேபோல் இந்த பிராட்டியும் என்று அறிவீராக" \- (என்று ஸ்ரீபராசரர் ஸ்ரீமைத்ரேயருக்கு உபதேசித்தார்.)   
-\- 
+ननु यद्यपि विशेष्यमात्रान्वय एवोपायत्वस्य प्रतीतिः, न विशेषणान्वये, तथापि स्थलान्तरे लक्ष्म्या अप्य्-उपायत्वप्रतीतेर् उपायत्वं साधारणम् इति सिद्धं कृत्वा पुरुषकारत्वं विशेष इत्युक्तिर् इति चेन् न । उपायत्ववचनानाम् अन्यथासिद्धेर् वक्ष्यमाणत्वात्, स्थलान्तरे ऽप्य् उपायत्वप्रतीतेर् अभावाद् उपायत्वं न साधारणम् इत्य्-अर्थो ऽनुपपन्नः ।
 
-\- 
+नन्वेवं सति व्यवस्थावचनबलाद् वचनान्तराणाम् अन्यथासिद्धिः, तद्-अप्रतिपत्तौ च विशेषणानन्वयप्रयुक्तव्यवस्थासिद्धिरिति चक्रकाश्रयापत्तिर् इति चेन् न । विशेषणानन्वयस्य साधारण्याप्रतिपत्तिमूलकत्वाभावात् विधेयस्य विशेष्यमात्रान्वय एव स्वरसतस् सर्वत्र प्रतीयते, न विशेषणानन्वय इत्य्-उक्तत्वात्, सर्ववाक्यानां विधेयस्य विशेष्यमात्रान्वयबोधकत्वव्युत्पत्तिस्वारस्यबलेन विशेषणानन्वयसिद्धेः ।
 
-இந்த்ரன் கூறுகிறான்:\- "எல்லா உலகிலுமுள்ள எல்லோருக்கும் தாயாக நீர் (லக்ஷ்மி) இருக்கிறீர். தேவர்களுக்கெல்லாம் தேவனான ஸ்ரீஹரியே உலகினர் யாவருக்கும் தந்தை. தாயே\! தாயான உன்னாலும் ஸ்ரீவிஷ்ணுவாலும் இந்த அசையும் உலகம் முழுவதும் வ்யாபிக்கப்பட்டிருக்கிறது." 
+किञ्च, अहम् उपायस् सा पुरुषकारभूतेति विभागकरणेन एकैकव्यक्तिनियतत्वेनैकस्य प्रतीतेर् भगवतः पुरुषकारत्वाभावः लक्ष्म्याश् चोपायत्वाभावो ऽर्थात् सिद्ध्यतीति तद्-बलाद् एव व्यवस्थासिद्धिः । व्यवस्थाबलाद् एवोपायत्ववचनानाम् अन्यथासिद्धिः, न तु उपायत्ववचनानाम् अन्यथासिद्ध्यादिबलाद् व्यवस्थासिद्धिः ।
 
-அறிவுள்ளது   
-\-   
-அசையாததுமான 
+ननु वचनान्तरेषूपायत्वप्रतिपादनेनानेन वचनेनोपायत्वाभावप्रतिपादनं विरुद्धम् इति चेन् न । लक्ष्म्या उपायत्वं नास्तीति शब्दविधया बोधकत्वाभावेन विरोधाभावात्, अनेन वचनेन स्वार्थप्रतिपत्यनन्तरं व्यवस्थितविशेषाभिधानमहिम्ना
 
-அறிவற்றது   
-என்ற 
+[[P31]]
 
-பாகுபாடுகளையுடைய இந்த ஸமஸ்த லோகமும் 
+इतरनिषेधस्य गम्यमानार्थत्वात् । “विशेषनिषेधश् शेषाभ्यनुज्ञासूचकः” इतिवत् “विशेषविधिश् शेषनिषेधसूचकः" इति न्यायात् ।
 
-எங்கும் 
+---
 
-அவளுக்குக்   
-எப்போதும் 
+(ல.க) மேலும், अखण्डार्थवादी என்னப்பட்ட அத்வைதியை ஸ்ரீபாஷ்யகாரர் மறுக்கும் ப்ரகரணமே ஒட்டாமல் போய்விடும். அதாவது - "सत्यं ज्ञानमनन्तं ब्रह्म" என்றவாறான இடங்களில் பரமாத்ம ஸ்வரூபத்தைக் காட்டித்தரும் இத்தகைய வாக்கியங்களில் ஒவ்வொரு சொல்லாலும் தெரிவிக்கப்பட்ட ப்ரம்ஹ விசேஷணங்கள் யாவற்றிற்கும் ஒன்றோடு ஒன்று அந்வயிப்பது நீங்கள் கூறுவதைப் போல் ஒப்புக்கொள்ள வேண்டிவரும். அப்படி ஒப்புக்கொள்வது நமது ஸித்தாந்தத்துக்கு விருத்தம். ஆகவே, अखण्डार्थवादी-களை நிரஸிப்பதற்காக எல்லாவற்றிற்கும் விசேஷ்யமான ப்ரம்ஹத்தில் அந்வயிப்பதே நேராகும். ஒன்றோடொன்று விசேஷணாந்வயம் தகாது. ஆகவே இங்கும் விசேஷணாந்வயம் ஸம்பவிக்காதபடியால், மோக்ஷோபாயத்தில் பிராட்டிக்கும் ஸம்பந்தமுண்டு என்பது நேரில்லை - என்பது பூர்வபக்ஷியின் கருத்து.
 
-கணவனான 
+ஸித்தாந்திச்சாயயா இடையில் ஒரு கேள்வியும், அதற்கு பதிலும்: விசேஷ்யமாத்ராந்வயத்தில் தான் நோக்கு. ஆயினும் வேறு ப்ரமாண வாக்யங்களில் பிராட்டிக்கும் மோக்ஷோபாயத்வம் உண்டு - என்று காட்டியுள்ளபடியால், உபாயத்வம் பகவான் - பிராட்டி என்று இருவருக்கும் ஸாதாரணம் என்று கூறுகிறோம் என்பது ஸித்தாந்திச்சாயயா பூர்வபக்ஷம்.
 
-எம்பெருமானுக்கு இவளும், இந்த எல்லா உலகமும்   
-ஸ்ரீமஹாலக்ஷ்மியால் 
+இதற்கு பதில் - பிராட்டிக்கு உபாயத்வம் உண்டு என்று காட்டுவதைப் போன்ற வசனங்களுக்கு अन्यथासिद्धत्वम्-ஐ
 
-வ்யாபிக்கப்பட்டது. 
+[[P32]]
 
-ஆளுகைக்கு உட்பட்டது. இந்த 
+நீங்கள் கூறுவதை விட வேறு பொருள் நாங்கள் கூறப்போகிறோம். ஆகவே, அது நிறைவேறாது - என்று.
 
-இருவருக்கும் பொதுவானது   
-திவ்யதம்பதிகளான 
+மீண்டும் பூர்வபக்ஷி கூறுகிறான் - "எம்பெருமான் ஒருவருக்கே உபாயத்வம்" என்ற வ்யவஸ்த்தாபலத்தால் வசநாந்தரங்களுக்கு अन्यथासिद्धत्वम् என்று சொல்லவேண்டும். அது साधारण्याप्रतिपत्तिः என்பது முடிவானால்தான் - பரமாத்மா - பிராட்டி ஆகிய இருவருக்கும் உபாயத்வம் ஸாதாரணம் என்பது ஸித்திக்கும். இந்த எண்ணமில்லாவிட்டால் தான் விசேஷணங்கள் அந்வயிக்கா - என்பதாலான வ்யவஸ்த்தை ஏற்படும் - என்று சக்ரகம் என்ற குற்றம் வருமே! என்பது கேள்வி.
 
-இவற்றுக்குத் 
+இதற்கு மறுப்பு - இருவருக்கும் உபாயத்வம் பொது என்பதை அடிப்படையாகக் கொண்டதில்லை விசேஷ்யமாத்ரத்தில் விசேஷணாந்வயம் என்பது. விசேஷணங்களுக்கு அந்வயம் தான் எங்கும் ஸ்வரஸமாக ஏற்படும்.
 
-\-   
-தலைவனாயிருப்பது. ஆகவே இந்த ஸ்ரீ என்னப்பட்ட பெரியபிராட்டியும், ஸ்ரீஸன் என்னப்பட்ட பரமாத்மாவும் எப்போதும் எல்லாவற்றிற்கும் சேஷிகள்\= "உடமைகாரர்கள்” \- என்பன போன்ற வசனங்கள் பகவத்ஸ்வரூபத்துக்கு போன்று \- பெரியபிராட்டியின் ஸ்வரூபத்துக்கும் எல்லா உலகுக்கும் காரணமாயிருப்பது \- எங்கும் எதிலும் நீக்கமற வ்யாபித்திருப்பது \- எப்பொருளையும் தன் கட்டுப்பாட்டில் 
+மேலும் பூர்வபக்ஷி கூறுகிறான் - “நான் உபாயம், பிராட்டி புருஷகாரபூதை” என்ற பகவத் வாக்யத்தால் இந்த இரண்டும் கூறாக விபஜித்தவை என்பது ஏற்படுகிறது. பகவானுக்கு எப்படி புருஷகாரத்வம் இல்லையோ, அப்படி பிராட்டிக்கு உபாயத்வமில்லை என்பதே ஸ்வரஸமாக ஏற்படுகிறது. இப்படி வ்யவஸ்த்தை கொள்வதாலேயே எங்காவது பிராட்டிக்கு உபாயத்வம் உண்டு - என்று கூறும் வசனமிருந்தாலும் அவைகளை अन्यथासिद्धम्-ஆகக் கொள்ளவேண்டும். லக்ஷ்மிக்கு உபாயத்வம் இல்லை என்று ஸ்பஷ்டமான வசனம் இல்லாவிடிலும், புருஷகாரத்வத்தைக் கூறுவதால் பிராட்டிக்கு உபாயத்வமில்லை - என்பது தானே கிடைக்கிறது. विशेषनिषेधः शेषाभ्यनुज्ञासूचकः [குறிப்பிட்ட ஒன்று இல்லை என்றால்,
 
-9   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+[[P33]]
 
-\-   
-வைத்திருப்பது \- முதலானவைகள் காட்டுகின்றன. மேலும் \- "எதையும் தன் வயத்தில் பகவான் கொண்டுள்ளார், எல்லாவற்றிற்கும் அவரே தலைவர்” "உலகிலுள்ள எல்லாவற்றிற்கும் ஸ்ரீமந்நாராயணனே தலைவர்" என்று பகவானைக் கூறுவதுபோல் "ஸ்ரீவிஷ்ணுவுக்கு பத்னியான பெரியபிராட்டி இந்த உலகினர் யாவருக்கும் தலைவி" என்றும், “எல்லா பூதர்களுக்கும் ஈஸ்வரி \= தலைவி” என்றும் \- பெருமானைப் போல பிராட்டியையும் கெயில்\= உடமைகாரர் கோடியில் தெரிவித்த வசனங்களைக் காண்க. 
+மற்றவைகள் உண்டு - என்பது தானே தெரியவரும்] என்ற நியாயம் போல - विशेषविधिः शेषनिषेधसूचकः [ஒன்றை விதித்தால், அதைத்தவிர மற்ற ஸாमाந்ய தர்மங்களில் இடையூறானவை அங்கு இல்லை என்பதை அது குறிப்பால் காட்டும்] என்றபடிக்கு இப்படியே பொருள் கொள்ள வேண்டும்.
 
-\- 
+---
 
-\-   
-\-   
-இதே காரணத்தால் "ஜகத்துக்கு எது காரணமோ அதுவே த்யானம் செய்யத்தகுந்தது" என்று உலகிற்குக் காரணமானதே பக்தி\-ப்ரபத்திகளாகிய உபாயங்களால் அடையமுடியும் என்பது இரண்டாவது ரஹஸ்யமான த்வயத்திலும், மூன்றாவது ரஹஸ்யமான சரமச்லோகத்திலும் தெரிவிக்கப்பட்டதும்   
-இந்த திவ்யதம்பதிகளையே. இப்படியே சாஸ்த்ரங்களில் (பெருமாள் \- பிராட்டிகளின் கூற்று)   
-தெரிவிக்கப்பட்டுள்ளது:\- 
+(ल.उ.दी) वस्तुतस् तु साधारण्यप्रतीतिर् एवायोग्या उभयोर् एकरूपोपायत्वस्य दुर्निरूपत्वात्, लक्ष्म्या अनुमन्तृत्वरूपम् उपायत्वम्, तच् च भगवति नास्ति । भगवतस् तु सर्वपापनिवर्तनानुकूलसङ्कल्परूपज्ञानेच्छाकृतिमत्त्वम् । तच् च लक्ष्म्या नास्तीति न साधारण्यप्रयुक्तदोषलेषावकाशः । अत एव भगवति विधीयमानोपायत्वस्य विशेषणान्वयशङ्कापि दूरोत्सारिता ।
 
-"தேவர்களுக்கெல்லாம் தலைவனான இந்த்ரனே\! லக்ஷ்மியையும் என்னையும் த்வயம் என்ற மந்த்ரத்தால் சரணம் புகுந்தவன் என் லோகத்தை விரைவில் அடைந்து எனக்கு ஸமானமான போகத்தை அடைகிறான்." 
+ननु उपायत्वं कारणत्वं, तच् च अनन्यथासिद्धनियतपूर्ववृत्तित्वम् । तच् च साधारणम् इति चेन् न । व्यापारकर्तृत्वव्यापारकर्मत्वोभयराहित्ये सत्य् अपि कारणत्वं सत्तया कारणत्वम् एव । एवंविधसत्तया कारणत्वं ह्य् अदृष्टकालादीनाम् एव । तद्-अन्येषां तु कारणत्वं तत्तत्कार्यानुकूलव्यापारकर्मत्वेन वा व्यापारकर्तृत्वेन वा वक्तव्यम् । व्यापारकर्मत्वस्य कर्त्रधिष्ठेयत्वरूपत्वेन लक्ष्म्यास् तत्सम्भवे ऽपि भगवद्-अधिष्ठितचतुर्मुखादिन्यायेन कुलालाद्यधिष्ठितदण्डादिन्यायेन वा मोक्षरूपकार्यं प्रति भगवत्य्-असम्भवः, पुरुषकारातिरिक्तव्यापारासम्भवेन लक्ष्म्याः कारणत्वानुपपत्तिः । व्यापारकर्तृत्वेन कारणत्वस्य तु भगवत्य् एव सम्भवः, तस्यैव "मोक्षयिष्यामि" इति सङ्कल्परूपव्यापारकर्तृत्वप्रतीतेः । पुरुषकार-अतिरिक्त-मोक्षानुकूल-व्यापार-रहितायास् तस्यास् तथाविध-कारणत्वासम्भवान् न उभयोर् एकरूप-कारणत्वस्य असम्भवान् न विशेषणान्वयप्रसक्तिः ।
 
-"இயல்பாகவே ஸர்வஸ்வதந்த்ரனும் தலைவனாயும் கருணைக்கடலாயும் பகவான் உள்ளார். அதே போல் அருளுக்கு இருப்பிடமாய் ஸர்வஸ்வதந்த்ரையாய் பெரியபிராட்டியாரும் உள்ளார்.” 
+[[P34]]
 
-எங்களுக்கு   
-சரணமாக   
-\=   
-"பிராட்டியே\! எல்லா ஸாஸ்த்ரங்களிலும் நீதான் பாதுகாப்பாக தெரிவிக்கப்படுகிறாய். அடியேனையும், அடியேனைச் சேர்ந்தவர்களுமான எங்கள் எல்லோருடையவுமான ரக்ஷணபரம் முழுவதையும் தேவரீருடைய மங்களகரமான திருவடித்தாமரைகளில் ஸமர்ப்பித்துவிட்டோம். இந்த 
+(ல.க) மேலும் பூர்வபக்ஷி கூறுகிறான்: பெருமாள் - பிராட்டி என்ற இருவருக்கும் ஒரே மாதிரியான உபாயத்வம் சொல்லமுடியாது. பிராட்டிக்கு எம்பெருமான் செயலை அப்படியே நடக்கட்டும் என்ற अनुमन्तृत्वम् உண்டு. இது பகவானிடம் கிடையாது. "எல்லா வகையான பாபங்களிலிருந்தும் பத்த சேதனனை மீட்டு மோக்ஷம் அளிக்கிறேன்" - என்றல்லவோ பகவானின் செயல். இது பிராட்டிக்கு இல்லையே?
 
-10   
-लक्ष्म्युपायत्वदीपः 
+ஸித்தாந்திச்சாயயா மீண்டும் ஆக்ஷேபமும், அதற்கு ஸமாதானமும்:
 
-பாரங்கள் \= பாபங்கள் \- எங்களால் தாங்க முடியாது. விடவும் 
+உபாயத்வம் என்பது மோக்ஷப்ரதான பகவத்கார்யத்துக்கு காரணத்வம். காரணம் கட்டாயமாக கார்யம் உண்டாவதற்கு முன்பு இருந்தே தீரவேண்டும். இது பெருமாள் - பிராட்டி இருவருக்கும் இருக்கிறதே! எனக்கேள்வி.
 
-முடியாது." 
+பதில் - ஒரு செயலைச்செய்யும் கர்த்தாவாக இருப்பதோ, அல்லது அந்த செயலுக்கு கர்மமாக இருப்பதோ இல்லாவிடினும், காரணத்வம் உண்டு. அது நியமேன செயல் நிகழ்வதற்கு முன்பு இருக்கவேண்டியது பற்றியே. இப்படித்தான் அத்ருஷ்டம், காலம் முதலானவைகளை எல்லா செயல்களுக்கும் காரணமாகக் கூறுகிறோம். இத்தகைய அத்ருஷ்டம், காலம் இவைகளைத்தவிர மற்றவைகள் - செயல் ஏற்படக் காரணமாகவோ - செயலில் பயனாகவோ இருந்தே ஆக வேண்டும்.
 
-"அடைய வேண்டிய மோக்ஷத்துக்காக 
+ஒரு செயல் உண்டாக ஒரு கர்த்தா தேவை. அந்த கர்த்தாவுக்கு அதிஷ்டானத்தின் ஆதாரமாக இருப்பது பகவானிடம் சேராது. பிராட்டிக்கு இது கூடினாலும் குயவன், கொம்பு - சக்கரங்களை செயல்பட வைப்பதைப் போன்றும், பகவான் நாம - ரூபவ்யாகரணம் செய்ய
 
-தேவரீரையே   
-உபாயமாக   
-அடியேன் வரிக்கிறேன். அடியேனை நழுவவிடாமல் தேவரீர் உபாயமாக இருந்து அருளவேண்டும்." 
+[[P35]]
 
-"Com\! தேவி\! தாமரையாளே\! அடியேனுக்கு மோசேஷாபாயமாக தேவரீர் இருக்கவேண்டும். எனது எல்லா பாபங்களையும் தேவரீர் தீர்த்து வைத்து, அடியேனுக்கு தேவரீரைப் பற்றிய புத்தியே எப்போதும் இருக்க அருள்வாயாக." 
+சதுர்முகனான பிரமனை அதிஷ்டானம் செய்தது போன்றும் ஜகத்காரணத்வம் மோக்ஷரூபமான பயன் ஏற்பட - பரிந்து பேசுவது பகவானிடத்தில் - என்றதைத்தவிர வேறு இல்லாதபடியால் - லக்ஷ்மிக்கு ஏற்படாது. ஜகத்வ்யாபாரங்களை ஸாக்ஷாத் ஆக பகவானே செய்தருள்வதால் அது பகவான் ஒருவரிடம் மட்டிலுमे இருக்கும். ஏனெனில் मोक्षयिष्यामि = “உன்னை ஸம்ஸாரபந்தத்திலிருந்து விடுவித்து மோக்ஷம் அளிக்கப் போகிறேன்" என்ற ஸங்கல்பரூपமான வ்யாபாரம் பகவான் ஒருவரே செய்வதன்றோ. புருஷகாரமாயிருப்பது என்றது தவிர மோக்ஷாநுகூலமான வேறு வ்யாபாரம் பிராட்டியால் செய்யப்படவில்லையாகையால் பகவானுக்கு விசேஷமாக பிராட்டி அமையமுடியாது. உபலக்ஷணவிதயா அந்வயமே.
 
-ஸ்ரீபுருஷோத்தமனான   
-"இப்படி மனதில் எண்ணிக்கொண்டு மோசமடைய என்னைச் சரணம் புகுந்து, எல்லோருக்கும் எதற்கும் காரணமான ஜகந்நாதனான பகவானைச் சரணம் புகவும். இப்படிப் புகுந்தவன் செய்யவேண்டியது வேறில்லை." என்பதாக பிராட்டி தானே உபாயம் என்பதை அருளியுள்ளார். 
+---
 
-வசிப்பவளும்,   
-மேலும், "சந்த்ரனைப் போன்று மிக்க ஒளிவீசிவருபவளும், தமது புகழ்களால் ப்ரகாசிப்பவளும், உலகில் எல்லோராலும் ஆச்ரயிக்கப்படுமவளும், வேண்டிய யாவற்றையும் வாரிவழங்குபவளும், தாமரையின் நடுப்பகுதியில்   
-அகாரவாச்யனான எம்பெருமானுக்கு ஏற்ற மனையாளுமான ஸ்ரீலக்ஷ்மியை நான் சரணமாகப் புகுகிறேன். எதற்காக என்றால் \- எனக்கு ஏற்பட்ட பீடைகளும் அவலக்ஷணங்களும் அழியட்டும். இதற்காக உன்னை நான் இங்கிருக்க வரிக்கிறேன்-” என்றும், "சொல்லுக்கு அப்பாற்பட்ட பெருமைகளை அடைய விரும்புமவன் கட்டுப்பாடுடன் ஸ்ரீ என்ற பெரியபிராட்டியை சரணாகதி செய்யவேண்டும்" என்றும் ச்ருதிகளில் தெரிவிக்கப்பட்டது. 
+(ल.उ.दी) नन्वेवम् अपि विशेषणान्वयः प्रसज्यत एव सत्तया कारणत्वस्य सम्भवात् भगवतस् सर्वकार्याकारणत्वेन व्यापाररूपकार्यं प्रत्य् अपि कारणत्वस्य आवश्यकतया तत्रापि व्यापारान्तरापेक्षया अनवस्थाप्रसङ्गेन सुदूरं गत्वापि क्वचित् सत्तया कारणत्वं वाच्यम् । अन्यथा कार्यमात्रानुत्पादप्रसङ्गः । तथा च तद्रीत्या मोक्षे ऽपि लक्ष्म्याः कारणत्वं व्यापारं विनैव स्वरूपसत्तामात्रेणोपपद्यत इति चेन् न ह्य् अनवस्थापरिहाराय क्वचित् कार्यानुकूलव्यापारविशेषव्यापारान्तरं करणत्वम् अङ्गीकृतम् इत्य् एतावता व्यापारमुखेन सम्पादयितुं योग्यमोक्षरूपकार्ये ऽपि तथा वक्तुं शक्यम्, अन्यथा क्वचिद् अपि व्यापारापेक्षा न स्यात् । तस्माद् व्यापारमुखेन मोक्षकारणत्वसम्भवेन प्राधान्येन कार्यं प्रति चेतनभूतायास् तस्यास् सत्तया कारणत्वम् अनुपपन्नम् इति मोक्षं प्रति नानाविधकारणत्वस्य अप्य् असम्भवेन उपायत्वस्य न साधारण्यम् इत्य् उपायत्वं भगवतो विशेष एव ।
 
-இதையே சான்றோர்களும் கூறினார்கள்:\- 
+---
 
-11   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+(ல.க) வேறு வகையில் மீண்டும் ஆக்ஷேபம்:
 
-செய்த நமஸ்காரம்   
-“எந்த பெரியபிராட்டியாரின் திருவடித்தாமரைகளில் ஒருவராலும் அடையமுடியாத துர்லபமான பெரியபதவியையும், மிக உயர்ந்த முக்தியையும் கொடுக்குமோ \- அத்தகைய லக்ஷ்மிதேவியை நான் நன்கு அடைகிறேன்.” \- என்று. 
+கார்யம் நடைபெற கட்டாயம் முன்பு காரணம் இருந்தாக வேண்டும் - என்ற நியதிப்படிக்கு ஸர்வவிதமான கார்யங்களுக்கும் ஸ்வதஃ விசிஷ்டவேஷேண வா பகவானே காரணம் என்பதை அவஸ்யம் ஒப்பவேண்டியபடியால், ஒவ்வொரு செயலையும் விட இதில் அப்படி கொள்ளவில்லை என்றால் अनवस्था என்ற குற்றம் ஏற்படும் - ஆகவே ஸுதூரம் சுற்றி வந்தும் கடைசியில் सत्तया कारणत्वम् உண்டு என்று ஒப்பவேண்டும். அப்படியில்லையேல் - எந்த கார்யமும் உண்டாகாமலே போய்விடும். இதே நியாயப்படி - பிராட்டிக்கு ஜீவனின் மோக்ஷத்தில் காரணமாகும் நிலையில்லாவிடினும், ஸ்வரூபஸத்தாமாத்ரத்தைக் கொண்டு கூடுமே? என்ற கேள்வி.
 
-"நமஸ்காரம் (சரணாகதியை) செய்பவர்களுக்கு அருள முன்நிற்பவள் ஜனகரின் திருமகளான மைதிலி. இவள் இப்போது ஹநுமாரிடமிருந்து ராக்ஷஸிகளுக்கு ஏற்பட்ட மிகப்பெரிய மரணபயத்திலிருந்து பாதுகாக்க போதுமானவள். இவளிடம் பாதுகாக்கும் வேண்டுவோம். இதுவே எனக்கு தகுந்ததாகத் என்று ஸ்ரீராமன் ஆஞ்சநேயர்   
-\-   
-தோன்றுகிறது" இவர்களிடமிருந்து ராக்ஷஸிகளுக்கு 
+இதற்கு பதில் - சில இடங்களில் कल्पक-கார்யம் உண்டாக வ்யாபாரம் செய்யாவிடினும் ஸத்தாமாத்ரம் இருந்தால் போதும் என்று ஒப்பினோம். அதைக்கொண்டு இங்கு மோக்ஷரூபகார்யத்திலும் சொல்லமுடியாது. இப்படிச் சொன்னால் ஒரு இடத்திலும் வ்யாபாராபேக்ஷையே இருக்காது. ஆகவே மோக்ஷரூபமான கார்யம் ஏற்பட பிராட்டியின் ஸத்தை ஆவஶ்யகம். பகவானுக்கு விசேஷணபூதையாய் நின்று பிராட்டியும் காரணமே. ஆனபடியால்
 
-\-   
-\-   
-படி 
 
-வரக்கூடிய பயத்தால் துன்புறும் "உங்களுக்கு நான் பாதுகாப்பாக ஆவேன்” என்று அபயமளித்துவிட்டு ஹநுமாரிடம் \- "அரசன் உத்தரவுபடிக்கு கீழ்படிந்து அவனுக்கு அடங்கின ராக்ஷஸிகள் விஷயத்தில் \- விஷயம் தெரிந்த யார் தான் கோபம் கொள்வார்கள்? அவர்கள் பாபம் செய்தவராயினும், அப்படி   
-செய்யாதவராயினும், ஆஞ்சநேயரே\!   
-பாபமே 
+[[P36]]
 
-கொல்லத்தக்கவர்களேயாயினும் 
+(ल.उ.दी) किञ्च "मत्प्राप्तिं प्रती" त्यादिवचनार्थपर्यालोचनायां न केवलं साधारण्याभावः किन्तु भगवदसाधारण्यमेवोपायत्वे सिद्ध्यति । तथाहि — मत्प्राप्तिं प्रति लक्ष्मीः पुरुषकारत्वेन निर्दिष्टा ममापि मतम् एतत्, एतत् पुरुषकारत्वं लक्ष्म्या इति ममापि सम्मतं, नान्यथा लक्षणं भवेत्, अन्यथा प्रकारान्तराभ्युपगमे पुरुषकारातिरिक्तोपायत्वाकाराभ्युपगमे न लक्षणं भवेन् मम उपायत्वं लक्षणम् एव न भवेत्, लक्ष्म्याम् अतिप्रसक्तेर् इत्यर्थः । जगत्कारणत्वमोक्षप्रदत्वयोर् ब्रह्मलक्षणत्वेन बहुप्रमाणसिद्धतया मोक्षप्रदत्वं ब्रह्मलक्षणम् इति जगत्प्रसिद्धम्, अत एव आचार्यैर् अप्य् अनुगृहीतम् "एते हि राज्ञि छत्रचामरवद् ब्रह्मणो ऽसाधारणं चिह्नम्" इति । ब्रह्मत्वं च न लक्ष्म्या इत्युत्तरत्र स्थापयिष्यते । न चास्मिन् वचने उपायत्वाप्रतीतेर् अप्रसक्तम् उपायत्वम् इति तस्य लक्षणत्वाभावलक्षणानिष्प्रसञ्जनं कथमिव सङ्गच्छेत इति वाच्यं,
 
-பெரியோர்களால் கருணையுடன் இவர்கள் நடத்தப்பட வேண்டியவர்களே. உலகில் தப்பே செய்யாதவர் யார்?" என்று கூறி அரக்கிகளை அநுமனிடமிருந்து பாதுகாத்த ஸ்ரீஸீதாதேவிக்கு   
-ஸ்ரீராமபிரானைவிட சரணமடைந்தவர்களைப் பாதுகாப்பது அதிகம் என்பது 
+[[P37]]
 
-ஸ்பஷ்டம். 
+पुरुषकारत्वस्वरूपपर्यालोचनायां तदन्तर्गतत्वेनोपायत्वप्रतीतेर् आवश्यकत्वात् । अथवा — प्रकारान्तरेणोपयोगे ज्ञापकं नास्तीति संसाराधः प्रपतितानां तन्निवर्तनानुकूलव्यापारविचारणप्रकरणबलात् तदानुकूल्यं पुरुषकारमुखेन — न तूपायत्वमुखेन इति सिद्ध्यति — अन्यथा पुरुषकारत्वाभावे, लक्षणं न भवेत् पुरुषकारत्वं लक्षणं न भवेद् इत्य् अयम् अर्थो ऽनुपपन्नः, पुरुषकारत्वानङ्गीकारे तल्लक्षणत्वाभावस्य इष्टापादनरूपत्वात् । द्वितीययोजनायां लक्षणशब्दो ज्ञापकपरः, न भवेदित्यस्य नास्तीत्यर्थः एवं च सति मत्प्राप्तिं प्रति लक्ष्म्याः पुरुषकारत्वातिरिक्ताकारेण उपयोगज्ञापकं नास्तीति पुरुषकारत्वम् एव तस्या इति ममाभिमतम् इत्य्-अर्थः पर्यवसन्नो भवति । ततश् चोपायत्वं भगवत एवेति सुव्यक्तम् ।
 
-எம்பெருமானும் "எல்லா தேவர்களாலும், மஹர்ஷிகளாலும் கைவிடப்பட்ட அந்த காகாஸுரன் மூவுலகையும் சுற்றித்திரிந்துவிட்டு பாதுகாப்பாளர் யாரும் இல்லாதபடியால்   
-ஸ்ரீராமபிரானையே   
-அந்த 
+किञ्च, स्वयम्-पद-महिम्ना च भगवद्व्यतिरिक्तोपायत्वस्य व्यवच्छेदसिद्धिः, अन्यथा स्वयम्पदवैयर्थ्यापत्तेः तस्मात् स्वयम्पदमहिम्ना, “एतस्याश् च विशेषो ऽयम्” इत्य्-उक्तिमहिम्ना च पूर्वोक्तोपायत्वं ममैव विशेषः, एतस्यास् तु पुरुषकारत्वम् एव विशेष इत्य्-अयम् अर्थः प्रतीयते, उपायत्वम् उभयसाधारणं, पुरुषकारत्वम् एव तस्या विशेष इत्य्-अयम् अर्थस् तु न प्रतीयते, "एतस्याश् च" इत्यत्र चस् तु-अर्थः । यद्वा, चस् समुच्चये । भगवतो लक्ष्म्याश् च परस्परव्यावर्तकलक्षणद्वयम् इह विवक्षितम्, "एतस्या अयम् विशेषः" इत्यनेन लक्ष्म्याः पुरुषकारत्वं भगवदपेक्षया व्यावर्तकम् इत्युक्तम्, भगवतस् तूपायत्वं लक्ष्म्यपेक्षया व्यावर्तकम् इति तेनैव व्यज्यते, "एतस्याश् च विशेषो ऽयं निगमान्तेषु शब्द्यते" इत्यत्र मम साक्षाद् उपायत्वं विशेष इति निगमान्तेषु शब्द्यत इत्येवंरूपार्थस्य च-शब्देन समुचितत्वात् ।
 
-சரணமடைந்தான். எம்பெருமானும் பூமியில் விழுந்த அந்த   
-\- 
+[[P38]]
 
-12 लक्ष्म्युपायत्वदीपः 
+किञ्च, साक्षात्पदस्य यथाश्रुतान्वये प्रयोजनाभावाद् उपायपदान्वये परम्परोपायत्वव्यावृत्तिमुखेन साक्षाद् उपायत्वं भगवत एव लक्षणतया सिद्ध्यति, लक्ष्म्यास् तु परम्परोपायत्वम्, तच् च पुरुषकारत्वे पर्यवस्यति, न च "एतस्याश् च विशेषो ऽयम्” इतिवन् मम उपायत्वं विशेष इति भगवता नोक्तम्, अतः कथं परस्परव्यावर्तकलक्षणद्वयपरत्वम् इति वाच्यम्, न हि लक्ष्म्या इदम् लक्षणम् इत्येतावता स्वस्यापीदम् लक्षणम् इति वक्तव्यम् इति निर्बन्धः, अप्रयोजकत्वात्, अहम् साक्षान्-मत्प्राप्त्युपाय इत्यनेन लक्षणत्वाकारस्य स्फुटत्वान् ममैवोपायत्वं विशेष इति नोक्तम् । किञ्च, च-शब्देन ममोपायत्वं विशेष इति द्योतितत्वात् तथा कण्ठरवेण नोक्तम् । एवं च व्यवस्थावचनबलात् लक्ष्म्या अनुपायत्वे सिद्धे तदुपायत्ववचनानां पुरुषकारत्वप्रयुक्तपरम्परोपायत्वपर्यवसानम् एव उचितम् । न चैवं मुख्यार्थत्यागदोषः, त्यागस्य अनन्यथासिद्धव्यवस्थावचनमूलत्वेन अदोषत्वात् । एकम् अपि वचनं व्यवस्थापरं चेत् परस्-सहस्रवचनान्य् अपि तद्-अविरुद्धार्थकान्य् एव योजनीयानि ।
 
-\-   
-காகத்தை \- இவன் சரணாகதன்   
-வன் சரணாகதன் \- என்று கொண்டு கொல்லவேண்டிய அளவுக்குப் பெரும்பிழை செய்த அவனை \- கருணையே உருவெடுத்து வந்ததைப் போன்ற தம்மருகில் இருக்கும்   
-ஸ்ரீஸீதாபிராட்டியுடனிருப்பதால்   
-நன்கு ரக்ஷித்தார்." என்று உள்ளது. இதனால் வேறு போக்கற்ற 
+---
 
-யான   
-ன காகத்தை ஆர்த்தப்ரபன்னனை பிழைக்க பாதுகாத்தார். செய்த பிழைக்குத் தண்டனையாக ஒரு கண்ணை வாங்கினார். 
+[[P39]]
 
-பரமபாவனரை   
-\-   
-\-   
-அது   
-\- 
+(ல.க) "मत्प्राप्तिं प्रति जन्तूनां संसारे पततामधः । लक्ष्मीः पुरुषकारत्वे निर्दिष्टा परमर्षिभिः ॥” என்று கீழே எடுத்த வசனத்தின் கருத்தை ஆராய்ந்தால் - மோக்ஷகாரணத்வம் திவ்யதம்பதிகளிருவருக்கும் பொது என்பதில்லை, பகவான் ஒருவருக்கே உரியது - என்று ஏற்படுகிறது. இதன் கருத்தாவது - என்னை (பகவான்) அடைய லக்ஷ்மியானவள் பரிந்து உரைப்பவளாக மஹர்ஷிகளால் காட்டப்பட்டாள். இவள் புருஷகாரமாயிருப்பது எனக்கும் ஸம்மதமே. பரிந்து பேசுவதற்கு இதைவிடவேறு லக்ஷணம் கிடையாது. இப்படி பிராட்டியையும் உபாயமாகக் கொள்வதானால் எனக்கு (பகவானுக்கு) என்று அஸாதாரணமாக அமைந்த மோக்ஷோபாயத்வரூபமான லக்ஷணத்துக்கு அதிவ்யாப்தி வரும். ஜகத்காரணத்வமும் மோக்ஷமளிப்பதும் பரம்பொருளான பகவானின் லக்ஷணம். அரசன் எங்கு சென்றாலும் குடை சாமரம் இவைகள் எப்படி உடன் வருகிறதோ அப்படியே இங்கும். இதை ஆசார்யர் - छत्रचामरवद्ब्रह्मणोऽसाधारणं चिह्नम् என்று காட்டியருளினார். லக்ஷ்மிக்கு ப்ரம்ஹசப்தவாச்யத்வம் கிடையாது - என்று மேலே நாங்கள் நிரூபணம் பண்ணப்போகிறோம்.
 
-இதே போல் \- “மக்களையும், மனைவிமார்களையும் விட்டுவிட்டும், பரம்பரையாக வாழ்ந்த லங்கா நகரையும், அங்குள்ள நண்பர்கள், செல்வம் முதலியவற்றையும் விட்டுவிட்டு, எம்பெருமான் ஸ்ரீராமனை சரணமடைந்தார் ஸ்ரீவிபீஷணாழ்வான்.” 'என் உயிர், ஸுகம், அரசு இவையாவும் இனி ஸ்ரீராமனே” என்றார் அவர். இத்தகைய "இவரைக் கொல்லவேண்டும், எதிரியிடமிருந்து வருகிறார்" என்று பரபரப்போடு அடக்க முற்பட்ட ஸுக்ரீவாதிகளை ஸமாதானப்படுத்தி, 'தன் மனைவியான புறாவைக்கொன்ற வேடனை, தான் வாஸம் செய்யும் மரத்தடியில் பசியுடன் வந்தபோது \-ஆண்புறா தன்னையே அவன் சரணமடைந்ததாக எண்ணி, அந்த வேடனை பூஜித்ததுடன், தானே நெருப்பு கொணர்ந்து சுள்ளிகளை அதில் போட்டு எரியவிட்டு \- பிறகு தான் அந்த தீயில் விழுந்து இறந்து தனது மாம்ஸத்தை அவன் உண்ணும்படி செய்தது" என்ற கபோதோபாக்யானத்தைக் கூறிய ஸ்ரீராமன் "நண்பன் என்ற முறையில் என்னை வந்தடைந்தவனை அவன் எத்தகையவனானாலும் ஒருகாலும் நான் கைவிடேன். அவனிடம் குற்றம் குறைகளிலிருந்தாலும் பொறுப்பேன். ஏன்? எனில் \- இது ஸத்துக்களான சான்றோர்கள் கைக்கொண்ட நிலை" என்று கூறி அந்த விபீஷணாழ்வானை சேர்த்துக்கொண்டார்.   
-1   
-\- 
+"मत्प्राप्तिं प्रति" என்ற சுலோகத்தில் உபாயத்வதைப் பற்றி ப்ரஸ்தாவமில்லாதபடியால் அநிஷ்டம் ஏதுமில்லையே - என்று எண்ணவேண்டாம். புருஷகாரத்வம் என்பது என்ன? என்று அதன் ஸ்வரூபத்தை நன்கு ஆராய்ந்தால் அதனுள் உபாயத்வமும் அடங்கியிருப்பது தெரியவரும். பிறவிப்பெருங்கடலில் வீழ்ந்தவர்களை அதனின்றும் மீட்பதற்கு பகவானிடம் பிராட்டி பரிந்து பேசுவது உபாயகோடியில் எப்படி சேரும்? எப்படி பொருள் கூற முற்பட்டாலும் "लक्ष्मीः पुरुषकारत्वे" என்ற வசனத்தால் பிராட்டிக்கு உபாயத்வம் உண்டு என்பதை ஸாதிக்க முடியாது. "साक्षाल्लक्ष्मीपतिः स्वयं" என்ற விடத்தில் स्वयं என்ற சொல்லால் - பகவானைத் தவிர்த்த வேறு உபாயமில்லை என்ற ஸித்திக்கிறதே. ஆகவே "अहं मत्प्राप्त्युपायो वै" என்றதாலும், "एतस्याश्च विशेषोऽयम्" என்றருளியபடியாலும் - முன்பு கூறிய மோக்ஷோபாயத்வம் பகவான் ஒருவருக்கே - என்பது ஸித்திக்கிறது.
 
-13   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+"உபாயமாய் இருப்பது தம்பதிகள் இருவருக்கும், புருஷகாரத்வம் பிராட்டிக்கு அதிகம்" என்று பொருள் கொள்ள முடியாது. "एतस्याश्च" என்றபோது சகாரம் 'து' என்பதின்
 
-இதை சான்றோர்களான பெரியோர்கள் (ஸ்ரீபட்டர்) அருளிய விதமிது \- "அம்மா தாயே\! மிதிலாநகரத்தரசரின் செல்வியே\! தேவரீரிடம் 'கொன்றுவிடுகிறேன் முழுங்கிவிடுகிறேன்' என்று கூறி பிழைசெய்து வரும்போதே அரக்கிகளான அவர்களையும் ஆஞ்சநேயரிடமிருந்து பாதுகாத்தீர்   
-காகாஸுரனையும்   
-தேவரீர். 
+[[P40]]
 
-\-   
-ஸ்ரீவிபீஷணாழ்வானையும் 'என்னைப் பாதுகாப்பாயாக' என்று கூறி காலில் விழுந்த பிறகே ஸ்ரீராமன் பாதுகாத்தார். நீயோ பாதுகாக்க ப்ரார்த்தனை செய்யாமல் \- கடைசீ வரையில் தொல்லை கொடுத்துவந்த அரக்கிகளையும் எதையும் எதிர்பாராமல் பாதுகாத்தாய்\! இதனால் ஸ்ரீராமரின் கோஷ்டியைவிட ஸ்ரீஸீதாபிராட்டியின் கோஷ்டி உயர்ந்தது. அடியேனைப் போன்று   
-போன்று இன்னமும் அபராதங்களைச் செய்துவருபவர்கள் விஷயத்திலும் பொறுமையுடன் மன்னித்துக் காப்பாற்றும் தேவரீர் கோஷ்டிக்கே அடியோங்கள் ஏற்றவர்கள்” என்று இதன் பொருள். \[இப்படிக் கூறியதால் ஸ்ரீராமபிரானை குறைவாகக் கூறியதாக எண்ணக்கூடாது. Hத்தின் நிலை இங்கு காட்டப்பட்டது.) 
+பொருள் கொண்டது. அல்லது च-காரத்தால் பகவானுக்கும் லக்ஷ்மிக்கும் ஒருவருக்கொருவரை பிரித்துக்காட்டும் லக்ஷணத்வயம் இங்கு காட்டப்படுகிறது. "एतस्याश्च विशेषोऽयम्" என்றதால் லக்ஷ்மிக்கு உள்ள புருஷகாரத்வம் பகவானைவிட வ்யாவர்த்தகாகாரம் என்பது நன்கு காட்டப்பட்டது. பகவானுக்கோ லக்ஷ்ம்யபேக்ஷயா மோக்ஷோபாயத்வம் வ்யாவர்த்தகம் - என்ற கருத்தே "साक्षाल्लक्ष्मीपतिः स्वयं" என்று காட்டிற்று. ஆகவே च என்ற சொல் ஸமுச்சாயகம்.
 
-இதனால் பகவானைவிடவும்   
-ஸர்வலோக ஸ்ரணாகதர்கள்   
-**U**ரண்யனான விஷயத்தில் 
+"साक्षात्" என்றபோது "उपायम्" என்ற சொல் உபாயபதத்தோடு சேர்வதிலேயே நோக்கமுடையது. இதனால் साक्षाद्-उपायत्वम् என்பது ஸித்தித்தது. லக்ஷ்மிக்கு பரம்பரோபகாரத்வம் தான் இந்த வாக்யத்தால் ஏற்படுகிறது.
 
-பெரியபிராட்டி இங்கு எல்லா விரும்பிய பலன்களையும், பிறகு ஸம்ஸாரத்திலிருந்து விரைவில் உயர்நிலையான மோக்ஷமளிப்பதையும் செய்வாள் \- என்று திருவுள்ளம். ஏன்? எனில் இதை "விரும்பிய எல்லா பயன்களையும் அருள்பவளும், இனிய ஸ்வபாவமுடையவளும், பிறவிப்பெருங்கடலை தாண்டி வைப்பவளும், விரைவில் நம்பிழைகளை மன்னித்து நமக்கு வேண்டியதை 
+"एतस्याश्च विशेषोऽयम्" என்று புருஷகாரத்தை ப்ரஸ்தாவித்துக் கூறியதைப் போன்று - எனக்கு உபாயத்வம் விசேஷः என்று கூறாதபடியால், எப்படி இந்த முடிவுக்கு வருவது? என்று எண்ணவேண்டாம். "साक्षाल्लक्ष्मीपतिः स्वयं" என்பதாலேயே இது ஸ்பஷ்டமாகத் தெரிவதால் தனித்து அதைச்சொல்லவில்லை. மேலும் च-காரத்தால் அது குறிப்பால் உணர்த்தப்பட்ட படியால் வாயால் கூறவில்லை.
 
-அளிப்பவளும், ஸ்ஸரணாகதி செய்ய உகந்தவளுமான ஸ்ரீலக்ஷ்மிதேவியை எப்போதும் த்யானம் செய்துவரவும். இந்த த்வயமந்த்ரத்தால் அநாதிகாலமாக நம்மை 
+ஒரு வசனம் வ்யவஸ்த்தையைக் காட்டுவதானாலும், மற்றும் பல வசனங்களுக்கும் அதிலேயே நோக்கு கொண்டு இப்படித்தான் முடிவுசெய்ய அமையும். ஆகவே பிராட்டிக்கு புருஷகாரத்வமே, உபாயத்வமில்லை.
 
-14   
-लक्ष्म्युपायत्वदीपः 
+---
 
-பாதுகாத்துவரும் ஸ்ரீலக்ஷ்மிதேவியைச் சரணம் புகுந்தவரின் எல்லாவகை பாபங்களும் தத்க்ஷணமே தொடர்பு அற்று அழியும்." என்றும், மேலும், "எல்லாத் தீவினைகளுக்கும் தனித்தனியாக ப்ராயச்சித்தம் செய்து மாளாது. அப்போது தேவதேவனான   
-ஸ்ரீபரவாஸுதேவனுடைய 
+(ल.उ.दी) ननु मन्त्ररत्नपूर्वखण्डे लक्ष्म्या मतुप्प्रत्ययेन वैशिष्ट्यप्रतीत्या विशिष्टस्यैव शरण्यत्वप्रतीतेर् विशेषणभूतलक्ष्म्याश् च शरण्यत्वाद् एवोपायत्व-लक्ष्मीसम्बन्धस्य पुरुषकरणव्यापारार्थत्वेनान्यथासिद्धत्वात् । एवं तर्ह्य्-उत्तरखण्डस्थमतुप्प्रत्ययेन प्रतीयमानं प्राप्यत्वम् अपि न सिद्ध्येत्, यदि सिद्ध्येत् तर्हि प्रापकत्वम् अपि सिद्ध्येत्, उभयत्र वैशिष्ट्यप्रतीतेर् वैषम्याभावाद् इति न वाच्यम्, 'माम् एकम्' इत्य्-एकपदेन स्वेतरकृत्स्नशरण्यत्वनिवृत्तिपूर्वकं स्वशरण्यत्वस्य भगवतैव व्यवस्थापितत्वेन पूर्वखण्डे लक्ष्मीशरण्यत्वाप्रसक्तेः । अन्यथा नारशब्दार्थानां सर्वेषां विशेषणत्वाविशेषेणोपायत्वप्रसङ्गः । उत्तरखण्डे तु विशेषणत्वेनान्वयप्रयुक्तप्राप्यत्वस्य क्वचिद् अपि बाधकानुपलब्धेः लक्ष्म्याः प्राप्यत्वं युक्तम् एव, वस्तुतस् तु उत्तरखण्डे निरतिशयपुरुषार्थस्यैव प्रार्थनीयत्वात् तत्र च विशेषणानन्वये पुरुषार्थन्यूनताप्रसङ्गरूपबाधकबलाद् विशेषणान्वयसिद्धिरिति न पूर्वोक्तविरोधः ।
 
-பட்டமஹிஷியான என்னை சரணம் புகுவது ஒன்றே வழி" என்று பிராட்டியே கூறியுள்ள படியாலும் இது தகும். 
+[[P41]]
 
-முதலான   
-எல்லா   
-இங்ஙனம் ச்ருதிகள் \- ஸ்ம்ருதிகள் \- இதிஹாஸங்கள்- புராணங்கள்\-ஆகமங்கள் ப்ரமாணங்களாலும் பிராட்டியும் எம்பெருமானைப் போன்று ஸித்தோபாயம் என்பது ஏற்படுகிறபடியால்   
-\-   
-த்வயத்தில் Mud என்கிற சொல்லால் ஸர்வலோக ரண்யனான ஸ்ரீநாராயணனுக்கு விசேஷணமாக இவள் அமைந்திருப்பது தெரியவருவதாலும் ஸ்ரீயுடன் கூடிய பகவானுக்கு மோசேஷாபாயமாகும் நிலை விரும்பாவிடினும் ஏற்க வேண்டும். மேலும் குறிப்பாகச் சொல்லப்படுகிறது:\- 
+(ல.க) இனி, த்வயத்தின் பூர்வகண்டத்தில் "श्रीमन्नारायणचरणौ शरणं प्रपद्ये", உத்தரகண்டத்தில் "श्रीमते नारायणाय नमः" என்று பிரித்துக் கூறிய கொள்கையை விளக்க முற்படுதல். (இதற்கு விரிவாக பதில் அருளப் போகிறார்). மந்த்ரரத்னம் என்னப்படும் த்வயத்தில் உள்ள मतुप् என்ற விகுதியால் - பிராட்டியோடு கூடின நாராயணனுக்கே உபாயத்வம் - என்று ஏற்படுகிறபடியால் விசேஷணமாக பிராட்டிக்கும் உபாயத்வம் கூடுமன்றோ? என்பது ஸித்தாந்திகளின் கருத்து. இதை ஆக்ஷேபிக்கிறான் பூர்வபக்ஷி பிராட்டியின் ஸம்பந்தம் இங்கு பூர்வகண்டத்தில் புருஷகாரரூபமான வ்யாபாரத்தைச் செய்வதைக் காட்ட வந்தது. "இப்படியானால் உத்தரகண்டத்திலுள்ள मतुप्-ப்ரத்யயத்தால் தெரிவிக்கப்பட்ட ப்ராப்யத்வம் ஸித்திக்காதே?” என்று ஆக்ஷேபிக்கவேண்டாம். சரமஸ்லோகத்தில் "मामेकं शरणं व्रज" என்று ஏக-சப்தத்தால் பகவானைத்தவிர மற்ற ஒருவருக்கும் சரண்யத்வம் கிடையாது என்பது நிலைநாட்டப்பட்டபடியால் - பூர்வகண்டத்திலும் அப்படியே
 
-\[எம்பெருமானின் திருவாக்கு இது \- \] 
+[[P42]]
 
-"பெரியபிராட்டியாருடன் கூடிய என் ஒருவனை ஸ்தோத்ர \- வந்தனாதிகளான பக்தியுடன் கூடிய எந்த சிறந்த மனிதன் மந்த்ரரத்னமான த்வயமந்த்ரத்தைக் கொண்டு ஆஸ்ரயிக்கிறானோ   
-அவன் வெகுவிரைவில் (மறுபிறவியின்றி) என் அநுக்ரஹத்தால் எனது மாஸ்வதலோகமான ஸ்ரீவைகுண்டத்தை அடைகிறான். தன்னிடம் பகவானையடைய எதுவும் உபாயமில்லை என்கிற உறுதியான புத்தியுடன் எல்லாவிடத்திலும், எல்லாக்காலத்திலும்,   
-எல்லாநிலையிலும், எல்லாவிதத்தாலும் \- பெரியபிராட்டியுடன் கூடிய ஸ்ரீஹரி அடியேனை கட்டாயம் காப்பாற்றப்போகிறார் முடிவுடன்   
-என்ற 
+ஒப்பவேண்டும் - என்ற நிர்பந்தமில்லை. இப்படி பிரிவு கொள்ளாவிடில் नारम् என்பதில் 'नाराणां अयनम्' என்ற பொருளில் "नाराः अयनं यस्य" என்று கருடபஞ்சாசத் வசனம் காட்டினபடியால் நாராயணனுக்கு அமைந்தவர்களானபடியாலே ஸர்வசேதனர்களும் விசேஷணமாய் பகவத் த்வேஷி உட்பட எல்லோருமே नारम् என்ற சொல்லில் அடங்கினபடியால் - ஸர்வருக்கும் ஜீவன் சேஷபூதன் - என்று ஏற்படும். இது ஸம்ப்ரதாய விருத்தம். "அடியார்க்கு என்னை ஆட்படுத்தும் விமலன்" என்றும், 'அடியார்க்கு ஆட்படுத்தாய் பள்ளியெழுந்தருளாயே" என்றும் भगवद्दास्यरसविशेष-ங்களை அறிந்தவர்களுக்கே அன்றோ இவன் தாஸபூதன். இது ஸித்திக்காது.
 
-தன்னையும் தன்னைச் சார்ந்த சேதனாசேதனங்களின் காக்கும் பொறுப்பை ஸ்ரீபதியான 
+மேலும், உத்தரகண்டத்தில் பிராட்டியை விசேஷணமாகக் கொள்வதில் எந்த வசனத்திலும் பாதகமில்லாதபடியால் பிராட்டிக்கும் ப்ராப்யத்வம் கூடும். உத்தரகண்டத்தில் निरतिशयपुरुषार्थप्रार्थना एव என்பது ஸம்ப்ரதாயமானபடியால் இங்கு விசேஷணத்வேன பிராட்டிக்கு அந்வயமில்லாவிடில் புருஷார்த்த-ந்யூனதாப்ரஸங்கம் - என்ற இதன் தொடர்ச்சியாக, இதனாலும் குற்றமில்லை.
 
-15   
-\-   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+---
 
-ஸ்ரீஹரியின் திருவடிகளில் ஸமர்ப்பித்துவிட்டு, இப்படி உபாயமான பெரியபிராட்டியாரையும் எம்பெருமானையும் வரித்து, அவர்களையே அடைய வேண்டிய உபாயமாக எண்ணி வரவும்” \- என்று. 
+(ल.उ.दी) ननु पूर्वखण्डे नारशब्दार्थप्रापकत्वातिप्रसङ्गभयेन लक्ष्मीप्रापकत्वपरित्यागवत् उत्तरखण्डे ऽपि नारशब्दार्थत्वातिप्रसङ्गभयेन लक्ष्मीप्राप्यत्वपरित्यागः किं न स्याद् इति चेन् न प्राप्यस्वरूपरूपगुणविभूतीनां प्राप्यत्वस्य अबाधेन सर्वसम्मतत्वात् । न च गुणविग्रहयोर् अप्य् अनुपायत्वप्रसङ्गः, ज्ञानशक्त्यादिगुणाभावे मोक्षप्रदातृत्वं भगवतः कथम् उपपद्येत । विरोधिपापनिरसनेष्टप्रापणादीनां ज्ञानशक्त्यादिसाध्यत्वेन तदुपायत्वावश्यम्भावात्, तद्-अनङ्गीकारे च मोक्षसिद्धिर् न स्यात् । एवंविधदृष्टोपयोगाभावेन लक्ष्म्या उपायत्वानङ्गीकारे बाधकाभावान् न गुणप्रतिबन्धिमुखेनोपायत्वसिद्धिः ।
 
-இதேபோல்   
-வேறு   
-வசனங்களுமுள்ளன:\- 
+[[P43]]
 
-"எல்லாபுலன்களையும் அடக்கிக் காணவேண்டியவரான 
+अनादिकालम् आज्ञातिलङ्घनप्रयुक्तभगवच्चित्तकालुष्यविनिवर्तन-कृपोत्तम्भनादिरूपदृष्टमुखेनैव लक्ष्म्याश् चोपायत्वं युक्तम् इति न च वाच्यम्, इदं तु पुरुषकारकृत्यं तच् चाङ्गीकृतम् एव, तदतिरेकेण दृष्टव्यापाराभावेन न गुणन्यायप्रवृत्तिः । न चैवं सति विग्रहहेतुत्वासिद्धिः, विग्रहस्य "चरणौ" इति विशेषोक्तिबलेनैव हेतुत्वसिद्धेः, अन्यथा "अनतिक्रमणीयम् एव चरणग्रहणम्", "चरणग्रहणवैयर्थ्यापत्तेः" अन्यथासिद्धेर् वक्तुम् अशक्यत्वात् । किञ्च केवलदिव्यात्मस्वरूपस्य विद्यालम्बनत्वायोगेन शुभाश्रयत्वेन दिव्यमङ्गलविग्रहावश्यम्भावात् "माम्" इति दिव्यात्मस्वरूपस्य "चरणौ" इति विग्रहस्य चोक्तेर् विशिष्टस्योपायत्वसिद्धिः, यद्यपि "माम्" इत्यस्य दिव्यात्मस्वरूपपरत्वम् एव स्वरसम्, तथापि दिव्यमङ्गलविग्रहोपायत्वसाधकप्रमाणान्तरानुगुण्येन विग्रहविशिष्टदिव्यात्मस्वरूपपरत्वम् अङ्गीकर्तव्यम् । न चैवं स्वरूपातिरिक्तविग्रहपरत्वे स्वरूपातिरिक्तत्वाविशेषाल् लक्ष्मीपरत्वम् अपि किं न स्याद् इति वाच्यम् । "चरणौ" इत्य्-आदि-नियामकवल् लक्ष्मीपरत्वे नियामकानुपलब्धेः ।
 
-உருவான 
+नन्वेकशब्दस्य अनेकार्थसम्भवेन कथं व्यवच्छेदार्थकत्वम् इति चेन् न । अर्थान्तरेषु प्रसिद्धिप्राचुर्याभावात् एकत्वसंख्याबोधकत्वमुखेन व्यवच्छेदार्थे प्रसिद्धिप्राचुर्याच् च प्रकृते एकपदस्य व्यवच्छेदार्थकत्वम् एव स्वरसम्, उपायान्तरेभ्यो निवृत्तस्य अहम् एक एवोपाय इति शरण्यान्तरव्यावृत्तेर् एव कर्तुम् उचितत्वात् । “तम् एव चाद्यम्", "माम् एव ये प्रपद्यन्ते", "त्वम् एवोपायभूतो मे" इत्यादिषु भगवन्मोक्षोपायत्वस्य असाधारणत्वप्रतिपादनात् प्रकृते एकपदस्य असाधारणार्थकत्वम् एव युक्तम् । "माम्" इति पदस्य लक्ष्मीविशिष्टपरत्वाद् विशिष्टातिरिक्तस्य शरण्यत्वव्यावृत्तिः क्रियत इति न च वाच्यम्, विशिष्टपरत्वे स्वारस्याभावात् प्रमाणाभावाच् च, अहम् माम् इत्यादीनाम् स्वस्वमात्रपर्यवसायित्वस्य उत्सर्गतस् सर्वलोकसिद्धत्वात् । "अहम् मनुर् अभवं सूर्यश् च" इत्यत्र प्रबलबाधकबलेन स्वातिरिक्तार्थस्वीकारः, न चात्र तथा बाधकम् उपलभ्यते । किञ्च तत्रापृथक्सिद्धविशेषणवाचिशब्दानां चरमविशेष्यभूतपरमात्मपर्यवसानं वेदान्तव्युत्पत्तिसिद्धम् इति भगवत्परत्वं युक्तं, प्रकृते भगवत एव सर्वप्रकारितया चरमविशेष्यत्वात् तत्र प्रयुज्यमानाहमादिशब्दानां लक्ष्म्याम् अपर्यवसानवृत्तेर् वक्तुम् अशक्यत्वात् ।
 
-பெரியபிராட்டியாருடன் பாதுகாக்கிறார் \- என்று மந்த்ர \-   
-எம்பெருமான் 
+---
 
-ஆகம 
+(ல.க) ஸித்தாந்தி கேட்கிறார் - அநாதிகாலமாக
 
-ஓதப்படுகிறது."   
-தந்த்ர   
-கருணையே 
 
-தந்த்ராந்தரரூபமான எல்லா 
+[[P44]]
 
-வேதாந்தங்களிலும் 
+நாம் பகவதாஜ்ஞையாகிய ச்ருதி-ஸ்ம்ருதிகளை மீறிவந்துள்ளோம். இதனால் பகவானுக்குத் திருவுள்ளத்தில் சற்றே நம்மைப்பற்றி கலக்கம் ஏற்பட்டுள்ளது. இது தெளிய அவனுடைய கருணையைத் தூண்டிவிட பிராட்டி வேண்டுமல்லவா? இவ்வகையில் உபாயமாகக்கூடுமே? என்று "सङ्कल्पस्य न्यसनमुखतः" என்று இதை ஸ்ரீஸ்வாமிதேசிகன் காட்டியருளினார்.
 
-மனைவி   
-\-   
-பாஞ்சராத்ரஸித்தாந்தங்களிலும், 
+இப்படி புருஷகாரமாய் எழுந்தருளியிருப்பதைத் தவிர கல்யாணகுணங்கள் எம்பெருமானைச் சொன்னவிடங்களில் எல்லாம் தன்னடைவே வருகின்றன - என்பதைப் போன்று பிராட்டியையும் அநுஸந்திக்கவேண்டும் என்ற நிர்பந்தம் இல்லை.
 
-—   
-"என்னால் விடவேமுடியாத பிள்ளை செயல்கள் முதலானவைகளை எல்லாம் அதது அப்படி அப்படியே பெரியபிராட்டியுடன் கூடிய தேவரீர் திருவடிகளில் ஸமர்ப்பித்து விட்டேன். பெரியபிராட்டியுடன் கூடிய பகவானே\! தேவரீரே அடியேனுக்குத் தலைவராயும், பாதுகாப்பாளராகவும் உள்ளீர். அடியேன் நல்ல கதியை அடைய உபாயமாக பெரியபிராட்டியுடன் கூடிய தேவரீரே 
+இப்படிக் கொண்டால் திருமேனியைக் கூறும் போது "चरणौ" என்ற த்விவசனம் ஒட்டாதே? என்ன வேண்டாம். चरणौ என்று விசேஷமாய் கூறியபடியாலேயே அதுவும் ஹேதுகோடியில் அடங்கும் என்பது தெரியவரும். “अनतिक्रमणीयं हि चरणग्रहणम्” என்று ஸ்ரீபாஷ்யகாரர் அருளியுள்ளபடியால் இதை அங்கமாக = வேறுவகையில் ஸாதிக்க வேண்டியதாகக் கொள்ளமுடியாது. மேலும், எம்பெருமானுடைய திவ்யாத்மஸ்வரूபத்துக்கு வித்யையில் உபாஸிக்கவேண்டிய பரம்பொருளுக்கு விசேஷணமாக நாம் மனதில் வாங்கிக்கொள்ள முடியாது ஆனபடியால் திவ்யமங்களவிக்ரஹம் அவஸ்யம் தேவை. "चित्तालम्बनदोषघ्ना गुणवन्तश् शरीरिणाम् । रामस्य दक्षिणो बाहुर् नित्यं प्राणो बहिश्चरः ॥" என்று அருளிச்செய்தார். இந்த திவ்யமங்கள விக்रஹம்
 
-தாமாகவே ஆகிறீர்." என்று. இன்னும் பல நூறு வசனங்கள் உண்டு.   
-\- 
+[[P45]]
 
-(க.ச.)   
-\- 
+"परावरसुखग्राह्यं प्रेमबोधप्रसाधकम् ।" என்றும் அருளினார். [நம்மைவிட மேலானவர்களான ப்ரம்ஹாதிகளாலும், நம்மைப் போன்ற தாழ்ந்தவர்களாலும் எளிதில் காணக்கூடியது, எம்பெருமானிடம் பக்தியையும் தெளிந்த ஜ்ज्ञानத்தையும் வளர்ப்பது. ஆகவே எம்பெருமானின் ஸ்வரூபத்தைவிட திருமேனி நம்மால் எளிதில் ஏற்றுக்கொள்ளும் நிலையில் இருக்கிறது என்று கருத்து இதற்கு.]
 
-“ममैव दुष्कृतं किंचिन्महदस्ति न संशयः । समर्थावपि तौ यन्मां नावेक्षेते परन्तपौ ॥ 
+ஆகவே "माम्" என்பது எம்பெருமானின் திவ்யாத்மஸ்வரூபத்தையும், "चरणौ" என்பது திவ்யமங்களவிக்ரஹத்தையும் காட்டுகிறது. ஆகவே திவ்யமங்களவிஶிஷ்டமான திவ்யாத்மஸ்வரூபமே உபாயம் - என்பது ஸித்தித்தது.
 
-आशंसेयं हरिश्रेष्ठः क्षिप्रं मां प्राप्स्यते पतिः । अन्तरात्मा च मे शुद्धः तस्मिंश्च बहवो गुणाः ॥ " “शरैस्तु सङ्कलां कृत्वा लङ्कां परबलार्दनः । 
+ஒருவகையில் "माम्" என்பது தேர்த்தட்டில் வீற்றிருக்கும் எம்பெருமானைக் காட்டுவதால் திவ்யமங்களவிக்ரஹத்தைத் தான் சொல்லவல்லது - என்பது சிலரது கொள்கை. ஆயினும் “திவ்யமங்களவிக்ரஹத்துடன் கூடிய பரமாத்மாவே உபாயம்" என்று உபாயமும் காட்டவல்லப்ரமாணங்களை அநுஸரித்து இங்கு திருவுள்ளம்.
 
-मां नयेद् यदि काकुत्स्थः तत्तस्य सदृशं भवेत् ॥   
-1   
-इत्यादिना 
+இப்படியானால் பரமாத்மஸ்வரூபத்தைவிட வேறான விக்ரஹமும் உபாயம் என்று கொண்டால் - என்பது பிராட்டிக்கும் உண்டானபடியால் பிராட்டியையும் உபாயமாக ஏன் கொள்ளக்கூடாது? என்ன வேண்டாம். "चरणौ" என்ற சொல் திருவடியிணையையே சொல்லவல்லது என்பதைப் போன்று பிராட்டி விஷயத்தில் வேறு நியாமகமில்லையே?
 
-16   
-लक्ष्म्युपायत्वदीपः 
+கேள்வி: "एकम्" என்ற சொல்லுக்கு பல பொருட்கள் உண்டு, ஆனபடியால் இங்கு மற்றொரு ஆத்மஸ்வரூபத்தைத் தடுக்கிறது என்கிற பொருளும் கூடுமோ என்றெண்ணவேண்டாம். "एकः अज्ञाते मुख्यः" என்று கோணத்தில் - பல பொருட்கள் கூறப்பட்டிருப்பினும், ஒன்று என்ற பொருளிலேயே ப்ரஸித்தி அதிகம் உண்டானபடியால்
 
-स्वरक्षणे भगवदपेक्षा भगवद्गुणापेक्षा स्वानर्हतेत्यादिकमुक्तं, काकवृत्तान्ते स्वरक्षणासामर्थ्यं च सुप्रसिद्धं । अतः "स्वरक्षणेऽप्यशक्तस्य को हेतुः पररक्षणे” इति न्यायेन लक्ष्म्या उपायत्वं न संभाव्यते इति । प्रमाणसहस्रप्रतिपन्नोपायभावस्य दुरपवत्वप्रतिपादनात् । राक्षसीरक्षणादेः प्रसिद्धत्वाच्च । 
+[[P46]]
 
-स्वविरोधिनिरसनायाप्रवृत्तिस्तु स्वतस्सिद्धभगवत्पारतन्त्र्यानुविधा- 
+இங்கு ஜ்ஞானயோக - பக்தியோகாதிகளான உபாயங்களிலிருந்து நிவ்ருத்தனாய் நிற்பவனைக் குறித்து - இங்கு "माम्" என்பது சொல்லப்பட்டது கொள்ளவேண்டும். இதனால் எம்பெருமான் ஒருவனைத்தவிர - என்பது ஏற்படுகிறது. மேலும் "तमेव चाद्यम्" (गीता 15-4) [அந்த எல்லாவற்றிற்கும் காரணமான பரமபுருஷனைச் சரணம் புகுகிறேன்], "मामेव ये प्रपद्यन्ते" (गीता 7-14) [என்னையே எவர்கள் சரணம் புகுகிறார்களோ], "त्वमेवोपायभूतो मे" (அஹிர்புத்ந்ய ஸம்ஹிதா 37-31) [தேவரீரே அடியேனுக்கு உபாயமாக எழுந்தருளியிருக்கக் கடவீர்], இது முதலானவிடங்களில் பகவான் ஒருவனே மோக்ஷோபாயம் என்பது ஏற்படுகிறபடியால் "एकम्" என்பதற்கு असाधारणम् என்பதற்கே தகும்.
 
-नादित्युच्यते, नत्वसामर्थ्यात् । तदिदमुक्तं तत्रैव 
+"माम्" என்கிற சொல்லுக்கு "பெரியபிராட்டியுடன் கூடிய என்னை" என்று பொருள், ஆனபடியால் இந்த திவ்யதம்பதிகளைவிட வேறு யாரும் உபாயமில்லை - என்று ஏற்படுகிறது - என்று கூறமுடியாது. "उत्सर्गतः सर्वलोकसिद्धत्वात्". உலகில் எங்கும் "अहम्", "माम्" என்ற சொற்களுக்கு தன்தன்னை மட்டிலுமே கூறும் நிலையை எல்லோரும் ஒப்பினார்களே. "अहं मनुरभवं सूर्यश्च" என்ற வாமதேவரின் வாக்யத்தில் "अहम्" என்பது - அவருடன் நிற்காமல் அவருக்கும் அந்தர்யாமியாய் உள்ளே உறையும் எம்பெருமானை சொல்லவந்தது - என்பது 'शास्त्रदृष्ट्या तूपदेशो वामदेववत्' என்ற ப்ரம்ஹஸூத்ர - பாஷ்யாதிகளில் தெளியலாகும். எங்கோ எதற்காகவோ கூறிய நியாயம் இங்கு பொருந்தாது. மேலும்,
 
-“असंदेशात्तु रामस्य तपसश्चानुपालनात् । 
+> अपृथक्सिद्धयविशेषणवाचिनां शब्दांनां  
+> चरमविशेष्यभूतपरमात्मपर्यवसानं वेदान्तव्युत्पत्त्या ॥
 
-न त्वां कुर्मि दशग्रीव भस्म भस्मार्ह तेजसा ॥ *“*\- इति । तस्माल्लक्ष्मीविशिष्ट एव भगवन्नारायण उपायत्वेन वरणीय इति भगवद्भाष्यकाराभिमतनिगमान्तदेशिकसंप्रदायानुयायिनस्सङ्गिरन्ते। 
+[[P47]]
 
-(ல.க) இதன் மேல் ஒரு பெரிய கேள்வி. ஸ்ரீஸீதாபிராட்டி தன்னைக் காத்துக்கொள்ள தனக்கு ஸாமர்த்யம் இல்லை என்று ஸுந்தரகாண்டத்தில் உள்ளதே\! \- “நான் செய்த பாபம் சிறிதேயாயினும்- ப்ரபலமானது. \[துளி விஷமும் குடம் பாலைக் கெடுத்துவிடுமே\! அது போல்\] இதில் வகையிலும்   
-ஸந்தேஹமேயில்லை.   
-எல்லா 
+என்று ஒரு நியாயத்தைக் கொண்டுவர முடியாது. அப்படி எல்லாப்பொருளுக்கும் ஏகாதேசியாக = எம்பெருமானே எழுந்தருளியிருப்பதால் ஏற்றோம். இங்கு விசேஷ்யமாக, இங்கு "अहम्" முதலானவைகளுக்கு अपर्यवसानम् எனக்கொள்வது தகாது.
 
-திறமைசாலிகளான என் கணவரான ஸ்ரீராமபிரானும், அவரது தம்பியான ஸ்ரீலஷ்மணனும் இதுவரையில் என்னைக் காணவரவில்லையே\! இதோ எதிரில் இருக்கும் குரங்குகளில் சிறந்தவரான ஆஞ்ஜநேயரே\! என் கணவர் விரைவில் என்னை அடைவார். என் மனம் தூய்மையானது- இப்படி எண்ணுகிறது. எம்பெருமானிடம் பல நல்ல குணங்கள் உள்ளன. பாணங்களாலேயே கடலின் இக்கரைவரையிலும் பாலம் கட்டுவதைப்போன்று பின்னலிடச்செய்து இந்த இலங்கைக்கு வந்து – எங்கள் எதிரிகளான ராவணாதிகளைக் கொன்று என்னை மீட்டு 
+---
 
-17   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+(ल.उ.दी) "ननु अहन्ता ब्रह्मणस् तस्य साहम् अस्मि सनातनी" इत्यनेन लक्ष्म्या अहन्तात्वेन प्रतिपादनात् अहम्, माम् इत्यादौ लक्ष्मीविषयत्वं सिद्धम् इति चेन् न, भगवत्प्रकारेषु लक्ष्मीरूपप्रकारस्य प्राधान्यपरत्वात् तद्वचनस्य, भगवद्-अहम्-प्रतीतौ लक्ष्मीविषयत्वं वदता दिव्यात्मस्वरूपरूपज्ञानविषयत्वम् उच्यते । उत धर्मभूतज्ञानविषयत्वं नाद्यः स्वरूपरूपज्ञानस्य स्वरूपमात्रविषयकत्वेन आत्मान्तरविषयकत्वाभावात्, अन्यथा स्वरूपैक्यापत्तेः । न द्वितीयः, भगवद्धर्मभूतज्ञानमात्रगम्यस्य भगवत्स्वरूपरूपज्ञानगम्यभगवद्-अहन्तारूपत्वायोगात् ।
 
-அழைத்துச் 
+---
 
-வீர்யத்துக்கு ஏற்ற செயல்" என்கிறாள். இதனால்   
-செல்வார் ஸ்ரீராமன். இதுவே அவரது 
+(ல.க) கேள்வி: "अहन्ता ब्रह्मणस्तस्य साऽहम् अस्मि सनातनी" [பரம்பொருளான நாராயணனுக்கு எப்போதுமே அவரைவிட்டுப் பிரியாத நான் அஹந்தா = நான் என்கிற எண்ணமே] என்று லக்ஷ்மீவாக்யம். ஆகவே "अहम्", "माम्" என்று பகவான் தன்னைக் கூறுமிடங்களில் எல்லாம் இவளையும் கொள்ளவேண்டும். இதை அங்கேயே "अहं तया बिनाहं हि निरुपाख्यो न सिद्ध्यति" என்று அஹந்தையில்லாமல் அஹமர்த்தமும், அஹமர்த்தமில்லாத அஹந்தையும் ஸித்திக்காதானபடியால் ஒன்றைச் சொன்னால் மற்றொன்று தானே வருமே! என்ன வேண்டாம்.
 
-எதிர்பார்ப்பதும்,   
-ஸ்ரீராமபிரானின் 
+பதில்: பகவான் அனேகப்ரகாரமாக எழுந்தருளியிருக்கிறார். "प्रकारिणि प्रकाराणाम्" என்று
 
-இதனால்   
-குணங்களை 
+[[P48]]
 
-தன்னைப்பாதுகாக்க தாமே முயலாததும் தெரிகிறதல்லவா? 
+ஸ்ரீவிஷ்ணுபுराணத்தில் காட்டியபடி - எல்லாப்பொருளும் பகவததிஷ்டிதமான படியால் பகவானே என்று सामानाधिकरण्यम् உண்டு. चेतनाचेतनद्रव्य-ங்களில் லக்ஷ்மீரூபமான இந்த திவ்யாத்மஸ்வரூபம் எம்பெருமானைவிட்டுப் பிரிக்க முடியாத விஶிஷ்ட தத்துவம் போல் இருக்கிறது. "नित्यप्रवृद्धौ व्यापकौ, अतिसंश्लेषात् एकतत्त्वम् इवोदितौ" என்று உள்ள "इव" என்பதை கவனிக்கவும். ஒரே தத்துவமானால் "इव" என்பது ஒட்டாதே. பகவானின் தர்மபூத ஜ்ஞானம் ஏற்பட்டால் - பிராட்டியை அறிந்ததாக ஆகமுடியாதே.
 
-தன்னை 
+---
 
-ஸ்ரீஸீதாபிராட்டிக்கு சக்தியில்லை   
-பாதுகாத்துக்கொள்ள 
+(ल.उ.दी) अत्रायं सङ्ग्रहः —
 
-என்பதன்றோ 
+> "स्वारस्यम् अहमादेस् तु न विशिष्टे कथञ्चन ।  
+> बाधकं चेद् विशिष्टे ऽपि प्रयोगः क्वचिद् इष्यते ॥
 
-தெரிகிறது. “தன்னையே காத்துக்கொள்ள முடியாதவனுக்கு \- பிறரைக்காப்பது கூடுமோ?'   
-கூடுமோ?" என்றல்லவோ பெரியோர் பணிப்பது. ஆகவே பிராட்டி உபாயம் இல்லை. 
+> नैतावतापि चरमश्लोकस्थे मां-पदे ऽपि च ।  
+> विशिष्टपरता कल्प्या बाधाभावान् मनीषिभिः ॥
 
-இதற்கு பதில் \- 
+> मानान्तरानुसाराद् हि तत्कल्पनम् इतीदृशम् ।  
+> वचः प्रलोभमात्रं स्याद् यतो मानस्य मृग्यता ॥
 
-பல்லாயிரம் வசனங்களால் பிராட்டியும் உபாயம் என்று ஏற்படுகிறபடியால் அதை மறுக்கவோ\-மறைக்கவோ முடியாது. அரக்கிகளை, அவர்கள் பாதுகாப்பைக் கேளாத போதே பிராட்டி காத்தருளியதை காட்டினோம். தன் விரோதிகளைத் தாமே அழிக்கும் திறமையிருப்பினும், பகவானுக்கு\= கணவனுக்கு அடங்கிய மனைவி தான் என்பதை உலகினருக்குக் காட்டவும், ஜலதுர்க \- கிரிதுர்க \- வனதுர்காதிகளின் நடுவே அசோகவனத்திலே தன்னை ராவணன் வைத்த போதிலும், அவர் எப்படியோ இவற்றைத் தாண்டிவந்து தன்னை மீட்டருள்வார் \- என்று அவரது பெருமையைக் காட்டுவதிலும் நோக்கு பிராட்டிக்கு. திறமையில்லாதபடியால் அன்று. 
+> पञ्चरात्रपुराणादौ लक्ष्मीहेतुत्वकीर्तनम् ।  
+> तस्याः पुरुषकारत्वं न्यायतस् स्थापितं बुधैः ॥"
 
-இதுவும் அங்கே கூறப்பட்டது:\-   
-\- 
+“श्रियं लोके देवजुष्टाम् उदाराम्" इत्यत्र तत्तदधिकारिविशेषं प्रति तत्तदभीष्टफलदानेनाप्य्-औदार्योपपत्तेः मोक्षरूपफलप्रदत्वाभावे ऽपि दापयितृत्वेनाप्य्-औदार्योपपत्तेश् च । अत एव लुब्धस्यौदार्याभावेन दातृत्वम् इव दापयितृत्वम् अपि न दृश्यते । अन्यथा साक्षाद्-दातृत्वम् एवौदार्यं चेल् लक्ष्म्याम् अनुमन्तृत्वरूपोपायत्वाङ्गीकारेण भगवत इव व्यापाराभावाद् औदार्यासिद्धिप्रसङ्गः ।
 
-\- 
+[[P49]]
 
-“எம்பெருமானிடம் ராவணாதிகளை அழிக்க உத்தரவுபெறாதபடியாலும், மனைவிக்கு உள்ள கடமைப்படி வல்லவனான கணவனால் எல்லாம் நடக்கும் என்ற எண்ணினபடியாலும், எந்த ஜீவனையும் தன்முயற்சியால் கொல்வதில்லை \- என்ற தபஸ்ஸை பாதுகாப்பதாலும் ஹே\! ராவண\! உன்னை நான் சாம்பலாக்கவில்லை" என்கிறாள் பிராட்டி. (ச்ருதியில் லக்ஷ்மி ரபு என்று 
+दापयितृत्वम् औदार्यम् इत्य्-एतद् वरम् । अप्रतिषेधमात्रम् औदार्यम् इत्य्-अपेक्षया ॥
 
-**18**   
-लक्ष्म्युपायत्वदीपः 
+“कामवत् सा ऽमृतं दुहाना”, “सा नो लोकममृतं दधातु” इत्यादिकम् अपि मोक्षप्रदानप्रयोजकत्वपरम्, दुहाना दधात्व्-इति पदयोर् यथाश्रुतार्थस्य मोक्षप्रदानरूपत्वाभावेन लक्षणया मोक्षप्रदानस्य वक्तव्यत्वे सर्वसम्प्रतिपन्नपुरुषकारव्यापार एव लक्ष्यतां, न तु विप्रतिपन्नं प्रदानम् । अस्तु वा मोक्षप्रदाने लक्षणा, अनुमन्तृत्वरूपोपायत्वस्य अप्रतिषेधरूपत्वेन एतादृशोपायत्वस्य लक्षणयापि असिद्धेः । यद्य्-अप्रतिषेध एव लक्षणा, तर्हि क्रियाबोधननियतधातोर् मुख्यार्थबाधे क्रियान्तरलक्षणाया एवोत्सर्गतः प्राप्तेः पुरुषकारव्यापारस्यैव लक्षणीयत्वम् । एतस्य भावरूपत्वेन लघुत्वाच् च । प्रतिषेद्धुम् अशक्यस्य अप्रतिषेधस्य लक्षणीयत्वे अनेकार्थप्रतीत्यपेक्षायाम् अतिगौरवम् ।
 
-காட்டப்பட்டாள். ஒருவரை கொல்வதைப் போன்ற கோரமான செயல்களை பெரியபிராட்டி செய்யமாட்டாள். ஆகவே இத்தகைய தபஸ்ஸை 
+अस्य वाक्यस्य लक्ष्मीमात्रपरत्वे असाधारणचिह्नादर्शनेन भूमिपरत्वं किं न स्यात् — प्रत्युत “विश्वस्य भर्त्री जगतः प्रतिष्ठा" इति विश्वम्भरत्वादेः प्रत्यभिज्ञानात् पृथिव्यभिमानिदेवताया भूम्या एव प्रतिपादनं युक्तम्, “श्रद्धया देवो देवत्वम् अश्नुते" इति श्रद्धाशब्देन लक्ष्म्यभिधानात् प्रकरणं लक्ष्मीपरम् इति चेन् न । श्रद्धाशब्दस्य लक्ष्म्याम् अमुख्यत्वात्, श्रद्धाभिमानिदेवतात्वेन लक्ष्मीबोधने मुख्यार्थसम्बन्धस्य लक्षणाबीजस्योक्तौ लक्षणया भूमिबोधनम् अपि स्यात् । वस्तुतस् तु तपश्-श्रद्धादिपदानाम् आत्मगुणपरत्वम् एव स्वरसम्, तथा व्याख्यातं च, "स्वयम्भूः ब्रह्मा परमं तपो यत् श्रद्धा प्रतिष्ठा लोकस्य देवी" इत्यादिना आत्मगुणप्राशस्त्यं प्रतिपाद्यते । देवीशब्दादिना श्रीसूक्तार्थप्रत्यभिज्ञया काठकवाक्यस्य लक्ष्मीपरत्वम् इति चेन् न, भूसूक्ते ऽपि देवीशब्दादेर् दर्शनात् शब्दतो ऽर्थतश् च भूसूक्तार्थस्यापि प्रत्यभिज्ञायमानतया भूमिपरत्वं वा स्यात्, "अस्येशाना जगतः” इति ईशानत्वलिङ्गेन लक्ष्म्य्-उपायत्वसिद्धिर इति चेन् न, ईशानत्वस्य भूमिसाधारण्यात् । प्रकरणे लक्ष्म्या असाधारणचिह्नानुपलब्धेः
 
-ராவணாதிகளைக் கொல்லவில்லை.\]   
-பாதுகாப்பதால் 
+[[P50]]
 
-கூடிய   
-இதனால் ஸ்ரீபெரியபிராட்டியுடன் 
+विष्णुपत्नीत्य्-उक्त्या अन्यनियाम्यत्वप्रतीतेस् स्वान्यानियाम्यत्वे सति सर्वेशानत्वस्य मोक्षोपायत्वप्रयोजकत्वात् तद्-अभावाद् एव लक्ष्म्यास् तन्-निवृत्तिः ।
 
-எம்பெருமானே மோசேஷாபாயமாக வரிக்கத்தக்கவர் என்பது பகவத் பாஷ்யகாரரின் திருவுள்ளமுகந்த ஸ்ரீமந்நிகமாந்த மஹாதேசிகனின் திருவுள்ளம் \- என்பதாக ஸ்ரீதேசிக ஸம்ப்ரதாயாநுயாயிகள் கூறுகின்றனர். 
+---
 
-(ल.उ.दी) तत्राहुस्तत्त्वदीपकृतः। यद्यपि   
-\- 
+(ல.க) இங்கு சில (நான்கு) காரிகைகளை அருள்கிறார்:
 
-"या सा भगवतश्शक्तिरहन्ता सर्वभावगा। अपृथक्कारिणी सत्ता महानन्दमयी परा ॥ भावाभावानुगा शक्तिस्सर्वकार्यकरी विभोः। स्वातन्त्र्यरूपा सा विष्णोः प्रस्फुरत्ता जगन्मयी ॥ अहंता ब्रह्मणस्तस्य साहमस्मि सनातनी । आत्मा स सर्वभूतानामहंभूतो हरिः स्मृतः ॥ अहं तया विनाहं हि निरुपाख्यो न सिद्ध्यति । 
+> “स्वारस्यम् अहमादेस् तु न विशिष्टे कथञ्चन ।  
+> बाधकं चेद् विशिष्टे ऽपि प्रयोगः क्वचिद् इष्यते ॥  
+> नैतावतापि चरमश्लोकस्थे मां-पदे ऽपि च ।  
+> विशिष्टपरता कल्प्या बाधाभावान् मनीषिभिः ॥”
 
-अहमर्थं विनाऽहन्ता निराधारा न सिद्ध्यति॥“ 
+[பிராட்டியுடன் கூடின பரமாத்மாவையே "अहम्" என்ற சொல் கூற வல்லது என்று கொண்டால் स्वारस्यम् எப்படியும் ஏற்படாது. சில இடங்களில் बाधकम्-ஆன இடங்களில் व्यक्तिविशिष्टजात्यादिकीनं पर्यवसानम् கொள்கிறோம். இதுவே இந்த்ரன் தன்னையே உபாஸிக்கும்படி விரோசனனுக்குக் கூறிய "मामेव विजानीहि" என்றபோது கொண்ட தாத்பர்யார்த்தம். "उपास्यतयेहामुमुपास्यतयेह" என்று ப்ரதர்தனவித்யையில் முடிவில் உள்ளது. அதைக்கொண்டு இந்த்ரனிடம் ஸர்வாத்மனா சசமான "अहम्-माम्-माम्" ங்களைக்கொண்டு பரமாத்மாவையே அந்த ப்ரகரணம் கூற வந்ததாகக் கொண்டோம். इससे इंद्रावाक्यम्. இதனால் சரமசுலோகத்தில் வரும் माम्, अहम् என்பதற்கும் பிராட்டியையும் வாங்கிக்கொள்ள வேண்டும் என்பதில்லை என்பதை
 
-इत्यादिभिर्ब्रह्मणस्सकलकारणभूतस्य निरतिशयानन्दयुक्तस्य सर्वव्यापकस्य 
+"नैतावतापि" என்றருளினார்.]
 
-सर्वान्तरात्मभूतस्य 
+"மற்றைய அனேகப்ரமாணங்கள் பிராட்டியுடன் கூடின பகவானையே உபாயமாக கூறுகிறபடியால் இங்கும் அப்படிக்கொண்டோம்" என்று கூறமுடியாது - என்கிறார்: "मानान्तरानुसाराद्धि..."
 
-निरवधिकस्वातन्त्र्यस्वरूपस्य   
-सकलनियन्तृतया   
-सर्वस्मात्परत्वेन 
+[[P51]]
 
-सर्वप्रकारसाधारणनिरूपकत्वेन 
+வேறுப்ரமாணங்கள் பிராட்டியையும் உபாயமாகக் கூறவந்தவை என்று நீங்கள் கூறமுற்படுவது ஏமாற்றுதலாகும். அத்தகைய ப்ரமாணங்கள் தேடினாலும் அகப்படாதே! என்று இதன் கருத்து.
 
-वस्तुसंस्थानरूपजात्यादिवत् देव्याश्श्रियस्तदहन्तारूपत्वप्रतिपादनात् स्वरूपवाचिपदान्तर्भावः, स्वरूपनिरूपकत्वनिबन्धनस्वरूपानुबन्धित्वं चास्ति, तथापि तन्मात्रेण स्वरूपैक्यासम्भवात् पत्नीत्वप्रयुक्तपारतन्त्र्यस्वाभाव्येन पत्न्यंतरादिवच्चेतन\-समानाकारत्वात् कारणत्वादेरीश्वरासाधारण्याच, तदनुरोधेन तत्प्रीतिकरत्वमस्यास्स्वरूपमिति न तत्र साक्षादन्वयः। 
+> "पञ्चरात्रपुराणादौ लक्ष्मीहेतुत्वकीर्तनम् ।  
+> तस्याः पुरुषकारत्वं न्यायतस् स्थापितं बुधैः ॥"
 
-19   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+இதன் கருத்தாவது: “कामवत्सा अमृतं दुहाना” [கன்றுக் குட்டியைபோன்ற நம்மிடம் வாத்ஸல்யமுள்ள பசுவைப் போன்று விரும்பியதனைத்தையும் அருள்பவளும், அம்ருதம் = மோக்ஷம் என்ற பலனையும் அருள்பவளுமான பிராட்டியை - என்று உள்ளதே]. மேலும், "सा नो लोकममृतं दधातु" = அந்த பிராட்டி நம் யாவருக்கும் அழிவற்றலோகமான பரமபதத்தை அநுக்ரஹிக்கட்டும் - என்றும் உள்ளதே? இன்னம் இதைப்போன்ற ஸ்ரீவிஷ்ணுபுராணாதி வாக்யங்கள் அளவற்றன. இவைகளுக்கு எப்படி நிர்வாஹம் பண்ணுவது? என்று எண்ணவேண்டாம். இந்த வசனங்கள் பிராட்டி பரிந்துரைத்து பகவானை மோக்ஷமருள வழிவகுக்கிறாள் என்ற பொருளில் வந்தது. ஆசார்யாதிகளை மோக்ஷப்ரதானம் செய்பவராகக்கூறுகிறோம். அவரா மோக்ஷம் அருள்கிறார்? பகவான் அன்றோ அருள்கிறார்! பகவான் மோக்ஷம் அருள ஆசார்யர் வழிவகுக்கிறார் என்பதைக் கொண்டு சொல்வதைப் போன்று இங்கும் பிராட்டி புருஷகாரமாய் அமைவதைக் கொண்டு இப்படி கூறுகிறோம்.
 
-लक्ष्म्या अपि शेषित्वाद् भगवत एव सर्वाधिकशेषित्वमिति श्रुतिरेवाह "यः पूर्व्याय वेधसे नवीयसे, सुमज्जानये विष्णवे ददाशति" इति । जानिर्जाया, सुमतिर्जानिर्यस्य सः सुमज्जानिः । अथवा \- सुमदा शोभनानन्दा, यद्वा सुमती शोभनवती जानिर्यस्य स सुमज्जानिः । तथा यद्यपि देव्याः श्रियः प्रमाणशतप्रतिपन्नं स्वतस्सिद्धमुपायत्वं । तथापि भगवतस्तद्विशिष्टस्योपायत्वे विवेचनीयो विशेषोऽस्त्येव । तथाहि भगवतः परमपुरुषस्य निरङ्कुशस्वातन्त्र्येण तदैकान्तिकं विरोधिनिवर्तकत्वादिगुणजातं तदसाधारणं। अस्या नारीणामुत्तमाया देव्याः भगवत्पारार्थ्यस्वाभाव्यात् तदनुरूपं वात्सल्यकारुण्यादिगुणजातमेव तदसाधारणम् ।   
-उभयोरुभयान्वयेऽपि स्वरूपभेदसूचकत्वप्राचुर्येणैवं विभज्यते। तदुक्तमाचार्यैः- 
+"स्वाहा" என்ற வேதவாக்யத்தில் "स्वाहा" என்ற சொல் பெரியபிராட்டியைக் கூறும். காற்று முதலான பஞ்சபூதங்களும் ஸ்ருஷ்டிக்கப்படாத அந்த மஹாப்ரளயகாலத்தில் ஸ்வதா ஸப்தத்தால் குறிப்பிடப்பட்ட பெரிய பிராட்டியுடன் கூடிய பரமாத்மா ஒருவனே எழுந்தருளியிருந்தார் - என்பது இந்த வாக்யத்தின் பொருள். இதனால் எம்பெருமானைப் போன்று பெரியபிராட்டியாருக்கும் ஜகத்காரணத்வம் உண்டு - என்று ஏற்படுகிறது. எது ஜகத்காரணமோ - அதுவே மோக்ஷப்ரதம்.
 
-“युवत्वादौ तुल्येऽप्यपरवशताशत्रुशमनस्थिरत्वादीन् 
+[[P52]]
 
-कृत्वा भगवति गुणान् पुंस्त्वसुलभान् । त्वयि स्त्रीत्वैकान्तान् म्रदिम- पतिपारार्थ्यकरुणाक्षमादीन् वा भोक्तुं भवति युवयोरात्मनि भिदेति ॥ " 
+எது மோக்ஷப்ரதமோ - அதுவே ஜகத்காரணம் - என்ற இந்த விஷயம் ஸ்ரீபாஷ்யாதிகளில் ப்ரஸித்தமானபடியால் பிராட்டிக்கும் ஜகத்காரணத்வம் சொல்லும் இந்த வாக்யமும், "सा नो लोकम् अमृतं दधातु" என்பன போன்றவற்றால் மோக்ஷப்ரதானமும் ஏற்படுகிறபடியால் எம்பெருமானைப்போல் - பிராட்டியும் ஸர்வாம்சங்களிலும் துல்யை - என்பது ஸ்ரீபட்டர் ஸ்ரீஸ்வாமி தேசிகன் போன்ற பூர்வாசார்யர்களின் பக்ஷமாகும்.
 
-तथाच प्रतिभटनिरासादिपरिकरभूतस्य दिव्यायुधादेरुभयसाधारण्येऽपि प्रणतरक्षाविलम्बासहत्वेन सदा पञ्चायुधधरस्य भगवत एव साधारणत्वं तैरेवोक्तं। “सामान्यभोग्यमपि कौस्तुभवैजयन्तीपञ्चायुधादि रमणस्स्वयमेव विभ्रत्। तद्भारखेदमिव ते परिहर्तुकामश्श्रीरङ्गधाममणिमञ्जरि गाहते त्वाम्” 
+பிராட்டியும் மோக்ஷம் அளிப்பாள் - என்பது கூடக்கூடும். எம்பெருமான் அருளும் மோக்ஷத்தை இவள் दापयितृत्वम् பண்ணுகிறாள் அன்றோ.
 
-\- इति ।   
-1 
+கேள்வி: மேலும் "तपः श्रद्धा" என்ற ச்ருதிவாக்யம் பெரியபிராட்டியைக் கூறவந்ததில்லை. பூமிப்பிராட்டியைப் பற்றிய ப்ரஸ்தாவத்திலேயே இது வருகிறது. "विश्वस्य भर्त्री" என்று அடுத்த வாக்யத்தில் உள்ள படியால் பூமியைப்பற்றியதே இது என்பது தெளிவு. "श्रद्धया देवः" என்பது லக்ஷ்மியைக் கூறவந்தது - என்பதும் நேரில்லை. ச்ரத்தைக்கு அபிமானியான தேவதையைக் கூறவந்தபடியால் இது லக்ஷ்மியையே என்பதும் நேரில்லை. உண்மையில் "तपः श्रद्धा" என்பனபோன்ற சொற்கள் யாவும் ஆத்மகுணங்களைக் கூறுவதாகவே கொள்ளவேண்டும். "स्वयम्भूर्ब्रह्मा" என்பன போன்ற காடக வாக்யங்களால் ஆத்மகுணங்களின் ப்ராஶஸ்த்யமே தெரிவிக்கப்படுகிறது. "இந்த வாக்யத்தில் देवी என்ற சொல் உள்ளபடியால் இது லக்ஷ்மியையே கூறும்" என்று சொல்லமுடியாது. பூஸூக்தத்திலும் தேவீ முதலான சொற்கள் உள்ளனவே. "अस्येशाना जगतः" என்றபோது ईशानी
 
-नारायणस्य   
-एतदुक्तं भवति । उपायभूतस्य ज्ञानशक्त्यादिगुणगणविशिष्टस्य लक्ष्मीविशिष्टत्वेऽप्यस्य विशेष्यांशभूतस्यैव प्राधान्येनोपायत्वकार्यकरत्वं विशेषणांशस्य तदनुविधायित्वमात्रमेव, नैतावतोपायस्य नैरपेक्ष्यहानिः “कृपया पर्यपालयत्" इत्यादिषु कृपासाहचर्यदर्शनात्। तथात्वमुक्तमस्या अपि 
+[[P53]]
 
-20 
+என உள்ளபடியால் இது லக்ஷ்மியையே குறிக்கும் - என்று கூறவும்
 
-"लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । 
 
-रक्षकस्सर्वसिद्धान्ते वेदान्तेऽपिच गीयते ॥ " इति ।   
-लक्ष्म्युपायत्वदीपः 
+ईशाना quiry.  
+என்ற சொல்லும் பூமியைக்குறிப்பிடுவதாக வேதங்களிலேயே பல இடங்களில் வருகிறதே. இங்கு தினரகன் என்றபடியால் - விஷ்ணுவின் கட்டுப்பாட்டுக்கு அடங்கியவள் - என்பது ஏற்படுகிறது. "स्वान्यानियाम्यत्वे सति सर्वेशानत्वम्" Ga Guor Ganpruri, ஆனபடியால் லக்ஷ்மிக்கு இந்த லக்ஷணம் பொருந்தாது.
 
-अस्याः कारुण्यरूपत्वं तदतिशयापादकत्वेन तत्प्राचुर्येण वा । अन्यथा चेतनवस्तुनः कृपागुणत्वायोगात् । एवं सति " अहम् मत्प्राप्त्युपायो वै साक्षाल्लक्ष्मीपतिस्स्वयम्" इत्युक्तेन   
-इत्युक्तेन " कारुणिकस्स्वयं" इत्युक्तम्। एतदभिप्रायेण विशिष्टतोक्तिः । अन्यथा सर्वात्मनाऽनन्वये वक्तव्ये सति सकलश्रुतिस्मृतीतिहासादिविरोधस्यात् । अस्याः पृथगुपायत्ववचनं भगवत्प्रेयसीत्वमुखेन तत्प्रसादनद्वारेण । अन्यथाऽस्याः पारार्थ्यायोगात् । अत एव सर्वकारणत्वनियंतृत्वादावपि भगवदनुविधायित्वमेवास्याः स्वरूपमित्यवगन्तव्यमिति । अतो लक्ष्मीगुणविग्रहविशिष्टस्योपायत्वे यथा विग्रहः शुभाश्रयत्वापादकः, यथा च गुणास्सूपसदत्वादितत्तत्कार्योपयुक्ताः, तथास्या अपि पुरुषकारकार्योपयोग इति निष्कर्ष इति । 
+(ल.उ.दी) किञ्च, लक्ष्म्या मोक्षोपायत्वे तन्नियामक-जगत्-कारणत्वम् अपि स्यात् । मोक्षोपायभूतस्यैव “तापत्रयातुरैर् अमृतत्वाय स एव जिज्ञास्यः” इति जिज्ञास्यत्वोक्तेः, जिज्ञास्य-वस्तु-लक्षणतया जगत्-कारणत्वस्य व्यास-पराशरादिभिर् व्यवस्थापितत्वात् । ततश् च जगत्कारणत्वाभावे लक्ष्म्या मोक्षोपायत्वम् अपि न स्यात्, "कारणं तु ध्येयम्" इत्य्-आदि-श्रुति-शतैः कारण-वस्तु-ध्यानस्यैव मोक्षोपायत्वोक्त्या ध्यान-प्रपदनयोर् विद्यात्वाविशेषेण तुल्य-योग-क्षेमतया न्यास-विद्याया [[जगकारण|जगत्कारण]]-वस्तु-विषयत्वम् आवश्यकम् इति जगत्-कारणत्व-स्वीकारो वा मोक्षोपायत्व-परित्यागो वा स्यात् । यदि लक्ष्म्याः जगत्-कारणत्वम् अभ्युपगम्येत, तर्हि भूम्याश् च जगत्-कारणत्व-व्यापकत्व-सर्वान्तरात्मत्व-मोक्ष-प्रदत्वादीनां भू-सूक्त-आदि-प्रतिपाद्यानाम् अङ्गीकार-प्रसङ्गः ।
 
-(லக) தத்த்வதீபம் என்ற நூலை கூறுகிறார்:\- (இங்கு அனேக காட்டுகிறார்.)   
-எழுதியவர் இங்கு 
+(2.5)  
+Goog  
+லக்ஷ்மிக்கு மோசேஷாபாயத்வம் கொண்டால், அவளுக்கு IRU\<மும் கொள்ளநேரிடும். छका Garrg/. तापत्रयातुरैः अमृतत्वाय स एव जिज्ञास्य: rml ஸ்ரீபாஷ்யத்தில் மோக்ஷப்ரதத்வம் பகவான் ஒருவருக்கே என்பதை கல்வெட்டைப் போன்று H ஈ என்று நிரூபணம் பண்ணியது சேராது. எந்த ப்ரம்ஹம் जिज्ञास्य Guor= அறியத்தக்கதோ - அதுவே H என்பதாக ஸ்ரீவ்யாஸ - Fী&mbriqar! कारणं तु ध्येय: नंrm
 
-ப்ரமாணங்களைக் 
+[[P54]]
+### लक्ष्म्युपायत्वदीपः
 
-"பகவானின் அஹந்தா என்ற எல்லாப்பொருளிலும் வ்யாபித்த யாதொரு சக்தி உண்டோ \- எம்பெருமானை விட்டுப் பிரித்துப் பார்க்க முடியாததும், உயர்ந்ததாயும், பேராநந்தமயமானதும்,   
-எல்லாப்பொருட்களிலும் 
+ச்ருதிகள் காரணவஸ்துவின் த்யானத்தாலேயே மோக்ஷம் என்று தெரிவிக்கின்றன. ध्यानम्-प्रपदनम् இரண்டும் ப்ரம்ஹத்தை உபாஸிப்பதே. ந்யாஸவித்யா என்பதிலும் [U]€444 ஆவய்யகம். இதெல்லாம் இங்கு தேறாது. இப்படியெல்லாம் சொல்ல முற்பட்டால் - ஜகத்காரணத்வம்- வ்யாபகத்வம்- ஸர்வாந்தர்யாமித்வம் - மோக்ஷப்ரதத்வம் முதலானவைகள் பூஸூக்தத்தில் தெரிவிக்கப்பட்டபடியால் - பூமிதேவிக்கும் இவைகளை ஒப்ப வேண்டிவரும். அது ஸித்தாந்த விருத்தம்.
 
-தொடர்வதாயும், எல்லாவித செயல்களைச் செய்வதாகவும், ஸ்வதந்த்ரமாய் இருப்பதாயும், இந்த உலகைப் படைத்தல் முதலானவைகளைச்   
-செய்வதாயும், அநாதியாகவும் 
+(ल.उ.दी) किञ्च जगत्-कारणत्वस्य ब्रह्म-लक्षणतया ब्रह्म-व्यतिरिक्त-लक्ष्म्यां तद्-अङ्गीकारे ऽतिव्याप्तिस् स्यात् । लक्ष्मी-विशिष्टस्यैव ब्रह्म-शब्द-वाच्यत्वेन लक्ष्यत्वान् नातिव्याप्तिर् इति न च वाच्यम् । ब्रह्म-शब्द-प्रवृत्ति-निमित्त-पौष्कल्याभावेन ब्रह्म-पद-वाच्यत्वायोगात् निस्समाभ्यधिकत्वादेः प्रवृत्ति-निमित्तान्तर्भावेन लक्ष्म्यास् तद्-अभावात् लक्ष्मी-नायकस्य सर्व-नियामकत्वेन लक्ष्म्याम् अन्तः प्रविश्य नियन्तृत्वेन लक्ष्म्य्-अपेक्षया अधिकत्वात्, "द्वे ब्रह्मणी वेदितव्ये" इत्य्-आदिषु अवर-ब्रह्मणि ब्रह्म-शब्दस्य लक्षणा प्रतिपादिता । अवरत्वं स्व-व्यतिरिक्त-नियाम्यत्वम् । स्व-व्यतिरिक्त-सर्वेश्वर-नियाम्यत्वेनावरात्मत्वे सिद्धे ब्रह्म-शब्दस्य लक्षणैव न च मुख्य-वृत्तिः । ततश् च लक्ष्म्याश् च
 
-உண்டோ   
-\-   
-அந்த அஹந்தா என்பது நானே." (இது 
+(ல.க) மேலும், GIÜH என்பது பரம்பொருளான ஸ்ரீமந்நாராயணனுக்கு ஏற்பட்ட தனித்தன்மை. இதுவே ணமுமாகும். ப்ரம்ஹம் தவிர லக்ஷ்மியிடம் இதை ஒப்புக்கொண்டால் ப்ரம்ஹலக்ஷணத்துக்கு அரிசி: வரும். ":" என்பது எங்கள் கொள்கை
 
-பிராட்டியின் திருவாக்கு) 
+[[P55]]
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-"உலகிலுள்ள யாவருக்கும் அந்தராத்மா ஸ்ரீஹரியே. அவர் அஹந்தையான என்னைவிட்டுப் பிரிந்து இருக்கமுடியாதவர். ஒரு பொருள் என்றால் \- அதற்கு 
+-  
+-  
+தானே  
+-  
+என்றபடியால் குற்றமில்லை என்று கூற முடியாது. 34HH லக்ஷ்மியிடம் இல்லாதபடியால் இது கூடாது. "லக்ஷ்மீநாயகன் ஸர்வநியாமகன்." என்றபோது லக்ஷ்மிக்கும் உள்ளே அநுப்ரவேரம் பண்ணி எம்பெருமான் நியமனம் பண்ணுகிறார் - என்பது ஏற்படுகிறபடியால் லக்ஷ்மியைவிட அதிகமானவர் என்பது கிடைக்குமே. க் ஈஎளி என்ற உபநிஷத்தில் 3த்தில் ப்ரம்ஹப்தம் லக்ஷணயா ப்ரவ்ருத்திப்பதாய் தெரிவிக்கக்கப்பட்டதே. அவரத்வம் என்பது - காடி! லக்ஷ்மிக்கு தன்னைவிட மேலான எம்பெருமானால் நியமிக்கப்படும் நிலை உண்டு என ஏற்படுகிறபடியால் ப்ரம்ஹஸப்தம் லஷ்மீவிஷயத்தில் லக்ஷணையால் வருமே தவிர - முக்யமில்லை.
 
-21   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+(ल.उ.दी) यदि लक्ष्म्याः सर्व-नियामकत्वेन भगवन्-नियामकत्वम् अप्य् अभ्युपगम्येत, तर्हि उभयोः सर्व-नियामकत्वेन परस्पर-नियामकत्वे च ईश्वर-द्वित्वापत्तिः, उभयोर् अपि परस्पर-नियाम्यत्वेन निस्समाभ्यधिकत्वाभावाद् उभयोर् अपि अनीश्वरापत्तिश् च, पति-पत्नी-भावानुपपत्तिश् च स्यात् । ननु यजमान-पत्नी-न्यायेन भगवत्-सृष्टि-कर्मणि अनुमन्तृत्वेन कारणत्वम् अस्त्व् इति चेन् न, भूम्याश् च तथाविध-कारणत्व-प्रसङ्गात् लक्ष्म्यास् स्वरूप-रूप-गुण-विभूति-वृहत्त्व-बृह्मणत्वादेः भगवत्-सङ्कल्पाधीनत्वेन अनन्याधीनत्व-रूप-स्वाभाविकत्वाभावान् न जगत्-कारणत्वं, अनन्याधीन-वृहत्त्व-बृह्मणत्वादेर् एव ब्रह्म-शब्द-प्रवृत्ति-निमित्ततया तादृश-प्रवृत्ति-निमित्त-पौष्कल्यस्य भगवद्-एक-निष्ठतया स एव ब्रह्म-शब्द-वाच्यः, स एव जगत्-कारणम् ।
 
-உள்ளவருக்கு   
-\-   
-\-   
-ஸ்வரூபம் தேவையல்லவா? அந்த ஸ்வரூபம் நானே. நிராதரமான அஹமர்த்தமில்லாத அஹந்தா என்பது ஸித்திக்காது." \- என்பவை போன்ற ப்ரமாணங்களால் ஸகலகாரணமானவர் ஆன பரமாத்மாவுக்கு \- எங்கும் வ்யாபித்தவருக்கு எல்லாவற்றிற்கும் அந்தராத்மாவாக எல்லாவற்றையும் தமது கட்டுப்பாட்டில் வைத்திருப்பதால் அளவற்ற ஸ்வாதந்த்ரியம் உள்ளவருக்கு \- ஒருபொருளின் உருவ அமைப்பு (\-4) என்ற ஸாஜாத்யாதிகளைப்போல் ஸ்ரீதேவிக்கு அவரின் அஹந்தா என்ற நிலையைக் காட்டுவதால் பகவத்ஸ்வரூபத்தைக் கூறும் சொல்லில் இவளும் அடங்கியவள், 
+> ब्रह्म-शब्द-प्रवृत्तेर् हि निमित्तं पुष्कलं यतः ।  
+> नारायणस् ततो वाच्यो ब्रह्म-शब्देन योगतः ॥  
+> ब्रह्म-शब्दस्य लक्ष्म्यां तु मुख्य-वृत्तिर् न युज्यते ।  
+> लक्षणा वा ऽथवा गौणी निमित्तापूर्णता यतः ॥  
 
-பகவத்ஸ்வரூபநிரூபண தர்மமானபடியால்   
-அதில் 
+[[P56]]
+### लक्ष्म्युपायत्वदीपः
 
-சேர்ந்தவள் \- என்பது இருக்கிறது. இதைக்கொண்டு “பகவத் ஸ்வரூபமும் ஸ்ரீபிராட்டியின் ஸ்வரூபமும் ஒன்றே" \- என்று கூறமுடியாது. எம்பெருமானுக்கு இவள் திவ்யமஹிஷி ஆனபடியால் பகவானுக்கு சேஷபூதை. ஆகவே பூமி \- நீளாதி தேவிகளைப் போலில்லை. பூ\-நீளாதிகள் ஸாமாந்ய சேதனர்களைப் போன்றவர்கள். இவள் எம்பெருமானைப் போன்று ஈஸ்வர கோடியில் சேர்ந்தவள். ஆகவே பகவானுக்கு இந்தவகையில் பாத்ரமாயிருக்கிறாள். 
+(ல.க) லஷ்மிக்கும் ஸர்வநியாமகத்வம் ஒப்புக்கொண்டால் - இருவரும் ஸர்வநியாமகர்கள் என்று ஏற்படுவதால் qHH வந்து - இரண்டு ஈஸ்வரர்கள் உலகிற்கு என்றாகும். இது ஸரியில்லை. இருவரும் பரஸ்பர நியாம்யர் - என்று ஏற்படுகிறபடியால் இருவருக்கும் निस्समाभ्यधिकत्वाभावात् இருவரும் தீர் இல்லை என்றே - ஏற்படும். பதி - பத்னீபாவமும் இல்லாமல் போய்விடும்.
 
-லக்ஷ்மிக்கும் பகவான்   
-இவள்   
-ப்ரீதிக்கு 
+-  
+யாகத்தில் யஜமானனின் மனைவி அநுமதி அளித்து ஒத்துழைப்பதைப் போல் இங்கும் ஆகட்டுமே - என்ன முடியாது. இப்படி 34]<H பூமிக்கும் உண்டாகட்டும் என்றால் - பதில் கூற முடியாது.  
+-  
+லக்ஷ்மியில் ஸ்வரூபம், திருமேனி, நற்பண்புகள், லீலாவிபூதி-நித்யவிபூதி, எல்லாப் பொருளையும் விட பெரியதாய் இருப்பது, இருப்பது, தன்னை ஆஸ்ரயித்தவர்களை பெரியதாக்குதல் முதலான எல்லா குணங்களும் பகவத்ஸங்கல்பாதீனம் - என்று ஸாஸ்த்ரம் தெரிவிக்கிறது. ஆகவே கள் இல்லாதபடியால் பிராட்டிக்கு ஜகத்காரணத்வம் கூடாது. 348€ बृंहणत्वादि & Gor ब्रह्मशब्दप्रवृत्तिनिमित्तम् க - என்றபடியால் இது பிராட்டிக்கு கூடாது. இத்தனை நாழிகை கூறியதை "RH... AA 44:" என்று இரண்டு சுலோகங்களால் கூறுகிறார்.
 
-சேஷியானபடியால் 
+(ल.उ.दी) एतेन यजमान-पत्नी-न्यायेन लक्ष्मी-मोक्ष-प्रदत्व-चोद्यं दत्तोत्तरम् । अग्नि-सापेक्ष-कर्मादौ विधि-बलात् पत्न्याः कर्तृत्वम् । न चेह तथा विधिर् अस्ति ।
 
-பகவானை ஸர்வாதிகசேஷி என்று ச்ருதியே காட்டியது \- “q: 
+[[P57]]
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-புனர்வு எவ்வுள் 
+यदि पत्न्या सहैव भगवता सृष्टि-स्थिति-संहार-मोक्ष-प्रदानादि कर्मानुष्ठेयम् इति विधिस् स्यात् तर्हि प्राकृत-दम्पत्योर् इव दिव्य-दम्पत्योर् अपि कर्म-वश्यत्व-प्रसङ्गः । पत्नी-कर्तृत्वस्य अनुमन्तृत्वेन सर्व-सम्मतत्वात् सिद्ध-साधनं च दम्पति-प्रपदनं च व्यर्थम् एतत्-साध्याप्रतिषेधस्य प्राग् एव सिद्धेः ।
 
-சதுர்முகப்ப்ரம்ஹாவையும்விட 
+(ல.க) யஜமானபத்னி வேள்வியில் ஒத்துழைப்பதைப் போல் இங்குமாகட்டுமே - என்பது இங்கு நேரில்லை - வேள்வியில் அக்னிஸாபேக்ஷமான செயல்களில் விஷேவிதி வாக்யம் இருப்பதால் பத்னீக்கும் அங்கு ஸம்பந்தம் கொள்வது நியாயமாகும். லௌகிக பத்னீ ந்யாயத்தை இங்கு கொண்டுவந்தால் நேராகாது. ஏனெனில் - ஜகத்ஸ்ருஷ்டி- ஸ்திதி-ஸம்ஹார-மோக்ஷப்ரதானாதிகளும் பிராட்டியோடு கூடின பகவானால் தான் செய்யவேண்டும் என்று விதிவாக்யத்தைக் காட்ட முடியாதே. மேலும், லௌகிக - தம்பதிகளைப் போல் திவ்யதம்பதிகளுக்கு ஏற்படும். கர்மவஸ்யத்வாதிகளும் பிராட்டி எம்பெருமான் செய்யும் செயல்களுக்கு அநுமதி அளிக்கிறாள் - என்பதை நாங்களும் ஒப்புக்கொள்கிறோம்.
 
-எழுந்தருளியிருப்பவரோ,   
-" என்று. எவன் ஒருவன் 
+(ल.उ.दी) ननु "शृणाति निखिलान् दोषान्" इति श्री-शब्द-[[व्युत्पत्तिवलेनैव|व्युत्पत्तिबलेनैव]] पाप-निवर्तकत्व-प्रतीतेः पाप-निवृत्तेर् एव मोक्षत्वान् मोक्षोपायत्वं श्री-शब्द-बलाद् एव सिद्ध्यतीति चेन् न । शृणातीति दोष-निवर्तनानुकूल-व्यापार-प्रतीतेर् अप्रतिषेधस्य व्यापार-रूपत्वाभावात् कथम् उपायत्व-प्रतीतिर् इति, भू-धातोः प्राप्ति-वाचित्वेन णिज्-अर्थान्तर्भावे सति प्रापकत्वस्य अपि [[भृशब्देन|भूशब्देन]] वक्तुं शक्यत्वाद् भुवो ऽपि उपायत्व-प्रसङ्गः । तस्मात् श्रीयते श्रयते इत्य्-आदि-व्युत्पत्त्या पुरुषकारत्वोपयुक्त-व्यापार-प्रतीतेः श्री-शब्देन पुरुषकारत्वम् एव प्रतीयते, न
 
-முன்பே 
+[[P58]]
+### लक्ष्म्युपायत्वदीपः
 
-ஆயினும்   
-இளம் 
+मोक्ष-प्रदातृत्वम् । एवं च लक्ष्मी-पुरुषकार-पूर्वक-निरपेक्षोपाय-भगवत्-प्रपदनेनैव मोक्ष-सिद्धिर् इति निरवद्यम् इत्य् आहुः ।
 
-வயதினரைப்போல் என்றும் Agiவாக இருக்கிறாரோ, 
+(ல.க) : என்ற சொல்லுக்கு ஏற்பட்ட அனேக விதமான வ்யுத்பத்திகளில் Acia என்பதும் இதற்கு எல்லாவிதமான ஜீவனிடமிருக்கும் குற்றங்களையும் போக்கடிக்கிறாள் - என்று பொருள். இதனால் பாபங்களைப் போக்குவது பிராட்டிக்கு உள்ள உயர்ந்தநிலை - என்று ஏற்படுவதால் பாபநிவ்ருத்தியே மோக்ஷமானபடியால் ஆராய்ந்தாலும் ஏற்படுமே? - 1 - ஸ்ரீசப்தத்தின் பொருளை - பிராட்டிக்கு மோசேஷாபாயத்வம் என்று கேள்வி. இதுவும் நேரில்லை. ஏன்? என்றால் ஊ என்பது ஜீவனிடமுள்ள குற்றங்களை போக்குவதற்கேற்ற வ்யாபாரங்களைச் செய்கிறாள் என்றே பொருள். மேலும் ; என்ற சொல் பூதேவியைக் காட்டும். ; என்று வ்யுத்பத்தியைக் கொண்டு, பூ 4 என்ற algவிலிருந்து இந்த சொல்லை வ்யுத்பன்னமாக்கினால் பூமிப்பிராட்டிக்கும் மோசேஷாபாயத்வம் வந்துவிடும். அதை ஸித்தாந்தத்தில் ஒருவரும் ஒப்பவில்லை. ஆகவே ஜிபுர் அவுர் என்பன போன்ற விளக்கங்களைக் கொண்டு புருஷகாரத்துக்குத் தேவையான வ்யாபாரங்களைச் செய்கிறாள் என்றே கொள்ள வேண்டும். ஆகவே லக்ஷ்மியைப் புருஷகாரமாகக் கொண்டு பகவானை ப்ரபத்தி செய்வதே மோக்ஷஸித்திக்கு வழி. இதுவரையில் மஹாபூர்வபக்ஷம்.
 
-நமக்கு நல்ல அறிவை அருளும் ஸுமதி என்னப்பட்ட 
+[[P59]]
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-பெரியபிராட்டிக்கு 
+इनि ஸித்தாந்தம்:
 
-ஸ்ரீவிஷ்ணுவின்   
-எவர் கணவரோ   
-அத்தகைய 
+(ल.उ.दी) तद् एतद् अस्मदाचार्याः प्रत्याचक्षते, तथा हि, भगवतश् च लक्ष्म्यास् तावद् भगवत्-स्वरूप-वाचि-सर्व-पदाभिधेयत्वं "नागृहीतविशेषणा" न्यायेन, लक्ष्मी-वाचि-शब्दाभिधेयत्वम् अपृथक्-सिद्ध-विशेषण-वाचिनां विशेष्य-पर्यन्तत्वम् इत्य् आकृत्यधिकरण-न्यायेनाङ्गीकरणीयम् इति
 
-பொருட்டு   
-புரோடாசாதிகளை 
+> “अहन्तया विना ऽहं हि निरुपाख्यो न सिद्ध्यति ।  
+> अहमर्थं विना ऽहन्ता निराधारा न सिद्ध्यति ॥” इति  
 
-ஸமர்ப்பிக்கவும் \- என்று இந்த மந்த்ரத்துக்குப் பொருள். 
+प्रमाणम् एव द्रढयति । उप = समीपे स्वरूप-सन्निधाने, स्वरूप-सम्बन्धितया इति यावत्, आख्यायते = प्रतीयते इत्य्-उपाख्या = स्वरूप-निरूपक-धर्मः, तद्-रहितो निरुपाख्यो न सिद्ध्यत्य् अर्थः । तथा च यत्र यत्र भगवतः कारणत्व-नियन्तृत्वाधारत्व-शेषित्व-व्यापकत्व-रक्षकत्व-मोक्ष-प्रदत्वादिकं श्रूयते, तत्र तत्र लक्ष्म्या अपि तत् सिद्धम् । यत्र च लक्ष्म्यास् तत् श्रूयते तत्र तत्र भगवतो ऽपि तत् सिद्धम् ।
 
-22 लक्ष्म्युपायत्वदीपः 
+-  
+इनि ஸித்தாந்தம். பகவத்ஸ்வரூபங்களை கூறும் எல்லா சொற்களாலும் பிராட்டியையும் கூறும் எனக் नागृहीतविशेषणा बुद्धि: विशिष्टं ग्राहयति शकील கொள்வது ந்யாயப்படியாகும். பிராட்டி என்கிற விசேஷணம் பகவானை விட்டுப் பிரிக்க முடியாது. இது தெரிந்தால் தான் பகவானை Amwyquio. @mau-
 
-1\. : எரி: \= ச: 2\. \+4qI \= 24\-I\-T 
+> “आकारिणस्तु विज्ञानम् आकारज्ञानपूर्वकम् ।  
+> तेनाकारं श्रियं ज्ञात्वा ज्ञातव्यो भगवान् हरिः ॥”  
 
-3\. ஓசன் \= புளி :: சின: 
+ஸ்ரீஅருளாளப்பெருமாள் என்று விளக்கியருளினார். எம்பெருमानार अपृथक्सिद्धविशेषणवाचिशब्द (i) & ir நன்கு विशेष्यपर्यन्तjmgi Gang - आकृत्यधिकरणन्याय♚॥ यह श्रीभाष्यादिषु सिद्धम्। निरूपितम्।
 
-\-   
-என்று மூன்று வகையாக ஸமாஸம் கொண்டு இச்சொல் வ்யுத்பன்னமானது. எவ்வகையிலும் பெரியபிராட்டிக்கு பகவான் பர்த்தா என்பது ஏற்படும். பத்னிக்கு பதிபாரதந்த்ர்யம் உண்டு என்பது   
-என்பது லோக\-வேதங்களில் ப்ரஸித்தமானபடியால் பகவான் சேஷி. பிராட்டி அவன்   
-\- 
+[[P60]]
+### लक्ष्म्युपायत्वदीपः
 
-ஒருவருக்கு மட்டிலும் சேஷபூதை. நமக்கெல்லாம் \! ஆகவே பிராட்டிக்கு 4   
-பிராட்டியும் கண்டுகொள்வது.   
-एकोनशेषित्वम् 
+இதை ஸம்ஹிதையும் காட்டியது mariammguji qwal - 
 
-இப்படி நூற்றுக்கணக்கான ப்ரமாணங்களால் பிராட்டிக்கும் உபாயத்வம் ஸித்தம். ஆயினும் பிராட்டியோடு கூடிய பகவானே உபாயம் \- என்பதில் ஒரு விசேஷம் இருக்கிறது. பரமபுருஷன் 
+> “अहन्तया विना ऽहं हि निरुपाख्यो न सिद्ध्यति ।  
+> अहमर्थं विना ऽहन्ता निराधारा न सिद्ध्यति ॥”  
 
-ஸ்வாதந்த்ர்யத்தால் 
+उप = समीपे स्वरूप-सन्निधाने, स्वरूप-सम्बन्धित्वेन इति यावत् । आख्यायते प्रतीयते इति उपाख्या = स्वरूप-निरूपक-धर्मः । तद्-रहितः निरुपाख्यो = न सिद्ध्यति - इत्य् अर्थः ।  
+शीना कंकणं काना की prii. शुक पत्नीसम्बन्धम् औपदेशिक. शुक नाका कलंकßui எல்லோரையும் கட்டுப்படுத்துவது-சேஷித்வம்-எங்கும் வ்யாபித்திருப்பது-பாதுகாப்பது- மோக்ஷமளிப்பது - என்பன போன்ற தர்மங்களைக் கூறியதோ வேதம் -அங்கெல்லாம் பிராட்டிக்கும் ஸம்பந்தமுண்டு.
 
-\- 
+कृतीक पुरुषकारत्वम् = Ufj Gua का மட்டிலும் எம்பெருமானுக்கு இல்லை. இதுவே ஸித்தாந்தம்.
 
-...   
-தமது 
+(ल.उ.दी) ननु भगवत्-स्वरूप-वाचिनां नारायणादि-शब्दानां
 
-\- 
+> “नार-शब्देन भूतानां समूहः प्रोच्यते बुधैः ।  
+> तेषाम अयन-भूतत्वान् नारायण इहोच्यते ॥  
+> 
+> नराज् जातानि [[तत्वानि|तत्त्वानि]] नाराणीति ततो विदुः ।  
+> तान्य् एव चायनं यस्मात् तेन नारायणस् स्मृतः ॥”  
+> 
+> “ज्ञान-शक्ति-बल-ऐश्वर्य-वीर्य-तेजांस्य् अशेषतः ।  
+> भगवच्-शब्द-वाच्यानि विना हेयैर् गुणादिभिः ॥”  
 
-என்ற   
-தனது தடையற்ற அஸுர\-ராக்ஷஸாதி விரோதி நிவர்த்தனம் முதலான செயல்களை தானே செய்து வருகிறார். नारीणाम् उत्तमा 7: என்னப்பட்ட பெரியபிராட்டியார்   
-பகவத் பாரார்த்த்யஸ்வபாவத்தால் அதற்கு ஏற்ப வாத்ஸல்ய- காருண்ய\-சமாதி குணங்களுடன் விளங்குகிறார் \- என்பதே நிலை. இதை   
-युवयोरात्मनि भिदा॥ ஸ்ரீகுணரத்நகோச சுலோகத்தில் ஸ்ரீபராரைபட்டர் (சு\-34) அருளினார். இதன் கருத்தாவது:\- யௌவனம்- ஆச்ரிதர்களிடம் அன்பு- எல்லோருக்கும் நன்மைகளையே செய்வது- முதலான கல்யாணகுணங்கள் எம்பெருமானுக்கும் பிராட்டிக்கும் பொதுவானவை. ஒருவருக்கு அதீனமாய் இருப்பதில்லை எதிரிகளை ஒழிப்பது \- எடுத்த கார்யத்தில் நிலை நிற்பது \- முதலானவைகள் புருஷர்களுக்கு இயல்பாக 
+“बृहत्त्वाद् ब्रह्मणत्वाच् च तद् ब्रह्मेत्य् अभिधीयते ।” इत्य्-आदिभिस् सर्वाधारत्व-सर्व-व्यापकत्वादि-प्रवृत्ति-निमित्तकत्वावगमेन तत्-प्रकार-बुद्धि-जनकतया लक्ष्मी-विशिष्ट-बुद्ध्य्-अजनकत्वात् “नागृहीतविशेषणा" न्यायेन लक्ष्मी-परत्वं न सम्भवतीति चेन् न । नारायणादि-शब्दानां योग-रूढत्वाद् रूढ्या भगवत्-स्वरूपोपस्थापन-वेळायां रूढि-निमित्त-लक्ष्मी-स्वरूप-प्रकारक-बोध-जनकतया भास्करादि-शब्दानां रूढ्या सूर्योपस्थापन-वेळायां
 
-23   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+[[P61]]
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-அமைந்ததாகுக \- என்றுகாட்ட இவைகளை எம்பெருமான் கைக்கொண்டார். பெண்களுக்கு   
-பெண்களுக்கு இயல்பாக அமைந்த 
+रूढि-निमित्त-प्रभा-विशेष-प्रकारक-ज्ञान-जनकत्वेन प्रभा-विशिष्ट-परत्ववल् लक्ष्मी-विशिष्ट-परत्व-सम्भवात् । अत एव ब्रह्म-शब्द-रूढ्य्-अभिप्रायेण भाष्यकारैर् उक्तं “पुरुषोत्तमो ऽभिधीयते” इति च । योगेन भगवत्-स्वरूपोपस्थापन-दशायाम् अपि योग-निमित्तानां भगवतीव लक्ष्म्याम् अपि प्रमाण-सिद्धत्वेन तत्तन्-निमित्त-विशिष्ट-भगवत्-स्वरूप-प्रतिपादकत्ववत् तत्तद्-योग-निमित्त-विशिष्ट-लक्ष्मी-प्रतिपादकत्व-सम्भवाल् लक्ष्म्या भगवत्-स्वरूप-वाचि-शब्दान्तर्भावो न शक्यापलापः । इयांस् तु विशेषः, रूढ्या भगवत्-स्वरूप-विशेषणतयैव भानं श्रियः, योगेन तु रूढ्य्-उपस्थापित-विशेषण-विशिष्टस्य योग-निमित्त-विशेष्यतया भानात् तस्यास् तद्-विशेष्यतया भानम् इति ।
 
-மென்மை   
-\-   
-கணவருக்கு அடங்கியிருப்பது   
-\-   
-கருணை 
+(ல.க) கேள்வி:-
 
-பொறுமை \- முதலானவைகள் பிராட்டியிடம் நிலை நின்றன \- இதுவே பிரிவு \- என்று. 
+" - ... என்பன போன்ற வசனங்களைக் கொண்டு எம்பெருமானை - எல்லாவற்றிற்கும் ஆதாரமானவராகவும், எங்கும் பரவி இருப்பவராயும் என்பன போன்ற i-f-jAகர ராக அறிகிறோம். இங்கெல்லாம் லக்ஷ்மீஸம்பந்தம் எங்கும் காணப்படவில்லை. ஆகவே "ஈரqu" ந்யாயத்தைக் கொண்டு இங்கு எப்படி பிராட்டியையும் வாங்கிக்கொள்ள முடியும்? என்பது கேள்வி.
 
-சத்ருக்களை ஒழிக்க சங்க\-சக்ர\-கதை\-வில் அம்பு முதலான ஆயுதங்கள் தேவையான படியால் அவைகளை பகவான் கை கொண்டார். அந்த ஆயுதங்களைத் தாங்கும் பளு வேண்டாம் என்ற திருவுள்ளத்தால் போலும் வெறும் தாமரைப்பூக்களையே தாங்கும் நிலையில் பிராட்டியின் ஸேவை. இதையும்\> \<THI1" (ஸ்ரீகுணரத்னகோஸம்\-47) என்று காட்டியருளினார். 
+0: என்பன போன்ற சொற்கள் - ங்ேகள். ரூடியைக் கொண்டு பகவத்ஸ்வரூபத்தைக் கூற முற்படும் போது ரூடிக்கு ஸித்தமான லக்ஷ்மிஸ்வரூபத்தின் ப்ரகாரத்வமும் தேவையானபடியால் ஈணாயம் இங்கு வந்தே தீரும். ART: என்ற சொல் ஸூர்யனைக் குறிப்பிடும்போது -க்கு நிமித்தமான ள்: கரி என்ற வ்யுத்பத்தியைக்கொண்டு த்தைத் தருகிறதே!
 
-இதனால் என்ன தெரியப்பட்டது? என்றால் 
+[[P62]]
+### लक्ष्म्युपायत्वदीपः
 
-ஜ்ஞான\-சக்த்யாதி குணங்களோடு கூடின உபாயமான ஸ்ரீநாராயணனுக்கு ப்ரதானமான ஜகத்ஸ்ருஷ்ட்யாதி கார்யங்களைச் செய்யும் நிலை \- விசேஷணமாய் அமைந்த பிராட்டியுடனேயே. எம்பெருமானைச் சரணமடைகிறேன் என்று கூறினாலும் \- புகமாக \= இன்றியமையாததாக \- எப்படி எம்பெருமானின் கல்யாணகுணங்களும் திருமேனியும் தன்னடைவே ஸித்திக்கிறதோ அப்படி உபாயதயையிலும் விசேஷணமாய் இருக்கும் பிராட்டியின் ஸம்பந்தமும் உண்டு. இதனால் ? என்று சொல்லப்பட்ட எம்பெருமானின் ப்ரபாவத்துக்கு எந்த ஹானியும் இல்லை. எபபனாகவே பகவான் செயல்படுகிறார் என்பது பொருந்தும். இதையே 594 qப்பு என்றார் ஸ்ரீவால்மீகி பகவான்.   
-\-   
-\- 
+அதே போலிங்கும், அதனால் தான் ப்ரம்ஹசப்தம் ரூடியாய் கூறும் என்ற கருத்தில் wof unriquairgri "ब्रह्मणि श्रीनिवासे" Tळाली. अলক্র
 
-இயல்பாகவே கருணாமூர்த்தியான எம்பெருமானுக்கு கண Hi4 என்னப்பட்டபடி கருணையே உருவான பிராட்டியின் ஸம்பந்தம் பெருமைகளையே சேர்க்கும்.   
-\- 
 
-24   
-लक्ष्म्युपायत्वदीपः 
+भीतीकं मुकं Gurg - "पुरुषोत्तमोऽभिधीयते" नळाला अनुना  
+விவரிக்கும்போது  
+6.
 
-இதையே ""குகள் 
+அவயவார்த்தத்தைக் கொண்டு பகவத்ஸ்வரூபத்தைக் காட்ட
 
-वेदान्तेषु च எம்பெருமானின்   
-என்று ப்ரமாணம் காட்டியது. 
+योग ॐ का कंक निमित्त LDIT GOT 60  
+முற்படும் போது பகவானிடம்போல்  
+1
 
-கருணையே பிராட்டியின் கருணை 
+ஸித்தங்களானபடியால்  
+மானவை
 
-அல்லது பரவச்செய்கிறது. 
+பிராட்டியிடமும் ப்ரமாணங்களால்
 
-இதைக்கொண்டே ஜீவாத்மாவின் அநுஸந்தானம் 
+பகவத்ஸ்வரூபத்தைக்
 
-\-   
-இப்படி "3844 
+காட்டுமிடங்கள் யாவற்றிலும் பிராட்டியின் ஸ்வரூபமும் காட்டப்பட்டதாகிறது - என்பதில் குற்றமில்லை.
 
-"chrafuch: FR" STOOT WILD. 
+இது இங்குள்ள Gopio:- ரூடிக்கொண்டு பகவத்ஸ்வரூப விசேஷணமாகவே ஸ்ரீக்கு விளங்கும் நிலை. அவயவார்த்தமான யோகத்தைக் கொண்டோமானால் रूढ्युपस्थापितविशेषणविशिष्टस्य योगनिमित्तविशेष्यतया भानम् ஒப்புக்கொண்டு விசேஷ்யதயா ஏவ பானம் - என்று.  
+என  
+1
 
-உபாயம்" என்று கூறியது   
-சாவு" என்றும், 
+(लक्ष्म्युपायत्वदीपः) लक्ष्म्यां नारायण-आदि-पद-योग-निमित्तत्व-सत्त्वे प्रमाणानि तु "लक्ष्म्याः समस्तं चिद्-अचित्-स्वरूपं व्याप्तं तद्-ईशस्य तु सापि सर्वम्", "व्यापिनी विष्णुरूपेण सर्वभावानुगामिनी । अशेषभुवनाधारा सङ्कल्पप्रविजृम्भणी । देवी [[पाड्गुण्यसम्पूर्णा|षाड्गुण्यसम्पूर्णा]] ज्ञानानन्दक्रियामयी”, “राड् असि बृहती", "श्रीर् असीन्द्रपत्नी" इत्य्-आदीनि द्रष्टव्यानि । अत एव "सत्यं ज्ञानम् अनन्तं ब्रह्म", “यस् सर्वज्ञस् सर्ववित्”, “परा ऽस्य शक्तिर् विविधैव श्रूयते स्वाभाविकी [[ज्ञानवलक्रिया|ज्ञानबलक्रिया]] च”, “अपहतपाप्मा विजरो विमृत्युर् विशोको विजिघत्सो ऽपिपासस् सत्यकामस् सत्यसङ्कल्पः" इत्य्-आदि-गुण-विशिष्ट-स्वरूप-पर-वाक्यैर् अपि लक्ष्मी-प्रतिपादनम् अपि नानुपपन्नम् । न चैवं कारण-द्वित्वापत्त्या कारण-वाक्य-गतैक-शब्द-विरोधः "आनीद् अवातस् स्वधया तद् एकम्" इति स्वधा-शब्द-वाच्य-लक्ष्मी-विशिष्टम् एकम् एव जगत्-कारणम् इति प्रतिपादयन्त्या श्रुत्यैव [[P63]]  
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-சில இடங்களில் "பிராட்டி ஒருவரே தனித்து 
+“सर्व-शाखा-प्रत्यय”-न्यायेन कारण-वाक्यान्तर-गतैक-शब्दस्य लक्ष्मी-विशिष्टैक्य-परत्वावगमात् । न चानेक-कारणतायां गौरवात् लाघवेन विशेष्य-मात्र-निष्ठम् एकम् एव कारणत्वं कल्प्यम् इति वाच्यम् । “सद् एव सोम्य इदम् अग्रे आसीत्" इत्य्-आदौ सूक्ष्म-चिद्-अचित्-विशिष्ट-जगत उपादानत्ववत् लक्ष्मी-विशिष्ट-जगत्-कारणत्वस्यैकस्यैवाङ्गीकारात् न च तत्र मानाभावः "अर्थैकत्वे द्रव्य-गुणयोरैक्य-कर्म्यान् नियमस् स्यात्" इत्य्-अरुणाधिकरण-न्यायेन क्रय-साधनत्वस्य आरुण्यादि-विशिष्टैकहायनी-निष्ठत्ववत् लक्ष्मी-विशिष्ट-निष्ठत्वस्य प्रतीयमानत्वात् । किञ्च,
 
-\-   
-\-   
-பகவானுக்கு இவள் 
+(60.क)  
+> “अकारेणोच्यते विष्णुस् सर्वलोकेश्वरो हरिः ।  
+> उद्धृता विष्णुना लक्ष्मीर् उकारेणोच्यते सदा ॥  
+> मकारस् तु तयोर् दास इति प्रणव-लक्षणम्”
 
-ப்ரேயஸீயான படியால் \- இவள் ஜீவர்களுக்காக பரிந்தும் பேசுவதால் இவள் பேச்சை எம்பெருமான் தட்டாமல் கேட்கிறார் கேட்டு இவளுடன் கலந்து ஜீவனுக்கு உண்டான நன்மைகளைச் செய்கிறார். என்றபடி. இதனால் இவளது புRன்பு என்பதும் ரக்ஷிக்கப்பட்டது. இந்த விஷயம் ஸ்ரீமத்ராமாயணத்தில் " H 79H9cdl7 \< कुर्मि दशग्रीव भस्म भस्मार्ह तेजसा ॥” என்று பிராட்டி காட்டியருளினாள். இங்கு 149 என்பதால் பிராட்டி 
+> “अकारश् चित्-स्वरूपस्य विष्णोर् वाचक इष्यते ।  
+> उकारश् चित्-स्वरूपायाः श्रियो वाचितया विदुः ॥  
+> मकारस् तु तयोर् विप्र श्री-नारायणयोस् सदा ।  
+> आत्मनश् शेष-भूतस्य वाचकश् श्रुति-चोदितः”
 
-எந்த ஜீவனையும் கொல்வதில்லை 
+इति श्रुति-स्मृतिभ्याम्,
 
-தபஸ்ஸைக்காட்டினார்.   
-विष्णुपत्नी अघोरा   
-என்ற 
+की  
+कळा योगनिमित्तत्वम् - 89 कंक லக்ஷ்மிக்கு
 
-ஸ்ரீவிஷ்ணுபத்னியானவள் பயங்கரமானவள் இல்லை என்று சுருதி காட்டியதே\! அந்த தபஸ்ஸை பரிபாலனம் பண்ணவேண்டாமா? HH என்பதால் புரிபு 
+உண்டு - என்பதில் ப்ரமாணங்கள் வருமாறு:-
 
-கணவனுக்கு மனைவி அடங்கியவள் \- என்ற நிலை காட்டப்பட்டது. HU \- HA«jGH இத்யாதிகளிலும் இவளுக்கு ezuபு என்பது காட்டப்பட்டது. 
+> “लक्ष्म्याः समस्तः चिद्-अचित्-प्रपञ्चः शेषः तद्-ईशस्य तु सापि सर्वम्”
 
-பரினோக எம்பெருமானைச்   
-ஆகவே 
+\[சேதனாசேதனாத்மகமான எல்லா உலகும் லக்ஷ்மிக்கு சேஷபூதமானவை. இவளுக்கும் ஈசனான எம்பெருமானுக்கு இந்த உலகு யாவும், பிராட்டியும் சேஷபூதர்கள்.\]
 
-சொல்வதால்   
-\-   
-பகவான் 
+> “व्यापिनी विष्णुरूपेण सर्वभावानुगामिनी ।  
+> अशेषभुवनाधारा संकल्पप्रविजृम्भणी ॥  
+> देवी षाड्गुण्यसम्पूर्णा ज्ञानान्दक्रियामयी ॥” [[P64]]
 
-25   
-ன் என்பது எப்படி   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+लक्ष्म्युपायत्वदीपः
 
-தெரியவருகிறதோ विग्रहविशिष्ट क சொன்னபோது விக்ரஹம் MMÜமானது என்பதை எப்படி காட்டுகிறதோ \- অgum\_wrqibupurwjob पुरुषकाररूपार्थोपयोगी भवति என்று கொள்வது. இதுவே நிஷ்கர்ஷம். 
+\[ஸ்ரீவிஷ்ணுவின் ஸ்வரூபத்தில் பிராட்டியும் உள் அடங்கியவளானபடியால் இவளும் எங்கும் வ்யாபித்தவள். બધાબુવનங்களுக்கும் ஸங்கல்பத்தாலேயே ஆதாரமானவள், எல்லாவற்றையும் தனது தாங்கி- ஒன்றோடொன்று கலக்காமல் வைத்திருப்பவள், ஜகத்வ்யாபாராதிகளான லீலைகளை உடையவள், ज்ஞானம்-சக்தி-பலம்-ஐஸ்வர்யம்-வீர்யம்-தேஜஸ் என்ற ஆறுவகை குணங்கள் நிரம்பினவள், எப்போதும் நிரம்பின ஜ்ஞானம்-ஆனந்தத்துடனிருப்பவள்.\]
 
-(ल.उ.दी) अर्वाचीनास्तु 
+\[எல்லா சேதனாசேதனங்களுக்கும் ராணியாயும், பரம்பொருளைப்போல் ப்ரஹ்மசப்தவாச்யமானவளுமாக நீர் (பிராட்டி) இருக்கிறீர்.\]
 
-"मत्प्राप्तिं प्रति जन्तूनां संसारे पततामधः । लक्ष्मीः पुरुषकारत्वे निर्दिष्टा परमर्षिभिः । 
+\[ஸ்ரீஎன்றே தேவரீருக்குத்திருநாமம். பரமேச்வரனான எம்பெருமானுக்கு தேவரீர் இல்லாளன்றோ.\]
 
-ममापिच मतं ह्येतन्नान्यथा लक्षणं भवेत् । 
+இது முதலானவைகள் - எம்பெருமானைப் போன்றே பிராட்டியும் என்று காட்டும் வசனங்கள்.
 
-अहं मत्प्राप्त्युपायो वै साक्षाल्लक्ष्मीपतिस्स्वयं । लक्ष्मीः पुरुषकारत्वे वल्लभा प्राप्तियोगिनी। 
+இப்படி நாம் காட்டியபடியால் - "Hi4 அளௗ" எங்கும் \[நிர்விகாரனாயும், ஜ்ஞானஸ்வரூபனாயும், எக்காலத்திலும் உள்ளும் புறமும் வ்யாபித்தவனுமான பரமாத்மாவை எவன் அறிகிறானோ\]
 
-एतस्याश्च विशेषोऽयं निगमान्तेषु शब्द्यते । *"* \- इत्यनेन 
+"q:: Haq"  
+\[யவன் யாவற்றையும் ஸ்வரூபேண-ஸ்வபாவேன அறிவானோ - அல்லது எல்லாவற்றையும் அடைந்தவனோ\]
 
-व्यवस्थावचनेन लक्ष्म्याः पुरुषकारत्वमेव, भगवत एवोपायत्वमिति व्यवस्था सिद्ध्यति। वचनस्य व्यवस्थायामेव तात्पर्यं स्वरसतः प्रतीयते । तथा हि "अहं मत्प्राप्त्युपाय” इत्यनेन स्वस्य स्वयमेवोपायत्वमुक्त्वा “लक्ष्मीः पुरुषकारेण वल्लभा प्राप्तियोगिनी” इति लक्ष्म्याः पुरुषकारत्वमेव लक्ष्मीपतिना प्रतिपादितम्। ततस्तस्या उपायत्वाभावो व्यक्तः । अन्यथा "अहं मत्प्राप्त्युपाय " इतिवत् लक्ष्मीश्च मत्प्राप्त्युपायभूतेति भगवानेवावदिष्यत् । न च तथाऽवदत् । प्रत्युत पुरुषकारत्वमेव पुनः पुनः प्रतिपादयति स्म । एवं च लक्ष्म्या उपायत्वपक्षे जिज्ञासितोपायत्वाकथनमनुचितम् स्यात् । न च " एतस्याश्च विशेषोऽयम्" इति लक्ष्म्याः पुरुषकारत्वं विशेष इत्युक्त्या उपायत्वमुभयसाधारणमिति व्यज्यत इति वाच्यं एतस्या अयं विशेष इत्यनेन पूर्वोक्तोपायत्वस्य लक्ष्म्यपेक्षया विशेषत्वाभाव एवावगम्यते । स च द्वेधा घटते- असम्भवादतिव्याप्त्या वा । तत्रासंभवरूपलक्षणदोषादेव लक्ष्म्या उपायत्वं न विशेषः किन्तु पुरुषकारत्वं विशेष इत्युक्तम् । न चोपायत्वस्य 
+> "परा ऽस्य शक्तिः विविधैव श्रूयते स्वाभाविकी ज्ञान बल क्रिया च" [[P65]]
 
-26   
-लक्ष्म्युपायत्वदीपः 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-लक्ष्मीनारायणोभयसाधारण्यान्नारायणेऽतिव्याप्ततया पुरुषकारत्वमेव विशेषः नोपायत्वमित्युक्तमिति किं न स्यादिति वाच्यं । "अहं मत्प्राप्त्युपायो वै” इत्यनेन भगवत एवोपायत्वं प्रतीयते, न लक्ष्म्याः, अतस्तत्रासंभव एव । न च लक्ष्मीपतिरित्युक्त्या विशेषणभूतलक्ष्म्याश्चोपायत्वं प्रतीयत इति नासंभवः, किं त्वतिव्याप्तिरेवेति वाच्यं । विशेषार्थस्य विशेष्यान्वय एव स्वरसतः प्रतीयते, न तु विशेषणान्वयः । यत्र विशेषणान्वयानङ्गीकारे बाधकमस्ति तत्रास्वरसोऽपि विशेषणान्वयः स्वीकर्तव्यः, यथा लम्बकर्णमानयेत्यादौ। यदि बाधकाभावमात्रादेव विशेषणान्वयोऽपि स्यात् तर्हि चित्रगुमानयेत्यादौ गवानयनमपि स्यात् बाधकाभावात्। यत्र विशेष्यान्वयबाधस्तत्र विशेषणान्वय एव, यथा स्वर्गी ध्वस्त इत्यादौ । एवंच प्रकृते विशेष्यान्वये बाधाभावात् विशेषणान्वयानङ्गीकारे बाधकाभावाच्च विशेष्यान्वय एव, न विशेषणान्वयः । 
+\[இந்த எம்பெருமானது சக்தியும், ஜ்ஞானமும், பலமும், மற்றையோரைவிட மிக உயர்ந்ததாயும், செயல்களும் - பலபடியானதும், இயல்பாகவும் உள்ளது.\]
 
-अन्यथा   
-इव   
-लक्ष्मीपतित्वस्यापि लक्ष्म्या विशेषणत्वाविशेषादुपायत्वान्वयप्रसङ्गः । किञ्चोपायत्वस्य बाधकाभावमात्रा- द्विशेषणान्वयाभ्युपगमे बह्वतिप्रसङ्गः प्राप्नुयात्, “अस्यां स्थिते जगन्नाथं प्रपद्येत जनार्दनम् " इत्यादिषु भगवदुपायत्वप्रतिपादनप्रकरणेषु 
+> "अपहतपाप्मा विजरो विमृत्युः विशोकः विजिघत्सः अपिपासः सत्यकामः सत्यसङ्कल्पः"
 
-जगदादिबहुविधनिरूपकाणामुपायत्वान्वयप्रसङ्गः तेषामुपायत्वाङ्गीकारे बाधकाभावाच्च ।   
-विशेषणत्वाविशेषात 
+\[இந்த பரமாத்மா பாபஸம்பந்தம் எப்போதுமில்லாதவர், கிழத்தனம்-மரணம்-துன்பம்-உண்ணும் நீர்வேட்கை- இவைகளில்லாதவர், எண்ணம் - நினைத்ததை அடையக்கூடியவர், அவரது எண்ணம் யாவும் பழுதில்லாதவை.\]
 
-की नकली कना) \-   
-(.) 0 yoÛoriकना (50g। नीयं பிராட்டிக்கு புருஷகாரத்வமே உண்டு \- என்று பிடிவாதமாகக் dr.morpori. poना कृया \- " मत्प्राप्तिं प्रति जन्तूनां लक्षणं भवेत् । एतस्याश्च विशेषोऽयं निगमान्तेषु शब्द्यते ॥ " Tr   
-\*\*\*   
-என்பன 
+என்பன போன்ற பகவத்ஸ்வரூபம் குணங்களுடன் கூடியது என்பதைக் காட்டும் வாக்யங்களாலும் லக்ஷ்மியைக் குறிப்பிடுவது ஏற்கும்.
 
-போன்ற வ்யவஸ்தாவசனங்களைக் காட்டுகிறார்கள். \[ஸம்ஸாரஸாகரத்தில் கீழே விழுந்து வரும் ஜீவர்களுக்கு \- 
+கேள்வி: இப்படியானால் லஷ்மியும் ஜகத்காரணம் என்றால் "கப்பு iáபுபு" என்ற ச்ருதிக்கு விரோதமாகுமே. ஜகத்துக்கு இருவர்காரணம் என்பது காரண வாக்யங்களில் எங்கும் காணப்படவில்லையே? எனக் கேள்வி.
 
-27   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+பதில்: "आनीद् अवातस् स्वधया तद् एकम्" என்ற ஜகத்காரணவாக்யத்தில் स्वधा என்று பிராட்டியைக் காட்டி, லஷ்மீவிசிஷ்டனான பரமாத்மா ஒருவரே காற்று கூட ஸ்ருஷ்டிக்கப்படாத அந்த மஹாப்ரளயகாலத்தில் இருந்தார் என்பதால் तद्-एकम्-தாலே மற்றைய காரணவாக்ய ப்ரகரணங்களிலும் இப்படி பிராட்டியுடன் கூடிய பகவானே ஜகத்காரணம் என்பது ஏற்படுகிறது. இப்படி காணக் என்று ஒப்புக்கொண்டால் கௌரவம் வருகிறது - ஆகவே एकम् என்பதை கவனித்து ஜகத்துக்கு பரமாத்மா ஒருவரே காரணம் - என்பது தகுமே - என எண்ண வேண்டாம். एकम् என்று இருந்தாலும் "सर्वशाखाप्रत्यय" எப்படிக் கொள்கிறோமோ - [[P66]]
 
-என்னை (\=பகவானை) அடைய லக்ஷ்மியானவள் பரிந்துபேசுபவளாக பரமர்ஷிகளால் காட்டப்பட்டாள். இது எனக்கும் அபிமதமே. இப்படியில்லை என்றால் \-G'IRUCH என்ற ப்ரம்ஹலக்ஷணத்துக்கு அதிவ்யாப்தி முதலான தோஷங்கள் வரும். இதையே வேதாந்தங்களும் கூறுகின்றன\] \- என்று இதற்கு பொருள். இந்த வசனங்களை ஸேவித்தால் பிராட்டிக்கு புருஷகாரத்வத்தைக் காட்டுவதிலேயே நோக்கம் இருப்பது ஸ்வரஸமாக ஏற்படுகிறது. 3454 499: என்பதால் \- பகவானை அடைய அவரே உபாயம் என்பதும், ரி: ணட என்பதால் ஸ்பஷ்டமாகவே புருஷகாரத்வமே அன்றோ சொல்லப்பட்டன. அப்படி அவளும் உபாயமாய் இருந்தால் \- 144 என்று பகவான் சொல்லியிருக்க வேண்டும். அப்படி சொல்லவில்லையே? மீண்டும் மீண்டும் வசனங்களில் பிராட்டிக்கு புருஷகாரத்வம் ஒன்றே சொல்லப்பட்டிருக்கிறது. இந்த பிராட்டிக்கு புருஷகாரத்வம் ஒன்றே விசேஷம் என்பதை 2 fQziqisq4 என்று கூறியதே. "பிராட்டிக்கும் உபாயத்வம் உண்டு. இவளுக்கு அதிகப்படியான விசேஷம் இவள் புருஷகாரமாய் இருப்பதும்" என்று பொருள் கொள்ளலாமே என்னக்கூடாது. உபாயவிஷயத்தை கீழே முடிவுகட்டின பிறகு பிராட்டி புருஷகாரமாய் உள்ளாள் என்பதை விசேஷமாக இவ்வசனம் காட்டுகிறது \- என்பதே ஸ்வரஸம். பிராட்டியைவிட எம்பெருமானுக்கு விசேஷமில்லை என்பது இரண்டு வகையில் கூடும் असम्भवात्, अतिव्याप्त्या वा । அஸம்பவம் சொல்லமுடியாது. கள: TKF; என்றபடியால் ரக்ஷணத்துக்குத் தேவையான எல்லா அம்சங்களும் நிரம்பியவர் \- என்பது தெளிவு. ஆகவே என்ற   
-वै பகவத் வசனத்தில் ā என்று அவதாரணார்த்தகமான சொல்   
-\-   
-\- 
+लक्ष्म्युपायत्वदीपः
 
-वै   
-\- 
+ப்ரமாணாந்தரங்களால் - அதே போலிங்கும் ஆகக்கடவது. இதை சரமசுலோகாதிகாரத்தில் ஆசார்யர் காட்டியருளினார்:
 
-28   
-\-   
-लक्ष्म्युपायत्वदीपः 
+மேலும்,  
+> "एकं जगद्-उपादानम् इत्य्-उक्ते ऽपि प्रमाणतः ।" என்று.
 
-உள்ளபடியால் \- எம்பெருமான் ஒருவரே உபாயம் \- என்பது தெளிவு. "ச புரி: 444" என்று உள்ளபடியால் லக்ஷ்மீபதியான நிலையில் லக்ஷ்மியோடு கூடவே உபாயத்வம் பகவானுக்கு ஏற்படவில்லையா? \- என்று கேட்கக்கூடாது. வித்துக்கு தில் அந்வயம் கொள்வதே சாஸ்த்ரகாரர்களின் நிலை. விசேஷ்யம் இங்கு நாராயணன். ஆகவே இது பொருந்தாது. பு என்ற போது ஆநயனக்ரியையில் தொங்குகிற காதுக்கும் ஸம்பந்தமிருந்தாலும், அது அங்கு முக்யம் இல்லை. லம்பகர்ணங்களை உடைய தேவதத்தனே முக்யம். அதே போல் இங்கும் लक्ष्मीपतिः என்று இருந்தாலும், கரிபுத்ரனான \+ql q முக்யன். இப்படி ஒப்புக் கொள்ளாவிடில் RejA 3-4 என்றவிடத்தில் விசித்ரமான பசுக்களையும் கொண்டுவர வேண்டியிருக்கும். அப்படி ஒரு ஸ்ஸாஸ்த்ரகாரரும் தெரிவிக்கவில்லை. ஆகவே பிராட்டி உபலக்ஷணமே \- என்பது பூர்வபக்ஷிகளின் கொள்கை. 
+> "एकोपास्तिविधाने ऽपि गुणादीनां यथा ऽन्वयः ।  
+> तथैकशरणव्रज्याविधाने ऽप्य् अनुमन्यताम् ॥  
+> यथा गुणादिवैशिष्ट्ये सिद्धोपायत्वम् अक्षतम् ।  
+> तथा पत्नीविशिष्टित्वे ऽप्य् अभीष्टं शास्त्रसम्मतम् ॥  
+> प्रभा-प्रभावतोर् यद्वत् एकोक्तौ इतरान्वयः ।  
+> एवम् अन्यतरोक्तौ स्यात् सह-वृत्त्य् अभिधानतः ॥  
+> अतो ऽनन्यपरानेक श्रुति-स्मृत्य् अनुसारतः ।"
 
-இப்படியில்லையேல்   
-\-   
-ணிக்கு உபாயத்தில் 
+என்பதையும் காண்க.
 
-அந்வயம் சொல்வதைப் போல் லக்ஷ்மீபதித்வரூபமான புரித்துக்கும் உபாயத்தில் அந்வயம் சொல்ல நேரிடும். உபலக்ஷண பக்ஷத்தில் இந்த கேள்வியே வராது. 
+அருணாதிகரணத்தில்-Aqd इங்கும் குளிf- ஒப்பவேண்டும்.
 
-மேலும், अस्यां स्थितो जगन्नाथं प्रपद्येत जनार्दनम् என்றவிடத்தில் ஜகத்துக்கெல்லாம் தலைவராய் இருப்பது, அஸுர ஜனங்களை ஹிம்ஸிப்பது என்று இரு சொற்கள் விசேஷணங்களாய் உள்ளன. இந்த இரண்டு விசேஷணங்களுக்கு ப்ரபத்தவ்ய கோடியில் பகவானைப் போல் ஸம்பந்தம் கொள்ள வேண்டிவரும். இது ஒருவருக்கும் விருப்பமானதில்லை.   
-1 
+இவ்வளவு தூரம் சொல்லியதற்கு ப்ரமாணங்கள் வருமாறு:
 
-29   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> "अकारेणोच्यते विष्णुः सर्वलोकेश्वरो हरिः ।  
+> उद्धृता विष्णुना लक्ष्मीः उकारेणोच्यते सदा ॥  
+> मकारस् तु तयोर् दास इति प्रणव-लक्षणम्" (कठश्रुति)
 
-(ल.उ.दी) किञ्चैवं सति अखण्डार्थवादी विजयेत "सत्यं ज्ञानं अनन्तं ब्रह्म” इत्यादिस्वरूपलक्षणपरसमानाधिकरणवाक्येषु तदापादितस्य विशेषणानां अभ्युपगमप्रसङ्गात्। अभ्युपगमे   
-परस्परान्वयस्य   
-तुल्यन्यायतया 
+\[இது ரஹஸ்யாம்னாய வாக்யம் என்று ஸ்ரீஸ்துதி வ்யாக்யானத்தில் பாரத்வாஜ ஸ்ரீநிவாஸாசார்யர்\] ஸர்வலோகங்களுக்கும் தலைவரான ஸர்வரக்ஷகனான ஸ்ரீவிஷ்ணுவானவர் ப்ரணவத்தில் உள்ள முதல் எழுத்தான अ - என்ற எழுத்தால் சொல்லப்படுகிறார். எப்போதும் [[P67]]
 
-चापसिद्धान्तः। तस्मादखण्डार्थवादिनिरासार्थं विशेष्यान्वय एव स्वरसः, न तु विशेषणान्वयः सर्ववाक्यानां तथैव व्युत्पत्तिरिति वक्तव्यम् । तथा च प्रकृते विशेषणान्वयासंभवेन उपायत्वे साधारण्यप्रतीतिरयुक्तैव । ननु यद्यपि विशेष्यमात्रान्वय एवोपायत्वस्य प्रतीतिः न विशेषणान्वये, तथापि स्थलान्तरे लक्ष्म्याः अप्युपायत्वप्रतीतेरुपायत्वं साधारणमिति सिद्धं कृत्वा पुरुषकारत्वं विशेष इत्युक्तिरिति चेन्न । उपायत्ववचनानामन्यथासिद्धेर्वक्ष्यमाणत्वात्, स्थलान्तरेऽप्युपायत्वप्रतीतेरभावादुपायत्वं   
-साधारणं न 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-इत्यर्थोऽनुपपन्नः।   
-नन्वेवं   
-सति 
+திருமார்பில் அவரால் தாங்கி வரப்படும் லக்ஷ்மீயானவள் उ = உ என்ற எழுத்தால் தெரிவிக்கப்பட்டாள், म् என்ற எழுத்து அவ்விருவருக்கும் தாஸபூதனான ஜீவனைக் கூறும். இதுவே ப்ரணவம் என்பது - என இதற்குப்பொருள்.
 
-व्यवस्थावचनबलाद्वचनान्तराणामन्यथासिद्धिः,   
-विशेष 
+இனி இதே கருத்துள்ள ஸ்ம்ருதி வாக்யம்:
 
-चक्रकाश्रयापत्तिः, 
+> ”अकारश् चित्-स्वरूपस्य विष्णोर् वाचक इष्यते ।  
+> उकारः चित्-स्वरूपायाः श्रियो वाचितया विदुः ॥  
+> मकारस् तु तयोर् विप्र! श्री-नारायणयोः सदा ।  
+> आत्मनः शेष-भूतस्य वाचकः श्रुति-चोदितः ॥”
 
-तदन्यथासिद्धौ   
-च 
+அளவிலடங்காத பேரறிவாளனான ஸ்ரீவிஷ்ணுவைக்கூறும் अ என்ற எழுத்து, उ - என்ற எழுத்தும், அதே போல் அபரிமிதமான ஜ்ஞானமே உருவான பெரிய பிராட்டியாரைக்கூறும். இத்தகைய ஸ்ரீக்கும் நாராயணனுக்கும் எப்போதுமே சேஷபூதனான ஜீவாத்மாவை म् என்ற எழுத்து கூறும் -என்பதாக ச்ருதி - எனப்பொருள்.
 
-साधारण्याप्रतिपत्तिः, तदप्रतिपत्तौ च विशेषणानन्वयप्रयुक्तव्यवस्थासिद्धिरिति चेन्न। विशेषणानन्वयस्य साधारण्याप्रतिपत्तिमूलकत्वाभावात् विधेयस्य विशेष्यमात्रान्वय एव स्वरसतस्सर्वत्र प्रतीयते, न विशेषणानन्वय इत्युक्तत्वात्, सर्ववाक्यानां विधेयस्य विशेष्यमात्रान्वय- बोधकत्वव्युत्पत्तिस्वारस्यवलेन विशेषणानन्वयसिद्धेः । किञ्च, अहमुपायस्सा पुरुषकारभूतेति विभागकरणेन एकैकव्यक्तिनियतत्वेनैकस्य प्रतीतेर्भगवतः पुरुषकारत्वाभावः लक्ष्म्याश्चोपायत्वाभावोऽर्थात् सिद्ध्यतीति तद्वलादेव व्यवस्थासिद्धिः । व्यवस्थावलादेवोपायत्ववचनानां अन्यथासिद्धिः, न 
+(लक्ष्म्युपायत्वदीपः) देवतात्ववत् “आग्नावैष्णवम् एकादश-कपालम्" इत्य्-आदाव् अग्ना-विष्णूभय-निष्ठ-एक-लक्ष्मी-नारायणोभय-निष्ठ-एक-शेषित्वावगमेन तथा-विध-सर्व-शरीरत्व-प्रतीत्या तादृशम् एव स्वाधीन-त्रिविध-चेतन-अचेतन-स्वरूप-स्थिति-प्रवृत्ति-भेदत्वम् अवगम्यत इति तद्-अन्तर्गत-कारणत्वम् अपि तादृग् एव सिद्ध्यति, ततश् च स्वरूप-निरूपकत्व-निबन्धन-स्वरूप-अनुबन्धित्वेनैक्यासम्भवात् न कारणत्वादेस् साक्षाल् लक्ष्म्याम् अन्वय इत्य् एतत् तावद् अनुपपन्नम् । तथाहि, अनेन हि लक्ष्मीर् जगत्-कारणम् न भवति ईश्वरैक्याभावात् सम्मतवद् इत्य् उक्तम् भवति, तत्र कारणत्वाभावः पर्याप्त-वृत्त्या व्यासज्य-वृत्त्या वा । नाद्यः, सिद्ध-साधनात् । न द्वितीयः, सूक्ष्म-चित्-अचितोः व्यासज्य-वृत्त्योपादान-कारणत्वाङ्गीकारेण व्यभिचारात्, पूर्वोक्त-श्रुति-स्मृत्यादिभिर् लक्ष्म्याम् व्यासज्य-वृत्ति-कारणत्व-अवगमेन किम् ऐश्वर्यावच्छिन्न-निरूपितैक्याभावात् ? बाधापत्तेश् च । हेदुर् अपि उतैश्वर्याधिकरण-भगवत्-स्वरूप-मात्र-निरूपितैक्याभावो विवक्षितः । न प्रथमः, असिद्धेः, “अस्येशाना जगतो विष्णुपत्नी”, “ईश्वरी सर्वभूतानां तामिहोपह्वये श्रियम्", "लक्ष्म्या समस्तं चिद्-अचित्-स्वरूपं व्याप्तं तद्-ईशस्य तु सापि सर्वम् । तथापि साधारणम् ईशितृत्वं श्री-श्रीशयोर् द्वौ च सदैकशेषी॥ इत्य्-आदिभिर् अखिल-निरूपित-ऐश्वर्यस्यैकस्य उभय-वृत्तित्वावगमात् तद्-अवच्छिन्न-ऐक्यस्यैव लक्ष्म्यां सत्त्वात् । न चरमः, सूक्ष्म-चित्-अचितोः व्यभिचारात् । [[P68]]
 
-ननु   
-तूपायत्ववचनानां अन्यथासिद्ध्यादिवलाद्व्यवस्थासिद्धिः । वचनान्तरेषूपायत्वप्रतिपादनेनानेन वचनेनोपायत्वाभावप्रतिपादनं विरुद्धमिति चेन्न। लक्ष्म्या उपायत्वं नास्तीति शब्दविधया वोधकत्वाभावेन विरोधाभावात्, अनेन वचनेन स्वार्थप्रतिपत्त्यनन्तरं व्यवस्थितविशेषाभिधानमहिना 
+(ல.க) மேலும் "आग्नावैष्णवम् एकादशकपालम्” என்பன போன்றவிடத்தில் \[அக்னி-ஸ்ரீவிஷ்ணு என்ற தேவதாத்வந்த்வத்தை தேவதையாக உடையதும், பதினொரு மண் அகல்களில் ஸ்ரபணம் செய்து பங்கிட்டு வைத்ததுமான சருவைப்பயன்படுத்தி ஹோமம் செய்யக்கடவது – என்பது இந்த ச்ருதிக்குப் பொருள்.\] தேவதாத்வந்த்வம் என்பது மீமாம்ஸகர்கள் ஒப்பியது. அதே போல் இங்கும் லக்ஷ்மீ-நாராயணர்கள் இருவரும் ஸமப்ரதானர்களான தேவதைகள். எதில்? நம்முடைய ஸ்வாதுதமமான ஆத்மரூப ஹவிஸ்ஸை ஹோமம் செய்யும் போது. இதை -
 
-30   
-लक्ष्म्युपायत्वदीपः 
+> “हविर् गृहीत्वाऽऽत्मरूपं वसुरण्येति मन्त्रतः ।  
+> जुहुयात् प्रणवेनाग्नौ अच्युताख्ये सनातने ॥”
 
-इतरनिषेधस्य गम्यमानार्थत्वात्। “विशेषनिषेधश्शेषाभ्यनुज्ञासूचकः” इतिवत् “विशेषविधिश्शेषनिषेधसूचक" इति न्यायात् । 
+என்ற வசனம் காட்டியது. தைத்திரீयச்ருதியில் ந்யாஸவித்யையை ஸ்பஷ்டமாகவே வேள்வியாகக்காட்டி, lipங்களையும் விளக்கியதைக் காண்க.
 
-(ல.க) மேலும், ÅÅ என்னப்பட்ட அத்வைதியை ஸ்ரீபாஷ்யகாரர் மறுக்கும் ப்ரகரணமே ஒட்டாமல் போய்விடும். அதாவது \- Hi sl4 3- 484 என்றவாறான இடங்களில் பரமாத்ம ஸ்வரூபத்தைக் காட்டித்தரும் இத்தகைய   
-ங்களில்   
-ஒவ்வொரு சொல்லாலும் தெரிவிக்கப்பட்ட ப்ரம்ஹ விசேஷணங்கள் யாவற்றிற்கும் ஒன்றோடு ஒன்று அந்வயிப்பது நீங்கள் கூறுவதைப் போல் ஓப்புக்கொள்ள வேண்டிவரும். அப்படி ஒப்புக்கொள்வது நமது ஸித்தாந்தத்துக்கு விருத்தம். ஆகவே, Uபுகளை நிரஸிப்பதற்காக எல்லாவற்றிற்கும் விஸேஷ்யமான ப்ரம்ஹத்தில் அந்வயிப்பதே நேராகும். ஒன்றோடொன்று விஸேஷணாந்வயம் தகாது. ஆகவே இங்கும் விஸேஷணாந்வயம் ஸம்பவிக்காதபடியால், மோசேஷாபாயத்தில் பிராட்டிக்கும் ஸம்பந்தமுண்டு என்பது நேரில்லை \- என்பது பூர்வபக்ஷியின் கருத்து. 
+மேலும் "லக்ஷ்மீக்கு ஜகத்காரணத்வம் கூடாது" என்றது annald என்ற காரணத்தாலா? அப்படியானால் காரணத்வம் இங்கு qi =முழுவதுமாக என்றா? व्यासज्यवृत्त्या वा ? = ஒருசில போது என்றா? பர்யாப்தவ்ருத்தி என்பது கூடாது. அதை நாங்களும் கூறுகிறோமே. [[P69]]
 
-ஸித்தாந்திச்சாயயா இடையில் ஒரு கேள்வியும், அதற்கு பதிலும்:\- விஸேஷ்யமாத்ராந்வயத்தில் தான் நோக்கு. ஆயினும் வேறு ப்ரமாண வாக்யங்களில் பிராட்டிக்கும் மோக்ஷோபாயத்வம் உண்டு- என்று காட்டியுள்ளபடியால், உபாயத்வம் பகவான்\-பிராட்டி என்று இருவருக்கும் ஸாதாரணம் என்று கூறுகிறோம்   
-என்பது 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-ஸித்தாந்திச்சாயயா பூர்வபக்ஷம்.   
-\- 
+மாயிற்றே அது. வ்யாஸஜ்ஜ்யவ்ருதத்யா – என்பதும் கூடாது. ஸூக்ஷ்ம சித்-அசித் என்பவைகளுக்கும் உபாதானகாரணத்வம் வ்யாஸஜ்ஜ்யவ்ருத்த்யா இசைந்துள்ளோமே. கீழே காட்டிய ப்ரமாணங்களைக் கொண்டு பார்க்கும்போது லக்ஷ்மிக்கும் வ்யாஸஜ்ஜ்யவ்ருத்த்யா காரணத்வம் உண்டு - என ஏற்படுகிறபடியால் ச்ருதி-ஸ்ம்ருத்யாதிகளுக்கு விரோதமாய் நாம் கூறக்கூடாது. நீங்கள் காட்டிய காரணமும் பொருந்தாது. பிராட்டிக்கு உள்ள ஐச்வர்யம் 37<\[874 = அதாவது எம்பெருமானுக்கு உள்ள ஐச்வர்யத்தை விட குறைவுபட்டது - என்பது பொருந்தாதே.
 
-இதற்கு பதில் \- பிராட்டிக்கு உபாயத்வம் உண்டு என்று காட்டுவதைப் போன்ற வசனங்களுக்கு 3: 
+1  
+ரி4கப்புப் 24, கச என்பன போன்ற ப்ரமாணங்களால் ஐச்வர்யம் திவ்யதம்பதிகளிருவரிடமும் இருப்பதைக் காட்டினோமே.
 
-31   
-\-   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+(लक्ष्म्युपायत्वदीपः) यद् अपि पत्नीत्व-प्रयुक्त-पारतन्त्र्य-स्वाभाव्येन पत्न्य्-अन्तरादिवच् चेतन-समानाकारत्वाद् इत्य् उक्तम्, तद् अपि न शोभते । अत्र हि जीवत्वानीश्वरत्वादिक चेतन-समानाकारा, पारतन्त्र्य-स्वभावत्वात्, भूम्यादिवद् इति प्रयोगो निष्पद्यते । स चानुपपन्नः "यस्या वीक्ष्य मुखं तद्-इङ्गित-पराधीनो विधत्ते ऽखिलम्" इत्य्-आद्य्-उक्त-रीत्या लक्ष्मी-पारतन्त्र्यवति अर्जुन-सारथ्यादिना प्रसिद्ध-आश्रित-पारतन्त्र्यवति भगवति हेतोर् अनैकान्त्यात् । अणु-चेतनत्वादिना सोपाधिकत्वाच् च । न च तस्य साधन-व्यापकत्वात् नोपाधित्वं, पक्षे ऽप्य् अणु-चेतनत्व-सत्त्वाद् इति वाच्यम्, “अहं रुद्रेभिर् वसुभिश् चराम्य् अहम् आदित्यैर् उत विश्वैर् देवैः । अहं जनाय समदं कृणोम्य् अहम् द्यावापृथिवी आविवेश”, “या सा भगवती शक्तिः (पाठभेदः भगवतश् शक्तिः) अनन्ता सर्वभावगा । स्वातन्त्र्य-रूपा सा विष्णोः प्रस्फुरत्ता जगन्मयी", "यथा सर्वगतो विष्णुस् तथैवेयं द्विजोत्तम", "त्वया च विष्णुना चाम्ब व्याप्तम् एतत् चराचरम्” ("यथा मयापि सा व्याप्ता तया व्याप्तो ऽहम् ईश्वरः । अहं नारायणी नाम सा सत्ता वैष्णवी परा, देशात् कालात् तथा रूपात् परिच्छेदो न मे स्मृतः” [[P70]]
 
-\-   
-நீங்கள் கூறுவதை விட வேறு பொருள் நாங்கள் கூறப்போகிறோம். ஆகவே, அது நிறைவேறாது \- என்று. 
+लक्ष्म्युपायत्वदीपः
 
-மீண்டும் பூர்வபக்ஷி கூறுகிறான் \- "எம்பெருமான் ஒருவருக்கே உபாயத்வம்" என்ற வ்யவஸ்த்தாபலத்தால் வசநாந்தரங்களுக்கு அரி: என்று சொல்லவேண்டும். அது அவுரி4   
-3 என்பது முடிவானால்தான் \- பரமாத்மா- பிராட்டி ஆகிய இருவருக்கும் உபாயத்வம் ஸாதாரணம் என்பது ஸித்திக்கும். இந்த எண்ணமில்லாவிட்டால் தான் விசேஷணங்கள் அந்வயிக்கா \-என்பதாலான வ்யவஸ்த்தை ஏற்படும் \- என்று சக்ரகம் என்ற குற்றம் வருமே\! என்பது கேள்வி. 
+इत्य्-आदि-प्रमाण-सहस्र-सिद्धत्वाल् लक्ष्मी-विभुत्वस्योक्त-उपाधेः साधन-अव्यापकत्वस्य वज्रलेपायितत्वात् । "श्रद्धया देवो देवत्वम् अश्नुते" इति श्रुतौ च देव-शब्दस्य लक्ष्मी-विशिष्ट-वाचकतया "क्षरं प्रधानम् अमृताक्षरं हरः क्षरात्मानौ ईशते देव एकः" इति श्रुत्या “अस्येशाने”त्य्-आदि-प्रमाणैश् च लक्ष्म्या अप्य् ऐश्वर्य-अवगमेन अनीश्वरत्व-घटित-साध्यस्य [[वाधाच्च|बाधाच्च]] । न चैतत्-दोष-परिजिहीर्षया पारतन्त्र्य-पदं निरुपाधिक-स्वातन्त्र्याभाव-परम् इति वाच्यम्, “निरुपाधि-स्वतन्त्रश् च स्वामी नः करुणा-निधिः” इति-वत्, “निरुपाधि-स्वतन्त्रा च स्वामिनी नः कृपा-निधिः”, “स्वातन्त्र्य-रूपा सा विष्णोः” इत्य्-आदिभिश् श्रियो ऽपि निरुपाधिक-स्वातन्त्र्यावगमेन हेतोर् असिद्धत्वात् ।
 
-என்பதை   
-\-   
-இதற்கு மறுப்பு இருவருக்கும் உபாயத்வம் பொது \- அடிப்படையாகக் கொண்டதில்லை விசேஷ்யமாத்ரத்தில்   
-விசேஷணாந்வயம் என்பது. 
+(ல.க) கேள்வி: உலகில் மனைவி என்பவள் கணவனுக்கு அடங்கியிருப்பவள் - என்பதை அறிவோம். கணவனைவிட சற்றே ஸ்வாதந்த்ர்யம் குறைந்தவள் என இத்தால் puGw. शुक पत्न्याः पारतन्त्र्यस्वभावेन - Gurm சேதனனாகவே இவள் இருக்கலாமே - என்பது அடியோடு பொருந்ததாது.
 
-விசேஷணங்களுக்கு அந்வயம் தான் எங்கும் ஸ்வரஸமாக 
+பதில்: ஜீவனைப்போன்று ஈச்வரனில்லாமலிருப்பது - பரதந்த்ரையாயிருப்பது - இவை பிராட்டியிடம் உண்டு - òrmòrmir_2_1कना urgi. अा mifiwww. यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो विधत्तेऽखिलम् என்ற கூடஸ்த்தர்களான மஹான்கள் அருளியதை கவனிக்காமல் வந்த பேச்சு இது. அர்ஜுனனுக்கு வேலையாளாய் வந்து தேரும் ஊர்ந்து தூதும் போனான் பகவான். அங்கு தன் விருப்பப்படியே அப்படியானானே ஒழிய - நம்மைப்போல் கர்மங்களுக்கு 2Lu6 √√, 3 प्रेम-वाल्लभ्यादिना Limitq.कं कमी [[P71]]
 
-ஏற்படும். 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-\-   
-மேலும் பூர்வபக்ஷி கூறுகிறான் \- “நான் உபாயம், பிராட்டி புருஷகாரபூதை” என்ற பகவத் வாக்யத்தால் இந்த இரண்டும் கூறாக விபஜித்தவை என்பது ஏற்படுகிறது. பகவானுக்கு எப்படி புருஷகாரத்வம் இல்லையோ, அப்படி பிராட்டிக்கு உபாயத்வமில்லை என்பதே ஸ்வரஸமாக ஏற்படுகிறது. இப்படி வ்யவஸ்த்தை கொள்வதாலேயே எங்காவது பிராட்டிக்கு உபாயத்வம் உண்டு \- என்று கூறும் வசனமிருந்தாலும் அவைகளை அரிகங்களாகக் கொள்ளவேண்டும். லக்ஷ்மிக்கு உபாயத்வம் இல்லை என்று ஸ்பஷ்டமான வசனம் இல்லாவிடிலும், புருஷகாரத்வத்தைக்   
-பிராட்டிக்கு உபாயத்வமில்லை \- என்பது தானே கிடைக்கிறது. fozvf\-iq: 244444: \[குறிப்பிட்ட ஒன்று இல்லை என்றால்,   
-கூறுவதால் 
+நேரம் Rனாகிறான் பகவான். அதைக்கொண்டு - இந்த திவ்யதம்பதிகளில் இன்னார் உயர்ந்தவர் - இன்னார் தாழ்ந்தவர் என்று நாம் முடிவுக்கு வர முடியாது. 94Üங்கள் காட்டியபடி என்பதே நேராகும்.
 
-32   
-\- लक्ष्म्युपायत्वदीपः 
 
-மற்றவைகள் உண்டு \-என்பது தானே தெரியவரும்\] என்ற jurib Guroo \- विशेषविधिः शेषनिषेधसूचकः \[mumri gir விதித்தால், அதைத்தவிர மற்ற ஸாமாந்ய தர்மங்களில் இடையூறானவை அங்கு இல்லை என்பதை அது குறிப்பால் காட்டும்\] என்றபடிக்கு இப்படியே பொருள் கொள்ள 
+ஜீவன் பரதந்த்ரன் என்பது முக்ததசையிலும் உண்டு. அதனாலே ஸூத்ரகாரர் "3 {q = 3-ரிபுரி:" என்றார். அத்வைதிகள் கூறுவதைப்போல் முக்ததசையில் ஜீவன் ப்ரஹ்மத்துடன் ஐக்யமாகிவிடுவதாகில் அரிபுரி: என்பதே போதும். 3- என்ன வேண்டாம்! ஆகவே முக்த தசையிலும் இவனுக்கு அதிபதியாக பகவான் தனித்தே எழுந்தருளியிருக்கிறார்  
+என்றே ஸூத்ரகாரரின் திருவுள்ளம். மேலும் பிராட்டி விஷயமான ச்ருதிகளைக் காணீர்:
 
-(ल. उ.दी) वस्तुतस्तु साधारण्यप्रतिपत्तिरेवायोग्य उभयोरेकरूपोपायत्वस्य दुर्निरूपत्वात्, लक्ष्म्या अनुमन्तृत्वरूपमुपायत्वम्, तच्च भगवति नास्ति । भगवतस्तु सर्वपापनिवर्तनानुकूलसङ्कल्परूपज्ञानेच्छाकृतिमत्त्वम्। तच्च लक्ष्म्या नास्तीति न साधारण्यप्रयुक्तदोषलेशावकाशः । अत एव भगवति विधीयमानोपायत्वस्य विशेषणान्वयशङ्काऽपि दूरोत्सारिता । ननूपायत्वं कारणत्वं, तच्च अनन्यथासिद्धनियतपूर्ववृत्तित्वम् । तच्च साधारणमिति चेन्न । व्यापारकर्तृत्वव्यापारकर्मत्वोभयराहित्ये सत्यपि कारणत्वं सत्तया कारणत्वमेव । एवंविधसत्तया कारणत्वं ह्यदृष्टकालादीनामेव । तदन्येषां तु कारणत्वं तत्तत्कार्यानुकूलव्यापारकर्मत्वेन वा व्यापारकर्तृत्वेन वा वक्तव्यम् । व्यापारकर्मत्वस्य कर्त्रधिष्ठेयत्वरूपत्वेन 
+> “अहं रुद्रेभिर् वसुभिश् चराम्य् अहम् आदित्यैर् उत विश्वैर् देवैः ।  
+> अहं जनाय समदं कृणोम्य् अहं द्यावापृथिवी आविवेश ॥”
 
-लक्ष्म्यास्तत्सम्भवेऽपि 
+\[எட்டு வஸுக்கள், பதினோரு 鲁த்ரர்கள், பனிரண்டு ஆதித்யர்கள் எல்லா தேவர்களிலுமாக இவர்களுள் புகுந்து நானே வளைய வருகிறேன். மக்களுக்கு நானே ஸந்தோஷத்தை உண்டு பண்ணுகிறேன், நானே மேல் உலகங்கள்-கீழிலிருக்கும் உலகங்கள் எல்லாவற்றையும் உட்புகுந்து இயக்குகிறேன் - என்று இந்த ச்ருதிக்குப் பொருள். இத்தால் லக்ஷ்மீதேவி விபுவானவள் என்பது ஏற்படுகிறதே!\]
 
-भगवदधिष्ठितचतुर्मुखादिन्यायेन   
-भगवत्यसम्भवः, 
+> "या सा भगवती शक्तिः (भगवतश् शक्तिः - पाठभेदः) अनन्ता सर्वभावगा ।  
+> स्वातन्त्र्य-रूपा सा विष्णोः प्रस्फुरत्ता जगन्मयी ॥" [[P72]]
 
-कुलालाद्यधिष्ठितदण्डादिन्यायेन 
+लक्ष्म्युपायत्वदीपः
 
-वा मोक्षरूपकार्यं प्रति 
+இவள் ஸ்ரீவிஷ்ணு ஒருவரால் மட்டுமே அறியக்கூடியவள், உலகம் முழுவதிலும் வ்யாபித்தவள்-\]
 
-पुरुषकारातिरिक्तव्यापारासम्भवेन लक्ष्म्याः कारणत्वानुपपत्तिः। व्यापारकर्तृत्वेन कारणत्वस्य तु भगवत्येव सम्भवः, तस्यैव "मोक्षयिष्यामि " 
+> "यथा सर्वगतो विष्णुस् तथैवेयं द्विजोत्तम”
 
-इति   
-सङ्कल्परूपव्यापारकर्तृत्वप्रतीतेः । 
+\[ஸ்ரீவிஷ்ணுபுராணம்: அந்தணர்களின் சிறந்தவரான மைத்ரேயரே! எம்பெருமான் எப்பொருளிலும் எப்போதும் எங்கும் எப்படி வ்யாபித்திருக்கிறாரோ - அதே போன்றவள் பிராட்டியும்\]
 
-पुरुषकरणातिरिक्तमोक्षानुकूलव्यापाररहितायास्तस्यास्तथाविधकारणत्वासम्भ 
+> "त्वया च विष्णुना चाम्ब व्याप्तमेतच्चराचरम्"
 
-व इत्युभयोरेकरूपकारणत्वस्यासम्भवान्न विशेषणान्वयप्रसक्तिः । 
+\[ஸ்ரீவிஷ்ணுபுராணம்: உலகினர் யாவருக்கும் தாயான ஸ்ரீதேவியே! உன்னாலும் ஸ்ரீவிஷ்ணுவாலும் இந்த அசையக்கூடியதும் அசையாததுமான உலகம் வ்யாபிக்கப்பட்டது - இது பிராட்டியைக் குறித்து இந்த்ரன் விண்ணப்பித்த வாக்யம்.\]
 
-33   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> "यथा मयापि सा व्याप्ता तथा व्याप्तो ऽहम् ईश्वरः ।  
+> अहं नारायणी नाम सा सत्ता वैष्णवी परा ।  
+> देशात् कालात् तथा रूपात् परिच्छेदो न मे स्मृतः ॥"
 
-(ல.க) மேலும் பூர்வபக்ஷி கூறுகிறான்:\- பெருமாள்\-பிராட்டி என்ற இருவருக்கும் ஒரே மாதிரியான உபாயத்வம் சொல்லமுடியாது. பிராட்டிக்கு எம்பெருமான் செயலை அப்படியே நடக்கட்டும் என்ற 31\~4-41 இது பகவானிடம் கிடையாது. பாபங்களிலிருந்தும்' பத்த சேதனனை மீட்டு மோக்ஷம் அளிக்கிறேன்" \- என்றல்லவோ பகவானின் செயல். இது பிராட்டிக்கு இல்லையே?   
-"எல்லா   
-வகையான 
+\[ஸர்வேச்வரனான நான் எப்படி எங்கும் வ்யாபித்திருக்கிறேனோ - அப்படி அந்த பெரிய பிராட்டியும் என்ற பெயரில் வ்யாபித்திருக்கிறாள். இந்த தேசத்தில் - இந்த காலத்தில், இந்த உருவில் தான் இருப்பேன் – என்ற புரி அளவிட்டுக் கூறும் நிலை எனக்கில்லை- இது பகவான் கூறியது.\]
 
-ஸித்தாந்திச்சாயயா மீண்டும் ஆசேஷபமும், அதற்கு ஸமாதானமும்:\- 
+வைகளைப் போன்ற பல்லாயிரம் ப்ரமாணங்கள் லக்ஷ்மியை விபுவாகத் தெரிவிக்கின்றன.
 
-ரூபமான 
+அ_gd' என்கிற வாக்யம் லக்ஷ்மீயுடன் கூடினவனையே தேவனாகக்காட்டும். क्षरात्मानौ re :, க: என்ற வாக்யம் மூலப்ரக்ருதி- [[P73]]
 
-என்பது   
-உபாயத்வம் என்பது மோக்ஷப்ரதான பகவத்கார்யத்துக்கு காரணத்வம். காரணம் கட்டாயமாக கார்யம் உண்டாவதற்கு முன்பு இருந்தே தீரவேண்டும். இது பெருமாள்\-பிராட்டி இருக்கிறதே\! எனக்கேள்வி. 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-பதில்   
-\-   
-இருவருக்கும் 
+ஜீவர்களைக் கூறி - இவ்விரண்டையும் = எளங்களுக்கு எவன் தலைவனோ - அவன் பிராட்டியுடன் கூடிய தேவனே எனக்காட்டியது. என்பன போன்றவைகளால் லக்ஷ்மிக்கும் ஸர்வவிதமான ஐஸ்வர்யமும் உண்டு - என ஏற்படுகிறது - ஆகவே பூர்வபக்ஷிகள் கூறியது தகாது.
 
-ஒரு செயலைச்செய்யும் கர்த்தாவாக இருப்பதோ, அல்லது அந்த செயலுக்கு கர்மமாக இருப்பதோ இல்லாவிடினும், காரணத்வம் உண்டு. அது நியமேன செயல் நிகழ்வதற்கு முன்பு இருக்கவேண்டியது பற்றியே. இப்படித்தான் அத்ருஷ்டம், காலம் முதலானவைகளை எல்லா செயல்களுக்கும் காரணமாகக் கூறுகிறோம். இத்தகைய அத்ருஷ்டம், காலம் இவைகளைத்தவிர மற்றவைகள் \- செயல் ஏற்படக் காரணமாகவோ \- செயலில் பயனாகவோ இருந்தே ஆக வேண்டும். 
+கேள்வி: பிராட்டிக்கு இருக்கும் ஸ்வாதந்த்ர்யம் நிருபாதிகமில்லை. கங் என்ற போது - மனைவியான பிறகு அவளுக்கும் கணவனின் எல்லா பொருட்களிலும் தலைவியாக வரும் நிலை உண்டு என்பதைப் போன்று இங்கு 44-புரிக4 என்னலாமே? எனக் கூற முடியாது.
 
-ஒரு செயல் உண்டாக ஒரு கர்த்தா தேவை. அந்த கர்த்தாவுக்கு அதிஷ்ட்டானத்தின் ஆதாரமாக இருப்பது பகவானிடம் சேராது. பிராட்டிக்கு இது கூடினாலும் குயவன், கொம்பு\-சக்கரங்களை செயல்பட வைப்பதைப் போன்றும், பகவான் நாம\-ரூபவ்யாகரணம் செய்ய 
+பதில்: 2 : கரிபு: என்று பகவானைக் காட்டியதைப் போன்று 7: ரிரிபு: என்று பிராட்டியையும் ப்ரமாணம் காட்டியதே. இப்படியே स्वातन्त्र्यरूपा सा வுயர்: \[ஸ்ரீவிஷ்ணுவின் ஸ்வாதந்த்ர்யம் என்பதே பிராட்டி என்ற உருவில் வந்தது\] என்பன போன்றவைகளையும் காண்க.
 
-34   
-\- 
+(लक्ष्म्युपायत्वदीपः) कारणत्वादेर् ईश्वरैक-असाधारण्याच् चेत्य् अनुपपन्नम्, किम् अत्र कारणत्वं लक्ष्मी-वृत्ति न भवति ईश्वर-मात्र-वृत्तित्वाल् लक्ष्मी-पतित्ववद् इति विवक्षितम्, उत लक्ष्मीः न जगत्-कारणम् ईश्वर-भिन्नत्वात् सम्मतवद् इति विवक्षितम् । नाद्यः, पर्याप्त-वृत्तित्व-अभावस्य साध्यत्वे सिद्ध-साधनम्, व्यासज्य-वृत्तित्व-अभावस्य तत्त्वे बाध इति प्रथमानुमानोक्त-दोषाणाम् अनपायात् । ईश्वर-मात्र-वृत्तित्वाद् इति हेतौ ईश्वरेतरावृत्तित्वम् एव, तद्-वृत्तित्व-अंशस्य व्यर्थत्वात्, तच् चैश्वर्यावच्छिन्नेतरावृत्तित्वं चेत् - लक्ष्म्या अप्य् ऐश्वर्यावच्छिन्नतया भगवद्-वृत्तित्व-अभावम् इव तद्-वृत्तित्व-अभावम् अपि न, भगवत्-स्वरूप-मात्रेतरावृत्तित्वं चेद् असिद्धिस् स्यात्, कारणत्वस्य [[P74]]
 
-\-   
-लक्ष्म्युपायत्वदीपः 
+लक्ष्म्युपायत्वदीपः
 
-சதுர்முகனான பிரமனை அதிஷ்டானம் செய்தது போன்றும்   
-மோக்ஷரூபமான பயன் ஏற்பட \- பரிந்து பேசுவது பகவானிடத்தில் \- என்றதைத்தவிர வேறு இல்லாதபடியால் \- லக்ஷ்மிக்கு   
-ஜகத்காரணத்வம்   
-ஏற்படாது. ஜகத்வ்யாபாரங்களை ஸாக்ஷாத் ஆக பகவானே செய்தருள்வதால் அது பகவான் ஒருவரிடம் மட்டிலுமே இருக்கும். ஏனெனில்   
-मोक्षयिष्यामि\= “2\_Öालग ஸம்ஸாரபந்தத்திலிருந்து விடுவித்து மோக்ஷம் அளிக்கப் போகிறேன்" என்ற ஸங்கல்பரூபமான வ்யாபாரம் பகவான் ஒருவரே செய்வதன்றோ. புருஷகாரமாயிருப்பது என்றது தவிர மோக்ஷாநுகூலமான வேறு வ்யாபாரம் பிராட்டியால் செய்யப்படவில்லையாகையால் பகவானுக்கு விாேஷமாக பிராட்டி அமையமுடியாது. உபலக்ஷணவிதயா அன்வயமே.   
-\- 
+भगवत्-स्वरूपेतर-लक्ष्मी-निष्ठत्वस्य प्राग् एव साधितत्वात् । प्रथमानुमानाद् अविशेषेण तत्रोक्त-दोषाणाम् अनपायात् । न द्वितीयः, यच् च तद्-अनुमोदन-तत्-प्रीतिकरत्वम् अस्याः लक्ष्मीर् भगवत्-कार्य-जगत्-कारणम् न भवति तद्-अनुमोदेन तत्-प्रीतिकरत्वात् अनुमोदकवद् इत्य् अनुमानम् उक्तम्, तद् यजमान-कर्तृक-कर्मणि कर्तृ-भूतायां तत्-पत्न्यां हेतोर् अनैकान्त्यान् निरस्तम्, “भावाभावानुगा शक्तिस् सर्व-कार्य-करी विभोः” इत्य्-आदिभिर् भगवत्-சम्बन्धि-सर्व-कार्य-कारणत्वस्य लक्ष्म्यां सिद्धत्वाद् बाधित-विषयं चेदम् अनुमानम् । एवम् रक्षकत्व-शेषित्वाद्य्-अभाव-साधने ऽपि उक्त-दूषणान्य् एव प्रसरन्ति ।
 
-विनैव   
-(ल. उ.दी) नन्वेवमपि विशेषणान्वयः प्रसज्यत एव सत्तया कारणत्वस्य सम्भवात् भगवतस्सर्वकार्यकारणत्वेन व्यापाररूपकार्यं प्रत्यपि कारणत्वस्यावश्यकतया तत्रापि व्यापारान्तरापेक्षयाऽनवस्थाप्रसङ्गेन सुदूरं गत्वापि क्वचित्सत्तया कारणत्वं वाच्यम् । अन्यथा कार्यमात्रानुत्पादप्रसङ्गः । तथा च तद्रीत्या मोक्षेऽपि लक्ष्म्याः कारणत्वं व्यापारं विनैव स्वरूपसत्तामात्रेणोपपद्यत इति चेत् न ह्यनवस्थापरिहाराय क्वचित्कार्यानुकूलव्यापारविशेषव्यापारान्तरं करणत्वमङ्गीकृतमित्येतावता व्यापारमुखेन संपादयितुं योग्यमोक्षरूपकार्येऽपि तथा वक्तुं शक्यम्, अन्यथा क्वचिदपि व्यापारापेक्षा न स्यात्। तस्माद्व्यापारमुखेन मोक्षकारणत्वसम्भवेन प्राधान्येन कार्यं प्रति चेतनभूतायास्तस्यास्सत्तया कारणत्वमनुपपन्नमिति मोक्षं प्रति नानाविधकारणत्वस्याप्यसम्भवेन उपायत्वस्य न साधारण्यमित्युपायत्वं भगवतो विशेष एव । 
+(ல.க) ஜகத்காரணத்வம் முதலானவை - எம்பெருமானொருவனுக்கே அஸாதாரணமான லக்ஷணம் - என்பதும் தகாது. லஷ்மிக்குக் கணவனாய் இருப்பது எப்படி பகவான் ஒருவருக்கு மட்டிலும் சேரும் லக்ஷணமோ அப்படி இதுவும் - என்று கூறினால் அது தப்பு. qftgfttiGHTq: : = பலபேரிடமிருக்க முடியாதது - என்பதை ஸாதிக்க முற்பட்டால் அது நாங்களும் ஒப்பியதே. ஆகவே ஸித்தஸாதனம். व्यासज्यवृत्तित्वाभावसाधने = இருவரிடமும் சேர்ந்தே இருப்பது - என்பதைக் கூற முற்பட்டால் ईश्वरमात्रवृत्तित्वात् என்ற ஹேதுவில் Éனைத் தவிர்ந்தவர்களிடம் இல்லை - என்பது சொல்ல வேண்டும். ஈஸ்வர ஸ்வரூபத்தைவிட வேறான பிராட்டி ஸ்வரூபத்திலும் ஜகத்காரணத்வம் உண்டு என்று ஸாதித்தாயிற்றே. எம்பெருமான் செய்தருளும் ஜகத்வ்யாபாராதிகள் பிராட்டி 3{j=iq-4= செய்யலாம் என்று ஒப்புவது செய்கிறார் - இதுவே லஷ்மியின் ஸ்வரூபம் கொண்டு, கரி: ; 1 ஒன்றையே என்று - எரி என்று ஒரு அநுமானத்தை பூர்வபக்ஷிகள் [[P75]]
 
-35   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-(ல.க) வேறு வகையில் மீண்டும் ஆசேஷபம்:\- 
+சொன்னார்கள். வேள்வி செய்யும் யஜமானன் செய்யும் செயல்களின் ஸாக்ஷாத்கர்த்தாவாகவே இருக்கும் யஜ்ஞபத்னீ விஷயத்தில் = ஸரிவர பொருந்தி வராதபடியால் மறுக்கக்கூடியதே. Hqங்கள் f: என்பன போன்ற ப்ரமாணங்கள் பிராட்டியை எம்பெருமானைப் போன்று எல்லாச் செயல்களையும் செய்பவளாகவே தெரிவிக்கின்றன. ய்கள் என்ற போது ताच्छील्ये इनि प्रत्ययः. ஸர்வவிதமான செயல்களையும் உடனிருந்து செய்வதையே ஸ்வபாவமாக உடையவள் என்றன்றோ இதனால் தேறுகிறது. இந்த इनि प्रत्यय in "க்கு எeாகரிg" (3-2-134) என்ற அதிகாரத்தில் விதிக்கப்பட்டது. நம் பூர்வாசார்யர்கள் Hdqர்கள். அவர்கள் திருவாக்குகளை மறுக்க முற்பட்டால் - புவுமே ஏற்படும். இதே போல் सर्वरक्षकत्वसर्वशेषित्वाभावसाधन பண்ணினாலும் எடுபடாது.
 
-கார்யம் நடைபெற கட்டாயம் முன்பு காரணம் இருந்தாக வேண்டும் \- என்ற நியதிப்படிக்கு ஸர்வவிதமான 
+(लक्ष्म्युपायत्वदीपः) यद् अपि लक्ष्म्या अपि शेषित्वाद् भगवत एव सर्वाधिक-शेषित्वम् इति श्रुतिर् एवाह इति, “यः पूर्व्याये” इत्य्-आदि-श्रुत्य्-उपन्यसनं कृतं तद् अपि न रमणीयम्, सर्वाधिक-शेषित्वम् इत्य् अनेन सर्वाधिकत्वे सति शेषित्वम् इति विवक्षितं चेत् तस्यां श्रुतौ तद्-वाचक-पद-अभावाद् असाङ्गत्यापत्तेः । न च "पूर्व्याय वेधसे नवीयसे विष्णवे" इति पदैः कारणत्व-नित्य-नूतनत्व-व्यापकत्वैस् सर्वाधिक्यं प्रतीयत इति वाच्यम्, तेषां लक्ष्मी-साधारण्येन तद्-आयत्ताधिक्यस्य तस्याम् अपि सत्त्वात्, भगवत एव इत्य् अवधारण-अनुपपत्तेः । पद-लभ्य-लक्ष्मी-पतित्व-प्रयुक्त-सर्वाधिक्यं प्रतीयत इति नानुपपत्तिर् इति चेत् तर्हि भगवत्-पत्नीत्व-प्रयुक्त-सर्वाधिकस्य लक्ष्मी-वृत्तितया प्रतीतेर् असाधारण्यानुपपत्तिर् एव । न च भगवत्-पत्नीत्वस्य भूम्यादि-साधारण्यान् न सर्वाधिक्य-प्रयोजकत्वम् इति वाच्यम्, “पत्युर् नो यज्ञ-संयोगे” इत्य्-अनुशासनात् [[P76]]
 
-கார்யங்களுக்கும் ஸ்வத: 
+इति "अभयं सर्व-भूतेभ्यो ददाम्य् एतत्-व्रतं मम" इत्य्-उक्त-शरणागत-रक्षण-सप्ततन्तु-दीक्षा-शालिन्या लक्ष्म्या एव मुख्य-पत्नीत्वाद् अन्यासां च "याभिस् त्वं स्तन-बाहु-दृष्टिभिर् इव स्वाभिः प्रियं श्लाघसे” इति तद्-अधीन-भोग-मात्र-अर्थ-गौण-पत्नीत्वात्, सर्वाधिक-लक्ष्म्य्-अपेक्षया न सर्वाधिकं शेषित्वम् इत्य् उक्ताव् अपि तत्-सर्व-शरण्यत्व-उपयुक्त-स्वामित्व-शेषित्वाधिक्यस्य अनेका-निरूप्यत्व-प्रयुक्तत्वे पर्यवसन्न-दिव्य-दम्पति-निष्ठ-शेषित्व-विरोधीति नानिष्टम् । उभयाधिष्ठान-शेषित्वस्यैव तथात्वेन सुमज्जानि-पद-समानाधिकरण-विष्णु-पदोत्तर-चतुर्थ्या ऽवगमाद् अवधारण-अनुपपत्तिः । न च लक्ष्मी-प्रभृति-सर्व-शेषित्वम् एव चतुर्थ्या प्रतीयताम् इति वाच्यम्, सुमज्जानि-पदेन लक्ष्मी-निरूपित-शेषित्वस्य पृथग्-अभिधानात् । तस्मान् निखिल-जगत्-कारणत्व-सर्वरक्षकत्व-सर्वशेषित्वादिकं मूलमन्त्राद्युक्तम्, “निरुपाधि-स्वतन्त्रा च स्वामिनी नः कृपा-निधिः", "स्वातन्त्र्य-रूपा सा विष्णोः" इत्य्-आदिभिः निरङ्कुश-स्वातन्त्र्यस्य "देव-जुष्टाम् उदाराम्",
 
-பகவானே காரணம்   
-\-   
-\- 
+> “ज्ञानात्मकं परं रूपं ब्रह्मणो मम चोभयोः ।  
+> शेषम् ऐश्वर्य-वीर्यादि-ज्ञान-धर्मस् सनातनः ॥  
+> जगत्-प्रकृति-भावो मे यस् सा शक्तिर् इतीर्यते ।  
+> सृजन्त्या यच्-छ्रमाभावो मम तद् बलम् इष्यते ॥  
+> अव्याहतिर् यद्-उद्यन्त्यास् तथैश्वर्यं परं मम ।  
+> विकार-विरहो वीर्यं प्रकृतित्वे ऽपि मे सदा ॥  
+> सहकार्यनपेक्षा मे सर्व-कार्य-विधौ हि या ।  
+> तेजष् षष्ठं गुणं प्राहुस् तम् इमं तत्त्व-वेदिनः ॥  
+> इति पञ्च-गुणा एते ज्ञानस्य स्फूर्तयो मताः ।  
+> तस्यानपायिनी शक्तिर् देवी तद्-धर्म-धर्मिणी ॥”
 
-விஸிஷ்டவேஷேண வா 
+“अमल् एषा परित्रातुं राक्षस्यो महतो भयात्” “संसार-अर्णव-तारिणीम्”, “आत्म-विद्या च देवि त्वं विमुक्ति-फल-दायिनी”, “याम् आलम्ब्य सुखेनेमम् दुस्तरं त्रिगुण-उदधिम् । निस्तरन्त्य् अचिरेणैव व्यक्तं ध्यान-परायणाः”, “जगत्-समस्तं यद्-अपाङ्ग-संश्रयम्”, “श्रेयो न ह्य् अरविन्द-लोचन-मनः-कान्ता-प्रसादाद् ऋते संसृत्य्-अक्षर-वैष्णवाध्वसु नृणां सम्भाव्यते [[P77]]
 
-என்பதை   
-அவஸ்யம் 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-ஒப்பவேண்டியபடியால், ஒவ்வொரு செயலையும் விட இதில் 
+कर्हिचित्”, "शेष-शेषाशनादि-सर्व-परिजनं भगवतस् तत्-तत्-अवस्थोचित-परिचर्यायाम् आज्ञापयन्त्या”, "स्वस्ति श्रीर् दिशताद् अशेष-जगतां सर्ग-उपसर्ग-स्थितीः स्वर्गं दुर्गतिम् आपवर्गिक-पदं सर्वं च कुर्वन् हरिः । यस्या वीक्ष्य मुखं तद्-इङ्गित-पराधीनो विधत्ते ऽखिलं क्रीडेयं खलु नान्यथा ऽस्य रसदा स्याद् ऐकरस्यात् तया", "ऐश्वर्यम् अक्षर-गतिं परमं पदं वा कस्मैचिद् अञ्जलि-भरं वहते वितीर्य । अस्मै न किञ्चिद् उचितं कृतम् इत्य् अथाम्ब त्वं लज्जसे कथय को ऽयम् उदार-भावः” इत्य्-आदि-श्रुति-स्मृति-सम्प्रदाय-अनुरोधेन विरोधी-निवर्तकत्वादि-घटित-उपायत्व-प्रभृति-समस्त-कल्याण-गुण-गणस्य लक्ष्मी-साधारण्य-सिद्धेः । न च लक्ष्मी-स्वातन्त्र्यस्य भगवता प्रतिहति-सम्भवेन निरङ्कुशत्वम् असिद्धम् इति वाच्यम्, तयोर् ऐकरस्यातिशयेन स्वातन्त्र्यस्य परस्पर-अनभिमत-विषयत्वाभावेन प्रतिहतेश् शङ्कितुम् अशक्यत्वात् । नारीणाम् उत्तमाया देव्या भगवत्-पारार्थ्य-स्वाभावात् तद्-अनुरूपं वात्सल्य-कारुण्यादि-गुण-जातम् एव तद्-असाधारणम् इत्य् अप्य् अत एव परास्तम्, भगवतो वात्सल्य-कारुण्याद्य्-अभावे केवल-स्वातन्त्र्ये च सति निष्करुण-स्वातन्त्र्यस्य बाधकत्वेन समाश्रयणीयत्वं दूरोत्सारितं स्यात् । केवल-कारुण्यादिमत्त्वे अस्वतन्त्र-कारुण्यस्य अकार्यकरत्वेन वैयर्थ्यं खेदावहत्वं च स्यात् । ऐकरस्यात् तत्-कृपा-कार्य-विघातो नास्तीति न वैय्यर्थ्यादिकम् इति चेत्, तर्हि प्रमाण-सिद्ध-निरङ्कुश-स्वातन्त्र्याङ्गीकारे को विरोधः ? । पारतन्त्र्य-स्वभाव-विरोध इति चेत्, स च किं स्वातन्त्र्य-शून्यत्वे सति परतन्त्र-स्वभावः, पारतन्त्र्य-मात्रं वा । नाद्यः, लक्ष्मी-स्वातन्त्र्यस्य बहु-प्रमाण-सिद्धतया विशेषण-असिद्धेः । न द्वितीयः, स्वातन्त्र्य-पारतन्त्र्ययोर् विषयैक्य एव विरोधेन विषय-भेदे विरोधाभावात् । यच् चैतत्-दोष-भिया उभयोर् उभयान्वये ऽपि स्वरूप-भेद-सूचकत्व-प्राचुर्येणैवम् विभज्यत इत्य्-आदिना ससंवादम् उक्तम्, तद् अयुक्तं, पति-पारार्थ्यस्य लक्ष्म्य्-असाधारणत्वेन स्वरूप-भेद-सूचकत्व-सम्भवे ऽपि इतरेषां "मृदुर् दयालुर् मधुरस् स्थिरस् समः", "अहं [[P78]]
 
-அப்படி கொள்ளவில்லை என்றால் 3{qA என்ற குற்றம் ஏற்படும் \- ஆகவே ஸுதூரம் சுற்றி வந்தும் 
+लक्ष्म्युपायत्वदीपः
 
-सत्तया कारणत्वम्   
-\-   
-\-   
-கடைசீயில் 
+रुद्राय धनुर् आतनोमि ब्रह्म-द्विषे शरवे हन्तवा उ”, “गन्ध-द्वारां दुराधर्षां नित्य-पुष्टां करीषिणीम् । ईश्वरीम् सर्व-भूतानां तम् इहोपह्वये श्रियम्" इत्य्-आदिभिर् उभय-साधारण्य-अवगमेन स्वरूप-भेद-सूचकत्वा सम्भवात्, संवादतयोक्त-श्लोकस्य भगवत्य् अपरवशता-शत्रु-शमन-स्थिरत्वादीन् पुंस्त्वे सति सुलभतया लोके दृष्टान् त्वयि च म्रदिम-पति-पारार्थ्य-करुणा-क्षमादीन् स्त्रीत्वे सति सुलभतया लोके दृष्टान् प्रकाशितान् कृत्वा स्थिरत्वादीन् विद्यमानानप्य् आच्छाद्य भोक्तुं स्वाश्रितैस् सहानन्दानुभवाय पुरुषकारत्व-तद्-अभाव-रूप-भिदा संवादिता इत्य्-अर्थ-परतया प्रमाण-सम्प्रदाय-उपपत्त्या उपायत्व-उपयुक्त-गुणाभाव-परत्वाभावान् न संवादत्वम्, पञ्चायुधादेर् भगवद्-असाधारण्येन प्रतिभट-निरास-परिकर-विरोधि-निवर्तकत्व-रूप-उपायत्वस्यापि तद्-असाधारण्यम् इत्य् अर्थे संवादतयोक्तस्य "सामान्य-भोग्यम् अपि" इत्य्-आदि-श्लोकस्य "भोग्यम्" इत्य् उक्त्या कौस्तुभ-वैजयन्ती-समभिव्याहारेण च पञ्चायुधादेर् अपि प्रतिभट-निरास-परिकरत्वाकारेणाप्रतीतेः, लक्ष्म्य्-असाधारण-भूषणानां भगवद्-भोग्यत्ववत् कौस्तुभादेः भगवद्-असाधारण्ये ऽपि लक्ष्मी-भोग्यत्वाविरोधेन स्वतः-सिद्ध-भगवद्-एक-धार्यत्वस्य भार-खेद-परिहरणेच्छा-हेतुकत्वोत्प्रेक्षण-परत्वाच् च उपायत्वे भगवद्-असाधारण्य-प्रतिपादन-परत्वाभावान् न संवादत्वम् । प्रणत-रक्षा-विलम्ब-असहत्वस्य लक्ष्म्याम् अपि सत्त्वेन सदा पञ्चायुध-धारण-हेतुत्वा सम्भवात् गायत्र्यादि-रूप-भेदेषु तस्या अपि तद्-धारणस्य प्रमाण-सिद्धत्वात् भगवद्-असाधारणत्वम् अनुपपन्नं च, “स्वयम् एव” इत्य् अवधारणस्यैतत्-रूपाभिप्रायत्वात् न विरोधः ।
 
-உண்டு என்று ஒப்பவேண்டும். அப்படியில்லையேல் \- எந்த   
-எந்த கார்யமும் உண்டாகாமலே போய்விடும். இதே ந்யாயப்படி \- பிராட்டிக்கு ஜீவனின் மோக்ஷத்தில் காரணமாகும் நிலையில்லாவிடினும், ஸ்வரூபஸத்தாமாத்ரத்தைக் கொண்டு கூடுமே? என்ற 
+(60.5) கனாશી : "यः पूर्व्याय वेधसे नवीयसे सुमज्जानये विष्णवे ददाशति” என்கிற மந்த்ரம் ஸ்ரீவிஷ்ணுவே ஸர்வசேஷி - குறிப்பாக ஸ்ரீலஷ்மிக்கும் அவரே சேஷீ -என்று தெரிவிக்கிறது. ஆகவே எம்பெருமானேக என்பது ஸித்திக்கிறதே - [[P79]]
 
-கேள்வி. 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-இதற்கு பதில் \- சில இடங்களில் 3- கார்யம் உண்டாக வ்யாபாரம் செய்யாவிடினும் ஸத்தாமாத்ரம் இருந்தால் போதும் என்று ஒப்பினோம். அதைக்கொண்டு இங்கு மோக்ஷரூபகார்யத்திலும் சொல்லமுடியாது. இப்படிச் சொன்னால் ஒரு இடத்திலும் வ்யாபாராபேசையே   
-\- 
+பதில்: என்று நீ சொன்ன தாத்பர்யம் இந்த ச்ருதியிலிருந்து கிடைக்காது. அதற்கான சொற்கள் இங்கில்லை. पूर्व्याय என்பது ஸர்வகாரணத்வத்தையும், என்பது எப்போதும் புதியவரைப் போன்று ஸேவிக்க ஆஹ்லாதம் பண்ணுமவர் என்பதையும், fwā என்பது எங்கும் எப்போதும் உள்ளும் புறமும் வ்யாபித்தவர் இத்தகையவர் விஷ்ணு ஒருவரே அன்றோ என்ன வேண்டாம். இங்கு காட்டப்பட்ட மூவகை தர்மங்களும் பிராட்டிக்கும் உண்டு - என கீழே ச்ருதிகளைக் காட்டி விளக்கினோமே - பகவான் ஒருவருக்கே இம்மூன்றும் என்று காட்டும் 3qquaமான கள் இங்கில்லையே! सुमज्ञानये என்று
 
-இருக்காது.   
-ஆகவே மோக்ஷரூபமான கார்யம் ஏற்பட பிராட்டியின் ஸத்தை ஆவய்யகம்   
-பகவானுக்கு விசேஷணபூதையாய் நின்று பிராட்டியும் காரணமே.   
-ஆனபடியால் 
 
-(ल. उ. दी) किञ्च " मत्प्राप्तिं प्रती" त्यादिवचनार्थपर्यालोचनायां न केवलं साधारण्याभावः किन्तु भगवदसाधारण्यमेवोपायत्वे सिद्ध्यति । तथाहि- मत्प्राप्तिं प्रति लक्ष्मीः पुरुषकारत्वेन निर्दिष्टा ममापि मतमेतत, एतत्पुरुषकारत्वं लक्ष्म्या इति ममापि सम्मतं, नान्यथा लक्षणं भवेत्, अन्यथा प्रकारान्तराभ्युपगमे पुरुषकारातिरिक्तोपायत्वाकाराभ्युपगमे न लक्षणं 
+பிராட்டியைவிட, எம்பெருமானுக்கு அதிகப்படியால் - இருப்பதால் இங்குள்ளபடியால் பிராட்டி - பும் सर्वाधिका என்பதில்லை என்று கூறுவோமே எனில், அதுவும் - भगवत्-पत्नीत्व-प्रयुक्त-सर्वाधिकत्वम् தகாது. ஏன்? எனில் எம்பெருமானின் பட்டமஹிஷியாயிருக்கும் எல்லோரையும்விட மேலான நிலை - பிராட்டியிடம் மட்டுமே உண்டு, எம்பெருமானிடமில்லை. ஆகவே இது 4 ! இருவரும் நெருங்கிய ஸம்ஸ்லேஷத்தால் ஒரேதத்துவம் போன்றுள்ளனர் – என்ற ப்ரமாணத்தை இங்கு காண்க. புiady saiii என்றதே.
 
-36   
-लक्ष्म्युपायत्वदीपः 
+புÀ என்ற சொல் '' (4-1-33) என்ற ஸூத்ரத்தால் உருவானது. உருவானது. வேள்வியில் தொடர்புடைய ப்ரதானமான (முதல்) மனைவியையே பத்னீ என்பர். எம்பெருமான் Īug Ai 44 \[எல்லா பூதர்களுக்கும் (அல்லது எல்லாபூதர்களிடமிருந்தும்) நான் (பகவான் ஸ்ரீராமன்) அபயம் அளிக்கிறேன். இதை ஒரு வ்ரதமாக நான் கொண்டுள்ளேன்.\] என்று எம்பெருமான் [[P80]]
 
-भवेत्ममोपायत्वं लक्षणमेव   
-लक्षणमेव न भवेत्, लक्ष्म्यामतिप्रसक्तेरित्यर्थः । जगत्कारणत्वमोक्षप्रदत्वयोर्ब्रह्मलक्षणत्वेन बहुप्रमाणसिद्धतया मोक्षप्रदत्वं ब्रह्मलक्षणमिति जगत्प्रसिद्धम्, अत एवाचार्यैरप्यनुगृहीतम् "एते हि राज्ञि छत्रचामरवद्ब्रह्मणोऽसाधारणं चिह्न मिति । ब्रह्मत्वं च न लक्ष्म्या इत्युत्तरत्र स्थापयिष्यते। न चास्मिन् वचने उपायत्वाप्रतीतेरप्रसक्तमुपायत्वमिति तस्य लक्षणत्वाभावलक्षणानिष्टप्रसञ्जनं कथमिव सङ्गच्छेतेति वाच्यं, 
+लक्ष्म्युपायत्वदीपः
 
-पुरुषकारत्वस्वरूपपर्यालोचनायां तदन्तर्गतत्वेनोपायत्वप्रतीतेरावश्यकत्वात्। अथवा \- प्रकारान्तरेणोपयोगे ज्ञापकं नास्तीति संसाराधः प्रपतितानां तन्निवर्तनानुकूलव्यापारविचारणप्रकरणबलात् तदानुकूल्यं पुरुषकरणमुखेन \- न तूपायत्वमुखेनेति सिद्ध्यति – अन्यथा पुरुषकारत्वाभावे, लक्षणं न भवेत्पुरुषकारत्वं लक्षणं न भवेदित्ययमर्थोऽनुपपन्नः, पुरुषकारत्वानङ्गीकारे तल्लक्षणत्वाभावस्येष्टापादन- रूपत्वात् । द्वितीययोजनायां लक्षणशब्दो ज्ञापकपरः, न भवेदित्यस्य नास्तीत्यर्थः एवं च सति मत्प्राप्तिं प्रति लक्ष्म्याः पुरुषकारत्वातिरिक्ताकारेण उपयोगज्ञापकं नास्तीति पुरुषकारत्वमेव तस्या इति ममाभिमतमित्यर्थः पर्यवसन्नो भवति । ततश्चोपायत्वं भगवत एवेति 
+என்ற வேள்வியில் அருளிய சரணாகதஸம்ரக்ஷணம் எம்பெருமானுடன் தீக்ஷை பெற்றவளைப் போன்றுள்ளவள் பெரியபிராட்டியார். இவளே முக்யபத்னீ. மற்றையோர் அப்ரதானைகள். இதனை புரிi : 9 À என்று ஸ்ரீபராசரபட்டர் காட்டியருளினார். கணவனும் மனைவியும் சேர்ந்திருக்கும்போது – மனைவியின் கைகள், கொங்கைகள், பார்வைகள் எல்லாமும் கணவனுடன் இணைந்தே இருக்கும். எம்பெருமானுக்கு ஸ்ரீதேவியைப் போன்று பூமி-நீளாதிகளான பலர் தேவிமார் இருப்பினும், அவர்களும் பெரியபிராட்டியும் பிணங்கின்றி கணவனுடன் இழைப்பதை இப்படி ஸ்ரீபட்டர் காட்டியருளினார். பரஸ்பரம் விரோதமோ, உலகினர் போன்று சக்களத்திச் சண்டையோ இல்லை என்பதை இப்படி நிதர்சனத்துடன் விளக்கியருளினார். பத்னீ என்கிற ஆத்மா எடுத்துக்கொண்ட உருவில் ஸ்தன-பாஹு-த்ரிஷ்டிகள் - அவயவங்களாயிருந்து தாங்களும் மகிழ்வெய்துகின்றனவோ இங்குமென்று தாத்பர்யம். fariiu இல்லை. எப்படி பர்த்ருபோகத்தின்போது அப்படியே இப்படியிருப்பது ஸர்வாதிகம் சேஷித்வம் என்றாலும், என்றபடியானது இங்கும் புடினரி-புரத்தால் காட்டப்பட்டது. : பு என்ற மந்த்ரத்தில் வரும் சதுர்த்தீவிபக்திக்கு குரிளிம்தான் தெரிவிக்கப்படுகிறது - என்பது - தகாது 4À என்ற சொல்லால் அதைத்தனியாகக் கூறியாயிற்றே! ஆகவே எல்லாவுலகுக்கும் காரணமாயிருப்பது, எல்லோரையும் பாதுகாப்பது, எல்லோருக்கும் சேஷியாய் இருப்பது என்பன மூலமந்த்ராதிகளில் தெரிவிக்கப்பட்டன.
 
-सुव्यक्तम् । 
+இந்த ஸ்வாதந்த்ர்யம் – [[P81]]
 
-\-   
-किञ्च, स्वयंपदमहिम्ना च भगवद्व्यतिरिक्तोपायत्वस्य व्यवच्छेदसिद्धिः, अन्यथा स्वयंपदवैयर्थ्यापत्तेः तस्मात् स्वयंपदमहिम्ना, “एतस्याश्च विशेषोय”मित्युक्तिमहिम्ना च पूर्वोक्तोपायत्वं ममैव विशेषः, एतस्यास्तु पुरुषकारत्वमेव विशेष इत्ययमर्थः प्रतीयते, उपायत्वमुभयसाधारणं, पुरुषकारत्वमेव तस्या विशेष इत्ययमर्थस्तु न प्रतीयते, "एतस्याश्चे" त्यत्र चस्त्वर्थः । यद्वा, चस्समुच्चये । भगवतो लक्ष्म्याश्च परस्परव्यावर्तकलक्षणद्वयमिह विवक्षितम्, "एतस्या अयं विशेष" इत्यनेन लक्ष्म्याः पुरुषकारत्वं भगवदपेक्षया व्यावर्तकमित्युक्तम्, भगवतस्तूपायत्वं लक्ष्म्यपेक्षया व्यावर्तकमिति तेनैव व्यज्यते, "एतस्याश्च   
-विशेषोऽयं 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-37   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+\[ஸ்ரீஸூக்தம்: தேவதேவனான ஸ்ரீவாஸுதேவனின் ப்ரீதிக்கு விஷயபூதமானவளை -\]
 
-निगमान्तेषु शब्द्यते" इत्यत्र मम साक्षादुपायत्वं विशेष इति निगमान्तेषु शब्द्यत इत्येवंरूपार्थस्य चशब्देन समुचितत्वात्। 
+> “ज्ञानात्मकं परं रूपं ब्रह्मणो मम चोभयोः ।  
+> शेषम् ऐश्वर्य-वीर्यादि ज्ञान-धर्मः सनातनः ॥”
 
-सप्रयोजनत्वादुपायपदेनान्वये   
-सिद्धे   
-किञ्च, साक्षात्पदस्य यथाश्रुतान्वये प्रयोजनाभावादुपायपदान्वये परम्परोपायत्वव्यावृत्तिमुखेन साक्षादुपायत्वं भगवत एव लक्षणतया सिद्ध्यति, लक्ष्म्यास्तु परम्परोपायत्वम्, तच्च पुरुषकारत्वे पर्यवस्यति, न " चैतस्याश्च विशेषोऽय” मितिवन्ममोपायत्वं विशेष इति भगवता नोक्तम्, अतः कथं परस्परव्यावर्तकलक्षणद्वयपरत्वमिति वाच्यम्, न हि लक्ष्म्या इदं लक्षणमित्येतावता स्वस्यापीदं लक्षणमिति वक्तव्यमिति निर्वन्धः, अप्रयोजकत्वात्, अहं साक्षान्मत्प्राप्त्युपाय इत्यनेन लक्षणत्वाकारस्य स्फुटत्वान्ममैवोपायत्वं विशेष इति नोक्तम् । किञ्च, चशब्देन ममोपायत्वं विशेष इति द्योतितत्वात्तथा कण्ठरवेण नोक्तम् । एवं च व्यवस्थावचनवलात् लक्ष्म्या अनुपायत्वे सिद्धे तदुपायत्ववचनानां पुरुषकारत्वप्रयुक्तपरम्परोपायत्वपर्यसानमेवोचितम् । मुख्यार्थत्यागदोषः, त्यागस्यानन्यथासिद्धव्यवस्थावचनमूलत्वेनादोषत्वात्। एकमपि वचनं व्यवस्थापरं चेत् परस्सहस्रवचनान्यपि तदविरुद्धार्थकान्येव योजनीयानि । 
+\[பரமாத்மாவின் ஸ்வரூபம் ஜ்ஞானமயமானது. ப்ரம்ஹமான அவருடையவும் என்னுடையவுமான மாறாட்டமில்லை. ஐஸ்வர்யம், வீர்யம், அறிவு முதலான தர்மங்கள் எப்போதுமே எங்களிடமிருப்பவை.\]
 
-(0.5) Clogy)jio (Loan) \- 
+> “जगत्-प्रकृति-भावो मे यः सा शक्तिर् इतीर्यते”
 
-"मत्प्राप्तिं प्रति जन्तूनां संसारे पततामधः । 
+\[இந்த உலகு உண்டாக மூலப்ரக்ருதியை செயல்படச்செய்வது என்ற எது உண்டோ - அதை சக்தி என்பர்.\]
 
-लक्ष्मीः पुरुषकारत्वे निर्दिष्टा परमर्षिभिः ॥”   
-न   
-चैवं 
+> “सृजन्त्या यः श्रमाभावो मम तद् [[वलम्|बलम्]] इष्यते”
 
-என்று கீழே எடுத்த வசனத்தின் கருத்தை ஆராய்ந்தால் \- மோக்ஷகாரணத்வம் திவ்யதம்பதிகளிருவருக்கும் பொது என்பதில்லை, பகவான் ஒருவருக்கே உரியது \- என்று ஏற்படுகிறது. இதன் கருத்தாவது \- என்னை (பகவான்) அடைய லஷ்மீயானவள் பரிந்து உரைப்பவளாக மஹர்ஷிகளால்   
-இவள் புருஷகாரமாயிருப்பது எனக்கும் ஸம்மதமே. பரிந்து   
-காட்டப்பட்டாள். 
+\[உலகைப் படைக்கும் எனக்கு துளியும் களைப்பு முதலானவையில்லை. இதையே பலம் என்பர்\]
 
-38   
-लक्ष्म्युपायत्वदीपः 
+> "() q 44||"
 
-\-   
-பேசுவதற்கு இதைவிடவேறு லக்ஷணம் கிடையாது. இப்படி பிராட்டியையும் உபாயமாகக் கொள்வதானால் எனக்கு (பகவானுக்கு) என்று அஸாதாரணமாக அமைந்த மோசேஷாபாயத்வரூபமான லக்ஷணத்துக்கு அதிவ்யாப்தி மோக்ஷமளிப்பதும் பரம்பொருளான பகவானின் லக்ஷணம். அரசன் எங்கு சென்றாலும் குடை சாமரம் இவைகள் எப்படி உடன்   
-வரும். ஜகத்காரணத்வமும் 
+\[ஒரு செயலைச் செய்யும் போது தடையற்றிருப்பதே ஐஸ்வர்யம் எனப்படும்\]
 
-\- 
+> “विकार-विरहो वीर्यं प्रकृतित्वे ऽपि मे सदा”
 
-வருகிறதோ அப்படியே இங்கும். இதை ஆசார்யர் \- छत्रचामरवद्ब्रह्मणोऽसाधारणं चिह्नम् òrml காட்டியருளினார். லக்ஷ்மிக்கு ப்ரம்ஹசப்தவாச்யத்வம் கிடையாது \- என்று மேலே நாங்கள் நிரூபணம் பண்ணப்போகிறோம். 
+\[எல்லாவற்றிற்கும் மூலப்பொருளை உடையவளாயினும் நான் எப்போதும் மாறுபாட்டை நான் அடைவதில்லை. இதையே வீர்யம் என்பர்\]
 
-என்ற சுலோகத்தில்   
-உபாயத்வத்தைப் பற்றி ப்ரஸ்தாவமில்லாதபடியால் அநிஷ்டம் ஏதுமில்லையே \- என்று எண்ணவேண்டாம். புருஷகாரத்வம் என்பது என்ன? என்று அதன் ஸ்வரூபத்தை நன்கு ஆராய்ந்தால் அதனுள் உபாயத்வமும் அடங்கியிருப்பது தெரியவரும். பிறவிப்பெருங்கடலில் வீழ்ந்தவர்களை அதனின்றும் மீட்பதற்கு பகவானிடம் பிராட்டி பரிந்து பேசுவது உபாயகோடியில் எப்படி சேரும்? எப்படி பொருள் கூற முற்பட்டாலும் Hai a என்ற வசனத்தால் பிராட்டிக்கு உபாயத்வம் உண்டு என்பதை ஸாதிக்க முடியாது. HMAld 
+> “सहकार्य-अनपेक्षा मे [[सहकार्यविधौ|सर्वकार्यविधौ]] हि या ।  
+> तेजः षष्ठं गुणं प्राहुः तम् इमं तत्त्व-वेदिनः ॥” [[P82]]
 
-புரி: 444 என்ற விடத்தில் ஸ்வயம் என்ற சொல்லால் \- பகவானைத் தவிர்த்த வேறு உபாயமில்லை என்ற ஸித்திக்கிறதே. ஆகவே 44 என்றதாலும், 44 என்றருளியபடியாலும் \- முன்பு கூறிய மோசோபாயத்வம் பகவான் ஒருவருக்கே \- என்பது ஸித்திக்கிறது. 
+लक्ष्म्युपायत्वदीपः
 
-"உபாயமாய் இருப்பது தம்பதிகள் இருவருக்கும், புருஷகாரத்வம் பிராட்டிக்கு அதிகம்" என்று பொருள் கொள்ள முடியாது. A என்றபோது சகாரம் து என்பதின் 
+\[ஒரு செயலைச் செய்ய மற்றொன்றின் ஒத்துழைப்பை நான் எதிர்பார்பதில்லை. இதையே தேஜஸ் என்பர் ஆன்றோர்கள்\]
 
-3   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> “इति पञ्च गुणा एते ज्ञानस्य स्फूर्तयो मताः ।  
+> तस्यानपायिनी शक्तिः देवी तत्-धर्म-धर्मिणी ॥”
 
-\-   
-பொருள் கொண்டது. அல்லது 7: À பகவானுக்கும் லக்ஷ்மிக்கும் ஒருவருக்கொருவரை பிரித்துக்காட்டும் லக்ஷணத்வயம் இங்கு காட்டப்படுகிறது. :\_fzq: 
+\[இவ்விதம் ஐந்து குணங்கள் இங்கு கூறப்பட்டன. இவை ஜ்ஞானம் = அறிவு என்பதில் உள் அடங்கிய விரிவுகளாகும். இந்த ஐவகை குணங்களையும் எப்போதும் உடையவள் பிராட்டி, எம்பெருமானைப் போன்ற தர்மங்களில் எதுவும் குறைவற்றவள்.\]
 
-என்றதால் 
+"வேரிமாறாத பூமேலிருப்பாள் வினை தீர்க்குமே” \[திருவாய்மொழி 4-5-11: நறுமணம் எப்போதும் துளியும் குறையாத தாமரை பூவின் மேல் எழுந்தருளியிருக்கும் பெரியபிராட்டியார் நம் தீவினைகளைப் போக்கியருள்வாள்.\]
 
-பகவானைவிட   
-லக்ஷ்மிக்கு உள்ள புருஷகாரத்வம் 
+> “अलम् एषा परित्रातुं राक्षस्यो महतो भयात्”
 
-வ்யாவர்த்தகாகாரம்   
-என்றது 
+\[ஸுந்தரகாண்டம்: ஸ்ரீராமபிரானிடமிருந்து ஏற்படப்போகும் படுபயங்கரத்திலிருந்து நம்மை பாதுகாக்க இந்த ஸ்ரீஸீதாபிராட்டி ஸமர்த்தையானவள் த்ரிஜடையின் கூற்று.\]
 
-என்பது நன்கு   
-காட்டப்பட்டது. பகவானுக்கோ லக்ஷ்ம்யபேக்ஷயா 
+\[காஸ்யப ஸ்ம்ருதி: ஸம்ஸாரமாகிய கடலிலிருந்து நம்மைக் கரையேற்ற இந்த பிராட்டி வல்லவள்.\]
 
-மோசேஷாபாயத்வம் வ்யாவர்த்தகம்   
-\- 
+"\!ரிகவு"
 
-தெரிகிறது. என்ற கருத்தே AHz என்று காட்டிற்று. ஆகவே ச என்ற சொல் ஸமுச்சாயகம். 
+\[ஸ்ரீவிஷ்ணு புராணம்: பரமாத்மாவை அடைவிக்கும் வித்யையாக தேவரீர் (பிராட்டி) இருந்து எங்களுக்கு மோக்ஷம் என்கிற பலத்தை அருள்பவள் அன்றோ!\] [[P83]]
 
-nei புரி:H என்றபோது H&II என்ற சொல் உபாயபதத்தோடு சேர்வதிலேயே நோக்கமுடையது. இதனால் Haily4ed4IA என்பது ஸித்தித்தது. லக்ஷ்மிக்கு பரம்பரயோபகாரத்வம் தான் இந்த வாக்யத்தால் ஏற்படுகிறது. 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-एतस्याश्च विशेषोऽयम् என்று   
-புருஷகாரத்தை ப்ரஸ்தாவித்துக் கூறியதைப் போன்று \- எனக்கு உபாயத்வம் விசேஷ: என்று கூறாதபடியால், எப்படி இந்த முடிவுக்கு வருவது? என்று எண்ணவேண்டாம்.   
-Harra लक्ष्मीपतिः स्वयम् என்பதாலேயே இது ஸ்பஷ்டமாகத் தெரிவதால் தனித்து அதைச்சொல்லவில்லை. மேலும் ஏ என்றதால் அது குறிப்பால் உணர்த்தப்பட்ட படியால் வாயால் கூறவில்லை. 
+> “याम् आलम्ब्य सुखेनेमम् दुस्तरं त्रिगुणोदधिम् ।  
+> निस्तरन्त्य् अचिरेणैव व्यक्तं ध्यान-परायणाः ॥”
 
-ஒரு வசனம் வ்யவஸ்த்தையைக் காட்டுவதானாலும், மற்றும் பல வசனங்களுக்கும் அதிலேயே நோக்கு கொண்டு இப்படித்தான் முடிவுசெய்ய அமையும். ஆகவே பிராட்டிக்கு புருஷகாரத்வமே, உபாயத்வமில்லை.   
-\- 
+\[ஸாத்வத ஸம்ஹிதை 12-84: கரை காண முடியாத ஸத்துவ- ரஜஸ்-தமஸ் என்ற முக்குணமயமான துன்பக்கடலை, இவளை (பிராட்டியை) த்யானம் செய்து வரும் மஹான்கள் விரைவில் தாண்டிவிடுகிறார்கள் - இது சாஸ்த்ரங்களில் நன்கு தெரியுமே!\]
 
-(ल.उ.दी) ननु मन्त्ररत्नपूर्वखण्डे लक्ष्म्या मतुप्प्रत्ययेन वैशिष्ट्यप्रतीत्या विशिष्टस्यैव शरण्यत्वप्रतीतेर्विशेषणभूतलक्ष्म्याश्च शरण्यत्वादेवोपायत्व- लक्ष्मीसम्बन्धस्य   
-निषेधोऽनुपपन्न   
-इति 
+> “जगत्-समस्तं यद्-अपाङ्ग-संश्रयम्”
 
-40   
-लक्ष्म्युपायत्वदीपः 
+\[ஆளவந்தார் ஸ்தோத்ரம்: இவ்வுலகிலுள்ள சேதனாசேதனநत्मकமான யாவும் எந்த பெரியபிராட்டியாரின் கடைக்கண்பார்வையை அண்டியுள்ளதோ-\]
 
-पुरुषकरणव्यापारार्थत्वेनान्यथासिद्धत्वात् । एवं तर्ह्यत्तरखण्डस्थमतुप्प्रत्ययेन प्रतीयमानं प्राप्यत्वमपि न सिद्ध्येत्, यदि सिद्ध्येत्तर्हि प्रापकत्वमपि सिद्ध्येत्, उभयत्र वैशिष्ट्यप्रतीतेर्वैषम्याभावादिति न वाच्यम्, 'मामेक' मित्येकपदेन स्वेतरकृत्स्नशरण्यत्वनिवृत्तिपूर्वकं स्वशरण्यत्वस्य भगवतैव व्यवस्थापितत्वेन पूर्वखण्डे लक्ष्मीशरण्यत्वाप्रसक्तेः । अन्यथा नारशब्दार्थानां सर्वेषां विशेषणत्वाविशेषेणोपायत्वप्रसङ्गः । उत्तरखण्डे तु विशेषणत्वेनान्वय- प्रयुक्तप्राप्यत्वस्य क्वचिदपि बाधकानुपलब्धेः लक्ष्म्याः प्राप्यत्वं युक्तमेव, वस्तुतस्तूत्तरखण्डे निरतिशयपुरुषार्थस्यैव प्रार्थनीयत्वात् तत्र च विशेषणानन्वये पुरुषार्थन्यूनताप्रसङ्गरूपबाधकवलाद्विशेषणान्वय\-सिद्धिरिति न पूर्वोक्तविरोधः । 
+> “श्रेयो न ह्य् अरविन्द-लोचन-मनः-कान्ता-प्रसादाद् ऋते  
+> संसृत्य्-अक्षर-वैष्णवाध्वसु नृणां सम्भाव्यते कर्हिचित्”
 
-\- 
+\["சது:ஸ்லோகி”: செந்தாமரைக் கண்ணனான எம்பெருமானின் திருவுள்ளத்துக்கு உகந்த பெரியபிராட்டியாரின் அநுக்ரஹமில்லாவிடில் ஸாம்ஸாரிக போகங்கள்-கைவல்யம்-பரமபதம் இப்படிப்பட்ட எந்த வழியிலும் எந்த பலனும் கிடைக்காதே\]
 
-உ   
-विशेषणम्   
-\-   
-(ல.க) இனி, த்வயத்தின் பூர்வகண்டத்தில் 434 3422014, SRUSத்தில்   
-என்று பிரித்துக் கூறிய கொள்கையை விளக்க முற்படுதல். (இதற்கு விரிவாக பதில் அருளப் போகிறார்). மந்த்ரரத்னம் என்னப்படும் த்வயத்தில் உள்ள 44 என்ற விகுதியால் \- பிராட்டியோடு கூடின நாராயணனுக்கே உபாயத்வம் \-என்று ஏற்படுகிறபடியால் விசேஷணமாக பிராட்டிக்கும் உபாயத்வம் கூடுமன்றோ? என்பது ஸித்தாந்திகளின் கருத்து. இதை ஆசேஷபிக்கிறான் பூர்வபக்ஷி பிராட்டியின் ஸம்பந்தம் இங்கு பூர்வகண்டத்தில் புருஷகாரரூபமான வ்யாபாரத்தைச் செய்வதைக் காட்ட வந்தது. "இப்படியானால் உத்தரகண்டத்திலுள்ள A 4 ப்ரத்யயத்தால் தெரிவிக்கப்பட்ட ப்ராப்யத்வம் ஸித்திக்காதே?”   
-என்று   
-\= 
+> “शेष-शेषाशनादिकं सर्वं परिजनं भगवतः  
+> तत्-तत्-अवस्थोचित-परिचर्यायाम् आज्ञापयन्त्या”
 
-ஆசேஷபிக்கவேண்டாம். சரமஸ்லோகத்தில் HIH H என்று ஏக சப்தத்தால் பகவானைத்தவிர மற்ற ஒருவருக்கும் ஈரண்யத்வம்   
-\- 
+\[கத்யம்: ஆதிசேஷன், பகவான் அமுது செய்து மிகுந்ததையே உண்பது என்ற வ்ரதம் கொண்ட விஷ்வக்ஸேனர் முதலான நித்யஸூரிபரிஜனங்களை எம்பெருமானுடைய அந்தந்த நிலைக்கு ஏற்றபடியான பணிவிடைகளில் உத்தரவிட்டு வரும் ச்ரீயுடன்- \]
 
-கிடையாது   
-என்பது 
+> “स्वस्ति श्रीर् दिशताद् अशेष-जगतां सर्ग-उपसर्ग-स्थितीः  
+> स्वर्गं दुर्गतिम् आपवर्गिक-पदं सर्वं च कुर्वन् हरिः ।  
+> यस्या वीक्ष्य मुखं तद्-इङ्गित-पराधीनो विधत्ते ऽखिलं  
+> क्रीडेयं खलु नान्यथा ऽस्य रसदा स्याद् ऐकरस्यात् तया ॥” [[P84]]
 
-நிலைநாட்டப்பட்டபடியால் \- பூர்வகண்டத்திலும் அப்படியே 
+लक्ष्म्युपायत्वदीपः
 
-41   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+\[எம்பெருமான் எல்லா உலகுகளையும் படைத்தல்-அழிப்பது- காப்பது முதலானவைகளையும், ஜ்யோதிஷ்டோமாதிகளைச் செய்தவர்களுக்கு ஸ்வர்கத்தையும், பாவம் செய்தவர்களுக்கு நரகத்தையும், பக்தி-ப்ரபத்திகளில் ஏதோ ஒரு உபாயத்தை அநுஷ்டித்தவர்களுக்கு மோக்ஷஸ்தானத்தையும் அருள்கிறார். எப்படி? இவற்றைச்செய்யும் போது - பெரிய பிராட்டியாரின் திருமுகமண்டலத்தைக் கண்டு அவள் இங்கித-நிமிஷித-சேஷ்டிதங்களுக்கு உட்பட்டவனாய் எல்லாவற்றையும் செய்கிறார். ஜகத்ஸ்ருஷ்ட்யாதிகள் ஆழ்வார் அருளியபடி "இன்புறும் இவ்விளையாட்டு” பகவானுக்கு. அந்த பிராட்டியும் இவரும் ஒரே கருத்துடையவர்கள் ஆனபடியால் இந்த ஜகத்ஸ்ருஷ்ட்யாதிவ்யாபாரங்கள் இருவரும் ஒத்த ரஸமுடையராயிருப்பதால் ரஸமாக இருக்கிறது - என்று ஸ்ரீ ஆழ்வானின் ஸ்ரீஸூக்தி (ஸ்ரீஸ்தவம்-1).\]
 
-ஒப்பவேண்டும் \- என்ற நிர்பந்தமில்லை. இப்படி பிரிவு கொள்ளாவிடில் GUத்தில் नाराणां अयनम् என்ற பொருளில் Åமாக து: புரிகிரிச்: என்று கரு gei வசனம் காட்டினபடியால் 
+> “ऐश्वर्यम् अक्षर-गतिं परमं पदं वा  
+> कस्मैचिद् अञ्जलि-भरं वहते वितीर्य ।  
+> अस्मै न किञ्चिद् उचितं कृतम् इत्य् अथाम्ब  
+> त्वं लज्जसे कथय को ऽयम् उदार-भावः ॥”
 
-நாராயணனுக்கு 
+\[ஸ்ரீபட்டர்-ஸ்ரீகுணரத்னகோசம்: (சு.58) அம்மா! தாயே! ஸ்ரீரங்கநாயகீ! யாரோ ஒருவன் (அவன் படித்தவனா? ஸ்வரூபம் அறிந்தவனா? பகவத்ப்ரபாவங்களை தெரிந்தவனா? ஒழுக்கமுள்ளவனா? என்பன போன்றவற்றைப்பாராமல்) ஒரு கும்மிடு போட்டு தேவரீரைக் குறித்து கைகளைக் கூப்பினான் ஆகில், அவனுக்கு அவன் விரும்பியபடி இஹ-பரலோகத்திலுள்ள [[P85]]
 
-அமைந்தவர்களானபடியாலே   
-ஸர்வசேதனர்களும் 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-விஷேணமாய் 
+ஐஸ்வர்யமாகிய அசேதனாநுபவத்தையோ, கைவல்யத்தையோ, சேதனாநுபவமாகிய பரமாத்மாநுபவமாகிய மோக்ஷத்தையோ நீர் அளித்துவிட்டு, "இவன் சுமந்து வந்த அஞ்ஜலியாகிய பெரிய சுமைக்குத் தக்கபடி நாம் ஒன்றுமே தரவில்லையே, இனி என்னிடம் தருவதற்கு என்ன இருக்கிறது, எல்லாம் கொடுத்தாகிவிட்டதே" என்று சிறிதே வெட்கத்துடன் அழகிய மணவாளன் அருகில் நீர் வெட்கப்படுவதைப் போல் உள்ளாய்! என்னே உமது வாரிவழங்கும் தன்மை?\]
 
-பகவத் த்வேஷி உட்பட 
+என்பன போன்ற வேதவாக்யங்கள், ஸ்ம்ருதிகள், பூர்வாசார்ய ஸ்ரீஸூக்திகள் இவைகளை அடியொற்றி விரோதிகளைப் போக்கடித்தும் உபாயமாய் நின்றும் நமக்கு அருள்பவள் - என்ற கல்யாணகுணங்கள் பிராட்டியிடமும் உண்டே.
 
-எல்லோருமே என்ற சொல்லில் அடங்கினபடியால் \- ஸர்வருக்கும் ஜீவன் சேஷபூதன் \- என்று ஏற்படும். இது ஸம்ப்ரதாய விருத்தம். "அடியார்க்கு என்னை ஆட்படுத்தும் விமலன்" என்றும், 'அடியார்க்கு ஆட்படுத்தாய் பள்ளியெழுந்தருளாயே" என்றும்   
-भगवद्दास्यरसविशेष 
+லக்ஷ்மியின் ஸ்வாதந்த்ர்யத்துக்கு எப்போதாவது பகவானால் தடை ஏற்படக்கூடும் என்று கூறவேண்டாம். காவுகள்: ரியுன்ள்: எங்கப்பூ என்றபடி இருவரும் ஒத்த கருத்துடையவரானபடியால் லௌகிக தம்பதிகளிடையே கருத்து வேற்றுமை வரக்கூடுமாப்போலே இங்கு ஒற்றுமைக்கு பங்கமில்லை.
 
-அறிந்தவர்களுக்கே அன்றோ இவன் தாஸபூதன். இது ஸித்திக்காது. 
+சரியா : என்னப்பட்டபடியால் வாத்ஸல்யம் - காருண்யாதிகள் இல்லாமல் - ஸ்வதந்த்ரமாகப் பிராட்டி செயல்படுவது கிடையாது - என்பதில் தாத்பர்யம் - என்றும் சொல்லமுடியாது. கருணையற்றவரின் ஸ்வாதந்த்ர்யமும் பாதகமாகவே அன்றோ அமையும். ஸ்வாதந்த்ர்யம் பிராட்டிக்கு ஒப்பாமல் காருண்யத்தை மட்டும் இசைந்தால் - இது ஜீவர்களுக்கு துன்பமளிப்பதாகவே அமையும். "பகவானும் பிராட்டியும் ஒற்றகருத்துடையவராயின பின்பு - பெருமாளின் செயலை இவள் தடுப்பதில்லை" - எனில் அதே ப்ரமாணங்கள் பிராட்டிக்கு ஸ்வாதந்த்ர்யத்தைத் [[P86]]
 
-மேலும்,   
-உத்தரகண்டத்தில்   
-பிராட்டியை 
+लक्ष्म्युपायत्वदीपः
 
-விசேஷணமாகக் கொள்வதில் எந்த வசனத்திலும் பாதகமில்லாதபடியால் பிராட்டிக்கும் ப்ராப்யத்வம் கூடும். உத்தரகண்டத்தில் निरतिशयपुरुषार्थप्रार्थना एव என்பது 
+தெரிவிக்கிறபடியால் அதை ஒப்புக்கொள்ள தடையில்லையே.
 
-இங்கு விசேஷணத்வேன   
-ஸம்ப்ரதாயமானபடியால் 
+“பிராட்டியின் பாரதந்த்ர்யஸ்வபாவத்துக்கு விரோதமானபடியால் ஸ்வாதந்தர்யத்தை ஒப்பவில்லை" எனில் - கேட்கிறோம் -
 
-புருஷார்த்த   
-பிராட்டிக்கு அந்வயமில்லாவிடில் ந்யூனதாப்ரஸங்கம் \- என்ற i: ர், இதனாலும் குற்றமில்லை. 
+1. "சரி புரிவள் தன:" \[ஸ்வாதந்த்ர்யம் இல்லாமலிருக்க லக்ஷ்மிக்கு பரதந்த்ரையாய் இருப்பது இயல்பா?\] - அல்லது -  
+2. qd44Á q1? \[பகவத் பாரத்ந்த்ர்யம் மட்டிலுமா?\]  
+என்று.
 
-(ரூ.3.2) ननु पूर्वखण्डे नारशब्दार्थप्रापकत्वातिप्रसङ्गभयेन लक्ष्मीप्रापकत्वपरित्यागवत् उत्तरखण्डेऽपि नारशब्दार्थत्वातिप्रसङ्गभयेन लक्ष्मीप्राप्यत्वपरित्यागः किं न स्यादिति चेन्न प्राप्यस्वरूपरूपगुणविभूतीनां प्राप्यत्वस्याबाधेन सर्वसम्मतत्वात् । न च गुणविग्रहयोरप्यनुपायत्वप्रसङ्गः, 
+முதல் பக்ஷம் தகாது. லஷ்மீஸ்வாதந்த்ர்யம் பல ப்ரமாணங்களால் ஸித்திக்கிறபடியால் सत्यन्तविशेषणम् பொருந்தாது.
 
-ज्ञानशक्त्यादिगुणाभावे मोक्षप्रदातृत्वं   
-भगवतः   
-कथमुपपद्येत । 
+இரண்டாவது பக்ஷமும் நேரில்லை. ஒரேவிஷயமாகில் அதில் ஒரேநேரத்தில் ஒருவருக்கு Aமும், அதே நேரத்தில் பாரதந்த்ர்யமும் சேராது. இங்கு விஷயபேதமிருப்பதால் பொருந்தலாமே!
 
-विरोधिपापनिरसनेष्टप्रापणादीनां   
-ज्ञानशक्त्यादिसाध्यत्वेन 
+இந்த தோஷத்தைப் போக்க இருவருக்கும் இரண்டும் சேருமாயினும், பகவத்ஸ்வரூப லக்ஷ்மீ ஸ்வரூபங்களைப் பிரித்துக் காட்ட இப்படி இசைவது தேவையானபடியால் இப்படிக்கொள்கிறோம் - என்று கூறினால் அதுவும் தகாது. : HRUTH என்றாலும் “मृदुर् दयालुर् मधुरस् स्थिरस् समः" (ஸ்தோத்ரரத்னம்) \[மென்மை, அருள்வது, இனிமையாய் நடந்துக்கொள்வது, எடுத்த முடிவிலிருந்து மாறாமை, எல்லோரையும் ஸமமாக பாவிப்பது என்பவை இருவருக்கும் பொதுவானவை என்றதாலும்\], ல் 3 \[பிராட்டி கூறுவது இது - ப்ரம்ஹாவை த்வேஷித்து வெறுத்தவரான [[P87]]
 
-तदुपायत्वावश्यंभावात्, तदनङ्गीकारे च   
-मोक्षसिद्धिर्न स्यात् । 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-42 लक्ष्म्युपायत्वदीपः 
+சிவனுக்கு த்ரிபுரஸம்ஹாரம் அவர் செய்தபோது அஸுரர்களை கொல்வதற்காக வில்-அம்பு இவைகளை நானே ஏற்படுத்தினேன்) "अहं रुद्राय धनुर् आतनोमि ब्रह्म-द्विषे शरवे हन्तवा उ” “ईश्वरीम् सर्व-भूतानां ताम् इहोपह्वये श्रियम्" (ஸ்ரீஸூக்தம்) \[நல்வாஸனைகள் நிறைந்த பொருள்களில் நித்யவாஸம் செய்பவளாயும், ஒருவராலும் போரிட்டு வெல்லமுடியாதவளும், எப்போதும் எல்லாவகையான நிறைவுகள் பொருந்தியவளும், பசுமாட்டுகோமயத்தில் வஸிப்பவளும் அல்லது பட்டத்து யானைகளாகிய உயர்ந்தவாஹனத்தில் உலா வருபவளுமாகவும், அல்லது கரிகிரி என்னப்பட்ட காஞ்சியிலிருக்கும் அத்திகிரிக்குத் தலைவரான ஸ்ரீதேவாதிராஜனின் பட்டமஹிஷியான பெருந்தேவி (HUèc)த்தாயார் என்னப்பட்டவளாயும், ஸமஸ்தபூதஜாதங்களுக்கும் தலைவியுமான அத்தகைய பெரியபிராட்டியாரான ஸ்ரீயை இங்கு நல்லநேரத்தில் நன்மைகளை அளிக்க அழைக்கிறேன் - என்று பொருள்.\] என்பன போன்ற ஸ்ருதிவாக்யங்கள் தெரிவித்த கல்யாண குணங்கள் இருவருக்கும் பொதுப்படையாய் அமைந்தவை என்று பெரியோர்கள் திருவுள்ளப்படுவதால் இருவரின் ஸ்வரூபபேத ஸூசகமாக இது ஆகாது.
 
-एवंविधदृष्टोपयोगाभावेन लक्ष्म्या उपायत्वानङ्गीकारे बाधकाभावान्न गुणप्रतिवन्धिमुखेनोपायत्वसिद्धिः। 
+பூர்வபக்ஷி எடுத்த பட்டபராரைரின் சுலோகத்திலும் युवत्वादौ jsfq என்ற உலகில் புருஷர்களிடம் பெரும்பாலும் காணப்படுவதான - பிறருக்கு வயப்படாமை எதிரிகளை அழிப்பது எடுத்த முடிவில் நிலையாயிருப்பது முதலானவைகளையும், பெண்களுக்கு மட்டுமே என்றவை போன்று உள்ள மென்மை கணவர் அபிப்பிராயத்திற்கு ணங்க நடந்துக் கொள்வது - காருண்யம் பொறுமை என்பனவைகளை நீர் வெளியிடுகிறீர். स्थिरत्वम् முதலானவை பிராட்டியிடம் உள்ள போதிலும் அவைகளை மறைத்துக் கொண்டு, ஆஸ்ரிதர்கள் விலகிச் செல்லாமல் அண்டிவருவதற்கு ஏற்ற மென்மை [[P88]]
 
-(ல.க) பூர்வகண்டத்தில் சி்ங்கள் அனைத்துக்கும் 91444 வந்துவிடும் என்ற பயத்தால் \- லக்ஷ்மியும் ப்ராபிகை என்பதை விட்டோம் என்னக்கூடாது. ப்ராப்யமான பரம்பொருளின் ஸ்வரூப\-ரூப\-குண\-விக்ரஹ- விபூதி\-பத்னீ\-பரிகராதிகள் யாவும் ப்ராப்யகோடியில் 
+लक्ष्म्युपायत्वदीपः
 
-அடங்கின. 
+முதலானவைகளை வெளியிடுகிறீர் - என்றே அந்த சுலோகத்துக்கு கருத்து. இவைகளையே புருஷகாரத்வம் तदभावः M: என்பதைப் போன்று பிரித்துக்காட்டினார்கள்.
 
-பகவானுக்கு   
-ஆகவே   
-லிபுகமாக அவைவரும். 
+எதிரிகளை அழிக்க எம்பெருமான் எப்போதும் தாங்கிவரும் ஐந்து ஆயுதங்களும் பிராட்டிக்கும் உண்டு सामान्यभोग्यमपि என்று ஸ்ரீபட்டரே காட்டியருளினார். -4- என்றதால் கௌஸ்துபமும் \[ஜீவாத்மாபிமானி தேவதையானது இது\] வைஜயந்தி என்ற வனமாலையும் பிராட்டிக்கும் ப்ரியமானதே. ஸ்ரீஹரியின் புஜாந்தராளத்தில் ஆடுவதைப்போன்று ஊஞ்ஜல் கைகளால் வனமாலையைக் பற்றிப்பிடித்துக்கொண்டு விளையாடிவருவதற்கு இது பயன்படுகிறதே! அதனால் qaங்களும் களே.
 
-ज्ञान- शक्तयादि गुणाभावे मोक्षप्रदातृत्वं न स्यात् 
+காயத்ரீதேவதையை த்யானிக்கும் போது, "हेम-नील-धवल-च्छायैः मुखैः त्र्यक्षैः युक्ताम् इन्दु-कला-निबद्ध-मकुतां तत्त्वार्थ-वर्णात्मिकाम् । गायत्रीं वरदाभयाङ्कुश-कशाः शुभ्रं कपालं गुणं शङ्खं चक्रम् அரிவு 4" என்ற பௌராணிக சுலோகத்தை அநுஸந்திக்கும்படி தர்மஸாஸ்த்ரகாரர்கள் தெரிவித்தவை. இது ப்ரம்ஹு-ருத்ர-ஸ்ரீவிஷ்ணு என்ற மூன்று மூர்த்திகளுக்கும், அவரது மனைவிமார்களாக இதிஹாஸ- புராண-ஆகமாதிகளில் ப்ரஸித்தரான ஸ்த்ரீதேவதைகளுக்கும் உடைய அவயவங்களும், ஆயுதங்களும், பூஷணாதிகளுமாகும். இப்படி ஒரு விசித்ரமான உருவுடன் ஒரு தேவதை இருக்கமுடியாதே? இதை எப்படி நம்புவது? இது ஸர்வஸமரஸவாதிகளான சிலரால் பண்சாத் காலத்தில் கல்பிக்கப்பட்டதா? என்று சிலருக்கு எண்ணத்தோன்றும். இவைகளுக்கு பதிலை [[P89]]
 
-என்பதற்காகத்தானே குணாதிகளை ஒப்பினோம். 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-நமக்கு   
-நீக்கவும், 
 
-இஷ்டமானவற்றை சேர்ப்பிக்கவும் ஜ்ஞானஸக்த்யாதிகள் 
+ஸ்ரீஸ்வாமி தேசிகனின் சது: சுலோகீபாஷ்யத்தில் காணலாம்.
 
-பகவானுக்கு 
+ப்ரம்ஹ-ருத்ராதிகள் புண்யபாபங்களுக்கு உட்பட்டு, சில நல்ல கார்யங்களைச் செய்து எம்பெருமானின் திருவாராதனமஹிமையால் மீண்டும் தங்கள் தங்கள் பதவியை அடைந்தார்கள் என்பது "कथञ्चित् सुकृतैर् लब्धैः" (इतिहाससमुच्चये १३-८) என்பதால் ஏற்படுகிறது. பல்லாயிரம் கோடியுகங்கள்கணக்காய் ஸ்ரீவிஷ்ணுவை ஆராதித்து தாமரையோனான ப்ரம்ஹா மீண்டும் மூவுலகுக்கும் ப்ரம்ஹாவாக இருக்கும் நிலையை அடைந்தார் என்பது இதன் கருத்து. இதேபோல் - ரிக்வேதத்தில் 7–40-5ல்:
 
-கொண்டோம்   
-\-   
-\- 
+> “सर्वमेधे महात्मा हुत्वाऽऽत्मानं देवदेवो बभूव ।  
+> विश्वान् लोकान् व्याप्य विष्टभ्य कीर्त्या विराजते द्युतिमान् कृत्तिवासाः”
 
-அநிஷ்டமானவற்றை 
+என்று உள்ளது. எம்பெருமானைக் குறித்து தமது உடலுட்பட எல்லாவற்றையும் ஹோமம் செய்வது என்ற யாகத்தில் மஹாதேவன் என்னப்பட்ட சிவனார் தன்னையே ஹோமமாகச் செய்து தேவதேவனானார். இப்போது உலகினர் அனைவரையும் விட ஒளி பொருந்தியவராய் எங்கும் அஷ்டமூர்த்தியாகி வ்யாபித்து மிக்க ஒளி - புகழுடன் விளங்கிவருகிறார் - என்று இதன் பொருள். இது போன்று - ப்ரம்ஹ-ருத்ராதிகளைப் பற்றிய அனேகவசனங்கள் உண்டு. இவர்களுக்கே இந்நிலை என்றால் இவர்களின் மனைவிமார்களுக்கும் இப்படி உலகினரால் கொண்டாடத்தக்க நிலை கூடுமே.
 
-விட்டுப்பிரியாமலிருப்பனவாகக் த் \- என்று இதை ச்ருதி 
+ஸ்ரீந்ருஸிம்ஹதாபநீயோபநிஷத்தில் - “क्षीरोदार्णवशायिनं” என்பன போன்ற மந்த்ரங்களில் சிவனின் பெருமைகள் காட்டப்பட்டன. ப்ரம்ஹாவின் தலையை சிவன் கிள்ளியது இங்கு ஸ்பஷ்டம். பின் இதே ஸூக்தத்தில் [[P90]]
 
-காட்டியது. 
+लक्ष्म्युपायत्वदीपः
 
-இத்தகைய கண்ணுக்குத் தெரியக்கூடிய உபயோகம் ஏதுமில்லாதபடியால் \- லக்ஷ்மிக்கு உபாயத்வம் கொள்வது வீண். உபாயத்வம் இசையாவிடில் புகமுமில்லை. 
+> “श्रियं देवीम् औपलाम् अम्बिकां गाम् षष्ठीं जयाम् इन्द्रसेनाम्”
 
-(S.ச.)   
-अनादिकालमाज्ञातिलङ्घनप्रयुक्तभगवच्चित्तकालुष्यविनिवर्तन- कृपोत्तम्भनादिरूपदृष्टमुखेनैव लक्ष्म्याश्चोपायत्वं युक्तमिति न च वाच्यम्, इदं तु पुरुषकारकृत्यं तचाङ्गीकृतमेव, तदतिरेकेण दृष्टव्यापाराभावेन न गुणन्यायप्रवृत्तिः। न चैवं सति विग्रहहेतुत्वासिद्धिः, विग्रहस्य चरणाविति विशेषोक्तिबलेनैव हेतुत्वसिद्धेः, अन्यथा "अनतिक्रमणीयमेव चरणग्रहणम्", अन्यथासिद्धेर्वक्तुमशक्यत्वात् । किञ्च 
+என உள்ளது. 3ர்பு14 = கற்களின் குவியலான பெருமலையான ஹிமவானின் மகளை அரியுக என்ற சொல் चण्डिका ऽम्बिका என்று கோசங்களில் பார்வதீபரமாகச் சொல்லப்பட்டது. इन्द्रसेनाम् என்பதும் இந்த்ரன் அஸுரர்களுடன் போரிடும் போது ஸேனையின் முன்னே பார்வதி சென்றதாய் புராணங்களில் விளக்கப்பட்டது. இப்படி அனேகம் உண்டு. ஆகவே பெரியபிராட்டி எம்பெருமான் என்ற திவ்யதம்பதிகளுக்கே பெருமை என்பது எப்படி? என்று கேள்வி.
 
-43   
-चरणग्रहणवैयर्थ्यापत्तेः 
+பதில்:- இதற்கு தூரிhத்திலும் தாபநீயோபநிஷத்திலும் உள்ள சொற்களை Aq4:, nira Adu: என்று ஆசார்யர் காட்டியருளினார். (i) 3: வுக: (ii) 3 = நிச்சயமாக H லக்ஷ்மியே - என்று இருபடி இந்தசொல் பிராட்டியைக்கூறும். J HI : என்று நிருக்தம். இம்மூன்று சொற்களும் பிராட்டியைக் கூறும். இது கொச்சை வார்த்தையில் உம்மாச்சி என பாலர்களால் வழங்கப்படுகிறது. ஒருவருக்கு தபால் எழுத முற்படும் போது ஸ்ரீ: என்று மேலே எழுதுவார்கள். அந்த எழுத்து வடமொழியான படியால் தமிழில் 'உ' எழுதத்தொடங்கினர். ஆகவே இவை லக்ஷ்மீவாசகமான சொற்கள். ஆகவே புரியான எம்பெருமானே. ஆயுஷ்யஹோமத்தில் வரும் க்ருதஸூக்தத்தில் கடைசீயில் ள்asagasa: என்று உள்ளபடியால் ஸ்ரீஹரியையே அது குறிப்பிடும். g ஏ என்ற போதும் ஸ்ரீஹரியே ஆயுளை அருள்பவன் என்பது ஸித்தம். மார்க்கண்டேயருக்கு "என்றும் 16 வயதே உமக்கு” என்று அநுக்ரஹித்து ஆயுளை அருளியது ஸ்ரீநாராயணனே - ஹரிவம்ணத்தில் தெரியவரும். இதையே மார்க்கண்டேயன் [[P91]]
 
-तस्य कथञ्चिदपि 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-केवलदिव्यात्मस्वरूपस्य   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+"புக்கடிமையினால் தன்னைக்கண்ட அவனை நக்கப்பிரானும் அன்று உய்யக்கொண்டது நாராயணன் அருளே." (திருவாய் 4-10-8),
 
-विद्यालम्बनत्वायोगेन शुभाश्रयत्वेन दिव्यमङ्गलविग्रहावश्यंभावात् मामिति दिव्यात्मस्वरूपस्य चरणाविति विग्रहस्य चोक्तेर्विशिष्टस्योपायत्वसिद्धिः, यद्यपि मामित्यस्य दिव्यात्मस्वरूपपरत्वमेव स्वरसम्, तथापि दिव्यमङ्गलविग्रहोपायत्वसाधकप्रमाणान्तरानुगुण्येन विग्रहविशिष्टदिव्यात्म- स्वरूपपरत्वमङ्गीकर्तव्यम् । न चैवं स्वरूपातिरिक्तविग्रहपरत्वे स्वरूपातिरिक्तत्वाविशेषाल्लक्ष्मीपरत्वमपि किं न स्यादिति वाच्यम्। चरणावित्यादिनियामकवल्लक्ष्मीपरत्वे नियामकानुपलब्धेः । 
+"நிறுத்தி நும் உள்ளத்துக்கொள்ளும் தெய்வங்கள் உம்மை உய்யக்கொள் மறுத்தும் அவனோடே கண்டீர் மார்க்கண்டேயனும் கரியே கறுத்தமனம் ஒன்றும் வேண்டா கண்ணனல்லால் தெய்வமில்லை இறுப்பதெல்லாம் அவன் மூர்த்தியாய் அவர்க்கே இறுமினே." (திருவாய் 5-2-7),
 
-नन्वेकशब्दस्यानेकार्थसम्भवेन कथं व्यवच्छेदार्थकत्वमिति चेन्न । अर्थान्तरेषु प्रसिद्धिप्राचुर्याभावात् एकत्वसंख्याबोधकत्वमुखेन व्यवच्छेदार्थे प्रसिद्धिप्राचुर्याच्च प्रकृते एकपदस्य व्यवच्छेदार्थकत्वमेव स्वरसम्, उपायान्तरेभ्यो निवृत्तस्याहमेक एवोपाय इति शरण्यान्तरव्यावृत्तेरेव कर्तुमुचितत्वात्। “तमेव चाद्यम्", "मामेव ये प्रपद्यन्ते", "त्वमेवोपायभूतो मे" इत्यादिषु भगवन्मोक्षोपायत्वस्यासाधारणत्व प्रतिपादनात् प्रकृते एकपदस्यासाधारणार्थकत्वमेव   
-युक्तम्। मामिति पदस्य लक्ष्मीविशिष्टपरत्वाद्विशिष्टातिरिक्तस्य शरण्यत्वव्यावृत्तिः क्रियत इति न च वाच्यम्, विशिष्टपरत्वे स्वारस्याभावात् प्रमाणाभावाच्च, अहं मामित्यादेस्स्वस्वमात्रपर्यवसायित्वस्य उत्सर्गतस्सर्वलोकसिद्धत्वात्। "अहं मनुरभवं सूर्यश्च" इत्यत्र प्रबलबाधकवलेन स्वातिरिक्तार्थस्वीकारः, न चात्र तथा बाधकमुपलभ्यते । किञ्च तत्रापृथक्सिद्धविशेषणवाचिशब्दानां चरमविशेष्यभूतपरमात्मपर्यवसानं वेदान्तव्युत्पत्तिसिद्धमिति भगवत्परत्वं युक्तं, प्रकृते भगवत एव सर्वप्रकारितया चरमविशेष्यत्वात् तत्र प्रयुज्यमानाहमादिशब्दानां लक्ष्म्यामपर्यवसानवृत्तेर्वक्तुमशक्यत्वात् । 
+"கண்டும் தெளிந்தும் கற்றார் கண்ணற்காளன்றியாவரோ வண்டுண்மலர் தொங்கல் மார்க்கண்டேயனுக்கு வாழுநாள் இண்டைச்சடைமுடி ஈசனுடன் உசாச்செல்ல கொண்டங்குத் தன்னோடும் கொண்டு உடன் சென்றதுணர்ந்துமே." (திருவாய் 7-5-7)
 
-(0.5) ஸித்தாந்தி கேட்கிறார்   
-அநாதிகாலமாக 
+என்று பல இடங்களில் காட்டியருளினார். மார்க்கண்டேயன் ஸ்ரீஹரிபக்தன்.
 
-நாம்   
-பகவதாஜ்ஞையாகிய ச்ருதி\-ஸ்ம்ருதிகளை 
+காயத்ரீகல்பத்தில் வரும் முக-அவயவ-வர்ண- ஆயுதாதிகளுக்கும் ஸ்ரீஸ்வாமிதேசிகன் அருளிய நிர்வாஹம் காண்மின்:-
 
-மீறிவந்துள்ளோம். இதனால் பகவானுக்குத் திருவுள்ளத்தில் 
+> "देवतायाः सन्ध्या-भेदेन वैष्णव्यादि-समाख्यानुकूल-वाहन-रूपादि-परिग्रह-शक्त्या माहात्म्य-वर्णने तात्पर्यां तत्र तत्र व्यक्तम् ; तादृशाश् च वाहनादयो ऽन्ये स्युः । न हि सारूप्य-मात्रेण त एवैते इति निश्चयः, अनेकेषाम् एक-जातीय-वाहनादि-दर्शनात् ॥"
 
-44   
-लक्ष्म्युपायत्वदीपः 
+என்று. காயத்ரீ என்பவள் ஸ்ரீலஷ்மியின் விபூதியாய் அமைந்த ஒரு தேவதை. இவளுக்கு காலை-மதியம்-மாலை என்று ஸந்த்யாகாலம் தோறும் வைஷ்ணவீ என்றவாறான பெயருக்குப் பொருத்தமாக வாஹனம்-உருவ அமைப்பு- ஆயுத தாரணம் முதலியன கைக்கொள்ளும் சக்தி உண்டு - என்று ஸ்ரீபெரியபிராட்டியாரின் பெருமைகளை தெரிவிப்பதிலேயே நோக்கமாகும். இதே போன்ற வாஹனாதிகள் பிறருக்கும் இருக்கக்கூடுமே? ஒத்த உரு முதலானவைகளைக் கொண்டு "அதுவே இது" [[P92]]
 
-சற்றே நம்மைப்பற்றி கலக்கம் ஏற்பட்டுள்ளது. இது தெளிய அவனுடைய கருணையைத் தூண்டிவிட பிராட்டி வேண்டுமல்லவா? இவ்வகையில் உபாயமாகக்கூடுமே? என்று, 34   
-4 38.4 அரிபு என்று இதை ஸ்ரீஸ்வாமிதேசிகன் காட்டியருளினார்.   
-இப்படி 
+लक्ष्म्युपायत्वदीपः
 
-எழுந்தருளியிருப்பதைத் தவிர   
-\-   
-புருஷகாரமாய் கல்யாணகுணங்கள் 
+என்னவொண்ணாது. இவ்வளவையும் கூறிவிட்டு ஸித்தாந்தத்தை ஒரு காரிகையால் தெரிவிக்கிறார் - girukபு என்று.
 
-எம்பெருமானைச்   
-சொன்னவிடங்களில்   
-எல்லாம் 
+ப்ரம்ஹா-ருத்ரன் முதலானோரே ஈஸ்வரனாகக்கூடும் என்று சிலருக்கு ப்ரமம் ஏற்பட, அதை முன்னிட்டுக்கொண்டு, அவர்கள் மனைவிமார்களிடமும் அவர்களும் லக்க்ஷ்ம்யம்ஸமாக இருக்கட்டுமே - என்ற வாதம் ஸ்ருதி-ஸ்ம்ருதி-இதிஹாஸ-புராண-ஆகமாதிகளுக்கு மாறானது. கண்டிக்கப்பட்டது - என்றபடி.
 
-தன்னடைவே வருகின்றன \- என்பதைப் போன்று பிராட்டியையும் அநுஸந்திக்கவேண்டும் என்ற நிர்பந்தம் இல்லை. 
+ஆகவே லக்ஷ்மியை உபாஸித்து இவர்கள் இத்தகைய பெருமைகளை அடைந்தார்கள் என்பதே உண்மை. இதனை ஆசார்யர் ஸ்ரீஸ்துதியில்:
 
-\- 
+> “आसंसारं विततम् अखिलं वाङ्मयं यद्-विभूतिः  
+> यद्-भ्रू-भङ्गात् कुसुम-धनुषः किङ्करो मेरु-धन्वा ।  
+> यस्यां नित्यं नयन-शतकैर् एक-लक्ष्यो महेन्द्रः ॥”
 
-ஒரு   
-இப்படிக் கொண்டால் திருமேனியைக் கூறும் போது என்ற த்விவசனம் ஒட்டாதே? என்ன வேண்டாம். அ என்று விரேஷமாய் கூறியபடியாலேயே அதுவும் ஹேதுகோடியில் அடங்கும் என்பது தெரியவரும். “अनतिक्रमणीयं हि चरणग्रहणम्” என்று ஸ்ரீபாஷ்யகாரர் அருளியுள்ளபடியால் இதை அங்கமாக \= வேறுவகையில் ஸாதிக்க வேண்டியதாகக் கொள்ளமுடியாது. மேலும், எம்பெருமானுடைய திவ்யாத்மஸ்வரூபத்துக்கு வித்யையில் உபாஸிக்கவேண்டிய பரம்பொருளுக்கு விசேஷணமாக நாம் மனதில் வாங்கிக்கொள்ள முடியாது ஆனபடியால் திவ்யமங்களவிக்ரஹம் அவஸ்யம் தேவை.   
-"चित्तालम्बन இதை த்வயாதிகாரத்தில் ஆசார்யரே \- சக 5: 3444 6 ரிAH" என்று அருளிச்செய்தார். இந்த திவ்யமங்கள விக்ரஹம் "परावरसुखग्राह्यं प्रेमबोधप्रसावकम्। ரிக fg:11" என்றும் அருளினார். \[நம்மைவிட மேலானவர்களான ப்ரம்ஹாதிகளாலும், நம்மைப் போன்ற தாழ்ந்தவர்களாலும் எளிதில்   
-எத்தகையது? என்பதையும்   
-\- 
+என்றருளினார். விரிவு நமது ஸ்ரீஸ்துதிவ்யாக்யானத்தில் காண்பது.
 
-45   
-\- 
+(लक्ष्म्युपायत्वदीपः) यद् अप्य् एतत् उक्तम् भवतीत्य्-आदिना लक्ष्मीः प्राधान्येन उपाय-कार्य-कारिणी न भवति, किन्तु तद्-अनुविधायित्व-मात्रवती विशेषणत्वात् दयादिगुणवत्, अन्यथा नैरपेक्ष्य-हानिर् इत्य् अभिप्रायेण उक्तम्, तद् अपि न घटते, प्राधान्य-विशिष्ट-उपाये कार्य-करत्वाभावस्य साध्यत्वेन विवक्षितत्वे विशेषणाभावप्रयुक्तविशिष्टाभावस्य लक्ष्म्याम् अङ्गीकारेण सिद्ध-साधनापत्तेः । “स्वतन्त्रः कर्ता" इत्य्-अनुशासनानुरोधेन अनिष्ट-निवृत्ति-पूर्वक-इष्ट-प्राप्ति-रूप-उपाय-कार्ये प्राधान्य-रूप-कर्तृत्वाभावस्य साध्यत्वे,
 
-\-   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> "लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया ।  
+> रक्षकस् सर्वसिद्धान्ते वेदान्तेषु च गीयते ॥"
 
-காணக்கூடியது, எம்பெருமானிடம் பக்தியையும் தெளிந்த ஜ்ஞானத்தையும் வளர்ப்பது. ஆகவே எம்பெருமானின் ஸ்வரூபத்தைவிட திருமேனி நம்மால் எளிதில் ஏற்றுக்கொள்ளும் நிலையில் இருக்கிறது என்று கருத்து இதற்கு.) 
+"कामवत् सा ऽमृतं दुहाना”, “श्रियं लोके देव-जुष्टाम् उदाराम्”, “सा नो लोकम् अमृतं दधातु”, “ईशाना देवी भुवनस्य अधिपत्नी”, “श्रियं वसाना अमृतत्वम् आयन्”, “सकृद्-विभाता सर्वार्तिसमुद्रपरिशोषिणी”, [[P93]]
 
-ஆகவே माम् என்பது எம்பெருமானின் திவ்யாத்மஸ்வரூபத்தையும்,   
-चरणौ 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-திவ்யமங்களவிக்ரஹத்தையும் காட்டுகிறது   
-என்பது 
+“भवभङ्गापहारिणीं”, “पर-निर्वाण-दायिनी”, “ज्योतिष्मत्य् अमृतावहा”, “आत्म-विद्या च देवि त्वं विमुक्ति-फल-दायिनी”, “ऐश्वर्यम् अक्षर-गतिं परमं पदं वा कस्मैचिद् अञ्जलि-भरं वहते वितीर्य" इत्य्-आदि-प्रमाण-सम्प्रदाय-पर्यालोचने लक्ष्म्या अपि रक्षण-स्वातन्त्र्य-रूप-कर्तृत्व-प्रतीतेर् बाधापत्तेः । न च "सहयुक्ते ऽप्रधाने" इत्य्-अनुशासनेन अप्रधाने तृतीया-विधानेन लक्ष्म्या सहेत्य् अत्र तृतीयया तस्या अप्रधानत्व-अवगमात् स्वातन्त्र्य-रूप-कर्तृत्वं नोपपद्यत इति वाच्यम्, अप्रधाने तृतीया-विधानेन "पुत्रेण सह आगतः पिता” क्षीरेण सहौदनं भुङ्क्ते, इत्य्-आदिषु पुत्र-क्षीरादीनां पितृ-ओदनाद्य्-अपेक्षया अप्राधान्ये विवक्षिते ऽपि गमनानुकूलकृतिमत्त्वरूपकर्तृत्वस्य, भोजनक्रियया आप्तुम् इष्टतमत्व-लक्षण-कर्मत्वस्य, च उपात्त-एक-धर्म-अन्वयित्व-रूप-साहित्य-बल-लब्धस्य अनपायवद् अत्रापि भगवद्-अपेक्षया ऽप्राधान्ये विवक्षिते ऽपि रक्षण-क्रिया-अनुकूल-कृतिमत्त्व-रूप-तत्-कर्तृत्वस्य अनपायात् । अन्यथा "सो ऽश्नुते सर्वान् कामान् सह ब्रह्मणा विपश्चिता” इति श्रुत्या ब्रह्मणो ऽपि प्राप्यत्वं न स्यात् । किञ्च, "सहयुक्ते ऽप्रधाने" इति सूत्रस्य कर्तृ-कारकाद्य्-अतिरिक्त-विषयत्वं महाभाष्ये पतञ्जलिना पुत्रेण सहागतो देवदत्त इत्य्-आदेर् उदाहरणत्वं पराकुर्वता प्रदर्शितम् । तद्-भाष्यं च, “किम् उदाहरणम् - तिलैस् सह माषान् वपत इति । नैतत् अस्ति, तिलैर् मिश्रीकृत्य माषा उप्यन्ते, तत्र करण इत्य् एव सिद्धम् । इदं तर्हि - पुत्रेण सहागतो देवदत्त इत्य् अप्रधाने कर्तरि तृतीया यथा स्यात् । एतद् अपि नास्ति प्रयोजनम्, प्रधानकर्तरि लादयो भवन्तीति प्रधानकर्ता तेनाभिधीयते । यच् चाप्रधानं, सिद्धा तत्र कर्तरि इत्य् एव तृतीया । इदं तर्हि पुत्रेण सहागमनं देवदत्तस्य इति, षष्ठ्य् अत्र बाधिका भविष्यति” इत्य्-आदिकम् । तस्माल् लक्ष्म्येति तृतीयया रक्षण-कर्तृत्व-प्रतिपादनात् बाधो दुरुद्धरः । तद्-अनुविधायित्वं च तद्-अनुसारेण कर्तृत्वं, करणत्वम् अन्यद् वा । आद्ये सिद्ध-साधनम्, दृष्टान्ते दयादौ साध्य-वैकल्यं च स्यात् । द्वितीये, च लक्ष्म्येति तृतीयायाः करणार्थकत्वे परशुना सह छिनत्तीति प्रयोगाभावेन सह-शब्द-वैयर्थ्यापत्त्या कर्तृ-साहित्य-बोधक-सह-शब्दानुसारेण च कर्तृत्वस्यैव प्रतीत्या बाधस् स्यात् । अत एव न तृतीयः, कर्मत्व-सम्प्रदानत्वादीनाम् अत्र अप्रतीतेः, पक्षे बाधात् दृष्टान्ते साध्य-वैकल्यापत्तेश् च । [[P94]]
 
-ஆகவே 
+लक्ष्म्युपायत्वदीपः
 
-திவ்யமங்களவிஸிஷ்டமான திவ்யாத்மஸ்வரூபமே உபாயம் \- 
+न चैवं सति नैरपेक्ष्य-हानिः, तद्-अभावस्य "स्वतः श्रीस् त्वं विष्णोस् त्वम् असि तत एवैष भगवान् तद्-आयत्तर्द्धित्वे ऽप्य् अभवद् अपराधीन-विभवः । स्वया दीप्त्या रत्नं भवद् अपि महार्घं न विगुणं न कुण्ठ-स्वातन्त्र्यं भवति च न चान्याहित-गुणम्” इत्य्-अभियुक्त-उक्त-विशेषण-आयत्त-अतिशयेन विशेष्यस्य न वैगुण्यम् इति साधयद्भिर् आचार्यैर् एव प्रदर्शितत्वेन नैरपेक्ष्य-हानि-रूप-अनिष्ट-प्रसङ्ग-अनवतारात् । सूपसदत्व-शुभाश्रयत्व-प्रसादनादि-मुखेन गुण-विग्रह-परिष्कारादि-सापेक्षतयोपायस्य नैरपेक्ष्यं न स्याद् एव । न चैवं लक्ष्म्या अप्य् उपायत्वे, अनन्योपायत्वं भज्येत इति वाच्यम्, तस्या उपेयत्वे, अनन्योपेयत्वम् अपि न स्यात्, लक्ष्म्याः विशेषणत्वेन स्वतन्त्र-उपेयान्तर-शून्यत्व-लक्षण-अनन्योपेयत्व-विरोधो नास्तीति चेत्, प्रकृते ऽपि समानम् इत्य् आचार्यैर् एव परिहृतत्वात् । अत एव अस्याः पृथग्-उपायत्व-वचनं भगवत्-प्रेयसीत्व-मुखेन तत्-प्रसादन-द्वारेण, अन्यथा ऽस्याः पारार्थ्यायोगाद् इत्य्-आदिना विपक्षे बाधक-उपन्यास-पुरस्सरं गुण-विग्रहयोस् सूपसदत्व-शुभाश्रयत्व-रूप-कार्यापयोगितया भगवद्-अनुविधायित्व-मात्रवत् भगवत्-प्रसादन-रूप-पुरुषकार-कार्य-उपयोगित्व-रूप-तद्-अनुविधायित्व-मात्रम् एव अस्यास् स्वरूपम्, न तु उपायत्व-कारणत्व-नियन्तृत्वादिकम् इत्य् उक्तम् अपि परास्तम् । अबाधित-अनन्यथासिद्ध-प्रमाण-सम्प्रदायाभ्यां कारणत्व-नियन्तृत्व-शेषित्व-रक्षकत्वादीनां बहुशः स्थापितत्वात् । पारतन्त्र्यस्य कारणत्वाद्य्-अभावं प्रति अप्रयोजकत्वादेर् उक्तत्वात् तर्क-अनवताराच् च । तस्माल् लक्ष्म्या उपायत्वम् अपि प्रामाणिकम् इति निष्कर्षः । [[P95]]
 
-என்பது ஸித்தித்தது. 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-ஒருவகையில் माम् என்பது 
+(ல.க) கேள்வி:- லக்ஷ்மியானவள் ப்ரதானமாக உபாயமாகிய நிலையில் இருப்பதில்லை. பின் என்ன? எம்பெருமானைப் பின்பற்றி - எம்பெருமானின் தயாதிகுணங்களைப் போன்று விசேஷணமாய் அமைகிறாள். இப்படி இசையவில்லை என்றால் எம்பெருமான் HfqAன் - என்று நாம் ஒப்பியுள்ளோமே - அதற்கு குறைபாடு வரும் - என்று.
 
-வீற்றிருக்கும்   
-எம்பெருமானைக்   
-தேர்த்தட்டில் 
+பதில்:- நீங்கள் கூறுவது ஒருவகையில் எப்படி? எனில் प्राधान्यम् பகவானுக்கு, அவனுக்கு लक्ष्मीविशिष्टत्वम् என்பதை பிராட்டியிடம் இங்கு தெரிவிக்கிறோம் என்பதை विशेषणाभावप्रयुक्तविशिष्टाभावत्वम् ஒப்பியபடியால் - இது ஸித்தஸாதனமே அன்றோ? "स्वतन्त्रः कर्ता" என்றார் பாணினி மஹர்ஷி. கார்யம் என்பது अनिष्टनिवृत्तिपूर्वकेष्टप्राप्तिरूपोपायाचरणम् - இப்படிக் கொண்டால்:
 
-காட்டுவதால் 
+> “लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया ।  
+> रक्षकः सर्वसिद्धान्ते वेदान्तेष्वपि गीयते”
 
-திவ்யமங்களவிக்ரஹத்தைத் தான் சொல்லவல்லது \- என்பது சிலரது கொள்கை. ஆயினும் “திவ்யமங்களவிக்ரஹத்துடன் 
+"कामवत् सा ऽमृतं दुहाना” \[கன்று குட்டியிடம் வாத்ஸல்யம் கொண்டு பாலைச்சுரக்கும் பசுவைப்போல் - நமக்கு பிராட்டி அம்ருதத்தை = மோக்ஷத்தை அருள்பவள்\] “श्रियं लोके देव-जुष्टाम् उदाराम्”, “सा नो लोकम् अमृतं दधातु", "ईशाना देवी भुवनस्य अधिपत्नी", "श्रियं वसाना अमृतत्वम् आयन्", “सकृद्-विभाता सर्वार्त्तिसमुद्रपरिशोषिणी”, “भवभङ्गापहारिणीम्”, “पर-निर्वाण-दायिनी”, “आत्म-विद्या च देवि! त्वं विमुक्ति-फल-दायिनी”, “ऐश्वर्यम् अक्षर-गतिं परमं पदं वा कस्मैचिद् अञ्जलि-भरं वहते वितीर्य", "வேரி மாறாத பூமேலிருப்பாள் வினைதீர்க்குமே" என்கிற ப்ரமாண-ஸம்ப்ரதாயங்களை நன்கு ஆராய்ந்தால் லக்ஷ்மிக்கும் ஜீவ ரக்ஷணத்தில் ஸ்வாதந்த்ர்யம் உண்டு என்று ஏற்படுகிறபடியால் அவைகளுக்கு பாதிப்பு ஏற்படும். [[P96]]
 
-பரமாத்மாவே   
-உபாயம்" 
+लक्ष्म्युपायत्वदीपः
 
-காட்டவல்லப்ரமாணங்களை அநுஸரித்து   
-கூடிய 
+கேள்வி:- "सहयुक्ते अप्रधाने" என்ற வ்யாகரணஸூத்ரப்படி 3 Hக ஜிக்ன: என்றபோது அரிக: இது. ஆகவே स्वातन्त्र्य A ரூபமான கர்4 கூடாதே? என்று.
 
-இங்கு திருவுள்ளம். 
+இதற்கு பதில்:- 2046 3rd: fi என்றபோது புத்ரனுக்கு ப்ராதான்யம் இல்லாவிடினும், आगत: என்றபோது IHHIH என்பது பிதா-புத்ரர் என்ற இருவருக்கும் எப்படி வருகிறதோ - அப்படி இங்கும் பகவதபேக்ஷயா பிராட்டிக்கு - ம் இருப்பினும், ஜீவர்களை ரக்ஷிப்பது - என்ற க்ரியையைப் பற்ற தH 4 கூடும். இதேபோல் என்ற போதும், ரிபு அ4 SLGHGH என்கிற த4H கூடும். இப்படி ஒப்பவில்லை என்றால் - His Hா புரி என்றவிடத்திலும் ப்ரம்ஹத்துக்கு யும் இல்லாமல் போய்விடும்.
 
-இப்படியானால்   
-\-   
-என்று உபாயமும் 
+மேலும், "सहयुक्ते अप्रधाने" என்ற ஸூத்ரத்திலுள்ள மஹாபாஷ்ய விரோதமும் ஏற்படும். இந்த ஸூத்ரத்துக்கு உதாஹரணமாக ஏகதேசீ காட்டிய ன்i> <qqv: என்பதை மறுத்துவிட்டு, அப்படியானால் किम् उदाहरणम् ? என்று கேட்டுக்கொண்டு - Ax: 49 aasa என்று காட்டினார். இதை "ca, Ai: வுகன்' SH" 5 f" என்று மறுத்துள்ளார். எள்ளுடன் கலந்து உளுந்தை விதைக்கும் போது - Ax; என்றவிடத்தில் 'கர்கணள்ள' என்பதாலேயே மூன்றாம் வேற்றுமை விபக்தி வரலாமே, அதற்காக தனித்து ஸூத்ரம் வேண்டாமே? என்பது ஸ்ரீபதஞ்ஜலியின் ஆசேஷபம். அப்படியானால் पुत्रेण सह आगत: देवदत्तः என்பது [[P97]]
 
-பரமாத்மஸ்வரூபத்தைவிட 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-\-   
-வேறான விக்ரஹமும் உபாயம் என்று கொண்டால் 
+உதாஹரணமாகட்டுமே என்று கேட்டுக்கொண்டு, kaaiq नास्ति प्रयोजनम्, “प्रधानकर्तरि लादयो भवन्ति" इति प्रधानकर्ता क्तेन अभिधीयते। यच्च अप्रधानम् तत्र कर्तरि इत्येव तृतीया என்று விளக்கிக்காட்டிவிட்டு, அதன்பிறகு - aq என்றவிடத்தில் யாது க என்றாகும் என்று காட்டினார். ஆகவே இங்கு Ø என்ற புளிகயால் THU4jம் தெரிவிக்கப்பட்டபடியால் ம் கட்டாயம் ஏற்படும்.
 
-என்பது பிராட்டிக்கும் உண்டானபடியால் பிராட்டியையும் உபாயமாக ஏன் கொள்ளக்கூடாது? என்ன வேண்டாம். என்ற சொல் திருவடியிணையையே சொல்லவல்லது என்பதைப் போன்று பிராட்டி விஷயத்தில் வேறு நியாமகமில்லையே? 
 
-உண்டு,   
-· 
+பகவானுக்கு லக்ஷ்மி புரிபுரி என்ற கொள்கையும் தப்பு. இந்த, பின் தொடர்ந்து செயல்படுவதாகிய 3fd4 கயில் சேர்ந்தது என்று கூறினால் அது. எம்பெருமானுடைய தயையும் நமது ரக்ஷணத்தில் பயன்படுவதால் சாÅபு ஏற்படும். "இந்த H - கணத்தை விட வேறு" என்றால் என்ற போது த்ருதீயை கரணார்த்தத்தில் என்று முடிவாகும். அது நேரில்லை. परशुना सह qRA-fi என்றுதான் ப்ரயோகமே ஒழிய - என்பது ஸாதுப்ரயோகமில்லையே.
 
-ஆனபடியால்   
-இங்கு   
-கேள்வி: 4 என்ற சொல்லுக்கு பல பொருட்கள் மற்றொரு ஆத்மஸ்வரூபத்தைத் தடுக்கிறது என்கிற பொருளும் கூடுமோ என்றெண்ணவேண்டாம். வுத்புன: என்று   
-\- 
+அப்போது Hē என்ற சப்தம் வேண்டாமே. லக்ஷ்ம்யா ஸஹ என்றபோது கப்வுகள் தெரியவில்லையே.
 
-கோணத்தில் \- பல பொருட்கள் கூறப்பட்டிருப்பினும், ஒன்று என்ற பொருளிலேயே ப்ரஸித்தி அதிகம் உண்டானபடியால் 
+இப்படியானால் பிராட்டியே கிடையாதே, வேண்டாமே?
 
-46   
-लक्ष्म्युपायत्वदीपः 
+(:) 66060T & FIT. இதை ஸ்வாமிதேசிகனே ஸ்ரீகுணரத்னகோஸத்தில் (சு.31) வரும் ஒரு சுலோகத்தைக் காட்டி மறுத்துள்ளார்.
 
-இங்கு ஜ்ஞானயோக \- பக்தியோகாதிகளான உபாயங்களிலிருந்து நிவ்ருத்தனாய் நிற்பவனைக் குறித்து \- இங்கு IhH என்பது   
-கபு தான் தகும். கர்மயோக 
+> “स्वतः श्रीस् त्वं विष्णोस् त्वम् असि तत एवैष भगवान्  
+> त्वद्-आयत्तर्द्धित्वे ऽप्य् अभवद् अपराधीन-विभवः ।  
+> स्वया दीप्त्या रत्नं भवद् अपि महार्घं न विगुणं  
+> न कुण्ठ-स्वातन्त्र्यं भवति च न चान्याहित-गुणम् ॥” [[P98]]
 
-சொல்லப்பட்டது கொள்ளவேண்டும்.   
-கட்டாயம் 
+लक्ष्म्युपायत्वदीपः
 
-இதனால்   
-3மாகவே 
+என்பது அந்த ச்லோகம். விசேஷணத்தால் ஏற்பட்ட அதிமயம் ஏற்கெனவே அதியைமான பொருளுக்கு வைகுண்யத்தை உண்டு பண்ணாது -என்பதை ரத்னம் அதன் ஒளி என்ற இரு பொருளையும் கொண்டு நிரூபித்து - அதைப்போல் இங்கும் எம்பெருமானுக்கு இயல்பாக உள்ள பெருமைகள் - பிராட்டியின் பெருமைகளால் பூரித்ததே ஒழிய முன்பு இல்லாமலிருந்து புதியதாய் வந்தவைகள் அல்ல - என்று காட்டினார்.
 
-எம்பெருமான் 
+இவ்வளவு தூரம் ஒப்பவில்லை என்றால் - அனந்த கல்யாணகுணங்களால் எம்பெருமான் 4-ன்= நன்கு எளிதில் ஆஸ்ரயிக்கத்தக்கவன் என்பதும், திருமேனி ஸௌந்தர்யாதிகளால் மங்களங்களை நமக்கு அருள்பவன் என்பதும், மற்றும் இத்தகையனவும் ரா-வுககரிபுகளுக்கு ஒப்பியபடியால் - அங்கும் FRI4 ஏற்படும்.
 
-ஒருவனைத்தவிரலை \- என்பது ஏற்படுகிறது. மேலும் 744 \- (ie 15-4) \[அந்த எல்லாவற்றிற்கும் காரணமான பரமபுருஷனைச் சரணம் புகுகிறேன்\], புரப்பு q प्रपद्यन्ते (itar 7-14) \[என்னையே எவர்கள் சரணம் புகுகிறார்களோ\], ப்பு (அஹிர்புத்ந்ய ஸம்ஹிதா 37-31) \[தேவரீரே அடியேனுக்கு உபாயமாக எழுந்தருளியிருக்கக் கடவீர்\], இது முதலானவிடங்களில் பகவான் ஒருவனே மோசேஷாபாயம் என்பது ஏற்படுகிறபடியால் 4பு என்பதற்கு &மே தகும். 
+பிராட்டிக்கும் உபாயத்வம் கொண்டால் 3பு4 என்பது பகவானுக்கு இல்லாமல் போய்விடுமே என்று எண்ணவேண்டாம். இவளை உபேயகோடியில் சேர்த்தாலும் अनन्योपेयत्वम् என்பதும் பகவானுக்கு ஸித்திக்காதே! "விஷேணரூபேண பிராட்டி உபாயகோடியில் சேர்கிறாள் - என்று கொண்டாலும், இங்கும் இப்போதும் அது ஸமம் - என்று ஆசார்யர் திருவுள்ளப்படுகிறார்.
 
-HIH என்கிற சொல்லுக்கு "பெரியபிராட்டியுடன் 
+(लक्ष्म्युपायत्वदीपः) यद् अप्य् अर्वाचीनैर् अभिहितम्, तत्-प्रमाण-सम्प्रदाय-स्वारस्य-अज्ञान-विजृम्भितम्, तथाहि लोके अपराधिनाम् अपराध-प्रतिसम्बन्धि-प्राप्ति-कार्ये घटक-उपाय-सम्बन्ध-दर्शनेन भगवत्-प्राप्ति-রূপ-कार्यं प्रति कस्य घटकत्वं कस्योपायत्वम् इत्य्-अपेक्षायां "मत्-प्राप्तिं प्रति” इत्य्-आदि-प्रथम-श्लोकेन संसारे ऽधःपततां जन्तूनां तत्-निवृत्ति-पूर्वक-भगवत्-प्राप्तिं प्रति पुरुषकारत्वे लक्ष्मीः
 
-\-   
-கூடிய என்னை" என்று பொருள், ஆனபடியால் இந்த திவ்யதம்பதிகளைவிட வேறு யாரும் உபாயமில்லை \- என்று ஏற்படுகிறது \- என்று கூறமுடியாது. faley Renald, 94\[UM\[q\[€. உலகில் எங்கும் 354, HIH என்ற சொற்களுக்கு தன்தன்னை மட்டிலுமே கூறும் நிலையை எல்லோரும் ஒப்பினார்களே. "3É AHÁ சÁ2" என்ற வாமதேவரின் வாக்யத்தில் Há என்பது \- அவருடன் நிற்காமல் அவருக்கும் அந்தர்யாமியாய் உள்ளே உறையும் எம்பெருமானை சொல்லவந்தது \- என்பது 'in aqcen anHgqad' என்ற ப்ரம்ஹஸூத்ர **\-** பாஷ்யாதிகளில் தெளியலாகும். எங்கோ எதற்காகவோ கூறிய ந்யாயம் இங்கு பொருந்தாது. மேலும்,   
-अपृथक्सिद्धयविशेषणवाचिनां   
-\- 
+> “जाज्वल्यमानं तं दृष्ट्वा नारसिंहं सुरोत्तमाः ।  
+> पुरस्कृत्य श्रियं भेजुः शरणं शान्तिकांक्षिणः”
 
-चरमविशेष्यभूतपरमात्मपर्यवसानं वेदान्तव्युत्पत्त्या 
+“सीताम् उवाच अतियशाः राघवं च महाव्रतम्” इत्य्-आदिषु परमर्षिभिर् निर्दिष्टेति ससंवादं पुरुषकारत्व-उद्देशेन लक्ष्मी-सम्बन्धित्वं विधीयते ; तेन च "सर्वं वाक्यं सावधारणम्” इति न्यायेन पुरुषकारत्वस्य लक्ष्म्य्-असाधारण्य-प्रतीत्या लक्ष्मी-लक्षणत्वम् अपि सिद्धम्, पुरुषकारत्वस्य लक्ष्मी-सम्बन्धित्वं तद्-लक्षणत्वं च ममापि सम्मतम् इति दृढीकृत्य पुरुषकारत्व-तद्-उपयुक्त-धर्म-अतिरिक्तम् अस्याः लक्षणं न भवेद् इति "ममापि" इत्य्-अर्धेन अभिधाय, मत्-प्राप्ति-उपायश् च स्वयं-स्वरूपेण एव पतित्व-सम्बन्धेन लक्ष्मी-विशिष्टो ऽहम् इत्य्-उपायत्व-उद्देशेन लक्ष्मी-विशिष्टस्य सम्बन्धित्वम् "अहं मत्-प्राप्ति" इत्य्-अर्धेन विधाय तेनैव पुरुषकारत्वाद्य्-अतिरिक्त-उपायत्वादेर् लक्ष्मी-लक्षणत्वाभावम् अतिव्याप्त्या दृढीकृत्य, वाल्लभ्यादि-प्रयुक्त-पुरुषकारत्व-योग एव एतस्याः विशेषः उपायत्वं तु उभय-साधारणम् इति "नि च देवीं मातरं श्रियं वासय मे कुले, मातरं पद्ममालिनीम्”, “विश्व-प्रिये विष्णु-मनोनुकूले", "आनीद् अवातस् स्वधया तद् एकम्”, “श्रद्धया देवो देवत्वम् अश्नुते”, “तं ह देवम् आत्म-बुद्धि-प्रसादं मुमुक्षुर् वै शरणम् अहं प्रपद्ये", "यं कामये तं तम् उग्रं कृणोमि तं ब्रह्माणं तम् ऋषिं तं सुमेधाम्”,
 
-47   
-शब्दानां 
+> “अहं रुद्राय धनुर् आतनोमि ब्रह्म-द्विषे शरवे हन्तवा उ ।  
+> अहं जनाय समदं कृणोम्य् अहम् द्यावापृथिवी आविवेश ॥  
+> अहं सुवे पितरम् अस्य मूर्धन् मम योनिर् अप्स्व् अन्तः समुद्रे ।  
+> ततो वितिष्ठे भुवनानि विश्वा उतो मम द्यां वर्ष्मणा पस्पृशामि ॥  
+> अहम् एव वात इव प्रवाम्य् आरभमाणा भुवनानि विश्वा ।  
+> परो दिवा पर एना पृथिव्या एतावति महिना सम्बभूव ॥”
 
-\-   
-என்று ஒரு   
-\-   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+"कामवत् सा ऽमृतं दुहाना", "सा नो लोकम् अमृतं दधातु” इत्य्-आदि-निगमान्तेषु प्रतिपाद्यत इति "लक्ष्मीः पुरुषकारत्वे वल्लभा” इत्य्-आदि-श्लोकेन उपसंहृतम् । तथा च प्रमाण-अन्तर-अनुगुण-स्वरसतः प्रतीयमान-उक्त-अर्थ-परत्व-सम्भवेन इत्य्-अनेन व्यवस्था-वचनेन इत्य्-आदिना "अहं मत्-प्राप्ति-उपायो वै" इत्य्-अनेन भगवत एव उपायत्वं प्रतीयते न लक्ष्म्याः, अतस् तत्र असम्भव एव इत्य्-अन्तेन उक्तं सर्वम् अपि निरस्तम् । [[P100]]
 
-ந்யாயத்தைக் கொண்டுவர அப்படி எல்லாப்பொருளுக்கும் ஏகரியாக \= 
+लक्ष्म्युपायत्वदीपः
 
-எம்பெருமானே   
-எழுந்தருளியிருப்பதால்   
-ஏற்றோம். இங்கு விசேஷ்யமாக, 
+(ல.க) கேள்வி:- லஷ்மியை உபாயம் என்பது பகவானுக்கு இவள் புசி என்றபடியால் அவனது சீற்றத்தை ஆற்றுவாள் என்பதைக்கொண்டு, இல்லாவிடில் பு என்று கீழே நாம் \[பூர்வபக்ஷி\] தெரிவித்தபடி பகவானின் திருவுள்ளம் உகந்து நம்மை ஸ்வீகரிக்கும்படியான நிலைக்கு மாற்றுவதையே பிராட்டி செய்கிறாள் - உபாயமாகி நம்மை நியமிப்பதைச் செய்யவில்லை என்று இவர்கள் கூறுவது நேரில்லை.
 
-இங்கு   
-अहम् 
+பதில்:- ரிமானவைகளும், 3ரியைக் கூறமுடியாதவைகளாக இருக்கும் ப்ரமாணங்களையும், பூர்வாசார்ய ஸம்ப்ரதாயங்களையும் காட்டி - பிராட்டிக்கும் ஜகத்காரணத்வம்-நியந்த்ருத்வம்-ஸர்வஸேஷித்வம்-ஸர்வரக்ஷகத்வம் இது முதலானவைகளை நாம் பலபடி காட்டினபடியால் பகவத்-பாரதन्त्र्यं பிராட்டிக்கு ஜகத்-காரணத்வ-அபுகளைத் தடுக்காது. ஆகவே பிராட்டியும் உபாயமே. சில நவீனர்கள் கூறியதும் நேரில்லை. உலகில் ஒருவர் பிழைசெய்தால் அதற்கு மன்னிப்பைத்தேடும் போது மன்னிக்க இசைய வைப்பவர் \[ர்\], மன்னிப்பவர் - என்று இருவரைக் கண்டுள்ளோம். அதேபோல் இங்கும் எம்பெருமான் நம் பிழைகளை மன்னிக்கிறார். மன்னிக்க இசையவைப்பவள் பிராட்டி. ஆகவே க என்னப்பட்ட பிராட்டி எப்படி உபாயமாக முடியும்?
 
-முதலானவைகளுக்குgft: எனக்கொள்வது 
+> "जन्तूनां संसारे पतताम् अधः ।  
+> लक्ष्मीः पुरुषकारत्वे निर्दिष्टा परमर्षिभिः ॥  
+> ममापि च मतं ह्येतत् नान्यथा लक्षणं भवेत् ।  
+> अहं मत्प्राप्त्युपायो वै साक्षात् लक्ष्मीपतिः स्वयम् ॥"
 
-தகாது. 
+என்று முன்பு எடுத்து விளக்கின ப்ரமாணங்களால் அறியப்படுவது பிராட்டி புருஷகாரமாய் [[P101]]
 
-(ल. उ. दी ) " ननु अहन्ता ब्रह्मणस्तस्य साहमस्मि सनातनी*"* इत्यनेन लक्ष्म्या अहन्तात्वेन प्रतिपादनात् अहं, माम् इत्यादौ लक्ष्मीविषयत्वं सिद्धमिति चेन्न, भगवत्प्रकारेषु लक्ष्मीरूपप्रकारस्य प्राधान्यपरत्वात् तद्वचनस्य, भगवदहंप्रतीतौ लक्ष्मीविषयत्वं वदता दिव्यात्मस्वरूपरूपज्ञान- विषयत्वमुच्यते । उत धर्मभूतज्ञानविषयत्वं नाद्यः स्वरूपरूपज्ञानस्य स्वरूपमात्रविषयकत्वेनात्मान्तरविषयकत्वाभावात्, अन्यथा स्वरूपैक्यापत्तेः । न द्वितीयः, भगवद्धर्मभूतज्ञानमात्रगम्यस्य भगवत्स्वरूपरूपज्ञान- गम्यभगवदहन्तारूपत्वायोगात् । 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-(ல.க) கேள்வி:\- 'अहन्ता ब्रह्मणस्तस्य साऽहम् अस्मि सनातनी " \[பரம்பொருளான நாராயணனுக்கு   
-எப்போதுமே அவரைவிட்டுப் பிரியாத நான் அஹந்தா\= நான் என்கிற எண்ணமே\] என்று லஷ்மீவாக்யம். ஆகவே 384, 4TH என்று பகவான் தன்னைக் கூறுமிடங்களில் எல்லாம் இவளையும் கொள்ளவேண்டும். இதை அங்கேயே "3q frist f 
+அமைந்ததை ஸ்ரீவிஷ்ணுபுராணம் காட்டுகிறது -
 
-A fRaa" என்று 
+> “जाज्वल्यमानं तं दृष्ट्वा नारसिंहं सुरोत्तमाः ।  
+> पुरस्कृत्य श्रियं भेजुः शरणं शान्तिकांक्षिणः ॥”
 
-அஹந்தையில்லாமல் அஹமர்த்தமும், அஹமர்த்தமில்லாத அஹந்தையும் ஸித்திக்காதானபடியால் 
+\[ஸ்ரீப்ரஹ்லாதாழ்வானைப் பாதுகாக்க கம்பத்திலிருந்து தோன்றிய நரங்கலந்த சிங்க உருவான எம்பெருமானை ஸேவித்து பயந்த தேவர்கள் யாவரும் பெரியபிராட்டியை சரணாகதி பண்ணி இவளை முன்னிட்டுக்கொண்டு சாந்தியை விரும்பினார்கள் - என்று இதன் பொருள்.\] என்று உள்ளது. இதனை ஸ்வாமிதேசிகன் அருளியபடி "புல் ப்தில் பிறந்த சீற்றத்தின் ஈத்தைக்கண்டு அணுக அஞ்சின கள், இவளை மாகப் பற்றி இவள் முன்னிலையாக விரிவுனான HRனைக்கிட்டி riz4 பண்ணினார்கள் என்று A" என்று.
 
-சொன்னால் மற்றொன்று 
+இதே போல் “सीताम् उवाच अतियशाः राघवं च महाव्रतम्” (அயோத்யா 31-2) என்று ஸ்ரீமத் ராமாயணத்தில் உள்ளதை காண்க. இப்படி பரிந்து பேசுவது லக்ஷ்மீ ஒருவருக்கே அஸாதாரணமான லக்ஷணம் - என்பது பூர்வபக்ஷிகளின் வாதம்.
 
-வருமே\! என்ன வேண்டாம். 
+இதுவும் நேரில்லை. பரிந்து பேசுவதை வடமொழியில் ஸந்துக்ஷணம் என்பர். இது பிராட்டிக்கு மாத்ரம் ஏற்பட்டதல்ல :-
 
-பதில்:   
-பகவான்   
-ஒன்றைச் லே தானே 
+> “अस्ति कर्मार्हफलदे पत्यौ कृत्यद्वयं श्रियः”
 
-அனேகப்ரகாரமாக 
+என்றநிலை பூமிப்பிராட்டிக்கும் உண்டு. இதனை - "சரக! f d:" என்று (அபீதிஸ்தவம் - 24) ஆசார்யர் காட்டினார். ஆகவே ममापि च 41 ä என்பதற்கு பிராட்டி புருஷகாரமாயிருப்பது எம்பெருமானும் ஒப்பியது என்பதைச் சொல்லவந்தது. என்பது ஒன்றுதான் பிராட்டிக்கு ஏற்பட்ட விஸேஷம். உபாயத்வம் இருவருக்கும் பொதுவே. [[P102]]
 
-எழுந்தருளியிருக்கிறார். ன்பு : என்று 
+लक्ष्म्युपायत्वदीपः
 
-48 
+இனி உபாயத்வம் இருவருக்கும் உண்டு என்பதற்கு ப்ரமாணங்களைக் காட்டுகிறார்:-
 
-\-   
-लक्ष्म्युपायत्वदीपः 
+1. "नि च देवीं मातरं श्रियं वासय मे कुले" (ஸ்ரீஸூக்தம்) - உலகினர் யாவருக்கும் தாயாக இருப்பதுடன், தேவதேவனின் மஹிஷியாய் அவனைப்போல் எல்லாப் பொருளிலும் உள்ளும்-வெளியும் உறைபவளான லக்ஷ்மியை என்குலத்தில், ஹே எம்பெருமானே! நித்யவாஸம் செய்ய வைப்பாயாக - எனப்பொருள். \[fuz qaA-: என்ற விக்ரஹத்தையே சது:சுலோகீ பாஷ்யத்தில் ஸ்ரீஸ்வாமிதேசிகன் இந்த மந்த்ரத்தைக் காட்டி ஸாதித்தார்.\]
 
-ஸ்ரீவிஷ்ணுபுராணத்தில் காட்டியபடி \- எல்லாப்பொருளும் பகவததிஷ்டிதமான படியால் பகவானே   
-என்று सामानाधिकरण्यम् 55\. चेतनाचेतनद्रव्य । नानी लक्ष्मीरूप IDIT OT இந்த திவ்யாத்மஸ்வரூபம் எம்பெருமானைவிட்டுப் பிரிக்க முடியாத விஸிஷ்ட தத்துவம்   
-தத்துவம் போல் இருக்கிறது ढांगललकंकTLL क्रका का আGG व्यापकौ, अतिसंश्लेषात् एकतत्त्वम् इवोदितौ नळा LucL51. 3लंक कंक्री உள்ள 54 என்பதை கவனிக்கவும். ஒரே தத்துவமானால் 5q என்பது ஒட்டாதே. பகவானின் தர்மபூத ஜ்ஞானம் ஏற்பட்டால் \- பிராட்டியை அறிந்ததாக ஆகமுடியாதே. 
+2. "मातरं पद्ममालिनीम्” (ஸ்ரீஸூக்தம்) - உலகினர் அனைவருக்கும் தாயான பிராட்டியை
 
-(ल. उ.दी) अत्रायं सङ्ग्रहः 
+3. "विश्वप्रिये विष्णुमनोनुकूले" (ஸ்ரீஸூக்தம்) - உலகினர் யாவராலும் ப்ரியப்பட்டு தம்மிடம் வஸிக்க விரும்புமவளே! - அல்லது உலகினர் யாவரையும் ப்ரியமுடன் கடாக்ஷிப்பவளே! அதேபோல் எம்பெருமானின் திருவுள்ளமுகக்கும்படியானவளே! ஒத்தக் கருத்துடையவளே என்றபடி. உலகில் தம்பதிகளுக்குள் எப்போதாவது ஏதாவது ஒருவிஷயத்தில் கருத்து வேறுபாடு ஏற்படக்கூடும். திவ்யதம்பதிகளான இவர்களிடம் அது இல்லை - என்றபடி. இதை "3UHU\[H\] •q-4_3-A- 4 44" என்று லக்ஷ்மீகல்யாண நாடகத்தில் நாந்தீஸ்லோகமாக ஸ்ரீபராசரபட்டர் அருளினார். இங்கு 31áá என்பதை கவனிக்க. சீx = போர் என்றும் பொருள். "க- 18-4- அரியுரி" (8-1-15) என்ற போது &4 என்று யுத்த [[P103]]
 
-“स्वारस्यमहमादेस्तु न विशिष्टे कथञ्चन । बाधकं चेद्विशिष्टेऽपि प्रयोगः क्वचिदिष्यते ॥ नैतावतापि चरमश्लोकस्थे मां\-पदेऽपि च। 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-विशिष्टपरता कल्प्या बाधाभावान्मनीषिभिः ॥ मानान्तरानुसाराद्धि तत्कल्पनमितीदृशम्। वचः प्रलोभमात्रं स्याद् यतो मानस्य मृग्यता ॥ पञ्चरात्रपुराणादौ लक्ष्मीहेतुत्वकीर्तनम् । 
+ஸுகதுக்க-ஸமுச்சயாந்வாசயாதிகளையும் வந்த லௌகிக பொருளாக வையாகரணர் கொண்டனர். இங்கு போர் என்ற பொருளில் தம்பதிகளைப் போன்று திவ்யதம்பதிகளிடம் விவாதமில்லை என்றபடி. இதனை "ஒரு நினைவால் ஈன்ற உயிர் எல்லாம் -" என்று ஆசார்யர் காட்டினார்.
 
-तस्याः पुरुषकारत्वं न्यायतस्स्थापितं बुधैः॥' 
+4. "आनीद् अवातस् स्वधया तद् एकम्" - இந்த ச்ருதி பெரியபிராட்டியுடன் கூடிய எம்பெருமான் ஒருவரே ப்ரளயகாலத்தில் எழுந்தருளியிருந்தார் - என்று காட்டுகிறது. ஆனபடியால் ஸ்ருஷ்டி-ஸ்திதி-ஸம்ஹாரங்கள் யாவும் திவ்யதம்பதிகளான இவ்விருவரையுமே சேரும் - என்பது தெளிவு.
 
-“श्रियं लोके देवजुष्टामुदाराम्" इत्यत्र तत्तदधिकारिविशेषं प्रति 
+5. “श्रद्धया देवो देवत्वम् अश्नुते” - தைத்திரீயச்ருதி. “ச்ரத்தா மேதா ஸரஸ்வதீ" என்னப்பட்ட பெரியபிராட்டியாருடன் கூடிய பரவாஸுதேவன் ஒருவனே - இவ்வுலகில் உள்ளும் புறமும் வ்யாபித்து வருகிறான் - எனப்பொருள். 3 னார் என்ற தாதுவிலிருந்து எங்கும் பரவினவர்கள் என்பதைக்காட்ட இந்த ப்ரயோகம். \[இங்கு அத்யயனம் பண்ணாத சிலர் அēq: முன்பு தேவனாக இல்லாதவர், பிராட்டி ஸம்பந்தம் பெற்ற பிறகு தான் தேவனாகும் நிலையை அடைந்தார் எனப்பொருள் கூறுகின்றனர். அது பிழை. பதபாடத்தில் தேவ: என்றே உள்ளது. தமது அஜ்ஞானத்தால் வேதத்தில் கை வைத்து - அதை ஒளிஜமாக்கக் கூடாது.\]
 
-तत्तदभीष्टफलदानेनाप्यौदार्योपपत्तेः   
-मोक्षरूपफलप्रदत्वाभावेऽपि 
+6. “तं ह देवम् आत्म-बुद्धि-प्रसादं मुमुक्षुर् वै शरणम् अहं प्रपद्ये" (வேதாஸ்வதரம்) - ஸ்வயம்ப்ரகாயமானவரும், Á 2௭ என்றபடி - எம்பெருமானுக்கு புத்தியைப் போன்று அவரை விட்டுப் பிரித்து பார்க்க முடியாதவளுமான பெரியபிராட்டியாரின் தெளிவான திருவுள்ளத்தை [[P104]]
 
-दापयितृत्वेनाप्यौदार्योपपत्तेश्च । अत एव लुब्धस्यौदार्याभावेन दातृत्वमिव दापयितृत्वमपि न दृश्यते। अन्यथा साक्षाद्दातृत्वमेवौदार्यं चेल्लक्ष्म्यामनुमन्तृत्वरूपोपायत्वा (पौदार्य)ङ्गीकारेण   
-भगवत   
-इव 
+लक्ष्म्युपायत्वदीपः
 
-49   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+முன்னிட்டு – எம்பெருமானை அடியேன் शरणம்புகுகிறேன் -என்றபடி.
 
-व्यापाराभावादौदार्यासिद्धिप्रसङ्गः । 
+7. "यं कामये तं तम् उग्रं कृणोमि तं ब्रह्माणं तम् ऋषिं सुमेधाम्" (வாகம்பருணீஸூக்தம் ஸ்ருதி). இது வாகம்பருணீஸூக்தம் (ரிக் 10-125). லஷ்மீஸூக்தம் என்று ஆனந்ததீர்த்தீயர் இதை வ்யவஹரிப்பார்கள். நான் யாரை வேண்டுமானாலும் சிவனாக்க முடியும், ப்ரம்ஹாவாகவும், ரிஷியாகவும் அறிவாளியாகவும் ஒருவனை ஆக்குவேன் - என்று லஷ்மீ கூறுகிறாள்.
 
-दापयितृत्वमौदार्यमित्येतद्वरम् ।   
-अप्रतिषेधमात्रमौदार्यमित्यपेक्षया 
+8. “अहं रुद्राय धनुर् आतनोमि ब्रह्म-द्विषे शरवे हन्तवा उ ।  
+अहं जनाय समदं कृणोम्य् अहम् द्यावापृथिवी आविवेश ॥” (ரிக்.)
 
-“कामवत्साऽमृतं दुहाना”, “सा नो लोकममृतं दधातु*”* इत्यादिकमपि मोक्षप्रदानप्रयोजकत्वपरम्, दुहाना दधात्विति पदयोर्यथाश्रुतार्थस्य मोक्षप्रदानरूपत्वाभावेन लक्षणया मोक्षप्रदानस्य वक्तव्यत्वे सर्वसम्प्रतिपन्नपुरुषकरणव्यापार एव लक्ष्यतां, न तु विप्रतिपन्नं प्रदानम् । अस्तु वा मोक्षप्रदाने लक्षणा, अनुमन्तृत्वरूपोपायत्वस्य अप्रतिषेधरूपत्वेन एतादृशोपायत्वस्य लक्षणयाऽप्यसिद्धेः । यद्यप्रतिषेध एव लक्षणा, तर्हि क्रियाबोधननियतधातोर्मुख्यार्थबाधे क्रियान्तरलक्षणाया एवोत्सर्गतः प्राप्तेः पुरुषकरणव्यापारस्यैव लक्षणीयत्वम् । एतस्य भावरूपत्वेन लघुत्वाच्च।प्रतिषेद्धुमशक्यस्याप्रतिषेधस्य लक्षणीयत्वे अनेकार्थप्रतीत्यपेक्षाया- मतिगौरवम् । 
+இது முன்பே உரையிடப்பட்டது. த்ரிபுரஸம்ஹாரம் செய்ய ருத்ரரால் முடியாதபோது அவருக்கு எம்பெருமானையே ("fuj எள-4" என்று ச்ருதி காட்டியபடி\] நான் அம்பாக அமைய ஏற்பாடு செய்தேன். மக்களுக்கு புஷ்டி கொடுப்பதும் நானே. மேல் ஏழு உலகங்களையும் பூமிமுதல் பாதாளம் வரையிலுமான கீழ் ஏழு உலகங்களையும் என் ஸ்வரூபத்தால் நான் வ்யாபித்துள்ளேன் - \[இதனால் எம்பெருமான் அளிH :: என்று எல்லாப்பொருட்களின் உள்ளும்- புறமும் வ்யாபித்ததைப் போன்று பிராட்டியும் வ்யாபித்திருப்பது காட்டப்பட்டது.\]
 
-अस्य वाक्यस्य लक्ष्मीमात्रपरत्वे असाधारणचिह्नादर्शनेन भूमिपरत्वं किं न स्यात् \- प्रत्युत “विश्वस्य भर्त्री जगतः प्रतिष्ठेति “विश्वम्भरत्वादेः प्रत्यभिज्ञानात् पृथिव्यभिमानिदेवताया भूम्या एव प्रतिपादनं युक्तम्, “श्रद्धया देवो देवत्वमश्नुते" इति श्रद्धाशब्देन लक्ष्म्यभिधानात् प्रकरणं लक्ष्मीपरमिति चेन्न। श्रद्धाशब्दस्य लक्ष्म्याममुख्यत्वात्, श्रद्धाभिमानिदेवतात्वेन लक्ष्मीबोधने मुख्यार्थसम्बन्धस्य लक्षणावीजस्योक्तौ लक्षणया भूमिवोधनमपि स्यात् । वस्तुतस्तु तपश्श्रद्धादिपदानामात्मगुणपरत्वमेव स्वरसम्, तथा व्याख्यातञ्च, "स्वयम्भूर्ब्रह्मा परमं तपो यत् श्रद्धा प्रतिष्ठा लोकस्य देवी" इत्यादिना आत्मगुणप्राशस्त्यं प्रतिपाद्यते । देवीशब्दादिना श्रीसूक्तार्थप्रत्यभिज्ञया काठकवाक्यस्य लक्ष्मीपरत्वमिति चेन्न, भूसूक्तेऽपि देवीशब्दादेर्दर्शनात् शब्दतोऽर्थतश्च भूसूक्तार्थस्यापि प्रत्यभिज्ञायमानतया भूमिपरत्वं वा स्यात्, "अस्येशाना जगत” इतीशानत्वलिङ्गेन लक्ष्म्युपायत्वसिद्धिरिति चेन्न, ईशानत्वस्य भूमिसाधारण्यात् । प्रकरणे लक्ष्म्यसाधारणचिह्नानुपलब्धेः 
+9. "3f94 புரி: IHHI" (ரிக்.) இந்த சிவனுக்கும் தந்தையான, சிவன் தலையால் வணங்கும் பிரமனை நான் பெற்றெடுத்தேன். நான் பாற்கடலில் உள்ளே தோன்றியவள். [[P105]]
 
-50   
-लक्ष्म्युपायत्वदीपः 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-विष्णुपत्नीत्युक्त्या   
-अन्यनियाम्यत्वप्रतीतेस्स्वान्यानियाम्यत्वे सति 
+10. “ततो वितिष्ठे भुवनानि विश्वा उतो मम द्यां वर्ष्मणा पस्पृशामि” (ரிக்.) - எல்லா உலகுகளையும் உன் உடலாகவே கொண்டு நான் எங்கும் மேலுலகிலும் வ்யாபித்துள்ளேன்.
 
-सर्वेशानत्वस्य मोक्षोपायत्वप्रयोजकत्वात् तदभावादेव लक्ष्म्यास्तन्निवृत्तिः । 
+11. "अहम् एव वात इव प्रवाम्य् आरभमाणा भुवनानि विश्वा" (ரிக்.) - எங்கும் வீசுவதைப் போல் தடையின்றி எல்லா உலகினையும் படைக்கத் தொடங்கி நான் விளங்குகிறேன்.
 
-(ல.க) இங்கு சில (நான்கு) காரிகைகளை அருள்கிறார்:\- 
+12. “परो दिवा पर एना पृथिव्या एतावति महिना सम्बभूव” (ரிக்.) - இந்த ப்ருதிவ்யாதி உலகங்களுக்கும் மேலாக நான் என் மஹிமையால் இருக்கிறேன்.
 
-“स्वारस्यमहमादेस्तु क्वचिदिष्यते॥ 
+13. “कामवत् सा ऽमृतं दुहाना”
 
-\-   
-... 
+14. “सा नो लोकम् अमृतं दधातु” (இதற்கும் கீழே உரையிட்டாயிற்று)
 
-\[பிராட்டியுடன் கூடின பரமாத்மாவையே H54 என்ற சொல் கூற வல்லது என்று கொண்டால்H எப்படியும் ஏற்படாது. சில இடங்களில் giaரியான ரித்தில் கம் இருந்தால் व्यक्तिविशिष्टजात्यादिकीनं पर्यवसानम् கொள்கிறோம். இதுவே இந்த்ரன் தன்னையே உபாஸிக்கும்படி விரோசனனுக்குக் கூறிய 414 39744 என்றபோது கொண்ட தாத்பர்யார்த்தம். ஐ என்று ப்ரதர்தனவித்யையில் முடிவில் உள்ளது. அதைக்கொண்டு இந்த்ரனிடம் ஸர்வாத்மனா சசமான Hi4-34-3vi களைக் கொண்டு பரமாத்மாவையே அந்த ப்ரகரணம் கூற வந்ததாகக் 
+இப்படி பல வேதாந்த வாக்யங்கள் பிராட்டியை எம்பெருமானுக்கு இணையாக தெரிவிப்பதால் பூர்வபக்ஷிகள் தெரிவித்தபடி புருஷகாரத்வம் மட்டிலும் பிராட்டிக்கு என்பது பொருந்தாது.
 
-கொண்டோம்.   
-f faara இந்த்ரவாக்யம் 
+(लक्ष्म्युपायत्वदीपः) यच् च - न च लक्ष्मीपतिर् इत्य्-उक्त्या इत्य्-आदिना लक्ष्मी-साधारण-उपायत्व-प्रतीति-पक्षम् अनूद्य, विशेष-अर्थस्य विशेष्यान्वय एव स्वरसत: प्रतीयत इत्य्-आदिना विशेष-अर्थस्य विशेष्यान्वय एव स्वारसिकत्वाद् अङ्गीकार्यः, विशेषण-अन्वयस् तु [[वाधकैककल्य्यस्तदभावान्न|बाधकैककल्प्यस् तद्-अभावान् न]] कल्प्यत इति सदृष्टान्तं सविपक्ष-[[वाधकोपन्यासं|बाधकोपन्यासं]] च प्रत्यवादि, तद्-अपेशलम्, विशेष-अर्थस्य इत्यस्य पद-विशेष-प्रतिपाद्य-अर्थस्य इत्य्-अर्थो वा? विशेषण-रूप-अर्थस्य इत्य्-अर्थो वा? आद्ये "अरुणया एकहायन्या" इत्य् आरुण्य-विशिष्ट-द्रव्य-एकहायनी-द्रव्य-वाचि-पदयोः सामानाधिकरण्येन एकहायनी-द्रव्य-आरुण्य-गुणयोर् अरुणयेति पदेनैव विशेषण-विशेष्य-भावेन सम्बन्धितया अभिहितयोः “क्रयाख्यैक-कर्म-अन्वय-अविरोधात्” इति भाष्येण अर्थ-एकत्वे सिद्धे सति [[P106]]
 
-\- 
+लक्ष्म्युपायत्वदीपः
 
-இதனால் சரமசுலோகத்தில் வரும் माम्, अहम् என்பதற்கும் பிராட்டியையும் வாங்கிக்கொள்ள வேண்டும் \- என்பதில்லை என்பதை 
 
-என்றருளினார்.   
-\- 
+साहित्य-रूप-सम्बन्ध-मात्र-तात्पर्य-ज्ञाने क्रय-रूप-पदार्थ-विशेषस्य आरुण्य-विशिष्ट-अन्वय-प्रतिपादकेन विरोधस् स्यात्, अविरोधाद् इत्य्-अनेन बाधक-अभावे विशिष्ट-अन्वय एव स्वारस्यम् इति सूचनात् । सति च बाधके विशेषण-अन्वयो ऽस्वरसो ऽपि स्वीकार्यः, यथा लम्बकर्णम् आनय इत्य्-आदाव् इति च विरुद्धं स्यात्, न चैवं चित्रगुम् आनय इत्य्-आदौ गवानयनम् अपि स्यात्, बाधक-अभावाद् इत्य्-उक्तम् इति वाच्यम्, नीलाम्बरम् आनय इत्य्-आदाव् इव गवानयनस्येष्टत्वात्, तद्-अभावे स्वामित्वादि-रूप-सम्बन्ध-मात्र-तात्पर्य-ज्ञानस्यैव विशेषण-अन्वय-बोध-बाधकत्वेन गवानयन-अभाव-उपपत्तिः । द्वितीये, “सद् एव सोम्य इदम् अग्रे आसीद् एकम् एव” इत्य्-अत्र एकत्व-विशेषणस्य अविभक्त-नाम-रूपत्व-लक्षणस्य सत्-शब्द-वाच्य-चिद्-अचित्-विशिष्ट-अन्वयः सूक्ष्म-चिद्-अचित्-विशिष्ट-अभिन्नत्वस्य इदम्-पदार्थ-स्थूल-चिद्-अचित्-विशिष्ट-अन्वयः, “सर्वं खल्व् इदं ब्रह्म तज्जलान्” इत्य्-अत्र तज्जलानित्व-रूप-विशेषणस्य सर्वम् इदम् इति निर्दिष्ट-स्थूल-चिद्-अचित्-विशिष्ट-अन्वयश् च एतेन सङ्गच्छेरन् ।
 
-"மற்றைய அனேகப்ரமாணங்கள்   
-அனேகப்ரமாணங்கள் பிராட்டியுடன் 
+(ல.க) கேள்வி:- லஷ்மீபதி: என்பதால் உபாயத்வம் லக்ஷ்மிக்கும் உண்டு என்று கூறியவர்களின் பக்ஷத்தை अनुक्रम्। “विशेषार्थस्य विशेष्यान्वय एव स्वरसतः प्रतीयते" \[விசேஷணமாகவரும் சொல் விசேஷ்யத்தில் அந்வயித்துப் பொருளுரைக்கும் என்பதே தெரிய வருகிறது\] என்று கொண்டு ಅದையே இங்கு கைக்கொள்ளவேண்டும். விசேஷணத்துடன் அந்வயிப்பது தகாது த்ருஷ்டாந்தம் காட்டி பேசினீர்களே - अपेशलम् = Gņ\[f\]6. विशेषार्थस्य என்று சொல்லால் தெரிவிக்கப் பட்ட பொருள் - என்று அர்த்தமா? விசேஷணரூபமான பொருளுக்கு - எனப் பொருளா? முதல் பக்ஷத்தில் अरुणाधिकरणन्याय कुंकुं । कंल விரோதம்
 
-கூடின பகவானையே உபாயமாக கூறுகிறபடியால் 
+शुक्रका:- अरुणया एकहायन्या पिङ्गाक्ष्या गवा सोमं क्रीणाति / [[P107]]
 
-இங்கும் அப்படிக்கொண்டோம்" 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-கூறமுடியாது \- என்கிறார்:\- "HIGIRIJ 
+(கல்பிதமான) ஒரு விதிவாக்யம். சிவந்த நிற முள்ளதும், ஒரு வயது நிரம்பியதும், மஞ்சளான கண்களை உடையதுமான பசுவை விலையாகக் கொடுத்துவிட்டு - ஸோமயாகத்துக்கு வேண்டிய ஸோமலதையை சீந்தில் கொடியை பெறக்கடவது - என்பது இதன் தாத்பர்யம். கோ - என்ற பொருள் ஒன்றே. அதற்கு மற்றவை விசேஷணங்கள். என்பது த்ரவ்யம், 3044 குணம். இது 315041 என்ற சொல்லாலேயே ஒன்றோடொன்று தொடர்புடையது என்பது தெரிவிக்கப் பட்டபடியால் "-கர்ரி" என்று ஸ்ரீபாஷ்யகாரர் காட்டியபடி விரோதம் ஏற்படும். Ahl and Hகழ் ஈ என்ற ஜைமினி ஸூத்ரத்தில் இது ஸ்பஷ்டம். விசேஷணங்கள் ஒன்றோடு ஒன்று பாதகமில்லாவிடில் விசேஷ்யத்துடன் அன்வயிப்பதில் குற்றமில்லை. கம்பு 3I-~ என்ற போது - தேவதத்தனை அழைத்து வருவதில் அவன் தொங்குகிற காதுகளும் தப் பெறுகின்றன. பாதகமில்லையே. ரா 3{l-q என்ற போது - நாலாவிதமான பசுக்களை வைத்துக் காப்பவனாக கோஸாலைக்குத் தலைவனையே அழைத்து வருகிறோம். ஏன்? எனில் - அங்கு கோக்களின் தலைவனை அழைத்துவருவதே வக்தாவுக்கு விவக்ஷிதம், மேலும் அவனது எல்லா பசுக்களையும் உடன் அழைத்து வருவதும் முடியாதது. அனை4 அரவு என்ற போது - கருப்பு ஆடை அணிந்தவனே - மற்றபோது வேறுவகையான நிறமுள்ள ஆடையை அணியக்கூடுமான படியால் தற்போது புகமாக அவனுடன் அவனது கருப்பு ஆடையும் ஆநயனக்ரியையில் ஸம்பந்தப்படுகிறது. ஆகவே அதது அந்த இடத்தையும், வக்தாவின் விவசையையும் கொண்டே முடிவு செய்ய வேண்டும். இதை யாவரும் ஒப்ப வேண்டும். ரித்தில்- சி சிபு என்ற கங்களான போது इदं = என்பதால் [[P108]]
 
-வேறுப்ரமாணங்கள் பிராட்டியையும்   
-என்று   
-நீங்கள் 
+लक्ष्म्युपायत्वदीपः
 
-உபாயமாகக் 
+WGur(GLकलनाकं $14, अग्रे | woकुंक ू एकम् एकत्वविशेषणस्य என்று सच्छब्दवाच्यचिदचिद्विशिष्टन्वयः ள अविभक्तनामरूपत्वस्य என்பதும், इदम् ஸூக்ஷ்மசிதசித்விஸிஷ்டாபின்னமானதுக்கு 34 என்ற சொல்லின் பொருளான ஸ்தூலசிதசித்விஸிஷ்டான்வயம் g, "सर्वं खल्विदं ब्रह्म तज्जलान्" नंगी ப்ரம்ஹத்திடமிருந்து தோன்றி, அதிலேயே லயித்து, அத்தால் பாதுகாக்கப்படுகிறது எனக்கூறி fofkeraமும் பொருந்தாமல் போய்விடும்.
 
-கூறவந்தவை என்று நீங்கள் கூறமுற்படுவது   
-1 
+(लक्ष्म्युपायत्वदीपः) अथ मनुषे विधेयार्थपरतया विशेषार्थपदस्य क्रयादीनाम् आरुण्यादि-विशिष्ट-अविधेयतया तद्-देशे विशिष्ट-अन्वये ऽपि नानुपपत्तिः, उपायत्वस्य तु विधेयतया "ग्रहं सम्मार्ष्टि” इत्य्-अत्र सम्मार्गस्य ग्रह-मात्र-अन्वयवत् भगवन्-मात्र-अन्वय एव स्वरस इति । एवं सति सम्मार्गस्य ग्रहत्व-अन्वयो ऽपि न स्यात् । न च ग्रहत्वस्य स्वरूप-निरूपक-धर्मत्वेन तद्-विवक्षायां एकत्व-विवक्षायाम् इव वाक्य-भेद-रूप-बाधक-अभावेन तद्-विशिष्ट-अन्वयः स्वीक्रियते इति वाच्यम्, हन्त तर्हि स्वारस्य-विभवं परित्यजतस् तव विशेषण-अन्वय-अभावे बाधकम् एव शरणं स्यात्, तथा सति
 
-51   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> “अहन्ता ब्रह्मणस् तस्य सा ऽहम् अस्मि सनातनी ।  
+> आत्मा स सर्व-भूतानाम् अहम्-भूतो हरिः स्मृतः ॥  
+> अहन्तया विना अहम् हि निरुपाख्यो न सिद्ध्यति ।  
+> अहम्-अर्थं विना ऽहन्ता निराधारा न सिद्ध्यति ॥  
+> एवं भगवतस् तस्य परस्य ब्रह्मणो मुने ।  
+> सर्वभावानुगा शक्तिर् ज्योत्स्नेव हिमदीधितेः ॥  
+> एकं तत् परमं ब्रह्म षाड्गुण्य-स्तिमितं महः ।  
+> भाव-अभाव-मयी तस्य शक्तिर् एकानपायिनी ॥” [[P109]]
 
-ஏமாற்றுதலாகும். அத்தகைய ப்ரமாணங்கள் தேடினாலும் அகப்படாதே\! என்று இதன் கருத்து. 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-"पञ्चरात्रपुराणादौ न्यायतस्स्थापितं बुधैः ॥ "   
-... 
+> “तत्-धर्म-धर्मिणी दिव्या ज्योत्स्नेव हिमदीधितेः ।  
+> यो ऽसौ नारायणो देवः परमात्मा सनातनः ॥  
+> अहंभाव-आत्मिका शक्तिस् तस्य तत्-धर्म-धर्मिणी ।  
+> ताव् इमौ एकथैव उक्तौ भेद्य-भेदक-भावतः ॥  
+> पृथक्त्वेन च शास्त्रेषु जगत्-हेतुतयोदितौ ।  
+> नैव शक्त्या विना कश्चित् शक्तिमान् अस्ति कारणम् ॥  
+> न च शक्तिमता शक्तिर् विना काप्य् अवतिष्ठते ।  
+> तत्-तत्-गौरवम् आश्रित्य तन्त्र-वेदान्त-पारगैः ॥  
+> जगत्-हेतुतया देवौ एकैकाव् इव दर्शितौ ।  
+> प्रसुप्त-अखिल-कार्यं यत् सर्वतस् समतां गतम् ॥  
+> नाराणाम् अयनं ब्रह्म सर्व-आवासम् अनामयम् ।  
+> पूर्ण-स्तिमित-षाड्गुण्यम् असमीर-अम्बर-उपमम् ॥  
+> तस्य स्तैमित्य-रूपा या शक्तिश् शून्यत्व-रूपिणी ।  
+> स्वातन्त्र्याद् एव कस्माच्चित् क्वचिद् उन्मेषम् ऋच्छति ॥  
+> सद्-असत्-चित्-अचित्-रूपैः यत्र विश्वं प्रकाशते ।  
+> अस्मिन् उपरते शश्वत् विश्व-कोलाहल-उद्गमे ॥  
+> अलक्ष्या कार्यतश् शक्तिर् देवाद् विजहती भिदाम् ।  
+> इन्धन-अभावतो ज्वाला वह्नि-भावं यथा गता ॥  
+> ब्रह्म-भावं व्रजत्य् एवं सा शक्तिर् वैष्णवी परा ।  
+> एका शक्तिर् हरेर् विष्णोः सर्व-भाव-अनुगामिनी ॥  
+> देवी [[पाड्गुण्यसम्पूर्णा|षाड्गुण्यसम्पूर्णा]] ज्ञानानन्द-क्रियामयी ।  
+> भाव्य-भावक-भेदेन सा द्विधा भावम् ऋच्छति ॥  
+> या सा शक्तिर् हरेर् आद्या लक्ष्मीर् नाम महामुने ।  
+> या सा सर्वात्मना विष्णोर् भाव-अभाव-अनुगामिनी ॥  
+> तस्याः अल्पाल्पायुत-अंशांश-स्व-स्वातन्त्र्य-विजृम्भिता । [[P110]]
 
-கருத்தாவது:\- “कामवत्सा अमृतं 
+लक्ष्म्युपायत्वदीपः
 
-குட்டியைபோன்ற நம்மிடம் வாத்ஸல்யமுள்ள போன்று விரும்பியதனைத்தையும்   
-இதன் \[கன்றுக் 
+> क्रिया-विभूति-भेदेन समुदेतीति वर्णितम् ॥  
+> सङ्कल्पः कोटि-कोट्यंशश् शक्ति-भूतिस् तथा-विधा ।  
+> शक्तिस् सा वैष्णवी सक्ता बहुधा एव प्रजायते ॥  
+> संरक्षण-आदि-भूम्यन्तः तस्याः कोट्यंश ईरितः ।  
+> या सा शक्तिर् महा-सक्ता विष्णोस तत्-धर्म-धर्मिणी ॥  
+> तस्याः कोट्यर्बुद-अंशेन शक्ती द्वे कथिते तव ।  
+> परमात्मा परो यो ऽसौ नारायण-समाह्वयः ॥  
+> तस्यानपायिनी शक्तिर् देवी तत्-धर्म-धर्मिणी ।  
+> माया-आश्चर्यकरत्वेन पञ्च-कृत्य-करी सदा ॥  
+> व्यापिनी विष्णुरूपेण सर्व-भाव-अनुगामिनी ।  
+> अशेष-भुवन-आधार-सङ्कल्प-प्रविजृम्भिणी ॥  
+> द्वे शक्ती तस्य विद्येते विष्णोस् सर्व-अर्थ-साधने ।  
+> प्रधान-भूते याभ्यां तु वहत्य् एष जगत्-धुरम् ॥  
+> एका तु इच्छामिका तस्य तथा अन्या तु क्रियात्मिका ।  
+> प्रथमा परमा लक्ष्मीर् जगत्-त्रय-कुटुम्बिनी ॥  
+> तत्-धर्म-धर्मिणीं शक्तिं ब्रह्मणो ऽनपगामिनीम् ।  
+> अनाकाराम् अनौपम्यां लक्षयन्तीं सदा जगत् ॥  
+> श्रयन्तीं श्रीयमाणां च शृणतीं शृण्वतीम् अपि ।  
+> महानन्दां महाभावां निर्विकारां निरेषणाम् ॥  
+> ज्ञान-शक्ति-बल-ऐश्वर्य-वीर्य-तेजः-प्रभाविनीम् ।  
+> अनन्ताम् अन्तरूपां तम् अभेद्यां सर्व-भेदिनीम् ॥  
+> नन्दां भद्रां जयाञ्चैव रक्तां पूर्ण-अमृत-अम्बराम् ।  
+> त्रिरूपाम् अत्रिरूपां च सर्व-प्रत्यक्ष-सम्मताम् ॥  
+> निषेधैर् अनिषेध्यां तम् अविधेयां विधि-क्रमैः ।  
+> अवाच्यां वाचिकां नित्यं गौरीं लक्ष्मीं सरस्वतीम् ॥” इत्य्-आदि- [[P111]]
 
-பசுவைப் 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-அருள்பவளும், 
+परश्शत-प्रमाणैर् देव्याः श्रियो भगवत्-स्वरूप-निरूपकत्व-तत्-स्वरूप-रूप-गुण-विभवान्वितत्व-विभूति-भूत-सकल-जगत्-स्वरूप-स्थिति-प्रवृत्ति-हेतुत्व-व्यापन-भरण-स्वाम्यादिकं प्रतिपाद्यत इति ग्रहत्ववद् अस्याः स्वरूप-निरूपकत्वेन उपायत्वस्य एतत्-विशिष्ट-भगवद्-अन्वयत्वे बाधकाभावेन साधक-सत्त्वेन च भवद्-अभिमता व्यवस्था दुरवस्था स्यात् । इदं च अभ्युपेत्य-वादेन, वस्तुतस् तु उपायत्व-उद्देशेन लक्ष्मी-विशिष्ट-भगवत्-सम्बन्धित्वस्य विधेयतया "यद् आग्नेयो ऽष्टाकपालो ऽमावास्यायां च पौर्णमास्यां च अच्युतो भवति" इत्य्-आदौ एकत्व-पुंस्त्व-द्रव्य-देवता-कालादि-विशेषणानाम् इव लक्ष्म्या अपि विधेय-गतत्वेन विवक्षा-अवश्यंभावाद् व्यवस्था न सिध्यत्य् एव ।
 
-\-   
-அம்ருதம்\= மோக்ஷம் என்ற பலனையும் அருள்பவளுமான பிராட்டியை \- என்று உள்ளதே\]. மேலும், 4 அதிர் दधातु 7Ü7g \= அந்த பிராட்டி நம் யாவருக்கும் அழிவற்றலோகமான பரமபதத்தை அநுக்ரஹிக்கட்டும் **\-** என்றும் உள்ளதே? இன்னம் இதைப்போன்ற ஸ்ரீவிஷ்ணுபுராணாதி வாக்யங்கள் அளவற்றன. இவைகளுக்கு எப்படி நிர்வாஹம் பண்ணுவது? என்று எண்ணவேண்டாம். இந்த வசனங்கள் பிராட்டி பரிந்துரைத்து பகவானை மோக்ஷமருள வழிவகுக்கிறாள் என்ற பொருளில் வந்தது. ஆசார்யாதிகளை மோக்ஷப்ரதானம் செய்பவராகக்கூறுகிறோம். அவரா மோக்ஷம் அருள்கிறார்? பகவான் அன்றோ அருள்கிறார்\! பகவான் மோக்ஷம் அருள ஆசார்யர் வழிவகுக்கிறார் என்பதைக் கொண்டு சொல்வதைப் போன்று இங்கும் பிராட்டி புருஷகாரமாய் அமைவதைக்கொண்டு இப்படி கூறுகிறோம்.   
-\- 
+(ல.க) இதன் மேல் ஒரு கேள்வி:-
 
-அபு என்ற வேதவாக்யத்தில் 
+சரி என்று ஒரு விதிவாக்யம். இங்கு 284 என்று ஏகவசனமிருப்பினும், அந்தப்ரகரணத்தில் அது் 8: என்று எட்டு எண்ணிக்கையுடன் வேறு வாக்யமிருக்கிறபடியால் இங்கு உள்ள 4 - விவக்ஷிதமில்லை. ஒவ்வொரு க்ரஹத்தையும் = ஸோமரஸத்தை சேமித்து வைக்கும் பாத்ரவிசேஷத்தையும் நன்கு துடைத்து துடைத்து வைத்திருக்க வேண்டியதை இந்த வாக்யம் கூறுகிறது என்று மீமாம்ஸகர்கள் முடிவு செய்தார்கள். அது போல் இங்கும் ஜகத்காரணத்வம் முதலானவை எம்பெருமான் ஒருவரிடம் மட்டிலுமே ஸம்பந்தப்பட்டது - என்று கொள்ளவேண்டும். இல்லையெனில் யாகத்தில் உபயோகப்படும் எல்லா பொருட்களையும் துடைத்துவைப்பதைப் போன்று - 3 hl4–4 என்ற வாக்யத்தைப்பிரித்து ஆருண்யம் = சிவப்பு என்ற நிறம் - யாகத்தில் பயன்படும் எல்லா பொருட்களிலும் கலக்கவேண்டிவரும் என்று அங்கு பூர்வபக்ஷி கூறியதைப் போன்று இங்கும் ஆகும். அது மீமாம்ஸகர் ஒப்பியதில்லை. ग्रहत्वम् என்பதை அங்கு மாகக் [[P112]]
 
-என்ற சொல் பெரியபிராட்டியைக் கூறும். காற்று முதலான பஞ்சபூதங்களும்   
-ஸ்ருஷ்டிக்கப்படாத   
-அந்த மஹாப்ரளயகாலத்தில் ஸ்வதா ஸப்தத்தால் குறிப்பிடப்பட்ட பெரிய பிராட்டியுடன் கூடிய பரமாத்மா ஒருவனே எழுந்தருளியிருந்தார் \- என்பது இந்த வாக்யத்தின் பொருள். இதனால்   
-எம்பெருமானைப்   
-போன்று பெரியபிராட்டியாருக்கும் ஜகத்காரணத்வம் உண்டு \- என்று ஏற்படுகிறது. எது ஜகத்காரணமோ \- அதுவே மோக்ஷப்ரதம். 
+लक्ष्म्युपायत्वदीपः
 
-52 लक्ष्म्युपायत्वदीपः 
+கொண்டபடியால் எப்படி எல்லாப்பொருட்களிலும் = 7634 ग्रहत्वम् என்று வ்யவஹரிக்க முடியுமான எல்லாப்பொருட்களிலும், அந்வயத்தை ஒப்பிட க்ரஹத்வ வ்யவஹாரயோக்யமில்லாத பொருட்களில் ஸம்மார்ஜனம் என்ற க்ரியையை இந்த வாக்யத்தால் கொள்ளவில்லை. அதேபோல் இங்கும் ஆகட்டுமே? என்று.
 
-எது மோக்ஷப்ரதமோ \-அதுவே ஜகத்காரணம் \- என்ற இந்த விஷயம் ஸ்ரீபாஷ்யாதிகளில் ப்ரஸித்தமானபடியால் 
+இதற்கு பதில்-
 
-பிராட்டிக்கும் ஜகத்காரணத்வம் சொல்லும் இந்த வாக்யமும், सा नो लोकम् अमृतं दधातु என்பன போன்றவற்றால் மோக்ஷப்ரதானமும்   
-ஏற்படுகிறபடியால் எம்பெருமானைப்போல் \- பிராட்டியும் ஸர்வாம்ணங்களிலும் துல்யை \- என்பது ஸ்ரீபட்டர் ஸ்ரீஸ்வாமி தேசிகன் போன்ற பூர்வாசார்யர்களின் பக்ஷமாகும். 
+இப்படியானால் ஸ்வாரஸ்யத்தின் பெருமையை விட்டுவிட்டு zi a4 ஏற்படுகிறது என்பதையே நீங்கள் கொண்டீர்கள் - என்று ஏற்படுகிறது. இப்படியானால் - மேலே காட்டும் பல ப்ரமாணங்களுக்கு விரோதம் வரும். அந்த ப்ரமாணங்களாவன:-
 
-பிராட்டியும் மோக்ஷம் அளிப்பாள் \- என்பது 
+1.
+> “अहन्ता ब्रह्मणस् तस्य सा ऽहम् अस्मि सनातनी ।  
+> आत्मा स सर्व-भूतानाम् अहम्-भूतो हरिः स्मृतः ॥”
 
-கூடக்கூடும். எம்பெருமான் அருளும் மோக்ஷத்தை இவள் 3jf பண்ணுகிறாள் அன்றோ. 
+\[பரம்பொருளான எம்பெருமானின் அஹந்தா என்பவள் பழையகாலம் முதற்கொண்டே விளங்கிவரும் நானே (லக்ஷ்மியே), பகவான் ஸ்ரீஹரியானவர் ஸர்வபூதர்களுடையவும் நான் என்று சொல்லப்படும் ஆத்மா.\]
 
-கேள்வி:\- மேலும் 3- என்ற ச்ருதிவாக்யம் பெரியபிராட்டியைக் கூறவந்ததில்லை. பூமிப்பிராட்டியைப் பற்றிய ப்ரஸ்தாவத்திலேயே இது வருகிறது. புளி Guid:au என்று அடுத்த வாக்யத்தில் உள்ள படியால் பூமியைப்பற்றியதே இது என்பது தெளிவு. அசன பு: என்பது லக்ஷக்ஷ்மீயைக் கூறவந்தது \- என்பதும் நேரில்லை. ச்ரத்தைக்கு அபிமானியான தேவதையைக் கூறவந்தபடியால் இது லக்ஷ்மியையே என்பதும் நேரில்லை. உண்மையில் 74: அஜி என்பனபோன்ற சொற்கள் யாவும்   
-ஆத்மகுணங்களைக்   
-கூறுவதாகவே   
-கொள்ளவேண்டும்.அவு என்பன போன்ற காடக வாக்யங்களால் ஆத்மகுணங்களின் ப்ராஸஸ்த்யமே தெரிவிக்கப்படுகிறது. "இந்த வாக்யத்தில் fa என்ற சொல் உள்ளபடியால் இது லஷ்மியையே கூறும்" என்று சொல்லமுடியாது. பூஸூக்தத்திலும் தேவீ முதலான சொற்கள் உள்ளனவே. "3RIIH GPG:" என்றபோது Men 
+2.
+> “अहन्तया विना ऽहं हि विरूपाख्यो न सिद्ध्यति ।  
+> अहम्-अर्थं विना ऽहन्ता निराधारा न सिद्ध्यति ॥”
 
-53   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+\[பெயர்குறிப்பிட்டுச் சொல்லத்தேவையான அஹந்தா என்னப்பட்ட நானின்றி பகவான் ஸித்திக்கமாட்டார். ஆதாரமில்லாமல் தாங்கப்படும் பொருள் உண்டோ?\]
 
-கூறவும்   
-என உள்ளபடியால் இது லஷ்மியையே குறிக்கும் \- என்று 
+3.
+> “एवं भगवतस् तस्य परस्य ब्रह्मणो मुने ।  
+> सर्वभावानुगा शक्तिर् ज्योत्स्नेव हिमदीधितेः ॥” [[P113]]
 
-ईशाना quiry.   
-என்ற சொல்லும் பூமியைக்குறிப்பிடுவதாக வேதங்களிலேயே பல இடங்களில் வருகிறதே. இங்கு தினரகன் என்றபடியால் \- விஷ்ணுவின் கட்டுப்பாட்டுக்கு அடங்கியவள் \- என்பது ஏற்படுகிறது. "स्वान्यानियाम्यत्वे सति सर्वेशानत्वम्" Ga Guor Ganpruri, ஆனபடியால் லக்ஷ்மிக்கு இந்த லக்ஷணம் பொருந்தாது. 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-(ल.उ.दी) किञ्च, लक्ष्म्या मोक्षोपायत्वे तन्नियामकजगत्कारणत्वमपि स्यात् । मोक्षोपायभूतस्यैव “तापत्रयातुरैरमृतत्वाय स एव जिज्ञास्य” इति जिज्ञास्यत्वोक्तेः, जिज्ञास्यवस्तुलक्षणतया जगत्कारणत्वस्य व्यासपराशरादिभिर्व्यवस्थापितत्वात् । ततश्च जगत्कारणत्वाभावे लक्ष्म्या मोक्षोपायत्वमपि न स्यात्, "कारणं तु ध्येय" इत्यादिश्रुतिशतैः कारणवस्तुध्यानस्यैव मोक्षोपायत्वोक्त्या ध्यानप्रपदनयोर्विद्यात्वाविशेषेण तुल्ययोगक्षेमतया न्यासविद्याया जगकारणवस्तुविषयत्वमावश्यकमिति जगत्कारणत्वस्वीकारो वा मोक्षोपायत्वपरित्यागो वा स्यात् । यदि लक्ष्म्या जगत्कारणत्वमभ्युपगम्येत, तर्हि भूम्याश्च जगत्कारणत्वव्यापकत्व- सर्वान्तरात्मत्वमोक्षप्रदत्वादीनां भूसूक्तादिप्रतिपाद्यानामङ्गीकारप्रसङ्गः । 
+\[ஜ்ஞானசக்த்யாதிகளான ஆறுகுணங்கள் நிரம்பியவரும், பரம்பொருள் எனப்பட்டவருமான நாராயணனுடைய லக்தி என்பது நானே. எல்லாப்பொருளிலும் நான் அவரைப்பின் தொடர்பவள். குளிர்ந்த கிரணங்களை உடைய சந்த்ரனுக்கு நிலவு போல் நான்.\]
 
-(2.5)   
-Goog   
-லக்ஷ்மிக்கு மோசேஷாபாயத்வம் கொண்டால், அவளுக்கு IRU\<மும் கொள்ளநேரிடும். छका Garrg/. तापत्रयातुरैः अमृतत्वाय स एव जिज्ञास्य: rml ஸ்ரீபாஷ்யத்தில் மோக்ஷப்ரதத்வம் பகவான் ஒருவருக்கே என்பதை கல்வெட்டைப் போன்று H ஈ என்று நிரூபணம் பண்ணியது சேராது. எந்த ப்ரம்ஹம் जिज्ञास्य Guor\= அறியத்தக்கதோ \- அதுவே H என்பதாக ஸ்ரீவ்யாஸ \- Fী&mbriqar\! कारणं तु ध्येय: नंrm 
+4.
+> “एकं तत् परमं ब्रह्म षाड्गुण्य-स्तिमितं महः ।  
+> भाव-अभाव-मयी तस्य शक्तिर् एकानपायिनी ॥  
+> तत्-धर्म-धर्मिणी दिव्या ज्योत्स्नेव हिमदीधितेः ।  
+> यो ऽसौ नारायणो देवः परमात्मा सनातनः ।  
+> अहम्भाव-आत्मिका शक्तिः तस्य तत्-धर्म-धर्मिणी ॥”
 
-54   
-लक्ष्म्युपायत्वदीपः 
+\[ஜ்ஞான-சக்த்யாதிகளான வெளியில் காட்டாமலிருக்கும் ஆறு குணங்களுடன் கூடியவரும், பரம்ப்ரம்ஹம் என்று சொல்லப்பட்டவரும் நாராயண-தேவ-பரமாத்மா-ஸநாதனன் என்னப்பட்டவருமான அந்த பகவானின் 364 என்ற எண்ணமே உரு எடுத்த சக்தியாக நான் இருந்து எப்போதும் அவர் அநுஷ்டிக்கும் ஜகத்வ்யாபாராதிகளை அவருடன் நானும் செய்துவருகிறேன்.\]
 
-ச்ருதிகள் காரணவஸ்துவின் த்யானத்தாலேயே மோக்ஷம் என்று தெரிவிக்கின்றன. ध्यानम्\-प्रपदनम् இரண்டும் ப்ரம்ஹத்தை உபாஸிப்பதே. ந்யாஸவித்யா என்பதிலும் \[U\]€444 ஆவய்யகம். இதெல்லாம் இங்கு தேறாது. இப்படியெல்லாம் சொல்ல முற்பட்டால் \- ஜகத்காரணத்வம்- வ்யாபகத்வம்- ஸர்வாந்தர்யாமித்வம் \- மோக்ஷப்ரதத்வம் முதலானவைகள் பூஸூக்தத்தில் தெரிவிக்கப்பட்டபடியால் \- பூமிதேவிக்கும் இவைகளை ஒப்ப வேண்டிவரும். அது ஸித்தாந்த விருத்தம். 
+5.
+> “पृथक्त्वेन च शास्त्रेषु जगद्-हेतुतयोदितौ ॥”
 
-(ल. उ.दी) किञ्च जगत्कारणत्वस्य ब्रह्मलक्षणतया ब्रह्मव्यतिरिक्तलक्ष्म्यां तदङ्गीकारेऽतिव्याप्तिस्स्यात् । लक्ष्मीविशिष्टस्यैव ब्रह्मशब्दवाच्यत्वेन लक्ष्यत्वान्नातिव्याप्तिरिति न च वाच्यम्। ब्रह्मशब्दप्रवृत्तिनिमित्त- पौष्कल्याभावेन ब्रह्मपदवाच्यत्वायोगात् निस्समाभ्यधिकत्वादेः प्रवृत्तिनिमित्तान्तर्भावेन लक्ष्म्यास्तदभावात् लक्ष्मीनायकस्य सर्वनियामकत्वेन लक्ष्म्यामन्तः प्रविश्य नियन्तृत्वेन लक्ष्म्यपेक्षया अधिकत्वात्, "द्वे ब्रह्मणी वेदितव्ये" इत्यादिषु अवरब्रह्मणि ब्रह्मशब्दस्य लक्षणा प्रतिपादिता । अवरत्वं 
+\[இந்த லக்ஷ்மீ-நாராயணர்களாகிய இருவரும் விசேஷணவிசேஷ்யபாவத்தால் தனித்தும் ஏகம் என்றும் சாஸ்த்ரங்களில் காட்டப்பட்டவர்கள். இருவருமே எல்லா உலகிற்கும் காரணமானவர்கள்.\]
 
-स्वव्यतिरिक्तनियाम्यत्वम् । स्वव्यतिरिक्तसर्वेश्वरनियाम्यत्वेनावरात्मत्वे सिद्धे ब्रह्मशब्दस्य लक्षणैव न   
-च 
+6.
+> “नैव शक्त्या विना कश्चित् शक्तिमान् अस्ति कारणम् ।  
+> न च शक्तिमता शक्तिर् विना काप्य् अवतिष्ठते ॥”
 
-मुख्यवृत्तिः ।   
-ततश्च   
-लक्ष्म्याश्च 
+\[ஜகத்துக்குக் காரணமானவர் சக்தியில்லாமல் இருக்க முடியாது. அதேபோல் சக்திமானான பகவானில்லாமல் சக்தி மட்டும் எங்கும் இருக்காதே!\] [[P114]]
 
-(ல.க) மேலும், GIÜH என்பது பரம்பொருளான ஸ்ரீமந்நாராயணனுக்கு ஏற்பட்ட தனித்தன்மை. இதுவே 
+7.
+> “तत्-तत्-गौरवम् आश्रित्य तन्त्र-वेदान्त-पारगैः ।  
+> जगद्-हेतुतया देवौ एकैकाव् इव दर्शितौ ॥”
 
-ணமுமாகும். ப்ரம்ஹம் தவிர லக்ஷ்மியிடம் இதை ஒப்புக்கொண்டால் ப்ரம்ஹலக்ஷணத்துக்கு அரிசி: வரும். ":" என்பது எங்கள் கொள்கை 
+\[மீமாம்ஸாதி ஸாஸ்த்ரங்களையும் வேதாந்தத்தையும் கரைகண்டவர்களான மஹான்களால் இந்த லக்ஷ்மீ-நாராயணர் என்ற இருவரிடமுள்ள கௌரவத்தால் இருவருமே இவ்வுலகிற்குக் காரணமாக - ஒருவரே போன்று காட்டப்பட்டார்கள்.\]
 
-55   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+8.
+> “प्रसुप्त-अखिल-कार्यं यत् सर्वतस् समतां गतम् ।  
+> नाराणाम् अयनं ब्रह्म सर्व-आवासम् अनामयम् ।  
+> पूर्ण-स्तिमित-षाड्गुण्यम् असमीर-अम्बर-उपमम् ॥”
 
-\- 
+\[சேதனாசேதனவர்கங்களுக்கு வழிகாட்டியானபடியால் நாராயணன் எனப்பட்டவரும், பரம்பொருளும், எப்பொருளிலுமிருப்பவராயினும் அவைகளால் ஏற்படும் ஸ்வரூபவிகாரமோ - ஸ்வபாவவிகாரமோ அடையாதவரும், எங்கும் யாரிடமும் ஸமரானவரும், எல்லாவகை (ஜகத்ஸ்ருஷ்ட்யாதி) கார்யங்களையும் செய்யாமல் சில நேரம் உள் அடங்கியவர் போல் இருப்பவரும், ஜ்ஞானக்த்யாதிகளான ஆறு குணங்கள் நிரம்பப்பெற்றவராயிருப்பினும் அதை வெளிக்காட்டாதவரும், ஆகாயத்தைப்போலும் அதை காற்றைப்போலும், ஒருவராலும் கண்ணால் காணமுடியாதவருமானவரை அறியவும்.\]
 
-\-   
-தானே   
-\-   
-என்றபடியால் குற்றமில்லை என்று கூற முடியாது. 34HH லக்ஷ்மியிடம் இல்லாதபடியால் இது கூடாது. "லக்ஷ்மீநாயகன் ஸர்வநியாமகன்." என்றபோது லக்ஷ்மிக்கும் உள்ளே அநுப்ரவேரம் பண்ணி எம்பெருமான் நியமனம் பண்ணுகிறார் \- என்பது ஏற்படுகிறபடியால் லக்ஷ்மியைவிட அதிகமானவர் என்பது கிடைக்குமே. க்   
-ஈஎளி என்ற உபநிஷத்தில் 3த்தில் ப்ரம்ஹப்தம் லக்ஷணயா ப்ரவ்ருத்திப்பதாய் தெரிவிக்கப்பட்டதே. அவரத்வம் என்பது \- காடி\! லக்ஷ்மிக்கு தன்னைவிட மேலான எம்பெருமானால் நியமிக்கப்படும் நிலை உண்டு என ஏற்படுகிறபடியால் ப்ரம்ஹஸப்தம் லஷ்மீவிஷயத்தில் லக்ஷணையால் வருமே தவிர \- முக்யமில்லை. 
+9.
+> “तस्य स्तैमित्य-रूपा या शक्तिः शून्यत्व-रूपिणी ।  
+> स्वातन्त्र्याद् एव कस्माच्चित् क्वचिद् उन्मेषम् ऋच्छति ॥”
 
-(ल.उ.दी) यदि लक्ष्म्याः सर्वनियामकत्वेन भगवन्नियामकत्वमप्यभ्युपगम्येत, तर्हि उभयोः सर्वनियामकत्वेन परस्परनियामकत्वे च ईश्वरद्वित्वापत्तिः, उभयोरपि परस्परनियाम्यत्वेन निस्समाभ्यधिकत्वाभावादुभयोरपि अनीश्वरापत्तिश्च, पति\-पत्नीभावानुपपत्तिश्च स्यात् । ननु यजमानपत्नीन्यायेन भगवत्सृष्टिकर्मणि अनुमन्तृत्वेन कारणत्वमस्त्विति चेन्न, भूम्याश्च तथाविधकारणत्वप्रसङ्गात् लक्ष्म्यास्स्वरूपरूपगुणविभूतिवृहत्त्वबृह्मणत्वादेः भगवत्सङ्कल्पाधीनत्वेन   
-अनन्याधीनत्वरूपस्वाभाविकत्वाभावान्न जगत्कारणत्वं, अनन्याधीनवृहत्त्ववृह्मणत्वादेरेव ब्रह्मशब्दप्रवृत्तिनिमित्ततया तादृशप्रवृत्तिनिमित्तपौष्कल्यस्य भगवदेकनिष्ठतया स एव ब्रह्मशब्दवाच्यः, स 
+\[அந்த எம்பெருமான் சிலநேரம் எதுவும் செய்யாமல் இருப்பார். அதையும் சூன்யமான சக்தி என்பர். அவர் ஸர்வஸ்வதந்த்ரர் - ஆனபடியால் சிலநேரத்தில் அவரது சக்தி மேலோங்கி செயல்படத் துவங்கும்.\] [[P115]]
 
-एव जगत्कारणं । 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-ब्रह्मशब्दप्रवृत्तेर्हि निमित्तं पुष्कलं यतः। नारायणस्ततो वाच्यो ब्रह्मशब्देन योगतः ॥ ब्रह्मशब्दस्य लक्ष्म्यां तु मुख्यवृत्तिर्न युज्यते । 
+10.
+> “सद्-असत्-चित्-अचित्-रूपैः यत्र विश्वं प्रकाशते ।  
+> अस्मिन् उपरते शश्वत् विश्व-कोलाहल-उद्गमे ।  
+> अलक्ष्या कार्यतश् शक्तिः देवाद् विजहती भिदाम् ॥”
 
-56 
+\[புலப்படும் பொருள் - கண்ணுக்குப் புலப்படாத பொருள், அறிவுள்ளது-அறிவற்றது என்றவாறு பலபடியுள்ள ப்ரபஞ்சமானது யாரிடம் விளங்குகிறதோ - அவர் சில நேரத்தில் செயல்படாமலிருந்தால் உலகிலுள்ள கோலாஹலம் யாவும் அடங்கி விடுகிறது. கண்ணுக்குப் புலப்படாத போதிலும் - அதன் செயல்பாடுகளைக் கொண்டு அசேதனமான இந்த உலகம் சேதனனான பரமாத்மாவால் இயக்கப்படுகிறது அவுபுகரிகங்களைக்கொண்டு அறியலாம்.\]
 
-लक्षणा वाऽथवा गौणी निमित्तापूर्णता यतः ॥   
-लक्ष्म्युपायत्वदीपः 
+11.
+> “इन्धन-अभावतो ज्वाला वह्नि-भावं यथा गता ।  
+> ब्रह्म-भावं व्रजत्य् एवं सा शक्तिर् वैष्णवी परा ॥”
 
-(ல.க) லஷ்மிக்கும் ஸர்வநியாமகத்வம் ஒப்புக்கொண்டால் \- இருவரும் ஸர்வநியாமகர்கள் என்று ஏற்படுவதால் 
+\[கீழே எரியதேவையான கட்டை முதலானவை இல்லாவிடில் தீயில் ஜ்வாலை நின்று விடுகிறது. கொள்ளிக்கட்டை என்ற நிலையை அடைகிறது. அதேபோல் இந்த\]
 
-qHH வந்து \- இரண்டு ஈஸ்வரர்கள் உலகிற்கு என்றாகும். இது ஸரியில்லை. இருவரும் பரஸ்பர நியாம்யர் \- என்று ஏற்படுகிறபடியால்   
-இருவருக்கும் निस्समाभ्यधिकत्वाभावात् இருவரும் தீர் இல்லை என்றே   
-\- 
 
-ஏற்படும். பதி \- பத்னீபாவமும் இல்லாமல் போய்விடும். 
+ஜகத்ஸ்ருஷ்ட்யாதி சக்தியானது பரம்பொருளுடன் ஒன்றிப்போய் - பிரித்து அறியாத நிலையை அடைகிறது.\]
 
-\-   
-யாகத்தில் யஜமானனின் மனைவி அநுமதி அளித்து ஒத்துழைப்பதைப் போல் இங்கும் ஆகட்டுமே \- என்ன முடியாது. இப்படி 34\]\<H பூமிக்கும் உண்டாகட்டும் என்றால் \- பதில் கூற முடியாது.   
-\- 
+12.
+> “देवी षाड्गुण्य-सम्पूर्णा ज्ञानानन्द-क्रियामयी ।  
+> भाव्य-भावक-भेदेन सा द्विधा भावम् ऋच्छति ॥”
 
-லக்ஷ்மியில் ஸ்வரூபம், திருமேனி, நற்பண்புகள், லீலாவிபூதி\-நித்யவிபூதி, எல்லாப் பொருளையும் விட பெரியதாய் இருப்பது,   
-இருப்பது, தன்னை ஆஸ்ரயித்தவர்களை பெரியதாக்குதல் முதலான எல்லா குணங்களும் பகவத்ஸங்கல்பாதீனம் \- என்று ஸாஸ்த்ரம் தெரிவிக்கிறது. ஆகவே கள் இல்லாதபடியால் பிராட்டிக்கு ஜகத்காரணத்வம் கூடாது. 348€ बृंहणत्वादि & Gor ब्रह्मशब्दप्रवृत्तिनिमित्तम्   
-க   
-\-   
-என்றபடியால் இது பிராட்டிக்கு கூடாது. இத்தனை நாழிகை கூறியதை "RH... AA 44:" என்று இரண்டு சுலோகங்களால் கூறுகிறார். 
+\[எல்லா பொருட்களிலும் தொடர்ந்து வரக்கூடிய இந்த ஜ்ஞான-ஸ்ரீஹரிவிஷ்ணுவின் சக்தி ஒன்றே ஆனந்தமும் நிரம்பினவளாய் ஜகத்ஸ்ருஷ்ட்யாதி செயல்களைச் செய்பவளாயும் இருந்து - இது அவளால் உண்டானது - இது உண்டாகக் காரணமானது என்ற இரு உட்பிரிவுடன் பொருட்களை வ்யாபித்திருக்கிறாள்.\] [[P116]]
 
-(ल. उ.दी) एतेन यजमानपत्नीन्यायेन लक्ष्मीमोक्षप्रदत्वचोद्यं दत्तोत्तरम् । अग्निसापेक्षकर्मादौ विधिबलात् पत्न्याः कर्तृत्वम् । न चेह तथा विधिरस्ति । 
+लक्ष्म्युपायत्वदीपः
 
-57   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+13.
+> “या सा सर्वात्मना विष्णोः भाव-अभाव-अनुगामिनी ॥  
+> तस्याः अल्पाल्पायुत-अंशांश-स्व-स्वातन्त्र्य-विजृम्भिता ।  
+> क्रिया-विभूति-भेदेन समुदेतीति वर्णितम् ॥”
 
-यदि पत्न्या सहैव भगवता सृष्टिस्थितिसंहारमोक्षप्रदानादि कर्मानुष्ठेयमिति विधिस्स्यात् तर्हि प्राकृतदम्पत्योरिव दिव्यदम्पत्योरपि कर्मवश्यत्वप्रसङ्गः । पत्नीकर्तृत्वस्यानुमन्तृत्वेन सर्वसम्मतत्वात् सिद्धसाधनं च दम्पतिप्रपदनं च व्यर्थमेतत्साध्याप्रतिषेधस्य प्रागेव सिद्धेः । 
+\[மஹாமுனியே! எம்பெருமான் ஸ்ரீஹரியின் சக்தி என்பதாக யாதொன்று உண்டோ - அது எம்பெருமானைப் போன்று ஸர்வ பதார்த்தங்களிலும் கண்ணுக்குப் புலப்படாமல் - அந்த எம்பெருமானின் ஸ்வாதந்த்ர்யம் என்ற குணத்தின் பலலக்ஷணங்களில் ஒரு அம்சமே இத்தனை செயல்களைச் செய்கிறது என்றும், அந்த செயலே நித்யவிபூதியிலும் - லீலாவிபூதியிலும் யாவரும் எதுவும் செயல்பட இருப்பதாக சாஸ்த்ரங்களில் வர்ணிக்கப்பட்டுள்ளது.\]
 
-(ல.க) யஜமானபத்னி வேள்வியில் ஒத்துழைப்பதைப் போல் இங்குமாகட்டுமே \- என்பது இங்கு நேரில்லை \- வேள்வியில் அக்னிஸாபேக்ஷமான செயல்களில் விஷேவிதி வாக்யம் இருப்பதால் பத்னீக்கும் அங்கு ஸம்பந்தம் கொள்வது நியாயமாகும். லௌகிக பத்னீ ந்யாயத்தை இங்கு கொண்டுவந்தால் நேராகாது. ஏனெனில் \- ஜகத்ஸ்ருஷ்டி- ஸ்திதி\-ஸம்ஹார\-மோக்ஷப்ரதானாதிகளும் பிராட்டியோடு கூடின பகவானால் தான் செய்யவேண்டும் என்று விதிவாக்யத்தைக் காட்ட முடியாதே. மேலும், லௌகிக   
-\- 
+14.
+> “शक्तिस् सा वैष्णवी सक्ता बहुधा एव प्रजायते ॥”
 
-தம்பதிகளைப்   
-போல் 
+\[எம்பெருமானின் ஸங்கல்பம் என்பதில் கோடியில் கோடியின் ஒரு அம்ஸமே சக்தி-பூதி எனப்படும். இது ஸ்ரீவிஷ்ணு ஒருவருக்கே உண்டு. இதுவே சாஸ்த்ரங்களில் பலபடி அமைவதாகக் கூறப்படுகிறது.\]
 
-திவ்யதம்பதிகளுக்கு ஏற்படும்.   
-கர்மவஸ்யத்வாதிகளும் 
+15.
+> “तस्याः कोट्यर्ぶद-अंशेन शक्ती द्वे कथिते तव ॥”
 
-பிராட்டி எம்பெருமான் 
+\[உலகினரைப் பாதுகாப்பது முதல் உள்ளவை பூமியில் அந்த சக்தியின் கோடியில் ஒரு அம்சமாகக் காட்டப்பட்டது. அந்த சக்தியே ஸ்ரீலக்ஷ்மி எனப்படுபவள். இவள் எம்பெருமான் செய்யும் ஸகலசெயல்களையும் செய்துவருகிறாள். ஸ்ரீவிஷ்ணுவுக்கு இவளிடம் ஆஸக்தி அதிகம். இந்த சக்தியில் பலகோடிகளின் ஒரு அம்சமாகவே கீழே சொன்ன ஸ்ருஷ்டி-ஸ்தித்யாதி சக்திகள் தெரிவிக்கப்பட்டன.\] [[P117]]
 
-செய்யும் செயல்களுக்கு அநுமதி அளிக்கிறாள் \- என்பதை நாங்களும் ஒப்புக்கொள்கிறோம். 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-(ल.उ.दी) ननु " शृणाति निखिलान् दोषान्" इति श्रीशब्दव्युत्पत्तिवलेनैव पापनिवर्तकत्वप्रतीतेः पापनिवृत्तेरेव मोक्षत्वान्मोक्षोपायत्वं श्रीशब्दबलादेव सिद्ध्यतीति चेन्न। शृणातीति दोषनिवर्तनानुकूलव्यापारप्रतीतेरप्रतिषेधस्य व्यापाररूपत्वाभावात् कथमुपायत्वप्रतीतिरिति, भूधातोः प्राप्तिवाचित्वेन णिजर्थान्तर्भावे सति प्रापकत्वस्यापि भृशब्देन वक्तुं शक्यत्वाद्भुवोऽपि उपायत्वप्रसङ्गः। तस्मात् श्रीयते श्रयते इत्यादिव्युत्पत्त्या पुरुषकारत्वोपयुक्तव्यापारप्रतीतेः श्रीशब्देन पुरुषकारत्वमेव प्रतीयते, न 
+16.
+> “तस्यानपायिनी शक्तिः देवी तत्-धर्म-धर्मिणी ॥”
 
-58   
-लक्ष्म्युपायत्वदीपः 
+\[நாராயணன் என்ற திருநாமமுடைய யாதொரு பரமாத்மா உண்டோ - அவரைப் போன்று எல்லா செயல்களையும் செய்யும் அவரது சக்தியே - அவரைவிட்டு நீங்காமல் லக்ஷ்மி எனப்படுகிறாள்.\]
 
-मोक्षप्रदातृत्वम् । एवं च लक्ष्मीपुरुषकारपूर्वकनिरपेक्षोपायभगवत्प्रपदनेनैव मोक्षसिद्धिरिति निरवद्यमित्याहुः । 
+17.
+> “व्यापिनी विष्णुरूपेण सर्व-भाव-अनुगामिनी ॥”
 
-(ல.க) : என்ற சொல்லுக்கு ஏற்பட்ட அனேக விதமான வ்யுத்பத்திகளில் Acia என்பதும் 
+\[இந்த லக்ஷ்மி என்ற சக்தி - ஸ்ரீவிஷ்ணுவைப் போல் எல்லாப்பொருள்களிலும் பரவி அத்யாஸ்சர்யமாக எல்லா செயல்களையும் செய்கிறாள். பஞ்சக்ருத்யமாவது :-  
+(i) ஜகத்ஸ்ருஷ்ட்டி,  
+(ii) ஸ்திதி,  
+(iii) ஸம்ஹாரம்,  
+(iv) முமுக்ஷுபாஸ்யையாயிருந்து மோக்ஷமளிப்பது,  
+(v) எம்பெருமானிடம் பரிந்துபேசி நம்வினைகளை தீர்ப்பது - என்பதாக. விரிவு - ஸ்ரீமத்ரஹஸ்யத்ரயஸாராதிகளில் கண்டுகொள்வது.\]
 
-இதற்கு   
-எல்லாவிதமான ஜீவனிடமிருக்கும் 
+18.
+> “द्वे शक्ती तस्य विद्येते विष्णोः सर्व-अर्थ-साधने ॥  
+> प्रधान-भूते, याभ्यां तु वहत्य् एष जगत्-धुरम् ॥”
 
-குற்றங்களையும் போக்கடிக்கிறாள்   
-ஒன்று. 
+\[எல்லா உலகையும் தாங்குவது பிராட்டி தன் ஸங்கல்பத்தால் தான். எம்பெருமானுக்கு உலகிலுள்ள எப்பொருளையும் ஸாதிக்க இரண்டு சக்திகள் உண்டு. அந்த இரண்டால் இவ்வுலகின் பாரத்தை அவர் தாங்கி வருகிறார்.\]
 
-\-   
-என்று பொருள். 
+19.
+> “प्रथमा परमा लक्ष्मीः जगत्-त्रय-कुटुम्बिनी ॥” [[P118]]
 
-இதனால் பாபங்களைப் போக்குவது பிராட்டிக்கு உள்ள உயர்ந்தநிலை \- என்று ஏற்படுவதால் பாபநிவ்ருத்தியே மோக்ஷமானபடியால் 
+लक्ष्म्युपायत्वदीपः
 
-ஆராய்ந்தாலும் ஏற்படுமே? 
+\[இதில் எம்பெருமானுக்கு இச்சாசக்தி-க்ரியாசக்தி என்று இருவகை சக்திகள் உண்டு. அதில் இச்சா சக்தி என்பது லஷ்மியே. இவளே மூவுலகையும் தமது குடும்பம் போல் பரிபாலித்து வருகிறாள்.\]
 
-\-   
-1   
-\- 
+20.
+> “अनाकाराम् अनौपम्यां लक्षयन्तीं सदा जगत् ॥”
 
-ஸ்ரீசப்தத்தின் பொருளை 
+\[எம்பெருமானுக்கேற்றபடி தர்மங்களை உடையவளும், எம்பெருமானின் சக்தியானவளும், அவரைவிட்டு இறையும்- தினையளவும் நீங்காதவளும், இன்ன உருவில் தான் இவள் இருப்பாள்- என்று கூறமுடியாதவளும், இவளுக்கு ஒருவரும் நிகர் இல்லை எனப்பட்டவளும், எப்போதும் உலகைக் காப்பதிலேயே நோக்குள்ளவளும் -\] \[என்று மேல் வெகுதூரம் சென்ற பிறகு இதற்கு வினைமுற்று.\]
 
-\-   
-பிராட்டிக்கு மோசேஷாபாயத்வம் என்று கேள்வி. இதுவும் நேரில்லை. ஏன்? என்றால் ஊ என்பது ஜீவனிடமுள்ள குற்றங்களை போக்குவதற்கேற்ற வ்யாபாரங்களைச் செய்கிறாள் என்றே பொருள். மேலும் ; என்ற சொல் பூதேவியைக் காட்டும். ; என்று வ்யுத்பத்தியைக் கொண்டு, பூ 4 என்ற algவிலிருந்து இந்த சொல்லை வ்யுத்பன்னமாக்கினால் பூமிப்பிராட்டிக்கும் மோசேஷாபாயத்வம் வந்துவிடும். அதை ஸித்தாந்தத்தில் ஒருவரும் ஒப்பவில்லை. ஆகவே ஜிபுர் அவுர் என்பன போன்ற விளக்கங்களைக் கொண்டு புருஷகாரத்துக்குத் தேவையான வ்யாபாரங்களைச் செய்கிறாள் என்றே கொள்ள வேண்டும். ஆகவே லக்ஷ்மியைப் புருஷகாரமாகக் கொண்டு பகவானை ப்ரபத்தி செய்வதே மோக்ஷஸித்திக்கு வழி. இதுவரையில் மஹாபூர்வபக்ஷம். 
+21.
+> “श्रयन्तीं श्रीयमाणां च शृणतीं शृण्वतीम् अपि ॥”
 
-59   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+\[இது ஸ்ரீ என்ற சொல்லுக்கு ரியையும், ரத்தையும் காட்டும் :-  
+i) எம்பெருமானை எப்போதும் நமக்காக பரிந்துப் பேச ஆச்ரயித்திருப்பவளும், நம்மிடம் வாத்ஸல்யத்தால் நம்மை எப்போதும் ஆச்ரயித்திருப்பவளும்,  
+ii) வினை தீர விரும்புமவர்களால் ஆச்ரயிக்கப்படுமவளும், அல்லது எம்பெருமானால் எப்பொழுதும் ஆச்ரயிக்கப்பட்டவளும்,  
+iii) நமது வினைகளைப் போக்குபவளும், அல்லது - நம்மிடம் எம்பெருமானுக்கு ஏற்பட்ட சீற்றத்தை ஆற்றுபவளும்,  
+iv) நமது குறைகளைக் கேட்பவளும், எம்பெருமானிடம் நாம் உய்வு பெற உபதேசிப்பவளும், த்வயத்தைக் கேட்டு நமக்கு உபதேசிப்பவளும்\]
 
-இனி ஸித்தாந்தம்: 
+22.
+> “महानन्दां महाभावां निर्विकारां निरेषणाम् ॥” [[P119]]
 
-(ल.उ.दी) 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-भगवतश्च   
-तदेतदस्मदाचार्याः   
-प्रत्याचक्षते, तथाहि, 
+\[எப்போதுமே ஆனந்தமயமானவளும், அல்லது, நம்மை மோக்ஷரூப மஹாநந்தமடைய வைப்பவளும், உயர்ந்த கருத்துக்களை உடையவளும், (சில்லரை புத்தி இல்லாதவள் என்றபடி) எத்தனை பிழைகளை நாம் செய்தாலும் அதை பொறுத்தருள்வதால் சித்தவிகாரமற்றவளும், க்ஷத்ரதேவதைகளைப்போல் நம்மிடம் எதையும் எதிர்பாராதவளும்-\]
 
-लक्ष्म्यास्तावद्भगवत्स्वरूपवाचिसर्वपदाभिधेयत्वं "नागृहीतविशेषण" न्यायेन, 
+23.
+> “ज्ञान-शक्ति-बल-ऐश्वर्य-वीर्य-तेजः-प्रभाविनीम् ॥”
 
-लक्ष्मीवाचिशब्दाभिधेयत्वम्   
-अपृथक्सिद्धविशेषणवाचिनां 
+\[இதுவும் எம்பெருமானைப்போன்றே பேரறிவு - செயல்படும் திறன் எதையும் தாங்கும் பண்பு உபயவிபூதிகளுமே சொத்தாகப் பெற்றிருப்பது, இவ்வளவு ஜகத்வ்யாபாராதிகளைச் செய்யும் போதும் துளியும் சரீரத்தில் வாட்டமோ - மனதில் குழப்பமோ இல்லாமை கண்டதுமே எல்லோரையும் தமது திருவடிகளில் விழும் நிலைக்குக் கொண்டுவரும் பண்பு என்ற இவை எல்லாம் இவள் ப்ரபாவமாயிருக்கின்றன.\]
 
-विशेष्यपर्यन्तत्वमित्याकृत्यधिकरणन्यायेनाङ्गीकरणीयमिति 
+24.
+> “अनन्ताम् अन्तरूपां ताम् अभेद्यां सर्व-भेदिनीम् ॥”
 
-"अहन्तया विनाहं हि निरुपाख्यो न सिद्ध्यति । 
+\[அனந்தனான எம்பெருமானைப் போற்றும் இவளும் தேசத்தாலும்-காலத்தாலும்-பொருளாலும் பரிச்சேதம் அற்று எங்கும் வ்யாபித்துள்ளவள், எம்பெருமானைப் போன்று ஸம்ஸாராத்வாவில் கடைசீயில் சென்று சேர வேண்டிய ஸ்ரீவிஷ்ணுவின் பரமபதமே இவளது நித்யஸ்த்தானம் – என்றபடி, எம்பெருமானை விட்டுப்பிரிக்க முடியாதவள் அல்லது இவளது ஸ்வரூப-ரூப-குண- விபவாதிகள் ஒருவராலும் தடுக்க முடியாது எல்லாப் பொருட்களையும்விட விலக்ஷணமானவள்\]
 
-अहमर्थं विनाहन्ता निराधारा न सिद्ध्यति ॥*”* इति 
+25.
+> “नन्दां भद्रां जयाञ्चैव रक्तां पूर्ण-अमृत-अम्बराम् ॥”
 
-प्रमाणमेव द्रढयति । उप\-समीपे स्वरूपसन्निधाने, स्वरूपसम्बन्धितयेति यावत्, आख्यायते\=प्रतीयते इत्युपाख्या\= स्वरूपनिरूपकधर्मः, तद्रहितो निरुपाख्यो न सिद्ध्यतीत्यर्थः । तथा च यत्र यत्र भगवतः कारणत्व- नियन्तृत्वाधारत्वशेषित्वव्यापकत्वरक्षकत्वमोक्षप्रदत्वादिकं श्रूयते, तत्र तत्र लक्ष्म्या अपि तत्सिद्धम्। यत्र च लक्ष्म्यास्तच्छ्रयते तत्र तत्र भगवतोऽपि तत्सिद्धम् । 
+\[எப்போதும் மகிழ்வைத் தரக்கூடியவள், மங்களமே உருவானவள், வெற்றியே உருவானவள், சிவந்தவள் [[P120]]
 
-\-   
-(60.55) இனி ஸித்தாந்தம். பகவத்ஸ்வரூபங்களை கூறும் எல்லா சொற்களாலும் பிராட்டியையும் கூறும் எனக் नागृहीतविशेषणा बुद्धि: विशिष्टं ग्राहयति शकील கொள்வது ந்யாயப்படியாகும். பிராட்டி என்கிற விசேஷணம் பகவானை விட்டுப் பிரிக்க முடியாது. இது தெரிந்தால் தான் பகவானை Amwyquio. @mau- 
+लक्ष्म्युपायत्वदीपः
 
-“आकारिणस्तु विज्ञानम् आकारज्ञानपूर्वकम् । 
+அல்லது ஆஸ்ரிதர்களிடம் அநுதாபம் கலந்த அநுராகமுடையவள் தூய்மையான பட்டவஸ்த்ரம்-\]
 
-तेनाकारं श्रियं ज्ञात्वा ज्ञातव्यो भगवान् हरिः ॥ 
+இவ்வளவும் பூர்வபக்ஷி கூறியதை ஒப்புக்கொண்டு வாதம் செய்வதாய்க் கொண்டு கூறியது. உண்மையில், இங்கு லக்ஷ்மியுடன் கூடிய பகவானின் ஸம்பந்தம் தான் விதேயம். ஆனபடியால் நீங்கள் (பூர்வபக்ஷிகள்) கூறின வ்யவஸ்தை தகாது. पशुना यजेत ஒரு பசு த்ரव்யம், தேவதா, காலம் முதலானவைகள் விசேஷணங்களாய் நன்றாகவே தெரிகின்றன. அதே போல் த்வயமந்த்ரத்திலும் லஷ்மிக்கு விதேயமாக அமைந்தபடியால் நீங்கள் கூறிய வ்யவஸ்தை தகாது.
 
-ஸ்ரீஅருளாளப்பெருமாள்   
-என்று 
+(लक्ष्म्युपायत्वदीपः) अत एव "सविशेषणे हि" इति न्यायस्य विशेष्य-अन्वय-बाधे सति एव विशेषण-अन्वयित्वम्, इतरथा तु विशेष्य-मात्र-अन्वयित्वम् इत्य्-अर्थ-परत्वम् अत्र विशेष्येत्य्-आदिना उक्तम् अपि प्रत्युक्तम्, बाधक-अभावे विशिष्ट-अन्वयस्य बहुशः प्रतिपादितत्वात् । अन्यथा "बहु स्यां प्रजायेय", "तद् आत्मानम् स्वयम् अकुरुत" इत्य्-आदौ प्रतीयमान-उपादानत्वस्य स्वारस्याद् विशेष्य-मात्र-अन्वयेन स्वरूप-परिणाम-वादी विजयी स्यात् । निर्विकारत्व-श्रुति-विरोधेन विशेष्य-बाधाद् विशेषण-मात्र-अन्वयेन प्रकृति-मात्र-उपादानत्व-वादी विजयेत ।
 
-விளக்கியருளினார்.   
-எம்பெருமானார் 
+यत् तु, अन्यथेत्य्-आदिना लक्ष्म्या इव तत्-पतित्वस्य अप्य् उपायत्वम् आपादितम्, तद् आपाततः पतित्वस्य स्वामित्व-पर्यवसन्न-शेषित्व-रूपतया "उकारो ऽनन्यार्हं नियमयति सम्बन्धम् अनयोः" इत्य्-अभियुक्त-उक्त-रीत्या लक्ष्मी-सम्बन्ध-रूपत्वेन कारुण्य-सौशील्यादि-गुणवत् सूपसदत्वादि-मुखेन उपायत्वस्य इष्टत्वात् । [[P121]]
 
-अपृथक्सिद्धविशेषणवाचिशब्द (i) & ir 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-நன்கு   
-विशेष्यपर्यन्तjmgi Gang \- आकृत्यधिकरणन्याय♚॥ 
+(ல.க) "सविशेषणे हि" என்கிற ந்யாயமும் விசேஷ்யத்தில் சேருவதற்குத் தடை இருந்தால் தான் விசேஷணத்தில் அந்வயிக்கும் என்பதைக் காட்ட வந்தது. பிராட்டியும் உத்தேச்யகோடியில் அந்வயிப்பதால் இங்கு எந்தவிதமான பாதகமும் இல்லை என்பதைக் காட்டினோமே. இப்படி ஒப்பவில்லை என்றால் - "बहु स्यां प्रजायेय", "तद् आत्मानम् स्वयम् अकुरुत" என்பன போன்றவிடங்களில் உபாதானத்வம் நன்கு விளங்குகிறபடியால் - விசேஷ்ய மாத்ரத்தில் அந்வயிப்பது என்ற நிலை கொண்டு "ப்ரஹ்மஸ்வரூபமே ஜகத்ஸ்ருஷ்ட்யாதி வேளைகளில் பரிணமிக்கிறது” என்ற பரிணாமவாதி ஜயிப்பான். இதே போல் எந்தவிதமான விகாரத்தையும் அடையாது ப்ரஹ்மம் என்று விகாரிகள் விசேஷணமாத்ராந்வயத்தை காட்டுகிறபடியால் சாங்க்யவாதி ஜயிப்பான். இங்கு சிலர் இதைக் கொண்டு லஷ்மிக்கும் உபாயத்வம் அவளது பதியைப் போன்று உண்டு- என்று கூறுகிறார்கள். அது ஸம்ப்ரதாயத்துக்கு முரணாகும். "उकारो ऽनन्यार्हम्" என்று அஷ்டச்லோகியில் ஸ்ரீபட்டர் அருளியதற்கு இது மாறானது. லஷ்மியுடன் எம்பெருமானுக்கு நிலைத்த ஸம்பந்தம் இருப்பதால் காருண்ய-ஸௌசீல்யாதி குணவானாக பகவான் உள்ளபடியால் - எளிதில் நம்மால் ஆச்ரயிக்கக் கூடியவன் = सूपसदः என்பதைக் காட்டவே அது பயன்பட்டது. இத்தகைய புருஷகாராநுகுணமான உபாயத்வம் பிராட்டிக்கு பூர்வபக்ஷிகளும் ஒப்பியதே. [[P122]]
 
-இது ஸ்ரீபாஷ்யாதிகளில்   
-ஸித்தம். 
+लक्ष्म्युपायत्वदीपः
 
-நிரூபிக்கப்பட்டுள்ளது. 
+> “आब्रह्म-स्तम्ब-पर्यन्ता जगद्-अन्तर्-व्यवस्थिताः ।  
+> प्राणिनः कर्म-जनित-संसार-वश-वर्तिनः ॥  
+> यतस् ततो न ते ध्याने ध्यानिनाम् उपकारकाः ।  
+> अविद्यान्तर्गतास् सर्वे ते हि संसार-गोचराः ॥  
+> पश्चाद्-उद्भूत-बोधाश् च ध्याने नैवोपकारकाः ।  
+> नैसर्गिको न वै बोधस् तेषाम् अप्य् अन्यतो यतः ॥  
+> तस्मात् तद् अमलं ब्रह्म निसर्गाद् एव बोधवत् ॥”
 
-60   
-लक्ष्म्युपायत्वदीपः 
+इत्य्-आदि-वचन-उपादानेन प्रकृति-संसृष्टस्य तद्-वियुक्तस्य च जीवात्म-स्वरूपस्य ध्येयत्व-अभावम् उपपादयद्भिः भाष्यकारैर् एव समान-न्यायतया प्रपत्ति-विषयत्व-अभावस्य अपि प्रतिपादित-प्रायत्वेन जगत उपायत्वस्य निराकृतत्वात् । न चैवं जगन्नाथम् इति विशेषण-वैयर्थ्यम् ; उपायत्व-उपयुक्त-सर्व-स्वामित्व-प्रतिपादन-अर्थत्वात् तस्य । लक्ष्मीपतिर् इत्य् अत्राप्य् एवं किं न स्याद् इति वाच्यम्, लक्ष्म्याम् उपायत्व-अन्वये बाधक-अभावात् साधक-सहस्राच् च लक्ष्मीपतिर् इत्यस्य न तत्-साम्यं सम्भवति ।
 
-இதை ஸம்ஹிதையும் காட்டியது   
-mariammguji qwal \- "अहन्तया विनाऽहं हि निरुपाख्यो न सिद्ध्यति । अहमर्थं विनाऽहन्ता निराधारा न सिद्ध्यति” ग श्रंक उप \= समीपे स्वरूपसन्निधाने, स्वरूपसम्बन्धित्वेन इति यावत् । आख्यायते प्रतीयते इति उपाख्या स्वरूपनिरूपकधर्मः। तद्रहित: निरुपाख्यो   
-\= 
+किञ्च “एवं सति” इत्य्-आदिना अखण्डार्थ-वादि-विजय-आपादनं च असमञ्जसम् । तथा हि आनन्दमय-अधिकरण-भाष्ये “तत्त्वमसि” इत्य्-अत्र तत्-त्वम्-पदयोर् लक्षणा-परिहाराय “अथ उच्येत - समानाधिकरण-वृत्तानाम्” इत्य्-आरभ्य “यथा नीलम् उत्पलम् इति पद-द्वयस्य विशेष्य-एकत्व-प्रतिपादन-परत्वेन नीलत्व-उत्पलत्व-রূপ-विशेषण-द्वयं न विवक्ष्यते” इत्य्-अन्तेन गौर् अनित्या इत्य्-आदाव् इव विशेष्य-अंशस्य शक्याद् अन्येन रूपेण उपस्थित्य्-अभावाद् विशेषण-अविवक्षा-मात्रेण न लक्षणेत्य्-अभिधाय, “तद्-विवक्षायां हि” इत्य्-आदिना अन्योन्य-विशिष्टस्य अन्योन्येन विशेष्टव्यत्व-आपत्त्या विशेषणानां परस्पर-आश्रितत्वं तद्-अविवक्षा-अनङ्गीकारे बाधकम् उक्तं पूर्वपक्षिणा, “सर्वेष्व् एव वाक्येषु” इत्य्-आदि-सिद्धान्त-ग्रन्थे व्युत्पत्ति-सिद्ध-तत्-पदार्थ-संसर्ग-विशेषस्य एव वाक्यात् प्रतीतिर् आस्थेया, अन्यथा विशेषण-अंशस्य अविवक्षितत्वे नीलं घटम् आनय इत्य्-उक्ते नीलता-विशिष्ट-आनयनं [[P123]]
 
-न सिद्ध्यति \- इत्यर्थः । \-   
-\= 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-शीना कंकणं काना की prii. शुक पत्नीसम्बन्धम् औपदेशिक. शुक नाका कलंकßui எல்லோரையும் கட்டுப்படுத்துவது\-சேஷித்வம்\-எங்கும் வ்யாபித்திருப்பது-பாதுகாப்பது- மோக்ஷமளிப்பது \- என்பன போன்ற தர்மங்களைக் கூறியதோ வேதம் \-அங்கெல்லாம் பிராட்டிக்கும் ஸம்பந்தமுண்டு. 
+न स्यात् । न च नीलत्व-उत्पलत्वयोर् अविवक्षितत्वे ऽपि उपलक्षणत्वेन व्यावर्तकत्व-सम्भवात् नियम-सिद्धिर इति वाच्यम् । नीलं घटम् आनय इत्य्-उक्ते पूर्वं नीलः पाकेनेदानीं रक्तश् च यो घटः सो ऽप्य् आनीयते । नीलत्व-उपलक्षितात् तस्यापि । तस्मात् "सत्यं ज्ञानम् अनन्तं ब्रह्म" इत्य्-आदि-सामानाधिकरण्य-निर्देशेष्व् अपि सत्यत्व-ज्ञानत्व-अनन्तत्व-विशिष्टं ब्रह्म-शब्द-अभिधेयम् इति सविशेषम् एव ब्रह्म प्रतीयत इत्य्-अभिधाय न च विशेषण-विवक्षायाम् इतर-विशिष्ट-आकारं वस्त्व् अन्येन विशेष्टव्यम् अपि तु सर्वैर् विशेषणैस् स्वरूपम् एव विशेष्यम्, तथा हि “भिन्न-प्रवृत्ति-निमित्तानां शब्दानाम् एकस्मिन् अर्थे वृत्तिस् सामानाधिकरण्यम्” इत्य्-आदिना नीलं उत्पलम् इत्य्-आदाव् उद्देश्य-विधेय-भाव-स्थले लोके वेदे च नाम-अर्थयोर् अभेदेनैवान्वय-बोध इत्य्-अत्र अर्थ-पदस्य विशेष्य-परतया नीलत्व-आश्रयस्य उत्पलत्व-आश्रयस्य च अभेद-রূপः । नीलत्व-उत्पलत्वयोस् तु सामानाधिकरण्य-रूपस् संसर्गः प्रतीयते, विशेषण-गतैक-अधिकरणकत्वस्य च विशेषणाधिकरणैक्यस्य समान-संवित्-संवेद्यत्वात् विशेषणानां विशेष्य-वृत्तित्वं तत्-तत्-पदेनैव लभ्यते, परस्पर-आश्रितत्वस्य अपदार्थत्वाद् वाक्यार्थत्व-अप्रसङ्गः, उद्देश्य-विधेय-भाव-स्थले तु, सास्नादिमान् गो-शब्द-वाच्यः, "तप्ते पयसि दध्य् आनयति, सा वैश्वदेवी" इत्य्-आदौ गो-शब्द-वाच्यत्व-विश्वेदेव-देवताकत्व-রূপ-विशेषणयोस् सास्नादि-विशिष्ट-व्यक्ति-पयो-विशिष्ट-दधि-वृत्ति-रूप-संसर्गः प्रतीयते ; तद्वत् प्रकृते च "सत्यं ज्ञानम् अनन्तं च यत् तद् ब्रह्म" इति लक्ष्यतावच्छेदकीभूत-ब्रह्म-शब्द-अर्थ-बृहत्त्व-विशेषणस्य सत्यत्व-ज्ञानत्व-अनन्तत्व-विशिष्ट-वृत्तित्वं प्रतीयते ; सत्यादि-पद-त्रये तु तद्-अर्थानां परस्परम् उद्देश्य-विधेय-भाव-अप्रतीत्या पदार्थतावच्छेदकतया प्रतीयमान-सत्यत्वादीनां परस्परं सामानाधिकरण्य-रूप एव संसर्गः प्रतीयत इति युक्तम् । परस्पर-आश्रितत्वस्य तु प्रसक्तिर् एव नास्तीत्य्-अर्थ-परेण भाष्येण समानाधिकरण-व्यधिकरण-साधारण्येन उद्देश्य-विधेय-भावे सत्य् असति च [[P124]]
 
-कृतीक पुरुषकारत्वम् \= Ufj Gua का மட்டிலும் எம்பெருமானுக்கு இல்லை. இதுவே ஸித்தாந்தம். 
+लक्ष्म्युपायत्वदीपः
 
-(ल.उ.दी) ननु भगवत्स्वरूपवाचिनां नारायणादिशब्दानां 
+तत्र विशेषणानां विशेष्य-मात्र-अन्वयस् स्वारसिक इति नाभिहितम्, किन्तु "विशेषण-विवक्षायाम् इतर-विशिष्ट-आकारं वस्त्व् अन्येन विशेष्टव्यम्" इत्य्-अनेन यत्र विशिष्टस्य विशेष्टव्यत्वं "सपुत्रो देवदत्तः पिङ्गलः सो ऽस्य मुख्यार्थः" इत्य्-आदौ, विशेषण-वृत्तित्वम् इत्य्-अभिप्राय-सूचनेन यथायोग्यं तात्पर्यानुसारेण विशेष्यान्वयो विशेषणान्वयो विशिष्टान्वयश् च सम्भवतीत्य् एव अभिहितम् । तथा च स्वयं यस् साक्षान् मत्-प्राप्ति-उपायस् स लक्ष्मीपतिर् अहम् इत्य्-उपाय-उद्देशेन लक्ष्मी-विशिष्ट-नारायणत्व-विधानेन उपायत्वे लक्ष्मी-विशिष्ट-आश्रितत्वम् अपि विहितं चेन् नानुपपत्तिः । न च उपायत्वस्य लक्ष्मी-রূপ-विशेषण-वृत्तित्व-रूपम् अपदार्थत्वाद् अवाक्यार्थत्वाच् च कथं प्रतीयत इति वाच्यम्, लक्ष्मीपतिर् इति पदेन लक्ष्मीपतित्व-रूप-पदार्थतावच्छेदकापेक्षया प्रतीयमान-लक्ष्मी-विशिष्ट-भगवत्-स्वरूपस्य विशेष्यतया उपाय-पदेन उपायत्वापेक्षया
 
-“नारशब्देन भूतानां समूहः प्रोच्यते बुधैः । 
 
-तेषामयनभूतत्वान्नारायण इहोच्यते ॥ 
+विशेष्यतया प्रतीयमान-उपायेन सह अभेदे वाक्येन प्रतीयमाने समान-संवित्-संवेद्यतया उपायत्वे लक्ष्मी-विशिष्ट-अभिन्न-वृत्तित्वस्य प्रतीतौ विरोधाभावात् । अन्यथा तत्र विशिष्ट-अभेदस्य अविवक्षितत्वे लक्ष्मीपतिर् इति विशेषण-वैयर्थ्यं स्यात्, उपायत्व-उपयोगी-लक्ष्मी-सम्बन्ध-प्रतिपादकतया तत्-सार्थक्यम् इति चेत् । [[P125]]
 
-नराज्जातानि तत्वानि नाराणीति ततो विदुः । 
+(60.5) शुक्रंग Guw ? Gकनाथी :- आब्रह्मस्तम्बपर्यन्ताः / எல்லா ப்ராணிகளையும் எ அவர்களை कर्मजनितसंसारवशवर्तिनः = புண்யபாபரூபமான கர்மங்களால் அமைந்த ஸம்ஸாரத்தில் அவர்கள் உழன்று வருமவர்கள் शुqwr ♚urari ruing क्रकं न ते ध्यानिनाम् उपकारकाः | कीकुंका, অक्रलंक छ । LOT & अविद्यान्तर्गताः सर्वे ते हि संसारगोचराः । श्र♚ॐ जय क சூழப்பட்டவர்கள் என்று காட்டிற்று. பத்தராயிருந்து முக்ததசையில் ஜ்ஞானவிகாஸம் ஏற்பட்டவர்களுக்கும், [[P126]]
 
-तान्येव चायनं यस्मात् तेन नारायणस्स्मृतः ॥ ' 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-“ज्ञानशक्तिबलैश्वर्यवीर्यतेजांस्यशेषतः। 
+நிலை கூடாது - புகாக: என்பதாக q21g 3 : 34d:11 என்று பகவததீனமான ஜ்ஞானமுடையவராயிருப்பதைக்காட்டி, rrung ng அபுக் எது f-urice Maad என்று - பரமாத்மா ஒருவரே ஸ்வாபாவிகமான-விவிதமான ஜ்ஞானாதிகளை உடையவரானபடியால் த்யேயர் - என்று முடிவு கட்டியது. இங்கு எடுத்த இந்த வசனத்தில் கபுரி: என்று உள்ளதால் – லக்ஷ்மியுடன் கூடியவனே த்யேயவஸ்து. அதாவது உபாஸ்யன் என்று ஏற்படுகிறது. ஆகவே, எம்பெருமானுக்கு ஸர்வாம்சத்திலும் ஸாம்யமே.
 
-भगवच्छब्दवाच्यानि विना हेयैर्गुणादिभिः॥”   
-லக்ஷ்மிக்குத் 
+இதன்மேல் ஸ்ரீபாஷ்யத்தில் ஆனந்தமயாதிகரணத்தில் GUÚளிகளை மறுக்கும் ஸ்ரீபாஷ்யகாரரின் ஸ்ரீஸூக்தியைக்காட்டி, இங்கும் விசேஷண பேதத்தால் விசேஷ்யபேதம் கூடும் என்பதை மறுக்கிறார் விரிவாக. அதற்குபு மொழிபெயர்ப்பு ஸாத்த்யமானாலும் வாசகர்கள் புரிந்துகொள்வது கஷ்டம். ஆனபடியால் ஸங்க்ரஹேண அங்குள்ள விஷயத்தின் ஸாரத்தைக் காட்டுகிறோம். "II <H 3f" என்றவிடத்தில் id என்ற சொல்லும், IH என்ற சொல்லும், இங்கு ஏகங்கள் என்று ஸர்வபத லக்ஷணையைக் கொண்டு பொருள் கொண்டனர் அத்வைதிகள். இதை மறுக்கத் தொடங்கிய நம் ஸ்ரீபாஷ்யகாரர் - IIH என்ற ஒரு பெரிய வாக்யத்தில் - "यथा नीलम् उत्पलम् इति पदद्वयस्य विशेष्यैकत्वप्रतिपादनपरत्वेन नीलत्व- उत्पलत्वरूपविशेषणद्वयं न विवक्ष्यते " என்பது வரையிலும் கூறி, fakiya 7 என்பதைக்காட்ட, ள்: अनित्या என்ற போது விசேஷ்யாம்ஸத்துக்கு लक्षणा என்பதைக் கொண்டு புணர என்றருளினார். நீ விவக்ஷிக்கிறாயா? இல்லையா? என்பதைப் எதிர்பார்த்து [[P127]]
 
-\-   
-என்பது 
+लक्ष्म्युपायत्वदीपः
 
-“बृहत्त्वाद्ब्रह्मणत्वाच्च तद्ब्रह्मेत्यभिधीयते।” इत्यादिभिस्सर्वाधारत्व- सर्वव्यापकत्वादिप्रवृत्तिनिमित्तकत्वावगमेन 
+விசேஷணங்கள் ஒன்றோடு ஒன்று என்பது எங்கும் அந்வயம் வராது ஆச்ரயித்தபிறகே பொருளைத் தரும் நியமேன இல்லை. சிக4 394 all-q என்ற போது நியமேன நீலத்வவிசிஷ்டமான உத்பலத்தையே கொள்கிறார். இது நீங்கள் சொல்லும்படி ஒப்புக்கொண்டால் பொருந்தாது. இதே போல் - சிø4 724 3-4 என்றபோது, கருப்புமண்ணால் செய்யப்பட்டு ஏற்கெனவே கருப்பாயும், அக்னிஸம்பந்தத்தால் மேலும் கருப்பான குடத்தையும் கொணர்கிறான், அப்படி இல்லாத TThyai ரிப்பு புத்தவு 24.இந்த வைலக்ஷண்யம் உங்களுக்குக் கூடாது. ஆகவே ப்ரக்ருதத்தில் Hli-4 3īri து என்ற போதும் மான ப்ரம்ஹமே தெரிவிக்கப் பட்டதாகியது. இதை விளக்க வையாகரணர் கூறிய भिन्नप्रवृत्तिनिमित्तानां शब्दानाम् एकस्मिन् अर्थे वृत्तिः HHH என்ற ஸாமாநாதிகரண்யத்தை விளக்கினார். கருநெய்தல் என்ற பூவை ஆரயித்து கருமை, நெய்தல் என்ற இரண்டு தர்மங்கள் இருக்கின்றன. இதில் கரு என்பது செவ்வல்லிப் பூவைப் போன்று இது சிவப்பில்லை என்பதைக் காட்ட வந்தது. நெய்தல் என்பது மல்லி முதலான பூக்களை விட வேறானது என்பதைக் காட்ட வந்தது. இப்படி இரண்டு தர்மங்கள் ஒரே பூவை அண்டி இருப்பினும், பொருள் ஒன்றே. இதையே ஸாமாநாதிகரண்யம் என்பர். விசேஷணங்களும் ஒரே அதிகரணத்தை ஆப்ரேயித்திருக்கும் போது இது போன்ற இடத்தில் HUH என்பதைக் காண்கிறோம். ஸமான = ஒரே மாதிரியான, ifa = ஜ்ஞானத்தால், UCH = அறியும் நிலை - என்று பொருள்.
 
-सम्भवतीति   
-तत्प्रकारबुद्धिजनकतया 
+"सा virklql:' என்கிற லௌகிகவாக்யத்தில் உத்தேய-விதேயபாவம் இருக்கிறது. அதாவது அலைதாடியுடன் கூடிய நாலுகால்-வால் உள்ள பிராணி [[P128]]
 
-लक्ष्मीविशिष्टबुद्ध्यजनकत्वात् “नागृहीतविशेषण" न्यायेन लक्ष्मीपरत्वं न चेन्न। नारायणादिशब्दानां योगरूढत्वादूढ्या भगवत्स्वरूपोपस्थापनवेळायां रूढिनिमित्तलक्ष्मीस्वरूपप्रकारकबोध- 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-जनकतया भास्करादिशब्दानां रूढ्या सूर्योपस्थापनवेळायां 
+கோ என்ற சொல்லால் அழைக்கப்படுகிறது - என்பது இதன் பொருள் இங்கு सास्नादिमान् என்பதை முன்பே அறிந்தவனாயின் - அவன் விஷயத்தில் சாசா என்பது qagal: எனப்படும். முன்பே தெரிந்தவிஷயம் இது - என்றபடி. jq; என்பது புதியதாய் தெரிவிக்கப் பட்ட விஷயம். இதுவே f€44 எனப்படும். fludzad: तु qRH என்ற ந்யாயப்படி இப்படி உரைத்தோம். सास्नादिविशिष्टव्यक्तित्वरूपसंसर्गः प्रतीयते । இது லௌகிகோதாஹரணம்.
 
-61   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் रूढिनिमित्तप्रभाविशेषप्रकारकज्ञानजनकत्वेन प्रभाविशिष्टपरत्ववल्लक्ष्मीविशिष्टपरत्वसम्भवात् ।   
-"नागृहीतविशेषण" न्यायेन 
+"\-fa, n ē aரி÷ஷா" என்பது வைதிகமான உதாஹரணம். நன்கு கொதித்துவரும் பாலில் சிறிது தயிரை விடவும். விட்டதும் அந்த பால் கெட்டியாகி குடைபோன்று பாத்ரத்தில் மிதக்கும். அடியில் நீராக இருக்கும். இதில் மேலே குடைபோன்று கெட்டியான பகுதிக்கு ஆமிக்ஷா என்று பெயர். இது எல்லா தேவர்களையும் குறித்துச் செய்யும் வைவதேவயாகத்தில் அந்த தேவர்களுக்கான ஹோமம் செய்யத்தக்க பொருள் என்பது இந்த வேதவாக்யத்தின் கருத்து. அது विश्वेदेवदेवताकत्वरूपविशेषणविशिष्टपयोविशिष्टः संसर्ग: ஏற்படுகிறது. அதேபோல் இங்கும் Hill-4 id என்ற போது - தினிபுரம் ப்ரம்ஹ என்ற சப்தத்தின் அர்த்தம். बृहत्त्व இருப்பதுடன் விகாரமற்றும், அறிவுமயமானதாகவும், எங்கும் எப்போதும் எப்பொருளிலும் வ்யாபித்ததாயும் இருக்கிறது என்கிற விசேஷணங்களுடன் கூடியதாயும் இருக்கிறது. H4, 51–4, 3~~H என்ற முன்று சொற்களிலும் ஒன்றோடொன்று அதன்பொருட்கள் என்பது இல்லை. தனித்து மூன்று சொற்களும் ப்ரம்ஹசப்தத்தில் தொடர்பு கொள்கிறது. ஆகவே இதைப் போன்றவிடங்களில்கணத்தை ஒப்பினோம். இவையாவற்றையும் கவனித்தால் - அந்தந்த [[P129]]
 
-अत   
-एव 
+लक्ष्म्युपायत्वदीपः
 
-ब्रह्मशब्दरूढ्यभिप्रायेण भाष्यकारैरुक्तं " " s, “पुरुषोत्तमोऽभिधीयते*”* इति च । योगेन भगवत्स्वरूपोपस्थापनदशायामपि योगनिमित्तानां भगवतीव लक्ष्म्यामपि प्रमाणसिद्धत्वेन तत्तन्निमित्तविशिष्ट- भगवत्स्वरूपप्रतिपादकत्ववत् तत्तद्योगनिमित्तविशिष्टलक्ष्मीप्रतिपादकत्व- 
+இடங்களுக்குத் தக்கபடி தாத்பர்யாநுஸாரேண விசேஷ்யாந்வயமோ, விசேஷணாந்வயமோ, விஷ்டான்வயமோ தகும் - என்பதே ஏற்படுகிறது.
 
-सम्भवाल्लक्ष्म्या भगवत्स्वरूपवाचिशब्दान्तर्भावो न शक्यापलापः । इयांस्तु विशेषः, रूढ्या भगवत्स्वरूपविशेषणतयैव भानं श्रियः, योगेन तु रूढ्युपस्थापितविशेषणविशिष्टस्य योगनिमित्तविशेष्यतया भानात् 
+ஆகவே, எவர் ஸாக்ஷாத்தாக அடியேன் மோக்ஷமடைய உபாயமானவரோ, அவர் ஸ்வயம் என்ற ஸம்ஹிதாவாக்யங்களிலிருந்து ஏற்படுகிறபடியால் उपायोद्देश्येन लक्ष्मीविशिष्टनारायणत्वविधानम् என்பதே ஏற்படுகிறது. ஸாக்ஷாதுபாயமான நாராயணனுக்கு லக்ஷ்மீபதித்வத்தை விசேஷணமாகக் காட்டியபடியால் H உபாயத்தில் - சிரியா என்பது ஏற்படுவதில் விரோதமில்லை. இப்படியில்லையேல் - புரி: என்ற விசேஷணம் நியமேன அங்கு இருப்பது வ்யர்த்தமாகிவிடும். புரியாக லஷ்மீயைத் தெரிவிப்பதிலேயே நோக்கு அன்றோ.
 
-तस्यास्तद्विशेष्यतया भानमिति । 
+(लक्ष्म्युपायत्वदीपः) किम् इदम् उपायत्व-उपयोगित्वम् ? उपायत्व-जनकत्वम्, पुरुषकार-सम्बन्ध-विधया तद्-ज्ञापकत्वम्, उपाय-शरीर-प्रविष्टतया तत्-सत्ता-सम्पादकत्वं वा । नाद्यः, "एष सेतुर् विधरणः", "अमृतस्य एष सेतुः", "एष ह्य् एव आनन्दयाति", "मोक्षयिष्यामि मा शुचः", "फलम् अतः उपपत्तेः" इत्य्-आदि-श्रुति-स्मृति-सूत्रैर् भगवद्-उपायत्वस्य स्वाभाविकत्वेन अन्य-सम्बन्ध-आहितत्व-असम्भवात् । न द्वितीयः । "लक्ष्मीः पुरुषकारत्वे निर्दिष्टा परमर्षिभिः" इत्य्-आदिना पुरुषकार-सम्बन्धस्य ज्ञाततया तद्-अज्ञापकत्वात् । न च अनेन लक्ष्मी-पुरुषकारत्व-ज्ञाने ऽपि भगवति लक्ष्मी-सम्बन्ध-अज्ञानान् न वैयर्थ्यम् इति वाच्यम् "ह्रीश् च ते लक्ष्मीश् च पत्न्यौ", "वल्लभा प्राप्ति-योगिनी" इति तत्-சम्बन्धस्य अपि सिद्धत्वात्, उपायत्व-सम्बन्धस्य लक्ष्मी-सम्बन्धस्य च भगवति विधाने वाक्य-भेद-आपत्तेश् च, "सम्भवति एकवाक्यत्वे वाक्य-भेदस् तु नेष्यते" इति हि न्यायविदः । न च विशिष्ट-विधानाद् वाक्य-भेदो न शङ्कयः, लक्ष्मी-विशिष्ट-भगवद्-उद्देशेन उपायत्व-विधाने ग्रहैकत्वाधिकरण-न्यायेन अहं मत्-प्राप्ति-उपायः, स च लक्ष्मी-पतिः, इति वाक्य-भेद-तादवस्थ्येन ग्रह-गतैकत्ववत् लक्ष्मी-सम्बन्धस्य अप्य् उद्देश्य-गत-विशेषणतया विवक्षितत्व-आपत्तौ आनर्थक्य-तादवस्थ्यम्, उपाय-उद्देशेन लक्ष्मी-विशिष्ट-भावत्व-विधाने च "सोमेन यजेत", "अरुणया एकहायन्या पिङ्गाक्ष्या सोमं क्रीणाति", "यद् आग्नेयो ऽष्टाकपालो ऽमावास्यायां च पौर्णमास्यां च अच्युतो भवति" इत्य्-आदाव् इव विशिष्ट-विधेर् विशेषणे ऽपि पर्यवसानेन लक्ष्म्या अप्य् उपायत्वम् अनिवार्यम् आपद्येत । नापि तृतीयः, उपाय-शरीर-प्रविष्टतया उपायत्व-सत्ता-सम्पादकत्वं च आश्रीयत एव इत्य् अस्मद्-इष्ट-सिद्धिर् अविकला स्यात् । तस्माद् अखण्डार्थ-वादि-विजय-आपादनेन स्वाभिलषित-अर्थ-साधन-प्रत्याशा मरु-मरीचिका-जलेन महा-पिपासा-उपशमन-आशाम् अनुकरोति । [[P130]]
 
-(ல.க) கேள்வி:\- 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-" 
+(ல.க) இதன்மேல் ஒரு ப்ரபலமான ஆசேஷபம்:- இங்கு Fr_mu उपायत्वउपयोगित्वम् -  
+(1) उपायजनकत्वम्  
+(2) पुरुषकारसम्बन्धविधया तद्ज्ञापकत्वम्  
+(3) उपायशरीरप्रविष्टतया तत्सत्तासम्पादकत्वम्  
+?
 
-\-   
-... 
+1. एक nmw 2urwgrji = உபாயத்தை 2_6ïंாG\]\]\] - LII. "एष सेतुर्विधरण:" பரமாத்மா ஒருவரே இக்கரையிலிருப்பவர்களை அக்கரைக்குச் சேர்க்கும் பாலம் போன்றவர், உலகை ஆள்பவர், “अमृतस्य एष सेतुः " \[Cornpjmgow ur urórmour\], “एष ह्येवानन्दयाति" 1955 usurலா 95 काळाão மூழ்கிவரும் நம்மை மீட்டு சாவத ஆனந்தம் அடைவிக்க Jour\], “मोक्षयिष्यामि मा शुचः" \[jigr! 2_rmor எல்லாவகை கர்மபந்தங்களிலிருந்தும் விடுவித்து [[P131]]
 
-என்பன போன்ற வசனங்களைக் கொண்டு எம்பெருமானை \- எல்லாவற்றிற்கும் ஆதாரமானவராகவும், எங்கும் பரவி இருப்பவராயும் என்பன போன்ற i\-f\-jAகர   
-ராக 
+लक्ष्म्युपायत्वदीपः
 
-அறிகிறோம். இங்கெல்லாம் லக்ஷ்மீஸம்பந்தம் எங்கும் காணப்படவில்லை. ஆகவே "ஈரqu" ந்யாயத்தைக் கொண்டு இங்கு எப்படி பிராட்டியையும் வாங்கிக்கொள்ள முடியும்? என்பது கேள்வி. 
+மோக்ஷமடையவைக்கிறேன், நீ சோகத்தைத் தவிர்\], "फलम् अतः उपपत्तेः" \[அந்த பரமாத்மாவிடமிருந்தே ஜீவன் செய்யும் எல்லாவகையான -சாங்களான வேதவிஹிதமான கர்மங்களுக்கு பலன் ஏற்படுகிறது. மற்றபடி அபூர்வாதிகளால் பலம் ஏற்படாது\] என்றவாறான 0ருதி- ஸ்ம்ருதி-ஸூத்ரங்களால் எம்பெருமானைத்தவிர மற்றையோரால் மோக்ஷம் என்ற பலம் கொடுக்கமுடியாது என்பது நன்கு காட்டப்பட்டதே!
 
-0: என்பன போன்ற சொற்கள் 
+2. rus\[\[44 என்ற இரண்டாவது பக்ஷமும் கூடாது. "लक्ष्मीः पुरुषकारत्वे निर्दिष्टा" \[மோக்ஷமடைவிக்கும்படி எம்பெருமானிடம் பரிந்து பேசுவது என்கிற புருஷகாரம் என்ற செயலைச்செய்ய லக்ஷ்மி ஏற்பட்டாள் என்பதாக மஹர்ஷிகள் தெரிவிக்கிறார்கள். ஆகவே இதை புதியதாக விதிப்பதற்கு 519ம் தேவையில்லை. பிராட்டிக்கும் எம்பெருமானுக்கும் விட்டுப்பிரிக்கமுடியாத தொடர்பு என்பதை "ह्रीश् च ते लक्ष्मीश् च पत्न्यौ" \[பூமிப்பிராட்டியாரும், லக்ஷ்மிப்பிராட்டியாரும், ஹே! பகவான்! தேவரீருக்கு இல்லாள்கள் இல்லையா?\], "वल्लभा प्राप्तियोगिनी” \[எம்பெருமானை அடைவிக்க என்றும் அவனுடன் உள்ள ப்ராணவல்லபை பெரியபிராட்டியார்\] இத்யாதிகளால் பகவானுக்கும் பிராட்டிக்கும் உள்ள ஸம்பந்தம் தெரிவிக்கப் பட்டதே.
 
-\-   
-ங்ேகள். ரூடியைக் கொண்டு பகவத்ஸ்வரூபத்தைக் கூற முற்படும் போது ரூடிக்கு ஸித்தமான லக்ஷ்மிஸ்வரூபத்தின் ப்ரகாரத்வமும் தேவையானபடியால் ஈணாயம் இங்கு வந்தே தீரும். ART: என்ற சொல் ஸூர்யனைக் குறிப்பிடும்போது \-க்கு நிமித்தமான ள்: கரி என்ற வ்யுத்பத்தியைக்கொண்டு த்தைத் தருகிறதே\! 
+“எம்பெருமானைப்போன்று பிராட்டிக்கும் மோசேஷாபாயத்தில் ஸம்பந்தம் உண்டு” என்று தெரிவிப்பதிலும், “பிராட்டி எம்பெருமானை விட்டுப்பிரியாமலிருப்பவள்" என்று எம்பெருமானுடன் நித்யஸம்பந்தத்தையும் தெரிவிக்க வந்தவை இவை - என்று கூறினால் - வாக்யபேதம் என்ற குற்றம் ஏற்படும். "सम्भवति एकवाक्यत्वे वाक्यभेदस् तु नेष्यते" (ஒரே வாக்யமாகக்கொண்டு பொருள் உரைக்க வழியிருக்கும் போது - பிரித்து வெவ்வேறு [[P132]]
 
-62 लक्ष्म्युपायत्वदीपः 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-அதே போலிங்கும், அதனால் தான் ப்ரம்ஹசப்தம் ரூடியாய் கூறும் என்ற கருத்தில் 
+வாக்யங்களாய் கொண்டு பொருள் கூறுவது என்ற குற்றமாகும் - வாக்ய சம் என்றனரே ஆன்றோர்கள்). "லஷ்மியுடன் கூடின பகவதுத்தேபேன மோசேஷா- பாயத்வம்" இப்போது கூறுகிறோம். வாக்யபேததோஷமில்லையே என்னவும் முடியாது. இவ்வளவு தூரம் சுற்றிவளைத்தாலும், "பகவான் தான் மோக்ஷமடைய உபாயம், அவர் லஷ்மீபதியே" என்றே தாத்பர்யம் ஏற்படுகிறபடியால் वाक्यभेद அப்படியே இருக்கிறது. கீழேயே கூறியபடி புத்தை இங்கு எண்ணிப்பார்ப்பது.
 
-wof unriquairgri "ब्रह्मणि श्रीनिवासे" Tळाली. अলक्र 
+\[ i4ரி என்று பருதி. 75: = ஸோமரஸத்தை சேந்தி வைக்கும் பாத்ரம். அதை நன்கு துடைத்து வைத்திருக்கவும் என்பது இந்தவாக்யத்தின் பொருள். இந்த வாக்யம் எந்த யாகத்தை கூற வந்ததோ அந்த யாகத்தில் அÜ 46: என்பதாக எட்டு பாத்ரங்கள் உண்டு. அந்த எட்டில் ஏதோ ஒன்றை சுத்தமாய் வைத்திருந்தால் போதும். 464 என்று ஏகவசனமன்றோ இங்கு உள்ளது - என்பது பூர்வபக்ஷம். இங்கு Uh\<4 = ஏகவசனம், afaqizd4 = முக்யமில்லை. அங்குள்ள எல்லாக்ரஹங்களையுமே ஸம்மார்ஜனம் பண்ணவேண்டும் என்று இந்த அதிகரணத்தில் ஸித்தாந்தம். அதேபோல் இங்கும், மோசேஷாபாயம் நாராயணன், அவன் லஷ்மீபதி" என்று கொண்டால் வாக்யபேதம் வருமே - என்பது கருத்து.\]
 
-भीतीकं मुकं Gurg \- "पुरुषोत्तमोऽभिधीयते" नळाला अनुना   
-விவரிக்கும்போது   
-6. 
+உபாயமான பரமாத்மாவை "எனக்கு" என்று உத்தேசித்து fqz- என்று கொண்டால் सोमेन यजेत ஸோமலதையுடன் கூடிய विशिष्टवेषेण ஸோமதேவதாகமான யாகம் எப்படி விதிக்கப்படுகிறது என்பதாக பு«Åர ஒப்பினோமோ அப்படி இங்கும் ஆகும். Gial — என்று அங்கு விளக்கம் கொண்டோமே. [[P133]]
 
-அவயவார்த்தத்தைக் கொண்டு பகவத்ஸ்வரூபத்தைக் காட்ட 
+लक्ष्म्युपायत्वदीपः
 
-योग ॐ का कंक निमित्त LDIT GOT 60   
-முற்படும் போது பகவானிடம்போல்   
-1 
+Googlio अरुणया एकहायन्या पिङ्गाक्ष्या सोमं क्रीणाति என்கிறவிடத்தில் போல் இங்கும் H4 கட்டாயம் வருமானபடியால் லக்ஷ்மிக்கும் உபாயமாகும் நிலை மறுக்கமுடியாது.
 
-ஸித்தங்களானபடியால்   
-மானவை 
+\[சிவந்த நிறமுள்ளதும், ஒரு வயதே நிரம்பியதும், மஞ்சளான கண்களை உடையதும் ஆன பசுமாட்டை விலையாகக் கொடுத்து ஸோமலதையை - சீந்தில் கொடியை (ஸோமயாகத்தில் இதுவே ஹோமத்திற்கான முக்யமான பொருள்) வாங்கிவரவும் - என்று இந்த வாக்யத்துக்குப் பொருள். ஒவ்வொரு விசேஷணமும் ஒன்றோடு ஒன்று இணைந்து விசேஷ்யமான \[q\[ என்பதில் அந்வயம் பெறுகிறது. ா பகள் சனி சன், டள்: : இதை கீழேயே விளக்கிவிட்டோம். மீண்டும் இங்கு ஸங்க்ரஹமாகக் காட்டினோம்.\]
 
-பிராட்டியிடமும் ப்ரமாணங்களால் 
+3. 44 என்கிற மூன்றாவது பக்ஷமும் நேரில்லை. உண்மையில் இது குற்றமில்லையே? இது ஸித்தாந்திகளுக்கு இஷ்டமானதே. ஆகவே ஸ்ரீபாஷ்யத்தில் அqUக்கே ஜயம் வரும் - என்று காட்டிய இடத்தை விளக்கி, அங்கு போலிங்கும் - என்று பூர்வபக்ஷிகள் கூறியவையாவும் நேரில்லை. கானல்நீரில் நீர் கிடைக்கும், பருகலாம் என்று எண்ணி ஓடும் ம்ருகங்களுக்கு நீர்வேட்கை சாந்தமாகாமல் துன்பமே ஏற்படுவதைப்போன்று இங்கு பூர்வபக்ஷியின் நிலையாகும்.
 
-பகவத்ஸ்வரூபத்தைக் 
+(க..) यद् अपि "उपात्यत्ववचनानाम् अन्यथासिद्धेर् वक्ष्यमाणत्वात्” इत्य्-आरभ्य "सर्व-वाक्यानां विशेष्य-मात्र-अन्वय-बोधकत्व-व्युत्पत्ति-स्वारस्य-बलेन विधेयस्य विशेषण-अन्वयासिद्धेः” इत्य्-अन्तेन "अहं मत्-प्राप्ति" इत्य्-आदि-व्यवस्था-वचन-बलाल् लक्ष्मी-उपायत्व-पर-वचनानाम् अन्यथासिद्धिः । तद्-अन्यथासिद्धौ च उपायत्वस्य साधारण्याप्रतिपत्तिः । तद्-अप्रतिपत्तौ च
 
-காட்டுமிடங்கள் யாவற்றிலும் பிராட்டியின் ஸ்வரூபமும் காட்டப்பட்டதாகிறது \- என்பதில் குற்றமில்லை. 
 
-இது இங்குள்ள Gopio:\- ரூடிக்கொண்டு பகவத்ஸ்வரூப விசேஷணமாகவே ஸ்ரீக்கு விளங்கும் நிலை. அவயவார்த்தமான யோகத்தைக் கொண்டோமானால் रूढ्युपस्थापितविशेषणविशिष्टस्य योगनिमित्तविशेष्यतया भानम् ஒப்புக்கொண்டு விசேஷ்யதயா ஏவ பானம் \- என்று.   
-என   
-1 
+विशेषण-अनन्वयित्व-प्रयुक्त-व्यवस्था-सिद्धिर इति चक्रकाश्रये प्राप्ते - उपायत्वस्य विशेषण-अनन्वयित्वं साधारण्याप्रतिपत्ति-निबन्धनं न भवति, अपि तु स्वारस्य-निबन्धनम् इति परिहार-अभिधानम् ; तद् अपि न जाघटीति । 'ग्रहं सम्मार्ष्टि' इत्य्-अत्र ग्रहत्वस्य विवक्षितत्वेन विधेयस्य सम्मार्गस्य तद्-विशिष्ट-अन्वयस्य स्वारसिकत्वस्य पूर्वम् एव अभिधानात् । "बृहत्त्वं च स्वरूपतो गुणैश् च यत्र अनवधिक-अतिशयं सो ऽस्य मुख्यार्थः" इति भाष्ये "ब्रह्म-शब्देन च स्वभावतो निरस्त-निखिल-दोषो ऽनवधिक-अतिशय-असंख्येय-कल्याण-गुण-गणः पुरुषोत्तमो ऽभिधीयते" इत्य्-एतद्-विवरण-भूते विधेयस्य ब्रह्म-शब्द-वाच्यत्वस्य स्वरूपतो गुणैश् च निरतिशय-बृहत्त्व-विशिष्ट-वृत्तित्वम् अभिप्रेतम् इति निर्विशेष-परत्व-निरास-अर्थ-प्रवृत्ते “भगवच्छब्दवत्” इति दृष्टान्त-कथनेन व्यज्यते । भगवत्-शब्द-वाच्यत्वस्य च ज्ञान-शक्त्यादि-विशिष्ट-वृत्तित्वं
 
-(ल. उ.दी) लक्ष्म्यां नारायणादिपदयोगनिमित्तत्त्वसत्त्वे प्रमाणानि तु "लक्ष्म्याः समस्तं चिदचित्स्वरूपं व्याप्तं तदीशस्य तु सापि सर्वम्", "व्यापिनी विष्णुरूपेण सर्वभावानुगामिनी । अशेषभुवनाधारा सङ्कल्पप्रविजृम्भणी । देवी पाड्गुण्यसम्पूर्णा ज्ञानानन्दक्रियामयी”, “राडसि बृहती", "श्रीरसीन्द्रपत्नी" इत्यादीनि द्रष्टव्यानि । अत एव "सत्यं ज्ञानमनन्तं ब्रह्म", “यस्सर्वज्ञस्सर्ववित्”, “पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानवलक्रिया च”, “अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामस्सत्यसङ्कल्प" इत्यादिगुणविशिष्टस्वरूप- परवाक्यैरपि लक्ष्मीप्रतिपादनमपि नानुपपन्नम्। न चैवं कारणद्वित्वापत्त्या कारणवाक्यगतैकशब्दविरोधः "आनीदवातश्स्वधया तदेक" मिति स्वधाशब्दवाच्यलक्ष्मीविशिष्टमेकमेव जगत्कारणमिति प्रतिपादयन्त्या श्रुत्यैव 
+> “तत्र पूज्य-पदार्थोक्ति-परिभाषा-समन्वितः ।  
+> शब्दो ऽयं नोपचारेण ह्य् अन्यत्र ह्य् उपचारतः ॥  
+> ज्ञान-शक्ति-बल-ऐश्वर्य-वीर्य-तेजांस्य् अशेषतः ।  
+> भगवत्-शब्द-वाच्यानि विना हेयैर् गुणादिभिः ॥”
 
-63   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+इति श्लोकाभ्यां पराशरैर् एव अभिहितम् । तथा च विधेयस्य विशेष्य-मात्र-अन्वय-स्वारस्य-असिद्धेर् उपायत्वस्य साधारण्याप्रतिपत्त्या एव "मत्-प्राप्तिं प्रति" इत्य्-आदि-वचनानां व्यवस्था-परत्वम् आस्थेयम् इति चक्रकाश्रयो दुष्परिहरः, प्रत्युत उपायत्व-पर-वचनानां भूयस्त्वात् "भूयसां स्याद् बलीयस्त्वम्" इति न्यायेन उक्त-वचनानां व्यवस्था-परत्वाभावस्यैव सिद्धिस् स्यात् । किञ्च भगवत्-प्राप्तेः कार्यत्व-स्वाभाव्येन सोपायत्व-सिद्ध्या समान-वित्ति-वेद्यतया तद्-उपायत्वस्य सामान्यतस् सिद्धेर् विधेयत्वा सम्भवेन विशेष्य-मात्र-अन्वय-प्रत्याशा दूरोत्सारिता । [[P134]]
 
-“सर्वशाखाप्रत्यय”न्यायेन   
-कारणवाक्यान्तरगतैकशब्दस्य 
+लक्ष्म्युपायत्वदीपः
 
-लक्ष्मीविशिष्टैक्यपरत्वावगमात् । न चानेककारणतायां गौरवाल्लाघवेन विशेष्यमात्रनिष्ठमेकमेव कारणत्वं कल्प्यमिति वाच्यम् । “सदेव सोम्येदमग्र आसीत्" इत्यादौ सूक्ष्मचिदचिद्विशिष्टजगत उपादानत्ववत् लक्ष्मीविशिष्ट- जगत्कारणत्वस्यैकस्यैवाङ्गीकारात् न च तत्र मानाभावः " अर्थैकत्वे द्रव्यगुणयोरैककर्म्यान्नियमस्स्यात्" इत्यरुणाधिकरणन्यायेन क्रयसाधनत्वस्य आरुण्यादिविशिष्टैकहायनीनिष्ठत्ववत् 
+(ல.க) கேள்வி:- "34144ரி: HUGI" என்று தொடங்கி, "ஒருவாக்யத்தில் பலவிசேஷணங்களிருந்தாலும் எல்லா விசேஷணங்களும் ஸாக்ஷாட்டாக வி பேஷ்யத்தில் அந்வயித்து பொருளைக் கூறவல்லதே தவிர - வேறில்லை, இதுவே ஸ்வாரஸ்யத்தை அடிப்படையாகக்கொண்டு பெரியோர்கள் முடிவு செய்வது என்பதாக விரிவாய் தெரிவித்ததும் பொருந்தாது.
 
-लक्ष्मीविशिष्टनिष्ठत्वस्य प्रतीयमानत्वात् । किञ्च, 
+ஏக் சரி என்றவிடத்தில் - ஸம்மார்கம் விதேயம், அது க்ரஹங்களை ஆப்ரயித்திருக்கிறது என்பதே ஸ்வரஸமாய் தெரியவரும் தாத்பர்யம். அதைப்போல் தான் இங்கும்.
 
-(60.क)   
-“अकारेणोच्यते विष्णुस्सर्वलोकेश्वरो हरिः। उद्धृता विष्णुना लक्ष्मीरुकारेणोच्यते सदा। मकारस्तु तयोर्दास इति प्रणवलक्षणम्”, “अकारश्चित्स्वरूपस्य विष्णोर्वाचक इष्यते । उकारश्चित्स्वरूपायाः श्रियो वाचितया विदुः । मकारस्तु तयोर्विप्र श्रीनारायणयोस्सदा ।   
-जगत्कारणत्वस्य 
+ஸ்ரீபாஷ்யத்தில் " \[ ளிகri "vise yésஷு:" என்றும், "Aanaiபு:, அ-ரிகரிகளன்புகண: ள்புரி" என்பதை விளக்கும் போதும் "qd” என்று த்ருஷ்டாந்தமாகக் காட்டப்பட்டது. பகவத் சப்தத்துக்குப் பொருள் ஸ்ரீபராரர்
 
-आत्मनश्शेषभूतस्य वाचकश्श्रुतिचोदित*"* इति श्रुतिस्मृतिभ्याम्, 
+> “तत्र पूज्य-पदार्थोक्ति-परिभाषा-समन्वितः ।  
+> शब्दो ऽयं नोपचारेण ह्य् अन्यत्र ह्य् उपचारतः ॥  
+> ज्ञान-शक्ति-बल-ऐश्वर्य-वीर्य-तेजांस्य् अशेषतः ।  
+> भगवत्-शब्द-वाच्यानि विना हेयैर् गुणादिभिः ॥”
 
-की   
-कळा योगनिमित्तत्वम् \- 89 कंक லக்ஷ்மிக்கு 
+என்ற சுலோகங்களால் விளக்கப்பட்டது. இதனால் விதேயமானது விசேஷ்யமாத்ரத்தில் அந்வயிக்கும் என்கிற ஸ்வாரஸ்யம் கிடையாது என ஏற்படுகிறது. என்ற வசனங்களுக்கு வ்யவஸ்த்தாபரத்வம் இதனால் ஒப்பவேண்டும். ஆகவே அந்யோந்யாபிரயதோஷமோ, சக்ரகதோஷமோ வருமே? என்னவேண்டாம்.
 
-உண்டு \- என்பதில் ப்ரமாணங்கள் வருமாறு:\- 
+பிராட்டியை மோசேஷாபாயமாகக்கூறும் வசனங்கள் பல உள்ளன. ஆகையால் "र् Id எAH" என்கிற ந்யாயப்படி எம்பெருமானைப் போன்று பிராட்டிக்கும் மோக்ஷப்ரதத்வாதிகள் உண்டு - என்பது ஏற்படும். [[P135]]
 
-“लक्ष्म्याः समस्तः चिदचित्प्रपञ्चः शेषः तदीशस्य तु साऽपि सर्वम्" \[சேதனாசேதனாத்மகமான எல்லா உலகும் லக்ஷ்மிக்கு சேஷபூதமானவை. இவளுக்கும் ஈசனான எம்பெருமானுக்கு இந்த உலகு யாவும், பிராட்டியும் சேஷபூதர்கள்.\] 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-"व्यापिनी विष्णुरूपेण सर्वभावानुगामिनी । अशेषभुवनाधारा संकल्पप्रविजृम्भणी । देवी षाड्गुण्यसम्पूर्णा ज्ञानान्दक्रियामयी॥” 
+பகவான் ஸித்தோபாயனாகிலும், அவனை நாம் அடைவது என்பது ஸாத்த்யமானபடியால், "ஸாத்த்யம் யாவும் ஸோபாயம்" என்ற ந்யாயப்படி பிராட்டிக்கும் அதில் அந்வயம் ஏற்படுவதைத் தடுக்க முடியாது.
 
-64   
-लक्ष्म्युपायत्वदीपः 
+(लक्ष्म्युपायत्वदीपः) किञ्चेत्य्-आद्य् अप्य् असत्, एकैक-व्यक्ति-नियततया एकैक-प्रतीत्य्-असिद्धेः । यदि अहं मत्-प्राप्ति-उपाय इत्य् एव श्रूयेत, तदा एकैक-नियततया प्रतीतिस् सम्भाव्येत । न च एतद् अस्ति, लक्ष्मीपतिस् स्वयम् इति लक्ष्मी-विशिष्ट-वृत्तितया एव उपायत्व-श्रवणात् । न च विधेयस्य विशेष्य-मात्र-अन्वय-स्वारस्यात् तत्-सिद्धिः, तस्य प्राग् एव निरस्तत्वात् । तेन उपायत्व-वचनानाम् अन्यथा-सिद्धि-बलाद् एव व्यवस्था-सिद्धिर इति चक्रकाश्रय-तादवस्थ्यम् । नन्व् इत्य्-आदिना उपायत्व-प्रतिपादक-वचन-विरोधम् आशङ्क्य उपायत्व-अभावस्य अशब्दत्व-कथनेन तत्-परिहरणं भवतो विपरीत-फलदम् । "श्रुति-लिङ्ग-वाक्य-प्रकरण-स्थान-समाख्यानां समवाये पार-दौर्बल्यम् अर्थ-विप्रकर्षात्" इति न्यायेन उपायत्व-श्रुत्या व्यवस्थित-विशेष-अभिधान-सामर्थ्य-रूप-लिङ्गस्य बाधितत्वेन उपायत्व-अभाव-साधकत्व-असम्भवात् । "न कलञ्जं भक्षयेत्" इति विशेष-निषेधस्य "न मांसम् अश्नीयात्", "न स्त्रियम् उपेयात्" इत्य्-आदि-निषेध-அन्तर-अनाक्रान्त-विशेष-अभ्यनुज्ञा-सूचकत्व-वत् "लक्ष्मीः पुरुषकारत्वे निर्दिष्टा परमर्षिभिः" इत्य्-आदेः विशेष-विधि-अनाक्रान्त-शेष-निषेध-परत्वस्य एव व्यवस्थित-विशेष-अभिधानस्य अद्याप्य् असिद्ध्या तत्-सामर्थ्य-रूप-लिङ्ग-असिद्धेश्च, "एतस्याश् च विशेषो ऽयं निगमान्तेषु शब्द्यते" इति पुरुषकारत्व-निष्ठ-विशेषत्व-विषय-विशेष-विधेर् उपायत्व-निष्ठ-विशेषत्वाभाव-सूचकत्वे विरोधाभाव-न्याय्यत्वाच् च । [[P136]]
 
-\[ஸ்ரீவிஷ்ணுவின் ஸ்வரூபத்தில் பிராட்டியும் உள் அடங்கியவளானபடியால் இவளும் எங்கும் வ்யாபித்தவள். 
+लक्ष्म्युपायत्वदीपः
 
-எல்லாபுவனங்களுக்கும் 
+(60.5) Cogio, “अहं मत्प्राप्त्युपायः " rong rivulgi வாக்யமாய் இருந்தால் பூர்வபக்ஷிகள் சொல்வதை ஒப்பலாம். அப்படியில்லையே - கனிபுரி: புபு என்றல்லவோ இருக்கிறது.
 
-ஸங்கல்பத்தாலேயே   
-ஆதாரமானவள், 
+உபாயத்வ மேலும் பிராட்டி உபாயமே என்று காட்டுகிற கருங்கள் இருக்கிறபடியால் பூர்வபக்ஷிகள் கூற்று நேரில்லை. "தாகurA7- समाख्यानां समवाये पारदौर्बल्यम् अर्थविप्रकर्षात्” என்ற ஸர்வஸம்மதமான பூர்வமீமாம்ஸாந்யாயத்தால் பிராட்டிக்கு உபாயத்வம் உண்டு என்று ச்ருதி வசனங்கள் தெரிவிப்பதால் இதற்கு இடையூறு விளைவிப்பதைப் போன்று கோணலாய் அர்த்தம்கொண்டு -வசனங்களுக்குப் பொருள் கூற முற்படுவது தகாது. न कलञ्जं भक्षयेत् \[உள்ளிப்பூண்டு முதலானவைகளை உண்ணக்கூடாது\] என்பன போன்ற விசேஷநிஷேதங்களாலும், 7 சர்H4 ஜிவு என்பதும், சிg vijணத்தைத் தடுக்கமுடியாது. கணி: கரி: என்றபடியால் - இந்த புருஷகாரத்வம் எம்பெருமானுக்கு இல்லை - என்பது ஏற்படுமே தவிர, ப்ரமாணாந்தரங்களால் பிராட்டிக்குச் சொல்லப்பட்ட மோசேஷாபாயத்வத்தைத் தடுக்காது. இது ஸம்ஹிதையில் "fis" (இந்த புருஷகாரத்வம் பிராட்டிக்கு மட்டிலுமே ஏற்பட்ட விசேஷம் என்பதாக வேதாந்தங்கள் தெரிவிக்கின்றன) என்று நன்கு விளக்கிக் காட்டப்பட்டது.
 
-எல்லாவற்றையும்   
-தனது தாங்கி- 
+(लक्ष्म्युपायत्वदीपः) यच् च वस्तुतस् तु इत्य्-आदिना उपायत्वस्य साधारण्य-प्रतीतेर् अयोग्यता-पराहतत्वम् उक्तम्, तद् अयोग्यता-पराहतम् एव । तथाहि - उपाय-शब्दस्य कारण-मात्र-वाचित्वं सर्व-सम्प्रतिपन्नम् । रक्षण-कारणत्वस्य च "कृपया पर्यपालयत्", "स तपस् तप्त्वा इदम् सर्वम् असृजत" इत्य्-आदौ कारुण्य-सङ्कल्पादि-साधारण्यं प्रसिद्धम्, अङ्गीकृतं भवद्भिर् गुण-विग्रहयोर् अप्य् उपायत्वं, तस्य च कर्तृ-करणादि-सर्व-साधारण्यात् तादृशस्य तस्य दुर्निरूपत्वम् असिद्धम् । अत एव इत्य्-आदिकम् अपि निरस्तम्, नार-चरण-शब्द-उपस्थाप्य-गुण-विग्रह-गत-उपायत्वस्य शरण-शब्देन प्रतिपादन-अङ्गीकारात् । न च गुण-विग्रह-समर्पक-पद-समभिव्याहार-स्थले तथात्वे ऽपि तद्-रहिते "अहं मत्-प्राप्ति-उपाय" इत्य्-अत्र उपाय-शब्दस्य गाम् आनय दोग्धुम् इत्य्-अत्र गो-शब्दस्य धेनु-परत्व-वत् कर्तृ-परत्व-औचित्यात् कर्तृत्वस्य लक्ष्मी-साधारण्यम् अयोग्यता-पराहतम् इति वाच्यम्, “अहं दधामि द्रविणं हविष्मते सुप्राप्ये मम यजमानाय सुन्वते”, “अहं राष्ट्री सङ्गमनी वसूनाम्”, “अहं जनाय समदं कृणोमि”, “अहं सुवे पितरम् अस्य मूर्धन्” इत्य्-अत्र द्रविण-पोषण-वसु-प्रापण-समद-करण-रुद्र-जनक-उत्पादन-रूप-क्रिया-अनुकूल-कृतिमत्त्व-लक्षण-कर्तृत्वस्य “अहम् एव वात इव प्रवाम्य् आरभमाणा भुवनानि विश्वा” इत्य्-अत्र निखिल-जगद्-उत्पादन-कर्तृत्वस्य च रक्षण-विशेष-कर्तृत्व-पर्यवसन्नस्येव "कामवत् सा ऽमृतं दुहाना", "सा नो लोकम् अमृतं दधातु", "आत्म-विद्या च देवि त्वं विमुक्ति-फल-दायिनी", "भव-भङ्ग-अपहारिणी", "संसार-अर्णव-तारिणीम्", "लक्ष्म्या सह हृषीकेशो देव्या कारुण्य-रूपया । रक्षकस् सर्व-सिद्धान्ते वेदान्तेषु च गीयते", "வேரி மாறாத பூமேலிருப்பாள் வினை தீர்க்குமே", "ऐश्वर्यम् अक्षर-गतिं परमं पदं वा कस्मैचिद् अञ्जलि-भरं वहते वितीर्य" - इत्य्-आदिषु मोक्ष-प्रदान-लक्षण-रक्षण-कर्तृत्वस्य अपि लक्ष्मी-साधारण्य-प्रतीतेर् निर्बाधत्वाद् अयोग्यता-शङ्काया एव अयोग्यता-पराहतत्वात् । [[P137]]
 
-ஒன்றோடொன்று கலக்காமல் வைத்திருப்பவள், ஜகத்வ்யாபாராதிகளான லீலைகளை   
-உடையவள், 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-ஜ்ஞானம்\-சக்தி\-பலம்\-ஐஸ்வர்யம்\-வீர்யம்\-தேஜஸ் என்ற ஆறுவகை குணங்கள் நிரம்பினவள், எப்போதும் நிரம்பின ஜ்ஞானம்\-ஆனந்தத்துடனிருப்பவள்.) 
+(ல.க) இங்கு qkgdit\] என்று தொடங்கி உபாயவிஷயத்தில் மீண்டும் குழப்புவது कृका कुा. उपाय: காரணஸாமாந்யவாசகம் என்பதை யாவரும் ஒப்பினார்கள். இங்கு சேதனனை ரக்ஷிப்பதற்கு காரணமானது कृपया पर्यपालयत् न♚ळीला. स तपस्तप्त्वा इद सर्वमसृजत \[அந்த பகவான் நன்கு பாஸ்த்ரங்களில் கூறியபடி ஆராய்ந்து எதிரே நம் கண்களுக்குப் புலனாகும் இதோ இவையாவற்றையும் ஸ்ருஷ்டித்தார்) என்ற போது [[P138]]
 
-\[எல்லா   
-சேதனாசேதனங்களுக்கு   
-ராணியாயும், 
+लक्ष्म्युपायत्वदीपः
 
-பரம்பொருளைப்போல் ப்ரஹ்மசப்தவாச்யமானவளுமாக நீர் 
+ஸங்கல்பத்தை தபஸ் என்ற சொல் சொல்கிறது. பகவானுடைய ஸங்கல்பம் என்பது - பகவானிடம் கருணை என்ற குணமில்லாத போதோ, மனது என்ற இந்த்ரியமில்லாமலோ நடைபெறாது. ஆனபடியால் இங்கு இந்த வாக்யத்தில் குண-விக்ரஹாதிகள் தெரிவிக்கப்படாத போதிலும் அவைகளை கட்டாயம் ஒப்புகிறோம். எப்படி? வேறு வேதவாக்யங்களில் தெரிவித்துள்ளபடியால். அதே போன்றுதான் இங்கும்.
 
-(பிராட்டி) இருக்கிறீர்.\] 
+கறவைப்பசுவையுமே *4 3-4 24 என்ற போது கோ என்ற சொல் பெண் பசுவையும், அதிலும் கறவைப்பசுவையுமே குறிக்கும் என்பது உடன் படிக்கப்பட்ட GH = கறப்பதற்கு என்ற சொல்லால் ஏற்படுகிறது. அதேபோல் ஜகத்கர்த்ருத்வம் உலகைப்படைப்பது முதலியன திவ்யதம்பதிகள் இருவருக்கும் பொதுவானதாகப் காட்டுகிறபடியால் இங்கும் லக்ஷ்மிக்கு எல்லாவிதமான செயலிலும் தொடர்பு உண்டு. இதற்கு ப்ரமாணம் -  
+(i) “अहं दधामि द्रविणं हविष्मते सुप्राप्ये मम यजमानाय सुन्वते”,  
+(ii) “अहं राष्ट्री सङ्गमनी वसूनाम्”,  
+(iii) “अहं जनाय समदं कृणोमि”,  
+(iv) “अहं सुवे पितरम् अस्य मूर्धन्"  
+என்பன போன்ற வாக்யங்கள் பிராட்டி ப்ரமாணங்கள் எல்லாசெயல்களையும் செய்வதை விளக்கவந்தவை.
 
-"" 
+(1) இங்கு முதல் வாக்யம்:- எவன் எளிதில் பெரும் பொருளை அடைய விரும்பி, யஜமானியான= எல்லாவற்றிற்கும் தலைவியான எனக்காக, ஸோமஸவனம் (= ஸோமக்கொடியை பிழிந்து சாறெடுத்து ஹோமம்) செய்கிறானோ அவனுக்கு பெரும் செல்வத்தை கொடுக்கிறேன்,  
+(2) நாட்டில் உள்ள யாவருக்கும் தலைவியான= ராணியான நான் எல்லாவகையான எட்டுவிதமான வஸுக்களையும் உபாஸிப்பவர்களுக்குத் என்னை தருகிறேன், \[அஷ்டவஸுக்களாவன= பத்மம், மஹாபத்மம், சங்கம், [[P139]]
 
-\[ஸ்ரீஎன்றே   
-தேவரீருக்குத்திருநாமம்.   
-பரமேச்வரனான 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-எம்பெருமானுக்கு தேவரீர் இல்லாளன்றோ.\] 
+மகரம், கச்சபம், முகுந்தம், குந்தம், நீலம் - என்பன - 45–942 पद्मश्च शङ्खो मकर - कच्छपौ । मुकुन्द - कुन्द-नीलाश्च निधयो तव दर्शिताः என்றது காண்க.\]  
+(3) மக்கள் யாவருக்கும் பணத்தாலான மகிழ்வை நான் அளிக்கிறேன்.  
+(4) தேவர்கள், பித்ருக்கள் என்ற எல்லாவகையானவர்களின் தலையிலும் நானுள்ளேன் \[நான் அவர்களைவிட மேலானவள் என்றபடி\] எல்லோருக்கும் மேலான ருத்ரனுக்கும் நான் தாய் - என்றும் பொருள் என்பன போன்றவைகள் பிராட்டியை எல்லாவகை ரேயஸ்ஸுக்களுக்கும் காரணமாகக் காட்டுகின்றன.
 
-இது முதலானவைகள் \- எம்பெருமானைப் போன்றே 
+இதைப்போல் कामवत् सा अमृतं दुहाना \[கன்றுக்குட்டியிடம் வாத்ஸல்யத்தால் அமுதத்தை= பாலை - பொழியும் பசுவைப்போன்று - நான் என் குழந்தைகளான மக்களுக்கு அமுதத்தை= மோக்ஷத்தையும் கொடுப்பவள்\], सा नो लोकम् अमृतं दधातु \[அத்தகைய பிராட்டியார் அனைவருக்கும் மோக்ஷத்தை அருளட்டும்\], आत्म-विद्या च देवि त्वं विमुक्ति-फल-दायिनी \[மோக்ஷம் என்ற பலத்தை அருளுபவளும் ஆத்ம வித்யையும் நீயே அன்றோ\], भव-भङ्ग-अपहारिणी \[ஸம்ஸாரத்தில் பிறந்து உழன்று வரும் எங்கள் துயரை நீ போக்குபவள் அன்றோ\], संसार-अर्णव-तारिणीम् \[பிறவிப்பெருங்கடலை தாண்டுவிக்கும் கப்பலைப் போன்றவள் அன்றோ நீர்\], लक्ष्म्या सह हृषीकेशो देव्या कारुण्य-रूपया । रक्षकस् सर्व-सिद्धान्ते वेदान्तेषु च गीयते \[கருணையே உருவான பெரிய பிராட்டியுடன் கூடிய ஹ்ருஷீகேசனான எம்பெருமான் நம்மை இங்கும் பாதுகாத்து மோக்ஷமும் அளிப்பவன் – என்பதாக ஸ்ரீபாஞ்சராத்ராதி ஆகமங்களிலும், வேதாந்தங்களிலும் தெரிவிக்கப்பட்டுள்ளது\], "வேரிமாறாத பூமேலிருப்பாள் வினைதீர்க்குமே" (திருவாய்மொழி). \[நறுமணம் சிறிதும் மாறாமலிருக்கும் தாமரையை கைகளில் தாங்கிவருபவளும், தாமரைப்பூவில் வஸிப்பவளுமான பெரியபிராட்டியார், நமது தீவினைகளைத் தீர்ப்பாள். \[எம்பெருமானை ஆச்ரயிக்க [[P140]]
 
-பிராட்டியும் என்று காட்டும் வசனங்கள். 
+लक्ष्म्युपायत्वदीपः
 
-இப்படி நாம் காட்டியபடியால் \- "Hi4 அளௗ" 
+விரோதியான அநாதி ஸஞ்சித பாபங்களையும், உபாயம் செய்தபிறகு கைங்கர்யத்துக்கு எதிரியான பாபங்களையும் Giri gori - muig\], ऐश्वर्यम् अक्षर-गतिं परमं पदं वा (35 ஸ்ரீபட்டரின் சுலோகத்தை கீழேகாட்டி விரிவாக விளக்கியுள்ளோம். கீழே கண்டுகொள்வது.\]
 
-எங்கும்   
-\[நிர்விகாரனாயும், ஜ்ஞானஸ்வரூபனாயும், 
+(लक्ष्म्युपायत्वदीपः) एतेन "ननु उपायत्वम्" इत्य्-आरभ्य, "मोक्षं प्रति व्यापार-कर्तृत्व-रूप-कारणत्वस्य प्रमाण-अभावाद् असम्भवः, व्यापार-कर्मत्व-रूपस्य कारणत्वस्य कुलालाद्य्-अधिष्ठित-दण्डादिवद् भगवद्-अधिष्ठित-चतुर्मुखादिवच् च तस्याः सम्भवे ऽपि तद्-अतिरिक्त-भगवत्-साधारण-करणत्वस्य, पुरुष-करण-अतिरिक्त-व्यापार-असम्भवेन तस्याश् चेतनतया व्यापार-मुखेन साधयितुं योग्ये कार्ये काल-अदृष्टादिवत् सत्तया कारणत्वस्य च असम्भव इत्य्-उक्तं परास्तम् । "लक्ष्म्या सह हृषीकेशः" इत्य्-अत्र तृतीया "पुत्रेण सह आगतो देवदत्तः" इत्य्-अत्र कर्तरि इत्य् एव तृतीया इति प्रतिपादयद्-महाभाष्य-अनुसारेण कर्तर्य् एव इति प्राग् एव प्रतिपादितत्वाद् उदाहृत-प्रमाणेषु कर्तृत्वस्य स्फुट-प्रतीतेश् च, तस्यैव मोक्षयिष्यामीति सङ्कल्प-रूप-व्यापार-कर्तृत्व-प्रतीतेर् इत्य्-उक्तिः "भवेयं शरणं हि वः" इति सङ्कल्प-रूप-व्यापार-कर्तृत्वस्य तस्याम् अपि प्रतीतेर् निरस्ता । [[P141]]
 
-எக்காலத்திலும் உள்ளும் புறமும்   
-வ்யாபித்தவனுமான 
+(0.5) இது மோக்ஷபர்யந்தமான பலங்களையும் முதலானவைகளில் பிராட்டி எம்பெருமானுடன் இணைந்து அருள்கிறாள் - என்பது कंकLL. ननु उपायत्वम् 6T की, उपायत्वस्य न साधारण्यम् = மோசேஷாபாயத்வம் - பெருமாள்-பிராட்டி rórm 3G45ळंமுळं 2னாநாཾ, उपायत्वं भगवतो विशेष एव = மோக்ஷத்துக்கு உபாயமாயிருப்பது எம்பெருமான் லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் ஒருவருக்கே - என்கிற வரையிலும் விரிவாக மறுத்துள்ளதும் – நேரில்லை.
 
-பரமாத்மாவை எவன் அறிகிறானோ\] 
+இங்கு பூர்வபக்ஷிகளின் கருத்து ஸாரமாய் தெரிவிக்கப்படுகிறது. மண்குடம் உண்டாக உபாதான காரணமான குயவனார் கொம்பு-சக்கரம்-நீர் முதலானவைகளை எதிர்பார்ப்பவராயினும், அவை ப்ரதான காரணமில்லை. மூலப்பொருளான மண்ணே காரணம். இந்த தண்ட-சக்ராதிகள்ணங்கள். முக்க்ய காரணங்களில்லை. அதேபோல் ச்ரிய:பதியானவனே மோசேஷாபாயம். அந்த நாராயணன் நாரவர்கங்களுக்குத் தலைவனாயிருப்பது என்ற பொருள் படைத்த நாராயண சப்தத்தாலும், நாரபதார்த்தங்களுக்கு ஜகத்ஸ்ருஷ்ட்யாதிகளில் தொடர்பு இல்லையோ அப்படியே அந்த நாராயணன் பெரியபிராட்டிக்குக் கணவன் எப்படி
 
-"q:: Haq" 
 
-\[யவன் யாவற்றையும்   
-ஸ்வரூபேண\-ஸ்வபாவேன 
+ஸ்ரீ என்ற என்று அவனை அடையாளம் காட்டவந்த சொல்லே புரி: என்பது. இதில் உள்ள லக்ஷ்மியும் அதனால் ஜகத்காரணமாக முடியாது. இங்கு புருஷகாரம் = பரிந்து பேசுவது பரிந்து பேசுவது - என்பதைத்தவிர வேறு செயலை இவள் செய்யவில்லையே - ஒருவனுக்கு ஒரு கார்யம் கை கூடியது என்றால் அதில் அவனுக்கு உண்டான புண்ய-பாபங்களும் காரணமே. காலமும் தேசமும் கூட காரணமே. அவையில்லாமல் எந்த செயலும் நிறைவுபெறாது என்றிருந்தாலும் அவை முக்க்யகாரணமில்லை. HH|மே - என்றதும் தவறு.
 
-அறிவானோ \- அல்லது எல்லாவற்றையும் அடைந்தவனோ\] 
+ஏன்? எனில் : fqai என்ற போது கர்தரித்ருதீயை திருவுள்ளப்பட்டார் - என்றே மஹாபாஷ்யகாரர் ஆகமனரூபக்ரியையில் இருவருக்கும் ஸமமானப்ராதான்யம் இருப்பதைக்கொண்டு. அதேபோல் க: என்றபோதும் 'ச' என்று அப்ரதானத்ருதீயை இல்லை. ப்ரதானகர்தரி தான் என்பது வையாகரணர்களும் ஒப்பியதே. 9301 45 आगतः पिता [[P142]]
 
-"पराऽस्य शक्तिः विविधैव श्रूयते स्वाभाविकी ज्ञान बल क्रिया च " 
+लक्ष्म्युपायत्वदीपः
 
-65   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+என்றபோது आर्थप्राधान्यम् புத்ரனுக்கு இருந்தாலும், गमनक्रियान्वयः 6ं । श्रनुकं मुकं wिin fiqu பிராட்டியைப் பற்றிய ப்ரமாணவாக்யங்களில் எல்லா செயல்களிலும் பிராட்டிக்கு प्रधानकर्तृत्वम् நன்கு தெரியவருகிறபடியால் பூர்வபக்ஷிகள் கூறியது நேரில்லை. भवेयं शरणं हि वः नाÓना. '' m rv - श्री लकी- ஸ்ம்ருத்யாதிகளில் ப்ரஸித்தம் - என்பதைக் காட்டவன்றோ
 
-\[இந்த எம்பெருமானது சக்தியும், ஜ்ஞானமும், பலமும், மற்றையோரைவிட மிக உயர்ந்ததாயும்,   
-செயல்களும்   
-\- 
+(लक्ष्म्युपायत्वदीपः) यद् अपि किञ्च इत्य्-आदिना द्वेधा वचन-अर्थ-वर्णनम्, तत्र प्रथमे - मम इति पद-अनुषङ्गस्य उपायत्वम् इत्य्-अध्याहारस्य लक्ष्मी-उपायत्व-प्रतिपादक-बहु-प्रमाण-विरोधस्य च आपत्त्या तद्-रहित-अस्मद्-उक्त-अर्थ-परत्वस्य एव ज्यायस्त्वात् न स्वारस्य-सम्भवः । भगवत्-स्वरूप-निरूपकतया लक्ष्म्यास तत्-स्वरूप-वाचि-शब्द-अन्तर्भावस्य तत्त्वदीपिकाकारैर् उक्तत्वात् अस्माभिश् च सप्रमाणं सन्यायं च पूर्वम् उपपादितत्वाच् च, स्वरूपतो गुणैश् च अनवधिक-अतिशय-बृहत्त्वस्य ब्रह्म-शब्द-प्रवृत्ति-निमित्तस्य भाष्यकार-अभिमतस्य लक्ष्मी-साधारण्याच् च । "लक्ष्मी-नारायण-आख्यं तद् अतो ब्रह्म सनातनम्", "ब्रह्मणि श्रीनिवासे" इति विशिष्य लक्ष्मी-विशिष्टस्य ब्रह्म-शब्द-वाच्यत्व-अभिधानाच् च तस्या अपि लक्ष्यत्वात् तस्याम् अतिप्रसक्ति-आपादनं तद्-अर्थं ब्रह्मत्व-अभावस्य वक्ष्यमाणत्व-प्रतिज्ञा-वचनं च न सङ्गच्छेते । न च उपायत्वस्य पुरुषकारत्व-शरीर-प्रविष्टतया पुरुषकारत्व-पदेन उपस्थितत्वात् न अध्याहार-दोष इति वाच्यम् । एवम् अपि शब्द-अध्याहार-पक्षे तत्-दोष-तादवस्थ्यम्, अर्थ-अध्याहार-पक्षे तद्-अभावे ऽप्य् अनुषङ्ग-दोषस् स्याद् एव । [[P143]]
 
-பலபடியானதும், இயல்பாகவும் உள்ளது.) 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-"अपहतपाप्मा विजरो विमृत्युः विशोकः विजिघत्सः 
+இந்த HE என்ற வாக்யத்துக்கு இரண்டுவிதமாக பொருள்கூற முற்பட்டு தானும் குழம்பி, பிறரையும் Gfww. फक्र mmu Gurgofo - मम என்ற சொல்லை கீழ்வாக்யத்திலிருந்து கூட்டிக்கொள்ள வேண்டும் (3TF:). 3444 என்ற சொல்லை (இது இங்கு ப்ரகரணத்தில் இல்லாதது) 3ARம் பண்ணவேண்டும். இது அநுஷங்கத்தை விட அத்யாஹாரம் பெரிய தப்பு - என்பதாய் பூர்வமீமாம்ஸையில் அநுஷங்காதிகரணத்தில் முடிவு செய்துள்ளபடியால் தப்பாகும். அநுஷங்கமும் வேறு கதியில்லாதபோதே செய்யத்தகும். இதையும் மீமாம்ஸகர் அவர் சாசர் என்று காட்டினார்கள். "கட்டாயம் அநுஷங்கம் பண்ணியே தீரவேண்டும், இல்லாவிடில் பொருந்தாது" என்ற நிலையிருந்தால் அது தகும். இங்கு அநுஷங்கமில்லாமலேயே ஸ்வரஸமாய் வாக்யார்த்தம் கொள்ள வழியிருக்கும்போது ஏன் அந்தக்லேசத்தை அநுபவிக்கவேண்டும். தத்வதீபிகாகாரர் என்ற மஹானும் பகவத் ஸ்வரூபத்தில் அந்தர்பூதை பிராட்டி என்பதை ஒப்புக்கொண்டார். அதையே நாங்களும் கூறிவருகிறோம். "இயற்கையான ஸ்வரூபத்தாலும் அனந்தமான கல்யாண குணங்களாலும் எது மிகவும் பெரியதோ – அதையே ப்ரம்ஹ என்ற சொல்லுக்கு ஈரமாகக்கொள்வது" என்ற ஸ்ரீபாஷ்யகாரரின் திருவுள்ளம் இங்கு லஷ்மீ விஷயத்திலும் பொதுவாய் அமைந்துள்ளதே.
 
-अपिपासः सत्यकामः सत्यसङ्कल्पः " 
+"लक्ष्मीनारायणाख्यं तद् अतो ब्रह्म सनातनम्" \[லக்ஷ்மீநாராயணர் என்கிற பரப்ரம்ஹம் அநாதியானது-\] "ब्रह्मणि श्रीनिवासे" \[பரப்ரம்ஹம் என்று எல்லோராலும் ஒப்புக்கொள்ளப்பட்ட ஸ்ரீயுடன்கூடிய பகவானிடம்\], என்பன போன்ற வசனங்கள் லக்ஷ்மியுடன் கூடிய பரமாத்மாவையே ப்ரம்ஹ சப்தத்தால் சொல்லுகின்றன ஆகவே "லக்ஷ்மியிடம் ப்ரம்ஹலக்ஷணத்துக்கு அதிவ்யாப்த்தி வந்துவிடும்” என்பது அதிப்ரஸக்தி பொருந்தாது.
 
-\[இந்த பரமாத்மா பாபஸம்பந்தம் எப்போதுமில்லாதவர், கிழத்தனம்\-மரணம்\-துன்பம்\-உண்ணும் 
+பரிந்து பேசுவது என்பது पुरुषकारः என்றது. மோக்ஷத்துக்கு உபாயமாக இருப்பது வேறு. புருஷகாரமாய் [[P144]]
 
-நீர்வேட்கை-   
-இவைகளில்லாதவர்,   
-எண்ணம் \- 
+लक्ष्म्युपायत्वदीपः
 
-நினைத்ததை 
+இருப்பதும் ஒருவகையில் மோசேஷாபாயமே. ஆகையால் எந்த தோஷமும் இல்லை. 3AIë:= இல்லாததைச் சேர்த்துக் கொள்வது என்பது இரண்டு வகையாகும் - 1) : 2) ரி: என்பதாக. சப்தாத்யாஹாரபக்ஷத்தில் கீழே கூறிய குற்றம் அப்படியே இருக்கும். அர்த்தாத்யாஹாரபக்ஷத்திலும் अनुषङ्गः என்ற தோஷம் வரும். அத்யாஹாரத்தைவிட அநுஷங்கம் சற்று மேலானது. அந்தப்ரகரணத்தில் இல்லாத சொல்லை கூட்டிக்கொள்வது अध्याहार எனப்படும். முன்போ-பின்போ அந்த ப்ரகரணத்தில் இருப்பதைச் சேர்த்துக் கொள்வதை அகம் என்பர். அநுஷங்கமே இதில் சிறந்தது. நாமாக புதியதாக ஒரு சொல்லை கல்பித்துக் கூட்டிக்கொள்ளவில்லையே. இது அன்சா என்ற ஜைமிநிஸூத்ரத்தில் தெளிவாய் அறியலாம்.
 
-அடையக்கூடியவர்,   
-அவரது   
-எண்ணம் யாவும் 
+> “लक्ष्मीं च मां सुरेशेश द्वयेन शरणं गतः ।  
+> मत्-लोकम् अचिराल् लब्ध्वा मत्-सायुज्यं स गच्छति ॥”
 
-பழுதில்லாதவை.) 
+> “माम् एकं च श्रिया युक्तं भक्ति-युक्तो नरोत्तमः ।  
+> द्वयेन मन्त्र-रत्नेन मत्-प्रियेण भजेत् सदा ॥  
+> अचिरान् मत्-प्रसादेन मत्-लोकं च स गच्छति ॥”
 
-என்பன போன்ற பகவத்ஸ்வரூபம் குணங்களுடன் கூடியது என்பதைக் காட்டும் வாக்யங்களாலும் லக்ஷ்மியைக் குறிப்பிடுவது ஏற்கும். 
+इत्य्-आदिभिर् लक्ष्मी-नारायणयोर् द्वयोर् अपि मन्त्र-रत्न-करणक-मोक्ष-अर्थ-प्रपदन-विषयत्व-रूप-उपायत्व-ज्ञापनेन पुरुषकारत्वातिरिक्त-आकारेण उपयोगे नास्तीत्य् अयोग्यता-पराहतम् । न चैतद्-अनुसारेण तद्-वचनानां पुरुषकार-प्रपदन-विषयत्वं वक्तुं शक्यम् । तत्र मन्त्र-रत्नस्य करणत्व-असम्भवात् । तस्मात् ततश् च उपायत्वं भगवत एव इति सुव्यक्तम् इत्य्-अयुक्तम् । [[P145]]
 
-கேள்வி: இப்படியானால் லஷ்மியும் ஜகத்காரணம் என்றால் "கப்பு iáபுபு" என்ற ச்ருதிக்கு விரோதமாகுமே. ஜகத்துக்கு இருவர்காரணம் என்பது காரண வாக்யங்களில் எங்கும் காணப்படவில்லையே? எனக் கேள்வி. 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-\- 
+> “लक्ष्मीं च मां सुरेशेश! द्वयेन शरणं गतः ।  
+> मत्-लोकम् अचिरात् लब्ध्वा मत्-सायुज्यं स गच्छति ॥”
 
-\-   
-பதில்: "3- अवात‍ स्वधया எத்தா" என்ற ஜகத்காரணவாக்யத்தில் ā என்று பிராட்டியைக் காட்டி, லஷ்மீவிசிஷ்டனான பரமாத்மா ஒருவரே காற்று கூட ஸ்ருஷ்டிக்கப்படாத அந்த மஹாப்ரளயகாலத்தில் இருந்தார் 
+\[தேவர்களின் தலைவனே! லக்ஷ்மியையும் என்னையும் த்வயம் என்ற மந்த்ரத்தால் சரணாகதி செய்பவன் விரைவில் என்லோகமான ஸ்ரீவைகுண்டத்தை அடைந்து எனக்கு ஸமமான யோகசேஷமத்தை அடைகிறான்.\]
 
-என்பதால் H-தாலே   
-மற்றைய காரணவாக்ய ப்ரகரணங்களிலும் இப்படி பிராட்டியுடன் கூடிய பகவானே ஜகத்காரணம் என்பது ஏற்படுகிறது. இப்படி காணக்   
-என்று ஒப்புக்கொண்டால் கௌரவம் வருகிறது \- ஆகவே H என்பதை கவனித்து ஜகத்துக்கு பரமாத்மா ஒருவரே காரணம் \- என்பது தகுமே \- என எண்ண வேண்டாம். யுபு என்று இருந்தாலும் 
+> “माम् एकं च श्रिया युक्तं भक्ति-युक्तो नरोत्तमः ।  
+> द्वयेन मन्त्र-रत्नेन मत्-प्रियेण भजेत् सदा ॥  
+> अचिरान् मत्-प्रसादेन मत्-लोकं स च गच्छति ॥”
 
-•H:3qHH எப்படிக் கொள்கிறோமோ \- 
+\[ஸ்ரீ எனப்பட்ட பெரிய பிராட்டியாருடன் கூடிய என் ஒருவனை, மிகுந்த பக்தியுடன் எனக்கு மிகவும் பிரியமான மந்த்ரரத்னம் எனப்பட்ட த்வயமந்த்ரத்தால் எந்த ஒரு நல்ல மனிதன் ஆச்ரயிக்கிறானோ - அவன் வெகு விரைவில் என் அருளால் எனது சாஸ்வதலோகமான ஸ்ரீவைகுண்டத்தை அடைகிறான்\] என்பன போன்ற பல ப்ரமாணங்கள் மந்த்ரரத்னத்தை கரணமந்த்ரமாகக்கொண்டு லஷ்மீ- நாராயணர்கள் என்ற இந்த திவ்ய தம்பதிகள் இருவரிடம் மோக்ஷத்துக்காக ப்ரபத்தியைச் செய்யவேண்டும்- என்று காட்டுகின்றன. ஆகவே "பிராட்டிக்கு புருஷகாரத்வம் தவிர - உபாயத்வம் கிடையாது” என்ற வாதம் மறுக்கப்பட்டதாகிறது.
 
-66   
-\-   
-लक्ष्म्युपायत्वदीपः 
+"இந்த வசனங்கள் யாவும் புருஷகாரப்ரபத்தியையே குறிப்பிடுவதாகக் கூறலாமே" என்று கேட்கமுடியாது. ஏன் எனில் மந்த்ரரத்னமான த்வயத்தைக் கொண்டு புருஷகாரப்ரபத்தியை செய்ய எங்கும் வசனமில்லை. இங்கு 547 பள என்று ஸ்பஷ்டமாக த்வயம் காட்டப்பட்டது. த்வயம் ப்ரபத்திக்கு கரணமந்த்ரம். புருஷகார ப்ரபத்திக்கு 4சர் 42TH பனிபு என்ற ஸ்ரீஸூக்தமந்த்ரமே கரணமந்த்ரம். ஆகவே பூர்வபக்ஷியின் வாதம் எடுபடாது. [[P146]]
 
-ப்ரமாணாந்தரங்களால் \- அதே போலிங்கும் ஆகக்கடவது. இதை சரமசுலோகாதிகாரத்தில் ஆசார்யர் காட்டியருளினார்: 
+लक्ष्म्युपायत्वदीपः
 
-மேலும்,   
-"एकं जगदुपादानम् इत्युक्तेऽपि प्रमाणतः । si" என்று. 
+(लक्ष्म्युपायत्वदीपः) किञ्च "स्वयं-पद-महिम्ना" इत्य्-आदिना, "इत्य्-एवं-रूप-अर्थस्य च-शब्देन समुच्चितत्वात्" इत्य्-अन्तेन उक्तम् अपि, स्वयं-पदस्य अव्यवहित-लक्ष्मीपति-पद-अन्वये सम्भवति व्यवहित-उपाय-पद-अन्वयस्य अनुचितत्वात् । तद्-अन्वये ऽपि अहम् एव स्वयं इदं वदामि इति वेदे, स्वयम् एव इदं करोमि इत्य्-आदौ लोके च प्रयोजक-कर्तृत्व-व्यवच्छेद-परत्व-दर्शनेन, परम्परा-उपायत्व-व्यवच्छेद-परत्वेन साक्षात्-पद-वैयर्थ्य-आपत्त्या व्यक्ति-अन्तर-व्यवच्छेद-परत्वे ऽपि गुण-विग्रहयोर् इव विशेषणत्वेन उपात्ताया लक्ष्म्या अपि व्यवच्छेद-असम्भवेन तद्-इतर-व्यवच्छेद-परत्वस्य औचित्यात् । "एतस्याश् च विशेषो ऽयम्" इत्य्-अत्र चस्य तु-अर्थकत्वे - अयं तु एतस्याः विशेषः, उपायत्वं न विशेषः, किन्तु साधारणम् इत्य्-अर्थस्य प्रमाण-अन्तर-अनुगुणस्य सम्भवात् । समुच्चय-अर्थकत्वे एतस्याः अयं विशेषश् च, उपायत्व-रूपं सामान्यं च निगमान्तेषु शब्द्यते इत्य्-अर्थ-परत्व-सम्भवात् । एतस्याः इत्य्-अनेनैव अन्वये ऽपि एतस्यास् तु अयं विशेष इत्य्-उक्त्या न अन्येषाम् इत्य् एव प्रतीयते । भगवत उपायत्वं विशेष इति तु न प्रतीयते । तु-शब्दस्य पूर्वस्माद् वैलक्षण्य-द्योतकतया पूर्वं भगवत उपायत्वं विशेष इत्य्-अनभिधानात् तद्-अर्थ-परत्व-अनुपपत्तेः । न च 'अहं मत्-प्राप्ति-उपायः' इत्य्-अनेन भगवत उपायत्वं विशेष इति "एतस्याश् च विशेषो ऽयम्" इत्यस्य उक्त-अर्थ-परत्वे सिद्धे तत्-महिम्ना 'अहं मत्-प्राप्ति-उपायः' इत्यस्य भगवद्-असाधारण-उपायत्व-परत्व-सिद्धिः, तत्-सिद्धौ च "एतस्याश् च" इत्यस्य उक्त-अर्थ-परत्व-सिद्धिर इत्य् अन्योन्याश्रयात्, चस्य समुच्चय-परत्वे ऽपि उक्त-समुच्चये ऽन्योन्याश्रयः, अनुक्त-समुच्चयश् च उपायत्व-असाधारण्यस्य अन्यत्र अप्रसिद्ध्या नोपपद्यते, तस्मात् स्वयं-पद-महिम्ना "एतस्याश् च विशेषो ऽयम्" इत्य्-उक्त-महिम्ना च न व्यवस्था-सिद्धिः ।
 
-"एकोपास्तिविधानेऽपि गुणादीनां यथाऽन्वयः । तथैकशरणव्रज्याविधानेऽप्यनुमन्यताम् ॥ 
+यच् च किञ्चेत्य्-आदिना साक्षाद्-उपायत्वं भगवत एव, लक्ष्म्यास् तु परम्परा-उपायत्वम्, तच् च पुरुषकारत्वे पर्यवस्यति इत्य्-उक्तम्, तत् साक्षाद्-उपायत्वं लक्ष्मी-विशिष्ट-निष्ठतया प्रतीयत इति प्राक्-प्रतिपादनेनैव निरस्तम् । अत एव [[P147]]
 
-यथा गुणादिवैशिष्ट्ये सिद्धोपायत्वम् अक्षतम्। तथा पत्नीविशिष्टित्वेऽप्यभीष्टं शास्त्रसम्मतम् ॥ प्रभा\-प्रभावतोर्यद्वत् एकोक्तौ इतरान्वयः । एवम् अन्यतरोक्तौ स्यात् सहवृत्त्यभिधानतः॥ 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-अतोऽनन्यपरानेक श्रुति\-स्मृत्यनुसारतः । 
+अहं साक्षात् मत्-प्राप्ति-उपाय इत्य्-अनेन लक्षणत्व-आकारस्य स्फुटत्वान् मम उपायत्वं विशेष इति नोक्तम् इति परास्तम्, साक्षाद्-उपायस्य साधारण्य-प्रतीत्य्-उपपादनात् । च-शब्दस्य उक्त-अनुक्त-समुच्चय-परत्व-असम्भवस्य उक्तत्वात् किञ्चेत्य्-आद्य् अपि निरस्तम् । एवं च "मत्-प्राप्तिं प्रति" इत्य्-आदेः व्यवस्था-परत्व-असिद्ध्या तद्-बलेन उपायत्व-वचनानां पुरुषकारत्व-प्रयुक्त-परम्परा-उपायत्व-पर्यवसानम् अनुचितम् एव, असति बाधके मुख्य-अर्थ-त्याग-अयोगात् । अत एव एकम् अपि इत्य्-आद्य् अपि दूरोत्सारितम्, भूयो-अनुग्रह-न्यायस्य अनपवादत्वात् ।
 
-:   
-aid:11" என்பதையும் காண்க. 
+(ல.க) எம்பெருமான் தன்னையே உபாயமாகக் கூறும் போது 4 என்றார். அதனால் பிராட்டிக்கு இதில் ஸம்பந்தமில்லை - என்று ஏற்படுகிறதே - என்று ஆரம்பித்து "தன் d\<" என்று பூர்வபக்ஷி எழுதியதும் நேரில்லை. अहं मत्प्राप्त्युपायो वै साक्षात् लक्ष्मीपतिः स्वयम् என்றவிடத்தில் 44 என்ற சொல் அடுத்து வரும் லக்ஷ்மீபதி: என்கிற சொல்லோடு அந்வயிக்கும். இதை விட்டுவிட்டு தள்ளி இருக்கும் उपायः என்கிறதோடு அன்வயிக்கும் – என்று கூறுவது அடியோடு பொருந்தாது. ச்ருதியில் "354q us aqift" என்கிற போதும் qqnqé கரிபு என்ற லௌகிகவாக்யத்திலும் - நடத்திக்கொடுப்பவர் என்பதைக் குறிப்பிடாமல் ஸாக்ஷாத்தாக எவர் செய்கிறாரோ அவரையே கூறுகிறது என்பதை ஒப்பியுள்ளோம். ஆகவே இப்படி விதண்டாவாதம் செய்வது பொருந்தாது. பரம்பரோபாயத்தைக் கூறுவதானால் Hæd என்ற சொல் வ்யர்த்தமாகுமே. மற்றோர் வ்யக்தியை மறுக்கிறது - என்று கொண்டாலும், உபாத்தவ்யக்தியில் கல்யாண குணம்-திருமேனி முதலானவைகளை எப்படி மறுக்க முடியாதோ, அப்படி ஸ்வரூபநிரூபகதர்மமாய் அமைந்த பிராட்டியின் ஸம்பந்தத்தையும் எந்த நிலையிலும் மறுக்க முடியாது. [[P148]]
 
-அருணாதிகரணத்தில்-Aqd 
+लक्ष्म्युपायत्वदीपः
 
-இங்கும் குளிf- ஒப்பவேண்டும். 
+fsqy 4 d என்ற போதும், ஈ என்ற சொல் I என்பதின் பொருளில் வந்தது. பிராட்டிக்கு புருஷகாரத்வம் என்பதே விசேஷம். உபாயத்வம் விசேஷமில்லை. அந்த உபாயத்வம் எம்பெருமானுக்கும் உண்டே. அது ஸாதாரணமாயிற்றே என்றபடி. 7 என்பதற்கு ஸமுச்சயம் என்ற பொருள் கொண்டாலும் இப்படி புருஷகாரத்வரூபமான விசேஷமும், பகவானும் இவளுக்கும் ஸாமான்யாகாரமும் வேதாந்தங்களில் மோசேஷாபாயத்வரூபமான ஏற்பட்ட விளக்கிக்காட்டப்பட்டன - என்று பொருளாகும்.
 
-இவ்வளவு தூரம் சொல்லியதற்கு ப்ரமாணங்கள் வருமாறு: 
+374414:, 4 என்கிற இரண்டு வசனங்களுக்கும் ஒன்றோடு ஒன்று விரோதம் வராமல் ப்ரமாணங்களை அநுஸரித்து நாம் (பரகாலஸ்வாமி) இப்படி பொருள் கொண்டோம். ஏ: 2: என்றாலும், ஈ: : என்றாலும் தாத்பர்யத்தில் விரோதம் இல்லை.
 
-"अकारेणोच्यते विष्णुः सर्वलोकेश्वरो हरिः । 
+மேலும்,
 
-उद्धृता विष्णुना लक्ष्मीः उकारेणोच्यते सदा ॥ 
+> “मत्प्राप्तिं प्रति जन्तूनां संसारे पतताम् अधः ।  
+> लक्ष्मीः पुरुषकारत्वे निर्दिष्टा परमर्षिभिः ॥”
 
-கரு:ரி SUSHUII" (கடச்ருதி) 
+என்று கீழே எடுத்த வசனத்தாலும் "புருஷகாரத்வம் ஒருவருக்கு, உபாயத்வம் மற்றொருவருக்கு” என்ற வ்யவஸ்த்தை ஏற்படவில்லை. ஆகவே அதைக்கொண்டு பிராட்டிக்கு உபாயத்வம் கூறும் வசனங்களை - YH4RY புமாகக் கொள்ள வழியில்லை. இதேபோல் என்று தொடங்கி நீங்கள் விளக்கியதும் நேரில்லை. "சர் எனிAH" என்ற ந்யாயப்படியும் பொருந்தாது.
 
-\[இது ரஹஸ்யாம்னாய வாக்யம் என்று ஸ்ரீஸ்துதி வ்யாக்யானத்தில் பாரத்வாஜ ஸ்ரீநிவாஸாசார்யர்\] ஸர்வலோகங்களுக்கும் தலைவரான ஸர்வரக்ஷகனான ஸ்ரீவிஷ்ணுவானவர் ப்ரணவத்தில் உள்ள முதல் எழுத்தான 31 \- என்ற எழுத்தால் சொல்லப்படுகிறார். எப்போதும் 
+(लक्ष्म्युपायत्वदीपः) किञ्च, मन्त्र-रत्न-पूर्व-खण्डे मतुप्-प्रत्ययेन लक्ष्मी-वैशिष्ट्य-प्रतीत्या विशिष्टस्यैव शरण्यत्व-प्रतीतेर् विशेषण-भूत-लक्ष्म्याश् च शरण्यत्वाद् एव उपायत्व-निषेधो नोपपद्यते । न च लक्ष्मी-सम्बन्धस्य पुरुषकार-व्यापार-अर्थत्वेन [[P149]]
 
-67   
-\-   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்
 
-திருமார்பில் அவரால் தாங்கி வரப்படும் லக்ஷ்மீயானவள் 3 \= உ என்ற எழுத்தால் தெரிவிக்கப்பட்டாள், ம் என்ற எழுத்து அவ்விருவருக்கும் தாஸபூதனான ஜீவனைக் கூறும். இதுவே ப்ரணவம் என்பது \- என இதற்குப்பொருள். 
+तेन अन्यथा-सिद्धत्वान् न उपायत्व-अर्थत्वम् इति वाच्यम् । तर्हि उत्तर-खण्ड-स्थ-मतुप्-प्रत्ययेन प्राप्यत्वम् अपि न सिद्ध्येत् । न च पूर्व-खण्ड-स्थेन तेन पुरुषकार-सम्बन्ध-प्रतीतेर् उत्तर-खण्डे ऽपि तत्-प्रतीतौ प्रयोजन-अभावात् प्राप्यत्व-सिद्धिर इति वाच्यम् । अत्रैव पुरुषकार-सम्बन्ध-प्रतीतिस् तत्र तु उपायत्व-प्रतीतिर् इति वैपरीत्यस्य अपि सुवचत्वात्, वैशिष्ट्य-प्रतीतेर् वैषम्य-अभावात् । तद् उभयत्र पुरुषकार-सम्बन्ध-परत्वं तद्-अभावो वा स्यात् । तत्र आद्ये प्रयोजन-अभावात् प्राप्यत्व-अभाव-प्रसङ्गाच् च, चरम एव आश्रयणीय इति लक्ष्म्याः अप्य् उपायत्व-सिद्धिर अप्रत्यूहा । न च उत्तर-खण्डस्य प्राप्य-परतया तत्रत्य-मतुप्-प्रत्ययेन लक्ष्म्याः प्राप्यत्व-सिद्धिर एव उचिता इति वाच्यम्, पूर्व-खण्डस्य उपाय-परत्वेन तत्रत्येन उपायत्व-सिद्धेर् एव औचित्यस्य अप्य् अनिवार्यत्वात् । न च माम् एकम् इत्य् एक-पदेन स्व-इतर-कृत्स्न-शरण्यत्व-निवृत्ति-पूर्वकं स्व-शरण्यत्वस्य भगवतैव स्थापितत्वेन लक्ष्मी-शरण्यत्व-अप्रसक्तेः पूर्व-खण्डे पुरुषकार-सम्बन्ध-प्रतीत्य्-अर्थ एव मतुप्-प्रत्ययः, अन्यथा नार-शब्द-अर्थानाम् सर्वेषां विशेषणत्व-अविशेषेण उपायत्व-प्रसङ्गः । उत्तर-खण्डे तु विशेषणत्वेन अन्वय-प्रयुक्त-प्राप्यत्वे बाधक-अभावान् नानुपपत्तिर् इति वाच्यम् । लक्ष्म्या भगवत्-स्वरूप-वाचि-शब्द-अन्तर्भावस्य तत्त्वदीपिकाकारैर् उक्तत्वात्, “अहन्ता ब्रह्मणस् तस्य सा ऽहम् अस्मि सनातनी । अहन्तया विना अहम् हि निरुपाख्यो न सिद्ध्यति” इत्य्-आदिभिर् अहन्ता-रूपतया उक्तत्वात् “माम् एकं च श्रिया युक्तम्” इत्य्-आदि-स्थान-प्रमाण-अनुरोधाच् च, माम् इत्य्-अनेन लक्ष्मी-विशिष्टस्य, एकम् इत्य्-अनेन विशिष्ट-अतिरिक्त-व्यवच्छेदस्य भगवद्-विषय-शरणागतेर् विधेयतया तस्याः [[P150]]
 
-இனி இதே கருத்துள்ள ஸ்ம்ருதி வாக்யம்: 
+लक्ष्म्युपायत्वदीपः
 
-”अकारश्चित्स्वरूपस्य विष्णोर्वाचक इष्यते । 
 
-उकारः चित्स्वरूपायाः श्रियो वाचितया विदुः ॥ मकारस्तु तयोर्विप्र\! श्रीनारायणयोः सदा । 
+प्रतीतेर् लक्ष्म्य्-उपायत्वस्याबाधात्, तत्-प्रविष्ट-अहन्तात्मक-लक्ष्मी-रूप-विशेषणस्य "पशुना यजेत" इत्य्-आदौ पुंस्त्व-एकत्वादेर् इव विवक्षावश्यम्भावाच् च। अन्यथा सर्व-शाखा-प्रत्यय-न्याय-विरोधस् स्यात्। 
 
-आत्मनः शेषभूतस्य वाचकः श्रुतिचोदितः ॥”াgl. 
+अतः लक्ष्म्य्-उपायता-परत्वम् अवर्जनीयम्। 
 
-அளவிலடங்காத பேரறிவாளனான ஸ்ரீவிஷ்ணுவைக்கூறும் அ என்ற எழுத்து, உ \- என்ற எழுத்தும், அதே போல் அபரிமிதமான ஜ்ஞானமே உருவான பெரிய 
+न [[P150]] पूर्व-खण्डे चैवं नार-शब्द-अन्तर्गत-जगतो ऽप्य् उपायत्व-प्रसक्तिर् इति वाच्यम्। "आब्रह्मस्तम्बपर्यन्ता" इत्य्-आदि-प्रमाण-वाधितत्वस्य प्राग् एवोक्तत्वात्। निरतिशय-पुरुषार्थस्य प्रार्थनीयत्ववत् निरतिशय-उपायत्वस्यैव वरणीयत्वात् [[वरणीयत्वात|वरणीयत्वात्]] “वस्तुतस् तु” इत्य्-आदिकम् अप्य् अपास्तम्। “अस्मद्-अनभिमतत्वाद् एव पूर्व-खण्डे नार-शब्द-अर्थ-प्रापकत्वादि-प्रसङ्ग-भयेन” इत्य्-आदि-शङ्का-समाधान-ग्रन्थो ऽनुपपन्नः। 
 
-பிராட்டியாரைக்கூறும்.   
-இத்தகைய   
-ஸ்ரீக்கும் 
+किञ्च, बाधक-अभावे ऽपि उपाय-विशेषणत्व-स्वारस्य-प्रयुक्त-उपायत्व-अनङ्गीकारे गुण-विग्रहयोर् उपायत्वं न स्यात्। न च ज्ञान-शक्त्य्-आदि-गुण-अभावे मोक्ष-प्रदातृत्वं विरोधि-पाप-निरसन-इष्ट-प्रापणादीनां भगवतः कथम् उपपद्येत, ज्ञान-शक्त्य्-आदि-साध्यत्वेन तद्-उपायत्व-अवश्यम्भावात् तद्-अनङ्गीकारे मोक्ष-सिद्धिर् न स्यात्। एवंविध-दृष्ट-उपयोग-अभावेन लक्ष्म्या उपायत्व-अनङ्गीकारे बाधक-अभावान् न गुण-प्रतिबन्धि-मुखेन उपायत्व-सिद्धिर इति वाच्यम्, 
 
-நாராயணனுக்கும் எப்போதுமே சேஷபூதனான ஜீவாத்மாவை ம் என்ற எழுத்து கூறும் \-என்பதாக ச்ருதி \- 
+> "भावाभावमयी तस्य शक्तिर् एका ऽनपायिनी।
+> तद्-धर्म-धर्मिणी दिव्या ज्योत्स्नेव हिमदीधितेः[^150_1]"
 
-எனப்பொருள். 
+इत्य्-अनेन स्थूल-सूक्ष्म-रूप-जगद्-व्यापितया कार्य-कारण-अवस्थयोर् उभयोर् अपि तद्-अविनाभूता लक्ष्मीर् जगत्-कारणत्व-मोक्ष-प्रदत्वादि-भगवद्-धर्म-धर्मिणी इति तत्-शक्ति-रूपा प्रतिपाद्य तमोनिवर्तकत्व-आह्लादकारित्वादि-चन्द्र-धर्म-धर्मि-चन्द्रिका-दृष्टान्त-कथन-पूर्वकं 
 
-(ल.उ.दी) देवतात्ववत्   
-“आग्नावैष्णवमेकादशकपाल"मित्यादावग्नाविष्णूभयनिष्ठैक- 
+> "यो ऽसौ नारायणो देवः परमात्मा सनातनः।
+> अहम्भावात्मिका शक्तिस् तस्य तद्-धर्म-धर्मिणी॥
+> ताव् इमौ एकधैवौक्तौ भेद्य-भेदक-भावतः।
+> पृथक्त्वेन च शास्त्रेषु जगद्-हेतुतयोदितौ॥"
 
-लक्ष्मीनारायणोभयनिष्ठैकशेषित्वावगमेन 
+इत्याभ्यां भगवद्-अहन्ता-रूपतया तत्-शक्ति-रूपायाः श्रियः सर्व-आधारत्व-सर्व-व्यापकत्व-सर्व-नियन्तृत्व-निरतिशय-दीप्त्यादिमत्त्व-परमात्मत्व-जगत्-कारणत्वादि-धर्म-योगित्वाभिधानात् विशेष्यत्व-स्वरूप-निरूपक-विशेषणत्वाभ्यां "यतो वा इमानि भूतानि जायन्ते", "सदेव सोम्येदमग्र आसीत्", "आत्मा वा इदमेक एवाग्र आसीत्", "ब्रह्मविदाप्नोति परम्", "[[तरह|तं ह]] देवम् आत्म-बुद्धि-प्रसादं मुमुक्षुर् वै [[P151]] शरणम् अहं प्रपद्ये" इत्य्-आदि-वेदान्त-गणेषु, "तद्-अन्तर्भावात् त्वां न पृथग् अभिधत्ते श्रुतिर् अपि" इत्य्-उक्त-रीत्या सत्त्व-ब्रह्मत्व-आत्मत्व-देवत्वाद्य्-अनेक-प्रकारेण "एको ह वै नारायण आसीत्", "अहम् एव वात इव प्रवाम्य् आरभमाणा भुवनानि विश्वा", "तम् एव विद्वान् अमृत इह भवति", "श्रियं वसाना अमृतत्वम् आयन्" इत्य्-आदिषु पृथक्त्वेन च लक्ष्मी-नारायणौ जगद्-हेतुतया तद्-उपलक्ष्-इत-मोक्ष-प्रदत्वादि-मत्तयोदितौ इत्य् एतयोर् जगत्-कारणत्वादिकम् अलौकिक-प्रमाण-सिद्धम् इत्य्-अभिधायानेनैव 
 
-तथाविधसर्वशरीरत्वप्रतीत्या तादृशमेव स्वाधीनत्रिविधचेतनाचेतन- स्वरूपस्थितिप्रवृत्तिभेदत्वमवगम्यत इति तदन्तर्गतकारणत्वमपि तादृगेव सिद्ध्यति, ततश्च स्वरूपनिरूपकत्वनिबन्धनस्वरूपानुवन्धित्वेनैक्यासम्भवात् न कारणत्वादेस्साक्षाल्लक्ष्म्यामन्वय इत्येतत् तावदनुपपन्नम्। तथाहि, अनेन हि लक्ष्मीर्जगत्कारणं न भवति ईश्वरैक्याभावात् सम्मतवदित्युक्तं भवति, तत्र कारणत्वाभावः पर्याप्तवृत्त्या व्यासज्यवृत्त्या वा । नाद्यः, सिद्धसाधनात् । न द्वितीयः, सूक्ष्मचिदचितोः व्यासज्यवृत्त्योपादानकारणत्वाङ्गीकारेण व्यभिचारात, पूर्वोक्त- श्रुतिस्मृत्यादिभिर्लक्ष्म्यां व्यासज्यवृत्तिकारणत्वावगमेन किमैश्वर्यावच्छिन्ननिरूपितैक्याभावः ?   
-बाधापत्तेश्च ।   
-हेतुरपि 
+> "न हि शक्त्या विना कश्चिच् छक्तिमान् अस्ति कारणम्।
+> न च शक्तिमता शक्तिर् विना काप्य् अवतिष्ठते॥"
 
-68   
-लक्ष्म्युपायत्वदीपः 
+इति सामान्याकारेण लोक-सिद्धम् अप्य् अभिधानाच् च, भगवत इव लक्ष्म्या अपि उपायत्व-अनङ्गीकारे ज्ञान-चिकीर्षादि-रूप-व्यापार-द्वारा चैतद्-वचनानाम् एव दृष्ट-उपयोग-सम्भवात्, गुणादि-समान-न्यायत्वम् अप्रत्यूहम्। इयांस् तु बाधक-भावाच् च, लक्ष्म्यास् सङ्कल्पाश्रयत्वेनोपयोगः, गुणादीनां तद्-अयोग्यत्वात् स्वरूपेणैवेति।
 
-उतैश्वर्याधिकरणभगवत्स्वरूपमात्रनिरूपितै- क्याभावो विवक्षितः । न प्रथमः, असिद्धेः, “अस्येशाना जगतो विष्णुपत्नी”, “ईश्वरी सर्वभूतानां तामिहोपह्वये श्रियम्", "लक्ष्म्या समस्तं चिदचित्स्वरूपं व्याप्तं तदीशस्य तु सापि सर्वम् । तथापि साधारणमीशितृत्वं श्री श्रीशयोद्व च सदैकशेषी॥ इत्यादिभिरखिलनिरूपितैश्वर्यस्यैकस्योभयवृत्तित्वावगमात् तदवच्छिन्नैक्य- स्यैव लक्ष्म्यां सत्वात्। न चरमः, सूक्ष्मचिदचितोः व्यभिचारात्। 
+---
 
-(ல.க) மேலும் "आग्नावैष्णवम् एकादशकपालम्” என்பன போன்றவிடத்தில் \[அக்னி\-ஸ்ரீவிஷ்ணு   
-என்ற தேவதாத்வந்த்வத்தை தேவதையாக உடையதும், பதினொரு மண் அகல்களில் ஸ்ரபணம் செய்து பங்கிட்டு வைத்ததுமான சருவைப்பயன்படுத்தி ஹோமம் செய்யக்கடவது – என்பது இந்த ச்ருதிக்குப் பொருள்.) தேவதாத்வந்த்வம் 
+க (ல.க) மேலும், மந்த்ரரத்னத்தில் ஜி4 என்றபோது மதுப் என்ற ப்ரத்யயத்தால் - லஷ்மீ விசிஷ்டனே உபாயம் என்று ஸ்பஷ்டமாக ஏறபடுகிறபடியால் - விசேஷணமாய் அமைந்த பிராட்டிக்கும் உபாயத்வம் உண்டானபடியால் அதை மறுப்பது நேரில்லை. இங்கு பூர்வகண்டத்தில் 414 என்ற ப்ரத்யயத்தை வ்யாபாரத்தைச் செய்பவள் என்றதைக் கூறவந்ததாகக் கொண்டால் - உத்தரகண்டத்தில் இதேபோல் மதுப்புக்கு பொருள் கொண்டால் - ப்ராப்யத்வம் பிராட்டிக்கு ஏற்படாது. "பூர்வகண்டத்தில் புருஷகார ஸம்பந்தம் காட்டப்பட்டபடியால் உத்தரகண்டத்தால் ப்ரயோஜனமில்லாதபடியால் மீண்டும் அதையே காட்டுவதில் ப்ரயோஜனமில்லாதபடியால் ப்ராப்யத்வம் உத்தர-கண்டத்துக்கும் பொருள் – என்று கொள்கிறோம்” என்பது அடியோடு தகாது. நீ கூறியதை மாற்றி "உத்தரகண்டத்தில் மதுப்புக்கு புருஷகார [[P152]] ஸம்பந்தஜ்ஞாபகத்வம், பூர்வகண்டத்தில் உபாயத்வ-ஜ்ஞாபகம்" என்று விபரீதமாக ஏன் பொருள் கொள்ளக்கூடாது? மதுப்பால் வரக்கூடிய 3: இரண்டிடத்திலும் துல்யமாயிருக்கிறதே?
 
-என்பது மீமாம்ஸகர்கள் ஒப்பியது. அதே போல் இங்கும் 
+இரண்டு கண்டங்களிலும் புருஷகாரத்வமே கூறியதாக ஆகட்டும், அல்லது இரண்டிடங்களிலும் இரண்டுமே வேண்டாமே - என்று கூறத்துணிந்தால் - முதல் கண்டத்தில் ப்ரயோஜனமில்லாதபடியால் ப்ராப்யத்வமில்லை, என்று ஏற்படுகிறபடியால் - உத்தரகண்டத்தில் ப்ராப்யத்வம் கூறியதாகும்.
 
-லக்ஷ்மீ\-நாராயணர்கள் 
+என் புசின்ற போது பகவானால் ஸ்பஷ்டமாக ஒருவனையே சரண்யனாக முடியாது என்று அருளப்பட்டிருப்பதால் தன்னைத்தவிர ஒருவரும் காரணமாகப்பற்று என்று ஏற்படுகிறபடியால் வேறுகதியில்லாமல் பூர்வகண்டத்தில் கவு 4j4- என்று கொள்வோமெ - என்னில் பகவானின் ஸ்வரூபத்தைக் கூற வந்தவள் லக்ஷ்e . அதாவது - எவன் ஸ்ரீலஷ்மிக்குப் பதியோ அவனே பரம்பொருள் - என்று காட்ட வந்தது இது தத்துவதீபகாரரே தெரிவித்துள்ளார். இதை
 
-தேவதைகள். எதில்?   
-இருவரும்   
-இருவரும்   
-ஸமப்ரதானர்களான 
+> "अहन्ता ब्रह्मणस्तस्य साऽहमस्मि सनातनी।
+> अहन्तया विनाऽहं हि निरुपाख्यो न सिद्ध्यति॥"
 
-நம்முடைய ஸ்வாதுதமமான 
+என்கிற ப்ரமாணங்களால் பிராட்டியை அஹந்தா என்று காட்டப்பட்டபடியாலும், "சாக் 4h4" என்றபடியாலும், சாசிக் ≥R AG என்ற போது ஏக என்ற சப்தமிருந்தாலும், ப்ரமாணாந்தரங்களை அநுஸரித்து பிராட்டியும் உபாய கோடியில் சேர்ந்தவளே. 4 என்பதற்கு லஷ்மீவிசிஷ்டனான என் ஒருவனையே என்றபொருள். [[P153]]
 
-ஆத்மரூப ஹவிஸ்ஸை ஹோமம் செய்யும் போது. இதை \- 
+— "qj- qGa" என்று விதிவாக்யத்தில் – அந்த பசு ஒன்றே என்பது புளித்தால் எப்படி தானே கிடைக்கிறதோ அப்படியே இங்கும். இல்லை என்றால் "க் கi" என்ற மீமாம்ஸாந்யாயத்துக்கு விரோதம் வரும். ஆதலால் த்வயத்தின் பூர்வகண்டத்தில் லக்ஷ்மிக்கு உபாயமாகும் நிலை விடமுடியாதது.
 
-“हविर्गृहीत्वाऽऽत्मरूपं वसुरण्येति मन्त्रतः। 
+இப்படியானால் - என்று ப்ரமாணம் காட்டுகிற படியால் F என்ற போது GRH 34 : Wd: என்று வசனம் காட்டியபடியால் – T - என்ற சொல்லில் அடங்கிய ஜகத் எல்லாவற்றிற்கும் உபாயத்வம் கூடுமே என்ற கேள்விக்கு கீழேயே பதில் கூறியாயிற்று. 
 
-जुहुयात् प्रणवेनाग्नौ अच्युताख्ये सनातने॥ 
+> "जगदन्तर्व्यवस्थिताः।
+> प्राणिनः कर्मजनितसंसारवशवर्तिनः।
+> यतस्ततो न ते ध्याने ध्यानिनाम् उपकारकाः।
+> अविद्यान्तर्गताः सर्वे ते हि संसारगोचराः।
+> पश्चात् उद्भूतबोधाश्च ध्याने नैवोपकारकाः।
+> नैसर्गिको न वै बोधः तेषामप्यन्यतो यतः।
+> तस्मात् तदमलं ब्रह्म निसर्गादेव बोधवत्।
+> ध्येयं ध्यानविदां सम्यक् तद् विष्णोः परमं पदम्"
+> *(श्रीविष्णुधर्मम् १०४.२३-२६)*
 
-என்ற வசனம்   
-காட்டியது.   
-தைத்திரீயச்ருதியில் 
+என்று விரிவாக ப்ரம்ஹா முதல் – ஸ்தம்பம் என்ற சிறு பூச்சி வரையிலுமுள்ள ஸர்வசேதனர்களும் புண்ய-பாப ரூபமான கர்மத்துக்கு உட்பட்டவர்கள், ஆகையால் த்யானம் செய்ய யோகிகளுக்கு இவர்கள் உகந்தவர்களில்லை. ஏனெனில் - அத்வேஷ அரி-எங்கள் இவர்கள் அனைவருக்குமுண்டு. கர்மபந்தங்களிலிருந்து விடுபட்ட முக்தர்களும் த்யானம் பண்ணத்தகுந்தவரில்லை. ஏன் எனில் கர்மபந்தம் நீங்கியபடியால் ஜ்ஞானவிகாஸம் பெற்றவர்கள் அவர்கள். நித்யர்களும் த்யானத்துக்கு உரியவரில்லை. பகவததீனமான ஜ்ஞானத்தை என்றும் அவர்கள் பெற்றிருந்தாலும் ஸர்வவ்யாப்தனாக பகவானை த்யானம் செய்யவேண்டிய உபாஸனங்களில் அணுஸ்வரூபரான இவர்களுக்கு [[P154]] உபயோகம் இல்லையே. ஸர்வஸ்வதந்த்ரனானவனும், எந்தவிதமான குற்றம் குறைகள் அற்றவனுமான ஸ்ரீவிஷ்ணுவே த்யானிக்கத்தக்கவர்) என்று இந்த வசனங்களில் காட்டியதை உற்று கவனித்தால் இது ஏற்படும். இங்கு எடுத்த இந்த சுலோகங்கள் யாவும் ஸ்தோத்ரபாஷ்யத்தில் (சு.15) ஆசார்யர் எடுத்து விளக்கியவைகள்.
 
-ந்யாஸவித்யையை ஸ்பஷ்டமாகவே வேள்வியாகக்காட்டி, 
+இதனால் "agdit" என்று தொடங்கி பூர்வபக்ஷிகள் விளக்கியதும் சேராது. நிரதிசயமான பரமபுருஷார்த்தமே ஜீவர்களால் ப்ரார்த்திக்கப்பட வேண்டியது - அதேபோல் - நிரதிசயமான உபாயமே வரிக்கத்தக்கது. இப்படிக் காட்டியபடியால் “अस्मदनभिमतत्वादेव पूर्वखण्डे पु" என்று கேட்டுக்கொண்டு தங்களுக்குத் தோன்றியபடி ஏதேதோ கூறியதுயாவும் தள்ளப்பட்டன.
 
-lipங்களையும் விளக்கியதைக் காண்க. 
+மேலும், பாதகம் ஏதுமில்லாவிடினும் உபாயத்துக்கு விசேஷணமாய் அமைந்தது என்ற ஸ்வாரஸ்யத்தைக் கொண்டு பிராட்டிக்கு உபாயத்வமில்லை என்று கொண்டால் - எம்பெருமானின் கல்யாணகுணங்கள், श्रीमन्नारायणचरणौ என்று காட்டப்பட்ட திருமேனி இவைகளுக்கும் உபாயத்வமில்லை - என்றாகிவிடும்.
 
-மேலும் "லக்ஷ்மீக்கு ஜகத்காரணத்வம் கூடாது" என்றது annald என்ற காரணத்தாலா? அப்படியானால் காரணத்வம் இங்கு qi \=முழுவதுமாக   
-என்றா? व्यासज्यवृत्त्या वा ? \= ஒருசில போது என்றா? பர்யாப்தவ்ருத்தி என்பது கூடாது. அதை நாங்களும் கூறுகிறோமே. 
+கேள்வி: ஜ்ஞானம், சக்தி முதலான கல்யாணகுணங்களை எம்பெருमानுக்கு ஒப்பவில்லை என்றால் - எம்பெருமான் மோக்ஷம் அருள்வர் - என்பதே ஸித்தியாது. நமக்கு உள்ள உபாயவிரோதியான பாபங்களை நீக்கி, விரும்பிய மோக்ஷத்தை அருள்வது என்பதெல்லாம் ஜ்ஞான-சக்தியாதிகளாலேயே ஸாத்யம். பிராட்டி விஷயம் இத்தகையது அன்று. பிராட்டியை உபாயமாகக் கொள்ளாவிடில் எந்த பாதகமுமில்லையே ஆகவே பிராட்டி உபாயமில்லை - என்று. [[P155]]
 
-69   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+விடை:
 
-மாயிற்றே அது. வ்யாஸஜ்ஜ்யவ்ருதத்யா – என்பதும் கூடாது. ஸூக்ஷ்ம சித்\-அசித் என்பவைகளுக்கும் உபாதானகாரணத்வம்   
-வ்யாஸஜ்ஜ்யவ்ருத்த்யா 
+> "भावाभावमयी तस्य शक्तिरेकानपायिनी।
+> तद्धर्मधर्मिणी दिव्या ज्योत्स्नेव हिमदीधितेः ॥”
 
-இசைந்துள்ளோமே. கீழே காட்டிய ப்ரமாணங்களைக் 
+என்கிற கீழே எடுத்து நிரூபணம் பண்ணின ப்ரமாணவசனத்தில் எம்பெருமானின் சக்தி என்பதே பிராட்டி - என்று ஸ்பஷ்டமாகக் காட்டப்பட்டது. மேலும், "ஷாள் ஏ: சா ரிகரிசி" என்றும் தெரிவிக்கப்பட்டது.
 
-கொண்டு   
-பார்க்கும்போது   
-லக்ஷ்மிக்கும் 
+மேலும்,
 
-வ்யாஸஜ்ஜ்யவ்ருத்த்யா காரணத்வம் உண்டு \- என ஏற்படுகிறபடியால்   
-ச்ருதி\-ஸ்ம்ருத்யாதிகளுக்கு 
+> "नैव शक्त्या विना कश्चित् शक्तिमान् अस्ति कारणम् ।
+> न च शक्तिमता शक्तिर्विना काऽप्यवतिष्ठते ॥'
 
-விரோதமாய் நாம் கூறக்கூடாது. நீங்கள் காட்டிய காரணமும் பொருந்தாது. பிராட்டிக்கு உள்ள ஐச்வர்யம் 37\<\[874 \= அதாவது எம்பெருமானுக்கு உள்ள ஐச்வர்யத்தை விட குறைவுபட்டது \- என்பது பொருந்தாதே. 
+என்றும் காட்டப்பட்டது. இவைகளை நன்கு ஆராய்ந்தால் பிராட்டிக்கு உபாதான காரணத்வம் நன்கு தெரியவரும். "ज्योत्स्नेव हिमदीधितेः" குளிர்ந்த கிரணங்களை உடைய சந்த்ரனுக்கு நிலவைப்போன்று - லக்ஷ்மி எம்பெருமானை விட்டுப் பிரிந்து இருக்கமாட்டாள் - என்று காட்டப்பட்டது. இப்படி லக்ஷ்மிக்கு ஜகத்காரணத்வம் - மோக்ஷப்ரதத்வம் - முதலான பகவத்தர்மதர்மிணீத்வம் தெரிந்தபடியால் இருட்டைப் போக்குவது மனம் முதலானவைகளை குளிரவைப்பது முதலான சந்த்ரகதங்களான தர்மங்களைப் போன்று தார்ஷ்டாந்திகத்திலும் பூர்வபக்ஷிகள் கூற்று - நேரில்லை.
 
-1   
-ரி4கப்புப் 24, கச என்பன போன்ற   
-ப்ரமாணங்களால்   
-ஐச்வர்யம் 
+> "योऽसौ नारायणो देवः परमात्मा सनातनः ।
+> अहम्भावात्मिका शक्तिस्तस्य तद्धर्मधर्मिणी ॥
+> ताविमौ एकधेवाक्तौ भेद्य-भेदकभावतः ।
+> पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ ॥"
 
-திவ்யதம்பதிகளிருவரிடமும் இருப்பதைக் காட்டினோமே. 
+என்று கீழே எடுத்த வசனத்தில் ஸ்பஷ்டமாக காட்டியபடியால் பகவானின் அஹம்பாவம் என்கிற शक्तியானவளே பிராட்டி. அவள் எம்பெருமானுக்கு என்ன என்ன தர்மங்கள் உண்டோ அவ்வளவையும் இவளும் கொண்டவள், இவர்களை இவர்கள் செய்யும் செயலைக்கொண்டு ஒருவராகவும், [[P156]] தனித்தும் விசேஷண-விசேஷ்யபாவத்தைக் கொண்டு சாஸ்த்ரங்களில் இந்த ஜகத்துக்கு காரணமானவர்களாகச் சொல்லப்பட்டது - என்று ஸ்பஷ்டமாக ப்ரமாணம் காட்டப்பட்டது.
 
-(எ.ச.)   
-यदपि   
-पत्नीत्वप्रयुक्तपारतन्त्र्यस्वाभाव्येन पत्न्यन्तरादिवच्चेतनसमानाकारत्वादित्युक्तम्, तदपि न शोभते । अत्र हि जीवत्वानीश्वरत्वादिचेतनसमानाकारा, पारतन्त्र्यस्वभावत्वात्, भूम्यादिवदिति प्रयोगो निष्पद्यते । स चानुपपन्नः " यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो विधत्तेऽखिल”मित्याद्युक्तरीत्या लक्ष्मीपारतन्त्र्यवति अर्जुनसारथ्यादिना प्रसिद्धाश्रितपारतन्त्र्यवति भगवति हेतोरनैकान्त्यात् । अणुचेतनत्वादिना सोपाधिकत्वाच्च । न च तस्य साधनव्यापकत्वात् नोपाधित्वं, पक्षेऽप्यणुचेतनत्वसत्वादिति वाच्यम्, “अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत विश्वैर्देवैः । अहं जनाय समदं कृणोम्यहं द्यावापृथिवी आविवेश”, “या सा भगवती शक्तिः (पाठभेदः भगवतश्शक्ति) अनन्ता सर्वभावगा । स्वातन्त्र्यरूपा सा विष्णोः प्रस्फुरत्ता जगन्मयी", "यथा सर्वगतो विष्णुस्तथैवेयं द्विजोत्तम", " त्वया च विष्णुना चाम्ब व्याप्तमेतत् चराचरम्” (q: "கு   
-"यथा मयापि सा व्याप्ता तया   
-184"), 
+எம்பெருமானின் தர்மங்களாவன தனது ஸர்வாதாரமாயிருப்பது, எங்கும் எதிலும் எப்போதும் பரவி இருப்பது. எல்லா சேதனாசேதனங்களையும் கட்டுப்பாட்டில் வைத்திருப்பது, இவருக்கு நிகர் யாருமில்லாதபடி நிரதிசயமான ஒளிபொருந்தியிருப்பது, பரமாத்மாவாக இருப்பது, இவ்வுலகனைத்துக்கும் காரணமாய் அமைவது இவையாவும் பிராட்டிக்கும் உண்டு. இது முதலானவைகள்.
 
-70   
-लक्ष्म्युपायत्वदीपः 
+"ह वै ா" என்று ஜகத்காரணம் நாராயணன் ஒருவனே என்றதைப்போல் - 384q and s4 Yq-if- fவு என்று உள்ளது. காற்று எங்கும் பரவி விரவி வருவதைப்போல் நான் (பிராட்டி) எல்லா உலகையும் ஸ்ருஷ்டிக்கத் தொடங்கி வீசிவருகிறேன் என்றதைக் காண்க. 4 fai-4 35 அந்த பரமாத்மாவை புருஷஸூக்தாதிகளில் தெரிவித்தபடியே எவன் நன்கு அறிந்து உபாஸனமோ - சரணாகதியையோ செய்கிறானோ அவன் இதே ஜன்மத்தின் முடிவில் மோக்ஷமடைகிறான் என்று பகவானைப் பற்றியது. அதேபோல் "श्रियं वसाना अमृतत्वमायन्" பெரியபிராட்டியை எங்கும் வஸிப்பவள் என்பதை எவர்கள் உள்ளபடி அறிந்து உபாயம் அநுஷ்டிக்கிறார்களோ- அவர்கள் மோக்ஷம் அடைகிறார்கள் என்று உள்ளது. பிராட்டிக்கு உபாயத்வம் ஒப்பவில்லையாகில் - இதைப்போன்ற பல வசனங்களுக்கு விரோதம் வரும். भगवान् எப்படி ஜ்ஞான-சிகீர்ஷா-ப்ரயத்னாதிகளைக் கொண்டு ஒரு செயலைச்செய்து முடிக்கிறாரோ - அப்படியே பிராட்டியும் என்பது கீழே [[P157]] காட்டப்பட்டது.
 
-व्याप्तोऽहमीश्वरः । अहं नारायणी नाम सा सत्ता वैष्णवी परा, देशात् 
+லஷ்மியானவள் பரமசேதனனானபடியால் ஸங்கல்பாச்ரயமாய் நின்று உபாயமாகிறாள் - எம்பெருமானின் கல்யாணகுணங்களும், திருமேனி முதலானவைகளும் அசேதனமானபடியால் ஸங்கல்பாச்ரயமில்லை. இவ்வளவே வேற்றுமை.
 
-कालात्तथा   
-रूपात् परिच्छेदो न 
+---
 
-इत्यादिप्रमाणसहस्रसिद्धत्वाल्लक्ष्मीविभुत्वस्योक्तोपाधेः   
-मे स्मृतः” 
+(ल. उ. दी) यद् अपि "चरणौ इति विशेषोक्तिबलाद् एव" इत्य्-आरभ्य, "लक्ष्मीपरत्वे नियामकानुपलब्धेः" इत्य्-अन्तेनाभिहितम् - तद् अपि श्रीमद् इति विशेषोक्ति-वैयर्थ्यस्य शुभाश्रयत्वेनैव स्वरूप-निरूपकत्वेन विद्यालम्बनत्वस्य "लक्ष्मीं च माम्" इत्य्-उभयोक्तेश्च लक्ष्म्य्-उपायत्व-प्रतिपादक-प्रमाणान्तर-अनुगुणस्य च समत्वाद् विग्रह-वैलक्षण्य-उपपादना-सम्भवात् निरस्तम्। 
 
-साधनाव्यापकत्वस्य 
+एक-शब्दस्य व्यवच्छेद-परत्वे ऽपि लक्ष्मी-विशिष्ट-अतिरिक्त-शरण्यत्व-व्यवच्छेद-परत्वस्योक्तत्वात्, गवादि-शब्दानां स्वरूप-निरूपक-धर्मभूत-गोत्वादि-विशिष्ट-परत्व इव भगवत्-स्वरूप-वाचि-शब्दानाम् अपि तथाभूत-लक्ष्मी-विशिष्ट-परत्व एव स्वारस्यात्, "लक्ष्मीं च मां सुरेशेश", "माम् एकं च श्रिया युक्तम्" इत्य्-आदि-प्रमाण-सहस्र-सत्त्वात्, अहम् माम् इत्य्-आदेर् अपि स्वरूप-निरूपक-अहन्ता-विशिष्ट-परत्वस्य न्याय्यत्वात् स्वरूप-मात्र-पर्यवसायित्वस्यौत्सर्गिकत्वा-सिद्धेश्च, 'अहं मनुर् अभवं सूर्यश्च' इत्य्-अत्रापि अपृथक्-सिद्ध-विशेषण-वाचिनां विशेष्य-पर्यन्तत्व-व्युत्पत्ति-बलाद् एव जीव-विशिष्ट-परमात्म-परत्वस्य भाष्यादाव् उक्तत्वाद् बाधक-मात्र-प्रयुक्तत्वा-सिद्धेश्च विशिष्ट-परत्वाभावे विशिष्ट-उपायत्व-पर-अनेक-प्रमाण-विरोध-रूप-बाधक-सत्त्वाच् च। 
 
-वज्रलेपायितत्वात्। " श्रद्धया देवो देवत्वमश्नुते" इति श्रुतौ च देवशब्दस्य लक्ष्मीविशिष्टवाचकतया "क्षरं प्रधानममृताक्षरं हरः क्षरात्मानावीशते देव एक" इति श्रुत्या “अस्येशाने”त्यादिप्रमाणैश्च लक्ष्म्या अप्यैश्वर्यावगमेनानीश्वरत्वघटितसाध्यस्य वाधाच्च । न चैतद्दोषपरिजिहीर्षया पारतन्त्र्यपदं निरुपाधिकस्वातन्त्र्याभावपरमिति वाच्यम्, “निरुपाधिस्वतन्त्रश्च स्वामी नः करुणानिधि” रितिवत्, “निरुपाधिस्वतन्त्रा च स्वामिनी नः कृपानिधिः”, “स्वातन्त्र्यरूपा सा विष्णोः” इत्यादिभिश्श्रियोऽपि निरुपाधिकस्वातन्त्र्यावगमेन हेतोरसिद्धत्वात् । 
+"ननु एक-शब्दस्यानेकार्थ-सम्भवेन" इत्य्-आरभ्य "न चात्र बाधकम् उपलभ्यते" इत्य्-अन्त-शङ्का-समाधान-पर-ग्रन्थो निरस्तः।
 
-\-   
-(ல.க) கேள்வி: உலகில் மனைவி என்பவள் கணவனுக்கு அடங்கியிருப்பவள் \- என்பதை அறிவோம். கணவனைவிட சற்றே ஸ்வாதந்த்ர்யம் குறைந்தவள் என இத்தால் puGw. शुक पत्न्याः पारतन्त्र्यस्वभावेन \- Gurm சேதனனாகவே இவள் இருக்கலாமே \- என்பது அடியோடு பொருந்ததாது. 
+---
 
-\-   
-\-   
-பதில்: ஜீவனைப்போன்று ஈச்வரனில்லாமலிருப்பது \- பரதந்த்ரையாயிருப்பது \- இவை பிராட்டியிடம் உண்டு \- òrmòrmir\_2\_1कना urgi. अा mifiwww. यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो विधत्तेऽखिलम् என்ற கூடஸ்த்தர்களான மஹான்கள் அருளியதை கவனிக்காமல் வந்த பேச்சு இது. அர்ஜுனனுக்கு வேலையாளாய் வந்து தேரும் ஊர்ந்து தூதும் போனான் பகவான். அங்கு தன் விருப்பப்படியே அப்படியானானே ஒழிய \- நம்மைப்போல் கர்மங்களுக்கு 2Lu6 √√, 3 प्रेम\-वाल्लभ्यादिना Limitq.कं कमी 
+(ல.க) பூர்வபக்ஷி "चरणौ इति विशेषोक्तिबलादेव" தொடங்கடி, "लक्ष्मीपरत्वे नियामकानुपलब्धेः" ஈறாக ஏதேதோ ஸம்பந்தமில்லாமல் கூறினார். அதவ்வளவும் श्रीमत् [[P158]] என்று காட்டியதால். விசேஷோக்தி வ்யர்த்தமாகிவிடும் என்று ஸித்தாந்தம் - மங்களங்களுக்கு இருப்பிடமான பகவானின் திருமேனி - பிராட்டியுடன் கூடியிருந்தாலே - நம் ஸம்ப்ரதாயத்தில் ஒப்பியபடியால் பகவத்ஸ்வரூபநிரூபக அனைவரும்...
 
-71   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+[^150_1]: श्रीविष्णुधर्मे १०४.२३-२६
 
-நேரம் Rனாகிறான் பகவான். அதைக்கொண்டு \- இந்த திவ்யதம்பதிகளில் இன்னார் உயர்ந்தவர்   
-\-   
-இன்னார் தாழ்ந்தவர் என்று நாம் முடிவுக்கு வர முடியாது. 94Üங்கள் 
 
-காட்டியபடி   
-என்பதே நேராகும். 
+லக்ஷ்மிஸம்பந்தம் என்பது ஸம்பந்தம் என்பது ஸித்தாந்தமானபடியாலும், "uj [:1 புஜிக4 அகலின்சி" [இதை கீழே விளக்கியாயிற்று) ஸ்பஷ்டமாக அலைதாடி என்று உபாயமாக இருவரையும் ப்ரமாணங்கள் காட்டுவதாலும் விக்ரஹத்தைவிட லஷ்மிக்கு வைலக்ஷண்யம் காட்ட முடியாது. hH என்ற சொல் - லக்ஷ்மியைத் தவிர்ந்து வேறு ஒருவரும் எம்பெருமானைத் தவிர உபாயம் இல்லை என்பதைக் காட்டவே வந்தது. : என்ற சொல் - எப்படி கொம்பு-வால்-நான்குகால்கள் முதலானவைகளுடன் கூடிய ஒரு ஜந்துவைச் சொல்லுமோ அப்படியே NH என்ற சொல்லும் பிராட்டியை கூறும். 
 
-ஜீவன் பரதந்த்ரன் என்பது முக்ததசையிலும் உண்டு. அதனாலே ஸூத்ரகாரர் "3 {q \= 3\-ரிபுரி:" என்றார். அத்வைதிகள் கூறுவதைப்போல் முக்ததசையில் ஜீவன் ப்ரஹ்மத்துடன் ஐக்யமாகிவிடுவதாகில் அரிபுரி: என்பதே போதும். 3- என்ன வேண்டாம்\! ஆகவே முக்த தசையிலும் இவனுக்கு அதிபதியாக பகவான் தனித்தே எழுந்தருளியிருக்கிறார்   
-என்றே ஸூத்ரகாரரின் திருவுள்ளம். மேலும் பிராட்டி விஷயமான ச்ருதிகளைக் காணீர்:   
-\- 
+> "मामेकं च श्रिया युक्तं भक्ति-युक्तो नरोत्तमः।
+> द्वयेन मन्त्र-रत्नेन मत्-प्रियेण सदा भजेत्॥"
 
-“अहं रुद्रेभिर्वसुभिश्चरामि अहम् आदित्यैरुत विश्वैर्देवैः । 
+என்ற வசனங்கள் பூர்வபக்ஷிக்கு ஒட்டாதவை. अतम् पुरूवु सूर्यश्च अपृथक्-सिद्ध-विशेषण-वाचिनां विशेष्य-पर्यन्तत्वम् என்று ஸ்ரீபாஷ்யாதிகளில் முடிவு செய்ததற்கு – நாங்கள் கூறியபடி பொருள் கொண்டதே தகும்.
 
-अहं जनाय समदं कृणोमि अहं द्यावापृथिवी आविवेश ॥ " 
+இப்படி நிரூபணம் செய்தபடியால் "73 க-க" என்று தொடங்கி, "" என்பதுவரையில் பூர்வபக்ஷி தெரிவித்ததும் பொருத்தமில்லாத வாதம். [[P159]]
 
-\[எட்டு வஸுக்கள்,   
-வஸுக்கள், பதினோரு ருத்ரர்கள், பனிரண்டு ஆதித்யர்கள் எல்லா தேவர்களிலுமாக இவர்களுள் புகுந்து நானே வளைய வருகிறேன். மக்களுக்கு நானே ஸந்தோஷத்தை உண்டு பண்ணுகிறேன், நானே மேல் உலகங்கள்\-கீழிலிருக்கும் உலகங்கள் எல்லாவற்றையும்   
-\- 
+---
 
-உட்புகுந்து இயக்குகிறேன் \- என்று இந்த ச்ருதிக்குப் பொருள். இத்தால் லக்ஷ்மீதேவி விபுவானவள் ஏற்படுகிறதே\!\]   
-\-   
-என்பது 
+### **लक्ष्म्युपायत्वदीपः**
 
-"या सा भगवती शक्तिः अनन्ता सर्व भावगा । (भगवतः शक्तिः- पाठभेदः) 
+(ल.उ.दी) यच् च "किञ्च" इत्य्-आदिना अपृथक्-सिद्ध-विशेषण-वाचिनां विशेष्य-पर्यन्तत्वस्य वेदान्त-व्युत्पत्ति-सिद्धत्वे ऽपि सर्व-विशेष्य-भूत-भगवद्-स्वरूप-वाचिनां विशेषण-भूत-लक्ष्मी-परत्वं नोपपद्यत इत्य्-उक्तम्। तच् च "अहन्ता ब्रह्मणस् तस्य साहम् अस्मि सनातनी" इत्य्-आदि-प्रमाण-अनुसारेणाहन्ता-रूप-लक्ष्मी-परत्वस्य 'अहम्', 'माम्' इत्य्-आदौ भगवद्-स्वरूप-परे ऽपि "नागृहीत-विशेषणा" न्याय-सिद्धत्वात्, शब्दस्य निर्विशेष-प्रमाण-भावं पराकुर्वद्भिस् सत्य-ज्ञानादि-शब्दानां सत्यत्वादि-विशिष्ट-परत्वं वदद्भिश् च भाष्यकारैस् सूचितत्वाच् च निरस्तम्। 
 
-स्वातन्त्र्यरूपा सा विष्णोः प्रस्फुरत्ता जगन्मयी ॥'   
-" 
+न च लक्ष्म्या भगवद्-अहम्-प्रतीतौ विषयत्वं वदता स्वरूप-ज्ञान-विषयत्वोक्तौ स्वरूपैक्यापत्तिः स्वरूपस्य स्व-मात्र-विषयकत्वात्, भगवद्-स्वरूप-रूप-ज्ञान-गम्य-स्वरूप-ज्ञान-विषयत्वस्य धर्म-भूत-ज्ञान-मात्र-विषयत्वोक्तौ, भगवद्-अहन्ता-रूपत्वायोगाद् इति वाच्यम्। स्वरूप-अतिरिक्त-अहन्तायां व्यभिचारितया तद्-ऐक्यापादकत्व-असम्भवात्, स्वरूपस्य स्व-मात्र-विषयकत्वा-सिद्धेश्च। 
 
-\[எம்பெருமானின் யாதொரு சக்தி எனப்பட்ட 
+न चाहन्ताया अहम्-स्वरूपत्वं सुवचम्, 'माम् एकम्' इति सामानाधिकरण्य-भङ्ग-प्रसङ्गात्, "भिन्न-प्रवृत्ति-निमित्तानां शब्दानाम् एकस्मिन् अर्थे वृत्तिस् सामानाधिकरण्यम्" इति ह्य् उक्तम्। अन्यथा अखण्डार्थवादी विजयी स्यात्। अतो न वचनानां लक्ष्म्या अहन्ता-रूप-पराणाम् अन्यथाकरणं युक्तम्। न चैवं स्वरूपस्य सर्व-विषयकत्व-प्रसङ्गः, स्व-स्व-अहन्ता-व्यतिरिक्त-विषयत्व-अभाव-नियतत्वात्। स्वरूप-ज्ञानस्य [[P160]]
 
-பெரியபிராட்டி உண்டோ   
-\-   
-அவள் எங்கும் எல்லாப் 
+---
 
-பொருள்களிலும் பரவினவள். ஸ்வாதந்த்ர்யம் உள்ளவள். 
+(0.5) कना: Gugri, अपृथक्-सिद्ध-विशेषण-वाचिनां विशेष्य-पर्यन्तत्वम् என்பது வேதாந்திகள் ஒப்பினார்கள் ஆயினும் எல்லாவற்றிற்கும் விசேஷ்யமாய் இருக்கும் பகவத்ஸ்வரூபவாசிகளான சொற்கள் लक्ष्मी முதலானவர்களையும் சொல்லும் - என்பது பொருந்தாது - Tml.
 
-72 लक्ष्म्युपायत्वदीपः 
+இதற்கு பதில் வருமாறு "3áவு Hri"என்பன போன்ற ப்ரமாணங்களைக் கொண்டு अहन्ता என்பது லஷ்மியே - என்று முடிவானபோது अहम्, माम् என்ற சொற்கள் - "नागृहीत-विशेषणा" என்ற ந்யாயப்படி - நிர்விசேஷ ப்्रमஹத்தைக் கூறவல்லதில்லை - என்று ஸ்ரீபாஷ்யகாரர் ஸ்ரீபாஷ்யத்தில் நிர்த்தாரணம் செய்தபடியால் - இது தகாது.
 
-இவள் ஸ்ரீவிஷ்ணு ஒருவரால் மட்டுமே அறியக்கூடியவள், உலகம் முழுவதிலும் வ்யாபித்தவள்-\] 
+பகவானின் अहम् என்கிற ஜ்ஞானத்தில் லக்ஷ்மிதேவிக்கு விஷயத்வம் = இலக்காக இருப்பது உண்டு என்று ஸித்தாந்திகள் கூறுவது உண்மையாயின் லக்ஷ்மிஸ்வரூபமும் நாராயண ஸ்வரூபமும் ஒன்றாகிவிடுமே? ஒரேதத்துவம் போன்று விளங்கி வருகிறார்கள் - என்று உள்ளதே தவிர ஸ்வரூபைக்யம் நாம் ஒப்பவில்லையே - என்று கேள்வி எழ - இதற்கு பதில் வருமாறு:-
 
-"यथा सर्वगतो विष्णुः तथैवेयं द्विजोत्तम” 
+अहन्ता என்பது - பகவத்ஸ்வரூபத்தைவிட வேறான अहन्ता என்பதைக் கூறும். அது பரஸ்பரம் ஐக்யத்தைக் காட்டாது. अहन्ताயே अहम् ஸ்வரூபம் - என்று கூறமுடியாது. माम् एकम् என்று ஸாமாநாதிகரண்யத்துக்கு இடையூறு வருமே. "भिन्न-प्रवृत्ति-निमित्तानां शब्दानाम् एकस्मिन् अर्थे वृत्तिस् सामानाधिकरण्यम्" ஸாமாநாதிகரண்யத்துக்கு இது சேராதே. பூர்வபக்ஷி अखण्डार्थवादी என்னப்பட்ட அத்வைதியே வெல்வான். ஆகவே லஷ்மிக்கு "பகவானின் அஹந்தை இவள்” என்பதைக் காட்டும் வசனங்களுக்கு இப்படி கோணல்மாணலாக விளக்கம் தருவது கூடாது. ஸ்வரூபஜ்ஞானமாவது स्व-स्व-अहन्ता-व्यतिरिक्त-विषयत्व-अभाव-नियतम् ஆயிற்றே. [[P161]]
 
-\[ஸ்ரீவிஷ்ணுபுராணம்:   
-அந்தணர்களின் சிறந்தவரான மைத்ரேயரே\! எம்பெருமான் எப்பொருளிலும் எப்போதும் எங்கும் எப்படி வ்யாபித்திருக்கிறாரோ \- அதே போன்றவள் பிராட்டியும்\] 
+---
 
-" \! Add (Ganz) \~4|I" \[ஸ்ரீவிஷ்ணுபுராணம்: உலகினர் யாவருக்கும் தாயான ஸ்ரீதேவியே\! உன்னாலும் ஸ்ரீவிஷ்ணுவாலும் இந்த அசையக்கூடியதும்   
-அசையாததுமான   
-உலகம் 
+> स्वारस्यं सर्व-शब्दानां निरूपक-समन्विते।
+> बाधकं चेत् क्वचित् तस्य परित्यागो न सर्वतः॥ १॥
 
-வ்யாபிக்கப்பட்டது \- இது பிராட்டியைக் குறித்து இந்த்ரன் விண்ணப்பித்த வாக்யம்.\] 
+> अतश्च चरम-श्लोके 'माम्' 'अहम्' - पदयोर् अपि।
+> विशिष्ट-परता-सिद्ध-बाध-अभाव-उपपादनात्॥ २॥
 
-"यथा मयाऽपि सा व्याप्ता तथा व्याप्तोऽहम् ईश्वरः । 
+> साधकानां समावेशाद् युक्तं तत्-कल्पनं बुधैः।
+> अनन्य-परता-शालि-प्रमाण-शत-सम्मतम्॥ ३॥
 
-अहं नारायणी नाम सा सत्ता वैष्णवी परा । 
+> उपायत्वादिकं लक्ष्म्या बाध-अभावेन सुस्थितम्।
+> न शक्यते ऽन्यथा कर्तुं नेष्यते च बुधोत्तमैः॥ ४॥
 
-देशात् कालात् तथा रूपात् परिच्छेदो न मे स्मृतः ॥ ' 
+(ல.க) இது இங்கு ஸங்க்ரஹமாகக் காட்டப்படுகிறது :-
 
-\[ஸர்வேச்வரனான   
-பரவி   
-நான் எப்படி எங்கும் வ்யாபித்திருக்கிறேனோ \- அப்படி அந்த பெரிய பிராட்டியும் என்ற பெயரில் வ்யாபித்திருக்கிறாள். இந்த தேசத்தில் \- இந்த காலத்தில், இந்த உருவில் தான் இருப்பேன் – என்ற புரி அளவிட்டுக் கூறும் நிலை எனக்கில்லை- இது பகவான் கூறியது.)   
-\- 
+[எல்லா சொற்களுக்கும் அததை நிரூபணம் செய்ய முற்பட்டவைகளுடன் கூடிய அமைப்பில் ஸ்வாரஸ்யம் தடைபடுமேயாகில் சில ஒரு இடங்களில் அதை விட்டுவிடுவதும் உண்டு. எல்லா இடத்திலும் இப்படி இல்லை.]
 
-வைகளைப் போன்ற பல்லாயிரம் ப்ரமாணங்கள் 
+[ஆகவே சரமசுலோகத்தில் 'माम्', 'अहम्' என்ற இரு சொற்களுக்கும் பெரியபிராட்டியுடன் கூடிய பரமாத்மாவைத் தெரிவிப்பதில் எந்த விதமான பாதகமும் இல்லை – என்று இத்தனைபோதாய் காட்டியபடியாலும், பிராட்டியையும் சேர்த்து அநுஸந்திப்பதில் ஸாதகமான ப்ரமாணங்களைக் காட்டியபடியாலும், பிராட்டிக்கும் [[P162]] உபாயகோடியில் தொடர்பு உண்டு - என்பதாக வித்வான்கள் காட்டியது மிகவும் பொருத்தமானதே.]
 
-லக்ஷ்மியை விபுவாகத் தெரிவிக்கின்றன. 
+[வேறுவகையில் நிர்வாஹம் பண்ணமுடியாத நூற்றுக்கணக்கான ப்ரமாணங்களால் ஒத்துக்கொள்ளப்பட்டதும், தடையேதுமில்லாத படியால் நன்கு நிலைநாட்டப்பட்டதுமான பெரியபிராட்டியாரின் மோக்ஷாபாயத்வம், ஜகத்காரணத்வம், அந்தர்யாமினீத்வம் முதலானவைகளை வேறுவிதமாக இல்லை என்று சொல்லமுடியாது. அதை பண்டிதர்களும் ஒப்பமாட்டார்கள்.]
 
-அ\_gd' என்கிற வாக்யம் லக்ஷ்மீயுடன் 
+---
 
-கூடினவனையே தேவனாகக்காட்டும். 
+(ल.उ.दी) यच् चोक्तं "श्रियं लोके देवजुष्टाम् उदाराम्" इत्य्-अत्र "तत्-तत्-अधिकारि-विशेषं प्रति" इत्य्-आदिना "अप्रतिषेध-मात्रम् औदार्यम् इत्य्-अपेक्षया दापयितृत्वम् औदार्यम् इत्य् एतद् वरम्" इत्य्-अन्तेन; तच् च 'उदाराम्' इति पद-श्रुतेर् अनवच्छिन्न-विषयायाः सङ्कोचे मानाभावात्, 
 
-क्षरात्मानौ   
-re :, 
+> "सर्व-काम-प्रदां रम्यां संसार-अर्णव-तारिणीम्।
+> क्षिप्र-प्रसादिनीं लक्ष्मीं शरण्याम् अनुचिन्तयेत्॥"
 
-க: என்ற வாக்யம்   
-மூலப்ரக்ருதி- 
+इत्य्-आदि-स्वायम्भुवादि-वचनैर् असङ्कुचित-विषयतयोपबृंहितत्वात्, 
 
-73   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> "ऐश्वर्यम् अक्षर-गतिं परमं पदं वा कस्मैचिद् अञ्जलि-भरं वहते वितीर्य।
+> अस्मै न किञ्चिद् उचितं कृतम् इत्य् अथाम्ब त्वं लज्जसे कथय को ऽयम् उदार-भावः॥"
 
-ஜீவர்களைக் கூறி \- இவ்விரண்டையும் \= எளங்களுக்கு எவன் தலைவனோ \- அவன் பிராட்டியுடன் கூடிய தேவனே எனக்காட்டியது. என்பன போன்றவைகளால் லக்ஷ்மிக்கும் ஸர்வவிதமான ஐஸ்வர்யமும் உண்டு \- என ஏற்படுகிறது \- ஆகவே பூர்வபக்ஷிகள் கூறியது தகாது. 
+इत्य् अभियुक्तैस् तथैव व्याख्यातत्वाच् च, 
 
-तु   
-கேள்வி: பிராட்டிக்கு இருக்கும் ஸ்வாதந்த்ர்யம் நிருபாதிகமில்லை. கங் என்ற போது \- மனைவியான பிறகு அவளுக்கும் கணவனின் எல்லா பொருட்களிலும் தலைவியாக வரும் நிலை உண்டு என்பதைப் போன்று இங்கு 44\-புரிக4 என்னலாமே? எனக் கூற முடியாது. 
+> "श्रेयो न ह्य् अरविन्द-लोचन-मनः-कान्ता-प्रसादाद् ऋते
+> संसृत्य्-अक्षर-वैष्णवाध्वसु नृणां सम्भाव्यते कर्हिचित्"
 
-பதில்:   
-2 : கரிபு: என்று 
+इति यामुनाचार्यैर् व्यतिरेक-मुखेन सर्व-विषयत्वस्य स्थिरीकृतत्वाच् च, उदार-शब्दस्य 'वितीर्य' इत्य्-अनेन दातृत्व-परतयैव व्याख्यानात्, दापयितृ-परत्वे नाना-शक्ति-कल्पना-गौरवात्, दाता न दापयति, दापयिता न दत्त इति दातृत्व-दापयितृत्वयोर् अनियतत्वेन दातृत्ता-रूप-औदार्य-अभावे ऽपि दापयितृत्व-सम्भवात् लुब्धे दापयितृत्व-अभावस्य लोभ-अतिशय-व्यापकतयाप्य् उपपत्तेश् च अनेक-स्वामिकस्य दाने तेषां परस्परं सम्मति-रूप-अनुमन्तृत्वे ऽपि दातृत्व-अनपायवत् सर्व-स्वामिन्याः साक्षात्-परम्परा-साधारण-दातृत्वार्थक-उदार-शब्देन लक्षणा-दापयितृत्व-क्रोडीकारे ऽपि बाधक-अभावात् लक्ष्म्या अपि दातृत्व-अनपायात्, परम्परा-दातृता-तद्-उभयस्य असङ्कोचेन लक्ष्म्याम् अङ्गीकारे साधक-उपन्यासाच् च। 
 
-பகவானைக் காட்டியதைப் போன்று   
-\- 
+उदार-शब्दस्य अप्रतिषेध-रूप-अनुमन्तृत्वार्थकत्व-अनङ्गीकारात्, "मोक्षयिष्यामि" इतिवत् "भवेयं शरणं हि वः" इति लक्ष्म्या अपि रक्षण-सङ्कल्प-रूप-व्यापार-आश्रयत्व-प्रतीतेश् च निरस्तम्। [[P163]]
 
-7: ரிரிபு: என்று பிராட்டியையும் ப்ரமாணம் காட்டியதே. இப்படியே स्वातन्त्र्यरूपा सा வுயர்: \[ஸ்ரீவிஷ்ணுவின் ஸ்வாதந்த்ர்யம் என்பதே பிராட்டி என்ற உருவில் வந்தது\] என்பன போன்றவைகளையும் காண்க.   
-\- 
+---
 
-(ल.उ.दी) कारणत्वादेरीश्वरैकासाधारण्याच्चेत्यनुपपन्नम्, किमत्र कारणत्वं लक्ष्मीवृत्ति न भवति ईश्वरमात्रवृत्तित्वाल्लक्ष्मीपतित्ववदिति विवक्षितम्, उत लक्ष्मीः न जगत्कारणम् ईश्वरभिन्नत्वात् सम्मतवदिति विवक्षितम् । नाद्यः, पर्याप्तवृत्तित्वाभावस्य साध्यत्वे सिद्धसाधनम्, व्यासज्यवृत्तित्वाभावस्य तत्त्वे बाध इति प्रथमानुमानोक्तदोषानपायात् । ईश्वरमात्रवृत्तित्वादिति हेतौ ईश्वरेतरावृत्तित्वमेव qi, तद्वृत्तित्वांशस्य व्यर्थत्वात, तच्चैश्वर्यावच्छिन्नेतरावृत्तित्वं चेत्\-लक्ष्म्या अप्यैश्वर्यावच्छिन्नतया भगवद्वृत्तित्वाभावमिव तद्वृत्तित्वाभावमपि न 
+(60.5) "श्रियं लोके देवजुष्टामुदाराम्" என்ற சொல் அந்தந்த அதிகாரிகள் விஷயத்தில் எம்பெருமான் கொடுக்கத் திருவுள்ளம் பட்டபோது தான் தடுப்பதில்லை अप्रतिषेधमात्रम् औदार्यम् என்பதைவிட, दापयितृत्वम् கொடுக்கவைப்பது என்பதே கருத்து என்று பூர்வபக்ஷிகளின் கூற்று. 
 
-भगवत्स्वरूपमात्रेतरावृत्तित्वं चेदसिद्धिस्स्यात, कारणत्वस्य 
+உदाराम् - தடையேதுமில்லாத சொல்லை இப்படி ஸங்கோசப்படுத்திப் பொருள் கொள்வதில் ப்ரமாணமில்லை.
 
-74   
-लक्ष्म्युपायत्वदीपः 
+> "सर्वकामप्रदां रम्यां संसारार्णवतारिणीम्।
+> क्षिप्रप्रसादिनीं लक्ष्मीं शरण्यामनुचिन्तयेत्॥"
 
-भगवत्स्वरूपेतरलक्ष्मीनिष्ठत्वस्य प्रागेव साधितत्वात् । प्रथमानुमानादविशेषेण तत्रोक्तदोषाणामनपायात् ।   
-न द्वितीयः, 
+என்ற ஸ்வாயம்புவ வசனத்தில் - [பிராட்டியார் எதை விரும்பினாலும் அதை அருள்பவள், ஸம்ஸாரமாகிற கடலை தாண்டவைத்து மோக்ஷம் அருள்பவள், எம்பெருமானையும் விட விரைவாக நமக்கு ப்ரஸாதமாய் ஸேவையாவாள், நாம் சரணாகதி செய்ய உகந்தவள் - இத்தகைய ஸ்ரீலக்ஷ்மியை [[P164]] எப்போதும் தியானித்து வரவும்] ஸர்வபலங்களையும் இவள் அருள்பவள் என்பது ஸ்பஷ்டமாகிறதே. 
 
-स्वरूपमित्यनेन   
-यच्च तदनुमोदन तत्प्रीतिकरत्वमस्याः लक्ष्मीर्भगवत्कार्यजगत्कारणं न भवति तदनुमोदेन तत्प्रीतिकरत्वात् अनुमोदकवदित्यनुमानमुक्तम्, तद् यजमानकर्तृककर्मणि कर्तृभूतायां तत्पत्न्यां हेतोरनैकान्त्यान्निरस्तम्, “भावाभावानुगा शक्तिस्सर्वकार्यकरी विभोः” इत्यादिभिर्भगवत्सम्बन्धिसर्वकार्यकारणत्वस्य लक्ष्म्यां सिद्धत्वाद् बाधितविषयं चेदमनुमानम्। एवम् रक्षकत्वशेषित्वाद्यभावसाधनेऽपि उक्तदूषणान्येव प्रसरन्ति । 
+இதையே, "ऐश्वर्यमक्षरगतिं परमं पदं वा कस्मैचिदञ्जलिभरं वहते वितीर्य । अस्मै न किञ्चिदुचितं कृतमित्यथाम्ब त्वं लज्जसे कथय कोऽयमुदारभावः॥" என்று ஸ்ரீபராசரபட்டர் ஸ்ரீகுணரத்னகோசத்தில் (சு.58) இந்த उदाराम् என்பதை விரிவாக விளக்கியுள்ளதைக் காணவும். ஸ்ரீமத் ஆளவந்தாரும் "श्रेयो न ह्यरविन्दलोचनमनःकान्ताप्रसादादृते..." என்று இதையே = ஸகலபலங்களையும் பிராட்டி தாமாகவே அருள்பவள் என்பதை அருளினார். 
 
-(ல.க)   
-ஜகத்காரணத்வம்   
-முதலானவை 
+இங்கு பட்டர் वितीर्य = அருளினார் என்று உரையிட்டதை கவனிப்பது. दापयति என்று பொருள் கொண்டால் தோஷம் ஏற்படும். கொடுப்பவன் கொடுக்கச் செய்வதில்லை. கொடுக்கச்செய்பவன் தான் நேராகக் கொடுப்பதில்லை என்பதை உலகில் கண்டோம். கருமி எதையும் எப்போதும் ஒருவருக்கும் கொடுப்பதில்லை. ஒரு பொருளுக்கு அனேகர் ஸ்வாமிகளாயிருக்குமிடத்தில் - கொடுப்பது ஒருவராயினும் ஒருவருக்கொருவர் ஸம்மதி என்ற ஒப்புதல் இருக்கிறபடியால் दातृत्वम् எல்லோருக்கும் வருகிறது. "विश्वस्य भर्त्री जगतः प्रतिष्ठा" என்பன போன்ற ப்ரமாணங்கள் பிராட்டியையும் எல்லா ஸொத்துக்கும் உடையவளாகக் காட்டியபடியால் - साक्षात् दात्री ஆகவும், दापयित्री ஆகவும் இவளுக்கு ஸர்வஸம்பத்ப்ரதாத்ரீத்வம் தகும். "मोक्षयिष्यामि" என்று எம்பெருமான் அருளியதைப் போன்று, பிராட்டியும் "भवेयं शरणं हि वः" என்று அருளியபடியால் ஸ்பஷ்டமாகத் தெரிகிறதே! [[P165]]
 
-\-   
-எம்பெருமானொருவனுக்கே அஸாதாரணமான லக்ஷணம் \- என்பதும் தகாது. லஷ்மிக்குக் கணவனாய் இருப்பது எப்படி பகவான் ஒருவருக்கு மட்டிலும் சேரும் லக்ஷணமோ அப்படி இதுவும் \- என்று கூறினால் அது தப்பு. qftgfttiGHTq: : \= பலபேரிடமிருக்க முடியாதது \- என்பதை ஸாதிக்க முற்பட்டால் அது நாங்களும் ஒப்பியதே. ஆகவே ஸித்தஸாதனம். व्यासज्यवृत्तित्वाभावसाधने\= இருவரிடமும் சேர்ந்தே இருப்பது \- என்பதைக் கூற முற்பட்டால் ईश्वरमात्रवृत्तित्वात् என்ற ஹேதுவில் Éனைத் தவிர்ந்தவர்களிடம் இல்லை \- என்பது சொல்ல வேண்டும். ஈஸ்வர ஸ்வரூபத்தைவிட வேறான பிராட்டி ஸ்வரூபத்திலும் ஜகத்காரணத்வம் உண்டு என்று ஸாதித்தாயிற்றே. எம்பெருமான் செய்தருளும் ஜகத்வ்யாபாராதிகள் பிராட்டி 3{j\=iq\-4\= செய்யலாம் என்று ஒப்புவது செய்கிறார் \- இதுவே லஷ்மியின் ஸ்வரூபம் கொண்டு, கரி: ;   
-1   
-ஒன்றையே என்று   
-\- 
+---
 
-எரி என்று ஒரு அநுமானத்தை பூர்வபக்ஷிகள்   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+(ल.उ.दी) वस्तुतस् तु केवल-दातरि दापयितृ-पद-प्रयोगाभावात्, केवलं दापयितरि दातृ-पद-प्रयोगाभावाच् च परम्परा-दातृत्वं दापयितृत्वाद् अन्यद् एव। तद् धि देय-द्रव्य-स्वामित्वे सति स्वाधीन-दातृताक-प्रेरकत्वम्। यथा सर्वेश्वरस्याग्नीन्द्रादिद्वारा सांसारिक-फल-दातृत्वम्, दापयितृत्वं दातृ-प्रेरक-मात्रम्। तच् च राज-प्रेरके राज-अन्तरङ्गे दृष्टम्। तत्र दातृ-शब्द-प्रयोगाभावान् नोदार-शब्देन तद्-अभिधान-सम्भवः। परम्परया दातरि दापयितृ-शब्द-प्रयोगस् तु दातृ-प्रेरकत्व-सत्त्व-मात्रेण, न तु तस्यैव दापयितृत्व-रूपत्वेन। तथा सति तथाभूते राज-अन्तरङ्गे दापयितृ-प्रयोगो न स्यात्। तस्माद् उदार-शब्दस्य दातृ-वाचित्वम् एव, न दापयितृ-वाचित्वम् इति निरवद्यम्। 
 
-சொன்னார்கள். வேள்வி செய்யும் யஜமானன் செய்யும் செயல்களின் ஸாக்ஷாத்கர்த்தாவாகவே இருக்கும் யஜ்ஞபத்னீ விஷயத்தில் \= ஸரிவர பொருந்தி 
+अत एव "कामवत्सा ऽमृतं दुहाना" इत्य्-आरभ्य "अनेक-अर्थ-प्रतीत्य्-अपेक्षायाम् अतिगौरवम्" इत्य्-अन्तं निरस्तम्। उक्त-रीत्या लक्ष्म्या अपि मोक्षादि-प्रदान-कर्तृत्व-सिद्धेः, प्रमाण-सम्प्रतिपत्ति-सत्त्वेन तद्-असम्प्रतिपत्तेर् अप्रयोजकत्वात् "कामवत्सा ऽमृतं दुहाना" इति रूपक-अभेद-अध्यवसायाभ्यां लक्ष्म्या धेनुत्वेन रूपणाद् धेन्वाः वत्स-साधनक-क्षीर-कर्मक-दोहन-कर्तृत्ववत्, सङ्कल्प-प्रभृति-कल्याण-गुण-साधन-मोक्ष-कर्मक-दान-कर्तृत्वस्यैव स्वरसतः प्रतीतेश् च दुहाना दधात्व् इत्य्-अत्र प्रकृत्योर् दान-लक्षकत्वस्यैवोचितत्वात् दातृ-प्रेरणाख्य-पुरुषकरण-व्यापार-लक्षणाया अनेक-पदार्थ-सापेक्षतया अतिगौरवेणानुचितत्वाच् च। उदार-पद-श्रुत्या [[P166]]
 
-வராதபடியால் மறுக்கக்கூடியதே. Hqங்கள் f: என்பன போன்ற ப்ரமாணங்கள் பிராட்டியை எம்பெருமானைப் போன்று எல்லாச் செயல்களையும் செய்பவளாகவே தெரிவிக்கின்றன. ய்கள் என்ற போது ताच्छील्ये इनि प्रत्ययः. ஸர்வவிதமான செயல்களையும் உடனிருந்து செய்வதையே ஸ்வபாவமாக உடையவள் என்றன்றோ இதனால் தேறுகிறது. இந்த इनि प्रत्यय in "க்கு எeாகரிg" (3-2-134) என்ற அதிகாரத்தில் விதிக்கப்பட்டது. நம் பூர்வாசார்யர்கள் Hdqர்கள். அவர்கள் திருவாக்குகளை மறுக்க முற்பட்டால் \- புவுமே ஏற்படும். இதே   
-सर्वरक्षकत्वसर्वशेषित्वाभावसाधन 
+---
 
-பண்ணினாலும் எடுபடாது.   
-போல்   
-\-   
-\- 
+(0.5) दातृत्वम् = கொடுப்பது வேறு. பிறரைக் கொண்டு தன்பொருளைக் கொடுப்பது दापयितृत्वम्.
 
-(ल. उ.दी) यदपि लक्ष्म्या अपि शेषित्वाद्भगवत एव सर्वाधिकशेषित्वमिति श्रुतिरेवाहेति, “यः पूर्व्याये" त्यादिश्रुत्युपन्यसनं कृतं तदपि न रमणीयम्, सर्वाधिकशेषित्वमित्यनेन सर्वाधिकत्वे सति शेषित्वमिति विवक्षितं चेत् तस्यां श्रुतौ तद्वाचकपदाभावादसाङ्गत्यापत्तेः । न च "पूर्व्याय वेधसे नवीयसे विष्णवे" इति पदैः कारणत्वनित्यनूतनत्वव्यापकत्वैस्सर्वाधिक्यं प्रतीयत इति वाच्यम्, तेषां लक्ष्मीसाधारण्येन तदायत्ताधिक्यस्य तस्यामपि सत्त्वात, भगवत एवेत्यवधारणानुपपत्तेः । पदलभ्यलक्ष्मीपतित्वप्रयुक्तसर्वाधिक्यं प्रतीयत इति नानुपपत्तिरिति चेत् तर्हि भगवत्पत्नीत्वप्रयुक्तसर्वाधिकस्य   
-लक्ष्मीवृत्तितया प्रतीतेरसाधारण्यानुपपत्तिरेव । न च भगवत्पत्नीत्वस्य भूम्यादिसाधारण्यान्न सर्वाधिक्यप्रयोजकत्वमिति वाच्यम्, “पत्युर्नो यज्ञसंयोगे" इत्यनुशासनात् 
+दापयिता = दातृ-प्रेरक-मात्रम्. दातृ-देय-द्रव्य-स्वामित्वे सति स्वाधीन-दातृताक-प्रेरकत्वम् என்பது கொடுப்படும் பொருளுக்கு தான் ஸ்வாமியாயிருப்பதுடன், யார் கொடுக்கிறாரோ அவரை தனக்கு அதீனராக ஆக்கி - தன்சொல்படி கேட்கவைத்து கொடுக்கவைப்பது என்பதுவே தாபயித்ருத்வம். ஸர்வேச்वरன் – அக்னி இந்த்ராதிகளைக் கொண்டு அந்தந்த யாகத்தின் பலனை அருளும் போது இதை உணரலாம். கார்யஸ்தரைக் கொண்டு அரசன் ஒருவருக்கு வெகுமதிப் பொருட்களைக் கொடுப்பதிலும் கொடுப்பது ராஜாந்தரங்கனாயினும் ராஜாவையே தாதாவாகக் கொள்வது இதைக் கொண்டே. ராஜாந்தரங்கரை उदारः என்று ஒருவரும் சொல்வதில்லை. ஆகவே उदारः என்ற சொல் दातृவையே சொல்லும், दापयितृவைக் கூறாது. ஆகவே ச்ருதிக்கு பிராட்டியை காட்டுவதிலேயே நோக்கம். 
 
-76   
-इति 
+"कामवत्साऽमृतं दुहाना" என்ற ச்ருதியிலும் - லக்ஷ்மியை கறவைப் பசுவைப் போன்று ரூபணம் பண்ணி தாய்பசு எப்படி வத்ஸம் = கன்றுகுட்டி பிழைக்க பாலைப்பொழிகிறதோ அப்படி பிராட்டி தான் ஸங்கல்பம் கொண்டு - ஜீவர்களுக்கு கல்யாணகுணங்களை அருளி அதற்குப் பலமான மோக்ஷம் அருளுவது வரையிலும் அருள்கிறாள் என்பதே ஸ்வரஸமாய் ஏற்படுகிறது. दुहाना, दधातु என்ற திஙந்தத்தில் ப்ரக்रुதியான दुह्, धा என்ற இரண்டும் தானத்தைக் காட்டுகின்றன என்பதே தகுந்த பொருளாகும். "தாதாவான பகவானை தூண்டி விடுகிறாள்" என்று பொருள் கொள்வது अतिगौरवम् ஆகாணமாகும், தகாது. [[P167]]
 
-"अभयं   
-सर्वभूतेभ्यो   
-लक्ष्म्युपायत्वदीपः 
+(ल.उ.दी) नन्वेवस्य वाक्यस्य लक्ष्मीमात्रपरत्वे असाधारणचिह्नदर्शनाद्भूमिपरत्वं वा किं न स्यात्, प्रत्युत "विश्वस्य भर्त्री जगतः प्रतिष्ठा" इति विश्वम्भरत्वादेः...
 
-ददाम्येतद्व्रतं   
-मम" 
 
-एव   
-इत्युक्तशरणागतरक्षणसप्ततन्तुदीक्षाशालिन्या लक्ष्म्या 
+प्रत्यभिज्ञानात् पृथिव्य्-अभिमानि-देवतायाः भूम्या एव प्रतिपादनं युक्तम् इत्य्-उक्तम् इति चेन् न, "ईशाना देवी भुवनस्य अधिपत्नी" इत्य्-उत्तर-वाक्ये सर्व-नियन्तृत्व-भगवन्-महिषीत्व-भुवन-आधिपत्य-लिङ्गैर् लक्ष्मी-परत्व-निश्चय-सम्भवात्। न चैषां लक्ष्म्याम् असम्भव इतर-पत्नी-साधारण्यं वा शक्य-शङ्कम्, "तम् ईश्वराणां परमं महेश्वरम्", "सर्वेश्वरेश्वरः कृष्णः" इत्य्-आदिभिर् भगवत इव "ईश्वरीं सर्व-भूतानां ताम् इहोपह्वये श्रियम्", "सर्व-ऐश्वर्य-गुण-उपेता नित्यं तद्-धर्म-धर्मिणी", "तथापि श्री-श्रीशयोर् द्वौ [[द्वै|द्वौ]] च सदैकशेषी", "पुंस्-प्रधान-ईश्वर-ईश्वरी", "ऐश्वर्य-शील-आद्य्-अनवधिक-अतिशय-असंख्येय-कल्याण-गुण-गणाम्", "शेष-शेषाशन-आदि-सर्वं परिजनं भगवतस् तत्-तत्-अवस्था-उचित-परिचर्यायाम् आज्ञापयन्त्या", "भगवति ब्रूमः कथं त्वां वयम्", "यस्यास् ते महिमानम् आत्मन इव त्वद्-वल्लभो ऽपि प्रभुर् नालं मातुम् इयत्तया निरवधिं नित्य-अनुकूलं स्वतः", "देवि त्वन्-महिमावधिर् न हरिणा नापि त्वया ज्ञायते", "स्वाभिमत-स्वानुरूप-स्वरूप-रूप-गुण-विभव-ऐश्वर्य-शील-आद्य्-अनवधिक-महिम-महिषी" इत्य्-आदिभिर् लक्ष्म्या अप्य् अनवधिक-अतिशय-ऐश्वर्यस्य अवगमात्। 
 
-मुख्यपत्नीत्वादन्यासां च "याभिस्त्वं स्तनबाहुदृष्टिभिरिव स्वाभिः प्रियं श्लाघसे” इति तदधीनभोगमात्रार्थगौणपत्नीत्वात्, सर्वाधिकलक्ष्म्यपेक्षया 
+न चैवं "न तत्-समश् चाभ्यधिकश् च दृश्यते" इति ईश्वरस्य निस्सम-अभ्यधिकत्वं भज्येत इति वाच्यम्, "ह्रीश् च ते लक्ष्मीश् च पत्न्यौ", "अप्रमेयं हि तत् तेजो यस्य सा जनकात्मजा" इति श्रुति-तद्-उपबृंहणाभ्याम् अनवधिक-अतिशय-महिम-युक्त-लक्ष्मी-पत्नीकत्व-निबन्धनम् अस्य निस्सम-अभ्यधिक-महिमत्वम् इति स्थापनात् तद्-विरोध-अनवकाशात्। 
 
-न   
-तत्सर्वशरण्यत्वोपयुक्तस्वामित्व- 
+एतच् चाचार्यैर् गद्य-त्रय-भाष्ये ऽभिहितम् -
 
-सर्वाधिकं 
+> "यथा प्रभा-गुण-उत्कर्षे भास्करो निस्समाधिकः।
+> श्रीमान् अपि तथैव स्यात् पतिः पत्नी-गुणोन्नता"
 
-शेषित्वाधिक्यस्यानेकनिरूप्यत्वप्रयुक्तत्वे   
-पर्यवसन्नदिव्यदम्पतिनिष्ठशेषित्वविरोधीति नानिष्टम् ।   
-शेषित्वमित्युक्तौ 
+इति। 
 
-शेषित्वमित्युक्तावपि 
+एतच् च न भूम्यादि-साधारणम्, तस्य तद्-गततया यामुनाचार्य-भाष्यकार-श्रीवत्साङ्कमिश्र-भट्टारक-प्रभृतिभिर् आचार्यैर् अनभिधानात्, प्रत्युत "अस्या मम च शेषं हि विभूतिर् उभयात्मिका", "द्वौ च सदैकशेषी", "उभयाधिष्ठानं चैकं शेषित्वम्" इत्य् उभय-अधिष्ठान-एक-शेषित्व-साम्राज्येन "सर्व-मङ्गल-दायिनी", [[P168]]
 
-उभयाधिष्ठानशेषित्वस्यैव तथात्वेन सुमज्जानिपदसमानाधिकरण- विष्णुपदोत्तरचतुर्थ्याऽवगमादवधारणानुपपत्तिः । न च लक्ष्मीप्रभृतिसर्व- शेषित्वमेव चतुर्थ्या प्रतीयतामिति वाच्यम्, सुमज्जानिपदेन लक्ष्मीनिरूपितशेषित्वस्य पृथगभिधानात् । तस्मान्निखिलजगत्कारणत्व- सर्वरक्षकत्व\-सर्वशेषित्वादिकं मूलमन्त्राद्युक्तम्, “निरुपाधिस्वतन्त्रा च स्वामिनी नः कृपानिधिः", "स्वातन्त्र्यरूपा सा विष्णोः" इत्यादिभिः निरङ्कुशस्वातन्त्र्यस्य "देवजुष्टामुदाराम्", "ज्ञानात्मकं परं रूपं ब्रह्मणो मम चोभयोः। शेषमैश्वर्यवीर्यादिज्ञानधर्मस्सनातनः । जगत्प्रकृतिभावो मे यस्सा शक्तिरितीर्यते । सृजन्त्या यच्छ्रमाभावो मम तद् बलमिष्यते ॥ अव्याहतिर्यदुद्यन्त्यास्तथैश्वर्यं परं मम । विकारविरहो वीर्यं प्रकृतित्वेऽपि मे सदा । सहकार्यनपेक्षा मे सर्वकार्यविधौ हि या । तेजष्षष्ठं गुणं प्राहुस्तमिमं तत्त्ववेदिनः । इति पञ्चगुणा एते ज्ञानस्य स्फूर्तयो मताः । तस्यानपायिनी शक्तिर्देवी तद्धर्मधर्मिणी । " "Cou Lormi   
-guror नीलग$ांकंgo" "अमलेषा परित्रातुं राक्षस्यो महतो भयात् “ "संसारार्णवतारिणीम्”, “आत्मविद्या च देवि त्वं विमुक्तिफलदायिनी ”, "यामालम्ब्य सुखेनेमं दुस्तरं त्रिगुणोदधिम् । निस्तरन्त्यचिरेणैव व्यक्तं ध्यानपरायणाः”, "जगत्समस्तं यदपाङ्गसंश्रयम्”, “श्रेयो न ह्यरविन्दलोचनमनःकान्ताप्रसादादृते संसृत्यक्षरवैष्णवाध्वसु नृणां सम्भाव्यते 
+### **लक्ष्म्युपायत्वदीपः**
 
-77   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> "तव स्पर्शाद् ईशं स्पृशति कमले मङ्गल-पदं
+> तवेदं नोपाधेर् उपनिपतितं श्रीर् असि यतः।
+> प्रसूनं पुष्यन्तीम् अपि परिमलर्द्धिं जिगदिषुः
+> न चैवंत्वाद् एव स्वदत इति कश्चित् कवयते"
 
-कर्हिचित्”,   
-"शेषशेषाशनादिसर्व 
+> "ऐश्वर्यं यद् अशेष-पुंसि यद् इदं सौन्दर्य-लावण्ययोः
+> रूपं यच् च हि मङ्गलं किमपि यल् लोके सद् इत्य् उच्यते।
+> तत् सर्वं त्वद्-अधीनम् एव यद् अतः श्रीर् इत्य् अभेदेन वा
+> यद्वा श्रीमद् इतीदृशेन वचसा देवि प्रथाम् अश्नुते॥"
 
-भगवतस्तत्तदवस्थोचितपरिचर्यायामाज्ञापयन्त्या”,   
-परिजनं 
+इत्य्-आद्य्-उक्त-भगवद्-आदि-सर्व-मङ्गल-प्रदायित्वादिभिश् च, विष्वक्सेनं प्रति भगवतोक्ते -
 
-"स्वस्ति 
+> "तथा लक्ष्म्याः प्रभावं च शृणु वक्ष्ये समासतः।
+> गुणतश् च स्वरूपेण व्याप्तिस् साधारणी मता॥
+> यथा मया जगद् व्याप्तं स्वरूपेण स्वभावतः।
+> तया व्याप्तम् इदं सर्वं नियन्त्री च तथेश्वरी॥
+> मया व्याप्ता यथा सापि तया व्याप्तो ऽहम् ईश्वरः।
+> मम तस्याश् च देवेश वैलक्षण्यम् इदं शृणु॥
+> मच्छेषभूता सर्वेषाम् ईश्वरी मम वल्लभा।
+> तस्याश् च जगतश् चाहम् ईश्वरः वेद-विश्रुतः॥
+> अस्या मम च शेषं हि विभूतिर् उभयात्मिका।
+> इति श्रुति-शिरस्-सिद्धं मच्छास्त्रेष्व् अपि मानद॥
+> तथा भूमिश् च नीला च शेषभूते मतो मम।
+> यथाऽऽत्मनां तु सर्वेषां ज्ञानतो व्याप्तिर् इष्यते॥
+> स्वरूपतस् तु न तयोर् ज्ञानतो व्याप्तिर् इष्यते॥" [[P169]]
 
-च   
-श्रीर्दिशतादशेषजगतां सर्गोपसर्गस्थितीः स्वर्गं दुर्गतिमापवर्गिकपदं सर्वं च कुर्वन् हरिः। यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो विधत्तेऽखिलं क्रीडेयं खलु नान्यथाऽस्य रसदा स्यादैकरस्यात् तया", "ऐश्वर्यमक्षरगतिं परमं पदं वा कस्मैचिदञ्जलिभरं वहते वितीर्य । अस्मै न किञ्चिदुचितं कृतमित्यथाम्ब त्वं लज्जसे कथय कोऽयमुदारभावः” इत्यादिश्रुतिस्मृतिसम्प्रदायानुरोधेन विरोधिनिवर्तकत्वादिघटितोपायत्वप्रभृति\-समस्तकल्याणगुणगणस्य लक्ष्मीसाधारण्यसिद्धेः। न च लक्ष्मीस्वातन्त्र्यस्य भगवता प्रतिहतिसम्भवेन निरङ्कुशत्वमसिद्धमिति वाच्यम्, तयोरैकरस्यातिशयेन स्वातन्त्र्यस्य परस्परानभिमतविषयत्वाभावेन   
-प्रतिहतेश्शङ्कितुमशक्यत्वात् । नारीणामुत्तमाया देव्या भगवत्पारार्थ्यस्वभावात् तदनुरूपं वात्सल्य- कारुण्यादिगुणजातमेव तदसाधारणमित्यप्यत एव परास्तम्, भगवतो वात्सल्यकारुण्याद्यभावे केवलस्वातन्त्र्ये च सति निष्करुणस्वातन्त्र्यस्य बाधकत्वेन समाश्रयणीयत्वं दूरोत्सारितं स्यात् । केवलकारुण्यादिमत्त्वे अस्वतन्त्रकारुण्यस्याकार्यकरत्वेन वैयर्थ्यं खेदावहत्वं च स्यात्। ऐकरस्यात् तत्कृपाकार्यविघातो नास्तीति न वैय्यर्थ्यादिकमिति चेत्, तर्हि प्रमाणसिद्धनिरङ्कुशस्वातन्त्र्याङ्गीकारे को विरोधः ? । पारतन्त्र्यस्वभावविरोध इति चेत्, स च किं स्वातन्त्र्यशून्यत्वे सति परतन्त्रस्वभावः, पारतन्त्र्यमात्रं वा। नाद्यः,   
-लक्ष्मीस्वातन्त्र्यस्य बहुप्रमाणसिद्धतया विशेषणासिद्धेः । न द्वितीयः, स्वातन्त्र्यपारतन्त्र्ययोर्विषयैक्य एव विरोधेन विषयभेदे विरोधाभावात् । यच्चैतद्दोषभिया उभयोरुभयान्वयेऽपि स्वरूपभेदसूचकत्वप्राचुर्येणैवं विभज्यत इत्यादिना ससंवादमुक्तम्, तदयुक्तं, पतिपारार्थ्यस्य लक्ष्म्यसाधारणत्वेन स्वरूपभेदसूचकत्वसम्भवेऽपि इतरेषां "मृदुर्दयालुर्मधुरस्स्थिरस्समः", "अहं   
-लक्ष्म्याश्च 
+इति भगवच्-शास्त्रे, 
 
-78   
-लक्ष्म्युपायत्वदीपः 
+> "देव-तिर्यङ्-मनुष्येषु पुंनामा भगवान् हरिः।
+> स्त्रीनाम्नी लक्ष्मीर् मैत्रेय नानयोर् विद्यते परम्॥"
 
-रुद्राय धनुरातनोमि ब्रह्मद्विषे शरवे हन्तवा उ”, “गन्धद्वारां दुराधर्षां नित्यपुष्टां करीषिणीम् । ईश्वरीश्सर्वभूतानां तामिहोपह्वये श्रियम्" इत्यादिभिरुभयसाधारण्यावगमेन   
-स्वरूपभेदसूचकत्वासम्भवात्, 
+इति श्रीविष्णुपुराणे, 
 
-संवादतयोक्तश्लोकस्य भगवत्यपरवशताशत्रुशमनस्थिरत्वादीन् पुंस्त्वे सति सुलभतया लोके दृष्टान् त्वयि च म्रदिमपतिपारार्थ्यकरुणाक्षमादीन् स्त्रीत्वे सति सुलभतया लोके दृष्टान् प्रकाशितान् कृत्वा स्थिरत्वादीन् विद्यमानानप्याच्छाद्य भोक्तुं स्वाश्रितैस्सहानन्दानुभवाय पुरुषकारत्वतदभावरूपभिदा 
+> "अनन्त-नामधेया च शक्ति-चक्रस्य नायिका"
 
-संवादितेत्यर्थपरतया प्रमाणसम्प्रदायोपपत्त्या उपायत्वोपयुक्त- 
+इति ब्रह्मपुराणे च, 
 
-गुणाभावपरत्वाभावान्न 
+> "भोग्या वाम् अपि नान्तरीयकतया पुष्पाङ्गरागैः समं
+> निर्वृत्त-प्रणयातिवाहन-विधौ नीताः परीवाहताम्।
+> देवि त्वाम् अनु नीलया सह मही देव्यस् सहस्रं तथा
+> याभिस् त्वं स्तन-बाहु-दृष्टिभिर् इव स्वाभिः प्रियं श्लाघसे"
 
-पञ्चायुधादेर्भगवदसाधारण्येन   
-संवादत्वम्,   
-प्रतिभटनिरासपरिकर- विरोधिनिवर्तकत्वरूपोपायत्वस्यापि 
+इति श्रीगुणरत्नकोशे च, 
 
-तदसाधारण्यमित्यर्थे संवादतयोक्तस्य " सामान्यभोग्यमपि " इत्यादिश्लोकस्य "भोग्य" मित्युक्त्या कौस्तुभवैजयन्तीसमभिव्याहारेण च पञ्चायुधादेरपि प्रतिभटनिरासपरिकरत्वाकारेणाप्रतीतेः, लक्ष्म्यसाधारणभूषणानां 
+> "लक्ष्मीं प्रिय-सखीं देवीं नमाम्य् अच्युत-वल्लभाम्"
 
-भगवद्भोग्यत्ववत् कौस्तुभादेः भगवदसाधारण्येऽपि लक्ष्मीभोग्यत्वाविरोधेन स्वतस्सिद्धभगवदेकधार्यत्वस्य भारखेदपरिहरणेच्छाहेतुकत्वोत्प्रेक्षणपरत्वाच्च 
+इति सूक्ते च, "लक्ष्म्यास् स्वरूप-व्याप्त्या" इत्य्-आदिभिश् च भूम्याद्य्-आधिक्यस्य भूम्यादीनां लक्ष्म्य्-अन्तरत्व-तन्-नियाम्यत्व-तद्-विभूतित्वादेश् च प्रतीतेः, "अस्येशाना जगतो विष्णुपत्नी" इत्य्-आदि-भूम्यादि-पर-वाक्यानाम् अपि लक्ष्मी-विभूति-परतया "आपो वा इदं सर्वं विश्वा भूतान्य् आपः" इत्य्-आदीनां भगवद्-विभूति-परतया भगवत्-पर्यवसायित्ववत् लक्ष्मी-पर्यवसायित्व-अवश्यंभावात्, "अस्येशाना जगत इति ते ऽधीमहे यां समृद्धिम्" इति लक्ष्मी-परत्व-प्रतिपादनाच् च ऐश्वर्यस्य न भूम्यादि-साधारण्यम्। 
 
-उपायत्वे भगवदसाधारण्यप्रतिपादनपरत्वाभावान्न संवादत्वम् । प्रणतरक्षाविलम्बासहत्वस्य लक्ष्म्यामपि   
-सत्वेन   
-सदा 
+"देवी कृताभिषेकायाम् इतरासु तु भट्टिनी। कृताभिषेका महिषी भोगिन्यो ऽन्या नृप-स्त्रियः॥" इति निघण्ट्व्-अनुसारात् अत्रत्य-देवी-शब्दस्य राजाधिराज-भगवन्-महिषी-परतया तन्-महिषीत्वस्य च "प्रहर्षयन्तं महिषीं महाभुजम्", "देव-देव-दिव्य-महिषीम् अखिल-जगन्-मातरम्", "श्रीरङ्गराज-महिषीं श्रियम् आश्रयामः" इत्य्-आदिभिर् लक्ष्म्य्-असाधारणतया अवगमात् भूम्यादिषु देवी-शब्दस्य चौपचारिकत्वेन देव-सम्बन्धि-स्त्रीत्वेनोपपत्तेः। 
 
-पञ्चायुधधारणहेतुत्वासम्भवात् गायत्र्यादिरूपभेदेषु तस्या अपि तद्धारणस्य प्रमाणसिद्धत्वात्   
-भगवदसाधारणत्वमनुपपन्नं 
+"अस्या मम च शेषं हि विभूतिर् उभयात्मिका" इत्य्-आदिभिः प्राग्-उदाहृत-प्रमाणैर् लक्ष्म्यास् सर्व-शेषित्वावगमवत् भूम्यादेस् तद्-अनवगमाच् च, लक्ष्म्य्-असाधारणैस् सर्व-ईशानत्व-भगवन्-महिषीत्व-सर्व-शेषित्वैर् लिङ्गैः अस्य वाक्यस्य लक्ष्मी-परत्वम् "आकाशस् तल्-लिङ्गात्" इत्य्-अधिकरण-न्याय-सिद्धम् अनवद्यम्। 
 
-“स्वयमेवे”त्यवधारणस्यैतद्रूपाभिप्रायत्वात् न विरोधः ।   
-च, 
+अत एव "विश्वस्य भर्त्री" इति विश्व-आधारत्वस्य 'जगतः प्रतिष्ठा' इति जगल्-लय-स्थानत्वस्य च [[P170]]
 
-(60.5) कनाशी : "यः पूर्व्याय वेधसे नवीयसे सुमज्जानये विष्णवे ददाशति” என்கிற மந்த்ரம் ஸ்ரீவிஷ்ணுவே ஸர்வசேஷி \- குறிப்பாக ஸ்ரீலஷ்மிக்கும் அவரே சேஷீ \-என்று தெரிவிக்கிறது. ஆகவே எம்பெருமானேக என்பது ஸித்திக்கிறதே \- 
+### **लक्ष्म्युपायत्वदीपः**
 
-ml. 
+> "अहं मित्रावरुणौ आविभर्म्य् अहम् इन्द्राग्नी अहम् अश्विनौ उभौ।
+> अहं सोमम् आ ह सम्बिभर्म्य् अहं त्वष्टारम् उत पूषणं भगम्"
 
-79   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> "व्यापिनी विष्णुरूपेण सर्वभावानुगामिनी।
+> अशेषभुवनाधारा सङ्कल्पप्रविजृम्भिणी॥
+> प्रसुप्ताखिलकार्यं यत् सर्वतस् समताङ्गतम्।
+> नाराणामयनं ब्रह्म सर्वावासम् अनामयम्॥
+> पूर्णस्तिमितषाङ्गुण्यम् असमीराम्बरोपमम्।
+> तस्य स्तैमित्यरूपा या शक्तिश् शून्यत्वरूपिणी।
+> स्वातन्त्र्याद् एव कस्माच् चित् क्वचिद् उन्मेषम् ऋच्छति॥"
 
-பதில்:   
-என்று நீ சொன்ன 
+इत्य्-आदि-प्रमाण-पर्यालोचने लक्ष्म्य्-असाधारण्य-प्रतीतेः। 
 
-தாத்பர்யம் இந்த ச்ருதியிலிருந்து கிடைக்காது. அதற்கான 
+पृथिवी-विश्वम्भरा-शब्द-प्रयोगस्य शची-पत्यादिष्व् इन्द्रादि-प्रयोगवत् सङ्कुचित-विषयत्वेनौपचारिकत्वाच् च न पृथिव्य्-अभिमानि-देवता-रूप-भूमि-परत्व-शङ्का-अवकाशः। 
 
-சொற்கள்   
-இங்கில்லை. 
+"श्रद्धया देवो देवत्वम् अश्नुते" इत्य्-अत्र श्रद्धा-शब्दस्य लक्ष्मी-परत्वेन तत्त्वदीपिकाकारैर् एव व्याख्यानात्। 
 
-ஸர்வகாரணத்வத்தையும்,   
-पूर्व्याय 
+श्रीविष्णुपुराणे श्रीस्तुतौ च "त्वं सिद्धिस् त्वं स्वधा स्वाहा सुधा त्वं लोक-पावनी। सन्ध्या रात्रिः प्रभा भूतिर् माया श्रद्धा सरस्वती" इति सिद्ध्यादि-विभूतिमत्त्वेन लक्ष्म्यास् सिद्ध्यादि-शब्द-वाच्यत्वस्य पर्यवसान-प्रतीतेः। तेषां लक्ष्म्याम् अमुख्यत्वे ऽपि सिद्ध्यादीनां भूम्यादि-विभूतित्वे मानाभावेन लक्षणयापि लक्ष्मी-प्रतिपादकत्वस्यैवोचितत्वाच् च लक्ष्मी-परत्वम् अव्याहतम्।
 
-என்பது   
-என்பது 
+---
 
-எப்போதும் 
+(0.5) இந்த कामवत्सा अमृतं दुहाना என்பது प्रकरणस्य असाधारणचिह्न அடையாளம் காணப்படாதபடியால் பூமிதேவியைப் பற்றியதாகவே இது இருக்கட்டுமே எனில் - "विश्वस्य भर्त्री जगतः प्रतिष्ठा" என்று மேலே துக்கீலா. தேவதாரூபையாயிருந்து உலகினற்கு நிலையான இருப்பிடமாவதும் பூமியே विश्वम्भरः विश्वम्भरा என்ற சொல்லை விளக்கிக் காட்டி –
 
-புதியவரைப் போன்று ஸேவிக்க ஆஹ்லாதம் பண்ணுமவர் 
+> "वेधस्तृणावधि विहारपरिच्छदं ते विश्वं चराचरतया व्यतिभिद्यमानम् । [[P171]]
+> अम्ब! त्वदाश्रिततया परिपोषयन्ती विश्वम्भरस्य दयिताऽसि..."
 
-என்பதையும், fwā என்பது எங்கும் எப்போதும் உள்ளும் என்பதையும் காட்டும். ஆகவே   
-\- 
+என்று பூஸ்துதியில் (சு.5) ஸ்ரீநிகமாந்தமஹாதேசிகன் அருளியதைக் காண்க. "तमीश्वराणां परमं महेश्वरम्" என்று பகவானை ச்ருதி காட்டியது. அதே போல் "ईश्वरीं सर्वभूतानाम्" என்று பிராட்டியையும் காட்டியது. மேலும் "सर्वैश्वर्यगुणोपेता" என்று பிராட்டி துதிக்கப்படுகிறாள். पुंस् என்று ஜீவவர்கத்தையும், प्रधान என்று மூலப்ரக்ருதி - அதன் உள்பிரிவுகளையும் எடுத்து, ईश्वर என்ற எம்பெருமானையும் காட்டி, இவர்களுக்கும் தலைவி என்பதாக ईश्वरीम् என்று ச்வேதாச்வதராதிகள் காட்டின, प्रधानक्षेत्रज्ञपतिः - மூலப்ரக்ருதி என்ன (அதன் உட்பிரிவுகள் உட்பட), ஜீவர்கள் என்ன, இவர்களுக்குத் தலைவன் எம்பெருமான். மேலும், அவன் படைப்பவர் - ஸத்துவ-ரஜஸ்-தமஸ் என்ற முக்குணங்களையும் பத்தசேதன கர்மாநுரூபமாக ஆட்டிப் அல்லது - அநந்த கல்யாணகுணங்களுக்கு இவர் இருப்பிடம் என்று ஈ-அ-ன் என்ற தத்துவத்ரயத்தை இந்த வாக்யம் விளக்கிக் காட்டியது. அதே போல் ईश्वरीम् என்பதும்.
 
-\-   
-என்ன   
-புறமும் வ்யாபித்தவர் இத்தகையவர் விஷ்ணு ஒருவரே அன்றோ வேண்டாம். இங்கு காட்டப்பட்ட மூவகை தர்மங்களும் பிராட்டிக்கும் உண்டு \- என கீழே ச்ருதிகளைக் காட்டி விளக்கினோமே \- பகவான் ஒருவருக்கே இம்மூன்றும் என்று காட்டும் 3qquaமான கள் இங்கில்லையே\! 
+"अस्या मम च शेषं हि विभूतिर् उभयात्मिका" என்றபோது முதலில் अस्याः என்று பூமிப்பிராட்டியை எடுத்து விட்டு பிறகு मम என்றபடியால் अन्वाचयशिष्टः चकारः अप्राधान्यद्योतकः - என்று பூர்வபக்ஷிகள் கொண்டனர். அதை ஸித்தாந்திகள் ஒப்பவில்லை.
 
-सुमज्ञानये   
-என்று 
+> "देव-तिर्यङ्-मनुष्येषु पुंनामा भगवान् हरिः।
+> स्त्रीनाम्नी लक्ष्मीर् मैत्रेय! नानयोः विद्यते परम्॥"
 
-பிராட்டியைவிட, எம்பெருமானுக்கு 
+என்று மஹர்ஷி விளக்கியருளிய படியும், "अनन्तनामधेया च" என்று பாஞ்சராத்ரம் காட்டியபடியும், तथापि तद्धर्मधर्मिणी இத்யாதிகளான பல நூற்றுக்கணக்கான [[P172]] ப்ரமாணங்களை அநுஸரித்தும் பிராட்டியின் வ்யாபகத்வத்தை இசைய வேண்டும். இதை ஆசார்யர் கத்யபாஷ்யத்தில் 
 
-அதிகப்படியால் 
+> "यथा प्रभा-गुण-उत्कर्षे भास्करो निस्समाधिकः।
+> श्रीमान् अपि तथैव स्यात् पतिः पत्नी-गुणोन्नता"
 
-—   
-இருப்பதால்   
-இங்குள்ளபடியால் 
+என்றருளினார். 
 
-பிராட்டி   
-\-   
-பும் 
+ஒளியின் சிறப்பால் ஸூர்யன் தன் நிகரில்லாதவன் என்பது எப்படியோ - அப்படியே - பெரியபிராட்டியுடன் கூடிய நமக்கெல்லாம் பதியான ஸ்ரீமான் நாராயணனும் பத்னியான பெரியபிராட்டியாரின் குணத்தாலும் உயர்ந்தவர் என்று அறிவது என்பது இந்த காரிகைக்குப் பொருள். ஸ்ரீஜனகரின் திருமகளார் எவரின் பத்னியோ - அந்ததேஜஸ் "இவ்வளவுதான்" என்று அளவிட்டுக் கூறமுடியாது – என்று ஸ்ரீவால்மீகிபகவான் இதை "अप्रमेयं हि तत् तेजो यस्य सा जनकात्मजा" என்று காட்டியருளினார். இதை "ऐश्वर्य-शील-आद्य्-अनवधिक-अतिशय-असंख्येय-कल्याण-गुण-गणाम्" என்று ஸ்ரீபாஷ்யகாரர் அருளினார். நித்யஸூரிகள் அனைவரையும் அவரவருக்கு ஏற்ற பணிவிடைகளில் இவளே ஸ்ரீவைகுண்டத்தில் ஏவிவருகிறாள் என்று "शेष-शेषाशन-आदि-सर्वं परिजनम्..." என்று ஸ்ரீபாஷ்யகாரர் இவள் பெருமைகளை வெளியிட்டருளினார். இந்த கல்யாணகுணம் பூம்யாதி தேவிகளுக்கில்லாத பெரியபிராட்டிக்கு மாத்ரமுள்ள ஏற்றமாகும். இவ்வளவையும் ஸ்ரீயாமுநாசார்யர் - ஸ்ரீபாஷ்யகாரர் - ஸ்ரீவத்ஸாங்கமிச்ரர் ஸ்ரீபட்டபராசரபாதர் முதலான ஆசார்யர்கள் தங்கள் துதிநூல்களில் ஸ்பஷ்டமாகக் காட்டியுள்ளனர்.
 
-सर्वाधिका 
+अस्या मम च शेषं हि विभूतिर् उभयात्मिका, द्वौ च सदैकशेषी, उभयाधिष्ठानं चैकं शेषित्वम् इவைகள் [[P173]] திவ்யதம்பதிகள் இருவருமே நம்மைக்குறித்து சேஷிகள் என்று தெரிவிக்கின்றன. सर्वमङ्गलदायिनी [எல்லோருக்கும் எப்போதும் எங்கும் மங்களங்களையே அருள்பவள்], 
 
-என்பதில்லை என்று கூறுவோமே எனில், அதுவும்   
-\- 
+> "तव स्पर्शाद् ईशं स्पृशति कमले! मङ्गल-पदम्
+> तवेदं नोपाधेर् उपनिपतितं, श्रीर् असि यतः।
+> प्रसूनं पुष्यन्तीम् अपि परिमलर्द्धिं जिगदिषुः
+> न चैवंत्वाद् एव स्वदत इति कश्चित् कवयते" *(श्रीगुणरत्नकोशम् २९)*
 
-भगवत्पत्नीत्वप्रयुक्तसर्वाधिकत्वम्   
-தகாது. ஏன்?   
-எனில் 
+[இந்த சுலோகமும் கீழே விளக்கப்பட்டது. விசேஷார்த்தங்கள் வேண்டுமவர்கள் நாம் ஸ்ரீவத்ஸாங்காசார்ய ஸ்வாமி எழுதிய இந்த ஸ்தோத்ரத்தின் தமிழ் விரிவுரையில் காண்க.]
 
-எம்பெருமானின்   
-பட்டமஹிஷியாயிருக்கும் 
+இதே போல் –
 
-எல்லோரையும்விட மேலான நிலை   
-\-   
-பிராட்டியிடம் 
+> "ऐश्वर्यं यद् अशेष-पुंसि यद् इदं सौन्दर्य-लावण्ययोः
+> रूपं यच् च हि मङ्गलं किमपि, यल् लोके सद् इत्य् उच्यते।
+> तत् सर्वं त्वद्-अधीनम् एव यद् अतः श्रीर् इत्य् अभेदेन वा
+> यद्वा श्रीमद् इतीदृशेन वचसा देवि प्रथाम् अश्नुते॥" *(श्रीस्तवम् ७)*
 
-மட்டுமே உண்டு, எம்பெருமானிடமில்லை. ஆகவே இது 
+என்று ஸ்ரீஆழ்வான் அருளியதற்கும் பொருள் கொள்வது. இதன் விளக்கமும் நமது பஞ்சஸ்தவ வ்யாக்யானத்தில் காணலாம். எம்பெருமானுக்கே உள்ள ஸர்வமங்கல ப்ரதாயித்வம் பிராட்டிக்கும் உண்டு என்றால் பூரிகத்தாலே இதரர்கள் விஷயத்தில் கேட்கவும் வேண்டுமோ?
 
-4 \! இருவரும் நெருங்கிய ஸம்ஸ்லேஷத்தால் ஒரேதத்துவம் போன்றுள்ளனர் – என்ற ப்ரமாணத்தை இங்கு காண்க. புiady saiii என்றதே. 
+ஸ்ரீவிஷ்வக்ஸேன ஸம்ஹிதையில் ஸ்ரீவிஷ்வக்ஸேனரைக் குறித்து பகவான் கூறிய சுலோகங்களைக் காணீர்:-
 
-புÀ என்ற சொல் '' (4-1-33) என்ற ஸூத்ரத்தால் உருவானது.   
-உருவானது. வேள்வியில் தொடர்புடைய ப்ரதானமான (முதல்) மனைவியையே பத்னீ என்பர். எம்பெருமான்   
-Īug Ai 44 \[எல்லா பூதர்களுக்கும் (அல்லது எல்லாபூதர்களிடமிருந்தும்) நான் (பகவான் ஸ்ரீராமன்) அபயம் அளிக்கிறேன். இதை ஒரு வ்ரதமாக நான் கொண்டுள்ளேன்.) என்று எம்பெருமான் 
+> "तथा लक्ष्म्याः प्रभावं च शृणु वक्ष्ये समासतः।
+> गुणतश् च स्वरूपेण व्याप्तिस् साधारणी मता॥" [[P174]]
 
-80   
-लक्ष्म्युपायत्वदीपः 
+[லக்ஷ்மியின் பெருமைகளை சுருக்கமாகக் கூறுகிறேன், கேளாய். கல்யாணகுணங்களாலும் திவ்யாத்மஸ்வரூபத்தாலும் எங்கும் பரவின வ்யாபித்து இருப்பது அவளுக்கும் எனக்கும் பொதுவானது]
 
-என்ற   
-வேள்வியில்   
-அருளிய சரணாகதஸம்ரக்ஷணம் 
+> "यथा मया जगद् व्याप्तं स्वरूपेण स्वभावतः।
+> तया व्याप्तम् इदं सर्वं नियन्त्री च तथेश्वरी॥"
 
-எம்பெருமானுடன் தீக்ஷைஷ பெற்றவளைப் போன்றுள்ளவள் பெரியபிராட்டியார். இவளே முக்யபத்னீ. மற்றையோர் அப்ரதானைகள். இதனை புரிi : 9 À என்று ஸ்ரீபராசரபட்டர் காட்டியருளினார். கணவனும் மனைவியும் சேர்ந்திருக்கும்போது – மனைவியின் கைகள், கொங்கைகள், பார்வைகள் எல்லாமும் கணவனுடன் இணைந்தே இருக்கும். எம்பெருமானுக்கு ஸ்ரீதேவியைப் போன்று பூமி\-நீளாதிகளான பலர் தேவிமார் இருப்பினும், அவர்களும் பெரியபிராட்டியும் பிணங்கின்றி கணவனுடன் இழைவதை இப்படி ஸ்ரீபட்டர் காட்டியருளினார். பரஸ்பரம் விரோதமோ, உலகினர் போன்று சக்களத்திச் சண்டையோ இல்லை   
-என்பதை இப்படி நிதர்சனத்துடன் விளக்கியருளினார். பத்னீ என்கிற ஆத்மா எடுத்துக்கொண்ட உருவில்   
-ஸ்தன\-பாஹு\-த்ரிஷ்டிகள்   
-\- 
+[இந்த உலகம் முழுதும் இயல்பாகவே எப்படி என் திவ்யாத்மஸ்வரூபத்தால் வ்யாபித்திருக்கிறதோ அதேபோல் எல்லோரையும் கட்டுப்படுத்தும் ஈச்வரியான லக்ஷ்மியாலும் இவ்வுலகு எங்கும் எப்போதும் அவள் திவ்யாத்மஸ்வரூபத்தால் வ்யாப்தம்]
 
-அவயவங்களாயிருந்து 
+> "मया व्याप्ता यथा साऽपि तया व्याप्तो ऽहम् ईश्वरः।"
 
-தாங்களும் மகிழ்வெய்துகின்றனவோ 
+[நான் எப்படி என் ஸ்வரூபத்தால் அவளையும் வ்யாபித்து உள்ளேனோ, அப்படியே அவளால் நானும் வ்யாபிக்கப்பட்டவன்]
 
-இங்குமென்று   
-தாத்பர்யம். fariiu இல்லை.   
-எப்படி 
+> "मम तस्याश्च देवेश वैलक्षण्यमिदं शृणु।"
 
-பர்த்ருபோகத்தின்போது 
+[எனக்கும் அவளுக்கும் உள்ள விலக்ஷணமான ஸ்வபாவத்தை தேவர்தலைவனே! கேள்]
 
-அப்படியே 
+> "मच्छेषभूता सर्वेषामीश्वरी मम वल्लभा।
+> तस्याश्च जगतश्चाहमीश्वरो वेदविश्रुतः॥"
 
-இப்படியிருப்பது 
+[எல்லோருக்கும் தலைவியாயும் – எனக்கு மிகவும் ப்ரீதிக்கு பாத்ரமுமான இவள் என் ஒருவனுக்கே சேஷபூதை உடமை. அவளுக்கும் இந்த உலகினருக்கும் நான் சேஷி என்பதாக வேதங்களில் நான் ப்ரஸித்தனாகச் சொல்லப்பட்டவன்.]
 
-ஸர்வாதிகம் சேஷித்வம் 
+> "अस्या मम च शेषं हि विभूतिरुभयात्मिका।
+> इति श्रुतिशिरस्सिद्धं मच्छास्त्रेष्वपि मानद॥" [[P175]]
 
-என்றாலும், என்றபடியானது இங்கும் புடினரி\-புரத்தால் காட்டப்பட்டது. : பு என்ற 
+[நித்ய விபூதி - லீலா விபூதி என்று விளங்கும் இந்த இரண்டு விபூதிகளும் அதிலுள்ள சேதனாதிகளும் எனக்கும் பெரிய பிராட்டிக்கும் உடமையானவைகள். இது பல ச்ருதிகளாலும், என்னைப்பற்றி விளக்கமாகத் தெரிவிக்கும் ஸ்ரீ பாஞ்சராத்ராதி ஆகமங்களிலும் ப்ரஸித்தம்.]
 
-மந்த்ரத்தில்   
-வரும்   
-சதுர்த்தீவிபக்திக்கு 
+> "तथा भूमिश्च नीला च शेषभूते मतो मम।
+> यथाऽऽत्मनां तु सर्वेषां ज्ञानतो व्याप्तिरिष्यते।
+> स्वरूपतस्तु न तयोः ज्ञानतो व्याप्तिरिष्यते॥"
 
-குரிளிம்தான் தெரிவிக்கப்படுகிறது \- என்பது 
+[பூமிதேவி, நீளாதேவி இவர்கள் என்னொருவருக்கே சேஷர்களாவார்கள். ஜீவன் அணுவானபோதிலும், அவன் எடுத்த உடலில் முழுவதும் அவனது ஜ்ஞானத்தால் பரவியிருக்கும் நிலையை எப்படி சாஸ்த்ரங்களைக் கொண்டு ஒப்பியுள்ளோமோ அதே போன்றவையே பூமி நீளா இவர்களுக்கும். இவ்விருவரும் என்னையும், லக்ஷ்மிப் பிராட்டியையும் போன்று ஸ்வரூபத்தால் எங்கும் வ்யாபித்தவர்களில்லை]
 
-\-   
-தகாது 4À என்ற சொல்லால் அதைத்தனியாகக் கூறியாயிற்றே\!   
-ஆகவே   
-எல்லாவுலகுக்கும் 
+இந்த பகவத்சாஸ்த்ர வசனங்களால் - எம்பெருமான், பெரியபிராட்டி, பூமி, நீளா முதலான எல்லோர் நிலைகளும் நன்கு காட்டப்பட்டுள்ளன.
 
-காரணமாயிருப்பது, எல்லோரையும் பாதுகாப்பது, எல்லோருக்கும் சேஷியாய் இருப்பது என்பன மூலமந்த்ராதிகளில் தெரிவிக்கப்பட்டன. 
+ஸ்ரீ விஷ்ணு புராணத்திலும் -
 
-இந்த ஸ்வாதந்த்ர்யம் – 
+> "देव-तिर्यङ्-मनुष्येषु पुंनामा भगवान् हरिः।
+> स्त्रीनाम्नी लक्ष्मीर् मैत्रेय! नानयोः विद्यते परम्॥"
 
-81   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+என்று காட்டப்பட்டது.
 
-\[ஸ்ரீஸூக்தம்:   
-தேவதேவனான   
-ஸ்ரீவாஸுதேவனின் 
+ப்ரஹ்மபுராணத்திலும் -
 
-ப்ரீதிக்கு விஷயபூதமானவளை \-\] 
+> "अनन्त-नामधेया च शक्ति-चक्रस्य नायिका"
 
-"ज्ञानात्मकं परं रूपं ब्रह्मणो मम चोभयोः । 
+[பெரியபிராட்டிக்கு अनन्ता எவ்விதமான...]
 
-शेषम् ऐश्वर्यवीर्यादि ज्ञानधर्मः सनातनः॥” 
 
-\[பரமாத்மாவின் ஸ்வரூபம் ஜ்ஞானமயமானது. ப்ரம்ஹமான 
+பரிச்சேதமுமில்லாதவள் - என்று பெயர். எம்பெருமானின் [[P176]]
 
-அவருடையவும்   
-என்னுடையவுமான 
+### **लक्ष्म्युपायत्वदीपः**
 
-மாறாட்டமில்லை. ஐஸ்வர்யம், வீர்யம், அறிவு 
+धीः, कान्तिः, कीर्तिः என்பன போன்ற சக்திகளின் கூட்டத்துக்கு இவளே தலைவி] என்றுள்ளது.
 
-தர்மங்கள் எப்போதுமே எங்களிடமிருப்பவை.\] 
+மேலும் -
 
-“जगत्प्रकृतिभावो मे यः सा शक्तिरितीर्यते”   
-\-   
-இதில் 
+> "भोग्या वाम् अपि नान्तरीयकतया पुष्पाङ्गरागैः समं
+> निर्वृत्त-प्रणयातिवाहन-विधौ नीताः परीवाहताम्।
+> देवि त्वाम् अनु नीलया सह मही देव्यस् सहस्रं तथा
+> याभिस् त्वं स्तन-बाहु-दृष्टिभिर् इव स्वाभिः प्रियं श्लाघसे" *(श्रीगुणरत्नकोशम् ३६)*
 
-முதலான 
+என்று ஸ்ரீ பட்டரும் ஸ்ரீ குணரத்ன கோசத்தில் (சுலோகம் 36) அருளினார். (உலகில் ஒருவருக்கு பல மனைவிகள் இருப்பின் அவர்களுள் எப்போதாவது கருத்து வேற்றுமை ஏற்படும், சண்டைகளும் நிகழலாம். சக்களத்திச்சண்டை என்று ப்ரஸித்தமாயிற்றே. 
 
-\[இந்த   
-உலகு   
-உண்டாக   
-மூலப்ரக்ருதியை 
+பரமபதநாதனான எம்பெருமானை அ-புரி4-ரிசைச்னொக அநுஸந்திக்கிறோமே, எப்போதாவது லௌகீக ஸ்திரீகளைப் போன்று இவர்களில் சர்ச்சை முதலியன ஏற்படாதா? என்பதற்கு இந்த ச்லோகத்தில் ஸ்ரீ பட்டர் பதில் அளிக்கிறார். மனைவிக்கு கைகள்-கொங்கைகள்-ச்ருங்காரம்-பார்வை முதலானவைகள் வேறாயினும் கணவனை அணையும்போது இவைகளுக்கு எனத் தனி உணர்வுகள் கிடையாதே. அதே போல் பூதேவி - நீளாதேவி முதலானவர்களும் பெரியபிராட்டிக்கு சரீராவயவஸ்தானத்திலிருப்பதால் ஒருவருக்கொருவர் வாறடை வராது என்கிறார். ப்ரத்யுத போக்யமே. பூசூட்டிக்கொள்கிறாள்-சந்தனம்-மறுதோன்றி--வெற்றிலை போட்டுக்கொள்வது முதலியன மனைவியை விட வேறான அலங்காரங்களாயினும் அவைகளால் கணவனுடன் போகத்து இவைகள் புஷ்டியைக் கொடுக்குமே தவிர- இடையூறு இல்லை-என்றபடி. விரிவு அடியேன் எழுதி [[P177]] வெளியிட்ட ஸ்ரீ குணரத்ன கோசத்து வ்யாக்யானத்தில் காணலாம்).
 
-செயல்படச்செய்வது என்ற எது உண்டோ   
-\-   
-அதை சக்தி 
+மேலும், "कामवत्सा अमृतं दुहाना" என்று பூஸூக்தத்தில் உள்ளபடியால் ப்ரியஸகிகளுக்குள் க்ரோதாதிகள் ஏற்படாது என்பதை ஸ்ரீபட்டர் திருவுள்ளப்பட்டார்.
 
-என்பர்.\] 
+"अस्येशाना जगतो विष्णुपत्नी" என்ற பூமிப்பிராட்டியைப் பற்றிய வாக்யமும், பூமாதேவியும் ஸ்ரீலக்ஷ்மி தேவியின் விபூதியைச் சேர்ந்தவளானபடியால் லக்ஷ்மியைப் பற்றியதாகவே ஆகும். "आपो वा इदं सर्वं विश्वा भूतान्यापः" என்ற வாக்யத்தில் நேராக அப் என்ற ஜல தேவதையைக் குறித்துள்ள போதிலும்-பகவானைப் பற்றியதே இந்த வாக்யம் என்று வேதபாஷ்யகாரர்கள் முடிவு செய்ததைப் போலாகும் இங்கும்.
 
-"सृजन्त्या यः श्रमाभावो मम तद् वलम् इष्यते” 
+மேலும் ஸ்ரீபட்டர் "श्रीरङ्गराजमहिषीं श्रियमाश्रयामः" *(श्रीगुणरत्नकोशम् १३)* என்று இந்த ச्रुதியை பெரிய பிராட்டி விஷயத்தில் ஸமந்வயப்படுத்தி உள்ளதைக் கொண்டும், இந்த ச்ருதி பெரிய பிராட்டியையே துதிக்க வந்தது. "देवी कृताभिषेकायाम्" என்றும் "महिषी" என்றும் கோசங்கள் உண்டு ஆனபடியாலும், ராஜாதிராஜனான பகவானின் பட்டத்து மஹிஷியான பெரிய பிராட்டியாரையே கூறும் சக்தி உண்டு. ஆகவேதான் "श्रीः" *(श्रीआळवन्चार् स्तोत्रम् ४४)* என்றும், "देवदेवदिव्यमहिषीम्" *(शरणागतिगद्यम्)* என்றும், "श्रीरङ्गराजमहिषीम्" *(श्रीगुणरत्नकोशम् २)* என்றும் - லக்ஷ்மிக்கு ஏற்பட்ட அஸாதாரணமான மஹிஷி என்ற சொல்லாலேயே துதித்தார்கள் பூர்வர்கள். இதனால் "लक्ष्मीं प्रिय-सखीं देवीं नमाम्य् अच्युत-वल्लभाम्" என்பன போன்றவிடங்களில் [[P178]] பூமிப்பிராட்டியைப் பற்றியும் देवी என்றது औपचारिकम् என்று ஏற்படுகிறது.
 
-\[உலகைப் படைக்கும் எனக்கு துளியும் முதலானவையில்லை. இதையே பலம் என்பர்\] 
+"अस्या मम च शेषं हि विभूतिर् उभयात्मिका" என்பன போன்றவற்றால் லக்ஷ்மிக்கு பகவானைத் தவிர்ந்த எல்லா சேதனா சேதனங்களையும் குறித்து शेषित्वम् ஸ்பஷ்டமாகத் தெரிய வருகிறது. பூமி, நீளாதிகளுக்கு இப்படிப்பட்ட நிலை அமையவில்லை. सर्वेशानत्वम्, भगवन्महिषीत्वम्, सर्वशेषित्वम् முதலானவைகள் अस्य वाक्यस्य लक्ष्मीपरत्वम् என்ற अधिकरणन्यायத்தால் ஸித்தம்.
 
-"() q 44||"   
-களைப்பு 
+லக்ஷ்மிக்கும்-பகவானுக்கும் साधारणम् என்ற "विश्वस्य भर्त्री" என்பதால் உலகுமுழுவதற்கும் இவள் ஆதாரமானவள் என்பதும், "जगतः प्रतिष्ठा" என்றதால் உலகு லயிக்கும் ஸ்தானமும் இவளே என்பதும் நன்கு தெரிவிக்கப்பட்டது.
 
-\[ஒரு செயலைச் செய்யும்   
-செய்யும் போது தடையற்றிருப்பதே ஐஸ்வர்யம் எனப்படும்\] 
+1. "अहं मित्रावरुणौ आ बिभर्म्य् अहम् इन्द्राग्नी अहम् अश्विनौ उभौ"
+[இது பூமிதேவியின் வாக்யமாயிருந்தாலும் பிரமாணங்களைக்கண்டு உரைக்கும்போது பெரிய பிராட்டியாருக்கே இங்கு கூறியவை ஏற்கும். ”நான் சூர்யனையும், வருணனையும் தாங்கி வருகிறேன், இந்த்ரனையும் அக்னியையும் தாங்கி வருகிறேன், அச்வினி தேவர்களையும் அப்படியே தாங்கி வருகிறேன் என்று பொருள்.]
 
-“विकारविरहो वीर्यं प्रकृतित्वेऽपि मे सदा " 
+2. "अहं सोमम् आ ह सम्बिभर्म्य् अहं त्वष्टारम् उत पूषणं भगम्"
+[நான் சந்த்ரனையும், த்வஷ்டா என்ற தேவருலகத் தச்சனையும், மேலும் பூஷா என்பவனையும், भगम् என்ற சூர்ய தேவதைகள் 12 பேரில் ஒருவரையும் நன்கு தாங்குகிறேன்.]
 
-\[எல்லாவற்றிற்கும் மூலப்பொருளை   
-நான் எப்போதும் 
+3. > "व्यापिनी विष्णुरूपेण सर्वभावानुगामिनी।
+   > अशेषभुवनाधारा सङ्कल्पप्रविजृम्भिणी॥" [[P179]]
 
-உடையவளாயினும் மாறுபாட்டை நான் அடைவதில்லை. 
+[ஸ்ரீ விஷ்ணு எப்படி எங்கும் வ்யாபித்துள்ளாரो அப்படியே நானும் எல்லா பொருள்களிலும் உள் நிற்பவள், எல்லா உலகுகளையும் தாங்கும் ஆதாரமாக இருப்பவள், எனது ஸங்கல்பத்தை மட்டிலும் கொண்டு பலபடி விரிவாய் எதிலும் பரவியுள்ளேன்]
 
-இதையே வீர்யம் என்பர்\] 
+4. > "प्रसुप्ताखिलकार्यं यत् सर्वतस् समताङ्गतम्।
+   > नाराणामयनं ब्रह्म सर्वावासम् अनामयम्॥
+   > पूर्णस्तिमितषाड्गुण्यम् असमीराम्बरोपमम्।
+   > तस्य स्तैमित्यरूपा या शक्तिश् शून्यत्वरूपिणी।
+   > स्वातन्त्र्याद् एव कस्माच् चित् क्वचिद् उन्मेषम् ऋच्छति॥"
 
-"सहकार्यनपेक्षा मे सहकार्यविधौ हि या । 
+[எல்லா செயல்பாடுகளையும் நிறுத்திக்கொண்டு எங்கும் எதிலும் ஸமமாக இருப்பவரும், அழிவற்ற சேதனர்களுக்கு தகுந்த வழிகாட்டியானபடியால் - நாராயணன் என்னப்பட்ட அவாப்தஸமஸ்தகாமனான ஒரு குற்றமுமற்ற பரம்பொருள் யாதொன்று உண்டோ அது எதிலும் நிறைந்து சஞ்சலமற்று - ஜ்ஞான-சக்தி-பல-ஐஸ்வர்ய-வீர்ய-தேஜஸ் - என்ற ஆறுவகை குணங்கள் நிரம்பியதும், காற்றையும் ஆகாசத்தையும் போன்று கண்ணுக்கும் புலப்படாமல் இருப்பதும் இருக்கும். அந்த பரம்பொருளின் அசைவற்ற நிலை யாதொன்று உண்டோ - அதுவே சக்தி எனப்படும். கண் முதலான புலன்களால் உணரமுடியாதது அது. ஆகவே சூன்யம் போன்றிருக்கும். ஆயினும் சின்னது என்று கூற முடியாத ஒருவகையான ஸ்வாதந்த்ர்யத்தால் சிலரிடம் தன் திறமையை வெளிக் கொணர்கிறது.]
 
-तेजः षष्ठं गुणं प्राहुः तमिमं तत्त्ववेदिनः ॥ " 
+என்கிற இந்த வகையான ப்ரமாணங்களைப் பராமர்சித்தால் இந்த ஸ்வபாவங்கள் यாவும் லக்ஷ்மிக்கே பொருந்தும் என்பது விளங்கும். 
 
-82 लक्ष्म्युपायत्वदीपः 
+पृथिवी, विश्वम्भरा என்ற சொல் உண்மையில் பரமாத்மாவையே கூற வல்லது. ஆயினும் சசீபதியான தேவர்தலைவனைக் கூறுவதாகவும் எப்படி [[P180]] சொல்கிறோமோ - அப்படியே ப்ருத்வீ -விச்வம்பரா முதலான சொற்களும் பூமி விஷயத்தில் ஸங்குசித வ்ருத்தியால் பிரயோகிக்கப் படுகின்றன. ஔபசாரிகங்கள் என்றபடி, ப்ரதிவீ விச்வம்பरा என்றவற்றுக்கு அபிமானியான தேவதையைக் கூறலாமே - என்பதும் இங்கு தகாது.
 
-\[ஒரு செயலைச் செய்ய மற்றொன்றின் ஒத்துழைப்பை நான் எதிர்பார்பதில்லை. இதையே தேஜஸ் என்பர் ஆன்றோர்கள்\] 
+"श्रद्धया देवो देवत्वम् अश्नुते" என்ற ச்ருதியிலுள்ள ச்ரத்தா என்ற சொல் - லக்ஷ்மியையே காட்டுவதாக தத்துவதீபிகாகாரரே உரையிட்டுள்ளார். శ్రీ விஷ்ணு புராணத்தில் இந்திரன் செய்த ஸ்ரீஸ்துதி ப்ரகரணத்தில் "सिद्धिः त्वं स्वधा स्वाहा सुधा त्वं लोकपावनी। सन्ध्या रात्रिः प्रभा भूतिः माया श्रद्धा सरस्वती" என்றவிடத்தில் ஸித்தி முதலான விபூதிகளை உடையவள் பெரிய பிராட்டியே என்பதை யாவரும் ஒப்பினோமே. [ஹே லக்ஷ்மி ! நீயே செயலை முடித்து ஸித்தி ஏற்படச் செய்கிறாய், பித்ருக்களுக்கு அக்னியில் ஹோமம் செய்யும் ஸ்வதா என்பதும் நீயே. தேவர்களுக்கு ஹோமம் செய்யும் ஸ்வாஹா என்பதும் நீயே. தேவருலகத்தை பசியிலிருந்து காக்கும் பரிசுத்தமான ஸுதா = அமுதமும் நீயே. ஸந்த்யா காலத்தில் அந்தணர்களால் வணங்கப்படும் ஸந்த்யா தேவியும் நீயே. இரவும் நீயே, ஒளியும், ஐச்வர்யமும், ஆச்சர்யமானவைகளும் எல்லோருக்கும் அவரவர் செய்யும் நற்செயல்களில் ச்ரத்தா என்பதும் நீயே. கல்விக்கு அதிஷ்ட்டான தேவதையான ஸரஸ்வதியும் நீயே, என்று அந்த வசனத்துக்குப் பொருள்.]
 
-"इति पञ्च गुणा एते ज्ञानस्य स्फूर्तयो मताः । 
+இந்த ஸித்தி முதலானவை உபசாரத்தால் கூறியதானபோதும், பூமிதேவியின் விபூதிகளே இவைகள் என்று காட்ட ப்ரமாணமில்லாதபடியாலும், லக்ஷ்மிப்ரகரணமானபடியாலும் பிராட்டியைக் கூறவல்லவை என்பதில் குற்றமேதுமில்லை. [[P181]]
 
-तस्यानपायिनी शक्तिः देवी तद्धर्मधर्मिणी॥ “ 
+மேலும் "तपसा देवा देवानाम् अग्र आयन्" என்ற வாக்யத்தில் तपस् என்றது சரணாகதியை. சரணாகதியை அநுஷ்டித்தே தேவர்கள் எல்லோரையும் விட முன்னே வழிகாட்ட சென்றார்கள்- என்பது இந்த வாக்யத்தின் தாத்பர்யம்.
 
-\[ இவ்விதம் ஐந்து குணங்கள் இங்கு கூறப்பட்டன. இவை ஜ்ஞானம் \= அறிவு என்பதில் உள் அடங்கிய விரிவுகளாகும். இந்த ஐவகை குணங்களையும் எப்போதும் உடையவள் பிராட்டி, எம்பெருமானைப் போன்ற தர்மங்களில் எதுவும் குறைவற்றவள்.\] 
+இனி இந்த ப்ரகரணம் முழுவதும் பிராட்டியைப் புகழ்ந்து, அத்தகைய பிராட்டிக்கு பர்த்தாவான பகவானிடம் சரணாகதியைச் செய்தவர்களின் பெருமையை வெளியிட வந்தது என்பதை விரிவாகக் காட்டுவோம்.
 
-"வேரிமாறாத பூமேலிருப்பாள் வினை தீர்க்குமே” \[திருவாய்மொழி 4-5-11: நறுமணம் எப்போதும் துளியும் குறையாத தாமரை பூவின் மேல் எழுந்தருளியிருக்கும் பெரியபிராட்டியார்   
-தீவினைகளைப் 
+---
 
-போக்கியருள்வாள்.)   
-நம் 
+(ल.उ.दी) किञ्च "तपसा देवा देवानामग्र आयन्" इत्य्-आदिना तपः-शब्द-वाच्य-न्यासस्य सर्व-फल-साधनत्वं सूचयन्न् एतस्य विषयत्वेन निर्वर्तकत्वेन पर-ब्रह्म-अधीनतया तपः-शब्द-वाच्यस्य तस्यैव प्रधान-उपायत्वं प्रतिपादयन् रक्षार्थं स्व-सङ्कल्प-अधीनाविर्भावं देव-शब्द-वाच्यं लक्ष्मी-विशिष्टं नारायणम् आत्म-हविष उद्दिश्य तद्-अनुष्ठानं "प्रथमजं देव हविषा विधेम" इत्य्-आदिना प्रतिपाद्य विशेष-उपायत्व-स्थिरीकरणाय लक्ष्मी-विशिष्टस्यैव देव-शब्द-वाच्यत्व-प्रतिपादन-पूर्वकं न्यास-प्रधान-अङ्ग-भूत-महा-विश्वास-आख्य-श्रद्धा-अभिमानित्व-तत्-प्रदायित्वादि-सूचक-तच्-छब्दाभिधानेन सर्व-लोक-स्थित्यादि-कर्तृत्व-निरतिशय-भगवन्-महिषीत्व-क्रीडा-विजिगीषादिमत्त्व-सर्व-यज्ञ-समाराध्यत्व-तज्-जन्य-प्रीतिमत्त्व-स्व-सङ्कल्पादि-मात्र-सहायत्व-मोक्ष-प्रदत्व-सर्व-शब्द-वाच्यत्व-, भगवत्-प्रधान-विशेषण-भूत-लक्ष्म्याः स्व-सङ्कल्प-अधीनाविर्भावत्व-विश्व-आधारत्व-जगल्-लय-स्थानत्व-सर्व-नियन्तृत्व-निरतिशय-दीप्ति-युक्त-विग्रहवत्त्व-सर्व-शेषित्व-रूप-उपायत्व-उपयुक्त-धर्मान् प्रतिपाद्य तथाविध-लक्ष्मी-विषयक-न्यासाभिधानं तपः प्रतिपादयता 
 
-“अलमेषा परित्रातुं राक्षस्यो महतो भयात् " 
+> "श्रद्धया देवो देवत्वम् अश्नुते", 
+> "श्रद्धा प्रतिष्ठा अस्य लोकस्य देवी", 
+> "सा नो जुषाणा उप यज्ञम् आगात्", 
+> "कामवत्सा ऽमृतं दुहाना", 
+> "श्रद्धा देवी प्रथमजा ऋतस्य", 
+> "विश्वस्य भर्त्री जगतः प्रतिष्ठा [[तार श्रद्धा|तां श्रद्धां]] हविषा यजामहे", 
+> "सा नो लोकम् अमृतं दधातु", 
+> "ईशाना देवी भुवनस्य अधिपत्नी"
 
-\[ஸுந்தரகாண்டம்: ஸ்ரீராமபிரானிடமிருந்து ஏற்படப்போகும் படுபயங்கரத்திலிருந்து நம்மை பாதுகாக்க இந்த ஸ்ரீஸீதாபிராட்டி ஸமர்த்தையானவள் த்ரிஜடையின் கூற்று.)   
-\- 
+इति सन्दर्भेणास्य लक्ष्मी-प्रतिपादन-परत्व-औचित्य-प्रतीतेर् न भूम्यादि-परत्वम्, न वा आत्म-गुण-मात्र-परत्वम्, हविर्-उद्देश्य-देवतात्वादीनाम् अनेकेषां चेतन-विशेष-धर्माणां बाधापत्तेः। 
 
-\[காஸ்யப ஸ்ம்ருதி: ஸம்ஸாரமாகிய கடலிலிருந்து நம்மைக் கரையேற்ற இந்த பிராட்டி வல்லவள்.\] 
+अतः तपः-शब्देन न्यासस्याभिधानं "न्यासो इति ब्रह्मा, ब्रह्मा हि परः, परो हि ब्रह्मा। तानि वा एतान्य् अवराणि तपांसि न्यास एवात्यरेचयत्, तस्मान् न्यासम् एषां तपसाम् अतिरिक्तम् आहुः" इत्य्-आदौ पर-ब्रह्म-सामानाधिकरण्येन न्यासस्य सर्व-अतिशायित्व-प्रतिपादनेन, तद्वत् "स्वयम्भू ब्रह्म परमं तपो यत्" इति पर-ब्रह्म-सामानाधिकरण्येन च सिद्ध्यति। 
 
-"\!ரிகவு" 
+अत एव "वस्तुतस् तु" इत्य्-आदिकम् अपि निरस्तम्। तपः-श्रद्धाद्य्-आत्म-गुण-प्राशस्त्यस्यापि प्रतीतेर् आत्म-गुण-प्राशस्त्यं प्रतिपाद्यत इति तत्-परत्व-व्याख्यानस्याप्य् अविरोधात्। 
 
-\[ஸ்ரீவிஷ்ணு புராணம்: பரமாத்மாவை அடைவிக்கும் வித்யையாக தேவரீர் (பிராட்டி) இருந்து எங்களுக்கு மோக்ஷம் என்கிற பலத்தை அருள்பவள் அன்றோ\!\] 
+देवी-शब्दस्य लक्ष्म्य्-असाधारण्य-वाचकत्वं कोश-आप्त-वाक्य-अनुरोधात् प्राग् एव प्रतिपादितम् इति श्रीसूक्त-अर्थ-प्रत्यभिज्ञयास्य काठक-वाक्यस्य लक्ष्मी-परत्वे न किञ्चिद्-बाधकम्। [[P182]]
 
-83   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+---
 
-“याम् आलम्ब्य सुखेनेमं दुस्तरं त्रिगुणोदधिम् । 
+(60.5) "तपसा देवा देवानामग्र आसन्" - इत्य्-आदौ तपस् என்ற சொல்லால் தெரிவிக்கக்கப்பட்ட சரணாகதியைப் புகழ்ந்தது, இந்த சரணாகதி யாரிடம் செய்வது ? என்பதைக்காட்ட देव என்ற சொல்லே பரமாத்மாவையும் கூறும் - ஆனபடியால் அவரே இதில் ப்ரதானர் - என்று கூறிற்று. நம் யாவரையும் பாதுகாக்க என்றே ஸ்வயமாக ஸங்கல்பத்தால் ஆவிர்பவித்த - தேவசப்தவாச்யனை - லஷ்மீவிசிஷ்ட நாராயணனைக் காட்டி, இந்த ஆத்மாவாகிய ஸ்வாதுவான ஹவிஸ் எம்பெருமானுக்கும் பெரிய பிராட்டியாருமாகிய இருவருக்கும் உரியது என்பதை "प्रथमजं देव हविषा विधेम" என்று காட்டியது. லக்ஷ்மீ-விஷ்டனேதான் ப்ரபத்தவ்யன் = பிரபத்தி அநுஷ்டித்ததை ஸ்வீகரிக்க வல்லவன் - என்பதைக் காட்டி, இவனையே देवः என்ற சொல்லால் [[P183]] சொல்லிக்காட்டி சரணாகதியின் ஐந்து அங்கங்களில் முக்யமானதான மஹாவிச்வாசத்தைக் காட்ட श्रद्धा என்று ச்ரத்தைக்கு அபிமானிதேவதையான பெரியபிராட்டியைக் காட்டியது.
 
-निस्तरन्ति अचिरेणैव व्यक्तं ध्यानपरायणाः ॥ “ 
+இந்த லஷ்மி தேவியானவள் - எல்லா உலகின் இருப்புக்கும் காரணமானவள் - நிரதிசயமான விளையாட்டு, எங்கும் எதிலும் எப்போதும் எவருக்கும் தோல்வியே இல்லாத நிலையை அருள்பவள், எல்லா யாகங்களாலும் ஆராதிக்கக்கூடியவள், எந்த நல்ல காரியம் நாம் செய்தாலும் அதால் மகிழ்வு அடைபவள், தன் ஸங்கல்பம் ஒன்றாலேயே எல்லா செயல்களையும் செய்து வருபவள், மோக்ஷமளிப்பவள், எந்த சொல்லாலும் தெரிவிக்கப்படும் பெருமையை உடையவள், பகவந்நாராயணனுக்கு ப்ரதான மஹிஷியாயிருப்பவள், தன் ஸங்கல்பத்தாலேயே - பகவான் அவதாரங்களைக் கொள்ளும் போது தாமும் உடன் தோன்றுபவள், எல்லா உலகுக்கும் ஆதாரமானவள், ஸர்வ ஜகத்தும் கடைசியில் இவளிடமே லயிக்கிறது எனப்பட்டவள், எல்லோரையும் கட்டுப்படுத்துபவள், இவருடைய ஒளிக்கு நிகராக வேறொருவருக்கு ஒளி இருக்காது - என்ற பெருமையை உடையவள், பர-வ்யூஹ-விபவ-ஹார்த-அர்ச்சாதிகளான ஐந்து நிலைகளிலும் எம்பெருமானைப்போன்று திருமேனியுடன் ஸேவை சாதிப்பவள், எல்லாப் பொருட்களுக்கும் சேஷிணீயாயிருப்பது என்பனபோன்ற மோக்ஷாபாயமாக இருப்பதற்குத்தேவையான எல்லாதர்மங்களும் எம்பெருமானைப்போன்று நிறைந்திருப்பவள் - என்பதை விரிவாகக்காட்டியது.
 
-\[ஸாத்வத ஸம்ஹிதை 12-84: கரை காண முடியாத ஸத்துவ- ரஜஸ்\-தமஸ் என்ற முக்குணமயமான துன்பக்கடலை, இவளை (பிராட்டியை) த்யானம் செய்து வரும் மஹான்கள் விரைவில் தாண்டிவிடுகிறார்கள் 
+இத்தகைய பிராட்டி விஷயகமான ந்யாஸம் என்ற பெயர் பெற்ற தபஸ்ஸை விரிவாகக்காட்டி - அதன் பிறகே - "श्रद्धया देवः...", "श्रद्धा प्रतिष्ठा अस्य लोकस्य..." [இத்தகைய பெருமைகள் உடைய ச்ரத்தை என்னப்பட்ட தேவியே இந்த உலகைத் தாங்கி வருபவள்] என்றும், "सा नो जुषाणा..." [[P184]] [அத்தகைய ச்ரத்தாதேவி நாங்கள் அனுஷ்டிக்கும் பரந்யாஸம் என்ற யாகத்துக்கு அருகில் எழுந்தருள வேண்டும்] என்றும், "कामवत्सा अमृतं दुहाना" என்றும், "श्रद्धा देवी प्रथमजा ऋतस्य" [இந்த ச்ரத்தை என்கிற பெரிய பிராட்டியாராகிய தேவி நல்ல செயல்கள் எங்கு நடந்தாலும் அங்கு முன்னே தோன்றுவள்] என்று, "विश्वस्य भर्त्री जगतः प्रतिष्ठा..." [விச்வ சப்தவாச்யனான விச்வம்பரனான எம்பெருமானுக்கு பத்னியாக இருந்து அவனை நமது நன்மைகளுக்கு நடத்திச்செல்பவள், உலகினர்க்கு பல வகையான ப்ரதிஷ்டைகளை அருளிச்செய்பவள் [குறிப்பு: இதைக்கொண்டே ஸ்ரீ ஸ்வாமி தேசிகன் பூஸ்துதியில் "वेधस्तृणावधि..." என்று அருளினார்] என்றும், "तां श्रद्धां हविषा यजामहे" [இத்தகைய ச்ரத்தா என்னப்பட்ட பெரியபிராட்டியாருடன் கூடின எம்பெருமானிடம் - இந்த ஸ்வாதுதமமான ஆத்ம ஹவிஸ்ஸை ஸமர்ப்பித்து வேள்வியைச் செய்கிறோம்] என்றும், "सा नो लोकम् अमृतं दधातु" [இத்தகைய பெருமைகள் உடைய பெரிய பிராட்டியார் எங்கள் அனைவருக்கும் அழிவற்ற லோகமான மோக்ஷத்தை அருளட்டும்] என்றும், "ईशाना देवी भुवनस्य अधिपत्नी" (இது முன்பே விளக்கியாயிற்று), என்பன போன்றவுமான இந்த ஸந்தர்பத்திலுள்ள எல்லாவாக்யங்களாலும் பெரிய பிராட்டியாரே துதிக்கப்பட்டார் - என்பது ஒளசித்யத்தாலும் தெரிய வருகிறபடியால் இந்த ப்ரகரணம் பூமி தேவி பரமன்று. பகவானின் ச்ரத்தா என்ற ஆத்ம குணத்தை மட்டிலுமே சொல்கிறது என்பதும் நேரில்லை.
 
-நன்கு தெரியுமே\!\] 
 
-“जगत्समस्तं यदपाङ्गसंश्रयम्"   
-\-   
-இது சாஸ்த்ரங்களில் 
+குணத்தைக் கூறுவதானால் आदि इத்யாதிகள் இங்கு காட்டியவை பொருந்தா. இந்த்ராதி சேதன விசேஷங்களையே அன்றோ தேவதைகளாக மீमाம்ஸகர்கள் கூறினார்கள். -மே அன்றோ யாகम्. "यज्ञो वै विष्णुः" என்றார் भगवान् पतञ्जलिユम्. [[P185]]
 
-ஸ்தோத்ரம்:   
-இவ்வுலகிலுள்ள 
+### **लक्ष्म्युपायत्वदीपः**
 
-யாவும்   
-எந்த 
+ஆகவே तपः என்ற சொல் பரந்யாஸத்தையே இங்கு கூறும்.
 
-கடைக்கண்பார்வையை   
-சேதனாசேதனாத்மகமான   
-(ஆளவந்தார் 
+"न्यासो इति ब्रह्मा..." என்று இங்கு விளக்கியதைக் காணவும். பரந்யாஸம் என்பது மிகவும் உயர்ந்ததான பரப்ரம்ஹத்தைப் போன்றது. ப்ரம்ஹம் ஒன்றே அன்றோ உயர்ந்தது. [கீழேகாட்டிய ஸத்யம் முதலான தபஸ்ஸுக்கள் யாவும் - இந்த சரணாகதி என்ற தபஸ்ஸைக் காட்டிலும் தாழ்ந்தவை. ஆத்மா மீண்டும் பிறவி எடுக்காமலிருக்க இந்த பரந்யாஸமே அன்றோ வழி. ஆகவே இது மற்றைய தபஸ்ஸுக்களைவிட மேலானதாகியது. அதனாலேயே பரந்யாஸத்தை - எல்லாவற்றையும்விட மேலான தபஸ்ஸாக ச்ருதிகளும், வேதமோதியவர்களும் சொன்னார்கள்.] என்று இந்த வாக்யங்களுக்குப் பொருள்.
 
-பெரியபிராட்டியாரின் 
+அதனால்தான் ब्रह्मा என்று பரம்பொருளோடு இந்த ந்யாஸத்துக்கு ஸாमाநாதிகரண்யம் கூறியது பொருத்தமானது. "स्वयम्भू ब्रह्म परमं तपो यत्" என்று ச்ருதியே காட்டியபடி தன் ஸ்வேச்சாக்ருதமான அவதாரங்களே பரமாத்மாவுக்கு. நம்மைப்போல் கர்மவசத்தால் பிறப்பு முதலானவைகள் கிடையாது. அத்தகைய स्वयम्भू = ஸ்வேச்சாக்ருதாவதாராதிகளை உடைய, ब्रह्म = பரம்பொருள் எப்படியோ – அதேபோல் परमं तपः = மிக உயர்ந்த தபஸ்ஸான = யாதொரு ந்யாஸம் உண்டோ - இதுவும் – என்று ச்ருதி காட்டியது.
 
-அண்டியுள்ளதோ-\] 
+இவ்வளவு விரிவாக நாம் வ்யாக்யானித்தபடியால் - இங்கு பூர்பவ वस्तुतस् तु என்று தொடங்கி சொன்னதத்தனையும் தள்ளவேண்டியதே. [[P186]]
 
-“श्रेयो न ह्यरविन्दलोचनमनः कान्ताप्रसादाद् ऋते 
+तपः, श्रद्धा, शुक्रम् போன்றவை உயர்ந்த நிலையைக் கூறவந்தது என்பதில் எங்களுக்கு கருத்து வேறுபாடில்லை. கேவலாத்மகுணங்களுக்கு ஜகத்ஸ்ருஷ்ட்யாதி வ்யாபாரங்களைச் செய்யும் திறமை கிடையாது. குணங்கள் யாவும் குணியான धर्मिविशिष्टधर्मिवाचकम्.
 
-संसृत्यक्षरवैष्णवाध्वसु नृणां सम्भाव्यते कर्हिचित् “ 
+ஆகவே ஸ்ரீஸூக்தார்த்தத்தை நினைவுகூறும் சொற்கள் இங்கு உள்ளபடியால் - இந்த காடகவாக்யம் லஷ்மியையே ஜகத்காரணமாகக் கூறும்.
 
-\["சது:ஸ்லோகி”: 
+---
 
-எம்பெருமானின் 
+(ल.उ.दी) भूसूक्त-स्थ-देवी-शब्दादेर् औपचारिकतया व्युत्पत्तेः विश्वम्भरत्वादेर् असङ्कुचितस्य भूम्याम् असम्भव-उपपादनाच् च भूसूक्त-अर्थ-प्रत्यभिज्ञाया असम्भवाद् भूमि-परत्व-शङ्का नावकाशं लभते। "अस्येशाना जगतो" इत्य् अस्या अभियुक्तैर् लक्ष्मी-परतया व्याख्यानात् "तथापि साधारणम् ईशितृत्वं श्री-श्रीशयोर् द्वौ च सदैकशेषी" इत्य्-उदाहृत-प्रमाण-शत-अनुरोधात्। ईशानत्व-लिङ्गस्य लक्ष्मी-साधारण्य-सिद्धेः, तद्-विभूति-भूत-भूम्यादौ तच्-छ्रवणस्य लक्ष्मी-पर्यवसान-द्योतकतया अन्यथा-सिद्धत्वाच् च न भूमि-साधारण्यम्। 
 
-பெரியபிராட்டியாரின் 
+सर्व-ईशानत्व-सर्व-शेषित्व-सर्व-आधारत्व-श्रद्धा-विभूतिकत्व-देव-देव-दिव्य-महिषीत्वादीनाम् अनेक-लिङ्गानां लक्ष्म्य्-असाधारणानाम् अस्मिन् प्रकरणे उपलम्भाद् अनुपलब्धिर् दूरोत्सारिता। अन्यथा भूम्यादेः पुरुषकारत्वस्याप्य् अनङ्गीकारात् 'अमृतं दुहाना', 'अमृतं दधातु' इत्य् अनयोः पुरुषकरण-व्यापार-मुखेन परम्परयापि मोक्ष-प्रदत्व-पर्यवसान-असम्भवात् आनर्थक्यम् एव स्यात्। [[P187]]
 
-ஸாம்ஸாரிக   
-செந்தாமரைக்   
-கண்ணனான 
+---
 
-திருவுள்ளத்துக்கு   
-உகந்த 
+(0.5) "अस्येशाना जगतो विष्णुपत्नी" என்ற வாக்யம் औपचारिकवृत्त्या பூமிப்பிராட்டியைக் கூறும். विश्वम्भरा என்ற சொல்லின் பொருளைக் கொண்டு ஆராயும் போது எம்பெருமானின் சக்தியால்தான் பூமியைக் கூறும். பெரிய பிராட்டியைக் கூறும் போது நேராகக் கூறும் - என்பதை கீழே விளக்கியுள்ளோம். ஆகவே எந்த குற்றமுமில்லை. "अस्येशाना जगतो विष्णुपत्नी" என்ற ச்ருதியையும் பூர்வாசார்யரான ஸ்ரீபட்டபராசரபாதர் ஸ்ரீகுணரத்னகோசத்தில் - (சு. 13) "श्रीरङ्गराजमहिषीम्" என்ற சுலோகத்தில் பெரியபிராட்டியாரைப் பற்றியதாக அருளிச்செய்தபடியால் பூர்வாசார்ய ஸ்ரீஸூக்திக்கு விளக்கி ஸ்ரீபாஞ்சராத்ரக்ரந்தங்களிலிருந்து விரோதமாக பூர்வபக்ஷி சொன்னது தகாது.
 
-அநுக்ரஹமில்லாவிடில் 
+"तथाऽपि साधारणमीशितृत्वं श्रीश्रीशयोः" என்று எடுத்த வாக்யப்படி பெரிய பிராட்டிக்கும் ஜகத்காரணத்வாதிகள் உண்டு என ஏற்படுகிறது. "ईशाना" என்று சொல்லும் பெரியபிராட்டியையே मुख्यम् ஆகக் கூற வல்லது. எல்லோருக்கும் தலைவியாய் இருப்பது, ஸர்வசேக்ஷித்வம், ஸர்வாதாரத்வம், ச்ரத்தா என்பதை விபூதியாக உடையநிலை, தேவதேவனின் திவ்யமஹிஷியான நிலை, இப்படி அனேகவிதமான அடையாளங்கள் இப்ப்ரகரணத்தில் இருப்பதால் – கட்டாயம் இப்ப்ரகரணத்தால் பெரிய பிராட்டியே தெரிவிக்கப்பட்டவள். [[P188]]
 
-போகங்கள்\-கைவல்யம்\-பரமபதம் 
+'अमृतं दुहाना', 'अमृतं दधातु' வை போன்றவைகள் - பரிந்து பேசுவது என்பதைக் கொண்டு பரம்பரயா மோக்ஷமளிப்பவள் என்று கூறுவதில் நோக்கமுள்ள வாக்யங்கள் – என்று சொல்லலாம். இப்படி இல்லையே. [குறிப்பு:- இந்த லக்ஷ்ம்யுபாயத்வதீபம் என்ற வாதக்ரந்தத்தில் भूम्यादेः பூமி-நீளாதிகளுக்கு எம்பெருமானிடம் நமக்காகப் பரிந்து பேசும் நிலை இல்லை - என்பதைப்போல் தோன்றும். அது அப்படியில்லை. பரிந்து பேசுவது. இதை अनुग्रहः என்றார் ஆசார்யர். 
 
-இப்படிப்பட்ட எந்த வழியிலும் எந்த பலனும் கிடைக்காதே\] 
+> "अस्ति कर्मार्हफलदे पत्यौ कृत्यद्वयं श्रियः।
+> निग्रहाद् वारणं काले, सन्धुक्षणम् अनुग्रहे॥" *(चतुश्श्लोकी २)*
 
-“शेष\-शेषाशनादिकं सर्वं परिजनं भगवतः 
+என்ற ஸந்துக்ஷணம் பூமிப்பிராட்டியும் செய்கிறாள் என்பதாக "प्रकृष्टगुणक श्रिया! वसुधया च सन्धुक्षितः प्रयुक्तकरुणोदधिः प्रशमय स्वशक्त्या स्वयम्" *(श्रीरङ्गराजस्तवे २.२४)*] [[P189]]
 
-तत्तदवस्थोचितपरिचर्यायाम् आज्ञापयन्त्या" 
+---
 
-\[கத்யம்: ஆதிசேஷன், பகவான் அமுது செய்து மிகுந்ததையே உண்பது என்ற வ்ரதம் கொண்ட விஷ்வக்ஸேனர் முதலான நித்யஸூரிபரிஜனங்களை எம்பெருமானுடைய அந்தந்த நிலைக்கு ஏற்றபடியான பணிவிடைகளில் உத்தரவிட்டு வரும் ச்ரீயுடன்- ) 
+(ल.उ.दी) यद् अपि "विष्णुपत्नी" इत्य्-उक्त्या अन्य-नियाम्यत्व-प्रतीतेः स्व-अन्य-अनियम्यत्वे सति सर्व-ईशानत्वस्य मोक्ष-उपायत्व-प्रयोजकत्वात् तद्-अभावाद् एव लक्ष्म्यास् तन्-निवृत्तिर् इत्य्-उक्तम्, तद् अनालोचन-रमणीयम्। लाघवेन सर्व-ईशानत्वस्यैव तत्-प्रयोजकत्व-औचित्यात्, अन्यथा मोक्ष-उपायत्वाभाव-साधकस्य स्व-अन्य-अनियम्यत्वे सति सर्व-ईशानत्वाभाव-रूप-हेतोर् एव प्रबल-प्रमाण-विरोधेन कालात्ययापदिष्टता-पातात, 
 
-"स्वस्ति श्रीः दिशताद् अशेषजगतां सर्गोपसर्गस्थितीः 
+1) "अहं सुवे पितरम् अस्य मूर्धन् मम योनिर् अप्स्व् अन्तः समुद्रे"
+[நான் இந்த சதுர்முக ப்ரம்ஹாவை - சிவனுக்கும் பிதாவை – பெற்றெடுத்தேன். நான் நீர்களுக்கெல்லாம் இருப்பிடமான கடலில் தோன்றியவள்.] [[P190]]
 
-84 
+2) "अहम् एव वात इव प्रवाम्य् आरभमाणा भुवनानि विश्वा"
+[எல்லா உலகையும் படைத்து வரும் நான் தடையின்றி எங்கும் வீசிவரும் காற்றைப் போன்றவள்.]
 
-स्वर्गं दुर्गतिम् आपवर्गिकपदं सर्वं च कुर्वन् हरिः। यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो विधत्तेऽखिलं   
-लक्ष्म्युपायत्वदीपः 
+3) > "ज्ञानात्मकं परं रूपं ब्रह्मणो मम चोभयोः।
+   > शेषमैश्वर्यवीर्यादि ज्ञानधर्मस्सनातनः॥"
 
-क्रीडेयं खलु नान्यथाऽस्य रसदा स्यादैकरस्यात् तया ॥' \[எம்பெருமான் எல்லா உலகுகளையும் படைத்தல்\-அழிப்பது- காப்பது முதலானவைகளையும், ஜ்யோதிஷ்டோமாதிகளைச் செய்தவர்களுக்கு ஸ்வர்கத்தையும், பாவம் செய்தவர்களுக்கு நரகத்தையும், பக்தி\-ப்ரபத்திகளில் ஏதோ ஒரு உபாயத்தை அநுஷ்டித்தவர்களுக்கு   
-மோக்ஷஸ்தானத்தையும் 
+[என்னுடைய ஜ्ஞானமே உருவான உயர்ந்த ரூபம் பரப்ரம்ஹத்தைப் போன்று மிகவும் உயர்ந்தது. ज्ञानम्, शक्तिः, बलम्, ऐश्वर्यम्, वीर्यम्, तेजः என்னப்பட்ட ஆறுவகையான பரமாத்மாவுக்கே அமைந்த குணங்கள் यாவும் எனக்கும் ப்ரம்ஹமான பரமாத்மாவுக்கும் மட்டுமே உள்ளன. இதில் ஜ்ஞானம் என்பதே மிகப்பழமையானது. அதிலிருந்து பிரிந்து வந்த குணங்களே ஐச்வர்யம், வீர்யம் முதலானவைகள்.]
 
-அருள்கிறார். எப்படி? இவற்றைச்செய்யும் போது \- பெரிய பிராட்டியாரின் திருமுகமண்டலத்தைக் கண்டு அவள் 
+4) > "जगत्प्रकृतिभावो मे यस्सा शक्तिरितीर्यते॥"
 
-இங்கித\-நிமிஷித\-சேஷ்டிதங்களுக்கு   
-உட்பட்டவனாய் 
+[இந்த உலகிற்கு மூலப்பொருளான ப்ரக்ருதி மஹதஹங்காராதிகளிल् முதலாவதான யாதொன்று உண்டோ - அதையே சக்தி என்பர்.]
 
-எல்லாவற்றையும் செய்கிறார். ஜகத்ஸ்ருஷ்ட்யாதிகள் ஆழ்வார் அருளியபடி "இன்புறும் இவ்விளையாட்டு” பகவானுக்கு. அந்த பிராட்டியும் இவரும் 
+5) > "सृजन्त्याः यत् श्रमाभावो मम तद् बलम् इष्यते॥"
 
-கருத்துடையவர்கள்   
-ஆனபடியால்   
-ஒரே 
+(உலகைப் படைக்கும் போதும் எனக்கு சிறிதும் ச்ரமம் இல்லை. இதையே बलम् என்பது]
 
-இந்த 
+6) > "अव्याहतिः यद् उद्यन्त्याः तद् ऐश्वर्यं परं मम॥"
 
-ஜகத்ஸ்ருஷ்ட்யாதிவ்யாபாரங்கள் இருவரும் ஒத்த ரஸமுடையராயிருப்பதால் ரஸமாக இருக்கிறது \- என்று ஸ்ரீ ஆழ்வானின் ஸ்ரீஸூக்தி (ஸ்ரீஸ்தவம்\-1).\] 
+[ஒரு செயலைத் தொடங்கும் போது தடையில்லாமல் செய்வது என்பது யாதொன்று உண்டோ – அதை ஐச்வர்யம் என்பர்] [[P191]]
 
-“ऐश्वर्यम् अक्षरगतिं परमं पदं वा 
+7) > "विकारविरहो वीर्यं प्रकृतित्वेऽपि मे तदा॥"
 
-कस्मैचिद् अञ्जलिभरं वहते वितीर्य । 
+[எந்த பொருள் உண்டாகவும் நான் மூலப்பொருளாக இருப்பினும், (மண் உருண்டை விகாரத்தை=மாறுபாட்டை, அடைந்து பெல்லா-செட்டி முதலானவைகளாக மாறுவதைப் போன்று) நான் மாறுபாட்டை அடைவதில்லை. இதையே வீர்யம் என்பர்]
 
-अस्मै न किञ्चिद् उचितं कृतम्\-इत्यथाम्ब 
+8) > "सहकार्यनपेक्षा मे सर्वकार्यविधौ हि या।
+   > तेजष्षष्ठं गुणं प्राहुः तमिमं तत्त्ववेदिनः॥"
 
-त्वं लज्जसे कथय कोऽयम् उदारभावः ॥ “ 
+[எந்த செயலை நான் செய்யும் போதும், எனக்கு ஒத்துழைக்க அசேதனமான கருவிகளோ சேதனனான சிற்றாள் போன்றவனோ தேவையில்லை. இதை तेजः என்ற ஆறாவது குணமாக தத்துவமறிந்த ஜ்ஞானிகள் கூறுவர்.]
 
-\[ஸ்ரீபட்டர்\-ஸ்ரீகுணரத்னகோசம்: (சு.58) அம்மா\! தாயே\! ஸ்ரீரங்கநாயகீ\! யாரோ ஒருவன் (அவன் படித்தவனா? 
+9) > "इति पञ्च गुणा एते ज्ञानस्य स्फूर्तयो मताः॥"
 
-ஸ்வரூபம் 
+[இந்த சக்தி முதலான ஐந்து குணங்களும் - முதலில் கூறிய ஜ்ஞானம் என்பதின் விரிவே என்று பெரியோர்கள் ஒப்பினார்கள்]
 
-அறிந்தவனா?   
-தெரிந்தவனா?   
-பகவத்ப்ரபாவங்களை 
+10) > "ताविमावेकधैवोक्तौ भेद्यभेदकभावतः।
+    > पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ॥"
 
-ஒழுக்கமுள்ளவனா?   
-என்பன 
+[இந்த லக்ஷ்மியும் நாராயணனுமாகிய இருவரும் விசேஷ்ய-விசேஷண பாவத்தைக்கொண்டு சாஸ்த்ரங்களில் ஒரே நிலையிலிருப்பவர்கள் என்றும் ஸ்வரூபத்தில் வெவ்வேறானவர்கள் - என்றும், உலகிற்குக் காரணமாகக் கூறப்பட்டனர்.]
 
-போன்றவற்றைப்பாராமல்) ஒரு கும்மிடு போட்டு தேவரீரைக் குறித்து கைகளைக் கூப்பினான் ஆகில், அவனுக்கு அவன் விரும்பியபடி இஹ\-பரலோகத்திலுள்ள 
+11) > "नैव शक्त्या विना कश्चिच्छक्तिमान् अस्ति कारणम्।
+    > न च शक्तिमता शक्तिर्विना काप्यवतिष्ठते॥"
 
-85   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+[சக்தியில்லாமல் சக்திமான் ஜகத்காரணமாக இல்லை. சக்திமானையும் விட்டு நீங்கி சக்தி என்பதும் ஓரிடத்திலும் இருக்காது] [[P192]]
 
-ஐஸ்வர்யமாகிய 
+12) > "तत्तद्गौरवमाश्रित्य तन्त्रवेदान्तपारगैः।
+    > जगद्धेतुतया देवौ एकैकाविव दर्शितौ॥"
 
-சேதனாநுபவமாகிய   
-அசேதனாநுபவத்தையோ, கைவல்யத்தையோ, 
+(ஆங்காங்கு உள்ள கௌரவத்தைக்கருதி - பாஞ்சராத்ராதி ஆகமங்களையும், வேதாந்த நூல்களையும் நன்கு கற்றுணர்ந்த மஹான்கள் இந்த பரவாஸுதேவனையும், தேவியான ஸ்ரீயையும் ஒருவரே என்பதைப் போன்று காட்டுகிறார்கள்.]
 
-பரமாத்மாநுபவமாகிய மோக்ஷத்தையோ நீர் அளித்துவிட்டு, "இவன் சுமந்து வந்த அஞ்ஜலியாகிய பெரிய சுமைக்குத் தக்கபடி நாம் ஒன்றுமே தரவில்லையே, இனி என்னிடம் தருவதற்கு   
-இருக்கிறது,   
-என்ன   
-எல்லாம் 
+இப்படி அனேகவிடங்களில் லக்ஷ்மியையும் ஜகத்காரணமாகக் காட்டியபடியாலும், பூஸூக்தாதிகளில் பூம்யாதிகளுக்கு ஜகத்காரணத்வம் ஸ்பஷ்டமாகத் தெரியாதபடியாலும் "नानयोर्विद्यते परम्" என்று பராசர ப்ரஹ்மர்ஷி முடிவு செய்தபடி திவ்யதம்பதிகளான லக்ஷ்மீ-நாராயணர் இருவர் தவிர மற்றையோர் ஜகத்காரணமாக முடியாது.
 
-கொடுத்தாகிவிட்டதே" என்று சிறிதே   
-சிறிதே வெட்கத்துடன் அழகிய மணவாளன் அருகில் நீர் வெட்கப்படுவதைப் போல் உள்ளாய்\! என்னே உமது வாரிவழங்கும் தன்மை?\] 
+இப்படி நாம் (பரகாலஸ்வாமி) காட்டியபடியால் "किञ्च" என்று தொடங்கி பூர்வபக்ஷி சொன்னது அத்தனையும் மறுக்கப்பட்டது.
 
-என்பன போன்ற வேதவாக்யங்கள், ஸ்ம்ருதிகள், பூர்வாசார்ய ஸ்ரீஸூக்திகள் இவைகளை அடியொற்றி விரோதிகளைப் போக்கடித்தும் உபாயமாய் நின்றும் நமக்கு அருள்பவள் \- என்ற கல்யாணகுணங்கள் பிராட்டியிடமும் உண்டே. 
+---
 
-லக்ஷ்மியின் 
+(ल.उ.दी) यद् अपि "किञ्च" इत्य्-आदिना ब्रह्म-लक्षणस्य जगत्-कारणत्वस्य तद्-अतिरिक्त-लक्ष्म्यां सत्त्वे ऽतिव्याप्तिः, लक्ष्मी-विशिष्टस्य ब्रह्म-पद-वाच्यत्वेन परिहारश् च नोपपद्यते, निस्सम-अभ्यधिकत्वादेर् अपि तत्-प्रवृत्ति-निमित्त-अन्तर्भावेन भगवतश् च लक्ष्मी-नियन्तृत्वेन तद्-अधिकत्वात् लक्ष्म्या ब्रह्म-पद-मुख्यत्व-ायोगात्, प्रत्युत तस्याः स्व-व्यतिरिक्त-नियाम्यत्वेन अवरात्मकत्वात् तद्-अलक्ष्यत्वम् एव प्रकृत्यादिवद् इत्य् अभिहितम्। तद् अपि न मनोहरम्। 
 
-\-   
-\- 
+"सर्वत्र बृहत्त्व-गुण-योगेन हि ब्रह्म-शब्दः, बृहत्त्वं च स्वरूपेण गुणैश् च यत्रानवधिक-अतिशयं सो ऽस्य मुख्यार्थः" इति प्रपन्नस्य स्वरूपतो गुणैश् च निरतिशय-बृहत्त्वस्य ब्रह्म-शब्द-प्रवृत्ति-निमित्तस्य "भगवन्-नारायण-अभिमत-अनुरूप-स्वरूप-गुण-विभव-ऐश्वर्य-शील-आद्य्-अनवधिक-महिम-महिषी" इति वेदार्थसङ्ग्रहे च भगवद्-भाष्यकारैः लक्ष्मी-निष्ठतया अभिहितत्वेन 
 
-ஸ்வாதந்த்ர்யத்துக்கு எப்போதாவது பகவானால் தடை ஏற்படக்கூடும் என்று கூறவேண்டாம். காவுகள்: ரியுன்ள்: எங்கப்பூ என்றபடி இருவரும் ஒத்த கருத்துடையவரானபடியால் லௌகிக தம்பதிகளிடையே   
-\- 
+> "येन भावेन भवति वासुदेवस् सनातनः।
+> भवद्-भावात्मकं ब्रह्म ततस् तच्-शास्त्रगं परम्॥
+> भवान् नारायणो देवो भावो लक्ष्मीर् अहम् परा।
+> लक्ष्मी-नारायणाख्यं तद् अतः ब्रह्म सनातनम्॥"
 
-கரி கருத்து வேற்றுமை வரக்கூடுமாப்போலே இங்கு ஒற்றுமைக்கு பங்கமில்லை. 
+"ब्रह्मणि श्रीनिवासे" इति ब्रह्म-शब्दस्य लक्ष्मी-विशिष्टे प्रयोगेन ब्रह्म-शब्द-वाच्यत्वस्य अनिवार्थत्वात्, निस्सम-अभ्यधिकस्य च "ह्रीश् च ते लक्ष्मीश् च पत्न्यौ", "अप्रमेयं हि तत् तेजो यस्य सा जनकात्मजा" इति श्रुत्य्-उपबृंहणाभ्याम् "ईष्टे कश्चिज् जगत इति यः पौरुषे सूक्त उक्तस् तं च त्वत्कं पतिम् अधिजगावूत्तरश् चानुवाकः", "वेदान्तास् तत्त्व-चिन्तां मुरभिद्-उरसि यत्-पाद-चिह्नस् तरन्ति", "अपाङ्गा भूयांसो यद्-उपरि परं ब्रह्म तद् अभूत्", "कान्तस् ते पुरुषोत्तमः" इत्य्-आदि-तच्-छ्रुतद्य्-अर्थ-पर-पूर्वाचार्य-सूक्ति-पर्यालोचनेन लक्ष्मी-विशिष्ट-निष्ठत्वम् अकामेनाप्यादर्तव्यम्। 
 
-\-   
-சரியா : என்னப்பட்டபடியால் வாத்ஸல்யம் \- காருண்யாதிகள் இல்லாமல் \- ஸ்வதந்த்ரமாகப் பிராட்டி செயல்படுவது கிடையாது \- என்பதில் தாத்பர்யம் \- என்றும் சொல்லமுடியாது. கருணையற்றவரின் ஸ்வாதந்த்ர்யமும் பாதகமாகவே அன்றோ அமையும். ஸ்வாதந்த்ர்யம் பிராட்டிக்கு ஒப்பாமல் காருண்யத்தை மட்டும் இசைந்தால் \- இது ஜீவர்களுக்கு துன்பமளிப்பதாகவே அமையும். "பகவானும் பிராட்டியும் ஒற்றகருத்துடையவராயின பின்பு \- பெருமாளின் செயலை இவள் தடுப்பதில்லை" \- எனில் அதே   
-ப்ரமாணங்கள்   
-\- 
+अन्यथा लक्ष्मी-गुण-अतिशयस्य भगवद्-गुण-अतिशय-रूप-उत्कृष्ट-अवधिमत्त्वेन, "अनवधिक-अतिशय-असंख्येय-कल्याण-गुण-गणाम्", "यस्यास् ते महिमानम् आत्मन इव त्वद्-வल्लभो ऽपि प्रभुर् नालं मातुम् इयत्तया निरवधिं नित्य-अनुकूलं स्वतः", "देवि त्वन्-महिमावधिर् न हरिणा नापि त्वया ज्ञायते", "स्वानुरूप-स्वरूप-रूप-गुण-विभव-ऐश्वर्य-शील-आद्य्-अनवधिक-महिम-महिषी" इत्य्-आदिभिर् लक्ष्मी-स्वरूप-गुण-विभूत्य्-अतिशय-रूप-महिम्नो ऽनवधिकत्व-प्रतिपादनं विरुध्येत्। न चैवं [[P193]]
 
-பிராட்டிக்கு ஸ்வாதந்த்ர்யத்தைத் 
 
-86 
+च भगवन्-नियाम्यत्वं न स्याद् इति वाच्यम्। विशिष्टत्व-केवलत्व-रूप-अवच्छेदक-भेदेन निस्सम-अभ्यधिकत्व-सावधिकत्वयोर् अविरोधात्। अवरात्मत्वे स्व-व्यतिरिक्त-नियाम्यत्वं न प्रयोजकम्, किन्त्व् अणु-चेतनत्वादिकम्, अन्यथा वाल्लभ्येन लक्ष्मी-नियाम्ये भगवत्य् अवरात्मत्व-प्रसङ्गः। किञ्च, "ईश्वरी सर्व-भूतानां ताम् इहोपह्वये श्रियम्", "अस्येशाना जगतो विष्णुपत्नी", "ईशाना देवी भुवनस्य अधिपत्नी" इत्य्-आदिभिर् ईश्वरत्व-अवगमात् तद्-विरोधाद् अवरात्मत्वं बाधितम्। न चेश्वरीम् इत्य्-अत्र "पुंयोगाद् आख्यायाम्" इति स्त्री-प्रत्ययाद् ईश्वर-स्त्रीत्व-मात्रं प्रतीयत इति सर्व-भूतानाम् इत्यस्य [[आनन्वयापत्तिः|अनन्वयापत्तिः]]। न चालुक्-समासेन निर्वाहो युज्यते, सर्व-भूतानाम् ईश्वरीम् इति श्रवण-अभावात् स्त्री-प्रत्ययस्य बाहुलकतयाप्य् उपपत्तेः। तस्माद् विशिष्टत्वाकारेण लक्ष्म्याः ब्रह्म-शब्द-मुख्यार्थत्वम् एव, न गौणत्वम् इति, न ब्रह्म-लक्षणस्य जगत्-कारणत्वस्यातिव्याप्ति-शङ्का-अवकाशः। [[P194]]
 
-தெரிவிக்கிறபடியால் 
+### **लक्ष्म्युपायत्वदीपः**
 
-தடையில்லையே. 
+(ல.க) மேலும் 'किञ्च' என்று தொடங்கி – “பரம்பொருளுக்கு லக்ஷணம் ஜகத்துக்குக் காரணமாய் அமைவது. அதை லக்ஷ்மிக்கும் சொன்னால் ப்ரம்ஹ லக்ஷணத்துக்கு அதிவ்யாப்தி வரும். மேலும், லஷ்மீயையும் - பரம்பொருள் கட்டுப்படுத்துவதால் பிராட்டியைவிட பகவான் மேலானவர் என்பது தெரிய வருவதால் - பிராட்டிக்கு ब्रह्म என்ற சொல்லால் முக்யமாய் கூறும் நிலை கூடாதாதலால் மூலப்ரக்ருதி என்பது உலகு படைக்க காரணமாயினும், அது ஸ்வதந்த்ரமாய் இல்லாதபடியால் - तदलक्ष्यत्वम् எப்படி ஆகுமோ, அப்படியே இங்கும் ஆகுமே என்பது பூர்வபக்ஷிகளின் கேள்வி.
 
-“பிராட்டியின் 
+இதற்கு பதில் வருமாறு "सर्वत्र बृहत्त्वगुणयोगेन हि ब्रह्मशब्दः" என்று ஸ்ரீபாஷ்யகாரர் அருளியபடியால் बृहत्त्वम् என்பதே ब्रह्मपदप्रवृत्तिनिमित्तम् என்று ஏற்படுகிறது. இத்தகைய ப்ருஹத்த்வம் பிராட்டியிடமும் உண்டு என்பதாக "भगवन्नारायणाभिमतानुरूपस्वरूपरूपगुणविभवैश्वर्यशीलाद्यनवधिकमहिममहिषी" என்று ஸ்ரீவேதார்த்த ஸங்க்ரஹத்தில் அருளியபடியால் - இது பிராட்டிக்கும் ஏற்கும். [[P195]]
 
-எனில் \- கேட்கிறோம் \-   
-लक्ष्म्युपायत्वदीपः 
+> "येन भावेन भवति वासुदेवः सनातनः।
+> भवद्-भावात्मकं ब्रह्म ततः तच्-शास्त्रगं परम्॥"
 
-அதை   
-ஒப்புக்கொள்ள 
+[எந்தெந்த ஸ்வரூபாதிகளைக்கொண்டு பகவான் வாஸுதேவரே ஸநாதனரான பரம்பொருள் என்கிறோமோ, உலகில் இருப்பனவும், ஒரு பொருள் என்று அறியப்படுவது எல்லாமே பரம்பொருளான அவரே என்பதாக சாஸ்த்ரங்களைக் கொண்டு அறியப்படும் மிகவுயர்ந்த பொருள் அவர்-] என்றும்
 
-பாரதந்த்ர்யஸ்வபாவத்துக்கு 
+> "भवान् नारायणो देवः भावो लक्ष्मीरहं परा।
+> लक्ष्मीनारायणाख्यं तद् अतो ब्रह्म सनातनम्॥"
 
-விரோதமானபடியால் ஸ்வாதந்தர்யத்தை ஒப்பவில்லை" 
+[பிராட்டியின் கூற்று இது - தேவரீர் தேவனான நாராயணன். எல்லோரையும் விட மேலான பொருளாக நான் உள்ளேன். ஆகவே லக்ஷ்மீ-நாராயணர் என்ற ப்ரஹ்மம் தான் ஸநாதனமானது]
 
-1\."சரி புரிவள் தன:" \[ஸ்வாதந்த்ர்யம் 
+> "ब्रह्मणि श्रीनिवासे..."
 
-இல்லாமலிருக்க பரதந்த்ரையாய் 
+[பரம்பொருளான பெரிய பிராட்டியுடன் கூடிய திருவேங்கடமுடையானிடம் அடியேனுக்கு பக்தி ரூபாபன்னமான ஜ்ஞானம் எப்போதும் இருக்கட்டும்]
 
-லக்ஷ்மிக்கு இயல்பா?\] \- அல்லது \-   
-இருப்பது 
+என்பன போன்றவற்றில் ब्रह्मशब्दम् லக்ஷ்மீவிசிஷ்டனையே சொல்லும் திறம் பெற்றது - என்று காட்டப்பட்டதே.
 
-2\. qd44Á q1? \[பகவத் பாரத்ந்த்ர்யம் மட்டிலுமா?\] 
+இவருக்கு ஸமமானவர்களோ, மேலானவர்களோ இல்லை என்பதை - "ह्रीश्च ते लक्ष्मीश्च पत्न्यौ" [எம்பெருமானே! தேவரீருக்கு பூமிப்பிராட்டியும் பெரிய பிராட்டியாரும் பத்னிகள் இல்லையா?] என்று ச்ருதி காட்டியது. இந்த ச்ருதியை "अप्रमेयं हि तत् तेजो यस्य सा जनकात्मजा" [ஜனக மஹாராஜனின் திருக்குமாரத்தியானவள் எவருக்கு இல்லாளோ அந்த ஜானகியினுடையவும் ஸ்ரீராமனுடையவும் தேஜஸ் இவ்வளவு தான் என்று ஒருவராலும் அளவிட்டுக் கூறமுடியாது] என்று ஸ்ரீவால்மீகி பகவான் உபப்ரும்ஹணம் செய்தருளினார். [[P196]]
 
-என்று. 
+மேலும் -
 
-முதல் பக்ஷம் தகாது. லஷ்மீஸ்வாதந்த்ர்யம் பல ப்ரமாணங்களால் ஸித்திக்கிறபடியால் 
+> "ईष्टे कश्चिद् जगत इति यः पौरुषे सूक्त उक्तः
+> तं च त्वत्कं पतिम् अधि जगौ उत्तरश्चानुवाकः" *(श्रीगुणरत्नकोशम् १३)*
 
-பொருந்தாது. 
+[இந்த உலகிற்கெல்லாம் எவர் தலைவர் – இந்த ஐச்வர்யம் யாவும் பகவானுடையனவே என்று புருஷஸூக்தத்தில் யாரைக்காட்டியதோ- அவர் தேவரீருக்கு (லக்ஷ்மிக்கு) கணவர் என்பதாக உத்தரநாராயணாநுவாகம் விளக்கி கூறியதே!] என்றும்,
 
-இரண்டாவது   
-பக்ஷமும்   
-सत्यन्तविशेषणम् 
+> "वेदान्ताः तत्त्व-चिन्तां मुरभिद्-उरसि यत्-पाद-चिह्नस् तरन्ति" *(श्रीगुणरत्नकोशम् ४)*
 
-நேரில்லை. 
+[பரம் பொருள் எது? என்ற தத்துவ சிந்தனார்த்தம் செய்ய முற்பட்ட வேதாந்தங்கள் - எந்த பரமாத்மாவின் திருமார்பில் பெரியபிராட்டியாரின் திருவடிகள் பட்டு கிணங்கள் ஏற்பட்டு உள்ளனவோ- அவனே- அந்த முராரியே பரம் பொருள் என்று முடிவுக்கு வந்தன.] என்றும்,
 
-ஒரேவிஷயமாகில் அதில் ஒரேநேரத்தில் ஒருவருக்கு 
+> "अपाङ्गा भूयांसो यद्-उपरि परं ब्रह्म तद् अभूत्" *(श्रीगुणरत्नकोशम् ३०)*
 
-Aமும், அதே நேரத்தில் பாரதந்த்ர்யமும் சேராது. இங்கு விஷயபேதமிருப்பதால் பொருந்தலாமே\! 
+[பெரிய பிராட்டியாரின் கடைக்கண் பார்வைகள் எந்த எம்பெருமானின் மேல் அதிகமாக விழுந்தனவோ அவர் பரப்ரஹ்மம் என்ற நிலைக்கு இலக்கானார்] என்றும்,
 
-\- 
+> "कान्तस्ते पुरुषोत्तमः" *(चतुश्श्लोकी १)*
 
-\-   
-இந்த தோஷத்தைப் போக்க இருவருக்கும் இரண்டும் சேருமாயினும், பகவத்ஸ்வரூப லக்ஷ்மீ ஸ்வரூபங்களைப் பிரித்துக் காட்ட இப்படி இசைவது தேவையானபடியால் இப்படிக்கொள்கிறோம் \- என்று கூறினால் அதுவும் தகாது. : HRUTH என்றாலும் “4 : 4I: Hg: f≥R: HH:" (ஸ்தோத்ரரத்னம்) \[மென்மை, அருள்வது, இனிமையாய் நடந்துக்கொள்வது, எடுத்த முடிவிலிருந்து மாறாமை, எல்லோரையும் ஸமமாக பாவிப்பது என்பவை இருவருக்கும் பொதுவானவை என்றதாலும்\], ல் 3 \[பிராட்டி கூறுவது இது \- ப்ரம்ஹாவை த்வேஷித்து வெறுத்தவரான 
+[ஜகந்மாதாவே! உனது பிரியமான கணவன் புருஷோத்தமனாயிற்றே] என்பன போன்ற ச்ருத்யர்த்தத்தை விளக்க வந்த பூர்வாசார்ய ஸ்ரீஸூக்திகளை நன்கு ஆராய்ந்தால் பரம் பொருளாகும் நிலை லக்ஷ்மியுடன் கூடிய பகவானுக்கே தகும்- என்பதை விருப்பமில்லாவிடினும் ஒப்பியே ஆக வேண்டும். இப்படி ஒப்பவில்லை என்றால் பூர்வாசார்ய ஸ்ரீஸூக்திகள் [[P197]] விரோதிக்கும். லக்ஷ்மியின் குணாதிசயங்களைவிட பகவானின் குணாதிசயங்கள் உத்க்ருஷ்டங்கள் என்று கொண்டால் अनवधिकातिशयासंख्येय-कल्याणगुणगणाम् [அதிகமாயும், அதிசயமாயும் எண்ணுக்கடங்காமலும் இருக்க முடியாத அளவற்ற அதிசயமான எண்ணமுடியாத - மக்களுக்கு நன்மைகளையே அருளக்கூடிய குணக்குவியல்களை உடையவள் பெரிய பிராட்டி இது சரணாகதிகத்யம் தொடக்கத்தில்] என்பன போன்ற ஸம்ப்ரதாய கூடஸ்த்தர்களின் திருவாக்குகளுக்கு விரோதம் வரும்.
 
-87   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> "यस्यास्ते महिमानम् आत्मन इव त्वद्वल्लभोऽपि प्रभुः
+> ना लों मातुम् इयत्तया निरवधिं नित्यानुकूलं स्वतः" *(चतुश्श्लोकी ३)*
 
-சிவனுக்கு   
-1   
-த்ரிபுரஸம்ஹாரம் அவர் செய்தபோது அஸுரர்களை கொல்வதற்காக வில்\-அம்பு இவைகளை நானே ஏற்படுத்தினேன்) "Ayei க ईश्वरी‍ सर्वभूतानां ता (त्वा) मिहोपह्वये 
+[லோகநாதனான எம்பெருமானின் மஹிஷியே! உன் வல்லபனான ஸர்வஜ்ஞனான பகவானாலும்- உன் மஹிமைகளை 'இவ்வளவுதான்" என்று அளவிட்டுக் கூறமுடியாது”. "தான் தன் பெருமை அறியார்" என்றபடி அவர் பெருமைகளும் எப்படி அளவிறந்தனவோ- எப்போதும் ஜீவராசிகளுக்கு அநுகூலத்தையே செய்வாரோ – அப்படியே நீரும், உமது கல்யாணகுணங்களும்]
 
-\-   
-(ஸ்ரீஸூக்தம்) \[நல்வாஸனைகள் நிறைந்த பொருள்களில் நித்யவாஸம் செய்பவளாயும்,   
-ஒருவராலும்   
-போரிட்டு வெல்லமுடியாதவளும், எப்போதும் எல்லாவகையான நிறைவுகள் பொருந்தியவளும், பசுமாட்டுகோமயத்தில் வஸிப்பவளும் அல்லது பட்டத்து யானைகளாகிய உயர்ந்தவாஹனத்தில் உலா வருபவளுமாகவும், அல்லது கரிகிரி என்னப்பட்ட காஞ்சியிலிருக்கும் அத்திகிரிக்குத் தலைவரான ஸ்ரீதேவாதிராஜனின் பட்டமஹிஷியான பெருந்தேவி (HUèc)த்தாயார் என்னப்பட்டவளாயும், ஸமஸ்தபூதஜாதங்களுக்கும் தலைவியுமான அத்தகைய பெரியபிராட்டியாரான ஸ்ரீயை இங்கு நல்லநேரத்தில் நன்மைகளை அளிக்க அழைக்கிறேன் \- என்று பொருள்.) என்பன போன்ற ஸ்ருதிவாக்யங்கள் தெரிவித்த கல்யாண குணங்கள் இருவருக்கும் பொதுப்படையாய் அமைந்தவை என்று பெரியோர்கள் திருவுள்ளப்படுவதால் இருவரின் ஸ்வரூபபேத ஸூசகமாக இது ஆகாது. 
+> "देवि त्वन्-महिमावधिर् न हरिणा नापि त्वया ज्ञायते" *(श्रीस्तवम् ८)*
 
-\-   
-பூர்வபக்ஷி எடுத்த பட்டபராரைரின் சுலோகத்திலும் 
+[அகில ஜகந்நாயகியான பெரியபிராட்டியாரே! தேவரீருடைய மஹிமைகளின் எல்லை – ஸர்வஜ்ஞனான ஸ்ரீஹரியாலும்-உம்மாலுமே அறியமுடியாதே]
 
-\-   
-\-   
-युवत्वादौ   
-\- 
+> "स्वाभिमत-स्वानुरूप-स्वरूप-रूप-गुण-विभव-ऐश्वर्य-शील-आद्य्-अनवधिक-महिम-महिषी" *(वेदार्थसङ्ग्रहः)*
 
-jsfq என்ற 
+[எம்பெருமானே! தேவரீருக்கு ஏற்றபடியான ஸ்வரூபம், திருமேனி, கல்யாணகுணங்கள், நித்யவிபூதி-லீலாவிபூதி என்ற விபூதிகள், செல்வம், வாத்ஸல்யம் முதலான [[P198]] நற்பண்புகள், இவைகள் அளவு கடந்த மஹிமைகள். இவைகளுடன் கூடின திவ்யமஹிஷி அன்றோ தேவரீர் தேவிகள்-] இது போன்ற பலவசனங்களால்-
 
-உலகில் புருஷர்களிடம்   
-\- 
+லக்ஷ்மீஸ்வரூபம் - திருமேனி - வைபவங்கள்-ஸொத்து-முதலானயாவும்- கல்யாணகுணங்கள்- ஒருவருக்கும் அமையவாகாத நிலையில் உள்ளன. இவையாவும் விரோதிக்கும்.
 
-\-   
-பெரும்பாலும் காணப்படுவதான \- பிறருக்கு வயப்படாமை எதிரிகளை அழிப்பது எடுத்த முடிவில் நிலையாயிருப்பது முதலானவைகளையும், பெண்களுக்கு மட்டுமே என்றவை போன்று உள்ள மென்மை கணவர் அபிப்பிராயத்திற்கு   
-\- 
+இப்படிக்கொண்டால் "பகவானின் கட்டுப்பாட்டில் பிராட்டி இருக்கிறாள்" என்ற வசனங்களை எப்படி பொருந்த விடுவது? என்ற ஸந்தேஹம் வேண்டாம். சாஸ்த்ரகாரர்கள் - "विशिष्टत्व-केवलत्व-रूप-अवच्छेदक-भेदेन निस्समाभ्यधिकत्वस्य सावधिकत्वस्य च अविरोधः" என்றனரே. அதே இங்கும் பதில். அதாவது श्रीविशिष्टत्वरूपेण जगत्कारणत्वम् - भगवति। भगवद्विशिष्टत्वरूपेण जगत्कारणत्वं - लक्ष्म्याम्। இப்படிப்பட்ட अवस्था என்ற நிலை மற்றையோர் ஒருவருக்கும் ஏற்படவழியில்லை. அதனை தர்க்க ரீதியாக பரிஷ்கரித்து औपनिषदी सरस्वती *(श्रीवरदराजस्तवम् १)* என்பதை ஸ்வாமி விளக்கும்போது நாம் (ஸ்ரீவத்ஸாங்காசார்ய ஸ்வாமி) ஸம்ஸ்க்ருதவ்யாக்யானத்தில் விரிவாகக் காட்டியுள்ளோம்.
 
-ணங்க நடந்துக் கொள்வது \- காருண்யம் என்பனவைகளை   
-\-   
-பொறுமை 
+ஆத்மாக்களில் अवरात्मत्वम् = தாழ்ந்த நிலையில் இருக்கும் ஆத்மா - என்பதற்கு स्वव्यतिरिक्तनियाम्यत्वम् என்பது காரணமில்லை. பின் எது? என்றால் अणुचेतनत्वादिकम्. ஜீவர்கள் யாவருமே - அணுபரிமாண முள்ளவர்களானபடியால் ஸர்வவஸ்துக்களிலும் உள்ளும்- புறமும் வ்யாபிக்கமுடியாது. இது ஸ்ரீபாஷ்யாதிகளில் ஸ்பஷ்டம். பிராட்டி அவராத்மையில்லை. vibhūவே. இது "ईश्वरी सर्वभूतानां त्वामिहोपह्वये श्रियम्", "अस्येशाना जगतो विष्णुपत्नी", "ईशाना देवी भुवनस्याधिपत्नी" என்பன போன்ற ச்ருதிகள் பிராட்டியை விப்வீ = எங்கும், எதிலும், எப்போதும் பரவி [[P199]] காட்டுகிறது. எம்பெருமான் எப்படி "सर्वस्य वशी सर्वस्येशानः" என்னப்பட்டானோ அப்படியே பிராட்டியும். இதை ஆழ்வாரும் அருளிச் செய்தார் “அகலகில்லேன் இறையுமென்று அலர்மேல் மங்கை உறை மார்பா” என்றபோது இறை=ஒரு கணமும் பிராட்டி எம்பெருமானை விட்டுப்பிரிவதில்லை- என்பதைக் காட்டியருளினார்.
 
-நீர் வெளியிடுகிறீர். स्थिरत्वम् 
+"அனைத்துலகுமுடைய அரவிந்தலோசனனை - தினைத்தனையும் விடாதே" - என்றபோது – தினைத்தனையும்– தினை என்கிற மிகச்சிறிய தான்யத்தை வைக்கத் தேவையான இடமும் விடாமல் பிராட்டி தேசத்தால் எங்கும் பகவானைப் போல் வ்யாபித்திருக்கிறார் – என்பதை ஆழ்வார் காட்டியருளினார். சதுச்சுலோகிபாஷ்யத்தின் நமது தமிழ் விரிவுரையில் மற்றவற்றைக் காண்பது.
 
-\-   
-முதலானவை பிராட்டியிடம் உள்ள போதிலும் அவைகளை மறைத்துக் கொண்டு, ஆஸ்ரிதர்கள் விலகிச் செல்லாமல் அண்டிவருவதற்கு ஏற்ற மென்மை 
+வால்லப்யத்தால் பிராட்டி எம்பெருமானிடம் அவனையும் நியமிக்கும் நிலைபோல் – சில நேரம் இருக்கும், இதனால் எம்பெருமானுக்கு பரதந்த்ரத்வமில்லை. இனி ईश्वरीम् என்று உள்ளபோது ईश्वरस्य स्त्री என்று பொருள் கொண்டு "पुंयोगादाख्यायाम्" என்ற ஸூத்ரத்தால் ஙீப் ப்ரத்யயம் இங்கு வந்ததாக தோன்றுகிறதே. இப்படி இருக்க ஸர்வலோகநியந்த்ரீ என்பது எப்படி கிடைக்கும்? என்பது ஒரு ப்ரபலமான கேள்வி.
 
-88   
-முதலானவைகளை   
-लक्ष्म्युपायत्वदीपः 
+இதற்கு பதில்: இப்படிக் கொண்டால் सर्वभूतानाम् என்பதை எங்கே அந்வயிப்பது? ஆகவே ஸர்வபூதங்களுக்கும் இவளே ஈச்வரீ என்பதே ச்ருதிக்கு திருவுள்ளம் என ஏற்படுகிறது. सर्वभूतानाम् என்றபோது ஷஷ்டீபஹுவசனத்துக்கு अलुक समासम् கொள்வோமே என்னவும் முடியாது. நீங்கள் கூறியபடி இங்கு அலுக்ஸமாஸம் வரவேண்டுமானால் - सर्वभूतानामीश्वरीम् என்று இருந்திருக்க வேண்டும். அப்படியில்லையே. ஸ்த்ரீ [[P200]] ப்ரத்யயமானது बाहुलकत्वात् बाहुलकं प्रकृतेः तनुदृष्टेः प्रायसमुच्चयनादपि तेषाम्, प्रायसमुच्चयनात्. ச்ருதியில் இருப்பதற்கு உள்ளபடி பொருள் கொள்வதே வையாகரணர் கையாண்ட முறை. நாமாக இஷ்டத்துக்கு விளையாடக்கூடாது. ஆகவே ஜகத்காரணத்வம் ப்ரஹ்மலக்ஷணம் என்பது லக்ஷ்மியிடமும் பொருந்தும். ஒரு குற்றமுமில்லை.
 
-வெளியிடுகிறீர் \- என்றே அந்த சுலோகத்துக்கு கருத்து. 
+---
 
-இவைகளையே புருஷகாரத்வம் 
+(ल.उ.दी) ननु यदि लक्ष्म्यास् सर्वनियामकत्वेन भगवन्नियामकत्वम् अपि अभ्युपगम्येत, तर्ह्य् उभयोस् सर्वनियामकत्वेन परस्परनियामकत्वेन चेश्वरद्वित्वापत्तिः, उभयोर् अपि परस्परनियाम्यत्वेन निस्समाभ्यधिकत्वस्य अभावाद् उभयोर् अप्य् अनीश्वरत्वापत्तिश् च, पतिपत्नीभावानुपपत्तिश् च स्याद् इति चेत्, “क्षरात्मानावीशते देव एकः” इति श्रुत्या ईश्वरैक्यावगमेन तद्विरुद्धम् ईश्वरद्वित्वम् इति ह्य् ईश्वरद्वित्वम् आपादयतो ऽभिप्रायः, स चानुपपन्नः, देवशब्दस्य “श्रद्धया देवो देवत्वम् अश्नुते” इति श्रुत्यन्तरानुसारेण च लक्ष्मीविशिष्टभगवद्वाचकतया तत्समानाधिकरणैकशब्दस्य विशिष्टैक्यपरतया विशिष्टव्यतिरिक्ते ईश्वरत्वव्यवच्छेदकत्वाद्-विशिष्टस्येश्वरत्वाङ्गीकारे विरोधाभावात्। अन्यथा लक्ष्म्यैश्वर्यप्रतिपादकपूर्वोक्तप्रमाणसम्प्रदायविरोधो दुर्निवारस् स्यात्। 
 
-போன்று பிரித்துக்காட்டினார்கள். 
+न च सर्वनियामकत्वं भगवन्नियामकत्वापादकम् “सर्वस्य वशी सर्वस्येशानः” इत्यत्र सर्वशब्दस्य “प्रधानपुरुषेश्वरः”, “क्षरात्मानावीशते देव एकः”, “उतामृतत्त्वस्येशानः[^201_1]” इत्यादिप्रमाणानुसारेण योग्यतया च विधीयमानेश्वरत्वाधिकरणव्यतिरिक्तकृत्स्नपरतया भगवत्सङ्ग्राहकत्वाभावात्। 
 
-என்பதை   
-\-   
-तदभावः M: என்பதைப் 
+न चैवं भगवतो लक्ष्मीशत्त्वाभावप्रसङ्गः, “ह्रीश्च ते लक्ष्मीश्च पत्न्यौ” इति लक्ष्मीनिरूपितेश्वरत्वाङ्गीकारे विरोधाभावात्, पुरुषकारत्वमात्राङ्गीकारपक्षे ऽपि श्रियो वाल्लभ्येन भगवन्नियामकत्वाङ्गीकारेण भगवति निस्समाभ्यधिकत्वाभावप्रयोजकत्वे तन्नियाम्यत्वावश्यंभावेन तस्य निस्समाभ्यधिकत्वाभाव- [[P201]] प्रयुक्तानीश्वरत्वापत्तेर् दुर्वारत्वात्। [[P202]]
 
-எதிரிகளை அழிக்க எம்பெருமான் எப்போதும் தாங்கிவரும் ஐந்து ஆயுதங்களும் பிராட்டிக்கும் உண்டு सामान्यभोग्यमपि என்று ஸ்ரீபட்டரே காட்டியருளினார். \-4- என்றதால் கௌஸ்துபமும் \[ஜீவாத்மாபிமானி தேவதையானது இது\] வைஜயந்தி என்ற வனமாலையும் பிராட்டிக்கும் ப்ரியமானதே. என்று இதை 
+---
 
-ஸ்ரீபட்டரே ஆடுவதைப்போன்று பற்றிக்கொண்டு   
-காட்டியருளினார்.   
-ஊஞ்ஜல் 
+(ல.க) கேள்வி: எல்லோரையும் கட்டுப்படுத்துமவள் பெரியபிராட்டியார் என்று கொண்டு இப்படி கூறமுற்பட்டால் பகவானை நியமிப்பதும் பிராட்டிக்கு ஏற்கவேண்டி வரும். இவளுக்கு நியாமகன் பகவான் என்பதை எல்லோரும் ஒப்பினோம். இப்போது இருவருக்கும் இருவரும் நியாமகர்கள் என்று ஏற்படுகிறபடியால் உலகிற்கு இரண்டு ஈச்வரர்கள் என்று ஒப்பியதாகும். விநிகமனா விரஹேண - இருவருமே உலகிற்கு தலைவரில்லை என்றும் கூற வேண்டிவரும். பதி-பத்னிபாவமும் ஒப்பியதாக ஆகாது. "क्षरात्मानाव ईशते देव एकः" (க்ஷரம் என்னப்பட்ட மூலப்ரக்ருத்யாதிகளையும், ஜீவராசிகளுக்கும் தலைவராய் இருந்து நடத்திக்கொண்டு போகுமவர் வாஸுதேவனான பரமாத்மா ஒருவரே) என்பன போன்ற ப்ரமாணங்களுக்கு விரோதமும் வருமே?
 
-கைகளால்   
-வனமாலையைக் 
+பதில்: இது நேரில்லை. 'देव एकः' என்றபோது देवः என்ற சொல் "श्रद्धया देवो देवत्वमश्नुते" என்று கீழே எடுத்துவிளக்கிய ச்ருதியின்படிக்கு லக்ஷ்மீவிசிஷ்டனையே தேவனாகக் கூறுகிறது. ஸமானாதிகரணமான एकः என்ற சொல்லும் அதற்கு மாகவே கொள்ளவேண்டும். विशिष्टैक्यम् என்பதை எப்படி देव एकः என்ற சொல் தடுக்காதோ அப்படியே लक्ष्मीविशिष्टत्वम् என்பது भगवद्-गुण-अतिशय-असंख्येय-इत्यादि-गुण-विशिष्टत्वम् என்பதால் இரு குற்றமுமில்லை. [[P202]]
 
-ஸ்ரீஹரியின்   
-புஜாந்தராளத்தில் 
+பகவத் ஸ்வரூபநிரூபகமான தர்மங்கள்-- ज्ञानम्, शक्तिः, बलम्, ऐश्वर्यम्, वीर्यम्, तेजः. இவை மட்டிலும் இல்லை, இவைகள் ப்ரதானமானது. இதை "சிங்கள் உகளிலும் வருகிறகணக்கிலே அவற்றில் மான இந்த விசேஷணமும் எfபுகளிலும் 3HPபுபு| இது தான் cadlk fயையும் பண்ணிக்கொண்டு யான த்துக்கும் Aகமாம்” என்று மூலமந்த்ராதிகாரத்தில் ஸ்ரீஸ்வாமி தேசிகன் அருளியதை இங்கு அநுஸந்திப்பது.
 
-விளையாடிவருவதற்கு இது பயன்படுகிறதே\! அதனால் qaங்களும் களே.   
-காயத்ரீதேவதையை த்யானிக்கும் போது, "க हेमनील धवलच्छायैः मुखैः त्रीक्षणैः युक्ताम् इन्दुकलानिबद्धमकुटां तत्त्वार्थवर्णात्मिकाम्। गायत्रीं वरदाभयाङ्कुशकशाः शुभ्रं कपालं गुणं शङ्खं चक्रम् அரிவு 4" என்ற பௌராணிக சுலோகத்தை அநுஸந்திக்கும்படி தர்மஸாஸ்த்ரகாரர்கள் தெரிவித்தவை. இது   
-ப்ரம்ஹு\-ருத்ர\-ஸ்ரீவிஷ்ணு என்ற மூன்று மூர்த்திகளுக்கும், அவரது மனைவிமார்களாக இதிஹாஸ- புராண\-ஆகமாதிகளில்   
-ப்ரஸித்தரான ஸ்த்ரீதேவதைகளுக்கும் உடைய அவயவங்களும், ஆயுதங்களும், பூஷணாதிகளுமாகும். இப்படி ஒரு விசித்ரமான உருவுடன் ஒரு தேவதை இருக்கமுடியாதே? இதை எப்படி நம்புவது? இது ஸர்வஸமரஸவாதிகளான சிலரால் பண்சாத் காலத்தில் கல்பிக்கப்பட்டதா? என்று சிலருக்கு எண்ணத்தோன்றும். இவைகளுக்கு பதிலை 
+இப்படி பெரியபிராட்டியாருக்கு சாஸ்த்ரங்களால் தெரிவிக்கக்கப்பட்ட பெருமைகளை ஒப்பாவிடில் ப்ரமாணவிரோதத்துடன் – ஸம்ப்ரதாயவிரோதமும் வரும்.
 
-89   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+---
 
-ஸ்ரீஸ்வாமி தேசிகனின் சது: சுலோகீபாஷ்யத்தில் 
+[^201_1]: पुरुषसूक्ते
 
-காணலாம். 
 
-பதவியை அடைந்தார்கள் 
+பிராட்டிக்கு सर्वनियामकत्वम् உண்டு என்பது சாஸ்த்ரவிரோதமில்லாத இடங்களிலேயே ஆகக்கடவது. "सर्वस्य वशी", [எல்லாவற்றையும் தன் வசத்தில் கொண்டுள்ளவர், எல்லாவற்றையும் கட்டுப்படுத்துமவர்] என்ற போது सर्वम् என்ற சொல் "प्रधानपुरुषेश्वरः" [மூலப்ரக்ருதி, ஜீவர்கள் இவர்களுக்குத் தலைவர்], "क्षरात्मानाव ईशते देव एकः" [க்ஷரம் என்னப்பட்ட மூலப்ரக்ருத்யாதிகளையும், ஜீவவர்கங்களையும் தான் ஒருவராகவே இருந்து கட்டுப்படுத்துபவர்], "उतामृतत्त्वस्येशानः" [மேலும் ஜீவர்களுக்கு மோக்ஷமளிக்கும் தலைவரும் அவரே] என்பன போன்ற ப்ரமாணங்களை அநுஸரித்து இவைகளுக்குத் தகுந்தபடியான ஈச்வரத்வமே தவிர - அதைவிட வேறானது இல்லை - என்றபடியால் - இதில் பிராட்டியின் ஆளுகைக்கு உட்பட்டவன் பரமாத்மா என்பது ஏற்படாதே. 
 
-\-   
-\- 
+இப்படியானால் பகவானுக்கு லக்ஷ்மீபதித்வமில்லாமல் போய்விடுமே - என்று எண்ண வேண்டாம். [[P203]]
 
-\-   
-என்பது   
-\- 
+### **लक्ष्म्युपायत्वदीपः**
 
-\-   
-ப்ரம்ஹு\-ருத்ராதிகள் புண்யபாபங்களுக்கு உட்பட்டு, சில நல்ல கார்யங்களைச் செய்து எம்பெருமானின் திருவாராதனமஹிமையால் மீண்டும் தங்கள் தங்கள் "கரிசி\-சகரின் f\_48வு: ங்\--ரி JH||" (இதிஹாஸ ஸமுச்சயம் 13-8) என்பதால் ஏற்படுகிறது. பல்லாயிரம் கோடியுகங்கள்கணக்காய் ஸ்ரீவிஷ்ணுவை ஆராதித்து தாமரையோனான ப்ரம்ஹா மீண்டும் மூவுலகுக்கும் ப்ரம்ஹாவாக இருக்கும் நிலையை அடைந்தார் என்பது இதன் கருத்து. இதேபோல் \- ரிக்வேதத்தில் 7–40-5ல் “4äèபு: सर्वमेधे महात्मा हुत्वाऽऽत्मानं देवदेवो बभूव। विश्वान् लोकान् व्याप्य विष्टभ्य कीर्त्या विराजते द्युतिमान् कृत्तिवासाः” என்று உள்ளது. எம்பெருமானைக் குறித்து   
-தமது உடலுட்பட எல்லாவற்றையும் ஹோமம் செய்வது என்ற யாகத்தில் மஹாதேவன் என்னப்பட்ட சிவனார் தன்னையே ஹோமமாகச் செய்து   
-செய்து தேவதேவனானார். இப்போது உலகினர் அனைவரையும் விட ஒளி பொருந்தியவராய் எங்கும் அஷ்டமூர்த்தியாகி வ்யாபித்து மிக்க ஒளி **\-** புகழுடன் விளங்கிவருகிறார் \- என்று இதன் பொருள். இது போன்று \- ப்ரம்ஹு\-ருத்ராதிகளைப் பற்றிய அனேகவசனங்கள் உண்டு. இவர்களுக்கே இந்நிலை என்றால் இவர்களின் மனைவிமார்களுக்கும் இப்படி க|4 \= உலகினரால் கொண்டாடத்தக்க நிலை கூடுமே. 
+"ह्रीश्च ते लक्ष्मीश्च पत्न्यौ" என்ற வசனங்களால் பகவானுக்கு பத்னீநிரூபிதேச்வரத்வத்தை ஒப்புக்கொள்வதில் முரணில்லை.
 
-...   
-..   
-\-   
-ஸ்ரீந்ருஸிம்ஹதாபநீயோபநிஷத்தில் \- " “क्षीरोदार्णवशायिनं சரி...... சாரி .. எர் எது" என்றுள்ளது. த்தில் நன் R என்பன போன்ற மந்த்ரங்களில் சிவனின் பெருமைகள் காட்டப்பட்டன. ப்ரம்ஹாவின் தலையை சிவன் கிள்ளியது இங்கு ஸ்பஷ்டம். பின் இதே ஸூக்தத்தில் 
+பிராட்டிக்கு புருஷகாரத்வம் மட்டிலுமே - என்று ஒப்பினவர்களுக்கும், லக்ஷ்மிக்கு தமது வால்லப்யாதிசயத்தால் பதிவிஷயத்தில் நியாமகத்வம் உண்டு என்று ஒப்ப வேண்டிவருவதால் - புருஷகாரத்வமும் ஸித்திக்காது. அதனால் निस्समाभ्यधिकत्वम् என்பது சாஸ்த்ரீயவிஷயமாகவே கொள்ளவேண்டும்.
 
-90 
+> "यथा रघुपतेर् भार्या यथा सूर्ये प्रभा तथा"
 
-\-   
-लक्ष्म्युपायत्वदीपः 
+[ராகவனான ஸ்ரீராமபிரானை விட்டுப் பிரிக்கமுடியாதவள் நான் – ஸூர்யனை விட்டு எப்படி ஒளி பிரிக்க முடியாதோ அப்படி] [இது ஸீதாபிராட்டியின் திருவாக்கு],
 
-“श्रियं देवीम् औपलाम् अम्बिकां गाम् षष्ठीं जयाम् इन्द्रसेनाम्"   
-\-   
-என 
+> "अनन्या हि मया सीता भास्करेण प्रभा यथा"
 
-உள்ளது. 3ர்பு14 \= கற்களின் குவியலான பெருமலையான 
+[என்னைவிட்டுப் பிரிக்கமுடியாதபடி ஒத்தக்கருத்துடையவள் ஸீதை – இது ஸ்ரீராமபிரானின் திருவாக்கு] என்பன போன்றவற்றால் தெரிவிக்கப்பட்ட अनन्यत्वम् என்பது - ஸ்வரூபைக்யமில்லை. அப்படிகொண்டால், பிராட்டியையும் பெருமாளையும் வெவ்வேறாகத் தெரிவிக்கும் பலப்ரமாணங்கள் விரோதிக்கும். अपृथक्सिद्धत्वम् ஒருவரின்றி மற்றொருவரில்லை என்கிற நிலையுமில்லை. நம் [[P204]] ஸித்தாந்தத்தில் பகவானைவிட अपृथक्सिद्धः என்பதை ஸர்வவிதமான சேதனாசேதனங்களுக்கும் ஸாதாரணமாக ஒப்பியுள்ளோமே. ஆகவே பிராட்டியை अनन्यत्वम् என்றது - "अन्यत्वप्रयुक्ताः दोषाः न भवन्ति" வெவ்வேறு (மாறுபட்ட) கருத்துக்களை உடையவர்கள் என்றால் ஏற்படும் குற்றமில்லாதபடி ஒத்தக்கருத்துள்ளவர்கள் என்றே கொள்ளவேண்டும். இப்படி ஸித்தாந்தமானபடியால் - பிராட்டி தனது வால்லப்யாதிசயத்தால் பகவானை நியமிக்க நேரும் ஸந்தர்பங்களிலும் "अन्यनियाम्यत्वप्रयुक्तदोषः न भवति" என்றே கருத்து.
 
-ஹிமவானின்   
-மகளை   
-அரியுக என்ற சொல் பு 
+---
 
-चण्डिकाऽम्बिका என்று கோசங்களில் பார்வதீபரமாகச் சொல்லப்பட்டது. इन्द्रसेनाम्   
-என்பதும் இந்த்ரன் 
+(ल.उ.दी) तर्हि "सीता मयानन्या" इत्य्-उक्त्या "अहं सीतानन्यः" इत्य्-अर्थस्यापि समान-संविद्-संवेद्यतया प्रतीयमानत्वे भगवन्-नियाम्यत्वे ऽप्य् अन्य-नियाम्यत्व-प्रयुक्त-दोष-अभावस्य लक्ष्म्या समानत्वेन अन्य-नियाम्यत्व-प्रयुक्त-निस्सम-अभ्यधिकत्वाभावस्य तत्-प्रयुक्त-अनीश्वरत्वस्य च श्री-श्रीशयोर् उभयोर् अप्य् आपादान-अनवकाशात्। 
 
-அஸுரர்களுடன் போரிடும் போது ஸேனையின் முன்னே பார்வதி சென்றதாய் புராணங்களில் விளக்கப்பட்டது. இப்படி அனேகம் உண்டு. ஆகவே பெரியபிராட்டி எம்பெருமான் என்ற திவ்யதம்பதிகளுக்கே பெருமை என்பது எப்படி? என்று கேள்வி. 
+अत एव न पत्नीत्वाविरोधात् पति-पत्नी-भाव-अनुपपत्तिर् अपि, वाल्लभ्येन पति-नियामकत्वे ऽपि तेन पत्नी-नियाम्यत्वे ऽपि पतित्व-विरोधाभावाच् च, प्रत्युत वाल्लभ्येन नियाम्यत्व-नियामकत्वयोः पति-पत्नी-भाव-उत्कर्ष-आवहत्वात्। [[P205]]
 
-பதில்:\-   
-இதற்கு   
-தூரிhத்திலும் தாபநீயோபநிஷத்திலும் உள்ள சொற்களை Aq4:, nira Adu: என்று ஆசார்யர் காட்டியருளினார். (i) 3: வுக: (ii) 3 \= நிச்சயமாக H லக்ஷ்மியே \- என்று இருபடி இந்தசொல் பிராட்டியைக்கூறும். J HI : என்று நிருக்தம். இம்மூன்று சொற்களும் பிராட்டியைக் கூறும். இது கொச்சை வார்த்தையில் உம்மாச்சி என பாலர்களால் வழங்கப்படுகிறது. ஒருவருக்கு தபால் எழுத முற்படும் போது ஸ்ரீ: என்று மேலே எழுதுவார்கள். அந்த எழுத்து வடமொழியான படியால் தமிழில் 'உ' எழுதத்தொடங்கினர். ஆகவே இவை லக்ஷ்மீவாசகமான சொற்கள். ஆகவே   
-புரியான எம்பெருமானே. ஆயுஷ்யஹோமத்தில் வரும் க்ருதஸூக்தத்தில் கடைசீயில் ள்asagasa: என்று உள்ளபடியால் ஸ்ரீஹரியையே அது குறிப்பிடும். g ஏ என்ற போதும் ஸ்ரீஹரியே ஆயுளை அருள்பவன் என்பது ஸித்தம்.   
-\=   
-என 
+இப்படி கூறினாலும், "सीता मयानन्या" என்றால் "अहं सीतानन्यः" என்ற பொருள் தானே கிடைப்பதால் = அதற்கு ஸமானமான அறிவால் அறியப்பட வேண்டியவன் பகவான் என்ற பொருள் கிடைப்பதால் லக்ஷ்மிக்கு பகவானின் நியமனத்துக்கு உட்பட்டநிலையைக் கொண்டாலும், வேறொருவரின் நியமனத்துக்கு பிராட்டி கட்டுப்பட்டவள் என்பது இல்லை என்ற நிலை ஸமானமாம். இதனால் अन्यनियाम्यत्वप्रयुक्त- निस्समाभ्यधिकत्वाभावम्, அதை முன்னிட்டுவரும் अनीश्वरत्वम् என்பதும்--அவர்கள் என்ற இந்த இருவருக்கும் வரட்டுமே என்று கூறமுடியாது. அதனாலேயே பிராட்டி பத்னியாய் இருப்பதும் தடைபடாது. வால்லப்யத்தால் உரிமை எடுத்துக்கொண்டு பதியை பிராட்டி கட்டுப்படுத்தும்போதும் - இந்த பதி-பத்னீ பாவஸம்பந்தத்துக்கு விரோதம் இல்லை. இன்னமும் கேட்டால் வால்லப்யத்தால் பிராட்டி நடந்துக்கொள்வது பதி-பத்னீபாவத்துக்கு மேன்மையையே கொடுக்கும்.
 
-மார்க்கண்டேயருக்கு "என்றும் 16 வயதே உமக்கு” என்று அநுக்ரஹித்து ஆயுளை அருளியது ஸ்ரீநாராயணனே \- ஹரிவம்ணத்தில் தெரியவரும். இதையே   
-இது   
-து 
+---
 
-91   
-\-   
-மார்க்கண்டேயன்   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுட **"**புக்கடிமையினால் தன்னைக்கண்ட அவனை நக்கப்பிரானும் அன்று உய்யக்கொண்டது நாராயணன் அருளே." (திருவாய் 4-10-8), "நிறுத்தி நும் உள்ளத்துக்கொள்ளும் தெய்வங்கள் உம்மை உய்யக்கொள் மறுத்தும் அவனோடே கண்டீர் மார்க்கண்டேயனும் கரியே கறுத்தமனம் ஒன்றும் வேண்டா கண்ணனல்லால் தெய்வமில்லை இறுப்பதெல்லாம் அவன் மூர்த்தியாய் அவர்க்கே இறுமினே." (திருவாய் 5-2-7), "கண்டும் தெளிந்தும் கற்றார் கண்ணற்காளன்றியாவரோ வண்டுண்மலர் தொங்கல் மார்க்கண்டேயனுக்கு வாழுநாள் இண்டைச்சடைமுடி ஈசனுடன் உசாச்செல்ல கொண்டங்குத் தன்னோடும் கொண்டு உடன் சென்றதுணர்ந்துமே." (திருவாய் 7-5-7) என்று பல இடங்களில் காட்டியருளினார். மார்க்கண்டேயன் ஸ்ரீஹரிபக்தன். 
+(ल.उ.दी) यच् च ननु इत्य्-आदिना भगवत्-सृष्टि-कर्मणि अनुमन्तृ-रूप-कारणत्वम् आशङ्क्य भूम्यादौ तत्-प्रसञ्जनं कृतम्, तद् अपि "यस्या वीक्ष्य मुखं तद्-इङ्गित-पराधीनो विधत्ते ऽखिलम्", "यद्-भ्रू-भङ्गाः प्रमाणं स्थिर-चर-रचना-तारतम्ये मुरारेः" इत्य्-आदिभिर् अनुमन्तृत्वस्य लक्ष्म्याम् इव भूम्यादाव् अनुपलम्भात् मुख्य-पत्नीत्व-व्यापक-पति-कर्तृक-कर्म-अनुमन्तृत्व-निवृत्त्या मुख्य-पत्नीत्वस्यैव निवृत्तेः, भगवत इव श्रियो ऽपि कर्तृत्व-रूप-कारणत्वस्यापि बहु-प्रमाण-सिद्धतया प्राग् उपपादितत्वेन तस्य भूम्यादि-साधारण्ये मानाभावाच् च, यजमान-पत्न्या अपि स्नात-आहत-वासः-परिधानाद्यात्मक-दीक्षादिरूप-याग-अन्तर्गत-व्यापार-कर्तृत्वस्यैवोपालब्धेर् न दृष्टान्त-वैषम्यं च।
 
-காயத்ரீகல்பத்தில் வரும் முக\-அவயவ\-வர்ண- ஆயுதாதிகளுக்கும் ஸ்ரீஸ்வாமிதேசிகன் அருளிய நிர்வாஹம் காண்மின்:\-   
-"ரானவு: देवताया: सन्ध्याभेदेन वैष्णव्यादिसमाख्यानुगुण वाहन रूपादि परिग्रहशक्त्या माहात्म्यवर्णने तात्पर्यं तत्र तत्र व्यक्तं; तादृशाश्च वाहनादयोऽन्ये स्युः । न हि सारूप्यमात्रेण त एवैते इति निश्चयः, अनेकेषाम् एकजातीयवाहनादिदर्शनात्। " என்று. காயத்ரீ என்பவள் ஸ்ரீலஷ்மியின் விபூதியாய் அமைந்த ஒரு தேவதை. இவளுக்கு காலை\-மதியம்\-மாலை என்று ஸந்த்யாகாலம் தோறும் வைஷ்ணவீ என்றவாறான பெயருக்குப் பொருத்தமாக வாஹனம்\-உருவ அமைப்பு- ஆயுத தாரணம் முதலியன கைக்கொள்ளும் சக்தி உண்டு \- என்று ஸ்ரீபெரியபிராட்டியாரின் பெருமைகளை தெரிவிப்பதிலேயே நோக்கமாகும். இதே போன்ற வாஹனாதிகள் பிறருக்கும் இருக்கக்கூடுமே? ஒத்த உரு முதலானவைகளைக் கொண்டு "அதுவே இது"   
-1 
+பகவானின் (ல.க) இப்படி பெரியபிராட்டியாருக்கு ஜகத்ஸ்ருஷ்ட்யாதி செயல்களில் अनुमन्तृत्वम् = அநுமதியை அளிப்பதையே கொண்டோமானால் - பூமி-நீளாதி தேவிகள் விஷயத்திலும் இதுவே கூடுமாகையால் - அவர்களைவிட பெரியபிராட்டியாருக்கு என்ன ஏற்றம் சொல்லமுடியும்? 
 
-92 लक्ष्म्युपायत्वदीपः 
+> "यस्या वीक्ष्य मुखं तद्-इङ्गित-पराधीनो विधत्ते ऽखिलम्" *(श्रीस्तवम् १)*
 
-என்னவொண்ணாது.   
-இவ்வளவையும் கூறிவிட்டு ஸித்தாந்தத்தை ஒரு காரிகையால் தெரிவிக்கிறார் \- 
+[ஆழ்வானின் ஸ்ரீஸ்தவம்-1 - எம்பெருமான் பெரியபிராட்டியின் திருமுக மண்டலத்தைப் பார்த்து குறிப்பால் அவள் கருத்தை உணர்ந்து ஜகத்ஸ்ருஷ்டி-ஸ்திதி-ஸம்ஹாரம்-மோக்ஷப்ரதானம் முதலானவைகளை - அதன்படி செய்கிறார்] [[P206]]
 
-girukபு என்று. 
+> "यद्-भ्रू-भङ्गाः प्रमाणं स्थिर-चर-रचना-तारतम्ये मुरारेः" *(श्रीगुणरत्नकोशम् ४)*
 
-ப்ரம்ஹா\-ருத்ரன் முதலானோரே ஈஸ்வரனாகக்கூடும் என்று சிலருக்கு ப்ரமம் ஏற்பட, அதை முன்னிட்டுக்கொண்டு, அவர்கள் மனைவிமார்களிடமும் அவர்களும் லக்க்ஷ்ம்யம்ஸமாக இருக்கட்டுமே \- என்ற வாதம் ஸ்ருதி\-ஸ்ம்ருதி\-இதிஹாஸ\-புராண\-ஆகமாதிகளுக்கு 
+[முராரியான எம்பெருமான், சராசரங்களான ஸகலபொருட்களின் ஏற்றத்தாழ்வுகளுக்குப் பெரியபிராட்டியாரின் புருவ அசைவுகளையே ப்ரமாணமாகக் கொள்கிறாரோ-] என்பன போன்ற பூர்வாசார்ய ஸ்ரீஸூக்திகள் பகவானின் ஜகத்ஸ்ருஷ்ட்யாதிகளை பிராட்டி அநுமோதனம் செய்கிறாள் என்று காட்டியதைப் போன்று பூமி-நீளைகள் விஷயத்தில் காட்டவில்லை.
 
-மாறானது. கண்டிக்கப்பட்டது \- என்றபடி. 
+வேள்வியில் போலே (பல மனைவிகள் இருந்தாலும் வேள்வியைச் செய்யும்போது முதல் மனைவிக்கே தீக்ஷணீயேஷ்டி, தொடங்கி அவப்ருதஸ்னானம் வரையிலும் யஜமானனுடன் ஒத்துழைக்க வேண்டும். இதுவே யஜ்ஞதந்த்ரம்.) ப்ரபன்ன ஜனஸம்ரக்ஷண யஜ்ஞத்தில் பகவானுடன் கூடியிருந்து செயல்படும் நிலையாகும். பெரியபிராட்டிக்கே யஜமானனைப்போன்று ஸ்நானம், ஸங்கல்பம், आहतवासःपरिधानम् = உலர்ந்த புதிய வஸ்த்ரத்தை உடுத்திக்கொள்வது. தீக்ஷை முதலான வேள்வியைச் சேர்ந்த வ்யாபாரங்களை யஜமான பத்னியும் செய்யக்கடவள் - என்றதைப் போன்றது இது.
 
-ஆகவே லக்ஷ்மியை உபாஸித்து இவர்கள் 
+---
 
-இத்தகைய பெருமைகளை அடைந்தார்கள் 
+(ल.उ.दी) यच् च लक्ष्म्याः स्वरूप-रूप-गुण-विभूति-बृहत्त्व-बृंहणत्वादेर् भगवत्-सङ्कल्प-अधीनत्वेन अनन्याधीनत्व-रूप-स्वाभाविकत्व-अभावान् न जगत्-कारणत्वम्, अनन्याधीन-बृहत्त्व-बृंहणत्वादेर् एव ब्रह्म-शब्द-प्रवृत्ति-निमित्ततया तादृश-प्रवृत्ति-निमित्त-पौष्कल्यस्य भगवद्-एक-निष्ठतया स एव ब्रह्म-शब्द-वाच्यः स एव जगत्-कारणत्वम् इति प्रत्यपादि, तद् अपि न जाघटीति। लक्ष्म्या भगवद्-अनन्यत्व-विधायक-प्रमाण-अनुसारेण पूर्व-उक्त-रीत्या भगवतो ऽपि लक्ष्म्य्-अनन्यत्व-सिद्ध्या लक्ष्मी-स्वरूपादि-बृहत्त्वस्य अनन्याधीनत्व-रूप-स्वाभाविकत्व-अनुपपत्ति-अभावात्। [[P207]]
 
-உண்மை. இதனை ஆசார்யர் ஸ்ரீஸ்துதியில் 
+இதற்கும் மேல் மீண்டும் கேள்வி:- "பிராட்டிக்கு அவளது ஸ்வரூபம்-ரூபம்-குணங்கள்- விபூதிகள் எல்லோரையும் விட பெரியநிலை (बृहत्त्वम्), தன்னை அண்டியவர்களைப் பெரியநிலைக்கு ஏற்றுவது (बृंहणत्वम्), இது முதலானவைகள் யாவும் பகவத் ஸங்கல்பத்தால் அமைந்தன. இவையாவும் अनन्याधीनम् அல்லவாம். ஆகவே பிராட்டிக்கு जगत्कारणत्वम् கூடாது. வேறோருவருக்கு அடங்காத ப்ருஹத்த்வ- ப்ரும்ஹணத்வாதிகள் தான் ப்ரம்ஹம் என்ற சொல்லுக்கு உரிய ஏற்றம். அவனே ஜகத்காரணம் -" என்பது கேள்வி.
 
-“आसंसारं विततम् अखिलं वाङ्मयं यद्विभूति: 
+இதற்கு பதில் :- இதுவும் பொருந்தாது. பகவானுக்கும் பிராட்டிக்கும் अनन्यत्वम्த்தைக் காட்டும் ப்ரமாணங்களை அநுஸரித்து பகவானுக்கும் பெரிய பிராட்டியாருக்கும் முன்பு கூறியபடியே अनन्यत्वम् ஸித்தம், ஆனபடியால் லக்ஷ்மியின் ஸ்வரூப-ரூப-குண- விபவாதிகளான बृहत्त्वम् எல்லாம் अनन्याधीनम्, स्वाभाविकम् என்றும் ஏற்படுகிறது. அதனால் குற்றமில்லை.
 
-यद्भूभङ्गात् कुसुमधनुषः किङ्करो मेरुधन्वा । यस्यां नित्यं नयनशतकैरेकलक्ष्यो महेन्द्रः   
-\-   
-என்பதே 
+---
 
-புன்\! எi புரிufi: பு:" என்றருளினார். விரிவு நமது ஸ்ரீஸ்துதிவ்யாக்யானத்தில் காண்பது. 
+(ल.उ.दी) वस्तुतस् तु "बृहत्त्वं च स्वरूपेण गुणैश् च यत्रानवधिक-अतिशयं सो ऽस्य मुख्यो ऽर्थः" इति ब्रह्म-शब्द-प्रवृत्ति-निमित्त-प्रतिपादन-पर-भाष्ये स्वभावत इति विशेषण-अभावात् एतद्-विषय-श्रुतप्रकाशिकायां "बृहत्त्व-गुण-मात्र-योगिषु सर्वेषु ब्रह्म-शब्द-प्रयोग-अभावात् स्वरूपतो गुणतश् चानवधिक-अतिशय-बृहत्त्वं प्रवृत्ति-निमित्तम् इत्य् अर्थः" इत्य्-आदिकायां स्वभावत इत्य् अकथनाच् च लक्ष्म्या ब्रह्म-शब्द-वाच्यत्वे नानुपपत्तिः। [[P208]]
 
-(ल.उ.दी) यदप्येतदुक्तम् भवतीत्यादिना लक्ष्मीः प्रधान्येनोपायकार्यकारिणी न भवति, किन्तु तदनुविधायित्वमात्रवती विशेषणत्वात् दयादिगुणवत्, अन्यथा नैरपेक्ष्यहानिरित्यभिप्रायेणोक्तम्, तदपि न घटते, प्राधान्यविशिष्टोपाये कार्यकरत्वाभावस्य साध्यत्वेन विवक्षितत्वे विशेषणाभावप्रयुक्तविशिष्टाभावस्य लक्ष्म्यामङ्गीकारेण सिद्धसाधनापत्तेः । “स्वतन्त्रः कर्ता" इत्यनुशासनानुरोधेन अनिष्टनिवृत्तिपूर्वकेष्टप्राप्तिरूपोपायकार्ये प्राधान्यरूपकर्तृत्वाभावस्य साध्यत्वे, "लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । रक्षकस्सर्वसिद्धान्ते वेदान्तेषु च गीयते॥", "कामवत्साऽमृतं दुहाना”, “श्रियं लोके देवजुष्टामुदाराम्”, “सा नो लोकममृतं दधातु”, “ईशाना देवी भुवनस्याधिपत्नी”, “श्रियं वसाना अमृतत्वमायन्”,   
-“सकृद्विभाता सर्वार्तिसमुद्रपरिशोषिणी”, 
+"बृहत्त्वं च स्वरूपेण गुणैश्च यत्रानवधिकअतिशयं सोऽस्य मुख्योऽर्थः" என்று தான் ப்ருஹத்த்வத்துக்கு ஸ்ரீபாஷ்யகாரர் அருளினாரே தவிர स्वभावतः என்ற விசேஷணமில்லை - என்பதை கவனிக்கவும். இதற்கு உரையிட்ட श्रुतप्रकाशिकायाम् "बृहत्त्वगुणमात्रयोगिषु सर्वेषु ब्रह्मशब्दप्रयोगाभावात्स्वरूपतो गुणतश्चानवधिकअतिशयबृहत्त्वं प्रवृत्तिनिमित्तमित्यर्थः" என்று உரையாசிரியர் स्वभावतः என்று [[P209]] கூறவில்லை. ஆகவே லக்ஷ்மிக்கும் ब्रह्मशब्दवाच्यत्वम् கொள்வதில் எந்த அநுபபத்தியுமில்லை.
 
-93   
-\-   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+கேள்வி:- அங்கு இல்லாविடினும், "निरस्तनिखिलदोषोऽनवधिकातिशयासंख्येयकल्याणगुणगणः पुरुषोत्तमोऽभिधीयते" என்று ப்ரம்ஹசப்த வ்யாக்யானம் பண்ணும்போது அதே ஸ்ரீபாஷ்யத்தில் स्वभावतः என்ற விசேஷணமுள்ளதே! ஆகவே स्वभावतः என்பதும் प्रवृत्तिनिमित्तम्த்தில் சேர்ந்தது என்று ஒப்பவேண்டுமே? என்று.
 
-“भवभङ्गापहारिणीं”, “परनिर्वाणदायिनी”, “ज्योतिष्मत्यमृतावहा”, “आत्मविद्या च देवि त्वं विमुक्तिफलदायिनी”, *“* ऐश्वर्यमक्षरगतिं परमं पदं वा कस्मैचिदञ्जलिभरं वहते वितीर्य" "Gauf Loir Grir शीलालां कंठĞw" इत्यादिप्रमाणसम्प्रदायपर्यालोचने लक्ष्म्या अपि रक्षणस्वातन्त्र्यरूपकर्तृत्वप्रतीतेर्बाधापत्तेः । न च "सहयुक्ते अप्रधाने " इत्यनुशासनेनाप्रधाने तृतीयाविधानेन लक्ष्म्या सहेत्यत्र तृतीयया तस्या अप्रधानत्वावगमात् स्वातन्त्र्यरूपकर्तृत्वं नोपपद्यत इति वाच्यम्, अप्रधाने तृतीयाविधानेन "पुत्रेण सहागतः पिताः” क्षीरेण सहौदनं भुङ्क्ते, इत्यादिषु पुत्रक्षीरादीनां पित्रोदनाद्यपेक्षया अप्राधान्ये विवक्षितेऽपि गमनानुकूलकृतिमत्त्वरूपकर्तृत्वस्य, भोजनक्रियया आप्तुमिष्टतमत्वलक्षण- चोपात्तैकधर्मान्वयित्वरूपसाहित्य\-बललब्धस्यानपायवदत्रापि   
-कर्मत्वस्य, 
+இதை விளக்கவந்த ச்ருதப்ரகாசிகையில் "विशेषणद्वयं ब्रह्मशब्दस्य शब्दशक्तेरर्थसामर्थ्याच्च पुरुषोत्तमपरत्वप्रतिपादनोपयोगितयोक्तम्, नतु प्रवृत्तिनिमित्ततया, गुणतोऽपि बृहत्त्वे..." என்று உள்ளதை கவனிக்கவும். இந்த வாக்யத்தால் प्रवृत्तिनिमित्तस्य गुणतोऽनवधिकातिशयबृहत्त्वातिरिक्तस्य अभावप्रतिपादनात् - என்றது பொருள்தேறும். ப்ரம்ஹசப்தத்தின் शक्त्या மட்டிலும் கொண்டு பார்த்தால் पुरुषोत्तमन् पुरुषोत्तमनையே கூறுவதற்குத் தகுந்தபடி अनवधिकातिशयासंख्येयकल्याणगुणगणत्वम् என்பதை - स्वभावतः - என்பதற்கு மேலே சேர்த்துக்கொண்டு பொருள் கொள்வது - என்று ச்ருதப்ரகாசிகையில் அருளினார். 
 
-भगवदपेक्षयाऽप्राधान्ये विवक्षितेऽपि रक्षणक्रियानुकूलकृतिमत्त्व- रूपतत्कर्तृत्वस्यानपायात्। अन्यथा "सोऽश्नुते सर्वान् कामान्त्सह ब्रह्मणा विपश्चिता” इति श्रुत्या ब्रह्मणोऽपि प्राप्यत्वं न स्यात् । किञ्च, " सहयुक्तेऽप्रधाने" इति सूत्रस्य कर्तृकारकाद्यतिरिक्तविषयत्वं महाभाष्ये पतञ्जलिना पुत्रेण सहागतो देवदत्त इत्यादेरुदाहरणत्वं पराकुर्वता प्रदर्शितम् । तद्भाष्यं च, *“* किमुदाहरणम् \- तिलैस्सह माषान् वपतेति । नैतदस्ति, तिलैर्मिश्रीकृत्य माषा उप्यन्ते, तत्र करण इत्येव सिद्धम् । इदं तर्हि \- पुत्रेण सहागतो देवदत्त इत्यप्रधाने कर्तरितृतीया यथा स्यात् । एतदपि नास्ति प्रयोजनम्, प्रधानकर्तरि लादयो भवन्तीति प्रधानकर्ता तेनाभिधीयते । यच्चाप्रधानं, सिद्धा तत्र कर्तरीत्येव तृतीया । इदं तर्हि पुत्रेण सहागमनं देवदत्तस्येति, षष्ठ्यत्र बाधिका भविष्यती" त्यादिकम् । तस्माल्लक्ष्म्येति तृतीयया रक्षणकर्तृत्वप्रतिपादनात् बाधो दुरुद्धरः । तदनुविधायित्वं च तदनुसारेण कर्तृत्वं, करणत्वमन्यद्वा । आद्ये सिद्धसाधनम्, दृष्टान्ते दयादौ साध्यवैकल्यं च स्यात् । द्वितीये, च लक्ष्म्येति तृतीयायाः करणार्थकत्वे परशुना सह छिनत्तीति   
-1 
+மேலும் அங்கு "अनुषक्तेन स्वभावतः इति पदेन वा नित्यसिद्धव्यावृत्तिः" என்ற ச்ருதப்ரகாசிகா வாக்யத்தாலும் விசேஷிக்கப்பட்டபடியால் - என்ற அந்த நிலை பிராட்டியிடம் இல்லையானபடியால் - ப்ரம்ஹ என்ற சொல் லக்ஷ்மியைக் கூறாது - என்ன முடியாது. "तेन गुणानाम् अविद्याकल्पितत्वपक्षव्यावृत्तिः" என்று அங்குள்ள வாக்யத்தால் ஸ்வாபாவிகமான இந்த ரூபாதிகள் அவித்யையால் கல்பிதமில்லை என்று அத்வைதிகளை மறுப்பதில் வந்தவைகள். இந்த நிலை பிராட்டிக்கும் உண்டே. [[P210]]
 
-94   
-लक्ष्म्युपायत्वदीपः 
+---
 
-प्रयोगाभावेन सहशब्दवैयर्थ्यापत्त्या कर्तृसाहित्यबोधक- सहशब्दानुसारेण च कर्तृत्वस्यैव प्रतीत्या बाधस्स्यात् । अत एव न तृतीयः, कर्मत्वसम्प्रदानत्वादीनामत्राप्रतीतेः, पक्षे बाधात् दृष्टान्ते साध्यवैकल्यापत्तेश्च। न चैवं सति नैरपेक्ष्यहानिः, तदभावस्य " स्वतः श्रीस्त्वं विष्णोस्त्वमसि तत एवैष भगवान् तदायत्तर्द्धित्वेऽप्यभवदपराधीनविभवः । स्वया दीप्त्या रत्नं भवदपि महार्घं न विगुणं न कुण्ठस्वातन्त्र्यं भवति च न चान्याहितगुणम्” इत्यभियुक्तोक्तविशेषणायत्तातिशयेन विशेष्यस्य न वैगुण्यमिति साधयद्भिराचार्यैरेव प्रदर्शितत्वेन नैरपेक्ष्यहानिरूपानिष्टप्रसङ्गानवतारात् । सूपसदत्वशुभाश्रयत्वप्रसादनादिमुखेन गुणविग्रहपरिष्कारादि- सापेक्षतयोपायस्य नैरपेक्ष्यं न स्यादेव । न चैवं लक्ष्म्या अप्युपायत्वे, अनन्योपायत्वं भज्येतेति वाच्यम्, तस्या उपेयत्वे, अनन्योपेयत्वमपि न स्यात्, लक्ष्म्या विशेषणत्वेन स्वतन्त्रोपेयान्तरशून्यत्व- लक्षणानन्योपेयत्वविरोधो नास्तीति चेत्, प्रकृतेऽपि समानमित्याचायैरेव परिहृतत्वात्।   
-अन्यथा 
+(ल.उ.दी) यद्यपि "अनुषक्तेन स्वभावत इति पदेन वा नित्यसिद्धव्यावृत्तिः, तेषां तादृशगुणकत्वं हि भगवन्नित्येच्छाधीनम्" इति अनन्याधीनत्वरूपतयापि स्वाभाविकत्वस्य प्रतिपादनं दृश्यते, तथाप्यत्र स्वभावत इत्यस्य कल्पितत्व-व्यावृत्तिरेवासाधारणप्रयोजनं, न तु नित्यसिद्धव्यावृत्तिः, तस्या नवधिकातिशयत्वविशेषणेन सिद्धेः। अत एव न तस्य प्रवृत्तिनिमित्तान्तर्भावः, अतिप्रसङ्गनिरसनपरत्वाभावात्। न च नित्यसिद्धगुणानामपि जगद्व्यापारानुगुणत्वेन तदनुगुणभगवद्गुणापेक्षया सावधिकातिशयत्वस्य तत्रैव व्यासार्यैः अभिधानात् तस्मात्स्वरूपतो गुणतश्च अनवधिकातिशयबृहत्त्वमेव ब्रह्मपदप्रवृत्तिनिमित्तमिति गद्याद्युक्तरीत्या तच्छालिन्याः श्रियोऽपि ब्रह्मशब्दवाच्यत्वे काचिदनुपपत्तिः। अत एव कारणत्वमप्यव्याहतम्।
 
-न   
-अत एवास्याः पृथगुपायत्ववचनं भगवत्प्रेयसीत्वमुखेन तत्प्रसादनद्वारेण, अन्यथाऽस्याः पारार्थ्यायोगादित्यादिना विपक्षे बाधकोपन्यासपुरस्सरं   
-गुणविग्रहयोस्सूपसदत्वशुभाश्रयत्वरूप- कार्योपयोगितया भगवदनुविधायित्वमात्रवत् भगवत्प्रसादन- रूपपुरुषकारकार्योपयोगित्वरूपतदनुविधायित्वमात्रमेवास्यास्स्वरूपम्, तूपायत्वकारणत्व नियन्तृत्वादिकमित्युक्तमपि परास्तम्। अबाधितानन्यथासिद्धप्रमाणसम्प्रदायाभ्यां कारणत्वनियन्तृत्वशेषित्व- रक्षकत्वादीनां बहुशः स्थापितत्वात् । पारतन्त्र्यस्य कारणत्वाद्यभावं प्रत्यप्रयोजकत्वादेरुक्तत्वात् तर्कानवताराच्च । तस्माल्लक्ष्म्या उपायत्वमपि प्रामाणिकमिति निष्कर्षः । 
+> "स्वाभाविकत्व-रूपस्य निमित्ते सद्-असत्त्वयोः।
+> श्रुतप्रकाशिका-भाष्य-पर्यालोचनतः श्रियः॥
+> ब्रह्म-शब्द-प्रवृत्तेर् हि निमित्तं पुष्कलं भवेत्।
+> लक्ष्मी-विशिष्टो भगवान् ब्रह्म-शब्दाभिधस् ततः॥
+> इति निष्कण्टकः पन्थास् सद्भिर् आद्रियतां सदा।
+> लक्ष्म्यां गौणत्व-पक्षस् तु विगुणः प्रसमीक्ष्यताम्॥"
 
-95   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+अत एव तेन इत्य्-आदिकम् अपि दूरोत्सारितम्। लक्ष्म्याः ब्रह्म-शब्द-वाच्यत्वेन तल्-लक्षण-जगत्-कारणत्वाविरोधेन ताप-त्रय-आतुरैर् अमृतत्वाय जिज्ञास्यत्वस्य सिद्ध्या मोक्ष-प्रदत्वे बाधक-अभावात् लक्ष्मीः स्व-पति-कर्तृक-कर्म-कर्त्री पत्नीत्वात् यजमान-पत्नीवद् इत्य्-अनुमानेन लाघव-ज्ञान-बलाल् लक्ष्म्यां स्व-पति-भूत-भगवत्-कर्तृक-मोक्ष-प्रदानादि-कर्म-कर्तृत्व-सिद्धेर् अप्रत्यूहत्वात्। [[P211]]
 
-(ல.க) கேள்வி:\- லக்ஷ்மியானவள் ப்ரதானமாக உபாயமாகிய நிலையில் இருப்பதில்லை. பின் என்ன? 
 
-போன்று   
-என்றால் **\-** எம்பெருமானைப் பின்பற்றி \- எம்பெருமானின் தயாதிகுணங்களைப்   
-விசேஷணமாய் அமைகிறாள். இப்படி இசையவில்லை **\-** என்றால் எம்பெருமான் HfqAன் \- என்று நாம் ஒப்பியுள்ளோமே \- 
+(ல.க) இங்கு "स्वभावतः" என்று உள்ளபடியால் அதீனமாயிராமல் இருப்பதுவும் ஸ்வாபாவிகம் என்று ஏற்படுகிறது. எப்படியாயினும் இங்கு स्वभावतः என்பதற்கு செயற்கைமுறையில் செய்யப்பட்டதை விலக்குகிறது என்பதே அஸாதாரணமான ப்ரயோஜனம். நித்ய-ஸித்தர்களை விலக்குவதில்லை. अनवधिकातिशयम् என்ற விசேஷணத்தாலேயே கிடைக்கும். இப்படியானடியால் தான் அதை प्रवृत्तिनिमित्तम्-த்தில் சேர்க்கவில்லை. ஒரு சொல் என்று இருந்தால் – அது ஏதோ ஒருவகையில் அதிப்ரஸங்கத்தைப் போக்குவதாக அமையவேண்டுமே. அது இங்கில்லையே. अनवधिकातिशयम् என்பதற்கும் அதிப்ரஸங்கம் வராது. எம்பெருமானின் நித்யஸித்தங்களான கல்யாணகுணங்களும் ஜகத்வ்யாபாராதிகளுக்கு அநுகுணமாகவே அமைந்தனவான படியால் – அதற்கேற்ற பகவத்குணங்களை அபேக்ஷித்து ஸாவதிகமான அதிசயங்களாகவே அங்கு ஸ்ரீச்ருதப்ரகாசிகாசார்யரால் அருளியது பொருந்த வேண்டுமே. ஆகவே ஸ்வரூபத்தாலும் குணங்களாலும் अनवधिकातिशयबृहत्त्वम् என்பதே ப்ரம்ஹசப்தத்துக்கு प्रवृत्तिनिमित्तम् என்று ஏற்படுகிறது. இந்நிலை பெரியபிராட்டியாருக்கும் கத்யாதிகளால் வ்யவஹரிக்கக் கூடும் ஆனபடியால் அவளையும் ப்ரம்ஹ சப்தத்தால் வ்யவஹரிக்கத் தடையேதுமில்லை. அதனால் ஜகத்காரணத்வம் பெரியபிராட்டியாருக்குத் தடையற்றது.
 
-அதற்கு குறைபாடு வரும் \- என்று. 
+இதை விளக்க வந்த காரிகைகள்:-
 
-பதில்:\- நீங்கள் கூறுவது ஒருவகையில் 
+> "स्वाभाविकत्व-रूपस्य निमित्ते सद्-असत्त्वयोः।
+> श्रुतप्रकाशिका-भाष्य-पर्यालोचनतः श्रियः॥
+> ब्रह्म-शब्द-प्रवृत्तेर् हि निमित्तं पुष्कलं भवेत्। [[P212]]
 
-எப்படி? எனில்   
-\- 
+[இயல்பாகவே உடைய ஒரு ஸ்வரூபம் - காரணமிருப்பினும் இல்லாவிடினும் ச்ருதப்ரகாசிகை ஸ்ரீபாஷ்யம் முதலானவைகளை நன்கு ஆராய்ந்தால் இது பெரிய பிராட்டியாருக்கு ப்ரம்ஹ சப்த ப்ரவ்ருத்திக்கு நிமித்தம் நிரம்பவே இருப்பதாகவே ஆகும்.]
 
-लक्ष्मीविशिष्टत्वम्   
-ப்ராதான்யம் பகவானுக்கு, அவனுக்கு 
+> "लक्ष्मी-विशिष्टो भगवान् ब्रह्म-शब्दाभिधस् ततः।"
 
-இங்கு   
-தெரிவிக்கிறோம் 
+[ஆகவே பெரியபிராட்டியாருடன் கூடிய பகவானே ப்ரம்ஹசப்தத்துக்கு ஸரியான பொருளாவார்.]
 
-என்பதை பிராட்டியிடம்   
-विशेषणाभावप्रयुक्तविशिष्टाभावत्वम् 
+> "इति निष्कण्टकः पन्थास् सद्भिर् आद्रियतां सदा।
+> लक्ष्म्यां गौणत्व-पक्षस् तु विगुणः प्रसमीक्ष्यताम्॥"
 
-ஒப்பியபடியால் \- இது ஸித்தஸாதனமே அன்றோ? "\<dூ: கi" என்றார் பாணினி மஹர்ஷி. கார்யம் என்பது अनिष्टनिवृत्तिपूर्वकेष्टप्राप्तिरूपोपायाचरणम्   
-\-   
-\- 
+[இப்படி முள்ளுகல்லற்ற பெரியோர்களால் ஆதரிக்கப்பட்ட வழியைக்காட்டினோம். லக்ஷ்மியிடம் ப்ரம்ஹ சப்தப்ரயோகமானது கௌணம் முக்கியமில்லை என்ற கொள்கை அடியோடு பொருந்தாது. விகுணம் என்றறிவீர்களாக.]
 
-\-   
-இப்படிக் கொண்டால் “लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । रक्षकः सर्वसिद्धान्ते वेदान्तेष्वपि jqa" (cally a jqz) \[இதை முன்பே விளக்கிவிட்டோம்\] "கHRH அபூர்ā-" \[கன்று குட்டியிடம் வாத்ஸல்யம் கொண்டு பாலைச்சுரக்கும் பசுவைப்போல் \- நமக்கு பிராட்டி அம்ருதத்தை \= மோக்ஷத்தை அருள்பவள்\] " 
+இவ்வளவுதூரம் தெரிவித்தபடியால் "तेन" என்றாரம்பித்து பூர்வபக்ஷிகள் சொன்னவை வெகு தொலைவுக்குத் தள்ளப்பட்டதாக அறியவும். லக்ஷ்மியும் ப்ரம்ஹ சப்தத்தால் தடையின்றி வ்யவஹரிக்கப்படுபவளே என்றபடியால் ப்ரம்ஹலக்ஷணமான ஜகத்காரணத்வமும் தடையின்றி கிடைப்பதால் - ஆத்யாத்மிக - ஆதிபௌதிக ஆதிதைவிகங்களான தாபத்ரயங்களால் வருந்துமவர்களால் மோக்ஷமடைய பெரியபிராட்டியையும் அறிந்து உபாஸிக்க வேண்டும் என்றபடியால் இவளுக்கு मोक्षप्रदत्वम् என்பதும் தடையின்றி ஏற்படுகிறது. மேலும், लक्ष्मीः स्वपतिकर्तृककर्मकर्त्री पत्नीत्वात् यजमानपत्नीवत् [லக்ஷ்மியானவள் தன் கணவரான ஸ்ரீபகவான் செய்யும் எல்லா செயல்களையும் செய்பவளே, பகவானின் மனைவியானபடியால், வேள்வியில் யஜமானனின் பத்னியைப் போன்று] என்ற அநுமானத்தாலும் लाघवज्ञानम्-த்தின் பலத்தாலும் தன் [[P213]] கணவரான எம்பெருமான் செய்யும் மோக்ஷப்ரதானாதி நிகிலகர்மகர்த்ரீத்வம் பிராட்டிக்குத் தடையின்றி கிடைக்கிறது.
 
-उदाराम्”, “सा नो लोकम् अमृतं दधातु", "ईशाना देवी भुवनस्याधिपत्नी", "श्रियं वसाना अमृतत्वम् आयन्" \[இவை யாவும் முன்பு உரைக்கப்பட்டன\].   
-विभाता सर्वार्त्तिसमुद्रपरिशोषिणी", "புகரிபரிபு", "\-" "யு ya", " 
+---
 
-च देवि\! त्वं विमुक्तिफलदायिनी, ऐश्वर्यम् अक्षरगतिं परमं पदं वा कस्मैचिद् 3ரிவு 5 AAÜ", "வேரி மாறாத பூமேலிருப்பாள் வினைதீர்க்குமே" என்கிற ப்ரமாண\-ஸம்ப்ரதாயங்களை நன்கு ஆராய்ந்தால் லக்ஷ்மிக்கும் ஜீவ ரக்ஷணத்தில் ஸ்வாதந்த்ர்யம் உண்டு என்று ஏற்படுகிறபடியால் அவைகளுக்கு பாதிப்பு ஏற்படும். 
+(ल.उ.दी) यद् अप्य् अग्नि-सापेक्ष-कर्मादौ विधि-बलात् पत्नी-कर्तृत्वम्, न चेह तथा विधिर् अस्ति, यदि पत्न्या सहैव भगवता सृष्टि-स्थिति-संहार-मोक्ष-प्रदानादि कर्म अनुष्ठेयम् इति विधिः स्यात् तर्हि प्राकृत-दम्पत्योर् इव दिव्य-दम्पत्योर् अपि कर्म-वश्यत्व-प्रसङ्ग इत्य्-उक्तम्। 
 
-96   
-1   
-लक्ष्म्युपायत्वदीपः 
+तद् अप्य् अनालोचित-रमणीयम्, तथाहि - किमत्र स्व-पति-कर्तृक-कर्म-कर्त्रीत्वे अग्नि-सापेक्ष-तत्-कर्म-कर्तृत्वम् प्रयोजकम् इति विवक्षितम्? उत तत्-कर्म-कर्तव्यता-बोधक-विधिमत्त्वम्? किंवा तत्-कर्तृता-बोधक-विधिमत्त्वम्? अथवा विधि-पद-उपलक्षित-तत्-कर्तृता-बोधक-प्रमाणवत्त्वम्?
 
-கேள்வி:\- "க்கgq" என்ற வ்யாகரணஸூத்ரப்படி 3 Hக ஜிக்ன: என்றபோது அரிக: இது. ஆகவே स्वातन्त्र्य A ரூபமான கர்4 கூடாதே? என்று. 
+नाद्यः, पति-कर्तृक-अतिथि-सन्तर्पणादि-कर्तृता-शालिन्यां पत्न्याम् अग्नि-सापेक्ष-तत्-कर्म-कर्तृत्व-अभावेन साध्य-व्यापकत्व-अभावात्, उक्त-उपाधि-अभावश् च तत्-कर्मणि अग्नि-सापेक्षत्व-रूप-विशेषण-अभावात्। न च तत्-पदं विहाय अग्नि-सापेक्ष-कर्म-कर्तृत्वा एव उपाधित्वेन तथा-विध-अग्निहोत्रादि-कर्तृतायास् तस्याम् अपि सत्त्वेन व्यभिचार-अभाव इति वाच्यम्, तथा सति लक्ष्म्याम् अपि सीताद्य्-अवतार-दशायाम् अग्नि-सापेक्ष-अग्निहोत्रादि-कर्तृतायाः सत्त्वेन साधन-व्यापकता स्यात्।
 
-இதற்கு பதில்:\- 2046 3rd: fi என்றபோது புத்ரனுக்கு ப்ராதான்யம் இல்லாவிடினும், आगत: என்றபோது IHHIH என்பது பிதா\-புத்ரர் என்ற இருவருக்கும் எப்படி வருகிறதோ \- 
+न द्वितीयः, पति-कर्तृक-गृह-निर्माणादि-कर्तृता-शालिन्यां पत्न्यां गृह-निर्माणादेर् लौकिकत्वेन तत्-कर्तव्यता-बोधक-विधिमत्त्व-अभावात्। 
 
-பகவதபேக்ஷயா பிராட்டிக்கு   
-\-   
-அப்படி இங்கும் 
+अत एव न तृतीयः। गृह-निर्माणादि-कर्तृताया लोक-सिद्धत्वात् "अहम् एव वात इव प्रवाम्य् आरभमाणा भुवनानि विश्वा", 
 
-ம் இருப்பினும், 
+> "लक्ष्म्या सह हृषीकेशो देव्या कारुण्य-रूपया।
+> रक्षकस् सर्व-सिद्धान्ते वेदान्तेषु च गीयते॥"
 
-ஜீவர்களை ரக்ஷிப்பது \- என்ற க்ரியையைப் பற்ற தH 4 கூடும். இதேபோல் என்ற போதும், ரிபு அ4 SLGHGH என்கிற த4H கூடும். இப்படி ஒப்பவில்லை என்றால் \- His Hா புரி என்றவிடத்திலும் ப்ரம்ஹத்துக்கு யும் இல்லாமல் போய்விடும். 
+इति लक्ष्म्याम् अपि जगत्-सृष्टि-मोक्ष-प्रदानादि-कर्तृता-बोधक-विधि-सत्त्वात् साधन-अव्यापकत्व-अभावाच् च। [[P214]]
 
-\-   
-மேலும், "சHai" என்ற ஸூத்ரத்திலுள்ள மஹாபாஷ்ய விரோதமும் ஏற்படும். இந்த ஸூத்ரத்துக்கு உதாஹரணமாக ஏகதேசீ காட்டிய ன்i\> \<qqv: என்பதை மறுத்துவிட்டு, அப்படியானால் किम् उदाहरणम् ? என்று கேட்டுக்கொண்டு \- Ax: 49 aasa என்று காட்டினார். இதை "ca, Ai: வுகன்' SH" 5 f" என்று மறுத்துள்ளார். எள்ளுடன் கலந்து உளுந்தை விதைக்கும் போது \- Ax; என்றவிடத்தில் 'கர்கணள்ள' என்பதாலேயே மூன்றாம் வேற்றுமை விபக்தி வரலாமே, அதற்காக தனித்து ஸூத்ரம் வேண்டாமே? என்பது ஸ்ரீபதஞ்ஜலியின் ஆசேஷபம். அப்படியானால் पुत्रेण सह आगत: देवदत्तः என்பது 
+अत एव न तुरीयः। तत्-कर्तृता-बोधक-प्रमाण-सहस्र-सत्त्वात्। "आनीद् अवातं स्वधया तद् एकम्" इत्य्-आदि-श्रुति-स्मृत्यादिभिर् भगवत्-कर्तृक-जगत्-सृष्ट्यादि-कर्तृताया लक्ष्म्यां प्रमिततया तद्-व्यतिरेक-साधक-व्यतिरेक-प्रतियोगित्व-असम्भवेन कस्याप्य् उपाधित्वेन शङ्कितुम् अशक्यत्वाच् च। 
 
-97   
-1 
+यदि जगत्-सृष्ट्यादि-कर्तव्यता-विध्य्-अभावेन तत्-कर्तृत्व-अभावस्य तत्-विधि-सत्त्वे कर्म-वश्यत्वस्य च लक्ष्म्याम् आपादनं क्रियेत, तदा भवन्-मते भगवत्य् एतद् दुर्निवारम्, यजमान-पत्न्या याग-अन्तर्गत-व्यापार-अनुकूल-कृतिमत्त्व-लक्षण-कर्तृत्व-सत्त्वेन तद्-दृष्टान्तेन लक्ष्म्या जगत्-सृष्ट्यादि-व्यापार-अनुकूल-कृतिमत्त्वस्यैवानुमन्तृता-विलक्षणस्य साधनेन सिद्ध-साधन-अनवकाशाच् च। तस्माद् यजमान-पत्नी-न्याये न किञ्चिद् इति निरवद्यम्। [[P215]]
 
-\-   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+---
 
-\-   
-உதாஹரணமாகட்டுமே என்று கேட்டுக்கொண்டு, kaaiq नास्ति प्रयोजनम्, “प्रधानकर्तरि लादयो भवन्ति" इति प्रधानकर्ता क्तेन अभिधीयते। 
+(ல.க) கேள்வி:- யாகத்தில் அக்னிஸாபேக்ஷமான கர்மங்களில் விதிபலத்தால் பத்னீக்கு கணவனுடன் சேர்ந்து சில செயல்களைச் செய்ய தகுதியை ஒப்பினோம். இங்கு பிராட்டி விஷயத்தில் அப்படி விதியில்லையே? பகவானைப் போன்று ஜகத்ஸ்ருஷ்ட்யாதிகளையும் మోக்ஷமருள்வதையும் பிராட்டியும் செய்வாள் - என்று விதி இருந்தால் உலகிலுள்ள தம்பதிகளில் போல் எப்போதாவது இருவருக்குமிடையே கருத்து வேற்றுமை முதலானவைகள் ஏற்படும். கர்மங்களுக்கு உட்பட்டவள் என்பதுமாகுமே? என்று.
 
-तत्र கரி’ इत्येव तृतीया   
-यच्च अप्रधानम्   
-1 
+இது சாஸ்த்ரங்களை நன்கு பராமர்சம் செய்யாததால் வந்த குழப்பமாகும். நீங்கள் கூறியதில் "स्वपतिकर्तृककर्मकर्त्रीत्वे" என்ற போது - 1) அக்னியை எதிர்பார்த்த கர்மங்கள் மட்டும் விவக்ஷிதமா? அல்லது 2) கணவன் செய்யும் ஒவ்வொரு செயலையும் மனைவியும் செய்தே ஆகவேண்டும் என்பதைக் காட்டும் விதிவாக்யம் வேண்டுமா? அல்லது 3) கணவன் செய்வதை இவளும் செய்யத்தகுந்தவள் என்பதா? 4) விதிவாக்யமிருந்து அதானால் உபலக்ஷணவிதயா அறிவிக்கப்பட்ட அந்தந்த செயல்களை இவளும் செய்யக் கூடியவள் – என்பதா?
 
-விளக்கிக்காட்டிவிட்டு, அதன்பிறகு \-   
-என்று 
+1) முதலில் கூறியது பொருந்தாது. கணவன் செய்யும் விருந்தாளிகளை உபசரிப்பது என்ற செயலில் அக்னிகார்யமான ஹோமாதிகள் எதுவுமில்லாதபடியால் இப்படிக்கூறுவது தகாது. साध्यव्यापकत्वम् என்பதிங்கு இல்லை ஆனபடியால் இது सोपाधिकम्. இதற்காக अग्निसापेक्षत्वम् என்ற விசேஷணத்தை விட்டுவிட்டு परिष्कृतम् செய்கிறோம் - என்னிலும், இதுவும் தகாது. லக்ஷ்மிதேவி ஸ்ரீஸீதையாக அவதரித்தபோது அக்னியைக் கொண்டு செய்யவேண்டிய அக்னிஹோத்ராதிகளைச் செய்ததாய் ஸ்ரீமத்ராமாயணத்தில் உள்ளபடியால் साधनाव्यापकता என்பது வரும்.
 
-aq 
+2) இரண்டாவது பக்ஷமும் தகாது. கணவன் செய்யும் வீடுகட்டுதல் முதலான செயல்களில் மனைவியும் அந்தந்த வேளைக்கு ஏற்றபடி வீடு கட்டும் தொழிலில் ஈடுபடுவதால் "இப்படிசெய்தே ஆகவேண்டும்” என்ற விதிவாக்யத்தை இங்கெல்லாம் காட்டமுடியாதே.
 
-என்றவிடத்தில் யாது க என்றாகும் என்று காட்டினார். ஆகவே இங்கு Ø என்ற புளிகயால் THU4jம் தெரிவிக்கப்பட்டபடியால் 
+3) இப்படி கூறியபடியாலேயே மூன்றாவது பக்ஷமும் நேரில்லை. வீட்டுவேலைகளில் ஈடுபடுவது - என்பதை உலகில் மனைவிக்கும் கண்டுவருகிறோம். ச்ருதிகளிலும் – ப்ரமாணங்களிலும் -
 
-ஏற்படும்.   
-ம் கட்டாயம் 
+> "लक्ष्म्या सह हृषीकेशो देव्या कारुण्य-रूपया।
+> रक्षकस् सर्व-सिद्धान्ते वेदान्तेषु च गीयते॥"
 
-பகவானுக்கு லக்ஷ்மி புரிபுரி என்ற கொள்கையும் தப்பு. இந்த, பின் தொடர்ந்து செயல்படுவதாகிய 3fd4 கயில் சேர்ந்தது என்று கூறினால் அது. எம்பெருமானுடைய தயையும் நமது ரக்ஷணத்தில் பயன்படுவதால் சாÅபு ஏற்படும். "இந்த H \- கணத்தை விட வேறு" என்றால்   
-என்ற போது த்ருதீயை கரணார்த்தத்தில் என்று முடிவாகும். அது நேரில்லை. qRA\-fi என்றுதான் ப்ரயோகமே ஒழிய \- 
+[மூவகை இந்த்ரியங்களையும் அடக்க த்யானிக்கவேண்டியவனான எம்பெருமான், கருணையே வடிவான பெரியபிராட்டியாருடன் கூடி உலகினரை ரக்ஷிப்பவராக ஸ்ரீபாஞ்சராத்ராகமங்கள் யாவற்றிலும் வேதாந்தங்களிலும் புகழ்ந்து பாடப்படுகிறார்] [[P216]] என்பதைப் போன்ற பலவசனங்கள் பிராட்டிக்கும் ஜகத்ஸ்ருஷ்டி-மோக்ஷமருளல் முதலானவைகள் உண்டு என்று காட்டுகிறபடியால் साधनाव्यापकत्वम् என்பதில்லை.
 
-परशुना सह   
-என்பது ஸாதுப்ரயோகமில்லையே.   
-\- 
+4) அதனாலேயே நான்காவது பக்ஷமும் சரியில்லை. பிராட்டியும் ஜகத்ஸ்ருஷ்ட்யாதிகளைப் பண்ணுகிறாள் என்று பல்லாயிரக்கணக்கான ப்ரமாணங்கள் காட்டுகின்றனவே. "आनीद् अवातं स्वधया तद् एकम्" [காற்றுக் கூட ஸ்ருஷ்டிக்கப்படாத அந்த மஹாப்ரளய காலத்தில் ஸ்வதா சப்தத்தால் தெரிவிக்கப்பட்ட பெரியபிராட்டியருடன் கூடிய அந்தபகவான் ஒருவரே எல்லோருக்கும் ஜகத்ப்राணனாய் விளங்கி எழுந்தருளியிருந்தார்] என்பன போன்ற ச்ருதி- ஸ்ம்ருத்யாதிகளால் பகவான் செய்தருளும் ஜகத்ஸ்ருஷ்ட்யாதிகளில் பிராட்டியும் உடன் செயல்படுவதாய் உள்ளபடியால் இதற்கு மாறாக ஸாதிக்கமுடியாதே.
 
-அப்போது Hē என்ற சப்தம் வேண்டாமே. லக்ஷ்ம்யா ஸஹ 
+ஸாக்ஷாத்தாக ஜகத்ஸ்ருஷ்ட்யாதிகளைப் பிராட்டி செய்வதாய் விதிவாக்யமில்லாதபடியால், அப்படி விதிவாக்யத்தைக் காட்டினால் அதனால் கர்மவச்யத்வம் பிராட்டிக்கு வந்துவிடுமே என்பீராகில் - அப்போது உங்கள் பக்ஷத்தில் பகவானிடமும் இது தடுக்கமுடியாத குற்றமாய் அமையும்.
 
-என்றபோது   
-கப்வுகள் 
+யாகத்தில் எல்லா வேலைகளையும் யஜமான பத்னீ செய்வதில்லை. पत्नीसंयाजादिकளையே ஸாக்ஷாத்தாகச் செய்கிறாள். மற்றைய செயல்களில் அநுமதி செய்வதே அவள் கொண்டது. இப்படியிருக்க வேள்வியை த்ருஷ்டாந்தமாக்கி ஜகத்ஸ்ருஷ்ட்யாதிகளை பிராட்டிக்கும் உண்டு என ஸாதிக்க முற்படுவது பொருந்துமா? எனக்கேள்வி. ஜகத்ஸ்ருஷ்ட்யாதி வ்யாபாரங்களில் [[P217]] பிராட்டியின் அநுமந்த்ருத்வம் என்பது ஜகத்ஸ்ருஷ்ட்யாதி வ்யாபாரங்களில் அவளும் செயல்படுவது என்பதாகும். 
 
-தெரியவில்லையே. 
+---
 
-இப்படியானால் பிராட்டியே   
-கிடையாதே, 
+(ल.उ.दी) अत एव "दम्पति-प्रपदनं च व्यर्थम्" इत्य्-आदिकम् दूरोत्सारितम्। पुरुषकार-प्रपत्त्या रक्षा-विषया-अप्रतिषेध-सिद्धौ अपि "शृणाति निखिलान् दोषान् श्रीणाति च गुणैर् जगत्", "वेरिमाड़ात् पूमेल् इरुप्पाल् विनै तीर्क्कूमे" इत्य्-आदि-प्रमाण-सिद्ध-अनिष्ट-निवृत्ति-पूर्वक-इष्ट-प्रापण-रूप-रक्षा-सङ्कल्पाद्य्-आश्रयत्वा-सिद्ध्या तद्-उपयोगे दम्पति-प्रपदनस्यावैयर्थ्यात्, अत एव "शृणाति" इति दोष-निवर्तन-अनुकूल-व्यापार-प्रतीतेर् अप्रतिषेधस्य व्यापार-रूपत्वाभावात् कथम् उपायत्व-प्रतीतिर् इति परास्तम्। अप्रतिषेध-अतिरिक्त-उपायत्वस्य बहु-प्रमाण-सम्प्रदाय-अनुसारेण स्थापितत्वात्। 
 
-வேண்டாமே? 
+न चैवं भू-धातोः प्राप्त्य्-अर्थकत्वेन णिज्-अर्थ-अन्तर्भावे सति प्रापकत्वस्यापि भू-शब्देन वक्तुं शक्यत्वात् भूम्याम् अप्य् उपायत्व-प्रसङ्ग इति वाच्यम्, 'शृणाति निखिलान् दोषान्' इति श्री-शब्द-अर्थ-निर्वचन-रूप-प्रमाणवत् प्रापकत्व-रूपतया भू-शब्द-अर्थ-निर्वचन-रूप-प्रमाण-अभावात्। अन्यथा 'अग्रं नयतीत्य् अग्निः' इति व्युत्पत्त्या अग्नेर् अपि मोक्ष-प्रदत्वं स्यात्। 
 
-(:) 66060T & FIT. இதை ஸ்வாமிதேசிகனே ஸ்ரீகுணரத்னகோஸத்தில் (சு.31) வரும் ஒரு சுலோகத்தைக் காட்டி மறுத்துள்ளார். 
+न च "अग्निरवमो देवतानाम्, विष्णुः परमः" इति श्रुत्या अग्नेर् अवमत्व-अवगमेन तद्-व्युत्पत्ति-विषयत्व-असम्भवः, प्रत्युत "साक्षाद् अप्य् अविरोधं जैमिनिः" इति सूत्र-भाष्य-अनुरोधेन भगवत्-परत्वम् एव स्याद् इति वाच्यम्, एवं सति "लक्ष्मीं प्रिय-सखीं देवीं", 
 
-"எ:வி: 4, q q 
+> "महाविभूतेस् सम्पूर्ण-षाड्गुण्य-वपुषः प्रभोः।
+> भगवद्-वासुदेवस्य नित्यैवैषानपायिनी॥
+> एकैका वर्तते भिन्ना ज्योत्स्नेव हिमदीधितेः।
+> सर्व-शक्त्यात्मना चैव विश्वं व्याप्य व्यवस्थिता॥
+> सर्व-ऐश्वर्य-गुण-उपेता नित्यं तद्-धर्म-धर्मिणी।
+> प्राण-शक्तिः परा ह्य् एषा सर्वेषाम् प्राणिनां भुவி॥
+> शक्तीनाम् अपि सर्वासां योनि-भूता परा फला।
+> यस्माल् लक्ष्म्य्-अंश-भूतास् ताः शक्तयो विश्वगाः सदा॥
+> कारणत्वेन तिष्ठन्ति सृजन्त्य् अस्मिंस् तद्-आज्ञाया।
+> तस्मात् प्रीता जगन्-माता श्रीर् यस्याच्युत-वल्लभ॥
+> सुप्रीताः शक्तयस् तस्य सिद्धिम् इष्टां दिशन्ति च।
+> एक एव जगत्-स्वामी शक्तिमान् अच्युतः प्रभुः॥
+> तद्-अंशाः शक्तिमन्तो ऽन्ये ब्रह्म-ईशान-आदयो ऽवराः।
+> तथैवैका परा शक्तिः श्रीस् तस्य करुणाश्रया॥
+> ज्ञान-आदि-षड्-गुणमयी या प्रोक्ता प्रकृतेः परा।
+> एकैव शक्तिः श्रीस् तस्य द्वितीया परिवर्तते॥
+> परावरेण रूपेण सर्व-आकारा सनातनी।
+> अनन्त-नामधेया च शक्ति-चक्रस्य नायिका॥
+> जगच् चराचरम् इदं विश्वं व्याप्य व्यवस्थिता।
+> तस्माद् एकैव परमा श्रीः ज्ञेया विश्व-रूपिणी॥
+> सौम्य-असौम्येन रूपेण सा स्थिता वट-बीजवत्।
+> यो यो जगति पुम्भावः स विष्णुर् इति निश्चयः॥
+> यो यस् तु नारीभावः स्यात् तत्र लक्ष्मीर् व्यवस्थिता।
+> प्रकृतिः पुरुषश् चान्या तृतीया नैव विद्यते॥
+> अथ किं बहुनोक्तेन नर-नारीमयो हरिः।
+> अनेक-भेद-भिन्नस् तु क्रीडते परमेश्वरः॥
+> महाविभूति-दयितां ये स्तुवन्त्य् अच्युत-प्रियाम्।
+> ते प्राप्नुवन्ति परमां लक्ष्मीं संसिद्ध-चेतनाः॥" [[P218]]
 
-त्वदायत्तर्द्धित्वेऽप्यभवद् अपराधीनविभवः । 
+---
 
-स्वया दीप्त्या रत्नं भवदपि महार्घं न विगुणं 
+(0.5) "தம்பதிகள் இருவரையும் சரணாகதிசெய்ய வேண்டும் என்பது வீண்" என்று பூர்வபக்ஷி கூறினார். இது அடியோடு பொய், புருஷகாரப்ரபத்தி பெரியபிராட்டியாரிடம் செய்வது. தொலையவும், நமக்காக எம்பெருமானிடம் பரிந்து பேசவும், இது முதலில் செய்தபிறகு திவ்யதம்பதிகள் இருவரிடமும் செய்வது ப்ரதானமான ப்ரபத்தியாகும். தானே புஸ்தகத்தைப் பார்த்ததால் வந்த கோளாறுதான் பூர்வபக்ஷியை இப்படியெல்லாம் பேசவைக்கிறது. முறைப்படி ஆசார்யர்களிடம் சரணாகதியைச் செய்த பிறகு, அவர்கள் உபதேசித்த ஓரானோர்வழியாய் ஸ்ரீமந்நாதமுனிகள் காலம் தொடங்கி ஸம்ப்ரதாய பேதமின்றி அநுஷ்டித்துவரும் ப்ரபத்திப்ரயோகத்தை ஆசார்யரிடமிருந்து உபதேசமாகப் பெற்று இதில் தெளிவு பெறவும்.
 
-न कुण्ठस्वातन्त्र्यं भवति च न चान्याहितगुणम् । ।" 
+"शृणाति निखिलान् दोषान् श्रीणाति च गुणैर्जगत्" [ஸ்ரீ: என்ற சொல்லால் தெரிவிக்கப்பட்ட பிராட்டியானவர், தன்னிடம் புருஷகாரப்ரபத்தியை அநுஷ்டித்தவர்களின் எல்லா குற்றங்களையும் போக்கடிக்கிறாள். தமது அனந்தமான கல்யாணகுணங்களால் உலகினரை எம்பெருமானை அடையவைக்கிறாள்], "வேரிமாறாத பூமேலிருப்பாள் வினைதீர்க்குமே" *(திருவாய்மொழி ४.५.११)* [துளியும் வாஸனை மாறாத வாடாத பூமேல் உறையும் பெரியபிராட்டியார் நமது தீவினைகளைப் போக்குவாள்] இத்யாதிகளான ப்ரமாணங்களால் ஸம்ஸாரநிவ்ருத்தியும், இஷ்டப்ராப்தியும் பிராட்டியின் நமது அநிஷ்டமான மோக்ஷமடைவதாகிய ஸங்கல்பத்தால் [[P219]]
 
-98 
 
-\-   
-लक्ष्म्युपायत्वदीपः 
+ஏற்படுகிறது என்பது ஏற்படுகிறது. இதற்கு உபயோகப்படும் திவ்யதம்பதிகளின் ப்ரபத்தியை வ்யார்த்தம் என்ன முடியுமோ? இங்கு எடுத்த வசனத்தில் "अनन्या हि मया सीता" என்று யரி fdqங்கள் தெரியவருகின்றன. "अहं सीतानन्यः" என்பது ஒருசெயலில்லை. ஆகவே அதற்கு எப்படி अन्यत्वप्रयुक्तदोषः கூடும்? என்ற கேள்வி இங்கு எழாது. [[P220]]
 
-\-   
-என்பது அந்த ச்லோகம். விசேஷணத்தால் ஏற்பட்ட அதிமயம் ஏற்கெனவே அதியைமான பொருளுக்கு வைகுண்யத்தை உண்டு பண்ணாது \-என்பதை ரத்னம் அதன் ஒளி என்ற இரு பொருளையும் கொண்டு நிரூபித்து \- அதைப்போல் இங்கும் எம்பெருமானுக்கு இயல்பாக உள்ள பெருமைகள் \- பிராட்டியின் பெருமைகளால் பூரித்ததே ஒழிய முன்பு இல்லாமலிருந்து புதியதாய் வந்தவைகள் அல்ல \- என்று காட்டினார்.   
-\- 
+### **लक्ष्म्युपायत्वदीपः**
 
-இவ்வளவு தூரம் ஒப்பவில்லை என்றால் \- அனந்த கல்யாணகுணங்களால் எம்பெருமான் 4\-ன்\= நன்கு எளிதில் ஆஸ்ரயிக்கத்தக்கவன் என்பதும், திருமேனி ஸௌந்தர்யாதிகளால் மங்களங்களை நமக்கு அருள்பவன் என்பதும், மற்றும் இத்தகையனவும் ரா\-வுககரிபுகளுக்கு ஒப்பியபடியால் \- அங்கும் FRI4 ஏற்படும். 
+பத்தைவிட ஒரு உபாயம் உண்டு என்பதை பல ப்ரமாணங்களையும் ஸம்ப்ரதாயத்தையும் காட்டி கீழே பலபடி விளக்கினோம். இதன் மேல் ஒரு கேள்வி:- 'शृणाति' என்பதாக புரியாகத்தில் ஒரு தாது உண்டு. "शृणाति निखिलान् दोषान्" என்ற வார்த்திகத்தின் படிக்கு 'ணிச்' இல்லாதபோது புரியாகத்தில் பூமிப்பிராட்டியைக் கூறி அவளும் மோக்ஷமடைவிக்கவல்லவள் - என்று கொண்டால் என்ன? அதனால் மோக்ஷாபாயமாகட்டுமே - என்று.
 
-\-   
-பிராட்டிக்கும் உபாயத்வம் கொண்டால் 3பு4 என்பது பகவானுக்கு இல்லாமல் போய்விடுமே என்று எண்ணவேண்டாம். இவளை உபேயகோடியில் சேர்த்தாலும் अनन्योपेयत्वम् என்பதும் பகவானுக்கு ஸித்திக்காதே\! "விஷேணரூபேண பிராட்டி உபாயகோடியில் சேர்கிறாள் \- என்று கொண்டாலும், இங்கும் இப்போதும் அது ஸமம் \- என்று ஆசார்யர் திருவுள்ளப்படுகிறார். 
+பதில்:- “शृणाति निखिलान् दोषान्” என்ற ஸ்ரீசப்தார்த்தநிர்வசனத்தைப் போன்று பூமிப்பிராட்டியையும் மோக்ஷப்ராபிகையாகக் கூறும் ப்ரமாணமில்லை. இப்படியெல்லாம் வீண்பிடிவாதம் கொண்டால் "अग्रं नयतीत्यग्निः" என்ற வ்யுத்பத்தியை ஸ்ரீபாஷ்யகாரர் அக்னி சப்தத்துக்குக் காட்டியதைக் கொண்டு அக்னிக்கும் मोक्षप्रदत्वम् ஒப்பவேண்டும்.
 
-(S.3.)   
-यदप्यर्वाचीनैरभिहितम्,   
-तत्प्रमाण- 
+கேள்வி:- "अग्निरवमो देवतानाम्, विष्णुः परमः" என்று ச்ருதி உள்ளபடியால் அக்னிக்கு, உள்ள தேவதைகளில் அடிமட்டத்து நிலையே உண்டு - என்று ஏற்படுகிறபடியால் அக்னியை मोक्षप्रदत्वम्-னாகக் கொள்ள முடியாது. மேலும் "साक्षादप्यविरोधं जैमिनिः" என்ற ஸூத்ரத்தில் பாஷ்யத்தில் அருளியபடி இந்த வாக்யத்தில் உள்ள அக்னி என்ற சொல் பகவானையே கூறும் - என்று.
 
-सम्प्रदायस्वारस्याज्ञानविजृम्भितम्,   
-तथाहि   
-लोके 
+பதில்:- "लक्ष्मींप्रियसखीं देवीं" [பெரிய பிராட்டியாருக்கு மிகவும் ப்ரியமான தோழியான அச்யுதவல்லபையான பூமிப்பிராட்டியை ஸேவிக்கிறேன்) என்றும், [[P221]]
 
-अपराधिनामपराधप्रतिसम्बन्धिप्राप्तिकार्ये   
-घटकोपायसम्बन्धदर्शनेन 
+> "महाविभूतेस् सम्पूर्ण-षाड्गुण्य-वपुषः प्रभोः।
+> भगवद्-वासुदेवस्य नित्यैवैषानपायिनी॥"
 
-भगवत्प्राप्तिरूपकार्यं प्रति कस्य घटकत्वं कस्योपायत्वमित्यपेक्षायां " मत्प्राप्तिं 
+[அளவிடமுடியான વિભૂதிகளை உடையவரும் எப்போதும் ஜ்ஞான-சக்தி-பல-ஐஸ்வர்ய-வீர்ய-தேஜஸ் என்ற ஆறுகுணங்கள் நிரம்பியவரும், உலகினர் யாவருக்கும் தலைவரும், பகவானுமான ஸ்ரீவாஸுதேவனின் என்றும் பிரிவில்லாத நித்யஸாந்நித்யத்தை உடைய இந்த பெரியபிராட்டியார்.]
 
-प्रती" त्यादिप्रथमश्लोकेन संसारे अधःपततां जन्तूनां तन्निवृत्तिपूर्वकभगवत्प्राप्तिं 
+> "एकैका वर्तते भिन्ना ज्योत्स्नेव हिमदीधितेः।
+> सर्व-शक्त्यात्मना चैव विश्वं व्याप्य व्यवस्थिता॥"
 
-प्रति   
-पुरुषकारत्वे लक्ष्मीः   
-“जाज्वल्यमानं 
+[குளிர்ந்த கிரணங்களை உடைய சந்த்ரனின் நிலவுபோல் விட்டுப்பிரிக்க முடியாதபடி பகவானோடு ஒன்றியவளாய் உலகு முழுவதிலும் இந்த பிராட்டி வியாபித்து உள்ளாள்.]
 
-99   
-तं दृष्ट्वा नारसिंहं   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+> "सर्व-ऐश्वर्य-गुण-उपेता नित्यं तद्-धर्म-धर्मिणी।
+> प्राण-शक्तिः परा ह्य् एषा सर्वेषां प्राणिनां भुवि॥"
 
-सुरोत्तमाः।पुरस्कृत्य श्रियं भेजुः शरणं   
-शान्तिकांक्षिणः”, 
+[ஈஸ்வரனைச் சேர்ந்த எல்லாகுணங்களுடன் கூடியவள், எப்போதும் பகவானின் நற்பண்புகளையே தனக்கும் பண்புகளாகக் கொண்டவள், உலகிலுள்ள எல்லாப்ப்ராணிகளுக்கும் மிக உயர்ந்த ப்ராண சக்தியே இவள் தான்.]
 
-"सीतामुवाचातियशाः राघवं च महाव्रतम्" इत्यादिषु परमर्षिभिर्निर्दिष्टेति ससंवादं पुरुषकारत्वोद्देशेन लक्ष्मीसम्वन्धित्वं विधीयते; तेन च "सर्वं वाक्यं सावधारणम्” इति न्यायेन पुरुषकारत्वस्य लक्ष्म्यसाधारण्यप्रतीत्या लक्ष्मीलक्षणत्वमपि सिद्धम्, पुरुषकारत्वस्य लक्ष्मीसम्वन्धित्वं तल्लक्षणत्वं च ममापि सम्मतमिति दृढीकृत्य पुरुषकारत्वतदुपयुक्तधर्मातिरिक्तमस्या लक्षणं न भवेदिति "ममापी त्यर्धेनाभिधाय, मत्प्राप्त्युपायश्च स्वयंस्वरूपेणैव पतित्वसम्बन्धेन लक्ष्मीविशिष्टोऽहमित्युपायत्वोद्देशेन लक्ष्मीविशिष्टस्य सम्बन्धित्वम् "अहं मत्प्राप्ती"त्यर्धेन विधाय तेनैव पुरुषकारत्वाद्यतिरिक्तोपायत्वादेर्लक्ष्मी\-लक्षणत्वाभावमतिव्याप्त्या दृढीकृत्य, वाल्लभ्यादिप्रयुक्तपुरुषकारत्वयोग एवैतस्या विशेषः उपायत्वं तूभयसाधारणमिति "नि च देवीं मातरं श्रियं वासय मे कुले, मातरं पद्ममालिनीम्”*,*“विश्वप्रिये विष्णुमनोनुकूले", "आनीदवात‍ स्वधया तदेकम्”, “श्रद्धया देवो देवत्वमश्नुते”, “तः ह देवमात्मबुद्धिप्रसादं मुमुक्षुर्वै शरणमहं प्रपद्ये", "यं कामये तं तमुग्रं कृणोमि तं ब्रह्माणं तमृषिं तं सुमेधाम्”, “अहं रुद्राय धनुरातनोमि ब्रह्मद्विषे शरवे हन्तवा उ । अहं जनाय समदं कृणोम्यहं द्यावापृथिवी आविवेश । अहं सुवे पितरमस्य मूर्धन्मम योनिरप्स्त्वन्तस्समुद्रे, ततो वितिष्ठे भुवनानि विविश्वोत मम द्यां वर्ष्मणो पस्पृशामि, अहमेव वात इव प्रवाम्यारभमाणा भुवनानि विश्वा, परो दिवा पर एना पृथिव्यैतावति महिना सम्बभूव", "कामवत्सामृतं दुहाना ", " सा नो लोकममृतं दधातु” इत्यादिनिगमान्तेषु प्रतिपाद्यत इति "लक्ष्मीः पुरुषकारत्वे वल्लभे”त्यादिश्लोकेनोपसंहृतम्। तथा च प्रमाणान्तरानुगुणस्वरसतः प्रतीयमानोक्तार्थपरत्व- सम्भवेनेत्यनेन व्यवस्थावचनेनेत्यादिना "अहं मत्प्राप्त्युपायो वै" इत्यनेन भगवत एवोपायत्वं प्रतीयते न लक्ष्म्याः, अतस्तत्रासम्भव एवेत्यन्तेनोक्तं सर्वमपि निरस्तम् । 
+> "शक्तीनाम् अपि सर्वासां योनि-भूता परा फला।
+> यस्माल् लक्ष्म्य्-अंश-भूतास् ताः शक्तयो विश्वगाः सदा॥"
 
-100 
+[எல்லா வகையான சக்திகளுக்கும் உயர்ந்த சக்தியாயும், எல்லாவற்றிற்கும் காரணமானவளும் உயர்ந்த பயனாகவும் இவள் இருப்பவள்.]
 
-\-   
-लक्ष्म्युपायत्वदीपः 
+> "कारणत्वेन तिष्ठन्ति सृजन्त्य् अस्मिंस् तद्-आज्ञया।
+> तस्मात् प्रीता जगन्-माता श्रीर् यस्याच्युत-वल्लभ॥"
 
-(ல.க) கேள்வி:\- லஷ்மியை உபாயம் என்பது பகவானுக்கு இவள் புசி என்றபடியால் அவனது சீற்றத்தை ஆற்றுவாள் என்பதைக்கொண்டு, இல்லாவிடில் பு என்று கீழே நாம் (பூர்வபக்ஷி\] தெரிவித்தபடி பகவானின் திருவுள்ளம் உகந்து நம்மை ஸ்வீகரிக்கும்படியான நிலைக்கு மாற்றுவதையே பிராட்டி செய்கிறாள் \- உபாயமாகி நம்மை நியமிப்பதைச் செய்யவில்லை என்று இவர்கள் கூறுவது நேரில்லை. 
+[உலகிலுள்ள எல்லாவகை சக்திகளும் லக்ஷ்மியின் அம்சமே. உலகைப்படைக்க இவையே காரணமாக எம்பெருனானின் உத்தரவுபடிக்கு இருக்கின்றன. அதனால் என்றும் மகிழ்வுடனிருக்கும் உலகினர் அனைவரின் தாயான ஸ்ரீலக்ஷ்மிதேவி அச்யுதன் என்ற எம்பெருமானின் [[P222]] ப்ரியமான மனைவி.]
 
-பதில்:\-   
-\- 
+> "सुप्रीताः शक्तयस् तस्य सिद्धिम् इष्टां दिशन्ति च।
+> एक एव जगत्-स्वामी शक्तिमान् अच्युतः प्रभुः॥"
 
-ரிமானவைகளும்,   
-3ரியைக் 
+[அந்த எம்பெருமானின் சக்திகளான இவைகள், அவரவர் விரும்பிய கார்யஸித்தியை கொடுக்கின்றனர். எல்லா உலகத்துக்கும் ஸ்வாமியானவரும், தன்னை அண்டினவர்களை நழுவவிடாதவரும் ப்ரபுவுமான ஸ்ரீமந்நாராயணன் ஒருவரே உயர்ந்த தலைவர்.]
 
-கூறமுடியாதவைகளாக இருக்கும் ப்ரமாணங்களையும், பூர்வாசார்ய ஸம்ப்ரதாயங்களையும் காட்டி \- பிராட்டிக்கும் ஜகத்காரணத்வம்\-நியந்த்ருத்வம்\-ஸர்வஸேஷித்வம்- 
+> "तद्-अंशाः शक्तिमन्तो ऽन्ये ब्रह्म-ईशान-आदयो ऽवराः।
+> तथैवैका परा शक्तिः श्रीस् तस्य करुणाश्रया॥"
 
-\-   
-இது முதலானவைகளை நாம் 
+[இவருடைய அம்சபூதர்களாய் பிரமன், சிவன் முதலானோர் சக்தியுள்ளவராய் எம்பெருமானைவிட சிறிது தாழ்ந்த நிலையிலிருப்பவர்கள். அந்த எம்பெருமானுடைய முக்யமானதோர் சக்தியாகவே கருணைக்கு இருப்பிடமான பிராட்டியார் உள்ளார்.]
 
-பலபடி காட்டினபடியால்   
-\-   
-ஸர்வரக்ஷகத்வம் \[பரகாலஸ்வாமி\]   
-இவை எடுபடாதவை. भगवत्पारतन्त्र्यं பிராட்டிக்கு जगत्कारणत्व- Aபுகளைத் தடுக்காது. ஆகவே பிராட்டியும் உபாயமே. சில நவீனர்கள் கூறியதும் நேரில்லை. உலகில் ஒருவர் பிழைசெய்தால் அதற்கு மன்னிப்பைத்தேடும் போது மன்னிக்க இசைய வைப்பவர் \[ர்\], மன்னிப்பவர் \- என்று இருவரைக் கண்டுள்ளோம். அதேபோல் இங்கும் எம்பெருமான் நம் பிழைகளை மன்னிக்கிறார். மன்னிக்க இசையவைப்பவள் பிராட்டி. ஆகவே க என்னப்பட்ட பிராட்டி எப்படி உபாயமாக முடியும்? ஆகவே "a जन्तूनां संसारे पतताम् अधः । लक्ष्मी: पुरुषकारत्वे निर्दिष्टा परमर्षिभिः । ममापि च मतं ह्येतत् नान्यथा लक्षणं भवेत् । अहं मत्प्राप्त्युपायो वै साक्षात् लक्ष्मीपतिः स्वयम् । : வுக   
-" என்று முன்பு எடுத்து அறியப்படுவது பிராட்டி பிராட்டி புருஷகாரமாய்   
-விளக்கின ப்ரமாணங்களால் புருஷகாரம்   
-என்பதே. 
+> "ज्ञान-आदि-षड्-गुणमयी या प्रोक्ता प्रकृतेः परा।
+> एकैव शक्तिः श्रीस् तस्य द्वितीया परिवर्तते॥"
 
-101   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் அமைந்ததை ஸ்ரீவிஷ்ணுபுராணம் காட்டுகிறது \- G|   
-ஐ : A:   
-: என்று. \[ஸ்ரீப்ரஹ்லாதாழ்வானைப் பாதுகாக்க கம்பத்திலிருந்து தோன்றிய நரங்கலந்த சிங்க உருவான எம்பெருமானை ஸேவித்து பயந்த தேவர்கள் யாவரும் பெரியபிராட்டியை சரணாகதி பண்ணி இவளை முன்னிட்டுக்கொண்டு சாந்தியை விரும்பினார்கள் \- என்று இதன் பொருள்.) என்று உள்ளது. இதனை ஸ்வாமிதேசிகன் அருளியபடி "புல் ப்தில் பிறந்த சீற்றத்தின் ஈத்தைக்கண்டு அணுக அஞ்சின கள், 
+[இவர் ஜ்ஞானம்-சக்தி-பலம்- ஐச்வர்யம்-வீர்யம்-தேஜஸ் என்ற ஆறு குணங்களே உருவானவளாகவும், மூலப்ரக்ருதிக்கு உயர்ந்த அப்பாற்பட்டவளாகவும் மஹரிஷிகளால் தெரிவிக்கப்பட்ாள். அந்த எம்பெருமானின் மிக உயர்ந்த இந்த ஒரு சக்தியே அவனைவிட வேறானவளாய் அவனோடு உறைபவளாய் அவரவர் பூர்வகர்மங்களுக்கு ஏற்ப - உயர்ந்தும் தாழ்ந்தும் எல்லா உருவிலும் அநாதிகாலமாய் இருந்து சுற்றிச்சுற்றி வருகிறாள்.]
 
-இவளை மாகப் பற்றி இவள் முன்னிலையாக விரிவுனான HRனைக்கிட்டி riz4 பண்ணினார்கள் என்று A" என்று.   
-இதே போல் “சி்: rai \= 48|Ad4" (அயோத்யா 31-2) என்று ஸ்ரீமத் ராமாயணத்தில் உள்ளதை காண்க. இப்படி பரிந்து பேசுவது லக்ஷ்மீ ஒருவருக்கே அஸாதாரணமான லக்ஷணம் \- என்பது பூர்வபக்ஷிகளின் வாதம். 
+> "परावरेण रूपेण सर्व-आकारा सनातनी।
+> अनन्त-नामधेया च शक्ति-चक्रस्य नायिका॥"
 
-இதுவும் நேரில்லை. பரிந்து பேசுவதை வடமொழியில் ஸந்துக்ஷணம் என்பர். இது பிராட்டிக்கு மாத்ரம் ஏற்பட்டதல்ல :\- 
+> "जगच् चराचरम् इदं विश्वं व्याप्य व्यवस्थिता।
+> तस्माद् एकैव परमा श्रीः ज्ञेया विश्व-रूपिणी॥" [[P223]]
 
-“अस्ति कर्मार्हफलदे पत्यौ कृत्यद्वयं श्रियः । 
+[எம்பெருமान் அநந்தனைப் போன்று இவளும் अनन्ता எனப்பெயர் பூண்டு, எல்லா வகை சக்திகளின் கூட்டத்திற்கும் தலைவியாய் இந்த அசையும் அசையாததுமான உலகம் முழுவதையும் வ்யாபித்து, அததற்குண்டான வ்யவஸ்த்தைகளைச் செய்து வருகிறாள். இவளுக்கு மேலானவள் என்னப்பட்டவளும், உலகில் ஒருவருமில்லை. பலரூபங்களைக் கொண்டவளும், श्रीः என்னப்பட்டவளும், மிகவும் அழகான தனது திருமேனி சோபை, ஆத்மகுணங்கள் இவற்றால் எல்லோராலும் ஆச்ரயிக்கும் நிலையிலிருப்பவளும், ஒரு சிறிய ஆலம்விதை – மரங்களிலேயே மிகப்பெரிய ஆலமரம் பலவிழுதுகளுடன் வளர எப்படி காரணமாய் அமைகிறதோ – அப்படி உலகினர் வாழ இவள் காரணமாய் இருப்பவள்.]
 
-Mu u காக்   
-\- 
+> "सौम्या सौम्येन रूपेण सा स्थिता वट-बीजवत्।
+> यो यो जगति पुम्भावः स विष्णुर् इति निश्चयः॥"
 
-II" என்றநிலை பூமிப்பிராட்டிக்கும் உண்டு. இதனை \- "சரக\! f 
+> "यो यस् तु नारीभावः स्यात् तत्र लक्ष्मीर् व्यवस्थिता।
+> प्रकृतिः पुरुषश् चान्या तृतीया नैव विद्यते॥"
 
-d:" என்று (அபீதிஸ்தவம் \- 24) ஆசார்யர் காட்டினார். ஆகவே ममापि च 41 ä என்பதற்கு பிராட்டி புருஷகாரமாயிருப்பது எம்பெருமானும் ஒப்பியது என்பதைச் சொல்லவந்தது. என்பது ஒன்றுதான் பிராட்டிக்கு ஏற்பட்ட விஸேஷம். உபாயத்வம் இருவருக்கும் பொதுவே. 
+[உலகில் புමාන්= ஆண் என்ற நிலை எந்த ஜந்துவுக்கு உண்டோ அவையாவும் ஸ்ரீவிஷ்ணு என்பதாகவே முனிவர்களின் முடிவு. யார் யார் பெண் என்ற நிலையில் இருப்பவர்களோ அவர்கள் எல்லோரும் லக்ஷ்மியே என்பதாகவும் முடிவு செய்தனர். மூலப்ரக்ருதிக்கு அதிஷ்டானமான தேவதையான லக்ஷ்மியை விடவும், ஜீவாத்மாக்களை பரிபாலனம் செய்துவரும் புருஷஸூக்த ப்ரதிபாத்யனான பரமபுருஷனையும் விட வேறான - மூன்றாவது சக்திவாய்ந்த பொருள் எதுவுமில்லை.]
 
-102 लक्ष्म्युपायत्वदीपः 
+> "अथ किं बहुनोक्तेन नर-नारीमयो हरिः।
+> अनेक-भेद-भिन्नस् तु क्रीडते परमेश्वरः॥" [[P224]]
 
-இனி உபாயத்வம் இருவருக்கும் உண்டு என்பதற்கு ப்ரமாணங்களைக் காட்டுகிறார்:\- 
+[அதிகம் விளக்கிக்கூறி என்ன பயன்? நரன்= ஆண், நாரீ= பெண் என்ற எல்லாமே ஸ்ரீஹரியே. கீழ் ச்லோகத்தில் பெண்களை பிராட்டியின் விபூதியாகவும், ஆண்களை பகவானின் விபூதியாகவும் கூறியபடியால் பெண் விஷயத்தில் பகவானுக்கும், ஆண்கள் விஷயத்தில் பிராட்டிக்கும் தொடர்பு இல்லையோ? என ஸந்தேஹம் வர அதை விலக்க இப்படி அருளினார். ஸ்ரீவிஷ்ணுபுராணத்தில் "देवतिर्यङ्मनुष्येषु पुंनामा भगवान् हरिः..." என்றதற்கும் இதே கருத்து. பரம்-வ்யூஹம்-விபவம்-ஹார்தம்-அர்ச்சை என்றவாறான அனேகம் உள்பிரிவுகளையுடைய அப்ராக்ருதமான வெவ்வேறான திருமேனிகளைக் கொண்டு பரமாத்மா விளையாடி வருகிறார்.]
 
-मे   
-1\. "fA Hnak f ம்" (ஸ்ரீஸூக்தம்) \- உலகினர் யாவருக்கும் தாயாக இருப்பதுடன், 
+> "महाविभूति-दयितां ये स्तुवन्त्य् अच्युत-प्रियाम्।
+> ते प्राप्नुवन्ति परमां लक्ष्मीं संसिद्ध-चेतनाः॥"
 
-உறைபவளான   
-தேவதேவனின் மஹிஷியாய் அவனைப்போல் எல்லாப் பொருளிலும் உள்ளும்\-வெளியும்   
-லக்ஷ்மியை என்குலத்தில், ஹே எம்பெருமானே\! நித்யவாஸம் செய்ய வைப்பாயாக \- எனப்பொருள். \[fuz qaA-: என்ற விக்ரஹத்தையே   
-சது:சுலோகி   
-பாஷ்யத்தில் 
+[महाविभूतिः என்று எம்பெருமானுக்குப் பெயர். ஸ்ரீப்ராம்ஹபுராணத்தில் உள்ள "महाविभूतिर् भगवान्..." என்ற ச்லோகத்தை (மாதவ: 73) பகவத்குணதர்பணத்தில் ஸ்ரீபட்டர் எடுத்தருளியுள்ளார். महाविभूतिः என்னப்பட்ட எம்பெருமானுக்கு மஹிஷியாகவுள்ள அச்யுதப்ரியையான மிக உயர்ந்த லஷ்மியை ஸித்தி அடைய விரும்பி எவர்கள் இந்த ஸ்துதியைக் கொண்டு துதிக்கிறார்களோ அவர்கள் ஸ்ரீலக்ஷ்மி எழுந்தருளியிருக்கும் பகவானின் பரமபதத்தை அடைகிறார்கள்] என்று உள்ள வசனங்களை கவனிப்பது. [[P225]]
 
-ஸ்ரீஸ்வாமிதேசிகன் இந்த மந்த்ரத்தைக் காட்டி ஸாதித்தார்.\] 
+---
 
-2\. HIளர் புரிபு (ஸ்ரீஸூக்தம்) \- உலகினர் அனைவருக்கும் தாயான பிராட்டியை 
+(ल.उ.दी) तथा अन्यत्र "नित्यैवैषा जगन्-माता विष्णोर् एषा ऽनपायिनी" इत्य्-आरभ्य "देव-तिर्यङ्-मनुष्येषु पुंनामा भगवान् हरिः। स्त्रीनाम्नी लक्ष्मीः मैत्रेय नानयोर् विद्यते परम्" इत्य्-आदि-पौराणिक-वचनैः "देवि त्वाम् अनु नीलया सह मही देव्यस् सहस्रं तथा" इत्य्-आदि-पूर्वाचार्य-सूक्तिभिश् च भूम्यादीनां लक्ष्मी-विभूतित्वावगमात् तथाविध-व्युत्पत्ति-विषयत्व-असम्भवेन "देव-तिर्यङ्-मनुष्येषु पुंनामा भगवान् हरिः। स्त्रीनाम्नी लक्ष्मीः मैत्रेय नानयोर् विद्यते परम्॥", 
 
-3\. "ரிதிபு புİs3" (ஸ்ரீஸூக்தம்)   
-"   
-உலகினர் 
+> "स्वरूपं स्वातन्त्र्यं भगवत इदं चन्द्र-वदने
+> त्वद्-आश्लेष-उत्कर्षाद् भवति खलु निष्कर्ष-समये।
+> त्वम् असीर् अतस् श्रीः कमितुर् इदम् इत्थन्त्व-विभवा
+> तद्-अन्तर्भावात् त्वां न पृथग् अभिधत्ते श्रुतिर् अपि॥"
 
-யாவராலும் ப்ரியப்பட்டு தம்மிடம் வஸிக்க விரும்புமவளே\! \- அல்லது   
-உலகினர் யாவரையும் ப்ரியமுடன் கடாக்ஷிப்பவளே\! அதேபோல் எம்பெருமானின் 
+इत्य्-आदि-प्रमाण-सम्प्रदाय-वचने लक्ष्म्या अपि सर्व-शब्दाभिधेयत्व-प्रतीत्या भगवत इव "साक्षाद् अप्य् अविरोधं जैमिनिः" इति सूत्र-विषयत्व-सम्भवेन भू-शब्दस्यापि व्युत्पत्त्या लक्ष्मी-परत्वम् एव प्रत्युत स्यात्। 
 
-திருவுள்ளமுகக்கும்படியானவளே\!   
-ஒத்தக் 
+न चैवं विष्णुपत्नीत्वादिभिः लक्ष्म्या अपि भगवद्विभूतित्वावगमनेन एतद्व्युत्पत्ति-विषयत्वासम्भवने भगवत एव तद्विषयत्वं किं न स्यादिति वाच्यम्। "आनीद् अवातं स्वधया तद् एकम्", 
 
-கருத்துடையவளே என்றபடி. உலகில் தம்பதிகளுக்குள் எப்போதாவது ஏதாவது ஒருவிஷயத்தில் கருத்து வேறுபாடு ஏற்படக்கூடும். திவ்யதம்பதிகளான இவர்களிடம் அது இல்லை \- என்றபடி. இதை "3UHU\[H\] 
+> "ताव् इमौ एकधैवोक्तौ भेद्य-भेदक-भावतः।
+> पृथक्त्वेन च शास्त्रेषु जगद्-हेतुतयोदितौ॥"
 
-•q\-4\_3\-A- 4 44" என்று லக்ஷ்மீகல்யாண நாடகத்தில் நாந்தீஸ்லோகமாக   
-ஸ்ரீபராசரபட்டர் 
+> "नैव शक्त्या विना कश्चिच् छक्तिमान् अस्ति कारणम्।
+> न च शक्तिमता शक्तिर् विना काप्य् अवतिष्ठते॥"
 
-அருளினார். இங்கு 31áá என்பதை கவனிக்க. சீx \= போர் என்றும் பொருள். "க- 18-4- அரியுரி" (8-1-15) என்ற போது &4 என்று யுத்த 
+> "तत्-तत्-गौरवम् आश्रित्य मन्त्र-वेदान्त-पारगैः।
+> जगद्-हेतुतया देवौ एकैकाव् इव दर्शितौ॥"
 
-103   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+"प्रथमजं देव हविषा विधेम", "[[तरह|तं ह]] देवम् आत्म-बुद्धि-प्रसादं मुमुक्षुर् वै शरणम् अहं प्रपद्ये", "लक्ष्मीं च मां सुरेशेश द्वयेन शरणं गतः", "माम् एकं च श्रिया युक्तं भक्ति-युक्तो नरोत्तमः। द्वयेन मन्त्र-रत्नेन मत्-प्रियेण भजेत् सदा", "लक्ष्म्या सह हृषीकेशो देव्या कारुण्य-रूपया। रक्षकस् सर्व-सिद्धान्ते वेदान्तेषु च गीयते", "अन्योन्येनाविनाभावाद् अन्योन्येन समन्वयात्। तादात्म्यं विद्धि सम्बन्धं मम नाथस्य चोभयोः॥" इत्य्-आदि-बहु-प्रमाणैर् उभयोर् अपि साहित्येन कारणत्व-रक्षकत्वाद्य्-अवगमेन "शृणाति निखिलान् दोषान् श्रीणाति च गुणैर् जगत्। श्रीयते चानिखिलैर् नित्यं श्रयते च परं पदम्" इत्य्-अत्र भगवत्-कर्मक-श्रयण-कर्तृत्वेन निर्ज्ञात-भगवद्-भेदाया लक्ष्म्या एव निखिल-दोष-நिवारकत्व-लक्षण-मोक्ष-प्रदत्व-प्रतीत्या च तद्-व्युत्पत्त्या भगवद्-विषयत्व-शङ्काया अनवकाश-पराहतत्वात् 'श्रीयते', 'श्रयते', 'शृणोति', 'श्रावयति' इति व्युत्पत्ति-चतुष्टयस्य पुरुषकारत्व-विषयत्व-सम्भवे ऽपि 'शृणाति', 'श्रीणाति' इति व्युत्पत्त्योस् सकल-दोष-निरासकत्व- तद्-उपयुक्त-सर्व-विषयक-समस्त-कल्याण-गुणैर् आश्रित-गुण-गण-परिपाक-हेतुत्व-परयोः कथञ्चिद् अपि पुरुषकार-विषयत्व-असम्भवात्, प्रत्युत 'श्रयते', 'श्रावयति' इति व्युत्पत्ति-द्वयेनैव सामर्थ्यात् परार्थं श्रयते, परोक्तं श्रावयति इत्य् अर्थ-प्रतीत्या पुरुषकारत्व-प्रतीतेः 'श्रीणाति', 'शृणोति', 'श्रीयते', 'शृणाति' इति व्युत्पत्ति-चतुष्टयस्यापि ज्ञान-शक्ति-बल-ऐश्वर्य-वीर्य-तेजस्-सौशील्य-वात्सल्य-कारुण्यादि-सर्व-विषयक-समस्त-कल्याण-गुणैः उपायत्व-उपयुक्त- आश्रित-गुण-परिपाक-हेतुत्व-वाक्य-श्रवण- तद्-अनुष्ठित-न्यास-उपासन-विषय-भाव-तद्-दोष-निवारण-प्रतिपादन-परस्योपायत्व एव स्वारस्याच् च। तस्माद् "श्रीयते श्रयत इत्य्-आदिकं न मोक्ष-प्रदत्वम्" इत्य्-अन्तं निरस्तम्। [[P226]]
 
-ஸுகதுக்க\-ஸமுச்சயாந்வாசயாதிகளையும் 
+---
 
-வந்தது   
-லௌகிக   
-பொருளாக 
+(ல.க) மேலும் மற்றோரிடத்தில் [ஸ்ரீவிஷ்ணுபுராணத்தில்] "नित्यैवैषा जगन्माता विष्णोः श्रीः अनपायिनी" [இந்த பெரிய பிராட்டியார் ஸ்ரீவிஷ்ணுவை விட்டு கணமும் பிரியாமல் எப்போதும் உள்ளவள்] என்று தொடங்கி, "देवतिर्यङ्मनुष्येषु पुंनामा भगवान् हरिः। स्त्रीनाम्नी लक्ष्मीः मैत्रेय नानयोर्विद्यते परम्" என்று பலமுறை காட்டியபடியும், "देवि! त्वामनु नीलया सह मही देव्यः सहस्रं तथा" போன்ற பூர்வாசார்ய ஸ்ரீஸூக்திகளாலும் பூமி-நீளாதி தேவியர் லக்ஷ்மியின் விபூதியைச் சேர்ந்தவர்கள் - என்று ஏற்படுகிறபடியால் நாங்கள் கூறியதே தகும். 
 
-வையாகரணர் கொண்டனர். இங்கு போர் என்ற பொருளில் 
+இந்த மாதிரியாக லக்ஷ்மியைப் பற்றி - மற்றவரின் "देवतिर्यङ्मनुष्येषु पुंनामा भगवान् हरिः। स्त्रीनाम्नी लक्ष्मीः मैत्रेय नानयोर्विद्यते परम्" [இதுவும் பலமுறை கீழே உரைக்கப்பட்டது], 
 
-தம்பதிகளைப் போன்று திவ்யதம்பதிகளிடம் விவாதமில்லை என்றபடி. இதனை "ஒரு நினைவால் ஈன்ற உயிர் எல்லாம் \-” என்று ஆசார்யர் காட்டினார். 
+> "स्वरूपं स्वातन्त्र्यं भगवत इदं चन्द्र-वदने
+> त्वद्-आश्लेष-उत्कर्षाद् भवति खलु निष्कर्ष-समये।
+> त्वम् असीर् अतस् श्रीः कमितुर् इदम् इत्थन्त्व-विभवा
+> तद्-अन्तर्भावात् त्वां न पृथग् अभिधत्ते श्रुतिर् अपि॥" [[P227]]
 
-4\. "3   
-अवात स्वधया   
-இந்த ச்ருதி 
+[இதையும் கீழே விளக்கியுள்ளோம்.] என்பன போன்ற ப்ரமாணஸம்ப்ரதாய வசனாதிகளில் லக்ஷ்மிக்கும் सर्वशब्दाभिधेयत्वम् ஏற்படுகிறது - என்பதால் பகவானுக்கு போல் "साक्षादप्यविरोधं जैमिनिः" என்ற ஸூத்ரத்தில் முடிவு செய்தபடிக்கு भू சப்தத்துக்கும் வ்யுத்பத்தியைக் கொண்டு லசஷ்மியை குறிப்பிடுவதாகவே கொள்ளலாம்.
 
-பெரியபிராட்டியுடன் கூடிய எம்பெருமான் ஒருவரே ப்ரளயகாலத்தில் எழுந்தருளியிருந்தார் \- என்று காட்டுகிறது. ஆனபடியால் ஸ்ருஷ்டி\-ஸ்திதி\-ஸம்ஹாரங்கள் யாவும் திவ்யதம்பதிகளான இவ்விருவரையுமே சேரும் \- என்பது தெளிவு. 
+கேள்வி:- விஷ்ணுபத்னீ என்றபடியால் - லக்ஷ்மியும் பகவத் விபூதியே என்று ஏற்படுகிறபடியால் வ்யுத்பத்தியைக் கொண்டு भू என்ற சொல்லை லக்ஷ்மி பரமாகக் கூற முடியாதே! என்று கேள்வி.
 
-5\. அப்பு cÅ 344 3àÀ \- தைத்திரீயச்ருதி. “ச்ரத்தா மேதா   
-श्रद्धया देवो देवत्वम् अश्नुते ஸரஸ்வதீ" என்னப்பட்ட பெரியபிராட்டியாருடன் கூடிய பரவாஸுதேவன் ஒருவனே \- இவ்வுலகில் உள்ளும் புறமும் வ்யாபித்து வருகிறான் \- எனப்பொருள். 3 னார் என்ற தாதுவிலிருந்து எங்கும் பரவினவர்கள் என்பதைக்காட்ட இந்த ப்ரயோகம். \[இங்கு அத்யயனம் பண்ணாத சிலர் அēq: முன்பு தேவனாக இல்லாதவர், பிராட்டி ஸம்பந்தம் பெற்ற பிறகு தான் தேவனாகும் நிலையை அடைந்தார் எனப்பொருள் கூறுகின்றனர். அது பிழை. பதபாடத்தில் தேவ: என்றே உள்ளது. தமது அஜ்ஞானத்தால் வேதத்தில் கை வைத்து \- அதை ஒளிஜமாக்கக் கூடாது.\]   
-\= 
+பதில்: 
 
-6."\- க \=q4   
-ह देवम् आत्मबुद्धिप्रसादं मुमुक्षुर्वे शरणम् अहं प्रपद्ये" **(**வேதாஸ்வதரம்) ஸ்வயம்ப்ரகாயமானவரும், Á 2௭ என்றபடி \- எம்பெருமானுக்கு புத்தியைப் போன்று அவரை விட்டுப்   
-பிரித்து பெரியபிராட்டியாரின்   
-பார்க்க தெளிவான   
-முடியாதவளுமான 
+> "ताविमौ एकधैवोक्तौ भेद्यभेदकभावतः।
+> पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ॥"
 
-திருவுள்ளத்தை 
+> "नैव शक्त्या विना कश्चित् शक्तिमान् अस्ति कारणम्।
+> न च शक्तिमता शक्तिः विना काऽप्यवतिष्ठते॥"
 
-104   
-लक्ष्म्युपायत्वदीपः 
+> "तत्तद् गौरवम् आश्रित्य मन्त्र-वेदान्तपारगैः।
+> जगद्धेतुतया देवौ एकैकाविव दर्शितौ॥"
 
-முன்னிட்டு – எம்பெருமானை அடியேன் VDரணம்புகுகிறேன் \-என்றபடி. 
+[இந்த வசனங்களுக்கெல்லாம் தமிழில் உரை கீழே எழுதியாகிவிட்டது.]
 
-7\. "यं कामये तम् उग्रं कृणोमि तं ब्रह्माणं तमृषिं सुमेधाम्" (வாகம்ப்ருணீஸூக்தம் ஸ்ருதி). இது வாகம்பருணீஸூக்தம் (ரிக் 10-125). லஷ்மீஸூக்தம் என்று ஆனந்ததீர்த்தீயர் இதை வ்யவஹரிப்பார்கள். நான் யாரை வேண்டுமானாலும் சிவனாக்க முடியும், ப்ரம்ஹாவாகவும், ரிஷியாகவும் அறிவாளியாகவும் ஒருவனை ஆக்குவேன் \- என்று லஷ்மீ கூறுகிறாள். 
+"प्रथमजं देवं हविषा विधेम" [எல்லாருக்கும் ஆதிகாரணமான பரவாஸுதேவனை ஹவிஸ்ஸைக் கொண்டு ஹோமம் செய்யக்கடவோம்.]
 
-8\. “अहं रुद्राय धनुरातनोमि ब्रह्मद्विषे शरवे हन्तवा उ । 
+"तं ह देवम् आत्मबुद्धिप्रसादं मुमुक्षुर्वै शरणमहं प्रपद्ये" *(श्वेताश्वतरोपनिषत्)* [ஆத்மாக்களுக்குத் தெளிவான நல்லறிவை அருளக் கூடியவரான அந்த பரவாஸுதேவனை மோக்ஷமடைய விரும்பிய அடியேன் சரணம் புகுகிறேன்.] [[P228]]
 
-3 எரிவு புபுத் தயரிபு அd agரிவு அா≥ ||" (ரிக்.) இது முன்பே உரையிடப்பட்டது. த்ரிபுரஸம்ஹாரம் செய்ய ருத்ரரால் முடியாதபோது அவருக்கு எம்பெருமானையே ("fuj எள\-4" என்று ச்ருதி காட்டியபடி\] நான் அம்பாக அமைய ஏற்பாடு செய்தேன். மக்களுக்கு புஷ்டி கொடுப்பதும் நானே. மேல் ஏழு உலகங்களையும் பூமிமுதல் பாதாளம் வரையிலுமான கீழ் ஏழு உலகங்களையும்   
-ஸ்வரூபத்தால் நான் வ்யாபித்துள்ளேன் \- \[இதனால் எம்பெருமான் அளிH :: என்று எல்லாப்பொருட்களின் உள்ளும்-   
-என் 
+"लक्ष्मीं च मां सुरेशेश द्वयेन शरणं गतः" [தேவர்களுக்குத் தலைவனான இந்த்ரனே! என்னையும் பெரியபிராட்டியான ஸ்ரீலக்ஷ்மியையும் த்வயமந்த்ரத்தைக் கரணமந்த்ரமாகக் கொண்டு சரணமடைவாயாக.]
 
-புறமும் வ்யாபித்ததைப் போன்று 
+"मामेकञ्च श्रिया युक्तं भक्तियुक्तो नरोत्तमः। द्वयेन मन्त्ररत्नेन मत्प्रियेण भजेत् सदा" [பெரியபிராட்டியாருடன் கூடிய (பகவானான) என் ஒருவனை எந்த உயர்ந்த மனிதன் பக்தியுடன் கூடியவனாய் மந்த்ரங்களுக்கு ரத்னம் போன்றதானதும் எனக்கு மிக விருப்பமானதுமான த்வய மந்த்ரத்தால் எப்போதும் சரணமடைய வேண்டும்.]
 
-வ்யாபித்திருப்பது காட்டப்பட்டது.\]   
-பிராட்டியும் 
+"लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया। रक्षकस्सर्वसिद्धान्ते वेदान्तेषु च गीयते"
 
-9\. "3f94 புரி: IHHI" (ரிக்.) 
 
-இந்த சிவனுக்கும் தந்தையான, சிவன் தலையால் வணங்கும் பிரமனை நான் பெற்றெடுத்தேன். நான் பாற்கடலில் உள்ளே தோன்றியவள்.   
-\- 
+"लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया" [இது முன்னமே பலமுறை விளக்கப்பட்டது]
 
-105   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+"अन्योन्येनाविनाभावादन्योन्येन समन्वयात् । तादात्म्यं विद्धि संबंधं मम नाथस्य चोभयोः॥"
 
-10\. “ततो वितिष्ठे भुवनानि विविश्वोत मम द्यां वर्ष्मणो पस्पृशामि ।" (fऊं.) எல்லா உலகுகளையும் உன் உடலாகவே கொண்டு நான் எங்கும் மேலுலகிலும் வ்யாபித்துள்ளேன். 
+[பிராட்டியின் திருவாக்கு இது – நாங்கள் ஒருவருக்கொருவர் விட்டுப் பிரியாதபடி இணைந்துள்ள படியால் ஒருவரை மற்றொருவர் ஒத்து இணைந்து செயல்படுவதாலும் எனக்கும் என் நாதனான ஸ்ரீமந்நாராயணனுக்கும் - அவரை ஒத்தவர் நான் என்னை ஒத்தவர் அவர் - என்ற ஸம்பந்தம் உண்டு என்பதை அறிவாயாக. तादात्म्यम्: तत् सदृशः भावः என்பது இந்த சொல்லுக்கு வ்யுத்பத்தி.] என்பன போன்ற பல ப்ரமாணங்களால் திவ்யதம்பதிகள் இருவருமே ஸர்வஜகத்துக்கும் காரணம் மோக்ஷமளிப்பவர்கள் என்பன போன்ற விசேஷ கருத்துக்கள் ஏற்படுகின்றன.
 
-11\. "अहमेव वात इव प्रवामि आरभमाणा भुवनानि विश्वा" ( किं.) Sirjol எங்கும் வீசுவதைப் போல் தடையின்றி எல்லா உலகினையும் படைக்கத் தொடங்கி நான் விளங்குகிறேன். 
+"शृणाति निखिलान् दोषान् श्रीणाति च गुणैर्जगत् । श्रीयते चाखिलैर्नित्यं श्रयते च परं पदम्" என்ற வசனத்தால் भगवत्कर्मकश्रयणकर्तृत्वम् = பகவானை ஆச்ரயித்து இருப்பவள் பிராட்டி என்பது நன்கு [[P229]] ஸ்பஷ்டமாக ஏற்படுகிறது. இதனால் நமது எல்லா வகையான தொல்லைகளையும் போக்கி மோக்ஷமருள்பவள் என்பது நன்கு தெளிவாய் தெரிகிறது. 
 
-12\. “परो दिवा पर एना पृथिवी एतावति महिना संबभूव" (mi.) Gol \- இந்த ப்ருதிவ்யாதி உலகங்களுக்கும் மேலாக நான் என் மஹிமையால் இருக்கிறேன். 
+இந்த श्रीः என்றாரம்பிக்கும் வசனத்தில் श्रीयते [நம் எல்லோராலும் ஆச்ரயிக்கப்படுகிறாள் – அல்லது எம்பெருமானால் கலந்து அருள ஆச்ரயிக்கப்படுகிறாள்] श्रयते - [என்றும் பகவானை ஆச்ரயித்திருக்கிறாள் - அல்லது ஜீவராசிகளை – அவர்கள் ஆச்ரயித்திருக்கிறாள்.] शृणोति = [ஜீவர்களின் ஆர்த்தத்வனியைக் கேட்கிறாள் - குறைகளைத் தீர்க்க "आनृशंस्यं परो धर्मः त्वत्त एव मया श्रुतः" என்று ஸ்ரீஸீதாபிராட்டி அருளியதுபோல் ஜீவர்களுக்கு ஹிதமான உபாயாதிகளை பகவானிடமிருந்து கேட்கிறாள்.] श्रावयति = ஜீவர்களின் ஆர்த்தத்வனியை பகவான் கேட்கும்படிச் செய்கிறாள். அல்லது - எம்பெருமானிடம் தாம் ப்ரஜைகளின் - சேஷமத்துக்காகக் கேட்ட தத்துவ-ஹித- உபாயங்களை ஜீவர்களைக் கேட்கும் படிச்செய்கிறாள். 
 
-13\. “कामवत्सा अमृतं दुहाना" (@pi2murung fy) 
+இப்படி श्रीः என்ற ஸ்ரீசப்தத்தின் நாலுவிதமான வ்யுத்பத்திகளும் புருஷகாரவிஷயத்தையே விவரிக்க வந்ததாகக் கொண்டாலும், शृणाति = நமது தொல்லைகளை நீக்குகிறாள், श्रीणाति = நம் தொல்லைகளை நீக்கத் தேவையான ஸமஸ்தகல்யாண குணங்களுடன் கூடியவள் என்ற இந்த இரண்டு வ்யுத்பத்திகளும் புருஷகார விஷயத்தில் நயனம் பண்ணமுடியாதவைகள்.
 
-नो लोकम् अमृतं   
-14\. "सा உரையிட்டாயிற்று)   
-अमृतं दधातु" (இதற்கும் கீழே 
+இன்னமும் கேட்டால் श्रयते = ஜீவர்களைப் பாதுகாப்பத் இறையும் அகலாமல் பகவானை ஆச்ரயித்திருக்கிறாள், श्रावयति = ஜீவர்களின் குறைகளை எம்பெருமான் கேட்கும் படிச்செய்கிறாள் - என்ற படியால் இந்த இரண்டு வ்யுத்பத்திகளில் மட்டிலுமே புருஷகாரத்வம் = பரிந்து பேசுவது – என்பது ஸித்திக்கும். शृणाति, श्रीणाति, [[P230]] श्रीयते, श्रयते என்கிற நான்கு வ்யுத்பத்திகளாலும் பிராட்டிக்கு உபாயமாக இருப்பதற்குத் தகுந்த ज्ञान-शक्ति-बल-ऐश्वर्य-वीर्य-तेजस्-सौशील्य-वात्सल्य-कारुण्यादिना ப்ரவர்த்திக்கும் ஸமஸ்த கல்யாண குணங்களுடன் எப்போதும் கூடியநிலை விளக்கப்பட்டது. ஆச்ரிதர்களின் குணங்களின் பரிபாகத்தை உண்டு பண்ணுகிறாள். ஜீவன் அநுஷ்டித்த பரந்யாஸ – உபாஸநாதிகளான உபாயத்தால் ப்ரீதியை அடைந்து - ஜீவனிடமுள்ள தோஷங்களைக் களைகிறாள் என்பதே ஸ்வரஸமான பொருள். ஆகவே "श्रीयते श्रयते इत्यादिकं न मोक्षप्रदत्वम्" என்பது அடியோடு பொருந்தாது.
 
-இப்படி பல வேதாந்த வாக்யங்கள் பிராட்டியை எம்பெருமானுக்கு இணையாக தெரிவிப்பதால் பூர்வபக்ஷிகள் தெரிவித்தபடி புருஷகாரத்வம் மட்டிலும் பிராட்டிக்கு என்பது பொருந்தாது. 
+---
 
-(ल.उ.दी) यच्च\-न च लक्ष्मीपतिरित्युक्त्या इत्यादिना लक्ष्मीसाधारणोपायत्वप्रतीतिपक्षमनूद्य, विशेषार्थस्य विशेष्यान्वय एव स्वरसतः प्रतीयत इत्यादिना विशेषार्थस्य विशेष्यान्वय एव स्वारसिकत्वादङ्गीकार्यः, विशेषणान्वयस्तु वाधकैककल्य्यस्तदभावान्न कल्प्यत इति सदृष्टान्तं सविपक्षवाधकोपन्यासं च प्रत्यवादि, तदपेशलम, विशेषार्थस्येत्यस्य पदविशेषप्रतिपाद्यार्थस्येत्यर्थो वा? विशेषणरूपार्थस्येत्यर्थो वा? आद्ये "अरुणयैकहायन्ये"त्यारुण्यविशिष्टद्रव्यैकहायनीद्रव्यवाचि- पदयोस्सामानाधिकरण्येन एकहायनीद्रव्यारुण्यगुणयोररुणयेति पदेनैव विशेषणविशेष्यभावेन सम्बन्धितयाभिहितयोः “क्रयाख्यैककर्मान्वयाविरोधात्" इति भाष्येण   
-\- 
+(ल.उ.दी) एतत् सर्वम् अभिप्रेत्य एक-शब्द-अर्थ-व्याख्यान-अवसरे ऽनुगृहीतम् निगमान्त-देशिकैश् चरम्-श्लोक-अधिकारे -
 
-अर्थैकत्वे 
+> "प्राप्यस्यैव प्रापकत्वं स्व-प्राधान्य-निवारणम्।
+> प्रपत्तेर् व्याज-मात्रत्वम् अन्य-उपायैर् अनन्वयः॥
+> तद्-अङ्गैर अप्य् असम्बन्धः सर्व-साध्येष्व् अभिन्नता।
+> इत्थम् अर्थाः षड् आचार्यैर् एक-शब्देन दर्शिताः॥
+> केचित् तु एक-शब्द-अर्थं शरण्य-ऐक्यं प्रचक्षते।
+> विशिनष्टि तदापि श्रीर् गुण-विग्रहवत् प्रभुम्॥
+> ईश्वरी सर्व-भूतानाम् इयं भगवतः प्रिया।
+> संश्रित-त्राण-दीक्षायां सह-धर्म-चरी स्मृता॥
+> एकं जगद्-उपादानम् इत्य्-उक्ते ऽपि प्रमाणतः।
+> यथा अपेक्षित-वैशिष्ट्यं तथा अत्रापि भविष्यति॥
+> एक-उपास्ति-विधाने ऽपि गुणादीनां यथा अन्वयः।
+> तथा एक-शरण-व्रज्या-विधाने ऽप्य् अनुमन्यताम्॥
+> यथा गुणादि-वैशिष्ट्ये सिद्ध-उपाय-ऐक्यम् अक्षतम्।
+> एवं पत्नी-विशिष्टत्वे ऽप्य् अभिमतं शास्त्र-चक्षुषाम्॥
+> प्रभा-प्रभावतोर् यद्वद् एकोक्ताव् इतर-अन्वयः।
+> एवम् अन्यतर-उक्तौ स्यात् सह-वृत्ति-अभिधानतः॥
+> स्मरन्ति चैनां मुनयः संसार-अर्णव-तारिणीम्।
+> ऊचतुस् स्वयम् अप्य् एतत् सात्त्वतादिषु ताव् उभौ॥
+> उपाय-उपेय-दशयोर् द्वये ऽपि श्रीस् समन्विता।
+> इष्टा च शेषिणि द्वन्द्वे शेष-वृत्तिर् यथोचिता॥
+> अतः अनन्य-पर-अनेक-श्रुति-स्मृत्य्-अनुसारतः।
+> पत्नी-विशिष्ट एवैकः प्रपत्तव्य इहोदितः॥" [[P231]]
 
-106   
-सिद्धे   
-सति   
-लक्ष्म्युपायत्वदीपः 
+तद् एवं लक्ष्म्याः पुरुषकारत्ववद् उपायत्वस्यापि श्रुति-स्मृति-भगवच्-शास्त्र-सम्प्रदाय-सिद्धतया पुरुषकार-प्रपदन-पूर्वकं लक्ष्मी-विशिष्ट-भगवच्-चरणारविन्द-शरणागत्यैव मोक्ष-सिद्धिर इति निष्कण्टको ऽयं घण्टापथः। [[P232]]
 
-साहित्यरूपसम्बन्धमात्रतात्पर्यज्ञाने   
-क्रयरूपपदार्थविशेषस्य आरुण्यविशिष्टान्वयप्रतिपादकेन विरोधस्स्यात्, अविरोधादित्यनेन बाधकाभावे विशिष्टान्वय एव स्वारस्यमिति सूचनात् । सति च बाधके विशेषणान्वयोऽस्वरसोपि स्वीकार्यः, यथा लम्बकर्णमानयेत्यादाविति च विरुद्धं स्यात्, न चैवं चित्रगुमानयेत्यादौ गवानयनमपि स्यात्, बाधकाभावादित्युक्तमिति वाच्यम्, नीलाम्बरमानयेत्यादाविव गवानयनस्येष्टत्वात्, तदभावे स्वामित्वादिरूपसम्बन्धमात्रतात्पर्यज्ञानस्यैव विशेषणान्वयबोधबाधकत्वेन गवानयनाभावोपपत्तिः । द्वितीये, “सदेव सोम्येदमग्र आसीदेकमेवे "त्यत्र एकत्वविशेषणस्याविभक्तनामरूपत्वलक्षणस्य सच्छब्दवाच्यचिदचिद्विशिष्टान्वयः   
-सूक्ष्मचिदचिद्विशिष्टाभिन्नत्वस्य इदंपदार्थस्थूलचिदचिद्विशिष्टान्वयः, “सर्वं खल्विदं ब्रह्म तज्जला " नित्यत्र तज्जलान्त्वरूपविशेषणस्य सर्वमिदमिति निर्दिष्ट स्थूलचिदचिद्विशिष्टान्वयश्च एतेन सङ्गच्छेरन् । 
+---
 
-\-   
-(ல.க) கேள்வி:\- லஷ்மீபதி: என்பதால் உபாயத்வம் லக்ஷ்மிக்கும் உண்டு என்று கூறியவர்களின் பக்ஷத்தை अनुक्रम्। “विशेषार्थस्य विशेष्यान्वय एव स्वरसतः प्रतीयते" \[விசேஷணமாகவரும் சொல் விசேஷ்யத்தில் அந்வயித்துப் பொருளுரைக்கும் என்பதே தெரிய வருகிறது\] என்று கொண்டு அதையே இங்கு கைக்கொள்ளவேண்டும். விசேஷணத்துடன் அந்வயிப்பது தகாது த்ருஷ்டாந்தம் காட்டி பேசினீர்களே \- 
+(லக) இவ்வளவையும் கொண்டு ஸ்ரீஸ்வாமிதேசிகன் 'माम् एकम्' என்ற சொல்லை வ்யாக்யானிக்கும் போது 'एकम्' என்ற சொல்லுக்கு விஸ்தாரமாக பலகாரிகைகளை அருளியுள்ளார். அவை வருமாறு:-
 
-¬¬। अपेशलम् \= Gņ\[f\]6. विशेषार्थस्य   
-\-   
-என்று 
+> "प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् ।
+> प्रपत्तेर्व्याजिमात्रत्वम् अन्योपायैरनन्वयः ॥
+> तदङ्गैरप्यसम्बन्धः सर्वसाध्येष्वभिन्नता ।
+> इत्थमर्थाः षडाचार्यैरेकशब्देन दर्शिताः ॥"
 
-♚G \- G 
+1) மோக்ஷத்தில் அடைந்து அநுபவிக்க வேண்டியவனே மோக்ஷமடைய வேண்டிய வரை நடத்திச் செல்பவன் 2) ஜீவனான நான் சரணாகதியைப் பண்ணவேதானே பரமாத்மா மோக்ஷமருள்கிறார். ஆகவே இதில் நானும் காரணமாகக் கூடுமோ? என்று எண்ணக் கூடாது. ஜீவனது நன்மையைத் தனது நன்மையாகக் கொண்டு பகவான் ப்ரவ்ருத்தித்தபடியால் இதில் ஜீவனுக்கு ப்ராதான்யம் இல்லை. 3) அவன் கொடுக்கப்போகிற மஹத்தான பலனைப்பார்க்க - நாம் செய்த இந்த அத்யந்த லகுவான உபாயம் - ஒரு வ்யாஜமாத்ரமே. "अज्ञात्वा" இது முதலானவைகளை ஒரு ஆசார்யனை அடைவதற்கு முன்பே பகவான் நம்மிடம் அமைய ஏற்பாடுபண்ணினாரே. ஆகவே சரணாகதி என்ற அசேதனமான ஒரு நிகழ்ச்சி வ்யாஜமே. (4) பக்தியோகம் முதலியன உபாயங்களைத் தொடங்க முதலில் கர்மயோகம், பிறகு ஜ்ஞானயோகம் முதலான மிகவும் கடினமான முன் ஏற்பாடுகளைச் செய்யவேண்டும். அதெல்லாம் ஸித்தித்தாலே பக்தியோகம் கைகூடும். சரணாகதி என்ற உபாயத்தில் - மற்றோர் உபாயத்தின் தொடர்பே இல்லை. (5) ப்ரபத்திக்கு அங்கமாக சாஸ்த்ரங்களில் காட்டப்பட்ட आनुकूल्यसंकल्पः, प्रातिकूल्यवर्जनम्, महाविश्वासः, गोप्तृत्ववरणम्, कार्पण्यम् என்ற ஐந்தும் சரணாகதி செய்யும் போது இருக்க வேண்டுமே ஒழிய அவை பல கோடியிலும் பின்பும் தொடர்வதால் அங்கத்வேன ஸம்பந்தம் இல்லை. (6) ஸாதிக்கவேண்டிய எத்தகைய பெரிய பயனுக்கும் இந்த லகுவான சரணாகதி ஒன்றே போதும். பெரிய பலனுக்கு வேறு விதமான சரணாகதி சிறிய பலன்களுக்கு வேறு என்பதைப் போன்ற பேதம் கிடையாது.
 
-சொல்லால் தெரிவிக்கப்பட்ட பொருள் \- என்று அர்த்தமா? விசேஷணரூபமான பொருளுக்கு \- எனப் பொருளா? முதல் பக்ஷத்தில் अरुणाधिकरणन्याय कुंकुं । कंल விரோதம் 
+இப்படி ஆறு பொருள்களை இந்த சரணாகதி விஷயத்தில் அஸ்மதாசார்யரான ஸ்ரீவாதிஹம்ஸாம்புவாஹர் என்னப்பட்ட ஸ்ரீமடைப்பள்ளி ஆச்சான் பரம்பரையில் வந்த ஆசார்யரால் ஏகம் என்ற சொல்லுக்குப் பொருளாகக் காட்டப்பட்டன. [சுருக்கமாக இந்த காரிகைகளுக்கு நாம் (ஸ்ரீவத்ஸாங்காசார்ய ஸ்வாமி) தமிழில் விளக்கம் தருகிறோம். விரிவு அபேக்ஷிப்பவர்கள் [[P233]] कारिकादर्पणम् என்ற ஸம்ஸ்க்ருத உரையிலும், ஸாராஸ்வாதினீ-ஸாரப்ரகாசிகா முதலான உரைகளிலும் கண்டுகொள்வது.]
 
-शुक्रका:\- अरुणया एकहायन्या पिङ्गाक्ष्या गवा सोमं क्रीणाति / 
+> "केचित्त्वेकशब्दार्थं शरण्यैक्यं प्रचक्षते ।
+> विशिनष्टि तदाऽपि श्रीर्गुणविग्रहवत् प्रभुम् ॥"
 
-107   
-.   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+[சிலர் சரண்யன் ஒருவனாக இருப்பதையே இங்கு 'एकम्' என்ற சொல் தெரிவிப்பதாய் கூறினார்கள். அப்படியாயினும் - எம்பெருமானின் திவ்யாத்ம ஸ்வரூபத்தை விட வேறான – அனந்தகல்யாணகுணங்கள், திருமேனி என்பனவற்றைப் போன்று பெரிய பிராட்டியாரும் ப்ரபுவான எம்பெருமானுக்கு விசேஷணமாய் அமைகிறாள்.]
 
-\-   
-(கல்பிதமான) ஒரு விதிவாக்யம். சிவந்த நிற முள்ளதும், ஒரு வயது நிரம்பியதும், மஞ்சளான கண்களை உடையதுமான பசுவை விலையாகக் கொடுத்துவிட்டு \- ஸோமயாகத்துக்கு வேண்டிய ஸோமலதையை சீந்தில் கொடியை பெறக்கடவது \- என்பது இதன் தாத்பர்யம். கோ \- என்ற பொருள் ஒன்றே. அதற்கு மற்றவை விசேஷணங்கள். என்பது த்ரவ்யம், 3044 குணம். இது 315041 என்ற சொல்லாலேயே ஒன்றோடொன்று தொடர்புடையது என்பது தெரிவிக்கப்பட்டபடியால் "\-கர்ரி" என்று ஸ்ரீபாஷ்யகாரர் காட்டியபடி விரோதம் ஏற்படும். Ahl and Hகழ் ஈ என்ற ஜைமினி ஸூத்ரத்தில் இது ஸ்பஷ்டம். விசேஷணங்கள் ஒன்றோடு ஒன்று பாதகமில்லாவிடில் விசேஷ்யத்துடன் அன்வயிப்பதில் குற்றமில்லை. கம்பு 3I-\~ என்ற போது \- தேவதத்தனை அழைத்து வருவதில் அவன் தொங்குகிற காதுகளும் தப் பெறுகின்றன. பாதகமில்லையே. ரா   
-\-   
-\- 
+> "ईश्वरी सर्वभूतानामियं भगवतः प्रिया ।
+> संश्रितत्राणदीक्षायां सहधर्मचरी स्मृता ॥"
 
-\- 
+[எல்லா பூதர்களுக்கும் இவள் தலைவி, பகவானுக்குப்ரியமான பட்டமஹிஷீக்கு எம்பெருமானின் எல்லோரையும் ரக்ஷிப்பது என்ற வேள்வியில் உடன் இருந்து அதே தர்மத்தை அநுஷ்டிக்க தீக்ஷைபெற்றவள் என்று ஸ்ம்ருதிகளின் வாக்கு.]
 
-3{l\-q என்ற போது \- நாலாவிதமான பசுக்களை வைத்துக் காப்பவனாக கோஸாலைக்குத் தலைவனையே அழைத்து வருகிறோம். ஏன்? எனில் \- அங்கு கோக்களின் தலைவனை அழைத்துவருவதே வக்தாவுக்கு விவக்ஷிதம், மேலும் அவனது எல்லா பசுக்களையும் உடன் அழைத்து வருவதும் முடியாதது. அனை4 அரவு என்ற போது \- கருப்பு ஆடை அணிந்தவனே \- மற்றபோது வேறுவகையான நிறமுள்ள ஆடையை அணியக்கூடுமான படியால் தற்போது புகமாக அவனுடன் அவனது கருப்பு ஆடையும் ஆநயனக்ரியையில் ஸம்பந்தப்படுகிறது. ஆகவே அதது அந்த இடத்தையும், வக்தாவின் விவசையையும் கொண்டே முடிவு செய்ய வேண்டும். இதை யாவரும் ஒப்ப வேண்டும். ரித்தில்-   
-சி சிபு என்ற கங்களான   
-போது   
-इदं   
-\= என்பதால்   
-\- 
+> "एकं जगदुपादानम् इत्युक्तेऽपि प्रमाणतः ।
+> यथाऽपेक्षितवैशिष्ट्यं तथाऽत्रापि भविष्यति॥"
 
-108   
-लक्ष्म्युपायत्वदीपः 
+["एकमेवाद्वितीयम्" என்றபோது இந்த ஜகத்துக்கெல்லாம் உபாதானகாரணம் பகவான் ஒருவரே - என்று தெரிவிக்கப்பட்டிருந்த போதிலும், ப்ரமாணங்களையும் லோக நடைமுறை முதலானவைகளையும் கொண்டு எப்படி பகவானைவிட வேறான மூலப்ரக்ருதி முதலானவைகளையும் ஜகத்காரணமாகக் கொள்ளுகிறோமோ அப்படி இங்கும் அவச்யம் தேவையான பிராட்டியாரின் தொடர்பும் தேவை என்பது, தானே கிடைக்கும்.] [[P234]]
 
-WGur(GLकलनाकं $14, अग्रे | woकुंक ू एकम् 
+> "एकोपास्तिविधानेऽपि गुणादीनां यथाऽन्वयः ।
+> तथैकशरणव्रज्याविधानेऽप्यनुमन्यताम् ॥"
 
-एकत्वविशेषणस्य   
-என்று 
+[பகவானை உபாஸிக்க வேண்டும் என்று காட்டும் விதிவாக்யத்தில் ப்ரம்ஹ-ஆகாச-ஜ்யோதிஸ் முதலான சப்தங்களால் பரம்பொருளை மட்டும் சொல்லியிருந்தாலும்- நிர்குணமான வஸ்துவுக்கு உபாஸிக்கும் நிலை கூடாதானபடியால் தன்னடைவே எப்படி குண- விபூத்யாதிகளுக்கும் அன்வயம் = உபாஸனத்தில் தொடர்பு – ஏற்படுகிறதோ - அதேபோல் - "मामेकं शरणं व्रज" என்ற போதும் ரூப-குணாதிகளுக்கு அந்வயம் உண்டு - என்பதை கட்டாயம் ஒப்பவேண்டும்.]
 
-सच्छब्दवाच्यचिदचिद्विशिष्टान्वयः   
-ள 
+> "यथा गुणादिवैशिष्ट्ये सिद्धोपायैक्यमक्षतम् ।
+> एवं पत्नीविशिष्टत्वेऽप्यभीष्टं शास्त्रचक्षुषाम्॥"
 
-अविभक्तनामरूपत्वस्य 
+[सिद्धोपायः என்பது பகவானை. எப்போதும் நம்மை பாதுகாக்க ஸித்தமாயும், ப்ரதான உபாயமாகவும் இருப்பதால் இப்படி ஸம்ப்ரதாயத்தில் பகவானை வ்யவஹரிப்பார்கள். அவரை ஸித்தோபாயம் பகவான் ஒருவரே - என்பது கல்யாண குணங்கள், திருமேனி இவைகளுடன் கூடிய போது ஆச்ரயித்தாலும் இந்நிலைக்கு தடையில்லை - என்பது எப்படியோ - அப்படியே பெரிய பிராட்டியாராகிய பத்னீயுடன் கூடியவராய் அநுஸந்திக்கும் போதும் நமக்கு விரும்பிய ஐக்யம் தடைபடாது. இது சாஸ்த்ரங்களையே கொண்டு ஆராய்ந்து பார்ப்பவர்களுக்கு நன்கு புலப்படும்.]
 
-என்பதும், 
+> "प्रभा-प्रभावतोर्यद्वदेकोक्तावितरान्वयः ।
+> एवमन्यतरोक्तौ स्यात् सहवृत्त्यभिधानतः॥"
 
-इदम्   
-ஸூக்ஷ்மசிதசித்விஸிஷ்டாபின்னமானதுக்கு 34 என்ற சொல்லின் பொருளான ஸ்தூலசிதசித்விஸிஷ்டான்வயம்   
-g, "सर्वं खल्विदं ब्रह्म तज्जलान्" नंगी ப்ரம்ஹத்திடமிருந்து தோன்றி, அதிலேயே லயித்து, அத்தால் பாதுகாக்கப்படுகிறது எனக்கூறி fofkeraமும் பொருந்தாமல் 
+[விளக்கு இல்லாமல் ஒளி தனியாய் இருக்காது. ஒளியை விட்டுத் தனியாக விளக்கு இருக்காது. ஆகவே இவ்விரண்டில் ஒன்றை கூறினாலேயே [[P235]] மற்றதை வாய்விட்டுக் கூறாமலேயே எப்படி ஒன்றோடொன்று சேர்ந்தே நமக்கு ஸ்புரிக்கிறதோ - அப்படியே இங்கும், பிராட்டி எப்போதுமே எம்பெருமானை விட்டுப் பிரியாத படியாலும், எம்பெருமானும் அவளுடன் கலந்து அவள் குறிப்பறிந்தே ஜகத்ஸ்ருஷ்ட்யாதிகளைச் செய்கிறபடியாலும் இவ்விருவரில் ஒருவரைக் கூறினாலும், மற்றவருக்கும் தானே தொடர்பு உண்டு – என்று அறிவது.]
 
-போய்விடும். 
+> "स्मरन्ति चैनां मुनयः संसारार्णवतारिणीम्।
+> ऊचतुस्स्वयमप्येतत् सात्त्वतादिषु तावुभौ ॥"
 
-(ल. उ. दी ) अथ मनुषे विधेयार्थपरतया विशेषार्थपदस्य क्रयादीनामारुण्यादि- विशिष्टाविधेयतया तद्देशे विशिष्टान्वयेऽपि नानुपपत्तिः, उपायत्वस्य तु विधेयतया "ग्रहं सम्मार्ष्टि” इत्यत्र सम्मार्गस्य ग्रहमात्रान्वयवत् भगवन्मात्रान्वय एव स्वरस इति । एवं सति सम्मार्गस्य ग्रहत्वान्वयोऽपि न स्यात्। न च ग्रहत्वस्य स्वरूपनिरूपकधर्मत्वेन तद्विवक्षायां एकत्वविवक्षायामिव वाक्यभेदरूप\-बाधकाभावेन तद्विशिष्टान्वयः स्वीक्रियत इति वाच्यम्, हन्त तर्हि स्वारस्यविभवं परित्यजतस्तव विशेषणान्वयाभावे बाधकमेव शरणं स्यात्, तथा सति 
+[பெரியபிராட்டியை பிறவிப் பெருங்கடலை தாண்டிவிப்பவளாக முனிகள் கூறினார்கள். {இங்கு "सर्वकामप्रदां रम्यां संसारार्णवतारिणीम्। क्षिप्रप्रसादिनीं देवीं शरण्याम् अनुचिन्तयेत्" என்ற காச்யபஸ்ம்ருதிவாக்யம், "संसारार्णवमग्न..." என்ற ஸ்ரீவிஷ்ணுபுராண (१.९.१२०) வசனம் முதலியன திருவுள்ளம்} மேலும், ஸ்ரீஸாத்துவதம் முதலான ஆகமநூல்களில் திவ்ய தம்பதிகளான இவ்விருவருமே இப்படி பலமுறை தெரிவித்திருக்கிறார்கள்.]
 
-"अहन्ता ब्रह्मणस्तस्य साहमस्मि सनातनी । आत्मा स सर्वभूतानामहम्भूतो हरिः स्मृतः॥ अहन्तया विनाहं हि निरुपाख्यो न सिद्ध्यति । अहमर्थं विनाऽहन्ता निराधारा न सिद्ध्यति ॥ एवं भगवतस्तस्य परस्य ब्रह्मणो मुने । सर्वभावानुगा शक्तिर्ज्योत्स्नेव हिमदीधितेः ॥ एकं तत्परमं ब्रह्म षाड्गुण्यस्तिमितं महः । भावाभावमयी तस्य शक्तिरेकाऽनपायिनी ॥ 
+> "उपायोपेयदशयोर्द्वयेऽपि श्रीस्समन्विता ।
+> इष्टा च शेषिणि द्वन्द्वे शेषवृत्तिर्यथोचिता ॥"
 
-109   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+(ஆகவே மந்த்ரரத்னமான த்வயத்தில் பூர்வ- உத்தரகண்டங்களில் தெரிவிக்கப்பட்டபடி உபாயதசையிலும் - உபேயதசையிலும் பிராட்டி கட்டாயம் ஸம்பந்தப்பட்டவளே. அதனால் சேஷிதம்பதியான இந்த இருவர் விஷயத்தில் அவரவரது வர்ணாச்ரமாவஸ்த்தாதிகளுக்குத் தக்கபடி சேஷவ்ருத்தி கைங்கர்யம் யதோசிதமாய் கட்டாயம் விருப்பத்துடன் செய்யவேண்டும். சேஷபூதனான ஜீவன் சேஷிகளிடம் செய்யவேண்டிய பணிவிடைகளை சேஷவ்ருத்தி என்பர்.]
 
-तद्धर्मधर्मिणी दिव्या ज्योत्स्नेव हिमदीधितेः । योऽसौ नारायणो देवः परमात्मा सनातनः ॥ अहंभावात्मिका शक्तिस्तस्य तद्धर्मधर्मिणी । ताविमावेकथैवोक्तौ भेद्यभेदकभावतः ॥ पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ । नैव शक्त्या विना कश्चित् शक्तिमानस्ति कारणम् ॥ न च शक्तिमता शक्तिर्विना काप्यवतिष्ठते। तत्तद्गौरवमाश्रित्य तन्त्रवेदान्तपारगैः॥ जगद्धेतुतया देवावेकैकाविव दर्शितौ । प्रसुप्ताखिलकार्यं यत्सर्वतस्समतां गतम्॥ नाराणामयनं ब्रह्म सर्वावासमनामयम्। पूर्णस्तिमितषाड्गुण्यम् असमीराम्बरोपमम्॥ तस्य स्तैमित्यरूपा या शक्तिश्शून्यत्वरूपिणी। स्वातन्त्र्यादेव कस्माच्चित् क्वचिदुन्मेषमृच्छति॥ सदसच्चिदचिद्रूपैः यत्र विश्वं प्रकाशते। अस्मिन्नुपरते शश्वत् विश्वकोलाहलोद्गमे॥ अलक्ष्या कार्यतश्शक्तिर्देवाद्विजहती भिदाम्। इन्धनाभावतो ज्वाला वह्निभावं यथा गता ॥ ब्रह्मभावं व्रजत्येवं सा शक्तिर्वैष्णवी परा । एका शक्तिर्हरेर्विष्णोः सर्वभावानुगामिनी ॥ देवी पाद्गुण्यसम्पूर्णा ज्ञानानन्दक्रियामयी भाव्यभावकभेदेन सा द्विधा भावमृच्छति ॥ या सा शक्तिर्हरेराद्या लक्ष्मीर्नाम महामुने । या सा सर्वात्मना विष्णोर्भावाभावानुगामिनी ॥ तस्याल्पाल्पायुतांशांशस्वस्वातन्त्र्यविजृम्भिता। 
+> "अतोऽनन्यपरानेकशश्रुतिस्मृत्यनुसारतः।
+> पत्नीविशिष्ट एवैकः प्रपत्तव्य इहोदितः॥" [[P236]]
 
-110   
-लक्ष्म्युपायत्वदीपः 
+[ஆதலால் "வேறு எதையோ சொல்லவந்து இடையில் இதையும் சொல்லிற்று” என்றபடி இல்லாமல் முக்யத்வத்தைக் கூறவே வந்த ச்ருதிகள்-ஸ்ம்ருதிகளை அநுஸரித்துப் பார்த்தால் பெரியபிராட்டியாருடன் கூடிய பரமாத்மா ஒருவரே ப்ரபத்தி செய்ய வேண்டியவர் என்பதாக – இந்த த்வயத்தாலும் தெரிவிக்கப்பட்டது.]
 
-क्रियाविभूतिभेदेन समुदेतीति वर्णितम् ॥ 
+இவ்வளவுதூரம் விரிவாய் பரகாலஸ்வாமி காட்டியபடியால் பெரியபிராட்டியாருக்கு புருஷகாரத்வம்= பரிந்து பேசுதல் என்பதைப்போல் மோக்ஷாபாயத்வமும் உண்டு என்பதாக ச்ருதிகள்- ஸ்ம்ருதிகள்-பகவத்சாஸ்த்ரம் என்னப்பட்ட ஆகமஸம்ஹிதைகள் சிஷ்டாசாராதிகளால் ஏற்பட்டபடியால் புருஷகாரப்ரபதனம் பிராட்டியிடம் முதலில் செய்து பிறகு பெரியபிராட்டியாருடன் கூடிய பகவானின் திருவடித்தாமரைகளில் சரணாகதியை அநுஷ்டிப்பது – என்ற இந்த ஒன்றாலேயே மோக்ஷம் கிடைக்கும் - என்று முள்-கல்- சேறு முதலானவைகள் அற்ற ராஜமார்கமான நல்ல வழியாகும்.
 
-सङ्कल्पः कोटिकोट्यंशश्शक्तिभूतिस्तथाविधा । शक्तिस्सा वैष्णवी सक्ता बहुधैवं प्रजायते ॥ संरक्षणादिभूम्यन्तः तस्याः कोट्यंश ईरितः । या सा शक्तिर्महासक्ता विष्णोस्तद्धर्मधर्मिणी ॥ तस्याः कोट्यर्बुदांशेन शक्ती द्वे कथिते तव । परमात्मा परो योऽसौ नारायणसमाह्वयः॥ तस्यानपायिनी शक्तिर्देवी तद्धर्मधर्मिणी । मायाश्चर्यकरत्वेन पञ्चकृत्यकरी सदा ॥ व्यापिनी विष्णुरूपेण सर्वभावानुगामिनी । अशेषभुवनाधारसङ्कल्पप्रविजृम्भिणी॥ द्वे शक्ती तस्य विद्येते विष्णोस्सर्वार्थसाधने। प्रधानभूते याभ्यां तु वहत्येष जगद्धुरम् ॥ एका त्विच्छामिका तस्य तथान्या तु क्रियात्मिका । प्रथमा परमा लक्ष्मीर्जगत्त्रयकुटुम्बिनी ॥ तद्धर्मधर्मिणीं शक्तिं ब्रह्मणोऽनपगामिनीम् । अनाकारामनौपम्यां लक्षयन्तीं सदा जगत् ॥ श्रयन्तीं श्रीयमाणां च शृणतीं शृण्वतीमपि। महानन्दां महाभावां निर्विकारां निरेषणाम् ॥ ज्ञानशक्तिबलैश्वर्यवीर्यतेजः प्रभाविनीम्। अनन्तामन्तरूपां तामभेद्यां सर्वभेदिनीम्॥ नन्दां भद्रां जयाञ्चैव रक्तां पूर्णामृताम्बराम्। त्रिरूपामत्रिरूपां च सर्वप्रत्यक्षसम्मताम् ॥ 
+---
 
-निषेधैरनिषेध्यां तामविधेयां विधिक्रमैः । 
+### **முடிவுரை**
 
-अवाच्यां वाचिकां नित्यं गौरीं लक्ष्मीं सरस्वतीम् ॥" इत्यादि-   
-\- 
+> "श्रीमच्-छ्रीशैल-तात-प्रवर-गुरु-पदे न्यस्त-रक्षा-भरस् सन्
+> सम्यक्-प्राप्त-आगमान्त-द्वय इह परकालाख्य-सद्-देशिकेन्द्रात्।
+> श्रीमच्-छ्रीशैल-वंश-अम्बुधि-विधु-नरसिंहाय्य-तातार्थ-सूनुस्
+> तेने श्रीवेङ्कटार्यः सुजन-हिततमं लक्ष्म्युपायत्वदीपम्॥" [[P237]]
 
-111   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+[ஸ்ரீமானான ஸ்ரீசைலதாதார்யர் என்ற ப்ரபல குருவரரின் திருவடிவாரத்தில் தனது ஆத்மாவைப் பாதுகாக்க வேண்டிய பாரத்தை ஸமர்ப்பித்தவரும், மேலும், ஸ்ரீபரகாலஸ்வாமி என்ற திருநாமமுடைய ஆசார்யச்ரேஷ்டரிடமிருந்து நன்கு ஸேவித்து உணர்ந்த உபயவேதாந்தங்களை உடையவரும் (ஸம்ஸ்க்ருத வேதாந்தம், த்ராவிட வேதாந்தம் ஆகிய இரண்டு), அதேபோல் ஸ்ரீமத்திருமலைவம்சமாகிய கடலை சந்த்ரனைப் போன்று மகிழ்வித்து வருபவரான ஸ்ரீநரஸிம்ஹதாதார்யரின் குமாரருமான ஸ்ரீவேங்கடார்யர் என்றவர் நல்லோர்களுக்கு மிகவும் ஹிதமான இந்த லக்ஷ்ம்யுபாயத்வதீபம் என்ற நூலை அருளினார்.
 
-परश्शतप्रमाणैर्देव्याशिश्रयो   
-भगवत्स्वरूपनिरूपकत्वतत्स्वरूपरूपगुण- 
+இனிவரது விவரத்துடன் கூடிய முடிவு வாக்யம்:-
 
-विभवान्वितत्वविभूतिभूतसकलजगत्स्वरूपस्थितिप्रवृत्तिहेतुत्वव्यापनभरण- 
+इति श्रीमद्-वेद-मार्ग-प्रतिष्ठापनाचार्य-परमहंस-परिव्राजकाचार्य-सर्व-तन्त्र-स्वतन्त्र-उभय-वेदान्ताचार्य- श्रीमद्-रामानुज-सिद्धान्त-निर्धारण-सार्वभौम- श्रीपरकाल-संयमीन्द्र-महादेशिक- श्रीमत्-कवि-कथक-कण्ठीरव-चरण-नलिन-युगल-विन्यस्त-समस्त-आत्म-भर-
 
-स्वाम्यादिकं   
-प्रतिपाद्यत इति ग्रहत्ववदस्यास्स्वरूपनिरूपकत्वेनो- पायत्वस्यैतद्विशिष्टभगवदन्वयत्वे बाधकाभावेन साधकसत्त्वेन च भवदभिमता व्यवस्था दुरवस्था स्यात् । इदं चाभ्युपेत्यवादेन, वस्तुतस्तु उपायत्वोद्देशेन लक्ष्मीविशिष्टभगवत्सम्बन्धित्वस्य विधेयतया   
-Ga" 
 
-"यदाग्नेयोऽष्टाकपालोऽमावास्यायां च पौर्णमास्यां चाच्युतो भवति" इत्यादौ एकत्वपुंस्त्वद्रव्यदेवताकालादिविशेषणानामिव लक्ष्म्या अपि विधेयगतत्वेन विवक्षावश्यंभावाद् व्यवस्था न सिध्यत्येव । 
+ चरणारविन्द-चञ्चरीकायमाण-मानसस्य तत्-करुणा-कटाक्ष-समधिगत-सरहस्य-वेदान्त-युगी-सर्वविद्या-सर्वस्वस्य तत्-कृपा-लब्ध-पारमहंसस्य श्रीनिवास-परकाल-यतिवरस्य गृहस्थाश्रम-विरचितासु कृतिषु लक्ष्म्य्-उपायत्व-दीपः सम्पूर्णः ।
 
-(ல.க) இதன் மேல் ஒரு கேள்வி:\- 
+श्रीमते निगमान्त-महादेशिकाय नमः ॥
 
-சரி என்று ஒரு விதிவாக்யம். இங்கு 284 என்று ஏகவசனமிருப்பினும், அந்தப்ரகரணத்தில் அது் 8: என்று எட்டு எண்ணிக்கையுடன் வேறு வாக்யமிருக்கிறபடியால் இங்கு உள்ள 4 \- விவக்ஷிதமில்லை. ஒவ்வொரு 
+श्रीमते श्रीनिवास-परकाल-संयमीन्द्र-महादेशिकाय नमः ॥
 
-க்ரஹத்தையும் \=   
-ஸோமரஸத்தை சேமித்து வைக்கும் பாத்ரவிசேஷத்தையும் நன்கு துடைத்து   
-துடைத்து வைத்திருக்க வேண்டியதை இந்த வாக்யம் கூறுகிறது என்று 
+ஸ்ரீமத்வேதமார்கப்ரதிஷ்ட்டாபனாசாரியரும், பரிவ்ராஜகாசார்யரும், ஸம்ஸ்க்ருத-த்ராவிட ரூப உபய வேதாந்தாசார்யரும், ஸ்ரீமத் கவிதார்கிக கேஸரியான ஸ்ரீஸ்வாமி தேசிகனின் திருவடிவாரத்தில் ஆத்மாத்मीயங்களான ஸகலபாரத்தை உடையவரும், ஸ்ரீபகவத்ராமாநுஜாசார்ய ஸித்தாந்தத்தை நிலைநாட்டுவதில் வல்லவரும், ஸ்ரீபரகால ஸம்யமீந்த்ரமஹாதேசிகனின் திருவடித்தாமரைகளில் தேன்வண்டைப் போன்று அங்குள்ள இனிய தேனைப் பருகும் மனம்படைத்தவரும், அவரது கருணை பொழியும் திவ்யகடாக்ஷத்தால் அடைந்த ரஹஸ்யக்ரந்தங்கள், வேதாந்தயுகளம் முதலான ஸத்வித்யைகளாகிய ஸொத்தை உடையவரும், அவரது க்ருபையால் மோக்ஷஷாச்ரமத்தை அடைந்தவருமான "ஸ்ரீநிவாஸ பரகாலயतिவரர்” என்ற மஹானால் க்ருஹஸ்த்தாச்ரமத்தில் செய்யப்பட்ட ஸம்ப்ரதாய நூல்களில் லக்ஷ்ம்யுபாயத்வதீப: என்ற ஸ்ரீகோசம் முற்றுப்பெற்றது.
 
-மீமாம்ஸகர்கள் முடிவு செய்தார்கள். அது போல் இங்கும் ஜகத்காரணத்வம் முதலானவை எம்பெருமான் ஒருவரிடம் மட்டிலுமே ஸம்பந்தப்பட்டது \- என்று கொள்ளவேண்டும். இல்லையெனில் யாகத்தில் உபயோகப்படும் எல்லா பொருட்களையும் துடைத்துவைப்பதைப் போன்று \- 3 hl4–4 என்ற வாக்யத்தைப்பிரித்து ஆருண்யம் \= சிவப்பு என்ற நிறம் \- யாகத்தில் பயன்படும் எல்லா பொருட்களிலும் கலக்கவேண்டிவரும் என்று அங்கு பூர்வபக்ஷி கூறியதைப் போன்று இங்கும் ஆகும். அது மீமாம்ஸகர் ஒப்பியதில்லை. 
+इप़्पडि ओरु विशयत्तै उण्डु एऩ्ऱु निलैनाट्टवो – इल्लै एऩ्ऱु मऱुक्कवो -वेऱु विदमाय् माऱ्ऱि अमैक्कवो वल्लवरुम्,
 
-ग्रहत्वम् என்பதை   
-அங்கு   
-\- 
+[[P238]]
 
-மாகக் 
+श्रीमच्छ्री-रङ्गरामानुज-मुनि-चरणाम्भोज-भृङ्गायमाणः  
+श्रीमच्छ्री-वीररघ्वी-गुरुवर-करुणा-लब्ध-वेदान्त-युग्मः ।  
+श्रीमच्छ्री-वासुदेवाह्वय-पितृ-चरणावाप्त-तापादिको ऽयं  
+श्रीवत्साङ्काख्य-सूरिः व्यवृणुत महितं लक्ष्म्य्-उपायत्व-दीपम् ॥  
 
-112 लक्ष्म्युपायत्वदीपः 
+ஸ்ரீமதே நிகமாந்த மஹாதேசிகாய நம:  
+ஸ்ரீமதே ஸ்ரீநிவாஸபரகால ஸம்யமீந்த்ர மஹாதேசிகாய நம:  
 
-கொண்டபடியால் எப்படி எல்லாப்பொருட்களிலும் \= 7634   
-ग्रहत्वम् என்று வ்யவஹரிக்க முடியுமான எல்லாப்பொருட்களிலும், அந்வயத்தை ஒப்பிட க்ரஹத்வ வ்யவஹாரயோக்யமில்லாத பொருட்களில் ஸம்மார்ஜனம் என்ற க்ரியையை இந்த வாக்யத்தால் கொள்ளவில்லை. அதேபோல் இங்கும் ஆகட்டுமே? என்று. 
+[[P239]]
 
-இதற்கு பதில்- 
+॥ श्रीलक्ष्मी-हयवदन-लक्ष्मी-नारायण-वेणुगोपाल-परब्रह्मणे नमः ॥  
+॥ श्री-शठकोप-रामानुज-देशिकेभ्यो नमः । श्री-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-गुरु-परम्परायै नमः ॥  
 
-\-   
-இப்படியானால் ஸ்வாரஸ்யத்தின் பெருமையை விட்டுவிட்டு zi a4 ஏற்படுகிறது என்பதையே நீங்கள் கொண்டீர்கள் \- என்று ஏற்படுகிறது. இப்படியானால் \- மேலே காட்டும் பல ப்ரமாணங்களுக்கு விரோதம் வரும். அந்த ப்ரமாணங்களாவன:\- 
+श्रीनिवास-परकाल-महादेशिक-कृतं  
 
-1\. अहन्ता ब्रह्मणस्तस्य साऽहमस्मि सनातनी । 
+॥ श्री-परकाल-महादेशिक-मङ्गलम् ॥  
 
-आत्मा स सर्वभूतानाम् अहम्भूतो हरिः स्मृतः ।। 
+शम-दम-गुण-शीलं शाश्वतानन्द-लीलं विजित-कुमति-जालं वीत-रागादि-मूलम् ।  
+नत-जन-परिपालं नाथ-[[पादाज्जलोलं|पादाब्जलोलं]] गुरुम् इह परकालं नौमि भक्त्यानुवेलम् ॥ १ ॥  
 
-\[பரம்பொருளான எம்பெருமானின் அஹந்தா என்பவள் பழையகாலம் முதற்கொண்டே விளங்கிவரும் நானே (லக்ஷ்மியே),   
-ஸ்ரீஹரியானவர் ஸர்வபூதர்களுடையவும் நான் என்று சொல்லப்படும் 
+श्रीमते भक्ति-वैराग्य-धीमते विदितात्मने ।  
+चिरकालं यतीन्द्राय परकालाय मङ्गलम् ॥ २ ॥  
 
-ஆத்மா.)   
-பகவான் 
+माधवे मासि चार्द्रायां मादृशान् अभिरक्षितुम् ।  
+मन्मथाब्दे अवतीर्णाय मन्नाथायास्तु मङ्गलम् ॥ ३ ॥  
 
-2\. अहन्तया विनाऽहं हि विरूपाख्यो न सिद्ध्यति । 
+सरोज-[[वीज|बीज]]-तुलसी-स्रग्-अलंकृत-वक्षसे ।  
+कराञ्चित-त्रिदण्डाय परकालाय मङ्गलम् ॥ ४ ॥  
 
-अहमर्थं विनाऽहन्ता निराधारा न सिद्ध्यति ।। 
+कुटिलान्यमतोन्मूल-चटुलायोपवीतिने ।  
+निटिलाद्य्-उल्लसत्-पुण्ड्र-पटलायास्तु मङ्गलम् ॥ ५ ॥  
 
-\[பெயர்குறிப்பிட்டுச்   
-சொல்லத்தேவையான   
-அஹந்தா 
+द्रमिडोपनिषत्-तत्त्वं समुद्धर्तुं स्वदर्शितम् ।  
+भूमौ भूयो ऽवतीर्णाय परकालाय मङ्गलम् ॥ ६ ॥  
 
-என்னப்பட்ட நானின்றி பகவான் ஸித்திக்கமாட்டார். ஆதாரமில்லாமல் தாங்கப்படும் பொருள் உண்டோ?\] 
+श्रीनिवासार्य-संलब्ध-श्रीभाष्यार्थादि-सम्पदे ।  
+श्रीनिवासमुनि-प्राप्त-श्रीगीतार्थाय मङ्गलम् ॥ ७ ॥  
 
-3\. tele q 
+वरदाम्नायान्त-मौनिवर-दानात्त-सम्पदे ।  
+वरदार्यार्चित-स्वाय वरदायास्तु मङ्गलम् ॥ ८ ॥  
 
-सर्वभावानुगा शक्तिः ज्योत्स्नेव हिमदीधितेः ।। 
+[[P240]]
 
-113   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
+सुतर्क-वाद-दंष्ट्राग्रैर् जित-दुर्वादि-दन्तिने ।  
+प्रतिष्ठितागमान्ताय यति-सिंहाय मङ्गलम् ॥ ९ ॥  
 
-\[ஜ்ஞானசக்த்யாதிகளான ஆறுகுணங்கள் நிரம்பியவரும், பரம்பொருள் எனப்பட்டவருமான நாராயணனுடைய லக்தி என்பது நானே. எல்லாப்பொருளிலும் நான் அவரைப்பின் தொடர்பவள். குளிர்ந்த கிரணங்களை உடைய சந்த்ரனுக்கு நிலவு போல் நான்.) 
+पराङ्कुशो यामुनो वा परकालो ऽथवा भवेत् ।  
+सारांशो वा अथवा तेषाम् इत्य्-ऊह्यायास्तु मङ्गलम् ॥ १० ॥  
 
-4\. एकं तत् परमं ब्रह्म षाङ्गुण्यस्तिमितं महः । भावाभावमयी तस्य शक्तिरेकाऽनपायिनी ॥ तद्धर्मधर्मिणी दिव्या ज्योत्स्नेव हिमदीधितेः । योऽसौ नारायणो देवः परमात्मा सनातनः । अहम्भावात्मिका शक्तिः तस्य तद्धर्मधर्मिणी ।। (ஜ்ஞான\-சக்த்யாதிகளான வெளியில் காட்டாமலிருக்கும் ஆறு குணங்களுடன் கூடியவரும், பரம்ப்ரம்ஹம் என்று சொல்லப்பட்டவரும் நாராயண\-தேவ\-பரமாத்மா\-ஸநாதனன் என்னப்பட்டவருமான அந்த பகவானின் 364 என்ற எண்ணமே உரு எடுத்த சக்தியாக நான் இருந்து எப்போதும் அவர் அநுஷ்டிக்கும் ஜகத்வ்யாபாராதிகளை அவருடன் நானும் செய்துவருகிறேன்.) 
+पावित-क्षितये चित्त-भाविताष्टार्ण-सम्पदे ।  
+सेविताय बुधैर् अस्मद्-दैवतायास्तु मङ्गलम् ॥ ११ ॥  
 
-5.   
-\-: 
+वेदान्तार्य-पद-ध्यान-मोदान्तर्वाष्प-चक्षुषे ।  
+वादान्त-स्थापित-आत्मेश-भेदान्तायास्तु मङ्गलम् ॥ १२ ॥  
 
-पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ ।। 
+परिताप-हर-अपाङ्ग-भरितादि-कृपा-पदे ।  
+दुरिताम्बुद-वातूल-चरितायास्तु मङ्गलम् ॥ १३ ॥  
 
-\[இந்த   
-லக்ஷ்மீ\-நாராயணர்களாகிய   
-இருவரும் 
+आम्नायकैरव-सुधा-धाम्ने सद्गुण-सम्पदाम् ।  
+सीम्ने प्रपत्ति-संत्राण-स्थेम्ने भवतु मङ्गलम् ॥ १४ ॥  
 
-விசேஷணவிசேஷ்யபாவத்தால் தனித்தும் ஏகம் என்றும் சாஸ்த்ரங்களில் காட்டப்பட்டவர்கள். இருவருமே எல்லா உலகிற்கும் காரணமானவர்கள்.\] 
+व्यापकोपाय-नेतृत्व-स्थापकाय आगम-श्रियः ।  
+व्यापकाय परब्रह्म-ज्ञापकायास्तु मङ्गलम् ॥ १५ ॥  
 
-6\. नैव शक्त्या विना कश्चित् शक्तिमान् अस्ति कारणम् । 
+आर्द्रायाम् अवतीर्णत्वाद् गुरु-पञ्चक-संश्रयात् ।  
+यतीन्द्रत्वाद् भाष्यकार इति ख्याताय मङ्गलम् ॥ १६ ॥  
 
-न च शक्तिमता शक्तिर्विना काऽप्यवतिष्ठते ॥ 
+मङ्गलम् परकालाय मङ्गलम् [[दीनवन्धवे|दीनबन्धवे]] ।  
+मङ्गलम् यतिराजाय मङ्गलम् मङ्गलात्मने ॥ १७ ॥  
 
-\[ஜகத்துக்குக்   
-காரணமானவர்   
-சக்தியில்லாமல்   
-இருக்க 
+परकाल-यतीन्द्रस्य पदाम्भोज-युगे ऽर्पितम् ।  
+मङ्गलम् पठतां नित्यं मङ्गलाय भवेद् इदम् ॥ १८ ॥  
 
-முடியாது. அதேபோல் சக்திமானான பகவானில்லாமல் சக்தி 
+शरणं भवाब्धि-तरणोडुपं भवच्चरणं ममेति करणत्रयात्मनि ।  
+चिरकालम् अत्र परकाल-सद्गुरो करुणां निधेहि करुणानिधे मयि ॥ १९ ॥  
 
-மட்டும் எங்கும் இருக்காதே\!\] 
+[[P241]]
 
-114 
+॥ श्रीः ॥  
 
-7\. vi4 அரி: \! जगद्धेतुतया देवौ एकैकाविव दर्शितौ ।। 
+॥ श्रीलक्ष्मी-हयवदन-लक्ष्मी-नारायण-वेणुगोपाल-परब्रह्मणे नमः ॥  
+॥ श्री-शठकोप-रामानुज-देशिकेभ्यो नमः | श्री-ब्रह्मतन्त्र-स्वतन्त्र-परकाल-गुरु-परम्परायै नमः ॥  
 
-\[மீமாம்ஸாதி ஸாஸ்த்ரங்களையும் 
+श्रीमद्-वेदान्त-परकाल-महादेशिक-कृतं  
 
-கரைகண்டவர்களான   
-மஹான்களால்   
-लक्ष्म्युपायत्वदीपः 
+॥ श्रीनिवास-परकाल-महादेशिक-मङ्गलम् ॥  
 
-வேதாந்தத்தையும் 
+द्वाविंशति-यतीन्द्राप्त-परकाल-विहारिणे ।  
+मूर्तये गुरवे श्रीश्रीनिवासायास्तु मङ्गलम् ॥ १ ॥  
 
-இந்த லக்ஷ்மீ- 
+तातदेशिक-पादाब्ज-न्यस्त-स्वात्म-भराय नः ।  
+स्वामिने श्रीश्रीनिवास-तुरीयायास्तु मङ्गलम् ॥ २ ॥  
 
-நாராயணர் என்ற இருவரிடமுள்ள கௌரவத்தால் 
+परकाल-यतीशान-प्राप्त-तुर्याश्रमाय नः ।  
+नाथाय श्रीनिवासाय परार्थायास्तु मङ्गलम् ॥ ३ ॥  
 
-இருவருமே இவ்வுலகிற்குக் காரணமாக \- ஒருவரே போன்று 
+शिखोर्ध्व-पुण्ड्र-काषाय-त्रिदण्डालंकृतात्मने ।  
+ज्ञानाब्धये श्रीनिवास-हयास्यायास्तु मङ्गलम् ॥ ४ ॥  
 
-காட்டப்பட்டார்கள்.\] 
+पराङ्कुशो यतीशानो वेदान्त-गुरुर् एव वा ।  
+इत्य्-ऊह्याय श्रीनिवास-स्वामृतत्वाय मङ्गलम् ॥ ५ ॥  
 
-8\. प्रसुप्ताखिलकार्यं यत् सर्वतः समतां गतम् । नाराणाम् अयनं ब्रह्म सर्वावासम् अनामयम् । पूर्णस्तिमितषाङ्गुण्यम् असमीराम्बरोपमम् ।। 
+भगवद्-भक्ति-वैराग्य-निधये गुण-सिन्धवे ।  
+शान्ताय श्रीनिवासाय परमाराय मङ्गलम् ॥ ६ ॥  
 
-\[சேதனாசேதனவர்கங்களுக்கு 
+तन्त्रेषु सम्यङ्-निष्णात-वादि-गर्वापहारिणे ।  
+दान्ताय श्रीश्रीनिवास-योगिने दिव्य-मङ्गलम् ॥ ७ ॥  
 
-நாராயணன்   
-எனப்பட்டவரும்,   
-வழிகாட்டியானபடியால் பரம்பொருளும், 
+त्रय्यन्त-गुरु-सिद्धान्त-स्थापनैकोत्सुकाय नः ।  
 
-\-   
-அவைகளால் ஏற்படும்   
-எப்பொருளிலுமிருப்பவராயினும் 
+[[P242]]
 
-ஸ்வரூபவிகாரமோ \- ஸ்வபாவவிகாரமோ அடையாதவரும், எங்கும் யாரிடமும் ஸமரானவரும், எல்லாவகை (ஜகத்ஸ்ருஷ்ட்யாதி) கார்யங்களையும் செய்யாமல் சில நேரம் உள் அடங்கியவர் போல் இருப்பவரும், ஜ்ஞானக்த்யாதிகளான 
+निधये श्रीनिवासाय परकालाय मङ्गलम् ॥ ८ ॥  
 
-நிரம்பப்பெற்றவராயிருப்பினும் 
+ज्ञान-भक्ति-वचः-संपत्-परमैकान्त-सत्रिणे ।  
+हयास्य-मूर्ति-श्रीवास-परतत्त्वाय मङ्गलम् ॥ ९ ॥  
 
-வெளிக்காட்டாதவரும், 
+सार्वज्ञ्य-सत्य-संकल्प-वात्सल्यादि-गुणाब्धये ।  
+नित्य-लीला-प्रकाशाय श्रीनिवासाय मङ्गलम् ॥ १० ॥  
 
-ஆகாயத்தைப்போலும்   
-ஆறு   
-குணங்கள் 
+यत्-पाद-पङ्कजं प्राप्य निर्भरो निर्भयो ऽस्म्य् अहम् ।  
+स्वाचार्य-पाद-विन्यस्त-सर्वस्वत्वाय मङ्गलम् ॥ ११ ॥  
 
-அதை 
+अनाथो नाथवान् अस्मि यत्-कारुण्योत्य-शालिने ।  
+यतीन्द्राय आत्मयोगाय श्रीनिवासाय मङ्गलम् ॥ १२ ॥  
 
-காற்றைப்போலும், 
+मङ्गलाशासनम् श्रीमत्-परकाल-गुरोः पदे ।  
+समर्पितम् पठेद् यस्तु स भवेन् मङ्गलाश्रयः ॥ १३ ॥  
 
-ஒருவராலும்   
-கண்ணால் 
+[[P243]]
 
-காணமுடியாதவருமானவரை அறியவும்.\] 
-
-9\. तस्य स्तैमित्यरूपा या शक्ति: शून्यत्वरूपिणी । स्वातन्त्र्यादेव कस्माच्चित् क्वचिद् उन्मेषम् ऋच्छति ॥ 
-
-(அந்த எம்பெருமான் சிலநேரம் எதுவும் செய்யாமல் இருப்பார். அதையும் சூன்யமான சக்தி என்பர். அவர் ஸர்வஸ்வதந்த்ரர் \- ஆனபடியால் சிலநேரத்தில் அவரது சக்தி மேலோங்கி செயல்படத் துவங்கும்.\] 
-
-115   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-10\. Hqe\-fqgy: q   
-अस्मिन् उपरते शश्वत् विश्वकोलाहलोद्गमे । 
-
-अलक्ष्या कार्यतः शक्तिः दैवाद् विजहती भिदाम् ।। 
-
-\[புலப்படும் பொருள் \- கண்ணுக்குப் புலப்படாத பொருள், என்றவாறு பலபடியுள்ள   
-அறிவுள்ளது\-அறிவற்றது 
-
-ப்ரபஞ்சமானது யாரிடம் விளங்குகிறதோ \- அவர் சில 
-
-நேரத்தில்   
-செயல்படாமலிருந்தால்   
-உலகிலுள்ள 
-
-கோலாஹலம் யாவும் அடங்கி விடுகிறது. கண்ணுக்குப் புலப்படாத போதிலும் \- அதன் செயல்பாடுகளைக் கொண்டு 
-
-அசேதனமான இந்த உலகம் சேதனனான பரமாத்மாவால் இயக்கப்படுகிறது 
-
-அவுபுகரிகங்களைக்கொண்டு அறியலாம்.\] 
-
-11.5qi   
-lI 
-
-ब्रह्मभावं व्रजत्येवं सा शक्तिः वैष्णवी परा ।   
-என்பது   
-ஒரு 
-
-\[கீழே எரியதேவையான கட்டை முதலானவை இல்லாவிடில் தீயில் ஜ்வாலை நின்று விடுகிறது. கொள்ளிக்கட்டை என்ற நிலையை அடைகிறது. அதேபோல்   
-இந்த 
-
-ஜகத்ஸ்ருஷ்ட்யாதி VDக்தியானது பரம்பொருளுடன் ஒன்றிப்போய் \- பிரித்து அறியாத நிலையை அடைகிறது.\] 12\. பன ளிகள்: ரியர்:   
-சாரி| 
-
-दैवी षाड्गुण्यसम्पूर्णा ज्ञानानन्दक्रियामयी । 
-
-\[எல்லா பொருட்களிலும் தொடர்ந்து வரக்கூடிய இந்த 
-
-ஜ்ஞான-   
-भाव्य\-भावकभेदेन स द्विधा भावम् ऋच्छति । । 
-
-ஸ்ரீஹரிவிஷ்ணுவின் சக்தி ஒன்றே 
-
-ஆனந்தமும் நிரம்பினவளாய்   
-ஜகத்ஸ்ருஷ்ட்யாதி   
-செயல்களைச் செய்பவளாயும் இருந்து   
-\-   
-இது அவளால்   
-பக்த்யாதிகளான ஆறுகுணங்கள் நிரம்பியவள். அறிவும், 
-
-உண்டானது \- இது உண்டாகக் காரணமானது என்ற இரு உட்பிரிவுடன் பொருட்களை வ்யாபித்திருக்கிறாள்.\] 
-
-116 
-
-13\. சளிக: 1 या सा सर्वात्मना विष्णोः भावाभावानुगामिनी ।। तस्याल्पाल्पयुतांशांशस्वस्वातन्त्र्यविजृम्भिता । क्रिया विभूतिभेदेन समुदेतीति वर्णितम् ।।   
-लक्ष्म्युपायत्वदीपः 
-
-\[மஹாமுனியே\! எம்பெருமான் ஸ்ரீஹரியின் பாக்தி என்பதாக யாதொன்று உண்டோ \- அது எம்பெருனானைப் போன்று ஸர்வ பதார்த்தங்களிலும் கண்ணுக்குப் புலப்படாமல் \- அந்த எம்பெருமானின் ஸ்வாதந்த்ர்யம் என்ற குணத்தின் பலலக்ஷணங்களில் ஒரு அம்ரமே இத்தனை செயல்களைச் செய்கிறது என்றும், அந்த செயலே நித்யவிபூதியிலும் **\-** லீலாவிபூதியிலும் யாவரும் எதுவும் 
-
-செயல்பட   
-\- 
-
-இருப்பதாகவும் 
-
-வர்ணிக்கப்பட்டுள்ளது.\] 
-
-14\. : கக | शक्ति: सा वैष्णवी सक्ता बहुधैवं प्रजायते ॥   
-சாஸ்த்ரங்களில் 
-
-\[எம்பெருமானின் ஸங்கல்பம் என்பதில் கோடியில் கோடியின் ஒரு அம்ஸமே சக்தி\-பூதி எனப்படும். இது ஸ்ரீவிஷ்ணு ஒருவருக்கே உண்டு. இதுவே சாஸ்த்ரங்களில் பலபடி அமைவதாகக் கூறப்படுகிறது.\] 
-
-15\. சண-A:: 
-
-8() னர்: 
-
-तस्याः कोट्यर्बुदांशेन शक्ती द्वे कथिते तव ।   
-Rd: \! பரி 
-
-(உலகினரைப்பாதுகாப்பது முதல் உள்ளவை பூமியில் அந்த சக்தியின் கோடியில் ஒரு அம்பயமாகக் காட்டப்பட்டது. அந்த பக்தியே ஸ்ரீலக்ஷ்மி எனப்படுபவள். இவள் எம்பெருமான் செய்யும் ஸகலசெயல்களையும் செய்துவருகிறாள். ஸ்ரீவிஷ்ணுவுக்கு இவளிடம் ஆஸக்தி அதிகம். இந்த பக்தியில் பலகோடிகளின் ஒரு அம்யமாகவே கீழே 
-
-117   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-சொன்ன 
-
-தெரிவிக்கப்பட்டன.) 
-
-16\. isai   
-ஸ்ருஷ்டி\-ஸ்தித்யாதி UDக்திகள் 
-
-7: | 
-
-तस्यानपायिनी शक्ति: देवी तद्धर्मधर्मिणी ।। 
-
-உண்டோ   
-\-   
-\[நாராயணன் என்ற திருநாமமுடைய யாதொரு பரமாத்மா அவரைப் போன்று எல்லா செயல்களையும் செய்யும் அவரது சக்தியே \- அவரைவிட்டு நீங்காமல் லக்ஷ்மி எனப்படுகிறாள்.\] 
-
-17\. சவுங்க   
-புதுவுக 
-
-व्यापिनी विष्णुरूपेण सर्वभावानुगामिनी ।। 
-
-\-   
-\[இந்த லக்ஷ்மி என்ற சக்தி \- ஸ்ரீவிஷ்ணுவைப் போல் எல்லாப்பொருள்களிலும் பரவி அத்யாஸ்சர்யமாக எல்லா செயல்களையும் செய்கிறாள் பஞ்சக்ருத்யமாவது :\- (i)ஜகத்ஸ்ருஷ்ட்டி,   
-\- 
-
-**(**ii)ஸ்திதி, 
-
-(iv)முமுக்ஷபாஸ்யையாயிருந்து   
-**(**iii)ஸம்ஹாரம், மோக்ஷமளிப்பது, 
-
-(v)எம்பெருமானிடம் பரிந்துபேசி நம்வினைகளை தீர்ப்பது \- என்பதாக. விரிவு \-ஸ்ரீமத்ரஹஸ்யத்ரயஸாராதிகளில் கண்டுகொள்வது.\] 
-
-18\. 3qar Hi 
-
-द्वे शक्ती तस्य विद्येते विष्णोः सर्वार्थसाधने॥ 
-
-प्रधानभूते, याभ्यां तु वहत्येष जगद्धुरम् । 
-
-\[எல்லா   
-உலகையும் தாங்குவது   
-\-   
-பிராட்டி தன் 
-
-ஸங்கல்பத்தால் தான். எம்பெருமானுக்கு உலகிலுள்ள எப்பொருளையும் ஸாதிக்க இரண்டு சக்திகள் உண்டு. அந்த இரண்டால் இவ்வுலகின் பாரத்தை அவர் தாங்கி வருகிறார்\] 
-
-19\. ரிரிரி 
-
-प्रथमा परमा लक्ष्मीः जगत्त्रयकुटुम्बिनी । 
-
-118   
-लक्ष्म्युपायत्वदीपः 
-
-\[இதில் எம்பெருமானுக்கு இச்சாசக்தி\-க்ரியாசக்தி என்று இருவகை சக்திகள் உண்டு. அதில் இச்சா சக்தி என்பது லஷ்மியே. இவளே மூவுலகையும் தமது குடும்பம் போல் பரிபாலித்து வருகிறாள்\] 
-
-20.   
-எரிணி கரிக்\-யபுரி 
-
-अनाकाराम् अनौपम्यां लक्षयन्तीं सदा जगत् ॥ 
-
-உடையவளும்,   
-\[எம்பெருமானுக்கேற்றபடி தர்மங்களை எம்பெருமானின் சக்தியானவளும், அவரைவிட்டு இறையும்- தினைத்தனையும் நீங்காதவளும், இன்ன உருவில் தான் இவள் இருப்பாள்- என்று கூறமுடியாதவளும், இவளுக்கு ஒருவரும் நிகர் இல்லை எனப்பட்டவளும், எப்போதும் உலகைக் காப்பதிலேயே நோக்குள்ளவளும் \-\] \[என்று மேல் வெகுதூரம் சென்ற பிறகு இதற்கு வினைமுற்று.\] 
-
-21\. श्रयन्तीं श्रीयमाणां च शृणतीं शृण्वतीमपि । 
-
-\[இது   
-ஸ்ரீ என்ற சொல்லுக்கு 
-
-ரத்தையும் காட்டும்   
-யுரியையும், 
-
-i) எம்பெருமானை எப்போதும் நமக்காக பரிந்துப் பேச ஆச்ரயித்திருப்பவளும், நம்மிடம் வாத்ஸல்யத்தால் நம்மை எப்போதும் ஆச்ரயித்திருப்பவளும் 
-
-ii) வினை தீர விரும்புமவர்களால் ஆச்ரயிக்கப்படுமவளும், அல்லது   
-எம்பெருமானால் எப்பொழுதும் 
-
-ஆச்ரயிக்கப்பட்டவளும் 
-
-iii) நமது வினைகளைப் போக்குபவளும், அல்லது \- நம்மிடம் எம்பெருமானுக்கு ஏற்பட்ட சீற்றத்தை ஆற்றுபவளும் 
-
-iv) நமது குறைகளைக் கேட்பவளும், எம்பெருமானிடம் நாம் உய்வு   
-வழியான த்வயத்தைக் கேட்டு நமக்கு   
-பெற உபதேசிப்பவளும்,) 
-
-22\. 4813ர் 4814 
-
-119   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-\[எப்போதுமே ஆனந்தமயமானவளும், அல்லது, एष äq\-A என்றபடி நம்மை மோக்ஷரூப மஹாநந்தமடைய வைப்பவளும், உயர்ந்த கருத்துக்களை உடையவளும், (சில்லரை புத்தி இல்லாதவள் என்றபடி) எத்தனை பிழைகளை நாம் செய்தாலும் அதை பொறுத்தருள்வதால் சித்தவிகாரமற்றவளும், க்ஷத்ரதேவதைகளைப்போல் பு, ते என்றபடி நம்மிடம் எதையும் எதிர்பாராதவளும்-\] 23\. 511\--≥ரி\---: \[இது வும். எம்பெருமானைப்போன்றே பேரறிவு \- செயல்படும் திறன் எதையும் தாங்கும் பண்பு உபயவிபூதிகளுமே சொத்தாகப் பெற்றிருப்பது, இவ்வளவு ஜகத்வ்யாபாராதிகளைச் செய்யும் போதும் துளியும் சரீரத்தில் வாட்டமோ \- மனதில் குழப்பமோ இல்லாமை கண்டதுமே எல்லோரையும் தமது திருவடிகளில் விழும் நிலைக்குக் கொண்டுவரும் பண்பு என்ற இவை எல்லாம் இவள் ப்ரபாவமாயிருக்கின்றன.)   
-\- 
-
-\- 
-
-24\. अनन्ताम् अन्तरूपां ताम् अभेद्यां सर्वभेदिनीम् । 
-
-\[அனந்தனான   
-— 
-
-\- 
-
-எம்பெருமானைப் போற்றும் இவளும் தேசத்தாலும்\-காலத்தாலும்\-பொருளாலும் பரிச்சேதம் அற்று எங்கும் வ்யாபித்துள்ளவள், Hisy: qr4 அசரி என்றதைப் போன்று ஸம்ஸாராத்வாவில் கடைசீயில் சென்று சேர வேண்டிய ஸ்ரீவிஷ்ணுவின் பரமபதமே இவளது நித்யஸ்த்தானம் – என்றபடி, எம்பெருமானை விட்டுப்பிரிக்க முடியாதவள் அல்லது இவளது ஸ்வரூப\-ரூப\-குண- விபவாதிகள் ஒருவராலும் தடுக்க முடியாது பொருட்களையும்விட விலக்ஷணமானவள்\] 25\. नन्दां भद्रां जयां चैव रक्तां पूर्णाम् ऋताम्बराम्।   
-\- 
-
-\-   
-எல்லாப் 
-
-\[எப்போதும் மகிழ்வைத் தரக்கூடியவள், மங்களமே உருவானவள், வெற்றியே உருவானவள், சிவந்தவள் 
-
-120   
-\-   
-लक्ष्म्युपायत्वदीपः 
-
-அல்லது ஆஸ்ரிதர்களிடம் அநுதாபம் கலந்த அநுராகமுடையவள் தூய்மையான பட்டவஸ்த்ரம் 2Qना-\]   
-\- 
-
-இவ்வளவும் பூர்வபக்ஷி கூறியதை ஒப்புக்கொண்டு வாதம் செய்வதாய்க் கொண்டு கூறியது. உண்மையில், இங்கு லக்ஷ்மியுடன் கூடிய பகவானின் ஸம்பந்தம் தான் விதேயம். ஆனபடியால் நீங்கள் (பூர்வபக்ஷிகள்) கூறின வ்யவஸ்தை 
-
-www. पशुना यजेत ळा Gural quo   
-\-   
-ஒரு பசு   
-ं। ♚u0ळीला. यदाग्नेयोऽष्टाकपालोऽमावास्यायां पौर्णमास्यायां 
-
-चाच्युतो भवति ढाल Gural   
-—   
-த்ரவ்யம், தேவதா, காலம் முதலானவைகள் விசேஷணங்களாய் நன்றாகவே தெரிகின்றன. அதே போல் த்வயமந்த்ரத்திலும் லஷ்மிக்கு விதேயமாக அமைந்தபடியால் நீங்கள் கூறிய வ்யவஸ்தை 
-
-Fr\_LITgl. 
-
-(ल. उ. दी) अत एव "सविशेषणे ही "ति न्यायस्य विशेष्यान्वयबाधे सत्येव विशेषणान्वयित्वम्, इतरथा तु विशेष्यमात्रान्वयित्वमित्यर्थपरत्वमत्र विशेष्येत्यादिनोक्तमपि प्रत्युक्तम्, बाधकाभावे विशिष्टान्वयस्य बहुशः प्रतिपादितत्वात्। अन्यथा "बहु स्यां प्रजायेय", "तदात्मान‍ स्वयमकुरुते "त्यादौ प्रतीयमानोपादानत्वस्य स्वारस्याद्विशेष्यमात्रान्वयेन स्वरूपपरिणामवादी विजयी स्यात्। निर्विकारत्व\-श्रुतिविरोधेन विशेष्यबाधाद्विशेषणमात्रान्वयेन प्रकृतिमात्रोपादानत्ववादी विजयेत। 
-
-यत्तु, अन्यथेत्यादिना लक्ष्म्या इव तत्पतित्वस्याप्युपायत्वमापादितम्, तदापाततः पतित्वस्य स्वामित्वपर्यवसन्नशेषित्वरूपतया "उकारोऽनन्याईं नियमयति सम्बन्धमनयो"रित्यभियुक्तोक्तरीत्या लक्ष्मीसम्बन्धरूपत्वेन 
-
-कारुण्यसौशील्यादिगुणवत्सूपसदत्वादिमुखेन उपायत्वस्येष्टत्वात्। 
-
-121   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-\-   
-(லக) f என்கிற ந்யாயமும் விசேஷ்யத்தில் சேருவதற்குத் தடை இருந்தால் தான் விசேஷணத்தில் அந்வயிக்கும் என்பதைக் காட்ட வந்தது. பிராட்டியும் உத்தேச்யகோடியில் அந்வயிப்பதால் இங்கு எந்தவிதமான பாதகமும் இல்லை என்பதைக் காட்டினோமே. இப்படி ஒப்பவில்லை என்றால் \-" ர் Giqq", "ag 3lcHid\< \<qH 3áád" என்பன போன்றவிடங்களில் உபாதானத்வம் நன்கு விளங்குகிறபடியால் \- விசேஷ்ய மாத்ரத்தில் அந்வயிப்பது என்ற நிலை கொண்டு "ப்ரஹ்மஸ்வரூபமே ஜகத்ஸ்ருஷ்ட்யாதி வேளைகளில் பரிணமிக்கிறது” என்ற 
-
-4 ஜயிப்பான். இதே போல் எந்தவிதமான விகாரத்தையும் அடையாது 
-
-Aகாரிகள் 
-
-விசேஷணமாத்ராந்வயத்தை   
-காட்டுகிறபடியால் 
-
-தரிsan ஜயிப்பான். இங்கு சிலர் 
-
-கொண்டு லஷ்மிக்கும் உபாயத்வம்   
-\-   
-\-   
-ப்ரஹ்மம் என்று 
-
-அவலம்பித்து 
-
-இதைக்   
-— 
-
-அவரது பதியைப் 
-
-போன்று உண்டு- என்று கூறுகிறார்கள். அது ஸம்ப்ரதாயத்துக்கு முரணாகும். "க 
-
-அÅī:" என்று அஷ்டச்லோகியில் ஸ்ரீபட்டர் அருளியதற்கு இது மாறானது. லஷ்மியுடன் எம்பெருமானுக்கு நிலைத்த ஸம்பந்தம் இருப்பதால்   
-காருண்ய\-ஸௌசீல்யாதி 
-
-குணவானாக பகவான் உள்ளபடியால் \- எளிதில் நம்மால் ஆச்ரயிக்கக் கூடியவன் \= ggq: என்பதைக் காட்டவே அது பயன்பட்டது. இத்தகைய புருஷகாராநுகுணமான உபாயத்வம் பிராட்டிக்கு பூர்வபக்ஷிகளும் ஒப்பியதே. 
-
-(7.3.2) புHHH- 
-
-122 "आब्रह्म स्तम्बपर्यन्ता जगदन्तर्व्यवस्थिताः । प्राणिनः कर्मजनितसंसारवशवर्तिनः ॥ 
-
-यतस्ततो न ते ध्याने ध्यानिनामुपकारकाः । अविद्यान्तर्गतास्सर्वे ते हि संसारगोचराः ॥ पश्चादुद्भूतबोधाश्च ध्याने नैवोपकारकाः । नैसर्गिको न वै बोधस्तेषामप्यन्यतो यतः ॥ 
-
-तस्मात् तदमलं ब्रह्म निसर्गादेव बोधवत्। "   
-लक्ष्म्युपायत्वदीपः 
-
-इत्यादिवचनोपादानेन प्रकृतिसंसृष्टस्य तद्वियुक्तस्य च जीवात्मस्वरूपस्य ध्येयत्वाभावमुपपादयद्भिः भाष्यकारैरेव   
-समानन्यायतया 
-
-न   
-च   
-प्रपत्तिविषयत्वाभावस्यापि प्रतिपादितप्रायत्वेन जगत उपायत्वस्य निराकृतत्वात् । न चैवं जगन्नाथमिति विशेषणवैयर्थ्यम्; उपायत्वोपयुक्तसर्वस्वामित्वप्रतिपादनार्थत्वात् तस्य । लक्ष्मीपतिरित्यत्राप्येवं किं न स्यादिति वाच्यम्, लक्ष्म्यामुपायत्वान्वये बाधकाभावात् साधकसहस्राच्च लक्ष्मीपतिरित्यस्य न तत्साम्यं सम्भवति । 
-
-किञ्च “एवं सती” त्यादिना अखण्डार्थवादिविजयापादनं चासमञ्जसम्। तथा हि आनन्दमयाधिकरणभाष्ये “तत्त्वमसी" त्यत्र तत्त्वंपदयोर्लक्षणापरिहाराय "अथोच्येत\-समानाधिकरणवृत्ताना"मित्यारभ्य 
-
-"यथा   
-नीलमुत्पलमिति पदद्वयस्य विशेष्यैकत्वप्रतिपादनपरत्वेन नीलत्वोत्पलत्वरूपविशेषणद्वयं न विवक्ष्यते" इत्यन्तेन गौरनित्येत्यादाविव विशेष्यांशस्य शक्यादन्येन रूपेणोपस्थित्यभावाद्विशेषणाविवक्षामात्रेण न लक्षणेत्यभिधाय, “तद्विवक्षायां ही "त्यादिना अन्योन्यविशिष्टस्य अन्योन्येन विशेष्टव्यत्वापत्त्या विशेषणानां परस्पराश्रितत्वं तदविवक्षानङ्गीकारे बाधकमुक्तं पूर्वपक्षिणा, "सर्वेष्वेव   
-वाक्येष्वि "त्यादिसिद्धान्तग्रन्थे व्युत्पत्तिसिद्धतत्पदार्थसंसर्गविशेषस्यैव वाक्यात्प्रतीतिरास्थेया, अन्यथा विशेषणांशस्याविवक्षितत्वे नीलमुत्पलमानयेत्युक्ते नियमेन नैल्यविशिष्टानयनं 
-
-123   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-न स्यात् । न च नीलत्वोत्पलत्वयोरविवक्षितत्वेऽपि उपलक्षणत्वेन व्यावर्तकत्वसम्भवात् नियमसिद्धिरिति वाच्यम् । नीलं घटमानयेत्युक्ते पूर्वं नीलः पाकेनेदानीं रक्तश्च यो घटः सोऽप्यानीयते । नीलत्वोपलक्षितत्वात् तस्यापि । तस्मात् "सत्यं ज्ञानमनन्तं 
-
-इत्यादिसामानाधिकरण्यनिर्देशेष्वपि   
-ब्रह्म" 
-
-सत्यत्वज्ञानत्वानन्तत्वविशिष्टं 
-
-ब्रह्मशब्दाभिधेयमिति सविशेषमेव ब्रह्म प्रतीयत इत्यभिधाय न च विशेषणविवक्षायामितरविशिष्टाकारं वस्त्वन्येन विशेष्टव्यम् अपि तु सर्वैर्विशेषणैस्स्वरूपमेव विशेष्यम्, तथा हि *“*भिन्नप्रवृत्तिनिमित्तानां शब्दानामेकस्मिन्नर्थे   
-वृत्तिस्सामानाधिकरण्य" मित्यादिना नीलमुत्पलमित्यादावुद्देश्यविधेयभावस्थले नामार्थयोरभेदेनैवान्वयबोध इत्यत्रार्थपदस्य विशेष्यपरतया नीलत्वाश्रयस्योत्पलत्वाश्रयस्य चाभेदरूपः। नीलत्वोत्पलत्वयोस्तु सामानाधिकरण्यरूपस्संसर्गः प्रतीयते, 
-
-विशेषणगतैकाधिकरणकत्वस्य   
-च   
-विशेषणाधिकरणैक्यस्य समानसंवित्संवेद्यत्वात् विशेषणानां विशेष्यवृत्तित्वं तत्तत्पदेनैव लभ्यते, परस्पराश्रितत्वस्य अपदार्थत्वाद्वाक्यार्थत्वाप्रसङ्गः, उद्देश्यविधेयभावस्थले तु, सास्नादिमान् गोशब्दवाच्यः,"तप्ते पयसि दध्यानयति, सा वैश्वदेवी" इत्यादौ गोशब्दवाच्यत्व\-विश्वेदेव-   
-लोके   
-वेदे   
-च 
-
-देवताकत्वरूपविशेषणयोस्सास्नादिविशिष्टव्यक्तिपयोविशिष्टदधिवृत्तिरूप- 
-
-संसर्गः प्रतीयते; तद्वत् प्रकृते च "सत्यं ज्ञानमनन्तं च यत्तद्वहो" ति लक्ष्यतावच्छेदकीभूतब्रह्मशब्दार्थबृहत्त्वविशेषणस्य सत्यत्वज्ञानत्वानन्तत्व- विशिष्टवृत्तित्वं प्रतीयते; सत्यादिपदत्रये तु तदर्थानां परस्परमुद्देश्यविधेयभावाप्रतीत्या पदार्थतावच्छेदकतया प्रतीयमान- सत्यत्वादीनां परस्परं सामानाधिकरण्यरूप एव संसर्गः प्रतीयत इति युक्तम् । परस्पराश्रितत्वस्य तु प्रसक्तिरेव नास्तीत्यर्थपरेण भाष्येण समानाधिकरणव्यधिकरणसाधारण्येन उद्देश्यविधेयभावे सत्यसति च 
-
-124 
-
-तत्र   
-लक्ष्म्युपायत्वदीपः 
-
-विशेषणानां विशेष्यमात्रान्वयस्स्वारसिक इति नाभिहितम्, किन्तु "विशेषणविवक्षायामितरविशिष्टाकारं वस्त्वन्येन विशेष्टव्यम्" इत्यनेन यत्र विशिष्टस्य विशेष्टव्यत्वं " सपुत्रो देवदत्तः पिङ्गळः सोस्य मुख्यार्थ" इत्यादौ, विशेषणवृत्तित्वमित्यभिप्रायसूचनेन यथायोग्यं तात्पर्यानुसारेण विशेष्यान्वयो विशेषणान्वयो विशिष्टान्वयश्च सम्भवतीत्येवाभिहितम् । तथा च 
-
-यस्साक्षान्मत्प्राप्त्युपायस्स   
-लक्ष्मीपतिरहमित्युपायोद्देशेन लक्ष्मीविशिष्टनारायणत्वविधानेन उपायत्वे लक्ष्मीविशिष्टाश्रितत्वमपि विहितं चेन्नानुपपत्तिः। न चोपायत्वस्य लक्ष्मीरूपविशेषणवृत्तित्वरूपम् अपदार्थत्वादवाक्यार्थत्वाच्च कथं प्रतीयतेति वाच्यम्, लक्ष्मीपतिरिति पदेन लक्ष्मीपतित्वरूपपदार्थतावच्छेदकापेक्षया   
-स्वयं 
-
-प्रतीयमानलक्ष्मीविशिष्टभगवत्स्वरूपस्य   
-विशेष्यतया 
-
-उपायपदेनोपायत्वापेक्षया 
-
-विशेष्यतया प्रतीयमानोपायेन सहाभेदे वाक्येन प्रतीयमाने समानसंवित्संवेद्यतया उपायत्वे लक्ष्मीविशिष्टाभिन्नवृत्तित्वस्य प्रतीतौ विरोधाभावात्। अन्यथा तत्र विशिष्टाभेदस्याविवक्षितत्वे लक्ष्मीपतिरिति विशेषणवैयर्थ्यं स्यात्,   
-उपायत्वोपयोगिलक्ष्मीसम्बन्धप्रतिपादकतया तत्सार्थक्यमिति चेत्। 
-
-(60.5) शुक्रंग Guw ? Gकनाथी :\- आब्रह्मस्तम्बपर्यन्ताः / எல்லா ப்ராணிகளையும் எ   
-அவர்களை कर्मजनितसंसारवशवर्तिनः \= புண்யபாபரூபமான கர்மங்களால் அமைந்த ஸம்ஸாரத்தில் அவர்கள் உழன்று வருமவர்கள் शुqwr ♚urari ruing क्रकं   
-न ते ध्यानिनाम्   
-\-   
-\- 
-
-उपकारकाः | कीकुंका, অक्रलंक छ । LOT & अविद्यान्तर्गताः   
-\-- 
-
-सर्वे ते हि संसारगोचराः । श्र♚ॐ जय क 
-
-சூழப்பட்டவர்கள்   
-1   
-என்று காட்டிற்று. பத்தராயிருந்து 
-
-முக்ததசையில் ஜ்ஞானவிகாஸம்   
-ஏற்பட்டவர்களுக்கும், 
-
-125   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-நிலை கூடாது   
-\- 
-
-புகாக: 
-
-பகவததீனமான   
-என்பதாக q21g 3   
-: 34d:11 என்று ஜ்ஞானமுடையவராயிருப்பதைக்காட்டி, 
-
-rrung ng அபுக் எது f-urice Maad என்று \- பரமாத்மா ஒருவரே ஸ்வாபாவிகமான\-விவிதமான   
-ஜ்ஞானாதிகளை உடையவரானபடியால் த்யேயர் \- என்று முடிவு கட்டியது. இங்கு எடுத்த இந்த வசனத்தில் கபுரி: என்று உள்ளதால் – லக்ஷ்மியுடன் கூடியவனே த்யேயவஸ்து. அதாவது உபாஸ்யன் என்று ஏற்படுகிறது. ஆகவே, எம்பெருமானுக்கு ஸர்வாம்சத்திலும் ஸாம்யமே. 
-
-இதன்மேல் 
-
-ஸ்ரீபாஷ்யத்தில்   
-ஆனந்தமயாதிகரணத்தில் 
-
-GUÚளிகளை   
-மறுக்கும் 
-
-இங்கும்   
-ஸ்ரீபாஷ்யகாரரின் ஸ்ரீஸூக்தியைக்காட்டி, 
-
-—   
-விசேஷண பேதத்தால் விசேஷ்யபேதம் கூடும் என்பதை மறுக்கிறார் விரிவாக. அதற்குபு மொழிபெயர்ப்பு ஸாத்த்யமானாலும் வாசகர்கள் புரிந்துகொள்வது கஷ்டம். ஆனபடியால் ஸங்க்ரஹேண அங்குள்ள விஷயத்தின் ஸாரத்தைக் காட்டுகிறோம். "II \<H 3f" என்றவிடத்தில் id என்ற சொல்லும், IH என்ற சொல்லும், இங்கு ஏகங்கள் என்று ஸர்வபத லக்ஷணையைக் கொண்டு பொருள் கொண்டனர் அத்வைதிகள். இதை மறுக்கத் தொடங்கிய நம் ஸ்ரீபாஷ்யகாரர் \-   
-IIH என்ற 
-
-ஒரு பெரிய வாக்யத்தில் \- "यथा नीलम् उत्पलम् इति पदद्वयस्य विशेष्यैकत्वप्रतिपादनपरत्वेन नीलत्व- उत्पलत्वरूपविशेषणद्वयं न विवक्ष्यते " என்பது வரையிலும் கூறி, fakiya 7 என்பதைக்காட்ட, ள்: अनित्या 
-
-விசேஷ்யாம்ஸத்துக்கு   
-लक्षणा 
-
-என்ற போது 
-
-7 என்பதைக் 
-
-கொண்டு புணர என்றருளினார். நீ விவக்ஷிக்கிறாயா? இல்லையா? என்பதைப் எதிர்பார்த்து 
-
-126 
-
-\-   
-लक्ष्म्युपायत्वदीपः 
-
-விசேஷணங்கள்   
-ஒன்றோடு ஒன்று 
-
-என்பது எங்கும்   
-அந்வயம் வராது ஆச்ரயித்தபிறகே பொருளைத் தரும் 
-
-\-   
-\- 
-
-1   
-1 
-
-நியமேன இல்லை. சிக4 394 all\-q என்ற போது நியமேன நீலத்வவிசிஷ்டமான உத்பலத்தையே கொள்கிறார். இது நீங்கள் சொல்லும்படி ஒப்புக்கொண்டால் பொருந்தாது. இதே போல் \- சிø4 724 3-4 என்றபோது, கருப்புமண்ணால் செய்யப்பட்டு ஏற்கெனவே கருப்பாயும், அக்னிஸம்பந்தத்தால் மேலும் கருப்பான குடத்தையும் கொணர்கிறான், அப்படி இல்லாத TThyai ரிப்பு புத்தவு 24.இந்த வைலக்ஷண்யம் உங்களுக்குக் கூடாது. ஆகவே ப்ரக்ருதத்தில் Hli\-4 3īri து என்ற போதும் மான ப்ரம்ஹமே தெரிவிக்கப்பட்டதாகியது. இதை விளக்க வையாகரணர் கூறிய भिन्नप्रवृत्तिनिमित्तानां शब्दानाम् एकस्मिन् अर्थे वृत्तिः HHH என்ற ஸாமாநாதிகரண்யத்தை விளக்கினார். கருநெய்தல் என்ற பூவை ஆரயித்து கருமை, நெய்தல் என்ற இரண்டு தர்மங்கள் இருக்கின்றன. இதில் கரு என்பது செவ்வல்லிப் பூவைப் போன்று இது சிவப்பில்லை என்பதைக் காட்ட வந்தது. நெய்தல் என்பது மல்லி முதலான பூக்களை விட வேறானது என்பதைக் காட்ட வந்தது. இப்படி இரண்டு தர்மங்கள் ஒரே பூவை அண்டி இருப்பினும், பொருள் ஒன்றே. இதையே ஸாமாநாதிகரண்யம் என்பர். விசேஷணங்களும் ஒரே அதிகரணத்தை ஆப்ரேயித்திருக்கும் போது இது போன்ற இடத்தில் HUH என்பதைக் காண்கிறோம். ஸமான \= ஒரே மாதிரியான, ifa \= ஜ்ஞானத்தால், UCH \= அறியும் நிலை \- என்று பொருள். 
-
-"சா   
-\- 
-
-virklql:' என்கிற லௌகிகவாக்யத்தில் உத்தேய\-விதேயபாவம் இருக்கிறது. அதாவது அலைதாடியுடன் கூடிய நாலுகால்\-வால் உள்ள பிராணி 
-
-127   
-\- 
-
-\-   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன்   
-ன் 
-
-கோ என்ற சொல்லால் அழைக்கப்படுகிறது \- என்பது இதன் பொருள் இங்கு सास्नादिमान् என்பதை முன்பே அறிந்தவனாயின் \- அவன் விஷயத்தில் சாசா என்பது qagal: எனப்படும். முன்பே தெரிந்தவிஷயம் இது \- என்றபடி. jq; என்பது புதியதாய் தெரிவிக்கப்பட்ட விஷயம். இதுவே f€44 எனப்படும். fludzad:   
-तु 
-
-qRH என்ற ந்யாயப்படி இப்படி உரைத்தோம். \- सास्नादिविशिष्टव्यक्तित्वरूपसंसर्गः 
-
-லௌகிகோதாஹரணம். 
-
-1   
-प्रतीयते ।   
-இது 
-
-"\-fa, n ē aரி÷ஷா" என்பது வைதிகமான உதாஹரணம். நன்கு கொதித்துவரும் பாலில் சிறிது தயிரை விடவும். விட்டதும் அந்த பால் கெட்டியாகி குடைபோன்று பாத்ரத்தில் மிதக்கும். அடியில் நீராக இருக்கும். இதில் மேலே குடைபோன்று கெட்டியான பகுதிக்கு ஆமிக்ஷஷா   
-ஆமிக்ஷா என்று பெயர். இது எல்லா தேவர்களையும் குறித்துச் செய்யும் வைவதேவயாகத்தில் அந்த தேவர்களுக்கான ஹோமம் செய்யத்தக்க பொருள் என்பது இந்த வேதவாக்யத்தின் கருத்து. 
-
-அது   
-\- 
-
-\-   
-\- 
-
-iii विश्वेदेवदेवताकत्वरूपविशेषणविशिष्टपयोविशिष्टः संसर्ग: ஏற்படுகிறது. அதேபோல் இங்கும் Hill\-4 id என்ற போது \- தினிபுரம் ப்ரம்ஹ என்ற சப்தத்தின் அர்த்தம். 
-
-बृहत्त्व   
-இருப்பதுடன் விகாரமற்றும், அறிவுமயமானதாகவும், எங்கும் எப்போதும் எப்பொருளிலும் வ்யாபித்ததாயும் இருக்கிறது என்கிற விசேஷணங்களுடன் கூடியதாயும் இருக்கிறது. H4, 51–4, 3\~\~H என்ற முன்று சொற்களிலும் ஒன்றோடொன்று அதன்பொருட்கள் என்பது இல்லை. தனித்து மூன்று சொற்களும் ப்ரம்ஹசப்தத்தில் தொடர்பு கொள்கிறது. ஆகவே இதைப் போன்றவிடங்களில்கணத்தை ஒப்பினோம். இவையாவற்றையும் கவனித்தால் \- அந்தந்த 
-
-128   
-लक्ष्म्युपायत्वदीपः 
-
-இடங்களுக்குத் தக்கபடி தாத்பர்யாநுஸாரேண 
-
-விசேஷ்யாந்வயமோ,   
-விசேஷணாந்வயமோ, 
-
-விஷ்டான்வயமோ தகும் \- என்பதே ஏற்படுகிறது. 
-
-ஆகவே, எவர் ஸாக்ஷாத்தாக அடியேன் மோக்ஷமடைய உபாயமானவரோ, அவர் ஸ்வயம் என்ற ஸம்ஹிதாவாக்யங்களிலிருந்து ஏற்படுகிறபடியால் उपायोद्देश्येन लक्ष्मीविशिष्टनारायणत्वविधानम् என்பதே ஏற்படுகிறது.   
-லக்ஷ்மீபதியே   
-\- 
-
-ஸாக்ஷாதுபாயமான 
-
-H   
-நாராயணனுக்கு லக்ஷ்மீபதித்வத்தை விசேஷணமாகக் காட்டியபடியால் உபாயத்தில் \- சிரியா என்பது ஏற்படுவதில் விரோதமில்லை. இப்படியில்லையேல் \- புரி: என்ற விசேஷணம் நியமேன அங்கு இருப்பது வ்யர்த்தமாகிவிடும். புரியாக லஷ்மீயைத் தெரிவிப்பதிலேயே நோக்கு 
-
-அன்றோ. 
-
-(S.3.)   
-किमिदमुपायत्वोपयोगित्वम्? 
-
-पुरुषकारसम्बन्धविधया तदुज्ञापकत्वम्,   
-उपायत्वजनकत्वम् 
-
-उपायशरीरप्रविष्टतया 
-
-तत्सत्तासम्पादकत्वं वा । नाद्यः, "एष सेतुर्विधरणः", "अमृतस्यैष सेतुः", "एष ह्येवानन्दयाति", "मोक्षयिष्यामि मा शुचः", "फलमत उपपत्तेः" इत्यादिश्रुतिस्मृतिसूत्रैर्भगवदुपायत्वस्य स्वाभाविकत्वेनान्यसम्बन्धाहितत्वा- 
-
-सम्भवात्। 
-
-न द्वितीयः । "लक्ष्मीः पुरुषकारत्वे निर्दिष्टा परमर्षिभिः" इत्यादिना पुरुषकारसम्बन्धस्य ज्ञाततया तदज्ञापकत्वात्। न चानेन लक्ष्मीपुरुषकारत्वज्ञानेऽपि भगवति लक्ष्मीसम्बन्धाज्ञानान्न वैयर्थ्यमिति वाच्यम् "ह्रीश्च ते लक्ष्मीश्च पत्न्यौ", "वल्लभा प्राप्तियोगिनी" इति तत्सम्बन्धस्यापि सिद्धत्वात्, उपायत्वसम्बन्धस्य लक्ष्मीसम्बन्धस्य च भगवति विधाने वाक्यभेदापत्तेश्च, "सम्भवत्येकवाक्यत्वे वाक्यभेदस्तु नेष्यते" इति हि 
-
-129   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-न्यायविदः । न च विशिष्टविधानाद्वाक्यभेदो न शङ्कयः, लक्ष्मीविशिष्टभगवदुद्देशेनोपायत्वविधाने   
-ग्रहकत्वाधिकरणन्यायेन अहं 
-
-मत्प्राप्त्युपायः, स च लक्ष्मीपतिः, इति वाक्यभेदतादवस्थ्येन ग्रहगतैकत्ववत् लक्ष्मीसम्बन्धस्याप्युद्देश्यगतविशेषणतया   
-विवक्षितत्वापत्तावा- नर्थक्यतादवस्थ्यम्, उपायोद्देशेन लक्ष्मीविशिष्टभावत्वविधाने च "सोमेन 
-
-यजेत", "अरुणयैकहायन्या पिङ्गाक्ष्या सोमं क्रीणाति", 
-
-"यदाग्नेयोष्टाकपालोऽमावास्यायां च पौर्णमास्यां चाच्युतो भवति" इत्यादाविव विशिष्टविधेर्विशेषणेऽपि पर्यवसानेन लक्ष्म्या अप्युपायत्वमनिवार्यमापद्येत । 
-
-चाश्रीयत   
-नापि तृतीयः, उपायशरीरप्रविष्टतया उपायत्वसत्तासम्पादकत्वं 
-
-एवेत्यस्मदिष्टसिद्धिरविकला 
-
-तस्मादखण्डार्थवादिविजयापादनेन   
-स्यात् । 
-
-स्वाभिलषितार्थसाधनप्रत्याशा 
-
-मरुमरीचिकाजलेन महापिपासोपशमनाशामनुकरोति। 
-
-(லக) இதன்மேல் ஒரு ப்ரபலமான ஆசேஷபம்:\- இங்கு Fr\_mu उपायत्वोपयोगित्वम् \] \- (1) उपायजनकत्वम् 
-
-(2) पुरुषकारसम्बन्धविधया तद्ज्ञापकत्वम् नंग का? उपायशरीरप्रविष्टतया तत्सत्तासम्पादकत्वम् 67 का? óml. 
-
-**உ**   
-\-   
-? 
-
-(3) 
-
-1\. एक nmw 2urwgrji \= உபாயத்தை 2\_6ïंাG\]\]\] \- LII. "एष सेतुर्विधरण:" \[@\]in பரமாத்மா ஒருவரே இக்கரையிலிருப்பவர்களை அக்கரைக்குச் சேர்க்கும் பாலம் போன்றவர், உலகை আbiral♚ं। ग्राशकी य\], “अमृतस्य एष सेतुः " \[Cornpjmgow ur urórmour\], “एष ह्येवानन्दयाति" 1955 usurला 95 काळाão மூழ்கிவரும் நம்மை மீட்டு சாவத ஆனந்தம் அடைவிக்க Jour\], “मोक्षयिष्यामि मा शुचः" \[jigr\! 2\_rmor எல்லாவகை கர்மபந்தங்களிலிருந்தும் விடுவித்து 
-
-130   
-लक्ष्म्युपायत्वदीपः 
-
-மோக்ஷமடையவைக்கிறேன், நீ சோகத்தைத் தவிர்\], "Ø4 3d 344À:" \[அந்த பரமாத்மாவிடமிருந்தே ஜீவன் செய்யும் எல்லாவகையான \-சாங்களான வேதவிஹிதமான கர்மங்களுக்கு   
-பலன் ஏற்படுகிறது. மற்றபடி அபூர்வாதிகளால் பலம் ஏற்படாது\] என்றவாறான 0ருதி- ஸ்ம்ருதி\-ஸூத்ரங்களால் எம்பெருமானைத்தவிர மற்றையோரால் மோக்ஷம் என்ற பலம் கொடுக்கமுடியாது என்பது நன்கு காட்டப்பட்டதே\! 
-
-2.   
-rus\[\[44 என்ற இரண்டாவது பக்ஷமும் கூடாது. "3: पुरुषकारत्वे निर्दिष्टा \[மோக்ஷமடைவிக்கும்படி எம்பெருமானிடம் பரிந்து பேசுவது என்கிற புருஷகாரம் என்ற செயலைச்செய்ய லக்ஷ்மி ஏற்பட்டாள்   
-என்பதாக மஹர்ஷிகள் தெரிவிக்கிறார்கள். ஆகவே இதை புதியதாக விதிப்பதற்கு 519ம் தேவையில்லை. பிராட்டிக்கும் எம்பெருமானுக்கும் விட்டுப்பிரிக்கமுடியாத தொடர்பு என்பதை "ஜி≥ \= களி q" \[பூமிப்பிராட்டியாரும், லக்ஷ்மிப்பிராட்டியாரும், ஹே\! பகவான்\! தேவரீருக்கு இல்லாள்கள் இல்லையா?\], "ஜா ரிரிரிரி” \[எம்பெருமானை அடைவிக்க என்றும் அவனுடன் உள்ள ப்ராணவல்லபை பெரியபிராட்டியார்\] இத்யாதிகளால் பகவானுக்கும் பிராட்டிக்கும் உள்ள ஸம்பந்தம் தெரிவிக்கப்பட்டதே. 
-
-“எம்பெருமானைப்போன்று   
-பிராட்டிக்கும் 
-
-மோசேஷாபாயத்தில் ஸம்பந்தம் உண்டு” என்று தெரிவிப்பதிலும்,   
-எம்பெருமானை   
-"பிராட்டி 
-
-விட்டுப்பிரியாமலிருப்பவள்" என்று எம்பெருமானுடன் நித்யஸம்பந்தத்தையும் தெரிவிக்க வந்தவை இவை \- என்று கூறினால் \- வாக்யபேதம் என்ற குற்றம் ஏற்படும்."H 
-
-" (ஒரே வாக்யமாகக்கொண்டு 
-
-பொருள் உரைக்க வழியிருக்கும் போது \- பிரித்து வெவ்வேறு 
-
-131   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-வாக்யங்களாய் கொண்டு பொருள் கூறுவது 
-
-என்ற குற்றமாகும்   
-\-   
-வாக்ய சம் 
-
-என்றனரே ஆன்றோர்கள்). "லஷ்மியுடன் கூடின பகவதுத்தேபேன மோசேஷா- இப்போது   
-பாயத்வம்"   
-கூறுகிறோம். 
-
-வாக்யபேததோஷமில்லையே என்னவும் முடியாது. இவ்வளவு தூரம் சுற்றிவளைத்தாலும், "பகவான் தான் மோக்ஷமடைய உபாயம், அவர் லஷ்மீபதியே" என்றே தாத்பர்யம் ஏற்படுகிறபடியால் वाक्यभेद   
-எபடம் அப்படியே இருக்கிறது. கீழேயே கூறியபடி   
-புத்தை இங்கு 
-
-எண்ணிப்பார்ப்பது.   
-\- 
-
-\[ i4ரி என்று பருதி. 75: \= ஸோமரஸத்தை சேந்தி வைக்கும் பாத்ரம். அதை நன்கு துடைத்து வைத்திருக்கவும் என்பது இந்தவாக்யத்தின் பொருள். இந்த வாக்யம் எந்த யாகத்தை கூற வந்ததோ அந்த யாகத்தில் அÜ 46: என்பதாக எட்டு பாத்ரங்கள் உண்டு. அந்த எட்டில் ஏதோ ஒன்றை சுத்தமாய் வைத்திருந்தால் போதும். 464 என்று ஏகவசனமன்றோ இங்கு உள்ளது \- என்பது பூர்வபக்ஷம். இங்கு Uh\<4 \= ஏகவசனம், afaqizd4 \= முக்யமில்லை. அங்குள்ள எல்லாக்ரஹங்களையுமே ஸம்மார்ஜனம் பண்ணவேண்டும்   
-என்று இந்த அதிகரணத்தில் ஸித்தாந்தம். அதேபோல் இங்கும், மோசேஷாபாயம் நாராயணன், அவன் லஷ்மீபதி" என்று கொண்டால் வாக்யபேதம் வருமே \- என்பது கருத்து.) 
-
-உபாயமான 
-
-என்றபோது   
-பரமாத்மாவை   
-"எனக்கு 
-
-உத்தேசி்த்து 
-
-fqz- என்று கொண்டால் सोमेन यजेत 
-
-ஸோமலதையுடன் 
-
-ஸோமதேவதாகமான யாகம் எப்படி   
-\- 
-
-கூடிய विशिष्टवेषेण 
-
-விதிக்கப்படுகிறது என்பதாக பு«Åர ஒப்பினோமோ அப்படி இங்கும் ஆகும். Gial — என்று அங்கு 
-
-விளக்கம் கொண்டோமே. 
-
-132 लक्ष्म्युपायत्वदीपः 
-
-Googlio अरुणया एकहायन्या पिङ्गाक्ष्या गवा सोमं क्रीणाति என்கிறவிடத்தில் போல் இங்கும்H4 
-
-கட்டாயம் வருமானபடியால் 
-
-நிலை மறுக்கமுடியாது.   
-\-   
-லக்ஷ்மிக்கும் உபாயமாகும் 
-
-பசுமாட்டை   
-\[சிவந்த நிறமுள்ளதும், ஒரு வயதே நிரம்பியதும், மஞ்சளான கண்களை உடையதும் ஆன விலையாகக் கொடுத்து ஸோமலதையை 
-
-கொடியை   
-\-   
-(ஸோமயாகத்தில் இதுவே 
-
-ஹோமத்திற்கான பொருள்) வாங்கிவரவும்   
-\-   
-\=   
-சீந்தில் முக்யமான என்று இந்த 
-
-வாக்யத்துக்குப் பொருள். ஒவ்வொரு விசேஷணமும் ஒன்றோடு ஒன்று இணைந்து விசேஷ்யமான \[q\[ என்பதில் அந்வயம் பெறுகிறது. ா பகள் சனி சன், டள்: : இதை கீழேயே 
-
-விளக்கிவிட்டோம். 
-
-காட்டினோம்.\]   
-மீண்டும் இங்கு ஸங்க்ரஹமாகக் 
-
-3.44 என்கிற மூன்றாவது பக்ஷமும் நேரில்லை. உண்மையில் இது குற்றமில்லையே? இது ஸித்தாந்திகளுக்கு இஷ்டமானதே. ஆகவே ஸ்ரீபாஷ்யத்தில் அqUக்கே ஜயம் வரும்   
-\-   
-என்று காட்டிய இடத்தை விளக்கி, அங்கு போலிங்கும் \- என்று பூர்வபக்ஷிகள் கூறியவையாவும் நேரில்லை. கானல்நீரில் நீர் கிடைக்கும், பருகலாம் என்று எண்ணி ஓடும் ம்ருகங்களுக்கு நீர்வேட்கை சாந்தமாகாமல் துன்பமே ஏற்படுவதைப்போன்று இங்கு பூர்வபக்ஷியின் நிலையாகும். 
-
-(க..) यदपि " उपायत्ववचनानाम् अन्यथासिद्धेर्वक्ष्यमाणत्वात्” 
-
-इत्यारभ्य   
-பு 
-
-"सर्ववाक्यानां 
-
-विशेष्यमात्रान्वयबोधकत्वव्युत्पत्तिस्वारस्यबलेन   
-विधेयस्य 
-
-विशेषणान्वयासिद्धेः” 
-
-133   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-इत्यन्तेन   
-"अहं   
-मत्प्राप्ति"   
-इत्यादिव्यवस्थावचन- 
-
-बलाल्लक्ष्म्युपायत्वपरवचनानामन्यथासिद्धिः । तदन्यथासिद्धौ च उपायत्वस्य साधारण्याप्रतिपत्तिः ।   
-तदप्रतिपत्तौ   
-च 
-
-विशेषणानन्वयित्वप्रयुक्तव्यवस्थासिद्धिरिति चक्रकाश्रये प्राप्ते \- उपायत्वस्य विशेषणानन्वयित्वं साधारण्याप्रतिप्रत्तिनिबन्धनं न भवति, अपि तु स्वारस्यनिबन्धनमिति परिहाराभिधानम्; तदपि न जाघटीति । 'ग्रहं संमार्टी'त्यत्र ग्रहत्वस्य विवक्षितत्वेन विधेयस्य सम्मार्गस्य तद्विशिष्टान्वयस्य स्वारसिकत्वस्य पूर्वमेवाभिधानात्। "बृहत्त्वं च स्वरूपतो गुणैश्च यत्रानवधिकातिशयं सोऽस्य मुख्यार्थ" इति भाष्ये "ब्रह्मशब्देन च स्वभावतो निरस्तनिखिलदोषोऽनवधिकातिशयासंख्येयकल्याणगुणगणः पुरुषोत्तमो- ऽभिधीयते" इत्येतद्विवरणभूते विधेयस्य ब्रह्मशब्दवाच्यत्वस्य स्वरूपतो गुणैश्च निरतिशयबृहत्त्वविशिष्टवृत्तित्वमभिप्रेतमिति निर्विशेषपरत्वनिरासार्थप्रवृत्ते 
-
-“भगवच्छब्दवत्” इति दृष्टान्तकथनेन व्यज्यते । भगवच्छब्दवाच्यत्वस्य च ज्ञानशक्त्यादिविशिष्टवृत्तित्वं 
-
-"तत्र पूज्यपदार्थोक्तिपरिभाषासमन्वितः । 
-
-शब्दोऽयं नोपचारेण ह्यन्यत्र ह्युपचारतः ॥ 
-
-ज्ञानशक्तिबलैश्वर्यवीर्यतेजांस्यशेषतः । 
-
-भगवच्छब्दवाच्यानि विना हेयैर्गुणादिभिः ॥ " \- इति श्लोकाभ्यां 
-
-पराशरैरेवाभिहितम्।   
-तथा   
-च   
-विधेयस्य 
-
-विशेष्यमात्रान्वयस्वारस्यासिद्धेरुपायत्वस्य साधारण्याप्रतिपत्त्यैव "मत्प्राप्तिं प्रती" त्यादिवचनानां व्यवस्थापरत्वमास्थेयमिति चक्रकाश्रयो दुष्परिहरः, प्रत्युतोपायत्वपरवचनानां भूयस्त्वात् "भूयसां स्याद्बलीयस्त्व" मिति न्यायेन उक्तवचनानां व्यवस्थापरत्वाभावस्यैव सिद्धिस्स्यात् । किञ्च भगवत्प्राप्तेः कार्यत्वस्वाभाव्येन सोपायत्वसिद्ध्या समानवित्तिवेद्यतया तदुपायत्वस्य सामान्यतस्सिद्धेर्विधेयत्वासम्भवेन विशेष्यमात्रान्वयप्रत्याशा दूरोत्सारिता । 
-
-134   
-लक्ष्म्युपायत्वदीपः 
-
-(ல.க) கேள்வி:\- "34144ரி: HUGI" என்று தொடங்கி, "ஒருவாக்யத்தில் பலவிசேஷணங்களிருந்தாலும் எல்லா விசேஷணங்களும் ஸாக்ஷஷாத்தாக வி பேஷ்யத்தில் அந்வயித்து பொருளைக் கூறவல்லதே தவிர \- வேறில்லை, இதுவே ஸ்வாரஸ்யத்தை அடிப்படையாகக்கொண்டு பெரியோர்கள் முடிவு செய்வது என்பதாக விரிவாய் தெரிவித்ததும் பொருந்தாது. 
-
-ஏக் சரி என்றவிடத்தில் \- ஸம்மார்கம் விதேயம், அது க்ரஹங்களை ஆப்ரயித்திருக்கிறது என்பதே ஸ்வரஸமாய் தெரியவரும் தாத்பர்யம். அதைப்போல் தான் இங்கும். 
-
-\-   
-',   
-ஸ்ரீபாஷ்யத்தில் " \[ ளிகri "vise yésஷு:" என்றும், "Aanaiபு:, அ\-ரிகரிகளன்புகண: ள்புரி" என்பதை விளக்கும் போதும் "qd” என்று த்ருஷ்டாந்தமாகக் காட்டப்பட்டது. பகவத் சப்தத்துக்குப் பொருள் ஸ்ரீபராரர் “तत्र पूज्यपदार्थोक्तिपरिभाषासमन्वितः । शब्दोऽयं नोपचारेण ह्यन्यत्र ह्युपचारतः।। ज्ञानशक्तिबलैश्वर्यवीर्यतेजांस्यशेषतः । भगवच्छब्दवाच्यानि विना हेयैः गुणादिभिः।।" என்ற சுலோகங்களால் விளக்கப்பட்டது. இதனால் விதேயமானது விசேஷ்யமாத்ரத்தில் அந்வயிக்கும் என்கிற ஸ்வாரஸ்யம் கிடையாது என ஏற்படுகிறது. என்ற வசனங்களுக்கு வ்யவஸ்த்தாபரத்வம் இதனால் ஒப்பவேண்டும். ஆகவே அந்யோந்யாபிரயதோஷமோ, சக்ரகதோஷமோ வருமே? என்னவேண்டாம்.   
-\- 
-
-பிராட்டியை மோசேஷாபாயமாகக்கூறும் வசனங்கள் பல உள்ளன. ஆகையால் "ர் Id எAH" என்கிற ந்யாயப்படி எம்பெருமானைப் போன்று பிராட்டிக்கும் மோக்ஷப்ரதத்வாதிகள் உண்டு \- என்பது ஏற்படும்.   
-\- 
-
-135   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-பகவான் ஸித்தோபாயனாகிலும், அவனை நாம் அடைவது என்பது ஸாத்த்யமானபடியால், "ஸாத்த்யம் யாவும் ஸோபாயம்" என்ற ந்யாயப்படி பிராட்டிக்கும் அதில் அந்வயம் ஏற்படுவதைத் தடுக்க முடியாது. 
-
-(ल.उ.दी) किञ्चेत्याद्यप्यसत्, एकैकव्यक्तिनियततयैकैकप्रतीत्यसिद्धेः । यद्यहं मत्प्राप्त्युपाय इत्येव श्रूयेत, तदा एकैकनियततया प्रतीतिस्सम्भाव्येत । न चैतदस्ति, लक्ष्मीपतिस्स्वयमिति लक्ष्मीविशिष्टवृत्तितयैवोपायत्वश्रवणात् । न च विधेयस्य विशेष्यमात्रान्वयस्वारस्यात् तत्सिद्धिः, तस्य प्रागेव निरस्तत्वात्। तेनोपायत्ववचनानामन्यथासिद्धिबलादेव व्यवस्थासिद्धिरिति 
-
-चक्रकाश्रयतादवस्थ्यात् ।   
-नन्वित्यादिना उपायत्वप्रतिपादकवचनविरोधमाशङ्क्य   
-उपायत्वाभावस्याशाब्दत्वकथनेन 
-
-तत्परिहरणं भवतो विपरीतफ़लदम्। "श्रुतिलिङ्गवाक्यप्रकरणस्थानसमाख्यानां समवाये पारदौर्बल्यमर्थविप्रकर्षात्" इति न्यायेन उपायत्वश्रुत्या व्यवस्थितविशेषाभिधानसामर्थ्यरूपलिङ्गस्य   
-वाधितत्वेन 
-
-उपायत्वाभावसाधकत्वासम्भवात्। "न कळञ्जं भक्षये"दिति विशेषनिषेधस्य "न माँसमश्नीयात्", "न स्त्रियमुपेयात्" इत्यादिनिषेधान्तरानाक्रान्त- विशेषाभ्यनुज्ञासूचकत्ववत् "लक्ष्मीः पुरुषकारत्वे निर्दिष्टा परमर्षिभिः " इत्यादेिविशेषविध्यनाक्रान्तशेषनिषेधपरत्वस्यैव व्यवस्थितविशेषाभिधानस्याद्याप्यसिद्ध्या तत्सामर्थ्यरूपलिङ्गासिद्धेश्च, "एतस्याश्च विशेषोऽयं निगमान्तेषु शब्द्यते " इति पुरुषकारत्वनिष्ठविशेषत्वविषयविशेष\-विधेरुपायत्वनिष्ठविशेषत्वाभावसूचकत्वे 
-
-विरोधाभावाच्च।   
-न्याय्यत्वात् । 
-
-(60.5) Cogio, “अहं मत्प्राप्त्युपायः " rong rivulgi வாக்யமாய் இருந்தால் பூர்வபக்ஷிகள்   
-சொல்வதை 
-
-136   
-लक्ष्म्युपायत्वदीपः 
-
-ஒப்பலாம். அப்படியில்லையே \- கனிபுரி: புபு என்றல்லவோ இருக்கிறது. 
-
-உபாயத்வ 
-
-\-   
-மேலும் பிராட்டி உபாயமே என்று காட்டுகிற கருங்கள் இருக்கிறபடியால் பூர்வபக்ஷிகள் கூற்று நேரில்லை. "தாகurA7- समाख्यानां समवाये पारदौर्बल्यम् अर्थविप्रकर्षात्” என்ற ஸர்வஸம்மதமான பூர்வமீமாம்ஸாந்யாயத்தால் பிராட்டிக்கு உபாயத்வம் உண்டு என்று ச்ருதி வசனங்கள் தெரிவிப்பதால் இதற்கு இடையூறு விளைவிப்பதைப் போன்று கோணலாய் அர்த்தம்கொண்டு \-வசனங்களுக்குப் பொருள் கூற முற்படுவது தகாது. न कलञ्जं भक्षयेत् (உள்ளிப்பூண்டு முதலானவைகளை உண்ணக்கூடாது\] என்பன போன்ற விசேஷநிஷேதங்களாலும், 7 சர்H4 ஜிவு என்பதும், சிg vijணத்தைத் தடுக்கமுடியாது. கணி: கரி: என்றபடியால் \- இந்த புருஷகாரத்வம் எம்பெருமானுக்கு இல்லை \- என்பது ஏற்படுமே தவிர, ப்ரமாணாந்தரங்களால் பிராட்டிக்குச் சொல்லப்பட்ட மோசேஷாபாயத்வத்தைத் தடுக்காது. இது ஸம்ஹிதையில் "   
-\- 
-
-fis" (இந்த 
-
-புருஷகாரத்வம் பிராட்டிக்கு மட்டிலுமே ஏற்பட்ட விசேஷம் என்பதாக வேதாந்தங்கள் தெரிவிக்கின்றன) என்று நன்கு விளக்கிக் காட்டப்பட்டது. 
-
-(ரூ.3.) यच्च वस्तुतस्त्वित्यादिना उपायत्वस्य साधारण्यप्रतीतेरयोग्यतापराहतत्वमुक्तम्, तदयोग्यतापराहतमेव । तथाहि- उपायशब्दस्य कारणमात्रवाचित्वं सर्वसम्प्रतिपन्नम्। रक्षणकारणत्वस्य च "कृपया पर्यपालयत्" "स तपस्तप्त्वा इदं सर्वमसृजत" इत्यादौ कारुण्यसङ्कल्पादिसाधारण्यं प्रसिद्धम्, अङ्गीकृतं भवद्भिर्गुणविग्रहयोरप्युपायत्वं, तस्य च कर्तृकरणादिसर्वसाधारण्यात् 
-
-137   
-च   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-तादृशस्य तस्य दुर्निरूपत्वमसिद्धम् । अत एवेत्यादिकमपि निरस्तम्, नारचरणशब्दोपस्थाप्यगुणविग्रहगतोपायत्वस्य   
-शरणशब्देन प्रतिपादनाङ्गीकारात्। न च गुणविग्रहसमर्पकपदसमभिव्याहारस्थले तथात्वेऽपि तद्रहिते "अहं मत्प्राप्त्युपाय" इत्यत्रोपायशब्दस्य गामानय दोग्धुमित्यत्र गोशब्दस्य धेनुपरत्ववत् कर्तृपरत्वौचित्यात् कर्तृत्वस्य लक्ष्मीसाधारण्यमयोग्यतापराहतमिति वाच्यम्, "अहं दधामि द्रविणं हरिष्मते सुप्राप्ये मम यजमानाय सुन्वते, अहं राष्ट्री सङ्गमनी वसूनाम्, अहं जनाय समदं कृणोमि, अहं सुरे पितरमस्य मूर्धन्" इत्यत्र द्रविणपोषण\-वसुप्रापण- समदकरण\-रुद्रजनकोत्पादनरूपक्रियानुकूलकृतिमत्त्व\-लक्षणकर्तृत्वस्य "अहमेव वात इव प्रवाम्यारभमाणा भुवनानि विश्वा" इत्यत्र निखिलजगदुत्पादनकर्तृत्वस्य च रक्षणविशेषकर्तृत्वपर्यवसन्नस्येव "कामवत्साऽमृतं दुहाना", "सा नो लोकममृतं दधातु", "आत्मविद्या च देवि त्वं विमुक्तिफलदायिनी", "भवभङ्गापहारिणी", "संसारार्णवतारिणीम्", "लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । रक्षकस्सर्वसिद्धान्ते वेदान्तेषु च गीयते", "Gour Log Yuri भीलना gw", "ऐश्वर्यमक्षरगतिं परमं पदं वा कस्मैचिदञ्जलिभरं वहते वितीर्य " \- इत्यादिषु मोक्षप्रदानलक्षणरक्षणकर्तृत्वस्यापि   
-लक्ष्मीसाधारण्यप्रतीते- 
-
-निर्बाधत्वादयोग्यताशङ्काया एवायोग्यतापराहतत्वात् । 
-
-mar   
-(ல.க) இங்கு qkgdit\] என்று தொடங்கி உபாயவிஷயத்தில் மீண்டும் குழப்புவது कृका कुा. उपाय: காரணஸாமாந்யவாசகம் என்பதை யாவரும் ஒப்பினார்கள். இங்கு சேதனனை ரக்ஷிப்பதற்கு காரணமானது कृपया पर्यपालयत् न♚ळीला. स तपस्तप्त्वा इद सर्वमसृजत \[அந்த பகவான் நன்கு பாஸ்த்ரங்களில் கூறியபடி ஆராய்ந்து எதிரே நம் கண்களுக்குப் புலனாகும்   
-இதோ 
-
-இவையாவற்றையும்   
-\- 
-
-ஸ்ருஷ்டித்தார்) என்ற போது 
-
-**138**   
-लक्ष्म्युपायत्वदीपः 
-
-ஸங்கல்பத்தை தபஸ் என்ற சொல் சொல்கிறது. பகவானுடைய ஸங்கல்பம் என்பது \- பகவானிடம் கருணை என்ற குணமில்லாத போதோ, மனது   
-என்ற இந்த்ரியமில்லாமலோ நடைபெறாது. ஆனபடியால் இங்கு இந்த வாக்யத்தில் குண\-விக்ரஹாதிகள் தெரிவிக்கப்படாத போதிலும் அவைகளை கட்டாயம் ஒப்புகிறோம். எப்படி? வேறு வேதவாக்யங்களில் தெரிவித்துள்ளபடியால். அதே போன்றுதான் இங்கும். 
-
-\-   
-கறவைப்பசுவையுமே 
-
-\=   
-\*4 3-4 24 என்ற போது கோ என்ற சொல் பெண் பசுவையும், அதிலும் கறவைப்பசுவையுமே குறிக்கும் என்பது உடன் படிக்கப்பட்ட GH \= கறப்பதற்கு என்ற சொல்லால் ஏற்படுகிறது. அதேபோல் ஜகத்கர்த்ருத்வம் உலகைப்படைப்பது   
-முதலியன திவ்யதம்பதிகள் இருவருக்கும் காட்டுகிறபடியால் இங்கும் லக்ஷ்மிக்கு எல்லாவிதமான செயலிலும் தொடர்பு உண்டு. இதற்கு ப்ரமாணம் \- (i) “அக் दधामि द्रविणं हविष्मते सुप्राप्ये मम यजमानाय सुन्वते”, (ii) “अहं राष्ट्री सङ्गमनी वसूनाम्”, (iii) “अहं जनाय समदं कृणोमि”, (iv) “अहं सुवे पितरमस्य मूर्धन् " பிராட்டி   
-என்பன   
-பொதுவானதாகப் 
-
-போன்ற   
-வாக்யங்கள்   
-ப்ரமாணங்கள் 
-
-எல்லாசெயல்களையும் செய்வதை விளக்கவந்தவை. 
-
-(1) இங்கு முதல் வாக்யம்:\- எவன் எளிதில் பெரும் பொருளை அடைய விரும்பி, யஜமானியான\= எல்லாவற்றிற்கும் தலைவியான எனக்காக, ஸோமஸவனம் (\= ஸோமக்கொடியை பிழிந்து சாறெடுத்து ஹோமம்) செய்கிறானோ அவனுக்கு பெரும் செல்வத்தை கொடுக்கிறேன், (2) நாட்டில் உள்ள யாவருக்கும் தலைவியான\= ராணியான நான் எல்லாவகையான எட்டுவிதமான   
-வஸுக்களையும் 
-
-உபாஸிப்பவர்களுக்குத்   
-என்னை தருகிறேன், 
-
-\[அஷ்டவஸுக்களாவன\= பத்மம், மஹாபத்மம், சங்கம், 
-
-139   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-1   
-மகரம், கச்சபம், முகுந்தம், குந்தம், நீலம் \- என்பன \- 45–942 पद्मश्च शङ्खो मकर \- कच्छपौ । मुकुन्द \- कुन्द\-नीलाश्च निधयो तव दर्शिताः 
-
-என்றது காண்க.) (3) மக்கள் யாவருக்கும் பணத்தாலான மகிழ்வை நான் அளிக்கிறேன். (4) தேவர்கள், பித்ருக்கள் என்ற எல்லாவகையானவர்களின் தலையிலும் நானுள்ளேன் \[நான் அவர்களைவிட மேலானவள் என்றபடி\] எல்லோருக்கும் மேலான ருத்ரனுக்கும் நான் தாய் \- என்றும் பொருள்   
-என்பன போன்றவைகள் பிராட்டியை   
-\- 
-
-எல்லாவகை ரேயஸ்ஸுக்களுக்கும் 
-
-காட்டுகின்றன. 
-
-இதைப்போல்   
-कामवत्सा   
-காரணமாகக் 
-
-अमृतं   
-दुहाना 
-
-\[கன்றுக்குட்டியிடம் வாத்ஸல்யத்தால் அமுதத்தை\= பாலை \- பொழியும் பசுவைப்போன்று \- நான் என் குழந்தைகளான மக்களுக்கு அமுதத்தை\= மோக்ஷத்தையும் கொடுப்பவள்\], H नो लोकम् अमृतं दधातु \[அத்தகைய பிராட்டியார் அனைவருக்கும் மோக்ஷத்தை அருளட்டும்\], 
-
-...   
-நம் 
-
-\! 
-
-பூரிகரி \[மோக்ஷம் என்ற பலத்தை அருளுபவளும் ஆத்ம வித்யையும் நீயே அன்றோ\], भवभङ्गापहारिणी \[ஸம்ஸாரத்தில் பிறந்து உழன்று வரும் எங்கள் துயரை நீ போக்குபவள்   
-அன்றோ\],   
-संसारार्णवतारिणीम् \[பிறவிப்பெருங்கடலை தாண்டுவிக்கும் கப்பலைப் போன்றவள் அன்றோ நீர்\], SA ரிபுÂ \[கருணையே உருவான பெரிய பிராட்டியுடன் கூடிய ஹ்ருஷீகேசனான எம்பெருமான் நம்மை இங்கும் பாதுகாத்து மோக்ஷமும் அளிப்பவன் – என்பதாக ஸ்ரீபாஞ்சராத்ராதி ஆகமங்களிலும், வேதாந்தங்களிலும் தெரிவிக்கப்பட்டுள்ளது\], "வேரிமாறாத பூமேலிருப்பாள் வினைதீர்க்குமே" (திருவாய்மொழி). \[நறுமணம் சிறிதும் 
-
-வஸிப்பவளும்,   
-மாறாமலிருக்கும் 
-
-தாமரையை   
-தாமரைப்பூவில் 
-
-கைகளில் 
-
-தாங்கிவருபவளுமான பெரியபிராட்டியார், நமது 
-
-தீவினைகளைத் தீர்ப்பாள். \[எம்பெருமானை ஆச்ரயிக்க 
-
-140   
-लक्ष्म्युपायत्वदीपः 
-
-விரோதியான அநாதி ஸஞ்சித பாபங்களையும், உபாயம் செய்தபிறகு கைங்கர்யத்துக்கு எதிரியான பாபங்களையும் Giri gori \- muig\], ऐश्वर्यम् अक्षरगतिं परमं पदं वा (35 ஸ்ரீபட்டரின் சுலோகத்தை கீழேகாட்டி விரிவாக விளக்கியுள்ளோம். கீழே கண்டுகொள்வது.\] 
-
-(ल.उ.दी) एतेन "ननूपायत्व" मित्यारभ्य, नानाविधकारणत्वस्याप्यसम्भवेन उपायत्वस्य न साधारण्यमित्युपायत्वं 
-
-भगवतो   
-विशेष   
-"मोक्षं प्रति 
-
-एवे”त्यन्तग्रन्थसन्दर्भेण लक्ष्म्या 
-
-व्यापारकर्तृत्वरूपकारणत्वस्य प्रमाणाभावादसम्भवः, व्यापारकर्मत्वरूपस्य कारणत्वस्य कुलालाद्यधिष्ठितदण्डादिवद्भगवदधिष्ठितचतुर्मुखादिवच्च 
-
-तस्यास्सम्भवेऽपि 
-
-तदतिरिक्तभगवत्साधारणकरणत्वस्य,   
-पुरुषकरणातिरिक्तव्यापारासम्भवेन 
-
-तस्याश्चेतनतया व्यापारमुखेन 
-
-साधयितुं योग्ये कार्ये कालादृष्टादिवत् सत्तया कारणत्वस्य चासम्भव इत्युक्तं परास्तम्। "लक्ष्म्या सह हृषीकेश" इत्यत्र तृतीया "पुत्रेण सहागतो देवदत्त " इत्यत्र कर्तरीत्येव तृतीयेति प्रतिपादयन्महाभाष्यानुसारेण कर्तर्येवेति प्रागेव प्रतिपादितत्वादुदाहृतप्रमाणेषु कर्तृत्वस्य स्फुटप्रतीतेश्च, तस्यैव मोक्षयिष्यामीति सङ्कल्परूपव्यापारकर्तृत्वप्रतीतेरित्युक्तिः "भवेयं शरणं हि वः" इति सङ्कल्परूपव्यापारकर्तृत्वस्य तस्यामपि प्रतीतेर्निरस्ता । 
-
-(0.5)   
-இது 
-
-மோக்ஷபர்யந்தமான   
-முதலானவைகளில்   
-பிராட்டி 
-
-பலங்களையும்   
-எம்பெருமானுடன் இணைந்து அருள்கிறாள் \- என்பது 
-
-कंकLL. ननु उपायत्वम् 6T   
-की, उपायत्वस्य 
-
-न साधारण्यम् \= மோசேஷாபாயத்வம் \- பெருமாள்\-பிராட்டி rórm 3G45ळंमुळं 2नानां, उपायत्वं भगवतो विशेष एव \=   
-உ 
-
-மோக்ஷத்துக்கு   
-உபாயமாயிருப்பது 
-
-141   
-எம்பெருமான்   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-ஒருவருக்கே \- என்கிற வரையிலும் விரிவாக மறுத்துள்ளதும் – நேரில்லை. 
-
-இங்கு பூர்வபக்ஷிகளின் கருத்து ஸாரமாய் தெரிவிக்கப்படுகிறது. மண்குடம்   
-மண்குடம் உண்டாக 
-
-கொம்பு\-சக்கரம்\-நீர் 
-
-உபாதான காரணமான   
-குயவனார் 
-
-முதலானவைகளை 
-
-எதிர்பார்ப்பவராயினும், அவை ப்ரதான காரணமில்லை. 
-
-மூலப்பொருளான   
-\-   
-மண்ணே 
-
-காரணம். இந்த தண்ட\-சக்ராதிகள்ணங்கள். முக்க்ய காரணங்களில்லை. அதேபோல்   
-\-   
-ச்ரிய:பதியானவனே 
-
-மோசேஷாபாயம். அந்த நாராயணன் நாரவர்கங்களுக்குத் தலைவனாயிருப்பது என்ற பொருள் படைத்த நாராயண சப்தத்தாலும்,   
-நாரபதார்த்தங்களுக்கு 
-
-ஜகத்ஸ்ருஷ்ட்யாதிகளில் தொடர்பு இல்லையோ 
-
-அப்படியே   
-அந்த   
-நாராயணன் 
-
-பெரியபிராட்டிக்குக் கணவன்   
-எப்படி 
-
-\-   
-ஸ்ரீ என்ற 
-
-என்று அவனை 
-
-அடையாளம் காட்டவந்த சொல்லே புரி: என்பது. இதில் உள்ள லக்ஷ்மியும் அதனால் ஜகத்காரணமாக முடியாது. இங்கு புருஷகாரம் \= பரிந்து பேசுவது   
-பரிந்து பேசுவது \- என்பதைத்தவிர வேறு செயலை இவள் செய்யவில்லையே \- ஒருவனுக்கு ஒரு கார்யம் கை கூடியது என்றால் அதில் அவனுக்கு உண்டான புண்ய\-பாபங்களும் காரணமே. காலமும் தேசமும் கூட காரணமே. அவையில்லாமல் எந்த செயலும் 
-
-நிறைவுபெறாது   
-\- 
-
-என்றிருந்தாலும்   
-அவை 
-
-முக்க்யகாரணமில்லை. HH|மே \- என்றதும் தவறு. 
-
-ஏன்? எனில் : fqai என்ற போது 
-
-கர்தரித்ருதீயை 
-
-திருவுள்ளப்பட்டார்   
-\-   
-என்றே   
-மஹாபாஷ்யகாரர் ஆகமனரூபக்ரியையில் இருவருக்கும் 
-
-ஸமமானப்ராதான்யம் இருப்பதைக்கொண்டு. அதேபோல் க: என்றபோதும் 'ச' என்று அப்ரதானத்ருதீயை இல்லை. ப்ரதானகர்தரி தான் என்பது வையாகரணர்களும் ஒப்பியதே.9301 45 आगतः पिता 
-
-142 लक्ष्म्युपायत्वदीपः 
-
-என்றபோது आर्थप्राधान्यम् புத்ரனுக்கு இருந்தாலும், गमनक्रियान्वयः 6ं । श्रनुकं मुकं wिin fiqu பிராட்டியைப் பற்றிய ப்ரமாணவாக்யங்களில் எல்லா செயல்களிலும் பிராட்டிக்கு प्रधानकर्तृत्वम् நன்கு தெரியவருகிறபடியால் பூர்வபக்ஷிகள் கூறியது நேரில்லை. भवेयं शरणं हि वः नाÓना. '' m rv \- श्री लकी- ஸ்ம்ருத்யாதிகளில் ப்ரஸித்தம் \- என்பதைக் காட்டவன்றோ 
-
-(ल. उ.दी) यदपि किञ्चेत्यादिना द्वेधा वचनार्थवर्णनम्, तत्र प्रथमे \- ममेति पदानुषङ्गस्य उपायत्वमित्यध्याहारस्य लक्ष्म्युपायत्वप्रतिपादकबहु- प्रमाणविरोधस्य चापत्त्या तद्रहितास्मदुक्तार्थपरत्वस्यैव ज्यायस्त्वात् न स्वारस्यसम्भवः । भगवत्स्वरूपनिरूपकतया लक्ष्म्यास्तत्स्वरूपवाचि- शब्दान्तर्भावस्य तत्त्वदीपिकाकारैरुक्तत्वात् अस्माभिश्च सप्रमाणं सन्यायं च पूर्वमुपपादितत्वाच्च, स्वरूपतो गुणैश्चानवधिकातिशयबृहत्त्वस्य ब्रह्मशब्दप्रवृत्तिनिमित्तस्य भाष्यकाराभिमतस्य लक्ष्मीसाधारण्याच्च । "लक्ष्मीनारायणाख्यं तदतो ब्रह्म सनातनम्", "ब्रह्मणि श्रीनिवासे" इति विशिष्य लक्ष्मीविशिष्टस्य ब्रह्मशब्दवाच्यत्वाभिधानाच्च तस्या अपि लक्ष्यत्वात् तस्यामतिप्रसक्त्यापादनं तदर्थं ब्रह्मत्वाभावस्य वक्ष्यमाणत्वप्रतिज्ञावचनं च न सङ्गच्छेते। न चोपायत्वस्य पुरुषकारत्वशरीरप्रविष्टतया पुरुषकारत्वपदेनोपस्थितत्वात् न अध्याहारदोष इति वाच्यम्। एवमपि शब्दाध्याहारपक्षे तद्दोषतादवस्थ्यम्, अर्थाध्याहारपक्षे 
-
-तदभावेऽप्यनुषङ्गदोषस्स्यादेव । 
-
-(ல.க) இந்த HE என்ற வாக்யத்துக்கு இரண்டுவிதமாக பொருள்கூற முற்பட்டு தானும் குழம்பி, பிறரையும் Gfww. फक्र mmu Gurgofo \- मम 
-
-143   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-\-   
-என்ற சொல்லை கீழ்வாக்யத்திலிருந்து கூட்டிக்கொள்ள வேண்டும் (3TF:). 3444 என்ற சொல்லை (இது இங்கு ப்ரகரணத்தில் இல்லாதது) 3ARம் பண்ணவேண்டும். இது அநுஷங்கத்தை விட அத்யாஹாரம் பெரிய தப்பு \- என்பதாய் பூர்வமீமாம்ஸையில் அநுஷங்காதிகரணத்தில் முடிவு செய்துள்ளபடியால் தப்பாகும். அநுஷங்கமும் வேறு கதியில்லாதபோதே செய்யத்தகும். இதையும் மீமாம்ஸகர் அவர் சாசர் என்று காட்டினார்கள். "கட்டாயம் அநுஷங்கம் பண்ணியே தீரவேண்டும், இல்லாவிடில் பொருந்தாது" என்ற நிலையிருந்தால் அது தகும். இங்கு அநுஷங்கமில்லாமலேயே ஸ்வரஸமாய் வாக்யார்த்தம் கொள்ள வழியிருக்கும்போது ஏன் அந்தக்லேசத்தை அநுபவிக்கவேண்டும். தத்வதீபிகாகாரர் என்ற மஹானும் பகவத் ஸ்வரூபத்தில் அந்தர்பூதை பிராட்டி என்பதை ஒப்புக்கொண்டார். அதையே நாங்களும் கூறிவருகிறோம். "இயற்கையான ஸ்வரூபத்தாலும் அனந்தமான கல்யாண குணங்களாலும் எது மிகவும் பெரியதோ – அதையே ப்ரம்ஹ என்ற சொல்லுக்கு ஈரமாகக்கொள்வது" என்ற ஸ்ரீபாஷ்யகாரரின் திருவுள்ளம் இங்கு லஷ்மீ விஷயத்திலும் பொதுவாய் அமைந்துள்ளதே. 
-
-ब्रह्मणि   
-लक्ष्मीनारायणाख्यं तद् अतो ब्रह्म सनातनम् 
-
-\[லக்ஷ்மீநாராயணர் என்கிற பரப்ரம்ஹம் அநாதியானது-\] श्रीनिवासे \[பரப்ரம்ஹம் என்று எல்லோராலும் ஒப்புக்கொள்ளப்பட்ட ஸ்ரீயுடன்கூடிய பகவானிடம்\], என்பன போன்ற வசனங்கள் லக்ஷ்மியுடன் கூடிய பரமாத்மாவையே ப்ரம்ஹ சப்தத்தால் சொல்லுகின்றன 
-
-"லக்ஷ்மியிடம் ப்ரம்ஹலக்ஷணத்துக்கு 
-
-அதிவ்யாப்த்தி வந்துவிடும்” என்பது   
-ஆகவே அதிப்ரஸக்தி பொருந்தாது.   
-1 
-
-பரிந்து பேசுவது என்பது पुरुषकारः   
-— 
-
-என்றது. 
-
-மோக்ஷத்துக்கு உபாயமாக இருப்பது வேறு. புருஷகாரமாய் 
-
-144   
-लक्ष्म्युपायत्वदीपः 
-
-இருப்பதும் ஒருவகையில் மோசேஷாபாயமே. ஆகையால் எந்த தோஷமும் இல்லை. 3AIë:\= இல்லாததைச் சேர்த்துக் கொள்வது என்பது இரண்டு வகையாகும் \- 1) : 2) ரி: என்பதாக. சப்தாத்யாஹாரபக்ஷத்தில் கீழே கூறிய குற்றம் அப்படியே இருக்கும். அர்த்தாத்யாஹாரபக்ஷத்திலும் अनुषङ्गः என்ற தோஷம் வரும். அத்யாஹாரத்தைவிட அநுஷங்கம் சற்று மேலானது. அந்தப்ரகரணத்தில் இல்லாத சொல்லை கூட்டிக்கொள்வது अध्याहार எனப்படும். முன்போ\-பின்போ அந்த ப்ரகரணத்தில் இருப்பதைச் சேர்த்துக் கொள்வதை அகம் என்பர். அநுஷங்கமே இதில் சிறந்தது. நாமாக புதியதாக ஒரு சொல்லை கல்பித்துக் கூட்டிக்கொள்ளவில்லையே. இது அன்சா என்ற ஜைமிநிஸூத்ரத்தில் தெளிவாய் அறியலாம். 
-
-(S.S.) சிவு ஈ 
-
-"लक्ष्मीं च मां सुरेशेश द्वयेन शरणं गतः । 
-
-मल्लोकमचिराल्लब्ध्वा मत्सायुज्यं स गच्छति ॥", "मामेकं च श्रिया युक्तं भक्तियुक्तो नरोत्तमः। 
-
-द्वयेन मन्त्ररत्नेन मत्प्रियेण भजेत् सदा ॥ 
-
-अचिरान्मत्प्रसादेन मल्लोकं च स गच्छति।"\- 
-
-इत्यादिभिर्लक्ष्मीनारायणयोर्द्वयोरपि मन्त्ररत्नकरणकमोक्षार्थप्रपदनविषयत्व- 
-
-रूपोपायत्वज्ञापनेन पुरुषकारत्वातिरिक्ताकारेणोपयोगे 
-
-नास्तीत्ययोग्यतापराहतम् । न चैतदनुसारेण   
-ज्ञापकं 
-
-तद्वचनानां 
-
-पुरुषकारप्रपदनविषयत्वं वक्तुं शक्यम् । तत्र मन्त्ररत्नस्य करणत्वासम्भवात् । 
-
-तस्मात् ततश्चोपायत्वं भगवत एवेति सुव्यक्तमित्ययुक्तम् । 
-
-(ல.க) மேலும்,   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-"लक्ष्मीं च मां सुरेशेश\! द्वयेन शरणं गतः । 
-
-मल्लोकम् अचिरात् लब्ध्वा मत्सायुज्यं स गच्छति॥” 
-
-\[தேவர்களின் தலைவனே\! லக்ஷ்மியையும்   
-என்னையும் 
-
-த்வயம் என்ற மந்த்ரத்தால் சரணாகதி செய்பவன் விரைவில் என்லோகமான ஸ்ரீவைகுண்டத்தை அடைந்து 
-
-ஸமமான யோகசேஷமத்தை அடைகிறான்.) 
-
-"मामेकं च श्रिया युक्तं भक्तियुक्तो नरोत्तमः। 
-
-द्वयेन मन्त्ररत्नेन मत्प्रियेण भजेत् सदा ॥ 
-
-अचिरात् मत्प्रसादेन मल्लोकं स च गच्छति॥   
-13   
-1   
-எனக்கு 
-
-—   
-\[ஸ்ரீ எனப்பட்ட பெரிய பிராட்டியாருடன் கூடிய என் ஒருவனை, மிகுந்த பக்தியுடன் எனக்கு மிகவும் பிரியமான மந்த்ரரத்னம் எனப்பட்ட த்வயமந்த்ரத்தால் எந்த ஒரு நல்ல மனிதன் ஆச்ரயிக்கிறானோ \- அவன் வெகு விரைவில் என் அருளால் எனது சாஸ்வதலோகமான ஸ்ரீவைகுண்டத்தை அடைகிறான்\] என்பன போன்ற பல ப்ரமாணங்கள் மந்த்ரரத்னத்தை கரணமந்த்ரமாகக்கொண்டு லஷ்மீ- நாராயணர்கள் என்ற இந்த திவ்ய தம்பதிகள் இருவரிடம் மோக்ஷத்துக்காக ப்ரபத்தியைச் செய்யவேண்டும்- என்று காட்டுகின்றன. ஆகவே "பிராட்டிக்கு புருஷகாரத்வம் தவிர \- உபாயத்வம் கிடையாது” மறுக்கப்பட்டதாகிறது. 
-
-எனில்   
-என்ற   
-வாதம் 
-
-"இந்த வசனங்கள் யாவும் புருஷகாரப்ரபத்தியையே குறிப்பிடுவதாகக் கூறலாமே" என்று கேட்கமுடியாது. ஏன் மந்த்ரரத்னமான த்வயத்தைக் கொண்டு புருஷகாரப்ரபத்தியை செய்ய எங்கும் வசனமில்லை. இங்கு 547 பள என்று ஸ்பஷ்டமாக த்வயம் காட்டப்பட்டது. த்வயம் ப்ரபத்திக்கு கரணமந்த்ரம். புருஷகார ப்ரபத்திக்கு 
-
-4சர் 42TH பனிபு என்ற ஸ்ரீஸூக்தமந்த்ரமே கரணமந்த்ரம். ஆகவே பூர்வபக்ஷியின் வாதம் எடுபடாது. 
-
-146   
-लक्ष्म्युपायत्वदीपः 
-
-(ल.उ.दी) किञ्च "स्वयंपदमहिम्ने" त्यादिना, "इत्येवंरूपार्थस्य चशब्देन समुच्चितत्वात्" इत्यन्तेनोक्तमपि, स्वयंपदस्याव्यवहितलक्ष्मीपतिपदान्वये सम्भवति व्यवहितोपायपदान्वयस्यानुचितत्वात् । तदन्वयेऽपि अहमेव स्वयमिदं वदामीति वेदे, स्वयमेवेदं करोमीत्यादौ लोके च प्रयोजककर्तृत्वव्यवच्छेदपरत्वदर्शनेन, परम्परोपायत्वव्यवच्छेदपरत्वेन साक्षात्पदवैयर्थ्यापत्त्या व्यक्त्यन्तरव्यवच्छेदपरत्वेऽपि गुणविग्रहयोरिव विशेषणत्वेनोपात्ताया   
-लक्ष्म्या अपि व्यवच्छेदासम्भवेन तदितरव्यवच्छेदपरत्वस्यौचित्यात् । "एतस्याश्च विशेषोऽयमित्यत्र चस्य त्वर्थकत्वे \- अयं तु एतस्या विशेषः, उपायत्वं न विशेषः, किन्तु साधारणमित्यर्थस्य प्रमाणान्तरानुगुणस्य सम्भवात्। समुच्चयार्थत्वे एतस्या अयं विशेषश्च, उपायत्वरूपं सामान्यं च निगमान्तेषु शब्द्यत इत्यर्थपरत्वसम्भवात्। एतस्या इत्यनेनैवान्वयेऽपि एतस्यास्त्वयं विशेष इत्युक्त्या नान्येषामित्येव प्रतीयते । भगवत उपायत्वं विशेष इति तु न प्रतीयते । तुशब्दस्य पूर्वस्माद्वैलक्षण्यद्योतकततया पूर्वं भगवत उपायत्वं विशेष इत्यनभिधानात् तदर्थपरत्वानुपपत्तेः। न च 'अहं मत्प्राप्त्युपाय' इत्यनेन भगवत उपायत्वं विशेष इति एतस्याश्च विशेषोऽयम्" इत्यस्योक्तार्थपरत्वे सिद्धे तन्महिम्नां 'अहं मत्प्राप्त्युपाय' 
-
-च   
-इत्यस्य 
-
-"एतस्याश्च"   
-भगवदसाधारणोपायत्वपरत्वसिद्धिः,   
-तत्सिद्धौ 
-
-इत्यस्योक्तार्थपरत्वसिद्धिरित्यन्योन्याश्रयात्,   
-चस्य समुच्चयपरत्वेऽपि 
-
-उक्तसमुच्चयेऽन्योन्याश्रयः,   
-अनुक्तसमुच्चयश्च 
-
-उपायत्वासाधारण्यस्यान्यत्राप्रसिद्ध्या नोपपद्यते, तस्मात् स्वयंपदमहिम्ना 
-
-"एतस्याश्च विशेषोऽयम्" इत्युक्तमहिम्ना च न व्यवस्थासिद्धिः । 
-
-यच्च किञ्चेत्यादिना साक्षादुपायत्वं भगवत एव, लक्ष्म्यास्तु परम्परोपायत्वम्, तच्च पुरुषकारत्वे पर्यवस्यतीत्युक्तम्, तत् साक्षादुपायत्वं लक्ष्मीविशिष्टनिष्ठतया प्रतीयत इति प्राक् प्रतिपादनेनैव निरस्तम् । अत एव 
-
-147   
-லக்ஷ்மீ கடாஷம் என்னும் உரையுடன் 
-
-अहं साक्षात् मत्प्राप्त्युपाय इत्यनेन लक्षणत्वाकारस्य स्फुटत्वान्ममोपायत्वं विशेष इति नोक्तमिति परास्तम्, साक्षादुपायस्य साधारण्यप्रतीत्युपपादनात् । चशब्दस्य उक्तानुक्तसमुच्चयपरत्वासम्भवस्योक्तत्वात् किञ्चेत्याद्यपि निरस्तम्। एवं च "मत्प्राप्तिं प्रती" त्यादेः व्यवस्थापरत्वासिद्ध्या तद्बलेनोपायत्ववचनानां पुरुषकारत्वप्रयुक्तपरम्परोपायत्वपर्यवसानमनुचितमेव, असति बाधके मुख्यार्थत्यागायोगात् । अत एवैकमपीत्याद्यपि दूरोत्सारितम्, भूयोऽनुग्रहन्यायस्यानपवादत्वात् । 
-
-—   
-(ல.க) எம்பெருமான் தன்னையே உபாயமாகக் கூறும் போது 4 என்றார். அதனால் பிராட்டிக்கு இதில் ஸம்பந்தமில்லை \- என்று ஏற்படுகிறதே \- என்று ஆரம்பித்து "தன் d\<" என்று பூர்வபக்ஷி எழுதியதும் நேரில்லை. अहं मत्प्राप्त्युपायो वै साक्षात् लक्ष्मीपतिः स्वयम् என்றவிடத்தில் 44 என்ற சொல் அடுத்து வரும் லக்ஷ்மீபதி: என்கிற சொல்லோடு அந்வயிக்கும். இதை விட்டுவிட்டு தள்ளி இருக்கும் उपायः என்கிறதோடு அன்வயிக்கும் – என்று கூறுவது அடியோடு பொருந்தாது. ச்ருதியில் "354q us aqift" என்கிற போதும் qqnqé கரிபு என்ற லௌகிகவாக்யத்திலும் \- நடத்திக்கொடுப்பவர் என்பதைக் குறிப்பிடாமல்   
-ஸாக்ஷாத்தாக எவர் செய்கிறாரோ அவரையே கூறுகிறது என்பதை ஒப்பியுள்ளோம். ஆகவே இப்படி விதண்டாவாதம் செய்வது பொருந்தாது. பரம்பரோபாயத்தைக் கூறுவதானால் Hæd என்ற சொல் வ்யர்த்தமாகுமே. மற்றோர் வ்யக்தியை மறுக்கிறது \- என்று கொண்டாலும், உபாத்தவ்யக்தியில் கல்யாண குணம்\-திருமேனி முதலானவைகளை எப்படி மறுக்க முடியாதோ, அப்படி ஸ்வரூபநிரூபகதர்மமாய் அமைந்த பிராட்டியின் ஸம்பந்தத்தையும் எந்த நிலையிலும் மறுக்க முடியாது.   
-— 
-
-148   
-लक्ष्म्युपायत्वदीपः 
-
-fsqy 4 d என்ற போதும், ஈ 
-
-என்ற சொல் I என்பதின் பொருளில் வந்தது. பிராட்டிக்கு புருஷகாரத்வம் என்பதே விசேஷம். உபாயத்வம் விசேஷமில்லை. அந்த உபாயத்வம் எம்பெருமானுக்கும் உண்டே. அது ஸாதாரணமாயிற்றே என்றபடி. 7 என்பதற்கு ஸமுச்சயம் என்ற பொருள் கொண்டாலும் இப்படி புருஷகாரத்வரூபமான   
-च 
-
-\- 
-
-விசேஷமும், 
-
-பகவானும் இவளுக்கும் 
-
-ஸாமான்யாகாரமும்   
-வேதாந்தங்களில்   
-மோசேஷாபாயத்வரூபமான 
-
-ஏற்பட்ட 
-
-விளக்கிக்காட்டப்பட்டன \- என்று பொருளாகும். 
-
-374414:,   
-4 என்கிற இரண்டு 
-
-—   
-வசனங்களுக்கும் ஒன்றோடு ஒன்று விரோதம் வராமல் ப்ரமாணங்களை அநுஸரித்து நாம் (பரகாலஸ்வாமி) இப்படி பொருள் கொண்டோம். ஏ: 2: என்றாலும், ஈ: : என்றாலும் தாத்பர்யத்தில் விரோதம் இல்லை. 
-
-மேலும், 
-
-मत्प्राप्तिं प्रति जन्तूनां संसारे पतताम् अधः । 
-
-लक्ष्मी: पुरुषकारत्वे निर्दिष्टा परमर्षिभिः ।। 
-
-என்று கீழே எடுத்த வசனத்தாலும் "புருஷகாரத்வம் ஒருவருக்கு, உபாயத்வம் மற்றொருவருக்கு” என்ற வ்யவஸ்த்தை ஏற்படவில்லை. ஆகவே அதைக்கொண்டு பிராட்டிக்கு உபாயத்வம் கூறும் வசனங்களை \- YH4RY புமாகக் கொள்ள வழியில்லை. இதேபோல்   
-\- 
-
-என்று தொடங்கி நீங்கள் விளக்கியதும் நேரில்லை. "சர் எனிAH" என்ற ந்யாயப்படியும் பொருந்தாது. 
-
-(ल.उ.दी) किञ्च, मन्त्ररत्नपूर्वखण्डे मतुप्प्रत्यनेन लक्ष्मीवैशिष्ट्यप्रतीत्या विशिष्टस्यैव   
-शरण्यत्वप्रतीतेर्विशेषणभूतलक्ष्म्याश्च   
-शरण्यत्वादेव 
-
-उपायत्वनिषेधो नोपपद्यते । न च लक्ष्मीसम्बन्धस्य पुरुषकरणव्यापारार्थत्वेन 
-
-149 
-
-तेन   
-उभयत्र   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் अन्यथासिद्धत्वान्नोपायत्वार्थत्वमिति वाच्यम्। तर्ह्यत्तरखण्डस्थमतुप्प्रत्ययेन प्राप्यत्वमपि न सिच्येत् । न च पूर्वखण्डस्थेन तेन पुरुषकारसम्बन्धप्रतीतेरुत्तरखण्डेऽपि तत्प्रतीतौ प्रयोजनाभावात् प्राप्यत्वसिद्धिरिति वाच्यम्। अत्रैव पुरुषकारसम्बन्धप्रतीतिस्तत्र तूपायत्वप्रतीतिरिति वैपरीत्यस्यापि सुवचत्वात्, वैशिष्ट्यप्रतीतेर्वैषम्याभावात् । तद्युभयत्र पुरुषकारसम्बन्धपरत्वं तदभावो वा स्यात्। तत्राद्ये प्रयोजनाभावात् प्राप्यत्वाभावप्रसङ्गाच्च, चरम एवाश्रयणीय इति लक्ष्म्याः अप्युपायत्वसिद्धिरप्रत्यूहा । न चोत्तरखण्डस्य प्राप्यपरतया तत्रत्यमतुप्प्रत्ययेन लक्ष्म्याः प्राप्यत्वसिद्धिरेवोचितेति वाच्यम्, पूर्वखण्डस्योपायपरत्वेन तत्रत्येन उपायत्वसिद्धेरेवौचित्यस्याप्यनिवार्यत्वात् । न च मामेकमित्येकपदेन स्वेतरकृत्स्नशरण्यत्वनिवृत्तिपूर्वकं स्वशरण्यत्वस्य भगवतैव स्थापितत्वेन लक्ष्मीशरण्यत्वाप्रसक्तेः पूर्वखण्डे पुरुषकारसम्बन्धप्रतीत्यर्थ एव मतुप्प्रत्ययः, अन्यथा नारशब्दार्थानाम् सर्वेषां विशेषणत्वाविशेषेणोपायत्वप्रसङ्गः । उत्तरखण्डे तु विशेषणत्वेनान्वयप्रयुक्तप्राप्यत्वे बाधकाभावान्नानुपपत्तिरिति भगवत्स्वरूपवाचिशब्दान्तर्भावस्य तत्त्वदीपिकाकारैरुक्तत्वात्, "अहन्ता ब्रह्मणस्तस्य साहमस्मि सनातनी । अहन्तया विनाहं हि निरुपाख्यो न सिद्ध्यति " इत्यादिभिरहन्तारूपतयोक्तत्वात् "मामेकं च श्रिया युक्तम्" इत्यादिस्थान- प्रमाणानुरोधाच्च, मामित्यनेन लक्ष्मीविशिष्टस्य, एकमित्यनेन   
-वाच्यम्।   
-लक्ष्म्या 
-
-विशिष्टातिरिक्तव्यवच्छेदस्य 
-
-भगवद्विषयशरणागतेर्विधेयतया   
-तस्या 
-
-प्रतीतेर्लक्ष्म्युपायत्वस्याबाधात्, 
-
-तत्प्रविष्टाहन्तात्मकलक्ष्मीरूपविशेषणस्य 
-
-"पशुना यजेत" इत्यादौ पुंस्त्वैकत्वादेरिव विवक्षावश्यम्भावाच्च। अन्यथा 
-
-सर्वशाखाप्रत्ययन्यायविरोधस्स्यात् ।   
-अतः 
-
-लक्ष्म्युपायतापरत्वमवर्जनीयम् ।   
-न 
-
-150   
-पूर्वखण्डे 
-
-चैवं 
-
-नारशब्दान्तर्गतजगतोऽप्युपायत्वप्रसक्तिरिति   
-लक्ष्म्युपायत्वदीपः 
-
-वाच्यम्। 
-
-"आब्रह्मस्तम्बपर्यन्ता" इत्यादिप्रमाणवाधितत्वस्य प्रागेवोक्तत्वात् । निरतिशयपुरुषार्थस्य प्रार्थनीयत्ववत् निरतिशयोपायत्वस्यैव वरणीयत्वात “वस्तुतस्त्वि”त्यादिकमप्यपास्तम्। “अस्मदनभिमतत्वादेव   
-“अस्मदनभिमतत्वादेव पूर्वखण्डे नारशब्दार्थप्रापकत्वादिप्रसङ्गभयेने"त्यादि\-शङ्कासमाधानग्रन्थोऽनुपपन्नः । 
-
-किञ्च,   
-बाधकाभावेऽपि उपायविशेषणत्वस्वारस्यप्रयुक्तोपायत्वानङ्गीकारे गुणविग्रहयोरुपायत्वं न स्यात् । न च ज्ञानशक्त्यादिगुणाभावे मोक्षप्रदातृत्वं विरोधिपापनिरसनेष्टप्रापणादीनां   
-भगवतः   
-कथमुपपद्येत, 
-
-ज्ञानशक्त्यादिसाध्यत्वेन तदुपायत्वावश्यम्भावात् तदनङ्गीकारे मोक्षसिद्धिर्न स्यात्। एवंविधदृष्टोपयोगाभावेन लक्ष्म्या उपायत्वानङ्गीकारे बाधकाभावान्न गुणप्रतिबन्धिमुखेन उपायत्वसिद्धिरिति वाच्यम्, "भावाभावमयी तस्य शक्तिरेकाऽनपायिनी। तद्धर्मधर्मिणी दिव्या ज्योत्स्नेव हिमदीधितेः*"* इत्यनेन स्थूलसूक्ष्मरूपजगद्व्यापितया कार्यकारणावस्थयोरुभयोरपि तदविनाभूता लक्ष्मीर्जगत्कारणत्वमोक्षप्रदत्वादिभगवद्धर्मधर्मिणीति   
-तच्छक्तिरूपा 
-
-प्रतिपाद्य   
-तमोनिवर्तकत्वाह्लादकारित्वादिचन्द्रधर्मधर्मिचन्द्रिकादृष्टान्तकथनपूर्वकं 
-
-"योऽसौ नारायणो देवः परमात्मा सनातनः । 
-
-अहम्भावात्मिका शक्तिस्तस्य तद्धर्मधर्मिणी ॥ ताविमावेकधैवोक्तौ भेद्यभेदकभावतः । 
-
-पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ॥" इत्याभ्यां 
-
-भगवदहन्तारूपतया तच्छक्तिरूपायाः श्रियः सर्वाधारत्व- सर्वव्यापकत्व सर्वनियन्तृत्व\-निरतिशय\-दीप्त्यादिमत्त्व \- परमात्मत्व\-जगत्कारणत्वादि- धर्मयोगित्वाभिधानात् विशेष्यत्वस्वरूपनिरूपक- विशेषणत्वाभ्यां "यतो वा इमानि भूतानि जायन्ते", "सदेव सोम्येदमग्र आसीत्", "आत्मा वा इदमेक एवाग्र आसीत्", "ब्रह्मविदाप्नोति परम्", "तरह देवमात्मबुद्धिप्रसादं मुमुक्षुर्वै 
-
-151   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-शरणमहं प्रपद्ये" इत्यादि\-वेदान्तगणेषु, "तदन्तर्भावात् त्वां न पृथगभिधत्ते श्रुतिरपि" इत्युक्तरीत्या सत्त्वब्रह्मत्वात्मत्व- देवत्वाद्यनेकप्रकारेण "एको ह वै नारायण आसीत्", "अहमेव वात इव प्रवाम्यारभमाणा भुवनानि विश्वा" "तमेवं विद्वानमृत इह भवति", "श्रियं वसाना अमृतत्वमायन्" इत्यादिषु पृथक्त्वेन च लक्ष्मीनारायणौ जगद्धेतुतया तदुपलक्षितमोक्षप्रदत्वादिमत्तयोदितौ इत्येतयोर्जगत्कारणत्वादिकमलौकिक\-प्रमाणसिद्धमित्यभिधायानेनैव "न हि शक्त्या विना कश्चिच्छक्तिमान् अस्ति कारणम् । न च शक्तिमता शक्तिर्विना काप्यवतिष्ठते" इति सामान्याकारेण लोकसिद्धमपीत्यभिधानाच्च, भगवत इव 
-
-लक्ष्म्या अपि उपायत्वानङ्गीकारे   
-ज्ञानचिकीर्षादिरूपव्यापारद्वारा 
-
-चैतद्वचनानामेव 
-
-गुणादिसमानन्यायत्वमप्रत्यूहम् । इयांस्तु,   
-दृष्टोपयोगसम्भवात्, 
-
-बाधकभावाच्च, பு:, 
-
-लक्ष्म्यास्सङ्कल्पाश्रयत्वेनोपयोगः, गुणादीनां तदयोग्यत्वात् स्वरूपेणैवेति । 
-
-க   
-(ல.க) மேலும், மந்த்ரரத்னத்தில் ஜி4 என்றபோது மதுப் என்ற ப்ரத்யயத்தால் \- லஷ்மீ விசிஷ்டனே உபாயம் என்று ஸ்பஷ்டமாக ஏறபடுகிறபடியால் \- விசேஷணமாய் அமைந்த பிராட்டிக்கும் உபாயத்வம் உண்டானபடியால் அதை மறுப்பது நேரில்லை. இங்கு பூர்வகண்டத்தில் 414 என்ற ப்ரத்யயத்தை   
-வ்யாபாரத்தைச் செய்பவள் என்றதைக் கூறவந்ததாகக் கொண்டால் \- உத்தரகண்டத்தில் இதேபோல் மதுப்புக்கு பொருள் கொண்டால் \- ப்ராப்யத்வம் பிராட்டிக்கு ஏற்படாது. "பூர்வகண்டத்தில் புருஷகார ஸம்பந்தம் காட்டப்பட்டபடியால் 
-
-உத்தரகண்டத்தால் 
-
-ப்ரயோஜனமில்லாதபடியால்   
-மீண்டும் 
-
-காட்டுவதில்   
-அதையே 
-
-ப்ராப்யத்வம் உத்தர-   
-1 
-
-கண்டத்துக்கும் பொருள் – என்று கொள்கிறோம்” என்பது அடியோடு தகாது. நீ கூறியதை மாற்றி "உத்தரகண்டத்தில் 
-
-மதுப்புக்கு   
-புருஷகார 
-
-152   
-ஸம்பந்தஜ்ஞாபகத்வம், लक्ष्म्युपायत्वदीपः 
-
-பூர்வகண்டத்தில் உபாயத்வ\-ஜ்ஞாபகம்" என்று விபரீதமாக ஏன் பொருள் கொள்ளக்கூடாது? மதுப்பால் வரக்கூடிய 3: இரண்டிடத்திலும் துல்யமாயிருக்கிறதே? 
-
-இரண்டு கண்டங்களிலும் புருஷகாரத்வமே கூறியதாக ஆகட்டும், அல்லது இரண்டிடங்களிலும் இரண்டுமே வேண்டாமே \- என்று கூறத்துணிந்தால் \- முதல் கண்டத்தில் ப்ரயோஜனமில்லாதபடியால் ப்ராப்யத்வமில்லை, என்று ஏற்படுகிறபடியால் \- உத்தரகண்டத்தில் ப்ராப்யத்வம் கூறியதாகும். 
-
-என்   
-புசின்ற போது பகவானால் ஸ்பஷ்டமாக 
-
-ஒருவனையே காரணமாகப்பற்று 
-
-அருளப்பட்டிருப்பதால் 
-
-சரண்யனாக முடியாது   
-1   
-என்று 
-
-தன்னைத்தவிர   
-\-   
-ஒருவரும் 
-
-என்று ஏற்படுகிறபடியால் 
-
-வேறுகதியில்லாமல் பூர்வகண்டத்தில் கவு 
-
-4j4- என்று கொள்வோமெ \- என்னில் 
-
-பகவானின் ஸ்வரூபத்தைக் கூற வந்தவள் லக்ஷ்e . 
-
-அதாவது \- எவன் ஸ்ரீலஷ்மிக்குப் பதியோ 
-
-பரம்பொருள்   
-\-   
-என்று காட்ட வந்தது இது தத்துவதீபகாரரே தெரிவித்துள்ளார். இதை 
-
-"अहन्ता ब्रह्मणस्तस्य साऽहमस्मि सनातनी । 
-
-अहन्तया विनाऽहं हि निरुपाख्यो न सिद्ध्यति ।। 
-
-(இது கீழே விளக்கப்பட்டுள்ளது)   
-"1   
-\-   
-\-   
-\- 
-
-அவனே என்பதாக 
-
-என்கிற ப்ரமாணங்களால் பிராட்டியை அஹந்தா என்று காட்டப்பட்டபடியாலும், "சாக் 4h4" (இதுவும் கீழே விளக்கப்பட்டது) என்றபடியாலும், சாசிக் ≥R AG என்ற போது ஏக என்ற சப்தமிருந்தாலும், ப்ரமாணாந்தரங்களை அநுஸரித்து பிராட்டியும் உபாய கோடியில் சேர்ந்தவளே. 4 என்பதற்கு லஷ்மீவிசிஷ்டனான என் ஒருவனையே என்றபொருள். 
-
-153   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-—   
-"qj- qGa" என்று விதிவாக்யத்தில் – அந்த பசு ஒன்றே என்பது புளித்தால் எப்படி தானே கிடைக்கிறதோ அப்படியே இங்கும். இல்லை என்றால் "க் கi" என்ற மீமாம்ஸாந்யாயத்துக்கு விரோதம் வரும். ஆதலால் த்வயத்தின் பூர்வகண்டத்தில் லக்ஷ்மிக்கு உபாயமாகும் நிலை 3புஎரிபு4\= விடமுடியாதது. 
-
-இப்படியானால் 
-
-\-   
-\- என்று ப்ரமாணம் 
-
-காட்டுகிற படியால் F என்ற போது GRH 34 : Wd: என்று வசனம் காட்டியபடியால் – T 
-
-\-   
-என்ற சொல்லில் அடங்கிய ஜகத் எல்லாவற்றிற்கும் உபாயத்வம் கூடுமே என்ற கேள்விக்கு கீழேயே பதில் जगदन्तर्व्यवस्थिताः। प्राणिनः கூறியாயிற்று. "   
-कर्मजनितसंसारवशवर्तिनः । यतस्ततो न ते ध्याने ध्यानिनाम् उपकारकाः। अविद्यान्तर्गताः सर्वे ते हि संसारगोचराः। पश्चात् उद्भूतबोधाश्च ध्याने नैवोपकारकाः। नैसर्गिको न वै बोधः तेषामप्यन्यतो यतः। तस्मात् तदमलं ब्रह्म निसर्गादेव बोधवत्। ध्येयं ध्यानविदां सम्यक् तद् विष्णोः परमं पदम्" (ஸ்ரீவிஷ்ணுதர்மம் 104-23,24,25,26) என்று விரிவாக ப்ரம்ஹா முதல் – ஸ்தம்பம் என்ற சிறு பூச்சி வரையிலுமுள்ள ஸர்வசேதனர்களும் புண்ய\-பாப ரூபமான கர்மத்துக்கு உட்பட்டவர்கள், ஆகையால் த்யானம் செய்ய யோகிகளுக்கு இவர்கள் உகந்தவர்களில்லை. ஏனெனில் \- அ 
-
-द्वेष அரி\-எங்கள் இவர்கள் அனைவருக்குமுண்டு. கர்மபந்தங்களிலிருந்து விடுபட்ட முக்தர்களும் த்யானம் பண்ணத்தகுந்தவரில்லை. ஏன் எனில் கர்மபந்தம் நீங்கியபடியால் ஜ்ஞானவிகாஸம் பெற்றவர்கள் அவர்கள். நித்யர்களும் த்யானத்துக்கு உரியவரில்லை. பகவததீனமான ஜ்ஞானத்தை என்றும் அவர்கள் பெற்றிருந்தாலும் ஸர்வவ்யாப்தனாக பகவானை த்யானம் செய்யவேண்டிய உபாஸனங்களில் அணுஸ்வரூபரான இவர்களுக்கு   
-\- 
-
-154   
-1   
-लक्ष्म्युपायत्वदीपः 
-
-உபயோகம் இல்லையே.   
-ஸர்வஸ்வதந்த்ரனானவனும், 
-
-எந்தவிதமான குற்றம் குறைகள் அற்றவனுமான ஸ்ரீவிஷ்ணுவே த்யானிக்கத்தக்கவர்) என்று இந்த வசனங்களில் காட்டியதை உற்று கவனித்தால் இது ஏற்படும். இங்கு எடுத்த இந்த சுலோகங்கள் யாவும் ஸ்தோத்ரபாஷ்யத்தில் (சு.15) ஆசார்யர் எடுத்து 
-
-விளக்கியவைகள். 
-
-இதனால் "agdit" என்று தொடங்கி பூர்வபக்ஷிகள் விளக்கியதும் சேராது. நிரதிசயமான பரமபுருஷார்த்தமே ஜீவர்களால் ப்ரார்த்திக்கப்பட வேண்டியது \- அதேபோல் \- நிரதிசயமான உபாயமே வரிக்கத்தக்கது. இப்படிக் காட்டியபடியால்   
-“अस्मदनभिमतत्वादेव   
-पूर्वखण्डे 
-
-பு" என்று கேட்டுக்கொண்டு தங்களுக்குத் தோன்றியபடி ஏதேதோ கூறியதுயாவும் தள்ளப்பட்டன.   
-\- 
-
-மேலும், பாதகம் ஏதுமில்லாவிடினும் உபாயத்துக்கு விசேஷணமாய் அமைந்தது என்ற ஸ்வாரஸ்யத்தைக் கொண்டு பிராட்டிக்கு உபாயத்வமில்லை என்று 
-
-கொண்டால்   
-\-   
-எம்பெருமானின் கல்யாணகுணங்கள், 
-
-श्रीमन्नारायणचरणौ என்று காட்டப்பட்ட   
-திருமேனி   
-1 
-
-இவைகளுக்கும் உபாயத்வமில்லை \- என்றாகிவிடும். 
-
-கேள்வி   
-ஜ்ஞானம், சக்தி முதலான கல்யாணகுணங்களை எம்பெருமானுக்கு ஒப்பவில்லை என்றால் \- எம்பெருமான் மோக்ஷம் அருள்வர் \- என்பதே ஸித்தியாது. நமக்கு உள்ள உபாயவிரோதியான பாபங்களை நீக்கி, விரும்பிய மோக்ஷத்தை அருள்வது என்பதெல்லாம் ஜ்ஞான\-சக்தியாதிகளாலேயே ஸாத்யம். பிராட்டி விஷயம் இத்தகையது அன்று. பிராட்டியை 
-
-உபாயமாகக் கொள்ளாவிடில் எந்த பாதகமுமில்லையே ஆகவே பிராட்டி உபாயமில்லை \- என்று. 
-
-155   
-\- 
-
-—   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-விடை- 
-
-"भावाभावमयी तस्य शक्तिरेकानपायिनी। 
-
-तद्धर्मधर्मिणी दिव्या ज्योत्स्नेव हिमदीधितेः ॥” 
-
-என்கிற கீழே எடுத்து நிரூபணம் பண்ணின ப்ரமாணவசனத்தில் எம்பெருமானின் சக்தி என்பதே 
-
-பிராட்டி   
-\-   
-என்று ஸ்பஷ்டமாகக் காட்டப்பட்டது. மேலும், "ஷாள் ஏ: சா ரிகரிசி" என்றும் தெரிவிக்கப்பட்டது. 
-
-மேலும், 
-
-"नैव शक्त्या विना कश्चित् शक्तिमान् अस्ति कारणम् । 
-
-न च शक्तिमता शक्तिर्विना काऽप्यवतिष्ठते ॥' 
-
-என்றும் காட்டப்பட்டது. இவைகளை நன்கு ஆராய்ந்தால் பிராட்டிக்கு உபாதான காரணத்வம் நன்கு தெரியவரும் ज्योत्स्नेव हिमदीधितेः குளிர்ந்த கிரணங்களை உடைய சந்த்ரனுக்கு நிலவைப்போன்று \- லக்ஷ்மி எம்பெருமானை விட்டுப் பிரிந்து இருக்கமாட்டாள் \- என்று காட்டப்பட்டது. இப்படி லக்ஷ்மிக்கு ஜகத்காரணத்வம் \- மோக்ஷப்ரதத்வம் \- முதலான பகவத்தர்மதர்மிணீத்வம் தெரிந்தபடியால் இருட்டைப் போக்குவது மனம் முதலானவைகளை குளிரவைப்பது முதலான சந்த்ரகதங்களான தர்மங்களைப் போன்று தார்ஷ்டாந்திகத்திலும் பூர்வபக்ஷிகள் கூற்று \- நேரில்லை. 
-
-"योऽसौ नारायणो देवः परमात्मा सनातनः । अहम्भावात्मिका शक्तिस्तस्य तद्धर्मधर्मिणी ॥ ताविमौ एकधेवाक्तौ भेद्य\-भेदकभावतः । 
-
-पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ ॥"   
-காட்டியபடியால் 
-
-என்று கீழே எடுத்த வசனத்தில் ஸ்பஷ்டமாக   
-—   
-பகவானின்   
-\- 
-
-—   
-அஹம்பாவம் என்கிற சக்தியானவளே பிராட்டி. அவள் எம்பெருமானுக்கு என்ன என்ன தர்மங்கள் உண்டோ அவ்வளவையும் இவளும் கொண்டவள், இவர்களை இவர்கள் செய்யும்   
-செய்யும் செயலைக்கொண்டு ஒருவராகவும், 
-
-156   
-लक्ष्म्युपायत्वदीपः 
-
-தனித்தும்   
-விசேஷண\-விசேஷ்யபாவத்தைக் கொண்டு சாஸ்த்ரங்களில் இந்த ஜகத்துக்கு காரணமானவர்களாகச் 
-
-சொல்லப்பட்டது   
-\-   
-என்று ஸ்பஷ்டமாக ப்ரமாணம் 
-
-காட்டப்பட்டது. 
-
-எம்பெருமானின்   
-தர்மங்களாவன 
-
-தனது   
-ஸர்வாதாரமாயிருப்பது, எங்கும் எதிலும் எப்போதும் பரவி இருப்பது. எல்லா சேதனாசேதனங்களையும் கட்டுப்பாட்டில் வைத்திருப்பது, இவருக்கு நிகர் யாருமில்லாதபடி நிரதிசயமான ஒளிபொருந்தியிருப்பது, பரமாத்மாவாக இருப்பது, இவ்வுலகனைத்துக்கும் காரணமாய் அமைவது இவையாவும் பிராட்டிக்கும் உண்டு.   
-இது 
-
-\-   
-முதலானவைகள். 
-
-1 
-
-\-   
-ह वै ா என்று ஜகத்காரணம் நாராயணன் ஒருவனே என்றதைப்போல் \- 384q and s4 Yq\-if- fவு என்று உள்ளது. காற்று எங்கும் பரவி விரவி வருவதைப்போல் நான் (பிராட்டி) எல்லா உலகையும் ஸ்ருஷ்டிக்கத் தொடங்கி வீசிவருகிறேன் என்றதைக் காண்க. 4 fai\-4 35   
-அந்த பரமாத்மாவை புருஷஸூக்தாதிகளில் தெரிவித்தபடியே எவன் நன்கு அறிந்து உபாஸனமோ \- சரணாகதியையோ செய்கிறானோ அவன் இதே ஜன்மத்தின் முடிவில் மோக்ஷமடைகிறான் என்று பகவானைப் பற்றியது. அதேபோல்   
-श्रियं वसाना अमृतत्वमायन् பெரியபிராட்டியை எங்கும் வஸிப்பவள் என்பதை எவர்கள் உள்ளபடி அறிந்து உபாயம் அநுஷ்டிக்கிறார்களோ- அவர்கள் மோக்ஷம் அடைகிறார்கள் என்று உள்ளது. பிராட்டிக்கு உபாயத்வம் ஒப்பவில்லையாகில் \- இதைப்போன்ற பல வசனங்களுக்கு விரோதம் வரும். பகவான் எப்படி ஜ்ஞான\-சிகீர்ஷா- ப்ரயத்னாதிகளைக் கொண்டு ஒரு   
-செயலைச்செய்து   
-\- 
-
-முடிக்கிறாரோ   
-1   
-\- 
-
-அப்படியே பிராட்டியும் என்பது கீழே 
-
-157   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-காட்டப்பட்டது. 
-
-பரமசேதனனானபடியால்   
-லஷ்மியானவள் 
-
-ஸங்கல்பாச்ரயமாய்   
-நின்று 
-
-உபாயமாகிறாள் \- எம்பெருமானின் கல்யாணகுணங்களும், திருமேனி முதலானவைகளும் அசேதனமானபடியால் ஸங்கல்பாச்ரயமில்லை. இவ்வளவே வேற்றுமை. 
-
-(ल. उ. दी) यदपि " चरणाविति विशेषोक्तिबलादेवे”त्यारभ्य, “लक्ष्मीपरत्वे नियामकानुपलब्धेरित्यन्तेनाभिहितम् \- तदपि श्रीमदिति विशेषोक्तिवैयर्थ्यस्य शुभाश्रयत्वेनैव स्वरूपनिरूपकत्वेन विद्यालम्बनत्वस्य "लक्ष्मीं च माम्" इत्युभयोक्तेश्च लक्ष्म्युपायत्वप्रतिपादकप्रमाणान्तरानुगुणस्य च समत्वाद् विग्रहवैलक्षण्योपपादना\-सम्भवात् निरस्तम्। एकशब्दस्य व्यवच्छेदपरत्वेऽपि लक्ष्मीविशिष्टातिरिक्तशरण्यत्व\-व्यवच्छेदपरत्वस्योक्तत्वात्, गवादिशब्दानां स्वरूपनिरूपकधर्मभूत\-गोत्वादिविशिष्टपरत्व   
-इव 
-
-भगवत्स्वरूपवाचिशब्दानामपि तथाभूतलक्ष्मीविशिष्टपरत्व एव स्वारस्यात्, "लक्ष्मीं च मां सुरेशेश " "मामेकं च श्रिया युक्तम्" इत्यादिप्रमाणसहस्र- 
-
-सत्त्वात्,   
-अहं मामित्यादेरपि स्वरूपनिरूपकाहन्ताविशिष्ट\-परत्वस्य न्याय्यत्वात् स्वरूपमात्रपर्यवसायित्वस्यौत्सर्गिकत्वासिद्धेश्च, 'अहं मनुरभवं 
-
-सूर्यश्च'   
-इत्यत्रापि   
-अपृथक्सिद्धविशेषणवाचिनां 
-
-विशेष्यपर्यन्तत्वव्युत्पत्तिबलादेव   
-जीवविशिष्टपरमात्म\-परत्वस्य 
-
-भाष्यादावुक्तत्वाद्बाधकमात्रप्रयुक्तत्वासिद्धेश्च   
-विशिष्टपरत्वाभावे 
-
-विशिष्टोपायत्वपरानेकप्रमाणविरोधरूपवाधकसत्त्वाच्च ।   
-"ननु 
-
-एकशब्दस्यानेकार्थसम्भवेने " त्यारभ्य " न चात्र बाधकमुपलभ्यते" इत्यन्त- 
-
-शङ्कासमाधानपरग्रन्थो निरस्तः । 
-
-(ல.க) பூர்வபக்ஷி "चरणौ इति   
-—   
-विशेषोक्तिबलादेव" 
-
-GgITL\_ii\], "लक्ष्मीपरत्वे नियामकानुपलब्धेः " नळाला   
-rml 
-
-g 
-
-ஏதேதோ ஸம்பந்தமில்லாமல் கூறினார். அதவ்வளவும் ஜிHd 
-
-158   
-लक्ष्म्युपायत्वदीपः 
-
-என்ற காட்டியதால்.   
-விசேஷோக்தி வ்யர்த்தமாகிவிடும்   
-1   
-என்று 
-
-ஸித்தாந்தம்   
-\-   
-AU\<H\= மங்களங்களுக்கு இருப்பிடமான 
-
-பகவானின் திருமேனி   
-\-   
-பிராட்டியுடன் கூடியிருந்தாலே 
-
-யும்- என்று நம்   
-நம் ஸம்ப்ரதாயத்தில் 
-
-ஒப்பியபடியால் 
-
-பகவத்ஸ்வரூபநிரூபக   
-அனைவரும் 
-
-லக்ஷ்மிஸம்பந்தம்   
-என்பது 
-
-ஸம்பந்தம்   
-என்பது 
-
-ஸித்தாந்தமானபடியாலும், " uj \[:1   
-புஜிக4 அகலின்சி" \[இதை கீழே 
-
-விளக்கியாயிற்று) 
-
-ஸ்பஷ்டமாக 
-
-அலைதாடி   
-என்று உபாயமாக இருவரையும் 
-
-ப்ரமாணங்கள் 
-
-\-   
-காட்டுவதாலும் 
-
-\-   
-விக்ரஹத்தைவிட லஷ்மிக்கு வைலக்ஷண்யம் காட்ட முடியாது. hH என்ற சொல் \- லக்ஷ்மியைத் தவிர்ந்து வேறு ஒருவரும் எம்பெருமானைத் தவிர உபாயம் இல்லை என்பதைக் காட்டவே வந்தது. : என்ற சொல் \- எப்படி கொம்பு\-வால்\-நான்குகால்கள் முதலானவைகளுடன் கூடிய ஒரு ஜந்துவைச் சொல்லுமோ அப்படியே NH என்ற சொல்லும் பிராட்டியை கூறும். "சாசிக் च श्रिया युक्तम् भक्तियुक्तो नरोत्तमः । द्वयेन मन्त्ररत्नेन मत्प्रियेण सदा भजेत् ॥" என்ற வசனங்கள் பூர்வபக்ஷிக்கு ஒட்டாதவை. அத் புரூவு सूर्यश्च नळालीİऊन अपृथक्सिद्धविशेषणवाचिनां विशेष्यपर्यन्तत्वम् என்று ஸ்ரீபாஷ்யாதிகளில் முடிவு செய்ததற்கு – நாங்கள் கூறியபடி பொருள் கொண்டதே தகும். 
-
-"73   
-இப்படி நிரூபணம் செய்தபடியால் க\-க" என்று தொடங்கி, "" 
-
-என்பதுவரையில் 
-
-பொருத்தமில்லாத வாதம்.   
-பூர்வபக்ஷி   
-தெரிவித்ததும் 
-
-159   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-(ल.उ.दी)   
-यच्च "किञ्चे" त्यादिना   
-अपृथक्सिद्धविशेषणवाचिनां 
-
-विशेष्यपर्यन्तत्वस्य वेदान्तव्युत्पत्तिसिद्धत्वेऽपि सर्वविशेष्यभूत- भगवत्स्वरूपवाचिनां विशेषणभूतलक्ष्मीपरत्वं नोपपद्यत इत्युक्तम्। तच्च 
-
-"अहन्ता   
-ब्रह्मणस्तस्य   
-साहमस्मि   
-सनातनी" 
-
-इत्यादिप्रमाणानुसारेणाहन्तारूपलक्ष्मीपरत्वस्य अहं, माम् इत्यादौ भगवत्स्वरूपपरेऽपि "नागृहीतविशेषण" न्यायसिद्धत्वात्, शब्दस्य निर्विशेषप्रमाणभावं पराकुर्वद्भिस्सत्यज्ञानादिशब्दानां सत्यत्वादिविशिष्टपरत्वं वददुभिश्च भाष्यकारैस्सूचितत्वाच्च निरस्तम् । न च लक्ष्या भगवदहंप्रतीतौ विषयत्वं वदता स्वरूपज्ञानविषयत्वोक्तौ स्वरूपैक्यापत्तिः स्वरूपस्य स्वमात्रविषयकत्वात्, 
-
-भगवत्स्वरूपरूपज्ञानगम्य- 
-
-स्वरूपज्ञानविषयत्वस्य   
-धर्मभूतज्ञानमात्रविषयत्वोक्तौ, 
-
-भगवदहन्तारूपत्वायोगादिति वाच्यम्। स्वरूपातिरिक्ताहन्तायां व्यभिचारितया 
-
-तदैक्यापादकत्वासम्भवात्, स्वरूपस्य स्वमात्रविषयकत्वासिद्धेश्च । न चाहन्ताया अहंस्वरूपत्वं सुवचम्,   
-मामेकमिति 
-
-सामानाधिकरण्यभङ्गप्रसङ्गात्, "भिन्नप्रवृत्तिनिमित्तानां शब्दानामेकस्मिन्नर्थे वृत्तिस्सामानाधिकरण्यम्" इति ह्युक्तम् । अन्यथा अखण्डार्थवादी विजयी स्यात्। अतो न वचनानाम् लक्ष्म्या अहन्तारूपपराणामन्यथाकरणं युक्तम्। न चैवं स्वरूपस्य   
-सर्वविषयकत्वप्रसङ्गः, 
-
-स्वस्वाहन्ताव्यतिरिक्तविषयत्वाभावनियतत्वात्।   
-स्वरूपज्ञानस्य 
-
-(0.5) कना: Gugri, अपृथक्सिद्धविशेषणवाचिनां विशेष्यपर्यन्तत्वम् 
-
-என்பது வேதாந்திகள் ஒப்பினார்கள் 
-
-எல்லாவற்றிற்கும்   
-விசேஷ்யமாய் 
-
-பகவத்ஸ்வரூபவாசிகளான   
-சொற்கள்   
-ஆயினும் 
-
-இருக்கும் 
-
-लक्ष्मी 
-
-முதலானவர்களையும் சொல்லும் \- என்பது பொருந்தாது \- 
-
-Tml. 
-
-160   
-लक्ष्म्युपायत्वदीपः 
-
-இதற்கு பதில் வருமாறு "3áவு Hri"என்பன போன்ற ப்ரமாணங்களைக் கொண்டு அஹந்தா என்பது லஷ்மியே \- என்று முடிவானபோது அ அ5, HI4 என்ற சொற்கள் \- " fரிஜ் அாரி" என்ற ந்யாயப்படி \- நிர்விசேஷ ப்ரம்ஹத்தைக் கூறவல்லதில்லை \- என்று ஸ்ரீபாஷ்யகாரர் ஸ்ரீபாஷ்யத்தில் நிர்த்தாரணம் செய்தபடியால் \- இது தகாது. 
-
-—   
-பகவானின் அஹம் என்கிற ஜ்ஞானத்தில் லக்ஷ்மிதேவிக்கு விஷயத்வம் \= இலக்காக இருப்பது உண்டு என்று ஸித்தாந்திகள் கூறுவது உண்மையாயின் 
-
-லக்ஷ்மிஸ்வரூபமும் ஒன்றாகிவிடுமே? 4 di\= ஒரேதத்துவம் போன்று விளங்கி வருகிறார்கள்   
-நாராயண   
-ஸ்வரூபமும் 
-
-\-   
-\-   
-என்று உள்ளதே தவிர ஸ்வரூபைக்யம் நாம் ஒப்பவில்லையே \- என்று கேள்வி எழ \- இதற்கு பதில் வருமாறு:-   
-44 என்பது \- 
-
-பகவத்ஸ்வரூபத்தைவிட வேறான அஹந்தா என்பதைக் கூறும். அது பரஸ்பரம் ஐக்யத்தைக் காட்டாது. அஹந்தையே அஹம் ஸ்வரூபம் \- என்று கூறமுடியாது. HIH h4 என்று ஸாமாநாதிகரண்யத்துக்கு இடையூறு வருமே. भिन्नप्रवृत्तिनिमित्तानां शब्दानामेकस्मिन्नर्थे वृत्तिस्सामानाधिकरण्यम् p ஸாமாநாதிகரண்யத்துக்கு இது சேராதே. பூர்வபக்ஷி अखण्डार्थवादी என்னப்பட்ட அத்வைதியே வெல்வான். ஆகவே லஷ்மிக்கு "பகவானின் அஹந்தை இவள்” என்பதைக்   
-இப்படி 
-
-காட்டும் வசனங்களுக்கு 
-
-கோணல்மாணலாக விளக்கம் 
-
-ஸ்வரூபஜ்ஞானமாவது   
-1   
-கூடாது.   
-தருவது स्वस्वाहन्ताव्यतिरिक्तविषयत्वाभावनियतम् 
-
-ஆயிற்றே. 
-
-(3.3.2) 31447 Hது5: 
-
-161   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-(ரூ.3.c) 31447 45: 
-
-स्वारस्यं सर्वशब्दानां निरूपकसमन्विते । 
-
-बाधकं चेत् क्वचित् तस्य परित्यागो न सर्वतः ॥ १ ॥ अतश्च चरमश्लोके मामहं \- पदयोरपि । विशिष्टपरतासिद्धबाधाभावोपपादनात्॥२॥ साधकानां समावेशाद् युक्तं तत्कल्पनं बुधैः । अनन्यपरताशालिप्रमाणशतसम्मतम्॥३॥ उपायत्वादिकं लक्ष्म्या बाधाभावेन सुस्थितम् । 
-
-न शक्यतेऽन्यथाकर्तुं नेष्यते च बुधोत्तमैः ॥ ४ ॥ 
-
-(ல.க) இது இங்கு ஸங்க்ரஹமாகக் காட்டப்படுகிறது :\- 
-
-स्वारस्यं सर्वशब्दानां निरूपकसमन्विते। 
-
-बाधकं चेत् क्वचित्तस्य परित्यागो, न सर्वतः॥ 
-
-\[எல்லா சொற்களுக்கும் அததை நிரூபணம் செய்ய முற்பட்டவைகளுடன் கூடிய அமைப்பில் ஸ்வாரஸ்யம் 
-
-தடைபடுமேயாகில்   
-—   
-சில ஒரு   
-இடங்களில் அதை 
-
-விட்டுவிடுவதும் உண்டு. எல்லா இடத்திலும் இப்படி 
-
-இல்லை.\] 
-
-3d2 4Üக '44', 'பு 
-
-विशिष्टपरतासिद्धबाधाभावोपपादनात् ॥ 
-
-साधकानां समावेशाद् युक्तं तत्कल्पनं बुधैः । 
-
-*1*   
-இரு   
-(ஆகவே சரமசுலோகத்தில் 414 364 என்ற இ சொற்களுக்கும்   
-பெரியபிராட்டியுடன்   
-கூடிய 
-
-பரமாத்மாவைத் தெரிவிப்பதில் எந்த விதமான பாதகமும் இல்லை – என்று இத்தனைபோதாய் காட்டியபடியாலும், பிராட்டியையும் சேர்த்து அநுஸந்திப்பதில் ஸாதகமான ப்ரமாணங்களைக் காட்டியபடியாலும், பிராட்டிக்கும் 
-
-162 लक्ष्म्युपायत्वदीपः 
-
-உபாயகோடியில் தொடர்பு உண்டு   
-\-   
-என்பதாக 
-
-வித்வான்கள் காட்டியது மிகவும் பொருத்தமானதே.\] 
-
-अनन्यपरताशालि प्रमाणशतसम्मतम्॥ 
-
-उपायत्वादिकं लक्ष्म्या बाधाभावेन सुस्थितम्। 
-
-न शक्यतेऽन्यथा कर्तुं, नेष्यते च बुधोत्तमैः॥ 
-
-நிர்வாஹம்   
-\[வேறுவகையில் நூற்றுக்கணக்கான   
-பண்ணமுடியாத 
-
-ப்ரமாணங்களால் 
-
-ஒத்துக்கொள்ளப்பட்டதும், தடையேதுமில்லாத படியால் நன்கு நிலைநாட்டப்பட்டதுமான பெரியபிராட்டியாரின் மோசேஷாபாயத்வம், ஜகத்காரணத்வம், அந்தர்யாமினீத்வம் முதலானவைகளை வேறுவிதமாக இல்லை என்று சொல்லமுடியாது. அதை பண்டிதர்களும் ஒப்பமாட்டார்கள்.\] 
-
-(ल.उ.दी) यच्चोक्तं "श्रियं लोके देवजुष्टामुदाराम्" इत्यत्र " तत्तदधिकारिविशेषं प्रती" त्यादिना 
-
-दापयितृत्वमौदार्यमित्येतद्वर”मित्यन्तेन;   
-"अप्रतिषेधमात्रमौदार्यमित्यपेक्षया 
-
-तच्च   
-उदारामिति 
-
-पदश्रुतेरनवच्छिन्नविषयायास्सङ्कोचे मानाभावात्, "सर्वकामप्रदां रम्यां संसारार्णवतारिणीम्। क्षिप्रप्रसादिनीं लक्ष्मीं शरण्यामनुचिन्तयेत्" इत्यादिस्वायम्भुवादिवचनैरसङ्कुचितविषयतयोपबृंहितत्वात्, "ऐश्वर्यमक्षरगतिं परमं पदं वा कस्मैचिदञ्जलिभरं वहते वितीर्य । अस्मै न किञ्चिदुचितं कृतमित्यथाम्ब त्वं लज्जसे कथय कोऽयमुदारभावः॥" इत्यभियुक्तैस्तथैव व्याख्यातत्वाच्च, "श्रेयो न ह्यरविन्दलोचनमनःकान्ताप्रसादादृते संसृत्यक्षरवैष्णवाध्वसु नृणां सम्भाव्यते कर्हिचित्" इति यामुनाचार्यैर्व्यतिरेकमुखेन सर्वविषयत्वस्य स्थिरीकृतत्वाच्च, उदारशब्दस्य वितीर्येत्यनेन दातृत्वपरतयैव व्याख्यानात्, दापयितृपरत्वे नानाशक्तिकल्पनागौरवात्, दाता न दापयति, दापयिता न दत्त इति 
-
-163   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் दातृत्वदापयितृत्वयोरनियतत्वेन दातृतारूपौदार्याभावेऽपि दापयितृत्वसम्भवात् लुब्धे दापयितृत्वाभावस्य लोभातिशयव्यापकतयाप्युपपत्तेश्च अनेकस्वामिकस्य दाने तेषां परस्परं सम्मतिरूपानुमन्तृत्वेऽपि दातृत्वानपायवत् सर्वस्वामिन्या साक्षात्परम्परासाधारणदातृत्वार्थकोदारशब्देन 
-
-लक्षणदापयितृत्वक्रोडीकारेऽपि 
-
-बाधकाभावात्   
-लक्ष्म्या अपि   
-दातृत्वानपायात्, 
-
-परम्परादातृता- 
-
-तदुभयस्यासङ्कोचेन लक्ष्म्यामङ्गीकारे 
-
-साधकोपन्यासाच्च। 
-
-"मोक्षयिष्यामि"   
-उदारशब्दस्याप्रतिषेधरूपानुमन्तृत्वार्थकत्वानङ्गीकारात्, 
-
-इतिवत् "भवेयं शरणं हि व" इति लक्ष्म्या अपि रक्षणसङ्कल्परूपव्यापाराश्रयत्वप्रतीतेश्च निरस्तम् । 
-
-\- 
-
-—   
-(60.5) श्रियं लोके देवजुष्टामुदाराम् rural 2 न ूंņ சொல் அந்தந்த அதிகாரிகள் விஷயத்தில் எம்பெருமான் கொடுக்கத் திருவுள்ளம் பட்டபோது தான் தடுப்பதில்லை अप्रतिषेधमात्रम् औदार्यम् என்பதைவிட, दापयितृत्वम् கொடுக்கவைப்பது என்பதே கருத்து பூர்வபக்ஷிகளின் கூற்று.   
-—   
-என்று 
-
-:\- অ। mfm उदाराम् | अनवच्छिन्न LDITOOT \= 
-
-தடையேதுமில்லாத 
-
-ஸங்கோசப்படுத்திப்   
-சொல்லை 
-
-பொருள்   
-இப்படி கொள்வதில் 
-
-ப்ரமாணமில்லை. 
-
-“सर्वकामप्रदां रम्यां संसारार्णवतारिणीम् । 
-
-क्षिप्रप्रसादिनीं लक्ष्मीं शरण्यामनुचिन्तयेत् ॥” 
-
-என்ற ஸ்வாயம்புவ வசனத்தில் \- \[பிராட்டி யார் எதை விரும்பினாலும் அதை அருள்பவள், ஸம்ஸாரமாகிற கடலை தாண்டவைத்து மோக்ஷம் அருள்பவள், எம்பெருமானையும் விட விரைவாக நமக்கு ப்ரஸாதமாய் ஸேவையாவாள், நாம் சரணாகதி செய்ய உகந்தவள் \- இத்தகைய ஸ்ரீலக்ஷ்மியை 
-
-164   
-लक्ष्म्युपायत्वदीपः 
-
-எப்போதும் தியானித்து வரவும்\] ஸர்வபலங்களையும் இவள் அருள்பவள் என்பது ஸ்பஷ்டமாகிறதே. இதையே, "ऐश्वर्यमक्षरगतिं परमं पदं वा कस्मैचिदञ्जलिभरं वहते वितीर्य । अस्मै न किञ्चिदुचितं कृतमित्यथाम्ब त्वं लज्जसे कथय   
-என்று 
-
-दापयति   
-\-   
-ஸ்ரீபராசரபட்டர் ஸ்ரீகுணரத்னகோசத்தில் (சு.58) இந்த உதாராம் என்பதை விரிவாக விளக்கியுள்ளதைக் காணவும், ஸ்ரீமத் ஆளவந்தாரும் "ஜுன் 4:CTE ziqrqwan " என்று இதையே \= ஸகலபலங்களையும் பிராட்டி தாமாகவே அருள்பவள் என்பதை அருளினார். இங்கு ளிங்களன்பு அருளினார். பட்டர் அபுபுளி \- என்பதே விசேஷம். ஆரியில் உள்ள 3æri என்பதற்கு A என்று   
-ArÀ என்று ஸ்ரீபட்டர் உரையிட்டதை 
-
-கவனிப்பது.   
-என்று பொருள் கொண்டால் \-ளிகளான iம் ஏற்படும். கொடுப்பவன் கொடுக்கச் செய்வதில்லை. கொடுக்கச்செய்பவன் தான் நேராகக் கொடுப்பதில்லை என்பதை உலகில் கண்டோம். கருமி எதையும் எப்போதும் ஒருவருக்கும் கொடுப்பதில்லை. ஒரு பொருளுக்கு அனேகர் ஸ்வாமிகளாயிருக்குமிடத்தில் \- கொடுப்பது ஒருவராயினும் ஒருவருக்கொருவர் ஸம்மதி என்ற 31zHjGH கொடுக்கலாம் என்ற ஒப்புதல் இருக்கிறபடியால் qld\~H எல்லோருக்கும் வருகிறது. "7≥sfq HUA $I\<H ஜிள்: சக" என்பன போன்ற ப்ரமாணங்கள் பிராட்டியையும் எல்லா ஸொத்துக்கும் உடையவளாகக் காட்டியபடியால் \- Hell ஆகவும்,   
-\-   
-— 
-
-ஆகவும் இவளுக்கு ஸர்வஸம்பத்ப்ரதாத்ரீத்வம் தகும். சாரியரிசி என்று எம்பெருமான் அருளியதைப் போன்று, பிராட்டியும் புēj≥ \>பு: என்று அருளியபடியால் 
-
-புஸ்பஷ்டமாகத் தெரிகிறதே\! 
-
-165   
-\-   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-तु 
-
-च   
-(ल.उ.दी) वस्तुतस्तु केवलदातरि दापयितृपदप्रयोगाभावात्, केवलं दापयितरि दातृपदप्रयोगाभावाच्च परम्परादातृत्वं दापयितृत्वादन्यदेव । तद्धि देयद्रव्यस्वामित्वे सति स्वाधीनदातृताकप्रेरकत्वम् । यथा सर्वेश्वरस्याग्नीन्द्रादिद्वारा सांसारिकफलदातृत्वम्, दापयितृत्वं दातृप्रेरकमात्रम्। तच्च राजप्रेरके राजान्तरङ्गे दृष्टम्। तत्र दातृशब्दप्रयोगाभावान्नोदारशब्देन तदभिधानसम्भवः । परम्परया दातरि दापयितृशब्दप्रयोगस्तु दातृप्रेरकत्वसत्त्वमात्रेण, न तु तस्यैव दापयितृत्वरूपत्वेन। तथा सति तथाभूते राजान्तरङ्गे दापयितृप्रयोगो न स्यात्। तस्मादुदारशब्दस्य दातृवाचित्वमेव, न दापयितृवाचित्वमिति निरवद्यम्। अत एव   
-"कामवत्साऽमृतं दुहाना" इत्यारभ्य “अनेकार्थप्रतीत्यपेक्षायामतिगौरव”मित्यन्तं निरस्तम्। उक्तरीत्या लक्ष्म्या अपि मोक्षादिप्रदानकर्तृत्वसिद्धेः, प्रमाणसम्प्रतिपत्तिसत्त्वेन तदसम्प्रतिपत्तेरप्रयोजकत्वात् "कामवत्साऽमृतं दुहाना" इति रूपकाभेदाध्यवसायाभ्यां लक्ष्म्या धेनुत्वेन रूपणाद्धेन्वा वत्ससाधनकक्षीरकर्मकदोहनकर्तृत्ववत्,   
-सङ्कल्पप्रभृति- कल्याणगुणसाधनमोक्षकर्मकदानकर्तृत्वस्यैव स्वरसतः प्रतीतेश्च दुहाना दधात्वित्यत्र प्रकृत्योर्दानलक्षकत्वस्यैवोचितत्वात् दातृप्रेरणाख्यपुरुषकरण- व्यापारलक्षणाया अनेकपदार्थसापेक्षतयाऽतिगौरवेणानुचितत्वाच्च ।   
-उदारपदश्रुत्या 
-
-(0.5) 2ग दातृत्वम् \= or gopra கொடுப்பது வேறு. பிறரைக் கொண்டு தன்பொருளைக் GairG is maiiugi दापयितृत्वम् wirit 95 GarG कंक कं 
-
-&।।1&pr 
-
-என்பதில்லை.   
-\- दापयितांur \- दाता देयद्रव्यस्वामित्वे सति स्वाधीनदातृताकप्रेरकत्वम् 
-
-166   
-लक्ष्म्युपायत्वदीपः 
-
-என்பது 1994| கொடுக்கப்படும் பொருளுக்கு தான் ஸ்வாமியாயிருப்பதுடன், யார் கொடுக்கிறாரோ   
-—   
-அவரை தனக்கு அதீனராக ஆக்கி \- தன்சொல்படி கேட்கவைத்து கொடுக்கவைப்பது   
-என்பதுவே தாபயித்ருத்வம். ஸர்வேச்வரன் – அக்னி இந்த்ராதிகளைக் கொண்டு அந்தந்த யாகத்தின் பலனை அருளும் போது இதை உணரலாம். கார்யஸ்தரைக் கொண்டு அரசன் ஒருவருக்கு வெகுமதிப் பொருட்களைக் கொடுப்பதிலும்   
-கொடுப்பது 
-
-ராஜாந்தரங்கனாயினும்   
-\- 
-
-ராஜாவையே தாதாவாகக் கொள்வது இதைக் கொண்டே. ராஜாந்தரங்கரை 3q: என்று ஒருவரும் சொல்வதில்லை. ஆகவே 3qi என்ற சொல் Hidiவையே சொல்லும், வைக் கூறாது. ஆகவே ச்ருதிக்கு பிராட்டியை காட்டுவதிலேயே நோக்கம்.   
-ஸர்காமப்ரதா   
-என்று 
-
-காHqcHdக என்ற ச்ருதியிலும் \- லக்ஷ்மியை கறவைப் பசுவைப் போன்று ரூபணம் பண்ணி தாய்பசு   
-— 
-
-எப்படி   
-வத்ஸம் \= 
-
-பாலைப்பொழிகிறதோ   
-கன்றுகுட்டி அப்படி பிராட்டி தான்   
-பிழைக்க 
-
-— 
-
-ஸங்கல்பம் கொண்டு \- ஜீவர்களுக்கு கல்யாணகுணங்களை அதற்குப் பலமான மோக்ஷம் அருள்வது   
-அருளி 
-
-வரையிலும் அருள்கிறாள்   
-என்பதே ஸ்வரஸமாய் 
-
-ஏற்படுகிறது. FHIFI, ad என்ற திஙந்தத்தில் ப்ரக்ருதியான ang:, a g: என்ற இரண்டும் தானத்தைக் காட்டுகின்றன என்பதே தகுந்த பொருளாகும். "தாதாவான பகவானை தூண்டி விடுகிறாள்" என்று பொருள் கொள்வது \-கqqqqn   
-aணமாகும், தகாது. 
-
-(ल.उ.दी) नन्वस्य वाक्यस्य लक्ष्मीमात्रपरत्वे असाधारणचिह्नदर्शनाद्भूमिपरत्वं वा किं न स्यात्, प्रत्युत "विश्वस्य भर्त्री जगतः प्रतिष्ठा" इति विश्वम्भरत्वादेः 
-
-167   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-प्रत्यभिज्ञानात् पृथिव्यभिमानिदेवतायाः भूम्या एव प्रतिपादनं युक्तमित्युक्तमिति चेन्न, "ईशाना देवी भुवनस्याधिपत्नी" इत्युत्तरवाक्ये सर्वनियन्तृत्व\-भगवन्महिषीत्व\-भुवनाधिपत्यलिङ्गैर्लक्ष्मीपरत्वनिश्चयसम्भवात्। न चैषां लक्ष्म्यामसम्भव इतरपत्नीसाधारण्यं वा शक्यशङ्कम्, "तमीश्वराणां परमं महेश्वरम्", "सर्वेश्वरेश्वरः कृष्णः" इत्यादिभिर्भगवत इव "ईश्वरीं सर्वभूतानां तामिहोपह्वये श्रियं", "सर्वैश्वर्यगुणोपेता नित्यं तद्धर्मधर्मिणी", "तथापि   
-श्रीश्रीशयोद्वै च सदैकशेषी", "पुंस्प्रधानेश्वरेश्वरी", "ऐश्वर्यशीलाद्यनवधिकातिशयासंख्येयकल्याणगुण-   
-साधारणमीशितृत्वं 
-
-गणाम्", "शेषशेषाशनादिसर्वं परिजनं भगवतस्तत्तदवस्थोचित- परिचर्यायामाज्ञापयन्त्या", "भगवति ब्रूमः कथं त्वां वयम्" "यस्यास्ते महिमानमात्मन इव त्वद्वल्लभोऽपि प्रभुर्नालं मातुमियत्तया निरवधिं नित्यानुकूलं स्वतः", "देवि त्वन्महिमावधिर्न हरिणा नापि त्वया ज्ञायते", "स्वाभिमतस्वानुरूपस्वरूपरूपगुण\-विभवैश्वर्यशीलाद्यनवधिकमहिममहिषी" इत्यादिभिर्लक्ष्म्या अप्यनवधिकातिशयैश्वर्यस्यावगमात् । न चैवं "न तत्समश्चाभ्यधिकश्च दृश्यते" इतीश्वरस्य निस्समाभ्यधिकत्वं भज्येतेति वाच्यम्, "ह्रीश्च ते लक्ष्मीश्च पत्न्यौ", "अप्रमेयं हि तत्तेजो यस्य सा जनकात्मजा" इति श्रुतितदुपबृंहणाभ्यां अनवधिकातिशयमहिमयुक्त- लक्ष्मीपत्नीकत्वनिबन्धनमस्य निस्समाभ्यधिकमहिमत्वमिति स्थापनात् तद्विरोधानवकाशात्। एतच्चाचार्यैर्गद्यत्रयभाष्येऽभिहितम् "यथा प्रभागुणोत्कर्षे भास्करो निस्समाधिकः। श्रीमानपि तथैव स्यात् पतिः पत्नीगुणोन्नता "विति । एतच्च न भूम्यादिसाधारणम्, तस्य तद्गततया यामुनाचार्य भाष्यकार- श्रीवत्साङ्कमिश्रभट्टारकप्रभृतिभिराचार्यैरनभिधानात् प्रत्युत "अस्या मम च शेषं हि विभूतिरुभयात्मिका", "द्वौ च सदैकशेषी", "उभयाधिष्ठानं चैकं शेषित्वम्" इत्युभयाधिष्ठानैकशेषित्वसाम्राज्येन "सर्वमङ्गलदायिनी", "तव स्पर्शादीशं स्पृशति कमले मङ्गलपदं तवेदं नोपाधेरुपनिपतितं श्रीरसि यतः । 
-
-168   
-लक्ष्म्युपायत्वदीपः 
-
-प्रसूनं पुष्यन्तीमपि परिमळर्द्धिं जिगदिषुः न चैवंत्वादेवं स्वदत इति कश्चित् 
-
-कवयते", 
-
-"ऐश्वर्यं यदशेषपुंसि यदिदं सौन्दर्यलावण्ययो रूपं 
-
-यच्च हि मङ्गळं किमपि यल्लोके सदित्युच्यते। तत्सर्वं त्वदधीनमेव यदतश्श्रीरित्यभेदेन वा 
-
-यद्वा श्रीमदितीदृशेन वचसा देवि प्रथामश्नुते ॥" इत्याद्युक्तभगवदादिसर्वमङ्गलप्रदायित्वादिभिश्च, विष्वक्सेनं प्रति भगवतोक्ते 
-
-"तथा लक्ष्म्याः प्रभावं च शृणु वक्ष्ये समासतः। गुणतश्च स्वरूपेण व्याप्तिस्साधारणी मता ॥ यथा मया जगद्\-व्याप्तं स्वरूपेण स्वभावतः। तया व्याप्तमिदं सर्वं नियन्त्री च तथेश्वरी ॥ मया व्याप्ता यथा सापि तया व्याप्तोऽहमीश्वरः । मम तस्याश्च देवेश वैलक्षण्यमिदं शृणु ॥ मच्छेषभूता सर्वेषामीश्वरी मम वल्लभा । तस्याश्च जगतश्चाहमीश्वरो वेदविश्रुतः ॥ अस्या मम च शेषं हि विभूतिरुभयात्मिका । इति श्रुतिशिरस्सिद्धं मच्छास्त्रेष्वपि मानद ॥ तथा भूमिश्च नीळा च शेषभूते मतो मम। यथाऽऽत्मनां तु सर्वेषां ज्ञानतो व्याप्तिरिष्यते॥ 
-
-स्वरूपतस्तु न तयोर्ज्ञानतो व्याप्तिरिष्यते॥" 
-
-इति भगवच्छास्त्रे, "देवतिर्यङ्मनुष्येषु पुंनामा भगवान् हरिः । स्त्रीनाम्नी लक्ष्मीर्मैत्रेय नानयोर्विद्यते परम्" इति श्रीविष्णुपुराणे, **"**अनन्तनामधेया च शक्तिचक्रस्य नायिका" इति ब्रह्मपुराणे च "भोग्या वामपि नान्तरीयकतया पुष्पाङ्गरागैस्समं निर्वृत्तप्रणयातिवाहनविधौ नीताः परीवाहताम्। देवि त्वामनु नीळया सह मही देव्यस्सहस्रं तथा याभिस्त्वं स्तनबाहुदृष्टिभिरिव स्वाभिः प्रियं 
-
-169   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-श्लाघसे" इति श्रीगुणरत्नकोशे च "लक्ष्मींप्रियसखीं देवीं नमाम्यच्युतवल्लभाम्" इति सूक्ते च "लक्ष्म्यास्स्वरूपव्याप्त्या "दिभिश्च भूम्याद्याधिक्यस्य भूम्यादीनां लक्ष्म्यन्तरत्वतन्नियाम्यत्वतद्विभूतित्वादेश्च प्रतीतेः "अस्येशाना जगतो विष्णुपत्नी " इत्यादिभूम्यादिपरवाक्यानामपि लक्ष्मीविभूतिपरतया "आपो वा इद सर्वं विश्वा भूतान्यापः" इत्यादीनां भगवद्विभूतिपरतया भगवत्पर्यवसायित्ववत् लक्ष्मीपर्यवसायित्वावश्यंभावात् "अस्येशाना जगत इति तेऽधीमहे यां समृद्धिं" इति लक्ष्मीपरत्वप्रतिपादनाच्च ऐश्वर्यस्य न भूम्यादिसाधारण्यम्। "देवी कृताभिषेकायामितरासु तु भट्टिनी, कृताभिषेका महिषी भोगिन्योऽन्या नृपस्त्रियः" इति निघण्ट्वनुसारात् अत्रत्यदेवीशब्दस्य राजाधिराजभगवन्महिषीपरतया तन्महिषीत्वस्य च "प्रहर्षयन्तं महिषीं महाभुजम्", "देवदेवदिव्यमहिषीमखिलजगन्मातरम्", "श्रीरङ्गराजमहिषीं श्रियमाश्रयामः" इत्यादिभिर्लक्ष्म्यसाधारणतया अवगमात् भूम्यादिषु देवीशब्दस्य चौपचारिकत्वेन देवसम्बन्धिस्त्रीत्वेनोपपत्तेः। "अस्या मम च शेषं 
-
-विभूतिरुभयात्मिका"   
-हि 
-
-प्रागुदाहृतप्रमाणैर्लक्ष्म्यास्सर्वशेषित्वावगमवत्   
-इत्यादिभिः 
-
-भूम्यादेस्तदनवगमाच्च, 
-
-लक्ष्म्यसाधारणैस्सर्वेशानत्वभगवन्महिषीत्वसर्वशेषित्वैर्लिङ्गैः अस्य वाक्यस्य 
-
-लक्ष्मीपरत्वम् "आकाशस्तल्लिङ्गात्" इत्यधिकरणन्यायसिद्धम् अनवद्यम् । अत एव "विश्वस्य भर्त्री" इति विश्वाधारत्वस्य 'जगतः 
-
-जगल्लयस्थानत्वस्य च 
-
-"अहं मित्रावरुणौ आविभर्म्यहमिन्द्राग्नी अहमश्विनौ आ अहं सोममा ह सम्बिभर्म्यहं त्वष्टारमुत पूषणं भगम्", "व्यापिनी विष्णुरूपेण सर्वभावानुगामिनी । 
-
-अशेषभुवनाधारा सङ्कल्पप्रविजृम्भिणी । 
-
-प्रसुप्ताखिलकार्यं यत्सर्वतस्समताङ्गतम्। 
-
-नाराणामयनं ब्रह्म सर्वावासमनामयम् ।   
-प्रतिष्ठे'ति 
-
-170   
-लक्ष्म्युपायत्वदीपः 
-
-पूर्णस्तिमितषाङ्गुण्यमसमीराम्बरोपमम्। तस्य स्तैमित्यरूपा या शक्तिश्शून्यत्वरूपिणी । स्वातन्त्र्यादेव कस्माच्चित् क्वचिदुन्मेषमृच्छति।" इत्यादिप्रमाणपर्यालोचने लक्ष्म्यसाधारण्यप्रतीतेः ।   
-पृथिवीविश्वम्भरा- शब्दप्रयोगस्य शचीपत्यादिष्विन्द्रादिप्रयोगवत् सङ्कचितविषयत्वेनौ- पचारिकत्वाच्च न पृथिव्यभिमानिदेवतारूपभूमिपरत्वशङ्कावकाशः । "श्रद्धया देवो देवत्वमश्नुते" इत्यत्र श्रद्धाशब्दस्य लक्ष्मीपरत्वेन तत्त्वदीपिकाकारैरेव व्याख्यानात्। श्रीविष्णुपुराणे श्रीस्तुतौ च "त्वं सिद्धिस्त्वं स्वधा स्वाहा सुधा त्वं लोकपावनी।सन्ध्या रात्रिः प्रभा भूतिर्माया श्रद्धा सरस्वती" इति सिद्ध्यादिविभूतिमत्त्वेन लक्ष्म्यास्सिच्यादिशब्दवाच्यत्वस्य पर्यवसानप्रतीतेः। तेषां लक्ष्म्याममुख्यत्वेऽपि सिद्ध्यादीनां भूम्यादिविभूतित्वे मानाभावेन लक्षणयाऽपि लक्ष्मीप्रतिपादकत्वस्यैवोचितत्वाच्च 
-
-लक्ष्मीपरत्वमव्याहतम् । 
-
-(0.5) இந்த कामवत्सा अमृतं   
-प्रकरणस्य 
-
-दुहाना என்பது 
-
-Gufwgriqmww jngli Trumpg असाधारणचिह्नb\= 
-
-அடையாளம் காணப்படாதபடியால் பூமிதேவியைப் 
-
-பற்றியதாகவே இது இருக்கட்டுமே   
-6J60T 6T60fl60 \- "fa 
-
-भत्र जगतः प्रतिष्ठा" என்று மேலே तुकीला. 
-
-தேவதாரூபையாயிருந்து 
-
-உலகினற்கு நிலையான   
-உலகைத் தாங்குவதும், 
-
-இருப்பிடமாவதும் பூமியே 
-
-अंगpr? विश्वम्भरः नळा या क्रं की. 
-
-14 विश्वम्भरा नगp Guwir @ig विश्वम्भरा 
-
-என்ற சொல்லை விளக்கிக் காட்டி – 
-
-"वेधस्तृणावधि विहारपरिच्छदं ते विश्वं चराचरतया व्यतिभिद्यमानम् । 
-
-171   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-अम्ब\! त्वदाश्रिततया परिपोषयन्ती विश्वम्भरस्य   
-विश्वम्भरस्य दयिताऽसि 
-
-dcplIHTII" என்று பூஸ்துதியில் (சு.5) 
-
-ஸ்ரீநிகமாந்தமஹாதேசிகன்   
-அருளியதைக் காண்க. "பர் புச் புத்4" என்று பகவானை ச்ருதி காட்டியது. அதே போல் "நி   
-ன்" என்று பிராட்டியையும் காட்டியது. மேலும் "னி" என்று பிராட்டி துதிக்கப்படுகிறாள். IH என்று ஜீவவர்கத்தையும், gql என்று மூலப்ரக்ருதி \- அதன் உள்பிரிவுகளையும் எடுத்து, ईश्वर என்ற எம்பெருமானையும் காட்டி, இவர்களுக்கும் தலைவி என்பதாக ईश्वरीम् என்று ச்வேதாச்வதராதிகள் காட்டின, प्रधानक्षेत्रज्ञपतिः JUT≥:\- மூலப்ரக்ருதி என்ன (அதன் உட்பிரிவுகள் உட்பட), ஜீவர்கள் என்ன, இவர்களுக்குத் தலைவன் எம்பெருமான். மேலும், 
-
-அவன் 
-
-படைப்பவர்   
-\-   
-ஸத்துவ\-ரஜஸ்\-தமஸ்   
-என்ற முக்குணங்களையும் பத்தசேதன கர்மாநுரூபமாக ஆட்டிப் அல்லது \- அநந்த கல்யாணகுணங்களுக்கு இவர் இருப்பிடம் என்று ஈ\-அ\-ன் என்ற தத்துவத்ரயத்தை இந்த வாக்யம் விளக்கிக் காட்டியது. அதே போல் புÜளலி என்பதும்.   
-— 
-
-"நிவ எ ணி புன்" என்றபோது முதலில் கி: என்று பூமிப்பிராட்டியை எடுத்து விட்டு பிறகு கA என்றபடியால் अन्वाचयशिष्टः चकारः अप्राधान्यद्योतकः   
-\-   
-என்று பூர்வபக்ஷிகள் 
-
-கொண்டனர். அதை ஸித்தாந்திகள் ஒப்பவில்லை. 
-
-"देवतिर्यङ्मनुष्येषु पुंनामा भगवान् हरिः । 
-
-स्त्रीनाम्नी लक्ष्मीमैत्रेय\! नानयोः विद्यते परम् ॥” 
-
-என்று மஹர்ஷி விளக்கியருளிய படியும், "கள்ளி" என்று பாஞ்சராத்ரம் காட்டியபடியும், Ai तद्धर्मधर्मिणी இத்யாதிகளான பல நூற்றுக்கணக்கான 
-
-172 ப்ரமாணங்களை   
-அநுஸரித்தும்   
-लक्ष्म्युपायत्वदीपः 
-
-பிராட்டியின் 
-
-வ்யாபகத்வத்தை இசைய   
-சைய வேண்டும். 
-
-கத்யபாஷ்யத்தில்   
-வேண்டும். இதை ஆசார்யர் 
-
-"यथा प्रभागुणोत्कर्षे भास्करो निस्समाधिकः। 
-
-புரிபு:புள்" என்றருளினார். 
-
-ஒளியின் சிறப்பால் ஸூர்யன் தன் நிகரில்லாதவன் என்பது எப்படியோ \- அப்படியே \- பெரியபிராட்டியுடன் கூடிய நமக்கெல்லாம் பதியான ஸ்ரீமான் நாராயணனும் பத்னியான பெரியபிராட்டியாரின் குணத்தாலும் உயர்ந்தவர் என்று அறிவது   
-என்பது இந்த காரிகைக்குப் பொருள். ஸ்ரீஜனகரின் திருமகளார் எவரின் பத்னியோ \- அந்ததேஜஸ் "இவ்வளவுதான்" என்று அளவிட்டுக் கூறமுடியாது – என்று ஸ்ரீவால்மீகிபகவான் இதை "அடின்$lcHG\[" என்று காட்டியருளினார். இதை "H6q\-64- \*\-f€\-z- புபு புள்" என்று ஸ்ரீபாஷ்யகாரர் அருளினார். நித்யஸூரிகள் அனைவரையும் அவரவருக்கு ஏற்ற பணிவிடைகளில் இவளே ஸ்ரீவைகுண்டத்தில் ஏவிவருகிறாள் என்று "9 91≥idd: defiq 144–4" என்று ஸ்ரீபாஷ்யகாரர் இவள் பெருமைகளை வெளியிட்டருளினார். இந்த கல்யாணகுணம் பூம்யாதி தேவிகளுக்கில்லாத பெரியபிராட்டிக்கு மாத்ரமுள்ள ஏற்றமாகும். இவ்வளவையும் ஸ்ரீயாமுநாசார்யர் \- ஸ்ரீபாஷ்யகாரர் \- ஸ்ரீவத்ஸாங்கமிச்ரர் ஸ்ரீபட்டபராசரபாதர் முதலான ஆசார்யர்கள் தங்கள் துதிநூல்களில் ஸ்பஷ்டமாகக் காட்டியுள்ளனர்.   
-— 
-
-க \[கீழே பொருள் கூறியாயிற்று) எ கணி (முன்பே பொருள் உரைத்தது இது), 3 
-
-शेषित्वम्   
-\<H (ஸோமயாஜியாண்டானின் திருவாக்கு இது. இதையும் கீழே விளக்கியுள்ளோம்), இவைகள் 
-
-173   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-திவ்யதம்பதிகள் இருவருமே நம்மைக்குறித்து சேஷிகள் என்று தெரிவிக்கின்றன. ரிரி \[எல்லோருக்கும் 
-
-எப்போதும்   
-எங்கும் 
-
-பெரியபிராட்டியார்\],   
-மங்களங்களையே 
-
-"तव स्पर्शादीशं स्पृशति कमले\! मङ्गलपदम् 
-
-तवेदं नोपाधेरुपनिपतितं, श्रीरसि यतः । 
-
-प्रसूनं पुष्यन्तीमपि परिमळर्द्धि जिगदिषुः   
-அருள்பவள் 
-
-न   
-चैवंत्वादेवं स्वदत 
-
-(ஸ்ரீகுணரத்னகோசம், சு.29) 
-
-\[இந்த   
-சுலோகமும் 
-
-விசேஷார்த்தங்கள் 
-
-ஸ்ரீவத்ஸாங்காசார்ய 
-
-இதே போல் –   
-इति   
-4" 
-
-கீழே   
-விளக்கப்பட்டது. 
-
-வேண்டுமவர்கள்   
-நாம் 
-
-ஸ்வாமி) எழுதிய இந்த 
-
-ஸ்தோத்ரத்தின் தமிழ் விரிவுரையில் காண்க.\] 
-
-"ऐश्वर्यं यदशेषपुंसि यदिदं सौन्दर्यलावण्ययोः 
-
-रूपं यच्च हि मङ्गळं किमपि, यल्लोके सदित्युच्यते। 
-
-तत्सर्वं त्वदधीनमेव यदतश्श्रीरित्यभेदेन वा 
-
-புf allezin\! ரார்" (ஸ்ரீஸ்தவம்\-7) 
-
-என்று ஸ்ரீஆழ்வான் அருளியதற்கும் பொருள் கொள்வது. இதன் விளக்கமும் நமது பஞ்சஸ்தவ வ்யாக்யானத்தில் 
-
-காணலாம். 
-
-எம்பெருமானுக்கே உள்ள ஸர்வமங்கல ப்ரதாயித்வம் பிராட்டிக்கும் உண்டு   
-—   
-என்றால் பூரிகத்தாலே 
-
-இதரர்கள் விஷயத்தில் கேட்கவும் வேண்டுமோ? 
-
-ஸ்ரீவிஷ்வக்ஸேன ஸம்ஹிதையில் ஸ்ரீவிஷ்வக்ஸே- னரைக் குறித்து பகவான் கூறிய சுலோகங்களைக் காணீர்:\- 
-
-"तथा लक्ष्म्याः प्रभावं च शृणु वक्ष्ये समासतः । 
-
-गुणतश्च स्वरूपेण व्याप्तिस्साधारणी मता ॥' 
-
-174   
-11   
-लक्ष्म्युपायत्वदीपः 
-
-\[லக்ஷ்மியின் பெருமைகளை சுருக்கமாகக் கூறுகிறேன், கேளாய். கல்யாணகுணங்களாலும் எங்கும் பரவின வ்யாபித்து இருப்பது   
-திவ்யாத்மஸ்வரூபத்தாலும் 
-
-அவளுக்கும் எனக்கும் பொதுவானது\] 
-
-यथा मया जगद् व्याप्तं स्वरूपेण स्वभावतः। 
-
-तया व्याप्तमिदं सर्वं नियन्त्री च तथेश्वरी ॥ 
-
-\[இந்த உலகம் முழுதும் இயல்பாகவே எப்படி என் திவ்யாத்மஸ்வரூபத்தால் வ்யாபித்திருக்கிறதோ 
-
-அதேபோல் எல்லோரையும் கட்டுப்படுத்தும் ஈச்வரியான லக்ஷ்மியாலும் இவ்வுலகு எங்கும் எப்போதும் அவள் திவ்யாத்மஸ்வரூபத்தால் வ்யாப்தம்\] 
-
-मया व्याप्ता यथा साऽपि तया व्याप्तोऽहमीश्वरः । 
-
-\[நான் எப்படி என் ஸ்வரூபத்தால் அவளையும் வ்யாபித்து 
-
-உள்ளேனோ,   
-அப்படியே 
-
-வ்யாபிக்கப்பட்டவன்\] 
-
-मम तस्याश्च देवेश वैलक्षण्यमिदं शृणु ।   
-அவளால் 
-
-\[எனக்கும் அவளுக்கும் உள்ள 
-
-ஸ்வபாவத்தை தேவர்தலைவனே\! கேள்\]   
-நானும் 
-
-விலக்ஷணமான 
-
-मच्छेषभूता सर्वेषामीश्वरी मम वल्लभा । 
-
-तस्याश्च जगतश्चाहमीश्वरो वेदविश्रुतः ॥ 
-
-\=   
-\[எல்லோருக்கும் தலைவியாயும் – எனக்கு மிகவும் ப்ரீதிக்கு பாத்ரமுமான இவள் என் ஒருவனுக்கே சேஷபூதை உடமை. அவளுக்கும் இந்த உலகினருக்கும் நான் சேஷி என்பதாக வேதங்களில் நான் ப்ரஸித்தனாகச் சொல்லப்பட்டவன்.) 
-
-अस्या मम च शेषं हि विभूतिरुभयात्मिका । 
-
-इति श्रुतिशिरस्सिद्धं मच्छास्त्रेष्वपि मानद ॥ 
-
-175   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-\[நித்ய விபூதி \- லீலா விபூதி என்று விளங்கும் இந்த இரண்டு விபூதிகளும் அதிலுள்ள சேதனாதிகளும் எனக்கும் பெரிய பிராட்டிக்கும் உடமையானவைகள். இது பல ச்ருதிகளாலும்,என்னைப்பற்றி விளக்கமாகத் தெரிவிக்கும் ஸ்ரீ பாஞ்சராத்ராதி ஆகமங்களிலும் ப்ரஸித்தம்.\] 
-
-"तथा भूमिश्च नीला च शेषभूते मतो मम । 
-
-यथाऽऽत्मनां तु सर्वेषां ज्ञानतो व्याप्तिरिष्यते ॥ 
-
-स्वरूपतस्तु न तयो: ज्ञानतो व्याप्तिरिष्यते।" 
-
-\[பூமிதேவி, நீளாதேவி இவர்கள் என்னொருவருக்கே சேஷர்களாவார்கள். ஜீவன் அணுவானபோதிலும், அவன் எடுத்த உடலில் முழுவதும் அவனது ஜ்ஞானத்தால் பரவியிருக்கும் நிலையை எப்படி சாஸ்த்ரங்களைக் கொண்டு ஒப்பியுள்ளோமோ அதே போன்றவையே பூமி நீளா இவர்களுக்கும். இவ்விருவரும் என்னையும்,லக்ஷ்மிப் பிராட்டியையும் போன்று ஸ்வரூபத்தால் எங்கும் வ்யாபித்தவர்களில்லை\] 
-
-இந்த பகவத்சாஸ்த்ர வசனங்களால் \- எம்பெருமான், பெரியபிராட்டி, பூமி, நீளா முதலான எல்லோர் நிலைகளும் நன்கு காட்டப்பட்டுள்ளன. 
-
-ஸ்ரீ விஷ்ணு புராணத்திலும் \- 
-
-"देव तिर्यङ् मनुष्येषु पुंनामा भगवान् हरिः । 
-
-4\! : far —ÆI" (இதற்கு   
-உரை 
-
-இட்டாயிற்று) என்று காட்டப்பட்டது. 
-
-ப்ரஹ்மபுராணத்திலும் \- 
-
-"अनन्तनामधेया च शक्तिचक्रस्य नायिका । " 
-
-\[பெரியபிராட்டிக்கு   
-अनन्ता   
-எவ்விதமான 
-
-பரிச்சேதமுமில்லாதவள் \- என்று பெயர். எம்பெருமானின் 
-
-176   
-लक्ष्म्युपायत्वदीपः 
-
-தீன, களி:, Adzu≥ரில்: என்பன போன்ற சக்திகளின் கூட்டத்துக்கு இவளே தலைவி\] என்றுள்ளது. 
-
-மேலும் \- 
-
-"भोग्या वामपि नान्तरीयकतया पुष्पाङ्गरागैः समं 
-
-निर्वृत्तप्रणयातिवाहनविधौ नीताः परीवाहताम् । 
-
-देवि \! त्वाम् अनु नीलया सह मही देव्यः सहस्रं तथा ரிவு   
-II" என்று ஸ்ரீ பட்டரும் ஸ்ரீ குணரத்ன கோசத்தில் (சுலோகம் 36) அருளினார். (உலகில் ஒருவருக்கு பல மனைவிகள் இருப்பின் அவர்களுள் எப்போதாவது கருத்து வேற்றுமை ஏற்படும்,சண்டைகளும் நிகழலாம். சக்களத்திச்சண்டை 
-
-பரமபதநாதனான   
-என்று   
-ப்ரஸித்தமாயிற்றே. 
-
-எம்பெருமானை அ\-புரி4\-ரிசைச்னொக அநுஸந்திக்கிறோமே, எப்போதாவது லௌகீக ஸ்திரீகளைப் போன்று இவர்களில் சர்ச்சை முதலியன ஏற்படாதா? என்பதற்கு இந்த ச்லோகத்தில் ஸ்ரீ பட்டர் பதில் அளிக்கிறார். மனைவிக்கு கைகள்\-கொங்கைகள்\-ச்ருங்காரம்\-பார்வை முதலானவைகள் வேறாயினும் கணவனை அணையும்போது இவைகளுக்கு எனத் தனி உணர்வுகள் கிடையாதே. அதே போல் பூதேவி \- நீளாதேவி முதலானவர்களும்   
-பெரியபிராட்டிக்கு ஒருவருக்கொருவர்   
-சரீராவயவஸ்தானத்திலிருப்பதால் 
-
-வாறடை வராது என்கிறார். ப்ரத்யுத போக்யமே. பூசூட்டிக்கொள்கிறாள்\-சந்தனம்\-மறுதோன்றி\--வெற்றிலை போட்டுக்கொள்வது முதலியன மனைவியை விட வேறான அலங்காரங்களாயினும் அவைகளால் கணவனுடன் போகத்து இவைகள் புஷ்டியைக் கொடுக்குமே தவிர- இடையூறு இல்லை\-என்றபடி. விரிவு அடியேன் எழுதி 
-
-177   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-வெளியிட்ட ஸ்ரீ குணரத்ன கோசத்து வயாக்யானத்தில் காணலாம்). 
-
-காம-   
-மேலும், "கணினிMH" என்று பூஸூக்தத்தில் உள்ளபடியால் ப்ரியஸகிகளுக்குள் க்ரோதாதிகள் ஏற்படாது என்பதை ஸ்ரீபட்டர் திருவுள்ளப்பட்டார். 
-
-"அன் என் புள்" என்ற பூமிப்பிராட்டியைப் பற்றிய வாக்யமும், பூமாதேவியும் ஸ்ரீலக்ஷ்மி தேவியின் விபூதியைச் சேர்ந்தவளானபடியால் லக்ஷ்மியைப் பற்றியதாகவே ஆகும். "அ ப்பு, f il–414:" என்ற 
-
-வாக்யத்தில் நேராக அப் என்ற ஜல தேவதையைக் குறித்துள்ள போதிலும்\-பகவானைப் பற்றியதே இந்த வாக்யம் என்று வேதபாஷ்யகாரர்கள் முடிவு செய்ததைப் போலாகும் இங்கும். 
-
-மேலும் ஸ்ரீபட்டர்   
-"sfa as௮48 புரிபு" (ஸ்ரீ குணரத்ன கோசம்\-13) என்று இந்த ச்ருதியை பெரிய பிராட்டி விஷயத்தில் ஸமந்வயப்படுத்தி உள்ளதைக் கொண்டும், இந்த ச்ருதி பெரிய பிராட்டியையே துதிக்க வந்தது. " தரி4, s\<\<rg g " என்றும் "தாரின சரிகள், புரிஎq:" என்றும் கோசங்கள் உண்டு ஆனபடியாலும், ராஜாதிராஜனான பகவானின் பட்டத்து மஹிஷியான பெரிய பிராட்டியாரையே கூறும் சக்தி உண்டு. ஆகவேதான் "புள்" (ஸ்ரீ ஆளவந்தார் ஸ்தோத்ரம் 44சு ) என்றும், "aaaa   
-G{\[H\]\<d£4" 
-
-(சரணாகதி கத்யம் ) என்றும், "ஜிதாரிகள் புது 3\[124\[பு:" (ஸ்ரீ குணரத்ன கோசம்\-2) என்றும் \- லக்ஷ்மிக்கு ஏற்பட்ட அஸாதாரணமான மஹிஷி என்ற சொல்லாலேயே துதித்தார்கள் பூர்வர்கள். இதனால் "பு 
-
-नमाम्यच्युतवल्लभाम्"   
-என்பன   
-போன்றவிடங்களில் 
-
-178   
-लक्ष्म्युपायत्वदीपः 
-
-பூமிப்பிராட்டியைப் பற்றியும் எள் என்றது அபுரிகள் என்று 
-
-ஏற்படுகிறது. 
-
-"34: मम   
-கவுரிபுக" என்பன 
-
-போன்றவற்றால் லக்ஷ்மிக்கு பகவானைத் தவிர்ந்த எல்லா சேதனா சேதனங்களையும் குறித்து "ன்" ஸ்பஷ்டமாகத் தெரிய வருகிறது. பூமி,நீளாதிகளுக்கு இப்படிப்பட்ட நிலை அமையவில்லை. सर्वेशानत्वं, \[भगवन्महिषीत्वं \] सर्वशेषित्वं 
-
-முதலானவைகள் 
-
-ஸாதாரணமானவைகள்.இது அதிகரணந்யாயத்தால் ஸித்தம்.   
-லக்ஷ்மிக்கும்\-பகவானுக்கும் 
-
-என்ற 
-
-A புளி என்பதால் உலகுமுழுவதற்கும் இவள் ஆதாரமானவள் என்பதும், Çid: fur என்றதால் உலகு லயிக்கும் ஸ்தானமும் இவளே 
-
-தெரிவிக்கப்பட்டது.   
-\-   
-என்பதும் நன்கு 
-
-1\. "अहं मित्रावरुणौ आ बिभर्मि अहम् इन्द्राग्नी अहम् अश्विनौ आ" 
-
-\[இது பூமிதேவியின் வாக்யமாயிருந்தாலும் 
-
-பிரமாணங்களைக்கண்டு   
-உரைக்கும்போது பெரிய பிராட்டியாருக்கே இங்கு கூறியவை ஏற்கும். ”நான் சூர்யனையும், வருணனையும் தாங்கி வருகிறேன், இந்த்ரனையும் அக்னியையும் தாங்கி வருகிறேன், அச்வினி தேவர்களையும் அப்படியே தாங்கி வருகிறேன் என்று பொருள்.\] 
-
-2\. "3க் சரிபு 3 & HA, d ert ர் ஷரரபு "   
-\_" 
-
-\[நான் சந்த்ரனையும், த்வஷ்டா என்ற   
-என்ற தேவருலகத் தச்சனையும், மேலும் பூஷா என்ற சூர்ய தேவதைகள் 12 பேரில் ஒருவரையும்,   
-என்பவனையும் நன்கு 
-
-தாங்குகிறேன்.) 
-
-3\. व्यापिनी विष्णुरूपेण सर्वभावानुगामिनी । 
-
-179   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-अशेषभुवनाधारा संकल्पप्रविजृम्भिणी । । 
-
-\[ஸ்ரீ விஷ்ணு எப்படி எங்கும் வ்யாபித்துள்ளாரோ அப்படியே நானும் எல்லா பொருள்களிலும் உள் நிற்பவள், எல்லா உலகுகளையும் தாங்கும் ஆதாரமாக இருப்பவள், எனது ஸங்கல்பத்தை மட்டிலும் கொண்டு பலபடி விரிவாய் எதிலும் பரவியுள்ளேன்\] 
-
-4\. "H: 434 I 
-
-नाराणाम् अयनं ब्रह्म सर्वावासं अनामयम् || पूर्णस्तिमित षाड्गुण्यं असमीराम्बरोपमम् | 
-
-तस्य स्तैमित्यरूपा या शक्ति: शून्यत्वरूपिणी । 
-
-स्वातन्त्र्यादेव कस्माच्चित् क्वचिद् उन्मेषम् ऋच्छति | |" 
-
-\-   
-\[எல்லா செயல்பாடுகளையும் நிறுத்திக்கொண்டு எங்கும் எதிலும் ஸமமாக இருப்பவரும், அழிவற்ற சேதனர்களுக்கு தகுந்த வழிகாட்டியானபடியால் \- நாராயணன் என்னப்பட்ட அவாப்தஸமஸ்தகாமனான ஒரு குற்றமுமற்ற பரம்பொருள் யாதொன்று உண்டோ அது எதிலும் நிறைந்து சஞ்சலமற்று \- ஜ்ஞான\-சக்தி\-பல-ஐஸ்வர்ய\-வீர்ய\-தேஜஸ் \- என்ற ஆறுவகை குணங்கள் நிரம்பியதும், காற்றையும் ஆகாசத்தையும் போன்று கண்ணுக்கும் புலப்படாமல் இருப்பதும் இருக்கும். அந்த பரம்பொருளின் அசைவற்ற நிலை யாதோன்று உண்டோ \- அதுவே சக்தி எனப்படும். கண் முதலான புலன்களால் உணரமுடியாதது அது. ஆகவே சூன்யம் போன்றிருக்கும். ஆயினும் சின்னது என்று கூற முடியாத ஒருவகையான ஸ்வாதந்த்ர்யத்தால் சிலரிடம் தன் திறமையை வெளிக் கொணர்கிறது.\] 
-
-என்கிற இந்த வகையான ப்ரமாணங்களைப் பராமர்சித்தால் இந்த ஸ்வபாவங்கள் யாவும் லக்ஷ்மிக்கே பொருந்தும் என்பது விளங்கும்.   
-என்ற சொல் உண்மையில் பரமாத்மாவையே கூற வல்லது. ஆயினும் சசீபதியான தேவர்தலைவனைக் கூறுவதாகவும் எப்படி 
-
-**180**   
-\- 
-
-சொல்கிறோமோ   
-लक्ष्म्युपायत्वदीपः 
-
-\-   
-அப்படியே ப்ருத்வீ \-விச்வம்பரா 
-
-முதலான சொற்களும் பூமி விஷயத்தில் ஸங்குசித வ்ருத்தியால் பிரயோகிக்கப் படுகின்றன. ஔபசாரிகங்கள் என்றபடி, ப்ரதிவீ   
-விச்வம்பரா என்றவற்றுக்கு அபிமானியான தேவதையைக் கூறலாமே \- என்பதும் இங்கு 
-
-தகாது. 
-
-என்ற   
-சொல்   
-\- 
-
-அபு q Ed«4\_31À என்ற ச்ருதியிலுள்ள ச்ரத்தா லக்ஷ்மியையே காட்டுவதாக தத்துவதீபிகாகாரரே உரையிட்டுள்ளார். ஸ்ரீ விஷ்ணு புராணத்தில் இந்திரன் செய்த ஸ்ரீஸ்துதி ப்ரகரணத்தில் " सिद्धि:, त्वं स्वधा स्वाहा सुधा त्वं लोकपावनी । संध्या रात्रिः प्रभा भूतिः माया श्रद्धा सरस्वती" என்றவிடத்தில் ஸித்தி முதலான விபூதிகளை உடையவள் பெரிய பிராட்டியே என்பதை யாவரும் ஒப்பினோமே.\[ஹே லக்ஷ்மி \! நீயே செயலை முடித்து ஸித்தி ஏற்படச் செய்கிறாய், பித்ருக்களுக்கு அக்னியில் ஹோமம் செய்யும் ஸ்வதா என்பதும் நீயே.தேவர்களுக்கு ஹோமம் செய்யும் ஸ்வாஹா என்பதும் நீயே .தேவருலகத்தை பசியிலிருந்து காக்கும் பரிசுத்தமான ஸுதா \= அமுதமும் நீயே. ஸந்த்யா காலத்தில் அந்தணர்களால் வணங்கப்படும் ஸந்த்யா தேவியும் நீயே. இரவும் நீயே, ஒளியும், ஐச்வர்யமும்,ஆச்சர்யமானவைகளும் எல்லோருக்கும் அவரவர் செய்யும் நற்செயல்களில் ச்ரத்தா என்பதும் நீயே. கல்விக்கு அதிஷ்ட்டான தேவதையான ஸரஸ்வதியும் நீயே, என்று அந்த வசனத்துக்குப் பொருள்.\] 
-
-இந்த ஸித்தி முதலானவை உபசாரத்தால் கூறியதானபோதும், பூமிதேவியின் விபூதிகளே இவைகள் ப்ரமாணமில்லாதபடியாலும்,   
-என்று   
-காட்ட 
-
-லக்ஷ்மிப்ரகரணமானபடியாலும் 
-
-கூறவல்லவை என்பதில் குற்றமேதுமில்லை.   
-பிராட்டியைக் 
-
-181   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-Gogyjio "तपसा देवा देवानाम् अग्र आयन्" ना मंतुकी வாக்யத்தில் தபஸ் என்றது சரணாகதியை. சரணாகதியை அநுஷ்டித்தே தேவர்கள் எல்லோரையும் விட முன்னே வழிகாட்ட சென்றார்கள்- என்பது இந்த வாக்யத்தின் தாத்பர்யம். 
-
-இனி இந்த ப்ரகரணம் முழுவதும் பிராட்டியைப் புகழ்ந்து, அத்தகைய பிராட்டிக்கு பர்த்தாவான பகவானிடம் சரணாகதியைச் செய்தவர்களின் பெருமையை வெளியிட வந்தது என்பதை விரிவாகக் காட்டுவோம். 
-
-(ल.उ.दी) किञ्च "तपसा देवा देवानमग्र आयन्" इत्यादिना तपश्शब्दवाच्यन्यासस्य सर्वफलसाधनत्वं सूचयन्नेतस्य विषयत्वेन निर्वर्तकत्वेन परब्रह्माधीनतया तपश्शब्दवाच्यस्य तस्यैव प्रधानोपायत्वं प्रतिपादयन् रक्षार्थं स्वसङ्कल्पाधीनाविर्भावं देवशब्दवाच्यं लक्ष्मीविशिष्टं नारायणमात्महविष उद्दिश्य तदनुष्ठानं "प्रथमजं देव हविषा विधेम " इत्यादिना प्रतिपाद्य विशेषोपायत्वस्थिरीकरणाय लक्ष्मीविशिष्टस्यैव देवशब्दवाच्यत्वप्रतिपादनपूर्वकं   
-न्यासप्रधानाङ्गभूत- 
-
-महाविश्वासाख्यश्रद्धाभिमानित्वतत्प्रदायित्वादिसूचकतच्छब्दाभिधानेन 
-
-सर्वलोकस्थित्यादिकर्तृत्वनिरतिशय- 
-
-भगवन्महिषीत्व-   
-क्रीडाविजिगीषादिमत्त्वसर्वयज्ञसमाराध्यत्वतज्जन्यप्रीतिमत्त्वस्वसङ्कल्पादिमात्र   
-भगवत्प्रधानविशेषणभूतलक्ष्म्याः 
-
-सहायत्वमोक्षप्रदत्वसर्वशब्दवाच्यत्व, 
-
-स्वसङ्कल्पाधीनाविर्भावत्व\-विश्वाधारत्व\-जगल्लयस्थानत्व\-सर्वनियन्तृत्व- निरतिशयदीप्तियुक्तविग्रहवत्त्व\-सर्वशेषित्वरूपोपायत्वोपयुक्तधर्मान् प्रतिपाद्य तथाविधलक्ष्मीविषयकन्यासाभिधानं तपः प्रतिपादयता " श्रद्धया देवो देवत्वमश्नुते", "श्रद्धा प्रतिष्ठास्य लोकस्य देवी", "सा नो जुषाणोप यज्ञमागात्", "कामवत्साऽमृतं दुहाना", "श्रद्धा देवी प्रथमजा ऋतस्य", "विश्वस्य भर्त्री जगतः प्रतिष्ठा तार श्रद्धा हविषा यजामहे", "सा नो 
-
-**182** लक्ष्म्युपायत्वदीपः 
-
-न वा   
-लोकममृतं दधातु", "ईशाना देवी भुवनस्याधिपत्नी" इति सन्दर्भेणास्य लक्ष्मीप्रतिपादनपरत्वौचित्यप्रतीतेर्न भूम्यादिपरत्वम्, आत्मगुणमात्रपरत्वम्, हविरुद्देश्यदेवतात्वादीनामनेकेषां चेतनविशेषधर्माणां बाधापत्तेः। अतः तपश्शब्देन न्यासस्याभिधानं "न्यास इति ब्रह्मा, ब्रह्मा हि परः, परो हि ब्रह्मा । तानि वा एतान्यवराणि तपास न्यास एवात्यरेचयत् तस्मान्न्यासमेषां तपसामतिरिक्तमाहुः" इत्यादौ परब्रह्मसामानाधिकरण्येन न्यासस्य सर्वातिशायित्वप्रतिपादनेन, तद्वत् "स्वयम्भु ब्रह्म परमं तपो यत्" इति परब्रह्मसामानाधिकरण्येन च सिद्ध्यति । अत एव "वस्तुतस्त्वि" त्यादिकमपि निरस्तम्। तपश्श्रद्धाद्यात्मगुणप्राशस्त्यस्यापि प्रतीतेरात्मगुणप्राशस्त्यं प्रतिपाद्यत इति तत्परत्वव्याख्यानस्याप्यविरोधात् । देवीशब्दस्य लक्ष्म्यसाधारण्यवाचकत्वं कोशाप्तवाक्यानुरोधात् प्रागेव प्रतिपादितमिति श्रीसूक्तार्थप्रत्यभिज्ञयाऽस्य काठकवाक्यस्य लक्ष्मीपरत्वे न किञ्चिद्\-बाधकम्। 
-
-(60.5) तपसा देवा देवानामग्र आसन् । क्रीं तपस् m சொல்லால் தெரிவிக்கப்பட்ட ஸரணாகதியைப் புகழ்ந்தது, இந்த ஸரணாகதி யாரிடம் செய்வது ? என்பதைக்காட்ட 194 என்ற சொல்லே பரமாத்மாவையும் கூறும் \- ஆனபடியால் அவரே இதில் ப்ரதானர் \- என்று கூறிற்று. நம் யாவரையும் பாதுகாக்க என்றே ஸ்வயமாக ஸங்கல்பத்தால் ஆவிர்பவித்த \-தேவசப்தவாச்யனை\-லஷ்மீவிசிஷ்ட நாராயணனைக் காட்டி, இந்த ஆத்மாவாகிய ஸ்வாதுவான ஹவிஸ் எம்பெருமானுக்கும் பெரிய பிராட்டியாருமாகிய BG कंकाळा "प्रथमजं देव हविषा विधेम " rml காட்டியது. லக்ஷ்மீ   
-லக்ஷ்மீ \_ விசிஷ்டனேதான் ப்ரபத்தவ்யன்\= பிரபத்தி அநுஷ்டித்ததை ஸ்வீகரிக்க வல்லவன் \- என்பதைக் g: என்ற சொல்லால்   
-காட்ட   
-இவனையே 
-
-183   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-சொல்லிக்காட்டி சரணாகதியின் ஐந்து அங்கங்களில் முக்யமானதான மஹாவிச்வாசத்தைக் காட்ட &ī என்று ச்ரத்தைக்கு அபிமானிதேவதையான பெரியபிராட்டியைக் காட்டியது. இந்த லஷ்மி தேவியானவள்\-எல்லா உலகின் இருப்புக்கும் காரணமானவள்\-நிரதிசயமான விளையாட்டு, எங்கும் எதிலும் எப்போதும் எவருக்கும் தோல்வியே இல்லாத நிலையை அருள்பவள், எல்லா யாகங்களாலும் ஆராதிக்கக்கூடியவள், எந்த நல்ல காரியம் நாம் செய்தாலும் அதால் மகிழ்வு அடைபவள். தன் ஸங்கல்பம் ஒன்றாலேயே எல்லா செயல்களையும் செய்து வருபவள், மோக்ஷமளிப்பவள், எந்த சொல்லாலும் தெரிவிக்கப்படும் பெருமையை உடையவள், பகவந்நாராயணனுக்கு ப்ரதான மஹிஷியாயிருப்பவள்,தன் ஸங்கல்பத்தாலேயே **\-** பகவான் அவதாரங்களைக் கொள்ளும் போது தாமும் உடன் தோன்றுபவள், எல்லா உலகுக்கும் ஆதாரமானவள், ஸர்வ ஜகத்தும் கடைசியில் இவளிடமே லயிக்கிறது எனப்பட்டவள், எல்லோரையும் கட்டுப்படுத்துபவள், இவருடைய ஒளிக்கு நிகராக வேறொருவருக்கு ஒளி இருக்காது \- என்ற பெருமையை உடையவள், பர\-வ்யூஹ- விபவ\-ஹார்த\-அர்ச்சாதிகளான ஐந்து நிலைகளிலும் எம்பெருமானைப்போன்று திருமேனியுடன் ஸேவை பொருட்களுக்கும் சேஷிணீயாயிருப்பது என்பனபோன்ற மோசேஷாபாயமாக இருப்பதற்குத்தேவையான   
-ஸாதிப்பவள்,   
-எல்லாப் 
-
-எல்லாதர்மங்களும் 
-
-எம்பெருமானைப்போன்று நிறைந்திருப்பவள் \- என்பதை விரிவாகக்காட்டியது. 
-
-ள்   
-இத்தகைய பிராட்டி விஷயகமான ந்யாஸம் என்ற பெயர் பெற்ற தபஸ்ஸை விரிவாகக்காட்டி \- அதன் பிறகே \- அசவு 42\~ என்றும்,   
-அவுக \[இத்தகைய பெருமைகள் உடைய ச்ரத்தை என்னப்பட்ட தேவியே இந்த உலகைத் தாங்கி வருபவள்) என்றும், சா 
-
-184   
-लक्ष्म्युपायत्वदीपः 
-
-\-   
-நாங்கள்   
-பு 454 · \[அத்தகைய ச்ரத்தாதேவி அனுஷ்டிக்கும் பரந்யாஸம் என்ற யாகத்துக்கு அருகில் எழுந்தருள வேண்டும் \] என்றும், $\[HISA EH \- என்றும், \_924G \[இந்த ச்ரத்தை என்கிற பெரிய பிராட்டியாராகிய தேவி நல்ல செயல்கள் எங்கு நடந்தாலும் அங்கு முன்னே தோன்றுவள்\] என்று, புளி : 
-
-\-   
-\[விச்வ சப்தவாச்யனான விச்வம்பரனான எம்பெருமானுக்கு பத்னியாக இருந்து அவனை நமது நன்மைகளுக்கு நடத்திச்செல்பவள், உலகினர்க்கு பல வகையான 
-
-ப்ரதிஷ்டைகளைஅருளிச்செய்பவள்   
-\[குறிப்பு: இதைக்கொண்டே ஸ்ரீ ஸ்வாமி தேசிகன் பூஸ்துதியில் ach: aa aaபு என்று அருளினார்\] என்றும், \_ \[இத்தகைய ச்ரத்தா என்னப்பட்ட பெரியபிராட்டியாருடன் கூடின எம்பெருமானிடம் \- இந்த ஸ்வாதுதமமான ஆத்ம ஹவிஸ்ஸை ஸமர்ப்பித்து வேள்வியைச் செய்கிறோம்\] என்றும், சா ர் கவு அத ஏவுரு \[இத்தகைய பெருமைகள் உடைய பெரிய பிராட்டியார் எங்கள் அனைவருக்கும் அழிவற்ற லோகமான மோக்ஷத்தை அருளட்டும்) என்றும்,   
-புள் (இது முன்பே 
-
-விளக்கியாயிற்று),   
-என்பன போன்றவுமான   
-இந்த 
-
-ஸந்தர்பத்திலுள்ள எல்லாவாக்யங்களாலும் பெரிய 
-
-பிராட்டியாரே துதிக்கப்பட்டார் \- என்பது ஒளசித்யத்தாலும் 
-
-தெரிய வருகிறபடியால் 
-
-பரமன்று. 
-
-மட்டிலுமே சொல்கிறது   
-\-   
-இந்த ப்ரகரணம் பூமி தேவி 
-
-பகவானின் ச்ரத்தா என்ற ஆத்ம குணத்தை 
-
-என்பதும் நேரில்லை. 
-
-குணத்தைக்கூறுவதானால் adii இத்யாதிகள் இங்கு காட்டியவை பொருந்தா. இந்த்ராதி சேதன விசேஷங்களையே அன்றோ தேவதைகளாக மீமாம்ஸகர்கள் 
-
-185   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் கூறினார்கள். \-மே அன்றோ யாகம். cYG4IH என்றார் பகவான் பதஞ்ஜலியும்.   
-यज 
-
-ஆகவே 74: என்ற சொல் பரந்யாஸத்தையே இங்கு கூறும்.   
-"ரி: சி qf|a1945: " என்று இங்கு விளக்கியதைக் காணவும். பரந்யாஸம் என்பது மிகவும் உயர்ந்ததான பரப்ரம்ஹத்தைப் போன்றது. ப்ரம்ஹம் ஒன்றே அன்றோ உயர்ந்தது. \[கீழேகாட்டிய ஸத்யம் முதலான தபஸ்ஸுக்கள் யாவும் \- இந்த சரணாகதி என்ற தபஸ்ஸைக் காட்டிலும் தாழ்ந்தவை. ஆத்மா மீண்டும் பிறவி எடுக்காமலிருக்க இந்த பரந்யாஸமே அன்றோ வழி. ஆகவே இது மற்றைய தபஸ்ஸுக்களைவிட 
-
-மேலானதாகியது.   
-அதனாலேயே   
-பரந்யாஸத்தை 
-
-\-   
-எல்லாவற்றையும்விட மேலான தபஸ்ஸாக ச்ருதிகளும், வேதமோதியவர்களும் சொன்னார்கள்.\] என்று இந்த 
-
-வாக்யங்களுக்குப் பொருள். 
-
-அதனால்தான் 44 என்று பரம்பொருளோடு இந்த ந்யாஸத்துக்கு ஸாமாநாதிகரண்யம் கூறியது பொருத்தமானது. அபுபு fasiada என்று ச்ருதியே காட்டியபடி   
-தன் ஸ்வேச்சாக்ருதமான அவதாரங்களே பரமாத்மாவுக்கு.   
-— 
-
-நம்மைப்போல் கர்மவசத்தால் பிறப்பு முதலானவைகள் கிடையாது. அத்தகைய nj\= ஸ்வேச்சாக்ருதாவதாராதிகளை உடைய, 36\= பரம்பொருள் எப்படியோ – அதேபோல் 7q\= மிக உயர்ந்த தபஸ்ஸான \= யாதொரு ந்யாஸம் உண்டோ \- இதுவும் – என்று ச்ருதி காட்டியது.   
-\- 
-
-இவ்வளவு விரிவாக நாம் வ்யாக்யானித்தபடியால் \- 
-
-இங்கு பூர்பவ   
-वस्तुतस्तु   
-என்று தொடங்கி 
-
-சொன்னதத்தனையும் தள்ளவேண்டியதே. 
-
-186   
-लक्ष्म्युपायत्वदीपः 
-
-तपः, श्रद्धा ना शुक्रं लाएं। ॐ ojpuit உயர்ந்த நிலையைக் கூறவந்தது என்பதில் எங்களுக்கு 
-
-கருத்து   
-வேறுபாடில்லை. 
-
-கேவலாத்மகுணங்களுக்கு   
-ஆயினும் 
-
-ஜகத்ஸ்ருஷ்ட்யாதி 
-
-வ்யாபாரங்களைச் செய்யும் திறமை கிடையாது. குணங்கள் wroji मुलगीurror \- धर्मिल शुक्र ruvuGo. யாவும் குணியான शुक्र धर्मविशिष्टधर्मिवाचकाऊं। का. 
-
-ஆகவே ஸ்ரீஸூக்தார்த்தத்தை நினைவுகூறும் 
-
-சொற்கள் இங்கு உள்ளபடியால்   
-\-   
-இந்த காடகவாக்யம் 
-
-லஷ்மியையே ஜகத்காரணமாகக் கூறும். 
-
-(ल.उ.दी)   
-भूसूक्तस्थदेवीशब्दादेरौपचारिकतया   
-व्युत्पत्तेः 
-
-विश्वम्भरत्वादेरसङ्कचितस्य भूम्यामसम्भवोपपादनाच्च भूसूक्तार्थप्रत्यभिज्ञायाः असम्भवाद्भूमिपरत्वशङ्का नावकाशं लभते । "अस्येशाना जगत" इत्यस्याभियुक्तैर्लक्ष्मीपरतया व्याख्यानात् "तथापि साधारणमीशितृत्वं श्रीश्रीशयोर्द्वी च सदेकशेषी" इत्युदाहृतप्रमाणशतानुरोधात् । ईशानत्वलिङ्गस्य लक्ष्मीसाधारण्यसिद्धेः,   
-तद्विभूतिभूतभूम्यादौ   
-तच्छ्रवणस्य 
-
-लक्ष्मीपर्यवसानद्योतकतयाऽन्यथासिद्धत्वाच्च न भूमिसाधारण्यम्। 
-
-सर्वेशानत्वसर्वशेषित्वसर्वाधारत्वश्रद्धाविभूतिकत्वदेवदेवदिव्यमहिषीत्वादी- 
-
-नामनेकलिङ्गानां   
-लक्ष्म्यसाधारणानामस्मिन् प्रकरणे उपलम्भात् 
-
-अनुपलब्धिर्दूरोत्सारिता। अन्यथा भूम्यादेः पुरुषकारत्वस्याप्यनङ्गीकारात् 'अमृतं दुहाना', 'अमृतं दधातु' इत्यनयोः पुरुषकरणव्यापारमुखेन परम्परयापि मोक्षप्रदत्वपर्यवसानासम्भवात् आनर्थक्यमेव स्यात् । 
-
-(0.5) कं♚♚ली 2नाना देवी एक Fir♚ळना औपचारिकवृत्त्या व्यßला. विश्वम्भरा   
-f 
-
-சக்தியால்தான் பூமியைக் கூறும். பெரிய பிராட்டியைக் 
-
-187   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-கூறும் போது   
-நேராகக் கூறும் \- என்பதை கீழே 
-
-பூர்வாசார்யரான   
-விளக்கியுள்ளோம். ஆகவே எந்த குற்றமுமில்லை. जगतो विष्णुपत्नी என்ற ச்ருதியையும் 
-
-ஸ்ரீபட்டபராசரபாதர் ஸ்ரீகுணரத்னகோசத்தில் \- (சு. 13) 
-
-"R Gd sasரிபு" என்ற சுலோகத்தில் 
-
-\-   
-பற்றியதாக பூர்வாசார்ய ஸ்ரீஸூக்திக்கு   
-பெரியபிராட்டியாரைப் 
-
-அருளிச்செய்தபடியால் 
-
-ஸ்ரீபாஞ்சராத்ரக்ரந்தங்களிலிருந்து   
-விளக்கி 
-
-தகாது. 
-
-"तथाऽपि साधारणमीशितृत्वं   
-விரோதமாக பூர்வபக்ஷி சொன்னது 
-
-— 
-
-கள்" என்று எடுத்த வாக்யப்படி பெரிய 
-
-என   
-பிராட்டிக்கும் ஜகத்காரணத்வாதிகள் உண்டு ஏற்படுகிறது. ÉkliFi என்று சொல்லும் பெரியபிராட்டியையே Aமாகக் கூற வல்லது. எல்லோருக்கும் யாய் இருப்பது, ஸர்வசேக்ஷித்வம், ஸர்வாதாரத்வம், ச்ரத்தா என்பதை விபூதியாக உடையநிலை, தேவதேவனின் திவ்யமஹிஷியான நிலை,   
-நிலை, இப்படி அனேகவிதமான அடையாளங்கள் இப்ப்ரகரணத்தில் இருப்பதால் – கட்டாயம் இப்ப்ரகரணத்தால்   
-பெரிய   
-பிராட்டியே 
-
-தெரிவிக்கப்பட்டவள். 
-
-\-   
-— 
-
-\-   
-1   
-'அது', 'அபூqanj இ வை போன்றவைகள் \- பரிந்து பேசுவது என்பதைக் கொண்டு பரம்பரயா மோக்ஷமளிப்பவள் என்று கூறுவதில் நோக்கமுள்ள வாக்யங்கள் – என்று சொல்லலாம். இப்படி இல்லையே. \[குறிப்பு:\- இந்த லக்ஷ்ம்யுபாயத்வதீபம் என்ற भूम्यादेः வாதக்ரந்தத்தில் 68ம் பக்கம் கடைசீவரியில் பூவுகயுகrRd \- என்று உள்ளது. இதை ஸேவித்தால் பூமி\-நீளாதிகளுக்கு எம்பெருமானிடம் நமக்காகப் பரிந்து பேசும் நிலை இல்லை \- என்பதைப்போல் தோன்றும். அது அப்படியில்லை. களி: என்பது பரிந்து பேசுவது. இதை HU என்றார் ஆசார்யர்.   
-— 
-
-**188** 
-
-“अस्ति कर्मार्हफलदे पत्यौ कृत्यद्वयं श्रियः । निग्रहाद् वारणं काले, सन्धुक्षणम् अनुग्रहे ॥ " 
-
-சது:சுலோகீ பாஷ்யத்தைக்   
-लक्ष्म्युपायत्वदीपः 
-
-का रंग क.   
-இந்த 
-
-\-   
-என்ற ஸந்துக்ஷணம் பூமிப்பிராட்டியும் செய்கிறாள் என்பதாக “प्रकृष्टगुणक श्रिया\! वसुधया च सन्धुक्षितः प्रयुक्तकरुणोदधिः प्रशमय स्वशक्त्या स्वयम्" । श्रीनं कृया (क. 24) pump.\] 
-
-(ल. उ.दी) यच्च विष्णुपत्नीत्युक्त्या अन्यनियाम्यत्वप्रतीतेः स्वान्यानियाम्यत्वे सति सर्वेशानत्वस्य मोक्षोपायत्व\-प्रयोजकत्वात् तदभावादेव लक्ष्म्यास्तन्निवृत्तिरित्युक्तम्, तदनालोचनरमणीयम् । लाघवेन सर्वेशानत्वस्यैव तत्प्रयोजकत्वौचित्यात्, 
-
-मोक्षोपायत्वाभावसाधकस्य   
-अन्यथा 
-
-स्वान्यानियाम्यत्वे   
-प्रबलप्रमाणविरोधेन 
-
-सति 
-
-सर्वेशानत्वाभावरूपहेतोरेव कालात्ययापदिष्टतापातात्, 
-
-"अहं सुवे पितरमस्य मूर्धन् मम योनिरप्स्वन्तस्समुद्रे । अहमेव वात इव प्रवाम्यारभमाणा भुवनानि विश्वा”, "ज्ञानात्मकं परं रूपं ब्रह्मणो मम चोभयोः । 
-
-शेषमैश्वर्यवीर्यादिज्ञानधर्मस्सनातनः॥ जगत्प्रकृतिभावो मे यस्सा शक्तिरितीर्यते । सृजन्त्या यच्छ्रमाभावो मम तद्बलमिष्यते ॥ अव्याहतिर्यदुद्यन्त्यास्तदैश्वर्यं परं मम । विकारविरहो वीर्यं प्रकृतित्वेऽपि मे तदा ॥ सहकार्यनपेक्षा मे सर्वकार्यविधौ हि या । तेजष्षष्ठं गुणं प्राहुः तमिमं तत्त्ववेदिनः ॥ इति पञ्चगुणा एते ज्ञानस्य स्फूर्तयो मताः । ताविमावेकधैवोक्तौ भेद्यभेदकभावतः॥ पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ । 
-
-189   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-नैव शक्त्या विना कश्चिच्छक्तिमान् अस्ति कारणम् ॥ न च शक्तिमता शक्तिर्विना काप्यवतिष्ठते । तत्तद्गौरवमाश्रित्य तन्त्रवेदान्तपारगैः ॥ 
-
-जगद्धेतुतया देवावेकैकाविव दर्शितौ । " 
-
-इत्यादिबहुप्रमाणसिद्धत्वात्   
-लक्ष्मीकारणत्वस्य, 
-
-कारणत्वादेस्स्फुटमप्रतीतेः, प्रतीतौ वा 'नानयोर्विद्यते 
-
-इत्यादिभिर्लक्ष्मीनारायणव्यतिरिक्तस्य   
-भूसूक्तादिषु 
-
-सर्वस्यापि तद्विभूतित्वसिद्धेः 
-
-कारणत्वादेस्तत्रैव पर्यवसानाच्च । किञ्च 'लक्ष्म्या मोक्षोपायत्व' इत्यादिना भूसूक्तादिप्रतिपाद्यानामङ्गीकारप्रसङ्ग इत्यनेनोक्तं निरस्तम् । 
-
-—   
-(ல.க) கேள்வி:\- பெரிய பிராட்டியை ச்ருதி ரான் என்றது. இதனால் பிராட்டி தன்னைவிட வேறோருவரான பகவானால் கட்டுப்பாட்டில் வைக்கப்பட்டவள் என்பது ஏற்படுகிறது. ஒருவர் ஸ்வதந்த்ரர் – என்றால் \- புன் सति सर्वेशानत्वम्, அதாவது   
-தன்னை வேறோருவர் கட்டுப்படுத்தாமலிருக்கும்போது ஸர்வருக்கும் தலைவனாக இருப்பது. பத்னீ என்றால் பதிக்கு சேஷபூதை என்பது தானே தெரியவரும். ஆகவே பகவானுக்கு சேஷபூதையான பெரியபிராட்டியை ī என்று எப்படி கூறமுடியும்? ஆகவே நீங்கள் \[ஸிந்தாந்திகள்} கூறுவது பொருந்தாதே \- என்று. 
-
-\- 
-
-வழியில்   
-— 
-
-பதில் இப்படி கூறுவது மேலெழுந்தவாரியான வாதமாகும். லகுவான வழியில் HH என்பதே கூறி நிர்வஹிக்கலாமாயிருக்க,   
-ப்ரம்ஹலக்ஷணமாகக் 
-
-स्वान्यानियाम्यत्वे सति என்ற सत्यन्तम् व्यर्थम् 
-
-ப்ரமாணங்களுக்கு விரோதமுமாகும். 
-
-1) अहं सुवे पितरमस्य मूर्धन् मम योनिरप्स्वन्तस्समुद्रे   
-ப்ரபல 
-
-190   
-लक्ष्म्युपायत्वदीपः 
-
-\[நான் இந்த சதுர்முக ப்ரம்ஹாவை \- சிவனுக்கும் பிதாவை – பெற்றெடுத்தேன். நான் நீர்களுக்கெல்லாம் இருப்பிடமான கடலில் தோன்றியவள்.\] 
-
-2) अहमेव वात इव प्रवाम्यारभमाणा भुवनानि विश्वा 
-
-\[எல்லா உலகையும் படைத்து வரும் நான் தடையின்றி வீசிவரும் காற்றைப் போன்றவள்.\] 
-
-3) ज्ञानात्मकं परं रूपं ब्रह्मणो मम चोभयोः । 
-
-शेषमैश्वर्यवीर्यादि ज्ञानधर्मस्सनातनः॥   
-\-   
-எங்கும் 
-
-\[என்னுடைய ஜ்ஞானமே உருவான உயர்ந்த ரூபம் பரப்ரம்ஹத்தைப் போன்று மிகவும் உயர்ந்தது. iI\-4, ரி, ,, ச் என்னப்பட்ட ஆறுவகையான பரமாத்மாவுக்கே அமைந்த குணங்கள் யாவும் எனக்கும் ப்ரம்ஹமான பரமாத்மாவுக்கும் மட்டுமே உள்ளன. இதில் ஜ்ஞானம் என்பதே மிகப்பழமையானது. அதிலிருந்து பிரிந்து வந்த குணங்களே ஐச்வர்யம், வீர்யம் முதலானவைகள்.) 
-
-4) जगत्प्रकृतिभावो मे यस्सा शक्तिरितीर्यते   
-\- 
-
-\[இந்த   
-உலகிற்கு   
-மூலப்பொருளான   
-ப்ரக்ருதி 
-
-மஹஹங்காராதிகளில்   
-முதலாவதான   
-யாதொன்று 
-
-உண்டோ \- அதையே சக்தி என்பர்.\] 
-
-5) सृजन्त्याः यत् श्रमाभावो मम तद् बलम् इष्यते । 
-
-(உலகைப் படைக்கும் போதும் எனக்கு சிறிதும் ச்ரமம் இல்லை. இதையே GSH என்பது\] 
-
-6) अव्याहतिः यद् उद्यन्त्याः तद् ऐश्वर्यं परं मम । 
-
-\[ஒரு செயலைத் தொடங்கும் போது தடையில்லாமல் செய்வது என்பது யாதொன்று உண்டோ – அதை ஐச்வர்யம் என்பர்\] 
-
-191   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-7) विकारविरहो वीर्यं प्रकृतित्वेऽपि मे तदा 
-
-\[எந்த பொருள் உண்டாகவும் நான் மூலப்பொருளாக இருப்பினும், (மண் உருண்டை விகாரத்தை\=மாறுபாட்டை, அடைந்து பெல்லா\-செட்டி முதலானவைகளாக மாறுவதைப் போன்று) நான் மாறுபாட்டை அடைவதில்லை. இதையே வீர்யம் என்பர்\] 
-
-8) 64- 
-
-तेजः षष्ठं गुणं प्राहुः तमिमं तत्त्ववेदिनः ॥ 
-
-—   
-\[எந்த செயலை நான் செய்யும் போதும், எனக்கு ஒத்துழைக்க அசேதனமான கருவிகளோ சேதனனான சிற்றாள் போன்றவனோ தேவையில்லை. இதை எது என்ற ஆறாவது குணமாக தத்துவமறிந்த ஜ்ஞானிகள் கூறுவர்.) 
-
-9) इति पञ्च गुणा एते ज्ञानस्य स्फूर्तयो मताः । 
-
-\[இந்த சக்தி முதலான ஐந்து குணங்களும் \- முதலில் கூறிய 
-
-ஜ்ஞானம் என்பதின் விரிவே   
-என்று   
-பெரியோர்கள் 
-
-ஒப்பினார்கள்\] 
-
-10) எ ன்   
-\-: 
-
-पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ ॥ 
-
-\[இந்த லக்ஷ்மியும் நாராயணனுமாகிய இருவரும் விசேஷ்ய- விசேஷண பாவத்தைக்கொண்டு சாஸ்த்ரங்களில் ஒரே 
-
-நிலையிலிருப்பவர்கள்   
-என்றும்   
-ஸ்வரூபத்தில் 
-
-வெவ்வேறானவர்கள் \- என்றும், உலகிற்குக் காரணமாகக் கூறப்பட்டனர்.\] 
-
-11) नैव शक्त्या विना कश्चित् शक्तिमान् अस्ति कारणम् । 
-
-न च शक्तिमता शक्तिर्विना काप्यवतिष्ठते ॥ 
-
-\[சக்தியில்லாமல் சக்திமான் ஜகத்காரணமாக இல்லை. சக்திமானையும் விட்டு நீங்கி சக்தி என்பதும் ஓரிடத்திலும் இருக்காது\] 
-
-192 लक्ष्म्युपायत्वदीपः 
-
-12) aiiqபு அரிவு 
-
-जगद्धेतुतया देवौ एकैकाविव दर्शितौ ॥ 
-
-(ஆங்காங்கு உள்ள கௌரவத்தைக்கருதி \- பாஞ்சராத்ராதி வேதாந்த நூல்களையும் நன்கு   
-ஆகமங்களையும், 
-
-கற்றுணர்ந்த மஹான்கள்   
-—   
-இந்த பரவாஸுதேவனையும், 
-
-\-   
-என்பதைப் போன்று   
-தேவியான ஸ்ரீயையும் ஒருவரே 
-
-காட்டுகிறார்கள். 2 சனி என்று 4-1 ஏகசேஷம் \- ஔ என்று\] 
-
-இப்படி   
-அனேகவிடங்களில் 
-
-லக்ஷ்மியையும் காட்டியபடியாலும்,   
-என்று 
-
-ஜகத்காரணமாக 
-
-பூஸூக்தாதிகளில் 
-
-பூம்யாதிகளுக்கு ஜகத்காரணத்வம் ஸ்பஷ்டமாகத் தெரியாதபடியாலும் சி என்று பராசர 
-
-ப்ரஹ்மர்ஷி முடிவு செய்தபடி திவ்யதம்பதிகளான லக்ஷ்மீ- 
-
-நாராயணர்   
-இருவர் தவிர என்ற இருவர் 
-
-ஜகத்காரணமாக முடியாது.   
-\-   
-மற்றையோர் 
-
-இப்படி நாம் (பரகாலஸ்வாமி) காட்டியபடியால் ": சன்" என்று தொடங்கி பூர்வபக்ஷி சொன்னது அத்தனையும் மறுக்கப்பட்டது. 
-
-(ल.उ.दी) यदपि किञ्चेत्यादिना ब्रह्मलक्षणस्य जगत्कारणत्वस्य तदतिरिक्तलक्ष्म्यां सत्त्वेऽतिव्याप्तिः, लक्ष्मीविशिष्टस्य ब्रह्मपदवाच्यत्वेन परिहारश्च नोपपद्यते, निस्समाभ्यधिकत्वादेरपि तत्प्रवृत्तिनिमित्तान्तर्भावेन भगवतश्च लक्ष्मीनियन्तृत्वेन तदधिकत्वात् लक्ष्म्या ब्रह्मपदमुख्यत्वायोगात्, प्रत्युत तस्यास्स्वव्यतिरिक्तनियाम्यत्वेनावरात्मकत्वात् तदलक्ष्यत्वमेव प्रकृत्यादिवदित्यभिहितम् । तदपि न मनोहरम् । "सर्वत्र बृहत्त्वगुणयोगेन हि ब्रह्मशब्दः, बृहत्त्वं च स्वरूपेण गुणैश्च यत्रानवधिकातिशयं सोऽस्य मुख्यार्थ " इति प्रपन्नस्य स्वरूपतो गुणैश्च निरतिशयबृहत्त्वस्य ब्रह्मशब्दप्रवृत्तिनिमित्तस्य "भगवन्नारायणाभिमतानुरूपस्वपरूपगुणविभवैश्वर्यशीलाद्यनवधिक- 
-
-193 
-
-च   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் महिममहिषी" इति वेदार्थसङ्ग्रहे च भगवद्भाष्यकारैः लक्ष्मीनिष्ठतयाऽभिहितत्वेन "येन भावेन भवति वासुदेवस्सनातनः । भवद्भावात्मकं ब्रह्म ततस्तच्छास्त्रगं परम् ॥ भवान्नारायणो देवो भावो लक्ष्मीरहं परा । लक्ष्मीनारायणाख्यं तदतो ब्रह्म सनातनम्।", "ब्रह्मणि श्रीनिवासे" इति ब्रह्मशब्दस्य लक्ष्मीविशिष्टे   
-लक्ष्मीविशिष्टे प्रयोगेण ब्रह्मशब्दवाच्यत्वस्यानिवार्यत्वात्, निस्समाभ्यधिकस्य च "ह्रीश्च ते लक्ष्मीश्च पत्नौ", "अप्रमेयं हि तत्तेजो यस्य सा जनकात्मजा" इति श्रुत्युपबृंहणाभ्याम् "ईष्टे कश्चिज्जगत इति यः पौरुषे सूक्त उक्तस्तं च त्वत्कं पतिमधिजगावुत्तरश्चानुवाकः", "वेदान्तास्तत्त्वचिन्तां मुरभिदुरसि यत्पादचिह्नस्तरन्ति", " अपाङ्गा भूयांसो यदुपरि परं ब्रह्म तदभूत्", "कान्तस्ते पुरुषोत्तमः" इत्यादितच्छ्रुत्यर्थपरपूर्वाचार्यसूक्तिपर्यालोचनेन लक्ष्मीविशिष्टनिष्ठत्वमकामेनाप्यादर्तव्यम्। अन्यथा लक्ष्मीगुणातिशयस्य भगवद्गुणातिशयरूपोत्कृष्टावधिमत्त्वेन, "अनवधिकातिशयासंख्येय- कल्याणगुणगणाम्", "यस्यास्ते महिमानमात्मन इव त्वद्वल्लभोऽपि प्रभुर्नालं मातुमियत्तया निरवधिं नित्यानुकूलं स्वतः", "देवि त्वन्महिमावधिर्न हरिणा 
-
-नापि   
-त्वया   
-ज्ञायते", 
-
-गुणविभवैश्वर्यशीलाद्यनवधिकमहिममहिषी'   
-च 
-
-"स्वानुरूपस्वरूपरूप- 
-
-इत्यादिभिर्लक्ष्मीस्वरूप- 
-
-गुणविभूत्यतिशयरूपमहिम्नोऽनवधिकत्वप्रतिपादनं विरुध्येत् ।   
-न चैवं 
-
-च   
-भगवन्नियाम्यत्वं न स्यादिति वाच्यम् । विशिष्टत्वकेवलत्वरूपावच्छेदकभेदेन निस्समाभ्यधिकत्वसावधिकत्वयोरविरोधात् । अवरात्मत्वे स्वव्यतिरिक्तनियाम्यत्वं न प्रयोजकम् । किन्त्वणुचेतनत्वादिकम्, अन्यथा वाल्लभ्येन लक्ष्मीनियाम्ये भगवत्यवरात्मत्वप्रसङ्गः किञ्च, "ईश्वरी सर्वभूतानां तामिहोपह्वये श्रियम्", "अस्येशाना जगतो विष्णुपत्नी", "ईशाना देवी भुवनस्याधिपत्नी” इत्यादिभिरीश्वरत्वावगमात् तद्विरोधादवरात्मत्वं बाधितम् । न चेश्वरीमित्यत्र “पुंयोगादाख्यायाम्” इति   
-\- 
-
-194   
-लक्ष्म्युपायत्वदीपः 
-
-इति वाच्यम् । तथा सति   
-स्त्रीप्रत्ययादीश्वरस्त्रीत्वमात्रं प्रतीयत इति सर्वभूतानामित्यस्यानन्वयापत्तिः । न चालुक्समासेन निर्वाहो युज्यते, सर्वभूतानामीश्वरीमिति श्रवणाभावात् स्त्रीप्रत्ययस्य बाहुलकतयाऽप्युपपत्तेः । तस्माद्विशिष्टत्वाकारेण लक्ष्म्याः ब्रह्मशब्दमुख्यार्थत्वमेव, न गौणत्वमिति, न ब्रह्मलक्षणस्य जगत्कारणत्वस्यातिव्याप्तिशङ्कावकाशः। 
-
-(ல.க) மேலும் 'எ' என்று தொடங்கி – “பரம்பொருளுக்கு லக்ஷணம் ஜகத்துக்குக் காரணமாய் அமைவது. அதை லக்ஷ்மிக்கும் சொன்னால் ப்ரம்ஹ லக்ஷணத்துக்கு அதிவ்யாப்தி வரும். மேலும், லஷ்மீயையும் \- பரம்பொருள் கட்டுப்படுத்துவதால்   
-பிராட்டியைவிட பகவான் 
-
-—   
-மேலானவர் என்பது தெரிய வருவதால் \- பிராட்டிக்கு ப்ரம்ஹ என்ற சொல்லால் முக்யமாய் கூறும் நிலை கூடாதாதலால் மூலப்ரக்ருதி என்பது உலகு படைக்க காரணமாயினும், அது ஸ்வதந்த்ரமாய் இல்லாதபடியால் \-U\<H எப்படி மோ, அப்படியே இங்கும் ஆகுமே என்பது பூர்வபக்ஷிகளின் கேள்வி. 
-
-இதற்கு பதில் வருமாறு " 
-
-ளிக His yÅ:1" என்று 
-
-4 என்பதே 
-
-9e34fAAH என்று ஏற்படுகிறது. இந்த இத்தகைய   
-ஸ்ரீபாஷ்யகாரர் அருளியபடியால் 
-
-ப்ருஹத்த்வம்   
-1   
-பிராட்டியிடமும் உண்டு என்பதாக 
-
-स्वरूपरूपगुणविभवैश्वर्यशीलाद्यनवधिक-   
-"भगवन्नारायणाभिमतानुरूप 
-
-महिममहिषी" என்று ஸ்ரீவேதார்த்த ஸங்க்ரஹத்தில் 
-
-அருளியபடியால் \- இது பிராட்டிக்கும் ஏற்கும். 
-
-येन भावेन भवति वासुदेवः सनातनः । भवद्भावात्मकं ब्रह्म ततः तच्छास्त्रगं परम् ॥ 
-
-195   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-\[எந்தெந்த   
-ஸ்வரூபாதிகளைக்கொண்டு   
-பகவான் 
-
-வாஸுதேவரே ஸநாதனரான பரம்பொருள் என்கிறோமோ, உலகில் இருப்பனவும், ஒரு பொருள் என்று அறியப்படுவது 
-
-எல்லாமே பரம்பொருளான அவரே   
-என்பதாக 
-
-சாஸ்த்ரங்களைக் கொண்டு   
-கொண்டு   
-அறியப்படும்   
-மிகவுயர்ந்த 
-
-பொருள் அவர்-) என்றும் 
-
-भवान् नारायणो देवः भावो लक्ष्मीरहं परा । 
-
-लक्ष्मीनारायणाख्यं तद् अतो ब्रह्म सनातनम् ॥ 
-
-\[பிராட்டியின் கூற்று   
-இது   
-\-   
-தேவரீர் தேவனான 
-
-நாராயணன். எல்லோரையும் விட மேலான பொருளாக 
-
-நான் உள்ளேன். ஆகவே லக்ஷ்மீ\-நாராயணர் என்ற ப்ரஹ்மம் தான் ஸநாதனமானது\] 
-
-ब्रह्मणि श्रीनिवासे 
-
-\[பரம்பொருளான பெரிய   
-பிராட்டியுடன் 
-
-திருவேங்கடமுடையானிடம் அடியேனுக்கு   
-கூடிய 
-
-பக்தி 
-
-ப்ரம்ஹசப்தம்   
-ரூபாபன்னமான ஜ்ஞானம் எப்போதும் இருக்கட்டும்) 
-
-என்பன   
-போன்றவற்றில் 
-
-லக்ஷ்மீவிசிஷ்டனையே சொல்லும் திறம் பெற்றது \- என்று காட்டப்பட்டதே. 
-
-இவருக்கு ஸமமானவர்களோ, மேலானவர்களோ இல்லை என்பதை \- “ஜி புர் \[எம்பெருமானே\!   
-“Â3⁄4 à 3⁄4 " தேவரீருக்கு பூமிப்பிராட்டியும்   
-பெரிய பிராட்டியாரும் 
-
-பத்னிகள் இல்லையா?\] என்று ச்ருதி காட்டியது. இந்த ச்ருதியை 
-
-“अप्रमेयं हि तत् तेजो यस्य सा जनकात्मजा" 
-
-\[ஜனக மஹாராஜனின் திருக்குமாரத்தியானவள் எவருக்கு 
-
-இல்லாளோ   
-அந்த   
-ஜானகியினுடையவும் 
-
-ஸ்ரீராமனுடையவும் தேஜஸ்   
-—   
-இவ்வளவு தான் என்று 
-
-ஒருவராலும் அளவிட்டுக் கூறமுடியாது\] என்று ஸ்ரீவால்மீகி பகவான் உபப்ரும்ஹணம் செய்தருளினார். 
-
-196   
-लक्ष्म्युपायत्वदीपः 
-
-மேலும் \- 
-
-ईष्टे कश्चित् जगत इति यः पौरुषे सूक्त उक्तः तं च त्वत्कं पतिम् अधि जगौ 3\</j41: (ஸ்ரீகுணரத்னகோசம் \- சு\-13) 
-
-\[இந்த உலகிற்கெல்லாம் எவர் தலைவர் – இந்த ஐச்வர்யம் யாவும் பகவானுடையனவே   
-1   
-என்று புருஷஸூக்தத்தில் யாரைக்காட்டியதோ- அவர் தேவரீருக்கு   
-(லக்ஷ்மிக்கு) கணவர் என்பதாக உத்தரநாராயணாநுவாகம் விளக்கி கூறியதே\!\] என்றும், 
-
-वेदान्ताः तत्त्वचिन्तां मुरभिदुरसि यत्पादचिह्नः तरन्ति, उत्तरश्चानुवाकः (ஸ்ரீகுணரத்னகோசம் \- சு\-4) 
-
-\[பரம் பொருள் எது? என்ற தத்துவ சிந்தனார்த்தம் செய்ய முற்பட்ட வேதாந்தங்கள் \- எந்த பரமாத்மாவின் திருமார்பில் பெரியபிராட்டியாரின் திருவடிகள் பட்டு கிணங்கள் ஏற்பட்டு உள்ளனவோ- அவனே- அந்த முராரியே பரம் பொருள் என்று முடிவுக்கு வந்தன.) என்றும்,   
-\- 
-
-அவர்சா ரி \[ஸ்ரீகுணரத்ன கோசம் – 30\] \[பெரிய பிராட்டியாரின் கடைக்கண் பார்வைகள் எந்த எம்பெருமானின் மேல் அதிகமாக விழுந்தனவோ பரப்ரஹ்மம் என்ற நிலைக்கு இலக்கானார்\] என்றும், 
-
-: \[சதுஸ்ஸ்லோகீ\-1\] 
-
-\[ஜகந்மாதாவே\! உனது   
-பிரியமான   
-\-   
-அவர் 
-
-கணவள் 
-
-புருஷோத்தமனாயிற்றே\] என்பன போன்ற ச்ருத்யர்த்தத்தை விளக்க வந்த பூர்வாசார்ய ஸ்ரீஸூக்திகளை நன்கு ஆராய்ந்தால் பரம் பொருளாகும் நிலை லக்ஷ்மியுடன் கூடிய பகவானுக்கே தகும்- என்பதை விருப்பமில்லாவிடினும் ஒப்பியே ஆக வேண்டும். இப்படி ஒப்பவில்லை என்றால் பூர்வாசார்ய ஸ்ரீஸூக்திகள் 
-
-197   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-\- 
-
-\-   
-விரோதிக்கும். வு \- லக்ஷ்மியின் குணாதிசயங்களைவிட பகவானின் குணாதிசயங்கள் உத்க்ருஷ்டங்கள் என்று கொண்டால் अनवधिकातिशयासंख्येय- कल्याणगुणगणाम् \[m விட அதிகமாயும், அதிசயமாயும் எண்ணுக்கடங்காமலும் இருக்க முடியாத அளவற்ற அதிசயமான எண்ணமுடியாத \- மக்களுக்கு   
-நன்மைகளையே   
-அருளக்கூடிய குணக்குவியல்களை உடையவள் பெரிய பிராட்டி இது சரணாகதிகத்யம் தொடக்கத்தில்\] என்பன போன்ற ஸம்ப்ரதாய கூடஸ்த்தர்களின் திருவாக்குகளுக்கு விரோதம் வரும். 
-
-यस्यास्ते महिमानम् आत्मन इव त्वद्वल्लभोऽपि प्रभुः 
-
-ஞ் 44s94fA   
-\- 
-
-\[சதுச்சுலோகீ\]   
-\- 
-
-\[லோகநாதனான எம்பெருமானின் மஹிஷியே\! உன் வல்லபனான ஸர்வஜ்ஞனான பகவானாலும்- உன் மஹிமைகளை 'இவ்வளவுதான்" என்று அளவிட்டுக் கூறமுடியாது”. "தான் தன் பெருமை அறியார்" என்றபடி அவர் பெருமைகளும் எப்படி அளவிறந்தனவோ- எப்போதும் ஜீவராசிகளுக்கு அநுகூலத்தையே செய்வாரோ – அப்படியே நீரும், உமது கல்யாணகுணங்களும்\] 
-
-ஸ்ரீஸ்தவம்-8\] 
-
-\[அகில   
-ஜகந்நாயகியான   
-ஆழ்வானின் 
-
-பெரியபிராட்டியாரே\! 
-
-தேவரீருடைய மஹிமைகளின் எல்லை **–** ஸர்வஜ்ஞனான ஸ்ரீஹரியாலும்\-உம்மாலுமே அறியமுடியாதே\] 
-
-ஸங்க்ரஹம்\]   
-சரி சரி \[வேதார்த்த 
-
-\[எம்பெருமானே\! தேவரீருக்கு ஏற்றபடியான ஸ்வரூபம், திருமேனி, கல்யாணகுணங்கள், நித்யவிபூதி\-லீலாவிபூதி என்ற விபூதிகள், செல்வம், வாத்ஸல்யம் முதலான 
-
-198   
-लक्ष्म्युपायत्वदीपः 
-
-நற்பண்புகள், இவைகள் அளவு கடந்த மஹிமைகள். இவைகளுடன் கூடின திவ்யமஹிஷி அன்றோ தேவரீர் தேவிகள்-\] இது போன்ற பலவசனங்களால்- 
-
-லக்ஷ்மீஸ்வரூபம்   
-1   
-திருமேனி   
-\- 
-
-வைபவங்கள்\-ஸொத்து\-முதலானயாவும்-   
-கல்யாணகுணங்கள்- 
-
-ஒருவருக்கும் 
-
-அமையவாகாத நிலையில் உள்ளன. இவையாவும் விரோதிக்கும். 
-
-\--   
-இப்படிக்கொண்டால் "பகவானின் கட்டுப்பாட்டில் பிராட்டி இருக்கிறாள்" என்ற வசனங்களை எப்படி பொருந்த விடுவது? என்ற ஸந்தேஹம் வேண்டாம். சாஸ்த்ரகாரர்கள் \- विशिष्टत्व केवलत्वरूपावच्छेदभेदेन निस्समाभ्यधिकत्वस्य सावधिकत्वस्य च afiud என்றனரே. அதே இங்கும் பதில். அதாவது श्रीविशिष्टत्वरूपेण जगत्कारणत्वम् \- भगवति । भगवद्विशिष्टत्वरूपेण जगत्कारणत्वं 
-
-இப்படிப்பட்ட&q4: என்ற நிலை மற்றையோர் ஒருவருக்கும் ஏற்படவழியில்லை. இதனை தர்க்க ரீதியாக பரிஷ்கரித்து 
-
-औपनिषदी सरस्वती (ஸ்ரீவரதராஜஸ்தவம்\-1) விளக்கும்போது நாம் (ஸ்ரீவத்ஸாங்காசார்ய   
-\- 
-
-என்பதை ஸ்வாமி) 
-
-ஸம்ஸ்க்ருதவ்யாக்யானத்தில் விரிவாகக் காட்டியுள்ளோம். 
-
-ஆத்மாக்களில் अवरात्मत्वम्\= தாழ்ந்த நிலையில் 
-
-இருக்கும் ஆத்மா \- என்பதற்கு   
-என்பது காரணமில்லை. பின் எது? என்றால் अणुचेतनत्वादिकम्. ஜீவர்கள்   
-யாவருமே   
-\- 
-
-அணுபரிமாண முள்ளவர்களானபடியால் ஸர்வவஸ்துக்களிலும் உள்ளும்- புறமும் வ்யாபிக்கமுடியாது. இது ஸ்ரீபாஷ்யாதிகளில் ஸ்பஷ்டம். பிராட்டி அவராத்மையில்லை. plHவே. இது "ईश्वरी सर्वभूतानां त्वामिहोपह्वये श्रियम्", "अस्येशाना जगतो विष्णुपत्नी ", "ईशाना   
-"என்பன போன்ற ச்ருதிகள் பிராட்டியை விப்வீ \= எங்கும், எதிலும், எப்போதும் பரவி   
-देवी 
-
-199 
-
-காட்டுகிறது. எம்பெருமான் எப்படி 
-
-—   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் உள்ளவள் என்று "3 H : :" என்னப்பட்டானோ அப்படியே பிராட்டியும். இதை ஆழ்வாரும் அருளிச் செய்தார் “அகலகில்லேன் இறையுமென்று அலர்மேல் மங்கை உறை மார்பா” என்றபோது இறை\=ஒரு கணமும் பிராட்டி எம்பெருமானை விட்டுப்பிரிவதில்லை- என்பதைக் காட்டியருளினார்.   
-"அனைத்துலகுமுடைய அரவிந்தலோசனனை   
-\- 
-
-தினைத்தனையும் விடாதே" 
-
-\-   
-என்றபோது – தினைத்தனையும்– தினை என்கிற மிகச்சிறிய தான்யத்தை வைக்கத் தேவையான இடமும் விடாமல் பிராட்டி தேசத்தால் எங்கும் பகவானைப் போல் வ்யாபித்திருக்கிறார் – என்பதை ஆழ்வார் காட்டியருளினார். சதுச்சுலோகிபாஷ்யத்தின் நமது தமிழ் விரிவுரையில் 
-
-மற்றவற்றைக் காண்பது. 
-
-வால்லப்யத்தால் பிராட்டி எம்பெருமானிடம் அவனையும் நியமிக்கும் நிலைபோல் – சில நேரம் இருக்கும், இதனால் எம்பெருமானுக்கு பரதந்த்ரத்வமில்லை. இனி சிரி\* சபுரா என்று உள்ளபோது É புளி ன் என்று பொருள் கொண்டு "gqi \[q\[H" என்ற ஸூத்ரத்தால் ஙீப் ப்ரத்யயம் இங்கு வந்ததாக தோன்றுகிறதே. இப்படி இருக்க ஸர்வலோகநியந்த்ரீ என்பது எப்படி கிடைக்கும்? என்பது ஒரு ப்ரபலமான கேள்வி. 
-
-என்பதை   
-இதற்கு பதில் 
-
-எங்கே   
-—   
-இப்படிக் கொண்டால் அந்வயிப்பது?   
-ஆகவே ஸர்வபூதங்களுக்கும் இவளே ஈச்வரீ என்பதே ச்ருதிக்கு திருவுள்ளம் என ஏற்படுகிறது. H\-II\-II என்றபோது ஷஷ்டீபஹுவசனத்துக்கு 3ā H4Hம் கொள்வோமே என்னவும் முடியாது. நீங்கள் கூறியபடி இங்கு அலுக்ஸமாஸம் வரவேண்டுமானால் \- பு என்று இருந்திருக்க வேண்டும். அப்படியில்லையே. ஸ்த்ரீ 
-
-200   
-लक्ष्म्युपायत्वदीपः 
-
-ப்ரத்யயமானது   
-www.org \- "बाहुलकं प्रकृतेः तनुदृष्टेः प्रायसमुच्चयनादपि तेषाम् " गां की |w बाहुलकत्वात्, অ 
-
-प्रायसमुच्चयनात् For Gio. श्री 35 mm Gggo, ச்ருதியில் இருப்பதற்கு உள்ளபடி பொருள் கொள்வதே வையாகரணர் கையாண்ட முறை. நாமாக இஷ்டத்துக்கு விளையாடக் Fr\_LITI. ஆகவே ஜகத்காரணத்வம் ப்ரஹ்மலக்ஷணம் என்பது லக்ஷ்மியிடமும் பொருந்தும். ஒரு குற்றமுமில்லை. 
-
-(ल.उ.दी) ननु यदि लक्ष्म्यास्सर्वनियामकत्वेन भगवन्नियामकत्वमपि अभ्युपगम्येत, तर्ह्यभयोस्सर्वनियामकत्वेन परस्परनियामकत्वेन चेश्वरद्वित्वापत्तिः, उभयोरपि परस्परनियाम्यत्वेन निस्समाभ्यधिकत्वस्य अभावात् उभयोरप्यनीश्वरत्वापत्तिश्च, पतिपत्नीभावानुपपत्तिश्च स्यादिति चेत्, “क्षरात्मानावीशते देव एकः” इति श्रुत्या ईश्वरैक्यावगमेन तद्विरुद्धमीश्वरद्वित्वमिति हीश्वरद्वित्वमापादयतोऽभिप्रायः, स चानुपपन्नः, देवशब्दस्य “श्रद्धया देवो देवत्वमश्नुते” इति श्रुत्यन्तरानुसारेण च लक्ष्मीविशिष्टभगवद्वाचकतया तत्समानाधिकरणैकशब्दस्य विशिष्टैक्यपरतया विशिष्टव्यतिरिक्ते ईश्वरत्वव्यवच्छेदकत्वाद्\-विशिष्टस्येश्वरत्वाङ्गीकारे विरोधाभावात् । अन्यथा लक्ष्म्यैश्वर्यप्रतिपादकपूर्वोक्तप्रमाणसम्प्रदायविरोधो दुर्निवारस्स्यात् । न च सर्वनियामकत्वं भगवन्नियामकत्वापादकम् “सर्वस्य वशी सर्वस्येशानः” इत्यत्र सर्वशब्दस्य “ प्रधानपुरुषेश्वरः”, “क्षरात्मानावीशते देव एकः”, “उतामृतत्त्वस्येशानः*”* इत्यादिप्रमाणानुसारेण योग्यतया च   
-विधीयमानेश्वरत्वाधिकरणव्यतिरिक्तकृत्स्नपरतया भगवत्सङ्ग्राहकत्वाभावात् । न चैवं भगवतो लक्ष्मीशत्त्वाभावप्रसङ्गः, “ह्रीश्च ते लक्ष्मीश्च पत्न्यौ” इति लक्ष्मीनिरूपितेश्वरत्वाङ्गीकारे विरोधाभावात्, पुरुषकारत्वमात्राङ्गीकारपक्षेऽपि श्रियो वाल्लभ्येन भगवन्नियामकत्वाङ्गीकारेण 
-
-201   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-पुरुषकारत्वासिद्ध्या   
-भगवति 
-
-निस्समाभ्यधिकत्वाभावप्रयोजकत्वे 
-
-प्रयुक्तानीश्वरत्वापत्तेर्दुर्वारत्वात्। 
-
-(ல.க)   
-तन्नियाम्यत्वावश्यंभावेन   
-तस्य 
-
-निस्समाभ्यधिकत्वाभाव- 
-
-கேள்வி: எல்லோரையும்   
-கட்டுப்படுத்துமவள் 
-
-பெரியபிராட்டியார்   
-என்று கொண்டு இப்படி 
-
-கூறமுற்பட்டால் பகவானை நியமிப்பதும் பிராட்டிக்கு ஏற்கவேண்டி வரும். இவளுக்கு நியாமகன் பகவான் என்பதை எல்லோரும் ஒப்பினோம். இப்போது இருவருக்கும் இருவரும் நியாமகர்கள்   
-என்று 
-
-ஏற்படுகிறபடியால் பு உலகிற்கு இரண்டு 
-
-\-   
-ஈச்வரர்கள் என்று ஒப்பியதாகும். விநிகமனா விரஹேண \- இருவருமே உலகிற்கு தலைவரில்லை என்றும் கூற வேண்டிவரும். பதி\-பத்னிபாவமும் ஒப்பியதாக ஆகாது. क्षरात्मानौ ईशते देव एकः (க்ஷரம் என்னப்பட்ட மூலப்ரக்ருத்யாதிகளையும், ஜீவராசிகளுக்கும் தலைவராய் இருந்து நடத்திக்கொண்டு போகுமவர் வாஸுதேவனான பரமாத்மா ஒருவரே) என்பன போன்ற ப்ரமாணங்களுக்கு விரோதமும் வருமே? 
-
-பதில்: இது நேரில்லை. '�ஏ க:' என்றபோது q: என்ற சொல் "சவு q\<H அā' என்று கீழே எடுத்துவிளக்கிய ச்ருதியின்படிக்கு லக்ஷ்மீவிசிஷ்டனையே   
-\-   
-\- 
-
-தேவனாகக்   
-கூறுகிறது. 
-
-ஸமானாதிகரணமான க:   
-ஆகவே 
-
-என்ற   
-அதற்கு 
-
-சொல்லும் 
-
-மாகவே கொள்ளவேண்டும். 
-
-fuar: jq|7- என்பதை எப்படி க: என்ற சொல் 
-
-தடுக்காதோ   
-அப்படியே लक्ष्मीविशिष्टत्वम् என்பது 
-
-புகவுÅமானபடியால் இரு குற்றமுமில்லை. 
-
-202 \-   
-लक्ष्म्युपायत्वदीपः 
-
-பகவத் ஸ்வரூபநிரூபகமான தர்மங்கள்-- 3{««\<I¢q\-3{4dq\-31-புகள். இவை மட்டிலும் இல்லை, இவைகள் ப்ரதானமானது. இதை "சிங்கள் உகளிலும் வருகிறகணக்கிலே அவற்றில் மான இந்த விசேஷணமும் எfபுகளிலும் 3HPபுபு| இது தான் cadlk fயையும் பண்ணிக்கொண்டு   
-யான 
-
-த்துக்கு Aகமாம்” என்று மூலமந்த்ராதிகாரத்தில் ஸ்ரீஸ்வாமி தேசிகன் அருளியதை இங்கு அநுஸந்திப்பது. 
-
-இப்படி பெரியபிராட்டியாருக்கு சாஸ்த்ரங்களால் தெரிவிக்கப்பட்ட பெருமைகளை ஒப்பாவிடில் ப்ரமாணவிரோதத்துடன் – ஸம்ப்ரதாயவிரோதமும் வரும். 
-
-பிராட்டிக்கு सर्वनियामकत्वम् உண்டு என்பது சாஸ்த்ரவிரோதமில்லாத இடங்களிலேயே ஆகக்கடவது. सर्वस्य वशी,   
-\[எல்லாவற்றையும் தன் வசத்தில் கொண்டுள்ளவர், எல்லாவற்றையும் கட்டுப்படுத்துமவர்\] என்ற போது Hē என்ற சொல் ஏulyÀ: \[மூலப்ரக்ருதி, ஜீவர்கள் இவர்களுக்குத் தலைவர்), க: \[க்ஷரம் என்னப்பட்ட மூலப்ரக்ருத்யாதிகளையும், ஜீவவர்கங்களையும் தான் ஒருவராகவே இருந்து கட்டுப்படுத்துபவர்\], \[மேலும் ஜீவர்களுக்கு மோக்ஷமளிக்கும் தலைவரும் அவரே) என்பன போன்ற ப்ரமாணங்களை அநுஸரித்து   
-இவைகளுக்குத் தகுந்தபடியான ஈச்வரத்வமே தவிர \- அதைவிட வேறானது இல்லை \- என்றபடியால் \- இதில் பிராட்டியின் ஆளுகைக்கு உட்பட்டவன் பரமாத்மா என்பது ஏற்படாதே.   
-\- 
-
-இப்படியானால் பகவானுக்கு லக்ஷ்மீபதித்வமில்லாமல் போய்விடுமே \- என்று எண்ண வேண்டாம். கிரணின் 
-
-என்ற   
-வசனங்களால் 
-
-203   
-பகவானுக்கு   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-பத்னீநிரூபிதேச்வரத்வத்தை 
-
-முரணில்லை.   
-ஒப்புக்கொள்வதில் 
-
-பிராட்டிக்கு புருஷகாரத்வம் மட்டிலுமே 
-
-ஒப்பினவர்களுக்கும்,   
-லக்ஷ்மிக்கு   
-\-   
-என்று 
-
-தமது 
-
-வால்லப்யாதிசயத்தால் பதிவிஷயத்தில் நியாமகத்வம் உண்டு என்று ஒப்ப வேண்டிவருவதால் \- புருஷகாரத்வமும் ஸித்திக்காது. அதனால் निस्समाभ्यधिकत्वम् என்பது சாஸ்த்ரீயவிஷயமாகவே கொள்ளவேண்டும். 
-
-f   
-(க.3.c) 3வு, "3\-அகன் qA", "3{ मया सीता” इत्यादिभिर्लक्ष्म्या भगवदनन्यत्वं तावद्विधीयते तच्च न स्वरूपैक्यम्, भेदबोधकबहुप्रमाणविरोधात् नाप्यपृथक्सिद्धत्वम्, तस्य सर्वचिदचित्साधारणतयाऽनेकप्रमाणसिद्धत्वादेतदसाधारणत्वेन विशिष्य विधानानुपपत्तेः, अतोऽस्यां विधीमानानन्यत्वं अन्यत्वप्रयुक्तदोषाः न भवतीति 9fa, तेन वाल्लभ्येन (ஏ) लक्ष्मीनियाम्यत्वेऽप्यन्यनियाम्यत्वप्रयुक्तदोषो नास्तीति चेत् । 
-
-\-   
-(ல.க) இப்படியில்லை \- என்றால் \- 3q naduக் க यथा \[ராகவனான ஸ்ரீராமபிரானை விட்டுப் பிரிக்கமுடியாதவள் நான் – ஸூர்யனை விட்டு எப்படி ஒளி பிரிக்க முடியாதோ அப்படி\] \[இது ஸீதாபிராட்டியின் திருவாக்கு\], अनन्या हि मया सीता   
-Üai (என்னைவிட்டுப் பிரிக்கமுடியாதபடி ஒத்தக்கருத்துடையவள் ஸீதை – இது ஸ்ரீராமபிரானின் திருவாக்கு\] என்பன போன்றவற்றால் தெரிவிக்கப்பட்ட 344 என்பது \- ஸ்வரூபைக்யமில்லை. அப்படிகொண்டால், பிராட்டியையும் பெருமாளையும் தெரிவிக்கும் பலப்ரமாணங்கள்   
-வெவ்வேறாகத் 
-
-விரோதிக்கும். अपृथक्सिद्धत्वम्   
-ஒருவரின்றி 
-
-மற்றொருவரில்லை   
-—   
-என்கிற நிலையுமில்லை. நம் 
-
-204   
-लक्ष्म्युपायत्वदीपः 
-
-ஸித்தாந்தத்தில் பகவானைவிட என்பதை ஸர்வவிதமான சேதனாசேதனங்களுக்கும் ஸாதாரணமாக ஒப்பியுள்ளோமே. ஆகவே பிராட்டியை 
-
-अन्यत्वप्रयुक्ताः दोषाः न भवन्ति   
-\-   
-\-   
-{rq என்றது \- 
-
-வெவ்வேறு (மாறுபட்ட) 
-
-ஏற்படும் 
-
-என்றே   
-கருத்துக்களை உடையவர்கள் என்றால் குற்றமில்லாதபடி ஒத்தக்கருத்துள்ளவர்கள் கொள்ளவேண்டும். இப்படி ஸித்தாந்தமானபடியால் \- பிராட்டி தனது வால்லப்யாதிசயத்தால் பகவானை நியமிக்க நேரும் ஸந்தர்பங்களிலும் अन्यनियाम्यत्वप्रयुक्तदोषः न भवति என்றே கருத்து   
-\- 
-
-(ल. उ. दी) तर्हि सीता मयानन्येत्युक्त्या अहं सीतानन्य इत्यर्थस्यापि 
-
-समानसंवित्संवेद्यतया   
-प्रतीयमानत्वे 
-
-भगवन्नियाम्यत्वेऽप्यन्यनियाम्यत्वप्रयुक्तदोषाभावस्य   
-लक्ष्म्या समानत्वेन 
-
-अन्यनियाम्यत्वप्रयुक्तनिस्समाभ्यधिकत्वाभावस्य तत्प्रयुक्तानीश्वरत्वस्य च श्रीश्रीशयोरुभयोरप्यापादनानवकाशात्। अत एव न पत्नीत्वाविरोधात् पतिपत्नीभावानुपपत्तिरपि, वाल्लभ्येन पतिनियामकत्वेऽपि तेन पत्नीनियाम्यत्वेऽपि पतित्वविरोधाभावाच्च, प्रत्युत वाल्लभ्येन नियाम्यत्वनियामकत्वयोः पतिपत्नीभावोत्कर्षावहत्वात् । 
-
-(லக) இப்படி கூறினாலும், சிரி பு43}\-RI என்றால் அT सीतानन्यः   
-என்ற பொருள் தானே கிடைப்பதால் 
-
-\-   
-\-   
-\= அதற்கு ஸமானமான அறிவால் அறியப்பட வேண்டியவன் பகவான் என்ற பொருள் கிடைப்பதால் லக்ஷ்மிக்கு பகவானின் நியமனத்துக்கு உட்பட்டநிலையைக் கொண்டாலும், வேறொருவரின் நியமனத்துக்கு பிராட்டி 
-
-கட்டுப்பட்டவள்   
-என்பது   
-என்பது இல்லை 
-
-205   
-—   
-என்ற நிலை   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-ஸமானமாம்.   
-இதனால்   
-अन्यनियाम्यत्वप्रयुक्त- 
-
-\=   
-மும், அதை முன்னிட்டுவரும் அAவும் என்பதும்\--அவர்கள் என்ற இந்த இருவருக்கும் வரட்டுமே என்று கூறமுடியாது. அதனாலேயே பிராட்டி பத்னியாய் இருப்பதும் தடைபடாது. வால்லப்யத்தால் உரிமை எடுத்துக்கொண்டு பதியை பிராட்டி கட்டுப்படுத்தும்போதும் \- இந்த பதி\-பத்னீ பாவஸம்பந்தத்துக்கு விரோதம் இல்லை. இன்னமும் கேட்டால் வால்லப்யத்தால் பிராட்டி நடந்துக்கொள்வது   
-\- 
-
-மேன்மையையே கொடுக்கும்.   
-பதி\-பத்னீபாவத்துக்கு 
-
-लक्ष्म्या   
-(கு..) यच्च ननु इत्यादिना भगवत्सृष्टिकर्मणि अनुमन्तृ(त्व)रूपकारणत्वमाशङ्क्य भूम्यादौ तत्प्रसञ्जनं कृतम्, तदपि “यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो विधत्तेऽखिलम्”, “यद्भूभङ्गाः प्रमाणं स्थिरचररचनातारतम्ये मुरारेः” इत्यादिभिरनुमन्तृत्वस्य लक्ष्म्यामिव भूम्यादावनुपलम्भात् मुख्यपत्नीत्वव्यापकपतिकर्तृककर्मानुमन्तृत्वनिवृत्त्या मुख्यपत्नीत्वस्यैव निवृत्तेः, भगवत इव श्रियोऽपि कर्तृत्वरूपकारणत्वस्यापि बहुप्रमाणसिद्धतया प्रागुपपादितत्वेन तस्य भूम्यादिसाधारण्ये मानाभावाच्च, 
-
-अपि   
-यजमानपत्न्या   
-स्नाताहतवासः- 
-
-परिधानाद्यात्मकदीक्षादिरूपयागान्तर्गतव्यापारकर्तृत्वस्यैवोपलब्धेर्न 
-
-दृष्टान्तवैषम्यं च । 
-
-—   
-பகவானின்   
-(ல.க) இப்படி பெரியபிராட்டியாருக்கு ஜகத்ஸ்ருஷ்ட்யாதி செயல்களில் 34H\= அநுமதியை அளிப்பதையே கொண்டோமானால் \- பூமி\-நீளாதி தேவிகள் விஷயத்திலும் இதுவே கூடுமாகையால் \- அவர்களைவிட பெரியபிராட்டியாருக்கு என்ன ஏற்றம் சொல்லமுடியும்? "यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो என்று கேட்கவேண்டாம்.   
-11 
-
-206   
-लक्ष्म्युपायत्वदीपः 
-
-—   
-fautisf€4" \- \[ஆழ்வானின் ஸ்ரீஸ்தவம்\-1 \- எம்பெருமான் பெரியபிராட்டியின் திருமுக மண்டலத்தைப் பார்த்து குறிப்பால் அவள் கருத்தை உணர்ந்து ஜகத்ஸ்ருஷ்டி\-ஸ்திதி\-ஸம்ஹாரம்\-மோக்ஷப்ரதானம் 
-
-முதலானவைகளைச்   
-\-   
-அதன்படி 
-
-செய்கிறார்\]   
-प्रमाणं 
-
-स्थिरचररचनातारतम्ये 
-
-\[முராரியான   
-\[ஸ்ரீகுணரத்னகோஸம்\-4\] 
-
-எம்பெருமான்,   
-சராசரங்களான 
-
-பெரியபிராட்டியாரின்   
-புருவ   
-ஸகலபொருட்களின் ஏற்றத்தாழ்வுகளுக்குப் ப்ரமாணமாக 
-
-அசைவுகளையே கொள்கிறாரோ-\]   
-என்பன போன்ற பூர்வாசார்ய ஸ்ரீஸூக்திகள் பகவானின் ஜகத்ஸ்ருஷ்ட்யாதிகளை பிராட்டி அநுமோதனம் செய்கிறாள் என்று காட்டியதைப் போன்று பூமி\-நீளைகள் விஷயத்தில் காட்டவில்லை.   
-\- 
-
-\-   
-த்தில் போலே (பல மனைவிகள் இருந்தாலும் வேள்வியைச் செய்யும்போது முதல் மனைவிக்கே தீக்ஷணீயேஷ்டி, தொடங்கி அவப்ருதஸ்னானம் வரையிலும் யஜமானனுடன் ஒத்துழைக்க வேண்டும். இதுவே யஜ்ஞதந்த்ரம்.)   
-ப்ரபன்ன ஜனஸம்ரக்ஷண யஜ்ஞத்தில் பகவானுடன் கூடியிருந்து செயல்படும்   
-பெரியபிராட்டிக்கே 
-
-நிலையாகும்.   
-வேள்வியில் 
-
-யஜமானனைப்போன்று ஸ்நானம், ஸங்கல்பம், 35d1q1H:\-   
-— 
-
-\= உலர்ந்த புதிய வஸ்த்ரத்தை உடுத்திக்கொள்வது. தீக்ஷை முதலான வேள்வியைச் சேர்ந்த வ்யாபாரங்களை யஜமான பத்னியும் செய்யக்கடவள் \- என்றதைப் போன்றது 
-
-இது. 
-
-(S.ச.)   
-यच्च   
-लक्ष्म्याः स्वरूपरूपगुणविभूति- बृहत्त्वबृह्मणत्वादेर्भगवत्सङ्कल्पाधीनत्वेनानन्याधीनत्वरूपस्वाभाविकत्वा- 
-
-भावान्न   
-जगत्कारणत्वम्,   
-अनन्याधीनबृहत्त्वबृह्मणत्वादेरेव 
-
-207   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-ब्रह्मशब्दप्रवृत्तिनिमित्ततया तादृशप्रवृत्तिनिमित्तपौष्कल्यस्य भगवदेकनिष्ठतया स एव ब्रह्मशब्दवाच्यः स एव जगत्कारणत्वमिति प्रत्यपादि, तदपि न जाघटीति । लक्ष्म्या भगवदनन्यत्वविधायकप्रमाणानुसारेण पूर्वोक्तरीत्या भगवतोऽपि लक्ष्म्यनन्यत्व सिद्ध्या लक्ष्मीस्वरूपादिबृहत्त्वस्यानन्याधीनत्व- रूपस्वाभाविकत्वानुपपत्त्यभावात्। 
-
-(ல.க) இதற்கும் மேல் மீண்டும் கேள்வி:\- 
-
-"பிராட்டிக்கு அவளது ஸ்வரூபம்\-ரூபம்\-குணங்கள்- விபூதிகள் எல்லோரையும் விட பெரியநிலை (Ec), தன்னை அண்டியவர்களைப் பெரியநிலைக்கு ஏற்றுவது (Ž8UH), இது முதலானவைகள் யாவும் பகவத் ஸங்கல்பத்தால் அமைந்தன.   
-இவையாவும்   
-அ\-பிரிமாயும் கமுமில்லை. ஆகவே பிராட்டிக்கு GIUCH கூடாது. வேறோருவருக்கு   
-ப்ருஹத்த்வ- ப்ரும்ஹணத்வாதிகள் தான் ப்ரம்ஹம் என்ற சொல்லுக்கு உரிய ஏற்றம். அவனே ஜகத்காரணம் \-" என்பது கேள்வி.   
-அடங்காத 
-
-இதற்கு பதில் :\- இதுவும் பொருந்தாது. பகவானுக்கும் பிராட்டிக்கும் 3{\-4ஈத்தைக் காட்டும் ப்ரமாணங்களை அநுஸரித்து பகவானுக்கும் பெரிய பிராட்டியாருக்கும் 
-
-ஆனபடியால்   
-—   
-—   
-முன்பு கூறியபடியே 
-
-H ஸித்தம், 
-
-லக்ஷ்மியின் ஸ்வரூப\-ரூப\-குண- விபவாதிகளான 54 எல்லாம் अनन्याधीनम्, स्वाभाविकम् என்றும் ஏற்படுகிறது. அதனால் குற்றமில்லை. 
-
-(ल.उ.दी) वस्तुतस्तु "बृहत्त्वं च स्वरूपेण गुणैश्च यत्रानवधिकातिशयं सोऽस्य मुख्योर्थः” इति ब्रह्मशब्दप्रवृत्तिनिमित्तप्रतिपादनपरभाष्ये स्वभावत इति विशेषणाभावात् एतद्विषयश्रुतप्रकाशिकायां "बृहत्त्वगुणमात्रयोगिषु सर्वेषु ब्रह्मशब्दप्रयोगाभावात् स्वरूपतो गुणतश्चानवधिकातिशयबृहत्त्वं 
-
-208   
-लक्ष्म्युपायत्वदीपः 
-
-प्रवृत्तिनिमित्तमित्यर्थः” इत्यादिकायां स्वभावत इत्यकथनाच्च लक्ष्म्या ब्रह्मशब्दवाच्यत्वे नानुपपत्तिः । न च " ब्रह्मशब्देन च स्वभावतो निरस्तनिखिलदोषोऽनवधिकातिशयासंख्येयकल्याणगुणगणः 
-
-विशेषणद्वयं   
-ब्रह्मशब्दस्य   
-पुरुषोत्तमोऽभिधीयते” इति ब्रह्मशब्दव्याख्यानपरभाष्ये स्वभावत इति विशेषणोपादानात् तस्यापि प्रवृत्तिनिमित्तान्तर्भाव इति वाच्यम्। " इदं च शब्दशक्तेरर्थसामर्थ्याच्च पुरुषोत्तमपरत्वप्रतिपादनोपयोगितयोक्तम्, नतु प्रवृत्तिनिमित्ततया गुणतोऽपि बृहत्त्वे सति शब्दशक्त्यसङ्कोचसिद्धेः" इति तद्भाष्यविषयश्रुतप्रकाशिकायां प्रवृत्तिनिमित्तस्याभाव-   
-गुणतोऽनवधिकातिशयबृहत्त्वातिरिक्तस्य 
-
-प्रतिपादनात् । न च ब्रह्मशब्दस्य शब्दशक्तेः पुरुषोत्तमपरत्व- प्रतिपादनोपयोगितयोक्तस्याऽनवधिकातिशयासंख्येयकल्याणगुणगणत्वस्य “स्वभावतः” इत्युत्तरत्राप्यनुषङ्गः, "अनुषक्तेन स्वभावत इति पदेन वा नित्यसिद्धव्यावृत्तिः” इति श्रुतप्रकाशिकावाक्याभ्यां स्वाभाविकत्वेन विशेषितत्वात् तदभावेन उपपादनासम्भवान्न ब्रह्मशब्दशक्तेर्लक्ष्म्यां सम्भव इति वाच्यम्। "तेन गुणानामविद्याकल्पितत्वपक्षव्यावृत्तिः" इति तत्रत्यवाक्येन स्वाभाविकत्वस्याविद्याकल्पितत्वाभावरूपत्वाभिधानेन तस्य लक्ष्मीगुणेष्वपि 
-
-सम्भवात्। 
-
-(0.5) ofurqu♚ी "बृहत्त्वं च स्वरूपेण गुणैश्च यत्रानवधिकातिशयं सोऽस्य मुख्योऽर्थः " rml தான் ப்ருஹத்த்வத்துக்கு शीना कंकन furquarri 3 स्वभावतः விசேஷணமில்லை \- என்பதை கவனிக்கவும். இதற்கு 2muGurgl क्रमली "बृहत्त्वगुणमात्रयोगिषु सर्वेषु ब्रह्मशब्दप्रयोगाभावात्स्वरूपतो गुणतश्चानवधिकातिशयबृहत्त्वं प्रवृत्तिनिमित्तमित्यर्थः" Tom 2नानाका स्वभावतः | 
-
-209   
-\-   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-கூறவில்லை. ஆகவே லக்ஷ்மிக்கும் கொள்வதில் எந்த அநுபபத்தியுமில்லை. 
-
-கேள்வி:\- அங்கு இல்லாவிடினும், "ஈ निरस्तनिखिलदोषोऽनवधिकातिशयासंख्येयकल्याणगुणगणः   
-ब्रह्मशब्दवाच्यत्वम् 
-
-पुरुषोत्तमोऽभिधीयते" என்று ப்ரம்ஹசப்த வ்யாக்யானம் பண்ணும்போது அதே ஸ்ரீபாஷ்யத்தில் Hidd: என்ற விசேஷணமுள்ளதே\! ஆகவே ஸ்வபாவத என்பதும் 
-
-ரியாத்தில் சேர்ந்தது என்று ஒப்பவேண்டுமே? என்று. 
-
-இதை விளக்கவந்த ச்ருதப்ரகாசிகையில் 
-
-विशेषणद्वयं   
-शब्दशक्तेरर्थसामर्थ्याच्च (स्वाभाव्याच्च ?)   
-ब्रह्मशब्दस्य 
-
-पुरुषोत्तमपरत्वप्रतिपादनोपयोगितयोक्तम्, नतु प्रवृत्तिनिमित्ततया, गुणतोऽपि बृहत्त्वे பிரிக்:" என்று உள்ளதை கவனிக்கவும். இந்த गुणतोऽनवधिकातिशयबृहत्त्वातिरिक्तस्य प्रवृत्तिनिमित्तस्य   
-வாக்யத்தால் 
-
-भावप्रतिपादनात्   
-\- 
-
-\+rasfqiqrlid \- என்றது பொருள்தேறும். ப்ரம்ஹசப்தத்தின் 
-
-மட்டும் கொண்டு பார்த்தால்   
-சக்தியை 
-
-புருஷோத்தமனையே   
-கூறுவதற்குத் 
-
-அளிகரிபுளிப்புகணத்வம் என்பதை \-   
-\-   
-\- 
-
-தகுந்தபடி 
-
-स्वभावतः 
-
-\-   
-என்பதற்கு மேலே சேர்த்துக்கொண்டு பொருள் கொள்வது \- என்று ச்ருதப்ரகாசிகையில் அருளினார். மேலும் அங்கு अनुषक्तेन स्वभावतः इति पदेन वा ரிரி: என்ற ச்ருதப்ரகாசிகா வாக்யத்தாலும் 
-
-விசேஷிக்கப்பட்டபடியால்   
-—   
-\-   
-என்று 
-
-அந்த நிலை பிராட்டியிடம் இல்லையானபடியால் \- ப்ரம்ஹ என்ற சொல் லக்ஷ்மியைக் கூறாது \- என்ன முடியாது. गुणानाम् अविद्याकल्पितत्वपक्षव्यावृत्तिः என்று அங்குள்ள வாக்யத்தால் ஸ்வாபாவிகமான இந்த   
-तेन 
-
-\- 
-
-ரூபாதிகள் அவித்யையால் கல்பிதமில்லை என்று அத்வைதிகளை மறுப்பதில் வந்தவைகள். இந்த நிலை பிராட்டிக்கும் உண்டே. 
-
-210   
-लक्ष्म्युपायत्वदीपः 
-
-(ल. उ.दी) यद्यपि " अनुषक्तेन स्वभावत इति पदेन वा नित्यसिद्धव्यावृत्तिः, तेषां तादृशगुणकत्वं हि भगवन्नित्येच्छाधीनम्” इति अनन्याधीनत्वरूपतयापि स्वाभाविकत्वस्य प्रतिपादनं दृश्यते, तथाप्यत्र स्वभावत इत्यस्य कल्पितत्व- व्यावृत्तिरेवासाधारणप्रयोजनं, न तु नित्यसिद्धव्यावृत्तिः, तस्यानवधिकातिशयत्वविशेषणेन सिद्धेः । अत एव न तस्य प्रवृत्तिनिमित्तान्तर्भावः, अतिप्रसङ्गनिरसनपरत्वाभावात्। न च 
-
-क्वचिदस्ति, नित्यसिद्धगुणानामपि जगद्व्यापारानुगुणत्वेन तदनुगुणभगवद्गुणापेक्षया सावधिकातिशयत्वस्य तत्रैव व्यासार्यैः अभिधानात् तस्मात्स्वरूपतो गुणतश्च अनवधिकातिशयबृहत्त्वमेव ब्रह्मपदप्रवृत्तिनिमित्तमिति गद्याद्युक्तरीत्या तच्छालिन्याः श्रियोऽपि ब्रह्मशब्दवाच्यत्वे काचिदनुपपत्तिः। अत एव कारणत्वमप्यव्याहतम् । 
-
-“स्वाभाविकत्वरूपस्य निमित्ते सदसत्त्वयोः ।   
-अनवधिकातिशय\-असंख्येय\-कल्याणगुणगणत्वस्यातिप्रसङ्गः 
-
-श्रुतप्रकाशिकाभाष्यपर्यालोचनतः श्रियः ॥ ब्रह्मशब्दप्रवृत्तेर्हि निमित्तं पुष्कलं भवेत्। लक्ष्मीविशिष्टो भगवान् ब्रह्मशब्दाभिधस्ततः ॥ इति निष्कण्टकः पन्थास्सद्भिराद्रियतां सदा । लक्ष्म्यां गौणत्वपक्षस्तु विगुणः प्रसमीक्ष्यताम् ॥ "   
-न 
-
-अत एव तेन इत्यादिकमपि दूरोत्सारितम् । लक्ष्म्याः ब्रह्मशब्दवाच्यत्वेन तल्लक्षणजगत्कारणत्वाविरोधेन तापत्रयातुरैरमृतत्वाय जिज्ञास्यत्वस्य सिद्ध्या मोक्षप्रदत्वे बाधकाभावात् लक्ष्मीः स्वपतिकर्तृककर्मकर्त्री पत्नीत्वात् 
-
-यजमानपत्नीवदित्यनुमानेन   
-लाघवज्ञानबलाल्लक्ष्म्यां 
-
-स्वपतिभूतभगवत्कर्तृकमोक्षप्रदानादि\-कर्मकर्तृत्वसिद्धेरप्रत्यूहत्वात्। 
-
-211   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-வேறோருவருக்கு 
-
-स्वभावतः   
-—   
-(ல.க) இங்கு "அ:sA: புர் GTE " என்று உள்ளபடியால் அதீனமாயிராமல் இருப்பதுவும் ஸ்வாபாவிகம் என்று ஏற்படுகிறது. எப்படியாயினும் இங்கு என்பதற்கு செயற்கைமுறையில் செய்யப்பட்டதை விலக்குகிறது என்பதே அஸாதாரணமான ப்ரயோஜனம். நித்ய\-ஸித்தர்களை விலக்குவதில்லை. அறிக என்ற விசேஷணத்தாலேயே   
-கிடைக்கும். இப்படியானபடியால் தான் அதை ஏff\-Aனத்தில் சேர்க்கவில்லை. ஒரு சொல் என்று இருந்தால் – அது ஏதோ ஒருவகையில் அதிப்ரஸங்கத்தைப் 
-
-அமையவேண்டுமே.   
-அது 
-
-போக்குவதாக இங்கில்லையே. 
-
-அரிகாவுக: என்பதற்கும் அதிப்ரஸங்கம்   
-அது 
-
-வராது.   
-எம்பெருமானின் 
-
-கல்யாணகுணங்களும்   
-நித்யஸித்தங்களான 
-
-ஜகத்வ்யாபாராதிகளுக்கு 
-
-அநுகுணமாகவே அமைந்தனவான படியால் – அதற்கேற்ற பகவத்குணங்களை அபேக்ஷித்து   
-ஸாவதிகமான 
-
-அதிசயங்களாகவே அங்கு ஸ்ரீச்ருதப்ரகாசிகாசார்யரால் அருளியது பொருந்த வேண்டுமே. ஆகவே ஸ்வரூபத்தாலும் 
-
-குணங்களாலும் 
-
-ப்ரம்ஹசப்தத்துக்கு 
-
-ஏற்படுகிறபடியால் 
-
-வ்யவஹரிக்கத்   
-—   
-अनवधिकातिशयबृहत्त्वम्   
-என்பதே 
-
-ரிரிரி என்று கத்யாதிகளால் 
-
-இந்நிலை பெரியபிராட்டியாருக்கும் 
-
-கூடும் ஆனபடியால் அவளையும் ப்ரம்ஹ 
-
-தடையேதுமில்லை.   
-சப்தத்தால் 
-
-அதனால் 
-
-ஜகத்காரணத்வம் பெரியபிராட்டியாருக்குத் தடையற்றது. 
-
-இதை விளக்க வந்த காரிகைகள்:**\-** 
-
-स्वाभाविकत्वरूपस्य निमित्ते सदसत्त्वयोः । 
-
-श्रुतप्रकाशिकाभाष्यपर्यालोचनतः श्रियः ॥ 
-
-ब्रह्मशब्दप्रवृत्तेर्हि निमित्तं पुष्कलं भवेत्। 
-
-212 लक्ष्म्युपायत्वदीपः 
-
-\[இயல்பாகவே உடைய ஒரு ஸ்வரூபம் \- காரணமிருப்பினும் இல்லாவிடினும் ச்ருதப்ரகாசிகை ஸ்ரீபாஷ்யம் முதலானவைகளை நன்கு ஆராய்ந்தால்   
-இது 
-
-பெரிய 
-
-பிராட்டியாருக்கு ப்ரம்ஹ சப்த ப்ரவ்ருத்திக்கு நிமித்தம் நிரம்பவே இருப்பதாகவே ஆகும்.\] 
-
-लक्ष्मीविशिष्टो भगवान् ब्रह्मशब्दाभिधस्ततः। 
-
-\[ஆகவே பெரியபிராட்டியாருடன் கூடிய பகவானே ப்ரம்ஹசப்தத்துக்கு ஸரியான பொருளாவார்.) इति निष्कण्टकः पन्थास्सद्भिराद्रियतां सदा । लक्ष्म्यां गौणत्वपक्षस्तु विगुणः प्रसमीक्ष्यताम्॥ 
-
-\[இப்படி முள்ளுகல்லற்ற பெரியோர்களால் ஆதரிக்கப்பட்ட வழியைக்காட்டினோம்.   
-லக்ஷ்மியிடம் 
-
-\-   
-ப்ரம்ஹ சப்தப்ரயோகமானது கௌணம் முக்கியமில்லை என்ற கொள்கை அடியோடு பொருந்தாது. விகுணம் என்றறிவீர்களாக.\] 
-
-இவ்வளவுதூரம் 
-
-\-   
-தெரிவித்தபடியால்   
-' 
-
-\-   
-என்றாரம்பித்து பூர்வபக்ஷிகள் சொன்னவை வெகு தொலைவுக்குத் தள்ளப்பட்டதாக அறியவும். லக்ஷ்மியும் ப்ரம்ஹ சப்தத்தால் தடையின்றி வ்யவஹரிக்கப்படுபவளே என்றபடியால் ப்ரம்ஹலக்ஷணமான ஜகத்காரணத்வமும் தடையின்றி கிடைப்பதால் \- ஆத்யாத்மிக \- ஆதிபௌதிக ஆதிதைவிகங்களான தாபத்ரயங்களால் வருந்துமவர்களால் மோக்ஷமடைய பெரியபிராட்டியையும் அறிந்து உபாஸிக்க வேண்டும் என்றபடியால் இவளுக்கு HAUÇH என்பதும் தடையின்றி ஏற்படுகிறது. மேலும், :ள்கள் 4a \[லக்ஷ்மியானவள் தன் கணவரான ஸ்ரீபகவான் செய்யும் எல்லா செயல்களையும் செய்பவளே, பகவானின் மனைவியானபடியால், 
-
-யஜமானனின்   
-பத்னியைப் போன்று\]   
-வேள்வியில் 
-
-என்ற 
-
-அநுமானத்தாலும்,த்தின் பலத்தாலும் தன் 
-
-213   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-கணவரான எம்பெருமான் செய்யும் மோக்ஷப்ரதானாதி நிகிலகர்மகர்த்ரீத்வம் பிராட்டிக்குத் தடையின்றி 
-
-கிடைக்கிறது. 
-
-(ल.उ.दी) यदप्यग्निसापेक्षकर्मादौ विधिबलात् पत्नीकर्तृत्वम्, नचेह तथा विधिरस्ति, यदि पत्न्या सहैव भगवता सृष्टिस्थितिसंहारमोक्षप्रदानादि कर्मानुष्ठेयमिति विधिः स्यात् तर्हि प्राकृतदम्पत्योरिव दिव्यदम्पत्योरपि कर्मवश्यत्वप्रसङ्ग इत्युक्तम्। तदप्यनालोचितरमणीयम्, तथाहि किमत्र स्वपतिकर्तृककर्मकर्त्रीत्वे अग्निसापेक्षतत्कर्मकर्तृत्वम् प्रयोजकमिति विवक्षितम् ? उत तत्कर्मकर्तव्यताबोधकविधिमत्त्वम्? किंवा तत्कर्तृताबोधकविधिमत्त्वम्? अथवा विधिपदोपलक्षिततत्कर्तृताबोधक- 
-
-प्रमाणवत्त्वम्? 
-
-नाद्यः, पतिकर्तृकातिथिसन्तर्पणादिकर्तृताशालिन्यां पत्न्यां अग्निसापेक्षतत्कर्मकर्तृत्वाभावेन साध्यव्यापकत्वाभावात्, उक्तोपाध्यभावश्च तत्कर्मणि अग्निसापेक्षत्वरूपविशेषणाभावात् । न च तत्पदं 
-
-एवोपाधित्वेन   
-विहायाग्निसापेक्षकर्मकर्तृताया   
-तथा- 
-
-विधाग्निहोत्रादिकर्तृतायास्तस्यामपि सत्त्वेन व्यभिचाराभाव इति वाच्यम्, तथा सति लक्ष्म्यामपि सीताद्यवतारदशायामग्निसापेक्षाग्निहोत्रादिकर्तृतायाः सत्त्वेन 
-
-साधनव्यापकता स्यात् । 
-
-न द्वितीयः**,**   
-पतिकर्तृकगृहनिर्माणादिकर्तृताशालिन्यां पत्न्यां 
-
-गृहनिर्माणादेर्लोकिकत्वेन तत्कर्तव्यताबोधकविधिमत्त्वाभावात् । 
-
-अत एव न तृतीयः । गृहनिर्माणादिकर्तृताया लोकसिद्धत्वात् " अहमेव वात इव प्रवाम्यारभमाणा भुवनानि विश्वा", "लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । रक्षकस्सर्वसिद्धान्ते वेदान्तेषु च गीयते ॥' 
-
-जगत्सृष्टिमोक्षप्रदानादि\-कर्तृताबोधकविधिसत्त्वात्   
-इति   
-लक्ष्म्यामपि 
-
-साधनाव्यापकत्वाभावाच्च । 
-
-214   
-लक्ष्म्युपायत्वदीपः 
-
-अत एव न तुरीयः । तत्कर्तृताबोधकप्रमाणसहस्रसत्त्वात्। "आनीदवात‍ स्वधया तदेकं” इत्यादिश्रुतिस्मृत्यादिभिर्भगवत्कर्तृक- 
-
-जगत्सृष्ट्यादिकर्तृताया   
-लक्ष्म्यां   
-प्रमिततया 
-
-तद्व्यतिरेकसाधकव्यतिरेकप्रतियोगित्वासम्भवेन   
-कस्याप्युपाधित्वेन 
-
-शङ्कितुमशक्यक्त्वाच्च।यदि   
-जगत्सृष्ट्यादिकर्तव्यताविध्यभावेन 
-
-तत्कर्तृत्वाभावस्य तद्विधिसत्त्वे कर्मवश्यत्वस्य च लक्ष्म्यामापादनं क्रियेत, तदा 
-
-भवन्मते   
-भगवत्येतद्दुर्निवारं ld,   
-यजमानपत्न्या 
-
-यागान्तर्गतव्यापारानुकूलकृतिमत्त्वलक्षणकर्तृत्वसत्त्वेन तद्दृष्टान्तेन लक्ष्म्या जगत्सृष्ट्यादिव्यापारानुकूलकृतिमत्त्वस्यैवानुमन्तृताविलक्षणस्य सिद्धसाधनानवकाशाच्च । तस्माद्यजमानपत्नीन्याये न किञ्चिदिति निरवद्यम् ।   
-साधनेन 
-
-(ல.க) கேள்வி:\- யாகத்தில் அக்னிஸாபேக்ஷமான கர்மங்களில் விதிபலத்தால் பத்னீக்கு கணவனுடன் சேர்ந்து சில செயல்களைச் செய்ய தகுதியை ஒப்பினோம். இங்கு பிராட்டி விஷயத்தில் அப்படி விதியில்லையே? பகவானைப் போன்று   
-ஜகத்ஸ்ருஷ்ட்யாதிகளையும் 
-
-மோக்ஷமருள்வதையும் பிராட்டியும் செய்வாள் \- என்று விதி இருந்தால் உலகிலுள்ள தம்பதிகளில் போல் எப்போதாவது இருவருக்குமிடையே கருத்து வேற்றுமை முதலானவைகள் ஏற்படும். கர்மங்களுக்கு உட்பட்டவள் என்பதுமாகுமே? என்று. 
-
-இது சாஸ்த்ரங்களை நன்கு பராமர்சம் செய்யாததால் வந்த குழப்பமாகும். நீங்கள் கூறியதில் ரிகககக்களிH என்ற போது \- 1) அக்னியை எதிர்பார்த்த கர்மங்கள் மட்டும் விவக்ஷிதமா? அல்லது 2) கணவன் செய்யும் ஒவ்வொரு செயலையும் மனைவியும் செய்தே ஆகவேண்டும் என்பதைக் காட்டும் விதிவாக்யம் வேண்டுமா? அல்லது 3) கணவன் செய்வதை இவளும் செய்யத்தகுந்தவள் என்பதா? 4) 
-
-215   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-விதிவாக்யமிருந்து அதானால்   
-உபலக்ஷணவிதயா அறிவிக்கப்பட்ட அந்தந்த செயல்களை இவளும் செய்யக் கூடியவள் – என்பதா? 
-
-1) முதலில் கூறியது பொருந்தாது. கணவன் செய்யும் விருந்தாளிகளை உபசரிப்பது என்ற செயலில் அக்னிகார்யமான ஹோமாதிகள் எதுவுமில்லாதபடியால் இப்படிக்கூறுவது தகாது. साध्यव्यापकत्वम् என்பதிங்கு இல்லை ஆனபடியால் இது सोपाधिकम् இதற்காக 
-
-என்ற விசேஷணத்தை விட்டுவிட்டு அரிசாப்புக44 என்று பரிஷ்கரிக்கிறோம் \- என்னிலும், இதுவும் தகாது. லக்ஷ்மிதேவி ஸ்ரீஸீதையாக அவதரித்தபோது   
-அக்னியைக்   
-• 
-
-கொண்டு 
-
-செய்யவேண்டிய அக்னிஹோத்ராதிகளைச் செய்ததாய் ஸ்ரீமத்ராமாயணத்தில் உள்ளபடியால் साधनाव्यापकता என்பது வரும். 
-
-வீடுகட்டுதல்   
-2) இரண்டாவது பக்ஷமும் தகாது. கணவன் செய்யும் முதலான செயல்களில் மனைவியும் அந்தந்த வேளைக்கு ஏற்றபடி வீடு கட்டும் தொழிலில் ஈடுபடுவதால் "இப்படிச்செய்தே ஆகவேண்டும்” என்ற விதிவாக்யத்தை இங்கெல்லாம் காட்டமுடியாதே. 
-
-3) இப்படி கூறியபடியாலேயே மூன்றாவது பக்ஷமும் நேரில்லை. வீட்டுவேலைகளில் ஈடுபடுவது \- என்பதை உலகில் மனைவிக்கும் கண்டுவருகிறோம். ச்ருதிகளிலும் – ப்ரமாணங்களிலும் \- लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । रक्षकस्सर्वसिद्धान्ते वेदान्तेषु च गीयते   
-— 
-
-இந்த்ரியங்களையும்   
-\[மூவகை 
-
-அடக்க 
-
-த்யானிக்கவேண்டியவனான எம்பெருமான், கருணையே வடிவான பெரியபிராட்டியாருடன் கூடி உலகினரை ரக்ஷிப்பவராக ஸ்ரீபாஞ்சராத்ராகமங்கள் யாவற்றிலும் வேதாந்தங்களிலும்   
-பாடப்படுகிறார்\]   
-புகழ்ந்து 
-
-216   
-लक्ष्म्युपायत्वदीपः 
-
-என்பதைப் போன்ற பலவசனங்கள் பிராட்டிக்கும் ஜகத்ஸ்ருஷ்டி\-மோக்ஷமருளல் முதலானவைகள் உண்டு என்று காட்டுகிறபடியால் H என்பதில்லை. 
-
-4) அதனாலேயே நான்காவது பக்ஷமும் சரியில்லை. 
-
-பிராட்டியும் ஜகத்ஸ்ருஷ்ட்யாதிகளைப் பண்ணுகிறாள் 
-
-ப்ரமாணங்கள்   
-என்று   
-பல்லாயிரக்கணக்கான   
-— 
-
-காட்டுகின்றனவே. \_ ஸ்வதா சப்தத்தால் தெரிவிக்கப்பட்ட பெரியபிராட்டியுடன் கூடிய அந்தபகவான் ஒருவரே   
-காற்று கூட 
-
-ஸ்ருஷ்டிக்கப்படாத அந்த மஹாப்ரளய காலத்தில்   
-\- 
-
-விளங்கி 
-
-என்பன போன்ற ச்ருதி-   
-எல்லோருக்கும்   
-ஜகத்ப்ராணனாய் 
-
-எழுந்தருளியிருந்தார்\] 
-
-ஸ்ம்ருத்யாதிகளால் 
-
-ஜகத்ஸ்ருஷ்ட்யாதிகளில்   
-பகவான் செய்தருளும் 
-
-பிராட்டியும் 
-
-செயல்படுவதாய் உள்ளபடியால் 
-
-ஸாதிக்கமுடியாதே.   
-உடன் 
-
-\-   
-இதற்கு மாறாக 
-
-ஸாக்ஷாத்தாக ஜகத்ஸ்ருஷ்ட்யாதிகளைப் பிராட்டி விதிவாக்யமில்லாதபடியால், அப்படி   
-செய்வதாய் 
-
-விதிவாக்யத்தைக் காட்டினால்   
-—   
-அதனால் கர்மவச்யத்வம் 
-
-பிராட்டிக்கு வந்துவிடுமே என்பீராகில் \- அப்போது உங்கள் பக்ஷத்தில் பகவானிடமும் இது தடுக்கமுடியாத குற்றமாய் அமையும். 
-
-யாகத்தில் எல்லா வேலைகளையும் யஜமான பத்னீ செய்வதில்லை. पत्नीसंयाजादिक   
-களையே   
-ஸாக்ஷாத்தாகச் செய்கிறாள். மற்றைய செயல்களில் அநுமதி செய்வதே அவள் கொண்டது. இப்படியிருக்க   
-வேள்வியை 
-
-த்ருஷ்டாந்தமாக்கி ஜகத்ஸ்ருஷ்ட்யாதிகளை பிராட்டிக்கும் உண்டு என ஸாதிக்க முற்படுவது பொருந்துமா? எனக்கேள்வி. ஜகத்ஸ்ருஷ்ட்யாதி வ்யாபாரங்களில் 
-
-217   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-1   
-பிராட்டியின் அநுமந்த்ருத்வம் என்பது ஜகத்ஸ்ருஷ்ட்யாதி Gururrrblam 60 कंलकी कुंकुंमुळं. का अनुमन्तृत्वापेक्षया विलक्षणम्. शुक्रĞ1 T♚लकं G♚♚www. 
-
-(ल.उ.दी) अत एव दम्पतिप्रपदनञ्च व्यर्थमित्यादिकम् दूरोत्सारितम् । पुरुषकारप्रपत्त्या रक्षाविषयाऽप्रतिषेधसिद्धावपि "शृणाति निखिलान् दोषान् श्रीणाति च गुणैर्जगत्", "Guflora Gurin வினைதீர்க்குமே" इत्यादि प्रमाणसिद्धानिष्टनिवृत्तिपूर्वकेष्टप्रापण- रूपरक्षासङ्कल्पाद्याश्रयत्वासिद्ध्या तदुपयोगे दम्पतिप्रपदनस्यावैयर्थ्यात्, अत एव " शृणाति" इति दोषनिवर्तनानुकूलव्यापारप्रतीतेरप्रतिषेधस्य व्यापाररूपत्वाभावात् कथमुपायत्वप्रतीतिरिति   
-परास्तम्। अप्रतिषेधातिरिक्तोपायत्वस्य बहुप्रमाणसम्प्रदायानुसारेण स्थापितत्वात् । न चैवं भूधातोः प्राप्त्यर्थकत्वेन णिजर्थान्तर्भावे सति प्रापकत्वस्यापि भूशब्देन वक्तुं शक्यत्वात् भूम्यामप्युपायत्वप्रसङ्ग इति वाच्यम् ‘शृणाति निखिलान् दोषान्’   
-श्रीशब्दार्थनिर्वचनरूपप्रमाणवत्   
-प्रापकत्वरूपतया   
-इति भूशब्दार्थनिर्वचनरूपप्रमाणाभावात् । अन्यथा अग्रं नयतीत्यग्निरिति व्युत्पत्त्या अग्नेरपि मोक्षप्रदत्वं स्यात् । न च *"* अग्निरवमो देवतानाम्, विष्णुः परमः " इति श्रुत्या   
-अग्नेरवमत्वावगमेन तद्युत्पत्तिविषयत्वासम्भवः, प्रत्युत “साक्षादप्यविरोधं जैमिनिः” इति सूत्रभाष्यानुरोधेन भगवत्परत्वमेव स्यादिति वाच्यम्, एवं सति “लक्ष्मीप्रियसखीं देवीं”, 
-
-“महाविभूतेस्सम्पूर्णषाड्गुण्यवपुषः प्रभोः । भगवद्वासुदेवस्य नित्यैवैषानपायिनी ॥ एकैका वर्तते भिन्ना ज्योत्स्नेव हिमदीधितेः । सर्वशक्त्यात्मना चैव विश्वं व्याप्य व्यवस्थिता ॥ 
-
-सर्वैश्वर्यगुणोपेता नित्यं तद्धर्मधर्मिणी ।   
-। 
-
-प्राणशक्तिः परा ह्येषा सवैषां प्राणिनां भुवि ॥ 
-
-218   
-लक्ष्म्युपायत्वदीपः 
-
-शक्तीनामपि सर्वासां योनिभूता परा फला। यस्माल्लक्ष्म्यंशभूतास्ताश्शक्तयो विश्वगास्सदा ॥ कारणत्वेन तिष्ठन्ति सृजन्त्यस्मिंस्तदाज्ञया । तस्मात् प्रीता जगन्माता श्रीर्यस्याच्युतवल्लभा ॥ सुप्रीताश्शक्तयस्तस्य सिद्धिमिष्टां दिशन्ति च । एक एव जगत्स्वामी शक्तिमान् अच्युतः प्रभुः ॥ तदंशाश्शक्तिमन्तोऽन्ये ब्रह्मेशानादयोऽवराः । तथैवैका परा शक्तिः श्रीस्तस्य करुणाश्रया ॥ ज्ञानादिषद्गुणमयी या प्रोक्ता प्रकृतेः परा । एकैव शक्तिश्श्रीस्तस्य द्वितीया परिवर्तते ॥ परावरेण रूपेण सर्वाकारा सनातनी । 
-
-अनन्तनामधेया च शक्तिचक्रस्य नायिका ॥ जगच्चराचरमिदं विश्वं व्याप्य व्यवस्थिता । तस्मादेकैव परमा श्रीः ज्ञेया विश्वरूपिणी । सौम्यासौम्येन रूपेण सा स्थिता वटबीजवत् । योयो जगति पुम्भावस्स विष्णुरिति निश्चयः । योयस्तु नारीभावः स्यात् तत्र लक्ष्मीर्व्यवस्थिता ॥ प्रकृतिः पुरुषश्चान्या तृतीया नैव विद्यते ॥ अथ किं बहुनोक्तेन नरनारीमयो हरिः । अनेकभेदभिन्नस्तु क्रीडते परमेश्वरः ॥ महाविभूतिदयितां ये स्तुवन्त्यच्युतप्रियाम् । 
-
-ते प्राप्नुवन्ति परमां लक्ष्मीं संसिद्धचेतनाः॥” 
-
-(0.5) ”தம்பதிகள் இருவரையும்   
-சரணாகதிசெய்ய 
-
-வேண்டும் என்பது வீண்" என்று பூர்வபக்ஷி கூறினார். இது 
-
-219   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-வேறு. இது நம்வினைகள்   
-அடியோடு பொய், புருஷகாரப்ரபத்தி பெரியபிராட்டியாரிடம் செய்வது. தொலையவும், நமக்காக எம்பெருமானிடம் பரிந்து பேசவும், இது முதலில் செய்தபிறகு திவ்யதம்பதிகள் இருவரிடமும் செய்வது ப்ரதானமான ப்ரபத்தியாகும். தானே புஸ்தகத்தைப் பார்த்ததால் வந்த கோளாறுதான் பூர்வபக்ஷியை இப்படியெல்லாம் பேசவைக்கிறது. முறைப்படி ஆசார்யர்களிடம் சரணாகதியைச் செய்த பிறகு, அவர்கள்   
-உபதேசித்த   
-ஓரானோர்வழியாய் ஸ்ரீமந்நாதமுனிகள் காலம் தொடங்கி ஸம்ப்ரதாய பேதமின்றி அநுஷ்டித்துவரும் ப்ரபத்திப்ரயோகத்தை ஆசார்யரிடமிருந்து உபதேசமாகப் பெற்று இதில் தெளிவு பெறவும். 
-
-\-   
-"ப \- \- விரி" \[ஸ்ரீ: என்ற சொல்லால் தெரிவிக்கப்பட்ட பிராட்டியானவர், தன்னிடம் புருஷகாரப்ரபத்தியை அநுஷ்டித்தவர்களின் எல்லா குற்றங்களையும் போக்கடிக்கிறாள். தமது அனந்தமான கல்யாணகுணங்களால் உலகினரை எம்பெருமானை அடையவைக்கிறாள்\], "வேரிமாறாத பூமேலிருப்பாள் வினைதீர்க்குமே" (திருவாய்மொழி 4-5-11) \[துளியும் வாஸனை மாறாத வாடாத பூமேல் உறையும் பெரியபிராட்டியார் நமது தீவினைகளைப் போக்குவாள்\] இத்யாதிகளான ப்ரமாணங்களால் ஸம்ஸாரநிவ்ருத்தியும், 
-
-இஷ்டப்ராப்தியும்   
-\- 
-
-பிராட்டியின்   
-நமது அநிஷ்டமான மோக்ஷமடைவதாகிய ஸங்கல்பத்தால் 
-
-ஏற்படுகிறது என்பது ஏற்படுகிறது. இதற்கு உபயோகப்படும் திவ்யதம்பதிகளின் ப்ரபத்தியை வ்யர்த்தம் என்ன முடியுமோ? இங்கு எடுத்த வசனத்தில் என்று   
-யரி fdqங்கள் தெரியவருகின்றன. அபுபுபு: என்பது ஒருசெயலில்லை. ஆகவே அதற்கு எப்படி 39–9\<H கூ   
-கூடும்?**"** என்ற கேள்வி இங்கு எழாது. 
-
-220   
-लक्ष्म्युपायत्वदीपः 
-
-பத்தைவிட ஒரு உபாயம் உண்டு என்பதை பல ப்ரமாணங்களையும் ஸம்ப்ரதாயத்தையும் காட்டி கீழே பலபடி விளக்கினோம். இதன் மேல் ஒரு கேள்வி:\- 'ஷ ராசர்' என்பதாக புரியாகத்தில் ஒரு தாது உண்டு. அ\[AcqUq\<l: gie: என்ற வார்த்திகத்தின் படிக்கு 'ணிச்' இல்லாதபோது புரி என்று fவுமான த்தால் பூமிப்பிராட்டியைக்   
-கூறி   
-அவளும் 
-
-மோசமடைவிக்கவல்லவள் \- என்று கொண்டால் என்ன? 
-
-என்று.   
-அதனால் 
-
-மோசேஷாபாயமாகட்டுமே \- என்று. 
-
-பதில்:**\-** “யார் निखिलान् 
-
-ஸ்ரீசப்தார்த்தநிர்வசனத்தைப்   
-பூமிப்பிராட்டியும் 
-
-என்ற 
-
-போன்று 
-
-பூமிப்பிராட்டியையும் மோக்ஷப்ராபிகையாகக் கூறும் 
-
-ப்ரமாணமில்லை. 
-
-கொண்டால்   
-\-   
-இப்படியெல்லாம் வீண்பிடிவாதம் fa: என்ற வ்யுத்பத்தியை 
-
-ஸ்ரீபாஷ்யகாரர் அக்னி சப்தத்துக்குக் காட்டியதைக் கொண்டு அக்னிக்கும் FAHGH ஒப்பவேண்டும். 
-
-உள்ளபடியால்   
-—   
-கேள்வி:\-   
-"A fu: qH:" என்று ச்ருதி அக்னிக்கு, உள்ள தேவதைகளில் அடிமட்டத்து நிலையே உண்டு \- என்று ஏற்படுகிறபடியால் அக்னியை னாகக் கொள்ள முடியாது. மேலும் साक्षादप्यविरोधं जैमिनिः என்ற ஸூத்ரத்தில் பாஷ்யத்தில் அருளியபடி இந்த வாக்யத்தில் உள்ள அக்னி என்ற சொல் பகவானையே கூறும் \- என்று.   
-— 
-
-பதில்:\- "குரிரியானி னிபு" \[பெரிய பிராட்டியாருக்கு மிகவும் ப்ரியமான தோழியான அச்யுதவல்லபையான பூமிப்பிராட்டியை ஸேவிக்கிறேன்) என்றும், महाविभूतेस्सम्पूर्णषाड्गुण्यवपुषः प्रभोः । 
-
-भगवद्वासुदेवस्य नित्यैवैषानपायिनी ॥ 
-
-221   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-\[அளவிடமுடியான விபூதிகளை உடையவரும் எப்போதும் ஜ்ஞான\-சக்தி\-பல\-ஐச்வர்ய\-வீர்ய\-தேஜஸ்   
-என்ற 
-
-ஆறுகுணங்கள் நிரம்பியவரும், உலகினர் யாவருக்கும் தலைவரும், பகவானுமான ஸ்ரீவாஸுதேவனின் என்றும் பிரிவில்லாத நித்யஸாந்நித்யத்தை உடைய இந்த 
-
-பெரியபிராட்டியார்.\] 
-
-एकैका वर्तते भिन्ना ज्योत्स्नेव हिमदीधितेः। 
-
-सर्वशक्त्यात्मना चैव विश्वं व्याप्य व्यवस्थिता ॥ 
-
-\[குளிர்ந்த கிரணங்களை உடைய சந்த்ரனின் நிலவுபோல் விட்டுப்பிரிக்க முடியாதபடி பகவானோடு ஒன்றியவளாய் உலகு முழுவதிலும் இந்த பிராட்டி வியாபித்து உள்ளாள்.\] 
-
-सर्वैश्वर्यगुणोपेता नित्यं तद्धर्मधर्मिणी । 
-
-प्राणशक्तिः परा ह्येषां सर्वेषां प्राणिनां भुवि ॥ 
-
-கொண்டவள்,   
-(ஈஸ்வரனைச் சேர்ந்த எல்லாகுணங்களுடன் கூடியவள், எப்போதும் பகவானின் நற்பண்புகளையே தனக்கும் பண்புகளாகக்   
-உலகிலுள்ள எல்லாப்ப்ராணிகளுக்கும் மிக உயர்ந்த ப்ராண சக்தியே இவள் தான்.\] 
-
-शक्तीनामपि सर्वासां योनिभूता परा फला। 
-
-\[எல்லா வகையான சக்திகளுக்கும் உயர்ந்த சக்தியாயும், எல்லாவற்றிற்கும் காரணமானவளும் உயர்ந்த பயனாகவும் இவள் இருப்பவள்.\] 
-
-यस्मात् लक्ष्म्यंशभूतास्ताः शक्तयो विश्वगाः सदा ॥ कारणत्वेन तिष्ठन्ति सृजन्त्यस्मिंस्तदाज्ञया । 
-
-तस्मात्प्रीता जगन्माता श्रीर्यस्याच्युतवल्लभा ॥ 
-
-(உலகிலுள்ள எல்லாவகை சக்திகளும் லக்ஷ்மியின் அம்சமே. உலகைப்படைக்க இவையே காரணமாக எம்பெருனானின் உத்தரவுபடிக்கு இருக்கின்றன. அதனால் என்றும் மகிழ்வுடனிருக்கும் உலகினர் அனைவரின் தாயான 
-
-ஸ்ரீலக்ஷ்மிதேவி   
-1   
-அச்யுதன் என்ற எம்பெருமானின் 
-
-222 एम्युपायत्वदीपः 
-
-ப்ரியமான மனைவி.\] 
-
-सुप्रीताश्शक्तयस्तस्य सिद्धिमिष्टां दिशन्ति च । 
-
-அந்த எம்பெருமானின் சக்திகளான இவைகள், அவரவர் விரும்பிய கார்யஸித்தியை கொடுக்கின்றனர்.\] 
-
-एक एव जगत्स्वामी शक्तिमानच्युतः प्रभुः । 
-
-तदंशाश्शक्तिमन्तोऽन्ये ब्रह्मेशानादयोऽवराः ॥ 
-
-\[எல்லா உலகத்துக்கும் ஸ்வாமியானவரும், தன்னை அண்டினவர்களை நழுவவிடாதவரும் ப்ரபுவுமான ஸ்ரீமந்நாராயணன் ஒருவரே உயர்ந்த தலைவர். இவருடைய அம்சபூதர்களாய் பிரமன், சிவன் முதலானோர் 
-
-சக்தியுள்ளவராய் 
-
-நிலையிலிருப்பவர்கள்.\]   
-எம்பெருமானைவிட 
-
-तथैवैका परा शक्तिः श्रीस्तस्य करुणाश्रया । ॥ 
-
-ज्ञानादिषड्गुणमयी या प्रोक्ता प्रकृतेः परा॥ 
-
-\[அந்த எம்பெருமானுடைய முக்யமானதோர் 
-
-சக்தியாகவே கருணைக்கு இருப்பிடமான   
-—   
-சிறிது தாழ்ந்த 
-
-பிராட்டியார் உள்ளார். இவர் ஜ்ஞானம்\-சக்தி\-பலம்- 
-
-ஐச்வர்யம்\-வீர்யம்\-தேஜஸ்   
-என்ற ஆறு 
-
-உருவானவளாகவும்,   
-மூலப்ரக்ருதிக்கு   
-உயர்ந்த 
-
-பெரிய 
-
-குணங்களே 
-
-அப்பாற்– 
-
-பட்டவளாகவும் மஹரிஷிகளால் தெரிவிக்கப்பட்டாள்.) 
-
-एकैव शक्तिश्श्रीस्तस्य द्वितीया परिवर्तते । 
-
-परावरेण रूपेण सर्वाकारा सनातनी ॥ 
-
-\[அந்த எம்பெருமானின் மிக உயர்ந்த இந்த ஒரு சக்தியே அவனைவிட   
-வேறானவளாய் 
-
-உ   
-அவரவர் 
-
-பூர்வகர்மங்களுக்கு ஏற்ப \- உயர்ந்தும் தாழ்ந்தும் எல்லா உருவிலும் அநாதிகாலமாய் இருந்து சுற்றிச்சுற்றி வருகிறாள்.\] 
-
-अनन्तनामधेया च शक्तिचक्रस्य नायिका । 
-
-जगच्चराचरमिदं विश्वं व्याप्य व्यवस्थिता ॥ 
-
-223   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-\[எம்பெருமான் அநந்தனைப் போன்று இவளும் 3-7 எனப்பெயர் பூண்டு, எல்லா வகை சக்திகளின் கூட்டத்திற்கும் தலைவியாய் இந்த அசையும்   
-— 
-
-அசையாததுமான உலகம் முழுவதையும் வ்யாபித்து, அததற்குண்டான வ்யவஸ்த்தைகளைச் செய்து வருகிறாள்.\] 
-
-तस्मादेकैव परमा श्रीः ज्ञेया विश्वरूपिणी । 
-
-सौम्या सौम्येन रूपेण सा स्थिता वटबीजवत् ॥ 
-
-\[இவளுக்கு 
-
-என்னப்பட்டவளும்,   
-மேலானவள் 
-
-உலகில்   
-ஒருவருமில்லை 
-
-பலரூபங்களைக் 
-
-கொண்டவளும், ஸ்ரீ: என்னப்பட்டவளும், மிகவும் அழகான தனது திருமேனி சோபை, ஆத்மகுணங்கள் இவற்றால் எல்லோராலும் ஆச்ரயிக்கும் நிலையிலிருப்பவளும், ஒரு சிறிய ஆலம்விதை – மரங்களிலேயே மிகப்பெரிய ஆலமரம் பலவிழுதுகளுடன் வளர எப்படி காரணமாய் அமைகிறதோ – அப்படி உலகினர் வாழ இவள் காரணமாய் இருப்பவள்.\] 
-
-योयो जगति पुम्भावस्स विष्णुरिति निश्चयः । 
-
-योयस्तु नारीभावःस्यात् तत्र लक्ष्मीर्व्यवस्थिता ॥ 
-
-\-   
-(உலகில் புமான்\= ஆண் என்ற நிலை எந்த ஜந்துவுக்கு உண்டோ அவையாவும் ஸ்ரீவிஷ்ணு என்பதாகவே முனிவர்களின் முடிவு. யார் யார் பெண் என்ற நிலையில் இருப்பவர்களோ அவர்கள் எல்லோரும் லக்ஷ்மியே என்பதாகவும் முடிவு செய்தனர்.\] 
-
-प्रकृतेः पुरुषाच्चान्या तृतीया नैव विद्यते । 
-
-\[மூலப்ரக்ருதிக்கு அதிஷ்டானமான தேவதையான லக்ஷ்மியை விடவும், ஜீவாத்மாக்களை பரிபாலனம் செய்துவரும்   
-ப்ரதிபாத்யனான பரமபுருஷனையும் விட வேறான \- மூன்றாவது சக்திவாய்ந்த பொருள் எதுவுமில்லை.)   
-புருஷஸூக்த 
-
-अथ किं बहुनोक्तेन नरनारीमयो हरिः । 
-
-\[அதிகம் விளக்கிக்கூறி என்ன பயன்? நரன்\= ஆண், நாரீ\= என்ற எல்லாமே ஸ்ரீஹரியே.\] \[கீழ் ச்லோகத்தில்   
-பெண்   
-\- 
-
-224   
-लक्ष्म्युपायत्वदीपः 
-
-\-   
-பெண்   
-பெண்களை பிராட்டியின் விபூதியாகவும், ஆண்களை பகவானின் விபூதியாகவும் கூறியபடியால் விஷயத்தில் பகவானுக்கும், ஆண்கள் விஷயத்தில் பிராட்டிக்கும் தொடர்பு இல்லையோ? என ஸந்தேஹம் வர விலக்க இப்படி அருளினார். ஸ்ரீவிஷ்ணுபுராணத்தில் "ங்கு ச \- f:/ விாள்குணி 494\! if 44" என்றதற்கும் இதே கருத்து.\] 
-
-अनेकभेदभिन्नस्तु क्रीडते परमेश्वरः ।   
-அதை 
-
-\[பரம்\-வ்யூஹம்\-விபவம்\-ஹார்தம்\-அர்ச்சை 
-
-அனேகம் உள்பிரிவுகளையுடைய 
-
-திருமேனிகளைக் கொண்டு   
-என்றவாறான 
-
-அப்ராக்ருதமான 
-
-வெவ்வேறான 
-
-நிலைகளிலிருப்பவராகி பரமாத்மா விளையாடி வருகிறார்.) 
-
-महाविभूतिदयितां ये स्तुवन्त्यच्युतप्रियाम्। 
-
-ते प्राप्नुवन्ति परमां लक्ष्मीं संसिद्धचेतनाः॥ 
-
-\[மஹாவிபூதி: என்று எம்பெருமானுக்குப் பெயர். ஸ்ரீப்ராம்ஹபுராணத்தில் உள்ள புரிவுவுர்: ggq: : i என்ற ச்லோகத்தை (மாதவ: 73) பகவத்குணதர்பணத்தில் ஸ்ரீபட்டர் எடுத்தருளியுள்ளார்.\] 
-
-\[மஹாவிபூதி: 
-
-—   
-என்னப்பட்ட   
-எம்பெருமானுக்கு 
-
-மஹிஷியாகவுள்ள அச்யுதப்ரியையான மிக உயர்ந்த லஷ்மியை ஸித்தி அடைய விரும்பி எவர்கள் இந்த ஸ்துதியைக் கொண்டு துதிக்கிறார்களோ அவர்கள் ஸ்ரீலக்ஷ்மி எழுந்தருளியிருக்கும் பகவானின் பரமபதத்தை அடைகிறார்கள்\] என்று உள்ள வசனங்களை கவனிப்பது. 
-
-(ल. उ. दी) तथान्यत्र "नित्यैवैषा जगन्माता विष्णोरेषाऽनपायिनी ” इत्यारभ्य "देवतिर्यङ्मनुष्येषु पुन्नामा भगवान् हरिः । स्त्रीनाम्नी लक्ष्मीः मैत्रेय नानयोर्विद्यते परम् *"* इत्यादि- पौराणिकवचनैः "देवि त्वामनु नीळया सह 
-
-225   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-मही देव्यस्सहस्रं तथा” इत्यादि\-पूर्वाचार्यसूक्तिभिश्च भूम्यादीनां लक्ष्मीविभूतित्वावगमात् तथाविधव्युत्पत्ति\-विषयत्वासम्भवेन “देवतिर्यङ्मनुष्येषु पुन्नामा भगवान् हरिः। 
-
-स्त्रीनाम्नी लक्ष्मीः मैत्रेय नानयोर्विद्यते परम्॥", 
-
-“स्वरूपं स्वातन्त्र्यं भगवत इदं चन्द्रवदने त्वदाश्लेषोत्कर्षात् भवति खट्ट निष्कर्षसमये। त्वमसीरातश्श्रीः कमितुरिदमित्थन्त्वविभवा तदन्तर्भावात्त्वां न पृथगभिधत्ते श्रुतिरपि ॥ " इत्यादिप्रमाणसम्प्रदायवचने लक्ष्म्या अपि सर्वशब्दाभिधेयत्वप्रतीत्या भगवत इव "साक्षादप्यविरोधं जैमिनिः" इति सूत्रविषयत्वसम्भवेन भूशब्दस्यापि व्युत्पत्त्या लक्ष्मीपरत्वमेव प्रत्युत स्यात् । नचैवं विष्णुपत्नीत्वादिभिः लक्ष्म्या अपि भगवद्विभूतित्वावगमनेन एतद्व्युत्पत्ति- विषयत्वासम्भवेन भगवत एव तद्विषयत्वं किं न स्यादिति वाच्यम्। "आनीतवात‍ स्वधया तदेकं", "ताविमावेकदेवोक्तौ भेद्यभेदकभावतः । पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ ॥ नैव शक्त्या विना कश्चित् शक्तिमानस्ति कारणम्। न च शक्तिमता शक्तिर्विना काप्यवतिष्ठते ॥ तत्तद्गौरवमाश्रित्य मन्त्रवेदान्तपारगैः। जगद्धेतुतया   
-जगद्धेतुतया देवावेकैकाविव दर्शितौ।”, “प्रथमजं देवरहविषा विधेम", "तरह देवम् आत्मवुद्धिप्रसादं मुमुक्षुर्वै शरणमहं प्रपद्ये", लक्ष्मीं च मां सुरेशेश द्वयेन शरणं गतः”, "मामेकञ्च श्रिया **युक्तं** भक्तियुक्तो नरोत्तमः । द्वयेन मन्त्ररत्नेन मत्प्रियेण भजेत् सदा", "लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । रक्षकस्सर्वसिद्धान्ते वेदान्तेषु च गीयते।” "अन्योन्येनाविनाभावादन्योन्येन समन्वयात् ।। तादात्म्यं विद्धि संबंधं मम नाथस्य चोभयोः” इत्यादिबहुप्रमाणैरुभयोरपि साहित्येन कारणत्वरक्षकत्वाद्यवगमेन " शृणाति निखिलान् दोषान् श्रीणाति च गुणैर्जगत्। श्रीयते चानिखिलैर्नित्यं श्रयते च परं पदम्" इत्यत्र भगवत्कर्मकश्रयणकर्तृत्वेन निर्ज्ञातभगवद्भेदाया लक्ष्म्या एव   
-*"*1 
-
-निखिलदोषनिवारकत्वलक्षणमोक्षप्रदत्वप्रतीत्या 
-
-226   
-च तद्व्युत्पत्त्या 
-
-1   
-लक्ष्म्युपायत्वदीपः 
-
-भगवद्विषयत्वशङ्काया अनवकाशपराहतत्वात् श्रीयते श्रयते शृणोति श्रावयति इति व्युत्पत्तिचतुष्ट्यस्य पुरुषकारत्वविषयत्वसम्भवेऽपि शृणाति श्रीणातीति   
-व्युत्पत्त्योस्सकलदोषनिरासकत्व- 
-
-तदुपयुक्तसर्वविषयकसमस्तकल्याणगुणैराश्रितगुणगणपरिपाकहेतुत्वपरयोः कथञ्चिदपि पुरुषकारविषयत्वासम्भवात्, प्रत्युत श्रयते श्रावयतीति व्युत्पत्तिद्वयेनैव सामर्थ्यात् परार्थं श्रयते, परोक्तं श्रावयतीत्यर्थप्रतीत्या पुरुषकारत्वप्रतीतेः श्रीणाति शृणोति श्रीयते शृणाति इति व्युत्पत्तिचतुष्टयस्यापि 
-
-ज्ञानशक्तिबलैश्वर्यवीर्यतेजस्सौशील्यवात्सल्यकारुण्यादिसर्वविषयकसमस्तक 
-
-ल्याणगुणैः   
-उपायत्वोपयुक्त- 
-
-आश्रितगुणपरिपाकहेतुत्ववाक्यश्रवण- 
-
-तदनुष्ठितन्यासोपासनविषयभावतद्दोषनिवारणप्रतिपादनपरस्योपायत्व   
-एव 
-
-स्वारस्याच्च। तस्माद् " श्रीयते श्रयत इत्यादिकं न मोक्षप्रदत्व" मित्यन्तं निरस्तम् । 
-
-(லக) மேலும் மற்றோரிடத்தில் \[ஸ்ரீவிஷ்ணுபுராணத்தில்\] “नित्यैवैषा जगन्माता विष्णोः श्रीः अनपायिनी" \[20ळीला (तुकं मुक्रं कृr wor இந்த பெரிய பிராட்டியார் ஸ்ரீவிஷ்ணுவை விட்டு கணமும் பிரியாமல் எப்போதும் உள்ளவள்\] என்று தொடங்கி, "देवतिर्यङ्मनुष्येषु पुन्नामा भगवान् हरिः । स्त्रीनाम्नी लक्ष्मीः मैत्रेय नानयोर्विद्यते परम्" \[@ foy भीनाऊं की umruijmj.\] नंr Gurm Girls Foji, "देवि\! त्वामनु नीळया सह मही देव्यः सहस्रं तथा" \[gmuji foy शीना ऊं की uruji\] नाग போன்ற பூர்வாசார்ய ஸ்ரீஸூக்திகளாலும் பூமி\-நீளாதி தேவியர் லக்ஷ்மியின் விபூதியைச் சேர்ந்தவர்கள் **\-** என்று ஏற்படுகிறபடியால் நாங்கள் கூறியதே தகும்.   
-1 
-
-இந்த மாதிரியாக லக்ஷ்மியைப் பற்றி \- மற்றவரின் श्री पुडी ठकं लाएं. “देवतिर्यङ्मनुष्येषु पुन्नामा 
-
-227   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-:   
-" \[இதுவும் பலமுறை கீழே உரைக்கப்பட்டது\], "qq\_¥quqd\_sc चन्द्रवदने त्वदाश्लेषोत्कर्षात् भवति खलु निष्कर्षसमये। त्वमासीरातश्श्रीःकमितुरिदमित्थन्त्वविभवा तदन्तर्भावात्त्वां न पृथगभिधत्ते 
-
-\[இதையும் கீழே விளக்கியுள்ளோம்.\] என்பன போன்ற ப்ரமாணஸம்ப்ரதாய வசனாதிகளில் லக்ஷ்மிக்கும் ரிப்பு: ஏற்படுகிறபடியால் – பகவானுக்கு போல் "ச GAA:" என்ற ஸூத்ரத்தில் முடிவு செய்தபடிக்கு பூ சப்தத்துக்கும் வ்யுத்பத்தியைக் கொண்டு லசஷ்மியை குறிப்பிடுவதாகவே கொள்ளலாம். 
-
-\-   
-கேள்வி:\- விஷ்ணுபத்னீ என்றபடியால் \- லக்ஷ்மியும் பகவத் விபூதியே என்று ஏற்படுகிறபடியால் வ்யுத்பத்தியைக் கொண்டு பூ என்ற சொல்லை லக்ஷ்மி பரமாகக் கூற முடியாதே\! என்று கேள்வி. 
-
-1   
-பதில்: "" "aHincani भेद्यभेदस्वभावतः । पृथक्त्वेन च शास्त्रेषु जगद्धेतुतयोदितौ ॥", "नैव शक्त्या विना कश्चित् शक्तिमान् अस्ति कारणम् । न च शक्तिमता शक्तिः विना काऽप्यवतिष्ठते॥“, “तत्तद् गौरवम् आश्रित्य मन्त्र\-वेदान्तपारगैः । जगद्धेतुतया देवौ एकैकाविव दर्शितौ॥ " \[இந்த வசனங்களுக்கெல்லாம் தமிழில் உரை கீழே எழுதியாகிவிட்டது.\] 
-
-"प्रथमजं देव‍ हविषा विधेम" 
-
-\[எல்லாருக்கும் ஆதிகாரணமான   
-பரவாஸுதேவனை 
-
-ஹவிஸ்ஸைக் கொண்டு ஹோமம் செய்யக்கடவோம்.\] 
-
-ह देवम् आत्मबुद्धिप्रसादं मुमुक्षुर्वै शरणमहं (ச்வேதாச்வதரச்ருதி:) 
-
-(ஆத்மாக்களுக்குத் தெளிவான நல்லறிவை அருளக் கூடியவரான அந்த பரவாஸுதேவனை மோக்ஷமடைய விரும்பிய அடியேன் சரணம் புகுகிறேன்.) 
-
-228   
-लक्ष्म्युपायत्वदीपः 
-
-"लक्ष्मीं च मां सुरेशेश द्वयेन शरणं गतः" 
-
-\[தேவர்களுக்குத் தலைவனான இந்த்ரனே\! என்னையும் பெரியபிராட்டியான ஸ்ரீலக்ஷ்மியையும் த்வயமந்த்ரத்தைக் கரணமந்த்ரமாகக் கொண்டு சரணமடைவாயாக.\] 
-
-"मामेकञ्च श्रिया युक्तं भक्तियुक्तो नरोत्तमः । द्वयेन मन्त्ररत्नेन मत्प्रियेण भजेत् 
-
-\[பெரியபிராட்டியாருடன்   
-கூடிய (பகவானான) என் ஒருவனை எந்த உயர்ந்த மனிதன் பக்தியுடன் கூடியவனாய் மந்த்ரங்களுக்கு ரத்னம் போன்றதானதும் எனக்கு மிக விருப்பமானதுமான   
-த்வய 
-
-சரணமடைய வேண்டும்.\]   
-மந்த்ரத்தால்   
-எப்போதும் 
-
-"लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । रक्षकस्सर्वसिद्धान्ते वेदान्तेषु च 
-
-" \[இது முன்னமே பலமுறை விளக்கப்பட்டது\] 
-
-“अन्योन्येनाविनाभावादन्योन्येन समन्वयात् । तादात्म्यं विद्धि संबंधं मम नाथस्य 
-
-:" 
-
-—   
-—   
-ஒருவரை   
-\[பிராட்டியின் திருவாக்கு இது – நாங்கள் ஒருவருக்கொருவர் விட்டுப் பிரியாதபடி இணைந்துள்ள படியால் மற்றொருவர் ஒத்து இணைந்து செயல்படுவதாலும் எனக்கும் என் நாதனான ஸ்ரீமந்நாராயணனுக்கும் \- அவரை ஒத்தவர் நான் என்னை ஒத்தவர் அவர் \- என்ற ஸம்பந்தம் உண்டு என்பதை அறிவாயாக. H:   
-3/ql Aq: என்பது இந்த சொல்லுக்கு வ்யுத்பத்தி.) என்பன போன்ற பல ப்ரமாணங்களால் திவ்யதம்பதிகள் இருவருமே ஸர்வஜகத்துக்கும் காரணம் மோக்ஷமளிப்பவர்கள் 
-
-என்பன போன்ற விசேஷ கருத்துக்கள் ஏற்படுகின்றன. 
-
-"शृणाति निखिलान् दोषान् श्रीणाति च गुणैर्जगत् । श्रीयते चाखिलैर्नित्यं 2 44" என்ற வசனத்தால் ¥°qh4$\*quhj«4\= பகவானை ஆச்ரயித்து இருப்பவள் பிராட்டி என்பது நன்கு 
-
-229   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-\-   
-ஸ்பஷ்டமாக ஏற்படுகிறது. இதனால் நமது எல்லா வகையான தொல்லைகளையும் போக்கி மோசஷமருள்பவள் என்பது நன்கு தெளிவாய் தெரிகிறது. இந்த பா என்றாரம்பிக்கும் வசனத்தில் அஜிபு \[நம் எல்லோராலும் ஆச்ரயிக்கப்படுகிறாள் – அல்லது எம்பெருமானால் கலந்து அருள ஆச்ரயிக்கப்படுகிறாள்\] Üqa \- \[என்றும் பகவானை ஆச்ரயித்திருக்கிறாள் \- அல்லது ஜீவராசிகளை – அவர்கள் ஆச்ரயித்திருக்கிறாள்.\] \=\[ஜீவர்களின் ஆர்த்தத்வனியைக் கேட்கிறாள்   
-குறைகளை 
-
-\-   
-தீர்க்க 
-
-आनृशंस्यं परो धर्मः त्वत्त एव मया श्रुतः órgl அல்லது ஸ்ரீஸீதாபிராட்டி அருளியதுபோல் ஜீவர்களுக்கு ஹிதமான உபாயாதிகளை பகவானிடமிருந்து கேட்கிறாள்.\] श्रावयति\= ஜீவர்களின் ஆர்த்தத்வனியை பகவான் கேட்கும்படிச் செய்கிறாள். அல்லது \- எம்பெருமானிடம் தாம் ப்ரஜைகளின் \- சேஷமத்துக்காகக் கேட்ட தத்துவ\-ஹித- உபாயங்களை ஜீவர்களைக் கேட்கும் படிச்செய்கிறாள். இப்படி வியு அரி என்ற ஸ்ரீசப்தத்தின் நாலுவிதமான வ்யுத்பத்திகளும் புருஷகாரவிஷயத்தையே விவரிக்க வந்ததாகக் கொண்டாலும், ஊ தொல்லைகளை நீக்குகிறாள், விரி் \= நம் தொல்லைகளை நீக்கத் தேவையான ஸமஸ்தகல்யாண குணங்களுடன் கூடியவள் என்ற இந்த இரண்டு வ்யுத்பத்திகளும் 
-
-விஷயத்தில்   
-புருஷகார   
-— 
-
-பண்ணமுடியாதவைகள். 
-
-\-   
-\=   
-நமது 
-
-எப்படியும்   
-நயனம் 
-
-\= ஜீவர்களைப் 
-
-பகவானை   
-இன்னமும் கேட்டால் श्रयते பாதுகாக்க இறையும் அகலாமல் ஆச்ரயித்திருக்கிறாள், அரி \= ஜீவர்களின் குறைகளை எம்பெருமான் கேட்கும் படிச்செய்கிறாள் \- என்ற படியால் இந்த இரண்டு வ்யுத்பத்திகளில் மட்டிலுமே புருஷகாரத்வம் \= பரிந்து பேசுவது – என்பது ஸித்திக்கும். யரிசி   
-\= 
-
-230   
-लक्ष्म्युपायत्वदीपः 
-
-யரி என்கிற நான்கு வ்யுத்பத்திகளாலும் பிராட்டிக்கு 
-
-உபாயமாக   
-Supp♚क्रं कृथक ज्ञान\-शक्ति\-बलैश्वर्य\-वीर्य- இருப்பதற்குத் தகுந்த तेजस्सौशील्य- वात्सल्य\-कारुण्यादिना Gori 
-
-ப்ரவர்த்திக்கும் ஸமஸ்த கல்யாண குணங்களுடன் எப்போதும் கூடியநிலை விளக்கப்பட்டது. ஆச்ரிதர்களின் குணங்களின் பரிபாகத்தை உண்டு பண்ணுகிறாள். ஜீவன் அநுஷ்டித்த பரந்யாஸ – உபாஸநாதிகளான உபாயத்தால் ப்ரீதியை அடைந்து \- ஜீவனிடமுள்ள தோஷங்களைக் களைகிறாள் என்பதே ஸ்வரஸமான பொருள். ஆகவே   
-— 
-
-"श्रीयते श्रयते इत्यादिकं न मोक्षप्रदत्वम्" 
-
-அடியோடு பொருந்தாது. 
-
-(ल.उ.दी)   
-एतस्सर्वमभिप्रेत्य 
-
-एकशब्दार्थव्याख्यानावसरेऽनुगृहीतम्-   
-की लीका 
-
-निगमान्तदेशिकैश्चरमश्लोकाधिकारे 
-
-“प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् । 
-
-प्रपत्तेर्व्याजमात्रत्वम् अन्योपायैरनन्वयः॥ 
-
-तदङ्गैरप्यसम्बन्धः सर्वसाध्येष्वभिन्नता । इत्थमर्थाः षडाचार्यैरेकशब्देन दर्शिताः ॥ केचित्त्विकशब्दार्थं शरण्यैक्यं प्रचक्षते । विशिनष्टि तदाऽपि श्रीर्गुणविग्रहवत् प्रभुम् ॥ ईश्वरी सर्वभूतानामियं भगवतः प्रिया । संश्रितत्राणदीक्षायां सहधर्मचरी स्मृता ॥ एकं जगदुपादानम् इत्युक्तेऽपि प्रमाणतः । यथाऽपेक्षितवैशिष्ट्यं तथाऽत्रापि भविष्यति॥ एकोपास्तिविधानेऽपि गुणादीनां यथाऽन्वयः । तथैकशरणव्रज्याविधानेऽप्यनुमन्यताम् ॥ 
-
-231   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-यथा गुणादिवैशिष्ट्ये सिद्धोपायैक्यमक्षतम् । एवं पत्नीविशिष्टत्वेऽप्यभीष्टं शास्त्रचक्षुषाम् ॥ प्रभा\-प्रभावतोर्यद्वदेकोक्तावितरान्वयः। एवमन्यतरोक्तौ स्यात् सहवृत्त्यभिधानतः॥ स्मरन्ति चैनां मुनयः संसारार्णवतारिणीम् । ऊचतुस्स्वयमप्येतत् सात्त्वतादिषु तावुभौ ॥ उपायोपेयदशयोर्द्वयेऽपि श्रीस्समन्विता । इष्टा च शेषिणि द्वन्द्वे शेषवृत्तिर्यथोचिता ॥ अतोऽनन्यपरानेकश्रुतिस्मृत्यनुसारतः । 
-
-पत्नीविशिष्ट एवैकः प्रपत्तव्य इहोदितः ॥ इति ।   
-\- 
-
-तदेवं लक्ष्म्याः पुरुषकारत्ववदुपायत्वस्यापि श्रुतिस्मृतिभगवच्छास्त्रसम्प्रदाय- सिद्धतया पुरुषकारप्रपदनपूर्वकं लक्ष्मीविशिष्टभगवच्चरणारविन्दशरणागत्यैव मोक्षसिद्धिरिति निष्कण्टकोऽयं घण्टापथः। 
-
-(லக) இவ்வளவையும் கொண்டு ஸ்ரீஸ்வாமிதேசிகன் 
-
-FIT D&ी की 'माम् एकम्' 
-
-சொல்லை வ்யாக்யானிக்கும்   
-Gurg | 'एकम्' op 
-
-போது   
-விஸ்தாரமாக 
-
-பலகாரிகைகளை அருளியுள்ளார். அவை வருமாறு:\- 
-
-प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् । 
-
-प्रपत्तेर्व्याजमात्रत्वम् अन्योपायैरनन्वयः ॥ तदङ्गैरप्यसम्बन्धः सर्वसाध्येष्वभिन्नता । 
-
-इत्थमर्थाः षडाचार्यैरेकशब्देन दर्शिताः ॥ 
-
-1   
-1) மோக்ஷத்தில் அடைந்து அநுபவிக்க வேண்டியவனே மோக்ஷமடைய வேண்டிய வரை நடத்திச் செல்பவன் 2) ஜீவனான நான் சரணாகதியைப் பண்ணவேதானே பரமாத்மா மோக்ஷமருள்கிறார். ஆகவே இதில் நானும் கூடுமோ? என்று எண்ண Corris.   
-காரணமாகக் 
-
-232 लक्ष्म्युपायत्वदीपः 
-
-4-   
-ஜீவனது நன்மையைத் தனது நன்மையாகக் கொண்டு பகவான் ப்ரவ்ருத்தித்தபடியால் இதில் ஜீவனுக்கு ப்ராதான்யம் இல்லை. 3) அவன் கொடுக்கப்போகிற மஹத்தான பலனைப்பார்க்க \- நாம் செய்த இந்த அத்யந்த லகுவான உபாயம் \- ஒரு வ்யாஜமாத்ரமே. சிபு \- யர்: 4 இது முதலானவைகளை ஒரு ஆசார்யனை அடைவதற்கு முன்பே பகவான் நம்மிடம் அமைய ஏற்பாடுபண்ணினாரே. ஆகவே சரணாகதி என்ற அசேதனமான ஒரு நிகழ்ச்சி வ்யாஜமே. (4) பக்தியோகம் முதலியன உபாயங்களைத் தொடங்க முதலில் கர்மயோகம், பிறகு ஜ்ஞானயோகம் முதலான மிகவும் கடினமான முன் ஏற்பாடுகளைச் செய்யவேண்டும். அதெல்லாம் ஸித்தித்தாலே பக்தியோகம் கைகூடும். சரணாகதி என்ற உபாயத்தில் \- மற்றோர் உபாயத்தின் தொடர்பே இல்லை. (5) ப்ரபத்திக்கு அங்கமாக சாஸ்த்ரங்களில் காட்டப்பட்ட आनुकूल्यसंकल्पः, प्रातिकूल्यवर्जनम्, महाविश्वासः, गोप्तृत्ववरणम्, कार्पण्यम् என்ற ஐந்தும் சரணாகதி செய்யும் போது இருக்க வேண்டுமே ஒழிய அவை பல கோடியிலும் பின்பும் தொடர்வதால் அங்கத்வேன ஸம்பந்தம் இல்லை. (6) ஸாதிக்கவேண்டிய எத்தகைய பெரிய பயனுக்கும் இந்த லகுவான சரணாகதி ஒன்றே போதும். பெரிய பலனுக்கு வேறு விதமான சரணாகதி சிறிய பலன்களுக்கு வேறு என்பதைப் போன்ற பேதம் கிடையாது.   
-— 
-
-இப்படி ஆறு பொருள்களை இந்த சரணாகதி விஷயத்தில்   
-அஸ்மதாசார்யரான ஸ்ரீவாதிஹம்ஸாம்புவாஹர் என்னப்பட்ட ஸ்ரீமடைப்பள்ளி ஆச்சான் பரம்பரையில் வந்த ஆசார்யரால் ஏகம் என்ற சொல்லுக்குப் பொருளாகக் காட்டப்பட்டன. \[சுருக்கமாக இந்த காரிகைகளுக்கு நாம் (ஸ்ரீவத்ஸாங்காசார்ய ஸ்வாமி) தமிழில் விளக்கம் தருகிறோம். விரிவு அபேக்ஷிப்பவர்கள் 
-
-233   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-कारिकादर्पणम्   
-என்ற   
-ஸம்ஸ்க்ருத   
-உரையிலும், 
-
-ஸாராஸ்வாதினீ\-ஸாரப்ரகாசிகா முதலான உரைகளிலும் 
-
-கண்டுகொள்வது.\] 
-
-केचित्त्वि हैकशब्दार्थं शरण्यैक्यं प्रचक्षते । 
-
-विशिनष्टि तदाऽपि श्रीर्गुणविग्रहवत् प्रभुम् ॥ 
-
-\[சிலர் சரண்யன் ஒருவனாக இருப்பதையே இங்கு 'I4' என்ற சொல் தெரிவிப்பதாய் கூறினார்கள். அப்படியாயினும் \- எம்பெருமானின் திவ்யாத்ம ஸ்வரூபத்தை விட வேறான – அனந்தகல்யாணகுணங்கள், திருமேனி என்பனவற்றைப் பிராட்டியாரும் ப்ரபுவான   
-போன்று   
-பெரிய 
-
-எம்பெருமானுக்கு விசேஷணமாய் அமைகிறாள்.\] 
-
-\[எல்லா   
-ईश्वरी सर्वभूतानामियं भगवतः प्रिया । 
-
-संश्रितत्राणदीक्षायां सहधर्मचरी स्मृता ॥ 
-
-பூதர்களுக்கும்   
-இவள்   
-தலைவி, 
-
-உடன்   
-பகவானுக்குப்ரியமான பட்டமஹிஷீக்கு எம்பெருமானின் எல்லோரையும் ரக்ஷிப்பது என்ற வேள்வியில்   
-— 
-
-இருந்து அதே தர்மத்தை அநுஷ்டிக்க தீக்ஷைபெற்றவள் என்று ஸ்ம்ருதிகளின் வாக்கு.\] 
-
-एकं जगदुपादानम् इत्युक्तेऽपि प्रमाणतः । 
-
-यथाऽपेक्षितवैशिष्ट्यं तथाऽत्रापि भविष्यति॥   
-\- 
-
-\[एकमेवाद्वितीयम् என்றபோது இந்த ஜகத்துக்கெல்லாம் 
-
-உபாதானகாரணம்   
-பகவான் ஒருவரே \- என்று தெரிவிக்கப்பட்டிருந்த போதிலும், ப்ரமாணங்களையும் லோக நடைமுறை முதலானவைகளையும் கொண்டு எப்படி பகவானைவிட வேறான 
-
-முதலானவைகளையும்   
-மூலப்ரக்ருதி 
-
-ஜகத்காரணமாகக் 
-
-கொள்ளுகிறோமோ அப்படி இங்கும் அவச்யம் தேவையான 
-
-பிராட்டியாரின் தொடர்பும் தேவை என்பது, தானே 
-
-கிடைக்கும்.\] 
-
-234 
-
-एकोपास्तिविधानेऽपि गुणादीनां यथाऽन्वयः । 
-
-तथैकशरणव्रज्याविधानेऽप्यनुमन्यताम् ॥   
-पायत्वदीपः 
-
-\[பகவானை உபாஸிக்க வேண்டும் என்று காட்டும் விதிவாக்யத்தில் ப்ரம்ஹ\-ஆகாச\-ஜ்யோதிஸ் முதலான சப்தங்களால் பரம்பொருளை மட்டும் சொல்லியிருந்தாலும்- நிர்குணமான வஸ்துவுக்கு உபாஸிக்கும் நிலை கூடாதானபடியால் தன்னடைவே எப்படி குண- விபூத்யாதிகளுக்கும் அன்வயம் \= உபாஸனத்தில் தொடர்பு – ஏற்படுகிறதோ \- அதேபோல் \- புIசி AG என்ற போதும் ரூப\-குணாதிகளுக்கு அந்வயம் உண்டு \- என்பதை கட்டாயம் ஒப்பவேண்டும்.)   
-\- 
-
-यथा गुणादिवैशिष्ट्ये सिद्धोपायैक्यमक्षतम् । 
-
-एवं पत्नीविशिष्टत्वेऽप्यभीष्टं शास्त्रचक्षुषाम्॥ 
-
-\[fiqq: என்பது பகவானை. எப்போதும் நம்மை பாதுகாக்க ஸித்தமாயும், ப்ரதான உபாயமாகவும் இருப்பதால் இப்படி ஸம்ப்ரதாயத்தில் பகவானை வ்யவஹரிப்பார்கள். 
-
-\-   
-அவரை   
-ஸித்தோபாயம் பகவான் ஒருவரே \- என்பது கல்யாண குணங்கள், திருமேனி இவைகளுடன் கூடிய போது ஆச்ரயித்தாலும் இந்நிலைக்கு தடையில்லை \- என்பது எப்படியோ \- அப்படியே பெரிய பிராட்டியாராகிய பத்னீயுடன் கூடியவராய் அநுஸந்திக்கும் போதும் நமக்கு விரும்பிய ஐக்யம் தடைபடாது. இது சாஸ்த்ரங்களையே கொண்டு ஆராய்ந்து பார்ப்பவர்களுக்கு நன்கு புலப்படும்.\] 
-
-प्रभा प्रभावतोर्यद्वदेकोक्तावितरान्वयः । 
-
-एवमन्यतरोक्तौ स्यात् सहवृत्त्यभिधानतः॥ 
-
-\[விளக்கு இல்லாமல் ஒளி தனியாய் இருக்காது. ஒளியை விட்டுத் தனியாக விளக்கு இருக்காது. ஆகவே இவ்விரண்டில் ஒன்றை கூறினாலேயே 
-
-235   
-—   
-மற்றதை   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-வாய்விட்டுக் கூறாமலேயே எப்படி ஒன்றோடொன்று சேர்ந்தே நமக்கு ஸ்புரிக்கிறதோ \- அப்படியே இங்கும், பிராட்டி எப்போதுமே எம்பெருமானை விட்டுப் பிரியாத படியாலும், எம்பெருமானும் அவளுடன் கலந்து அவள் குறிப்பறிந்தே ஜகத்ஸ்ருஷ்ட்யாதிகளைச் செய்கிறபடியாலும் இவ்விருவரில் ஒருவரைக் கூறினாலும், மற்றவருக்கும் தானே தொடர்பு உண்டு – என்று அறிவது.\]   
-\- 
-
-स्मरन्ति चैनां मुनयः संसारार्णवतारिणीम्। 
-
-ऊचतुस्स्वयमप्येतत् सात्त्वतादिषु तावुभौ ॥ 
-
-\[பெரியபிராட்டியை   
-பிறவிப்   
-பெருங்கடலை 
-
-தாண்டிவிப்பவளாக முனிகள் கூறினார்கள். {இங்கு “सर्वकामप्रदां रम्यां संसारार्णवतारिणीम् । क्षिप्रप्रसादिनीं देवीं शरण्यां 3\~\<ql" என்ற காச்யபஸ்ம்ருதிவாக்யம்,   
-f\! 
-
-பூரிக்கவுள் என்ற ஸ்ரீவிஷ்ணுபுராண (1-9-120) வசனம் முதலியன திருவுள்ளம்} மேலும், ஸ்ரீஸாத்துவதம் முதலான ஆகமநூல்களில் திவ்ய தம்பதிகளான இவ்விருவருமே இப்படி பலமுறை தெரிவித்திருக்கிறார்கள்.\] 
-
-उपायोपेयदशयोर्द्वयेऽपि श्रीस्समन्विता । इष्टा च शेषिणि द्वन्द्वे शेषवृत्तिर्यथोचिता ॥   
-— 
-
-(ஆகவே மந்த்ரரத்னமான த்வயத்தில் பூர்வ- 
-
-உத்தரகண்டங்களில்   
-தெரிவிக்கப்பட்டபடி 
-
-உபாயதசையிலும் \- உபேயதசையிலும் பிராட்டி கட்டாயம் ஸம்பந்தப்பட்டவளே. அதனால் சேஷிதம்பதியான இந்த 
-
-இருவர்   
-விஷயத்தில்   
-அவரவரது 
-
-வர்ணாச்ரமாவஸ்த்தாதிகளுக்குத் தக்கபடி சேஷவ்ருத்தி கைங்கர்யம் யதோசிதமாய் கட்டாயம் விருப்பத்துடன் செய்யவேண்டும். சேஷபூதனான ஜீவன் சேஷிகளிடம் செய்யவேண்டிய பணிவிடைகளை சேஷவ்ருத்தி என்பர்.\] 
-
-अतोऽनन्यपरानेकश्रुतिस्मृत्यनुसारतः । 
-
-236 
-
-—   
-: 99:11 என்று.   
-लक्ष्म्युपायत्वदीपः 
-
-\-   
-இதன்   
-\[ஆதலால் "வேறு எதையோ சொல்லவந்து இடையில் இதையும் சொல்லிற்று” என்றபடி இல்லாமல் முக்யத்வத்தைக் கூறவே வந்த ச்ருதிகள்\-ஸ்ம்ருதிகளை அநுஸரித்துப் பார்த்தால் பெரியபிராட்டியாருடன் கூடிய பரமாத்மா ஒருவரே ப்ரபத்தி செய்ய வேண்டியவர் என்பதாக – இந்த த்வயத்தாலும் தெரிவிக்கப்பட்டது.\] 
-
-இவ்வளவுதூரம் விரிவாய்   
-பரகாலஸ்வாமி 
-
-காட்டியபடியால் பெரியபிராட்டியாருக்கு புருஷகாரத்வம்\= 
-
-என்பதைப்போல் 
-
-மோக்ஷேஷாபாயத்வமும் உண்டு என்பதாக ச்ருதிகள்-   
-பரிந்து பேசுதல் 
-
-ஸ்ம்ருதிகள்\-பகவத்சாஸ்த்ரம் 
-
-ஆகமஸம்ஹிதைகள் 
-
-சிஷ்டாசாராதிகளால்   
-என்னப்பட்ட 
-
-ஸம்ப்ரதாயக்ரந்தங்கள் 
-
-ஏற்பட்டபடியால் 
-
-புருஷகாரப்ரபதனம் பிராட்டியிடம் முதலில் செய்து பிறகு 
-
-பெரியபிராட்டியாருடன்   
-கூடிய   
-பகவானின் 
-
-திருவடித்தாமரைகளில் சரணாகதியை அநுஷ்டிப்பது – என்ற இந்த ஒன்றாலேயே மோக்ஷம் கிடைக்கும் \- என்று முள்\-கல்- சேறு முதலானவைகள் அற்ற   
-ராஜமார்கமான நல்ல 
-
-வழியாகும். 
-
-முடிவுரை 
-
-श्रीमच्छ्रीशैलतातप्रवरगुरुपदे न्यस्तरक्षाभरस्सन् 
-
-सम्यक्प्राप्तागमान्तद्वय इह परकालाख्यसद्देशिकेन्द्रात् । 
-
-श्रीमच्छ्रीशैलवंशाम्बुधिविधुनरसिंहाय्यतातार्यसूनु- 
-
-स्तेने श्रीवेङ्कटार्यः सुजनहिततमं लक्ष्म्युपायत्वदीपम् ॥ 
-
-என்ற   
-\[ஸ்ரீமானான ஸ்ரீசைலதாதார்யர் என்ற ப்ரபல குருவரரின் திருவடிவாரத்தில் தனது ஆத்மாவைப் பாதுகாக்க வேண்டிய பாரத்தை ஸமர்ப்பித்தவரும், மேலும், 
-
-237   
-லக்ஷ்மீ கடாக்ஷம் என்னும் உரையுடன் 
-
-ஸ்ரீபரகாலஸ்வாமி   
-என்ற   
-திருநாமமுடைய ஆசார்யச்ரேஷ்டரிடமிருந்து நன்கு ஸேவித்து உணர்ந்த உபயவேதாந்தங்களை உடையவரும் (ஸம்ஸ்க்ருத வேதாந்தம், த்ராவிட வேதாந்தம் ஆகிய   
-ஆகிய இரண்டு), அதேபோல் ஸ்ரீமத்திருமலைவம்சமாகிய கடலை சந்த்ரனைப் போன்று மகிழ்வித்து வருபவரான ஸ்ரீநரஸிம்ஹதாதார்யரின் குமாரருமான ஸ்ரீவேங்கடார்யர் என்றவர் நல்லோர்களுக்கு மிகவும் ஹிதமான இந்த லக்ஷ்ம்யுபாயத்வதீபம் என்ற நூலை அருளினார். 
-
-இனி இவரது விவரத்துடன் கூடிய முடிவு வாக்யம் 
-
-इति   
-श्रीमद्वेदमार्गप्रतिष्ठापनाचार्यपरमहंसपरिव्राजकाचार्यसर्वतन्त्रस्वतन्त्रोभय- 
-
-वेदान्ताचार्य 
-
-श्रीमद्रामानुजसिद्धान्तनिर्धारणसार्वभौम   
-श्रीपरकालसंयमीन्द्रमहादेशिक-   
-श्रीमत्कविकथककण्ठीरवचरणनळिनयुगळविन्यस्तसमस्तात्मभर- 
-
-चरणारविन्दचञ्चरीकायमाणमानसस्य तत्करुणाकटाक्षसमधिगतसरहस्यवेदान्त- युगीसर्वविद्यासर्वस्वस्य तत्कृपालब्धपारमहंसस्य श्रीनिवासपरकालयतिवरस्य गृहस्थाश्रमविरचितासु कृतिषु लक्ष्म्युपायत्वदीपः सम्पूर्णः । 
-
-श्रीमते निगमान्तमहादेशिकाय नमः ॥ 
-
-श्रीमते श्रीनिवासपरकालसंयमीन्द्रमहादेशिकाय नमः **॥** 
-
-ஸ்ரீமத்வேதமார்கப்ரதிஷ்ட்டாபனாசாரியரும்,   
-இப்படி 
-
-பரமஹம்ஸ 
-
-சாஸ்த்ரங்களிலும்   
-பரிவ்ராஜகாசார்யரும்,   
-எல்லா 
-
-ஒரு விஷயத்தை உண்டு என்று நிலைநாட்டவோ – இல்லை என்று மறுக்கவோ \-வேறு விதமாய் மாற்றி அமைக்கவோ வல்லவரும், ஸம்ஸ்க்ருத- த்ராவிட ரூப உபய வேதாந்தாசார்யரும், ஸ்ரீமத் கவிதார்கிக கேஸரியான ஸ்ரீஸ்வாமி தேசிகனின் திருவடிவாரத்தில் 
-
-ஆத்மாத்மீயங்களான   
-ஸமர்ப்பிக்கப்பட்ட   
-தனது 
-
-238   
-जुपायत्वदीपः 
-
-ஸகலபாரத்தை உடையவரும், ஸ்ரீபகவத்ராமாநுஜாசார்ய ஸித்தாந்தத்தை நிலைநாட்டுவதில் வல்லவரும், ஸ்ரீபரகால திருவடித்தாமரைகளில்   
-ஸம்யமீந்த்ரமஹாதேசிகனின் 
-
-தேன்வண்டைப் போன்று அங்குள்ள இனிய தேனைப் பருகும் மனம்படைத்தவரும், அவரது கருணை பொழியும் திவ்யகடாக்ஷத்தால் அடைந்த ரஹஸ்யக்ரந்தங்கள், வேதாந்தயுகளம் முதலான ஸத்வித்யைகளாகிய ஸொத்தை உடையவரும், அவரது க்ருபையால் மோக்ஷஷாச்ரமத்தை அடைந்தவருமான "ஸ்ரீநிவாஸ பரகாலயதிவரர்” என்ற மஹானால் க்ருஹஸ்த்தாச்ரமத்தில் செய்யப்பட்ட ஸம்ப்ரதாய நூல்களில் லக்ஷ்ம்யுபாயத்வதீப: என்ற ஸ்ரீகோசம் முற்றுப்பெற்றது. 
-
-श्रीमच्छ्रीरङ्गरामानुजमुनिचरणाम्भोजभृङ्गायमाणः 
-
-श्रीमच्छ्रीवीररघ्वीगुरुवरकरुणालब्धवेदान्तयुग्मः। 
-
-श्रीमच्छ्रीवासुदेवाह्वयपितृचरणावाप्ततापादिकोऽयं 
-
-श्रीवत्साङ्काख्यसूरिः व्यवृणुत महितं लक्ष्म्युपायत्वदीपम् ॥ 
-
-ஸ்ரீமதே நிகமாந்த மஹாதேசிகாய நம: 
-
-ஸ்ரீமதே ஸ்ரீநிவாஸபரகால ஸம்யமீந்த்ர மஹாதேசிகாய நம: 
-
-239   
-11 2:11 
-
-॥ श्रीलक्ष्मीहयवदन\-लक्ष्मीनारायण\-वेणुगोपालपरब्रह्मणे नमः ॥ 
-
-॥ श्री शठकोप\-रामानुज\-देशिकेभ्यो नमः। श्रीब्रह्मतन्त्रस्वतन्त्रपरकालगुरुपरम्परायै नमः॥ 
-
-श्रीनिवासपरकालमहादेशिककृतं 
-
-॥ श्रीपरकालमहादेशिक मङ्गलम् ॥ 
-
-शमदमगुणशीलं शाश्वतानन्दलीलं विजितकुमतिजालं वीतरागादिमूलम् । नतजनपरिपालं नाथपादाज्जलोलं गुरुमिह परकालं नौमिभक्त्यानुवेलम्॥१॥ 
-
-श्रीमते भक्तिवैराग्यधीमते विदितात्मने। 
-
-चिरकालं यतीन्द्राय परकालाय मङ्गलम् ॥२॥ 
-
-माधवेमासिचार्द्रायां मादृशानभिरक्षितुम् । 
-
-मन्मथाब्देवतीर्णाय मन्नाथायास्तु मङ्गलम्॥३॥ 
-
-सरोजवीजतुलसीसरालंकृतवक्षसे । 
-
-करांचितत्रिदण्डाय परकालाय मङ्गलम्॥४॥ 
-
-कुटिलान्यमतोन्मूलचटुलायोपवीतिने। 
-
-निटिलाद्युल्लसत्पुण्ड्रपटलायास्तु मङ्गलम्॥५**॥** 
-
-द्रमिडोपनिषत्तत्त्वं समुद्धर्तुं स्वदर्शितम् । 
-
-भूमौभूयोवतीर्णाय परकालाय मङ्गलम्॥६॥ 
-
-श्रीनिवासार्यसंलब्धश्रीभाष्यार्थादिसम्पदे । 
-
-श्रीनिवासमुनिप्राप्तश्रीगीतार्थाय मङ्गलम्॥७॥ 
-
-वरदाम्नायांतमौनिवरदानात्तसम्पदे । 
-
-वरदार्यार्चितस्वायवरदायास्तु मङ्गलम्॥८॥ 
-
-240 
-
-सुतर्कवाददंष्ट्राग्रैर्जितदुर्वादिदन्तिने । 
-
-प्रतिष्ठितागमान्ताय यतिसिंहाय मङ्गलम् ॥९॥ 
-
-पराङ्कुशो यामुनो वा परकालोथवा भवेत्। 
-
-सारांशोवाथवा तेषामित्यूह्यायास्तु मङ्गलम्॥१०॥ 
-
-पावितक्षितये चित्तभाविताष्टार्ण सम्पदे । 
-
-सेवितायवुधैरस्मद्दैवतायास्तु मङ्गलम्॥११॥ 
-
-वेदान्तार्यपदध्यानमोदान्तर्वाष्पचक्षुषे । 
-
-वादान्तस्थापितात्मेशभेदान्तायास्तु मङ्गलम् ॥१२॥ 
-
-परितापहरापाङ्गभरितादिकृपापदे । 
-
-दुरिताम्बुदवातूलचरितायास्तु मङ्गलम्॥१३॥ 
-
-आम्नायकैरवसुधाधाम्ने सद्गुणसम्पदाम्। 
-
-सीम्ने प्रपत्तिसंत्राणस्थेम्ने भवतु मङ्गलम् ॥१४॥ 
-
-व्यापकोपायनेतृत्वस्थापकायागमश्रियः । 
-
-व्यापकायपरब्रह्मज्ञापकायास्तु मङ्गलम् ॥१५॥ 
-
-आर्द्रायामवतीर्णत्वाद्गुरुपञ्चकसंश्रयात्। 
-
-यतीन्द्रत्वाद्भाष्यकार इतिख्याताय मङ्गलम् ॥ १६॥ 
-
-मङ्गलम् परकालाय मङ्गलम् दीनवन्धवे । 
-
-मङ्गलम् यतिराजाय मङ्गलम् मङ्गलात्मने॥१७॥ 
-
-परकालयतीन्द्रस्य पदाम्भोजयुगेर्पितम् । 
-
-मङ्गलम् पठतां नित्यं मङ्गलाय भवेदिदम् ॥१८॥ 
-
-शरणं भवाब्धितरणोडुपं भवच्चरणं ममेति करणत्रयात्मनि । 
-
-चिरकालमत्र परकालसद्गुरोकरुणां निधेहि करुणानिधे मयि ॥१९॥ 
-
-241   
-॥ श्रीः **॥** 
-
-॥ श्रीलक्ष्मीहयवदन- लक्ष्मीनारायण\-वेणुगोपालपरब्रह्मणे नमः ॥ 
-
-॥ श्री शठकोप\-रामानुज\-देशिकेभ्यो नमः | श्रीब्रह्मतन्त्रस्वतन्त्रपरकालगुरुपरम्परायै नमः ॥ 
-
-श्रीमद्वेदान्तपरकालमहादेशिककृतं 
-
-॥ श्रीनिवासपरकालमहादेशिक मङ्गलम् ॥ 
-
-द्वाविंशतियतीन्द्राप्त परकाल विहारिणे । 
-
-मूर्तये गुरवे श्रीश्रीनिवासायास्तु मङ्गलम्॥१॥ तातदेशिकपादाब्जन्यस्तस्वात्मभराय नः। 
-
-स्वामिने श्रीश्रीनिवासतुरीयायास्तु मङ्गलम्॥२॥ 
-
-परकालयतीशानप्राप्ततुर्याश्रमाय नः । 
-
-नाथाय श्रीनिवासाय परार्थायास्तु मङ्गलम्॥३॥ 
-
-शिखोर्ध्वपुण्ड्रकाषायत्रिदण्डालंकृतात्मने । 
-
-ज्ञानाब्धये श्रीनिवासहयास्यायास्तु मङ्गलम् ॥४॥ 
-
-पराङ्कुशो यतीशानो वेदान्तगुरुरेव वा । 
-
-इत्यूह्याय श्रीनिवासस्वामृतत्वाय मङ्गलम् ॥५॥ 
-
-भगवद्भक्तिवैराग्यनिधये गुणसिन्धवे । 
-
-शान्ताय श्रीनिवासाय परमाराय मङ्गलम् ॥ ६॥ 
-
-तन्त्रेषु सम्यङ्गिष्णातवादिगर्वापहारिणे । 
-
-दान्ताय श्रीश्रीनिवासयोगिनेदिव्यमङ्गलम् ॥७॥ 
-
-त्रय्यन्तगुरुसिद्धान्तस्थापनैकोत्सुकाय नः । 
-
-242 निधये श्रीनिवासाय परकालाय मङ्गलम् ॥ ८॥ 
-
-ज्ञानभक्तिवचः संपत् परमैकान्तसत्रिणे । 
-
-हयास्यमूर्तिश्रीवासपरतत्त्वाय मङ्गलम् ॥ ९ ॥ 
-
-सार्वज्ञ्यसत्यसंकल्पवात्सल्यादिगुणाब्धये । 
-
-नित्यलीलाप्रकाशाय श्रीनिवासाय मङ्गलम् ॥ १०॥ 
-
-यत्पादपङ्कजं प्राप्य निर्भरो निर्भयोऽस्म्यहम् । 
-
-स्वाचार्यपादविन्यस्तसर्वस्वत्वाय मङ्गलम् ॥ ११ ॥ 
-
-अनाथो नाथवानस्मि यत्कारुण्योत्यशालिने। 
-
-यतीन्द्रायात्मयोगाय श्रीनिवासाय मङ्गलम् ॥१२॥ 
-
-मङ्गलाशासनम् श्रीमत्परकालगुरोः पदे । 
-
-समर्पितम् पठेद्यस्तु स भवेन्मङ्गलाश्रयः॥१३॥ 
-
-243 
-
-ISBN 81-89650-42-4 
-
-9788189 650421 
-
-**Printed** in **India** 
-
-**Navbharath Press, Bangalore** \- 560 **020** 
-
-**navbarat@gmail.com**, **Ph**: **\+91-80-2356 1142** 
+ISBN 81-89650-42-4  
+9788189 650421

@@ -1,198 +1,2956 @@
 +++
 title = "१२ सर्वत्रप्रसिद्ध्यधिकरणम्"
 +++
+<details><summary>विषयः</summary>
 
-
+अन्ययोगव्यवच्छेदत्रिपादी
 **अथ श्रीशारीरकमीमांसाभाष्ये प्रथमे समन्वयाध्याये**
-
-## अन्ययोगव्यवच्छेदत्रिपादी
-
 **द्वितीयः पादः**
+अस्पष्टजीवादिलिङ्गकवेदान्तवाक्यविचाररूपः
+**सर्वत्र-प्रसिद्ध्य् अधिकरणम् ॥१॥**
 
-**सर्वत्रप्रसिद्ध्यधिकरणम् ॥१॥**
+पादार्थः – परमात्मनः सर्वशरीरकत्वम् ।  
 
-## अस्पष्टजीवादिलिङ्गकवेदान्तवाक्यविचाररूपः
+(अधिकरणार्थः – ब्रह्मण एव सर्वात्म-भावेनावस्थानम्)
+(शाण्डिल्य-विद्या छा.उ.3.14)
+</details>
 
-## पादार्थः – परमात्मनः सर्वशरीरकत्वम्
 
-## पूर्वपादीयः जिज्ञासाधिकरणार्थः
+
+## सङ्गतिः
+### पूर्व-पाद-सङ्ग्रहः 
+#### जिज्ञासाधिकरणार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रथमे पादे ऽधीत-वेदः पुरुषः  
+कर्म-मीमांसा-श्रवणाधिगत- -कर्म-याथात्म्य-ज्ञानः  
+केवल-कर्मणाम् अल्पास्थिर-फलत्वम् अवगम्य,  
+वेदान्त-वाक्येषु चापात-प्रतीतानन्त-स्थिर-फल- -ब्रह्म-स्वरूप-- -तद्-उपासन-समुपजात- -परम-पुरुषार्थ-लक्षण- -मोक्षापेक्षो  
+ऽवधारित-परिनिष्पन्न-वस्तु- -बोधन-शब्द-शक्तिः  
+वेदान्त-वाक्यानां परस्मिन् ब्रह्मणि निश्चित-प्रमाणभावस्  
+तद्--इति-कर्तव्यता--रूप- -शारीरक-मीमांसा-श्रवणम् आरभेतेत्य् उक्तं शास्त्रारम्भ-सिद्धये ॥१॥
+</details>
+
+<details><summary>Translation</summary>
+
+SECOND PĀDA. THE contents of the first Pāda may be summed up as follows: --It has been shown that a person who has read the text of the Veda; who further, through the study of the Karma-Mīmāṁsa, has acquired a full knowledge of the nature of (sacrificial and similar) works, and has recognised that the fruits of such works are limited and non-permanent; in whom there has arisen the desire for the highest aim of man, i.e. Release, which, as he has come to know in the course of reading the Vedānta portions of scripture, is effected by meditation on the nature of Brahman – such meditation having an infinite and permanent result; who has convinced himself that words are capable of conveying information about accomplished things (not only about things to be done), and has arrived at the conclusion that the Vedānta-texts are an authoritative means of knowledge with regard to the highest Brahman; --that such a person, we say, should begin the study of the Śārīraka-Mīmāṁsā which indicates the method how Brahman is to be known through the Vedānta-texts.
+</details>
+
+<details><summary>मूलम्</summary>
 
 प्रथमे पादे अधीतवेदः पुरुषः कर्ममीमांसाश्रवणाधिगतकर्मयाथात्म्यज्ञानः केवलकर्मणाम् अल्पास्थिरफलत्वमवगम्य, वेदान्तवाक्येषु चापातप्रतीतानन्तस्थिरफलब्रह्मस्वरूप तदुपासनसमुप-जातपरमपुरुषार्थलक्षणमोक्षापेक्षोऽवधारितपरिनिष्पन्नवस्तुबोधनशब्दशक्तिः वेदान्तवाक्यानां परस्मिन् ब्रह्मणि निश्चितप्रमाणभावस्तदितिकर्तव्यतारूपशारीरकमीमांसा-श्रवणमारभेतेत्युक्तं शास्त्रारम्भसिद्धये ॥१॥
+</details>
 
-## जन्माद्यधिकरणार्थः
+<details><summary>टीका</summary>
+
+प्रथमे पाद इत्यादि- किमर्थमत्र प्रथमपादाधिकरणार्थानुक्रमणम् ? उच्यते; पादानुयायिनोऽर्थस्य प्रत्यधिकरणमनुयायित्वस्फुटीकरणाय । किमर्थमनुयायित्वकथनम् ? सङ्गतिः कुतः ? सूत्रकाराभिप्रेतत्वात् पादभेदोह्यर्थभेदात्, तत्क्रमश्च सङ्गतिविशेषात् । तत्र किं प्रमाणम् ? सम्प्रदायक्रमः । किञ्च अत्राधिकरणार्थानुक्रमेण न त्रिपाद्या अनारम्भणीयत्वशङ्का चार्थात्परिहृता भवति, त्रिपाद्यामुदाहरिष्यमाणानां श्रुतीनां प्रथमपादाधिकरणोक्तन्यायाविषयत्वज्ञापनार्थत्वादनुक्रमणस्य; अत एव प्रथमपादे वेदान्तवाक्यानां परमात्मपरत्वे दर्शितेऽपि त्रिपाद्या आरम्भणीयत्वं सिद्धम् ।
+
+प्रथमे पादेऽपि ईक्षत्यानन्दमयाधिकरणयोः कारणस्य चिदचिद्वैलक्षण्ये सिद्धेऽपि पूर्वाधिकरणन्यायाविषयश्रुतिवाक्यार्थनिर्णयार्थो ह्युत्तरोत्तराधिकरणारम्भः, तद्वदत्रापीति ।
+
+शास्त्रारम्भप्रयोजनायाश्चतुस्सूत्र्याः कथं प्रथमपादे सङ्गतिः ? उच्यते; तस्याः शास्त्रारम्भार्थत्वेन शास्त्रोपोद्घातरूपत्वादर्थतः प्रथमपादान्तर्गतत्वम्, न तु प्रथमपादस्य प्रथमाध्यायस्य चासाधारणत्वात्सङ्गतिः- प्रथमे पाद इति । अधीतवेदः- कृतसाङ्गसशिरस्काध्ययनः ।
+
+तावत्यपर्यवसानमाह - कर्मेति ।
+
+तत्राप्यपर्यवसाने हेतुमाह - केवलेति ।
+
+तथापि ब्रह्मविचारप्रवत्तर्नक्षमापातप्रतीतिरेव जायते, सिद्धवस्तुनि व्युत्पत्त्यभावादितिशङ्कायां प्रथमसूत्रस्य तात्पर्यमाह - अवधारितेति ।
+
+तर्हि वेदान्तवाक्यैरेवालम्, किमर्थो ब्रह्मविचार इत्यत्राह - तदितिकर्त्तव्यतेति ।
+
+ननु चतुस्सूत्री हि शास्त्रारम्भार्था, तत्कथं प्रथमाधिकरणार्थानुक्रमे शास्त्रारम्भसिद्धय इत्युक्तम् ? जन्मादिसूत्रत्रयस्यापि प्रथमाधिकरणाधीनारम्भत्वात्तथोक्तिः, न तु तेषां सूत्राणां शास्त्रारम्भार्थत्वाभावात् । यद्वा जन्मादित्रिसूत्र्याः शास्त्रारम्भत्वे सत्यपि प्रथमपादे सङ्गतिरप्यस्ति, चिदचिद्विलक्षणकारणास्तित्वविषयत्वात्तस्याः । प्रथमपादो हि समस्तचिदचिद्विलक्षणकारणास्तित्वनिरूपणपरः ।
+
+जन्मादिसूत्रे जन्मादिकारणत्वं लक्षणमुक्तम्, कारणस्य प्रमाणान्तरासिद्धिः प्रयोजनरूपता चानन्तरसूत्रद्वयेनोक्ते, अतः प्रथमाधिकरणार्थानुक्रमे शास्त्रारम्भसिद्धय इत्युक्तमिति ।
+
+यद्वा शास्त्रारम्भसिद्धय इतिपदमुत्तराधिकरणत्रयेऽनुषज्यत इति चतुस्सूत्र्याः शास्त्रारम्भसिध्द्यर्थत्वमुक्तं भवति ।
+</details>
+
+#### जन्माद्य्-अधिकरणार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्त-विचित्र- -स्थिर-त्रस-रूप- -भोक्तृ-भोग्य-भोगोपकरण- -भोग-स्थान-लक्षण- -निखिल-जगद्-उदय-विभव-लय- -महानन्दैक-कारणं परं ब्रह्म  
+"यतो वा इमानि" इत्य्-आदि-वाक्यं बोधयतीति च प्रत्यपादि॥२॥
+</details>
+
+<details><summary>Translation</summary>
+
+We next have shown that the text 'That from which these creatures are born,' &c., conveys the idea of the highest Brahman as that being which in sport, as it were, creates, sustains, and finally reabsorbs this entire universe, comprising within itself infinite numbers of variously constituted animated beings – moving and non-moving --, of objects of enjoyment for those beings, of means of enjoyment, and of abodes of enjoyment; and which is the sole cause of all bliss.
+</details>
+
+<details><summary>मूलम्</summary>
 
 अनन्तविचित्रस्थिरत्रसरूपभोक्तृभोग्यभोगोपकरणभोगस्थानलक्षणनिखिलजगदुदयविभवलय-महानन्दैककारणं परं ब्रह्म यतो वा इमानि इत्यादिवाक्यं बोधयतीति च प्रत्यपादि॥२॥
+</details>
 
-## शास्त्रयोनित्वाधिकरणार्थः
+<details><summary>टीका</summary>
+
+जन्मादिसूत्रार्थमनुक्रामति - अनन्तेति । सौत्रस्यास्येतिपदस्य विवक्षितमर्थमाह- अनन्तविचित्रादिविशेषणैः । अनन्तविचित्रशब्दौ भोक्तृभोग्यसाधारणौ ।
+
+महानन्दैककारणत्वं "तद्विजिज्ञासस्व" इति वाक्याभिप्रेतम्, तापत्रयातुरजिज्ञास्यस्य हि लक्षणं निरूपितम्, अतो महानन्दैककारणमित्युक्तम् ।
+
+यद्वा "यत्प्रयन्ती "त्यस्य आत्यन्तिकल्यपर्यन्तत्वाभिप्रायेणोक्तम्- महानन्देति ।  
+"येयं प्रेते" "न प्रेत्य" इति चात्यन्तिकलयो हि प्रायणं श्रुतम्, अविरुद्धविशेषणभेदो न विशेष्यभेदावह इत्यभिप्रायेण एकशब्दप्रयोगः, निमित्तोपादानैकत्वाभिप्रायेण वा ।
+</details>
+
+#### शास्त्र-योनित्वाधिकरणार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जगद्-एक-कारणं परं ब्रह्म  
+सकलेतर-प्रमाणाविषयतया शास्त्रैक-प्रमाणकम् इत्य् अभ्यधाम॥३॥
+</details>
+
+<details><summary>Translation</summary>
+
+We have established that this highest Brahman, which is the sole cause of the world, cannot be the object of the other means of knowledge, and hence is to be known through scripture only.
+</details>
+
+<details><summary>मूलम्</summary>
 
 जगदेककारणं परं ब्रह्म सकलेतरप्रमाणाविषयतया शास्त्रैकप्रमाणकमित्यभ्यधाम॥३॥
+</details>
 
-## समन्वयाधिकरणार्थः
+#### समन्वयाधिकरणार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-प्रमाणकत्वं च ब्रह्म  
+प्रवृत्ति-निवृत्त्य्-अन्वय-विरहेऽपि  
+स्वरूपेणैव परम-पुरुषार्थ-भूते परस्मिन् ब्रह्मणि  
+वेदान्त-वाक्यानां समन्वयान् निरुह्यत इत्य् अब्रूम॥४॥
+</details>
+
+<details><summary>Translation</summary>
+
+We have pointed out that the position of scripture as an authoritative means of knowledge is established by the fact that all the Vedānta-texts connectedly refer to the highest Brahman, which, although not related to any injunctions of action or abstention from action, by its own essential nature constitutes the highest end of man.
+</details>
+
+<details><summary>मूलम्</summary>
 
 शास्त्रप्रमाणकत्वं च ब्रह्म प्रवृत्तिनिवृत्त्यन्वयविरहेऽपि स्वरूपेणैव परमपुरुषार्थभूते परस्मिन् ब्रह्मणि वेदान्तवाक्यानां समन्वयान्निरुह्यत इत्यब्रूम॥४॥
+</details>
 
-## ईक्षत्यधिकरणार्थः
+#### ईक्षत्यधिकरणार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निखिल-जगद्-एक-कारणतया वेदान्त-वेद्यं ब्रह्म च  
+ईक्षणाद्य्-अन्वयाद् आनुमानिक-प्रधानाद् अर्थान्तर-भूतश्  
+चेतन-विशेष एवेत्य् उपापीपदाम॥ ५॥
+</details>
+
+<details><summary>Translation</summary>
+
+We have proved that Brahman, which the Vedānta-texts teach to be the sole cause of the world, must be an intelligent principle other than the non-sentient pradhāna. since Brahman is said to think.
+</details>
+
+<details><summary>मूलम्</summary>
 
 निखिलजगदेककारणतया वेदान्तवेद्यं ब्रह्म च ईक्षणाद्यन्वयादानुमानिक-प्रधानादर्थान्तरभूतः चेतनविशेष एवेत्युपापीपदाम॥ ५॥
+</details>
 
-## आनन्दमयाधिकरणार्थः
+#### आनन्दमयाधिकरणार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स च स्वाभाविकानवधिकातिशयानन्द- -विपश्चित्त्व- -निखिल-चेतन-भयाभय-हेतुत्व- -सत्य-सङ्कल्पत्व- -समस्त-चेतनाचेतनान्तरात्मत्वादिभिर्  
+बद्ध-मुक्तोभयावस्थाज् जीव-शब्दाभिलपनीयाच् चार्थान्तर-भूत  
+इति च समार्तिथामहि॥६॥
+</details>
+
+<details><summary>Translation</summary>
+
+We have declared that this intelligent principle is other than the so-called individual soul, whether in the state of bondage or that of release; since the texts describe it as in the enjoyment of supreme bliss, all-wise, the cause of fear or fearlessness on the part of intelligent beings, the inner Self of all created things, whether intelligent or non-intelligent, possessing the power of realising all its purposes, and so on.
+</details>
+
+<details><summary>मूलम्</summary>
 
 स च स्वाभाविकानवधिकातिशयानन्दविपश्चित्त्वनिखिलचेतनभयाभयहेतुत्वसत्यसङ्कल्पत्व-समस्त-चेतनाचेतनान्तरात्मत्वादिभिर्बद्धमुक्तोभयावस्थाज्जीव शब्दााभिलपनीयाच्चार्थान्तरभूत इति च समार्तिथामहि॥६॥
+</details>
 
-## अन्तरधिकरणार्थः
+#### अन्तर्-अधिकरणार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स चाप्राकृताकर्म-निमित्त- -स्वासाधारण-दिव्य-रूप इत्य् उदैरिराम॥ ७॥
+</details>
+
+<details><summary>Translation</summary>
+
+--We have maintained that this highest Being has a divine form, peculiar to itself, not made of the stuff of Prakr̥ti, and not due to karman.
+</details>
+
+<details><summary>मूलम्</summary>
 
 स चाप्राकृताकर्मनिमित्तस्वासाधारणदिव्यरूप इत्युदैरिराम॥ ७॥
+</details>
 
-## आकाशाधिकरणार्थः
+#### आकाशाधिकरणार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकाश-प्राणाद्य्- -अचेतन-विशेषाभिधायिभिर्  
+जगत्-कारणतया प्रसिद्धवन् निर्दिश्यमानः  
+सकलेतर-चेतनाचेतनविलक्षणस्  
+स एवेति समगरिष्महि॥ ८॥
+</details>
+
+<details><summary>Translation</summary>
+
+--We have explained that the being which some texts refer to as a well-known cause of the world – designating it by terms such as ether or breath, which generally denote a special non-sentient being – is that same highest Self which is different from all beings, sentient or non-sentient.
+</details>
+
+<details><summary>मूलम्</summary>
 
 आकाशप्राणाद्यचेतनविशेषाभिधायिभिर्जगत्कारणतया प्रसिद्धवन्निर्दिश्यमानः सकलेतरचेतन-अचेतनविलक्षणस्स एवेति समगरिष्महि॥ ८॥
+</details>
 
-## ज्योतिरधिकरणार्थः
+#### ज्योतिर्-अधिकरणार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर-तत्त्वासाधारण- -निरतिशय-दीप्ति-युक्त- -ज्योतिश्-शब्दाभिधेयो  
+द्यु-सम्बन्धितया प्रत्यभिज्ञानात्  
+स एवेत्य् आतिष्ठामहि॥ ९ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+--We have declared that, owing to its connexion with heaven, this same highest Self is to be recognised in what the text calls a 'light,' said to possess supreme splendour, such as forms a special characteristic of the highest Being.
+</details>
+
+<details><summary>मूलम्</summary>
 
 परतत्त्वासाधारणनिरतिशयदीप्तियुक्तज्योतिश्शब्दाभिधेयो द्युसम्बन्धितया प्रत्यभिज्ञानात्स एवेत्यातिष्ठामहि॥ ९ ॥
+</details>
 
-## इन्द्रप्राणाधिकरणार्थः
+#### इन्द्रप्राणाधिकरणार्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम-कारण-साधारण- -अमृतत्व-प्राप्ति-हेतु-भूतः  
+परम-पुरुष एव शास्त्र-दृष्ट्येन्द्रादि-शब्दैर् अभिधीयत इत्य् अब्रूमहि ॥१०॥
+</details>
+
+<details><summary>Translation</summary>
+
+We have stated that, as we recognise through insight derived from scripture, that same highest Person is denoted by terms such as Indra, and so on; as the text ascribes to that 'Indra' qualities exclusively belonging to the highest Self, such, e.g., as being the cause of the attainment of immortality.
+</details>
+
+<details><summary>मूलम्</summary>
 
 परमकारणसाधारणामृतत्वप्राप्तिहेतुभूतः परमपुरुष एव शास्त्रदृष्ट्येन्द्रादिशब्दैरभिधीयत इत्यब्रूमहि ॥१०॥
+</details>
 
-## आहत्य प्रथमपादार्थसारः
+<details><summary>टीका</summary>
+
+शास्त्रेति - समन्वयात्- परमपुरुषार्थभूतस्यैव ब्रह्मणः प्रतिपादकतया शास्त्रस्य तेनान्वयात् ।
+
+स चेत्यादि - स्वाभाविकानवधिकातिशयशब्दौ प्रतिविशेषणमन्वितौ । आकाशप्राणाधिकरणार्थयोः पृथगनुक्तिर्न्यायस्यानतिभिन्नत्वात् ।
+
+परमेति - परमकारणस्यासाधारणम्- तस्य प्रदेयत्वेन असाधारणम् अमृतत्वम् तत्प्राप्तिहेतुरित्यर्थः ।
+
+यद्वा परमकारणस्यासाधारणम्- चिह्नभूतमित्यर्थः । उपासकस्य अमृतत्वप्राप्तिर्हि उपास्यस्य परमकारणत्वमावेदयति ।
+
+यद्वा परमकारणासाधारणम्- तद्धर्मभूतममृतत्वम्, तत्प्राप्तिः- परमसाम्यापत्तिरित्यर्थः ।
+</details>
+
+#### सारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एवम् अतिपतित-सकलेतर-प्रमाण-सम्भावना-भूमिस्  
+सार्वज्ञ्य--सत्य-सङ्कल्पत्वाद्य्- -अपरिमितोदार-गुणसागरतया  
+स्वेतर-समस्त-वस्तु-विलक्षणः परं ब्रह्म पुरुषोत्तमो नारायण एव वेदान्त-वेद्य  
+इत्य् उक्तम्॥११॥
+</details>
+
+<details><summary>Translation</summary>
+
+--And the general result arrived at was that the Vedānta-texts help us to the knowledge of one being only, viz. Brahman, or the highest Person, or Nārāyaṇa – of whom it is shown that he cannot possibly be the object of the other means of knowledge, and whom the possession of an unlimited number of glorious qualities proves to differ totally from all other beings whatsoever.
+</details>
+
+<details><summary>मूलम्</summary>
 
 तदेवमतिपतितसकलेतरप्रमाणसम्भावनाभूमिस्सार्वज्ञ्यसत्यसङ्कल्पत्वाद्यपरिमितोदारगुणसागरतया स्वेतरसमस्तवस्तुविलक्षणः परं ब्रह्म पुरुषोत्तमो नारायण एव वेदान्तवेद्य इत्युक्तम्॥११॥
+</details>
 
-## अनन्तरत्रिपाद्या अर्थः
+<details><summary>टीका</summary>
 
-अतः परं द्वितीयतृतीयचतुर्थेषु पादेषु यद्यपि वेदान्तवेद्यं ब्रह्मैव, तथापि कानिचिद्वेदान्तवाक्यानि प्रधानक्षेत्रज्ञान्तर्भूतवस्तुविशेषस्वरूपप्रतिपादनपराण्येवेत्याशङ्कय तन्निरसनमुखेन तत्तद्वाक्योदितकल्याणगुणाकरत्वं ब्रह्मणः प्रतिपाद्यते।
+पादार्थमाह - तदेवमिति ।
 
-## त्रिपाद्यामपि प्रतिपादम् अर्थसारः
+पुरुषत्वादस्मदादिवदित्यादिकुतर्कपरिहारार्थमाह - अतिपतितेति ।
 
-तत्रास्पष्टजीवादिलिङ्गकानि वाक्यानि द्वितीये पादे विचार्यन्ते; स्पष्टलिङ्गकानि तृतीये, तत्तत्प्रतिपादनच्छायानुसारीणि चतुर्थे॥
+तेषां धर्मिग्राहकमानबाध इति भावः । ज्योतिरधिकरणार्थाभिप्रायः पुरुषोत्तमशब्दः । प्रतर्दनविद्याभिप्रायो नारायणशब्दः ।
+
+"मामुपास्व" इत्यस्यापि नारायणानुवाकैक्येन सर्वविद्योपास्यतयोक्तनारायणोपासनपरत्वात् चिदचिद्विलक्षणकारणास्तित्वं पादानुगतार्थ इत्यर्थः ।
+
+नारायण एवेत्यवधारणाक्षेपेण द्वितीयादिपादोत्थानमित्यभिप्रायेणाह - अतः परमिति ।
+</details>
+
+### त्रिपाद्य्-अर्थः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः परं द्वितीय-तृतीय-चतुर्थेषु पादेषु  
+यद्य् अपि वेदान्त-वेद्यं ब्रह्मैव,  
+तथा ऽपि कानिचिद् वेदान्त-वाक्यानि  
+प्रधान--क्षेत्र-ज्ञान्तर्भूत- -वस्तु-विशेष- -स्व-रूप--प्रतिपादन-पराण्य् एवेत्य् आशङ्क्य  
+तन्-निरसन-मुखेन  
+तत्-तद्-वाक्योदित-कल्याण-गुणाकरत्वं ब्रह्मणः प्रतिपाद्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+Now, although Brahman is the only object of the teaching of the Vedānta-texts, yet some of these texts might give rise to the notion that they aim at setting forth (not Brahman), but some particular being comprised within either the pradhāna or the aggregate of individual souls. The remaining Pādas of the first Adhyāya therefore apply themselves to the task of dispelling this notion and proving that what the texts in question aim at is to set forth certain glorious qualities of Brahman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतः परं द्वितीयतृतीयचतुर्थेषु पादेषु यद्यपि वेदान्तवेद्यं ब्रह्मैव, तथापि कानिचिद्वेदान्तवाक्यानि प्रधानक्षेत्रज्ञान्तर्भूतवस्तुविशेषस्वरूपप्रतिपादनपराण्येवेत्याशङ्क्य तन्निरसनमुखेन तत्तद्वाक्योदितकल्याणगुणाकरत्वं ब्रह्मणः प्रतिपाद्यते।
+</details>
+
+<details><summary>टीका</summary>
+
+द्वितीयतृतीयचतुर्थेष्विति - प्रथमपादस्य न केवलमनन्तरपादेन सङ्गतिः, अपि तु त्रिपाद्येवेति भावः ।
+
+यथा "चोदनालक्षणोऽर्थो धर्मः" इत्यत्र चोदनैव प्रमाणम्, प्रमाणमेव चोदनेत्यवधारणद्वयम् ।
+
+तत्र प्रमाणमेव चोदनेत्यवधारणम् औत्पत्तिकसूत्रे साधितम्, चोदनैव प्रमाणमित्यवधारणं प्रत्यक्षसूत्रे स्थापितम्, तथा जन्मादिसूत्रेऽपि ब्रह्म कारणमेव ब्रह्मैव कारणमित्यवधारणद्वयमपि विवक्षितम्, जन्मादिकारणत्वस्य ब्रह्मलक्षणत्वात्, लक्षणस्याव्याप्त्यतिव्याप्त्यसम्भवपरिहारावश्यम्भावात्, तत्र व्यक्तयैक्यान्नाव्याप्तिः, असम्भवपरिहाररूपायोगव्यवच्छेदः प्रथमपाद उक्तः, अतिव्याप्तिपरिहाररूपान्ययोगव्यवच्छेदः त्रिपाद्या क्रियत इति विभागाभिप्रायेण कानिचिद्वेदान्तवाक्यानीत्युक्तम् ।
+
+तत्तद्वाक्योदितकल्याणगुणकरत्वं ब्रह्मणः प्रतिपाद्यत इति - चिदचिद्विलक्षणस्वरूपं साधितम् ।
+
+अथ तस्य गुणविशेषप्रतिपादनं त्रिपाद्यां क्रियत इति च प्रथमपादत्रिपाद्योर्विभाग इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्रास्पष्ट-जीवादि-लिङ्गकानि वाक्यानि  
+द्वितीये पादे विचार्यन्ते;
+</details>
+
+<details><summary>Translation</summary>
+
+The second Pāda discusses those texts which contain somewhat obscure references to the individual soul;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्रास्पष्टजीवादिलिङ्गकानि वाक्यानि द्वितीये पादे विचार्यन्ते;
+</details>
+
+<details><summary>टीका</summary>
+
+पादत्रयस्यावान्तरभिदामाह - तत्रेति ।
+
+अस्पष्टेत्यादिवैषम्यं ब्रह्मलिङ्गगतमिति परैरुक्तम् ।
+
+अत्र तु जीवादिलिङ्गगतमिति भिदा ।
+
+द्वितीयतृतीयपादाद्यधिकरणयोर्जीवस्य पूर्वपक्षित्तत्वाज्जीवादीत्युक्तम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्पष्ट-लिङ्गकानि तृतीये,  
+तत्-तत्+++(→जीवादि-स्पष्टतर)+++-प्रतिपादन-च्छायानुसारीणि चतुर्थे॥
+</details>
+
+<details><summary>Translation</summary>
+
+the third Pāda those which contain clear references to the same; and the fourth Pāda finally those texts which appear to contain even clearer intimations of the individual soul, and so on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्पष्टलिङ्गकानि तृतीये, तत्तत्प्रतिपादनच्छायानुसारीणि चतुर्थे॥
+</details>
+
+<details><summary>टीका</summary>
+
+तत्तत्प्रतिपादनच्छायानुसारीणि चतुर्थ इति तत्तत्प्रतिपादनम्- जीवादिलिङ्गप्रतिपादनम् न तल्लिङ्गप्रतिपादनम् ।
+
+अस्पष्टस्पष्टस्पष्टतरपूर्वपक्षोत्थानहेतुभेदेन भिन्नास्त्रयः पादा इत्यर्थः ।
+
+प्रथमपादचरमाधिकरणे अवयवभूतोपक्रमगतजीवलिङ्गमवयविभूतवाक्यार्थस्वारस्येन बाधितमित्युक्तम्, सर्वतादात्म्यमनः प्राणसम्बन्धार्भकौकस्त्वाणीयस्त्वव्यपदेशरूपलिङ्गानामवयविगतत्वेनाबाध्यत्वमिति प्रत्यवस्थानं परिह्रियते द्वितीयपादप्रथमाधिकरणे । इत्यवान्तरसङ्गतिः ॥
+
+सर्वत्र प्रसिद्धोपदेशात् ॥ "सर्वं खलु" इत्यादेर्द्वितीययोजनायामुदाहरिष्यमाणत्वात् प्रथमयोजनापेक्षितम्- अथ खलु इत्यादिकमुपात्तम् । द्वितीयसूत्रे "भारूपः" इत्यस्य उपरितनवाक्यस्योपादास्यमानत्वात् अत्र भारूप इत्यन्त मुपात्तम्, आदिशब्देनान्यद्गृहीतम् । अत्र रात्रिसत्रन्यायेन मनोमय उपास्यतया सम्बध्यते, आर्थवादिकस्यापि विध्यपेक्षितस्य स्वीकार्यत्वात् ।
+</details>
+
+### विषय-वाक्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ३३. सर्वत्र प्रसिद्धोपदेशात् ॥ १-२-१ ॥
+</details>
 
-(अधिकरणार्थः – ब्रह्मण एव सर्वात्मभावेनावस्थानम्)
+<details><summary>Translation</summary>
 
-(शाण्डिल्यविद्या छा.उ.3.14)
+1\. Everywhere; because there is taught what is known.
+</details>
+
+<details><summary>मूलम्</summary>
+
+३३. सर्वत्र प्रसिद्धोपदेशात् ॥ १-२-१ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदम् आम्नायते छान्दोग्ये –  
+
+> अथ खलु क्रतुमयः पुरुषो  
+यथा-क्रतुर् अस्मिल्ँ लोके पुरुषो भवति  
+तथेतः प्रेत्य भवति  
+स क्रतुं कुर्वीत मनोमयः प्राण-शरीरो भा-रूपः (छा.३.१४.१) 
+
+इत्य्-आदि॥
+</details>
+
+<details><summary>Translation</summary>
+
+We read in the Cḥāndogya, 'Man is made of thought; according to what his thought is in this world, so will he be when he has departed this life. Let him form this thought: he who consists of mind, whose body is breath, whose form is light,' &c. (III, 14).
+</details>
+
+<details><summary>मूलम्</summary>
 
 इदमाम्नायते छान्दोग्ये – अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिंल्लोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत मनोमयः प्राणशरीरो भारूपः (छा.३.१४.१) इत्यादि॥
+</details>
 
-## जिज्ञास्यो विषयः
+<details><summary>टीका</summary>
+
+ननु "स क्रतुं कुर्वीत" इत्यादिकमुपादीयताम् किमर्थं "यथाक्रतुरस्मिन्" इत्यादि वाक्योपादानम् ? उच्यते, "फलवत्सन्निधावफलं तदङ्गम्" इतिन्यायेन "स क्रतुं कुर्वीते" तिविधेः फलाश्रवणनिमित्तं पूर्वविहितोपासनाङ्गत्वं माभूदिति फलसम्बन्धप्रदर्शनार्थं तदुपादानम्, "शान्त उपासीत इति विहितोपासनाधिकृतस्यैव उपासनान्तरविधानमनुपपन्नमिति शङ्काव्यावृत्त्यर्थम् "अथ खलु क्रतुमयः पुरुषः" इति वाक्यं घटकत्वेनोपात्तम् जीवस्य बहुविधोपासनप्रचुरत्वादनेकोपासनविधानं युक्तमिति भावः ॥
+</details>
+
+### संशयः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र "स क्रतुं कुर्वीत" (छा.३.१४.१) इति प्रतिपादितस्योपासनस्य  
+उपास्यो "मनोमयः प्राण-शरीरः" (छा.३.१४.१) इति निर्दिश्यत  
+इति प्रतीयते ॥
+</details>
+
+<details><summary>Translation</summary>
+
+We here understand that of the meditation enjoined by the clause 'let him form this thought' the object is the being said to consist of mind, to have breath for its body, &c.
+</details>
+
+<details><summary>मूलम्</summary>
 
 अत्र स क्रतुं कुर्वीत (छा.३.१४.१) इति प्रतिपादितस्योपासनस्योपास्यः मनोमयः प्राणशरीरः (छा.३.१४.१) इति निर्दिश्यत इति प्रतीयते ॥
+</details>
+
+<details><summary>टीका</summary>
+
+अत्र व्याख्यात्रन्तरैः "सर्वं खल्वि"त्यादिवाक्यस्य ब्रह्मपरत्वं स्पष्टमिति बुद्ध्वा "स क्रतु"मित्यादिवाक्ययोर्जीवविषयत्वेन पूर्वपक्षं कृत्वा ब्रह्मविषयत्वेन सिद्धान्त उक्तः, इह तु विषयैक्ये स्थित एव पूर्वपक्षसिद्धान्तौ पश्चादभिधास्येते । प्रथमं व्याख्यात्र्-अन्तरोक्त-दिशा पूर्व-पक्ष-सिद्धान्तौ उपवर्ण्येते । नन्व् अत्रोपासनान्तरं न विधित्सितम्, पूर्वविहितोपासनाङ्गभूतक्रतुविधिपरत्वादस्य वाक्यस्य ।
+
+ततश्च मनोमयादिपदान्युपास्यान्तराभावात् प्रकृतब्रह्मपराणीति निश्चयान्न विचारविषय इति शङ्कां व्युदस्यति - अत्रेति ।
+
+मनोमयादिपदानां प्रकृतोपास्यविषयत्वे प्रमाणाभावात् ब्रह्मपरत्वानिश्चयात् "स क्रतुम्" इतिनिर्दिष्टोपासकविशेषणत्वाश्रयणे तस्यानाविर्भूतगुणाष्टकस्य सत्वसङ्कल्पत्वा देरघटमानत्वाच्च पाश्चात्यविद्यान्तरोपास्यपरत्वनिश्चये सति तद्विशेषनिश्चयाभावात् विचारस्यारम्भणीयत्वमित्यर्थः ।
+</details>
 
 ## संशयाकारः
 
-तत्र संशयः – किं मनोमयत्वादिगुणकः क्षेत्रज्ञः; उत परमात्मा – इति ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र संशयः – किं मनोमयत्वादि-गुणकः क्षेत्र-ज्ञः;
+</details>
+
+<details><summary>Translation</summary>
+
+A doubt, however, arises whether the being possessing these attributes be the individual soul
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र संशयः – किं मनोमयत्वादिगुणकः क्षेत्रज्ञः;
+</details>
+
+<details><summary>टीका</summary>
+
+उपासनस्येतिपदेन "तं यथा यथोपासते तथैव भवति" "यथाक्रतुरस्मिन् लोके पुरुषो भवति तथेतः प्रेत्य भवति" इत्यनयोर्वाक्ययोरैकार्थ्यात् "क्रतुं कुर्वीत" इत्यत्र क्रतुशब्दश्चोपासनपर इति तदुपास्ये मनोमयत्वादिगुणके संशय इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत परमात्मा – इति ॥
+</details>
+
+<details><summary>Translation</summary>
+
+or the highest Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत परमात्मा – इति ॥
+</details>
+
+<details><summary>टीका</summary>
+
+तत्रेति - "स क्रतुं कुर्वीत" इत्यत्र उपास्यतया निर्दिष्टो मनोमयत्वादिगुणकः किं जीवः ? उत परमात्मा ? इति विचारः ।
+
+तदर्थं कर्मकर्तृव्यपदेशशब्दविशेषोपसंहारगतब्रह्मशब्दादयः किं मुख्याः, उतामुख्याः? तदर्थं मनोमयत्वादिकं जीवस्यैव सम्भवति, उत परमात्मनोऽपि घटते ? इति ।
+
+तदर्थम् "अप्राणो ह्यमनाः" इति किं मन आदिसम्बन्धमात्रनिषेधः, उत समबन्धविशेषनिषेधः ? इति ।
+
+यदा सम्बन्धमात्रनिषेधः तदा मनोमयत्वादेर्जीवस्यैवासाधारणतया कर्मकर्तृव्यपदेशादीनाममुख्यत्वेन "स क्रतुं कुर्वीत" इति विहितोपासनस्योपास्यो जीव इति पूर्वपक्षस्थितिः।
+
+यदा सम्बन्धविशेषनिषेधः तदा मनोमयत्वादेः परस्मिन्सम्भवेन कर्मकर्तृव्यपदेशादीनां मुख्यत्वात् तत्रोपास्यतया विहितः परमात्मेति सिद्धान्ते फलफलिभावः ।
+</details>
 
 ## पूर्वपक्षस्वरूपम्
 
-किं युक्तम्? क्षेत्रज्ञ इति। कुतः? मनःप्राणयोः क्षेत्रज्ञोपकरणत्वात्, परमात्मनस्तु अप्राणो ह्यमनाः (मुं.२.१.२) इति तत्प्रतिषेधाच्च। न च सर्वं खल्विदं ब्रह्म (छां.३.१४.१) इति पूर्वनिर्दिष्टं ब्रह्मात्रोपास्यतया सम्बद्धुं शक्यते, शान्त उपासीत (छां.३.१४.१) इत्युपासनोपकरणशान्ति-निर्वृत्त्युपायभूतब्रह्मात्मकत्वोपदेशायोपात्तत्वात् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं युक्तम्?
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+किं युक्तम्?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षेत्र-ज्ञ इति।
+</details>
+
+<details><summary>Translation</summary>
+
+--The Pūrvapakshin maintains the former alternative.
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्षेत्रज्ञ इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः?
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+कुतः?
+</details>
+
+<details><summary>टीका</summary>
+
+पुर्वपक्षमुपपादयति - कुत इत्यादिना ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनः-प्राणयोः क्षेत्रज्ञोपकरणत्वात्, परमात्मनस् तु अप्राणो ह्यमनाः (मुं.२.१.२) इति तत्प्रतिषेधाच्च।
+</details>
+
+<details><summary>Translation</summary>
+
+For, he says, mind and breath are instruments of the individual soul; while the text 'without breath, without mind,' distinctly denies them to the highest
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनःप्राणयोः क्षेत्रज्ञोपकरणत्वात्, परमात्मनस्तु अप्राणो ह्यमनाः (मुं.२.१.२) इति तत्प्रतिषेधाच्च।
+</details>
+
+<details><summary>टीका</summary>
+
+ननु कथमस्य पादस्य अस्पष्टजीवलिङ्गवाक्यविषयत्वम् ? मनोमयत्वादिकं हि स्पष्टं जीवलिङ्गमिति चेत् न, स्पष्टस्य मनस्सम्बन्धमात्रस्य जीवलिङ्गत्वाभावात् जीवलिङ्गभूतस्योपकरणोपकरणित्वलक्षणसम्बन्धविशेषस्यास्पष्टत्वाच्चेत्यभिप्रायेण मनः प्राणयोः क्षेत्रज्ञोपकरणत्वादित्युक्तम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च सर्वं खल्विदं ब्रह्म (छां.३.१४.१) इति पूर्व-निर्दिष्टं ब्रह्मा-त्रोपास्यतया सम्बद्धुं शक्यते, शान्त उपासीत (छां.३.१४.१) इत्युपासनोपकरणशान्ति-निर्वृत्त्युपायभूतब्रह्मात्मकत्वोपदेशायोपात्तत्वात् ॥
+</details>
+
+<details><summary>Translation</summary>
+
+Self. Nor can the Brahman mentioned in a previous clause of the same section ('All this indeed is Brahman') be connected as an object with the meditation enjoined in the passage under discussion; for Brahman is there referred to in order to suggest the idea of its being the Self of all – which idea constitutes a means for bringing about that calmness of mind which is helpful towards the act of meditation enjoined in the clause 'Let a man meditate with calm mind,' &c.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च सर्वं खल्विदं ब्रह्म (छां.३.१४.१) इति पूर्वनिर्दिष्टं ब्रह्मात्रोपास्यतया सम्बद्धुं शक्यते, शान्त उपासीत (छां.३.१४.१) इत्युपासनोपकरणशान्ति-निर्वृत्त्युपायभूतब्रह्मात्मकत्वोपदेशायोपात्तत्वात् ॥
+</details>
+
+<details><summary>टीका</summary>
+
+ननु "सर्वं खल्वि"तिवाक्ये प्रकृतं ब्रह्मैव "स क्रतुं कुर्वीत" इत्यत्रोपास्यतया सम्बध्यमनोमयत्वादिगुणानां विशेष्यं स्यादिति शङ्कायां किं ब्रह्मशब्दस्य विधिपदाकाङ्क्षया उत्तरत्रान्वयः, उत क्रतुं कुर्वीतेति विधिपदस्योपास्यसाकाङ्क्षत्वात्सन्निहितानां मनोमयादिपदानां विशेष्यसाकाङ्क्षत्वाच्च ब्रह्मशब्दस्य उत्तरत्रान्वयः ? इति विकल्पमभिप्रेत्य प्रथमं शिरो दूषयति - न च सर्वमिति ।
+
+अन्यार्थतया निराकाङ्क्षत्वादित्यर्थः ।
+
+द्वितीयं दूषयति - न च स क्रतुमिति ।
+</details>
 
 ## सिद्धान्तमाशङ्क्य पूर्वपक्षस्थिरीकरणम्
 
-न च स क्रतुं कुर्वीत (छां.३.१४.१) इत्युपासनस्योपास्यसाकाङ्क्षत्वाद्वाक्यान्तरस्थमपि ब्रह्म सम्बध्यत इति युक्तं वक्तुम्, स्ववाक्योपात्तेन मनोमयत्वादिगुणकेन निराकाङ्क्षत्वात्; मनोमयः प्राणशरीरः (छां.३.१४.१) इत्यनन्यार्थतया निर्दिष्टस्य विभक्तिविपरिणाममात्रेण उभयाकाङ्क्षानिवृत्तिसिद्धेः। एवं निश्चिते जीवत्वे एतद्ब्रह्म (छां.३.१४.१) इत्युपसंहारस्थ-ब्रह्मपदमपि जीव एव पूजार्थं प्रयुक्तमित्यध्यवसीयत इति॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च स क्रतुं कुर्वीत (छां.३.१४.१) इत्य् उपासनस्योपास्य-साकाङ्क्षत्वाद् वाक्यान्तरस्थम् अपि ब्रह्म सम्बध्यत इति युक्तं वक्तुम्, स्व-वाक्योपात्तेन मनोमयत्वादि-गुणकेन निराकाङ्क्षत्वात्;
+</details>
+
+<details><summary>Translation</summary>
+
+Nor, again, can it be said that as the meditation conveyed by the clause 'let him form this thought' demands an object, Brahman, although mentioned in another passage, only admits of being connected with the passage under discussion; for the demand for an object is fully satisfied by the being made of mind, &c., which is mentioned in that very passage itself;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च स क्रतुं कुर्वीत (छां.३.१४.१) इत्युपासनस्योपास्यसाकाङ्क्षत्वाद्वाक्यान्तरस्थमपि ब्रह्म सम्बध्यत इति युक्तं वक्तुम्, स्ववाक्योपात्तेन मनोमयत्वादिगुणकेन निराकाङ्क्षत्वात्;
+</details>
+
+<details><summary>टीका</summary>
+
+स्ववाक्योपात्तेनेति - विच्छेदकाभावात् महावाक्यैकत्वं विवक्षितम् ।
+
+ततश्च "एष आत्मा" इति स्ववाक्यस्थेनानन्यार्थेन समानलिङ्गोनात्मशब्देन विशेष्याकाङ्क्षाशमनाद्वाक्यान्तरस्थान्यार्थभिन्नलिङ्गब्रह्मशब्दाकर्षो न युक्त इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनोमयः प्राण-शरीरः (छां.३.१४.१) इत्य् अनन्यार्थतया निर्दिष्टस्य विभक्ति-विपरिणाम-मात्रेण उभयाकाङ्क्षा-निवृत्ति-सिद्धेः।
+</details>
+
+<details><summary>Translation</summary>
+
+in order to supply the object we have merely to change the case-terminations of the words 'manomayaḥ prāṇaśarīraḥ,' &c.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनोमयः प्राणशरीरः (छां.३.१४.१) इत्यनन्यार्थतया निर्दिष्टस्य विभक्तिविपरिणाममात्रेण उभयाकाङ्क्षानिवृत्तिसिद्धेः।
+</details>
+
+<details><summary>टीका</summary>
+
+प्रथमान्तानां मनोमयादिपदानामुपासनवाचिपदेनान्वयायोगात् ब्रह्मपदमन्वेतव्यमित्यत्राह - मनोमय इति ।
+
+क्रतुशब्देन द्वितीयान्तपदस्याप्यनन्वयात् षष्ठयन्ततया विभक्तिविपरिणामे कार्ये सन्निहितस्य साकाङ्क्षस्यैव पदस्य विभक्तिविपरिणामो न्याय्यः, न तु वाक्यान्तरस्थस्य निराकाङ्क्षस्येत्यर्थः । उभयाकाङ्क्षामनोमयादिपदस्य क्रतुं कुर्वीतेत्यस्य चाकाङ्क्षा ।
+
+न वक्तुं युक्तमिति पञ्चम्यन्वयः ।
+
+मनोमयत्वादि च सत्यसङ्कल्पत्वात्पूर्वमेव प्रतिपन्नम्, अणीयस्त्वञ्च भूयस्त्वात्पूर्वं श्रुतम्, व्यतिरेकनिर्देशश्च मनोमयत्वादेः पाश्चात्यः, अतो मनोमयत्वादिस्वारस्यानुगुणदितरन्नेयमित्यभिप्रायेण चोक्तं मनोमयत्वादिगुणकेनेति ।
+
+जीवपरत्वे ब्रह्मशब्दः कथमित्यत्राह - एवमिति ॥
+
+एवं प्राप्त इति - प्रतिज्ञावाक्यमध्याहरति - मनोमयत्वादिति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं निश्चिते जीवत्वे एतद् ब्रह्म (छां.३.१४.१) इत्युपसंहारस्थ-ब्रह्मपदमपि जीव एव पूजार्थं प्रयुक्तमित्यध्यवसीयत इति॥
+</details>
+
+<details><summary>Translation</summary>
+
+It having thus been determined that the being made of mind is the individual soul, we further conclude that the Brahman mentioned in the concluding passage of the section ('That is Brahman') is also the individual soul, there called Brahman in order to glorify it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं निश्चिते जीवत्वे एतद्ब्रह्म (छां.३.१४.१) इत्युपसंहारस्थ-ब्रह्मपदमपि जीव एव पूजार्थं प्रयुक्तमित्यध्यवसीयत इति॥
+</details>
 
 ## सिद्धान्तारम्भः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 एवं प्राप्ते ब्रूमः- सर्वत्र प्रसिद्धोपदेशात्
+</details>
+
+<details><summary>Translation</summary>
+
+This primā facie view is set aside by the Sūtra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं प्राप्ते ब्रूमः- सर्वत्र प्रसिद्धोपदेशात्
+</details>
+
+<details><summary>टीका</summary>
+
+सत्यसङ्कल्पत्वादिविशेषितप्राकरणिकात्मशब्दानुरोधेन परतमात्मेत्युक्तम्, सर्वत्रेति व्याख्येयं पदम् ।
+</details>
 
 ## सूत्रार्थविवरणम्
 
-नोमयत्वादिगुणकः परमात्मा कुतः सर्वत्र – वेदान्तेषु परस्मिन्नेव ब्रह्मणि प्रसिद्धस्य मनोमयत्वादेरुपदेशात्। प्रसिद्धं हि मनोमयत्वादि ब्रह्मणः। यथा मनोमयः प्राणशरीरनेता (मुं.२.२.७) स एषोऽन्तर्हृादय आकाशः। तस्मिन्नयं पुरुषो मनोमयः। अमृतो हिरण्मयः (तै.शिक्षा ६.३) हृदा मनीषा मनसाऽभिक्लृप्तो य एनं विदुरमृतास्ते भवन्ति (तै.नारा.३) न चक्षुषा गृह्यते नापि वाचा (मु.३.१.८), मनसा तु विशुद्धेन तथा प्राणस्य प्राणः (केन.१.२), अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति (कौषी.३.२), सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छां.१.११.५) इत्यादिषु ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नोमयत्वादि-गुणकः परमात्मा कुतः सर्वत्र – वेदान्तेषु परस्मिन्न् एव ब्रह्मणि प्रसिद्धस्य मनोमयत्वादेरुपदेशात्।
+</details>
+
+<details><summary>Translation</summary>
+
+The being made of mind is the highest Self; for the text states certain qualities, such as being made of mind, &c., which are well known to denote, in all Vedānta-texts, Brahman only.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नोमयत्वादिगुणकः परमात्मा कुतः सर्वत्र – वेदान्तेषु परस्मिन्नेव ब्रह्मणि प्रसिद्धस्य मनोमयत्वादेरुपदेशात्।
+</details>
+
+<details><summary>टीका</summary>
+
+तद्व्याचष्टे - वेदान्तेष्विति ।
+
+सामान्यशब्दवत्सु विशेषशब्दवत्सु चेति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रसिद्धं हि मनो-मयत्वादि ब्रह्मणः।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+प्रसिद्धं हि मनोमयत्वादि ब्रह्मणः।
+</details>
+
+<details><summary>टीका</summary>
+
+हेतुपदं व्याचष्टे - प्रसिद्धस्येति ।
+
+ननु सवर्वेदान्तेषु परतत्त्वपरतया प्रसिद्धब्रह्मशब्दश्रवणादिति परैव्यर्ाख्यातम्, तन्मतेन व्याख्याने सत्यपि तद्विहाय कथं युक्तयन्तरोक्तिः ? उच्यते; पूर्ववाक्यस्थब्रह्मशब्दानन्वयस्योपसंहारस्थब्रह्मशब्ददौर्बल्यस्य च पूर्वपक्षिणोक्तत्वान्न तथोत्तरं वक्तुं युक्तमिति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा मनोमयः प्राण-शरीर-नेता (मुं.२.२.७) स एषोऽन्तर्हृादय आकाशः।
+</details>
+
+<details><summary>Translation</summary>
+
+Passages such as 'He who is made of mind, the guide of the body of breath' (Mu. Up. II, 2, 7); 'There is the ether within the heart,
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा मनोमयः प्राणशरीरनेता (मुं.२.२.७) स एषोऽन्तर्हृादय आकाशः।
+</details>
+
+<details><summary>टीका</summary>
+
+मनस्सामान्येन सम्बन्धसामान्यपरं वाक्यमाह - मनोमयः प्राणशरीरनेतेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मिन् नयं पुरुषो मनोमयः।
+</details>
+
+<details><summary>Translation</summary>
+
+and in it there is the Person, consisting of mind,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मिन्नयं पुरुषो मनोमयः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अमृतो हिरण्मयः (तै.शिक्षा ६.३) हृदा मनीषा मनसा ऽभिकॢप्तो य एनं विदुरमृतास्ते भवन्ति (तै.नारा.३) न चक्षुषा गृह्यते नापि वाचा (मु.३.१.८), मनसा तु विशुद्धेन तथा प्राणस्य प्राणः (केन.१.२), अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्था-पयति (कौषी.३.२), सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छां.१.११.५) इत्य्-आदिषु ॥
+</details>
+
+<details><summary>Translation</summary>
+
+immortal, golden' (Taitt. Up. I. 6, 1); 'He is conceived by the heart, by wisdom, by the mind. Those who know him are immortal' (Ka. Up. II, 6, 9); 'He is not apprehended by the eye nor by speech, but by a purified mind' (Mu. Up. III, 1, 8); 'The breath of breath' (Br̥. Up. IV, 4, 183); 'Breath alone is the conscious Self, and having laid hold of this body it makes it rise up' (Kau. Up. III, 3); 'All these beings merge into breath alone, and from breath they arise' (Cḥ. Up. I, 11, 5) --these and similar texts refer to Brahman
+</details>
+
+<details><summary>मूलम्</summary>
+
+अमृतो हिरण्मयः (तै.शिक्षा ६.३) हृदा मनीषा मनसाऽभिक्लृप्तो य एनं विदुरमृतास्ते भवन्ति (तै.नारा.३) न चक्षुषा गृह्यते नापि वाचा (मु.३.१.८), मनसा तु विशुद्धेन तथा प्राणस्य प्राणः (केन.१.२), अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति (कौषी.३.२), सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छां.१.११.५) इत्यादिषु ॥
+</details>
+
+<details><summary>टीका</summary>
+
+"अमृतो हिरण्मयः" इति परमात्मपरत्ववैशद्यायोपात्तम् ।
+
+मनस्सामान्येन सम्बन्धविशेषपरं वाक्यमाह - हृदा मनीषेति ।
+
+हृदिति भक्तिरुच्यते, मनीषेति धृतिः ।
+
+"न सन्दृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनम्" इति पूर्वार्धकमेकरूपं पठित्वा "भक्तया च धृत्या च समाहितात्मा ज्ञानस्वरूपं परिपश्यतीह" इति महाभारत उक्तत्वात् । अभिक२प्तः- ग्राह्यः ।
+
+मनोविशेषेण सम्बन्धविशेषवाचिवाक्यमाह - न चक्षुषेति ।
+
+प्राणशरीरत्वे श्रुतिमाह - तथेति । प्राणस्य प्राणः- आधारः ।
+
+"सर्वाणि" इत्यादिवाक्ये प्राणशब्दस्य यौगिकवृत्त्या परमात्मपरत्वं प्रागुक्तम्, इदानीमपर्यवसानवृत्त्यापि परमात्मपरत्वेन तद्वाक्यमुपात्तम्, वैश्वा नराधिकरणन्यायेन उभयथापि परमात्मपरत्वं युक्तमिति भावः ।
+</details>
 
 ## परमात्मनि मनःप्राणसम्बन्धोपपादनम्
 
-मनोमयत्वं – विशुद्धेन मनसा ग्राह्यत्वम्। प्राणशरीरत्वं – प्राणस्याप्याधारत्वं नियन्तृत्वं च। एवं च सति एष म आत्माऽर्न्तहृदय एतद्ब्रह्म (छा.३.१४.४) इति ब्रह्मशब्दोऽपि मुख्य एव भवति। अप्राणो ह्यमनाः (मु.२.१.२) इति मन आयत्तं ज्ञानं प्राणायत्तां स्थितिं च ब्रह्मणो निषेधति।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनोमयत्वं – विशुद्धेन मनसा ग्राह्यत्वम्।
+</details>
+
+<details><summary>Translation</summary>
+
+as consisting of mind, to be apprehended by a purified mind,
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनोमयत्वं – विशुद्धेन मनसा ग्राह्यत्वम्।
+</details>
+
+<details><summary>टीका</summary>
+
+अत्र वाक्यजाते प्रतिपन्नं मनोमयादिशब्दार्थमाह - मनोमयत्वमिति ।
+
+ग्राह्यग्राहकलक्षणसम्बन्धविशेषाभिप्रायेण मनोमय इत्युक्तमित्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राण-शरीरत्वं – प्राणस्याप्याधारत्वं नियन्तृत्वं च।
+</details>
+
+<details><summary>Translation</summary>
+
+having breath for its body, and being the abode and ruler of breath.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्राणशरीरत्वं – प्राणस्याप्याधारत्वं नियन्तृत्वं च।
+</details>
+
+<details><summary>टीका</summary>
+
+प्राणशरीरशब्दार्थमाह - प्राणेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं च सति एष म आत्माऽर्न्तहृदय एतद् ब्रह्म (छा.३.१४.४) इति ब्रह्म-शब्दोऽपि मुख्य एव भवति।
+</details>
+
+<details><summary>Translation</summary>
+
+This being so, we decide that in the concluding passage, 'my Self within the heart, that is Brahman,' the word 'Brahman' has to be taken in its primary sense (and does not denote the individual soul).
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं च सति एष म आत्माऽर्न्तहृदय एतद्ब्रह्म (छा.३.१४.४) इति ब्रह्मशब्दोऽपि मुख्य एव भवति।
+</details>
+
+<details><summary>टीका</summary>
+
+मनोविकारो मनोमयः, सर्वविकाराणां ब्रह्माधिष्ठानत्वात् ब्रह्मसामानाधिकरण्यमिति कैश्चिदुक्तम्, तदा हि मनोविकाराः सुखदुःखेच्छाद्वेषादयो ब्रह्मेत्युक्तं स्यात् । तदयुक्तम्, सत्यसङ्कल्पत्वादिकल्याणगुणप्रकरणविरोधात् हेयगुणविशेषाणामुपास्यत्वानुपपत्तेश्च ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्राणो ह्यमनाः (मु.२.१.२) इति मन आयत्तं ज्ञानं प्राणायत्तां स्थितिं च ब्रह्मणो निषेधति।
+</details>
+
+<details><summary>Translation</summary>
+
+The text which declares Brahman to be without mind and breath, merely means to deny that the thought of Brahman depends on a mind (internal organ), and that its life depends on breath.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्राणो ह्यमनाः (मु.२.१.२) इति मन आयत्तं ज्ञानं प्राणायत्तां स्थितिं च ब्रह्मणो निषेधति।
+</details>
+
+<details><summary>टीका</summary>
+
+उक्तं हि "यथाक्रतुरस्मिंल्लोके भवति तथेतः प्रेत्य भवति" इति, अतो हेयगुणापत्तिरेव फलं स्यात्, प्राणप्रेर्यं शरीरमस्येत्यर्थश्चेत् प्राणशब्देन प्राणसम्बन्ध्यभिधानं क्लिष्टं स्यात् ।
+
+प्राणः शरीरं चास्येति समासो न घटते, प्राणः शरीरे यस्येति व्यधिकरणबहुव्रीहिश्च क्लिष्टः, अतो यथोक्त एवार्थ इत्यभिप्रायः ।
+
+उपसंहारस्वारस्यमाह - एसञ्चेति ।
+
+मनःप्रभृतिनिषेधवाक्यार्थमुक्तार्थाविरुद्धमाह - अप्राण इति । ग्राह्यग्राहकभावनियन्तृनियाम्यत्वादिरूपसम्बन्धविशेषो विधेयः, उपकरणोपकरणित्वलक्षणसम्बन्धविशेषो निषेध्यत इत्यभिप्रायः ।
+</details>
 
 ## स्वाभिमता अधिकरणयोजना, तत्र जिज्ञायविषयनिर्देशः
 
-अथवा सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत (छा.३.१४.१) इत्यत्रैवोपासनं विधीयते – सर्वात्मकं ब्रह्म शान्तस्सन्नुपासीतेति। स क्रतुं कुर्वीत (छा.३.१४.१) इति तस्यैव गुणोपादनार्थोऽनुवादः। उपादेयाश्च गुणा मनोमयत्वादयः; यतस्सर्वात्मकं ब्रह्म मनोमयत्वादिगुणकमुपासीतेति वाक्यार्थः ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथवा सर्वं खल्विदं ब्रह्म तज्-जलान् इति शान्त उपासीत (छा.३.१४.१) इत्यत्रैवोपासनं विधीयते – सर्वात्मकं ब्रह्म शान्तस्सन्नुपासीतेति।
+</details>
+
+<details><summary>Translation</summary>
+
+Or else we may interpret the Vedic text and the Sūtra as follows. The passage 'All this is Brahman; let a man meditate with a calm mind on this world as originating, ending, and breathing in Brahman,' conveys the imagination of meditation on Brahman as the Self of all.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथवा सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत (छा.३.१४.१) इत्यत्रैवोपासनं विधीयते – सर्वात्मकं ब्रह्म शान्तस्सन्नुपासीतेति।
+</details>
+
+<details><summary>टीका</summary>
+
+अथ स्वाभिमतार्थयोजनां कर्त्तुमारभते - अथवेति ।
+
+पूर्वस्यां योजनायां सूत्रे प्रतिज्ञावाक्यस्याध्याहार्यत्वादुपक्रमोपसंहारगतब्रह्मशब्दैकविषयत्वप्रतीतिस्वारस्येन भिन्नविषयत्वप्रतीतिपूर्वकपूर्वपक्षानुदयेनाधिकरणानारम्भात् श्रवणमननाभ्यामेव निष्पाद्यायाश्शान्तेरुपासननिष्पादकत्वस्य "एवंविच्छान्तः" इति श्रुतिसिद्धत्वादन्यत्रापि शान्त्युपायत्वेनोपासनविधानादशर्नाच्छान्तशब्दस्य शान्तिकामपरत्वास्वारस्यात् वृत्त्यनुरोधाच्च इयमेव योजना समुचितेति भावः ।
+
+अत्रैवोपासनं विधीयत इति - अत्र शान्त्युपायोपासनम्; उत्तरत्र मोक्षोपायोपासनमिति नायमर्थः, अपि तु अत्रैव मोक्षार्थोपासनं विधीयत इत्यर्थः ।
+
+शान्तशब्दार्थं स्वरसतो वदन् वाक्यार्थमाह - सर्वात्मकमिति ।
+
+न त्वाशंसायां क्त इह विहितोऽयमिति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स क्रतुं कुर्वीत (छा.३.१४.१) इति तस्यैव गुणोपादनार्थोऽनुवादः।
+</details>
+
+<details><summary>Translation</summary>
+
+The subsequent clause 'Let him form the thought,' &c., forms an additional statement to that injunction, the purport of which is to suggest certain attributes of Brahman,
+</details>
+
+<details><summary>मूलम्</summary>
+
+स क्रतुं कुर्वीत (छा.३.१४.१) इति तस्यैव गुणोपादनार्थोऽनुवादः।
+</details>
+
+<details><summary>टीका</summary>
+
+तर्हि "स क्रतुं कुर्वीते"ति किमुच्यत इत्यत्राह - स क्रतुमिति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपादेयाश् च गुणा मनो-मयत्वादयः;
+</details>
+
+<details><summary>Translation</summary>
+
+such as being made of mind.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपादेयाश्च गुणा मनोमयत्वादयः;
+</details>
+
+<details><summary>टीका</summary>
+
+के पुनर्विधेया गुणा इत्यत्राह - उपादेयाश्चेति । उपादेयाः- विधेयाः ।
+
+यथा "अग्निहोत्रं जुहोति" इति होमे विहिते "दध्ना जुहोति" इत्यत्र दध्नो होमसाधनत्वमात्रं विधेयम्, जुहोतीत्यनुवादस्तद्वदिति ।
+
+ननुपासनविधेरुत्पत्तिशिष्टसर्वात्मकत्वगुणाव रोधान्मनोमयतवादीनां नोपास्याकारत्वमिति चेन्न, सवर्ात्मकत्वस्य उपासनविधिवाक्यस्थत्वाभावात् ।
+
+तज्जत्वतल्लत्वतदनत्वैः सर्वमिदं ब्रह्म खल्विति प्रसिद्धवन्निर्देश उपासनविध्येकवाक्यत्वं निवारयति ।
+
+न ह्युपासीत खल्विति प्रसिद्धवन्निर्देशवचनव्यक्तिर्घटते ।
+
+वाक्यार्थमाह - अत इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतस् सर्वात्मकं ब्रह्म मनोमयत्वादिगुणकमुपासीतेति वाक्यार्थः ॥
+</details>
+
+<details><summary>Translation</summary>
+
+So that the meaning of the whole section is 'Let a man meditate on Brahman, which is made of mind, has breath for its body, &c., as the Self of the whole world.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+यतस्सर्वात्मकं ब्रह्म मनोमयत्वादिगुणकमुपासीतेति वाक्यार्थः ॥
+</details>
 
 ## संशयस्वरूपनिर्देशः
 
-तत्र सन्देहः – किमिह ब्रह्मशब्देन प्रत्यगात्मा निर्दिश्यते; उत परमात्मा – इति।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र सन्देहः – किम् इह ब्रह्म-शब्देन प्रत्यग्-आत्मा निर्दिश्यते;
+</details>
+
+<details><summary>Translation</summary>
+
+--Here a doubt presents itself. Does the term 'Brahman' in this section denote the individual soul
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र सन्देहः – किमिह ब्रह्मशब्देन प्रत्यगात्मा निर्दिश्यते;
+</details>
+
+<details><summary>टीका</summary>
+
+एवमेकविषयत्वमङ्गीकृत्यैव पूर्वपक्षसिद्धान्तौ दर्शयितुं संशयमाह - तत्रेति । तत्र- एकविषयत्वे सिद्धे ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत परमात्मा – इति।
+</details>
+
+<details><summary>Translation</summary>
+
+or the highest Self?
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत परमात्मा – इति।
+</details>
+
+<details><summary>टीका</summary>
+
+किमत्रोपास्यतया निर्दिष्टो जीवः, उत परमात्मेति विशयः । तदर्थं किं ब्रह्मशब्दो जीवपरः, उत परमात्मपरः ।
+
+तदर्थं किं ब्रह्मशब्दकर्मकतर्ृव्यपदेशादयो मुख्याः, उत न? इति । तदर्थमणीयस्त्वव्यपदेशः किं मुख्यत्वविरोधि, उत न ।
+
+तदर्थमणीयस्त्वज्यायस्त्वयोः किं स्वाभाविकम् ? किमौपाधिकम् ? इति ।
+
+यदाऽणीयस्त्वं स्वाभाविकं ज्यायस्त्वमन्यथा सिद्धं तदाऽणीयस्त्वस्य ब्रह्मशब्दादिमुख्यताविरोधित्वेन ब्रह्मशब्दस्य जीवपरत्वादुपास्यतया निर्द्दिष्टो जीव इति पूर्वपक्षस्थितिः ।
+
+यदाऽणीयस्त्वमौपाधिकं ज्यायस्त्वं स्वाभाविकं तदाऽणीयस्त्वव्यपदेशस्य ब्रह्मशब्दादिमुख्यताविरोधित्वाभावेन ब्रह्मशब्दस्य परमात्मपरत्वेनात्रोपास्यतया निर्दिष्टः परमात्मेति सिद्धान्ते फलफलिभावः ।
+</details>
 
 ## सयुक्तिकः पूर्वपक्षः
 
-किं युक्तम्? प्रत्यगात्मेति। कुतः? तस्यैव सर्वपदसामानाधिकरण्यनिर्देशोपपत्तेः। सर्वशब्दनिर्दिष्टं हि ब्रह्मादिस्तम्बपर्यन्तं कृत्स्नं जगत्। ब्रह्मादिभावश्च प्रत्यगात्मनोऽनाद्यविद्यामूलकर्मविशेषोपाधिको विद्यत एव; परस्य तु ब्रह्मणस्सर्वज्ञस्य सर्वशक्तेरपहतपाप्मनो निरस्तसमस्ताविद्यादिदोषगन्धस्य समस्तहेयाकरसर्वभावो नोपपद्यते ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं युक्तम्?
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+किं युक्तम्?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यग्-आत्मेति।
+</details>
+
+<details><summary>Translation</summary>
+
+--The individual soul, the Pūrvapakshin maintains,
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रत्यगात्मेति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः?
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+कुतः?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्यैव सर्व-पद-सामानाधिकरण्य-निर्देशोपपत्तेः।
+</details>
+
+<details><summary>Translation</summary>
+
+for that only admits of being exhibited in co-ordination with the word 'all.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्यैव सर्वपदसामानाधिकरण्यनिर्देशोपपत्तेः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-शब्द-निर्दिष्टं हि ब्रह्मादिस्तम्ब-पर्यन्तं कृत्स्नं जगत्।
+</details>
+
+<details><summary>Translation</summary>
+
+For the word 'all' denotes the entire world from Brahmā down to a blade of grass;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वशब्दनिर्दिष्टं हि ब्रह्मादिस्तम्बपर्यन्तं कृत्स्नं जगत्।
+</details>
+
+<details><summary>टीका</summary>
+
+हेतुं विवृणोति - सर्वशब्देति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मादि-भावश् च प्रत्यगात्मनोऽनाद्यविद्यामूलकर्मविशेषोपाधिको विद्यत एव;
+</details>
+
+<details><summary>Translation</summary>
+
+and the existence of Brahmā and other individual beings is determined by special forms of karman, the root of which is the beginningless Nescience of the individual soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मादिभावश्च प्रत्यगात्मनोऽनाद्यविद्यामूलकर्मविशेषोपाधिको विद्यत एव;
+</details>
+
+<details><summary>टीका</summary>
+
+ततः किमित्यपेक्षायां जीवस्य सामानाधिकरण्योपपत्तिमाह - ब्रह्मादीति । ब्रह्मादिभावः- चतुर्मुखादिभावः ।
+
+अनादीति - अहितकर्मोत्पादनहेतुरविद्या, तद्धेतुः कर्मेति बीजाङ्कुरादिनयादनादिः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परस्य तु ब्रह्मणस् सर्वज्ञस्य सर्वशक्तेरपहतपाप्मनो निरस्तसमस्ताविद्यादिदोष-गन्धस्य समस्त-हेयाकर-सर्व-भावो नोपपद्यते ॥
+</details>
+
+<details><summary>Translation</summary>
+
+The highest Brahman, on the other hand, which is all-knowing, all-powerful, free from all evil and all shadow of Nescience and similar imperfections, cannot possibly exist as the 'All' which comprises within itself everything that is bad.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परस्य तु ब्रह्मणस्सर्वज्ञस्य सर्वशक्तेरपहतपाप्मनो निरस्तसमस्ताविद्यादिदोषगन्धस्य समस्तहेयाकरसर्वभावो नोपपद्यते ॥
+</details>
+
+<details><summary>टीका</summary>
+
+तस्यैवेत्यवधारणसूचितां परस्य सर्वभावानुपपत्तिं विवृणोति - परस्येति ।
+
+सर्वज्ञत्वाद्धेयं जानाति, सर्वशक्तित्वान्निवारयितुं शक्नोति, न च ज्ञानशक्तयोः सङ्कोचः, अविद्यामूलकर्मविरहात्, अतो न सर्वभावः सम्भवतीति भावः ।
+</details>
 
 ## जीवे ब्रह्मशब्दप्रयोगोपपत्तिः
 
-प्रत्यगात्मन्यपि क्वचित्क्वचिद्ब्रह्मशब्दः प्रयुज्यते। अत एव परमात्मा परं ब्रह्मेति परमेश्वरस्य क्वचित्सविशेषणो निर्देशः। प्रत्यगात्मनश्च निर्मुक्तोपाधेर्बृहत्वं च विद्यते स चानन्त्याय कल्पते (श्वे.५.९) इति श्रुतेः। अविदुषस्तस्यैव कर्मनिमित्तत्वाज्जन्मस्थितिलयानां तज्जलानिति हेतुनिर्देशोऽप्युपपद्यते। तदयमर्थः – अयं जीवात्मा स्वतोऽपरिच्छिन्नस्वरूपत्वेन ब्रह्मभूतस्सन्ननाद्यविद्यया देवतिर्यङ्मनुष्यस्थावरात्मनाऽवतिष्ठते- इति।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यग्-आत्मन्य् अपि क्वचित् क्वचिद् ब्रह्म-शब्दः प्रयुज्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+Moreover we find that occasionally the term 'Brahman' is applied to the individual soul also;
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रत्यगात्मन्यपि क्वचित्क्वचिद्ब्रह्मशब्दः प्रयुज्यते।
+</details>
+
+<details><summary>टीका</summary>
+
+ब्रह्मशब्दः कथमित्यत्राह - प्रत्यगिति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव परमात्मा परं ब्रह्मेति परमेश्वरस्य क्वचित्सविशेषणो निर्देशः।
+</details>
+
+<details><summary>Translation</summary>
+
+just as the highest Lord (paramesvara) may be called 'the highest Self' (paramātman) or 'the highest Brahman.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत एव परमात्मा परं ब्रह्मेति परमेश्वरस्य क्वचित्सविशेषणो निर्देशः।
+</details>
+
+<details><summary>टीका</summary>
+
+तदुपपादयति- अत एवेति ।
+
+परमात्मेति दृष्टान्ततयोक्तम्, यथा आत्मशब्दो जीवेश्वरसाधारणः, तद्वत् ब्रह्मशब्द इति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यग्-आत्म-नश्च निर्मुक्तोपाधेर्बृहत्वं च विद्यते स चानन्त्याय कल्पते (श्वे.५.९) इति श्रुतेः।
+</details>
+
+<details><summary>Translation</summary>
+
+That 'greatness' (br̥hattva; which is the essential characteristic of 'brahman') belongs to the individual soul when it has freed itself from its limiting conditions, is moreover attested by scripture: 'That (soul) is fit for infinity' (Śvet. Up. V, 9).
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रत्यगात्मनश्च निर्मुक्तोपाधेर्बृहत्वं च विद्यते स चानन्त्याय कल्पते (श्वे.५.९) इति श्रुतेः।
+</details>
+
+<details><summary>टीका</summary>
+
+त्रिपाद्याः परब्रह्माभ्युपगमेन वाक्यविशेषविचारपरत्वादत्र पूर्वपक्षिणः परमेश्वराभ्युपगमवाद उपपन्नः । आत्मशब्दस्य साधारण्यं युक्तम्, प्रवृत्तिनिमित्तसाधारण्यात्, आप्नोतीति हि तद्वयुत्पत्तिः, जगद्देहं व्याप्नोतीति, एवमुभयसाधारणं ब्रह्मशब्दप्रवृत्तिनिमित्तं वक्तव्यमित्यत्राह - प्रत्यगात्मनश्चेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अविदुषस् तस्यैव कर्मनिमित्तत्वाज्जन्मस्थितिलयानां तज्-जलान् इति हेतुनिर्देशोऽप्युपपद्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+And as the soul's Nescience is due to karman (only), the text may very well designate it – as it does by means of the term 'tajjalān' --as the cause of the origin, subsistence, and reabsorption of the world.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अविदुषस्तस्यैव कर्मनिमित्तत्वाज्जन्मस्थितिलयानां तज्जलानिति हेतुनिर्देशोऽप्युपपद्यते।
+</details>
+
+<details><summary>टीका</summary>
+
+कथं जन्मादिकारणत्वं हेतुतयोच्यते ? हेतुनिर्द्देशो हि पूर्वप्रसिद्धयपेक्षः, प्रसिद्धिश्च परमात्मविषयेत्युक्तमित्यत्राह - अविदुष इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् अयमर्थः – अयं जीवात्मा स्वतोऽपरिच्छिन्न-स्वरूपत्वेन ब्रह्मभूतस्सन्ननाद्यविद्यया देवतिर्यङ्मनुष्यस्थावरात्मनाऽवतिष्ठते- इति।
+</details>
+
+<details><summary>Translation</summary>
+
+That is to say – the individual soul which, in its essential nature, is non-limited, and therefore of the nature of Brahman, owing to the influence of Nescience enters into the state of a god, or a man, or an animal, or a plant.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदयमर्थः – अयं जीवात्मा स्वतोऽपरिच्छिन्नस्वरूपत्वेन ब्रह्मभूतस्सन्ननाद्यविद्यया देवतिर्यङ्मनुष्यस्थावरात्मनाऽवतिष्ठते- इति।
+</details>
+
+<details><summary>टीका</summary>
+
+जन्मादिहेतुत्वं बद्धस्य, ब्रह्मत्वं तु शुद्धस्य, तस्य सर्वशब्दसामानाधिकरण्यं कथं घटत इत्यत्राह - तदयमर्थ इति ॥
+
+सिद्धान्तमाह - अत्रेति ।
+
+यथा "अन्तस्तद्धर्मोपदेशात्" इत्यन्तश्शब्दः प्रतिज्ञापरः, एवं सर्वत्रेति सूत्रपदं प्रतिज्ञापरमित्याह - सर्वत्रेति ।
+
+तदेव पदं व्याचष्टे - सर्वमिति ।
+
+सर्वत्रेतिपदं न वाचकवेदान्तपरम्, अपितु वाच्यजगत्परमित्यर्थः ।
+
+नाशब्दमिति वा नेतर इति वा अन्य इति वा पूर्वपादादनुवर्त्तते, अतः पर्यवसानलब्धं प्रतिज्ञापदं परं ब्रह्मैवेति ।
+</details>
 
 ## सिद्धान्तस्वरूपम्
 
-अत्र प्रतिविधीयते – सर्वत्र प्रसिद्धोपदेशात् – सर्वत्र – सर्व खल्विदम् (छा.३.१४.१) इति निर्दिष्टे सर्वस्मिन् जगति ब्रह्मशब्देन तदात्मतया विधीयमानं परं ब्रह्मैव, न प्रत्यगात्मा। कुतः? प्रसिद्धोपदेशात्, तज्जलान् (छां.३.१४.१) इति हेतुतः सर्वं खल्विदं ब्रह्म इति प्रसिद्धवदुपदेशात्। ब्रह्मणो जातत्वाद् ब्रह्मणि लीनत्वाद्ब्रह्माधीनजीवनत्वाच्च हेतोर्ब्रह्मात्मकं सर्वं खल्विदं जगदित्युक्ते यस्माज्जगज्जन्मस्थितिलया वेदान्तेषु प्रसिद्धास्तदेवात्र ब्रह्मेति प्रतीयते ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र प्रतिविधीयते – सर्वत्र प्रसिद्धोपदेशात् – सर्वत्र – सर्व खल्व् इदम् (छा.३.१४.१) इति निर्दिष्टे सर्वस्मिन् जगति ब्रह्म-शब्देन तद्-आत्मतया विधीयमानं परं ब्रह्मैव, न प्रत्यग्-आत्मा।
+</details>
+
+<details><summary>Translation</summary>
+
+This view is rejected by the Sūtra. 'Everywhere,' i.e. in the whole world which is referred to in the clause 'All this is Brahman' we have to understand the highest Brahman – which the term 'Brahman' denotes as the Self of the world --, and not the individual soul;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्र प्रतिविधीयते – सर्वत्र प्रसिद्धोपदेशात् – सर्वत्र – सर्व खल्विदम् (छा.३.१४.१) इति निर्दिष्टे सर्वस्मिन् जगति ब्रह्मशब्देन तदात्मतया विधीयमानं परं ब्रह्मैव, न प्रत्यगात्मा।
+</details>
+
+<details><summary>टीका</summary>
+
+"न शारीर" इत्यत्र वक्ष्यमाणमनुसन्धायाह - न प्रत्यगात्मेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः?
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+कुतः?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रसिद्धोपदेशात्, तज्-ज-लान् (छां.३.१४.१) इति हेतुतः सर्वं खल्विदं ब्रह्म इति प्रसिद्धवद् उपदेशात्।
+</details>
+
+<details><summary>Translation</summary>
+
+'because there is taught what is known,' i.e. because the clause 'All this is Brahman' --for which clause the term 'tajjalān' supplies the reason – refers to Brahman as something generally known.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रसिद्धोपदेशात्, तज्जलान् (छां.३.१४.१) इति हेतुतः सर्वं खल्विदं ब्रह्म इति प्रसिद्धवदुपदेशात्।
+</details>
+
+<details><summary>टीका</summary>
+
+प्रसिद्धोपदेशादिति पदं व्याचष्टेतज्जेति ।
+
+जगज्जन्मस्थितिलयानां तत्कृततादात्म्यस्य च प्रसिद्धत्वेनोपदेशादित्यर्थः । इतिशब्देन हेतुतयोक्तत्वात् जन्मादीनां प्रसिद्धत्वम् प्रमाणसिद्धस्यैव हि हेतुता । तत्कृतातादात्म्यस्य प्रसिद्धत्वं खलुनासिद्धम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मणो जातत्वाद् ब्रह्मणि लीनत्वाद्ब्रह्माधीनजीवनत्वाच्च हेतोर् ब्रह्मात्मकं सर्वं खल्विदं जगद् इत्युक्ते यस्माज्जगज्जन्मस्थिति-लया वेदान्तेषु प्रसिद्धास् तद् एवात्र ब्रह्मेति प्रतीयते ॥
+</details>
+
+<details><summary>Translation</summary>
+
+Since the world springs from Brahman, is merged in Brahman, and depends on Brahman for its life, therefore – as the text says --'All this has its Self in Brahman'; and this shows to us that what the text understands by Brahman is that being from which, as generally known from the Vedānta texts, there proceed the creation, and so on, of the world.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मणो जातत्वाद् ब्रह्मणि लीनत्वाद्ब्रह्माधीनजीवनत्वाच्च हेतोर्ब्रह्मात्मकं सर्वं खल्विदं जगदित्युक्ते यस्माज्जगज्जन्मस्थितिलया वेदान्तेषु प्रसिद्धास्तदेवात्र ब्रह्मेति प्रतीयते ॥
+</details>
+
+<details><summary>टीका</summary>
+
+तत्स्पष्टयति - ब्रह्मण इति । कारणत्वनिबन्धनतादात्म्यस्य चात्र प्रसिद्धेत्वेनोपदेशः फलितः ।
+</details>
 
 ## सूत्रोक्तार्थोपपादनम्
 
-तच्च परमेव ब्रह्म; तथा हि यतो वा इमानि भूतानि जायन्ते, येन जातानि जीवन्ति, यत्प्रयन्त्यभिसंविशन्ति, तद्विजिज्ञासस्व तद्ब्रह्म (तै.भृ.१) इत्युपक्रम्य आनन्दो ब्रह्मेति व्यजानात्, आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते (तै.भृ.६) इत्यादिना पूर्वानुवाकप्रतिपादित- अनवधिकातिशयानन्दयोगिनो विपिश्चतः परस्माद्ब्रह्मण एव जगदुत्पत्तिस्थितलया निर्दिश्यन्ते; तथा स कारणं करणाधिपाधिपो न चास्य कश्चिज्जनिता न चाधिपः (श्वे.६.९) इति करणाधिपस्य जीवस्याधिपः परं ब्रह्मैव कारणं व्यपदिश्यते। एवं सर्वत्र परस्यैव ब्रह्मणः कारणत्वं प्रसिद्धम् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तच्च परम् एव ब्रह्म;
+</details>
+
+<details><summary>Translation</summary>
+
+That the highest Brahman only,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच्च परमेव ब्रह्म;
+</details>
+
+<details><summary>टीका</summary>
+
+पसिद्धत्वमस्तु, ततः किमित्यत्राह - तच्चेति ।
+
+प्रसिद्धिं दर्शयति - तथाहीति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि यतो वा इमानि भूतानि जायन्ते, येन जातानि जीवन्ति, यत्प्रयन्त्यभिसंविशन्ति, तद् विजिज्ञासस्व तद्-ब्रह्म (तै.भृ.१) इत्य्-उपक्रम्य आनन्दो ब्रह्मेति व्यजानात्, आनन्दाद्ध्येव खल्व् इमानि भूतानि जायन्ते (तै.भृ.६) इत्य्-आदिना पूर्वानुवाकप्रतिपादित- अनवधिकातिशयानन्द-योगिनो विपिश्चतः परस्माद् ब्रह्मण एव जगद्-उत्पत्ति-स्थित-लया निर्दिश्यन्ते;
+</details>
+
+<details><summary>Translation</summary>
+
+all-wise and supremely blessed, is the cause of the origin, &c., of the world, is declared in the section which begins. 'That from which these beings are born,' &c., and which says further on, 'he knew that Bliss is Brahman, for from bliss these beings are born' (Taitt. Up. III, 6);
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा हि यतो वा इमानि भूतानि जायन्ते, येन जातानि जीवन्ति, यत्प्रयन्त्यभिसंविशन्ति, तद्विजिज्ञासस्व तद्ब्रह्म (तै.भृ.१) इत्युपक्रम्य आनन्दो ब्रह्मेति व्यजानात्, आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते (तै.भृ.६) इत्यादिना पूर्वानुवाकप्रतिपादित- अनवधिकातिशयानन्दयोगिनो विपिश्चतः परस्माद्ब्रह्मण एव जगदुत्पत्तिस्थितलया निर्दिश्यन्ते;
+</details>
+
+<details><summary>टीका</summary>
+
+यतो वा इमानीति वाक्यस्य जीवविषयत्वव्यावृत्त्यर्थमाह - आनन्दो ब्रह्मेति ।
+
+आनन्दशब्दस्यानन्दमयपरत्वव्यक्तीकरणायाह - पूर्वानुवाकेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा स कारणं करणाधिपाधिपो न चास्य कश्चिज्-जनिता न चाधिपः (श्वे.६.९) इति करणाधिपस्य जीवस्याधिपः परं ब्रह्मैव कारणं व्यपदिश्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+and analogously the text 'He is the cause, the lord of lords of the organs,' &c. (Śvet. Up. VI, 9), declares the highest Brahman to be the cause of the individual soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा स कारणं करणाधिपाधिपो न चास्य कश्चिज्जनिता न चाधिपः (श्वे.६.९) इति करणाधिपस्य जीवस्याधिपः परं ब्रह्मैव कारणं व्यपदिश्यते।
+</details>
+
+<details><summary>टीका</summary>
+
+वाक्यान्तरमाह - तथेति ।
+
+वाक्यान्तराणामप्युक्तार्थपरत्वात् तेष्वपि तत्प्रसिद्धिमाह - एवमिति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं सर्वत्र परस्यैव ब्रह्मणः कारणत्वं प्रसिद्धम् ॥
+</details>
+
+<details><summary>Translation</summary>
+
+Everywhere, in fact, the texts proclaim the causality of the highest Self only.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं सर्वत्र परस्यैव ब्रह्मणः कारणत्वं प्रसिद्धम् ॥
+</details>
 
 ## जगद्ब्रह्मणोः तादात्म्यस्य स्थिरीकरणम्
 
-अतः परब्रह्मणो जातत्वात्तस्मिन् प्रलीनत्वात्तेन प्राणनात्तदात्मकतया तादात्म्यमुपपन्नम्।अतस्सर्वप्रकारं सर्वशरीरं सर्वात्मभूतं परं ब्रह्म शान्तो भूत्वोपासीतेति श्रुतिरेव परस्य ब्रह्मणस्सर्वात्मकत्वमुपपाद्य तस्योपासनमुपदिशति। परं ब्रह्म हि कारणावस्थं कार्यावस्थं सूक्ष्मस्थूलचिदचिद्वस्तुशरीरतया सर्वदा सर्वात्मभूतम् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः पर-ब्रह्मणो जातत्वात् त-स्मिन् प्रली-नत्वात्तेन प्राणनात्तदात्मकतया तादात्म्यम् उपपन्नम्।
+</details>
+
+<details><summary>Translation</summary>
+
+As thus the world which springs from Brahman, is merged in it, and breathes through it, has its Self in Brahman, the identity of the two may properly be asserted;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतः परब्रह्मणो जातत्वात्तस्मिन् प्रलीनत्वात्तेन प्राणनात्तदात्मकतया तादात्म्यमुपपन्नम्।
+</details>
+
+<details><summary>टीका</summary>
+
+श्रुत्यन्तरेष्वपि जन्मादिहेतुत्वकृततादात्म्यमप्यर्थसिद्धमित्याह - अत इति ।
+
+तदात्मकतया तादात्म्यमिति - तादात्म्यकतयेति श्रुत्यन्तरविषयम्, तज्जत्वतदनत्वतल्लत्वैः श्रुत्यन्तरेषु तदात्मकत्वेनोपपादनादिह प्रतिपन्नमपि तादात्म्यमुपपन्नमित्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् सर्व-प्रकारं सर्व-शरीरं सर्वात्मभूतं परं ब्रह्म शान्तो भूत्वोपासीतेति श्रुतिरेव परस्य ब्रह्मणस् सर्वात्म-कत्वम् उपपाद्य तस्योपासनम् उपदिशति।
+</details>
+
+<details><summary>Translation</summary>
+
+and hence the text – the meaning of which is 'Let a man meditate with calm mind on the highest Brahman of which the world is a mode, which has the world for its body, and which is the Self of the world' --first proves Brahman's being the universal Self, and then enjoins meditation on it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्सर्वप्रकारं सर्वशरीरं सर्वात्मभूतं परं ब्रह्म शान्तो भूत्वोपासीतेति श्रुतिरेव परस्य ब्रह्मणस्सर्वात्मकत्वमुपपाद्य तस्योपासनमुपदिशति।
+</details>
+
+<details><summary>टीका</summary>
+
+चिदचिद्विलक्षणस्य कथं तादात्म्योपपत्तिरित्यत्राह - अतस्सर्वेति ।
+
+सर्वात्मशब्दवैशद्याय सवर्शरीरमित्युक्तम् ।
+
+आकृत्यधिकरणन्यायेन प्रकारिपर्यन्ताभिधानसिध्द्यर्थमाह - सर्वप्रकारमिति ।
+
+श्रुतिरेवसर्वं खल्वित्यादि श्रुतिरेव ।
+
+उपपाद्यतज्जलानीत्यंशेन कार्यकारणभावेन शरीरात्मभावेन चोपपाद्येत्यर्थः । तत्र ह्यन्तर्य्यामिरूपेण कृतस्य प्राणनस्य शरीरात्मभावापेक्षत्वात्तेन च तथोपपादितं भवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परं ब्रह्म हि कारणावस्थं कार्यावस्थं सूक्ष्म-स्थूल चिद्-अचिद्-वस्तु-शरीरतया सर्वदा सर्वात्मभूतम् ॥
+</details>
+
+<details><summary>Translation</summary>
+
+The highest Brahman, in its causal condition as well as in its so-called 'effected' state, constitutes the Self of the world, for in the former it has for its body all sentient and non-sentient beings in their subtle form, and in the latter the same beings in their gross condition.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परं ब्रह्म हि कारणावस्थं कार्यावस्थं सूक्ष्मस्थूलचिदचिद्वस्तुशरीरतया सर्वदा सर्वात्मभूतम् ॥
+</details>
+
+<details><summary>टीका</summary>
+
+स्थितिदशायां हि शरीरात्मभावः, प्रलयावस्थायान्तु "एकमेवाद्वितीय"मिति सर्वभेदशून्यत्वान्न शरीरात्मभावसिद्धिरित्यत्राह - परं ब्रह्म हीति । स्थितौ शरीरात्मभावोपपादनादुभयलिङ्गस्य ब्रह्मणः कारणावस्थायामपि विशिष्टत्वमर्थसिद्धं श्रुत्यन्तरैः कण्ठोक्तं चेत्यभिप्रायः ।
+
+सर्वदा विशिष्टं चेत् कार्यकारणवस्थयोः को भेद इति शङ्कापरिहाराय सूक्ष्मस्थूलसिदचिद्वस्तुशरीरतयेत्युक्तम् ।
+</details>
 
 ## लक्षणतः सर्वतादात्म्येऽप्यपुरुषार्थासंस्पर्शः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम्-भूत-तादात्म्यस्य प्रतिपादने परस्य ब्रह्मणस् सकल-हेय-प्रत्यनीक-कल्याण-गुणाकरत्वं न विरुध्यते, प्रकारभूतशरीरगतानां दोषाणां प्रकारिण्य् आत्म-न्य-प्रसङ्गात्, प्रत्युत निरति-शयैश्वर्यापादनेन गुणायैव भवतीति पूर्वमेवोक्तम्॥
+</details>
+
+<details><summary>Translation</summary>
+
+Nor is there any contradiction between such identity with the world on Brahman's part, and the fact that Brahman treasures within itself glorious qualities antagonistic to all evil; for the imperfections adhering to the bodies, which are mere modes of Brahman, do not affect Brahman itself to which the modes belong. Such identity rather proves for Brahman supreme lordly power, and thus adds to its excellences.
+</details>
+
+<details><summary>मूलम्</summary>
+
 एवम्भूततादात्म्यस्य प्रतिपादने परस्य ब्रह्मणस्सकलहेयप्रत्यनीककल्याणगुणाकरत्वं न विरुध्यते, प्रकारभूतशरीरगतानां दोषाणां प्रकारिण्यात्मन्यप्रसङ्गात्, प्रत्युत निरतिशयैश्वर्यापादनेन गुणायैव भवतीति पूर्वमेवोक्तम्॥
+</details>
+
+<details><summary>टीका</summary>
+
+ततः किमुभयलिङ्गकत्वस्येत्यत्राह - एवं भूतेति ।
+</details>
 
 ## जीवस्य सर्वतादात्म्यायोगः
 
-यदुक्तं जीवस्य सर्वतादात्म्यमुपपद्यत इति; तदसत्, जीवानां प्रतिशरीरं भिन्नानामन्योन्य-तादात्म्यासम्भवात्। मुक्तस्याप्यनवच्छिन्नस्वरूपस्यापि जगत्तादात्म्यं जगज्जन्मस्थिति-प्रलयकारणत्वनिमित्तं न सम्भवतीति जगद्व्यापारवर्जम् (शारी.४.४.१७) इत्यत्र वक्ष्यते । जीवकर्मनिमित्तत्वात् जगज्जन्मस्थितिलयानां स एव कारणमित्यपि न साधीयः, तत्कर्मनिमित्तत्वेऽपि श्वरस्यैव जगत्कारणत्वात् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् उक्तं जीवस्य सर्वतादात्म्यम् उपपद्यत इति;
+</details>
+
+<details><summary>Translation</summary>
+
+Nor, again, can it rightly be maintained that of the individual soul also identity with the world can be predicated;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदुक्तं जीवस्य सर्वतादात्म्यमुपपद्यत इति;
+</details>
+
+<details><summary>टीका</summary>
+
+जीवस्यैव सर्वतादात्म्यं पूर्वपक्षिणोक्तमनूद्य दूषयति - यदुक्तमित्यादिना ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् असत्, जीवानां प्रतिशरीरं भिन्नानामन्योन्य-तादात्म्यासम्भवात्।
+</details>
+
+<details><summary>Translation</summary>
+
+for the souls being separate according to the bodies with which they are joined cannot be identical with each other.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदसत्, जीवानां प्रतिशरीरं भिन्नानामन्योन्य-तादात्म्यासम्भवात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तस्याप्यनवच्छिन्नस्वरूपस्यापि जगत् तादात्म्यं जगज्जन्मस्थिति-प्रलयकारणत्वनिमित्तं न सम्भवतीति जगद्-व्यापार-वर्जम् (शारी.४.४.१७) इत्य्-अत्र वक्ष्यते ।
+</details>
+
+<details><summary>Translation</summary>
+
+Even in the state of release, when the individual soul is not in any way limited, it does not possess that identity with the world on which there depends causality with regard to the world's creation, sustentation, and reabsorption; as will be declared in Sūtra IV, 4, 17.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तस्याप्यनवच्छिन्नस्वरूपस्यापि जगत्तादात्म्यं जगज्जन्मस्थिति-प्रलयकारणत्वनिमित्तं न सम्भवतीति जगद्व्यापारवर्जम् (शारी.४.४.१७) इत्यत्र वक्ष्यते ।
+</details>
+
+<details><summary>टीका</summary>
+
+मुक्तस्य तत्सम्भवतीत्यत्राह - मुक्तस्येति ।
+
+जगज्जन्मस्थितिप्रलयकारणत्वनिमित्तमिति बहुव्रीहिः, कारणत्वप्रयुक्तमित्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवकर्म-निमित्तत्वात् जगज्जन्मस्थितिलयानां स एव कारणम् इत्यपि न साधीयः, तत्कर्मनिमित्तत्वेऽपि श्वर् अस्यैव जगत्-कारणत्वात् ॥
+</details>
+
+<details><summary>Translation</summary>
+
+Nor, finally, does the Pūrvapakshin improve his case by contending that the individual soul may be the cause of the creation. &c., of the world because it (viz. the soul) is due to karman; for although the fact given as reason is true, all the same the Lord alone is the cause of the Universe.
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवकर्मनिमित्तत्वात् जगज्जन्मस्थितिलयानां स एव कारणमित्यपि न साधीयः, तत्कर्मनिमित्तत्वेऽपि श्वरस्यैव जगत्कारणत्वात् ॥
+</details>
+
+<details><summary>टीका</summary>
+
+जीवस्य कर्मद्वारा जगत्कारणत्वमनूद्य दूषयति - जीवकर्मेति ।
+
+तत्कर्मनिमित्तत्वेऽपीति - न हि कर्म जगतः कर्त्तृरूपनिमित्तमुपादानञ्च, उभयमीश्वर एव, कमर् तु केवलं वैषम्यहेतुः, यथा घटादिनिर्माणस्य भोक्तृकमर्निमित्तत्वेऽपि भोक्तृकर्मणां न कर्तृत्वमुपादानत्वं वा, कुलालमृत्पिण्डयोरेव हि तदुभयम् ।
+
+न च "तज्जला"नित्यत्र तच्छब्दस्य कर्मवाचित्वम्, अतो न जीवस्य जगत्कारणत्वकृतं तादात्म्यमस्तीत्यभिप्रायः ।
+</details>
 
 ## सूत्रार्थोपसंहारः
 
-अतः परमात्मैवाऽत्र ब्रह्मशब्दाभिधेयः। इममेव सूत्रार्थमभियुक्ता बहुमन्वते। यथाह वृत्तिकारः – सर्वं खल्विति सर्वात्मा ब्रह्मेशः इति॥ १॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः परमात्मैवाऽत्र ब्रह्म-शब्दाभिधेयः।
+</details>
+
+<details><summary>Translation</summary>
+
+--All this proves that the being to which the text refers as Brahman is none other than the highest Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतः परमात्मैवाऽत्र ब्रह्मशब्दाभिधेयः।
+</details>
+
+<details><summary>टीका</summary>
+
+सूत्रार्थमुपसंहरति - अत इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम-मेव सूत्रार्थम् अभि-युक्ता बहु-मन्वते।
+</details>
+
+<details><summary>Translation</summary>
+
+This second alternative interpretation of the Sūtra is preferred by most competent persons.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इममेव सूत्रार्थमभियुक्ता बहुमन्वते।
+</details>
+
+<details><summary>टीका</summary>
+
+द्वितीययोजनोक्तार्थस्यैव साम्प्रदायिकत्वमाह - इममेवेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथाह वृत्तिकारः – सर्वं खल्व् इति सर्वात्मा ब्रह्मेशः इति॥ १॥
+</details>
+
+<details><summary>Translation</summary>
+
+The Vr̥ttikāra, e.g. says, 'That Brahman which the clause "All this is Brahman" declares to be the Self of all is the Lord.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथाह वृत्तिकारः – सर्वं खल्विति सर्वात्मा ब्रह्मेशः इति॥ १॥
+</details>
+
+<details><summary>टीका</summary>
+
+सर्वं खल्वित्यादिवाक्येन सर्वात्मतयोक्तं ब्रह्म ईशः परमात्मेत्यर्थः ॥
+</details>
 
 ## श्रुत्युक्तगुणयोगस्य ब्रह्मणि सर्वतादात्म्योपपादकत्वम्
 
-३४. विविक्षतगुणोपपत्तेश्च ॥ १-२-२ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वक्ष्यमाणाश्च गुणाः परमात्मन्येवोपपद्यन्ते मनोमयः प्राणशरीरो भारूपस्सत्यसङ्कल्प आकाशात्मा सर्वकर्मा सर्वकामस्सर्वगन्धस्सर्वरसस्सर्वमिदमभ्यात्तोऽवाक्यनादरः (छां.३.१४.२) इति। मनोमयः – परिशुद्धेन मनसैकेन ग्राह्यः; विवेकविमोकादिसाधनसप्तकानुगृहीत-परमात्मोपासननिर्मलीकृतेन हि मनसा गृह्यते। अनेन हेयप्रत्यनीककल्याणैकतानतया सकलेतरविलक्षणस्वरूपतोच्यते; मलिनमनोभिर्मलिनानामेव ग्राह्यत्वात्। प्राणशरीरः – जगति सर्वेषां प्राणानां धारकः। प्राणो यस्य शरीरम् आधेयं विधेयं शेषभूतं च स प्राणशरीरः। आधेयत्वविधेयत्वशेषत्वानि शरीरशब्दप्रवृत्तिनिमित्तानी- त्युपपादयिष्यते। भारूपः – भास्वररूपः; अप्राकृतस्वासाधारणनिरतिशयकल्याणदिव्यरूपत्वेन निरतिशयदीप्तियुक्त इत्यर्थः। सत्यसङ्कल्पः – अप्रतिहतसङ्कल्पः। आकाशात्मा – आकाशवत्सूक्ष्मस्वच्छस्वरूपः; सकलेतरकारणभूतस्य आकाशस्याप्यात्मभूत इति वा आकाशात्मा; स्वयं च प्रकाशते अन्यानपि प्रकाशयतीति वा आकाशात्मा। सर्वकर्मा क्रियत इति कर्म; सर्वं जगद्यस्य कर्म, असौ सर्वकर्मा; सर्वा वा क्रिया यस्यासौ सर्वकर्मा। सर्वकामः – काम्यन्त इति कामाः- भोग्यभोगोपकरणादयः; ते परिशुद्धाः सर्वविधास्तस्य सन्तीत्यर्थः। सर्वगन्धः सर्वरसः – अशब्दमस्पर्शम् (कठ.१.३.१५) इत्यादिना प्राकृतगन्धरसादिनिषेधादप्राकृताः स्वासाधारणा निरवद्या निरतिशयाः कल्याणाः स्वभोग्यभूतास्सर्वविधा गन्धरसास्तस्य सन्तीत्यर्थः। सर्वमिदमभ्यात्तः – उक्तं रसपर्यन्तं सर्वमिदं कल्याणगुणजातं स्वीकृतवान्। अभ्यात्तः इति भुक्ता ब्राह्मणाः इतिवत्कर्तरिक्तः प्रतिपत्तव्यः। अवाकी – वाकः उक्तिः; सोऽस्य नास्तीत्यवाकी। कुत इत्याह – अनादर इति अवाप्तसमस्तकामत्वेनादर्तव्याभावादादररहितः। अत एव अवाकी-अजल्पाकः; परिपूर्णैश्वर्यत्वात् ब्रह्मादिस्तम्बपर्यन्तं निखिलं जगत्तृणीकृत्य जोषमासीन इत्यर्थः। त एते विविक्षता गुणाः परमात्मन्येवोपपद्यन्ते॥२॥
+३४. विविक्षतगुणोपपत्तेश् च ॥ १-२-२ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+2\. And because the qualities meant to be stated are possible (in Brahman).
+</details>
+
+<details><summary>मूलम्</summary>
+
+३४. विविक्षतगुणोपपत्तेश्च ॥ १-२-२ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वक्ष्यमाणाश् च गुणाः परमात्मन्य् एवोपपद्यन्ते मनोमयः प्राणशरीरो भारूपस्सत्य-सङ्कल्प आकाशात्मा सर्व-कर्मा सर्वकामस्सर्वगन्धस्सर्वरसस्सर्वमिदमभ्यात्तोऽवाक्य-नादरः (छां.३.१४.२) इति।
+</details>
+
+<details><summary>Translation</summary>
+
+The qualities about to be stated can belong to the highest Self only. 'Made of mind, having breath for its body,' &c.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वक्ष्यमाणाश्च गुणाः परमात्मन्येवोपपद्यन्ते मनोमयः प्राणशरीरो भारूपस्सत्यसङ्कल्प आकाशात्मा सर्वकर्मा सर्वकामस्सर्वगन्धस्सर्वरसस्सर्वमिदमभ्यात्तोऽवाक्यनादरः (छां.३.१४.२) इति।
+</details>
+
+<details><summary>टीका</summary>
+
+॥ विवक्षितगुणोपपत्तेश्च ॥ विवक्षितत्वम्- वक्तुमिच्छाविषयत्वम् । अपौरुषेयवाक्यप्रतिपाद्यगुणानां पुरुषेच्छापूर्वकत्वायोगात् कथं विवक्षितत्वमिति शङ्कायां विवक्षितपदं व्याचष्टे - वक्ष्यमाणा इति ।
+
+विवक्षितानामेव वक्ष्यमाणत्वाद्विवक्षितशब्देन वक्ष्यमाणत्वं लक्ष्यत इत्यर्थः ।
+
+सर्वं खल्विति प्रथमवाक्यापेक्षया वक्ष्यमाणं ह्यनन्तरवाक्यगतगुणजातम् ।
+
+निषेधवाक्यविरोधपरिहाराय सामान्यं मनोमयशब्दं विशेषवाक्यानुगुणं व्याचष्टे - मनोमय इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनोमयः – परिशुद्धेन मनसैकेन ग्राह्यः;
+</details>
+
+<details><summary>Translation</summary>
+
+'Made of mind' means to be apprehended by a purified mind only.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनोमयः – परिशुद्धेन मनसैकेन ग्राह्यः;
+</details>
+
+<details><summary>टीका</summary>
+
+परिशुद्धेन मनसैकेनेति - "अब्भक्षो वायुभक्षः" इतिवदवधारणगर्भ इत्येकशब्दस्य भावः ।
+
+तच्च "न चक्षुषा गृह्यते नापि वाचा मनसा तु विशुद्धेन" इति श्रुत्यानुगुण्यात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विवेकविमोकादिसाधनसप्तकानुगृहीत-परमात्मोपासननिर्मलीकृतेन हि मनसा गृह्यते।
+</details>
+
+<details><summary>Translation</summary>
+
+The highest Self can be apprehended only by a mind purified by meditation on that Self, such meditation being assisted by the seven means, viz. abstention, &c. (see above, p. 17).
+</details>
+
+<details><summary>मूलम्</summary>
+
+विवेकविमोकादिसाधनसप्तकानुगृहीत-परमात्मोपासननिर्मलीकृतेन हि मनसा गृह्यते।
+</details>
+
+<details><summary>टीका</summary>
+
+तद्विवृणोति - विवेकेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनेन हेय-प्रत्यनीक-कल्याणैकतानतया सकलेतरविलक्षण-स्वरूपतोच्यते;
+</details>
+
+<details><summary>Translation</summary>
+
+This intimates that the highest Self is of pure goodness, precluding all evil, and therefore different in nature from everything else;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनेन हेयप्रत्यनीककल्याणैकतानतया सकलेतरविलक्षणस्वरूपतोच्यते;
+</details>
+
+<details><summary>टीका</summary>
+
+फलितार्थमाह - अनेनेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मलिनमनोभिर्मलिनानामेव ग्राह्यत्वात्।
+</details>
+
+<details><summary>Translation</summary>
+
+for by the impure minded impure objects only can be apprehended.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मलिनमनोभिर्मलिनानामेव ग्राह्यत्वात्।
+</details>
+
+<details><summary>टीका</summary>
+
+कुत इत्यत्राह - मलिनेति ।
+
+मलिनमनोग्राह्यत्वं हेयाहेत्वव्यापकम्, अतो व्यापकनिवृत्त्या व्याप्यनिवृत्तिरित्युभयलिङ्गकत्वसिद्धिरिति भावः ।
+
+मुक्तस्यापि विशुद्धमनोग्राह्यत्वं न सम्भवति, मुक्तं स्वातन्त्र्येण गृह्नाति चेत् मनोऽशुद्धम्, ब्रह्मपर्यन्तत्वेन चेत् विशिष्टस्य ब्रह्मण एव विशुद्धमनोग्राह्यत्वमिति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राण-शरीरः – जगति सर्वेषां प्राणानां धारकः।
+</details>
+
+<details><summary>Translation</summary>
+
+--'Having the vital breath for its body' means – being the supporter of all life in the world.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्राणशरीरः – जगति सर्वेषां प्राणानां धारकः।
+</details>
+
+<details><summary>टीका</summary>
+
+प्राणशरीरशब्दं व्याचष्टे - जगतीति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राणो यस्य शरीरम् आधेयं विधेयं शेषभूतं च स प्राण-शरीरः।
+</details>
+
+<details><summary>Translation</summary>
+
+To stand in the relation of a body to something else, means to abide in that other thing, to be dependent on it, and to subserve it in a subordinate capacity, as we shall fully show later on. And all 'vital breath' or 'life' stands in that relation to the highest Self.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्राणो यस्य शरीरम् आधेयं विधेयं शेषभूतं च स प्राणशरीरः।
+</details>
+
+<details><summary>टीका</summary>
+
+प्राणशरीरशब्देन प्राणधारकत्वं कथमवगम्यत इत्यत्राह - प्राणो यस्येति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आधेयत्व-विधेयत्व-शेषत्वानि शरीरशब्दप्रवृत्तिनिमित्तानी- त्युपपादयिष्यते।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+आधेयत्वविधेयत्वशेषत्वानि शरीरशब्दप्रवृत्तिनिमित्तानी- त्युपपादयिष्यते।
+</details>
+
+<details><summary>टीका</summary>
+
+शरीरत्वे सति कथमाधेयत्वादिकमित्यत्राह आधेयत्वेति ।
+
+भारूप इति - ज्ञानस्वरूप इत्यर्थस्त्वतिक्लिष्टः, रूपशब्दो हि धर्मवाची, भाशब्दो हि दीप्तिपरः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भारूपः – भास्वर-रूपः;
+</details>
+
+<details><summary>Translation</summary>
+
+'Whose form is light'; i.e. who is of supreme splendour,
+</details>
+
+<details><summary>मूलम्</summary>
+
+भारूपः – भास्वररूपः;
+</details>
+
+<details><summary>टीका</summary>
+
+दीप्तिधर्मकत्वं विग्रहद्वारकम् "आदित्यवर्णं तमसः परस्तात्" "रुक्मवर्णम्" इत्यादिश्रुत्यैकार्थ्यादित्यभिप्रायेणाह - भास्वररूप इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्राकृत-स्वासाधारण-निरतिशय-कल्याण-दिव्य-रूपत्वेन निरतिशय-दीप्ति-युक्त इत्य्-अर्थः।
+</details>
+
+<details><summary>Translation</summary>
+
+his form being a divine one of supreme excellence peculiar to him, and not consisting of the stuff of Prakr̥ti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्राकृतस्वासाधारणनिरतिशयकल्याणदिव्यरूपत्वेन निरतिशयदीप्तियुक्त इत्यर्थः।
+</details>
+
+<details><summary>टीका</summary>
+
+तद्विवृणोति - अप्राकृतेति ।
+
+सूक्ष्मस्वच्छस्वरूप इति । सूक्ष्मत्वम्- व्याप्त्यर्हत्वम् । स्वच्छत्वम्- निर्मलत्वम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्य-सङ्कल्पः – अप्रतिहत-सङ्कल्पः।
+</details>
+
+<details><summary>Translation</summary>
+
+--'Whose purposes are true'; i.e. whose purposes realise themselves without any obstruction.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्यसङ्कल्पः – अप्रतिहतसङ्कल्पः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकाशात्मा – आकाशवत्सूक्ष्मस्वच्छ-स्वरूपः;
+</details>
+
+<details><summary>Translation</summary>
+
+'Who is the (or "of the") Self of ether'; i.e. who is of a delicate and transparent nature, like ether;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आकाशात्मा – आकाशवत्सूक्ष्मस्वच्छस्वरूपः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सकलेतर-कारण-भूतस्य आकाशस्याप्यात्म-भूत इति वा आकाशात्मा;
+</details>
+
+<details><summary>Translation</summary>
+
+or who himself is the Self of ether, which is the causal substance of everything else;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सकलेतरकारणभूतस्य आकाशस्याप्यात्मभूत इति वा आकाशात्मा;
+</details>
+
+<details><summary>टीका</summary>
+
+सकलेतरकारणभूतस्याकाशस्येत्यनेन "आकाश एव तदोतञ्च प्रोतञ्च" इति वाक्यं स्मारितम् ।
+
+"अक्षरमम्बरान्तधृते"रित्यधिकरणन्यायादाकाशशब्दः प्रकृतिवाचीति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वयं च प्रकाशते अन्यान् अपि प्रकाशयतीति वा आकाशात्मा।
+</details>
+
+<details><summary>Translation</summary>
+
+or who shines forth himself and makes other things shine forth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वयं च प्रकाशते अन्यानपि प्रकाशयतीति वा आकाशात्मा।
+</details>
+
+<details><summary>टीका</summary>
+
+अन्यानपि प्रकाशयतिस्वस्मै प्रकाशयतीत्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-कर्मा क्रियत इति कर्म;
+</details>
+
+<details><summary>Translation</summary>
+
+--'To whom all works belong';
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वकर्मा क्रियत इति कर्म;
+</details>
+
+<details><summary>टीका</summary>
+
+सर्वा वा क्रियेति - लोकिकवैदिकसकलक्रियाणां सद्वारककर्त्ताऽसौ ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वं जग-द्यस्य कर्म, असौ सर्व-कर्मा;
+</details>
+
+<details><summary>Translation</summary>
+
+i.e. he of whom the whole world is the work;
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वं जगद्यस्य कर्म, असौ सर्वकर्मा;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वा वा क्रिया यस्यासौ सर्व-कर्मा।
+</details>
+
+<details><summary>Translation</summary>
+
+or he to whom all activities belong.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वा वा क्रिया यस्यासौ सर्वकर्मा।
+</details>
+
+<details><summary>टीका</summary>
+
+यद्वा सर्ववैदिकक्रिया आराधनं यस्य स सर्वक्रिय इत्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-कामः – काम्यन्त इति कामाः- भोग्य-भोगोपकरणादयः;
+</details>
+
+<details><summary>Translation</summary>
+
+--'To whom all wishes belong'; i.e. he to whom
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वकामः – काम्यन्त इति कामाः- भोग्यभोगोपकरणादयः;
+</details>
+
+<details><summary>टीका</summary>
+
+इच्छाबाहुल्यव्यावृत्त्यर्थं सर्वकामपदं व्याचष्टे - काम्यन्त इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते परिशुद्धाः सर्व-विधास् तस्य सन्तीत्यर्थः।
+</details>
+
+<details><summary>Translation</summary>
+
+all pure objects and means of desire and enjoyment belong.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ते परिशुद्धाः सर्वविधास्तस्य सन्तीत्यर्थः।
+</details>
+
+<details><summary>टीका</summary>
+
+भोग्यभोगोपकरणादीनां प्राकृतत्वव्यावृत्त्यर्थमाह - ते परिशुद्धा इति ।
+
+अप्राकृता इत्यर्थः । सत्यकामपदैकार्थ्यादित्यभिप्रायः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-गन्धः सर्व-रसः – अशब्दमस्पर्शम् (कठ.१.३.१५) इत्य्-आदिना प्राकृत-गन्धरसादि-निषेधाद् अप्राकृताः स्वासाधारणा निरवद्या निरतिशयाः कल्याणाः स्व-भोग्य-भूतास् सर्व-विधा गन्ध-रसास् तस्य सन्तीत्यर्थः।
+</details>
+
+<details><summary>Translation</summary>
+
+'He to whom all odours and tastes belong'; i.e. he to whom there belong, as objects of enjoyment, all kinds of uncommon, special, perfect, supremely excellent odours and tastes; ordinary smells and tastes being negatived by another text, viz. 'That which is without sound, without touch, without taste,' &c. (Ka. Up. I, 3, l5).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वगन्धः सर्वरसः – अशब्दमस्पर्शम् (कठ.१.३.१५) इत्यादिना प्राकृतगन्धरसादिनिषेधादप्राकृताः स्वासाधारणा निरवद्या निरतिशयाः कल्याणाः स्वभोग्यभूतास्सर्वविधा गन्धरसास्तस्य सन्तीत्यर्थः।
+</details>
+
+<details><summary>टीका</summary>
+
+सर्वगन्ध इत्यादि - रूपस्पर्शादिनिषेधपरवाक्यान्तराणामपि तुल्यन्यायत्वद्योतनार्थ आदिशब्दः ।
+
+गन्धरसादीनामव्यवधानेन स्वरूपान्वयित्वाभावात् सद्वारकत्वे सति प्राकृतानां पृथिव्यादिगतगन्धरसादीनां हेयत्वेन कल्याणगुणप्रकरणविरोधात् "भारूप" इति दिव्यविग्रहस्य प्रकृतत्वाच्चाप्राकृतदेहद्वारकगन्धरसादिविधिरित्यर्थः ।
+
+"तं ब्रह्मगन्धः प्रविशति ब्रह्मरसः प्रविशति" इति मुक्तात्मनि साम्यापन्ने ब्रह्मगन्धरसप्रवेशव्यपदेशश्चास्यार्थस्योत्तम्भकः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वम् इदम् अभ्यात्तः – उक्तं रस-पर्यन्तं सर्वम् इदं कल्याण-गुण-जातं स्वी-कृतवान्।
+</details>
+
+<details><summary>Translation</summary>
+
+--'He who embraces all this'; i.e. he who makes his own the whole group of glorious qualities enumerated.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वमिदमभ्यात्तः – उक्तं रसपर्यन्तं सर्वमिदं कल्याणगुणजातं स्वीकृतवान्।
+</details>
+
+<details><summary>टीका</summary>
+
+सर्वमिदमिति जगतोऽपि सर्वकर्मादिगुणान्तर्भावाद्गुणपरं तद्वयाख्यातम् ।
+
+"अभ्यात्त" इत्यत्र स्वीकरणरूपगुणविधिः। ननु नायमादिकर्मणि क्तः, गुणगणादानस्य नित्यत्वात् । न चाभ्याददातिर्गत्यर्थः, स्वीकरणार्थत्वात् ।
+
+नाप्यकर्मकः- सर्वमिदमिति श्रवणात् । न च शिष्टादिष्वन्यतमः, अपठितत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अभ्य्-आत्तः इति भुक्ता ब्राह्मणाः इतिवत्-कर्तरि-क्तः प्रतिपत्तव्यः।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+अभ्यात्तः इति भुक्ता ब्राह्मणाः इतिवत्कर्तरिक्तः प्रतिपत्तव्यः।
+</details>
+
+<details><summary>टीका</summary>
+
+तत्कथं कर्त्तरि क्तः "तयोरेव कृत्यक्तखलर्था" इति भावकर्मणोरेव हि तत्स्मरणमित्यत्राह - भुक्ता इति ।
+
+प्रयुक्तानुशासनत्वात् व्याकरणशास्त्रस्य, यथाप्रयोगमनुशासनं कार्यम्, न तु यथानुशासनं प्रयोगान्यथाकरणमिति भावः ।
+
+ये तु भुक्ता ब्राह्मणा इत्यत्र मत्त्वर्थीयाकारप्रश्लेषमिच्छन्ति तेषां भुक्तशब्दस्य अर्थादिगुणान्तर्भावकल्पनम् अकारप्रश्लेषणमिति तत्र गौरवं पश्यतोक्तम् कर्त्तरीति ।
+
+कर्त्रर्थतया प्रयोग एव हि भुक्तादीनामाकृतिगरान्तर्भावकल्पननिमित्तम्, तेनैव कर्त्रर्थत्वं क्तप्रत्ययस्य कल्प्यतां किमश्रूयमाणाकारप्रश्लेषेणेति भावः ।
+
+यद्वा कर्त्तरि प्रतीतिः प्रतिपत्तिः, सा यथा भुक्ता ब्रह्मणा इत्यत्र प्रतिपाद्यते- निरूप्यते, एवमत्रापि निर्वोढव्येत्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवाकी – वाकः उक्तिः;
+</details>
+
+<details><summary>Translation</summary>
+
+--'He who does not speak,'
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवाकी – वाकः उक्तिः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोऽस्य नास्तीत्यवाकी।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+सोऽस्य नास्तीत्यवाकी।
+</details>
+
+<details><summary>टीका</summary>
+
+सोऽस्य नास्तीत्यवाकीति - फलितार्थकथनमेतत्, वाकः- उक्तिः, अवाकः- तदभावः । अवाकोऽस्यास्तीत्यवाकशब्दस्तद्धितप्रत्ययः । यद्वा वाकी न भवतीत्यवाकी ।
+
+कुत इत्याह - कुत इत्यत्राहेत्यर्थः ।
+
+अवाकत्वं साक्सामर्ध्याभावादिति शङ्काव्यावृत्त्यर्थम् अनादर इतिपदमिति भावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुत इत्याह – अनादर इति अवाप्तसमस्तकामत्वेनादर्तव्याभावादादररहितः।
+</details>
+
+<details><summary>Translation</summary>
+
+because, being in possession of all he could desire, he 'has no regard for anything';
+</details>
+
+<details><summary>मूलम्</summary>
+
+कुत इत्याह – अनादर इति अवाप्तसमस्तकामत्वेनादर्तव्याभावादादररहितः।
+</details>
+
+<details><summary>टीका</summary>
+
+तदुपपादयति - अवाप्तेति ।
+
+अवाकित्वस्य तत्फलतामाह - अत एवेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव अवाकी-अजल्पाकः;
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+अत एव अवाकी-अजल्पाकः;
+</details>
+
+<details><summary>टीका</summary>
+
+निषेध्योवाको हेयरूप इति दर्शयति - अजल्पाक इति ।
+
+सापेक्षत्वनिबन्धनबहुप्रलापो निषेध्यः, न तु वाक्सामथ्यर्विरह इत्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परिपूर्णैश्वर्यत्वात् ब्रह्मादिस्तम्ब-पर्यन्तं निखिलं जगत् तृणी-कृत्य जोषम् आसीन इत्य्-अर्थः।
+</details>
+
+<details><summary>Translation</summary>
+
+i.e. he who, in full possession of lordly power, esteems this whole world with all its creatures no higher than a blade of grass, and hence abides in silence.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परिपूर्णैश्वर्यत्वात् ब्रह्मादिस्तम्बपर्यन्तं निखिलं जगत्तृणीकृत्य जोषमासीन इत्यर्थः।
+</details>
+
+<details><summary>टीका</summary>
+
+पदद्वयप्रतिपाद्योऽयमेको गुण इत्याह - परिपूर्णेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त एते विविक्षता गुणाः परमात्मन्य् एवोपपद्यन्ते॥२॥
+</details>
+
+<details><summary>Translation</summary>
+
+--All these qualities stated in the text can belong to the highest Self only.
+</details>
+
+<details><summary>मूलम्</summary>
+
+त एते विविक्षता गुणाः परमात्मन्येवोपपद्यन्ते॥२॥
+</details>
+
+<details><summary>टीका</summary>
+
+सूत्रार्थमुपसंहरति - त एत इति ।
+
+एवमन्वय उक्तः,कथं परमात्मन्येवेत्यवधारणसिद्धिः, मुक्तेऽपि ह्येते गुणाः शङ्कनीया इत्यपेक्षायां पूर्वसूत्रोक्तान्वयस्थेम्ने व्यतिरेकमाह - ॥ अनुपपत्तेस्तु न शारीरः ॥ शारीरशब्देन मुक्तावस्थस्यापि क्रोडीकारोपपादको योग्यशब्दः, अनुपपत्तेस्तु नेतर इति वक्तव्येपि मुक्तावस्थजीवस्य प्रतिपाद्यत्वानुपपत्तिस्फोरणार्थं शारीरशब्दनिर्द्देश इति भावः । बद्धोपादानं दृष्टान्ततया, यथा निग्राह्यस्य निग्राहकस्वरूपैक्यानुपपत्तिः तथाऽनुग्राह्यस्याप्यनुग्राहकस्वरूपैक्यानुपपत्तिरित्यभिप्रायः । प्रस्तुतगुणानुपपत्तिः प्रतिगुणामनुसन्धेया । पर्यालोचयतां शङ्का न जायत इत्यन्वयः ।
+</details>
 
 ## उक्तानां गुणानां, व्यतिरेकतः परमात्मनि दृढीकारः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+३५. अनुपपत्तेस् तु न शारीरः॥ १-२-३ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+3\. But, on account of impossibility, not the embodied soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ३५. अनुपपत्तेस्तु न शारीरः॥ १-२-३ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तमिमं गुणसागरं पर्यालोचयतां खद्योत-कल्पस्य शरीरसम्बन्धनिबन्धनापरिमित-दुःखसम्बन्धयोग्यस्य बद्ध-मुक्तावस्थस्य जीवस्य प्रस्तुत-गुण-लेश-सम्बन्ध-गन्धो ऽपि नोपपद्यत इति नास्मिन् प्रकरणे शारीर-परिग्रह-शङ्का जायत इत्य्-अर्थः॥३॥
+</details>
+
+<details><summary>Translation</summary>
+
+Those who fully consider this infinite multitude of exalted qualities will recognise that not even a shadow of them can belong to the individual soul – whether in the state of bondage or that of release – which is a thing as insignificant as a glow-worm and, through its connexion with a body, liable to the attacks of endless suffering. It is not possible therefore to hold that the section under discussion should refer to the individual soul.
+</details>
+
+<details><summary>मूलम्</summary>
 
 तमिमं गुणसागरं पर्यालोचयतां खद्योतकल्पस्य शरीरसम्बन्धनिबन्धनापरिमित-दुःखसम्बन्धयोग्यस्य बद्धमुक्तावस्थस्य जीवस्य प्रस्तुतगुणलेशसम्बन्धगन्धोऽपि नोपपद्यत इति नास्मिन् प्रकरणे शारीरपरिग्रहशङ्का जायत इत्यर्थः॥३॥
+</details>
+
+<details><summary>टीका</summary>
+
+न मुक्तपरिग्रहशङ्काहेत्वन्यथासिद्धिः, किन्तु हेत्वसिद्धिरेवेति, तुशब्दाभिप्राय इत्याशयवतोकतं शारीरपरिग्रहशङ्का न जायत इति ॥
+
+अनुपपत्तेस्तु न शारीर इत्यत्र यदुक्तं परैः- जीवपरयोरैक्याज्जीवधर्मैः परस्य विशिष्टत्वानुसन्धानोपपत्तिश्चेत्तदनन्यत्वादेव परमात्मधर्माः सत्यसङ्कल्पत्वादयोऽपि जीव उपपद्यन्त इति शङ्कानिरासार्थमिदं सूत्रम् । आरोप्यगतधर्मैरधिष्ठनं विशेष्यते, यथा सर्पगतभीषणत्वादिना तदधिष्ठानम् ।
+
+न चाधिष्ठानधर्मैरारोप्यं विशेष्यते, यथा रज्जुत्वेन सर्पः, अतो जीवधर्मैर्मनोमयत्वादिभिः परमात्मनो विशेष्यत्वं युक्तम्, न तु परमात्मधर्मैः सत्यसङ्कल्पत्वादिभिजीवस्य विशेष्यत्वमिति सूत्रार्थ इति । तदयुक्तम्; सर्पादिव्यावर्त्तकरज्जुत्वादिधर्मप्रतीतौ सर्पादिदर्मभूतभीषणत्वादिभिरधिष्ठानस्य विशेषणायोगात् । इह च जीवव्यावर्तकास्सत्यसङ्कल्पत्वादयः प्रतीयन्ते, अतोऽध्यस्तजीवधर्मैः परमात्मनो विशेष्यत्वमयुक्तम् ।
+
+मनोमयत्वादिभिः सत्यसङ्कल्पत्वादिभिश्च पदैर्वस्तुमात्रं लक्ष्यत इति चेत्, तर्हि "विवक्षितगुणोपपत्तेश्च" इतिपूर्वसूत्रं विरुध्यते, उभयविधगुणानाममविवक्षितत्वं सूत्रकाराभिमतञ्चेत् "अनुपपत्तेस्तु न शारीरः" इतिवदनुपपत्तेस्तु नेश्वर इति च सूत्रं वक्तव्यम् , वस्तुमात्रविवक्षायां जीवधर्माणामिवेश्वरधर्माणामप्यनुपपत्त्यविशेषात् ।
+
+अतः ईश्वरधर्मेषु तात्पर्यमवगम्यते, अतस्तेषु प्रतीयमानेषु रज्जोर्भीषणत्वादिनेव मनोमयत्वादिना परमात्मनो विशेष्यत्वमनुपपन्नम् मनोमयत्वादिकं न जीवसाधारणमिति चेत् किं मनोमयादिपदैर्मनःप्राणाद्यधीनज्ञानप्रवृत्तित्वं विवक्षितम्, उत विशुद्धमनोग्राह्यत्वप्राणशरीरकत्वादिकम् ? प्रथमे जीवासाधारणत्वान्मनोमयत्वादिभिः परमात्मनो विशेष्यत्वानुपपत्तिः । द्वितीये तु मनोमयत्वादीनामरोपितधर्मत्वाभावादारोप्यगतधर्मैरधिष्ठानस्य विशेष्यत्वसम्भवरूपन्यायाविषयत्वं वाक्यस्य स्यात् । किञ्च नित्यस्य जीवस्य परस्मिन्नारोपितत्वाभावादेवोक्तन्यायः सुतरामिह न सङ्गच्छते, तस्मात्परोक्तः सूत्रार्थोऽनुपपन्नः । अथ परमसाध्यहेतुमाह - ॥ कर्मकर्तृव्यपदेशाच्च ॥ अभिसम्भविता- प्राप्ता । प्राप्यप्राप्तृभेदः सूत्रविवक्षितः ।
+
+ततः किं "सर्वं खल्विदं ब्रह्म" इत्युक्तस्योपास्यस्य ब्रह्मणो जीववैलक्षण्यस्येत्यत्राह - अत इति । प्राप्यप्राप्तारावेव ह्युपास्योपासकौ, अतः उपास्यं ब्रह्म उपासकाज्जीवाद्विलक्षणमित्यर्तः ।
+</details>
 
 ## एतदधिकरणीयपरमसाध्यहेतुकथनम्
 
-३६. कर्मकर्तृव्यपदेशाच्च ॥ १-२-४ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतमितः प्रेत्याभिसम्भिवताऽस्मि (छा.३.१४.४) इति प्राप्यतया परं ब्रह्म व्यपदिश्यते, प्राप्ततृतया च जीवः। अतः प्राप्ता जीव उपासकः, प्राप्यं परं ब्रह्मोपास्यमिति प्राप्तुरन्यदेवेदमिति विज्ञायते ॥४॥
+३६. कर्मकर्तृव्यपदेशाच्च ॥ १-२-४ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+4\. And because there is (separate) denotation of the object and the agent.
+</details>
+
+<details><summary>मूलम्</summary>
+
+३६. कर्मकर्तृव्यपदेशाच्च ॥ १-२-४ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतमितः प्रेत्याभिसम्भिवताऽस्मि (छा.३.१४.४) इति प्राप्यतया परं ब्रह्म व्यपदिश्यते, प्राप्त-तृतया च जीवः।
+</details>
+
+<details><summary>Translation</summary>
+
+The clause 'When I shall have departed from hence I shall obtain him' denotes the highest Brahman as the object to be obtained, and the individual soul as that which obtains it.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतमितः प्रेत्याभिसम्भिवताऽस्मि (छा.३.१४.४) इति प्राप्यतया परं ब्रह्म व्यपदिश्यते, प्राप्ततृतया च जीवः।
+</details>
+
+<details><summary>टीका</summary>
+
+स्वरूपस्यैव प्राप्यत्वमिति चेत् श्रुतिस्वारस्यभङ्गः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः प्राप्ता जीव उपासकः, प्राप्यं परं ब्रह्मोपास्य-मिति प्राप्तुर् अन्यद् एवेदम् इति विज्ञायते ॥४॥
+</details>
+
+<details><summary>Translation</summary>
+
+This shows that the soul which obtains is the person meditating, and the highest Brahman that is to be obtained, the object of meditation: Brahman, therefore, is something different from the attaining soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतः प्राप्ता जीव उपासकः, प्राप्यं परं ब्रह्मोपास्यमिति प्राप्तुरन्यदेवेदमिति विज्ञायते ॥४॥
+</details>
+
+<details><summary>टीका</summary>
+
+प्राप्तुरन्यदेवेदमिति - अत्रेदमिति निर्देशो ब्रह्मशब्दाभिहितवस्त्वभिप्रायः ॥
+
+अवस्थाभेदेन प्राप्यत्वप्राप्तृत्वोपपत्तिरिति शङ्कापरिहारार्थमेकस्याभेवावस्थायां भेदव्यपदेशं दर्शयत्यनन्तरसूत्रद्वयेन ॥
+
+शब्दविशेषात् ॥ अस्मिन् सूत्रे असमानविभक्तिकशब्दो विवक्षितः । एवं समानप्रकरण इति - तत्रापि शाण्डिल्यविद्यायामित्यर्थः ।
+
+सौत्रपदशक्तेस्सङ्कोचकाभावात् समानप्रकरणेन प्रकृतोपपादनस्य अन्यत्र दृष्टत्वाच्च न छान्दोग्यवाक्यमात्रविषयमिदं सूत्रमिति भावः ।
+</details>
 
 ## विभक्तिविशेषनिर्देशात् ब्रह्मपदवाच्यः परमात्मा
 
-**३**७. शब्दविशेषात् ॥ १-२-५ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष म आत्माऽन्तर्हृदये (छा.३.१४.३) इति शारीरष्षष्ठ्या निर्दिष्टः उपास्यस्तु प्रथमया। एवं समानप्रकरणे वाजिनां च श्रुतौ शब्दविशेषश्श्रूयते जीवपरयोः; यथा व्रीहिर्वा यवो वा श्यामाको वा श्यामाकतण्डुलो वा एवमयमन्तरात्मन् पुरुषो हिरण्मयो यथा ज्योतिरधूमम् (शत.ब्रा.१.६.३) इति। अत्र अन्तरात्मन् इति सप्तम्यन्तेन शारीरो निर्दिश्यते; पुरुषो हिरण्मयः इति प्रथमयोपास्यः। अतः पर एवोपास्यः॥
+**३**७. शब्द-विशेषात् ॥ १-२-५ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+5\. On account of the difference of words.
+</details>
+
+<details><summary>मूलम्</summary>
+
+**३**७. शब्दविशेषात् ॥ १-२-५ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एष म आत्माऽन्तर्-हृदये (छा.३.१४.३) इति शारीरष्षष्ठ्या निर्दिष्टः उपास्य-स्तु प्रथमया।
+</details>
+
+<details><summary>Translation</summary>
+
+The clause 'That is the Self of me, within the heart' designates the embodied soul by means of a genitive form, while the object of meditation is exhibited in the nominative case.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एष म आत्माऽन्तर्हृदये (छा.३.१४.३) इति शारीरष्षष्ठ्या निर्दिष्टः उपास्यस्तु प्रथमया।
+</details>
+
+<details><summary>टीका</summary>
+
+जीवपरयोरिति - उपास्योपासकयोरित्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं समान-प्रकरणे वाजिनां च श्रुतौ शब्द-विशेषश् श्रूयते जीव-परयोः;
+</details>
+
+<details><summary>Translation</summary>
+
+Similarly, a text of the Vājasaneyins, which treats of the same topic, applies different terms to the embodied and the highest Self,
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं समानप्रकरणे वाजिनां च श्रुतौ शब्दविशेषश्श्रूयते जीवपरयोः;
+</details>
+
+<details><summary>टीका</summary>
+
+जीवपरयोरित्युक्तिः फलितार्थाभिप्रायेण, अतो नान्योन्याश्रयः, अत्र हिरण्यमयशब्देन दिव्यविग्रहवत्त्वं च सिद्धम् ।
+
+उदाहृतवाक्ये शब्दविशेषं दर्शयति - अत्रेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा व्रीहिर् वा यवो वा श्यामाको वा श्यामाकतण्डुलो वा एवम् अयम् अन्तर्-आत्मन् पुरुषो हिरण्मयो यथा ज्योतिर् अधूमम् (शत.ब्रा.१.६.३) इति।
+</details>
+
+<details><summary>Translation</summary>
+
+'Like a rice grain, or a barley grain, or a canary seed, or the kernel of a canary seed, thus that golden Person is within the Self' (Śat. Br. X, 6, 3, 2).
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा व्रीहिर्वा यवो वा श्यामाको वा श्यामाकतण्डुलो वा एवमयमन्तरात्मन् पुरुषो हिरण्मयो यथा ज्योतिरधूमम् (शत.ब्रा.१.६.३) इति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र अन्तरात्मन् इति सप्तम्य् अन्तेन शारीरो निर्दिश्यते;
+</details>
+
+<details><summary>Translation</summary>
+
+Here the locative form, 'within the Self,' denotes the embodied Self,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्र अन्तरात्मन् इति सप्तम्यन्तेन शारीरो निर्दिश्यते;
+</details>
+
+<details><summary>टीका</summary>
+
+सप्तम्यन्तेनेति - अन्तरात्मन्नित्यत्र नकारलोपाभावात् "नञ्सम्बुध्यो"रिति नञ्सम्बुध्योरेव नकारलोपप्रतिषेधादिह सम्बुध्द्यन्तत्वेऽनन्वयाच्च "आत्मन्पश्यन्सर्वभूतानि" इतिवत् लुप्तसप्तमीकोऽयं निर्देश इति भावः । एवं स्वप्रकरणे षष्ठीप्रथमात्मकः, समानप्रकरणे सप्तमीप्रथमात्मकश्च शब्दविशेषो विवक्षितः ॥
+
+हृदयस्थस्य ईश्वरत्वमुपबृंहणेन विशदयितुमाह - ॥
+
+स्मृतेश्च ॥ "एष म आत्मान्तर्हृदये" इति हृदयशब्दप्रत्यभिज्ञापनार्थमाह - सर्वस्येति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषो हिरण्मयः इति प्रथमयोपास्यः।
+</details>
+
+<details><summary>Translation</summary>
+
+and the nominative, 'that golden Person,' the object to be meditated on.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरुषो हिरण्मयः इति प्रथमयोपास्यः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः पर एवोपास्यः॥
+</details>
+
+<details><summary>Translation</summary>
+
+--All this proves the highest Self to be the object of meditation.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतः पर एवोपास्यः॥
+</details>
 
 ## हृदयस्थे ईश्वरतायाः उपबृंहणतः स्थापनम्
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इतश् च शारीरादन्यः-
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
 इतश्च शारीरादन्यः-
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+३८. स्मृतेश् च ॥ १-२-६ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+6\. And on account of Smr̥ti.
+</details>
+
+<details><summary>मूलम्</summary>
 
 ३८. स्मृतेश्च ॥ १-२-६ ॥
+</details>
 
-सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनञ्च (भ.गी.१५.१५) यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् (गी.१५.१९), ईश्वरस्सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति। भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया। तमेव शरणं गच्छ (गी.१८-६१) इति शारीरमुपासकं, परमात्मानं चोपास्यं स्मृतिर्दर्शयति॥ ६॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनञ्च (भ.गी.१५.१५) यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् (गी.१५.१९), ईश्वरस् सर्व-भूतानां हृद्-देशेऽर्जुन तिष्ठति।
+</details>
+
+<details><summary>Translation</summary>
+
+'I dwell within the hearts of all, from me come memory and knowledge, as well as their loss'; 'He who free from delusion knows me to be the highest Person'; 'The Lord, O Arjuna, is seated in the heart of all Beings,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनञ्च (भ.गी.१५.१५) यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् (गी.१५.१९), ईश्वरस्सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति।
+</details>
+
+<details><summary>टीका</summary>
+
+उपास्यत्वज्ञापनार्थं तदनन्तरवाक्यमाह - यो मामिति । हृत्स्थस्य ईश्वरत्वकण्ठोक्तिं दर्शयति ।
+
+ईश्वर इति - "तमेव शरणं गच्छ" इत्युपादानं च हृदयस्थस्य भजनप्रदर्शनार्थम् । सर्वस्येतिसर्वशब्दो जीवविषयः, पराधीनस्मृत्याद्याश्रयभूतवस्तुविषयत्वात् । पुरुषोत्तमशब्दवाच्यस्य जीववैलक्षण्यं तत्रैवोक्तम् । सर्वभूतशब्दोऽपि जीवविषयः, भ्रान्त्याश्रयत्वाद्देहाख्ययन्त्रारूढत्वाच्च । अत्र चशब्दोऽवान्तरशङ्कापरिहारहेतुद्वयसमुच्चयार्थः, अन्वाचयो वा ।
+
+अत्र केचित्- कर्मकर्तृव्यपदेशादयो घटकादिकृतगगनभेदाश्रयेण बालिशकृताल्पत्वमहत्त्वादिव्यवहारा इव काल्पनिकं भेदमाश्रित्य "तत्त्वमसी"त्यात्मैकत्वोपदेशग्रहणात्प्राक् प्रवर्त्तन्ते, ऐक्योपदेशग्रहणानन्तरं सर्वव्यवहारपरिसमाप्तिरित्याहुः । अत्र ब्रूमः, यस्य भ्रमस्स एव भ्रान्तिसिद्धर्मथं व्यपदिशति, तस्यैव उपदेशग्रहणात्तन्निवृत्तिः, एवं सति जीवेश्वरभेदभ्रान्त्या तयोः कर्मकर्तृभावादिकं को व्यपदिशति ।
+
+किं जीवः ? उतेश्वरः? उत वेद एव ? तत्राश्रुतशास्त्रस्य जीवस्य देहातिरिक्तं जीवमप्यजानतः सत्यसङ्कल्पत्वादिलक्षणेश्वरप्रतीत्यसम्भवान्न तद्भ्रान्तिमूलत्वं कर्मकर्तृव्यपदेशस्य सम्भवति, नापि श्रुतशास्त्रस्य जीवस्य, तस्य जीवेश्वरभेदभ्रान्तौ श्रुतिरेव मूलमिति परमनिःश्रेयसार्थिभिर्वेदान्तानामनुपादेयत्वप्रसङ्गः, स्वनिमित्तमपि भ्रान्तिं श्रुतिः स्वयमेवैक्योपदेशेन निवत्त्रयतीति चेत्, तथापि "प्रक्षालनाद्धि पङ्कस्य दूरादस्पर्शनं वरम्" इति न्यायादुवादेयत्वमेव स्यात् । कर्मकर्तृभावादिव्यपदेशस्य ईश्वरभ्रान्तिमूलत्वमपि घटते, व्पदेशवैघट्यात् ।
+
+तथा सति हि "एतमितः प्रेत्याभिसम्भवितास्मि" इति व्पदेशो न स्यात्, अपि तु इतः प्रेतैरभिसम्भाव्योऽहमित्येव स्यात् ।
+
+किञ्च भ्रमनिवृत्त्यर्थम् ईश्वरं प्रत्युपदेष्टव्यम्, न ह्यन्यस्य भ्रमे सत्यन्तं प्रत्युपदेष्टव्यम्, तथा च तत्त्वमसीत्युपदेशो न घटते, किन्तु त्वं जीवोऽसीत्येवं वक्तव्यम्, अतः श्रुतिषु कर्मकर्तृव्यपदेशो नेश्वरभ्रममूलः, यदि वेद एव भ्रान्तो व्यपदिशति तर्हि वेदस्य तत्त्वोपदेष्टृत्वं न स्यात्, भ्रान्तत्वात् ।
+
+पश्चात्प्रतिबुद्ध उपदिशतीति चेत् तदयुक्तम् स्वस्य भ्रमनिवृत्तेरन्येषां जीवेश्वरभ्रमाभावाच्चोपदेशवैयर्थ्यात् ।
+
+अन्येषां जीवेश्वरभेदभ्रान्त्यभावेऽपि जीवबहुत्वभ्रमनिवृत्त्यर्थमुपदेशः कार्य इति चेत् न; उपदेशवैघट्या देव । न हि तदानीं तत्त्वमसीत्युपदेशो घटते, किन्तु सर्वे जीवास्त्वमित्युपदेष्टव्यम् । न चैवमुपदेशो वेदान्तेषु क्वचिदपि दृश्यते । न च "अहं मनुरभवं सूर्वश्चाहं कक्षीवान् ऋषिरस्मि विप्रः" इत्याद्यनुसन्धानदर्शनात् तन्मूलभूत उपदेशः सर्वजीवैकत्वविषयोऽस्तीत्यभ्युपगन्तव्यम्, एकस्य जीवस्य "सिंहेन भूत्वा बहवो मयात्ताः" "व्याघ्रेण भूत्वा बहवो मयाऽत्ताः" इतिवत्कल्पभेदेनातीतस्वीयमनुसूर्यादिजन्मस्मरणपरत्वसम्भवात्तस्य वाक्यस्य । यतः शास्त्रेण विना शरीरिणां जीवेश्वरविभागप्रतीतिर्न सम्भवति, अत एव लोकसिद्धभेदो निषेधार्थं श्रुत्याऽनूद्य इत्येतन्निरस्तम् ।
+
+न चेश्वरस्यानुपेयत्वसम्भवात् जीवेश्वरभेदप्रत्ययस्य लोकसिद्धत्वसम्भव इति वाच्यम्, तर्कवश्यपुरुषानुमानस्य दूषितत्वात्, अनुमानसम्भवेऽपि भारूपत्वसत्यसङ्कल्पत्वमुक्तप्राप्यत्वादीनामनुमातुमशक्यत्वाच्च । कर्मकर्तृव्यपदेशोऽपि ह्युपास्यत्वादिनिबन्धनः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भ्रामयन् सर्व-भूतानि यन्त्रारूढानि मायया।
+</details>
+
+<details><summary>Translation</summary>
+
+driving round by his mysterious power all beings as if mounted on a machine;
+</details>
+
+<details><summary>मूलम्</summary>
+
+भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तमेव शरणं गच्छ (गी.१८-६१) इति शारीरम् उपासकं, परमात्मानं चोपास्यं स्मृतिर् दर्शयति॥ ६॥
+</details>
+
+<details><summary>Translation</summary>
+
+to him fly for refuge' (Bha. Gi. XV, 15, 19; XVIII, 61). These Smr̥ti-texts show the embodied soul to be the meditating subject, and the highest Self the object of meditation.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तमेव शरणं गच्छ (गी.१८-६१) इति शारीरमुपासकं, परमात्मानं चोपास्यं स्मृतिर्दर्शयति॥ ६॥
+</details>
+
+<details><summary>टीका</summary>
+
+तत्तत्फलविशेषार्थिनां कर्मकर्तृसापेणक्षोपाससिध्यर्थं जीवेश्वरभेदं श्रुतिः कल्पयतीति चेत्, तथा सति तत्त्वनिरूपणदशायाम् "अत्ता चराचरग्रहणात्" "अनुपपत्तेस्तु न शारीरः" इति जीवविलक्षणं वस्तु प्रतिज्ञाय कर्मकर्तृव्यपदेशस्य हेतुतयोपन्यासायोगात् ।
+
+कथमुपासनार्थमपरमार्थभेदव्यपदेशं विजानन् सूत्रकारस्तत्त्वार्थहेतुतया तं ब्रूयात् ? न ह्यतात्त्विकभेदः प्रतिज्ञातः, ब्रह्मजिज्ञासेत्युपक्रमविरोधात्, "सम्पत्तेरिति जैमिनिः" "प्रियशिरस्त्वाद्यप्राप्तिः" "आध्यानाय प्रयोजनाभावात्" इतिवत् जीवेश्वरभेदापारमार्थ्यविषयप्रतिज्ञान्तराभावाच्च । गरुडनरेन्द्रयोरिव वस्तुतो भिन्नयोः परावरात्मनोरैक्योपदेशस्यैपासनार्थत्वाश्रयणौचित्याच्च गरुडनरेन्द्रयोरिव भेदस्य काल्पनिकत्वाश्रयणमयुक्तम्, अतः श्रतिसूत्राणां काल्पनिकभेदविषयत्वमनुपपन्नम् ॥
+
+॥ अर्भकौकस्त्वात्तद्य्वपदेशाच्च नेतिचेन्न निचाय्यत्वादेवं व्योमवच्च ॥ अल्पायतनत्वमित्यादि - अणीयस्त्वाक्षेपकार्थव्यपदेशात् साक्षादणीयस्त्वव्यपदेशाच्चेत्यर्थः ।
+</details>
 
 ## हृदयाख्याल्पदेशस्थितेः जीवत्वज्ञापकताशङ्कापरिहारौ
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+३९. अर्भकौकस्त्वात्तद्व्यपदेशाच्च नेति चेन्न निचाय्यत्वा-देवं व्योमवच् च ॥ १-२-७ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+7\. Should it be said that (the passage does) not (refer to Brahman) on account of the smallness of the abode, and on account of the denotation of that (viz. minuteness of the being meditated on); we say no, because (Brahman) has thus to be meditated upon, and because (in the same passage) it is said to be like ether.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ३९. अर्भकौकस्त्वात्तद्व्यपदेशाच्च नेति चेन्न निचाय्यत्वादेवं व्योमवच्च ॥ १-२-७ ॥
+</details>
 
-अल्पायतनत्वमर्भकौकस्त्वम्, तद्व्यपदेशः – अल्पत्वव्यपदेशः। एष म आत्माऽन्तर्हृादये (छा.३.१४.३) इत्यणीयसि हृदयायतने स्थितत्वात् अणीयान् व्रीहेर्वा यवाद्वा (छां.३.१४.३) इत्यादिनाऽणीयस्त्वस्य स्वरूपेण व्यपदेशाच्च नायं परमात्मा, अपि तु जीव एव; सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः (मुण्ड.१.१.६) इत्यादिभिः परमात्मनोऽपरिच्छन्नत्व -अवगमात्, जीवस्य चाराग्रमात्रत्वव्यपदेशादिति चेत् –
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैतदेवम्, परमात्मैव ह्यणीयानित्येवं निचाय्यत्वेन व्यपदिश्यते; एवं निचाय्यत्वेन – एवं द्रष्टव्यत्वेन, एवमुपास्यत्वेनेति यावत्। न पुनरणीयस्त्वमेवास्य स्वरूपमिति; व्योमवच्चायं व्यपदिश्यते, स्वाभाविकमहत्त्वं चात्रैव व्यपदिश्यते – ज्यायान् पृथिव्या ज्यायानन्तरिक्षाज्ज्यायान् दिवो ज्यायानेभ्यो लोकेभ्यः (छां.३.१४.१) इति। अत उपासनार्थमेवाल्पत्वव्यपदेशः। तथा हि –
+अल्पायतनत्वमर्भकौकस्त्वम्, तद्-व्यपदेशः – अल्पत्व-व्यपदेशः।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+अल्पायतनत्वमर्भकौकस्त्वम्, तद्व्यपदेशः – अल्पत्वव्यपदेशः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एष म आत्माऽन्तर्हृादये (छा.३.१४.३) इत्यणीयसि हृदयायतने स्थितत्वात् अणीयान् व्रीहेर् वा यवाद्वा (छां.३.१४.३) इत्यादिनाऽणीयस् त्वस्य स्वरूपेण व्यपदेशाच् च नायं परमात्मा, अपि तु जीव एव;
+</details>
+
+<details><summary>Translation</summary>
+
+It might be contended that, as the text 'he is my Self within the heart' declares the being meditated on to dwell within a minute abode, viz. the heart; and as moreover another text --'smaller than a grain of rice,' &c., declares it to be itself of minute size, that being cannot be the highest Self, but only the embodied soul.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एष म आत्माऽन्तर्हृादये (छा.३.१४.३) इत्यणीयसि हृदयायतने स्थितत्वात् अणीयान् व्रीहेर्वा यवाद्वा (छां.३.१४.३) इत्यादिनाऽणीयस्त्वस्य स्वरूपेण व्यपदेशाच्च नायं परमात्मा, अपि तु जीव एव;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-गतं सुसूक्ष्मं तद् अव्ययं यद् भूत-योनिं परिपश्यन्ति धीराः (मुण्ड.१.१.६) इत्य्-आदिभिः परमात्मनोऽपरिच्छन्नत्व -अवगमात्, जीवस्य चाराग्र-मात्रत्व-व्यपदेशाद् इति चेत् –
+</details>
+
+<details><summary>Translation</summary>
+
+For other passages speak of the highest Self as unlimited, and of the embodied soul as having the size of the point of a goad (cp. e.g. Mu. Up. I, 1, 6, and Śvet. Up. V, 8).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः (मुण्ड.१.१.६) इत्यादिभिः परमात्मनोऽपरिच्छन्नत्व -अवगमात्, जीवस्य चाराग्रमात्रत्वव्यपदेशादिति चेत् –
+</details>
+
+<details><summary>टीका</summary>
+
+परमात्मनस्तु वैधर्म्यमाह - सर्वगतमिति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैतदेवम्, परमात्मैव ह्यणीयानित्येवं निचाय्यत्वेन व्यपदिश्यते;
+</details>
+
+<details><summary>Translation</summary>
+
+--This objection the Sūtra rebuts by declaring that the highest Self is spoken of as such, i.e. minute, on account of its having to be meditated upon as such.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नैतदेवम्, परमात्मैव ह्यणीयानित्येवं निचाय्यत्वेन व्यपदिश्यते;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं निचाय्यत्वेन – एवं द्रष्टव्यत्वेन, एवमुपास्यत्वेनेति यावत्।
+</details>
+
+<!-- TRANSLATION-SKIPPED -->
+
+<details><summary>मूलम्</summary>
+
+एवं निचाय्यत्वेन – एवं द्रष्टव्यत्वेन, एवमुपास्यत्वेनेति यावत्।
+</details>
+
+<details><summary>टीका</summary>
+
+निचाय्यशब्दार्थमाह - द्रष्टव्यत्वेनेति ।
+
+"चायृ दर्शने" इति हि धातुः ।
+
+फलरूपदर्शनव्यावृत्त्यर्थमाह - उपास्यत्वेनेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न पुनरणीयस्त्वमेवास्य स्वरूपम् इति;
+</details>
+
+<details><summary>Translation</summary>
+
+Such minuteness does not, however, belong to its true nature;
+</details>
+
+<details><summary>मूलम्</summary>
+
+न पुनरणीयस्त्वमेवास्य स्वरूपमिति;
+</details>
+
+<details><summary>टीका</summary>
+
+तद्य्वावर्त्त्यमाह न पुनरिति ।
+
+तदुपपादकं सूत्रखण्डं व्याचष्टे - व्योमवदिति ।
+
+व्योमवद्द्रष्टव्यमित्युक्ते प्रतिज्ञामात्ररूपत्वात् प्रमाणाकाङ्क्षा भवति, व्यपदिश्यत इत्युक्ते प्रमाणमेव दर्शितं भवति, अतोऽधयाहारस्य तुल्यत्वेऽपि निराकाङ्क्षयोजना वरमित्यभिप्रायेण व्यपदिश्यत इतिपदं पूरकतयाऽध्याहृत्यं व्याख्यातम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्योमवच् चायं व्यपदिश्यते, स्वाभाविक-महत्त्वं चात्रैव व्यपदिश्यते – ज्यायान् पृथिव्या ज्यायानन्तरिक्षाज्ज्यायान् दिवो ज्यायान् एभ्यो लोकेभ्यः (छां.३.१४.१) इति।
+</details>
+
+<details><summary>Translation</summary>
+
+for in the same section it is distinctly declared to be infinite like ether --'greater than the earth, greater than the sky, greater than heaven, greater than all these worlds' (Cḥ. Up. III, 14, 3).
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्योमवच्चायं व्यपदिश्यते, स्वाभाविकमहत्त्वं चात्रैव व्यपदिश्यते – ज्यायान् पृथिव्या ज्यायानन्तरिक्षाज्ज्यायान् दिवो ज्यायानेभ्यो लोकेभ्यः (छां.३.१४.१) इति।
+</details>
+
+<details><summary>टीका</summary>
+
+व्योमवच्छब्दफलितं स्वाभाविकमिति ।
+
+ज्यायानिति - वृद्धशब्दस्य ज्यादेशे ज्यायश्शब्दनिष्पत्तिः ।
+
+"ज्यच वृद्धस्य च" इति हि सूत्रम् ।
+
+नतु "प्रशस्यस्य श्रः" इति तन्निष्पत्तिः । वृद्धिश्च परिमाणाधिक्यमिह विवक्षितम्, न तु कालाधिक्यम्, अत्राणीयस्त्वप्रतिसम्बन्ध्याकारपरत्वाज्ज्यायश्शब्दस्य ।
+
+अतः उपासनार्थमेवेति - अतः- पृथिव्यादिभ्योऽपि ज्यायस्त्वनवणादित्यर्थः । महत्तयाऽवगतस्य वस्तुन उपाध्युक्तिपूर्वकमुक्तं परिमाणमौपाधिकम्, असम्भावितोपाधिकं परिमाणं स्वाभाविकमितिन्याय इह शिक्षितो भवति । अत्र हि हृदयमल्पत्वोपाधिभूतं श्रुतम्, न तु ज्यायस्त्वोपाधिः श्रुतः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत उपासनार्थम् एवाल्पत्व-व्यपदेशः।
+</details>
+
+<details><summary>Translation</summary>
+
+This shows that the designation of the highest Self as minute is for the purpose of meditation only.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत उपासनार्थमेवाल्पत्वव्यपदेशः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि –
+</details>
+
+<details><summary>Translation</summary>
+
+--The connexion of the whole section then is as follows.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा हि –
+</details>
+
+<details><summary>टीका</summary>
+
+पृथिव्यादयस्तदुपाधय इति नाशङ्कनीयम्, ततोऽपि ज्यायस्त्वश्रवणात्, न हि ततेऽधिकपरिमाणत्वं तदुपाधिकं भवितुमर्हति, अणीयस्त्वस्योपासनार्थत्वमुपासनप्रकरणाविच्छेदेन स्वाभाविकमहत्त्वप्रपञ्चनेनोपपादयति - तथा हीति ।
+</details>
 
 ## अल्पायतनत्वाद्युपदेशस्य उपासनार्थत्वदृढीकरणम्
 
-सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत (मुण्ड.३.१४.४) इति सर्वोत्पत्तिप्रलयकारणत्वेन सर्वस्याऽत्मतया अनुप्रवेशकृतजीवयितृत्वेन च सर्वात्मकं ब्रह्मोपासीतेत्युपासनं विधाय अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्लोङ्के पुरुषो भवति तथेतः प्रेत्य भवति (छां.३.१४.४) इति यथोपासनं प्राप्यसिद्धिमभिधाय स क्रतुं कुर्वीत इति गुणविधानार्थमुपासनमनूद्य (छां.३.१४.४) मनोमयः प्राणशरीरो भारूपस्सत्यसङ्कल्प आकाशात्मा सर्वकर्मा सर्वकामस्सर्वगन्धरस्सर्वरसः सर्वमिदमभ्यात्तोऽवाक्यनादरः (छां.३.१४.४) इति जगदैश्वर्यविशिष्टस्य स्वरूपगुणांश्चोपादेयान् प्रतिपाद्य एष म आत्माऽन्तर्हृादयेऽणीयान् व्रीहेर्वा यवाद्वा सर्षपाद्वा श्यामाकाद्वा श्यामाक-तण्डुलाद्वा (छां.३.१४.४) इत्युपासकस्य हृदयेऽणीयस्त्वेन तदात्मतयोपास्यस्य परमपुरुषस्योपासनार्थमवस्थानमुक्त्वा एष म आत्माऽन्तर्हृादये ज्यायान् पृथिव्या ज्यायानन्तरक्षाज्ज्यायान्दिवो ज्यायानेभ्योलोकेभ्यस्सर्वकर्मा सर्वकामस्सर्वरसस्सर्वमिदम् अभ्यात्तः अवाक्यनादरः (छां.३.१४.१,४) इत्यन्तर्हृादयेऽवस्थितस्य उपास्यमानस्य प्राप्याकारं निर्दिश्य एष म आत्माऽन्तर्हादय एतद्ब्रह्म इत्येवं भूतं परं ब्रह्म परमकारुण्येनास्मदुज्जिजीवयिषया अस्मद्धृदये सन्निहितमितीदमनुसन्धानं विधाय एतमितः प्रेत्याभिसम्भवितास्मि (छां.३.१४.४) इति यथोपासनं प्राप्तिनिश्चयानुसन्धानं च विधाय इति यस्य स्यादद्धा न विचिकत्साऽस्ति (छां.३.१४.४) इत्येवंविधप्राप्यप्राप्तिनिश्चयोपेतस्योपासकस्य प्राप्तौ न संशयोऽस्तीत्युपसंहृतम्। अत उपासनार्थम् अर्भकौकस्त्वमणीयस्त्वं च॥७॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वं खल्विदं ब्रह्म तज्-जलान् इति शान्त उपासीत (मुण्ड.३.१४.४) इति सर्वोत्पत्ति-प्रलय-कारणत्वेन सर्वस्याऽत्मतया अनुप्रवेशकृतजीवयितृत्वेन च सर्वात्मकं ब्रह्मोपासीतेत्युपासनं विधाय अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्लोङ्के पुरुषो भवति तथेतः प्रेत्य भवति (छां.३.१४.४) इति यथोपासनं प्राप्य-सिद्धिम् अभिधाय स क्रतुं कुर्वीत इति गुण-विधान् आर्थम् उपासनम् अनूद्य (छां.३.१४.४) मनोमयः प्राणशरीरो भारूपस्सत्य-सङ्कल्प आकाशात्मा सर्व-कर्मा सर्वकामस्सर्वगन्धरस्सर्वरसः सर्वमिदमभ्यात्तोऽवाक्य-नादरः (छां.३.१४.४) इति जगदैश्वर्य-विशिष्टस्य स्वरूपगुणांश्चोपादेयान् प्रतिपाद्य एष म आत्माऽन्तर्हृादयेऽणीयान् व्रीहेर् वा यवाद्वा सर्षपाद्वा श्यामाकाद्वा श्यामाक-तण्डुलाद्वा (छां.३.१४.४) इत्य् उपासकस्य हृदयेऽणीयस्त्वेन तदात्मतयोपास्यस्य परमपुरुषस्योपासनार्थम् अवस्थानम् उक्त्वा एष म आत्माऽन्तर्हृादये ज्यायान् पृथिव्या ज्यायानन्तरक्षाज्ज्यायान्दिवो ज्यायानेभ्योलोकेभ्यस्सर्व-कर्मा सर्वकामस्सर्वरसस्सर्वमिदम् अभ्य्-आत्तः अवाक्य-नादरः (छां.३.१४.१,४) इत्यन्तर्हृादयेऽवस्थितस्य उपास्यमानस्य प्राप्य् आकारं निर्दिश्य एष म आत्माऽन्तर्हादय एतद् ब्रह्म इत्य्-एवं भूतं परं ब्रह्म परमकारुण्येनास्मदुज्जिजीवयिषया अस्मद्-धृदये सन्निहितम् इतीदम् अनुसन्धानं विधाय एतमितः प्रेत्याभिसम्भवितास्मि (छां.३.१४.४) इति यथोपासनं प्राप्ति-निश्चयानुसन्धानं च विधाय इति यस्य स्याद् अद्धा न विचिकत्साऽस्ति (छां.३.१४.४) इत्येवंविधप्राप्यप्राप्ति-निश्चयोपेतस्योपासकस्य प्राप्तौ न संशयोऽस्तीत्य् उपसंहृतम्।
+</details>
+
+<details><summary>Translation</summary>
+
+The clause 'All this is Brahman; let a man meditate with calm mind on this world as beginning, ending, and breathing in Brahman,' enjoins meditation on Brahman as being the Self of all, in so far as it is the cause of the origin and destruction of all, and entering into all beings as their soul gives life to them. The next clause, 'Man is made of thought; according as his thought is in this world, so will he be when he has departed this life,' declares the attainment of the desired object to depend on the nature of the meditation; and the following clause, 'Let him therefore form the following thought,' thereupon repeats the injunction with a view to the declaration of details. The clause 'He who consists of mind,' &c., up to 'who is never surprised,' then states the nature and qualities, of the being to be meditated upon, which are to be comprised in the meditation. Next, the clause 'He is my Self,' up to 'the kernel of a canary seed, 'declares that the highest Person, for the purpose of meditation, abides in the heart of the meditating devotee; representing it as being itself minute, since the heart is minute. After this the clause 'He also is my Self,' up to 'who is never surprised,' describes those aspects of the being meditated upon as within the heart, which are to be attained by the devotee. Next, the words 'this my Self within the heart is that Brahman' enjoins the reflection that the highest Brahman, as described before, is, owing to its supreme kindness, present in our hearts in order thereby to refresh and inspirit us. Then the clause 'When I shall have departed from hence I shall obtain him' suggests the idea that there is a certainty of obtaining him on the basis of devout meditation; and finally the clause 'He who has this faith has no doubt' declares that the devotee who is firmly convinced of his aim being attainable in the way described, will attain it beyond any doubt.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत (मुण्ड.३.१४.४) इति सर्वोत्पत्तिप्रलयकारणत्वेन सर्वस्याऽत्मतया अनुप्रवेशकृतजीवयितृत्वेन च सर्वात्मकं ब्रह्मोपासीतेत्युपासनं विधाय अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्लोङ्के पुरुषो भवति तथेतः प्रेत्य भवति (छां.३.१४.४) इति यथोपासनं प्राप्यसिद्धिमभिधाय स क्रतुं कुर्वीत इति गुणविधानार्थमुपासनमनूद्य (छां.३.१४.४) मनोमयः प्राणशरीरो भारूपस्सत्यसङ्कल्प आकाशात्मा सर्वकर्मा सर्वकामस्सर्वगन्धरस्सर्वरसः सर्वमिदमभ्यात्तोऽवाक्यनादरः (छां.३.१४.४) इति जगदैश्वर्यविशिष्टस्य स्वरूपगुणांश्चोपादेयान् प्रतिपाद्य एष म आत्माऽन्तर्हृादयेऽणीयान् व्रीहेर्वा यवाद्वा सर्षपाद्वा श्यामाकाद्वा श्यामाक-तण्डुलाद्वा (छां.३.१४.४) इत्युपासकस्य हृदयेऽणीयस्त्वेन तदात्मतयोपास्यस्य परमपुरुषस्योपासनार्थमवस्थानमुक्त्वा एष म आत्माऽन्तर्हृादये ज्यायान् पृथिव्या ज्यायानन्तरक्षाज्ज्यायान्दिवो ज्यायानेभ्योलोकेभ्यस्सर्वकर्मा सर्वकामस्सर्वरसस्सर्वमिदम् अभ्यात्तः अवाक्यनादरः (छां.३.१४.१,४) इत्यन्तर्हृादयेऽवस्थितस्य उपास्यमानस्य प्राप्याकारं निर्दिश्य एष म आत्माऽन्तर्हादय एतद्ब्रह्म इत्येवं भूतं परं ब्रह्म परमकारुण्येनास्मदुज्जिजीवयिषया अस्मद्धृदये सन्निहितमितीदमनुसन्धानं विधाय एतमितः प्रेत्याभिसम्भवितास्मि (छां.३.१४.४) इति यथोपासनं प्राप्तिनिश्चयानुसन्धानं च विधाय इति यस्य स्यादद्धा न विचिकत्साऽस्ति (छां.३.१४.४) इत्येवंविधप्राप्यप्राप्तिनिश्चयोपेतस्योपासकस्य प्राप्तौ न संशयोऽस्तीत्युपसंहृतम्।
+</details>
+
+<details><summary>टीका</summary>
+
+सर्वात्मकं ब्रह्मोपासीतेति - सर्वात्मकत्वं नोपस्यगुणतयोक्तम्, तस्य वाक्यान्तरस्थत्वात्, अतो लक्षणतो धर्मिनिर्देशः । तत्प्रयोजनञ्च शान्तिरूपाधिकारिविशेषणसिद्धिः, भगवदात्मकत्वे हि शास्त्रतोऽवगते रागद्वेषाद्यभावरूपा शमादिनिष्पत्तिः स्यात्, यथोच्यते "सर्वभूतात्मके तात जगन्नाथे जगन्मये ।
+
+परमात्मनि गोविन्दे मित्रामित्रकथा कुतः" इति ।
+
+शास्त्रजन्यज्ञानपूर्वकशमादिनिष्पाद्यमेवोपासनं श्रुतम् "तस्मादेवयविच्छान्तो दान्त उपरतस्तितिक्षुस्समाहितो भूत्वात्मन्येवात्मानं पश्येत्" इति । तस्मान्नोपासननिष्पाद्यः शमः, किन्तु शमनिष्पाद्यमुपासनम् ।
+
+ब्रह्मात्मकत्वं सर्वस्य शास्त्रादवगम्य रागद्वेषादिरहितस्सन् वक्ष्यमाणगुणकं ब्रह्मोपासीतेत्यर्थः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत उपासनार्थम् अर्भकौकस्त्वमणीयस्त्वं च॥७॥
+</details>
+
+<details><summary>Translation</summary>
+
+--From all this it appears that the 'limitation of abode,' and the 'minuteness' ascribed to Brahman, are merely for the purpose of meditation.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत उपासनार्थम् अर्भकौकस्त्वमणीयस्त्वं च॥७॥
+</details>
 
 ## ब्रह्मणः जीवशरीरान्तर्वर्तित्वे सुखदुःखोपभोजशङ्कापरिहारौ
 
-४०. सम्भोगप्राप्तिरिति चेन्न वैशेष्यात् ॥ १-२-८ ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीवस्येव परस्यापि ब्रह्मणश्शरीरान्तर्वर्तित्वमभ्युपगतं चेत् – तद्वदेव शरीरसम्बन्धप्रयुक्त-सुखदुःखोपभोगप्राप्तिरिति चेत् – तन्न, हेतुवैशेष्यात् – न हि शरीरान्तर्वर्तित्वमेव सुखदुःखोप-भोगहेतुः; अपि तु पुण्यपापरूपकर्मपरवशत्वम्; तत्त्वपहतपाप्मनः परमात्मनो न सम्भवति। तथा च श्रुतिः तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति (मुण्ड.३.११) इति ॥८॥
+४०. सम्भोग-प्राप्तिरिति चेन्न वैशेष्यात् ॥ १-२-८ ॥
+</details>
+
+<details><summary>Translation</summary>
+
+8\. Should it be said that there is attainment of fruition (of pleasure and pain); we reply, not so, on account of difference.
+</details>
+
+<details><summary>मूलम्</summary>
+
+४०. सम्भोगप्राप्तिरिति चेन्न वैशेष्यात् ॥ १-२-८ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवस्येव परस्यापि ब्रह्मणश्शरीरान्तर्वर्तित्वमभ्युपगतं चेत् – तद्वद् एव शरीरसम्बन्धप्रयुक्त-सुखदुःखोपभोगप्राप्तिरिति चेत् – तन्न, हेतुवै-शेष्यात् – न हि शरीरान्तर्वर्तित्वमेव सुखदुःखोप-भोगहेतुः;
+</details>
+
+<details><summary>Translation</summary>
+
+But, if the highest Brahman is assumed to dwell within bodies, like the individual soul, it follows that, like the latter, it is subject to the experience of pleasure and pain, such experience springing from connexion with bodies! --Of this objection the Sūtra disposes by remarking 'not so, on account of difference (of reason).' For what is the cause of experiences, pleasurable or painful, is not the mere dwelling within a body,
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवस्येव परस्यापि ब्रह्मणश्शरीरान्तर्वर्तित्वमभ्युपगतं चेत् – तद्वदेव शरीरसम्बन्धप्रयुक्त-सुखदुःखोपभोगप्राप्तिरिति चेत् – तन्न, हेतुवैशेष्यात् – न हि शरीरान्तर्वर्तित्वमेव सुखदुःखोप-भोगहेतुः;
+</details>
+
+<details><summary>टीका</summary>
+
+सर्वात्मकं ब्रह्मेत्यनेन उपक्रमस्याणीयस्त्वविरोधित्वं दर्शितम् । प्रकरणाविच्छेदद्योतनाय अथ खल्वित्याद्युच्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि तु पुण्यपापरूपकर्मपरवशत्वम्;
+</details>
+
+<details><summary>Translation</summary>
+
+but rather the subjection to the influence of good and evil deeds;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि तु पुण्यपापरूपकर्मपरवशत्वम्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्त्व् अपहत-पाप्मनः परमात्मनो न सम्भवति।
+</details>
+
+<details><summary>Translation</summary>
+
+and such subjection is impossible in the case of the highest Self to which all evil is foreign.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्त्वपहतपाप्मनः परमात्मनो न सम्भवति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च श्रुतिः तयोर् अन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति (मुण्ड.३.११) इति ॥८॥
+</details>
+
+<details><summary>Translation</summary>
+
+Compare the scriptural text 'One of the two eats the sweet fruit, the other one looks on without eating' (Mu. Up. III, 1, 1).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा च श्रुतिः तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति (मुण्ड.३.११) इति ॥८॥
+</details>
+
+<details><summary>टीका</summary>
+
+उपासनमनूद्येति - यथा "अग्निहोत्रं जुहोति" इति विहितहोमः "दध्ना जुहोति" इत्यत्र दध्नो होमसाधनत्वविधानार्थं जुहोतिपदेनानूद्यते तथेति भावः ।
+
+जगदैश्वर्यविशिष्टस्येत्यनेन चज्जलानित्यस्यानुवादः । स्वरूपगुणान्- अद्वारकगुणान् । न हि ते प्रकृतिपुरुषद्वारकाः ।
+
+निचाय्यत्वादित्यस्यार्थमाह - एवम्भूतमिति ।
+
+सर्वकर्मत्वादिगुणानां द्विरुकितरुपास्यतया प्राप्यतया च, हृदि स्थितेर्द्विरुक्तिर्हृदयस्थितिज्ञापनार्थं सौलभ्यानुसन्धानार्थं चेत्यर्थः । एवमत्र पूर्वत्रोत्तरत्र च विभुत्वाभिधानादर्भकौकस्त्वस्वरूपोपाधिकथनाच्च मध्यगतमल्पत्वमौपाधिकमित्ययमर्थ उक्तो भवति ॥
+
+॥ सम्भोगप्राप्तिरितिचेन्न वैशेष्यात् ॥ शरीरान्तर्वतिर्त्वम्- हृदयवर्तित्वम् । वैशेष्यम्- विशेषः । भोगप्रसञ्जने सुखग्रहणं सांसारिकसुखस्यादिमध्यावसानेषु दुःखमिश्रत्वेनापुरुषार्थपक्षनिक्षेपनिबन्धनम् । तथा च श्रुतिः- शरीरान्तर्वर्वित्वेऽपि फलसम्बन्धासम्बन्धावाहेत्यर्थः ।
+
+अधिकरणार्थनिगमनमर्थसिद्धम्, अस्मिन् सूत्रे परस्मादन्यस्य जीवस्यानभ्युपगमे परस्य कर्मफलभोक्तृत्वप्रसङ्ग इति परिचोद्यपरिहतर्ृत्वाभिमानेन कैश्चिदेवमुक्तम्; आत्मान्तराभावो यद्यनवगतः तदा तन्निबन्धनचोद्यानुदयः । अवगतत्वे किं शास्त्रादवगमः, उतास्मद्वाक्यात् ? प्रथमे शास्त्रसिद्धात्मान्तराभाववत् परस्य भोक्तृत्वाभावोऽपि शास्त्रसिद्धतया स्वीकार्यः, न ह्यर्द्धजरतीयं न्यायम् ।
+
+द्वितीये तु भ्रान्तिसिद्धगगनतलमलिनताविकल्पो गगनमिवापारमार्थिकभोक्तृत्वं परमार्थमद्वितीयं परमात्मानं न स्पृशतीति । तत्र प्रथमं शिरोऽनभ्युपगमनिरस्तम् ।
+
+शास्त्रं जीवपरयोरनन्यत्वं प्रतिपादयतीति प्रतिवादिवाक्यादात्मान्तराभावमवगम्य तथा सति परस्य जीववद्भोक्तृत्वप्रसङ्गात् अयोग्यं जीवपरैक्यं शास्त्रं न प्रतिपादयितुं शक्नोतीति हि चोदयितुरभिप्रायः, अतो नार्द्धजरतीयम् ।
+
+अपरमार्थत्वान्न स्पृशतीति वचनव्यक्तिर्दूषणस्य दुष्परिहारतामवगमयति, जीववदुपभोक्तृत्वं हि चोदयित्रा आपादितम् ।
+
+जीवस्य च भोक्तृत्वं त्वन्मते मिथ्या, अतो गगने मालिन्यवत् परस्मिन् कल्पितं भोक्तृत्वं न तं स्पृशतीति वदता जीववत् भोक्तृत्वमभ्युपगतं स्यात्, न चांशभेदेन भोगव्यवस्था, वस्तुनो निरंशत्वात् सांशत्वेऽप्युपाधीनाङ्गत्वरतया घटे चलति नभस्यल्पत्ववत्सर्वप्रदेशैरौपाधिकदोषान्वयप्रसङ्गात्, अतः परपक्षे भोक्तृत्वप्रसङ्गपरिहारोऽनुपपन्नः । सर्वत्रेतिसूत्रं स्ववाक्यस्थहेतुपरम् । तदनन्तरवाक्यस्थहेतुपरं द्वितीयम् । तद्य्वतिरेकपरं तृतीयम्, उपसंहारस्थहेतुपरं चतुर्थम् । तत्र शङ्काविशेषपरिहारपरमनन्तरसूत्रद्वयम् ।
+
+सूत्रद्वयोक्तहृदयावस्थानप्रयुक्तचोद्यपरिहारपरं तदनन्तरसूत्रद्वयमिति सूत्रसङ्गतिः ।
+
+अथ उत्तराधिकरणसङ्गतिमाह - यदीति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**इति श्रीशारीरकमीमांसाभाष्ये सर्वत्र-प्रसिद्ध्य् अधिकरणम्॥१॥**
+</details>
+
+<details><summary>Translation</summary>
+
+--Here finishes the adhikaraṇa of 'what is known everywhere.'
+</details>
+
+<details><summary>मूलम्</summary>
 
 **इति श्रीशारीरकमीमांसाभाष्ये सर्वत्रप्रसिद्ध्यधिकरणम्॥१॥**
+</details>
 
+<details><summary>Appendix</summary>
+
+- 140 sentences from 140 paragraphs interleaved 
+- 0 Translation - Notes blocks; 13 skipped (no counterpart found).
+- Scope: translation stream scoped by end_after 'Here .+? the adhikaraṇa' to words [0,4096) of 12635.
+position tags advanced in: _index.md, 01.md, 02.md, 03.md, 04.md, 05.md, 06.md, 07.md, 08.md, 13.md, 14.md, 15.md, 16.md, 17.md, 18.md, 19.md, 20.md, 21.md, 22.md, 23.md, 24.md, 25.md, 26.md, 27.md, 28.md, 29.md, 30.md, 31.md, 32.md, 33.md.
+</details>
 
