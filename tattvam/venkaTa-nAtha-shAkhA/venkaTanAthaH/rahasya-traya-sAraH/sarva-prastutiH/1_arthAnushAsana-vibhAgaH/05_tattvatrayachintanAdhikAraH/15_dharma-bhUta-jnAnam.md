@@ -90,7 +90,7 @@ of revealing or disclosing objects (vishayitva).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धर्मिय् आनव् आत्म--स्व-रूपत्तुक्कु **प्रत्यक्त्वम्** एऱ्ऱम्+++(=अधिकम्)+++.
+धर्मिय् आऩव् आत्म--स्व-रूपत्तुक्कु **प्रत्यक्त्वम्** एऱ्ऱम्+++(=अधिकम्)+++.
 </details>
 
 <details><summary>English</summary>
@@ -107,7 +107,7 @@ is subjectiveness or inwardness (pratyaktva).
 
 <details><summary>मूलम्</summary>
 
-धर्मियानवात्मस्वरूपत्तुक्कु प्रत्यक्त्वम् एऱ्ऱम्.
+धर्मियाऩवात्मस्वरूपत्तुक्कु प्रत्यक्त्वम् एऱ्ऱम्.
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>

@@ -141,7 +141,7 @@ Continuancia (sthiti) significa continuar la cosa u objeto en el tiempo.
 
 <details><summary>मूलम्</summary>
 
-स्थितियावदु इदिनुडैय कालान्तरानुवृत्ति.
+स्थितियावदु इदिऩुडैय कालान्तरानुवृत्ति.
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>

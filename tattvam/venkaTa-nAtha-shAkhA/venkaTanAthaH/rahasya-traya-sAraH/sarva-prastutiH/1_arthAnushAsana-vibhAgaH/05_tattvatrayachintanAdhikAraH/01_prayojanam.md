@@ -161,7 +161,7 @@ porque estos **son** grandes obstáculosa mokṣa.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्तै निनैत्तु  
+इत्तै निऩैत्तु  
 भोक्तृ-भोग्य-नियन्तृ-रूपत्ताले  
 शास्त्रङ्गळिले तत्व-विवेकम् पण्णुगिऱदु.
 </details>
@@ -182,7 +182,7 @@ y el gobernante que los controla y dirige los dirige.
 
 <details><summary>मूलम्</summary>
 
-इत्तै निनैत्तु भोक्तृभोग्य-नियन्तृरूपत्ताले शास्त्रङ्गळिले तत्वविवेकम् पण्णुगिऱदु.
+इत्तै निऩैत्तु भोक्तृभोग्य-नियन्तृरूपत्ताले शास्त्रङ्गळिले तत्वविवेकम् पण्णुगिऱदु.
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
