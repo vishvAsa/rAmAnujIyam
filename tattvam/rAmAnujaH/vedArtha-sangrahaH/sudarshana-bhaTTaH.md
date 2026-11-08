@@ -1,6 +1,6 @@
-
++++
 title = "सुदर्शन-भट्टः"
-
++++
 
 Source: [TW](https://archive.org/details/vedartha-sangraha-with-sudarshana-bhattas-tatparya-deepika/page/n107/mode/2up)
 
