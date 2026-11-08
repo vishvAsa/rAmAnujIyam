@@ -13,7 +13,7 @@ Up to AS06, see [elsewhere](/rAmAnujIyam/paramparA/venkaTa-nAtha-shAkhA/ahobila-
 - Chittanna Viraraghavacharyar
 - Velamur Rangapati Deshikan
 - Ranganatha Kalyanavaha
-- Sakshat Vedanta Ramanuja
+- ज्ञानवैराग्यानुष्ठानशेवधि Sakshat Vedanta Ramanuja
 - Thirukkudanthai Gopalarya Mahadesikan
 - Vazhuthur VedantaRamanuja Mahadesika
   - Andikkadu Swamy
