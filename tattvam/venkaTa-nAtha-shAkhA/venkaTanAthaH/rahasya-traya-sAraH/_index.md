@@ -22,7 +22,7 @@ unicode_script = "devanagari"
 - श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्धाभिषिक्तस्य  श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ सारबोधिनी 
   - [१](https://archive.org/details/PVir_shrimath-rahasya-traya-saara-part-1-by-shri-sarbodhini-2012-chennai-tamil-shri-nrisimgha-priya-) [२](https://archive.org/details/jXED_shrimath-rahasya-traya-saara-part-2-by-shri-sarbodhini-2013-chennai-tamil-shri-nrisimgha-priya-/page/114/mode/2up)
   - अत्र जटिल-वादाः संस्कृतेनैव केचित् प्रस्तुताः।
-  
+- नरसिंहाचार्यः। 
 
 ### अज्ञातभाषा
 
@@ -31,7 +31,7 @@ unicode_script = "devanagari"
 - शठमर्षण-श्रीशैल-श्रीनिवासः १७५५ सारविवचर्या??
 - अप्पगॊण्डाचार्यः १८०० - अर्थः
 - परकालसंयमीन्द्रः १९०३ - प्रकाशिकासङ्ग्रहः
-- श्रीकृष्ण-ब्रह्मतन्त्र-महादेशिकः १९१४ - व्याख्या
+- तूपुल्-वेङ्कटनाथः १९१४ - व्याख्या
 
 ### संस्कृतम्
 
