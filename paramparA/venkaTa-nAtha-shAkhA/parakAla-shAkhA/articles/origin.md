@@ -167,7 +167,7 @@ CC
 
 ವಿ. ವಿ. ಶ್ರೀನಿವಾಸನ್ 
 
-### SUCCESSION LIST 
+## SUCCESSION LIST 
 
 Sri Brahmatantra Parakala Mutt 
 
@@ -298,7 +298,7 @@ With the advent, to headship of the Mutt, of Śrī Periya Parakāla Swāmi, the 
 
 When he succeeded to the Asthanam of Brahmatantra Swatantra in 1677 A.D. in his twenty-second year, he brought to the Mutt the image of Sri Lakshmi Nārāyaṇa, his family God, with him, to be worshipped along with that of Śri Hayagrīva. In the course of his fateful journey to Mysore, after his travels in the north, Sri Periya Parakalar is [[14]] said to have been met by the Emperor Aurangzeb, who not only revered him for the pre-eminent position he had attained by his scholarship and rank of Royal Guru of Mysore, but also bestowed some special honours upon the Swami, such as those which were the exclusive privilege of the Moghul Sovereigns. 
 
-Śrī Periya Parakala Swami was the son of Śrī Srinivasa Desika, the great-grandson of the celebrated Appalachārya Swāmi of Ghānagiri (Penukonda), who had attained fame as the author of "Sara Prakāsika ". Śrī Srinivasa assumed Sannyasa and, having ascended the Gadi of Śrī Brahmatantra Swatantra at Thirupathi, assumed the name Śrī Varada Vedantha Yogindra. Śrī Srinivasa's son, Śri Thiruvenkatacharya, Kulaguru of Kempe Gowda III of Magadi (p. 16, Ann. Report, 1922, Mysore Archæological Department) assumed Sannyāsam from his father and having ascended the Gadi of the Brahmatantra Parakala Mutt at Thirupathi, assumed the name "Śrī Periya Parakāla Swāmi”. 
+Śrī Periya Parakala Swami was the son of Śrī Srinivasa Desika, the great-grandson of the celebrated Appalachārya Swāmi of Ghānagiri (Penukonda), who had attained fame as the author of "Sara Prakāsika ". Śrī Srinivasa assumed Sannyasa and, having ascended the Gadi of Śrī Brahmatantra Swatantra at Tirupathi, assumed the name Śrī Varada Vedantha Yogindra. Śrī Srinivasa's son, Śri Thiruvenkatacharya, Kulaguru of Kempe Gowda III of Magadi (p. 16, Ann. Report, 1922, Mysore Archæological Department) assumed Sannyāsam from his father and having ascended the Gadi of the Brahmatantra Parakala Mutt at Thirupathi, assumed the name "Śrī Periya Parakāla Swāmi”. 
 
 Among the works attributed to him, the most important are the following:- 
 
@@ -332,8 +332,10 @@ Amongst the works he wrote were:-
 
 (5) Parakala Vaibhava Prakāsika. 
 
+### Vedanta Brahmatantra Parakala Swami
 Śrī Srinivasa Parakāla Swāmi I, was followed in the Peetham by Sri Vedanta Brahmatantra Parakala Swami I. He was born in 1712 A.D. in Holavanahalli on the banks of the Jayamangala, and by his erudition, piety and the quiet and unassuming work which he had been performing in the small place, attracted the most learned men who resorted to him to acquire further knowledge and enlightenment. Having received the fourth Ashramam in A.D. 1759, he was raised to the succession to the Holy seat and filled it with distinction for twenty years. 
 
+### Srinivasa II
 His disciple Sri Srinivasa II, belonging to Thirunarāyaṇapuram (Melkote), born in 1705 A.D., 
 
 16 
@@ -440,15 +442,13 @@ The study of "Śrī Parakāla Guru Vijayam composed in his sixteenth year and de
 
 Lord Hayagriva. Born in A.D. 1839 in Amidela on the banks of the Pinākini as the second son of Śrī Thāthācharya, a scion of the renowned Ghanagiri (Penukonda) Appalacharya, the author of "Saraprakāsika ", a resident of Hosadurga, he was named Krishna after Śrī Srinivasa Brahmatantra Parakāla (whose name it was as a Grihastha) who had foretold of his birth as he once blessed the Swami's father. Before he was sixteen he had acquired such proficiency in Vyakaraṇa, Sahitya, Alankara and allied Sāstras that he was able to produce the "Parakāla Guru Vijaya," which won for him the title of "KaviSārvabhauma". After receiving Panchasamskāram from Śrī Srinivasa Brahmatantra, he was blessed with the gift of Śrī Hayagriva Mantram from the great Swami on the banks of the Kapila when he was just sixteen. Having been blessed with the teaching of Śrī Bhāshya and other Vedantha Granthas by that illustrious Acharya, he was enjoined to assume the Grihastha Asram and proceed to the Samasthānam of Anegundi at the invitation of the Ruler Śrī Thirumalaraya, offered through Śrī Srinivasa Brahmatantra Swami. There, at the former's request, he composed "Srirangarāja Vilāsam" as a tribute to the Ruler's family God Śrī Ranganatha. From there he proceeded to Gadwal Samasthānam at the invitation of Śrī Rāmabhoopāla, the Raja, and at his request wrote the Champu "Karthikothsava Deepika " as a tribute to Sri Kesava Swami, the Raja's family God. The Raja of Atmakur, Mukkara Śrī Seetharama Bhoopala, invited Śrī Krishnamacharya [[39]] Kavisarvabhauma to his Samasthānam and begged him to compose a work to be dedicated to Śrī Srinivasa, his family God. The result was the Champu of "Sri Srinivasa Vilāsam". This visit to Atmakur was followed by the visit to Vanaparthi Samasthānam, whose Rāja Śrī Rameshwara Rao had several works composed by the poet among which was Chapeṭāhati Stuti". At the Rāni Śrī Sankaramba's special request, the poet composed in nine hours on the same day at a stretch "Uttara Ranga Mahatmyam " and "Śrī Rameshwara Vijayam". Continuing his journey to Jataprole Kolhapur, he was received in State by the Rāja Srī Venkatanatha Rao; and implored by him, he produced in one night "Śri Nrisimha Vilāsam" and in another night "Madana Gopāla Māhātmyam". Finally, at the request of the Raja of Vanaparthi, he settled down at the place and was engaged in the teachings of Darśanams to the large armies of scholars who resorted thither. 
 
-Visiting Mysore, once, Sri Krishnamacharya received Bharanyasa at the feet of Srinivāsa Desikendra Brahmatantra Parakala Swami, who was then at Srirangapatnam. During his stay there, he composed the "Uttara Parakāla Digvijayam," a Champoo constituting the history of Śrī Desikendra's Dharma Digvijayam" in the South at Thirupathi, Śrī Kanchi, Thiruvallur, Srirangam and other sacred places; as also the "Vedapādastava" and dedicated both the works to Śrī Swāmi. He was then blessed by the Swami who was pleased [[40]] to foretell that Śrī Krishnamacharya would one day certainly grace the Holy Peetham of Śrī Brahmatantra Parakala Mutt. 
+Visiting Mysore, once, Sri Krishnamacharya received Bharanyasa at the feet of Srinivāsa Desikendra Brahmatantra Parakala Swami, who was then at Srirangapatnam. During his stay there, he composed the "Uttara Parakāla Digvijayam," a Champoo constituting the history of Śrī Desikendra's Dharma Digvijayam" in the South at Thirupathi, Śrī Kanchi, Thiruval lur, Srirangam and other sacred places; as also the "Vedapādastava" and dedicated both the works to Śrī Swāmi. He was then blessed by the Swami who was pleased [[40]] to foretell that Śrī Krishnamacharya would one day certainly grace the Holy Peetham of Śrī Brahmatantra Parakala Mutt. 
 
 Returning to Vanaparthi, the Acharya expounded to the Rāņi, Sreemad Rāmāyaṇa, Sreemad Māhābhāratha, Śrī Vishnu Purāņam and Sreemad Bhagavatham. While he was engaged in giving lectures on the last he came to the possession of a commentary on it, written by Śri Veeraraghava Swāmi named "Munibhavaprakāsika", and after much industry and careful research got a copy made of it and had it published at the request of the Rāņi. By this time, Śrī Ranganatha Brahmatantra Parakāla Swāmi had been feeling old and sent for Śrī Krishnamacharya at Vanaparthi. On his arrival at Srirangapatnam, the Acharya offered his homage to the Swāmi along with the Granthas he had composed as humble dedications to Śrī Swāmi. He dwelt there a considerable time, engaged in the study of Darsanas, and when he proposed to take leave of him, Śri Ranganatha Brahmatantra was pleased to say that he would prove to be his own worthy successor to the Holy Peetham after him and having prepared the Acharya for the same by the gift of the necessary mantrams and other Upadeśams, he permitted him to return to Vanaparthi, at the same time enjoining on him to be prepared to go over to Mysore when the call would go forth to him from the Mahārāja. Accordingly, blessed by three predecessors of his, Śri Krishnamacharya ascended the Peetham on the demise of Śri Ranganatha Brahmatantra Parakāla [[41]] in A.D. 1886. (Salivahana 1807 Parthiva, Śrāvaṇa Bahula Dasami.) 
 
-### Sri Sri Krishna Brahmatantra Parakala Swami 
+#### Ascent
 
-It has been pointed out that owing to the help rendered to the famine-stricken citizens of Mysore during 1877, the Mutt had to incur an inordinately heavy debt. The first act of His Holiness Śrī Krishna Brahmatantra on ascending the Gādi was 
-
-the arrangement made by carefully planned economy to redeem the debt by a process of instalments. With the ungrudging co-operation of His Highness the Mahārāja Śrī Chamarajendra Wodeyar and Sir K. Seshadri Iyer, the Dewan, the Swami was able to put the finances of the institution on a stable footing. The occasion of the final redemption of the debt by His Highness the Mahārāja Śrī Krishnarajendra Wodeyar IV (25-6-1903) was marked by the visit of the Mahārāja to the Swami and the holding of the first of the series of the Vajra Dolotsavam inaugurated in His Highness's presence. The feast has since become an annual function like the Vairamudi Utsavam at Melkote, inaugurated by Śrī Rāmānuja. The Utsavam is held on the occasion of the reigning King's Birthday. The completion of the printing of the Śrī Bhāgavatha commentary by Śrī Veeraraghava was the next task accomplished by Sri Swāmi with the help of the Rāņi of Vanaparthi Samasthānam in 1893. 
+It has been pointed out that owing to the help rendered to the famine-stricken citizens of Mysore during 1877, the Mutt had to incur an inordinately heavy debt. The first act of His Holiness Śrī Krishna Brahmatantra on ascending the Gādi was the arrangement made by carefully planned economy to redeem the debt by a process of instalments. With the ungrudging co-operation of His Highness the Mahārāja Śrī Chamarajendra Wodeyar and Sir K. Seshadri Iyer, the Dewan, the Swami was able to put the finances of the institution on a stable footing. The occasion of the final redemption of the debt by His Highness the Mahārāja Śrī Krishnarajendra Wodeyar IV (25-6-1903) was marked by the visit of the Mahārāja to the Swami and the holding of the first of the series of the Vajra Dolotsavam inaugurated in His Highness's presence. The feast has since become an annual function like the Vairamudi Utsavam at Melkote, inaugurated by Śrī Rāmānuja. The Utsavam is held on the occasion of the reigning King's Birthday. The completion of the printing of the Śrī Bhāgavatha commentary by Śrī Veeraraghava was the next task accomplished by Sri Swāmi with the help of the Rāņi of Vanaparthi Samasthānam in 1893. 
 
 Śrī Seetha Vilāsa Devājammanni Mahārāṇiyavaru, consort of Śrī Krishṇarāja Wodeyar III, receive [[42]] Bharanyasam at the feet of Sri Krishna Brahmatantra Parakala Swāmi. In 1899 (Vikāri, Jyeshta) on the occasion of Śrī Swami's completing his 60th year, the Queen Mother Mahā Mātbrisri Śrī Mahārāṇi Vāṇivilāsa Sannidhana and Śrī Krishnarajendra Wodeyar IV invited Śrī Swāmi to the Palace and had the Śri Hayagrīva Aradhanam specially performed there. Śrī Mahārāņi Vāņivilāsa Sannidhāna, Śrī Mahārāja Śrī Krishnaraja Wodeyar IV and the former's brother Sri Sirdar Kantaraj Urs (later, Dewan) received the Chakrānkaņam and accompanying Mantropadeśam at the sacred hands of Śrī Krishna Brahmatantra Parakāla. 
 
@@ -474,11 +474,11 @@ A remarkable attestation of the Swami's Yogic power was the fact that quite rece
 
 46 
 
-In accordance with the wish expressed during his life-time by His Holiness Śrī Krishna Brahmatantra to His Highness Śrī Krishnaraja Wodeyar and Śrī Mahārāņi Vāņivilāsa, the latter, much against the Acharya's own wishes, raised Śrī Rangacharya Swāmi to the position of the Raja Guru of Mysore on 15th October 1925 as "Śri Lakshmi Hayagriva Divya Paduka Sevaka 
+In accordance with the wish expressed during his life-time by His Holiness Śrī Krishna Brahmatantra to His Highness Śrī Krishnaraja Wodeyar and Śrī Mahārāņi Vāņivilāsa, the latter, much against the Acharya's own wishes, raised Śrī Rangacharya Swāmi to the position of the Raja Guru of Mysore on 15th October 1925 as "Śri Lakshmi Hayagriva Divya Paduka Sevaka Sreemad Abhinava Sri Ranganatha Brahmatantra Parakala Swami
 
 [[55]] 
 
-### Sreemad Abhinava Sri Ranganatha Brahmatantra Parakala Swami, 
+## Abhinava Sri Ranganatha Brahmatantra Parakala Swami
 
 Born in Tharaṇa-Parthiva (1884) as the result of prayers to Śrī 
 
@@ -1776,9 +1776,8 @@ A copper-plate grant at Seringapatam, E.C. III Seringapatam 64 of A.D. 1722 of t
 
 "According to the Annals of the Mysore Royal Family, Part I, p. 163, the priest who came from Tirupati as the above King's Guru is 'Dodda Parakalaswāmi'. The Mutt tradition identifies him with Srinivasa Yati of the above copper-plate and with Parakalaswami, Guru of Sreenivāsa Parakalaswami, in the Belur Sannad." 
 
-SRI PARAKALASWAMI OR 
-
-PERIYA (DODDA) PARAKALASWAMI 
+## PERIYA (DODDA) PARAKALASWAMI
+SRI PARAKALASWAMI OR PERIYA (DODDA) PARAKALASWAMI 
 
 Sri Dodda Parakalaswami referred to above (in the Annals of the Royal Family) is intimately connected with Magadi (Bangalore District), to whose chiefs he, as well as his ancestors, had been family Gurus. 
 
