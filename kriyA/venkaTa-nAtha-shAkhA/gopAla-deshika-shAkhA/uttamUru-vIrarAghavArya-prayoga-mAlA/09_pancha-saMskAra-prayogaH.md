@@ -14,11 +14,16 @@ title = "पञ्चसंस्कारप्रयोगः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒स् सद॑से॥  
-नम॒स् सद॑स॒स्-पत॑ये॥    
-नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चक्षु॑षे॥    
-नमो॑ दि॒वे॥   
-नमᳶ॑ पृथि॒व्यै॥
+न᳓मस् स᳓दसे॥  
+न᳓मस् स᳓दसस्-प᳓तये॥    
+न᳓मस् स᳓खीनाम् पुरोगा᳓णाञ् च᳓क्षुषे॥    
+न᳓मो दिवे᳓॥   
+न᳓मᳶ पृथिव्यै᳓॥
+</details>
+
+<details><summary>Keith</summary>
+
+Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the friends who go before, homage to sky, homage to earth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -30,6 +35,11 @@ title = "पञ्चसंस्कारप्रयोगः"
 नमᳶ॑ पृथि॒व्यै
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सद॑से । नमः॑ । सद॑सः । पत॑ये । नमः॑ । सखी॑नाम् । पु॒रो॒गाणा॒मिति॑ पुरः-गाना॑म् । चक्षु॑षे । नमः॑ । दि॒वे । नमः॑ । पृ॒थि॒व्यै ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
@@ -39,10 +49,10 @@ title = "पञ्चसंस्कारप्रयोगः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
 
-सप्र॑थ स॒भाम् मे॑ गोपाय ।  
-ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
-तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
-सर्व॒म् आयु॒र् उपा॑सताम् ।
+स᳓प्रथ सभा᳓म् मे गोपाय ।  
+ये᳓ च स᳓भ्यास् सभास᳓दः ।  
+ता᳓निन्द्रिया᳓वतᳵ कुरु ।  
+स᳓र्वम् आ᳓युर् उ᳓पासताम् ।
 
 </div>  
 
@@ -271,7 +281,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/01_viShNornu_kaM.md">
 
-वि᳓ष्णोर् नु᳓कव्ँ वीर्या᳙णि **प्र᳓ वोचय्ँ**  
+वि᳓ष्णोर् नु᳓कव्ँ+++(=शीघ्रं)+++ वीर्या᳙णि **प्र᳓ वोचय्ँ**  
 यᳶ᳓ पा᳓र्थिवानि **विममे᳓** र᳓जाँसि।  
 यो᳓ **अ᳓स्कभायद्** उ᳓त्तरँ सध᳓स्थव्ँ +++(अन्तरिक्षम्)+++  
 **विचक्रमाण᳓स्** त्रेधो᳓रु-गायः᳓+++(=गीतः/‌गतिः)+++ ॥
@@ -509,23 +519,46 @@ title = "पञ्चसंस्कारप्रयोगः"
 इति जपित्वा,
 
 ### बन्धनम्
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05-09_agnirAyuShmAntsa_vanaspatibhirAyuShmAntena.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
+
 
 +++(हे यजमान)+++  
 अग्नि᳓र् आ᳓युष्मान् ,   
 स᳓ व᳓नस्-प᳓तिभिर् आ᳓युष्मान् ,   
 ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।
 
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
+
+
 सो᳓म आ᳓युष्मान् स᳓ ओ᳓षधीभिर् [आ᳓युष्मान् ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
+
 
 +++(हे यजमान)+++ यज्ञ᳓ [आ᳓युष्मान्], स᳓ द᳓क्षिणाभिर् आ᳓युष्मान्, [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
 
-+++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
-
-+++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
-ते᳓ऽमृ᳓तेन [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]  
 
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
+
+
++++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
+
+</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
+
+
++++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
+ते᳓ऽमृ᳓तेन [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
+
+
+</div>
+
 
 इति शिष्यहस्तम् अभिमन्त्र्य,  
 कूर्चेन तन्तुं प्रोक्ष्य,  
@@ -865,20 +898,6 @@ title = "पञ्चसंस्कारप्रयोगः"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090_sahasra-shIrShA">
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/_index.md">
-<details><summary>विश्वास-टिप्पनी</summary>
-
-अधः स्वीया दृष्टिर् लिख्यते, या सायणोक्त्या भिद्यते।
-
-- पुरुषस्य विभागौ उच्येते ऽत्र पुनःपुनः।
-- परिपूर्णपुरुषः = बहु-देव-पूर्णः सशरीरः। त एव देवाः साध्या ऋषयः, पूर्वे साध्या देवाः। 
-- तच्-छरीरम् = एकपाद् (विश्वानि भूतानि, ब्रह्मण्डम्) + त्रिपात् पुरुषो दिवि +++(=परमे व्योम्नि→ Platonic ideal realm/ वैकुण्ठे)+++ वर्तमानः।
-- एकपादो → विराट् (ब्रह्मण्डम् / छन्दः) + ऋतात्मकः पुरुषः।
-- ततः कालम् उपयुज्य, पुरुष-पशोर् विविध-धर्मान् छान्दसान् प्राकृतिकांश् च देवा (साध्या ऋषय इति प्रोक्ता) यज्ञेन +अजनयन्।
-- इयं सृष्टिः पुरुषमेधे ऽनुक्रियत इव। 
-- इमा हि मूल-भूताः १६ ऋचः  
-  पुरुषस्य १६ अङ्गानीव सूचयन्ति,  
-  यानि शतपथब्राह्मणे प्रयाजानुयाजादि-१६-यज्ञाङ्गैः सङ्गमितानि। 
-</details>
 </div>  
 
 ###### पुरुषस्वरूपम्
