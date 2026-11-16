@@ -8,7 +8,7 @@ title = "०६ आनन्दमयाधिकरणम्"
 चेतन-भोग्य-भूत-- -जड-रूप- -सत्त्व-रजस्-तमोमय-प्रधानाद् व्यावृत्तिर् उक्ता। 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 So far the Sūtras have declared that the Brahman which forms the object of enquiry is different from the non-intelligent Pradhāna, which is merely an object of fruition for intelligent beings. 
 </details>
@@ -25,7 +25,7 @@ So far the Sūtras have declared that the Brahman which forms the object of enqu
 निखिल-हेय-प्रत्यनीक-निरतिशयानन्दं ब्रह्मेति प्रतिपाद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 They now proceed to show that Brahman – which is antagonistic to all evil and constituted by supreme bliss – is different from the individual soul, which is subject to karman, whether that soul be in its purified state or in the impure state that is due to its immersion in the ocean of manifold and endless sufferings, springing from the soul's contact with Prakr̥ti (Pradhāna).
 </details>
@@ -41,7 +41,7 @@ They now proceed to show that Brahman – which is antagonistic to all evil and 
 १३. +++(ब्रह्म)+++ आनन्दमयो ऽभ्यासात् ॥ १-१-१३ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 13. The Self consisting of Bliss (is the highest Self) on account of multiplication.
 </details>
@@ -70,7 +70,7 @@ They now proceed to show that Brahman – which is antagonistic to all evil and 
 इति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We read in the text of the Taittirīyas, 'Different from this Self, which consists of Understanding, is the other inner Self which consists of bliss' (Taitt. Up. II, 5).-- Here the doubt arises whether the Self consisting of bliss be the highest Self, which is different from the inner Self subject to bondage and release, and termed 'jīva' (i.e. living self or individual soul), or whether it be that very inner Self, i.e. the jīva.
 </details>
@@ -91,7 +91,7 @@ We read in the text of the Taittirīyas, 'Different from this Self, which consis
 इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here the doubt arises whether the Self consisting of bliss be the highest Self, which is different from the inner Self subject to bondage and release, and termed 'jīva.' (i.e. living self or individual soul), or whether it be that very inner Self, i.e. the jīva.--
 </details>
@@ -113,7 +113,7 @@ Here the doubt arises whether the Self consisting of bliss be the highest Self, 
 किं युक्तम्? प्रत्यग्-आत्मेति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It is that inner Self, the Pūrvapakshin contends.
 </details>
@@ -135,7 +135,7 @@ It is that inner Self, the Pūrvapakshin contends.
 शारीरो हि शरीर-सम्बन्धी जीवात्मा॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For the text says 'of that this, i.e. the Self consisting of bliss, is the śārīra Self'; and śārīra means that which is joined to a body, in other words, the so-called jīva.--
 </details>
@@ -154,7 +154,7 @@ For the text says 'of that this, i.e. the Self consisting of bliss, is the śār
 "तद् एव जगत्-कारणम् आनन्दमय" इत्य् उपदिशति;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But, an objection is raised, the text enumerates the different Selfs, beginning with the Self consisting of [[bliss|food, etc.]], to the end that man may obtain the bliss of Brahman, which was, at the outset, stated to be the cause of the world (II, 1), and in the end teaches that the Self consisting of bliss is the cause of the world (II, 6).
 </details>
@@ -178,7 +178,7 @@ But, an objection is raised, the text enumerates the different Selfs, beginning 
 सर्व-ज्ञस् सर्वेश्वर इत्य् उक्तम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And that the cause of the world is the all-knowing Lord, since Scripture says of him that 'he thought,' we have already explained.--
 </details>
@@ -207,7 +207,7 @@ And that the cause of the world is the all-knowing Lord, since Scripture says of
 इति कारणतया निर्दिष्टस्य जीव-सामानाधिकरण्य-निर्देशात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That cause of the world, the Pūrvapakshin rejoins, is not different from the jīva; for in the text of the Cḥāndogyas that Being which first is described as the creator of the world is exhibited, in two passages, in co-ordination with the jīva ('having entered into them with that living Self' and 'Thou art that, O Śvetaketu').
 </details>
@@ -230,7 +230,7 @@ That cause of the world, the Pūrvapakshin rejoins, is not different from the j�
 यथा "सो ऽयम् देवदत्तः" इत्य् आदौ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And the purport of co-ordination is to express oneness of being, as when we say, 'This person here is that Devadatta we knew before.'
 </details>
@@ -247,7 +247,7 @@ And the purport of co-ordination is to express oneness of being, as when we say,
 ईक्षा-पूर्विका च सृष्टिश् चेतनस्य जीवस्योपपद्यत एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And creation preceded by thought can very well be ascribed to an intelligent jīva.
 </details>
@@ -271,7 +271,7 @@ And creation preceded by thought can very well be ascribed to an intelligent jī
 प्राप्यतया +उपदिश्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The connexion of the whole Taittirīya-text then is as follows. In the introductory clause, 'He who knows Brahman attains the Highest,' the true nature of the jīva, free from all connexion with matter, is referred to as something to be attained;
 </details>
@@ -298,7 +298,7 @@ The connexion of the whole Taittirīya-text then is as follows. In the introduct
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and of this nature a definition is given in the words, 'The True, knowledge, the Infinite is Brahman.'
 </details>
@@ -320,7 +320,7 @@ and of this nature a definition is given in the words, 'The True, knowledge, the
 तद्-रूप-प्राप्तिर् एव हि मोक्षः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The attainment of the jīva in this form is what constitutes Release,
 </details>
@@ -343,7 +343,7 @@ The attainment of the jīva in this form is what constitutes Release,
 > न ह वै स-शरीरस्य सतः प्रियाप्रिययोर् अपहतिर् अस्ति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'So long as he is in the body he cannot get free from pleasure and pain;
 </details>
@@ -367,7 +367,7 @@ The attainment of the jīva in this form is what constitutes Release,
 इति ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but when he is free from the body then neither pleasure nor pain touches him' (_Kh._ Up. VIII, 12, 1).
 </details>
@@ -386,7 +386,7 @@ but when he is free from the body then neither pleasure nor pain touches him' (_
 आनन्दमय इत्य् उपदिश्यते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This true nature of the Self, free from all avidyā, which the text begins by presenting as an object to be attained, is thereupon declared to be the Self consisting of bliss.
 </details>
@@ -417,7 +417,7 @@ This true nature of the Self, free from all avidyā, which the text begins by pr
 इत्य् उपदिश्यान्तरात्म-परम्परां समापयति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In order to lead up to this – just as a man points out to another the moon by first pointing out the branch of a tree near which the moon is to be seen – the text at first refers to the body ('Man consists of food'); next to the vital breath with its five modifications which is within the body and supports it; then to the manas within the vital breath; then to the buddhi within the manas--'the Self consisting of breath'; 'the Self consisting of mind' (manas); 'the Self consisting of understanding' (vijñāna). Having thus gradually led up to the jīva, the text finally points out the latter, which is the innermost of all ('Different from that is the inner Self which consists of bliss'), and thus completes the series of Selfs one inside the other.
 </details>
@@ -442,7 +442,7 @@ In order to lead up to this – just as a man points out to another the moon by 
 इति निश्चीयते॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We hence conclude that the Self consisting of bliss is that same jīva-self which was at the outset pointed out as the Brahman to be attained.--
 </details>
@@ -459,7 +459,7 @@ We hence conclude that the Self consisting of bliss is that same jīva-self whic
 > ननु च "ब्रह्म पुच्छं प्रतिष्ठा" (तै.आन.५.२) इत्य् आनन्दमयाद् अन्यद् ब्रह्मेति प्रतीयते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But the clause immediately following, 'Brahman is the tail, the support (of the Self of bliss'), indicates that Brahman is something different from the Self of bliss!
 </details>
@@ -482,7 +482,7 @@ But the clause immediately following, 'Brahman is the tail, the support (of the 
 शिरः-पक्ष-पुच्छ-रूपेण व्यपदिश्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --By no means (the Pūrvapakshin rejoins). Brahman is, owing to its different characteristics, there compared to an animal body, and head, wings, and tail are ascribed to it,
 </details>
@@ -508,7 +508,7 @@ But the clause immediately following, 'Brahman is the tail, the support (of the 
 तथा आनन्दमयं ब्रह्मापि स्वस्माद् अनतिरिक्तैः प्रियादिभिर् निदर्शितम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 just as in a preceding clause the body consisting of food had also been imagined as having head, wings, and tail – these members not being something different from the body, but the body itself. Joy, satisfaction, great satisfaction, bliss, are imagined as the members, non-different from it, of Brahman consisting of bliss,
 </details>
@@ -532,7 +532,7 @@ just as in a preceding clause the body consisting of food had also been imagined
 "पुच्छं प्रतिष्ठा" (तै.आन.५) इत्य् उच्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and of them all the unmixed bliss-constituted Brahman is said to be the tail or support.
 </details>
@@ -556,7 +556,7 @@ and of them all the unmixed bliss-constituted Brahman is said to be the tail or 
 न चैवं निर्दिश्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If Brahman were something different from the Self consisting of bliss, the text would have continued, 'Different from this Self consisting of bliss is the other inner Self – Brahman.' But there is no such continuation.
 </details>
@@ -598,7 +598,7 @@ If Brahman were something different from the Self consisting of bliss, the text 
 इत्य् आत्म-शब्देन निर्देशम् आनन्दमये समापयति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The connexion of the different clauses stands as follows: After Brahman has been introduced as the topic of the section ('He who knows Brahman attains the Highest'), and defined as different in nature from everything else ('The True, knowledge'), the text designates it by the term 'Self,' &c. ('From that Self sprang ether'), and then, in order to make it clear that Brahman is the innermost Self of all, enumerates the praṇamaya and so on – designating them in succession as more and more inward Selfs--, and finally leads up to the ānandamaya as the innermost Self('Different from this,&c., is the Self consisting of bliss').
 </details>
@@ -623,7 +623,7 @@ The connexion of the different clauses stands as follows: After Brahman has been
 इति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 From all which it appears that the term 'Self' up to the end denotes the Brahman mentioned at the beginning.--
 </details>
@@ -650,7 +650,7 @@ From all which it appears that the term 'Self' up to the end denotes the Brahman
 नानन्दमय-ज्ञानाज्ञानाभ्याम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But, in immediate continuation of the clause, 'Brahman is the tail, the support,' the text exhibits the following śloka: 'Non-existing becomes he who views Brahman as non-existing; who knows Brahman as existing, him we know as himself existing.' Here the existence and non-existence of the Self are declared to depend on the knowledge and non-knowledge of Brahman, not of the Self consisting of bliss.
 </details>
@@ -674,7 +674,7 @@ But, in immediate continuation of the clause, 'Brahman is the tail, the support,
 सद्-भावासद्भाव-ज्ञानाशङ्का युक्ता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now no doubt can possibly arise as to the existence or non-existence of this latter Self, which, in the form of joy, satisfaction, &c., is known to every one.
 </details>
@@ -697,7 +697,7 @@ Now no doubt can possibly arise as to the existence or non-existence of this lat
 तस्माद् आनन्दमयाद् अन्यद् ब्रह्म।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence the śloka cannot refer to that Self, and hence Brahman is different from that Self.--
 </details>
@@ -735,7 +735,7 @@ Hence the śloka cannot refer to that Self, and hence Brahman is different from 
 न आनन्दमय-व्यतिरिक्तस्य पुच्छस्य ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This objection, the Pūrvapakshin rejoins, is unfounded. In the earlier parts of the chapter we have corresponding ślokas, each of them following on a preceding clause that refers to the tail or support of a particular Self: in the case, e.g. of the Self consisting of food, we read, 'This is the tail, the support,' and then comes the śloka, 'From food are produced all creatures,' &c. Now it is evident that all these ślokas are meant to set forth not only what had been called 'tail,' but the entire Self concerned (Self of food, Self of breath, &c.); and from this it follows that also the śloka, 'Non-existing becomes he,' does not refer to the 'tail' only as something other than the Self of bliss, but to the entire Self of bliss.
 </details>
@@ -760,7 +760,7 @@ This objection, the Pūrvapakshin rejoins, is unfounded. In the earlier parts of
 पुच्छ-ब्रह्मणो ऽप्य् अ-परिच्छिन्नानन्दतयैव ह्य् अ-प्रसिद्धता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And there may very well be a doubt with regard to the knowledge or non-knowledge of the existence of that Self consisting of unlimited bliss. On your view also the circumstance of Brahman which forms the tail not being known is due to its being of the nature of limitless bliss.
 </details>
@@ -787,7 +787,7 @@ And there may very well be a doubt with regard to the knowledge or non-knowledge
 पुच्छम् अपि ब्रह्म न भवेत्।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And should it be said that the Self of bliss cannot be Brahman because Brahman does not possess a head and other members; the answer is that Brahman also does not possess the quality of being a tail or support, and that hence Brahman cannot be a tail.--
 </details>
@@ -817,7 +817,7 @@ And should it be said that the Self of bliss cannot be Brahman because Brahman d
 प्रिय-शिरस्त्वादि-रूपणं भविष्यति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Let it then be said that the expression, 'Brahman is the tail,' is merely figurative, in so far as Brahman is the substrate of all things imagined through avidyā!--But, the Pūrvapakshin rejoins, we may as well assume that the ascription to Brahman of joy, as its head and so on, is also merely figurative, meant to illustrate the nature of Brahman, i.e. the Self of bliss as free from all pain.
 </details>
@@ -844,7 +844,7 @@ Let it then be said that the expression, 'Brahman is the tail,' is merely figura
 "आनन्दमय" इत्य् उपदिश्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 To speak of Brahman or the Self as consisting of bliss has thus the purpose of separating from all pain and grief that which in a preceding clause ('The True, knowledge, the Infinite is Brahman') had already been separated from all changeful material things.
 </details>
@@ -869,7 +869,7 @@ To speak of Brahman or the Self as consisting of bliss has thus the purpose of s
 प्राणमय इव स्वार्थिको द्रष्टव्यः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 As applied to Brahman (or the Self), whose nature is nothing but absolute bliss, the term 'ānandamaya' therefore has to be interpreted as meaning nothing more than 'ānanda'; just as prāṇamaya means prāṇa.
 </details>
@@ -894,7 +894,7 @@ As applied to Brahman (or the Self), whose nature is nothing but absolute bliss,
 इत्य् उच्यत इत्य् आनन्दमयः प्रत्यग्-आत्मा॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The outcome of all this is that the term 'ānandamaya' denotes the true essential nature – which is nothing but absolute uniform bliss – of the jiva that appears as distinguished by all the manifold individualising forms which are the figments of Nescience. The Self of bliss is the jīva or pratyag-ātman, i.e. the individual soul.
 </details>
@@ -916,7 +916,7 @@ The outcome of all this is that the term 'ānandamaya' denotes the true essentia
 एवं प्राप्ते प्रचक्ष्महे- 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Against this primā facie view the Sūtrakāra contends that 
 </details>
@@ -936,7 +936,7 @@ Against this primā facie view the Sūtrakāra contends that
 १३. +++(परमात्मा)+++ आनन्दमयो ऽभ्यासात् ॥ १-१-१३ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 13. The Self consisting of Bliss (is the highest Self) on account of multiplication.
 </details>
@@ -963,7 +963,7 @@ Against this primā facie view the Sūtrakāra contends that
 कुतः? अभ्यासात्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 How so? 'On account of multiplication.'
 </details>
@@ -995,7 +995,7 @@ How so? 'On account of multiplication.'
 स्वाश्रयम् आवेदयति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The section which begins with the words, 'This is an examination of bliss,' and terminates with the śloka, 'from whence all speech turns back' (Taitt. Up. II, 8), arrives at bliss, supreme and not to be surpassed, by successively multiplying inferior stages of bliss by a hundred; now such supreme bliss cannot possibly belong to the individual soul which enjoys only a small share of very limited happiness, mixed with endless pain and grief; and therefore clearly indicates, as its abode, the highest Self, which differs from all other Selfs in so far as being radically opposed to all evil and of an unmixed blessed nature.
 </details>
@@ -1023,7 +1023,7 @@ The section which begins with the words, 'This is an examination of bliss,' and 
 इति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 As Scripture says: 'Different from this Self consisting of understanding (vijñāna) there is the inner Self consisting of bliss'.
 </details>
@@ -1042,7 +1042,7 @@ As Scripture says: 'Different from this Self consisting of understanding (vijñ�
 मयट्प्रत्ययेन व्यतिरेक-प्रतीतेः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now that which consists of understanding (vijñāna) is the individual soul (jīva), not the internal organ (buddhi) only; for the formative element, 'maya,' ('consisting of'; in vijñānamaya) indicates a difference (between vijñāna and vijñānamaya).
 </details>
@@ -1064,7 +1064,7 @@ Now that which consists of understanding (vijñāna) is the individual soul (jī
 प्राणमये त्व् अगत्या स्वार्थिकता ऽऽश्रीयते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The term 'prāṇa-maya' ('consisting of breath ') we explain to mean 'prāṇa' only, because no other explanation is possible;
 </details>
@@ -1082,7 +1082,7 @@ The term 'prāṇa-maya' ('consisting of breath ') we explain to mean 'prāṇa'
 नानर्थक्यं न्यायम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but as vijñānamaya may be explained as jīva, we have no right to neglect 'maya' as unmeaning.
 </details>
@@ -1100,7 +1100,7 @@ but as vijñānamaya may be explained as jīva, we have no right to neglect 'may
 ज्ञाता +एवेत्य् अभ्यधिष्महि।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And this interpretation is quite suitable, as the soul in the states of bondage and release alike is a 'knowing' subject.
 </details>
@@ -1123,7 +1123,7 @@ And this interpretation is quite suitable, as the soul in the states of bondage 
 ऽनन्तरम् एव वक्ष्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That moreover even in 'prāṇamaya', and so on, the affix 'maya' may be taken as having a meaning will be shown further on.--
 </details>
@@ -1147,7 +1147,7 @@ That moreover even in 'prāṇamaya', and so on, the affix 'maya' may be taken a
 इति केवल-विज्ञान-शब्दोपादानम् उपपद्यते?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But how is it then that in the śloka which refers to the vijñānamaya, 'Understanding (vijñāna) performs the sacrifice', the term 'vijñāna' only is used?--
 </details>
@@ -1172,7 +1172,7 @@ But how is it then that in the śloka which refers to the vijñānamaya, 'Unders
 ज्ञानैक-निरूपणीयत्वाच् च ज्ञातुस् स्वरूपस्य।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The essential nature, we reply, of the knowing subject is suitably called 'knowledge', and this term is transferred to the knowing subject itself which is defined as possessing that nature.
 </details>
@@ -1197,7 +1197,7 @@ The essential nature, we reply, of the knowing subject is suitably called 'knowl
 नन्दिग्रहि (अष्टाध्याय्यां.३.१.१३४) इत्य्-आदिना कर्तरि ल्युः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For Pāṇini says 'The affixes of the kṛtya-group and lyuṭ are applied diversely' (III, 3, 113) or we may rely on the class of words beginning with 'nandi' (Pā. III, 1, 134) to justify the suffix lyuṭ in the sense of the agent.
 </details>
@@ -1225,7 +1225,7 @@ For Pāṇini says 'The affixes of the kṛtya-group and lyuṭ are applied dive
 बुद्धिमात्रस्य हि न कर्तृत्वं सम्भवति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This also accounts for the fact that the śloka ('Vijñāna performs the sacrifice, it performs all sacred acts') speaks of vijñāna as being the agent in sacrifices and so on; the buddhi alone could not be called an agent.
 </details>
@@ -1247,7 +1247,7 @@ This also accounts for the fact that the śloka ('Vijñāna performs the sacrifi
 न चेतन-धर्म-भूतं कर्तृत्वं श्रूयते ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For this reason the text does not ascribe agency to the other Selfs (the prāṇamaya and so on) which are mentioned before the vijñānamaya; for they are non-intelligent instruments of intelligence, and the latter only can be an agent.
 </details>
@@ -1275,7 +1275,7 @@ For this reason the text does not ascribe agency to the other Selfs (the prāṇ
 इति विज्ञान-शब्देन तद्-गुणं चेतनं वदति। +++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 With the same view the text further on (II, 6), distinguishing the intelligent and the non-intelligent by means of their different characteristic attributes, says in the end 'knowledge and non-knowledge,' meaning thereby that which possesses the attribute of knowledge and that which does not.
 </details>
@@ -1304,7 +1304,7 @@ With the same view the text further on (II, 6), distinguishing the intelligent a
 काण्वपाठगतं विज्ञान-शब्द-निर्दिष्टं जीवात्मेति स्फुटीकुर्वन्ति।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 An analogous case is met with in the so-called antaryāmi-brāhmaṇa (Br̥. Up. III. 7). There the Kāṇvas read, 'He who dwells in knowledge' (vijñāna; III, 7, 16), but instead of this the Mādhyandinas read 'he who dwells in the Self,' and so make clear that what the Kāṇvas designate as 'knowledge' really is the knowing Self.--
 </details>
@@ -1329,7 +1329,7 @@ An analogous case is met with in the so-called antaryāmi-brāhmaṇa (Br̥. Up.
 अन्यस् तद्-अन्तरः परमात्मा आनन्दमयः ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That the word vijñāna, although denoting the knowing Self, yet has a neuter termination, is meant to denote it as something substantial. We hence conclude that he who is different from the Self consisting of knowledge, i.e. the individual Self, is the highest Self which consists of bliss.
 </details>
@@ -1355,7 +1355,7 @@ That the word vijñāna, although denoting the knowing Self, yet has a neuter te
 इति तद्वान् ज्ञातैवोपदिश्यते,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It is true indeed that the śloka, 'Knowledge performs the sacrifice, 'directly mentions knowledge only, not the knowing Self; all the same we have to understand that what is meant is the latter, who is referred to in the clause, 'different from this is the inner Self which consists of knowledge.'
 </details>
@@ -1386,7 +1386,7 @@ It is true indeed that the śloka, 'Knowledge performs the sacrifice, 'directly 
 अपि तु तन्मयस् तद्-विकारः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This conclusion is supported by the śloka referring to the Self which consists of food (II, 2); for that śloka refers to food only, 'From food are produced all creatures,' &c., all the same the preceding clause 'this man consists of the essence of food' does not refer to food, but to an effect of it which consists of food.
 </details>
@@ -1413,7 +1413,7 @@ This conclusion is supported by the śloka referring to the Self which consists 
 इत्य् अनन्तरम् एव वदति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Considering all this the Sūtrakāra himself in a subsequent Sūtra (I, 1, 18) bases his view on the declaration, in the scriptural text, of difference.--
 </details>
@@ -1452,7 +1452,7 @@ Considering all this the Sūtrakāra himself in a subsequent Sūtra (I, 1, 18) b
 इति – तद् अयुक्तम्,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We now turn to the assertion, made by the Pūrvapakshin, that the cause of the world is not different from the individual soul because in two Cḥāndogya passages it is exhibited in co-ordination with the latter ('having entered into them with this living Self,' 'Thou art that'); and that hence the introductory clause of the Taitt. passage ('He who knows Brahman reaches the Highest') refers to the individual soul – which further on is called 'consisting of bliss,' because it is free from all that is not pleasure.-- This view cannot be upheld;
 </details>
@@ -1479,7 +1479,7 @@ We now turn to the assertion, made by the Pūrvapakshin, that the cause of the w
 इति स्व-सङ्कल्प-पूर्वकानन्त-विचित्र- -सृष्टि-योगानुपपत्तेः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for although the individual soul is intelligent, it is incapable of producing through its volition this infinite and wonderful Universe – a process described in texts such as 'It thought, may I be many, may I grow forth.--It sent forth fire,' &c.
 </details>
@@ -1508,7 +1508,7 @@ for although the individual soul is intelligent, it is incapable of producing th
 इत्य्-अत्रोपपादयिष्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That even the released soul is unequal to such 'world business' as creation, two later Sūtras will expressly declare.
 </details>
@@ -1538,7 +1538,7 @@ That even the released soul is unequal to such 'world business' as creation, two
 इति चेत् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But, if you deny that Brahman, the cause of the world, is identical with the individual soul, how then do you account for the co-ordination in which the two appear in the Cḥāndogya texts?--
 </details>
@@ -1562,7 +1562,7 @@ But, if you deny that Brahman, the cause of the world, is identical with the ind
 नाना-विधानन्त-दुःखाकर-कर्माधीन-चिन्तित- -निमिषितादि-सकल-प्रवृत्ति-जीव-स्वरूपत्वम्?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 How, we ask in return, can Brahman, the cause of all, free from all shadow of imperfection, omniscient, omnipotent, &c. &c., be one with the individual soul, all whose activities – whether it be thinking, or winking of an eye, or anything else – depend on karman, which implies endless suffering of various kind?--
 </details>
@@ -1588,7 +1588,7 @@ How, we ask in return, can Brahman, the cause of all, free from all shadow of im
 किं वा हेय-प्रत्यनीक-कल्याणैक-तान-स्वभावस्य?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If you reply that this is possible if one of two things is unreal, we ask – which then do you mean to be unreal? Brahman's connexion with what is evil?--or its essential nature, owing to which it is absolutely good and antagonistic to all evil?--
 </details>
@@ -1616,7 +1616,7 @@ If you reply that this is possible if one of two things is unreal, we ask – wh
 ब्रह्मणो हेय-प्रत्यनीक-कल्याणैक-तानत्वम् अनाद्य्--अ-विद्याऽऽश्रयत्वेन +अनन्त-दुःख-विषय-मिथ्या-प्रतिभासाऽऽश्रयत्वं चेति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 You will perhaps reply that, owing to the fact of Brahman, which is absolutely good and antagonistic to all evil, being the substrate of beginningless Nescience, there presents itself the false appearance of its being connected with evil. But there you maintain what is contradictory. On the one side there is Brahman's absolute perfection and antagonism to all evil; on the other it is the substrate of Nescience, and thereby the substrate of a false appearance which is involved in endless pain;
 </details>
@@ -1640,7 +1640,7 @@ You will perhaps reply that, owing to the fact of Brahman, which is absolutely g
 तत्-सम्बन्धित्वं, तत्-प्रत्यनीकत्वं च विरुद्धम् एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for to be connected with evil means to be the substrate of Nescience and the appearance of suffering which is produced thereby. Now it is a contradiction to say that Brahman is connected with all this and at the same time antagonistic to it!--
 </details>
@@ -1673,7 +1673,7 @@ for to be connected with evil means to be the substrate of Nescience and the app
 हेय-प्रत्यनीक-कल्याणैकतानतया विरुध्यते।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we allow you to say that there is no real contradiction because that appearance is something false. For whatever is false belongs to that group of things contrary to man's true interest, for the destruction of which the Vedānta-texts are studied. To be connected with what is hurtful to man, and to be absolutely perfect and antagonistic to all evil is self-contradictory.--
 </details>
@@ -1718,7 +1718,7 @@ Nor can we allow you to say that there is no real contradiction because that app
 इति चेत् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But, our adversary now rejoins, what after all are we to do? The holy text at first clearly promises that through the cognition of one thing everything will be known ('by which that which is not heard is heard,' &c., Cḥ. Up. VI, 1, 3); thereupon declares that Brahman is the sole cause of the world ('Being only this was in the beginning'), and possesses exalted qualities such as the power of realising its intentions ('it thought, may I be many'); and then finally, by means of the co-ordination, 'Thou art that' intimates that Brahman is one with the individual soul, which we know to be subject to endless suffering! Nothing therefore is left to us but the hypothesis that Brahman is the substrate of Nescience and all that springs from it!--
 </details>
@@ -1740,7 +1740,7 @@ But, our adversary now rejoins, what after all are we to do? The holy text at fi
 श्रुतोपपत्तये ऽप्य् अनुपपन्नं विरुद्धं च न कल्पनीयम्।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Not even for the purpose, we reply, of making sense of Scripture may we assume what in itself is senseless and contradictory!--
 </details>
@@ -1772,7 +1772,7 @@ Not even for the purpose, we reply, of making sense of Scripture may we assume w
 इति बोधयत् सम्यग् उज्जीवयति।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Let us then say that Brahman's connexion with evil is real, and its absolute perfection unreal!-- Scripture, we reply, aims at comforting the soul afflicted by the assaults of threefold pain, and now, according to you, it teaches that the assaults of suffering are real, while its essential perfection and happiness are unreal figments, due to error! This is excellent comfort indeed!--
 </details>
@@ -1800,7 +1800,7 @@ Let us then say that Brahman's connexion with evil is real, and its absolute per
 अहो भवतां वाक्यार्थ-पर्यालोचन-कुशलता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 To avoid these difficulties let us then assume that both aspects of Brahman – viz. on the one hand its entering into the distressful condition of individual souls other than non-differenced intelligence, and on the other its being the cause of the world, endowed with all perfections, &c.--are alike unreal!-- Well, we reply, we do not exactly admire the depth of your insight into the connected meaning of texts.
 </details>
@@ -1824,7 +1824,7 @@ To avoid these difficulties let us then assume that both aspects of Brahman – 
 सर्वस्य ज्ञातव्यस्याभावान् न सेत्स्यति।+++(4)+++  
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The promise that through the knowledge of one thing everything will be known can certainly not be fulfilled if everything is false, for in that case there exists nothing that could be known. 
 </details>
@@ -1850,7 +1850,7 @@ The promise that through the knowledge of one thing everything will be known can
 तद्-आश्रयम् अ-परामर्थ-रजतं ज्ञातं भवति ॥+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In so far as the cognition of one thing has something real for its object, and the cognition of all things is of the same kind, and moreover is comprised in the cognition of one thing; in so far it can be said that everything is known through one thing being known. Through the cognition of the real shell we do not cognise the unreal silver of which the shell is the substrate.--
 </details>
@@ -1877,7 +1877,7 @@ In so far as the cognition of one thing has something real for its object, and t
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Well, our adversary resumes, let it then be said that the meaning of the declaration that through the cognition of one thing everything is to be known is that only non-differenced Being is real, while everything else is unreal.--
 </details>
@@ -1906,7 +1906,7 @@ Well, our adversary resumes, let it then be said that the meaning of the declara
 "येन श्रुतेनाश्रुतम् अपि श्रुतं भवती"ति ह्य् अस्य वाक्यस्यार्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If this were so, we rejoin, the text would not say, 'by which the non-heard is heard, the non-known is known'; for the meaning of this is, 'by which when heard and known' (not 'known as false') 'the non-heard is heard,' &c.
 </details>
@@ -1935,7 +1935,7 @@ If this were so, we rejoin, the text would not say, 'by which the non-heard is h
 मृत्-पिण्ड-विज्ञानेन हि तद्-विकारस्य ज्ञातता निदर्शिता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, if the meaning were that only the one non-differenced substance understood to be the cause of the world is real, the illustrative instance, 'As by one lump of clay everything made of clay is known,' would not be suitable; for what is meant there is that through the cognition of the (real) lump of clay its (real) effects are known.
 </details>
@@ -1963,7 +1963,7 @@ Moreover, if the meaning were that only the one non-differenced substance unders
 इति प्रसिद्धवद् उपन्यासो न युज्यते।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor must you say that in the illustrative instance also the unreality of the effect is set forth; for as the person to be informed is not in any way convinced at the outset that things made of clay are unreal, like the snake imagined in the rope, it is impossible that such unreality should be referred to as if it were something well known (and the clause, 'as by one lump of clay,' &c., undoubtedly does refer to something well known), in order to render the initial assertion plausible.
 </details>
@@ -1987,7 +1987,7 @@ Nor must you say that in the illustrative instance also the unreality of the eff
 तर्कानुगृहीतम् अननुगृहीतं वा प्रमाणम् उपलभामह इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And we are not aware of any means of knowledge – assisted or non-assisted by ratiocination – that would prove the non-reality of things effected, previous to the cognition produced by texts such as 'That art thou';
 </details>
@@ -2013,7 +2013,7 @@ And we are not aware of any means of knowledge – assisted or non-assisted by r
 इत्य्-अत्र वक्ष्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 a point which will be discussed at length under II, 1.
 </details>
@@ -2033,7 +2033,7 @@ a point which will be discussed at length under II, 1.
 एकम् एवाद्वितीयम् (छा.६.२.१),
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'Being only this was in the beginning, one, without a second';
 </details>
@@ -2059,7 +2059,7 @@ a point which will be discussed at length under II, 1.
 > तद् ऐक्षत बहु स्यां प्रजायेयेति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'it thought, may I be many, may I grow forth;
 </details>
@@ -2076,7 +2076,7 @@ a point which will be discussed at length under II, 1.
 > तत् तेजो ऽसृजत (छा.६.२.३),
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 it sent forth fire';
 </details>
@@ -2095,7 +2095,7 @@ it sent forth fire';
 नाम-रूपे व्याकरवाणि (छा.६.३.२),
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'Let me now enter those three beings with this living Self and evolve names and forms';
 </details>
@@ -2113,7 +2113,7 @@ it sent forth fire';
 सद्-आयतनास्, सत्-प्रतिष्ठाः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'All these creatures, my son, have their root in the True, they dwell in the True, they rest in the True,' &c.
 </details>
@@ -2141,7 +2141,7 @@ it sent forth fire';
 शास्त्रैक-समधिगम्याः प्रतिपादिताः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 these passages declare in succession that that which really is is the Self of this world; that previous to creation there is no distinction of names and forms; that for the creation of the world Brahman, termed 'the True' (or 'Real'), requires no other operative cause but itself; that at the time of creation it forms a resolution, possible to itself only, of making itself manifold in the form of endless movable and immovable things; that in accordance with this resolution there takes place a creation, proceeding in a particular order, of an infinite number of manifold beings; that by Brahman entering into all non-intelligent beings with the living soul – which has its Self in Brahman – there takes place an evolution, infinite in extent, of all their particular names and forms; and that everything different from Brahman has its root and abode in that, is moved by that, lives by that, rests on that.
 </details>
@@ -2161,7 +2161,7 @@ these passages declare in succession that that which really is is the Self of th
 सकलेतर-प्रमाणाविषयास् सहस्रशः प्रतिपादिताः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 All the different points – to be learned from Scripture only – which are here set forth agree with what numerous other scriptural texts teach about Brahman, viz. that it is free from all evil, devoid of all imperfection, all-knowing, all-powerful; that all its wishes and purposes realise themselves; that it is the cause of all bliss; that it enjoys bliss not to be surpassed.
 </details>
@@ -2191,7 +2191,7 @@ All the different points – to be learned from Scripture only – which are her
 असङ्गतत्वेनोन्मत्तप्रलपितायेत। +++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 To maintain then that the word 'that,' which refers back to the Brahman mentioned before, i.e. a Brahman possessing infinite attributes, should aim at conveying instruction about a substance devoid of all attributes, is as unmeaning as the incoherent talk of a madman.
 </details>
@@ -2216,7 +2216,7 @@ To maintain then that the word 'that,' which refers back to the Brahman mentione
 त्वं-पदं च संसारित्व-विशिष्ट-जीव-वाचि।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The word 'thou' again denotes the individual soul as distinguished by its implication in the course of transmigratory existence,
 </details>
@@ -2241,7 +2241,7 @@ The word 'thou' again denotes the individual soul as distinguished by its implic
 स्वार्थः परित्यक्तस् स्यात्।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and the proper sense of this term also would have to be abandoned if it were meant to suggest a substance devoid of all distinctions.
 </details>
@@ -2266,7 +2266,7 @@ and the proper sense of this term also would have to be abandoned if it were mea
 पूर्वम् एवोक्तम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And that, in the case of a being consisting of non-differenced light, obscuration by Nescience would be tantamount to complete destruction, we have already explained above.--
 </details>
@@ -2284,7 +2284,7 @@ And that, in the case of a being consisting of non-differenced light, obscuratio
 मुख्यार्थ-परित्यागेन लक्षणा च समाश्रयणीया॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 All this being thus, your interpretation would involve that the proper meaning of the two words 'that' and 'thou'--which refer to one thing – would have to be abandoned, and both words would have to be taken in an implied sense only.
 </details>
@@ -2313,7 +2313,7 @@ All this being thus, your interpretation would involve that the proper meaning o
 न लक्षणा-प्रसङ्गः -
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Several words which are applied to one thing are meant to express one sense, and as this is not possible in so far as the words connote different attributes, this part of their connotation becomes inoperative, and they denote only the unity of one substance; implication (lakshaṇā), therefore, does not take place.
 </details>
@@ -2349,7 +2349,7 @@ Several words which are applied to one thing are meant to express one sense, and
 नीलत्वोत्पलत्व-रूप-विशेषण-द्वयं न विवक्ष्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 When we say 'blue (is) (the) lotus' we employ two words with the intention of expressing the unity of one thing, and hence do not aim at expressing a duality of attributes, viz. the quality of blueness and the generic character of a lotus.
 </details>
@@ -2372,7 +2372,7 @@ When we say 'blue (is) (the) lotus' we employ two words with the intention of ex
 नीलत्व-विशिष्टाकारेण उत्पलत्व-विशिष्टाकारस्यैकत्व-प्रतिपादनं प्रसज्येत।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If this latter point was aimed at, it would follow that the sentence would convey the oneness of the two aspects of the thing, viz. its being blue and its being a lotus;
 </details>
@@ -2399,7 +2399,7 @@ If this latter point was aimed at, it would follow that the sentence would conve
 जाति-गुणयोर् अन्योऽन्य-समवाय-प्रसङ्गात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but this is not possible, for the thing (denoted by the two terms) is not characterised by (the denotation of) the word 'lotus,' in so far as itself characterised by blueness; for this would imply a reciprocal inherence (samavāya) of class-characteristics and quality [^fn_28].
 </details>
@@ -2428,7 +2428,7 @@ but this is not possible, for the thing (denoted by the two terms) is not charac
 अतो नीलत्वोत्पलत्वोपलक्षित-वस्त्व्-एकत्व-मात्रं सामानाधिकरण्येन प्रतिपाद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 What the co-ordination of the two words conveys is, therefore, only the oneness of a substance characterised by the quality of blueness, and at the same time by the class attributes of a lotus.
 </details>
@@ -2453,7 +2453,7 @@ What the co-ordination of the two words conveys is, therefore, only the oneness 
 उभय-देश-कालोपलक्षित-स्वरूप-मात्रैक्यं सामानाधिकरण्येन प्रतिपाद्यते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the same way, when we say 'this (person is) that Devadatta' the co-ordination of the words cannot possibly mean that Devadatta in so far as distinguished by his connexion with a past time and a distant place is one with Devadatta in so far as distinguished by his connexion with the present time and a near place; what it means to express is only that there is oneness on the part of a personal substance – which substance is characterised by connexion with both places and moments of time.
 </details>
@@ -2476,7 +2476,7 @@ In the same way, when we say 'this (person is) that Devadatta' the co-ordination
 सामानाधिकरण्य-वेलायां विरोधान् न प्रतिपाद्यते,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It is true indeed that when we at first hear the one word 'blue' we form the idea of the attribute of blueness, while, after having apprehended the relation of co-ordination (expressed in 'blue is the lotus'), this idea no longer presents itself, for this would imply a contradiction;
 </details>
@@ -2502,7 +2502,7 @@ It is true indeed that when we at first hear the one word 'blue' we form the ide
 तथाऽपि वाच्ये ऽर्थे प्रधानांशस्य प्रतिपादनान् न लक्षणा।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but all the same 'implication' does not take place.
 </details>
@@ -2524,7 +2524,7 @@ but all the same 'implication' does not take place.
 अपि तु विशेषणांशस्याविवक्षा-मात्रम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The essence of co-ordination consists, in all cases, therein that it suppresses the distinguishing elements in the words co-ordinated.
 </details>
@@ -2551,7 +2551,7 @@ The essence of co-ordination consists, in all cases, therein that it suppresses 
 इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And as thus our explanation cannot be charged with 'implication,' it cannot be objected to.
 </details>
@@ -2579,7 +2579,7 @@ And as thus our explanation cannot be charged with 'implication,' it cannot be o
 पदानां व्युत्पत्ति-सिद्धार्थ- -संसर्ग-विशेष-मात्रं प्रत्याय्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 All this, we rejoin, is unfounded.  
 What the words in all sentences whatsoever aim at conveying  
@@ -2609,7 +2609,7 @@ is only a particular connexion of the things known to be denoted by those words.
 पदान्तरार्थ-संसृष्टो अभिधीयते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Words such as 'blue,' standing in co-ordination with others, express that some matter possessing the attribute of blueness, &c., as known from the ordinary use of language, is connected with some other matter.
 </details>
@@ -2636,7 +2636,7 @@ Words such as 'blue,' standing in co-ordination with others, express that some m
 नीलिमादि-विशिष्टम् एवानीयते,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 When, e.g., somebody says 'bring the blue lotus,' a thing is brought which possesses the attribute of blueness.
 </details>
@@ -2676,7 +2676,7 @@ When, e.g., somebody says 'bring the blue lotus,' a thing is brought which posse
 इति पद-द्वयावगत-विशेषण-विशिष्ट एव अर्थः प्रतीयते;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And when we are told that 'a herd of elephants excited with passion lives in the Vindhya-forest,' we again understand that what is meant is something possessing several attributes denoted by several words.
 </details>
@@ -2694,7 +2694,7 @@ And when we are told that 'a herd of elephants excited with passion lives in the
 तत्तद्-विशेषण-विशिष्टम् एव ब्रह्म प्रतिपत्तव्यम् ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Analogously we have to understand, as the thing intimated by Vedānta-texts in the form of coordination, Brahman as possessing such and such attributes.--
 </details>
@@ -2717,7 +2717,7 @@ Analogously we have to understand, as the thing intimated by Vedānta-texts in t
 इतर-विशिष्टाकारं वस्तु अन्येन विशेष्टव्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It is an error to assume that, where a sentence aims at setting forth attributes, one attribute is to be taken as qualifying the thing in so far as qualified by another attribute;
 </details>
@@ -2743,7 +2743,7 @@ It is an error to assume that, where a sentence aims at setting forth attributes
 अपि तु सर्वैर् विशेषणैः स्वरूपम् एव विशेष्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 the case rather is that the thing itself is equally qualified by all attributes.
 </details>
@@ -2775,7 +2775,7 @@ the case rather is that the thing itself is equally qualified by all attributes.
 तस्यैव वस्तुनः पदान्तर-प्रतिपाद्यत्वं सामानाधिकरण्य-कार्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For co-ordination means the application, to one thing, of several words having different reasons of application; and the effect of co-ordination is that one and the same thing, because being connected – positively or negatively – with some attribute other than that which is conveyed by one word, is also known through other words.
 </details>
@@ -2799,7 +2799,7 @@ For co-ordination means the application, to one thing, of several words having d
 यथा देवदत्तश् श्यामो युवा लोहिताक्षो ऽदीनो ऽकृपणः अनवद्यः इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 As e.g. when it is said that 'Devadatta (is) dark-complexioned, young, reddish-eyed, not stupid, not poor, of irreproachable character.'
 </details>
@@ -2835,7 +2835,7 @@ As e.g. when it is said that 'Devadatta (is) dark-complexioned, young, reddish-e
 यत्र त्व् एकस्मिन् वस्तुनि समन्वयायोग्यं विशेषण-द्वयं समानाधिकरण-पद-निर्दिष्टम्; तत्राप्य् अन्यतरत् पदम् अमुख्य-वृत्तम् आश्रीयते; न द्वयम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Where two co-ordinate words express two attributes which cannot exist combined in one thing, one of the two words is to be taken in a secondary sense, while the other retains its primary meaning,
 </details>
@@ -2859,7 +2859,7 @@ Where two co-ordinate words express two attributes which cannot exist combined i
 यथा गौर् वाहीकः इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 as e.g. in the case of the sentence, 'The Vāhīka man is an ox.'
 </details>
@@ -2881,7 +2881,7 @@ as e.g. in the case of the sentence, 'The Vāhīka man is an ox.'
 नीलोत्पलादिषु तु विशेषण-द्वयान्वयाविरोधाद् एकमेव उभय-विशिष्टं प्रतिपाद्यते॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But in the case of the 'blue lotus' and the like, where there is nothing contradictory in the connexion of the two attributes with one thing, co-ordination expresses the fact of one thing being characterised by two attributes.--
 </details>
@@ -2913,7 +2913,7 @@ But in the case of the 'blue lotus' and the like, where there is nothing contrad
 – इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Possibly our opponent will here make the following remark. A thing in so far as defined by its correlation to some one attribute is something different from the thing in so far as defined by its correlation to some second attribute; hence, even if there is equality of case affixes (as in 'nīlam utpalam'), the words co-ordinated are incapable of expressing oneness, and cannot, therefore, express the oneness of a thing qualified by several attributes; not any more than the juxtaposition of two words such as 'jar' and 'cloth'--both having the same case-ending – can prove that these two things are one. A statement of co-ordination, therefore, rather aims at expressing the oneness of a thing in that way that it presents to the mind the essential nature of the thing by means of (words denoting) its attributes.--
 </details>
@@ -2952,7 +2952,7 @@ Possibly our opponent will here make the following remark. A thing in so far as 
 यदि विशेषण-द्वय-प्रतिसम्बन्धित्व-मात्रम् एवैक्यं निरुन्ध्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This would be so, we reply, if it were only the fact of a thing's standing in correlation to two attributes that is in the way of its unity.
 </details>
@@ -2975,7 +2975,7 @@ This would be so, we reply, if it were only the fact of a thing's standing in co
 एकस्मिन् धर्मिण्य् उपसंहर्तुम् अयोग्य-धर्म-द्वय-विशिष्टत्वम् एव ह्य् एकत्वं निरुणद्धि।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But this is not the case; for what stands in the way of such unity is the fact of there being several attributes which are not capable of being combined in one thing.
 </details>
@@ -2992,7 +2992,7 @@ But this is not the case; for what stands in the way of such unity is the fact o
 अयोग्यता च प्रमाणान्तर-सिद्धा घटत्व-पटत्वयोः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Such incapability is, in the case of the generic character of a jar and that of a piece of cloth, proved by other means of knowledge;
 </details>
@@ -3018,7 +3018,7 @@ Such incapability is, in the case of the generic character of a jar and that of 
 विरोधो नोपलभ्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but there is no contradiction between a thing being blue and its being a lotus; not any more than there is between a man and the stick or the earrings he wears, or than there is between the colour, taste, smell, &c., of one and the same thing.
 </details>
@@ -3044,7 +3044,7 @@ but there is no contradiction between a thing being blue and its being a lotus; 
 उपपादयत्य् एव धर्म-द्वय-विशिष्टताम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Not only is there no contradiction, but it is this very fact of one thing possessing two attributes which makes possible co-ordination – the essence of which is that, owing to a difference of causes of application, several words express one and the same thing.
 </details>
@@ -3063,7 +3063,7 @@ Not only is there no contradiction, but it is this very fact of one thing posses
 सामानाधिकरण्यम् एव न स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For if there were nothing but essential unity of being, what reason would there be for the employment of several words?
 </details>
@@ -3082,7 +3082,7 @@ For if there were nothing but essential unity of being, what reason would there 
 उपलक्षणान्तरम् अनर्थकम् एव;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If the purport of the attributes were, not to intimate their connexion with the thing, but merely to suggest the thing itself, one attribute would suffice for such suggestion, and anything further would be meaningless.
 </details>
@@ -3100,7 +3100,7 @@ If the purport of the attributes were, not to intimate their connexion with the 
 तेनाकारेण सविशेषत्व-प्रसङ्गः॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, it were assumed that the use of a further 'suggestive' attribute is to bring out a difference of aspect in the thing suggested, such difference of aspect would imply differentiation in the thing (which you maintain to be free from all difference).--
 </details>
@@ -3119,7 +3119,7 @@ If, on the other hand, it were assumed that the use of a further 'suggestive' at
 विरोधाभावात्,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor is there any shade even of 'implication' in the judgment, 'This person is that Devadatta'; for there is absolutely no contradiction
 </details>
@@ -3142,7 +3142,7 @@ Nor is there any shade even of 'implication' in the judgment, 'This person is th
 सन्निहित-देश-सम्बन्धितया वर्तमानत्वाविरोधात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 between the past Devadatta, who was connected with some distant place, and the present Devadatta, who is connected with the place before us.
 </details>
@@ -3170,7 +3170,7 @@ between the past Devadatta, who was connected with some distant place, and the p
 ऐक्यम् उपपाद्यते वस्तुनस् स्थिरत्व-वादिभिः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For this very reason those who maintain the permanency of things prove the oneness of a thing related to two moments of time on the basis of the judgment of recognition ('this is that');
 </details>
@@ -3193,7 +3193,7 @@ For this very reason those who maintain the permanency of things prove the onene
 सर्वेषां क्षणिकत्वम् एव स्यात्।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 if there really were a contradiction between the two representations it would follow that all things are (not permanent but) momentary only.
 </details>
@@ -3222,7 +3222,7 @@ if there really were a contradiction between the two representations it would fo
 काल-भेदेन परिह्रियते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The fact is that the contradiction involved in one thing being connected with two places is removed by the difference of the correlative moments of time. We therefore hold to the conclusion that co-ordinated words denote one thing qualified by the possession of several attributes.
 </details>
@@ -3267,7 +3267,7 @@ The fact is that the contradiction involved in one thing being connected with tw
 साध्यतया विधीयते॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For this very reason the Vedic passage, 'He buys the Soma by means of a cow one year old, of a tawny colour, with reddish-brown eyes' (aruṇayā, ekahāyanyā, piñgākshyā), must be understood to enjoin that the purchase is to be effected by means of a cow one year old, possessing the attributes of tawny colour, &c. This point is discussed Pū. Mī. Sū. III, 1, l2.--
 </details>
@@ -3293,7 +3293,7 @@ For this very reason the Vedic passage, 'He buys the Soma by means of a cow one 
 द्रव्य-पर्यन्तम् एवारुणिमानम् अभिदधति,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Pūrvapakshin there argues as follows: We admit that the word 'aruṇayā' ('by means of a tawny one') denotes the quality of tawniness inclusive of the thing possessing that quality; for qualities as well as generic character exist only in so far as being modes of substances.
 </details>
@@ -3346,7 +3346,7 @@ The Pūrvapakshin there argues as follows: We admit that the word 'aruṇayā' (
 अरुणिम्नो न सम्भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But it is not possible to restrict tawny colour to connexion with a cow one year old,
 </details>
@@ -3364,7 +3364,7 @@ But it is not possible to restrict tawny colour to connexion with a cow one year
 तच् च अरुणयेत्य् अर्थ-द्वय-विधानासम्भवात्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for the injunction of two different things (which would result from such restriction; and which would necessitate the sentence to be construed as----) 'He buys by means of a cow one year old, and that a red one' is not permissible [^fn_29].
 </details>
@@ -3399,7 +3399,7 @@ for the injunction of two different things (which would result from such restric
 अरुणिमानम् अविशेषेणाभिदधाति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We must therefore break up the sentence into two, one of which is constituted by the one word 'aruṇayā'--this word expressing that tawny colour extends equally to all the substances enjoined in that section (as instrumental towards the end of the sacrifice).
 </details>
@@ -3424,7 +3424,7 @@ We must therefore break up the sentence into two, one of which is constituted by
 प्रकरण-विहित--सर्व-लिङ्गक-द्रव्याणां प्रदर्शनार्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And the use of the feminine case-termination of the word is merely meant to suggest a special instance (viz. the cow) of all the things, of whatever gender, which are enjoined in that section.
 </details>
@@ -3449,7 +3449,7 @@ And the use of the feminine case-termination of the word is merely meant to sugg
 – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Tawniness must not therefore be restricted to the cow one year old only.--
 </details>
@@ -3474,7 +3474,7 @@ Tawniness must not therefore be restricted to the cow one year old only.--
 नियमस् स्यात् (पूर्वमी.३.१.१२)
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Of this pūrvapaksha the Sūtra disposes in the following words: 'There being oneness of sense, and hence connexion of substance and quality with one action, there is restriction.'--
 </details>
@@ -3518,7 +3518,7 @@ Of this pūrvapaksha the Sūtra disposes in the following words: 'There being on
 अरुणिम्नः क्रय-साधन-भूतैकहायन्य्--अन्वय-नियमस् स्यात्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The fact that the two words 'aruṇayā' and 'ekahāyanyā'--which denote a substance, viz. a cow one year old, distinguished by the quality of possessing tawny colour – stand in co-ordination establishes that they have one sense; and is the substance, viz. the cow, and the quality, viz. tawny colour – which the word 'aruṇayā' denotes as standing in the relation of distinguishing attribute and thing distinguished thereby – can thus, without any contradiction, be connected with the one action called 'the buying of the Soma', tawny colour is restricted to the cow one year old which is instrumental with regard to the purchase.
 </details>
@@ -3548,7 +3548,7 @@ The fact that the two words 'aruṇayā' and 'ekahāyanyā'--which denote a subs
 तदा वाक्यस्य अर्थ-द्वय-विधानं स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If the connexion of tawniness with the action of buying were to be determined from syntactical connexion – in the same way as there is made out the connexion of the cow one year old with that action – then the injunctory sentence would indeed enjoin two matters (and this would be objectionable).
 </details>
@@ -3581,7 +3581,7 @@ If the connexion of tawniness with the action of buying were to be determined fr
 अरुणयेति पदेनैव अरुणिम-विशिष्ट-द्रव्यम् अभिहितम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But such is not the case; for the one word 'aruṇyā' denotes a substance characterised by the quality of tawniness,
 </details>
@@ -3611,7 +3611,7 @@ But such is not the case; for the one word 'aruṇyā' denotes a substance chara
 न गुण-सम्बन्धः;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and the co-ordination in which 'aruṇayā' stands to 'ekahāyanyā' makes us apprehend merely that the thing characterised by tawniness also is one year old, but does not make a special statement as to the connexion of that quality with the thing.
 </details>
@@ -3635,7 +3635,7 @@ and the co-ordination in which 'aruṇayā' stands to 'ekahāyanyā' makes us ap
 सामानाधिकरण्य-लक्षणम्॥+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For the purport of co-ordination is the unity of a thing distinguished by attributes; according to the definition that the application to one thing of several words possessing different reasons of application, constitutes co-ordination.
 </details>
@@ -3674,7 +3674,7 @@ For the purport of co-ordination is the unity of a thing distinguished by attrib
 इत्य्-आदिष्व् ऐकार्थ्याद् एक-वाक्यत्वम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For the same reason, the syntactical unity (ekavākyatvam) of sentences such as 'the cloth is red' follows from all the words referring to one thing.
 </details>
@@ -3702,7 +3702,7 @@ For the same reason, the syntactical unity (ekavākyatvam) of sentences such as 
 राग-सम्बन्धि द्रव्यं पट इत्य् एतावन्-मात्रं सामानाधिकरण्यावसेयम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The function of the syntactical collocation is to express the connexion of the cloth with the action of being; the connexion of the red colour (with the cloth) on the other hand is denoted by the word 'red' only. And what is ascertained from co-ordination (sāmānādhikaraṇya) is only that the cloth is a substance to which a certain colour belongs.
 </details>
@@ -3739,7 +3739,7 @@ The function of the syntactical collocation is to express the connexion of the c
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The whole matter may, without any contradiction, be conceived as follows. Several words – having either the affixes of the oblique cases or that of the nominative case – which denote one or two or several qualities, present to the mind the idea of that which is characterised by those qualities, and their co-ordination intimates that the thing characterised by all those attributes is one only; and the entire sentence finally expresses the connexion in which the thing with its attributes stands to the action denoted by the verb. This may be illustrated by various sentences exhibiting the co-ordination of words possessing different case-endings, as e.g. 'There stands Devadatta, a young man of a darkish complexion, with red eyes, wearing earrings and carrying a stick' (where all the words standing in apposition to Devadatta have the nominative termination); 'Let him make a stage curtain by means of a white cloth' (where 'white' and 'cloth' have instrumental case-endings), &c. &c.
 </details>
@@ -3809,7 +3809,7 @@ The whole matter may, without any contradiction, be conceived as follows. Severa
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We may further illustrate the entire relation of co-ordinated words to the action by means of the following example: 'He buys the Soma by means of a cow one year old, of a tawny colour, with reddish-brown eyes' (aruṇayā, ekahāyanyā, piñgākshyā).
 </details>
@@ -3832,7 +3832,7 @@ We may further illustrate the entire relation of co-ordinated words to the actio
 इत्य् अनेक-कारक-विशिष्टैका क्रिया युगपत् प्रतीयते;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 here we take in simultaneously the idea of an action distinguished by its connexion with several things.
 </details>
@@ -3861,7 +3861,7 @@ here we take in simultaneously the idea of an action distinguished by its connex
 न कश्चिद् विरोधः —
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but as soon as each thing is apprehended, it is at one and the same moment conceived as something distinguished by several attributes, and as such connects itself with the action expressed by the verb.
 </details>
@@ -3890,7 +3890,7 @@ but as soon as each thing is apprehended, it is at one and the same moment conce
 इत्य् आदिषु – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If we now consider the following amplified sentence, 'Let a skilful cook prepare, in a vessel of even shape, boiled rice mixed with milk, by means of sticks of dry khādira wood,' [we find that each thing connected with the action is denoted by an aggregate of co-ordinated words] ... in all this there is no contradiction whatever.--
 </details>
@@ -3932,7 +3932,7 @@ If we now consider the following amplified sentence, 'Let a skilful cook prepare
 क्वचिद् अपि केवल-गुणाभिधानादर्शनात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We must further object to the assertion that a word denoting a quality which stands in a sentence that has already mentioned a substance denotes the quality only (exclusive of the substance so qualified), and that hence the word 'aruṇayā' also denotes a quality only. The fact is that neither in ordinary nor in Vedic language we ever meet with a word which – denoting a quality and at the same time standing in co-ordination with a word denoting a substance – denotes a _mere_ quality.
 </details>
@@ -3959,7 +3959,7 @@ We must further object to the assertion that a word denoting a quality which sta
 केवल-गुणाभिधायीत्य् अप्य् असङ्गतम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor is it correct to say that a quality-word occurring in a sentence which has already mentioned a substance denotes a mere quality:
 </details>
@@ -3983,7 +3983,7 @@ Nor is it correct to say that a quality-word occurring in a sentence which has a
 इत्य्-आदिषूपात्त-द्रव्यके ऽपि गुण-विशिष्टस्यैवाभिधानात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for in a sentence such as 'the cloth (is) white,' where a substance is mentioned in the first place, the quality-word clearly denotes (not mere whiteness but) something which possesses the quality of whiteness.
 </details>
@@ -4012,7 +4012,7 @@ for in a sentence such as 'the cloth (is) white,' where a substance is mentioned
 न पुनर् उपात्त-द्रव्यकत्व-कृता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 When, on the other hand, we have a collocation of words such as 'paṭasya śuklaḥ' ('of the cloth'--gen.; 'white' nom.), the idea of a cloth distinguished by whiteness does not arise; but this is due not to the fact of the substance being mentioned first, but to the fact of the two words exhibiting different case-terminations.
 </details>
@@ -4039,7 +4039,7 @@ When, on the other hand, we have a collocation of words such as 'paṭasya śukl
 शौक्ल्य-विशिष्ट-द्रव्यं प्रतीयते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 As soon as we add to those two words an appropriate third one, e.g. 'bhāgaḥ' (so that the whole means 'The white part of a cloth'), the co-ordination of two words with the same case-termination gives rise to the idea of a thing distinguished by the attribute of whiteness.--
 </details>
@@ -4080,7 +4080,7 @@ As soon as we add to those two words an appropriate third one, e.g. 'bhāgaḥ' 
 क्रिया-पदान्वयाविरोधाद् असङ्गतम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we agree to the contention that, as the buying of the Soma is exclusively concluded by the cow one year old (as instrumental in the purchase), the quality of tawniness (denoted by the word 'aruṇayā') cannot connect itself with the action expressed by the verb; for a word that denotes a quality and stands in co-ordination with a word denoting a substance which has no qualities opposed in nature to that quality, denotes a quality abiding in that substance, and thus naturally connects itself with the action expressed by the verb.
 </details>
@@ -4116,7 +4116,7 @@ Nor can we agree to the contention that, as the buying of the Soma is exclusivel
 इत्य् अप्य् असङ्गतम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And since, as shown, the quality of tawniness connects itself with its substance (the cow) on the mere basis of the form of the words,  
 it is wrong (on the part of the Pūrvapakshin to abandon this natural connexion and) to establish their connexion on the ground of their being otherwise incapable of serving as means of the purchase.
@@ -4143,7 +4143,7 @@ it is wrong (on the part of the Pūrvapakshin to abandon this natural connexion 
 अतो यथोक्त एवार्थः॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 All this confirms our contention, viz. that the co-ordination of 'thou' and 'that' must be understood to express oneness, without, at the same time, there being given up the different attributes denoted by the two words.
 </details>
@@ -4178,7 +4178,7 @@ All this confirms our contention, viz. that the co-ordination of 'thou' and 'tha
 पद-द्वयाभिहित-विशेषणापरित्यागेनैवैक्य-प्रतिपादनं वर्णनीयम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This however is not feasible for those who do not admit a highest Self
 </details>
@@ -4201,7 +4201,7 @@ This however is not feasible for those who do not admit a highest Self
 अ-शेष-हेय--प्रत्यनीकानवधिक-कल्याणैकतानं परमात्मानम् अनभ्युपगच्छतो न सम्भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 free from all imperfection and endowed with all perfections, and different from that intelligent soul which is conditioned by Nescience, involved in endless suffering and undergoing alternate states of purity and impurity.--
 </details>
@@ -4234,7 +4234,7 @@ free from all imperfection and endowed with all perfections, and different from 
 इति चेत् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But, an objection is raised, even if such a highest Self be acknowledged, it would have to be admitted that the sentence aims at conveying the oneness of that which is distinguished by the different attributes denoted by the words co-ordinated, and from this it follows that the highest Self participates in all the suffering expressed by the word 'thou'!--
 </details>
@@ -4257,7 +4257,7 @@ But, an objection is raised, even if such a highest Self be acknowledged, it wou
 त्वम्-पदेनापि जीवान्तर्यामिणः परस्यैवाभिधानात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This is not so, we reply; since the word 'thou' also denotes the highest Self, viz. in so far as it is the inner Ruler (antaryāmin) of all souls.--
 </details>
@@ -4324,7 +4324,7 @@ This is not so, we reply; since the word 'thou' also denotes the highest Self, v
 नाम-रूपे व्याकरोत्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The connected meaning of the text is as follows. That which is denoted as 'Being,' i.e. the highest Brahman which is the cause of all, free from all shadow of imperfection, &c., resolved 'to be many'; it thereupon sent forth the entire world, consisting of fire, water, &c. introduced, in this world so sent forth, the whole mass of individual souls into different bodies divine, human, &c., corresponding to the desert of each soul – the souls thus constituting the Self of the bodies; and finally, itself entering according to its wish into these souls – so as to constitute their inner Self – evolved in all these aggregates, names and forms,
 </details>
@@ -4357,7 +4357,7 @@ The connected meaning of the text is as follows. That which is denoted as 'Being
 वस्तुत्वं, शब्द-वाच्यत्वं चाकरोद् इत्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 i.e. rendered each aggregate something substantial (vastu) and capable of being denoted by a word.
 </details>
@@ -4384,7 +4384,7 @@ i.e. rendered each aggregate something substantial (vastu) and capable of being 
 जीवस्य ब्रह्मात्मकत्वं दर्शयति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'Let me enter into these beings with this living Self (jīvena ātmana) [means 'with this living me,' and] this shows the living Self, i.e. the individual soul to have Brahman for its Self.
 </details>
@@ -4422,7 +4422,7 @@ i.e. rendered each aggregate something substantial (vastu) and capable of being 
 चिद्-वस्तुन्य् अपि ब्रह्मणो ऽनुप्रवेशाभिधानात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And that this having Brahman for its Self means Brahman's being the inner Self of the soul (i.e. the Self inside the soul, but not identical with it), Scripture declares by saying that Brahman entered into it. This is clearly stated in the passage Taitt. Up. II, 6, 'He sent forth all this, whatever there is. Having sent forth he entered into it. Having entered it he became _sat_ and _tyat_.' For here 'all this' comprises beings intelligent as well as non-intelligent, which afterwards are distinguished as _sat_ and _tyat_, as knowledge (vijñāna) and non-knowledge. Brahman is thus said to enter into intelligent beings also.
 </details>
@@ -4447,7 +4447,7 @@ And that this having Brahman for its Self means Brahman's being the inner Self o
 अचिज्-जीव-विशिष्ट-परमात्म-वाचिन इत्य् अवगतम् – इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence, owing to this evolution of names and forms, all words denote the highest Self distinguished by non-intelligent matter and intelligent souls.--
 </details>
@@ -4465,7 +4465,7 @@ Hence, owing to this evolution of names and forms, all words denote the highest 
 तस्य "एष आत्मा" (तै.आन.५) इति प्रतिपादितम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Another text, viz. Cḥ. Up. VI, 8, 7,'All this has its Self in that,' denotes by 'all this' the entire world inclusive of intelligent souls, and says that of this world that (i.e. Brahman) is the Self.
 </details>
@@ -4501,7 +4501,7 @@ Another text, viz. Cḥ. Up. VI, 8, 7,'All this has its Self in that,' denotes b
 सर्वं सचेतनं जगत् तस्य शरीरं भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Brahman thus being the Self with regard to the whole universe of matter and souls, the universe inclusive of intelligent souls is the body of Brahman.--
 </details>
@@ -4525,7 +4525,7 @@ Brahman thus being the Self with regard to the whole universe of matter and soul
 > अन्तः प्रविष्टश् शास्ता जनानां सर्वात्मा (तै.आ.३.११)
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Other scriptural texts teach the same doctrine; cp. 'Entered within, the ruler of beings, the Self of all' (Taitt.Ār. III, 24);
 </details>
@@ -4564,7 +4564,7 @@ Other scriptural texts teach the same doctrine; cp. 'Entered within, the ruler o
 इत्यादि
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'He who dwelling in the earth is within the earth – whose body is the earth,' &c., up to 'he who dwelling within the Self is within the Self, whom the Self does not know, of whom the Self is the body, who rules the Self from within, he is thy Self, the Ruler within, the Immortal' (Br̥. Up. III, 7, 3-22; Mādhyand. Sā.);
 </details>
@@ -4595,7 +4595,7 @@ Other scriptural texts teach the same doctrine; cp. 'Entered within, the ruler o
 तस्यात्मत्वेन परमात्मानम् उपदिशन्ति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'He who moves within the earth, of whom the earth is the body, &c.--who moves within the Imperishable, of whom the Imperishable is the body, whom the Imperishable does not know; he the inward ruler of all beings, free from evil, the divine, the one god, Nārayaṇa' (Subā. Up. VII). All these texts declare that the world inclusive of intelligent souls is the body of the highest Self, and the latter the Self of everything.--
 </details>
@@ -4613,7 +4613,7 @@ Other scriptural texts teach the same doctrine; cp. 'Entered within, the ruler o
 चेतनस्याप्य् आत्म-भूतं चेतन-शरीरकं परमात्मानम् एव अभिदधति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence those words also that denote intelligent souls designate the highest Self as having intelligent souls for his body and constituting the Self of them;
 </details>
@@ -4642,7 +4642,7 @@ Hence those words also that denote intelligent souls designate the highest Self 
 इत्य्-आदिषु, "देवा भवन्ती"त्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 in the same way as words denoting non-sentient masses of matter, such as the bodies of gods, men, &c., designate the individual souls to which those bodies belong.
 </details>
@@ -4675,7 +4675,7 @@ in the same way as words denoting non-sentient masses of matter, such as the bod
 शरीरि-पर्यवसानं न्याय्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For the body stands towards the embodied soul in the relation of a mode (prakāra); and as words denoting a mode accomplish their full function only in denoting the thing to which the mode belongs, we must admit an analogous comprehensiveness of meaning for those words which denote a body.
 </details>
@@ -4701,7 +4701,7 @@ For the body stands towards the embodied soul in the relation of a mode (prakār
 "इत्थम्" इति प्रतीयमानो ऽंशः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For, when a thing is apprehended under the form 'this is such,' the element apprehended as 'such' is what constitutes a mode;
 </details>
@@ -4726,7 +4726,7 @@ For, when a thing is apprehended under the form 'this is such,' the element appr
 तस्मिन्न् एव पर्यवस्यति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 now as this element is relative to the thing, the idea of it is also relative to the thing, and finds its accomplishment in the thing only; hence the word also which expresses the mode finds its accomplishment in the thing.
 </details>
@@ -4754,7 +4754,7 @@ now as this element is relative to the thing, the idea of it is also relative to
 इति परमात्म-वाचि-शब्देन सामानाधिकरण्यं मुख्यम् एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence words such as 'cow', 'horse, 'man', which denote a mode, viz. a species, comprise in their meaning also that mass of matter which exhibits the characteristics of the species, and as that mass of matter constitutes the body and therefore is a mode of a soul, and as that soul again, so embodied, is a mode of the highest Self; it follows that all these words extend in their signification up to the highest Self. The meaning of all words then is the highest Self, and hence their co-ordination with words directly denoting that highest Self is a primary (not merely 'implied') one.
 </details>
@@ -4797,7 +4797,7 @@ Hence words such as 'cow', 'horse, 'man', which denote a mode, viz. a species, c
 यथा – दण्डी, कुण्डली इति ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But, an objection is raised, we indeed observe that words denoting species or qualities stand in co-ordination to words denoting substances, 'the ox is short-horned,' 'the sugar is white'; but where substances appear as the modes of other substances we find that formative affixes are used, 'the man is daṇḍin, kuṇḍalin' (bearing a stick; wearing earrings).--
 </details>
@@ -4827,7 +4827,7 @@ But, an objection is raised, we indeed observe that words denoting species or qu
 अन्योऽन्यस्मिन् व्यभिचारात्,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This is not so, we reply. There is nothing to single out either species, or quality, or substance, as what determines co-ordination: co-ordination disregards such limitations.
 </details>
@@ -4862,7 +4862,7 @@ This is not so, we reply. There is nothing to single out either species, or qual
 धर्मान्तर-विशिष्ट--तद्-द्रव्य-वाचिना शब्देन सामानाधिकरण्यं युक्तम् एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Whenever a _thing_ (whether species, or quality, or substance) has existence as a _mode_ only – owing to its proof, existence and conception being inseparably connected with something else – the words denoting it, as they designate a substance characterised by the attribute denoted by them, appropriately enter into co-ordination with other words denoting the same substance as characterised by other attributes.
 </details>
@@ -4893,7 +4893,7 @@ Whenever a _thing_ (whether species, or quality, or substance) has existence as 
 इति निरवद्यम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Where, on the other hand, a substance which is established in separation from other things and rests on itself, is assumed to stand occasionally in the relation of mode to another substance, this is appropriately expressed by the use of derived forms such as 'daṇḍin, kuṇḍalin.'--
 </details>
@@ -4926,7 +4926,7 @@ Where, on the other hand, a substance which is established in separation from ot
 इति सामानाधिकरण्येनोपसंहृतम्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence such words as 'I,' 'thou,' &c., which are different forms of appellation of the individual soul, at bottom denote the highest Self only; for the individual souls together with non-sentient matter are the body – and hence modes – of the highest Self. This entire view is condensed in the co-ordination 'Thou art that.'
 </details>
@@ -4959,7 +4959,7 @@ Hence such words as 'I,' 'thou,' &c., which are different forms of appellation o
 जीवं न स्पृशन्ति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The individual soul being thus connected with the highest Self as its body, its attributes do not touch the highest Self, not any more than infancy, youth, and other attributes of the material body touch the individual soul.
 </details>
@@ -4985,7 +4985,7 @@ The individual soul being thus connected with the highest Self as its body, its 
 सर्व-कल्याण-गुणाकरं, निरस्त-समस्त-हेय-गन्धं, परमात्मानम् आचष्टे,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence, in the co-ordination 'Thou art that,' the word 'that' denotes the highest Brahman which is the cause of the world, whose purposes come true, which comprises within itself all blessed qualities, which is free from all shadow of evil;
 </details>
@@ -5004,7 +5004,7 @@ Hence, in the co-ordination 'Thou art that,' the word 'that' denotes the highest
 इति सामानाधिकरण्यं मुख्य-वृत्तम्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 while the word 'thou' denotes the same highest Self in so far as having for its body the individual souls together with their bodies. The terms co-ordinated may thus be taken in their primary senses;
 </details>
@@ -5022,7 +5022,7 @@ while the word 'thou' denotes the same highest Self in so far as having for its 
 ब्रह्मणि निरवद्ये कल्याणैकताने अ-विद्याऽदि-दोष-गन्धाभावश् च।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 there is no contradiction either with the subject-matter of the section, or with scripture in general; and not a shadow of imperfection such as Nescience, and so on, attaches to Brahman, the blameless, the absolutely blessed.
 </details>
@@ -5053,7 +5053,7 @@ there is no contradiction either with the subject-matter of the section, or with
 विज्ञानमयाज् जीवाद् अन्य एवानन्दमयः परमात्मा॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The co-ordination with the individual soul thus proves only the difference of Brahman from the soul, which is a mere mode of Brahman; and hence we hold that different from the Self consisting of knowledge, i.e. the individual soul, is the Self consisting of bliss, i.e. the highest Self.
 </details>
@@ -5088,7 +5088,7 @@ The co-ordination with the individual soul thus proves only the difference of Br
 – इति, तद् अ-युक्तम्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor is there any force in the objection that as the Self of bliss is said to be 'sārira,' i.e. embodied-viz. in the clause 'of him the embodied Self is the same' (Taitt. Up. II, 5, 6)--it cannot be different from the individual soul.
 </details>
@@ -5119,7 +5119,7 @@ Nor is there any force in the objection that as the Self of bliss is said to be 
 इति परमात्मन एव शारीरात्मत्वाभिधानात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For throughout this section the recurring clause 'of him the embodied Self is the same as of the preceding one,' refers to the highest Self, calling that the 'embodied' one.
 </details>
@@ -5146,7 +5146,7 @@ For throughout this section the recurring clause 'of him the embodied Self is th
 तच्-छरीरत्वम् अवगम्यते।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The clause 'From that same Self sprang ether' (II, 1) designates the highest Brahman-which is different from the individual soul and is introduced as the highest cause of all things created – as the 'Self'; whence we conclude that all things different from it – from ether up to the Self of food constitute its body.
 </details>
@@ -5189,7 +5189,7 @@ The clause 'From that same Self sprang ether' (II, 1) designates the highest Bra
 इति सुबाल-श्रुत्या सर्व-तत्त्वानां परमात्म-शरीरत्वं स्पष्टम् अभिधीयते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Subāla-upanishad moreover states quite directly that all beings constitute the body of the highest Self: 'He of whom the earth is the body, of whom water is the body, of whom fire is the body, of whom wind is the body, of whom ether is the body, of whom the Imperishable is the body, of whom Death is the body, he the inner Self of all, the divine one, the one god Nārāyaṇa.'
 </details>
@@ -5217,7 +5217,7 @@ The Subāla-upanishad moreover states quite directly that all beings constitute 
 इत्य्-अत्रैवान्नमयस्य परमात्मैव शारीर आत्मेत्य् अवगतः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 From this it follows that what constitutes the embodied Self of the Self of food is nothing else but the highest Self referred to in the clause 'From that same Self sprang ether.'
 </details>
@@ -5255,7 +5255,7 @@ From this it follows that what constitutes the embodied Self of the Self of food
 एवं मनोमय-विज्ञानमययोर् द्रष्टव्यम् ॥+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 When, then, the text further on says with regard to the Self of breath, 'of him the embodied Self is the same as of the preceding one' (II, 3), the meaning can only be that what constitutes the embodied Self of the 'preceding' Self of food, viz. the highest Self which is the universal cause, is also the embodied Self of the Self consisting of breath. The same reasoning holds good with regard to the Self consisting of mind and the Self consisting of knowledge.
 </details>
@@ -5284,7 +5284,7 @@ When, then, the text further on says with regard to the Self of breath, 'of him 
 इति निर्देशस् तस्य अनन्यात्मत्वं दर्शयितुम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the case, finally, of the Self consisting of bliss, the expression 'the same' (esha eva) is meant to convey that that Self has its Self in nothing different from itself.
 </details>
@@ -5311,7 +5311,7 @@ In the case, finally, of the Self consisting of bliss, the expression 'the same'
 परमात्मैव शारीर आत्मेत्य् अवगतः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For when, after having understood that the highest Self is the embodied Self of the vijñānamaya also,
 </details>
@@ -5346,7 +5346,7 @@ For when, after having understood that the highest Self is the embodied Self of 
 परमात्मनस् स्वयम् एवात्मेत्य् अवगम्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 we are told that the embodied Self of that vijñānamaya is also the embodied Self of the ānandamaya,  
 we understand that of the ānandamaya – which we know to be the highest Self on the ground of 'multiplication'--its own Self is the Self.
@@ -5388,7 +5388,7 @@ we understand that of the ānandamaya – which we know to be the highest Self o
 स एव निरुपाधिकश् शारीर आत्मा।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The final purport of the whole section thus is that everything different from the highest Self, whether of intelligent or non-intelligent nature, constitutes its body, while that Self alone is the non-conditioned embodied Self.
 </details>
@@ -5418,7 +5418,7 @@ The final purport of the whole section thus is that everything different from th
 अन्य एव परमात्मा आनन्दमयः॥ १३॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For this very reason competent persons designate this doctrine which has the highest Brahman for its subject-matter as the 'śārīraka,' i. e. the doctrine of the 'embodied' Self.--We have thus arrived at the conclusion that the Self of bliss is something different from the individual Self, viz. the highest Self.--13.
 </details>
@@ -5451,7 +5451,7 @@ For this very reason competent persons designate this doctrine which has the hig
 "नित्यं वृद्ध-शरादिभ्यः" (अष्टाध्याय्यां ४.४.२४४) इति विकारार्थे मयट् स्मर्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here the Pūrvapakshin raises the following objection.--The Self consisting of bliss (ānandamaya) is not something different from the individual soul, because the formative element – maya denotes something made, a thing effected. That this is the meaning of – maya in ānandamaya we know from Pāṇini IV, 3, l44.--
 </details>
@@ -5485,7 +5485,7 @@ Here the Pūrvapakshin raises the following objection.--The Self consisting of b
 वृद्धश् चायम् आनन्द-शब्दः॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And this आनन्द word is वृद्ध संज्ञक [of long vowel origin].
 </details>
@@ -5507,7 +5507,7 @@ And this आनन्द word is वृद्ध संज्ञक [of long vow
 स एवायं भविष्यति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 > But according to Pā. V, 4, 21,--maya has also the sense of 'abounding in'; as when we say 'the sacrifice is annamaya,' i.e. abounds in food. And this may be its sense in 'ānandamaya' also!--
 </details>
@@ -5537,7 +5537,7 @@ And this आनन्द word is वृद्ध संज्ञक [of long vow
 अस्यापि विकारार्थत्वम् एव युक्तम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Not so, the Pūrvapakshin replies. In 'annamaya,' in an earlier part of the chapter,--maya has the sense of 'made of', 'consisting of'; and for the sake of consistency, we must hence ascribe the same sense to it in 'ānandamaya.'
 </details>
@@ -5556,7 +5556,7 @@ Not so, the Pūrvapakshin replies. In 'annamaya,' in an earlier part of the chap
 जीवाद् अन्यत्वं न सिद्ध्यति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And even if, in the latter word, it denoted abundance, this would not prove that the ānandamaya is other than the individual soul.
 </details>
@@ -5580,7 +5580,7 @@ And even if, in the latter word, it denoted abundance, this would not prove that
 दुःख-मिश्रत्वम् अवर्जनीयम्। +++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For if we say that a Self 'abounds' in bliss, this implies that with all this bliss there is mixed some small part of pain;
 </details>
@@ -5605,7 +5605,7 @@ For if we say that a Self 'abounds' in bliss, this implies that with all this bl
 अत औचित्य-प्राप्त-विकारार्थत्वम् एव युक्तम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and to be 'mixed with pain' is what constitutes the character of the individual soul. It is therefore proper to assume, in agreement with its previous use, that 'ānandamaya' means 'consisting of bliss.'
 </details>
@@ -5638,7 +5638,7 @@ and to be 'mixed with pain' is what constitutes the character of the individual 
 स एव प्रथमतरं धियम् अधिरोहति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In ordinary speech as well as in Vedic language (cp. common words such as 'mr̥nmaya,' 'hiraṇmaya'; and Vedic clauses such as 'parṇamayijuhūḥ') -maya as a rule means 'consisting of,' and this meaning hence presents itself to the mind first.
 </details>
@@ -5671,7 +5671,7 @@ In ordinary speech as well as in Vedic language (cp. common words such as 'mr̥n
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And the individual soul _may_ be denoted as 'made of bliss'; for in itself it is of the essence of bliss, and its Saṁsāra state therefore is something 'made of bliss.' The conclusion therefore is that, owing to the received meaning of -maya, the ānandamaya is none other than the individual soul.--To this primā facie view the next Sūtra refers and refutes it.
 </details>
@@ -5698,7 +5698,7 @@ And the individual soul _may_ be denoted as 'made of bliss'; for in itself it is
 तद् एतद् अनुभाष्य परिहरति –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Refuting this, the text proceeds:
 </details>
@@ -5714,7 +5714,7 @@ Refuting this, the text proceeds:
 १४. +++(मयटि)+++ विकार-+++(व्याकरण-)+++शब्दान्  +++(अनन्दमय आत्मा ब्रह्म)+++ नेति चेन्, न - +++(परस्मिन् ब्रह्मण्य् आनन्दस्य आनन्द-मीमांसोक्त-)+++ प्राचुर्यात् ॥ १-१-१४ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 14. If, on account of its being a word denoting an effect, (ānandamaya be said) not (to denote the highest Self); (we say) no, on account of abundance.
 </details>
@@ -5738,7 +5738,7 @@ Refuting this, the text proceeds:
 परस्मिन् ब्रह्मण्य् आनन्द-प्राचुर्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We deny the conclusion of the Pūrvapakshin, on the ground of there being abundance of bliss in the highest Brahman,
 </details>
@@ -5764,7 +5764,7 @@ We deny the conclusion of the Pūrvapakshin, on the ground of there being abunda
 प्राचुर्यार्थे च मयटस् सम्भवात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and 'abundance' being one of the possible meanings of -maya.--
 </details>
@@ -5794,7 +5794,7 @@ and 'abundance' being one of the possible meanings of -maya.--
 – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Since bliss such as described in the Taitt. Up.--bliss which is reached by successively multiplying by hundred all inferior kinds of bliss – cannot belong to the individual soul, we conclude that it belongs to Brahman; and as Brahman cannot be an effect, and as -maya may have the sense of 'abounding in,' we conclude that the ānandamaya is Brahman itself; 
 </details>
@@ -5821,7 +5821,7 @@ Since bliss such as described in the Taitt. Up.--bliss which is reached by succe
 +++(पूर्वोक्ताद्)+++ अर्थ-विरोधान् न सम्भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 inner contradiction obliging us to set aside that sense of -maya which is recommended by regard to 'consequence' and frequency of usage.
 </details>
@@ -5861,7 +5861,7 @@ inner contradiction obliging us to set aside that sense of -maya which is recomm
 तत्र विकारार्थत्वासम्भवात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The regard for consistency, moreover, already has to be set aside in the case of the 'prāṇamaya'; for in that term -maya cannot denote 'made of.'  
 </details>
@@ -5894,7 +5894,7 @@ The regard for consistency, moreover, already has to be set aside in the case of
 प्राण-वृत्तेः प्राचुर्याद् वा ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The 'prāṇamaya' Self can only be called by that name in so far as air with its five modifications has (among others) the modification called prāṇa, i.e. breathing out,
 or because among the five modifications or functions of air prāṇa is the 'abounding,' i.e. prevailing one.--
@@ -5918,7 +5918,7 @@ or because among the five modifications or functions of air prāṇa is the 'abo
 "अन्नमयो यज्ञः", "शकटमयी यात्रा" इत्य्-आदिषु दर्शनात्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be truly said that -maya is but rarely used in the sense of 'abounding in': expressions such as 'a sacrifice abounding in food' (annamaya), 'a procession with many carriages' (śakaṭamayī), are by no means uncommon.--
 </details>
@@ -5939,7 +5939,7 @@ Nor can it be truly said that -maya is but rarely used in the sense of 'aboundin
 अपि तु तस्याल्पत्वं निवर्तयति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor can we admit that to call something 'abounding in bliss' implies the presence of _some_ pain. For 'abundance' precludes paucity on the part of that which is said to abound, but does not imply the presence of what is contrary.
 </details>
@@ -5975,7 +5975,7 @@ Nor can we admit that to call something 'abounding in bliss' implies the presenc
 इत्य् आदिना।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The presence or absence of what is contrary has to be ascertained by other means of proof; and in our case we do ascertain the absence of what is contrary to bliss by such means, viz. the clause 'free from evil,' &c.
 </details>
@@ -6003,7 +6003,7 @@ The presence or absence of what is contrary has to be ascertained by other means
 अन्यानन्दस्याल्पत्वम् अपेक्षत इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Abundance of bliss on the part of Brahman certainly implies a relation to paucity on the part of some other bliss;
 </details>
@@ -6049,7 +6049,7 @@ Abundance of bliss on the part of Brahman certainly implies a relation to paucit
 जीवानन्दापेक्षया ब्रह्मानन्दो निरतिशय-दशा-पन्नः प्रभूत इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and in accordance with this demand the text says 'That is one measure of human bliss,' &c. (II, 8, 1). The bliss of Brahman is of measureless abundance, compared to the bliss of the individual soul.--
 </details>
@@ -6071,7 +6071,7 @@ and in accordance with this demand the text says 'That is one measure of human b
 सकल-श्रुति-स्मृति-न्याय-विरुद्धः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be maintained that the individual soul may be viewed as being an effect of bliss. For that a soul whose essential nature is knowledge and bliss should in any way be changed into something else, as a lump of clay is made into a pot, is an assumption contradicted by all scripture, sacred tradition, and reasoning.
 </details>
@@ -6100,7 +6100,7 @@ Nor can it be maintained that the individual soul may be viewed as being an effe
 कर्मणा ज्ञानानन्दौ सङ्कुचिताव् इत्य् उपपादयिष्येते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That in the Saṁsāra state the soul's bliss and knowledge are contracted owing to karman will be shown later on.--
 </details>
@@ -6122,7 +6122,7 @@ That in the Saṁsāra state the soul's bliss and knowledge are contracted owing
 अतश् च - आनन्दमयो जीवाद् अन्यः परं ब्रह्म॥१४॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Self of bliss therefore is other than the individual soul; it is Brahman itself. A further reason for this conclusion is supplied by the next Sūtra.
 </details>
@@ -6146,7 +6146,7 @@ The Self of bliss therefore is other than the individual soul; it is Brahman its
 इतश् च जीवाद् अन्य आनन्दमयः परं ब्रह्म –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And for this reason also, the Self consisting of bliss is the Highest Self:
 </details>
@@ -6163,7 +6163,7 @@ And for this reason also, the Self consisting of bliss is the Highest Self:
 > १५. तद्+++(→आनन्द)+++-हेतु-व्यपदेशाच् च ॥ १-१-१५ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 15. And because he is declared to be the cause of that.
 </details>
@@ -6193,7 +6193,7 @@ And for this reason also, the Self consisting of bliss is the Highest Self:
 एष एव जीवान् आनन्दयतीति जीवानन्द-हेतुर् अयं व्यपदिश्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'For who could breathe, who could breathe forth, if that bliss existed not in the ether? He alone causes bliss' (Taitt. Up. II, 7). This means – He alone is the cause of bliss on the part of the individual souls.--
 </details>
@@ -6220,7 +6220,7 @@ And for this reason also, the Self consisting of bliss is the Highest Self:
 आनन्दयिता ऽयम् अन्य आनन्दमयः परमात्मेति विज्ञायते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Some one is here designated as the cause of bliss enjoyed by the souls; and we thus conclude that the causer of bliss, who must be other than the souls to which bliss is imparted, is the highest Self abounding in bliss.
 </details>
@@ -6245,7 +6245,7 @@ Some one is here designated as the cause of bliss enjoyed by the souls; and we t
 इति चानन्तरम् एव वक्ष्यते॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the passage quoted the term 'bliss' denotes him who abounds in bliss, as will be shown later on.--A further reason is given in the next Sūtra.
 </details>
@@ -6267,7 +6267,7 @@ In the passage quoted the term 'bliss' denotes him who abounds in bliss, as will
 इतश् च जीवाद् अन्य आनन्दमयः
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And for this reason also, the Self of bliss is other than the individual soul:
 </details>
@@ -6289,7 +6289,7 @@ And for this reason also, the Self of bliss is other than the individual soul:
 > १६. +++("ब्र॒ह्म॒-विद् आ॑प्नोति॒ पर॑म् … सत्यं ज्ञानम् अनन्तं ब्रह्म; ब्रह्मविद् " →)+++ मान्त्र-वर्णिकम् +++(ब्रह्म)+++ एव च +++("आनन्द-मय" इति)+++ गीयते ॥ १-१-१६ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 16. And because that (Brahman) which is referred to in the mantra is declared (to be the ānandamaya).
 </details>
@@ -6308,7 +6308,7 @@ And for this reason also, the Self of bliss is other than the individual soul:
 इति मन्त्र-वर्णोदितं ब्रह्मैवानन्दमय इति गीयते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That Brahman which is described in the mantra, 'True Being, knowledge, infinite is Brahman,' is proclaimed as the Self abounding in bliss.
 </details>
@@ -6332,7 +6332,7 @@ That Brahman which is described in the mantra, 'True Being, knowledge, infinite 
 तत् तु जीव-स्वरूपाद् अन्यत् परं ब्रह्म ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And that Brahman is the highest Brahman, other than the individual soul;
 </details>
@@ -6358,7 +6358,7 @@ And that Brahman is the highest Brahman, other than the individual soul;
 इति जीवस्य प्राप्यतया ब्रह्म निर्दिष्टम् ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for the passage 'He who knows Brahman attains the Highest' refers to Brahman as something to be obtained by the individual soul,
 </details>
@@ -6387,7 +6387,7 @@ for the passage 'He who knows Brahman attains the Highest' refers to Brahman as 
 ऋग् एषा अध्येतृभिर् उक्ता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and the words 'On this the following verse is recorded' show that the verse is related to that same Brahman.
 </details>
@@ -6420,7 +6420,7 @@ and the words 'On this the following verse is recorded' show that the verse is r
 इत्य् अर्थः।  
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The mantra thus is meant to render clear the meaning of the Brāhmaṇa passage. 
 </details>
@@ -6449,7 +6449,7 @@ The mantra thus is meant to render clear the meaning of the Brāhmaṇa passage.
 तस्माद् विलक्षणम् एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now the Brahman to be reached by the meditating Devotee must be something different from him.
 </details>
@@ -6482,7 +6482,7 @@ Now the Brahman to be reached by the meditating Devotee must be something differ
 अतो जीवाद् अन्य आनन्दमयः॥+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The same point is rendered clear by all the following Brāhmaṇa passages and mantras: 'from that same Self sprang ether,' and so on. The Self abounding in bliss therefore is other than the individual soul.
 </details>
@@ -6511,7 +6511,7 @@ The same point is rendered clear by all the following Brāhmaṇa passages and m
 तथापि न वस्त्व्-अन्तरं जीवान् मान्त्र-वर्णिकं ब्रह्म;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here an opponent argues as follows:--We indeed must acknowledge that the object to be reached is something different from the meditating Devotee; but the fact is that the Brahman described in the mantra does not substantially differ from the individual soul;
 </details>
@@ -6534,7 +6534,7 @@ Here an opponent argues as follows:--We indeed must acknowledge that the object 
 निरस्त-समस्ताविद्या-गन्ध- -निर्विशेष--चिन्-मात्रैक-रसं शुद्धं स्वरूपम्, तद् एव "सत्यं ज्ञानम् अनन्तं ब्रह्म" इति मन्त्रेण विशोध्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 that Brahman is nothing but the soul of the Devotee in its pure state, consisting of mere non-differenced intelligence, free from all shade of Nescience. To this pure condition it is reduced in the mantra describing it as true Being, knowledge, infinite.
 </details>
@@ -6564,7 +6564,7 @@ that Brahman is nothing but the soul of the Devotee in its pure state, consistin
 निर्विशेषम् इति गम्यते।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 A subsequent passage, 'that from which all speech, with the mind, turns away, unable to reach it' (II. 9), expresses this same state of non-differentiation, describing it as lying beyond mind and speech.
 </details>
@@ -6593,7 +6593,7 @@ A subsequent passage, 'that from which all speech, with the mind, turns away, un
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It is this therefore to which the mantra refers, and the Self of bliss is identical with it.
 </details>
@@ -6611,7 +6611,7 @@ It is this therefore to which the mantra refers, and the Self of bliss is identi
 अत उत्तरं पठति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --To this view the next Sūtra replies.
 </details>
@@ -6628,7 +6628,7 @@ It is this therefore to which the mantra refers, and the Self of bliss is identi
 **१७. नेतरो ऽनुपपत्तेः +++(←ऋग्-उक्त- -निरुपाधिक-विपश्चित्त्वाभावात्)+++ ॥ १-१-१७ ॥**
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 17. Not the other, on account of impossibility.
 </details>
@@ -6646,7 +6646,7 @@ It is this therefore to which the mantra refers, and the Self of bliss is identi
 कुतः? अनुपपत्तेः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The other than the highest Self, i.e. the one called jīva, even in the state of release, is not that Self which the mantra describes; for this is not possible.
 </details>
@@ -6669,7 +6669,7 @@ The other than the highest Self, i.e. the one called jīva, even in the state of
 निरुपाधिकं विपश्चित्त्वं न उपपद्यते ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For to a Self of that kind unconditioned intelligence (such as is, in the mantra, ascribed to Brahman; cp. the term 'vipaścitā') cannot belong.
 </details>
@@ -6699,7 +6699,7 @@ For to a Self of that kind unconditioned intelligence (such as is, in the mantra
 इति सत्य-सङ्कल्पत्व-प्रदर्शनेन विवरिष्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Unconditioned intelligence is illustrated by the power of all one's purposes realising themselves; as expressed in the text 'He desired, may I be many, may I grow forth.'
 </details>
@@ -6723,7 +6723,7 @@ Unconditioned intelligence is illustrated by the power of all one's purposes rea
 व्युत्पादितो विपश्चिच्-छब्दः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Intelligence (vipaścittvam, i.e. power of insight into various things) does indeed belong to the soul in the state of release;
 </details>
@@ -6753,7 +6753,7 @@ Intelligence (vipaścittvam, i.e. power of insight into various things) does ind
 निरुपाधिकं विपश्चित्त्वं नोपपद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but as in the Saṁsāra state the same soul is devoid of such insight, we cannot ascribe to it non-conditioned intelligence.
 </details>
@@ -6788,7 +6788,7 @@ but as in the Saṁsāra state the same soul is devoid of such insight, we canno
 इति च पूर्वम् एवोक्तम् ॥+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And if the released soul is viewed as being mere non-differenced intelligence, it does not possess the capacity of seeing different things, and hence cannot of course possess vipaścittva in the sense stated above. That, however, the existence of a substance devoid of all difference cannot be proved by any means of knowledge, we have already shown before.
 </details>
@@ -6821,7 +6821,7 @@ And if the released soul is viewed as being mere non-differenced intelligence, i
 तस्य तुच्छत्वम् एव आपद्यते।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Again, if the clause 'from whence speech returns,' &c., were meant to express that speech and mind return from Brahman, this could not mean that the Real is devoid of all difference, but only that mind and speech are not means for the knowledge of Brahman. And from this it would follow that Brahman is something altogether empty, futile.
 </details>
@@ -6855,7 +6855,7 @@ Again, if the clause 'from whence speech returns,' &c., were meant to express th
 इति भ्रान्त-जल्पितम्। +++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Let us examine the context. The whole section, beginning with 'He who knows Brahman reaches Brahman,' declares that Brahman is all-knowing, the cause of the world, consisting of pure bliss, the cause of bliss in others; that through its mere wish it creates the whole universe comprising matter and souls; that entering into the universe of created things it constitutes their Self; that it is the cause of fear and fearlessness; that it rules Vāyu Āditya and other divine beings; that its bliss is ever so much superior to all other bliss; and many other points. Now, all at once, the clause 'from whence speech returns' is said to mean that neither speech nor mind applies to Brahman, and that thus there are no means whatever of knowing Brahman! This is idle talk indeed!
 </details>
@@ -6911,7 +6911,7 @@ Let us examine the context. The whole section, beginning with 'He who knows Brah
 </details>
 
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the clause '(that) from which speech returns,' the relative pronoun 'from which' denotes bliss; this bliss is again explicitly referred to in the clause 'knowing the bliss of Brahman'--the genitive 'of Brahman' intimating that the bliss belongs to Brahman; what then could be the meaning of this clause which distinctly speaks of a knowledge of Brahman, if Brahman had at the same time to be conceived as transcending all thought and speech? What the clause really means rather is that if one undertakes to state the definite amount of the bliss of Brahman
 </details>
@@ -6943,7 +6943,7 @@ In the clause '(that) from which speech returns,' the relative pronoun 'from whi
 इत्य् उच्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 – the superabundance of which is illustrated by the successive multiplications with hundred – mind and speech have to turn back powerless, since no such definite amount can be assigned.
 </details>
@@ -6962,7 +6962,7 @@ In the clause '(that) from which speech returns,' the relative pronoun 'from whi
 इत्य् उच्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 He who knows the bliss of Brahman as not to be defined by any definite amount, does not fear anything.--
 </details>
@@ -6996,7 +6996,7 @@ He who knows the bliss of Brahman as not to be defined by any definite amount, d
 मुक्तात्म-स्वरूपाद् अन्यत्वं सुस्पष्टम् एव॥१७॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That, moreover, the all-wise being referred to in the mantra is other than the individual soul in the state of release, is rendered perfectly clear by what – in passages such as 'it desired,' &c.--is said about its effecting, through its mere volition, the origination and subsistence of the world, its being the inner Self of the world, and so on.
 </details>
@@ -7013,7 +7013,7 @@ That, moreover, the all-wise being referred to in the mantra is other than the i
 इतश् च उभयावस्थात् प्रत्यग्-आत्मनो अन्य आनन्दमयः –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And on account of the declaration of difference, the Self consisting of bliss is other than the individual soul:
 </details>
@@ -7030,7 +7030,7 @@ And on account of the declaration of difference, the Self consisting of bliss is
 १८. +++(विज्ञानमयानन्दमययोर्)+++ भेद-व्यपदेशाच् च ॥ १-१-१८ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 18. And on account of the declaration of difference.
 </details>
@@ -7052,7 +7052,7 @@ And on account of the declaration of difference, the Self consisting of bliss is
 जीवाद् अपि तस्य भेदं व्यपदिशति –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The part of the chapter – beginning with the words 'From that same Self there sprang ether'--which sets forth the nature of the Brahman referred to in the mantra, declares its difference from the individual soul, no less than from the Selfs consisting of food, breath, and mind,
 </details>
@@ -7079,7 +7079,7 @@ The part of the chapter – beginning with the words 'From that same Self there 
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 viz. in the clause 'different from this which consists of knowledge, is the other inner Self which consists of bliss.'--
 </details>
@@ -7097,7 +7097,7 @@ viz. in the clause 'different from this which consists of knowledge, is the othe
 अयं मान्त्रवर्णिक आनन्दमयो अन्य एवेति ज्ञायते ॥१८॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Through this declaration of difference from the individual soul we know that the Self of bliss referred to in the mantra is other than the individual soul.
 </details>
@@ -7114,7 +7114,7 @@ Through this declaration of difference from the individual soul we know that the
 इतश् च जीवाद् अन्यः –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And on account of desire, the Self of bliss is other than the individual soul:
 </details>
@@ -7131,7 +7131,7 @@ And on account of desire, the Self of bliss is other than the individual soul:
 १९. कामाच् च न ++++(देहातिरिक्त-प्रधान-)+++अनुमानापेक्षा ॥ १-१-१९ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 19. And on account of desire, there is no regard to what is inferred (i.e. matter).
 </details>
@@ -7175,7 +7175,7 @@ And on account of desire, the Self of bliss is other than the individual soul:
 तथैव हि चतुर्-मुखादीनां कारणत्वम्,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In order that the individual soul which is enthralled by Nescience may operate as the cause of the world, it must needs be connected with non-sentient matter, called by such names as pradhāna, or ānumānika (that which is inferred). For such is the condition for the creative energy of Brahmā and similar beings.
 </details>
@@ -7210,7 +7210,7 @@ In order that the individual soul which is enthralled by Nescience may operate a
 इत्य् आम्नायते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Our text, on the other hand, teaches that the creation of the aggregate of sentient and non-sentient things results from the mere wish of a being free from all connexion with non-sentient matter, 'He desired, may I be many, may I grow forth;' 'He sent forth all, whatever there is' (Taitt. Up. II, 6).
 </details>
@@ -7244,7 +7244,7 @@ Our text, on the other hand, teaches that the creation of the aggregate of senti
 </details>
 
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We understand that that Self of bliss which sends forth the world does not require connexion with non-sentient matter called ānumānika, and hence conclude that it is other than the individual soul.--A further reason is stated in the next Sūtra.
 </details>
@@ -7266,7 +7266,7 @@ We understand that that Self of bliss which sends forth the world does not requi
 इतश् च जीवाद् अन्य आनन्दमयः –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And on account of joining also, the Self consisting of bliss is other than the individual soul:
 </details>
@@ -7283,7 +7283,7 @@ And on account of joining also, the Self consisting of bliss is other than the i
 > २०. अस्मिन्न् +++(आनन्दमये)+++ अस्य +++(जीवस्य)+++ च तद्+++(←आनन्द)+++-योगं शास्ति +++(→"लब्ध्वा …ऽऽनन्दी भवति")+++॥ १-१-२० ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 20. And Scripture teaches the joining of this (i.e. the individual soul) with that (i.e. bliss) in that (i.e. the ānandamaya).
 </details>
@@ -7311,7 +7311,7 @@ And on account of joining also, the Self consisting of bliss is other than the i
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'A flavour he is indeed; having obtained a flavour this one enjoys bliss' (Taitt. Up. II, 7). This text declares that this one, i.e. the so-called individual soul, enjoys bliss through obtaining the ānandamaya, here called 'flavour.'
 </details>
@@ -7340,7 +7340,7 @@ And on account of joining also, the Self consisting of bliss is other than the i
 स स एवेत्य् अनुन्मत्तः को ब्रवीतीत्यर्थः॥ +++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now to say that any one is identical with that by obtaining which he enjoys bliss, would be madness indeed.--
 </details>
@@ -7371,7 +7371,7 @@ Now to say that any one is identical with that by obtaining which he enjoys blis
 यथा +++(पूर्वं दर्शितया रीत्या)+++ विज्ञान-शब्देन विज्ञानमयः।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It being thus ascertained that the Self of bliss is the highest Brahman, we conclude that in passages such as 'if that bliss were not in the ether' (Taitt. Up. II, 7). and 'knowledge, bliss is Brahman' (Br̥. Up. III, 9, 28), the word 'ānanda' denotes the 'ānandamaya'; just as vijñāna means the vijñānamaya.
 </details>
@@ -7401,7 +7401,7 @@ It being thus ascertained that the Self of bliss is the highest Brahman, we conc
 इति व्यतिरेक+++(→आनन्दमात्र)+++-निर्देशः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It is for the same reason (viz. of ānanda meaning the same as ānandamaya) that the clause 'he who knows the bliss of Brahman' exhibits Brahman as being connected with ānanda,
 </details>
@@ -7431,7 +7431,7 @@ It is for the same reason (viz. of ānanda meaning the same as ānandamaya) that
 इति फल-निर्देशश् च।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and that the further clause 'he who knows this reaches the Self of bliss,' declares the reaching of the Self of bliss to be the fruit of the knowledge of bliss.
 </details>
@@ -7461,7 +7461,7 @@ and that the further clause 'he who knows this reaches the Self of bliss,' decla
 इति प्रतिपादनात् +++(मयडं विनाऽप्य् आनन्दमयो ह्य् आनन्दः)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the subsequent anuvāka also, in the clauses 'he perceived that food is Brahman,' 'he perceived that breath is Brahman,' &c. (III, i; 2, &c.), the words 'food,' 'breath,' and so on, are meant to suggest the Self made of food, the Self made of breath, &c., mentioned in the preceding anuvāka;
 </details>
@@ -7504,7 +7504,7 @@ In the subsequent anuvāka also, in the clauses 'he perceived that food is Brahm
 इत्य् उपसंहृतम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and hence also in the clause 'he perceived that bliss is Brahman,' the word 'bliss' must be understood to denote the Self of bliss. Hence, in the same anuvāka, the account of the fate after death of the man who knows concludes with the words 'having reached the Self of bliss' (III, 10,5).
 </details>
@@ -7522,7 +7522,7 @@ and hence also in the clause 'he perceived that bliss is Brahman,' the word 'bli
 जीव-शब्दाभिलपनीयाद् अपि वस्तुनो अर्थान्तरत्वं सिद्धम्॥ २०॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It is thus finally proved that the highest Brahman – which in the previous adhikaraṇa had to be shown to be other than the so-called Pradhāna – is also other than the being called individual soul.--This concludes the topic of the ānandamaya.
 </details>
@@ -7594,7 +7594,7 @@ It is thus finally proved that the highest Brahman – which in the previous adh
 **इति श्रीशारीरकमीमांसाभाष्ये आनन्दमयाधिकरणम्॥६॥**
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 **Thus ends the Anandamayādhikaraṇa.**
 </details>

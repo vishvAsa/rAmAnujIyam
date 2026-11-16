@@ -23,7 +23,7 @@ title = "०७ अन्तरधिकरणम्"
 इतीमाम् आशङ्कां निराकरोति –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 A new doubt here presents itself. --It must indeed be admitted that such individual souls as possess only a moderate degree of merit are unable to accomplish the creation of the world by their mere wish, to enjoy supreme bliss, to be the cause of fearlessness, and so on; but why should not beings like Āditya and Prajāpati, whose merit is extraordinarily great, be capable of all this? --Of this suggestion the next Sūtra disposes. 
 </details>
@@ -65,7 +65,7 @@ A new doubt here presents itself. --It must indeed be admitted that such individ
 २१. +++(आदित्य-पुरुषयोर्)+++ अन्तस् +++(ब्रह्म)+++ तद्+++(→ब्रह्म)+++-धर्मोपदेशात् ॥ १-१-२१ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 21\. The one within (the sun and the eye); on account of his qualities being declared.
 </details>
@@ -87,7 +87,7 @@ A new doubt here presents itself. --It must indeed be admitted that such individ
 आप्रणखात् सर्व एव सुवर्णः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It is said in the Cḥāndogya: 'Now that person bright as gold, who is seen within the sun, with beard bright as gold and hair bright as gold, golden altogether to the very tips of his nails,
 </details>
@@ -136,7 +136,7 @@ It is said in the Cḥāndogya: 'Now that person bright as gold, who is seen wit
 इत्य् अधिदैवतम् (छा.१.६.६,७,८)  
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 whose eyes are like blue lotus; his name is Ut, for he has risen (udita) above all evil. He also who knows this rises above all evil.  
 R̥k and Sāman are his joints.- So much with reference to the devas. 
@@ -178,7 +178,7 @@ R̥k and Sāman are his joints.- So much with reference to the devas.
 इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now with reference to the body. --Now that person who is seen within the eye, he is R̥k, he is Sāman, Uktha, Yajus, Brahman. The form of this person (in the eye) is the same as of that person yonder (in the sun), the joints of the one are the joints of the other, the name of the one is the – name of the other' (_Kh._ Up. I, 7).
 </details>
@@ -235,7 +235,7 @@ Now with reference to the body. --Now that person who is seen within the eye, he
 पुण्योपचय-र्निमित्तैश्वर्य आदित्य्-आदि-शब्दाभिलप्यो जीव एव;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Here there arises the doubt whether that person dwelling within the eye and the sun be the individual soul called Āditya, who through accumulation of religious merit possesses lordly power,
 </details>
@@ -257,7 +257,7 @@ Now with reference to the body. --Now that person who is seen within the eye, he
 – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 or the highest Self other than that soul.
 </details>
@@ -284,7 +284,7 @@ or the highest Self other than that soul.
 उपिचतपुण्यो जीव एवेति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That individual soul of high merit, the Pūrvapakshin maintains.
 </details>
@@ -326,7 +326,7 @@ That individual soul of high merit, the Pūrvapakshin maintains.
 स-शरीरत्व-श्रवणात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For the text states that that person has a body,
 </details>
@@ -341,7 +341,7 @@ For the text states that that person has a body,
 शरीर-सम्बन्धो हि जीवानाम् एव सम्भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and connexion with a body belongs to individual souls only,
 </details>
@@ -356,7 +356,7 @@ and connexion with a body belongs to individual souls only,
 कर्मानुगुण-प्रियाप्रिय-योगाय हि शरीर-सम्बन्धः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for it is meant to bring the soul into contact with pleasure and pain, according to its deserts.
 </details>
@@ -379,7 +379,7 @@ for it is meant to bring the soul into contact with pleasure and pain, according
 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It is for this reason that Scripture describes final Release where there is no connexion with works as a state of disembodiedness. 
 </details>
@@ -408,7 +408,7 @@ It is for this reason that Scripture describes final Release where there is no c
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'So long as he is in the body he cannot get free from pleasure and pain. But when he is free from the body, then neither pleasure nor pain touches him' (_Kh._ Up. VIII, 12, 1).
 </details>
@@ -425,7 +425,7 @@ It is for this reason that Scripture describes final Release where there is no c
 ज्ञानाधिक्यम्, शक्त्य्-आधिक्यञ् च।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And a soul of transcendent merit may possess surpassing wisdom and power,
 </details>
@@ -440,7 +440,7 @@ And a soul of transcendent merit may possess surpassing wisdom and power,
 अत एव लोक-कामेशत्वादि तस्यैवोपपद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and thus be capable of being lord of the worlds and the wishes (I, 6, 8).
 </details>
@@ -455,7 +455,7 @@ and thus be capable of being lord of the worlds and the wishes (I, 6, 8).
 तत एव चोपास्यत्वम्, फल-दायित्वं, पाप-क्षपण-करत्वेन मोक्षोपयोगित्वं च।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For the same reason such a soul may be the object of devout meditation, bestow rewards, and by being instrumental in destroying evil, be helpful towards final release.
 </details>
@@ -471,7 +471,7 @@ For the same reason such a soul may be the object of devout meditation, bestow r
 ज्ञान-शक्त्य्-आदिभिर् अधिकतरा दृश्यन्ते;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Even among men some are seen to be of superior knowledge and power, owing to superior religious merit;
 </details>
@@ -493,7 +493,7 @@ Even among men some are seen to be of superior knowledge and power, owing to sup
 ततश् च सिद्ध-गन्धर्वादयः;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and this holds good with regard to the Siddhas and Gandharvas also;
 </details>
@@ -508,7 +508,7 @@ and this holds good with regard to the Siddhas and Gandharvas also;
 ततश् च देवाः;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 then with regard to the devas;
 </details>
@@ -523,7 +523,7 @@ then with regard to the devas;
 ततश् चेन्द्रादयः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 then with regard to the divine beings, beginning with Indra.
 </details>
@@ -542,7 +542,7 @@ then with regard to the divine beings, beginning with Indra.
 जगत्-कारणत्व-- जगद्-अन्तर्-आत्मत्वादि-वाक्यम् अस्मिन्न् एवोपचित-पुण्य-विशेषे सर्व-ज्ञे सर्व-शक्तौ वर्तते ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence, also, one among the divine beings, beginning with Brahmā, may in each kalpa reach, through a particularly high degree of merit, vast lordly power and thus effect the creation of the world, and so on. On this supposition the texts about that which constitutes the cause of the world and the inward Self of the world must also be understood to refer to some such soul which, owing to superiority of merit, has become all-knowing and all-powerful.
 </details>
@@ -568,7 +568,7 @@ Hence, also, one among the divine beings, beginning with Brahmā, may in each ka
 अतो न जीवाद् अतिरिक्तः परमात्मा नाम कश्चिद् अस्ति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 A so-called highest Self, different from the individual souls, does not therefore exist.
 </details>
@@ -589,7 +589,7 @@ A so-called highest Self, different from the individual souls, does not therefor
 भवन्ति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Where the texts speak of that which is neither coarse nor fine nor short, &c., they only mean to characterise the individual soul;
 </details>
@@ -608,7 +608,7 @@ Where the texts speak of that which is neither coarse nor fine nor short, &c., t
 इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and those texts also which refer to final Release aim only at setting forth the essential nature of the individual soul and the means of attaining that essential nature.
 </details>
@@ -627,7 +627,7 @@ and those texts also which refer to final Release aim only at setting forth the 
 > २१. +++(आदित्य-पुरुषयोर्)+++ अन्तस् +++(ब्रह्म)+++ तद्+++(→ब्रह्म)+++-धर्मोपदेशात् +++("सर्वेभ्यः पाप्मभ्य उदितः" इति)+++ ॥ १-१-२१ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This primā facie view is set aside by the Sūtra.
 </details>
@@ -643,7 +643,7 @@ This primā facie view is set aside by the Sūtra.
 स जीवाद् अन्यः परमात्मैव;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The person who is perceived within the sun and within the eye, is something different from the individual soul, viz. the highest Self;
 </details>
@@ -689,7 +689,7 @@ The person who is perceived within the sun and within the eye, is something diff
 इत्य्-आदिनोपदिश्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 because there are declared qualities belonging to that. The text ascribes to him the quality of having risen above, i.e. being free from all evil, and this can belong to the highest Self only, not to the individual soul.
 </details>
@@ -715,7 +715,7 @@ because there are declared qualities belonging to that. The text ascribes to him
 कर्म-वश्यता-गन्ध-रहितत्वम् इत्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For to be free from all evil means to be free from all influence of karman,
 </details>
@@ -751,7 +751,7 @@ For to be free from all evil means to be free from all influence of karman,
 कर्माधीन-सुख-दुःख-भागित्वेन कर्म-वश्या हि जीवाः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and this quality can belong to the highest Self only, differing from all individual souls
 </details>
@@ -793,7 +793,7 @@ and this quality can belong to the highest Self only, differing from all individ
 अतो ऽपहत-पाप्मत्वं जीवाद् अन्यस्य परमात्मन एव धर्मः ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 which, as is shown by their experience of pleasure and pain, are in the bonds of karman.
 </details>
@@ -819,7 +819,7 @@ which, as is shown by their experience of pleasure and pain, are in the bonds of
 तस्यैव धर्मः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Those essential qualities also which presuppose freedom from all evil (and which are mentioned in other Vedic passages), such as mastery over all worlds and wishes, capability of realising one's purposes, being the inner Self of all, &c., belong to the highest Self alone.
 </details>
@@ -852,7 +852,7 @@ Those essential qualities also which presuppose freedom from all evil (and which
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Compare passages such as 'It is the Self free from evil, free from old age, from death and grief, from hunger and thirst, whose wishes come true, whose purposes come true' (Cḥ. Up. VIII, 1, 5); and 'He is the inner Self of all, free from evil, the divine one, the one god Nārāyaṇa' (Subā. Up.).
 </details>
@@ -886,7 +886,7 @@ Compare passages such as 'It is the Self free from evil, free from old age, from
 जीवस्य न सम्भवन्ति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Attributes such as the attribute of being the creator of the whole universe – which presupposes the power of realising one's wishes --(cp. the passage 'it desired, may I be many');
 the attribute of being the cause of fear and fearlessness; the attribute of enjoying transcending bliss not limited by the capabilities of thought and speech and the like, are essential characteristics of that only which is not touched by karman, and they cannot therefore belong to the individual soul.
@@ -909,7 +909,7 @@ the attribute of being the cause of fear and fearlessness; the attribute of enjo
 यत् तु शरीर-सम्बन्धान् न जीवातिरक्त इत्य् उक्तम्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Nor is there any truth in the contention that the person within the sun, &c., cannot be a being different from individual souls because it possesses a body.
 </details>
@@ -935,7 +935,7 @@ the attribute of being the cause of fear and fearlessness; the attribute of enjo
 सत्य-सङ्कल्पस्येच्छयाऽपि शरीर-सम्बन्ध-सम्भवात्।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For since a being which possesses the power of realising all its desires can assume a body through its mere wish, it is not generally true that embodiedness proves dependence on karman.
 </details>
@@ -967,7 +967,7 @@ For since a being which possesses the power of realising all its desires can ass
 त्रिगुणात्मक-प्रकृति-परिणाम-रूप- -भूत-सङ्घातः;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --But, it may be said, by a body we understand a certain combination of matter which springs from the primal substance (prakr̥ti) with its three constituents.
 </details>
@@ -983,7 +983,7 @@ For since a being which possesses the power of realising all its desires can ass
 इच्छया न सम्भवति, अ-पुरुषार्थत्वात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now connexion with such a body cannot possibly be brought about by the wish of such souls even as are free from all evil and capable of realising their desires; for such connexion would not be to the soul's benefit. In the case, on the other hand, of a soul subject to karman and not knowing its own essential nature, such connexion with a body necessarily takes place in order that the soul may enjoy the fruit of its actions – quite apart from the soul's desire.
 </details>
@@ -1018,7 +1018,7 @@ Now connexion with such a body cannot possibly be brought about by the wish of s
 स्याद् एतद् एवम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Your objection would be well founded, we reply,
 </details>
@@ -1044,7 +1044,7 @@ Now connexion with such a body cannot possibly be brought about by the wish of s
 यदि गुण-त्रयमयः प्राकृतो ऽस्य देहस् स्यात्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 if the body of the highest Self were an effect of Prakr̥ti with its three constituents;
 </details>
@@ -1060,7 +1060,7 @@ if the body of the highest Self were an effect of Prakr̥ti with its three const
 सर्वम् उपपन्नम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but it is not so, it rather is a body suitable to the nature and intentions of that Self.
 </details>
@@ -1084,7 +1084,7 @@ but it is not so, it rather is a body suitable to the nature and intentions of t
 स्वाभाविकानविधकातिशयासङ्ख्येय- -कल्याण-गुण-गणाश् च सन्ति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The highest Brahman, whose nature is fundamentally antagonistic to all evil and essentially composed of infinite knowledge and bliss – whereby it differs from all other souls – possesses an infinite number of qualities of unimaginable excellence,
 </details>
@@ -1110,7 +1110,7 @@ The highest Brahman, whose nature is fundamentally antagonistic to all evil and 
 स्वाभाविकम् अस्ति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and, analogously, a divine form suitable to its nature and intentions, i.e. adorned with infinite, supremely excellent and wonderful qualities – splendour, beauty, fragrance, tenderness, loveliness, youthfulness, and so on.
 </details>
@@ -1160,7 +1160,7 @@ and, analogously, a divine form suitable to its nature and intentions, i.e. ador
 परं ब्रह्म पुरुषोत्तमो नारायणः इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And in order to gratify his devotees he individualises that form so as to render it suitable to their apprehension – he who is a boundless ocean as it were of compassion, kindness and lordly power, whom no shadow of evil may touch - --he who is the highest Self, the highest Brahman, the supreme soul, Nārāyaṇa!
 </details>
@@ -1200,7 +1200,7 @@ And in order to gratify his devotees he individualises that form so as to render
 निखिल-जगद्-एक-कारणतया ऽवगतस्य परस्य ब्रह्मणः 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Certain texts tell us that the highest Brahman is the sole cause of the entire world: 'From which these beings originate' (Taitt. Up.); 'Being only was this in the beginning' (Kh. Up. VI, 2, 1); 'The Self only was this in the beginning' (Ai. Up. I, 1); 'Nārāyaṇa alone existed, not Brahmā nor Siva.' 
 </details>
@@ -1228,7 +1228,7 @@ And in order to gratify his devotees he individualises that form so as to render
 इत्य्-आदिष्व् एवम्-भूतं स्व-रूपम् इत्य् अवगम्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Other texts define his nature: 'The True, knowledge, infinite is Brahman' (Taitt. Up. II, 1, 1); 'Knowledge, bliss is Brahman' (Br̥. Up. III. 9. 28);
 </details>
@@ -1249,7 +1249,7 @@ Other texts define his nature: 'The True, knowledge, infinite is Brahman' (Taitt
 सत्य-कामः सत्य-सङ्कल्पः (छा.८.५.१), 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and others again deny of Brahman all connexion with evil qualities and inferior bodies sprung from Prakr̥ti, and all dependence on karman, and proclaim his glorious qualities and glorious forms: 'Free from qualities' (?); 'Free from taint' (Śvet. Up. VI, 19); 'Free from old age, from death and grief, from hunger and thirst, realising his wishes and purposes' (Cḥ. Up. VIII, 1, 5); 
 </details>
@@ -1273,7 +1273,7 @@ and others again deny of Brahman all connexion with evil qualities and inferior 
 न चास्य कश्चिज् जनिता न चाधिपः (श्वे.६.९), 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'There is no effect and no cause known of him, no one is seen like to him or superior: his high power is revealed as manifold, as inherent action of force and knowledge' (Śvet. Up. VI, 8); 'That highest great lord of lords, the highest deity of deities' (Śvet. Up. VI, 7); 'He is the cause, the lord of the lords of the organs, and there is of him neither parent nor lord' (Śvet. Up. VI, 9); 
 </details>
@@ -1294,7 +1294,7 @@ and others again deny of Brahman all connexion with evil qualities and inferior 
 > सर्वे निमेषा जज्ञिरे विद्युतः पुरुषादधि (तै.नारा.१.अनु.८) 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 > 'Having created all forms and given names to them the wise one goes on calling them by those names' (Taitt. Ār. III, 12, 7);
 
@@ -1326,7 +1326,7 @@ of sunlike lustre beyond the darkness' (Śvet. Up. III, 8);
 कल्याणगुणान् कल्याणरूपं च वदन्ति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1354,7 +1354,7 @@ of sunlike lustre beyond the darkness' (Śvet. Up. III, 8);
 स्वेच्छयैव परम-कारुणिको भगवान्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --This essential form of his the most compassionate Lord by his mere will individualises as a shape human or divine or otherwise, so as to render it suitable to the apprehension of the devotee and thus satisfy him.
 </details>
@@ -1380,7 +1380,7 @@ of sunlike lustre beyond the darkness' (Śvet. Up. III, 8);
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This the following scriptural passage declares, 'Unborn he is born in many ways' (Gau. Kā. III, 24);
 </details>
@@ -1418,7 +1418,7 @@ This the following scriptural passage declares, 'Unborn he is born in many ways'
 सम्भवाम्य् आत्म-मायया।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and likewise Smr̥ti. 
 
@@ -1451,7 +1451,7 @@ presiding over my Nature, manifest myself by my Māya
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 > for the protection of the Good and the destruction of the evil doers(Bha. Gī. IV, 6. 8).
 </details>
@@ -1474,7 +1474,7 @@ presiding over my Nature, manifest myself by my Māya
 सङ्कल्प-मात्रेणापि तद्-उपपत्तेः।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The 'Good' here are the Devotees;
 </details>
@@ -1512,7 +1512,7 @@ The 'Good' here are the Devotees;
 न संसारिणां स्व-भावम् इत्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and
 </details>
@@ -1528,7 +1528,7 @@ and
 "आत्म-मायये"ति स्व-सङ्कल्प-रूपेण ज्ञानेनेत्य् अर्थः ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 by 'Māya' is meant the purpose, the knowledge of the Divine Being --;
 </details>
@@ -1559,7 +1559,7 @@ by 'Māya' is meant the purpose, the knowledge of the Divine Being --;
 इति ज्ञान-पर्यायम् अपि माया-शब्दं नैघण्टुका अधीयते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 in agreement with the Naighaṇṭukas who register 'Māya' as a synonym of jñāna (knowledge).
 </details>
@@ -1616,7 +1616,7 @@ in agreement with the Naighaṇṭukas who register 'Māya' as a synonym of jñ�
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the Mahābhārata also the form assumed by the highest Person in his avatāras is said not to consist of Prakriti, 'the body of the highest Self does not consist of a combination of material elements.'
 </details>
@@ -1633,7 +1633,7 @@ In the Mahābhārata also the form assumed by the highest Person in his avatāra
 अयम् अपि तस्यैव धर्मः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --For these reasons
 </details>
@@ -1654,7 +1654,7 @@ In the Mahābhārata also the form assumed by the highest Person in his avatāra
 आदित्यादि-जीव-व्यतिरिक्तः परमात्मैव ॥ २१॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 the Person within the Sun and the eye is the highest Self which is different from the individual soul of the Sun,&c.
 </details>
@@ -1675,7 +1675,7 @@ the Person within the Sun and the eye is the highest Self which is different fro
 २२. भेद-व्यपदेशाच् चान्यः +++(सूर्यादिभ्यः)+++॥ १-१-२२ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 22\. And on account of the declaration of difference (the highest Self is) other (than the individual souls of the sun, &c.).
 </details>
@@ -1697,7 +1697,7 @@ the Person within the Sun and the eye is the highest Self which is different fro
 य आदित्यम् अन्तरो यमयति । (बृ.५.७.९) 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 There are texts which clearly state that the highest Self is different from Āditya and the other individual souls: 'He who, dwelling within Aditya (the sun), is different from Āditya, whom Āditya does not know, of whom Āditya is the body, who rules Āditya from within;
 </details>
@@ -1724,7 +1724,7 @@ There are texts which clearly state that the highest Self is different from Ādi
 इति ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7, 9 ff.);
 </details>
@@ -1759,7 +1759,7 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 तेषाम् अन्तरात्मत्वेनैनं व्यपदिशति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'Of whom the Imperishable is the body, whom the Imperishable does not know; who moves within Death, of whom Death is the body, whom Death does not know; he is the inner self of all beings, free from evil, divine, the one God Nārāyaṇa' (Sub. Up.VII). These texts declare all individual souls to be the body of the sinless highest Self which is said to be the inward principle of all of them.
 </details>
@@ -1781,7 +1781,7 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 ऽन्य एव परमात्मेति सिद्धम्॥२॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --It is thereby completely proved that the highest Self is something different from all individual souls such as Āditya, and so on.
 </details>
@@ -1803,7 +1803,7 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 इति श्रीशारीरकमीमांसाभाष्ये अन्तर् अधिकरणम्॥७॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of the 'one within.'
 </details>

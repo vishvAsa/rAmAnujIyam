@@ -19,7 +19,7 @@ title = "१० ज्योतिरधिकरणम्"
 "ज्योतिश् चरणाभिधानात्" इत्य्-आदिना
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The subsequent Sūtras up to the end of the Pāda demonstrate that the being which the texts refer to as 'Light or 'Indra' --terms which in ordinary language are applied to certain other well-known beings --, and which is represented as possessing some one or other supremely exalted quality that is invariably connected with world-creative power, is no other than the highest Brahman.
 </details>
@@ -34,7 +34,7 @@ The subsequent Sūtras up to the end of the Pāda demonstrate that the being whi
 २५. +++(ब्रह्म)+++ ज्योतिश् चरणाभिधानात् ॥ १-१-२५ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 25\. The light (is Brahman), on account of the mention of feet.
 </details>
@@ -58,7 +58,7 @@ The subsequent Sūtras up to the end of the Pāda demonstrate that the being whi
 इति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above this heaven, higher than everything, in the highest worlds beyond which there are no other worlds, that is the same light which is within man.'
 </details>
@@ -92,7 +92,7 @@ We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above th
 इति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Here a doubt arises, viz. whether the brightly shining thing here called 'light' is the well-known light of the sun and so on, viewed as a causal universal principle (Brahman); or the all-knowing, &c., highest Person of infinite splendour, who is different in nature from all sentient and non-sentient beings, and is the highest cause.
 </details>
@@ -156,7 +156,7 @@ We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above th
 प्रसिद्धम् एव ज्योतिर् इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --The Pūrvapakshin maintains that the reference is to ordinary light.
 </details>
@@ -184,7 +184,7 @@ We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above th
 जगत्-कारणं ब्रह्मेति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For, he says, the passage does not mention a particular characteristic attribute which can belong to the highest Self only – while such attributes _were_ met with in the texts referring to Ether and Breath --, and as thus there is no opening for a recognition of the highest Self, and as at the same time the text identifies 'light' with the intestinal heat of living beings, we conclude that the text represents the well-known ordinary light as Brahman, the cause of the world – which is possible as causal agency is connected with extreme light and heat.
 </details>
@@ -215,7 +215,7 @@ For, he says, the passage does not mention a particular characteristic attribute
 परम-पुरुष एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --This primā facie view the Sūtra sets aside. The light which the text states to be connected with heaven and possessing supreme splendour can be the highest Person only,
 </details>
@@ -319,7 +319,7 @@ For, he says, the passage does not mention a particular characteristic attribute
 सर्व-भूताभिधानात्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 since a preceding passage in the same section --' All the beings are one foot of it, three feet are the Immortal in heaven' --refers to all beings as being a foot of that same being which is connected with heaven.
 </details>
@@ -339,7 +339,7 @@ since a preceding passage in the same section --' All the beings are one foot of
 परम-पुरुषासाधारण-लिङ्गं नोपलभ्यते;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Although the passage, 'That light which shines above,' &c., does not mention a special attribute of the highest Person,
 </details>
@@ -377,7 +377,7 @@ Although the passage, 'That light which shines above,' &c., does not mention a s
 इति। +++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 yet the passage previously quoted refers to the highest Person as connected with heaven, and we therefore recognise that Person as the light connected with heaven, mentioned in the subsequent passage.
 </details>
@@ -395,7 +395,7 @@ yet the passage previously quoted refers to the highest Person as connected with
 न कश्चिद्-दोषः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor does the identification, made in a clause of the text, of light with the intestinal heat give rise to any difficulty; for that clause is meant to enjoin meditation on the highest Brahman in the form of intestinal heat, such meditation having a special result of its own.
 </details>
@@ -421,7 +421,7 @@ Nor does the identification, made in a clause of the text, of light with the int
 इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, the Lord himself declares that he constitutes the Self of the intestinal fire, 'Becoming the Vaiśvānara-fire I abide in the body of living creatures' (Bha. Gī. XV, 14).
 </details>
@@ -445,7 +445,7 @@ Moreover, the Lord himself declares that he constitutes the Self of the intestin
 > २६. +++("गायत्री वा इदं सर्वम् … त्रिपाद् अस्यामृतं दिवि" इति)+++ छन्दोऽभिधानान् नेति चेन् - न तथा – +++(दृष्टि-विधेः→)+++ चेतोऽर्पण-निगमात्, तथा हि +++(छन्दो-दृष्टि-विधि-)+++दर्शनम् ॥ १-१-२६ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 26\. If it be objected that (Brahman is) not (denoted) on account of the metre being denoted; (we reply) not so, because thus the direction of the mind (on Brahman) is declared; for thus it is seen.
 </details>
@@ -481,7 +481,7 @@ Moreover, the Lord himself declares that he constitutes the Self of the intestin
 इति चेत् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The previous section at first refers to the metre called Gāyatrī, 'The Gāyatrī indeed is everything' (III, 12, 1), and then introduces – with the words 'this is also declared by a _Rik_ verse' --the verse, 'Such is the greatness of it (viz. the Gāyatrī),' &c. Now, as this verse also refers to the metre, there is not any reference to the highest Person.
 </details>
@@ -509,7 +509,7 @@ The previous section at first refers to the metre called Gāyatrī, 'The Gāyatr
 अपि तु ब्रह्मण एव गायत्री-चेतोऽर्पणम् इह निगम्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --To this objection the second part of the Sūtra replies. The word 'Gāyatrī' does not here denote the metre only, since this cannot possibly be the Self of all; but the text declares the application of the idea of Gāyatrī to Brahman,
 </details>
@@ -534,7 +534,7 @@ The previous section at first refers to the metre called Gāyatrī, 'The Gāyatr
 इत्य् अर्थः ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 i.e. teaches, to the end of a certain result being obtained, meditation on Brahman in so far as similar to Gāyatrī.
 </details>
@@ -556,7 +556,7 @@ i.e. teaches, to the end of a certain result being obtained, meditation on Brahm
 चतुष्-पदया गायत्र्या च सादृश्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For Brahman having four feet, in the sense indicated by the _rik_,
 may be compared to the Gāyatrī with its four (metrical) feet.
@@ -604,7 +604,7 @@ may be compared to the Gāyatrī with its four (metrical) feet.
 चतुष्पदा च गायत्री क्वचिद् दृश्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Gāyatrī (indeed has as a rule three feet, but) occasionally a Gāyatrī with four feet is met with;
 </details>
@@ -626,7 +626,7 @@ The Gāyatrī (indeed has as a rule three feet, but) occasionally a Gāyatrī wi
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 so, e.g., 'Indraś śacīpatiḥ |
 valena pīḍitaḥ |
@@ -649,7 +649,7 @@ samitsu sāsahiḥ.'
 छन्दोऽभिधायी शब्दो ऽर्थान्तरे प्रयुज्यमानो दृश्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We see that in other passages also words primarily denoting metres are employed in other senses;
 </details>
@@ -687,7 +687,7 @@ We see that in other passages also words primarily denoting metres are employed 
 इत्य् उच्यते॥ २६॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 thus, e.g., in the saṁvargavidyā (Cḥ. Up. IV, 3, 8), where Virāj (the name of a metre of ten syllables) denotes a group of ten divine beings.
 </details>
@@ -741,7 +741,7 @@ thus, e.g., in the saṁvargavidyā (Cḥ. Up. IV, 3, 8), where Virāj (the name
 इतश् च गायत्री-शब्देन ब्रह्मैवाभिधीयते –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For this conclusion the next Sūtra supplies a further argument.
 </details>
@@ -756,7 +756,7 @@ For this conclusion the next Sūtra supplies a further argument.
 २७. भूतादि+++(→पृथिवी-शरीर-हृदयानि)+++--पाद-व्यपदेशोपपत्तेश् चैवम् ॥ १-१-२७ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 27\. And thus also, because (thus only) the designation of the beings, and so on, being the (four) feet is possible.
 </details>
@@ -777,7 +777,7 @@ For this conclusion the next Sūtra supplies a further argument.
 ब्रह्मण्य् एव गायत्री-शब्दाभिधेय उपपद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The text, moreover, designates the Gāyatrī as having four feet, after having referred to the beings, the earth, the body, and the heart; now this has a sense only if it is Brahman, which here is called Gāyatrī.
 </details>
@@ -824,7 +824,7 @@ The text, moreover, designates the Gāyatrī as having four feet, after having r
 उभयस्मिन्न् अप्य् अ-विरोधात् +++("वृक्षाग्रे श्येनो, वृक्षाद् उपरी"तिवत्)+++॥ १-१-२८ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 28\. If it be said that (Brahman is) not (recognised) on account of the difference of designation; (we say) not so, on account of there being no contradiction in either (designation).
 </details>
@@ -853,7 +853,7 @@ The text, moreover, designates the Gāyatrī as having four feet, after having r
 अर्थ-स्वभावैक्येन प्रत्यभिज्ञाया अ-विरोधात्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the former passage, 'three feet of it are what is immortal in heaven,' heaven is referred to as the abode of the being under discussion; while in the latter passage, 'that light which shines above this heaven,' heaven is mentioned as marking its boundary. Owing to this discrepancy, the Brahman referred to in the former text is not recognised in the latter. --This objection the Sūtra disposes of by pointing out that owing to the essential agreement of the two statements, nothing stands in the way of the required recognition.
 </details>
@@ -879,7 +879,7 @@ In the former passage, 'three feet of it are what is immortal in heaven,' heaven
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the top of the tree,' we mean one and the same thing.
 </details>
@@ -896,7 +896,7 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 इति प्रतिपाद्यते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --The 'light,' therefore, is nothing else but the most glorious and luminous highest Person.
 </details>
@@ -981,7 +981,7 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 इति प्रतिपादितस्य चतुष्पदः परम-पुरुषस्य 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Him who in the former passage is called four-footed, we know to have an extraordinarily beautiful shape and colour-
 </details>
@@ -1003,7 +1003,7 @@ Him who in the former passage is called four-footed, we know to have an extraord
 इति निरवद्यम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 (cp., e.g., 'I know that great Person of sunlike colour beyond the darkness' (Śvet.Up. III, 9) --, 
 
@@ -1119,7 +1119,7 @@ and as hence his brilliancy also must be extraordinary, he is, in the text under
 **इति श्रीशारीरकमीमांसाभाष्ये ज्योतिर् अधिकरणम्॥१०॥**
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of 'light.'
 </details>

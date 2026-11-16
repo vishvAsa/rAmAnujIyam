@@ -26,7 +26,7 @@ title = "०४ समन्वयाधिकरणम्"
 इत्य् आशङ्क्याह -
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 A new objection here presents itself.--Brahman does not indeed fall within the sphere of the other means of knowledge; but all the same Scripture does not give authoritative information regarding it: for Brahman is not something that has for its purport activity or cessation from activity, but is something fully established and accomplished within itself.--To this objection the following Sūtra replies.
 </details>
@@ -98,7 +98,7 @@ A new objection here presents itself.--Brahman does not indeed fall within the s
 तत् +++(→शास्त्र-प्रामाण्यं)+++ तु +++(परमपुरुषार्थतया)+++ समन्वयात् ॥ १-१-४ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 4. But that (i.e. the authoritativeness of Scripture with regard to Brahman) exists on account of the connexion (of Scripture with the highest aim of man).
 </details>
@@ -120,7 +120,7 @@ A new objection here presents itself.--Brahman does not indeed fall within the s
 प्रसक्ताशङ्का-निवृत्त्य्-अर्थस् तु-शब्दः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The word 'but' is meant to rebut the objection raised.
 </details>
@@ -143,7 +143,7 @@ The word 'but' is meant to rebut the objection raised.
 सम्भवत्य् एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That, i.e. the authoritativeness of Scripture with regard to Brahman, is possible,
 </details>
@@ -166,7 +166,7 @@ That, i.e. the authoritativeness of Scripture with regard to Brahman, is possibl
 परमपुरुषार्थतया ऽन्वयस् समन्वयः, परमपुरुषार्थ-भूतस्यैव ब्रह्मणो ऽभिधेयतया ऽन्वयात्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 on account of samanvaya, i.e. connexion with the highest aim of man – that is to say because the scriptural texts are connected with, i.e. have for their subject, Brahman, which constitutes the highest aim of man.
 </details>
@@ -205,7 +205,7 @@ on account of samanvaya, i.e. connexion with the highest aim of man – that is 
 इत्य्-एवम्-आदिः॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For such is the connected meaning of the whole aggregate of words which constitutes the Upanishads--'That from whence these beings are born'(Taitt. Up. III, 1, 1). 'Being only this was in the beginning, one, without a second' (Cḥ. Up. VI, 2), &c. &c. And of aggregates of words which are capable of giving information about accomplished things known through the ordinary means of ascertaining the meaning of words, and which connectedly refer to a Brahman which is the cause of the origination, subsistence, and destruction of the entire world, is antagonistic to all imperfection and so on, we have no right to say that, owing to the absence of a purport in the form of activity or cessation of activity, they really refer to something other than Brahman.
 </details>
@@ -549,7 +549,7 @@ For such is the connected meaning of the whole aggregate of words which constitu
 स्व-विषयावबोध-पर्यवसायित्वात् सर्व-प्रमाणानाम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For all instruments of knowledge have their end in determining the knowledge of their own special objects: their action does not adapt itself to a final purpose, but the latter rather adapts itself to the means of knowledge.
 </details>
@@ -572,7 +572,7 @@ For all instruments of knowledge have their end in determining the knowledge of 
 प्रयोजनं हि प्रमाणानुगुणम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor is it true that where there is no connexion with activity or cessation of activity all aim is absent; for in such cases we observe connexion with what constitutes the general aim, i.e. the benefit of man.
 </details>
@@ -595,7 +595,7 @@ Nor is it true that where there is no connexion with activity or cessation of ac
 पुरुषार्थान्वय-प्रतीतेः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Statements of accomplished matter of fact – such as 'a son is born to thee.' 'This is no snake'--evidently have an aim, viz. in so far as they either give rise to joy or remove pain and fear.
 </details>
@@ -623,7 +623,7 @@ Statements of accomplished matter of fact – such as 'a son is born to thee.' '
 हर्ष--भय-निवृत्ति-- -रूप-प्रयोजनवत्त्वं दृष्टम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Against this view the Pūrvapakshin now argues as follows.
 </details>
@@ -1163,7 +1163,7 @@ In the case under discussion the genus constitutes the mode, and the individual 
 अत एव जीवस्यापि ब्रह्मणो भिन्नाभिन्नत्वं न सम्भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For these very reasons the individual soul cannot stand to Brahman in the bhedābheda-relation.
 </details>
@@ -1186,7 +1186,7 @@ For these very reasons the individual soul cannot stand to Brahman in the bhedā
 अनाद्य्-अविद्या-मूल एव भेद-प्रत्ययः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And as the view of non-difference is founded on Scripture, we assume that the view of difference rests on beginningless Nescience.
 </details>
@@ -1209,7 +1209,7 @@ And as the view of non-difference is founded on Scripture, we assume that the vi
 तन्मूलाश् च जन्म-जरा-मरणादयो दोषाः प्रादुःस्युः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --But on this view want of knowledge and all the imperfections springing therefrom, such as birth, death, &c., would cling to Brahman itself,
 </details>
@@ -1237,7 +1237,7 @@ And as the view of non-difference is founded on Scripture, we assume that the vi
 इत्य् आदीनि शास्त्राणि बाध्येरन्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and this would contradict scriptural texts such as 'He who is all-knowing' (Mu. Up. I, 1, 9); 'That Self free from all evil' (Cḥ. Up. VIII, 1, 5).
 </details>
@@ -1255,7 +1255,7 @@ and this would contradict scriptural texts such as 'He who is all-knowing' (Mu. 
 नैवम् – अज्ञानादि-दोषाणाम् अपरमार्थत्वात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Not so, we reply. For all those imperfections we consider to be unreal.
 </details>
@@ -1280,7 +1280,7 @@ Not so, we reply. For all those imperfections we consider to be unreal.
 परमार्थत एव भवेयुः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 On your view on the other hand, which admits nothing but Brahman and its limiting adjuncts, all the imperfections which spring from contact with those adjuncts must really belong to Brahman.
 </details>
@@ -1305,7 +1305,7 @@ On your view on the other hand, which admits nothing but Brahman and its limitin
 तच् छित्वा भित्वा वा सम्बध्यन्ते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For as Brahman is without parts, indivisible, the upādhis cannot divide or split it so as to connect themselves with a part only;
 </details>
@@ -1328,7 +1328,7 @@ For as Brahman is without parts, indivisible, the upādhis cannot divide or spli
 तस्मिन् एव स्व-कार्याणि कुर्वन्ति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but necessarily connect themselves with Brahman itself and produce their effects on it.--
 </details>
@@ -1354,7 +1354,7 @@ but necessarily connect themselves with Brahman itself and produce their effects
 > उपाध्य्-उपहितं ब्रह्म जीवः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here the following explanation may possibly be attempted. Brahman determined by an upādhi constitutes the individual soul.
 </details>
@@ -1376,7 +1376,7 @@ Here the following explanation may possibly be attempted. Brahman determined by 
 > स चाणु-परिमाणः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This soul is of atomic size
 </details>
@@ -1393,7 +1393,7 @@ This soul is of atomic size
 > अणुत्वं चावच्छेदकस्य मनसो ऽणुत्वात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 since what determines it, viz. the internal organ, is itself of atomic size;
 </details>
@@ -1410,7 +1410,7 @@ since what determines it, viz. the internal organ, is itself of atomic size;
 > स चावच्छेदो ऽनादिः
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and the limitation itself is without beginning.
 </details>
@@ -1435,7 +1435,7 @@ and the limitation itself is without beginning.
 – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 All the imperfections therefore connect themselves only with that special place that is determined by the upādhi, and do not affect the highest Brahman which is not limited by the upādhi.--
 </details>
@@ -1455,7 +1455,7 @@ All the imperfections therefore connect themselves only with that special place 
 > किम् उपाधिना छिन्नो ब्रह्म-खण्डो ऽणुरूपो जीवः?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In reply to this we ask – Do you mean to say that what constitutes the atomic individual soul is a part of Brahman which is limited and cut off by the limiting adjunct;
 </details>
@@ -1477,7 +1477,7 @@ In reply to this we ask – Do you mean to say that what constitutes the atomic 
 > उताच्छिन्न एवाणुरूपोपाधि-संयुक्तो ब्रह्म-प्रदेश-विशेषः?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 or some particular part of Brahman which, without being thereby divided off, is connected with an atomic upādhi;
 </details>
@@ -1494,7 +1494,7 @@ or some particular part of Brahman which, without being thereby divided off, is 
 > उतोपाधिसंयुक्तं ब्रह्म-स्वरूपम्?।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 or Brahman in its totality as connected with an upādhi;
 </details>
@@ -1511,7 +1511,7 @@ or Brahman in its totality as connected with an upādhi;
 > अथोपाधिसंयुक्तं चेतनान्तरम् +++(जीवः)+++?।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 or some other intelligent being connected with an upādhi,
 </details>
@@ -1530,7 +1530,7 @@ or some other intelligent being connected with an upādhi,
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 or finally the upādhi itself?--
 </details>
@@ -1547,7 +1547,7 @@ or finally the upādhi itself?--
 अच्छेद्यत्वाद् ब्रह्मणः प्रथमः कल्पो न कल्पते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The first alternative is not possible, because Brahman cannot be divided;
 </details>
@@ -1569,7 +1569,7 @@ The first alternative is not possible, because Brahman cannot be divided;
 +++(शास्त्र-प्रतिषिद्धम्)+++ आदिमत्त्वं च जीवस्य स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 it would moreover imply that the individual soul has a beginning,
 </details>
@@ -1591,7 +1591,7 @@ it would moreover imply that the individual soul has a beginning,
 एकस्य सतो द्वैधीकरणं हि च्छेदनम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for division means the making of one thing into two.--
 </details>
@@ -1616,7 +1616,7 @@ for division means the making of one thing into two.--
 औपाधिकास् सर्वे दोषास् तस्यैव स्युः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 On the second alternative it would follow that, as a part of Brahman would be connected with the upādhi, all the imperfections due to the upādhis would adhere to that part.
 </details>
@@ -1641,7 +1641,7 @@ On the second alternative it would follow that, as a part of Brahman would be co
 क्षणे-क्षणे बन्ध-मोक्षौ च स्याताम्।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And further, if the upādhi would not possess the power of attracting to itself the particular part of Brahman with which it is connected, it would follow that when the upādhi moves the part with, which it is connected would constantly change; in other words, bondage and release would take place at every moment.
 </details>
@@ -1664,7 +1664,7 @@ And further, if the upādhi would not possess the power of attracting to itself 
 अच्छिन्नत्वात् कृत्स्नस्य ब्रह्मणः आकर्षणं स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If, on the contrary, the upādhi possessed the power of attraction, the whole Brahman – as not being capable of division – would be attracted and move with the upādhi.
 </details>
@@ -1687,7 +1687,7 @@ If, on the contrary, the upādhi possessed the power of attraction, the whole Br
 तर्हि उपाधिर् एव गच्छतीति पूर्वोक्त एव +++("क्षणे क्षणे बन्धमोक्षाव्" इति)+++ दोषः स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And should it be said that what is all-pervading and without parts cannot be attracted and move, well then the upādhi only moves, and we are again met by the difficulties stated above.
 </details>
@@ -1711,7 +1711,7 @@ And should it be said that what is all-pervading and without parts cannot be att
 एकत्वेन प्रतिसन्धानं न स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, if all the upādhis were connected with the parts of Brahman viewed as one and undivided, all individual souls, being nothing but parts of Brahman, would be considered as non-distinct.
 </details>
@@ -1735,7 +1735,7 @@ Moreover, if all the upādhis were connected with the parts of Brahman viewed as
 +++("अहं ब्रह्मणोऽयम् प्रदेश" इति)+++ प्रतिसन्धानं न स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And should it be said that they are not thus cognised as one because they are constituted by different parts of Brahman, it would follow that as soon as the upādhi of one individual soul is moving, the identity of that soul would be lost (for it would, in successive moments, be constituted by different parts of Brahman).--
 </details>
@@ -1760,7 +1760,7 @@ And should it be said that they are not thus cognised as one because they are co
 तद्-अतिरिक्तानुपहित-ब्रह्मासिद्धिः स्यात्। +++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 On the third alternative (the whole of) Brahman itself being connected with the upādhi enters into the condition of individual soul, and there remains no non-conditioned Brahman.
 </details>
@@ -1783,7 +1783,7 @@ On the third alternative (the whole of) Brahman itself being connected with the 
 एक एव जीवः स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And, moreover, the soul in all bodies will then be one only.--
 </details>
@@ -1808,7 +1808,7 @@ And, moreover, the soul in all bodies will then be one only.--
 जीव-भेदस्यौपाधिकत्वं परित्यक्तं स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 On the fourth alternative the individual soul is something altogether different from Brahman, and the difference of the soul from Brahman thus ceases to depend on the upādhis of Brahman.--
 </details>
@@ -1830,7 +1830,7 @@ On the fourth alternative the individual soul is something altogether different 
 चरमे चार्वाक-पक्ष एव परिगृहीतः स्यात् ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And the fifth alternative means the embracing of the view of the Cārvāka (who makes no distinction between soul and matter).--
 </details>
@@ -1855,7 +1855,7 @@ And the fifth alternative means the embracing of the view of the Cārvāka (who 
 कृत्स्नस्य भेदस्याविद्यामूलत्वम् एवाभ्युपगन्तव्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The conclusion from all this is that on the strength of the texts declaring non-difference we must admit that all difference is based on Nescience only.
 </details>
@@ -1881,7 +1881,7 @@ The conclusion from all this is that on the strength of the texts declaring non-
 – इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence, Scripture being an authoritative instrument of knowledge in so far only as it has for its end action and the cessation of action, the Vedānta-texts must be allowed to be a valid means of knowledge with regard to Brahman's nature, in so far as they stand in a supplementary relation to the injunctions of meditation.
 </details>
@@ -1915,7 +1915,7 @@ Hence, Scripture being an authoritative instrument of knowledge in so far only a
 प्रामाण्यायोगात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This view is finally combated by the Mīmāṁsaka. Even if, he says, we allow the Vedānta-texts to have a purport in so far as they are supplementary to injunctions of meditation, they cannot be viewed as valid means of knowledge with regard to Brahman.
 </details>
@@ -1941,7 +1941,7 @@ This view is finally combated by the Mīmāṁsaka. Even if, he says, we allow t
 उत स्वतन्त्राण्य् एव?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Do the texts referring to Brahman, we ask, occupy the position of valid means of knowledge in so far as they form a syntactic whole with the injunctions of meditation, or as independent sentences?
 </details>
@@ -1964,7 +1964,7 @@ Do the texts referring to Brahman, we ask, occupy the position of valid means of
 ध्यान-विधि-परत्वेन, ब्रह्म-स्वरूपे तात्पर्यं न सम्भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the former case the purport of the syntactic whole is simply to enjoin meditation, and it cannot therefore aim at giving instruction about Brahman.
 </details>
@@ -1986,7 +1986,7 @@ In the former case the purport of the syntactic whole is simply to enjoin medita
 +++(ध्यान-विधिनो)+++ भिन्न-वाक्यत्वे प्रवृत्ति-निवृत्ति-प्रयोजन-विरहाद् अनवबोधकत्वम् एव +++(इति केचित्)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, the texts about Brahman are separate independent sentences, they cannot have the purport of prompting to action and are therefore devoid of instructive power.
 </details>
@@ -2011,7 +2011,7 @@ If, on the other hand, the texts about Brahman are separate independent sentence
 > ध्यानं नाम स्मृति-सन्तति-रूपम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor must it be said that meditation is a kind of continued remembrance,
 </details>
@@ -2042,7 +2042,7 @@ Nor must it be said that meditation is a kind of continued remembrance,
 > इत्य् आदीनि स्वरूप-तद्-विशेषादीनि समर्पयन्ति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and as such requires to be defined by the object remembered; and that the demand of the injunction of meditation for something to be remembered is satisfied by texts such as 'All this is that Self', 'the True, knowledge, infinite is Brahman,' &c., which set forth the nature and attributes of Brahman and – forming a syntactic whole with the injunctions – are a valid means of knowledge with regard to the existence of the matter they convey.
 </details>
@@ -2067,7 +2067,7 @@ and as such requires to be defined by the object remembered; and that the demand
 इति;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 (Combined with above)
 </details>
@@ -2090,7 +2090,7 @@ and as such requires to be defined by the object remembered; and that the demand
 ध्येय-सत्यत्वानपेक्षणात् ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For the fact is that the demand on the part of an injunction of meditation for an object to be remembered may be satisfied even by something unreal (not true), as in the case of injunctions such as 'Let him meditate upon mind as Brahman' (Cḥ. Up. III, 18, 1): the real existence of the object of meditation is therefore not demanded.--
 </details>
@@ -2122,7 +2122,7 @@ For the fact is that the demand on the part of an injunction of meditation for a
 ब्रह्मणश् शास्त्र-प्रमाणकत्वं न सम्भवतीति प्राप्तम् ॥+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The final conclusion arrived at in this pūrvapaksha is therefore as follows. As the Vedānta-texts do not aim at prompting to action or the cessation of action; as, even on the supposition of their being supplementary to injunctions of meditation, the only thing they effect is to set forth the nature of the object of meditation; and as, even if they are viewed as independent sentences, they accomplish the end of man (i.e. please, gratify) by knowledge merely – being thus comparable to tales with which we soothe children or sick persons; it does not lie within their province to establish the reality of an accomplished thing, and hence Scripture cannot be viewed as a valid means for the cognition of Brahman.
 </details>
@@ -2148,7 +2148,7 @@ The final conclusion arrived at in this pūrvapaksha is therefore as follows. As
 > तत् तु समन्वयात् इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 To this primā facie view the Sūtrakāra replies, 'But this on account of connexion.'
 </details>
@@ -2172,7 +2172,7 @@ To this primā facie view the Sūtrakāra replies, 'But this on account of conne
 पुरुषार्थतया ऽन्वय इत्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'Connexion' is here to be taken in an eminent sense, as 'connexion with the end of man.'
 </details>
@@ -2196,7 +2196,7 @@ To this primā facie view the Sūtrakāra replies, 'But this on account of conne
 तच्-छास्त्र-प्रमाणकत्वं सिध्यत्य् एवेत्य् अर्थः ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That Brahman, which is measureless bliss and therefore constitutes the highest end of man, is connected with the texts as the topic set forth by them, proves Scripture to be a valid means for the cognition of Brahman.
 </details>
@@ -2226,7 +2226,7 @@ That Brahman, which is measureless bliss and therefore constitutes the highest e
 कौलेयक+++(=श्व)+++-कुलाननुप्रवेशेन प्रयोजन-शून्यतां ब्रूते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 To maintain that the whole body of Vedānta-texts-which teach us that Brahman is the highest object to be attained, since it consists of supreme bliss free of all blemish whatsoever – is devoid of all use and purpose merely because it does not aim at action or the cessation of action; is no better than to say that a youth of royal descent is of no use because he does not belong to a community of low wretches living on the flesh of dogs!
 </details>
@@ -2260,7 +2260,7 @@ To maintain that the whole body of Vedānta-texts-which teach us that Brahman is
 इति बोधयद् एव वाक्यं प्रयोजन-पर्यवसायि।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The relation of the different texts is as follows. There are individual souls of numberless kinds-gods, Asuras, Gandharvas, Siddhas, Vidyādharas, Kinnaras, Kiṁpurushas, Yakshas, Rākshasas, Pisācas, men, beasts, birds, creeping animals, trees, bushes, creepers, grasses and so on – distinguished as male, female, or sexless, and having different sources of nourishment and support and different objects of enjoyment.  
 Now all these souls are deficient in insight into the true nature of the highest reality, their understandings being obscured by Nescience operating in the form of beginningless karman;  
@@ -2300,7 +2300,7 @@ and which then, through its own essential nature, qualities, power and energies,
 न प्रयोजन-पर्यवसायि ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 (Combined with above)
 </details>
@@ -2328,7 +2328,7 @@ and which then, through its own essential nature, qualities, power and energies,
 उपासनं ब्रह्म-प्राप्त्य्-उपायतया विधीयते —
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 When now the question arises – as it must arise--, as to how this Brahman is to be attained, there step in certain other Vedānta-texts – such as He who knows Brahman reaches the highest' (Br̥. Up. II, 1, 1), and 'Let a man meditate on the Self as his world' (Br̥. Up. 1, 4, 15)--and, by means of terms denoting 'knowing' and so on, enjoin meditation as the means of attaining Brahman.
 </details>
@@ -2352,7 +2352,7 @@ When now the question arises – as it must arise--, as to how this Brahman is t
 तृप्तस् सन् पश्चात् तद्-उपादाने च प्रयतते,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The case is like that of a man who has been told 'There is a treasure hidden in your house'. He learns through this sentence the existence of the treasure, is satisfied, and then takes active steps to find it and make it his own.--
 </details>
@@ -2392,7 +2392,7 @@ The case is like that of a man who has been told 'There is a treasure hidden in 
 इति निरतिशय-हर्ष-समन्वितो भवति,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Or take the case of a young prince who, intent on some boyish play, leaves his father's palace and, losing his way, does not return. The king thinks his son is lost; the boy himself is received by some good Brahman who brings him up and teaches him without knowing who the boy's father is. When the boy has reached his sixteenth year and is accomplished in every way, some fully trustworthy person tells him, 'Your father is the ruler of all these lands, famous for the possession of all noble qualities, wisdom, generosity, kindness, courage, valour and so on, and he stays in his capital, longing to see you, his lost child. Hearing that his father is alive and a man so high and noble, the boy's heart is filled with supreme joy;
 </details>
@@ -2415,7 +2415,7 @@ Or take the case of a young prince who, intent on some boyish play, leaves his f
 ऽवाप्त-समस्त-पुरुषार्थो भवति,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and the king also, understanding that his son is alive, in good health, handsome and well instructed, considers himself to have attained all a man can wish for.
 </details>
@@ -2437,7 +2437,7 @@ and the king also, understanding that his son is alive, in good health, handsome
 पश्चात् तद्-उपादाने च प्रयतते,
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 He then takes steps to recover his son,
 </details>
@@ -2455,7 +2455,7 @@ He then takes steps to recover his son,
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and finally the two are reunited.
 </details>
@@ -2490,7 +2490,7 @@ and finally the two are reunited.
 ज्ञातो ऽप्य् अर्थः पुरुषार्थाय न भवति।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The assertion again that a statement referring to some accomplished thing gratifies men merely by imparting a knowledge of the thing, without being a means of knowledge with regard to its real existence – so that it would be comparable to the tales we tell to children and sick people--, can in no way be upheld. When it is ascertained that a thing has no real existence, the mere knowledge or idea of the thing does not gratify.
 </details>
@@ -2512,7 +2512,7 @@ The assertion again that a statement referring to some accomplished thing gratif
 बालातुरादीनाम् अप्य् अर्थ-सद्भाव-भ्रान्त्या हर्षाद्य्-उत्पत्तिः। +++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The pleasure which stories give to children and sick people is due to the fact that they erroneously believe them to be true;
 </details>
@@ -2536,7 +2536,7 @@ The pleasure which stories give to children and sick people is due to the fact t
 ततस् तदानीम् एव हर्षादयो निवर्तेरन्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 if they were to find out that the matter present to their thought is untrue their pleasure would come to an end that very moment.
 </details>
@@ -2556,7 +2556,7 @@ if they were to find out that the matter present to their thought is untrue thei
 पुरुषार्थ-पर्यवसानं न स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And thus in the case of the texts of the Upanishads also. If we thought that these texts do not mean to intimate the real existence of Brahman, the mere idea of Brahman to which they give rise would not satisfy us in any way.
 </details>
@@ -2591,7 +2591,7 @@ And thus in the case of the texts of the Upanishads also. If we thought that the
 इति बोधयतीति सिद्धम् ॥४॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The conclusion therefore is that texts such as 'That from whence these beings are born' &c. do convey valid instruction as to the existence of Brahman, i.e. that being which is the sole cause of the world, is free from all shadow of imperfection, comprises within itself all auspicious qualities, such as omniscience and so on, and is of the nature of supreme bliss.--Here terminates the adhikaraṇa of 'connexion'.
 </details>

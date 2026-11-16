@@ -15,7 +15,7 @@ title = "०९ प्राणाधिकरणम्"
 २४. अत एव प्राणः +++(ब्रह्म)+++॥ १-१-२४॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 24\. For the same reason breath (is Brahman).
 </details>
@@ -48,7 +48,7 @@ title = "०९ प्राणाधिकरणम्"
 इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We read in the Cḥāndogya (I, 10; ii), 'Prastotr̥, that deity which belongs to the Prastāva,' &c.; and further on, 'which then is that deity? He said – Breath. For all these beings merge into breath alone, and from breath they arise. This is the deity belonging to the Prastāva. If without knowing that deity you had sung forth, your head would have fallen off.'
 </details>
@@ -80,7 +80,7 @@ We read in the Cḥāndogya (I, 10; ii), 'Prastotr̥, that deity which belongs t
 परस्मिन्न् एव ब्रह्मणि वर्तते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here the word 'breath,' analogously to the word 'ether' denotes the highest Brahman, which is different from what is commonly called breath;
 </details>
@@ -124,7 +124,7 @@ Here the word 'breath,' analogously to the word 'ether' denotes the highest Brah
 </details>
 
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 we infer this from the fact that special characteristics of Brahman, viz. the whole world's entering into and rising from it, are in that text referred to as well-known things.
 </details>
@@ -147,7 +147,7 @@ we infer this from the fact that special characteristics of Brahman, viz. the wh
 – इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 There indeed here arises a further doubt; for as it is a matter of observation that the existence, activity, &c., of the whole aggregate of creatures depend on breath, breath – in its ordinary acceptation – may be called the cause of the world.
 </details>
@@ -178,7 +178,7 @@ There indeed here arises a further doubt; for as it is a matter of observation t
 इति नोपपद्यत इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This doubt is, however, disposed of by the consideration that breath is not present in things such as stones and wood, nor in intelligence itself, and that hence of breath in the ordinary sense it cannot be said that 'all beings enter into it,' &c.
 </details>
@@ -201,7 +201,7 @@ This doubt is, however, disposed of by the consideration that breath is not pres
 परं ब्रह्मैव प्राण-शब्देनाभिधीयते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We therefore conclude that Brahman is here called 'breath' in so far as he bestows the breath of life on all beings.
 </details>
@@ -225,7 +225,7 @@ We therefore conclude that Brahman is here called 'breath' in so far as he besto
 आकाश-प्राणादि-शब्दाभिधेयम् इति सिद्धम्॥२४॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And the general result of the discussion carried on in connexion with the last two Sūtras thus is that the words 'ether' and 'breath' denote something other than what is ordinarily denoted by those terms, viz. the highest Brahman, the sole cause of this entire world, free from all evil, &c. &c.
 </details>
@@ -257,7 +257,7 @@ And the general result of the discussion carried on in connexion with the last t
 **इति श्रीशारीरकमीमांसाभाष्ये प्राणाधिकरणम् ॥ ९ ॥**
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of 'breath.'
 </details>

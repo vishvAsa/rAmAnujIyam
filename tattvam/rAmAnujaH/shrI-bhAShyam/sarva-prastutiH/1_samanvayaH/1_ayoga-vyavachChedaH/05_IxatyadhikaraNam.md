@@ -21,7 +21,7 @@ title = "०५ ईक्षत्यधिकरणम्"
 इत्य् उक्तम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We have maintained that what is taught by the texts relative to the origination of the world is Brahman, omniscient, and so on.
 </details>
@@ -44,7 +44,7 @@ We have maintained that what is taught by the texts relative to the origination 
 आनुमानिक-प्रधानादि-प्रतिपादनानर्हातोच्यते – "ईक्षतेर् नाशब्दम्" – इत्य्-आदिना।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The present Sūtra and the following Sūtras now add that those texts can in no way refer to the Pradhāna and similar entities which rest on Inference only.
 </details>
@@ -68,7 +68,7 @@ The present Sūtra and the following Sūtras now add that those texts can in no 
 एकमेव अद्वितीयम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We read in the Cḥāndogya, 'Being only was this in the beginning, one only, without a second.'
 </details>
@@ -91,7 +91,7 @@ We read in the Cḥāndogya, 'Being only was this in the beginning, one only, wi
 इत्य्-आदि ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 '--It thought, may I be many, may I grow forth.--It sent forth fire' (VI, 2, 1 ff.)
 </details>
@@ -113,7 +113,7 @@ We read in the Cḥāndogya, 'Being only was this in the beginning, one only, wi
 परोक्तम् आनुमानिकं प्रधानम्?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here a doubt arises whether the cause of the world denoted by the term 'Being' is the Pradhāna assumed by others, which rests on Inference,
 </details>
@@ -133,7 +133,7 @@ Here a doubt arises whether the cause of the world denoted by the term 'Being' i
 उतोक्त-लक्षणं ब्रह्म इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 or Brahman as defined by us.
 </details>
@@ -154,7 +154,7 @@ or Brahman as defined by us.
 किं प्राप्तम्? प्रधानम् इति ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Pūrvapakshin maintains that the Pradhāna is meant.
 </details>
@@ -182,7 +182,7 @@ The Pūrvapakshin maintains that the Pradhāna is meant.
 कारणावस्थां वदति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For he says, the Cḥāndogya text quoted expresses the causal state of what is denoted by the word 'this', viz. the aggregate of things comprising manifold effects, such as ether &c., consisting of the three elements of Goodness, Passion and Darkness, and forming the sphere of fruition of intelligent beings.
 </details>
@@ -203,7 +203,7 @@ For he says, the Cḥāndogya text quoted expresses the causal state of what is 
 कारण-भूत-द्रव्यस्यावस्थान्तरापत्तिर् एव हि कार्यता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 By the 'effected' state we understand the assuming, on the part of the causal substance, of a different condition;
 </details>
@@ -224,7 +224,7 @@ By the 'effected' state we understand the assuming, on the part of the causal su
 तत्-स्वभावं तद् एव द्रव्यं कारणावस्थम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 whatever therefore constitutes the essential nature of a thing in its effected state the same constitutes its essential nature in the causal state also.
 </details>
@@ -246,7 +246,7 @@ whatever therefore constitutes the essential nature of a thing in its effected s
 गुण-साम्यावस्थं प्रधानम् एव हि कारणम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now the effect, in our case, is made up of the three elements Goodness, Passion and Darkness; hence the cause is the Pradhāna which consists in an equipoise of those three elements.
 </details>
@@ -273,7 +273,7 @@ Now the effect, in our case, is made up of the three elements Goodness, Passion 
 इत्य् अभिधीयते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And as in this Pradhāna all distinctions are merged, so that it is pure Being, the Cḥāndogya text refers to it as 'Being, one only, without a second.'
 </details>
@@ -294,7 +294,7 @@ And as in this Pradhāna all distinctions are merged, so that it is pure Being, 
 तत एव च कार्य-कारणयोर् अनन्यत्वम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This establishes the non-difference of effect and cause,
 </details>
@@ -315,7 +315,7 @@ This establishes the non-difference of effect and cause,
 एक-विज्ञानेन सर्व-विज्ञान-प्रतिज्ञोपपत्तिः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and in this way the promise that through the knowledge of one thing all things are to be known admits of being fulfilled.
 </details>
@@ -337,7 +337,7 @@ and in this way the promise that through the knowledge of one thing all things a
 इत्य्-आदि मृत्-पिण्ड--तद्-कार्य-- -दृष्टान्त-दार्ष्टान्तिकयोर् वैरूप्यं च
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Otherwise, moreover, there would be no analogy between the instance of the lump of clay and the things made of it, and the matter to be illustrated thereby. 
 </details>
@@ -360,7 +360,7 @@ Otherwise, moreover, there would be no analogy between the instance of the lump 
 जगत्-कारण-वादि-वाक्येन महर्षिणा कपिलेनोक्तं प्रधानम् एव प्रतिपाद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The texts speaking of the origination of the world therefore intimate the Pradhāna taught by the great Sage Kapila.
 </details>
@@ -385,7 +385,7 @@ The texts speaking of the origination of the world therefore intimate the Pradh�
 इति –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And as the Cḥāndogya passage has, owing to the presence of an initial statement (pratijñā) and a proving instance, the form of an inference, the term 'Being' means just that which rests on inference, viz. the Pradhāna.
 </details>
@@ -414,7 +414,7 @@ And as the Cḥāndogya passage has, owing to the presence of an initial stateme
 – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This primā facie view is set aside by the words of the Sūtra.
 
@@ -439,7 +439,7 @@ This primā facie view is set aside by the words of the Sūtra.
 आनुमानिकं प्रधानम् इत्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That which does not rest on Scripture, i.e. the Pradhāna, which rests on Inference only, is not what is intimated by the texts referring to the origination of the world;
 </details>
@@ -465,7 +465,7 @@ That which does not rest on Scripture, i.e. the Pradhāna, which rests on Infere
 कुतः?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 is not what is intimated by the texts referring to the origination of the world; for
 </details>
@@ -486,7 +486,7 @@ is not what is intimated by the texts referring to the origination of the world;
 सच्-छब्द-वाच्य-- -सम्बन्धि-व्यापार-विशेषाभिधायिन ईक्षतेर् धातोश् श्रवणात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for the text exhibits the root 'īksh '--which means 'to think'--as denoting a special activity on the part of what is termed 'Being.'
 </details>
@@ -509,7 +509,7 @@ for the text exhibits the root 'īksh '--which means 'to think'--as denoting a s
 अचेतने प्रधाने न सम्भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'It thought, may I be many, may I grow forth.' 'Thinking' cannot possibly belong to the non-sentient Pradhāna:
 </details>
@@ -530,7 +530,7 @@ for the text exhibits the root 'īksh '--which means 'to think'--as denoting a s
 सर्वज्ञस् सर्व-शक्तिः पुरुषोत्तमस् सच्-छब्दाभिधेयः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 the term 'Being' can therefore denote only the all-knowing highest Person who is capable of thought.
 </details>
@@ -557,7 +557,7 @@ the term 'Being' can therefore denote only the all-knowing highest Person who is
 इत्य्-आदिषु।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In agreement with this we find that, in all sections which refer to creation, the act of creation is stated to be preceded by thought. 'He thought, shall I send forth worlds. He sent forth these worlds' (Ait. Ār. II, 4, 1, 2); 'He thought... he sent forth Prāṇa' (Pr. Up. VI, 3); and others.
 </details>
@@ -578,7 +578,7 @@ In agreement with this we find that, in all sections which refer to creation, th
 > ननु च कार्यानुगुणेनैव कारणेन भवितव्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But it is a rule that as a cause we must assume only what corresponds to the effect!
 </details>
@@ -599,7 +599,7 @@ But it is a rule that as a cause we must assume only what corresponds to the eff
 सर्वज्ञस्, सर्व-शक्तिस्, सत्य-सङ्कल्पः, पुरुषोत्तमस्, सूक्ष्म-चिद्--अ-चिद्--वस्तु-शरीरकः +++(कारणावस्थायम्)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Just so; and what corresponds to the total aggregate of effects is the highest Person, all-knowing, all-powerful, whose purposes realise themselves, who has minds and matter in their subtle state for his body.
 </details>
@@ -635,7 +635,7 @@ Just so; and what corresponds to the total aggregate of effects is the highest P
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Compare the texts 'His high power is revealed as manifold, as inherent, acting as force and knowledge' (Śvet. Up. VI, 8); 'He who is all-knowing, all-perceiving' (Mu. Up. I, 1, 9); 'He of whom the Unevolved is the body, of whom the Imperishable is the body, of whom Death is the body, he is the inner Self of all things' (Subāl. Up. VII).
 </details>
@@ -660,7 +660,7 @@ Compare the texts 'His high power is revealed as manifold, as inherent, acting a
 इत्य्-आदिषु प्रतिपादयिष्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This point (viz. as to the body of the highest Person) will be established under Sū. II, 1, 4.
 </details>
@@ -676,7 +676,7 @@ This point (viz. as to the body of the highest Person) will be established under
 न प्रधान-प्रतिपादन-योग्यानीत्य् उच्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The present Sūtra declares that the texts treating of creation cannot refer to the Pradhāna;
 </details>
@@ -691,7 +691,7 @@ The present Sūtra declares that the texts treating of creation cannot refer to 
 वस्तु-विरोधस् तु +++("न विलक्षणत्वात्"→)+++ तत्रैव परिहरिष्यते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 the Sūtra just mentioned will dispose of objections.
 </details>
@@ -711,7 +711,7 @@ the Sūtra just mentioned will dispose of objections.
 – इति, तद् असत्, हेत्वनुपादानात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor is the Pūrvapakshin right in maintaining that the Cḥāndogya passage is of the nature of an Inference; for it does not state a reason (hetu – which is the essential thing in an Inference).
 </details>
@@ -736,7 +736,7 @@ Nor is the Pūrvapakshin right in maintaining that the Cḥāndogya passage is o
 तत्-सम्भव-मात्र-प्रदर्शनाय हि दृष्टान्तोपादानम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The illustrative instance (of the lump of clay) is introduced merely in order to convince him who considers it impossible that all things should be known through one thing – as maintained in the passage 'through which that is heard which was not heard,' &c.,--that this is possible after all.
 </details>
@@ -758,7 +758,7 @@ The illustrative instance (of the lump of clay) is introduced merely in order to
 अनुमान-गन्धाभावः अवगतः॥५॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And the mention made in the text of 'seeing' clearly shows that there is absolutely no intention of setting forth an Inference.
 </details>
@@ -788,7 +788,7 @@ And the mention made in the text of 'seeing' clearly shows that there is absolut
 भवति चाचेतनेष्व् अपि चेतन-धर्मोपचारः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Let us assume, then, the Pūrvapakshin resumes, that the 'seeing' of the text denotes not 'seeing' in its primary, direct sense – such as belongs to intelligent beings only; but 'seeing' in a secondary, figurative sense which there is ascribed to the Pradhāna in the same way as in passages immediately following it is ascribed to fire and water--'the fire saw'; 'the water saw' (Cḥ. Up. VI, 2, 3). The transference, to non-existent things, of attributes properly belonging to sentient beings is quite common;
 </details>
@@ -814,7 +814,7 @@ Let us assume, then, the Pūrvapakshin resumes, that the 'seeing' of the text de
 > अतो गौणम् ईक्षणम् 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 as when we say 'the rice-fields look out for rain'; 'the rain delighted the seeds.'--
 </details>
@@ -832,7 +832,7 @@ as when we say 'the rice-fields look out for rain'; 'the rain delighted the seed
 अनुभाष्य परिहरति –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This view is set aside by the next Sūtra.
 </details>
@@ -847,7 +847,7 @@ This view is set aside by the next Sūtra.
 > ६. "+++(ईक्षतिर् अचेतने)+++ गौणश्" चेन् न – आत्म-शब्दात् ॥ १-१-६ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 6. If it be said that (the word 'seeing') has a secondary (figurative) meaning; we deny this, on account of the word 'Self' (being applied to the cause of the world).
 </details>
@@ -874,7 +874,7 @@ This view is set aside by the next Sūtra.
 इति –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The contention that, because, in passages standing close by, the word 'seeing' is used in a secondary sense,  
 the 'seeing' predicated of the Sat ('Being') is also to be taken in a secondary sense,  
@@ -899,7 +899,7 @@ viz. as denoting (not real thought but) a certain condition previous to creation
 आत्म-शब्देन व्यपदेशात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for in other texts met with in the same section (viz. 'All this has that for its Self; that is the True, that is the Self', Cḥ. Up. VI, 8, 7), that which first had been spoken of as Sat is called the 'Self'.
 </details>
@@ -929,7 +929,7 @@ for in other texts met with in the same section (viz. 'All this has that for its
 – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The designation 'Self' which in this passage is applied to the Sat in its relation to the entire world, sentient or non-sentient, is in no way appropriate to the Pradhāna.
 </details>
@@ -947,7 +947,7 @@ The designation 'Self' which in this passage is applied to the Sat in its relati
 परमात्मन एव वाचकाः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We therefore conclude that, as the highest Self is the Self of fire, water, and earth also, the words fire, &c. (in the passages stating that fire, &c. thought) denote the highest Self only.
 </details>
@@ -981,7 +981,7 @@ We therefore conclude that, as the highest Self is the Self of fire, water, and 
 इत्य् अपि मुख्य एवेक्षण-व्यपदेशः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This conclusion agrees with the text 'Let me enter into these three beings with this living Self, and evolve names and forms', for this text implies that fire, water, &c. possess substantial being and definite names only through the highest Self having entered into them.
 </details>
@@ -1005,7 +1005,7 @@ This conclusion agrees with the text 'Let me enter into these three beings with 
 इति सूत्राभिप्रायः॥६॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The thought ascribed in the text to fire, water, &c. hence is thought in the proper sense, and the hypothesis that, owing to its connexion with these latter texts, the thought predicated of 'Being' ('it thought,' &c.) should be thought in a figurative sense only thus lapses altogether.
 </details>
@@ -1026,7 +1026,7 @@ The thought ascribed in the text to fire, water, &c. hence is thought in the pro
 इतश् च न प्रधानं सच्-छब्द-प्रतिपाद्यम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next following Sūtra confirms the same view.
 </details>
@@ -1046,7 +1046,7 @@ The next following Sūtra confirms the same view.
 > ७. +++(तत्-क्रतु-न्याये सति)+++ तन्-निष्ठस्य मोक्षोपदेशात् +++(नाचेतनम् उक्तम्)+++ ॥ १-१-७ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 7. Because release is taught of him who takes his stand on it.
 </details>
@@ -1081,7 +1081,7 @@ The next following Sūtra confirms the same view.
 इत्य् उपदिशति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Svetaketu, who is desirous of final release, is at first – by means of the clause 'Thou art that'--instructed to meditate on himself as having his Self in that which truly is; and thereupon the passage 'for him there is delay' only as long as 'I shall not be released, then I shall be united' teaches that for a man taking his stand upon that teaching there will be Release, i.e. union with Brahman – which is delayed only until this mortal body falls away.
 </details>
@@ -1102,7 +1102,7 @@ Svetaketu, who is desirous of final release, is at first – by means of the cla
 तदा तद्-आत्मकत्वानुसन्धानस्य मोक्ष-साधनत्वोपदेशो नोपपद्यते +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, the text would teach that the non-intelligent Pradhāna is the general cause, it could not possibly teach that meditation on this Pradhāna being a man's Self is the means towards his Release.
 </details>
@@ -1125,7 +1125,7 @@ If, on the other hand, the text would teach that the non-intelligent Pradhāna i
 इति तन्-निष्ठस्याचेतन-सम्पत्तिर् एव स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 A man taking his stand on such meditation rather would on death be united with a non-sentient principle, according to the scriptural saying, 'According as his thought is in this world, so will he be when he has departed this life' (Cḥ. Up. III, 14, 1).
 </details>
@@ -1146,7 +1146,7 @@ A man taking his stand on such meditation rather would on death be united with a
 एवं-विध-ताप-त्रयाभिहति- -हेतु-भूताम् अचित्-सम्पत्तिम् उपदिशति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And Scripture, which is more loving than even a thousand parents, cannot possibly teach such union with the Non-sentient, which is acknowledged to be the cause of all the assaults of suffering in its threefold form.
 </details>
@@ -1167,7 +1167,7 @@ And Scripture, which is more loving than even a thousand parents, cannot possibl
 प्रधान-निष्ठस्य मोक्षं नाभ्युपगच्छन्ति॥७॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, those who hold the theory of the Pradhāna being the cause of the world do not themselves maintain that he who takes his stand upon the Pradhāna attains final release.
 </details>
@@ -1188,7 +1188,7 @@ Moreover, those who hold the theory of the Pradhāna being the cause of the worl
 इतश् च न प्रधानम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Pradhāna is not the cause of the world for the following reason also:
 </details>
@@ -1208,7 +1208,7 @@ The Pradhāna is not the cause of the world for the following reason also:
 **८. +++(सद्-)+++हेयत्वावचनाच् च +++(न प्रधानं जगत्-कारणं ध्येयम्)+++॥ १-१-८ ॥**
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 8. And because there is no statement of its having to be set aside.
 </details>
@@ -1225,7 +1225,7 @@ The Pradhāna is not the cause of the world for the following reason also:
 मोक्ष-विरोधित्वात् हेयत्वेनैव उपदेश्यं स्यात् ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If the word 'Sat' denoted the Pradhāna as the cause of the world, we should expect the text to teach that the idea of having his Self in that 'Sat' should be set aside by Śvetaketu as desirous of Release; for that idea would be contrary to Release.
 </details>
@@ -1247,7 +1247,7 @@ If the word 'Sat' denoted the Pradhāna as the cause of the world, we should exp
 इत्य् उपदिश्यते॥ ८॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 So far from teaching this, the text, however, directly inculcates that notion in the words 'Thou art that.'
 </details>
@@ -1268,7 +1268,7 @@ So far from teaching this, the text, however, directly inculcates that notion in
 इतश् च न प्रधानम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra adds a further reason.
 </details>
@@ -1283,7 +1283,7 @@ The next Sūtra adds a further reason.
 +++("एक-विज्ञानेन सर्व-विज्ञानम्"→)+++ प्रतिज्ञा-विरोधात् +++(न सच्-छब्द-वाच्यम् प्रधानम्)+++ ॥ १-१-९ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 9. And on account of the contradiction of the initial statement.
 </details>
@@ -1298,7 +1298,7 @@ The next Sūtra adds a further reason.
 प्रधान-कारणत्वे प्रतिज्ञा-विरोधश् च भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Pradhāna's being the cause of the world would imply a contradiction of the initial statement,
 </details>
@@ -1318,7 +1318,7 @@ The Pradhāna's being the cause of the world would imply a contradiction of the 
 वाक्योपक्रमे ह्य् एक-विज्ञानेन सर्व-विज्ञानं प्रतिज्ञातम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 viz. that through the knowledge of one thing all things are to be known.
 </details>
@@ -1339,7 +1339,7 @@ viz. that through the knowledge of one thing all things are to be known.
 कारण-भूत-- -सद्-विज्ञानात् तत्-कार्य-भूत-चेतनाचेतन-प्रपञ्चस्य ज्ञाततयैवोपपादनीयम्।  
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now, on the principle of the non-difference of cause and effect, this initial statement can only be fulfilled in that way that through the knowledge of the 'Sat', which is the cause, there is known the entire world, whether sentient or non-sentient, which constitutes the effect. 
 </details>
@@ -1358,7 +1358,7 @@ Now, on the principle of the non-difference of cause and effect, this initial st
 प्रधान-विज्ञानेन चेतन-वर्ग-विज्ञानासिद्धेः विरुध्यते॥९॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But if the Pradhāna were the cause, the aggregate of sentient beings could not be known through it – for sentient beings are not the effect of a non-sentient principle, and there would thus arise a contradiction.
 </details>
@@ -1379,7 +1379,7 @@ But if the Pradhāna were the cause, the aggregate of sentient beings could not 
 इतश् च न प्रधानम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra supplies a further reason.
 </details>
@@ -1394,7 +1394,7 @@ The next Sūtra supplies a further reason.
 १०. +++(स्वापे स्वकारण-भूत-सत्→)+++स्वाप्ययात् +++(न प्रधानं सच्-छब्द-वाच्यम्)+++ ॥ १-१-१० ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 10. On account of (the individual soul) going to the Self.
 </details>
@@ -1418,7 +1418,7 @@ The next Sūtra supplies a further reason.
 "सता सम्पन्नं", "स्वम् अपीतः" – "स्वस्मिन् प्रलीनः" इति व्यपदिशति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 With reference to the 'Sat' the text says, 'Learn from me the true nature of sleep. When a man sleeps here, he becomes united with the Sat, he is gone to his own (Self). Therefore they say he sleeps (svapiti), because he is gone to his own (sva-apīta)' (Cḥ. Up. VI, 8, 1). This text designates the soul in the state of deep sleep as having entered into, or being merged or reabsorbed in, the Self.
 </details>
@@ -1441,7 +1441,7 @@ With reference to the 'Sat' the text says, 'Learn from me the true nature of sle
 प्रलयश् च – स्व-कारणे लयः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 By reabsorption we understand something being merged in its cause.
 </details>
@@ -1463,7 +1463,7 @@ By reabsorption we understand something being merged in its cause.
 चेतनस्य जीवस्य कारणं भवितुम् अर्हाति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now the non-intelligent Pradhāna cannot be the cause of the intelligent soul;
 </details>
@@ -1485,7 +1485,7 @@ Now the non-intelligent Pradhāna cannot be the cause of the intelligent soul;
 आत्मानम् एव जीवो ऽपीतो भवतीत्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 hence the soul's going to its Self can only mean its going to the, i.e. the universal, Self.
 </details>
@@ -1503,7 +1503,7 @@ hence the soul's going to its Self can only mean its going to the, i.e. the univ
 नाम-रूप-व्याकरण-श्रुत्योक्तम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The term 'individual soul' (jīva) denotes Brahman in so far as having an intelligent substance for its body, Brahman itself constituting the Self; as we learn from the text referring to the distinction of names and forms.
 </details>
@@ -1527,7 +1527,7 @@ The term 'individual soul' (jīva) denotes Brahman in so far as having an intell
 इत्य् उच्यते।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This Brahman, thus called jīva, is in the state of deep sleep, no less than in that of a general pralaya, free from the investment of names and forms, and is then designated as mere 'Being' (sat); as the text says, 'he is then united with the Sat'.
 </details>
@@ -1548,7 +1548,7 @@ This Brahman, thus called jīva, is in the state of deep sleep, no less than in 
 इत्य् उच्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 As the soul is in the state of deep sleep free from the investment of name and form, and invested by the intelligent Self only, another text says with reference to the same state,  
 
@@ -1568,7 +1568,7 @@ As the soul is in the state of deep sleep free from the investment of name and f
 स्व-व्यतिरिक्त-विषय-ज्ञानोदयः +++(→स च +++(सुषुप्त्यादि-भिन्नावस्थायाम्)+++)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Up to the time of final release there arise in the soul invested by name and form the cognitions of objects different from itself.
 </details>
@@ -1602,7 +1602,7 @@ Up to the time of final release there arise in the soul invested by name and for
 इति च ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 During deep sleep the souls divest themselves of names and forms, and are embraced by the 'Sat' only; but in the waking state they again invest themselves with names and forms, and thus bear corresponding distinctive names and forms. This, other scriptural texts also distinctly declare, 'When a man lying in deep sleep sees no dream whatever, he becomes one with that prāṇa alone;--from that Self the prāṇas proceed, each towards its place' (Kau.Up. III, 3); 'Whatever these creatures are here, whether a lion or a wolf or a boar or a gnat or a mosquito, that they become again' (Cḥ. Up. VI, 9, 3).
 </details>
@@ -1621,7 +1621,7 @@ During deep sleep the souls divest themselves of names and forms, and are embrac
 इति च वदति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence the term 'Sat' denotes the highest Brahman, the all-knowing highest Lord, the highest Person.
 </details>
@@ -1820,7 +1820,7 @@ Hence the term 'Sat' denotes the highest Brahman, the all-knowing highest Lord, 
 तस्मात् सच्-छब्द-वाच्यः परं ब्रह्म सर्वज्ञः परमेश्वरः पुरुषोत्तम एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence the term 'Sat' denotes the highest Brahman, the all-knowing highest Lord, the highest Person.
 </details>
@@ -1841,7 +1841,7 @@ Hence the term 'Sat' denotes the highest Brahman, the all-knowing highest Lord, 
 इति॥१०॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Thus the Vr̥ttikāra also says, 'Then he becomes united with the Sat – this is proved by (all creatures) entering into it and coming back out of it.' And Scripture also says, 'Embraced by the intelligent Self.'
 </details>
@@ -1863,7 +1863,7 @@ Thus the Vr̥ttikāra also says, 'Then he becomes united with the Sat – this i
 इतश् च न प्रधानम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra gives an additional reason.
 </details>
@@ -1878,7 +1878,7 @@ The next Sūtra gives an additional reason.
 ११. +++(सृष्टि-वाक्य-)+++गति-+++(कारण-)+++सामान्यात् +++(कारणम् इह न प्रधानम्)+++॥ १-१-११ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 11. On account of the uniformity of view.
 </details>
@@ -1907,7 +1907,7 @@ The next Sūtra gives an additional reason.
 तेषु च सर्वेषु सर्वेश्वरः कारणम् अवगम्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'In the beginning the Self was all this; there was nothing else whatsoever thinking. He thought, shall I send forth worlds? He sent forth these worlds' (Ait. Ār. II, 4, 1, 1); 'From that Self sprang ether, from ether air, from air fire, from fire water, from water earth' (Taitt. Up. II, 1); 'From this great Being were breathed forth the R̥g-veda,' &c.--These and similar texts referring to the creation have all the same purport: they all teach us that the Supreme Lord is the cause of the world.
 </details>
@@ -1927,7 +1927,7 @@ The next Sūtra gives an additional reason.
 तस्माद् अत्रापि सर्वेश्वर एव कारणम् इति निश्चीयते॥११॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We therefore conclude that in the Cḥ. passage also the Sat, which is said to be the cause of the world, is the Supreme Lord.
 </details>
@@ -1944,7 +1944,7 @@ We therefore conclude that in the Cḥ. passage also the Sat, which is said to b
 इतश् च न प्रधानम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra gives an additional reason.
 </details>
@@ -1959,7 +1959,7 @@ The next Sūtra gives an additional reason.
 १२. +++(व्याकर्तृत्वादि-)+++श्रुतत्वाच् च +++(न प्रधानं सच्-छब्द-वायम्)+++॥ १-१-१२ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 12. And because it is directly stated in Scripture.
 </details>
@@ -1992,7 +1992,7 @@ The next Sūtra gives an additional reason.
 इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The text of the same Upanishad directly declares that the being denoted by the word 'Sat' evolves, as the universal Self, names and forms; is all-knowing, all-powerful, all-embracing; is free from all evil, &c.; realises all its wishes and purposes. 'Let me, entering those beings with this living Self, evolve names and forms' (Cḥ. Up. VI, 3, 2); 'All these creatures have their root in the Sat, they dwell in the Sat, they rest in the Sat' (VI, 8, 4); 'All this has that for its Self; it is the True, it is the Self (VI, 8, 7); 'Whatever there is of him here in the world, and whatever is not, all that is contained within it' (VIII, 1, 3); 'In it all desires are contained. It is the Self free from sin, free from old age, from death and grief, from hunger and thirst, whose wishes come true, whose purposes come true' (VIII, 1, 5).
 </details>
@@ -2036,7 +2036,7 @@ The text of the same Upanishad directly declares that the being denoted by the w
 इत्य्-आदीनि।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And analogously other scriptural texts, 'Of him there is no master in the world, no ruler; not even a sign of him. He is the cause, the lord of the lords of the organs, and there of him neither parent nor lord' (Śvet. Up. VI, 9). 'The wise one who, having created all forms and having given them names, is calling them by those names' (Taitt. Ar. III, 12, 7); 'He who entered within is the ruler of all beings, the Self of all' (Taitt. Ar. III, 24); 'The Self of all, the refuge, the ruler of all, the Lord of the souls' (Mahānār. Up. XI); 'Whatsoever is seen or heard in this world, inside or outside, pervading that all Nārāyaṇa abides' (Mahānār. Up. XI); 'He is the inner Self of all beings, free from all evil, the divine, the only god Nārāyaṇa.'
 </details>
@@ -2057,7 +2057,7 @@ And analogously other scriptural texts, 'Of him there is no master in the world,
 न प्रधानादि-प्रतिपादन-योग्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 These and other texts which declare the world to have sprung from the highest Lord, can in no way be taken as establishing the Pradhāna.
 </details>
@@ -2081,7 +2081,7 @@ These and other texts which declare the world to have sprung from the highest Lo
 निखिल-जगद्-एक-कारणं जिज्ञास्यं ब्रह्मेति स्थितम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence it remains a settled conclusion that the highest Person, Nārāyaṇa, free from all shadow of imperfection, &c., is the single cause of the whole Universe, and is that Brahman which these Sūtras point out as the object of enquiry.
 </details>
@@ -2104,7 +2104,7 @@ Hence it remains a settled conclusion that the highest Person, Nārāyaṇa, fre
 पारमार्थिक-मुख्येक्षणादि-गुणयोगि जिज्ञास्यं ब्रह्मेति स्थापनात् ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For the same reasons the theory of a Brahman, which is nothing but non-differenced intelligence, must also be considered as refuted by the Sūtrakāra, with the help of the scriptural texts quoted; for those texts prove that the Brahman, which forms the object of enquiry, possesses attributes such as thinking, and so on, in their real literal sense.
 </details>
@@ -2124,7 +2124,7 @@ For the same reasons the theory of a Brahman, which is nothing but non-differenc
 निर्विशेषवादे हि साक्षित्वम् अप्य् अ-पारमार्थिकम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 On the theory, on the other hand, of a Brahman that is nothing but distinctionless intelligence even the witnessing function of consciousness would be unreal.
 </details>
@@ -2146,7 +2146,7 @@ On the theory, on the other hand, of a Brahman that is nothing but distinctionle
 जिज्ञास्यतया प्रतिज्ञातम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtras propose as the object of enquiry Brahman as known from the Vedānta-texts,
 </details>
@@ -2170,7 +2170,7 @@ The Sūtras propose as the object of enquiry Brahman as known from the Vedānta-
 इत्य्-आदिभिस् सूत्रैः प्रतिपाद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and thereupon teach that Brahman is intelligent (Sū. I, 1, 5 ff.)
 </details>
@@ -2190,7 +2190,7 @@ and thereupon teach that Brahman is intelligent (Sū. I, 1, 5 ff.)
 चेतनत्वं नाम चैतन्य-गुण-योगः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 To be intelligent means to possess the quality of intelligence:
 </details>
@@ -2205,7 +2205,7 @@ To be intelligent means to possess the quality of intelligence:
 अत ईक्षण-गुण-विरहिणः प्रधान-तुल्यत्वम् एव ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 a being devoid of the quality of thought would not differ in nature from the Pradhāna.
 </details>
@@ -2227,7 +2227,7 @@ a being devoid of the quality of thought would not differ in nature from the Pra
 तस्य प्रकाशत्वम् अपि दुरुपपादम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Further, on the theory of Brahman being mere non-differenced light it would be difficult to prove that Brahman is self-luminous.
 </details>
@@ -2249,7 +2249,7 @@ Further, on the theory of Brahman being mere non-differenced light it would be d
 वस्तु-विशेषः।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For by light we understand that particular thing which renders itself, as well as other things, capable of becoming the object of ordinary thought and speech;
 </details>
@@ -2267,7 +2267,7 @@ For by light we understand that particular thing which renders itself, as well a
 घटादिवद् अ-चित्त्वम् एव ॥+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but as a thing devoid of all difference does not, of course, possess these two characteristics it follows that it is as devoid of intelligence as a pot may be.--
 </details>
@@ -2287,7 +2287,7 @@ but as a thing devoid of all difference does not, of course, possess these two c
 तन् न, तत्-क्षमत्वं हि तत्-सामर्थ्यम् एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Let it then be assumed that although a thing devoid of all distinction does not actually possess these characteristics, yet it has the potentiality of possessing them!--But if it possesses the attribute of potentiality,
 </details>
@@ -2308,7 +2308,7 @@ Let it then be assumed that although a thing devoid of all distinction does not 
 सामर्थ्य-गुण-योगे हि निर्विशेष-वादः परित्यक्तस् स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 it is clear that you abandon your entire theory of a substance devoid of all distinction!--
 </details>
@@ -2330,7 +2330,7 @@ it is clear that you abandon your entire theory of a substance devoid of all dis
 सर्व-ज्ञता, सर्व-शक्तित्वं, सर्वेश्वरेश्वरत्वं, सर्व-कल्याणगुणाकरत्वं, सकल-हेय-प्रत्यनीकतेत्यादयः सर्वे ऽभ्युपगन्तव्याः।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Let us then admit, on the authority of Scripture, that the universal substance possesses this one distinguishing attribute of self-luminousness.--Well, in that case you must of course admit, on the same authority, all those other qualities also which Scripture vouches for, such as all-knowingness, the possession of all powers, and so on.--
 </details>
@@ -2357,7 +2357,7 @@ Let us then admit, on the authority of Scripture, that the universal substance p
 तद्-एक-निरूपणीयं शक्तिमत्त्वम् अपि निष्प्रमाणं स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, potentiality means capability to produce certain special effects, and hence can be determined on the ground of those special effects only. But if there are no means of knowing these particular effects, there are also no means of cognising potentiality.--
 </details>
@@ -2382,7 +2382,7 @@ Moreover, potentiality means capability to produce certain special effects, and 
 वस्तुत्वम् अपि निष्प्रमाणम् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And those who hold the theory of a substance devoid of all difference, have not even means of proof for their substance;
 </details>
@@ -2398,7 +2398,7 @@ And those who hold the theory of a substance devoid of all difference, have not 
 इति पूर्वम् एवोक्तम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for as we have shown before, Perception, Inference, Scripture, and one's own consciousness, are all alike in so far as having for their objects things marked by difference.
 </details>
@@ -2415,7 +2415,7 @@ for as we have shown before, Perception, Inference, Scripture, and one's own con
 इति सिद्धम्॥ १२॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It therefore remains a settled conclusion that the Brahman to be known is nothing else but the highest Person capable of the thought 'of becoming many' by manifesting himself in a world comprising manifold sentient and non-sentient creatures.--Here terminates the adhikaraṇa of 'seeing'.
 </details>
@@ -2435,7 +2435,7 @@ It therefore remains a settled conclusion that the Brahman to be known is nothin
 इति श्रीशारीरकमीमासाभाष्ये ईक्षत्यधिकरणम् ॥५॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here terminates the adhikaraṇa of 'seeing'.
 </details>

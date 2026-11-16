@@ -20,7 +20,7 @@ title = "११ इन्द्रप्राणाधिकरणम्"
 परम-पुरुष एवेत्य् उक्तम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It has been shown that the being endowed with supreme brilliance, called 'Light,' which the text mentions as something well known, is the highest Person.
 </details>
@@ -37,7 +37,7 @@ It has been shown that the being endowed with supreme brilliance, called 'Light,
 परम-पुरुष एवेत्याह
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtrakāra will now show that the being designated as Indra and Prāṇa, which the text enjoins as an object of meditation, for the reason that it is the means for attaining immortality – a power which is inseparable from causal power --, is likewise the highest Person.
 </details>
@@ -52,7 +52,7 @@ The Sūtrakāra will now show that the being designated as Indra and Prāṇa, w
 > २९. +++(इद्र-प्रतर्दन-संवादे ब्रह्म हि)+++ प्राणस् – +++("प्राण एव प्रज्ञात्मा ऽऽनन्दो ऽजरो ऽमृतः"→)+++ तथा +++(प्रकरणे वाक्य-)+++ऽनुगमात् ॥ १-१-२९ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 29\. Prāṇa is Brahman, on account of connexion.
 </details>
@@ -103,7 +103,7 @@ The Sūtrakāra will now show that the being designated as Indra and Prāṇa, w
 इति श्रूयते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We read in the Pratardana-vidyā in the Kaushītaki-brāhmaṇa that 'Pratardana, the son of Divodāsa, came, by fighting and strength, to the beloved abode of Indra.' Being asked by Indra to choose a boon he requests the God to bestow on him that boon which he himself considers most beneficial to man; whereupon Indra says, 'I am prāṇa (breath), the intelligent Self, meditate on me as Life, as Immortality.'
 </details>
@@ -125,7 +125,7 @@ We read in the Pratardana-vidyā in the Kaushītaki-brāhmaṇa that 'Pratardana
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here the doubt arises whether the being called Prāṇa and Indra, and designating itself as the object of a meditation most beneficial to man, is an individual soul,
 or the highest Self.
@@ -155,7 +155,7 @@ or the highest Self.
 किं युक्तम्? "जीव एवे"ति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --An individual soul, the Pūrvapakshin maintains.
 </details>
@@ -170,7 +170,7 @@ or the highest Self.
 कुतः?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For, he says,
 </details>
@@ -187,7 +187,7 @@ For, he says,
 तत्-समानाधिकरणस्य प्राण-शब्दस्यापि तत्रैव वृत्तेः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 the word 'Indra' is known to denote an individual God, and the word 'Prāṇa,' which stands in grammatical co-ordination with Indra, also applies to individual souls.
 </details>
@@ -218,7 +218,7 @@ the word 'Indra' is known to denote an individual God, and the word 'Prāṇa,' 
 इति स्वात्मोपासनं हिततमम् उपदिदेश।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This individual being, called Indra, instructs Pratardana that meditation on himself is most beneficial to man.
 </details>
@@ -238,7 +238,7 @@ This individual being, called Indra, instructs Pratardana that meditation on him
 हिततमश् चामृतत्व-प्राप्त्य्-उपाय एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But what is most beneficial to man is only the means to attain immortality,
 </details>
@@ -267,7 +267,7 @@ But what is most beneficial to man is only the means to attain immortality,
 इत्य् अवगता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and such a means is found in meditation on the causal principle of the world, as we know from the text, 'For him there is delay only so long as he is not delivered; then he will be perfect' (Cḥ. Up. VI, 14, 2).
 </details>
@@ -282,7 +282,7 @@ and such a means is found in meditation on the causal principle of the world, as
 अतः प्रसिद्ध-जीव-भाव इन्द्र एव कारणं ब्रह्म  
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We hence conclude that Indra, who is known as an individual soul, is the causal principle, Brahman.
 </details>
@@ -308,7 +308,7 @@ We hence conclude that Indra, who is known as an individual soul, is the causal 
 इति;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This view is rejected by the Sūtra.
 </details>
@@ -329,7 +329,7 @@ This view is rejected by the Sūtra.
 इतीन्द्र-प्राण-शब्दाभ्यां प्रस्तुतस्यानन्द-जराऽमृत-शब्द– सामानाधिकरण्येन। 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The being called Indra and Prāṇa is not a mere individual soul, but the highest Brahman, which is other than all individual souls.
 
@@ -385,7 +385,7 @@ For on this supposition only it is appropriate that the being introduced as Indr
 ३०. न +++(ब्रह्म)+++ – वक्तुर् +++("प्राणो ऽस्मि प्रज्ञात्मा … त्वाष्ट्रम् अहनम्" →)+++ आत्मोपेदशाद् – इति चेद्, +++("भूत-मात्राः प्रज्ञा-मात्रासु … [ताः] प्राणे" इत्य्-उक्तः)+++ अध्यात्म-सम्बन्ध-भूमा ह्य् अस्मिन् +++(ब्रह्मणि)+++ ॥ १-१-३० ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 30\. If it be said that (Brahman is) not (denoted) on account of the speaker denoting himself; (we say, not so), because the multitude of connexions with the inner Self (is possible only) in that (speaker if viewed as Brahman).
 </details>
@@ -426,7 +426,7 @@ For on this supposition only it is appropriate that the being introduced as Indr
 प्रतर्दनायोपदिशति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 An objection is raised. --That the being introduced as Indra and Prāṇa should be the highest Brahman, for the reason that it is identical with him who, later on, is called 'blessed,' 'non-ageing, 'immortal' --this we cannot admit. 'Know me only, I am prāṇa, meditate on me as the intelligent Self, as life, as immortality' --the speaker of these words is Indra, and this Indra enjoins on Pratardana meditation on his own person only, the individual character of which is brought out by reference to certain deeds of strength such as the slaying of the son of Tvash_tri_ ('I slew the three-headed son of Tvash_tri_,' &c.).
 </details>
@@ -455,7 +455,7 @@ An objection is raised. --That the being introduced as Indra and Prāṇa should
 इति चेत् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 As thus the initial part of the section clearly refers to an individual being, the terms occurring in the concluding part ('blessed,' 'non-ageing,' 'immortal') must be interpreted so as to make them agree with what precedes.
 </details>
@@ -481,7 +481,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 > +++("भूत-मात्राः प्रज्ञा-मात्रासु … [ताः] प्राणे" इत्य्-उक्तः)+++ अध्यात्म-सम्बन्ध-भूमा ह्य् अस्मिन् +++(ब्रह्मणि)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --This objection the Sūtra disposes of. 'For the multitude of connexions with the Self'
 </details>
@@ -532,7 +532,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 सम्बन्ध-बहुत्वम्। +++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --i.e. the multitude of things connected with the Self as its attributes
 </details>
@@ -554,7 +554,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 तच् चास्मिन् वक्तरि परमात्मन्य् एव हि सम्भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 – is possible only 'in that,' i.e. in that speaker viewed as the highest Brahman.
 </details>
@@ -638,7 +638,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 </details>
 
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'For, as in a car, the circumference of the wheel is placed on the spokes, and the spokes on the nave, thus are these objects placed on the subjects, and the subjects on the prāna. That prāṇa indeed is the intelligent Self, blessed, non-ageing, immortal.' The 'objects' (bhūtamātrāḥ) here are the aggregate of non-sentient things; the 'subjects' (prajñāmātrāḥ) are the sentient beings in which the objects are said to abide; when thereupon the texts says that of these subjects the being called Indra and Prāṇa is the abode, and that he is blessed, non-ageing, immortal;
 </details>
@@ -777,7 +777,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 इत्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 this qualification of being the abode of this Universe, with all its non-sentient and sentient beings, can belong to the highest Self only, which is other than all individual souls.
 </details>
@@ -851,7 +851,7 @@ this qualification of being the abode of this Universe, with all its non-sentien
 +++(इत्य्-अत्र)+++ परमात्मासाधारण-धर्म-सम्बन्धो ऽध्यात्म-सम्बन्धः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtra may also be explained in a somewhat different way, viz. 'there is a multitude of connexions belonging to the highest Self, i.e. of attributes special to the highest Self,
 </details>
@@ -918,7 +918,7 @@ The Sūtra may also be explained in a somewhat different way, viz. 'there is a m
 अस्मिन् प्रकरणे विद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 in that, viz. section.'
 </details>
@@ -947,7 +947,7 @@ in that, viz. section.'
 प्राण-शब्द-निर्दिष्टस्येन्द्रस्य प्रतीयते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The text at first says, 'Choose thou that boon for me which thou deemest most beneficial to man ' --to which the reply is, 'Meditate on me.' Here Indra-prāṇa is represented as the object of a meditation which is to bring about Release; the object of such meditation can be none but the highest Self.
 </details>
@@ -976,7 +976,7 @@ The text at first says, 'Choose thou that boon for me which thou deemest most be
 इति सर्वस्य कर्मणः कारयितृत्वं च परमात्म-धर्मः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --'He makes him whom he wishes to lead up from these worlds do a good deed; and him whom he wishes to lead down from these worlds he makes do a bad deed.' The causality with regard to all actions which is here described is again a special attribute of the highest Self.
 </details>
@@ -1003,7 +1003,7 @@ The text at first says, 'Choose thou that boon for me which thou deemest most be
 इति सर्वाधारत्वं च तस्यैव धर्मः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --The same has to be said with regard to the attribute of being the abode of all, in the passage about the wheel and spokes, quoted above;
 </details>
@@ -1028,7 +1028,7 @@ The text at first says, 'Choose thou that boon for me which thou deemest most be
 इत्य् एतेऽपि परमात्मन एव धर्माः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and with regard to the attributes of bliss, absence of old age and immortality, referred to in another passage quoted before.
 </details>
@@ -1060,7 +1060,7 @@ and with regard to the attributes of bliss, absence of old age and immortality, 
 इति च परमात्मन्य् एव सम्भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Also the attributes of being 'the ruler of the worlds, the lord of all,' can belong to the highest Self only.
 </details>
@@ -1084,7 +1084,7 @@ Also the attributes of being 'the ruler of the worlds, the lord of all,' can bel
 परमात्मैवात्रेन्द्र-प्राण-शब्द-निर्दिष्टः॥३०॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --The conclusion therefore is that the being called Indra and Prāṇa is none other but the highest Self.
 </details>
@@ -1102,7 +1102,7 @@ Also the attributes of being 'the ruler of the worlds, the lord of all,' can bel
 स्वात्मन उपास्यत्वोपदेशस् सङ्गच्छते;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --But how then can Indra, who is known to be an individual person only, enjoin meditation on himself?
 </details>
@@ -1122,7 +1122,7 @@ Also the attributes of being 'the ruler of the worlds, the lord of all,' can bel
 तत्राह-
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --To this question the next Sūtra replies.
 </details>
@@ -1137,7 +1137,7 @@ Also the attributes of being 'the ruler of the worlds, the lord of all,' can bel
 > ३१. +++(देहात्म-भाव-)+++शास्त्र-दृष्ट्या तूपदेशो +++("माम् उपास्स्व")+++ वाम-देववत् +++(→अहं मनुर् अभवं सूर्यश् चाहं)+++ ॥ १-१-३१ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 31\. The instruction (given by Indra about himself) (is possible) through insight based on Scripture, as in the case of Vāmadeva.
 </details>
@@ -1160,7 +1160,7 @@ Also the attributes of being 'the ruler of the worlds, the lord of all,' can bel
 अपि तु शास्त्रेण स्वात्म-दृष्टि-कृतः ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The instruction which, in the passages quoted, Indra gives as to the object of meditation, i.e. Brahman constituting his Self, is not based on such an insight into his own nature as is established by other means of proof, but on an intuition of his own Self, mediated by Scripture.
 </details>
@@ -1213,7 +1213,7 @@ The instruction which, in the passages quoted, Indra gives as to the object of m
 इति स्वात्म-शरीरकं परमात्मानम् एवोपास्यत्वेनोपदिदेश – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'Having entered into them with this living Self let me evolve names and forms' (Cḥ. Up. VI, 3, 2); 'In it all that exists has its Self (Cḥ. Up.VI, 8, 7); Entered within, the ruler of creatures, the Self of all' (Taitt. Ar. III, 21); 'He who dwelling in the Self is different from the Self,' &c. (Br̥. Up. III, 7, 22) --from these and similar texts Indra has learned that the highest Self has the indiviual souls for its body, and that hence words such as 'I' and 'thou,' which denote individual beings, extend in their connotation up to the highest Self; when, therefore, he says, 'Know me only', and 'Meditate on me', he really means to teach that the highest Self, of which his own individual person is the body, is the proper object of meditation.
 </details>
@@ -1256,7 +1256,7 @@ The instruction which, in the passages quoted, Indra gives as to the object of m
 इत्य्-आदिना।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'As in the case of Vāmadeva.' As the R̥shi Vāmadeva perceiving that Brahman is the inner Self of all, that all things constitute its body, and that the meaning of words denoting a body extends up to the principle embodied, denotes with the word 'I' the highest Brahman to which he himself stands in the relation of a body, and then predicates of this 'I' Manu Sūrya and other beings --'Seeing this the R̥shi. Vāmadeva understood, I am Manu, I am Sūrya' (Br̥. Up. I, 4, 10).
 </details>
@@ -1283,7 +1283,7 @@ The instruction which, in the passages quoted, Indra gives as to the object of m
 इत्य्-आदि वदति॥३१॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Similarly Prahlāda says, 'As the Infinite one abides within all, he constitutes my "I" also;
 all is from me, I am all, within me is all.' (Vi. Pu. I, 19, 85.)
@@ -1307,7 +1307,7 @@ all is from me, I am all, within me is all.' (Vi. Pu. I, 19, 85.)
 उपास्य-भूतस्य परस्य ब्रह्मणो ऽभिधाने कारणं चोद्य-पूर्वकम् आह –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra states, in reply to an objection, the reason why, in the section under discussion, terms denoting the individual soul, and others denoting non-sentient things are applied to Brahman.
 </details>
@@ -1336,7 +1336,7 @@ The next Sūtra states, in reply to an objection, the reason why, in the section
 ३२. "जीव--मुख्य-प्राण-लिङ्गान् ने"ति चेन् न – उपासा-त्रैविध्याद् +++(→स्वरूपं, चिद्-अचिच्-छरीरे)+++, +++(अन्यत्रापि त्रैविध्यस्य)+++ आश्रितत्वाद्, इह +++(त्रैविध्य→)+++तद्-योगात् ॥ १-१-३२ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 32\. If it be said (that Brahman is not meant) on account of characteristic marks of the individual soul and the chief vital air; we say no, on account of the threefoldness of meditation; on account of (such threefold meditation) being met (in other texts also); and on account of (such threefold meditation) being appropriate here (also).
 </details>
@@ -1377,7 +1377,7 @@ The next Sūtra states, in reply to an objection, the reason why, in the section
 नाध्यात्म-सम्बन्ध-भूमा
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 An objection is raised. 'Let none try to find out what speech is, let him know the speaker'; 'I slew the three-headed son of Tvash_tri_; I delivered the Arunmukhas, the devotees, to the wolves'; these passages state characteristic marks of an individual soul (viz. the god Indra). --'As long as Prāṇa dwells in this body, so long there is life'; 'Prāṇa alone is the conscious Self, and having laid hold of this body, it makes it rise up.' --These passages again mention characteristic attributes of the chief vital air. Hence there is here no 'multitude of attributes belonging to the Self.' </details>
 
@@ -1398,7 +1398,7 @@ An objection is raised. 'Let none try to find out what speech is, let him know t
 त्रिविधम् अनुसन्धानम् उपदेष्टुम् इत्य् अर्थः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --The latter part of the Sūtra refutes this objection. The highest Self is called by these different terms in order to teach threefoldness of devout meditation; viz. meditation on Brahman in itself as the cause of the entire world; on Brahman as having for its body the totality of enjoying (individual) souls; and on Brahman as having for its body the objects and means of enjoyment.
 </details>
@@ -1428,7 +1428,7 @@ An objection is raised. 'Let none try to find out what speech is, let him know t
 प्रकरणान्तरेष्व् अप्य् **आश्रितम्** —  
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --This threefold meditation on Brahman, moreover, is met with also in other chapters of the sacred text. 
 </details>
@@ -1446,7 +1446,7 @@ An objection is raised. 'Let none try to find out what speech is, let him know t
 इत्य्-आदिषु स्व-रूपानुसन्धानम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Passages such as 'The True, knowledge, infinite is Brahman,' 'Bliss is Brahman,' dwell on Brahman in itself.
 </details>
@@ -1480,7 +1480,7 @@ Passages such as 'The True, knowledge, infinite is Brahman,' 'Bliss is Brahman,'
 इत्य्-आदिषु भोक्तृ-शरीरतया, भोग्य-भोगोपकारण-शरीरतया चानुसन्धानम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Passages again such as 'Having created that he entered into it. Having entered it he became _sat_ and _tyat_, defined and undefined,' &c. (Taitt. Up. II, 6), represent Brahman as having for its body the individual souls and inanimate nature.
 </details>
@@ -1542,7 +1542,7 @@ Passages again such as 'Having created that he entered into it. Having entered i
 तत् त्रि-विधम् अनुसन्धानं युज्यत एवेत्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence, in the chapter under discussion also, this threefold view of Brahman is quite appropriate.
 </details>
@@ -1573,7 +1573,7 @@ Hence, in the chapter under discussion also, this threefold view of Brahman is q
 दृश्यते;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Where to particular individual beings such as Hiraṇyagarbha, and so on, or to particular inanimate things such as prakr̥ti, and so on, there are attributed qualities especially belonging – to the highest Self; or where with words denoting such persons and things there are co-ordinated terms denoting the highest Self,
 </details>
@@ -1604,7 +1604,7 @@ Where to particular individual beings such as Hiraṇyagarbha, and so on, or to 
 तत्-तच्-चिद्-अचिद् विशेषान्तरात्मत्वानुसन्धानं प्रतिपिपादयिषितम् – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 the intention of the texts is to convey the idea of the highest Self being the inner Self of all such persons and things.
 </details>
@@ -1628,7 +1628,7 @@ the intention of the texts is to convey the idea of the highest Self being the i
 सिद्धम्॥ ३२॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --The settled conclusion, therefore, is that the being designated as Indra and Prāṇa is other than an individual soul, viz. the highest Self.
 </details>
