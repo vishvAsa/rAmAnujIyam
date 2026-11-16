@@ -1169,7 +1169,7 @@ as there is no preventing means of proof, they remain as they are.
 निवर्तकप्रमाणाभावात्तथैवावतिष्ठन्ते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तु शब्दाभिप्रेतं वैषम्यम् आह निवर्तकेति ।
 </details>

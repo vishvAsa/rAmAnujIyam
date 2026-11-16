@@ -58,7 +58,7 @@ We read in the Cḥāndogya (I, 10; ii), 'Prastotr̥, that deity which belongs t
 इदमाम्नायते छान्दोग्ये – प्रस्तोतर्या देवता प्रस्तावमन्वायत्ता (छा.उ.1.10.9) इति प्रस्तुत्य, कतमा सा देवतेति प्राण इति होवाच सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते सैषा देवता प्रस्तावमन्वायत्ता तां चेदविद्वान् प्रास्तोष्यो मूर्धा ते व्यपतिष्यत् (छां.१.११.४,५) इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत एव प्राणः ॥ विषयमाह इदमिति ।
 
@@ -90,7 +90,7 @@ Here the word 'breath,' analogously to the word 'ether' denotes the highest Brah
 अत्र प्राणशब्दोऽप्याकाशशब्दवत्प्रसिद्धप्राणव्यतिरिक्ते परस्मिन्नेव ब्रह्मणि वर्तते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अक्षरार्थमाह अत्रेति ।
 
@@ -157,7 +157,7 @@ There indeed here arises a further doubt; for as it is a matter of observation t
 अधिकाशङ्का तु – कृत्स्नस्य भूतजातस्य प्राणाधीनस्थितिप्रवृत्त्यादिदर्शनात् प्रसिद्ध एव प्राणो जगत्कारणतया निर्देशमर्हाति – इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जगत्कारणतयेति ।
 
@@ -188,7 +188,7 @@ This doubt is, however, disposed of by the consideration that breath is not pres
 परिहारस्तु – शिलाकाष्टादिषु चेतनस्वरूपे च तदभावात् सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छा.१.११.५) इति नोपपद्यत इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अधिकं परिहारं दर्शयति परिहारस्त्विति । आदिशब्दोक्त आकाशादिः ।
 
@@ -211,7 +211,7 @@ We therefore conclude that Brahman is here called 'breath' in so far as he besto
 अतः प्राणयति सर्वाणि भूतनीति कृत्वा परं ब्रह्मैव प्राणशब्देनाभिधीयते ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्राणशब्दस्य परब्रह्मवाचित्वं कथमिति शङ्कां परिहरन् अधिकरणार्थमुपसंहरति अत इति ।
 </details>
@@ -235,7 +235,7 @@ And the general result of the discussion carried on in connexion with the last t
 अतः प्रसिद्धाकाशप्राणादेरन्यदेव निखिलजगदेककारणापहतपाप्मत्वसार्वज्ञ्य-सत्यसङ्कल्पत्वादि अनन्तकल्याणगुणगणं परं ब्रह्मैवाकाश प्राणादिशब्दाभिधेयमिति सिद्धम्॥२४॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वृत्ताधिकरणद्वयस्य अवान्तरपेटिकात्वं दर्शयति अतः प्रसिद्धेति ॥
 

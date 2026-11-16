@@ -62,7 +62,7 @@ The Sūtrakāra will now show that the being designated as Indra and Prāṇa, w
 २९. प्राणस्तथाऽनुगमात् ॥ १-१-२९ ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्राणस्तथाऽनुगमात् ॥ तत्रेति ।
 
@@ -137,7 +137,7 @@ or the highest Self.
 उत तदतिरिक्तः परमात्मा इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कारणवाक्यप्रतिपाद्यं ब्रह्म किं प्रसिद्धजीवभाव इन्द्रः, उत परमात्मेति विचारः; तदर्थं हिततमोपासनकर्मतयेन्द्रप्राणशब्दनिर्दिष्टः किं प्रसिद्ध इन्द्रः उत परमात्मेति; तदर्थमानन्दादिगुणाः किं गौणाः, उत मुख्याः; तदर्थं किमुपक्रमावगतत्वाष्ट्रहननादिलिङ्गानुरोधेन आनन्दादिवर्णनम्, उत आनन्दादिलिङ्गानुगुणतया त्वाष्ट्रहननादिवर्णनम्; तदर्थं मामुपास्स्वेति किं स्वोपासनमुच्यते, उत स्वावस्थपरमात्मोपासनम् इति विचारः ।
 
@@ -197,7 +197,7 @@ the word 'Indra' is known to denote an individual God, and the word 'Prāṇa,' 
 इन्द्रशब्दस्य जीवविशेष एव प्रसिद्धेः, तत्समानाधिकरणस्य प्राणशब्दस्यापि तत्रैव वृत्तेः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्राणशब्दस्य कथं जीवपरत्वमित्यत्राह तत्समानाधिकरणस्येति । अनेन प्राधान्येन प्राणपरत्वशङ्कानुत्थानमप्यर्थात् सूचितम् ।
 </details>
@@ -228,7 +228,7 @@ This individual being, called Indra, instructs Pratardana that meditation on him
 अयमिन्द्राभिधानो जीवः प्रतर्दनेन त्वमेव मे वरं वृणीष्व यं त्वं मनुष्याय हिततमं मन्यसे (कौ.३.१) इत्युक्तः मामुपास्व (कौ.३.१) इति स्वात्मोपासनं हिततममुपदिदेश।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इन्द्रस्य जीवत्वे कथं कारणस्य जीवानतिरिक्तत्वमित्यत्राह अयमिति ।
 </details>
@@ -248,7 +248,7 @@ But what is most beneficial to man is only the means to attain immortality,
 हिततमश्चामृतत्वप्राप्त्युपाय एव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वात्मोपासनं हिततममुपदिष्टमस्तु, ततः किम् इन्द्रस्य जगत्कारणत्वे इत्यत्राह हिततम इति ।
 
@@ -292,7 +292,7 @@ We hence conclude that Indra, who is known as an individual soul, is the causal 
 अतः प्रसिद्धजीवभाव इन्द्र एव कारणं ब्रह्म 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत इति पूर्वपक्षोपसंहारः ॥
 </details>
@@ -341,7 +341,7 @@ For on this supposition only it is appropriate that the being introduced as Indr
 अयमिन्द्रप्राणशब्दनिर्दिष्टो न जीवमात्रम्, अपि तु जीवादर्थान्तरभूतं परं ब्रह्म।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 राद्धान्तं प्रतिजानीते अयमिति ।
 
@@ -364,7 +364,7 @@ For on this supposition only it is appropriate that the being introduced as Indr
 अनुगमो हि तथा सत्येवोपपद्यते ॥२९॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तथा ऽनुगमात् परमात्मत्वानुगुण्येनानुगमाद् इति सूत्रयोजना ।
 तथाशब्दस्य साध्याकारपरामर्शित्वमप्यभिप्रयन्नाह तथा सत्येवेति ।
@@ -395,7 +395,7 @@ For on this supposition only it is appropriate that the being introduced as Indr
 ३०. न वक्तुरात्मोपेदशादिति चेदध्यात्मसम्बन्धभूमा ह्यस्मिन् ॥ १-१-३० ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न वक्तुरात्मोपदेशादिति चेदध्यात्मसंबन्धभूमा ह्यस्मिन् ॥
 </details>
@@ -436,7 +436,7 @@ An objection is raised. --That the being introduced as Indra and Prāṇa should
 यदुक्तमिन्द्रप्राणशब्दनिर्दिष्टस्य आनन्दोऽजरोऽमृतः (कौ.३.९) इत्यनेनैकार्थ्यादयं परं ब्रह्मेति तत् नोपपद्यते, मामेव विजानीहि (कौ.३.१), प्राणोऽस्मि प्रज्ञात्मा तं मामायुरमृतमित्युपास्स्व (कौ.३.१) इति वक्ता हीन्द्रः त्रिशीर्षाणं त्वाष्ट्रमहनम् (कौ.३.१) इत्येवमादिना त्वाष्ट्रवधादिभिः प्रज्ञातजीवभावस्य स्वात्मन एवोपास्यतां प्रतर्दनायोपदिशति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निषेध्याध्याहारेण नञर्थमाह यदुक्तमिति ।
 
@@ -465,7 +465,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 अत उपक्रमे जीविविशेष इत्यवगते सति आनन्दोऽजरोऽमृतः (कौ.३.९) इत्यादिभिरुपसंहारस्तदनुगुण एव वर्णनीय इति चेत् –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह अत इति ।
 
@@ -491,7 +491,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 परिहरति- अध्यात्मसम्बन्धभूमा ह्यस्मिन् 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "विकारशब्दान्नेति चेन्न" इतिवत् सूत्रे सिद्धान्तखण्डे निषेधवाचिशब्दाभावात् खण्डान्तरस्य सिद्धान्तपरत्वद्योतनाय परिहरतीत्युक्तम् ॥ 
 </details>
@@ -518,7 +518,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 तस्य भूमा – भूयस्त्वम् – बहुत्वमित्यर्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 भूमशब्दो भूयस्त्वशब्देन व्याख्यातः ।
 भूमशब्दप्रकृतिं दर्शयितुं बहुत्वमित्युक्तम् । आपेक्षिकं हि बहुत्वम् ।
@@ -542,7 +542,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 आत्मन्याधेयतया सम्बध्यमानानां बहुत्वेन सम्बन्धबहुत्वम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 संबन्धबहुत्वनिबन्धनमाह संबध्यमानानामिति ।
 
@@ -564,7 +564,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 तच्चास्मिन्वक्तरि परमात्मन्येव हि सम्भवति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्मिन्निति पदं व्याचष्टे तच्चेति ।
 </details>
@@ -648,7 +648,7 @@ As thus the initial part of the section clearly refers to an individual being, t
 तद्यथा रथस्यारेषु नेमिरर्पिता नाभावरा अर्पिता एवमेवैता भूतमात्राः प्रज्ञामात्रास्वर्पिताः प्रज्ञामात्राः प्राणेऽर्पितास्स एष प्राण एव प्रज्ञात्माऽजरोऽमृतः (कौ.३.९) इति भूतमात्राशब्देनाचेतनवस्तुजातमभिधाय प्रज्ञामात्राशब्देन तदाधारतया चेतनवर्गं चाभिधाय तस्याप्याधारतया प्रकृतमिन्द्रप्राणशब्दाभिधेयं निर्दिश्य तमेव आनन्दोऽजरोऽमृतः, (कौ.३.९) इत्युपदिशति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आधेयतया संबन्धे श्रुतिमाह तद्यथेति ।
 
@@ -787,7 +787,7 @@ this qualification of being the abode of this Universe, with all its non-sentien
 तदेतच्चेतनाचेतनात्मककृत्स्नवस्त्वाधारत्वं जीवादर्थान्तरभूतेऽस्मिन् परमात्मन्येवोपपद्यत इत्यर्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञानैर्ग्राह्य इत्यर्थः इति चेन्न; पञ्चम्यर्थैकरूप्यभङ्गात्, अस्वारस्यात्, ग्राह्यपदाध्याहारप्रसङ्गाच्च । अतोऽस्मिन् वाक्ये बहुवचनान्तः प्राणशब्दो जीवपरः । प्राणसाहचर्याज्जीवे प्रयोगः । परमात्मनि तु प्राणशरीरकत्वात् ।
 
@@ -862,7 +862,7 @@ The Sūtra may also be explained in a somewhat different way, viz. 'there is a m
 परमात्मासाधारणधर्मसम्बन्धोऽध्यात्मसम्बन्धः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवम् अवयवि-स्वारस्य-प्राबल्यस्यार्थसिद्धत्वाद् अपि  
 कण्ठोक्तत्वं युक्तम् इति  
@@ -928,7 +928,7 @@ in that, viz. section.'
 तस्य भूमा बहुत्वं हि अस्मिन् प्रकरणे विद्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "अस्मिञ्छरीरे" इति निर्देशो हीन्द्रशरीरेऽपि संभवति, "सदेव सोम्येदम्" इतीदंशब्दवत् सर्वनामपदस्य साधारणत्वात् ॥
 
@@ -957,7 +957,7 @@ The text at first says, 'Choose thou that boon for me which thou deemest most be
 तथा हि – प्रथमं त्वमेव मे वरं वृणीष्व यं त्वं मनुष्याय हिततमं मन्यसे (कौ.३.९) इति मामुपास्स्व (कौ.३.९) इति च परमात्मासाधारणमोक्षसाधानोपासनकर्मत्वं प्राणशब्दनिर्दिष्टस्येन्द्रस्य प्रतीयते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "प्राण्रोस्मि", "मामुपास्स्व" इति हि तद्वाक्यम् ॥
 
@@ -986,7 +986,7 @@ The text at first says, 'Choose thou that boon for me which thou deemest most be
 तथा एष एव साधु कर्म कारयति तं यमेभ्यो लोकेभ्य उन्निनीषति एष एवासाधु कर्म कारयति तं यमधो निनीषति, (कौ.३.९) इति सर्वस्य कर्मणः कारयितृत्वं च परमात्मधर्मः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्राणः परमात्मेति प्रतिज्ञातमाद्यसूत्रे । द्वितीयसूत्रस्थेन नञा परमात्मत्वमेव निषेध्यम् ।
 </details>
@@ -1014,7 +1014,7 @@ The text at first says, 'Choose thou that boon for me which thou deemest most be
 अर्पिताः एवमेवैता भूतमात्राः प्रज्ञामात्रास्वर्पिताः प्रज्ञामात्राः प्राणेऽर्पिताः (कौ.३.९) इति सर्वाधारत्वं च तस्यैव धर्मः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न परमात्मेति पूर्वपक्षिते, तत्प्रतिसमाधानपरेण, परमात्मैव प्राण इति प्रतिज्ञाय समर्थनीम् ।
 </details>
@@ -1038,7 +1038,7 @@ and with regard to the attributes of bliss, absence of old age and immortality, 
 तथा स एष प्राण एव प्रज्ञात्माऽनन्दोऽजरोऽमृतः (कौ.३.९) इत्येतेऽपि परमात्मन एव धर्माः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न परमात्मेति वदन्तं प्रति, नेन्द्र इत्युक्ते कः प्रतिक्षेपः; न घटोऽस्तीत्युक्त न पट इतिवत् तयोर्विरोधाभावात् । परमात्मत्वे प्रतिज्ञाते मनःप्राणसंबन्धादयस्तु न परमात्मत्वसाधनसमार्थाः ॥
 
@@ -1070,7 +1070,7 @@ Also the attributes of being 'the ruler of the worlds, the lord of all,' can bel
 एष लोकाधिपतिरेष सर्वेशः (कोषी.३.९) इति च परमात्मन्येव सम्भवति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत् कथमिन्द्रशब्देन परमात्मनिर्देश इति भावः । पूर्वं परमात्मपरत्वसाधकहेतुरुक्तः ।
 
@@ -1112,7 +1112,7 @@ Also the attributes of being 'the ruler of the worlds, the lord of all,' can bel
 कथं तर्हि प्रज्ञातजीवभावस्येन्द्रस्य स्वात्मन उपास्यत्वोपदेशस्सङ्गच्छते;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शास्त्रदृष्ट्या तूपदेशो वामदेववत् ॥ कीदृश उपदेश इत्यत्राह प्रज्ञातेति ।
 </details>
@@ -1170,7 +1170,7 @@ The instruction which, in the passages quoted, Indra gives as to the object of m
 प्रज्ञातजीवभावेनेन्द्रेण मामेव विजानीहि (कौ.३.१.) मामुपास्स्व (कौ.३.१.) इत्युपास्यस्य ब्रह्मणस्स्वात्मत्वेनोपदेशोऽयं न प्रमाणान्तरप्राप्तस्वात्मावलोकनकृतः, अपितु शास्त्रेण स्वात्मदृष्टिकृतः ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शास्त्रदृष्टिशब्दस्य व्यवच्छेद्यमाह न प्रमाणान्तरेति ।
 
@@ -1223,7 +1223,7 @@ The instruction which, in the passages quoted, Indra gives as to the object of m
 एतदुक्तं भवति – अनेन जीवेनाऽत्मनाऽनुप्रविश्य नामरूपे व्याकरवाणि (छा.६.३.२), ऐतदात्म्यमिदं सर्वम् (छां.६.८.७), अन्तःप्रविष्टश्शास्ताजनानां सर्वात्मा (यजु.आर), य आत्मनि तिष्ठन्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तरो यमयति (बृ.५.७.२२), एष सर्वभूतान्तरात्मा अपहतपाप्मा दिव्यो देव एको नारायणः (सुबाल.७) इत्येवमादिना शास्त्रेण जीवात्मशरीरकं परमात्मानमवगम्य जीवात्मवाचिनाम् अहन्त्वमादिशब्दानामपि परमात्मन्येव पर्यवसानं ज्ञात्वा मामेव विजानीहि (कौषी.३.९) मामुपास्स्व (कौ.३.१) इति स्वात्मशरीरकं परमात्मानमेवोपास्यत्वेनोपदिदेश – इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जीववाचिपदानां परमात्मसामानाधिकरण्योपपादिकाः श्रुतीरुदाजिहीर्षुर्नामरूपव्याकरणश्रुतिमाह अनेनेति ।
 
@@ -1266,7 +1266,7 @@ The instruction which, in the passages quoted, Indra gives as to the object of m
 वामदेववत् – यथा वामदेवः परस्य ब्रह्मणः सर्वान्तरात्मत्वं सर्वस्य च तच्छरीरत्वं शरीरवाचिनां च शब्दानां शरीरिणि पर्यवसानं पश्यन् अहम् इति स्वात्मशरीरकं परं ब्रह्म निर्दिश्य तत्सामानाधिकरण्येन मनुसूर्यादीन् व्यपदिशति तद्धैतत्पश्यन्नृषिर्वामदेवः प्रतिपेदे अहं मनुरभवं सूर्यश्चाहं कक्षीवानृषिरस्मि विप्रः (बृ.३.४.१०) इत्यादिना।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शरीरिणि पर्यवसानं पश्यन्नित्यन्तेन तद्धैतत्पश्यन् इत्येतत् व्याख्यातम् ।
 </details>
@@ -1295,7 +1295,7 @@ all is from me, I am all, within me is all.' (Vi. Pu. I, 19, 85.)
 मत्तस्सर्वमहं सर्वं मयि सर्वं सनातने (वि.पु.१.१९.८९) इत्यादि वदति॥३१॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उक्तार्थविशदीकरणायाह यथा च प्रह्लाद इति ।
 </details>
@@ -1317,7 +1317,7 @@ The next Sūtra states, in reply to an objection, the reason why, in the section
 अस्मिन् प्रकरणे जीववाचिभिश्शब्दैरचिद्विशेषाभिधायिभिश्चोपास्यभूतस्य परस्य ब्रह्मणोऽभिधाने कारणं चोद्यपूर्वकमाह –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उत्तरसूत्रमवतारयति अस्मिन्निति ।
 
@@ -1346,7 +1346,7 @@ The next Sūtra states, in reply to an objection, the reason why, in the section
 ३२. जीवमुख्यप्राणलिङ्गान्नेति चेन्नोपासात्रैविध्यादाश्रितत्वादिह तद्योगात् ॥ १-१-३२ ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 (31) जीवमुख्यप्राणलिङ्गान्नेति चेन्नोपासात्रैविध्यादाश्रितत्वादिह तद्योगात् ॥
 
@@ -1410,7 +1410,7 @@ An objection is raised. 'Let none try to find out what speech is, let him know t
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हेतुत्वं विवृणोति उपासनेति ।
 
@@ -1458,7 +1458,7 @@ Passages such as 'The True, knowledge, infinite is Brahman,' 'Bliss is Brahman,'
 </details>
 
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत्रेत्यपेक्षायां प्रकरणान्तरेष्वपीत्युक्तम् ।
 
@@ -1490,7 +1490,7 @@ Passages again such as 'Having created that he entered into it. Having entered i
 तत्सृष्ट्वा तदेवानुप्राविशत्, तदनुप्रविश्य, सच्चत्यच्चाभवत्, निरुक्तं चानिरुक्तं च, निलयनं चानिलयनं च, विज्ञानं चाविज्ञानं च, सत्यं चानृतं च सत्यमभवत् (तै.अन.६.२) इत्यादिषु भोक्तृशरीरतया, भोग्यभोगोपकारणशरीरतया चानुसन्धानम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्सृष्टेत्यादि ।
 
@@ -1552,7 +1552,7 @@ Hence, in the chapter under discussion also, this threefold view of Brahman is q
 इहापि प्रकरणे तत् त्रिविधमनुसन्धानं युज्यत एवेत्यर्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इह तद्योगादित्येतद्वयाचष्टे इहापीति ।
 
@@ -1583,7 +1583,7 @@ Where to particular individual beings such as Hiraṇyagarbha, and so on, or to 
 एतदुक्तं भवति – यत्र हिरण्यगर्भादिजीवविशेषाणां प्रकृत्याद्यचेतनविशेषाणां च परमात्मासाधारण-धर्मयोगः तदभिधायिनां शब्दानां परमात्मवाचिशब्दैस्सामानाधिकरण्यं वा दृश्यते;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यत्रेति ।
 
@@ -1614,7 +1614,7 @@ the intention of the texts is to convey the idea of the highest Self being the i
 तत्र परमात्मनः तत्तच्चिदचिद्विशेषान्तरात्मत्वानुसन्धानं प्रतिपिपादयिषितम् – इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परमात्मपर्यन्तत्वविवक्षाज्ञापकं द्विविधं प्रदशर्यति परमात्मासाधारणेति ।
 
@@ -1639,7 +1639,7 @@ the intention of the texts is to convey the idea of the highest Self being the i
 सिद्धम्॥ ३२॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अधिकरणार्थमुपसंहरति अत इति ॥
 
@@ -1678,7 +1678,7 @@ the intention of the texts is to convey the idea of the highest Self being the i
 **इति श्रीशारीरकमीमांसाभाष्ये इन्द्रप्राणाधिकरणम्॥११॥**
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ॥ इति इन्द्रप्राणाधिकरणम् ॥
 

@@ -27,7 +27,7 @@ even if he is not acquainted with works.
 ननु च – ब्रह्मजिज्ञासा यदेव नियमेनापेक्षते, तदेव पूर्ववृत्तं वक्तव्यम्। न धर्मविचारापेक्षा ब्रह्मजिज्ञासायाः, अधीतवेदान्तस्यानधिगतकर्मणोऽपि वेदान्तवाक्यार्थविचारोपपत्तेः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ये ब्रह्मविद्याधिकारिणस्तेषां सर्वेषामवश्यापेक्षितं हि नियमेनापेक्षितं, वेदान्तमात्राध्यायिनस्तु तत्रैवापातप्रतीतिर्बुभुत्सा च स्यात्; तस्य कर्मविषयापातप्रतीत्याभावात्, न कर्मविचारस्य नियमेनापेक्षेत्यर्थः ।
 
@@ -55,7 +55,7 @@ even if he is not acquainted with works.
 कर्माङ्गाश्रयाणि उद्गीथाद्युपासनान्यत्रैव चिन्त्यन्ते; तदनधिगतकर्मणो न शक्यं कर्तुम्, इति चेत् –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं हानार्थमपि कमर्णो ज्ञातव्यत्वं निषिद्धम् उपादानार्थमपि न ज्ञातव्यमित्युपपादयितुं वेदान्तमात्रबुभुत्सादेरपि कर्मविचारापेक्षां शङ्कते "कर्माङ्गेति" । एकस्य साम्नः पञ्च भागाः सन्ति, ते प्रस्तावोद्गीथप्रतिहारोपद्रवनिधनाख्याः । एते भागाभक्ति शब्दाभिधेयाः ।
 
@@ -85,7 +85,7 @@ You who raise this objection clearly are ignorant of what kind of knowledge the 
 अनभिज्ञो भवान् शारीरकशास्त्रविज्ञानस्य। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनभिज्ञ इति ।
 </details>
@@ -110,7 +110,7 @@ What that śāstra aims at is to destroy completely that wrong knowledge which i
 अस्मिन् शास्त्रे अनाद्यविद्याकृतविविधभेददर्शन-निमित्तजन्मजरामरणादि-सांसारिकदुःखसागरनिमग्नस्य निखिलदुःखमूलमिथ्याज्ञाननिबर्हाणाय आत्मैकत्वविज्ञानं प्रतिपिपादयिषितम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शास्त्रे प्रधानतया प्रतिपाद्यं ज्ञानमित्यत्राह- अस्मिन्निति । भेदः- ज्ञातृज्ञेयज्ञानरूपः, वैविध्वम् तदवान्तरभिदा बाहुल्यम्, एवं विविधभेददर्शनस्य हेतुरविद्या । तस्याः को हेतुरित्यनवस्थापरिहारार्थमनादिशब्दः । एवमविद्याकृतभेददर्शननिमित्तकं जन्मजरामरणादिकमेव सांसारिकदुःखम् आदिशब्देन नरकगर्भवासादिग्रहणम् । संसारः प्रकृतिसम्बन्धः तत्प्रभवं सांसारिकम्, तन्निरसनीयत्वाय दुःस्वरूपत्वोक्तिः । सागरशब्दस्तदानन्त्यपरः ।
 
@@ -142,7 +142,7 @@ Now to this knowledge, the knowledge of works – which is based on the assumpti
 अस्य हि भेदावलम्बि कर्मज्ञानं क्वोपयुज्यते? प्रत्युत विरुद्धमेव। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह - अस्य हीति ।
 
@@ -183,7 +183,7 @@ but it has no direct connexion with the true topic of those texts.
 स तु न साक्षात्सङ्गतः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तथाप्युपनिषत्स्वधीतत्वाद् ब्रह्ममीमांसायां निरूप्यमाणत्वाच्चोद्गीथाद्युपासनं ब्रह्मविद्यापेक्षितमित्युद्गीथादिविचारः साक्षात्सङ्गत इत्यत्राह - उद्गीथादाति ।
 
@@ -211,7 +211,7 @@ Hence some prerequisite must be indicated which has reference to the principal t
 अतो यत्प्रधानं शास्त्रं, तदपेक्षितमेव पूर्ववृत्तं किमपि वक्तव्यम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत इति ।
 </details>
@@ -234,7 +234,7 @@ for scripture declares that final release results from knowledge with works adde
 बाढम्; तदपेक्षितं च कर्मविज्ञानमेव, कर्मसमुच्चितात् ज्ञानादपवर्गश्रुतेः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किमपि कर्मविचारादन्यदिति भावः । प्रधानार्थोपयोगित्वेन सङ्गतिः साक्षात्सङ्गतिः । येन केनाप्याकारेण साम्याद्बुद्धिस्थत्वं प्रसङ्गात्सङ्गतिः ।
 
@@ -268,7 +268,7 @@ on account of the scriptural statement of sacrifices and the like' (Ve. Sū. III
 वक्ष्यति च – सर्वापेक्षा च यज्ञादिश्रुतेरश्ववत् (ब्र.सू.३.४.२६) इति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यत्प्रधानं शास्त्रं, तदपेक्षितमेव पूर्ववृत्तमित्येतावन्मात्रविषयोऽङ्गीकारः तदपेक्षितं चेति प्रतिज्ञा, त्वयायदनपेक्षितमित्युक्तं तदेवापेक्षितमित्येवकाराभिप्रायः ।
 
@@ -303,7 +303,7 @@ Hence the knowledge of works is just the necessary prerequisite.
 > अपेक्षिते च कर्मण्यज्ञाते केन समुच्चयः केन नेति विभागो न शक्यते ज्ञातुम्। अतस्तदेव पूर्ववृत्तम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तृतीयस्य चतुर्थपादे समावृत्ताकृतदारमृतदारादीनामाश्रमविशेषवर्त्तिनां च ब्रह्मविद्यानिष्ठानां कर्मस्वनुष्ठेयाननुष्ठेयविभागस्य निरूपयिष्यमाणत्वमभिप्रेत्योक्तं केन समुच्चयः केन नेतीति ।
 
@@ -361,7 +361,7 @@ Hence the knowledge of works is just the necessary prerequisite.
 नैतद्युक्तं; सकलविशेषप्रत्यनीकचिन्मात्रब्रह्मविज्ञानादेवाविद्यानिवृत्तेः; अविद्यानिवृत्तिरेव हि मोक्षः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्र प्रतिवदति नैतद्युक्तमिति - हानार्थं कर्मणां ज्ञातव्यत्वं प्रागेव प्रतिक्षिप्तम्, वेदान्तमात्राध्यायिनः कर्मविषयापातप्रतीत्यभावेन कर्मनैरपेक्ष्यवचनात्, सुकृतवशाद्वेदान्तमात्रबुभुत्सावतः कर्मज्ञानानपेक्षावचनाच्च ।
 
@@ -395,7 +395,7 @@ how then can works – to which there attach endless differences connected with 
 वर्णाश्रमविशेषसाध्यसाधनेतिकर्तव्यताद्यनन्तविकल्पास्पदं कर्म सकलभेददर्शननिवृत्तिरूप- अज्ञाननिवृत्तेः कथमिव साधनं भवेत्?। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 रज्जुत्वज्ञानादेव हि सर्पत्वनिवृत्तिः, न तु कर्मणेति भावः । एवं साधनद्वित्वं निरस्तम् ।
 </details>
@@ -418,7 +418,7 @@ That works, the results of which are transitory, are contrary to final release, 
 श्रुतयश्च कर्मणामनित्यफलत्वेन मोक्षविरोधित्वं, ज्ञानस्यैव मोक्षसाधनत्वं च दर्शयन्ति – 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कथं साधनद्वित्वव्युदासः साध्यद्वित्वं हि विद्यत इति शङ्कायां साध्यद्वित्वं व्युदस्यति अविद्यानिवृत्तित्वे हि मोक्ष इति । ब्रह्मणो नित्यप्राप्तत्वात् प्रतिबन्धनिवृत्तिरेव साध्या न तत्प्राप्तिः ।
 </details>
@@ -480,7 +480,7 @@ That works, the results of which are transitory, are contrary to final release, 
 तमेव विदित्वाऽतिमृत्युमेति (श्वे.३.८) – इत्याद्याः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हिशब्दस्यायमभिप्रायः, या प्रतिबन्धनिवृत्तिः कर्मसाध्यत्वेन त्वयोक्ता सैव ज्ञानसाध्या श्रुतिस्मृतिसूत्रैरभिज्ञाता "तमेव विदित्वातिमृत्युमेति" "ज्ञात्वा देवं मुच्यते सर्वपापैः" ।
 
@@ -530,7 +530,7 @@ we remark that--
 यदपि चेदमुक्तं यज्ञादिकर्मापेक्षा विद्येति, 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ यज्ञादिश्रुतेः कर्मापेक्षितत्वपरतां व्युदस्यति - यदपिचेत्यादिना ।
 
@@ -570,7 +570,7 @@ According to this passage, the desire only of knowledge springs up through works
 तद्वस्तुविरोधात् श्रुत्यक्षरपर्यालोचनया चान्तःकरणनैर्मल्यद्वारेण विविदिषोत्पत्तावुपयुज्यते, न फलोत्पत्तौ, विविदिषन्ति इति श्रवणात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "यज्ञेन दानेन तपसानाशकेन ब्राह्मणा विविदियन्ति" इति हि श्रुतिः, न तु मुच्यन्त इति भावः ।
 
@@ -611,7 +611,7 @@ while another text teaches that calmness, self-restraint, and so on, are the dir
 विविदिषायां जातायां ज्ञानोत्पत्तौ शमादीनामेवान्तरङ्गोपायतां श्रुतिरेवाऽह – 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवकारद्वयेन कर्मणः समुच्चयो विकल्पश्च व्युदस्यते, शमादीनामिन्द्रियव्यापारोपरतिरूपत्वेन यज्ञादिकर्मणस्तत्प्रवृत्तिरूपत्वेनान्योन्यविरोधित्वान्न समुच्चय उपपद्यत इत्यभिप्रायेण शमादीनामेवेत्युक्तम् ।
 </details>
@@ -638,7 +638,7 @@ he is to see the Self within the Self (Br̥. Up. IV, 4,23).
 शान्तो दान्त उपरतस्तितिक्षुस्समाहितो भूत्वाऽऽत्मन्येवाऽत्मानं पश्येत् – (बृ.६.४.२३) इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तुल्यबलयोर्हि विकल्पः भूत्वात्मानं पश्येदिति - शमादीनामात्मदर्शनं प्रति साक्षात्साधनत्वस्य न्यायनैरपेक्ष्येण शीघ्रं प्रतिपन्नतया बलीयस्त्वात् ।
 
@@ -669,7 +669,7 @@ The process thus is as follows. After the mind of a man has been cleaned of all 
 तदेवं जन्मान्तरशतानुष्ठितानभिसंहितफलविशेषकर्ममृदितकषायस्य विविदिषोत्पत्तौ सत्यां 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञानं प्रति कर्मणः करणत्वमपि नास्तीत्याह- तदेवमिति ।
 
@@ -697,7 +697,7 @@ The process thus is as follows. After the mind of a man has been cleaned of all 
 सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् (छा.उ.६.२.१) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं विविदिषोत्पत्तौ सत्यां ज्ञानोत्पत्तिकरणमाह- सदेवेति ।
 </details>
@@ -718,7 +718,7 @@ The process thus is as follows. After the mind of a man has been cleaned of all 
 सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.२.१.१) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सदेवेत्यादिकारणवाक्यम् "सत्यं ज्ञान" मिति शोधकवाक्यम्, सत्यज्ञानादिवाक्यफलितव्यावृत्तिविशदीकरणाय निष्कल मित्यादि वाक्यमुपात्तम् । अयमात्मा ब्रह्म - इत्यैक्यवाक्यम् ।
 </details>
@@ -769,7 +769,7 @@ The process thus is as follows. After the mind of a man has been cleaned of all 
 तत्त्वमसि (छां.६.८.७) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपक्रमादिषङ्विधतात्पर्यलिङ्गोपेतमैक्यवाक्यं दर्शयति - तत्त्वमसीति ।
 
@@ -815,7 +815,7 @@ Now, 'Hearing,' 'reflection,' and 'meditation,' are helpful towards cognising th
 वाक्यार्थज्ञानोपयोगीनि च श्रवणमनननिदिध्यासनानि। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वाक्यजन्यज्ञानमविद्यानिवर्त्तकंचेत् श्रवणादिपूर्वकध्यानविधिवैयर्थ्यमित्याशङ्क्याह - वाक्यार्थेति । चः शङ्काव्यावर्त्तकः ।
 </details>
@@ -840,7 +840,7 @@ Now, 'Hearing,' 'reflection,' and 'meditation,' are helpful towards cognising th
 श्रवणं नाम वेदान्तवाक्यानि आत्मैकत्वविद्या प्रतिपादकानीति तत्त्वदर्शिन आचार्यात् न्याययुक्तार्थग्रहणम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तेषां स्वरूपमाह- श्रवणं नामेति । प्रतिपादकानि- निष्पादनक्षमाणि ।
 
@@ -903,7 +903,7 @@ In the case of him who through 'hearing,' 'reflection,' and meditation,' has dis
 श्रवणादिभिर्निरस्तसमस्तभेदवासनस्य वाक्यार्थज्ञानमविद्यां निवर्तयतीत्येवंरूपस्य श्रवणस्यावश्यापेक्षितमेव पूर्ववृत्तं वक्तव्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एतद्विरोधि- आत्मैकत्वविद्याविरोधि । श्रवणादीन्येवंरूपाणि यानि स्युः, कथमेषां वाक्यार्थज्ञानोपयोगः? इत्यत आह- श्रवणादिभिरिति ।
 
@@ -930,7 +930,7 @@ discrimination of what is permanent and what is non-permanent;
 तच्च – नित्यानित्यवस्तुविवेकः, 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अपेक्षितं च किमित्यत आह- तच्चेति ।
 </details>
@@ -1017,7 +1017,7 @@ Without these the desire of knowledge cannot arise; and they are therefore known
 अनेन विना जिज्ञासानुपपत्तेः, अर्थस्वभावादेवेदमेव पूर्ववृत्तमिति ज्ञायते ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत एतदपेक्षितमित्यत्राह- अनेन विनेति । जिज्ञासानुपपत्तेः- विचारानुपपत्तेः ।
 
@@ -1057,7 +1057,7 @@ To sum up: The root of bondage is the unreal view of plurality which itself has 
 एतदुक्तं भवति – ब्रह्मस्वरूपाच्छादिकाविद्यामूलमपारमार्थिकं भेददर्शनमेव बन्धमूलम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सकलविशेषप्रत्यनीकं ब्रह्म चेत् कथं संसारप्रवृत्तिः? कथं वाक्यार्थज्ञानादेवाविद्यानिवृत्तिः? अन्तःकरणस्य केन वा मालिन्यम्? कथं कर्मणा नैर्मल्यम्? तेचायोगान्ययोगव्यवच्छेदहेतुभूता अर्थस्वभावाः कथमिति शङ्कायामुक्तार्थं सङ्कलय्य दर्शयन् शङ्काश्च परिहरति - एतदुक्तमिति ।
 
@@ -1087,7 +1087,7 @@ Bondage itself thus is unreal,
 बन्धश्चापारमार्थिकः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 बन्धश्चापारमार्थिक इति - अविद्यामूलापारमार्थिकभेददर्शनकार्यत्वादिति भावः ।
 </details>
@@ -1110,7 +1110,7 @@ and is on that account cut short, together with its root, by mere knowledge.
 स च समूलोऽपारमार्थिकत्वादेव ज्ञानेनैव निवर्त्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किं कमर्नैरपेक्ष्यस्येत्यत्राह - स चेति ।
 
@@ -1136,7 +1136,7 @@ Such knowledge is originated by texts such as 'That art thou';
 निवर्तकं च ज्ञानं तत्त्वमस्यादिवाक्यजन्यम् । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं समसमुच्चयः प्रत्युक्तः ज्ञानं प्रत्यपि कर्मणो न साधनत्वमित्याह- निवर्त्तकं चेति ।
 
@@ -1162,7 +1162,7 @@ and work is of no help either towards its nature, or its origination, or its fru
 तस्यैतस्य वाक्यजन्यस्य ज्ञानस्य स्वरूपोत्पत्तौ कार्ये वा कर्मणां नोपयोगः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अद्वैतविषयत्वे हेतुमाह- वाक्यजन्यस्येति ।
 
@@ -1186,7 +1186,7 @@ It is on the other hand helpful towards the desire of knowledge,
 विविदिषायामेव तु कर्मणामुपयोगः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तर्हि कुत्रोपयोगः? इत्यत्राह- विविदिषायामिति । तुशब्देन करणेतिकर्त्तव्यतात्वव्युदासः ।
 
@@ -1212,7 +1212,7 @@ which arises owing to an increase of the element of goodness (sattva) in the sou
 स च पापमूलरजस्तमोनिबर्हाणद्वारेण सत्वविवृद्ध्या भवति 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पापमूलेत्यादिना अन्तःकरणनैर्मल्यद्वारेणेति पूर्वोक्तं विवृतं भवति ।
 </details>
@@ -1235,7 +1235,7 @@ This use is referred to in the text quoted above, 'Brāhmaṇas wish to know him
 इतीममुपयोगमभिप्रेत्य ब्राह्मणा विविदिषन्ति इत्युक्तमिति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 रजस्तमोनिबर्हणादिकं नास्मिन् वाक्ये श्रुतमित्यत्राह- इतीममिति । अभिप्रेत्यशब्देन शङ्कापरिहारः, इतिहेतौ ।
 
@@ -1265,7 +1265,7 @@ As, therefore, the knowledge of works is of no use towards the knowledge of Brah
 अतः कर्मज्ञानस्यानुपयोगात् उक्तमेव साधनचतुष्टयं पूर्ववृत्तमिति वक्तव्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रकृतमुपसंहरति- अतः कर्मज्ञानस्येति ।
 

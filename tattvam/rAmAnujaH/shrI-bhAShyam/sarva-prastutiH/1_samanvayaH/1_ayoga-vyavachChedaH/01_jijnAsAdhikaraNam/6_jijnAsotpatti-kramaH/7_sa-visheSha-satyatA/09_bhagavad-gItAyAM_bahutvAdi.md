@@ -22,7 +22,7 @@ The passage in the Bhagavad Gītā, 'Know me to be the kshetrajña' (XIII, 2), t
 क्षेत्रज्ञं चापि मां विद्धि (भ.गी.13-2) इत्यादिनाऽन्तर्यामिरूपेण सर्वस्याऽत्मतया ऐक्याभिधानम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ख्ढख्ढख अथाद्वैतपरत्वेन परोक्तं भगवद्गीतावचनं व्याचष्टे क्षेत्रज्ञं चापीति ।
 </details>
@@ -49,7 +49,7 @@ taken in any other sense it would be in conflict with other texts, such as 'All 
 अन्यथा – क्षरस्सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते। उत्तमः पुरुषस्त्वन्यः इत्यादिभिर्विरोधः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पराभिमतार्थस्य पूर्वापरविरोधं दर्श यति अन्यथेति ।
 </details>
@@ -80,7 +80,7 @@ In other places the Divine one declares that as inward Ruler he is the Self of a
 अन्तर्यामिरूपेण सर्वेषामात्मत्वं तत्रैव भगवताऽभिहितम् ईश्वरस्सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति (भ.गी.१८.६१), सर्वस्य चाहं हृदि सन्निविष्टः (भ.गी.१५.१५) इति च। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलम्, "उत्तमः पुरुषस्त्वन्यः" इति भेदप्रतिपादनात् तद्विरोधेन स्वरूपैक्यपरत्वाभावः, सामानाधिकरण्योपपादकमन्तर्यामित्वं कण्ठोक्तमपीत्याह अन्तर्यामीति ।
 </details>
@@ -100,7 +100,7 @@ In other places the Divine one declares that as inward Ruler he is the Self of a
 अहमात्मा गुडाकेश सर्वभूताशयस्थितः इति च तदेवोच्यते। भूतशब्दो ह्यात्मपर्यन्तदेहवचनः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन ! तिष्ठति" इत्यत्र भूतशब्दस्यात्मपर्यन्तदेहपरत्वम् "भ्रामयन् सर्वभूतानि" इति अस्योत्तरार्धेनावगम्यते; "न हिंस्यात् सर्वा भूतानि" इत्यादिप्रयोगाच्च ।
 
@@ -139,7 +139,7 @@ Because he is the Self of all, the text expressly denies that among all the thin
 यतस्सर्वेषामयमात्मा तत एव सर्वेषां तच्छरीरतया पृथगवस्थानं प्रतिषिध्यते न तदस्ति विना यत्स्यात् इति; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अन्वयरूपेणोक्तस्य सर्वेषां भगवदात्मकत्वस्य शेषभूतोऽयं "न तदस्ती"ति व्यतिरेकनिर्देशस्तदनुगुण एवेत्यभिप्रायेणाह यतः सर्वेषामिति ।
 
@@ -184,7 +184,7 @@ The passage immediately following is 'Whatever being there is, powerful, beautif
 विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥ (भ.गी.१०.४१.४२) इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रकरणस्य विभूतिपरत्वं दर्शयति यद्यदिति । विभूतिमत्- नियाम्यवत् । श्रीमत्- भोग्यसमृसिद्धमत् । ऊर्जितम्- बलवत्; कल्याणगुणारम्भेषु उक्तम् । तेजः पराभिभवनसामर्थ्यम्- प्रशासनम् ।
 
@@ -209,7 +209,7 @@ All this clearly proves that the authoritative books do _not_ teach the doctrine
 अतश्शास्त्रेषु न निर्विशेषवस्तुप्रतिपादनमस्ति । नाप्यर्थजातस्य भ्रान्तत्वप्रतिपादनम्। नापि चिदचिदीश्वराणां स्वरूपभेदनिषेधः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शास्त्रस्य परोक्ताथर्परत्वाभावमुपसंहरति अत इति ।
 

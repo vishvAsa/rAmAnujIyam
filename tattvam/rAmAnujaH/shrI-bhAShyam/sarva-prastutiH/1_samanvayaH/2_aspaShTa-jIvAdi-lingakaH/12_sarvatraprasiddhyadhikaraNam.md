@@ -42,7 +42,7 @@ SECOND PĀDA. THE contents of the first Pāda may be summed up as follows: --It 
 प्रथमे पादे अधीतवेदः पुरुषः कर्ममीमांसाश्रवणाधिगतकर्मयाथात्म्यज्ञानः केवलकर्मणाम् अल्पास्थिरफलत्वमवगम्य, वेदान्तवाक्येषु चापातप्रतीतानन्तस्थिरफलब्रह्मस्वरूप तदुपासनसमुप-जातपरमपुरुषार्थलक्षणमोक्षापेक्षोऽवधारितपरिनिष्पन्नवस्तुबोधनशब्दशक्तिः वेदान्तवाक्यानां परस्मिन् ब्रह्मणि निश्चितप्रमाणभावस्तदितिकर्तव्यतारूपशारीरकमीमांसा-श्रवणमारभेतेत्युक्तं शास्त्रारम्भसिद्धये ॥१॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रथमे पाद इत्यादि- किमर्थमत्र प्रथमपादाधिकरणार्थानुक्रमणम् ? उच्यते; पादानुयायिनोऽर्थस्य प्रत्यधिकरणमनुयायित्वस्फुटीकरणाय । किमर्थमनुयायित्वकथनम् ? सङ्गतिः कुतः ? सूत्रकाराभिप्रेतत्वात् पादभेदोह्यर्थभेदात्, तत्क्रमश्च सङ्गतिविशेषात् । तत्र किं प्रमाणम् ? सम्प्रदायक्रमः । किञ्च अत्राधिकरणार्थानुक्रमेण न त्रिपाद्या अनारम्भणीयत्वशङ्का चार्थात्परिहृता भवति, त्रिपाद्यामुदाहरिष्यमाणानां श्रुतीनां प्रथमपादाधिकरणोक्तन्यायाविषयत्वज्ञापनार्थत्वादनुक्रमणस्य; अत एव प्रथमपादे वेदान्तवाक्यानां परमात्मपरत्वे दर्शितेऽपि त्रिपाद्या आरम्भणीयत्वं सिद्धम् ।
 
@@ -83,7 +83,7 @@ We next have shown that the text 'That from which these creatures are born,' &c.
 अनन्तविचित्रस्थिरत्रसरूपभोक्तृभोग्यभोगोपकरणभोगस्थानलक्षणनिखिलजगदुदयविभवलय-महानन्दैककारणं परं ब्रह्म यतो वा इमानि इत्यादिवाक्यं बोधयतीति च प्रत्यपादि॥२॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जन्मादिसूत्रार्थमनुक्रामति - अनन्तेति । सौत्रस्यास्येतिपदस्य विवक्षितमर्थमाह- अनन्तविचित्रादिविशेषणैः । अनन्तविचित्रशब्दौ भोक्तृभोग्यसाधारणौ ।
 
@@ -243,7 +243,7 @@ We have stated that, as we recognise through insight derived from scripture, tha
 परमकारणसाधारणामृतत्वप्राप्तिहेतुभूतः परमपुरुष एव शास्त्रदृष्ट्येन्द्रादिशब्दैरभिधीयत इत्यब्रूमहि ॥१०॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शास्त्रेति - समन्वयात्- परमपुरुषार्थभूतस्यैव ब्रह्मणः प्रतिपादकतया शास्त्रस्य तेनान्वयात् ।
 
@@ -276,7 +276,7 @@ We have stated that, as we recognise through insight derived from scripture, tha
 तदेवमतिपतितसकलेतरप्रमाणसम्भावनाभूमिस्सार्वज्ञ्यसत्यसङ्कल्पत्वाद्यपरिमितोदारगुणसागरतया स्वेतरसमस्तवस्तुविलक्षणः परं ब्रह्म पुरुषोत्तमो नारायण एव वेदान्तवेद्य इत्युक्तम्॥११॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पादार्थमाह - तदेवमिति ।
 
@@ -311,7 +311,7 @@ Now, although Brahman is the only object of the teaching of the Vedānta-texts, 
 अतः परं द्वितीयतृतीयचतुर्थेषु पादेषु यद्यपि वेदान्तवेद्यं ब्रह्मैव, तथापि कानिचिद्वेदान्तवाक्यानि प्रधानक्षेत्रज्ञान्तर्भूतवस्तुविशेषस्वरूपप्रतिपादनपराण्येवेत्याशङ्क्य तन्निरसनमुखेन तत्तद्वाक्योदितकल्याणगुणाकरत्वं ब्रह्मणः प्रतिपाद्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 द्वितीयतृतीयचतुर्थेष्विति - प्रथमपादस्य न केवलमनन्तरपादेन सङ्गतिः, अपि तु त्रिपाद्येवेति भावः ।
 
@@ -340,7 +340,7 @@ The second Pāda discusses those texts which contain somewhat obscure references
 तत्रास्पष्टजीवादिलिङ्गकानि वाक्यानि द्वितीये पादे विचार्यन्ते;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पादत्रयस्यावान्तरभिदामाह - तत्रेति ।
 
@@ -367,7 +367,7 @@ the third Pāda those which contain clear references to the same; and the fourth
 स्पष्टलिङ्गकानि तृतीये, तत्तत्प्रतिपादनच्छायानुसारीणि चतुर्थे॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्तत्प्रतिपादनच्छायानुसारीणि चतुर्थ इति तत्तत्प्रतिपादनम्- जीवादिलिङ्गप्रतिपादनम् न तल्लिङ्गप्रतिपादनम् ।
 
@@ -416,7 +416,7 @@ We read in the Cḥāndogya, 'Man is made of thought; according to what his thou
 इदमाम्नायते छान्दोग्ये – अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिंल्लोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत मनोमयः प्राणशरीरो भारूपः (छा.३.१४.१) इत्यादि॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु "स क्रतुं कुर्वीत" इत्यादिकमुपादीयताम् किमर्थं "यथाक्रतुरस्मिन्" इत्यादि वाक्योपादानम् ? उच्यते, "फलवत्सन्निधावफलं तदङ्गम्" इतिन्यायेन "स क्रतुं कुर्वीते" तिविधेः फलाश्रवणनिमित्तं पूर्वविहितोपासनाङ्गत्वं माभूदिति फलसम्बन्धप्रदर्शनार्थं तदुपादानम्, "शान्त उपासीत इति विहितोपासनाधिकृतस्यैव उपासनान्तरविधानमनुपपन्नमिति शङ्काव्यावृत्त्यर्थम् "अथ खलु क्रतुमयः पुरुषः" इति वाक्यं घटकत्वेनोपात्तम् जीवस्य बहुविधोपासनप्रचुरत्वादनेकोपासनविधानं युक्तमिति भावः ॥
 </details>
@@ -440,7 +440,7 @@ We here understand that of the meditation enjoined by the clause 'let him form t
 अत्र स क्रतुं कुर्वीत (छा.३.१४.१) इति प्रतिपादितस्योपासनस्योपास्यः मनोमयः प्राणशरीरः (छा.३.१४.१) इति निर्दिश्यत इति प्रतीयते ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्र व्याख्यात्रन्तरैः "सर्वं खल्वि"त्यादिवाक्यस्य ब्रह्मपरत्वं स्पष्टमिति बुद्ध्वा "स क्रतु"मित्यादिवाक्ययोर्जीवविषयत्वेन पूर्वपक्षं कृत्वा ब्रह्मविषयत्वेन सिद्धान्त उक्तः, इह तु विषयैक्ये स्थित एव पूर्वपक्षसिद्धान्तौ पश्चादभिधास्येते । प्रथमं व्याख्यात्र्-अन्तरोक्त-दिशा पूर्व-पक्ष-सिद्धान्तौ उपवर्ण्येते । नन्व् अत्रोपासनान्तरं न विधित्सितम्, पूर्वविहितोपासनाङ्गभूतक्रतुविधिपरत्वादस्य वाक्यस्य ।
 
@@ -466,7 +466,7 @@ A doubt, however, arises whether the being possessing these attributes be the in
 तत्र संशयः – किं मनोमयत्वादिगुणकः क्षेत्रज्ञः;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपासनस्येतिपदेन "तं यथा यथोपासते तथैव भवति" "यथाक्रतुरस्मिन् लोके पुरुषो भवति तथेतः प्रेत्य भवति" इत्यनयोर्वाक्ययोरैकार्थ्यात् "क्रतुं कुर्वीत" इत्यत्र क्रतुशब्दश्चोपासनपर इति तदुपास्ये मनोमयत्वादिगुणके संशय इति भावः ।
 </details>
@@ -486,7 +486,7 @@ or the highest Self.
 उत परमात्मा – इति ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्रेति - "स क्रतुं कुर्वीत" इत्यत्र उपास्यतया निर्दिष्टो मनोमयत्वादिगुणकः किं जीवः ? उत परमात्मा ? इति विचारः ।
 
@@ -540,7 +540,7 @@ or the highest Self.
 कुतः?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पुर्वपक्षमुपपादयति - कुत इत्यादिना ।
 </details>
@@ -560,7 +560,7 @@ For, he says, mind and breath are instruments of the individual soul; while the 
 मनःप्राणयोः क्षेत्रज्ञोपकरणत्वात्, परमात्मनस्तु अप्राणो ह्यमनाः (मुं.२.१.२) इति तत्प्रतिषेधाच्च।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु कथमस्य पादस्य अस्पष्टजीवलिङ्गवाक्यविषयत्वम् ? मनोमयत्वादिकं हि स्पष्टं जीवलिङ्गमिति चेत् न, स्पष्टस्य मनस्सम्बन्धमात्रस्य जीवलिङ्गत्वाभावात् जीवलिङ्गभूतस्योपकरणोपकरणित्वलक्षणसम्बन्धविशेषस्यास्पष्टत्वाच्चेत्यभिप्रायेण मनः प्राणयोः क्षेत्रज्ञोपकरणत्वादित्युक्तम् ।
 </details>
@@ -580,7 +580,7 @@ Self. Nor can the Brahman mentioned in a previous clause of the same section ('A
 न च सर्वं खल्विदं ब्रह्म (छां.३.१४.१) इति पूर्वनिर्दिष्टं ब्रह्मात्रोपास्यतया सम्बद्धुं शक्यते, शान्त उपासीत (छां.३.१४.१) इत्युपासनोपकरणशान्ति-निर्वृत्त्युपायभूतब्रह्मात्मकत्वोपदेशायोपात्तत्वात् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु "सर्वं खल्वि"तिवाक्ये प्रकृतं ब्रह्मैव "स क्रतुं कुर्वीत" इत्यत्रोपास्यतया सम्बध्यमनोमयत्वादिगुणानां विशेष्यं स्यादिति शङ्कायां किं ब्रह्मशब्दस्य विधिपदाकाङ्क्षया उत्तरत्रान्वयः, उत क्रतुं कुर्वीतेति विधिपदस्योपास्यसाकाङ्क्षत्वात्सन्निहितानां मनोमयादिपदानां विशेष्यसाकाङ्क्षत्वाच्च ब्रह्मशब्दस्य उत्तरत्रान्वयः ? इति विकल्पमभिप्रेत्य प्रथमं शिरो दूषयति - न च सर्वमिति ।
 
@@ -606,7 +606,7 @@ Nor, again, can it be said that as the meditation conveyed by the clause 'let hi
 न च स क्रतुं कुर्वीत (छां.३.१४.१) इत्युपासनस्योपास्यसाकाङ्क्षत्वाद्वाक्यान्तरस्थमपि ब्रह्म सम्बध्यत इति युक्तं वक्तुम्, स्ववाक्योपात्तेन मनोमयत्वादिगुणकेन निराकाङ्क्षत्वात्;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्ववाक्योपात्तेनेति - विच्छेदकाभावात् महावाक्यैकत्वं विवक्षितम् ।
 
@@ -628,7 +628,7 @@ in order to supply the object we have merely to change the case-terminations of 
 मनोमयः प्राणशरीरः (छां.३.१४.१) इत्यनन्यार्थतया निर्दिष्टस्य विभक्तिविपरिणाममात्रेण उभयाकाङ्क्षानिवृत्तिसिद्धेः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रथमान्तानां मनोमयादिपदानामुपासनवाचिपदेनान्वयायोगात् ब्रह्मपदमन्वेतव्यमित्यत्राह - मनोमय इति ।
 
@@ -675,7 +675,7 @@ This primā facie view is set aside by the Sūtra.
 एवं प्राप्ते ब्रूमः- सर्वत्र प्रसिद्धोपदेशात्
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सत्यसङ्कल्पत्वादिविशेषितप्राकरणिकात्मशब्दानुरोधेन परतमात्मेत्युक्तम्, सर्वत्रेति व्याख्येयं पदम् ।
 </details>
@@ -697,7 +697,7 @@ The being made of mind is the highest Self; for the text states certain qualitie
 नोमयत्वादिगुणकः परमात्मा कुतः सर्वत्र – वेदान्तेषु परस्मिन्नेव ब्रह्मणि प्रसिद्धस्य मनोमयत्वादेरुपदेशात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्व्याचष्टे - वेदान्तेष्विति ।
 
@@ -716,7 +716,7 @@ The being made of mind is the highest Self; for the text states certain qualitie
 प्रसिद्धं हि मनोमयत्वादि ब्रह्मणः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हेतुपदं व्याचष्टे - प्रसिद्धस्येति ।
 
@@ -738,7 +738,7 @@ Passages such as 'He who is made of mind, the guide of the body of breath' (Mu. 
 यथा मनोमयः प्राणशरीरनेता (मुं.२.२.७) स एषोऽन्तर्हृादय आकाशः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मनस्सामान्येन सम्बन्धसामान्यपरं वाक्यमाह - मनोमयः प्राणशरीरनेतेति ।
 </details>
@@ -773,7 +773,7 @@ immortal, golden' (Taitt. Up. I. 6, 1); 'He is conceived by the heart, by wisdom
 अमृतो हिरण्मयः (तै.शिक्षा ६.३) हृदा मनीषा मनसाऽभिक्लृप्तो य एनं विदुरमृतास्ते भवन्ति (तै.नारा.३) न चक्षुषा गृह्यते नापि वाचा (मु.३.१.८), मनसा तु विशुद्धेन तथा प्राणस्य प्राणः (केन.१.२), अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति (कौषी.३.२), सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छां.१.११.५) इत्यादिषु ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "अमृतो हिरण्मयः" इति परमात्मपरत्ववैशद्यायोपात्तम् ।
 
@@ -807,7 +807,7 @@ as consisting of mind, to be apprehended by a purified mind,
 मनोमयत्वं – विशुद्धेन मनसा ग्राह्यत्वम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्र वाक्यजाते प्रतिपन्नं मनोमयादिशब्दार्थमाह - मनोमयत्वमिति ।
 
@@ -829,7 +829,7 @@ having breath for its body, and being the abode and ruler of breath.
 प्राणशरीरत्वं – प्राणस्याप्याधारत्वं नियन्तृत्वं च।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्राणशरीरशब्दार्थमाह - प्राणेति ।
 </details>
@@ -849,7 +849,7 @@ This being so, we decide that in the concluding passage, 'my Self within the hea
 एवं च सति एष म आत्माऽर्न्तहृदय एतद्ब्रह्म (छा.३.१४.४) इति ब्रह्मशब्दोऽपि मुख्य एव भवति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मनोविकारो मनोमयः, सर्वविकाराणां ब्रह्माधिष्ठानत्वात् ब्रह्मसामानाधिकरण्यमिति कैश्चिदुक्तम्, तदा हि मनोविकाराः सुखदुःखेच्छाद्वेषादयो ब्रह्मेत्युक्तं स्यात् । तदयुक्तम्, सत्यसङ्कल्पत्वादिकल्याणगुणप्रकरणविरोधात् हेयगुणविशेषाणामुपास्यत्वानुपपत्तेश्च ।
 </details>
@@ -869,7 +869,7 @@ The text which declares Brahman to be without mind and breath, merely means to d
 अप्राणो ह्यमनाः (मु.२.१.२) इति मन आयत्तं ज्ञानं प्राणायत्तां स्थितिं च ब्रह्मणो निषेधति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उक्तं हि "यथाक्रतुरस्मिंल्लोके भवति तथेतः प्रेत्य भवति" इति, अतो हेयगुणापत्तिरेव फलं स्यात्, प्राणप्रेर्यं शरीरमस्येत्यर्थश्चेत् प्राणशब्देन प्राणसम्बन्ध्यभिधानं क्लिष्टं स्यात् ।
 
@@ -897,7 +897,7 @@ Or else we may interpret the Vedic text and the Sūtra as follows. The passage '
 अथवा सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत (छा.३.१४.१) इत्यत्रैवोपासनं विधीयते – सर्वात्मकं ब्रह्म शान्तस्सन्नुपासीतेति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ स्वाभिमतार्थयोजनां कर्त्तुमारभते - अथवेति ।
 
@@ -925,7 +925,7 @@ The subsequent clause 'Let him form the thought,' &c., forms an additional state
 स क्रतुं कुर्वीत (छा.३.१४.१) इति तस्यैव गुणोपादनार्थोऽनुवादः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तर्हि "स क्रतुं कुर्वीते"ति किमुच्यत इत्यत्राह - स क्रतुमिति ।
 </details>
@@ -945,7 +945,7 @@ such as being made of mind.
 उपादेयाश्च गुणा मनोमयत्वादयः;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 के पुनर्विधेया गुणा इत्यत्राह - उपादेयाश्चेति । उपादेयाः- विधेयाः ।
 
@@ -992,7 +992,7 @@ So that the meaning of the whole section is 'Let a man meditate on Brahman, whic
 तत्र सन्देहः – किमिह ब्रह्मशब्देन प्रत्यगात्मा निर्दिश्यते;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवमेकविषयत्वमङ्गीकृत्यैव पूर्वपक्षसिद्धान्तौ दर्शयितुं संशयमाह - तत्रेति । तत्र- एकविषयत्वे सिद्धे ।
 </details>
@@ -1012,7 +1012,7 @@ or the highest Self?
 उत परमात्मा – इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किमत्रोपास्यतया निर्दिष्टो जीवः, उत परमात्मेति विशयः । तदर्थं किं ब्रह्मशब्दो जीवपरः, उत परमात्मपरः ।
 
@@ -1096,7 +1096,7 @@ For the word 'all' denotes the entire world from Brahmā down to a blade of gras
 सर्वशब्दनिर्दिष्टं हि ब्रह्मादिस्तम्बपर्यन्तं कृत्स्नं जगत्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हेतुं विवृणोति - सर्वशब्देति ।
 </details>
@@ -1116,7 +1116,7 @@ and the existence of Brahmā and other individual beings is determined by specia
 ब्रह्मादिभावश्च प्रत्यगात्मनोऽनाद्यविद्यामूलकर्मविशेषोपाधिको विद्यत एव;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यपेक्षायां जीवस्य सामानाधिकरण्योपपत्तिमाह - ब्रह्मादीति । ब्रह्मादिभावः- चतुर्मुखादिभावः ।
 
@@ -1138,7 +1138,7 @@ The highest Brahman, on the other hand, which is all-knowing, all-powerful, free
 परस्य तु ब्रह्मणस्सर्वज्ञस्य सर्वशक्तेरपहतपाप्मनो निरस्तसमस्ताविद्यादिदोषगन्धस्य समस्तहेयाकरसर्वभावो नोपपद्यते ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तस्यैवेत्यवधारणसूचितां परस्य सर्वभावानुपपत्तिं विवृणोति - परस्येति ।
 
@@ -1162,7 +1162,7 @@ Moreover we find that occasionally the term 'Brahman' is applied to the individu
 प्रत्यगात्मन्यपि क्वचित्क्वचिद्ब्रह्मशब्दः प्रयुज्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ब्रह्मशब्दः कथमित्यत्राह - प्रत्यगिति ।
 </details>
@@ -1182,7 +1182,7 @@ just as the highest Lord (paramesvara) may be called 'the highest Self' (paramā
 अत एव परमात्मा परं ब्रह्मेति परमेश्वरस्य क्वचित्सविशेषणो निर्देशः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदुपपादयति- अत एवेति ।
 
@@ -1204,7 +1204,7 @@ That 'greatness' (br̥hattva; which is the essential characteristic of 'brahman'
 प्रत्यगात्मनश्च निर्मुक्तोपाधेर्बृहत्वं च विद्यते स चानन्त्याय कल्पते (श्वे.५.९) इति श्रुतेः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 त्रिपाद्याः परब्रह्माभ्युपगमेन वाक्यविशेषविचारपरत्वादत्र पूर्वपक्षिणः परमेश्वराभ्युपगमवाद उपपन्नः । आत्मशब्दस्य साधारण्यं युक्तम्, प्रवृत्तिनिमित्तसाधारण्यात्, आप्नोतीति हि तद्वयुत्पत्तिः, जगद्देहं व्याप्नोतीति, एवमुभयसाधारणं ब्रह्मशब्दप्रवृत्तिनिमित्तं वक्तव्यमित्यत्राह - प्रत्यगात्मनश्चेति ।
 </details>
@@ -1224,7 +1224,7 @@ And as the soul's Nescience is due to karman (only), the text may very well desi
 अविदुषस्तस्यैव कर्मनिमित्तत्वाज्जन्मस्थितिलयानां तज्जलानिति हेतुनिर्देशोऽप्युपपद्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कथं जन्मादिकारणत्वं हेतुतयोच्यते ? हेतुनिर्द्देशो हि पूर्वप्रसिद्धयपेक्षः, प्रसिद्धिश्च परमात्मविषयेत्युक्तमित्यत्राह - अविदुष इति ।
 </details>
@@ -1244,7 +1244,7 @@ That is to say – the individual soul which, in its essential nature, is non-li
 तदयमर्थः – अयं जीवात्मा स्वतोऽपरिच्छिन्नस्वरूपत्वेन ब्रह्मभूतस्सन्ननाद्यविद्यया देवतिर्यङ्मनुष्यस्थावरात्मनाऽवतिष्ठते- इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जन्मादिहेतुत्वं बद्धस्य, ब्रह्मत्वं तु शुद्धस्य, तस्य सर्वशब्दसामानाधिकरण्यं कथं घटत इत्यत्राह - तदयमर्थ इति ॥
 
@@ -1276,7 +1276,7 @@ This view is rejected by the Sūtra. 'Everywhere,' i.e. in the whole world which
 अत्र प्रतिविधीयते – सर्वत्र प्रसिद्धोपदेशात् – सर्वत्र – सर्व खल्विदम् (छा.३.१४.१) इति निर्दिष्टे सर्वस्मिन् जगति ब्रह्मशब्देन तदात्मतया विधीयमानं परं ब्रह्मैव, न प्रत्यगात्मा।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "न शारीर" इत्यत्र वक्ष्यमाणमनुसन्धायाह - न प्रत्यगात्मेति ।
 </details>
@@ -1308,7 +1308,7 @@ This view is rejected by the Sūtra. 'Everywhere,' i.e. in the whole world which
 प्रसिद्धोपदेशात्, तज्जलान् (छां.३.१४.१) इति हेतुतः सर्वं खल्विदं ब्रह्म इति प्रसिद्धवदुपदेशात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रसिद्धोपदेशादिति पदं व्याचष्टेतज्जेति ।
 
@@ -1330,7 +1330,7 @@ Since the world springs from Brahman, is merged in Brahman, and depends on Brahm
 ब्रह्मणो जातत्वाद् ब्रह्मणि लीनत्वाद्ब्रह्माधीनजीवनत्वाच्च हेतोर्ब्रह्मात्मकं सर्वं खल्विदं जगदित्युक्ते यस्माज्जगज्जन्मस्थितिलया वेदान्तेषु प्रसिद्धास्तदेवात्र ब्रह्मेति प्रतीयते ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्स्पष्टयति - ब्रह्मण इति । कारणत्वनिबन्धनतादात्म्यस्य चात्र प्रसिद्धेत्वेनोपदेशः फलितः ।
 </details>
@@ -1352,7 +1352,7 @@ That the highest Brahman only,
 तच्च परमेव ब्रह्म;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पसिद्धत्वमस्तु, ततः किमित्यत्राह - तच्चेति ।
 
@@ -1374,7 +1374,7 @@ all-wise and supremely blessed, is the cause of the origin, &c., of the world, i
 तथा हि यतो वा इमानि भूतानि जायन्ते, येन जातानि जीवन्ति, यत्प्रयन्त्यभिसंविशन्ति, तद्विजिज्ञासस्व तद्ब्रह्म (तै.भृ.१) इत्युपक्रम्य आनन्दो ब्रह्मेति व्यजानात्, आनन्दाद्ध्येव खल्विमानि भूतानि जायन्ते (तै.भृ.६) इत्यादिना पूर्वानुवाकप्रतिपादित- अनवधिकातिशयानन्दयोगिनो विपिश्चतः परस्माद्ब्रह्मण एव जगदुत्पत्तिस्थितलया निर्दिश्यन्ते;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यतो वा इमानीति वाक्यस्य जीवविषयत्वव्यावृत्त्यर्थमाह - आनन्दो ब्रह्मेति ।
 
@@ -1396,7 +1396,7 @@ and analogously the text 'He is the cause, the lord of lords of the organs,' &c.
 तथा स कारणं करणाधिपाधिपो न चास्य कश्चिज्जनिता न चाधिपः (श्वे.६.९) इति करणाधिपस्य जीवस्याधिपः परं ब्रह्मैव कारणं व्यपदिश्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वाक्यान्तरमाह - तथेति ।
 
@@ -1435,7 +1435,7 @@ As thus the world which springs from Brahman, is merged in it, and breathes thro
 अतः परब्रह्मणो जातत्वात्तस्मिन् प्रलीनत्वात्तेन प्राणनात्तदात्मकतया तादात्म्यमुपपन्नम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 श्रुत्यन्तरेष्वपि जन्मादिहेतुत्वकृततादात्म्यमप्यर्थसिद्धमित्याह - अत इति ।
 
@@ -1457,7 +1457,7 @@ and hence the text – the meaning of which is 'Let a man meditate with calm min
 अतस्सर्वप्रकारं सर्वशरीरं सर्वात्मभूतं परं ब्रह्म शान्तो भूत्वोपासीतेति श्रुतिरेव परस्य ब्रह्मणस्सर्वात्मकत्वमुपपाद्य तस्योपासनमुपदिशति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 चिदचिद्विलक्षणस्य कथं तादात्म्योपपत्तिरित्यत्राह - अतस्सर्वेति ।
 
@@ -1485,7 +1485,7 @@ The highest Brahman, in its causal condition as well as in its so-called 'effect
 परं ब्रह्म हि कारणावस्थं कार्यावस्थं सूक्ष्मस्थूलचिदचिद्वस्तुशरीरतया सर्वदा सर्वात्मभूतम् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्थितिदशायां हि शरीरात्मभावः, प्रलयावस्थायान्तु "एकमेवाद्वितीय"मिति सर्वभेदशून्यत्वान्न शरीरात्मभावसिद्धिरित्यत्राह - परं ब्रह्म हीति । स्थितौ शरीरात्मभावोपपादनादुभयलिङ्गस्य ब्रह्मणः कारणावस्थायामपि विशिष्टत्वमर्थसिद्धं श्रुत्यन्तरैः कण्ठोक्तं चेत्यभिप्रायः ।
 
@@ -1509,7 +1509,7 @@ Nor is there any contradiction between such identity with the world on Brahman's
 एवम्भूततादात्म्यस्य प्रतिपादने परस्य ब्रह्मणस्सकलहेयप्रत्यनीककल्याणगुणाकरत्वं न विरुध्यते, प्रकारभूतशरीरगतानां दोषाणां प्रकारिण्यात्मन्यप्रसङ्गात्, प्रत्युत निरतिशयैश्वर्यापादनेन गुणायैव भवतीति पूर्वमेवोक्तम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमुभयलिङ्गकत्वस्येत्यत्राह - एवं भूतेति ।
 </details>
@@ -1531,7 +1531,7 @@ Nor, again, can it rightly be maintained that of the individual soul also identi
 यदुक्तं जीवस्य सर्वतादात्म्यमुपपद्यत इति;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जीवस्यैव सर्वतादात्म्यं पूर्वपक्षिणोक्तमनूद्य दूषयति - यदुक्तमित्यादिना ।
 </details>
@@ -1566,7 +1566,7 @@ Even in the state of release, when the individual soul is not in any way limited
 मुक्तस्याप्यनवच्छिन्नस्वरूपस्यापि जगत्तादात्म्यं जगज्जन्मस्थिति-प्रलयकारणत्वनिमित्तं न सम्भवतीति जगद्व्यापारवर्जम् (शारी.४.४.१७) इत्यत्र वक्ष्यते ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मुक्तस्य तत्सम्भवतीत्यत्राह - मुक्तस्येति ।
 
@@ -1588,7 +1588,7 @@ Nor, finally, does the Pūrvapakshin improve his case by contending that the ind
 जीवकर्मनिमित्तत्वात् जगज्जन्मस्थितिलयानां स एव कारणमित्यपि न साधीयः, तत्कर्मनिमित्तत्वेऽपि श्वरस्यैव जगत्कारणत्वात् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जीवस्य कर्मद्वारा जगत्कारणत्वमनूद्य दूषयति - जीवकर्मेति ।
 
@@ -1614,7 +1614,7 @@ Nor, finally, does the Pūrvapakshin improve his case by contending that the ind
 अतः परमात्मैवाऽत्र ब्रह्मशब्दाभिधेयः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सूत्रार्थमुपसंहरति - अत इति ।
 </details>
@@ -1634,7 +1634,7 @@ This second alternative interpretation of the Sūtra is preferred by most compet
 इममेव सूत्रार्थमभियुक्ता बहुमन्वते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 द्वितीययोजनोक्तार्थस्यैव साम्प्रदायिकत्वमाह - इममेवेति ।
 </details>
@@ -1654,7 +1654,7 @@ The Vr̥ttikāra, e.g. says, 'That Brahman which the clause "All this is Brahman
 यथाह वृत्तिकारः – सर्वं खल्विति सर्वात्मा ब्रह्मेशः इति॥ १॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सर्वं खल्वित्यादिवाक्येन सर्वात्मतयोक्तं ब्रह्म ईशः परमात्मेत्यर्थः ॥
 </details>
@@ -1691,7 +1691,7 @@ The qualities about to be stated can belong to the highest Self only. 'Made of m
 वक्ष्यमाणाश्च गुणाः परमात्मन्येवोपपद्यन्ते मनोमयः प्राणशरीरो भारूपस्सत्यसङ्कल्प आकाशात्मा सर्वकर्मा सर्वकामस्सर्वगन्धस्सर्वरसस्सर्वमिदमभ्यात्तोऽवाक्यनादरः (छां.३.१४.२) इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ॥ विवक्षितगुणोपपत्तेश्च ॥ विवक्षितत्वम्- वक्तुमिच्छाविषयत्वम् । अपौरुषेयवाक्यप्रतिपाद्यगुणानां पुरुषेच्छापूर्वकत्वायोगात् कथं विवक्षितत्वमिति शङ्कायां विवक्षितपदं व्याचष्टे - वक्ष्यमाणा इति ।
 
@@ -1717,7 +1717,7 @@ The qualities about to be stated can belong to the highest Self only. 'Made of m
 मनोमयः – परिशुद्धेन मनसैकेन ग्राह्यः;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिशुद्धेन मनसैकेनेति - "अब्भक्षो वायुभक्षः" इतिवदवधारणगर्भ इत्येकशब्दस्य भावः ।
 
@@ -1739,7 +1739,7 @@ The highest Self can be apprehended only by a mind purified by meditation on tha
 विवेकविमोकादिसाधनसप्तकानुगृहीत-परमात्मोपासननिर्मलीकृतेन हि मनसा गृह्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्विवृणोति - विवेकेति ।
 </details>
@@ -1759,7 +1759,7 @@ This intimates that the highest Self is of pure goodness, precluding all evil, a
 अनेन हेयप्रत्यनीककल्याणैकतानतया सकलेतरविलक्षणस्वरूपतोच्यते;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 फलितार्थमाह - अनेनेति ।
 </details>
@@ -1779,7 +1779,7 @@ for by the impure minded impure objects only can be apprehended.
 मलिनमनोभिर्मलिनानामेव ग्राह्यत्वात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह - मलिनेति ।
 
@@ -1803,7 +1803,7 @@ for by the impure minded impure objects only can be apprehended.
 प्राणशरीरः – जगति सर्वेषां प्राणानां धारकः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्राणशरीरशब्दं व्याचष्टे - जगतीति ।
 </details>
@@ -1823,7 +1823,7 @@ To stand in the relation of a body to something else, means to abide in that oth
 प्राणो यस्य शरीरम् आधेयं विधेयं शेषभूतं च स प्राणशरीरः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्राणशरीरशब्देन प्राणधारकत्वं कथमवगम्यत इत्यत्राह - प्राणो यस्येति ।
 </details>
@@ -1840,7 +1840,7 @@ To stand in the relation of a body to something else, means to abide in that oth
 आधेयत्वविधेयत्वशेषत्वानि शरीरशब्दप्रवृत्तिनिमित्तानी- त्युपपादयिष्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शरीरत्वे सति कथमाधेयत्वादिकमित्यत्राह आधेयत्वेति ।
 
@@ -1862,7 +1862,7 @@ To stand in the relation of a body to something else, means to abide in that oth
 भारूपः – भास्वररूपः;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 दीप्तिधर्मकत्वं विग्रहद्वारकम् "आदित्यवर्णं तमसः परस्तात्" "रुक्मवर्णम्" इत्यादिश्रुत्यैकार्थ्यादित्यभिप्रायेणाह - भास्वररूप इति ।
 </details>
@@ -1882,7 +1882,7 @@ his form being a divine one of supreme excellence peculiar to him, and not consi
 अप्राकृतस्वासाधारणनिरतिशयकल्याणदिव्यरूपत्वेन निरतिशयदीप्तियुक्त इत्यर्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्विवृणोति - अप्राकृतेति ।
 
@@ -1934,7 +1934,7 @@ or who himself is the Self of ether, which is the causal substance of everything
 सकलेतरकारणभूतस्य आकाशस्याप्यात्मभूत इति वा आकाशात्मा;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सकलेतरकारणभूतस्याकाशस्येत्यनेन "आकाश एव तदोतञ्च प्रोतञ्च" इति वाक्यं स्मारितम् ।
 
@@ -1956,7 +1956,7 @@ or who shines forth himself and makes other things shine forth.
 स्वयं च प्रकाशते अन्यानपि प्रकाशयतीति वा आकाशात्मा।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अन्यानपि प्रकाशयतिस्वस्मै प्रकाशयतीत्यर्थः ।
 </details>
@@ -1976,7 +1976,7 @@ or who shines forth himself and makes other things shine forth.
 सर्वकर्मा क्रियत इति कर्म;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सर्वा वा क्रियेति - लोकिकवैदिकसकलक्रियाणां सद्वारककर्त्ताऽसौ ।
 </details>
@@ -2011,7 +2011,7 @@ or he to whom all activities belong.
 सर्वा वा क्रिया यस्यासौ सर्वकर्मा।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यद्वा सर्ववैदिकक्रिया आराधनं यस्य स सर्वक्रिय इत्यर्थः ।
 </details>
@@ -2031,7 +2031,7 @@ or he to whom all activities belong.
 सर्वकामः – काम्यन्त इति कामाः- भोग्यभोगोपकरणादयः;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इच्छाबाहुल्यव्यावृत्त्यर्थं सर्वकामपदं व्याचष्टे - काम्यन्त इति ।
 </details>
@@ -2051,7 +2051,7 @@ all pure objects and means of desire and enjoyment belong.
 ते परिशुद्धाः सर्वविधास्तस्य सन्तीत्यर्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 भोग्यभोगोपकरणादीनां प्राकृतत्वव्यावृत्त्यर्थमाह - ते परिशुद्धा इति ।
 
@@ -2073,7 +2073,7 @@ all pure objects and means of desire and enjoyment belong.
 सर्वगन्धः सर्वरसः – अशब्दमस्पर्शम् (कठ.१.३.१५) इत्यादिना प्राकृतगन्धरसादिनिषेधादप्राकृताः स्वासाधारणा निरवद्या निरतिशयाः कल्याणाः स्वभोग्यभूतास्सर्वविधा गन्धरसास्तस्य सन्तीत्यर्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सर्वगन्ध इत्यादि - रूपस्पर्शादिनिषेधपरवाक्यान्तराणामपि तुल्यन्यायत्वद्योतनार्थ आदिशब्दः ।
 
@@ -2097,7 +2097,7 @@ all pure objects and means of desire and enjoyment belong.
 सर्वमिदमभ्यात्तः – उक्तं रसपर्यन्तं सर्वमिदं कल्याणगुणजातं स्वीकृतवान्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सर्वमिदमिति जगतोऽपि सर्वकर्मादिगुणान्तर्भावाद्गुणपरं तद्वयाख्यातम् ।
 
@@ -2118,7 +2118,7 @@ all pure objects and means of desire and enjoyment belong.
 अभ्यात्तः इति भुक्ता ब्राह्मणाः इतिवत्कर्तरिक्तः प्रतिपत्तव्यः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्कथं कर्त्तरि क्तः "तयोरेव कृत्यक्तखलर्था" इति भावकर्मणोरेव हि तत्स्मरणमित्यत्राह - भुक्ता इति ।
 
@@ -2158,7 +2158,7 @@ all pure objects and means of desire and enjoyment belong.
 सोऽस्य नास्तीत्यवाकी।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सोऽस्य नास्तीत्यवाकीति - फलितार्थकथनमेतत्, वाकः- उक्तिः, अवाकः- तदभावः । अवाकोऽस्यास्तीत्यवाकशब्दस्तद्धितप्रत्ययः । यद्वा वाकी न भवतीत्यवाकी ।
 
@@ -2182,7 +2182,7 @@ because, being in possession of all he could desire, he 'has no regard for anyth
 कुत इत्याह – अनादर इति अवाप्तसमस्तकामत्वेनादर्तव्याभावादादररहितः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदुपपादयति - अवाप्तेति ।
 
@@ -2201,7 +2201,7 @@ because, being in possession of all he could desire, he 'has no regard for anyth
 अत एव अवाकी-अजल्पाकः;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निषेध्योवाको हेयरूप इति दर्शयति - अजल्पाक इति ।
 
@@ -2223,7 +2223,7 @@ i.e. he who, in full possession of lordly power, esteems this whole world with a
 परिपूर्णैश्वर्यत्वात् ब्रह्मादिस्तम्बपर्यन्तं निखिलं जगत्तृणीकृत्य जोषमासीन इत्यर्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पदद्वयप्रतिपाद्योऽयमेको गुण इत्याह - परिपूर्णेति ।
 </details>
@@ -2243,7 +2243,7 @@ i.e. he who, in full possession of lordly power, esteems this whole world with a
 त एते विविक्षता गुणाः परमात्मन्येवोपपद्यन्ते॥२॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सूत्रार्थमुपसंहरति - त एत इति ।
 
@@ -2282,7 +2282,7 @@ Those who fully consider this infinite multitude of exalted qualities will recog
 तमिमं गुणसागरं पर्यालोचयतां खद्योतकल्पस्य शरीरसम्बन्धनिबन्धनापरिमित-दुःखसम्बन्धयोग्यस्य बद्धमुक्तावस्थस्य जीवस्य प्रस्तुतगुणलेशसम्बन्धगन्धोऽपि नोपपद्यत इति नास्मिन् प्रकरणे शारीरपरिग्रहशङ्का जायत इत्यर्थः॥३॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न मुक्तपरिग्रहशङ्काहेत्वन्यथासिद्धिः, किन्तु हेत्वसिद्धिरेवेति, तुशब्दाभिप्राय इत्याशयवतोकतं शारीरपरिग्रहशङ्का न जायत इति ॥
 
@@ -2329,7 +2329,7 @@ The clause 'When I shall have departed from hence I shall obtain him' denotes th
 एतमितः प्रेत्याभिसम्भिवताऽस्मि (छा.३.१४.४) इति प्राप्यतया परं ब्रह्म व्यपदिश्यते, प्राप्ततृतया च जीवः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वरूपस्यैव प्राप्यत्वमिति चेत् श्रुतिस्वारस्यभङ्गः ।
 </details>
@@ -2349,7 +2349,7 @@ This shows that the soul which obtains is the person meditating, and the highest
 अतः प्राप्ता जीव उपासकः, प्राप्यं परं ब्रह्मोपास्यमिति प्राप्तुरन्यदेवेदमिति विज्ञायते ॥४॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्राप्तुरन्यदेवेदमिति - अत्रेदमिति निर्देशो ब्रह्मशब्दाभिहितवस्त्वभिप्रायः ॥
 
@@ -2392,7 +2392,7 @@ The clause 'That is the Self of me, within the heart' designates the embodied so
 एष म आत्माऽन्तर्हृदये (छा.३.१४.३) इति शारीरष्षष्ठ्या निर्दिष्टः उपास्यस्तु प्रथमया।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जीवपरयोरिति - उपास्योपासकयोरित्यर्थः ।
 </details>
@@ -2412,7 +2412,7 @@ Similarly, a text of the Vājasaneyins, which treats of the same topic, applies 
 एवं समानप्रकरणे वाजिनां च श्रुतौ शब्दविशेषश्श्रूयते जीवपरयोः;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जीवपरयोरित्युक्तिः फलितार्थाभिप्रायेण, अतो नान्योन्याश्रयः, अत्र हिरण्यमयशब्देन दिव्यविग्रहवत्त्वं च सिद्धम् ।
 
@@ -2449,7 +2449,7 @@ Here the locative form, 'within the Self,' denotes the embodied Self,
 अत्र अन्तरात्मन् इति सप्तम्यन्तेन शारीरो निर्दिश्यते;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सप्तम्यन्तेनेति - अन्तरात्मन्नित्यत्र नकारलोपाभावात् "नञ्सम्बुध्यो"रिति नञ्सम्बुध्योरेव नकारलोपप्रतिषेधादिह सम्बुध्द्यन्तत्वेऽनन्वयाच्च "आत्मन्पश्यन्सर्वभूतानि" इतिवत् लुप्तसप्तमीकोऽयं निर्देश इति भावः । एवं स्वप्रकरणे षष्ठीप्रथमात्मकः, समानप्रकरणे सप्तमीप्रथमात्मकश्च शब्दविशेषो विवक्षितः ॥
 
@@ -2532,7 +2532,7 @@ and the nominative, 'that golden Person,' the object to be meditated on.
 सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनञ्च (भ.गी.१५.१५) यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् (गी.१५.१९), ईश्वरस्सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपास्यत्वज्ञापनार्थं तदनन्तरवाक्यमाह - यो मामिति । हृत्स्थस्य ईश्वरत्वकण्ठोक्तिं दर्शयति ।
 
@@ -2583,7 +2583,7 @@ to him fly for refuge' (Bha. Gi. XV, 15, 19; XVIII, 61). These Smr̥ti-texts sho
 तमेव शरणं गच्छ (गी.१८-६१) इति शारीरमुपासकं, परमात्मानं चोपास्यं स्मृतिर्दर्शयति॥ ६॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्तत्फलविशेषार्थिनां कर्मकर्तृसापेणक्षोपाससिध्यर्थं जीवेश्वरभेदं श्रुतिः कल्पयतीति चेत्, तथा सति तत्त्वनिरूपणदशायाम् "अत्ता चराचरग्रहणात्" "अनुपपत्तेस्तु न शारीरः" इति जीवविलक्षणं वस्तु प्रतिज्ञाय कर्मकर्तृव्यपदेशस्य हेतुतयोपन्यासायोगात् ।
 
@@ -2651,7 +2651,7 @@ For other passages speak of the highest Self as unlimited, and of the embodied s
 सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः (मुण्ड.१.१.६) इत्यादिभिः परमात्मनोऽपरिच्छन्नत्व -अवगमात्, जीवस्य चाराग्रमात्रत्वव्यपदेशादिति चेत् –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परमात्मनस्तु वैधर्म्यमाह - सर्वगतमिति ।
 </details>
@@ -2683,7 +2683,7 @@ For other passages speak of the highest Self as unlimited, and of the embodied s
 एवं निचाय्यत्वेन – एवं द्रष्टव्यत्वेन, एवमुपास्यत्वेनेति यावत्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निचाय्यशब्दार्थमाह - द्रष्टव्यत्वेनेति ।
 
@@ -2707,7 +2707,7 @@ Such minuteness does not, however, belong to its true nature;
 न पुनरणीयस्त्वमेवास्य स्वरूपमिति;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्य्वावर्त्त्यमाह न पुनरिति ।
 
@@ -2731,7 +2731,7 @@ for in the same section it is distinctly declared to be infinite like ether --'g
 व्योमवच्चायं व्यपदिश्यते, स्वाभाविकमहत्त्वं चात्रैव व्यपदिश्यते – ज्यायान् पृथिव्या ज्यायानन्तरिक्षाज्ज्यायान् दिवो ज्यायानेभ्यो लोकेभ्यः (छां.३.१४.१) इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 व्योमवच्छब्दफलितं स्वाभाविकमिति ।
 
@@ -2774,7 +2774,7 @@ This shows that the designation of the highest Self as minute is for the purpose
 तथा हि –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पृथिव्यादयस्तदुपाधय इति नाशङ्कनीयम्, ततोऽपि ज्यायस्त्वश्रवणात्, न हि ततेऽधिकपरिमाणत्वं तदुपाधिकं भवितुमर्हति, अणीयस्त्वस्योपासनार्थत्वमुपासनप्रकरणाविच्छेदेन स्वाभाविकमहत्त्वप्रपञ्चनेनोपपादयति - तथा हीति ।
 </details>
@@ -2796,7 +2796,7 @@ The clause 'All this is Brahman; let a man meditate with calm mind on this world
 सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत (मुण्ड.३.१४.४) इति सर्वोत्पत्तिप्रलयकारणत्वेन सर्वस्याऽत्मतया अनुप्रवेशकृतजीवयितृत्वेन च सर्वात्मकं ब्रह्मोपासीतेत्युपासनं विधाय अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्लोङ्के पुरुषो भवति तथेतः प्रेत्य भवति (छां.३.१४.४) इति यथोपासनं प्राप्यसिद्धिमभिधाय स क्रतुं कुर्वीत इति गुणविधानार्थमुपासनमनूद्य (छां.३.१४.४) मनोमयः प्राणशरीरो भारूपस्सत्यसङ्कल्प आकाशात्मा सर्वकर्मा सर्वकामस्सर्वगन्धरस्सर्वरसः सर्वमिदमभ्यात्तोऽवाक्यनादरः (छां.३.१४.४) इति जगदैश्वर्यविशिष्टस्य स्वरूपगुणांश्चोपादेयान् प्रतिपाद्य एष म आत्माऽन्तर्हृादयेऽणीयान् व्रीहेर्वा यवाद्वा सर्षपाद्वा श्यामाकाद्वा श्यामाक-तण्डुलाद्वा (छां.३.१४.४) इत्युपासकस्य हृदयेऽणीयस्त्वेन तदात्मतयोपास्यस्य परमपुरुषस्योपासनार्थमवस्थानमुक्त्वा एष म आत्माऽन्तर्हृादये ज्यायान् पृथिव्या ज्यायानन्तरक्षाज्ज्यायान्दिवो ज्यायानेभ्योलोकेभ्यस्सर्वकर्मा सर्वकामस्सर्वरसस्सर्वमिदम् अभ्यात्तः अवाक्यनादरः (छां.३.१४.१,४) इत्यन्तर्हृादयेऽवस्थितस्य उपास्यमानस्य प्राप्याकारं निर्दिश्य एष म आत्माऽन्तर्हादय एतद्ब्रह्म इत्येवं भूतं परं ब्रह्म परमकारुण्येनास्मदुज्जिजीवयिषया अस्मद्धृदये सन्निहितमितीदमनुसन्धानं विधाय एतमितः प्रेत्याभिसम्भवितास्मि (छां.३.१४.४) इति यथोपासनं प्राप्तिनिश्चयानुसन्धानं च विधाय इति यस्य स्यादद्धा न विचिकत्साऽस्ति (छां.३.१४.४) इत्येवंविधप्राप्यप्राप्तिनिश्चयोपेतस्योपासकस्य प्राप्तौ न संशयोऽस्तीत्युपसंहृतम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सर्वात्मकं ब्रह्मोपासीतेति - सर्वात्मकत्वं नोपस्यगुणतयोक्तम्, तस्य वाक्यान्तरस्थत्वात्, अतो लक्षणतो धर्मिनिर्देशः । तत्प्रयोजनञ्च शान्तिरूपाधिकारिविशेषणसिद्धिः, भगवदात्मकत्वे हि शास्त्रतोऽवगते रागद्वेषाद्यभावरूपा शमादिनिष्पत्तिः स्यात्, यथोच्यते "सर्वभूतात्मके तात जगन्नाथे जगन्मये ।
 
@@ -2854,7 +2854,7 @@ But, if the highest Brahman is assumed to dwell within bodies, like the individu
 जीवस्येव परस्यापि ब्रह्मणश्शरीरान्तर्वर्तित्वमभ्युपगतं चेत् – तद्वदेव शरीरसम्बन्धप्रयुक्त-सुखदुःखोपभोगप्राप्तिरिति चेत् – तन्न, हेतुवैशेष्यात् – न हि शरीरान्तर्वर्तित्वमेव सुखदुःखोप-भोगहेतुः;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सर्वात्मकं ब्रह्मेत्यनेन उपक्रमस्याणीयस्त्वविरोधित्वं दर्शितम् । प्रकरणाविच्छेदद्योतनाय अथ खल्वित्याद्युच्यते ।
 </details>
@@ -2904,7 +2904,7 @@ Compare the scriptural text 'One of the two eats the sweet fruit, the other one 
 तथा च श्रुतिः तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति (मुण्ड.३.११) इति ॥८॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपासनमनूद्येति - यथा "अग्निहोत्रं जुहोति" इति विहितहोमः "दध्ना जुहोति" इत्यत्र दध्नो होमसाधनत्वविधानार्थं जुहोतिपदेनानूद्यते तथेति भावः ।
 

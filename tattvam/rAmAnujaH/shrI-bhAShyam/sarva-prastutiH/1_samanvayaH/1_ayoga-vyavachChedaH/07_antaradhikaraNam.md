@@ -33,7 +33,7 @@ A new doubt here presents itself. --It must indeed be admitted that such individ
 यद्यपि मन्दपुण्यानां जीवानां, कामाज्जगत्सृष्टिः, अतिशयितानन्दयोगो भयाभयहेतुत्वमित्यादि न सम्भवति, तथापि, विलक्षणपुण्यानाम् आदित्येन्द्र प्रजापतिप्रक्षृतीनां सम्भवत्येवेति इमाम् आशङ्कां निराकरोति –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथावान्तरसङ्गतिमाह यद्यपीति ।
 
@@ -97,7 +97,7 @@ It is said in the Cḥāndogya: 'Now that person bright as gold, who is seen wit
 इदमाम्नायते छान्दोग्ये य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुर्हिरण्यकेश आप्रणखात्सर्व एव सुवर्णः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हिरण्मयशब्दो रमणीयत्वपरः, "हिरण्मय इति रूपसामान्याच्चन्द्रमुखवत्" इति हि वाक्यकारः ।
 
@@ -147,7 +147,7 @@ R̥k and Sāman are his joints.- So much with reference to the devas.
 तस्य यथा कप्यासं पुण्डरीकमेवमक्षिणी तस्योदिति नाम स एष सर्वेभ्यः पाप्मभ्य उदितः उदेति ह वै सर्वेभ्यः पाप्मभ्यो य एवं वेद। तस्यर्क्च साम च गेष्णौ इत्यधिदैवतम् (छा.१.६.६,७,८) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तस्य यथेति । अस्य वाक्यस्य वाक्यकारेण षडर्थाः पूर्वपक्षतया(त्वेन) सिद्धान्तत्वेन चोक्ताः । तत्रार्थत्रयस्य पूर्वपक्षत्वं तत्स्वभावादेवावगतम् ।
 
@@ -188,7 +188,7 @@ Now with reference to the body. --Now that person who is seen within the eye, he
 अथाध्यात्मम्, अथ य एषोऽन्तरक्षिणि पुरुषो दृश्यते सैवर्क् तत्साम तदुक्थ्यं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गेष्णौ तौ गेष्णौ यन्नाम तन्नाम (छा.१.७.५) इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अन्तरादित्यविद्यायाम् "य एषोऽन्तरादित्ये" इति स्थानस्योक्तत्वात्, अक्षिविद्यायां च "य एषोन्तरक्षणि" इति स्थानस्योक्तत्वादुभयत्र स्थानविध्यपेक्षा नास्तीत्यनाकाङ्क्षितत्वादिदं वाक्यमनन्वितं स्यात् ।
 
@@ -245,7 +245,7 @@ Now with reference to the body. --Now that person who is seen within the eye, he
 तत्र सन्दिह्यते – किमयमक्ष्यादित्यमण्डलान्तर्वर्ती पुरुषः पुण्योपचयनिमित्तैश्वर्य आदित्यादिशब्दाभिलप्यो जीव एव;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 संशयं दर्शयति तत्रेति । शरीरसंबन्धापहतपाप्मत्वादियोगात् संशयः ।
 </details>
@@ -294,7 +294,7 @@ That individual soul of high merit, the Pūrvapakshin maintains.
 उपिचतपुण्यो जीव एवेति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आदित्यादिशब्दाभिलप्यो जीव एवेति । यत्र यत्र प्रकरणेषु करणकलेवरावस्थशरीरसंबन्धेन जीवत्वशङ्का, तेषां प्रकरणानां सर्वेषां परमात्मपरत्वस्य प्रदर्शनार्थम् अयमधिकरणारम्भ इत्यभिप्रायेण आदिशब्दः प्रयुक्तः ।
 
@@ -366,7 +366,7 @@ for it is meant to bring the soul into contact with pleasure and pain, according
 कर्मानुगुणप्रियाप्रिययोगाय हि शरीरसम्बन्धः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जीवानामेव शरीरसंबन्धमुपपादयति कर्मानुगुणेति ।
 </details>
@@ -389,7 +389,7 @@ It is for this reason that Scripture describes final Release where there is no c
 अत एव हि कर्मसम्बन्धरहितस्य मोक्षस्य प्राप्यत्वमशरीरत्वेनोच्यते 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कर्मकृतप्रियाप्रिययोगा र्थत्वं व्यतिरेकेणोपपादयति अत एव हीति ।
 
@@ -481,7 +481,7 @@ Even among men some are seen to be of superior knowledge and power, owing to sup
 मनुष्येष्वप्युपचितपुण्याः केचित् ज्ञानशक्त्यादिभिरधिकतरा दृश्यन्ते;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तथा दर्शयति मनुष्येष्वपीति ।
 
@@ -552,7 +552,7 @@ Hence, also, one among the divine beings, beginning with Brahmā, may in each ka
 अतो ब्रह्मादिष्वन्यतम एवैकैकस्मिन् कल्पे पुण्यविशेषेणैवम्भूतमैश्वर्यं प्राप्तो जगत्सृष्ट्याद्यपि करोतीति जगत्कारणत्वजगदन्तरात्मत्वादि वाक्यमस्मिन्नेवोपचितपुण्यविशेषे सर्वज्ञे सर्वशक्तौ वर्तते ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आदित्येन्द्रप्रजापतिप्रभृतीनां सर्वेषां कारणत्वश्रवणात् व्याहतिः स्यात्, पुण्यहेतुत्वात् क्षयित्वञ्च स्यादित्यत्राह अतो ब्रह्मादिष्विति ।
 
@@ -653,7 +653,7 @@ The person who is perceived within the sun and within the eye, is something diff
 अन्तरादित्येऽन्तरक्षिणि च यः पुरुषः प्रतीयते, स जीवादन्यः परमात्मैव;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 राद्धान्ते- सौत्रं प्रतिज्ञापरमन्तश्शब्दं व्याचष्टे अन्तरादित्य इति ।
 
@@ -672,7 +672,7 @@ The person who is perceived within the sun and within the eye, is something diff
 कुतः?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हेत्वंशमवतार्य व्याचष्टे कुत इत्यादिना ।
 </details>
@@ -699,7 +699,7 @@ because there are declared qualities belonging to that. The text ascribes to him
 तद्धर्मोपदेशात् – जीवेष्वसम्भवंस्तदतिरिक्तस्यैव परमात्मनो धर्मोऽयमपहतपाप्मत्वादिः स एष सर्वेभ्यः पाप्मभ्य उदितः (छा.१.६.७) इत्यादिनोपदिश्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्धर्मोपदेशादिति तच्छब्दः परमात्मपरः ।
 
@@ -725,7 +725,7 @@ For to be free from all evil means to be free from all influence of karman,
 अपहतपाप्मत्वं हि अपहतकर्मत्वम्, कर्मवश्यतागन्धरहितत्वमित्यर्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अपहतपाप्मत्वं पापहेतुकमिश्रहेतुकशरीरवत्त्वव्यावर्तकमित्यत्राह अपहतेति ।
 
@@ -761,7 +761,7 @@ and this quality can belong to the highest Self only, differing from all individ
 कर्माधीनसुखदुःखभागित्वेन कर्मवश्या हि जीवाः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जीव्यावृत्तिं स्फुटयति कर्माधीनेति ।
 
@@ -803,7 +803,7 @@ which, as is shown by their experience of pleasure and pain, are in the bonds of
 अतोऽपहतपाप्मत्वं जीवादन्यस्य परमात्मन एव धर्मः ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अतोऽपहतपाप्मत्वविषयश्रूतीनां यथोक्त एवार्थ इति तेन धर्मेण अन्तरादित्येऽवस्थितस्य भगवतो जीववैलक्षण्यसिद्धिः ॥
 
@@ -829,7 +829,7 @@ Those essential qualities also which presuppose freedom from all evil (and which
 तत्पूर्वकं स्वरूपोपाधिकं लोककामेशत्वम्, सत्यसङ्कल्पत्वादिकं सर्वभूतान्तरात्मत्वञ्च तस्यैव धर्मः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आदित्यान्तर्वर्त्तिनोऽपहतपाप्मत्वगुणयोगेन आनन्दवल्लीदहरविद्यासुबालोपनिषत्प्रतिपाद्यस्येह प्रत्यभिज्ञानात् तत्र तत्रोक्ता गुणा अप्यस्यैव हिरण्मयपुरुषस्य धर्मा इत्यभिप्रायेण सत्यसङ्कल्पत्वादिकं सर्वभूतान्तरात्मत्वञ्चेत्युक्तम् ।
 </details>
@@ -862,7 +862,7 @@ Compare passages such as 'It is the Self free from evil, free from old age, from
 यथाह एष आत्माऽपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासः सत्यकामस्सत्यसङ्कल्पः (छा.८.१.५) इति, तथा एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुबाल.७) इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अपहतपाप्मत्वपूर्वकसत्यसङ्कल्पत्वादौ श्रुतिं दशर्यति एष आत्मेति ।
 
@@ -897,7 +897,7 @@ the attribute of being the cause of fear and fearlessness; the attribute of enjo
 सोऽकामयत। बहु स्यां प्रजायेयेति (तै.आन.६) इत्यादिसत्यसङ्कल्पत्वपूर्वक समस्तचिदचिद्वस्तुसृष्टियोगो निरुपाधिकभयाभयहेतुत्वम्, वाङ्मनसपरिमितिकृतपरिच्छेदरहितानवधिकातिशयानन्दयोग इत्यादयोऽकर्मसम्पाद्यास्स्वाभाविका धर्मा जीवस्य न सम्भवन्ति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वाङ्मनसेति परिच्छेदकासिद्धिमाह ।
 </details>
@@ -919,7 +919,7 @@ the attribute of being the cause of fear and fearlessness; the attribute of enjo
 यत्तु शरीरसम्बन्धान्न जीवातिरक्त इत्युक्तम्;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वपक्षमनुवदति यत्त्विति ।
 
@@ -945,7 +945,7 @@ For since a being which possesses the power of realising all its desires can ass
 तदसत्, न हि सशरीरत्वं कर्मवश्यतां साधयति, सत्यसङ्कल्पस्येच्छयाऽपि शरीरसम्बन्धसम्भवात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कल्पकस्यान्यथासिद्धमाह सत्यसङ्कल्पस्येति । सत्यसङ्कल्पस्य कर्मनैरपेक्ष्यम् अपहतपाप्मत्वपूर्वकसत्यसङ्कल्पत्वश्रुत्युपपादनेन समर्थितम् ।
 
@@ -1008,7 +1008,7 @@ Now connexion with such a body cannot possibly be brought about by the wish of s
 कर्मवश्यस्य तु स्वरूपानभिज्ञस्य कर्मानुगुणफलोपभोगायानिच्छतोऽपि तत्सम्बन्धोऽवर्जनीयः – इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कर्मावरणहेतुः स्वस्वरूपानभिज्ञस्येति विशेषणम् ।
 </details>
@@ -1028,7 +1028,7 @@ Now connexion with such a body cannot possibly be brought about by the wish of s
 स्यादेतदेवम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिहरति स्यादिति ।
 
@@ -1070,7 +1070,7 @@ but it is not so, it rather is a body suitable to the nature and intentions of t
 स तु स्वाभिमतस्स्वानुरूपोऽप्राकृत एवेति सर्वमुपपन्नम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अतः सर्वज्ञस्य तस्य विग्रहे स्पृहणीये स्वरूपस्य भोग्यतावैकल्यं स्यादित्यत्राह सर्वमुपपन्नमिति ।
 </details>
@@ -1094,7 +1094,7 @@ The highest Brahman, whose nature is fundamentally antagonistic to all evil and 
 एतदुक्तं भवति – परस्यैव ब्रह्मणो निखिलहेयप्रत्यनीकानन्तज्ञानानन्दैकस्वरूपतया सकलेतरविलक्षणस्य स्वाभाविकानविधकातिशयासङ्ख्येयकल्याणगुणगणाश्च सन्ति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कथमुपपन्नमित्यत्राह एतदुक्तमिति ।
 
@@ -1120,7 +1120,7 @@ and, analogously, a divine form suitable to its nature and intentions, i.e. ador
 तद्वदेव स्वाभिमतानुरूपैकरूपाचिन्त्य-दिव्याद्भुतनित्यनिरवद्यनिरतिशयौज्ज्वल्यसौन्दर्यसौगन्ध्य-सौकुमार्य-लावण्ययौवनाद्यनन्तगुणगणनिधिदिव्यरूपमपि स्वाभाविकमस्ति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वाभिमतेति । करणानपेक्षज्ञानक्रियस्यापि परस्य भोगार्थो विग्रहः ।
 
@@ -1170,7 +1170,7 @@ And in order to gratify his devotees he individualises that form so as to render
 तदेवोपासकानुग्रहेण तत्तत्प्रतिपत्त्यनुरूपसंस्थानं करोत्यपारकारुण्यसौशील्यवात्सल्यौदार्य- जलनिधिः, निरस्तनिखिलहेयगन्धोऽपहतपाप्मा परमात्मा परं ब्रह्म पुरुषोत्तमो नारायणः इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ परत्वमुच्यते निरस्तेति । परत्वसौलभ्ये अप्युपास्यत्वोपयोगिनी ।
 
@@ -1210,7 +1210,7 @@ And in order to gratify his devotees he individualises that form so as to render
 यतो वा इमानि भूतानि जायन्ते (तै.भृ.१), सदेव सोम्येदमग्र आसीत् (छा.६.२.१), आत्मा वा इदमेक एवाग्र आसीत् (ऐतरेय.१.१.१), एको ह वै नारायण आसीन्न ब्रह्मा नेशानः (महोप.१.१) इत्यादिषु निखिलजगदेककारणतयाऽवगतस्य परस्य ब्रह्मणः 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथोक्तार्थे प्रमाणान्याह यतो वा इमानीत्यादि । जगत्कारणत्वधर्मिस्वरूपविषयप्रमाणोपन्यासो दृष्टान्तार्थः । गुणविभागकथनं वादिविवादशमानार्थं दृष्टान्तार्थञ्च । विद्युतः- विद्युद्वर्णात् ।
 
@@ -1310,7 +1310,7 @@ of sunlike lustre beyond the darkness' (Śvet. Up. III, 8);
 वेदाहमेतं पुरुषं महान्तम्। आदित्यवर्णं तमसः परस्तात् (तै.यजु.आर.३.१२), सर्वे निमेषा जज्ञिरे विद्युतः पुरुषादधि (तै.नारा.१.अनु.८) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आदित्यवर्णो विग्रहश्च न प्राकृतः ; "तमसः परस्तात्" इति श्रुतेः । अतिसूक्ष्मप्रकृतिर्हि तमः; अतस्तत्कार्यवैलक्षण्यसिद्धिः ।
 
@@ -1334,7 +1334,7 @@ of sunlike lustre beyond the darkness' (Śvet. Up. III, 8);
 इत्यादिषु परस्य ब्रह्मणः प्राकृतहेयगुणान् प्राकृतहेयदेहसम्बन्धं तन्मूलकर्मवश्यतासम्बन्धं च प्रतिषिध्य कल्याणगुणान् कल्याणरूपं च वदन्ति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्राकृतहेयेति । क्वचित् सतो हि क्वचिन्निषेधः ।
 
@@ -1364,7 +1364,7 @@ of sunlike lustre beyond the darkness' (Śvet. Up. III, 8);
 तदिदं स्वाभाविकमेव रूपमुपासकानुग्रहेण तत्प्रतिपत्त्यनुगुणाकारं देवमनुष्यादिसंस्थानं करोति स्वेच्छयैव परमकारुणिको भगवान्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परमकारुणिक इति ।
 
@@ -1390,7 +1390,7 @@ This the following scriptural passage declares, 'Unborn he is born in many ways'
 तदिदमाह श्रुतिः – अजायमानो बहुधा विजायते (तै.आर.३.१२) इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 श्रुतिं दर्शयति तदिदमिति ।
 
@@ -1432,7 +1432,7 @@ presiding over my Nature, manifest myself by my Māya
 प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपबृंहणैकार्थ्यं दर्शयति स्मृतिश्चेति ।
 
@@ -1461,7 +1461,7 @@ presiding over my Nature, manifest myself by my Māya
 परित्राणाय साधूनां विनाशाय च दुष्कृताम् (भ.गी.४.६) इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "विनाशाय च दुष्कृ ताम्" इति च शब्दोऽन्वाचयपर इति भावः समुच्चयः समप्रधानयोः; अन्वाचयः प्रधानानुषङ्गिकयोः ।
 </details>
@@ -1484,7 +1484,7 @@ The 'Good' here are the Devotees;
 साधवो ह्युपासकाः, तत्परित्राणमेवोद्देश्येम्, आनुषङ्गिकस्तु दुष्कृतां विनाशः, सङ्कल्पमात्रेणापि तदुपपत्तेः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 दुष्कृद्विनाशस्यानुषङ्गिकत्वमुपपादयति सङ्कल्पेति ।
 </details>
@@ -1499,7 +1499,7 @@ The 'Good' here are the Devotees;
 प्रकृतिं स्वाम्, इति प्रकृतिः – स्वभावः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रकृतिसंबन्धभ्रमनिवृत्त्यर्थं व्याचष्टे प्रकृतिं स्वामितीति । स्वभावः- निरुपाधिकधर्मः ।
 
@@ -1538,7 +1538,7 @@ by 'Māya' is meant the purpose, the knowledge of the Divine Being --;
 आत्ममाययेति स्वसङ्कल्परूपेण ज्ञानेनेत्यर्थः ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अपारमार्थिकत्वभ्रमनिवृत्त्यर्थं व्याचष्टे आत्ममाययेति । नैघण्टुकाः- वेदनिघण्टुकाराः ।
 
@@ -1643,7 +1643,7 @@ In the Mahābhārata also the form assumed by the highest Person in his avatāra
 अतः परस्यैव ब्रह्मण एवंरूपवत्त्वादयमपि तस्यैव धर्मः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सूत्रार्थमुपसंहरति अत इति । हेत्वन्तरमाह ।
 </details>
@@ -1664,7 +1664,7 @@ the Person within the Sun and the eye is the highest Self which is different fro
 अत आदित्यमण्डलाक्ष्यधिकरणः आदित्यादिजीवव्यतिरिक्तः परमात्मैव ॥ २१॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 भेदव्यपदेशाच्चान्यः ॥ अयमन्यशब्दः पूर्वापरसूत्रेष्वप्यन्वेतव्यः । आदित्याख्यजीवाद्भेदव्यपदेशे श्रुतिमाह य आदित्य इति । आदित्यपर्यायोपादानं प्रकरणस्थजीवान्तरविषयपर्यायाणां प्रदर्शनार्थम् ।
 </details>
@@ -1707,7 +1707,7 @@ There are texts which clearly state that the highest Self is different from Ādi
 आदित्यादिजीवेभ्यो भेदो व्यपदिश्यतेऽस्य परमात्मनः – य आदित्ये तिष्ठान्नादित्यादन्तरो यमादित्यो न वेद यस्यादित्यश्शरीरं य आदित्यमन्तरो यमयति । (बृ.५.७.९) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आदित्यादीत्यत्रादिशब्दोपात्तदेवताविशेषेभ्यो भेदव्यपदेशश्च अत एव दर्शितो भवति ।
 
@@ -1734,7 +1734,7 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 य आत्मनि तिष्ठान्नात्मनोऽन्तरो यमात्मा न वेद यस्याऽत्मा शरीरं य आत्मानमन्तरो यमयति (बृ.५.७.२२) इति ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आसां देवतानां मुक्तावस्थायामपि ताभ्यः परमात्मनो भेदज्ञापनार्थं निष्कृष्टात्मनः परमात्मनियाम्यत्वादिप्रतिपादकं पर्यायमुदाहरति य आत्मनीति ।
 
@@ -1770,7 +1770,7 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 शरीरत्वेन व्यपदिश्य तेषामन्तरात्मत्वेनैनं व्यपदिशति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शरीरसंबन्धावच्छिन्नैश्वर्यश्रवणसिद्धकमवश्यत्वात्, लोककामेशत्वादीनां सुकृतप्रकर्षेणोपपत्तेः, पाप्मोदयश्रवणस्य पापसंबन्धनिवर्तकत्वेन पुण्यसंबन्धनिवर्तकत्वाभावाच्च पूर्वः पक्षः । मोक्षप्रकरणेषूभयकर्मविषयपाप्मशब्दप्रयोगश्रुत्यन्तरैकार्थ्यप्रवृत्तिनिमित्तयोगैः पाप्मशब्दस्योभयपरत्वेन कर्मवश्यत्वनिषेधात्, तत्पूर्वकगुणान्तराणामपि जीवेष्वसंभवात्, हेतुतः फलतो द्रव्यतश्च विलक्षणविग्रहयोगस्य जीववैलक्षण्यसाधकत्वात्, आदित्यादिजीवेभ्यो भेदव्यपदेशाच्च परमात्मेति राद्धान्तः ।
 </details>
@@ -1791,7 +1791,7 @@ who dwelling within the Self is different from the Self,' &c. (Br̥. Up. III, 7,
 अतस्सर्वेभ्यो हिरण्यगर्भादिजीवेभ्योऽन्य एव परमात्मेति सिद्धम्॥२॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अधिकरणार्थमुपसंहरति अत इति ॥
 

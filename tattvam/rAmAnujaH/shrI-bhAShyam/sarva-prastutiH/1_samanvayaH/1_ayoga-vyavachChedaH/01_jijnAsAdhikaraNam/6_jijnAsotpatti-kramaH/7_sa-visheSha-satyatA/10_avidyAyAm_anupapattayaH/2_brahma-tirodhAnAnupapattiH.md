@@ -23,7 +23,7 @@ When, in the next place, you maintain that Brahman, whose nature is homogeneous 
 किञ्च – अविद्यया प्रकाशैकस्वरूपं ब्रह्म तिरोहितम् इति वदता स्वरूपनाश एवोक्तस्स्यात् । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ तिरोधानानुपपत्तिमाह किञ्चेति । ननु भवत्पक्षेऽपि क्षेत्रज्ञानां नित्यं स्फुरणमस्ति ।
 
