@@ -2,7 +2,7 @@
 title = "०३ शास्त्रयोनित्वाधिकरणम्"
 +++
 
-<details><summary>विषयः</summary>
+<details><summary>Thibaut - विषयः</summary>
 
 Sūtra 3: *Śāstra-yonitvāt* (Because Scripture is the source of the knowledge of Brahman) is a foundational text in the *Brahma Sūtras*. Rāmānuja's commentary (*Śrī Bhāṣya*) on this Sūtra, alongside Sudarśana Sūri's commentary (*Śrutaprakāśikā*), addresses the critical philosophical debate of whether Brahman can be known via rational inference (*anumāna*) or solely via Vedic revelation (*śāstra*). 
 </details>
@@ -18,7 +18,7 @@ Sūtra 3: *Śāstra-yonitvāt* (Because Scripture is the source of the knowledge
 वेदान्त-वेद्यम् इत्य् उक्तम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The assertion that Brahman, as the cause of the origination, &c., of the world, must be known through the Vedānta-texts is unfounded;
 </details>
@@ -45,7 +45,7 @@ This is the opening of the objection where the opponent challenges the necessity
 > तद् अयुक्तम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That is incorrect.
 </details>
@@ -65,7 +65,7 @@ That is incorrect.
 अनुमानेन सिद्धेर् 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for it is not something requiring to be taught by authoritative texts [lit. sentences];
 for as Brahman may be inferred as the cause of the world through ordinary reasoning... To this objection the next Sūtra replies:
@@ -91,7 +91,7 @@ for as Brahman may be inferred as the cause of the world through ordinary reason
 > ३. शास्त्र-योनित्वात् +++(ब्रह्म-ज्ञानस्य)+++ ॥ १-१-३ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 3. Because Scripture is the source (of the knowledge of Brahman).
 </details>
@@ -115,7 +115,7 @@ for as Brahman may be inferred as the cause of the world through ordinary reason
 तस्य भावश् शास्त्र-योनित्वम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 [Scripture is the source, i.e., cause and means of proof, of that which is śāstra-yoni; the abstract state of being that is śāstra-yonitvam.]
 </details>
@@ -138,7 +138,7 @@ for as Brahman may be inferred as the cause of the world through ordinary reason
 तद्-योनित्वं ब्रह्मणः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 [Therefore, because Scripture is the cause of the knowledge of Brahman, Brahman has the state of having Scripture as its source.]
 </details>
@@ -162,7 +162,7 @@ for as Brahman may be inferred as the cause of the world through ordinary reason
 इत्य्-आदि-वाक्यं बोधयत्य् एवेत्य् अर्थः॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Because Brahman, being raised above all contact with the senses, is not an object of perception and the other means of proof, but to be known through Scripture only; therefore the text 'Whence these creatures are born,' &c., has to be accepted as instructing us regarding the true nature of Brahman.
 </details>
@@ -186,7 +186,7 @@ Because Brahman, being raised above all contact with the senses, is not an objec
 > ननु – शास्त्र-योनित्वं ब्रह्मणो न सम्भवति, प्रमाणान्तर-वेद्यत्वाद् ब्रह्मणः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 —But, our opponent points out, Scripture cannot be the source of our knowledge of Brahman, because Brahman is to be known through other means.
 </details>
@@ -208,7 +208,7 @@ Because Brahman, being raised above all contact with the senses, is not an objec
 > अप्राप्ते तु शास्त्रम् अर्थवत्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For it is an acknowledged principle that Scripture has meaning only with regard to what is not established by other sources of knowledge.
 </details>
@@ -231,7 +231,7 @@ For it is an acknowledged principle that Scripture has meaning only with regard 
 किम् तर्हि तत्र प्रमाणम् ?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 —But what, to raise a primā facie counter objection, are those other sources of knowledge?
 </details>
@@ -253,7 +253,7 @@ For it is an acknowledged principle that Scripture has meaning only with regard 
 न तावत् प्रत्यक्षम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It cannot, in the first place, be Perception.
 </details>
@@ -272,7 +272,7 @@ It cannot, in the first place, be Perception.
 तद् धि द्विविधम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Perception is twofold,
 </details>
@@ -294,7 +294,7 @@ Perception is twofold,
 इन्द्रिय-सम्भवं योग-सम्भवं चेति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 being based either on the sense-organs or on extraordinary concentration of mind (yoga).
 </details>
@@ -314,7 +314,7 @@ being based either on the sense-organs or on extraordinary concentration of mind
 आन्तर-सम्भवं चेति द्विधा।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Of Perception of the former kind there are again two sub-species, according as Perception takes place either through the outer sense-organs or the internal organ (manas).
 </details>
@@ -337,7 +337,7 @@ Of Perception of the former kind there are again two sub-species, according as P
 न सर्वार्थ-साक्षात्कार-- तन्-निर्माण-- समर्थ-पुरुष-विशेष--विषय-बोध-जननानि।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now the outer sense-organs produce knowledge of their respective objects, in so far as the latter are in actual contact with the organs, but are quite unable to give rise to the knowledge of the special object constituted by a supreme Self that is capable of being conscious of and creating the whole aggregate of things.
 </details>
@@ -361,7 +361,7 @@ Now the outer sense-organs produce knowledge of their respective objects, in so 
 तस्य बाह्येन्द्रियानपेक्ष-प्रवृत्त्य्-अनुपपत्तेः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor can internal perception give rise to such knowledge; for only purely internal things, such as pleasure and pain, fall within its cognisance, and it is incapable of relating itself to external objects apart from the outer sense-organs.
 </details>
@@ -387,7 +387,7 @@ Nor can internal perception give rise to such knowledge; for only purely interna
 तद्-अतिरिक्त-विषयत्वे +++(इन्द्रिय-सन्निकर्षादि-)+++कारणाभावात्।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor, again, perception based on Yoga; for although such perception – which springs from intense imagination – implies a vivid presentation of things, it is, after all, nothing more than a reproduction of objects perceived previously, and does not therefore rank as an instrument of knowledge; for it has no means of applying itself to objects other than those perceived previously.
 </details>
@@ -422,7 +422,7 @@ Nor, again, perception based on Yoga; for although such perception – which spr
 तथा सति तस्य भ्रम-रूपता। +++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And if, after all, it does so, it is (not a means of knowledge but) a source of error.
 </details>
@@ -445,7 +445,7 @@ And if, after all, it does so, it is (not a means of knowledge but) a source of 
 नाप्य् अनुमानं विशेषतो दृष्टं सामान्यतो दृष्टं वा;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 —Nor also inference either of the kind which proceeds on the observation of special cases or of the kind which rests on generalizations (cp. Nyāya Sū. I, 1,5,).
 </details>
@@ -468,7 +468,7 @@ And if, after all, it does so, it is (not a means of knowledge but) a source of 
 न विशेषतो दृष्टम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Not inference of the former kind, because such inference is not known to relate to anything lying beyond the reach of the senses.
 </details>
@@ -488,7 +488,7 @@ Not inference of the former kind, because such inference is not known to relate 
 सामान्यतो दृष्टम् अपि न लिङ्गम् उपलभ्यते॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor inference of the latter kind, because we do not observe any characteristic feature that is invariably accompanied by the presence of a supreme Self capable of being conscious of, and constructing, the universe of things.
 </details>
@@ -510,7 +510,7 @@ Nor inference of the latter kind, because we do not observe any characteristic f
 तद्-उपादानोपकरण-सम्प्रदान- प्रयोजनाभिज्ञ-कर्तृकत्व-व्याप्तम् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But there is such a feature, viz. the world's being an effected thing; it being a matter of common experience that whatever is an effect or product, is due to an agent who possesses a knowledge of the material cause, the instrumental cause, the final end, and the person meant to make use of the thing produced.
 </details>
@@ -533,7 +533,7 @@ But there is such a feature, viz. the world's being an effected thing; it being 
 एक-चेतनाधीनत्वेन व्याप्तम् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It further is matter of experience that whatever consists of non-sentient matter is dependent on, or ruled by, a single intelligent principle.
 </details>
@@ -556,7 +556,7 @@ It further is matter of experience that whatever consists of non-sentient matter
 तद्-उपादानोपकरण-सम्प्रदान- प्रयोजनाभिज्ञ-कर्तृकं दृष्टम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The former generalization is exemplified by the case of jars and similar things,
 </details>
@@ -579,7 +579,7 @@ The former generalization is exemplified by the case of jars and similar things,
 एक-चेतनाधीनं च।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and the latter by a living body in good health, which consists of non-intelligent matter dependent on an intelligent principle.
 </details>
@@ -601,7 +601,7 @@ and the latter by a living body in good health, which consists of non-intelligen
 > सावयवत्वेन जगतः कार्यत्वम् ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And that the [[body|world]] is an effected thing follows from its consisting of parts.
 </details>
@@ -626,7 +626,7 @@ And that the [[body|world]] is an effected thing follows from its consisting of 
 उच्यते – किम् इदम् एक-चेतनाधीनत्वम्?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Against this argumentation also objections may be raised. What, it must be asked, do you understand by this dependence on an intelligent principle?
 </details>
@@ -648,7 +648,7 @@ Against this argumentation also objections may be raised. What, it must be asked
 न तावत् तद्-आयत्तोत्पत्ति-स्थितित्वम्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Not, we suppose, that the origination and subsistence of the non-intelligent thing should be dependent on the intelligent principle;
 </details>
@@ -673,7 +673,7 @@ Not, we suppose, that the origination and subsistence of the non-intelligent thi
 तच्-छरीरस्य भोक्तॄणां भार्यादि-सर्व-चेतनानाम् +++(←अ-दृष्ट)+++ {अ-दृष्ट}-जन्यत्वात् तद्+++(←शरीर)+++-उत्पत्ति-स्थित्योः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for in that case your example would not help to prove your contention. Neither the origin nor the subsistence of a person's healthy body depends on the intelligent soul of that person alone; they rather are brought about by the merit and demerit of all those souls which in any way share the fruition of that body – the wife, e.g. of that person, and others.
 </details>
@@ -698,7 +698,7 @@ for in that case your example would not help to prove your contention. Neither t
 +++(यतो यन्त्रवद् अपि तत् स्यात्)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, the existence of a body made up of parts means that body's being connected with its parts in the way of so-called intimate relation (samavāya), and this requires a certain combination of the parts but not a presiding intelligent principle.
 </details>
@@ -722,7 +722,7 @@ Moreover, the existence of a body made up of parts means that body's being conne
 +++(जगत्→)+++पक्ष-+++(शरीर→)+++सपक्षानुगताम् एक-रूपां स्थितिं नोपलभामहे।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The existence of animated bodies, moreover, has for its characteristic mark the process of breathing, which is absent in the case of the earth, sea, mountains, &c.--all of which are included in the class of things concerning which you wish to prove something--, and we therefore miss a uniform kind of existence common to all those things.
 </details>
@@ -749,7 +749,7 @@ The existence of animated bodies, moreover, has for its characteristic mark the 
 अनेक-चेतन-+++(चालन-)+++साध्येषु गुरुतर-रथ-शिला-महीरुहादिषु व्यभिचारः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Let us then understand by the dependence of a non-intelligent thing on an intelligent principle, the fact of the motion of the former depending on the latter!--This definition, we rejoin, would comprehend also those cases in which heavy things, such as carriages, masses of stone, trees, &c., are set in motion by several intelligent beings (while what you want to prove is the dependence of a moving thing on one intelligent principle).
 </details>
@@ -771,7 +771,7 @@ Let us then understand by the dependence of a non-intelligent thing on an intell
 चेतन-मात्राधीनत्वे सिद्ध-साध्यता॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, you mean to say that all motion depends on intelligence in general, you only prove what requires no proof.
 </details>
@@ -795,7 +795,7 @@ If, on the other hand, you mean to say that all motion depends on intelligence i
 किञ्च – उभय-वादि-सिद्धानां जीवानाम् एव लाघवेन कर्तृत्वाभ्युपगमो युक्तः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Another alternative, moreover, here presents itself. As we both admit the existence of individual souls, it will be the more economical hypothesis to ascribe to them the agency implied in the construction of the world.
 </details>
@@ -818,7 +818,7 @@ Another alternative, moreover, here presents itself. As we both admit the existe
 सर्वेषाम् एव चेतनानां पृथिव्य्-आद्य्-उपादान- -यागाद्य्-उपकरण- -साक्षात्-कार-सामर्थ्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor must you object to this view on the ground that such agency cannot belong to the individual souls because they do not possess the knowledge of material causes, &c., as specified above; for all intelligent beings are capable of direct knowledge of material causes, such as earth and so on, and instrumental causes, such as sacrifices and the like.
 </details>
@@ -840,7 +840,7 @@ Nor must you object to this view on the ground that such agency cannot belong to
 यथा - इदानीं पृथिव्यादयो यागादयश् च प्रत्यक्षम् ईक्ष्यन्ते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Earth and other material substances, as well as sacrifices and the like, are directly perceived by individual intelligent beings at the present time (and were no doubt equally perceived so at a former time when this world had to be planned and constructed).
 </details>
@@ -864,7 +864,7 @@ Earth and other material substances, as well as sacrifices and the like, are dir
 तत्-साक्षात्-कारानपेक्षणात् कार्यारम्भस्य।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor does the fact that intelligent beings are not capable of direct insight into the unseen principle – called 'apūrva,' or by similar names – which resides in the form of a power in sacrifices and other instrumental causes, in any way preclude their being agents in the construction of the world.
 </details>
@@ -886,7 +886,7 @@ Nor does the fact that intelligent beings are not capable of direct insight into
 +++(यागादि-)+++शक्तिमत्-साक्षात्कार एव हि कार्यारम्भोपयोगी।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Direct insight into powers is nowhere required for undertaking work: what is required for that purpose is only direct presentative knowledge of the things endowed with power,
 </details>
@@ -909,7 +909,7 @@ Direct insight into powers is nowhere required for undertaking work: what is req
 न साक्षात्कारः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 while of power itself it suffices to have some kind of knowledge.
 </details>
@@ -933,7 +933,7 @@ while of power itself it suffices to have some kind of knowledge.
 घट-मणिकादि-कार्यम् आरभन्ते।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Potters apply themselves to the task of making pots and jars on the strength of the direct knowledge they possess of the implements of their work – the wheel, the staff, &c.--without troubling about a similar knowledge of the powers inherent in those implements;
 </details>
@@ -955,7 +955,7 @@ Potters apply themselves to the task of making pots and jars on the strength of 
 इह तु चेतनानाम् आगमावगत-यागादि-शक्ति-विशेषाणां कार्यारम्भो नानुपपन्नः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and in the same way intelligent beings may apply themselves to their work (to be effected by means of sacrifices, &c.), if only they are assured by sacred tradition of the existence of the various powers possessed by sacrifices and the like.
 </details>
@@ -985,7 +985,7 @@ and in the same way intelligent beings may apply themselves to their work (to be
 तद् एव तद्-अभिज्ञ-कर्तृकं दृष्टम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, experience teaches that agents having a knowledge of the material and other causes must be inferred only in the case of those effects which can be produced, and the material and other causes of which can be known:
 </details>
@@ -1009,7 +1009,7 @@ Moreover, experience teaches that agents having a knowledge of the material and 
 न चेतन-कर्तृकम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 such things, on the other hand, as the earth, mountains, and oceans, can neither be produced, nor can their material and other causes ever be known; we therefore have no right to infer for them intelligent producers.
 </details>
@@ -1032,7 +1032,7 @@ such things, on the other hand, as the earth, mountains, and oceans, can neither
 बुद्धिमत्-कर्तृ-पूर्वकत्व-साधने प्रभवति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence the quality of being an effected thing can be used as an argument for proving the existence of an intelligent causal agent, only where that quality is found in things, the production of which, and the knowledge of the causes of which, is possible at all.
 </details>
@@ -1063,7 +1063,7 @@ Hence the quality of being an effected thing can be used as an argument for prov
 सिषाधियिषित-पुरुष- -सार्वज्ञ्य-सर्वैश्वर्यादि-विपरीत-साधनाद् विरुद्धस् स्यात् ।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Experience further teaches that earthen pots and similar things are produced by intelligent agents possessing material bodies, using implements, not endowed with the power of a Supreme Lord, limited in knowledge and so on; the quality of being an effect therefore supplies a reason for inferring an intelligent agent of the kind described only, and thus is opposed to the inference of attributes of a contrary nature, viz. omniscience, omnipotence, and those other attributes that belong – to the highest Soul, whose existence you wish to establish.
 </details>
@@ -1086,7 +1086,7 @@ Experience further teaches that earthen pots and similar things are produced by 
 न चैतावता सर्वानुमानोच्छेद-प्रसङ्गः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor does this (as might be objected) imply an abandonment of all inference.
 </details>
@@ -1110,7 +1110,7 @@ Nor does this (as might be objected) imply an abandonment of all inference.
 तत्-प्रमाण-प्रतिहत-गतयो निवर्तन्ते।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Where the thing to be inferred is known through other means of proof also, any qualities of an opposite nature which maybe suggested by the inferential mark (linga) are opposed by those other means of proof, and therefore must be dropped.
 </details>
@@ -1134,7 +1134,7 @@ Where the thing to be inferred is known through other means of proof also, any q
 सर्व एवाविशेषेण प्रसज्यन्ते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the case under discussion, however,  
 the thing to be inferred is something not guaranteed by any other means of proof,  
@@ -1159,7 +1159,7 @@ here there is nothing to interfere with the ascription to such a person of all t
 निवर्तक-प्रमाणाभावात् तथैवावतिष्ठन्ते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 as there is no preventing means of proof, they remain as they are.
 </details>
@@ -1169,7 +1169,7 @@ as there is no preventing means of proof, they remain as they are.
 निवर्तकप्रमाणाभावात्तथैवावतिष्ठन्ते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तु शब्दाभिप्रेतं वैषम्यम् आह निवर्तकेति ।
 </details>
@@ -1182,7 +1182,7 @@ as there is no preventing means of proof, they remain as they are.
 अत आगमाद् ऋते कथम् ईश्वरस् सेत्स्यति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The conclusion from all this is that, apart from Scripture, the existence of a Lord does not admit of proof.
 </details>
@@ -1208,7 +1208,7 @@ The conclusion from all this is that, apart from Scripture, the existence of a L
 सावयवत्वाद् एव जगतः कार्यत्वं न प्रत्याख्यातुं शक्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Against all this the Pūrvapakshin now restates his case as follows:--It cannot be gainsaid that the world is something effected, for it is made up of parts.
 </details>
@@ -1230,7 +1230,7 @@ Against all this the Pūrvapakshin now restates his case as follows:--It cannot 
 भवन्ति च प्रयोगाः-
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We may state this argument in various technical forms.
 </details>
@@ -1252,7 +1252,7 @@ We may state this argument in various technical forms.
 1\. विवादाध्यासितं भू-भूधरादि कार्यं, सावयवत्वात्, घटादि-वत्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'The earth, mountains, &c., are things effected, because they consist of parts; in the same way as jars and similar things.'
 </details>
@@ -1275,7 +1275,7 @@ We may state this argument in various technical forms.
 महत्त्वे सति क्रियावत्त्वात्, घट-वत्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'The earth, seas, mountains, &c., are effects, because, while being big; (i.e. non-atomic), they are capable of motion; just as jars and the like.'
 </details>
@@ -1300,7 +1300,7 @@ We may state this argument in various technical forms.
 महत्त्वे सति मूर्तत्वात्, घट-वत् – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'Bodies, the world, &c., are effects, because, while being big, they are solid (mūrtta); just as jars and the like.'
 </details>
@@ -1343,7 +1343,7 @@ We may state this argument in various technical forms.
 सावयवत्वातिरेकि रूपान्तरं नोपलभामहे।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But, an objection is raised,  
 
@@ -1372,7 +1372,7 @@ so as to enable us to say 'this thing is effected, and that thing is not';
 इति चेन् न; 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and, on the other hand, we do observe it as an indispensable condition of something being an effect, that there should be the possibility of such an effect being brought about, and of the existence of such knowledge of material causes, &c. (as the bringing about of the effect presupposes).--
 
@@ -1404,7 +1404,7 @@ Not so, we reply.
 न कश्चिद् विशेषः +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the case of a cause being inferred on the ground of an effect, the knowledge and power of the cause must be inferred in accordance with the nature of the effect.
 </details>
@@ -1433,7 +1433,7 @@ In the case of a cause being inferred on the ground of an effect, the knowledge 
 तदानीम् एव कर्तुः तज्-ज्ञान-शक्ति-वैचित्र्यम् अनुमिनोति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 A person recognises pots, jars and the like, as things produced, and therefrom infers the constructive skill and knowledge of their maker; when, after this, he sees for the first time a kingly palace with all its various wonderful parts and structures, he concludes from the special way in which the parts are joined that this also is an effected thing, and then makes an inference as to the architect's manifold knowledge and skill.
 </details>
@@ -1456,7 +1456,7 @@ A person recognises pots, jars and the like, as things produced, and therefrom i
 सर्व-साक्षात्कार-तन्-निर्माणादि-निपुणः कश्चित् पुरुष-विशेषः सिद्ध्यत्य् एव॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Analogously, when a living body and the world have once been recognised to be effects, we infer – as their maker – some special intelligent being, possessing direct insight into their nature and skill to construct them.
 </details>
@@ -1482,7 +1482,7 @@ Analogously, when a living body and the world have once been recognised to be ef
 सर्व-कर्मानुगुण-- सर्व-फल-प्रदान-चतुरः कश्चिद् आस्थेयः —
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Pleasure and pain, moreover, by which men are requited for their merit and demerit, are themselves of a non-intelligent nature, and hence cannot bring about their results unless they are controlled by an intelligent principle, and this also compels us to assume a being capable of allotting to each individual soul a fate corresponding to its deserts.
 </details>
@@ -1505,7 +1505,7 @@ Pleasure and pain, moreover, by which men are requited for their merit and demer
 यूपादि-निर्माण-साधनत्वादर्शनात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For we do not observe that non-intelligent implements, such as axes and the like, however much they may be favoured by circumstances of time, place, and so on, are capable of producing posts and pillars unless they be handled by a carpenter.
 </details>
@@ -1533,7 +1533,7 @@ For we do not observe that non-intelligent implements, such as axes and the like
 श्रोत्रिय-वेतालानाम् अनभिज्ञता-विजृम्भितम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And to quote against the generalization on which we rely the instance of the seed and sprout and the like can only spring from an ignorance and stupidity which may be called truly demoniac.
 </details>
@@ -1556,7 +1556,7 @@ And to quote against the generalization on which we rely the instance of the see
 तत एव सुखादिभिर् व्यभिचार-वचनम् अपि तथैव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The same remark would apply to pleasure and pain if used as a counter instance. (For in all these cases the action which produces an effect must necessarily be guided by an intelligent principle.)
 </details>
@@ -1582,7 +1582,7 @@ The same remark would apply to pleasure and pain if used as a counter instance. 
 तेषां सूक्ष्म-व्यवहित-विप्रकृष्ट-दर्शनाशक्ति-निश्चयात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor may we assume, as a 'less complicated hypothesis,' that the guiding principle in the construction of the world is the individual souls, whose existence is acknowledged by both parties. For on the testimony of observation we must deny to those souls the power of seeing what is extremely subtle or remote in time or place (while such power must necessarily be ascribed to a world-constructing intelligence).
 </details>
@@ -1604,7 +1604,7 @@ Nor may we assume, as a 'less complicated hypothesis,' that the guiding principl
 दर्शनानुगुणैव हि सर्वत्र-कल्पना।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For our hypotheses must always be guided by observation.
 </details>
@@ -1626,7 +1626,7 @@ For our hypotheses must always be guided by observation.
 न च क्षेत्रज्ञवद् ईश्वरस्याशक्ति-निश्चयो ऽस्ति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 On the other hand, we have no ground for concluding that the Lord is, like the individual souls, destitute of such power; hence it cannot be said that other means of knowledge make it impossible to infer such a Lord.
 </details>
@@ -1648,7 +1648,7 @@ On the other hand, we have no ground for concluding that the Lord is, like the i
 अतः प्रमाणान्तरतो न तत्-सिद्ध्य्-अनुपपत्तिः ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The fact rather is that as his existence is proved by the argument that any definite effect presupposes a causal agent competent to produce that effect,
 </details>
@@ -1671,7 +1671,7 @@ The fact rather is that as his existence is proved by the argument that any defi
 स्वाभाविक-सर्वार्थ-साक्षात्कार-- -तन्-नियमन-शक्ति-सम्पन्न एव सिद्ध्यति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 he is proved at the same time as possessing the essential power of intuitively knowing and ruling all things in the universe.
 </details>
@@ -1699,7 +1699,7 @@ he is proved at the same time as possessing the essential power of intuitively k
 लिङ्गिन्य् अप्राप्तेः॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The contention that from the world being an effect it follows that its maker does not possess lordly power and so on, so that the proving reason would prove something contrary to the special attributes (belonging to a supreme agent, viz. omnipotence, omniscience, &c.), is founded on evident ignorance of the nature of the inferential process. For the inference clearly does not prove that there exist in the thing inferred all the attributes belonging to the proving collateral instances, including even those attributes which stand in no causal relation to the effect.
 </details>
@@ -1723,7 +1723,7 @@ The contention that from the world being an effect it follows that its maker doe
 स्वोत्पत्तये कर्तुः स्वनिर्माण-सामर्थ्यं स्वोपादानोपकरण-ज्ञानं चापेक्षते;  
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 A certain effect which is produced by some agent presupposes just so much power and knowledge on the part of that agent as is requisite for the production of the effect, but in no way presupposes any incapability or ignorance on the part of that agent with regard to things other than the particular effect; for such incapability and ignorance do not stand towards that effect in any causal relation.
 </details>
@@ -1753,7 +1753,7 @@ A certain effect which is produced by some agent presupposes just so much power 
 – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If the origination of the effect can be accounted for on the basis of the agent's capability of bringing it about, and of his knowledge of the special material and instrumental causes, it would be unreasonable to ascribe causal agency to his (altogether irrelevant) incapabilities and ignorance with regard to other things, only because those incapabilities, &c., are observed to exist together with his special capability and knowledge.
 </details>
@@ -1777,7 +1777,7 @@ If the origination of the effect can be accounted for on the basis of the agent'
 उत कतिपय-विषयम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The question would arise moreover whether such want of capability and knowledge (with regard to things other than the one actually effected) would be helpful towards the bringing about of that one effect, in so far as extending to all other things or to some other things.
 </details>
@@ -1801,7 +1801,7 @@ The question would arise moreover whether such want of capability and knowledge 
 क्रियमाण-व्यतिरिक्तं किम् अपि न जानाति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The former alternative is excluded because no agent, a potter e.g., is quite ignorant of all other things but his own special work;
 </details>
@@ -1825,7 +1825,7 @@ The former alternative is excluded because no agent, a potter e.g., is quite ign
 सर्वेषाम् अज्ञानादीनां व्यभिचारात् +++(यथा भवन-निर्माणज्ञे कुम्भकारे कस्मिंश्चन)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and the second alternative is inadmissible because there is no definite rule indicating that there should be certain definite kinds of want of knowledge and skill in the case of all agents [fn_27], and hence exceptions would arise with regard to every special case of want of knowledge and skill.
 </details>
@@ -1854,7 +1854,7 @@ and the second alternative is inadmissible because there is no definite rule ind
 न विपरीत-साधनत्वम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 From this it follows that the absence of lordly power and similar qualities which (indeed is observed in the case of ordinary agents but) in no way contributes towards the production of the effects (to which such agents give rise) is not proved in the case of that which we wish to prove (i.e. a Lord, creator of the world), and that hence Inference does not establish qualities contrary (to the qualities characteristic of a Lord).
 </details>
@@ -1881,7 +1881,7 @@ From this it follows that the absence of lordly power and similar qualities whic
 सङ्कल्प-मात्रेणैव पर-शरीर-गत-- भूत-वेताल-गरलाद्य्-- अपगम-विनाश-दर्शनात्।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 A further objection will perhaps be raised, viz. that as experience teaches that potters and so on direct their implements through the mediation of their own bodies, we are not justified in holding that a bodiless Supreme Lord directs the material and instrumental causes of the universe.--But in reply to this we appeal to the fact of experience, that evil demons possessing men's bodies, and also venom, are driven or drawn out of those bodies by mere will power.
 </details>
@@ -1906,7 +1906,7 @@ A further objection will perhaps be raised, viz. that as experience teaches that
 शरीरस्य सङ्कल्प-हेतुत्वाभावात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor must you ask in what way the volition of a bodiless Lord can put other bodies in motion; for volition is not dependent on a body.
 </details>
@@ -1928,7 +1928,7 @@ Nor must you ask in what way the volition of a bodiless Lord can put other bodie
 मन एव हि सङ्कल्प-हेतुः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The cause of volitions is not the body but the internal organ (manas),
 </details>
@@ -1948,7 +1948,7 @@ The cause of volitions is not the body but the internal organ (manas),
 कार्यत्वेनैव ज्ञान-शक्तिवन् मनसो ऽपि प्राप्तत्वात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and such an organ we ascribe to the Lord also, since what proves the presence of an internal organ endowed with power and knowledge is just the presence of effects.
 </details>
@@ -1975,7 +1975,7 @@ and such an organ we ascribe to the Lord also, since what proves the presence of
 देहापगमे ऽपि मनसस् सद्भावेनानैकान्त्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But volitions, even if directly springing from the internal organ, can belong to embodied beings only, such only possessing internal organs!--This objection also is founded on a mistaken generalization: the fact rather is that the internal organ is permanent, and exists also in separation from the body.
 </details>
@@ -2002,7 +2002,7 @@ But volitions, even if directly springing from the internal organ, can belong to
 ऽनुमानेनैव सिद्ध्यति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The conclusion, therefore, is that – as the individual souls with their limited capacities and knowledge, and their dependence on merit and demerit, are incapable of giving rise to things so variously and wonderfully made as worlds and animated bodies are – inference directly leads us to the theory that there is a supreme intelligent agent, called the Lord, who possesses unfathomable, unlimited powers and wisdom, is capable of constructing the entire world, is without a body, and through his mere volition brings about the infinite expanse of this entire universe so variously and wonderfully planned.
 </details>
@@ -2025,7 +2025,7 @@ The conclusion, therefore, is that – as the individual souls with their limite
 नैतद् +++(→"जन्माद्य् अस्य यत")+++ वाक्यं ब्रह्म प्रतिपादयति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 As Brahman may thus be ascertained by means of knowledge other than revelation, the text quoted under the preceding Sūtra cannot be taken to convey instruction as to Brahman.
 </details>
@@ -2051,7 +2051,7 @@ As Brahman may thus be ascertained by means of knowledge other than revelation, 
 कृत्स्नस्य जगतो निमित्तम् उपादानं च प्रतिपादयितुं शक्नोतीति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Since, moreover, experience demonstrates that material and instrumental causes always are things absolutely distinct from each other, as e.g. the clay and the potter with his implements; and since, further, there are substances not made up of parts, as e.g. ether, which therefore cannot be viewed as effects; we must object on these grounds also to any attempt to represent the one Brahman as the universal material and instrumental cause of the entire world.
 </details>
@@ -2077,7 +2077,7 @@ Since, moreover, experience demonstrates that material and instrumental causes a
 जन्मादि-वाक्यं बोधयत्य् एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Against all this we now argue as follows:--The Vedānta-text declaring the origination, &c., of the world does teach that there is a Brahman possessing the characteristics mentioned;
 </details>
@@ -2099,7 +2099,7 @@ Against all this we now argue as follows:--The Vedānta-text declaring the origi
 कुतः? शास्त्रैक-प्रमाणकत्वाद् ब्रह्मणः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 since Scripture alone is a means for the knowledge of Brahman.
 </details>
@@ -2132,7 +2132,7 @@ since Scripture alone is a means for the knowledge of Brahman.
 – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That the world is an effected thing because it consists of parts; and that, as all effects are observed to have for their antecedents certain appropriate agents competent to produce them, we must infer a causal agent competent to plan and construct the universe, and standing towards it in the relation of material and operative cause –
 </details>
@@ -2157,7 +2157,7 @@ That the world is an effected thing because it consists of parts; and that, as a
 इत्य् अत्र प्रमाणाभावात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 this would be a conclusion altogether unjustified. There is no proof to show that the earth, oceans, &c., although things produced, were created at one time by one creator.
 </details>
@@ -2181,7 +2181,7 @@ this would be a conclusion altogether unjustified. There is no proof to show tha
 येनैकदैवैकः कर्ता स्यात्।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be pleaded in favour of such a conclusion that all those things have one uniform character of being effects, and thus are analogous to one single jar;
 </details>
@@ -2205,7 +2205,7 @@ Nor can it be pleaded in favour of such a conclusion that all those things have 
 कर्तृ-कालैक्य-नियमादर्शनात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for we observe that various effects are distinguished by difference of time of production, and difference of producers.
 </details>
@@ -2238,7 +2238,7 @@ for we observe that various effects are distinguished by difference of time of p
 तद्-अतिरिक्तात्यन्तादृष्ट-पुरुष-कल्पनानुपपत्तेः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor again may you maintain the oneness of the creator on the ground that individual souls are incapable of the creation of this wonderful universe, and that if an additional principle be assumed to account for the world – which manifestly is a product – it would be illegitimate to assume more than one such principle. For we observe that individual beings acquire more and more extraordinary powers in consequence of an increase of religious merit; and as we may assume that through an eventual supreme degree of merit they may in the end qualify themselves for producing quite extraordinary effects, we have no right to assume a highest soul of infinite merit, different from all individual souls.
 </details>
@@ -2261,7 +2261,7 @@ Nor again may you maintain the oneness of the creator on the ground that individ
 अदर्शनात्, क्रमेणैव उत्पत्ति-विनाश-दर्शनाच् च …
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor also can it be proved that all things are destroyed and produced all at once; for no such thing is observed to take place, while it is, on the other hand, observed that things are produced and destroyed in succession;
 </details>
@@ -2284,7 +2284,7 @@ Nor also can it be proved that all things are destroyed and produced all at once
 दर्शनानुगुण्येन कल्पनायां विरोधाभावाच् च।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and if we infer that all things are produced and destroyed because they are effects, there is no reason why this production and destruction should not take place in a way agreeing with ordinary experience.
 </details>
@@ -2309,7 +2309,7 @@ and if we infer that all things are produced and destroyed because they are effe
 कार्यत्वस्य +++(हेतोर्)+++ अनैकान्त्यम्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If, therefore, what it is desired to prove is the agency of one intelligent being, we are met by the difficulty that the proving reason (viz. the circumstance of something being an effect) is not invariably connected with what it is desired to prove;
 </details>
@@ -2331,7 +2331,7 @@ If, therefore, what it is desired to prove is the agency of one intelligent bein
 +++(कार्यत्व-ग्रहणे)+++ पक्षस्याप्रसिद्ध-विशेषणत्वम्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 there, further, is the fault of qualities not met with in experience being attributed to the subject about which something has to be proved;
 </details>
@@ -2351,7 +2351,7 @@ there, further, is the fault of qualities not met with in experience being attri
 सर्व-निर्माण-चतुरस्य एकस्य अप्रसिद्धेः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and lastly there is the fault of the proving collateral instances being destitute of what has to be proved – for experience does not exhibit to us one agent capable of producing everything.
 </details>
@@ -2370,7 +2370,7 @@ and lastly there is the fault of the proving collateral instances being destitut
 बुद्धिमत्-कर्तृकत्व-मात्रे साध्ये सिद्ध-साधनता॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, what you wish to prove is merely the existence of an intelligent creative agent, you prove only what is proved already (not contested by any one).--
 </details>
@@ -2396,7 +2396,7 @@ If, on the other hand, what you wish to prove is merely the existence of an inte
 उत क्रमेण उत्पद्यमान-सर्व-वस्तु-गतम्?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, if you use the attribute of being an effect (which belongs to the totality of things) as a means to prove the existence of one omniscient and omnipotent creator, do you view this attribute as belonging to all things in so far as produced together,
 or in so far as produced in succession?
@@ -2421,7 +2421,7 @@ or in so far as produced in succession?
 कार्यत्वस्य असिद्धता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the former case the attribute of being an effect is not established (for experience does not show that all things are produced together);
 </details>
@@ -2443,7 +2443,7 @@ In the former case the attribute of being an effect is not established (for expe
 क्रमेण उत्पद्यमान-सर्व-वस्तु-गतत्वे अनेक-कर्तृकत्व-साधनाद् विरुद्धता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and in the latter case the attribute would really prove what is contrary to the hypothesis of one creator (for experience shows that things produced in succession have different causes).
 </details>
@@ -2467,7 +2467,7 @@ and in the latter case the attribute would really prove what is contrary to the 
 "कुम्भकारो जायते", "रथकारो जायते" इत्य्-आदि-श्रवणात्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In attempting to prove the agency of one intelligent creative being only, we thus enter into conflict with Perception and Inference, and we moreover contradict Scripture, which says that 'the potter is born' and 'the cartwright is born' (and thus declares a plurality of intelligent agents).
 </details>
@@ -2493,7 +2493,7 @@ In attempting to prove the agency of one intelligent creative being only, we thu
 सत्त्वादि-मूलत्वम् अवश्याश्रयणीयम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, as we observe that all effected things, such as living bodies and so on, are connected with pleasure and the like, which are the effects of sattva (goodness) and the other primary constituents of matter, we must conclude that effected things have sattva and so on for their causes.
 </details>
@@ -2515,7 +2515,7 @@ Moreover, as we observe that all effected things, such as living bodies and so o
 कार्य-वैचित्र्य-हेतु-भूताः कारण-गता विशेषास् सत्त्वादयः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Sattva and so on – which constitute the distinctive elements of the causal substance – are the causes of the various nature of the effects.
 </details>
@@ -2538,7 +2538,7 @@ Sattva and so on – which constitute the distinctive elements of the causal sub
 तद्-युक्त-पुरुषान्तः-करण-विकार-द्वारेण।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now those effects can be connected with their causes only in so far as the internal organ of a person possessing sattva and so on undergoes modifications.
 </details>
@@ -2565,7 +2565,7 @@ Now those effects can be connected with their causes only in so far as the inter
 ज्ञान-शक्ति-वैचित्र्यस्य च कर्म-मूलत्वात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And that a person possesses those qualities is due to karman. Thus, in order to account for the origination of different effects we must necessarily assume the connexion of an intelligent agent with karman, whereby alone he can become the cause of effects; and moreover the various character of knowledge and power (which the various effects presuppose) has its reason in karman.
 </details>
@@ -2589,7 +2589,7 @@ And that a person possesses those qualities is due to karman. Thus, in order to 
 कर्म-सम्बन्धो ऽवर्जनीयः ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And if it be said that it is (not the various knowledge, &c., but) the mere wish of the agent that causes the origination of effects, we point out that the wish, as being specialised by its particular object, must be based on sattva and so on, and hence is necessarily connected with karman.
 </details>
@@ -2613,7 +2613,7 @@ And if it be said that it is (not the various knowledge, &c., but) the mere wish
 न तद्-विलक्षणः कश्चिद् अनुमानात् सिद्ध्यति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 From all this it follows that individual souls only can be causal agents: no legitimate inference leads to a Lord different from them in nature.--
 </details>
@@ -2635,7 +2635,7 @@ From all this it follows that individual souls only can be causal agents: no leg
 भवन्ति च प्रयोगाः –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This admits of various expressions in technical form.
 </details>
@@ -2658,7 +2658,7 @@ This admits of various expressions in technical form.
 कार्यत्वात्, घट-वत् ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'Bodies, worlds, &c., are effects due to the causal energy of individual souls, just as pots are';
 </details>
@@ -2681,7 +2681,7 @@ This admits of various expressions in technical form.
 प्रयोजन-शून्यत्वात्, मुक्तात्मवत्। +++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'the Lord is not a causal agent, because he has no aims; just as the released souls have none';
 </details>
@@ -2701,7 +2701,7 @@ This admits of various expressions in technical form.
 अ-शरीरत्वात्, +++(मुक्तात्म→)+++तद्वद्  एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'the Lord is not an agent, because he has no body; just as the released souls have none.'
 </details>
@@ -2721,7 +2721,7 @@ This admits of various expressions in technical form.
 तत्राप्य् अनादेस् सूक्ष्म-शरीरस्य सद्-भावात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 (This last argumentation cannot be objected to on the ground that individual souls take possession of bodies; for in their case there exists a beginningless subtle body by means of which they enter into gross bodies).--
 </details>
@@ -2744,7 +2744,7 @@ This admits of various expressions in technical form.
 कालत्वाद्, वर्तमान-काल-वत् इति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'Time is never devoid of created worlds; because it is time, just like the present time (which has its created world).'
 </details>
@@ -2770,7 +2770,7 @@ This admits of various expressions in technical form.
 किम् ईश्वरस् सशरीरो ऽशरीरो वा कार्यं करोति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Consider the following point also. Does the Lord produce his effects, with his body or apart from his body?
 </details>
@@ -2792,7 +2792,7 @@ Consider the following point also. Does the Lord produce his effects, with his b
 न तावद् अ-शरीरः अशरीरस्य कर्तृत्वानुपलब्धेः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Not the latter; for we do not observe causal agency on the part of any bodiless being:
 </details>
@@ -2817,7 +2817,7 @@ Not the latter; for we do not observe causal agency on the part of any bodiless 
 अ-शरीरेषु मुक्तेषु तत्-कार्यादर्शनात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 even the activities of the internal organ are found only in beings having a body, and although the internal organ be eternal we do not know of its producing any effects in the case of released disembodied souls.
 </details>
@@ -2840,7 +2840,7 @@ even the activities of the internal organ are found only in beings having a body
 नापि स-शरीरः +++(जगत्-कर्ता)+++, विकल्पासहत्वात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor again is the former alternative admissible; for in that case the Lord's body would either be permanent or non-permanent.
 </details>
@@ -2862,7 +2862,7 @@ Nor again is the former alternative admissible; for in that case the Lord's body
 तच्-छरीरं किं नित्यम्? उतानित्यम्?।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The former alternative would imply that something made up of parts is eternal;
 </details>
@@ -2887,7 +2887,7 @@ The former alternative would imply that something made up of parts is eternal;
 जगतो ऽपि नित्यत्वाविरोधाद् ईश्वरासिद्धेः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and if we once admit this we may as well admit that the world itself is eternal, and then there is no reason to infer a Lord.
 </details>
@@ -2911,7 +2911,7 @@ and if we once admit this we may as well admit that the world itself is eternal,
 तद्-व्यतिरिक्तस्य तच्-छरीर-हेतोस् तदानीम् अभावात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And the latter alternative is inadmissible because in that case there would be no cause of the body, different from it (which would account for the origination of the body).
 </details>
@@ -2935,7 +2935,7 @@ And the latter alternative is inadmissible because in that case there would be n
 इति चेन् न, अशरीरस्य तद्-अयोगात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor could the Lord himself be assumed as the cause of the body, since a bodiless being cannot be the cause of a body.
 </details>
@@ -2957,7 +2957,7 @@ Nor could the Lord himself be assumed as the cause of the body, since a bodiless
 "अन्येन शरीरेण सशरीर" इति चेन् न, अनवस्थानात्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor could it be maintained that the Lord can be assumed to be 'embodied' by means of some other body; for this leads us into a _regressus in infinitum._--
 </details>
@@ -2981,7 +2981,7 @@ Nor could it be maintained that the Lord can be assumed to be 'embodied' by mean
 स किं सव्यापारो निर्व्यापारो वा?।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Should we, moreover, represent to ourselves the Lord (when productive) as engaged in effort or not?--
 </details>
@@ -3003,7 +3003,7 @@ Should we, moreover, represent to ourselves the Lord (when productive) as engage
 अ-शरीरत्वाद् एव न सव्यापारः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The former is inadmissible, because he is without a body.
 </details>
@@ -3025,7 +3025,7 @@ The former is inadmissible, because he is without a body.
 नापि निर्व्यापारः कार्यं करोति, मुक्तात्मवत्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And the latter alternative is excluded because a being not making an effort does not produce effects.
 </details>
@@ -3048,7 +3048,7 @@ And the latter alternative is excluded because a being not making an effort does
 दृष्टान्तस्य च साध्य-हीनता ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And if it be said that the effect, i.e. the world, has for its causal agent one whose activity consists in mere desire, this would be to ascribe to the subject of the conclusion (i.e. the world) qualities not known from experience; and moreover the attribute to be proved would be absent in the case of the proving instances (such as jars, &c., which are not the work of agents engaged in mere wishing).
 </details>
@@ -3074,7 +3074,7 @@ And if it be said that the effect, i.e. the world, has for its causal agent one 
 शास्त्रैक-प्रमाणकः परब्रह्म-भूतस् सर्वेश्वरः पुरुषोत्तमः॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Thus the inference of a creative Lord which claims to be in agreement with observation is refuted by reasoning which itself is in agreement with observation, and we hence conclude that Scripture is the only source of knowledge with regard to a supreme soul that is the Lord of all and constitutes the highest Brahman.
 </details>
@@ -3104,7 +3104,7 @@ Thus the inference of a creative Lord which claims to be in agreement with obser
 न प्रमाणान्तरावसित-वस्तु-साधर्म्य- -प्रयुक्त-दोष-गन्ध-प्रसङ्गः ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 What Scripture tells us of is a being which comprehends within itself infinite, altogether unsurpassable excellences such as omnipotence and so on, is antagonistic to all evil, and totally different in character from whatever is cognised by the other means of knowledge: that to such a being there should attach even the slightest imperfection due to its similarity in nature to the things known by the ordinary means of knowledge, is thus altogether excluded.--
 </details>
@@ -3140,7 +3140,7 @@ What Scripture tells us of is a being which comprehends within itself infinite, 
 इत्य्-अत्र प्रतिपादयिष्यते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Pūrvapakshin had remarked that the oneness of the instrumental and the material cause is neither matter of observation nor capable of proof, and that the same holds good with regard to the theory that certain non-composite substances such as ether are created things; that these points also are in no way contrary to reason, we shall show later on under Sū. I, 4, 23, and Sū. II, 3, 1.
 </details>
@@ -3167,7 +3167,7 @@ The Pūrvapakshin had remarked that the oneness of the instrumental and the mate
 उक्त-लक्षणं ब्रह्म प्रतिपादयतीति सिद्धम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The conclusion meanwhile is that, since Brahman does not fall within the sphere of the other means of knowledge, and is the topic of Scripture only, the text 'from whence these creatures,' &c., _does_ give authoritative information as to a Brahman possessing the characteristic qualities so often enumerated. Here terminates the adhikaraṇa of 'Scripture being the source.'
 </details>

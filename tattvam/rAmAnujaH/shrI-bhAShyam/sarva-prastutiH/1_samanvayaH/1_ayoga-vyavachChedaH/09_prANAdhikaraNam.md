@@ -15,7 +15,7 @@ title = "०९ प्राणाधिकरणम्"
 २४. अत एव प्राणः +++(ब्रह्म)+++॥ १-१-२४॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 24\. For the same reason breath (is Brahman).
 </details>
@@ -48,7 +48,7 @@ title = "०९ प्राणाधिकरणम्"
 इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We read in the Cḥāndogya (I, 10; ii), 'Prastotr̥, that deity which belongs to the Prastāva,' &c.; and further on, 'which then is that deity? He said – Breath. For all these beings merge into breath alone, and from breath they arise. This is the deity belonging to the Prastāva. If without knowing that deity you had sung forth, your head would have fallen off.'
 </details>
@@ -58,7 +58,7 @@ We read in the Cḥāndogya (I, 10; ii), 'Prastotr̥, that deity which belongs t
 इदमाम्नायते छान्दोग्ये – प्रस्तोतर्या देवता प्रस्तावमन्वायत्ता (छा.उ.1.10.9) इति प्रस्तुत्य, कतमा सा देवतेति प्राण इति होवाच सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते सैषा देवता प्रस्तावमन्वायत्ता तां चेदविद्वान् प्रास्तोष्यो मूर्धा ते व्यपतिष्यत् (छां.१.११.४,५) इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत एव प्राणः ॥ विषयमाह इदमिति ।
 
@@ -80,7 +80,7 @@ We read in the Cḥāndogya (I, 10; ii), 'Prastotr̥, that deity which belongs t
 परस्मिन्न् एव ब्रह्मणि वर्तते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here the word 'breath,' analogously to the word 'ether' denotes the highest Brahman, which is different from what is commonly called breath;
 </details>
@@ -90,7 +90,7 @@ Here the word 'breath,' analogously to the word 'ether' denotes the highest Brah
 अत्र प्राणशब्दोऽप्याकाशशब्दवत्प्रसिद्धप्राणव्यतिरिक्ते परस्मिन्नेव ब्रह्मणि वर्तते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अक्षरार्थमाह अत्रेति ।
 
@@ -124,7 +124,7 @@ Here the word 'breath,' analogously to the word 'ether' denotes the highest Brah
 </details>
 
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 we infer this from the fact that special characteristics of Brahman, viz. the whole world's entering into and rising from it, are in that text referred to as well-known things.
 </details>
@@ -147,7 +147,7 @@ we infer this from the fact that special characteristics of Brahman, viz. the wh
 – इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 There indeed here arises a further doubt; for as it is a matter of observation that the existence, activity, &c., of the whole aggregate of creatures depend on breath, breath – in its ordinary acceptation – may be called the cause of the world.
 </details>
@@ -157,7 +157,7 @@ There indeed here arises a further doubt; for as it is a matter of observation t
 अधिकाशङ्का तु – कृत्स्नस्य भूतजातस्य प्राणाधीनस्थितिप्रवृत्त्यादिदर्शनात् प्रसिद्ध एव प्राणो जगत्कारणतया निर्देशमर्हाति – इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जगत्कारणतयेति ।
 
@@ -178,7 +178,7 @@ There indeed here arises a further doubt; for as it is a matter of observation t
 इति नोपपद्यत इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This doubt is, however, disposed of by the consideration that breath is not present in things such as stones and wood, nor in intelligence itself, and that hence of breath in the ordinary sense it cannot be said that 'all beings enter into it,' &c.
 </details>
@@ -188,7 +188,7 @@ This doubt is, however, disposed of by the consideration that breath is not pres
 परिहारस्तु – शिलाकाष्टादिषु चेतनस्वरूपे च तदभावात् सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छा.१.११.५) इति नोपपद्यत इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अधिकं परिहारं दर्शयति परिहारस्त्विति । आदिशब्दोक्त आकाशादिः ।
 
@@ -201,7 +201,7 @@ This doubt is, however, disposed of by the consideration that breath is not pres
 परं ब्रह्मैव प्राण-शब्देनाभिधीयते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We therefore conclude that Brahman is here called 'breath' in so far as he bestows the breath of life on all beings.
 </details>
@@ -211,7 +211,7 @@ We therefore conclude that Brahman is here called 'breath' in so far as he besto
 अतः प्राणयति सर्वाणि भूतनीति कृत्वा परं ब्रह्मैव प्राणशब्देनाभिधीयते ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्राणशब्दस्य परब्रह्मवाचित्वं कथमिति शङ्कां परिहरन् अधिकरणार्थमुपसंहरति अत इति ।
 </details>
@@ -225,7 +225,7 @@ We therefore conclude that Brahman is here called 'breath' in so far as he besto
 आकाश-प्राणादि-शब्दाभिधेयम् इति सिद्धम्॥२४॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And the general result of the discussion carried on in connexion with the last two Sūtras thus is that the words 'ether' and 'breath' denote something other than what is ordinarily denoted by those terms, viz. the highest Brahman, the sole cause of this entire world, free from all evil, &c. &c.
 </details>
@@ -235,7 +235,7 @@ And the general result of the discussion carried on in connexion with the last t
 अतः प्रसिद्धाकाशप्राणादेरन्यदेव निखिलजगदेककारणापहतपाप्मत्वसार्वज्ञ्य-सत्यसङ्कल्पत्वादि अनन्तकल्याणगुणगणं परं ब्रह्मैवाकाश प्राणादिशब्दाभिधेयमिति सिद्धम्॥२४॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वृत्ताधिकरणद्वयस्य अवान्तरपेटिकात्वं दर्शयति अतः प्रसिद्धेति ॥
 
@@ -257,7 +257,7 @@ And the general result of the discussion carried on in connexion with the last t
 **इति श्रीशारीरकमीमांसाभाष्ये प्राणाधिकरणम् ॥ ९ ॥**
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of 'breath.'
 </details>

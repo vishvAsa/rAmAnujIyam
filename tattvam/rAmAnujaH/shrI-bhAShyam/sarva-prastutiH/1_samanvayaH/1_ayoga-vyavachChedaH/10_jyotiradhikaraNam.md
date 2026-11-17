@@ -19,7 +19,7 @@ title = "१० ज्योतिरधिकरणम्"
 "ज्योतिश् चरणाभिधानात्" इत्य्-आदिना
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The subsequent Sūtras up to the end of the Pāda demonstrate that the being which the texts refer to as 'Light or 'Indra' --terms which in ordinary language are applied to certain other well-known beings --, and which is represented as possessing some one or other supremely exalted quality that is invariably connected with world-creative power, is no other than the highest Brahman.
 </details>
@@ -34,7 +34,7 @@ The subsequent Sūtras up to the end of the Pāda demonstrate that the being whi
 २५. +++(ब्रह्म)+++ ज्योतिश् चरणाभिधानात् ॥ १-१-२५ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 25\. The light (is Brahman), on account of the mention of feet.
 </details>
@@ -58,7 +58,7 @@ The subsequent Sūtras up to the end of the Pāda demonstrate that the being whi
 इति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above this heaven, higher than everything, in the highest worlds beyond which there are no other worlds, that is the same light which is within man.'
 </details>
@@ -68,7 +68,7 @@ We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above th
 इदमाम्नायते छान्दोग्ये – अथ यदतः परो दिवो ज्योतिर्दीप्यते विश्वतः पृष्ठेषु सर्वतः पृष्ठेष्वनुत्तमेषूत्तमेषु लोकेष्विदं वाव तद्यदिदमस्मिन्नन्तः पुरुषे ज्योतिः (छा.३.१३.७) इति ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्योतिश्चरणाभिधानात् ॥ इदमित्यादि पृष्ठेषु- उपरितनेषु ।
 
@@ -92,7 +92,7 @@ We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above th
 इति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Here a doubt arises, viz. whether the brightly shining thing here called 'light' is the well-known light of the sun and so on, viewed as a causal universal principle (Brahman); or the all-knowing, &c., highest Person of infinite splendour, who is different in nature from all sentient and non-sentient beings, and is the highest cause.
 </details>
@@ -102,7 +102,7 @@ We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above th
 तत्र संशयः – किमयं ज्योतिश्शब्देन निर्दिष्टो निरतिशयदीप्तियुक्तोऽर्थः प्रसिद्धमादित्यादिज्योतिरेव कारणभूतं ब्रह्म, उत समस्तचिदचिद्वस्तुजातविसजातीयः परमकारणभूतोऽमितभास्सर्वज्ञः सत्यसङ्कल्पः पुरुषोत्तमः – इति ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्रेति । लोकप्रसिद्धिभूतचरणत्वाभ्यां संशयः ।
 
@@ -156,7 +156,7 @@ We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above th
 प्रसिद्धम् एव ज्योतिर् इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --The Pūrvapakshin maintains that the reference is to ordinary light.
 </details>
@@ -166,7 +166,7 @@ We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above th
 प्रसिद्धमेव ज्योतिरिति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रसिद्धमेव ज्योतिरिति ।
 
@@ -184,7 +184,7 @@ We read in the Cḥāndogya. (III, 13, 7), 'Now that light which shines above th
 जगत्-कारणं ब्रह्मेति ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For, he says, the passage does not mention a particular characteristic attribute which can belong to the highest Self only – while such attributes _were_ met with in the texts referring to Ether and Breath --, and as thus there is no opening for a recognition of the highest Self, and as at the same time the text identifies 'light' with the intestinal heat of living beings, we conclude that the text represents the well-known ordinary light as Brahman, the cause of the world – which is possible as causal agency is connected with extreme light and heat.
 </details>
@@ -194,7 +194,7 @@ For, he says, the passage does not mention a particular characteristic attribute
 कुतः प्रसिद्धवन्निर्देशेऽप्याकाशप्राणादिवत् स्ववाक्योपात्तपरमात्मव्याप्तलिङ्गविशेषादर्शनात्, परमपुरुष-प्रत्यभिज्ञानासम्भवात्, कौक्षेयज्योतिषा ऐक्योपदेशाच्च प्रसिद्धमेव ज्योतिः कारणत्वव्याप्तनिरतिशयदीप्तियोगाज्जगत्कारणं ब्रह्मेति ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं स्ववाक्येत्यादिना कौक्षेयेत्यादिना च स्ववाक्ये विरोधिलिङ्गाभावाल्पानुकूललिङ्गसद्भावौ दर्शितौ भवतः । (दीप्तिति।
 
@@ -215,7 +215,7 @@ For, he says, the passage does not mention a particular characteristic attribute
 परम-पुरुष एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --This primā facie view the Sūtra sets aside. The light which the text states to be connected with heaven and possessing supreme splendour can be the highest Person only,
 </details>
@@ -225,7 +225,7 @@ For, he says, the passage does not mention a particular characteristic attribute
 एवं प्राप्ते प्रचक्ष्महे ज्योतिश्चरणाभिधानात् – द्युसम्बन्धितया निर्दिष्टं निरतिशयदीप्तियुक्तं ज्योतिः परमपुरुष एव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं प्राप्त इति । चरणत्वेन सर्वभूताभिधानं कारणस्य जीववैलक्षण्यनिश्चायकम्; जीवमात्रस्य सर्वभूतपादवत्त्वानुपपत्तेः । तत एव पुरुषसूक्तप्रत्यभिज्ञापकतया देवताविशेषनिश्चयः । तद्द्वारा, दीप्तियोगस्य भौतिकज्योतिष्टे हेतुतापरिहारश्च भवति ॥ पुरुषसूक्तं कस्मात् सूत्रकारेण न निरूपितम् ।
 
@@ -319,7 +319,7 @@ For, he says, the passage does not mention a particular characteristic attribute
 सर्व-भूताभिधानात्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 since a preceding passage in the same section --' All the beings are one foot of it, three feet are the Immortal in heaven' --refers to all beings as being a foot of that same being which is connected with heaven.
 </details>
@@ -339,7 +339,7 @@ since a preceding passage in the same section --' All the beings are one foot of
 परम-पुरुषासाधारण-लिङ्गं नोपलभ्यते;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Although the passage, 'That light which shines above,' &c., does not mention a special attribute of the highest Person,
 </details>
@@ -349,7 +349,7 @@ Although the passage, 'That light which shines above,' &c., does not mention a s
 एतदुक्तं भवति – यद्यपि अथ यदतः परो दिवो ज्योतिः (छा.३.१३.७) इत्यस्मिन्वाक्ये परमपुरुषासाधारणलिङ्गं नोपलभ्यते;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं पूर्ववाक्ये द्युसंबन्धिनश्चरणाभिधाने सति कथमस्य वाक्यस्य परमात्मपरत्वम् ॥ एकविषयत्वादिति चेत्, कथमेकविषयत्वमित्यत्राह एतदुक्तमिति ।
 
@@ -377,7 +377,7 @@ Although the passage, 'That light which shines above,' &c., does not mention a s
 इति। +++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 yet the passage previously quoted refers to the highest Person as connected with heaven, and we therefore recognise that Person as the light connected with heaven, mentioned in the subsequent passage.
 </details>
@@ -395,7 +395,7 @@ yet the passage previously quoted refers to the highest Person as connected with
 न कश्चिद्-दोषः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor does the identification, made in a clause of the text, of light with the intestinal heat give rise to any difficulty; for that clause is meant to enjoin meditation on the highest Brahman in the form of intestinal heat, such meditation having a special result of its own.
 </details>
@@ -405,7 +405,7 @@ Nor does the identification, made in a clause of the text, of light with the int
 कौक्षेयज्योतिषैक्योपदेशश्च फलाय तदात्मकत्वानुसन्धानविधिरिति न कश्चिद्दोषः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "अन्नादो वसुदानः", "चतुर्विधा भजन्ते माम्", "सकलफलप्रदो हि विष्णुः" इत्यादिश्रुतिस्मृतिवशात् सकलफलप्रदस्य परमात्मनश्चक्षुष्यत्वादिविद्यानुगुणफलहेतुत्वमत्र युक्तमित्यभिप्रायेणाह न कश्चिद्दोष इति ।
 </details>
@@ -421,7 +421,7 @@ Nor does the identification, made in a clause of the text, of light with the int
 इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, the Lord himself declares that he constitutes the Self of the intestinal fire, 'Becoming the Vaiśvānara-fire I abide in the body of living creatures' (Bha. Gī. XV, 14).
 </details>
@@ -431,7 +431,7 @@ Moreover, the Lord himself declares that he constitutes the Self of the intestin
 कौक्षेयज्योतिषश्च तदात्मकत्वं भगवता स्वयमेवोक्तम् अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः (भ.गी.१५.१४) इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदात्मकत्वे प्रमाणं दर्शयति कौक्षेयज्योतिषश्चेति ।
 
@@ -445,7 +445,7 @@ Moreover, the Lord himself declares that he constitutes the Self of the intestin
 > २६. +++("गायत्री वा इदं सर्वम् … त्रिपाद् अस्यामृतं दिवि" इति)+++ छन्दोऽभिधानान् नेति चेन् - न तथा – +++(दृष्टि-विधेः→)+++ चेतोऽर्पण-निगमात्, तथा हि +++(छन्दो-दृष्टि-विधि-)+++दर्शनम् ॥ १-१-२६ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 26\. If it be objected that (Brahman is) not (denoted) on account of the metre being denoted; (we reply) not so, because thus the direction of the mind (on Brahman) is declared; for thus it is seen.
 </details>
@@ -455,7 +455,7 @@ Moreover, the Lord himself declares that he constitutes the Self of the intestin
 २६. छन्दोभिधानान्नेति चेन्न तथा चेतोर्पणनिगमात्तथा हि दर्शनम् ॥ १-१-२६ ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 छन्दोभिधानान्नेति चेन्न तथाचेतोर्पणनिगमात् तथा हि दर्शनम् ॥
 </details>
@@ -481,7 +481,7 @@ Moreover, the Lord himself declares that he constitutes the Self of the intestin
 इति चेत् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The previous section at first refers to the metre called Gāyatrī, 'The Gāyatrī indeed is everything' (III, 12, 1), and then introduces – with the words 'this is also declared by a _Rik_ verse' --the verse, 'Such is the greatness of it (viz. the Gāyatrī),' &c. Now, as this verse also refers to the metre, there is not any reference to the highest Person.
 </details>
@@ -491,7 +491,7 @@ The previous section at first refers to the metre called Gāyatrī, 'The Gāyatr
 पूर्वस्मिन्वाक्ये गायत्री वा इदं सर्वम् (छां.३.१२.१) इति गायत्र्याख्यं छन्दोऽभिधाय तदेतदृचाऽभ्यनूक्तम् (छा.३-१२-५) इत्युदाहृतायाः तावानस्य महिमा (छां.३.१२.६) इत्यस्या ऋचोऽपि छन्दोविषयत्वान्नात्र परमपुरुषाभिधानमिति चेत् –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सूत्रे शङ्कोपन्यासपरमंशं व्याचष्टे पूर्वस्मिन्निति ।
 
@@ -509,7 +509,7 @@ The previous section at first refers to the metre called Gāyatrī, 'The Gāyatr
 अपि तु ब्रह्मण एव गायत्री-चेतोऽर्पणम् इह निगम्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --To this objection the second part of the Sūtra replies. The word 'Gāyatrī' does not here denote the metre only, since this cannot possibly be the Self of all; but the text declares the application of the idea of Gāyatrī to Brahman,
 </details>
@@ -519,7 +519,7 @@ The previous section at first refers to the metre called Gāyatrī, 'The Gāyatr
 तन्न, तथा चेतोर्पणनिगमात् न गायत्रीशब्देन छन्दोमात्रमिहाभिधीयते, छन्दोमात्रस्य सर्वात्मकत्वानुपपत्तेः, अपि तु ब्रह्मण एव गायत्रीचेतोर्पणमिह निगम्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तथाचेतोर्पणनिगमादिति स्वाभिमतनिर्वाहं वदता सूत्रकारेणाभिप्रेतां छन्दोमात्रपरत्वानुपपत्तिमाह न गायत्रीति ।
 
@@ -534,7 +534,7 @@ The previous section at first refers to the metre called Gāyatrī, 'The Gāyatr
 इत्य् अर्थः ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 i.e. teaches, to the end of a certain result being obtained, meditation on Brahman in so far as similar to Gāyatrī.
 </details>
@@ -556,7 +556,7 @@ i.e. teaches, to the end of a certain result being obtained, meditation on Brahm
 चतुष्-पदया गायत्र्या च सादृश्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For Brahman having four feet, in the sense indicated by the _rik_,
 may be compared to the Gāyatrī with its four (metrical) feet.
@@ -568,7 +568,7 @@ may be compared to the Gāyatrī with its four (metrical) feet.
 त्रिपादस्यामृतं दिवि (छा.३.१२.६) इति चतुष्पदो ब्रह्मणश्चतुष्पदया गायत्र्या च सादृश्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु गायत्र्यां ब्रह्मदृष्टिरिति दृष्टिविशेषणभूतब्रह्मणः चरणाभिधानोपपत्तिरिति चेन्न; "मनो ब्रह्म" इतिवत् दृष्टिविशेषणभूतब्रह्मवाचिपदसामानाधिकरण्याभावात् ।
 
@@ -604,7 +604,7 @@ may be compared to the Gāyatrī with its four (metrical) feet.
 चतुष्पदा च गायत्री क्वचिद् दृश्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Gāyatrī (indeed has as a rule three feet, but) occasionally a Gāyatrī with four feet is met with;
 </details>
@@ -626,7 +626,7 @@ The Gāyatrī (indeed has as a rule three feet, but) occasionally a Gāyatrī wi
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 so, e.g., 'Indraś śacīpatiḥ |
 valena pīḍitaḥ |
@@ -649,7 +649,7 @@ samitsu sāsahiḥ.'
 छन्दोऽभिधायी शब्दो ऽर्थान्तरे प्रयुज्यमानो दृश्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We see that in other passages also words primarily denoting metres are employed in other senses;
 </details>
@@ -659,7 +659,7 @@ We see that in other passages also words primarily denoting metres are employed 
 तथा ह्यन्यत्रापि सादृश्याच्छन्दोभिधायी शब्दोऽर्थान्तरे प्रयुज्यमानो दृश्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 गायत्रीशब्दस्य मुख्यार्थाविवक्षा कथमिति शङ्कायाम्, तथा हि दर्शनम् इति सूत्रखण्डं व्याचष्टे तथा ह्यन्यत्रापीत्यादिना । वाय्वन्निसूर्यचन्द्रसलिलानि प्राणवाक्यचक्षुःश्रोमिनांसि च दशसङ्खयत्वाद्विराट् ।
 
@@ -687,7 +687,7 @@ We see that in other passages also words primarily denoting metres are employed 
 इत्य् उच्यते॥ २६॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 thus, e.g., in the saṁvargavidyā (Cḥ. Up. IV, 3, 8), where Virāj (the name of a metre of ten syllables) denotes a group of ten divine beings.
 </details>
@@ -697,7 +697,7 @@ thus, e.g., in the saṁvargavidyā (Cḥ. Up. IV, 3, 8), where Virāj (the name
 यथा संवर्गविद्यायां ते वा एते पञ्चान्ये पञ्चान्ये दश सम्पद्यन्त इत्यारभ्य सैषा विराडन्नात् (छा.४.३.८) इत्युच्यते॥ २६॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 भूतादिपादव्यपदेशोपपत्तेश्चैवम् ॥ पूर्वस्मिन् सूत्रे "पादोऽस्य" इति मन्त्रोक्तसर्वात्मकत्वानुपपत्तिरुक्ता; अत्र तु "गायत्री वा" इत्यादिब्राह्मणोक्तचतुष्पात्त्वानुपपत्तिरुच्यते । भूतम् आत्मवर्गः । पृथिवी अयं लोकः, कर्मार्जनभोगस्थानम् । तदुपकरणं शरीरम् । हृदयम् आत्मनः स्थित्यनुगुणः प्रदेशविशेषः । एवमुपक्रमस्यैव परमात्मपरत्वं दर्शितम् ।
 
@@ -741,7 +741,7 @@ thus, e.g., in the saṁvargavidyā (Cḥ. Up. IV, 3, 8), where Virāj (the name
 इतश् च गायत्री-शब्देन ब्रह्मैवाभिधीयते –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For this conclusion the next Sūtra supplies a further argument.
 </details>
@@ -756,7 +756,7 @@ For this conclusion the next Sūtra supplies a further argument.
 २७. भूतादि+++(→पृथिवी-शरीर-हृदयानि)+++--पाद-व्यपदेशोपपत्तेश् चैवम् ॥ १-१-२७ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 27\. And thus also, because (thus only) the designation of the beings, and so on, being the (four) feet is possible.
 </details>
@@ -777,7 +777,7 @@ For this conclusion the next Sūtra supplies a further argument.
 ब्रह्मण्य् एव गायत्री-शब्दाभिधेय उपपद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The text, moreover, designates the Gāyatrī as having four feet, after having referred to the beings, the earth, the body, and the heart; now this has a sense only if it is Brahman, which here is called Gāyatrī.
 </details>
@@ -787,7 +787,7 @@ The text, moreover, designates the Gāyatrī as having four feet, after having r
 भूतपृथिवीशरीरहृदयानि निर्दिश्य सैषा चतुष्पदा (छा.३.१२.५) इति व्यपदेशो ब्रह्मण्येव गायत्रीशब्दाभिधेय उपपद्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 या सर्वभूतरूपैकपादा गायत्री- गायत्र्याख्यं ब्रह्म, तदेव पृथिवीत्यर्थः ।
 
@@ -824,7 +824,7 @@ The text, moreover, designates the Gāyatrī as having four feet, after having r
 उभयस्मिन्न् अप्य् अ-विरोधात् +++("वृक्षाग्रे श्येनो, वृक्षाद् उपरी"तिवत्)+++॥ १-१-२८ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 28\. If it be said that (Brahman is) not (recognised) on account of the difference of designation; (we say) not so, on account of there being no contradiction in either (designation).
 </details>
@@ -853,7 +853,7 @@ The text, moreover, designates the Gāyatrī as having four feet, after having r
 अर्थ-स्वभावैक्येन प्रत्यभिज्ञाया अ-विरोधात्;
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In the former passage, 'three feet of it are what is immortal in heaven,' heaven is referred to as the abode of the being under discussion; while in the latter passage, 'that light which shines above this heaven,' heaven is mentioned as marking its boundary. Owing to this discrepancy, the Brahman referred to in the former text is not recognised in the latter. --This objection the Sūtra disposes of by pointing out that owing to the essential agreement of the two statements, nothing stands in the way of the required recognition.
 </details>
@@ -863,7 +863,7 @@ In the former passage, 'three feet of it are what is immortal in heaven,' heaven
 पूर्ववाक्ये त्रिपादस्यामृतं दिवि (छां.६.१२.६) इति दिवः अधिकरणत्वेन निर्देशादिह च दिवः पर इत्यवधित्वेन निर्देशादुपदेशस्य भिन्नरूपत्वेन पूर्ववाक्योक्तं ब्रह्म परस्मिन्न प्रत्यभिज्ञायत इति चेत् – तन्न, उभयस्मिन्नपि उपदेशे अर्थस्वभावैक्येन प्रत्यभिज्ञाया अविरोधात्;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदेतत् चतुष्पात् षड्िवधं च ब्रह्मेत्यर्थः ।
 
@@ -879,7 +879,7 @@ In the former passage, 'three feet of it are what is immortal in heaven,' heaven
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the top of the tree,' we mean one and the same thing.
 </details>
@@ -896,7 +896,7 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 इति प्रतिपाद्यते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --The 'light,' therefore, is nothing else but the most glorious and luminous highest Person.
 </details>
@@ -922,7 +922,7 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 अतो ज्यायांश्च पुरुषः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अतस्तावानस्य महिमेत्यनेन पृथिवीतदन्तर्गतपदार्थैश्चतुष्पात्वरूपमहिमानुवादः ।
 तावत्त्वं प्रतिषेधति- अतो ज्यायानिति ।
@@ -942,7 +942,7 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 त्रिपादस्यामृतं दिवि (यजु.आर.३.१२) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पादोऽस्येति । इहोक्तं पादचतुष्टयमेकपादस्थानीयम् । अतोऽतिरिक्ता त्रिपाद्विभूतिः ।
 
@@ -981,7 +981,7 @@ When we say, 'The hawk is on the top of the tree,' and 'the hawk is above the to
 इति प्रतिपादितस्य चतुष्पदः परम-पुरुषस्य 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Him who in the former passage is called four-footed, we know to have an extraordinarily beautiful shape and colour-
 </details>
@@ -1003,7 +1003,7 @@ Him who in the former passage is called four-footed, we know to have an extraord
 इति निरवद्यम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 (cp., e.g., 'I know that great Person of sunlike colour beyond the darkness' (Śvet.Up. III, 9) --, 
 
@@ -1015,7 +1015,7 @@ and as hence his brilliancy also must be extraordinary, he is, in the text under
 आदित्यवर्णं तमस्स्तु पारे (ते.आर.३.१२) इत्यभिहिताप्राकृतरूपस्य तेजोऽप्यप्राकृतमिति तद्वत्तया स एव ज्योतिश्शब्दाभिधेय इति निरवद्यम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं गायत्रीविद्याप्रकृतस्य सकलफलप्रदस्य द्युसंबन्धिनः परस्य ज्योतिष आभिरूप्यकीर्तिमत्त्वरूपफलविशेषार्थं कौक्षेयज्योतीरूपत्वेनोपासनविधानाय, "अथ यदतः परो दिवो ज्योतिः" इत्यादि आरभ्यते ।
 
@@ -1119,7 +1119,7 @@ and as hence his brilliancy also must be extraordinary, he is, in the text under
 **इति श्रीशारीरकमीमांसाभाष्ये ज्योतिर् अधिकरणम्॥१०॥**
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 --Here terminates the adhikaraṇa of 'light.'
 </details>
@@ -1129,7 +1129,7 @@ and as hence his brilliancy also must be extraordinary, he is, in the text under
 **इति श्रीशारीरकमीमांसाभाष्ये ज्योतिरधिकरणम्॥१०॥**
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "तेषामन्नमेव ज्योतिरासीत्" इत्यत्र ज्योतिश्शब्दः ओजश्शब्दवत् प्रवृत्तिसामर्थ्यपरः ।
 

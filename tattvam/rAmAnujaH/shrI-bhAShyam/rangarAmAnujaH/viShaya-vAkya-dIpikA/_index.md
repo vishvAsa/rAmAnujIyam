@@ -118,8 +118,9 @@ Blank line between blocks; body is `\n\n<text>\n</details>`.
    मूलम् verse; the page's verse markers are all still present, each once.
 
 Applied so far: ChAndogya 3/12 (19/19/21/18), 3/13 (14/14/6/12); Kauṣītaki
-`.../sarva-prastutiH/03.md` from `10_indraprANAdhikaraNam.md` (101/101/42/63, verses 1–67).
-Heading hoisting (`###` before प्रस्तुति, bold only mid-block) applied to all three pages.
+`.../sarva-prastutiH/03.md` from `10_indraprANAdhikaraNam.md` (101/101/42/63, verses 1–67);
+ChAndogya 3/14 from `11_sarvatraprasiddhyadhikaraNam.md` (18/18/16/16).
+Heading hoisting (`###` before प्रस्तुति, bold only mid-block) applied to all four pages.
 
 **7. Worked example of a group boundary**
 

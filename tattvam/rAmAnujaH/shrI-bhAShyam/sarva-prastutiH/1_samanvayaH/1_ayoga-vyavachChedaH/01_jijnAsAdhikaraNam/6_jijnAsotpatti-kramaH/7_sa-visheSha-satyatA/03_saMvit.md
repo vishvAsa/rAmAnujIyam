@@ -27,7 +27,7 @@ And as the distinction between consciousness and its objects – which rests jus
 अनुभूतिसद्विशेषयोश्च विषयविषयिभावेन भेदस्य प्रत्यक्षसिद्धत्वादबाधितत्वाच्च अनुभूतिरेव सतीत्येतदपि निरस्तम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्र च भेददूषणहेत्वाभासनिरासमुपजीव्यानुभूतिसतोरभेदश्च निरस्यते अनुभूतीत्यादिना ।
 
@@ -61,7 +61,7 @@ We next take up the point as to the self-luminousness of consciousness (above, p
 यत्त्वनुभूतेस्स्वयम्प्रकाशत्वमुक्तम्, तद्विषयप्रकाशनवेलायां ज्ञातुरात्मनस्तथैव;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ परोक्ते स्वयंप्रकाशत्वेऽभिमते तत्रापि शिक्षणीयांशोऽस्तीत्यभिप्रायेणाह यत्त्वनुभूतेरिति । तुः पक्षवैषम्ये ।
 
@@ -88,7 +88,7 @@ but there is no absolute rule as to all consciousness never being anything but s
 न तु सर्वेषां सर्वदा तथैवेति नियमोऽस्ति, परानुभवस्य हानोपादानादिलिङ्गकानुमानज्ञानविषयत्वात्, स्वानुभवस्याप्यतीतस्य अज्ञासिषम् इति ज्ञानविषयत्वदर्शनाच्च।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न तु सर्वेषामित्येतदुपादयति परानुभवस्येति ।
 
@@ -110,7 +110,7 @@ It cannot therefore be said 'If it is consciousness it is self-proved' (above p.
 अतोऽनुभूतिश्चेत् स्वतस्सिद्धेति वक्तुं न शक्यते॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनुभूतिश्चेदित्यनेन स्वाश्रयं प्रति विषयप्रकाशनवेलायामित्युक्तवैषम्यविरहो गर्भितः ।
 </details>
@@ -135,7 +135,7 @@ nor that consciousness if becoming an object of consciousness would no longer be
 अनुभूतेरनुभाव्यत्वे, अननुभूतित्वमित्यपि दुरुक्तम्;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवमनुभूतेरनुभाव्यत्वसम्भवमुपपाद्य तदसंभवे परोक्तमनुमानं दूषयति अनुभूतेरिति ।
 </details>
@@ -156,7 +156,7 @@ for from this it would follow that one's own past states, and the conscious stat
 स्वगतातीतानुभवानां परगतानुभवानां चानुभाव्यत्वेनाननुभूतित्वप्रसङ्गात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह स्वगतेति ।
 </details>
@@ -178,7 +178,7 @@ Moreover, unless it were admitted that there is inferential knowledge of the tho
 परानुभवानुमानानभ्युपगमे च शब्दार्थसम्बन्धग्रहणाभावेन समस्तशब्दव्यवहारोच्छेदप्रसङ्गः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परानुभावनुमेयत्वानभ्युपपगमे लौकिकव्यवहारविरोधमनिष्टमाह परेति ।
 </details>
@@ -202,7 +202,7 @@ And that approach is not possible otherwise.
 सा च नोपपद्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ वैदिकव्यवहारविरोधमाह आचार्यस्येति ।
 
@@ -224,7 +224,7 @@ The general proposition that consciousness does not admit of being an object is 
 न चान्यविषयत्वे ऽननुभूतित्वम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं बाध उक्तः; अथ व्याप्तिंदूषयति न चान्येति ।
 </details>
@@ -253,7 +253,7 @@ The essential 'nature of consciousness or knowledge – consists therein that it
 अनुभूतित्वं नाम वर्तमानदशायां स्वसत्तयैव स्वाश्रयं प्रति प्रकाशमानत्वम्, स्वसत्तयैव स्वविषयसाधनत्वं वा।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न ह्यसाधारणाकारो धर्मिग्राहकमानसिद्धिः साधारणाकारे सति अयपगच्छतीत्यभिप्रायेणानुभूतिरूपं शिक्षयति अनुभूतित्वमिति । अत्रानुभूतिशब्दो ज्ञानमात्रपरः; न तु स्मृतिविलक्षणपरः ।
 
@@ -322,7 +322,7 @@ Jars and similar things, on the other hand, do not possess consciousness, not be
 घटादेस्त्वननुभूतित्वमेतत्स्वभावविरहात्; नानुभाव्यत्वात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवमननुभाव्यत्वलक्षणसाध्यधर्मप्रतिक्षेपेक्षणानुभाव्यत्वेनानुभूतित्वस्य सामानाधिकरण्यदर्शनात् अननुभाव्यत्वेन व्याप्तिर्नराकृता; तर्हि कथमनुभाव्यत्वेऽननुभूतित्वदर्शनमिति शङ्कायां सोपाधिकत्वमाह घटादेस्त्विति ।
 
@@ -351,7 +351,7 @@ for there are things – e.g. sky-flowers – which are not objects of conscious
 गगनकुसुमादेरननुभाव्यस्य अननुभूतित्वात्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ प्रतितर्कपराहतिमाह तथानुभूतेरिति ।
 
@@ -376,7 +376,7 @@ You will perhaps reply to this that a sky-flower's not being consciousness is du
 गगनकुसुमादेरननुभूतितत्वमसत्त्वप्रयुक्तम्, नाननुभाव्यत्वप्रयुक्तम् इति चेत्,
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 गगनकुसुमादेरननुभूतित्वस्य उपाध्यन्तरसत्त्वं शङ्कते गगनेति ।
 </details>
@@ -400,7 +400,7 @@ Well then, we rejoin, let us say analogously that the reason of jars and the lik
 एवं तर्हि घटादेरप्यज्ञानाविरोधित्वमेवाननुभूतित्वनिबन्धनम्, नानुभाव्यत्वमित्यास्थीयताम् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 घटादेरननुभूतित्वस्याप्युपाध्यन्तरमज्ञानाविरोधित्वमाह एवं तर्हीति । प्रकाशनियमाभावाविरोधित्वम् अज्ञानाविरोधित्वम् । न च सुखादावभावात् साध्यसमव्याप्त्यभावः शङ्कनीयः,; सुखादेर्ज्ञानविशेषत्वेनाननुभूतित्वाभावात् ।
 </details>
@@ -425,7 +425,7 @@ But if consciousness is an object of consciousness, we conclude that it also is 
 अनुभूतेरनुभाव्यत्वे, अज्ञानाविरोधित्वमपि तस्याः घटादेरिव प्रसज्यत इति चेत्;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अज्ञानाविरोधित्वस्योपाधित्व निरासाय पक्षे तत् प्रसञ्जयति अनुभूतेरिति ।
 </details>
@@ -446,7 +446,7 @@ At this conclusion, we rejoin, you may arrive even on the opposite assumption, r
 अननुभाव्यत्वेऽपि गगनकुसुमादेरिवाज्ञानाविरोधित्वमपि प्रसज्यत एव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत् भवत्पक्षेऽपि तुल्यमित्याह अननुभाव्यत्वेऽपीति ।
 
@@ -516,7 +516,7 @@ It was further maintained by the pūrvapakshin that as consciousness is self-est
 यत्तु संविदस्स्वतस्सिद्धायाः प्रागभावाद्यभावादुत्पत्तिर्निरस्यते, तदन्धस्य जात्यन्धेन यष्टिः प्रदीयते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अन्धस्य जात्यत्धेन यष्टिः प्रदीयत इति ।
 
@@ -540,7 +540,7 @@ You have no right to maintain the non-existence of the antecedent non-existence 
 प्रागभावस्य ग्राहकाभावादभावो न शक्यते वक्तुम्; अनुभूत्यैव ग्रहणात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्र हि ग्राहकाभावात् ग्राह्याभावाच्च प्रागभावाभाव उक्तः; तमाशङ्कय ग्राहकोऽस्तीत्याह प्रागभावस्येति ।
 </details>
@@ -563,7 +563,7 @@ You have no right to maintain the non-existence of the antecedent non-existence 
 कथमनुभूतिस्सती तदानीमेव स्वाभावं विरुद्धमवगमयतीति चेत्;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्र विकल्पे पूर्वपक्षिणोक्ते, सत्येवावगमयतीति पक्षं स्थापयितुं तत्रोक्तं विरोधं शङ्कते कथमिति । तदानीमित्यभावविशेषणम्; न क्रियाविशेषणम् ।
 </details>
@@ -585,7 +585,7 @@ Consciousness, we rejoin, does not necessarily constitute as its objects only wh
 न ह्यनुभूतिस्स्वसमकालवर्तिनमेव विषयीकरोतीत्यस्ति नियमः; अतीतानागतयोरविषयत्वप्रसङ्गात्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिहरति नहीति ।
 
@@ -616,7 +616,7 @@ Or do you mean that there is an absolute rule that the antecedent non-existence 
 अथ मन्यसे अनुभूतिप्रागभावादेस्सिद्ध्यतस्तत्समकालभावनियमोऽस्तीति;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ग्राह्यविशेषपक्षं दूषयितुं शङ्कते अथ मन्यस इति ।
 </details>
@@ -637,7 +637,7 @@ Have you then, we ask, ever observed this so as to be able to assert an absolute
 किं त्वया क्वचिदेवं दृष्टम्? येन नियमं ब्रवीषि।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ग्राह्यविशेषस्य समकालवर्त्तित्वनियमोक्तिर्दर्शनपूर्विकैव स्यादित्यभिप्रायेणाह किं त्वयेति । क्कचित्- अनुभूतौ ।
 </details>
@@ -659,7 +659,7 @@ And if it were observed, that would prove the existence of previous non-existenc
 हन्त तर्हि तत एव दर्शनात् प्रागभावादिस्सिद्ध इति न तदपह्नवः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 व्याप्तिग्रहणभूमित्वेनाभावस्य दृष्टत्वात्प्रागभावो दुरपह्नव इत्याह हन्त तर्हीति ।
 
@@ -682,7 +682,7 @@ The fact, however, is that no person in his senses will maintain the contemporan
 तत्प्रागभावं च तत्समकालवर्तिनमनुन्मत्तः को ब्रवीति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 समकालवर्त्तित्वं चानुपपन्नमित्याह तत्प्रागभावञ्चेति ।
 </details>
@@ -707,7 +707,7 @@ In the case of perceptive knowledge originating from sensation, there is indeed 
 इन्द्रियजन्मनः प्रत्यक्षस्य ह्येष स्वभावनियमः यत्स्वसमकालवर्तिनः पदार्थस्य ग्राहकत्वम्; न सर्वेषां ज्ञानानां प्रमाणानां च; स्मरणानुमानागमयोगिप्रत्यक्षादिषु कालान्तरवर्तिनोऽपि ग्रहणदर्शनात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यदि स्वसमकालवर्त्तिग्रहणनियमोऽनुभूतेर्नास्ति, तर्ह्यविद्यमाने घटेऽपि चाक्षुषं ज्ञानमुपपद्येततत्राह इन्द्रियजन्मन इति । प्रत्यक्षशब्देन प्रत्यक्षज्ञानमुच्यते ।
 
@@ -746,7 +746,7 @@ On this very point there rests the relation connecting the means of knowledge wi
 अत एव च प्रमाणस्य प्रमेयाविनाभावः – न हि प्रमाणस्य स्वसमकालवर्तिना अविनाभावः अर्थसम्बन्धः; अपि तु यद्देशकालादिसम्बन्धितया योऽर्थोऽवभासते, तस्य तथाविधाकारमिथ्यात्व-प्रत्यनीकता।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्सिद्धिः कथमित्यपेक्षायां तमेवाविनाभावं विवृणोति न हि प्रमाणस्येति । प्रमाणस्यार्थसम्बन्ध इत्यन्वयः ।
 
@@ -779,7 +779,7 @@ This disposes also of the contention that remembrance has no external object; fo
 अत इदमपि निरस्तं स्मृतिर्न बाह्यविषया नष्टेऽप्यर्थे स्मृतिदर्शनात् इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनेनैव प्रमाणप्रमेयाविनाभावरूपविषयविषयिभावरूपशिक्षणेन बौद्धैकदेशिभिरुक्तं स्मृतेर्निर्विषयत्वं निरस्यत इत्यश्याभ्युपेतव्यमिदमित्यभिप्रायेणाह अत इदमपीति ।
 </details>
@@ -803,7 +803,7 @@ Possibly you will now argue as follows. The antecedent non-existence of consciou
 अथोच्येत – न तावत्प्रत्यक्षावसेयः, अवर्तमानत्वात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवमनुभूतिरेव प्रागभावग्रहणक्षमेत्युपपादितम् ; अथ तद्ग्राहिणाऽनुभवेन प्रत्यक्षाद्यन्यतमेन भवितव्यमिति, तदसम्भवेन प्रमाणाभावात् प्रागभावाभावं (व इति)शङ्कते अथोच्येतेति ।
 </details>
@@ -823,7 +823,7 @@ It further cannot be ascertained by the other means of knowledge, since there is
 न च प्रमाणान्तरावसेयः लिङ्गाद्यभावात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 लिङ्गाद्यभावादिति आदिशब्देन अनुमानशब्दौ विवक्षितौ ।
 
@@ -878,7 +878,7 @@ Hence, in the absence of any valid instrument of knowledge, the antecedent non-e
 अतस्तत्प्रागभावः प्रमाणाभावादेव न सेत्स्यति – इति;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निगमयति अत इति । उपमानस्य प्रतिपन्नवस्तु सादृश्यसंज्ञासंज्ञिसम्बन्धयोरन्यतरमात्रगोचरत्वेनाप्रतिपन्नपदार्थप्रतिपादनासामर्थ्यादनुपन्यासः ।
 </details>
@@ -902,7 +902,7 @@ If, we reply, you thus, altogether setting aside the force of self-provedness (o
 यद्येवं स्वतस्सद्धत्वविभवं परित्यज्य प्रमाणाभावेऽवरूढश्चेत्, योग्यानुपलध्यैवाभावस्समर्थित इत्युपशाम्यतु भवान्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिहरति यदीति । यदिशब्दः किमर्थः । चेच्छब्दो यद्यर्थः ।
 
@@ -942,7 +942,7 @@ Moreover, we observe that perceptional knowledge proves its object, be it a jar 
 किञ्च – प्रत्यक्षज्ञानं स्वविषयं घटादिकं स्वसत्ताकाले सन्तं साधयत्तस्य न सर्वदा सत्तामवगमयद्दृश्यत इति घटादेः पूर्वोत्तरकालसत्ता न प्रतीयते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं प्रागभावस्य योग्यानुपलब्धिसिद्धत्वमभिधायार्थापत्तिमप्याह किञ्चेत्यादिना । ज्ञानस्य स्वावभासास्थिरत्वलक्षणयोग्यानुपलब्ध्या अनित्यत्वमुक्तम् ; अथ विषयप्रकाशनिरूपणमुखेनापि तदुपपाद्यते ।
 
@@ -969,7 +969,7 @@ Now this absence of apprehension is due to the fact that consciousness itself is
 तदप्रतीतिश्च संवेदनस्य कालपरिच्छिन्नतया प्रतीतेः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 घटादेः पूर्वोत्तरकालसत्ता न प्रतीयताम्; ततः किमित्यत्राह तदप्रतीतिश्चेति । अप्रतीतिः- ज्ञानस्य घटव्यावहारानुगुण्याभावः । अतो न साध्याविशिष्टता ।
 
@@ -994,7 +994,7 @@ If that consciousness which has a jar for its object were itself apprehended as 
 घटादिविषयमेव संवेदनं स्वयं कालानवच्छिन्नं प्रतीतं चेत्, संवेदनविषयो घटादिरपि कालानवच्छिन्नः प्रतीयेतेति नित्यस्स्यात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अर्थापत्त्यन्तरमा(मप्या)ह घटादिविषयमेवेति ।
 
@@ -1019,7 +1019,7 @@ And if self-established consciousness were eternal, it would be immediately cogn
 नित्यं चेत्संवेदनं स्वतस्सिद्धं नित्यमित्येव प्रतीयेत।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अर्थापत्त्यन्तरमाह नित्यञ्चेदिति ।
 
@@ -1068,7 +1068,7 @@ Analogously, if inferential consciousness and other forms of consciousness were 
 एवमनुमानादिसंविदोऽपि कालानवच्छिन्नाः प्रतीताश्चेत्, स्वविषयानपि कालानवच्छिन्नान् प्रकाशयन्तीति ते च सर्वे कालानवच्छिन्ना नित्यास्स्युः, संविदनुरूपत्वाद्विविषयाणाम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुतो नित्यम्,अत्राह (नित्यतेत्यत्राह) संविदनुरूपेति ।
 
@@ -1110,7 +1110,7 @@ Nor is there any consciousness devoid of objects; for nothing of this kind is ev
 न च निर्विषया काचित्संविदस्ति, अनुपलब्धेः ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह अनुपलब्धेरिति ।
 </details>
@@ -1135,7 +1135,7 @@ Moreover, the self-luminousness of consciousness has, by our opponent himself, b
 विषयप्रकाशनतयैवोपलब्धेरेव हि संविदस्स्वयम्प्रकाशता समर्थिता, संविदो विषयप्रकाशनता-स्वभावविरहे सति स्वंयप्रकाशत्वासिद्धेः, अनुभूतेः अनुभवान्तराननुभाव्यत्वाच्च संविदस्तुच्छतैव स्यात् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलं निर्विषय संविदनुपलब्धेरेव, सविषयसंविद एव परेण स्वयम्प्रकाशत्वसमर्थनात् तदभ्युपगमप्रकारेणापि निर्विषया संविन्नास्तीत्याह विषयेति ।
 
@@ -1171,7 +1171,7 @@ Nor are you justified in maintaining that in deep sleep, swoon, senselessness an
 न च स्वापमदमूर्च्छादिषु सर्वविषयशून्या केवलैव संवित्परिस्फुरतीति वाच्यम्; योग्यानुपलब्धिपराहतत्वात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह योग्येति ।
 
@@ -1195,7 +1195,7 @@ If consciousness were present in those states also, there would be remembrance o
 तास्वपि दशास्वनुभूतिरनुभूता चेत्, तस्याः प्रबोधसमयेऽनुसन्धानं स्यात् न च तदस्ति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न च तदस्तीति । व्यापकाभावो हि व्याप्याभावसाधकः । स्मरणञ्च नानुभवव्यापकम् ।
 </details>
@@ -1218,7 +1218,7 @@ But it is not an absolute rule that something of which we were conscious must be
 नन्वभूतस्य पदार्थस्य स्मरणनियमो न दृष्टचरः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अतस्तदभावो न अनुभवाभावसाधक इत्याह नन्विति ।
 
@@ -1259,7 +1259,7 @@ Unless, we reply, there be some cause of overpowering strength which quite oblit
 उच्यते,निखिलसंस्कारतिरस्कृतिकरदेहविगमादिप्रबलहेतुविरहेऽप्यस्मरणनियमः अनुभवाभावम् एव साधयति ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जन्मान्तरानुभूतस्याप्यनुभवाभावप्रसङ्गात् तद्वयावृत्त्यर्थं निखलसंस्कारेत्युक्तम् ।
 
@@ -1291,7 +1291,7 @@ And, moreover, in the present case the absence of consciousness does not only fo
 न केवलमस्मरणिनयमादनुभवाभावः; सुप्तोत्थितस्य इयन्तं कालं न किञ्चदहमज्ञासिषम् इति प्रत्यवमर्शेनैव सिद्धेः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलमनुभवसाधकाभावः, बाधकप्रमाणान्तरमप्यस्तीत्याह न केवलमिति ।
 
@@ -1323,7 +1323,7 @@ Nor may it be said that even if there was consciousness, absence of remembrance 
 न च सत्यप्यनुभवे तदस्मरणनियमो विषयावच्छेदविरहादहङ्कार-विगमाद्वा इति शक्यते वक्तुम्, अर्थान्तराननुभवस्यार्थान्तराभावस्य चानुभूतार्थान्तरास्मरण-हेतुत्वाभावात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिहरति अर्थान्तरेति ।
 
@@ -1350,7 +1350,7 @@ And that in the states in question the consciousness of the 'I' does persist, wi
 तास्वपि दशास्वहमर्थोऽनुवर्तत इति च वक्ष्यते॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहमर्थाभावोपि नास्तीत्युपपादयिष्यत इत्याह तास्वपीति । अनुवर्त्तते- प्रकाशते ।
 
@@ -1373,7 +1373,7 @@ But, our opponent urges, have you not said yourself that even in deep sleep and 
 ननु स्वापादिदशास्वपि सविशेषोऽनुभवोऽस्तीति पूर्वमुक्तम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वं सविशेषोऽनुभवः स्वपादिदशास्वस्तीत्युक्तमिति तदालम्व्य व्याघाताभिप्रायेण चोदयति नन्विति ।
 </details>
@@ -1393,7 +1393,7 @@ True, we have said so. But that consciousness is consciousness of the Self,
 सत्यमुक्तम्; स त्वात्मानुभवः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अ त्राह सत्यमुक्तमिति । स त्वात्मानुभवः ।
 
@@ -1434,7 +1434,7 @@ At present we are only interested in denying the existence of your pure consciou
 इह तु सकलविषयविरहिणी निराश्रया च संविन्निषिध्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इह किं निषिध्यत इत्यत्राह इह त्विति ।
 
@@ -1462,7 +1462,7 @@ Nor can we admit that your pure consciousness could constitute what we call the 
 केवलैव संवित् आत्मानुभव इति चेत् सा च साश्रयेति ह्युपपादयिष्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विषयविरहिताऽपि(वा) वा साश्रयेत्यर्थः ।
 
@@ -1498,7 +1498,7 @@ It thus cannot be maintained that the antecedent non-existence of consciousness 
 अतोऽनुभूतिस्सती स्वयं स्वप्रागभावं न साधयतीति प्रागभावासिद्धिर्न शक्यते वक्तुम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ प्रासङ्गिकमात्मानुभवं परिसमाप्य प्रस्तुतप्रागभावसिद्धि निगमयति अत इति ।
 
@@ -1523,7 +1523,7 @@ And as we have shown that consciousness itself may be an object of consciousness
 अनुभूतेरनुभाव्यत्वसम्भवोपपादनेन अन्यतोऽप्यसिद्धिर्निरस्ता।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परतःपक्षेपि सिध्द्यतीत्याह अनुभूतेरिति ।
 </details>
@@ -1544,7 +1544,7 @@ Herewith falls the assertion that the non-origination of consciousness can be pr
 तस्मान्न प्रागभावाद्यसिद्ध्या संविदोऽनुत्पत्तिरुपपत्तिमती ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ प्रागभावाभावहेतुकाननुत्पत्तिदूषणमुपसंहरति तस्मादिति ।
 </details>
@@ -1574,7 +1574,7 @@ Against the assertion that the alleged non-origination of consciousness at the s
 यदप्यस्या अनुत्पत्त्या विकारान्तरनिरसनम्; तदप्यनुपपन्नम्, प्रागभावे व्यभिचारात् ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथानुत्पत्त्या विकारान्तरनिरसनं दूषयति यदपीत्यादिना । अनुत्पत्तिरूपहेत्वसिद्ध्या विकारान्तरनिरासोऽनुपपन्नः ।
 
@@ -1615,7 +1615,7 @@ In qualifying the changes as changes of 'Being,' you manifest great logical acum
 भावेष्विति विशेषणे तर्ककुशलताऽऽविष्कृता भवति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 भावशब्दोपादाने, तद्विरहेऽपि, व्यभिचारसाम्याभिप्रायेण भावशब्दोपादानमुपालभते भावेष्वितीति । नात्र (नतु)प्रतिज्ञान्तरं दूषणमुच्यतें । तद्धि उक्तिदूषणम्: न त्वर्थदूषणम् ।
 </details>
@@ -1638,7 +1638,7 @@ For according to your own view Nescience also (which is not 'Being') does not or
 तथा च भवदभिमताऽविद्याऽनुत्पन्नैव विविधविकारास्पदं तत्त्वज्ञानोदयादन्तवती चेति तस्यामनैकान्त्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 भावरूपत्वे व्यभिचारं दर्शयति तथा चेति । तथाशब्देन भावरूपत्वं विवक्षितम्; तैर्भावरूपाज्ञानस्य समथिर्तत्वात् ।
 </details>
@@ -1662,7 +1662,7 @@ Perhaps you will say that the changes of Nescience are all unreal. But, do you t
 तद्विकारास्सर्वे मिथ्याभूता इति चेत्; किं भवतः परमार्थभूतोऽप्यस्ति विकारः? येनैतद्विशेषणम् अर्थवद्भवति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्र परिहारं शङ्कते तद्विकारा इति ।
 
@@ -1712,7 +1712,7 @@ Nor is it true that consciousness does not admit of any division within itself, 
 यदपि – अनुभूतिरजत्वात्स्वस्मिन्विभागं न सहते इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथाजत्वात् नानात्वनिषेधं प्रतिवदति यदपीति ।
 </details>
@@ -1737,7 +1737,7 @@ For the non-originated Self is divided from the body, the senses, &c., and Nesci
 तदपि नोपपद्यते, अजस्यैवाऽत्मनो देहेन्द्रियादिभ्यो विभक्तत्वादनादित्वेन चाभ्युपगताया अविद्याया आत्मनो व्यतिरेकस्यावश्याश्रयणीयत्वात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्र किं भेदमात्रं दुदूषयिषितम्? उत विजातीयभेदः? उत विजातीयभेदः, उत स्वगतभेदः, इति पक्षेषु हेत्वसिद्धया निरस्तेष्वपि हेतुत्वाभ्युपगमेन प्रथमं द्वितीयं शिरश्च दूषयंश्चार्वाकव्यतिरिक्तसर्ववादिसम्मतस्थले व्यभिचारं दर्शयति अजस्यैवेति ।
 
@@ -1762,7 +1762,7 @@ And if you say that the latter division is unreal, we ask whether you have ever 
 स विभागो मिथ्यारूप इति चेत्; जन्मप्रतिबद्धः पारमार्थिकविभागः किं क्वचिद्दृष्टस्त्वया?।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्विभागस्य मिथ्यात्वमाशङ्कय तदभ्युपगमेन परिहरति स विभाग इत्यादिना । जन्मप्रतिबद्धः- उत्पत्तिव्याप्तः ।
 
@@ -1787,7 +1787,7 @@ Moreover, if the distinction of Nescience from the Self is not real, it follows 
 अविद्याया आत्मनः परमार्थतो विभागाभावे वस्तुतो ह्यविद्यैव स्यादात्मा।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विभागस्य मिथ्यात्वे दूषणान्तरमाह अविद्याया इति ।
 </details>
@@ -1810,7 +1810,7 @@ You further have yourself proved the difference of views by means of the differe
 अबाधितप्रतिपत्तिसिद्धदृश्यभेदसमर्थनेन दर्शनभेदोऽपि समर्थित एव, छेद्यभेदाच्छेदनभेदवत्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ सजातीयभेदाभावं व्युदस्यति अबाधितेति । पूर्वं प्रमाणप्रमेयानुपपत्तिमिथ्यात्वानुमानानिरासमुखेन दृश्यभेदः समर्थितः ।
 
@@ -1862,7 +1862,7 @@ cannot be attributes of knowing;
 यदपि – नास्या दृशेर्दृशिस्वरूपाया दृश्यः कश्चिदपि धर्मोऽस्ति; दृश्यत्वादेव तेषां न दृशिधर्मत्वम् इति च।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ स्वगतनित्यत्वैकत्वादिभेदनिरासार्थं पूर्वपक्षिणा अनुभूतिं पक्षीकृत्योक्तम् अनुभूतित्वादिति व्यतिरेकि, दृश्यं पक्षीकृत्योक्तं दृश्यत्वादित्यन्वयि च दूषयति यदपीत्यादिना ।
 </details>
@@ -1884,7 +1884,7 @@ we point out that both these remarks would apply also to eternity, self-luminous
 तदपि स्वाभ्युपगतैः प्रमाणसिद्धैर्नित्यत्वस्वयम्प्रकाशत्वादिधर्मैरुभयम् अनैकान्तिकम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनैकान्तिकमिति ।
 
@@ -1913,7 +1913,7 @@ Nor may you urge against this that all these alleged attributes are in reality m
 न च ते संवेदनमात्रम्, स्वरूपभेदात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नित्यत्वादिमिथ्यात्वे नित्यत्वादिविपरीताकारानित्यत्वं प्रसजेदिति तत्परिहाराय तेषां स्वरूपमात्रत्वमाशङ्कय परिहरति न चेत्यादिना ।
 
@@ -1939,7 +1939,7 @@ By 'being conscious' or 'knowing', we understand the illumining or manifesting o
 स्वसत्तयैव स्वाश्रयं प्रति कस्यचिद्विषयस्य प्रकाशनं हि संवेदनम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 संवेदनत्वस्वयम्प्रकाशत्वयोः स्वरूपभेदमाह स्वसत्तयेत्यादिवाक्यद्वयेन ।
 
@@ -1978,7 +1978,7 @@ the terms 'shining forth', 'illumining', 'being manifest' in both these definiti
 प्रकाशश्च चिदचिदशेषपदार्थसाधारणं व्यवहारानुगुण्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उभयत्रानुगतप्रकाशशब्दार्थमाह प्रकाशश्चेति ।
 
@@ -2012,7 +2012,7 @@ Eternity again means 'being present in all time';
 सर्वकालवर्तमानत्वं हि नित्यत्वम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ नित्यत्वमाह सर्वेति । यद्यपि कालानवच्छिन्नत्वमनुगतं नित्यत्वलक्षणं प्रागुक्तम् ।
 
@@ -2051,7 +2051,7 @@ Even if you say that these attributes are only negative ones, i.e. equal to the 
 तेषां जडत्वाद्यभावरूपतायामपि तथाभूतैरपि चैतन्यधर्मभूतैस्तैरनैकान्त्यमपरिहार्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 धर्माणामभावरूपत्वेऽप्यनैकान्त्यमाह तेषामिति ।
 </details>
@@ -2074,7 +2074,7 @@ If, on the other hand, being of a nature opposite to non-intelligence and so on,
 संविदि तु स्वरूपातिरेकेण जडत्वादिप्रत्यनीकत्वमित्यभावरूपो भावरूपो वा धर्मो नाभ्युपेतश्चेत्; तत्तन्निषेधोक्त्या किमपि नोक्तं भवेत्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अभावरूपाणमपि स्वरूपानतिरिक्तत्वे दूषणमाह संविदि त्विति । तुशब्देन प्रागुक्तशौक्ल्यादिदृष्टान्तवैषम्यभिहाभिप्रेतम् । तस्य कस्यचिद्धर्मत्वेन स्वपरनिर्वाहकत्वात्, स्वरूपे प्रतिपन्ने भ्रमविरोधित्वाच्च स्वरूपमेव व्यावृत्तिः ।
 
@@ -2104,7 +2104,7 @@ We moreover must admit the following alternative: consciousness is either proved
 
 अपि च संवित्सिद्ध्यति वा न वा?। सिद्ध्यति चेत्; सधर्मता स्यात्। न चेत्; तुच्छता, गगनकुसुमादिवत्। </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्र सविशेषत्वमापादयितुं विकल्पयति संवित्सिध्यति वा न वेति ।
 

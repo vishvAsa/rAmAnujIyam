@@ -21,7 +21,7 @@ title = "०५ ईक्षत्यधिकरणम्"
 इत्य् उक्तम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We have maintained that what is taught by the texts relative to the origination of the world is Brahman, omniscient, and so on.
 </details>
@@ -31,7 +31,7 @@ We have maintained that what is taught by the texts relative to the origination 
 यतो वा इमानि इत्यादिजगत्कारणवादिवाक्यप्रतिपाद्यं सर्वज्ञं सर्वशक्ति समस्तहेयप्रत्यनीककल्याणगुणैकतानं ब्रह्म जिज्ञास्यमित्युक्तम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रथमे सूत्रे उद्देशः कृतः । द्वितीये लक्षणमुक्तम् । तृतीयचतुर्थाभ्यां लक्ष्यस्य ब्रह्मणः परीक्ष्यत्वसिद्ध्यर्थं लक्षण-स्वभावात् सिद्ध-रूप-लक्ष्य-स्वभावाच् चोत्थिते ज्ञातत्वाप्रयोजनत्व-शङ्के परिहृते । अथ लक्ष्यं वस्तु किं चिद्-अचिद्-विलक्षणम् ? उत अविलक्षणम् ? इति परीक्ष्यते । यद्वा पूर्वं कारणत्वम् अनूद्य तस्य लक्षणत्वम् उक्तम् । लक्षण-लक्ष्य-स्वभाव-निबन्धनं शङ्का-द्वयं च परिहृतम् । अथ लक्षण-भूत-कारणत्व-प्रापक-वाक्यानि निरूप्यन्ते । यद्वा चतुस्-सूत्र्या वेदान्त-वाक्यानां ब्रह्मणि प्रामाण्य-रूप-परीक्ष्यता-परिकर-स्थापनं कृतम् । अथ प्रमेय-विशेष-परीक्षा क्रियत इति पेटिका-सङ्गतिः ।
 
@@ -44,7 +44,7 @@ We have maintained that what is taught by the texts relative to the origination 
 आनुमानिक-प्रधानादि-प्रतिपादनानर्हातोच्यते – "ईक्षतेर् नाशब्दम्" – इत्य्-आदिना।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The present Sūtra and the following Sūtras now add that those texts can in no way refer to the Pradhāna and similar entities which rest on Inference only.
 </details>
@@ -54,7 +54,7 @@ The present Sūtra and the following Sūtras now add that those texts can in no 
 इदानीं जगत्कारणवादिवाक्यानाम् आनुमानिकप्रधानादिप्रतिपादनानर्हातोच्यते – ईक्षतेर्नाशब्दम् – इत्यादिना।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 समन्वयाधिकरणार्थाक्षेप-हेतुकावान्तर-सङ्गत्युपयोगीनि [[सर्वज्ञत्वादिविशेषणानिजिज्ञास्यमित्युक्तमिति|सर्वज्ञत्वादि-विशेषणानि जिज्ञास्यम् इत्य् उक्तम् इति]] प्रामाणिकतया परीक्ष्यम् इत्य् अर्थः । तद्-अनन्तरं परीक्षा हि सङ्गतेत्य् अभिप्रायेणाह - इदानीम् इति । अनेन चतुस्-सूत्र्यानन्तर्यं ब्रह्मणः पुरुषार्थता-प्रतिपादन-पर-समन्वयाधिकरणानन्तर्यम् अप्य् उक्तम् । आनुमानिक-प्रधानादीत्य् अनेन आनन्तरोक्त-समन्वयाक्षेपेणोत्थानाद् अवान्तर-सङ्गतिर् इति सूच्यते, प्रधानादीत्य्-आदि-शब्देन क्षेत्रज्ञ-मात्रं चिद्-विशेषाः अचिद्-विशेषाश् च गृह्यन्ते, ईक्षतेर् नाशब्दम् इत्य्-आदिनेति - [[पादशेषणाध्यायशेषेणेति|पाद-शेषेणाध्याय-शेषेणेति]] वार्थः ।
 </details>
@@ -68,7 +68,7 @@ The present Sūtra and the following Sūtras now add that those texts can in no 
 एकमेव अद्वितीयम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We read in the Cḥāndogya, 'Being only was this in the beginning, one only, without a second.'
 </details>
@@ -78,7 +78,7 @@ We read in the Cḥāndogya, 'Being only was this in the beginning, one only, wi
 इदमाम्नायते छान्दोग्ये – सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विषयम् उदाहरति - इदमिति - प्रतिज्ञा-दृष्टान्तोपेतं सङ्कल्प-प्रतिपादकं सामान्य-शब्दवत् कारण-वाक्यं विषयः ।
 </details>
@@ -91,7 +91,7 @@ We read in the Cḥāndogya, 'Being only was this in the beginning, one only, wi
 इत्य्-आदि ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 '--It thought, may I be many, may I grow forth.--It sent forth fire' (VI, 2, 1 ff.)
 </details>
@@ -101,7 +101,7 @@ We read in the Cḥāndogya, 'Being only was this in the beginning, one only, wi
 तदैक्षत बहु स्यां प्रजायेयेति तत्तेजोऽसृजत इत्यादि ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सद्विद्या-वाक्यम् एव अस्याधिकरणस्य साक्षाद्-विषयः, सद्विद्या-द्वारेणेदृश-कारण-वाक्यानां विषयत्वम्, न तु साक्षाद् एव, विषय-वाक्योपादान-समये [[वाकयान्तराणामनुपादानात्|वाक्यान्तराणाम् अनुपादानात्]] । दीप-सारयोश् च तेषाम् अनुपात्तत्वात् प्रतिज्ञा-विरोध-स्वाप्ययोर अत्रत्ययोर् एव सूत्रितत्वात् तद्-अनुग्राहकत्वेन [[त्वेनोपदिषदन्तरगतिसामान्यस्य|त्वेनोपनिषदन्तर-गति-सामान्यस्य]] अस्याम् उपनिषदि विद्यान्तरेषु श्रुतत्वस्य अपि सूत्रितत्वात् बुद्ध्य्-अवतरण-क्रमेण प्रथमम् उपादानत्वोचिताचेतनत्व-शङ्कायाः प्रतिक्षेप्यत्वात् सद्-ब्रह्मात्मादि-पद-चिह्नितेषु वाक्येषु सामान्य-शब्द-चिह्नित-वाक्यस्य प्रथम-निरूपणीयत्वाच् च । सामान्य-द्वारा हि विशेषो बुद्धिम् अधिरोहति । सामान्य-परिग्रहे प्रतिक्षेपे च विशेष-विषय-संशयः [[संशयोवकाशान्|संशयो ऽवकाशवान् ।]]
 </details>
@@ -113,7 +113,7 @@ We read in the Cḥāndogya, 'Being only was this in the beginning, one only, wi
 परोक्तम् आनुमानिकं प्रधानम्?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here a doubt arises whether the cause of the world denoted by the term 'Being' is the Pradhāna assumed by others, which rests on Inference,
 </details>
@@ -123,7 +123,7 @@ Here a doubt arises whether the cause of the world denoted by the term 'Being' i
 तत्र सन्देहः – किं सच्छब्दवाच्यं [[जगत्कारण|जगत्कारणं]] परोक्तमानुमानिकं प्रधानम्?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्रेति । कारणस्येदं-शब्द-वाच्य-कार्य-सालक्षण्यावश्यम्भावेक्षितृत्वाभ्यां संशयः । संशय-शरीरं दर्शयति - किमिति । सच्छब्द-वाच्यम् इति धर्मि-वाचि-पदस्य साधारणतया संशय-सहत्वं दर्शितम् । जगत्-कारणम् इति उपादानत्वात् कार्य-सालक्षण्यं दुस्त्यजम्, निमित्तत्वान् मुख्येक्षितृत्वं चेति संशय-हेतु-स्थिरीकरणम् । परोक्तम् इति - विप्रतिपत्तिर् अपि संशय-हेत्वोर् अनुग्राहिकेति भावः ।
 </details>
@@ -133,7 +133,7 @@ Here a doubt arises whether the cause of the world denoted by the term 'Being' i
 उतोक्त-लक्षणं ब्रह्म इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 or Brahman as defined by us.
 </details>
@@ -143,7 +143,7 @@ or Brahman as defined by us.
 उतोक्तलक्षणं ब्रह्म इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्व-पक्ष-बीज-स्मारण-पर-सौत्र-पद-द्योतनार्थमानुमानिकम् इति पदम् । उक्त-लक्षणम् - सर्वज्ञत्वादि-लक्षणम्, आनुमानिकोक्त-लक्षण-पदाभ्यां संशय-हेतु-द्वय-सूचनम् ।
 </details>
@@ -154,7 +154,7 @@ or Brahman as defined by us.
 किं प्राप्तम्? प्रधानम् इति ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Pūrvapakshin maintains that the Pradhāna is meant.
 </details>
@@ -164,7 +164,7 @@ The Pūrvapakshin maintains that the Pradhāna is meant.
 किं प्राप्तम्? प्रधानमिति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किं प्राप्तम् इति । प्राप्तम् - युक्तम्, युक्तिमद् इत्य् अर्थः । पूर्व-पक्षी स्व-पक्षं युक्तिमत्त्वेन प्रतिजानीते - प्रधानम् इतीति । संशय-क्रोडीकृते शिरो-द्वये प्रधानम् इति शिरो युक्तिमद् इत्य् अर्थः । युक्ति-विशेषाकाङ्क्षां दर्शयति - कुत इति ।
 </details>
@@ -182,7 +182,7 @@ The Pūrvapakshin maintains that the Pradhāna is meant.
 कारणावस्थां वदति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For he says, the Cḥāndogya text quoted expresses the causal state of what is denoted by the word 'this', viz. the aggregate of things comprising manifold effects, such as ether &c., consisting of the three elements of Goodness, Passion and Darkness, and forming the sphere of fruition of intelligent beings.
 </details>
@@ -192,7 +192,7 @@ For he says, the Cḥāndogya text quoted expresses the causal state of what is 
 कुतः? सदेव सोम्येदमग्र आसीदेकमेव इतीदंशब्दवाच्यस्य चेतनभोग्यभूतस्य सत्त्वरजस्तमोमयस्य वियदादिनानारूपविकारावस्थस्य वस्तुनः कारणावस्थां वदति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्-उपपादयति सदेवेति । कारणस्य प्रधानत्व-सिद्धय्-औपयिकानि तद्-विलक्षण-पुरुष-विशेषत्व-विरोधीनि च विशेषणान्य् आह - [[इदंशब्दयादिना|इदं-शब्दादिना]] । इदं-शब्द-वाच्यस्येति - पराग्-अर्थे हीदं-शब्द-स्वारस्यम्, न तु प्रत्यग्-रूपे चेतन इति भावः । जगतश् चिद्-अचिद्-आत्मकतया चेतनस्य अपीदं-शब्द-वाच्यान्तर्भाव-व्युदासायाह - चेतन-भोग्य-भूतस्येति । चिद्-अंशस्य [[कायर्त्वकारणत्वायोगात्|कार्यत्व-कारणत्वायोगात्]] न तस्य कार्यान्तर्भाव इति भोक्तृतया ऽवस्थानम् एव तस्य, भोग्यस्यैव तु कार्यत्वम् इति भावः । चेतनस्य ज्ञेयतैक-स्वभाव-जगद्-रूपत्वम् अयुक्तम् इति चाभिप्रायः । कार्यस्य भोग्यत्वौपयिकं कारणस्य प्रधानत्वापादकं च विशेषणम् आह - सत्त्व-रजस्-तमोमयस्येति । सत्त्वादि-कार्य-सुख-दुःख-मोहान्वय-हेतुत्व-दर्शनाज् जगतः सत्त्वादि-मयत्वम्, निर्गुणः कथं गुण-मयस्य कारणम् इति चाभिप्रायः । भोग्यत्वोपपादनायाह - वियद्-आदीति । यद्वा, इदं-शब्द-वाच्य-द्रव्यस्य कारणत्वे कार्यत्व-कारणत्वयोः को भेद इत्य् अत्राह - वियद्-आदीति । एकत्वावस्थं कारणम् बहुत्वावस्थं कार्यम् इति भिदेत्य् अर्थः । एक-रूपस्य पुरुषस्य नाना-रूप-कार्य-भावो ऽनुपपन्नश् चेति भावः ।
 </details>
@@ -203,7 +203,7 @@ For he says, the Cḥāndogya text quoted expresses the causal state of what is 
 कारण-भूत-द्रव्यस्यावस्थान्तरापत्तिर् एव हि कार्यता।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 By the 'effected' state we understand the assuming, on the part of the causal substance, of a different condition;
 </details>
@@ -213,7 +213,7 @@ By the 'effected' state we understand the assuming, on the part of the causal su
 कारणभूतद्रव्यस्यावस्थान्तरापत्तिरेव हि कार्यता।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कारणस्य कार्यसालक्षण्यावश्यम्भावे हि चेतनस्य इदं-शब्द-वाच्यं प्रति कारणत्वानुपपत्तिः, कारणावस्था कार्योपादनभूतद्रव्यान्तरनिष्ठेति कथं सालक्षण्यावश्यम्भाव इति शङ्कायां कार्य-कारणयोर् एक-द्रव्यत्वम् आह - कारण-भूत-द्रव्यस्येति ।
 </details>
@@ -224,7 +224,7 @@ By the 'effected' state we understand the assuming, on the part of the causal su
 तत्-स्वभावं तद् एव द्रव्यं कारणावस्थम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 whatever therefore constitutes the essential nature of a thing in its effected state the same constitutes its essential nature in the causal state also.
 </details>
@@ -234,7 +234,7 @@ whatever therefore constitutes the essential nature of a thing in its effected s
 अतो यद्द्रव्यं यत्स्वभावं च कार्यावस्थम्; तत्स्वभावं तदेव द्रव्यं कारणावस्थम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किम् इत्य् अपेक्षायां कार्य-कारण-सालक्षण्य-नियमं फलितम् आह - अत इति ।
 </details>
@@ -246,7 +246,7 @@ whatever therefore constitutes the essential nature of a thing in its effected s
 गुण-साम्यावस्थं प्रधानम् एव हि कारणम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now the effect, in our case, is made up of the three elements Goodness, Passion and Darkness; hence the cause is the Pradhāna which consists in an equipoise of those three elements.
 </details>
@@ -256,7 +256,7 @@ Now the effect, in our case, is made up of the three elements Goodness, Passion 
 सत्त्वादिमयं च कार्यमिति गुणसाम्यावस्थं प्रधानमेव हि कारणम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 [[ततोऽपि किमताशङ्कायां|ततो ऽपि किम् इत्य् आशङ्कायां]] कार्यस्य प्रधान-सालक्षण्यम् आह - सत्त्वादि-मयञ्चेति । प्रधानस्य कार्य-सारूप्यम् आह - गुण-साम्यावस्थम् इति । कार्ये गुण-वैषम्य-दर्शनात् कारणम् अपि तथाविधं स्याद् इति शङ्कापकरणार्थं गुण-साम्यावस्थम् इत्य् उक्तम्, न तु गुण-मयम् इति । विषमावस्थस्य सर्वस्य कार्यत्व-दर्शनात् कारणस्य अपि तथात्वे कारणान्तरापेक्षया ऽनवस्था-प्रसङ्गाच् च प्रधानस्य गुण-साम्यावस्थत्व-सिद्धिर इति भावः ।
 </details>
@@ -273,7 +273,7 @@ Now the effect, in our case, is made up of the three elements Goodness, Passion 
 इत्य् अभिधीयते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And as in this Pradhāna all distinctions are merged, so that it is pure Being, the Cḥāndogya text refers to it as 'Being, one only, without a second.'
 </details>
@@ -283,7 +283,7 @@ And as in this Pradhāna all distinctions are merged, so that it is pure Being, 
 तदेवोपसंहृतसकलविशेषं सन्मात्रमिति सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् (छा.६.२.१) इत्यभिधीयते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनेक-गुण-साम्यावस्थस्य प्रधानस्य कारणत्वे एकत्वावधारणम् अनुपपन्नम् । एकस्यैव ब्रह्मणः कारणत्वे तूपपन्नम् इत्य् अत्राह - तदेवोपसंहृतेति । एकमेवेति नाम-रूप-विभाग-व्युदासः, अद्वितीयम् इति गुण-वैषम्य-व्युदास इत्य् अभिप्रायेण उपसंहृत-सकल-विशेषम् इत्य् उक्तम् । सन्मात्रम् इति - सदेवेति कादाचित्कासत्त्व-व्युदास इति भावः । सन्मात्रम् इतीत्य् अत्रेति-शब्दो हेतौ ।
 </details>
@@ -294,7 +294,7 @@ And as in this Pradhāna all distinctions are merged, so that it is pure Being, 
 तत एव च कार्य-कारणयोर् अनन्यत्वम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This establishes the non-difference of effect and cause,
 </details>
@@ -304,7 +304,7 @@ This establishes the non-difference of effect and cause,
 तत एव च कार्यकारणयोरनन्यत्वम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रधान-कारणत्वम् एव युक्त्य्-अन्तरम् अनुवदति - तत एवेति । इदं-शब्द-वाच्यं प्रति कारणस्य त्रिगुणात्मकस्य प्रधानस्य सच्छब्द-वाच्यत्वाद् एव हि कार्य-कारणयोर् अनन्यत्व-सिद्धिः, न हि विजातीययोर् अनन्यत्वम् इति भावः ।
 </details>
@@ -315,7 +315,7 @@ This establishes the non-difference of effect and cause,
 एक-विज्ञानेन सर्व-विज्ञान-प्रतिज्ञोपपत्तिः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and in this way the promise that through the knowledge of one thing all things are to be known admits of being fulfilled.
 </details>
@@ -325,7 +325,7 @@ and in this way the promise that through the knowledge of one thing all things a
 तथा सत्येवैकविज्ञानेन सर्वविज्ञानप्रतिज्ञोपपत्तिः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनन्यत्वं मा भूद् इत्य् अत्राह - तथा सतीति । अनन्यत्वे सति ह्य् एक-विज्ञानेन सर्व-विज्ञान-सिद्धिः, तच् चिद्-अचिद्-विलक्षण-कारणत्व-पक्षे न सम्भवतीति भावः । एवं [[प्रतिज्ञासिद्धिररूपयुक्तिरुक्ता|प्रतिज्ञा-सिद्धि-रूप-युक्तिर् उक्ता]] भवति । यद्वा इदम् अग्रे सद् इति सामानाधिकरण्यात् "तद् धैक आहुः" इत्य् असत्-कार्य-वाद-प्रतिक्षेपाच् चानन्यत्व-सिद्धिः पूर्व-ग्रन्थे अभिप्रेता । हेत्व्-अन्तरं चाह - तथा सतीति । तथा सति प्रधान-कारणत्वे सतीत्य् अर्थः । कार्य-कारणयोर् अनन्यत्वे प्रतिज्ञा-वाक्य-तात्पर्यात् तत्रैक-शब्दो ऽपि गुण-समुदायैक्याद् युक्त इति भावः ।
 </details>
@@ -337,7 +337,7 @@ and in this way the promise that through the knowledge of one thing all things a
 इत्य्-आदि मृत्-पिण्ड--तद्-कार्य-- -दृष्टान्त-दार्ष्टान्तिकयोर् वैरूप्यं च
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Otherwise, moreover, there would be no analogy between the instance of the lump of clay and the things made of it, and the matter to be illustrated thereby. 
 </details>
@@ -348,7 +348,7 @@ Otherwise, moreover, there would be no analogy between the instance of the lump 
 अन्यथा यथा सोम्यैकेन मृत्पिण्डेन (छा.६.१.४) इत्यादि मृत्पिण्डतत्कार्यदृष्टान्तदार्ष्टान्तिकयोर्वैरूप्यं च
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 युक्त्य्-अन्तरम् आह - अन्यथेति । अचेतन-मृत्पिण्ड-लोह-मण्यादि-दृष्टान्तश् चेतन-कारणस्य दार्ष्टान्तिकत्वे न सङ्गच्छत इत्य् अभिप्रायः । यद्वा सरूप- [[मृत्पिण्डघटादिककार्याकारणदृष्टान्तो|मृत्पिण्ड-घटादि-कार्य-कारण-दृष्टान्तो]] न विरूप-कार्य-कारणयोर् दार्ष्टान्तिकत्वे घटत इति भावः । 
 </details>
@@ -360,7 +360,7 @@ Otherwise, moreover, there would be no analogy between the instance of the lump 
 जगत्-कारण-वादि-वाक्येन महर्षिणा कपिलेनोक्तं प्रधानम् एव प्रतिपाद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The texts speaking of the origination of the world therefore intimate the Pradhāna taught by the great Sage Kapila.
 </details>
@@ -370,7 +370,7 @@ The texts speaking of the origination of the world therefore intimate the Pradh�
 इति जगत्कारणवादिवाक्येन महर्षिणा कपिलेनोक्तं प्रधानमेव प्रतिपाद्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कपिल-स्मृत्य्-ऐकार्थ्यं हेतुत्वेन अभिप्रयन्न् आह - जगत्-कारण इति । उक्त-न्यायेन श्रुत्य्-अविरोधात् स्मृति-निरासो न युक्त इति भावः । महर्षिणा इति पदेना "ऋषिं प्रसूतं कपिलं महान्तम्" इति श्रुतिः स्मारिता ।
 </details>
@@ -385,7 +385,7 @@ The texts speaking of the origination of the world therefore intimate the Pradh�
 इति –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And as the Cḥāndogya passage has, owing to the presence of an initial statement (pratijñā) and a proving instance, the form of an inference, the term 'Being' means just that which rests on inference, viz. the Pradhāna.
 </details>
@@ -395,7 +395,7 @@ And as the Cḥāndogya passage has, owing to the presence of an initial stateme
 प्रतिज्ञादृष्टान्तरूपेणानुमानवेषमेव चेदं वाक्यमिति सच्छब्दवाच्यमानुमानिकमेव इति –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हेत्व्-अन्तरं चाह - प्रतिज्ञेति । प्रतिज्ञा-दृष्टान्तयोर् हेत्वाक्षेपकत्वाभिप्रायेणोक्तम् अनुमान-वेषम् एवेति । ननु न कारण-विषया प्रतिज्ञा, अपि त्व् एक-विज्ञानेन सर्व-विज्ञान-विषया; अतो ऽनुमान-वेषत्वे ऽपि न प्रधान-कारणत्व-सिद्धिर् इति न वाच्यम्, एक-विज्ञानेन सर्व-विज्ञान-प्रतिज्ञायाः सर्वस्यैकस्य चानन्यत्वेन निर्वाह्यत्वाद् अनन्यत्वस्य कार्य-कारण-भाव-निबन्धनत्वाच् च प्रधान-कारणत्व-प्रतिज्ञानस्य फलितत्वात् । अत्रायं प्रयोगो ऽभिमतो वेदितव्यः, जगत् स्वानन्योपादानकम्, कार्यत्वाद् घटवत् । यद्वा इदं जगत् स्व-कारणैक-ज्ञानेन ज्ञातं भवितुम् अर्हति, कार्यत्वात् एक-मृत्पिण्डाद्यारब्ध-घटादिवद् इति ।
 
@@ -414,7 +414,7 @@ And as the Cḥāndogya passage has, owing to the presence of an initial stateme
 – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This primā facie view is set aside by the words of the Sūtra.
 
@@ -426,7 +426,7 @@ This primā facie view is set aside by the words of the Sūtra.
 एवं प्राप्तेऽभिधीयते – ईक्षतेर्नाशब्दम् – इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्मिन् पूर्व-पक्षे सिद्धान्त-स्थापनाय सूत्रस्य अवतीर्णत्वं दर्शयति - इत्य् एवं प्राप्त इति । उच्यमानाः विषय-संशय-पूर्व-पक्षाः अस्याधिकरणस्येति ज्ञापनाय पूर्वं सूत्रोपादानम् । अस्य राद्धान्त-सूत्रत्व-ज्ञापनार्थम् अक्षर-व्याख्यानार्थं च इदानीं तद्-उपादानम् इति वैषम्यम् । 
 </details>
@@ -439,7 +439,7 @@ This primā facie view is set aside by the words of the Sūtra.
 आनुमानिकं प्रधानम् इत्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 That which does not rest on Scripture, i.e. the Pradhāna, which rests on Inference only, is not what is intimated by the texts referring to the origination of the world;
 </details>
@@ -449,7 +449,7 @@ That which does not rest on Scripture, i.e. the Pradhāna, which rests on Infere
 यस्मिन् शब्द एव प्रमाणं न भवति, तदशब्दम् आनुमानिकं प्रधानमित्यर्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शब्द-वेद्यतया ऽभिमतस्य कथम् अशब्दत्वम् इति शङ्कायाम् आह - यस्मिन् इति । अब्भक्षो वायु भक्ष इतिवद् अवधारण-गर्भितम् इति भावः ।
 
@@ -465,7 +465,7 @@ That which does not rest on Scripture, i.e. the Pradhāna, which rests on Infere
 कुतः?
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 is not what is intimated by the texts referring to the origination of the world; for
 </details>
@@ -475,7 +475,7 @@ is not what is intimated by the texts referring to the origination of the world;
 न तज्जगत्कारणवादिवाक्यप्रतिपाद्यम्; कुतः?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नेति-पदस्य प्रधान-स्वरूप-प्रतिक्षेपार्थत्व-शङ्कां व्युदस्यन् वाक्यार्थं योजयति - न तद् इति । [[धमिर्निषेधपरत्वेऽपि|धर्मि-निषेध-परत्वे ऽपि]] शास्त्रस्य वाक्य-निरूपण-परत्वाद् हेतु-पदेन धातु-स्वरूपोपादानाच् च प्रतिपाद्यता-वेषेण निषेध्यत्वं विवक्षितम् इति भावः ।
 </details>
@@ -486,7 +486,7 @@ is not what is intimated by the texts referring to the origination of the world;
 सच्-छब्द-वाच्य-- -सम्बन्धि-व्यापार-विशेषाभिधायिन ईक्षतेर् धातोश् श्रवणात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for the text exhibits the root 'īksh '--which means 'to think'--as denoting a special activity on the part of what is termed 'Being.'
 </details>
@@ -496,7 +496,7 @@ for the text exhibits the root 'īksh '--which means 'to think'--as denoting a s
 इक्षतेः – सच्छब्दवाच्यसम्बन्धिव्यापारविशेषाभिधायिन ईक्षतेर्धातोश्श्रवणात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वाक्य-प्रतिपाद्यत्वाभावः प्रमाणान्तर-प्रतिपन्नत्व-बाधितत्वाभ्यां वाक्यस्य अन्यपरत्वाद् वा स्यात्, योग्यानुपलम्भाद्यभावाद् अप्रतिपन्नाकारवैशिष्टयसद्भावाच् च [[बाधितत्वप्रतिपन्नत्वदासम्भवः|बाधितत्व-प्रतिपन्नत्वासम्भवः]] , अन्यपरत्वं तु पूर्व-पक्ष-युक्तिभिर् एव निरस्तम्, अतो हेतुर् न सम्भवतीति [[इत्यभेप्रायेण|इत्य् अभिप्रायेण]] हेत्वाकाङ्क्षां दर्शयति - कुत इति । हेतोर् असिद्धिम् अन्यथा-सिद्धिञ्च व्युदसितुं व्याचष्टे - सच्छब्द-वाच्येति । सच्छब्द-वाच्य-सम्बन्धीति व्यधिकरणासिद्धि-व्युदासः । प्रकृतं सद् एव हि "तद् ऐक्षत" इति तच्छब्देन परामृश्यते इति भावः । व्यापार-विशेष-शब्देनाभिधायि-शब्देन चान्यथासिद्धि-व्युदासः । न हि चेतनाचेतन-साधारणं कार्यौन्मुख्य-मात्रम् ईक्षति-धात्वभिधेयम्, अपि तु चेतन-रूप-कर्त्र्-असाधारणो व्यापार-विशेषः । न च मुख्ये सम्भवति उपचारो युक्त इति भावः । "इक-स्तिपौ धातु-निर्द्देशे वक्तव्यौ" इति प्रक्रियया ईक्षति-शब्देन धातूपादानम्, नार्थोपादानम् तथा सतीक्षितेर् इति हि वक्तव्यं स्यात् अनेन च शब्दस्य विवक्षितार्थे स्वारस्यं सूचितम् इत्य् अभिप्रायेणाह - धातोर इति । श्रवणाद् इत्य् अज्ञानासिद्धि-परिहारः, श्रूयमाणाद् ईक्षतेर् इति सूत्र-विवक्षितम्, तत्-फलितं तु षष्ठया निष्कृष्य व्याख्यातम्, ईक्षति-शब्देन ईक्षणं लक्षितम् इति वेदान्त-दीपे व्याख्यातम् अर्थ-स्वारस्याय, अत्र तु शब्द-स्वारस्येन व्याख्यातम् ।
 </details>
@@ -509,7 +509,7 @@ for the text exhibits the root 'īksh '--which means 'to think'--as denoting a s
 अचेतने प्रधाने न सम्भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'It thought, may I be many, may I grow forth.' 'Thinking' cannot possibly belong to the non-sentient Pradhāna:
 </details>
@@ -519,7 +519,7 @@ for the text exhibits the root 'īksh '--which means 'to think'--as denoting a s
 तदैक्षत बहु स्यां प्रजायेय (छा.६.२.३) इति ईक्षणक्रियायोगश्चाचेतने प्रधाने न सम्भवति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु "तद् तेज ऐक्षत" "ता आप ऐक्षन्त" इति वाक्य-द्वय-गतम् ईक्षणम् अचित्-सम्बन्धितया प्रतीयते, "सेयं देवतैक्षत" इत्य् अत्रापि ईक्षणम् अचिद्-गतम् उचितम्, देवता-शब्दस्य "हन्ताहम् इमास् तिस्रो देवताः" इत्य् आसन्न-वाक्य-स्थ-देवता-शब्द-विरूपार्थत्वायोगात् । प्रथमेक्षणं च सेयमिति तच्छब्द-परामृष्ट-सत्-सम्बन्धित्वाद् अचिद्-गतम् एवेत्य् आकाङ्क्षायामाह - तद् ऐक्षतेति । [[चरमवाकयानुरोधेनोपक्रमस्वारस्यभङ्गो|चरम-वाक्यानुरोधेनोपक्रम-स्वारस्य-भङ्गो]] न युक्त इतीदन्तावद् ईक्षणं मुख्यम् इति भावः । धात्व्-अर्थानां क्रियात्वाद् अचेतनस्य च क्रिया-योग-सम्भवान् नात्रानुपपत्तिर् इत्य् अत्राह - [[ईक्षणाक्रियेति|ईक्षण-क्रियेति]] । अयं क्रिया-विशेषो न सम्भवतीत्य् अर्थः । ततः किम् इत्य् अत्राह - अत इति । अतः अचेतनस्य असम्भावितत्वेन ईक्षणस्य त्वत्-पक्ष-विरुद्धत्वाद् इत्य् अर्थः ।
 </details>
@@ -530,7 +530,7 @@ for the text exhibits the root 'īksh '--which means 'to think'--as denoting a s
 सर्वज्ञस् सर्व-शक्तिः पुरुषोत्तमस् सच्-छब्दाभिधेयः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 the term 'Being' can therefore denote only the all-knowing highest Person who is capable of thought.
 </details>
@@ -540,7 +540,7 @@ the term 'Being' can therefore denote only the all-knowing highest Person who is
 अत ईदृशेक्षणक्षमश्चेतनविशेषः सर्वज्ञस्सर्वशक्तिः पुरुषोत्तमस्सच्छब्दाभिधेयः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ईदृशेक्षण-क्षम इति - [[अनेनाचिद्य्वावृत्तिरुक्ता|अनेनाचिद्-व्यावृत्तिर उक्ता]] । ईदृश-शब्देन चेतन-विशेष-शब्देन चेक्षण-स्वभाव-फलिताच् चेतन-मात्राद् अपि व्यावृत्तिर उक्ता, यच् चेतन-मात्रे ऽपि न सम्भवति तत् कथमचेतने सम्भवतीति भावः । तद् ऐक्षतेति सिद्धं गुणम् आह - सर्वज्ञ इति । बहु स्याम् इति फलितम् अर्थम् आह - सर्व-शक्तिर इति । [[चिदचिद्य्वावर्त्तकलिङ्गबलसिद्धं|चिद्-अचिद्-व्यावर्तक-लिङ्ग-बल-सिद्धं]] सद् इति [[सामान्यनुतेः|सामान्य-श्रुतेः]] पर्यवसान-स्थलं दर्शयति - पुरुषोत्तम इति । सेयं देवतेति देवता-शब्दो ऽपि ईक्षण-विशेष-सामर्थ्याच् छाग-पशु-न्यायेन चानुगृहीतः प्रकरणान्तरोक्त-देवता-विशेष-विषय इति भावः ।
 </details>
@@ -557,7 +557,7 @@ the term 'Being' can therefore denote only the all-knowing highest Person who is
 इत्य्-आदिषु।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 In agreement with this we find that, in all sections which refer to creation, the act of creation is stated to be preceded by thought. 'He thought, shall I send forth worlds. He sent forth these worlds' (Ait. Ār. II, 4, 1, 2); 'He thought... he sent forth Prāṇa' (Pr. Up. VI, 3); and others.
 </details>
@@ -567,7 +567,7 @@ In agreement with this we find that, in all sections which refer to creation, th
 तथा च सर्वेष्वेव सृष्टिप्रकरणेष्वीक्षापूर्विकैव सृष्टिः प्रतीयते – स ईक्षत लोकान्नु सृजा इति स इमाल्ँलोकानसृजत (ऐ.१.१,२) स ईक्षाञ्चक्रे … स प्राणानसृजत (प्र.६.३,४) इत्यादिषु।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सद्विद्या-वाक्यस्य उक्तार्थ-परत्वम् अनेक-श्रुत्य्-अन्तर-स्वारस्येनोपपादयति - तथा चेति । नात्र विषय-वाक्यतया श्रुत्य्-अन्तरोपादानम् । [[सर्वेष्वेवसर्वेष्वपि;|सर्वेष्वेव सर्वेष्वपि;]] अनेन प्राचुर्यम् अभिप्रेतम् । ईक्षणस्य गौणत्वाश्रयणे अनेक-श्रुति-स्वारस्य-भङ्ग-प्रसङ्ग इति भावः । प्रतीयत इति - प्रतीतिस् तावद् अविगीतेति भावः ।
 </details>
@@ -578,7 +578,7 @@ In agreement with this we find that, in all sections which refer to creation, th
 > ननु च कार्यानुगुणेनैव कारणेन भवितव्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But it is a rule that as a cause we must assume only what corresponds to the effect!
 </details>
@@ -588,7 +588,7 @@ But it is a rule that as a cause we must assume only what corresponds to the eff
 ननु च कार्यानुगुणेनैव कारणेन भवितव्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वपक्षसाधकम् उक्त्वा पूर्व-पक्ष-युक्तिं [[परिहर्त्तुं|परिहर्तुं]] चोद्यम् उपक्षिपति - ननु चेति । कार्य-कारणयोः सालक्षण्यन् तावद् अङ्गीकार्यम् मृत्-तद्-कार्यादिषु दर्शनात् । तच् च सालक्षण्यं ब्रह्मणस् त्रिगुणात्मकत्वादियोगेन वा जगतस् तद्-विधुरत्वेन वा निर्वाह्यम् ? आद्ये शब्दान्तरेण प्रधानाङ्गीकारः । द्वितीये सुख-दुःख-मोहान्वयाद्युपलम्भ-विरोध इति भावः ।
 </details>
@@ -599,7 +599,7 @@ But it is a rule that as a cause we must assume only what corresponds to the eff
 सर्वज्ञस्, सर्व-शक्तिस्, सत्य-सङ्कल्पः, पुरुषोत्तमस्, सूक्ष्म-चिद्--अ-चिद्--वस्तु-शरीरकः +++(कारणावस्थायम्)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Just so; and what corresponds to the total aggregate of effects is the highest Person, all-knowing, all-powerful, whose purposes realise themselves, who has minds and matter in their subtle state for his body.
 </details>
@@ -609,7 +609,7 @@ Just so; and what corresponds to the total aggregate of effects is the highest P
 सत्यम्; सर्वकार्यानुगुण एव सर्वज्ञस्सर्वशक्तिस्सत्यसङ्कल्पः पुरुषोत्तमस्सूक्ष्मचिदचिद्वस्तुशरीरकः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिहरति - सत्यम् इति । [[अर्द्धाङ्गीकारे|अर्धाङ्गीकारे]] सत्य-शब्दः । कार्यानुगुण्यम् अङ्गीकृतम्, न तु प्रधानत्वम् इति । सर्वेति - प्रधानस्य एव हि सर्व-कार्याननुगुणत्वम्, कार्यानुप्रविष्ट-चिदपेक्षया तस्य कारणत्वौपयिकाकार-विरहाद् इति भावः । कार्यानुगुण-निमित्तोपादान-भाव-[[सिध्द्यर्थं|सिद्धयर्थं]] सर्वज्ञः सर्व-शक्तिर इति पद-द्वयम्, तद्-उभय-फलितम् आह - सत्य-सङ्कल्प इति सर्व-शक्तित्वासङ्कोचान् न तस्य सङ्कल्प-प्रतिबन्ध-[[सम्भावेनेति|सम्भवेनेति]] भावः । स-द्वारकत्व-[[सिध्द्यर्थं|सिद्धयर्थं]] सूक्ष्मेत्य्-आदि-पदम्, उक्ताकार-विरहे कारणत्वायोगात् । तद्वत्त्वे श्रुति-वाक्यानि दर्शयति - परास्येति । चिदचितोः शरीरत्वं कथम् ? शरीरत्वे च तद्वतः कर्म-वश्यत्वादि-षोषः स्याद् इत्य् अत्राह - तद् एतद् इति ।
 </details>
@@ -635,7 +635,7 @@ Just so; and what corresponds to the total aggregate of effects is the highest P
 इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Compare the texts 'His high power is revealed as manifold, as inherent, acting as force and knowledge' (Śvet. Up. VI, 8); 'He who is all-knowing, all-perceiving' (Mu. Up. I, 1, 9); 'He of whom the Unevolved is the body, of whom the Imperishable is the body, of whom Death is the body, he is the inner Self of all things' (Subāl. Up. VII).
 </details>
@@ -645,7 +645,7 @@ Compare the texts 'His high power is revealed as manifold, as inherent, acting a
 यथाऽऽह – पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.६.अ.८), यस्सर्वज्ञस्सर्वविद्यस्य ज्ञानमयं तपः (मु.१.१.९) यस्याव्यक्तं शरीरं यस्याक्षरं शरीरं ….. यस्य मृत्युश्शरीरम् … एष सर्वभूतान्तरात्मा (सुबा.७.१) इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न विलक्षणत्वाद् इत्य्-आदि-सूत्रैर् एषां सूत्राणां पौनरुक्त्यम् आशङ्क्याह - अत्र सृष्टीति । वस्तु-विरोधः - अर्थ-सामर्थ्य-विरोधः । अत्र वाक्य-तर्केणार्थ-निष्कर्षः, तत्र त्व् आभिमानिक-व्याप्त्याभास-निबन्धन-बाह्य-तर्क-विमर्श-तद्-निरास-मुखेनार्थ-निष्कर्ष इति भिदेत्य् अर्थः । एवं सत्त्वादि-गुण-मयस्येदं-शब्द-वाच्यस्य कारणत्वं तद्-उत्तम्भकम् एक-विज्ञानेन सर्व-विज्ञान-प्रतिज्ञानं च परिहृतं भवति ।
 </details>
@@ -660,7 +660,7 @@ Compare the texts 'His high power is revealed as manifold, as inherent, acting a
 इत्य्-आदिषु प्रतिपादयिष्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This point (viz. as to the body of the highest Person) will be established under Sū. II, 1, 4.
 </details>
@@ -676,7 +676,7 @@ This point (viz. as to the body of the highest Person) will be established under
 न प्रधान-प्रतिपादन-योग्यानीत्य् उच्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The present Sūtra declares that the texts treating of creation cannot refer to the Pradhāna;
 </details>
@@ -691,7 +691,7 @@ The present Sūtra declares that the texts treating of creation cannot refer to 
 वस्तु-विरोधस् तु +++("न विलक्षणत्वात्"→)+++ तत्रैव परिहरिष्यते ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 the Sūtra just mentioned will dispose of objections.
 </details>
@@ -711,7 +711,7 @@ the Sūtra just mentioned will dispose of objections.
 – इति, तद् असत्, हेत्वनुपादानात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Nor is the Pūrvapakshin right in maintaining that the Cḥāndogya passage is of the nature of an Inference; for it does not state a reason (hetu – which is the essential thing in an Inference).
 </details>
@@ -721,7 +721,7 @@ Nor is the Pūrvapakshin right in maintaining that the Cḥāndogya passage is o
 यत्तूक्तं प्रतिज्ञादृष्टान्तयोगादनुमानरूपमेवेदं वाक्यम् – इति, तदसत्, हेत्वनुपादानात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ परोक्तं हेत्व्-अन्तरम् अनुवदति [[यत्तूकतमिति|यत्तूक्तम् इति]] । तस्य अनुपपन्नत्वम् आह - तद् असद् इति । कथम् इत्य् अत्राह - हेत्व्-अनुपादानाद् इति । वक्तुर अनुमान-विवक्षा ऽस्ति चेत् तत्र प्रधानावयवो हेतुर् अवश्योपादेयः, तद्-अभावान्न तद्-विवक्षेति भावः ।
 </details>
@@ -736,7 +736,7 @@ Nor is the Pūrvapakshin right in maintaining that the Cḥāndogya passage is o
 तत्-सम्भव-मात्र-प्रदर्शनाय हि दृष्टान्तोपादानम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The illustrative instance (of the lump of clay) is introduced merely in order to convince him who considers it impossible that all things should be known through one thing – as maintained in the passage 'through which that is heard which was not heard,' &c.,--that this is possible after all.
 </details>
@@ -746,7 +746,7 @@ The illustrative instance (of the lump of clay) is introduced merely in order to
 येनाश्रुतं श्रुतम् (छां.६.१.६) इत्येकविज्ञानेन सर्वविज्ञाने प्रतिपिपादयिषिते सर्वात्मना तदसम्भवं मन्वानस्य तत्सम्भवमात्रप्रदर्शनाय हि दृष्टान्तोपादानम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रतिज्ञा-दृष्टान्ताभ्यां हेत्वाक्षेपो ऽप्य् अयुक्त इत्य् आह येनाश्रुतमिति । अनन्यथा-सिद्धं ह्य् आक्षेपकम्, सर्व-प्रमाण-साधारणत्वात् प्रतिज्ञा ऽन्यथा-सिद्धेति सिद्धं कृत्वा दृष्टान्तस्य हेत्वाक्षेपकत्वायोग उच्यते, न केवलं व्याप्ति-प्रदर्शनायैव [[दृष्टन्तोपन्यासः|दृष्टान्तोपन्यासः]] , अपि त्व् असम्भव-व्यावृत्ति-प्रदर्शनायापि सम्भवतीत्य् अन्यथा-सिद्धत्वात् स नाक्षेपक इत्य् अर्थः । सर्वात्मना तद्-असम्भवम् इति - एक-विज्ञानेन सर्व-विज्ञानं धर्मैक्याद् एकाकारान्वयाद् वा वस्त्वन्तर-व्यतिरेकाद् वा सम्भवति, घट-पटादिषु त्रेधापि तद् न सम्भवति, घट-पटादिषु धर्मैक्यस्य अन्वयेनान्यस्माद् व्यतिरेकेण वा समानाकार-योगस्य चाभावाद् इति भावः । अस्तु दृष्टान्तस्य अनुमानाङ्गत्वे सम्भव-प्रदर्शनार्थत्वे च साधारण्यम्, तथा सत्य् अस्मन्-मते ऽपि सम्भवः पाक्षिकः स्याद् इत्य् अत्राह - ईक्षत्यादीति ।
 </details>
@@ -758,7 +758,7 @@ The illustrative instance (of the lump of clay) is introduced merely in order to
 अनुमान-गन्धाभावः अवगतः॥५॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And the mention made in the text of 'seeing' clearly shows that there is absolutely no intention of setting forth an Inference.
 </details>
@@ -768,7 +768,7 @@ And the mention made in the text of 'seeing' clearly shows that there is absolut
 ईक्षत्यादिश्रवणादेव ह्यनुमानगन्धाभावः अवगतः॥५॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आदि-शब्देन वक्ष्यमाण-हेतवो विवक्षिताः । प्रतिज्ञा-दृष्टान्तयोः साधारण्येन अनुमानत्वं शङ्कितम्, ईक्षणाद्यसाधारण-हेतु-सद्भावाच् छङ्का ऽपि निरस्तेत्य् अभिप्रायेणोक्तम् अनुमान-गन्धाभाव इति ।
 </details>
@@ -788,7 +788,7 @@ And the mention made in the text of 'seeing' clearly shows that there is absolut
 भवति चाचेतनेष्व् अपि चेतन-धर्मोपचारः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Let us assume, then, the Pūrvapakshin resumes, that the 'seeing' of the text denotes not 'seeing' in its primary, direct sense – such as belongs to intelligent beings only; but 'seeing' in a secondary, figurative sense which there is ascribed to the Pradhāna in the same way as in passages immediately following it is ascribed to fire and water--'the fire saw'; 'the water saw' (Cḥ. Up. VI, 2, 3). The transference, to non-existent things, of attributes properly belonging to sentient beings is quite common;
 </details>
@@ -798,7 +798,7 @@ Let us assume, then, the Pūrvapakshin resumes, that the 'seeing' of the text de
 अथ स्यात् – न चेतनगतं मुख्यमीक्षणमिहोच्यते, अपि तु प्रधानगतं गौणमीक्षणम्, तत्तेज ऐक्षत – ता आप ऐक्षन्त (छां.६.२.३,४) इति गौणेक्षणसाहचर्यात् भवति चाचेतनेष्वपि चेतनधर्मोपचारः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उत्तर-सूत्रमवतारयितुमीक्षणस्य गौणत्वं शङ्कते - अथ स्याद् इति । चेतन-गतम् - चेतनत्वानुगतम् । इहेति - प्रकरणमालोचनीयम् इति भावः । प्रधान-गतम् - अचेतनत्वानुगुणम् इत्य् अर्थः । प्रथमेक्षणस्य [[तेजःप्रभृतिक्यार्त्वचिद्गतत्वायोगात्|तेजः-प्रभृति-कार्याचिद्-गतत्वायोगात्]] प्रधान-शब्दः । हेतुम् आह - तत्तेज इति । प्राय-दर्शनाय वाक्य-द्वयम् उपात्तम्, [[अग्रयप्रायन्यायोऽपि|अग्र्य-प्राय-न्यायो ऽपि]] बाधकाभावे जीवतीति भावः । सेयं देवतेति देवता-शब्दो ऽपि अनेनैव न्यायेन इमास् तिस्रो देवता इतिवत् अचिद्-विषयत्वौचित्यान् न गौणत्व-बाधक इति भावः । गौण-प्रयोगं दर्शयति - भवति चेति । ईक्षण-तुल्य-योग-क्षेम-हर्षादि-धर्मान्तर-सङ्ग्रहाय चेतन-धर्म-शब्दः । लोके शास्त्रे च प्रयोग-द्वयं दर्शितम् । गौणत्वं निगमयन्न् उक्त-शङ्का-परिहाराय सूत्रस्य अवतीर्णत्वं दर्शयति - अत इति । शङ्काया उत्सूत्रत्वाभावात् अनुभाष्येत्य् उक्तम् ।
 </details>
@@ -814,7 +814,7 @@ Let us assume, then, the Pūrvapakshin resumes, that the 'seeing' of the text de
 > अतो गौणम् ईक्षणम् 
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 as when we say 'the rice-fields look out for rain'; 'the rain delighted the seeds.'--
 </details>
@@ -832,7 +832,7 @@ as when we say 'the rice-fields look out for rain'; 'the rain delighted the seed
 अनुभाष्य परिहरति –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This view is set aside by the next Sūtra.
 </details>
@@ -847,7 +847,7 @@ This view is set aside by the next Sūtra.
 > ६. "+++(ईक्षतिर् अचेतने)+++ गौणश्" चेन् न – आत्म-शब्दात् ॥ १-१-६ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 6. If it be said that (the word 'seeing') has a secondary (figurative) meaning; we deny this, on account of the word 'Self' (being applied to the cause of the world).
 </details>
@@ -857,7 +857,7 @@ This view is set aside by the next Sūtra.
 **६. गौणश्चेन्नात्मशब्दात् ॥ १-१-६ ॥**
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 केन गुण-योगेन गौणत्वम् इति शङ्कां परिहरन् सूत्रं योजयति - यद् उक्तम् इति । पुल्लिङ्ग-गौण-शब्द-विशेष्यः प्रकृत ईक्षतिर् इत्य् अभिप्रायेणोक्तम् ईक्षण-व्यपदेश इति, गौण ईक्षतिर् नेत्य् उक्ते विशेष्य-प्रतिक्षेप-शङ्का-व्युदासाय यत्तद्-शब्दाभ्यां विशेषण-निषेध-परत्वेन व्याख्यातम् । यद् गौणत्वम् उक्तं तद् नेत्य् अर्थः । सर्गेति - गौणो ऽर्थः सर्ग-प्रागवस्था, तत्र नियत-पूर्वत्व-लक्षणं कार्यानुरूप्यं गुण-योग इत्य् अर्थः । आत्म-शब्दाद् इति सौत्रेण पदेनाविशेषेण "ऐतदात्म्यं स आत्मा" इति वाक्य-द्वय-गतात्म-शब्दो विवक्षित इत्य् अभिप्रायेण वाक्य-द्वयम् उपात्तम् ।
 </details>
@@ -874,7 +874,7 @@ This view is set aside by the next Sūtra.
 इति –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The contention that, because, in passages standing close by, the word 'seeing' is used in a secondary sense,  
 the 'seeing' predicated of the Sat ('Being') is also to be taken in a secondary sense,  
@@ -899,7 +899,7 @@ viz. as denoting (not real thought but) a certain condition previous to creation
 आत्म-शब्देन व्यपदेशात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for in other texts met with in the same section (viz. 'All this has that for its Self; that is the True, that is the Self', Cḥ. Up. VI, 8, 7), that which first had been spoken of as Sat is called the 'Self'.
 </details>
@@ -909,7 +909,7 @@ for in other texts met with in the same section (viz. 'All this has that for its
 तन्न - ऐतदात्म्यमिदं सर्वं तत्सत्यं स आत्मा (छां.६.८.७) इति सच्छब्दप्रतिपादितस्य आत्मशब्देन व्यपदेशात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सच्छब्द-प्रतिपादितस्येति - ऐतदात्म्यम् इत्य् अत्र एतच्छब्दस्य स आत्मेत्य् अत्र स इति-पदस्य च प्रकृत-परामर्शित्वाद् इति भावः । आत्म-शब्दो ऽपि मृद्-आत्मेतिवत् स्वरूपानतिरिक्तार्थः स्याद् इत्य् अत्राह - एतद् उक्तम् इति । चेतनाचेतन-प्रपञ्चोद्देशेनेति - "इदं सर्वम्" इति सर्व-शब्दासङ्कोचस्य स्वतः-प्राप्तत्वात् "सन्-मूलाः सर्वाः प्रजाः" इति पूर्व-वाक्यैकार्थ्यात् इदं सर्वम् असृजत "सच् च त्यच् चाभवत् विज्ञानं चाविज्ञानं च" इति श्रुत्य्-अन्तरैकार्थ्याच् च सर्व-शब्दश् चिद्-अचिदात्मक-जगद्-गोचर इति भावः । नाचेतने इति - न हि चेतनस्य अचेतनेन स्वरूपैक्यं सम्भवतीत्य् अर्थः । एवं गौणेक्षण-साहचर्यम् अभ्युपगम्य दूषणम् उक्तम् । अथ तद् एव नास्तीत्य् आह अत इति ।
 </details>
@@ -929,7 +929,7 @@ for in other texts met with in the same section (viz. 'All this has that for its
 – इति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The designation 'Self' which in this passage is applied to the Sat in its relation to the entire world, sentient or non-sentient, is in no way appropriate to the Pradhāna.
 </details>
@@ -947,7 +947,7 @@ The designation 'Self' which in this passage is applied to the Sat in its relati
 परमात्मन एव वाचकाः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We therefore conclude that, as the highest Self is the Self of fire, water, and earth also, the words fire, &c. (in the passages stating that fire, &c. thought) denote the highest Self only.
 </details>
@@ -957,7 +957,7 @@ We therefore conclude that, as the highest Self is the Self of fire, water, and 
 अतस्तेजोऽबन्नानामपि परमात्मैवात्मेति तेजः प्रभृतयोऽपि शब्दाः परमात्मन एव वाचकाः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत इति । अतः चिद्-अचिदात्मक-प्रपञ्चस्यात्मत्वाद इत्य् अर्थः । किमर्थम् ईक्षणोपदेश-रहितस्य अन्नस्योपादानम् - उच्यते; ईक्षणोपदेश-विरह-निबन्धनाब्रह्मात्मकत्व-शङ्का-निराकरणार्थम्, अन्यथा सर्वस्य कार्यस्य ब्रह्मात्मकत्वानवगमाद् इदं सद् इति सामानाधिकरण्यायोग्यत्वेनैक-विज्ञानेन सर्व-विज्ञान-प्रतिज्ञानं न घटते, अतस् तद्-उपादानेन [[प्रतिज्ञासिध्द्यौपयिकमनुप्रवेशनुतिसिद्धमन्नस्य|प्रतिज्ञा-सिद्धय्-औपयिकम् अनुप्रवेश-नुति-सिद्धम् अन्नस्य]] ब्रह्मात्मकत्वमिहानुषङ्गिकं दर्शितम् । न हि किञ्चिद् अप्य् अतदात्मकम् इति अपिशब्दाभिप्रायः, अतदात्मकत्वेन त्वद्-अभिमतानाम् अपीति वा, यदाश्रयतया प्रथमम् ईक्षणं मुख्यं स एवेत्य् एवकाराभिप्रायः । तेजः प्रभृतयो ऽपि - सच्छब्दवद् इत्य् अपि-शब्दस्य भावः । लोके तेजः-प्रभृति-मात्र-परत्वेन व्युत्पन्ना अपीति वा । परमात्मन एवेति - विशेष्यतया प्राधान्येन प्रतिपाद्यः परमात्मैव, तेजः-प्रभृतयस् तु द्वार-मात्रम् इति भावः । परमात्म-वाचित्वम् उपपादयति - तथाहीति ।
 </details>
@@ -981,7 +981,7 @@ We therefore conclude that, as the highest Self is the Self of fire, water, and 
 इत्य् अपि मुख्य एवेक्षण-व्यपदेशः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This conclusion agrees with the text 'Let me enter into these three beings with this living Self, and evolve names and forms', for this text implies that fire, water, &c. possess substantial being and definite names only through the highest Self having entered into them.
 </details>
@@ -991,7 +991,7 @@ This conclusion agrees with the text 'Let me enter into these three beings with 
 तथा हि – हन्ताहमिमास्तिस्रो देवता अनेन जीवेनाऽत्मनाऽनुप्रविश्य नामरूपे व्याकरवाणि (छां.६.३.२) इति परमात्मानुप्रवेशादेव तेजःप्रभृतीनां वस्तुत्वं तत्तन्नामभाक्त्वञ्चेति तत्तेज ऐक्षत, ता आप ऐक्षन्त (छां.६.२.३,४) इत्यपि मुख्य एवेक्षणव्यपदेशः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वस्तुत्वम् - तद्-रूप-वस्तुत्वम् । तेजसो वस्तुत्वं तेजस्त्वम्, अपां [[वस्तुत्वमप्त्वम्|वस्तुत्वम् अप्त्वम्]] , पृथिव्या वस्तुत्वं पृथिवीत्वम्, देव-मनुष्यादीनां वस्तुत्वं देवत्व-मनुष्यत्वादिकम्, तत्तदवस्थाभाक्त्वम् - नाम-भाक्त्वम् नाम-वाच्यत्वम् । ननु कथं परस्य नाम-व्याकर्तृत्व-श्रवणान् नाम-वाच्यत्व-सिद्धिः ? उच्यते; "तन्नामरूपाभ्यां व्याक्रियते" इति समान-वाक्ये व्याकृतत्व-श्रवणात् नाम्नो विशेषितत्वं हि नाम-व्याकृतत्वम्, नाम विशेषितत्वं च नाम-वाच्यत्व-रूपम् इति प्रसिद्धम्, न तु तद्-उत्पादकत्व-मात्रम् । न ह्य् आकाशस्य वा माता-पित्रादेर् वा देवदत्तादि-नाम-विशेषितत्व-प्रसिद्धिः, अतो नाम-व्याकृतत्वं नाम-वाच्यत्वम्, अतस् तद्-ऐकार्थ्याद् इहापि नाम-वाच्यत्वं विवक्षितम् । "वचसां वाच्यम् उत्तमम्" इति चायम् अर्थ उच्यते, एवं [[तेजःप्रभृतिशब्|तेजः-प्रभृति-शब्दानां]] परमात्म-वाचित्वोपपादन-फलम् आह - इति तत् तेज ऐक्षतेति । इति-शब्दो हेतु-परः ।
 </details>
@@ -1005,7 +1005,7 @@ This conclusion agrees with the text 'Let me enter into these three beings with 
 इति सूत्राभिप्रायः॥६॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The thought ascribed in the text to fire, water, &c. hence is thought in the proper sense, and the hypothesis that, owing to its connexion with these latter texts, the thought predicated of 'Being' ('it thought,' &c.) should be thought in a figurative sense only thus lapses altogether.
 </details>
@@ -1015,7 +1015,7 @@ The thought ascribed in the text to fire, water, &c. hence is thought in the pro
 अतस्साहचर्यादपि तदैक्षत इत्यत्र गौणत्वाशङ्का दूरोत्सारितेति सूत्राभिप्रायः॥६॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मुख्यत्व-फलम् आह - अत इति । अपि-शब्दो गौणत्व-शङ्का-हेतु-समुच्चय-परः, इदं-शब्द-वाच्य-जगत्-कारणत्वादिना गौणत्व-शङ्का परिहृता, गौणेक्षण-साहचर्याच् च गौणत्व-शङ्का निरस्तेत्य् अर्थः । यद्वा त्वन्मत-साधकाद् अपि त्वन्मतं निरस्तम् इति भावः । दूरोत्सारितेति - गौण-साहचर्ये सत्यपि [[सर्वशब्दतत्प्रतिसम्बन्धिवाचकात्मशब्दस्वारस्येन|सर्व-शब्द-तत्-प्रतिसम्बन्धि-वाचकात्म-शब्द-स्वारस्येन]] "तद् ऐक्षत" इत्य् अत्र गौणत्वाशङ्कोत्सारिता, गौण-साहचर्यासिद्ध्या दूरोत्सारितेत्य् अर्थः । गौणेक्षण-साहचर्ये सत्यपि आत्म-शब्दात् प्रथमेक्षणम् अगौणम्, आत्म-शब्दाद् एव गौणेक्षण-साहचर्यम् असिद्धं चेत्य् अर्थ-द्वयं कथम् एकेन वाक्येनोच्यत इत्य् अत्राह - इति सूत्राभिप्राय इति । प्रतिज्ञा-दृष्टान्तयोर् हेत्वनाक्षेपकत्वं मुख्यामुख्यार्थानुग्राहकेषु मुख्यानुग्राहकस्य अनुरोद्धव्यत्वं च अस्मिन् अधिकरणे व्युत्पाद्यम् इति सूत्र-द्वये स्पष्टम् ।
 </details>
@@ -1026,7 +1026,7 @@ The thought ascribed in the text to fire, water, &c. hence is thought in the pro
 इतश् च न प्रधानं सच्-छब्द-प्रतिपाद्यम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next following Sūtra confirms the same view.
 </details>
@@ -1036,7 +1036,7 @@ The next following Sūtra confirms the same view.
 इतश्च न प्रधानं सच्छब्दप्रतिपाद्यम् –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अवान्तर-साध्य-विषयत्व-शङ्कां व्युदस्यन्न् उत्तर-सूत्रम् अवतारयति - इतश् चेति । कारणत्वौपयिकेक्षण-धर्म-निरूपणेन परमात्मत्वं सतः समर्थितम् । अथ "कारणन्तु ध्येयः" इति कारण-वस्त्वासाधारण-मोक्ष-प्रदत्व-धर्मेण परमात्मत्वं साध्यत इति सङ्गतिः ।
 </details>
@@ -1046,7 +1046,7 @@ The next following Sūtra confirms the same view.
 > ७. +++(तत्-क्रतु-न्याये सति)+++ तन्-निष्ठस्य मोक्षोपदेशात् +++(नाचेतनम् उक्तम्)+++ ॥ १-१-७ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 7. Because release is taught of him who takes his stand on it.
 </details>
@@ -1056,7 +1056,7 @@ The next following Sūtra confirms the same view.
 **७. तन्निष्ठस्य मोक्षोपदेशात् ॥ १-१-७ ॥**
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "तस्य तावत्" इति श्रुतौ तस्येति-पदस्य व्याख्यानं सूत्रे तन्निष्ठस्येति-पदम् इति दर्शयन् तच्छब्द-निष्ठा-शब्दयोर् अर्थं विवृण्वन् सूत्रार्थम् आह - मुमुक्षोर इति ।
 </details>
@@ -1081,7 +1081,7 @@ The next following Sūtra confirms the same view.
 इत्य् उपदिशति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Svetaketu, who is desirous of final release, is at first – by means of the clause 'Thou art that'--instructed to meditate on himself as having his Self in that which truly is; and thereupon the passage 'for him there is delay' only as long as 'I shall not be released, then I shall be united' teaches that for a man taking his stand upon that teaching there will be Release, i.e. union with Brahman – which is delayed only until this mortal body falls away.
 </details>
@@ -1091,7 +1091,7 @@ Svetaketu, who is desirous of final release, is at first – by means of the cla
 मुमुक्षोश्श्वेतकेतोः तत्त्वमसि (छां.६.८.७) इति सदात्मकत्वानुसन्धानमुपदिश्य, तन्निष्ठस्य तस्य तावदेव चिरं यावन्न विमोक्ष्ये अथ सम्पत्स्ये (छां.६.१४.२) इति शरीरपातमात्रान्तरायो ब्रह्मसम्पत्तिलक्षणो मोक्ष इत्युपदिशति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अर्वाचीन-फलक-दृष्टि-विधि-सम्भवाच् चेतने कृत्स्न-जगद्-उपादानतयोत्कृष्ट-प्रधान-दृष्टि-विधिर् अयम् इति शङ्का मुमुक्षोर इति पदेन निरस्ता तत्त्वमसीति सदात्मकत्वानुसन्धानम् उपदिश्येति सदात्मकत्वोपदेश-वाक्य-गतस् तच्छब्दः प्रकृत-सद्-विषय इति ज्ञापन-परस् सूत्रे तच्छब्द इत्य् अभिप्रायेण सदात्मकत्वेत्य् उक्तम् । अनुसन्धान-शब्देन निष्ठा-शब्दार्थ उक्तः, इहोपदेशस्य अनुसन्धानार्थत्वं कथम् अवगतम् ? उच्यते, उपक्रमे "येनाश्रुतं श्रुतं भवति अमतं मतमविज्ञातं विज्ञातम्" इति श्रवण-मनन-समनन्तर-भावि-विज्ञान-शब्द उपासन-परः, "श्रोतव्यो मन्तव्यो निदिध्यासितव्यः" इत्य् अनेनैकार्थ्यात्, उपसंहारे च "तद्धा ऽस्य विजज्ञौ" इति तत्-तुल्यार्थं विजज्ञाविति-पदम् आवर्त्तितम् । मध्ये ऽपि "आचार्यवान् पुरुषो वेद" इत्याचार्यवत्त्वा-फलत्वेन प्रतिपादितार्थ-विशेष-वेदन-वचनम् आचार्योपदिष्टार्थस्य अनुसन्धेयत्वे लिङ्गम् । एवम् एभिः कारणैः सदात्मकत्वोपदेशस्य उपासनार्थत्वावगमः । शरीर-पात-मात्रान्तराय इति - अन्तराय-शब्देन विलम्बो लक्ष्यते, शरीर-पातावधि विलम्ब इत्य् अर्थः । "यावन्न विमोक्ष्ये" इत्युक्ते कथं शरीरान् मोक्ष-सिद्धिः ? उच्यते; मोक्ष इत्युक्ते कस्मान् मोक्ष इति बन्धकं किञ्चिद् आकाङ्क्षितम्, तच् च किम् इत्य् अपेक्षायाम् अस्याम् एव विद्यायाम् "अथ यदा ऽस्य वाङ्मनसि सम्पद्यते" इत्य्-आदिना देहाद् उत्क्रमण-श्रवणात् अन्यत्र च "अस्माच् छरीरात् समुत्थाय परं ज्योतिर् उपसम्पद्य" धूत्वा शरीरम् "अशरीरं वा वसन्तं न प्रियाप्रिये स्पृशतः" इति श्रवणात् "त्यक्त्वा देहं पुनर्जन्म नैति" इत्य्-आदि-स्मरणाच् च शरीरम् इत्य् अवगम्यते । ब्रह्म-सम्पत्ति-लक्षण इति - "अथ सम्पत्स्ये" इति सम्पत्तेः "सता सोम्य तदा सम्पन्नो भवति" इति वाक्यान्तर-प्रतिपन्नं ब्रह्मैव कर्मेति भावः - मोक्ष इति । सौत्रस्य मोक्ष-शब्दस्य शरीर-पात-पूर्विका ब्रह्म-सम्पत्तिर् एवार्थः, न तु शरीरापात-मात्रम् इत्य् अभिप्रायः ।
 </details>
@@ -1102,7 +1102,7 @@ Svetaketu, who is desirous of final release, is at first – by means of the cla
 तदा तद्-आत्मकत्वानुसन्धानस्य मोक्ष-साधनत्वोपदेशो नोपपद्यते +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If, on the other hand, the text would teach that the non-intelligent Pradhāna is the general cause, it could not possibly teach that meditation on this Pradhāna being a man's Self is the means towards his Release.
 </details>
@@ -1112,7 +1112,7 @@ If, on the other hand, the text would teach that the non-intelligent Pradhāna i
 यदि च प्रधानमचेतनं कारणमुपदिश्येत, तदा तदात्मकत्वानुसन्धानस्य मोक्षसाधनत्वोपदेशो नोपपद्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किं प्रधान-वैलक्षण्यस्येत्य् अपेक्षायां मुमुक्षोर इति पदेनाभिप्रेतं विवृणोति - यदि चेति । कथम् अनुपपत्तिः ? तीर्थ-क्षेत्र-सेवा-दिवद् अचिद्-उपासनस्य मोक्षोपयोगित्वं शास्त्र-बलात् किं न स्याद् इति शङ्कायाम् आह - यथा क्रतुरिति ।
 </details>
@@ -1125,7 +1125,7 @@ If, on the other hand, the text would teach that the non-intelligent Pradhāna i
 इति तन्-निष्ठस्याचेतन-सम्पत्तिर् एव स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 A man taking his stand on such meditation rather would on death be united with a non-sentient principle, according to the scriptural saying, 'According as his thought is in this world, so will he be when he has departed this life' (Cḥ. Up. III, 14, 1).
 </details>
@@ -1135,7 +1135,7 @@ A man taking his stand on such meditation rather would on death be united with a
 यथाक्रतुरस्मिल्लोके पुरुषो भवति तथेतः प्रेत्य भवति (छां.१.१४.१) इति तन्निष्ठस्याचेतनसम्पत्तिरेव स्यात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपासनानुरूप-फल-भाक्त्वं श्रुत्यर्थः, ततश् च हेयोपासनाद् हेय-प्रहाणानुपपत्तिः । अचेतन-सम्पत्तिः - अचित्-प्राप्तिः, संसारित्वम् कर्म-कृताचित्-सम्बन्धो हि संसारः । सम्पत्ति-शब्दस्य प्राप्त्यर्थत्वं तापत्रयाभिहति-हेतु-भूताम् अचित्-सम्पत्तिम् इत्य् अनन्तर-भाष्येण व्यक्तम् ।
 </details>
@@ -1146,7 +1146,7 @@ A man taking his stand on such meditation rather would on death be united with a
 एवं-विध-ताप-त्रयाभिहति- -हेतु-भूताम् अचित्-सम्पत्तिम् उपदिशति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And Scripture, which is more loving than even a thousand parents, cannot possibly teach such union with the Non-sentient, which is acknowledged to be the cause of all the assaults of suffering in its threefold form.
 </details>
@@ -1156,7 +1156,7 @@ And Scripture, which is more loving than even a thousand parents, cannot possibl
 न च मातापितृसहस्रेभ्योऽपि वत्सलतरं शास्त्रमेवंविधतापत्रयाभिहति-हेतुभूतामचित्सम्पत्तिमुपदिशति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अचेतन-सम्पत्तिर् अस्तु, ततः किम् इत्य् अत्राह - न चेति । अत्र "शास्त्रं हि वत्सलतरं माता-पितृ-सहस्रतः" इति पुराण-वचनं स्मारितम् । माता-पितृ-सहस्रेभ्य इति - माता-पितरावेकस्मिन् जन्मन्यैहिक-पोषण-मात्र-परौ, शास्त्रं त्व् अनेकेषु जन्मसु ऐहिकामुष्मिक-सर्व-विध-रक्षण-परम् इति भावः । तापत्रयेति - शास्त्रस्य प्रयोजन-पर्यवसानं न स्याद् इत्य् अभिप्रायः । एवम् श्रुति-सिद्ध-न्याय-विरोध-प्रयोजन-पर्यवसानाभावाभ्यां मोक्षोपयोगित्वं निरस्तम् ।
 </details>
@@ -1167,7 +1167,7 @@ And Scripture, which is more loving than even a thousand parents, cannot possibl
 प्रधान-निष्ठस्य मोक्षं नाभ्युपगच्छन्ति॥७॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, those who hold the theory of the Pradhāna being the cause of the world do not themselves maintain that he who takes his stand upon the Pradhāna attains final release.
 </details>
@@ -1177,7 +1177,7 @@ Moreover, those who hold the theory of the Pradhāna being the cause of the worl
 प्रधानकारणवादिनोऽपि हि प्रधाननिष्ठस्य मोक्षं नाभ्युपगच्छन्ति॥७॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्मिन्न् अर्थे पर-मत-संवादं दर्शयति - प्रधान-कारणेति । प्रधान-निष्ठस्येति - "व्यक्ताव्यक्तज्ञविज्ञानात्" इति वदता ऽपि साङ्ख्येण प्रधानस्य व्याधेर् इव परिज्ञान-मात्रं विवक्षितम्, न तूपासनम् इति भावः ।
 </details>
@@ -1188,7 +1188,7 @@ Moreover, those who hold the theory of the Pradhāna being the cause of the worl
 इतश् च न प्रधानम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Pradhāna is not the cause of the world for the following reason also:
 </details>
@@ -1198,7 +1198,7 @@ The Pradhāna is not the cause of the world for the following reason also:
 इतश्च न प्रधानम् –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु तत्त्वमसीति न सदात्मकत्वानुसन्धानोपदेशः, किन्तु स्थूलोऽहमित्यादिदेहात्मभ्रमानुवादः, अतः सच्छब्दवाच्याचेतनस्य मुमुक्षुणा ज्ञातव्यत्वं हानार्थम् इति शङ्कया अनन्तरसूत्रसङ्गतिम् अभिप्रयन्न् आह - इतश् चेति ।
 </details>
@@ -1208,7 +1208,7 @@ The Pradhāna is not the cause of the world for the following reason also:
 **८. +++(सद्-)+++हेयत्वावचनाच् च +++(न प्रधानं जगत्-कारणं ध्येयम्)+++॥ १-१-८ ॥**
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 8. And because there is no statement of its having to be set aside.
 </details>
@@ -1225,7 +1225,7 @@ The Pradhāna is not the cause of the world for the following reason also:
 मोक्ष-विरोधित्वात् हेयत्वेनैव उपदेश्यं स्यात् ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 If the word 'Sat' denoted the Pradhāna as the cause of the world, we should expect the text to teach that the idea of having his Self in that 'Sat' should be set aside by Śvetaketu as desirous of Release; for that idea would be contrary to Release.
 </details>
@@ -1247,7 +1247,7 @@ If the word 'Sat' denoted the Pradhāna as the cause of the world, we should exp
 इत्य् उपदिश्यते॥ ८॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 So far from teaching this, the text, however, directly inculcates that notion in the words 'Thou art that.'
 </details>
@@ -1257,7 +1257,7 @@ So far from teaching this, the text, however, directly inculcates that notion in
 न च तत्क्रियते, प्रत्युतोपादेयत्वेनैव तत्वमसि (छां.६.८.७), तस्य तावदेव चिरम् (छां.६.१४.२) इत्युपदिश्यते॥ ८॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न परं प्रत्यानुकूल्याभाव-मात्रम्, किन्तु प्रातिकूल्यं च अस्तीत्याह - प्रत्युतेति । स्थूलो ऽहम् इत्य्-आद्य्-अनुसन्धानस्येव न सदात्मकत्वानुसन्धानस्य हेयत्वं प्रतिपाद्यते, अपि तूपादेयत्वम् एवोच्यते; तच् च प्रधान-परत्वे ऽनुपपन्नम्, "अनादिमायया सुप्तः मायया सन्निरुद्धः" "अनीशया शोचति मुह्यमानः" "जहात्येनां भुक्तभोगामजोऽन्यः" इत्य्-आदिषु प्रधान-प्रस्तावेषु तस्य हेयत्वेनैव प्रतिपादनाद् इत्य् अर्थः । एवं "तद् ऐक्षत" इत्य्-आदि-वाक्य-प्रभृति तद्-उपरितन-वाक्यावगता हेतव उक्ताः, तेषां समाप्तौ च-शब्दः प्रयुक्तः । यद्वा उपादेयतोक्त्यनुपादेयतानुक्त्योः सूत्र-द्वय-प्रतिपादितयोर् अन्वय-व्यतिरेकात्मना परस्पर-सङ्गतयोर् एकीकारार्थ इह च-शब्दः, अत एव हि प्रत्युतेत्य्-आदिना पूर्व-सूत्रार्थ-निगमनं कृतम् ।
 </details>
@@ -1268,7 +1268,7 @@ So far from teaching this, the text, however, directly inculcates that notion in
 इतश् च न प्रधानम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra adds a further reason.
 </details>
@@ -1283,7 +1283,7 @@ The next Sūtra adds a further reason.
 +++("एक-विज्ञानेन सर्व-विज्ञानम्"→)+++ प्रतिज्ञा-विरोधात् +++(न सच्-छब्द-वाच्यम् प्रधानम्)+++ ॥ १-१-९ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 9. And on account of the contradiction of the initial statement.
 </details>
@@ -1298,7 +1298,7 @@ The next Sūtra adds a further reason.
 प्रधान-कारणत्वे प्रतिज्ञा-विरोधश् च भवति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Pradhāna's being the cause of the world would imply a contradiction of the initial statement,
 </details>
@@ -1308,7 +1308,7 @@ The Pradhāna's being the cause of the world would imply a contradiction of the 
 प्रधानकारणत्वे प्रतिज्ञाविरोधश्च भवति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथोपक्रम-विरोधे सत्य् उत्तर-वाक्य-गत-हेतूनां दौर्बल्यात् प्रधानम् एव प्रतिपाद्यम् इति शङ्कां परिहरति - प्रतिज्ञाविरोधात् इति । कस्मिन्न् अर्थे विरोध इत्य् अपेक्षां पूरयन् व्याचष्टे - प्रधानकारणत्व इति ।
 </details>
@@ -1318,7 +1318,7 @@ The Pradhāna's being the cause of the world would imply a contradiction of the 
 वाक्योपक्रमे ह्य् एक-विज्ञानेन सर्व-विज्ञानं प्रतिज्ञातम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 viz. that through the knowledge of one thing all things are to be known.
 </details>
@@ -1328,7 +1328,7 @@ viz. that through the knowledge of one thing all things are to be known.
 वाक्योपक्रमे ह्येकविज्ञानेन सर्वविज्ञानं प्रतिज्ञातम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वाक्योपक्रमे हीति । प्रतिज्ञा-वाक्ये सर्व-शब्दाभावे ऽपि "कस्मिन् नु भगवो विज्ञाते सर्वम् इदं विज्ञातं भवति" "आत्मनि खल्वे दृष्टे श्रुते मते विज्ञाते इदं सर्वं विज्ञातम्" इति समान-प्रकरण-वाक्यैकार्थ्यात् सर्वाः प्रजा इति वक्ष्यमाण-स्वारस्याच् च सर्व-विज्ञानं प्रतिज्ञातम् इत्य् उक्तम् । न च सर्वं मृण्मयम् इतिवत् कार्य-भूत-सर्वाचिद्विज्ञानम् एव सर्व-विज्ञानम् इति वाच्यम्; "सन्-मूलास् सोम्येमाः सर्वाः प्रजाः" इति सर्व-शब्द-समानाधिकरण-प्रजा-शब्द-स्वारस्यावगतानां चेतनानाम् अपि सन्-मूलतया ज्ञातव्य-सर्व-कार्यान्तर्भावादिति भावः ।
 </details>
@@ -1339,7 +1339,7 @@ viz. that through the knowledge of one thing all things are to be known.
 कारण-भूत-- -सद्-विज्ञानात् तत्-कार्य-भूत-चेतनाचेतन-प्रपञ्चस्य ज्ञाततयैवोपपादनीयम्।  
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now, on the principle of the non-difference of cause and effect, this initial statement can only be fulfilled in that way that through the knowledge of the 'Sat', which is the cause, there is known the entire world, whether sentient or non-sentient, which constitutes the effect. 
 </details>
@@ -1358,7 +1358,7 @@ Now, on the principle of the non-difference of cause and effect, this initial st
 प्रधान-विज्ञानेन चेतन-वर्ग-विज्ञानासिद्धेः विरुध्यते॥९॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 But if the Pradhāna were the cause, the aggregate of sentient beings could not be known through it – for sentient beings are not the effect of a non-sentient principle, and there would thus arise a contradiction.
 </details>
@@ -1368,7 +1368,7 @@ But if the Pradhāna were the cause, the aggregate of sentient beings could not 
 तत्तु प्रधानकारणत्वे चेतनवर्गस्य प्रधानकार्यत्वाभावात् प्रधानविज्ञानेन चेतनवर्गविज्ञानासिद्धेः विरुध्यते॥९॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किम् इत्य् अत्राह - तच् चेति । कार्य-कारणयोर् अनन्यत्वेनेति - न हि चिद्-अचितोर् अनन्यत्वम् इति भावः । नन्व् अन्यत्वे ऽपि एक-विज्ञानात् सर्व-विज्ञानं घटते, पृथिव्यादीनां कार्यतया चिद्-अंशस्य अकार्यतया च ज्ञान-सम्भवाद् इत्य् अत्राह - तत्कार्यभूतचेतनाचेतनप्रपञ्चस्येति । मृत्-पिण्ड-तत्-कार्यादि-दृष्टान्त-बलात् "सन्-मूलाः सर्वाः प्रजाः" इति वाक्ये प्रजा-शब्द-स्वारस्याच् च चेतनस्य अपि कार्यतयैव ज्ञातत्वं वक्तव्यम् इति भावः । ज्ञाततयैवोपपादनीयमिति - देवदत्त-ज्ञानेन ग्राम-विज्ञानवन् नात्र सर्व-विज्ञानम् औपचारिकम्, औपचारिकत्वे सर्व-विज्ञानस्य लोक-दृष्टत्वेन कथं नु भगव इति प्रश्नायोगात् अनन्य-भूत-मृत्-तद्-कार्यादि-दृष्टान्त-मुखेन मुख्यतयैव सर्व-विज्ञानोपपादन-दर्शनाच् चेति भावः । उक्त-विपर्ययेण प्रतिज्ञा-विरोधं दर्शयति - तत् त्विति ।
 </details>
@@ -1379,7 +1379,7 @@ But if the Pradhāna were the cause, the aggregate of sentient beings could not 
 इतश् च न प्रधानम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra supplies a further reason.
 </details>
@@ -1394,7 +1394,7 @@ The next Sūtra supplies a further reason.
 १०. +++(स्वापे स्वकारण-भूत-सत्→)+++स्वाप्ययात् +++(न प्रधानं सच्-छब्द-वाच्यम्)+++ ॥ १-१-१० ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 10. On account of (the individual soul) going to the Self.
 </details>
@@ -1418,7 +1418,7 @@ The next Sūtra supplies a further reason.
 "सता सम्पन्नं", "स्वम् अपीतः" – "स्वस्मिन् प्रलीनः" इति व्यपदिशति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 With reference to the 'Sat' the text says, 'Learn from me the true nature of sleep. When a man sleeps here, he becomes united with the Sat, he is gone to his own (Self). Therefore they say he sleeps (svapiti), because he is gone to his own (sva-apīta)' (Cḥ. Up. VI, 8, 1). This text designates the soul in the state of deep sleep as having entered into, or being merged or reabsorbed in, the Self.
 </details>
@@ -1428,7 +1428,7 @@ With reference to the 'Sat' the text says, 'Learn from me the true nature of sle
 तदेव सच्छब्दवाच्यं प्रकृत्याह, स्वप्नान्तं मे सोम्य विजानीहीति यत्रैतत्पुरुषस्स्वपिति नाम सता सोम्य तदा सम्पन्नो भवति स्वमपीतो भवति तस्मादेनं स्वपितीत्याचक्षते स्वं ह्यपीतो भवति (छां.६.८.१) इति सुषुप्तं जीवं सता सम्पन्नं, स्वमपीतः – स्वस्मिन्प्रलीनः इति व्यपदिशति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एक-विज्ञानेन सर्व-विज्ञान-प्रतिज्ञानं कार्य-कारण-भाव-निबन्धनम्, सुषुप्तौ परमात्मनि चेतनस्य प्रलयश् च तन्-निबन्धन इति कार्य-कारण-भाव-निबन्धनत्व-साम्यात् सङ्गतं सुषुप्तौ लयं हेतुत्वेनाहेत्य् अभिप्रयन्न् आह - इतश् चेति ।  
 कारणता-विरोधीति ।  
@@ -1441,7 +1441,7 @@ With reference to the 'Sat' the text says, 'Learn from me the true nature of sle
 प्रलयश् च – स्व-कारणे लयः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 By reabsorption we understand something being merged in its cause.
 </details>
@@ -1451,7 +1451,7 @@ By reabsorption we understand something being merged in its cause.
 प्रलयश्च – स्वकारणे लयः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्तु लय-स्थानोपस्थापकयोः स्व-सच्छब्दयोर् ऐकार्थ्यम्, तत् तु स्व-शब्दस्य स्वीय-परत्वेन स्व-सच्छब्दयोर् उभयोर अपि प्रधान-परत्वे ऽप्युपपद्यत इत्य् अत्राह - प्रलयश् चेति ।
 </details>
@@ -1463,7 +1463,7 @@ By reabsorption we understand something being merged in its cause.
 चेतनस्य जीवस्य कारणं भवितुम् अर्हाति।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Now the non-intelligent Pradhāna cannot be the cause of the intelligent soul;
 </details>
@@ -1473,7 +1473,7 @@ Now the non-intelligent Pradhāna cannot be the cause of the intelligent soul;
 न चाचेतनं प्रधानं चेतनस्य जीवस्य कारणं भवितुमर्हाति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कार्यता-रूप-विसदृशावस्था-प्रहाणेन कारणान्तर्भावो हि लयः । ततः किम् इत्य् अत्राह - न चेति । अचेतनम् - अचित्त्वाद इत्य् अर्थः ।  
 </details>
@@ -1485,7 +1485,7 @@ Now the non-intelligent Pradhāna cannot be the cause of the intelligent soul;
 आत्मानम् एव जीवो ऽपीतो भवतीत्य् अर्थः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 hence the soul's going to its Self can only mean its going to the, i.e. the universal, Self.
 </details>
@@ -1503,7 +1503,7 @@ hence the soul's going to its Self can only mean its going to the, i.e. the univ
 नाम-रूप-व्याकरण-श्रुत्योक्तम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The term 'individual soul' (jīva) denotes Brahman in so far as having an intelligent substance for its body, Brahman itself constituting the Self; as we learn from the text referring to the distinction of names and forms.
 </details>
@@ -1527,7 +1527,7 @@ The term 'individual soul' (jīva) denotes Brahman in so far as having an intell
 इत्य् उच्यते।+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 This Brahman, thus called jīva, is in the state of deep sleep, no less than in that of a general pralaya, free from the investment of names and forms, and is then designated as mere 'Being' (sat); as the text says, 'he is then united with the Sat'.
 </details>
@@ -1548,7 +1548,7 @@ This Brahman, thus called jīva, is in the state of deep sleep, no less than in 
 इत्य् उच्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 As the soul is in the state of deep sleep free from the investment of name and form, and invested by the intelligent Self only, another text says with reference to the same state,  
 
@@ -1568,7 +1568,7 @@ As the soul is in the state of deep sleep free from the investment of name and f
 स्व-व्यतिरिक्त-विषय-ज्ञानोदयः +++(→स च +++(सुषुप्त्यादि-भिन्नावस्थायाम्)+++)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Up to the time of final release there arise in the soul invested by name and form the cognitions of objects different from itself.
 </details>
@@ -1602,7 +1602,7 @@ Up to the time of final release there arise in the soul invested by name and for
 इति च ।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 During deep sleep the souls divest themselves of names and forms, and are embraced by the 'Sat' only; but in the waking state they again invest themselves with names and forms, and thus bear corresponding distinctive names and forms. This, other scriptural texts also distinctly declare, 'When a man lying in deep sleep sees no dream whatever, he becomes one with that prāṇa alone;--from that Self the prāṇas proceed, each towards its place' (Kau.Up. III, 3); 'Whatever these creatures are here, whether a lion or a wolf or a boar or a gnat or a mosquito, that they become again' (Cḥ. Up. VI, 9, 3).
 </details>
@@ -1621,7 +1621,7 @@ During deep sleep the souls divest themselves of names and forms, and are embrac
 इति च वदति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence the term 'Sat' denotes the highest Brahman, the all-knowing highest Lord, the highest Person.
 </details>
@@ -1631,7 +1631,7 @@ Hence the term 'Sat' denotes the highest Brahman, the all-knowing highest Lord, 
 तथा सुषुप्तं जीवं प्राज्ञेनात्मना सम्पिरष्वक्तः (बृ.६.३.२) इति च वदति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्थूलावस्थस्य जीवस्य सूक्ष्मावस्थे स्व-कारणी-भूते सत्ता-योगिनि स्वात्मनि लयोपपत्तेः सच्छब्दस्य तत्-परत्वं सम्भवतीति शङ्कां व्युदसितुम् आह - तथा सुषुप्तम् इति ।
 
@@ -1820,7 +1820,7 @@ Hence the term 'Sat' denotes the highest Brahman, the all-knowing highest Lord, 
 तस्मात् सच्-छब्द-वाच्यः परं ब्रह्म सर्वज्ञः परमेश्वरः पुरुषोत्तम एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence the term 'Sat' denotes the highest Brahman, the all-knowing highest Lord, the highest Person.
 </details>
@@ -1841,7 +1841,7 @@ Hence the term 'Sat' denotes the highest Brahman, the all-knowing highest Lord, 
 इति॥१०॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Thus the Vr̥ttikāra also says, 'Then he becomes united with the Sat – this is proved by (all creatures) entering into it and coming back out of it.' And Scripture also says, 'Embraced by the intelligent Self.'
 </details>
@@ -1851,7 +1851,7 @@ Thus the Vr̥ttikāra also says, 'Then he becomes united with the Sat – this i
 तदाह वृत्तिकारः – सता सोम्य तदा सम्पन्नो भवति इति, सम्पत्यसम्पत्तिभ्यामेतदध्यवसीयते – प्राज्ञेनाऽत्मना सम्परिष्वक्तः (बो.वृ) इति चाह इति॥१०॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सौत्रं हेतुं परम-साध्येन सङ्गमयति - तस्मादिति । अप्यय-स्थानस्य परम-कारणत्वायाह परं ब्रह्मेति । जीव-व्यावृत्त्यर्थं सर्वज्ञ-शब्दः । "प्राज्ञेनात्मने"ति हि श्रुतिः । "तद् ऐक्षते"त्ये तत्-सम्वादिनी । अप्यये ऽपि जीव-नियन्तृत्व-ज्ञापनार्थम् ईश्वरोत्तीर्ण-तत्त्व-व्युदासार्थं च परमेश्वर-शब्दः । सुषुप्त-पुरुष-वैलक्षण्य-परो देवता-विशेष-परश् च पुरुषोत्तम-शब्दः । व्याख्यानान्तर-व्यावृत्त्यर्थम् आह - तदाहेति । सम्पत्त्यसम्पत्तिभ्याम् इति "सति सम्पद्य न विदुः सति सम्पत्स्यामहे" इति सत आगम्य न विदुः सत आगच्छामह इत्य् उक्ताभ्यां सम्पत्ति-निर्गमाभ्याम् इत्य् अर्थः । यद्वा परमात्मनि सम्पत्त्या अन्यत्र असम्पत्त्या चेत्य् अर्थः । स्वाप्यय-शब्देनासम्पत्तिर् अप्य् अभिप्रेतेति वृत्तिकारस्य भावः । एतत् - परब्रह्म-कारणत्वम् इत्य् अर्थः ॥
 </details>
@@ -1863,7 +1863,7 @@ Thus the Vr̥ttikāra also says, 'Then he becomes united with the Sat – this i
 इतश् च न प्रधानम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra gives an additional reason.
 </details>
@@ -1878,7 +1878,7 @@ The next Sūtra gives an additional reason.
 ११. +++(सृष्टि-वाक्य-)+++गति-+++(कारण-)+++सामान्यात् +++(कारणम् इह न प्रधानम्)+++॥ १-१-११ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 11. On account of the uniformity of view.
 </details>
@@ -1907,7 +1907,7 @@ The next Sūtra gives an additional reason.
 तेषु च सर्वेषु सर्वेश्वरः कारणम् अवगम्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 'In the beginning the Self was all this; there was nothing else whatsoever thinking. He thought, shall I send forth worlds? He sent forth these worlds' (Ait. Ār. II, 4, 1, 1); 'From that Self sprang ether, from ether air, from air fire, from fire water, from water earth' (Taitt. Up. II, 1); 'From this great Being were breathed forth the R̥g-veda,' &c.--These and similar texts referring to the creation have all the same purport: they all teach us that the Supreme Lord is the cause of the world.
 </details>
@@ -1917,7 +1917,7 @@ The next Sūtra gives an additional reason.
 आत्मा वा इदमेक एवाग्र आसीन्नान्यत्किञ्चन मिषत्। स ईक्षत लोकान्नु सृजा इति। स इमांल्लोकानसृजत (ऐत.१.१) तस्माद्वा एतस्मादात्मन आकाशस्सम्भूतः। आकाशाद्वायुः। वायोरग्निः। अग्नेरापः। अद्भ्यः पृथिवी (तै.आनं.१) तस्य ह वा एतस्य महतो भूतस्य निश्वसितमेतद्यदृग्वेदः (सुबा.२) इत्यादि सृष्टिवाक्यानां या गतिः – प्रवृत्तिः; तत्सामान्यात् – तत्समानार्थत्वादस्य, तेषु च सर्वेषु सर्वेश्वरः कारणमवगम्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वसूत्रे "प्राज्ञेनात्मने"त्यादेः सुषुप्ति-विषयस्य श्रुत्यन्तरस्य प्रकृतार्थोपपादकतया बुद्धि-स्थत्वात् कारणस्य परमात्मत्वम् अपि कारण-विषयैः श्रुत्यन्तरैर् उपपाद्यते - गतिसामान्यात् इति । पूर्वं "गौणश् चेन् नात्मशब्दात्" इत्य् उक्तत्वाद् आत्म-शब्दवतीः श्रुतीर् उदाहरति - आत्मा वा इत्य्-आदिना तस्य ह वा एतस्येत्य् अत्रापि आत्म-शब्दः श्रूयते, आत्मा वारे द्रष्टव्यः आत्मनि खल्वरे दृष्टे, योऽन्यत्रात्मनः सर्वं वेद इति च प्रवृत्तिश् तस्य ह वा एतस्येत्य् आत्मनस् सर्वं वेद" इति च । गति-शब्दं व्याचष्टे - प्रवृत्तिर् इति । बोधन-व्यापार-परः प्रवृत्ति-शब्दः, "भिन्न-प्रवृत्ति-निमित्तनाम्" इत्य् अत्र प्रवृत्ति-शब्दवत् । समानत्वम् अर्थ-द्वारकमित्याह - तत्-समानेति । ततः किम् इत्य् अत्राह - तेषु चेति । ततो ऽपि किम् इत्य् अत्राह - तस्माद् इति ॥
 </details>
@@ -1927,7 +1927,7 @@ The next Sūtra gives an additional reason.
 तस्माद् अत्रापि सर्वेश्वर एव कारणम् इति निश्चीयते॥११॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 We therefore conclude that in the Cḥ. passage also the Sat, which is said to be the cause of the world, is the Supreme Lord.
 </details>
@@ -1944,7 +1944,7 @@ We therefore conclude that in the Cḥ. passage also the Sat, which is said to b
 इतश् च न प्रधानम् –
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra gives an additional reason.
 </details>
@@ -1959,7 +1959,7 @@ The next Sūtra gives an additional reason.
 १२. +++(व्याकर्तृत्वादि-)+++श्रुतत्वाच् च +++(न प्रधानं सच्-छब्द-वायम्)+++॥ १-१-१२ ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 12. And because it is directly stated in Scripture.
 </details>
@@ -1992,7 +1992,7 @@ The next Sūtra gives an additional reason.
 इति॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The text of the same Upanishad directly declares that the being denoted by the word 'Sat' evolves, as the universal Self, names and forms; is all-knowing, all-powerful, all-embracing; is free from all evil, &c.; realises all its wishes and purposes. 'Let me, entering those beings with this living Self, evolve names and forms' (Cḥ. Up. VI, 3, 2); 'All these creatures have their root in the Sat, they dwell in the Sat, they rest in the Sat' (VI, 8, 4); 'All this has that for its Self; it is the True, it is the Self (VI, 8, 7); 'Whatever there is of him here in the world, and whatever is not, all that is contained within it' (VIII, 1, 3); 'In it all desires are contained. It is the Self free from sin, free from old age, from death and grief, from hunger and thirst, whose wishes come true, whose purposes come true' (VIII, 1, 5).
 </details>
@@ -2002,7 +2002,7 @@ The text of the same Upanishad directly declares that the being denoted by the w
 श्रुतमेव ह्यस्यामुपनिषदि अस्य सच्छब्दवाच्यस्य आत्मत्वेन नामरूपयोर्व्याकर्तृत्वं, सर्वज्ञत्वं, सर्वशक्तित्वं, सर्वाधारत्वम्, अपहतपाप्मत्वादिकं, सत्यकामत्वं, सत्यसङ्कल्पत्वञ्च – अनेन जीवेनाऽत्मनाऽनुप्रविश्य नामरूपे व्याकरवाणि (छां.६.३.२), सन्मूलास्सोम्येमास्सर्वाः प्रजास्सदायतनास्सत्प्रतिष्ठाः (छां.६.८.६), ऐतदात्म्यमिदं सर्वं तत्सत्यं स आत्मा (छां.६.८.६,७), यच्चास्येहास्ति यच्च नास्ति सर्वं तदस्मिन्समाहितम् (छां.८.१.३), तस्मिन् कामास्समाहिताः (छां.६.८.५), एष आत्माऽपहतपाप्मा विजरो विमृत्युर्विशाको विजघत्सोऽपिपासस्सत्यकामः सत्यसङ्कल्पः (छां.८.१.५) इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलम् उपनिषदन्तरेषु, अत्रैव सर्वेश्वर-कारणत्वं स्फुटम् इत्याह - श्रुतत्वाच् च इति । आत्मत्वेन नाम-रूप-व्याकर्तृत्वं दर्शयति - अनेन जीवेनेति । सर्वज्ञत्व-सर्वशक्तित्वे "तद् ऐक्षत बहु स्याम्" इत्यादि-वाक्येन पूर्वम् एव दर्शिते, सन्मूला इति सूचिते च । आधारत्वं दर्शयति - सदायतना इति, यच्चास्येति च । धारकत्वं च आत्मत्वेनेति दर्शयति - ऐतदात्म्यम् इति । न ह्य् अत्र कारणतया कार्याधारत्व-मात्रं विवक्षितम् इति भावः । यच् च इत्य्-आदिकं सत्य-कामत्व-प्रतिपादनोपयुक्तञ्च । अपहत-पाप्मत्वादीन् गुणान् दर्शयति - एष आत्मेति ।
 </details>
@@ -2036,7 +2036,7 @@ The text of the same Upanishad directly declares that the being denoted by the w
 इत्य्-आदीनि।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And analogously other scriptural texts, 'Of him there is no master in the world, no ruler; not even a sign of him. He is the cause, the lord of the lords of the organs, and there of him neither parent nor lord' (Śvet. Up. VI, 9). 'The wise one who, having created all forms and having given them names, is calling them by those names' (Taitt. Ar. III, 12, 7); 'He who entered within is the ruler of all beings, the Self of all' (Taitt. Ar. III, 24); 'The Self of all, the refuge, the ruler of all, the Lord of the souls' (Mahānār. Up. XI); 'Whatsoever is seen or heard in this world, inside or outside, pervading that all Nārāyaṇa abides' (Mahānār. Up. XI); 'He is the inner Self of all beings, free from all evil, the divine, the only god Nārāyaṇa.'
 </details>
@@ -2046,7 +2046,7 @@ And analogously other scriptural texts, 'Of him there is no master in the world,
 तथा च श्रुत्यन्तराणि – न तस्य कश्चित्पतिरस्ति लोके न चेशिता नैव च तस्य लिङ्गम्। स कारणं करणाधिपाधिपो न चास्य कश्चिज्जनिता न चाधिपः (श्वे.६.९), सर्वाणि रूपाणि विचित्य धीरो नामानि कृत्वाऽभिवदन्यदास्ते (तै.आ.३.१२.१३), अन्तः प्रविष्टश्शास्ता जनानां सर्वात्मा (तै.आ.३.११.२१), विश्वात्मानं परायणम् (तै.ना.१.११.अनु), पतिं विश्वस्याऽत्मेश्वरम् (तै.११), यच्च किञ्चिञ्जगत्यस्मिन् दृश्यते श्रूयतेऽपि वा। अन्तर्बहिश्च तत्सर्वं व्याप्य नारायणः स्थितः (तै.उ.ना.११), एष सर्वभूतान्तरात्माऽपहतपाप्मा दिव्यो देव एको नारायणः (सुबा.७) इत्यादीनि।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उक्त-गुण-वैशद्यार्थम् अनुक्त-गुण-दर्शनार्थं तद्वत ईश्वरत्व-देवता-विशेषत्व-स्फुटीकरणार्थं च पूर्वसूत्राभिप्रेतान्य् अनुदाहृतानि श्रुत्यन्तराण्य् उदाहरति - तथा चेति । न त्व् एतत्-सूत्र-विषय-वाक्यत्वेन, अस्य सूत्रस्य छान्दोग्योपनिषन्-मात्र-विषयत्वं दीप-सारयोर् अप्य् उक्तं "श्रुतम् एव ह्य् अस्याम् एवोपनिषदि" इति । नात्र क्रम-विवक्षा । लिङ्गम् - शरीरम् ।
 </details>
@@ -2057,7 +2057,7 @@ And analogously other scriptural texts, 'Of him there is no master in the world,
 न प्रधानादि-प्रतिपादन-योग्यम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 These and other texts which declare the world to have sprung from the highest Lord, can in no way be taken as establishing the Pradhāna.
 </details>
@@ -2067,7 +2067,7 @@ These and other texts which declare the world to have sprung from the highest Lo
 तस्माज्जगत्कारणवादिवाक्यं न प्रधानादिप्रतिपादनयोग्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नाशब्दम् इत्य् उपक्रम-सूत्रानुरोधेन प्रधानस्य अप्रतिपाद्यत्वं निगमयति - तस्माद् इति ।
 </details>
@@ -2081,7 +2081,7 @@ These and other texts which declare the world to have sprung from the highest Lo
 निखिल-जगद्-एक-कारणं जिज्ञास्यं ब्रह्मेति स्थितम्॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Hence it remains a settled conclusion that the highest Person, Nārāyaṇa, free from all shadow of imperfection, &c., is the single cause of the whole Universe, and is that Brahman which these Sūtras point out as the object of enquiry.
 </details>
@@ -2091,7 +2091,7 @@ Hence it remains a settled conclusion that the highest Person, Nārāyaṇa, fre
 अतस्सर्वज्ञस्सर्वशक्तिः सर्वेश्वरेश्वरो निरस्तनिखिलदोषगन्धः अनवधिकातिशयासङ्ख्येयकल्याणगुणगणौघमहार्णवः पुरुषोत्तमो नारायण एव निखिलजगदेककारणं जिज्ञास्यं ब्रह्मेति स्थितम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तेन फलितं ब्रह्मणः प्रतिपाद्यत्वं निगमयति - अत इति । सर्वज्ञत्वादयस् सर्गादि-कारणत्वोपयोगि-गुणाः । शोधक-वाक्योक्त-गुणा निरस्त-निखिलेत्य्-आदिना उक्ताः । अनवधिकेत्य्-आदिना पुरुषार्थत्वञ्च दर्शितम्, ओघ-शब्दो ऽस्ति चेत् गुणानाम् अन्यत्रापर्यवसायित्वं दर्शयति, महार्णव-शब्दो गुणेभ्यो ऽपि तदाश्रयस्य महत्त्वं दर्शयति । पुरुषोत्तम-नारायण-शब्दौ पुरुषसूक्त-नारायणानुवाक-सिद्ध-विशेष-पर्यवसायित्वं कारण-शोधक-वाक्यानां दर्शयन्तौ चिद्-अचिद्-विलक्षणत्वं तच्-छरीरकत्वं च दर्शयतः । निखिल-जगद्-एक-कारणम् इति - निखिल-शब्देन गगनादिकम् अपि कबलीकृतम् । एक-शब्देन निमित्तोपादानत्वे अभिप्रेते ।
 </details>
@@ -2104,7 +2104,7 @@ Hence it remains a settled conclusion that the highest Person, Nārāyaṇa, fre
 पारमार्थिक-मुख्येक्षणादि-गुणयोगि जिज्ञास्यं ब्रह्मेति स्थापनात् ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For the same reasons the theory of a Brahman, which is nothing but non-differenced intelligence, must also be considered as refuted by the Sūtrakāra, with the help of the scriptural texts quoted; for those texts prove that the Brahman, which forms the object of enquiry, possesses attributes such as thinking, and so on, in their real literal sense.
 </details>
@@ -2114,7 +2114,7 @@ For the same reasons the theory of a Brahman, which is nothing but non-differenc
 अत एव निर्विशेषचिन्मात्रब्रह्मवादोऽपि सूत्रकारेण आभिश्श्रुतिभिः निरस्तो वेदितव्यः; पारमार्थिकमुख्येक्षणादिगुणयोगि जिज्ञास्यं ब्रह्मेति स्थापनात् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एषां सूत्राणां ब्रह्माज्ञान-वादिनो ऽननुगुणत्वं पूर्वम् उक्तं विस्तरेणाह - अत एव इति । सूत्रकारेणेति - न्याय-निबन्धन-कृतेत्य् अभिप्रायः । आभिरित्य् अर्थ-प्रत्यायकत्वं विवक्षितम्; न्यायानुगृहीताभिर् विशदार्थाभिः श्रुतिभिर् इति भावः । किञ्च प्रामाणिकस्य अप्रामाणिकत्वाभिमानाद् अपसिद्धान्तता सिद्धान्तस्य अपि भ्रान्ति-मूलत्वाद प्रामाणिकता च लोके दृष्टेति तद्-उभय-व्यवच्छेदार्थस् सूत्रकार-श्रुत्योर् निर्देशः । निरस्तो वेदितव्य इति - निरासः फलित इत्य् अर्थः । अत एवेत्य् उक्तं विवृणोति - पारमार्थिकेति । ईक्षणस्य अपारमार्थिकत्वे साङ्ख्याभिमतं प्रधानम् एव ब्रह्म स्यात्, शुक्तित्वापारमार्थ्ये हि रजतम् एव परमार्थः स्याद् इति साङ्ख्य-निरासो ऽनुपपन्नः स्याद् इति पारमार्थिक-शब्दाभिप्रायः । सच्छब्दोक्त-स्वरूपस्य संशय-सहत्वात् तदतिरिक्तेन व्यावर्त्तकेन भाव्यम् इति गुण-शब्दस्य भावः । अतस् सदादि-शब्दानां साङ्ख्याभिमत-प्रधान-परत्व-व्यवच्छेद-सिद्धयर्थम् ईक्षणादि-गुण-तत्-पारमार्थिकत्व-विवक्षावद्भिस् सूत्रैः निर्विशेष-निरासः फलित इत्य् अर्थः ।
 </details>
@@ -2124,7 +2124,7 @@ For the same reasons the theory of a Brahman, which is nothing but non-differenc
 निर्विशेषवादे हि साक्षित्वम् अप्य् अ-पारमार्थिकम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 On the theory, on the other hand, of a Brahman that is nothing but distinctionless intelligence even the witnessing function of consciousness would be unreal.
 </details>
@@ -2134,7 +2134,7 @@ On the theory, on the other hand, of a Brahman that is nothing but distinctionle
 निर्विशेषवादे हि साक्षित्वमप्यपारमार्थिकम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "तद् ऐक्षत" इत्यादि-वाक्यानि साक्षित्व-मात्र-पराणि, न तु गुण-विशेष-पराणि । साक्षित्व-मात्रेणापि सूत्राभिमता प्रधान-व्यावृत्तिः सिद्ध्यतीत्य् अत्राह - निर्विशेषेति । सच्छब्दोपस्थापित-विमतिपद-स्वरूपातिरेकेण साक्षित्वम् अप्य् अपारमार्थिकं त्वन्-मत इत्य् अर्थः । ज्ञातृत्वाभावे साक्षित्वम् अपि न सिध्यतीति प्राग् एवोक्तम् इत्य् अपि-शब्दाभिप्रायः । अपारमार्थिकत्वे किं स्याद् इत्य् अत्राह - वेदान्तेति । न ह्यारोपिताकारस् तत्त्वावेदक-प्रमाण-विषयः, न च अर्वाचीनं ब्रह्म जिज्ञास्यतया प्रतिज्ञातम् इति भावः ।
 </details>
@@ -2146,7 +2146,7 @@ On the theory, on the other hand, of a Brahman that is nothing but distinctionle
 जिज्ञास्यतया प्रतिज्ञातम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtras propose as the object of enquiry Brahman as known from the Vedānta-texts,
 </details>
@@ -2156,7 +2156,7 @@ The Sūtras propose as the object of enquiry Brahman as known from the Vedānta-
 वेदान्तवेद्यं ब्रह्म जिज्ञास्यतया प्रतिज्ञातम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किम् इत्य् अत्राह - तच् चेति । ततो ऽपि किम् ? न ह्य् अस्माभिर् अचेतनम् उच्यत इत्य् अत्राह - चेतनत्वं नाम चैतन्य-गुण-योग इति । ईक्षितृत्वं हि न चिद्रूपता-मात्रम् इत्य् अभिप्रायः । निर्विशेष-निरासस्य फलितत्वं निगमयति - अत इति । न ह्य् अत्र चिद्रूप-मात्रेण प्रधान-व्यावृत्तिः सूत्रिता, अपि त्व् ईक्षण-गुण-योगेन तद्-अनभ्युपगच्छतो व्यावर्तकाभावे व्यावृत्तिर् एव न स्याद् इत्य् अर्थः । पारमार्थिकेत्य्-आदिना एतदधिकरण-विरोध उक्तः । वेदान्तेत्य्-आदिना पूर्वाधिकरणैर् विरोध उक्तः ।
 </details>
@@ -2170,7 +2170,7 @@ The Sūtras propose as the object of enquiry Brahman as known from the Vedānta-
 इत्य्-आदिभिस् सूत्रैः प्रतिपाद्यते।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 and thereupon teach that Brahman is intelligent (Sū. I, 1, 5 ff.)
 </details>
@@ -2180,7 +2180,7 @@ and thereupon teach that Brahman is intelligent (Sū. I, 1, 5 ff.)
 तच्च चेतनमिति ईक्षतेर्नाशब्दम् (ब्र.सू.५) इत्यादिभिस्सूत्रैः प्रतिपाद्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यद्वा स्वरूपम् एव साक्षित्वं न धर्मः, अतो नापारमार्थिकम् इत्य् अत्राह - वेदान्तेति । स्वरूपम् एव चेत् तत् पूर्व-सूत्रैः सिद्धम् इति प्रतिपाद्याधिक्याभावात् "ईक्षतेर्" इत्य्-आदि-सूत्र-वैयर्थ्यम् इत्य् अभिप्रायः । स्वरूप-विशेषो ऽप्रतिपन्न इति चेत् किं स्वरूपम् एव विशेषः ? उत स्वरूपस्य विशेषः ? प्रथमे प्रागुक्त-दोशः । द्वितीये सविशेषत्वम् । पूर्व-सूत्रेषु ब्रह्म कारणात्मना सिद्धम्, न तु चेतन-रूपेण; अतः "ईक्षतेर्" इत्य्-आदि-सूत्राणाम् आरम्भणीयत्वम् इति शङ्कायां चेतन-रूपेण प्रतिपाद्यत्वम् अभ्युपगच्छन्न् आह - तच् चेति । चेतनतया प्रधान-व्यावृत्तिश् चैतन्य-गुण-विरहे न सिध्यतीति वक्तुं चेतनत्वं शोधयति - चेतनत्वं नामेति । गुण-शब्दो धर्म-परः । ततः किम् इत्य् अत्राह - अत इति । व्यावर्तकाभावाद् व्यावृत्त्य्-असिद्धिर इत्य् अर्थः ।
 </details>
@@ -2190,7 +2190,7 @@ and thereupon teach that Brahman is intelligent (Sū. I, 1, 5 ff.)
 चेतनत्वं नाम चैतन्य-गुण-योगः।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 To be intelligent means to possess the quality of intelligence:
 </details>
@@ -2205,7 +2205,7 @@ To be intelligent means to possess the quality of intelligence:
 अत ईक्षण-गुण-विरहिणः प्रधान-तुल्यत्वम् एव ॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 a being devoid of the quality of thought would not differ in nature from the Pradhāna.
 </details>
@@ -2215,7 +2215,7 @@ a being devoid of the quality of thought would not differ in nature from the Pra
 अत ईक्षणगुणविरहिणः प्रधानतुल्यत्वमेव ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 चेतन-शब्दस्य स्वरूप-मात्र-परत्वे अधिकरणारम्भ-वैयर्थ्यम् अर्थ-सिद्धम्, न प्रधान-तुल्यत्वम्, प्रकाशत्वाभ्युपगमात्; यथा आत्म-धर्म-भूत-ज्ञानस्य ज्ञानान्तरायोगे ऽप्य् अचिद्-व्यावृत्तिस् त्वन्-मते तद्वद् इत्य् अत्राह - किञ्चेति । कथं दुरुपपादत्वम् इत्य् अत्राह प्रकाशो हीति ।
 </details>
@@ -2227,7 +2227,7 @@ a being devoid of the quality of thought would not differ in nature from the Pra
 तस्य प्रकाशत्वम् अपि दुरुपपादम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Further, on the theory of Brahman being mere non-differenced light it would be difficult to prove that Brahman is self-luminous.
 </details>
@@ -2237,7 +2237,7 @@ Further, on the theory of Brahman being mere non-differenced light it would be d
 किञ्च निर्विशेषप्रकाशमात्रब्रह्मवादे तस्य प्रकाशत्वमपि दुरुपपादम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 व्यवहार-योग्यत्वापादकत्वं स्व-पर-व्यवहार-योग्यतापादनम् । तद्-उभय-रूपत्वाभावात् स्व-व्यवहार-हेतुत्व-पर-व्यवहार-हेतुत्वाभावाद् इत्य् अर्थः ।
 </details>
@@ -2249,7 +2249,7 @@ Further, on the theory of Brahman being mere non-differenced light it would be d
 वस्तु-विशेषः।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 For by light we understand that particular thing which renders itself, as well as other things, capable of becoming the object of ordinary thought and speech;
 </details>
@@ -2267,7 +2267,7 @@ For by light we understand that particular thing which renders itself, as well a
 घटादिवद् अ-चित्त्वम् एव ॥+++(4)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 but as a thing devoid of all difference does not, of course, possess these two characteristics it follows that it is as devoid of intelligence as a pot may be.--
 </details>
@@ -2287,7 +2287,7 @@ but as a thing devoid of all difference does not, of course, possess these two c
 तन् न, तत्-क्षमत्वं हि तत्-सामर्थ्यम् एव।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Let it then be assumed that although a thing devoid of all distinction does not actually possess these characteristics, yet it has the potentiality of possessing them!--But if it possesses the attribute of potentiality,
 </details>
@@ -2297,7 +2297,7 @@ Let it then be assumed that although a thing devoid of all distinction does not 
 तदुभयरूपत्वाभावेऽपि तत्क्षमत्वमस्तीति चेत् – तन्न, तत्क्षमत्वं हि तत्सामर्थ्यमेव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ तद्-उभय-क्षमत्वं शङ्कते - तदुभयेति ।
 तत्-क्षमत्वम् अभ्युपगम्य दूषणम् आह - तन्नेति । 
@@ -2308,7 +2308,7 @@ Let it then be assumed that although a thing devoid of all distinction does not 
 सामर्थ्य-गुण-योगे हि निर्विशेष-वादः परित्यक्तस् स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 it is clear that you abandon your entire theory of a substance devoid of all distinction!--
 </details>
@@ -2330,7 +2330,7 @@ it is clear that you abandon your entire theory of a substance devoid of all dis
 सर्व-ज्ञता, सर्व-शक्तित्वं, सर्वेश्वरेश्वरत्वं, सर्व-कल्याणगुणाकरत्वं, सकल-हेय-प्रत्यनीकतेत्यादयः सर्वे ऽभ्युपगन्तव्याः।+++(5)+++
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Let us then admit, on the authority of Scripture, that the universal substance possesses this one distinguishing attribute of self-luminousness.--Well, in that case you must of course admit, on the same authority, all those other qualities also which Scripture vouches for, such as all-knowingness, the possession of all powers, and so on.--
 </details>
@@ -2340,7 +2340,7 @@ Let us then admit, on the authority of Scripture, that the universal substance p
 अथ श्रुतिप्रामाण्यादयमेको विशेषोऽभ्युपगम्यत इति चेत् हन्त तर्हि तत एव सर्वज्ञता, सर्वशक्तित्वं, सर्वेश्वरेश्वरत्वं, सर्वकल्याणगुणाकरत्वं, सकलहेयप्रत्यनीकतेत्यादयः सर्वेऽभ्युपगन्तव्याः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परस्य अगतित्वं दर्शयितुम् आह - अथेति । परिहरति - हन्त तर्हीति ।
 तत्-क्षमत्वम् एव नास्तीत्याह - शक्तिमत्त्वं चेति । कार्य-विशेषस्य निष्प्रमाणकत्वे स्व-पर-व्यवहार-योग्यतापादनाभावे, निरूपकाभावे निरूप्याभाव इत्य् अर्थः ।
@@ -2357,7 +2357,7 @@ Let us then admit, on the authority of Scripture, that the universal substance p
 तद्-एक-निरूपणीयं शक्तिमत्त्वम् अपि निष्प्रमाणं स्यात्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, potentiality means capability to produce certain special effects, and hence can be determined on the ground of those special effects only. But if there are no means of knowing these particular effects, there are also no means of cognising potentiality.--
 </details>
@@ -2367,7 +2367,7 @@ Moreover, potentiality means capability to produce certain special effects, and 
 शक्तिमत्त्वं च कार्यविशेषानुगुणत्वम्; तच्च कार्यविशेषैकनिरूपणीयम्; कार्यविशेषस्य निष्प्रमाणकत्वे तदैकनिरूपणीयं शक्तिमत्त्वमपि निष्प्रमाणं स्यात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परैस् त्व् एवं सूत्र-योजना कृता, प्रधानं न प्रतिपाद्यम्, अशब्दं हि तत्, शब्देन प्रतिपादितुम् अशक्यं हि तत्, अशक्तवच् च ईक्षति-श्रवणाद् इति। नैषा उचिता प्रतिज्ञा-वाक्ये धर्म्युपस्थापक-शब्दस्य अध्याहार्यत्वात् अशब्दं हि तद् इत्य् उक्ते ऽपि हेत्व्-अन्तर-साकाङ्क्षत्वाच् च ।
 
@@ -2382,7 +2382,7 @@ Moreover, potentiality means capability to produce certain special effects, and 
 वस्तुत्वम् अपि निष्प्रमाणम् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 And those who hold the theory of a substance devoid of all difference, have not even means of proof for their substance;
 </details>
@@ -2398,7 +2398,7 @@ And those who hold the theory of a substance devoid of all difference, have not 
 इति पूर्वम् एवोक्तम्।
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 for as we have shown before, Perception, Inference, Scripture, and one's own consciousness, are all alike in so far as having for their objects things marked by difference.
 </details>
@@ -2415,7 +2415,7 @@ for as we have shown before, Perception, Inference, Scripture, and one's own con
 इति सिद्धम्॥ १२॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 It therefore remains a settled conclusion that the Brahman to be known is nothing else but the highest Person capable of the thought 'of becoming many' by manifesting himself in a world comprising manifold sentient and non-sentient creatures.--Here terminates the adhikaraṇa of 'seeing'.
 </details>
@@ -2425,7 +2425,7 @@ It therefore remains a settled conclusion that the Brahman to be known is nothin
 तस्माद्विचित्रचेतनाचेतनात्मकजगद्रूपेण बहु स्याम् (छा.६.५.६) इतीक्षणक्षमः पुरुषोत्तम एव जिज्ञास्य इति सिद्धम्॥ १२॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवम् जिज्ञासितस्य इति । जगत्-कारणस्य निरूपणीयत्वे चतुस्-सूत्र्या सिद्धे प्रत्यक्षादि-सिद्धतया प्रसिद्ध्य्-अतिशयाद् अचेतने प्रथमम् अतरन्ति । बुद्धिर् ईक्षणादिभिस् ततो व्यावर्त्य चेतन-वस्त्व् अभिमुखीकृत्या । इदानीम् अचेतनापेक्षया प्रसिद्धि-मान्द्ये ऽपि परमात्मापेक्षया प्रसिद्धतरे ऽहम्-प्रत्यय-सिद्धे प्रत्यगात्मन्य् अवतरन्ती बुद्धिर् व्यावर्त्यत इत्य् अर्थः ।
 </details>
@@ -2435,7 +2435,7 @@ It therefore remains a settled conclusion that the Brahman to be known is nothin
 इति श्रीशारीरकमीमासाभाष्ये ईक्षत्यधिकरणम् ॥५॥
 </details>
 
-<details><summary>Translation</summary>
+<details><summary>Thibaut</summary>
 
 Here terminates the adhikaraṇa of 'seeing'.
 </details>

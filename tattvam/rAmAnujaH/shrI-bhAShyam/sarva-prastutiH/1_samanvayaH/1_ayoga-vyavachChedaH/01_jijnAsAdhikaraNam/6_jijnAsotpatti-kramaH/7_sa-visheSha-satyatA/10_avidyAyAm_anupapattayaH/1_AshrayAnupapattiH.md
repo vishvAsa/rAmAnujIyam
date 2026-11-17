@@ -34,7 +34,7 @@ In the first place we ask, 'What is the substrate of this Nescience which gives 
 सा हि किम् आश्रित्य भ्रमं जनयति? 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आश्रयानुपपत्ति-तिरोधानानुपपत्ति-स्वरूपानुपपत्ति-अनिर्वचनीयत्वानुपपत्ति-प्रमाणानुपपत्ति-निवृत्त्यनुपपत्तिभिर्दूययिष्यन् प्रथममाश्रयानुपपत्तिमाह - सा हीति ।
 
@@ -71,7 +71,7 @@ You cannot reply 'the individual soul'; for the individual soul itself exists in
 न तावज् जीवम् आश्रित्य; अविद्या-परिकल्पितत्वाज् जीवभावस्य।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किं जीवमाश्रित्य, उत ब्रह्म इति विकल्पाभिप्रायेणाह - न तावदिति ।
 
@@ -100,7 +100,7 @@ Nor can you say 'Brahman'; for Brahman is nothing but self-luminous intelligence
 सा हि ज्ञानबाध्याभिमता॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ ब्रह्माश्रयत्वपक्षं दूषयति - नापीति ।
 
@@ -131,7 +131,7 @@ who then will be strong enough to put an end to it?'
 > अज्ञानं चेत् तिरस्कुर्यात् कः प्रभुस् तन्-निवर्तने॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्र नाथमुनिभिरुक्तान् श्लोकानाह - ज्ञानरूपमिति । स्वप्रकाशत्वं विवक्षितम् ।
 
@@ -161,7 +161,7 @@ who then will be strong enough to put an end to it?'
 > ब्रह्मवत् तत्-प्रकाशत्वात् तद् अपि ह्य् अनिवर्तकम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ब्रह्मवत् तत्प्रकाशत्वात् स्वरूपानतिरिक्तप्रकाशत्वादित्यर्थः । न हि शुक्लभास्वरद्रव्ये गृहीते, आप्तवाक्यादिभिः शुक्लभास्वरद्रव्यमित्येतावति शतशः प्रतिपन्नेऽपि भ्रमनिवृत्तिः ।
 
@@ -225,7 +225,7 @@ If you maintain that
 इति चेत् 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 द्वितीयश्लोकं व्याचष्टे - ज्ञानस्वरूपमिति ।
 </details>
@@ -252,7 +252,7 @@ we demur; for as both these kinds of knowledge are of the same nature, viz. the 
 अन्यतरस्य नेति विशेषानवगमात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ब्रह्मस्वरूपप्रकाशत्वे सति - स्वरूपविषयज्ञानत्वे सतीत्यर्थः ।
 
@@ -298,7 +298,7 @@ and hence we have no right to make a distinction between that knowledge which co
 इत्य् अविद्या-विरोधित्वे न कश्चिद् विशेषस् स्वरूप-तद्-विषय-ज्ञानयोर् इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कथं विशेषानवगमः; प्रमाणजन्यत्वं विशेषोऽस्तीति चेत्- किं तेन ? विषयवैषम्यं हि न विद्यते । किं स्वरूपभूतज्ञानान्निवर्तकज्ञानस्य विषयवैषम्यम् ? अस्ति वा । न वा । अस्ति चेत् सविशेषत्वम् । नो चेत् स्वरूपमेव निवर्तकं स्यात् । प्रमाणजन्यज्ञानमनिवर्तकं वा स्यात्, पुरोऽवस्थितभास्वरवस्तुविषयज्ञानवत् ।
 
@@ -343,7 +343,7 @@ and hence there is no knowledge which has Brahman for its object.
 ऽनुभवान्तराननुभाव्यत्वेन भवतो न तद्-विषयं ज्ञानम् अस्ति।  
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ तृतीयश्लोकार्थस्य विपर्यये पर्यवसानमाह - किञ्चेति । प्रमाणज्ञानत्वं निवर्तकत्वव्यापकम् । अतोऽधिष्ठानभूतब्रह्मस्वरूपस्य प्रमाणज्ञानत्वाभावान्न भ्रमनिवतर्कत्वम् ।
 
@@ -387,7 +387,7 @@ and hence cannot be its substrate.
 अतो ज्ञानम् अज्ञान-विरोधि चेत् स्वयम् एव विरोधि भवतीति नास्या ब्रह्माश्रयत्व-सम्भवः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्र त्वजडत्वात् स्वरूपस्फुरणे प्रमाणान्तरापेक्षा नास्तीति चेत् तर्हि जडत्वादेव भ्रमनिवृत्तौ शुक्तयादेर्ज्ञानान्तरापेक्षा, नाधिष्ठानत्वात् । अतस्तत् सोपाधिकम् । तस्मादजडे तु प्रमाणान्तरापेक्षा भ्रमनिवृत्तौ च न स्यादित्यभिप्रायः ।
 </details>
@@ -410,7 +410,7 @@ Shells (mistaken for silver) and the like which by themselves are incapable of t
 शुक्त्य्-आदयस् तु स्व-याथात्म्य-प्रकाशे स्वयम् असमर्थाः स्वाज्ञानाविरोधिनस् तन्-निवर्तने च ज्ञानान्तरम् अपेक्षन्ते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शुक्त्यादयस्त्वित्यत्र तुशब्दो ब्रह्मणः शुक्तयादिव्यावृत्तिपरः ।
 
@@ -464,7 +464,7 @@ If our opponent should argue that the knowledge of the falsity of whatever is ot
 अथोच्येत – ब्रह्म-व्यतिरिक्तस्य मिथ्यात्व-ज्ञानम् अज्ञान-विरोधि – इति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ द्वितीयपक्षं दूषयितुं शङ्कते अथोच्येतेति । दूषयति - नेत्यादिना ।
 
@@ -492,7 +492,7 @@ or to that non-knowledge which consists in the view of the reality of the appare
 न; इदं ब्रह्म-व्यतिरिक्त-मिथ्यात्व-ज्ञानं किं ब्रह्म-याथात्म्याज्ञान-विरोधि? उत प्रपञ्च-सत्यत्व-रूपाज्ञान-विरोधीति विवेचनीयम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रपञ्चसत्यत्वं तत्प्रतिभासश्च विक्षेपरूपाज्ञानमिति पराभ्युपगमादेवमुक्तम् ।
 </details>
@@ -517,7 +517,7 @@ and therefore cannot be contradictory to it;
 न तावद् ब्रह्म-याथात्म्याज्ञान-विरोधि, अ-तद्-विषयत्वात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रथमं शिरो दूषयति - अतदिति ।
 </details>
@@ -538,7 +538,7 @@ for knowledge and non-knowledge are contradictory in so far only as they refer t
 ज्ञानाज्ञानयोरेक-विषयत्वेन हि विरोधः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कथमतद्विषयत्वात् ब्रह्मस्वरूपाज्ञानाविरोधित्वमित्यत्राह - ज्ञानाज्ञानयोरिति ।
 
@@ -562,7 +562,7 @@ And with regard to the latter alternative we point out that the knowledge of the
 प्रपञ्च-मिथ्यात्व-ज्ञानं तत्-सत्यत्व-रूपाज्ञानेन विरुध्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 द्वितीयं शिरो दूषयति - प्रपञ्चेति ।
 </details>
@@ -586,7 +586,7 @@ while the non-knowledge of the true nature of Brahman is not touched by it.
 तेन प्रपञ्च-सत्यत्व-रूपाज्ञानम् एव बाधितम् इति ब्रह्म-स्वरूपाज्ञानं तिष्ठत्य् एव। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रपञ्चमिथ्यात्वज्ञानेन ब्रह्मस्वरूपाज्ञाननिवृत्तेः फलितत्वमाशङ्कते ब्रह्मस्वरूपेति ।
 
@@ -621,7 +621,7 @@ and that
 ब्रह्म-स्वरूपाज्ञानं नाम तस्य सद्वितीयत्वम् एव। तत् तु तद्-व्यतिरिक्तस्य मिथ्यात्व-ज्ञानेन निवृत्तम्। स्वरूपं तु स्वानुभव-सिद्धम् इति चेन्
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सद्वितीयत्वविशिष्टब्रह्मगोचराज्ञाने निवृत्ते विशेष्यांशगोचरमपि ज्ञानं निवृत्तमिति स्वरूपसिद्धिः कथमित्यत्राह - स्वरूपं त्विति । दूषयति - नेति ।
 </details>
@@ -644,7 +644,7 @@ But this too we refuse to admit. If non-duality constitutes the true nature of B
 न; ब्रह्मणो ऽद्वितीयत्वं स्वरूपं स्वानुभव-सिद्धम् इति तद्-विरोधि सद्वितीयत्व-रूपाज्ञानं तद्-बाधश् च न स्याताम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अद्वितीयत्वं किं स्वरूपम्, उत धर्मः इति विकल्पाभिप्रायेण प्रथमं स्वरूपपक्षं दूषयति - नेति ।
 </details>
@@ -667,7 +667,7 @@ But this too we refuse to admit. If non-duality constitutes the true nature of B
 अद्वितीयत्वं धर्म इति चेन् 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 धर्मपक्षे अपसिद्धान्तमाह - अद्वितीयत्वमिति ।
 </details>
@@ -709,7 +709,7 @@ From all this it follows that Brahman, whose essential nature is knowledge, cann
 अतो ज्ञान-स्वरूपस्य ब्रह्मणो विरोधाद् एव नाज्ञानाश्रयत्वम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आश्रयानुपपत्तिं निगमयति -अत इति ।
 
