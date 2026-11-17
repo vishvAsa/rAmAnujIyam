@@ -41,7 +41,7 @@ Brahman, which is pure intelligence and opposed to all difference, constitutes t
 अशेषविशेषप्रत्यनीकचिन्मात्रं ब्रह्मैव परमार्थः 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ तदुपपादनायोपक्रमते- पूर्वमुपायोपदेशपरवाक्यपर्यालोचनया वस्तुसामर्थ्यव्यतिरिक्तहेतव उपन्यस्ता निरस्ताश्च, विधित्सां ज्ञानमिति ह्युक्तं, वस्तुसामर्थ्यं तु सिद्धपरवाक्यसिद्धं, वस्तुस्वरूपोपदेशपरैरिति हि वक्ष्यते, अतः स्वरूपपरवाक्यपर्यालोचनामुखेन तदुपपादयितुमारभते - यद्प्याहुरिति ।
 
@@ -79,7 +79,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 तदतिरेकि नानाविधज्ञातृज्ञेय-तत्कृतज्ञानभेदादिसर्वं तस्मिन्नेव परिकल्पितं मिथ्याभूतं –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "अथात आदेशो नेति नेती "त्यादौ "प्रकृतैतावत्त्व"मिति सूत्रविषये कृत्स्नस्य मिथ्यात्वेन ब्रह्मणोपि मिथ्यात्वं परैः पूर्वपक्षीकृत्य निरस्तमिति तदभिप्रायेणोक्तम् - तदतिरेकीति - नेह नानास्तीत्यादिनिषेधवाक्यस्य ब्रह्मव्यतिरेकेपि निषेध्यनानात्वं सिध्द्यतीति दर्शितम् ।
 
@@ -115,7 +115,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् (छा.६.२.१) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ब्रह्मण एव सत्यत्वे व्यतिरिक्तमिथ्यात्वे च किं प्रमाणमित्यत्राह - सदेवेति ।
 
@@ -144,7 +144,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 अथ परा यया तदक्षरमधिगम्यते यत्तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुश्श्रोत्रं तदपाणिपादं नित्यं विभुं सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः ॥ (मु.१.१.६) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथैवकारफलितनिषेधकण्ठोक्तिमत्परविद्यावाक्यमुपादत्ते - अथेति ।
 
@@ -170,7 +170,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 सत्यं ज्ञानमनन्तं ब्रह्म (तै.उ.आन.१.१) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ शोधकवाक्यमुपादत्ते - सत्यमिति ।
 
@@ -215,7 +215,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 यस्यामतं तस्य मतं मतं यस्य न वेद सः। अविज्ञातं विजानतां विज्ञातमविजानताम् (केन.२.३) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ चिन्मात्रशब्दाभिप्रेतं ज्ञेयत्वव्यावृत्तिमाह - यस्येति ।
 
@@ -239,7 +239,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 न दृष्टेर्द्रष्टारं पश्येः न मतेर्मन्तारं मन्वीथाः (बृ.५.४.२) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ ज्ञातृत्वनिषेधपरं वाक्यमाह - न दृष्टेरिति ।
 </details>
@@ -261,7 +261,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 आनन्दो ब्रह्म (तै.उ.भृगु.६अनु.) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्रापि पूर्वोक्तज्ञानावस्थाभेदो विवक्षितः, अस्य पुरुषार्थत्वायासुखाद्व्यावृत्तिरुच्यते - आनन्दो ब्रह्मेति । आनन्दशब्दोऽसुखाद्य्वावृत्तिमात्रपरः ।
 
@@ -285,7 +285,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 इदं सर्वं यदयमात्मा (बृ.४.४.६) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ व्यतिरिक्तमिथ्यात्वे प्रमाणमुपन्यस्यते, तत्र प्रथमं मिथ्याभूतस्य जगतो ब्रह्मण्यधिष्ठानेऽध्यवस्तत्वं दर्शयति- इदं सर्वं यदयमात्मेति सामानाधिकरण्येन ।
 
@@ -312,7 +312,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 नेह नानाऽस्ति किञ्चन। (बृ.६.४.१९) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 व्यतिरिक्तनिषेधकण्ठोक्तिं दर्शयति- नेह नानास्ति किञ्चनेति ।
 </details>
@@ -335,7 +335,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 य इह नानेव पश्यति 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नानापश्यन्नत्यन्ताज्ञ इति दर्शयति - मृत्योरिति । अत्र मृत्युरविद्या "तमसो वा एष तमः प्रविशती "तिवत्, इवशब्देन नानात्वस्यापारमार्थ्यं दर्शितम् ।
 </details>
@@ -362,7 +362,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति यत्र त्वस्य सर्वमात्मैवाभूत् तत्केन कं पश्येत्तत्केन कं विजानीयात् (बृ.४.४.१४) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मिथ्याभूतं चेत् कदाचिन्निवृत्तिः स्यादित्यत्राह - यत्र हीति । यत्र- यदा । द्वैतमिव भवति इवशब्दः पूर्ववत् । तत्- तदा ।
 
@@ -393,7 +393,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 वाचाऽऽरम्भणं विकारो नामधेयं मृत्तिकेत्येव सत्यम् (छा.६.१.४) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इदं कृत्स्नमिथ्यात्वं दृष्टान्तेनोपपादयन्तीं श्रुतिमुदाहरति - वाचेति ।
 
@@ -419,7 +419,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 यदा ह्येवैष एतस्मिन्नुदरमन्तरं कुरुते अथ तस्य भयं भवति (तै.उ.आन.७.२) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ब्रह्मणि नानात्वं पश्यतः पूर्वोक्तमृत्युशब्दाभिहिताज्ञानकार्यं भयञ्च दर्शयति - यदा हीति । उदरम्- उ अवधारणे "तदेवर्तं तदु सत्यमाहुस्तदेव ब्रह्म परमं कवीना"मितिवत् । दरम्- अल्पम् ।
 
@@ -444,7 +444,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 न स्थानतोऽपि परस्योभयलिङ्गं सर्वत्र हि (ब्र.सू.३.२.११) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अरम्- शीघ्रम् यदा ह्येवेत्यादेः पश्चादुपादानं सिद्धान्ते परिहारसौकर्यार्थं, तञ्च पूर्वोक्तवाकयानामेकन्यायपरिहार्यत्वात्, ब्रह्मणो निर्विशेषचिन्मात्रत्वे व्यतिरिक्तमिथ्यात्वे च श्रुतिदर्शिता, तत्र निर्विशेषत्वे सूत्रं प्रदर्शयते - न स्थानत इति ।
 
@@ -462,7 +462,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 मायामात्रं तु कार्त्स्न्येन अनभिव्यक्त-स्वरूपत्वात् (ब्र.सू.३.२.३),
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अन्यमिथ्यात्वे सूत्रमाह - मायेति ।
 
@@ -494,7 +494,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 प्रत्यस्तमितभेदं यत्सत्तामात्रमगोचरम् । वचसामात्मसंवेद्यं तज्ज्ञानं ब्रह्म सञ्ज्ञितम्॥ (वि.पु.६.७.४३) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्मिन्नर्थद्वये उपबृंहणवचनानि दर्शयति - प्रत्यस्तमितभेदमिति । प्रत्यस्तमितभेदम्- सजातीयविजातीयभेदरहितम् । सत्तामात्रम्- स्वगतभेदरहितम्, अत एव वचसामगोचरम् ।
 
@@ -529,7 +529,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 ज्ञानस्वरूपमत्यन्तनिर्मलं परमार्थतः। तमेवार्थस्वरूपेण भ्रान्तिदर्शनतः स्थितम्॥ (वि.पु.१,२,६) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निर्विशेषं चेत् कथं जगदवभास इत्याकाङ्क्षायामुपादत्ते - ज्ञानस्वरूपमिति । प्रपञ्चमिथ्यात्वमनेन श्लोकेनोच्यते । अत्यन्तनिर्मलम्- सकलविशेषरहितम् । अर्थस्वरूपेणजडस्वरूपेण ।
 </details>
@@ -554,7 +554,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (वि.पु.१.४.३८) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अर्थनानात्वस्य भ्रान्तिसिद्धत्वादेक एव परमार्थ इति दर्शयति - परमार्थस्त्वमिति ।
 </details>
@@ -580,7 +580,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 भ्रान्तिज्ञानेन पश्यन्ति जगद्रूपमयोगिनः॥ 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एतद्विवृणोति श्लोकद्वयेन - यदेतदित्यादिना ।
 </details>
@@ -624,7 +624,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > ये तु ज्ञानविदश्शुद्धचेतसस्तेऽखिलं जगत् । ज्ञानात्मकं प्रपश्यन्ति त्वद्रूपं परमेश्वर!॥ (वि.पु.१.४-३९,४०,४१) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 भ्रान्तिश्चेत् कस्वचिन्निवर्त्तेतेत्याकाङ्क्षायां केषाञ्चित्तन्निवृत्तिं दशर्यति - ये तु ज्ञानविद् इति - ज्ञानसत्यत्वं जडमिथ्यात्वञ्चोक्तम् ।
 </details>
@@ -649,7 +649,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 तस्यात्मपरदेहेषु सतोऽप्येकमयं हि यत् । विज्ञानं परमार्थो हि द्वैतिनोऽतथ्यदर्शिनः॥ (वि.पु.२.१४.३१) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ ज्ञानाकारणात्मनामैक्योक्तिं दर्शयति - तस्येति । एकमयम्- एकम् ।
 </details>
@@ -673,7 +673,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 यद्यन्योऽस्ति परः कोऽपि मत्तः पार्थिवसत्तम!। तदैषोऽहमयं चान्यो वक्तुमेवमपीष्यते॥ (वि.पु.२.१३.९०) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आत्मपरिनिर्देशकृतभेदशङ्कामपि व्युदस्यति - यद्यन्योस्तीति ।
 </details>
@@ -699,7 +699,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 वेणुरन्ध्रविभेदेन भेदष्षड्जादिसञ्ज्ञितः। अभेदव्यापिनो वायोस्तथाऽसौ परमात्मनः॥ (वि.पु.२.१४.३२) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्र दृष्टान्तमाह - वेणुरन्ध्रेति ।
 </details>
@@ -723,7 +723,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 सोऽहं स च त्वं स च सर्वमेतदात्मस्वरूपं त्यज भेदमोहम् । इतीरितस्तेन स राजवर्यस्तत्याज भेदं परमार्थदृष्टिः॥ (वि.पु.२.१६.२३) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्योपपादितस्यार्थस्योपदेशं दर्शयति - सोऽहमिति ।
 
@@ -750,7 +750,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > विभेदजनकेऽज्ञाने नाशमात्यन्तिकं गते। आत्मनो ब्रह्मणो भेदमसन्तं कः करिष्यति॥ (वि.पु.६.७.९६) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथात्मनां ब्रह्मणैक्योक्तिं दर्शयति- विभेदजनक इति ।
 </details>
@@ -778,7 +778,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 (भ.गी.१०.२०) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ भगवद्गीतायां सर्वात्मनां परस्परं ब्रह्मणा च सहैक्योक्तिमुदाहरति- अहमात्मेति ।
 </details>
@@ -802,7 +802,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत!। (भ.गी.१३.३) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सवर्भूतशब्देन शरीराण्युच्यन्ते, एतत् स्फुटयति क्षेत्रज्ञञ्चेति ।
 
@@ -826,7 +826,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 > न तदस्ति विना यत्स्यान्मया भूतं चराचरम्॥ (भ.गी.१०.९३) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्रैव व्यतिरिक्तमिथ्यात्वोक्तिं दर्शयति- न तदस्तीति ।
 
@@ -855,7 +855,7 @@ and everything else, i.e. the plurality of manifold knowing subjects, objects of
 इत्यादिभिर्वस्तुस्वरूपोपदेशपरैश्शास्त्रैः निर्विशेषचिन्मात्रं ब्रह्मैव सत्यमन्यत्सर्वं मिथ्या इत्यभिधानात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निर्विशेषचिन्मात्रमिति पूर्ववदर्थः ।
 
@@ -889,7 +889,7 @@ The appearance of plurality is due to avidyā.
 मिथ्यात्वं नाम प्रतीयमानत्वपूर्वकयथावस्थितवस्तुज्ञाननिवर्त्यत्वम्, यथा रज्ज्वाद्यधिष्ठानसर्पादेः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अतः प्राक् प्रतिज्ञातं प्रपञ्चमिथ्यात्वं ब्रह्मणो भ्रमाधिष्ठानत्वं चायुक्तमित्यस्मिन् चोद्यद्वये प्रथमं परिहर्त्तुं मिथ्यात्वलक्षणमाह - मिथ्यात्वं नामेति ।
 
@@ -923,7 +923,7 @@ for it is due to an imperfection (dosha) that the snake is imagined in (or 'on')
 दोषवशाद्धि तत्र तत्कल्पनम् । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथोक्तलक्षणस्य पक्षेऽतिदेशे कर्तुमुचितेऽपि स्वप्रकाशे वस्तुन्यध्यासानुपपत्तिरूपं द्वितीयं चोद्यं परिहर्त्तुमाह - दोषवशाद्धि तत्र तत्कल्पनमिति । अजडत्ववज्जडत्वमपि नाध्यासप्रयोजकं, जडेऽपि दोषाभावे सत्यध्यासादर्शनात्, अतो दोष एव हि सर्वत्र कलपकः, कल्पने दोषाधीने स्वतो वा परतो वा प्रकाशो भ्रमाधिष्ठानत्वोपयोगी ।
 
@@ -952,7 +952,7 @@ In the same way this entire world, with its distinctions of gods, men, animals, 
 एवं चिन्मात्रवपुषि परे ब्रह्मणि दोषपरिकल्पितमिदं देवतिर्यङ्मनुष्यस्थावरादिभेदं सर्वं जगद्यथावस्थितब्रह्मस्वरूपावबोधबाध्यं मिथ्यारूपम् ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परे ब्रह्मणीति शङ्काद्वयं परिहृतं भवति, विलक्षणाधिष्ठानत्वात् कृत्स्नाध्यास उपपन्न इति वैलक्षण्यं च सर्वसाधारणसन्मात्ररूपत्वम् सर्वज्ञत्वादिगुणा अपरे ब्रह्मणि, परे ब्रह्मणि तु चिन्मात्रतया सर्वज्ञत्वादिगुणान्वयादध्यास उपपन्न इति चाभिप्रायः ।
 
@@ -986,7 +986,7 @@ What constitutes that imperfection is beginningless Nescience (avidyā), which, 
 दोषश्च स्वरूपतिरोधानविविधविचित्रविक्षेपकरी सदसदनिर्वचनीयाऽनाद्यविद्या। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अतोऽनेकदोषा अभ्युपगन्तव्या इतीमाः शङ्काः परिहर्तुमाह- दोषश्चेति । चः शङ्कानिवर्त्तकः।
 
@@ -1012,7 +1012,7 @@ What constitutes that imperfection is beginningless Nescience (avidyā), which, 
 अनृतेन हि प्रत्यूढाः (छा.८.३.२) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवम्भूतामविद्यां प्रतिज्ञाय, एतदनुगुणं प्रमाणमाह - अनृतनेत्यादिना । प्रत्यूढाः- प्रतीपं नीताः।
 </details>
@@ -1036,7 +1036,7 @@ What constitutes that imperfection is beginningless Nescience (avidyā), which, 
 तेषां सत्यानां सतामनृतमपिधानम् (छा.८.३.१) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रत्यूढशब्दवैशद्यार्थमुपादत्ते - तेषामिति ।
 </details>
@@ -1052,7 +1052,7 @@ What constitutes that imperfection is beginningless Nescience (avidyā), which, 
 नासदासीन्नो सदासीत्तदानीं 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नात्र बहुवचने तात्पर्यम् "अदितिः पाशान् प्रमुमोक्तु" इतिवत्, अस्याः सदसदनिर्वचनीयत्वमुच्यते - नासदासीन्नो सदासीदिति ।
 </details>
@@ -1067,7 +1067,7 @@ What constitutes that imperfection is beginningless Nescience (avidyā), which, 
 > तम आसीत् तमसा गूढमग्रे प्रकेतम् (यजु.२अष्ट.८.प्र.९अनु.) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किमासीदित्यत्राह - तम इति ।
 </details>
@@ -1091,7 +1091,7 @@ and the great Lord him who is associated with Māya'
 मायां तु प्रकृतिं विद्यान्मायिनं तु महेश्वरम् (श्वे.४.१०) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तमश्शब्देनाच्छादकत्वं विवक्षितम् तमो नाम "अक्षरं तमसिं लीयत" इति प्रकृतिरुच्यत इति शङ्कायामुदाहरति - मायान्तु प्रकृतिमिति ।
 </details>
@@ -1112,7 +1112,7 @@ and the great Lord him who is associated with Māya'
 इन्द्रो मायाभिः पुरुरूप ईयते (बृ.४.५.१९) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विविधाध्यासहेतुत्वं दर्शयति - इन्द्रो मायाभिरिति ।
 </details>
@@ -1134,7 +1134,7 @@ and the great Lord him who is associated with Māya'
 मम माया दुरत्यया (भ.गी.७.१४) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्या ऐक्यज्ञानेन विना अनिवर्त्त्यत्वमाह - ममेति ।
 </details>
@@ -1156,7 +1156,7 @@ and the great Lord him who is associated with Māya'
 अनादिमायया सुप्तो यदा जीवः प्रबुध्यते (गौ.२.२१) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनादित्वमाह- अनादीति ।
 </details>
@@ -1181,7 +1181,7 @@ and the great Lord him who is associated with Māya'
 इत्यादिभिः निर्विशेषचिन्मात्रं ब्रह्मैवानाद्यविद्यया सदसदनिर्वाच्यया तिरोहितस्वरूपं स्वगतनानात्वं पश्यतीत्यवगम्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्रेशितव्यसापेक्षमहेश्वरत्वेन्द्रत्वबहुवचनश्रवणाद्विजातीयसजातीयस्वगतभेदसाहित्यं प्रतिपन्नमिति तदपनुत्तये व्याचष्टे- निर्विशेषेति ।
 
@@ -1224,7 +1224,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 ज्ञानस्वरूपो भगवान्यतोऽसावशेषमूर्तिर्न तु वस्तुभूतः। ततो हि शैलाब्धिधरादिभेदान् जानीहि विज्ञानविजृम्भितानि॥ 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ दोषवाचिभिरेवोपबृंहणवाक्यैर्निर्विशेषस्य वस्तुन एव दोषसम्बन्धित्वमुक्तमिति दर्शयति- यथोक्तमिति ।
 
@@ -1254,7 +1254,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 यदा तु शुद्धं निजरूपि सर्वकर्मक्षये ज्ञानमपास्तदोषम्। तदा हि सङ्कल्पतरोः फलानि भवन्ति नो वस्तुषु वस्तुभेदाः॥ (वि.पु.२.१२.३९,४०) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विज्ञानविजृम्भितानीति - विज्ञानशब्देन विविधं ज्ञायतेऽनेनेति करणव्युत्पत्त्याऽविद्याऽभिधीयते, प्रतिज्ञातं प्रपञ्चस्याविद्याकल्पितत्वं व्यतिरेकमुखेनोपपादयति - यदेति । शुद्धम्- अविद्यारहितम् । निजरूपिभेददर्शनरहितं, तन्निमित्तकमर्क्षये अयास्तरागादिदोषम् ।
 
@@ -1282,7 +1282,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 > तस्मान्न विज्ञानमृतेऽस्ति किञ्चित्क्वचित् कदाचिद्द्विज! वस्तुजातम् । विज्ञानमेकं निजकर्मभेदविभिन्नचित्तैर्बहुधाऽभ्युपेतम्॥ 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विजातीयभेदाभावमुपसंहरति- तस्मादिति पूर्वार्द्धेन । अथात्मबहुत्वस्य काल्पनिकत्वमुच्यते- विज्ञानमित्यर्द्धेन ।
 </details>
@@ -1308,7 +1308,7 @@ Vijñānasabdena vividhaṁ jñāyate-neneti karaṇavyutpattyā-vidyā-bhidhiya
 ज्ञानं विशुद्धं विमलं विशोकमशेषलोभादिनिरस्तसङ्गम्। एकं सदैकं परमः परेशः स वासुदेवो न यतोऽन्यदस्ति॥ (वि.पु.२.१२.४३,४४) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वोक्तमात्मैक्यमेकं सदैकमित्यत्र एकशब्देनानूद्य स्वगतनानात्वं निषिध्य परमपरेशादिशब्दानामपि वस्तुमात्रपरत्वं प्रतिपादयति- ज्ञानमिति ।
 
@@ -1337,7 +1337,7 @@ I have thus declared to you the lasting truth of things – that intelligence on
 सद्भाव एवं भवतो मयोक्तो ज्ञानं यथा सत्यमसत्यमन्यत्। एतत्तु यत्संव्यवहारभूतं तत्रापि चोक्तं भुवनाश्रितं ते॥ (वि.पु.१.१२.४५)
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एतन्न परमतमित्याह - सद्भाव इति ।
 
@@ -1372,7 +1372,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 अस्याश्चाविद्याया निर्विशेषचिन्मात्रब्रह्मात्मैकत्वविज्ञानेन निवृत्तिं वदन्ति – 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किं प्रस्तुतस्य कर्माङ्गकत्वानर्हवाक्यार्थज्ञानमोक्षोपायत्वस्येति शङ्कायामुपायपरवाक्यानामपि सिद्धपरवाक्यप्रतिपन्नार्थानुगुणोपायपरत्वमाह - अस्या इति । चः शङ्कानिवर्तकः ।
 
@@ -1397,7 +1397,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 न पुनर्मृत्यवे तदेकं पश्यति, 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तस्या निवृत्तौ प्रमाणं दर्शयति न पुनरिति - मृत्युरत्राविद्या, तन्निवृत्तिश्चैक्यज्ञानादित्याह- तदेकं पश्यतीति ।
 </details>
@@ -1417,7 +1417,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 > न पश्यो मृत्युं पश्यति (बृ.७.२६.२) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मृत्युकार्यस्य रोगादेरपि निवृत्तिं ज्ञापयति- न पश्यो मृत्युमिति ।
 </details>
@@ -1442,7 +1442,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 यदा ह्येवैष एतस्मिन्नदृश्येऽनात्म्येऽनिरुक्ते-अनिलयनेऽभयं प्रतिष्ठां विन्दते। अथ सोऽभयं गतो भवति (तै.आन.७.२) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न रोगं नोत दुःखतामिति तच्छेषः, निर्विशेषवस्तुज्ञानानन्तरमेवाभयप्राप्तिं दर्शयति- यदा हीति । अदृश्येप्रत्यक्षाद्यविषये । अनात्म्ये- आत्म्यं व्याप्यं शरीरम्, अशरीरे । अनिरुक्ते- अनिर्वचनीये । अनिलयने- अनाधारे । अभयम्- अभयार्थम्, अव्ययीभावसमासः । प्रतिष्ठा- निष्ठा ।
 </details>
@@ -1466,7 +1466,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः। क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे (मु.२.२.८) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वादिभिर्बन्धमूलत्वेनाभ्युपगतस्य कर्मणोऽप्यविद्याकल्पितत्वात् तस्यापि ज्ञानेन निवृत्तिमाह - भिद्यत इति । हृदयग्रन्थिरविद्या ।
 </details>
@@ -1488,7 +1488,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 ब्रह्म वेद ब्रह्मैव भवति (मु.३.२.९) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्ववाक्येषु किञ्चिद्भेदः प्रतीयत इव भातीति तद्य्वावृत्तये ज्ञानस्य ऐक्यविषयत्वज्ञापनाय ऐक्यापत्तिं फलं दर्शयति- ब्रह्म वेदेति । यथोपासनं हि फलम् ।
 
@@ -1528,7 +1528,7 @@ Other texts declare that this Nescience comes to an end through the cognition of
 अत्र मृत्युशब्देनाविद्याऽभिधीयते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नात्राविद्यानिवृत्तिः प्रतीयते, तद्वाचिशब्दाश्रवणादित्यत्राह - अत्रेति । "मृत्युर्धावति पञ्चम" इत्यादौ मृत्युशब्दस्य यमादिषु प्रयोगदशर्नात्तद्य्वावृत्त्यर्थमुक्तम् ।
 
@@ -1561,7 +1561,7 @@ analogously to the use of the term in the following words of Sanatsujāta,
 यथा सनत्सुजातवचनम् – प्रमादं वै मृत्युमहं ब्रवीमि सदाऽप्रमादममृतत्वं ब्रवीमि (भारत.उद्योपर्व.४१.४) इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यथेति - प्रमादं वै इति वचनात् पूर्वत्र मोहो मृत्युः सम्प्रतो यः कवीनामित्युक्तम् मोहो विपरीतज्ञानं तन्मृत्युरिति परमतं, सनत्सुजातस्य तु प्रमादो मृत्युर्मतः ।
 
@@ -1587,7 +1587,7 @@ analogously to the use of the term in the following words of Sanatsujāta,
 सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१.अनु.१) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपात्तेषु वाक्येषु ज्ञानस्याविद्यानिवर्त्तकत्वं प्रतिपन्नं ब्रह्मणो निविर्शेषचिन्मात्रत्वं तेनात्मन एकत्वज्ञानं निवर्त्तकमिति च न प्रतिपन्नमित्यत्राह - सत्यं ज्ञानमिति ।
 </details>
@@ -1607,7 +1607,7 @@ analogously to the use of the term in the following words of Sanatsujāta,
 विज्ञानमानन्दं ब्रह्म (बृ.५.९.२८) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सत्यज्ञानादिवाक्यं सर्वतो व्यावृत्तत्वप्रदर्शनार्थमुपात्तं, पुरुषार्थत्वायासुखाद्य्वावृत्तिज्ञापनार्थमुपात्तं विज्ञानमानन्दमिति आदिशब्देनास्थूलमित्यादि गृह्यते, एवं ब्रह्मणो निर्विशेषत्वे शोधकवाक्यान्युदाहृतानि ।
 </details>
@@ -1647,7 +1647,7 @@ The knowledge again of the essential unity and non-difference of Brahman – whi
 अथ योऽन्यां देवतामुपास्ते-अन्योऽसावन्योऽहमस्मीति न स वेद (बृ.३.४.१०) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ ब्रह्मात्मैक्यप्रतिपत्तौ श्रुतिमुपादत्ते- अथ य इति ।
 </details>
@@ -1713,7 +1713,7 @@ The knowledge again of the essential unity and non-difference of Brahman – whi
 त्वं वा अहमस्मि भगवो देवते अहं वै त्वमसि भगवो देवते 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ योऽन्यामित्यैक्योपासनविर्धिभेदवासनानिरासार्थः, विहितोपासनस्यैक्यविषयतां ज्ञापयितुमैक्योपदेशं दर्शयति - तत्त्वमसीति - उपदेशानुगुणमुपासको देवतां प्रत्याह - त्वं वेति । उपदिष्टार्थमात्मन्यनुसन्धत्ते ।
 </details>
@@ -1736,7 +1736,7 @@ The knowledge again of the essential unity and non-difference of Brahman – whi
 तद्योऽहं सोऽसौ योऽसौ सोऽहमस्मि (ऐ.आ.४.२) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्योऽहमिति ।
 
@@ -1802,7 +1802,7 @@ Thus the Vākyakāra also, 'It is the Self – thus one should apprehend (everyt
 तथा च वाक्यकारः- आत्मेत्येव तु गृह्णीयात् सर्वस्य तन्निष्पत्तेः (ब्रह्मनन्दिवाक्यम्) इति ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ग्राह्यन्ति च ज्ञापयन्ति च तथा शास्त्राणि, सूत्रकाराभिप्रायविदां वाक्यं दर्शयति- तथा चेति ।
 
@@ -1827,7 +1827,7 @@ And to hold that by such cognition of the oneness of Brahman essentially false b
 अनेन च ब्रह्मात्मैकत्वविज्ञानेन मिथ्यारूपस्य सकारणस्य बन्धस्य निवृत्तिर्युक्ता ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलं श्रुतिः, तदनुग्राहकतर्कोऽप्यस्तीत्याह- अनेन चेति । चः समुच्चये ।
 
@@ -1877,7 +1877,7 @@ But, an objection is raised--
 कथं वा रज्जुरेषा न सर्पः इति ज्ञानेन प्रत्यक्षविरुद्धा सर्पनिवृत्तिः क्रियते? 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 बन्दस्य निवृत्तिर्युक्ता न हि मिथ्यासर्पनिवृत्तौ नायं सर्पो रज्जुरेषेति ज्ञानादृते कर्मापेक्षेति भावः ।
 
@@ -1910,7 +1910,7 @@ But, an objection is raised--
 तत्र द्वयोः प्रत्यक्षयोर्विरोधः; इह तु प्रत्यक्षमूलस्य शास्त्रस्य प्रत्यक्षस्य चेति चेत्; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इह त्विति - तुल्यत्वव्यावृत्तये तुशब्दः - प्रत्यक्षमूलस्येति - मूलित्वान्न शास्त्रं बाधकमिति भावः ।
 
@@ -1932,7 +1932,7 @@ But, an objection is raised--
 तुल्ययोर्विरोधे वा कथं बाध्यबाधकभावः? 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तुल्यत्वे प्रयोजके सति बाध्यबाधकभावो विपर्ययेणापि स्यादिति तदप्रयोजकम्, अतस्तत्र बाध्यबाधकभावे प्रयोजकान्तरं त्वया वक्तव्यं, तदेवास्माकमपि प्रयोजकमित्यभिप्रायेणाह - तुल्ययोरिति ।
 </details>
@@ -1955,7 +1955,7 @@ we point out that this distinction holds good also in the case of Scripture and 
 > पूर्वोत्तरयोर्दुष्टकारणजन्यत्वतदभावाभ्याम् – इति चेत्; शास्त्रप्रत्यक्षयोरपि समानमेतत्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 बाध्यबाधकभावानियमव्यावृत्तये भेदवाद्यभिमतत्वेन प्रयोजकान्तरं शङ्कते - पूर्वोत्तरयोरिति । पूर्वोत्तरयोः- बाध्यबाधकयोः ।
 
@@ -1985,7 +1985,7 @@ if that were the case, the perception which presents to us the flame of the lamp
 एतदुक्तं भवति – बाध्यबाधकभावे तुल्यत्वसापेक्षत्वनिरपेक्षत्वादि न कारणम्; ज्वालाभेदानुमानेन प्रत्यक्षोपमर्दायोगात् । तत्र हि ज्वालैक्यं प्रत्यक्षेणावगम्यते।  
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मूलमूलित्वादिसद्भावे मूलस्य प्रत्यक्षस्य च बाधकत्वम्, इतरस्य बाध्यत्वं च दृष्टम्, अतो मूलमूलित्वपरोक्षत्वादिवैषम्यराहित्ये सति दुष्टकारणजन्यत्वतदभावौ बाध्यबाधकभावे प्रयोजकाविति शङ्कायामाह- एतदुक्तमिति ।
 
@@ -2042,7 +2042,7 @@ This is the principle on which the relation between 'what sublates' and 'what is
 एवं च सति द्वयोः प्रमाणयोर्विरोधे यत्सम्भाव्यमानान्यथासिद्धि, तद्बाध्यम्; अनन्यथासिद्धमनवकाशम् इतरद्बाधकम् – इति सर्वत्र बाध्यबाधकभावनिर्णयः – इति ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इति सर्वत्र - उक्तप्रकारेण सजातीययोर्विजातीययोर्वा प्रमाणयोर्विरोध इत्यर्थः ।
 </details>
@@ -2070,7 +2070,7 @@ It is therefore reasonable to conclude that the state of bondage is put an end t
 तस्मात् अनादिनिधनाविच्छिन्नसम्प्रदायासम्भाव्यमानदोषगन्धानवकाशशास्त्रजन्य-निर्विशेषनित्यशुद्धमुक्तबुद्धस्वप्रकाशचिन्मात्रब्रह्मात्मभावावबोधेन सम्भाव्यमानदोषसावकाश-प्रत्यक्षादिसिद्धविविधविकल्परूप-बन्धनिवृत्तिर्युक्तैव । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं बाध्यबाधकभावे प्रयोजकमस्तु, ततः किं प्रस्तुतशास्त्रप्राबल्यस्येत्यत्राह- तस्मादिति । तस्मात् अन्यथासिद्धत्वानन्यथासिद्धत्वयोरेव बाध्यबाधकभावे प्रयोजकत्वात् ।
 
@@ -2100,7 +2100,7 @@ And that imperfection of which Perception – through which we apprehend a world
 सम्भाव्यते च विविधविकल्पभेदप्रपञ्च ग्राहिप्रत्यक्षस्यानादिभेदवासनादिरूपाविद्याख्यो दोषः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सम्भाव्यमानेति- सम्भाव्यमानदोषत्वात्, सावकाशम्- अप्रमाणकोटौ लब्धनिवेशम् । अत एवान्यथासिद्धत्वमपि फलितम् ।
 
@@ -2150,7 +2150,7 @@ The texts which represent Brahman as devoid of qualities have greater force
 ननु अनादिनिधनाविच्छिन्नसम्प्रदायतया निर्दोषस्यापि शास्त्रस्य ज्योतिष्टोमेन स्वर्गकामो यजेत इत्येवमादेर्भेदावलम्बिनो बाध्यत्वं प्रसज्येत। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यन्निर्दोषमुक्तं तत्रापि बाध्यबाधकभावनिमित्तभूतोऽर्थविरोधोस्ति, अतोऽवश्यमन्यतरस्य बाध्यत्वं स्यात् तत्र यद्बाध्यत्वे प्रयोजकं दुष्टकारणजन्यत्वं तत्तु नास्ति कथमत्र निर्वाह इत्याशयेन चोदयति - नन्विति ।
 
@@ -2190,7 +2190,7 @@ As in the case of the Udgātr̥ and Pratihartr̥ breaking the chain (not at the 
 सत्यम्; पूर्वापरापच्छेदे पूर्वशास्त्रवन्मोक्षशास्त्रस्य निरवकाशत्वात्तेन बाध्यत एव । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किञ्च यथोदितदतक्षणाकत्वेन कर्मसमापनं हि शास्त्रेण पूर्वमेव स्वतः प्राप्तम्, तत्तु प्रायश्चित्तशास्त्रेणानान्यथाकृतम्, एवं पूर्वसिद्धार्थान्यथाकरणप्रकरणत्वदत्रापि पूर्वमेव बाध्यमिति कर्मविचारो निश्चितम् ।
 
@@ -2215,7 +2215,7 @@ The same reasoning applies to those passages in the Vedānta-texts which inculca
 वेदान्तवाक्येष्वपि सगुणब्रह्मोपासनपराणां शास्त्रणामयमेव न्यायः, निर्गुणत्वात्परस्यब्रह्मणः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परत्वञ्च पाठक्रमादर्थक्रमाच्च त्रिवर्गफलत्वेन हि कर्मणि प्रथमप्रावण्यम् निरूपकस्य तत्त्वपरस्य हि मुमुक्षा, तादृशपौर्वापर्यरहितेषु विरोधगर्भेषु वेदान्तवाक्येषु सगुणोपासनपरेषु कथं निर्वाहः ? इत्यत्राह - वेदान्तवाक्येष्वपीति ।
 
@@ -2248,7 +2248,7 @@ The same reasoning applies to those passages in the Vedānta-texts which inculca
 ननु च – यस्सर्वज्ञस्सर्ववित् (मु.उ.२.२.७) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपासनपरसगुणनिर्गुणवाक्ययोः फलद्वारा पौर्वापर्यमुक्तम्, तत्तु स्वरूपपरसगुणनिर्गुणवाक्ययोर्नास्तीति कथं तत्र बाध्यबाधकभावः ? इति चोदयति - ननु चेति ।
 </details>
@@ -2322,7 +2322,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 निर्गुणवाक्यसामर्थ्यात् इति ब्रूमः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विधिनिषेधरूपं पौर्वापयर्ं हृदि निधायाह निर्गुणेति ।
 </details>
@@ -2345,7 +2345,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 एतदुक्तं भवति – अस्थूलमनण्वह्रस्वमदीर्घम् (बृ.५अ.८ब्रा.) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कानि निर्गुणवाक्यानि, कथं तेषां सामर्थ्यम् ? इत्यत्राह - एतदुक्तमिति ।
 </details>
@@ -2379,7 +2379,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 निर्गुणम् (आत्मोपनिषत्) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्थूलेत्यादिवाक्यं गुणविशेषनिषेधपरं सत्यज्ञानादिवाक्ये व्यावृत्तिगर्र्भिता, निर्गुणमित्यादिवाक्यं गुणसामान्यनिषेधपरम् आदिशब्देन यत्तदद्रेश्यमित्यादि गृह्यते । विरोधं स्फोरयति ।
 </details>
@@ -2432,7 +2432,7 @@ Owing to the greater weight, we reply, of those texts which set forth Brahman as
 इतराणि च सगुणम् । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निरस्तेति - कूटस्यशब्दो निर्विकारत्ववाची सर्वाधिष्ठानत्ववाची वा कूटवत्तिष्ठतीति हि कूटस्थः, नित्यचैतन्यमित्यन्तैः पदैरुद्राहृतनिर्गुणश्रुत्यर्थः सङ्क्षिप्तः । इतराणि यः सर्वज्ञः इत्यादीनि पूर्वोपात्तानि वाक्यानि चस्समुच्चये सगुणनिर्गुणपरत्वादुभयविधवाक्यविरोधः ।
 
@@ -2461,7 +2461,7 @@ And there being a conflict between the two sets of passages, we – according to
 उभयविधवाक्यानां विरोधे तेनैवापच्छेदन्यायेन निर्गुणवाक्यानां गुणापेक्षत्वेन परत्वाद्बलीयस्त्वमिति न किञ्चिदपहीनम् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निर्गुणवाक्यबलीयस्त्वं कुतः ? इत्यत्राह - गुणापेक्षत्वेन परत्वादिति ।
 
@@ -2513,7 +2513,7 @@ But – an objection is raised--
 ननु च – सत्यं ज्ञानमनन्तं ब्रह्म इत्यत्र सत्यज्ञानादयो गुणाः प्रतीयन्ते॥ 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सत्यज्ञानादयो गुणाः प्रतीयन्त इत्यत्र सत्यज्ञानशब्दौ सत्यत्वज्ञानत्वपरौ, यथा "द्व्येकयोर्द्विवचनैकवचने" इति पाणिनि(नीय)सूत्रस्थद्व्येकशब्दौ द्वित्वैकत्वपरौ, अन्यथा द्व्येकेष्विति वक्तव्यम् ।
 
@@ -2609,7 +2609,7 @@ it follows that they convey the idea of one matter (sense) only.
 नेत्युच्यते, सामानाधिकरण्येनैकार्थत्वप्रतीतेः । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एतदभिप्रायेण प्रत्यवतिष्ठते - नेत्युच्यत इति ।
 
@@ -2643,7 +2643,7 @@ If against this you urge that the sentence may convey the idea of one matter onl
 अनेकगुणविशिष्टाभिधानेऽप्येकार्थत्वमविरुद्धम् – इति चेत्; अनभिधानज्ञो देवानां प्रियः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 चोदयन्तमुपालभते - अनभिधानज्ञ इति ।
 
@@ -2669,7 +2669,7 @@ A sentence conveys the idea of one matter (sense) only when all its constitutive
 एकार्थत्वं नाम सर्वपदानामर्थैक्यम्; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिहरति - एकार्थत्वमिति ।
 
@@ -2695,7 +2695,7 @@ if, on the othcr hand, it expresses a thing possessing several attributes, the d
 विशिष्टपदार्थाभिधाने विशेषणभेदेन पदानामर्थभेदोऽवर्जनीयः; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यपेक्षायां, समानाधिकरणपदानां विशेषणमात्रपरत्वे विशिष्टपरत्वे च दूषणमेकग्रन्थेनाह - विशिष्टेति ।
 
@@ -2726,7 +2726,7 @@ and then the oneness of meaning of the sentence is lost.
 ततश्चैकार्थत्वं न सिध्यति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह - ततश्चैकार्थत्वं न सिध्द्यतीति ।
 
@@ -2753,7 +2753,7 @@ and then the oneness of meaning of the sentence is lost.
 एवं तर्हि सर्वपदानां पर्यायता स्यात्, अविशिष्टार्थाभिधायित्वात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह - अविशिष्टार्थाभिधायित्वादिति ।
 
@@ -2780,7 +2780,7 @@ without being idle synonyms.
 एकार्थाभिधायित्वेऽप्यपर्यायत्वमवहितमनाश्शृणु; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उक्तचोद्यत्रयं परिहर्तुमाह - एकार्थेति ।
 
@@ -2808,7 +2808,7 @@ From the determination of the unity of purport of the whole sentence [fn_6] we c
 एकत्वतात्पर्य-निश्चयात् एकस्यैवार्थस्य तत्तत्पदार्थविरोधि-प्रत्यनीकत्वपरत्वेन सर्वपदानामर्थवत्वमेकार्थत्त्वम् अपर्यायता च॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनुपपत्तित्रयं परिहरति - एकत्वेत्यादिना । एकत्वतात्पर्यनिश्चयः समानविभक्तया । अर्थवत्त्वम्- प्रयोजनवत्त्वम् ।
 
@@ -2836,7 +2836,7 @@ The details are as follows. Brahman is to be defined as what is contrary in natu
 एतदुक्तं भवति - लक्षणतः प्रतिपत्तव्यं ब्रह्म सकलेतरपदार्थविरोधिरूपम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु तत्त्वमस्यादिवाक्यवदन्वयमुखेनोपलक्षणं स्यात्, किमर्था व्यावृत्तिः ? व्यावृत्तिबहुत्वादनेकार्थत्वमापतितं, व्यावर्त्याकारानन्त्यात् कतिपयपदैर्न तद्य्वावृत्तिः शक्यते कर्त्तुं, ब्रह्मणो येभ्यो व्यावृत्तिः- कानि तानि वस्तूनि ? ब्रह्मणोऽनेकव्यावृत्तिमत्त्वात् सधर्मत्वम्, धर्मत्वानभ्युपगमे पदानां पर्यायत्वमित्याद्यनेकशङ्कापरिहारार्थमाह - एतदुक्तं भवतीति । लक्षणतः- स्वरूपलक्षणतः, न तु तटस्थलक्षणतः ।
 
@@ -2863,7 +2863,7 @@ Now whatever is opposed to Brahman is virtually set aside by the three words (co
 तद्विरोधिरूपं सर्वमनेन पदत्रयेण फलतो व्युदस्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 फलतो व्युदस्यत इति - इदं वाक्यं स्वरूपमात्रपरमेव, अत ऐकार्थ्यं, व्युदासस्तु फलित इति भावः ।
 
@@ -2890,7 +2890,7 @@ The word 'true' (or 'truly being') has the purport of distinguishing Brahman fro
 तत्र सत्यपदं विकारास्पदत्वेनासत्याद्वस्तुनो व्यावृत्तब्रह्मपरम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किमर्थमसत्यव्यावृत्तिरित्यत्रोक्तम् विकारास्पदत्वेनासत्यादिति । स्तब्धशीतादिसाधारणजडशब्दविवरणार्थमन्याधीनप्रकाशशब्दः । यद्यपि सत्यादिष्वैकैकपदेन समस्तव्यावृत्तिसिद्धिः, तथाऽपि ब्रह्मणि शङ्िकतत्वेतत्पदार्थगतविरोध्याकारस्यैकपदेनानिवर्तनात् पदत्रयसाफल्यम् ।
 
@@ -2953,7 +2953,7 @@ Nor is this 'distinction' some positive or negative attribute of Brahman,
 न च व्यावृत्तिर्भावरूपोऽभावरूपो वा धर्मः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शुक्तयादौ हि धर्मस्य व्यावृत्तित्वं रजतादिविरोधित्वादभ्युपगम्यते, एवं ब्रह्म च सकलेतरविरोधित्वात् स्वयमेव व्यावृत्तिरित्यर्थः ।
 </details>
@@ -2989,7 +2989,7 @@ just as the distinction of white colour from black and other colours is just the
 यथा शौक्ल्यादेः कार्ष्ण्यादिव्यावृत्तिस्तत्पदार्थस्वरूपमेव, न धर्मान्तरम् -  
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वरूपस्यैव व्यावृत्तित्वे दृष्टान्तमाह - यथेति । शौक्ल्यादेः काष्ण्यर्ादिव्यावृत्तिर्न धर्मान्तरम्, अनुपलम्भात्; धर्मान्तरत्वेऽनवस्थानाच्चेत्यभिप्रायः ।
 
@@ -3044,7 +3044,7 @@ The text thus declares the one Brahman which is self-luminous and free from all 
 तस्मादेकमेव ब्रह्म स्वयञ्ज्योतिर्निर्धूतनिखिलविशेषमित्युक्तं भवति । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं सत्यज्ञानादिवाक्यस्यानुग्राहकस्तर्क उक्तः, तर्कानुगृहीतेन वाक्येन कोऽर्थः प्रतिपन्न इत्यत्राह - तस्मादिति ।
 
@@ -3106,7 +3106,7 @@ On this interpretation of the text we discern its oneness in purport with other 
 यतो वा इमानि भूतानि जायन्ते (तै.भृगु.१.अनु.) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कारणवाक्यैकार्थ्यं कुतोऽपेक्षितम् ? ऐकार्त्ये सति कथं वा निर्विशेषपरत्वम् ? इत्यत्राह - यत इत्यादि ।
 
@@ -3129,7 +3129,7 @@ On this interpretation of the text we discern its oneness in purport with other 
 सदेव सोम्येदमग्र आसीत् (छां.६.२.१) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एतस्य कारणत्वानुवादेन लक्षणपरत्वात् कारणत्वप्रापकं वाक्यमाह - सदेवेति ।
 </details>
@@ -3172,7 +3172,7 @@ Texts such as (the above) describe Brahman as the cause of the world; and of thi
 इत्यादिभिर्जगत्कारणतयोपलक्षितस्य ब्रह्मणः स्वरूपमिदमुच्यते – सत्यं ज्ञानमनन्तं ब्रह्म (तै.आन.१.१) इति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपलक्षितस्य- उपलक्षणं नाम चन्द्रस्य शाखेव तटस्थं ज्ञापकं - सत्यं ज्ञानमनन्तं ब्रह्मेतीति ।
 
@@ -3202,7 +3202,7 @@ In agreement with the principle that all śākhās teach the same doctrine we ha
 तत्र सर्वशाखाप्रत्ययन्यायेन कारणवाक्येषु सर्वेषु सजातीयविजातीयव्यावृत्तमद्वतीयं ब्रह्मावगतम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्तु कारणवाक्यैकार्थ्यं, तत्तु सगुणब्रह्मकारणत्ववादिभिः "यस्सर्वज्ञः सर्ववित्" "यस्य ज्ञानमयं तपः" "तस्मादेतद् ब्रह्म नाम रूपमन्नं च जायते" "तमीश्वराणां परमं महेश्वरम्" "स कारणं करणाधिपाधिपः" इत्यादिवाक्यैरेव स्यादित्यत्राह - तत्रेति । तत्र- कारणवाक्यैकार्थ्येऽपेक्षिते । सर्वशाखाप्रत्ययन्यायोऽह्यनुक्तार्थस्वीकारफलः, तेनात्रानुक्तस्योपनिषदन्तरोक्तस्यार्थस्य स्वीकर्त्तव्यत्वे सति सगुणमात्रपरासूपनिषत्सु निर्गुणमपि ब्रह्मोक्तं भवति । तत्रापच्छेदन्यायेन निर्गुणवाक्यानां बलीयस्त्वात् सर्वत्र सजातीयविजातीयव्यावृत्तमद्वितीयं ब्रहमैव प्रतिपादितं भवतीत्यप्रिायः ।
 
@@ -3226,7 +3226,7 @@ and the text which aims at defining Brahman has then to be interpreted in accord
 जगत्कारणतयोपलक्षितस्य ब्रह्मणोऽद्वितीयस्य प्रतिपिपादयिषितं स्वरूपं तदविरोधेन वक्तव्यम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जगत्कारणेत्यादिपदैः कारणवाक्योक्तमर्थमनुवदति ।
 
@@ -3252,7 +3252,7 @@ The statement of the Cḥāndogya as to Brahman being without a second must also
 अद्वितीयत्वश्रुतिर्गुणतोऽपि सद्वितीयतां न सहते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नरपतिरद्वितीय इत्यादिवत्समाभ्यधिकराहित्येऽप्यद्वितीयत्वमुपपन्नमिति तदैकार्थ्येऽपि न निर्गुणपरत्वसिद्धिरित्यत्राह- अद्वितीयत्वश्रुतिरिति ।
 
@@ -3276,7 +3276,7 @@ otherwise it would conflict with those passages which speak of Brahman as being 
 अन्यथा निरञ्जनम् (श्वे.६.१९) निर्गुणम् (आत्मोपनिषत्) इत्यादिभिश्च विरोधः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ शोधकवाक्यान्तरैकार्थ्यं हेतुरुच्यते - अन्यथेति ।
 
@@ -3303,7 +3303,7 @@ We therefore conclude that the defining Taittirīya-text teaches Brahman to be a
 अतश्चैतल्लक्षणवाक्यमखण्डैकरसमेव प्रतिपादयति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हेतुत्रयोणोपपादितमर्थं निगमयति - अतश्चेति ।
 
@@ -3333,7 +3333,7 @@ We therefore conclude that the defining Taittirīya-text teaches Brahman to be a
 ननु च सत्यज्ञानादिपदानां स्वार्थप्रहाणेन स्वार्थविरोधिव्यावृत्तवस्तुस्वरूपोपस्थापनपरत्वे लक्षणा स्यात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु चेत्यादिना ।
 
@@ -3358,7 +3358,7 @@ What objection is there to such a proceeding? we reply. The force of the general
 नैष दोषः, अभिधानवृत्तेरपि तात्पर्यवृत्तेर्बलीयस्त्वात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नैष दोष इति - मुख्यार्थत्वमुत्तरत्राभिधास्यते ।
 
@@ -3387,7 +3387,7 @@ and it is generally admitted that the purport of grammatical co-ordination is on
 सामानाधिकरण्यस्य ह्यैक्य एव तात्पर्यमिति सर्वसम्मतम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ऐक्य एव तात्पर्यमिति - तात्पर्यनिश्चायिका समानाविभक्तिरिति भावः । आनन्दमयाधिकरणे सिद्धान्तिना ह्येतद्वक्ष्यते ।
 
@@ -3411,7 +3411,7 @@ and it is generally admitted that the purport of grammatical co-ordination is on
 > ननु च – सर्वपदानां लक्षणा न दृष्टचरी। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 गङ्गायां घोष इत्यादिषु सर्वपदलक्षणा न दृष्टेति चोदयति ।
 
@@ -3435,7 +3435,7 @@ Is it then not observed, we reply, that (not even) _one_ word is to be taken in 
 ततः किम्? वाक्यतात्पर्याविरोधे सत्येकस्यापि न दृष्टा । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तात्पर्याविरुद्धपदमुख्यार्थस्वीकारस्तात्पर्यविरुद्धपदलक्षणस्वीकारस्याविरुद्ध इत्याशयेनाह - ततः किमिति ।
 
@@ -3465,7 +3465,7 @@ And if the purport of the sentence, which is nothing but an aggregate of words e
 समभिव्याहृतपदसमुदायस्यैतत्तात्पर्यमिति निश्चिते सति द्वयोस्त्रयाणां सर्वेषां वा तदविरोधाय एकस्येव लक्षणा न दोषाय। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यद्यविरुद्धपदमुख्यार्थत्वं विरुद्धपदलक्षणाविरोधि, तर्हि गङ्गायां मत्स्या इति वाक्ये विरोधाभावाल्लक्षणानङ्गीकारः, गङ्गायां घोष इत्यत्र विरोधाल्लक्षणा न दोष इति चेत् तदत्रापि तुल्यमित्याह - समभिव्याहृतेति ।
 
@@ -3493,7 +3493,7 @@ And if the purport of the sentence, which is nothing but an aggregate of words e
 तथा च शास्त्रस्थैरभ्युपगम्यते ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलं विषं भुङ्क्ष्ेत्यादिषु लौकिकप्रयोजकेष्वेव सर्वपदलक्षणाऽगत्याश्रिता, अन्यैरपि परीक्षकैराश्रितेत्याह- तथा चेति । तथा सर्वपदलक्षणाया अदोषत्वम् ।
 
@@ -3518,7 +3518,7 @@ who explain to us the sense of imperative sentences, teach that in imperative se
 कार्यवाक्यार्थवादिभिः लौकिकवाक्येषु सर्वेषां पदानां लक्षणा समाश्रीयते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कैः परीक्षकैः केषु वाक्येषु सर्वपदलक्षणाश्रितेत्यत्राह - कार्यवाक्यार्थेति ।
 </details>
@@ -3541,7 +3541,7 @@ For, they maintain, imperative forms have their primary meaning only in (Vedic) 
 अपूर्वकार्य एव लिङादेर्मुख्यवृत्तत्वात् लिङादिभिः क्रियाकार्यं लक्षणया प्रतिपाद्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 लौकिकवाक्येषु सर्वपदलाक्षणिकत्वमुपपादयति - अपूर्वकायर्एवेति ।
 </details>
@@ -3587,7 +3587,7 @@ and this conclusion is extended, somewhat unwarrantably one should say, to all t
 कार्यान्वितस्वार्थाभिधायिनां चेतरेषां पदानामपूर्वकार्यान्वित एव मुख्यार्थ इति क्रियाकार्यान्वितप्रतिपादनं लाक्षणिकमेव । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 क्रियाकार्यं लाक्षणिकमस्तु, तत्कथं सर्वपदलक्षणा ? इत्यत्राह- कार्यान्वितेति ।
 
@@ -3667,7 +3667,7 @@ and this conclusion is extended, somewhat unwarrantably one should say, to all t
 अतो वाक्यतात्पर्याविरोधाय सर्वपदानां लक्षणाऽपि न दोषः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नैष दोष इति । मुख्यार्थत्वमुत्तरत्राभिधा स्यते ।
 
@@ -3753,7 +3753,7 @@ and this conclusion is extended, somewhat unwarrantably one should say, to all t
 अत इदमेवार्थजातं प्रतिपादयन्तो वेदान्ताः प्रमाणम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यदप्याहुरित्यारभ्य कृतां शास्त्रेण स्वाभिमतार्थसिद्धिमुपसंहरति । अत इदमेवेति ।
 
@@ -3789,7 +3789,7 @@ We have so far shown that in the case of a conflict between Scripture and Percep
 प्रत्यक्षादिविरोधे च शास्त्रस्य बलीयस्त्वमुक्तम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वं प्रत्यक्षविरोधे शास्त्रप्राबल्यं, शास्त्रे च भेदाबलम्बिनाबाध्यत्वं चोक्तम् । अथ प्रत्यक्षविरोधो नास्तीत्युपपादयितुं प्रकमते । प्रत्यक्षादीति शास्त्रप्रत्यक्षविरोधे शास्त्रप्राबल्यप्रतिपादकग्रन्थेन वक्ष्यमाणार्थसङ्गतिरिति भावः । चः समुच्चये । अविरोधपक्षस्य च बुद्धिस्थत्वात् तस्य चान्वारुह्योक्तस्य च समुच्चयः ।
 
@@ -3808,7 +3808,7 @@ We have so far shown that in the case of a conflict between Scripture and Percep
 सति च विरोधे बलीयस्त्वं वक्तव्यम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सति चेति ।अत्र च शब्दो हि शब्दार्थः । अविरोधं प्रतिजानीते ।
 </details>
@@ -3833,7 +3833,7 @@ since Perception itself gives rise to the apprehension of a non-differenced Brah
 विरोध एव न दृश्यते, निर्विशेषसन्मात्रब्रह्मग्राहित्वात्प्रत्यक्षस्य।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विरोध एव न दृश्यत इति ।
 
@@ -3859,7 +3859,7 @@ since Perception itself gives rise to the apprehension of a non-differenced Brah
 ननु च – घटोऽस्ति पटोऽस्ति इति नानाकारवस्तुविषयं प्रत्यक्षं कथमिव सन्मात्रग्राहीत्युच्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विषयविषयिभावरूपभेदव्यवृत्त्यर्थं सन्मात्रब्रह्मेत्युक्तम् । प्रतीतिविरोधेन चोदयति ।
 
@@ -3888,7 +3888,7 @@ If there were no apprehension of difference, all cognitions would have one and t
 विलक्षणग्रहणाभावे सति सर्वेषां ज्ञानानामेकविषयत्वेन धारावाहिकविज्ञानवदेकव्यवहारहेतुतैव स्यात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रतीतेर्भ्रान्तिरूपत्वसंभवात् तद्व्युदासार्थं व्यवहारविरोधमाह विलक्षणेति । परिहरति ।
 
@@ -3916,7 +3916,7 @@ If there were no apprehension of difference, all cognitions would have one and t
 सत्यम्; तथैवात्र विविच्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यथा इदं रजतमित्यत्र इदं व्यवहारस्य प्रत्यक्षमूलत्वं रजतव्यवहारस्य भ्रानितमूलत्वं, तथा विविच्यत इत्यर्थः ।
 
@@ -3953,7 +3953,7 @@ We therefore have to enquire in what way,in the judgment 'here is a jar,' an ass
 "घटोऽस्ती"त्यत्रास्तित्वं तद्भेदश्च व्यवह्रियते;  
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किमस्तित्वं भेदश्चैकः पदार्थः, उत द्वौ? द्वित्वे च किं तदुभयव्यवहारयोः प्रत्यक्षमूलत्वम्, उतान्यतरस्य? द्वयोरपि प्रत्यक्षमूलत्वे प्रत्यक्षं किं युगपदुभयग्राहि उत क्रमेण इति विकल्पान् हृदि निधाय, "अस्तित्वलक्षणस्वरूपतद्भेदयोरैक्यं न सम्भवति, भेदग्रहणस्य स्वरूपग्रहणप्रतियोगिस्मरणसापेक्षत्वात्, सन्मात्रग्रहणस्य तन्निरपेक्षत्वाच्च इत्यभिप्रयन्नाह अस्तित्वं तद्भेदश्चेति ।
 
@@ -3989,7 +3989,7 @@ These implied judgments cannot both be founded on perception, for they are the r
 न च द्वयोरपि व्यवहारयोः प्रत्यक्षमूलत्वं सम्भवति, तयोर्भिन्नकालज्ञानफलत्वात्, प्रत्यक्षज्ञानस्य चैकक्षणवर्तित्वात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 द्वित्वे च द्वयोरपि प्रत्यक्षमूलत्वं नेत्याह न च द्वयोरपीति । द्वयोरपि व्यवहारयोः- स्वरूपविषयभेदविषयव्यवहारयोः ।
 
@@ -4016,7 +4016,7 @@ We therefore must decide whether it is the essential nature of the jar, or its d
 तत्र स्वरूपं वा भेदो वा प्रत्यक्षस्य विषय इति विवेचनीयम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 क्रमपक्षं प्रतिक्षिपति प्रत्यक्षज्ञानस्येति । चःसमुच्चये ।
 
@@ -4046,7 +4046,7 @@ and, in addition, the remembrance of its counterentities (i.e. the things from w
 भेदग्रहणस्य स्वरूपग्रहणतत्प्रतियोगिस्मरणसव्यपेक्षत्वादेव स्वरूपविषयत्व- मवश्याश्रयणीयमिति न भेदः प्रत्यक्षेण गृह्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 भेदः प्रत्यक्षविषयः स्यादित्यत्राह भेदेति ।
 
@@ -4070,7 +4070,7 @@ Hence difference is not apprehended by Perception; and all judgments and proposi
 अतो भ्रान्तिमूल एव भेदव्यवहारः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रत्यक्षस्य स्वरूपमात्रविषयत्वे कथं भेदव्यवहारसम्भव इत्यत्राह - अतो भ्रान्तीति । तथा च संवित्सिद्धौ, "यौगपद्यक्रमायोगाद्वयवच्छेदविधानयोः ।
 
@@ -4097,7 +4097,7 @@ Difference – bheda – does not admit of logical definition
 किञ्च भेदो नाम कश्चित्पदार्थो न्यायविद्भिर्निरूपयितुं न शक्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं भेदे प्रमाणानुपपत्तिरुक्ता ;अथ प्रमेयानुपपत्तिमाह किञ्चेति ।
 
@@ -4130,7 +4130,7 @@ The Logicians, moreover, are unable to give a definition of such a thing as 'dif
 भेदस्तावन्न वस्तुस्वरूपम्, वस्तुस्वरूपे गृहीते स्वरूपव्यवहारवत्सर्वस्माद्भेदव्यवहारप्रसक्तेः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वरूपधर्मविकल्पं हृदि निधाय स्वरूपपक्षं दूषयति भेदस्तावदिति ।
 
@@ -4170,7 +4170,7 @@ Such reasoning, we reply, is inadmissible.
 न च वाच्यं – स्वरूपे गृहीतेऽपि भिन्न इति व्यवहारस्य प्रतियोगिस्मरणसव्यपेक्षत्वात्, तत्स्मरणाभावेन तदानीमेव न भेदव्यवहारः – इति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह स्वरूपेति ।
 
@@ -4200,7 +4200,7 @@ since, according to him, essential nature and difference are the same, i.e. noth
 स्वरूपमात्रभेदवादिनो हि प्रतियोग्यपेक्षा च नोत्प्रेक्षितुं क्षमा, स्वरूपभेदयोस्स्वरूपत्वाविशेषात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 असम्भवः कुत इत्यत्राह स्वरूपेति ।
 </details>
@@ -4222,7 +4222,7 @@ the judgment of difference can, on his view, depend on counterentities no more t
 यथा स्वरूपव्यवहारो न प्रतियोग्यपेक्षः, भेदव्यवहारोऽपि तथैव स्यात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वरूपभेदयोः स्वरूपत्वमविशिष्टमस्तु, ततः किं प्रतियोगिनिरपेक्षभेदव्यवहारप्रसक्तेः इति शङ्कायां तद्विवृणोति यथेति ।
 </details>
@@ -4245,7 +4245,7 @@ His view really implies that the two words 'the jar' and 'different' (in the jud
 हस्तः करः इतिवत् घटो भिन्न इति पर्यायत्वं च स्यात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वरूपपक्षे दूषणान्तरमप्याह हस्तः कर इति ।
 
@@ -4276,7 +4276,7 @@ Nor, in the second place, can 'difference' be held to be an attribute (dharma).
 नापि धर्मः; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किञ्च शब्दान्तरेण धर्म इत्युक्तं स्यात्; तथा च धर्मपक्षदूषणान्यापतेयुः । किञ्च भेदःकिमनुवृत्तः, उत व्यावृत्तः,? व्यावृत्तश्चेत् स किं स्वरूपम्, उत धर्मः? प्रथमे घटस्य भेदव्यवहारे कृते पट विषयभेदव्यवहारो न स्यात्, व्यावृत्तत्वात् । धर्मश्चेत् पूर्वोक्तदोषो धर्मत्वप्रयुक्तदूषणानि च स्युः । यद्यनुवृत्तः सच स्वरूपं चेत् शब्दान्तरेण सन्मात्रमङ्गीकृतं स्यात् । धर्मपक्षे पूर्ववत् । किञ्च भिदिधातोर्हि विदारणमर्थः,एकस्य वस्तुनो भेदो नाम द्विधा भावः, तत्खण्डस्यापि तथा स्यात् ।
 
@@ -4304,7 +4304,7 @@ For if it were that, we should have to assume that 'difference' possesses differ
 धर्मत्वे सति तस्य स्वरूपाद्भेदोऽवश्याश्रयणीयः, अन्यथा स्वरूपमेव स्यात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुतः इत्यात्राह धर्मत्व इति ।
 
@@ -4371,7 +4371,7 @@ And the view of 'difference' being an attribute would further imply that differe
 किञ्च जात्यादिविशष्टवस्तुग्रहणे सति भेदग्रहणम्, भेदग्रहणे सति जात्यादिविशिष्टवस्तुग्रहणमित्यन्योन्याश्रयणम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं धर्मपक्षेऽनवस्यामुक्ताऽन्योन्याश्रयणमाह - किञ्चेत्यादिना ।
 
@@ -4398,7 +4398,7 @@ And the view of 'difference' being an attribute would further imply that differe
 अतो भेदस्य दुर्निरूपत्वात्सन्मात्रस्यैव प्रकाशकं प्रत्यक्षम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 साधकप्रमाणाभावमुपसंहरति । अत इति ।
 
@@ -4440,7 +4440,7 @@ Moreover, it appears that in states of consciousness such as 'Here is a jar,' 'T
 किञ्च घटोऽस्ति पटोऽस्ति घटोऽनुभूयते पटोऽनुभूयते इति सर्वे पदार्थास्सत्तानुभूतिघटिता एव दृश्यन्ते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 घटोऽनुभूयते पटोऽनुभूयत इति ।
 </details>
@@ -4463,7 +4463,7 @@ And we observe that it is pure Being only which persists in all states of cognit
 अत्र सर्वासु प्रतिपत्तिषु सन्मात्रमनुवर्तमानं दृश्यत इति तदेव परमार्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह अत्रेति । व्यावर्त्तमानत या उत्तरोत्तरप्रतिपातिविषयेप्वविद्यमानतया ।
 
@@ -4516,7 +4516,7 @@ The rope which persists as a substrate is real, while the non-continuous things 
 यथा रज्जुरधिष्ठानतयाऽनुवर्तमाना परमार्था सती; व्यावर्तमानास्सर्पभूदलनाम्बुधारादयोऽपरमार्थाः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्विवृणोति यथेत्यादिना ।
 
@@ -4582,7 +4582,7 @@ In the same way the reality of the rope does not follow from its persistence, bu
 अत्र तु घटादीनामबाधितानां कथमपारमार्थ्यम्?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपाधिनिवृत्त्या पक्षे साध्यनिवृत्तिमाह अत्र त्विति ।
 
@@ -4609,7 +4609,7 @@ The point to decide is of what nature such difference is.
 उच्यते, घटादौ दृष्टा व्यावृत्तिस्सा किंरूपेति विवेचनीयम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिहरति उच्यत इत्यादिना ।
 
@@ -4635,7 +4635,7 @@ Does it not mean that the judgment 'This is a jar' implies the negation of piece
 किं घटोऽस्तीत्यत्र पटाद्यभावः? 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 बाधफलभूतत्वं दर्शयितुं व्यावृत्तिस्वरूपमाह किं घटोऽस्तीत्यत्रेति ।
 
@@ -4659,7 +4659,7 @@ But this means that by this judgment pieces of cloth and other things are sublat
 सिद्धं तर्हि घटोऽस्तीत्यनेन पटादीनां बाधितत्वम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्द्धिं तर्हीति ।
 
@@ -4682,7 +4682,7 @@ Individual difference (vyāvr̥tti) thus means the cessation (or absence), due t
 अतो बाधफलभूता विषयनिवृत्तिर्व्यावृत्तिः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तस्मात् बाधफलभूतैवेत्याह अत इति । बाधो नाम अदुष्टकारणजा निषेधबुद्धिः । तेन पुरोवर्त्तिन्यभावो व्यावृत्तिः ।
 
@@ -4733,7 +4733,7 @@ while on the other hand, pure Being, like the rope, persists non-sublated.
 रज्जुवत् सन्मात्रमबाधितमनुवर्तते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अबाधितत्वफलभूतानुवृत्तेः परमार्थत्वप्रयोजकत्वादनुवर्त्तमाने पारमार्थ्यं दर्शयति रज्जुवदिति ।अबाधो नाम अविरोधित्वम्, अनुवृत्तिर्नाम तत्कृतो विषयतयाऽन्वयः; पुरोवर्त्तिनि सद्भावो वा । इत्थं व्याप्तिः शिक्षिता ।
 </details>
@@ -4772,7 +4772,7 @@ Hence everything that is additional to pure Being is non-real.
 प्रयोगश्च भवति – सत्परमार्थः, अनुवर्तमानत्वात्, रज्जुसर्पादौ रज्ज्वादिवत्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलं तर्कः; अनुग्राह्यमप्यस्तीत्याह प्रयोगश्च भवतीति ।
 </details>
@@ -4819,7 +4819,7 @@ From all this it follows that persisting consciousness only has real being; it a
 एवं सत्यनुवर्तमानाऽनुभूतिरेव परमार्थः; सैव सती॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मायावेदान्तिनो हि ज्ञानमात्रपारमार्थ्यवादिनः; तत्कथं सतः पारमार्थ्यसाधनमित्यत्राह एवं सतीति ।
 
@@ -4847,7 +4847,7 @@ But, our adversary objects,
 ननु च सन्मात्रमनुभूतेर्विषयतया ततो भिन्नम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु चेति ।
 
@@ -4874,7 +4874,7 @@ Not so, we reply. That there is no such thing as 'difference,' we have already s
 नैवम्; भेदो हि प्रत्यक्षाविषयत्वाद्दुर्निरूपत्वाच्च पुरस्तादेव निरस्तः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्र साध्यांशं दूषयति भेदो हीति ।
 
@@ -4901,7 +4901,7 @@ It cannot therefore be proved that 'Being' is the object of consciousness.
 अत एव सतोऽनुभूतिविषयभावोऽपि न प्रमाणपदवीमनुसरति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न प्रमाणपदवीमनुसरतीति ।
 
@@ -4927,7 +4927,7 @@ Hence Consciousness itself is 'Being'--that which is.
 तस्मात्सत् अनुभूतिरेव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्र व्यतिरेकिणं हेतुमाह अनुभूतित्वादिति ।
 </details>
@@ -4974,7 +4974,7 @@ Were it proved through something else, it would follow that like jars and simila
 अन्यतस्सिद्धौ घटादिवदननुभूतित्वप्रसङ्गः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विपक्षे बाधं दर्शयति अन्यतः सिद्धाविति ।
 
@@ -5011,7 +5011,7 @@ Nor can there be assumed, for consciousness, the need of another act of consciou
 किञ्च अनुभवापेक्षा चानुभूतेर्न शक्या कल्पयितुं, सत्तयैव प्रकाशमानत्वात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनुभवापेक्षा चेति । पूर्वोक्तसमुच्चेतव्यद्वये किञ्चशब्दसमुच्चितादन्यस्य समुच्चयपरः च शब्द: । न शक्या कल्पयितुम् ।
 </details>
@@ -5034,7 +5034,7 @@ While it exists, consciousness – differing therein from jars and the like – 
 न ह्यनुभूतिर्वर्तमाना घटादिवदप्रकाशा दृश्यते, येन परायत्तप्रकाशाऽभ्युपगम्येत॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञानं परप्रकाशम्, वस्तुत्वात् भासमानत्वाद्वा, घटादिवदिति प्रत्यनुमानम् ।
 
@@ -5089,7 +5089,7 @@ a fact expressed in sentences such as:
 अथैवं मनुषे – उत्पन्नायामप्यनुभूतौ विषयमात्रमवभासते घटोऽनुभूयते इति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उत्पन्नायामप्यनुभूतौ विषयमात्रमवभासत इत्यत्र घटोऽयमितीत्यध्याहार्यम् ।
 
@@ -5114,7 +5114,7 @@ a fact expressed in sentences such as:
 न हि कश्चित् घटोऽयम् इति जानन् तदानीमेवाविषयभूतामनिदम्भावामनुभूतिमप्यनुभवति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 घटोऽयमिति जानन्निति हि वक्ष्यते ।
 
@@ -5158,7 +5158,7 @@ a fact expressed in sentences such as:
 तस्माद्घटादिप्रकाशनिष्पत्तौ चक्षुरादिकरणसन्निकर्षवदनुभूतेस्सद्भाव एव हेतुः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शब्दलिङ्गालोकादीनां प्रकाशकानां ज्ञाततयैव प्रकाशकत्वं दृष्टम्; अतोऽनुभूतिरप्रकाशा चेत्, प्रकाशकत्वमपि न स्यादित्यत्राह तस्माद्धटादीति । सत्तया प्रकाशकं ज्ञायमानतया प्रकाशकञ्च द्विविधं प्रकाशकम् ।
 
@@ -5187,7 +5187,7 @@ After this the existence of consciousness is inferred on the ground that the shi
 तदनन्तरमर्थगतकादाचित्कप्रकाशातिशय-लिङ्गेनानुभूतिरनुमीयते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यद्यनुभूतिः स्वयमेव न प्रकाशते, तर्हि किं तस्यां प्रमाणमित्यत्राह तदनन्तरमिति ।
 
@@ -5247,7 +5247,7 @@ for when pleasure and so on exist at all, they never are non-perceived (i.e. the
 किमिदमजडत्वं नाम? न तावत्स्वसत्तायाः प्रकाशाव्यभिचारः, सुखादिष्वपि तत्सम्भवात्; न हि कदाचिदपि सुखादयस्सन्तो नोपलभ्यन्ते; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इह चानुभूतिरजडेति विपर्यये पर्यवसानम् प्रसञ्जनीयस्य जडत्वस्यानिष्टत्वं प्रतिक्षेप्तुमजडत्वं विकल्प्य दूषयति किमिदमिति ।
 
@@ -5282,7 +5282,7 @@ for when pleasure and so on exist at all, they never are non-perceived (i.e. the
 अतोऽनुभूतिस्स्वयमेव नानुभूयते, अर्थान्तरं स्पृशतोऽङ्गुल्यग्रस्य स्वात्मस्पर्शवदशक्यत्वादिति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत इति ।
 
@@ -5315,7 +5315,7 @@ All this reasoning, we reply, is entirely spun out of your own fancy, without an
 तदिदमनाकलितानुभवविभवस्य स्वमतिविजृम्भितम्, 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ स्वयंप्रकाशत्ववाद्याह तदिदमिति । अनाकलितानुभवविभदस्य ।
 
@@ -5346,7 +5346,7 @@ The fact is, that in perceiving colour and other qualities of things, we are not
 अनुभूतिव्यतिरेकिणो विषयधर्मस्य प्रकाशस्य रूपादिवदनुपलब्धेः; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनुभूतिव्यतिरेकिण इत्यनेनासाधारण्यप्रतिक्षेपः फलितः । विषयधर्मशब्देन आत्मधर्मव्युदासः । तेन रूपादिवत् साधारण्यं फलितम् । अनुभूतिव्यतिरेकिविषयधर्मः प्रकाशः प्रत्यक्षयोग्यो न वा? न चेत्, लिङ्गज्ञानाभावात् अनुमानानुदयः ।
 
@@ -5381,7 +5381,7 @@ nor can the assumption of an attribute of things called 'light,' or 'shining for
 उभयाभ्युपेतानुभूत्यैवाशेषव्यवहारोपपत्तौ प्रकाशाख्यधर्मकल्पनानुपपत्तेश्च। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं प्राकट्याख्यं वस्तु अनुपलब्धमप्यन्यथाऽनुपपत्त्या कल्प्यत इत्याशङ्कय कल्पकस्यान्यथासिद्धि दर्शयति उभयेति ।
 
@@ -5426,7 +5426,7 @@ Consciousness, therefore, is not something which is inferred or proved through s
 अतो नानुभूतिरनुमीयते। नापि ज्ञानान्तरसिद्धा। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मानसप्रत्यक्षवेद्यत्वानुपपत्तिमभिप्रेत्याह नापि ज्ञानान्तरसिद्धेति ।
 
@@ -5477,7 +5477,7 @@ but while proving everything else it is proved by itself.
 अपि तु सर्वं साधयन्त्यनुभूतिस्स्वयमेव सिद्ध्यति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ पारिशेष्यात् स्वयंप्रकाशत्वं सिद्धमित्याह अपि त्विति ।
 
@@ -5526,7 +5526,7 @@ Consciousness is, with regard to its attributes and to the empirical judgments c
 प्रयोगश्च – अनुभूतिरनन्याधीनस्वधर्मव्यवहारा स्वसम्बन्धादर्थान्तरे तद्धर्मव्यवहारहेतुत्वात्; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हेतुमाह स्वसम्बन्धादिति ।
 
@@ -5594,7 +5594,7 @@ We see e.g. that colour, through its conjunction with earth and the like, produc
 रूपादिर्हि पृथिव्यादौ स्वसम्बन्धाच्चाक्षुषत्वादि जनयन् स्वस्मिन् न रूपादिसम्बन्धाधीनश्चाक्षुषत्वादौ। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 साध्यसाधनधर्मौ सपक्षे दर्शयति- रूपादिर्हीति ।
 </details>
@@ -5619,7 +5619,7 @@ Hence consciousness is itself the cause of its own 'shining forth,' as well as o
 अतोऽनुभूतिरात्मनः प्रकाशमानत्वे प्रकाशत इति व्यवहारे च स्वयमेव हेतुः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पक्षधर्मताबलसिद्धधर्ममाह अतोऽनुभूतिरिति ।
 
@@ -5671,7 +5671,7 @@ This self-luminous consciousness, further, is eternal, for it is not capable of 
 सेयं स्वयम्प्रकाशाऽनुभूतिर्नित्या च, प्रागभावाद्यभावात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वयंप्रकाशत्वस्य नित्यताहेतुत्वविवक्षया स्वयम्प्रकाशेत्युक्तम् । चः साध्यसमुच्चये; सौगतसाम्यशङ्कानिवृतौ वा ।
 
@@ -5694,7 +5694,7 @@ This follows from its being self-established.
 तदभावश्च स्वतस्सिद्धत्वादेव। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स च कथमिति शङ्कायां ग्राहकाभावादित्यभिप्रायेणाह तदभावश्चेति । स्वतःसिद्धत्वेन प्रागभावाद्यमावं विकल्पमुखेन उपपिपादयिषुर्विकल्पशिरोद्वयेऽनुपपत्तिं प्रतिजा नीते ।
 </details>
@@ -5717,7 +5717,7 @@ For the antecedent non-existence of self-established consciousness cannot be app
 न ह्यनुभूतेस्स्वतस्सिद्धायाः प्रागभावस्स्वतोऽन्यतो वाऽवगन्तुं शक्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न हीति ।
 </details>
@@ -5745,7 +5745,7 @@ If consciousness itself gave rise to the apprehension of its own non-existence, 
 अनुभूतिस्स्वाभावमवगमयन्ती, सती तावन्नावगमयति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वतःपक्षे अनुभूतिः किं सती स्वाभावमवगमयति, उतासती इति विकल्पमभिप्रेत्य सत्त्वपक्षं दूषयति अनुभूतिरिति ।
 </details>
@@ -5769,7 +5769,7 @@ if it is, i.e. if its non-existence is not, how can it give rise to the idea of 
 तस्यास्सत्त्वे विरोधादेव तदभावो नास्तीति कथं सा स्वाभावमवगमयति? 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह तस्या इति ।
 
@@ -5795,7 +5795,7 @@ Nor can it do so if not being; for if consciousness itself is not, how can it fu
 एवमसत्यपि नावगमयति; अनुभूतिस्स्वयमसती स्वाभावे कथं प्रमाणं भवेत्? 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनुभूतिः किमनुमित्यादिरूपा स्वाभावमवगमयति, उत प्रत्यक्षरूपेति विकल्पे लिङ्गाद्यभावात् प्रथमः कल्पो न संभवतीत्यभिप्रेत्य द्वितीयः कल्पो ग्राह्याभावाद्दूषितः ।
 
@@ -5819,7 +5819,7 @@ Nor can the non- existence of consciousness be apprehended through anything else
 नाप्यन्यतोऽवगन्तुं शक्यते, अनुभूतेरनन्यगोचरत्वात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वतराभिहितयोर्विकल्पशिरसोरन्यत इति पक्षं दूषयति नापीति ।
 </details>
@@ -5843,7 +5843,7 @@ Any instrument of knowledge proving the non-existence of consciousness, could do
 अस्याः प्रागभावं साधयत् प्रमाणम् अनुभूतिरियम् इति विषयीकृत्य तदभावं साधयेत्; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनुभूतिरनन्यगोचरा स्यात्; ततः किमभावाग्रहणस्य? अभावो ह्यन्यगोचरत्वमर्हतीत्यत्राह अस्या इति । अस्याः ।
 </details>
@@ -5865,7 +5865,7 @@ but consciousness, as being self-established, does not admit of that objectivati
 स्वतस्सिद्धत्वेन इयमिति विषयीकारानर्हात्वात्, न तत्प्रागभावोऽन्यतः शक्यावगमः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न ह्यन्यस्य प्रागभावो ग्राह्यः; अपि त्वनुभूतेरेव; तस्मात् तां विषयीकृत्यैव तदभावो ग्राह्यः; तस्या विषयीभावानर्हत्वान्न तत्प्रागभावग्रहणं शक्यमित्यर्थः ।
 </details>
@@ -5897,7 +5897,7 @@ As consciousness thus does not admit of antecedent non-existence, it further can
 अतोऽस्याः प्रागभावाभावादुत्पत्तिर्न शक्यते वक्तुमित्युत्पत्तिप्रतिसम्बद्धाश्चान्येऽपि भावविकारास्तस्या न सन्ति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं प्रागभावाभावादुत्पत्यमावः(वं) ततश्च परिणामादिसर्वविकारान्तराभावमप्युपपादयति अतोऽस्या इति ।
 
@@ -5936,7 +5936,7 @@ which quality invariably accompanies plurality).
 अनुत्पन्नेयमनुभूतिरात्मनि नानात्वमपि न सहते, व्यापकविरुद्धोपलब्धेः ॥ 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 बौद्धाभ्युपगतक्षणिकत्वव्यावृत्त्यर्थं नित्यत्वाय अनुत्पत्तिः, तद्वयाप्तविकारान्तराभावश्च साधितौ ॥ अथ तदभ्युपगताऽनेकत्वव्यावृत्त्यर्थंसजातीयभेदं व्युदस्यति अनुत्पन्नेयमिति । व्यापकविरुद्धोपलब्धेः ।
 
@@ -5970,7 +5970,7 @@ For we never observe a thing characterised by plurality to be without a beginnin
 न ह्यनुत्पन्नं नानाभूतं दृष्टम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यद्वा यथा न ह्यनग्नि धूमवद्दृष्टभित्युक्ते अग्निमदेव धूमवदित्युक्तं स्यात्, तद्वत् इहापि अनुत्पन्नं नानाभूतं न दृष्टं इत्युक्ते उत्पतिमदेव नानाभूतं इत्युक्तं स्यात्; ततश्चोत्पत्तिर्व्यापिकेत्युक्तं भवति । अनुभूतिर्नाना न भवति, अनुत्पन्नत्वात् ।
 
@@ -5999,7 +5999,7 @@ and hence cannot be attributes of consciousness.
 भेदादीनामनुभाव्यत्वेन च रूपादेरिवानुभूतिधर्मत्वं न सम्भवति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्मिर्थे विकारान्तराभावे च भेदं विकारान्तरं च पक्षीकृत्यान्वय्यनुमानमाह भेदादीनामिति । आदिशब्देन उत्पत्त्यादयो विवक्षिताः ।
 
@@ -6026,7 +6026,7 @@ The conclusion is that consciousness is free from difference of any kind.
 अतोऽनुभूतेः अनुभवस्वरूपत्वादेवान्योऽपि कश्चिदनुभाव्यो नास्या धर्मः ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 व्यावृत्तिरूपधर्मोऽपि नास्तीत्युपपादयति अतोऽनुभूतेरिति ।
 
@@ -6081,7 +6081,7 @@ From this it further follows that there is no substrate of consciousness-- diffe
 यतो निर्धूतनिखिलभेदा संवित् अत एव नास्यास्स्वरूपातिरिक्त आश्रयो ज्ञाता नाम कश्चिदस्तीति स्वप्रकाशरूपा सैवाऽत्मा। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यद्वा तुच्छत्वशङ्कानिरासार्थमुक्तं स्वप्रकाशरूपेति ।
 </details>
@@ -6114,7 +6114,7 @@ This follows therefrom also that consciousness is not non-intelligent (jaḍa); 
 अनात्मत्वव्याप्तं जडत्वं संविदि व्यावर्तमानमनात्मत्वमपि हि संविदो व्यावर्तयति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वयम्प्रकाशत्वं स्वतन्त्रसाधकं चेत्याह अजडत्वाच्चेति ।
 
@@ -6146,7 +6146,7 @@ But, our adversary again objects, the consciousness which expresses itself in th
 > ननु च – अहं जानामीति ज्ञातृता प्रतीतिसिद्धा। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रतीतिसिद्धास्वानुभवरूपप्रतीतिसिद्धेत्यर्थः ।
 
@@ -6179,7 +6179,7 @@ But, our adversary again objects, the consciousness which expresses itself in th
 नैवम्; सा भ्रान्तिसिद्धा, रजततेव शुक्तिशकलस्य, अनुभूतेस्स्वात्मनि कर्तृत्वायोगात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रतितेर्भ्रान्तित्वमाह सा भ्रान्तिसिद्धेति ।
 
@@ -6211,7 +6211,7 @@ Consciousness cannot stand in the relation of an agent toward itself: the attrib
 अतो मनुष्योऽहमित्यत्यन्तबहिर्भूतमनुष्यत्वादि-विशष्टपिण्डात्माभिमानवत् ज्ञातृत्वमप्यध्यस्तम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह अतो मनुष्य इति ।
 
@@ -6243,7 +6243,7 @@ To be a 'knower' means to be the agent in the action of knowing;
 ज्ञातृत्वं हि ज्ञानक्रियाकर्तृत्वम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ न केवलं स्वापेक्षया कर्तृत्वमनुपपन्नम्, अपि तु स्वपरविभागनिर्विशेषं कर्तृत्वमात्रमेवानुपपन्नमित्यभिप्रायेण द्वितीयं शिरो दूषयति ज्ञातृत्वं हीति ।
 </details>
@@ -6275,7 +6275,7 @@ and this is something essentially changeful and non-intelligent (jaḍa), having
 तच्च विक्रियात्मकं जडं विकारिद्रव्याहङ्कारग्रन्थिस्थमविक्रिये साक्षिणि चिन्मात्रात्मनि कथमिव सम्भवति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह तच्चेति ।
 
@@ -6313,7 +6313,7 @@ like colour and other qualities, agency depends, for its own proof, on seeing, i
 दृश्यधीनसिद्धित्वादेव रूपादेरिव कर्तृत्वादेर्नात्मधर्मत्वम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 रूपादिवदित्यन्वयिनमभिप्रेत्याह दृश्यधीनसिद्धित्वादेवेति ।
 
@@ -6342,7 +6342,7 @@ That the Self does not fall within the sphere (is not an object of), the idea of
 सुषुप्तिमूर्च्छादावहम्प्रत्ययापायेऽपि आत्मानुभवदर्शनेन नाऽत्मनोऽहम्प्रत्ययगोचरत्वम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहमर्थो ह्यात्मा तेन समानाधिकरणतया प्रतीतो ज्ञाता आत्मा स्यादित्यत्राह सुषुप्तिमूर्च्छादाविति ।
 
@@ -6367,7 +6367,7 @@ Moreover, if the Self were admitted to be an agent and an object of the idea of 
 कर्तृत्वेऽहम्प्रत्ययगोचरत्वे चाऽत्मनोऽभ्युपगम्यमाने देहस्येव जडत्वपराक्त्वानात्मत्वादिप्रसङ्गो दुष्परिहरः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आत्मनः कर्तृत्वाहम्प्रत्ययगोचरत्वाभावे व्यतिरेक्यनुमानत्रयं प्रसङ्गरूपेणाह कर्तृत्व इति ।
 
@@ -6394,7 +6394,7 @@ That from the body, which is the object of the idea of 'I,' and known to be an a
 अहम्प्रत्ययगोचरात् कर्तृतया प्रसिद्धाद्देहात्तत्क्रियाफलस्वर्गादेर्भोक्तुरात्मनोऽन्यत्वं प्रामाणिकानां प्रसिद्धमेव। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहंप्रत्ययगोचस्य देहस्यानात्मत्वे सिद्धे ह्यहंप्रत्ययगोचरस्य कर्तुरनात्मत्वप्रसक्तिरित्यत्राह अहंप्रत्ययगोचरादिति ।
 
@@ -6422,7 +6422,7 @@ analogously, therefore, we must admit that different from the knower whom we und
 तथाऽहमर्थात् ज्ञातुरपि विलक्षणस्साक्षी प्रत्यागात्मेति प्रतिपत्तव्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वर्गादिभोक्तुरात्मत्वे सिद्धेज्ञातैवात्मा स्यादित्यत्राह तथेति ।
 
@@ -6456,7 +6456,7 @@ The non-intelligent ahaṁkāra thus merely serves to manifest the nature of non
 एवमविक्रियानुभवस्वरूपस्यैवाभिव्यञ्जको जडोऽप्यहङ्कारस्स्वाश्रयतया तमभिव्यनक्ति । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अविक्रियात्मनः कथं ज्ञातृत्वसंभवः इत्यत्राह एवमिति ।
 
@@ -6485,7 +6485,7 @@ for it is the proper quality of manifesting agents to manifest the objects manif
 आत्मस्थतयाऽभिव्यङ्ग्याभिव्यञ्जनमभिव्यञ्जकानां स्वभावः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अभिव्यञ्जकोऽस्त्वहङ्कारः; कथमस्य स्वाश्रयतयाऽभिव्यञ्जकत्वमित्यत्राह आत्मस्थतयेति । स्वभावशब्देन औत्सर्गिकत्वं विवक्षितम् ।
 
@@ -6510,7 +6510,7 @@ A mirror, e.g., or a sheet of water, or a certain mass of matter, manifests a fa
 दर्पणजलखण्डादिर्हि मुखचन्द्रबिम्बगोत्वादिकमात्मस्थतयाऽभिव्यनक्ति । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 दृष्टान्तं दर्शयति दर्पणेति ।
 
@@ -6533,7 +6533,7 @@ A mirror, e.g., or a sheet of water, or a certain mass of matter, manifests a fa
 तत्कृतोऽयं जानाम्यहम् इति भ्रमः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं व्यङ्क्तृव्यङ्गयभावकृतो ज्ञातृत्वावभासः संविद इत्याह तत्कृत इति ।
 </details>
@@ -6560,7 +6560,7 @@ A mirror, e.g., or a sheet of water, or a certain mass of matter, manifests a fa
 स्वप्रकाशायाः अनुभूतेः कथमिव तदभिव्यङ्ग्यजडरूपाहङ्कारेणाभिव्यङ्ग्यत्वमिति मा वोचः, 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जडस्याभिव्यञ्जकत्वमयुक्तम्; स्वप्रकाशस्य वस्तुनोऽभिव्यङ्गयत्वं चायुक्तम्; संविदभिव्यङ्गयस्य च विशेषेण तदभिव्यञ्जकत्वमयुक्तम् इतीमामाशङ्कां स्वयमेवोत्थाप्य प्रतिक्षिपति स्वप्रकाशाया इति ।
 </details>
@@ -6582,7 +6582,7 @@ for we observe that the surface of the hand, which itself is manifested by the r
 रविकरनिकराभिव्यङ्ग्यकरतलस्य तदभिव्यञ्जकत्वदर्शनात्; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह रविकरेति ।
 </details>
@@ -6605,7 +6605,7 @@ This is clearly seen in the case of rays passing through the interstices of netw
 जालकरन्ध्रनिष्क्रान्तद्युमणिकिरणानां तदभिव्यङ्ग्येनापि करतलेन स्फुटतरप्रकाशो हि दृष्टचरः ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 करतलस्य किरणाभिव्यञ्जकत्वं क्व दृष्टमित्यत्राह जालकेति । एवं ज्ञातृत्वस्यापारमार्थिकत्वमुक्तम् ।
 </details>
@@ -6630,7 +6630,7 @@ It thus appears that the 'knowing agent,' who is denoted by the 'I,' in the judg
 यतोऽहं जानामीति ज्ञाताऽयमहमर्थः चिन्मात्रात्मनो न पारमार्थिको धर्मः; अत एव सुषुप्तिमुक्त्योर्नान्वेति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एतदेव परमार्थवस्तुभासनवेलायामनवभासनप्रतिपादनेन उपपादयति यत इति ।
 
@@ -6681,7 +6681,7 @@ Hence a person who has risen from deep, dreamless sleep reflects, 'Just now I wa
 अत एव सुप्तोत्थितः कदाचिन्मामप्यहं न ज्ञातवानिति परामृशति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलं श्रुतिः सुषुप्तिविषया; परामर्शश्च तथाऽस्तीत्याह अत एवेति ।
 
@@ -6720,7 +6720,7 @@ As the outcome of all this, we sum up our view as follows.--Eternal, absolutely 
 तस्मात्परमार्थतो निरस्तसमस्त-भेदविकल्प निर्विशेषचिन्मात्रैकरसकूटस्थनित्यसंविदेव भ्रान्त्या ज्ञातृज्ञेयज्ञानरूपविविधविचित्रभेदा विवर्तत इति 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किं प्रस्तुतपूर्ववृत्तत्वचिन्तायाः इत्यत्राह तस्मादिति ।
 
@@ -6759,7 +6759,7 @@ And the purpose for which we enter on the consideration of the Vedānta-texts is
 तन्मूलभूताविद्यानिबर्हाणाय नित्यशुद्धबुद्धमुक्त-स्वभावब्रह्मात्मैकत्वविद्याप्रतिपत्तये सर्वे वेदान्ता आरभ्यन्ते – इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवंविधब्रह्मात्मैकत्वविद्यालब्धये सर्वे वेदान्ता आरभ्यन्त इत्यर्थः । वेदान्तानामारभ्मणीयत्वं नाम तद्विचारस्याऽरम्भणीयत्वम् ।
 

@@ -19,7 +19,7 @@ Let it then be said that consciousness is proof (siddhiḥ) itself. Proof of wha
 सिद्धिरेव संविदिति चेत्; कस्य कं प्रतीति वक्तव्यम्;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शिरोद्वयापादि(पदि)तदोषपरिहाराय परोक्तं शङ्कते सिद्धिरेवेति । सिद्धेः सिद्धयन्तरानपेक्षत्वात् प्रमितिविषयत्वप्रयुक्तं सिद्धिसम्बन्धित्वरूपं सविशेषत्वं न स्यात् ।
 
@@ -42,7 +42,7 @@ If no definite answer can be given to these two questions, consciousness cannot 
 यदि न कस्यचित्किञ्चित्प्रति; सा तर्हि न सिद्धिः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्रापि सविशेषत्वमाह कस्येति ।
 
@@ -67,7 +67,7 @@ for 'proof' is a relative notion, like 'son.'
 सिद्धिर्हि पुत्रत्वमिव कस्यचित्किञ्चित्प्रति भवति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्विवृणोति सिद्धिर्हीति । पितृः स्थाने विषयः, पुत्रस्थाने आश्रयः, पुत्रत्वस्थाने सिद्धिः । पुत्रत्वस्य हि पुत्रः आश्रयः ।
 
@@ -93,7 +93,7 @@ You will perhaps reply 'Proof to the Self'; and if we go on asking 'But what is 
 आत्मन इति चेत्; कोऽयमात्मा?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तच्च संविदोऽनुपपन्नमित्यभिप्रायेणाह कोऽयमात्मेति । अयंशब्दः सिद्धिप्रतिसम्बन्धित्वपरः । सिद्धिप्रतिसम्बन्ध्यात्मा कः । किंशब्दः क्षेपे । संविन्न सिद्धिप्रतिसम्बन्ध्यात्मा ।
 
@@ -116,7 +116,7 @@ you will say, 'Just consciousness as already said by us before.'
 ननु संविदेवेत्युक्तम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 संविदात्मत्वस्योपपादितत्वान्नानुपपन्नमिति चोदयति नन्विति ।
 </details>
@@ -136,7 +136,7 @@ True, we reply, you said so; but it certainly was not well said.
 सत्यमुक्तम्; दुरुक्तं तु तत्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिहरति सत्यमुक्तमिति ।
 
@@ -165,7 +165,7 @@ For if it is the nature of consciousness to be 'proof' ('light,' 'enlightenment'
 तथा हि; कस्यचित्पुरुषस्य किञ्चिदर्थजातं प्रति सिद्धिरूपा तत्सम्बन्धिनी सा संवित्स्वयं कथमिवाऽत्मभावमनुभवेत्?॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कथमिति ।
 
@@ -202,7 +202,7 @@ To explain: the essential character of consciousness or knowledge is that by its
 एतदुक्तं भवति – अनुभूतिरिति स्वाश्रयं प्रति स्वसद्भावेनैव कस्यचिद्वस्तुनो व्यवहारानुगुण्यापादनस्वभावो ज्ञानावगतिसंविदाद्यपरनामा सकर्मकोऽनुभवितुरात्मनो धर्मविशेषो घटमहं जानामीममर्थमवगच्छामि पटमहं संवेद्मि इति सर्वेषामात्मसाक्षिकः प्रसिद्धः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वाश्रयं प्रति स्वसद्भावेनैव कस्यचिद्वस्तुनो व्यवहारानुगुण्यापादनस्वभाव इत्यनेन तत्स्वरूपमुक्तम् । एवं सिद्धिशब्दार्थ उक्तः ।
 
@@ -227,7 +227,7 @@ That such is the essential nature of consciousness you yourself admit; for you h
 एतत्स्वभावतया हि तस्यास्स्वयम्प्रकाशता भवताऽप्युपपादिता।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कर्मकर्तृसंबन्धे परभ्युपगतिमाह एतत्स्वभावतयेति ।
 
@@ -257,7 +257,7 @@ Of this consciousness which thus clearly presents itself as the attribute of an 
 अस्य सकर्मकस्य कर्तृधर्मविशेषस्य कर्मत्ववत्कर्तृत्वमपि दुर्घटमिति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तच्च दुर्घटमित्यर्थः । कर्त्तृत्वमाश्रयत्वम् । धात्वर्थाश्रयो हि कर्ता ।
 </details>
@@ -281,7 +281,7 @@ For we clearly see that this agent (the subject of consciousness) is permanent (
 तथा हि; अस्य कर्तुस्स्थिरत्वं कर्तृधर्मस्य संवेदनाख्यस्य सुखदुःखादेरिवोत्पत्तिस्थिति-निरोधाश्च प्रत्यक्षमीक्ष्यन्ते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं धर्मधर्मभावेन प्रतीत्या संविदात्मत्वं निराकृतम् । अथ स्थिरत्वास्थिरत्ववैधर्म्येण तद् व्युदस्यते । तथेति । हिर्हेतौ । तथाशब्देन चार्थेन हेत्वन्तरमुच्यते ।
 </details>
@@ -303,7 +303,7 @@ The permanency of the conscious subject is proved by the fact of recognition, 'T
 कर्तृस्थैर्यं तावत् स एवायमर्थः पूर्वं मयाऽनुभूतः इति प्रत्यभिज्ञाप्रत्यक्षसिद्धम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कर्तृस्थैर्यमुपपादयति कर्त्तृस्थैर्य तावदिति ।
 
@@ -327,7 +327,7 @@ The non-permanency of consciousness, on the other hand, is proved by thought exp
 अहं जानामि, अहमज्ञासिषं, ज्ञातुरेव ममेदानीं ज्ञानं नष्टम् इति च संविदुत्पत्त्यादयः प्रत्यक्षसिद्धा इति कुतस्तदैक्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ ज्ञानस्योत्पत्तिस्थितिनिरोधान् दर्शयति अहमित्यादिना ।
 
@@ -367,7 +367,7 @@ If consciousness which changes every moment were admitted to constitute the cons
 एवं क्षणभङ्गिन्यास्संविद आत्मत्वाभ्युपगमे पूर्वेद्युर्दृष्टमपरेद्युः इदहमदर्शम् इति प्रत्यभिज्ञा च न घटते; अन्येनानुभूतस्य न ह्यन्येन प्रत्यभिज्ञानसम्भवः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रत्यभिज्ञाश्रयतया स्थैर्यं विवृणोति अन्येनेति ।
 </details>
@@ -391,7 +391,7 @@ And even if consciousness were identified with the conscious subject and acknowl
 किञ्च अनुभूतेरात्मत्वाभ्युपगमे तस्याः नित्यत्वेऽपि प्रतिसन्धानासम्भवस्तदवस्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं स्थिरस्य ज्ञातुर्धर्मत्वेनास्थिरत्वेन च प्रतीतत्वात् अस्थिरत्वनिबन्धनात्प्रतिसन्धानासंभवाच्च संविदात्मत्वं निरस्तम् ; अथ स्थिरत्वाभ्युपगमेऽपि प्रतिसन्धानासंभवादात्मत्वं व्युदस्यति किञ्चेति ।
 
@@ -423,7 +423,7 @@ Its expression is 'I myself perceived this thing on a former occasion.'
 अहमेवेदं पूर्वमप्यन्वभूवमिति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदसंभवमुपपादयति प्रतिसन्धानमिति ।
 
@@ -445,7 +445,7 @@ According to your view the quality of being a conscious agent cannot at all belo
 भवतोऽप्यनुभूतेर्न ह्यनुभवितृत्वमिष्टम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमिति शङ्कायां तस्य परानिष्टत्वमाह भवत इति ।
 </details>
@@ -465,7 +465,7 @@ for consciousness, you say, is just consciousness and nothing more.
 अनुभूतिरनुभूतिमात्रमेव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलं भवदनभ्युपगमः, अनुभूतेरनुभवितृत्वं गमनक्रियाया गन्तृत्ववत् अनुपपन्नं चेत्यभिप्रायेणाह अनुभूतिरिति । मात्रचा अनुभवितृत्वव्यावृत्तिः ।
 </details>
@@ -487,7 +487,7 @@ And that there exists a pure consciousness devoid of substrate and objects alike
 संविन्नाम काचिन्निराश्रया निर्विषया वाऽत्यन्तानुपलब्धेर्न सम्भवतीत्युक्तम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु धर्मत्वास्थिरत्वाप्रतिसन्धातृत्वैः संविदो नात्मत्वं यदुक्तम्, तन्न वक्तव्यम्; अनुभवितृत्वस्यात्माकारत्वेनानभ्युपगमात्; विषयाश्रयशून्यायाः संविदो गुणभावाभावात् तदुभयसम्बन्धप्रयुक्तानित्यत्वप्रसङ्गाभावाच्चेत्यत्राह संविन्नामेति ॥ ननु कथं विषयाश्रयशून्यज्ञानाभावः? स्वरूपभूतं ज्ञानं विषयाश्रयशून्यं त्वन्मते ॥ उच्यते । स्थविष्ठमिदं चोद्यम् । किं त्वया ज्ञातुरेव ज्ञानशब्दवाच्यस्याजडत्वनित्यत्वादिकं विषयाश्रयशून्यत्वमात्मत्वं च साध्यते? तत् सिद्धसाधनम् ।
 
@@ -513,7 +513,7 @@ And that the consciousness admitted by both of us should be the Self is refuted 
 उभयाभ्युपेता संविदेवाऽत्मेत्युपलब्धिपराहतम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 बौद्धैकदेशिभिः धर्मिकल्पनातो वरं धर्मकल्पनेति लाघवन्यायात्, ज्ञात्रात्मवादिना ज्ञानात्मवादिना च सम्प्रतिपन्ना संविदेवात्मेत्युक्तम् ।
 
@@ -540,7 +540,7 @@ And we have also refuted the fallacious arguments brought forward to prove that 
 अनुभूतिमात्रमेव परमार्थ इति निष्कर्षकहेत्वाभासाश्च निराकृताः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 साश्रयैव संविदुपलभ्यते; तथाऽपि युक्तिभिर्निर्विशेषत्वं साधितमित्यत्राह अनुभूतिमात्रमिति ।
 
@@ -573,7 +573,7 @@ And we have also refuted the fallacious arguments brought forward to prove that 
 ननु च अहं जानामि इत्यस्मत्प्रत्यये योऽनिदमंशः प्रकाशैकरसश्चित्पदार्थस्स आत्मा।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु चेति । अहं जानामीत्मस्मत्प्रत्यये- अस्मत्प्रत्ययत्वेन पराभ्युपगते ।
 
@@ -604,7 +604,7 @@ the objective element (yushmad-artha) on the other hand, which is established th
 तस्मिंस्तद्बलनिर्भासिततया युष्मदर्थलक्षणोऽहं जानामीति सिध्यन्नहमर्थश्चिन्मात्रातिरेकी युष्मदर्थ एव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 युष्मदर्थलक्षणत्वात् परागर्थविशेषोहमर्थ इत्यर्थः ।
 
@@ -632,7 +632,7 @@ By no means, we reply; for this view contradicts the relation of attribute and s
 नैतदेवम्, अहं जानामि इति धर्मधर्मितया प्रत्यक्षप्रतीतिविरोधादेव॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एतत् परिहरति नैतदेवमिति । संवित्स्वयम्प्रकाशत्वमिष्टम्; शिक्षणीयांशश्च शिक्षितः(श्चोक्तः) । अतः स्वतस्सिद्धत्वसाधकहेतोः सिद्धसाध्यता । ज्ञातुः अस्वतस्सिद्धत्वसाधकहेतोश्चिदन्यत्वस्यासिद्धिर्वक्ष्यते । इतरानुमानचतुष्टयमिह निरस्यते ।
 
@@ -676,7 +676,7 @@ for it is just the consciousness of the I which separates the inward from the ou
 अहं बुद्ध्या परागर्थात् प्रत्यगर्थो हि भिद्यते॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहं जानामीत्यत्राहमर्थः स्वावभासेऽपि घटावभास इव प्रतिसम्बन्धितया अहमिति प्रतीयते । धर्मीतया अवभासादेव न ज्ञानशेषतावभासः । अतः स प्रत्यक्; आत्मा च ।
 
@@ -717,7 +717,7 @@ This is the thought which prompts the man desirous of release to apply himself t
 भवेयमिति मोक्षार्थी श्रवणादौ प्रवर्तते॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 श्रुत्यर्थापत्तिं वक्तुं मुमुक्षोरभिसन्धिमाह निरस्तेति ।
 </details>
@@ -742,7 +742,7 @@ the same man would move away as soon as release were only hinted at.
 अपसर्पेदसौ मोक्षकथाप्रस्तावगन्धतः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह अहमर्थविनाश इति । यत्सम्बन्धित्वेन दुःखज्ञानं यत्सम्बन्धिनी दुःखविनिवृत्तिर्यत्सम्बन्धिनी सुखप्राप्तिश्चेप्स्यते, तद्विनाशो मोक्षश्चेत्, अधिकारिविरहादप्रमाण्यं भवेत् । प्रमितिजनकत्वं हि शास्त्रस्य प्रामाण्यम् । बुभुत्सितग्राह्यस्य शास्त्रस्य पुरुषार्थपर्यवसायित्वाभावे श्रवणमननाद्यधिकारी न सिध्येत् । न हि शास्त्रं श्रवणादिनिरपेक्षं कस्यचित् प्रमितिं जनयति ।
 
@@ -769,7 +769,7 @@ to bring this about nobody truly will exert himself.
 इति तत्प्राप्तये यत्नः कस्यापि न भविष्यति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहमर्थे नष्टेऽपि ज्ञप्तिर्नित्या तिष्ठतीत्यत्राह मयि नष्टेऽपीति ।
 
@@ -800,7 +800,7 @@ not any more than the act of cutting can take place when there is no person to c
 छेत्तुश्छेद्यस्य चाभावे छेदनादेरसिद्धिवत्।  
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ तदवस्थानमेव नास्तीत्याह स्वसम्बन्धितयेति । सामान्याकारः सत्ता; विज्ञप्तिताविषयप्रकाशत्वरूपविशेषाकारः । आदिशब्देन स्वयम्प्रकाशत्वं विवक्षितम् ।
 
@@ -830,7 +830,7 @@ Hence it is certain that the I, i.e. the knowing subject, is the inward Self.'
 अतोऽहमर्थो ज्ञातैव प्रत्यगात्मेति निश्चितम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं प्रत्यक्षविरोधात् असिद्धत्वात् विपरीतसाधकत्वात् सत्प्रतिपक्षत्वाच्च संविदात्मत्वानुपपत्तेः श्रुत्यर्थापत्या चाहमर्थात्मत्वमाह अत इति । पूर्वोत्तरहेतूनामियं प्रतिज्ञा ।
 </details>
@@ -851,7 +851,7 @@ This scripture confirms when saying 'By what should he know the knower?' (Br̥. 
 विज्ञातारमरे (बृ.४.४.१४) केन जानात्येवेति च श्रुतिः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 श्रुतिस्मृतिसूत्राणि दर्शयति विज्ञातारमिति ।
 
@@ -897,7 +897,7 @@ And the Sūtrakāra also, in the section beginning with 'Not the Self on account
 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "ज्ञोऽत एव" इत्यत्र ज्ञशब्दनिर्दिष्ट आत्मेति ज्ञापनार्थम्, "नात्मा श्रुतेः" इति सूत्रमुपात्तम्; त्वया अनित्यतया अभ्युपेतस्याऽहमर्थस्य नित्यत्वकथनमपि तस्यैवात्मत्वसाधकमिति च ज्ञापनार्थम् ।
 
@@ -924,7 +924,7 @@ What is established by consciousness of the 'I' is the I itself, while the not-I
 अहं प्रत्ययसिद्धो ह्यस्मदर्थः; युष्मत्प्रत्ययविषयो युष्मदर्थः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहंप्रत्ययसिद्ध इति सिद्धशब्देन स्वतस्सिद्धिः सूचिता ।
 
@@ -970,7 +970,7 @@ Nor can it be said that this 'I,' the knowing subject, is dependent on its light
 न चासौ ज्ञाताऽहमर्थोऽन्याधीनप्रकाशः स्वयम्प्रकाशत्वात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह स्वयम्प्रकाशत्वादिति । प्रकाशः- व्यवहारानुगुण्यम् ।
 
@@ -992,7 +992,7 @@ for to be self-luminous means to have consciousness for one's essential nature.
 चैतन्यस्वभावता हि स्वयम्प्रकाशता।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तच्च कथमित्यत्राह चैतन्यस्वभावता हि स्वयम्प्रकाशतेति ।
 
@@ -1019,7 +1019,7 @@ And that which has light for its essential nature does not depend for its light 
 यः प्रकाशस्वभावः; सोऽनन्याधीनप्रकाशः दीपवत्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहमर्थस्य चैतन्यस्वभावत्वे श्रुतिं प्रमाणं वक्ष्यन् तदनुग्राहकतर्कमुपन्यस्यति यः प्रकाशस्वभाव इत्यादिना । आत्मदीपधर्मभूतज्ञानप्रभयोः साक्षाद्वा प्रणाल्या वा यादृशव्यवहारानुगुण्यम्, तादृशं व्यवहारानुगुण्यमिह प्रकाशशब्देन विवक्षितम् । दीपस्य तमोविरोधि रूपमौज्जवल्यं प्रकाशः; ज्ञानस्य तु स्फुरणम् ।
 
@@ -1044,7 +1044,7 @@ From the circumstance that the lamp illumines with its light other things, it do
 न हि दीपादेस्स्वप्रभाबलनिर्भासितत्वेनाप्रकाशत्वमन्याधीनप्रकाशत्वं च।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ चक्षुगर्राह्यत्वे सति प्रभाव्यतिरिक्तत्वात् दीपो घटादिवत् प्रभाबलनिर्भास्य इति दृष्टान्तस्य साध्यवैकल्यमासङ्कयाह नहीति । न च चक्षुर्ग्राह्यत्वे सति प्रभान्यत्वात् घटादिरिव दीपः प्रभावभास्यः,अन्धकारे व्यभिचारात् । अतो न दीपस्य प्रभापेक्षेत्यमिप्रायः ।
 
@@ -1071,7 +1071,7 @@ the fact rather is that the lamp being of luminous nature shines itself and illu
 किं तर्हि? दीपस्स्वयम्प्रकाशस्वभावस्स्वयमेव प्रकाशते; अन्यानपि प्रकाशयति प्रभया॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 (अर्थसिद्धं) अर्थस्थितिं वक्तुं अकाशंङ्क्षां दर्शयति किं तर्हीति ।
 
@@ -1101,7 +1101,7 @@ To explain.--The one substance tejas, i.e. fire or heat, subsists in a double fo
 एतदुक्तं भवति – यथैकमेव तेजोद्रव्यं प्रभाप्रभावद्रूपेणावतिष्ठते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विषयप्रकाशनक्षमेपि स्वरूपस्य क्वचित्कतया विषयसम्बन्धाभावात् स्वरूपेण न प्रकाशयति, किन्तु विषयसम्बन्धिन्या स्वपरिकरभूतया प्रभयेत्यर्थः ।
 
@@ -1168,7 +1168,7 @@ Although light is a quality of luminous substantial things, it is in itself noth
 स्वाश्रयादन्यत्रापि वर्तमानत्वाद्रूपवत्त्वाच्च 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तेजोद्रव्यमेवेति प्रतिज्ञातद्रव्यविशेषत्वसिद्धयर्थं प्रथमं द्रव्यत्वमुपपादयति स्वाश्रयादिति ।
 </details>
@@ -1190,7 +1190,7 @@ Having thus attributes different from those of qualities such as whiteness and s
 शौक्ल्यादिवैधर्म्यात्; प्रकाशवत्त्वाच्च तेजोद्रव्यमेव; नार्थान्तरम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 द्रव्यत्वमस्तु; तत्रापि तेजस्त्वे किं प्रमाणमित्यत्राह प्रकाशवत्त्वादिति । प्रकाशः- तमोविरोध्याकारविशेषः, औज्जवल्यम् ।
 </details>
@@ -1211,7 +1211,7 @@ Illumining power belongs to it, because it lights up itself and other things.
 प्रकाशवत्त्वञ्च स्वस्वरूपस्यान्येषां च प्रकाशकत्वात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रकाशवत्त्वमुपपादयति प्रकाशवत्त्वं चेति ।
 
@@ -1234,7 +1234,7 @@ At the same time it is practically treated as a quality because it always has th
 अस्यास्तु गुणत्वव्यवहारो नित्यतदाश्रयत्वतच्छेषत्वनिबन्धनः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तर्हि कथमस्या गुणत्वव्यवहार इत्यत्राह अस्या इति । तुशब्दः शौक्ल्यादिवैषम्यपरः ।
 
@@ -1265,7 +1265,7 @@ This must not be objected to on the ground that what is called light is really n
 न चाश्रयावयवा एव विशीर्णाः प्रचरन्तः प्रभेत्युच्यन्ते; मणिद्युमणिप्रभृतीनां विनाशप्रसङ्गात्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह मणीति ।
 
@@ -1292,7 +1292,7 @@ Moreover, if the flame of a lamp consisted of dissolving particles of matter, it
 दीपेऽप्यवयविप्रतिपत्तिः कदाचिदपि न स्यात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तेजस्त्वं हि (तु) तेजःपरमाणुमिच्छद्भिः न हेतुतया वाच्यम्; तेजः परमाणुषु व्यभिचारात् सत्त्वादिभिः क्षणिकत्वे जगत्क्षणिकत्वं स्यादित्युक्तम् ॥
 
@@ -1341,7 +1341,7 @@ for no reason can be stated why those particles should regularly rise in an aggl
 नहि विशरणस्वभावावयवा दीपाश्चतुरङ्गुलमात्रं नियमेन पिण्डीभूता ऊर्ध्वमुद्गम्य ततः पश्चाद्युगपदेव तिर्यगूर्ध्वमधश्चैकरूपा विशीर्णाः प्रचरन्तीति शक्यं वक्तुम् ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु पोषणद्रवीभूतपार्थिवावयवसन्दंशात् पिण्डीभावः, ततस्तदवयवगतस्त्रिग्धत्वापगमेन संदंशकत्वाभावादग्न्यवयवविशरणमित्यत्राह न हि विशरणेति । यद्यग्न्ययवा उद्गमनस्वभावाः,तर्हि विशरणे तिर्यग्नतिर्न स्यात् । यदि ते तिर्यग्गतिस्वभावाः तर्हि प्रथममूद्र्ध्वगतिर्न स्यात् । एकजातीयद्रव्यस्योपाधिना विना विरुद्धस्वभावत्वायोगात् । उपाधिश्च न दृश्यते । दीपप्रभयोर्भिन्नावयवित्वे तु विरुद्धस्वभावत्वमुपपद्यते ।
 
@@ -1368,7 +1368,7 @@ The fact is that the flame of the lamp together with its light is produced anew 
 अतस्सप्रभाका एव दीपाः प्रतिक्षणमुत्पन्ना विनश्यन्तीति पुष्कलकारणक्रमोपनिपातात् तद्विनाशे विनाशाच्चावगम्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह अतस्सप्रभाका एव दीपाः प्रतिक्षणमुत्पन्ना इति ।
 
@@ -1400,7 +1400,7 @@ This is to be explained by the fact that we perceive a higher degree of light an
 प्रभायास्स्वाश्रयसमीपे प्रकाशाधिक्यमौष्ण्याधिक्यमित्याद्युपलब्धिव्यवस्थाप्यम् अग्न्यादीनामौष्ण्यादिवत्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रभा विशीर्णावयवाः; न चेत्, दीपसमीपे तस्या औष्ण्याधिक्यादिकं कथम्? विशरणपक्षे ह्यवयवबाहुल्यवैरौल्याभ्यामाष्ण्याधिक्यमान्द्यादिकमुपपद्यत इत्यत्राह प्रभाया इति ।
 
@@ -1428,7 +1428,7 @@ Analogously to the lamp, the Self is essentially intelligent (cid-rūpa), and ha
 एवमात्मा चिद्रूप एव चैतन्यगुण इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 चिद्रूप एवेति । रूपशब्दो धर्मिस्वरूपपरः ।
 </details>
@@ -1449,7 +1449,7 @@ And to be essentially intelligent means to be self-luminous.
 चिद्रूपता हि स्वयम्प्रकाशता॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किं स्वयम्प्रकाशत्वस्येत्यपेक्षायां चिद्रूपत्वं विवृणोति चिद्रूपता हीति । अनेन वक्ष्यमाणश्रुतिवाक्ये ज्ञानादिशब्दो विवृतो भवति ॥
 </details>
@@ -1470,7 +1470,7 @@ There are many scriptural texts declaring this, compare e.g.
 तथा हि श्रुतयः –
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवमनुग्राहकतर्कमुपन्यस्य प्रमाणमाह तथा हि श्रुतय इति ।
 </details>
@@ -1494,7 +1494,7 @@ There are many scriptural texts declaring this, compare e.g.
 स यथा सैन्धवघनोऽनन्तरोऽबाह्यः कृत्स्नो रसघन एव, एवं वा अरेऽयमात्माऽनन्तरोऽबाह्यः कृत्स्नः प्रज्ञानघन एव (बृ.उ.६.४.१३), विज्ञानघन एव (बृ.उ.४.४.१२),
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स यथा सैन्धवधन इति । अनन्तरः- अन्तरङ्गव्यतिरिक्तः । अबाह्यः- बहिरङ्गव्यतिरिक्तः । एवं व्यतिरेकनिर्देशेन निश्शेषग्रहणं कृतम् ।
 
@@ -1537,7 +1537,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 न विज्ञातुर्विज्ञातेर्विपरिलोपो विद्यते (बृ.उ.६.३.१०),
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 धर्मधर्मिभावं ज्ञापयति न विज्ञातुरिति ।
 </details>
@@ -1558,7 +1558,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 अथ यो वेदेदं जिघ्राणीति स आत्मा (बृ.उ.६.३.३०),
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञातृसंबन्धिज्ञानस्य नित्यत्वे कथिते ज्ञानमात्रस्य(?) नित्यत्वशङ्काव्युदासार्थं ज्ञातुरेवात्मत्वं दर्शयति अथ य इति ।
 </details>
@@ -1579,7 +1579,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 कतम आत्मा योऽयं विज्ञानमयः प्राणेषु हृद्यन्तर्ज्योतिः पुरुषः (छा.उ.८.१२.४),
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एकवाक्येन ज्ञानगुणकत्वस्वस्वयंप्रकाशत्वयोः सहप्रतिपादकं वाक्यमाह कतम इति ।
 </details>
@@ -1599,7 +1599,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 एष हि द्रष्टा श्रोता [[रसियता|रसयिता]] घ्राता मन्ता बोद्धा कर्ता विज्ञानात्मा पुरुषः (बृ.६.३.७),
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञानगुणकत्वज्ञानस्वरूपत्वप्रतिपादकवाक्यमाह एष हीति ।
 </details>
@@ -1620,7 +1620,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 विज्ञातारमरे केन विजानीयात् (प्रश्न.उ.४.प्रश्न),
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञातव्यस्य निष्कृष्टान्त्मस्वरूपस्य ज्ञातृत्वमाह विज्ञातारमिति ।
 
@@ -1642,7 +1642,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 जानात्येवायं पुरुषः,
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलं संसृतिदशायाम्; मुक्तावपि ज्ञातृत्वं ज्ञापयति जानात्येवायमिति । अवधारणासङ्कोचान्मुक्तावपि ज्ञातृत्वसिद्धिः(ज्ञातृत्वं सिद्धम्) ।
 </details>
@@ -1664,7 +1664,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 न पश्यो मृत्युं पश्यति न रोगं नोत दुःखतां स उत्तमः पुरुषः (छा.७.२६.२),
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मुक्तौ ज्ञाननिषेधश्रुतीनां विषयविभागं दर्शयति न पश्य इति, स उतम इति च ।
 </details>
@@ -1702,7 +1702,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 एवमेवास्य परिद्रष्टुरिमाष्षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तङ्गच्छन्ति (प्र.उ.६.५)
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पुुरुषं प्राप्तस्य मुक्तस्य ज्ञातृत्वेऽनुवर्त्तमान एव देहेन्द्रियविगमं दर्शयति एवमिति ।
 </details>
@@ -1724,7 +1724,7 @@ there is no destruction of the knowing of the knower' (Br̥. Up. IV, 3, 14; 30);
 तस्माद्वा एतस्मान्मनोमयादन्योऽन्तर आत्मा विज्ञानमयः (तै.आन.४.१) इत्याद्याः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अन्तःकरणोत्तीर्णस्य ज्ञातृत्वमाह तस्माद्वा इति ।
 </details>
@@ -1744,7 +1744,7 @@ And the Sūtrakāra also will refer to the Self as a 'knower' in II, 3, 18.
 वक्ष्यति च ज्ञोऽतएव (ब्र.सू.२.३.१९) इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्यार्थस्य सूत्रकारामिप्रेतत्वमाह वक्ष्यति चेति ।
 
@@ -1771,7 +1771,7 @@ All which shows that the self-luminous Self is a knower, i.e. a knowing subject,
 अतस्स्वयम्प्रकाशोऽयमात्मा ज्ञातैव, न प्रकाशमात्रम् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 श्रुत्या ज्ञातृः स्वयंप्रकाशत्वसिद्धिं निगमयति अत इति ॥
 
@@ -1808,7 +1808,7 @@ In general we may say that where there is light it must belong to something, as 
 प्रकाशत्वादेव कस्यचिदेव भवेत्प्रकाशः, दीपादिप्रकाशवत्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ साश्रयत्वे तर्कमाह प्रकाशत्वादेवेति ।
 
@@ -1847,7 +1847,7 @@ The grammarians moreover tell us that words such as 'consciousness,' 'knowledge,
 संविदनुभूतिज्ञानादिशब्दास्सम्बन्धिशब्दा इति च शब्दार्थविदः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हेत्वन्तरमप्याह संविदनुभूतीति ।
 </details>
@@ -1869,7 +1869,7 @@ neither ordinary nor Vedic language uses expressions such as 'he knows' without 
 न हि लोकवेदयोर्जानातीत्यादेरकर्मकस्याकर्तृकस्य च प्रयोगो दृष्टचरः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सम्बन्धिशब्दत्वं शब्दस्वभावायत्तमित्याशङ्कयाह न हि लोकवेदयोरिति । यत्रऽर्थस्वरूपस्यान्यथात्वं दृश्यते; तत्र शब्दस्वभावायत्तत्वमाश्रयणीयम् ।
 
@@ -1907,7 +1907,7 @@ With reference to the assertion that consciousness constitutes the Self, because
 यच्चोक्तमजडत्वात्संविदेवाऽत्मेति; तत्रेदं प्रष्टव्यम्, अजडत्वमिति किमभिप्रेतम्?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ अजडत्वं किं स्वसत्ताप्रयुक्तप्रकाशत्वम्, उत अव्यभिचरितप्रकाशसत्ताकत्वम्, उत स्वस्मै प्रकाशमानत्वम्, उत स्वस्मै स्वयम्प्रकाशत्वम्, उत स्वयम्प्रकाशत्वम्, इति पञ्चवा विकल्पमभिप्रेत्याह अजडत्वमितिकिमभिप्रेतमिति ।
 
@@ -1932,7 +1932,7 @@ If you reply 'luminousness due to the being of the thing itself (i.e. of the thi
 स्वसत्ताप्रयुक्तप्रकाशत्वमिति चेत्; तथा सति दीपादिष्वनैकान्त्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वसत्ताप्रयुक्तः प्रकाशो यस्येति बहुव्रीहिः । वक्ष्यमाणासिद्धिदूषणोपयोगिमेदज्ञापनार्थं स्वसत्ताप्रयुक्तशब्दः ।
 
@@ -1956,7 +1956,7 @@ and it would moreover give rise to a contradiction, since you do not admit light
 संविदतिरिक्तप्रकाश-धर्मानभ्युपगमेनासिद्धिर्विरोधश्च।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 दूषणान्तरदूयमाह संविदतिरिक्तेति ।
 
@@ -1981,7 +1981,7 @@ Nor can we allow you to define ajadatva as 'being of that nature that light is a
 अव्यभिचरितप्रकाशसत्ताकत्वमपि सुखादिषु व्यभिचारान्निरस्तम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 द्वितीयं पक्षं प्रतिक्षिपति अव्यभिचरितेति । न व्यभिचरति प्रकाशो यस्य सत्तायां सोऽव्यभिचरितप्रकाशसत्ताकः ।
 </details>
@@ -2007,7 +2007,7 @@ Should you maintain that pleasure and so on, although being throughout of the na
 यद्युच्येत – सुखादिरव्यभिचरितप्रकाशोऽप्यन्यस्मै प्रकाशमानतया घटादिवज्जडत्वेन अनात्मा – इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रयोज्यप्रयोजकत्वाभावेऽपि विद्यमानदशायां सर्वदा प्रकाशमानत्वमित्यर्थः । तस्यानात्मत्वेन संप्रतिपन्नेषु सुखदुःखादिषु व्यभिचार उक्तः ।
 </details>
@@ -2027,7 +2027,7 @@ we ask in reply: Do you mean then to say that knowledge appears to itself?
 ज्ञानं वा किं स्वस्मै प्रकाशते?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ तत्पयिहारमुखेन स्वस्मै प्रकाशमानत्वपक्षमुपक्षिपति तद्युच्येतेति ।
 
@@ -2050,7 +2050,7 @@ Knowledge no less than pleasure appears to some one else, viz. the 'I': there is
 तदपि ह्यन्यस्यैवाहमर्थस्य ज्ञातुरवभासते, अहं सुखीतिवज्जानाम्यहमिति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कस्येत्यत्राह तदपीति ।
 
@@ -2072,7 +2072,7 @@ Non-intelligence in the sense of appearingness-to-itself is thus not proved for 
 अतस्स्वस्मै प्रकाशमानत्वरूपमजडत्वं संविद्यसिद्धम् ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तस्मादेवंरूपाजडत्वमसिद्धमित्याह अत इति ।
 
@@ -2103,7 +2103,7 @@ and hence it follows that what constitutes the Self is the non-jada 'I' which is
 तस्मात् स्वात्मानं प्रति स्वसत्तयैव सिद्ध्यन्नजडोऽहमर्थ एवाऽत्मा ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वरूपै स्वयंभासमानस्य स्वयम्भासमानत्वमप्यस्तीत्यभिप्रायेण स्वात्मानं प्रति स्वसत्तयैवेत्युक्तम् ।
 
@@ -2128,7 +2128,7 @@ That knowledge is of the nature of light depends altogether on its connection wi
 ज्ञानस्यापि प्रकाशता तत्सम्बन्धायत्ता।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तमेव विवृणोति ज्ञानस्यापीति ।
 
@@ -2170,7 +2170,7 @@ The Self is thus not mere knowledge, but is the knowing 'I.'
 अतो न ज्ञप्तिमात्रमात्मा, अपि तु ज्ञातैवाहमर्थः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अजडत्वात् संविदात्मत्वासिद्धिं निगमयति अत इति ।
 
@@ -2207,7 +2207,7 @@ We turn to a further point. You maintain that consciousness which is in reality 
 अथ यदुक्तम् – अनुभूतिः परमार्थतो निर्विषया निराश्रया च सती भ्रान्त्या ज्ञातृतयाऽवभासते, रजततयेव शुक्तिः निरधिष्ठानभ्रमानुपपत्तेः इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 संविदपि मिथ्या किं न स्यादित्यत्राह निरधिष्ठानेति । अनुभूतिव्यतिरिक्तापारमार्थ्यसिद्धवत्कारेणायं हेतुरुक्तः ।
 </details>
@@ -2227,7 +2227,7 @@ But this theory is indefensible.
 तदयुक्तम्;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 दूषयति तदयुक्तमित्यादिना ।
 </details>
@@ -2251,7 +2251,7 @@ If things were as you describe them, the conscious 'I' would be cognised as co-o
 तथा सत्यनुभवसामानाधिकरण्येनानुभविताऽहमर्थः प्रतीयेत, अनुभूतिरहम् इति पुरोऽवस्थितभास्वरद्रव्याकारतया रजतादिरिव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अधिष्ठानसामानाधिकरण्येनाध्यस्तप्रतीतिं दृष्टान्तेनोपपादयति पुरोऽवस्थितेति ।
 
@@ -2283,7 +2283,7 @@ But the fact is that the state of consciousness presents itself as something apa
 अत्र तु पृथगवभासमानैवेयमनुभूतिरर्थान्तरमहमर्थं विशिनष्टि, दण्ड इव देवदत्तम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इदं चोद्यं पृथगवभासमानेत्यनेन परिहृतम् ।
 
@@ -2357,7 +2357,7 @@ Nor are you right in saying that the idea of the Self being a knowing agent, pre
 यदप्युक्तं स्थूलोऽहमित्यादिदेहात्माभिमानवत एव ज्ञातृत्वप्रतिभासनात् ज्ञातृत्वमपि मिथ्या – इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 देहात्माभिमानवतो ज्ञातृत्वप्रतिभासात् तन्मिथ्येत्युक्तमनूद्य दूषयति यदप्युक्तमित्यादिना ।
 </details>
@@ -2399,7 +2399,7 @@ You will perhaps rejoin that consciousness is not false because it (alone) is no
 सकलेतरोपमर्दितत्त्वज्ञानाबाधितत्वेनानुभूतेर्न मिथ्यात्वमिति चेत्, हन्तैवं सति तदबाधादेव ज्ञातृत्वमपि न मिथ्या।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदबाधादेवेति ज्ञातृत्वस्याबाधितत्वं मुक्तावपि ज्ञातृत्वपरश्रुतिवाक्यात् ।
 </details>
@@ -2423,7 +2423,7 @@ You further maintain that the character of being a knower, i.e. the agent in the
 यदप्युक्तम् – अविक्रियस्यऽत्मनो ज्ञानक्रियाकर्तृत्वरूपं ज्ञातृत्वं न सम्भवति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञातृत्वस्य विक्रियात्मकत्वं निराकर्तुं तदनुवदति यद्प्युक्तमविक्रियस्येति । ज्ञानस्य धात्वर्थतया क्रियात्वम् । तत्कर्तृत्वं च विकाररूपम् ।अत एव जडं च । अविक्रियस्याजडस्यात्मनो न संभवति ।
 </details>
@@ -2446,7 +2446,7 @@ that being a knower is something implying change, of a non-intelligent kind (ja�
 अतो ज्ञातृत्वं विक्रियात्मकं जडं विकारास्पदाव्यक्तपरिणामाहङ्कारग्रन्थिस्थमिति न ज्ञातृत्वमात्मनः, अपि त्वन्तःकरणरूपस्याहङ्कारस्य ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विक्रियात्मकत्वाज्जडत्वाच्च तादृशाहङ्कारग्रन्थिस्थमित्यर्थः । सर्वाध्यासमूलत्वात् ग्रन्थित्वम् ।
 </details>
@@ -2471,7 +2471,7 @@ For being an agent and so on is like colour and other qualities, an attribute of
 कर्तृत्वादिर्हि रूपादिवद्दृश्यधर्मः; कर्तृत्वेऽहम्प्रत्ययगोचरत्वे चात्मनोऽभ्युपगम्यमाने देहस्येवानात्मत्वपराक्त्वजडत्वादि प्रसङ्गश्चेति ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ हेत्वन्तरेण च ज्ञातृत्वस्यान्तःकरणधर्मत्वमुपपादयति कर्तृत्वादिरिति ।
 
@@ -2505,7 +2505,7 @@ But all this is unfounded, since the internal organ is, like the body, non-intel
 नैतदुपपद्यते- देहस्येवाचेतनत्वप्रकृतिपरिणामत्वदृश्यत्वपराक्त्वपरार्थत्वादियोगात् अन्तः-करणरूपस्य अहङ्कारस्य, चेतनासाधारणस्वभावत्वाच्च ज्ञातृत्वस्य॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 चेतनासाधारणेत्यादिना आत्मनो ज्ञातृत्वोपपादनम् । ज्ञातृत्वाभावः साध्योऽभिप्रेतः ।अन्तःकरणं धर्मि । अचेतनत्वादयो हेतवः ।
 
@@ -2553,7 +2553,7 @@ To explain. Just as the body, through its objectiveness, outwardness, and simila
 एतदुक्तं भवति यथा देहादिर्दृश्यत्वपराक्त्वादिहेतुभिस्तत्प्रत्यनीकद्रष्टृत्वप्रत्यक्त्वादेर्विविच्यते, एवमन्तःकरणरूपाहङ्कारोऽपि तद्द्रव्यत्वादेव तैरेव हेतुभिस्तस्माद्विविच्यते – इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तैरेव हेतुभिस्तस्माद्विविच्यत इति ।
 
@@ -2579,7 +2579,7 @@ otherwise there would be an evident contradiction.
 अतो विरोधादेव न ज्ञातृत्वमहङ्कारस्य, दृशित्ववत्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अतोऽचेतनत्वजडत्वादिस्वभावविरोधान्नाहङ्कारस्य ज्ञातृत्वमित्याह अत इति ।
 
@@ -2602,7 +2602,7 @@ As knowing cannot be attributed to the ahaṁkāra, which is an object of knowle
 यथा दृशित्वं तत्कर्मणोऽहङ्कारस्य नाभ्युपगम्यते, तथा ज्ञातृत्वमपि न तत्कर्मणोऽभ्युगन्तव्यम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदेव विवृणेति यथेति । दृश्यत्वाद्यविशेषेऽपि देहस्य घटादिविलक्षणस्येन्द्रिायाश्रयत्ववत् अन्तःकरणस्य दृशित्वं उपपद्यताम् ॥ अन्तःकरणस्यापि दृश्यत्वादिना देहस्येव दृशित्वं नोपपद्यत । इति चेत् तथा दृश्यस्य अन्तःकरणस्य दृश्यत्वादिनैव देहर्स्यव दृष्टत्वमपि नोपपद्यते ।
 
@@ -2656,7 +2656,7 @@ and as the knowing Self is eternal, knowledge which is an essential quality of t
 ज्ञानं चास्य नित्यस्य स्वाभाविकधर्मत्वेन नित्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 गुणा(क्रिया)श्रयत्वेऽपि तत् कादाचित्कं चेत् क्रियाश्रयत्ववत् विक्रियात्मकं स्यादित्यत्राह ज्ञानं चास्येति । धर्मस्य स्वाभाविकत्वेऽपि धर्मी अनित्यश्चेत् धर्मोऽप्यनित्यः स्यात् । धर्मिनित्यत्वे धर्मः सोपाधिकश्चेत्, उपाधिविगमे धर्मो नश्यतीत्यनित्यः स्यात् ।
 
@@ -2678,7 +2678,7 @@ That the Self is eternal will be declared in the Sūtra, II, 3, 17;
 नित्यत्वं चाऽत्मनो नात्मा श्रुतेः (ब्र.सू.२.३.१८) इत्यादिषु वक्ष्यति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यद्वा धर्मिनित्यत्वेन तत्स्वाभाविकधर्मस्यापि नित्यत्वादिति ।
 
@@ -2702,7 +2702,7 @@ and in II, 3, 18 the term 'gña' (knower) will show that it is an essential qual
 ज्ञोऽत एव (ब्र.सू.२.३.१९) इत्यत्र ज्ञ इति व्यपदेशेन ज्ञानाश्रयत्वं च स्वाभाविकिमिति वक्ष्यति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "ज्ञोऽत एवेत्यत्र ज्ञ इति व्यपदेशस्य विवरणम्, "यावदात्मभावित्वाच्च न दोषः" इति सूत्रम् ।
 
@@ -2726,7 +2726,7 @@ That a Self whose essential nature is knowledge should be the substrate of the (
 अस्य ज्ञानस्वरूपस्यैव मणिप्रभृतीनां प्रभाश्रयत्वमिव ज्ञानाश्रयत्वमपि ज्ञानाश्रयत्वमपि विरुद्धमित्युक्तम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञानस्वरूपस्य ज्ञानाश्रयत्वं कथमित्यत्राह अस्येति ।
 
@@ -2761,7 +2761,7 @@ Knowledge (the quality) which is in itself unlimited, is capable of contraction 
 स्वयम्परिच्छिन्नमेव ज्ञानं सङ्कोचविकासार्हामित्युपपादयिष्यामः ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदानीमेव सङ्कोच इत्यर्थः । सर्वेषामज्ञत्यप्रसक्तिश्च कर्मतारतभ्यात्परिहृता । तारवम्यशब्देन, "तया तिरोहितत्वाच्च शक्तिः क्षत्रज्ञसंज्ञिता ।
 </details>
@@ -2783,7 +2783,7 @@ In the so-called kshetrajña – condition of the Self, knowledge is, owing to t
 अतः क्षेत्रज्ञावस्थायां कर्मणा सङ्कुचितस्वरूपं तत्तत्कर्मानुगुणं तरतमभावेन वर्तते ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सर्वभूतेषु भूपाल तारतम्येन वर्तते" इति वचनं स्मारितं भवति । कर्मणेतिपदेन तयति पदं श्लोकस्थं व्याख्यातं भवति ।
 
@@ -2807,7 +2807,7 @@ and is variously determined by the different senses.
 तच्च इन्द्रियद्वारेण व्यवस्थितम् ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञानस्य नित्यत्वेन अनुत्पत्तिकत्वात् इन्द्रियनैरपक्ष्यं स्यादित्यत्राह तच्चेति ।
 
@@ -2830,7 +2830,7 @@ With reference to this various flow of knowledge as due to the senses, it is spo
 तमिमम् इन्द्रियद्वारा ज्ञानप्रसरमपेक्ष्य उदयास्तमयव्यपदेशः प्रवर्तते ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इन्द्रियद्वाराकत्वं सङ्कोचविकासार्थमित्यर्थः ।
 
@@ -2857,7 +2857,7 @@ and the Self possesses the quality of an agent.
 ज्ञानप्रसरे तु कर्तृत्वम् अस्त्येव ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सङ्कोचविकासाभ्युपगमे विक्रियात्मकत्वं स्यादित्यत्राह ज्ञानप्रसरे त्विति ।
 
@@ -2884,7 +2884,7 @@ As this quality is not, however, essential, but originated by action, the Self i
 तच्च न स्वाभाविकम्, अपि तु कर्मकृतमिति, अविक्रियस्वरूप एव आत्मा ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मुखान्तरेणाप्यविकारश्रुतीनां निर्वाहं दर्शयति तच्चेति ।
 
@@ -2911,7 +2911,7 @@ This changeful quality of being a knower can belong only to the Self whose essen
 एवं रूपविक्रियात्मकं ज्ञातृत्वं ज्ञानस्वरूपस्यात्मनः एव इति न कदाचिदपि जडस्य अहङ्कारस्य ज्ञातृत्वसम्भवः ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रसरणकर्तृत्वमपि विकाररूपत्वात् अन्तःकरणस्यैवेत्यत्राह एवंरूपविक्रियात्मकमिति । स्वधर्मभूतज्ञानप्रसरणकर्तृत्वलक्षणविकारित्वमेवंरूपशब्देन विवक्षितम् । ज्ञानस्वरूपस्य ।ज्ञानमेव स्वाभाविको धर्मः यस्य स ज्ञानस्वरूपः ।
 
@@ -2939,7 +2939,7 @@ But, you will perhaps say, the ahaṁkāra, although of non-intelligent nature, 
 जडस्वरूपस्यापि अहङ्कारस्य चित्सन्निधानेन तच्छायापत्त्या तत्सम्भव इति चेत्; केयं चिच्छायापत्तिः?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ परोक्तान् ज्ञातृत्वनिर्वाह प्रकारान् निरस्यति । ज्ञातृत्वं चिच्छायापत्तिकृतम्, चित्संपर्ककृतम्, चिदभिव्यञ्जकत्वकृतमिति त्रयः पक्षाः ।
 
@@ -2965,7 +2965,7 @@ Does consciousness become a reflection of the ahaṁkāra,
 किमहङ्कारच्छायापत्तिस्संविदः?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विकल्पयति किमिति ।
 
@@ -2989,7 +2989,7 @@ or does the ahaṁkāra become a reflection of consciousness?
 उत संविच्छायापत्तिरहङ्कारस्य?॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 संविच्छायापत्तिरहङ्करस्येति ।
 
@@ -3012,7 +3012,7 @@ The former alternative is inadmissible, since you will not allow to consciousnes
 न तावत्संविदः, संविदो ज्ञातृत्वानभ्युपगमात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रथमं दूषयति न तावदिति ।
 
@@ -3037,7 +3037,7 @@ and so is the latter since, as explained above, the non-intelligent ahaṁkāra 
 नाप्यहङ्कारस्य, उक्तरीत्या तस्य जडस्य ज्ञातृत्वायोगात्, द्वयोरप्यचाक्षुषत्वाच्च, न ह्यचाक्षुषाणां छाया दृष्टा॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वमचेतनत्वप्रकृतिपरिणामत्वादिभिरहङ्कारस्य ज्ञातृत्वव्युदासमभिप्रेत्याह उक्तरीत्येति ।
 
@@ -3068,7 +3068,7 @@ Let it then be said that as an iron ball is heated by contact with fire, so the 
 अथ – अग्निसम्पर्कादयःपिण्डौष्ण्यवच्चित्सम्पर्काज्ज्ञातृत्वोपलब्धिः – इति चेत्,
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 चित्संपर्कं दूषयितुं शङ्कते अथेति ।
 
@@ -3091,7 +3091,7 @@ This view too is inadmissible; for as you do not allow real knowership to Intell
 नैतत्, संविदि वस्तुतो ज्ञातृत्वानभ्युपगमादेव न तत्सम्पर्कादहङ्कारे ज्ञातृत्वं तदुपलब्धिर्वा ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहङ्कारे संवित्सम्पर्कात् ज्ञातृत्वं व्युदस्यति संविदीति ।
 </details>
@@ -3114,7 +3114,7 @@ and much less even can knowership or the consciousness of it be imparted to Inte
 अहङ्कारस्य त्वचेतनस्य ज्ञातृत्वासम्भवादेव सुतरां न तत्सम्पर्कात्संविदि ज्ञातृत्वं तदुपलब्धिर्वा॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहङ्कारसम्पर्कात् संविद ज्ञातृत्वं दूषयति अहङ्कारस्य त्विति ।
 
@@ -3160,7 +3160,7 @@ but the ahaṁkāra manifests consciousness abiding within itself (within the ah
 अहङ्कारस्त्वनुभूतेरभिव्यञ्जकः स्वात्मस्थामेव अनुभूतिमभिव्यनक्ति, आदर्शादिवत्, इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अभिव्यक्तिपक्षमाह अहङ्कारस्त्विति ।
 </details>
@@ -3183,7 +3183,7 @@ But the essentially non-intelligent ahaṁkāra evidently cannot 'manifest' the 
 तदयुक्तम्, आत्मनस्स्वयञ्ज्योतिषो जडस्वरूपाहङ्काराभिव्यङ्ग्यत्वायोगात्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 दूषयति तदयुक्तमिति ।
 </details>
@@ -3204,7 +3204,7 @@ As has been said 'That the non-intelligent ahaṁkāra should manifest the self-
 स्वयञ्ज्योतिषमात्मानं व्यनक्तीति न युक्तिमत्॥ (आत्मसिद्धिः) इति
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यपेक्षायामात्मनो अभिव्यञ्जकापेक्षा च नास्ति, अहङ्कारस्याभिव्यञ्जकत्वशक्तिरपि नास्तीत्याह आत्मन इत्यादिना ।
 
@@ -3226,7 +3226,7 @@ The truth is that all things depend for their proof on self-luminous consciousne
 स्वयम्प्रकाशानुभवाधीनसिद्धयो हि सर्वे पदार्थाः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शान्ताङ्गार इत्यादिकं श्लोकं विवृणोति स्वयमिति । स्वयम्प्रकाशशब्देन अभिव्यञ्जकापेक्षाया अभाव उक्तः ।
 
@@ -3251,7 +3251,7 @@ and now you maintain that one of these things, viz. the non-intelligent ahaṁk�
 तत्र तदायत्तप्रकाशोऽचित् अहङ्कारः अनुदितानस्तमितस्वरूपप्रकाशमशेषार्थसिद्धिहेतुभूतमनुभवमभिव्यनक्तीत्यात्मविदः परिहसन्ति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अचिदहङ्कार इत्यनेन चिन्मात्रातिरेकित्वात् तदायत्तप्रकाश इति परोक्तहेतुः सूचितः । अनुदितानस्तमितस्वरूपप्रकाशम् ।
 
@@ -3282,7 +3282,7 @@ The relation of 'manifestation' cannot hold good between consciousness and the a
 किञ्च अहङ्कारानुभवयोस्स्वभावविरोधादनुभूतेरननुभूतित्वप्रसङ्गाच्च न व्यङ्क्तृव्यङ्ग्य-भावः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहङ्कारानुभवयोरभिव्यञ्जकत्वाभिव्यङ्गयत्वानभ्युपगमेन दूषणमुक्तम् । तयोरभिव्यञ्जकत्वम् भिव्यङ्गयत्वञ्चास्तु, तत्परस्परं नोपपद्यत इत्याह - किञ्चेति । स्वभावविरोधात्- अनुभवस्याशेषार्थसिद्धिहेतुत्वं तद्वयतिरिक्तत्वेनाहङ्कारस्यास्य तदधीनसिद्धित्वं च विरोधः ।
 
@@ -3316,7 +3316,7 @@ As has been said, 'One cannot manifest the other, owing to contradictoriness; an
 व्यङ्ग्यत्वेऽननुभूतित्वमात्मनि स्याद्यथा घटे॥ (आत्मसिद्धिः) इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्मिन्नर्थेअप्यात्मसिद्धिग्रन्थं दर्शयति यथोक्तमिति । प्रतिकूल्यतः पूर्वोक्त स्वभावविरोधशब्देन प्रतिकूल्यशब्दो व्याख्यातः ।
 
@@ -3342,7 +3342,7 @@ Nor is the matter improved by your introducing the hand and the sunbeams, and to
 न च रविकरनिकराणां स्वाभिव्यङ्ग्यकरतलाभिव्यङ्ग्यत्ववत्संविदभिव्यङ्ग्याहङ्काराभिव्यङ्ग्यत्वं संविदस्साधीयः, तत्रापि रविकरनिकराणां करतलाभिव्यङ्ग्यत्वाभावात् ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 दृष्टान्तस्य साध्यविकलत्वमाह तत्रपीति । तत्र तथात्वस्यान्यथासिद्धिं दर्शयति ।
 
@@ -3385,7 +3385,7 @@ What could, moreover, be the nature of that 'manifestation' of the Self consisti
 किञ्चास्य संवित्स्वरूपस्य आत्मनोऽहङ्कारनिर्वर्त्या अभिव्यक्तिः किंरूपा।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तथा अहङ्कारेणास्याभिव्यक्तिं त्रि(त्रे)धा विकल्प्य दूषयति किञ्चेत्यादिना । किं रूपा किं शब्दः क्षेपार्थः ।
 
@@ -3408,7 +3408,7 @@ It cannot be origination; for you acknowledge that what is self-established cann
 न तावदुत्पत्तिः, स्वतस्सिद्धतयाऽनन्योत्पाद्यत्वाभ्युपगमात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्रापेक्षायां अभिव्यक्तिर्नाम किमुत्पत्तिः, उत प्रकाशनम्, उतानुभवसाधनानुग्रहः इति त्रि(त्रे)धा विकल्पमभिप्रेत्योत्पत्तिपक्षं दूषयति न तावदिति । अनुत्पन्नस्य घटादेरभिव्यक्तयसम्भवात् उत्पादकस्यापि दण्डचक्रादेः उत्पादनद्वारा अभिव्यक्तिहेतुत्वात् उत्पत्तिरपि विकल्पशिरसि निवेशिता । किञ्च व्यङ्गयप्रकाशोत्पादनं व्यञ्जनम् ।
 
@@ -3436,7 +3436,7 @@ Nor can it be 'illumination' (making to shine forth), since consciousness cannot
 नापि तत्प्रकाशनम्, तस्यानुभवान्तराननुभाव्यत्वात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ द्वितीयं व्युदस्यति नापीति । प्रकाशनम्- अनुभवविषयप्रकाशोत्पत्तिः ।
 </details>
@@ -3458,7 +3458,7 @@ For the same reason it cannot be any action assisting the means of being conscio
 तत एव च न तदनुभवसाधनानुग्रहः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ तृतीयं प्रतिवक्ति तत इति । तत एव- प्रकाशानुपपत्तेरेव ॥ नन्वनन्तरग्रन्थोत्थानमनुपपन्नम्; अनुग्राहकद्वैविध्यस्य तन्निरासानुपयोगित्वात् । उत्तरात्रात्मसिद्धिग्रन्थोदाहरणं च न सङ्गतम्; इन्द्रियासम्बन्धवाचित्वेनानुग्रहद्वैविध्यानुपयोगात् ॥ अत्रोच्यते । पूर्वमनुग्राह्यजन्यप्रकाशविषयानुभूतिपर्यालोचनया तदनुभवसाधनानुग्रहो दूषितः ।
 
@@ -3483,7 +3483,7 @@ For such helpful action could be of two kinds only. It would either be such as t
 स हि द्विधा; ज्ञेयस्येन्द्रियसम्बन्धहेत्वेन वा, यथा जातिनिजमुखादिग्रहणे व्यक्तिदर्पणादीनां नयनादीन्द्रियसम्बन्धहेतुत्वेन;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 द्विविधस्याप्यनुपपत्तिं दर्शयितुं प्रथमं द्वैविध्यमाह ज्ञेयस्येति । शमदभादेः शास्त्रानुग्राहकत्वोक्तिः परमतेन । तद्धि उपासनानुग्राहकम् ॥
 
@@ -3514,7 +3514,7 @@ Or it would be such as to remove some obstructive impurity in the mind of the kn
 बोद्धृगतकल्मषापनयनेन वा, यथा परतत्त्वावबोधनसाधनस्य शास्त्रस्य शमदमादिना।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 बोद्धृगतकल्मषापनयनेनेति कर्त्रनुग्रहस्यादृष्टमुखेनानुग्रहस्य चोपलक्षणमुक्तम् । आत्मसिद्धिग्रन्थेऽप्ययमेव भावः । एवं द्वैविध्यदर्शनेन द्विधाभूतोऽप्यनुग्रहोऽहङ्कारस्य न सुवच इत्यनुषङ्गेण योजना ।
 
@@ -3543,7 +3543,7 @@ As has been said 'Since the instruments (organs) have no existence (independent 
 करणानामभूमित्वान्न तत्सम्बन्धहेतुता । – (आत्मसिद्धिः) इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "करणानामभूमित्वात् न तत्सम्बन्धहेतुता" इति हेतुत्वलक्षणानुग्रहः अनुपपन्न इति दर्शितः । बोद्धृगतकल्मषापनयनलक्षणानुग्रहानुपपत्तिर्न ग्रन्थस्था ।
 
@@ -3573,7 +3573,7 @@ Moreover, even if it were admitted that consciousness may be an object of consci
 किञ्च अनुभूतेरनुभाव्यत्वाभ्युपगमेऽप्यहमर्थेन न तदनुभवसाधनानुग्रहः सुवचः;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वमिन्दियगोचरत्वानभ्युपगमेन दूषणमुक्तम् ; अथानुभाव्यत्वाभ्युपगमेन दूषणमाह किञ्चेति ।
 </details>
@@ -3597,7 +3597,7 @@ analogous to the way in which a lamp assists the eye by dispelling the darkness 
 यथा रूपादिग्रहणोत्पत्तिनिरोधिसन्तमसनिरसनेन चक्षुषो दीपादिना।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनुग्रहस्वरूपं शिक्षयति सहीति ॥ व्यक्तिदर्पणादावनुग्रहप्रकारान्तरे दृष्टे अपि कथं प्रतिबन्धनिरसनरूपानुग्रह एव परिशेषितः ॥ उच्यते । जातिव्यक्तयोनियतधर्मधर्मिभावेन, व्यक्तिः जातेः व्यर्ाञ्जिका । न तथा अहङ्कारानुभवयोः नियतधर्मिधर्मभावोऽस्ति । स तु परेणैव निरस्तः ।
 
@@ -3621,7 +3621,7 @@ But in the case under discussion we are unable to imagine such obstacles.
 न चेह तथाविधं निरसनीयं सम्भाव्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह न चेहेति ।
 
@@ -3646,7 +3646,7 @@ There is nothing pertaining to consciousness which obstructs the origination of 
 न तावत्संविदात्मगतं तज्ज्ञानोत्पत्तिनिरोधि किञ्चिचदप्यहङ्कारापनेयमस्ति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न तावदिति ग्रन्थेन अन्यन्निरसनीयं निरस्तम् ।
 
@@ -3699,7 +3699,7 @@ knowledge alone can put an end to Nescience.
 ज्ञानमेव ह्यज्ञानस्य निवर्तकम् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह ज्ञानेति ।
 </details>
@@ -3739,7 +3739,7 @@ In pure knowledge where there is no knowing subject and no object of knowledge �
 ज्ञातृभावविषयभावविरहिते ज्ञानमात्रे साक्षिणि नाज्ञानं भवितुमर्हाति;
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह ज्ञातृभावेति । साक्षिणि । द्रष्टुरेव साक्षित्वम्; ज्ञप्तेस्तु साक्षित्वमपि व्याहतं भवतीत्यभिप्रायः ।
 
@@ -3766,7 +3766,7 @@ Jars and similar things cannot be the abode of Nescience because there is no pos
 यथा ज्ञानाश्रयत्वप्रसक्तिशून्यत्वेन घटादेर्नाज्ञानाश्रयत्वम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञानाश्रयत्व प्रसक्तीति ।
 </details>
@@ -3787,7 +3787,7 @@ and for the same reason pure knowledge also cannot be the abode of Nescience.
 तथा ज्ञानमात्रेऽपि ज्ञानाश्रयत्वाभावेन नाज्ञानाश्रयत्वं स्यात् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञातुरप्यज्ञानाश्रयत्वं ज्ञानाश्रयत्वं च कालभेदादविरुद्धमिति भावः । ज्ञानात्यन्ताभावाश्रयत्वं हि धटादेः । ज्ञानं नाज्ञानश्रयः; न चाज्ञानविषयः ।
 
@@ -3813,7 +3813,7 @@ And even if consciousness were admitted to be the abode of Nescience, it could n
 संविदोऽज्ञानाश्रयत्वाभ्युपगमेऽपि आत्मतयाऽभ्युपगतायास्तस्या ज्ञानविषयत्वाभावेन ज्ञानेन न तद्गताज्ञाननिवृत्तिः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदभ्युपगमेन दूषणमाह संविद इति ।
 
@@ -3836,7 +3836,7 @@ For knowledge puts an end to Nescience only with regard to its own objects, as i
 ज्ञानं हि स्वविषय एवाज्ञानं निवर्तयति, यथा रज्ज्वादौ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञानविषयस्यैवाज्ञाननिवृत्तिं सदृष्टान्तमाह ज्ञानं हीति । यद्यविषयेऽप्यज्ञाननिवृत्तिः तर्हि शुक्तिज्ञानेन सर्व(र्प)भ्रमनिवृत्तिः स्यादित्यभिप्रायः ।
 
@@ -3859,7 +3859,7 @@ And the consequence of this would be that the Nescience attached to consciousnes
 अतो न केनापि कदाचित्संविदाश्रयमज्ञानमुच्छिद्येत।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आश्रयत्वाभ्युपगमेनोक्तदूषणं निगमयति अत इति ।
 </details>
@@ -3883,7 +3883,7 @@ If Nescience, we further remark, is viewed as that which can be defined neither 
 अस्य च सदसदनिर्वचनीयस्याज्ञानस्य स्वरूपमेव दुर्निरूपमित्युपरिष्टाद्वक्ष्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 त्वया अहङ्कारापोह्यत्वेनोक्तमज्ञानं किं सदसदनिर्वचनीयम् उत ज्ञानप्रागभावरूपम् इति विकल्प्याऽऽह अस्येति ।
 </details>
@@ -3906,7 +3906,7 @@ On the other hand, Nescience, if understood to be the antecedent non-existence o
 ज्ञानप्रागभावरूपस्य चाज्ञानस्य ज्ञानोत्पत्तिविरोधित्वाभावेन न तन्निरसनेन तज्ज्ञानसाधनानुग्रहः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 द्वितीयं प्रतिवक्ति ज्ञानप्रागभावेति । विरोधिशब्देन प्रतिबन्धकत्वं विवक्षितम्, न सहानवस्थानमात्रम्, ।
 </details>
@@ -3928,7 +3928,7 @@ From all this it follows that the ahaṁkāra cannot effect in any way 'manifest
 अतो न केनापि प्रकारेणाहङ्कारेणानुभूतेरभिव्यक्तिः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अभिव्यक्तेर्दुर्न्निरूपत्वं निगमयति अत इति । केनापि प्रकारेण ।उत्पादकत्वेन वा प्रकाशकत्वेन वा तदनुभवसाधनानुग्राहकत्वेन वेत्यथः ।
 
@@ -3957,7 +3957,7 @@ The essential nature of manifesting agents rather lies therein that they promote
 यथावस्थितपदार्थप्रतीत्यनुगुणस्वाभाव्याच्च ज्ञानतत्साधनयोरनुग्राहकस्य च।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 व्यभिचारमाह प्रदीपादिष्विति ।
 
@@ -3985,7 +3985,7 @@ And this is self-established by the principle of self-validity of knowledge (sva
 तच्च स्वतःप्रामाण्यन्यायसिद्धम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तच्चेति ।
 
@@ -4044,7 +4044,7 @@ Nor is it even true that the mirror manifests the face. The mirror is only the c
 न च दर्पणादिर्मुखादेरिभव्यञ्जकः, अपि तु चाक्षुषतेजःप्रतिफलनरूपदोषहेतुः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तर्हि मुखदर्शनाय दर्प्पणादिकं नोपादीयेतेत्यत्राह अपि त्विति ।
 </details>
@@ -4064,7 +4064,7 @@ and to this irregularity there is due the appearance of the face within the mirr
 तद्दोषकृतश्च तत्रान्यथावभासः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रतिफलनस्य दोषत्वमन्यथाज्ञानहेतुत्वादित्याह तद्दोषेति ।
 </details>
@@ -4084,7 +4084,7 @@ but the manifesting agent is the light only.
 अभिव्यञ्जकस्त्वालोकादिरेव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कस्तत्राभिव्यञ्जक इत्यत्राह अभिव्यञ्जकस्त्विति ।
 </details>
@@ -4105,7 +4105,7 @@ And it is evident that the ahaṁkāra is not capable of producing an irregulari
 न चेह तथाहङ्कारेण संविदि स्वप्रकाशायां तादृशदोषापादनं सम्भवति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहङ्कारस्य मूर्त्तस्वच्छस्थूलद्रव्यत्वाभावात् संविदो ज्ञेयत्वाभावादचाक्षुपत्वाच्च अहङ्कारेण संविदि अविषयभूतायां तद्ग्रहकवस्तुप्रतिफलनदोषो न सम्भवतीत्याह न चेहेति ।
 </details>
@@ -4128,7 +4128,7 @@ And – with regard to the second analogous instance alleged by you – the fact
 व्यक्तेस्तु जातिराकार इति तदाश्रयतया प्रतीतिः; न तु व्यक्तिव्यङ्ग्यत्वात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 व्यक्तौ जातिप्रतीतिर्नियतधर्मधर्मिभावात् न तु व्यङ्गयत्वादित्याह व्यक्तेरिति । एतत् दर्पणव्यक्तिनिर्वाह द्वयं हृदि निधाय पूर्वं प्रतिबन्धनिरसनरूपानुग्रहो दूषितः । धर्मधर्मिभावेन वस्तुतः तात्स्थ्ेनोपलब्धिर्व्यक्तौ; दपर्णे तु प्रतिफलनरूपदोषात् ।
 
@@ -4156,7 +4156,7 @@ Thus there is no reason, either real or springing from some imperfection, why th
 अतोऽन्तःकरणभूताहङ्कारस्थतया संविदुपलब्धेर्वस्तुतो दोषतो वा न किञ्चिदिह कारणमिति नाहङ्कारस्य ज्ञातृत्वं तथोपलब्धिर्वा।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वस्तुतः कारणाभावान्न ज्ञातृत्वं विद्यते, दोषरूपकारणाभावान्नोपलभ्यते चेत्यभिप्रायेणाह नाहङ्कारस्य ज्ञातृत्वं तथोपलब्धिर्वेति ।
 </details>
@@ -4178,7 +4178,7 @@ Hence, what constitutes the inward Self is not pure consciousness but the 'I' wh
 तस्मात्स्वत एव ज्ञातृतया सिद्ध्यन्नहमर्थ एव प्रत्यगात्मा; न ज्ञप्तिमात्रम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञातुरात्मत्वं निगमयति तस्मादिति ।
 </details>
@@ -4199,7 +4199,7 @@ In the absence of egoity, 'inwardness' could not be established for consciousnes
 अहम्भावविगमे तु ज्ञप्तेरपि न प्रत्यक्त्वसिद्धिरित्युक्तम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञप्तेरात्मत्वमयुक्तम्, अहं त्वाभावे प्रत्यकत्वायोगादित्याह अहम्भाव(न?)विगम इति ।
 </details>
@@ -4232,7 +4232,7 @@ In deep sleep the quality of darkness prevails in the mind and there is no consc
 तमोगुणाभिभवात् परागर्थानुभवाभावाच्च अहमर्थस्य विविक्तस्फुटप्रतिभासाभावेऽप्याप्रबोधात् अहमित्येकाकारेणाऽत्मनस्स्फुरणात्सुषुप्तावपि नाहम्भावविगमः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहमिति व्यवहारानुगुणभासनविरहे स्वस्मै भासमानत्वं न स्यात् ।
 
@@ -4268,7 +4268,7 @@ Pure consciousness assumed by you (to manifest itself in deep sleep) is really i
 भवदभिमताया अनुभूतेरपि तथैव प्रथेति वक्तव्यम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विशदावभासाभावादहमर्थस्फुरणं नास्तीत्यत्राह भवदभिमताया अनुभूतेरपीति । न केवलमहमर्थस्फुरणे एव अवैशद्यदोषः; अनुभूतिस्फुरणेऽपि स त्वया वाच्यः (स तुलयः) । अतो विशदावभासाभावात् नास्तित्वं चेत्, ज्ञप्त्यात्मनोऽपि तदानीं स्फुरणं न स्यात् ।
 
@@ -4303,7 +4303,7 @@ for a person risen from deep sleep never represents to himself his state of cons
 न हि सुषुप्तोत्थितः कश्चिदहम्भाववियुक्तार्थान्तरप्रत्यनीकाकारा ज्ञप्तिरहमज्ञानसाक्षितया अवतिष्ठ इत्येवंविधां स्वापसमकालामनुभूतिं परामृशति ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रत्य कत्वसिध्द्यर्थं ज्ञप्तिरहमिति अत्राहंशब्दोपादानम् ।
 </details>
@@ -4327,7 +4327,7 @@ what he thinks is only 'I slept well.'
 एवं हि सुप्तोत्थितस्य परामर्शः, सुखमहमस्वाप्समिति ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वपक्षे परामर्शानुगुण्यमाह एवं हीति । अयं परामर्शः सुषुप्ति काले सुखरूपतयाऽनुभूतात्मगोचरः । अतीतकालसम्बन्धस्वापौ तु पूर्वकालानुभूतार्थप्रत्यभिज्ञानयोग्यानपलब्धिभ्यामनुमेयौ ।
 
@@ -4356,7 +4356,7 @@ From this form of reflection it appears that even during sleep the Self. i.e. th
 अनेन प्रत्यवमर्शेन तदानीमप्यहमर्थस्यैवाऽत्मनस्सुखित्वं ज्ञातृत्वं च ज्ञायते॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उक्तपरामर्शफलितमर्थमाह अनेनेति ।
 
@@ -4420,7 +4420,7 @@ Nor must you urge against this that the reflection has the following form: 'As n
 न च वाच्यं, यथेदानीं सुखं भवति; तथा तदानीमस्वाप्समित्येषा प्रतिपत्तिरिति; अतद्रूपत्वात्प्रतिपत्तेः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथाऽस्य परामर्शस्य परोक्तान्यथासिद्धिमनूद्य परिहरति न चेत्यादिना ।
 
@@ -4450,7 +4450,7 @@ Nor must you say that owing to the non-permanency of the 'I' its perception of p
 न चाहमर्थस्याऽत्मनोऽस्थिरत्वेन तदानीमहमर्थस्य सुखित्वानुसन्धानानुपपत्तिः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथानुपपत्तिं परिहरति न चेत्यादिना । अनुपपत्तिश्चाऽऽत्मनः अस्थिरत्वमनुभवाभा वो वा ।
 </details>
@@ -4472,7 +4472,7 @@ For (the 'I' is permanent as appears from the fact that) the person who has rise
 यतस्सुषुप्तिदशायाः प्रागनुभूतं वस्तु सुप्तोत्थितो मयेदं कृतं, मयेदमनुभूतम् अहमेतदवोचम् इति परामृशति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्र परामर्शेन स्थिरत्वमाह यत इति । मयेदं कृतमित्यादयो मानसवाचिककायिकत्रिविधव्यापारविषयपरामर्शपराः ।
 </details>
@@ -4497,7 +4497,7 @@ For (the 'I' is permanent as appears from the fact that) the person who has rise
 एतावन्तं कालं न किञ्चिदहमज्ञासिषम् इति च परामृशतीति चेत्, ततः किम्?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथाहमर्थाननुभवसाधकनिषेधसामान्यविषयं परामर्शं (र्शविशेषं) शङ्कते एतावन्तमिति ।
 
@@ -4523,7 +4523,7 @@ For (the 'I' is permanent as appears from the fact that) the person who has rise
 न किञ्चिदिति कृत्स्नप्रतिषेध इति चेत्; न, नाहमवेदिषम् इति वेदितुरहमर्थस्यैवानुवृत्तेः वेद्यविषयो हि स प्रतिषेधः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परविवक्षितं शङ्कते न किञ्चिदिति ।
 
@@ -4546,7 +4546,7 @@ If the negation implied in 'of nothing' included everything, it would also negat
 न किञ्चिदिति निषेधस्य कृत्स्नविषयत्वे भवदभिमता अनुभूतिरपि प्रतिषिद्धा स्यात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कृत्स्नविषयत्वेऽनिष्टमाह न किञ्चिदिति ।
 </details>
@@ -4575,7 +4575,7 @@ if, now, in the face of this, you undertake to prove by means of this very judgm
 सुषुप्तिसमये त्वनुसन्धीयमानमहमर्थमात्मनं ज्ञातारमहमिति परामृश्य न किञ्चिदवेदिषमिति वेदने तस्य प्रतिषिध्यमाने तस्मिन्काले निषिध्यमानाया वित्तेस्सिद्धिमनुवर्तमानस्य ज्ञातुरहमर्थस्य चासिद्धिमनेनैव न किञ्चिदहमवेदिषम् इति परामर्शेन साधयंस्तमिममर्थं देवानामेव साधयतु॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नानुभूतिनिषेधः, तस्या अनुवृत्तेरित्याशङ्कयाह सुषुप्तिसमये त्विति ।
 
@@ -4608,7 +4608,7 @@ But – our opponent goes on to urge – I form the following judgment also: 'I 
 मामप्यहं न ज्ञातवान् इति अहमर्थस्यापि तदानीमननुसन्धानं प्रतीयत इति चेत्; स्वानुभवस्ववचनयोर्विरोधमपि न जानन्ति भवन्तः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ निषेधविशेषविषयं परामर्शमाह मामपीति ।
 
@@ -4647,7 +4647,7 @@ This, we admit, is a reasonable question.
 मामिति किं निषिध्यत इति चेत्; साधु पृष्टं भवता।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वं विरुद्धार्थकथनमसाधु; अर्थतत्त्वप्रश्नः साधुरित्यभिवप्रायेणाह साध्विति ।
 </details>
@@ -4670,7 +4670,7 @@ Let us consider the point. What is negatived in that judgment is not the knowing
 तदुच्यते, अहमर्थस्य ज्ञातुरनुवृत्तेः न स्वरूपं निषिध्यते; अपि तु प्रबोधसमयेऽनुसन्धीयमानस्याहमर्थस्य वर्णाश्रमादिविशिष्टता।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निषेधानुवृत्त्योर्विषयविभागं दर्शयति तदुच्यत इत्यादिना ।
 
@@ -4712,7 +4712,7 @@ The object of the '(me) myself' is the 'I' distinguished by class characteristic
 जागरितावस्थानुसंहितजात्यादि-विशिष्टोऽस्मदर्थो मामित्यंशस्य विषयः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विषयविभागविपर्यासशङ्कायां विषयविभागमुचितं दर्शयति जागरितेति । यत् सामग्रयभावात् तदानीं न प्रकाशते, तदेव निषेधविषयः ।
 
@@ -4760,7 +4760,7 @@ The judgment 'I did not know myself' therefore means that the sleeper was not co
 अत्र सुप्तोऽहमीदृशोऽहमिति च मामपि न ज्ञातवानहमित्येव खल्वनुभवप्रकारः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं विषयविभागानुगुणमनुभवं दर्शयति अत्रेति । शब्दप्रयोगो विवक्षावशात् धीस्थं सर्वं वदति वा; तदेकदेशं वदति वा; न किञ्चिदपि वदति वा । अतः शब्दप्रयोगे वैवक्षिकेऽप्यनुभव एकरूपः ।
 
@@ -4785,7 +4785,7 @@ It is, moreover, your own view that in deep sleep the Self occupies the position
 किञ्च, सुषुप्तावात्माऽज्ञानसाक्षित्वेनाऽस्त इति हि भवदीया प्रक्रिया।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परमतेनेममर्थमुपपादयति किञ्चेत्यादिना ।
 
@@ -4822,7 +4822,7 @@ a person who does not know cannot be a witness.
 न ह्यजानतस्साक्षित्त्वम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपपादयति न हीति ।
 
@@ -4866,7 +4866,7 @@ and with this the Reverend Pānini also agrees when teaching that the word 'sāk
 स्मरति च भगवान् पाणिनिः साक्षाद्द्रष्टरि सञ्ज्ञायाम् (अष्टा.५.२.९१) इति साक्षाज्ज्ञातर्येव साक्षिशब्दम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 शब्दप्रयोगनियामकं लक्षणमाह स्मरतीति । साक्षिशब्दं स्मरतीत्यन्वयः ।
 
@@ -4910,7 +4910,7 @@ That which itself appears to the Self appears as the 'I,' and it thus follows th
 आत्मने स्वयमवभासमानोऽहमित्येवावभासत इति स्वापाद्यवस्थास्वप्यात्मा प्रकाशमानोऽहमित्येवावभासत इति सिद्धम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्मिन्नर्थे अनुमानमुत्त रत्र विस्तरेण विवक्षितम्; अत्र शङ्ग्रहेणाह आत्मने स्वयमिति ।
 
@@ -4947,7 +4947,7 @@ To maintain that the consciousness of the 'I' does not persist in the state of f
 यत्तु – मोक्षदशायामहमर्थो नानुवर्तते – इति; तदपेशलम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ मुक्तावहमर्थाननुवृत्तिमनूद्य दूषयति यत्त्वित्यादिना । तुरर्थगौरवविशेषे ।
 
@@ -4971,7 +4971,7 @@ It in fact amounts to the doctrine – only expressed in somewhat different word
 तथा सत्यात्मनाश एवापवर्गः प्रकारान्तरेण प्रतिज्ञातः स्यात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्यत्राह तथासतीति ।
 
@@ -5057,7 +5057,7 @@ Moreover, a man who suffering pain, mental or of other kind – whether such pai
 अपि च यः परमार्थतो भ्रान्त्या वाऽऽध्यात्मिकादिदुःखैर्दुःखितया स्वात्मानमनुसन्धत्ते अहं दुःखी इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अतोऽहमर्थविनाशोऽपुरुषार्थः इत्यभिप्रायेण परमार्थतो भ्रान्त्या वेत्युक्तम् ।
 
@@ -5087,7 +5087,7 @@ naturally begins to reflect how he may once for all free himself from all these 
 सर्वमेतद्दुःखजातमपुनर्भवमपोह्य कथमहमनाकुलस्स्वस्थो भवेयम् इत्युत्पन्नमोक्ष-रागः स एव तत्साधने प्रवर्तते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनाकुलः स्वस्थो भवेयमिति ।
 
@@ -5132,7 +5132,7 @@ And the result of this would be that, in the absence of willing and qualified pu
 ततश्चाधिकारिविरहादेव सर्वं मोक्षशास्त्रमप्रमाणं स्यात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अपसर्प्पेदसावित्यादिग्रन्थेन फलितमर्थमाह ततश्चाधिकारीति ।
 
@@ -5156,7 +5156,7 @@ And the result of this would be that, in the absence of willing and qualified pu
 अहमुपलक्षितं प्रकाशमात्रमपवर्गेऽवतिष्ठत इति चेत्; किमनेन?
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहमुपलक्षितमित्यादिना ।
 </details>
@@ -5180,7 +5180,7 @@ No sensible person exerts himself under the influence of the idea that after he 
 मयि नष्टेऽपि किमपि प्रकाशमात्रमपवर्गेऽवतिष्ठत इति मत्वा न हि कश्चित् बुद्धिपूर्वकारी प्रयतते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 बुद्धिपूर्वकारीत्यनेन कस्यापीति पदं विवृतम् ।
 </details>
@@ -5200,7 +5200,7 @@ No sensible person exerts himself under the influence of the idea that after he 
 अतोऽहमर्थस्यैव ज्ञातृतया सिद्ध्यतः प्रत्यगात्मत्वम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 श्रुत्यर्थापत्तिं निगमयति अत इति । अहमर्थविगमे ज्ञप्तिसिद्धिरप्यनुसन्धेया ।
 </details>
@@ -5223,7 +5223,7 @@ This 'inward' Self shines forth in the state of final release also as an 'I'; fo
 स च प्रत्यगात्मा मुक्तावप्यहमित्येव प्रकाशते, स्वस्मै प्रकाशमानत्वात्,
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनुमानमाह स चेति ।
 
@@ -5248,7 +5248,7 @@ The general principle is that whatever being appears to itself appears as an 'I'
 यो यः स्वस्मै प्रकाशते स सर्वोऽहमित्येव प्रकाशते यथा तथावभासमानत्वेनोभयवादिसम्मतस्संसार्यात्मा।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अन्वयव्याप्तिमाह योय इति । तथाऽवभासमानत्वेनस्वस्मै प्रकाशमानत्वेन ।
 </details>
@@ -5270,7 +5270,7 @@ On the contrary, whatever does not appear as an 'I', does not appear to itself; 
 यः पुनरहमिति न चकास्ति; नासौ स्वस्मै प्रकाशते, यथा घटादिः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 व्यतिरेकव्याप्तिं दर्शयति यः पुनरिति ।
 </details>
@@ -5291,7 +5291,7 @@ Now the emancipated Self does thus appear to itself, and therefore it appears as
 स्वस्मै प्रकाशते चायं मुक्तात्मा; तस्मादहमित्येव प्रकाशते॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपनयमाह स्वस्मा इति ।
 
@@ -5332,7 +5332,7 @@ for this would contradict the nature of final release, and moreover the consciou
 मोक्षविरोधात्, अज्ञत्वाद्यहेतुत्वाच्चाहम्प्रत्ययस्य।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सोपाधिकत्वमाह अज्ञत्वादीति । संसारित्वाहमर्थत्वयोः सहदर्शनमात्रेण मुक्तावपि संसारित्वादिप्रसङ्गश्चेत्, अनुभवस्यापि तत्सहभावदर्शनात् त्वत्पक्षेऽपि मुक्तौ संसारित्वप्रसङ्गः ॥
 
@@ -5357,7 +5357,7 @@ Nescience (ignorance) is either ignorance as to essential nature, or the cogniti
 अज्ञानं नाम स्वरूपाज्ञानमन्यथा ज्ञानं विपरीतज्ञानं वा।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्र सोपाधिकत्वमुपपादयितुमज्ञानत्वेन संभावितशिरांसि विकल्पयति अज्ञानं नामेति ।
 
@@ -5388,7 +5388,7 @@ Now the 'I' constitutes the essential nature of the Self; how then can the consc
 अहमित्येवात्मनस्स्वरूपमिति स्वरूपज्ञानरूपोऽहम्प्रत्ययो नाज्ञत्वमापादयति, कुतस्संसारित्वम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहंप्रत्ययस्य स्वरूपज्ञानरूपत्वात् तत्प्रागभावान्यथाज्ञानविपरीतज्ञानानि विरोधादेवापगतानीत्याह अहमित्येवेति ।
 
@@ -5434,7 +5434,7 @@ In agreement with this we observe that persons like the r̥shi Vāmadeva, in who
 ब्रह्मात्मभावापरोक्ष्यनिर्धूतनिरवशेषाविद्यानामपि वामदेवादीनामहमित्येव आत्मानुभवदर्शनाच्च।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निवृत्ताविद्यानामपि अहमित्यात्मप्रतिपत्तिदर्शनेन अहम्प्रत्ययस्य मुक्तावृत्तिमाह ब्रह्यात्मभावेति ।
 </details>
@@ -5459,7 +5459,7 @@ for scripture says, 'Seeing this the r̥shi Vāmadeva understood, I was Manu and
 
 श्रूयते हि – तद्धैतत्पश्यन्नृषिर्वामदेवः प्रतिपेदे अहं मनुरभवं सूर्यश्च (बृ.१.४.१०) इति, </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तद्धैतत्पश्यन् इति ब्रह्मात्मकत्वसाक्षात्कारकथनेन निर्धूतनिरवशेषाविद्यत्वं गम्यते ।
 </details>
@@ -5504,7 +5504,7 @@ And the highest Brahman also, which is opposed to all other forms of Nescience a
 सकलेतराज्ञानविरोधिनः सच्छब्दप्रत्ययमात्रभाजः परस्य ब्रह्मणो व्यवहारोऽप्येवमेव 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ब्रह्मणोऽपि तथा प्रतिपत्तिमाह सकलेतरेति ।
 
@@ -5531,7 +5531,7 @@ And the highest Brahman also, which is opposed to all other forms of Nescience a
 हन्ताहमिमास्तिस्रो देवताः (छा.६.३.२), बहु स्यां प्रजायेय (तै.आन.६.२), स ईक्षत लोकान्नु सृजा इति; (ऐत १.१.१),
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 बहु स्यामिति वाक्ये "अस्मद्युतम" इत्युत्तमपुरुषबलादहमिति प्रत्ययस्सिद्धिः ।
 
@@ -5568,7 +5568,7 @@ and again, 'Since I transcend the Destructible, and am higher also than the Inde
 तथा यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः। अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः (भ.गी.१५.१८), 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्मृतिं दर्शयति तथा यस्मादिति ।
 
@@ -5608,7 +5608,7 @@ and again, 'Since I transcend the Destructible, and am higher also than the Inde
 अहमात्मा गुडाकेश (भ.गी. १०.२०), न त्वेवाहं जातु नासम् (भ.गी. २.१२), अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा (भ.गी.७.६), अहं सर्वस्य प्रभवो मत्तस्सर्वं प्रवर्तते (भ.गी.१०.८), तेषामहं समुद्धर्ता मृत्युसंसारसागरात् (भ.गी.१२.७), अहं बीजप्रदः पिता (भ.गी.१४.४), वेदाहं समतीतानि – (भ.गी.७.२६) इत्यादिषु॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आत्मनो अहम्प्रत्ययं ज्ञापयति- अहमात्मेति । न ह्यहङकारश्चिदचिदन्तरात्मा ।
 
@@ -5641,7 +5641,7 @@ But if the 'I' (aham) constitutes the essential nature of the Self, how is it th
 यद्यहमित्येवात्मनः स्वरूपम्, कथं तर्ह्यहङ्कारस्य क्षेत्रान्तर्भावो भगवतोपदिश्यते – महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च (भ.गीता.१३.५) इति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "महाभूतान्यहङ्कार" इति क्षेत्रान्तर्भाववचनमेकम्, "अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम् । विमुच्य निमर्मः शान्तो ब्रह्मभूयाय कल्पते ॥" इति त्याज्यत्वपरं वचनं द्वितीयम्, "अहङ्कारविमूढात्मा" इत्यपरम्; एतत्त्रयमनुदाहृतमप्यभिप्रेतम् उतरत्र प्ररिहारात् ।
 
@@ -5669,7 +5669,7 @@ As in all passages, we reply, which give information about the true nature of th
 उच्यते, स्वरूपोपदेशेषु सर्वेष्वहमित्येवोपदेशात् तथैवात्मस्वरूपप्रतिपत्तेश्चाहमित्येव प्रत्यगात्मनस्स्वरूपम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहमर्थाहङ्कारयोरभेदबुध्द्या परेण चोदिते प्रकृति प्रत्यययोरर्थविभागव्युत्पादनाय प्रकृत्यर्थभूत आत्मन्यहभ्बुद्धेः प्रामाणिकत्वस्थैर्यं दर्शयति स्वरूपोपदेशेष्विति ।
 </details>
@@ -5689,7 +5689,7 @@ Where, on the other hand, the Holy One declares the ahaṁkāra – a special ef
 अव्यक्तपरिणामभेदस्य अहङ्कारस्य क्षेत्रान्तर्भावो भगवतैवोपदिश्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अन्यथासिद्धिं दर्शयन् तत्राहङ्कारशब्दविवक्षितमाह अव्यक्तेति ।
 
@@ -5723,7 +5723,7 @@ he means that principle which is called ahaṁkāra, because it causes the assum
 स त्वनात्मनि देहेऽहम्भावकरणहेतुत्वेन अहङ्कार इत्युच्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथाहङ्कारशब्दस्याव्यक्तपरिणामविशेषवाचकत्वप्रकारं दर्शयति स त्विति ।
 
@@ -5752,7 +5752,7 @@ This sentence is omitted in Thibaut's translation.
 अस्य त्वहङ्कारशब्दस्य अभूततद्भावेऽर्थे च्विप्रत्ययमुत्पाद्य व्युत्पत्तिर्द्रष्टव्या।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सर्वत्राहं शब्दार्थमेकरूपमङ्गीकृत्याहङ्काराब्दस्याव्यक्तपरिणामवाचित्वं शब्दानुशासनप्रक्रिययोपपादयति अस्य त्विति । च्विप्रत्ययस्य सर्वलोपः । कृमः करणे धञ्" । क्षेत्रान्तर्भावोपदेशस्य निर्वाहः कृतः ।
 </details>
@@ -5774,7 +5774,7 @@ Such egoity constitutes the ahaṁkāra also designated as pride or arrogance, w
 अयमेव त्वहङ्कारः उत्कृष्टजनावमानहेतुर्गर्वापरनामा शास्त्रेषु बहुशो हेयतया प्रतिपाद्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "अहङ्कारं बलं दर्पमिति त्याज्यतयोपदेशस्य निर्वाहः क्रियते अयमेव त्विति ।
 
@@ -5804,7 +5804,7 @@ Such consciousness of the 'I' therefore as is not sublated by anything else has 
 तस्माद्बाधकापेताऽहम्बुद्धिस्साक्षादात्मगोचरैव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 हेयोपादेयरूपेण शब्दप्रतिपन्नयोरहम्बुध्द्योर्विषयविभागं निगमयति तस्मादिति ।
 </details>
@@ -5847,7 +5847,7 @@ it is the attribution of Selfhood to what is not the Self.'
 यथोक्तं भगवता पराशरेण श्रूयतां चाप्यविद्यायाः स्वरूपं कुलनन्दन । अनात्मन्यात्मबुद्धिर्या (वि.पु.६.७.१०.११) – इति ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अस्मिन्नर्थे प्रमाणमाह यथोक्तमिति । तत्रैव पुराणे नात्मविषयाहम्बुद्धिवचनयोर्भ्रान्तत्वमात्मविषयेत्व भ्रान्तत्वं च स्पष्टम् । यथा, "आकाशवाऽवभ्निजलपृथिवीभ्यः पृथक्स्थिते । आत्मन्यात्ममयं भावं कः करोति कलेवरे ॥
 
@@ -5875,7 +5875,7 @@ If the Self were pure consciousness then pure consciousness only, and not the qu
 यदि ज्ञप्तिमात्रमेवाऽत्मा, तदाऽनात्मन्यात्माभिमाने शरीरे ज्ञप्तिमात्र-प्रतिभासस्स्यात्, न ज्ञातृत्वप्रतिभासः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एतद्वचनार्थमप्यहमर्थात्महेतुत्वेनाह यदीति ।
 
@@ -5900,7 +5900,7 @@ The conclusion therefore remains that the Self is nothing but the knowing 'I'.
 तस्माज्ज्ञाताऽहमर्थ एवाऽऽत्मा ।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अहमर्थात्मत्वं निगमयति तस्मादिति ।अस्मिन्नर्थे आत्मसिद्धिग्रन्थमुदाहरति ।
 </details>
@@ -5931,7 +5931,7 @@ Thus it has been said,
 अविद्यायोगतश्चाऽत्मा ज्ञाताऽहमिति भासते॥ इति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदुक्तमिति । धर्मधमिर्भावेन प्रतीतिः, प्रत्यक्षसिद्धिः, स्थिरत्वास्थिरत्वादिवैषम्यम् श्रुत्यर्थापत्तिश्च न्यायः । आगमः उदाहृतोपनिषद्वाक्यानि । अविद्यायोगः- अनन्तरोक्तभ्रान्तियोगः ।
 
@@ -5953,7 +5953,7 @@ And again,
 तथा च
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्ञप्तेरनात्मत्वे चात्मसिद्धिग्रन्थमाह तथा चेति । धीभ्योऽन्य इत्येतदत्रोपयुक्तम् ।
 </details>
@@ -5996,7 +5996,7 @@ Here 'not dependent on other means' means 'self-luminous';
 अनन्यसाधनः – स्वप्रकाशः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 साधनशब्द(पद?)स्योत्पादकज्ञापकसाधारणत्वात् तत् व्याचष्टे अनन्येति ।
 </details>
@@ -6016,7 +6016,7 @@ and 'pervading' means 'being of such a nature as to enter, owing to excessive mi
 व्यापी – अतिसूक्ष्मतया सर्वाचेतनान्तःप्रवेशनस्वभावः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जीवस्वरूपविभुत्वशङ्काव्युदासार्थं व्यापीति शब्दं व्याचष्टे अतीसूक्ष्मेति । पुराणेषु व्याप्तिशब्दप्रयोगात् स एवात्र श्लोके प्रयुक्तः ।
 

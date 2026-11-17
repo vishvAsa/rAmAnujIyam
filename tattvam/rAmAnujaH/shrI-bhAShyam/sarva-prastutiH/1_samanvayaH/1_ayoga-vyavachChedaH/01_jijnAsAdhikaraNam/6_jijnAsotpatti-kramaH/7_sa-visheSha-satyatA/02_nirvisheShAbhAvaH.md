@@ -28,7 +28,7 @@ To enter into details.--Those who maintain the doctrine of a substance devoid of
 तथा हि निर्विशेषवस्तुवादिभिर्निर्विशेषे वस्तुनीदं प्रमाणमिति न शक्यते वक्तुम्, सविशेषवस्तुविषयत्वात्सर्वप्रमाणानाम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तत्र निर्विशेषचिन्मात्रपारमार्थ्यस्य परेण प्रथमप्रतिज्ञातस्य सामान्येन सकलप्रमाणबहिष्कृतत्वरूपं दूषणं प्रथमं प्रतिजानीते निर्विशेषे इति । अर्थात् प्रमाणास्व(प्रमाणा)भावश्च स्वपक्षानुगुणो निरूपितो भवति ।
 </details>
@@ -52,7 +52,7 @@ To enter into details.--Those who maintain the doctrine of a substance devoid of
 यस्तु स्वानुभवसिद्धमिति स्वगोष्ठीनिष्ठस्समयः, सोऽप्यात्मसाक्षिकसविशेषानुभवादेव निरस्तः इदमहमदर्शम् इति केनचिद्विशेषेण विशिष्टविषयत्वात् सर्वेषामनुभवानाम् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वपुण्यमपि स्वानुभवसिद्धमिति वक्तुं शक्यमिति तद्रव्यावृत्त्यर्थमिदंशब्दः ।
 
@@ -115,7 +115,7 @@ this determination could be effected only by means of some special attributes ad
 सविशेषोऽप्यनुभूयमानोऽनुभवः केनचिद्युक्त्याभासेन निर्विशेष इति निष्कृष्यमाणः सत्तातिरेकिभिः स्वासाधारणैस्स्वभावविशेषैर्निष्क्रष्टव्य 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सा तु तर्कव्यवस्थापितविषया निर्विशेषे प्रमाणमित्यत्राह सविशेषोऽपीति ।
 
@@ -141,7 +141,7 @@ and owing to these special qualities on which the determination depends, that st
 इति निष्कर्षहेतुभूतैः सत्तातिरेकिभिः स्वासाधारणैस्स्वभावविशेषैस्सविशेष एवावतिष्ठते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यदा निर्विशेष इति निष्कृष्यते, तदानीमेवं हि निष्क्रष्टव्य इत्यर्थः ।
 
@@ -185,7 +185,7 @@ The meaning of the mentioned determination could thus only be that of a thing af
 अतःकैश्चिद्विशेषैर्विशष्टस्यैव वस्तुनोऽन्ये विशेषा निरस्यन्त इति, न क्वचिन्निर्विशेषवस्तुसिद्धिः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न क्वचिदिति ।
 
@@ -243,7 +243,7 @@ And that also in the states of deep sleep, swoon, &c., consciousness is affected
 स्वापमदमूर्च्छासु च सविशेष एवानुभव इति स्वावसरे निपुणतरमुपपादयिष्यामः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ननु न कर्मकर्त्रवच्छिन्नं ज्ञानमात्मभूतम्; अन्यदेव तु स्वापाद्यवस्तानुभूतं निविर्शेषं साध्यत इत्यत्राह स्वापेति । अनुभवः- आत्मस्फुरणम् । न हि तदा धर्मभूतज्ञानस्फुरणम् । स्वावसरे- अहमर्थस्यैवात्मत्वसमर्थने ।
 
@@ -277,7 +277,7 @@ Moreover you yourself admit that to consciousness there actually belong differen
 स्वाभ्युपगताश्च नित्यत्वादयो हि अनेके विशेषाः सन्त्येव । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 मुखान्तरेण सविशेषत्वमाह स्वाभ्युपगताश्चेति । आदिशब्देन स्वप्रकात्वैकत्वाऽनन्द(त)त्वादयो विवक्षिताः ।
 
@@ -310,7 +310,7 @@ and of these it cannot be shown that they are only Being in general.
 ते च न वस्तुमात्रमिति शक्योपपादनाः, 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वमतोपपादनान्न वस्तुमात्रमिति शक्योपपादना इत्यन्वयः । पूर्वं सविशेषत्वनिरासकहेतुभिः सविशेषत्वमुक्तम्; अनन्तरं साध्यधर्मैः; ततः कतिपयविशेषसाधकहेतुभिः ।
 </details>
@@ -357,7 +357,7 @@ It therefore must be admitted that reality is affected with difference well esta
 अतः प्रामाणिकविशेषैर्विशिष्टमेव वस्त्विति वक्तव्यम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एते निरासकसाध्यसाधनधर्मा: अपरमार्था इत्यत्राह अत इति ।
 
@@ -390,7 +390,7 @@ As to sound (speech; śabda) it is specially apparent that it possesses the powe
 शब्दस्य तु विशेषेण सविशेष एव वस्तुन्यभिधानसामर्थ्यम्, पदवाक्यरूपेण प्रवृत्तेः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इत्थं स्वानुभवप्रसङ्गात् तत्रापि सविशेषत्वमुपपादितम्; अथ प्रथमप्रतिज्ञातं सर्वप्रम्राणानां सविशेषविषयत्वं वक्तुमारभते; तत्र परेण प्रत्यक्षाद्बलीस्त्यवेनोक्तत्वात् सविशेषबोधकत्वातिशयस्य स्वाभिमतत्वाच्च प्रथमं शब्दस्य सविशेषयत्वमाह शब्दस्य त्विति । तु शब्दः परोक्तबलीयस्त्वशूचकः । विशेषेणेतिपदेन सविशेषवस्तुबोधकत्वातिशय उच्यते ।
 
@@ -417,7 +417,7 @@ Speech operates with words and sentences.
 प्रकृतिप्रत्यययोगेन हि पदत्वम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किं सविशेषविषयत्वस्येति शङ्कायां पदरूपेण प्रवृत्तिं विवृणोति प्रकृतीति ।
 </details>
@@ -439,7 +439,7 @@ Now a word (pada) originates from the combination of a radical element and a suf
 प्रकृतिप्रत्यययोरर्थभेदेन पदस्यैव विशिष्टार्थप्रतिपादनमवर्जनीयम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह प्रकृतिप्रत्यययोरिति ।
 
@@ -463,7 +463,7 @@ And further, the plurality of words is based on plurality of meanings;
 पदभेदश्चार्थभेदनिबन्धनः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 वाक्यरूपेण प्रवृत्तिं विवृणोति पदभेदश्चेति । पदभेदः- पदानां परस्परभेदः ।
 
@@ -491,7 +491,7 @@ the sentence therefore which is an aggregate of words expresses some special com
 पदसङ्घातरूपस्य वाक्यस्यानेकपदार्थसंसर्गविशेषाभिधायित्वेन निर्विशेषवस्तुप्रतिपादनासामर्थ्यात्, न निर्विशेषवस्तुनि शब्दः प्रमाणम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पदभेदस्यार्थभेदनिबन्धनत्वेऽपि वाक्यैकत्वात् निर्विशेषत्वसिद्धिरिति शङ्कायां वाक्यस्य सविशेषविषयत्वं वदन् निर्विशेषे प्रमाणाभावमुपसंहरति पदसङ्घातेति ।
 
@@ -531,7 +531,7 @@ Perception in the next place – with its two subdivisions of non-determinate (n
 प्रत्यक्षस्य निर्विकल्पकसविकल्पकभेदभिन्नस्य न निर्विशेषवस्तुनि प्रमाणभावः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं ज्ञानस्वरूप आत्मन्यन्तरङ्गतया स्वानुभवशब्दौ निरूपितौ । अथ व्यतिरिक्तप्रमाणेषु मूलभूतस्य प्रत्यक्षस्य सविशेषविषयत्वमुपपादयति प्रत्यक्षस्येत्यादिना । निर्विकल्पकानुभूतार्थस्य सविकल्पके प्रतिसन्धानस्य वक्ष्यमाणत्वात्तदुपयोगित्वेन च सविकल्पकस्वरूपं प्रदर्शितम् । अथ निर्विकल्पकस्य सविशेषविषयत्वं प्रतिजानीते ।
 </details>
@@ -573,7 +573,7 @@ But also non-determinate perception has for its object only what is marked with 
 निर्विकल्पकमपि सविशेषविषयमेव, सविकल्पके स्वस्मिन्ननुभूतपदार्थविशिष्टप्रतिसन्धानहेतुत्वात्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निर्विकल्पकमपीति ।
 
@@ -605,7 +605,7 @@ Apprehension of the latter kind is in the first place not observed ever to take 
 निर्विकल्पकं नाम केनचिद्विशेषेणवियुक्तस्य ग्रहणम्, न सर्वविशेषरहितस्य, तथाभूतस्य कदाचिदपि ग्रहणादर्शनादनुपपत्तेश्च।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कथं प्रतिसन्धानम्; सकलविशेषशून्यविषयं हि निर्विकल्पकमिति हेत्वसिद्धिमाशङ्क्याह निर्विकल्पकं नामेति ।
 
@@ -642,7 +642,7 @@ for all apprehension by consciousness takes place by means of some distinction '
 केनचिद्विशेषेण इदमित्थमिति हि सर्वा प्रतीतिरुपजायते, त्रिकोणसास्नादिसंस्थानविशेषेण विना कस्यचिदपि पदार्थस्य ग्रहणायोगात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इदमित्थमिति प्रतीतिमेव विवृण्वन् अर्थात् सकलविशेषशून्यग्रहणकल्पनामपि व्युदस्यति त्रिकोणेति ।
 
@@ -674,7 +674,7 @@ The true distinction between non-determinate and determinate perception is that 
 अतो निर्विकल्पकमेकजातीयद्रव्येषु प्रथमपिण्डग्रहणम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं साधकप्रमाणाभावबाधकप्रमाणसद्भावाभ्यां विवक्षितकतिपयविशेषशून्यग्रहणं निर्विकल्पकमिति सिद्धम् । अनेन निर्विकल्पकशब्दस्य सङ्कुचितवृत्तित्वं फलितम् ।
 
@@ -715,7 +715,7 @@ On the apprehension of the first individual cow the perceiving person is not con
 तत्र प्रथमपिण्डग्रहणे गोत्वादेरनुवृत्ताकारता न प्रतीयते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रथमद्वितीयपिण्डयोः सविकल्पकनिर्विकल्पकशब्दौ न सङ्केतितौ; अतस्तयोः पिण्डयोर्वैषम्यं वक्तव्यमिति शङ्कायां ग्राह्याकारभेदं दर्शयति तत्रेत्यादिना वाक्यद्वयेन ।
 
@@ -780,7 +780,7 @@ while this special consciousness arises in the case of the perception of the sec
 द्वितीयादिपिण्डग्रहणेषु एवानुवृत्तिप्रतीतिः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनुवृत्तिग्रहणविधुरप्रथमेतरग्रहणे कथं सविकल्पकत्वम्? इत्यत्राह द्वितीयादीति । द्वितीयादिपिण्डग्रहणेषु- द्वितीयादित्वेन पिण्डग्रहणेषु ।
 
@@ -808,7 +808,7 @@ such determination being ascertained only on the apprehension of the second indi
 प्रथमप्रतीत्यनुसंहितवस्तुसंस्थानरूपगोत्वादेः अनुवृत्तिधर्मविशिष्टत्वं द्वितीयादि-पिण्डग्रहणावसेयमिति, द्वितीयादिग्रहणस्य सविकल्पकत्वम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एतेन न केवलं जात्यनुवृत्त्यैव सविकल्पकत्वम्; जातिगुणादिष्वन्यतमानुवृत्तिविशिष्टग्रहणमपि सविकल्पकमिति सिद्धम् । सवर्विधानुवृत्तिविकलग्रहणमेव निर्विकल्पकम् । यथा एकव्यक्तौ प्रथमाक्षसन्निपातजं ज्ञानम् ॥ नन्वेकव्यक्तावपि संस्कारजन्यं देशकालाद्यनुवृत्तिविशिष्टग्रहणं सविकल्पकं स्यात् ॥ स्यादेव; संस्कारजन्यत्वअनुवृत्तिगोचत्वाविशेषात् ।
 </details>
@@ -834,7 +834,7 @@ That it is such is not due to non-apprehension of structure, colour, generic cha
 सास्नादिवस्तुसंस्थानरूपगोत्वादेः अनुवृत्तिर्न प्रथमपिण्डग्रहणे गृह्यत इति, प्रथमपिण्डग्रहणस्य निर्विकल्पकत्वम्, न पुनस्संस्थानरूपजात्यादेरग्रहणात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एकजातीयद्रव्येषु प्रथमपिण्डग्रहणमित्युक्तिस्तु जात्यनुवृत्तिप्रदर्शनार्था ।
 </details>
@@ -877,7 +877,7 @@ In the case of the second, third, &c., individuals, on the other hand, we appreh
 अतो द्वितीयादिपिण्डग्रहणेषु गोत्वादेरनुवृत्तिधर्मविशिष्टता संस्थानिवत्संस्थानवच्च सर्वदैव गृह्यत इति तेषु सविकल्पकत्वमेव। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 संस्थानिवत्संस्थानवदिति दृष्टान्तप्रदर्शनं स्पष्टीकरणार्थम् ।
 
@@ -904,7 +904,7 @@ From all this it follows that perception never has for its object that which is 
 अतः प्रत्यक्षस्य कदाचिदपि न निर्विशेषविषयत्वम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 द्विविधस्यापि प्रत्यक्षस्य सविशेषविषयत्वं निगमयति अत इति ।
 </details>
@@ -932,7 +932,7 @@ The same arguments tend to refute the view that there is difference and absence 
 अत एव सर्वत्र भिन्नाभिन्नत्वमपि निरस्तम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रसङ्गात् भेदाभेदं निराकरोति अत एवेति । अत एव प्रथमपिण्डग्रहणस्य विशिष्टविषयत्वसमर्थनेन ।
 
@@ -958,7 +958,7 @@ Take the judgment 'This is such and such'; how can we realise here the non-diffe
 इदमित्थमिति प्रतीताविदमित्थम्भावयोरैक्यं कथमिव प्रत्येतुं शक्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कथमित्यत्राह इदमित्थमिति ।
 
@@ -989,7 +989,7 @@ The 'such and such' denotes a peculiar make characterised, e.g. by a dewlap, the
 त त्रेत्थम्भावस्सास्नादिसंस्थानविशेषः, तद्विशेष्यं द्रव्यमिदमंश इत्यनयोरैक्यं प्रतीतिपराहतमेव। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इत्थमंशः कः; इदमंशः क इत्यत्राह तत्रेति ।
 
@@ -1015,7 +1015,7 @@ At the outset the thing perceived is perceived as separate from all other things
 तथा हि – प्रथममेव वस्तु प्रतीयमानं सकलेतरव्यावृत्तमेव प्रतीयते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तान् हृदि कृत्वा प्रथमपिण्डग्रहणेअभेदेन ग्रहणं व्युदस्यति प्रथममेवेत्यादिना ।
 
@@ -1040,7 +1040,7 @@ and this separation is founded on the fact that the thing is distinguished by a 
 व्यावृत्तिश्च गोत्वादिसंस्थानविशेषविशिष्टतयेत्थमिति प्रतीतेः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किं भेदेन ग्रहणस्य इत्यत्राह व्यावृत्तिश्चेति ।
 
@@ -1066,7 +1066,7 @@ In general, wherever we cognise the relation of distinguishing attribute and thi
 सर्वत्र विशेषणविशेष्यभावप्रतिपत्तौ तयोरत्यन्तभेदः प्रतीत्यैव सुव्यक्तः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 गोत्वादिविशिष्टतया प्रतीतिरस्तु, तथाप्यभेदः स्वप्रमाणेन प्रसजन् न (प्रसज्यते चेत्, न) निवार्यत इत्यत्राह सर्वत्रेति । सर्वत्र- गोत्वतदाश्रयादिषु, दण्डकुण्डलादिषु च ।
 
@@ -1094,7 +1094,7 @@ Somethings – e.g. staffs and bracelets – appear sometimes as having a separa
 तत्र दण्डकुण्डलादयः पृथक्संस्थानसंस्थिताः स्वनिष्ठाश्च कदाचित्क्वचिद् द्रव्यान्तरविशेषणतयाऽवतिष्ठन्ते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उभयत्राऽत्यन्तभेदोऽस्ति चेत्, मत्त्वर्थीयप्रत्ययनिरपेक्षसामानाधिकरण्यमेकशब्दानुविद्धप्रत्ययः सहोपलम्भनियमश्च कथमेकत्र दृश्यते नान्यत्रेत्यत आह तत्रेति । तत्र गोत्वतदाश्रयदण्डदण्ड्यादिवर्गे । पृथक्संस्थानविशिष्टस्वपर्यवसितकादाचित्कविशेषणभावो मत्वर्थीयप्रत्ययसापेक्षसामानाधिकरण्यप्रत्यये प्रयोजकः । द्रव्यसंस्थानतयैव पदार्थत्वेन तत्पर्यन्तत्वात् तद्विशेषणतयैव स्थितिर्मत्वर्थीयप्रत्ययनिरपेक्षसामानाधिकरण्ये प्रयोजिका ।
 
@@ -1138,7 +1138,7 @@ In both cases there is the same relation of distinguishing attribute and thing d
 उभयत्र विशेषणविशेष्यभावस्समानः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यद्येवं जातिकुण्डलादेर्वैषम्यम्, यदि विशेषणविशेष्यभावसाम्यादुभयत्र भेदः साध्यते, तर्हि सहोपलम्भनियमादिवैषम्ये(ण) एकत्वमपि स्यादित्यत आह उभयत्रेति । विशेषणविशेष्यभावा(दि)विशेषात् तत्प्रयुक्तभेदप्रतिपत्तिरनिवार्या; विशेषणविशेष्यभावे सति भेदस्यापि संप्रतिपत्तेः । सहोपलम्भनियमे ऐक्यं हि विमतम् । अतो न सम्प्रतिपन्नभेदविरुद्धाभेदः कल्प्यः ।
 
@@ -1184,7 +1184,7 @@ The difference between the two classes of entities is only that staffs, bracelet
 इयांस्तु विशेषः पृथक् स्थितिप्रतिपत्तियोग्या दण्डादयः, गोत्वादयस्तु नियमेन तदनर्हा इति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 गोत्वतदाश्रयादिष्वेव सहोपलम्भनियमः, नान्यत्रेति व्यवस्थासिध्द्यर्थमैक्यं कल्पनीयमिति चेत् तत्राह इयांस्त्विति ।
 
@@ -1220,7 +1220,7 @@ The assertion, therefore, that the difference of things is refuted by immediate 
 अतो वस्तुविरोधः प्रतीतिपराहत इति प्रतीतिप्रकारनिह्नवादेवोच्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 घटे पटस्याभावो भेदः, तत्र तस्य सद्भावो अभेद इति भावाभावविरोधस्य, "न हि दृष्टेऽनुपपन्नं नाम" इति न्यायात् प्रतीतिपराहतत्वमाशङ्कयाह अत इति । अतः इत्थं भेदसामानाधिकरण्येनाभेदस्य प्रतीत्यभावात् ॥
 
@@ -1263,7 +1263,7 @@ the one namely – admitted by every one – which is expressed in the judgment 
 तदेतत्सूत्रकारेण नैकस्मिन्नसम्भवात् (ब्र.सू.२.२.३१) इति सुव्यक्तमुपपादितम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं भेदाभेदनिरासस्य सूत्रकाराभिमतत्वमाह तदेतदिति ।
 </details>
@@ -1296,7 +1296,7 @@ Perception thus having for its object only what is marked by difference, inferen
 अतः प्रत्यक्षस्य सविशेषविषयत्वेन प्रत्यक्षादिदृष्टसम्बन्धविशिष्टविषयत्वादनुमानमपि सविशेषविषयमेव। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ प्रमाणान्तराणां प्रत्यक्षमूलत्वात् तेषामपि सविशेषविषयत्वमाह अत इति ।
 
@@ -1321,7 +1321,7 @@ And thus, even in the case of disagreement as to the number of the different ins
 प्रमाणसङ्ख्याविवादेऽपि सर्वाभ्युपगतप्रमाणानामयमेव विषय इति न केनापि प्रमाणेन निर्विशेषवस्तुसिद्धिः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रमाणान्तराम्युपगमेऽपि तेषां सविशेषविषयत्वमाह प्रमाणसङ्खयेत्यादिना ।
 </details>
@@ -1348,7 +1348,7 @@ And a person who maintains the existence of a thing devoid of difference on the 
 वस्तुगतस्वभावविशेषैस्तदेव वस्तु निर्विशेषमिति वदन् जननीवन्ध्यात्वप्रतिज्ञायामिव स्ववाग्विरोधमपि न जानाति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रमाणानि सविशेषविषयाणि स्युः, तानि तर्कपराहतानीति सङ्कायाम्- अस्मिन् सर्वप्रमाणसविशेषविषयत्वविस्तरोक्तिसमयेऽपि पूर्वं तत्सङ्ग्रहोक्ताविव, बुद्धिस्थस्वसिद्धिवादेऽपि न निर्विशेषत्वसिद्धिरिति ज्ञापनाय, "सविशेषत्वबाधकतया परोक्तयुक्तयम्युपगमेऽपि युक्तिरूपविशेषैः सविशेषत्वमवर्जनीयम्" इति पूर्वोक्तं स्मारयन् विरोधं च दर्शयति वस्तुगतेति ।
 
@@ -1386,7 +1386,7 @@ In reply to the assertion that perception causes the apprehension of pure Being 
 यत्तु प्रत्यक्षं सन्मात्रग्राहित्वेन न भेदविषयम्, भेदश्च विकल्पासहत्वाद्दुर्निरूपः – इत्युक्तम्, 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं निर्विशेषचिन्मात्रपारमार्थ्यव्यतिरिक्तापारमार्थ्यप्रतिज्ञाबाधः सामान्येन सर्वप्रमाणसविशेषगोचरत्वेन दर्शितः ।अथ परोक्तं प्रमाणतर्कजातं विशेषतो दूषयितुमुपकमते । शास्त्रबलीयस्त्वमिच्छता परेण प्रथमं शास्त्रमुपन्यस्तम् तदनिच्छता प्रत्यक्षाविरुद्देऽर्थे शास्त्रं प्रमाणयता सिद्धान्तिना प्रत्यक्षस्य सन्मात्रविषयत्वं निराक्रियते । तत्र प्रत्यक्षस्य सन्मात्रविषयत्व, भेदस्य दुर्निरूपत्वे च परोक्तं कुतर्कमनूद्य निरस्यति यत्त्विति ।
 
@@ -1414,7 +1414,7 @@ the only objects of perception are things distinguished by generic character and
 तदपि जात्यादिविशष्टस्यैव वस्तुनः प्रत्यक्षविषयत्वाज्जात्यादेरेव प्रतियोग्यपेक्षया वस्तुनस्स्वस्य च भेदव्यवहारहेतुत्वाच्च दूरोत्सारितम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदपीति ।
 
@@ -1451,7 +1451,7 @@ You yourself admit that in the case of knowledge and in that of colour and other
 संवेदनवद्रूपादिवच्च परत्र व्यवहारविशेषहेतोस्स्वस्मिन्नपि तद्व्यवहारहेतुत्वं युष्माभिरभ्युपेतं भेदस्यापि सम्भवत्येव।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जात्यादेरेवेत्यभिप्रेतं भेदस्य स्वपरनिर्वाहकत्वं परोक्तयुकत्वैव दर्शयति संवेदनवदित्यादिना ।
 
@@ -1474,7 +1474,7 @@ For this reason the charge of a regressus in infinitum and a logical seesaw (see
 अत एव च नानवस्थाऽन्योन्याश्रयणं च। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अनेन परोक्तदूषणस्य परिहृतत्वं दर्शयति अत एवेति ।
 
@@ -1503,7 +1503,7 @@ For even if perceptive cognition takes place within one moment, we apprehend wit
 एकक्षणवर्तित्वेऽपि प्रत्यक्षज्ञानस्य तस्मिन्नेव क्षणे वस्तुभेदरूपतत्संस्थानरूपगोत्वादेर्गृहीतत्वात् क्षणान्तरग्राह्यं न किञ्चिदिह तिष्ठति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रत्यक्षज्ञानस्य त्रिचतुरक्षणमात्रवर्त्तित्वेऽपि एकक्षणवर्त्तित्वमभ्युपगम्य परिहरति एकक्षणवर्त्तित्वेऽपीति ।
 
@@ -1542,7 +1542,7 @@ Moreover, if perception made us apprehend only pure Being judgments clearly refe
 अपि च सन्मात्रग्राहित्वे घटोऽस्ति, पटोऽस्ति इति विशिष्टविषया प्रतीतिर्विरुध्यते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "स्वशास्त्रनिर्णये सत्ये सत्याः स्युर्लोकनिर्णयाः । स्वशास्त्रनिर्णयेऽसत्ये सत्याः स्युर्लोकनिर्णयाः ॥" इति । उक्तविकल्पेषु पूर्वे चत्वारः पक्षाः अपिचेत्यादिना भाष्येण वक्ष्यमाणेनाभिप्रेता इति तेषां निरस्तत्वं तत्र ज्ञास्यते ।
 
@@ -1581,7 +1581,7 @@ And if through perception we did not apprehend difference – as marked by gener
 यदि च सन्मात्रातिरेकिवस्तुसंस्थानरूपजात्यादिलक्षणो भेदः प्रत्यक्षेण न गृहीतः किमित्यश्वार्थी महिषदर्शने निवर्तते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रथमं प्रतिपत्तिविरोध उच्यते सन्मात्रेति; यदिचेत्यादिना व्यवहारविरोधः; सर्वास्वित्यादिना शब्दविरोधः ॥ नन्वेकत्र स्मर्यन्त एव सर्वे शब्दाः, सर्वप्रतीतीनां सन्मात्रविषयत्वाभ्युपगमात् ॥ नैवम्, घटे प्रतिपन्ने तत्र पटव्यवहाराप्रसङ्गस्यभिप्रेतत्वात् ।
 
@@ -1626,7 +1626,7 @@ And further, if the cognition of a horse and that of an elephant had one object 
 किञ्च, अश्वे हस्तिनि च संवेदनयोरेकविषयत्वेन उपरितनस्य गृहीतग्राहित्वाद्विशेषाभावाच्च स्मृतिवैलक्षण्यं न स्यात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किञ्चेत्यादिना प्रतीत्यवान्तरजातिविशेषविरोध उक्तः । अत्र सन्मात्रशब्दाप्रयोगः किञ्चशब्देन दूष्यार्थप्रतिसन्धानात् ।
 </details>
@@ -1649,7 +1649,7 @@ If on the other hand a difference is admitted for each state of consciousness, w
 प्रतिसंवेदनं विशेषाभ्युपगमे प्रत्यक्षस्य विशिष्टार्थविषयत्वमेवाभ्युपगतं भवति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 धारावाहिकज्ञानेषु कालभेदो ऽस्तीति तद्वयावृत्त्यर्थं विशेषाभावादित्युक्तम् ।
 </details>
@@ -1765,7 +1765,7 @@ If moreover the senses had for their object mere Being free from all difference,
 निर्विशेषसन्मात्रस्य च प्रत्यक्षेणैव ग्रहणे तद्विषयागमस्य प्राप्तविषयत्वेनानुवादकत्वमेव स्यात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्मृतिवैलक्षण्यं न स्यादिति ।
 
@@ -1809,7 +1809,7 @@ And further, according to your own doctrine, mere Being, i.e. Brahman, would hol
 सन्मात्रब्रह्मणः प्रमेयभावश्च। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 श्रुतिप्रामाण्यविरोध उक्तः; पराभिमतार्थान्तरविरोधमाह सन्मात्रब्रह्मण इति ।
 </details>
@@ -1831,7 +1831,7 @@ and thus there would cling to it all the imperfections indicated by yourself –
 ततो जडत्वनाशित्वादयस्त्वयैवोक्ताः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः फलितमनिष्टमाह तत इति ।
 </details>
@@ -1855,7 +1855,7 @@ and thus there would cling to it all the imperfections indicated by yourself –
 अतो वस्तुसंस्थानरूपजात्यादिलक्षणभेदविशष्टमेव प्रत्यक्षम् ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवमुपपादितं प्रत्यक्षस्य सन्मात्रग्राहित्वप्रतिक्षेपं स्वाभिमतार्थान्तरव्युत्पादनाय प्रत्यक्षस्य विशिष्टविषयत्वे पर्यवसाययति अत इति ।
 
@@ -1883,7 +1883,7 @@ and thus there would cling to it all the imperfections indicated by yourself –
 संस्थानातिरेकिणोऽनेकेष्वेकाकारबुद्धिबोध्यस्यादर्शनात्, तावतैव गोत्वादिजातिव्यवहारोपपत्तेः, अतिरेकवादेऽपि संस्थानस्य सम्प्रतिपन्नत्वाच्च संस्थानमेव जातिः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 किं दर्शनेन अनुपपत्त्या वा उत संस्थानातिरिक्तजात्यभ्युपगम इति विकल्पभिप्रेत्य, दर्शनं नेत्याह संस्थानातिरेकिण इति ।
 
@@ -1915,7 +1915,7 @@ By 'structure' we understand special or distinctive form; and we acknowledge dif
 संस्थानं नाम स्वासाधारणं रूपमिति यथावस्तु संस्थानमनुसन्धेयम्; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तृतीये गत्याभावात् अस्मत्पक्षाङ्गीकार इति शङ्कायां निरवयवेष्वपि जातिव्यवहारसिध्द्यर्थं जात्यजातिसाधारणं संस्थानमात्रं(?) दर्शयति संस्थानं नामेति । घटस्य द्रव्यत्वं संस्थानं माभूदित्यसाधारणशब्दः । रूपम्- अपृथक्सिद्धविशेषणम्, तेन गर्भदासादिव्यवच्छेदः ॥
 
@@ -1992,7 +1992,7 @@ And as the current judgments as to things being different from one another can b
 जातिग्रहणेनैव भिन्न इति व्यवहारसम्भवात्, पदार्थान्तरादर्शनात्, अर्थान्तरवादिनाऽपि अभ्युपगतत्वाच्च गोत्वादिरेव भेदः।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इत्थं संस्थानमेव जातिरित्युपपाद्य गोत्वादेरेव भेदत्वं पूर्वप्रस्तुतमुपपादयति जातिग्रहणेनेति ।
 
@@ -2030,7 +2030,7 @@ And as the current judgments as to things being different from one another can b
 ननु च – जात्यादिरेव भेदश्चेत्तस्मिन् गृहीते तद्व्यवहारवद्भेदव्यहारस्स्यात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वं प्रतियोग्यपेक्षया भेदव्यवहार इत्युक्तम्; अत्र तन्निरपेक्षगोत्वादिर्भेद उक्तः ।
 
@@ -2056,7 +2056,7 @@ As a matter of fact the judgment of difference is immediately formulated on the 
 सत्यम्, भेदश्च व्यवह्रियत एव, गोत्वादिव्यवहारात् । 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सत्यमिति । प्रतियोग्यनपेक्षभेदस्वरूपव्यवहारेऽभ्युपगमः,भेदशब्दादिव्यवहारविशेषे त्वनभ्युपगमः ।
 
@@ -2086,7 +2086,7 @@ all thought and speech referring to other creatures belonging to the same wider 
 गोत्वादिरेव हि सकलेतरव्यावृत्तिः, गोत्वादौ गृहीते सकलेतरसजातीयबुद्धिव्यवहारयोर्निवृत्तेः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उपपादयति गोत्वादिव्यवहारादिति ।
 
@@ -2112,7 +2112,7 @@ It is through the apprehension of difference only that the idea of non-differenc
 भेदग्रहणेनैव ह्यभेदनिवृत्तिः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 व्यावृत्तेः सजातीयबुद्धिव्यवहारनिवृत्तिहेतुत्वमस्तु; ततः किं व्यावृत्तेभेदत्वे इत्यत्राह भेदग्रहणेनैव ह्यभेदनिवृत्तिरिति । अभेदनिवृत्तिः- अभेदधीनिवृत्तिः ।
 </details>
@@ -2135,7 +2135,7 @@ It is through the apprehension of difference only that the idea of non-differenc
 अयमस्माद्भिन्नः इति तु व्यवहारे प्रतियोगिनिर्देशस्य तदपेक्षत्वात् प्रतियोग्यपेक्षया भिन्न इति व्यवहार इत्युक्तम्।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एवं गोत्वादेः प्रतीतौ हानोपादानादौ गोत्वादिशब्दव्यवहारे च न प्रतियोग्यपेक्षेत्युक्तम्; तर्हि कथम्,यमस्माद्भिन्न इत्यत्र प्रतियोग्यपेक्षेति शङ्कायामाह अयमस्मादिति ।
 
@@ -2186,7 +2186,7 @@ and the relation between what sublates and what is sublated on the other hand.
 यत्पुनर्घटादीनां विशेषाणां व्यावर्तमानत्वेनापारमार्थ्यमुक्तम्, तदनालोचितबाध्यबाधकभावव्यावृत्त्यनुवृत्तिविशेषस्य भ्रान्तिपरिकल्पितम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इत्थं प्रमाणप्रमेयानुपपत्ती परिहृते; अथ परोक्तमनुमानमनूद्य दूषयति यत्पुनरित्यादिना । पुनःशब्दः केवलतर्कादनुमानस्य वैषम्यं द्योतयति । दृश्यत्वानुमानस्य सूत्रकारैरेव दूषयिष्यमाणत्वाद् वक्ष्यमाणदूषणस्य मिथ्यात्वविषयसर्वानुमानानां दूष्यत्वप्रदर्शनार्थत्वाच्च व्यावर्तमानत्वानुमानमिह दूष्यते । साधारणदूषणानि कालात्ययापदेशसोपाधिकत्वव्याघाताः ।
 
@@ -2259,7 +2259,7 @@ Where two cognitions are mutually contradictory, there the latter relation holds
 द्वयोर्ज्ञानयोर्विरोधे हि बाध्यबाधकभावः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वं परेण बाधस्यापि पक्षाद्(द?) व्यावृत्त्युपपादनेनोपाधित्वं प्रत्युक्तम्; तद्वयुदासाय पक्षे बाधाभावं दर्शयितुं बाघं शिक्षयति द्वयोरिति ।
 
@@ -2282,7 +2282,7 @@ and there is non-persistence of what is sublated.
 बाधितस्यैव व्यावृत्तिः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 बाधितस्यैव व्यावृत्तिरिति ।
 
@@ -2308,7 +2308,7 @@ But jars, pieces of cloth and the like, do not contradict one another, since the
 अत्र घटपटादिषु देशकालभेदेन विरोध एव नास्ति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किं पक्षे बाधाभावस्येत्यत्राह अत्रेति ।
 </details>
@@ -2335,7 +2335,7 @@ If on the other hand the non-existence of a thing is cognised at the same time a
 यस्मिन् देशे यस्मिन् काले यस्य सद्भावः प्रतिपन्नः; तस्मिन्देशे तस्मिन्काले तस्याभावः प्रतिपन्नश्चेत्; तत्र विरोधात् बलवतो बाधकत्वं बाधितस्य च निवृत्तिः; 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 देशयोः कालयोश्च भेदे सति अविरोधं दर्शयितुं तयोरैक्ये विरोधबाधौ दर्शयति यस्मिन्निति ।
 </details>
@@ -2375,7 +2375,7 @@ or how can it be said that of a thing absent at one time and place there is abse
 अन्यत्र निवृत्तस्यान्यत्र निवृत्तिर्वा कथमुच्यते, 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 भावाभावविरोधादन्यतरस्य बाध्यत्वे सति बलवतो बाधकत्वमितरस्य बाधितत्वात् निवृत्तिश्चेत्यर्थः । च एवार्थे ।
 
@@ -2405,7 +2405,7 @@ hence there is contradiction, one judgment sublates the other and the sublated c
 रज्जुसर्पादिषु तु तद्देशकालसम्बन्धितयैवाभावप्रतीतेः विरोधो बाधकत्वं व्यावृत्तिश्चेति 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 एतद्वैधर्म्यं दृष्टान्तेन विवृणोति रज्जुसर्पादिष्विति । तुशब्दो घटादिवैषम्यपरः ।
 </details>
@@ -2428,7 +2428,7 @@ But the circumstance of something which is seen at one time and in one place not
 देशकालान्तरव्यावर्तमानत्वं (देशकालान्तरदृष्टस्य देशान्तरकालान्तरव्यावर्तमानत्वं) – मिथ्यात्वव्याप्तं न दृष्टमिति न व्यावर्तमानत्वमात्रमपारमार्थ्यहेतुः॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इत्यं दूषणोपयोगिनी व्याप्तिः शिक्षिता; अथानुमानदूषणसिद्धिं दशर्यति इति देशकालान्तरेति । इतिर्हेतौ । मिथ्यात्वं व्यापकम्; व्यावर्तमानत्वं व्याप्यम् ।
 
@@ -2495,7 +2495,7 @@ To say, on the other hand, that what is is real because it persists, is to prove
 यत्तु अनुवर्तमानत्वात्सत्परमार्थः – इति, तत्सिद्धमेवेति न साधनमर्हाति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ पारमार्थ्यसाधकत्वेनोक्तमनुवर्त्तमानस्वं दूषयति यत्त्वित्यादिना ।
 
@@ -2524,7 +2524,7 @@ Hence mere Being does not alone constitute reality.
 अतो न सन्मात्रमेव वस्तु॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 निगमयति अत इति । परेण प्रमाणप्रमेयानुपपत्तिकृतं भेददूषणमुपजीव्य अनुभूतेः सतो(अनुभूतिसतोः) भेदोऽपास्तः ।
 </details>

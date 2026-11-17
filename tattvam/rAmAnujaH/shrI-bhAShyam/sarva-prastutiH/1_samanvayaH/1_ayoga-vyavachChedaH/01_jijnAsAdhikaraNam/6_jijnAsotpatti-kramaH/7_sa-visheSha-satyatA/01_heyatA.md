@@ -19,7 +19,7 @@ By men who are destitute of those particular qualities which cause individuals t
 तदिदमौपिनषदपरमपुरुषवरणीयताहेतु गुणविशेषविरहिणाम्  
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ कर्मविचारपूर्ववृत्तत्वविरोधिवस्तुसामर्थ्यनिरासार्थं परोक्तानामुपायोपेयनिवर्त्यानां प्रमाणतर्काभासमूलत्वं प्रतिजानीते(प्रतिजानाति) तदिदमिति । स्वाभिमतानामेव तेषां प्रमाणतर्कोपपन्नतां च संक्षेपेण प्रतिजानाति ।
 
@@ -91,7 +91,7 @@ and into the procedure of sound argumentation, with all its methods depending on
 अनधिगतपदवाक्यस्वरूपतदर्थयाथात्म्यप्रत्यक्षादिसकलप्रमाणवृत्ततदितिकर्तव्यतारूप-समीचीन-न्यायमार्गाणां
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 दूषितशेमुषीकत्वफलं सम्यग्ज्ञानाभावमाह अनधिगतेति ।
 
@@ -133,7 +133,7 @@ this entire theory rests on a fictitious foundation of altogether hollow and vic
 विकल्पासहविविधकुतर्ककल्ककल्पितमिति, 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तर्हि किमवलम्व्य प्रबन्धाः कृता इत्यत्राह विकल्पासहेति । कुतर्काः- प्रमाणविरुद्धाः मूलशैथिल्यमिथोविरोधादिदोषान्तराक्रान्ताश्च तर्काः ।
 
@@ -162,7 +162,7 @@ The theory therefore must needs be rejected by all those who, through texts, per
 न्यायानुगृहीतप्रत्यक्षादिसकलप्रमाणवृत्त-याथात्म्यविद्भिरनादरणीयम्॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 केषाञ्चित् समीचीनार्थान्तरविषयज्ञानेऽसत्यप्यस्यासमीचीनत्वनिश्चयः कथमित्यत्राह न्यायानुगृहीतप्रत्यक्षादिसकलप्रमाणवृत्तयाथात्म्यविद्भिरिति । अनेन पूर्वोक्तविपरीताकार उक्तः । बहुवचनेन स्वपक्षस्य भगवद्वोधायनाद्यनेकशिष्टपरिग्रहः सूचितः ।
 

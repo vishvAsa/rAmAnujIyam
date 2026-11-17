@@ -35,7 +35,7 @@ The text, 'That from which these beings are born,' teaches that Brahman is the c
 इति जगत्कारणं ब्रह्मेत्य् अवगम्यते।  
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अथ चिद्-अचिद्-विलक्षणस्य वस्तुनो वेदान्तवेद्यत्व-निर्णयात्  
 तद्-उत्तराधिकरणम् अनारम्भणीयम् इति शङ्कां परिहरन्  
@@ -235,7 +235,7 @@ The remaining part of this Pāda now is devoted to the task of proving that.
 आकाशस्तल्लिङ्गात् इत्यादिना पादशेषेण-
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पादशेषेणेति । पादशेषोऽधिकरणचतुष्टयात्मकः । तत्र प्रथमे वस्त्वन्तरप्रसिद्धशब्दविशेषेण प्रत्यवस्थानम्; अर्थविरोधेन परिहारः । अर्थाविरोधशङ्काया प्रत्यवस्थानं द्वितीये; विरोधोद्घाटनमुखेन परिहारः । विरोधिलिङ्गाभवेनाल्पानुकूललिङ्गसद्भावेन च प्रत्यवस्थानं तृतीये; स्ववाक्ये विरोधिलिङ्गाभावेऽप्युपक्रमवाक्यस्थविरोधिलिङ्गप्रदर्शनेन सिद्धान्तः ।
 
@@ -282,7 +282,7 @@ We read in the Cḥāndogya (I, 9),
 इदमाम्नायते छान्दोग्ये – अस्य लोकस्य का गतिरिति 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आकाशस् तल्-लिङ्गात् । सिद्धान्ते कारणत्वानुवादस्य वक्ष्यमाणत्वात् विधेयं किमित्यपेक्षायां विधेयार्थज्ञापनार्थम्, अस्य लोकस्य का गतिरित्यादिकमुपात्तम् । गतिः- प्राप्यम् ।
 
@@ -323,7 +323,7 @@ We read in the Cḥāndogya (I, 9),
 सर्वाणि ह वा इमानि भूतान्याकाशादेव समुत्पद्यन्ते 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदयुक्तम्; अश्रुतवेदान्तस्य "सर्वाणि ह वा इमानि भूतानि" इति वाक्यस्थाकाशाब्दवत्, "आकाशो वै नाम नामरूपयोर्निर्वहिता" इत्यादिवाक्यस्थाकाशशब्दस्य च परमात्मविषयत्वाप्रतिपत्तेः; श्रुतवेदान्तस्य संशयाभावाच्च । चिदचिद्विलक्षणकारणास्तित्वायोगव्यवच्छदो हि प्रथमपादसाध्यः; न त्वन्ययोगव्यवच्छेदः । स त्रिपादीसाध्य एव ॥
 
@@ -380,7 +380,7 @@ We read in the Cḥāndogya (I, 9),
 आकाशः परायणम् (छा.१.९.१) इति ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यदा स्वरूपपरः, तदा "आत्मन आकाशः" इत्यत्रात्मशब्दस्य कारणाकाशपरतया, ज्यायस्त्वादिगुणानामपि कथञ्चिन्नेयत्वेन रूढिशक्तेः स्थितत्वात् विषयवाक्यस्थाकाशशब्दः प्रसिद्धाकाशपर इति वेदान्तवेद्यं वस्तु प्रसिद्धाकाश इति पूर्वपक्षे फलफलिभावः ।
 
@@ -455,7 +455,7 @@ which, proved by etymology, is immediately suggested by the word.
 स एव ग्रहीतव्यः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वपक्षसमर्थनौपयिकं प्रयोजकं शिक्षयति शब्देति । प्रमाणान्तरसिद्धार्थानुवादे सति हि तदनुरोधाय क्लिष्टगत्या अर्थस्य वर्णनीयत्वं स्यात् ।
 
@@ -480,7 +480,7 @@ We therefore conclude from the passage that the well-known Ether is the cause of
 अतः प्रसिद्धाकाश एव चराचरभूतस्य कृत्स्नस्य कारणम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ततः किमित्यत्राह अत इति ।
 
@@ -528,7 +528,7 @@ because its creative activity is preceded by thought?
 नन्वीक्षापूर्वकसृष्ट्यादिभिरचेतनाज्जीवाच्च व्यतिरिक्तं ब्रह्मेत्युक्तम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अर्थविरोधात् व्युत्पत्तिसिद्धार्थः त्यज्यत इति चोदयति नन्विति ।
 </details>
@@ -551,7 +551,7 @@ but by no means proved.
 सत्यमुक्तम्, अयुक्तं तु तत्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिहरति सत्यमिति ।
 </details>
@@ -601,7 +601,7 @@ what that source of all beings is,
 > इत्यादिविशेषापेक्षायां 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 इत्यादीत्यादिशब्देन, किं प्रयन्ति, केन जीवन्ति, इत्यपेक्षा विवक्षिता ।
 </details>
@@ -625,7 +625,7 @@ what that source of all beings is,
 सर्वाणि ह वा इमानि भूतान्याकाशादेव समुत्पद्यन्ते (छा.१.९.१) इत्यादिना विशेषप्रतीतेः –  
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 विशेषप्रतीतेरिति एतद्वाक्यविशेषेण वस्तुविशेषप्रतीतिर्हेतुतयोक्ता ।
 </details>
@@ -646,7 +646,7 @@ what that source of all beings is,
 जगज्जन्मादिकारणमाकाश एवेति निश्चिते सति 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 जगज्जन्मादिकारणमाकाश एवेति निश्चिते इति ।
 </details>
@@ -711,7 +711,7 @@ denote the particular substance called 'ether.'
 आत्मा वा इदमेक एवाग्र आसीत् (ऐत.१.१.१) इत्यादिष्वात्मशब्दोऽपि तत्रैव वर्तते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सद्विद्यादिप्रतिपन्नकारणानुवादिलक्षणवाक्योक्तं ब्रह्म आकाश एवेति निश्चिते इत्यर्तः ।
 
@@ -767,7 +767,7 @@ it may very well be applied to the ether.
 आप्नोतीत्यात्मेति व्युत्पत्त्या सुतरामाकाशेऽप्यात्मशब्दो वर्तते ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आत्मशब्दस्यावयवशक्त्याऽप्याकाशपरत्वं दर्शयति आप्नोतीति ।
 
@@ -797,7 +797,7 @@ in a suitable, i.e. secondary, or metaphorical sense.
 > अत एवमाकाश एव कारणं ब्रह्मेति निश्चिते सतीक्षणादयस्तदनुगुणा गौणा वर्णनीयाः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ईक्षणादीनां गौणत्वेन निर्वाह्यत्वमाह अत एवमिति ।
 
@@ -827,7 +827,7 @@ we should, in agreement with the primary sense of 'thinking', and similar terms,
 यदि हि साधारणशब्दैरेव सदादिभिः कारणमभ्यधायिष्यत, ईक्षणाद्यर्थानुरोधेन चेतनविशेष एव कारणमिति निरचेष्यत। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 साधारणशब्दैरेवेति ।
 
@@ -853,7 +853,7 @@ our decision cannot be formed on general considerations of what would suit the s
 आकाशशब्देन तु विशेष एव निश्चित इति नार्थस्वाभाव्यान्निर्णेतव्यमस्ति।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यदीत्यभिप्रेतं विपर्ययेण विशेषनिश्चायकसद्भावं दशर्यति आकाशशब्देन त्विति ।
 
@@ -884,7 +884,7 @@ from which it appears that the ether itself is something created?
 ननु आत्मन आकाशसम्भूतः (तै.आन.१.२) इत्याकाशस्यापि कार्यत्वं प्रतीयते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कार्यतयाऽवगतस्य परमकारणत्वानुपपत्तिमुखेन चोदयति नन्विति ।
 </details>
@@ -907,7 +907,7 @@ a gross material one, and a subtle one.
 सत्यम्, सर्वेषामेवाकाशवाय्वादीनां सूक्ष्मावस्था स्थूलावस्था चेत्यवस्थाद्वयमस्ति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 परिहरति सत्यमिति । कार्यत्वेऽभिमतिः, तस्य कारणत्वभञ्जकत्वेऽनङ्गीकारः । वाय्वाद्युपादानं निदर्शनतया । सूक्ष्मावस्थाशब्देन तन्मात्रावस्था कथ्यते ।
 
@@ -982,7 +982,7 @@ and from this it follows that ether is none other than the general cause of the 
 इति सर्वस्य जगत आकाशादेव प्रभवाप्ययादिश्रवणात्तदेव हि कारणं ब्रह्मेति निश्चितम्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 कुत इत्थमस्वारस्येन अर्थोवर्ण्यत इत्यत्राह सर्वाणीति ।
 
@@ -1037,7 +1037,7 @@ also gives a satisfactory sense to texts such as the following:
 > इत्येवमादिनिर्देशोऽप्युपपन्नतरः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 नामरूपयोर्निर्वहितेत्येवमादीत्यादिशब्देन "कं ब्रह्म खं ब्रह्म "प्राणं चास्मै तदाकाशं चोचुः" "परमे व्योमन् प्रतिष्ठिता" इति वाक्यान्यभिप्रेतानि ।
 </details>
@@ -1060,7 +1060,7 @@ It thus appears that Brahman is none other than the well-known elemental ether.
 > अतः प्रसिद्धाकाशादनतिरिक्तं ब्रह्मेति॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वपक्षमुपसंहरति अत इति ।
 
@@ -1129,7 +1129,7 @@ For the qualities which the passage attributes to ether, viz. its being the one 
 निखिलजगदेककारणत्वम्, सर्वस्माज्ज्यायस्त्वम् परायणत्वम् इत्यादीनि परमात्मलिङ्गान्युपलभ्यन्ते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 पूर्वाधिकरण इव नात्र तद्धर्मोपदेशादित्युक्तम्; अपि तु तल्लिङ्गादित्युक्तम्; वाक्यान्तरप्रसिद्धार्थस्यानूदितस्य हेतुतया विवक्षितत्वात् । लिङ्गिसंबन्धित्वेन प्रमाणान्तरोपलब्धं हि लिङ्गं भवति ।
 
@@ -1156,7 +1156,7 @@ since intelligent beings clearly cannot be its effects;
 निखिलकारणत्वं हि अचिद्वस्तुनः प्रसिद्धाकाशशब्दाभिधेयस्य नोपपद्यते, चेतनवस्तुनस्तत्कार्यत्वासम्भवात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 "सर्वाणि ह वा इमानि भूतानि" इत्यस्मिन् विषयवाक्ये सर्वशब्दस्यासङ्कोचमभिप्रेत्य निखिलेत्युक्तम् । भूतशब्दस्य वाय्वादिचतुष्टयमात्रपरत्वव्युसासाय जगच्छब्दः ।
 
@@ -1204,7 +1204,7 @@ for non-sentient things are evil and antagonistic to the true aim of man;
 तच्चाचेतनस्य हेयस्य सकलपुरुषार्थविरोधिनो न सम्भवति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सर्वविधसुखस्य मोक्षान्तर्भावात् सकलपुरुषार्थरूपो मोक्षः, तद्विरोधिन इति वाऽर्थः ।
 
@@ -1223,7 +1223,7 @@ for non-sentient things are evil and antagonistic to the true aim of man;
 सर्वस्माज्ज्यायस्त्वं च निरुपाधिकं सर्वैः कल्याणगुणैस्सर्वेभ्यो निरतिशयोत्कर्षः। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 ज्यायस्त्वानुपपत्तिमाह सर्वस्मादिति ।
 </details>
@@ -1274,7 +1274,7 @@ all other texts are to be interpreted in accordance herewith.
 यदुक्तं जगत्कारणविशेषाकाङ्क्षायामाकाशशब्देन विशेषसमर्पणादन्यत्सर्वं तदनुरूपमेव वर्णनीयमिति, तदयुक्तम्, 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 अत्र पूर्वपक्षयुक्तेः कः परिहार उक्तो भवतीत्यपेक्षायां सूत्राभिप्रेतार्थं वक्ष्यन् परोक्तमनुवदति यदुक्तमिति ।
 
@@ -1304,7 +1304,7 @@ merely give expression to something generally known,
 सर्वाणि ह वा इमानि भूतान्याकाशादेव समुत्पद्यन्ते (छा.१.९.१) इति प्रसिद्धवन्निर्देशात्। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रथमं पुरोवादसापेक्षेण अनुवादेन पुरोवादिवाक्यविरुद्धार्थप्रतिपादनायोगं वक्तुमनुवादलिङ्गवत्त्वमाह सर्वाणीति ।
 </details>
@@ -1326,7 +1326,7 @@ and statements of this nature presuppose other means of knowledge to prove them.
 प्रसिद्धवन्निर्देशो हि प्रमाणान्तरप्राप्तिमपेक्षते। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 प्रसिद्धवन्निर्देशोऽस्तु; ततः किमित्यत्राह प्रसिद्धवदिति ।
 
@@ -1402,7 +1402,7 @@ and makes other things shine forth (ākāśayati).
 सम्भवति च परस्य ब्रह्मणः प्रकाशकत्वादाकाशशब्दाभिधेयत्वम् – आकाशते, आकाशयति च इति ॥
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 यद्वा प्रकाशकत्वादिति णिजन्तत्वेन च अणिजन्तत्वेन च व्युत्पतिद्वयस्य तन्त्रोक्तिः ।
 
@@ -1430,7 +1430,7 @@ but as it denotes a special non-intelligent thing which cannot be admitted as th
 किञ्च अनेनाकाशशब्देन विशेषसमर्पणक्षमेणापि चेतनांशं प्रत्यसम्भावितकारणभावम् अचेतनविशेषमभिदधानेन 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलं प्रसिद्धवन्निर्देशमात्रमनुवादकत्वसाधकम्, "यदाग्नेयोऽष्टाकपालः", "उपरि हि देवेभ्यो धारयति" इत्यादौ अदर्शनादिति शङ्कायाम्, अयोग्यत्वे निश्चिते सति प्रसिद्धवन्निर्देशोऽनुवादकत्वसाधक इत्यभिप्रायेणाह किञ्चेति ।
 
@@ -1454,7 +1454,7 @@ but as it denotes a special non-intelligent thing which cannot be admitted as th
 तदैक्षत बहु स्यां प्रजायेय (छा.६.२.३) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 तदैक्षतेति सद्विद्यावाक्यशेषः ।
 </details>
@@ -1477,7 +1477,7 @@ and
 > सोऽकामयत। बहुस्यां प्रजायेय (तै.आन.६) 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 सोऽकामयतेति ब्रह्मविदाप्नोतीत्यनुवाकवाक्यशेषः । ब्रह्मणो योग्यार्थत्वज्ञापनाय सार्वज्ञ्यादिकमुक्तम् ।
 </details>
@@ -1507,7 +1507,7 @@ which we ascertain from certain complementary texts-such as (the above).
 इत्यादि वाक्यशेषावधारितसार्वज्ञ्यसत्यसङ्कल्पत्वादि- विशिष्टापूर्वार्थप्रतिपादन-समर्थवाक्यार्थान्यथाकरणं न प्रमाणपदवीमधिरोहति। 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न प्रमाणपदवीकधिरोहतीति ।
 
@@ -1537,7 +1537,7 @@ only makes a reference to what is already established by other texts.
 एवमपूर्वानन्तविशेषणविशिष्टापूर्वार्थप्रतिपादन-समर्थानेकवाक्यगतिसामान्यं चैकेनानुवादस्वरूपेणान्यथा कर्त्तुं न शक्यते।
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 उक्त-वैषम्य-द्वयानुवादेव??  
 अनेक-वाक्यान्य् एकेन वाक्येन बाधयितु(बाधितु?)मशक्यानीत्याह एवमिति ।  
@@ -1585,7 +1585,7 @@ we remark that
 यत्तु आत्मशब्दश्चेतनैकान्तो न भवति, मृदात्मको घटः इत्यादिदर्शनादित्युक्तम्; तत्रोच्यते – 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 आत्मशब्दानैकान्त्यं यत्त्वित्यादिनाऽनूद्य परिहरति तत्रेति ।
 </details>
@@ -1716,7 +1716,7 @@ which is thus proved by itself,
 तथा स्वतः प्राप्तं शरीरप्रतिसम्बन्धिचेतनाभिधानमेव 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 स्वतःप्राप्त्या आत्मशब्दो विशेषवाचीत्यर्थः ।
 
@@ -1740,7 +1740,7 @@ which is thus proved by itself,
 स ईक्षत लोकान्नु सृजा इति (ऐ.१.१.१), 
 </details>
 
-<details><summary>टीका</summary>
+<details><summary>श्रुत-प्रकाशिका</summary>
 
 न केवलमर्थान्तरसाधकनिर्देशाभावः, स्वतःप्राप्तार्थसाधकनिर्देशोऽप्यस्तीत्याह स ईक्षतेति ॥
 
