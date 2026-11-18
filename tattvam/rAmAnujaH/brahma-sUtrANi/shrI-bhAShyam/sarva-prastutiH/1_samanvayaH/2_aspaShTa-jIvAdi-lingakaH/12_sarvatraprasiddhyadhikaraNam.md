@@ -381,7 +381,7 @@ the third Pāda those which contain clear references to the same; and the fourth
 ### विषय-वाक्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-३३. सर्वत्र प्रसिद्धोपदेशात् ॥ १-२-१ ॥
+३३. सर्वत्र प्रसिद्धोपदेशात् +++(ब्रह्मैव "मनोमयः प्राण-शरीरो भा-रूपः" इति)+++॥ १-२-१ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -394,14 +394,18 @@ the third Pāda those which contain clear references to the same; and the fourth
 ३३. सर्वत्र प्रसिद्धोपदेशात् ॥ १-२-१ ॥
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदम् आम्नायते छान्दोग्ये –  
 
-> अथ खलु क्रतुमयः पुरुषो  
+> +++("सर्वं खल्व् इदं ब्रह्म  
+तज्-ज-ल-+अन्+++(=प्राणने)+++"  
+इति शान्त उपासीत ॥)+++  
+अथ खलु क्रतुमयः पुरुषः।  
 यथा-क्रतुर् अस्मिल्ँ लोके पुरुषो भवति  
-तथेतः प्रेत्य भवति  
-स क्रतुं कुर्वीत  
+तथेतः प्रेत्य भवति।  
+स क्रतुं कुर्वीत +++(वक्ष्यमाण-गुण-ग्रहणेन)+++।  
 मनोमयः प्राण-शरीरो भा-रूपः (छा.३.१४.१) 
 
 इत्य्-आदि॥
@@ -422,7 +426,7 @@ We read in the Cḥāndogya, 'Man is made of thought; according to what his thou
 ननु "स क्रतुं कुर्वीत" इत्यादिकमुपादीयताम् किमर्थं "यथाक्रतुरस्मिन्" इत्यादि वाक्योपादानम् ? उच्यते, "फलवत्सन्निधावफलं तदङ्गम्" इतिन्यायेन "स क्रतुं कुर्वीते" तिविधेः फलाश्रवणनिमित्तं पूर्वविहितोपासनाङ्गत्वं माभूदिति फलसम्बन्धप्रदर्शनार्थं तदुपादानम्, "शान्त उपासीत इति विहितोपासनाधिकृतस्यैव उपासनान्तरविधानमनुपपन्नमिति शङ्काव्यावृत्त्यर्थम् "अथ खलु क्रतुमयः पुरुषः" इति वाक्यं घटकत्वेनोपात्तम् जीवस्य बहुविधोपासनप्रचुरत्वादनेकोपासनविधानं युक्तमिति भावः ॥
 </details>
 
-### संशयः
+### संशयः - मनोमयः प्राण-शरीरः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -449,8 +453,6 @@ We here understand that of the meditation enjoined by the clause 'let him form t
 
 मनोमयादिपदानां प्रकृतोपास्यविषयत्वे प्रमाणाभावात् ब्रह्मपरत्वानिश्चयात् "स क्रतुम्" इतिनिर्दिष्टोपासकविशेषणत्वाश्रयणे तस्यानाविर्भूतगुणाष्टकस्य सत्वसङ्कल्पत्वा देरघटमानत्वाच्च पाश्चात्यविद्यान्तरोपास्यपरत्वनिश्चये सति तद्विशेषनिश्चयाभावात् विचारस्यारम्भणीयत्वमित्यर्थः ।
 </details>
-
-## संशयाकारः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -500,7 +502,7 @@ or the highest Self.
 यदा सम्बन्धविशेषनिषेधः तदा मनोमयत्वादेः परस्मिन्सम्भवेन कर्मकर्तृव्यपदेशादीनां मुख्यत्वात् तत्रोपास्यतया विहितः परमात्मेति सिद्धान्ते फलफलिभावः ।
 </details>
 
-## पूर्वपक्षस्वरूपम्
+## जीवात्मा?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -546,14 +548,17 @@ or the highest Self.
 पुर्वपक्षमुपपादयति - कुत इत्यादिना ।
 </details>
 
+### मनः-सम्बन्धः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मनः-प्राणयोः क्षेत्रज्ञोपकरणत्वात्, परमात्मनस् तु अप्राणो ह्यमनाः (मुं.२.१.२) इति तत्प्रतिषेधाच्च।
+मनः-प्राणयोः क्षेत्र-ज्ञोपकरणत्वात्,  
+परमात्मनस् तु  
+"अप्राणो ह्य् अमनाः" (मुं.२.१.२) इति तत्-प्रतिषेधाच् च।
 </details>
 
 <details><summary>Thibaut</summary>
 
-For, he says, mind and breath are instruments of the individual soul; while the text 'without breath, without mind,' distinctly denies them to the highest
+For, he says, mind and breath are instruments of the individual soul; while the text 'without breath, without mind,' distinctly denies them to the highest Self. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -566,14 +571,20 @@ For, he says, mind and breath are instruments of the individual soul; while the 
 ननु कथमस्य पादस्य अस्पष्टजीवलिङ्गवाक्यविषयत्वम् ? मनोमयत्वादिकं हि स्पष्टं जीवलिङ्गमिति चेत् न, स्पष्टस्य मनस्सम्बन्धमात्रस्य जीवलिङ्गत्वाभावात् जीवलिङ्गभूतस्योपकरणोपकरणित्वलक्षणसम्बन्धविशेषस्यास्पष्टत्वाच्चेत्यभिप्रायेण मनः प्राणयोः क्षेत्रज्ञोपकरणत्वादित्युक्तम् ।
 </details>
 
+### शान्त्यै ब्रह्मोपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च सर्वं खल्विदं ब्रह्म (छां.३.१४.१) इति पूर्व-निर्दिष्टं ब्रह्मा-त्रोपास्यतया सम्बद्धुं शक्यते, शान्त उपासीत (छां.३.१४.१) इत्युपासनोपकरणशान्ति-निर्वृत्त्युपायभूतब्रह्मात्मकत्वोपदेशायोपात्तत्वात् ॥
+न च "सर्वं खल्व् इदं ब्रह्म" (छां.३.१४.१)  
+इति पूर्व-निर्दिष्टं ब्रह्मात्रोपास्यतया सम्बद्धुं शक्यते,  
+
+> शान्त उपासीत (छां.३.१४.१) 
+
+इत्य् उपासनोपकरण-शान्ति- -निर्वृत्त्य्-उपाय-भूत- -ब्रह्मात्मकत्वोपदेशायोपात्तत्वात् ॥
 </details>
 
 <details><summary>Thibaut</summary>
 
-Self. Nor can the Brahman mentioned in a previous clause of the same section ('All this indeed is Brahman') be connected as an object with the meditation enjoined in the passage under discussion; for Brahman is there referred to in order to suggest the idea of its being the Self of all – which idea constitutes a means for bringing about that calmness of mind which is helpful towards the act of meditation enjoined in the clause 'Let a man meditate with calm mind,' &c.
+Nor can the Brahman mentioned in a previous clause of the same section ('All this indeed is Brahman') be connected as an object with the meditation enjoined in the passage under discussion; for Brahman is there referred to in order to suggest the idea of its being the Self of all – which idea constitutes a means for bringing about that calmness of mind which is helpful towards the act of meditation enjoined in the clause 'Let a man meditate with calm mind,' &c.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -590,11 +601,17 @@ Self. Nor can the Brahman mentioned in a previous clause of the same section ('A
 द्वितीयं दूषयति - न च स क्रतुमिति ।
 </details>
 
-## सिद्धान्तमाशङ्क्य पूर्वपक्षस्थिरीकरणम्
+### उपास्यो मनोमयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च स क्रतुं कुर्वीत (छां.३.१४.१) इत्य् उपासनस्योपास्य-साकाङ्क्षत्वाद् वाक्यान्तरस्थम् अपि ब्रह्म सम्बध्यत इति युक्तं वक्तुम्, स्व-वाक्योपात्तेन मनोमयत्वादि-गुणकेन निराकाङ्क्षत्वात्;
+न च 
+
+> "स क्रतुं कुर्वीत" (छां.३.१४.१) इत्य् उपासनस्योपास्य-साकाङ्क्षत्वाद्  
+वाक्यान्तर-स्थम् अपि ब्रह्म सम्बध्यत  
+
+इति युक्तं वक्तुम्,  
+स्व-वाक्योपात्तेन +++(वक्ष्यमाण-रीत्या)+++ मनोमयत्वादि-गुणकेन निराकाङ्क्षत्वात्;
 </details>
 
 <details><summary>Thibaut</summary>
@@ -616,7 +633,11 @@ Nor, again, can it be said that as the meditation conveyed by the clause 'let hi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मनोमयः प्राण-शरीरः (छां.३.१४.१) इत्य् अनन्यार्थतया निर्दिष्टस्य विभक्ति-विपरिणाम-मात्रेण उभयाकाङ्क्षा-निवृत्ति-सिद्धेः।
+> मनोमयः प्राण-शरीरः (छां.३.१४.१) 
+
+इत्य् अनन्यार्थतया निर्दिष्टस्य  
+विभक्ति-विपरिणाम-मात्रेण  
+उभयाकाङ्क्षा-निवृत्ति-सिद्धेः।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -644,9 +665,14 @@ in order to supply the object we have merely to change the case-terminations of 
 एवं प्राप्त इति - प्रतिज्ञावाक्यमध्याहरति - मनोमयत्वादिति ।
 </details>
 
+### एतद् ब्रह्म
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं निश्चिते जीवत्वे एतद् ब्रह्म (छां.३.१४.१) इत्युपसंहारस्थ-ब्रह्मपदमपि जीव एव पूजार्थं प्रयुक्तमित्यध्यवसीयत इति॥
+एवं निश्चिते जीवत्वे  
+"एतद् ब्रह्म" (छां.३.१४.१) इत्य् उपसंहारस्थ-ब्रह्म-पदम् अपि  
+जीव एव पूजार्थं प्रयुक्तम्  
+इत्य् अध्यवसीयत  
+इति॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -659,11 +685,12 @@ It having thus been determined that the being made of mind is the individual sou
 एवं निश्चिते जीवत्वे एतद्ब्रह्म (छां.३.१४.१) इत्युपसंहारस्थ-ब्रह्मपदमपि जीव एव पूजार्थं प्रयुक्तमित्यध्यवसीयत इति॥
 </details>
 
-## सिद्धान्तारम्भः
+## ब्रह्म-मनोमयतादि-प्रसिद्धिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं प्राप्ते ब्रूमः- सर्वत्र प्रसिद्धोपदेशात्
+एवं प्राप्ते ब्रूमः -  
+सर्वत्र प्रसिद्धोपदेशात्
 </details>
 
 <details><summary>Thibaut</summary>
@@ -681,11 +708,12 @@ This primā facie view is set aside by the Sūtra.
 सत्यसङ्कल्पत्वादिविशेषितप्राकरणिकात्मशब्दानुरोधेन परतमात्मेत्युक्तम्, सर्वत्रेति व्याख्येयं पदम् ।
 </details>
 
-## सूत्रार्थविवरणम्
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नोमयत्वादि-गुणकः परमात्मा कुतः सर्वत्र – वेदान्तेषु परस्मिन्न् एव ब्रह्मणि प्रसिद्धस्य मनोमयत्वादेरुपदेशात्।
+मनोमयत्वादि-गुणकः परमात्मा।  
+कुतः?  
+सर्वत्र वेदान्तेषु  
+परस्मिन्न् एव ब्रह्मणि प्रसिद्धस्य मनोमयत्वादेर् उपदेशात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -695,7 +723,7 @@ The being made of mind is the highest Self; for the text states certain qualitie
 
 <details><summary>मूलम्</summary>
 
-नोमयत्वादिगुणकः परमात्मा कुतः सर्वत्र – वेदान्तेषु परस्मिन्नेव ब्रह्मणि प्रसिद्धस्य मनोमयत्वादेरुपदेशात्।
+मनोमयत्वादिगुणकः परमात्मा कुतः सर्वत्र – वेदान्तेषु परस्मिन्नेव ब्रह्मणि प्रसिद्धस्य मनोमयत्वादेरुपदेशात्।
 </details>
 
 <details><summary>श्रुत-प्रकाशिका</summary>
@@ -726,17 +754,19 @@ The being made of mind is the highest Self; for the text states certain qualitie
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा मनोमयः प्राण-शरीर-नेता (मुं.२.२.७) स एषोऽन्तर्हृादय आकाशः।
+यथा "मनोमयः प्राण-शरीर-नेता" (मुं.२.२.७) 
 </details>
 
 <details><summary>Thibaut</summary>
 
-Passages such as 'He who is made of mind, the guide of the body of breath' (Mu. Up. II, 2, 7); 'There is the ether within the heart,
+Passages such as 'He who is made of mind, the guide of the body of breath' (Mu. Up. II, 2, 7); 
 </details>
 
 <details><summary>मूलम्</summary>
 
-यथा मनोमयः प्राणशरीरनेता (मुं.२.२.७) स एषोऽन्तर्हृादय आकाशः।
+यथा 
+
+> मनोमयः प्राण-शरीरनेता (मुं.२.२.७) 
 </details>
 
 <details><summary>श्रुत-प्रकाशिका</summary>
@@ -746,32 +776,107 @@ Passages such as 'He who is made of mind, the guide of the body of breath' (Mu. 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मिन् नयं पुरुषो मनोमयः।
+> स एषोऽन्तर्हृादय आकाशः।   
+तस्मिन्न् अयं पुरुषो मनोमयः।  
+अमृतो हिरण्मयः (तै.शिक्षा ६.३) 
 </details>
 
 <details><summary>Thibaut</summary>
 
-and in it there is the Person, consisting of mind,
+'There is the ether within the heart, and in it there is the Person, consisting of mind, mmortal, golden' (Taitt. Up. I. 6, 1); 
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मिन्नयं पुरुषो मनोमयः।
+स एषोऽन्तर्हृादय आकाशः। तस्मिन्नयं पुरुषो मनोमयः। अमृतो हिरण्मयः (तै.शिक्षा ६.३) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अमृतो हिरण्मयः (तै.शिक्षा ६.३) हृदा मनीषा मनसा ऽभिकॢप्तो य एनं विदुरमृतास्ते भवन्ति (तै.नारा.३) न चक्षुषा गृह्यते नापि वाचा (मु.३.१.८), मनसा तु विशुद्धेन तथा प्राणस्य प्राणः (केन.१.२), अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्था-पयति (कौषी.३.२), सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छां.१.११.५) इत्य्-आदिषु ॥
+> हृदा मनीषा मनसा ऽभिकॢप्तो  
+य एनं विदुर् अमृतास् ते भवन्ति (तै.नारा.३) 
 </details>
 
-<details><summary>Thibaut</summary>
+<details><summary>English</summary>
 
-immortal, golden' (Taitt. Up. I. 6, 1); 'He is conceived by the heart, by wisdom, by the mind. Those who know him are immortal' (Ka. Up. II, 6, 9); 'He is not apprehended by the eye nor by speech, but by a purified mind' (Mu. Up. III, 1, 8); 'The breath of breath' (Br̥. Up. IV, 4, 183); 'Breath alone is the conscious Self, and having laid hold of this body it makes it rise up' (Kau. Up. III, 3); 'All these beings merge into breath alone, and from breath they arise' (Cḥ. Up. I, 11, 5) --these and similar texts refer to Brahman
+> 'He is conceived by the heart, by wisdom, by the mind. Those who know him are immortal' (Ka. Up. II, 6, 9); 
 </details>
 
 <details><summary>मूलम्</summary>
 
-अमृतो हिरण्मयः (तै.शिक्षा ६.३) हृदा मनीषा मनसाऽभिक्लृप्तो य एनं विदुरमृतास्ते भवन्ति (तै.नारा.३) न चक्षुषा गृह्यते नापि वाचा (मु.३.१.८), मनसा तु विशुद्धेन तथा प्राणस्य प्राणः (केन.१.२), अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति (कौषी.३.२), सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छां.१.११.५) इत्यादिषु ॥
+> हृदा मनीषा मनसा ऽभिकॢप्तो  
+य एनं विदुर् अमृतास् ते भवन्ति (तै.नारा.३) 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चक्षुषा गृह्यते नापि वाचा मनसा तु विशुद्धेन  (मु.३.१.८), 
+</details>
+
+<details><summary>English</summary>
+
+> 'He is not apprehended by the eye nor by speech, but by a purified mind' (Mu. Up. III, 1, 8); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> न चक्षुषा गृह्यते नापि वाचा मनसा तु विशुद्धेन  (मु.३.१.८), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तथा प्राणस्य प्राणः (केन.१.२), 
+</details>
+
+<details><summary>English</summary>
+
+'The breath of breath' (Br̥. Up. IV, 4, 183); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> तथा प्राणस्य प्राणः (केन.१.२), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति (कौषी.३.२), 
+</details>
+
+<details><summary>English</summary>
+
+'Breath alone is the conscious Self, and having laid hold of this body it makes it rise up' (Kau. Up. III, 3); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> अथ खलु प्राण एव प्रज्ञात्मेदं शरीरं परिगृह्योत्थापयति (कौषी.३.२), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्वाणि ह वा इमानि भूतानि  
+प्राणम् एवाभिसंविशन्ति  
+प्राणम् अभ्युज्जिहते (छां.१.११.५) 
+
+इत्य्-आदिषु ॥
+</details>
+
+<details><summary>Thibaut</summary>
+
+'All these beings merge into breath alone, and from breath they arise' (Cḥ. Up. I, 11, 5) --these and similar texts refer to Brahman
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वाणि ह वा इमानि भूतानि प्राणमेवाभिसंविशन्ति प्राणमभ्युज्जिहते (छां.१.११.५) इत्यादिषु ॥
 </details>
 
 <details><summary>श्रुत-प्रकाशिका</summary>
@@ -791,7 +896,7 @@ immortal, golden' (Taitt. Up. I. 6, 1); 'He is conceived by the heart, by wisdom
 "सर्वाणि" इत्यादिवाक्ये प्राणशब्दस्य यौगिकवृत्त्या परमात्मपरत्वं प्रागुक्तम्, इदानीमपर्यवसानवृत्त्यापि परमात्मपरत्वेन तद्वाक्यमुपात्तम्, वैश्वा नराधिकरणन्यायेन उभयथापि परमात्मपरत्वं युक्तमिति भावः ।
 </details>
 
-## परमात्मनि मनःप्राणसम्बन्धोपपादनम्
+## मनोमयता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -817,7 +922,7 @@ as consisting of mind, to be apprehended by a purified mind,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राण-शरीरत्वं – प्राणस्याप्याधारत्वं नियन्तृत्वं च।
+प्राण-शरीरत्वं – प्राणस्याप्य् आधारत्वं नियन्तृत्वं च।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -835,9 +940,14 @@ having breath for its body, and being the abode and ruler of breath.
 प्राणशरीरशब्दार्थमाह - प्राणेति ।
 </details>
 
+## ब्रह्म-मुख्यार्थः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं च सति एष म आत्माऽर्न्तहृदय एतद् ब्रह्म (छा.३.१४.४) इति ब्रह्म-शब्दोऽपि मुख्य एव भवति।
+एवं च सति 
+
+> एष म आत्मा ऽन्तर् हृदय एतद् ब्रह्म (छा.३.१४.४) 
+
+इति ब्रह्म-शब्दोऽपि मुख्य एव भवति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -855,9 +965,12 @@ This being so, we decide that in the concluding passage, 'my Self within the hea
 मनोविकारो मनोमयः, सर्वविकाराणां ब्रह्माधिष्ठानत्वात् ब्रह्मसामानाधिकरण्यमिति कैश्चिदुक्तम्, तदा हि मनोविकाराः सुखदुःखेच्छाद्वेषादयो ब्रह्मेत्युक्तं स्यात् । तदयुक्तम्, सत्यसङ्कल्पत्वादिकल्याणगुणप्रकरणविरोधात् हेयगुणविशेषाणामुपास्यत्वानुपपत्तेश्च ।
 </details>
 
+## अप्राणता, अमनस्ता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्राणो ह्यमनाः (मु.२.१.२) इति मन आयत्तं ज्ञानं प्राणायत्तां स्थितिं च ब्रह्मणो निषेधति।
+> अ-प्राणो ह्य् अ-मनाः (मु.२.१.२) 
+
+इति मन-आयत्तं ज्ञानं, प्राणायत्तां स्थितिं च ब्रह्मणो निषेधति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -881,11 +994,17 @@ The text which declares Brahman to be without mind and breath, merely means to d
 मनःप्रभृतिनिषेधवाक्यार्थमुक्तार्थाविरुद्धमाह - अप्राण इति । ग्राह्यग्राहकभावनियन्तृनियाम्यत्वादिरूपसम्बन्धविशेषो विधेयः, उपकरणोपकरणित्वलक्षणसम्बन्धविशेषो निषेध्यत इत्यभिप्रायः ।
 </details>
 
-## स्वाभिमता अधिकरणयोजना, तत्र जिज्ञायविषयनिर्देशः
+## उपासन-विधिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथवा सर्वं खल्विदं ब्रह्म तज्-जलान् इति शान्त उपासीत (छा.३.१४.१) इत्यत्रैवोपासनं विधीयते – सर्वात्मकं ब्रह्म शान्तस्सन्नुपासीतेति।
+अथवा 
+
+> "सर्वं खल्व् इदं ब्रह्म तज्-ज-ल-+अन्+++(=प्राणने)+++"  
+इति शान्त उपासीत (छा.३.१४.१) 
+
+इत्य्-अत्रैवोपासनं विधीयते –  
+"सर्वात्मकं ब्रह्म शान्तस् सन्न् उपासीते"ति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -911,9 +1030,12 @@ Or else we may interpret the Vedic text and the Sūtra as follows. The passage '
 न त्वाशंसायां क्त इह विहितोऽयमिति भावः ।
 </details>
 
+### गुणोपादानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स क्रतुं कुर्वीत (छा.३.१४.१) इति तस्यैव गुणोपादनार्थोऽनुवादः।
+> स क्रतुं कुर्वीत (छा.३.१४.१) 
+
+इति तस्यैव गुणोपादानार्थो ऽनुवादः।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -923,7 +1045,7 @@ The subsequent clause 'Let him form the thought,' &c., forms an additional state
 
 <details><summary>मूलम्</summary>
 
-स क्रतुं कुर्वीत (छा.३.१४.१) इति तस्यैव गुणोपादनार्थोऽनुवादः।
+स क्रतुं कुर्वीत (छा.३.१४.१) इति तस्यैव गुणोपादानार्थोऽनुवादः।
 </details>
 
 <details><summary>श्रुत-प्रकाशिका</summary>
@@ -963,7 +1085,8 @@ such as being made of mind.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यतस् सर्वात्मकं ब्रह्म मनोमयत्वादिगुणकमुपासीतेति वाक्यार्थः ॥
+यतस् सर्वात्मकं ब्रह्म,  
+मनोमयत्वादि-गुणकम् उपासीतेति वाक्यार्थः ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -976,11 +1099,11 @@ So that the meaning of the whole section is 'Let a man meditate on Brahman, whic
 यतस्सर्वात्मकं ब्रह्म मनोमयत्वादिगुणकमुपासीतेति वाक्यार्थः ॥
 </details>
 
-## संशयस्वरूपनिर्देशः
+### ब्रह्म-शब्दार्थः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र सन्देहः – किम् इह ब्रह्म-शब्देन प्रत्यग्-आत्मा निर्दिश्यते;
+तत्र सन्देहः – किम् इह +++("सर्वं खल्व् इदं ब्रह्म" इत्यत्र)+++ ब्रह्म-शब्देन प्रत्यग्-आत्मा निर्दिश्यते;
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1026,7 +1149,7 @@ or the highest Self?
 यदाऽणीयस्त्वमौपाधिकं ज्यायस्त्वं स्वाभाविकं तदाऽणीयस्त्वव्यपदेशस्य ब्रह्मशब्दादिमुख्यताविरोधित्वाभावेन ब्रह्मशब्दस्य परमात्मपरत्वेनात्रोपास्यतया निर्दिष्टः परमात्मेति सिद्धान्ते फलफलिभावः ।
 </details>
 
-## सयुक्तिकः पूर्वपक्षः
+#### जीवः?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1069,7 +1192,7 @@ or the highest Self?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यैव सर्व-पद-सामानाधिकरण्य-निर्देशोपपत्तेः।
+तस्यैव सर्व-पद-सामानाधिकरण्य-निर्देशोपपत्तेः +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1082,9 +1205,10 @@ for that only admits of being exhibited in co-ordination with the word 'all.'
 तस्यैव सर्वपदसामानाधिकरण्यनिर्देशोपपत्तेः।
 </details>
 
+##### सर्व-शब्दतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व-शब्द-निर्दिष्टं हि ब्रह्मादिस्तम्ब-पर्यन्तं कृत्स्नं जगत्।
+सर्व-शब्द-निर्दिष्टं हि ब्रह्मादि-स्तम्ब-पर्यन्तं कृत्स्नं जगत्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1104,7 +1228,8 @@ For the word 'all' denotes the entire world from Brahmā down to a blade of gras
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मादि-भावश् च प्रत्यगात्मनोऽनाद्यविद्यामूलकर्मविशेषोपाधिको विद्यत एव;
+ब्रह्मादि-भावश् च  
+प्रत्यगात्मनो ऽनाद्य्-अविद्या-मूल- -कर्म-विशेषोपाधिको विद्यत एव;
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1126,7 +1251,9 @@ and the existence of Brahmā and other individual beings is determined by specia
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परस्य तु ब्रह्मणस् सर्वज्ञस्य सर्वशक्तेरपहतपाप्मनो निरस्तसमस्ताविद्यादिदोष-गन्धस्य समस्त-हेयाकर-सर्व-भावो नोपपद्यते ॥
+परस्य तु ब्रह्मणस् सर्वज्ञस्य सर्वशक्तेर् अपहतपाप्मनो  
+निरस्त-समस्ताविद्यादि-दोष-गन्धस्य  
+समस्त-हेयाकर--सर्व-भावो नोपपद्यते ॥
 </details>
 
 <details><summary>Thibaut</summary>
