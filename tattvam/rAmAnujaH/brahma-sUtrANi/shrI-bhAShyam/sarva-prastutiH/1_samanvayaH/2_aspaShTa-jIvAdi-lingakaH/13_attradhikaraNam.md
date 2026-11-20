@@ -7,7 +7,7 @@ title = "१३ अत्त्रधिकरणम्"
 
 <details><summary>अधिकरणार्थः</summary>
 
-सर्वजगत्-संहार-रूपम् अत्तृत्वम् परमात्मन एव,  
+सर्व-जगत्-संहार-रूपम् अत्तृत्वम् परमात्मन एव,  
 न जीवस्य।
 </details>
 
@@ -18,7 +18,7 @@ title = "१३ अत्त्रधिकरणम्"
 
 
 
-## पूर्वाधिकरणान्तिमसूत्रेण अवान्तरसङ्गतिः
+## सङ्गतिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -40,7 +40,7 @@ If the highest Self is not the enjoyer, then in all cases the one perceived as t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-४१. +++(ब्रह्म)+++ अत्ता चराचर-ग्रहणात् ॥ १-२-९ ॥
+४१. +++("यस्य ब्रह्म च क्षत्रं च… ओदनः" इत्यत्र ब्रह्म)+++ अत्ता चराचर-ग्रहणात् ॥ १-२-९ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -83,7 +83,7 @@ We read in the Kaṭḥavallī (I, 2, 25),
 कठवल्लीष्वाम्नायते यस्य ब्रह्म च क्षत्रं च उभे भवत ओदनः। मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः (कठ.१.२.२५) इति।
 </details>
 
-## अधिकरणाङ्गभूतः संशयः
+## संशयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ A doubt here arises whether the 'eater', suggested by the words 'food' and 'cond
 अत्रौदनोपसेचनसूचितोऽत्ता किं जीव एव, उत परमात्मेति सन्दिह्यते ॥
 </details>
 
-## पूर्वपक्षः
+## जीवः?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -140,7 +140,7 @@ The individual soul, the Pūrvapakshin maintains;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतः ? भोक्तृत्वस्य कर्म-निमित्तत्वात्  
+कुतः? भोक्तृत्वस्य कर्म-निमित्तत्वात्  
 जीवस्य एव तत् सम्भवात् ।
 </details>
 
@@ -154,11 +154,15 @@ for all enjoyment presupposes works, and works belong to the individual soul onl
 कुतः भोक्तृत्वस्य कर्मनिमित्तत्वाज्जीवस्यैव तत्सम्भवात्॥
 </details>
 
-## सिद्धान्तः
+## चराचर-ग्रहणात्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र उच्यते – अत्ता चराचर-ग्रहणात् – अत्ता परमात्मैव ।
+अत्र उच्यते – 
+
+> अत्ता चराचर-ग्रहणात् 
+
+– अत्ता परमात्मैव ।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -171,11 +175,10 @@ Of this view the Sūtra disposes. The 'eater' can be the highest Self only,
 अत्रोच्यते – अत्ता चराचरग्रहणात् – अत्ता परमात्मैव।
 </details>
 
-### चराचरग्रहणात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुतः ? चराचरग्रहणात् –  
-चराचरस्य कृत्स्नस्य अत्तृत्वं हि  
+कुतः ? **चराचरग्रहणात्** –  
+चराचरस्य कृत्स्नस्यात्तृत्वं हि  
 तस्यैव सम्भवति ।
 </details>
 
