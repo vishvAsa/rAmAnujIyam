@@ -2915,13 +2915,13 @@ to him fly for refuge' (Bha. Gi. XV, 15, 19; XVIII, 61). These Smr̥ti-texts sho
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > एष म आत्मा ऽन्तर् हृदये (छा.३.१४.३) 
-> 
-> इत्य् अणीयसि हृदयायतने स्थितत्वात्  
-> 
-> > अणीयान् व्रीहेर् वा यवाद् वा (छां.३.१४.३) 
-> 
-> इत्य्-आदिना ऽणीयस्त्वस्य स्व-रूपेण व्यपदेशाच् च  
+एष म आत्मा ऽन्तर् हृदये (छा.३.१४.३) 
+
+इत्य् अणीयसि हृदयायतने स्थितत्वात्  
+
+> अणीयान् व्रीहेर् वा यवाद् वा (छां.३.१४.३) 
+
+इत्य्-आदिना ऽणीयस्त्वस्य स्व-रूपेण व्यपदेशाच् च  
 नायं परमात्मा, अपि तु जीव एव;
 </details>
 
@@ -2937,14 +2937,12 @@ It might be contended that, as the text 'he is my Self within the heart' declare
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > सर्व-गतं सुसूक्ष्मं तद् अव्ययं  
+> सर्व-गतं सुसूक्ष्मं तद् अव्ययं  
 यद् भूत-योनिं परिपश्यन्ति धीराः  
 (मुण्ड.१.१.६) 
-> 
-> इत्य्-आदिभिः परमात्मनो ऽपरिच्छिन्नत्वावगमात्,  
-जीवस्य चाराग्र-मात्रत्व-व्यपदेशाद् 
 
-इति चेत् –
+इत्य्-आदिभिः परमात्मनो ऽपरिच्छिन्नत्वावगमात्,  
+जीवस्य चाराग्र-मात्रत्व-व्यपदेशाद्
 </details>
 
 <details><summary>Thibaut</summary>
@@ -2954,7 +2952,7 @@ For other passages speak of the highest Self as unlimited, and of the embodied s
 
 <details><summary>मूलम्</summary>
 
-सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः (मुण्ड.१.१.६) इत्यादिभिः परमात्मनो[[ऽपरिच्छन्नत्व|ऽपरिच्छिन्नत्व]] -अवगमात्, जीवस्य चाराग्रमात्रत्वव्यपदेशादिति चेत् –
+सर्वगतं सुसूक्ष्मं तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः (मुण्ड.१.१.६) इत्यादिभिः परमात्मनो[[ऽपरिच्छन्नत्व|ऽपरिच्छिन्नत्व]] -अवगमात्, जीवस्य चाराग्रमात्रत्वव्यपदेशाद् 
 </details>
 
 <details><summary>श्रुत-प्रकाशिका</summary>
@@ -2964,7 +2962,8 @@ For other passages speak of the highest Self as unlimited, and of the embodied s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैतद् एवम्, परमात्मैव ह्य् अणीयान् इत्य् एवं निचाय्यत्वेन व्यपदिश्यते;
+इति चेत् –
+नैतद् एवम्, "परमात्मैव ह्य् अणीयान्" इत्य् एवं निचाय्यत्वेन व्यपदिश्यते;
 </details>
 
 <details><summary>Thibaut</summary>
@@ -2974,13 +2973,14 @@ For other passages speak of the highest Self as unlimited, and of the embodied s
 
 <details><summary>मूलम्</summary>
 
+इति चेत् –
 नैतदेवम्, परमात्मैव ह्यणीयानित्येवं निचाय्यत्वेन व्यपदिश्यते;
 </details>
 
+### निचाय्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं निचाय्यत्वेन –  
-एवं द्रष्टव्यत्वेन,  
+एवं निचाय्यत्वेन – एवं द्रष्टव्यत्वेन,  
 एवम् उपास्यत्वेनेति यावत्।
 </details>
 
@@ -3000,9 +3000,10 @@ For other passages speak of the highest Self as unlimited, and of the embodied s
 फलरूपदर्शनव्यावृत्त्यर्थमाह - उपास्यत्वेनेति ।
 </details>
 
+### व्योमवत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न पुनर् अणीयस्त्वम् एवास्य स्वरूपम् इति;
+न पुनर् "अणीयस्त्वम् एवास्य स्वरूपम्" इति;
 </details>
 
 <details><summary>Thibaut</summary>
@@ -3026,9 +3027,12 @@ Such minuteness does not, however, belong to its true nature;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्योमवच् चायं व्यपदिश्यते,  
+**व्योमवच्** चायं व्यपदिश्यते,  
 स्वाभाविक-महत्त्वं चात्रैव व्यपदिश्यते –  
-ज्यायान् पृथिव्या ज्यायान् अन्तरिक्षाज् ज्यायान् दिवो ज्यायान् एभ्यो लोकेभ्यः (छां.३.१४.१) इति।
+
+> ज्यायान् पृथिव्या, ज्यायान् अन्तरिक्षाज्, ज्यायान् दिवो, ज्यायान् एभ्यो लोकेभ्यः (छां.३.१४.१) 
+
+इति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -3089,39 +3093,124 @@ This shows that the designation of the highest Self as minute is for the purpose
 पृथिव्यादयस्तदुपाधय इति नाशङ्कनीयम्, ततोऽपि ज्यायस्त्वश्रवणात्, न हि ततेऽधिकपरिमाणत्वं तदुपाधिकं भवितुमर्हति, अणीयस्त्वस्योपासनार्थत्वमुपासनप्रकरणाविच्छेदेन स्वाभाविकमहत्त्वप्रपञ्चनेनोपपादयति - तथा हीति ।
 </details>
 
- अल्पायतनत्वाद्युपदेशस्य उपासनार्थत्वदृढीकरणम्
+### प्रकरणानुकूल्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वं खल्व् इदं ब्रह्म  
-तज्-ज-लान् इति शान्त उपासीत ([[मुण्ड.३.१४.४|छां.३.१४.१]])  
-इति सर्वोत्पत्ति-प्रलय-कारणत्वेन सर्वस्याऽत्मतया अनुप्रवेश-कृत-जीवयितृत्वेन च सर्वात्मकं ब्रह्मोपासीत  
+> > सर्वं खल्व् इदं ब्रह्म  
+तज्-ज-ल-+अन्+++(←प्राणने)+++  
+>
+> इति शान्त उपासीत (छां.३.१४.१)  
+
+इति 
+
+> सर्वोत्पत्ति-प्रलय-कारणत्वेन,  
+सर्वस्यात्मतया, अनुप्रवेश-कृत-जीवयितृत्वेन च  
+सर्वात्मकं ब्रह्मोपासीत  
+
 इत्य् उपासनं विधाय  
-अथ खलु क्रतुमयः पुरुषो यथा-क्रतुर् अस्मिल् [[लोङ्के|लोके]] पुरुषो भवति  
-तथेतः प्रेत्य भवति (छां.३.१४.४) इति यथोपासनं प्राप्य-सिद्धिम् अभिधाय  
-स क्रतुं कुर्वीत इति गुण-विधानार्थम् उपासनम् अनूद्य (छां.३.१४.४)  
-मनोमयः प्राण-शरीरो भा-रूपः सत्य-सङ्कल्प आकाशात्मा सर्व-कर्मा सर्व-कामः  
-[[सर्व-गन्धरस्|सर्व-गन्धस्]] सर्व-रसः सर्वम् इदम् अभ्यात्तो ऽवाक्य-नादरः (छां.३.१४.४) इति जगद्-ऐश्वर्य-विशिष्टस्य स्वरूप-गुणांश् चोपादेयान् प्रतिपाद्य  
-एष म [[आत्माऽन्तर्हृादयेऽणीयान्|आत्मा ऽन्तर्-हृदये ऽणीयान्]] व्रीहेर् वा यवाद् वा सर्षपाद् वा श्यामाकाद् वा श्यामाक-तण्डुलाद् वा (छां.३.१४.४)  
-इत्य् उपासकस्य हृदये ऽणीयस्त्वेन तद्-आत्मतयोपास्यस्य परम-पुरुषस्योपासनार्थम् अवस्थानम् उक्त्वा  
-एष म [[आत्माऽन्तर्हृादये|आत्मा ऽन्तर्-हृदये]] ज्यायान् पृथिव्या ज्यायान् [[अन्तरक्षाज्|अन्तरिक्षाज्]] ज्यायान् दिवो ज्यायान् एभ्यो लोकेभ्यः  
-सर्व-कर्मा सर्व-कामस् सर्व-रसस् सर्वम् इदम् अभ्यात्तः अवाक्य-नादरः (छां.३.१४.१,४)  
-इत्य् अन्तर्-[[हृादये|हृदये]] ऽवस्थितस्य उपास्यमानस्य प्राप्याकारं निर्दिश्य  
-एष म आत्मा [[ऽन्तर्-हादय|ऽन्तर्-हृदय]] एतद् ब्रह्म इत्य् एवं भूतं परं ब्रह्म  
-परम-कारुण्येनास्मद्-उज्जिजीवयिषया अस्मद्-धृदये सन्निहितम् इतीदम् अनुसन्धानं विधाय  
-एतम् इतः प्रेत्याभिसम्भवितास्मि (छां.३.१४.४) इति यथोपासनं प्राप्ति-निश्चयानुसन्धानं च विधाय  
-इति यस्य स्याद् अद्धा न विचिकत्सा ऽस्ति (छां.३.१४.४)  
-इत्य् एवं-विध-प्राप्य-प्राप्ति-निश्चयोपेतस्योपासकस्य प्राप्तौ न संशयो ऽस्तीत्य् उपसंहृतम्।
+
+</details>
+
+<details><summary>English</summary>
+
+The clause 'All this is Brahman; let a man meditate with calm mind on this world as beginning, ending, and breathing in Brahman,' enjoins meditation on Brahman as being the Self of all, in so far as it is the cause of the origin and destruction of all, and entering into all beings as their soul gives life to them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत ([[मुण्ड.३.१४.४|छां.३.१४.१]]) इति सर्वोत्पत्तिप्रलयकारणत्वेन सर्वस्याऽत्मतया अनुप्रवेशकृतजीवयितृत्वेन च सर्वात्मकं ब्रह्मोपासीतेत्युपासनं विधाय 
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अथ खलु क्रतुमयः पुरुषो,  
+> यथा-क्रतुर् अस्मिल्ँ लोके पुरुषो भवति  
+तथेतः प्रेत्य भवति (छां.३.१४.४) 
+
+इति यथोपासनं प्राप्य-सिद्धिम् अभिधाय
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स क्रतुं कुर्वीत (छां.३.१४.४)
+
+इति गुण-विधानार्थम् उपासनम् अनूद्य   
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मनोमयः प्राण-शरीरो भा-रूपः  
+> सत्य-सङ्कल्प आकाशात्मा  
+> सर्व-कर्मा सर्व-कामः  
+सर्व-गन्धस् सर्व-रसः  
+सर्वम् इदम् अभ्यात्तो ऽवाक्य् अनादरः (छां.३.१४.४) 
+
+इति जगद्-ऐश्वर्य-विशिष्टस्य स्वरूप-गुणांश् चोपादेयान् प्रतिपाद्य  
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एष म आत्मा ऽन्तर् हृदये ऽणीयान्  
+व्रीहेर् वा यवाद् वा सर्षपाद् वा श्यामाकाद् वा श्यामाक-तण्डुलाद् वा (छां.३.१४.४)  
+
+इत्य् उपासकस्य हृदये ऽणीयस्त्वेन  
+तद्-आत्मतयोपास्यस्य परम-पुरुषस्योपासनार्थम् अवस्थानम् उक्त्वा  
+</details>
+
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एष म आत्मा ऽन्तर् हृदये  
+ज्यायान् पृथिव्या, ज्यायान् अन्तरिक्षाज्, ज्यायान् दिवो, ज्यायान् एभ्यो लोकेभ्यः  
+सर्व-कर्मा सर्व-कामस् सर्व-रसस्  
+सर्वम् इदम् अभ्यात्तः  
+अवाक्य् अनादरः (छां.३.१४.१,४)  
+
+इत्य् अन्तर् हृदये ऽवस्थितस्य उपास्यमानस्य प्राप्याकारं निर्दिश्य  
+</details>
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एष म आत्मा ऽन्तर् हृदय  
+एतद् ब्रह्म 
+
+इत्य् 
+
+> एवं-भूतं परं ब्रह्म  
+परम-कारुण्येनास्मद्-उज्जिजीवयिषया  
+ऽस्मद्-धृदये सन्निहितम् 
+
+इतीदम् अनुसन्धानं विधाय  
+</details>
+
+
+<details><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एतम् इतः प्रेत्याभिसम्भवितास्मि (छां.३.१४.४) 
+
+इति यथोपासनं प्राप्ति-निश्चयानुसन्धानं च विधाय  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इति यस्य स्याद् अद्धा  
+> न विचिकत्सा ऽस्ति (छां.३.१४.४)  
+
+इत्य् एवं-विध-प्राप्य-प्राप्ति-निश्चयोपेतस्योपासकस्य  
+प्राप्तौ न संशयो ऽस्तीत्य् उपसंहृतम्।
 </details>
 
 <details><summary>Thibaut</summary>
 
-The clause 'All this is Brahman; let a man meditate with calm mind on this world as beginning, ending, and breathing in Brahman,' enjoins meditation on Brahman as being the Self of all, in so far as it is the cause of the origin and destruction of all, and entering into all beings as their soul gives life to them. The next clause, 'Man is made of thought; according as his thought is in this world, so will he be when he has departed this life,' declares the attainment of the desired object to depend on the nature of the meditation; and the following clause, 'Let him therefore form the following thought,' thereupon repeats the injunction with a view to the declaration of details. The clause 'He who consists of mind,' &c., up to 'who is never surprised,' then states the nature and qualities, of the being to be meditated upon, which are to be comprised in the meditation. Next, the clause 'He is my Self,' up to 'the kernel of a canary seed, 'declares that the highest Person, for the purpose of meditation, abides in the heart of the meditating devotee; representing it as being itself minute, since the heart is minute. After this the clause 'He also is my Self,' up to 'who is never surprised,' describes those aspects of the being meditated upon as within the heart, which are to be attained by the devotee. Next, the words 'this my Self within the heart is that Brahman' enjoins the reflection that the highest Brahman, as described before, is, owing to its supreme kindness, present in our hearts in order thereby to refresh and inspirit us. Then the clause 'When I shall have departed from hence I shall obtain him' suggests the idea that there is a certainty of obtaining him on the basis of devout meditation; and finally the clause 'He who has this faith has no doubt' declares that the devotee who is firmly convinced of his aim being attainable in the way described, will attain it beyond any doubt.
+The next clause, 'Man is made of thought; according as his thought is in this world, so will he be when he has departed this life,' declares the attainment of the desired object to depend on the nature of the meditation; and the following clause, 'Let him therefore form the following thought,' thereupon repeats the injunction with a view to the declaration of details. The clause 'He who consists of mind,' &c., up to 'who is never surprised,' then states the nature and qualities, of the being to be meditated upon, which are to be comprised in the meditation. Next, the clause 'He is my Self,' up to 'the kernel of a canary seed, 'declares that the highest Person, for the purpose of meditation, abides in the heart of the meditating devotee; representing it as being itself minute, since the heart is minute. After this the clause 'He also is my Self,' up to 'who is never surprised,' describes those aspects of the being meditated upon as within the heart, which are to be attained by the devotee. Next, the words 'this my Self within the heart is that Brahman' enjoins the reflection that the highest Brahman, as described before, is, owing to its supreme kindness, present in our hearts in order thereby to refresh and inspirit us. Then the clause 'When I shall have departed from hence I shall obtain him' suggests the idea that there is a certainty of obtaining him on the basis of devout meditation; and finally the clause 'He who has this faith has no doubt' declares that the devotee who is firmly convinced of his aim being attainable in the way described, will attain it beyond any doubt.
 </details>
 
 <details><summary>मूलम्</summary>
 
-सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत ([[मुण्ड.३.१४.४|छां.३.१४.१]]) इति सर्वोत्पत्तिप्रलयकारणत्वेन सर्वस्याऽत्मतया अनुप्रवेशकृतजीवयितृत्वेन च सर्वात्मकं ब्रह्मोपासीतेत्युपासनं विधाय अथ खलु क्रतुमयः पुरुषो यथाक्रतुर[[स्मिल्लोङ्के|स्मिल्लोके]] पुरुषो भवति तथेतः प्रेत्य भवति (छां.३.१४.४) इति यथोपासनं प्राप्यसिद्धिमभिधाय स क्रतुं कुर्वीत इति गुणविधानार्थमुपासनमनूद्य (छां.३.१४.४) मनोमयः प्राणशरीरो भारूपस्सत्यसङ्कल्प आकाशात्मा सर्वकर्मा सर्वकामस्[[सर्वगन्धरस्सर्वरसः|सर्वगन्धस्सर्वरसः]] सर्वमिदमभ्यात्तोऽवाक्यनादरः (छां.३.१४.४) इति जगदैश्वर्यविशिष्टस्य स्वरूपगुणांश्चोपादेयान् प्रतिपाद्य एष म [[आत्माऽन्तर्हृादयेऽणीयान्|आत्माऽन्तर्हृदयेऽणीयान्]] व्रीहेर्वा यवाद्वा सर्षपाद्वा श्यामाकाद्वा श्यामाक-तण्डुलाद्वा (छां.३.१४.४) इत्युपासकस्य हृदयेऽणीयस्त्वेन तदात्मतयोपास्यस्य परमपुरुषस्योपासनार्थमवस्थानमुक्त्वा एष म [[आत्माऽन्तर्हृादये|आत्माऽन्तर्हृदये]] ज्यायान् पृथिव्या [[ज्यायानन्तरक्षाज्ज्यायान्दिवो|ज्यायानन्तरिक्षाज्ज्यायान्दिवो]] ज्यायानेभ्योलोकेभ्यस्सर्वकर्मा सर्वकामस्सर्वरसस्सर्वमिदम् अभ्यात्तः अवाक्यनादरः (छां.३.१४.१,४) [[इत्यन्तर्हृादयेऽवस्थितस्य|इत्यन्तर्हृदयेऽवस्थितस्य]] उपास्यमानस्य प्राप्याकारं निर्दिश्य एष म [[आत्माऽन्तर्हादय|आत्माऽन्तर्हृदय]] एतद्ब्रह्म इत्येवं भूतं परं ब्रह्म परमकारुण्येनास्मदुज्जिजीवयिषया अस्मद्धृदये सन्निहितमितीदमनुसन्धानं विधाय एतमितः प्रेत्याभिसम्भवितास्मि (छां.३.१४.४) इति यथोपासनं प्राप्तिनिश्चयानुसन्धानं च विधाय इति यस्य स्यादद्धा न विचिकत्साऽस्ति (छां.३.१४.४) इत्येवंविधप्राप्यप्राप्तिनिश्चयोपेतस्योपासकस्य प्राप्तौ न संशयोऽस्तीत्युपसंहृतम्।
+अथ खलु क्रतुमयः पुरुषो यथाक्रतुर[[स्मिल्लोङ्के|स्मिल्लोके]] पुरुषो भवति तथेतः प्रेत्य भवति (छां.३.१४.४) इति यथोपासनं प्राप्यसिद्धिमभिधाय स क्रतुं कुर्वीत इति गुणविधानार्थमुपासनमनूद्य (छां.३.१४.४) मनोमयः प्राणशरीरो भारूपस्सत्यसङ्कल्प आकाशात्मा सर्वकर्मा सर्वकामस्[[सर्वगन्धरस्सर्वरसः|सर्वगन्धस्सर्वरसः]] सर्वमिदमभ्यात्तोऽवाक्यनादरः (छां.३.१४.४) इति जगदैश्वर्यविशिष्टस्य स्वरूपगुणांश्चोपादेयान् प्रतिपाद्य एष म [[आत्माऽन्तर्हृादयेऽणीयान्|आत्माऽन्तर्हृदयेऽणीयान्]] व्रीहेर्वा यवाद्वा सर्षपाद्वा श्यामाकाद्वा श्यामाक-तण्डुलाद्वा (छां.३.१४.४) इत्युपासकस्य हृदयेऽणीयस्त्वेन तदात्मतयोपास्यस्य परमपुरुषस्योपासनार्थमवस्थानमुक्त्वा एष म [[आत्माऽन्तर्हृादये|आत्माऽन्तर्हृदये]] ज्यायान् पृथिव्या [[ज्यायानन्तरक्षाज्ज्यायान्दिवो|ज्यायानन्तरिक्षाज्ज्यायान्दिवो]] ज्यायानेभ्योलोकेभ्यस्सर्वकर्मा सर्वकामस्सर्वरसस्सर्वमिदम् अभ्यात्तः अवाक्यनादरः (छां.३.१४.१,४) [[इत्यन्तर्हृादयेऽवस्थितस्य|इत्यन्तर्हृदयेऽवस्थितस्य]] उपास्यमानस्य प्राप्याकारं निर्दिश्य एष म [[आत्माऽन्तर्हादय|आत्माऽन्तर्हृदय]] एतद्ब्रह्म इत्येवं भूतं परं ब्रह्म परमकारुण्येनास्मदुज्जिजीवयिषया अस्मद्धृदये सन्निहितमितीदमनुसन्धानं विधाय एतमितः प्रेत्याभिसम्भवितास्मि (छां.३.१४.४) इति यथोपासनं प्राप्तिनिश्चयानुसन्धानं च विधाय इति यस्य स्यादद्धा न विचिकत्साऽस्ति (छां.३.१४.४) इत्येवंविधप्राप्यप्राप्तिनिश्चयोपेतस्योपासकस्य प्राप्तौ न संशयोऽस्तीत्युपसंहृतम्।
 </details>
 
 <details><summary>श्रुत-प्रकाशिका</summary>
@@ -3150,11 +3239,11 @@ The clause 'All this is Brahman; let a man meditate with calm mind on this world
 अत उपासनार्थम् अर्भकौकस्त्वमणीयस्त्वं च॥७॥
 </details>
 
- ब्रह्मणः जीवशरीरान्तर्वर्तित्वे सुखदुःखोपभोजशङ्कापरिहारौ
+## शरीर-स्थितौ न कर्म-ज-सुख-दुःखे
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-४०. सम्भोग-प्राप्तिर् इति चेन् न वैशेष्यात् ॥ १-२-८ ॥
+४०. "+++(प्राकृत-सुख-दुःख-)+++सम्भोग-प्राप्तिर्" इति चेन् न, +++(तत्-प्राप्तौ हेतु-)+++वैशेष्यात् ॥ १-२-८ ॥
 </details>
 
 <details><summary>Thibaut</summary>
@@ -3169,8 +3258,10 @@ The clause 'All this is Brahman; let a man meditate with calm mind on this world
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीवस्येव परस्यापि ब्रह्मणश् शरीरान्तर्-वर्तित्वम् अभ्युपगतं चेत् –  
-तद्वद् एव शरीर-सम्बन्ध-प्रयुक्त-सुख-दुःखोपभोग-प्राप्तिर् इति चेत् –  
+> जीवस्येव परस्यापि ब्रह्मणश् शरीरान्तर्-वर्तित्वम् अभ्युपगतं चेत् –  
+तद्वद् एव शरीर-सम्बन्ध-प्रयुक्त- -सुख-दुःखोपभोग-प्राप्तिर्  
+
+इति चेत् –  
 तन् न, हेतु-वैशेष्यात् –  
 न हि शरीरान्तर्वर्तित्वम् एव सुख-दुःखोपभोग-हेतुः;
 </details>
@@ -3192,7 +3283,7 @@ But, if the highest Brahman is assumed to dwell within bodies, like the individu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि तु पुण्य-पाप-रूप-कर्म-पर-वशत्वम्;
+अपि तु पुण्य-पाप-रूप-कर्म--पर-वशत्वम्;
 </details>
 
 <details><summary>Thibaut</summary>
@@ -3207,7 +3298,7 @@ but rather the subjection to the influence of good and evil deeds;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्त्व् अपहत-पाप्मनः परमात्मनो न सम्भवति।
+तत् त्व् अपहत-पाप्मनः परमात्मनो न सम्भवति।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -3223,7 +3314,11 @@ and such subjection is impossible in the case of the highest Self to which all e
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च श्रुतिः  
-तयोर् अन्यः पिप्पलं स्वाद्व् अत्त्य् अनश्नन्न् अन्यो अभिचाकशीति (मुण्ड.३.११) इति ॥८॥
+
+> तयोर् अन्यः पिप्पलं स्वाद्व् अत्त्य्  
+> अनश्नन्न् अन्यो अभिचाकशीति (मुण्ड.३.११) 
+
+इति ॥८॥
 </details>
 
 <details><summary>Thibaut</summary>
