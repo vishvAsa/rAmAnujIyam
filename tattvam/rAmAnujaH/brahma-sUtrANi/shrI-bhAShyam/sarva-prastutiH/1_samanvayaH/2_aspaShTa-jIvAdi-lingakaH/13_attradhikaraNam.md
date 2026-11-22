@@ -256,10 +256,11 @@ because the taking, i. e. eating, of the whole aggregate of movable and immovabl
 चराचरग्रहणादित्येतद्य्वाचष्टे - चराचरस्येति ।
 </details>
 
+## विष्णुः प्रकरणतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चेदं कर्मनिमित्तं भोक्तृत्वम् ;  
-अपि तु जगज्-जन्म-स्थिति-लय-हेतु-भूतस्य परस्य ब्रह्मणो विष्णोः संहर्तृत्वम् ।
+अपि तु जगज्-जन्म-स्थिति-लय-हेतु-भूतस्य परस्य ब्रह्मणो विष्णोः संहर्तृत्वम् –
 </details>
 
 <details><summary>Thibaut</summary>
@@ -279,13 +280,12 @@ because the taking, i. e. eating, of the whole aggregate of movable and immovabl
 कृत्स्नचराचरविषयमत्तृत्वं जीवस्यानुपपन्नमिति भावः ।
 </details>
 
-### प्रकरणतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सोऽध्वनः पारम् आप्नोति  
 तद्विष्णोः परमं पदम् (कठ.१.३.९) 
 
-इत्य् अत्रैव +++(समानप्रकरणे १.२.२५ तोऽनन्तरम्)+++ दर्शनात्।
+इत्य्-अत्रैव +++(समानप्रकरणे १.२.२५ तोऽनन्तरम्)+++ दर्शनात्।
 </details>
 
 <details><summary>Thibaut</summary>
@@ -310,7 +310,7 @@ This appears from the fact that Vishṇu is mentioned in the same section, 'He r
 अत्तृत्वं विष्णुकर्तृकं चराचरसंहर्तृत्वमिति कथमवगतमित्यत्र हेतुद्वयमाह सोऽध्वन इति । प्रकरणे परमात्मवाचिपदश्रवणं प्रथमो हेतुः ।
 </details>
 
-### उपसेचनवचनात्
+## उपसेचन-वचनात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च "मृत्युर् यस्योपसेचनम्" (कठ.१.२.२५) इति वचनात् ,  
