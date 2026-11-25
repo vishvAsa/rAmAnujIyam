@@ -164,7 +164,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 इति सङ्कल्प्य, स्थण्डिलं कृत्वा,
 
 ### उल्लेखनम्
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
 
 ब्रह्म॑ +++(=मन्त्रः ([सौरमण्डलयज्ञे]))+++ जज्ञा॒नं +++(=उत्पन्नम्)+++ प्र॑थ॒मं पु॒रस्ता॑द्  
 वि सी॑म॒तस् सु॒रुचो॑ वे॒न **आ॑वः** ।  
@@ -188,7 +188,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 इति प्रादेशमात्रां तथैव लेखां विलिख्य,  
 तस्या उत्तरतः, 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/12/112_ApyAyasva_sametu.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/12/112_ApyAyasva_sametu.md">
 
 **आप्या॑यस्व॒**, **समे॑तु** ते  
 वि॒श्वतः॑ सोम॒ वृष्ण्य॑म्।  
@@ -1014,12 +1014,10 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/13_brAhmaNo_asya_mukhamAsIdbAhU.md">
-
-ब्राह्मणो᳡ ऽस्य मु᳓खम् आसीद्  
+ब्राह्मणो᳙ ऽस्य मु᳓खम् आसीद्  
 बाहू᳓ राजनि᳓यः कृतः᳓  
 ऊरू᳓ त᳓द् अस्य य᳓द् वइ᳓श्यः  
 पद्भ्यां᳓ शूद्रो᳓ अजायत
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/14_chandramA_manaso.md">

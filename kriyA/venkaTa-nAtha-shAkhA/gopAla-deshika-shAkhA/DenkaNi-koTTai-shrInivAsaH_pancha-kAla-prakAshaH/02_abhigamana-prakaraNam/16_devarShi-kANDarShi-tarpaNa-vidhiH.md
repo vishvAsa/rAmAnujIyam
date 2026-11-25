@@ -53,7 +53,7 @@ title = "१६ देवर्षि-काण्डर्षि-तर्प�
 
 इति पितृ-तीर्थेन, सन्तर्प्य  
 
-<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md" unfilled newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md" unfilled newLevelForH1="5" includeTitle="false"> 
 
 > ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
 पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
