@@ -45,11 +45,10 @@ title = "०८ स्नानाङ्ग-देवर्षि-पितृ-�
 
 इति पितृ-तीर्थेन विसृजेत्।  
 
-<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md" unfilled newLevelForH1="5" includeTitle="false"> 
-
-> ऊर्जं॒ वह॑न्तीर् अ॒मृतं॑ घृ॒तं  
-पयः॑ की॒लालं॑ परि॒स्रु॑तम्।  
-स्व॒धा स्थ॑ त॒र्पय॑त मे पि॒तॄन् ॥३४॥
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/02/34_UrjaM_vahantIramRtam.md" unfilled newLevelForH1="5" includeTitle="false">
+ऊ᳓र्जं व᳓हन्तीर् अमृ᳓तं घृतं᳓  
+प᳓यः कीला᳓लं परिस्रु᳙तम्।  
+स्वधा᳓ स्थ तर्प᳓यत मे पितॄ᳓न् ॥३४॥
 </div>  
 
 इति जले, अञ्जलिना त्रिः प्रदक्षिणी-कृत्य दक्षिण-पार्श्व-तीरं संशोध्य। “तृप्य॑त॒, तृप्य॑त॒ तृप्य॑त" इति त्रिर् जलाञ्जलिं तीरे प्रक्षिप्य,  

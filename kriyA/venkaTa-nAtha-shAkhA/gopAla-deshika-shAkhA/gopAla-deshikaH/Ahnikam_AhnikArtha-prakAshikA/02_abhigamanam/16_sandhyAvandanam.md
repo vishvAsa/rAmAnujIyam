@@ -2390,7 +2390,7 @@ _भर्गयत्य्_ अपि तत्-कष्टं
 त्रिः प्राणानायम्य । प्रातस्सन्ध्योपस्थानं करिष्य इति सङ्कल्प्य उत्तम इत्यनुवाकस्य वामदेव ऋषिः । अनुष्टुप्छन्दः । गायत्री देवता । गायत्र्युद्वासने विनियोगः। 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2417,7 +2417,7 @@ _भर्गयत्य्_ अपि तत्-कष्टं
 ## उपस्थानादि
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/1/aMshAH/mitrasya_charShaNIdhRtaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
