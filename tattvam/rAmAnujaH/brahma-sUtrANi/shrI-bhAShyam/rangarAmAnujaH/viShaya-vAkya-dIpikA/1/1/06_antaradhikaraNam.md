@@ -9,6 +9,6 @@ title = "06 अन्तरधिकरणम्"
 छान्दोग्ये प्रथमाध्याये षष्ठखण्डे —
 
 
-<div class="js_include" url="/vedAH_sAma/tANDyam/ChAndogya-brAhmaNam/ChAndogyopaniShat/rangarAmAnujaH/1/06.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_sAma/tANDyam/ChAndogya-brAhmaNam/ChAndogyopaniShat/rangarAmAnujaH/1/06" newLevelForH1="5" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_sAma/tANDyam/ChAndogya-brAhmaNam/ChAndogyopaniShat/rangarAmAnujaH/1/07.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_sAma/tANDyam/ChAndogya-brAhmaNam/ChAndogyopaniShat/rangarAmAnujaH/1/07" newLevelForH1="5" includeTitle="false"> </div>

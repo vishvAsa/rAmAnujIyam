@@ -18,12 +18,9 @@ title = "११ वस्त्रधरणादि"
 
 </details>
 
-
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/056/12_shuchI_vo.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/056/12_shuchI_vo.md"  newLevelForH1="5" includeTitle="false"> </div>  
-
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/056/12_shuchI_vo.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -100,7 +97,6 @@ title = "११ वस्त्रधरणादि"
 </details>
 </div>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्य् **उच्चार्य**,  
@@ -118,8 +114,6 @@ title = "११ वस्त्रधरणादि"
 इत्युच्चार्य, उपवीतं निवीतं कर्णे निधाय कौपीनं धृत्वा, जङ्घे मृज्जलाभ्यां संशोध्य, हस्तौ प्रक्षाल्य वस्त्रमुत्तरीयञ्च धृत्वा, मन्त्रस्नानं कुर्यात् । स्नानवस्त्रमनिष्पीड्य, स्वपार्श्वे निक्षिपेत्, न पुरतः ।
 
 </details>
-
-
 
 <details><summary>आह्निकार्थप्रकाशिका</summary>
 
@@ -432,8 +426,6 @@ _अन्यथा कृतम्_ अव्यतिस्यूतं न �
 
 [[59]]
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वक्ष्यमाण-क्रमेण +ऊर्ध्व-पुण्ड्रादि कुर्यात् ।
@@ -443,8 +435,6 @@ _अन्यथा कृतम्_ अव्यतिस्यूतं न �
 
 ततो वक्ष्यमाणक्रमेण ऊर्ध्वपुण्ड्रादि कुर्यात् ।
 </details>
-
-
 
 <details><summary>आह्निकार्थप्रकाशिका</summary>
 

@@ -87,10 +87,10 @@ ______________
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_08_sumitrA/11_yadapA~N_krUray.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-यद॒पाङ् क्रू॒रय्ँ,  
-यद् अ॑मे॒द्ध्यय्ँ  
-यद् अ॑शा॒न्तन्,  
-तद् अप॑गच्छतात् ।
+य᳓द् अपा᳓ङ् क्रूरय्ँ᳓,  
+य᳓द् अमेद्ध्यय्ँ᳓  
+य᳓द् [[अशान्त᳓न्|अ᳓शान्तन्]],  
+त᳓द् **अ᳓पगच्छतात्** ।
 </details>
 </div>
 
@@ -105,20 +105,20 @@ ______________
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_08_sumitrA/14_atyAshanAd_atIpAnAd.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-अ॒त्या॒श॒नाद् अ॑तीपा॒ना॒द्  
-य॒च् च उ॒ग्रात् प्र॑ति॒ग्रहा᳚त् ।  
-तन् मे॒ वरु॑णो रा॒जा॒  
-पा॒णिना᳚ ह्य् **अव॒मर्श॑तु** ।
+अत्याशना᳓द् [[अतीपानाद्|अतीपाना᳓द्]]  
+[[यच्|य᳓च्]] [[च᳓|च]] उग्रा᳓त् प्रतिग्र᳓हात् ।  
+त᳓न् मे व᳓रुणो [[राजा|रा᳓जा]]  
+पाणि᳓ना ह्य् **[[अवम᳓र्शतु|अ᳙वम᳓र्शतु]]** ।
 </details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_08_sumitrA/16_so-ham_apApo.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-सो॑ऽहम् अ॑पा॒पो वि॒रजो॒  
-निर्मु॒क्तो मु॑क्त-कि॒ल्बिषः ।  
-नाक॑स्य पृ॒ष्ठम् आरु॑ह्य॒  
-**गच्छे॒द्** ब्रह्म॑-सलो॒कताम् ।
+सो᳙ऽह᳓म् अपापो᳓ [[विर᳓जो|वि᳓रजो]]  
+नि᳓र्मुक्तो मुक्त᳓-किल्बिषः ।  
+ना᳓कस्य पृष्ठ᳓म् **आरु᳓ह्य**  
+**[[गच्छेद्|ग᳓च्छेद्]]** ब्रह्म-सलोक᳓ताम् ।
 </details>
 </div>
 
@@ -182,10 +182,10 @@ ______________
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_08_sumitrA/19_imaM_me.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-इ॒मं मे॑ गङ्गे यमुने सरस्वति॒  
-शुतु॑द्रि॒ स्तोमँ॑ सचता॒ परु॒ष्णिया ।  
-अ॒सि॒क्नि॒या म॑रुद्-वृधे वि॒तस्त॒या  
-ऽऽर्जी॑कीये श्रुणु॒ह्या सु॒षोम॑या ।
+इमं᳓ मे गङ्गे यमुने सरस्वति  
+शु᳓तुद्रि स्तो᳓मँ **सचता** [[प᳓रुष्णि᳓या᳓|परुष्णिया᳓]] ।  
+असिक्निया᳓ मरुद्-वृधे वित᳓स्तया᳓  
+ऽऽर्जीकीये **श्रुणुह्या᳓** सुषो᳓मया ।
 </details>
 </div>
 
