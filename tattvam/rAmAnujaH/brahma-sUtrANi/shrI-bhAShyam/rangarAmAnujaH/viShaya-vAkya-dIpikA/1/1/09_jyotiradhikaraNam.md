@@ -6,4 +6,4 @@ title = "09 ज्योतिरधिकरणम्"
 
 <div class="js_include" url="/vedAH_sAma/tANDyam/ChAndogya-brAhmaNam/ChAndogyopaniShat/rangarAmAnujaH/3/12_brahma-gAyatry-upAsanam" newLevelForH1="5" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH_sAma/tANDyam/ChAndogya-brAhmaNam/ChAndogyopaniShat/rangarAmAnujaH/3/13_jyotir-upAsanAntam13_jyotir-upAsanAntam" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_sAma/tANDyam/ChAndogya-brAhmaNam/ChAndogyopaniShat/rangarAmAnujaH/3/13_jyotir-upAsanAntam" newLevelForH1="5" includeTitle="false"> </div>
