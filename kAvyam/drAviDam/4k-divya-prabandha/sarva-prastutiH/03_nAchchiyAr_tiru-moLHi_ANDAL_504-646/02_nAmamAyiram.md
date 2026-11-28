@@ -59,7 +59,7 @@ because you would be human just like we are:
 We do nombu in the month of Punguni  
 because that is the month when Kama comes:  
 O Sridhara, don’t bother us,  
-don’t come and destroy our little sand houses:
+don’t come and destroy our little sand houses:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५१४</summary>
@@ -140,7 +140,7 @@ We worked all day to build these sand houses and our backs hurt:
 Look at our sand houses: They make us happy:  
 O ancient one who slept on a banyan leaf as a baby,  
 it is a pity that you are not kind to us:  
-Do not come and destroy our little sand houses:
+Do not come and destroy our little sand houses:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५१५</summary>
@@ -222,7 +222,7 @@ and didn’t worry about what we might think:
 We worked hard to make our houses with soft sand  
 and our bangled hands hurt:  
 O lord, you rest on the ocean where clear waves roll:  
-Do not come and destroy our little sand houses:
+Do not come and destroy our little sand houses:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५१६</summary>
@@ -302,7 +302,7 @@ We won’t complain to others
 that you trouble us innocent, weak girls:  
 We don’t want them to blame you  
 with your lovely lotus eyes:  
-Don’t come and destroy our little sand houses:
+Don’t come and destroy our little sand houses:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५१७</summary>
@@ -378,7 +378,7 @@ Even so we aren’t angry at you:
 Our hearts melt for your love:  
 You are a thief, Madhavan, Kesavan:  
 Don't you have eyes on your face?  
-Don’t come and destroy our little sand houses:
+Don’t come and destroy our little sand houses:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५१८</summary>
@@ -462,7 +462,7 @@ You who built a bridge on the ocean, went to Lanka,
 and fought and destroyed the Raksasa clan  
 are the servant of all of your devotees:  
 Don’t give us trouble,  
-don’t come and destroy our little sand houses:
+don’t come and destroy our little sand houses:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५१९</summary>
@@ -542,7 +542,7 @@ it just hurts us: What do you gain from that?
 You who have the color of the wide sounding ocean  
 and built the bridge Sethu  
 will get in trouble with your wives:  
-Don’t come and destroy our little sand houses:
+Don’t come and destroy our little sand houses:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५२०</summary>
@@ -626,7 +626,7 @@ and kick them down and give us trouble?
 Ocean-colored wone with a shining discus in your hand,  
 don’t you know that even jaggery will not be sweet  
 if your mind is bitter?  
-Don’t come and destroy our little sand houses:
+Don’t come and destroy our little sand houses:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५२१</summary>
@@ -705,7 +705,7 @@ You measured the earth
 and grew tall and measured the sky:  
 What will those standing near us say  
 if you come and embrace us?  
-Do not come and destroy our little sand houses:
+Do not come and destroy our little sand houses:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५२२</summary>
@@ -770,17 +770,17 @@ Do not come and destroy our little sand houses:
 
 <details><summary>Hart - DP_५२३</summary>
 
-Vishṇuchithan Kodai, the chief of Villiputhur
-     where Vediyar recite the Vedas
-     composed pāsurams about what the cowherd girls
-     playing and making little sand houses said to Kaṇṇan.
-     They said, “You who drank the nectar of the mouth of Sita,
-     do not destroy our little sand houses.”
-     If devotees learn these pāsurams well
-     they will go to Vaikuṇṭam.
--------------
+Vishṇuchithan Kodai, the chief of Villiputhur  
+where Vediyar recite the Vedas  
+composed pāsurams about what the cowherd girls  
+playing and making little sand houses said to Kaṇṇan.  
+They said, “You who drank the nectar of the mouth of Sita,  
+do not destroy our little sand houses.”  
+If devotees learn these pāsurams well  
+they will go to Vaikuṇṭam.  
+-------------  
 
-Cowherd girls asking Kaṇṇan to give their clothes.
+Cowherd girls asking Kaṇṇan to give their clothes.  
 </details>
 
 <details><summary>Info - DP_५२३</summary>

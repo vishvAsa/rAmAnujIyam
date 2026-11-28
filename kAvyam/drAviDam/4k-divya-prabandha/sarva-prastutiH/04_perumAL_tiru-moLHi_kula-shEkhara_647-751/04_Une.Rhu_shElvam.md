@@ -49,7 +49,7 @@ I want to be born as a kurugu bird that lives
 on the branches of the trees in Thiruvenkaṭam  
 of him with a conch in his left hand  
 who conquered seven strong bulls:  
-I want only to be his slave:
+I want only to be his slave:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६७७</summary>
@@ -126,7 +126,7 @@ or have the joy of ruling the sky
 and a kingdom on the earth:  
 I want to be born as a fish in a spring  
 in Thiruvenkaṭam filled with groves  
-flourishing with flowers that drip honey:
+flourishing with flowers that drip honey:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६७८</summary>
@@ -198,7 +198,7 @@ Shiva with matted hair, Nanmuhan and Indra
 could not enter the divine entrance of Vaikuṇṭam  
 even when they approached it,  
 but I will enter holding the golden plate  
-that the king of Thiruvenkaṭam ate from:
+that the king of Thiruvenkaṭam ate from:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६७९</summary>
@@ -271,7 +271,7 @@ I would have the good fortune of blooming
 as a shenbaga flower in Thiruvenkaṭam hills  
 where a swarm of bees sings and praises him:  
 I will see the feet of Māyon, decorated with anklets,  
-as he stays in the Thiruvenkaṭam hills:
+as he stays in the Thiruvenkaṭam hills:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६८०</summary>
@@ -338,7 +338,7 @@ on the neck of a rutting elephant that frightens everyone
 and know the joy of riding it:  
 I want to have the good fortune  
 of standing as a pole in the beautiful Venkaṭam hills  
-of our beloved lord:
+of our beloved lord:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६८१</summary>
@@ -405,7 +405,7 @@ the dance and songs of heavenly women
 like Urvasi and Menaka with waists as thin as lightning:  
 I want to have the good fortune of being a golden peak  
 in the Thiruvenkaṭam hills  
-where bees swarm and sing “tenna, tenna:”
+where bees swarm and sing “tenna, tenna:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६८२</summary>
@@ -475,7 +475,7 @@ under a white royal umbrella
 bright as the moon that rules the sky:  
 I want to be a forest river that flows  
 from the Thiruvenkaṭam hills surrounded with groves  
-blooming with flowers that drip honey:
+blooming with flowers that drip honey:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६८३</summary>
@@ -543,7 +543,7 @@ surrounded by cool fragrant groves,
 where he stays who is the meaning of the Vedas  
 and who helped Nanmuhan, Indra  
 and Shiva with the crescent moon in his matted hair  
-when they performed sacrifices:
+when they performed sacrifices:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६८४</summary>
@@ -619,7 +619,7 @@ You are the highest ! You stay in the Thiruvenkaṭam hills:
 Devotees, the gods in the sky and Apsarases  
 stand at the entrance of your temple to see you:  
 I will become a step at the threshold of your temple  
-and I will see your coral mouth:
+and I will see your coral mouth:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६८५</summary>
@@ -697,7 +697,7 @@ and enjoy the waist of Urvasi,
 decorated with beautiful golden ornaments,  
 I would not want it:  
 I want to become anything on the golden hills  
-of Thiruvenkaṭam of my lord: :
+of Thiruvenkaṭam of my lord: :  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६८६</summary>
@@ -756,16 +756,16 @@ of Thiruvenkaṭam of my lord: :
 
 <details><summary>Hart - DP_६८७</summary>
 
-Kulasekharan with a sharp spear
-     that kills his enemies worshiped the lord
-     of Thiruvenkaṭam hills with cool and lovely slopes
-     and, wishing to see his golden shining feet,
-     composed pāsurams praising him.
-     If Tamil scholars learn well these pāsurams of Kulasekaran
-     they will become his good devotees.
------------
+Kulasekharan with a sharp spear  
+that kills his enemies worshiped the lord  
+of Thiruvenkaṭam hills with cool and lovely slopes  
+and, wishing to see his golden shining feet,  
+composed pāsurams praising him.  
+If Tamil scholars learn well these pāsurams of Kulasekaran  
+they will become his good devotees.  
+-----------  
 
-Lord of Vitruvakkoṭṭam.
+Lord of Vitruvakkoṭṭam.  
 </details>
 
 <details><summary>Info - DP_६८७</summary>

@@ -62,7 +62,7 @@ and all the beautiful flowers that drip honey bloom,
 the gods of the sky all come before you to worship you:  
 Elephants, male and female, come and, as drums are beaten,  
 it seems the sound of a roaring ocean spreads everywhere:  
-O dear god of Srirangam, wake up and give us your grace:
+O dear god of Srirangam, wake up and give us your grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९१७</summary>
@@ -159,7 +159,7 @@ and called you in his distress,
 you came and saved him, killing the crocodile  
 whose mouth with white teeth was as deep as a cave:  
 O dear god of Srirangam,  
-wake up and give us your grace:
+wake up and give us your grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९१८</summary>
@@ -245,7 +245,7 @@ the bright light of the moon and the dew go away,
 the buds on the branches of the kamuhu trees in the green groves  
 split open spreading their fragrance and the morning breeze blows:  
 O dear god of Srirangam with a shining discus in your strong hand,  
-wake up and give us you grace:
+wake up and give us you grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९१९</summary>
@@ -332,7 +332,7 @@ bull among the gods,
 destroyed the clan of Rakshasas in Lanka  
 and you, the strong one, helped the pure sages  
 do sacrifices and protected them:  
-O dear god of Srirangam, wake up and give us your grace:
+O dear god of Srirangam, wake up and give us your grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९२०</summary>
@@ -428,7 +428,7 @@ swarming with bees and come to garland you
 and worship your feet:  
 This is the temple where Vibhishaṇa,  
 the king of Lanka, worshiped you:  
-O dear god, wake up and give us your grace:
+O dear god, wake up and give us your grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९२१</summary>
@@ -517,7 +517,7 @@ All these gods and the celestial physicians and the Vasus are here,
 while the other divine gods come on horses and chariots singing and dancing:  
 The crowd of gods is like a flood  
 and they have gathered in front of your temple that looks like a huge mountain:  
-O dear god of Srirangam, wake up and give us your grace
+O dear god of Srirangam, wake up and give us your grace  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९२२</summary>
@@ -610,7 +610,7 @@ Is that Indra coming on his elephant Airāvata?
 In front of your temple, Gandharvas, Vidyadharas  
 and Apsarases are all gathered together to worship you  
 and it seems as if there is no space left in the sky or on the earth:  
-O dear god of Srirangam, wake up and give us your grace:
+O dear god of Srirangam, wake up and give us your grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९२३</summary>
@@ -703,7 +703,7 @@ Good sages bring things suitable for you to wear
 and Nārada comes with his Thumburu veena to play music:  
 The sun god rises, spreading his bright light  
 and darkness disappears from the sky:  
-O dear god of Srirangam, wake up and give us your grace:
+O dear god of Srirangam, wake up and give us your grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९२४</summary>
@@ -789,7 +789,7 @@ Kinnaras, Garuḍas, Gandarvas and others sing:
 The sages, the gods in the sky, Saraṇars, Yaksas,  
 and Siddhas are all fascinated by the music  
 and come to worship your divine feet:  
-O dear god of Srirangam, wake up and give us your grace:
+O dear god of Srirangam, wake up and give us your grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९२५</summary>

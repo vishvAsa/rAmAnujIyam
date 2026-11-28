@@ -60,7 +60,7 @@ O Rāma, your step-mother said,
 ‘Go and stay for a long time in the large forest:’  
 I listened to the words of Kaikeyi, your mother,  
 and asked you to go to the forest:  
-O my dear son, that is what I did to you!”
+O my dear son, that is what I did to you!”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७३०</summary>
@@ -144,7 +144,7 @@ her long eyes like spears smeared with oil,
 and your younger brother Lakshmana followed you:  
 How could you walk in that cruel forest?  
 O our Rāma! You are my dear lord:  
-What can I do?”
+What can I do?”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७३१</summary>
@@ -229,7 +229,7 @@ Before you slept on a soft bed in the palace—
 how are you going to sleep  
 under the shadow of a tree in the large forest?  
 How could you learn to sleep on a stone bed,  
-O dark king of the dynasty of Kahustha?”
+O dark king of the dynasty of Kahustha?”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७३२</summary>
@@ -312,7 +312,7 @@ Now you are going to the wide forest
 and you make my heart suffer:  
 Surely I must have done bad karma:  
 My son, you are leaving,  
-yet my heart does not split in two:"
+yet my heart does not split in two:"  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७३३</summary>
@@ -402,7 +402,7 @@ where no one wishes to go:
 The sun will be hot and hunger will cause you cruel pain:  
 My son, you are going now  
 because I, a sinner, listened to the evil daughter of king Kaikeyan:  
-Surely I must have done bad karma: What can I do to stop you?”
+Surely I must have done bad karma: What can I do to stop you?”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७३४</summary>
@@ -486,7 +486,7 @@ I will not be able to see his majestic walk
 that is like the stride of an elephant,  
 I will not be able to see his lotus face anymore:  
 I have lost my dear one, my son:  
-Surely I have done terrible deeds, yet I am still alive:”
+Surely I have done terrible deeds, yet I am still alive:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७३५</summary>
@@ -569,7 +569,7 @@ and he does not wear any ornaments:
 Is it right that my son with such handsome arms  
 should go to the forest instead of me?  
 O, Sumanthra, O sage Vashisṭa,  
-you are learned men of the Vedas: Tell me!”
+you are learned men of the Vedas: Tell me!”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७३६</summary>
@@ -655,7 +655,7 @@ People will blame your own son Bharatha
 for what you have done  
 and you are going to make me go to heaven in the sky:  
 What are you going to get from all this?  
-O Kaikeyi, how could you live happily in this large world?”
+O Kaikeyi, how could you live happily in this large world?”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७३७</summary>
@@ -757,7 +757,7 @@ You are my dear one:
 I wish that you could be born as my son  
 for the next seven births:  
 May I have that fortune,  
-O king with long, strong arms:”
+O king with long, strong arms:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७३८</summary>
@@ -839,7 +839,7 @@ and Kosalai with hair filled with flowers that drip honey:
 You are going to the forest, leaving this rich palace happily,  
 and I will leave this place  
 and go to the gods’ world happily,  
-O king of the dynasty of Manu:”
+O king of the dynasty of Manu:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७३९</summary>
@@ -902,18 +902,18 @@ O king of the dynasty of Manu:”
 
 <details><summary>Hart - DP_७४०</summary>
 
-Dasharatha, adorned with garlands,
-     his arms strong as mountains, suffered when his son,
-     the beautiful dark Neḍumāl, went to the forest.
-     Kulasekharan, the king of Kozhiyur
-     who carries a sharp spear and rules under a royal umbrella
-     composed ten Tamil pāsurams
-     that describe the suffering of Dasharatha.
-     If devotees learn these Tamil pāsurams
-     they will avoid the bad paths of life.
--------------
+Dasharatha, adorned with garlands,  
+his arms strong as mountains, suffered when his son,  
+the beautiful dark Neḍumāl, went to the forest.  
+Kulasekharan, the king of Kozhiyur  
+who carries a sharp spear and rules under a royal umbrella  
+composed ten Tamil pāsurams  
+that describe the suffering of Dasharatha.  
+If devotees learn these Tamil pāsurams  
+they will avoid the bad paths of life.  
+-------------  
 
-God Rama of Thillai Chitrakuḍam.
+God Rama of Thillai Chitrakuḍam.  
 </details>
 
 <details><summary>Info - DP_७४०</summary>

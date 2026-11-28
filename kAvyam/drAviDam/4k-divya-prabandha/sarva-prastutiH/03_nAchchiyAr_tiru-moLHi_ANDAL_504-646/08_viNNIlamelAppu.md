@@ -57,7 +57,7 @@ Thirumāl, of Venkaṭam hill where clear water flows
 has not come to see me  
 and the tears from my eyes fall on my breasts:  
 I am tired and I am only a woman:  
-Is it right that he should destroy my pride like this?
+Is it right that he should destroy my pride like this?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५७७</summary>
@@ -136,7 +136,7 @@ the generous one colored as dark as night?
 My love for him burns me like fire:  
 If in the middle of the night  
 the breeze comes and hurts me,  
-how will I survive?
+how will I survive?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५७८</summary>
@@ -218,7 +218,7 @@ and give rain to the earth:
 My shining beauty, bangles, mind and sleep  
 have all gone, taking my pride with them:  
 I survive only by singing the divine qualities of Govindan,  
-the lord of Thiruvenkaṭam where cool waterfalls flow:
+the lord of Thiruvenkaṭam where cool waterfalls flow:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५७९</summary>
@@ -297,7 +297,7 @@ O shining clouds with lightning,
 he is the lord of Thiruvenkaṭam  
 with the goddess Lakshmi on his handsome chest:  
 Can you tell him that my breasts desire  
-every day to embrace his golden chest?
+every day to embrace his golden chest?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५८०</summary>
@@ -374,7 +374,7 @@ and make the flowers bloom and drip honey:
 If you would go to him to bring back my bangles  
 that he has taken away,  
 tell him who split open the body of Hiraṇyan with his sharp claws,  
-how much I love him and suffer:
+how much I love him and suffer:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५८१</summary>
@@ -454,7 +454,7 @@ in Thiruvenkaṭam of Thirumāl
 who took the land from Mahābali:  
 Like insects that enter into a vilam fruit and eat it,  
 Nāraṇan has entered into my heart and made me suffer:  
-Go and tell him how much I love him:
+Go and tell him how much I love him:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५८२</summary>
@@ -538,7 +538,7 @@ I bow to his feet and ask him for one thing:
 Only if he comes one day and embraces me  
 smearing kumkum paste on my breasts  
 will I be able to survive:  
-Go tell him this:
+Go tell him this:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५८३</summary>
@@ -617,7 +617,7 @@ I fall down like the old leaves of the erukkam plants
 when raindrops fall on them  
 and recite the names of him  
 who went to the battlefield and fought for the Pāndavas:  
-Will he come one day and talk to me?
+Will he come one day and talk to me?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५८४</summary>
@@ -699,7 +699,7 @@ you think Thiruvenkaṭam is your place and live there:
 What does he, resting on the snake bed, wish to tell me?  
 The people of the world may say,  
 “He doesn’t understand that she thinks that he is her refuge  
-and he hurts her, as beautiful as a vine:”
+and he hurts her, as beautiful as a vine:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५८५</summary>
@@ -764,17 +764,17 @@ and he hurts her, as beautiful as a vine:”
 
 <details><summary>Hart - DP_५८६</summary>
 
-Vishṇuchithan Kodai, the chief of flourishing Puduvai,
-     composed ten Tamil pāsurams
-     about how a girl with a beautiful forehead
-     asks the clouds to go as messengers
-     and tell how she suffers from love
-     for him who rests on the snake bed.
-     If devotees learn these pāsurams and keep them in their minds
-     they will become his devotees.
---------------
+Vishṇuchithan Kodai, the chief of flourishing Puduvai,  
+composed ten Tamil pāsurams  
+about how a girl with a beautiful forehead  
+asks the clouds to go as messengers  
+and tell how she suffers from love  
+for him who rests on the snake bed.  
+If devotees learn these pāsurams and keep them in their minds  
+they will become his devotees.  
+--------------  
 
-The love of a girl for the lord
+The love of a girl for the lord  
 </details>
 
 <details><summary>Info - DP_५८६</summary>

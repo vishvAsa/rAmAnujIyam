@@ -63,7 +63,7 @@ and make lovely decorations in our front yard:
 O Kamadeva, I worship you and your brother Saman:  
 I wonder, can I survive this love sickness?  
 Give me the boon of belonging to the lord of Thiruvenkaṭam  
-holding a discus in his hand that throws out fire:
+holding a discus in his hand that throws out fire:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५०४</summary>
@@ -155,7 +155,7 @@ I make all efforts to worship you, O Kamadeva
 with your flower arrows that drip honey:  
 I write the name of the ocean-colored one in my mind:  
 Give me your grace so I may enter the place of him  
-who split open the mouth of the Asuran when he came as a bird:
+who split open the mouth of the Asuran when he came as a bird:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५०५</summary>
@@ -243,7 +243,7 @@ and scold you, saying that you are heartless:
 Get ready with your fresh flower arrows  
 and give me your grace  
 so I may enter into the brightness  
-of the clever lord of Venkaṭam hills:
+of the clever lord of Venkaṭam hills:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५०६</summary>
@@ -330,7 +330,7 @@ and I made a fish flag and gave it to you
 with horses, fans and a sugarcane-bow:  
 I worshipped you and asked you to give me your grace  
 so that my round breasts  
-would belong at once to the lord of Dwarapuri:
+would belong at once to the lord of Dwarapuri:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५०७</summary>
@@ -419,7 +419,7 @@ instead of the pure lord with a conch and discus,
 it would be as if foxes that wander in the forest  
 came and ate the food that the sages make in a sacrifice  
 for the gods in the sky: O Manmatha,  
-I will not live if I have to marry someone other than my lord:
+I will not live if I have to marry someone other than my lord:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५०८</summary>
@@ -502,7 +502,7 @@ He has the dark color of the clouds and the kāyām flower
 and shines like a karuvilai blossom:  
 Give me your grace  
 so that the lotus-faced lord will see me with his divine eyes  
-and give me his grace:START
+and give me his grace:START  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५०९</summary>
@@ -586,7 +586,7 @@ Give me your grace so that Thirivikraman
 who measured the world  
 will touch me with his divine hands:  
 Give me your grace so that he will approach me  
-and touch my breasts:
+and touch my breasts:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५१०</summary>
@@ -672,7 +672,7 @@ You can see how I suffer for this nombu:
 I want tell you something:  
 Kesavan Nambi fought with the Asuran Kesi to protect a woman:  
 Give me your grace so that he will show me the same compassion  
-and I will have the fortune of sitting with him and pressing his feet:
+and I will have the fortune of sitting with him and pressing his feet:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५११</summary>
@@ -769,13 +769,13 @@ and I will have the fortune of sitting with him and pressing his feet:
 
 <details><summary>Hart - DP_५१२</summary>
 
-I sprinkle flowers and worship you
-     and bow to your feet three times a day.
-     If I am unable to live for the dark ocean-colored lord
-     and to serve him faultlessly,
-     I will cry and suffer and you, Kamadeva, will feel bad.
-     It will be as if you didn’t feed an ox that plows
-     and hit it with a stick instead.
+I sprinkle flowers and worship you  
+and bow to your feet three times a day.  
+If I am unable to live for the dark ocean-colored lord  
+and to serve him faultlessly,  
+I will cry and suffer and you, Kamadeva, will feel bad.  
+It will be as if you didn’t feed an ox that plows  
+and hit it with a stick instead.  
 </details>
 </details>
 ## १० करुप्पुविल् मलर्
@@ -820,18 +820,18 @@ I sprinkle flowers and worship you
 
 <details><summary>Hart - DP_५१३</summary>
 
-Vishṇuchithan Kodai, the chief of Puduvai
-     where the mountain-like palaces shine
-     composed pāsurams about the women
-     who worshiped Kama,
-     with a sugarcane bow and flower arrows.
-     and how they wanted his grace
-     so that they might be with the god
-     who broke the tusks of the elephant
-     and split open the beak of the bird.
------------
+Vishṇuchithan Kodai, the chief of Puduvai  
+where the mountain-like palaces shine  
+composed pāsurams about the women  
+who worshiped Kama,  
+with a sugarcane bow and flower arrows.  
+and how they wanted his grace  
+so that they might be with the god  
+who broke the tusks of the elephant  
+and split open the beak of the bird.  
+-----------  
 
-Women asks Kaṇṇan not to destroys their sand houses.
+Women asks Kaṇṇan not to destroys their sand houses.  
 </details>
 
 <details><summary>Info - DP_५१३</summary>

@@ -60,7 +60,7 @@ You are the king who killed the elephant Kuvalayābeeḍam, thālo:
 You are my son with handsome fragrant hair, thālo:  
 I am more unlucky than all other mothers  
 because I don’t have the good fortune  
-of singing a lullaby and saying “thālo, thālo” for you:”
+of singing a lullaby and saying “thālo, thālo” for you:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७०८</summary>
@@ -139,7 +139,7 @@ You look like a baby cloud:
 As you bend your legs and put your fingers in your mouth,  
 you look like an elephant bending its trunk and sleeping:  
 O Kesava, I don’t have the good fortune  
-of seeing these things when you are a baby:”
+of seeing these things when you are a baby:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७०९</summary>
@@ -223,7 +223,7 @@ When someone asked you, ‘Who is your father?’
 you looked at Nandagopan out of the corner of your eyes  
 and pointed at him with your beautiful fingers:  
 Vasudevan, our chief, does not have the good fortune  
-of being your father:”
+of being your father:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७१०</summary>
@@ -303,7 +303,7 @@ I do not have the fortune of seeing
 you with my eyes when you are a baby  
 even though I think of myself as your mother:  
 I am unlucky and I don’t have the pleasure  
-of raising my child, yet still I am alive:”
+of raising my child, yet still I am alive:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७११</summary>
@@ -387,7 +387,7 @@ When your father saw you like that
 his heart was filled with joy,  
 but I did not have the good fortune of seeing those things  
 or listening to your baby talk:  
-Only the divine Yashoda has known that joy:”
+Only the divine Yashoda has known that joy:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७१२</summary>
@@ -469,7 +469,7 @@ When you eat your food you scatter it all over:
 I never had the good fortune of eating  
 what was left over on your plate:  
 Surely, my karma is bad:  
-What is the use of my mother gave birth to me?”
+What is the use of my mother gave birth to me?”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७१३</summary>
@@ -549,7 +549,7 @@ babies hold on to one of their mothers’ breasts
 with their young beautiful hands  
 that are as tender as shoots and drink milk:  
 They look at their mother’s face and smile at them:  
-I don’t have the fortune of feeding you milk like that:”
+I don’t have the fortune of feeding you milk like that:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७१४</summary>
@@ -630,7 +630,7 @@ and, your beautiful mouth smeared with yogurt,
 you were scared as you looked at her and cried  
 and your small red mouth trembled:  
 Then you folded your hands and worshipped her  
-and when she saw this, she found endless joy:”
+and when she saw this, she found endless joy:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७१५</summary>
@@ -715,7 +715,7 @@ You danced on the head of Kalingan the snake:
 I never saw how you played like this as a child—  
 my heart never felt the joy of seeing these things:  
 Give me your grace that I may see you play like that  
-if you can do it again:”
+if you can do it again:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७१६</summary>
@@ -807,7 +807,7 @@ who took the life of Kamsan,
 my breasts are a burden to me and I cannot use them:  
 I think I will see you one day  
 and that is the only thing I am living for:  
-You have a good mother, Yashoda:”
+You have a good mother, Yashoda:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७१७</summary>
@@ -872,17 +872,17 @@ You have a good mother, Yashoda:”
 
 <details><summary>Hart - DP_७१८</summary>
 
-Kulasekharan the king of Kolli
-     who bowed down with his head and worshiped Kaṇṇan
-     wrote a garland of ten Tamil pāsurams
-     describing how Devaki was sad not to have the fortune
-     of seeing her son grow up
-     who fought with Kamsan the king of Madura and killed him.
-     If devotees learn and recite these fine musical Tamil pāsurams
-     they will be with Naraṇan soon.
-------------
+Kulasekharan the king of Kolli  
+who bowed down with his head and worshiped Kaṇṇan  
+wrote a garland of ten Tamil pāsurams  
+describing how Devaki was sad not to have the fortune  
+of seeing her son grow up  
+who fought with Kamsan the king of Madura and killed him.  
+If devotees learn and recite these fine musical Tamil pāsurams  
+they will be with Naraṇan soon.  
+------------  
 
-A Lullaby for Rama.
+A Lullaby for Rama.  
 </details>
 
 <details><summary>Info - DP_७१८</summary>

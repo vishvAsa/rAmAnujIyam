@@ -77,7 +77,7 @@ Sometimes we disrespect you:
 sometimes we do not disrespect you,  
 O lovely-eyed Thirumāl, don't get angry at us  
 even though we have done bad karma:  
-Our lord, give us your grace:
+Our lord, give us your grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५८६</summary>
@@ -133,7 +133,7 @@ Even though I know
 which deeds are good and which are bad,  
 I do not have the power to control myself  
 to avoid good or bad deeds:  
-O lord, what can I do?
+O lord, what can I do?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५८७</summary>
@@ -185,7 +185,7 @@ My heart has become a slave
 to the dark shining ocean-colored Kaṇṇan:  
 If I think about it, I am most fortunate  
 and I have a good name:  
-Who could there be more fortunate than I?
+Who could there be more fortunate than I?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५८८</summary>
@@ -241,7 +241,7 @@ You are my mother who gave birth to me
 the father who taught me:  
 Whatever others taught me, it is of no use:  
 O dear Māyan who drank Putanā’s milk and killed her  
-when she came as a mother, show us a good way:
+when she came as a mother, show us a good way:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५८९</summary>
@@ -297,7 +297,7 @@ Will you show me the right path and guide me?
 Will you show your tender dark body  
 to me, your innocent devotee?  
 Dear Kaṇṇan, tell me what you want to do with me:  
-Whatever you do to me, I will think it is for my good:
+Whatever you do to me, I will think it is for my good:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५९०</summary>
@@ -359,7 +359,7 @@ You embrace Lakshmi, your beloved wife, on your chest:
 You took the form of a boar  
 and brought the earth goddess from the underworld:  
 You are my beloved mother:  
-Keep me beneath your feet:
+Keep me beneath your feet:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५९१</summary>
@@ -415,7 +415,7 @@ O good lord! We have not seen your feet
 that measured the world  
 and we yearn to see you–tell us, why can we not see you?  
 You are subtle, impossible for sinners like us to see,  
-a match only for yourself:
+a match only for yourself:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५९२</summary>
@@ -475,7 +475,7 @@ We said to him again and again,
 “We, your slaves, are suffering,”  
 but we still can’t approach him:  
 O heart, let whatever will happen happen:  
-Just live, thinking only of him:
+Just live, thinking only of him:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५९३</summary>
@@ -527,7 +527,7 @@ Only the eight Vasus, eleven Rudras,
 twelve suns and two Ashvins  
 may worship him:  
 We are not worthy to worship him:  
-O good heart, we have done much bad karma:
+O good heart, we have done much bad karma:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५९४</summary>
@@ -582,7 +582,7 @@ O good heart, we have done much bad karma:
 You are the earth, the sky, the wind,  
 fire and the ocean:  
 You, mighty one, fought heroically with Rāvaṇa  
-when he opposed you and you killed him:
+when he opposed you and you killed him:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५९५</summary>
@@ -635,7 +635,7 @@ when he opposed you and you killed him:
 O heart, you immerse me in an ocean of sorrow,  
 and if I say you shouldn’t, what is the use?  
 Whatever I tell you, you don’t listen:  
-The only right thing is to worship the feet of Kaṇṇan:
+The only right thing is to worship the feet of Kaṇṇan:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५९६</summary>
@@ -689,7 +689,7 @@ that you may not want to give,
 you will not lose anything by giving that to him:  
 This is what I want to ask you:  
 Show me your form:  
-However you wish, show me your shining body:
+However you wish, show me your shining body:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५९७</summary>
@@ -743,7 +743,7 @@ and gave her milk to him, but he killed her:
 You know that if you fall into the enjoyments  
 of your senses they will hurt you,  
 but still you want to enjoy them and collect bad karma:  
-It is as if you were putting your hand into a snake pit:
+It is as if you were putting your hand into a snake pit:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५९८</summary>
@@ -799,7 +799,7 @@ and strike his body and feet
 as he rests on Adisesha:  
 If we praise his auspicious qualities,  
 it won’t give him any fame,  
-but our bad karma will all go away:
+but our bad karma will all go away:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५९९</summary>
@@ -855,7 +855,7 @@ You swallowed the earth at the end of the eon and spat it out
 and you brought the earth goddess from the underworld:  
 The whole earth is yours,  
 so why did you ask for the earth from Mahābali as a gift?  
-Please tell us:
+Please tell us:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६००</summary>
@@ -930,11 +930,11 @@ Please tell us:
 
 <details><summary>Hart - DP_२६०१</summary>
 
-He carried his bow, fought with the Rakshasa Rāvaṇa
-      and cut off his strong mountain-like heads with his sword.
-      When devotees worship him and ask him for a boon,
-      whether he opens his mouth and says anything or not,
-      he gives them whatever they want and gives them life.
+He carried his bow, fought with the Rakshasa Rāvaṇa  
+and cut off his strong mountain-like heads with his sword.  
+When devotees worship him and ask him for a boon,  
+whether he opens his mouth and says anything or not,  
+he gives them whatever they want and gives them life.  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६०१</summary>
@@ -968,7 +968,7 @@ You are clever:
 Whether you are tied up with ropes by Yashoda  
 or you rest on the snake bed,  
 you create all the creatures of the world always:  
-Who knows your true ancient form? Tell me:
+Who knows your true ancient form? Tell me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६०२</summary>
@@ -1024,7 +1024,7 @@ O heart, you do not know any wickedness
 and if you praise him, who protected the five Pandavas  
 night and day on the battlefield as they fought with the Kauravas  
 nothing bad will come to you:  
-If you want to see him, you can:
+If you want to see him, you can:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६०३</summary>
@@ -1078,7 +1078,7 @@ O intelligent good heart,
 As a dwarf, he went to Mahābali’s sacrifice and measured the world,  
 and his body touched all the world:  
 We should be ashamed to think we can earn his grace:  
-The only way for us to get his grace is if he gives to us:
+The only way for us to get his grace is if he gives to us:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६०४</summary>
@@ -1132,7 +1132,7 @@ His body dark as a cloud,
 he measured the world and the ocean with one foot  
 and raised his other foot and measured the sky:  
 His feet are in my heart  
-and I will not go to hell but be saved:
+and I will not go to hell but be saved:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६०५</summary>
@@ -1185,7 +1185,7 @@ and I will not go to hell but be saved:
 When Thirumāl entered my heart  
 the karma left that ruled me and made me suffer:  
 My bad karma shouts with sorrow as it runs away,  
-unable to find a place to stay:
+unable to find a place to stay:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६०६</summary>
@@ -1239,7 +1239,7 @@ O heart, he is the father and mother of all creatures
 and will give us his grace and protect us when we are feeble  
 and the messengers of Yama come  
 bringing their dogs and make them bark at us:  
-O heart, do not worry, do not worry:
+O heart, do not worry, do not worry:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६०७</summary>
@@ -1294,7 +1294,7 @@ He is in everything:
 If he were to grow tired,  
 the whole world would turn upside down,  
 and then who could make this world  
-come back to the way it was?
+come back to the way it was?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६०८</summary>
@@ -1348,7 +1348,7 @@ People may do whatever they wish:
 Who can change this wide earth?  
 Kaṇṇan, the god of the gods in the sky  
 gave his grace to me  
-and all the sorrows in my heart went away:
+and all the sorrows in my heart went away:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६०९</summary>
@@ -1430,11 +1430,11 @@ and all the sorrows in my heart went away:
 
 <details><summary>Hart - DP_२६१०</summary>
 
-His beautiful body is like dark night.
-      His grace is like a club
-      that can hit and remove my bad karma.
-      I and my heart decided to cross the forest
-      and the hills of my bad karma by worshiping him.
+His beautiful body is like dark night.  
+His grace is like a club  
+that can hit and remove my bad karma.  
+I and my heart decided to cross the forest  
+and the hills of my bad karma by worshiping him.  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६१०</summary>
@@ -1469,7 +1469,7 @@ happy because you measured the earth with your foot?
 Are you happy because you measured the sky with your foot?  
 The whole world knows that you raised your ankleted feet  
 and measured the earth and the sky:  
-Am I someone who does not know your power?
+Am I someone who does not know your power?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६११</summary>
@@ -1522,7 +1522,7 @@ Am I someone who does not know your power?
 Our eyes cannot see the dark form of the lord with a discus,  
 we can only feel him in our hearts, our inner eyes:  
 We should not feel that we are not seeing him  
-because he is in our hearts and that is where we can see him:
+because he is in our hearts and that is where we can see him:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६१२</summary>
@@ -1575,7 +1575,7 @@ because he is in our hearts and that is where we can see him:
 Our father adorned with a flourishing thulasi garland  
 is not easy to approach:  
 He shows as much as love to his devotees as they show to him:  
-I love him—my dear lord is easy for me to reach:
+I love him—my dear lord is easy for me to reach:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६१३</summary>
@@ -1628,7 +1628,7 @@ I love him—my dear lord is easy for me to reach:
 Lovely-eyed Thirumāl entered my small heart,  
 and from now on bad karma cannot stay there  
 because there is no space for it:  
-It is best if it leaves my heart and never comes back:
+It is best if it leaves my heart and never comes back:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६१४</summary>
@@ -1683,7 +1683,7 @@ and then went to the wide ocean and rested on Adishesa:
 We have found the way to remove our karma  
 and it is to know his grace and beauty,  
 approaching him and bowing to his feet  
-and staying in his shadow:
+and staying in his shadow:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६१५</summary>
@@ -1736,7 +1736,7 @@ and staying in his shadow:
 Damodharan wishes me to serve him,  
 but my heart would rather do evil deeds  
 and live a wicked life:  
-What can I do in this world to take away my karma?
+What can I do in this world to take away my karma?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६१६</summary>
@@ -1792,7 +1792,7 @@ The lord with a discus in his hand
 smashed the deadly Asurans to pieces:  
 When we know him, we know it brings joy,  
 but then why we are not approaching him,  
-doing the good karma that leads us to him?
+doing the good karma that leads us to him?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६१७</summary>
@@ -1849,7 +1849,7 @@ When I hear of the beauty of you
 as you rest on Adisesha on the ocean,  
 my legs become unsteady,  
 my heart suffers to see you,  
-and my eyes look for you everywhere:
+and my eyes look for you everywhere:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६१८</summary>
@@ -1903,7 +1903,7 @@ and reclines in Thiruvekkaa:
 He wanders everywhere, yet still, he is not satisfied:  
 The god who split open the chest of the Asuran Hiraṇyan  
 and loves all the creatures of the world  
-entered my heart and stays there, refusing to leave:
+entered my heart and stays there, refusing to leave:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६१९</summary>
@@ -1961,7 +1961,7 @@ Is he the god in the sky?”
 If you accept Kaṇṇan  
 and give yourself to him  
 whoever you think god is  
-he will be the god for you:
+he will be the god for you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६२०</summary>
@@ -2012,7 +2012,7 @@ We do not know what our future will be,
 yet we may be able to know it  
 if we worship Thirumāl adorned with a thulasi garland  
 that swarms with bees:  
-Love and worship him and you will be saved:
+Love and worship him and you will be saved:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६२१</summary>
@@ -2066,7 +2066,7 @@ O heart, do not worry about how to spend your time:
 Think about the time Yashoda hit him and scolded him,  
 and even if you cannot do that,  
 speak about Māyan adorned with a thulasi garland:  
-Your karma will go away and you will be saved:
+Your karma will go away and you will be saved:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६२२</summary>
@@ -2119,7 +2119,7 @@ Your karma will go away and you will be saved:
 O heart, if you want to survive  
 you should do good deeds:  
 It is not enough only to praise him  
-with a fresh thulasi garland on his chest:
+with a fresh thulasi garland on his chest:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६२३</summary>
@@ -2174,7 +2174,7 @@ You will not be pushed into cruel hell
 if you worship him  
 who drank the milk of the devil Putana and killed her  
 when she came as a mother:  
-Praising him will give you true strength:
+Praising him will give you true strength:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६२४</summary>
@@ -2225,7 +2225,7 @@ thought they were stronger than you and opposed you,
 but you cut off their heads with the discus in your hand  
 and killed them:  
 Do not stop doing your heroic deeds:  
-There are always Asurans like them in the world:
+There are always Asurans like them in the world:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६२५</summary>
@@ -2284,7 +2284,7 @@ he split open the world and went to the underworld
 to bring up the earth goddess,  
 and he measured the world at Mahābali’s sacrifice with his foot:  
 He is the creator of the world and he is himself the world:”  
-If devotees know this, they will not worship any other god:
+If devotees know this, they will not worship any other god:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६२६</summary>
@@ -2335,7 +2335,7 @@ If devotees know this, they will not worship any other god:
 When the gods came to him asking for refuge  
 he took away their troubles and protected them:  
 How can the distress in the minds  
-of those who do not worship him be removed?
+of those who do not worship him be removed?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६२७</summary>
@@ -2387,7 +2387,7 @@ There are people who do not wish to praise him
 who is adorned with a thulasi garland  
 even though their good hearts  
 and their tongues would like to:  
-Is that because they have done bad karma in a past life?
+Is that because they have done bad karma in a past life?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६२८</summary>
@@ -2440,7 +2440,7 @@ Is that because they have done bad karma in a past life?
 Afraid of the results bad karma will give me,  
 I will not do any bad deeds:  
 I will only praise the god of the gods  
-and bow to his golden feet:
+and bow to his golden feet:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६२९</summary>
@@ -2490,7 +2490,7 @@ The ocean-colored Thirumāl with beautiful eyes
 is our refuge and will not leave us:  
 He protects us so we will not fall into cruel hell:  
 O heart, think always of him who is your only refuge—  
-this is the the best advice I can give you:
+this is the the best advice I can give you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६३०</summary>
@@ -2543,7 +2543,7 @@ only to ask for material things:
 You do not understand that wise ones ask only for your grace:  
 Where are those wise people  
 who think of you and receive your grace?  
-How many are there? Could I achieve what they have done?
+How many are there? Could I achieve what they have done?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६३१</summary>
@@ -2597,7 +2597,7 @@ We want to reach moksha,
 above the world of the sky  
 and the only way we can achieve it is to worship you  
 who fought and killed the seven bulls with cruel horns  
-to marry Nappinnai with beautiful soft arms like bamboo,
+to marry Nappinnai with beautiful soft arms like bamboo,  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६३२</summary>
@@ -2654,7 +2654,7 @@ the dark ocean, deep darkness,
 puvai flowers always swarming with bees  
 or anything else that is dark-colored,  
 my heart, thinking it has seen his wonderful dark form,  
-leaves me and runs there:
+leaves me and runs there:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६३३</summary>
@@ -2719,7 +2719,7 @@ without looking for anything else
 and it runs behind anything with a dark color:  
 In his heart he does not feel sorry for me:  
 Does he who split open the mouth of the Asuran Kesi  
-when he came as a horse that have such a cruel mind?
+when he came as a horse that have such a cruel mind?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६३४</summary>
@@ -2774,7 +2774,7 @@ control the mind, eyes, nose, mouth, ears and body:
 The best thing for the devotees of the lord  
 adorned with a cool thulasi garland  
 is to control the feelings of the five senses  
-and worship the lord’s feet:
+and worship the lord’s feet:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६३५</summary>
@@ -2844,7 +2844,7 @@ went to Mahābali, asked for three feet of land
 and measured the earth and the sky:  
 He drank milk from the breasts of the devious Putana and killed her:  
 My eyes have only the desire to see him  
-and my mouth does not wish to praise anything but his fame:
+and my mouth does not wish to praise anything but his fame:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६३६</summary>
@@ -2904,7 +2904,7 @@ You have given everything that your devotees want
 and are waiting to know what else they may want:  
 Don’t you know that praising you  
 and keeping you in their hearts  
-is better for them than going to Vaikuṇṭam?
+is better for them than going to Vaikuṇṭam?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६३७</summary>
@@ -2981,15 +2981,15 @@ is better for them than going to Vaikuṇṭam?
 
 <details><summary>Hart - DP_२६३८</summary>
 
-We worshiped him
-      who threw a calf at the vilam tree
-      and killed the two Asurans
-      when they came as a calf and a tree
-      and all the results of our karma went away,
-      we don’t know where.
-      Did they go to the sky,
-      or to the ocean whose rolling waves are blown by the wind?
-      Did they burn up in fire or go to the forest?
+We worshiped him  
+who threw a calf at the vilam tree  
+and killed the two Asurans  
+when they came as a calf and a tree  
+and all the results of our karma went away,  
+we don’t know where.  
+Did they go to the sky,  
+or to the ocean whose rolling waves are blown by the wind?  
+Did they burn up in fire or go to the forest?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६३८</summary>
@@ -3023,7 +3023,7 @@ He rests on the ocean rolling with waves
 on Adisesha who has a jewel on his head:  
 It is hard if you think he will come to you  
 but if you think of him always in your heart  
-he will enter it and take away the troubles in your mind:
+he will enter it and take away the troubles in your mind:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६३९</summary>
@@ -3079,7 +3079,7 @@ He came to the world in many forms,
 as a cowherd, as a god in the sky  
 and as a dwarf who measured the sky and the earth  
 at Mahābali’s sacrifice:  
-He, the Māyavan, shows the way to all:
+He, the Māyavan, shows the way to all:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६४०</summary>
@@ -3131,7 +3131,7 @@ O heart, Thirumāl split open the heart of Hiraṇyan
 and blood flowed like a flood from the Asuran’s chest  
 and he was destroyed:  
 Won’t he take away the results of our karma  
-and give us his grace?
+and give us his grace?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६४१</summary>
@@ -3188,7 +3188,7 @@ Don’t change my life:
 I don’t want to be born again  
 but come to you, stay beneath your divine feet  
 and serve you:  
-All I want is not to forget you:
+All I want is not to forget you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६४२</summary>
@@ -3241,7 +3241,7 @@ who rests on the ocean with rolling waves
 I thought my karma would go away  
 and hide in a forest:  
 Nothing like that happened:  
-Does my karma think it can still remain with me?
+Does my karma think it can still remain with me?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६४३</summary>
@@ -3296,7 +3296,7 @@ whether you think always of Māyan
 adorned with a divine thulasi garland  
 and stay with him or not, it is up to you,  
 but there is no other god who can protect you  
-and save you from falling into cruel hell:
+and save you from falling into cruel hell:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६४४</summary>
@@ -3351,7 +3351,7 @@ they look like flowers filled with pollen
 strewn by the gods in the sky  
 as they recited the Vedas  
 and worshiped his divine feet  
-when he measured the world at the sacrifice of Mahābali:
+when he measured the world at the sacrifice of Mahābali:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६४५</summary>
@@ -3404,7 +3404,7 @@ the stars are like its shining decorations,
 and the moon is its silver base:  
 When he grew tall and measured the world  
 he looked like a pole holding up the umbrella that is the sky:  
-He is the best remedy for all our troubles:
+He is the best remedy for all our troubles:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६४६</summary>
@@ -3463,7 +3463,7 @@ and then went to the ocean
 rolling with strong waves to rest on Adisesha:  
 He looked like a dark cloud filled with water  
 blown by the wind as it floats in the sky  
-and then falls to the ocean:
+and then falls to the ocean:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६४७</summary>
@@ -3519,7 +3519,7 @@ He shot arrows and destroyed the seven marā trees
 and he split open the mouth of Bāhasuran when he came as a bird:  
 If the gods in the sky know  
 that he is the highest god and know his heroic deeds,  
-won’t they fold their hands and worship him?
+won’t they fold their hands and worship him?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६४८</summary>
@@ -3571,7 +3571,7 @@ O heart, he will remove all the troubles that make you suffer:
 Worship always with a garland of pasurams  
 Kesavan, Nāraṇan, Mādhavan  
 who wears a beautiful thulasi garland  
-and is strong as a mountain:
+and is strong as a mountain:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६४९</summary>
@@ -3623,7 +3623,7 @@ O heart, he is adorned with a cool fragrant thulasi garland
 and he is the Vedas:  
 Know and worship Thirumāl, the Māyavan  
 who carries a heroic discus and took the precious life  
-of Rāvaṇa, the mighty Rakshasa:
+of Rāvaṇa, the mighty Rakshasa:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६५०</summary>
@@ -3678,7 +3678,7 @@ he will give you that boon,
 and if you say, “I want to stay in this world and rule it,”  
 he will give that also:  
 Learn only to worship and praise the feet of Kaṇṇan  
-and you will get what you want:
+and you will get what you want:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६५१</summary>
@@ -3733,7 +3733,7 @@ on the roaring ocean, in Vaikuṇṭam, or the world in the sky?
 Or does he feel they are not fitting places for him?  
 O what is this strange thing!  
 Tall and dark, he entered the heart of me, his slave,  
-and does not want to leave it:
+and does not want to leave it:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६५२</summary>
@@ -3797,7 +3797,7 @@ I praised the highest ocean-colored Thirumāl
 and he gave me his grace and entered my heart:  
 The bad karma that was in my heart grew angry  
 and, red-faced and frustrated, left me:  
-No one can come and trouble me anymore:
+No one can come and trouble me anymore:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६५३</summary>
@@ -3852,7 +3852,7 @@ He is my father and mother
 and I keep him in my heart—  
 he will remove all my troubles:  
 Whatever happens to me, I am not worried  
-because he will save me:
+because he will save me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६५४</summary>
@@ -3903,7 +3903,7 @@ Shiva with beautiful jaṭa
 stays in the left part of your body  
 and Brahma stays on a lotus on your navel,  
 and there is no one to match you  
-who do not depend on anything:
+who do not depend on anything:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६५५</summary>
@@ -3954,7 +3954,7 @@ and some say all three are one:
 You have a matchless dark color,  
 you are the first god of this world  
 and you embrace Lakshmi on a shining lotus  
-on your chest:
+on your chest:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६५६</summary>
@@ -4009,7 +4009,7 @@ something with the color of the lord,
 a puvai bird, a kayām flower,  
 a neelam flower or a kāvi blossom,  
 my soft heart thinks that they are his forms  
-and my heart and body feel happy:
+and my heart and body feel happy:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६५७</summary>
@@ -4066,7 +4066,7 @@ Even though I have pleaded with him continuously
 telling him every day that I long to see him,  
 he does not take pity on me and appear before me:  
 Is my heart a big mound  
-keeping the flood of his grace from flowing over it?
+keeping the flood of his grace from flowing over it?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६५८</summary>
@@ -4123,7 +4123,7 @@ you entered my heart and remain there:
 You are inside me:  
 Who is better, you or me?  
 You carry a discus, smeared with flesh:  
-Think about it:
+Think about it:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६५९</summary>
@@ -4180,7 +4180,7 @@ When I think of you my heart throbs:
 If your grace touches my body,  
 I will be happy and feel  
 as if I have measured the world and the sky as you did:  
-Tell me, what will happen to me?
+Tell me, what will happen to me?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६६०</summary>
@@ -4232,7 +4232,7 @@ O father resting on the roaring ocean,
 my relatives say they are very close to me,  
 but see, there is no one for me but you:  
 You are my only help in life  
-and the companion for whom I am thankful:
+and the companion for whom I am thankful:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६६१</summary>
@@ -4287,7 +4287,7 @@ but none are permanent:
 Praise the heroism of the lord  
 who shot arrows from his bow unceasingly  
 and conquered all his enemies:  
-That is how you will have strength:
+That is how you will have strength:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६६२</summary>
@@ -4345,7 +4345,7 @@ have no need to worry
 about the results of their karma:  
 This world in which they were born  
 will be like the shining world of the gods for them—  
-there is no need for them to go to heaven:
+there is no need for them to go to heaven:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६६३</summary>
@@ -4400,7 +4400,7 @@ even if I am happy on this earth,
 I will not want any of those things:  
 I think the days that I have not praiseed and worshiped him  
 who measured the world at Mahbali’s sacrifice  
-are all days of sorrow:
+are all days of sorrow:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६६४</summary>
@@ -4455,7 +4455,7 @@ and do not perform good deeds,
 that I am not fit to be his slave  
 or that I have no one to take care of me:  
 He rests on the flourishing ocean  
-giving his grace to me and taking care of me:
+giving his grace to me and taking care of me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६६५</summary>
@@ -4506,7 +4506,7 @@ giving his grace to me and taking care of me:
 I have done bad karma and not knowing him  
 I have passed all my days in vain:  
 I did not follow and praise him  
-who carries a discus in his beautiful hand:
+who carries a discus in his beautiful hand:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६६६</summary>
@@ -4559,7 +4559,7 @@ and you are tired of the results of your karma:
 See, I told you this: Find a way to save yourself:  
 I am worried about myself  
 He fought with the wrestlers and killed them:  
-The way you will be saved is to worship him:
+The way you will be saved is to worship him:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६६७</summary>
@@ -4630,14 +4630,14 @@ The way you will be saved is to worship him:
 
 <details><summary>Hart - DP_२६६८</summary>
 
-O my heart,
-      I told you to bow your head, to strew flowers at his feet
-      folding your hands, worshiping him and praising him,
-      but you have not done that.
-      You have not asked him,
-      “Where did you go?”
-      Do not be like this without worshiping him.
-      Just worship him. That’s all you need to do.
+O my heart,  
+I told you to bow your head, to strew flowers at his feet  
+folding your hands, worshiping him and praising him,  
+but you have not done that.  
+You have not asked him,  
+“Where did you go?”  
+Do not be like this without worshiping him.  
+Just worship him. That’s all you need to do.  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६६८</summary>
@@ -4671,7 +4671,7 @@ The dark clouds take water from the ocean
 and float in the sky:  
 Where did they go and what tapas they perform  
 to have the lovely dark color of the lord  
-resting on Adisesha on the milky ocean rolling with waves?
+resting on Adisesha on the milky ocean rolling with waves?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६६९</summary>
@@ -4723,7 +4723,7 @@ The lord with a body dark as a cloud
 with a discus in his hand  
 swallowed the worlds and kept them in his stomach:  
 If people do not think of him or praise him  
-how can the the results of their karma be removed?
+how can the the results of their karma be removed?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२६७०</summary>

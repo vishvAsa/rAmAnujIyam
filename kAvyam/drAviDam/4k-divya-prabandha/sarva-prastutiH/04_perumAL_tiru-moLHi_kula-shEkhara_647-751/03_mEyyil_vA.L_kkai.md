@@ -48,7 +48,7 @@ All the people of this world
 think that the false life on this earth is true:  
 I do not want to join them:  
 I call you, “O dear father, Ranga!”  
-and suffer falling in love with you, my Thirumāl:
+and suffer falling in love with you, my Thirumāl:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६६८</summary>
@@ -118,7 +118,7 @@ love women with beautiful waists as thin as threads:
 I do not want to join them:  
 I call you, saying, “O Ranga who sleep on the banyan leaf,  
 my love increases for you, the Thirumāl,  
-and I suffer with love for you:”
+and I suffer with love for you:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६६९</summary>
@@ -185,13 +185,13 @@ and I suffer with love for you:”
 
 <details><summary>Hart - DP_६७०</summary>
 
-The people of this world fall in love when Kāma shoots
-     his mischievous arrows from his beautiful bow.
-     I do not want to join them.
-     My Rangan’s chest is adorned with garlands
-     and he is my good Nāraṇan who rests on Adisesha.
-     He saves his devotees from falling into hell.
-     I am crazy for him.
+The people of this world fall in love when Kāma shoots  
+his mischievous arrows from his beautiful bow.  
+I do not want to join them.  
+My Rangan’s chest is adorned with garlands  
+and he is my good Nāraṇan who rests on Adisesha.  
+He saves his devotees from falling into hell.  
+I am crazy for him.  
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६७० - ०३</summary>
@@ -259,7 +259,7 @@ The people of this world
 crave food and clothes and search for them:  
 I do not want to join them:  
 See, he drank milk from the breasts of the cruel devil Putanā,  
-and I am crazy for Rangan, the lord of the world:
+and I am crazy for Rangan, the lord of the world:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६७१</summary>
@@ -330,7 +330,7 @@ I do not join with those who do evil things
 when there are good things to do:  
 I am crazy for the ancient one, the cowherd, Rangan,  
 the beloved husband of innocent Lakshmi  
-seated on a beautiful lotus:
+seated on a beautiful lotus:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६७२</summary>
@@ -402,7 +402,7 @@ I will not join people
 if they are not the devotees of the highest: :  
 I do not think the life of any other god in the sky is best:  
 For all my seven births I want to be a crazy devotee  
-of my dear god of the gods of divine Srirangam:
+of my dear god of the gods of divine Srirangam:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६७३</summary>
@@ -479,7 +479,7 @@ My mind shuns the thought of joining anyone
 who is not your devotee:  
 I call you, “O Thirumāl with beautiful eyes,  
 you are my Rangan, you are my lord!”  
-and I become crazy for you, my beloved: :
+and I become crazy for you, my beloved: :  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६७४</summary>
@@ -548,7 +548,7 @@ Everyone in the world looks crazy to me:
 and I am also crazy:  
 I tell this to all and call you,  
 “O cowherd, Ranga!”  
-and I become crazy for you, my dear lord:
+and I become crazy for you, my dear lord:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६७५</summary>
@@ -618,7 +618,7 @@ and he composed pāsurams about the devotees
 who are crazy for the lord:  
 If devotees recite the words of Kulasekaran  
 they will have no troubles in their lives:  
-Lord of Thiruvenkaṭam hills
+Lord of Thiruvenkaṭam hills  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६७६</summary>

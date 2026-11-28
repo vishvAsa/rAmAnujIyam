@@ -49,7 +49,7 @@ People decorated every place with festoons
 and put out golden pots with coconuts  
 to welcome Nāraṇan Nambi  
 when he comes in procession  
-surrounded by a thousand elephants:
+surrounded by a thousand elephants:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५५६</summary>
@@ -119,7 +119,7 @@ My relatives decided the day for my wedding:
 They decorated a beautiful pandal with kamugu trees:  
 Mādhavan Govindan who once took a form of a lion,  
 strong as a bull, entered into the pandal—  
-I saw him in my dream:
+I saw him in my dream:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५५७</summary>
@@ -189,7 +189,7 @@ Indra and the other gods came together,
 asked for me to be his bride  
 and made all the arrangements:  
 My sister-in-law Durgā tied a silk marriage sari on me  
-and decorated me with fragrant garlands:
+and decorated me with fragrant garlands:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५५८</summary>
@@ -263,7 +263,7 @@ The Brahmin brought divine water
 from different directions and sprinkled it all over:  
 They sang songs of purification:  
 The priest tied the string bound together with flowers  
-on my hand and on the divine groom’s hand to protect us:
+on my hand and on the divine groom’s hand to protect us:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५५९</summary>
@@ -332,7 +332,7 @@ O friend, I had a dream:
 Dancing women carried shining lights and kalasams  
 and went in front of him and welcomed him:  
 The king of Madura walked touching the earth  
-as the earth shook:
+as the earth shook:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५६०</summary>
@@ -401,7 +401,7 @@ The drums were beaten, the lined conches were blown
 and my bridegroom, Nambi Madhusūdanan,  
 came and held my hand  
 under the pandal that was decorated  
-with hanging strings of pearl garlands:
+with hanging strings of pearl garlands:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५६१</summary>
@@ -473,7 +473,7 @@ and chanted mantras:
 They made a likeness of the sun  
 with green naṇal grass:  
 He is strong as an angry elephant  
-and he held my hand and we circled the fire:
+and he held my hand and we circled the fire:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५६२</summary>
@@ -547,7 +547,7 @@ He is the refuge for this birth
 and the fourteen future births:  
 He, our king Narayaṇan Nambi held my feet  
 with his divine, perfect fingers  
-and placed them on the grinding stone:
+and placed them on the grinding stone:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५६३</summary>
@@ -618,7 +618,7 @@ came and, standing before us,
 kindled the fire and made it bright:  
 They joined my hand with the hand of Achuthan  
 who once took the form of a lion,  
-and they poured popped rice on it:
+and they poured popped rice on it:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५६४</summary>
@@ -692,7 +692,7 @@ Adorned with kumkum
 and smeared with cool sandal paste,  
 I went with him on an elephant in procession  
 circling all the auspicious streets  
-as people sprinkled turmeric water on us:
+as people sprinkled turmeric water on us:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५६५</summary>
@@ -745,16 +745,16 @@ as people sprinkled turmeric water on us:
 
 <details><summary>Hart - DP_५६६</summary>
 
-The chief of Villipputhur Kodai,
-     praised by the family of Veyars,
-     composed a garland of ten Tamil pāsurams
-     that describe the dream of a woman
-     and what she said about her marriage with the cowherd.
-     If devotees learn and recite these ten pāsurams
-     they will give birth to many good children and find happiness.
---------------
+The chief of Villipputhur Kodai,  
+praised by the family of Veyars,  
+composed a garland of ten Tamil pāsurams  
+that describe the dream of a woman  
+and what she said about her marriage with the cowherd.  
+If devotees learn and recite these ten pāsurams  
+they will give birth to many good children and find happiness.  
+--------------  
 
-Praising the conch
+Praising the conch  
 </details>
 
 <details><summary>Info - DP_५६६</summary>

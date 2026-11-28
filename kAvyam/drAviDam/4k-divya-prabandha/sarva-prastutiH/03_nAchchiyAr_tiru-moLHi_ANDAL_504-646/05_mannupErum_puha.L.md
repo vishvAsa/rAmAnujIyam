@@ -65,7 +65,7 @@ because I have fallen in love with him:
 O cuckoo bird living in holes  
 in punnai, kurukkathi, nyāzhal and cherundi trees,  
 won’t you coo and call at all times of the day  
-for the one with a coral-colored mouth to come quickly to me?
+for the one with a coral-colored mouth to come quickly to me?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५४५</summary>
@@ -156,7 +156,7 @@ See, he is taking my life away and playing with my feelings:
 O cuckoo bird, you drink the honey that drips  
 from the blooming shenbaga flowers and sing happily:  
 Don’t be lazy and prattle, just sing and be happy:  
-Coo and call so the lord of Venkaṭam hill will come to me:
+Coo and call so the lord of Venkaṭam hill will come to me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५४६</summary>
@@ -244,7 +244,7 @@ that have dots on their bodies
 in the groves where fragrant flowers bloom  
 and spread their smell:  
 Coo and call the dark-colored one  
-shining like a diamond so he will come to me:
+shining like a diamond so he will come to me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५४७</summary>
@@ -331,7 +331,7 @@ to escape my suffering:
 O cuckoo bird,  
 you know how hard it is to be apart from your beloved:  
 Coo and call the virtuous one with a golden body and an eagle flag  
-and make him come to me:
+and make him come to me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५४८</summary>
@@ -416,7 +416,7 @@ My fish-like eyes do not close to sleep
 because they wish to see his golden feet:  
 O cuckoo bird, I will make the beautiful parrot  
 that I raised feeding it sweet rice and milk be your friend:  
-Coo and call him, so that who measured the world will come to me:
+Coo and call him, so that who measured the world will come to me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५४९</summary>
@@ -502,7 +502,7 @@ you sleep in a beautiful place
 in a grove blooming with flowers:  
 If you coo and call for him, the true one, to come to me,  
 I will bow my head to you:  
-I don’t know any other way to pay you back:
+I don’t know any other way to pay you back:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५५०</summary>
@@ -588,7 +588,7 @@ but they make me sad since I have not seen him:
 O beautiful cuckoo bird, why are you hiding?  
 If you coo and call and make him  
 with a discus, a conch and a strong club come to me,  
-you will have the good karma of doing many generous acts:
+you will have the good karma of doing many generous acts:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५५१</summary>
@@ -675,7 +675,7 @@ He and I know the promises that we made when we stayed in our home:
 O small cuckoo bird who pluck the tender shoots  
 of the sweet mango tree in the grove,  
 if you coo and call for Thirumāl to come here quickly,  
-you will see what I will do for him with my love:
+you will see what I will do for him with my love:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५५२</summary>
@@ -761,7 +761,7 @@ asking him with a conch and discus to come to me,
 or you should find the golden bangles  
 that I have lost and bring them to me:  
 If you want to live in this grove,  
-you should do one of these things:
+you should do one of these things:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५५३</summary>
@@ -849,7 +849,7 @@ that the breeze and the moon give me:
 O cuckoo bird, don’t make me suffer  
 staying in this grove and cooing always:  
 If you don’t call today for Narayaṇan to come,  
-I will chase you away from here:
+I will chase you away from here:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५५४</summary>
@@ -918,18 +918,18 @@ I will chase you away from here:
 
 <details><summary>Hart - DP_५५५</summary>
 
-The Paṭṭarpirān Kodai, chief of Puduvai
-     where Vediyar recite with music the four Vedas
-     composed ten pāsurams about how a woman
-     with spear-like eyes asked a cuckoo bird
-     to call for him who grew into the sky
-     and measured the world to come, saying,
-     “O dark cuckoo bird, coo and call my ocean-colored beloved.”
-     If devotees learn these pāsurams and recite them and say,
-     “Namo, Narayaṇā!” they will reach him.
-----------
+The Paṭṭarpirān Kodai, chief of Puduvai  
+where Vediyar recite with music the four Vedas  
+composed ten pāsurams about how a woman  
+with spear-like eyes asked a cuckoo bird  
+to call for him who grew into the sky  
+and measured the world to come, saying,  
+“O dark cuckoo bird, coo and call my ocean-colored beloved.”  
+If devotees learn these pāsurams and recite them and say,  
+“Namo, Narayaṇā!” they will reach him.  
+----------  
 
-Her dream of the Wedding.
+Her dream of the Wedding.  
 </details>
 
 <details><summary>Info - DP_५५५</summary>

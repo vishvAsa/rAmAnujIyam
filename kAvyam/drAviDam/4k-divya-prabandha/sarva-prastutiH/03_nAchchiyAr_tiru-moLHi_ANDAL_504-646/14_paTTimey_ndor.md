@@ -57,7 +57,7 @@ he makes the cows crazy
 as he goes behind his brother Baladevan:  
 Did you see that dark bull-like one?”  
 “We saw him grazing the cows and giving them water:  
-He loves them and plays with them in Brindavan:”
+He loves them and plays with them in Brindavan:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६३७</summary>
@@ -139,7 +139,7 @@ stealing the butter, eating it and smelling of ghee?
 He left me and went to the cowherd village:”  
 “We saw the dark one adorned with garlands made of forest flowers:  
 He looked like the clouds shining with lightning  
-in Brindavan as he played there:”
+in Brindavan as he played there:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६३८</summary>
@@ -211,7 +211,7 @@ in Brindavan as he played there:”
 He bewitched all the young girls, telling unbelievable lies:  
 Did you see him coming here?”  
 “We saw him flying on Garuḍa  
-shielded by its wings from the heat in Brindavan:”
+shielded by its wings from the heat in Brindavan:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६३९</summary>
@@ -289,7 +289,7 @@ tied me to him with his love, pulled me and played with me:
 Did you see him?”  
 “We saw him: He was like a baby elephant  
 covered with a cloth decorated with pearls:  
-We saw him sweating and playing in Brindavan:”
+We saw him sweating and playing in Brindavan:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६४०</summary>
@@ -366,7 +366,7 @@ We saw him sweating and playing in Brindavan:”
 He is like a pig that has been caught in a net and escaped:  
 Has no one seen him? Doesn’t he want to show himself to anyone?”  
 “We saw him: He was like a dark baby cloud  
-wearing golden clothes as he came on the street in Brindavan:”
+wearing golden clothes as he came on the street in Brindavan:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६४१</summary>
@@ -448,7 +448,7 @@ who love him and is always bothering them:
 He doesn’t know how to get along with others:”  
 “We saw the dark one with a fair face:  
 He looked like the bright sun rising from behind a hill:  
-We saw him in Brindavan:”
+We saw him in Brindavan:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६४२</summary>
@@ -526,7 +526,7 @@ Is his mind as dark as his body?
 He makes many promises to girls but doesn’t keep them:  
 Doesn’t he have any compassion?”  
 “We saw him: He was bright as the sky filled with stars  
-when he came with a big crowd in Brindavan:”
+when he came with a big crowd in Brindavan:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६४३</summary>
@@ -609,7 +609,7 @@ when he came with a big crowd in Brindavan:”
 carrying a white conch and a discus  
 and adorned with golden clothes?”  
 “We saw him as his lovely fragrant hair fell on his large arms  
-while he played in Brindavan:”
+while he played in Brindavan:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६४४</summary>
@@ -690,7 +690,7 @@ so that Nānmuhan could create the whole world:
 Did you see the faultless lord who created this world and plays in it?”  
 “We saw the lord returning from fighting  
 after killing the Rakshasa Thenugan  
-and the elephant Kuvalayabeeḍam in the forest: We saw him in Brindavan:”
+and the elephant Kuvalayabeeḍam in the forest: We saw him in Brindavan:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६४५</summary>
@@ -755,13 +755,13 @@ and the elephant Kuvalayabeeḍam in the forest: We saw him in Brindavan:”
 
 <details><summary>Hart - DP_६४६</summary>
 
-Vishṇuchithan Kodai composed pāsurams
-     about how the people saw the highest lord in Brindavan
-     who gave his grace to Gajendra the elephant
-     and saved him from the crocodile.
-     If devotees keep these pāsurams in their minds as a cure
-     they will live under the divine feet of the lord without leaving him.
--------------
+Vishṇuchithan Kodai composed pāsurams  
+about how the people saw the highest lord in Brindavan  
+who gave his grace to Gajendra the elephant  
+and saved him from the crocodile.  
+If devotees keep these pāsurams in their minds as a cure  
+they will live under the divine feet of the lord without leaving him.  
+-------------  
 </details>
 
 <details><summary>Info - DP_६४६</summary>
