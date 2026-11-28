@@ -42,19 +42,19 @@ title = "१० अङ्गणॆडुमदिळ्"
 
 <details><summary>Hart - DP_७४१</summary>
 
-Rāma, tall, with beautiful eyes,
-     colored like a dark cloud,
-     our dear king, our lord,
-     the light that illuminates the whole world,
-     stays in beautiful Ayodhya surrounded by high walls.
-     Born in the dynasty of the sun,
-     he brightens that royal line, and he conquered the whole sky
-     and is the god of Thiruchithrakuḍam in Thillai.
-     When will the day come
-     when I see him joyfully with my eyes?
-------
+Rāma, tall, with beautiful eyes,  
+colored like a dark cloud,  
+our dear king, our lord,  
+the light that illuminates the whole world,  
+stays in beautiful Ayodhya surrounded by high walls.  
+Born in the dynasty of the sun,  
+he brightens that royal line, and he conquered the whole sky  
+and is the god of Thiruchithrakuḍam in Thillai.  
+When will the day come  
+when I see him joyfully with my eyes?  
+------  
 
-The Story of Rāma.
+The Story of Rāma.  
 </details>
 
 <details><summary>Info - DP_७४१</summary>
@@ -152,7 +152,7 @@ See, our dear god stays in the Thiruchithrakuḍam in Thillai,
 surrounded with cool flourishing groves  
 blooming with flowers with green tender leaves,  
 as he sits on a throne studded with diamonds,  
-praised by three thousand Andaṇars:
+praised by three thousand Andaṇars:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७४२</summary>
@@ -234,7 +234,7 @@ the heroic Rāma who conquered kings with sharp spears,
 broke the bow of Shiva, the angry bull rider carrying a mazhu weapon:  
 He stays in divine Chithrakuḍam in Thillai surrounded by tall walls:  
 I worship the feet of the worshipers of Rāma  
-whose cruel bow conquers his mighty enemies:
+whose cruel bow conquers his mighty enemies:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७४३</summary>
@@ -327,7 +327,7 @@ and gave his sandals and his kingdom to Bharathan
 when his brother came to see him:  
 He stays in beautiful Chithrakuḍam in Thillai:  
 If devotees see him happily with their two eyes,  
-they will be equal to the gods in the sky:
+they will be equal to the gods in the sky:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७४४</summary>
@@ -417,7 +417,7 @@ and bent his bow and shot arrows to kill the Raksasa Mārisan
 when he came as a golden deer:  
 He stays in Chithrakuḍam in Thillai  
 and this earth is fortunate that his devotees wander there  
-bowing their heads and worshiping him:
+bowing their heads and worshiping him:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७४५</summary>
@@ -521,7 +521,7 @@ He made Hanuman burn Lanka
 ruled by Ravaṇan, the king of the Rakshasas,  
 so that Hanuman’s anger would abate:  
 I worship the feet of the devotees of Rāma,  
-the dear god who stays happily in Thiruchithrakuḍam in Thillai:
+the dear god who stays happily in Thiruchithrakuḍam in Thillai:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७४६</summary>
@@ -609,7 +609,7 @@ and gave the kingdom to Ravaṇa’s brother Vibhishaṇa,
 and returning to Ayodhya with his wife as lovely as Lakshmi,  
 he was seated on his throne:  
 I will not consider anyone my king  
-except Rāma the god of Thiruchithrakuḍam in Thillai:
+except Rāma the god of Thiruchithrakuḍam in Thillai:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७४७</summary>
@@ -695,7 +695,7 @@ from the mouths, red as coral, of his two sons
 born to Sita, the princess of Mithila, to save the world:  
 If we hear and drink in the story of Rāma  
 of Thiruchithrakudam in Thillai  
-we have no need of sweet nectar:
+we have no need of sweet nectar:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७४८</summary>
@@ -777,7 +777,7 @@ He was separated from his brother Laksmaṇa
 by the curse of the sage Durvasa:  
 If our hearts never forget the lord  
 of Thiruchithrakuḍam in Thillai,  
-we will not have any trouble in our lives:
+we will not have any trouble in our lives:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७४९</summary>
@@ -859,7 +859,7 @@ and conquered them
 all people and creatures in the world go to Vaikuṇṭam:  
 He stays always in Thiruchithrakuḍam in Thillai:  
 O devotees of Rāma, praise him saying, “avan ivan!”  
-and worship him always:
+and worship him always:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७५०</summary>
@@ -924,15 +924,15 @@ and worship him always:
 
 <details><summary>Hart - DP_७५१</summary>
 
-Kulasekharan, the king of Uṛaiyur,
-     who rules under a royal umbrella
-     and carries a victorious shining sword
-     composed a garland of ten Tamil pāsurams
-     describing the endless fame of Rāma,
-     the son of Dasharatha and the friend of Hanumān.
-     If devotees know and recite these ten sweet Tamil pāsurams
-     they will approach the feet of Nāraṇan who shines with goodness.
------------
+Kulasekharan, the king of Uṛaiyur,  
+who rules under a royal umbrella  
+and carries a victorious shining sword  
+composed a garland of ten Tamil pāsurams  
+describing the endless fame of Rāma,  
+the son of Dasharatha and the friend of Hanumān.  
+If devotees know and recite these ten sweet Tamil pāsurams  
+they will approach the feet of Nāraṇan who shines with goodness.  
+-----------  
 </details>
 
 <details><summary>Info - DP_७५१</summary>

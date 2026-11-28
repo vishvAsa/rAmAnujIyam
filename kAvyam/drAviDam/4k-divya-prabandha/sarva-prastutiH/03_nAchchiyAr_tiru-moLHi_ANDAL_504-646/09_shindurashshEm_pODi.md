@@ -57,7 +57,7 @@ and flying everywhere in the groves of Thirumālirunjolai,
 I am caught in my love for the one with handsome arms  
 who churned the milky ocean with Mandara mountain  
 and took its sweet nectar:  
-It is like a net: Will I survive this sorrow?
+It is like a net: Will I survive this sorrow?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५८७</summary>
@@ -141,7 +141,7 @@ filled with blossoms laugh at me in Thirumālirunjolai
 where elephants fight with each other and play:  
 The vines that grow in the rainy season  
 bloom as if to say, “You will not survive!”  
-To whom can I tell the pain that his garland gives me?
+To whom can I tell the pain that his garland gives me?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५८८</summary>
@@ -225,7 +225,7 @@ You have the color of the lord
 Tell me how I can survive:  
 Is it right that strong-armed Nambi of Thirumālirunjolai  
 who is always playing  
-should come into our house and steal my bangles?
+should come into our house and steal my bangles?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५८९</summary>
@@ -304,7 +304,7 @@ Fresh kala fruits! Colorful fragrant kāyām flowers!
 You are my five most powerful enemies:  
 Why must you have the color of the dear lord  
 of beautiful Thirumālirunjolai?  
-Is it to make me sad with love and hurt me?
+Is it to make me sad with love and hurt me?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५९०</summary>
@@ -383,7 +383,7 @@ who stays in Thirumālirunjolai
 surrounded with flourishing flowers:  
 O abundant, beautiful mountain springs!  
 O lovely lotus flowers!  
-Tell me, who can be my refuge?
+Tell me, who can be my refuge?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५९१</summary>
@@ -468,7 +468,7 @@ surrounded with fragrant groves:
 I told him I will fill all the hundred pots  
 with sweet pongal for him:  
 He grows more and more beautiful:  
-Do you think he will come and eat?
+Do you think he will come and eat?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५९२</summary>
@@ -547,7 +547,7 @@ enters my heart and stays there,
 I will make a hundred thousand pots of butter  
 and sweet pongal and give them to him:  
 If he comes today and eats,  
-I will give him all these pots and serve him:
+I will give him all these pots and serve him:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५९३</summary>
@@ -628,7 +628,7 @@ Is it true that they sing that raga to wake him up?
 They sing as if they were repeating the names of  
 him who stays in Thirumālirunjolai,  
 the lord of Dwarapathi who sleeps on a banyan leaf,  
-but he does not come to me:
+but he does not come to me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५९४</summary>
@@ -707,7 +707,7 @@ in Thirumālirunjolai surrounded by groves
 where kongu flowers bloom:  
 When will I hear the sound of the conch  
 that he blows with his lotus mouth,  
-and the sound of his Sarngam bow that shoots arrows?
+and the sound of his Sarngam bow that shoots arrows?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५९५</summary>
@@ -770,18 +770,18 @@ and the sound of his Sarngam bow that shoots arrows?
 
 <details><summary>Hart - DP_५९६</summary>
 
-Vishṇuchithan the chief of Villiputhur
-     with a garland swarming with bees
-     composed ten lovely Tamil pāsurams
-     praising the beautiful lord of Thirumālirunjolai
-     where the Silampāṛu river flows
-     bringing sandalwood, akil wood
-     and throwing them up on its banks.
-     If devotees learn and recite these ten lovely pāsurams
-     they will join the feet of Thirumāl.
-------------
+Vishṇuchithan the chief of Villiputhur  
+with a garland swarming with bees  
+composed ten lovely Tamil pāsurams  
+praising the beautiful lord of Thirumālirunjolai  
+where the Silampāṛu river flows  
+bringing sandalwood, akil wood  
+and throwing them up on its banks.  
+If devotees learn and recite these ten lovely pāsurams  
+they will join the feet of Thirumāl.  
+------------  
 
-Flowers blooming in the rainy season
+Flowers blooming in the rainy season  
 </details>
 
 <details><summary>Info - DP_५९६</summary>

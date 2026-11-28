@@ -63,7 +63,7 @@ you’re just talking like someone who is dumb and deaf:
 He, the Nambi, left his birth mother  
 and was raised by Yashoda, his other mother:  
 Take me near his Madurai and leave me there  
-before he goes to the battlefield to fight with the wrestlers:”
+before he goes to the battlefield to fight with the wrestlers:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६१७</summary>
@@ -154,7 +154,7 @@ I have changed, I am in love with Kaṇṇan:
 If you really want to save me,  
 take me to the cowherd village:  
 I will only survive if I see the Māyan  
-who measured the world as a dwarf:”
+who measured the world as a dwarf:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६१८</summary>
@@ -243,7 +243,7 @@ plays with the cowherd girls
 and does many mischievous things:  
 Take me to the doorstep of Nandagopalan  
 and leave me there at midnight:  
-Māyavan comes to me often and stands before me:”
+Māyavan comes to me often and stands before me:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६१९</summary>
@@ -326,7 +326,7 @@ and become shy if they see common people:
 They won’t even look at the doorsteps of others,  
 only the house of Govindan:  
 I don’t want to live here:  
-Take me to the banks of the Yamuna river and leave me there:”
+Take me to the banks of the Yamuna river and leave me there:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६२०</summary>
@@ -411,7 +411,7 @@ embraces me with his arms:
 Take me to the pond and leave me on the banks  
 where he climbed the kadamba tree,  
 jumped into the pond and danced on Kālingan  
-as if he were dancing on a battlefield:”
+as if he were dancing on a battlefield:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६२१</summary>
@@ -506,7 +506,7 @@ He is sweating, hungry, feels weak and wants food,
 and he is looking for the wives of the rishis  
 to bring him something to eat:’  
 Take me to where he waits for food  
-and leave me there:”
+and leave me there:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६२२</summary>
@@ -598,7 +598,7 @@ puts on me his cool thulasi garland,
 all these problems will go away:  
 Take me to the banyan tree  
 where Balarāman conquered the Asuran Pilamban  
-and leave me there:”
+and leave me there:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६२३</summary>
@@ -690,7 +690,7 @@ that he carried as a victorious umbrella
 to stop the rain and protect the cows:  
 Don’t get together and argue  
 about what you have heard from others,  
-don’t argue with each other:”
+don’t argue with each other:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६२४</summary>
@@ -784,7 +784,7 @@ If I leave home and go to his place,
 people will blame you  
 and my relatives and you will be ashamed:  
 Take me to Dwarapathi filled with high palaces  
-and leave me there:”
+and leave me there:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६२५</summary>
@@ -855,18 +855,18 @@ and leave me there:”
 
 <details><summary>Hart - DP_६२६</summary>
 
-Vishṇuchithan Kodai, the chief of Puduvai
-     filled with shining golden palaces
-     composed a garland of beautiful pāsurams with music
-     how a beloved with long hair
-     tells her relatives her firm decision to join Kaṇṇan
-     and she asks them to take her on a pilgrimage
-     from Madurai to Dwarapathi and leave her with him.
-     If devotees learn and recite these ten pāsurams
-     they will reach Vaikuṇṭam.
------------
+Vishṇuchithan Kodai, the chief of Puduvai  
+filled with shining golden palaces  
+composed a garland of beautiful pāsurams with music  
+how a beloved with long hair  
+tells her relatives her firm decision to join Kaṇṇan  
+and she asks them to take her on a pilgrimage  
+from Madurai to Dwarapathi and leave her with him.  
+If devotees learn and recite these ten pāsurams  
+they will reach Vaikuṇṭam.  
+-----------  
 
-The love sickness of a girl
+The love sickness of a girl  
 </details>
 
 <details><summary>Info - DP_६२६</summary>

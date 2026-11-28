@@ -50,7 +50,7 @@ praised by the whole world,
 made the crown of the king of Lanka fall:  
 You are the dark jewel of Kaṇṇapuram  
 surrounded by new walls studded with pure gold:  
-O Raghava, thālelo: thālelo:
+O Raghava, thālelo: thālelo:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७१९</summary>
@@ -124,7 +124,7 @@ of strong Thaḍagai and killed her
 and as the dark jewel of Kaṇṇapuram,  
 you attract the hearts of all who see you:  
 You are rule the lands in all the eight directions,  
-O Raghava, thālelo: thālelo:
+O Raghava, thālelo: thālelo:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७२०</summary>
@@ -201,7 +201,7 @@ You are the son of Dasharatha,
 the dark jewel of Kaṇṇapuram  
 where pure water flows like the Ganges:  
 You are the sweet nectar of our family,  
-O Raghava, thālelo, thālelo:
+O Raghava, thālelo, thālelo:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७२१</summary>
@@ -270,7 +270,7 @@ the wonderful son of Dasharathan, the husband of Mythili
 are the dark jewel of Thirukkaṇṇapuram  
 where bees sing in the groves:  
 You carry the best of bows that shoots heroic arrows:  
-O Raghava, thālelo, thālelo:
+O Raghava, thālelo, thālelo:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७२२</summary>
@@ -335,7 +335,7 @@ with your younger brother Lakshmana who loved you so:
 You with a handsome chest strong as a mountain,  
 king of Thirukkannapuram,  
 are adorned with a precious crown that rules the world:  
-You are the son of Dasharatha, thālelo:
+You are the son of Dasharatha, thālelo:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७२३</summary>
@@ -400,7 +400,7 @@ the king of Ayodhya and the wonderful helper of the sages,
 left the desires of worldly life and went to the terrible forest,  
 obeying the words of your step-mother,  
 as all your relatives followed you:  
-O auspicious Rāma, thālelo, thālelo:
+O auspicious Rāma, thālelo, thālelo:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७२४</summary>
@@ -474,7 +474,7 @@ You are the dark jewel of Kaṇṇapuram
 where the wind makes the waves bring jewels  
 to the banks of the rivers:  
 You are the king of Thiruvāli:  
-You are the king of Ayodhya, thālelo:
+You are the king of Ayodhya, thālelo:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७२५</summary>
@@ -546,14 +546,14 @@ You are the king of Ayodhya, thālelo:
 
 <details><summary>Hart - DP_७२६</summary>
 
-You made the monkeys build a dam on the ocean
-     and destroyed Lanka surrounded by walls,
-     and you churned the wavy milky ocean and gave nectar to the gods.
-     You the best of archers,
-     the servant of your devotees,
-     are the dark jewel of Kaṇṇapuram
-     where the best poets and artists live.
-     O Srirāma, thālelo, thālelo.
+You made the monkeys build a dam on the ocean  
+and destroyed Lanka surrounded by walls,  
+and you churned the wavy milky ocean and gave nectar to the gods.  
+You the best of archers,  
+the servant of your devotees,  
+are the dark jewel of Kaṇṇapuram  
+where the best poets and artists live.  
+O Srirāma, thālelo, thālelo.  
 </details>
 </details>
 ## ०९ तळैयविऴुम् नऱुङ्गुञ्जित्तयरतन्
@@ -602,7 +602,7 @@ bent your bow and destroyed Lanka surrounded by walls:
 You are the dark jewel of Kaṇṇapuram  
 where beautiful kazuneer flowers bloom on all sides  
 and you are compassionate and give your grace  
-to young ones, thālelo, thālelo:
+to young ones, thālelo, thālelo:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७२७</summary>
@@ -675,7 +675,7 @@ You are the dark jewel of Kaṇṇapuram
 where the fertile Kaveri river flows  
 and you are the best of archers,  
 shooting mighty arrows with your bow:  
-O Raghava, thālelo:
+O Raghava, thālelo:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७२८</summary>
@@ -725,16 +725,16 @@ O Raghava, thālelo:
 
 <details><summary>Hart - DP_७२९</summary>
 
-Kulasekharan the mighty king
-     who sits under a royal umbrella and carries a murderous spear
-     composed these ten pāsurams, a garland of Tamil lullabies
-     describing the lord of the Kakutstha dynasty,
-     the god of Kaṇṇapuram surrounded by good strong new walls.
-     If devotees learn and recite these ten pāsurams
-     they will become dear to him.
-----------
+Kulasekharan the mighty king  
+who sits under a royal umbrella and carries a murderous spear  
+composed these ten pāsurams, a garland of Tamil lullabies  
+describing the lord of the Kakutstha dynasty,  
+the god of Kaṇṇapuram surrounded by good strong new walls.  
+If devotees learn and recite these ten pāsurams  
+they will become dear to him.  
+----------  
 
-The story of Rāma—Dasharatha suffers when Rama goes to forest.
+The story of Rāma—Dasharatha suffers when Rama goes to forest.  
 </details>
 
 <details><summary>Info - DP_७२९</summary>

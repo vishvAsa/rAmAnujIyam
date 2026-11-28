@@ -92,7 +92,7 @@ in the middle of ocean with rolling waves
 as Shiva, Nānmuhan who stays on a lotus on your navel, Indra  
 and all the crowd of gods worship you:  
 O lord, you measured all the three worlds  
-with your divine feet:
+with your divine feet:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५७८</summary>
@@ -191,7 +191,7 @@ let them do whatever they want:
 The nature of this illusionary world is to become rich:  
 Even if someone gets everything he needs in this world  
 and excellent moksha, the wise will not want a worldly life:  
-Their only aim will be to reach your feet:
+Their only aim will be to reach your feet:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५७९</summary>
@@ -284,7 +284,7 @@ for a churning stick and the snake Vasuki for a rope,
 and as the ocean was churned,  
 it roared with a a loud noise like thunder as its waves rolled:  
 May we serve the devotees of the matchless god  
-continuously, eon after eon:
+continuously, eon after eon:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५८०</summary>
@@ -376,7 +376,7 @@ the only god at the end of the eon,
 created Nānmuhan from his navel on a lotus,  
 and Nānmuhan created three-eyed Shiva  
 and the other gods and all the three worlds:  
-Let us worship the feet of Māyan:
+Let us worship the feet of Māyan:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५८१</summary>
@@ -474,7 +474,7 @@ and raised your other shining lotus foot to the sky and measured it,
 the world created by Nānmuhan was amazed and pleased  
 and the gods in the sky performed their worship:  
 O Thirumāl! Can anyone measure the world  
-with their feet like this except you ?
+with their feet like this except you ?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५८२</summary>
@@ -572,7 +572,7 @@ and do many wrong things,
 worshiping in a way that will give them only sorrow:  
 As they enjoy their lives,  
 they are involved in the illusions of this world,  
-only to be born again and suffer again in life:
+only to be born again and suffer again in life:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५८३</summary>
@@ -659,15 +659,15 @@ only to be born again and suffer again in life:
 
 <details><summary>Hart - DP_२५८४</summary>
 
-Shiva with the crescent moon in his matted hair,
-      Nānmuhan, Indra, the gods in the sky
-      and all the creatures of the world worship him.
-      At the end of the eon he swallowed the earth, ocean, fire, wind, sun,
-      moon, the sky and all other flourishing
-      and shining things in the world
-      and kept them in his stomach
-      as he, the divine Māyan, rested on a banyan leaf.
-      Is there any other god who is more divine for us to worship?
+Shiva with the crescent moon in his matted hair,  
+Nānmuhan, Indra, the gods in the sky  
+and all the creatures of the world worship him.  
+At the end of the eon he swallowed the earth, ocean, fire, wind, sun,  
+moon, the sky and all other flourishing  
+and shining things in the world  
+and kept them in his stomach  
+as he, the divine Māyan, rested on a banyan leaf.  
+Is there any other god who is more divine for us to worship?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२५८४</summary>

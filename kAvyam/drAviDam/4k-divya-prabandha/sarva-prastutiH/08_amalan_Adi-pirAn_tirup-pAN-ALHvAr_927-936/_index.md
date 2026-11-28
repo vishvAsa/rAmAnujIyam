@@ -63,7 +63,7 @@ is pure, the lord of the Thiruvenkaṭam hills
 surrounded with fragrant groves:  
 He is the god of justice in the sky,  
 and the dear one of Srirangam surrounded by tall walls:  
-His lotus feet came and entered my sight:
+His lotus feet came and entered my sight:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९२७</summary>
@@ -160,7 +160,7 @@ and as Rāma of the Kakutstha dynasty
 he killed the Rakshasas with his cruel arrows:  
 My thoughts are immersed in the red garment  
 that adorns the waist of the god of Srirangam  
-surrounded by fragrant groves:
+surrounded by fragrant groves:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९२८</summary>
@@ -246,7 +246,7 @@ where the gods in the sky come to worship
 the lord resting on the snake bed:  
 He wears a red garment with the color of the evening sky  
 and above that is Nānmuhan whom he created:  
-His beauty is this devotee’s life:
+His beauty is this devotee’s life:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९२९</summary>
@@ -337,7 +337,7 @@ The beautiful ornament tied on the divine waist
 of the god of Srirangam  
 where bees that drink honey sing  
 and beautiful peacocks dance  
-entered my heart and stayed there:
+entered my heart and stayed there:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९३०</summary>
@@ -423,7 +423,7 @@ Making me his dear devotee and entering my heart:
 He removed all the bad karma that has burdened me all my life:  
 I don’t know what hard penance I could have done for this to happen:  
 The ornamented divine chest of the god of Srirangam  
-made me his slave and protects me:
+made me his slave and protects me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९३१</summary>
@@ -513,7 +513,7 @@ removed the suffering of Shiva
 whose matted hair holds the crescent moon:  
 See, he swallowed all the earth,  
 the sky and the seven mountains  
-and he gives his grace to me:
+and he gives his grace to me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९३२</summary>
@@ -589,7 +589,7 @@ He, resting on a snake bed,
 the god of beautiful Srirangam  
 has a body is like a tall mountain  
 and long hair adorned with a fragrant Thulasi garland:  
-The red mouth of that Māyanār has stolen my heart:
+The red mouth of that Māyanār has stolen my heart:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९३३</summary>
@@ -664,7 +664,7 @@ The red mouth of that Māyanār has stolen my heart:
 He, the ancient god of the gods in the sky,  
 came as a man-lion and split open the body of Hiraṇyan:  
 The large, red-lined divine eyes on his dark face,  
-shining and touching his ears, make me crazy:
+shining and touching his ears, make me crazy:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९३४</summary>
@@ -740,7 +740,7 @@ and rests on a snake bed in Srirangam:
 His dark body, endlessly beautiful,  
 is adorned with pearl garlands  
 and precious, lovely diamond chains:  
-Oh, his blue body has stolen my heart!
+Oh, his blue body has stolen my heart!  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९३५</summary>
@@ -821,7 +821,7 @@ and a mouth is filled with butterhas stolen my heart:
 Rangan, the beautiful one, is the king of the gods in the sky:  
 Once they have seen him who is as sweet as nectar,  
 my eyes do not wish to see anything else:  
--------------------
+-------------------  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९३६</summary>

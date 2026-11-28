@@ -51,7 +51,7 @@ the bright sun is her thilagam,
 wide rivers are the ornaments on her ample chest,  
 large dark clouds are her hair,  
 and the ocean is her boundary:  
-She is three things, dharma, wealth and moksha:”
+She is three things, dharma, wealth and moksha:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_१</summary>
@@ -131,7 +131,7 @@ Many get dharma and wealth
 but they are not permanent:  
 People say there is a third thing  
 that is higher than those two,  
-but they speak in ignorance—I will explain why:
+but they speak in ignorance—I will explain why:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_२</summary>
@@ -205,7 +205,7 @@ The sun god rides on a chariot
 yoked to seven horses and goes around the world–  
 does he only go to the world of the gods and stay there?  
 That would be like someone wanting to eat meat  
-who leaves a rabbit and goes after a crow:
+who leaves a rabbit and goes after a crow:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_३</summary>
@@ -286,7 +286,7 @@ I adorned my dark hair and tied it up,
 put a band around my beautiful breasts  
 a mekalai around my waist,  
 and put kohl on my sharp spear-like eyes:  
-I was playing ball happily:
+I was playing ball happily:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४</summary>
@@ -366,11 +366,11 @@ I was playing ball happily:
 
 <details><summary>Hart - DP_५</summary>
 
-O devotees, worship and praise Rishikesa, the king of the whole earth,
-   who destroyed the Rakshasas and their large clan.
-   Give up your old ways and join us
-   and recite the thousand names of him.
-   Bow to his feet and say, “Pallāṇḍu! Pallāṇḍu!”
+O devotees, worship and praise Rishikesa, the king of the whole earth,  
+who destroyed the Rakshasas and their large clan.  
+Give up your old ways and join us  
+and recite the thousand names of him.  
+Bow to his feet and say, “Pallāṇḍu! Pallāṇḍu!”  
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५ - ०५</summary>
@@ -446,7 +446,7 @@ Suddenly my body grew pale
 and the bangles on my hands became loose  
 and fell and I couldn’t find them:  
 Whatever others said to me,  
-I didn’t listen to them:
+I didn’t listen to them:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६</summary>
@@ -523,7 +523,7 @@ and became weak and pale:
 My loving mother  
 with a voice as sweet as a parrot’s,  
 seeing me suffering, was concerned  
-and put vibhuti on my forehead to protect me:
+and put vibhuti on my forehead to protect me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७ - ०७</summary>
@@ -587,13 +587,13 @@ and put vibhuti on my forehead to protect me:
 
 <details><summary>Hart - DP_८</summary>
 
-O divine lord, you gave me prasadam with good ghee,
-   betel leaves and nuts, ornaments for my neck,
-   earrings for my ears and sandal paste to smear on my body.
-   You gave me your grace
-   so that I would become pure and wise and serve you.
-   Let me praise you with the Garuḍa banner
-   and say, “Pallāṇḍu! Pallāṇḍu!”
+O divine lord, you gave me prasadam with good ghee,  
+betel leaves and nuts, ornaments for my neck,  
+earrings for my ears and sandal paste to smear on my body.  
+You gave me your grace  
+so that I would become pure and wise and serve you.  
+Let me praise you with the Garuḍa banner  
+and say, “Pallāṇḍu! Pallāṇḍu!”  
 </details>
 </details>
 ## ०९ उडुत्तुक् कळैन्द निऩ् पीदग आडै उडुत्तु कलत्तदु उण्डु
@@ -631,13 +631,13 @@ O divine lord, you gave me prasadam with good ghee,
 
 <details><summary>Hart - DP_९</summary>
 
-We, his devotees, wear the silk clothes he has worn,
-   put on the thulasi garland like the ones that adorn him,
-   eat the food that is left over after he eats,
-   and do the service everywhere that he desires from us.
-   On the days of the Sravaṇa festival,
-   we praise him who rests on the snake bed
-   and say, “Pallāṇḍu! Pallāṇḍu!”
+We, his devotees, wear the silk clothes he has worn,  
+put on the thulasi garland like the ones that adorn him,  
+eat the food that is left over after he eats,  
+and do the service everywhere that he desires from us.  
+On the days of the Sravaṇa festival,  
+we praise him who rests on the snake bed  
+and say, “Pallāṇḍu! Pallāṇḍu!”  
 </details>
 </details>
 ## १० ऎन्नाळ् ऎम्बॆरुमाऩ् उऩ्दऩक्कु अडियोम् ऎऩ्ऱु ऎऴुत्तुप्पट्ट
@@ -675,14 +675,14 @@ We, his devotees, wear the silk clothes he has worn,
 
 <details><summary>Hart - DP_१०</summary>
 
-From the morning of each day we serve him as his slaves
-    and we will do the same in all our lives
-    and in future generations
-    praising him who will release us from birth and give us moksha.
-    He was born on the auspicious Sravana day.
-    He broke the bow of Kamsan in northern Madhura,
-    and danced on Kalingan the five-headed snake .
-    Let us praise and say, “Pallaṇḍu, Pallaṇḍu!”
+From the morning of each day we serve him as his slaves  
+and we will do the same in all our lives  
+and in future generations  
+praising him who will release us from birth and give us moksha.  
+He was born on the auspicious Sravana day.  
+He broke the bow of Kamsan in northern Madhura,  
+and danced on Kalingan the five-headed snake .  
+Let us praise and say, “Pallaṇḍu, Pallaṇḍu!”  
 </details>
 </details>
 ## ११ अल्वऴक्कु ऒऩ्ऱुम् इल्ला अणि कोट्टियर् कोऩ् अबिमाऩ तुङ्गऩ्
@@ -720,12 +720,12 @@ From the morning of each day we serve him as his slaves
 
 <details><summary>Hart - DP_११</summary>
 
-Dearest god, I am an old devotee of yours,
-    like Abhimānadungan, the king of beautiful Koṭṭiyur
-    where there is no injustice.
-    Devotees praise you who are pure in all ways
-    with many names and say, “Namo Nārāyaṇa” with love.
-    I will praise you and say, “Pallāṇḍu Pallāṇḍu”
+Dearest god, I am an old devotee of yours,  
+like Abhimānadungan, the king of beautiful Koṭṭiyur  
+where there is no injustice.  
+Devotees praise you who are pure in all ways  
+with many names and say, “Namo Nārāyaṇa” with love.  
+I will praise you and say, “Pallāṇḍu Pallāṇḍu”  
 </details>
 </details>
 ## १२ पल्लाण्डु ऎऩ्ऱु पवित्तिरऩैप् पर मेट्टियैच् चार्ङ्गम् ऎऩ्ऩुम्
@@ -763,13 +763,13 @@ Dearest god, I am an old devotee of yours,
 
 <details><summary>Hart - DP_१२</summary>
 
-Vishṇuchithan of Villiputhur praised the highest,
-    the pure one with the bow Sarngam.
-    If devotees recite these pāsurams and worship him saying, “Namo Nārāyaṇa”
-    they will be with the highest lord, praising him always
-    and saying, “Pallāṇḍu! Pallāṇḍu!”
-------------
+Vishṇuchithan of Villiputhur praised the highest,  
+the pure one with the bow Sarngam.  
+If devotees recite these pāsurams and worship him saying, “Namo Nārāyaṇa”  
+they will be with the highest lord, praising him always  
+and saying, “Pallāṇḍu! Pallāṇḍu!”  
+------------  
 
-Periyāzhvar’s Pillaithamil on Kaṇṇan : The birth of Kaṇṇan
+Periyāzhvar’s Pillaithamil on Kaṇṇan : The birth of Kaṇṇan  
 </details>
 </details>
