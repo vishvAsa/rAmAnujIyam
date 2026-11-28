@@ -74,7 +74,7 @@ with a dark body, beautiful eyes
 and a face bright as the shining moon  
 will give us the Paṛai:  
 Come and let us bathe and worship our Pāvai  
-as the world praises him:”
+as the world praises him:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४७४</summary>
@@ -232,7 +232,7 @@ we don't put kohl to darken our eyes,
 we don't decorate our hair with flowers,  
 we don't do evil things, we don't gossip:  
 We give alms to all beggars and sages:  
-Come and let us be happy and worship our Pāvai:”
+Come and let us be happy and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४७५</summary>
@@ -378,7 +378,7 @@ and the cows will not hide their milk
 but yield generously to fill up the pots  
 when the cowherds milk them:  
 Let riches be abundant!  
-Come and let us bathe and worship our Pāvai:”
+Come and let us bathe and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४७६</summary>
@@ -515,7 +515,7 @@ roaring with thunder like the sound of his conch,
 and pouring rain like the arrows from his Sarngam bow:  
 O Varuṇa, give us rain so that the people of the world may live happily:  
 Come and let us bathe joyfully in this month of Markazhi  
-and go to worship our Pāvai:”
+and go to worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४७७</summary>
@@ -651,7 +651,7 @@ Faultless, we come, sprinkle flowers, worship him,
 sing his praises and think only of him in our minds:  
 All the bad things we have done and may do  
 will disappear like dust in fire:  
-Let us go and worship our Pāvai:”
+Let us go and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४७८</summary>
@@ -811,7 +811,7 @@ and destroyed the cheating Sakaṭāsuran,
 rests on the ocean on the snake Adishesha:  
 Sages and yogis rise and praise him saying, “Hari, Hari!”  
 Listen to their praise and get up, happy in your heart:  
-Let us go and worship our Pāvai:”
+Let us go and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४७९</summary>
@@ -952,7 +952,7 @@ You are a queen of the cowherd village:
 How can you sleep when you hear people  
 singing the praise of Kesavan?  
 You shine brightly! Open the door:  
-Let us go and worship our Pāvai:”
+Let us go and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४८०</summary>
@@ -1098,7 +1098,7 @@ of the Asuran Kesi when he came as a horse
 and fought with the wrestlers and defeated them,  
 he will give us his grace:  
 That would be a wonderful thing:  
-Let us go and worship our Pāvai:”
+Let us go and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४८१</summary>
@@ -1240,7 +1240,7 @@ Doesn't your daughter speak? Doesn't she hear?
 Has some magic put her into deep sleep?  
 Let us praise the god singing his many names,  
 saying ‘You are the Māyan, Madhavan, Vaikuṇṭan!’  
-Let us go and worship our Pāvai:”
+Let us go and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४८२</summary>
@@ -1376,7 +1376,7 @@ Does Kumbakarṇan who fell into the mouth of Yama in battle
 make you sleep so soundly?  
 You are very lazy! You are a precious ornament!  
 Wake up and open the door:  
-Let us go and worship our Pāvai:”
+Let us go and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४८३</summary>
@@ -1511,7 +1511,7 @@ and praise the fame of the dark cloud-colored Kaṇṇan
 but you have not stirred from your bed:  
 O dear girl, you have not said a word:  
 Why are you sleeping like this?  
-Let us go and worship our Pāvai:”
+Let us go and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४८४</summary>
@@ -1649,7 +1649,7 @@ who angrily destroyed the king of southern Lanka
 but you haven’t opened your mouth:  
 Wake up: Why do you sleep like this?  
 Don't you know all the people in your house are up?  
-Let us go and worship our Pāvai:”
+Let us go and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४८५</summary>
@@ -1787,7 +1787,7 @@ to bathe and play in the cool water?
 Today is an auspicious day:  
 Don’t pretend to sleep:  
 Come and join us:  
-Let us go and worship our Pāvai:”
+Let us go and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४८६</summary>
@@ -1931,7 +1931,7 @@ Aren't you ashamed? Get up:
 You don’t do the things that you say you will:  
 Come, let us sing and praise the lotus-eyed god  
 with a conch and discus in his strong hands:  
-Let us go and worship our Pāvai:”
+Let us go and worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४८७</summary>
@@ -2198,7 +2198,7 @@ We have bathed to make ourselves pure
 and have come to sing and wake him up:  
 O guard! Don’t say this or that and make excuses:  
 Open the front door of this palace!  
-We are going to worship our Pāvai:”
+We are going to worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४८९</summary>
@@ -2338,7 +2338,7 @@ O king of the gods with feet adorned with pure golden anklets:
 You grew tall, split the sky and measured the world:  
 Dear one, do not sleep: Get up:  
 O Baladeva, don't sleep with your little brother:  
-We are going to worship our Pāvai
+We are going to worship our Pāvai  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४९०</summary>
@@ -2481,7 +2481,7 @@ open the door so the lovely bracelets
 on your beautiful lotus hands jingle:  
 Come and join us to sing  
 and praise the name of your husband:  
-We are going to worship our Pāvai
+We are going to worship our Pāvai  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४९१</summary>
@@ -2620,7 +2620,7 @@ How could you not get up and want to see your beloved?
 Surely you can understand  
 that you won’t be able to be away from him for long:  
 This isn’t good for you:  
-We are going to worship our Pāvai
+We are going to worship our Pāvai  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४९२</summary>
@@ -2757,7 +2757,7 @@ with soft breasts like small cheppus,
 a red mouth and a tiny waist, get up!  
 Give us fans and mirrors and send your husband with us  
 so that we can praise him and go to bathe:  
-We are going to worship our Pāvai
+We are going to worship our Pāvai  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४९३</summary>
@@ -2902,7 +2902,7 @@ Get up: We have come to your door
 as if we were your enemies unable to fight with you:  
 We come and worship your feet,  
 praising you whose fame is abundant:  
-We are going to worship our Pāvai
+We are going to worship our Pāvai  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४९४</summary>
@@ -3027,7 +3027,7 @@ Won't your beautiful lotus eyes
 bright as the sun and the moon,  
 show us even a little grace?  
 If you look at us, our karma will go away:  
-We are going to worship our Pāvai
+We are going to worship our Pāvai  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४९५</summary>
@@ -3181,7 +3181,7 @@ in a mountain cave in the rainy season,
 that opens its fiery eyes and roars, its mane hanging low:  
 You come from your temple and sit on your majestic throne:  
 Give us your grace, and help us:  
-We are going to worship our Pāvai
+We are going to worship our Pāvai  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४९६</summary>
@@ -3325,7 +3325,7 @@ We praise your compassion:
 We praise the spear in your hands that conquers your enemies:  
 We want to serve you always and have come to receive the Paṛai:  
 Give us your grace:  
-We are going to worship our Pāvai
+We are going to worship our Pāvai  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४९७</summary>
@@ -3467,7 +3467,7 @@ O Neḍumāl! We worship you and have come here to you:
 If you give us the Paṛai,  
 we will sing and praise your wealth and grace  
 and our sorrows will go away and we will be happy:  
-We are going to worship our Pāvai
+We are going to worship our Pāvai  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४९८</summary>
@@ -3605,7 +3605,7 @@ We want to be with people singing “Pallaṇḍu!”to you:
 You as a beautiful baby slept on the banyan leaf:  
 Give us a eautiful lamps, flags and a roofed place to stay:  
 Give us your grace:  
-We are going to worship our Pāvai:”
+We are going to worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_४९९</summary>
@@ -3740,7 +3740,7 @@ and we will be happy to wear them:
 Wearing beautiful clothes,  
 we will join together and eat rice with milk, pouring ghee in it,  
 and as we eat the ghee will drip from our elbows:  
-We are going to worship our Pāvai:”
+We are going to worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५००</summary>
@@ -3876,7 +3876,7 @@ We, innocent children,
 call you with simple names because we love you:  
 Do not get upset with us:  
 Give us the Paṛai and give us your grace:  
-We are going to worship our Pāvai:”
+We are going to worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५०१</summary>
@@ -4007,7 +4007,7 @@ See, Govindan, we want to be with you always
 and we will serve you in all our fourteen births:  
 Give us your grace  
 and keep us from wanting anything but your service:  
-We are going to worship our Pāvai:”
+We are going to worship our Pāvai:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५०२</summary>

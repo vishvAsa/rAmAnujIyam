@@ -57,7 +57,7 @@ and I long to see him and suffer:
 O mothers, your gossip is like pouring tamarind juice on a wound:  
 The dear lord does not know how this girl suffers:  
 Bring the colorful silk cloth that decorates his waist  
-and use it to fan me and make me cool:”
+and use it to fan me and make me cool:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६२७</summary>
@@ -138,7 +138,7 @@ Don’t gossip uselessly as if you were piercing someone with a spear:
 He is a cowherd and grazes the cows holding a stick,  
 and he danced on a pot in Kuḍanthai:  
 Bring the cool thulasi garland of the dark-colored Kaṇṇan  
-to decorate my soft curly hair:”
+to decorate my soft curly hair:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६२८</summary>
@@ -286,7 +286,7 @@ has made me weak with love for him and I am heartbroken:
 Who is there to relieve this sorrow?  
 If you bring the water that springs from his the nectar-like mouth,  
 and feed that to me, the weakness of my body  
-and my love sickness will go away:”
+and my love sickness will go away:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६३०</summary>
@@ -365,7 +365,7 @@ He, the matchless Neḍumāl, came, embraced me, entered my heart,
 and now seems to follow me everywhere without ever leaving:  
 Sprinkle the water on my face  
 that comes from the holes of his flute  
-as he plays it walking behind his cows in the grove:”
+as he plays it walking behind his cows in the grove:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६३१</summary>
@@ -444,7 +444,7 @@ makes me suffer as if I were crushed
 beneath the feet of a bull:  
 I can’t even move:  
 Bring the dust from where he has walked,  
-smear it on me, and I will survive:"
+smear it on me, and I will survive:"  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६३२</summary>
@@ -522,7 +522,7 @@ he rules the world and all obey him:
 Yashoda raised him but she only made him  
 like an unripe, bitter fruit:  
 If he embraces tightly my faultless breasts with his young strong arms,  
-my faults will go away and I will be happy:”
+my faults will go away and I will be happy:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६३३</summary>
@@ -600,7 +600,7 @@ who carried Govardhana mountain and I suffer:
 He doesn’t even care whether I’m alive or not:  
 If I see that mischievous one who stole my heart,  
 I will take my useless breasts and throw them on his chest:  
-Perhaps that will make my fire-like anger cool:”
+Perhaps that will make my fire-like anger cool:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६३४</summary>
@@ -681,7 +681,7 @@ or if he looks at me and tells me the truth to my face,
 saying, “I don’t want you, goodbye!” it would also be good:  
 If he doesn’t want me what is the use of waiting  
 without knowing what he wants?  
-Isn’t it better if he tells me the truth?”
+Isn’t it better if he tells me the truth?”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६३५</summary>
@@ -748,16 +748,16 @@ Isn’t it better if he tells me the truth?”
 
 <details><summary>Hart - DP_६३६</summary>
 
-The chief of Villiputhur, Vishṇuchithan Kodai,
-     composed pāsurams about how a woman
-     with eyebrows more lovely than bows
-     loved the dear Kaṇṇan, the bright light of the cowherd village,
-     after he gave her pangs of love.
-     If devotees learn these pāsurams and worship him
-     they will not suffer in the ocean of sorrow.
-------------
+The chief of Villiputhur, Vishṇuchithan Kodai,  
+composed pāsurams about how a woman  
+with eyebrows more lovely than bows  
+loved the dear Kaṇṇan, the bright light of the cowherd village,  
+after he gave her pangs of love.  
+If devotees learn these pāsurams and worship him  
+they will not suffer in the ocean of sorrow.  
+------------  
 
-Devotees seeing Kaṇṇan in Brindavan.
+Devotees seeing Kaṇṇan in Brindavan.  
 </details>
 
 <details><summary>Info - DP_६३६</summary>

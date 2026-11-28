@@ -57,7 +57,7 @@ did the dark ocean-colored god
 send you as warriors to fight with me?  
 Where did he go? To whom can I complain?  
 I cannot fight with my heart  
-that wants his beautiful thulasi garland:
+that wants his beautiful thulasi garland:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५९७</summary>
@@ -137,7 +137,7 @@ do not grow to the sky
 and burn me like the brightness of the discus  
 that is in the hand of him, the ancient god  
 praised by the Vedas:  
-Take me to the group of the cowherds where he is:
+Take me to the group of the cowherds where he is:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५९८</summary>
@@ -223,7 +223,7 @@ I say I will not live without him,
 yet I am alive without him now  
 and say that I want to be with him:  
 I am shameless like two-tongued Adisesha  
-on whom the lord rests:
+on whom the lord rests:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५९९</summary>
@@ -303,7 +303,7 @@ I go to you for refuge—please show me your love:
 The young lord who cut off Surpanakha’s nose  
 promised he would never be apart from me:  
 If his promise is false,  
-it would be better if I had not been born:
+it would be better if I had not been born:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६००</summary>
@@ -387,7 +387,7 @@ if the lord of the beautiful Venkaṭa hills
 gives me his love and allows me to survive:  
 If the god with an eagle flag comes,  
 gives his grace and embraces me,  
-he can also listen to your songs:
+he can also listen to your songs:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६०१</summary>
@@ -466,7 +466,7 @@ as if you had studied long to learn to dance:
 I bow to your feet:  
 Do you see the sorrow of love that the dear god  
 resting eternally on Adisesha on the ocean  
-has given me?
+has given me?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६०२</summary>
@@ -543,7 +543,7 @@ I am pitiful and have no interest in seeing you dance:
 Govindan, who dances the kudavai kuthu on a pot,  
 has taken all my feelings with him:  
 It is cruel of you to dance happily,  
-reminding me of him and giving me pain:
+reminding me of him and giving me pain:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६०३</summary>
@@ -621,7 +621,7 @@ The thought that he has not entered my heart makes me suffer:
 Like wax covered with sand that melts and pours down,  
 my love for him pours out:  
 Won’t you make the beautiful god of Venkaṭa hills  
-enter into my heart and embrace me?
+enter into my heart and embrace me?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६०४</summary>
@@ -702,7 +702,7 @@ O milky ocean, O milky ocean!
 Māyavan churned you and took the nectar from you:  
 He entered my heart, made me suffer and took my life away:  
 Will you go to him who rests on the snake bed  
-and tell him how I suffer for his love?
+and tell him how I suffer for his love?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६०५</summary>
@@ -761,15 +761,15 @@ and tell him how I suffer for his love?
 
 <details><summary>Hart - DP_६०६</summary>
 
-O dear friend, our highest lord is divine but we are small.
-     He is wonderful and he rests on Adisesha, his snake bed.
-     What can we do for him?
-     Yet if Vishṇuchithan, the chief of Villiputhur,
-     summons his generous god by composing beautiful pāsurams,
-     and makes him come, we may be able to see him.
-------------
+O dear friend, our highest lord is divine but we are small.  
+He is wonderful and he rests on Adisesha, his snake bed.  
+What can we do for him?  
+Yet if Vishṇuchithan, the chief of Villiputhur,  
+summons his generous god by composing beautiful pāsurams,  
+and makes him come, we may be able to see him.  
+------------  
 
-The love of a girl for the lord of Srirangam
+The love of a girl for the lord of Srirangam  
 </details>
 
 <details><summary>Info - DP_६०६</summary>

@@ -66,7 +66,7 @@ You are two things—the touch and the sound of the wind:
 You are the unique ancient one:  
 You are many things on the earth:  
 You are the dark-colored one:  
-Who has the power to know who you are?
+Who has the power to know who you are?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७५२</summary>
@@ -248,7 +248,7 @@ You are many wisdoms,
 the true and the false:  
 You are taste, light, touch, sound and smell:  
 You, Māyan, are everything on earth  
-yet who can see you?
+yet who can see you?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७५३</summary>
@@ -322,15 +322,15 @@ yet who can see you?
 
 <details><summary>Hart - DP_७५४</summary>
 
-You are the chief of the twenty-four philosophies,
-     the five elements water, land, fire, wind and the sky,
-     the five sense organs, body, mouth, eyes, nose and ears,
-     the five organs of action, mouth, legs, hands, the unclean organs,
-     the five senses, taste, sight, hearing, smell and touch
-     and the four organs of knowledge,
-     mind, ego, knowledge, and ignorance.
-     You who stay in the sky are all these and more.
-     O Māyan, who can see you?
+You are the chief of the twenty-four philosophies,  
+the five elements water, land, fire, wind and the sky,  
+the five sense organs, body, mouth, eyes, nose and ears,  
+the five organs of action, mouth, legs, hands, the unclean organs,  
+the five senses, taste, sight, hearing, smell and touch  
+and the four organs of knowledge,  
+mind, ego, knowledge, and ignorance.  
+You who stay in the sky are all these and more.  
+O Māyan, who can see you?  
 </details>
 </details>
 ### ००४ मून्ऱुमुप्पदाऱिनोडु ऒरैन्दुमैन्दु
@@ -391,7 +391,7 @@ You are the lord of the five special sounds in Tamil
 and the mantra with twelve sounds,  
 “Om namo bhagavate Vāsudevāya:”  
 You are the three faultless lights—the sun, the moon and the stars:  
-You have entered my heart—why, O my lord?
+You have entered my heart—why, O my lord?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७५५</summary>
@@ -500,7 +500,7 @@ No one knows who you are
 but you are in everyone and everything,  
 there is no limit to you:  
 You created Nanmuhan on your navel  
-and he creates all creatures of the world:
+and he creates all creatures of the world:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७५६</summary>
@@ -580,7 +580,7 @@ Adisesha carries the earth and you,
 the mountains burden the earth,  
 the sky carries the Ganges and the clouds,  
 and you contain in yourself water, fire, wind, sky and the earth  
-and protect them all and all are in you:
+and protect them all and all are in you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७५७</summary>
@@ -663,7 +663,7 @@ the three forms of the gods, Shiva, Vishnu and Nanmuhan,
 the sleep, the feelings of all, ,  
 the two times, night and day,  
 and the oceans, the earth, the three fires:  
-You are the great one praised by three-eyed Shiva:
+You are the great one praised by three-eyed Shiva:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७५८</summary>
@@ -754,7 +754,7 @@ You are the great one praised by three-eyed Shiva:
 You are the most ancient of the ancient gods  
 and you abide across the worlds  
 and you know the birth of the ancient gods:  
-Who can tell the time when you became the first one?
+Who can tell the time when you became the first one?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७५९</summary>
@@ -842,7 +842,7 @@ adorned with kondrai garlands that drip pollen
 worships your feet as the Vedas say:  
 The Vediyars who know the Vedas well  
 and the sages who recite the sacrificial mantras  
-worship you through the right paths that the sastras prescribe:
+worship you through the right paths that the sastras prescribe:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७६०</summary>
@@ -922,7 +922,7 @@ Just as the white waves born in the wide ocean
 rise and go back into the ocean,  
 everything that is in the world is born from you,  
 stays and lives in the world by your grace  
-and goes back into you: Such is your nature:
+and goes back into you: Such is your nature:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७६१</summary>
@@ -1003,7 +1003,7 @@ who are the sounds that form the words of the Vedas,
 the meaning of all the words in the Vedas,  
 and the light that cannot be described by words:  
 You created Nanmuhan and he creates  
-all the creatures of the world by your order:
+all the creatures of the world by your order:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७६२</summary>
@@ -1085,7 +1085,7 @@ and again you created it again:
 The world is within you  
 and you are separate from it also:  
 You do not remain in one place:  
-Who knows how you are in this world?
+Who knows how you are in this world?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७६३</summary>
@@ -1171,7 +1171,7 @@ and some say you are only a cowherd
 and play with cowherd girls:  
 Who can know your name, your place,  
 your birth and what form you will take in the future?  
-No one can know your nature:
+No one can know your nature:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७६४</summary>
@@ -1259,7 +1259,7 @@ are the ancient one who took the form of a turtle:
 You rest on the deep ocean:  
 We do not know what your name is,  
 but we say you are the creator of the Samaveda  
-and the Vedas praise you:
+and the Vedas praise you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७६५</summary>
@@ -1352,11 +1352,11 @@ and the Vedas praise you:
 
 <details><summary>Hart - DP_७६६</summary>
 
-You are the four Vedas, the six Upanishads
-     and their meaning.
-     You, the precious one
-     rest on the wide ocean on many-headed Adishesha.
-     Aren’t you the one with a white conch and the Sarngam bow?
+You are the four Vedas, the six Upanishads  
+and their meaning.  
+You, the precious one  
+rest on the wide ocean on many-headed Adishesha.  
+Aren’t you the one with a white conch and the Sarngam bow?  
 </details>
 </details>
 ### ०१६ तलैक्कणत्तुकट् कुऴम्बु
@@ -1412,7 +1412,7 @@ plants, people who do good and bad karma and animals:
 Even though people do not know who you are,  
 they hear of you from the Vedas and the scriptures of the sages  
 and they know you in their hearts:  
-Your greatness is like that of high mountains:
+Your greatness is like that of high mountains:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७६७</summary>
@@ -1504,7 +1504,7 @@ are the source of good karma,
 and give joy and goodness to all:  
 No one can comprehend your form:  
 How can you, the ancient god,  
-come to the world in human form?
+come to the world in human form?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७६८</summary>
@@ -1584,7 +1584,7 @@ You rest on the snake bed of Adishesha with a thousand mouths,
 and two thousand fiery eyes,  
 who makes a roof for you and is never apart from you:  
 You have the color of the ocean—  
-why do you rest on the ocean?
+why do you rest on the ocean?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७६९</summary>
@@ -1664,7 +1664,7 @@ when he came as a bird,
 and ride on the eagle:  
 Even though you carry an eagle flag,  
 why do you love to rest on the ocean on Adisesha,  
-the snake that is an enemy of the eagle?
+the snake that is an enemy of the eagle?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७७०</summary>
@@ -1762,7 +1762,7 @@ and the gods come there and sing and praise you:
 O Kesava who took the form of a turtle  
 that lives in moss-covered water,  
 why did you do that and allow others to say bad things about you?  
-Tell us so we can understand you:
+Tell us so we can understand you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७७१</summary>
@@ -1851,7 +1851,7 @@ What did the Asuras do?
 When you went to Lanka to fight with Ravaṇa,  
 you were happy to get the help of the monkeys:  
 You are our father!  
-Tell us how all that happened so we can understand you:
+Tell us how all that happened so we can understand you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७७२</summary>
@@ -1930,7 +1930,7 @@ the ancient god adorned with a thulasi garland
 that swarms with bees, are the past, present and future:  
 Taking the form of the child Kaṇṇan,  
 you swallowed all the seven worlds and slept on a banyan leaf,  
-you who embrace on your chest the goddess Lakshmi:
+you who embrace on your chest the goddess Lakshmi:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७७३</summary>
@@ -2016,7 +2016,7 @@ You took the form of a white lion
 and with your claws, split open the chest  
 of Hiraṇyan with shining teeth:  
 You, the Padmanabhan, rest on the ocean of milk,  
-and famous yogis recite the four Vedas and worship you:
+and famous yogis recite the four Vedas and worship you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७७४</summary>
@@ -2105,7 +2105,7 @@ a discus, a conch, a club, a bow and a sword:
 O god of gods who took the form of a man-lion,  
 the goddess Lakshmi, adorned with beautiful blossoms  
 dripping with pollen, lives on your chest:  
-O Māyan, your body has the blue color of the ocean:
+O Māyan, your body has the blue color of the ocean:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७७५</summary>
@@ -2186,7 +2186,7 @@ You came as a dwarf and begged for land from Mahābali,
 but what kind of lie was that, since the world was already yours?  
 Did you hide the land in your stomach  
 that you received by begging him?  
-O Kaṇṇa! Who has the ability to know what you think?
+O Kaṇṇa! Who has the ability to know what you think?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७७६</summary>
@@ -2271,7 +2271,7 @@ the false and the true,
 and you are illusory and appear to be nothing:  
 You have been a cowherd looking after bulls  
 and you went to Mahābali as a dwarf and took his land:  
-You are a thief:
+You are a thief:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७७७</summary>
@@ -2364,7 +2364,7 @@ You went to king Mahābali as a dwarf-sage,
 begged for his land,  
 and measured the earth with one foot,  
 grew tall and measured the sky with the other:  
-Who will respect you for how you cheated Mahābali?
+Who will respect you for how you cheated Mahābali?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७७८</summary>
@@ -2451,7 +2451,7 @@ created the earth, swallowed the earth and spat it out,
 and you created the oceans and slept on a banyan leaf:  
 When the Asuras Thirumāli and Sumali came to fight with you,  
 you sent them to Yama’s world,  
-O you who went as a dwarf and measured the world:
+O you who went as a dwarf and measured the world:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७७९</summary>
@@ -2675,7 +2675,7 @@ You who are the highest god of the gods
 and the form of wisdom rest on the ocean,  
 keeping Lakshmi on your chest and embracing her:  
 You came to this earth in human forms:  
-No one can say what your nature is:
+No one can say what your nature is:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७८०</summary>
@@ -2760,7 +2760,7 @@ are as lovely as a lotus and you carry a victorious lotus:
 You enjoyed the food served for Indra and slept on a banyan leaf,  
 you shot a stone from your sling and hit Manthara’s hunched back  
 and you are adorned with a lovely fragrant cool thulasi garland  
-that drips with pollen:
+that drips with pollen:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७८१</summary>
@@ -2826,12 +2826,12 @@ that drips with pollen:
 
 <details><summary>Hart - DP_७८२</summary>
 
-You, the good lord of unlimited fame
-     who carry the discus that decides the life of all
-     were born as a child and swallowed all the seven worlds in ancient times.
-     As heroic Rāma, you became angry, bent your bow and calmed the ocean.
-     O Murthi, you give moksha to your devotees
-     if they worship you in their hearts.
+You, the good lord of unlimited fame  
+who carry the discus that decides the life of all  
+were born as a child and swallowed all the seven worlds in ancient times.  
+As heroic Rāma, you became angry, bent your bow and calmed the ocean.  
+O Murthi, you give moksha to your devotees  
+if they worship you in their hearts.  
 </details>
 </details>
 ### ०३२ कुरक्किनप्पडैकॊडु कुरैकडलिन्
@@ -2887,7 +2887,7 @@ You, the ancient one, crossed the ocean with the help of a monkey army,
 fought the Raksasas, shot your cruel arrows and destroyed them:  
 You begged Mahābali to give you land and took all his land,  
 measuring the earth and the sky with your feet  
-so they all belonged to you:
+so they all belonged to you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७८३</summary>
@@ -2967,7 +2967,7 @@ and you gave your grace to Vibhishaṇa and the kingdom of Lanka:
 You are the beloved of Nappinnai, the innocent woman  
 with sweet words and a lovely color:  
 Aren’t you the lotus-eyed god  
-who have everlasting fame and a golden color?
+who have everlasting fame and a golden color?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७८४</summary>
@@ -3055,7 +3055,7 @@ You who are the ancient of the ancients of the world,
 the highest of all the lights and the truth  
 are the Vedas, the sacrifice and the sky and the earth:  
 What is your magic that you are the ancient one  
-and a cowherd?
+and a cowherd?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७८५</summary>
@@ -3135,7 +3135,7 @@ that swims on the ocean and of a turtle
 and you were a child for the cowherd woman Yashoda  
 with a waist as thin as a vine:  
 O lord, what is your magic  
-that you are a cowherd and also our god?
+that you are a cowherd and also our god?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७८६</summary>
@@ -3217,7 +3217,7 @@ destroyed Sakaṭāsuran when he came as a cart,
 took the life of an Asuran when he came as a bird,  
 and you drank milk from the breasts of the deceiving devil Putanā:  
 How could you drink the nectar from the mouths of women  
-ornamented with golden bracelets on their hands?
+ornamented with golden bracelets on their hands?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७८७</summary>
@@ -3302,7 +3302,7 @@ People say that you are Kaṇṇan
 and that is why you could do all these things with your strong hands:  
 You drank the milk of the cowherdess Yashoda,  
 ate mud, you stole butter and ate it,  
-and you drank the milk of the devil Putanā:
+and you drank the milk of the devil Putanā:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७८८</summary>
@@ -3394,7 +3394,7 @@ of the rutting elephant that dripped ichor:
 You danced on the snake Kalingan  
 and you danced the kuthu dance on pots:  
 You the god with a discus that destroys your enemies,  
-wear cool thulasi garlands on your chest:
+wear cool thulasi garlands on your chest:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७८९</summary>
@@ -3481,7 +3481,7 @@ used Mandara mountain as a churning stick
 and churned the milky ocean:  
 You made a bridge using stones on the ocean to go to Lanka,  
 and you destroyed Lanka surrounded by stone walls,:  
-You protected the cows from the storm with Govardhana mountain:
+You protected the cows from the storm with Govardhana mountain:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७९०</summary>
@@ -3568,7 +3568,7 @@ and you killed the elephant Kuvalayabeeḍam,
 You were raised as a cowherd child, grazed the cows  
 and protected them from the storm with Govardhana mountain:  
 You fought with the seven bulls to marry Nappinnai:  
-What is all this magic?
+What is all this magic?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७९१</summary>
@@ -3662,7 +3662,7 @@ with round bamboo-like arms:
 O cowherd, who can conquer you?  
 You, the Māyan, are the sky and the earth:  
 You destroy illusions yet you create illusions:  
-Is all your magic an illusion?
+Is all your magic an illusion?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७९२</summary>
@@ -3758,7 +3758,7 @@ You must not be ashamed to tell about Shiva
 with a red body and a crescent moon in his matted hair  
 where the Ganges flows:  
 O lord who fought the seven bulls,  
-you should not be ashamed to tell others about Shiva:
+you should not be ashamed to tell others about Shiva:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७९३</summary>
@@ -3849,7 +3849,7 @@ broke the white tusks of an enraged elephant:
 You destroyed Kamsan when he was angry with you:  
 You are the Māyan who measured the world  
 and drank the milk of the deceiving devil Putanā and killed her,  
-you, the ancient god colored as dark as kohl:
+you, the ancient god colored as dark as kohl:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७९४</summary>
@@ -3941,7 +3941,7 @@ and the freshness of green moss:
 You have the dark color of bees  
 that drink honey and fly around ponds:  
 You are the four seasons:  
-Why does the world not understand the grace of Thirumāl?
+Why does the world not understand the grace of Thirumāl?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७९५</summary>
@@ -4023,7 +4023,7 @@ We do not know who you are—what is this magic?
 Are you with other gods in heaven?  
 Are you near? Are you far?  
 O virtuous one resting on the snake Adishesha,  
-who wear a fresh thulasi garland, you are pure:
+who wear a fresh thulasi garland, you are pure:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७९६</summary>
@@ -4127,7 +4127,7 @@ You carry a conch and a discus
 and you ride on lovely-winged Garuḍa:  
 I have not received your goodness like the other devotees:  
 I am like a dog: Give me your grace  
-so I will reach moksha and not be born again:
+so I will reach moksha and not be born again:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७९७</summary>
@@ -4206,7 +4206,7 @@ have the color of a dark cloud:
 People say that you are omnipresent and boundless:  
 You who rest on a snake bed on the ocean,  
 I am like a dog—I want to know where you are:  
-I beg you, please tell me:
+I beg you, please tell me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७९८</summary>
@@ -4286,7 +4286,7 @@ you took the land from Mahābali and measured it,
 and you assumed the form of a boar, split open the earth  
 and brought forth the earth goddess who was hidden:  
 You, the ancient god, created all lives  
-and you gave godliness to the gods:
+and you gave godliness to the gods:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७९९</summary>
@@ -4366,12 +4366,12 @@ and you gave godliness to the gods:
 
 <details><summary>Hart - DP_८००</summary>
 
-The Thirupadi of the god who threw a ball happily
-     at the hump on the back of Manthara, the servant of Kaikeyi
-     with hair adorned with flowers swarming with bees,
-     is Srirangam surrounded by water
-     where keṇḍai fish swim about, valai fish jump
-     and cranes swallow crabs.
+The Thirupadi of the god who threw a ball happily  
+at the hump on the back of Manthara, the servant of Kaikeyi  
+with hair adorned with flowers swarming with bees,  
+is Srirangam surrounded by water  
+where keṇḍai fish swim about, valai fish jump  
+and cranes swallow crabs.  
 </details>
 </details>
 ### ०५० वॆण् तिरैक् करुङ् गडल् सिवन्दु वेव मुऩ् ऒर् नाळ्
@@ -4414,14 +4414,14 @@ The Thirupadi of the god who threw a ball happily
 
 <details><summary>Hart - DP_८०१</summary>
 
-The Thiruppadi of the lord
-     who in ancient times, taking the form of heroic Rāma,
-     shot arrows from his bow with his strong hands
-     and made the dark ocean in Lanka with its white waves grow red
-     is famous Srirangam
-     surrounded by groves swarming with bees
-     where the divine water of the Kaviri flows
-     in all the eight directions.
+The Thiruppadi of the lord  
+who in ancient times, taking the form of heroic Rāma,  
+shot arrows from his bow with his strong hands  
+and made the dark ocean in Lanka with its white waves grow red  
+is famous Srirangam  
+surrounded by groves swarming with bees  
+where the divine water of the Kaviri flows  
+in all the eight directions.  
 </details>
 </details>
 ### ०५१ शरङ्गळैइत्तुरन्दु विल्
@@ -4476,7 +4476,7 @@ The Thiruppadi of the lord who bent his bow, shot his arrows
 and cut down the ten heads of Ravaṇa the king of Lanka  
 is Srirangam where the waves of the Kaviri river roll everywhere  
 bringing gold to the shores  
-and where Nanmuhan worshipped him:
+and where Nanmuhan worshipped him:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८०२</summary>
@@ -4553,7 +4553,7 @@ who fought the elephant Kuvalayabeeḍam
 who came to attack him angrily and broke its tusks  
 is Srirangam surrounded by clear water  
 where the Vediyars are without desire  
-and walk holding bamboo sticks that have small pearls:
+and walk holding bamboo sticks that have small pearls:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८०३</summary>
@@ -4630,7 +4630,7 @@ who cut off the thousand arms of Bānasuran
 and chased him away from the terrible battlefield  
 as the three-eyed Shiva and his escorts  
 who had come to help the Asuran also retreated with their army  
-is the famous Srirangam surrounded by water:
+is the famous Srirangam surrounded by water:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८०४</summary>
@@ -4717,7 +4717,7 @@ stays in Srirangam where the Kaviri river
 that was born in the summits of mountains  
 and descends from the hills carries in its rolling waves  
 fragrant sandal and kungumam paste  
-as they break and dash on the banks:
+as they break and dash on the banks:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८०५</summary>
@@ -4798,7 +4798,7 @@ who is as beautiful as a flower,
 and you also married the cowherd girl Nappinnai:  
 You gave me your grace so that I keep your feet in my mind:  
 You are Puṇḍarigan and you stay in Srirangam  
-surrounded by the Ponni river:
+surrounded by the Ponni river:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८०६</summary>
@@ -4877,7 +4877,7 @@ and conquered and killed the king Ravaṇa,
 making his ten garlanded heads fall to the ground:  
 You are Thirumāl of Kuḍandai  
 where wise, faultless Vediyars with sacred threads  
-recite the Vedas and worship you:
+recite the Vedas and worship you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८०७</summary>
@@ -4961,7 +4961,7 @@ and kills his enemies with his discus
 is Puṇḍarigan of Kuḍandai  
 where young women whose long beautiful hair  
 is decorated with kongu flowers  
-play in the cool abundant water:
+play in the cool abundant water:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८०८</summary>
@@ -5045,7 +5045,7 @@ you split open the mouth of the Asuran Kesi
 when he came as a horse,  
 and you measured the earth with your feet:  
 You stay in of Kuḍandai,  
-giving boons to Vediyars skilled in the Vedas:
+giving boons to Vediyars skilled in the Vedas:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८०९</summary>
@@ -5134,7 +5134,7 @@ killed the Asurans Vakkaran, Karan and Muran
 and sent their heads to Yama:  
 You, a cowherd, stay in flourishing Kuḍandai  
 with ponds and blooming groves  
-and rich fields protected by many fences:
+and rich fields protected by many fences:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८१०</summary>
@@ -5212,7 +5212,7 @@ O god of Thiruvenkaṭam where cool rain falls abundantly
 and bamboo plants grow tall and touch the sky,  
 aren’t you Thirumāl who rests on the ocean  
 in Kuḍandai surrounded by cool blooming groves  
-dripping with honey?
+dripping with honey?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८११</summary>
@@ -5285,7 +5285,7 @@ and dug up the earth and brought up the trembling earth goddess?
 You stay in the temple in Kuḍandai on the bank of the Kaviri  
 where the river spreads into many channels:  
 Get up, come and speak to us:  
-We praise you, O Kesava:
+We praise you, O Kesava:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८१२</summary>
@@ -5373,7 +5373,7 @@ You, the mighty god who took the form of a lion
 and split open the chest of the angry Hiraṇyan  
 with strong round arms, stay in Kurungudi  
 where Valai fish leap and make large palm fruits  
-fall into a pond, frightening a cow bathing there:
+fall into a pond, frightening a cow bathing there:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८१३</summary>
@@ -5464,7 +5464,7 @@ remove the bad karma
 of those who do yoga and approach you:  
 In Paḍaham, filled with beautiful palaces and hills,  
 you are in a seated form and in Tiruvuraham, you stand,  
-but why are you lying down in Thiruvehka?
+but why are you lying down in Thiruvehka?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८१४</summary>
@@ -5546,7 +5546,7 @@ O father, you are stand in Thiruvuraham,
 in Paḍaham you are seated and you recline in Thiruvehka:  
 When you took those forms, I was not born,  
 and since I was born I have not forgotten any of your forms  
-because you really stand, sit and rest in my heart:
+because you really stand, sit and rest in my heart:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८१५</summary>
@@ -5631,7 +5631,7 @@ because you really stand, sit and rest in my heart:
 The ancient god who stands in the Venkaṭam hills,  
 stays in heaven in the sky  
 and rests on the wide ocean with rolling waves snake bed Adishesha:  
-He, Madhavan, standing, sitting and resting in my heart, is a wonder:
+He, Madhavan, standing, sitting and resting in my heart, is a wonder:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८१६</summary>
@@ -5711,7 +5711,7 @@ No one lives forever in this world:
 You see this, O low people,  
 but you do not want to worship the feet  
 of the god who measured the world:  
-Don’t you want to go to heaven and be with the gods?
+Don’t you want to go to heaven and be with the gods?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८१७</summary>
@@ -5797,7 +5797,7 @@ you will go through the world of the sun,
 reach moksha and find undiminished love and joy:  
 The virtuous god whose feet are as beautiful as lotuses  
 will listen to your prayers  
-and remove your bad karma and sorrow:
+and remove your bad karma and sorrow:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८१८</summary>
@@ -5879,7 +5879,7 @@ will not achieve moksha:
 There is no way for them to go to heaven:  
 If you want to survive,  
 you must praise the good god Thirumāl  
-adorned with fresh thulasi garlands:
+adorned with fresh thulasi garlands:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८१९</summary>
@@ -5966,7 +5966,7 @@ You live thinking they are your refuge:
 If you want to survive,  
 there is only one refuge for you, our Thirumāl:  
 If you wish to release yourself from births,  
-worship our ancient Thirumāl::
+worship our ancient Thirumāl::  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८२०</summary>
@@ -6048,7 +6048,7 @@ ran everywhere and hid
 when Bānasuran came to fight with them:  
 On that day our Thirumāl fought with him  
 and cut off his thousand arms,  
-and took away all the troubles of the gods:
+and took away all the troubles of the gods:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८२१</summary>
@@ -6132,7 +6132,7 @@ came to fight with him,
 Kaṇṇan cut off his thousand arms  
 and Shiva, Agni and the other gods  
 who had come to help Bānasuran retreated:  
-Then, the Māyan forgave the Asuran and gave him moksha:
+Then, the Māyan forgave the Asuran and gave him moksha:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८२२</summary>
@@ -6221,7 +6221,7 @@ the earth goddess stays with Thirumāl,
 while Nānmuhan, the god’s son, sits on the lotus on his navel:  
 The sastras say that Shiva who shares his body with his wife  
 became his vehicle:  
-That is the truth and no one can deny it:
+That is the truth and no one can deny it:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८२३</summary>
@@ -6302,7 +6302,7 @@ and made holes in the seven mara trees:
 As Rāma, he shot his arrows at Vali's chest and killed him:  
 Even the rulers of the sky  
 will not receive the endless joy of moksha  
-unless our god has given them his grace to receive it:
+unless our god has given them his grace to receive it:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८२४</summary>
@@ -6385,7 +6385,7 @@ who took the form of Vāmanan and worship him,
 you will have wealth and wonderful wisdom:  
 If you praise Thirumāl  
 who rests on the ocean with its clear rolling waves,  
-you will not have the results of your bad karma:
+you will not have the results of your bad karma:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८२५</summary>
@@ -6464,7 +6464,7 @@ you will not have the results of your bad karma:
 Only those who do good tapas thinking only of the lord  
 and who think constantly of the nature of Thirumāl  
 will go to heaven and stay with the other gods forever:  
-Except for those devotees no one can see the lovely-eyed Thirumāl:
+Except for those devotees no one can see the lovely-eyed Thirumāl:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८२६</summary>
@@ -6539,7 +6539,7 @@ Except for those devotees no one can see the lovely-eyed Thirumāl:
 Only if people control the feelings that arise from their senses  
 and light up their wisdom by following the good path  
 and melt in their bones and hearts for him  
-and love him who carries a discus can they see him: CHECK
+and love him who carries a discus can they see him: CHECK  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८२७</summary>
@@ -6623,7 +6623,7 @@ The ancient lord is eight and eight and eight,
 he is seven and seven and seven,  
 and he is eight and three and one:  
 Devotees worshiping with the eight letter mantra,  
-“Om namo Nārāyaṇāya,” will go to heaven and rule there:
+“Om namo Nārāyaṇāya,” will go to heaven and rule there:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८२८</summary>
@@ -6714,7 +6714,7 @@ and think of him always in their minds,
 reciting the eight-letter mantra with love  
 and worshiping the beautiful ankleted feet  
 of the god who rests on the snake bed on the ocean,  
-they will go to heaven and rule there:
+they will go to heaven and rule there:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८२९</summary>
@@ -6796,7 +6796,7 @@ the nine notes of music, the nine rasas of dance
 and he, the ancient and the most powerful one,  
 came to this world in ten avatharams:  
 Only if devotees worship him with devotion  
-will they reach moksha:
+will they reach moksha:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८३०</summary>
@@ -6867,7 +6867,7 @@ When the Asuran Thenugam approached the lord without love
 pretending to be his friend, he cut off his arms  
 but then he gave him moksa:  
 No one can reach moksha except the devotees  
-who worship the ankleted feet of the lord with love::
+who worship the ankleted feet of the lord with love::  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८३१</summary>
@@ -6956,7 +6956,7 @@ who churned the milky ocean
 and rests on the ocean forever:  
 He gave his grace to Vāli after killing him,  
 and destroyed the seven trees with one arrow  
-If you worship the feet of Thirumāl you will be saved:
+If you worship the feet of Thirumāl you will be saved:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८३२</summary>
@@ -7043,7 +7043,7 @@ the highest of the high,
 are the incomparable one whom no one can know:  
 If devotees have destroyed their desires  
 and released themselves from attachment to the world,  
-they will receive happiness here, there and everywhere in all ways:
+they will receive happiness here, there and everywhere in all ways:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८३३</summary>
@@ -7130,7 +7130,7 @@ they will receive happiness here, there and everywhere in all ways:
 O you who wear cool thulasi garlands that drip pollen,  
 if someone controls his mind and worships you  
 with the eight letter mantra, “Om Namo Narayanaya,”  
-the joy he receives is higher than the joy of attaining moksha:
+the joy he receives is higher than the joy of attaining moksha:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८३४</summary>
@@ -7220,7 +7220,7 @@ Does he know the day he made me love his ankleted feet?
 I am ignorant, incapable of doing anything,  
 and do not know how to love him:  
 O dear lord, what did you find in me  
-to make me your devotee?
+to make me your devotee?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८३५</summary>
@@ -7319,7 +7319,7 @@ You are truly clever:
 If you make me fascinated with you,  
 what kind of fascination is that?  
 O Māyan, give me your grace  
-so I am not involved in worldly things:
+so I am not involved in worldly things:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८३६</summary>
@@ -7401,7 +7401,7 @@ stirring the water in the pond,
 O you who carry a conch in your hand:  
 I worship your beautiful feet every day  
 and think of you always:  
-Why have you not granted me moksha yet, O Kaṇṇa:
+Why have you not granted me moksha yet, O Kaṇṇa:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८३७</summary>
@@ -7484,7 +7484,7 @@ Shiva with an eye in his forehead,
 the wise Nānmuhan staying on the lotus  
 and all other gods together worship your feet with love:  
 I will not speak of any other love  
-except the love that I have for you:
+except the love that I have for you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८३८</summary>
@@ -7567,7 +7567,7 @@ and the white-fanged snake Vasuki for the rope:
 He took the nectar that came from the ocean,  
 gave it to the gods in the sky,  
 and took away their troubles:  
-I will not worship any one except him:
+I will not worship any one except him:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८३९</summary>
@@ -7648,7 +7648,7 @@ destroyed the Kauravas
 and gave the land to the five Pandavas,  
 sending their enemies to the sky  
 and saving the earth from evil ones:  
-O victorious one, I will not worship any other except you: :
+O victorious one, I will not worship any other except you: :  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८४०</summary>
@@ -7727,7 +7727,7 @@ I have not learned any of the good arts
 and do not recite the Vedas with my tongue:  
 I have not conquered the joy given by the senses:  
 O pure one, I have no good knowledge  
-and I have no refuge except your shining feet:
+and I have no refuge except your shining feet:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८४१</summary>
@@ -7813,7 +7813,7 @@ you burned countless Raksasas in Lanka:
 I have no eyes except yours that make me see  
 and no relatives to be with except you:  
 You have endless magic:  
-How can I ever take you from my heart?
+How can I ever take you from my heart?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८४२</summary>
@@ -7892,7 +7892,7 @@ and embraced the arms of Nappinnai and married her
 with spear-like eyes that attracted all,  
 you created the oceans, you churned the milky ocean  
 and you rest on it: I come to you as my refuge:  
-Give me refuge, tell me, “Don’t be afraid!”
+Give me refuge, tell me, “Don’t be afraid!”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८४३</summary>
@@ -7980,7 +7980,7 @@ give your grace to those who love and worship your feet:
 You, as sweet as a bundle of sugarcane,  
 are Kaṇṇan resting on the ocean:  
 As Rāma, you shot powerful arrows with your bow  
-and destroyed the iron forts of Lanka:
+and destroyed the iron forts of Lanka:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८४४</summary>
@@ -8063,7 +8063,7 @@ the purity in all,
 the sky and the earth,  
 the rich ocean and the things in it:  
 There is nothing without you:  
-You are our god and you are Rāma:
+You are our god and you are Rāma:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८४५</summary>
@@ -8156,7 +8156,7 @@ Even if you want me to have desires
 and enjoy the pleasures of the five senses,  
 my only desire is to be with you:  
 I have no eyes except you,  
-O my king who rest on the ocean:
+O my king who rest on the ocean:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८४६</summary>
@@ -8238,7 +8238,7 @@ for all the seven yugas, it would not be enough,
 O god worthy of limitless praise:  
 O Pundariga! Please give me a boon  
 so I may escape from all my endless births  
-and come to your ankleted feet:
+and come to your ankleted feet:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८४७</summary>
@@ -8319,7 +8319,7 @@ a discus, conch, club, bow and sword:
 O lord with Lakshmi seated on a red lotus on your chest,  
 give me your grace so I will be saved  
 from the births that give sickness and sorrow:  
-Show me a way to come to you:
+Show me a way to come to you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८४८</summary>
@@ -8402,7 +8402,7 @@ and now I have no cunning or fault,
 none of the desires that the five senses bring:  
 I am like a dog and my only desire is to be with you:  
 O Māyan, give me the boon  
-of not being born and dying anymore and I will not forget you:
+of not being born and dying anymore and I will not forget you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८४९</summary>
@@ -8486,7 +8486,7 @@ My soul is tied to you:
 I hear that the messengers of Yama  
 encourage people to be involved in cruel sins,  
 but I have locked you up in my heart with Nappinnai  
-and you save me from committing those sins:
+and you save me from committing those sins:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८५०</summary>
@@ -8569,7 +8569,7 @@ You save people even if they are evil, forgetting all good deeds,
 thinking themselves wise and not understanding  
 that births cause them suffering in this world,  
 Give me your grace and make me your devotee  
-so I may worship your feet through devotion for you always:
+so I may worship your feet through devotion for you always:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८५१</summary>
@@ -8653,7 +8653,7 @@ I want to ask you one thing,
 O you who have the color of the ocean:  
 If I worship you and always want to think of you in my mind,  
 won’t you also consider giving me your grace  
-so I may keep your lotus feet in my heart forever?
+so I may keep your lotus feet in my heart forever?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८५२</summary>
@@ -8734,7 +8734,7 @@ so that they will take away all my troubles:
 You, the victorious divine hero, took the form of a boar  
 and carried Govardhana mountain  
 to save the cows by sheltering them from the storm:  
-O lord, tell me how I can not be born and suffer in this world:
+O lord, tell me how I can not be born and suffer in this world:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८५३</summary>
@@ -8816,7 +8816,7 @@ O dark-colored god with the beautiful Lakshmi on your chest,
 You, are faultless, the god of gods  
 and the god of justice proclaimed by the Vedas:  
 Give me your grace  
-so I may recite your names without ever ceasing:
+so I may recite your names without ever ceasing:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८५४</summary>
@@ -8897,7 +8897,7 @@ who cut off the heads of the Asuras Vakkaran, Karan and Muran
 when they came in anger to fight you,  
 give me your grace so I may always worship your feet  
 adorned with golden anklets  
-whether I am resting, standing or walking:
+whether I am resting, standing or walking:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८५५</summary>
@@ -8978,7 +8978,7 @@ and you begged for land and took it from Mahābali,
 measuring it till there was no place you had not taken:  
 O lord with lotus eyes who embrace the woman  
 whose sweet words surpass music,  
-there is no other color like your color:
+there is no other color like your color:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८५६</summary>
@@ -9064,7 +9064,7 @@ when he came angrily to fight with you
 and you carried Govardhana mountain to save the cows  
 when the storm came to destroy the cowherd village:  
 My heart loves nothing except your fame  
-that is spread everywhere:
+that is spread everywhere:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८५७</summary>
@@ -9144,7 +9144,7 @@ You destroyed the angry king of Kasi,
 Vakkaran, Pavuṇḍran, the furious Maliman,  
 Sumali, Kesi and Thenugan:  
 I will not give my love and affection to anyone,  
-only to your anklet-adorned feet:
+only to your anklet-adorned feet:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८५८</summary>
@@ -9244,7 +9244,7 @@ who has the power of destroying the world
 or the world of thousand-eyed Indra,  
 even if I could have all the pleasures of moksha,  
 I would not accept or think of anything  
-except to be with you:
+except to be with you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८५९</summary>
@@ -9332,7 +9332,7 @@ and touched the sky:
 All the sages recite the Vedas,  
 praise you and say that you are the god of gods  
 and you destroy the evil of the proud,  
-and I join them in your praise:
+and I join them in your praise:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८६०</summary>
@@ -9411,7 +9411,7 @@ wearing a cool thulasi garland that swarms with bees,
 I, a dog, bow to you and worship you:  
 who are colored like the ocean and rest on the water of the sea:  
 You enter the thoughts of your devotees:  
-Forgive all my faults and give me your grace:
+Forgive all my faults and give me your grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८६१</summary>
@@ -9500,7 +9500,7 @@ Sages say that even they who slander you like Sisupalan
 or fight with you like Ravaṇa in Lanka  
 have reached your world and joined with you by your grace O Māyan:  
 Take the mistakes that I, as low as a dog,  
-do as good deeds and forgive me:
+do as good deeds and forgive me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८६२</summary>
@@ -9588,7 +9588,7 @@ and the time of our death will come near:
 Bow to the divine feet of the god and worship him:  
 You should know that being a devotee of the god  
 is the only good thing: Only the feet of Thirumāl  
-can give you the joy of never being born again:
+can give you the joy of never being born again:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८६३</summary>
@@ -9678,7 +9678,7 @@ and Nanmuhan’s skull was stuck to Shiva’s palm,
 our god whose chest is adorned with a fragrant garland  
 gave his blood and made Nanmuhan’s skull fall away:  
 O heart, think of the god’s thulasi garland and worship him  
-so that you will reach his Vaikuṇṭam:
+so that you will reach his Vaikuṇṭam:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८६४</summary>
@@ -9768,7 +9768,7 @@ O heart, if you want to remove the eight bad thoughts
 and live without fault and reach moksha and rule the world,  
 you must think and worship the feet of the god, our father,  
 who is wisdom, the sun, and the world,  
-who took the form of a single-tusked boar and split open the earth:
+who took the form of a single-tusked boar and split open the earth:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८६५</summary>
@@ -9848,7 +9848,7 @@ Our ruler and our mother, he destroys all our births,
 makes us his devotees and gives us his grace:  
 O poor heart! He is Mukundan, the ancient one:  
 If we worship him he will enter us, stay with us  
-and remove our ocean of sorrow:
+and remove our ocean of sorrow:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८६६</summary>
@@ -9940,7 +9940,7 @@ burned it, killed Ravaṇa and conquered Lanka:
 My god does not think that I am like his enemies:  
 Yama will not think of the sins  
 I have done and afflict me  
-because I am a devotee of the god:
+because I am a devotee of the god:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८६७</summary>
@@ -10022,7 +10022,7 @@ and all your births:
 Achudan, Anandan, the lord who fulfills his promises,  
 and has no beginning or end  
 rests on the snake bed  
-and is praised by the Vedas:
+and is praised by the Vedas:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८६८</summary>
@@ -10101,7 +10101,7 @@ I worshipped you with my words and in my deeds
 and loved you unceasingly,  
 night and day, morning and evening:  
 My heart worshiped your lotus feet  
-and now it stays with you and will never come back to me:
+and now it stays with you and will never come back to me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८६९</summary>
@@ -10185,7 +10185,7 @@ O Māyan with the color of a kāyām flower,
 god of Srirangam surrounded by the Ponni river, hear me:  
 My heart has given up my bad karma  
 and worships your shining flower feet  
-remaining with them without ever growing tired:
+remaining with them without ever growing tired:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८७०</summary>
@@ -10272,7 +10272,7 @@ took away all my future births and saved me today:
 You came to me, entered my heart and bewitched me  
 and now my soul has been released from all pain  
 and has attained moksha, the house of joy:  
-------------
+------------  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८७१</summary>

@@ -49,7 +49,7 @@ aren’t the bangles that I wear on my hands
 as precious as the conch that he carries in his hand?  
 Won’t the lord of Srirangam  
 resting on the fiery-faced snake look at me?  
-It is very hard for me, very hard:
+It is very hard for me, very hard:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६०७</summary>
@@ -124,7 +124,7 @@ the sweet nectar-like lord of Srirangam
 with his beautiful hair, mouth and eyes  
 and a lovely lotus on his navel with Nānmuhan on it  
 made my bangles loosen and fall:  
-Did he take them so he could wear them?
+Did he take them so he could wear them?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६०८</summary>
@@ -199,7 +199,7 @@ rules the world surrounded by roaring oceans
 and the world of the sky, keeping trouble away from them:  
 Would my bangles that he has made loose  
 help him remove all the troubles of the world  
-and keep it prosperous?
+and keep it prosperous?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६०९</summary>
@@ -269,7 +269,7 @@ made him pour water on his hands,
 cheated him and took his lands:  
 Wasn’t that enough for him?  
 If he wants my bangles also can’t he come to my street  
-and ask for them?
+and ask for them?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६१०</summary>
@@ -343,7 +343,7 @@ by pouring water on his golden hands
 and measured all the worlds and the sky:  
 We are poor and have little:  
 It seems he wants to take the little things  
-that we have in our hands:
+that we have in our hands:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६११</summary>
@@ -423,7 +423,7 @@ carrying riches from everywhere and nourishing the fields:
 He is the inner meaning of the four Vedas  
 and cannot be reached by anyone, high or low:  
 He already stole my bangles  
-and now he has stolen my heart:
+and now he has stolen my heart:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६१२</summary>
@@ -498,7 +498,7 @@ and he made a bridge over the ocean
 to bring her back from Lanka:  
 We are separated from him,  
 but he doesn’t worry about us  
-and thinks only of making himself happy:
+and thinks only of making himself happy:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६१३</summary>
@@ -570,7 +570,7 @@ and rescued the earth goddess
 when an Asuran hid her in the underworld:  
 Even if I don’t want to think of the promises  
 that the beautiful shining god of Srirangam made to me,  
-I cannot forget them:
+I cannot forget them:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६१४</summary>
@@ -640,7 +640,7 @@ When Sisupalan wanted to marry Rukmini,
 after all the arrangements had made,  
 Kannan fought him, took Rukmini with him and married her:  
 Sriranganathan, the lord of Srirangam,  
-will help me as he helped Rukmani:
+will help me as he helped Rukmani:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६१५</summary>
@@ -724,7 +724,7 @@ Vishṇuchithan composed pāsurams
 describing the love between Kaṇṇan and the cowherd women:  
 They said, “the lord says, ‘I love those who love me,’  
 but though we love him he does not love us:  
-He lies to us, but how can we prove it?”
+He lies to us, but how can we prove it?”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६१६</summary>

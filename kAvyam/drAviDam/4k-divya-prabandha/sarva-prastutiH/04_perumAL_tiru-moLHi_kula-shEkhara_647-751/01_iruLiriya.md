@@ -64,7 +64,7 @@ that remove the darkness with their bright diamonds,
 as the god’s feet are washed  
 by the clear water of the Ponni river flowing  
 in the Thiruppadi of Srirangam:  
-When will my two eyes see him and feel happy?
+When will my two eyes see him and feel happy?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६४७</summary>
@@ -149,7 +149,7 @@ and rests on the water in Srirangam
 on the fiery snake that has a curving body  
 and a thousand heads that spit fire  
 and that looks like a canopy made of fresh flowers:  
-When will I see him?
+When will I see him?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६४८</summary>
@@ -242,7 +242,7 @@ and eight beautiful eyes praises him with his four tongues?
 Our dear lord shining like pure gold  
 keeps Nānmuhan on a lovely lotus on his navel  
 while he sleeps on the beautiful snake bed in Srirangam:  
-When will I see him?
+When will I see him?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६४९</summary>
@@ -341,18 +341,18 @@ When will I see him?
 
 <details><summary>Hart - DP_६५०</summary>
 
-When will the day come when I fold my hands
-     and worship the ocean-colored lord,
-     sprinkling pure fresh flowers with my hands
-     for him who split open the beak of the bird?
-     He is strong as a bull among the cowherds,
-     the king of the gods in the sky,
-     and is sweet Tamil and Sanskrit poetry.
-     The lord who carried Govardhana mountain to save the cows
-     rests on a snake bed in Srirangam
-     where sages without attachment
-     praise him with their tongues.
-     When will I see him?
+When will the day come when I fold my hands  
+and worship the ocean-colored lord,  
+sprinkling pure fresh flowers with my hands  
+for him who split open the beak of the bird?  
+He is strong as a bull among the cowherds,  
+the king of the gods in the sky,  
+and is sweet Tamil and Sanskrit poetry.  
+The lord who carried Govardhana mountain to save the cows  
+rests on a snake bed in Srirangam  
+where sages without attachment  
+praise him with their tongues.  
+When will I see him?  
 </details>
 </details>
 ## ०५ इणैयिल्लाविन्निशैयाऴ् कॆऴुमि
@@ -417,7 +417,7 @@ He is praised by Narada and the rishi Thumburu there ,
 playing sweet matchless music on their yāzhs  
 and Nānmuhan, adorned with beautiful flowers,  
 worships him constantly with the incomparable ancient Vedas:  
-When will I see him?
+When will I see him?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६५१</summary>
@@ -503,7 +503,7 @@ Nānmuhan who stays on a beautiful lotus,
 Shiva, Indira and all other gods, Apsarases  
 and wise sages join together and sprinkle flowers  
 in all the directions and worship him there:  
-When will I see him?
+When will I see him?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६५२</summary>
@@ -591,7 +591,7 @@ helps them control their five senses
 and relieves them of the burden of their troubles and sickness,  
 making them his devotees  
 so they can follow the ways of dharma in their minds:  
-When will I see him?
+When will I see him?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६५३</summary>
@@ -680,7 +680,7 @@ surrounded by groves and flourishing fields where fish frolic?
 He protects the world with his long bent bow, conch,  
 sword, his discus that destroys his enemies  
 and his vehicle Garuḍa that flies in the sky:  
-When will I see him?
+When will I see him?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६५४</summary>
@@ -771,7 +771,7 @@ and devotees, joined together in a group
 and loving the lord in their minds,  
 sing devotional songs,  
 shed tears like rain and praise him happily?  
-When will I see him?
+When will I see him?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६५५</summary>
@@ -860,7 +860,7 @@ the people of the world survive,
 the sorrow of people disappears,  
 good health increases in the world  
 and his devotees live happily?  
-When will I see him?
+When will I see him?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६५६</summary>
@@ -933,17 +933,17 @@ When will I see him?
 
 <details><summary>Hart - DP_६५७</summary>
 
-Kulasekaran, the king with a strong army
-     who carries a victorious shining sword
-     and sits under a royal umbrella,
-     composed ten Tamil pāsurams praising the lord of Srirangam
-     who rests on the snake bed on Ponni river.
-     If devotees learn these pāsurams well and recite them
-     they will stay under the feet of Nāraṇan
-     who showers goodness to all.
------------
+Kulasekaran, the king with a strong army  
+who carries a victorious shining sword  
+and sits under a royal umbrella,  
+composed ten Tamil pāsurams praising the lord of Srirangam  
+who rests on the snake bed on Ponni river.  
+If devotees learn these pāsurams well and recite them  
+they will stay under the feet of Nāraṇan  
+who showers goodness to all.  
+-----------  
 
-Lord of Southern Thiruvarangam.
+Lord of Southern Thiruvarangam.  
 </details>
 
 <details><summary>Info - DP_६५७</summary>

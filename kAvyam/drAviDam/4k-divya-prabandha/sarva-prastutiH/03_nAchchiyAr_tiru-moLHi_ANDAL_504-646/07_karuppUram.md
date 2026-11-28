@@ -52,7 +52,7 @@ of the mouth of Mādhavan
 who broke the tusks of the elephant?  
 Does it have the fragrance of camphor?  
 Does it have the fragrance of a lotus flower?  
-Does his beautiful red coral mouth taste sweet?
+Does his beautiful red coral mouth taste sweet?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५६७</summary>
@@ -127,7 +127,7 @@ O beautiful conch born in the ocean,
 you entered the body of the Asuran Panchajanya  
 and now you rest in his hand,  
 making the sound of victory  
-when he conquers the evil Asurans:
+when he conquers the evil Asurans:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५६८</summary>
@@ -200,7 +200,7 @@ You are a wonderful conch!
 Like the full moon that rises in the autumn  
 from behind the large mountain,  
 you stay in the hands of Vasudevan  
-the king of northern Madura:
+the king of northern Madura:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५६९</summary>
@@ -272,7 +272,7 @@ you are like the moon even though you are not in the sky:
 As you stay in the hand of Damodaran,  
 do you say any mantras in his ears?  
 Even Indra the king of gods  
-does not have the fortune that you have:
+does not have the fortune that you have:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५७०</summary>
@@ -340,7 +340,7 @@ O Panchajanya!
 Others were born along with you in the ocean,  
 but they do not receive the respect that you do:  
 You drink constantly the nectar from the mouth  
-of the king Madhusūdanan:
+of the king Madhusūdanan:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५७१</summary>
@@ -411,7 +411,7 @@ yet you rest in the hands of lovely-eyed Thirumāl
 who destroyed the Asurans  
 when they came as marudam trees:  
 You have the good fortune of plunging  
-into the divine water that comes from his mouth:
+into the divine water that comes from his mouth:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५७२</summary>
@@ -473,11 +473,11 @@ into the divine water that comes from his mouth:
 
 <details><summary>Hart - DP_५७३</summary>
 
-O king of conches,
-     like a swan that stays on a fresh red lotus flower and drinks honey,
-     you are held in the beautiful hands of Vasudevan
-     with a dark body and red eyes and you stay with him.
-     Your good fortune is truly wonderful.
+O king of conches,  
+like a swan that stays on a fresh red lotus flower and drinks honey,  
+you are held in the beautiful hands of Vasudevan  
+with a dark body and red eyes and you stay with him.  
+Your good fortune is truly wonderful.  
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५७३ - ०७</summary>
@@ -537,12 +537,12 @@ O king of conches,
 
 <details><summary>Hart - DP_५७४</summary>
 
-O Panchajanya, your food is the nectar
-     that springs from the mouth of him
-     who measured the world
-     and you sleep in the hands of the ocean-colored god.
-     You make women jealous
-     and they complain loudly about your good luck,
+O Panchajanya, your food is the nectar  
+that springs from the mouth of him  
+who measured the world  
+and you sleep in the hands of the ocean-colored god.  
+You make women jealous  
+and they complain loudly about your good luck,  
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५७४ - ०८</summary>
@@ -607,7 +607,7 @@ who drink nectar from the mouth of Madhavan
 as if you were drinking honey,  
 won’t his sixteen thousand wives be angry  
 when they see you with him  
-drinking the nectar that all others want to drink?
+drinking the nectar that all others want to drink?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५७५</summary>
@@ -662,14 +662,14 @@ drinking the nectar that all others want to drink?
 
 <details><summary>Hart - DP_५७६</summary>
 
-Paṭṭarpirān Kodai, famed in rich Puduvai,
-     composed ten Tamil pāsurams
-     describing Padmanābhan with the Panchajanya conch.
-     If devotees learn and recite these pāsurams
-     they will be near him..
---------------
+Paṭṭarpirān Kodai, famed in rich Puduvai,  
+composed ten Tamil pāsurams  
+describing Padmanābhan with the Panchajanya conch.  
+If devotees learn and recite these pāsurams  
+they will be near him..  
+--------------  
 
-The cloud messenger
+The cloud messenger  
 </details>
 
 <details><summary>Info - DP_५७६</summary>

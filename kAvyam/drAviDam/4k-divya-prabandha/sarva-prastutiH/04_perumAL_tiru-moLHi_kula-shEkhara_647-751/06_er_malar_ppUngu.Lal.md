@@ -59,7 +59,7 @@ because you lied to them:
 I am standing on a sand dune  
 on the bank of the Yamuna river  
 shaking in the cold that comes after a strong rain:  
-O Vasudeva, I am waiting for you to come:”
+O Vasudeva, I am waiting for you to come:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६९८</summary>
@@ -141,7 +141,7 @@ and you entered her house like a thief and said,
 When the girl with long beautiful hair  
 that was decorated with flowers swarming with bees  
 saw you, her bright face sweated and her red mouth quivered:  
-O Damodara, I know truly how you churn the yogurt!”
+O Damodara, I know truly how you churn the yogurt!”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६९९</summary>
@@ -227,7 +227,7 @@ and you embraced a curly-haired young girl,
 but you are not true to any of them:  
 O you who destroyed the wrestlers  
 when they came as marudu trees,  
-as you grow, your magic grows with you:”
+as you grow, your magic grows with you:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७००</summary>
@@ -309,7 +309,7 @@ Those who saw you called you crazy:
 I am here and I love you,  
 but you got together with the girl  
 I sent as a messenger and enjoyed her:  
-Is that also one of your naughty deeds?”
+Is that also one of your naughty deeds?”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७०१</summary>
@@ -390,7 +390,7 @@ as she looked at you,
 but you were also gesturing with your hands  
 to call another girl who saw you:  
 Why have you left them all and returned?  
-Dear one, go back to them now:”
+Dear one, go back to them now:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७०२</summary>
@@ -472,7 +472,7 @@ but other nights also:
 And after you embraced young girls,  
 you came back to me:  
 Why did you come back and leave them?  
-O dear one, get up and go to them:”
+O dear one, get up and go to them:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७०३</summary>
@@ -557,7 +557,7 @@ looking at your beautiful clothes, divine face,
 fruit-like red lips and listening to the music of your flute:  
 If we hear your lies for one day, that is enough:  
 Stop saying your cheating words to attract us:  
-O young one, please go away:”
+O young one, please go away:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७०४</summary>
@@ -639,7 +639,7 @@ Even though you brought a golden dress for me
 and lied that you love me before you went away,  
 when you come to see me again  
 I will still care for you,  
-and if I see you my anger may go away:”
+and if I see you my anger may go away:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७०५</summary>
@@ -721,7 +721,7 @@ You played sweet music on the flute for the girls,
 with hair adorned with fragrant kongu flowers  
 and flirted with them:  
 Would you come and play music  
-on your flute one day to enthrall us”
+on your flute one day to enthrall us”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७०६</summary>
@@ -796,17 +796,17 @@ on your flute one day to enthrall us”
 
 <details><summary>Hart - DP_७०७</summary>
 
-Kulasekharan, the chief of Kolli hills
-     composed ten sweet Tamil pāsurams
-     describing how the young cowherd girls
-     fell in love with the beloved of beautiful goddess Lakshmi
-     and how they expressed their wish
-     to fight with him lovingly in the night.
-     If devotees recite with music these ten sweet Tamil pāsurams
-     of Kulasekaran, they will have no troubles in life.
--------------
+Kulasekharan, the chief of Kolli hills  
+composed ten sweet Tamil pāsurams  
+describing how the young cowherd girls  
+fell in love with the beloved of beautiful goddess Lakshmi  
+and how they expressed their wish  
+to fight with him lovingly in the night.  
+If devotees recite with music these ten sweet Tamil pāsurams  
+of Kulasekaran, they will have no troubles in life.  
+-------------  
 
-Devaki's Lullaby to Krishna.
+Devaki's Lullaby to Krishna.  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_७०७</summary>

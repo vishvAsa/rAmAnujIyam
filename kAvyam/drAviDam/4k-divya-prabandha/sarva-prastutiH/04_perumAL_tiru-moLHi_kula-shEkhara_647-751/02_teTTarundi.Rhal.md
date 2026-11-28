@@ -59,7 +59,7 @@ and think only of Rangan of south Srirangam,
 as sweet as honey, hard to find,  
 decorated with garlands that never wither,  
 with the goddess of wealth seated on his chest,  
-that will be the purpose of this birth:
+that will be the purpose of this birth:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६५८</summary>
@@ -142,7 +142,7 @@ You cut down the tall mango tree with your shining sword
 and you grazed the cows,”  
 and if I can think only of him and call him,  
 dance, sing and worship the dust on his devotees’ feet,  
-why should I desire to bathe in the Ganges?
+why should I desire to bathe in the Ganges?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६५९</summary>
@@ -224,7 +224,7 @@ When I see your devotees as they make the front yard
 of Rangan’s temple wet with their tears  
 that are like the flow of abundant water of the rich Ponni river,  
 I will put on my head the good dust  
-that is beneath their divine feet:
+that is beneath their divine feet:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६६०</summary>
@@ -324,7 +324,7 @@ of the devotees who call, worship, melt and praise him, saying,
 You were not afraid that Yashoda might punish you  
 when she saw you stealing and eating the butter,  
 good yogurt and milk:  
-You stood there bravely and tapped your arms in front of her:”
+You stood there bravely and tapped your arms in front of her:”  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६६१</summary>
@@ -410,7 +410,7 @@ My mind trembles
 when I think of the devotees  
 whose bodies shake when they worship Rangan  
 of southern Srirangam  
-surrounded by strong shining stone walls:
+surrounded by strong shining stone walls:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६६२</summary>
@@ -495,7 +495,7 @@ the faultless good path to sinners
 who do not have devotion  
 and do not worship the divine feet of Thirumāl,  
 the lord without beginning or end,  
-the wonderful one, the dear god of the gods:
+the wonderful one, the dear god of the gods:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६६३</summary>
@@ -594,7 +594,7 @@ melting in their hearts as they worship him,
 a bright wonderful light,  
 Rangan of Srirangam, with a red mouth,  
 teeth like pearls, a body dark as a cloud  
-and a chest decorated with Thulasi garlands:
+and a chest decorated with Thulasi garlands:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६६४</summary>
@@ -678,7 +678,7 @@ swarming with bees and dripping with honey
 as he rests on the milky ocean:  
 My heart falls in love with those devotees  
 who are fascinated by him  
-and wander, sing, dance and worship Rangan, our dear lord:
+and wander, sing, dance and worship Rangan, our dear lord:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६६५</summary>
@@ -762,7 +762,7 @@ tremble, long for him in their hearts
 worship, dance and sing:  
 They seem mad but they are not:  
 It is those people who do not worship, dance, sing  
-and praise him who are truly mad:
+and praise him who are truly mad:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६६६</summary>
@@ -845,7 +845,7 @@ the beloved of Lakshmi:
 He abides in the minds of his true devotees  
 if they think only of him and serve him as his slaves:  
 If they learn and recite these pāsurams  
-they will become the devotees of his devotees:
+they will become the devotees of his devotees:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६६७</summary>

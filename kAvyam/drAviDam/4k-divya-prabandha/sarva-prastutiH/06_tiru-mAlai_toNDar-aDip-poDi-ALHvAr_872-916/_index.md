@@ -59,7 +59,7 @@ that come from the enjoyment of our five senses
 and we do not sin anymore:  
 The messengers of Yama cannot hurt us now:  
 We are brave because we have learned your names  
-and recite them, O god of Srirangam:
+and recite them, O god of Srirangam:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८७२</summary>
@@ -145,7 +145,7 @@ and tender child of the cowherds,
 I want only to praise you with these words:  
 I do not want anything  
 even if it were the gift of ruling Indra’s world,  
-O god of Srirangam:
+O god of Srirangam:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८७३</summary>
@@ -238,7 +238,7 @@ Many he spends as an innocent child and as a youth
 and the rest he spends suffering sickness, hunger,  
 old age and other ills:  
 I do not want to be born any more in this world,  
-O god of Srirangam:
+O god of Srirangam:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८७४</summary>
@@ -322,7 +322,7 @@ recited the three syllables of the word “Govinda”
 and received moksha  
 but even though I continually worship Rangan,  
 the crazy god who gave his grace to devotees like Ksatrabandu,  
-he has not taken away my births:
+he has not taken away my births:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८७५</summary>
@@ -424,7 +424,7 @@ Why do those base ones not become the devotees
 of the god whose chest is adorned with cool thulasi garlands,  
 singing and dancing his praise?  
 They only enjoy the food they eat and do not realize  
-that worshiping the god is like drinking nectar:
+that worshiping the god is like drinking nectar:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८७६</summary>
@@ -513,7 +513,7 @@ You do not become a devotee of the god Rangan
 whose walls are dharma:  
 You decorate the exterior wall that is your body  
 and live inside it as if you were a bird  
-concerned with nothing else:
+concerned with nothing else:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८७७</summary>
@@ -599,7 +599,7 @@ about the dharma of the mean religions, Buddhism and Jainism?
 If I think of any other god,  
 I promise that even if someone cuts off my head  
 I will not die because I am a devotee of the god:  
-The only god of gods destroyed Lanka with his bow:
+The only god of gods destroyed Lanka with his bow:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८७८</summary>
@@ -686,7 +686,7 @@ the bald-headed Jains, Buddhists and the Sakyas
 hate our religion and say terrible things about you:  
 It is better if they get sick and die rather than living:  
 When I hear their evil speech, it hurts me:  
-If I could, I would cut off their heads:
+If I could, I would cut off their heads:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८७९</summary>
@@ -774,7 +774,7 @@ unless you are in trouble:
 You should know one thing for sure:  
 there is no god except him:  
 Worship the ankleted feet of our father  
-who grazed the calves:
+who grazed the calves:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८८०</summary>
@@ -965,12 +965,12 @@ who grazed the calves:
 
 <details><summary>Hart - DP_८८२</summary>
 
-Our god, the protector of the world,
-     built a bridge on the large ocean, shooting one arrow,
-     and he fought with the king of the Rakshasas in Lanka.
-     You do not think of the beautiful temple
-     in Srirangam surrounded by forts,
-     and so you do not have good luck in this birth but waste your life.
+Our god, the protector of the world,  
+built a bridge on the large ocean, shooting one arrow,  
+and he fought with the king of the Rakshasas in Lanka.  
+You do not think of the beautiful temple  
+in Srirangam surrounded by forts,  
+and so you do not have good luck in this birth but waste your life.  
 </details>
 </details>
 ## १२ नमनुम् मुऱ्
@@ -1027,7 +1027,7 @@ and thought that hell is heaven:
 They forgot that the place of the many-named dear god Nambi  
 is Srirangam and they did not worship the god there:  
 They plunged into sorrow and I am worried  
-that they will have trouble in their lives:
+that they will have trouble in their lives:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८८३</summary>
@@ -1114,7 +1114,7 @@ adorned with a fragrant blooming thulasi garland:
 If ignorant people praise Srirangam,  
 all the hells that have been created for them  
 because of their enjoyment of the senses  
-will be destroyed and disappear:
+will be destroyed and disappear:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८८४</summary>
@@ -1205,7 +1205,7 @@ Indra the king of the gods comes and stays there:
 Such is lovely Srirangam:  
 You should take the food that the evil people eat  
 who do not praise Srirangam filled with beautiful groves  
-and give it to the dogs:
+and give it to the dogs:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८८५</summary>
@@ -1292,7 +1292,7 @@ If someone thinks he can escape birth
 only by worshiping the god,  
 his doubts about the god will go away  
 and he will understand  
-that Srirangam is the Thirupadi of the beautiful god:
+that Srirangam is the Thirupadi of the beautiful god:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८८६</summary>
@@ -1390,7 +1390,7 @@ and was caught in the love-nets of fish-eyed women:
 But the beautiful god said, “Come out!”  
 and entered my mind and made me love him:  
 Srirangam is the Thirupadi of the beautiful god  
-who made me love him:
+who made me love him:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८८७</summary>
@@ -1477,7 +1477,7 @@ My strong iron-like heart melted
 to see the sweet sugarcane-like god  
 of the wonderful temple in Srirangam  
 surrounded with groves swarming with bees:  
-How my eyes were delighted when I saw him!
+How my eyes were delighted when I saw him!  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८८८</summary>
@@ -1557,7 +1557,7 @@ where waves break on the banks
 and spray drops of water with foam:  
 My eyes that saw Kaṇṇan  
 with a red mouth as soft as a fruit shed tears:  
-What can I, a sinner, do?
+What can I, a sinner, do?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८८९</summary>
@@ -1648,7 +1648,7 @@ his feet are extended toward the east,
 his back is turned toward the north  
 and he looks toward Lanka in the south:  
 When I look at him as he rests my body melts:  
-O people of the world, what can I do?
+O people of the world, what can I do?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८९०</summary>
@@ -1779,13 +1779,13 @@ O people of the world, what can I do?
 
 <details><summary>Hart - DP_८९१</summary>
 
-The Māyanār who rests on a snake bed
-     in Srirangam where the water of the Kaviri flows over its banks,
-     has a beautiful divine chest,
-     strong arms, pure lotus eyes,
-     lovely coral lips and shining hair
-     and his body has the color of an emerald.
-     How could his devotees forget his beautiful form?
+The Māyanār who rests on a snake bed  
+in Srirangam where the water of the Kaviri flows over its banks,  
+has a beautiful divine chest,  
+strong arms, pure lotus eyes,  
+lovely coral lips and shining hair  
+and his body has the color of an emerald.  
+How could his devotees forget his beautiful form?  
 </details>
 </details>
 ## २१ पणिविऩाल् मऩमदु ऒऩ्ऱिप् पवळ वाय् अरङ्गऩार्क्कुत्
@@ -1828,13 +1828,13 @@ The Māyanār who rests on a snake bed
 
 <details><summary>Hart - DP_८९२</summary>
 
-O heart, you are humble
-     and you want me to make my mind one
-     with Rangan, whose mouth is red as coral.
-     You are strong and tell me
-     that I should always think of the god, beautiful as a jewel,
-     resting in the mountain-like temple of beautiful, precious gold.
-     Tell me how can I approach him?
+O heart, you are humble  
+and you want me to make my mind one  
+with Rangan, whose mouth is red as coral.  
+You are strong and tell me  
+that I should always think of the god, beautiful as a jewel,  
+resting in the mountain-like temple of beautiful, precious gold.  
+Tell me how can I approach him?  
 </details>
 </details>
 ## २२ पेशिऱ्ऱे पेशलल्लाल्
@@ -1890,7 +1890,7 @@ but you cannot really know his greatness:
 No one can know him unless they are faultless:  
 We can only worship him  
 who stays in the hearts of his faultless devotees:  
-O ignorant heart, can you speak of him? Tell me:
+O ignorant heart, can you speak of him? Tell me:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८९३</summary>
@@ -1980,7 +1980,7 @@ and its water rises and spreads through blooming groves:
 Our dear Thirumāl, our Esan, rests there on the river:  
 How can I live forgetting him  
 after seeing him resting on the water of the Kaveri?  
-I am to be pitied, I am to be pitied:
+I am to be pitied, I am to be pitied:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८९४</summary>
@@ -2076,7 +2076,7 @@ and flourishing with groves:
 O my heart, you are brave:  
 You know he is the one you really love,  
 but you love him secretly and spend your days  
-without telling anyone:
+without telling anyone:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८९५</summary>
@@ -2163,7 +2163,7 @@ and I am not a devotee in your eyes:
 What is there for me to be happy about?  
 O Nambi colored blue like the ocean,  
 I cry out for you: Show pity on me  
-and give me your grace, lord of Srirangam!
+and give me your grace, lord of Srirangam!  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८९६</summary>
@@ -2251,7 +2251,7 @@ Even though I have much time,
 I don’t praise your divine qualities with faultless words:  
 My heart doesn’t know how to love you:  
 O Ranga, I don’t have the fortune of being your devotee:  
-What can I do? I was born in vain:
+What can I do? I was born in vain:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८९७</summary>
@@ -2333,7 +2333,7 @@ in the wave-filled water as it tried to help the monkeys
 when they took mountains to build the bridge for Rāma to go to Lanka:  
 My heart is as hard as wood and I am a bad person:  
 I have not served the lord of Srirangam with my mind  
-and am tired and wretched:
+and am tired and wretched:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८९८</summary>
@@ -2422,7 +2422,7 @@ who came to protect the elephant Gajendra
 and grew angry at the crocodile that ate red meat:  
 Am I fit for him to come to me?  
 I am mean, like a dog and I have not served him:  
-What can I do? I was born in vain:
+What can I do? I was born in vain:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_८९९</summary>
@@ -2508,7 +2508,7 @@ O you with the bright color of the dark clouds:
 O Kaṇṇa! I cry out for you:  
 Whom do I have without you as my support?  
 Come and remove my sorrow,  
-you who are my mother, lord of Srirangam:
+you who are my mother, lord of Srirangam:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९००</summary>
@@ -2662,11 +2662,11 @@ you who are my mother, lord of Srirangam:
 
 <details><summary>Hart - DP_९०१</summary>
 
-I don’t have a pure mind and no good words come from my mouth.
-     I get very angry, shout and say bad things.
-     You are adorned with fresh thulasi garlands,
-     lord of Srirangam, surrounded by the Ponni river.
-     Tell me, what will happen to me, O my king.
+I don’t have a pure mind and no good words come from my mouth.  
+I get very angry, shout and say bad things.  
+You are adorned with fresh thulasi garlands,  
+lord of Srirangam, surrounded by the Ponni river.  
+Tell me, what will happen to me, O my king.  
 </details>
 </details>
 ## ३१ तवत्तुळार् तम्मिल् अल्लेऩ् तऩम् पडैत्तारिल् अल्लेऩ्
@@ -2709,12 +2709,12 @@ I don’t have a pure mind and no good words come from my mouth.
 
 <details><summary>Hart - DP_९०२</summary>
 
-O lord of Srirangam,
-     I have not done tapas like the sages, I am not wealthy,
-     and I am as useless as salty water for my friends and relatives.
-     I fell for women whose mouths are like coral
-     and became like dust when I didn’t have money.
-     You gave me this birth only to make me suffer.
+O lord of Srirangam,  
+I have not done tapas like the sages, I am not wealthy,  
+and I am as useless as salty water for my friends and relatives.  
+I fell for women whose mouths are like coral  
+and became like dust when I didn’t have money.  
+You gave me this birth only to make me suffer.  
 </details>
 </details>
 ## ३२ आर् त्तु
@@ -2770,7 +2770,7 @@ lord of beautiful Srirangam
 where bees sing and swarm in the groves,  
 I don’t know even one path to take to see you:  
 I am a thief, I am violent, stupid and rough:  
-I come to you: You are my refuge:
+I come to you: You are my refuge:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९०३</summary>
@@ -2847,7 +2847,7 @@ and fell into the passion of women with long hair:
 I told only lies and now I have no refuge:  
 I, a liar, come and stand before you, O lord, Ranga,  
 hoping that you will give me your grace:  
-I am a liar, a liar:
+I am a liar, a liar:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९०४</summary>
@@ -3006,7 +3006,7 @@ O my father who measured all the world with your feet,
 I, a sinner, will not worship anyone but you,  
 the lovely-eyed Thirumāl, my soul, my nectar,  
 my father, as dear to me as my life:  
-I am a sinner, truly I am a sinner:
+I am a sinner, truly I am a sinner:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९०६</summary>
@@ -3096,7 +3096,7 @@ O you who are like a sweet river:
 I suffer, caught in the net of doe-eyes women—  
 why don’t you look at me and give me your grace?  
 I have no one but you: I call you,  
-O ancient one, god of Srirangam:
+O ancient one, god of Srirangam:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९०७</summary>
@@ -3184,7 +3184,7 @@ surrounded by the clear water of the Kaviri:
 I am a poor person:  
 My dear lord doesn’t show me even a little compassion,  
 he doesn’t think, “He is pitiful, I should help him:”  
-What is this, O lord, Isn’t this a terrible thing to do?
+What is this, O lord, Isn’t this a terrible thing to do?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९०८</summary>
@@ -3263,7 +3263,7 @@ are happy with devotees
 if they abandon their wealth, understand divine truth,  
 know what will they be in the future,  
 control their five senses, shave their heads  
-and stay at your doorstep, living a quiet life:
+and stay at your doorstep, living a quiet life:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९०९</summary>
@@ -3351,7 +3351,7 @@ no one has to be born in a good family to become your slave:
 Even if someone is born like a dog  
 and doesn’t belong to the families of Vediyars,  
 if he worships your feet ornamented with sounding anklets,  
-it seems you will be happy with him,
+it seems you will be happy with him,  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९१०</summary>
@@ -3521,14 +3521,14 @@ it seems you will be happy with him,
 
 <details><summary>Hart - DP_९११</summary>
 
-O lord of Srirangam
-     with beautiful Lakshmi on your chest,
-     even if hunters kill animals cruelly,
-     burn and eat them,
-     if they think of you in their minds
-     and keep you there with love, worshiping you,
-     their bad karma will disappear
-     and they will not suffer.
+O lord of Srirangam  
+with beautiful Lakshmi on your chest,  
+even if hunters kill animals cruelly,  
+burn and eat them,  
+if they think of you in their minds  
+and keep you there with love, worshiping you,  
+their bad karma will disappear  
+and they will not suffer.  
 </details>
 </details>
 ## ४१ वाऩुळार् अऱियल् आगा वाऩवा ऎऩ्बर् आगिल्
@@ -3571,14 +3571,14 @@ O lord of Srirangam
 
 <details><summary>Hart - DP_९१२</summary>
 
-Even bad people who do evil things
-     and make others do evil deeds,
-     if they praise you saying, “You are the god of the sky.
-     Even the gods in the sky do not understand you
-     who are adorned with a thulasi garland
-     that swarms with bees,”
-     and if they become your slaves and offer food to your devotees,
-     they will become pure.
+Even bad people who do evil things  
+and make others do evil deeds,  
+if they praise you saying, “You are the god of the sky.  
+Even the gods in the sky do not understand you  
+who are adorned with a thulasi garland  
+that swarms with bees,”  
+and if they become your slaves and offer food to your devotees,  
+they will become pure.  
 </details>
 </details>
 ## ४२ पऴुदिलावॊऴुहलाऱ्ऱु प्पलशदुप्पेदिमार्हळ्
@@ -3646,7 +3646,7 @@ mingling with other devotees, worshiping them,
 giving them whatever they need  
 and sharing your things with them:”  
 Isn’t that the way you give grace to poor people  
-and make them worship you as your good devotees?
+and make them worship you as your good devotees?  
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_९१३ - ४२</summary>
@@ -3706,11 +3706,11 @@ and make them worship you as your good devotees?
 
 <details><summary>Hart - DP_९१४</summary>
 
-O lord of beautiful Srirangam,
-     if even Vediyars of the highest caste
-     who recite the six divine Upanishads and the four Vedas
-     disgrace your devotees,
-     they will become Pulaiyars in a moment.
+O lord of beautiful Srirangam,  
+if even Vediyars of the highest caste  
+who recite the six divine Upanishads and the four Vedas  
+disgrace your devotees,  
+they will become Pulaiyars in a moment.  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९१४</summary>
@@ -3804,7 +3804,7 @@ You came and gave your grace to the elephant Ganjendra,
 amazing the gods in the sky:  
 Why do people think of you as their refuge  
 and hope you will remove their suffering  
-when you do not show your grace to all like me?
+when you do not show your grace to all like me?  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९१५</summary>
@@ -3898,7 +3898,7 @@ who killed the strong well-fed elephant in flourishing Madurai
 that has beautiful palaces decorated with coral:  
 If devotees recite his simple pāsurams  
 they will become his sweet devotees:  
-----------------
+----------------  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_९१६</summary>

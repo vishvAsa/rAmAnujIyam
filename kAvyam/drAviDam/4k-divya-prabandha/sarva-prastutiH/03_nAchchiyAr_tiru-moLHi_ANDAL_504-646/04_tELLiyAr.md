@@ -49,7 +49,7 @@ is the generous Azhahiya Maṇāḷan of Thirumālirunjolai:
 If you want us to press his feet when he sleeps,  
 O kūḍal, you should come together:  
 Come and join the place you started:  
-Kūḍiḍu kūḍale:
+Kūḍiḍu kūḍale:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५३४</summary>
@@ -121,7 +121,7 @@ O kūḍal, if you want him to come here
 and hold my hands and embrace me,  
 you should come together:  
 Come and join the place you started:  
-Kūḍiḍu kūḍale:
+Kūḍiḍu kūḍale:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५३५</summary>
@@ -193,7 +193,7 @@ and by the other gods:
 O kūḍal, if you want that king to come to see us,  
 you should come together:  
 Come and join the place you started:  
-Kūḍiḍu kūḍale:
+Kūḍiḍu kūḍale:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५३६</summary>
@@ -267,7 +267,7 @@ to dance on the heads of strong Kālingan:
 O kūḍal, if you want that dancer to come to me,  
 you should come together:  
 Come and join the place you started:  
-Kūḍiḍu kūḍale:
+Kūḍiḍu kūḍale:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५३७</summary>
@@ -339,7 +339,7 @@ If you want him to come to the middle of our street
 in Madurai surrounded by big palaces and embrace us,  
 O kūḍal, you should come together:  
 Come and join the place you started:  
-Kūḍiḍu kūḍale:
+Kūḍiḍu kūḍale:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५३८</summary>
@@ -410,7 +410,7 @@ He is the victorious king of shining Madurai:
 O kūḍal, if you want him to come here to us,  
 you should come together:  
 Come and join the place where you started:  
-Kūḍiḍu kūḍale:
+Kūḍiḍu kūḍale:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५३९</summary>
@@ -482,7 +482,7 @@ and the heroic Kamsan who carried a victorious spear:
 O kūḍal, if you want that victorious hero to come to us,  
 you should come together:  
 Come and join the place where you started:  
-Kūḍiḍu kūḍale:
+Kūḍiḍu kūḍale:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५४०</summary>
@@ -553,7 +553,7 @@ if they do not want to love him:
 O kūḍal, if you want him to come to us,  
 you should come together:  
 Come and join the place where you started:  
-Kūḍiḍu kūḍale:
+Kūḍiḍu kūḍale:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५४१</summary>
@@ -624,7 +624,7 @@ and the sky with the other:
 O kūḍal, if you want him to come here to us,  
 you should come together:  
 Come and join the place where you started:  
-Kūḍiḍu kūḍale:
+Kūḍiḍu kūḍale:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५४२</summary>
@@ -697,7 +697,7 @@ from the mouth of the crocodile:
 O kūḍal, if you want him to come here to us,  
 you should come together:  
 Come and join the place where you started:  
-Kūḍiḍu kūḍale:
+Kūḍiḍu kūḍale:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_५४३</summary>
@@ -750,16 +750,16 @@ Kūḍiḍu kūḍale:
 
 <details><summary>Hart - DP_५४४</summary>
 
-The poet Vishṇuchithan Kodai composed ten pāsurams
-     about how the curly-haired cowherd women
-     praised the famous god of the world
-     and made a kūḍal so their love would be successful.
-     They longed to love, fight with, feel and embrace him.
-     If devotees learn these pāsurams well
-     they will not have the results of bad karma in their lives.
---------------
+The poet Vishṇuchithan Kodai composed ten pāsurams  
+about how the curly-haired cowherd women  
+praised the famous god of the world  
+and made a kūḍal so their love would be successful.  
+They longed to love, fight with, feel and embrace him.  
+If devotees learn these pāsurams well  
+they will not have the results of bad karma in their lives.  
+--------------  
 
-She asks the cuckoo to call the god.
+She asks the cuckoo to call the god.  
 </details>
 
 <details><summary>Info - DP_५४४</summary>

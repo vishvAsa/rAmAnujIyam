@@ -50,7 +50,7 @@ Do not give me troubles—
 I have no refuge but you:  
 I am like a crying child thinking of the love  
 of the mother who gave birth to it  
-even if she goes away when she is angry:
+even if she goes away when she is angry:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६८८</summary>
@@ -128,7 +128,7 @@ I am like her: You are my father,
 the lord of Vitruvakkoṭṭam  
 surrounded by forts that touch the sky:  
 Even if you are like a husband and possess me,  
-I will praise only your feet decorated with sounding anklets:
+I will praise only your feet decorated with sounding anklets:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६८९</summary>
@@ -203,7 +203,7 @@ Even if you do not look at me,
 I have no refuge except you:  
 I am like those who live depending on the rule  
 of a king decorated with garlands  
-even if, unconcerned, he causes them much pain:
+even if, unconcerned, he causes them much pain:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६९०</summary>
@@ -276,7 +276,7 @@ even when he cuts him with a knife and burns him:
 I am like that patient: Even if you cause me pain  
 that I must bear, I am enthralled by you:  
 I am your slave and look only for your grace  
-and think you are my only friend:
+and think you are my only friend:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६९१</summary>
@@ -349,7 +349,7 @@ where can I go and be saved except beneath your feet?
 I am like a huge bird that wanders  
 looking for the shore of the ocean with rolling waves  
 and, unable to find it, comes back  
-to the mast of a ship:
+to the mast of a ship:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६९२</summary>
@@ -419,7 +419,7 @@ even though the sun comes to the middle of the sky
 and burns them with its heat:  
 I am like those lotuses:  
 Even if you do not take away my bad karma,  
-my heart only melts for your endless grace:
+my heart only melts for your endless grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६९३</summary>
@@ -487,7 +487,7 @@ the green crops look at the huge dark clouds
 floating in the sky hoping it will rain:  
 I am like them: I am your slave:  
 Even if my troubles will not go away,  
-my heart will look only for you:
+my heart will look only for you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६९४</summary>
@@ -561,7 +561,7 @@ they cannot stay where they are but must join the ocean:
 I wish to join you as those rivers join the ocean:  
 O virtuous one who have the color of a dark shining cloud:  
 See, I have no way to find refuge  
-except to come to you for your grace:
+except to come to you for your grace:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६९५</summary>
@@ -632,7 +632,7 @@ O my father, lord of Vitruvakkoṭṭam,
 I want only you with a shining discus bright as lightning in your hand:  
 I think of you only as my wealth  
 and want no other riches:  
-I am your slave and I want only you:
+I am your slave and I want only you:  
 </details>
 
 <details><summary>प्रतिपदार्थः (UV) - DP_६९६</summary>
